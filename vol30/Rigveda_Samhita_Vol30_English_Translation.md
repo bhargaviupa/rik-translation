@@ -32493,6 +32493,228 @@ I will not even utter her name, no (woman) takes pleasure in that person ; may w
 > अहं । अस्मि । सहमाना । अथ । त्वं । असि । ससहिः ।  
 > उभे इति । सहस्वती इति । भूत्वी । सपत्नीं । मे । सहावहै ॥ ५ ॥
 
+### Printed p. 971
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधि अहं त्वत्प्रसादात्सहमानास्मि । सपत्न्या अभिभवित्री भवामि । अथापि च
+> त्वमपि सासहिरसि । तस्या अभिभवित्री भवसि । आवामुभे अपि सहस्वती अभिभवित्र्यौ भूत्वी
+> भूत्वा मे मम सपत्नीं सहावहै । अभिभवाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the herb: "By your grace I am triumphant, I overcome my co-wife; you too are a conqueror, you overcome her. Both of us, having become victorious, shall overcome my co-wife."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I (by your favour)
+- सहमाना अस्मि (*sahamānā asmi*)—I overcome the co-wife
+- अथ (*atha*)—and
+- त्वं (*tvaṃ*)—you also
+- सासहिः असि (*sāsahiḥ asi*)—you overcome that co-wife
+- उभे (*ubhe*)—we both
+- सहस्वती भूत्वी (*sahasvatī bhūtvī*)—having become powerful
+- मे (*me*)—my
+- सपत्नीं (*sapatnīṃ*)—co-wife
+- सहावहै (*sahāvahai*)—let us overcome
+
+##### भावार्थ (Bhāvārtha)
+
+O herb, by your grace I shall overcome my co-wife; and you too will overcome her. Let us both together, by our strength and power, overcome that co-wife of mine.
+
+##### English translation
+I am triumphing, you are triumphant; we two being powerfull will triumph over my rival.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ तेऽधां॒ सह॑मानाम॒भि त्वा॑धां॒ सही॑यसा ।  
+> मामनु॒ प्र ते॒ मनो॑ व॒त्सं गौरि॑व धावतु प॒था वारि॑व  
+> धावतु ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । ते । अधां । सहमानां । अभि । त्वा । अधां । सहीयसा ।  
+> मां । अनु । प्र । ते । मनः । वत्सं । गौः इव । धावतु । पथा । नाः इव । धावतु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पते ते तव सहमानां सपत्न्या अभिभवित्रीमिमामोषधिमुपाधां । शिरस
+> उपाधानं करोमि । सहीयसाभिभवितृतरेण तेनोपधानेन त्वामभ्यधां । अभितो
+
+### Printed p. 972
+
+> धारयामि। ते तव भर्तुर्मनो मामनुलक्ष्य प्र धावतु। प्रकर्षण शीघ्रं गच्छतु ।
+> तत्र निदर्शनद्वयमुच्यते । गौरिव यथा गौर्वत्वं शीघ्रं गच्छति पथा निम्मेन
+> मार्गेण वारिव वारुदकं यथा स्वभावतो गच्छति तद्वत् । अनेन निदर्शनद्वयेन्त्सुक्यातिशयः स्वाभाविकत्वं च प्रतिपाद्यते ॥
+
+##### Gist of the bhāṣya
+
+"O husband, I place on my head this herb of yours, which overcomes the co-wife; with that more overcoming pillow I surround you on every side. Let your, the husband's, mind, looking to me, run swiftly forward." Two illustrations are given: as a cow runs swiftly to her calf, and as water naturally flows along a low path. By these two illustrations eagerness in the highest degree and naturalness are conveyed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- सहमानां (*sahamānāṃ*)—the herb that overcomes the co-wife (the power)
+- उप अधां (*upa adhāṃ*)—I place on the head
+- सहीयसा (*sahīyasā*)—with that capacity of overcoming the co-wife
+- अभि आधां (*abhi ādhāṃ*)—I hold you well
+- ते (*te*)—of you (my husband)
+- मनः (*manaḥ*)—mind
+- मां (*māṃ*)—to me
+- गौरिव (*gauriva*)—like a cow
+- वत्सं (*vatsaṃ*)—running to her calf
+- पथा (*pathā*)—on low ground
+- वारिव (*vāriva*)—like flowing water
+- प्र धावतु (*pra dhāvatu*)—let it come running
+
+##### भावार्थ (Bhāvārtha)
+
+O herb, I place on my head this herb that has the power to overcome the co-wife, and I also hold you, who have that power, on other parts of my body. O my husband, as a cow runs to her calf and as water flowing down a slope runs swiftly, so let your mind run to me.
+
+##### English translation
+I make you the triumphant (herb) my pillow, I support you with that more triumphant (pillow); let your mind hasten to me as a cow to her calf, let it speed on its way like water.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk the herb is praised. In the second half the husband is addressed, and it is prayed that his mind come very quickly to her, that is, that her husband's love be directed towards her.
+
+## Sūkta 146 (Maṇḍala 10)
+The 146th sūkta is Jīrike [cumin]. In this sūkta the deity Araṇyānī is praised. Araṇyānī is the wife of the deity presiding over the forest (araṇya). Yāska:
+### Printed p. 973
+अरण्यानी ऎंब देवतॆयन्नु स्तुतिसलागिदॆ. अरण्यानी ऎंबुवुदु अरण्याभि मानिदेवतॆय (अरण्यद) पत्नियु. यास्करु— अरण्यानी । अरण्यान्यरण्यस्य पत्नि । अरण्यमपार्णं ग्रामादरमणं भवतीति वा ॥ (*araṇyānī èṃba devatèyannu stutisalāgidè. araṇyānī èṃbuvudu araṇyābhi mānidevatèya (araṇyada) patniyu. yāskaru— araṇyānī | araṇyānyaraṇyasya patni | araṇyamapārṇaṃ grāmādaramaṇaṃ bhavatīti vā ‖*) (Ni. 9-29)
+Araṇyānī is the wife of Araṇya. Araṇya is a region far from village, city and town; or a deserted region where, unlike the village, there is no kind of entertainment and which causes boredom, is called araṇya. In the Ṛgvidhāna:
+अरण्यानीत्यरण्येषु जपेत्सूक्तमनेकशः। अरण्यानीं नमस्कृत्वा सोऽरण्यात्पतिमुच्यते ॥ (*araṇyānītyaraṇyeṣu japetsūktamanekaśaḥ| araṇyānīṃ namaskṛtvā so 'raṇyātpatimucyate ‖*) (Ṛgvidhāna 4-70)
+If one loses the way while wandering in a forest, and recites this sūkta "अरण्यानी (*araṇyānī*)" many times and bows in the mind to the deity Araṇyānī, one finds the right path and comes out of the forest. In this sūkta the seer describes the scenes he sees, through illustrations that touch the heart.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरण्यानीति षडृचमष्टादशं सूक्तमिरंमदपुत्रस्य देवमुनेरार्षं । महदरण्यमरण्यानी । तद्देवताकं । आनुष्टुभं । तथा चानुक्रांतं । अरण्यानैरंमदो
+> देवमुनिररण्यानीं तुष्टावेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अरण्यानी (*araṇyānī*) has six Ṛks, is the eighteenth, and is the vision of the divine sage Airaṃmada, son of Irammada. A great forest is araṇyānī; she is its deity. The metre is Anuṣṭubh. The Anukramaṇī says: Airaṃmada, the divine sage, praised Araṇyānī. The viniyoga has been stated.
+
+The Kannada Anuvāda: this sūkta Araṇyānī is the eighteenth sūkta in the eleventh anuvāka and has six Ṛks. Its seer is Devamuni, son of Irammada; the deity is Araṇyānī; the metre is Anuṣṭubh. The Anukramaṇī says that Devamuni Airaṃmada praised Araṇyānī. The viniyoga was stated earlier.
+
+Maṇḍala 10; Anuvāka 11; Sūkta 146; Aṣṭaka 8; Adhyāya 8; Varga 4. Number of Ṛks in the sūkta: 6. Seer: Devamuni Airaṃmada. Deity: Araṇyānī. Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर॑ण्या॒न्यर॑ण्यान्य॒सौ या प्रेव॒ नश्य॑सि ।  
+> क॒था ग्रामं॒ न पृ॑च्छसि॒ न त्वा॒ भीरि॑व विंदती ३ ॥ १ ॥
+
+### Printed p. 974
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरण्यानि । अरण्यानि । आसौ । या । प्रइव । नश्यसि ।  
+> कथा । ग्रामं । न । पृच्छसि । न । त्वा । भीः इव । विंदती ३ ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अरण्यानि । अरण्यस्य पालयित्री काचिदधिदेवतारण्यानीति नैरुक्ताः । वैयाकरणास्तु हिमारण्ययोर्महत्वे । पा- ४-१-४९-१ । इत्यरण्यस्य महत्वे जीषं
+> स्मरंति । अरण्याधिदेवते अरण्यानि कांताराणि प्रति यासौ त्वं प्रेव नश्यसि । इवः
+> संप्रत्यर्थे । नशतिः प्राप्तिकर्मा ॥ अत्र व्यत्ययेन श्यन् ॥ संप्रति रक्षणाय प्राप्नोषि।
+> यद्वा निजने देशे वर्तमानत्वान्नष्टेव प्रतीयसे । सा त्वं कथा कथं ग्रामं न
+> पृच्छसि । निर्जनेऽरण्ये कथं रमसे । नूनं त्वा त्वां भीर्भयं न निंदति । न लभते
+> किं । वितर्के प्लुतः । इवः संप्रत्यर्थे परिभयार्थे वा । अत्र निरुक्तं । अरण्यान्यरण्यस्य पत्न्यरण्यमपार्णं भवति ग्रामादरमणं भवतीति वा । अरण्यानीत्येनामामंत्रयते । यासावरण्यानि वनानि पराजीव नश्यसि कथं ग्रामं न पृच्छसि न त्वा भीर्विंदतीवेतीवः परिभयार्थे वा । नि. ९-३० । इति ॥
+
+##### Gist of the bhāṣya
+
+"O Araṇyāni": according to the Nairuktas she is some deity guarding the forest, Araṇyānī; the grammarians, citing Pā. Sū. 4-1-49-1 हिमारण्ययोर्महत्वे (*himāraṇyayormahatve*), prescribe the affix jīṣ for araṇya in the sense of greatness. Deity of the forest, you who now seem to vanish towards the forests, to reach them for protection; or, dwelling in a solitary place, you seem as if lost. How is it that you do not ask about the village? How do you delight in the lonely forest? Does fear not take hold of you? The question is asked in doubt (the pluta); इवः (*ivaḥ*) is in the sense of "now" or of "fear". The Nirukta is cited: अरण्यान्यरण्यस्य पत्न्यरण्यमपार्णं भवति ग्रामादरमणं भवतीति वा । अरण्यानीत्येनामामंत्रयते । यासावरण्यानि वनानि पराजीव नश्यसि कथं ग्रामं न पृच्छसि न त्वा भीर्विंदतीवेतीवः परिभयार्थे वा । (*araṇyānyaraṇyasya patnyaraṇyamapārṇaṃ bhavati grāmādaramaṇaṃ bhavatīti vā | araṇyānītyenāmāmaṃtrayate | yāsāvaraṇyāni vanāni parājīva naśyasi kathaṃ grāmaṃ na pṛcchasi na tvā bhīrviṃdatīvetīvaḥ paribhayārthe vā |*) Ni. 9-30.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरण्यानि (*araṇyāni*)—O deity of the forest, guardian of the forest
+- अरण्यानि (*araṇyāni*)—I ask you, the presiding deity of the forest
+- या असौ (*yā asau*)—you
+- प्रेव (*preva*)—now
+- नश्यसि (*naśyasi*)—you are not seen, or you do not come here for protection
+- कथा (*kathā*)—why
+- ग्रामं (*grāmaṃ*)—where the village is
+- न पृच्छिसि (*na pṛcchisi*)—do you not ask?
+- त्वा (*tvā*)—you
+- भीःइव (*bhīḥiva*)—fear
+- न विंदति (*na viṃdati*)—does it not seize?
+
+##### भावार्थ (Bhāvārtha)
+
+O deity of the forest, guardian of the forest, you are now seen nowhere. Why do you not ask anyone where the village is? Do you not feel fear?
+
+##### English translation
+Aranyani, Aranyani, who are, as it were, perishing there, why do you not inquire of the village? does not fear assail you ?
+
+### Printed p. 975
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the word Araṇyānī, Yāska gives the Nirukta on this Ṛk:
+अरण्यानीत्येनामामंत्रये यासावरण्यानि वनानि पराजीव नश्यसि कथं ग्रामं न पृच्छसि न त्वा भिर्विंदतीवेतीवः परिभयार्थे वा ॥ (*araṇyānītyenāmāmaṃtraye yāsāvaraṇyāni vanāni parājīva naśyasi kathaṃ grāmaṃ na pṛcchasi na tvā bhirviṃdatīvetīvaḥ paribhayārthe vā ‖*) (Ni. 9-30)
+Here there is a repetition, araṇyāni araṇyāni. Of these two words, by the first the seer addresses the deity presiding over the forest. The second is the accusative plural of the word araṇya; that is, araṇyāni means forests. The seer Devamuni, a mantra-seer, wandering alone in the forest, seeing that solitary wild, became very afraid and questions the presiding deity thus: O deity of the forest, do you not feel fear? In these forests you remain hidden, seen nowhere. Do you not ask anyone where the village is? It seems you feel no fear at all. Yet perhaps you feel a little fear: the words वा इवः (*vā ivaḥ*) indicate the sense that at least a little fear is felt. Here the pluta (the length-mark 3) is used to express vitarka, that is, doubt.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒षा॒र॒वाय॒ वद॑ते॒ यदु॒पाव॑ति चिच्चि॒कः ।  
+> आ॒घा॒टिभि॑रिव धा॒वय॑न्न रण्या॒निर्म॑हीयते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषरवाय । वदते । यत् । उपअवति । चिच्चिकः ।  
+> आघाटिभिः इव । धावयन् । अरण्यानिः । महीयते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषारवाय । वृषा सेचनसमर्थो रवः शब्दो यस्य सूक्ष्मजंतुविशेषस्य
+> झिल्याख्यस्य स तथोक्तः । कटुकशब्दवानित्यर्थः । तस्मै वृषारवाख्याय वदते चीचीशब्दं कुर्वते चिच्चिकश्चिचीशब्दं कुर्वन्नन्यो जंतुर्यद्यदोपावति वृषारवाय
+> स्वशब्दस्य प्रत्युत्तररूपेण चीचीशब्दकरेणोपगच्छति । उपेत्य पालयति वा । तत्र
+
+### Printed p. 976
+
+> दृष्टांतः । आघाटिभिरिव । आघाटयो घाटलिकाः कांडवीणाः । ताभिर्धावयन्निषादादिसप्तस्वराणि शोधयन्गायक इव । तदारण्यानिः सारण्यानी महीयते ।
+> पूज्यते ॥ इंद्रवरुणेत्यादिना जेष् । पा. ४-१-४९ । तत्संनियोगेनानुगागमः ।
+> छांदसो ह्रस्वः । अत एव हल्ज्यादिसुलोपाभावः ॥
+
+##### Gist of the bhāṣya
+
+वृषारवाय (*vṛṣāravāya*): the small creature called Jhillī whose sound (rava) is vṛṣā, able to shower, that is, shrill. When that creature cries "chī chī", another creature, the chiccika, making the sound chī chī, comes up in reply to its own sound and protects it or approaches it. An illustration: आघाटिभिरिव (*āghāṭibhiriva*): the āghāṭis are ghāṭalikās, reed lutes; as a singer who tunes the seven notes beginning with niṣāda on them. Then Araṇyāni, that is, Araṇyānī, is honoured, worshipped.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वदते (*vadate*)—who makes the harsh sound chī chī (in the forest)
+- वृषारवाय (*vṛṣāravāya*)—in reply to the sound of the small creature vṛṣārava
+- चिच्चिकः (*ciccikaḥ*)—another small creature
+- यत् (*yat*)—when
+- उपावति (*upāvati*)—it also makes the sound chī chī
+- अरण्यानिः (*araṇyāniḥ*)—the deity presiding over the forest
+- आघाटिभिः (*āghāṭibhiḥ*)—with lutes furnished with large gourds
+- धावयन् (*dhāvayan*)—like singers playing the seven notes beginning with niṣāda
+- महीयते (*mahīyate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+(The seer describes in another way the cries of animals heard in the forest, comparing them to singers playing lutes.) In one region the small creature vṛṣārava makes the harsh, ear-grating cry chī chī. As if in reply, another small creature, the chiccika, answers in the same way with chī chī. The sound so heard seems like singers playing the seven notes beginning with niṣāda on lutes fitted with large gourds (pots). With such various sounds heard in the forest, the forest shines.
+
+##### English translation
+When the chichchika replies to the crying vrisharava, Aranyani is exalted, resonant, as with cymbals.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त गाव॑ इवादंत्यु॒त वेश्मे॑व दृश्यते ।  
+> उ॒तो अ॑रण्या॒निः सा॒यं श॑क॒टीरि॑व सर्जति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । गावःइव । अदंति । उत । वेश्मइव । दृश्यते ।
+
 ---
 
-**Progress note:** Done through printed p. 970. pp. 965-970 (batch API)
+**Progress note:** Done through printed p. 976. pp. 971-976 (batch API)
