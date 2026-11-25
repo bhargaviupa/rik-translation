@@ -442,6 +442,133 @@ Two kinds of meaning may be given here for the word Brahmaṇaspati. Brahmaṇas
 
 देवानां पूर्वे युगॆ असतः सत् अजायत (*devānāṃ pūrve yugè asataḥ sat ajāyata*)—Here देवानां पूर्वे युगे (*devānāṃ pūrve yuge*) means before Prajāpati (or the Lord of all) created the gods, in the first creation. At that time, that is before creation, there were no things at all endowed with names and forms (that is, mountains, rivers, trees, animals, men and the like). There was only the unmanifest form. That is, the Supreme Self, by Himself alone, endowed with His infinite power that is beyond the reach of the senses, pervaded everywhere. This form of the Supreme Self has names such as unmanifest, without qualities and asat. That is what is indicated here by the word असत् (*asat*). In this sentence the seer describes the order of creation: from this unmanifest form, sat, that is, mountains and the rest and living beings and the like that are perceptible to the senses, came into being. This matter is supported at length by the Śruti sentence आसद्वा इदमग्र आसीत् । ततो वै सदजायत (*āsadvā idamagra āsīt | tato vai sadajāyata*) (Tai. U. 2-7) (the Taittirīya Upaniṣad), by the Chāndogya Upaniṣad sentences कथमसतः सज्जायेत। (*kathamasataḥ sajjāyeta|*) and सत्येव सोम्येदमग्र आसीत् (*satyeva somyedamagra āsīt*) (Chā. U. 6-2-2), by the Śatapatha Brāhmaṇa sentence तद्देदं तर्हव्याकृतमासीत् (*taddedaṃ tarhavyākṛtamāsīt*) (Śa. Brā. 14-2-15), by the Taittirīya Āraṇyaka sentence वायोरग्निः (*vāyoragniḥ*) (Tai. Ā. 8-1), and by the Ṛgveda sentence नासदासीन्नो सदासीत् (*nāsadāsīnno sadāsīt*) (10-129-1). This last sentence in the Ṛgveda we shall explain at length later, in its own context.
 
+### Printed p. 21
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वानां॑ यु॒गे प्र॑थ॒मेऽस॑तः॒ सद॑जायत ।  
+> तदाशा॒ अन्व॑जायंत॒ तदु॑त्ता॒नप॑द॒स्परि॑ ॥ ३ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवानां । युगे प्रथमे । असतः । सत् । अजायत ।  
+> तत् । आशाः । अनु । अजायंत । तत् । उत्तानपदः । परिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वार्धमुक्तं । तदन्वाशा दिशोऽजायंत । तत्परि । तदन्वित्यर्थः । उत्तानपदः । उत्तानमूर्ध्वतानं पद्यंत इत्युत्तानपदो वृक्षाः । तेऽजायंत । प्रादुरभवन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the first half of the Ṛk has already been explained. After that, the quarters (the directions) were born. The word तत्परि (*tatpari*) means "after that". उत्तानपदः (*uttānapadaḥ*) are those that stretch upward and spread (as if by their feet); these are the trees. They were born, that is, they came into manifestation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of the gods, who are born
+- प्रथमे युगे (*prathame yuge*)—in the first age, the primal time of creation
+- असतः (*asataḥ*)—from the principle devoid of name and form
+- सत् (*sat*)—the principle of the world, endowed with name and form
+- अजायत (*ajāyata*)—was born
+- तत् अनु (*tat anu*)—after that
+- आशाः (*āśāḥ*)—the quarters
+- अजायंत (*ajāyaṃta*)—were born
+- तत्परि (*tatpari*)—after that
+- उत्तानपदः (*uttānapadaḥ*)—the trees and the like, which grow upward, were born
+
+##### भावार्थ (Bhāvārtha)
+
+In the primal time when the gods are born (the time of creation), from the principle devoid of name and form, the principle of the world, endowed with name and form, was born. After it the quarters were born. After that the trees and the like, which grow upward, were born.
+
+##### English translation
+In the first age of the gods the existent was born of the non-existent; after that the quarters (of the horizon) were born, and after them the upward-growing (trees).
+
+### Printed p. 22
+
+##### विशेषविषयगळु (Special Topics)
+
+The latter half of the previous Ṛk is recited here as the first half of this Ṛk. But in place of the word पूर्वे (*pūrve*) the word प्रथमे (*prathame*) is used. There is no difference in meaning. Yet, when examined closely, there is a slight difference after all. प्रथमे युगे (*prathame yuge*) means: the very first age, when creation begins, may be called the first age. The former age, however, would have to be spoken of as one among the earlier ages, other than the age that is now running. For it is said that the creation of the plant kingdom took place three ages before the creation of the gods, in the Ṛk या ओषधीः पूर्व जाता देवेभ्यस्त्रियुगं पुरा (*yā oṣadhīḥ pūrva jātā devebhyastriyugaṃ purā*) (Ṛ. Saṃ. 10-97-1); and in the latter half of this Ṛk also, in तदुत्तानपदस्परि (*taduttānapadaspari*), it is said that the trees and the like (herbs and trees, that is, the plant kingdom) were born after the first age and before the creation of the gods. Since the plant kingdom is the chief food of the gods, of men and of all other kinds of living beings, it is reasonable and fitting to say that the plant kingdom (trees and the like) was created before the creation of living beings.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूर्ज॑ज्ञ उत्ता॒नप॑दो भु॒व आशा॑ अजायंत ।  
+> अदि॑ते॒र्दक्षो॑ अजायत॒ दक्षा॒द्वदि॑तिः॒ परिः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूः । जज्ञे । उत्तान्यपदः । भुवः । आशाः । अजायंत ।  
+> अदितेः । दक्षः । अजायत । दक्षात् । ऊं इति । अदितिः । परि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भूरुत्तानपदो वृक्षाज्जज्ञे । तथा भुवः सकाशादाशा अजायंत । तथादितेर्दक्षोऽजायत । उत्पन्नः । दक्षादु दक्षादप्यदितिः पर्यजायत । न स्वोत्पन्नं
+> कार्यं स्वस्यॆव कारणमपि भवतीति विप्रतिषिद्धमिति वाच्यं । यास्काचार्य इदमेव वाक्यमुदाहृत्य विरोधमाशंक्य पर्यहरत् । तथा हि । आदितेर्दक्षो अजायत दक्षाद्वदितिः परीति च तत्कथमुपपद्येत समानजन्मानौ स्यातामित्यपि ना देवधर्मेणेतरेतरजन्मानौ स्यातामितरेतरप्रकृती । नि. ११-२३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the earth was born from the उत्तानपदः (*uttānapadaḥ*), the tree. Likewise the quarters were born from the earth. Likewise Dakṣa was born, that is, came into being, from Aditi; and from Dakṣa, in turn, Aditi too was born. It should not be objected that this is contradictory, since a product that has been born of something would here also become the cause of that very thing. Ācārya Yāska quoted this very sentence, raised the doubt of contradiction, and answered it (Ni. 11-23): how can this be, since "from Aditi Dakṣa was born, from Dakṣa Aditi" would make the two of one and the same birth? Or else, by the nature of the gods, the two may be born of each other, each being the origin of the other.
+
+### Printed p. 23
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूः (*bhūḥ*)—the world of the earth
+- उत्तानपदः (*uttānapadaḥ*)—from the tree
+- जज्ञे (*jajñe*)—was born
+- भुवः (*bhuvaḥ*)—from the earth
+- आशाः (*āśāḥ*)—the quarters
+- अजायंत (*ajāyaṃta*)—were born
+- अदितेः (*aditeḥ*)—from Aditi
+- दक्षः (*dakṣaḥ*)—Dakṣa
+- अजायत (*ajāyata*)—was born
+- दक्षादु (*dakṣādu*)—again from Dakṣa
+- अदितिः (*aditiḥ*)—Aditi
+- पर्यजायत (*paryajāyata*)—was born
+
+##### भावार्थ (Bhāvārtha)
+
+From the tree the world of the earth was born. From the earth the quarters were born. From Aditi Dakṣa was born. Again from Dakṣa Aditi was born.
+
+##### English translation
+The earth was born from the upward growing (tree) the quarters, were born from the earth ; Daksha was born from Aditi, and afterwards Aditi from Daksha
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk it is said that from the trees the earth was born, and from the earth the quarters. Some explanation is necessary on this point. Everyone knows that the plant kingdom and trees and the like are on the earth. Since the earth is necessary for their birth, the earth must have existed before the trees and the like. But here it is said that the earth was born from the trees; to say that the trees existed first and the earth came into being afterwards is mutually contradictory, is it not? The answer is this: before the earth, water was created, and that water was spread everywhere. The Śruti sentences आपो वा इदमग्रे सलिलमासीत् (*āpo vā idamagre salilamāsīt*) and आपो वा इदं सर्वं विश्वा भूतान्यापः (*āpo vā idaṃ sarvaṃ viśvā bhūtānyāpaḥ*), and the Smṛti sentence अप एव ससर्जाद् (*apa eva sasarjād*), also establish that Prajāpati first, that is, before creating the earth, created water. Besides, the Upaniṣad sentence अग्नेरापः । अद्भः पृथिवी (*agnerāpaḥ | adbhaḥ pṛthivī*) also says that the earth came into being from water. Therefore water is the origin of the earth. Is there a birth of plants and the like in water? One may say that there is. That various kinds of plants exist in the lower part of the sea is a matter known to all. Or else the word उत्तानपद (*uttānapada*) here may be taken to mean "growing or spreading upward". That a solid mass like the earth arises, in the mass of the sea water, from a kind of living creature that grows upward (coral) is well known to modern scientists. Or else it may be said, if one wishes, that the earth, made solid from the water that is of the nature of sap, came into being.
+
+### Printed p. 24
+As for the matter of the quarters being born from the earth, only this much can be said. At the time of creation, that is, before the earth was created, when water covered everything everywhere and there were no divisions such as above and below, an arrangement of the quarters was not possible. After the earth was created, the arrangement of the quarters, east, west, south, north, above and below, came about of itself; that is, the need for it arose. Therefore it is said here that the quarters were born from the earth.
+In the latter half of this Ṛk, in अदितिर्दक्षो अजायत दक्षाद्वदितिः परि (*aditirdakṣo ajāyata dakṣādvaditiḥ pari*), there are two sentences. That Dakṣa was born from Aditi is the first sentence; that Aditi was born from Dakṣa is the second sentence. Is not the meaning (the matter) in these sentences mutually contradictory? That an effect arises from a cause is right; but how can an effect become the origin of the cause? How is this apparent contradiction resolved? The answer may be given in two or three ways. Thus: the word Aditi in the first sentence may be taken to mean the power that governs the universe, or the Supreme Brahman. Then it becomes consistent that from the Supreme Brahman Dakṣa was born, and from Dakṣa his daughter Aditi was born. Or, as Yāska has said—
+आदित्यो दक्ष इत्याहुरादित्यमध्ये च स्तुतः । अदितिदर्दाक्षायणी । आदितेर्दक्षो अजायत दक्षाद्वदितिः परि । इति च । तत्कथमुपपद्येत समानजन्मानौ स्यातामिति । अपि वा देवधर्मेणेतरेतरजन्मानौ स्यातामितरेतरप्रकृती ॥ (*ādityo dakṣa ityāhurādityamadhye ca stutaḥ | aditidardākṣāyaṇī | āditerdakṣo ajāyata dakṣādvaditiḥ pari | iti ca | tatkathamupapadyeta samānajanmānau syātāmiti | api vā devadharmeṇetaretarajanmānau syātāmitaretaraprakṛtī ‖*)
+(Ni. 11-23)
+that is, Āditya too is called Dakṣa. This Dakṣa is praised among the sons of Aditi, that is, reckoned as one of Aditi's sons. Aditi is called Dākṣāyaṇī, that is, daughter of Dakṣa. Now, in the sentence अदितेर्दक्षो अजायत दक्षाद्वदितिः परि (*aditerdakṣo ajāyata dakṣādvaditiḥ pari*), in what is said there, that Dakṣa and Aditi were born from Aditi and from Dakṣa respectively, does a mutual contradiction not appear? How is this possible? The answer: it should be understood that the seer describes in this way the fact that the place of origin of both Dakṣa and Aditi is one and the same. Besides, since among the gods one is seen to be born from another, or their natures and the like are seen to follow one another, the description is made thus; there is a custom of calling Agni Aditi; so Yāska has given the explanation of this Ṛk. **NOTE**
+In Ṛ. Saṃ. 2-27-1 it is said that Aditi is the mother of the Āditya named Dakṣa. Again, at two places, in the Ṛks 10-5-7 and 10.64-5, the mutual relation of Dakṣa and Aditi is quite peculiar,
+
+### Printed p. 25
+In explaining the word Aditi, Yāska, having explained the word Aditi as "Aditi is the undecaying mother of the gods" (Ni. 4-22), that is, one of unwasting power, the mother of the gods, quoted the Ṛk that makes known the nature of Aditi and her many forms—
+अदितिदौर्योदितिरंतरिक्षमवितिर्माता स पिता स पुत्रः । विश्वे देवा अदितिः पंचजना अदितिर्जातमदितिर्जनित्वं ॥ (*aditidauryoditiraṃtarikṣamavitirmātā sa pitā sa putraḥ | viśve devā aditiḥ paṃcajanā aditirjātamaditirjanitvaṃ ‖*)
+(Ṛ. Saṃ. 1-89-10)
+In this Ṛk the undivided Aditi is described as the giver of birth to the whole universe; she is the mother of the world and the father of the world. She herself is every thing that is born; Aditi is the place of origin of all. She herself is the five kinds of peoples (the four castes together with the Niṣādas and the rest); Aditi is all the gods; she is the shining heaven, she is the atmosphere, she is the whole universe, she is the governor of the universe. **NOTE**
+Apart from the two deities Niṣṭigrī and Uṣas, among those who are directly designated mother of the gods, Aditi is known to be the first deity.
+**1. The special features describing the nature of Aditi.**
+Although there is no separate sūkta addressed to Aditi, Aditi is praised and prayed to by the mantras contained in many sūktas. She is prayed to bestow sons and the like, and wealth such as cattle. Her protection and her forgiveness are asked for in many places (1-43-2). She is described also as the mother of Varuṇa and of some other deities. In the Nighaṇṭu the word Aditi is included and recited among (1) the names of the earth, (2) the names of speech, (3) the names of the cow, and (4) the names of heaven and earth (Ni. 1- ; 1-11 2-11; 3-30). **NOTE**. In the Nirukta, in section 4-22, Aditi is described as "undecaying mother of the gods", the mother of the gods of great power.
+In the Ṛgveda Saṃhitā (1-113-19) Uṣas, the mother of the gods, is described as the host of Aditi **NOTE** (Sāyaṇa has given a somewhat different meaning). Here the gross meaning is "the face of Aditi". It may also be said that she is another form of hers. In another part of the Nirukta (11-22), following the classification of the deities (as shown above), where the deities of the atmosphere are explained, the first place among the female deities is given to Aditi.
+अथातो मध्यस्थानाः । शासां अदितिः प्रथमागामिनी भवति (*athāto madhyasthānāḥ | śāsāṃ aditiḥ prathamāgāminī bhavati*)
+(3. 11-22) **NOTE**
+
+### Printed p. 26
+Among the female deities of the middle world, the first place belongs to Aditi.
+In the Ṛgveda Saṃhitā, in the Ṛks 4-55-3; 4-55-7; 5-51.11; 6-50-1; 7-38-4; 7-40-2; 8-25-10; 8-27-5; 8-56-10 and so on, Aditi is described as a goddess; in the mantras 2-40-6; 7-40-4; 10-92-14, as देवी आदितिरनर्वा (*devī āditiranarvā*), Aditi of unobstructed power and divine nature; in 1-136-3 as radiant, as the bearer of the earth, and as dwelling in the heavenly world (ज्योतिष्मतीमदितिं (*jyotiṣmatīmaditiṃ*) ...). Besides, the epithets उरुव्यचाः (*uruvyacāḥ*), one who pervades most widely (5-46-6); विश्वजन्यां (*viśvajanyāṃ*), a dear friend to all men (7-10-4); and the like are noteworthy. Praising such an excellent Aditi, benefactress of the world,
+"In the morning, at midday and in the evening, I pray to and call upon Aditi continuously" — so the seer praises and prays (5-69-3).
+In the mantra 1.185-3 a gift of wealth from that same Aditi, pure, undecaying, divine and most venerable, is asked for. In 1-166-12, in praising the Maruts, Aditi is praised by saying that the favour to be given by them is equal to the gift of Aditi. In 4-55-3 पस्त्या (*pastyā*) is an epithet indicating a special quality of Aditi. From this it is known that she is the household deity who gives shelter to all. In the Vājasaneyi Saṃhitā the great qualities of Aditi are praised thus—
+महीमूषु पातरं सुप्रतानां........... अदितिं सुप्रणीतिं । (*mahīmūṣu pātaraṃ supratānāṃ........... aditiṃ supraṇītiṃ |*)
+(Tai. Saṃ. 1-5-11-5 and Vā. Saṃ. 21-5)
+her greatness is described thus: let us pray to and call upon Aditi, who is of the nature of a mother giving shelter to devotees, the leader of the sacrifice, possessed of surpassing power, free from old age, spread most widely, a protector, who skilfully shows the way to all and leads all on the good path.
+**2. The opinions stated by Roth and Max-muller concerning the original form of Aditi:**
+Aditi, in the opinion of the scholar Roth, is a synonym giving the meaning "the infinite", for describing the infinity of the atmosphere, which possesses a greatness exceeding that of the earth with its fixed boundaries, and has an immeasurable extent
+
 ---
 
-**Progress note:** Done through printed p. 20. Vol 29 pp. 13-20: yuga reckoning, uses of yuga in the Rigveda, Rk 2 with special topics
+**Progress note:** Done through printed p. 26. Rik 3-4 of sukta 72 with special topics on Aditi (pp. 21-26)
