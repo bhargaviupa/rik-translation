@@ -27753,6 +27753,322 @@ The mighty (Indra) is resplendent through the sacrifice), the joy of the worship
 > स॒हो न॒ इंद्रो॒ वह्नि॑भि॒र्न्ये॑षां चर्षणी॒नां च॒क्रं र॒श्मिं न  ॑
 > योयुवे ॥ ९ ॥
 
+### Printed p. 996
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृधि । नः । अह्रयः । देव । सवितरिति । सः । च । स्तुषे । मघोनां ।  
+> सॆहो इति । सः । इंद्रः । वह्निभिः । नि । एषां । चर्षणीनां । चक्रं । रश्निं । न ।  
+> योयुवे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः प्रेरक नोऽस्मानह्रयोऽनवनतवदनानलज्जितान्कृधि । कुरु । किंच
+> स त्वं मघोनां धनवतां यजमानानां संबंधिभिर्ऋत्विग्भिः स्तुषे । स्तूयसे ।
+> इंद्रो वह्निभिर्वोढृभिर्मरुद्भिः सह सहो बलं चर्षणीनां मनुष्याणां
+> नोऽस्माकं नि योयुवे । भृशं निमिश्रयतु । तत्र दृष्टांतः । चक्रं रथस्य चक्रं
+> रश्मिं न । यथा चक्रादिकं तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, impeller, make us ones who do not hang their faces, that is, who are not ashamed. Further, you are praised by the priests who belong to the wealthy sacrificers. May Indra, together with the bearers, the Maruts, thoroughly mingle the strength of us men. The illustration: as one joins a chariot wheel and the reins; so it is, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O Savitṛ, of divine nature
+- सवितः (*savitaḥ*)—O Savitṛ, impeller of the world
+- नः (*naḥ*)—us
+- अह्र्ययः (*ahryayaḥ*)—so that we are freed from disgrace
+- कृधि (*kṛdhi*)—make
+- सः (*saḥ*)—you
+- मघोनां (*maghonāṃ*)—by the priests who belong to the wealthy sacrificers
+- स्तुषे (*stuṣe*)—you are praised
+- चक्रं (*cakraṃ*)—the chariot wheel
+- रश्मिं न (*raśmiṃ na*)—as one joins the reins together
+- इंद्रः (*iṃdraḥ*)—Indra
+- वह्निभिः (*vahnibhiḥ*)—together with the Maruts, who carry (the water)
+- चर्षणीनां (*carṣaṇīnāṃ*)—of men
+- एनां नः (*enāṃ naḥ*)—with us
+- सहः (*sahaḥ*)—strength
+- नि योयुवे (*ni yoyuve*)—may he join and unite
+
+##### भावार्थ (Bhāvārtha)
+
+O Savitṛ, of divine nature and impeller of the world, make us free from disgrace and the like. You are praised by the priests who belong to the wealthy sacrificers. As one joins the chariot wheel and the reins together, may Indra, together with the Maruts who carry the water, join and unite strength with us men.
+
+##### English translation
+Make us, divine Savitri, free from shame; you are praised (by the priests) of the opulent; may Indra, accompanied by the bearers (of water), unite the strength of us men here, like the chariot-wheel and reins.
+
+### Printed p. 997
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐषु॑ द्यावापृथिवी धातं म॒हद॒स्मे वी॒रेषु॑ वि॒श्वच॑र्षणि॒ श्रवः॑ ;  
+> पृ॒क्षं वाज॑स्य सा॒तये॑ पृ॒क्षं रा॒योत तु॒र्वणे॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एषु । द्यावापृथिवी इति । धातं । महत् । अस्मे इति । विरेषु । विश्वचर्षणि ।  
+> श्रवः ।  
+> पृक्षं । वाजस्य । सातये । पृक्षं । राया । उत । तुर्वणे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्यावापृथिवी द्यावापृथिव्यौ युवामस्मे अस्माकं संबंधिष्टेषु वीरेषु
+> पुत्रेषु विश्वचर्षणि सर्वमनुष्योपेतं महच्छ्रवो यश आ धातं । आधत्तं ।
+> दत्तं । किंच वाजस्य बलस्य सातये संभजनाय पृक्षं पालकमन्नं दत्तं । उतापि च
+> तुर्वणे शत्रुणां तरणाय राया धनेन सह पृक्षमन्नं दत्तं ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth, in these heroic sons of ours bestow great fame, accompanied by all men. Further, give nourishing food for the sharing of strength. And give food together with wealth for the overcoming of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O Heaven and Earth
+- अस्मे (*asme*)—belonging to us
+- एषु वीरेषु (*eṣu vīreṣu*)—in these heroic sons
+- विश्वचर्षणि (*viśvacarṣaṇi*)—so that all men know
+- महत् श्रवः (*mahat śravaḥ*)—great fame
+- आ धातं (*ā dhātaṃ*)—establish
+- वाजस्य (*vājasya*)—of strength
+- सातये (*sātaye*)—for acquiring
+- पृक्षं (*pṛkṣaṃ*)—give food
+- उत (*uta*)—and
+- तुर्वणे (*turvaṇe*)—that which helps to drive away enemies
+- राया (*rāyā*)—and is accompanied by wealth
+- पृक्षं (*pṛkṣaṃ*)—give food
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, establish in these heroic sons of ours great fame, spreading among all men. Give the food needed for acquiring strength. Establish food that helps to drive away enemies and is accompanied by wealth.
+
+##### English translation
+Heaven and earth, grant to these our sons great renown, extending over all mankind; grant sustenance for the acquisition of strength, sustenance together with wealth for the overthrow (of enemies).
+
+### Printed p. 998
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं शंस॑मिंद्रास्म॒युष्ट्वं कूचि॒त्संतं॑ सहसावन्न॒भिष्ट॑ये  
+> सदा॑ पाह्य॒भिष्ट॑ये ।  
+> मे॒दतां॑ वे॒दता॑ वसो ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतं । शंसं । इंद्र । अस्मयुः । त्वं । कूचित् । संतं । सहसावन् । अभिष्टये ।  
+> सदा । पाहि । अभिष्टये ।  
+> मेदतां । वेदता । वसो इति ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितः सहसावन् बलवन्निंद्र अस्मयुरस्मान्यामयमानस्त्वं
+> कूचित् क्वचिदपि संतं स्थितमेतमिमं शंसं स्तोतारमभिष्टयेऽभिलषितसिद्ध्यर्थमपि
+> चाभिष्टये यागार्थं सदः सर्वदा पाहि । रक्ष । किंच वेदता त्वदीयेन प्रज्ञानेन
+> स्तोतारं मां मेदितां । बुद्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Vasu, giver of dwelling, mighty Indra, you who desire us, always protect this praiser, wherever he may be, for the accomplishment of what he desires and for the sacrifice. Further, with your wisdom know me, the praiser.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—giver of dwelling
+- सहसावन् (*sahasāvan*)—and possessed of strength
+- इंद्र (*iṃdra*)—O Indra
+- अस्मयुः त्वं (*asmayuḥ tvaṃ*)—you who desire good for us
+- एतं शंसं (*etaṃ śaṃsaṃ*)—this praiser
+- कूचित् संतं (*kūcit saṃtaṃ*)—wherever he may be
+- अभिष्टये (*abhiṣṭaye*)—for the accomplishment of his sacrifice
+- अभिष्टये (*abhiṣṭaye*)—for the accomplishment of what he desires
+- सदा (*sadā*)—always
+- पाहि (*pāhi*)—protect
+- वेदता (*vedatā*)—by your excellent wisdom
+- मेदतां (*medatāṃ*)—know this praiser
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling and possessed of strength, you who desire good for us, protect this praiser always, wherever he may be, for the accomplishment of his sacrifice and of what he desires. With your excellent wisdom know this praiser.
+
+### Printed p. 999
+
+##### English translation
+Mighty Indra, do you, who are well affected towards us, ever protect this worshipper wherever he may be, so that he may attain his desire; instruct me, Vasu, by your wisdom.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं मे॒ स्तोमं॑ त॒ना न सूर्ये॑ द्यु॒तद्या॑मानं वावृधंत  ॒
+> नृणां ।  
+> संवननं नाश्च्यं तप्पेवानपच्युतं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतं । मे । स्तोमं । तना । न । सूर्ये । द्युतत्त्वायामानं । ववृधंत । नृणां !  
+> संवननं । न । अश्वं । तष्टा इव । अनपच्युतं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृणां नेतृणां देवशत्रूणां संवननं न संभजनं सम्यग्हिंसनमिवावस्थितं
+> मे मदीयमेतमिदं स्तोमं स्तोत्रं ववृधंत ! ऋत्विजो वर्धयंतु ! तत्र
+> दृष्टांतः । सूर्ये द्युतद्यामानं दीप्तगमनं तना न विस्तृतान्नश्मीन्वर्धयंति
+> तद्वदित्यर्थः ! अनपच्युतं च्युतिरहितमश्वमश्वार्हं रथं तष्टेव यथा वर्धकी
+> रथिष्वागतेषु संस्कृतं रथं संस्कारस्थानाश्वेरयति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May the priests increase this my praise, which stands as if it were the complete destruction of the leaders, the enemies of the gods. The illustration: as they increase the spread-out rays in the sun, which move radiantly; and as a carpenter, when the charioteers have arrived, sends out from the place of its finishing a faultless chariot, fit for horses. So it is, is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरै (*sūrai*)—in the sun
+- द्युतद्यामानं (*dyutadyāmānaṃ*)—that makes the paths shine
+- तना न (*tanā na*)—as the rays are increased
+- तष्टा (*taṣṭā*)—the chariot-maker
+- अनपच्युतं (*anapacyutaṃ*)—imperishable
+- अश्वं इव (*aśvaṃ iva*)—as he builds an excellent chariot fit for yoking a horse
+- नृणां संवननं न (*nṛṇāṃ saṃvananaṃ na*)—fit for the destruction of the enemies who hate the gods
+- मे एतं स्तोमं (*me etaṃ stomaṃ*)—this my praise
+- ववृधंत (*vavṛdhaṃta*)—may the priests refine and strengthen
+
+##### भावार्थ (Bhāvārtha)
+
+As the rays that make the paths shine are increased in the sun, and as the chariot-maker refines and builds an imperishable, excellent chariot fit for yoking a horse,
+
+### Printed p. 1000
+
+so may the priests refine and strengthen this my praise, which is fit for destroying the asuras, the haters of the gods.
+
+##### English translation
+May (the priests) strengthen this my hymn, the destroyer of the enemies (of the gods), of brilliant path like the rays in the sun, as the carpenter (sends forth) the upright car.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ना॒वर्त॒ येषां॑ रा॒या यु॒क्तैषां॑ हिर॒ण्यया ॑।  
+> ने॒मधि॑ता॒ न पौंस्या॒ वृथे॑व वि॒ष्टांता॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववर्त । येषां । राया । युक्ता । एषां । हिरण्यया ।  
+> नेमधिता । न । पौंस्या । वृथा इव । विष्ट अंता ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येषां देवानां स्वभूतेन रायास्मभ्यं दातव्येन धनेन युक्ता
+> स्तुतिराववर्त तेषामेषामर्थाय हिरण्यया हिरण्मया हिरण्यालंकारवत्प्रीतिकरास्मन्मुखात्पुनःपुनरावर्तत इत्यर्थः । तत्र दृष्टांतः । पौंस्या पौंस्यानि बलानि
+> नेमधिता न नेमधितौ संग्रामे । विष्टांता व्याप्तावसाना वृथेव यथा
+> घटिकायंत्रमाला तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The praise, accompanied by the wealth that belongs to those gods and is to be given to us, turns again and again from our mouth to them, golden, that is, pleasing like a golden ornament. The illustration: as manly powers in battle, as two (felloes of a wheel), reaching their end, or as a chain of water-pots, so it is, is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नेमधिता (*nemadhitā*)—in battles
+- पौंस्या (*pauṃsyā*)—displays of strength or heroic deeds
+- वृथा (*vṛthā*)—without effort
+- विष्टांता न (*viṣṭāṃtā na*)—as producing victory
+- येषां (*yeṣāṃ*)—in which gods
+- राया (*rāyā*)—with the wealth to be given to us
+- युक्ता (*yuktā*)—accompanied
+- ववर्त (*vavarta*)—the praise is recited by us
+- एषां (*eṣāṃ*)—addressed to those same gods
+- हिरण्यया (*hiraṇyayā*)—praises pleasing like golden ornaments are recited by us
+
+##### भावार्थ (Bhāvārtha)
+
+In battles we gain victory without effort by the display of strength. In the same way, in order to obtain the wealth that is with the gods, we recite hymns and the like, pleasing as golden ornaments, and pray to the gods for wealth.
+
+### Printed p. 1001
+
+##### English translation
+Those whose (praise) arrives, accompanied by wealth, of them it is (as) a golden (ornament), like manly powers in battle reaching the conclusion, as it were, without an effort.
+
+##### विशेषविषयगळु (Special Topics)
+
+The gods have the wealth that they are to give us. To obtain that wealth we praise them. How? In order to gain victory in battles we show our valour and, by the display of strength, conquer the enemies without effort. In the same way, in order to obtain the wealth that is with the gods, we recite hymns and the like that are pleasing to them as golden ornaments, and give them joy; that is, the prayer is expressed here that they, pleased by our hymns, give us wealth and the like.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र तद्दुः॒शीमे॒ पृथ॑वाने वे॒ने प्र रा॒मे वो॑च॒मसु॑रे  ॒॑
+> म॒घव॑त्सु ।  
+> ये यु॒क्त्वाय॒ पंच॑ श॒तास्म॒यु प॒था वि॒श्राव्ये॑षां ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तत् । दुःशीमे । पृथवाने । वेने । प्र । रामे । वोचं । असुरे ।  
+> मघवत्सु ।  
+> ये । युक्त्वाय । पंच । शता । अस्मयु । पथा । विश्राव्येषां ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये देवाः पंच शता शतानि रथान्युक्तायार्युक्त्वास्मय्वस्मत्कामाः
+> संतः पथा यज्ञमार्गेण गच्छंति तेषामेषां देवानां विश्रावि देवानां
+> लोके नानाविशेषेण श्रावकगुणयुक्तं तत्सोत्रं दुःशीमे दुःशीमनाम्मि
+
+##### Gist of the bhāṣya
+
+The gods who, having yoked five hundred chariots, go by the sacrificial path, desiring us: of these gods, that praise, which is renowned in the world of the gods and has the quality of making them hear, I proclaim in the presence of Duḥśīma,
+
+### Printed p. 1002
+
+> पृथवाने । पृथवानः पृथिः । तस्मिन् वेने चासुरे बलवति रामे चैतेषु राजसु
+> प्र वोचं । प्रब्रवीमि । प्रख्यापयामीत्यर्थः । मघवत्स्यन्येषु धनवत्तु च
+> प्रख्यापयामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Pṛthavāna, Vena, the mighty Asura Rāma, and among these kings, and among other wealthy ones. The meaning is that I proclaim it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which gods
+- पंच शता (*paṃca śatā*)—five hundred chariots
+- युक्ताय (*yuktāya*)—having yoked with horses
+- पथा (*pathā*)—come by the path of sacrifice
+- एषां (*eṣāṃ*)—to those same gods
+- अस्मयु (*asmayu*)—the regard that they have for us
+- विश्रावि (*viśrāvi*)—is renowned in the world
+- तत् (*tat*)—this word of praise
+- दुःशीमे (*duḥśīme*)—also in Duḥśīma
+- पृथवाने (*pṛthavāne*)—also in Pṛthavāna
+- वेने (*vene*)—also in Vena
+- असुरे (*asure*)—the mighty
+- रामे (*rāme*)—also in Rāma
+- प्र वोचं (*pra vocaṃ*)—I proclaim and say
+- मघवत्सु (*maghavatsu*)—also among the other wealthy kings
+- प्र (*pra*)—I say
+
+##### भावार्थ (Bhāvārtha)
+
+The gods who yoke five hundred chariots with horses and come by the path of sacrifice: that the regard they have for us is renowned in the world, this word of praise I proclaim in the presence of Duḥśīma, of Pṛthavāna, of Vena and of the mighty Rāma. I proclaim it also among the other wealthy kings.
+
+##### English translation
+This I proclaim in the presence of Duhsima, Prithavana, Vena. the mighty Rama, and (other) opulent (princes): those who (come), having yoked five hundred (chariots), their affection for us is renowned on the road.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधीन्वत्र॑ सप्त॒तिं च॑ स॒प्त च॑ ।  
+> स॒द्यो दि॑दिष्ट॒ तान्वः॑ स॒द्यो दि॑दिष्ट पा॒र्थ्यः स॒द्यो दि॑दिष्ट  ॒
+> मायवः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधि । इत् । नु । अत्र । सप्ततिं । च । सप्त । च ।  
+> सद्यः । दिदिष्ट । तान्वः । सद्यः । दिदिष्ट । पार्थ्यः । सद्यः । दिदिष्ट । मायवः ॥ १५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 995. Sukta 93 Rk 4-8 and Samhita of Rk 9 (pp. 990-995)
+**Progress note:** Done through printed p. 1002. Sukta 93 Rk 9 (cont.) to 14, Samhita and Pada of Rk 15 (pp. 996-1002)
