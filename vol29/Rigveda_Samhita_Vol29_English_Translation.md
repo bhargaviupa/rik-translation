@@ -12330,6 +12330,150 @@ since fire is produced by churning in the aranis (pieces of wood), the aranis st
 
 and others. There are many Vedic statements that this wind brought Agni, who was hidden in a very distant region, for Bhṛgu and for Manu, the sacrificers, and helped them. For example—
 
+### Printed p. 443
+
+द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा । (*dvijanmānaṃ rayimiva praśastaṃ rātiṃ bharadbhṛgave mātariśvā |*) (Ṛ. Saṃ. 1-60-1)
+
+यं मातरिश्वा मनवे परावतो देवं भाः परावतः । (*yaṃ mātariśvā manave parāvato devaṃ bhāḥ parāvataḥ |*) (Ṛ. Saṃ. 1-128-2)
+
+ऐनं नयन्मातरिश्वा परावतो देवेभ्यो मथितं परि । (*ainaṃ nayanmātariśvā parāvato devebhyo mathitaṃ pari |*) (Ṛ. Saṃ. 3-9-5)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*) (Ṛ. Saṃ. 6-8-4)
+
+ईळेन्यं प्रथमं मातरिश्वा देवास्त्रत्कुर्मनवे यजत्रं । (*īḷenyaṃ prathamaṃ mātariśvā devāstratkurmanave yajatraṃ |*) (Ṛ. Saṃ. 10-46-9)
+
+In these and many other Ṛks it is well known from the Veda that Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, brought to the earth the Agni who lay hidden in a distant region, and thereby did good to all the people on earth.
+
+मातरिश्वा मथित् (*mātariśvā mathit*)—For the explanation of the word मातरिश्वा (*mātariśvā*), see the Special Topics of the Ṛk Ṛ. Saṃ. 1-93-6. The commentator explains the word विभृतः (*vibhṛtaḥ*) with कीदृशः मातरिश्वा । विभृतः । प्राणिसु प्राणापानादि पंच वृत्तिरूपेण विहृतो विभज्य स्थितः । (*kīdṛśaḥ mātariśvā | vibhṛtaḥ | prāṇisu prāṇāpānādi paṃca vṛttirūpeṇa vihṛto vibhajya sthitaḥ |*), that is, one who pervades living beings divided into five parts, prāṇa, apāna, vyāna, udāna and samāna; and of these, for the present context, he explains मातरिश्वा (*mātariśvā*) as व्यानवृत्तिरूपेणावस्थितो मुख्यप्राणः । (*vyānavṛttirūpeṇāvasthito mukhyaprāṇaḥ |*), that is, the wind who is the chief breath, existing in the form of vyāna. To support the view that the wind in this form alone is capable of kindling fire and performed this task, he cites in praise of the wind in the form of vyāna the passage of the Chāndogya Upaniṣad अथ यः प्राणापानयोः संधिः स व्यानः । अतो यान्यन्यानि वीर्यवंति कर्माणि यथाग्नेर्मंथनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्न नपानंस्तानि करोति । (*atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyānaḥ | ato yānyanyāni vīryavaṃti karmāṇi yathāgnermaṃthanamājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanamaprāṇanna napānaṃstāni karoti |*) The purport of this passage is that all deeds of valour that exceed the power of prāṇa and apāna, such as the kindling of fire, can be done only by the wind in the form of vyāna. (Chā. U. 1.3.3-5)
+
+There is an ancient story about the kindling of fire. As it says, सर्वमिदमंधंतम असीत् । अथ मातरिश्वाकाशे सूक्ष्ममग्निपश्यत् । तममथ्नात् । मथित्वा चानयदिति । (*sarvamidamaṃdhaṃtama asīt | atha mātariśvākāśe sūkṣmamagnipaśyat | tamamathnāt | mathitvā cānayaditi |*) Formerly the whole world was covered with pitch darkness. Then Mātariśvan perceived the subtle Agni in the sky and churned it. Afterwards he brought it to the earth so as to be useful for the sacrifice. This well-known story is told in the Ṛk-saṃhitā too, in a subtle way, in many places. For example—
+
+### Printed p. 444
+
+अन्यं दिवो मातारिश्वा जभारामथ्नादन्यं परि श्योनो अद्रेः । (*anyaṃ divo mātāriśvā jabhārāmathnādanyaṃ pari śyono adreḥ |*) (Ṛ. Saṃ. 1.93.6)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः । (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*) (Ṛ. Saṃ. 6-8-4)
+
+In these Ṛks also the praise of Agni is set out together with the context of the old story, just as it is praised here. The meaning is that it was only after Mātariśvan had brought him that Agni shone in the sacrificial house.
+
+**General description of the deity Mātariśvan**
+
+There is no sūkta that praises this deity alone. The name occurs twenty-seven times. It is understood that Mātariśvan and Agni are one, or that Mātariśvan produces Agni. Mātariśvan is a name of Agni itself (3-5-9; 3-26-2; 1-96-4). The address in (9-88-19) also must be applied to Agni. In another place Agni is named तनूनपात् (*tanūnapāt*) in his heavenly, atomic form; after his birth he is called नराशंस (*narāśaṃsa*); when he arises in the form of Mātariśvan, he himself becomes the swift-moving wind (3-29-11). The wise call the one by many names; they speak of Agni, Yama, Mātariśvan and so on (1-164-46). The name Bṛhaspati, which is said many times to be equal to Agni, belongs to Mātariśvan too. "That Bṛhaspati himself became Mātariśvan at the time of the sacrifice" (1-190-2).
+
+In some other places Agni and Mātariśvan are said to be different. He (Agni), born very high in heaven, appeared to Mātariśvan (1-143-2). In the beginning Agni appeared to Mātariśvan and Vivasvat (1-31-3). Because he is the greatest among the luminous bodies, Agni with his flames is the support of the sky; Mātariśvan made the hidden bearer of oblations blaze up (3-5-10). From the sky Mātariśvan brought one (Agni); the hawk brought another (Soma) from the mountain (1-93-6). Mātariśvan brought Agni, the revered priest, the dweller in heaven (3-2-13). The gods made Agni, born from Bhṛgu, the first priest for men (10-46-9). The deity Mātariśvan brought him (Agni) from very far away for the sake of man (1-128-2). Mātariśvan, the messenger of Vivasvat, brought Vaiśvānara Agni from very far away; the mighty ones seized him in the water (6-8-4). Mātariśvan brought from very far away the hidden Agni, who had been raised by the kindling of the araṇi (3-9-5). Mātariśvan churned the hidden Agni and produced him (1-141-3). Churned by Mātariśvan, Agni was established in the dwellings of men
+
+### Printed p. 445
+
+(1-71-4, 1-148-1). Indra, having released the cows for Trita from the grip of the serpent, gave the cow-stalls to Dadhyañc and Mātariśvan (10-48-2).
+
+In some sūktas of the later part of the Ṛgveda, although Mātariśvan is mentioned, nothing is learnt about his nature, qualities and the like. In two places (9-67-31; 10-114-1) it is said that he purified Soma and drank it. In another place (Vāla. 4-2) the name occurs among the group of the fathers; there Indra sits by his side and drinks Soma. Once Indra is compared to him as to an excellent craftsman (10-105-6). In the sūkta relating to marriage, when Mātariśvan is prayed, together with the other gods, to enter the hearts of the two lovers, this skill may be what is meant. Lastly, in one place Mātariśvan is said to be boundless and wandering (10-109-1). Both these qualities support the view that Mātariśvan means the wind.
+
+Thus Mātariśvan may be called the embodied heavenly Agni; moreover it is he who brought Agni from heaven to the earth. Lightning may be called the origin of Mātariśvan. Just as Agni is the messenger between these two worlds, so Mātariśvan came from heaven to earth as the messenger of Vivasvat. In the Atharvaveda also Mātariśvan is a name of Agni (A.Ve. 10-8-39 and 40) **NOTE**; but in the Brāhmaṇas and the like Mātariśvan means the wind itself. The basis for this view has already been stated (3.29-11). Agni, who in the atmosphere was like a hissing serpent, is described in another place as the wind rushing with force (1-79.1).
+
+The word मातरिश्वर् (*mātariśvar*) may mean one who grows in the mother, one who has taken shape. The root शु (*śu*) means to increase, to become larger in size. From it words such as शिशु (*śiśu*) are formed. Like Mātariśvan, Agni too grows in the mothers (1-141-5). When applied to Mātariśvan, the mother may be the lower part of the araṇi, or the cloud. Since Mātariśvan comes from the atmosphere, it can be said that the cloud is his mother. In the view of Yāska, Mātariśvan means the wind; मातरि (*mātari*) means in the atmosphere, and श्वन् (*śvan*) means one who breathes, or आशु आन् (*āśu ān*), one who breathes quickly; that is, it means the wind.
+
+### Printed p. 446
+
+वेदार्थस्य प्रकाशेश तमो हार्दं निवारयन् । (*vedārthasya prakāśeśa tamo hārdaṃ nivārayan |*)
+
+पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्येष्टमाष्टके तृतीयोऽध्यायः समाप्तः (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣyeṣṭamāṣṭake tṛtīyo 'dhyāyaḥ samāptaḥ*)
+
+Here the third chapter in the eighth Aṣṭaka of the Ṛgveda-saṃhitā, together with the Bhāṣya of Śrī Sāyaṇa and with a translation into the Karnāṭaka language, is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+
+तत्सर्वं क्षम्य तां देववागीश्वर नमोस्तु ते ॥ (*tatsarvaṃ kṣamya tāṃ devavāgīśvara namostu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+Auspiciousness.
+
+श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे . (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame .*)
+
+यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्चसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niścasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*)
+
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*)
+
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+प्राज्ञः श्रीसायणाचार्यो वाख्याय चरमेष्टके । (*prājñaḥ śrīsāyaṇācāryo vākhyāya carameṣṭake |*)
+
+स्पुटं तृतीयमध्यायं चतुर्थं वक्तुमुद्यतः । (*spuṭaṃ tṛtīyamadhyāyaṃ caturthaṃ vaktumudyataḥ |*)
+
+Ṛgveda-saṃhitā with the Bhāṣya of Sāyaṇa.
+
+अष्टमाष्टके चतुर्थोऽध्यायः (*aṣṭamāṣṭake caturtho 'dhyāyaḥ*)
+
+The fourth chapter in the eighth Aṣṭaka.
+
+## Sūkta 86 (Maṇḍala 10)
+
+The eighty-sixth sūkta in the tenth Maṇḍala.
+
+**Introduction**
+
+It is said that the seer of this sūkta is Vṛṣākapi, the son of Indra. This sūkta is a dialogue among three: Indra, Indrāṇī, and Vṛṣākapi, the son of Indra. Yāska has given the following etymology of the word वृषाकपि (*vṛṣākapi*)—
+
+वृषाकपिः । अथ यद्रश्मिभिरभिप्रकुपयन्नेति तद्वृषाकपिर्भवति वृषाकंपन । (*vṛṣākapiḥ | atha yadraśmibhirabhiprakupayanneti tadvṛṣākapirbhavati vṛṣākaṃpana |*) (Ni. 12-27)
+
+### Printed p. 448
+
+He has explained, with reference to the Sun, that the one who makes everything tremble with his rays is called Vṛṣākapi. To support this, he has given as an example the Ṛk of the present sūkta
+
+पुनरेहि वृषाकपे सुविता कल्पयावहै । (*punarehi vṛṣākape suvitā kalpayāvahai |*)
+
+य एष स्वप्ननंशनोऽस्तमेषि पथा पुनर्विश्वस्मादिंद्र उत्तरः ॥ (*ya eṣa svapnanaṃśano 'stameṣi pathā punarviśvasmādiṃdra uttaraḥ ‖*) (Ṛ. Saṃ. 10-86-21)
+
+The word स्वप्ननंशनः (*svapnanaṃśanaḥ*) in this Ṛk he has explained as the Sun, who by his rising brings to an end, that is, destroys, the sleep of living beings. Sāyaṇa has said that Vṛṣākapi is of the nature of the Sun. Although the meaning "the Sun" fits the word वृषाकपि (*vṛṣākapi*), the Vṛṣākapi spoken of in the present sūkta must be understood to be the son of Indra. Moreover, when speaking of Indrāṇī, the wife of Indra, Yāska
+
+cites the Ṛk
+
+नाहमिंद्राणि रारण सख्युवृषाकपेयुते । (*nāhamiṃdrāṇi rāraṇa sakhyuvṛṣākapeyute |*)
+
+यस्येदमप्यं हविः प्रियं देवेषु गच्छति विश्वस्मादिंद्र उत्तरः ॥ (*yasyedamapyaṃ haviḥ priyaṃ deveṣu gacchati viśvasmādiṃdra uttaraḥ ‖*) (Ṛ. Saṃ. 10-86-12)
+
+and Indra addresses Indrāṇī as his wife and as the mother of Vṛṣākapi (Ni. 11-39). Besides—
+
+वृषाकपायी । वृषाकपायी वृषाकपेः पत्न्यैवाभिसृष्टकालतमा ॥ (*vṛṣākapāyī | vṛṣākapāyī vṛṣākapeḥ patnyaivābhisṛṣṭakālatamā ‖*)
+
+He has said that Vṛṣākapāyī means the wife of Vṛṣākapi (Indra), and that Vṛṣākapi means the Sun.
+
+वृषाकपिः (*vṛṣākapiḥ*)
+
+It is not easy to state precisely the nature of the Vṛṣākapi who is indicated in the present sūkta. Roughly seen, Vṛṣākapi may be called a monkey dear to Indra. When this Vṛṣākapi, on one occasion, caused distress to the mind of Indrāṇī, the wife of Indra, the conversation that took place between Indra and Indrāṇī, and the taking part of Vṛṣākapi too in the middle of this conversation, is the subject of this sūkta. In it the meaning of the first Ṛk is given in two ways. According to one view it is the speech of Indra, according to the other the speech of Indrāṇī.
+
+According to the first explanation it is understood that Indra declares: although Vṛṣākapi drank the Soma assigned to me and deprived me of that delight, I myself am the lord of the whole world. And secondly—
+
+### Printed p. 449
+
+One purport is that Indrāṇī says: Vṛṣākapi drank the Soma assigned to my husband Indra and deprived my husband of this delight; yet my husband Indra is the lord of the whole world. Who this Vṛṣākapi is, and whether there is a basis for stating precisely the relation between Indra and Vṛṣākapi, and the like, must be examined in the present context.
+
+The Nirukta and the statements of the Bṛhaddevatā explain the nature of Vṛṣākapi to some extent. The author of the Nirukta gives the etymology of this word.
+
+यद्रश्किभिरभिप्रकंपयन्नेति तद्वृषाकपिर्भवति, वृषाकंपनः ॥ (*yadraśkibhirabhiprakaṃpayanneti tadvṛṣākapirbhavati, vṛṣākaṃpanaḥ ‖*) (Ni. 12-26)
+
+He has stated the purport that the one who by his rays makes everything tremble is Vṛṣākapi. Further, citing the Ṛk of the Ṛk-saṃhitā
+
+पुनरेहि वृषाकपे सुविता कल्पयावहै । (*punarehi vṛṣākape suvitā kalpayāvahai |*)
+
+य एष स्वप्ननंशनोस्तमेषि पथा पुनर्विश्वस्मादिंद्र उत्तरः ॥ (*ya eṣa svapnanaṃśanostameṣi pathā punarviśvasmādiṃdra uttaraḥ ‖*) (Ṛ. Saṃ. 10-5-21) **NOTE**
+
+he has explained the purport of the word वृषाकपि (*vṛṣākapi*) used in this Ṛk and the action of Vṛṣākapi. The purport of this Ṛk is as follows. O Vṛṣākapi, you are the destroyer of dreams. You must come again to travel by this path. Please come again. Let us both together perform the auspicious rite. The explanation of the author of the Nirukta, as to who is meant by Vṛṣākapi in the Ṛk that gives this purport, is as follows—
+
+पुनरेहि वृषाकपे सुप्रसूतानि वः कर्माणि कल्पयावहै । य एष स्वप्नदर्शनः स्वप्नान् नाशयसि आदित्य उदयेन सोऽस्तमेषि यथा पुनः । (*punarehi vṛṣākape suprasūtāni vaḥ karmāṇi kalpayāvahai | ya eṣa svapnadarśanaḥ svapnān nāśayasi āditya udayena so 'stameṣi yathā punaḥ |*)
+
+सर्वस्माद्य इंद्र उत्तरस्तमेतद् ब्रूम आदित्यं : (*sarvasmādya iṃdra uttarastametad brūma ādityaṃ :*) (Si.: 3-28) **NOTE**
+
+O Vṛṣākapi, you are the destroyer of dreams; that is, since at your rising in the morning the sleep of all is destroyed, you are the Sun. In accordance with your duty you must rise again. After your rising again, let us both together perform the auspicious rite. Addressing the Sun, who has the form of Indra, they say this same praise; thus it is declared that Vṛṣākapi and Indra are both special manifestations of the Sun. The authors of the Bṛhaddevatā too have indicated Vṛṣākapi as a deity belonging to the world of the Sun.
+
 ---
 
-**Progress note:** Done through printed p. 442. Sukta 85 Rk 45-47, special topics on devara, vidhava, matarisvan
+**Progress note:** Done through printed p. 449. pp. 443-449: Matarisvan special topics, end of adhyaya 3, start of sukta 86 introduction
