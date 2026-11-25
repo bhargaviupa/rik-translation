@@ -27129,6 +27129,356 @@ And may that wise one, born in the atmosphere, the god Ahi, hear in this sacrifi
 - शृणोतु (*śṛṇotu*)—may hear
 - दिविक्षिता (*divikṣitā*)—dwelling in the atmosphere
 
+### Printed p. 982
+
+- विचरंशा (*vicaraṃśā*)—moving everywhere
+- सूर्यामासा (*sūryāmāsā*)—the sun and the moon
+- धिया (*dhiyā*)—by their intelligence
+- अस्य (*asya*)—the greatness of our praise
+- बोधतं (*bodhataṃ*)—may they understand
+- शमी (*śamī*)—the earth, endowed with action
+- नहुषी (*nahuṣī*)—the presiding deity of heaven; may they understand this our praise
+
+##### भावार्थ (Bhāvārtha)
+
+May the wise Ahirbudhnya, dwelling in the atmosphere, hear in this sacrifice this extended praise of us, who are devoted to the worship of the gods and are priests. May the sun and the moon, dwelling in the atmosphere and moving everywhere, understand by their intelligence the greatness of our praise. May the earth, endowed with action, and the presiding deity of heaven understand this our praise.
+
+##### English translation
+And may the wise Ahi of the firmament hear the copious (praise) of us eager (worshippers) at the offering of oblations ; may the revolving sun and moon dwelling in heaven, the earth and sky, comprehend by their intelligence (the purport) of this (our praise). **NOTE**
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नः॑ पू॒षा च॒रथं॑ वि॒श्वदे॑व्यो॒ऽपां नपा॑दवतु वा॒युरि॒ष्टये॑ ।  
+> आ॒त्मानं॒ वस्यो॑ अ॒भि वात॑मर्चत॒ तद॑श्विना सुहवा॒ याम॑नि  
+> श्रुतं ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नः । पूषा । चरथं । विश्वदेव्यः । अपां । नपात् । अवतु । वायुः । इष्टये ।  
+> आत्मानं । वस्यः । अभि । वातं । अर्चित । तत् । अश्विना । सुहवा । यामनि । श्रुतं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषा देवो नोऽस्माकं संबंधि चरथं जंगमं प्रावतु । प्रकर्षेण रक्षतु ।
+> किंच विश्वदेव्यो विश्वदेवहितोऽपां नपाड्वायुरिष्टये यज्ञस्य निष्कृत्यर्थं
+> प्रावतु । चिंचात्मानं सर्वेषामात्मभूतं वातं वायुं वस्को वसीयः प्रशस्यतरमन्नं प्राप्तुं । अस्मभ्यमन्नं कामयमानमिति शेषः । हे अश्विनाश्विन् सुहवा
+> स्वाह्वान् युवां यामनि गमने तदिदं स्तोत्रं श्रुतं । शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+May the god Pūṣan protect well our moving property. Further, may Vāyu, who is beneficial to all the gods and is the offspring of the waters, protect us for the sake of the sacrifice, to bring it to completion. And, desiring food for us (this is to be supplied), worship Vāta, Vāyu, who is the self of all, in order to obtain better and more excellent food. O Aśvins, you who are well invoked, hear this praise at the time of going (to the sacrifice).
+
+### Printed p. 983
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—Pūṣan
+- नः (*naḥ*)—our
+- चरथं (*carathaṃ*)—the wealth of moving form
+- प्र अवतु (*pra avatu*)—may he protect
+- अपां नपात् (*apāṃ napāt*)—of the form of the son of the waters
+- विश्वदेव्यः (*viśvadevyaḥ*)—beneficial to all the gods
+- वायुः (*vāyuḥ*)—Vāyu
+- इष्टये (*iṣṭaye*)—may he protect us for the carrying out of our sacrifice
+- आत्मानं (*ātmānaṃ*)—of the nature of the self of all
+- वातं (*vātaṃ*)—Vāyu
+- वस्यः (*vasyaḥ*)—to obtain excellent food
+- अभ्यर्चत (*abhyarcata*)—worship
+- अश्विना (*aśvinā*)—O Aśvin gods
+- सुहवा (*suhavā*)—you who are worthy of good invocation
+- यामनि (*yāmani*)—at the time of the sacrifice
+- तत् (*tat*)—our praise
+- श्रुतं (*śrutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+May Pūṣan protect our wealth of moving form, cattle and the like. May Vāyu, who is of the form of the son of the waters and is beneficial to all the gods, protect us for the carrying out of our sacrifice. Worship Vāyu, who is the self of all, in order to obtain excellent food. O Aśvin gods, you who are worthy of good invocation, hear our praise at the time of the sacrifice.
+
+##### English translation
+May Pushan protect all our moveable (property), may Vayu, the friend of the Vishwadevas, the grandson of the waters, preserve us for the celebration of the sacrifice. Worship the wind, the soul of all, (to obtain) excellent (food); Ashwins, who are worthy to be invoked, hear us on your way.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒शामा॒सामभ॑यानामधि॒क्षितं॑ गी॒र्भिरु॒ स्वय॑शसं गृणीमसि।  
+> ग्नाभि॒र्विश्वा॑भि॒रदि॑तिमन॒र्वण॑म॒क्कोर्युवा॑नं नृ॒मणा॒ अधा॒  ॑
+> पतिं ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशां । आसां । अभयानां । अधिक्षितं । गीःभिः । ऊं इति । स्वयशसं । गृणेमसि ।  
+> ग्नाभिः । विश्वाभिः । अदितिं । अनर्वणं । अक्टोः । युवानं । नृमनाः । अध । पतिं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभयानां संसारभयरहितानामासां विशां मनुष्याणामधिक्षितमंतर्निवसंतं स्वयशसमुपार्जितकीर्तिमेनमग्निं गीर्भिः स्तुतिभिगृणीमसि । वयं स्तुमः ।
+> किंचानर्वणमप्रत्यृतां पत्न्युरपत्यांतत्वेनाप्रतिगतामदितिमदीनां देवमातरं
+
+##### Gist of the bhāṣya
+
+Of these people, who are free from the fear of worldly existence, we praise with songs, that is, with hymns, this Agni who dwells within them and has won fame by himself. Further, we praise Aditi, the mother of the gods, who is unopposed, that is, one who has not come to the end of her husband or offspring, together with all the wives of the gods.
+
+### Printed p. 984
+
+> विश्वाभिः सर्वाभिग्नाभिर्देवपत्नीभिः सह स्तुमः । किंचाक्तो रात्रेर्युवानं
+> स्वतेजसा मिश्रयितारं चंद्रमसं स्तुपुः । किंच नृमणाः नृषु मनुष्येष्वनुग्राहकमना यः तमादित्यं स्तुमः । अधाथ पतिं सर्वस्य पालकमिंद्रं स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+Further, we praise the moon, the youthful lord of the night, who mingles (the night) with his own radiance. Further, we praise the one whose mind is gracious to men, that is, Āditya. Then we praise the lord, Indra, the protector of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभयानां (*abhayānāṃ*)—of those free from the fear of worldly existence
+- आसां विशा (*āsāṃ viśā*)—among these people
+- अधिक्षितं (*adhikṣitaṃ*)—who dwells
+- स्वयशसं (*svayaśasaṃ*)—who has self-acquired fame, Agni
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- गृणीमसि (*gṛṇīmasi*)—we praise
+- अनर्वणं (*anarvaṇaṃ*)—one who is unobstructed
+- विश्वाभिः ग्नाभिः (*viśvābhiḥ gnābhiḥ*)—one who is united with all the wives of the gods
+- अदितिं (*aditiṃ*)—we praise Aditi also
+- अक्तोः (*aktoḥ*)—of the night
+- युवानं (*yuvānaṃ*)—the moon, who is lord by his own radiance
+- नृमनाः (*nṛmanāḥ*)—Āditya, whose mind favours men
+- अध (*adha*)—then
+- पतिं (*patiṃ*)—we praise Indra, the protector of the world
+
+##### भावार्थ (Bhāvārtha)
+
+We praise with songs Agni, who dwells among these people free from the fear of worldly existence and has self-acquired fame. We praise also Aditi, who is unobstructed and united with all the wives of the gods. We praise the moon, who is lord of the night by his own radiance, and Āditya, whose mind favours men, and then Indra, the protector of the world.
+
+##### English translation
+We glorify with praises Agni, the self-famous, who dwells amongst these fearless beings; we praise the irresistible Aditi, together with all the wives (of the gods); we praise the young (lord) of night (the moon), we praise the friend of man (the sun), we praise (Indra) the lord (of all).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रेभ॒दत्र॑ ज॒नुषा॒ पूर्वो॒ अंगि॑रा॒ ग्रावा॑ण ऊ॒र्ध्वा अ॒भि  ॒॑
+> चक्षुरध्वरं ।  
+> येभि॒र्विहा॑या॒ अभ॑वद्विचक्ष॒णः पाथः॑ सु॒मेकं॒ स्वधि॑ति॒र्वन॑न्वति ॥ १५ ॥
+
+### Printed p. 985
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रेभत् । अत्र । जनुषा । पूर्वः । अंगिराः । ग्रावाणः । ऊर्ध्वाः । अभि । चक्षुः ।  
+> अध्वरं ॥  
+> येभिः । विहायाः । अभवत् । विचक्षणः । पाथः । सुमेकं । स्वधितिः । वनन्वति!!
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगिरा नामर्षिरार्त्विज्येन वृतः स देवान्सौति । अत्रास्मिन्यज्ञे जनुषा
+> जन्मना पूर्वः प्रतोऽंगिरा नामर्षी रेभत् । देवान्सौति । ग्रावाणश्चोर्ध्व्या
+> उद्यताः संतोऽध्वरं यज्ञसाधनं सोममभि चक्षुः । अभिपश्यंति । विचक्षणो
+> विद्रष्टेंद्रो येभिर्य्यर्ग्रावभिरभिषवसंबंधिभिः शब्दैर्विहाया महानभवत् ।
+> हृष्टोऽभूदित्यर्थः । आस्येंद्रस्य स्वधितिर्वज्रो वनन्वत्युदकवति मार्गे पाथोऽन्नसाधनं सुमेकं शोभनमुदकं निरगमयदिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The seer named Aṅgirā, chosen as priest, praises the gods. Here, in this sacrifice, the ancient seer Aṅgirā, first by birth, praises the gods. The pressing stones, raised upward, look upon the Soma, the means of the sacrifice. Indra, the far-seeing, became great, that is, became delighted, through those stones, that is, through the sounds connected with the pressing. His thunderbolt (the word is supplied) led out good water, the means of food, on the watery path.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनुषा (*januṣā*)—in birth
+- पूर्वः (*pūrvaḥ*)—born before all
+- अंगिराः (*aṃgirāḥ*)—the seer Aṅgirā
+- अत्र (*atra*)—in this sacrifice
+- रेभत् (*rebhat*)—praises the gods
+- ग्रावाणः (*grāvāṇaḥ*)—the stones that press the Soma
+- ऊर्ध्वाः (*ūrdhvāḥ*)—rising with their faces upward
+- अध्वरं (*adhvaraṃ*)—the Soma, the means of the sacrifice
+- अभि चक्षुः (*abhi cakṣuḥ*)—they look upon
+- विचक्षणः (*vicakṣaṇaḥ*)—Indra, who has subtle vision
+- येभिः (*yebhiḥ*)—by the sound of those same stones
+- विहायाः (*vihāyāḥ*)—possessed of greater strength
+- अभवत् (*abhavat*)—becomes
+- स्वधितिः (*svadhitiḥ*)—the thunderbolt weapon of Indra also
+- वनन्वति (*vananvati*)—on the paths of water
+- पाथः (*pāthaḥ*)—the producer of food
+- सुमेकं (*sumekaṃ*)—and beneficent water it makes to flow
+
+##### भावार्थ (Bhāvārtha)
+
+The seer Aṅgirā, born before all, praises the gods in this sacrifice. The stones that press the Soma rise with their faces upward and look upon the Soma, the means of the sacrifice. Indra, who has subtle vision, becomes possessed of greater strength through the sound of those same stones. The thunderbolt of Indra also makes flow, on the paths of water, beneficent water that produces food.
+
+##### English translation
+Angiras, the prior in birth, praises (the gods) here; the uplifted stones behold (the Soma of) the sacrifice; through which (stones) the sage Indra has been exalted, (and his) thunderbolt brings forth excellent water, (producing) food on the watery way.
+
+### Printed p. 986
+
+## Sūkta 93 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महीति पंचदशर्चं तृतीयं सूक्तं । तान्वो नाम पृथोः पुत्र ऋषिः ।
+> द्वितीयातृतीये त्रयोदशी चेति तिस्रोऽनुष्टुभः । नवम्यक्षरसंख्यया पंक्तिर्न
+> पाद्यैः । एकादशी न्यंकुसारिण्यष्टकद्वादशकद्वृष्टकवती । पंचदशी पुरस्ताद्बृहत्याद्यद्वादशकत्र्यष्टका । शिष्टा नव प्रस्तारपंक्तिच्छंदस्काः । आद्या जागतौ द्वौ गायत्रौ
+> सा प्रस्तारपंक्तिः । विश्वे देवा देवता । तथा चानुक्रांतं । महि तान्वः पार्थः
+> प्रस्तारपांक्तं पुरस्ताद्बृहत्यंतं त्रयोदश्युपाद्ये चानुष्टुभो नवम्यक्षरैः
+> पंक्तिरेकादशी न्यूकुसारिणीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning with महीति (*mahīti*) has fifteen Ṛks and is the third sūkta. Its seer is Tānva, the son of Pṛthu. Of its verses, the second, the third and the thirteenth, three in all, are Anuṣṭubh. The ninth is Paṅkti by the count of syllables, not by the count of pādas. The eleventh is Nyaṅkusāriṇī, having pādas of eight, twelve, eight and eight syllables. The fifteenth is Purastādbṛhatī, having a first pāda of twelve and three of eight. The remaining nine are of the Prastārapaṅkti metre, whose first two pādas are Jagatī and the other two Gāyatra. The deities are the Viśvedevas. Sāyaṇa cites the Anukramaṇī to the same effect and adds that the use (viniyoga) has already been stated.
+
+##### Anuvāda
+
+This sūkta, beginning with महि (*mahi*), is the third sūkta in the eighth anuvāka. It has fifteen Ṛks. Its seer is Tānva, the son of the seer named Pṛthu; the Viśvedevas are the deity. In this sūkta the second, third and thirteenth (2, 3, 13) Ṛks are in the Anuṣṭubh metre; the ninth Ṛk is Paṅkti by the count of syllables, not by the count of pādas. The eleventh Ṛk is of the metre called Nyūkusāriṇī; in a Ṛk of this metre there are four pādas, of which the first has eight syllables, the second twelve, and the remaining two eight each. The fifteenth Ṛk is Purastādbṛhatī; in a Ṛk of this metre the first pāda has twelve syllables and the other three pādas eight each. The remaining nine Ṛks of this sūkta are of the metre called Prastārapaṅkti. If a Ṛk has four pādas, of which the first two are like the Jagatī metre and the other two like the Gāyatrī metre, it is called Prastārapaṅkti. In the Anukramaṇī it is said: महि तान्वः पार्थः प्रस्तारपांक्तं पुरस्ताद्बृहत्यंतं त्रयोदश्युपाद्ये चानुष्टुभो नवम्यक्षरैः पंक्तिरेकादशी न्यूकुसारिणी (*mahi tānvaḥ pārthaḥ prastārapāṃktaṃ purastādbṛhatyaṃtaṃ trayodaśyupādye cānuṣṭubho navamyakṣaraiḥ paṃktirekādaśī nyūkusāriṇī*). The use (viniyoga) has been stated before.
+
+##### Particulars
+
+- Sūkta 93
+- Maṇḍala 10; Anuvāka 8; Sūkta 93
+- Aṣṭaka 8; Adhyāya 4; Varga 26, 27, 28
+- Number of Ṛks in the sūkta: 15
+- Ṛṣi: तान्यः पार्थ्यः (*tānyaḥ pārthyaḥ*) **NOTE**
+- Devatā: विश्वे देवाः (*viśve devāḥ*)
+- Chandas: Ṛks 1, 4-8, 10, 12, 14: प्रस्तारपंक्तिः (*prastārapaṃktiḥ*); Ṛks 2, 3, 13: अनुष्टुप् (*anuṣṭup*); Ṛk 9: अक्षरैःपंक्तिः (*akṣaraiḥpaṃktiḥ*); Ṛk 11: न्युंकुसारिणी (*nyuṃkusāriṇī*); Ṛk 15: पुरस्ताद्बृहती (*purastādbṛhatī*)
+
+### Printed p. 988
+
+**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॑ द्यावापृथिवी भूतमु॒र्वी नारी॑ य॒ह्वी न रोद॑सी॒ ॑ 
+> सदं नः ।  
+> तेभि॑र्नः पातं॒ सह्य॑स ए॒भिनः॑ पातं शू॒षणि॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । द्यावापृथिवी इति । भूतं । उर्वी इति । नारी इति । यह्वी इति । न । रोदसी  
+> इति । सदं । नः ।  
+> तेभिः । नः । पातुं । सह्यसः । एभिः । नः । पातुं । शूषणि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे द्यावापृथिवी द्यावापृथिव्यौ युवां महत्यंतं यथा भवति तथोर्वी
+> विस्तीर्णे भूतं । भवतं । किंच यह्वी महत्र्य रोदसी द्वावापृथिव्यौ नारी
+> न स्त्रियाविन नोऽस्माकं सदं सदा भवतं । किंच युवां शूषणि नोस्माकं
+> शत्रुबले युष्मदीयैरेभिः पालनैः पातं । रक्षतं । किंच युष्मदीयैस्तेभिः तैः
+> पालनैर्नोऽस्माकं सह्यसोऽतिशयेनास्मानभिभवितुः शत्रोरपि पातं । रक्षतं ॥
+
+##### Gist of the bhāṣya
+
+O Heaven and Earth, be exceedingly great, that is, vast. Further, O great Rodasī, Heaven and Earth, be always for us like women. Further, in the might of our enemy, protect us with these protections of yours; and with those protections of yours protect us even from the enemy who overpowers us exceedingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावातृथिवी (*dyāvātṛthivī*)—O Heaven and Earth
+- महि (*mahi*)—exceedingly great
+- उर्वी (*urvī*)—possessed of vastness, be
+- भूतं (*bhūtaṃ*)—be
+- यह्वी (*yahvī*)—of great nature
+- रोदसी (*rodasī*)—O Heaven and Earth
+- नारी न (*nārī na*)—like women
+- नः (*naḥ*)—to us
+- सदं (*sadaṃ*)—be always favourable
+- शूषणि (*śūṣaṇi*)—possessed of strength greater than ours
+- नः (*naḥ*)—from our enemies
+- विभिः (*vibhiḥ*)—with your protections
+- पातं (*pātaṃ*)—protect
+- तेभिः (*tebhiḥ*)—with those same protections
+- नः (*naḥ*)—us
+- सह्यसः (*sahyasaḥ*)—from enemies who threaten and rush forward
+- पातं (*pātaṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Heaven and Earth, be possessed of exceeding vastness. O Heaven and Earth, of great nature, be always beneficial to us like our women. Protect us from our enemies who are possessed of strength greater than ours. Protect us from the enemies who threaten us and fall upon us.
+
+##### English translation
+Heaven and earth, be great and spacious ; mighty Rodasi, be ever with us like wives ; with these (your protections), protect us from (the foe who is) stronger (than we), with these protect us in the might (of our enemies).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञेय॑ज्ञे॒ स मर्त्यो॑ दे॒वान्त्स॑पर्यति ।  
+> यः सु॒मैर्दी॑र्घ॒श्रुत्त॑म आ॒विवा॑सात्येनान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञेऽयज्ञे । सः । मर्त्यः । देवान् । सपर्यति ।  
+> यः । सुम्मैः । दीर्घश्रुत्कतमः । अविवासाति । एनान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स मर्त्यो मनुष्यो यज्ञेयज्ञे सर्वेषु यज्ञेषु देवान्सर्वान्सपर्यति
+> परिचरति यो दीर्घश्रुत्तमोऽतिशयेन दीर्घस्य बहोः शास्त्रस्य श्रोता यो
+> मनुष्यः सुम्मैः सुखकरैर्हविर्भिरेनान्देवानाविवासाति परिचरति । असुखकरैर्हविर्भिः कृतमपि कर्म समर्थं न भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That mortal, that man, serves all the gods in every sacrifice, who is the greatest hearer of long, that is, abundant, scripture, and who serves these gods with pleasing oblations. The meaning is that a rite performed with oblations that are not pleasing does not become effective.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- दीर्घश्रुतमः (*dīrghaśrutamaḥ*)—being possessed of the knowledge of very extensive and many scriptures
+- सुम्मैः (*summaiḥ*)—with pleasing oblations
+- एनान् (*enān*)—the gods
+- अविवासाति (*avivāsāti*)—serves
+- सः मर्त्यः (*saḥ martyaḥ*)—that man
+- यज्ञे यज्ञे (*yajñe yajñe*)—in every sacrifice
+- देवान् (*devān*)—all the gods
+- सपर्यति (*saparyati*)—worships and satisfies
+
+##### भावार्थ (Bhāvārtha)
+
+The man who, possessed of the knowledge of very extensive and many scriptures, serves the gods with pleasing oblations, that man worships and satisfies all the gods in every sacrifice.
+
+### Printed p. 989
+
+##### English translation
+That man pleases the gods at every sacrifice who, being most versed in protracted texts, worships them with gratifying (oblations).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑षामिरज्यवो दे॒वानां॒ वार्म॒हः ।  
+> विश्वे॒ हि वि॒श्वम॑हसो॒ विश्वे॑ य॒ज्ञेषु॑ य॒ज्ञियाः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वेषां । इरज्यवः । देवानां । वाः । महः ।  
+> विश्वे । हि । विश्वमहसः । विश्वे । यज्ञेषु । यज्ञियाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वेषामिरज्यवो भुवनानामाश्वराः देवानां द्योतमानादिगुणयुक्तानां भवतां महो महद्वावर्रणीयं धनं विद्यत इति शेषः । तदस्मभ्यं
+> दत्तेति भावः । किंच विश्वे सर्वे यूयं विश्वमहसो व्याप्ततेजस्काः । किंच विश्वे
+> यूयं यज्ञेषु यज्जिया यष्टव्याः ॥
+
+##### Gist of the bhāṣya
+
+O lords of all the worlds, gods endowed with qualities such as radiance, there is of you a great, desirable wealth (the verb "is" is supplied); give it to us, is the sense. Further, all of you are of pervading splendour. And all of you are to be worshipped at the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वेषां (*viśveṣāṃ*)—of all the worlds
+- इरज्यवः (*irajyavaḥ*)—O gods who are lords
+- देवानां (*devānāṃ*)—belonging to all of you
+- महत् (*mahat*)—great
+- वाः (*vāḥ*)—and attractive wealth (give it to us all)
+- विश्वे ह (*viśve ha*)—all of you
+- विश्वमहसः (*viśvamahasaḥ*)—of exceedingly great fame
+- विश्वे (*viśve*)—all of you
+- यज्ञेषु (*yajñeṣu*)—in sacrifices
+- यज्ञियाः (*yajñiyāḥ*)—you are worthy of worship
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, lords of all the worlds, give us all the wealth that belongs to all of you, that is great and attractive. All of you are of exceedingly great fame. All of you are worthy of worship in sacrifices.
+
 ---
 
-**Progress note:** Done through printed p. 981. Ṛks 8-12 of Sūkta 92
+**Progress note:** Done through printed p. 989. Sukta 92 Rk 13-15 end; Sukta 93 intro, Rk 1-3 (pp. 982-989)
