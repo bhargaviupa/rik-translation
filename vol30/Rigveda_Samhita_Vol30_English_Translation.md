@@ -35033,6 +35033,236 @@ In this Ṛk and in the following ones the jīva that is in the body of the depa
 > तपसा । ये । अनाधृष्याः । तपसा । ये । स्वः । ययुः ।  
 > तपः । ये । चक्रिरे । महः । तान् । चित् । एव । अपि । गच्छतात् ॥ २ ॥
 
+### Printed p. 1037
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये जनास्तपसा कृच्छ्रचांद्रायणादिना युक्ताः संतोऽनादृष्याः पापैरप्रधृष्ट्या भवंति । ये च तपसा यागादिरूपेण साधनेन स्वर्ययुः स्वर्गं यांति
+> प्राप्नुवंति । ये च महो महत्तपोऽन्यैर्दुष्करं राजसूयाश्वमेधादिकं
+> हिरण्यगर्भाद्युपासनं वा चक्रिरे कुर्वंति एतेषु प्रवर्तंते तेषु लोकेषु । तांश्चित्तानेव तपस्विनो हे प्रेत अपिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Those people who, endowed with penance such as the kṛcchra and cāndrāyaṇa observances, are unassailable by sins; those who by penance in the form of sacrifice and the like have gone to heaven; and those who have performed great penance (mahaḥ tapaḥ) hard for others to perform, such as the Rājasūya and Aśvamedha, or the worship of Hiraṇyagarbha and the like, and who are engaged in these in those worlds: to those very ascetics, O departed one, go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O departed one), ये (*ye*)—who
+- तपसा (*tapasā*)—by austerity accompanied by kṛcchra, cāndrāyaṇa and the like
+- अनाध्यष्याः (*anādhyaṣyāḥ*)—those untouchable by sin
+- ये (*ye*)—who
+- स्वः (*svaḥ*)—the world of heaven
+- ययुः (*yayuḥ*)—who have attained
+- ये (*ye*)—who
+- महः (*mahaḥ*)—great
+- तपः (*tapaḥ*)—penance, not easy for others to accomplish, in the form of the Rājasūya and Aśvamedha sacrifices, or in the form of worship of Hiraṇyagarbha and the like
+- चक्रिरे (*cakrire*)—who are performing
+- तान् चित् एव (*tān cit eva*)—to such ascetic Pitṛs
+- अपि गच्छतात् (*api gacchatāt*)—go
+
+##### भावार्थ (Bhāvārtha)
+
+O departed one, go to those Pitṛs: those men who, while in this world, became free of sin through austerity and attained an excellent world; who through penance in the form of sacrifices have obtained heaven and dwell happily; who, having performed great penance difficult for others, are devoted to the worship of Brahman.
+
+##### English translation
+Those who through penance are unassailable (by sin), to those who through penance have gone to heaven, to those who have performed abundant penance, do you (O dead one) repair.
+
+### Printed p. 1038
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये युध्यं॑ते प्र॒धने॑षु॒ शूरा॑सो॒ ये त॑नू॒त्यजः॑ ।  
+> ये वा॑ स॒हस्र॑दक्षिणा॒स्तांश्चि॑दे॒वापि॑ गच्छतात् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । युध्यंते । प्रधनेषु । शूरासः । ये । तनूत्यजः ।  
+> ये । वा । सहस्रदक्षिणाः । ता, र् । चित् । एव । अपि । गच्छतात् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रधनेषु । प्रकीर्णान्यस्मिन्थनानि भवंतीति प्रधनाः संग्रामाः । तेषु शूरासः
+> शौर्यवंतो ये युध्यंते शत्रुन्संपहरंति । ये च तनूत्यजः शरीराणां तत्र
+> त्यक्तारो भवंति । ये वा ये च सहस्रदक्षिणाः सहस्रदक्षिणान्कृतूननुष्ठितवंतः । तान्सर्वानेव त्वमपिगच्छ । येषूत्तमेषु लोकेषु ते निवसंति तं लोकं
+> प्राप्नुहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Pradhanas" are battles, in which wealth is scattered. Those heroes who fight in them, destroying enemies; those who abandon their bodies there; and those who are *thousand-dakṣiṇā*, having performed sacrifices with a thousand dakṣiṇās: go to all of these. The meaning is: attain the excellent world in which they dwell.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O departed one), ये (*ye*)—who
+- प्रधनेषु (*pradhaneṣu*)—in battles
+- शूरासः (*śūrāsaḥ*)—as heroes
+- युध्यंते (*yudhyaṃte*)—who fight and destroy enemies
+- ये (*ye*)—who
+- तनूत्यजः (*tanūtyajaḥ*)—who give up the body in that battle (die)
+- ये वा (*ye vā*)—or who
+- सहस्रदक्षिणाः (*sahasradakṣiṇāḥ*)—who have performed sacrifices giving gifts such as dakṣiṇā in thousands
+- तान् चित् एव (*tān cit eva*)—to such Pitṛs
+- अपि गच्छतात् (*api gacchatāt*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+O departed one, go to those Pitṛs: those who fought valiantly in battles, died, and dwell in the heroes' heaven; those who gave dakṣiṇā in thousands, performed sacrificial rites, and dwell in excellent worlds.
+
+##### English translation
+To those who engage in battles, heroes who have given up their lives, or who have presented thousands of offerings, to them (O dead one) repair.
+
+### Printed p. 1039
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये चि॒त्तूर्व॑ ऋत॒साप॑ ऋ॒तावा॑न ऋता॒वृधः॑ ।  
+> पि॒त्थान्ततप॑स्वतो यम॒ तांश्चि॑दे॒वापि॑ गच्छतात् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । चित् । पूर्वे । ऋतसापः । ऋतवानः । ऋतवृधः ।  
+> पित्यन् । तपस्वतः । यम । तान् । चित् । एव । अपि । गच्छतात् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये चिद्ये च पूर्वे पूर्वपुरुषा ऋतसाप ऋतं सत्यं यज्ञं वा स्पृशंतः
+> अत एवर्तवान ऋतेन युक्ता ऋतवृध ऋतस्य वर्धकाश्च भवंति तपस्वतस्तपसा
+> युक्तांस्तानेव पित्थन् हे यम नियत त्वमपिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Those former ancestors who touch ṛta (truth, or sacrifice), and are therefore endowed with ṛta and are augmenters of ṛta, and who are possessed of penance: to those very Pitṛs, O Yama, the restrained one, go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यम (*yama*)—O departed one, who abides in restraint or is subject to restraint
+- ये चित् (*ye cit*)—which
+- पूर्वे (*pūrve*)—ancestors
+- ऋतसापः (*ṛtasāpaḥ*)—who practise truth or sacrifice
+- ऋतावानः (*ṛtāvānaḥ*)—who are therefore truthful
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—who, devoted to the performance of true acts, increase them
+- तपस्वतः (*tapasvataḥ*)—who have performed penance
+- तान् चित् एव (*tān cit eva*)—those very Pitṛs
+- अपि गच्छतात् (*api gacchatāt*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+O departed one, subject to restraint, go to those Pitṛs: the ancestors who, endowed with the practice of truth and of sacrifice, speak only truth, are devoted to good deeds and perform them, have done excellent penance and dwell in heaven and other excellent worlds. **NOTE**
+
+##### English translation
+Repair, Yama, to those ascetic Pitris who are ancient observers of truth, speakers of truth, and augmenters of truth.
+
+### Printed p. 1040
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑णीथाः क॒वयो॒ ये गो॑पा॒यंति॒ सूर्यं॑ ।  
+> ऋषी॒न्नप॑स्वतो यम तपो॒जा अपि॑ गच्छतात् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रनीथाः । कवयः । ये । गोपायंति । सूर्यं ।  
+> ऋषीन् । तपस्वतः । यम । तपःऽजान् । अपि । गच्छतात् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रनीथाः सहस्रनयनाः कवयः क्रांतदर्शिनो ये सूर्यममुमादित्यं
+> गोपायंति रक्षंति तपस्वतस्तपसा युक्तांस्तपोजांस्तपसः सकाशादेवोत्पन्नांस्तानृषीन् हे यम नियत त्वमपिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Those who are "thousand-leaders" (sahasranīthāḥ), "thousand-eyed", and kavis, far-seeing, who protect yonder sun; those seers (ṛṣis) endowed with penance and born of penance itself: to them, O Yama, the restrained one, go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यम (*yama*)—O departed one, subject to restraint
+- सहस्रनीथाः (*sahasranīthāḥ*)—those of innumerable eyes
+- कवयः (*kavayaḥ*)—seers of supersensuous matters
+- ये (*ye*)—which great ones
+- सूर्यं (*sūryaṃ*)—this sun
+- गोपायंति (*gopāyaṃti*)—who protect
+- तपस्वतः (*tapasvataḥ*)—those endowed with penance
+- तपोजान् (*tapojān*)—those born of penance itself
+- ऋषीन् (*ṛṣīn*)—those seers
+- अपि गच्छतात् (*api gacchatāt*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+O departed one, subject to restraint, go to the seers in the excellent world where they dwell: those of innumerable eyes, that is, of wide vision, all-round knowledge and knowledge of the supersensuous, who protect this sun; ascetics born of the greatness of penance.
+
+##### English translation
+Repair, Yama, to those ascetic Rishis, the sons of penance, who protect the sun, being leaders of thousands, and intelligent.
+
+## Sūkta 155 (Maṇḍala 10)
+**Introduction**
+In this sūkta Alakṣmī is praised. Alakṣmī (Aśrī) is the deity presiding over poverty, bodily sloth, sorrow, calamity, lack of food or famine, and similar misfortunes.
+
+### Printed p. 1041
+Since nobody desires these, here this deity is bidden to depart. Concerning this sūkta, the work called Ṛgvidhāna says:
+
+अलक्ष्मीनाशनार्थं तु जपेन्नित्यं शिरिंबिरं ॥ ७८ ॥ अपामार्गमयिां शाखां सदर्भां सहवीरणां । गृहीत्वात्मानं पावयेदधश्चोर्ध्वं च नित्यशः ॥ ७९ ॥ आज्यं चानेन जुहुयात्सहस्रं दशतीर्दश । त्रैहेण नुदते देहादलक्ष्मीं शतवार्षिकीं ॥ (*alakṣmīnāśanārthaṃ tu japennityaṃ śiriṃbiraṃ ‖ 78 ‖ apāmārgamayiāṃ śākhāṃ sadarbhāṃ sahavīraṇāṃ | gṛhītvātmānaṃ pāvayedadhaścordhvaṃ ca nityaśaḥ ‖ 79 ‖ ājyaṃ cānena juhuyātsahasraṃ daśatīrdaśa | traiheṇa nudate dehādalakṣmīṃ śatavārṣikīṃ ‖*) and चांद्रायणं चरन्नेतत्तूक्तं सिद्धिकरं जपेत् । अलक्ष्मीं नुदते देहादपि वर्षसहस्रिकीं ॥ (*cāṃdrāyaṇaṃ carannetattūktaṃ siddhikaraṃ japet | alakṣmīṃ nudate dehādapi varṣasahasrikīṃ ‖*) (Ṛgvidhāna, Adhyāya 4, verses 78-81).
+
+For the destruction of Alakṣmī, this sūkta beginning "अरायि काणे (*arāyi kāṇe*)" is to be muttered every day. One should bring twigs of the apāmārga tree and darbha grass, and with them offer ten thousand oblations with ghee in the fire. If this is done, poverty, disease and the like, which have followed for hundreds of years, will be removed within three days. If this sūkta is muttered with the vow and observances of cāndrāyaṇa, all diseases that have come down for thousands of years will be destroyed, and poverty too will be destroyed.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरायीति पंचर्चं चतुर्थं सूक्तं भरद्वाजपुत्रस्य शिरिंबिरस्यार्षमानुष्टुभं । जपहोमादिभिरिदं सूक्तमश्रीनाशकरं । तत्राद्योपांत्ययोस्तादृशोऽर्थ
+> एव देवता । द्वितीयातृतीये ब्राह्मणस्पत्ये । पंचमी वैश्वदेवी । अनुक्रम्यते हि ।
+> अरायि शिरिंबिरो भारद्वाजोऽलक्ष्मीघ्नं द्वितीयातृतीये ब्राह्मणस्पत्ये अंत्या
+> वैश्वदेवीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta "अरायि (*arāyi*)", of five ṛcs, the fourth sūkta, has Śirimbiṭha (Śirimbira), son of Bharadvāja, as seer, and the Anuṣṭubh metre. By muttering, oblation and the like, this sūkta destroys Alakṣmī. Its deity in the first and the last-but-one verse (the fourth) is that very meaning (Alakṣmī); the second and third are addressed to Brahmaṇaspati; the fifth to the Viśvedevas. The Anuktamaṇī says: अरायि शिरिंबिरो भारद्वाजोऽलक्ष्मीघ्नं द्वितीयातृतीये ब्राह्मणस्पत्ये अंत्या वैश्वदेवीति (*arāyi śiriṃbiro bhāradvājo 'lakṣmīghnaṃ dvitīyātṛtīye brāhmaṇaspatye aṃtyā vaiśvadevīti*). The viniyoga has been given.
+
+##### Anuvāda
+
+This sūkta "अरायि (*arāyi*)" is the fourth sūkta in the twelfth anuvāka. It has five ṛcs. Its seer is Śirimbiṭha, son of the sage Bharadvāja; the metre is Anuṣṭup. Since it is said that by muttering, oblations and the like of this sūkta Alakṣmī is destroyed, the destruction of Alakṣmī is the deity of the first and fourth ṛcs; Brahmaṇaspati is the deity of the second and third; the fifth ṛc is addressed to the Viśvedevas. In the Anukramaṇikā it is said: अरायि शिरिंबिरो भारद्वाजोऽलक्ष्मीघ्नं द्वितीयातृतीये ब्राह्मणस्पत्ये अंत्या वैश्वदेवी (*arāyi śiriṃbiro bhāradvājo 'lakṣmīghnaṃ dvitīyātṛtīye brāhmaṇaspatye aṃtyā vaiśvadevī*). The viniyoga has been stated earlier.
+
+### Printed p. 1042
+Sūkta 155. Maṇḍala 10, Anuvāka 12, Sūkta 155. Aṣṭaka 8, Adhyāya 8, Varga 13. Number of ṛcs in the sūkta: 5. Ṛṣi: Śirimbiṭha Bhāradvāja. Deity: 1, 4 Alakṣmī-destroyer; 2-3 Brahmaṇaspati; 5 Viśve Devāḥ. Metre: Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरा॑यि॒ काणे॒ विक॑टे गि॒रिं ग॑च्छ सदान्वे ।  
+> ति॒रिंबि॑रस्य॒ सत्व॑भि॒स्तेभि॑ष्ट्वा चातयामसि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरायि । काणे । विकटे । गिरिं । गच्छ । सदान्वे ।  
+> शिरिंबिठस्य । सत्त्वभिः । तेभिः । त्वा । चातयामसि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अराय्यदायिनि दानविरोधिनि हे काणे कुत्सितशब्द कारिणि कुत्सितदर्शने वा
+> हे विकटे विकृतगमने विकृतांगे ना हे सदान्वे सदानोनुवे सर्वदाक्रोशकारिणि
+> दुर्भिक्षादिदेवते गिरिं पर्वतं निर्जनदेशं गच्छ । अस्मान्मा बाधिष्ठाः । शिरिंबिरस्य ।
+> बिठमंतरिक्षं । शीर्यते बिठेऽंतरिक्ष इति शिरिंबिरो मेघः । तस्य सत्वभिरंतर्वर्तमानैरुदकैस्तेभिस्तैस्त्वा त्वां चातयामसि । चातयामः । विनाशयामः । यद्वा ।
+> शिरिंबरस्यॆतत्संज्ञकस्य भरद्वाजपुत्रस्य तेभिस्तरनुष्ठितैः सत्वभिः कर्मभिर्हे अलक्षि
+> त्वां विनाशयामः । इतस्त्वमेव शीघ्रं गिरिं गच्छ ॥
+
+##### Gist of the bhāṣya
+
+O arāyi (non-giver, hostile to giving), O kāṇā (one who makes vile sounds, or of vile sight), O vikaṭā (of distorted gait or distorted limbs), O sadānvā (ever wailing), deity of famine and the like: go to the mountain, a desolate region; do not afflict us. *Biṭha* is the atmosphere; Śirimbiṭha, "he who is shattered in the atmosphere", is the cloud. With those waters within it we drive you away (cātayāmasi, we destroy). Or else: with the deeds performed by Śirimbiṭha, the son of Bharadvāja so named, O Alakṣmī, we destroy you; so go quickly to the mountain from here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरायि (*arāyi*)—O hostile to giving
+- काणे (*kāṇe*)—one called by a vile word, or one who walks in a distorted way
+- विकटॆ (*vikaṭè*)—one of distorted limbs, or who walks in a distorted way
+- सदान्वे (*sadānve*)—one who is always weeping, O deity of famine
+- गिरिं (*giriṃ*)—to the mountain, a desolate region
+- गच्छ (*gaccha*)—depart (do not trouble us)
+- शिरिंबिठस्य (*śiriṃbiṭhasya*)—of the cloud
+- सत्वभिः तैः (*satvabhiḥ taiḥ*)—with those essential **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 1036. pp. 1031-1036 (batch API)
+**Progress note:** Done through printed p. 1042. pp. 1037-1042 (batch API)
