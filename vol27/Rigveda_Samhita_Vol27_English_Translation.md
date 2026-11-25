@@ -20555,6 +20555,189 @@ go to and reach the world of Mṛtyu; therefore the seer calls it Mṛtyu's own 
 
 O kinsmen of the dead: of Mṛtyu who is going away—पदं (*padaṃ*) is that in which one goes, the pitṛyāṇa path. Avoiding it, bewildering it, since you have gone by the devayāna path, therefore you will be bearing a longer life, much more excellent, in the extreme. Moreover, O sacrificers, worthy of sacrifice, performers of sacrifice, with offspring such as sons and grandsons, with wealth such as cattle and horses ….
 
+### Printed p. 599
+
+> चाप्यायमाना वर्धमानाः संतः शुद्ध जन्मांतरसंचितदुरितक्षयाच्चुद्ध भवत ।
+> पूता वर्तमानजन्मोपचितदुरितक्षयाच्च पूता भवत ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मृत्योः (*mṛtyoḥ*)—of death (O relatives of the dead man)
+- पदं (*padaṃ*)—the place
+- योपयंतः (*yopayaṃtaḥ*)—abandoning
+- यत् (*yat*) यस्मात् (*yasmāt*) ऐत (*aita*)—because you travel by the path of the gods; as its result
+- द्राघीयः (*drāghīyaḥ*)—long
+- आयुः (*āyuḥ*)—life-span
+- प्रतरं (*prataraṃ*)—most excellently
+- दधानाः (*dadhānāḥ*)—having obtained
+- यज्ञियासः (*yajñiyāsaḥ*)—O sacrificers, performers of the sacrifice
+- प्रजया (*prajayā*)—with progeny
+- धनेन (*dhanena*)—with wealth
+- आप्यायमानाः (*āpyāyamānāḥ*)—having grown
+- शुद्धाः (*śuddhāḥ*)—free of sin
+- पूताः (*pūtāḥ*)—free of stain
+- भवत (*bhavata*)—you become
+
+##### भावार्थ (Bhāvārtha)
+
+O relatives of the dead man, you abandon the place of death, and as the result of travelling by the path of the gods you obtain a long life-span most excellently. O sacrificers, joined with progeny and wealth, you become increased, free of sin and free of stain.
+
+##### English translation
+If, avoiding the path of death, you go (on the path of the gods), assuming a longer and better life, (my friends) then may you, (O, sacrificers), diligent in sacrifice, enriched with progeny and affluence, be cleansed and pure.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer speaks to the dead man's kinsmen, that is, his relatives. In this Ṛk and some following ones, grief for the dead man is expressed: he has left us and gone from this world. We who still live should not fall to death as he did, but live long, growing through sons, grandsons and so on, and through wealth and the like — this is the sense expressed. Those who still live, seeing the dead and grieving, fearing that this fate may come to them too, pray that all may live long without falling under death's power; this prayer is stated in this Ṛk and the next three.
+
+### Printed p. 600
+The sense of the Ṛk, phrase by phrase: मृत्योः पदं योपयंतः यत् ऐत (*mṛtyoḥ padaṃ yopayaṃtaḥ yat aita*)—O kinsmen of the dead, Death has taken your relative to his own world by his own path of the Fathers. But you who live, do not go toward the Fathers' path, the path of Death. That path is appointed only for the dead. Leave it and take refuge in the path of the gods. For द्राघीय आयुः प्रतरं दधानाः (*drāghīya āyuḥ prataraṃ dadhānāḥ*)—obtain long life so as to live a long time. Why should you who are long-lived have a liking for the Fathers' path, the path of the dead?
+यज्ञियासः प्रजया धनेन आप्यायमानाः शुद्धाः पूता भवत (*yajñiyāsaḥ prajayā dhanena āpyāyamānāḥ śuddhāḥ pūtā bhavata*)—O kinsmen, performing sacrifices and the like, growing through sons, grandsons and offspring and through wealth, released from all sins done in former births and in this one, live as pure ones: this assurance is stated here.
+Because one kinsman has died, the other relatives need not suffer long in grief. His death came from the fruit of his own deeds. What use is it for you who live to grieve in vain? Strive to live long. May your span of life increase. Performing sacrifices, and as the fruit of those good deeds growing day by day through sons, grandsons and wealth, shed your sins and live happily: this is the main sense of this Ṛk.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे जी॒वा वि मृ॒त्यैराव॑वृत्र॒न्नभू॑द्भ॒द्रा दे॒वहू॑तिर्नो अ॒द्य ।  
+> प्रांचो॑ अगाम नृ॒तये॒ हसा॑य॒ द्राघी॑य॒ आयुः॑ प्रत॒रं  ॑
+> दधानाः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । जीवाः । वि । मृत्यैः । आ । अववृत्रन् । अभूत् । भद्रा । देवहूतिः । नः ।  
+> अद्य ।  
+> प्रांचः । अगाम । नृतये । हसाय । द्राघीयः । आयुः । प्रतरं । दधानाः ॥३॥
+
+### Printed p. 601
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पैतृमेधिके कर्मण्यमात्या इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति ।
+> सूत्रितं च । इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति । आ. गृ. ४-४९९ । इति ॥
+> इमे जीवा जीवंतः पुरुषा मृतैः पित्रादिभिः । तेभ्य इत्यर्थः । व्याववृत्रन् ।
+> व्यावृत्ता भवंतु । एते न म्रियंतामिति भावः । किंचाद्यास्मिन्निने नोऽस्माकमशौचे विसृष्टे देवहूतिः देवानामाह्वानं यत्र स देवहूतिः पितृमेधाख्यो
+> यज्ञो भद्रा कल्याणोऽभूत् । भवतु । तत उत्तरं वयं प्रांचः प्राज्मुखांचना अगाम । गच्छेम । प्रत्यंच इति भावः । नृतये नर्तनाय कर्मणि गात्रविक्षेपाय । स्वकर्मानुष्ठानायेति भावः । हसाय हसनाय पुत्रादिभिः सह क्रीडनाय ।
+> कीदृशा वयं । द्राघीय आयुः प्रतरं दधानाः ॥
+
+##### Gist of the bhāṣya
+
+In the Pitṛmedha rite the attendants go back turned round (to the left), reciting *ime jīvā vi mṛtaiḥ*; and it is prescribed in a sūtra: इमे जीवा वि मृतैरिति सन्यावृतो व्रजंति (*ime jīvā vi mṛtairiti sanyāvṛto vrajaṃti*), Ā. Gṛ. 4-499. These living men, in relation to the dead — fathers and others — should turn away from them; the sense is, let these not die. Further, today, with our impurity (of death) discharged, the sacrifice called Pitṛmedha, in which the gods are invoked (देवहूतिः (*devahūtiḥ*)), is to be auspicious. After that we go forward (प्रांचः (*prāṃcaḥ*)), facing east, that is, not backwards. नृतये (*nṛtaye*) means for dancing, for the movement of the limbs in action, that is, for performing our own rites. हसाय (*hasāya*) means for laughter, for playing with sons and others. What are we like? Possessing a longer and better life-span.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमे जीवाः (*ime jīvāḥ*)—these living men
+- मृत्यैः (*mṛtyaiḥ*)—more than the dead, fathers and others
+- नि आ अववृत्रन् (*ni ā avavṛtran*)—may they live separately
+- अद्य (*adya*)—today
+- नः (*naḥ*)—our
+- देवहूतिः (*devahūtiḥ*)—the sacrifice called Pitṛmedha
+- भद्रा (*bhadrā*)—auspicious
+- अभूत् (*abhūt*)—may it be
+- प्राज्ञाः (*prājñāḥ*)—facing the east
+- अगाम (*agāma*)—let us go
+- नृतये (*nṛtaye*)—for dancing
+- हसाय (*hasāya*)—for laughing
+- द्राघीयः (*drāghīyaḥ*)—very long
+- आयुः (*āyuḥ*)—life-span
+- प्रतरं (*prataraṃ*)—most excellently
+- दधानाः (*dadhānāḥ*)—we who have obtained, let us set out
+
+##### भावार्थ (Bhāvārtha)
+
+May these living men live apart from the dead fathers and others. Today may our sacrifice called Pitṛmedha be auspicious. Let us go facing east. Let us be those who have obtained a very long life-span most excellently, for dancing and for a joyful life.
+
+##### English translation
+May those who are living remain separate from the dead : may our invocation of the gods to-day be successful : let us go forward to dancing and laughter, assuming a longer and better life.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the funeral rite called Pitṛmedha, the kinsmen return from that place reciting this Ṛk इमे जीवाः वि मृत्यैः (*ime jīvāḥ vi mṛtyaiḥ*), as is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra इमे जीवा वि मृत्यैंति सव्यावृतो व्रजंति (*ime jīvā vi mṛtyaiṃti savyāvṛto vrajaṃti*) (Ā. Gṛ. 4-4-9). **NOTE**
+
+### Printed p. 602
+In this Ṛk too the duty of the kinsmen performing the last rites for the dead man is explained.
+इमे जीवाः मृत्यैः वि अववृत्रन् (*ime jīvāḥ mṛtyaiḥ vi avavṛtran*)—Since the last rites for the dead fathers and others have been completed in the burial ground, let the dead man's kinsmen who are alive leave this burial ground and return, facing their homes.
+अद्य नः देवहूतिः भत्रा अभूत् (*adya naḥ devahūtiḥ bhatrā abhūt*)—Since the last rite we perform today has ended, our impurity of death is removed. Therefore may there be auspiciousness for us in the sacrifice called Pitṛmedha that we perform for the gods and the Fathers. **NOTE**
+प्रांचो आगाम नृतये हसाय (*prāṃco āgāma nṛtaye hasāya*)—When this rite is over, freed from grief for the dead man, let us return from this burial ground and go facing east to our homes, so as to be active in our own rites, and to pass the time with sons and others in play and amusement.
+द्राघीयः आयुः प्रतरं दधानाः (*drāghīyaḥ āyuḥ prataraṃ dadhānāḥ*)—Let us go from this place toward our homes, in order to obtain a long life and live long.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं जी॒वेभ्यः॑ परि॒धिं द॑धामि॒ मैषां॒ नु गा॒दप॑रो॒ अर्थ॑मे॒तं ।  
+> श॒तं जी॑वंतु श॒रदः॑ पुरू॒चीरं॒तर्मृ॒त्युं द॑धतां॒ पर्व॑तेन ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । जीवेभ्यः । परिधिं । दधामि । मा । एषां । नु । गात् । अपरः । अर्थं ।  
+> एतं ।  
+> शतं । जीवंतु । शरदः । पुरूचीः । अंतः । मृत्युं । दधतां पर्वतेन ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आनया जीवरक्षार्थं पाषाणं परिधिरूपेण स्थापयंति । जीवेभ्यो
+> जीवद्भ्यः पुत्रपौत्रादिभ्यस्तेषां रक्षणार्थमेवं परिधिं मृत्योः परिधानभूतं
+
+##### Gist of the bhāṣya
+
+With this Ṛk they set up a stone as a boundary-wall (परिधि (*paridhi*)) to protect the living. For the living, sons, grandsons and the rest, to protect them, I set this boundary, a stone that serves as a barrier against Death,
+
+### Printed p. 603
+
+> पाषाणं दधामि । निदधामि । तत एषां जीवतां मध्येऽपरोऽन्य एतमिमनुर्थं ॥
+> आर्तॆरिदं रूपं ॥ गंतव्यं मरणाख्यं मार्गं नु क्षिप्रं मा गात् । मा गच्छतु ।
+> एतदर्थं परिधिं स्थापयामीति संबंधः । किंच पुरूचीर्बह्वंचना बहुगमना:
+> शतं शरद एतत्संख्याकान्वर्षान्जीवंतु । स्वस्वप्राणान्धारयंतु । तथा पर्वतेन
+> शिलोच्चयेन मृत्युं सर्वेषां मारकमेतन्नामकमंतर्दधतां । अंतर्हितं
+> कुर्वंतु । यथा नागच्छति तथा कुर्वतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+I place it. Then, among these living, let no other go quickly upon this path called death, the "goal" (अर्थं (*arthaṃ*), from the root ऋ (*ṛ*), to go), the way to be travelled; I set the boundary for this purpose — such is the connection. Further, पुरूचीः (*purūcīḥ*) means going many ways: let them live a hundred autumns, that many years, and hold their own breaths. And let them put out of sight, by a mountain (पर्वतेन (*parvatena*)), a heap of stone, Death, the slayer of all, who is so named; let them make it hidden, that is, act so that he does not come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जीवेभ्यः (*jīvebhyaḥ*)—for the protection of those who live
+- इमं परिधिं (*imaṃ paridhiṃ*)—this circle of stone
+- दधामि (*dadhāmi*)—I construct
+- एषां (*eṣāṃ*)—among these living men
+- अपरः (*aparaḥ*)—anyone at all
+- एतं अर्थं (*etaṃ arthaṃ*)—this path of death
+- नु (*nu*)—quickly
+- मा गात् (*mā gāt*)—let him not reach
+- पुरूचीः (*purūcīḥ*)—very long
+- शतं (*śataṃ*)—a hundred in number
+- शरदः (*śaradaḥ*)—autumns
+- जीवंतु (*jīvaṃtu*)—let them live
+- पर्वतेन (*parvatena*)—by masses of stone
+- मृत्युं (*mṛtyuṃ*)—Death
+- अंतः दधतां (*aṃtaḥ dadhatāṃ*)—let them hide
+
+##### भावार्थ (Bhāvārtha)
+
+For the protection of the living I construct this circle of stone. Let none of these living men reach this path of death. Let them live for very long, a hundred autumns (a hundred years). By masses of stone let them hide Death.
+
+##### English translation
+I erect this circle (of stones) for (the protection of) the living, that none other of them may approach this path; may they live a hundred years, occupied by many holy works, and keep death hidden by this mound.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is the custom to recite this Ṛk while placing small stones around as a boundary, as a protective binding, so that Death may not approach the living kinsmen. In worldly practice, to protect a house, or fields, from wild beasts and from other people, a wall or a fence is put around. In the same way, it appears that the custom arose of making such an enclosure of stones around, so that the deity Death should not come and carry off others among the living. Although Death cannot be prevented from coming in this way, it is understood that people in former times held such a superstition.
+
+### Printed p. 604
+Many such precautionary measures and customs are still found among forest peoples of some countries. After one of them has died, it is natural to follow such a precaution so that this fate may not come to any of the rest.
+इमं जीवेभ्यः परिधिं दधामि (*imaṃ jīvebhyaḥ paridhiṃ dadhāmi*)—So that Death may not approach us who remain alive and our own people, sons, grandsons and others, and to protect them, I set around them this boundary in the form of stones, that is, a kind of enclosure all around. For that I place stones around and prevent Death from coming here.
+एषां अपरः एतं अर्थं नु मा गात् (*eṣāṃ aparaḥ etaṃ arthaṃ nu mā gāt*)—Because one man among us has now died, we are in very great sorrow. Therefore let no other one among us quickly follow the path of Death, that is, fall to death. For this I make this protection. For the word अर्थं (*arthaṃ*) in this sentence the commentator explains: आर्तेरिदं रूपं गंतव्यं मरणाख्यं मार्गं (*ārteridaṃ rūpaṃ gaṃtavyaṃ maraṇākhyaṃ mārgaṃ*); the word अर्थं (*arthaṃ*), formed from the root ऋ (*ṛ*) meaning "go", means "path".
+शतं जीवंतु शरदः पुरूची (*śataṃ jīvaṃtu śaradaḥ purūcī*)—Let those who now remain alive, moving about strong and sturdy, live a hundred years. Here the word शरदः (*śaradaḥ*) indicates a year. Although the word शरत् (*śarat*) generally means the autumn season or the cold season, since autumn comes only once in a year, it is the custom in the Vedas to use the word शरत् (*śarat*) when indicating a period of one year. Therefore here शतं शरदः (*śataṃ śaradaḥ*) is said, "a hundred years". Since the full limit of a man's life is said to be a hundred years, when it says "let them live a hundred years" the sense is that a man should live until his span of life is complete.
+पर्वतेन मृत्युं अंतः दधतां (*parvatena mṛtyuṃ aṃtaḥ dadhatāṃ*)—पर्वत (*parvata*) means a heap of stones, a mass of rocks. The sense is that this enclosure in the form of a boundary has been made, using many stones, to prevent Death from staying there and coming out.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथाहा॑न्यनुपू॒र्वं भवं॑ति॒ यथ॑ ऋ॒तव॑ ऋ॒तुभि॒र्यंति॑  ॒
+> साधु ।
+
 ---
 
-**Progress note:** Done through printed p. 598. pp. 593-598 (batch API)
+**Progress note:** Done through printed p. 604. pp. 599-604 (batch API)
