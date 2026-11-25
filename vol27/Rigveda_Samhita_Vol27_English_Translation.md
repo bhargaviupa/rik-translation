@@ -5651,6 +5651,268 @@ They cleanse you readily, clothed with water, green-tinted, for the invigoration
 
 > इंदुः । इंद्राय । तोशते । नि । तोशते । त्रीणन् । उग्रः । रिणन् । आपः ॥ २२ ॥
 
+### Printed p. 121
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः सोम इंद्रायेंद्रार्थं तोशते । हस्यते । अभिषूयते । नि
+> तोशते । नितरामभिषूयते । तोशतिर्वधकर्मा । कीदृशः । श्रीणन् प्रेरयन्
+> सोमोऽभिषूयते ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is Soma, is effused (तोशते (*tośate*)) for Indra, that is, for Indra's sake; the word is glossed हस्यते (*hasyate*), "is pressed out". नि तोशते (*ni tośate*) means that he is pressed out thoroughly. The root तोशति (*tośati*) has the sense of slaying. What kind of Soma? श्रीणन् (*śrīṇan*) is glossed as "impelling": the Soma is pressed out as one who impels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रीणन् (*śrīṇan*)—he who is mixed with milk and the like
+- उग्र: (*ugra:*)—he who has exceedingly great strength
+- अपः (*apaḥ*)—the Vasatīvarī waters and others
+- रिणन् (*riṇan*)—he who sets them in motion
+- इंदुः (*iṃduḥ*)—Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- तोशते (*tośate*)—is pressed out
+- नि तोशते (*ni tośate*)—is pressed out exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is mixed with milk and the like, who has exceedingly great strength, and who sets the Vasatīvarī waters and others in motion, is pressed out for Indra's drinking; he is pressed out exceedingly.
+
+##### English translation
+Indu is effused for Indra, is effused downwards—fierce, mixing (with the milk), flowing (into) the water.
+
+## Sūkta 110 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्यू ष्टिति द्वादशर्चं सप्तमं सूक्तं । त्रैरुणत्रसदस्य राजर्षि अस्य
+> सूक्तस्य द्रष्टारौ । आदितस्तिस्तः पिपीलिकमध्या अनुष्टुभो द्वादशकाष्टकद्वादशकवत्यः ।
+> ततः षडूर्ध्वबृहत्यो द्वादशकत्रयवत्यः । अथ दशम्याद्यास्तिस्रो विराजः । पवमानः सोमो देवता । तथा चानुक्रांतं । पर्यू षु दादश त्रैरुणत्रसदस्य
+> तिस्रोऽनुष्टुभः पिपीलिकमध्याः षळूर्ध्वबृहत्यस्तिस्त्रत्व विराज इति ॥ गतो विनियोगः #
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पर्यू ष्टिति (*paryū ṣṭiti*) has twelve ṛks and is the seventh sūkta. Trairuṇa and Trasadasyu, royal sages, are the seers of this sūkta. The first three ṛks are pipīlikamadhyā anuṣṭubh, of twelve, eight and twelve syllables. Then come six ūrdhvabṛhatī verses, each of three twelve-syllable pādas. The three beginning with the tenth are virāj. The deity is Pavamāna Soma. He cites the Anukramaṇī to the same effect, and says that the viniyoga has been given already.
+
+##### Anuvāda
+
+This sūkta, beginning पर्यूषु (*paryūṣu*), is the seventh sūkta in the seventh anuvāka. It has twelve ṛks. Trairuṇa and Trasadasyu, two royal sages, are the seers of the sūkta. The first three ṛks of this sūkta are in the metre called pipīlikamadhyā anuṣṭubh. In this metre there are three pādas: twelve syllables in the first pāda, eight in the second, and twelve in the third. This is the definition of the metre. The six ṛks following the fourth ṛk are in the metre called ūrdhvabṛhatī. In this metre there are three pādas of twelve syllables; this is its definition. The three ṛks following the tenth ṛk are in the virāj metre. Pavamāna Soma is the deity. In the Anukramaṇī it is stated: पर्यूषु द्वादश त्रुणत्रसदस्यो तिस्रो5नुष्टुभः पिपीलिकमध्याः षळूर्थ्वबृहत्यस्ति स्रश्च विराजः (*paryūṣu dvādaśa truṇatrasadasyo tisro5nuṣṭubhaḥ pipīlikamadhyāḥ ṣaḷūrthvabṛhatyasti sraśca virājaḥ*). The viniyoga has been stated earlier.
+
+### Printed p. 122
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 7; Sūkta 110; Aṣṭaka 7; Adhyāya 5; Varga 23. Number of ṛks in the sūkta: 12. Ṛṣi: Trairuṇa-Trasadasyu. Devatā: Pavamāna Soma. Chandas: 1–3 anuṣṭubh pipīlikamadhyā; 4–9 ūrdhvabṛhatī; 10–12 virāj.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पर्यू॒षु प्र ध॑न्व॒ वाज॑सातये॒ परि॑ वृ॒त्राणि॑ स॒क्षणिः॑।  
+> द्वि॒षस्त॒रध्या॑ ऋण॒या न॑ ईयसे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । ऊं इति । सु प्र । धन्व वाजसातये । परि वृत्राणि । सक्षिणिः ।  
+> द्विषः । तरध्यै । यणयाः । नः ईयसे । १ .
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीरामचंद्राय नमः ॥
+> हे सोम सु सुस्तु वाजसातयेऽस्मभ्यमन्नदानायैव परि प्र धन्व ! परितः
+> प्रगच्छ । यद्वा । वाजसातयेऽन्नलाभाय संग्रामं प्रगच्छ । किं च सक्षणिः सहनशीलस्त्वं वृत्राणि शत्रुन्परि गच्छ । तदेवोच्च्यते नोऽस्माकमृणया ऋणानां
+> यापयिता त्वं द्विषः शत्रुंस्तरध्यै शरीतुं हंतुमीयसे । परिगच्छसि :
+> १, प्रबंधगळु.
+> (ऎलै सोमदेवने) सु—अतिशयवागि । वाजसातॆये—नमगॆ अन्नलाभार्थवागि ।
+> हरि प्र धन्व—सुत्तलू प्रवहिसु ! सक्षणि—शत्रुगळन्नु ऎदुरिसुव शक्तियुळ्ळ नीनु. । वृत्राणि—
+
+##### Gist of the bhāṣya
+
+"O Soma, सु (*su*), exceedingly, flow all round (परि प्र धन्व (*pari pra dhanva*)) for वाजसातये (*vājasātaye*), that is, for giving us food; go forth on every side." Or else: "for वाजसातये (*vājasātaye*), the gain of food, go to battle." Further: "you, सक्षणिः (*sakṣaṇiḥ*), of enduring nature, go round the वृत्राणि (*vṛtrāṇi*), the enemies." The same is said again: "you, ऋणया (*ṛṇayā*), the remover of our debts, go (ईयसे (*īyase*)) to destroy (तरध्यै (*taradhyai*)) the enemies (द्विषः (*dviṣaḥ*)); you go round them."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सु (*su*)—(O Soma) exceedingly
+- वाजसातॆये (*vājasātèye*)—for our gain of food
+- हरि प्र धन्व (*hari pra dhanva*)—flow all round
+- सक्षणि (*sakṣaṇi*)—you who have the power to face enemies
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+
+### Printed p. 123
+- परि (*pari*)—go, encompassing them
+- नः (*naḥ*)—our
+- ऋणयाः (*ṛṇayāḥ*)—you who repay our debts
+- द्विषः (*dviṣaḥ*)—our enemies
+- तरध्यै (*taradhyai*)—destroy
+- ईयसे (*īyase*)—go forward
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, flow all round for our gain of food. You who have the power to face enemies, go encompassing the enemies. You who repay our debts, go forward to destroy our enemies.
+
+##### English translation
+Hasten, Soma, to bring us sustenance; gifted with endurance (attack our) foes ; the acquitter of our debts, you approach to disperse our enemies.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॒ हि त्वा॑ सु॒तं सो॑म॒ मदा॑मसि म॒हे स॑मर्य॒राज्ये॑ ।  
+> वाजा॑ अ॒भि प॑वमान॒ प्र गा॑हसे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । हि । त्वा । सुतं । सोम । मदामसि । महे । समर्यराज्ये :  
+> वाजन् । अभि ; पवमान । प्र । गाहसे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुतमभिषुतं त्वा त्वां वयमनु मदामसि हि । अनुमदामः ।
+> अनुक्रमेणाभिष्टुमः खलु । हे पवमान सोम स त्वं महे महति समर्यराज्ये महत्समनुष्यं त्वदीयं राज्यमनुपालयितं वाजाइत्युबलान्यभिलक्ष्य प्र
+> गाहसे । प्रगच्छसि ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, we praise you (मदामसि (*madāmasi*)) who have been pressed (सुतं (*sutaṃ*)), in due order; we eulogise you indeed." "O Pavamāna Soma, you, to protect your own great sovereignty over men (महे समर्यराज्ये (*mahe samaryarājye*)), advance (प्र गाहसे (*pra gāhase*)), aiming at the वाजान् (*vājān*), the forces."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- सुतं (*sutaṃ*)—who have been pressed
+- त्वा (*tvā*)—you
+- अनुमदामसि हि. (*anumadāmasi hi.*)—we praise
+- पवमान (*pavamāna*)—O Soma, called Pavamāna
+- महे (*mahe*)—great
+
+### Printed p. 124
+- समर‍्ये राज्ये (*samarye rājye*)—to protect your sovereignty among men
+- वाजान् अभि (*vājān abhi*)—facing the forces of the enemy
+- प्र गाहसे (*pra gāhase*)—you charge forward
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, we praise you who have been pressed. O Soma, called Pavamāna, you charge forward against the forces of the enemy in order to protect your great sovereignty among men.
+
+##### English translation
+In turn we glorify you, Soma, when effused; you attack the (hostile) forces, O Pavamana, to (defend) your great sovereignty over men.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजी॑जनो॒ हि प॑वमान॒ सूर्यं॑ वि॒धारे॒ शक्म॑ना॒  ॑
+> पयः ।  
+> गोजी॑रया॒ रंह॑माण॒ पुरं॑ध्या ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजीजनः । हि । पवमान । सूर्यं । विधारे । शक्मना । पयः ।  
+> गोर्जीरया । रंहमाणः । पुरंध्या । ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम त्वं पयः पयस उदकस्य विधारे विधारकेंतरिक्षे
+> शक्कना समर्थेन बलेन सूर्यमजीजनो हि । उत्पादितवान्भवसि खलु । कीदृशः !
+> गोजीरया स्तोतृभ्यो गवां प्रेरकेण । स्तोतृणां प्रेरितपशुकेनेत्यर्थः ।
+> तादृशेन पुरंध्या बहुविधप्रज्ञानेन युक्तो रंहमाणो वेगं कुर्वाणस्त्वं
+> सूर्यमजीजनः ॥
+
+##### Gist of the bhāṣya
+
+"O Pavamāna Soma, you have generated the sun (सूर्यमजीजनो हि (*sūryamajījano hi*)) in the sky (विधारे (*vidhāre*)), the sustainer of पयः (*payaḥ*), water, by your capable strength (शक्कना (*śakkanā*))." What sort of one? गोजीरया (*gojīrayā*) is explained as "by the impeller of cattle to the worshippers", that is, one by whom cattle are sent to the worshippers. Endowed with such पुरंध्या (*puraṃdhyā*), manifold wisdom, and speeding (रंहमाणः (*raṃhamāṇaḥ*)), you generated the sun.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma, called Pavamāna
+- गोजीरया (*gojīrayā*)—you who provide cattle for the enemies
+- पुरंध्या (*puraṃdhyā*)—you who are endowed with wisdom
+- रंहमाणः (*raṃhamāṇaḥ*)—you who are swift
+
+### Printed p. 125
+- पयः (*payaḥ*)—for the water
+- विधारे (*vidhāre*)—in the sky, the sustainer
+- शक्कना (*śakkanā*)—by your capacity
+- सूर्यं (*sūryaṃ*)—the sun
+- अजीजनो हि (*ajījano hi*)—you have generated, have you not
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who provide cattle for the enemies, who are endowed with wisdom and are swift, have generated the sun by your capacity in the sky that sustains the water.
+
+##### English translation
+Pavamana, by your might you have generated the sun in (the firmament), the support of the water, hastening on with abundant wisdom that procures cattle (for your worshippers),
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजी॑जनो अमृत॒ मर्त्ये॒ष्ट्व ऋ॒तस्य॒ धर्म॑न्न॒मृत॑स्य॒  ॑
+> चारुणः ।  
+> सदा॑सरो॒ वाज॒मच्छा॒ सनि॑ष्यदत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजीजनः , अमृत । मर्त्येषु । आ ऋतस्य । धर्मन् । अमृतस्य । चारुणः।  
+> सदा । असरः । वाजं । अच्छ । सनिस्यदत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमृत : मरधर्मरहित सोम त्वमृतस्य सत्यभूतस्य चारुणः कल्याणस्यामृतस्योदकस्य धर्मन्दारकेंतरिक्षे सूर्यमजीजनः । किमर्थं । मर्त्येष्व
+> मनुष्येष्टभिमुखीभवनाय । किंच सनिष्यदत् संभजन् स त्वं वाजमच्छ संग्राममभिलक्ष्य सदासरः । सरसि । गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+"O immortal (अमृत (*amṛta*)), Soma, free from the nature of death, you generated the sun in the sky (धर्मन् (*dharman*)), the sustainer of ऋतस्य (*ṛtasya*), the true, चारुणः (*cāruṇaḥ*), the auspicious, अमृतस्य (*amṛtasya*), ambrosial water." For what purpose? "मर्त्येषु (*martyeṣu*), in order to face mortals, men." Further: "you, सनिष्यदत् (*saniṣyadat*), bestowing, always (सदा (*sadā*)) go (असरः (*asaraḥ*)), aiming at वाजं (*vājaṃ*), battle."
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृत (*amṛta*)—O Soma, free from the nature of death
+- यतस्य (*yatasya*)—of the water that is of the nature of truth
+- चारुणः (*cāruṇaḥ*)—and of the nature of auspiciousness
+- अमृतस्य (*amṛtasya*)—and everlasting
+- धर्मन् (*dharman*)—in the sky, the sustainer
+
+### Printed p. 126
+- मर्त्येषु आ (*martyeṣu ā*)—to appear before men
+- अजीजनः (*ajījanaḥ*)—you generated the sun
+- सनिष्यदत् (*saniṣyadat*)—you who flow majestically
+- वाजं अच्छ (*vājaṃ accha*)—facing the battle
+- सदा (*sadā*)—always
+- असरः (*asaraḥ*)—you charge forward
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, free from the nature of death, you generated the sun, in the sky that sustains the water that is true, auspicious and everlasting, so as to appear before men. You who flow majestically always charge forward towards the battle.
+
+##### English translation
+Immortal Soma, you have generated (the sun) among mortals in (the firmament), the support of the truthful auspicious ambrosia ; streaming forth you go to battle continually.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑भि॒ हि श्रव॑सा त॒तर्दि॒थोत्सं॒ न कं चि॑ज्जन॒पान॒मक्षि॑तं ।  
+> शर्या॑भि॒र्न भर॑माणो॒ गभ॑स्त्योः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिअभि । हि ' श्रवसा ततर्दिथ । उत्सं । न । कं । चित् । जनपानं ।  
+> अक्षितं ।  
+> शर्याभिः । न भरमाणः । गभस्त्योः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं शवसान्नेन हेतुनाभ्यभि त्रतर्दिथ हि ! पवित्रमभितृण्णवानसि ।
+> छिन्नवानसि । तत्र दृष्टांतद्वयं । उत्सं न यथा कश्चिज्जनपानं ! अस्मिञ्चना उदकं
+> पिबंति । तमक्षितमक्षीणं कं चित् कंचनोत्समुत्सरणशीलं वाप्यादिकमभितृणत्ति
+
+##### Gist of the bhāṣya
+
+"O Soma, by शवसा (*śavasā*), with food as the cause, you have pierced right through (*abhyabhi tratarditha*): you have cut through the filter." Here there are two illustrations. First, "like a spring (उत्सं न (*utsaṃ na*))", as some जनपानं (*janapānaṃ*), a place where people drink water: that unexhausted, imperishable (अक्षितं (*akṣitaṃ*)) one, any (कं चित् (*kaṃ cit*)) spring, a well or the like of welling nature, he pierces.
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 120. pp. 115-120 (batch API)
+**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
