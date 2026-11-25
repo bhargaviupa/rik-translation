@@ -13994,6 +13994,214 @@ The Bṛhaddevatā gives the etymology that Agni is praised as Jātavedas, like 
 
 यः संवत्सरं जातः स्यात्पाणो वा अग्निस्तमेतद्बिभर्त्यथ ह वै रेतः सिक्तं प्राणोऽन्ववरोहति तद्विंदते तद्यज्जातं जातं विंदते तस्माच्चातवेदाः ॥ (*yaḥ saṃvatsaraṃ jātaḥ syātpāṇo vā agnistametadbibhartyatha ha vai retaḥ siktaṃ prāṇo 'nvavarohati tadviṃdate tadyajjātaṃ jātaṃ viṃdate tasmāccātavedāḥ ‖*) (Śa. Brā. 9-5-16-8)
 
+### Printed p. 491
+
+Since Agni in the form of Prāṇa pervades by his power all the beings that are born, it is said that he is called Jātavedas. This very Jātavedas, who is worshipped in the sacrificial house, is described in the Upaniṣads as Brahman, the Self of the universe.
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं ॥ (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ ‖*) (Pra. U. 1-8) **NOTE**
+
+In the Praśna Upaniṣad it is said that the Sun rises, who is of universal form, has a thousand rays, is omniscient, is the support of the whole world, is known by the wise, and is the inner self of all beings; and in the Kaṭha Upaniṣad—
+
+अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः । दिवे दिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः ॥ (*araṇyornihito jātavedā garbha iva subhṛto garbhiṇībhiḥ | dive diva īḍyo jāgṛvadbhirhaviṣmadbhirmanuṣyebhiragniḥ ‖*) (Ka. U. 1-4-8) **NOTE**
+
+The Kaṭha Upaniṣad describes that Jātavedas, who, abiding between the two araṇis in the adhiyajña, enjoys all the oblations, whom the yogis meditate upon, holding him in their hearts as the Supreme Person, as pregnant women with affection nourish and bring up their embryos, and towards whom, as the worshipful Agni, the sacrificers offer oblations, is the Supreme Brahman, the Self of the universe. In the same sequence, the matter described in the Ṛk Ṛ. Saṃ. 3-29.2 is also told in the Kaṭha. Thus all the Śrutis praise him, saying that because he is omniscient, all-pervading, the support of all, and supremely excellent, he is called Jātavedas.
+
+The deity of this sūkta is अग्नी रक्षोहा (*agnī rakṣohā*), that is, Agni who destroys the troops of Rakṣas, the bhūtas, piśācas and the like that obstruct sacrifices. Yāska, explaining the word रक्षः (*rakṣaḥ*), says—
+
+रक्षो रक्षितव्यमस्मात् । रहसि क्षणोतीति वा । रात्रौ नक्षत इति वा ॥ (*rakṣo rakṣitavyamasmāt | rahasi kṣaṇotīti vā | rātrau nakṣata iti vā ‖*) (Ni. 4-18)
+
+and thus has given the etymology. That is, the troop of beings called Rakṣas devours men. From this our body has to be protected. Because it has to be protected from them, they are called रक्षः (*rakṣaḥ*). Or because they injure (men) in a deserted place where no one is, or in the dark, they are called रक्षः (*rakṣaḥ*). Or because they move about at night, they are called रक्षः (*rakṣaḥ*). Thus he has stated three kinds of meaning. There is a difference between the word रक्षः (*rakṣaḥ*) and the word rākṣasa. Rākṣasas are individual beings of human form or of other fearful form visible to the eye. They are of wicked nature, always causing injury to good men, and bringing obstruction
+
+### Printed p. 492
+
+to good rites. The word रक्षः (*rakṣaḥ*) denotes the bhūtas, daivas, piśācas and the like that are not visible to the eye: Demons, evil spirits &c; it is their nature to cause injury to men and to cause obstruction to good rites such as sacrifices. It is customary to pray to Agni, in sacrifices and in other rites, to remove their trouble and protect. The Agni who removes this kind of trouble is called Rakṣohāgni.
+
+The piśācas or bhūtas who are on the earth are the enemies of men. The word that denotes them as a class is रक्षः (*rakṣaḥ*). This word has occurred more than fifty times in the singular and the plural. Ordinarily it comes in connection with some deity, either as a prayer in the form "destroy the rākṣasa", or as praise in the form "he has slain the rākṣasa". In the sūktas 7-104 and 10-87 the very subject of these beings is present. Here the words रक्षः (*rakṣaḥ*), यातु (*yātu*), यातुधान (*yātudhāna*) and others indicate them. Since रक्षसः (*rakṣasaḥ*) is the name for evil deities, piśācas and all these, it may be understood as the word for the class, and यातु (*yātu*) as the word for the sub-class.
+
+These piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In the form of birds they fly about at night (7-104-18). Assuming the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). In the form of a dog or a monkey they lie in wait to fall upon women (A. Ve. 4-37-11) **NOTE**. Therefore pregnant women and children are troubled by them (A. Ve. 8-6). At the time of marriage they move about around the bride, in order to pierce their eyes. They shoot small arrows into the sky (Mā. Gṛ. Sū. 1-10) **NOTE**. The description of their form and so on is found in the Atharvaveda itself. They especially assume human form. Mention is made of their limbs, such as head, eyes and heart; but some deformity is always present: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward, or horns on the hand, and so on (A. Ve. 8-6; Hi. Gṛ. Sū. 2 3-7) **NOTE**. Blue, yellow or green piśācas are also mentioned (A. Ve. 19-22-4, 5). Among them also there are males and females, households and kings (A. Ve. 5-22-12; Hi. Gṛ. Sū. 2-3-7); they also are subject to death (A. Ve. 6-32-2: and so on).
+
+The Yātudhānas eat the flesh of men and of horses, and drink cow's milk (10.86.16, 17). To satisfy their craving for blood and flesh the Rākṣasas attack men. This attack is ordinarily by entering into them. There is a prayer to Agni to keep the Rākṣasas from entering those who sustain (the rite) (8-48.20) **NOTE**. Hither and thither
+
+### Printed p. 493
+
+flying, a piśāca that presides over disease enters men (A. Ve. 7-76-4). These bhūtas and pretas ordinarily enter us through our mouth when we eat or drink (A. Ve. 5-29.6 to 8); they also enter by other doors (Ta. Ve. 8.6.3) **NOTE**. Having entered within, they tear and eat the flesh of man and cause disease **NOTE** (A. Ve. 5-29.5, 10). They cause madness and destroy the power of speech (A. Ve. 6.101.3; Hi. Gṛ. Sū. 1-15.5). They invade the dwelling houses of men (Kau. Sū. 135.9) **NOTE**. Some bhūtas, in the evening, go about around the houses dancing and braying like donkeys **NOTE**, or go about in forests, or keep laughing loudly or drinking from skulls (A. Ve. 8-6-10, 11, 14; Hi. Gṛ. Sū. 2-3-3). Their time of moving about is night or evening (7-104.8). In the eastern direction their sport does not go on at all; the sun rising there drives them away (Tai. Saṃ. 1.6.6 3). A falling meteor is believed to be the form of a bhūta (Kau. Sū. 125-9). Just as the pitch darkness of the new-moon night is suitable for the movement of the pretas, so for the bhūtas also it is the favourable time (A. Ve. 1-16 1; 4.36.3).
+
+Nothing is so perilous to sacrifices as they are. In sacrifices that are fit for the gods the piśācas cause defects and omissions, and the Yātus scatter the oblations that have been offered, in disorder (7-104-18, 21). They cannot bear the sight of a hymn of praise (10-182-3). There is a prayer to Agni to burn up the bhūtas and the like, so that no curse may touch the sacrifice (1-76-3). There is a mantra that makes an enemy's sacrifice unproductive by the magic of the Yātudhānas and the troops of Rakṣas (A. Ve. 7-70-2. They come as obstructions, in the form of pretas, to the food and water that are offered as oblations to the dead (A. Ve. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is commonly said that these troops of Rakṣas (referred to as rākṣasas) trouble the yogis.
+
+Between Agni, who dispels darkness and is the lord of the sacrifice, and them there is an implacable hatred. Hence the prayer is made to Agni himself: burn them, drive them away or destroy them (10-87-3, 6 and so on). It is from this very work that Agni and some other deities have received the name रक्षोहा (*rakṣohā*). These bhūtas are not only harmful by nature but also do harm when impelled by others. रक्षोयजः (*rakṣoyajaḥ*) (those who impel the Rākṣasas) is found (6-62-9). And there are bhūtas and Yātus of the practisers of mantras here and there (7-104.23; 8.60.20). One who has come under the affliction of a bhūta sent by an enemy can drive them away by making an offering to Yaviṣṭhāgni
+
+### Printed p. 494
+
+(Tai. Saṃ. 2.2-3-2), and there is a command to those bhūtas themselves: swallow the very one who impels you (A. Ve. 2.2-4).
+
+In the sense of bhūtas the word रक्षः (*rakṣaḥ*) is used in both the masculine and the feminine. In the neuter it also has the meaning "danger". It may be रक्ष् (*rakṣ*) from the root रक्ष् (*rakṣ*) (to trouble) (ऋक्षा (*ṛkṣā*), dangerous); but this usage is very rare. It may also be from the ordinary रक्ष् (*rakṣ*), to protect. In this context रक्ष् (*rakṣ*) would mean that which has to be escaped.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रक्षोहणमिति पंचविंशत्यचं तृतीयं सूक्तं । पायुर्नाम भारद्वाज
+> ऋषिः । द्याविंशाद्याश्चतस्रोऽनुष्टुभः। शिष्टा एकविंशतिस्त्रिष्टुभः । रक्षोहाग्निर्देवता।
+> तथा चानुक्रांतं । रक्षोहणं पंचाधिकापायुराग्नेयं राक्षोघ्नं चतुरनुष्टुबंतमिति ॥ गतः सूक्तविनियोगः ॥ अंगाराभिविहरणे परि त्वाग्नि इत्येषा जप्या ।
+> सूत्रितं च । धिष्टावतामित्यादिना परि त्वाग्ने पुरं वयमित्यंतेन । आ. ५-१३ ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning रक्षोहणं (*rakṣohaṇaṃ*) is the third sūkta and has twenty-five Ṛks. The seer is Pāyu of the Bharadvāja line. The four Ṛks beginning with the twenty-second are in the Anuṣṭubh metre; the remaining twenty-one are in the Triṣṭubh metre. The deity is Rakṣohāgni. So it is stated in the Anukramaṇī: रक्षोहणं पंचाधिकापायुराग्नेयं राक्षोघ्नं चतुरनुष्टुबंतमिति (*rakṣohaṇaṃ paṃcādhikāpāyurāgneyaṃ rākṣoghnaṃ caturanuṣṭubaṃtamiti*). The use of the sūkta has been stated. At the angārābhivihara the Ṛk परि त्वाग्नि (*pari tvāgni*) is to be muttered. It is also prescribed in the sūtra धिष्टावतामित्यादिना परि त्वाग्ने पुरं वयमित्यंतेन (*dhiṣṭāvatāmityādinā pari tvāgne puraṃ vayamityaṃtena*) (Ā. 5-13).
+
+##### Anuvāda
+
+This sūkta रक्षोहणं (*rakṣohaṇaṃ*) is the third sūkta in the seventh Anuvāka. It has twenty-five Ṛks. The seer of this sūkta is Pāyu of the Bharadvāja gotra. From the twenty-second Ṛk of this sūkta the next four Ṛks are in the Anuṣṭup metre; the remaining twenty-one Ṛks are in the Triṣṭup metre. Rakṣohāgni is the deity. In the Anukramaṇikā it is said—रक्षोहणं पंचाधिका पायुराग्नेयं राक्षोघ्नं चतुरनुष्टु बंतं (*rakṣohaṇaṃ paṃcādhikā pāyurāgneyaṃ rākṣoghnaṃ caturanuṣṭu baṃtaṃ*). The use of the sūkta has been stated before. At the angārābhivihara the twenty-second Ṛk of this sūkta, परित्वाग्ने (*paritvāgne*), is to be muttered: this is prescribed by the sūtra of the Āśvalāyana Śrauta Sūtra, धिष्टावतामित्यादिना परि त्वाग्ने पुरं वयं (*dhiṣṭāvatāmityādinā pari tvāgne puraṃ vayaṃ*) (Ā. 5-13).
+
+Maṇḍala 10; Anuvāka 7; Sūkta 87. Aṣṭaka 8; Adhyāya 4; Vargas 5, 6, 7, 8, 9. Number of Ṛks in the sūkta: 25. Seer: पायुः (*pāyuḥ*). Deity: अग्नी रक्षोहा (*agnī rakṣohā*). Metre: 1-21 Triṣṭup; 22-25 Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒क्षो॒हणं॑ वा॒जिन॒मा जि॑घर्मि मि॒त्रं प्रथि॑ष्ठ॒मुष॑ यामि॒  ॑
+> शर्म॑ ।
+
+### Printed p. 495
+
+> शिशानो अग्निः क्रतुभिः समिद्धः स नो दिवा स रिषः पातु  
+> नक्तं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रक्षःहनं । वाजिनं । आ । जिघर्मि । मित्रं । प्रथिष्ठं । उप । यामि । शर्म ।  
+> शिशानः । अग्निः । क्रतुभिः । संइद्धः । सः । नः । दिवा । सः । रिषः । पातु । नक्तं ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रक्षोहणं रक्षसां हंतारं वाजिनं बलवंतमन्नवंतं वाग्निमा जिघर्मि ।
+> धृतेनाजुहोमि । किंच मित्रं यजमानानां सखायं प्रथिष्टं पृथुतमं शर्म
+> गृहमुप यामि । उपगच्छामि । सोऽयमग्निः शिशानो ज्वालास्तीक्ष्णीकुर्वन्
+> क्रतुभिः कर्मपरैः पुरुषैः समिद्धः प्रज्वालितो भवति।किंच सोऽग्निर्नोऽस्मान्दिवाहनि
+> रिषो हिंसकाद्रक्षसः पातु । रक्षतु । सोऽग्निर्नक्तं रात्र्य चास्मान्रक्षसः पातु ॥
+
+##### Gist of the bhāṣya
+
+I offer ghee to Agni, the slayer of the Rakṣas, who is powerful or possessed of food. And I approach the friend of the sacrificers, the most spacious refuge, that is, the house. This Agni, sharpening his flames, is kindled, set ablaze, by men intent on ritual. And may that Agni protect us by day from the Rakṣas who injure, and may that Agni protect us from the Rakṣas by night.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रक्षोहणं (*rakṣohaṇaṃ*)—the destroyer of the Rākṣasas
+- वाजिनं (*vājinaṃ*)—to Agni, who is endowed with strength
+- आ जिघर्मि (*ā jigharmi*)—I offer an oblation of ghee
+- मित्रं (*mitraṃ*)—the friend of the sacrificers
+- प्रथिष्टं (*prathiṣṭaṃ*)—the sturdy one
+- शर्म (*śarma*)—Agni, who gives shelter like a house
+- उप यामि (*upa yāmi*)—I approach
+- अग्नि: (*agni:*)—Agni
+- शिशानः (*śiśānaḥ*)—sharp with flame
+- समिद्धः (*samiddhaḥ*)—becomes kindled
+- सः (*saḥ*)—that same Agni
+- नः (*naḥ*)—us
+- दिवा (*divā*)—by day
+- रिषः (*riṣaḥ*)—from the enemies who injure
+- पातु (*pātu*)—may he protect
+- सः (*saḥ*)—Agni
+- नक्तं (*naktaṃ*)—may he protect by night also
+
+##### भावार्थ (Bhāvārtha)
+
+I offer an oblation of ghee to Agni, the destroyer of the Rākṣasas and endowed with strength. I approach Agni, the friend of the sacrificers, the sturdy one, who gives shelter like a house. Agni, sharp with his flame, is kindled by men intent on ritual. May that same Agni protect us by day and by night.
+
+##### English translation
+I offer clarified butter to the powerful Agni, the slayer of Rakshasas I approach the most spacious dwelling, the friend (of worshippers); Agni
+
+### Printed p. 496
+
+sharpening (his flames) is kindled by pious men ; may he guard us from malignant spirits by day and by night,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अयो॑दंष्टो अ॒र्चिषा॑ यातु॒धाना॒नुप॑ स्पृश जातवेदः॒  ॑
+> समिद्दॆः ।  
+> आ जि॒ह्वया॒ मूर॑देवान्रभस्व क्र॒व्यादो॑ वृ॒क्त्यपि॑ धत्स्वा॒सन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयःदंष्ट्रः । अर्चिषा । यातुधानान् । उप । स्पृश । जातवेदः । संइद्धः ।  
+> आ । जिह्वया । मूरदेवान् । रभस्व । क्रव्यअदः । व्यक्ति । अपि । धत्स्व । आसन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातधन जातप्रज्ञ वा त्वं समिद्धः सम्यग्गीप्तोऽयोदंष्ट्रोऽयोमयदंष्ट्रः । तीक्ष्णदंष्ट्रः सन्नित्यर्थः । यातुधानास्ताक्षसानर्चिषा
+> ज्वालयोप स्पृश । संदहेत्यर्थः । किंच त्वं मूरदेवान् मूढदेवान्मारकव्यापारान्राक्षसाञ्ङ्ङह्वया ज्वालया रभस्व । मारयेत्यर्थः । मारयित्वा च क्रव्यादो
+> मांसभक्षकान्नाक्षसान्वृक्त्वी छित्तास्सन्नास्येऽपि धत्स्व । अपिधेहि । आच्छादयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, he who has acquired wealth or has acquired knowledge, you, kindled, well blazing, are अयोदंष्ट्रः (*ayodaṃṣṭraḥ*), having teeth of iron, that is, having become sharp-toothed. Touch the Yātudhānas, the Rākṣasas, with your flame, that is, burn them up. And seize with your tongue, that is, your flame, the मूरदेवान् (*mūradevān*), the foolish gods, the Rākṣasas whose business is killing: that is, kill them. And having killed them, cut up the flesh-eating Rākṣasas and put them in your mouth; cover them. **NOTE** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni named Jātavedas
+- अयोदंष्ट्रः (*ayodaṃṣṭraḥ*)—you who have jaws as sharp as steel
+- समिद्धः (*samiddhaḥ*)—blazing
+- अर्चिषा (*arciṣā*)—with your flame
+- यातुधानान् (*yātudhānān*)—the Rākṣasas
+- उप स्पृश (*upa spṛśa*)—destroy
+- मूरदेवान् (*mūradevān*)—the Asuras of violent activity
+- जिह्वया (*jihvayā*)—with the flame
+- आ रभस्व (*ā rabhasva*)—annihilate
+- क्रव्यादः (*kravyādaḥ*)—the Asuras who eat flesh
+- वृक्त्वी (*vṛktvī*)—cutting
+- आसन् (*āsan*)—into the mouth
+- अपि धत्स्व (*api dhatsva*)—stuff in
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni named Jātavedas, you whose jaws are as sharp as steel, blazing, destroy the Rākṣasas with your flame. Annihilate with your flame the Asuras of violent activity. Cut up the flesh-eating Asuras and stuff them into your mouth.
+
+### Printed p. 497
+
+##### English translation
+Jatavedas, who have teeth of iron, consume the Yatudhanas' flame when kindled, destroy the destructive (spirits) with your tongue, cut up the eaters of flesh, and put them in your mouth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भोःभ॑यावि॒न्नुप॑ धेहि॒ दंष्ट्रा॑ हिं॒स्रः शिशा॒नोऽव॑रं॒ परं॑  
+> च ।  
+> उ॒तांतरि॑क्षे॒ परि॑ याहि राज॒ञ्जंभैः॒ सं धे॑ह्य॒भि या॑तु॒धाना॑न् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उथा । उभयाविन् । उप । धेहि । दंष्ट्रा । हिंस्रः । शिशानः । अवरं । परं । च ।  
+> उत । अंतरिक्षे । परि । याहि । राजन् । जंभैः । सं । धेहि । अभि । यातुधानान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उभयाविन्नुभाभ्यां दंष्ट्राभ्यां युक्ताग्ने त्वं हिंस्रो राक्षसानां
+> हिंसकस्त्वमुभोभे दंष्ट्रा दंष्ट्रे शिशानस्तीक्ष्मीकुर्वन्नुप धेहि । वधार्हेषु
+> राक्षसेषु प्रतिष्ठापय ! किंचावरं परं च जगद्रक्ष । उतापि च हे राजन् दीप्ताग्ने
+> त्वमंतरिक्षे स्थितान्राक्षसान्परि याहि । परिगच्छ । परिगण्य च तान्यातुधानान्नाक्षसाङ्जंभैर्भक्षणसाधनभूताभिर्दंष्ट्राभिरभि सं धेहि! संयोजय भक्षयेत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+O Ubhayāvin, Agni endowed with both jaws, you are हिंस्रः (*hiṃsraḥ*), the harmer of the Rākṣasas. Sharpening both jaws, fix them on the Rākṣasas who deserve to be killed. And protect the world, the lower and the higher. And further, O king, blazing Agni, go round the Rākṣasas who stand in the sky; having gone round them, join the Yātudhānas, the Rākṣasas, with the जंभैः (*jaṃbhaiḥ*), the jaws that are the means of eating: that is, make them eat them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उभयाविन् (*ubhayāvin*)—O Agni, who have two jaws
+- हिंस्रः (*hiṃsraḥ*)—you, the harmer of the Rākṣasas
+- उभा दंष्ट्रा (*ubhā daṃṣṭrā*)—both your jaws
+- शिशानः (*śiśānaḥ*)—sharpening
+- उप धेहि (*upa dhehi*)—apply on the Rākṣasas
+- अवरं (*avaraṃ*)—this world
+- परं च (*paraṃ ca*)—and protect the world above
+- उत (*uta*)—and
+- राजन् (*rājan*)—O Agni, endowed with radiance
+- अंतरिक्षे (*aṃtarikṣe*)—against the Asuras who dwell in the sky
+- परि याहि (*pari yāhi*)—set out
+- यातुधानान् (*yātudhānān*)—those Rākṣasas
+- जंभैः (*jaṃbhaiḥ*)—with sharp tusks
+- अभि सं धेहि (*abhi saṃ dhehi*)—swallow
+
 ---
 
-**Progress note:** Done through printed p. 490. Vrishakapi sukta 86 Rk 21 end, Rk 22-23; sukta 87 introduction begins
+**Progress note:** Done through printed p. 497. sukta 87 intro (Jatavedas, raksas), Rk 1-3
