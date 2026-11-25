@@ -13785,6 +13785,130 @@ As you move among men, growing in your own form and displaying your surpassing v
 O Indra, who among these sages before us knows the limit of your greatness? That you produced earth and atmosphere, the mother and father of the world, from your own body is your power. The world knows it.
 (10-54-3 **NOTE**)
 
+### Printed p. 404
+Indra filled the luminous orbs with brilliance. In sweet things he put sweetness.
+(10-54.6)
+Just as the two wheels of a chariot, though set apart, are brought into connection by the help of the axle, so Indra, though keeping heaven and earth separate, has by his power established a natural connection between the two. Besides exercising lordship over the atmosphere, Indra is the sovereign of the earth, of the oceans and the like, and of the mountains and the like. But there is no lord over him; he alone is the highest.
+(10-89.4, 10)
+O Indra, of all the moving beings that exist, you yourself are the eye, the instrument of seeing.
+(10-102-12)
+O seers, who are poets, know all that men desire and offer to Indra hymns that suit it. Since Indra loves praise, let us, by our praises, make Indra intent on the work that serves our welfare.
+(10-111-1)
+From the sacrificial ground the hymn of the sacrificers and others has risen brightly. As a bull born of a good heifer approaches the cattle, our hymn has approached Indra. He too has awakened, bellowing, and has pervaded the very wide region by striding over it.
+(10.111-2)
+Indra has surely known the hymn recited by us. Indra the victor has made a path for the sun's course. Having created the animal that accompanies the bull, he is established in the atmosphere as an eternal, unmoving, incomparable lord.
+(10-111-2)
+The god who is famed as having split the head of the asura named Arbuda (10-67-2), that same Indra destroyed the asura in the form of a serpent and shattered his evil designs. On the foundation of truth he established many worlds.
+(10-111-3)
+This same Indra, praised by the Aṅgirasa seers, is the counterpart that mirrors all of heaven and earth. He knows all the oblations and the like offered by the sacrificers. He slays Śuṣka;
+
+### Printed p. 405
+with the help of the sun he has caused the atmosphere and the other regions to spread out and extend. Being himself of the nature of truth, he supports and upholds all of heaven and earth by his own power, which is truth in form.
+(10-12-5)
+O Indra, when you pervaded the worlds as the radiance of Uṣas pervades all worlds, then the divine mother bore you. Among extraordinary beings you are the most wonderful lord. Because you were born of the divine mother, your greatness is the more increased. (10-24-1)
+O Indra, in the atmosphere you have set the regulation for the movement of the months and the like. In the atmosphere, the father of the world, there is a boundary made by you.
+(10-138-6)
+In some passages Indra is described as samrāṭ, the sovereign of the whole universe.
+(4-19-2; 4-21-10)
+In other places he is praised as svarāṭ, a self-ruler who is subject to no others and whose independence is his chief trait. (3-46-1; 3-49-2; 7.82.2; 8.12-14)
+Moreover, in some places he is praised as the ancient seer who rules by his own greatness. (ऋषिर्हि पूर्वजा आस्येक ईशान ओजसा (*ṛṣirhi pūrvajā āsyeka īśāna ojasā*)).
+(8-6-41)
+He is also described by the epithet asura, one who displays supernatural power.
+(1-174-1; 8-20.6)
+**The nature of the favour Indra shows to his devotees**
+There are many sentences showing the direct relation between Indra and his devotees. Some sentences also describe Indra's moral character. Of the many sentences showing faith in Indra, the purport of some is now given.
+When Indra, at the time of destroying enemies, whirls his thunderbolt again and again, all people, fearing his terrible form, place faith in him.
+(1-55-5)
+O Indra, the sun and the moon (under your control) carry on their revolving work in alternation. All who behold such a world-order show devotion and faith in you because you have such extraordinary power. (1-102-2)
+
+### Printed p. 406
+O sacrificers, seeing Indra's most excellent wealth, place devotion and faith in him.
+(1-103-5)
+O Indra, for the growth of our future offspring do not cause any kind of harm. We are your devotees.
+(1-104-6)
+O god, we have surely placed faith in you. Bring and provide for us the most excellent wealth. You are the possessor of heroes.
+(1-104-6)
+Praying first to you two (Indra and Agni), I have resolved: "This Soma is to be offered to you two, who are of divine nature." In accordance with that devout resolve of mine, graciously drink here the Soma offered here.
+(1-108.6)
+O sacrificers and others, these cows are Indra. With all my heart I seek Indra's presence.
+(6-28-5)
+Truth, faith and intense austerity are the conduct that shows in a devotee's dealings. O Soma, you are offered to Indra with a resolve that is true, with faith and with austerity. Flow on to Indra and join him.
+(9-113-2)
+Indra never allows the cows to be carried off of a devotee who, devoted to the gods, with a respectful mind and a pure heart, offers the oblation in the form of Soma juice. He surely protects them.
+(10-160-3)
+**A description of how the harm that comes to the faithless confirms Indra's existence**
+The enemy-man who shows disbelief towards Indra, saying "In him…" or "He does not exist at all" and so on, and speaks scornfully of Indra: Indra carries off his wealth of cattle and the like and vanishes, as a gambler runs off taking the stake he has won. Therefore, O men, place faith in Indra. Do not show disbelief and come to grief.
+(2-12-5)
+
+### Printed p. 407
+O Indra, that prowess is yours, is it not? Give us right understanding in that matter.
+(6-18-3)
+O Indra, who have greatness by nature and have the greatest power among all beings, your power is truly manifest; it cannot be false.
+(6-18-4)
+If Indra's existence is true, offer him a true hymn and pray to him for food. Some hold that "there is no deity called Indra." There are also questions such as "Who has seen him? Whom shall we pray to?"
+(8-100-3)
+"O sacrificers, I am here. My greatness is greater than the greatness of all other beings. Take note of it," says Indra.
+(8-104-4)
+In the present case Indra is a friend and brother to the sacrificer who performs the sacrifice, and he was a well-wisher to his forefathers. (आ च याहि इंद्र भ्रातः (*ā ca yāhi iṃdra bhrātaḥ*)).
+(3-53.5; 2-1.8-3; 2-20-3)
+O Indra, all men continually seek your protection alone. Moreover, O Indra, you have always been a well-wisher to our forefathers, the pitṛs.
+(6-21-5, 8)
+O Indra, friendship with you is beneficial, and your being our guide brings welfare to us all. (यस्य ते स्वादु सख्यं स्वाद्वी प्रणीतिः (*yasya te svādu sakhyaṃ svādvī praṇītiḥ*)).
+(8-68.11; 5.45-1, 7; 7-21-9; 8-4-7; 8.45-1, 16, 18; 8.50-11).
+O Indra, may your friendship with the seer named Vimada never decline. Do not abandon friendship with the seers who worship you.
+(8-92-33; 8-93-7; 8-97-7, 8-100-2; 10-22-1; 10.23-7).
+May Indra provide wealth to all of us, his friends, from the beginning of our life to its end.
+(10-42-11)
+
+### Printed p. 408
+Indra cultivates friendship only with the sacrificer who offers oblations. He never cultivates friendship with those who do not give.
+(10-42-4)
+O Indra, you have countless friends. We have no friends other than you.
+(8-21-4)
+Indra is not merely a friend. He shows his devotees a pride greater than that of the proudest father, and a son-like affection.
+(4-17-17)
+Because of such excess of affection, the sacrificers praise him and call him.
+(10-48-1; 1-104-9; 7-32-3, 26)
+Not only a father's pride: Indra also shows a mother's affection.
+(8-98.11; 8.1-6)
+The seer praises him, proclaiming the closest relationship: "O Indra, you are ours; all of us are yours."
+(8-92.32)
+As a benefactor of the poor, Indra removes their poverty. (रध्रचोदनः (*radhracodanaḥ*)).
+(8-80-3)
+It may be said that the deity who loves human beings is Indra alone, and that he gives them every kind of help in times of distress.
+(7-23-5; 1-84-19; 8-66-13)
+Indra has no partiality. All men alike receive his help.
+(8-65-7)
+When misfortune befalls his devotees, Indra frees them from it, delivers them from suffering and gives them happiness.
+(अ (*a*)-96-20)
+For all powerless men Indra alone is the helper who gives strength.
+(7-31-5)
+And to men caught in hardship he is like a fortress of protection.
+(8-80-7)
+
+### Printed p. 409
+For the man to whom Indra is a friend there is no death at the hands of an enemy. Moreover, his enemy surely cannot conquer him.
+(10-152-1)
+Such a man relies wholly on Indra's arms for his victory.
+(6-47-8)
+Indra is praised, and prayed to for help, as a protector of wonderful prowess and a liberator from bonds. (त्रातारमिंद्रमवितारमिंद्रं (*trātāramiṃdramavitāramiṃdraṃ*)).
+(6-47-11)
+Being fond of devotees, Indra is not deaf even when he is in a very distant region. Hearing the sacrificers' prayer, he comes at once to protect them.
+(8-45.17)
+For gaining wealth, the sacrificers firmly grasp Indra's right hand.
+(10-47-1)
+The sacrificer's hymns, full of faith and devotion and recited from the heart, go like messengers, approach Indra, enter his heart and give him delight.
+(10-47-2)
+As a son pulls at his father's garment with respect and freedom, the seer who entreats Indra firmly grasps Indra's garment through his hymn and urges him to help.
+(3-52-2)
+As a husband is embraced by his loving wife, Indra, of divine nature, is embraced by hymns recited from the heart.
+(1-62-11; 10-186.7; 10-43.1; 2-16-9)
+As cows run up in affection and lick the calf, the hymns approach Indra and caress him.
+(10-119-4; 10-186-7)
+Indra is also prayed to not to be idle like a brahmā-priest, an ṛtvij.
+(8-9-30)
+On many occasions the efforts that sacrificers make to bring Indra to their rite are compared to a fowler's effort to catch birds. Moreover, among the sacrificers themselves
+
 ---
 
-**Progress note:** Done through printed p. 403. pp. 398-403 (batch API)
+**Progress note:** Done through printed p. 409. pp. 404-409 (batch API)
