@@ -15094,6 +15094,294 @@ You, Agni, have from old time opposed the Yatudhanas : the Rakshasas have never 
 
 O Agni, protect us from below, from the south (since the word adhara is used here together with the northern quarter and so is understood as the southern quarter), and from the north; and also from behind, from the west, and from the front, from the east. The meaning is: protect us from the Rākṣasas standing in the four quarters. Further, let those rays of yours, most burning, ageless, blazing, burn the Rākṣasa who utters evil, that is, reduce him to ashes.
 
+### Printed p. 517
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- आधरात् (*ādharāt*)—from the southern quarter **NOTE**
+- उदक्तात् (*udaktāt*)—from the northern quarter
+- रक्ष (*rakṣa*)—protect
+- उत (*uta*)—and
+- त्वं (*tvaṃ*)—you
+- पश्चात् (*paścāt*)—from the western quarter
+- पुरस्तात् (*purastāt*)—from the eastern quarter, protect
+- तपिष्ठाः (*tapiṣṭhāḥ*)—burning
+- अजरासः (*ajarāsaḥ*)—free from decay
+- शोशुचतः (*śośucataḥ*)—and radiant
+- ते ते (*te te*)—your rays
+- अघशंसं (*aghaśaṃsaṃ*)—the sinful Asuras
+- प्रति दहंतु (*prati dahaṃtu*)—let them burn up
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect us from the south and from the north. Protect us from the east and from the west. Let your rays, which are burning, free from decay and radiant, burn up the sinful Asura.
+
+##### English translation
+Do you, Agni, protect us on the south, on the north ; on the west, and on the east ; may these, your undecaying, scorching, blazing (flames), consume the perpetrator of wickedness.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒श्चात्पु॒रस्ता॑दध॒रादुद॑क्तात्क॒विः काव्ये॑न॒ परि॑ पाहि राजन् ।  
+> सखे॒ सखा॑यम॒जरो॑ जरि॒म्नेऽग्ने॒ मर्ता॒ अम॑ृत्य॒स्त्वं नः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पश्चात् । पुरस्तात् । अधरात् । उदक्तात् । कविः । काव्यन । परि । पाहि । राजन् ।  
+> सखे । सखायं । अजरः । जरिम्ने । अग्ने । मर्तान् । अमर्त्यः । त्वं । नः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन्दीप्ताग्ने कविः क्रांतदर्शनस्त्वं काव्येन कविकर्मणा पश्चात्
+> पश्चिमतः पुरस्तात्पूर्वतोऽधराद्दक्षिणतश्चोदक्तादुत्तरतश्चास्मान्परि पाहि । हरितो
+> रक्ष । किंच हे सखे मित्रभूताग्ने अजरो जरारहितस्त्वं मां सखायं जरिम्मे
+> जराय्कॆ कुरु । त्वत्पसादादहं चिरं जीवामीत्यर्थः । एतदेव दर्शयति । हे अग्ने
+
+##### Gist of the bhāṣya
+
+O king, blazing Agni, a poet of far-reaching vision: with your poet's work protect us on every side, from the west, from the east, from the south and from the north; guard us on all sides. Further, O Agni who are a friend, you who are ageless, make me, your friend, reach old age; the meaning is that by your grace I may live long. He shows this very thing: O Agni, ...
+
+### Printed p. 518
+
+> अमर्त्यो मरणधर्मरहितस्त्वं मर्तान्मरणधर्मवतो नोऽस्माज्जरिम्णे जरायै
+> कुर्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+... you who are immortal, free from the nature of death, make us, who are mortal, subject to death, reach old age; the verb "make" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O shining Agni
+- कविः (*kaviḥ*)—you who are wise
+- काव्येन (*kāvyena*)—by your excellent works
+- पश्चात् (*paścāt*)—from the western quarter
+- पुरस्तात् (*purastāt*)—from the eastern quarter
+- अधरात् (*adharāt*)—from the southern quarter
+- उदक्तात् (*udaktāt*)—from the northern quarter
+- परिपाहि (*paripāhi*)—protect
+- सखे (*sakhe*)—O Agni who are a friend
+- अजरः (*ajaraḥ*)—you who are free from decay
+- सखायं (*sakhāyaṃ*)—me, who am your friend
+- जरिम्मे (*jarimme*)—make me live to old age
+- अग्ने (*agne*)—O Agni
+- अमर्त्यः (*amartyaḥ*)—you who are free from death
+- त्वं (*tvaṃ*)—you
+- मर्तान् (*martān*)—who are mortal
+- नः (*naḥ*)—make us live for a long time
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Agni, you who are wise, protect us by your excellent works from the west, from the east, from the south and from the north. O Agni who are a friend, you who are free from decay, make me, your friend, live to old age. O Agni, you who are free from death, make us, who are mortal, live for a long time.
+
+##### English translation
+Royal Agni, you are a sage, protect us by your wisdom on the west, on the east, on the south, on the north ; you, O friend, who are undecaying, (preserve me), your friend, to old age ; you who are immortal (protect) us who are mortal.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि ।  
+> धृ॒षद्व॑र्णं दि॒वेदि॑वे हं॒तारं॑ भंगु॒राव॑तां ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । त्वा । अग्ने । पुरं । वयं । विप्रं । सहस्य । धीमहि ।  
+> धृषत्वर्णं । दिवेऽदिवे । हंतारं । भंगुरवतां ॥ २२ ॥
+
+### Printed p. 519
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्य सहसे हित सहसो जात वाग्ने पुरं पूरकं विप्रं मेधाविनं
+> धृषद्वर्णं धर्षकरूपं भंगुरावतां भंगुरकर्मयुक्तानां रक्षसां दिवेदिवे
+> प्रत्यहं हंतारं हिंसितारं त्वा त्वां वयं पायुनामधेया भारद्वाजा रक्षसां
+> हननाय परि धीमहि ॥
+
+##### Gist of the bhāṣya
+
+O Sahasya, Agni, who are beneficial to strength or born of strength, you who fill, who are wise, of daring form, and who every day destroy the Rākṣasas who are given to breaking: we who bear the name Pāyu, the Bhāradvājas, meditate on you for the killing of the Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्य (*sahasya*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- पुरं (*puraṃ*)—who carry out the rites
+- विप्रं (*vipraṃ*)—who are wise
+- धृषद्वर्णं (*dhṛṣadvarṇaṃ*)—who have a fearful form
+- भंगुरावतां (*bhaṃgurāvatāṃ*)—the destructive Rākṣasas
+- दिवे दिवे (*dive dive*)—every day
+- हंतारं (*haṃtāraṃ*)—and who destroy
+- त्वा (*tvā*)—you
+- वयं (*vayaṃ*)—we
+- परि धीमहि (*pari dhīmahi*)—worship in meditation
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, you who carry out the rites, who are wise, who have a fearful form, and who every day destroy the destructive Rākṣasas, we worship you in meditation.
+
+##### English translation
+We meditate, strength-born Agni, on you, the accomplisher (of rites), the sage, of fearful form, the destroyer of the tracherous day by day.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒षेण॑ भंगु॒राव॑तः॒ प्रति॑ ष्म र॒क्षसो॑ दह ।  
+> अग्ने॑ ति॒ग्नेन॑ शो॒चिषा॒ तपु॑रग्राभिर्य॒ष्टिभिः॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विषेण । भंगुरवतः । प्रति । स्म । रक्षसः । दह ।  
+> अग्ने । तिग्मेन । शोचिषा । तपुःs अग्राभिः । ऋष्टिऽभिः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं भंगुरावतो भंजनकर्मयुक्ता न्रक्षसो राक्षसान्विषेण
+> व्याप्तेन तिग्मेन तीक्ष्णेन शोचिषा तेजसा प्रति दह । भस्मीकुरु । तथा तपुरग्राभिस्तपनशीलाग्राभिर्युष्टिभिः । ऋष्टय आयुधविशेषाः । ताभिरपि प्रति दह ॥
+
+##### Gist of the bhāṣya
+
+O Agni, burn up and reduce to ashes the Rākṣasas who are given to the act of breaking, with your pervading, sharp flame, your radiance. In the same way burn them also with the युष्टिभिः (*yuṣṭibhiḥ*) whose points burn; the ṛṣṭis are a particular kind of weapon. **NOTE**
+
+### Printed p. 520
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- भंगुरावतः (*bhaṃgurāvataḥ*)—the destructive Asuras
+- विषेण (*viṣeṇa*)—with your pervading
+- तिग्मीन (*tigmīna*)—and sharp
+- शोचिषा (*śociṣā*)—radiance
+- प्रति दह (*prati daha*)—burn
+- तपुरग्राभिः (*tapuragrābhiḥ*)—with burning points
+- ऋष्टिभिः (*ṛṣṭibhiḥ*)—with weapons: burn them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, burn the destructive Asuras with your all-pervading, sharp radiance. Burn them with your weapons that have burning points.
+
+##### English translation
+Consume, Agni, the treacherous Rakshasas with your all-pervading sharp flame, with your flame-pointed darts.
+
+**Verse 23**
+
+**NOTE**
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॑ग्ने मिथु॒ना द॑ह यातु॒धाना॑ किमा॒दिना॑ ।  
+> सं त्वा॑ शिशामि जागृ॒ह्यद॑ब्धं विप्र॒ मन्म॑भिः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । अग्ने । मिथुना । दह । यातुधाना । किमादिना ।  
+> सं । त्वा । शिशामि । जागृहि । अदब्धं । विप्र । मन्मभिः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं मिथुना मिथुनभूतानि किमादिना । किमिदानीमिति ये चरंति
+> ते किमादिनः । तान् । तथा च यास्कः । किमादिने किमिदानीमिति चरते किमिदं
+> किमिदमिति वा । नि. ६.११ । इति । यातुधाना यातुधानानाक्षसान्प्रति दह । किंच हे विप्र
+> मेधाविन्नग्ने अदब्धं केनाप्यहिंसितं त्वा त्वां मन्मभिः स्तुतिभिरहं सं शिशामि ।
+> सौमात्यर्थः । अतस्त्वं जागृहि । निद्रां मा कुरु । बुध्यस्वेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, burn the Yātudhāna Rākṣasas, who are in pairs and are kimādins. Those who go about saying "kim idānīm", "what now", are kimādins. And so Yāska says: किमादिने किमिदानीमिति चरते किमिदं किमिदमिति वा (*kimādine kimidānīmiti carate kimidaṃ kimidamiti vā*) (Ni. 6.11) **GLOSS** Further, O wise Agni, unharmed by anyone: I sharpen you with praises; therefore you are to wake, not to sleep; the meaning is: be awake. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- मिथुना (*mithunā*)—who are together
+- किमादिना (*kimādinā*)—and, being arrogant, are called kimādins
+- यातुधाना (*yātudhānā*)—the Asuras
+- प्रति दह (*prati daha*)—burn
+- विप्र (*vipra*)—
+
+### Printed p. 521
+
+- O wise Agni
+- अदब्धं (*adabdhaṃ*)—who are unharmed
+- त्वा (*tvā*)—you
+- मन्मभिः (*manmabhiḥ*)—with praises
+- सं शिशामि (*saṃ śiśāmi*)—I praise
+- जागृहि (*jāgṛhi*)—wake up
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, burn the Asuras, who are together and, being arrogant, are called kimādins. O wise Agni, I praise you, who are unharmed, with praises. Be awake.
+
+##### English translation
+Consume, Agni, these pairs of Yatudhanas and Kimidins; I whet you, O sage, the invincible one, with my praises; wake up.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॑ग्ने॒ हर॑सा॒ हरः॑ शृणी॒हि वि॒श्वतः॒ प्रति॑ ।  
+> या॒तु॒धान॑स्य र॒क्षसो॒ बलं॒ वि रु॑ज वी॒र्यं॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । अग्ने । हरसा । हरः । शृणीहि । विश्वतः । प्रति ।  
+> यातुधानस्य । रक्षसः । बलं । वि । रुज । वीर्यं ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हरसा त्वदीयेन तेजसा । तथा च यास्कः । हरो हरतेज्र्योतिर्णर
+> उच्यते नि. ४-१९ । इति ॥ यातुधानस्य राक्षसस्य हरो हरणशीलं बलं प्रति शृणीहि ।
+> नाशयेत्यर्थः । तथा रक्षसो राक्षसस्य वीर्यं च वि रुज । भंजय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, with your own radiance (haras); and so Yāska says: हरो हरतेज्र्योतिर्णर उच्यते (*haro haratejryotirṇara ucyate*) (Ni. 4-19) **GLOSS** **NOTE**. Break the harmful, seizing strength of the Yātudhāna Rākṣasa; the meaning is, destroy it. Likewise shatter the vigour of the Rākṣasa; make it break.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- हरसा (*harasā*)—with your burning radiance
+- यातुधानस्य (*yātudhānasya*)—of the Asura
+- हरः (*haraḥ*)—harmful
+- बलं (*balaṃ*)—the strength
+- प्रति शृणीहि (*prati śṛṇīhi*)—destroy
+- रक्षसः (*rakṣasaḥ*)—of the Rākṣasa
+- वीर्यं (*vīryaṃ*)—the strength
+- वि रुज (*vi ruja*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, destroy with your burning radiance the harmful strength of the Asura. Destroy the strength of the Rākṣasa.
+
+### Printed p. 522
+
+##### English translation
+Destroy, Agni, with your flame, the impetuous might of the Yatudhana ; break the strength of the Rakshasa.
+
+## Sūkta 88 (Maṇḍala 10)
+
+**NOTE**
+
+In this sūkta Sūrya-Vaiśvānara Agni is praised. An explanation of Sūrya and of Vaiśvānara Agni is therefore necessary. We shall first explain the subject of Sūrya in detail, and then examine Sūrya-Vaiśvānara Agni as Yāska has explained him.
+
+सुष्टु अर्यः स्वामिा । यद्वा सर्वांतर्यामितया सुष्टु प्रेरकः। यद्वा शोभनवीर्यः । (*suṣṭu aryaḥ svāmiā | yadvā sarvāṃtaryāmitayā suṣṭu prerakaḥ| yadvā śobhanavīryaḥ |*) **GLOSS** Yāska says सूर्यः सर्तेर्वा, सुवतेर्वा, स्वीर्यतेर्वा (*sūryaḥ sartervā, suvatervā, svīryatervā*) (Ni. 12 14). From the root सृ (*sṛ*), which means going, the word sūrya is formed; on this view it means one who moves about. When it is formed from the root पूञ (*pūña*), which means to bring forth, it means one who creates. When the formation of the word sūrya is stated from the root ईश (*īśa*), which means going or trembling, with the prefix सु (*su*), it is said वायुना ह्ययं सुष्टु ईर्यते प्रेय्यते (*vāyunā hyayaṃ suṣṭu īryate preyyate*), that he is greatly impelled by the wind. Having thus explained the meaning in three ways, Yāska quotes the Ṛk that teaches the identity of the well-known Sūrya with Jātavedas Agni: उदु त्यं जातवेदसं देवं वहन्ति केतवः । दृशे विश्वाय सूर्यं ॥ (*udu tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ | dṛśe viśvāya sūryaṃ ‖*) (Ṛ. Saṃ. 1-50-1) **GLOSS** And he quotes the Ṛk that teaches that this Sūrya is the self of all: चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥ (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthuṣaśca ‖*) (Ṛ. Saṃ. 1-185-1) **GLOSS** **NOTE** Here, having established that the well-known Agni has the qualities that are found in Sūrya, he gives the meaning that Agni is lord of everything, the inner controller of all, therefore the impeller of all, and one of excellent vigour.
+
+सर्वस्य प्रेरक आदित्यः (*sarvasya preraka ādityaḥ*) means Sūrya, who impels the whole world, that is, all the beings in the world. If we did not receive the heat that goes out from Sūrya through his rays,
+
+### Printed p. 523
+
+we could not live. As is said in Ṛ. Saṃ. 1-115-1, सूर्य आत्मा जगतः (*sūrya ātmā jagataḥ*), Sūrya is himself the self of the whole world. Without the radiance of Sūrya not even a blade of grass on the earth could move. For the whole of the animal kingdom and for human beings the radiance of Sūrya (his heat) is absolutely necessary. Because heat (fire) is one of the five elements, the radiance of Sūrya is as necessary as air, water and food. There is a difference between the radiance that arises from fire and the like and the radiance of Sūrya. The radiance of Sūrya has the power to remove poison and to produce health. For that very reason the sharp rays of the midday sun destroy poison, as is said here in the words पुरु विश्वानि विषाणि जूर्वन्.हिंसन् (*puru viśvāni viṣāṇi jūrvan.hiṃsan*) Formerly the seer Praskaṇva (prayed): हृद्रोगं मम सूर्य हरिमाणं च नाशय (*hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya*) (Ṛ. Saṃ. 1-50-11). The prayer "O Sūrya, destroy the disease that pervades my heart and the yellow colour (leprosy) produced on my skin by the disease of leprosy" is an example of Sūrya's power to remove disease.
+
+In the Ṛgveda and in the Yajurveda it is said in many places that Mitra is the lord of the day and Varuṇa the lord of the night. Many Vedic passages can be given as examples, such as मैत्रं वा अहः । वारिणी रात्रिः (*maitraṃ vā ahaḥ | vāriṇī rātriḥ*) But what is the relation of Sūrya to Mitra and Varuṇa? It is said that this Sūrya, who is seen by our eyes, is like the eyes of Mitra and Varuṇa: चक्षुर्मित्रस्य वरुणस्माग्नेः (*cakṣurmitrasya varuṇasmāgneḥ*) (Ṛ. Saṃ. 1.115-1), चक्षुर्मित्रस्य वरुणस्य (*cakṣurmitrasya varuṇasya*) (Ṛ. Saṃ. 7-63-1), नमो मित्रस्य वरुणस्य चक्षसे (*namo mitrasya varuṇasya cakṣase*) (Ṛ. Saṃ. 10.37-1). In these and many other Ṛks Sūrya is known as the eye of Mitra and Varuṇa.
+
+Sūrya is the son of the world of heaven: दिवस्पुत्राय सूर्याय शंसत (*divasputrāya sūryāya śaṃsata*) (10.37-1). In some places Sūrya is also regarded as the son of Aditi: सूर्यमादितेयं (*sūryamāditeyaṃ*) (10 88-1). Sūrya sits on a chariot. One horse or many horses draw his chariot. Ordinarily seven horses bear his chariot: सप्ताश्वा हरितः सूर्यस्य (*saptāśvā haritaḥ sūryasya*) (1-115-3, 4). Sūrya is the self of the whole world; that is, as the inner self in the bodies of living beings he regulates their movements. Sūrya is the cause also of the movement of inanimate things: सूर्या आत्मा जगतस्तस्थुषश्च (*sūryā ātmā jagatastasthuṣaśca*) (1.115-1). Impelled by the power of Sūrya, people become able to do their several works: नूसं जनाः सूर्येण प्रसूता अयन्नर्थांसि कृणवन्नपांसि (*nūsaṃ janāḥ sūryeṇa prasūtā ayannarthāṃsi kṛṇavannapāṃsi*)
+
 ---
 
-**Progress note:** Done through printed p. 516. Mandala 10 sukta 87 verses 15-20
+**Progress note:** Done through printed p. 523. Mandala 10 sukta 87 verses 20-25; start of sukta 88 introduction
