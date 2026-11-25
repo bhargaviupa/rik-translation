@@ -17401,6 +17401,241 @@ In this manner, Agni, the son of strength, is glorified by (us his) wor-shippers
 
 O Agni, you who grow by the oblation, or are the son of strength, and are exceedingly mighty: the speech of me, named Upastuta, in the form of praise, praises you in this way. We too praise you. May we by your grace obtain excellent sons, and may we live an exceedingly good life for a long time.
 
+### Printed p. 524
+"Offspring of food! vigorous (Agni)," thus the praise of Upastuta, showering forth oblations, glorifies you. "Let us praise you; through you let us obtain excellent male progeny, enjoing long protracted life."
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति॑ त्वाग्ने वृष्टि॒हव्य॑स्य पु॒त्रा उ॑पस्तु॒तास॒ ऋष॑योऽवोचन् ।  
+> तांश्च॑ पा॒हि गृ॑ण॒तश्च॑ सू॒रीन्व ष॒ड्वष॒ळितू॒र्ध्वासो॑ अनक्ष॒न्न मो॒  
+> नम॒ इत्युद्॒ध्वासो॑ अनक्षन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । त्वा । अग्ने । वृष्टिहव्यस्य । पुत्राः । उपस्तुतासः । ऋषयः । अवोचन् ।  
+> तान् । च । पाहि । गृणतः । च । सूरीन् । वषट् । वषट् । इति । ऊर्ध्वासः । अनक्षन् ।  
+> नमः । नमः । इति । ऊर्ध्वासः । अनक्षन् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वा त्वामित्येवमुक्तप्रकारेण वृष्टिहव्यस्यैतन्नामकस्यर्षः पुत्रा
+> उपस्तुतास उपस्तुता एतदभिधाना ऋषयः सूक्तद्रष्टारोऽवोचन् । अभ्यष्टुवन् ।
+> शानृषींश्च त्वं पाहि । रक्ष ॥ चवायोगे प्रथमेति न निघातः ॥ तथा गृणतः स्तोत्र्यन्
+> सूरीन्विदुषश्च पाहि । वषड्वषडिति मंत्रेणोर्ध्वासो हविष्ट्रदानार्थमूर्ध्वमुख.
+> हस्ताः संतोऽनक्षन् । व्याप्प्नुवन् । नक्षतिर्व्याप्तिकर्मा । नमो नम इत्येवमूर्ध्वासः स्तोशुमुद्युक्ता अनक्षन् । य उक्तगुणास्तानुभयविधान्यष्टन् स्तोत्र्यन्पालय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in the manner stated, the sons of the ṛṣi named Vṛṣṭihavya, the ṛṣis named Upastuta, the seers of the sūkta, have praised you. Protect those ṛṣis (the particle च (*ca*) means no accent-lowering occurs on पाहि (*pāhi*)). Protect also the praisers, the learned. With the mantra वषट् वषट् (*vaṣaṭ vaṣaṭ*) they, with faces and hands raised in order to give the oblation, have reached you; नक्षति (*nakṣati*) is a root of pervading. Likewise, with faces raised, ready to praise, saying नमो नम (*namo nama*), they have reached you. Protect the praisers of both kinds who have these qualities.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वा (*tvā*)—you
+- इति (*iti*)—in this manner
+- वृष्टिहव्यस्य (*vṛṣṭihavyasya*)—of the ṛṣi named Vṛṣṭihavya
+- पुत्राः (*putrāḥ*)—the sons
+- उपस्तुतासः (*upastutāsaḥ*)—famed by the name Upastuta
+- ऋषयः (*ṛṣayaḥ*)—the ṛṣis, seers of the sūkta
+- अवोचन् (*avocan*)—have praised
+- त्वं च (*tvaṃ ca*)—you also
+### Printed p. 525
+- तान् (*tān*)—those ṛṣis
+- पाहि (*pāhi*)—protect
+- गृणतः (*gṛṇataḥ*)—who are praising
+- सूरीन् च (*sūrīn ca*)—protect the wise also
+- वषट् वषट् (*vaṣaṭ vaṣaṭ*)—uttering the vaṣaṭ-cries "वषट् वषट् (*vaṣaṭ vaṣaṭ*)"
+- ऊर्ध्वासः (*ūrdhvāsaḥ*)—the priests holding up their ghee-filled ladles for the offering
+- अनक्षन् (*anakṣan*)—have approached you
+- ऊर्ध्वासः (*ūrdhvāsaḥ*)—the praisers with faces raised
+- नमः नमः (*namaḥ namaḥ*)—saying "namo namaḥ", bowing
+- अनक्षन् (*anakṣan*)—have come to you
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the ṛṣis, seers of the sūkta, sons of the ṛṣi Vṛṣṭihavya and named Upastuta, have thus praised you. Protect those ṛṣis who are praising. O Agni, the priests, holding up ladles filled with ghee for the offering and uttering the vaṣaṭ-cry, approach you. Likewise the people who praise you have come to you, bowing with "namo namaḥ".
+
+##### English translation
+Thus, Agni, the Rishis, the Upastutas, the sons of Vrishtihavya cele-
+brated you, and do you protect them and the pious worshippers. With
+uplifted faces, calling out vashat! vashat! they reached you; with uplifted
+faces they reached you, calling out namas! namas!
+
+## Sūkta 116 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिबेति नवर्चं चतुर्थं सूक्तं त्रैष्टुभमैंद्रं । स्थूरनाम्नः पुत्रोऽग्नियुताख्य ऋषिरग्नियूपाख्यो वा । तथा चानुक्रम्यते । पिब स्थौरोऽग्नियुतोऽग्नियूपो वेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta पिब (*piba*) has nine ṛks, is the fourth sūkta, in Triṣṭubh metre, addressed to Indra. Its ṛṣi is Agniyuta, son of Sthūra, or Agniyūpa. So the Anukramaṇī says: पिब स्थौरोऽग्नियुतोऽग्नियूपो वेति (*piba sthauro 'gniyuto 'gniyūpo veti*). The viniyoga has been stated already.
+
+##### Anuvāda
+
+This sūkta beginning पिब (*piba*) is the fourth sūkta in the tenth anuvāka. It has nine ṛks. Its ṛṣi is Agniyuta or Agniyūpa, son of the ṛṣi named Sthūra; the deity is Indra; the metre is Triṣṭup. In the Anukramaṇī it is said: पिब स्थौरोऽग्नियुतोऽग्नियूपो वा (*piba sthauro 'gniyuto 'gniyūpo vā*). The viniyoga was stated earlier.
+
+### Printed p. 526
+Maṇḍala 10; Anuvāka 10; Sūkta 116. Aṣṭaka 8; Adhyāya 6; Varga 20, 21. Number of ṛks in the sūkta: 9. Ṛṣi: Agniyuta Sthāra, or Agniyūpa Sthāra. Deity: Indra. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबा॒ सोमं॑ मह॒त इं॑द्रि॒याय॒ पिबा॑ वृ॒त्राय॒ हंत॑वे  
+> शविष्ठ ।  
+> पिब॑ रा॒ये शव॑से हू॒यमा॑नः॒ पिब॒ मध्व॑स्त्र॒पदिं॒द्रा वृ॑षस्व ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिब । सोमं । महते । इंद्रियाय । पिब । वृत्राय । हंतने । शविष्ठ ।  
+> पिब । राये । शवसे । हूयमानः । पिब । मध्वः । तृपत् । इंद्र । आ । वृषस्व ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं महते प्रभूतायेंद्रियायेंद्रस्यात्मनो जुष्टाय
+> वीर्याय सोममस्माभिर्दीयमानं पिब ॥ इंद्रियमिंद्रलिंगेत्यादिनेंद्रियशब्दो यजंतत्वेन निपातितः ॥ हे शविष्ठातिशयेन प्रवृद्ध वृत्राय हंतने वृत्रं
+> हंतुं सोमं पिब ॥ क्रियाग्रहणं कर्तव्यमिति वृत्रस्य संप्रदानत्वं ॥ तथा हूयमानोऽस्माभिराहूयमानस्त्वं राये धनाय ॥ ऊडिदमित्यादिना विभक्तेरुदात्तत्वं ॥ शवसेन्नाय । धनान्नयोः प्रदानाय सोमं पिब । मध्वो मदकरान्सर्वान्नोमान्पिब ॥ वा छंदसीति पूर्वसवर्णदीर्घाभावः । अनंतरं हे इंद्र
+> तृपत्तृपोभवन्ना वृषस्व । अस्मदभिलषितान्यासिंच । ददस्व ॥ तृपत् । तृप्ति
+> तौदादिकः । अनित्यमागमशासनमिति नुमभावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, drink the Soma offered by us for your great इंद्रिय (*iṃdriya*), the vigour dear to you, Indra. O most mighty one, drink the Soma in order to slay Vṛtra (Vṛtra stands as the recipient of the action). Likewise, being invoked by us, drink for riches and for strength, that is, for the giving of wealth and food. Drink all the intoxicating (honeyed) Somas. Then, O Indra, being satisfied, shower down: pour out what we desire, give it.
+
+### Printed p. 527
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra, you) महते (*mahate*)—for great
+- इंद्रियाय (*iṃdriyāya*)—valour, that is, for power and capacity
+- सोमं (*somaṃ*)—the Soma juice offered by us
+- पिब (*piba*)—drink
+- शविष्ठ (*śaviṣṭha*)—O Indra, exceedingly growing
+- वृत्राय हंतवे (*vṛtrāya haṃtave*)—for slaying Vṛtra
+- पिब (*piba*)—drink the Soma
+- हूयमानः (*hūyamānaḥ*)—you, invoked with prayer by us
+- राये (*rāye*)—for giving us wealth
+- शवसे (*śavase*)—and for giving food
+- पिब (*piba*)—drink the Soma
+- मध्वः (*madhvaḥ*)—sweet, that is, tasty Soma
+- पिब (*piba*)—drink
+- इंद्र (*iṃdra*)—O Indra
+- तृपत् (*tṛpat*)—satisfied by drinking Soma
+- आ वृषस्व (*ā vṛṣasva*)—fulfil our wishes
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink this Soma juice offered by us for the attainment of exceeding strength and capacity, or valour. O growing Indra, drink Soma also in order to slay Vṛtra. Invoked by us with prayer, drink this sweet and tasty Soma juice so as to give us wealth and food. O Indra, satisfied by the Soma, fulfil our requests.
+
+##### English translation
+Drink (Indra) the Soma for the invigoration of your organs, drink most mighty one, for the death of Vritra; drink when invoked for wealth, for strength; drink of the exhilarating beverage, and being satisfied, Indra, shower down (blessings).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य पि॑ब क्षु॒मतः॒ प्रस्थि॑त॒स्येंद्र॒ सोम॑स्य॒ वर॒मा सु॒तस्य॑ ।  
+> स्व॒स्ति॒दा मन॑सा मादयस्वार्वाची॒नो रे॒वते॒ सौभ॑गाय ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । पिब । क्षुमतः । प्रस्थितस्य । इंद्र । सोमस्य । वरं । आ । सुतस्य ।
+
+### Printed p. 528
+
+> स्वस्तिदाः । मनसा । मादयस्व । अर्वाचीनः । रेवते । सौभगाय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र क्षुमतः स्तुतियुक्तस्य यद्वा हवीरूपान्नवतः प्रस्थितस्य हविर्धानादुत्तरवेदिं प्रति प्रस्थापितस्य सुतस्याभिषुतस्य सोमस्य वरं वरणीयं त्वदीयं
+> भागमाभिमुख्येन पिब ॥ प्रस्थितस्य । तिष्ठतेः कर्मणि निष्ठा । गतिरनंतर इति गतेः
+> प्रकृतिस्वरत्वं ॥ ततः स्वस्तिदाः कल्याणस्य दाता त्वं मनसांतःकरणेन मादयस्व ।
+> हृष्टो भव । यद्वा । अस्मानपि हृष्टान्कुरु । तदेवोच्यते । रेवते धनवते सौभगाय
+> सौभाग्याय तदस्मभ्यं दातुमर्वाचीनोऽभिमुखांचनो भव ॥ विभाषांचेरदिक्ष्त्रियामिति खः । रयिशब्दान्मतुपश्यंदसीर इति वत्वं । रयेर्मत् बहुलमिति
+> संप्रसारणं । पूर्वरूपत्वे गुणः । सौभगाय । उद्धात्रादिषु सुभग मंत्र इति
+> पठ्यते। तस्योत्तरपदस्य हृद्भगेति वृद्धिर्नॆष्यते सर्वविधीनां छंदसि विकल्पितत्वात् ।
+> इत्त्वरेणाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, drink your choice share of the Soma that is क्षुमतः (*kṣumataḥ*), accompanied by praise, or else furnished with food in the form of oblation; प्रस्थित (*prasthita*), sent forth from the oblation-holder to the Uttaravedi; and pressed. Then, giver of welfare, be delighted in mind; or else make us delighted. For this is said: be turned towards us to give us wealth and good fortune.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- क्षुमतः (*kṣumataḥ*)—that is accompanied by praise, or in the form of oblation
+- प्रस्थितस्य (*prasthitasya*)—placed on the Uttaravedi
+- सुतस्य (*sutasya*)—of which the Soma plants have been pounded and pressed
+- अस्य सोमस्य (*asya somasya*)—of this Soma juice
+- वरं (*varaṃ*)—the share due to you
+- आ (*ā*)—seated before us
+- पिब (*piba*)—drink
+- स्वस्तिदाः (*svastidāḥ*)—you who bring welfare
+- मनसा (*manasā*)—wholeheartedly
+- मादयस्व (*mādayasva*)—be delighted, or make us delighted
+- रेवते (*revate*)—to make us wealthy
+- सौभगाय (*saubhagāya*)—and to bring good fortune
+- अर्वाचीनः (*arvācīnaḥ*)—be turned towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink the share due to you of this Soma juice in the form of oblation, which is placed on the Uttaravedi, consecrated by mantras, and pressed from the pounded Soma plants. You who give what is best, be delighted by the Soma, or make us delighted. Sit facing us, in order to give us wealth and bring auspiciousness.
+
+##### English translation
+Drink, Indra, your excellent portion of this renowned Soma effused and poured forth ; the giver of prosperity, be delighted in your mind, (be) turned towards us to bestow riches and happiness.
+
+### Printed p. 529
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒मत्तु॑ त्वा दि॒व्यः सोम॑ इंद्र म॒मत्तु॒ यः सू॒यते॒  ॑
+> पार्थि॑वेषु ।  
+> म॒मत्तु॒ येन॒ वरि॑वश्च॒कर्थ॑ म॒मत्तु॒ येन॑ निरि॒णासि॒ शत्रू॑न् ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ममत्तु । त्वा । दिव्यः । सोमः । इंद्र । ममत्तु । यः । सूयते । पार्थिवेषु ।  
+> ममत्तु । येन । वरिवः । चकर्थ । ममत्तु । येन । निरिणासि । शत्रून् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां दिव्यो दिवि भवः सोमो ममत्तु । आत्मीयकलाप्रदानेन
+> मादयतु । देवा ह्यपरपक्षे सोमस्य कलां पिबंति ॥ मदेर्लोटि व्यत्ययेन
+> श्लुः । भीह्रीत्यादिना । पा.६-१-१९२ । पितः पूर्वस्योदात्तत्वं ॥ तथा पार्थिवेषु
+> पृथिव्यां भवेषु देवयजनेषु यः सोमोऽस्माभिः सूयते अभिषूयते सो-
+> sप्यस्माभिर्दत्तो ममत्तु । त्वां हर्षयतु । येन सोमेन वरिवो वरणेयं
+> धनं चकर्थ कृतवानसि स च ममत्तु ॥ करोतेर्लिट् । यद्योगादनिघाते लित्स्वरः ॥
+> किंच येन शत्रून्निरिणासि निर्गमयसि । सोऽपि ममत्तु । त्वां मादयतु ॥ रिणासि ।
+> री गतिरेषणयोः क्रादिः । प्वादीनां ह्रस्वत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may the heavenly Soma delight you by giving its own digit (the gods drink a digit of Soma in the dark fortnight). Likewise the Soma that is pressed by us in the earthly places of divine worship, being offered by us, may it delight you. The Soma by which you have made वरिवः (*varivaḥ*), choice wealth, may it also delight you. And the Soma by which you drive out the enemies, may it too delight you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- दिव्यः (*divyaḥ*)—that is in the heavenly world
+- सोमः (*somaḥ*)—Soma
+- ममत्तु (*mamattu*)—may it gladden (and)
+- पार्थिवेषु (*pārthiveṣu*)—in the sacrifices performed on earth
+- यः (*yaḥ*)—the Soma juice that
+- सूयते (*sūyate*)—is pressed and offered by us
+- ममत्तु (*mamattu*)—may it make you delighted
+- येन (*yena*)—by drinking which Soma
+- वरिवः (*varivaḥ*)—the desired wealth
+- चकर्थ (*cakartha*)—you provide, may that Soma
+- ममत्तु (*mamattu*)—gladden you
+- येन (*yena*)—by which Soma, being invigorated, you
+- शत्रून् (*śatrūn*)—the enemies
+- निरिणासि (*niriṇāsi*)—destroy, such Soma juice
+- ममत्तु (*mamattu*)—may it gladden you
+
 ---
 
-**Progress note:** Done through printed p. 523. pp. 518-523 (batch API)
+**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
