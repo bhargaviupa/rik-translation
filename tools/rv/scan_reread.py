@@ -30,7 +30,7 @@ def answers(vol):
     A = {}
     for f in sorted(glob.glob(os.path.join(ROOT, f'vol{vol}', 'review', 'reread', 'ans_*.tsv'))):
         for r in csv.reader(open(f, encoding='utf8'), delimiter='\t'):
-            if r and r[0].startswith('Q') and len(r) >= 3: A[r[0]] = (r[1].strip(), r[2].strip().lower(), r[3].strip() if len(r) > 3 else '')
+            if r and r[0].startswith('Q') and len(r) >= 3: A[r[0]] = (r[1].strip(), r[2].strip().lower(), r[3].strip() if len(r) > 3 else '', r[4].strip() if len(r) > 4 else None)
     return A
 def check(vol):
     A = answers(vol); Q = qs(vol); jobs = glob.glob(os.path.join(ROOT, f'vol{vol}', 'review', 'reread', 'job_*.md'))
@@ -40,8 +40,9 @@ def check(vol):
     return not miss
 def apply(vol, write):
     A = answers(vol); Q = {q['id']: q for q in qs(vol)}; log = []; byp = {}
-    for i, (new, conf, note) in A.items():
-        if conf == 'certain' and i in Q: byp.setdefault(int(Q[i]['pdf_page']), []).append(i)
+    for i, (new, conf, note, expect) in A.items():
+        if conf == 'certain' and i in Q and expect is not None and Q[i]['reading'] == expect: byp.setdefault(int(Q[i]['pdf_page']), []).append(i)
+        elif conf == 'certain': print('REFUSED (answer row has no matching expect column; question ids change when questions.tsv is rebuilt)', i)
     for pg, ids in sorted(byp.items()):
         f = os.path.join(ROOT, f'vol{vol}', 'work', 'scan_pages', f'p{pg:04d}.md'); L = open(f, encoding='utf8').read().split('\n'); ch = False
         # latest mark first, so earlier positions stay valid
