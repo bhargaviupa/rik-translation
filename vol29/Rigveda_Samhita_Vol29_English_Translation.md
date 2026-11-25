@@ -28290,6 +28290,325 @@ The sound produced when the Soma plants are crushed with stones is compared to t
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
+### Printed p. 1010
+
+> एते । वदंति । अविदन् । अना । मधु । नि । ऊंखयंते । अधि । पक्वे । आमिषि ।
+> वृक्षस्य । शाखां । अरुणस्य । बप्सतः । ते । सूभर्वाः । वृषभाः । प्र । ईं । अराविसुः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुणस्यारुणवर्णस्य वृक्षस्य शाखां बप्सतो भक्षयंतस्ते सूभर्वाः शोभनभक्षा वृषभाः प्रेमराविषुः । प्ररुवंति । यथा पक्व आमिष्यध्यामिषे क्रव्यादो
+> मांसभक्षकाश्च मांसविषये यथा न्यूंखयंते शब्दविशेषं कुर्वंति तद्वदेते
+> ग्रावाणो वदंति । शब्दं कुर्वंति । किंच मधु मदकरं सोममनास्येनाविदन् ।
+> लभंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the verse thus. The bulls (the pressing stones) that chew the branch of the red-coloured tree, and are good eaters, bellow forth; प्ररुवंति (*praruvaṃti*) means they roar. Just as flesh-eaters make a particular sound over cooked meat, so these pressing stones speak, that is, they make a sound. Moreover, with their mouths they have found the sweet, exhilarating Soma, that is, they obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these pressing stones
+- वदंति (*vadaṃti*)—make a sound
+- अना (*anā*)—with their mouths
+- मधु (*madhu*)—the tasty Soma
+- अविदन् (*avidan*)—obtain
+- पक्वे (*pakve*)—cooked
+- आमिषि अधि (*āmiṣi adhi*)—as flesh-eaters sound before cooked meat
+- न्यूंख्ययंते (*nyūṃkhyayaṃte*)—sound loudly
+- अरुणस्य (*aruṇasya*)—of the golden-coloured
+- वृक्षस्य (*vṛkṣasya*)—of the tree
+- शाखां (*śākhāṃ*)—the branch
+- बप्सतः (*bapsataḥ*)—which eat
+- सूभर्वाः (*sūbharvāḥ*)—which have excellent eating
+- वृषभाः (*vṛṣabhāḥ*)—and are powerful, the pressing stones
+- प्र ईं अराविषुः (*pra īṃ arāviṣuḥ*)—sound loudly
+
+##### भावार्थ (Bhāvārtha)
+
+These pressing stones sound loudly. With their mouths they pour out the tasty Soma; as flesh-eaters sound before cooked meat, so they sound loudly. The pressing stones that eat the creeper of the golden-coloured tree, that have excellent eating and are powerful, sound loudly.
+
+##### English translation
+The speak, they received into their mouth the sweet (Soma juice), they roar (like the eaters of flesh) over the roasted meat : chewing the branch of the purple tree, the voracious bulls have bellowed.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हद्व॑दंति मदि॒रेण॑ म॒ुंदिनेंद्रं॒ क्रोशं॑तोऽविदन्न॒ना  ॑
+> मधु ।
+
+### Printed p. 1011
+
+> संरभ्या धीराः स्वसृभिरनर्तिषुराघोषयंतः पृथिवीमुपब्धिभिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । वदंति । मदिरेण । मंदिना । इंद्रं । क्रोशंतः अविदन् । अना । मधु ।  
+> संरभ्य । धीराः । स्वसृभिः । अनर्तिषुः । आघोषयंतः । पृथिवीं । उपब्बिभः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदिरेण मदकरेण मंदिनाभिपूयमाणेन सोमेनेंद्रं क्रोशंत
+> अह्वयंत एते ग्रावाणो बृहदत्यंतं वदंति । शब्दं कुर्वंति । किंचानास्येन मधु
+> मदकरं सोममविदन् । अलभंत । किंच संरभ्य संरब्बा भूत्वा धीरा धृष्टाः
+> संत उपब्बिभिः शब्दैः पृथिवीमाघोपयंतः पूरयंतः स्वसृभिरंगुलिभिः सहानर्तिषुः । नृत्यंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that these pressing stones, crying out to Indra with the exhilarating Soma that is being purified (मंदिनाभिपूयमाणेन (*maṃdinābhipūyamāṇena*)), sound loudly, that is, they make noise. With their mouths they have found the intoxicating sweet Soma, that is, obtained it. Moreover, having become excited and bold, they fill the earth with noises from the pressing, and they dance with the fingers (स्वसृभिः (*svasṛbhiḥ*) is explained as the fingers).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिरेण (*madireṇa*)—with the gladdening
+- मंदिना (*maṃdinā*)—and pressed Soma
+- इंद्रं (*iṃdraṃ*)—Indra
+- क्रोशंतः (*krośaṃtaḥ*)—these pressing stones that call out
+- बृहत् (*bṛhat*)—exceedingly
+- वदंति (*vadaṃti*)—make a sound
+- अना (*anā*)—with their mouth
+- मधु (*madhu*)—the tasty Soma
+- अविदन् (*avidan*)—obtain
+- धीराः (*dhīrāḥ*)—the firm pressing stones
+- संरभ्य (*saṃrabhya*)—gathering together
+- उपब्धिभिः (*upabdhibhiḥ*)—with their sounds
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- आघोषयंत (*āghoṣayaṃta*)—filling
+- स्वसृभिः (*svasṛbhiḥ*)—with the fingers
+- अनर्तिपुः (*anartipuḥ*)—dance
+
+##### भावार्थ (Bhāvārtha)
+
+The pressing stones, calling Indra with the gladdening Soma that is being pressed, sound exceedingly. With their mouths they obtain the tasty Soma. The firm pressing stones, gathering together and filling the earth with their sounds, dance with the fingers.
+
+##### English translation
+They cry aloud calling upon Indra with the intoxicating effused (Soma), they took the sweet juice into their mouth, seized by the sister (fingers) the bold stones danced, filling the earth with shouts,
+
+### Printed p. 1012
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः।  
+> न्य१॒॑ग्नि यं॒त्युप॑रस्य निष्कृ॒तं पु॒रू रेतो॑ दधिरे सूर्य॒श्वितः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुपर्णाः । वाचं । अकृत । उप । द्यवि । आखरे । कृष्णाः । इषिराः । अनर्तिषुः ।  
+> न्यक् । नि । यंति । उपरस्य । निःकृतं । पुरु । रेतः । दधिरे । सूर्यश्वितः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुपर्णाः सुपतना ग्रावाण उपोपलक्ष्य समीपे द्यव्यंतरिक्षे वाचमभिषवशब्दमक्रत । कुर्वंति । किंचाखरे । मृगाणां व्रज आखरः । तस्मिन्निषिरा गमनशीलाः
+> कृष्णाः कष्टमृगा इव सूर्यश्वितः सूर्यवच्छ्वेतवर्णा द्रप्सा।अनर्तिषुः । नृत्यंति ।
+> निष्कृतं ग्रावभिः पीडितं सदुपरस्कोपलस्य न्यगधोमुखं सोमं नि यंति ।
+> निगमयंति । किंच पुरु बहु रेतः सोमलक्षणमुदकं दधिरे । धारयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the well-flying pressing stones make the sound of pressing near, in the sky (द्यवि (*dyavi*) is the atmosphere). The आखरे (*ākhare*) is a herd of deer; in it the black deer, moving about, as it were, dance, and these stones, white as the sun, dance. The pressed Soma, squeezed by the stones, is led downward, with face turned down, from the upper stone. Moreover, they hold much water, which is the nature of Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपर्णा: (*suparṇā:*)—the well-moving pressing stones
+- उप द्यवि (*upa dyavi*)—near the atmosphere
+- वाचं (*vācaṃ*)—the sound of pressing
+- अक्रत (*akrata*)—make
+- आखरे (*ākhare*)—in the stall
+- इषिरः (*iṣiraḥ*)—moving about
+- कृष्णाः (*kṛṣṇāḥ*)—like black deer
+- अनर्तिषुः (*anartiṣuḥ*)—dance
+- निष्कृतं (*niṣkṛtaṃ*)—the pressed Soma
+- उपरस्य न्यक् (*uparasya nyak*)—beneath the stones
+- नि यंति (*ni yaṃti*)—make flow
+- सूरश्वितः (*sūraśvitaḥ*)—those of bright colour like the sun
+- पुरु (*puru*)—abundant
+- रेतः (*retaḥ*)—the juice of the nature of Soma
+- दधिरे (*dadhire*)—hold
+
+##### भावार्थ (Bhāvārtha)
+
+The well-moving pressing stones make the sound of pressing near the atmosphere. As the black deer, moving about, dance in the stall, so these also dance. They make the pressed Soma flow beneath the stones. Bright in colour like the sun, they hold abundant juice of the nature of Soma (they produce it).
+
+### Printed p. 1013
+
+##### English translation
+The well-gliding stones made a noise in the firmament; they danced (like) the black deer in the stall; they exude down from the upper stone the expressed (juice); white as the sun they yield abundant moisture.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ग्रा इ॑व प्र॒वहं॑तः स॒माय॑मुः सा॒कं यु॒क्ता वृष॑णो॒ ॒॑ ॑
+> बिभ्र॑तो॒ धुरः॑ ।  
+> यच्छ्र॒संतो॑ जग्रसा॒ना अरा॑विषुः शृ॒ण्व ए॑षां प्रो॒थथो॒  ॑
+> अर्वतामिव ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उग्राः इव । प्रवहंतः । संआयमुः । साकं । युक्ताः । वृषणः । बिभ्रतः । धुरः ।  
+> यत् । श्वसंतः । जग्रसाना । अराविषुः । शृण्वे । एषां । प्रोथथः । अर्वतां इव ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषणः । फलं वर्षतीति वृषा यज्ञः । तस्य धुरो धुरं भारं बिभ्रतो
+> धारयंत एते ग्रावाणः साकं सोमेन सह युक्ताः संतः प्रवहंतो रथं
+> प्रकर्षेण प्रोढार उग्रा उद्धूर्णा अश्वा इव समायमुः । समायच्छंति ।
+> आयशा भवंतीत्यर्थः। यद्यदा श्वसंतोऽभिषवसमय उत्पतननिपतनव्यापारजनितेन
+> वायुना श्वसंत इव स्थिता ग्रावाणो जग्रसानाः सोमं ग्रसमाना अराविषुः
+> शब्दायंते तदानीमेषां ग्रावाणं संबंधी प्रोथथो मुखाच्छब्दः शृण्वै ।
+> श्रूयते । तत्र दृष्टांतः । अर्वतामिवाश्वानां संबंधिनो मुखाद्वेषाशब्दो
+> यथा तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that वृषा (*vṛṣā*) (that which rains down fruit) is the sacrifice. These pressing stones, bearing the burden of that sacrifice, yoked together with the Soma, carry the chariot forward and bring themselves under control like fierce, high-spirited horses. When, at the time of pressing, the stones stand as though panting from the wind produced by their rising and falling, swallowing the Soma, they sound, and then the sound from the mouth of these stones is heard; the illustration is the sound from the mouth of horses. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रवहंतः (*pravahaṃtaḥ*)—which carry the chariot
+- उग्राः (*ugrāḥ*)—like horses of great strength
+- वृषणः (*vṛṣaṇaḥ*)—of the sacrifice that showers fruit
+- धुरः (*dhuraḥ*)—the burden
+- बिभ्रतः (*bibhrataḥ*)—these pressing stones that bear
+- साकं युक्ताः (*sākaṃ yuktāḥ*)—joining together
+- समायमुः (*samāyamuḥ*)—become intent on the rite
+- यत् (*yat*)—when
+
+### Printed p. 1014
+
+- जग्रसानाः (*jagrasānāḥ*)—the stones that press the Soma
+- श्वसंतः (*śvasaṃtaḥ*)—as though breathing hard
+- अराविसुः (*arāvisuḥ*)—sound, then
+- एषां (*eṣāṃ*)—of these
+- प्रोथथः (*prothathaḥ*)—the sound issuing from the mouth
+- अर्वतां इव (*arvatāṃ iva*)—like the sound of horses breathing hard
+- शृण्वे (*śṛṇve*)—is heard by all
+
+##### भावार्थ (Bhāvārtha)
+
+Like horses that draw the chariot and have great strength, these pressing stones, bearing the burden of the sacrifice that showers fruit, join together and become intent on the rite. When the stones that press the Soma sound as though breathing hard, then the sound issuing from their mouth is heard by all, like the sound of horses breathing hard.
+
+##### English translation
+Bearing the burden of the sacrifice, yoked with (the Soma) they exerted themselves like spirited horses ; when panting and extracting (the Soma) they cried aloud, their snorting is heard like that of horses.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दशा॑वनिभ्यो॒ दश॑कक्ष्येभ्यो॒ दश॑योक्त्रेभ्यो॒ दश॑योजनेभ्यः।  
+> दशा॑भीशुभ्यो अर्चता॒जरे॑भ्यो॒ दश॒ धुरो॒ दश॑ यु॒क्ता  ॑
+> वहद्भ्यः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दशावनिभ्यः । दशकक्ष्येभ्यः । दशयोक्रेभ्यः । दशयोजनेभ्यः ।  
+> दशाभीशुभ्यः । अर्चत । अजरेभ्यः । दश । धुरः । दश । युक्ताः वहत्स्भ्यः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशावनिभ्यः । कर्माण्यवंति गच्छंतीत्यवनयः । दशावनयोऽंगुलयो
+> येषां ग्राहकत्वेन संबंधिनस्ते दशावनयः । तान्ग्राष्टः । द्वितीयार्थे चतुर्थि ।
+> दशकक्षेभ्यः । कक्ष्याः प्रकाशका अंगुलयो येषां ते दशकक्ष्याः । तान् ।
+> दशयोक्तेभ्यः । योक्रवद्बंधने साधनभूता दशांगुलयो येषां तान् ।
+> दशयोजनेभ्यः । सोमेन सह योजने साधनभूता दाराशांगलयो येषां
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that दशावनिभ्यः (*daśāvanibhyaḥ*) means those whose ten fingers go to (serve) rites, the fingers being connected with the stones as the holders of them; the dative is used in the sense of the accusative, so the stones are meant. दशकक्ष्येभ्यः (*daśakakṣyebhyaḥ*) means those whose ten fingers are the illuminators of rites (kakṣyā). दशयोक्रेभ्यः (*daśayokrebhyaḥ*) means those whose ten fingers are the means of binding, like yoke-straps. दशयोजनेभ्यः (*daśayojanebhyaḥ*) means those whose ten fingers are the means of yoking together with the Soma. **NOTE**
+
+### Printed p. 1015
+
+> तान् । दशभीशुभ्यः । कर्माण्यभितो व्याप्नुवंतीत्यभीशवोऽंगुलयो दश येषां
+> तान् । अजरेभ्यो जराविवर्जितान्नश दशभिर्धुरो धूर्भिर्हिंसितृभिः । तृतीयार्थे
+> प्रथमा । युक्ता युक्तान् । द्वितीयार्थे प्रथमा । वहद्भ्यो वहतोऽभिषवाख्यॆ
+> कर्मणि व्याप्रियमाणानर्चत । स्तुत । हे ऋत्विज इति शेषः ॥ अत्र यास्कः ।
+> अवनयोऽंगुलयो भवंत्यवंति कर्माणि कक्ष्याः प्रकाशयंति कर्माणि योक्राणि
+> योजनानीति व्याख्यानतमभीशवोऽभ्यश्नु वते कर्माणि दश धुरो दश युक्ताः
+> वहद्भ्यः । धूर्धूर्वतेर्वधकर्मण इयमपीतरा धूरेतस्मादेव विहंति वहं
+> धारयतीर्वा । नि. ३-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+Those whose ten fingers pervade rites on every side are दशभीशुभ्यः (*daśabhīśubhyaḥ*). अजरेभ्यः (*ajarebhyaḥ*) are those free from old age. By ten धुरः (*dhuraḥ*), that is, by ten harmers, is put in the nominative in the sense of the instrumental; युक्ता (*yuktā*) is the nominative in the sense of the accusative, meaning the yoked ones. वहद्भ्यः (*vahadbhyaḥ*) are those engaged in the rite called pressing. Sāyaṇa supplies "O priests" and says: worship, that is, praise, these stones. Here Yāska (Ni. 3-9) says that the fingers are avanayaḥ because they protect rites, कक्ष्याः (*kakṣyāḥ*) because they illuminate rites, and the yoktras are the bindings; the abhīśavaḥ pervade rites; and he explains dhūr as derived from a root of harming. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests,) दशावनिभ्यः (*daśāvanibhyaḥ*)—those with ten fingers intent on rites
+- दॆहलिकक्ष्येभ्यः (*dèhalikakṣyebhyaḥ*)—those with ten fingers that illuminate rites **NOTE**
+- दशयोजनेभ्यः (*daśayojanebhyaḥ*)—those with ten fingers that hold the stones firmly
+- दशाभीशुभ्यः (*daśābhīśubhyaḥ*)—those with ten fingers that are the means of rites
+- अजरेभ्यः (*ajarebhyaḥ*)—free from decay
+- दश धुरः (*daśa dhuraḥ*)—with the ten pressing fingers
+- युक्ताः (*yuktāḥ*)—held
+- वहद्भ्यः (*vahadbhyaḥ*)—to the stones that carry out the work of pressing
+- अर्चत (*arcata*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, worship the pressing stones that have ten fingers intent on rites, ten fingers that illuminate rites, ten fingers that hold the stones firmly, ten fingers that are the means of rites, ten fingers that pervade rites, and that are free from decay and carry out the work of pressing.
+
+##### English translation
+Worship (priests), those imperishable ( stones ) which have ten workers, ten girths, ten yokes, ten agents, ten encompassers, which are possessed of ten burdens, which bear (the srcrifice). **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते अद्र॑यो॒ दश॑यंत्रास आ॒शव॒स्तेषा॑मा॒धानं॒ पर्ये॑ति  ॒
+> हर्यतं ।  
+> त ऊ॑ सु॒तस्य॑ सो॒म्यस्यांध॑सो॒ऽंशोः पी॒यूषं॑ प्रथ॒मस्य॑  
+> भेजिरे ॥ ८ ॥
+
+### Printed p. 1016
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । अद्रयः । दशयंत्रासः । आशवः । तेषां । आधानं । परि । एति- । हर्यतं ।  
+> ते । ऊं इति । सुतस्य । सोम्यस्य । अंधसः । अंशोः । पीयूषं । प्रथमस्य ।  
+> भेजिरे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्रय आदरणीया आशवः अक्षिप्रकारिणस्त एते प्रकृता ग्रावाणो दशयंत्रासो दशयंत्राः । तेषामेषां ग्राव्णां संबंधि यदाधानं प्रक्षेपणमभिषवकर्म हर्यतं स्पृहणीयं पर्येति । परितो गच्छति । त एते ग्रावाण
+> एव सुतस्याभिषुतस्य सोम्यस्य सोमस्य संबंधिनोऽंशोः खंडस्वरूपस्यांधसोऽन्नस्य पीयूषममृतं प्रथमं भेजिरे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the अद्रयः (*adrayaḥ*) are the honourable ones and the आशवः (*āśavaḥ*) the quick-acting ones; these are the stones under discussion, having ten hands or ten implements (the fingers). The desirable action of pressing, the putting in, that belongs to them goes round on all sides. These very stones are the first to enjoy the ambrosia, the nectar, of the pressed Soma, the stalk (a portion of the plant), that is, the food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—intent on the rite
+- ते आद्रयः (*te ādrayaḥ*)—those stones
+- दशयंत्रासः (*daśayaṃtrāsaḥ*)—are held by ten fingers
+- तेषां (*teṣāṃ*)—their
+- आधानं (*ādhānaṃ*)—the pressing rite
+- हर्यतं (*haryataṃ*)—attractively
+- पर्येति (*paryeti*)—spreads all round
+- ते उ (*te u*)—these stones alone
+- सुतस्य (*sutasya*)—of the pressed
+- सोम्यस्य (*somyasya*)—Soma juice
+- अंशोः (*aṃśoḥ*)—the small portion
+- अंधसः (*aṃdhasaḥ*)—the food of the nature of juice
+- पीयूषं (*pīyūṣaṃ*)—the nectar
+- प्रथमस्य भेजिरे (*prathamasya bhejire*)—taste first
+
+##### भावार्थ (Bhāvārtha)
+
+The stones intent on the rite are held by ten fingers. Their pressing rite spreads all round attractively. These stones alone first taste the nectar-food, the Soma, of the nature of juice that has been pressed.
+
+##### English translation
+These stones, having ten reins, swiftly moving, their delightful whirling goes round ; they first tasted the ambrosia of the fragment of food of the expressed Soma.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते सो॒मादो॒ हरी॒ इंद्र॑स्य निंसतें॒शुं दु॒हंतो॒ ॒॑ ॑
+> अभ्या॑सते॒ गवि॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 1009. Sukta 93 Rk 15 end; Sukta 94 introduction, Rk 1-2, Samhita of Rk 3 (pp. 1003-1009)
+**Progress note:** Done through printed p. 1016. Sukta 94 Rks 3-9 (pressing stones), pp. 1010-1016
