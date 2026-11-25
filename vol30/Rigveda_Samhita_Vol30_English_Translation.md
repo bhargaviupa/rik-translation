@@ -30003,6 +30003,253 @@ The difference between Savitṛ and Sūrya or Āditya is this: उषसः प�
 
 Here first the Agni that shines at night is praised; then Mitra and Varuṇa, the presiding deities of day and night; then Night; then the god Savitṛ, in order. It says that this god Savitṛ rises, dispels the darkness of night with his radiance, and comes, rising on a chariot shining with golden lustre (in the present Ṛk the rays of Savitṛ are described as golden hair), looking at all the worlds. The sequence is: first night; then, when night has passed, dawn; then the appearance of Savitṛ; then sunrise; then day and again night. Thus these divisions of time follow one another without interruption. Here the usage is to call the Sun that is just rising after dawn the god Savitṛ.
 
+### Printed p. 904
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒चक्षा॑ ए॒ष दि॒वो मध्य॑ आस्त आपप्रि॒वान्रोद॑सी अं॒तरि॑क्षं ।  
+> स वि॒श्वा ची॑र॒भि च॑ष्टे घृ॒ताची॑रंत॒रा पूर्व॒वप॑रं च के॒तुं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृचक्षाः । एषः । दिवः । मध्ये । अस्ते । अपप्रिवान् । रोदसी इति । अंतरिक्षं ।  
+> सः । विश्वाचीः । अभि । चष्टे । धृताचीः । अंतरा । पूर्वं । अपरं । च । केतुं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृचक्षा नृन्मनुष्यान्पश्यन् यद्वा नृभिर्नेतृभी रश्मिभिः प्रकाशमान एष
+> सविता दिवो म्युलोकस्य मध्य आस्ते । निषीदति । किं कुर्वन् । रोदसी द्यावापृथि
+> व्यावंतरिक्षं चापप्रिवान् स्वतेजसापूरयन् ॥ प्रा पूरणे । अस्माच्छांदसो लिट् ।
+> क्वसुश्चति तस्य क्वसुरादेशः । वस्वेकाजाद्भसामितीडागमः ॥ स देवो विश्वाचीर्विश्वमंचंतीः सर्वव्यापिनीः प्राच्यादिमहादिशोऽभि चष्टे । प्रकाशयति । तथा धृताचीर्घृतं दीप्तं रूपमंचंतीराग्नेय्यादिविदिशश्च प्रकाशयति ॥ अंचतेः क्विनंतादंचतेश्चोपसंख्यानमिति जीप् । ततो भसंज्ञायामच इत्याकारलॊपे चाविति
+> दीर्घत्वं । उदात्तनिवृत्तिस्वरेण जीप उदात्तत्वे प्राप्ते चाविति पूर्वस्याच उदात्तत्वं ।' तथा पूर्व० पूर्वभागं केतुं प्रज्ञापनीयपरं सृष्टभागं चांतरांतरालं चाभि चष्टे । प्रकाशयति ॥
+
+##### Gist of the bhāṣya
+
+नृचक्षा (*nṛcakṣā*) means one who looks upon men; or else, one shining with the "men", that is the leading rays. This Savitṛ sits in the middle of the heavenly world. What is he doing? He fills (अपप्रिवान् (*apaprivān*)) heaven and earth and the firmament with his own radiance. The root is प्रा (*prā*) in the sense of filling. This god illumines all the all-pervading (विश्वाचीः (*viśvācīḥ*)) great quarters, the east and the rest. Likewise he illumines the धृताचीः (*dhṛtācīḥ*), the intermediate quarters such as the south-east, which bear a bright (घृतं (*ghṛtaṃ*)) form. He also illumines the "front part", the केतुं (*ketuṃ*) (the distinguishing mark, to be made known), the "hind part" that is created, and the interval between.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृचक्षाः (*nṛcakṣāḥ*)—beholding men, or shining with rays
+- एषः (*eṣaḥ*)—this Savitṛ god
+- रोदसी (*rodasī*)—heaven and earth
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- अपप्रिवान् (*apaprivān*)—filling (lighting) with his radiance
+- दिवः (*divaḥ*)—of the heavenly world (the sky)
+- मध्यॆ (*madhyè*)—in the middle
+- आस्ते (*āste*)—sits
+- सः (*saḥ*)—that Savitṛ god
+- विश्वाचीः (*viśvācīḥ*)—the quarters, east and the rest, pervading all regions
+- अभि चष्टे (*abhi caṣṭe*)—illumines
+- धृताचीः (*dhṛtācīḥ*)—he also lights the intermediate quarters, south-east and the rest
+- केतुं (*ketuṃ*)—standing in the place of a banner
+- पूर्वं (*pūrvaṃ*)—the front part (the region lying ahead)
+- अपरं च (*aparaṃ ca*)—and the hind part
+- अंतरा (*aṃtarā*)—the middle part between these also
+- (अभि चष्टे (*abhi caṣṭe*)—illumines)
+
+### Printed p. 905
+
+##### भावार्थ (Bhāvārtha)
+
+This god Savitṛ, shining with rays or watching men, sits in the middle of the sky, filling heaven, earth and the firmament with his radiance. That Savitṛ lights with his brightness all the quarters, east and the rest, the intermediate quarters such as the south-east, the front part, the hind part, and the region between them.
+
+##### English translation
+Beholding mankind he sits in the midst of the sky, filling (with light) the heaven and earth and the firmament; he illumines the all-pervading (quarters of space) the bright-pervading (intermediate points), and the mid-most, the foremost, and the hindmost mark.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒यो बु॒ध्नः सं॒गम॑नो॒ वसू॑नां॒ विश्वा॑ रू॒पाभि च॑ष्टे॒  ॑
+> शचीभिः ।  
+> दे॒व इ॑व सवि॒ता स॒त्यध॒र्मेंद्रो॒ न त॑स्थौ सम॒रे धना॑नां ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रायः । बुध्नः । संगमनः । वसूनां । विश्वा । रूपा । अभि । चष्टे । शचीभिः ।  
+> देवः इव । सविता । सत्यधर्मा । इंद्रः । न । तस्थौ । संअरे । धनानां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रायो धनस्य बुध्नो बंधको मूलभूतो ना ॥ ऊडिदमित्यादिना रैशब्दाद्विभक्तेरुदात्तत्वं ॥ तथा वसूनां धनानां संगमनः संगमयिता प्रापयिता ईदृशः
+> सविता शचीभिर्दिप्तिभिर्विश्वा रूपा सर्वाणि रूपाणि निरूपणीयानि पदार्थजातान्यभि
+> चष्टे । अभिपश्यति । प्रकाशयति । अपि च देव इवायं सविता सावको देवः सत्यधर्मा
+> सत्यमवितथं धर्म धारणं धारणहेतुभूतं कर्म वा यस्य तादृशो भवति
+> तथेंद्रो नेंद्र इव धनानां समरे संग्रामे सम्यक्प्रापणे तस्थौ । अयं
+> सवितोद्युक्तः संस्थिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+रायः (*rāyaḥ*) is wealth; बुध्नः (*budhnaḥ*) is its binder, its root-source. Such a Savitṛ, the one who brings together (संगमनः (*saṃgamanaḥ*)) and gets for us the treasures (वसूनां (*vasūnāṃ*)), with his powers (शचीभिः (*śacībhiḥ*), lights) looks upon and illumines all forms, all things that can be described. Moreover, like a god, this Savitṛ, the impeller, is one whose धर्म (*dharma*) (support, or the act that is the ground of support) is truth, unfailing. Like Indra, तस्थौ (*tasthau*): in the contest for riches, in battle, in good attainment, this Savitṛ stands ready, exerting himself.
+
+### Printed p. 906
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रायः (*rāyaḥ*)—to wealth
+- बुद्धः (*buddhaḥ*)—being its root, that is, its support
+- वसूनां (*vasūnāṃ*)—of various kinds of wealth
+- संगमनः (*saṃgamanaḥ*)—the Savitṛ god who provides them
+- शचीभिः (*śacībhiḥ*)—with his radiances
+- विश्वा (*viśvā*)—all
+- रूपा (*rūpā*)—these forms, that is, things that can be seen by the eye
+- अभि चष्टे (*abhi caṣṭe*)—looks all around (or illumines)
+- देव इव (*deva iva*)—like a god
+- सविता (*savitā*)—this Savitṛ
+- सत्यधर्मा (*satyadharmā*)—he whose nature or act is truth
+- धनानां (*dhanānāṃ*)—made for the gaining of wealth
+- समरे (*samare*)—in battle
+- इंद्रः न (*iṃdraḥ na*)—like Indra
+- तस्थौ (*tasthau*)—stands firm
+
+##### भावार्थ (Bhāvārtha)
+
+This god Savitṛ, the support of wealth and provider of various kinds of wealth, illumines all kinds of things with his radiances. Like the god of dharma, this Savitṛ stands firm like Indra in the battle fought for gaining wealth.
+
+##### English translation
+The root of riches, the aquirer of treasure illumines by his functions all (visible) forms); Savitri, like a god, whose attribute is truth, stands like Indra in the battle for riches.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्वाव॑सुं सोम गंध॒र्वमापो॑ ददृ॒शुषी॒स्तदृ॒तेना॒ व्या॑यन् ।  
+> तद॒न्ववै॒दिंद्रो॑ रारहा॒ण आ॑सां॒ परि॒ सूर्य॑स्य परि॒धीर॑पश्यत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्ववसुं । सोम । गंधर्वं । आपः । ददृशुषीः । तत् । ऋतेन । वि । आयन् ।  
+> तत् । अनुअवैत् । इंद्रः । ररहाणः । आसां । परि । सूर्यस्य । परिधीन् ।  
+> अपश्यत् ॥ ४ ॥
+
+### Printed p. 907
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वया सहितं गंधर्वं गीतरूपां गां शब्दं धारयंतं विश्वावसुमेतत्संज्ञं मां ॥ उत्तरत्र तच्छब्दश्रुतेर्यच्छब्दाध्याहारः ॥ यदापो वसतीवर्याख्या ददृशुषीर्दृष्टवत्यः ॥ दृशेर्लिटः क्वसुः । उगितश्चति जीप् । वसोः
+> संप्रसारणमिति संप्रसारणं । जसि वा छंदसीति पूर्वसवर्णदीर्घः ॥ तत्तदानीम्ृतेन
+> यज्ञेन हेतुना व्यायन् । विविधमगच्छन्यष्टृजनाः । तद्गमनमासामपां
+> ररहाणो गमयितेंद्रोऽन्ववैत् । अस्वबुध्यत । बुद्ध्वा च कुत्र यज्ञः प्रवृत्त
+> इति सूर्यस्य परिधीन्परितो धीयमानानाच्यादिदिग्वभागान्पर्यपश्यत् । परितो
+> दृष्टवान् ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, me, called Viśvāvasu, the Gandharva, the one who bears गां (*gāṃ*) (speech, sound) in the form of song, together with you." A यत् (*yat*) is to be supplied, since तत् (*tat*) follows later: "when the waters called Vasatīvarī saw (ददृशुषीः (*dadṛśuṣīḥ*)) …". Then (तत् (*tat*)), by reason of the ऋत (*ṛta*), the sacrifice, the officiating priests went (व्यायन् (*vyāyan*)) in various directions. Indra, the impeller (ररहाणः (*rarahāṇaḥ*)) of these waters, became aware (अन्ववैत् (*anvavait*)) of their going. Having awakened, and wondering where the sacrifice was proceeding, he looked all around (पर्यपश्यत् (*paryapaśyat*)) at the परिधीन् (*paridhīn*) of the sun, the quarters, east and the rest, that surround it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- गंधर्वं (*gaṃdharvaṃ*)—singing (accompanied by you)
+- विश्वावसुं (*viśvāvasuṃ*)—me, named Viśvāvasu
+- (यत् (*yat*)—when)
+- आपः (*āpaḥ*)—the waters called Vasatīvarī
+- ददृशुषीः (*dadṛśuṣīḥ*)—saw
+- तत् (*tat*)—then
+- ऋतेन (*ṛtena*)—for the sacrifice
+- व्यायन् (*vyāyan*)—various people came there
+- तत् (*tat*)—their coming
+- आसां (*āsāṃ*)—of the waters
+- ररहाणः (*rarahāṇaḥ*)—who sends them forth
+- इंद्रः (*iṃdraḥ*)—Indra
+- अन्ववैत् (*anvavait*)—understood (then, to learn where the sacrifice was proceeding)
+- सूर्यस्य (*sūryasya*)—of the sun
+- परिधीन् (*paridhīn*)—the quarters, east and the rest, around
+- परि (*pari*)—all around
+- अपश्यत् (*apaśyat*)—looked
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of the Gandharva Viśvāvasu.) O god Soma, when the waters Vasatīvarī and the people who had come for the sacrifice saw me, who am with you, Indra, the impeller of the rain-waters, understood that a sacrifice was going on, and, to learn where it was proceeding, searched and looked all around in the quarters, east and the rest, surrounding the sun.
+
+##### English translation
+Beholding Soma, the Gandharva Viswavasu, the waters have come forth by means of the sacrifice; Indra impelling them knew of this (their approach), and looked round the rims of the sun.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्वाव॑सुर॒भि तन्नो॑ गृणातु दि॒व्यो गं॑ध॒र्वो रज॑सो  ॒॑
+> वि॒मानः॑ ।
+
+### Printed p. 908
+
+> यद्वा घा सत्यमुत यन्न विद्म धियो हिन्वानो धिय  
+> इन्नो अव्याः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्ववसुः । अभि । तत् । नः । गृणातु । दिव्यः । गंधर्वः । रजसः । विमानः ।  
+> यत् । वा । घ । सत्यं । उत । यत् । न । विद्म । धियः । हिन्वानः । धियः । इत् ।  
+> नः । अव्याः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वावसुर्गंधर्वो नोऽस्माकं तदभि गृणातु । अभिमुखं ब्रवीतु ॥ ग्य
+> शब्दे । क्रैयादिकः । प्वादित्वाद्रस्वः ॥ कीदृशः । दिव्यो दिवि भवः तथा रजस उदकस्य
+> विमानो निर्माता । किं पुनस्तत् । यद्वा घ यच्च खलु सत्यमवितथं यथार्थफलं कर्मजातं । उतशब्दश्चार्थे । यच्च न विद्मन जानीमः तदुभयं ब्रवीत्वित्यर्थः॥
+> ऋचि तुनुघेत्यादिना घशब्दस्य साहितिको दीर्घः ॥ शिष्टः पादः प्रत्यक्षकृतः । हे
+> विश्वावसो धियः कर्माणि हिन्वानः सोमेन प्रवर्धयन् ॥ हि गतौ वृदौ च ॥
+> यद्वा । धियः स्तुतीर्हिन्वानः प्राप्नुवन्नोऽस्माकं धिय इत्कर्माण्येव बुद्धीरेव
+> नाव्याः । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+May the Gandharva Viśvāvasu declare (अभि गृणातु (*abhi gṛṇātu*)) that to us, speaking toward us. What kind is he? दिव्यः (*divyaḥ*), born in heaven, and the विमानः (*vimānaḥ*), the maker, of रजसः (*rajasaḥ*), water. And what is "that"? Whatever is truly (सत्यं (*satyaṃ*)) the unfailing set of rites yielding their due fruit, and whatever we do not know: let him declare both. Sāyaṇa notes that the particle घ (*gha*) has a lengthening in the saṃhitā. The remaining quarter-verse is evident. O Viśvāvasu, धियः (*dhiyaḥ*), our rites, you who advance (हिन्वानः (*hinvānaḥ*)) them with Soma (the root हि (*hi*) in the sense of going and increase). Or else, you who gain our praises (धियः (*dhiyaḥ*)): protect (अव्याः (*avyāḥ*)) indeed our rites and understandings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वासुः गंधर्वः (*viśvāsuḥ gaṃdharvaḥ*)—the Gandharva Viśvāvasu
+- दिव्यः (*divyaḥ*)—dwelling in heaven (the firmament)
+- रजसः (*rajasaḥ*)—of the water
+- विमानः (*vimānaḥ*)—the maker, and he
+- सत्यं (*satyaṃ*)—certainly
+- यत्वा घ (*yatvā gha*)—what it is
+- उत (*uta*)—and
+- यत् (*yat*)—what
+- न विद्म (*na vidma*)—we cannot know
+- तत् (*tat*)—that
+- नः (*naḥ*)—to us
+- अभिगृणातु (*abhigṛṇātu*)—let him declare toward us (O Viśvāvasu)
+- धियः (*dhiyaḥ*)—praises
+- हिन्वानः (*hinvānaḥ*)—increasing with Soma
+- नः (*naḥ*)—our
+- धिय इत् (*dhiya it*)—sacrificial and other rites
+- अव्याः (*avyāḥ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+Let the Gandharva Viśvāvasu tell us who is the maker of the waters in heaven, that is, in the firmament, and what we do not know. O Viśvāvasu, you who are with Soma, increase our praises and sacrificial rites and protect them.
+
+### Printed p. 909
+
+##### English translation
+May the celestial Gandharva Viswavasu, the measurer of the water, declare to us that which is the truth, and that which we do not know; accepting our praises, (Viswavasu), protect our sacrifices.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सस्नि॑मविंद॒च्चर॑णे न॒दीना॒मपा॑वृणो॒द्दुरो॒ अश्व॑व्रजानां ।  
+> प्रासां॑ गंध॒र्वो अ॒मृता॑नि वोच॒दिंद्रो॒ दक्षं॒ परि॑ जानाद॒हीनां॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सस्निं । अविंदत् । चरणे । नदीनां । अप । अवृणोत् । दुरः । अश्वव्रजानां ।  
+> प्र । आसां । गंधर्वः । अमृतानि । वोचत् । इंद्रः । दक्षं । परि । जानात् ।  
+> अहीनां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सस्निमद्भिः संस्कृतं प्रकर्षेण सर्वस्य जगतः स्थापयितारं मेघं ॥ स्ना
+> शौचे । आद्यगमहन इति किन्नत्ययः । लिड्डद्भावाद्विर्वचनं ॥ नदीनां शब्दकारिणीनामपां चरणे संचरणस्थानेऽंतरिक्षेऽविंदत् । इंद्रोऽलभत । लब्ध्वा चात्मव्रजानां ।
+> अश्मा व्यापो मेघः तत्र व्रजंतीनां । यद्वा । मेघो व्रजो गोष्ठं निवासस्थानं यासां तादृशीनां अपां । दुरो द्वाराणि मेघान्निर्गमनप्रदेशानपावृणोत् । आपावृतवान् । यद्वा । अश्मसु शिलासु व्रजंतीनां गच्छंतीनां व्याप्तगमनानां वा
+> नदीनां गंगायमुनादीनां चरणे संचरणे प्रवहणननिमित्तभूते सति तदर्थमिंद्रः
+> सस्निं मेघमविंदत् । अलभत । लब्ध्वा चात्मर्गतानामपां निर्गमनसाधनानि मेघस्य
+> दुरो द्वाराण्यपावृणोत् । अपावृतवान् । तथासां नदीनाममृतान्यमरणसाधकान्युदकानि गंधर्वो गोर्वज्रस्य धर्ता विश्वाससरूपेण वर्तमान इंद्रः
+> प्र वोचत् । प्रब्रवीति । प्रवोढुमनुजानाति । तथा दक्षं । दक्षत्युदकं प्रयच्छतीति
+
+##### Gist of the bhāṣya
+
+सस्निं (*sasniṃ*) is the cloud, purified by waters, the one who firmly establishes the whole world (root स्ना (*snā*) in the sense of purity). Indra found (अविंदत् (*aviṃdat*)) it in the चरणे (*caraṇe*), the place of movement, the firmament, of the sounding waters, the rivers (नदीनां (*nadīnāṃ*)). Having found it, he opened (अवृणोत् (*avṛṇot*)) the doors (दुरः (*duraḥ*)), the places of exit from the cloud, of the waters that go there: अश्वव्रजानां (*aśvavrajānāṃ*) is explained as "of those that move in the अश्मा (*aśmā*), the cloud", or else "of waters whose व्रज (*vraja*), stall or dwelling, is the cloud". Another explanation: while the rivers such as the Gaṅgā and Yamunā, going over stones (अश्मसु (*aśmasu*)) or moving far-reaching, are in motion for flowing, Indra for that purpose found the cloud and opened the doors of the cloud, the means of exit of the waters in it. Further, Indra, existing in the form of the Gandharva, the bearer of the गो (*go*) and vajra, declares (प्र वोचत् (*pra vocat*)) the immortal waters of these rivers, those that cause deathlessness; he permits them to flow forth. Likewise दक्षं (*dakṣaṃ*) ….
+
 ---
 
-**Progress note:** Done through printed p. 903. pp. 898-903 (batch API)
+**Progress note:** Done through printed p. 909. pp. 904-909 (batch API)
