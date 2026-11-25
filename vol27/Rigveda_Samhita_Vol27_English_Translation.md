@@ -10860,6 +10860,278 @@ Sūkta 6. Maṇḍala 10; Anuvāka 1; Sūkta 6. Aṣṭaka 7; Adhyāya 6; Varga 
 - विभावा (*vibhāvā*)—radiant
 - यः (*yaḥ*)—which same Agni
 
+### Printed p. 283
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषोणां (*ṛṣoṇāṃ*)—of the sun's rays
+- ज्येष्ठेभिः (*jyeṣṭhebhiḥ*)—excellent
+- भानुभिः (*bhānubhiḥ*)—with splendours
+- परिवीतः (*parivītaḥ*)—being surrounded
+- पर्येति (*paryeti*)—moves about everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+This is that Agni by whose protections the worshipper prospers in the sacrificial house at the time of his sacrifice. The radiant and famed Agni, surrounded by the excellent splendours of the sun's rays, moves about everywhere.
+
+##### English translation
+This is that Agni by whose protections the worshipper (diligent) in sacrifice prospers in his dwelling : who radiant, travels everywhere invested with the excellent splendours of his rays.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो भा॒नुभि॑र्वि॒भावा॑ वि॒भात्य॒ग्निर्दे॒वेभि॑र्य॒तावाज॑स्रः ।  
+> आ यो वि॒नाय॑ स॒ख्या सख॒भ्योऽप॑रिह्वतो॒ अत्यो॒ न सप्तिः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । भानुभिः । विभावा । विभाति । अग्निः । देवेभिः । ऋतवा । अजस्रः ॥  
+> आ । यः । विनाय । सख्या । सखभ्यः । अपरिह्वतः । अत्यः । न । सप्तिः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतवा सत्यवानुदकवान्यज्ञवान्वाजस्रोऽनुपक्षीणोऽहिंसितो वा । केनचिदनभिभूत इत्यर्थः । विभावा दीप्तिमान्योग्निर्देवेभिर्देवैर्दॊतमानैर्भानुभिस्तेजोभिर्विभाति विविधं दीप्यते किंच योऽग्निः सख्या सख्यानि सखिभिः कर्तव्यानि
+> कर्माणि हविरादीनि । कर्तुम्मिति शेषः । सखिभ्यः सखिभूतानां यजमानानामर्थायापरिह्वतोऽपरिहिंसितः । अपरिश्रांत इत्यर्थः ! आ निवाय अभिमुख्येन गच्छति ।
+> तत्र दृष्टांतः । सप्तिः । सदासर्पण इत्यर्थः । अत्यो न यथा सततगमनसमर्थोऽश्वोऽपरिश्रांतो गच्छति तद्वत् । सोऽयमग्निरस्माभिर्यागार्थमाहूत इति पूर्ववद्योज्यं ॥
+
+##### Gist of the bhāṣya
+
+ऋतवा (*ṛtavā*) means truthful, possessed of water, or possessed of sacrifice; अजस्रः (*ajasraḥ*) means undiminished or unharmed, that is, overpowered by no one. Agni, the radiant one, shines variously with the brilliant splendours that are the gods'. Further, he comes face to face with the friendly acts, the oblations and the like, that friends are to perform, for the sake of the sacrificers who are his friends, unharmed and untired. The example: like a swift horse, ever running, able to go continually, that goes untired. This Agni has been invoked by us for the sacrifice; it is to be construed as before.
+
+### Printed p. 284
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतवा (*yatavā*)—truthful
+- अजस्रः (*ajasraḥ*)—undecaying
+- विभावा (*vibhāvā*)—radiant
+- यः अग्निः (*yaḥ agniḥ*)—which Agni
+- देवेभिः (*devebhiḥ*)—shining
+- भानुभिः (*bhānubhiḥ*)—with splendours
+- विभाति (*vibhāti*)—shines exceedingly
+- यः (*yaḥ*)—which Agni
+- अपरिह्वतः (*aparihvataḥ*)—without the least sloth
+- सप्तिः (*saptiḥ*)—ever moving
+- अत्यो न (*atyo na*)—like a horse
+- आ विवाय (*ā vivāya*)—comes to the sacrificers
+- सखिभ्यः (*sakhibhyaḥ*)—to his friends, the sacrificers and others
+- सख्या (*sakhyā*)—he comes to accept the oblations and the like of those friends (he comes to favour them)
+
+##### भावार्थ (Bhāvārtha)
+
+The truthful, undecaying, radiant Agni who shines exceedingly with brilliant splendours, and who comes to the sacrificers untiringly like a horse ever moving, comes to his friends, the sacrificers and others, to accept their oblations and to favour them.
+
+##### English translation
+Agni, the observer of truth, the eternal, who shines resplendent with celestial splendours, who comes untiring like a swift horse, (bringing) frendly gifts to his friends.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईशे॒ यो विश्व॑स्या दे॒वपी॑ते॒रीशे॑ वि॒श्वायु॑रु॒षसो॒ व्यु॑ष्टौ ।  
+> आ यस्मि॑न्म॒ना ह॒वींष्य॒ग्नावरि॑ष्टरथः स्क॒भ्नाति॑ शू॒षैः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईशे । यः । विश्वस्याः । देवपीतेः । ईशे । विश्वआयुः । उषसः । विउष्टौ ।  
+> आ । यस्मिन् : मना । हविरिषि । अग्नौ । अरिष्टरथः । स्वभ्नाति । शूष्टैः । ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योग्निर्विश्वस्या देववीतेः सर्वस्य यज्ञस्थेशे ईष्टे । अपि च विश्वायु
+> सर्वत्राप्रतिहतगमन उषसो व्युष्टौ विवासन उदयकाले होमार्थं यजमा-
+
+##### Gist of the bhāṣya
+
+The Agni who rules over all the god-feast (देववीतेः (*devavīteḥ*)) of the sacrifice; moreover, going unimpeded everywhere, at the dawning of the dawn, at the time of rising, he rules over the sacrificers for the sake of the offering.
+
+### Printed p. 285
+
+> नानामीशे ईष्टे । शूषैः शत्रुबलैररिष्टरथोऽहिंसितयज्ञरथः सर्व एव यजमानो यस्मिन्नग्नौ मना मननीयानि हवींष्या स्कभ्नाति आदरेण प्रतिबध्नाति प्रक्षिपति।
+> सोऽयमग्निरस्माभिर्यागार्थमाहूत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+He rules over the sacrificers. Every sacrificer, whose sacrificial chariot is unharmed by the hostile forces, in whatever Agni he lays down, with regard, the oblations worthy of thought (मना मननीयानि (*manā mananīyāni*)), he sets them up, restrains them, casts them in. This Agni has been invoked by us for the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- विश्वस्याः (*viśvasyāḥ*)—of all
+- देववीतेः (*devavīteḥ*)—of the sacrifice too
+- ईशे (*īśe*)—is lord
+- विश्वायुः (*viśvāyuḥ*)—able to move about everywhere
+- उषसः (*uṣasaḥ*)—of the dawn
+- व्युष्पौ (*vyuṣpau*)—at the time of rising
+- ईशे (*īśe*)—is the master
+- यस्मिन् (*yasmin*)—in which
+- अग्नौ (*agnau*)—Agni
+- शून्यै (*śūnyai*)—by hostile forces
+- अरिष्यरथः (*ariṣyarathaḥ*)—the sacrificer whose chariot is unharmed
+- मनाः (*manāḥ*)—meditative
+- हवींषि (*havīṃṣi*)—oblations
+- आ स्सभाति (*ā ssabhāti*)—offers; that Agni we invoke
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is lord of every sacrifice, who, able to move about everywhere, assumes the mastership at the very rising of the dawn, and in whom the sacrificer, whose chariot is unharmed by hostile forces, offers oblations accompanied by meditation, that Agni we invoke.
+
+##### English translation
+Who rules over every oblation to the gods. who all- pervading rules at the opening of the dawn, and in whom (the sacrificer), whose sacrifice is undisturbed by his foes, throws his choice oblations,—
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शू॒षेभि॑र्वृ॒धो जु॑षा॒णो अ॒र्कैर्दे॒वा अच्छ॑ रघु॒पत्वा॑  
+> जिगाति ।  
+> मं॒द्रो होता॒ स जु॒ह्वा॒३॒॑ ३ यजि॑ष्ठः॒ संमि॑श्लो अ॒ग्निरा ॑ ॒
+> जिघर्ति देवान् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शूषेभिः । वृधः । जुषाणः । अर्कैः । देवान् । अच्छ । रघुपत्वा । जिगाति ।  
+> मंद्रः । होता । सः । जुह्वा । यजिष्ठः । संमिश्लो । अग्निः आ । जिघर्ति । देवान् ॥
+
+### Printed p. 286
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृधो वर्धितोऽग्निः शूषेभिर्हविलक्षणैर्बलैः । बलनिमित्तैर्हविर्भिरित्यर्थः ।
+> अर्कैः स्तोत्रैश्च जुषाणः सेव्यमानः सन् देवानिंद्रादीनच्छापुं रघुपत्वा
+> लघुपतनः शीघ्रगामि जिगाति । गच्छति । गत्वा च मंद्रः स्तुत्यो होता
+> देवानामाह्वाता होमनिष्पादको ना यजिष्टो यष्टृतमः संमिश्लः स्वगुणैर्देवैर्ना संप्रयुक्तः सोऽग्निर्देवान्प्रति हविरा जिघर्ति । आहारयति । देवेभ्यो
+> हविर्ददातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Agni, strengthened by the powers (शूषेभिः (*śūṣebhiḥ*)) that have the nature of oblations, that is, by oblations that cause strength, and served by hymns (अर्कैः (*arkaiḥ*)), goes (जिगाति (*jigāti*)) swift-falling and swift-going towards the gods, Indra and the rest. Having gone, he, the praiseworthy invoker of the gods, the accomplisher of the offering, the most worthy of sacrifice, joined with the gods by his own qualities, brings the oblation (जिघर्ति (*jigharti*)) to the gods; that is, he gives the oblation to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृधः (*vṛdhaḥ*)—the nourished Agni
+- शूषेभिः (*śūṣebhiḥ*)—by strength-giving oblations
+- अर्कैः (*arkaiḥ*)—and by hymns
+- जुषाणः (*juṣāṇaḥ*)—being served
+- देवान् (*devān*)—the gods, Indra and others
+- अच्छ (*accha*)—to go and join
+- रघुपत्वा (*raghupatvā*)—swift-going
+- जिगाति (*jigāti*)—goes
+- मंद्रः (*maṃdraḥ*)—worthy of praise
+- होता (*hotā*)—in the form of the Hotṛ
+- यजिष्ठः (*yajiṣṭhaḥ*)—most worshipful
+- संमिश्लः (*saṃmiślaḥ*)—joined with the hosts of gods
+- सः अग्निः (*saḥ agniḥ*)—that same Agni
+- देवान् (*devān*)—to the gods
+- जुह्वा (*juhvā*)—through his flame
+- आ जिघर्ति (*ā jigharti*)—offers oblations and the like
+
+##### भावार्थ (Bhāvārtha)
+
+The nourished Agni, served by strength-giving oblations and hymns, goes swiftly to join Indra and the other gods. That same Agni, worthy of praise, in the form of the Hotṛ, most worshipful, joined with divine qualities, offers oblations and the like to the gods with his vessel of flame.
+
+##### English translation
+Magnified by our oblations, propitiated by our praises, swift-moving, he proceeds to the persence of the gods ; the aborable invoker of the deites, most entitled to worship, associated (with the gods), Agni presents to them (the oblation) with the sacrificial ladle.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॒स्रामिंद्रं॒ न रेज॑मानम॒ग्निं गी॒र्भिर्नमो॑भि॒ राकृ॑णुद्ध्वं
+
+### Printed p. 287
+
+> आ यं विप्रासो मतिभिगृणंति जातवेदसं जुह्वं  
+> सहानां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । उस्रां । इंद्रं । न । रेजमानं । अग्निं । गीःभिः । नमःभिः । आ । कृणुध्वं ।  
+> आ । यं । विप्रासः । मतिभिः । गृणंति । जातवेदसं । जुह्वं । सहानां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः यूयमुस्रां भोगानामुत्साविणं दातारं रेजमानं
+> ज्वालात्मना कंपमानं तमग्निमिंद्रं नेंद्रमिव गीर्भिः स्तुतिभिर्नमोभिर्हविर्भिश्चा
+> कुणुद्वं अस्मदभिमुखं कुरुत । विप्रासो मेधाविनः स्तोतारः सहानां शत्रुबलाद्यभिभवितृणां देवानां जुह्वमाह्वातारं जातवेदसं जातधनं जातप्रज्ञं वा
+> यमग्निमा गृणंति आदरेण स्तुवंति । तमा कृणुद्वमिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O priests, make that Agni face us with praises (गीर्भिः (*gīrbhiḥ*)) and with oblations, as one would Indra: Agni is उस्रां (*usrāṃ*), the fountain and giver of enjoyments, and रेजमानं (*rejamānaṃ*), trembling in the form of flame. The wise singers (विप्रासः (*viprāsaḥ*)) praise with reverence that Agni, the invoker (जुह्वं (*juhvaṃ*)) of the gods, the overpowerers of the forces of enemies and the like, जातवेदसं (*jātavedasaṃ*), that is, possessed of wealth or of knowledge. The connection is with the earlier "make him face us".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) विप्रासः (*viprāsaḥ*)—wise praisers
+- सहानां (*sahānāṃ*)—to the mighty gods
+- जुह्वं (*juhvaṃ*)—the one who gives the invitation
+- जातवेदसं (*jātavedasaṃ*)—in the form of Jātavedas
+- यं (*yaṃ*)—which Agni
+- मतिभिः (*matibhiḥ*)—with hymns
+- आ गृणंति (*ā gṛṇaṃti*)—praise with reverence, such
+- उस्रां (*usrāṃ*)—the giver of enjoyments
+- रेजमानं (*rejamānaṃ*)—trembling with flame
+- तं अग्निं (*taṃ agniṃ*)—that Agni
+- इंद्रं न (*iṃdraṃ na*)—as one calls Indra
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- नमोभिः (*namobhiḥ*)—with oblations
+- आ कृणुध्वं (*ā kṛṇudhvaṃ*)—make him face us
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, that Agni whom the wise praisers praise reverently with hymns, who gives the invitation to the mighty gods and is in the form of Jātavedas, the giver of enjoyments, trembling with flame: make him face us with praises and oblations, as one brings Indra to the sacrifice.
+
+##### English translation
+Bring before us with praises, and with adorations, the brilliant Agni, the bestower of enjoyments, as if he were Indra, him, whom wise wor-
+
+### Printed p. 288
+shippers praise with hymns as Jatavedas, the sacrificer to the victorious Gods.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं यस्मि॒न्विश्वा॒ वसू॑नि ज॒ग्मुर्वाजे॒ नाश्वाः॒ सप्ती॑वंत॒ एवैः॑ ।  
+> अ॒स्मे ऊ॒तीरिंद्र॑वाततमा अर्वाची॒न अ॑ग्न॒ आ कृ॑णुष्व ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । यस्मिन् । विश्वा । वसूनि । जग्मुः । वाजे । न । अश्वाः । सप्तिवंतः । एवैः ।  
+> अस्मे । इति । ऊतीः । इंद्रवाततमाः । अर्वाचीनाः । अग्ने । आ । कृणुस्व ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यस्मिंस्त्वयि विश्वानि वसूनि धनानि सं जग्मुः स्वत्वेन संगतानि
+> भवंति । तत्र दृष्टांतः । एवैर्गमनैः सप्तीवंतः सर्पणवंतः शीघ्रगमनसमर्था
+> अश्वा वाजे न यथा संग्रामे संगतास्तद्वत् । हे अग्ने स त्वमिंद्रवाततमा
+> इंद्रेणाभिगता ऊती रक्षा अस्मे अस्त्रास्वर्वाचीना अभिमुखीरा कृणुष्ट । आदरेण
+> कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Agni, in you all wealths come together (सं जग्मुः (*saṃ jagmuḥ*)), becoming united as one's own. The example: as horses (अश्वा (*aśvā*)) swift in their going, running with their gaits (एवैः (*evaiḥ*)), gather together in battle. O Agni, you, make the protections (ऊतीः (*ūtīḥ*)), those approached by Indra, face us; do it with care.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एवैः (*evaiḥ*)—by their swift movements
+- सप्तीवंतः (*saptīvaṃtaḥ*)—swift-going
+- अश्वाः (*aśvāḥ*)—horses
+- वाजे न (*vāje na*)—as they go and join in battle
+- यस्मिन् (*yasmin*)—in which you
+- विश्वावसूनि (*viśvāvasūni*)—all wealths
+- सं जग्मुः (*saṃ jagmuḥ*)—are gathered together, such you
+- इंद्रवाततमाः (*iṃdravātatamāḥ*)—more than Indra
+- ऊतीः (*ūtīḥ*)—protections
+- अस्मे (*asme*)—to us
+- अर्वाचीनाः (*arvācīnāḥ*)—facing us
+- अ कृणुस्व (*a kṛṇusva*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as swift horses go and gather in battle by their rapid movements, so in you all wealths are gathered together; such as you are, give us protections, more than Indra does.
+
 ---
 
-**Progress note:** Done through printed p. 282. pp. 276-282 (batch API)
+**Progress note:** Done through printed p. 288. pp. 283-288 (batch API)
