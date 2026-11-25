@@ -21675,6 +21675,161 @@ Men worshipped you, Agni, at the opening of the present dawn, appointing you the
 > वेधसः ।  
 > 42
 
+### Printed p. 658
+
+> रायस्पोषं यजमानेषु धारय यूयं पात स्वस्तिभिः
+> सदा नः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । त्वा । वसिष्ठाः । अह्वंत । वाजिनं । गृणंतः । अग्ने । विदथेषु । वेधसः ।  
+> रायः । पोषं । यजमानेषु । धारय । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विदथेषु । विदंत्यस्मिन्यष्टव्यान्नेवानिति विदथो यज्ञः । तेषु वेधसः
+> कर्मणां विधातारो गृणंतः स्तुवंतो वसिष्ठा वसिष्ठपुत्रा ऋषयो वाजनमन्नवंतं बलवंतं ना त्वां न्यह्वंत । नितरामाह्वयन् । अस्ताविषुर्वा ॥ ह्वेञो
+> लुजि निसमुपनिभ्यो ह्व इत्यात्मनेपदं । आत्मनेपदेष्वन्यतरस्यां । पा. ३-१-५४ । इति
+> चेरजादेशः । वसिष्ठशब्दाद्विहितस्यापत्यार्थप्रत्ययस्यात्रिभृगुकुत्सेत्यादिना बहुशु
+> लुक् ॥ स त्वं यजमानेष्वस्मासु रायो धनस्य पोषं पुष्टं धारय । अवस्थापय ॥
+> ऊडिदमित्यादिना रैशब्दात्पष्या उदात्तत्वं । षष्ठ्याः पतिपुत्रेति विसर्जनीयस्य सत्वं
+> गतमन्यत् । एकस्मिन्नप्यग्नौ पूजार्थं बहुवचनं ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, at the विदथेषु (*vidatheṣu*)": a विदथ (*vidatha*) is a sacrifice, since in it one finds the gods who are to be worshipped. At these, the sons of Vasiṣṭha, the seers, who ordain the rites and sing praise, invoked you, who are वाजिनं (*vājinaṃ*), that is, possessed of food and strength; न्यह्वंत (*nyahvaṃta*) means they called you down intensely, or they praised you. You, in us the sacrificers, establish रायः पोषं (*rāyaḥ poṣaṃ*), the nourishment, the increase, of wealth. The plural in "you protect" is for honour, although Agni is only one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विदथेषु (*vidatheṣu*)—at the sacrifices
+- वेधसः (*vedhasaḥ*)—engaged in rites
+- गृणंतः (*gṛṇaṃtaḥ*)—praising
+- वसिष्ठाः (*vasiṣṭhāḥ*)—the seers, sons of Vasiṣṭha
+- वाजिनं (*vājinaṃ*)—you, who possess food or strength
+- नि अह्वंत (*ni ahvaṃta*)—call you down specially
+- (त्वं (*tvaṃ*)—you)
+- यजमानेषु (*yajamāneṣu*)—among us who perform the sacrifice
+- रायः (*rāyaḥ*)—of wealth
+- पोषं (*poṣaṃ*)—the nourishment, that is, the increase
+- धारय (*dhāraya*)—establish (O gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sons of Vasiṣṭha, who are engaged in rites and are praising you, specially entreat and praise you, who possess food. Establish abundance of wealth among the sacrificers, or bestow wealth and nourishment on the sacrificers. O gods, protect us always with blessings.
+
+### Printed p. 659
+
+##### English translation
+The pious Vasishthas invoked you, Agni, at the sacrificial meetings, praising you, the mighty one; continue the sustenance of riches amongst the institutors of the rite, and do you (gods) ever cherish us with blessings.
+
+## Sūkta 123 (Maṇḍala 10)
+**Introduction.** The seer and the deity of this sūkta are said to be Vena. There are differing opinions about who this Vena is. Yāska says: वेनो वेनतेः कांतिकर्मणः (*veno venateḥ kāṃtikarmaṇaḥ*) (Ni. 10-38). The word Vena is formed from the root वेनति (*venati*), meaning "to wish, to desire". He has explained the sense that this deity is a deity of the middle region who illumines all the worlds, and since he benefits all, everyone desires him.
+
+In Ṛgveda Saṃhitā 1-83-5 it is said:
+यज्ञैरथर्वा प्रथमः पथस्तते ततः सूर्यो व्रतसा वेन आजनि । आ गा आजदुशना काव्यः सचा यमस्य जातममृतं यजामहे ॥ (*yajñairatharvā prathamaḥ pathastate tataḥ sūryo vratasā vena ājani | ā gā ājaduśanā kāvyaḥ sacā yamasya jātamamṛtaṃ yajāmahe ‖*)
+For the word वेनः (*venaḥ*) in this Ṛk Sāyaṇa explains: वेनः कांतः सूर्यः सूर्यरूप इंद्र: (*venaḥ kāṃtaḥ sūryaḥ sūryarūpa iṃdra:*)—the shining sun, or Indra in the form of the sun. Moreover, this Ṛk also mentions the sage Bhṛgu, the father of the seer of this sūkta. Therefore the word Vena has the sense "lovely, shining, desired by all". Who is the deity endowed with this quality? Ordinarily one would have to say the Sun. In his bhāṣya on the present Ṛk Sāyaṇa explains: वेनः कांत एतत्संज्ञो मध्यमस्थानो देवः (*venaḥ kāṃta etatsaṃjño madhyamasthāno devaḥ*)—a shining deity of the middle (atmospheric) region named Vena. The qualities mentioned above, being shining and desired by all, apply also to many other deities, and chiefly to the Supreme Brahman,
+
+### Printed p. 660
+so one may say that Vena means Brahman. Since in the present sūkta this deity is praised as a deity of the middle region and as the cause of rain and the like, he may also be the deity Indra or Parjanya. In the Taittirīyopaniṣad of the Yajurveda:
+वेनस्तत्पश्यन्विश्वा भुवनानि विद्वान्यत्र विश्वं भवत्येकनीळं । यस्मिन्निदग्ं सं च वि चैकग्ं स ओतः प्रोतश्च विभु प्रजासु ॥ प्र तद्वोचे अमृतं नु विद्वान्गंधर्वो नाम निहितं गुहासु । त्रीणि पदा निहिता गुहासु यस्तद्वेद सवितुः पिता सत् ॥ (*venastatpaśyanviśvā bhuvanāni vidvānyatra viśvaṃ bhavatyekanīḷaṃ | yasminnidagṃ saṃ ca vi caikagṃ sa otaḥ protaśca vibhu prajāsu ‖ pra tadvoce amṛtaṃ nu vidvāngaṃdharvo nāma nihitaṃ guhāsu | trīṇi padā nihitā guhāsu yastadveda savituḥ pitā sat ‖*) (Tai. U. 4-1)
+For the word वेनः (*venaḥ*) in these mantras Sāyaṇa explains: वेनो नाम गंधर्वः (*veno nāma gaṃdharvaḥ*)—a Gandharva named Vena. But for the word गंधर्व (*gaṃdharva*) in the 4th Ṛk of this sūkta Sāyaṇa explains: गवामुदकानां धर्ता (*gavāmudakānāṃ dhartā*)—one who holds and cherishes the waters. And in Ṛ. Saṃ. 1 139-10; 8-3-18; 8-63-1 and the like, the word Vena is used only in the general sense of "desired by all" or "radiant". This is the only sūkta in the Ṛgveda that praises this deity; there is no other.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वेन इत्यष्टर्चमेकादशं सूक्तं भार्गवस्य वेनस्यार्षं त्रैष्टुभं ।
+> वेनो देवता । तथा चानुक्रांतं । अयं वेनो वैन्यमिति ॥ प्रवर्ग्येऽभिप्तव
+> आद्यानुवक्तव्या । सूत्रितं । स्रक्वे द्रप्सस्यायं वेनश्चोदयत्पृश्निगर्भाः । आ. ४-६ ।
+> इति ॥ वैश्वदेवशस्त्रेऽप्येषा धाय्या! सूत्रितं च । तक्षन्रथमयं वेनश्चोदयत्पृश्निगर्भाः । आ- ५-१८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अयं वेन (*ayaṃ vena*) has eight Ṛks and is the eleventh sūkta. Its seer is Vena of the Bhṛgu line, its metre is Triṣṭubh, and its deity is Vena. So the Anukramaṇī: अयं वेनो वैन्यमिति (*ayaṃ veno vainyamiti*). In the Pravargya, at the Abhiplava, the first Ṛk is to be recited afterwards; it is stated in the sūtra: स्रक्वे द्रप्सस्यायं वेनश्चोदयत्पृश्निगर्भाः । आ. ४-६ । (*srakve drapsasyāyaṃ venaścodayatpṛśnigarbhāḥ | ā. 4-6 |*) This Ṛk is also the Dhāyyā in the Vaiśvadeva śastra, and it is stated: तक्षन्रथमयं वेनश्चोदयत्पृश्निगर्भाः । आ- ५-१८ । (*takṣanrathamayaṃ venaścodayatpṛśnigarbhāḥ | ā- 5-18 |*)
+
+**Anuvāda.** This sūkta अयं वेनः (*ayaṃ venaḥ*) is the eleventh sūkta in the tenth anuvāka. It has eight Ṛks. Its seer is Vena of the Bhṛgu gotra; its deity is the deity of the middle region called Vena; its metre is Triṣṭubh. In the Anukramaṇī it is stated: अयं वेनो वैन्यं (*ayaṃ veno vainyaṃ*). That the first Ṛk of this sūkta is to be recited in the Pravargya is set out by the Āśvalāyana Śrauta Sūtra स्रक्वे द्रप्पस्यायं वेनश्चोदयत्पृश्निगर्भाः (*srakve drappasyāyaṃ venaścodayatpṛśnigarbhāḥ*) (Ā. 4-6). That the first Ṛk of this sūkta is to be recited as a Dhāyyā mantra among the mantras of the Vaiśvadeva śastra is set out by the Āśvalāyana Śrauta Sūtra तक्षन्रथमयं वेनश्चोदयत्पृश्निगर्भाः (*takṣanrathamayaṃ venaścodayatpṛśnigarbhāḥ*) (Ā. 5-18).
+
+### Printed p. 661
+Sūkta 123
+Maṇḍala 10; Anuvāka 10; Sūkta 123; Aṣṭaka 8; Adhyāya 7; Vargas 7, 8. Number of Ṛks in the sūkta: 8. Seer: Vena. Deity: Vena. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वे॒नश्चो॑दय॒त्पृश्नि॑गर्भा॒ ज्योति॑र्जरायू॒ रज॑सो  ॒॑
+> विमाने ।  
+> इ॒मम॒पां सं॑ग॒मे सूर्य॑स्य॒ शिशुं॒ न विप्रा॑ म॒तिभी॑ रिहंति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । वेनः । चोदयत् । पृश्निगर्भाः । ज्योतिर्जरायुः । रजसः । विमाने ॥  
+> इमं । अपां । सॆरगमे । सूर्यस्य । शिशुं । न । विप्राः । मतिभीः । रिहंति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वेनः कांत एतत्संज्ञो मध्यस्थानो देवो ज्योतिर्जरायुः । ज्योतिर्द्योतमानो मेघो जरायुः । उदरे गर्भो येन वेष्टितोऽवतिष्ठते तज्जरायु । तदिव वेष्टको यस्य स तथोक्तः । मेघमध्यॆ गर्भवदवस्थित इत्यर्थः ।
+> विमाने । विमायंते निर्मियंतेऽस्मिन्नाप इति विमानमंतरिक्षं । रजस उदकस्य
+> निर्मातर्यंतरिक्षे स्थितः सन्नयं वेनः पृश्निगर्भाः । पृश्निरादित्यः तस्य गर्भभूताः ।
+> यद्वा पृश्नयः सप्तोज्वलवर्णाः सूर्यरश्मयः । तेषां गर्भभूताः अंतरिक्षस्था
+> अपश्चोदयत् । पृथिवीं प्रति प्रेरयति । अपामुदकानामांतरिक्षाणां सूर्यस्य च
+> संगमे संगमने०तरिक्षे स्थितमिमं वेनं विप्रा मेधाविनः स्तोतारो मतिभिः
+> स्तुतिभी रिहंति । रिहतिरर्चतिकर्मा । अर्चंति । पूजयंति ! स्तुवंतीत्यर्थः । शिशुं न ।
+> यथा बालं पुत्रं मातापित्राद्या बांधवाः स्तुतिपदैरुपलालयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+वेनः (*venaḥ*) is the lovely deity of that name, of the middle region. He is ज्योतिर्जरायुः (*jyotirjarāyuḥ*): ज्योतिः (*jyotiḥ*) is the shining cloud; जरायु (*jarāyu*) is that by which the embryo in the womb is enveloped and stays; one who has such an envelope is so called, that is, he stays in the midst of the cloud like an embryo. विमाने (*vimāne*): विमान (*vimāna*) is the atmosphere, since in it the waters are measured out, created. Standing in the atmosphere, the maker of रजसः (*rajasaḥ*) (water), this Vena is पृश्निगर्भाः (*pṛśnigarbhāḥ*): पृश्नि (*pṛśni*) is Āditya, and those that are his embryos. Or else पृश्नयः (*pṛśnayaḥ*) are the seven brightly coloured rays of the sun, and the waters in the atmosphere that are their embryos he चोदयत् (*codayat*) impels, sends towards the earth. At the संगमे (*saṃgame*), the meeting, of the waters of the atmosphere and the sun, in the atmosphere, the विप्राः (*viprāḥ*), the wise praisers, रिहंति (*rihaṃti*) this Vena with मतिभिः (*matibhiḥ*), praises; रिहति (*rihati*) is a verb of worship: they worship, they praise. शिशुं न (*śiśuṃ na*): as a mother, father and other kinsmen fondle a little child with words of praise, so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ज्योतिर्जरायुः (*jyotirjarāyuḥ*)—hidden like an embryo in the midst of shining clouds
+- अयं वेनः (*ayaṃ venaḥ*)—this deity named Vena
+- रजसः विमाने (*rajasaḥ vimāne*)—
+### Printed p. 662
+being in the atmosphere, the place where waters are created
+- पृश्निगर्भाः (*pṛśnigarbhāḥ*)—the waters of the atmosphere, that are embryos of the sun's rays
+- चोदयत् (*codayat*)—impels to fall on the earth in the form of rain
+- अपां (*apāṃ*)—of the waters, and
+- सूर्यस्य (*sūryasya*)—of the sun
+- संगमे (*saṃgame*)—in the atmosphere, the meeting place (where he is)
+- इमं (*imaṃ*)—this deity Vena
+- विप्राः (*viprāḥ*)—wise praisers
+- शिशुं न (*śiśuṃ na*)—as parents fondle a small child
+- मतिभिः (*matibhiḥ*)—with praises
+- रिहंति (*rihaṃti*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+This deity named Vena, hidden shining in the midst of the cloud, stays in the atmosphere and impels the waters there (those that are embryos of the sun's rays, that is, in the midst of the cloud) to fall on the earth in the form of rain. The wise praisers worship this deity, who is in the atmosphere between the waters and the sun, with their praises, as parents tenderly fondle their child.
+
+##### English translation
+This Vena, enfolded in the membrance of light, urges on (the waters) the germs of the sun in the firmament of the water; the sages cherish him at the confluence of the waters, and the sun with endearments like a child.
+
+##### विशेषविषयगळु (Special Topics)
+
+ज्योतिर्जरायुः (*jyotirjarāyuḥ*)—The shining cloud is the जरायु (*jarāyu*), that is, उदरे गर्भो येन वेष्टितोऽवतिष्ठते तज्ञरायु (*udare garbho yena veṣṭito 'vatiṣṭhate tajñarāyu*). That which holds in its belly some object like an embryo, that is, as something inside, is called जरायु (*jarāyu*). Here, because the cloud holds water in its midst (in its belly) as in a womb, this cloud is called जरायु (*jarāyu*). In the present context, for the word ज्योतिर्जरायुः (*jyotirjarāyuḥ*) the meaning is: as the water lies as an embryo in the midst of the cloud, so this shining deity Vena is in the midst of the cloud.
+
+विमाने (*vimāne*)—विमायंते निर्मायंते अस्मिन्नाप इति विमानमंतरिक्षं (*vimāyaṃte nirmāyaṃte asminnāpa iti vimānamaṃtarikṣaṃ*). With the help of the sun's rays, the water of the sea and other reservoirs is drawn up in the form of vapour, and there, in the atmosphere, that vapour is transformed (created) into clouds filled with water; hence the atmosphere is called विमान (*vimāna*).
+
+पृश्निगर्भाः (*pṛśnigarbhāḥ*)—पृश्निरादित्यः तस्य गर्भभूताः (*pṛśnirādityaḥ tasya garbhabhūtāḥ*). पृश्नि (*pṛśni*) means Āditya (?). It is said that the waters that are his embryos, that is, produced by his action, are the embryos of Pṛśni or Āditya. Or else, *pṛśnayaḥ saptojjvalavarṇāḥ sūryaraśmayaḥ teṣāṃ garbhabhūta
+
+### Printed p. 663
+aṃtarikṣasthā apaḥ*. The sun's rays of various kinds, that is, of seven kinds, are spread in the atmosphere. The waters that are in the midst of them in the form of cloud are called पृश्निगर्भाः (*pṛśnigarbhāḥ*).
+
+शिशुं न विप्रा मतिभिः रिहंति (*śiśuṃ na viprā matibhiḥ rihaṃti*)—Two kinds of meaning can be given for the word रिहंति (*rihaṃti*). Since the use of the letter r in place of l is a special feature of the Ṛgveda (as the word अरंकृतः (*araṃkṛtaḥ*) stands for आलंकृतः (*ālaṃkṛtaḥ*)), रिहंति (*rihaṃti*) here means लिहंति (*lihaṃti*). According to the sense of the root लिह—आस्वादने (*liha—āsvādane*), लिहंति (*lihaṃti*) means "they lick, they caress". As mothers and fathers or kinsmen fondle and cherish their child with love and trust, so the wise praisers worship this Vena with the utmost regard. Or, according to the Nirukta statement रिहतिरर्चतिकर्मा (*rihatirarcatikarmā*), the meaning "they worship" can be given.
+
+Yāska has given the Nirukta on this Ṛk:
+अयं वेनश्चोदयत्पृश्निगर्भा प्राष्टवर्णगर्भा आप इति वा ज्योतिर्वरायुर्ज्योतिरस्य जरायुस्थानीयं भवति । जरायुर्जरया गर्भस्य जरया यूयत इति वेममपां च संगमने सूर्यस्य च शिशुमिव विप्रा मतिभी रिहंति लिहंति स्तुवंति वर्धयंति पूजयंतीति वा ॥ शिशुः शंसनीयो भवति। शिशीतेर्वा स्याद्दानकर्मणः । चिरलब्धो गर्भो भवति ॥ (*ayaṃ venaścodayatpṛśnigarbhā prāṣṭavarṇagarbhā āpa iti vā jyotirvarāyurjyotirasya jarāyusthānīyaṃ bhavati | jarāyurjarayā garbhasya jarayā yūyata iti vemamapāṃ ca saṃgamane sūryasya ca śiśumiva viprā matibhī rihaṃti lihaṃti stuvaṃti vardhayaṃti pūjayaṃtīti vā ‖ śiśuḥ śaṃsanīyo bhavati| śiśītervā syāddānakarmaṇaḥ | ciralabdho garbho bhavati ‖*) (Ni. 10—39)
+
+अयं वेनश्चोदयत् पृश्निगर्भाः प्रास्टवर्णगर्भा आप इति वा (*ayaṃ venaścodayat pṛśnigarbhāḥ prāsṭavarṇagarbhā āpa iti vā*)—पृश्नि (*pṛśni*) means Āditya. The meaning of the word पृश्निगर्भाः (*pṛśnigarbhāḥ*) is: waters drawn up (आष्टः (*āṣṭaḥ*), obtained) by the excellent colour or rays of this sun. रश्म्यंतर्गताः परिपक्वाः आपो मासाष्टकेन संभृताः ताः वेनश्चोदयति प्रावृषि वर्षभावेन प्रेरयति (*raśmyaṃtargatāḥ paripakvāḥ āpo māsāṣṭakena saṃbhṛtāḥ tāḥ venaścodayati prāvṛṣi varṣabhāvena prerayati*)—The waters of reservoirs and the like, drawn up by the sun's rays, are carried to the atmosphere in the form of vapour; there, for eight months, they ripen, that is, are transformed into the form of cloud; and Vena impels those waters in the rainy season to fall on the earth as rain. This is the purport of the sentence.
+
+ज्योतिर्जरायुज्योतिरस्य जरायुस्थानीयं भवति । जरायुर्जरया गर्भस्य जरया यूयते इति वा (*jyotirjarāyujyotirasya jarāyusthānīyaṃ bhavati | jarāyurjarayā garbhasya jarayā yūyate iti vā*)—ज्योतिः (*jyotiḥ*) means the light called lightning (the flash). Vena is one who holds such light in the form of an embryo. What is a जरायु (*jarāyu*) here? जरया गर्भस्य (*jarayā garbhasya*)—that which, while the embryo is at first small, grows gradually, they call जरायु (*jarāyu*). Or else: प्रसूताया गोः स्त्रिया ना पश्चात् पतति सा जरॆत्युच्यते । तया च यायते मिश्रते तज्जराय्वित्युच्यते (*prasūtāyā goḥ striyā nā paścāt patati sā jarètyucyate | tayā ca yāyate miśrate tajjarāyvityucyate*)—what falls afterwards from the belly of a cow or a woman at the time of delivery is called जरा (*jarā*), that is, the afterbirth. The thing (the creature) that is joined with that afterbirth **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 657. pp. 652-657 (batch API)
+**Progress note:** Done through printed p. 663. pp. 658-663 (batch API)
