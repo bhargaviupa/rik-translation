@@ -5478,6 +5478,315 @@ O Vasus, gods, in me, the one who presses Soma (सोतरि (*sotari*)), let
 
 O gods, givers of dwelling, when I press Soma, let the crushing stone rise upward. Destroy our enemies who lie hidden in secret. The famous god Savitṛ is both our protector and worthy of worship. We respectfully pray to and invoke Aditi, who is the all-embracing one.
 
+### Printed p. 146
+
+##### English translation
+May the stone be uplifted, gods, when I make the libation ; disperse all my secret adversaries; the god Savitri is our adorable protector. We long for the universal Aditi.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उर्जं गावो यवसे पीवो अत्तन ऋतस्य याः सदने  
+> कोशे अंगै ॥  
+> त॒नूरे॒व त॒न्नो॑ अस्तु भेष॒जमा स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जं । गावः । यवसे । पीवः । अत्तन । ऋतस्य । याः । सदने । कोशे । अंगै ।  
+> तनूः । एव । तन्नः । अस्तु । भेषजं । आ । सर्वतातिं । अदितिं । वृणीमहे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गाव आशिरार्थाः यूयं यवसे तृणवति देशे पीवः प्रवृद्धमूर्जं
+> रसमत्तन । अत्त । या ऋतस्य यज्ञस्य सदने गृहे कोशे गोष्ठे दोहनस्थानेऽज्ध्वे व्यंजयथ ता अत्तन । तनूरेव ! जन्वे जनकशब्दः । तनूरेव क्षीरमेव
+> तन्नः सोमरसस्य भेषजमस्तु । यद्वा । पृथगेव वाक्यं । अस्माकं तन्नो भेषजमस्तु । किंच तनूरेव पशुशरीरमेव । पशुना यागे सति स्वर्गस्य संपादयितुं
+> शक्यत्वात् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the cows (हे गाव (*he gāva*)): "You, in a grassy place, eat the abundant, swollen sap (ऊर्जं (*ūrjaṃ*))." Those cows which are adorned in the house of the ṛta, that is, of the sacrifice, in the cowshed, the milking place, are to eat it. Then comes तनूरेव (*tanūreva*), with a remark on a word meaning "begetter" (जन्वे जनकशब्दः (*janve janakaśabdaḥ*)) **NOTE**. "Their body itself, that is, the milk, shall be a remedy for our Soma-juice." Or else it is a separate sentence: "May it be a remedy for us." And further, "the body" is the animal's body itself, because when an animal is offered in the sacrifice heaven can be secured.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—O cows
+- याः (*yāḥ*)—you who
+- ऋतस्य सदने (*ṛtasya sadane*)—which is a part of the sacrificial house
+- कोशे (*kośe*)—in the cowshed
+- अज्‌ध्वै (*ajdhvai*)—are adorned with unguents and the like; you such as these
+- यवसे (*yavase*)—in a place where there is grass
+- पीवः (*pīvaḥ*)—abundant
+- ऊर्जं (*ūrjaṃ*)—the sap (water)
+- अत्तन (*attana*)—drink
+- तनूः एव (*tanūḥ eva*)—the milk itself produced from your body
+
+### Printed p. 147
+- तन्नः (*tannaḥ*)—for the Soma-juice (or for our body)
+- भेषजं (*bheṣajaṃ*)—as a medicine
+- अस्तु (*astu*)—let it be
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O cows, standing adorned with unguents and the like in the cowshed that is part of the sacrificial house, drink the abundant water in the place where there is grass. May the milk produced from your body be a medicine for our body. We invoke with respect and prayer the universal Aditi.
+
+##### English translation
+Eat abundant fodder in the pasture. O cows, who are anointed in the hall of sacrifice in the cow stall; may (your) body be the remedy for (our) body. We long for the universal Aditi.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्र॒तु॒प्रावा॑ जरि॒ता शश्व॑ता॒मव॒ इंद्र॒ इद्भ॒द्रा प्रम॑तिः सु॒तान॑तां।  
+> पू॒र्णमूध॑र्दि॒व्यं यस्य॑ सि॒क्तय॒ आ स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रतुऽप्रावा । जरिता । शश्वतां । अवः । इंद्रः । इत् । भद्रा । प्रमतिः । सुतvवतां ।  
+> पूर्णं । ऊधः । दिव्यं । यस्य । सिक्तये । आ । सर्वऽतातिं । अदितिं । वृणीमहे॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्रतुप्रावा कर्मणां पूरकः ॥ प्रा पूरणे । आतो मनिन्नित्यादिना वनिप् ॥
+> जरिता स्तोता । यजमानं साधु सोमः कृत इति स्तौति । यद्वा शश्वतां सर्वॆषां
+> जरियितेंद्र इदिंद्र एव सुतावतां सोमवतां यजमानानामवो रक्षको भद्रा
+> भद्रया स्तुत्या प्रमतिः । यस्येंद्रस्य सिक्तये सेकाय पानायोधरुद्धततरं
+> द्रोणकलशं पूर्णं सोमेन पूर्णं भवति स एवावः स एव प्रमतिरिति ॥
+
+##### Gist of the bhāṣya
+
+क्रतुप्रावा (*kratuprāvā*) means the fulfiller of rites. जरिता (*jaritā*) is the praiser: he praises the sacrificer, saying "Soma has been well prepared." Or else, शश्वतां (*śaśvatāṃ*) means "of all", and Indra, the praiser, is himself the protector (अवः (*avaḥ*)) of the sacrificers who have Soma pressed, and the auspicious forethought (प्रमतिः (*pramatiḥ*)) by his auspicious praise. For the sake of the sprinkling, that is, the drinking, of that Indra, the divine udder, the Droṇa vessel, becomes full, filled with Soma; he alone is the protector, he alone is the forethought.
+
+### Printed p. 148
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- सिक्तये (*siktaye*)—for drinking
+- दिव्यंऊधः (*divyaṃūdhaḥ*)—the Droṇa vessel
+- पूर्णं (*pūrṇaṃ*)—is filled with Soma-juice, such a one
+- क्रतुप्रावा (*kratuprāvā*)—who fulfils the rite
+- शश्वतां (*śaśvatāṃ*)—all sacrificers
+- जरिता (*jaritā*)—who praises
+- इंद्र इत् (*iṃdra it*)—Indra himself
+- सुतावतां (*sutāvatāṃ*)—to the sacrificers who have Soma
+- अवः (*avaḥ*)—protector
+- भद्रा (*bhadrā*)—auspicious
+- प्रमतिः (*pramatiḥ*)—he is of the nature of forethought
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we invoke with respect and prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, for whose drinking the Droṇa vessel is filled with Soma-juice, who fulfils the rite and praises all the sacrificers, is the protector of the sacrificers who have Soma, and is auspicious, of the nature of forethought. We invoke with respect and prayer the universal Aditi.
+
+##### English translation
+Indra is the fulfiller of pious acts, the glorifier of all, the guardian of the offerers of libations, the auspicious forethought, for his libation the divine pitcher is filled (with Soma). We long for the universal Aditi.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒त्रस्ते॑ भा॒नुः क्र॑तु॒प्रा अ॑भि॒ष्टिः संति॒ स्पृधो॑ जरिणि॒प्रा अधृ॑ष्टाः ।  
+> रजि॑ष्ठया॒ रज्या॑ प॒श्व आ गोस्तूतू॑र्षति॒ पर्यग्रं॑ दुव॒स्युः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्रः । ते । भानुः । क्रतुप्राः । अभिष्टिः । संति । स्पृधः । जरणिप्राः । अधृष्टाः ।  
+> रजिष्ठया । रज्या । पश्वः । अ । गोः । तूतूर्षति । परि । अग्रं । दुवस्युः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते भानुः प्रकाशश्चित्र आश्चर्यभूतश्चायनीयो ना । तथा क्रतुप्रा
+> स भानुरस्माकं कर्मणां पूरकोऽभिष्टिरभ्येषणीयः । हे इंद्र ते जरणिप्राः
+
+##### Gist of the bhāṣya
+
+"O Indra, your radiance (भानुः (*bhānuḥ*)) is wonderful (चित्र (*citra*)), a marvel, to be worshipped." That radiance fulfils (क्रतुप्रा (*kratuprā*)) our rites and is desirable (अभिष्टि (*abhiṣṭi*)).
+
+### Printed p. 149
+
+> स्तोत्कणां धनस्य पूरयित्र्योऽधृष्ट्वा अन्यैरप्रधृष्याः स्पृधः स्पर्धाः संति ।
+> यस्मादेवं तस्माद्रजिष्ययर्जुतमया रज्या रज्जा गोः पश्वः पशोरग्रं दुवस्युः
+> परिचरणमिच्छन्नेतन्नामर्षिः हरि तूतूर्षति । अभिश्वरयति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your efforts (स्पृधः (*spṛdhaḥ*)), which fill the wealth of the praisers (जरणिप्राः (*jaraṇiprāḥ*)), are unassailable (अधृष्टाः (*adhṛṣṭāḥ*)) by others. Because this is so, Duvasyu, the seer of that name, desiring to serve, hastens (तूतूर्षति (*tūtūrṣati*), he urges on) to the front of the animal, the cow, with a straightest cord (रज्या (*rajyā*), a rope) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—your
+- भानुः (*bhānuḥ*)—radiance
+- चित्रः (*citraḥ*)—is wonderful
+- क्रतुप्राः (*kratuprāḥ*)—protects our rites
+- अभिष्टिः (*abhiṣṭiḥ*)—grants what we desire
+- स्पृधः (*spṛdhaḥ*)—your efforts
+- अधृष्टाः (*adhṛṣṭāḥ*)—are unobstructed
+- जरणिप्राः (*jaraṇiprāḥ*)—fill with wealth the praisers
+- संति (*saṃti*)—they are
+- (therefore) दुवस्युः (*duvasyuḥ*)—the seer named Duvasu
+- रजिष्ठया (*rajiṣṭhayā*)—straight
+- रज्या (*rajyā*)—held by a rope
+- पश्वः (*paśvaḥ*)—the sacrificial animal
+- गोः (*goḥ*)—of the cow
+- अग्रं (*agraṃ*)—to the front
+- परि तूतूर्षति (*pari tūtūrṣati*)—is going in haste
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your radiance is exceedingly wonderful; it protects our rites and grants what we desire. Your efforts are unobstructed and fill the praisers with wealth. Therefore the seer Duvasyu hastens to the front of the sacrificial cow held by a straight rope. (He is making it ready for the sacrifice.)
+
+##### English translation
+Your splendour, Indra, is wonderful, fulfilling our pious acts, desirable; your efforts replenishing the wealth of your worshippers are irresistible; (therefore Duvasyu hastens in front of the victim cow, (leading it) with a straight cord.
+
+## Sūkta 101 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उद्बुध्यध्वमिति द्वादशर्चं द्वितीयं सूक्तं । सोमपुत्रस्य बुधस्यार्षं । आ
+> वो धियमिति नवमी कपृन्नर इत्यंता च द्वे जगत्यौ । चतुर्थीषष्ट्यौ गायत्र्यौ।
+> निराहावानिति पंचमी बृहती । शिष्टास्त्रिष्टुभः । विश्वे देवा देवता । ऋत्विक्सुतिरूपोऽर्थो वा देवता । तथा जानुक्रांतं । उद्बुध्यध्वं बुधः सौम्य ऋत्विक्सुतिर्वा
+> नवम्यंत्ये जगत्यौ गायत्र्योर्मध्यॆ प चमी बृहतीति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, उद्बुध्यध्वं (*udbudhyadhvaṃ*), has twelve ṛks. The seer is Budha, son of Soma. The ninth आ वो धियं (*ā vo dhiyaṃ*) and the last, कपृन्नर (*kapṛnnara*), are Jagatī; the fourth and sixth are Gāyatrī; the fifth, निराहानान् (*nirāhānān*), is Bṛhatī; the rest are Triṣṭubh. The deity is the Viśve Devāḥ, or the subject, the praise of the priests (ṛtviks). Likewise the Anukramaṇī: उद्बुध्यध्वं बुधः सौम्य ऋत्विक्सुतिर्वा नवम्यंत्ये जगत्यौ गायत्र्योर्मध्यॆ प चमी बृहती (*udbudhyadhvaṃ budhaḥ saumya ṛtviksutirvā navamyaṃtye jagatyau gāyatryormadhyè pa camī bṛhatī*). The use of the sūkta has been stated.
+
+##### Anuvāda
+
+This sūkta beginning उद्बुध्यध्वं (*udbudhyadhvaṃ*) is the second sūkta in the ninth anuvāka. It has twelve ṛks. The seer of this sūkta is Budha, son of Soma.
+
+### Printed p. 150
+In this sūkta the ninth ṛk, आ वो धियं (*ā vo dhiyaṃ*), and the last (twelfth) ṛk, कपृन्नरः (*kapṛnnaraḥ*), are in the Jagatī metre. The fourth and the sixth ṛks are in Gāyatrī. The fifth ṛk, निराहानान् (*nirāhānān*), is in Bṛhatī. The remaining ṛks are in Triṣṭubh. The deity is the Viśve Devāḥ, or the priests (ṛtviks) are praised here, that is, the praise of the priests is the deity. In the Anukramaṇī it is said: उद्बुध्यध्वं बुधः सौम्य ऋत्विक्सुतिर्वा नवम्यंत्ये जगत्यौ गायत्रोर्मध्यॆ पंचमी बृहती (*udbudhyadhvaṃ budhaḥ saumya ṛtviksutirvā navamyaṃtye jagatyau gāyatrormadhyè paṃcamī bṛhatī*). The use (viniyoga) has been stated earlier.
+
+##### Particulars
+
+- Maṇḍala 10; Anuvāka 9; Sūkta 101
+- Aṣṭaka 8; Adhyāya 5; Vargas 18, 19
+- Number of ṛks in the sūkta: 12
+- Seer: Budha Saumya
+- Deity: the Viśve Devāḥ, or the priests
+- Metre: 1–3, 7, 8, 10, 11 Triṣṭubh; 4, 6 Gāyatrī; 5 Bṛhatī; 9, 12 Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्बु॑ध्यध्वं॒ सम॑नसः सखायः॒ सम॒ग्निमिं॑ध्वं ब॒हवः॒ सनी॑ळाः 1  
+> द॒धि॒क्राम॒ग्निमु॒षसं॑ च दे॒वीमिंद्रा॑व॒तोऽव॑से॒ नि ह्व॑ये वः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । बुध्यध्वं । समनसः । सखायः । सं । अग्निं । इंध्वं । बहवः । सनीळाः ।  
+> दधिक्रां । अग्निं । उषसं । च । देवीं । इंद्रवतः । अवसे । नि । ह्वये । वः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं चेष्यमाणा ऋत्विजो वदंति । हे सखायः सखिभूता ऋत्विजः समनसः
+> समानमनस्काः परस्परमद्रोग्धारः । अन्नोन्यं कर्मानुतूला इत्यर्थः । तापृशा
+> यूयमुदुत्कृष्टं [बुध्यध्वं । जानीध्वं । उत्तरत्र यूष्माकं कर्तव्यमेतोप.
+> दिशति । तथाग्निं समिंध्वं । सम्यग्दीपयध्वं ॥ इञइंधी: डीप्तौ दौधादिकः । लोट
+> श्चसोरल्लोलोप इत्यल्लोलोपः ॥ बहवोऽनेके सनीळाः समाननिवासा एकस्यामेव
+
+##### Gist of the bhāṣya
+
+The priests who are about to pile the fire speak. "O friends, priests who are friends, of one mind, not injuring one another, that is, favourable to one another's work, awake (बुध्यध्वं (*budhyadhvaṃ*), know) the excellent;" he thus instructs what is to be done by you hereafter. Likewise "kindle (समिंध्वं (*samiṃdhvaṃ*)) Agni well, make him blaze up." Many, सनीळाः (*sanīḷāḥ*), of one dwelling, living in one and the same hall.
+
+### Printed p. 151
+
+> शालायां निवसंतः । अहं च दधिक्रामेतन्नामिकां देवतामग्निमुषसं च
+> देवीमेतांस्त्रीन्देवानिंद्रावत इंद्रेण युक्तान्नो युष्मानवसेऽस्माकं रक्षणाय
+> नि नितरां ह्वये । आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+"And I invoke (नि ह्वये (*ni hvaye*)) the deity of this name, Dadhikrā, Agni and the divine Uṣas, these three gods, and you, joined with Indra, for our protection."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests who are friends
+- समनसः (*samanasaḥ*)—being of one mind
+- उत् (*ut*)—your excellent duties
+- बुध्यध्वं (*budhyadhvaṃ*)—know
+- बहवः (*bahavaḥ*)—you who are many
+- सनीळाः (*sanīḷāḥ*)—dwelling in one house
+- अग्निं (*agniṃ*)—Agni
+- समिध्वं (*samidhvaṃ*)—cause to blaze up
+- (O gods) इंद्रावतः (*iṃdrāvataḥ*)—accompanied by Indra
+- दधिक्रां (*dadhikrāṃ*)—the deity named Dadhikrā
+- अग्निं (*agniṃ*)—Agni
+- देवीं उषसं (*devīṃ uṣasaṃ*)—the goddess Uṣas
+- वः (*vaḥ*)—all of you
+- अवसे (*avase*)—for protection
+- नि ह्वये (*ni hvaye*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+O priests who are friends, being of one mind, know your excellent duties. Many of you, living in one house, cause the fire to blaze up. O gods, I invoke with prayer, for protection, the deity Dadhikrā joined with Indra, Agni, the divine Uṣas, and all of you.
+
+##### English translation
+Awake, friends, being all agreed; many in number, abiding in one dwelling, kindle Agni. I invoke you, Dhadhikra, Agni and the divine Ushas, who are associated with Indra, for our protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+In some ṛks of this sūkta there is mention of matters connected with agriculture: yoking oxen to the plough, ploughing the earth, conducting water to the field, reaping the crop, and the like. For some ṛks a meaning connected with the sacrifice can also be given.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रा कृ॑णुद्वं॒ धिय॒ आ त॑नुध्वं॒ नाव॑मरित्र॒पर॑णीं कृणुद्वं।  
+> इष्कृ॑णुद्व॒मायु॒धारं॑ कृणुद्वं॒ प्रांचं॑ य॒ज्ञं प्रण॑यता  
+> सखायः ॥ २ ॥
+
+### Printed p. 152
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रा । कृणुध्वं । धियः । आ । तनुध्वं । नावं । अरित्रसरणीं । कृणुध्वं ।  
+> इष्पृणुध्वं । आयुधा । अरं । कृणुध्वं । प्रांचं । यज्ञं । प्र । नयत । सखायः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंद्रा मंद्राणि मदकराणि स्तोत्राणि कृणुध्वं । कुरुध्वं हे सखायः ॥
+> कृवि हिंसाकरणयोः । धिन्विकृण्वोरच्चेत्युप्रत्ययः । अकारश्चांतादेशः । यद्वा ।
+> करोतेर्व्यत्ययेन श्नुः ॥ तथा धियः कर्माणि चयनप्रदेशकर्षणादीन्यातनुध्वं ।
+> विस्तारयत । तथारित्रपरणीं कर्षणादिरूपेणारित्रेण पारयितव्यां नावं चयनाख्यां कृणुध्वं । कुरुध्वं । तथायुधायुधानि सीरयुगादीन्यरमलं कृणुध्वं।
+> हे सखाय ऋत्विजः प्रांचं प्रागंचनं यज्ञं यष्टव्यमग्निं प्रणयत । प्रकर्षेण
+> नयत । आदौ कर्षणं प्रांचं कुरुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Make (कृणुध्वं (*kṛṇudhvaṃ*)) exhilarating (मंद्रा (*maṃdrā*)) praises, O friends." Likewise, extend (आतनुध्वं (*ātanudhvaṃ*)) the rites (धियः (*dhiyaḥ*)), such as the piling site and the ploughing. Make the boat called the piling (चयन (*cayana*)), which is to be carried across by the oar (अरित्र (*aritra*)) in the form of ploughing and the like. Likewise make the implements, the plough, yoke and the rest, sufficient (अरं (*araṃ*)). "O friends, priests, lead forward (प्रणयत (*praṇayata*)) the fire, the object of worship, eastward (प्रांचं (*prāṃcaṃ*))." The meaning is: first make the ploughing face the front.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests who are friends
+- मंद्रा (*maṃdrā*)—gladdening praises
+- कृणुध्वं (*kṛṇudhvaṃ*)—compose
+- धियः (*dhiyaḥ*)—the prescribed rites
+- आ तनुध्वं (*ā tanudhvaṃ*)—extend
+- अरित्रपरणीं (*aritraparaṇīṃ*)—to be carried on by ploughing and the like
+- नावं (*nāvaṃ*)—the boat in the form of the piling
+- कृणुध्वं (*kṛṇudhvaṃ*)—construct
+- आयुधा (*āyudhā*)—the weapons
+- इष्टृणुध्वं (*iṣṭṛṇudhvaṃ*)—make ready
+- अरं कृणुध्वं (*araṃ kṛṇudhvaṃ*)—adorn
+- प्रांचं (*prāṃcaṃ*)—adorned with unguent
+- यज्ञं (*yajñaṃ*)—worthy of worship, Agni
+- प्रणयत (*praṇayata*)—lead forth
+
+##### भावार्थ (Bhāvārtha)
+
+O priests who are friends, compose gladdening praises. Extend the prescribed rites. Construct the boat in the form of the fire-piling, to be carried on by ploughing and the like. Make the weapons ready. Adorn. Lead forth Agni, adorned with unguent and worthy of worship. Make all these preparations for the sacrifice.
+
+##### English translation
+Construct exhilarating (hymns), spread forth praises, construct the ship which is propelled by oars, prepare your weapons, make ready, lead forth, O friends, the herald, the adorable (Agni).
+
 ---
 
-**Progress note:** Done through printed p. 145. pp. 140-145 (batch API)
+**Progress note:** Done through printed p. 152. pp. 146-152 (batch API)
