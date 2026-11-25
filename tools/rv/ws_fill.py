@@ -43,7 +43,8 @@ def num(s):
 ACC = re.compile('[\u0951-\u0954\u1CD0-\u1CFF\uA8E0-\uA8F7]')      # Vedic accent signs: the supplied machine text has none (a few pages of the index give the plain Saṃhitā with accents)
 
 def kn(text, number_tail=True):
-    t = ACC.sub('', text).replace('“', '').replace('”', '').replace('"', '')
+    t = re.sub(r'<ref[^>]*/>|<ref[^>]*>.*?</ref>', '', text, flags=re.S)          # wiki footnote markup that the index left in a layer (9.52.2 Saṃhitā: a Skandapurāṇa verse): not text of the layer
+    t = ACC.sub('', t).replace('“', '').replace('”', '').replace('"', '')
     t = re.sub(r'॥\s*([०-९]+)\s*॥?\s*$', lambda m: '|| ' + m.group(1) + ' ||', t, flags=re.M)
     t = t.replace('।', '|').replace('॥', '||')
     return deva2kn(t)

@@ -4,6 +4,7 @@ import: pages(path) -> {printed_page: text}  (page = text from one running head 
 import re,html,sys
 KD=str.maketrans('೦೧೨೩೪೫೬೭೮೯','0123456789')
 ANOMALIES=[]
+LINE_PAGE=[]      # pages_md fills it: LINE_PAGE[line index of the file] = the page the line belongs to (None before the first head); read by tools/rv/blocks_to_markers.py
 def pages(path,heads=None,title=('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಸಾಯಣಭಾವ್ಯಸಹಿತಾ')):
     """HTML form. Head numbers are noisy (OCR: '750' for 790, '79]' for 791): numbers that disagree with their neighbours are replaced by the
     offset-median rule (as in pages_md); a head with no number takes the previous number + 1."""
@@ -75,12 +76,13 @@ def pages_md(path,heads=None):
         fixed.append(t)
     for i in range(1,len(H)):
         if fixed[i]>fixed[i-1]+1 and fixed[i]==H[i][1]: ANOMALIES.append((H[i][0]+1,H[i][1],H[i][1],'skip from %d (page without a running head, merged into the page before?)'%fixed[i-1]))
-    out={}; cur=None; hi={ln:(k,fixed[k]) for k,(ln,n,h) in enumerate(H)}
+    out={}; cur=None; hi={ln:(k,fixed[k]) for k,(ln,n,h) in enumerate(H)}; del LINE_PAGE[:]
     for ln,l in enumerate(lines):
         if ln in hi:
-            cur=hi[ln][1]; out.setdefault(cur,[])
+            cur=hi[ln][1]; out.setdefault(cur,[]); LINE_PAGE.append(cur)
             if heads is not None: heads.setdefault(cur,H[hi[ln][0]][2])
             continue
+        LINE_PAGE.append(cur)
         if l.startswith('![') or 'base64,' in l: continue
         if cur is not None: out[cur].append(re.sub(r'^#+\s*','',l))
     return {k:re.sub(r'\n\s*\n+','\n','\n'.join(v)).strip() for k,v in out.items()}
