@@ -31207,6 +31207,250 @@ Blazing Agni, you destroy many a shrub, as you burn; and (the sites) of the till
 - भूम (*bhūma*)—the earth
 - प्र वपसि (*pra vapasi*)—you burn everything and make it clean
 
+### Printed p. 934
+#### Ṛk 4 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you burn a forest, you go forward burning the trees that have grown tall and touch the clouds, and also the low plants and creepers that grow on the ground. Just as a king's army, after destroying its enemies, splits into many bands and plunders and ruins everything it meets, so you (Agni) advance burning the trees and shrubs that stand here and there, in many divisions. While you are burning the forest, if the wind also comes to your help (that is, if the wind blows), then, as a barber shaves the beard and moustache on the face perfectly smooth, you (Agni) burn all the trees and other growth on the earth completely and make it a bare open tract with nothing left.
+
+##### English translation
+When you move burning above and burning below, you scatter yourself like a devastating host; when the wind fans your flame. you shave the earth as a barber shaves a beard.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॑स्य॒ श्रेण॑यो ददृश्र॒ एकं॑ नि॒यानं॑ ब॒हवो॒ रथा॑सः ।  
+> बा॒हू यद॑ग्ने अनु॒मर्मृ॑जानो॒ नृज्ज॑ुत्ता॒नाम॒न्वेषि॒  
+> भूमिं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । अस्य । श्रेणयः । ददृश्रे । एकं । नियानं । बहवः । रथासः ।  
+> बाहू इति । यत् । अग्ने । अनुमर्मृजानः । न्यज् । उत्तानां । अनुएषि ।  
+> भूमिं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याग्निर्दहतः श्रेणयो ज्वालापंक्तयः प्रति ददृश्रे । प्रतिदृश्यंते ! ........
+> .................. । तव्वत् । अत्र सामर्थ्य्यादुपमानप्रतीतिः । हे अग्ने बाहू । तृतीयार्थे
+> प्रथमा । बाहुभ्यां बाहुस्थानीयैर्ज्वालासमूहैरनुमर्मृजानः सर्वं वनं
+
+##### Gist of the bhāṣya
+
+The rows of flames of this burning Agni are seen (प्रति ददृश्रे (*prati dadṛśre*), "are seen"). The passage that follows is abridged in print (dots) and part of it is not available; then "तव्वत् (*tavvat*)" ("like that"). Here, from the sense, a comparison is understood. O Agni, बाहू (*bāhū*) stands in the instrumental sense: you "cleanse" the whole forest with your arms, that is, with masses of flame that take the place of arms.**NOTE**
+
+> मृजञ्ज्योधयन् । दहन्नित्यर्थः । न्यज् न्यंचन् प्रह्वीभवन्नुत्तानामूर्ध्वाभिमुखां भूमिं यद्यदान्नेषि अनुगच्छसि तदानीमस्य श्रेणयो ददृश्र इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+मृजञ्ज्योधयन् (*mṛjañjyodhayan*): "cleansing" means burning. न्यज् (*nyaj*) means bending down, becoming low. When, Agni, you go along the earth that faces upward (उत्तानां (*uttānāṃ*)), then the rows of flames of this Agni are seen. Such is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni; you
+- यत् (*yat*)—when
+- बाहू (*bāhū*)—with your flames that are like arms
+- अनुमर्मृज्यमानः (*anumarmṛjyamānaḥ*)—cleansing the forest, that is, burning it
+- उत्तानां (*uttānāṃ*)—the earth furnished with tall trees and the like
+- भूमिं (*bhūmiṃ*)—the earth
+- न्यज् (*nyaj*)—making it level (by burning the trees and the rest)
+- अन्वेषि (*anveṣi*)—you advance; then
+- अस्य (*asya*)—of this Agni
+- श्रेणयः (*śreṇayaḥ*)—the burning rows of flames
+- बहवः (*bahavaḥ*)—many
+- रथासः (*rathāsaḥ*)—provided with chariots
+- एकं नियानं (*ekaṃ niyānaṃ*)—like a moving line
+- प्रति ददृश्रे (*prati dadṛśre*)—are seen
+
+### Printed p. 935
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you go forward, burning with your many flames like arms the tall trees of the earth and levelling them, those many flames of yours shine like lines of an army, with many chariots going in a row, one beside another.
+
+##### English translation
+His lines (of flame) are visible, like one array of many chariots, when clearing away (the forests) with your arms (of flame) you march, Agni, over the prostrate earth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ते॒ शुष्मा॑ जिहता॒मुत्ते॑ अ॒र्चिरुत्ते॑ अग्ने शशमा॒नस्य॒  ॑
+> वाजाः ।  
+> उच्छ्वं॑चस्व॒ नि न॑म॒ वर्ध॑मान॒ आ त्वा॒द्य विश्वे॒ वस॑वः सदंतु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ते । शुष्माः । जिहतां । उत् । ते । अर्चिः । उत् । ते । अग्ने । शशमानस्य ।  
+> वाजाः ।
+
+### Printed p. 936
+
+> उत् । श्वंचस्त्व । नि । नम । वर्धमानः । आ । त्वा । अद्य । विश्वे । वसवः । सदंतु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तव शुष्मा शोषका ज्वाला उज्जिहतां । उद्दच्छंतु । तथा ते
+> तवार्चिर्दिप्तिश्चोद्गच्छतु । शशमानस्य स्तूयमानस्य । यद्वा ॥ शश प्लुतगतौ ।
+> अस्मात्ताच्छिलिकश्चानश् । तस्य सार्वधातुकत्वे सति लसार्वधातुकत्वाभावाच्चित इत्यंतोदात्तत्वमेव शिष्यते ॥ शशमानस्य सर्वं वनमभिक्रम्य शीघ्रं गच्छतः । तव वाजा
+> वेगा हे अग्ने उज्जिहतां । स त्वं वर्धमानः सन्नुच्छंचस्व । वन उद्दच्छस्व । श्वचि
+> गतौ भौवादिकः । इदित्वान्नुम् ॥ तथा नि नम । प्रह्वीभव । उन्नतं वृक्षा दिकं
+> प्राप्योच्छ्रितो भव । अवनतं गुल्मादिकं प्राद्यावनतो भवेत्यर्थः । ईदृशं त्वा
+> त्वामद्यास्मिन्काले विश्वे सर्वॆ वसवो वासयितारो रश्मयो देवा ना सदंतु ।
+> आसीदंतु । प्राप्नुवंतु ॥ सदेर्व्यत्ययेन सीदादेशाभावः । शपि प्राप्ते व्यत्ययेनाब्वा कर्तव्यः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, let your withering (शुष्मा (*śuṣmā*)) flames rise up (उज्जिहतां (*ujjihatāṃ*) = let them go up); and let your light also rise. शशमानस्य (*śaśamānasya*) means "of one who is praised". Or else: the root शश (*śaśa*) is in the sense of leaping motion, and from it comes the participle; of you who go quickly, advancing over the whole forest, let your speeds (वाजा (*vājā*) = swift movements) rise, O Agni. Growing thus, rise up (उच्छ्वंचस्व (*ucchvaṃcasva*)): go upward in the forest (the root श्वचि (*śvaci*) is in the sense of going, of the first class). Likewise नि नम (*ni nama*): bend low; that is, on reaching a high tree and the like, be raised up; on reaching low shrubs and the like, be lowered. Such as you are, today let all the Vasus, the rays or gods that cause (everything) to dwell, sit down by you, that is, attend you. The remaining remarks are on grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- शुष्माः (*śuṣmāḥ*)—burning flames
+- उत् जिहतां (*ut jihatāṃ*)—let them rise up and shine
+- ते (*te*)—your
+- अर्चिः (*arciḥ*)—let your radiance also increase
+- ते (*te*)—your
+- शशमानस्य (*śaśamānasya*)—praiseworthy, or advancing after burning the forest
+- वाजाः (*vājāḥ*)—let the praiseworthy, or swift, movements also increase (you who are such)
+- वर्धमानः (*vardhamānaḥ*)—growing
+- उत् श्वंचस्व (*ut śvaṃcasva*)—burn the tall trees in the forest
+- नि नम (*ni nama*)—burn the small creepers and the like
+- त्वा (*tvā*)—you
+- अद्य (*adya*)—now
+- विश्वे (*viśve*)—all
+- वसवः (*vasavaḥ*)—rays or gods
+- आ सदंतु (*ā sadaṃtu*)—let them attend upon (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, let your burning flames rise higher and higher. Let your radiance also increase and spread. Let your praiseworthy course go forward. Growing, burn the tall trees and the creepers and the like, and move about, spreading sometimes on high and sometimes below. O Agni, may all the rays, or all the gods, now attend upon you.
+
+##### English translation
+May your withering flames, Agni, arise; may your light (arise), and the swift movements of you when you are praised; rise up: stoop down, increasing in might; may all the Vasus this day attend upon you.
+
+### Printed p. 937
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नं ।  
+> अ॒न्यं कृ॑णुष्टे॒तः पंथां॒ तेन॑ याहि॒ वशा॒ अनु॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपां । इदं । निऽयनं । समुद्रस्य । निऽवेशनं ।  
+> अन्यं । कृणुष्व । इतः । पंथां । तेन । याहि । वशान् । अनु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इत्थं खांडववनस्य दाहे प्रवृत्तमग्निं जरितृप्रभृतयः स्वात्मनो रक्षणकामास्तुष्टुवुः । इदानीं च स्तंबमित्रः स्वनिवासभूमेर्दहनाभावायाग्नेरन्यत्र
+> गमनं प्रार्थयते । इदमस्मदीयं निवासस्थानमपामुदकानां न्ययनं । नियंति
+> नितरां गच्छंत्यस्मिन्निति न्ययनं ह्रदः । तथा समुद्रस्योदधेश्च निवेशनं गृहं । यथा
+> ह्रदः समुद्रस्य स्थानं च यथा दग्धुं न शक्यते तथा दाहयोग्यं न भवत्वित्यर्थः ।
+> इतोऽस्मादस्मदीयात्स्थानादन्यं पंथां पंथानं मार्गं हे अग्ने कृणुष्ट! कुरुष्व।
+> तेन पथा वशाननु यथाकामं याहि । गच्छ ॥
+
+##### Gist of the bhāṣya
+
+In this way Jaritṛ and the others, wishing to protect themselves, praised Agni as he set about burning the Khāṇḍava forest. Now Stambamitra prays that Agni go elsewhere, so that the land where he lives may not be burned. "This dwelling-place of ours is the न्ययनं (*nyayanaṃ*) of the waters": न्ययनं (*nyayanaṃ*) is a lake, for into it (the waters) go down. Likewise it is the dwelling (निवेशनं (*niveśanaṃ*)), the house, of the ocean. The meaning is that, as a lake and the ocean's place cannot be burned, so let it not be fit for burning. O Agni, make (कृणुष्ट (*kṛṇuṣṭa*) = do) a path other than this, away from this place of ours. Go by that path as you please (वशाननु (*vaśānanu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) इदं (*idaṃ*)—this dwelling-place of ours
+- अपां (*apāṃ*)—of the waters
+- न्ययनं (*nyayanaṃ*)—the place of their meeting
+- समुद्रस्य (*samudrasya*)—of the ocean
+- निवेशनं (*niveśanaṃ*)—the house (your abode is, like the ocean, a mass of water, not fit to be burned; therefore)
+- इतः (*itaḥ*)—(far) from our dwelling-place
+- अन्यं पंथां (*anyaṃ paṃthāṃ*)—another path (on the path)
+- कृणुष्व (*kṛṇuṣva*)—move about
+- तेन (*tena*)—by that other path
+- वशान् अनु (*vaśān anu*)—as you please
+- याहि (*yāhi*)—go
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, this, that is our dwelling-place (house), is a meeting-place of waters, like the ocean; as it is not possible to burn the ocean, so do not burn our house. Therefore leave our dwelling-place and go as you please by another path, far away.
+
+### Printed p. 938
+
+##### English translation
+This is the abode of the waters, the dwelling of the ocean ; pursue, Agni, a different path from this ; go by this (path) according to your pleasure.
+
+##### विशेषविषयगळु (Special Topics)
+
+Up to here, that is, in the six Ṛks of this sūkta, the seers Jaritṛ, Droṇa and Sārisṛkva have praised the forest fire in many ways. Now the seer Stambamitra, the seer of this Ṛk and of the next, prays that although Agni burns in other regions, he should not burn their own dwelling-place, but should leave it and go by another path. Although Agni burns all the kinds of trees and the like growing on the earth, he cannot burn the ocean, which is full of water. Therefore, as Agni leaves the ocean unburned and goes elsewhere, so the seer, giving the example of the ocean for his own house, prays Agni that he may go as he pleases by another path, leaving their house unburnt.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहंतु पु॒ष्पिणीः॑ ।  
+> प्र॒दाश्च॑ पुं॒डरी॑काणि समु॒द्रस्य॑ गृ॒हा इ॒मे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आऽअयने । ते । पराऽअयने । दूर्वाः । रोहंतु । पुष्टिणीः ।  
+> ह्रदा । च । पुंडरीकाणि । समुद्रस्य । गृहाः । इमे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयापि स्वनिवासस्य दाहानर्हता प्रतिपाद्यते । हे अग्ने ते तवायन
+> आगमने परायणे परागमने वा सत्यस्यां निवासभूम् पुष्टिणीः पुष्पवत्यो
+> दूर्वा रोहंतु । प्ररोहंतु । तथा ह्रदा अशोष्योदका जलाशयाश्च भवंतु ।
+> पुंडरीकाणि पद्मानि च तेषु ह्रदेषु जायंतां । किं बहुना । समुद्रस्य जलधेरिमेऽस्मिन्निवासप्रदेशे गृहा आश्रयभूता भवंतु । यथा समुद्रावासभूमिः कदाचिदपि न दह्यते एवं कदाचिदप्यस्मत्स्थानं न दह्यतामित्यर्थः । एतदुक्तं भवति । दूर्वा-
+
+##### Gist of the bhāṣya
+
+By this Ṛk too the unfitness of his dwelling for burning is set forth. O Agni, at your coming (आयने (*āyane*)) or at your going away (परायणे (*parāyaṇe*)), on this dwelling-land let flowering durvā grasses grow. Likewise let there be lakes (ह्रदा (*hradā*)) whose water cannot dry up, and let lotuses (पुंडरीकाणि (*puṃḍarīkāṇi*)) be born in those lakes. What more? Let the houses on this dwelling-ground be shelters of the ocean (the sea). The meaning is: as the ocean's land of dwelling is never burned, so let our place never be burned. What is said is this: ...
+
+### Printed p. 939
+
+> कांडप्ररोहणप्रार्थनेन स्वाश्रयस्य शीतलत्वं ह्रदप्रार्थनेन तृष्णोपशमनकारणस्य
+> जलस्य सत्त्वं पुंडरीकसद्भावप्रार्थनेनोपभोग्यस्य फलादेः सत्ता समुद्रगृहत्वप्रार्थनेन दाहानर्हता चेत्येतत्सर्वं प्रतिपाद्यत इति ॥
+
+##### Gist of the bhāṣya
+
+... by praying for the growth of durvā shoots, coolness of his own shelter is set forth; by praying for lakes, the presence of water that quenches thirst; by praying for the existence of lotuses, the presence of fruits and other things to be enjoyed; by praying that the houses be the ocean's, unfitness for burning. All this is set forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) ते (*te*)—your
+- आयने (*āyane*)—at the time of coming
+- परायणे (*parāyaṇe*)—at the time of departure (going back), in our dwelling-places
+- दूर्वाः (*dūrvāḥ*)—grass and other plants
+- पुष्पिणीः (*puṣpiṇīḥ*)—putting forth flowers
+- रोहंतु (*rohaṃtu*)—let them grow. Likewise
+- ह्रदाः च (*hradāḥ ca*)—let the reservoirs (tanks, ponds) be full of water
+- पुंडरीकाणि (*puṃḍarīkāṇi*)—(and in them) let lotuses grow
+- इमे गृहाः (*ime gṛhāḥ*)—these houses of ours
+- समुद्रस्य (*samudrasya*)—like the ocean, let them not be burned
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, both at your coming and at your going, let no kind of trouble befall our houses. Let grass and other plants grow luxuriantly, putting forth flowers. Let the reservoirs be full of water and shine with lotus flowers. As the ocean has no fear of fire, so let our houses also be safe, without fear of fire.
+
+##### English translation
+Both at your arrival, Agni, and at your departure. may the flowering durva grasses spring up; may lakes (be formed) and lotuses (therein); may these be the dwellings of the ocean.
+
+##### विशेषविषयगळु (Special Topics)
+
+The seer prays that although the forest fire burns the whole forest, it should not burn their dwelling-places. He expresses the assurance that, both while the forest fire burns the forests in the regions around their houses and afterwards, no fear of fire should come to them; that in the regions around the house grass, plants and the like should grow as they please and bear fruits and flowers; that the reservoirs should not dry up but be rich in water and shine with lotuses; and that, as the ocean has no fear of fire, so their houses too should be without fear of fire.
+
+The supplementary mantras to be recited at the end of this sūkta:
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिमस्य त्वा जरायुणा शाले परिव्ययामसि ।  
+> उत ह्रदो हि नो धियोऽग्निर्ददातु भेषजं  
+> ॥ ० ॥
+
 ---
 
-**Progress note:** Done through printed p. 933. pp. 928-933 (batch API)
+**Progress note:** Done through printed p. 939. pp. 934-939 (batch API)
