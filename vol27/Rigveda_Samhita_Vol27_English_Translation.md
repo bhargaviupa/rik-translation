@@ -5913,6 +5913,289 @@ Immortal Soma, you have generated (the sun) among mortals in (the firmament), th
 "O Soma, by शवसा (*śavasā*), with food as the cause, you have pierced right through (*abhyabhi tratarditha*): you have cut through the filter." Here there are two illustrations. First, "like a spring (उत्सं न (*utsaṃ na*))", as some जनपानं (*janapānaṃ*), a place where people drink water: that unexhausted, imperishable (अक्षितं (*akṣitaṃ*)) one, any (कं चित् (*kaṃ cit*)) spring, a well or the like of welling nature, he pierces.
 **NOTE**
 
+### Printed p. 127
+
+> अथवा कश्चिद्गभस्तोर्बाह्वोः शर्याभिरंगुलीभिर्भरमाण उदकं संभरन् कंचिदभितृणत्ति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa gives a second explanation: or else someone, carrying water with the fingers (शर्याः (*śaryāḥ*)) of his two arms (गभस्त्योः (*gabhastyoḥ*)), pours it forth and breaks open a spring-like source; the Soma is like him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनपानं (*janapānaṃ*)—fit to be drunk by the people of the world
+- अक्षितं (*akṣitaṃ*)—inexhaustible
+- कं चित् उत्सं न (*kaṃ cit utsaṃ na*)—as one bursts open a spring of water
+- भरमाण् (*bharamāṇ*)—one who is carrying water
+- गभस्त्यो (*gabhastyo*)—of his arms
+- शराभिः (*śarābhiḥ*)—with the fingers, as one sprinkles water
+- श्रवसा (*śravasā*)—for the sake of food
+- अभ्यभि (*abhyabhi*)—all around the filter
+- ततर्दिथ हि (*tatarditha hi*)—you have split it
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you have split the filter all around, for the sake of food, as one breaks open a spring of water that people of the world can drink and that cannot dry up, to make the water rise up; and as one who carries water sprinkles it with the fingers of his arms.
+
+##### English translation
+You have burst open (the filter) with (your) food as (one bursts open) an inexhaustible fountain giving drink to the nation, like one taking up (water) with the fingers of his two hands.
+
+##### विशेषविषयगळु (Special Topics)
+
+Śaryāḥ—explaining the meaning of this word, Yāska says in his Nirukta: शर्याः । शर्या अंगुलयो भवंति । सृजंति कर्माणि । शर्या इषवः शरमय्यः । शरः शृणातेः । शर्याभिर्न भरमाणो गभस्तो इत्यपि निगमो भवति ॥ (*śaryāḥ | śaryā aṃgulayo bhavaṃti | sṛjaṃti karmāṇi | śaryā iṣavaḥ śaramayyaḥ | śaraḥ śṛṇāteḥ | śaryābhirna bharamāṇo gabhasto ityapi nigamo bhavati ‖*) (Ni. 5-4). Śaryāḥ means aṅguli, fingers. Because work is done with the help of these fingers, the word śaryāḥ indicates fingers. And this word has another meaning too, arrows. The word śara is derived from the root śṛ (śṛṇāti), "to split", and gives the sense of a weapon that splits and injures. For the word śarya in the sense of "finger", the Vedic text of the present Ṛk itself, शर्याभिर्न भरमाणो गभस्त्योः (*śaryābhirna bharamāṇo gabhastyoḥ*), is the example.
+
+### Printed p. 128
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदीं॒ के चि॒त्पश्य॑मानास॒ आप्यं॑ वसु॒रुचो॑ दि॒व्या  ॒॑
+> अ॒भ्य॑नूषत ।  
+> वारं॒ न दे॒वः स॑वि॒ता व्यू॑र्णुते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ईं । के । चित् । पश्यमानासः । अप्यं । वसुरुचः । दिव्याः । अभि ।  
+> अनूषत ।  
+> वारं न । देवः । सविता । वि । ऊर्णुते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदनंतरं पश्यमानास एनं पश्यंतो दिव्या दिवि भवा वसुरुचो नाम के
+> चिदाप्यं बंधुं साधुमीमेनं सोममभ्यनूषत । अभ्यस्तुवन् । कस्मादनंतरमिति
+> उच्यते । देवो द्योतमानः सविता सर्वस्य प्रेरकः सूर्यो नारमावरकमंधकारं न व्यूर्णुते । नापगमयति । तदैनमस्तुवन् । सूर्योदयात्पागेव हि
+> सोमं स्तुवंति खलु ॥
+
+##### Gist of the bhāṣya
+
+Thereafter, seeing him, certain celestial beings (दिव्या (*divyā*)), born in heaven and named Vasuruc, praised this Soma as a kinsman (आप्यं (*āpyaṃ*)), a good friend. Why "thereafter"? The shining Savitṛ, the sun, the impeller of all, does not yet remove the obstructing (वारं (*vāraṃ*)) darkness. So they praised him then; for they praise Soma before sunrise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत् (*āt*)—immediately after that
+- देवः (*devaḥ*)—the shining
+- सविता (*savitā*)—the sun
+- वारं (*vāraṃ*)—the covering pitch darkness
+- न व्यूर्णुते (*na vyūrṇute*)—(before he) drives away
+- पश्यमानासः (*paśyamānāsaḥ*)—those who were looking at this Soma
+- दिव्याः (*divyāḥ*)—born in the world of heaven
+- वसुरुचः (*vasurucaḥ*)—called Vasuruc
+- के चित् (*ke cit*)—some
+- आप्यं (*āpyaṃ*)—in the form of a kinsman
+- ईं (*īṃ*)—this Soma
+- अभ्यनूषत (*abhyanūṣata*)—praised
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Soma appeared, some people who were looking at this Soma, born in heaven and called Vasuruc, praised this Soma as a kinsman, before the shining sun rose and drove away the pitch darkness.
+
+##### English translation
+Beholding him certain celestial Varuruchas praise him as a kinsman before the shining Savitri drives away the obstructing (darkness).
+
+### Printed p. 129
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे सो॑म प्रथ॒मा वृ॒क्तब॑र्हिषो म॒हे वाजा॑य॒ श्रव॑से॒ ॑ 
+> धियं दधुः ।  
+> x त्वं नो॑ वीर वी॒र्या॑य चोदय ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । सोम । प्रथमाः । वृक्तबर्हिषः । महे । वाजाय । श्रवसे । धियं ।  
+> दधुः ।  
+> सः । त्वं । नः । वीर । पीयार्याय । जोदय । ७  
+> ३ १. २. ३.  
+> हे सोम प्रथमाः पुरातनः यद्वा ! यष्टृत्वेन सर्वेषां जनानां  
+> मुख्याः । व्यक्तबर्हिषः । व्यक्तं भिन्नं बर्हियैर्यज्ञार्थमिति व्यक्तबर्हिषो  
+> यजमानाः । महे महते । वाजाय बलाय श्रवसेन्नाय च धियं बुद्धिं त्वे  
+> त्वयि ददुः निहितवंतः । तस्मात् हे वीर समर्थ सोम स तादृशस्त्वं नोऽस्थानपि  
+> संग्रामे वीर्याय सामर्थ्याय चोदय । प्रेरय । यद्वा वीर्याय  
+> वीरे पुत्रे भवाय सुखायास्मान्स्पेरय  
+> प्र.बसवण्ण  
+> सोम—ऎल्लॆ सोमदेवने ! प्रथमाः —पुरातनरू वृक्तबर्हिष.—यज्ञक्कागि  
+> हरडिद दर्भासनवुळ्ळवरू आद यजमानरु महे—महत्ताद ! वाजाय—बलक्कागियू ।  
+> क्रवसे—अन्नक्कागियू धियं—तम्म ध्यानात्मकवाद बुद्धियन्नु । श्वे—निन्नल्लि । दधुः—  
+> स्थापिसिद्दारॆ । वीर—सामर्थ्यवुळ्ळ ऎल्लॆ सोमदेवने । सः—प्रसिद्धनाद त्वं—नीनु ।  
+> नः—नम्मन्नु ! वीर्याय—शक्ति संपादनॆगागि । चोदय—प्रेरिसु:  
+> ॥ धनपद्धति.  
+> ऎलै सोमदेवने, पुरातनरू, यज्ञक्कागि धर्भासनवन्नु हरडिरुववरू आद यजमानरु  
+> महत्ताद बलक्कागियू, अन्नक्कागियू, तम्म ध्यानात्मकवाद बुद्धियन्नु निन्नल्लि स्थापिसिद्दारॆ.  
+> सामर्थ्ययुतनाद ऎलै सोमदेवने, प्रसिद्धनाद नीनु नम्मन्नू सह शक्ति संपादनॆगागि  
+> प्रेरिसु  
+> xxvii 9
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+##### Gist of the bhāṣya
+
+O Soma, the "first" (प्रथमाः (*prathamāḥ*)) are the ancient ones; or else, being sacrificers, the foremost of all people. The व्यक्तबर्हिषः (*vyaktabarhiṣaḥ*) are the sacrificers who have cut the sacred grass for the sacrifice. They have placed their thought (धियं (*dhiyaṃ*)) in you for great strength (वाजाय (*vājāya*)) and food (श्रवसे (*śravase*)). Therefore, O capable hero Soma, such as you are, impel us too in battle toward heroic power. Or else: impel us toward well-being (भवाय (*bhavāya*)), in a heroic son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- प्रथमाः (*prathamāḥ*)—the ancient
+- वृक्तबर्हिष. (*vṛktabarhiṣa.*)—sacrificers with the sacred-grass seat spread for the sacrifice
+- महे (*mahe*)—great
+- वाजाय (*vājāya*)—for strength
+- क्रवसे (*kravase*)—for food
+- धियं (*dhiyaṃ*)—their meditative thought
+- श्वे (*śve*)—in you
+- दधुः (*dadhuḥ*)—have placed
+- वीर (*vīra*)—O capable Soma
+- सः (*saḥ*)—the famous
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- वीर्याय (*vīryāya*)—for the gaining of strength
+- चोदय (*codaya*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the sacrificers, the ancient ones who have spread the sacred grass for the sacrifice, have placed their meditative thought in you for great strength and for food. O Soma, endowed with capability, you, the famous one, impel us too toward the gaining of strength.
+
+### Printed p. 130
+
+##### English translation
+The chief (of men) having cut the sacred grass have fixed their minds, Soma, on you for abundant strength and food ; do you, O hero, excite us to heroism.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वः पी॒यूषं॑ पू॒र्व्यं यदु॒क्थ्यं॑ म॒हो गा॒हाद्दि॒न आ  ॑
+> निर॑धुक्षत ।  
+> इंद्र॑म॒भि जाय॑मानं॒ सम॑स्वरन् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । पीयूषं । पूर्व्यं । यत् । उक्त्यं । महः । गाहात् । दिवः । आ । निः ।  
+> अधुक्षत ।  
+> इंद्रं । अभि । जायमानं । सं । अस्वरन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकात् तत्र स्थितैर्देवैः पीयूषं पातव्यं पूर्व्यं प्रत्नं
+> यत्सोमरूपमन्नमुक्थं प्रशस्यमस्ति तं सोमं महो महतो गाहाद्गहनाद्दिवो द्युलोकान्निरधुक्षत । अभिमुख्येन निर्दुहंति । ततो दुग्धमिंद्रमभिलक्ष्य
+> जायमानं तं सोमं समस्वरन् । स्तोतारः संस्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+From heaven, from the great deep heavenly world, they milk out the ancient Soma, which is the food in Soma form, to be drunk by the gods who dwell there and worthy of praise (*ukthaṃ*). They draw it forth facing it. Then, when that Soma is milked out and is being born with Indra as its aim, the singers praise it together.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—for the gods of heaven
+- पीयूषं (*pīyūṣaṃ*)—fit to be drunk
+- पूर्व्यं (*pūrvyaṃ*)—ancient
+- यत् (*yat*)—which Soma
+- उक्ष्यं (*ukṣyaṃ*)—is worthy of praise, that Soma
+- महः (*mahaḥ*)—great
+- गाहात् (*gāhāt*)—deep
+- दिवः (*divaḥ*)—from the world of heaven
+- आ निरधुक्षत (*ā niradhukṣata*)—have called forth
+- इंद्रं अभि (*iṃdraṃ abhi*)—for Indra's drinking
+- जायमानं (*jāyamānaṃ*)—that Soma, which has been produced
+- समस्वरन् (*samasvaran*)—the singers praise
+
+##### भावार्थ (Bhāvārtha)
+
+They have called forth, from the great and deep world of heaven, the Soma that is fit for the gods of heaven to drink, ancient and worthy of praise. The singers praise that Soma, produced for Indra's drinking.
+
+### Printed p. 131
+
+##### English translation
+They have milked from heaven from the mighty deep the ancient Soma, the beverage (of the gods) of heaven, which is worthy of praise; they have praised it when gencrated for Indra.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ यदि॒मे प॑वमान॒ रोद॑सी इ॒मा च॒ विश्वा॒ भुव॑ना॒भि  ॒॑
+> मज्मना ।  
+> यू॒थे न नि॒ष्ठा वृ॑ष॒भो वि ति॑ष्ठसे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । यत् , इमे इति । पवमान ! रोदसी इति . इमा च । विश्वा । भुवना ।  
+> अभि । मज्जना ।  
+> यूथे । न निःस्था वृषभः । वि । तिष्ठसे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम अधानंतरं यद्यथेमे रोदसी द्यावापृथिव्याविमेमानि विश्वा विश्वानि भुवना भूतजातानि च मज्मना बलेनाभि तिष्ठसि सत्वं तथा कुर्वन्
+> भुवनेषु वि तिष्ठसे । तत्र दृष्टांतः यूथे न यथा कश्चिद्वृषभो गवां यूथे
+> वृंदे निष्का निष्मितो वर्तते तद्वदूथस्थानीयेषु भूतजातेषु निष्मितो भवसि !
+
+##### Gist of the bhāṣya
+
+O purifying Soma, thereafter, just as you stand over (*abhi tiṣṭhasi*) these two worlds, heaven and earth, and all these beings by your might (मज्मना (*majmanā*)), so, doing thus, you stand in different ways among the beings. The example: as a bull stands established in a herd of cows, so you are established among the classes of beings, which are like the herd.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma
+- वृषभः (*vṛṣabhaḥ*)—a powerful bull
+- यूथे (*yūthe*)—in a herd of cows
+- निष्ठाः न (*niṣṭhāḥ na*)—as it stands exercising mastery
+- अध (*adha*)—as soon as you are born
+- यत् (*yat*)—in the way that
+- इमे रोदसी (*ime rodasī*)—these two, heaven and earth
+- इमा च विश्वा भुवना (*imā ca viśvā bhuvanā*)—in all these worlds
+- मज्मना (*majmanā*)—by their power
+- अभि (*abhi*)—you make them stand pervading, in that way also
+- वि तिष्ठसे (*vi tiṣṭhase*)—you stand exercising mastery
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, just as a powerful bull stands exercising mastery in a herd of cows, so, as soon as you are born, in the way you make these two, heaven and earth, and all these worlds stand pervaded by their own power, in that way too you stand exercising mastery.
+
+### Printed p. 132
+
+##### English translation
+Since, Pavamana, you by your might are chief over these two worlds and all these living beings, as a bull is ruler in a herd of cows.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमः॑ पुना॒नो अ॒व्यये॒ वारे॒ शिशु॒र्न क्रीळ॒न्नव॑मानो  
+> अक्षाः ।  
+> स॒हस्र॑धारः श॒तवा॑ज॒ इंदुः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । पुनानः । अव्यये । वारे । शिशुः । न । क्रीळन् । पवमानः । अक्षारिति ।  
+> सहस्रधारः । शतनाजः । इंदुः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः पवमानः पूतः सोमोऽव्ययेऽविमये वारे वाले
+> पवित्रे शिशुर्न शिशुरिव क्रीळन्नितस्ततः संक्रीडमानः सन्नक्षाः । क्षरति । कीदृशः । सहस्रधारो बहुधारायुक्तः शतवाजो बहुबल इंदुर्दिप्तः ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified and cleansed, flows (अक्षाः (*akṣāḥ*)) through the woollen (अव्यये (*avyaye*)) filter (वारे (*vāre*)), playing here and there like a child. What is he like? Having a thousand streams, having hundredfold strength (शतवाजः (*śatavājaḥ*)), and bright (इंदुः (*iṃduḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—the purifier
+- पवमानः (*pavamānaḥ*)—one who has attained purity
+- सोमः (*somaḥ*)—Soma
+- सहस्रधारः (*sahasradhāraḥ*)—having many streams
+- शतवाजः (*śatavājaḥ*)—having abundant strength
+- इंदुः (*iṃduḥ*)—shining and radiant
+- शिशुः (*śiśuḥ*)—a young child
+- क्रीळन् न (*krīḷan na*)—as it plays
+- अव्यये (*avyaye*)—of wool
+- वारे (*vāre*)—through the fibres
+- अक्षाः (*akṣāḥ*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the purifier, who has attained purity, having many streams, abundant strength and shining, flows through the fibres of wool as a young child plays.
+
 ---
 
-**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
+**Progress note:** Done through printed p. 132. pp. 127-132 (batch API)
