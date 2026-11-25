@@ -11132,6 +11132,265 @@ O Agni, in you all wealths come together (सं जग्मुः (*saṃ jagm
 
 O Agni, as swift horses go and gather in battle by their rapid movements, so in you all wealths are gathered together; such as you are, give us protections, more than Indra does.
 
+### Printed p. 289
+
+##### English translation
+O Agni, in whom all treasures are brought together as fleet horses are brought together in battle : bestow upon us protections even more effective than those of Indra.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ ह्य॑ग्ने म॒ह्ना नि॒षद्या॑ स॒द्यो ज॑ज्ञा॒नो हव्यो॑ ब॒भूथ॑ ।  
+> तं ते॑ दे॒वासो॒ अनु॒ केत॑माय॒न्नधा॑वर्धंत प्रथ॒मास॒  ॑
+> ऊमाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । हि । अग्ने । मह्ना । निसद्य । सद्यः । जज्ञानः । हव्यः । बभूथ ।  
+> तं । ते । देवास । अनु । केतं । आयन् । अध । अवर्दंत । प्रथमासः । ऊमाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधानंतरं हि यस्माद्दे अग्ने त्वं महत्वेन जज्ञानो जायमानो
+> ज्वलन्निषद्योपविश्य सद्यस्तस्मिन्प्रजननकाल एव हव्यो हवनार्ह आहुतिप्रक्षेपणार्हो
+> बभूथ भवसि तस्मात्कारणाद्देवासो हविषां दातार ऋत्विग्यजमानास्ते तव स्वभूतं
+> तं तादृशं केतं प्रज्ञानलक्षणमन्वायन् । अनुगच्चंति । दीप्ते त्वयि हवींषि
+> जुह्वतीत्यर्थः । अधानंतरमृत्विगादयः प्रथमासः क्रियाभिजनविद्यागुणैरुत्कृष्टा
+> ऊनास्त्वया रक्षिताः संतोऽवर्धंत । वर्धंते !
+
+##### Gist of the bhāṣya
+
+"Then, because you, Agni, being born through your greatness, having sat down, become at once, at the very time of birth, fit to be invoked, fit to receive the offered oblation, for that reason the देवासो (*devāso*), the givers of the oblations, the priests and sacrificers, follow that characteristic sign of yours, the mark of recognition, that is, they pour oblations into you when you are kindled. Then the priests and others, the foremost, superior through action, birth, learning and virtues, protected by you, अवर्धंत (*avardhaṃta*), prosper."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- हि (*hi*)—for which reason
+- मह्ना (*mahnā*)—as the result of your greatness
+- जज्ञानः (*jajñānaḥ*)—having been born
+- निषद्य (*niṣadya*)—having sat down
+- सद्यः (*sadyaḥ*)—immediately on being born
+- हव्यः (*havyaḥ*)—fit to receive the oblation
+- बभूथ (*babhūtha*)—you became; for that very reason
+- देवासः (*devāsaḥ*)—the priests and sacrificers who offer the oblation
+- ते (*te*)—your
+- तं केतं (*taṃ ketaṃ*)—that well-known sign
+- अनु आयन् (*anu āyan*)—follow
+- अध (*adha*)—afterwards
+- प्रथमासः (*prathamāsaḥ*)—possessing most excellent qualities
+- ऊमाः (*ūmāḥ*)—protected by you
+- अवर्धंत (*avardhaṃta*)—prosper
+
+### Printed p. 290
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for the reason that, as the result of your greatness, you were born, sat down, and at once on being born became fit to receive the oblation, for that very reason the priests and sacrificers who offer the oblation follow your well-known sign. Afterwards, possessing most excellent qualities and protected by you, they prosper.
+
+##### English translation
+Since you, Agni, born in your glory, and having sat down (on the altar), are immediately entitled to the oblation : therefore the holy (priests) come to that your ensign and the most worthy (worshippers) prosper protected (by you).
+
+## Sūkta 7 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वस्ति न इति सप्तर्चं सप्तमं सूक्तं । ऋष्याद्याः पूर्ववत् । स्वस्तीत्यनुक्रांतं ॥ उक्तः सूक्तविनियोगः ॥ स्वस्त्ययन्यां प्रधानस्य स्वस्ति न इत्येषानुवाक्या ।
+> सूत्रितं च । अग्निः स्वस्तिमान् स्वस्ति नो दिवो अग्ने पृथिव्याः । आ. २-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn स्वस्ति न (*svasti na*) has seven Ṛks and is the seventh hymn. Seer and the rest as before. The Anukramaṇī says "svasti". The use of the hymn has been stated. In the Svastyayanī (iṣṭi), at the principal offering, the Ṛk स्वस्ति न (*svasti na*) is the anuvākyā. It is prescribed in the sūtra: अग्निः स्वस्तिमान् स्वस्ति नो दिवो अग्ने पृथिव्याः (*agniḥ svastimān svasti no divo agne pṛthivyāḥ*) (Ā. 2-10).
+
+##### Anuvāda
+
+This hymn "स्वस्ति नः (*svasti naḥ*)" is the seventh hymn in the first anuvāka. It has seven Ṛks. Its seer, deity and metre are the same as those of the previous hymn. In the Anukramaṇī it is described as "svasti". The use of the hymn was stated earlier. In the principal offering of the iṣṭi called Svastyayanī this Ṛk "स्वस्ति नः (*svasti naḥ*)" is to be recited as the anuvākyā mantra, as explained by the Āśvalāyana Śrauta Sūtra, in the sūtra "Agniḥ svastimān, svasti no divo agne pṛthivyāḥ" (Ā. 2.10).
+
+Particulars: Sūkta 7. Maṇḍala 10, Anuvāka 1, Sūkta 7. Aṣṭaka 7, Adhyāya 6, Varga 1. Number of Ṛks in the hymn: 7. Seer: Trita Āptya. Deity: Agni. Metre: Triṣṭup.
+
+### Printed p. 291
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्ति नो॑ दि॒वो अ॑ग्ने पृथि॒व्या वि॒श्वायु॑र्धेहि य॒जथा॑य  
+> देव ।  
+> सचे॑महि॒ तव॑ दस्म प्रके॒तैरु॑रु॒ष्या ण॑ उ॒रुभि॑र्देव॒ शंसैः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्ति । नः । दिवः । अग्ने । पृथिव्याः । विश्वआयुः । धेहि । यजथाय । देव ।  
+> सचेमहि । तव । दस्म । प्रकतैः । उरुष्य । नः । उरुभिः । देव । शंसैः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव दानादिगुणविशिष्टाग्ने त्वं दिवः पृथिव्या द्यावापृथिव्योः सकाशान्नोऽस्मभ्यं विश्वायुः सर्वान्नं स्वस्ति पुत्रादि यजथाय देवयागार्थं धेहि ।
+> प्रयच्छ । सर्वोपद्रवरहिताः सर्वान्नपुत्रयुक्ताश्च संतो वयं यथा यज्ञानो
+> भवेम तथास्मान्कुर्विति वाक्यशेषः । अपि च वयं सचेमहि । हे दस्म दर्शनीय
+> देवाग्ने उरुभिर्बहुभिः शंसैः शंसनीयैस्तव संबंधिभिः प्रकेतैः पालनोपायप्रज्ञानैनोर्नोऽस्मानुरुष्य । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O divine Agni, endowed with qualities such as generosity, give us from heaven and earth, from the two, all food, welfare (sons and so forth), for the sacrifice to the gods. The remainder of the sentence: "Make us such that, free of all troubles and possessed of all food and sons, we may be sacrificers." Moreover we would be joined with you. O beautiful (दस्म (*dasma*)) Agni, protect us with your many praiseworthy signs, the means of knowledge for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O divine one
+- अग्ने (*agne*)—O Agni
+- दिवः (*divaḥ*)—from heaven
+- पृथिव्याः (*pṛthivyāḥ*)—from earth
+- नः (*naḥ*)—to us
+- विश्वायुः (*viśvāyuḥ*)—all kinds of food
+- स्वस्ति (*svasti*)—wealth such as sons
+- यजथाय (*yajathāya*)—for worship of the gods
+- धेहि (*dhehi*)—provide
+- दस्म (*dasma*)—O one of attractive form
+- देव (*deva*)—O divine Agni
+- उरुभिः (*urubhiḥ*)—abundant
+- शंसैः (*śaṃsaiḥ*)—praiseworthy
+- तव प्रकेतैः (*tava praketaiḥ*)—by your signs of protection and the like
+- सचेमहि (*sacemahi*)—may we be joined
+- नः (*naḥ*)—us
+- उरुष्य (*uruṣya*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Agni, from heaven and from earth provide us all kinds of food and wealth such as sons, for worship of the gods. O Agni, of attractive form and divine, may we be joined with your abundant and praiseworthy signs of protection and the like. Protect us.
+
+### Printed p. 292
+
+##### English translation
+Divine Agni, bestow upon us from earth and heaven prosperity and abundant food, that we may be able to offer sacrifices. May we be associated beautiful (Agni), with your indications (of favour) : protect us, divine Agni on account of our many hymns.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा अ॑ग्ने म॒तय॒स्तुभ्यं॑ जा॒ता गोभि॒रश्वै॑र॒भि गृ॑णंति॒ राधः॑ ।  
+> य॒दा ते॒ मर्तो॒ अनु॒ भोग॒मान॒ड्वसो॒ दधा॑नो म॒तिभिः॑  
+> सुजात ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । अग्ने । मतयः । शुभ्यं । जाताः । गोभिः । अश्वैः । अभि । गृणंति । राधः ।  
+> यदा । ते । मर्तः । अनु । भोगं । आनट् । वसो इति । दधानः । मतिभिः ।  
+> सुजात ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने इमा ईदृश्यो मतयः स्तुतयस्तुभ्यं त्वदर्थं जाता अस्मदादिस्तोतृमुखादुत्पन्नाः । उच्चारिता इत्यर्थः । गोभिरश्वैश्च सहितं राधस्त्वया दीयमानं हिरण्यादिकं धनमभि गृणंति । अभिष्टुवंति । अस्मत्सुत्यनुरूपान्नमस्सभ्यं
+> त्वया दत्तमिति प्रशंसंति । यदा मर्तोऽस्मदादिको मनुष्यस्ते त्वया दीयमानं भोगं भोगार्हं धनमन्वानट् प्राप्नोति लभते तदा हे वसो प्रशस्यवसुमन् । यद्वा । स्वेन तेजसा सर्वस्याच्छादयितः । हे सुजात शोभनकर्मार्थमुत्सन्नाग्ने त्वं दधानोऽस्मभ्यं धनं प्रयच्छन् मतिभिरस्मदीयाभिः स्तूयस इति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, these hymns (मतयः (*matayaḥ*)), praises, born for you, arisen from the mouths of us worshippers, uttered, praise (अभि गृणंति (*abhi gṛṇaṃti*)) the wealth (राधः (*rādhaḥ*)) given by you, gold and the like, together with cattle and horses: they extol "this has been given to us by you, in accordance with our praise". When a mortal such as we obtains (आनट् (*ānaṭ*)) the enjoyable wealth given by you, then, O वसो (*vaso*), possessor of excellent wealth — or else, one who covers everything with his own splendour — O well-born (सुजात (*sujāta*)) Agni, born for good works, you, bestowing (दधानः (*dadhānaḥ*)) wealth on us, are praised by our hymns (the remainder: "are praised").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तुभ्यं (*tubhyaṃ*)—addressed to you
+- जाताः (*jātāḥ*)—born
+- इमाः मतयः (*imāḥ matayaḥ*)—these praises
+- गोभिः (*gobhiḥ*)—with cattle
+- अश्वैः (*aśvaiḥ*)—with horses, combined
+
+### Printed p. 293
+- राधः (*rādhaḥ*)—wealth
+- अभि गृणंति (*abhi gṛṇaṃti*)—praise
+- वसो (*vaso*)—one who covers everything with your splendour
+- सुजात (*sujāta*)—O Agni of excellent birth
+- यदा (*yadā*)—when
+- मर्तः (*martaḥ*)—a man
+- ते (*te*)—given by you
+- भोगं (*bhogaṃ*)—enjoyable
+- अनु आनट् (*anu ānaṭ*)—obtains; then
+- दधानः (*dadhānaḥ*)—you, giving wealth to us also
+- मतिभिः (*matibhiḥ*)—by our praises, are praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, these praises composed for you ask for wealth together with cattle and horses. O Agni, who cover everything with your own splendour and are of excellent birth, when a man obtains the wealth given by you, the enjoyable wealth, then you, giving wealth to us also, are praised by our praises.
+
+##### English translation
+These hymns, addressed, Agni, to you, praise you for wealth, together with cattle and horses : when a mortal obtains the means of enjoyment from you, (then), opulent and well-born Agni, you, who are the granter of benefits, (are celebrated) by our praises.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं म॑न्ये पि॒तर॑म॒ग्निमा॒पिम॒ग्निं भ्रात॑रं॒ सद॒मित्सखा॑यं ।  
+> अ॒ग्नेरनी॑कं बृह॒तः स॑पर्यं दि॒वि शु॒क्रं य॑ज॒तं सूर्य॑स्य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । मन्ये । पितरं । अग्निं । आपिं । अग्निं । भ्रातरं । सदं । इत् । सखायं ।  
+> अग्नेः । अनेकं । बृहतः । सपर्यं । दिवि । शुक्रं । यजतं । सूर्यस्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं स्तोता पितरमग्निमेव मन्ये । जाने । आपिं बंधुमग्निमेव मन्ये ।
+> भ्रातरमग्निमेव मन्ये । सदमित् सदैवाविसंवादिनं सखायमग्निमेव जानामि ।
+> बृहतो महतोऽग्नेरनीकमाहवनीयाख्यं मुखं सपर्यं । परिचरामि । तत्र
+> लुप्तोपममेतत् । दिवि द्युलोके स्थितं यजतं यष्टव्यं पूजनीयं सूर्यस्य
+> संबंधि शुक्रं दीप्तिमन्मंडलं यथा कश्चिदभिप्रेतार्थसिद्धय आराधयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+I, the worshipper, regard Agni alone as father; I regard Agni alone as kinsman (आपिं (*āpiṃ*)) and as brother; always (सदमित् (*sadamit*)) I know Agni alone as the friend who never disagrees. I serve the face (*anīkaṃ*) of great Agni, called Āhavanīya; here there is an omitted simile: as one worships the bright, adorable disc of the sun, placed in heaven, for the attainment of a desired object.
+
+### Printed p. 294
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- अग्निं (*agniṃ*)—Agni
+- पितरं (*pitaraṃ*)—as my father
+- मन्ये (*manye*)—I consider
+- अग्निं (*agniṃ*)—Agni
+- आपिं (*āpiṃ*)—I consider a kinsman
+- अग्निं (*agniṃ*)—Agni
+- भ्रातरं (*bhrātaraṃ*)—I regard as my elder brother
+- सदमित् (*sadamit*)—always
+- अग्निं (*agniṃ*)—Agni alone
+- सखायं (*sakhāyaṃ*)—I know as my friend
+- यजतं (*yajataṃ*)—worthy of worship
+- शुक्रं (*śukraṃ*)—radiant
+- सूरस्य (*sūrasya*)—as one worships the solar disc
+- बृहतः (*bṛhataḥ*)—of the great
+- अग्नेः (*agneḥ*)—of Agni
+- अनेकं (*anekaṃ*)—the face
+- सपरं (*saparaṃ*)—I worship
+
+##### भावार्थ (Bhāvārtha)
+
+I know Agni alone as my father. I know him as my kinsman, as brother, and as a dear friend. As one worships the solar disc, worthy of worship and radiant, so I worship the face of the great Agni.
+
+##### English translation
+I regard Agni as a father, as a kinsman, as a brother, as a constant friend. I reverence the face of the mighty Agni, radiant in heaven, adorable as the sun.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सि॒ध्रा अ॑ग्ने॒ धियो॑ अ॒स्मे सनु॑त्री॒र्यं त्राय॑से॒ दम॒ आ नित्य॑होता ।  
+> ऋ॒तावा॒ स रो॒हिद॑श्वः पुरु॒क्षुद्युर्भि॑रस्मा॒ अह॑भिर्वा॒मम॑स्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिध्राः । अग्ने । धियः । अस्मे इति । सनुत्रीः । यं । त्रायसे । दमे । आ । नित्यs.  
+> होता ।  
+> ऋतवा । सः । रोहित् अश्वः । पुरुक्षुः । द्युभिः । अस्मै । अहभिः । वामं । अस्तु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सनुत्रीः संभक्त्र्येऽस्मे अस्माकं संबंधिन्यो धियः स्तुतयः सिद्धाः
+> सिद्धा निष्पन्नाः । त्वदर्थमस्माभिः कृता इत्यर्थः । दम आ अस्मद्यज्ञगृहे मर्यावत-
+
+##### Gist of the bhāṣya
+
+O Agni, our praises (धियः (*dhiyaḥ*)), which are सनुत्रीः (*sanutrīḥ*), bestowing, are accomplished (सिद्धाः (*siddhāḥ*)), perfected; that is, they have been made by us for you. In our sacrificial house (दम आ (*dama ā*)) ….
+
 ---
 
-**Progress note:** Done through printed p. 288. pp. 283-288 (batch API)
+**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
