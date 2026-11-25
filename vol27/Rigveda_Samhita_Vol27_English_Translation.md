@@ -16557,6 +16557,226 @@ O Yama, in this sacrifice now going on in your honour, the priests are reciting 
 
 O Yama, come with the Aṅgirases, who are fit for sacrifice and who are of many forms or fond of the Vairūpa sāman. Having come, rejoice here in this sacrifice; gladden the sacrificer. Vivasvān, who is your father, I invoke in this sacrifice. Let him too sit down on the spread barhis and gladden the sacrificer.
 
+### Printed p. 465
+#### Ṛk 5 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यम (*yama*)—O god Yama
+- वैरूपैः (*vairūpaiḥ*)—those having many forms
+- यज्ञियेभिः (*yajñiyebhiḥ*)—and worthy of worship
+- अंगिरोभिः (*aṃgirobhiḥ*)—together with the Aṅgirases
+- आ गहि (*ā gahi*)—be gracious, come
+- इह (*iha*)—in this sacrifice
+- मादयस्व (*mādayasva*)—gladden the sacrificer
+- यः (*yaḥ*)—which Vivasvat
+- ते (*te*)—to you
+- पिता (*pitā*)—is father
+- विवस्वंतं (*vivasvaṃtaṃ*)—that Vivasvat
+- अस्मिन् यज्ञे (*asmin yajñe*)—in this sacrifice
+- हुवे (*huve*)—I call
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- आ निषद्य (*ā niṣadya*)—having sat down, let him too gladden the sacrificer
+
+##### भावार्थ (Bhāvārtha)
+
+O god Yama, come together with the Aṅgirases, who have many forms and are worthy of worship. Gladden the sacrificer in this sacrifice. I call in this sacrifice Vivasvat, who is your father. Seated on the seat of darbha grass, may he too gladden the sacrificer.
+
+##### English translation
+Come hither, Yama, with the venerable multiform Angirasas, and be exhilarated; I summon Yivaswat, who is your father, to this sacrifice; may he seated on the sacred grass (delight the sacrificer).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk too, Yama is prayed to come to this sacrifice together with the Aṅgirases and the other Pitṛs of various forms. And Vivasvat, Yama's father, is invoked. The bhāṣyakāra explains the word वैरूपैः (*vairūpaiḥ*) as विविधरूपयुक्तैर्वैरूपसामप्रियैर्वा (*vividharūpayuktairvairūpasāmapriyairvā*): that is, Pitṛs having forms of various kinds; or, in accord with the Śruti sentence वैरूपग्ं साम भवति (*vairūpagṃ sāma bhavati*), Pitṛs who are fond of hearing the chanting of the special sāman-mantra called Vairūpa.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंगि॑रसो नः पि॒तरो॒ नव॑ग्वा॒ अथ॑र्वाणो॒ भृग॑वः सो॒म्यासः॑ ।  
+> तेषां॑ व॒यं सु॑म॒त् य॒ज्ञिया॑ना॒मपि॑ भ॒द्रे सौ॑मन॒से  ॑
+> स्याम ॥ ६ ॥
+
+### Printed p. 466
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंगिरसः । नः । पितरः । नवग्वाः । अथर्वाणः । भृगवः । सोम्यासः ।  
+> तेषां । वयं । सुमतौ । यज्ञियानां । अपि । भद्रे । सौमनसे । स्याम ॥ ६ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगिरसोऽंगिरोनामका अथर्वाणोऽथर्वनामका भृगवो भृगुनामकाश्च
+> नोऽस्माकं पितरो नवग्वा अभिनवगमनयुक्ताः । यद्वा । नूतनवस्त्रीतिजनका
+> इत्यर्थः । ते च सोम्यासः सोममर्हंतीति सोम्याः । यज्ञियानां यज्ञार्हाणां तेषां सुमतावनुग्रहयुक्तायां बुद्धौ वयं स्याम । सर्वदा तिष्ठेम । अपि
+> च सौमनसे भद्रे सौमनसस्य कारणे कल्याणे फले स्याम । सर्वदा तिष्ठेम ॥
+
+##### Gist of the bhāṣya
+
+The Aṅgirases, Atharvans and Bhṛgus, so named, are our fathers (pitṛs), "नवग्वाः (*navagvāḥ*)": endowed with fresh movement (coming anew); or else, producers of delight through new things. They are "सोम्याः (*somyāḥ*)", worthy of Soma. May we always remain in the favouring mind (sumati) of these sacrifice-worthy ones, and also in the auspicious result that is the cause of good-heartedness (saumanasa).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirases
+- अथर्वाणः (*atharvāṇaḥ*)—the ṛṣis called Atharvans
+- भृगवः (*bhṛgavaḥ*)—the Bhṛgus
+- नवग्वाः (*navagvāḥ*)—givers of fresh vitality
+- नः (*naḥ*)—our
+- पितरः (*pitaraḥ*)—fathers (pitṛs)
+- सोम्यासः (*somyāsaḥ*)—are worthy of the offering of Soma
+- यज्ञियानां (*yajñiyānāṃ*)—worthy of worship
+- तेषां (*teṣāṃ*)—their
+- सुमता (*sumatā*)—in the mind of favour
+- वयं (*vayaṃ*)—we
+- स्याम (*syāma*)—may we be
+- अपि (*api*)—and
+- भद्रे (*bhadre*)—auspicious
+- सौमनसे (*saumanase*)—may we also be worthy of (their) affection
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirases, the ṛṣis called Atharvans, and the Bhṛgus, our fathers, givers of fresh vitality, are worthy of the offering of Soma. May we become worthy of the auspicious favour and affection of those worthy of worship.
+
+##### English translation
+The Angirasas, the Atharvas, the Bhrigus, who are entitled to the Soma, are our recent progenitors; may we ever have a place in the favour of these venerable (pitris); may we be ever held in their auspicious regard.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the words अंगिरसः (*aṃgirasaḥ*), पितरः (*pitaraḥ*), अथर्वाणः (*atharvāṇaḥ*), भृगवः (*bhṛgavaḥ*) in this Ṛk, Yāska has given a nirvacana for the present Ṛk. The Aṅgirases and the others mentioned are Pitṛ-deities.
+
+### Printed p. 467
+They are *mādhyamikas*, that is, Pitṛs of the middle region; Yama is their king. Therefore: माध्यमिकोयम इत्याहुः । तस्मान्माध्यमिकान् पित्थन्मन्यंते (*mādhyamikoyama ityāhuḥ | tasmānmādhyamikān pitthanmanyaṃte*) (Ni. 11-19). It is said that Yama too is a deity of the middle region.
+
+अंगिरसः (*aṃgirasaḥ*)—अंगारेष्टंगिराः । अंगारा अंगनाः (अंचनाः) (*aṃgāreṣṭaṃgirāḥ | aṃgārā aṃganāḥ (aṃcanāḥ)*) Ni. 3-17. The Aṅgirases are very famous ṛṣis. Formerly Prajāpati united with his daughter; the semen that fell from him dropped on the earth and stood in the form of a lake. The gods, wishing to dry it up, set Vaiśvānara fire around it. Then, as that semen blazed in the heat of the fire, first Āditya arose from it, and from the embers there the Aṅgirā ṛṣis, as stated in the Aitareya Brāhmaṇa, which we explained earlier. It is customary to say that these Aṅgirā ṛṣis are very famous Pitṛs. अंगाराः (*aṃgārāḥ*) means embers. After they have gone out and turned black, if one touches them the whole hand becomes sooty (अंचनाः (*aṃcanāḥ*)); hence the name अंगाराः (*aṃgārāḥ*).
+
+पितर: (*pitara:*)—पिता पाता ना पालयिता वा (*pitā pātā nā pālayitā vā*) (Ni. 4-21). The word pitṛ means one who protects or guards. Who the Pitṛs are and what concerns them we have explained at length in the introduction to this sūkta.
+
+अथर्वाण: (*atharvāṇa:*)—The root थर्व (*tharva*) means "to move" (थर्वतिः चरतिकर्मा (*tharvatiḥ caratikarmā*)). The word थर्वणः (*tharvaṇaḥ*) formed from it means those who move. The word अथर्वाणः (*atharvāṇaḥ*) conveys its negation: those who do not move but remain steady, of steady nature.
+
+भृगवः (*bhṛgavaḥ*)—अर्चिषि भृगुः संबभूव । भृगर्भृज्यमानो न देहे (*arciṣi bhṛguḥ saṃbabhūva | bhṛgarbhṛjyamāno na dehe*) (Ni. 3-17). As said above, when Prajāpati's semen was heated by Vaiśvānara fire, the ṛṣi Bhṛgu arose from the flame, as the Aitareya Brāhmaṇa says. Because he shone like a flame he got the name Bhṛgu. The descendants of this ṛṣi are called भृगवः (*bhṛgavaḥ*). They are famous Pitṛ-groups. Now we shall set out Yāska's nirvacana of the present Ṛk:
+
+अंगिरसो नः पितरो नवगतयो नवनीतगतयो वाथर्वाणो भृगवः सोम्याः सोमसंपादिनस्तेषां वयं सुमत्कल्याण्यां मत्कल्याणियानामपि चैषां भद्रे भंदनीये भाजनवति वा कल्याणे मनसि स्यामेति ॥ (*aṃgiraso naḥ pitaro navagatayo navanītagatayo vātharvāṇo bhṛgavaḥ somyāḥ somasaṃpādinasteṣāṃ vayaṃ sumatkalyāṇyāṃ matkalyāṇiyānāmapi caiṣāṃ bhadre bhaṃdanīye bhājanavati vā kalyāṇe manasi syāmeti ‖*) (Ni. 11-19)
+
+Here the Pitṛ-deities अंगिरसः (*aṃgirasaḥ*), पितरः (*pitaraḥ*), भृगवः (*bhṛgavaḥ*), अथर्वाणः (*atharvāṇaḥ*) have been explained above. Now अंगिरसो नः (*aṃgiraso naḥ*)… नवग्वाः (*navagvāḥ*) means नवगतयो नवनीतगतयो वा (*navagatayo navanītagatayo vā*): "of new movement", that is,
+
+### Printed p. 468
+those who come every month or every year to the Pitṛ-sacrifices (śrāddhas) to receive the kavya offering; or those who come with great longing for नवनीत (*navanīta*), butter. Thus Yāska explains the word नवग्वाः (*navagvāḥ*). सोम्याः (*somyāḥ*)—सोमसंपादिनः (*somasaṃpādinaḥ*): those who crush and press the soma plants and prepare the soma juice to offer to the gods. Since in the time of their sacrifices they prepared the soma juice thus, offered it to the gods and thereby obtained an excellent station, they got the name सोम्यासः (*somyāsaḥ*). The chief purport of the Nirukta statement is: may we remain in the excellent, praiseworthy, auspicious, favouring mind of those worship-worthy (or sacrifice-worthy) Pitṛs; that is, may we become worthy of their excellent favour.
+
+माध्यमिको देवगण इति नैरुक्ताः । पितर इत्याख्यानं ॥ (*mādhyamiko devagaṇa iti nairuktāḥ | pitara ityākhyānaṃ ‖*) (Ni. 11-20). The authors of the Nirukta say that the Aṅgirases and the others mentioned belong to the divine group of the middle region (antarikṣa). Others hold that all of them were formerly ṛṣis who obtained an excellent station through their good deeds, and so all of them should be called Pitṛs.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेहि॒ प्रेहि॑ प॒थिभिः॑ पू॒र्व्यभि॒र्यत्रा॑ नः॒ पूर्वे॑ पि॒तरः॑  ॒
+> परेयुः ।  
+> उ॒भा राजा॑ना स्व॒धया॒ मदं॑ता य॒मं प॑श्यासि॒ वरु॑णं च  ॒
+> देवं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । इहि । प्र । इहि । पथिभिः । पूर्व्यभिः । यत्र । नः । पूर्वे । पितरः । पराईयुः ।  
+> उभा । राजाना । स्वधया । मदंता । यमं । पश्यासि । वरुणं । च । देवं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्क्रमध्ये दीक्षितस्य मरणे प्रेहीत्याद्याः पंचर्चस्तृतीयावर्जिता होत्रा
+> शंसनीयाः । सूत्रितं च । प्रेहि प्रेहि पथिभिः पूर्व्यभिरिति पंचानां तृतीयामुद्धरेत् । अ. ६-१० । इति ॥
+> यत्र यस्मिन्स्थाने नोऽस्माकं पूर्वे पुरातनाः पितरः पितामहादयः परेयुः पूर्वेभिः पूर्वस्मिन्काले भवैः । अनादिकालप्रवृत्तैरित्यर्थः । पथि-
+
+**NOTE**
+
+> भिर्मार्गैर्हे मत्सितः तत्स्थानं प्रेहि । प्रगच्छ । शीघ्रं गच्छ । गत्वा च स्वधयामृतान्नेन मदंतौ तृप्यंतौ राजाना राजानापुभोभौ यमं देवं द्योतमानं
+> वरुणं च पश्यासी । पश्य ॥
+
+##### Gist of the bhāṣya
+
+When an initiated sacrificer dies in the midst of a sattra, the five Ṛks beginning प्रेहि (*prehi*), omitting the third, are to be recited by the Hotṛ. It is stated in the sūtra: प्रेहि प्रेहि पथिभिः पूर्व्यभिरिति पंचानां तृतीयामुद्धरेत् (*prehi prehi pathibhiḥ pūrvyabhiriti paṃcānāṃ tṛtīyāmuddharet*) (Ā. Sū. 6-10). "Where" (यत्र (*yatra*)), in which place, our ancient fathers, grandfathers and the rest, went forth; by the former paths, that is, paths that have been in use from beginningless time, go, go quickly, to that place.
+
+### Printed p. 469
+Having gone, see the two kings, Yama the shining god and Varuṇa, delighting (मदंतौ (*madaṃtau*)) in स्वधया (*svadhayā*), the immortal food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O father) यत्र (*yatra*)—by which path
+- नः (*naḥ*)—our
+- पूर्वे (*pūrve*)—ancient
+- पितर: (*pitara:*)—grandfathers and others
+- परेयुः (*pareyuḥ*)—went after death
+- पूर्व्यभिः (*pūrvyabhiḥ*)—beginningless
+- पथिभिः (*pathibhiḥ*)—by those same paths
+- प्रेहि (*prehi*)—set out
+- स्वधया (*svadhayā*)—with the immortal food
+- मदंता (*madaṃtā*)—who have attained satisfaction
+- राजाना (*rājānā*)—and are lords
+- यमं (*yamaṃ*)—Yama
+- देवं (*devaṃ*)—shining
+- वरुणं च (*varuṇaṃ ca*)—and Varuṇa
+- उभा (*ubhā*)—both these
+- पश्यासि (*paśyāsi*)—you will see there
+
+##### भावार्थ (Bhāvārtha)
+
+O father, by the path on which our ancient grandfathers and others went after death, by those same beginningless paths set out. There you will see Yama and the shining Varuṇa, who are satisfied with the immortal food and are lords.
+
+##### English translation
+Depart, depart, by the former paths by which our forefathers have departed; there should you behold the two monarchs Yama and the divine Varuna rejoicing in the Swadha.
+
+##### विशेषविषयगळु (Special Topics)
+
+In a sattra, a sacrifice performed over a long time, if the sacrificer who has undergone the initiation dies before the sacrifice is completed, the Hotṛ should recite the following five Ṛks beginning प्रेहि (*prehi*) (7-11), omitting the third (the 9th). In this matter the sūtra of the Āśvalāyana Śrauta-sūtra is cited: प्रेहि प्रेहि पथिभिः पूर्व्यभिरिति पंचानां तृतीयामुद्धरेत् (*prehi prehi pathibhiḥ pūrvyabhiriti paṃcānāṃ tṛtīyāmuddharet*) (Ā. 6-10).
+
+It should be understood that the seer of this sūkta recited this Ṛk and the next one addressing his dead father, who, while the body was (burning in the fire), had left the earthly body and was in the form of a departed spirit. Therefore, addressing the departed one, he prays: O father, go by the very ancient path by which our elders, famous and deceased in our line, went and reached the world of the Pitṛs. The ancient path means
+
+### Printed p. 470
+the path by which, from beginningless time until now, countless departed ones, dwelling in the departed-spirit body, have gone before and reached the world of the Pitṛs. If you go by such a path you will go to the Pitṛ-world and there see Yama and Varuṇa, the lords of that world, says the seer. It should be understood that the ancient seers believed that in the Pitṛ-world Varuṇa too dwells there besides Yama.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन् ।  
+> हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ संग॑च्छस्व त॒न्वा॑ सु॒वर्चाः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । गच्छस्व । पितृभिः । सं । यमेन । इष्टापूर्तेन । परमे । विओमन् ।  
+> हित्वाय । अवद्यं । पुनः । अस्तं । आ । इहि । सॆं । गच्छस्व । तन्वा । सुवर्चाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीय पितः ततस्त्वं परम उत्कृष्टे व्योमन्वॊमनि स्वर्गाख्ये स्थाने
+> स्वभूतैः पितृभिः सह सं गच्छस्व । इष्टापूर्तेन श्रौतस्मार्तदानफलेन सं गच्छस्व । तत
+> इष्टापूर्तेन सहागम्यावद्यं पापं हित्वा परित्यज्यास्तं वियमानाख्यं गृहमेहि ।
+> आगच्छ । ततः सुवर्चाः । तृतीयार्थे प्रथमा । सुवर्चसा शोभनदीप्तियुक्तेन
+> तन्ना स्वशरीरेण सं गच्छस्व ॥
+
+##### Gist of the bhāṣya
+
+O my father, then, in the supreme, excellent heaven called व्योमन् (*vyoman*), unite with the Pitṛs who are your own. Unite with इष्टापूर्तेन (*iṣṭāpūrtena*), the fruit of the gifts enjoined by Śruti and Smṛti. Then, having come with the इष्टापूर्त (*iṣṭāpūrta*), abandon अवद्यं (*avadyaṃ*), sin, and come to your home called अस्तं (*astaṃ*). Then सुवर्चाः (*suvarcāḥ*) (nominative in the sense of the instrumental) means: unite with your own body, possessed of fair radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O father) परमे (*parame*)—in the supremely excellent
+- व्योमन् (*vyoman*)—heaven-station
+- पितृभिः (*pitṛbhiḥ*)—with the Pitṛs
+- सं गच्छस्व (*saṃ gacchasva*)—unite
+- इष्टापूर्तेन (*iṣṭāpūrtena*)—joined with the fruits that fulfil your desires
+- यमेन (*yamena*)—with Yama
+- सं (*saṃ*)—unite
+- अवद्यं (*avadyaṃ*)—the body that is the root of sin
+- हित्वाय (*hitvāya*)—having abandoned
+- अस्तं (*astaṃ*)—to the excellent home
+- पुनः (*punaḥ*)—again
+- एहि (*ehi*)—come and join
+- सुवर्चाः (*suvarcāḥ*)—having fair radiance
+- तन्वा (*tanvā*)—with the body
+- सं गच्छस्व (*saṃ gacchasva*)—unite
+
+##### भावार्थ (Bhāvārtha)
+
+O father, in the supremely excellent heaven-station unite with the Pitṛs. Unite with Yama, who satisfies your desire. Abandon the body that is the root of sin and come again to the excellent home. Unite with a body of fair radiance.
+
 ---
 
-**Progress note:** Done through printed p. 464. pp. 459-464 (batch API)
+**Progress note:** Done through printed p. 470. pp. 465-470 (batch API)
