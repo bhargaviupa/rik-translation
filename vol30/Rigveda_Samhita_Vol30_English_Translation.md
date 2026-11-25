@@ -2518,6 +2518,255 @@ In explaining this Nirukta it is necessary to take each phrase of this Ṛk sepa
 
 या ओषधयः पूर्वा जाता देवेभ्यस्त्रीणि युगानि पुरा मन्ये (*yā oṣadhayaḥ pūrvā jātā devebhyastrīṇi yugāni purā manye*): the seer says here, "I have understood that the herbs, that is, the plant kingdom of small plants, creepers, vines and so on, were produced, that is, created, three yugas of time before the gods were created." Long before (three yugas before) gods, men or other animals are born on this earth, the plant kingdom that is their food must be produced. For no animals can live without food. The food first
 
+### Printed p. 74
+
+The Lord's rule is to prepare food first and only afterwards to create living beings. Since the gods came into being before men and animals, it is said here that the plants, or herbs, came into being even before those gods, that is, before everyone.
+
+तद्भभूणामहं शतं धामानि सप्त च (*tadbhabhūṇāmahaṃ śataṃ dhāmāni sapta ca*)—For the word बभ्रूणां (*babhrūṇāṃ*) Yāska gives two meanings, हरणानां (*haraṇānāṃ*) or भरणानां (*bharaṇānāṃ*). As to हरणानां (*haraṇānāṃ*): ता हि क्षुदादि हरंति (*tā hi kṣudādi haraṃti*)—these herbs, in the form of food, remove the hunger of living beings. Or बभ्रूणां भरणानां (*babhrūṇāṃ bharaṇānāṃ*): these herbs, being of a brown (babhru) colour, are bearers, भर्त्रस्ताः सर्वस्यभूतग्रामस्य वा (*bhartrastāḥ sarvasyabhūtagrāmasya vā*)—they bear the whole multitude of living beings; that is, by supplying food they nourish them and make it possible for them to live. In the phrase शतं धामानि सप्त च (*śataṃ dhāmāni sapta ca*), for the word धामानि (*dhāmāni*) Yāska says: धामानि त्रयाणि भवंति स्थानानि नामानि जन्मानीति (*dhāmāni trayāṇi bhavaṃti sthānāni nāmāni janmānīti*). धामानि (*dhāmāni*) means places; they are three: places, names, births. That is, the herbs are born in a hundred and seven places or regions. शतं सप्त च (*śataṃ sapta ca*) may be the definite number one hundred and seven; or the word शत (*śata*) may be taken to mean "many": these herbs are born and grow in many places (earth, mountains, river banks and many other regions). Likewise the names of these herbs are a hundred and seven, or of many kinds. "Births" means that the manner of their birth or growth is also of many kinds: some are small, some large; some spread and grow as creepers; some grow slowly, some quickly, and so on. The meaning is that they are of many kinds in form, in quality and in manner of growth.
+
+Or the phrase शतं धामानि सप्त च (*śataṃ dhāmāni sapta ca*) is also to be understood as Yāska says: जन्मान्यत्राभिप्रेतानि सप्तशतं पुरुषस्य मर्मणां तेष्टेना दधतीति ना (*janmānyatrābhipretāni saptaśataṃ puruṣasya marmaṇāṃ teṣṭenā dadhatīti nā*). Besides the variety in the origin and growth of the herbs, there is variety also in the manner of using them. By applying these herbs to the seven hundred vital or joint places of the human body and so treating it, the seer describes them as having "a hundred and seven" (here, seven hundred and seven), or many kinds of use in treatment and the like. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं वो॑ अंब॒ धामा॑नि स॒हस्र॑मु॒त वो॒ रुहः॑ ।  
+> अधा॑ शतक्रत्वो यू॒यमि॒मं मे॑ अग॒दं कृ॑त ॥ २ ॥
+
+### Printed p. 75
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । वः । अंब । धामानि । सहस्रं । उत । वः । रुहः ।  
+> अध । शतक्रत्वः । यूयं । इमं । मे । अगदं । कृत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंब मातर ओषधयः वो युष्माकं धामानि स्थानानि जन्मानि वा शतमपरिमितानि । उतापि च वो युष्माकं रुहः प्ररोहः प्रोद्गमः सहस्रमपरिमितः ।
+> अधापि च हे शतक्रत्वः शतकर्माणः यूयमिमं मे मां मदीयं ना जनमामयग्रस्तमगदं । गदो रोगः । तद्रहितं कृत । कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O mothers, herbs! Your places, or births, are a hundred, that is, unlimited; and your growth, your sprouting forth, is a thousand, also unlimited. And, O you of a hundred works (शतक्रत्वः (*śatakratvaḥ*)), make this my person, or my kin, who is seized by disease, अगदं (*agadaṃ*), that is free from गद (*gada*), which is disease.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंब (*aṃba*)—O herbs, who are of the form of mothers
+- वः (*vaḥ*)—your
+- धामानि (*dhāmāni*)—birth-places (or uses)
+- शतं (*śataṃ*)—are unlimited
+- उत (*uta*)—and
+- वः (*vaḥ*)—your
+- रुहः (*ruhaḥ*)—growth also
+- सहस्रं (*sahasraṃ*)—is exceedingly great
+- शतक्रत्वः (*śatakratvaḥ*)—O herbs of many works
+- यूयं (*yūyaṃ*)—you
+- मे (*me*)—my
+- इमं (*imaṃ*)—these sons and others
+- अगदं (*agadaṃ*)—free from disease
+- कृत (*kṛta*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O herbs, who are of the form of mothers, your birth-places are unlimited. Your growth too is exceedingly great. O herbs, who are used in many works, make my sons and other people free from disease.
+
+##### English translation
+Mothers (of mankind), a hundred are your applications, a thousandfold is your growth; do you who fulfil a hundred functions make this my (people) free from disease.
+
+##### विशेषविषयगळु (Special Topics)
+
+शतक्रत्वः (*śatakratvaḥ*)—शत (*śata*) means many, क्रतु (*kratu*) means work, deed. Hence शतक्रत्वः (*śatakratvaḥ*) means that these herbs are useful for many tasks. The meaning is that they are used in various works.
+
+### Printed p. 76
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओष॑धीः॒ प्रति॑ मोदध्वं॒ पुष्प॑वतीः प्र॒सूव॑रीः ।  
+> अश्वा॑ इव स॒जित्व॑रीर्वी॒रुधः॑ पारयि॒ष्ण्वः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओषधीः । प्रति । मोदध्वं । पुष्पवतीः । प्रसूवरीः ।  
+> अश्वाः इव । सजित्वरीः । वीरुधः । पारयिष्णुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधीरोषधयः प्रति मोदध्वं । इमं रुग्णं प्रति मुदिता हृष्टा
+> भवत । कीदृश्यो यूयं । पुस्पवतीः पुष्पवत्यः प्रसूवरीः । प्रकर्षेण सूयंत
+> उपभोगायेति प्रसवाः फलानि । तद्वत्यः किंचाश्वा इवाश्नुवाना हया इव
+> सजित्वरीः सह रोगं जयंत्यः वीरुधो विरोहंत्यः पारयिष्णो रुग्णं पुरुषं
+> पारयंत्यो रोगात् ॥
+
+##### Gist of the bhāṣya
+
+O herbs, rejoice towards this sick man; be glad. What are you like? पुष्पवतीः (*puṣpavatīḥ*), flowered; प्रसूवरीः (*prasūvarīḥ*), that is, bearing fruits, which are "brought forth" (प्रसवाः (*prasavāḥ*)) for enjoyment, and possessing them. Moreover, like horses that pervade (अश्वा इव (*aśvā iva*)), सजित्वरीः (*sajitvarīḥ*), together conquering disease; वीरुधः (*vīrudhaḥ*), growing in many ways; पारयिष्णो (*pārayiṣṇo*), carrying the sick man across, out of disease.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधीः (*oṣadhīḥ*)—O herbs
+- पुष्पवतीः (*puṣpavatīḥ*)—you who are possessed of flowers
+- प्रसूवरीः (*prasūvarīḥ*)—and abundantly fruitful
+- अश्वाइव (*aśvāiva*)—like horses
+- सजित्वरीः (*sajitvarīḥ*)—conquering disease
+- वीरुधः (*vīrudhaḥ*)—having the growth of many branches
+- पारयिष्ण्वः (*pārayiṣṇvaḥ*)—carrying all across out of disease
+- प्रति मोदध्वं (*prati modadhvaṃ*)—be givers of joy
+
+##### भावार्थ (Bhāvārtha)
+
+O herbs, you who are possessed of flowers and abundantly fruitful, being like horses conquerors of disease, having the growth of many branches, and carrying all across out of disease, be givers of joy.
+
+##### English translation
+Rejoice, plants, bearing abundant flowers and fruit, triumphing together (over disease) like (victorious) horses, sprouting forth, bearing (men safe) beyond (disease).
+
+### Printed p. 77
+
+##### विशेषविषयगळु (Special Topics)
+
+पुष्पवती प्रसूवरीः (*puṣpavatī prasūvarīḥ*)—herbs that bear flowers and bear fruits.
+
+अश्वा इव सजित्वरीः (*aśvā iva sajitvarīḥ*)—As horses bring about victory in battles, so these herbs conquer, that is, remedy, diseases and other afflictions.
+
+वीरुधः (*vīrudhaḥ*)—For the word वीरुध (*vīrudha*) Yāska gives the etymology: वीरुध ओषधयो भवंति विरोहणात्। वीरुधः पारयिष्णवः इत्यपि निगमो भवति । (*vīrudha oṣadhayo bhavaṃti virohaṇāt| vīrudhaḥ pārayiṣṇavaḥ ityapi nigamo bhavati |*) वीरुधः (*vīrudhaḥ*) means herbs. Because they are born and grow in the earth they are called वीरुधः (*vīrudhaḥ*), herbs; this is the explanation of the word. (Ni. 6-3). **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओष॑धी॒रिति॑ मातर॒स्तद्वो॑ देवी॒रुप॑ब्रुवे ।  
+> स॒नेय॒मश्वं॒ गां वास॑ आ॒त्मानं॒ तव॑ पूरुष ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओषधीः । इति । मातरः । तत् । वः । देवीः । उप । ब्रुवे ।  
+> सनेयं । अश्वं । गां । वासः । आत्मानं । तव । पूरुष ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधीरोषधयो देवीर्देव्यो द्योतनादिगुणका हे मातरो
+> जनानां मातृभूताः । मातृवद्धितकारित्वान्मातृत्वोपचारः । अथवा मातर अरोग्यनिर्मात्रैः वो युष्माकं संबंधिनं भिषजं तद्वक्ष्यमाणमितीत्थमुप ब्रुवे ।
+> उपब्रवीमि । किं तदिति चेत् उच्यते । ओषध्यर्थमहमश्वं गां पासोंशुकं किं
+> बहुनात्मानमपि हे पुरुष चिकित्सक तव तुभ्यं सनेयं । ददामि ॥
+
+##### Gist of the bhāṣya
+
+O herbs, divine (देवीः (*devīḥ*), having the quality of shining and the like), O mothers, being mothers of people; the designation "mother" is figurative, since they benefit as a mother does. Or else मातरः (*mātaraḥ*) means makers of health. I speak to you thus about your physician, what is to be said. If it is asked what that is: for the sake of the herbs I give to you, O man, O healer, a horse, a cow, a cloak, and, what need of more, even myself.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवीः (*devīḥ*)—divine in nature
+- मातरः (*mātaraḥ*)—like mothers to people
+- ओषधीः (*oṣadhīḥ*)—O herbs
+- वः (*vaḥ*)—your greatness
+- तत् इत् (*tat it*)—as will be said hereafter
+- उप ब्रुवे (*upa bruve*)—I praise
+- पुरुष (*puruṣa*)—O physician
+- तव (*tava*)—to you
+- अश्वं (*aśvaṃ*)—a horse
+- गाः (*gāḥ*)—cows
+- वासः (*vāsaḥ*)—garments
+- आत्मानं (*ātmānaṃ*)—even my (service)
+- सनेयं (*saneyaṃ*)—I offer
+
+### Printed p. 78
+
+##### भावार्थ (Bhāvārtha)
+
+O herbs, divine in nature and like mothers to people, I praise your greatness as will be said hereafter. O physician, I offer to you a horse, cows, garments, and finally even my service.
+
+##### English translation
+Plants! thus I hail you, the mothers (of mankind). I will give to you, oh physician, a horse, a cow, a garment—even myself.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्व॒त्थे वो॑ नि॒षद॑नं प॒र्णे वो॑ वस॒तिष्कृ॒ता ।  
+> गो॒भाज॒ इत्किला॑सथ॒ यत्स॒नव॑थ॒ पूरु॑षं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वत्थे । वः । निसदनं । पर्णे । वः । वसतिः । कृता ।  
+> गोऽभाजः । इत् । किल । असथ । यत् । सनवथ । पुरुषं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधिदेवताः वो युष्माकमश्वत्थे निषदनं नितरां वर्तनं । तथा वो
+> युष्माकं पर्णे पलाशे वसतिर्निवासः कृता । तृतीयस्यामितो दिवि सोम आसीत्तं
+> गायत्राहरत्तस्य पर्णमच्छिद्यत तत्पर्णोऽभवत् तत्पर्णस्य पर्णत्वमिति । तै. ब्रा.
+> १-१-३-१० । ब्राह्मणात्पलाशस्य पर्णत्वप्रसिद्धिः । अश्वत्थपलाशयोर्यज्ञयोग्यत्वप्राधान्यापेक्षयोपादानं । किंच गोभाज इत्किल गवां भाजयित्र्य एवासथ ! भवथ
+> खलु । यद्यदि सनवथ संभजद्वे पुरुषं तर्ह्येवं भवथेति ॥ वन षण संभक्तौ ।
+> लेट्यडागमः ! व्यत्ययेनोप्रत्ययॆः । यद्वा! औत्सर्गिकः शष्टेति द्विविकरणता ॥
+
+##### Gist of the bhāṣya
+
+O herbal deities, your sitting-place is in the अश्वत्थ (*aśvattha*) (pipal), your constant abiding; and your dwelling is made in the पर्ण (*parṇa*), the पलाश (*palāśa*). He cites: तृतीयस्यामितो दिवि सोम आसीत्तं गायत्राहरत्तस्य पर्णमच्छिद्यत तत्पर्णोऽभवत् तत्पर्णस्य पर्णत्वमिति (*tṛtīyasyāmito divi soma āsīttaṃ gāyatrāharattasya parṇamacchidyata tatparṇo 'bhavat tatparṇasya parṇatvamiti*) (Tai. Brā. 1-1-3-10); from this Brāhmaṇa the name पर्ण (*parṇa*) for the palāśa is established. The अश्वत्थ (*aśvattha*) and the palāśa are mentioned because of their pre-eminent fitness for sacrifice. Further, गोभाज इत्किल (*gobhāja itkila*): you indeed become the givers of cows' share, if you favour the man (physician).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O herbal deities) वः (*vaḥ*)—your
+- निषदनं (*niṣadanaṃ*)—abode
+- अश्वत्थे (*aśvatthe*)—in the pipal tree
+- वः (*vaḥ*)—your
+- वसतिः (*vasatiḥ*)—dwelling-place
+- पर्णॆ (*parṇè*)—in the palāśa
+- कृता (*kṛtā*)—is fixed
+
+### Printed p. 79
+
+- यत् (*yat*)—when
+- पुरुषं (*puruṣaṃ*)—to the physician who resorts to us
+- सवनथ (*savanatha*)—you show favour
+- गोभाज इत् किल (*gobhāja it kila*)—to him you are indeed givers of cows
+- असथ (*asatha*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O herbal deities, your abode is in the pipal tree and your dwelling in the palāśa (the Butea). When you favour the physician who resorts to you, then you are indeed givers of cows to him.
+
+##### English translation
+Your abode is in the Ashwatha, your dwelling is established in the Palasa, you are assuredly the distributors of cattle, insmuch as you bestow them on the physician.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रौष॑धीः स॒मग्म॑ृत॒ राजा॑नः॒ समि॑ताविन ।  
+> विप्रः॒ स उ॑च्यते भि॒षग्र॑क्षो॒हामि॑व॒ाचात॑नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । ओषधीः । संअग्मत । राजानः । समितौ इव ।  
+> विप्रः । सः । उच्यते । भिषक् । रक्षःहा । अमीवचातनः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्देश ओषधीरोषधयः समग्मत संगच्छंते । राजानः समिताविव
+> संग्रामे यथा संगता भवंति तद्वत् । तासां नानाविधानामोषधीनां संगमनं
+> यस्मिन्देशेऽस्ति तत्र विप्रः प्राज्ञो ब्राह्मणो भिषगुच्यते रक्षोहा रक्षोहंता ।
+> अमीवाचातनः । अमीवा व्याधिः । तस्य चातनश्चातयिता नाशयिता च भवति तदानीं ॥
+
+##### Gist of the bhāṣya
+
+In whatever region the herbs come together, as kings gather in a battle, as they are assembled there; in whatever region there is such a meeting of the many kinds of herbs, there the learned Brāhmaṇa, the wise man, is called a physician: slayer of demons (रक्षोहा (*rakṣohā*)) and अमीवाचातनः (*amīvācātanaḥ*), अमीवा (*amīvā*) being disease, he becomes its driver-away and destroyer then.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समितौ (*samitau*)—in battle
+- राजान इव (*rājāna iva*)—as kings assembled
+- यत्र (*yatra*)—in whatever region
+- ओषधीः (*oṣadhīḥ*)—herbs
+- समग्मत (*samagmata*)—are gathered together, there
+- विप्रः (*vipraḥ*)—the wise man
+- भिषक् (*bhiṣak*)—as a physician
+- उच्यते (*ucyate*)—is called
+- सः (*saḥ*)—he
+- रक्षोहा (*rakṣohā*)—is the destroyer of demons
+- अमीवचातनः (*amīvacātanaḥ*)—and the destroyer of disease
+
 ---
 
-**Progress note:** Done through printed p. 73. pp. 68-73 (batch API)
+**Progress note:** Done through printed p. 79. pp. 74-79 (batch API)
