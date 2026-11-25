@@ -874,6 +874,114 @@ As soon as the Adhvaryu directs Maitrāvaruṇa, by means of the Praiṣa mantra
 
 7. अयं ते स्तोमो अग्रियो हृदिस्पृशस्तु शंतमः । अथा सोमं सुतं पिब ॥ (*ayaṃ te stomo agriyo hṛdispṛśastu śaṃtamaḥ | athā somaṃ sutaṃ piba ‖*) **GLOSS**
 
+### Printed p. 51
+
+8. विश्वमित्सवनं सुतमिंद्रो मदाय गच्छति । वृत्रहा सोमपीतये ॥ (*viśvamitsavanaṃ sutamiṃdro madāya gacchati | vṛtrahā somapītaye ‖*) **GLOSS**
+
+9. सेमं नः काममा पृण गोभिरश्वैः शतक्रतो । स्तवाम त्वा स्वाध्यः ॥ (*semaṃ naḥ kāmamā pṛṇa gobhiraśvaiḥ śatakrato | stavāma tvā svādhyaḥ ‖*) (Ṛ. Saṃ. 1-16-1 to 9) **GLOSS**
+
+Maitrāvaruṇa recites the above sūkta in this way. For what purpose this sūkta is to be used at the time of the Prātaḥsavana, and what special feature this sūkta has with regard to the savana, will now be explained.
+
+आ त्वा वहंतु हरय इति प्रातःसवन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धाः । (*ā tvā vahaṃtu haraya iti prātaḥsavana unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatī rūpasamṛddhāḥ |*) (I. Brā. 25-9) **NOTE**
+
+All nine Ṛks in this sūkta are in the Gāyatrī metre. And in the Ṛks of this sūkta there is use of words such as वृष (*vṛṣa*), सुत (*suta*) and मद (*mada*), which are used in connection with the drinking of Soma. In the second pāda of the first Ṛk, in वृषणं सोमपीतॆये (*vṛṣaṇaṃ somapītèye*), there is use of the words वृष (*vṛṣa*) and पीत (*pīta*). In the sentence सुते हि त्वा हवामहे (*sute hi tvā havāmahe*) **NOTE** in the fourth Ṛk, the word सुत (*suta*) is read. In the sentence इंद्रो मदाय गच्छति (*iṃdro madāya gacchati*) in the eighth Ṛk, the word मद (*mada*) is found. If all these words are not in every Ṛk, they are read many times here and there in the whole sūkta. The idea that Indra, the giver of rain, drinks the Soma juice and rains is expressed by the four words वृषण (*vṛṣaṇa*), सुत (*suta*), सोम (*soma*) and मदाय (*madāya*). Therefore this sūkta is abundant in form (रूपसमृद्धाः (*rūpasamṛddhāḥ*)) with regard to Indra's drinking of Soma. Abundance of form means this: when one speaks with reference to a particular matter, the mantras used there must contain the meaning that explains that matter. Thus, to use on the proper occasion, in the respective rites, mantras that contain words indicating the explanation and meaning of the respective rites is what is called abundance of form.
+
+ऐंद्रीरन्वाहैंद्रो वै यज्ञो गायत्रीरन्वाह गायत्रं वै प्रातस्सवनं नव न्यूनाः प्रातस्सवनेऽन्वाह न्यूने वै रेतः सिच्यते । (*aiṃdrīranvāhaiṃdro vai yajño gāyatrīranvāha gāyatraṃ vai prātassavanaṃ nava nyūnāḥ prātassavane 'nvāha nyūne vai retaḥ sicyate |*)
+
+This sūkta has Indra as its deity. That is, in this sūkta it is prayed that Indra should come to the sacrificial hall and drink the Soma. Therefore all the Ṛks in this sūkta are in praise of Indra alone. Here a doubt now arises. In a sacrifice made for Indra it is indeed proper to recite a sūkta and Ṛks that have Indra as their deity. But since this rite called Prātaḥsavana is
+
+### Printed p. 52
+
+performed in other sacrifices as well, must a sūkta and Ṛks directed to other deities be recited in those sacrifices? The answer is, no. In all sacrifices, that is, also in sacrifices made for deities other than Indra, this very sūkta that has Indra as its deity must be recited. For, since there is the Śruti statement इंद्रो वै यज्ञः (*iṃdro vai yajñaḥ*), that is, Indra himself is the sacrifice, or the sacrifice is of the nature of Indra, it is proper to recite this sūkta, whose deity is Indra, at the time of the savana in any sacrifice whatever; this is the meaning. Then, let us agree that the recitation of a sūkta with Indra as deity is proper in all sacrifices. But why must mantras of the Gāyatrī metre alone be recited? The answer: in Śruti sentences such as गायत्रं वै प्रातस्सवनं (*gāyatraṃ vai prātassavanaṃ*) and प्रातस्सवने वै गायत्रेण छंदसा (*prātassavane vai gāyatreṇa chaṃdasā*) (Tai. Saṃ. 7-1-2-1) there is the injunction that the Prātaḥsavana rite is to be performed by the recitation of mantras of the Gāyatrī metre alone; therefore it is proper to use at the time of the Prātaḥsavana the Unnīyamāna sūkta mentioned above, आ त्वा वहंतु हरयः (*ā tvā vahaṃtu harayaḥ*), which contains Ṛks of the Gāyatrī metre, and likewise the seven mantras of the Gāyatrī metre, beginning इदं ते सोम्यं मधु (*idaṃ te somyaṃ madhu*), which the seven Ṛtvijs beginning with the Hotṛ use as yājyā mantras (offering mantras). Besides this, another matter here deserves consideration. For the Unnīyamāna sūkta there is the rule that a sūkta of nine Ṛks is to be recited at the Prātaḥsavana, a sūkta of ten Ṛks at the Mādhyandina-savana, and again a sūkta of nine Ṛks at the third savana. In this arrangement the sūkta recited at the Prātaḥsavana has one Ṛk less than the one recited at the Mādhyandina-savana. Since there is thus one Ṛk less, will not a deficiency arise in the sacrificial rite, and will not harm come to the sacrificer who performs the sacrifice? The answer is that there is no room for that. In worldly life, even if the semen deposited at the time of conception is very small in quantity, no deficiency arises thereby in the begetting of offspring. In the same way, even though the Prātaḥsavana has one Ṛk less than the Mādhyandina, there is no reason, through the power of the mantra, for a deficiency to arise in the sacrificial rite or for harm to come to the sacrificer; this is the meaning.
+
+दश मध्यंदिनेऽन्वाह न्यूने वै रेतः सिक्तंमध्यं स्त्रियै प्राप्य स्थविष्ठं भवति ॥ (*daśa madhyaṃdine 'nvāha nyūne vai retaḥ siktaṃmadhyaṃ striyai prāpya sthaviṣṭhaṃ bhavati ‖*)
+
+Next, the sūkta that is recited at the Mādhyandina-savana will be explained. At the Mādhyandina-savana the sūkta असावि देवं गोऋजीकमंधः (*asāvi devaṃ goṛjīkamaṃdhaḥ*) (Ṛ. Saṃ. 7, the 21st sūkta) is to be recited as the Unnīyamāna sūkta.
+
+**The Unnīyamāna Sūkta to be Recited at the Time of the Mādhyandina-savana**
+
+1. आसावि देवं गोऋजीकमंधो न्यस्मिन्निंद्रो जनुषेमुवोच । बोधामसि त्वा हर्यश्व यज्ञैर्बोधा नः स्तोममाधसो मदेषु ॥ (*āsāvi devaṃ goṛjīkamaṃdho nyasminniṃdro januṣemuvoca | bodhāmasi tvā haryaśva yajñairbodhā naḥ stomamādhaso madeṣu ‖*) **GLOSS**
+
+### Printed p. 53
+
+2. प्र यंति यज्ञं विषयंति बर्हिः सोमवादो विदथे दुध्रवाचः । (*pra yaṃti yajñaṃ viṣayaṃti barhiḥ somavādo vidathe dudhravācaḥ |*) **NOTE** **GLOSS**
+
+3. त्वमिंद्र स्रवितना अपस्कृः परिष्ठिता अहिना शूर पूर्विः । (*tvamiṃdra sravitanā apaskṛḥ pariṣṭhitā ahinā śūra pūrviḥ |*) त्वद्वावक्रे रथोऽन धेना रेजंते विश्वा कृत्रिमाणि भीषा (*tvadvāvakre ratho 'na dhenā rejaṃte viśvā kṛtrimāṇi bhīṣā*) **GLOSS**
+
+4. भीनो विवेषायुधेभिरेषामपांसि विश्वा नर्याणि विद्वान् । (*bhīno viveṣāyudhebhireṣāmapāṃsi viśvā naryāṇi vidvān |*) इंद्रः पुरो जर्हृषाणो वि दूधोद्वि वज्रहस्तो महिना जघान (*iṃdraḥ puro jarhṛṣāṇo vi dūdhodvi vajrahasto mahinā jaghāna*) **GLOSS**
+
+5. न यातव इंद्र जूजुवुर्नो न वंदना शविष्ठ वेद्याभिः । (*na yātava iṃdra jūjuvurno na vaṃdanā śaviṣṭha vedyābhiḥ |*) स शर्धदयो विषुणस्य जंतोर्मा शिश्नदेवा अपि गुऋतं नः (*sa śardhadayo viṣuṇasya jaṃtormā śiśnadevā api guṛtaṃ naḥ*) **GLOSS**
+
+6. अभि क्रत्वेंद्र भूरद ज्मन् न ते विव्यज् महिमानं रजांसि । (*abhi kratveṃdra bhūrada jman na te vivyaj mahimānaṃ rajāṃsi |*) स्वेना हि वृत्तं शवसा जघंथ न शत्रुरंतं विविदद्युद्धाते (*svenā hi vṛttaṃ śavasā jaghaṃtha na śatruraṃtaṃ vividadyuddhāte*) **GLOSS**
+
+7. देवाश्चित्ते असुर्याय पूर्वेनु क्षत्राय ममिरे सहांसि । (*devāścitte asuryāya pūrvenu kṣatrāya mamire sahāṃsi |*) इंद्रो मघानि दयते विष्णेंद्रं वाजस्य जोहुवंत सातौ (*iṃdro maghāni dayate viṣṇeṃdraṃ vājasya johuvaṃta sātau*) **GLOSS**
+
+8. कीरिश्चिद्धि त्वामवसे जुहावेशानमिंद्र सौभगस्य भूरेः । (*kīriściddhi tvāmavase juhāveśānamiṃdra saubhagasya bhūreḥ |*) अवो बभूथ शतमूते अस्मे अभिक्षत्तु स्त्यावतो वरूता (*avo babhūtha śatamūte asme abhikṣattu styāvato varūtā*) **GLOSS**
+
+9. सखायस्त इंद्र विश्वह स्याम नमोवृघासो महिना तॆरुत्र । (*sakhāyasta iṃdra viśvaha syāma namovṛghāso mahinā tèrutra |*) वन्वंतु स्मा तेऽवसा समीकेऽभीतिमर्यो वनुषां शवांसि (*vanvaṃtu smā te 'vasā samīke 'bhītimaryo vanuṣāṃ śavāṃsi*) **GLOSS**
+
+10. स न इंद्र श्रयतामया इषे धास्त्मना च ये मघवानो जुनंति । (*sa na iṃdra śrayatāmayā iṣe dhāstmanā ca ye maghavāno junaṃti |*) वस्वी षु ते जरित्रॆ अस्तु शक्तियूयं पात स्वस्तिभिः सदा नः (*vasvī ṣu te jaritrè astu śaktiyūyaṃ pāta svastibhiḥ sadā naḥ*) **GLOSS**
+
+The Ṛks of this sūkta are in the Triṣṭup metre, and there are ten Ṛks in this sūkta. Here too the example of the embryo is given. In the world, the semen of small quantity that is deposited in the small womb of a woman reaches the middle part of the woman's body, grows in the form of an embryo and becomes a very large child; in the same way, this sūkta of ten Ṛks, recited at this Mādhyandina-savana, which stands in the middle of the three savanas and is of the form of the place of the embryo, produces abundance of fruit; this is the meaning.
+
+नव न्यूनास्तृतीयसवनेऽन्वाह न्यूनाद्वै प्रजाः प्रजायंते ॥ (*nava nyūnāstṛtīyasavane 'nvāha nyūnādvai prajāḥ prajāyaṃte ‖*)
+
+At the time of the third savana, the sūkta इहोप यात शवसो नपातः (*ihopa yāta śavaso napātaḥ*) (Ṛ. Saṃ. 4-35-1) is to be recited as the Unnīyamāna sūkta.
+
+### Printed p. 54
+
+**The Unnīyamāna Sūkta to be Recited at the Time of the Third Savana**
+
+1. इहोप यात शवसो नपातः सौधन्वना ऋभवो माप भूत । अस्मिन् हि वः सवने रत्नधेयं गमंत्विंद्रमनु वो मदासः ॥ (*ihopa yāta śavaso napātaḥ saudhanvanā ṛbhavo māpa bhūta | asmin hi vaḥ savane ratnadheyaṃ gamaṃtviṃdramanu vo madāsaḥ ‖*) **NOTE** **GLOSS**
+
+2. आगन्नभूणामिह रत्नधेयमभूत्सोमस्य सुषुतस्य प्रीतिः । सुकृत्यया यत्स्वपस्यया च एकं विचक्र चमसं चतुर्धा ॥ (*āgannabhūṇāmiha ratnadheyamabhūtsomasya suṣutasya prītiḥ | sukṛtyayā yatsvapasyayā ca ekaṃ vicakra camasaṃ caturdhā ‖*) **GLOSS**
+
+3. व्यकृणोत चमसं चतुर्धा सखे वि शिक्षेत्यब्रवीत । अथैत वाजा अमृतस्य पंथां गणं देवानामृभवः सुहस्ताः ॥ (*vyakṛṇota camasaṃ caturdhā sakhe vi śikṣetyabravīta | athaita vājā amṛtasya paṃthāṃ gaṇaṃ devānāmṛbhavaḥ suhastāḥ ‖*) **GLOSS**
+
+4. किंमयः स्विच्चमस एष आस यं काव्यन चतुरो विचक्र । अथा सुनुध्वं सवनं मदाय पात ऋभवो मधुनः सोम्यस्य ॥ (*kiṃmayaḥ sviccamasa eṣa āsa yaṃ kāvyana caturo vicakra | athā sunudhvaṃ savanaṃ madāya pāta ṛbhavo madhunaḥ somyasya ‖*) **GLOSS**
+
+5. शच्याकर्त पितरा युवाना शच्याकर्त चमसं देवपानं । शच्या हरी धनुशरावतष्टेंद्रवाहावृभवो वाजरत्नाः ॥ (*śacyākarta pitarā yuvānā śacyākarta camasaṃ devapānaṃ | śacyā harī dhanuśarāvataṣṭeṃdravāhāvṛbhavo vājaratnāḥ ‖*) **GLOSS**
+
+6. यो वः सुनोत्यभिपित्वे आह्न्यां तीव्रं वाजसः सवनं मदाय । तस्मै रयिमृभवः सर्ववीरमा तक्षत वृषणो मंदसानाः ॥ (*yo vaḥ sunotyabhipitve āhnyāṃ tīvraṃ vājasaḥ savanaṃ madāya | tasmai rayimṛbhavaḥ sarvavīramā takṣata vṛṣaṇo maṃdasānāḥ ‖*) **GLOSS**
+
+7. प्रातः सुतमपिबो हर्यश्व माध्यंदिनं सवनं केवलं ते । समृभुभिः पिबस्व रत्नधेभिः सखीर्या इंद्र चकृषे सुकृत्या ॥ (*prātaḥ sutamapibo haryaśva mādhyaṃdinaṃ savanaṃ kevalaṃ te | samṛbhubhiḥ pibasva ratnadhebhiḥ sakhīryā iṃdra cakṛṣe sukṛtyā ‖*) **GLOSS**
+
+8. ये देवासो अभवता सुकृत्या शैना इवेदधि दिवि निषेध । ते रत्नं धात शवसो नपातः सौधन्वना अभवतामृतासः ॥ (*ye devāso abhavatā sukṛtyā śainā ivedadhi divi niṣedha | te ratnaṃ dhāta śavaso napātaḥ saudhanvanā abhavatāmṛtāsaḥ ‖*) **GLOSS**
+
+9. यत्तृतीयं सवनं रत्नधेयमकृणुध्वं स्वपस्या सुहस्ताः । तदृभवः परिषिक्तं व एतत्वं मदेभरिंद्रियेभिः पिबध्वं ॥ (*yattṛtīyaṃ savanaṃ ratnadheyamakṛṇudhvaṃ svapasyā suhastāḥ | tadṛbhavaḥ pariṣiktaṃ va etatvaṃ madebhariṃdriyebhiḥ pibadhvaṃ ‖*) (Ṛ. Saṃ. 4-35-1 to 9) **GLOSS**
+
+In this sūkta also, as in the sūkta recited at the Prātaḥsavana, there are nine Ṛks. All these Ṛks ought to be in the Jagatī metre. (But it is not so; they are in the Triṣṭup metre.) If the nine Ṛks of this third savana are compared with the ten Ṛks of the sūkta of the Mādhyandina-savana, a deficiency of one Ṛk is seen here too, that is, it is less. In the world it is well known that the offspring (children) born through a small, that is, narrow, passage grow up to maturity (become big). Therefore a deficiency of mantras is suitable for the production of an embryo, and there is also the Taittirīya Śruti sentence न्यूनाद्दि प्रजाः प्रजायंते (*nyūnāddi prajāḥ prajāyaṃte*) **NOTE**.
+
+### Printed p. 55
+
+तद्यदेतानि केवलसूक्तान्यन्वाहा यजमानमेव तद्गर्भं भूतं प्रजनयति यज्ञादेवयोन्यै । (*tadyadetāni kevalasūktānyanvāhā yajamānameva tadgarbhaṃ bhūtaṃ prajanayati yajñādevayonyai |*)
+
+There are differences of opinion about the manner of reciting these Unnīyamāna sūktas. How? One view is that all the Ṛks in the sūkta are to be recited. Another view is that, since the seven Ṛtvijs take the chief part in these savanas, only seven Ṛks in all are to be recited in each sūkta, one Ṛk for each Ṛtvij. Of these two views, the manner that prescribes the recitation of the complete sūkta is the proper one. For it is well known that the sacrificer, who has the nature of a complete embryo, is brought into being through the divine womb which is of the form of the sacrifice; that is, by the recitation of the complete sūkta the rite is carried out completely and the sacrificer too obtains the full fruit of the sacrifice; this is the meaning. Therefore the manner of reciting the complete sūkta is the proper one.
+
+ते हैके सप्त सप्तान्वाहुः सप्त प्रातःसवने सप्त माध्यंदिने सवने सप्त तृतीयसवने यावत्यो वै पुरोनुवाक्यास्तावत्यो याज्याः सप्त वै प्रांचो यजंति सप्त वषट्कुर्वंति तासामेता पुरोनुवाक्या इति वदंतः ॥ (*te haike sapta saptānvāhuḥ sapta prātaḥsavane sapta mādhyaṃdine savane sapta tṛtīyasavane yāvatyo vai puronuvākyāstāvatyo yājyāḥ sapta vai prāṃco yajaṃti sapta vaṣaṭkurvaṃti tāsāmetā puronuvākyā iti vadaṃtaḥ ‖*)
+
+Having explained the first difference of opinion, he now states the nature of the second. According to the order in sacrifices and the like, in all the three savanas beginning with the Prātaḥsavana seven Ṛtvijs take part: Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsī, Neṣṭṛ, Potṛ, Āgnidhra and Acchāvāka. The yājyā mantras that each of them recites, one mantra each, make seven when taken together. Ordinarily, before reciting each yājyā mantra (the mantra of offering), the mantra called पुरोनुवाक्या (*puronuvākyā*) must be recited in order to invite the deity. Therefore it follows that there must be exactly as many पुरोनुवाक्या (*puronuvākyā*) mantras as there are yājyā mantras. Since in each savana, beginning with the Prātaḥsavana, the seven Ṛtvijs recite only seven yājyā mantras, only seven Ṛks of the Unnīyamāna sūkta, which is recited before them, would have to be recited for the पुरोनुवाक्या (*puronuvākyā*) mantras. Therefore the manner of saying only seven Ṛks in each sūkta, without reciting in full the 9, 10 and 9 Ṛks of the three Unnīyamāna sūktas, is the second difference of opinion. That this second view is not correct will be explained clearly here.
+
+तत्तथा न कुर्याद्यजमानस्य ह ते रेतो विलुंपंत्यथो यजमानमेव यजमानो हि सूक्तं । (*tattathā na kuryādyajamānasya ha te reto viluṃpaṃtyatho yajamānameva yajamāno hi sūktaṃ |*)
+
+Of the two kinds of order stated before, the second order, that of reciting only seven Ṛks in each sūkta, must on no account be followed. For if the complete sūkta is not recited, the sacrificer's power of procreation is thereby lost, that is, the semen is destroyed. Besides this,
+
+### Printed p. 56
+
+destruction may come upon the sacrificer himself. Since the sūkta is of the nature of the sacrificer, if the complete sūkta is not recited, harm is bound to come to the sacrificer.
+
+नवभिर्वा एतं मैत्रावरुणोऽस्माल्लोकादंतरिक्षलोकमभिप्रवहति दशभिरंतरिक्षलोकादमुं लोकमभ्यंतरिक्षलोको हि ज्येष्ठो नवभिरमुष्मांल्लोकात्स्वर्गं लोकमभि न ह नैते यजमानं स्वर्गं लोकमभि वोळ्हु - मर्हंति ये सप्त सप्तान्वाहुस्तस्मात्केवलश एव सूक्तान्यनुब्रूयात् ॥ (*navabhirvā etaṃ maitrāvaruṇo 'smāllokādaṃtarikṣalokamabhipravahati daśabhiraṃtarikṣalokādamuṃ lokamabhyaṃtarikṣaloko hi jyeṣṭho navabhiramuṣmāṃllokātsvargaṃ lokamabhi na ha naite yajamānaṃ svargaṃ lokamabhi voḷhu - marhaṃti ye sapta saptānvāhustasmātkevalaśa eva sūktānyanubrūyāt ‖*)
+
+Having pointed out the fault in the second order, he praises the merits of the first order. The Unnīyamāna sūkta of nine Ṛks, recited at the time of the Prātaḥsavana, carries the sacrificer who performs the sacrifice from the earth to the atmosphere. Then the Unnīyamāna sūkta of ten Ṛks, recited at the time of the Mādhyandina-savana, carries the sacrificer from the atmosphere to the world called Nākapṛṣṭha, the lower part of heaven. This Nākapṛṣṭha is very wide and excellent in the upper part of the atmosphere. Having gone to and reached such an excellent world by the recitation of the Unnīyamāna sūkta of ten Ṛks, the sacrificer then, by the Unnīyamāna sūkta of nine Ṛks recited at the time of the third savana, departs from the Nākapṛṣṭha world and goes straight on to the heavenly world. The second order stated before, that is, the order of reciting seven Ṛks each in the Unnīyamāna sūktas, is unable, because of the deficiency in the number of Ṛks, to carry the sacrificer to heaven. That is, if the second order is followed, heaven is not attained by the sacrificer. Therefore, in order that the sacrificer may attain heaven, the Unnīyamāna sūktas are to be recited completely at the times of the savanas.
+
+Here the account of the order of the Unnīyamāna sūktas ends.
+
+**The Explanation of the Mantras to be Recited by the Seven Hotṛs at the Time of the Prātaḥsavana**
+
+अथाह यदैंद्रो वै यज्ञोऽथ कस्माद्वावेव प्रातःसवने प्रस्थितानां प्रत्यक्षाद्यंद्रीभ्यां यजतो होता चैन ब्राह्मणाच्छंसी चेदं ते सोम्यं मध्विति होता यजतींद्र त्वा वृषभं वयमिति ब्राह्मणाच्छंसी नानादेवत्याभिरितरे कथं तेषामैंद्रो भवंतीति । (*athāha yadaiṃdro vai yajño 'tha kasmādvāveva prātaḥsavane prasthitānāṃ pratyakṣādyaṃdrībhyāṃ yajato hotā caina brāhmaṇācchaṃsī cedaṃ te somyaṃ madhviti hotā yajatīṃdra tvā vṛṣabhaṃ vayamiti brāhmaṇācchaṃsī nānādevatyābhiritare kathaṃ teṣāmaiṃdro bhavaṃtīti |*) (Ai. Brā. 28-10)
+
+Now he will explain the nature of the prasthita yājyā mantras that the seven Hotṛs recite at the time of the Prātaḥsavana. After the recitation of the Unnīyamāna sūkta, the seven Ṛtvijs recite the prasthita yājyā mantras. Earlier
+
 ---
 
-**Progress note:** Done through printed p. 50. Savanatraya Chā. U. passages, stotra/śastra table, Saptahotṛ mantras, Unnīyamāna sūkta of the Prātaḥsavana (pp. 44-50)
+**Progress note:** Done through printed p. 56. Unnīyamāna sūktas of the three savanas, rules for reciting them, start of the Saptahotṛ mantras (pp. 51-56)
