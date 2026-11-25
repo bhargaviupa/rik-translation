@@ -7277,6 +7277,287 @@ Where in the third heaven, in the third sphere, the sun wanders at will, where t
 
 In whatever world there are कामाः (*kāmāḥ*), the gods who are desired, and निकामाः (*nikāmāḥ*), Indra and the others who are earnestly and necessarily entreated. (The passage is abridged in print.) Or else: since actions do not come about without the sun, the पिष्टपं (*piṣṭapaṃ*), the common abode, of the sun, who is the root of all actions …. **NOTE**
 
+### Printed p. 159
+
+> यत्र विद्यते तत्र लोके। स्वधान्नं स्वधाकारेण वा दत्तमन्नं तृप्तिस्तर्पणं हर्षणं
+> हर्षश्च यत्र विद्यते तत्र लोके माममृतं कृधि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa's block, which completes the previous verse's commentary, says: in the world where there is svadhā-food, that is, food given with the cry svadhā, and satisfaction, refreshment and joy, in that world make me immortal.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which world
+- कामाः (*kāmāḥ*)—desires
+- निकामाः च (*nikāmāḥ ca*)—and excellent aims, are found
+- यत्र (*yatra*)—in which world
+- ब्रध्न स्य (*bradhna sya*)—of the Āditya, the impeller of rites
+- विष्टपं च (*viṣṭapaṃ ca*)—and the abode is
+- यत्र (*yatra*)—where
+- स्वधा (*svadhā*)—food
+- तृप्तिः च (*tṛptiḥ ca*)—and satisfaction are found
+- तत्र (*tatra*)—there
+- मां (*māṃ*)—me
+- अमृतं (*amṛtaṃ*)—free from death
+- कृधि (*kṛdhi*)—make and establish
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+In the world where there are desires and excellent aims, in the world where the abode of the Āditya, the impeller of rites, is, where there are food and satisfaction, there make me free from death and establish me. O Soma, flow for Indra's drinking.
+
+##### English translation
+Where wishes and desires (are), where the region of the sun (is), where food and delight (are) found, there make me immortal ; flow, Indu, for Indra.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रा॑नं॒दाश्च॒ मोदा॑श्च॒ मुदः॑ प्र॒मुद॒ आस॑ते ।  
+> काम॑स्य॒ यात्रा॒स्ताः कामा॒स्तत्र॒ माम॒मृतं॑ कृ॒धींद्रा॑येंदो॒ परि॑ स्रव ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । आनंदाः । च । मोदाः । च । मुदः । प्रमुदः । आसते ।  
+> कामस्य । यत्र । अप्राः । कामाः । तत्र । मां । अमृतु । कृधि । इंद्राय ।  
+> इंदो इति । परि । स्रव ॥ ११ ॥
+
+### Printed p. 160
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिल्लोक आनंदादय आसते । तेषामल्पो भेदो द्रष्ट व्यः
+> यत्र च लोके कामस्य काम्यमानस्य देवस्य सर्वे कामा आप्ताः प्राप्ता भवंति तत्र'
+> माममृतं कृधि । एतत्तु त्वया विना न घटत इति हे सोम त्वं परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+In the world where bliss and the rest abide (a slight difference among them is to be noted), and where all the desires of the god who is desired are fulfilled, there make me immortal. This cannot happen without you; therefore, O Soma, flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which world
+- आनंदाः (*ānaṃdāḥ*)—the supreme bliss of Brahman
+- मोदाः (*modāḥ*)—joys
+- मुदः (*mudaḥ*)—means of happiness
+- प्रमुदः (*pramudaḥ*)—experiences of happiness
+- आसते (*āsate*)—are found
+- यत्र (*yatra*)—where
+- कामस्य (*kāmasya*)—of one who seeks happiness
+- आप्ताः (*āptāḥ*)—desired
+- कामाः (*kāmāḥ*)—wishes are fulfilled
+- तत्र (*tatra*)—there
+- मां (*māṃ*)—me
+- अमृतं (*amṛtaṃ*)—free from death
+- कृधि (*kṛdhi*)—make and establish
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+In the world where there are supreme bliss of Brahman, joys, means of happiness and experiences of happiness, where the wishes of one who seeks happiness are fulfilled so as to satisfy his desire, there make me free from death and establish me. O Soma, flow for Indra's drinking.
+
+##### English translation
+Where there is happiness, pleasures, joy and enjoyment, where the wishes of the wisher are obtained, there make me immortal; flow, Indu, for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+Ānandāḥ, modāḥ, mudaḥ, pramudaḥ: all these words denote one kind of meaning, bliss. Though there are slight differences, the use of these words denoting one meaning is seen in many Śruti sentences such as मोदः प्रमोद आनंदः (*modaḥ pramoda ānaṃdaḥ*) and the like.
+
+## Sūkta 114 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the sūkta य इंदोः (*ya iṃdoḥ*) has eleven (the printed text reads *ekāvaśaṃ*) ... it has four Ṛks; its first (seer, deity, metre) are as in the previous sūkta. The Anukramaṇī says य इंदोश्च तुष्कमिति (*ya iṃdośca tuṣkamiti*). The use of the sūkta has been stated.**NOTE**
+
+### Printed p. 161
+
+##### Anuvāda
+
+The sūkta य इंदोः (*ya iṃdoḥ*) is the eleventh sūkta in the seventh anuvāka. It has four Ṛks. This sūkta has the same seer, deity and metre as the preceding sūkta. In the Anukramaṇī it is said: य इंदोश्चतुष्कं (*ya iṃdoścatuṣkaṃ*). The use of the sūkta was stated earlier.
+
+Sūkta—114
+Maṇḍala—9; Anuvāka—7; Sūkta—114
+Aṣṭaka—7; Adhyāya—5; Varga—28
+Number of Ṛks in the sūkta—4
+Seer—Kaśyapa
+Deity—Pavamāna Soma
+Metre—Paṅkti
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इंदोः॒ पव॑मान॒स्यानु॒ धामा॒न्यक्र॑मीत् ।  
+> तमा॑हुः सुप्र॒जा इति॒ यस्ते॑ सो॒मावि॑ध॒न्मन॒ इंद्रा॑येंदोः॒ ॑ 
+> परि स्रव ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इंदोः । पवमानस्य । अनु । धामानि । अक्रमीत् ।  
+> तं । आहुः । सुप्रजाः । इति । यः । ते । सोम । अविधत् । मनः । इंद्राय ।  
+> इंदो इति । परि । स्रव ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानस्य पूयमानस्येंदोः सोमस्येंदोः सोमस्य धामानि
+> स्थानानि द्रोणकलशादीनि यद्वा धामानि तेजांसि यो ब्राह्मणोऽस्त्वक्रमीत् अनुक्रामति अनुगच्छति तं जनं सुप्रजाः शोभनप्रजननः कल्याणपुत्रादिप्रजायुक्त इत्याहुः ॥ नित्यमसिच् प्रजामेधयोरित्यसिच् समासांतः ॥ यः सोममभिषुणोति स पुत्रादियुक्तो भवतीत्यर्थः । किंच हे सोम यो मनुष्यस्ते
+> त्वदर्थं मनोऽविधत् करोति । यद्वा ! ते त्वदीयं मनोऽविधत् परिचरति ।
+> विधतिः परिचरणकर्मा ! तमपि कल्याण जननमित्याहुः । तस्मात्त्वं परि स्रव ॥
+> xxv xxvii 11
+
+##### Gist of the bhāṣya
+
+Of the purifying Soma, whose abodes are the Droṇa-vessel and the like (or else "abodes" means splendours), the Brāhmaṇa who follows them is called सुप्रजाः (*suprajāḥ*), blessed with fine offspring, sons and the like; that is, whoever presses Soma becomes endowed with sons and the rest. Further, O Soma, the man who directs his mind to you (or else: attends upon your mind, विधतिः (*vidhatiḥ*) being a root of service) is also called blessed with fine offspring. Therefore flow.
+
+### Printed p. 162
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हनमानस्य (*hanamānasya*)—of the one who attains purity**NOTE**
+- इंदोः (*iṃdoḥ*)—of Soma
+- धामानि (*dhāmāni*)—the abodes
+- यः (*yaḥ*)—which Brāhmaṇa
+- अनु अक्रमीत् (*anu akramīt*)—attends upon
+- तं (*taṃ*)—that Brāhmaṇa
+- सुप्रजाः (*suprajāḥ*)—as one with excellent sons and the like
+- आहुः (*āhuḥ*)—people call
+- सोम (*soma*)—O Soma
+- यः (*yaḥ*)—who
+- निन्न सेवॆगागि (*ninna sevègāgi*)—for your service
+- मनः (*manaḥ*)—the mind
+- अविधत् (*avidhat*)—resolves
+- इति (*iti*)—him too they call blessed with good sons
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+The Brāhmaṇa who attends upon the abodes of the purified Soma, people call blessed with excellent sons and the like. O Soma, he who resolves his mind for your service they also call blessed with good sons. O Soma, flow for Indra's drinking.
+
+##### English translation
+(The Brahman) who attends to the stations of the filtered Soma-juice—him men call rich in children, who applies his mind to you, Soma ; flow, Indu, for Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋषे॑ मंत्र॒कृतां॒ स्तोमैः॒ कश्य॑पोद्व॒र्धय॒न्गिरः॑ ।  
+> सोमं॑ नमस्य॒ राजा॑नं॒ यो ज॒ज्ञे वी॒रुधां॒ पति॒रिंद्रा॑येंदो॒ परि॑ स्रव ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋषे । मंत्रकृतां । स्तोमैः । कश्यप । उत्वर्धयन् । गिरः ।  
+> सोमं । नमस्य । राजानं । यः । जज्ञे । वीरुधां । पतिः । इंद्राय । इंदो  
+> इति । परि । स्रव ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः स्मात्मानं प्रत्याह । हे ऋषे सूक्तद्रष्टर्हे कश्यपात्मन् त्वं मंत्रकृतामृषीणां स्तोमैः स्तोत्रैर्गिरः स्तुतिरूपा वाच उद्धर्धयन्नु पर्युपरि वर्ध-
+
+##### Gist of the bhāṣya
+
+The seer addresses himself: O seer, Kaśyapa, seer of the sūkta, increasing speech in the form of praise with the hymns (स्तोमैः (*stomaiḥ*)) of the mantra-making seers, ... (continues on the next page).
+
+### Printed p. 163
+
+> यन्प्राजानं सर्वेषां स्वामिनं तं सोमं नमस्य । पूजय ॥ नमसः पूजायां
+> नमोवरिव इति क्यच् ॥ यः सोमो वीरुधां वनस्पतीनां पतिः पालको जज्ञे
+> जातः तं नमस्य ॥ हे सोम यथात्मना सुतो भवसि तथा परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+... worship that Soma, king and lord of all (नमस्य (*namasya*), from नमसः पूजायां (*namasaḥ pūjāyāṃ*), with kyac). The Soma who was born as lord and protector of the plants (वीरुधां (*vīrudhāṃ*)), the trees, worship him. O Soma, flow as you are pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कश्यप (*kaśyapa*)—O seer named Kaśyapa
+- ऋषे (*ṛṣe*)—O seer
+- यः (*yaḥ*)—which Soma
+- वीरुधां (*vīrudhāṃ*)—of creepers and the like
+- पतिः (*patiḥ*)—as protector
+- जज्जॆ (*jajjè*)—is born, such
+- राजानं (*rājānaṃ*)—lord of all
+- सोमं (*somaṃ*)—the god Soma
+- मंत्रकृतां (*maṃtrakṛtāṃ*)—of the praisers
+- स्तोमैः (*stomaiḥ*)—with praises
+- गिरः (*giraḥ*)—words of praise
+- उद्धर्धयन् (*uddhardhayan*)—increasing
+- नमस्य (*namasya*)—worship
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O seer named Kaśyapa, worship the god Soma, lord of all, who is protector of creepers and the like, increasing the words of praise joined with the praises of the praisers. O Soma, flow for Indra's drinking.
+
+##### English translation
+Rishi Kashyapa, raising your voice with the praises of the hymn-makers, adore the royal Soma who is born the lord of creeping plants; flow, Indu, for Indra,
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त दिशो॒ नाना॑सूर्याः स॒प्त होता॑र ऋ॒त्विजः॑ ।  
+> दे॒वा आ॑दि॒त्या ये स॒प्त तेभिः॑ सोमा॒भि र॑क्ष न॒ इंद्रा॑येंदो॒ परि॑ स्रव ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । दिशः । नानासूर्याः। सप्त । होतारः। ऋत्विजः ।  
+> देवाः । आदित्याः । ये । सप्त । तेभिः । सोम । अभि । रक्ष । नः । इंद्राय । इंदो  
+> इति । परि । स्रव ॥ ३ ॥
+
+### Printed p. 164
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्त दिशः । सोमो यस्यां दिशि वर्तते तद्व्यतिरिक्ताः सप्त भवंति । ता नानासूर्या नानाविधैः सूर्यैरधिष्ठिता ऋतवो भवंति । नागलिंगत्वादृतूनां नानासूर्यत्वमित्याम्नानात् । यद्वा । नानासूर्या इति दिग्विशेषणं । तथा होतारो
+> वषट्कर्तारो होत्रादयः सप्तर्त्वजो भवंति । किंच सप्तादित्या अदितेः पुत्रा,
+> धात्रादयो मार्तंडवर्जिता ये सप्त देवाः संति । एतत्त्वष्टौ पुत्रासो आदितेः ।
+> ऋ. १०-७२-८ । इत्यत्र प्रपंचयिष्यते । हे सोम तेभिस्तैर्दिगादिभिः सर्वैर्नोऽस्मानभि रक्ष । एतत्तु त्वया विना न घटत इति तस्मादिंद्रायेंदो परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+The seven quarters: those other than the quarter in which Soma stands are seven; they are the seasons, governed by various suns, since the seasons have various forms ("because of the many genders of the seasons they have many suns", so the tradition says); or else "of various suns" qualifies the quarters. The seven priests, hotṛ and the rest, are the utterers of vaṣaṭ. The seven Ādityas, sons of Aditi, Dhātṛ and others without Mārtaṇḍa, are the seven gods; this is to be elaborated at ऋ. १०-७२-८ (*ṛ. 10-72-8*) (एतत्त्वष्टौ पुत्रासो आदितेः (*etattvaṣṭau putrāso āditeḥ*)). O Soma, protect us with all these, the quarters and the rest. This cannot happen without you; therefore flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नानासूर्या: (*nānāsūryā:*)—accompanied by many suns
+- दिशः (*diśaḥ*)—the quarters
+- सप्त (*sapta*)—are seven in number
+- होतारः (*hotāraḥ*)—in the form of hotṛs
+- ऋत्विजः (*ṛtvijaḥ*)—the priests
+- सप्त (*sapta*)—are seven in number
+- सोम (*soma*)—O god Soma
+- सप्त (*sapta*)—seven in number
+- आदित्याः (*ādityāḥ*)—in the form of Ādityas
+- ये देवाः (*ye devāḥ*)—whatever gods there are
+- तेभिः (*tebhiḥ*)—with all of them
+- नः (*naḥ*)—us
+- अभि (*abhi*) रक्ष (*rakṣa*)—protect
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+The quarters accompanied by many suns are seven in number. The priests in the form of hotṛs are also seven. O god Soma, protect us together with all the gods who are seven in number and in the form of Ādityas. O Soma, flow for Indra's drinking.
+
+##### English translation
+Seven (are) the quarters of the world with different suns, seven (are) the ministrant priests, sevan are the divine Adityas—with these, Soma protect us: flow, Indu, for Indra,
+
+##### विशेषविषयगळु (Special Topics)
+
+सप्त दिशो नानासूर्याः (*sapta diśo nānāsūryāḥ*)—Here the four directions and the four intermediate directions together make eight quarters. सोमो यस्यां दिशि वर्तते दद्व्यतिरिक्ता सप्त भवंति (*somo yasyāṃ diśi vartate dadvyatiriktā sapta bhavaṃti*): apart from the quarter in which Soma or the deity Soma is, the remaining ones are seven quarters; therefore it is said here "seven quarters". In these quarters there are various seasons presided over by various kinds of suns. On this point the commentator has cited the Śruti sentence नानालिंगत्वावृतूनां नानासूर्यत्वं (*nānāliṃgatvāvṛtūnāṃ nānāsūryatvaṃ*). Though the sun is one, according to the nature of the seasons the sun
+
 ---
 
-**Progress note:** Done through printed p. 158. pp. 153-158 (batch API)
+**Progress note:** Done through printed p. 164. pp. 159-164 (batch API)
