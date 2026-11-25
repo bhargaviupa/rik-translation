@@ -19136,6 +19136,108 @@ When Saraṇyū, having taken the form of a mare, joined the gods, her natural k
 
 It is plain that they hid her from Vivasvant the man and his sons, created another woman of the same form as hers, and gave her to him. That Manu, born of this Savarṇā, became the brother of Yama is made clear by the sentences of the Nirukta and the Bṛhaddevatā. Besides this, no sentence praising the brotherhood of Manu and Yama is anywhere in the Ṛk Saṃhitā. It is suggested only in the Atharvaveda. As follows:
 
+### Printed p. 538
+तस्य (विराजः) यमो राजा वत्स आसीत् । (*tasya (virājaḥ) yamo rājā vatsa āsīt |*) (A. Ve. 8-10-23, 24) **NOTE**
+
+From this passage, "Yama was the calf-form for that Virāṭ Puruṣa; Manu, the son of Vivasvān, was also the calf-form," the brotherhood of the two is indicated. Further:
+
+मनुर्वैवस्वतो राजा तस्य मनुष्या विश्व.......यमो वैवस्वतो राजा तस्य पितरो विशः ॥ (*manurvaivasvato rājā tasya manuṣyā viśva.......yamo vaivasvato rājā tasya pitaro viśaḥ ‖*) (Śa. Brā. 13-3-3-7-5)
+
+Manu, son of Vivasvān, is the lord of all humans, and Yama, son of Vivasvān, is the lord of the whole world of the Pitṛs; thus their brotherhood is indicated. What we need here is evidence showing that Vivasvān is the original ancestor of all humans and that he possessed humanity and mortality. The same point is stated in the Taittirīya Saṃhitā in this way:
+
+ततो विवस्वा नादित्योऽजायत तस्य वा इयं प्रजायन्मनुष्याः (*tato vivasvā nādityo 'jāyata tasya vā iyaṃ prajāyanmanuṣyāḥ*) (Tai. Saṃ. 6-5-6-2)
+
+Besides saying that Vivasvān, who is of the nature of the Āditya, had human subjects, the difference between this Āditya and the other Ādityas has been explained above.
+
+Moreover, in सवर्णामददुर्विवस्वते (*savarṇāmadadurvivasvate*) (Ṛ. Saṃ. 10-17-2), what the word सवर्णा (*savarṇā*) means is not settled either. It gives room for doubt whether सवर्णा (*savarṇā*) means "one having the same colour," because, as the substitute for the vanished Saraṇyū, she resembled her form; or whether सवर्णा (*savarṇā*) is a proper name. Manu is designated by the two epithets सावर्णि (*sāvarṇi*) and सावर्ण्य (*sāvarṇya*). To know the correct sense of these epithets, one must examine the contexts in which these usages occur.
+
+न तमश्नोति कश्चन दिव इव सान्वारभं । सावर्णस्य दक्षिणा वि सिंधुरिव पप्रथे ॥ (*na tamaśnoti kaścana diva iva sānvārabhaṃ | sāvarṇasya dakṣiṇā vi siṃdhuriva paprathe ‖*) (Ya. Saṃ. 10-62-9) **NOTE**
+
+The gift of Manu, who is famed as Sāvarṇya, is surpassing; no one can exceed it. His gift spreads widely, like the flow of a river.
+
+सहस्रदा ग्रामणीर्मा रिषन्मनु: सूर्येणास्य यतमानैतु दक्षिणा । सावणर्देर्देवाः प्र तिरन्त्वायुर्यस्मिन्नश्रांता असनाम वाजं ॥ (*sahasradā grāmaṇīrmā riṣanmanu: sūryeṇāsya yatamānaitu dakṣiṇā | sāvaṇarderdevāḥ pra tirantvāyuryasminnaśrāṃtā asanāma vājaṃ ‖*) (Ṛ. Saṃ. 10-62-11)
+
+### Printed p. 539
+Let Manu, the giver of thousands of cows and the lord of the community, not be harmed by anyone; let his gift grow widely, like the radiance of the Āditya. Let the gods make the life of this Sāvarṇi grow long. Let us also enjoy the food obtained by his unceasing toil: so it says. In these contexts the Bhāṣya explains Sāvarṇya and Sāvarṇi as the son of the woman called Savarṇā. But no male person named Savarṇa, a father of Manu, is mentioned anywhere. For Manu this must be an epithet connected with the mother's name. It may freely be said that the young woman called Savarṇā who was given to Vivasvān is the mother of this Manu.
+
+Vivasvān, as soon as he learns that Saraṇyū, dissatisfied with his humanity, has vanished, follows her. Knowing that she has taken the form of a mare, he too takes the form of a stallion. Following her in this form and approaching her, he enchants her and she desires union with him. As a result, the birth of the Aśvin deities is made plain. Another important point must be examined here. It is this:
+
+यमस्य माता परुह्यमाना महो जाया विवस्वतो ननाश । (*yamasya mātā paruhyamānā maho jāyā vivasvato nanāśa |*) (Ṛ. Saṃ. 10-17-1)
+
+What the Nirukta author says as the purport of the statement that Yama's mother, the wife of Vivasvān (that is, Saraṇyū), vanished is noteworthy.
+
+रात्रिरादित्यस्यादित्योदयेऽंतर्थीयते (*rātrirādityasyādityodaye 'ṃtarthīyate*) (Ni. 12-11)
+
+He gives the purport that as soon as the Āditya rises, the night disappears. Durgācārya explains this very point further:
+
+यमस्य मध्यमस्य माता देवधर्मेण । अथवा द्युस्थानस्य यैव चाया सा मातेति । रात्रिरादित्यस्य .... .... उषा जाया सा अदित्यस्कोदये अंतर्थीयते ॥ (*yamasya madhyamasya mātā devadharmeṇa | athavā dyusthānasya yaiva cāyā sā māteti | rātrirādityasya .... .... uṣā jāyā sā adityaskodaye aṃtarthīyate ‖*) (Durgācāryavṛtti 12-11)
+
+The wife of the Āditya, lord of the heavenly world, is the sense intended here. This wife of the Āditya is called Uṣas; he says the purport is that as soon as the Āditya rises, the goddess Uṣas becomes invisible. It was stated earlier that one of the Ādityas is famed as Vivasvān. Because Uṣas moves at once on the manifestation of this Āditya, she may also bear the name Saraṇyū. For the Nirukta author, showing the etymology of this word,
+
+### Printed p. 540
+सरण्यू सरणि (*saraṇyū saraṇi*) (3. 2-9) **NOTE**
+
+says that the name is due to her moving nature. If this etymology and the explanation of Durgācārya above are taken as the basis, then the purport becomes that Tvaṣṭṛ wished to give this goddess Uṣas to an excellent bridegroom in marriage. No impropriety is seen in stating the purport thus. Contexts that show this point are well known in many places in Vedic passages. For example:
+
+प्रजापतिर्नै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां । (*prajāpatirnai somāya rājñe duhitaraṃ prāyacchatsūryāṃ |*) (I. Bra. 4-7) **NOTE**
+
+It says that Prajāpati gave his daughter Sūryā to King Soma in marriage. But there is doubt as to who this daughter is. Although the passage quoted here says Sūryā, in some other places there are differences of meaning. For example:
+
+प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ने तामृश्यो भूत्वा रोहितं भूतां । (*prajāpatirvai svāṃ duhitaramabhyadhyāyaddivamityanya āhuruṣasamityanne tāmṛśyo bhūtvā rohitaṃ bhūtāṃ |*) (Ḍi. Brā. 3-33) **NOTE**
+
+Prajāpati desired his own daughter. Some say she was the presiding deity of the heavenly world, some say Uṣas. It says that she, having the form of a doe, was followed by Prajāpati in the form of a stag. The Ṛksaṃhitā also tells this very thing:
+
+पिता यत्स्वां दुहितरमधिष्कन् क्षया रेतः संजग्मानो नि षिंचत् । स्वाध्योऽजनयन् ब्रह्म देवा वास्तोष्पतिं व्रतपां निरतक्षन् ॥ (*pitā yatsvāṃ duhitaramadhiṣkan kṣayā retaḥ saṃjagmāno ni ṣiṃcat | svādhyo 'janayan brahma devā vāstoṣpatiṃ vratapāṃ niratakṣan ‖*) (Ṛ. Saṃ. 11.61-7) **NOTE**
+
+When Prajāpati united with his own daughter, the gods created Brahman; they also created the protector of the sacrifice. Even here, they have explained this daughter as Uṣas or the presiding deity of the heavenly world. It has been shown, on the authority of the Nirukta and the like, that the very person indicated as Uṣas in the contexts quoted here may be the one indicated as Saraṇyū in the present sūkta (10-17). The only peculiarity is that Tvaṣṭṛ (Prajāpati) gave her to another man in marriage.
+
+In sum, it is well known in the Śruti that such descriptions occur in contexts that tell of the union of the female and male powers preceding the creation of beings. The transformed forms, asva–aśvī (stallion–mare) and mṛga–mṛgī (stag–doe)
+
+### Printed p. 541
+are also described in traditional contexts. Such transformations are natural in the efforts made when the resolve to create arises. For example:
+
+स वै नैव रेमे तस्मादेकाकी न रमते स द्वितीयमैच्छत् । स हैतावानास यथा स्त्रीपुमांसौ संपरिष्टक्तौ स इममेवात्मानं द्वेधापातयत्ततः पतिश्च पत्नि चाभवतां शस्मादिदमर्धबृगलमिव स्व इति ह स्माह याज्ञवल्कस्तस्मादयमाकाशः स्त्रिया पूरृत एव तां समभवत्ततो मनुष्या अजायंत ॥ (*sa vai naiva reme tasmādekākī na ramate sa dvitīyamaicchat | sa haitāvānāsa yathā strīpumāṃsau saṃpariṣṭaktau sa imamevātmānaṃ dvedhāpātayattataḥ patiśca patni cābhavatāṃ śasmādidamardhabṛgalamiva sva iti ha smāha yājñavalkastasmādayamākāśaḥ striyā pūrṛta eva tāṃ samabhavattato manuṣyā ajāyaṃta ‖*) (Bṛ. U. 1-4-3)
+
+Before creation, the single principle, having no other companion, could not attain any kind of delight. Therefore it desired a second principle. It grew to the extent of a woman and a man embracing. Then it divided into two parts. Then it was called by the forms of husband and wife. Therefore each individual (if there is no marital relation) is called only half of an individual. The ether was filled with the female principle, and since the male principle united with it, the progeny of man was born and grew in the universe.
+
+सो हेयमीक्षांचक्रे । कथं नु मात्मन एव जनयित्वा संभवति हंत तिरोऽसानीति सा गौरभवत् वृषभ इतरस्तां समेवाभवत्ततो गावोऽजायंत वडवेतराभवदश्ववृष इतरो गर्दभीतरा गर्दभ इतर सां समेवाभवत्तत एकशफमजायताजेतराभवद्बस्त इतरोऽविरितरा मेष इतरस्तां समेवाभवत्ततोऽजावयोऽजायंतैवमेव यदिदं किंच मिथुनमा पिवीलिकाभ्यस्तत्सर्वमसृजत ॥ (*so heyamīkṣāṃcakre | kathaṃ nu mātmana eva janayitvā saṃbhavati haṃta tiro 'sānīti sā gaurabhavat vṛṣabha itarastāṃ samevābhavattato gāvo 'jāyaṃta vaḍavetarābhavadaśvavṛṣa itaro gardabhītarā gardabha itara sāṃ samevābhavattata ekaśaphamajāyatājetarābhavadbasta itaro 'viritarā meṣa itarastāṃ samevābhavattato 'jāvayo 'jāyaṃtaivameva yadidaṃ kiṃca mithunamā pivīlikābhyastatsarvamasṛjata ‖*) (Bṛ. U. 1-4-4)
+
+Then that female person thought: "I have been created from this primal principle itself; I have become as a daughter to it. How can it unite with me, its own daughter?" and hid herself so that it should not know. She was transformed into the form of a cow. Then the primal principle took the form of a bull and united with her. As a result, cattle were born. She took the form of a mare, and the primal principle became a stallion. As a result, hoofed animals came into being. She became a she-goat, and the primal principle a he-goat. In the same way they also took the forms of ewe and ram. As a result the progeny of goats and sheep grew. In this way he created all kinds of creatures fit for pairing, down to the ants: so it says.
+
+Thus, since the relation of father and daughter is present in this relation of female and male preceding creation, this defect, that the relation is contrary to morality, has been shown in one way or another.
+
+### Printed p. 542
+It is stated in the Aitareya Brāhmaṇa that the gods were displeased when Prajāpati desired his daughter Uṣas. The Bṛhadāraṇyaka states that the primal principle should not desire the female person created by itself, and that for this very reason she vanished from him (disappeared). Likewise in the present case too (Ṛ. Saṃ. 10-17-1, 2) there is an indication that Saraṇyū, not wholly wishing to build a relation with Vivasvān, shows her dissatisfaction. In sum, the substance of this context can be stated thus.
+
+When Tvaṣṭṛ intended to offer his daughter Saraṇyū in marriage to someone, the whole world came and assembled there. Meanwhile Tvaṣṭṛ developed full regard for Vivasvān. But he was a mortal, a human. Therefore, immediately after the marriage, Saraṇyū bore the twins famed in the world, Yama and Yamī, left them with Vivasvān and vanished. Then she became a mare. Vivasvān too became a stallion. As a result the Aśvin deities were born. In Savarṇā, who was Saraṇyū's substitute, Manu was born. Yama and Manu, the sons of Vivasvān, became the original ancestors of the human race.
+
+Regarding this sūkta, the sage Śaunaka has said in the work called Bṛhaddevatā:
+
+अभवन्मिथुनं त्वष्टुः सरण्यूस्त्रिशिराः सह । स वै सरण्यूं प्रायच्छत्स्वयमेव विवस्वते ॥ १६२ ॥ ततः सरण्यां जज्ञाते यमयम्यौ विवस्वतः । ता चाप्युधौ यमावेव ज्यायांस्ताभ्यां तु वै यमः ॥ (*abhavanmithunaṃ tvaṣṭuḥ saraṇyūstriśirāḥ saha | sa vai saraṇyūṃ prāyacchatsvayameva vivasvate ‖ 162 ‖ tataḥ saraṇyāṃ jajñāte yamayamyau vivasvataḥ | tā cāpyudhau yamāveva jyāyāṃstābhyāṃ tu vai yamaḥ ‖*) (Bṛ. De. Adhyāya 6-162, 163)
+
+Tvaṣṭṛ Prajāpati had twin children. Among them were a daughter named Saraṇyū and a son named Triśiras. He gave in marriage his daughter Saraṇyū to Vivasvān, son of Aditi. In that goddess Saraṇyū twins were born. Of them Yama was the elder, and Yamī the younger.
+
+सृष्ट्वा भर्तुः परोक्षं तु सरण्यू: सदृशीं स्त्रियं । निक्षिप्य मिथुनं तस्यामश्वा भूत्वापचक्रमे ॥ १ ॥ अविज्ञानाद्विवस्वांस्तु तस्यामजनयन्मनुं । राजर्षिरभवत्सोऽपि विवस्वानिव तेजसा ॥ (*sṛṣṭvā bhartuḥ parokṣaṃ tu saraṇyū: sadṛśīṃ striyaṃ | nikṣipya mithunaṃ tasyāmaśvā bhūtvāpacakrame ‖ 1 ‖ avijñānādvivasvāṃstu tasyāmajanayanmanuṃ | rājarṣirabhavatso 'pi vivasvāniva tejasā ‖*)
+
+One day Saraṇyū, daughter of Tvaṣṭṛ, without her husband Vivasvān's knowledge, created another woman like herself in beauty and form, placed her and her twin children Yama and Yamī
+
+### Printed p. 543
+in her own husband's house, and, assuming the form of a mare, went away with the intention of roaming freely. Vivasvān, who had gone somewhere and returned home, took the woman in his house, who was with his children Yama and Yamī (the woman created by Saraṇyū), to be his wife and took pleasure with her. From that, a son named Manu was born in that woman. Like his father Vivasvān he shone with divine radiance, grew up and became famed as a royal sage.
+
+स विज्ञाय त्वपक्रांतां सरण्यूमश्वरूपिणीं । त्वाष्ट्रीं प्रति जगमाशु वाजी भूत्वा सलक्षणः ॥ ३ ॥ सरण्यूश्च विवस्वंतं विदित्वा हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥ (*sa vijñāya tvapakrāṃtāṃ saraṇyūmaśvarūpiṇīṃ | tvāṣṭrīṃ prati jagamāśu vājī bhūtvā salakṣaṇaḥ ‖ 3 ‖ saraṇyūśca vivasvaṃtaṃ viditvā hayarūpiṇaṃ | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ ‖*)
+
+Then Vivasvān learned that the woman in his house, with whom he had taken pleasure, was not his wife, and that his wife, the daughter of Tvaṣṭṛ, had gone off somewhere in the form of a mare. So Vivasvān himself took the form of an excellent horse and went to her, searching for Saraṇyū. Saraṇyū, taking Vivasvān in the form of a horse to be her own husband, became ready to unite with him. Vivasvān also played with her.
+
+ततस्तयोस्तु वेगेन शुक्रं तदपतद्भुवि । उपाजिघ्रच्छ सा त्वश्वा तच्चुक्रं गर्भकाम्यया ॥ ५ ॥ आघातमात्राच्चुक्रात्तु कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ (*tatastayostu vegena śukraṃ tadapatadbhuvi | upājighraccha sā tvaśvā taccukraṃ garbhakāmyayā ‖ 5 ‖ āghātamātrāccukrāttu kumārau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*)
+
+While Saraṇyū and Vivasvān, who had taken the forms of horses, were playing, Vivasvān's seed fell by emission on the ground. Saraṇyū in mare form, desiring that a child should be conceived in her, sniffed that seed lying on the ground. By the mere sniffing, twins were born in her. Of them one became famed as Nāsatya and the other as Dasra, and they are praised by people as the Aśvin deities.
+
+इतिहासमिमं यास्कः सरण्यदेवते द्वृचे । विवस्वतश्च त्वष्टुश्च त्वष्टेति सह मन्यते ॥ (*itihāsamimaṃ yāskaḥ saraṇyadevate dvṛce | vivasvataśca tvaṣṭuśca tvaṣṭeti saha manyate ‖*)
+
+This history told above has been explained by Yāska in his Nirukta (Ni. 12-11). There, in the first two Ṛks of the sūkta त्वष्टा दुहित्रे (*tvaṣṭā duhitre*) (Ṛ. Saṃ. 10-17), a description of the matter concerning Vivasvān and the goddess Saraṇyū, daughter of Tvaṣṭṛ, is given.
+
+पूषेति पादौ पौष्ण द्वावाग्नेयावुत्तरा तु यौ । स्यातृतीयोऽपि ना पौष्णं तिस्रश्चान्याः परास्तु याः ॥ (*pūṣeti pādau pauṣṇa dvāvāgneyāvuttarā tu yau | syātṛtīyo 'pi nā pauṣṇaṃ tisraścānyāḥ parāstu yāḥ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 537. pp. 532-537 (batch API)
+**Progress note:** Done through printed p. 543. pp. 538-543 (batch API)
