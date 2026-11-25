@@ -32039,6 +32039,245 @@ Or else दास्वते (*dāsvate*) is a dative used in the sense of the 
 
 Among us who praise, this Indra is worthy of praise. The thunderbolt of this Indra shines brightly. Or else this Indra, praised and shining brightly among the praisers, becomes for the sacrificer who offers oblation a destroyer of enemies like the thunderbolt. This Indra bears and nourishes the seer called Ūrdhvakṛśana, the praiser, son of Yama, and also the sacrificer who, like Ṛbhu, son of Sudhanvan, gives delight to Indra by performing rites.
 
+### Printed p. 959
+
+##### English translation
+This (Indra), adorable among us and brilliant, is a thunderbolt for
+the donor (of the oblation against his foes); he cherishes the exhilarating
+(worshipper) Urdhwakrishana, as Ribhu (cherishes) the exhilarating celebra-
+tor of holy rites.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृषुः॑ श्ये॒नाय॒ कृत्व॑न आ॒सु स्वासु॒ वंस॑गः ।  
+> अव॑ दीधेदही॒शुवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृषुः । श्वेनाय । कृत्वने । आसु । स्वासु । वंसगः ।  
+> अव । दिधेत् । अहीशुवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> फृषुर्घर्षयिता दीप्तो वा स्वासु स्वकीयास्वासु यजमानलक्षणासु प्रजासु
+> वंसगो वननीयगतिः एवंभूत इंद्रः कृत्वने कर्मणां कर्त्रॆ ॥ करोतेरन्येभ्योऽपि दृश्यंत इति क्वनिप् ॥ श्येनाय सुपर्णाय तार्क्ष्यपुत्राय मह्यमृषयेऽहीशुवोऽहीनव्यापनानहीनवृद्धीन्वास्मदीयान्पुत्रादीनव दीधेत् । दीपयतु ॥
+> दीधीज् दीप्ति देवनयोः । अस्माच्छांदसे लिजि व्यत्ययेन परस्मैपदं ॥ यद्वा । हे
+> इंद्र त्वदीयः सोमो फृष्ट्यादिगुणयुक्तः सन् दीप्यत इति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+फृषुः (*phṛṣuḥ*) means one who harasses (the foe), or one who is brilliant. स्वासु (*svāsu*) means "among his own" subjects, who take the form of the sacrificers. वंसगः (*vaṃsagaḥ*) means one whose going is lovely. Such an Indra is meant. कृत्वने (*kṛtvane*) means "to the doer of rites" (the form ends in kvanip, since such forms are seen with other roots too). श्येनाय (*śyenāya*) means to Suparṇa, the son of Tārkṣya, that is, to me, the seer. अहीशुवः (*ahīśuvaḥ*) means those pervading without decline, or increasing without decline, that is, our sons and the like. May Indra make them shine (अव दीधेत् (*ava dīdhet*) = "let him illumine"). The root is दीधीज् (*dīdhīj*), "to shine, to play"; the parasmaipada form comes from this root by Vedic interchange in the perfect. Or else: O Indra, your Soma, endowed with such qualities as *phṛṣṭi*, shines; so it should be construed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- फृषुः (*phṛṣuḥ*)—the brilliant one
+- स्वासु (*svāsu*)—among his own
+- आसु (*āsu*)—among these subjects, beginning with the sacrificers
+- वंसगः (*vaṃsagaḥ*)—Indra, who is a benefactor
+- कृत्वने (*kṛtvane*)—to the doer of sacrifice and other rites
+- श्वेनाय (*śvenāya*)—to me, the son of Tārkṣya, called Suparṇa
+- अहीशुवः (*ahīśuvaḥ*)—undiminishing wealth, or the line of sons and the like
+- अव दीधेत् (*ava dīdhet*)—may he give and make shine
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who is brilliant and a benefactor to his own people, the sacrificers and others, give me, the son of Tārkṣya, the doer of sacrifices and other rites, called Suparṇa, undiminishing wealth or the line of sons and the like, and make it shine
+
+### Printed p. 960
+and flourish.
+
+##### English translation
+May the brilliant (Indra), who is a benefactor amongst these his own
+(people), for the sake of Suparna, the offerer of the oblation, bestow light
+upon our prgeny.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं सु॑प॒र्णः प॑रा॒वतः॑ श्ये॒नस्य॑ पु॒त्र आभ॑रत् ।  
+> श॒तच॑क्रं॒ यो॒३॒॑ ३ हो॑ ९ वर्त॒निः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । सुपर्णः । परावतः । श्येनस्य । पुत्रः । आ । अभरत् ।  
+> शत्चक्रं । यः । अह्यः । वर्तनिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शैनस्य तार्क्ष्यस्य पुत्रस्तनयः सुपर्णो यं सोमं परावतः परागताद्दूराद्दुलोकादाधॆरत् आहरत् । कीदृशं । शतचक्रं । शतमिति बहुनाम । बहुधनस्य
+> कर्तारं ॥ मूलनिभुजादित्वात्कप्रत्पयः । पा. ३-२-५-२ ॥ यद्वा । शतकरणसाधनं ।
+> बहुयागनिष्पादनमित्यर्थः ॥ घञार्थे कविधानम् । पा. ३-३-५८-४ । इति कप्रत्ययः ।
+> कृञादीनां के । का. ६-१-१२-१ । इति द्विर्वचनं । यः सोमोऽहोऽहेर्वृत्रस्य
+> वर्तनिर्वर्तयिता प्रेरयिता । यद्वा ॥ अह गतौ ॥ अह्यो गंतव्यो वर्तनिर्मार्गभूतः । एना वय इति वक्ष्यमाणेनैकवाक्यता ॥
+
+##### Gist of the bhāṣya
+
+Suparṇa, the son of Śyena (Tārkṣya), brought that Soma from far away, from the heavenly world. Of what sort? शतचक्रं (*śatacakraṃ*): *śataṃ* is a word for "many"; the maker of much wealth (the affix ka). Or else: the instrument of doing a hundred, that is, the accomplisher of many sacrifices (the affix ka in the sense of ghañ; reduplication). The Soma that is the वर्तनिः (*vartaniḥ*), the impeller, the one who sets going, of अही (*ahī*), that is Vṛtra. Or else (root अह (*aha*), "to go"): अह्यः (*ahyaḥ*) is "to be gone to", and वर्तनिः (*vartaniḥ*) is that which is the road; it is to be construed together with the following एना वयः (*enā vayaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्येनस्य (*śyenasya*)—of Tārkṣya
+- पुत्रः (*putraḥ*)—the son
+- सुपर्णः (*suparṇaḥ*)—Suparṇa
+- यं (*yaṃ*)—which Soma
+- परावतः (*parāvataḥ*)—from heaven, situated in a distant region
+- आभरत् (*ābharat*)—he carried off and brought
+- यः (*yaḥ*)—which Soma
+- अह्यः (*ahyaḥ*)—of Vṛtra
+- वर्तनिः (*vartaniḥ*)—the impeller (construed with the next Ṛk)
+
+### Printed p. 961
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma that Suparṇa, the son of Tārkṣya, brought from the distant region, heaven, and the Soma that is the impeller of Vṛtra,
+
+##### English translation
+The Soma whom Suparna, the son of the falcon, brought from afar,
+the bestower of many boons, who is the stimulator of Ahi.—
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं ते॑ श्ये॒नश्चारु॑मवृ॒कं प॒दाभ॑रदरु॒णं मा॒नमंध॑सः ।  
+> ए॒ना वयो॒ वि ता॒र्यायु॑र्जी॒वस॑ ए॒ना जा॑गार बं॒धुता॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । ते । श्येनः । चारुं । अवृकं । पदा । आ । अभरत् । अरुणं । मानं । अंधसः ।  
+> एना । वयः । वि । तारि । आयुः । जीवसे । एना । जागार । बंधुता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तुभ्यं त्वदर्थं श्येनः सुपर्णः पक्षिराड्यं सोमं पदा । वचन
+> व्यत्ययः । पद्भामाभरत् द्युलोकादाहरत् । दिवं सुपर्णो गत्वाय सोमं
+> वज्रिण आभरत् । ऋ. ८-१००-८ । इति निगमांतरं । कीदृशं । चारुं शोभनं अवृकं
+> बाधकरहितं अरुणमरोचमानमरुणवर्णं ना अंधसोऽन्नस्य मानं यागद्वारा
+> निर्मातारं । एनैतेनानेन सोमेन तुभ्यं दीयमानेन वयोऽन्नं जीवसे
+> जीवनायायुर्जीवितं च वि तारि । प्रादायि । तथैनैतेनैव सोमेन बंधुता बंधुसमूहो जागार । जाग्रत्प्रबुद्धः सन्वर्तते ॥ जागतेर्लिट छंदसि वेति वक्तव्यं ।
+> पा. ६-१-८-१ । इति द्विर्वचनाभावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for you Śyena, that is Suparṇa, the king of birds, brought from the heavenly world that Soma "with the feet" (पदा (*padā*) is an interchange of number for "with the two feet"). Another Vedic passage, Ṛ. 8-100-8, says: दिवं सुपर्णो गत्वाय सोमं वज्रिण आभरत् । (*divaṃ suparṇo gatvāya somaṃ vajriṇa ābharat |*). Of what sort is the Soma? चारुं (*cāruṃ*), beautiful; अवृकं (*avṛkaṃ*), free of harm; अरुणं (*aruṇaṃ*), shining, ruddy in colour; मानं अंधसः (*mānaṃ aṃdhasaḥ*), the one who through the sacrifice constructs the food. By this Soma, being given to you, food (वयः (*vayaḥ*)) and life-span (आयुः (*āyuḥ*)) were bestowed (वि तारि (*vi tāri*)) for living. And likewise by this same Soma the circle of kinsmen is awake (जागार (*jāgāra*)), is alert. The absence of reduplication here follows the rule that the perfect of *jāgṛ* may be left unreduplicated in the Veda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—for you
+- श्येनः (*śyenaḥ*)—Suparṇa, the best of birds
+- यं (*yaṃ*)—which Soma
+- पदा (*padā*)—holding it with his feet
+- आ अभरत् (*ā abharat*)—brought from the heavenly world; such a Soma as is
+- चारुं (*cāruṃ*)—beautiful
+- अवृकं (*avṛkaṃ*)—free of harm
+- अरुणं (*aruṇaṃ*)—of an aruṇa (dull red)
+
+### Printed p. 962
+colour
+- अंधसः (*aṃdhasaḥ*)—of the food in the form of the sacrificial oblation, that is, of the Soma juice
+- मानं (*mānaṃ*)—the constructor
+- एना (*enā*)—by which Soma juice offered for you
+- जीवसे (*jīvase*)—for living
+- वयः (*vayaḥ*)—food
+- आयुः (*āyuḥ*)—and life-span (the time of living)
+- वि तारि (*vi tāri*)—was given by you
+- एना (*enā*)—by such a Soma
+- बंधुता (*baṃdhutā*)—the mutual kinship between Indra and the worshippers, as praised and praiser
+- जागार (*jāgāra*)—grows, awakened
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Soma that Suparṇa, the best of birds, brought for you from heaven, holding it with the claws of his feet, beautiful, free of harm, of ruddy colour, used in the sacrifice as the oblation: because this Soma juice is offered to you, you are satisfied and give us food so that we may live long. And because such Soma is offered to you, the mutual kinship between Indra and the worshippers, the relation of the praised and the praiser, grows.
+
+##### English translation
+Whom the falcon brought to you (Indra) with his claw, beautiful,
+unassilable, purple-tinted, the measurer of food—by it, food and old age was
+prolonged for living, by it affinity was awaked.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा तदिंद्र॒ इंदु॑ना दे॒वेषु॑ चिद्दारयाते॒ महि॒ त्यजः॑ ।  
+> क्रत्वा॒ वयो॒ वि ता॒र्यायुः॑ सुक्रतो॒ क्रत्वा॒यम॒स्मदा सु॒तः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । तत् । इंद्रः । इंदुना । देवेषु । चित् । धारयाते । महि । त्यजः ।  
+> क्रत्वा । वयः । वि । तारि । आयुः । सुक्रतो इति सुक्रतो । कृत्वा । अयं । अस्मत् ।  
+> आ । सुतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवैवमुक्तेन प्रकारेण तत्तेनेंदुना सोमेन तृप्यन्निंद्रो देवेषु
+> चिद्देवेष्टस्मासु च महि महत्यजस्तेजो दुःखस्य वर्जयित्कृ रक्षणं ना धारयाते ।
+
+##### Gist of the bhāṣya
+
+एव (*eva*) means in the manner just stated. Indra, being satisfied by that Soma (इंदुना (*iṃdunā*)), bears (धारयाते (*dhārayāte*)) among the gods and also among us great (महि (*mahi*)) *ajaḥ*, that is, brilliance, or protection that averts sorrow.
+
+### Printed p. 963
+
+> धारयति । शिष्टः प्रत्यक्षकृतः । हे सुक्रतो शोभनकर्मन्निंद्र क्रत्वा क्रतुनास्माभिरनुष्ठितेन कर्मणा प्रीतेन त्वया वयोऽन्नमायुर्जीवनं च वि तारि । अस्मभ्यं
+> प्रादायि । योऽयमिंदुः क्रत्वा कर्मणा प्रज्ञानेन वास्मदस्माभिरा सुतोऽभिषुतः ।
+> यद्वा । अस्मदस्मत्तस्त्वदाभिमुख्येन सुतः प्रेरितः तेनेंदुनेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+धारयति (*dhārayati*), he bears. **NOTE**. O Sukratu, doer of good deeds, Indra, by the rite (क्रत्वा (*kratvā*)) performed by us you are pleased, and food (वयः (*vayaḥ*)) and life-span (आयुः (*āyuḥ*)) were bestowed (वि तारि (*vi tāri*)) on us. This Indu has been pressed out (आ सुतः (*ā sutaḥ*)) by us, by the rite or by knowledge. Or else: अस्मत् (*asmat*), from us, it has been pressed, sent forward in your direction; the construction is "by that Indu".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—in this manner
+- (यः (*yaḥ*)) अयं (*ayaṃ*)—which Soma juice
+- क्रत्वा (*kratvā*)—together with the sacrificial rites, or by the knowledge enjoined
+- अस्मत् (*asmat*)—by us
+- आ सुतः (*ā sutaḥ*)—was pressed; such
+- तत् इंदुना (*tat iṃdunā*)—satisfied by that Soma
+- इंद्रः (*iṃdraḥ*)—Indra
+- देवेषु चित् (*deveṣu cit*)—among the gods and among us, the worshippers
+- महि (*mahi*)—great
+- त्यजः (*tyajaḥ*)—protection that destroys sorrow
+- धारयते (*dhārayate*)—he provides
+- सुक्रतो (*sukrato*)—O Indra, the doer of excellent deeds
+- क्रत्वा (*kratvā*)—by you, pleased by the rite we perform
+- वयः (*vayaḥ*)—food and the like
+- आयुः (*āyuḥ*)—and increase of life
+- वि तारि (*vi tāri*)—let them be given
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, satisfied by drinking the Soma juice pressed and offered by us together with the performance of the sacrifice, provides protection that removes sorrow both for the gods and for us, the worshippers. O Indra, doer of excellent deeds, pleased by the rite we perform, favour us by giving food and the like and also long life.
+
+##### English translation
+So then by Indu Indra obtains among the gods great brilliancy; by our sacrifice, O doer of good deeds, food and old age is prolonged, by our sacrifice, this (Soma) is poured out by us.
+
+## Sūkta 145 (Maṇḍala 10)
+In this sūkta Indrāṇī, the seer of the sūkta, in order to remove the affliction caused by her co-wife (सपत्नी (*sapatnī*)), a rival wife, and in order that her husband's love, turned away from the rival, may be directed toward herself, describes the method of digging up and using a kind of herb called pāṭhā, and praises that herb. This is a kind of abhicāra rite. In the work called Ṛgvidhāna it is said as follows.
+
+### Printed p. 964
+
+> इमामिति तु सूक्तेन शतकृत्तो दशावरं ।
+> सपत्नीं बाधते तेन पतिश्चातीव मन्यते ॥ ६४ ॥
+> पतिस्तु परिजप्यैनां पाठामेतेन वै पिबेत् ।
+> पयसा सप्तरात्रं तु सपत्नान्प्रतिभाधते ॥ ६५ ॥
+> मूलमंत्रजपैरन्यॆर्या पतिं जेतुमिच्छति ।
+> अलोका यमलोकस्था मज्जते नरके हि सा ॥ ६६ ॥
+> अन्यथा वोपनीतानि चूर्णमूलौषधान्यपि ।
+> विनाशयेयुः पुरुषं तस्मान्नान्यं समाचरेत् ॥ ६७ ॥
+> प्रियवंदा भर्तरि या भर्ता यस्याः परायणं ।
+> वाक् चैव मधुरा यस्याः पत्युः संवननं महत् ॥ ६८ ॥
+> प्रियं भर्तारमासाद्य पिबेदेवौषधीमिमां ।
+> प्रियंवदां धर्मपरां धर्मपत्निमनिंदितां ॥ ६९ ॥
+> अवमन्येत यो मोहात्तमाहुः पुरुषाधमं ॥
+
+(Ṛgvidhāna, Chapter 4, verses 64-69)
+By repeating this sūkta "इमां खनामि (*imāṃ khanāmi*)" a hundred times, the rival wife's harassment ceases and one's husband becomes attached to oneself. If the husband too repeats this sūkta and drinks for seven nights milk mixed with the herb called pāṭhā, all his enemies will be destroyed. The woman who, leaving aside the mantras of this sūkta, wishes to win her husband with other mantras will meet misfortune and will sink in suffering in the hell located in Yama's world. Even if herbs other than the pāṭhā mentioned here, powders and other medicines are used, those powders and other medicines will destroy that woman's husband. Therefore the mantra and the herb stated here should be used, and no other mantra or herb should be used. The woman who speaks pleasing words to her husband, whose husband is attached to his wife, and who always speaks sweet and good words with her husband: her husband will be attached to her and affectionate. The woman who desires her husband's love should drink this medicine in her husband's presence. The man who out of delusion despises and insults a lawful wife who speaks pleasing words, is devoted to dharma and is blameless, is called the lowest of men.
+
 ---
 
-**Progress note:** Done through printed p. 958. pp. 953-958 (batch API)
+**Progress note:** Done through printed p. 964. pp. 959-964 (batch API)
