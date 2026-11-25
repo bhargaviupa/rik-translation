@@ -20038,6 +20038,161 @@ Besides these, there are many mantras and sentences in the Vedas and Upaniṣads
 
 सद्यः जज्ञानः नि रिणाति शत्रून् (*sadyaḥ jajñānaḥ ni riṇāti śatrūn*)—as soon as he was born, this Indra destroyed his enemies. Other people become able to fight enemies and kill them only many years after birth, that is, after passing childhood and boyhood and reaching youth. But the case of Indra is not so. As soon as he was born, he was able to slay enemies with his extraordinary strength and power. In the case of the Sun too, as soon as the Sun is born he destroys the enemies of the form of darkness and makes light for the whole world; that is, as soon as the Sun rises the darkness goes and light arises. Or else, in accordance with the Aitareya Āraṇyaka sentence सद्यो ह्येष जातः पाप्मानमपाहत (*sadyo hyeṣa jātaḥ pāpmānamapāhata*) (Ai. Ā. 1-3-4), as soon as the Sun rises he removes the sins of the people who worship him, or destroys the Mandeha and other Rākṣasas. On this subject a legend is told in the Taittirīya Āraṇyaka—
 
+### Printed p. 610
+(This passage, with the itihāsa announced at the end of the previous page, is quoted from Sāyaṇa's Taittirīya Āraṇyaka citation, Tai. Ā. 2-2.) Ṛ. Saṃ. Mandala 10, Sūkta 120.
+
+Once, in the earlier anuvāka, the demons practised severe austerity. Prajāpati the god appeared before them and asked what boon they wished for. They begged: "Grant us the power and the opportunity to fight with the Sun." Prajāpati consented: "So be it." For this reason the demons, as soon as the Sun rises, begin to fight him and go on fighting until his setting. But they can be driven away by water (the arghya water) sanctified by the recitation of the Gāyatrī. Therefore the Brahmavādins, at the morning and evening twilights, recite the Gāyatrī mantra and offer arghya with the water so purified. These drops of water offered as arghya turn into a thunderbolt and hurl the demons who are fighting the Sun into the island called Mandeha-Aruṇa. After that the Brahmavādins, by the twilight worship with circumambulation and obeisance, shake off their sin. The Brahmin who knows this truth (the knower of Brahman), reciting the Gāyatrī at sunrise and sunset and offering arghya, worships Āditya thereby, and obtains every kind of welfare. Āditya is the Supreme Brahman. The person who worships, knowing that Āditya, the object of Gāyatrī worship, is Brahman, attains union with Brahman, becomes Brahman and is merged in Brahman. So it is said.
+
+"All the beings rejoice (ūmāḥ) after him": in the last pada of this Ṛk it is said that all creatures rejoice on seeing the Sun rise. At night, because of darkness, creatures have trouble in moving about and in getting their food, and there is the possibility of other afflictions such as enemies; therefore all creatures (men too)
+
+### Printed p. 611
+await the Sun's arrival and welcome his rising with joy. On this point the commentator has cited the Aitareya Āraṇyaka sentence भूतानि वै विश्व ऊमास्त एनमनुमदंत्युदगादुदगादिति (*bhūtāni vai viśva ūmāsta enamanumadaṃtyudagādudagāditi*) (Ai. Ā. 1-3-4) and the Taittirīya Saṃhitā sentence तस्मात्सर्व एव मन्यते मां प्रत्युदगादिति (*tasmātsarva eva manyate māṃ pratyudagāditi*) (Tai. Saṃ. 6-5-4-2). The origin of Indra, being of the nature of the Sun, is also stated here: "such an Indra was born."
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒वृ॒धा॒नः शव॑सा॒ भूर्यो॑जाः॒ शत्रु॑र्दा॒साय॑ भि॒यसं॑ दधाति।  
+> अव्य॑नच्च व्य॒नच्च॒ सस्नि॒ सं ते॑ नवंत॒ प्रभृ॑ता॒ मदे॑षु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववृधानः । शवसा । भूरिऽओजाः । शत्रुः । दासाय । भियसं । दधाति ।  
+> अविऽअनत् । च । विऽअनत् । च । सस्नि । सं । ते । नवंत । प्रभृता । मदेषु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शवसा बलेन ववृधानो वर्धमानः अत एव भूर्योजा बहुबलः शत्रुः
+> शातयितेंद्रो दासायोपक्षयकारिणे शत्रवे भयसं भीतिं दधाति । विदधाति ।
+> करोति । अव्यनत् । विविधमनिति श्वसितीति व्यनत् प्राणवज्जंगमं । तद्विलक्षणमव्यनत्
+> स्थावरं । तदुभयमपि सस्नि संस्नातमिंद्रेण सम्यक्कोधितं भवति ॥ स्नातेरादृगमहन
+> इत्ति । व्यत्ययेन कर्मणि किन्प्रत्ययः ॥ यद्वा ॥ अंतर्णीतण्यर्थात्कर्तर्येव किन् ॥
+> वृष्ट्यादिना सम्यक् स्थापयिता शोधयिता भवति ॥ न लोकाव्ययेति कर्मणि षष्ठ्याः
+> प्रतिषेधः ॥ शिष्टः पादः प्रत्यक्षकृतः । हे इंद्र ते तव मदेषु हर्षेषु हविषा
+> स्तुत्या च जातेषु सत्तु प्रभृता प्रभृतानि प्रकर्षण धृतानि पोषितानि ना सर्वाणि
+> भूतजातानि संनवंत। संगच्छंते। स्तोतुं हवींषि च दातुं समूहीभवंतीत्यर्थः ।
+> नवतिर्गतिकर्मा ॥ प्रभृता । बिभर्तॆः कर्मणि निष्ठा । शेश्पंदसि बहुलमिति शेर्लोपः ।
+> गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+Indra, growing by strength and therefore of great might, is the destroyer (śatru) of the foe; he puts fear into the Dāsa, the harmful enemy. Avyanat is the immovable (the unbreathing), vyanat the moving (the breathing, living); both are purified (sasni) by Indra, i.e. made properly clean. Alternative: the form is active in sense, since the suffix is used by interchange; Indra is the one who by rain and the like duly establishes and cleanses. The genitive with the object is not prohibited here by the rule on lokāvyaya. The remaining pada is plain: O Indra, when joys arise in you through oblation and praise, all creatures, nourished (prabhṛtā) by you, come together (saṃ navanta) to praise and to give oblations; navati is a verb of motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसा (*śavasā*)—by strength
+- ववृधानः (*vavṛdhānaḥ*)—growing (and therefore)
+- भूर्योजाः (*bhūryojāḥ*)—of much power and capacity
+- शत्रुः (*śatruḥ*)—destroyer of enemies, or the enemy of demons etc., that Indra
+### Printed p. 612
+- दासाय (*dāsāya*)—to the harmful Dasyu people
+- भियसं (*bhiyasaṃ*)—fear
+- दधाति (*dadhāti*)—produces (that Indra)
+- व्यनत् च (*vyanat ca*)—the world of breathing creatures
+- अव्यनत् च (*avyanat ca*)—the immovable fixed things
+- सस्नि (*sasni*)—he makes pure by rain etc.
+- ते (*te*)—to you (O Indra)
+- मदेषु (*madeṣu*)—when joy arises through the oblation and praise offered by people
+- प्रभृता (*prabhṛtā*)—all creatures
+- सं नवंत (*saṃ navaṃta*)—gather together in one place to praise you and offer you oblations
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, growing in strength day by day and of exceeding power and capacity, causes fear to the Dasyus, the enemies of good people; that is, seeing his great power the Dasyus are terrified. He nourishes all creatures, both fixed and moving, with rain and the like. For Indra's delight all creatures, that is, people, gather together in one place to offer him oblation and praise; that is, at the sacrificial altar all people, the priests, the sacrificers and the rest, assemble and praise Indra.
+
+##### English translation
+Waxing in strength, the very powerful, destructive (Indra), implants fear in the Dasa ; both the inanimate and the animate (world) is purified by him. Nourished in your exhilaration (all creatures) are assembled.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे क्रतु॒मपि॑ वृंजंति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भवं॒त्यूमाः॑ ।  
+> स्वा॒दोः स्वादी॑यः स्वा॒दुना॑ सृजा॒ सम॒दः सु मधु॒ मधु॑ना॒भि  ॑
+> योधीः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । क्रतुं । अपि । वृंजंति । विश्वे । द्विः । यत् । एते । त्रिः । भवंति । ऊमाः ।  
+> स्वादोः । स्वादीयः । स्वादुना । सृज । सं । अदः । सु । मधु । मधुना । अभि ।  
+> योधीः ॥ ३ ॥
+
+### Printed p. 613
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वे त्वयि ॥ सुपां सुलुगिति सप्तम्येकवचनस्य शेआदेशः ॥ विश्वे
+> सर्वॆ यजमानाः क्रतुमनुष्ठेयं कर्म वृंजंति । समापयंति । अपिशब्दो
+> ब्राह्मणोक्तसर्वभूतानां सर्वमनसां समुच्चयार्थः । सर्वाणि पृथिव्यादीनि
+> भूतानि सर्वेषां प्राणिनां मनांसि सर्वॆ यज्ञक्रतवश्च व्याप्ते त्वय्येव यजमानैः
+> परिसमाप्यंतॆ इत्यर्थः । तथा च ब्राह्मणं । त्वयामानि सर्वाणि भूतानि सर्वाणि
+> मनांसि सर्वॆ क्रतवोऽपि वृंजंतीतेव तदाह । ऐ. आ. १-३-४ । इति । यद्यस्मादेत
+> ऊमास्तर्पकाः ॥ अवतेस्तर्पणार्थादौणादिको मन्त्रत्ययः । ज्वरत्वरेत्यादिना वकारोपधयोरूट् ॥ ईदृशा यजमानाः पूर्वमेकाकिनः संतः पश्चाद्विर्द्वारं
+> स्त्रीरूपेण पुंरूपेण च जाताः संतः पुनरपत्येन सार्ध० त्रिर्त्रिवारं जन्मभाजो
+> भवंति । एक एवात्मा स्त्रीपुंरूपेण जायते । अर्थो वा एष आत्मनो यत्पत्निति
+> श्रुतेः । पुत्रोऽप्यात्मैव । आत्मा वै पुत्रनामासि । शत. १४-९-२६ । इति श्रुतेः । यत
+> एवमेतेऽभिवृद्धा भवंति ततोऽवगम्यते त्वय्येवानुष्ठितं सर्वं कर्म परिसमापयंतीति । तथा च ब्राह्मणं । द्वै वै संतौ मिथुनौ प्रजायेते प्रजात्यै । ऐ. आ.
+> १-३-४ । इति । हे इंद्र त्वं स्वादोः प्रियादृहधनादेरपि स्वादीयः स्वादुतरं
+> प्रियतरमपत्यं स्वादुना स्वादुभूतेन मिथुनेन मातापित्रात्मकेन सं सृज ।
+> संयोजय । यद्वा । स्वादुना भावेनोत्पन्नं तदपत्यमपि संयोजय । एतदेवाह । अदस्तदपत्यं मधु मधुरं मधुना मदहेतुना मिथुनांतरेण पौत्रेण वा
+> सु सुष्पभि योधीः । अभियोधय । अभितः क्रीडय ॥ धातूनामनेकार्थत्वाद्युध्यतिरत्र क्रीडार्थ वर्तते ॥ मिथुनं वै स्वादु प्रजा स्वादु । ऐ. आ. १-३-४ । इत्यादि
+> ब्राह्मणमत्रानुसंधेयं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in you all sacrificers complete (vṛñjanti) the rite to be performed. The word api signifies the inclusion of all beings and all minds mentioned in the Brāhmaṇa: all elements, earth and the rest, the minds of all creatures and all sacrifices are completed by the sacrificers in you who are all-pervading. So the Brāhmaṇa: त्वयिमानि सर्वाणि भूतानि सर्वाणि मनांसि सर्वॆ क्रतवोऽपि वृंजंतीत्येव तद (*tvayimāni sarvāṇi bhūtāni sarvāṇi manāṃsi sarvè kratavo 'pi vṛṃjaṃtītyeva tada*) (Ai. Ā. 1-3-4). Since these ūmāḥ (satisfiers; the word derived from the root av in the sense of satisfying with an Uṇādi suffix) sacrificers, first single, are afterwards born twice as woman and man, and again thrice with offspring: one self is born as woman and man, by the śruti that the wife is half of oneself; the son is also the self, by the śruti आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) (Śa. 14-9-26). Since they thus prosper, it is understood that they complete in you all the rite performed. So the Brāhmaṇa: द्वै वै संतौ मिथुनौ प्रजायेते प्रजात्यै (*dvai vai saṃtau mithunau prajāyete prajātyai*) (Ai. Ā. 1-3-4). O Indra, unite us with a child sweeter than the sweet, dearer than home and wealth, with the sweet pair of mother and father. Or: unite also the offspring born of the sweet state. That offspring is honey; with another honey, the pair that causes joy, or the grandson, "fight" (yodhīḥ), i.e. sport around; for roots have many meanings, yudh here has the sense of play. The Brāhmaṇa मिथुनं वै स्वादु प्रजा स्वादु (*mithunaṃ vai svādu prajā svādu*) (Ai. Ā. 1-3-4) etc. is to be borne in mind here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वे (*tve*)—in you (O Indra)
+- विश्वे अपि (*viśve api*)—all the sacrificers
+- क्रतुं (*kratuṃ*)—the sacrificial rite they perform
+- वृंजंति (*vṛṃjaṃti*)—offer and bring to completion
+- यत् (*yat*)—because
+- एते ऊमाः (*ete ūmāḥ*)—these sacrificers (single before the sacrifice, afterwards)
+- द्विः (*dviḥ*)—two, as husband and wife (then)
+- त्रिः (*triḥ*)—three, joined by a son along with husband and wife
+- स्वादोः (*svādoḥ*)—than house, wealth and the like, dear to us
+- स्वादीयः (*svādīyaḥ*)—you are exceedingly dear (and)
+- स्वादुना (*svādunā*)—with our dear offspring
+- सं सृज (*saṃ sṛja*)—unite us (and further)
+- मधु (*madhu*)—dear to us
+- अदः (*adaḥ*)—that offspring of ours, the son etc.
+- मधुना (*madhunā*)—with the delightful grandson-line
+- अभि योधीः (*abhi yodhīḥ*)—make them sport
+### Printed p. 614
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, all sacrificers offer to you the rites such as sacrifice that they perform and have them completed in you. For before sacrificing these sacrificers, being without wives, were single; but since wives are necessary in sacrificing, they joined them and became two, husband and wife. Then, by your grace, may we, accompanied by husband and wife, obtain a son-line dear to us, and through that son-line a delightful grandson-line, and sport with them.
+
+##### English translation
+To you all (worshippers) offer adoration, whether those propitiators be two or three. Combine that which is sweeter than the sweet with sweet-ness, unite that honey with honey.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is somewhat difficult; other words must be supplied here and there to fit the sense.
+
+क्रतुं अपि वृंजंति विश्वे (*kratuṃ api vṛṃjaṃti viśve*)—for the word api Sāyaṇa says अपिशब्दो ब्राह्मणोक्त सर्वभूतानां सर्वमनसां समुच्चयार्थः (*apiśabdo brāhmaṇokta sarvabhūtānāṃ sarvamanasāṃ samuccayārthaḥ*): it denotes the sense of "and", that is, all creatures stated in the Brāhmaṇa śruti sentence and their minds. In the Aitareya Āraṇyaka it is said त्वयिमानि सर्वाणि भूतानि सर्वाणि मनांसि सर्वॆ क्रतवोऽपि वृंजंतीत्येव तदाह (*tvayimāni sarvāṇi bhūtāni sarvāṇi manāṃsi sarvè kratavo 'pi vṛṃjaṃtītyeva tadāha*) (Ai. Ā. 1-3-4). Its meaning is सर्वाणि पृथिव्यादीनि भूतानि सर्वेषां प्राणिनां मनांसि सर्वॆ यज्ञ क्रतवश्च व्याप्ते त्वय्येव यजमानैः परिसमाप्यंत इत्यर्थः । (*sarvāṇi pṛthivyādīni bhūtāni sarveṣāṃ prāṇināṃ manāṃsi sarvè yajña kratavaśca vyāpte tvayyeva yajamānaiḥ parisamāpyaṃta ityarthaḥ |*): O Indra, the worlds such as earth, all creatures in them, their minds, all sacrificial rites are completed in you, the all-pervading; and so all sacrificers offer the rites they perform to you. That is: from Indra, who is of the nature of the Sun, arise the worlds such as earth, all creatures, their minds, that is their activities, and sacrificial rites; therefore in the end they are merged, that is completed, in Indra; with this firm conviction the sacrificers offer all the rites they perform to you alone.
+
+द्विः यत् एते त्रिः भवंति ऊमाः (*dviḥ yat ete triḥ bhavaṃti ūmāḥ*)—the word ūmāḥ, according to the sūtra अवतेस्तर्पणार्थादौणादिको मन् प्रत्ययः (*avatestarpaṇārthādauṇādiko man pratyayaḥ*), means "those who give satisfaction"; that is, sacrificers who satisfy the gods by offering oblations and the like. While in the brahmacarya stage these sacrificers are alone, single (without a wife).
+### Printed p. 615
+A wife is necessary to perform a sacrifice; since the wife has her part in the rite, the sacrificer must have a wife; a man without a wife cannot sacrifice. Therefore द्विः भवंति (*dviḥ bhavaṃti*): the sacrificers, single in that stage, marry and become of two forms, husband and wife. In the Taittirīya Brāhmaṇa: अथो अर्थो वा एष आत्मनः । यत्पत्नि ॥ (*atho artho vā eṣa ātmanaḥ | yatpatni ‖*) (Tai. Brā. 3-3-3-5): the wife is half of the man. Husband and wife must sacrifice together, for अयज्ञो वा एषः । योऽपत्निकः ॥ (*ayajño vā eṣaḥ | yo 'patnikaḥ ‖*) (Tai. Brā. 3-3-3-1): the sacrifice of one without a wife does not count as a sacrifice, it is said there. So in sacrificing for Indra's pleasure the sacrificer and his wife, two, are needed; this is what द्विः भवंति (*dviḥ bhavaṃti*) says here.
+
+एते त्रिः भवंति (*ete triḥ bhavaṃti*)—here triḥ is three: the sacrificer, his wife and their offspring (son or daughter). By the fruit of performing the sacrifice the sacrificer obtains offspring, and they become three. By the śruti आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) the son too is a part of the man, so the man has become three: himself, his wife, his son; this is the main sense.
+
+स्वादोः स्वादीयः स्वादुना संसृज (*svādoḥ svādīyaḥ svādunā saṃsṛja*)—svādu means sweet, dear. O Indra, you are dearer to us than a dear thing. Such as you, unite us with a dear son; that is, grant a son: this is the sense of the sentence.
+
+अदु मधु मधुना सु योधीः (*adu madhu madhunā su yodhīḥ*)—And, O Indra, it is not enough that you grant us a son; cause a dear grandson also to be born from the son you grant. That is, give us sons, grandsons and the rest, and let us live in happiness and joy, sporting with them. The seer prays that our line may prosper through offspring of sons and grandsons.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति॑ चि॒द्दि त्वा॒ धना॒ जयं॑तं॒ मदे॑मदे अनु॒मदं॑ति॒ विप्राः॑ ।  
+> ओजी॑यो धृष्णो स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन्यातु॒धाना॑  ॒॑
+> दुरेवाः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 609. pp. 604-609 (batch API)
+**Progress note:** Done through printed p. 615. pp. 610-615 (batch API)
