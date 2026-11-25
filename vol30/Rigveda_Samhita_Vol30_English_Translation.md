@@ -34373,6 +34373,243 @@ Gods, worshippers, and those who are protected by Vayu, Solicit Shraddha, (they 
 
 We invoke the goddess Śraddhā in the morning, the forenoon. Likewise मध्यंदिनं परि (*madhyaṃdinaṃ pari*): the word परि (*pari*) in the sense of a mark has the status of a karmapravacanīya; परि (*pari*) with मध्यंदिनं (*madhyaṃdinaṃ*) means "at midday": at midday too we call that Śraddhā. At the setting of the sun, the impeller of all….
 
+### Printed p. 1019
+
+> लायां सायंसमयेऽपि तामेव श्रद्धामाह्वयामहे । ईदृग्रूपे हे श्रद्धे
+> नोऽस्मानिह लोके कर्मणि वा श्रद्धापय । श्रद्धावतः कुरु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss of the verse. We call upon the goddess Śraddhā in the morning (forenoon). Likewise we call upon her at midday, the word परि (*pari*) being a karmapravacanīya in the sense of "marking" (lakṣaṇa), so मध्यंदिनं परि (*madhyaṃdinaṃ pari*) means "at midday". At sunset, the time when the sun, the impeller of all, goes down, that is, in the evening, we call upon that same Śraddhā. "O Śraddhā, make us here, in this world or in this rite, full of faith."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रद्धां (*śraddhāṃ*)—this deity Śraddhā
+- प्रातः (*prātaḥ*)—in the morning (forenoon)
+- हवामहे (*havāmahe*)—we pray and call, and likewise
+- मध्यंदिनं परि (*madhyaṃdinaṃ pari*)—at midday too
+- श्रद्धां (*śraddhāṃ*)—we pray and call the presiding deity of faith (and)
+- सूर्यस्य (*sūryasya*)—of the sun, who impels all
+- निम्रुचि (*nimruci*)—at the time of setting
+- श्रद्धां (*śraddhāṃ*)—we pray and call that same deity Śraddhā
+- श्रद्धे (*śraddhe*)—O deity Śraddhā
+- नः (*naḥ*)—us
+- इह (*iha*)—in this world or in this rite
+- श्रत् धापय (*śrat dhāpaya*)—make us full of faith
+
+##### भावार्थ (Bhāvārtha)
+
+We pray to and call this presiding deity of faith in the morning, at midday, and at the sun's setting, that is, in the evening. O deity Śraddhā, make us full of faith in this world, or in this work that we are doing.
+
+##### English translation
+We invoke Shraddha at dawn, and again at midday, and also at the setting of the sun ; inspire us in this world, Shraddha, with faith.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Vilamantras to be recited at the end of this sūkta:
+
+Medhā Sūkta.
+मेधां मह्यमंगिरसो मेधां सप्त ऋषयो ददुः । मेधामिंद्रश्चाग्निश्च मेधां धाता ददातु ते ॥ १ ॥ (*medhāṃ mahyamaṃgiraso medhāṃ sapta ṛṣayo daduḥ | medhāmiṃdraścāgniśca medhāṃ dhātā dadātu te ‖ 1 ‖*)
+मेधां ते वरुणो राजा मेधां देवी सरस्वती । मेधां ते अश्विनौ देवानाधत्तां पुष्करस्रजा ॥ २ ॥ (*medhāṃ te varuṇo rājā medhāṃ devī sarasvatī | medhāṃ te aśvinau devānādhattāṃ puṣkarasrajā ‖ 2 ‖*)
+या मेधा अप्सरस्सु गंधर्वेषु च यन्मनः । दैवी या मानुषी मेधा सा मामा विशतादिमां ॥ ३ ॥ (*yā medhā apsarassu gaṃdharveṣu ca yanmanaḥ | daivī yā mānuṣī medhā sā māmā viśatādimāṃ ‖ 3 ‖*)
+यन्ने नोक्तं तद्रमतां शकेयं यदनुब्रुवे । निशामतं नि शामहै मयि व्रतं सह व्रतेषु भूयासं [ब्रह्मणा सं गमेमहि ॥ ४ (*yanne noktaṃ tadramatāṃ śakeyaṃ yadanubruve | niśāmataṃ ni śāmahai mayi vrataṃ saha vrateṣu bhūyāsaṃ [brahmaṇā saṃ gamemahi ‖ 4*)
+
+### Printed p. 1020
+शरीरं मे विचक्षणं वाङ्मे मधुमद्दुहां । अवृद्धमहमसौ सूर्यो ब्रह्मणानी स्थः श्रुतं मे मा प्रहासीः ॥ ५ ॥ (*śarīraṃ me vicakṣaṇaṃ vāṅme madhumadduhāṃ | avṛddhamahamasau sūryo brahmaṇānī sthaḥ śrutaṃ me mā prahāsīḥ ‖ 5 ‖*)
+मेधां देवीं मनसा रेजमानां गंधर्वजुष्टां प्रति नो जुषस्व । मह्यं मेधां वद मह्यं श्रियं वद मेधावी भूयासमजराजरिष्णु ॥ ६ ॥ (*medhāṃ devīṃ manasā rejamānāṃ gaṃdharvajuṣṭāṃ prati no juṣasva | mahyaṃ medhāṃ vada mahyaṃ śriyaṃ vada medhāvī bhūyāsamajarājariṣṇu ‖ 6 ‖*)
+सदसस्पतिमद्भुतं प्रियमिंद्रस्य काम्यं । (*sadasaspatimadbhutaṃ priyamiṃdrasya kāmyaṃ |*) (repeated) सनिं मेधामयासिषं (*saniṃ medhāmayāsiṣaṃ*)
+यां मेधां देवगणाः पितरश्चोपासते । तया मामद्यमेधयाग्ने मेधाविनं कुरु ॥ ८ ॥ (*yāṃ medhāṃ devagaṇāḥ pitaraścopāsate | tayā māmadyamedhayāgne medhāvinaṃ kuru ‖ 8 ‖*)
+मेधाव्य १ हं सुमनाः सुप्रतीकः श्रद्धामनाः सत्यमतिः सुशेवः । महायशा धारयिष्णुः प्रवक्ता भूयासमस्मै शरया प्रयोगे ॥ ९ ॥ (*medhāvya 1 haṃ sumanāḥ supratīkaḥ śraddhāmanāḥ satyamatiḥ suśevaḥ | mahāyaśā dhārayiṣṇuḥ pravaktā bhūyāsamasmai śarayā prayoge ‖ 9 ‖*)
+नाशायित्री पलाशस्यारुषसौ पथिकामसु । अथो ततस्य यक्ष्माणमपापा रोगनाशिनी ॥ १० ॥ (*nāśāyitrī palāśasyāruṣasau pathikāmasu | atho tatasya yakṣmāṇamapāpā roganāśinī ‖ 10 ‖*)
+ब्रह्मवृक्ष पलाश त्वं श्रद्धां मेधां च देहि मे । वृक्षाधिप नमस्तेऽस्तु अत्र त्वं संनिधौ भव ॥ ११ ॥ (*brahmavṛkṣa palāśa tvaṃ śraddhāṃ medhāṃ ca dehi me | vṛkṣādhipa namaste 'stu atra tvaṃ saṃnidhau bhava ‖ 11 ‖*)
+
+## Sūkta 152 (Maṇḍala 10)
+**Introduction**
+Concerning this sūkta it is said in the Ṛgvidhāna:
+शास इत्था सपत्नघ्नं संग्रामं विजिगीषतः ॥ ७६ ॥ (*śāsa itthā sapatnaghnaṃ saṃgrāmaṃ vijigīṣataḥ ‖ 76 ‖*)
+प्रयोक्तव्यं तु शुचिना जुहुयात्तत्र सिद्धये अथवा जप्यमेव स्यात्संग्राममभिगच्छतः ॥ ७७ ॥ (*prayoktavyaṃ tu śucinā juhuyāttatra siddhaye athavā japyameva syātsaṃgrāmamabhigacchataḥ ‖ 77 ‖*)
+शास इत्थेति यो हंतुं शत्रून्सर्वान्निवारयेत् ॥ (*śāsa ittheti yo haṃtuṃ śatrūnsarvānnivārayet ‖*)
+(Ṛgvidhāna, Adhyāya 4, verses 76–77)
+A man who desires victory in battle should, having become pure, recite this sūkta beginning शास इत्था (*śāsa itthā*). It destroys enemies. If one makes an offering with the mantras of this sūkta in the consecrated fire, the desired ends, such as the subduing of enemies, are attained. Or, if a man setting out for battle mutters this sūkta, he becomes able to destroy his enemies in battle.
+
+### Printed p. 1021
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वादशेऽनुवाके चत्वारिंशत्सूक्तानि । तत्र शास इत्थेति पंचर्चं प्रथमं
+> सूक्तं शासनाम्न आर्षमानुष्टभमैंद्रं । अनुक्रांतं च । शासः शासो भारद्वाज
+> इति ॥ युद्धाय संनद्धं राजानमनेनेक्षेत । तथा च सूत्रितं । अथैनमन्वीक्षेताप्रतिरथशाससौपर्णैः । आ. गृ. ३-१२-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the twelfth anuvāka there are forty sūktas. Of these the first is the five-verse sūkta शास इत्था (*śāsa itthā*); its seer is Śāsa, its metre Anuṣṭubh, its deity Indra. The Anukramaṇī says: शासः शासो भारद्वाज इति (*śāsaḥ śāso bhāradvāja iti*). With it one should look upon a king girded for battle. So it is prescribed in the sūtra: अथैनमन्वीक्षेताप्रतिरथशाससौपर्णैः (*athainamanvīkṣetāpratirathaśāsasauparṇaiḥ*) (Ā. Gṛ. 3-12-13).
+
+##### Anuvāda
+
+In the twelfth anuvāka of the tenth maṇḍala there are forty sūktas. Of them this sūkta beginning शास इत्था (*śāsa itthā*) is the first; it has five ṛks. Its seer is Śāsa, son of the seer Bharadvāja; the deity is Indra; the metre is Anuṣṭubh. The Anukramaṇī says शासः शासो भारद्वाजः (*śāsaḥ śāso bhāradvājaḥ*). That, with the recitation of this sūkta, the king who has set out equipped for battle is to be looked upon is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra अथैनमन्वीक्षेताप्रतिरथशाससौपर्णॆः (*athainamanvīkṣetāpratirathaśāsasauparṇèḥ*) (Ā. Gṛ. 3-12-13).
+
+Sūkta 152. Maṇḍala 10; Anuvāka 12; Sūkta 152. Aṣṭaka 8; Adhyāya 8; Varga 10. Number of ṛks in the sūkta: 5. Seer: Śāsa Bhāradvāja. Deity: Indra. Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शा॒स इ॒त्था म॒हान् अ॑स्यमित्रखा॒दो अद्भु॑तः ।  
+> न यस्य॑ ह॒न्यते॒ सखा॒ न जीय॑ते॒ कदा॑ च॒न ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शासः । इत्था । महान् । असि । अमित्रखादः । अद्भुतः ।  
+> न । यस्य । हन्यते । सखा । न । जीयते । कदा । चन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शासस्तत्संज्ञोऽहमित्तमनेन वक्ष्यमाणप्रकारेणेंद्रं सौमाति शेषः । हे
+> इंद्र त्वं महा असि । सर्वेभ्योऽधिको भवसि । अमित्रखादोऽमित्राणां शत्रुणां
+
+##### Gist of the bhāṣya
+
+I, Śāsa, so named, praise Indra in the manner to be stated (the verb "praises" is understood). O Indra, you are great, greater than all; you are the devourer of enemies, and so you are wonderful, a marvel.
+
+### Printed p. 1022
+
+> खादिता विनाशयिता अत एवाद्भुत आश्चर्यभूतश्च भवसीति' यस्येंद्रस्य सखा मित्रभूतः
+> पुरुषः कदा चन कदाचिदपि न हन्यते न हिंस्यते न जीयते न च शत्रुभिः पराजितो
+> भवति स त्वं महा असीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+(continuing) He is a destroyer of foes, and therefore wonderful. The friend of Indra, a man who is his ally, is never at any time killed, harmed, or defeated by enemies. The construction is: you, such as this, are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शासः (*śāsaḥ*)—I, famed by the name Śāsa
+- इत्था (*itthā*)—thus I praise Indra. O Indra,
+- यस्यॆ (*yasyè*)—whose
+- सखा (*sakhā*)—friend, a man who is your ally,
+- कदा चन (*kadā cana*)—at any time
+- न हन्यते (*na hanyate*)—is not harmed
+- न जीयते (*na jīyate*)—is not conquered by enemies; such an Indra, you
+- महान् असि (*mahān asi*)—are greater than all
+- अमित्रखादः (*amitrakhādaḥ*)—the destroyer of enemies
+- अद्भुतः (*adbhutaḥ*)—and of wondrous glory
+
+##### भावार्थ (Bhāvārtha)
+
+I, the seer of this sūkta, named Śāsa, praise Indra in this way. The man who is Indra's friend is never harmed by anyone and is not defeated by enemies. O Indra of such glory, you are greater than all, and your glory is wonderful.
+
+##### English translation
+(I) Shasa thus (praise Indra); you are mighty, the destroyer of foes
+the wonderful, (he) whose friend is not killed nor ever overpowered.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒स्ति॒दा वि॒शस्वति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी ।  
+> वृषेंद्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयंक॒रः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वस्तिदाः । विशः । पतिः । वृत्रहा । विमृधः । वशी ।  
+> वृषा । इंद्रः । पुरः । एतु । नः । सोमपाः । अभयंकरः ॥ २ ॥
+
+### Printed p. 1023
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वस्तिदाः स्वस्तेरविनाशस्य दाता विशस्पतिः सर्वस्याः प्रजायाः पालयिता वृत्रहा
+> वृत्राणां शत्रूणां हंता विमृधः संग्रामकारी वशी वशीकर्ता वृषा वर्षिता
+> कामानां सोमपाः सोमस्य पाता विवंविध इंद्रोऽभयंकरोऽभयस्य भयराहित्यस्य कर्ता सन्नोऽस्माकं पुर एतु । पुरतो गच्छतु ॥
+
+##### Gist of the bhāṣya
+
+Indra is the giver of well-being (स्वस्ति (*svasti*), freedom from destruction), the lord of all the people, slayer of Vṛtras (enemies), the warrior, the subduer, the showerer of desires, the drinker of Soma, the maker of fearlessness. Being such, let him go before us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वस्तिदाः (*svastidāḥ*)—he who produces welfare
+- विशः पतिः (*viśaḥ patiḥ*)—the lord or protector of all the people
+- वृत्रहा (*vṛtrahā*)—slayer of enemies
+- विमृधः (*vimṛdhaḥ*)—the fighter
+- वशी (*vaśī*)—he who brings enemies under his sway
+- वृषा (*vṛṣā*)—bestower of desired things
+- सोमपाः (*somapāḥ*)—the drinker of Soma juice
+- इंद्रः (*iṃdraḥ*)—Indra
+- अभयंकरः (*abhayaṃkaraḥ*)—granting us fearlessness (protection)
+- नः (*naḥ*)—our
+- पुरः (*puraḥ*)—in front
+- एतु (*etu*)—let him go forth as our leader
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, protector of all people and maker of their welfare, slayer of enemies, skilled in battle, subduer of enemies, showerer of desired things, and drinker of Soma, granting us fearlessness, let him go forth (to battle) in front of us as leader.
+
+##### English translation
+May Indra, the granter of prosperity, the lord of men, the slayer of
+Vritra, the warrior, the subduer, the showerer. the drinker of the Soma, the
+assurer of safety, come to our presence.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज ।  
+> वि म॒न्यमिं॑द्र वृत्रहन्न॒ मित्र॑स्याभि॒दास॑तः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । रक्षः । वि । मृधः । जहि । वि । वृत्रस्य । हनू इति । रुज ।  
+> वि । मन्युं । इंद्र । वृत्रहन् । अमित्रस्य । अभिदासतः ॥ ३ ॥
+
+### Printed p. 1024
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र रक्षो राक्षसजातं वि जहि । विनाशय । मृधः संग्रामकारिणः शत्रुंश्च
+> वि जहि । वृत्रस्यावरकस्यासुरस्य हनू कपोलप्रांतौ वि रुज । विशेषेण भग्नौ कुरु ।
+> हे वृत्रहन्निंद्र अभिदासतोऽस्मानुपक्षयतो मित्रस्य शत्रुर्मन्युं क्रोधमपि
+> विनाशय ॥
+
+##### Gist of the bhāṣya
+
+O Indra, destroy the host of rākṣasas. Destroy also the enemies who make war. Break the jaws (the sides of the cheeks) of Vṛtra, the enveloping asura. O Indra, slayer of Vṛtra, destroy also the wrath (मन्युं (*manyuṃ*)) of the enemy who seeks to destroy us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) रक्षः (*rakṣaḥ*)—the host of rākṣasas
+- वि जहि (*vi jahi*)—destroy
+- मृधः (*mṛdhaḥ*)—the fighting enemies
+- वि जहि (*vi jahi*)—defeat
+- वृत्रस्य (*vṛtrasya*)—of the enveloping asura
+- हनू (*hanū*)—the cheeks
+- वि रुज (*vi ruja*)—strike and wound
+- वृत्रहन् (*vṛtrahan*)—slayer of enemies
+- इंद्र (*iṃdra*)—O Indra
+- अभिदासतः (*abhidāsataḥ*)—who seeks to destroy us
+- अमित्रस्य (*amitrasya*)—of the enemy
+- मन्युं (*manyuṃ*)—destroy the anger
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroy the host of rākṣasas. Defeat these enemies who are fighting. Strike and wound the cheeks of this enveloping asura. O Indra, slayer of enemies, destroy the anger of this enemy who is bent on destroying us.
+
+##### English translation
+Destroy, Indra, the Rakshasas, the enemies; fracture the jaws of
+Vritra; baffle, Indra, slayer of Vritra, the wrath of (our) menacing foe.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विन॑ इंद्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः ।  
+> यो अ॒स्मा अ॑भि॒दास॒त्यध॑रं गमया॒ तमः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । नः । इंद्र । मृधः । जहि । नीचा । यज्ञ । पृतन्यतः ।  
+> यः । अस्मान् । अभिदासति । अधरं । गमय । तमः ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 1018. pp. 1013-1018 (batch API)
+**Progress note:** Done through printed p. 1024. pp. 1019-1024 (batch API)
