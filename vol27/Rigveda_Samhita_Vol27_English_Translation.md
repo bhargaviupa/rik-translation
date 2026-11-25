@@ -17237,6 +17237,119 @@ Besides praying the priests to offer the oblation in the fire through the offeri
 - षट् उर्वीः (*ṣaṭ urvīḥ*)—he occupies the six wide earths
 - बृहत् (*bṛhat*)—great …
 
+### Printed p. 483
+
+(Continuing the Pratipadārtha of Ṛk 14 of the previous sūkta:) …having a great form. एकमित् (*ekamit*)—he pervades the whole world. त्रिष्टुप् (*triṣṭup*)—the one named Triṣṭup. गायत्री (*gāyatrī*)—the one named Gāyatrī and the rest. छंदांसि (*chaṃdāṃsi*)—the seven metres that are well known. सर्वा ता (*sarvā tā*)—all of them. यमे (*yame*)—in Yama. अहिता (*ahitā*)—are established.
+
+##### भावार्थ (Bhāvārtha)
+
+Yama takes part in the three sacrifices called Jyotiḥ, Gauḥ and Āyuḥ. He traverses the six wide earths. He pervades the whole world, which has a great form. All the seven metres that are well known, such as Triṣṭup and Gāyatrī, are established in Yama.
+
+##### English translation
+(Yama) acquires the three Trikadruka srcrifices; the six earths, the one great (moving world); the Trishtubh, Gayatri, all the sacred metres converge in Yama.
+
+##### विशेषविषयगळु (Special Topics)
+
+षट् उर्विः (*ṣaṭ urviḥ*)—the six kinds of earth, namely षण्मोर्वीरंहसस्पांतु द्यौश्च पृथिवी चापश्चौषधयश्शोर्क् च सूनृता च (*ṣaṇmorvīraṃhasaspāṃtu dyauśca pṛthivī cāpaścauṣadhayaśśork ca sūnṛtā ca*). That is: Yama comes and takes part in the rites performed on the three days of the Agniṣṭoma, called Jyotiḥ, Gauḥ and Āyuḥ. Besides, he comes to the six kinds of earth, namely the atmosphere, the earth, the waters, the plants and trees, Ūrk and Sūnṛtā, to watch the movements, that is, the good and evil deeds, of all the creatures that may be in those regions. This is the explanation given here: there is no place where Yama does not come; he comes everywhere and always watches the deeds of creatures. The seer praises Yama thus: the priests praise such a Yama with the mantras of many (all) metres, Triṣṭup, Gāyatrī and the rest.
+
+What the work called Bṛhaddevatā says about this sūkta is given here:
+
+परेयिवांसमित्यत्र स्तूयते मध्यमो यमः । (*pareyivāṃsamityatra stūyate madhyamo yamaḥ |*)
+अथर्वाणोऽथ भृगवोऽज्गरसः पितरः सह । (*atharvāṇo 'tha bhṛgavo 'jgarasaḥ pitaraḥ saha |*)
+षष्ठ्यां देवगणास्तत्र संस्तूयंते द्युभक्तयः । (*ṣaṣṭhyāṃ devagaṇāstatra saṃstūyaṃte dyubhaktayaḥ |*)
+पितृभिश्चांगिरोभिश्च संस्तुतो दृश्यते यमः । (*pitṛbhiścāṃgirobhiśca saṃstuto dṛśyate yamaḥ |*)
+मंत्रेषु बहुशः पादे विवस्वंतं पिता हि सः । (*maṃtreṣu bahuśaḥ pāde vivasvaṃtaṃ pitā hi saḥ |*)
+संस्कार्यप्रेतसंयुक्तैः पितृभिः स्तूयते यमः । (*saṃskāryapretasaṃyuktaiḥ pitṛbhiḥ stūyate yamaḥ |*)
+प्रेहि प्रेहीति तिसृषु प्रेताशिष उदाहृताः । (*prehi prehīti tisṛṣu pretāśiṣa udāhṛtāḥ |*)
+
+### Printed p. 484
+
+पित्थाणां हि पतिर्देवो यमस्तस्मात्स सूक्तभाक् । (*pitthāṇāṃ hi patirdevo yamastasmātsa sūktabhāk |*)
+अति द्रव तृचे श्वानौ परं पित्र्यमुदीरतां । (*ati drava tṛce śvānau paraṃ pitryamudīratāṃ |*)
+(Bṛ. De. 7-155 to 159)
+
+Since we have explained the particulars stated in the above verses in the introduction of this sūkta and in the special topics of the Ṛks, there is no need to explain them again here. These Ṛks are used in the funeral rites and the like performed in the later (apara) rites.
+
+## Sūkta 15 (Maṇḍala 10)
+
+Introduction: The Ṛks of this sūkta beginning उदीरतां (*udīratāṃ*) and of the next sūkta beginning मैनमग्ने (*mainamagne*) are used in the later rites performed in the cremation ground, as the Bṛhaddevatā says:
+
+परं पित्र्यमुदीरतां । (*paraṃ pitryamudīratāṃ |*) (preceded by abridgement dots)
+उत्तरेण तु सूक्तेन स्मशाने कर्म शंसति । (*uttareṇa tu sūktena smaśāne karma śaṃsati |*)
+पितृदेवासुराणां च अभवन्नग्नयस्त्रयः । (*pitṛdevāsurāṇāṃ ca abhavannagnayastrayaḥ |*)
+हव्यकव्यवहौ चोभौ सहरक्षाश्च नाम यः । (*havyakavyavahau cobhau saharakṣāśca nāma yaḥ |*)
+तत्र मैनमिति त्वैतत्कव्यवाहनसंस्तुतिः । (*tatra mainamiti tvaitatkavyavāhanasaṃstutiḥ |*)
+इतराणि तु दैव्यस्य स्तुतिर्नास्यासुरस्य च । (*itarāṇi tu daivyasya stutirnāsyāsurasya ca |*)
+(Bṛ. De. 7, 159-160)
+
+The Ṛks in उदीरतां (*udīratāṃ*) (sūkta 15) and मैनमग्ने (*mainamagne*) (sūkta 16) describe the later rites performed in the cremation ground. The fire used in this rite is called Kavyavāha. It is said here that, according to the rites, there are three fires used in the respective rites. The fire that carries the oblation to the gods in sacrifices is Havyavāhana; the fire that carries the offering to the fathers in the rites for the fathers is Kavyavāhana; the fire that protects the sacrificial rite from Rākṣasas and the like is called Saharakṣāḥ: thus there are three varieties of Agni. Since these sūktas describe the later rites, the praise of the fire called Kavyavāhana is the principal one. Besides, in the sūkta मैनमग्ने (*mainamagne*) there is praise of the Kavyavāhana fire and also of other deities. In some places Agni is praised with the word Kravyāda. Kravya means flesh, Kravyāda means one who eats flesh.
+
+### Printed p. 485
+
+The meaning is "eater of flesh". Does Agni eat flesh? Since the dead body is burnt in the fire, the fire consumes it. Therefore in Ṛks such as मैनमग्ने (*mainamagne*) (Ṛ. Saṃ. 10-16-1), शृतं यदा (*śṛtaṃ yadā*) (10-16-2), क्रव्यादमग्नि (*kravyādamagni*) (10-16-9), यो अग्निः क्रव्यवाहनः (*yo agniḥ kravyavāhanaḥ*) (10-16-11) and the like, Agni is praised with the epithet Kravyāda.
+
+Funeral rites: In the Vedas, passages concerning death are few. Where they occur, rarely, it is only to pray that death befall enemies and that long life be one's own. Only at the time of the corpse-rites does the thought of the other world arise. Both burning and burying of corpses were in practice. In 10-16 the rite of cremation is stated, and in another (10-18-10 to 13) burial. A house of earth is also mentioned in one place (7-89-1). Both kinds of fathers are found: those burnt by fire and those not burnt (10-15-14, Atha. Ve. 18-2-34). Cremation is the right way for the dead to go to the upper world. In the books describing the rites, it is laid down that only the ashes and bones of the cremated, infants and ascetics are to be buried (compare Ā. Gṛ. Sū. 4-1).
+
+The history of life in the other world is connected with the funeral rite itself. Agni takes the dead body to the other world, to the neighbourhood of the fathers and gods (10-16-1 to 4; 10-17-3). He places the mortal in the highest immortality (1-31-7). Men go, through Agni, the bird of the world of the gods, to the highest place of Sūra to which the ancient seers, born in the beginning, have gone, to the highest heaven, or to the world of the good (Vā. Saṃ. 18-51, 52). The Gārhapatya fire carries the dead to the world of the good (Atha. Ve. 1-120-1). Agni first burns the body of the dead and afterwards places him in the world of the living (Atha. Ve. 18-3-71). The fire that burns corpses (Kravyāda) is different from the fire that carries the oblation to the gods (10-16-9). There is a prayer to Agni to burn the goat, which is his portion, and to protect the body (10-16-4). During the rite the corpse is laid on the skin of a black goat, and an animal or a goat is offered in the sacrifice. In the rite prayer is made to Agni and Soma to heal any wounds that may have been inflicted on the body by a bird, animal, ant or snake (10-16-6).
+
+It is believed that the dead soul goes to heaven with the smoke (Ā. Gṛ. Sū. 4.4-7). It is a very long way; there Pūṣan is the guardian and Savitṛ shows the way
+
+### Printed p. 486
+
+(10-17-4). The offered goat goes ahead to the fathers and announces the arrival of the dead soul; going so, it must pass the black darkness on the way and then reach the third storey of heaven, the abode of the fathers (Atha. Ve. 9-5-1, 3; compare 8-1-8). For use in the other-world life, ornaments and clothes are provided for the dead person; this custom is still in practice (18-4-31). There are traces here and there that his wife and weapons were also burnt with the corpse (10-18-8, 9). A bundle of firewood was tied to the corpse; its purpose was that the departed spirit of the dead should not know the way to come back (compare Atha. Ve. 5-19-12; Ṛ. Ve. 10-18-2 and 19-97-16).
+
+The soul: Fire or the grave destroys only the body; they cannot destroy the personality of the dead. The belief is that even in a state of unconsciousness the life can be separated from the body, and that life exists even after the body is destroyed. The whole of sūkta 10-58 calls back to return the life of one lying as if dead. In the Ṛgveda there seems to be no basis for belief in the soul's obtaining another body; but in the Brāhmaṇa it is said that one who has not performed the sacrifice in the prescribed manner, having died, is born again and becomes subject to death (Śa. Bā. 10-4-3-10). Prāṇa, ātman, asu (bodily force, 1-113-16; 1-140-8), manas (the seat of thought and feeling, located in the heart; 8-89-5): all these are words for life. Many passages, especially in the Atharvaveda, say that where there is asu or manas there is life, and where there is none, death. Asunīti or asunīta is the name of the way that leads the lives of the dead from this world to the upper world (10-15-4; 10-16-2). In the mantras used in the funeral rite the words asu or manas are not used; pitṛ, mātṛ and the like are used. Hence the soul is not like a shadow; it too has a personality. Although men attain immortality only after leaving the body (Śa. Brā. 11-4-3-9), the worlds such as heaven are also material (prākṛta), so the corpse too has a principal place. The body has a share in the existence of the other worlds (10-16-5, Atha. Ve. 18-2-26). A body free from all faults (Atha. Ve. 6-120-3) cannot be called an ordinary earthly body; it may be called a body purified by the power of Agni (compare 10-16-6), or the "subtle body" of the later Vedāntins. It is said that if the fires to be collected after the cremation are destroyed, that is the severest punishment (Śa. Brā. 11-6-3-11; 14-6-9-28); from this one can see how important the position of the corpse is. In 10-16-3 it is said that the eye of the dead should go to Sūra and the breath to Vāyu. Since Agni takes the dead to the other world,
+
+### Printed p. 487
+
+it does not seem fitting that each limb goes to a separate place. Perhaps it is said so in accordance with the description of Virāṭpuruṣa. In the same passage (10-16-3; also in 10-58-7) it is said that the life of the dead enters the waters or plants; perhaps this is the beginning of entry into another body.
+
+Continuing along the path followed by the fathers (10-14-7), the life of the dead goes to the world of eternal light (9-113-7); then, endowed with splendour equal to the gods (Atha. Ve. 11-1-37), he goes on a chariot, or on wings (Atha. Ve. 4.34.4), or on the wings that Agni uses when killing the evil beings (Vā. Sa. 18-52). Borne upward by the Marut, breathing the pleasant wind and cooled by raindrops, the soul regains its ancient form (Atha. Ve. 18-2-21 to 26) and, endowed with glory, together with Yama reaches the highest heaven where the fathers pass their time in joy (10-14-8, 10; 10-154-4, 5). The attainment of heaven in this way is described as returning home (अस्तं (*astaṃ*); 10-14-8). Yama, knowing him as his own (Atha. Ve. 18-2-37), gives him too a resting place (19-14-9).
+
+According to the Śatapatha Brāhmaṇa, the dead leave this world and pass between two fires; those fires burn the evil soul and let only the good go forward. The good souls that go ahead take either the path to the fathers or the path to Sūra (Śa. Brā. 1-9-3-2; etc.). In the Upaniṣads two paths are stated for those who have attained knowledge of Brahman. One (for the perfectly knowing) is going to Brahman. The second is the way to heaven; as soon as the fruit of their full works is exhausted, they come from this heaven and are born again on earth. Those who have no acquaintance with the ātman at all go to the world of evil deities or of ghosts and spirits, or, becoming wicked, are born again on earth.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदीरतामिति चतुर्दशर्चं पंचदशं सूक्तं । अत्रानुक्रम्यते । उदीरतां
+> षळूना तंखः पित्र्यं जगत्येकादशी । यामायना: परे पंचेति वचनाद्यमपुत्रः
+> शंखाख्य ऋषिः । अग्निष्वात्ता इत्येषा जगती शिष्टास्त्रिष्टुभः । पितरो देवता ॥ गतः
+> सूक्तविनियोगः ॥ अष्टकायामुदीरतामवर इत्याद्या अष्टावृचो होमार्थाः ॥
+> सूत्रितं च । उदीरतामवर उत्परास इत्यष्टाभिर्हुत्वा । आ. गृ. २ ४-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उदीरतां (*udīratāṃ*) is the fifteenth and has fourteen Ṛks. The Anukramaṇī says: उदीरतां षळूना तंखः पित्र्यं जगत्येकादशी (*udīratāṃ ṣaḷūnā taṃkhaḥ pitryaṃ jagatyekādaśī*). By the statement यामायना: परे पंच (*yāmāyanā: pare paṃca*) the seer is the son of Yama, called Śaṅkha. The eleventh Ṛk, अग्निष्वात्ताः (*agniṣvāttāḥ*), is a Jagatī; the rest are Triṣṭubh. The deity is the Pitṛs. The use of the sūkta has been stated (earlier). In the Aṣṭakā rite the eight Ṛks beginning उदीरतामवर (*udīratāmavara*) are for oblation, and the sūtra says उदीरतामवर उत्परास इत्यष्टाभिर्हुत्वा (*udīratāmavara utparāsa ityaṣṭābhirhutvā*) (Ā. Gṛ. 2 4-6).
+
+### Printed p. 488
+
+> महापितृयज्ञे पितरः सोमवंत इत्यस्यानुवाक्योदीरतामित्येषा । सूत्रितं च ।
+> पितरोग्निष्वात्ता यम उदीरतामवर उत्परासः । आ. २-१९ । इति ॥ अग्निमारुतेऽप्येषा धाय्या । सूत्रितं च । मातली कवैर्यमो अंगिरोभिरुदीरतामवर
+> उत्परासः । अ. ५-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, the Ṛk उदीरतां (*udīratāṃ*) is the anuvākyā for the offering to पितरः सोमवंतः (*pitaraḥ somavaṃtaḥ*); the sūtra says पितरोग्निष्वात्ता यम उदीरतामवर उत्परासः (*pitarogniṣvāttā yama udīratāmavara utparāsaḥ*) (Ā. 2-19). This Ṛk is also the dhāyyā in the Agnimāruta (śastra); the sūtra says मातली कवैर्यमो अंगिरोभिरुदीरतामवर उत्परासः (*mātalī kavairyamo aṃgirobhirudīratāmavara utparāsaḥ*) (Ā. 5-20).
+
+##### Anuvāda
+
+This sūkta beginning उदीरतां (*udīratāṃ*) is the fifteenth in the first anuvāka. It has fourteen Ṛks. In the Anukramaṇī it is said: उदीरतां षळूना शंखः पित्र्यं जगत्येकादशी (*udīratāṃ ṣaḷūnā śaṃkhaḥ pitryaṃ jagatyekādaśī*). Since the Anukramaṇī says यामायनः परे पंच (*yāmāyanaḥ pare paṃca*) (the seer of the next five sūktas is a son of Yama), the seer of this sūkta is Śaṅkha, the son of Yama. The eleventh Ṛk, अग्निष्वात्ताः (*agniṣvāttāḥ*), is in Jagatī metre. The remaining Ṛks are in Triṣṭup metre; the deity is the Pitṛs; the use of the sūkta was stated earlier. In the rite called Aṣṭakā the first eight Ṛks of this sūkta, beginning उदीरतामवरे (*udīratāmavare*), are to be used for oblation, as explained by the Āśvalāyana Gṛhya sūtra उदीरतामवर उत्परास इत्यष्टाभिर्हुत्वा (*udīratāmavara utparāsa ityaṣṭābhirhutvā*) (Ā. Gṛ. 2-4-6). In the Mahāpitṛyajña, in the oblation made to the special group of fathers called पितरः सोमवंतः (*pitaraḥ somavaṃtaḥ*), the first Ṛk उदीरतां (*udīratāṃ*) is to be recited as anuvākyā mantra, as explained by the Āśvalāyana Śrauta sūtra पितरोग्निष्वात्ता यम उदीरतामवर उत्परासः (*pitarogniṣvāttā yama udīratāmavara utparāsaḥ*) (Ā. 2-19); and among the mantras of the Agnimāruta śastra this Ṛk उदीरतां (*udīratāṃ*) is to be recited as dhāyyā mantra, as explained by the Āśvalāyana Śrauta sūtra मातली कनैर्यमो अंगिरोभिरुदीरतामवर उत्परासः (*mātalī kanairyamo aṃgirobhirudīratāmavara utparāsaḥ*) (Ā. 5-20).
+
+Sūkta—15
+Maṇḍala 10; Anuvāka 1; Sūkta 15.
+Aṣṭaka 7; Adhyāya 6; Vargas 13, 18, 19.
+Number of Ṛks in the sūkta: 14.
+Ṛṣi: Śambha Yāmāyana. **NOTE**
+Deity: the Pitṛs.
+Metre (*chaṃdaḥ*, printed वंदः (*vaṃdaḥ*)): Ṛks 1-10 and 12-14 Triṣṭup; 11 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑रता॒मव॑र॒ उत्परा॑स॒ उन्म॑ध्य॒माः पि॒तरः॑ सो॒म्यासः॑ ।  
+> असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्ते नो॑ऽवंतु पि॒तरो॒  ॑
+> हवेषु ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 482. pp. 477-482 (batch API)
+**Progress note:** Done through printed p. 488. pp. 483-488 (batch API)
