@@ -22269,6 +22269,217 @@ The sūkta इमं नो अग्न (*imaṃ no agna*) has nine Ṛks and i
 
 This sūkta इमं नो अग्ने (*imaṃ no agne*) is the twelfth sūkta in the tenth anuvāka. It has nine Ṛks. In this sūkta, from the second Ṛk to the following three Ṛks, that is, up to Ṛks 2-4, Agni himself as seer has praised himself. Therefore for those three Ṛks Agni is both seer and deity. Of the remaining Ṛks, for the 1st Ṛk Agni is the seer. For Ṛks 5-9 Agni, Varuṇa and Soma are the seers; for the first Ṛk Agni is the deity. For the ninth Ṛk Indra is the deity; for the remaining four Ṛks, that is Ṛks 5-8, those who are praised in them are the deities. The seventh Ṛk of this sūkta is in the Jagatī metre; the remaining Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said: इमं नो नव्येंद्रुत्तमा निहवोS ग्निवरुणसोमानामाद्याग्नेया तिस्रश्चाग्नेरात्मस्तवः शिष्टा यथानिपातं सप्तमी जगती (*imaṃ no navyeṃdruttamā nihavoS gnivaruṇasomānāmādyāgneyā tisraścāgnerātmastavaḥ śiṣṭā yathānipātaṃ saptamī jagatī*). The viniyoga has been stated earlier. **NOTE**
 
+### Printed p. 676
+Maṇḍala 10, Anuvāka 10, Sūkta 124. Aṣṭaka 8, Adhyāya 7, Vargas 9, 10. Number of Ṛks in the sūkta: 9.
+
+Ṛṣi: Ṛks 1, 5–9, Agni-Varuṇa-Somānāṃ Nihavaḥ; Ṛks 2–4, Agni. Devatā: Ṛks 1–4, Agni; Ṛks 5–8, as each occurs (yathānipātam); Ṛk 9, Indra. Chandas: Ṛks 1–6, 8, 9, Triṣṭubh; Ṛk 7, Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं नो॑ अग्न॒ उप॑ य॒ज्ञमेहि॒ पंच॑यामं त्रि॒वृतं॑ स॒प्ततं॑तुं ।  
+> असो॑ हव्य॒वाळु॒त नः॑ पुरो॒गा ज्योगे॒व दी॒र्घं तम॒ आश॑यिष्ठाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । नः । अग्ने । उप । यज्ञं । आ । इहि । पंचयामं । त्रिवृतं । सप्ततंतुं ।  
+> असः । हव्यवाट् । उत । नः । पुरःगाः । ज्योक् । एव । दीर्घं । तमः । आ ।  
+> अशयिष्ठाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भ्रातैषु हविर्वहनेषु मृतेषु मरणभीत्या कृतपलायनं गुहायां निगूढमग्निमग्न्याद्याः सूक्तद्रष्टार ऋषयोऽनयाह्वयन् । हे अग्ने नोस्माकमिमं
+> यज्ञमुपेहि । उपागच्छ । प्राप्पुहि । मा पलायिष्ठाः ! कीदृशं । पंचयामं
+> यजमानपंचमैऋत्विग्निर्नियमितं । यद्वा! धानाकरंभादिभिः पंचभिर्हविर्भिः
+> पंचभिः प्रयाजैर्वा प्राप्तं । त्रिवृतं पाकयज्ञहविर्यज्ञसोमयज्ञभेदेन
+> सवनत्रयात्मना वा त्रिगुणं सप्ततंतुं सप्त तंतनस्तनितारः कर्मणां विस्तारयितारो
+> होत्राद्याः सप्त वषट्कर्तारो यस्य! यद्वा। अग्निष्टोमोऽत्यग्निष्टोम उक्त्यः
+> षोळशी वाजपेयोऽतिरात्रोऽप्रोर्याम इति सप्तधा विस्तीयमाणं । ईदृशं
+> यज्ञमुपगत्य चानंतरं नोऽस्माकं हव्यवाड्धव्यानां हविषां वोढासः ! भव ॥
+> अस्तेर्लेट्यडागमः ॥ उतापि च नोऽस्माकं पुरोगाः पुरतो गंता भव ॥ जनसन-
+
+##### Gist of the bhāṣya
+
+With this Ṛk the seers of the sūkta, Agni's brothers (Agni and the rest), call Agni. His fellow oblation-bearers had died, and out of fear of death he had fled and hidden himself in a cave. "O Agni, come to this sacrifice of ours; do not flee." The sacrifice is described as पंचयामं (*paṃcayāmaṃ*): governed by five, the sacrificer as fifth together with the priests; or else reached through five oblations such as dhānā and karambha, or through the five prayājas. It is त्रिवृतं (*trivṛtaṃ*): threefold, by the division into the pākayajña, the haviryajña and the somayajña, or as consisting of the three savanas. It is सप्ततंतुं (*saptataṃtuṃ*): its vaṣaṭ-makers are seven, the hotṛ and the others, who spread out the rites; or else it is spread out in seven forms: the agniṣṭoma, atyagniṣṭoma, ukthya, ṣoḍaśī, vājapeya, atirātra and aptoryāma. "Having come to such a sacrifice, be the bearer of our oblations; and also be our leader, going before us." Sāyaṇa explains असः (*asaḥ*) as the root as with the augment aṭ in the leṭ form, and पुरोगाः (*purogāḥ*) as formed with viṭ.
+
+> खनक्रमगमो विट् । विड्वरोरनुनासिकस्यादित्यात्वं ॥ ज्योक् चिरकालमेवास्मान्परित्यज्य दीर्घं तमो महदंधकारं गुहायामाशयिष्ठाः । आस्थाय शयनमकार्षिः।
+> इत ऊर्ध्व० तस्मात्स्थानादस्मानागच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues: "For a long time you have forsaken us and lain in the cave, in long, great darkness. Rise from that place and come to us" is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पंचयामं (*paṃcayāmaṃ*)—performed by five persons, the four priests beginning with the hotṛ together with the sacrificer
+- त्रिवृतं (*trivṛtaṃ*)—consisting of the three savanas
+- सप्ततंतुं (*saptataṃtuṃ*)—accompanied by the seven vaṣaṭ-makers
+- नः (*naḥ*)—our
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice, with reference to it
+- उप आ इहि (*upa ā ihi*)—deign to come
+- नः (*naḥ*)—for us
+- हव्यवाट् (*havyavāṭ*)—as the bearer of the oblation
+- असः (*asaḥ*)—be
+- उत (*uta*)—and
+- *(naḥ)*—(for us)
+- पुरोगाः (*purogāḥ*)—be also the leader in front
+- ज्योक् एव (*jyok eva*)—for a long time (leaving us)
+- दीर्घं तमः (*dīrghaṃ tamaḥ*)—in great darkness
+- आ अशयिष्ठाः (*ā aśayiṣṭhāḥ*)—you have lain (therefore rise and come quickly)
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of the gods.) O Agni, you have long forsaken us and lain in deep darkness. Therefore leave that region enveloped in darkness (the region in the midst of the water), come to this sacrifice of ours, which is performed by the four priests beginning with the hotṛ and by the sacrificer, which consists of the three savanas and is accompanied by the seven vaṣaṭ-makers, and be in front of us as the bearer of our oblations.
+
+##### English translation
+Come, Agni, to this our sacrifice, which has five oblations, three-fold, spread out by seven (priests); be the bearer of our oblations, be our proceder, you have long been sleeping in profound darkness.
+
+##### विशेषविषयगळु (Special Topics)
+
+The second pāda of this Ṛk, पंचयामं त्रिवृतं सप्ततंतुं (*paṃcayāmaṃ trivṛtaṃ saptataṃtuṃ*), is also read as the fourth pāda of Ṛk 4 of Sūkta 52 of this same maṇḍala, विश्वे देवाः (*viśve devāḥ*). The three words in this pāda are all qualifying words for the word yajña. Sāyaṇa explains them as follows.
+
+### Printed p. 677
+पंचयामं (*paṃcayāmaṃ*)—यजमानपंचमैर्यत्विग्निर्नियमितं । यद्वा । धानाकरंभादिभिः पंचभिः हविर्भिः पंचभिः प्रयाज्यर्वा प्राप्तं ॥ (*yajamānapaṃcamairyatvignirniyamitaṃ | yadvā | dhānākaraṃbhādibhiḥ paṃcabhiḥ havirbhiḥ paṃcabhiḥ prayājyarvā prāptaṃ ‖*). Pañcayāma means the sacrifice performed jointly by these five: the sacrificer who performs the sacrifice, and the four priests called hotṛ, adhvaryu, udgātṛ and brahman; or the sacrifice in which the offering is made with five kinds of oblations, dhānā, karambha and the rest; or the sacrifice performed with the five kinds of prayāja offerings.
+
+### Printed p. 678
+त्रिवृतं (*trivṛtaṃ*)—पाकयज्ञ हविर्यज्ञ सोमयज्ञ भेदेन सवनत्रयात्मना वा त्रिगुणं (*pākayajña haviryajña somayajña bhedena savanatrayātmanā vā triguṇaṃ*). Among sacrifices there are three groups: pākayajñas, haviryajñas and somayajñas. Or else, when Soma juice is pressed in a sacrifice, it is pressed and prepared at three times of the day: morning, midday and evening. These three rites are called in order the morning savana, the midday savana and the third savana. The meaning is: the sacrifice that is made up of these three kinds of savana.
+
+सप्ततंतुं (*saptataṃtuṃ*)—सप्ततंतवस्तनितारः कर्मणां विस्तारयितारो होत्राद्याः सप्तवर्षट्कर्तारो यस्य तं । यद्वा अग्निष्टोमोऽत्यग्निष्टोम उक्त्यः षोळशी वाजपेयोऽपोर्याम इति सप्तधा विस्तीर्यमाणं ॥ (*saptataṃtavastanitāraḥ karmaṇāṃ vistārayitāro hotrādyāḥ saptavarṣaṭkartāro yasya taṃ | yadvā agniṣṭomo 'tyagniṣṭoma uktyaḥ ṣoḷaśī vājapeyo 'poryāma iti saptadhā vistīryamāṇaṃ ‖*). In a sacrifice there are seven priests, the hotṛ and others, appointed to offer the vaṣaṭkāra and other oblations. They are called the seven hotṛs. Who are they? The seven priests hotṛ, maitrāvaruṇa, brāhmaṇācchaṃsī, potṛ, neṣṭṛ, acchāvāka and āgnīdhra. The meaning is: the sacrifice carried out by them. Or else the meaning is: the sacrifice that is one of the seven forms (saṃsthā) called agniṣṭoma, atyagniṣṭoma, ukthya, ṣoḍaśī, vājapeya, atirātra and aptoryāma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदे॑वाद्दे॒वः प्र॒चता॒ गुहा॒ यन्प्र॒पश्य॑मानो अमृत॒त्वमे॑मि ।  
+> शि॒वं यत्संत॒मशि॑वो॒ जहा॑मि॒ स्वात्स॒ख्यादर॑णीं॒ नाभि॑मेमि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदेवात् । देवः । प्रचता । गुहा । यन् । प्रपश्यमानः । अमृतत्वं । एमि ।  
+> शिवं । यत् । संतं अशिवः । जहामि । स्वात् । सख्यात् । अरणीं । नाभिं । एमि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदेवाददेवनशीलाद्गुहा गुहायां वर्तमानात् ॥ सुपां सुलुगिति सप्तम्या
+> लुक् ॥ प्रचता देवानां प्रयाचनेन हेतुना यन् निर्गच्छन् देवो देवनशी-
+
+##### Gist of the bhāṣya
+
+अदेवात् (*adevāt*) means from one who has the nature of a deva, a god; गुहा (*guhā*) means in the cave. Sāyaṇa notes that the locative ending is dropped (luk) by the rule सुपां सुलुगिति (*supāṃ sulugiti*). प्रचता (*pracatā*) means by the entreaty of the gods, as the cause. यन् (*yan*) means coming out; the deva, whose nature is to shine, ...
+
+### Printed p. 679
+
+> लोहं प्रपश्यमानो देवैर्मदर्थं कल्पितं प्रयाजानुयाजादिलक्षणं हविर्भागं
+> प्रपश्यमानो निरीक्षमाणः सन्नमृतत्वमेमि । मरणधर्मराहित्यं देवत्वं
+> प्राप्नोमि ॥ दृशेर्व्यत्ययेनात्मनेपदं ॥ हनिर्वहनाध्भीतः पलायितोऽबादिसु
+> स्थानेषु निगूढः पुनर्देवैर्हनिर्वहनाय प्रार्थ्यमानस्मैर्दत्तेन हविषाहं
+> देवत्वं प्राप्तवानस्मीत्यर्थः । यद्यस्यहं गुहातो निर्गत्य प्रकाशमानः सञ्ज्योभनं यज्ञं निर्वर्तयामि तथापि शिवं शोभनं संतं भवंतं यज्ञमशिवोऽशोभनरूपोऽप्रकाशमानः सन् यद्यस्मिन्समाप्ति काले जहामि परित्यजामि तदानीं नाभिं
+> नहनशीलां बंधनशीलामरणीमश्वत्थमेव स्वात्सख्यादात्मीयात्सखित्वाच्चिरकालमश्वरूपोऽहं तत्र न्यवात्समिति स्नेहवशादेमि । प्राप्नोमि ॥
+
+##### Gist of the bhāṣya
+
+... seeing the share of oblations, marked by the prayājas, anuyājas and the like, which the gods have arranged for me, I attain immortality, that is, freedom from the nature of dying, godhood. The verb प्रपश्यमानः (*prapaśyamānaḥ*) takes the ātmanepada by vyatyaya. The meaning: afraid of carrying the oblations, I fled and hid in places such as the waters; when the gods again entreated me to carry oblations, I have gained godhood by the oblation they gave me. "If I come out of the cave, shine, and carry out a good sacrifice, yet when it is complete I, becoming inauspicious and not shining, abandon the auspicious sacrifice; then, through my own friendship, I go, I reach, the अरणीं (*araṇīṃ*), the aśvattha, which is of a binding nature (नाभिं (*nābhiṃ*)), out of affection, thinking: 'I, in the form of a horse, dwelt there for a long time.'"
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदेवात् (*adevāt*)—having come, leaving the form of the gods or the work of carrying oblations
+- गुहा (*guhā*)—the one hidden in a secret place (in the water)
+- प्रचता (*pracatā*)—by the entreaty made by the gods
+- यन् (*yan*)—the one who has come out (of the water)
+- देवः (*devaḥ*)—I, who am shining
+- प्रपश्यमानः (*prapaśyamānaḥ*)—looking at the shares of the oblation, marked by prayājas and the like, arranged for me by the gods
+- अमृतत्वं (*amṛtatvaṃ*)—godhood, free from the nature of dying
+- एमि (*emi*)—I obtain
+- शिवं (*śivaṃ*)—auspicious
+- संतं (*saṃtaṃ*)—your sacrifice
+- यत् अशिवः (*yat aśivaḥ*)—when it is not auspicious
+- जहामि (*jahāmi*)—I abandon it, and
+- नाभिं (*nābhiṃ*)—of the nature of a bond (my dwelling place)
+- अरणीं (*araṇīṃ*)—the araṇi made of aśvattha
+- स्वात् सख्यात् (*svāt sakhyāt*)—from my own affection
+- एमि (*emi*)—I reach (I go and join it)
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of Agni.) O gods, I had left the duty of the gods, that is, the work of carrying oblations, and stayed in the water, a secret place. Entreated by you, the gods, and looking at the prayāja and other oblations arranged for me, I come back to you and obtain immortality. When your sacrifice is no longer auspicious, that is, when the sacrifice comes to its completion, I abandon it and go and join my own place, the araṇi, through the former friendship.
+
+##### English translation
+(Agni speaks :) From being no divinity I issue a divinity from the cave at the solication (of the gods). and being manifest I attain immortality ; when being inauspicious, I abandon the sacrifice as it becomes auspicious. through my (old) friendship I come to the binding touch-wood,
+
+### Printed p. 680
+
+##### विशेषविषयगळु (Special Topics)
+
+Agni speaks thus: Fearing that the work of carrying oblations was very dangerous, I ran away and hid in the water, a secret place, where no one would know. Then the gods searched for me and came there, and when they entreated me to undertake again the carrying of oblations for them, I accepted from them the boons they granted, namely the prayāja and other oblations, and gained godhood. Therefore I rise up out of the secret place where I was hidden, shine as before, and carry out the excellent work of the sacrifice. And after the sacrifice is completed, since that sacrifice is no longer auspicious, I then abandon it and, as a result of the former friendship between me and the araṇi, my dwelling place, I go back and join the araṇi itself. This is the main sense of the Ṛk.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पश्य॑न्न॒न्यस्या॒ अति॑थिं व॒याया॑ ऋ॒तस्य॒ धाम॒ वि मि॑मे पु॒रूणि॑ ।  
+> शंसा॑मि पि॒त्रे असु॑राय॒ शेव॑मयज्जि॒याद्य॒ज्ञॆयं॑ भा॒गमे॑मि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पश्यन् । अन्यस्याः । अतिथिं । वयायाः । ऋतस्य । धाम । वि । मिमे । पुरूणि ।  
+> शंसामि । पित्रे । असुराय । शेवं । अयज्ञियात् । यज्ञियं । भागं । एमि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मम स्थानभूता या पृथिवी ततोऽन्यस्या वयाया गंतव्याया दिवः संबंधिनमतिथिं सततगामिनं सूर्यं पश्यञ्जनन् सूर्यस्य गतिमनुसृत्य वसंतादिकाल ऋतस्य
+> यज्ञस्य धाम धामानि शरीराणि पुरूणि बहूनि वि मिमे । निर्ममे ! निष्पादयामि ।
+> ततः पित्रे पितृभूताय द्युलोकवर्तिने देवजनायासुराय शत्रुक्षेपणकुशलाय
+> शेवं सुखमुद्दिश्य होता भूत्साहमुक्थानि शंसामि । यत एवं तस्मात्कारणादयज्ञियाद्यज्ञानर्हात्पदेशान्निर्गत्य यज्जियं यज्ञार्हं वेदिलक्षणं भूभागं
+> हविर्लक्षणं वैमि । प्राप्नोमि ॥ यज्ञशब्दादर्हार्थे यज्ञर्त्वग्भां घखञाविति
+> घप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+"Beholding the guest, the ever-moving Sun, belonging to the heaven that is to be gone to, which is other than the earth that is my place, that is, following the Sun's course, I create many abodes, bodies, of the sacrifice, at the seasons such as spring. Then, for the father, the asura, the company of gods dwelling in the sky, skilled in casting off enemies, I become hotṛ and recite the ukthas for their happiness. Therefore, leaving the place unfit for sacrifice, I go to the sacrificial portion of earth, the altar, and obtain the oblation." Sāyaṇa adds that यज्ञियं (*yajñiyaṃ*) is formed from the word yajña in the sense "fit for", with the affix gha.
+
+### Printed p. 681
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अन्यस्याः (*anyasyāḥ*)—other than the earth, my own place
+- वयायाः (*vayāyāḥ*)—different, that is, belonging to heaven
+- अतिथिं (*atithiṃ*)—the Sun, who is always moving
+- पश्यन् (*paśyan*)—looking, that is, following his course
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पुरूणि (*purūṇi*)—of many kinds
+- धाम (*dhāma*)—bodies, that is, forms
+- वि ममे (*vi mame*)—I create
+- असुराय (*asurāya*)—skilled in subduing enemies
+- पित्रे (*pitre*)—to the company of gods in heaven who are as fathers
+- शेवं (*śevaṃ*)—in order to bring happiness, as hotṛ priest
+- शंसामि (*śaṃsāmi*)—I recite the ukthas
+- अयज्ञियात् (*ayajñiyāt*)—leaving the region unfit for sacrifice
+- यज्जियं (*yajjiyaṃ*)—to the region of earth fit for sacrifice, the altar
+- एमि (*emi*)—I go
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of Agni.) O gods, leaving this earth, my own place, and following the course of the Sun, who moves always in another place, heaven, I create manifold institutions of sacrifice (many kinds of sacrifices). To bring happiness to the company of gods who dwell in the sky and are skilled in subduing enemies, I take the part of hotṛ and recite the ukthas; abandoning the evil regions unfit for sacrifice, I go to the sacrificial altar fit for sacrifice.
+
+##### English translation
+Beholding the guest of another family, I have created the manifold
+abodes of sacrifice; I repeat praises, (wishing) good luck to the paternal foe-
+destroying (race of deites), I pass from a place unfit for sacrifice to a place
+where sacrifice can be offered.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒ह्वीः समा॑ अकरमं॒तर॑स्मि॒न्निंद्रं॑ वृणा॒नः पि॒तरं॑ जहामि ।  
+> अ॒ग्निः सोमो॒ वरु॑ण॒स्ते च्य॑वंते प॒र्याव॑र्द्रा॒ष्टं तद॑वाम्या॒यन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बह्वीः । समाः । आकरं । अंतः । अस्मिन् । इंद्रं । वृणानः । पितरं । जहामि ।
+
 ---
 
-**Progress note:** Done through printed p. 675. pp. 670-675 (batch API)
+**Progress note:** Done through printed p. 681. pp. 676-681 (batch API)
