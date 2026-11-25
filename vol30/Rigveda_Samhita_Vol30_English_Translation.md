@@ -14112,6 +14112,83 @@ May Varuṇa's wrath not harm us but remain far from us. May Indra provide us wi
 The one, Varuṇa, bears many kinds of vital powers. The other, Indra, utterly destroys endless enemy armies.
 (2-85-3) **NOTE**
 
+### Printed p. 422
+
+All of the above are descriptions of the personal deeds of these gods. Next, some of the descriptions of their well-coordinated, mutually helpful major undertakings may be examined.
+(7-85-3)
+O Indra and Varuṇa, you both, by your power, removed the obstruction that held back the waters and made them fit to flow. You made the Sun, the illuminator of the world, lord of the atmosphere. As the fruit of the joy born of drinking Soma, you made all the banks of the river fertile. Be gracious and make the purpose of our sacrificial rite fruitful.
+(7-82-3)
+O Indra and Varuṇa, by your great power you have created all the beings of the world.
+(7-82-5)
+All the other gods too fill Indra and Varuṇa, who dwell in the loftiest region of the atmosphere, with water and brilliance. (7-82-2)
+In the same way, in some other mantras Indra and Viṣṇu are praised together.
+Indra and Viṣṇu, the unobstructed and great ones, stand in splendour on the lofty region of the clouds that are like mountain peaks, as if mounting tamed horses and climbing to high places. To Indra and Viṣṇu, the mighty and heroic, offer your nourishing food in the form of Soma.
+(7-1552-0)**NOTE**
+O Indra and Viṣṇu, through Agni the bestower of desired things, you always supply to the human sacrificer the food and other things to be received as the fruit of sacrifice. The sacrificer worships the radiant and united coming of you two, who thus perform acts such as granting desires.
+(1-25-2)
+For the sake of giving living beings the power of procreation and the capacity to enjoy pleasures, he distributes to heaven and earth great manly power. By the grace of Viṣṇu, every man obtains this power, established in the orb of the intensely shining Āditya, in the form named sons, grandsons and so on.
+(C-2538-2 : C.77-5)**NOTE**
+The companionship of Indra and Agni too is praised in many places. (1-25 : 1-27), for example—
+
+### Printed p. 423
+
+O Indra and Agni, you have made your auspicious name famous as always joint and united; and as slayers of Vṛtra you were united even at the time of the slaying of Vṛtra. Therefore, O Indra and Agni, bestowers of desires, come together, sit on the sacrificial altar and drink the flowing Soma juice of your share.
+(1-108-3)
+O Indra and Agni, who hold the thunderbolt in your hand, bring wealth for us and give it to us. Protect us, who perform the sacrifice, by your heroic deeds. By those same rays of Indra in the form of the Sun, by which our fathers, grandfathers and others together reached the world of Brahmā, may these very rays, visible to our eyes, favour us too.
+(1-109-7 ; 3-12 ; 55-86 ; 6-59)
+In the same way, joint descriptions and praises such as Indra–Vāyu, Indra–Pūṣan and Indra–Soma are very numerous.
+(4-46 to 8) Indra–Vāyu; (6-57) Indra–Pūṣan; (6-72; 7-104) Indra–Soma.
+What is described in the mantras that use the word असिंद्र (*asiṃdra*) deserves notice. This word is used in many contexts.
+(1-133-1 ; 4-23-6 ; 5.2-3 ; 7.18-16 ; 10-27-6 ; 10-48-7)
+अनिंद्र (*aniṃdra*) means one who is not a worshipper of Indra. By this word may be meant either non-Āryas who did not worship Indra and the other gods, or the demonic powers hostile to Indra.
+In the twelfth sūkta of the second maṇḍala the description of Indra's great qualities is most excellent. Only some of it may be examined here. They describe Indra's power of governing the universe.
+The extremely wise Indra, as soon as he was born, surpassed by his great power all the other gods. O men, know that he is Indra, at whose power and might heaven and earth trembled. (2-12-1)
+O men, know that he is Indra who made the trembling earth stand firm, who made the agitated mountains immovable, who created the very wide atmosphere and who supports the heavenly world. (2-12-2)
+"I, the divine self, have obtained extremely mighty power, an unconquerable state and unobstructed valour only with the help of Ādityas and other gods.
+
+### Printed p. 424
+
+Therefore I shall not cause any harm to the excellent states of the Ādityas, the Vasus, and the adopted-son Maruts." These words of Indra (10.48-11) show the occasion on which Indra expresses his gratitude towards the other gods.
+We conclude this section by stating the purport of some of the laudatory statements that Indra alone accomplished extraordinary deeds impossible for other gods.
+Indra alone, who surpasses men and does not seek the help of others, possesses power greater than all living beings, and also power that no one can conquer.
+(8-6-2)
+All the other gods too praise Indra's excellent valour and prowess and thereby show their humility.
+(8-63-7)
+May our praise addressed to Indra be truthful, with no untruth in it of any kind. Extremely severe calamity befalls one who does not offer Soma juice to Indra; but the devotee who worships Indra with an offering of Soma obtains abundant wealth together with great light.
+(8-6-2)
+There is no god equal to Indra. Therefore there is no possibility of any god having qualities surpassing his.
+(4-30-1)
+This Indra alone conquered all the gods in battle; and even the most ancient gods, recognizing Indra's might, showed their humility before him and accepted his lordship. (7-21-7)
+All the other gods, Varuṇa, Sūrya and the rest, bow to the ordinance laid down by Indra and perform their duties.
+(1-101-3)
+Indra alone conquered all the enemies equal to the gods Mitra, Aryaman and Varuṇa (10-89-8, 9). From such statements it is understood that Indra has greater might than all the gods named in them.
+
+### Printed p. 425
+
+Description of the slaying of the Asura**NOTE**
+The Asura Vṛtra is of evil nature. His nature is known to no one. He has no good understanding. It is his nature always to lie obstructing the waters. It is described that Indra killed this base-natured Vṛtra with the thunderbolt on the day of the full moon. On this matter the commentators—
+quoting a passage of the Taittirīya Saṃhitā, have shown that it states that Indra killed Vṛtra on the day of the full moon. Since all the seers have praised Indra's slaying of Vṛtra, it is necessary to give here a detailed account of that slaying. Therefore we set out here the mantra portion of the Yajurveda that gives that account, together with its meaning:—
+त्वष्टा हतपुत्रो वींद्रग्ं सोममाहरत्तस्मिन्निंद्र उपहवमैच्छत तं नोपाह्वयत पुत्रं मेवधीरिति स यज्ञवेशसं कृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यश तत्त्वष्टाहवनीयमुप प्रावर्तयत्स्वाहेंद्रशत्रुर्वर्धस्वेति यदवर्तयत्तद्वृत्रस्य वृत्रत्वं यदब्रवीत्स्वाहेंद्रशत्रुर्वर्धस्वेति तस्मादस्येंद्रः शत्रुरभवत्स संभवन्नग्नीषोमावभि समभवत्स इषुमात्रमिषुमात्रं विष्णज्जवर्धत स इमान् लोकानवृणोद्यदिमान् लोकानवृणोत्तद्वृत्रस्य वृत्रत्वं तस्मादिंद्रोऽभिभेत् ॥ (*tvaṣṭā hataputro vīṃdragṃ somamāharattasminniṃdra upahavamaicchata taṃ nopāhvayata putraṃ mevadhīriti sa yajñaveśasaṃ kṛtvā prāsahā somamapibattasya yadatyaśiṣyaśa tattvaṣṭāhavanīyamupa prāvartayatsvāheṃdraśatrurvardhasveti yadavartayattadvṛtrasya vṛtratvaṃ yadabravītsvāheṃdraśatrurvardhasveti tasmādasyeṃdraḥ śatrurabhavatsa saṃbhavannagnīṣomāvabhi samabhavatsa iṣumātramiṣumātraṃ viṣṇajjavardhata sa imān lokānavṛṇodyadimān lokānavṛṇottadvṛtrasya vṛtratvaṃ tasmādiṃdro 'bhibhet ‖*)
+(Tai. Saṃ. 2-53-2-1)**NOTE**
+In this anuvāka the account of Indra's killing of Vṛtra is given. Behind this story there is another narrative; although we have explained it earlier, it is necessary to explain it briefly here as an introduction to what follows. Formerly Tvaṣṭṛ Prajāpati had a son named Viśvarūpa. He was the priest of the gods; but since he was born of an Asura woman, he had a special fondness for the Asuras. Indra feared that this Viśvarūpa, though priest to the gods, being partial to the Asuras, might watch his opportunity, help the Asuras and plot so that the gods would have no kingdom at all. Therefore Indra killed him by another means. This very matter is stated here by the sentence त्वष्टा हतपुत्रः वींद्रग्० सोममा.. हरत् (*tvaṣṭā hataputraḥ vīṃdrag0 somamā.. harat*). Out of anger that Indra had killed his son, Tvaṣṭṛ, when performing his sacrifice, did not invite Indra to the sacrifice and performed it leaving him out. He did not give him Soma to drink either. Angered by this, Indra came to his sacrifice, obstructed it, and moreover forcibly drank the Soma juice prepared for the sacrifice. Seeing this,
+
+### Printed p. 426
+
+Tvaṣṭṛ resolved to take suitable revenge on Indra, poured the Soma juice left over after Indra's drinking into the Āhavanīya fire, and, praying to Agni with स्वाहेंद्रशत्रुर्वर्धस्व (*svāheṃdraśatrurvardhasva*)—"may a son be born who will conquer Indra and be an enemy to Indra"—offered the remainder of the Soma in the fire. While he offered thus, because of an error of accent in the mantra, instead of a son who would conquer Indra, a son was born who would be conquered by Indra. This son was Vṛtra. This is the manner of his origin. That if an accent is wrongly pronounced when reciting mantras in sacrifices and the like, harm comes to the sacrificer:—
+दुष्टः तब्बः स्वरतो वर्णतो ना मिथ्याप्रयुक्तो न तमर्थमाह । स वाग्वज्रो यजमानं हिनस्ति यथेंद्रशत्रुः स्वरतोऽपराधात् ॥ (*duṣṭaḥ tabbaḥ svarato varṇato nā mithyāprayukto na tamarthamāha | sa vāgvajro yajamānaṃ hinasti yatheṃdraśatruḥ svarato 'parādhāt ‖*)
+(Pāṇinīya Śikṣā)
+The great sage Pāṇini took this very case as his example. Thus, through the error of accent in the mantra, instead of a son who would subdue Indra, as Tvaṣṭṛ wished, a son was born who would be refined**NOTE** by Indra. Even so, that Vṛtra grew in strength by the oblation made in the fire to the deities Agni and Soma. Each day he grew by the measure of an *èllu***NOTE**, became huge in form, and pervaded all these worlds everywhere. Because he was of a nature to pervade all regions, Vṛtra got the name Vṛtra. The word vṛtra is formed from the root वृज् वरणे (*vṛj varaṇe*), meaning to cover, to enclose, to pervade, and indicates the significant name "he who pervades everything." Seeing Vṛtra grow in this way, Indra was afraid.
+स प्रजापतिमुपाधावङ्भुत्रुर्मेऽजनीति तस्मै वज्रग्ं सिक्ता प्रायच्छदेतेन जहीति तेनाभ्यायत ॥ (*sa prajāpatimupādhāvaṅbhutrurme 'janīti tasmai vajragṃ siktā prāyacchadetena jahīti tenābhyāyata ‖*)
+Then Indra went to Prajāpati and prayed, "O Brahmā, an enemy has been born to me; how is he to be killed?" Prajāpati comforted Indra, telling him not to fear, made his thunderbolt sharp and gave it to him, saying, "With this weapon kill your enemy." Indra took it and came to Vṛtra.
+तावब्रूतामग्नीषोमौ मा प्रहारावमंतः स्व इति मम वै युवग् स्थ इत्य ब्रवीन्मामभ्येतमिति तौ भागधेयमैच्छीतां ताभ्यामेतमग्नीषोमीय मेकादशकपालं पूर्णमासे प्रायचत्तावबूतामभि संदष्ट्वै स्नो न तक्कुव ऐतुमिति स इंद्रआत्मनः शीतरूरावजनयत्तच्छीतरूरयोर्जन्मय ऐवग्ं शीतरूरयोर्जन्म वेद नैनग्ं शीतरूरा हतस्ताभ्यामेनमभ्यनयत्तस्माज्जंजभ्यमानादग्नीषोमौ निरक्रामतां ॥ (*tāvabrūtāmagnīṣomau mā prahārāvamaṃtaḥ sva iti mama vai yuvag stha itya bravīnmāmabhyetamiti tau bhāgadheyamaicchītāṃ tābhyāmetamagnīṣomīya mekādaśakapālaṃ pūrṇamāse prāyacattāvabūtāmabhi saṃdaṣṭvai sno na takkuva aitumiti sa iṃdraātmanaḥ śītarūrāvajanayattacchītarūrayorjanmaya aivagṃ śītarūrayorjanma veda nainagṃ śītarūrā hatastābhyāmenamabhyanayattasmājjaṃjabhyamānādagnīṣomau nirakrāmatāṃ ‖*)
+
+### Printed p. 427
+
+Then, when Indra was ready to strike Vṛtra with his weapon, Agni and Soma stopped Indra from striking, saying: "O Indra, do not strike Vṛtra now. We, the deities Agni and Soma, are dwelling in this Vṛtra's mouth." Indra said, "O Agni and Soma, you are our own people. Therefore leave Vṛtra's body and come to me. Then I shall kill Vṛtra." Hearing this, the deities Agni and Soma said: "O Indra, if we do as you say, what favour will you do us? If you arrange a share for us also in the sacrifice, we will do as you say." Indra agreed and arranged for them, in the full-moon sacrifice, a share of the oblation of the purodāśa cake offering called the eleven-potsherd one. Then, although Agni and Soma had thus obtained the boon they wanted, they said to Indra: "O Indra, we cannot now come out of Vṛtra's mouth. We are caught between Vṛtra's teeth and held tightly. Unless he opens his mouth we cannot come out." Then Indra thought of a means for this. From his own body he created cold-fever and the great heat arising from it. This was the first time cold-fever afflicted people in the world. The man who knows this manner of origin of cold-fever is not troubled by this fever. Then Indra took the cold and fever he had created and made them enter the body of the Asura Vṛtra. Then Vṛtra, shivering with cold and exhausted by the heat of fever, opened his mouth wide to sigh from weariness. At once the deities Agni and Soma came out of his mouth.
+प्राणापानौ ना एनं तदजहितां प्राणो वै दक्षोऽपानः क्रतुस्तस्माज्जंजभ्यमानो ब्रूयान्मयि दक्षक्रकू इति प्राणापानावेवात्मन्धत्ते सर्वमायुरेति । (*prāṇāpānau nā enaṃ tadajahitāṃ prāṇo vai dakṣo 'pānaḥ kratustasmājjaṃjabhyamāno brūyānmayi dakṣakrakū iti prāṇāpānāvevātmandhatte sarvamāyureti |*)
+Thereafter the vital airs called prāṇa and apāna abandoned that Vṛtra; that is, they left his body. The word prāṇa means dakṣa, and the word apāna means kratu. Dakṣa means skill in work, understanding. Kratu means bodily strength for work, capacity. Both of these left that Vṛtra who had opened his mouth. Therefore, while a sacrificial rite is being performed, if one moves the body or yawns and opens the mouth, one must then utter the mantra मयि दक्षक्रतू (*mayi dakṣakratū*). If one does so, prāṇa and apāna do not leave the sacrificer but remain firm. Long life also results.
+स देवता वृत्रान्निर्हूय वार्त्र्घ्नग्ं हविः पूर्णमासे निरवपद् घ्नंति ना एनु पूर्णमास अमावास्यायां प्याययंति तत्पद्वार्त्र्घ्निः पूर्णमासेऽनूच्येते वृधन्वति अमावास्यायां ॥ (*sa devatā vṛtrānnirhūya vārtrghnagṃ haviḥ pūrṇamāse niravapad ghnaṃti nā enu pūrṇamāsa amāvāsyāyāṃ pyāyayaṃti tatpadvārtrghniḥ pūrṇamāse 'nūcyete vṛdhanvati amāvāsyāyāṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 421. pp. 416-421 (batch API)
+**Progress note:** Done through printed p. 427. pp. 422-427 (batch API)
