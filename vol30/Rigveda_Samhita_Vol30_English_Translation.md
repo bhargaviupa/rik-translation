@@ -4146,6 +4146,287 @@ You have ancient sages approached, with hymns; you, O invoked of many, all worsh
 > एतानि । अग्ने । नवतिः । नव । त्वे इति । आहुतानि । अधिरथा । सहस्रा ।  
 > तेभिः । वर्धस्व । तन्वः । शूर । पूर्वीः । दिवः । नः । वृष्टिं । इषितः । रिरीहि ॥ १० ॥
 
+### Printed p. 116
+#### Ṛk 10 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने गवां नवतिर्नव च तथैतान्यधिरथानि सहस्रा सहस्राणि च रथाधिकानि
+> गवां सहस्राणि च त्वे त्वय्याहुतानि त्वयि प्रीणयितव्ये सत्याहुतानि । यद्वा । त्वे
+> त्वय्याहुतानि समर्पितानीत्यर्थः । तेभिस्तैः प्रत्तैः पूर्विर्बह्वस्तन्वस्तनूर्युष्मदीया वर्धस्व । वर्धय । नोऽस्मदर्थं दिवो द्युलोकाद्वृष्टिमिषितः प्रार्थितः
+> सन् रिरीहि । पूरय ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, these ninety-nine of cattle, and these thousands, exceeding a chariot-load, of cattle, have been offered in you." That is, they have been offered while you are the one to be gratified. Alternatively, "offered in you" means "dedicated to you." "With them", the things given, "make your many bodies, your own forms, grow." "Being solicited on our behalf, fill (send) rain from heaven, the world of light."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- अग्ने (*agne*)—O Agni
+- नवतिः नव एतानि अधिरथा (*navatiḥ nava etāni adhirathā*)—offerings filling ninety-nine chariots
+- सहस्रा (*sahasrā*)—animals and the like, a thousand in number
+- त्वे (*tve*)—in you
+- आहुतानि (*āhutāni*)—have been offered
+- तेभिः (*tebhiḥ*)—with them
+- पूर्वीः (*pūrvīḥ*)—your manifold
+- तन्नः (*tannaḥ*)—bodies
+- वर्धस्व (*vardhasva*)—make grow
+- इषितः (*iṣitaḥ*)—solicited by us
+- नः (*naḥ*)—to us
+- दिवः (*divaḥ*)—from heaven
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- रीरिहि (*rīrihi*)—pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Agni, offerings filling ninety-nine chariots, and animals and the like in thousands, have been offered in you. With them make your manifold bodies grow. Solicited by us, pour down rain for us from heaven.
+
+##### English translation
+These ni e y-and-nine thousands of chariot-loads have been offered, Agni, to you ; with them, O hero, nourish yonr many bodies; and thus solicited send us rain from heaven.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तान्य॑ग्ने नव॒तिं स॒हस्रा॒ सं प्र य॑च्छ॒ वृष्ण॒ इंद्रा॑य भा॒गं ।  
+> वि॒द्वान्प॒थ ऋ॑तु॒शो दे॑व॒याना॒नपौ॑ला॒नं दि॒वि दे॒वेषु॑  
+> धेहि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतानि । अग्ने । नवतिं । सहस्रा । सं । प्र । यच्छ । वृष्णे । इंद्राय । भागं ।  
+> विद्वान् । पथः । ऋतुशः । देवयानान् । अपि । औलानं । दिवि । देवेषु । धेहि॥११॥
+
+### Printed p. 117
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने गवामेतानि नवतिं सहस्रा सहस्राणि च वृष्णे वर्षित्र इंद्राय भागं
+> सं प्र यच्छ । तत्प्रीत्यर्थमृत्विग्धो देहि । किंच देवयानान्पथो देवयानान्मा
+> र्गान्निद्वांस्तमृतुशः काले काल औलानमसि कुरुकुलजातमसि शांतनवं देवेषु
+> मध्यॆ धेहि । निधेहि । स्थापय ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, these ninety (of cattle) and thousands, give together as a share to Indra the showerer (the rain-giver)." For his gratification, "give them to the priests." Further: "Knowing the paths the gods travel, in due season, place the Aulāna, the one born in the Kuru family, the descendant of Śantanu, in heaven among the gods."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नवतिं (*navatiṃ*)—ninety in number
+- सहस्रा (*sahasrā*)—and countless
+- एतानि (*etāni*)—these offerings
+- वृष्णी (*vṛṣṇī*)—the bestower of desires
+- इंद्राय (*iṃdrāya*)—to Indra
+- भागं (*bhāgaṃ*)—since it is the share that belongs to him
+- सं प्रयच्छ (*saṃ prayaccha*)—offer
+- देवयानान् (*devayānān*)—travelled by the gods
+- पथः (*pathaḥ*)—the paths
+- विद्वान् (*vidvān*)—you who know
+- ऋतुतः (*ṛtutaḥ*)—according to the respective seasons
+- औलानमपि (*aulānamapi*)—Śantanu, born in the Kuru family
+- दिवि (*divi*)—in heaven
+- देवेषु (*deveṣu*)—among the gods
+- धेहि (*dhehi*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, offer to Indra, the bestower of desires, the ninety cows that are his share and the countless offerings. You who know the paths the gods travel, establish Śantanu, born in the Kuru family, in heaven among the gods, according to the respective seasons.
+
+##### English translation
+Give, Agni, these nienty thousands to the showerer, Indra, as his share; knowing the paths traversed by the gods in due season place the Aulana (Shantanu) in heaven amongst the gods.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ बाध॑स्व॒ वि मृधो॒ वि दु॒र्गहापामि॑वा॒मप॒ रक्षां॑स  
+> सेध ।  
+> अ॒स्मात्स॑मु॒द्राद्दृ॑ह॒तो दि॒वो नो॒पां भू॒मान॒मुप॑ न  ॒
+> सृजेह ॥ १२ ॥
+
+### Printed p. 118
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । बाधस्व । वि । मृधः । वि । दुःगहा । अप । अमीनां । अप । रक्षांसि । सेध ।  
+> अस्मात् । समुद्रात् । बृहतः । दिवः । नः । अपां । भूमानं । उप । नः । सृज  
+> इह ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने दुर्गहा दुर्गहाणि दुःखेन गाहितव्यानि शत्रुपुराणि वि बाधस्व ।
+> तथामिानां रोगमप सेध । तथा रक्षांस्यप सेध । अपवारय । अस्मात्समुद्रात्
+> समुद्रवणसाधनादृहतो महतो दिवो द्युलोकादंतरिक्षाद्वापामुदकानां
+> भूमानं बहुभावं वृष्टिसंस्कृयमिहास्मिल्लोक उप सृज । प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, destroy the strongholds (durgahā), the enemy cities hard to enter. Likewise drive away disease (amīvā); likewise drive away the Rakṣases, keep them off. From this ocean, from the great heaven, the world of light, or from the sky, send forth here, to this world, the abundance (bhūmāna), the plenty, of the waters, that is, of the rain-formed waters; the meaning is: give."
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दुर्गहा (*durgahā*)—the enemy strongholds that others cannot enter
+- वि बाधस्व (*vi bādhasva*)—destroy
+- अमीवां (*amīvāṃ*)—disease
+- अप सेध (*apa sedha*)—destroy
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- अप (सेध) (*apa (sedha)*)—drive far away
+- मृधः (*mṛdhaḥ*)—destroy the violent enemies
+- समुद्रात् (*samudrāt*)—from the one that supplies a flow of water
+- बृहतः (*bṛhataḥ*)—and great
+- आस्मात् दिवः (*āsmāt divaḥ*)—from this heaven
+- अपां (*apāṃ*)—of the waters
+- भूमानं (*bhūmānaṃ*)—the abundant streams
+- नः (*naḥ*)—for us
+- इह (*iha*)—to this world
+- उप सृज (*upa sṛja*)—supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, destroy the enemy strongholds that others cannot enter. Destroy disease. From heaven, which supplies a flow of water and is great, supply for us an abundant flow of water to this world.
+
+##### English translation
+Demolish, Agni, our enemies, demolish their strongholds, drive away disease, drive away the Rakshasas: from this ocean, from vast heaven send down upon us here abundance of rain.
+
+### Printed p. 119
+## Sūkta 99 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कं न इति द्वादशर्चं नवमं सूक्तं । वैखानसस्य वम्रस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । कं नो वम्रो वैखानस इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, "कं नः (*kaṃ naḥ*)", has twelve ṛks. Its seer is Vamra, son of Vikhanas (Vaikhānasa); its deity is Indra; its metre is Triṣṭubh. The Anukramaṇī says: "Kaṃ no Vamro Vaikhānasaḥ." The viniyoga has been given already.
+**NOTE**
+
+##### Anuvāda
+
+This sūkta "कं नः (*kaṃ naḥ*)" is the ninth sūkta in the eighth anuvāka. It has twelve ṛks. Its seer is Vamra, the son of the sage Vikhanas. Indra is the deity. The metre is Triṣṭubh. In the Anukramaṇī it is said: "Kaṃ no Vamro Vaikhānasaḥ." The viniyoga has already been stated earlier.
+
+##### Particulars
+
+- Maṇḍala 10; Anuvāka 8; Sūkta 99
+- Aṣṭaka 8; Adhyāya 5; Varga 14, 15
+- Number of ṛks in the sūkta: 12
+- Ṛṣi: Vamra Vaikhānasa
+- Deity: Indra
+- Metre: Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कं न॑श्चि॒त्रमि॑षण्यसि चिकि॒त्वान्पृ॑थु॒ग्मानं॑ वा॒श्रं वा॑वृ॒धध्यै॑  
+> कत्तस्य॒ दातु॒ शव॑सो॒ व्यु॑ष्टौ॒ तक्ष॒द्वज्रं॑ वृत्र॒तुर॒मपि॑न्वत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कं । नः । चित्रं । इषण्यसि । चिकित्वान् । पृथुग्मानं । वाश्रं । ववृधध्यै ।  
+> कत् । तस्य । दातु ! शवसः । विउष्टौ । तक्षत् । वज्रं । वृत्रतुरं । अपिन्वत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्माकं चित्रं चायनीयं कं धनविशेषमिषण्यसि । प्रेरयसि ।
+> चिकित्सान् सर्वथा प्रेरणीयमिति जानन् । कीदृशं तं । पृथुग्धानं पृथुभावं
+
+### Printed p. 120
+
+> प्राप्नुवंतं वाश्रं शब्दनीयं स्तुत्यं । किमर्थं च । ववृधध्या अस्माकं वर्धनाय !
+> किंच तस्येंद्रस्य शवसो बलस्य व्युष्टौ व्युच्छने सति कद्दातु किं दानमस्माकं
+> भवतीति शेषः । यं वज्रं वृत्रतुरं वृत्रस्यावरकस्य पापस्य हिंसकं त्वष्टा तक्षत्
+> आलक्ष्मि साधु संपादितवान् अपिन्वत् असिंचच्च! तस्य शवसो व्युष्टाविति संबंधः ।
+> यद्वा! हे इंद्र कत्किं तस्य वज्रस्य दानं भवति यं वज्रमिंद्रार्थं तक्षदिति योजता
+> मह्यं त्वष्टा वज्रमतक्षदायसं । ऋ. १०-४८-३ । इति मंत्रांतरं ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, what wonderful, desirable special wealth do you send to us (iṣaṇyasi, 'you impel'), knowing that it is to be sent in every way? What kind is it? One that extends widely, taking a broad form; one that is to be sung, praiseworthy. For what purpose? For our growth (vavṛdhadhyai). And further: when the strength of that Indra dawns, what gift comes to us?" ("comes to us" is to be supplied.) "The thunderbolt, destroyer of Vṛtra, of the obstructing evil, Tvaṣṭṛ fashioned (takṣat) and made to flow (apinvat)." The connection is "in the dawning of his strength." Alternatively: "O Indra, what is the gift of that thunderbolt which he fashioned for Indra?" This is to be construed so. Another mantra: "Tvaṣṭṛ fashioned for me an iron thunderbolt" (Ṛ. Saṃ. 10-48-3).
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) चिकित्वान् (*cikitvān*)—you who know our condition
+- नः (*naḥ*)—to us
+- पृथुग्मानं (*pṛthugmānaṃ*)—that has taken many forms
+- वाश्रः (*vāśraḥ*)—praiseworthy
+- चित्रं (*citraṃ*)—and attractive
+- कं (*kaṃ*)—wealth
+- ववृदध्यै (*vavṛdadhyai*)—for our growth
+- इषण्यसि (*iṣaṇyasi*)—you supply
+- तस्य (*tasya*)—of Indra
+- शवसः (*śavasaḥ*)—of the strength
+- व्युष्पौ (*vyuṣpau*)—at the time of its shining
+- कत् दातु (*kat dātu*)—what kind of gift is obtained by us
+- वृत्रतुरं (*vṛtraturaṃ*)—the destroyer of Vṛtra
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- तक्षत् (*takṣat*)—he fashioned
+- अपिन्वत् (*apinvat*)—he caused rain to fall
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who know our condition, you supply for our growth wealth that is of many kinds, praiseworthy and attractive. He fashions the thunderbolt weapon and causes rain to fall. At the time when its strength shines, what kind of gift do we obtain?
+
+##### English translation
+What marvellous (wealth), comprehensive and laudable, do you, Indra knowing (what is needed). bestow upon us for our advantage? What gift (has been made to us) upon the development of his strength? He fabricated the Vritra-slaying thunderbolt, and let the waters flow.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स हि द्यु॒ता वि॒द्युता॒ वेति॒ साम॑ पृ॒थुं योनि॑मसुर॒त्वा स॑साद।  
+> स.सवी॑ळेभिः प्रसहा॒नो अ॑स्य॒ भ्रातु॒र्न ऋ॒ते स॒प्तथ॑स्य मा॒याः॥
+
+### Printed p. 121
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । हि । द्युता । विद्युता । वेति । साम । पृथुं । योनिं । असुरत्वा । आ । ससाद ।  
+> सः । सनीळेभिः । प्रसहानः । अस्य । भ्रातुः । न । ऋते । सप्तथस्य । मायाः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स हि स खल्विंद्रो द्युता द्योतमानेन विद्युत्तैतन्नामकेनायुधेन युक्तः
+> सन् साम स्तोत्रात्मकं यज्ञसंबंधि वेति । गच्छति । तथासुरत्वासुरत्वेन बलेन
+> युक्तः सन् पृथुं विस्तीर्णं योनिं फलस्योत्पादकं यज्ञं ससाद । संगतो
+> भवति । स इंद्रः सनीळीभिः । नीडं विमानं । सविमानैर्मरुद्धिर्युक्तः प्रसहानोऽभिभवन्भवति । तस्य सप्तथस्यादित्यानां धात्रादीनां मध्यॆ सप्तमस्येंद्रस्य भ्रातुर्भागैर्भक्तव्यस्य मायासुर्यृते यज्ञे न संभवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"That Indra, endowed with the shining weapon named Vidyut ('lightning'), goes (veti) to the sacrificial sāma, which is of the nature of a hymn of praise. Likewise, endowed with the strength of asuratva, he has sat down in the wide yoni, the sacrifice that produces fruit; he comes to be in company with it. That Indra, with the sanīḷas (nīḍa meaning 'vimāna', a dwelling): accompanied by the Maruts who share his dwelling, he becomes the overcomer (prasahāna)." "Of him, the seventh among the Ādityas, Dhātṛ and the rest, Indra, the brother ... the māyā of the Asuras does not occur in the sacrifice" (to be supplied).
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स हि (*sa hi*)—that same Indra
+- द्युता (*dyutā*)—with the shining
+- विद्युता (*vidyutā*)—weapon called lightning, united
+- साम (*sāma*)—to the sacrificial region full of praise
+- वेति (*veti*)—he goes
+- आसुरत्वा (*āsuratvā*)—endowed with strength
+- पृथुं (*pṛthuṃ*)—in the spacious
+- योनिं (*yoniṃ*)—place of sacrifice
+- ससाद (*sasāda*)—he sits
+- सः (*saḥ*)—he
+- सनीळेभिः (*sanīḷebhiḥ*)—with the Maruts who go with him
+- प्रसहानः (*prasahānaḥ*)—he becomes possessed of strength to defeat enemies
+- सप्तथस्य (*saptathasya*)—with Indra, the seventh among the Ādityas
+- भ्रातुः (*bhrātuḥ*)—who takes part
+- माया (*māyā*)—the Asura power
+- ऋते (*ṛte*)—in the sacrifice
+- न (*na*)—none exists
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, united with the shining weapon called lightning, goes to the sacrificial region full of praise. Endowed with strength he sits in the place of sacrifice. With the Maruts who go with him he becomes possessed of strength to defeat enemies. There can be no Asura power that takes part in the sacrifice together with Indra, the seventh among the sons of Aditi.
+
+##### English translation
+Armed with the bright lightning he repairs to the (scene of) adoration; endowed with might he has seated himself on the spacious place (of sacrifice). He (is) triumphant with his companions (the Maruts); the wiles of his brother do not (prevail) at the rite.
+
 ---
 
-**Progress note:** Done through printed p. 115. pp. 110-115 (batch API)
+**Progress note:** Done through printed p. 121. pp. 116-121 (batch API)
