@@ -12965,6 +12965,175 @@ To the divine Twashtri, who decked the parental heaven and earth and all the wor
 The Āśvalāyana Śrauta Sūtra, in the sūtra य इमे द्यानापृथिवी जनित्रि तन्न स्तुरीपमध पोषयित्तु (*ya ime dyānāpṛthivī janitri tanna sturīpamadha poṣayittu*) (Ā. 3-8), explains that in the vapā-homa of the animal sacrifice offered to the deity Tvaṣṭṛ this Ṛk, य इमे (*ya ime*), is to be recited as the anuvākyā mantra.
 In this Ṛk the deity Tvaṣṭṛ is praised. The explanation that Yāska has given for this Ṛk is as follows—
 
+### Printed p. 362
+
+#### Ṛk 8 (Nirukta explanation, continued)
+
+##### विशेषविषयगळु (Special Topics)
+
+त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात्करोतिकर्मणः ॥ तस्यैषा भवति ॥ य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । तमद्य होतरिषितो यजीयान्देवं त्वष्टारमिह यक्षि विद्वान् ॥ (*tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikarmaṇastvakṣatervā syātkarotikarmaṇaḥ ‖ tasyaiṣā bhavati ‖ ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā | tamadya hotariṣito yajīyāndevaṃ tvaṣṭāramiha yakṣi vidvān ‖*) (Ni. 8-15)
+
+Two kinds of meaning can be given for the word त्वष्टा (*tvaṣṭā*). Tvaṣṭā is well known as one of the twelve Ādityas. The Nairuktas say he is a deity of the middle region. Śākapūṇi's view is that he is Agni. तूर्णं (*tūrṇaṃ*) means "quickly", अश्नुते (*aśnute*) means "pervades". Because this god quickly pervades all regions with his rays, he has the name Tvaṣṭā. In this sense the god may be Āditya or may be Agni. The word may be derived from the root त्विष् (*tviṣ*), meaning "to shine", or from the root त्वक्स् (*tvaks*), meaning "to fashion, to make". Yāska took the present Ṛk, in which this word occurs, as his example and gave its Nirukta:
+
+य इमे द्यावापृथिवी जनित्री रूपैः अपिंशत् भुवनानि विश्वा (*ya ime dyāvāpṛthivī janitrī rūpaiḥ apiṃśat bhuvanāni viśvā*) and य इमे द्यावापृथिव्यौ जनयित्र्य रूपैरकरोत् भूतानि च सर्वाणि (*ya ime dyāvāpṛthivyau janayitrya rūpairakarot bhūtāni ca sarvāṇi*) This god Tvaṣṭā is the maker of heaven and earth; that is, he fashioned (created) them. And he made all the living beings and all moving and unmoving things in heaven and earth to be endowed with various forms and shapes. The meaning is that he produced for each living being or thing the form it ought to have.
+
+तं अद्य होतः इषितः यजीयान् देवं त्वष्टारं इह यक्षिविद्वान् (*taṃ adya hotaḥ iṣitaḥ yajīyān devaṃ tvaṣṭāraṃ iha yakṣividvān*) and तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यज विद्वान्॥ (*tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yaja vidvān‖*) Here the sacrificer addresses the priest called Hotṛ thus: "O Hotṛ priest, you who are skilled and wise in performing the sacrifice, now, impelled (or requested) by us, invoke and worship (honour) the deity Tvaṣṭṛ, endowed with the qualities described above."
+
+. माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः । तस्यैषापरा भवति ॥ (*. mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇiḥ | tasyaiṣāparā bhavati ‖*) (Ni. 8-14)
+
+### Printed p. 363
+
+This deity Tvaṣṭṛ is assigned to the middle (atmospheric) region. Śākapūṇi's view is that this deity is Agni. To make this clear Yāska took the following Ṛk as an example and gave a Nirukta for it also:
+
+आविष्टो वर्धते चारुरासु जिह्मानामूर्ध्वः स्वयशा उपस्थे । उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रतिजोषयेते ॥ (*āviṣṭo vardhate cārurāsu jihmānāmūrdhvaḥ svayaśā upasthe | ubhe tvaṣṭurbibhyaturjāyamānātpratīcī siṃhaṃ pratijoṣayete ‖*) followed by the explanation आविरावेदनात्तत्यो वर्धते चारुरासु । चारु चरतेः जिह्मं जिहीतेः ऊर्ध्व उच्छ्रितो भवति । स्वयशा आत्मयशाः उपस्थ उपस्थाने । उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रति जोषयेते ॥ (*āvirāvedanāttatyo vardhate cārurāsu | cāru carateḥ jihmaṃ jihīteḥ ūrdhva ucchrito bhavati | svayaśā ātmayaśāḥ upastha upasthāne | ubhe tvaṣṭurbibhyaturjāyamānātpratīcī siṃhaṃ prati joṣayete ‖*) (Ni. 8-15)
+
+To show that the Tvaṣṭṛ of the middle region is the lightning-Agni, Yāska gave an explanation of this Ṛk. The Ṛk above contains the words उभे (*ubhe*) and बिभ्यतुः (*bibhyatuḥ*). On who is meant by उभे (*ubhe*) here Yāska says:
+
+द्यावापृथिव्याविति वा । अहोरात्रे इति वा । अरणी इति वा । प्रत्यक्ते सिंहं सहनं प्रत्यासेवेते ॥ (*dyāvāpṛthivyāviti vā | ahorātre iti vā | araṇī iti vā | pratyakte siṃhaṃ sahanaṃ pratyāsevete ‖*) (Ni. 8-15)
+
+Some explain the word उभे (*ubhe*) in this Ṛk as heaven and earth; others say day and night, or the two araṇis (pieces of wood) with which Agni is churned out. Yāska takes the word सिंहं (*siṃhaṃ*) in this Ṛk in the sense "patience" (endurance). So the sentence प्रत्यक्ते सिंहं प्रति जोषयेते (*pratyakte siṃhaṃ prati joṣayete*) means that heaven and earth, fearing the power and might of the lightning-Agni, do not fight against him but wait on him with patience.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒पाव॑सृज॒ त्मन्या॑ समं॒जन्दे॒वानां॒ पाथ॑ ऋतु॒था ह॒वींषि॑ ।  
+> वन॒स्पतिः॑ शमि॒ता दे॒वो अ॒ग्निः स्वदं॑तु ह॒व्यं मधु॑ना घृ॒तेन॑ ॥
+
+### Printed p. 364
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपअवसृज । त्मन्या । संअंजन् । देवानां । पाथः । ऋतुथा । हवींषि ।  
+> वनस्पतिः । शमिता । देवः । अग्निः । स्वदंतु । हव्यं । मधुना । धृतेन ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वनस्पते यूप त्मन्या ॥ आत्मशब्दस्य तृतीयैकवचने यादेशः । मंत्रेष्वाज्यादेरात्मन इत्याकारलोपः ॥ आत्मनैवर्तुथर्तावृत् प्राप्ते काले देवानामर्थाय पाथः पशुलक्षणमन्नमन्नानि च हवींषि समंजन् सम्मग्यक्तीकुर्वन्नु पावसृज । उपागम्य प्रयच्छ ॥ गतिर्गतः । पा. ८-१-७० । इति गतेर्निघातः ॥ किंच
+> वनस्पतियोऽयं यूपः शमितैतन्नामको देवः यद्वा शामित्रोग्निर्देवो
+> दीप्यमान आहवनीयाख्योऽग्निश्चैते त्रयो मधुना मधुरेण धृतेन । यद्वा।
+> मधुनोदकेन प्रोक्षणोपनयनादिगतेन धृतेन च । हव्यं हवनयोग्यं स्वदंतु ।
+> स्वादं कुर्वंतु ॥
+
+##### Gist of the bhāṣya
+
+Addressing the Vanaspati, the sacrificial post (yūpa): त्मन्या (*tmanyā*) is the instrumental of आत्म (*ātma*) with या (*yā*) substituted; the elision of the long ā follows the rule that in the Mantras the ā of *ātman* is dropped. It means "by himself". ऋतुथा (*ṛtuthā*): at the proper season, ऋतावृतौ (*ṛtāvṛtau*). "Make ready (समंजन् (*samaṃjan*), making manifest) the पाथः (*pāthaḥ*), food in the form of the animal, and the other oblation-foods for the gods, and approach and offer them" (उपावसृज (*upāvasṛja*): having come near, give). Further: the Vanaspati, this post; the deity named Śamitṛ, or else the Śāmitra fire; and the shining Agni called Āhavanīya: these three are to sweeten the oblation fit for offering with मधुना (*madhunā*), sweet ghee; or else with water (मधुनोदकेन (*madhunodakena*)) used in sprinkling, bringing near and so on, and with ghee. स्वदंतु (*svadaṃtu*): let them make it sweet.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्मन्या (*tmanyā*)—by his own impulse (addressed: O Vanaspati)
+- ऋतुथा (*ṛtuthā*)—in accordance with the time of the sacrifice
+- देवानां (*devānāṃ*)—to the gods
+- पाधः (*pādhaḥ*)—food in the form of the animal
+- हवींषि (*havīṃṣi*)—the oblations
+- समंजन् (*samaṃjan*)—having prepared
+- उपावसृज (*upāvasṛja*)—offer
+- वनस्पतिः (*vanaspatiḥ*)—the Vanaspati
+- शमिता (*śamitā*)—the deity called Śamitṛ
+- अग्निः (*agniḥ*)—Agni
+- मधुना (*madhunā*)—sweet
+- घृतेन (*ghṛtena*)—with water
+- हव्यं (*havyaṃ*)—the oblation
+- स्वदंतु (*svadaṃtu*)—let them make tasty
+
+##### भावार्थ (Bhāvārtha)
+
+O Vanaspati, in accordance with the time of the sacrifice, prepare and offer, of your own impulse, the food in the form of the animal and the oblations for the gods. Let the Vanaspati, the Śamitṛ and Agni make the oblation tasty with sweet water or with ghee.
+
+##### English translation
+Offer of your own will in due season the food (and other) oblations of the gods besmearing it. Let Vanaspati, Shamitri, the divine Agni, sweeten the oblation with honey and butter.
+
+### Printed p. 365
+
+##### विशेषविषयगळु (Special Topics)
+
+On the deity called Vanaspati this is said:
+
+वनस्पत इत्येनमाहैष हि वनानां पाता वा पालयिता वा । वनं वनोतेः ॥ (*vanaspata ityenamāhaiṣa hi vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ ‖*) (Ni. 8-3)
+
+तत्क्यो वनस्पतिः । यूप इति कात्थक्यः । अग्निरिति शाकपूणिः ॥ (*tatkyo vanaspatiḥ | yūpa iti kātthakyaḥ | agniriti śākapūṇiḥ ‖*) (Ni. 8-18)
+
+They call Agni himself Vanaspati, because Agni is the protector or guardian of the forests, that is, of trees. Although Agni lies hidden within a tree he does not burn it, so he is called its protector; or else, because trees or wood are useful for sacrificial implements made of wood and the like, a tree is called वन (*vana*). वनस्पति (*vanaspati*) means king of trees, a great tree. Now which deity is Vanaspati? Kātthakya holds that it is the wooden post (यूप (*yūpa*)) planted in the sacrificial ground for tying the animal in the sacrifice. Śākapūṇi's view is that Vanaspati is Agni. As an example of a Ṛk praising this deity Vanaspati, Yāska took the present Ṛk and gave its Nirukta:
+
+उपावसृजात्मनात्मानं समंजन्देवानामन्नमृतावृतौ हवींषि काले काले वनस्पतिः शमिता देवो अग्निरित्येते त्रयः स्वदयंतु हव्यं मधुना च घृतेन च ॥ (*upāvasṛjātmanātmānaṃ samaṃjandevānāmannamṛtāvṛtau havīṃṣi kāle kāle vanaspatiḥ śamitā devo agnirityete trayaḥ svadayaṃtu havyaṃ madhunā ca ghṛtena ca ‖*) (Ni. 8-17)
+
+On the first half: here उप अवसृज (*upa avasṛja*) means "approach and give" (आश्लिष्य प्रयच्छ (*āśliṣya prayaccha*)). त्मन्या समंजन् (*tmanyā samaṃjan*), that is आत्मनात्मानं समंजन् विशिष्टेन संस्कारेण व्यक्तीकुर्वन् (*ātmanātmānaṃ samaṃjan viśiṣṭena saṃskāreṇa vyaktīkurvan*), means: making himself (Agni) manifest by himself through rites accompanied by mantras. पाथः (*pāthaḥ*) is food; ऋतुथा (*ṛtuthā*) is *ṛtāvṛtau kālekāle*, at the several times; हवींषि (*havīṃṣi*) are the oblations such as ghee. The chief sense: "O deity Vanaspati (Agni), making yourself by yourself, that is, Vanaspati, visible to all by the light of Agni, carry food and oblations such as ghee to the gods at the proper times and give them."
+
+On the second half: the deity Vanaspati, the deity called Śamitṛ and the shining (देव (*deva*)) Agni, these three deities are to make the oblation prepared for the gods in this sacrifice sweet (स्वादु (*svādu*)), with water sprinkled and the like, and with ghee, or with sweet ghee.
+
+### Printed p. 366
+
+Here, to make clear the meaning "post" (यूप (*yūpa*)) for the word वनस्पति (*vanaspati*), Yāska gives the explanation of the Ṛk अंजंति त्वा (*aṃjaṃti tvā*) (Ṛ. Saṃ. 3-8-1); and to make clear the meaning Agni, the explanation of the Ṛks देवेभ्यो वनस्पते (*devebhyo vanaspate*) (Tai. Brā. 3-6-11-2) and वनस्पते रशनया (*vanaspate raśanayā*) (Ṛ. Saṃ. 10-70-10). Since they are not needed in the present context, they are not explained here.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यो जा॒तो व्य॑मिमित य॒ज्ञम॒ग्निर्दे॒वाना॑मभवत्सुरो॒गाः ।  
+> अ॒स्य होतुः॑ प्र॒दिश्य॒तस्य॑ वा॒चि स्वाहा॑कृतं ह॒विर॑दंतु दे॒वाः ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । जातः । वि । अमिमात । यज्ञं । अग्निः । देवानां । अभवत् । पुरःगाः ।  
+> अस्य । होतुः । प्रदिशि । ऋतस्य । वाचि । स्वाहाकृतं । हविः । अदंतु । देवाः ॥११॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः सद्यस्तदानीमेव जातो जायमान एव यज्ञं व्यमिमात ।
+> विशेषेण निर्मिमाते । उत्पादयति ॥ माज् माने शब्दे च चौहोत्यादिकः ॥ अत
+> एवायमग्निर्देवानां पुरोगाः प्रथमगामि मुख्योऽभवत् ॥ गमेर्विट्प्रत्यय आत्वे च कृते रूपं ॥ ततः प्रदिशि प्रकृष्टायां दिशि प्राच्यामृतस्याहवनीयात्मनागतस्यास्य होतुर्होमनिष्पादकस्याग्नेर्वाचि । अत्र वागाश्रय आस्यं
+> लक्ष्यते । वाच्यास्यॆ स्वाहाकृतं स्वाहाकारेण प्रक्षिप्तं हविः सर्वॆ देवा अदंतु ।
+> भक्षयंतु । इदं सूक्तं यास्केन सम्यगभ्यधायि । नि. ८.५-२१ । तदत्रानुसंधीयतां ॥
+
+##### Gist of the bhāṣya
+
+This Agni, born at that very moment, as soon as he is born, व्यमिमात (*vyamimāta*) the sacrifice: he specially makes, produces it (the root माज् (*māj*), of the Cauhotyādi class, in the sense of measuring and of sound). For that very reason this Agni became पुरोगाः (*purogāḥ*), the first-goer, the chief of the gods (the form arises when the affix विट् (*viṭ*) is added to गम् (*gam*) and ā is substituted). Then, in प्रदिशि (*pradiśi*), the excellent eastern quarter, in the voice (वाचि (*vāci*)) of this Hotṛ, the accomplisher of the offering, Agni, who has come in the form of the Āhavanīya: here "voice" as the seat of speech denotes the mouth. Let all the gods eat the oblation cast with the cry स्वाहा (*svāhā*) into that mouth. Sāyaṇa adds that this sūkta was well explained by Yāska (Ni. 8.5-21), and that it should be consulted here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सद्यः (*sadyaḥ*)—at once
+- जातः (*jātaḥ*)—Agni, having been born
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- व्यमिमीत (*vyamimīta*)—produces
+- अग्निः (*agniḥ*)—that same Agni
+- देवानां (*devānāṃ*)—for the gods
+- पुरोगाः (*purogāḥ*)—as chief
+
+### Printed p. 367
+
+- अभवत् (*abhavat*)—has become
+- प्रदिशि (*pradiśi*)—in the excellent eastern quarter
+- ऋतस्य (*ṛtasya*)—who is in the form of the Āhavanīya
+- होतुः (*hotuḥ*)—the accomplisher of the offering
+- अस्य (*asya*)—of this Agni
+- वाचि (*vāci*)—in the mouth
+- स्वाहाकृतं (*svāhākṛtaṃ*)—offered with the cry svāhā
+- हविः (*haviḥ*)—the oblation
+- देवाः (*devāḥ*)—the gods
+- अदंतु (*adaṃtu*)—eat
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Agni is born he produces the sacrifice. That same Agni is the chief of the gods. The gods eat the oblation offered with the cry svāhā into the mouth of Agni, who is in the form of the Āhavanīya in the excellent eastern quarter and is the accomplisher of the offering.
+
+##### English translation
+As soon as he was born, Agni constructed a sacrifice, he was the preceder of the gods; may the gods partake of the oblation presented with the swaha through the voice of him the hotri of the sacrifice at the eastern station.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska's explanation of the word स्वाहा (*svāhā*):
+
+स्वाहाकृतयः । स्वाहाकृतयः स्वाहेत्येतत् सु आहेति वा । स्वा नागहेति वा । स्वं प्राहेति वा । स्वाहुतं हुविर्जहोतीति वा ॥ (*svāhākṛtayaḥ | svāhākṛtayaḥ svāhetyetat su āheti vā | svā nāgaheti vā | svaṃ prāheti vā | svāhutaṃ huvirjahotīti vā ‖*) (Ni. 8-21)
+
+The word स्वाहा (*svāhā*) has four analytical meanings.
+(1) सु आहेति वा (*su āheti vā*): सु (*su*) = well, आह (*āha*) = says. Because it is uttered well or clearly, it is called स्वाहा (*svāhā*).
+(2) स्वा वागहेति वा (*svā vāgaheti vā*): स्वा (*svā*) = one's own speech (वाक् (*vāk*)). There is a Śruti sentence (Brāhmaṇa): तं स्वा वागभ्यवदज्जुहुधीति तत्स्वाहाकारस्य जन्म (*taṃ svā vāgabhyavadajjuhudhīti tatsvāhākārasya janma*). That is, when making the offering, the offerer himself adds and says the word स्वाहा (*svāhā*) at the end of the Ṛk, the Vedic mantra; hence the name स्वाहा (*svāhā*).
+(3) स्व प्राहेति वा (*sva prāheti vā*): here स्व (*sva*) = his own oblation, आह (*āha*) = he says that he offers. Hence the name स्वाहा (*svāhā*).
+
 ---
 
-**Progress note:** Done through printed p. 361. pp. 356-361 (batch API)
+**Progress note:** Done through printed p. 367. pp. 362-367 (batch API)
