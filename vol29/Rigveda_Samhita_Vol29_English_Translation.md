@@ -11443,6 +11443,290 @@ Candram means golden: the body of the bride, shining like the lustre of gold. Tw
 
 This Ṛk is the yājyā for the bride's journey. It is laid down in the sūtra: at auspicious places, such as a region, a tree or a crossroads, one should mutter "May the waylayers not find" (A. Gṛ. 1-8.6 **NOTE**). May the waylayers, those who stand about, the enemies, not find, not reach, those who come upon the married couple. By easy roads let them pass beyond a hard place, that is, a region difficult to go through. May the enemies, those who give nothing, go away, depart.
 
+### Printed p. 419
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये परिपंथिनः (*ye paripaṃthinaḥ*)—which waylayers, the robbers who guard the road
+- दंपती (*daṃpatī*)—this newly married couple
+- आसीदंति (*āsīdaṃti*)—those who come confronting them
+- मा विदन् (*mā vidan*)—let them not come near these two
+- दुर्गं (*durgaṃ*)—the difficult road
+- सुगेभिः (*sugebhiḥ*)—by a pleasant journey
+- अशीतां (*aśītāṃ*)—may they cross
+- अरातयः (*arātayaḥ*)—enemies
+- अप द्रांतु (*apa drāṃtu*)—may they run far away
+
+##### भावार्थ (Bhāvārtha)
+
+May the robbers who guard the road and come confronting this newly married couple not come near them. May these two cross safely and pleasantly the region where their road is difficult. May their enemies run far away.
+
+##### English translation
+Let not the robbers who approach the husband and wife reach them ; may they by easy roads pass the difficulty ; may enemies keep aloof.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time when the bride travels to the house of her husband, this Ṛk beginning मा विदन् (*mā vidan*) is to be recited. This is set forth by the sūtra of the Āśvalāyana-gṛhya-sūtra, कल्याणेषु देशवृक्ष चतुष्पथेषु मा विदन् परिपंथिन इति जपेत (*kalyāṇeṣu deśavṛkṣa catuṣpatheṣu mā vidan paripaṃthina iti japeta*) (Ā. Gṛ. 1-8-6 **NOTE**).
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒मं॒ग॒लीरि॒यं व॒धूति॒मां स॒मेत॒ पश्य॑त ॥  
+> सौभा॑ग्यमस्मै द॒त्वायाथास्तं॒ वि परे॑तन ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुमंगलीः । इयं । वधूः । इमां । संएत । पश्यत ।  
+> सौभाग्यं । अस्यै । दत्त्वाय । अथ । अस्तं । वि । परा । इतन ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं वधूः सुमंगलीः शोभनमंगला । अत इमां सर्व आशीःकर्तारः
+> समेत । संगच्छत । तां पश्यत च । तां संगताश्च दृष्ट्वा स्या ऊढायै सौभाग्यं
+
+##### Gist of the bhāṣya
+
+This bride is of excellent auspiciousness. Therefore all of you, who are givers of blessings, come together, that is, assemble, and look upon her; and having assembled and seen her, give good fortune to her, the bride,
+
+### Printed p. 420
+
+> दत्त्वा य दत्त्वाथास्तं । गृहनामैतत् । स्वस्वसंबंधिनं वि परेतन । विविधं
+> परागच्छत ॥
+
+##### Gist of the bhāṣya
+
+and then go each to your own house: अस्तं (*astaṃ*) is a name for a house. Depart in various directions, that is, go away in different ways. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयं वधूः (*iyaṃ vadhūḥ*)—this bride
+- सुमंगलीः (*sumaṃgalīḥ*)—she who is of auspicious form
+- इमां (*imāṃ*)—her (O elders)
+- समेत (*sameta*)—approach
+- पश्यत (*paśyata*)—look upon with a gracious eye
+- अस्यै (*asyai*)—to her
+- सौभाग्यं (*saubhāgyaṃ*)—the word of blessing
+- दत्वाय (*datvāya*)—having given
+- अथ (*atha*)—afterwards
+- अस्तं (*astaṃ*)—to your own several houses
+- वि परेतन (*vi paretana*)—go
+
+##### भावार्थ (Bhāvārtha)
+
+O elders, this bride is of auspicious form. Approach her and bestow blessings upon her. Then set out for your own several houses.
+
+##### English translation
+Fortunate is this bride, approach, behold her; having given her your congratulations, depart to your several homes.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तृ॒ष्णमे॒तत्कटु॑कमे॒तद॑पा॒ष्ठव॑द्वि॒षव॒न्नैतदत्त॑वे ॥  
+> सू॒र्यां यो ब्र॒ह्मा वि॒द्यात्स इद्वाधू॑यमर्हति ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तृप्तं । एतत् । कटुकं । एतत् । अपाप्यवत् । विषवत् । न । एतत् । अत्तवे ।  
+> सूर्यां । यः । ब्रह्मा । विद्यात् । सः । इत् । वाधूयं । अर्हति ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयापि वधूवस्त्रपरित्यागः प्रतिपाद्यते । एतद्वस्त्रं तृष्टं दाहजनकं ।
+> तथैतत्कटुकं । तथापाष्ठवत् । अपाष्ठमपस्थितमृजीषं । तद्वत् । कथा विषवत् ॥
+> नैतद्वस्त्रमत्तवे । अत्तव्यं । अनुपयोग्यं । यो ब्रह्मा ब्राह्मणः सूर्यामिदानीं
+> प्रस्तुतां देवीं विद्यात् सम्यग्ज्ञानीयात् स इत्स एव वाधूयं वधूवस्त्रमर्हति ।
+
+##### Gist of the bhāṣya
+
+By this Ṛk too the abandoning of the bride's garment is set forth. This garment is burning, that is, it causes burning; likewise it is pungent; likewise it is like apāṣṭha, that is, ṛjīṣa that has been set aside, like that; and also like poison **NOTE**. This garment is not to be eaten, that is, it is of no use. The Brahman, the Brāhmaṇa, who knows Sūryā, the goddess now under discussion, rightly, he alone is worthy of the bride's garment.
+
+### Printed p. 421
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एतत् (*etat*)—this garment
+- तृष्टं (*tṛṣṭaṃ*)—is burning, causing heat
+- एतत् (*etat*)—this
+- कटुकं (*kaṭukaṃ*)—is of an astringent nature
+- अपाष्ठवत् (*apāṣṭhavat*)—is like old Soma called ṛjīṣa
+- विषवत् (*viṣavat*)—is like poison
+- एतत् (*etat*)—this
+- अत्तवे न (*attave na*)—is not fit for use
+- यः ब्रह्मा (*yaḥ brahmā*)—the man who knows the mantras, who
+- सूर्यां (*sūryāṃ*)—the goddess Sūryā
+- विद्युत् (*vidyut*)—knows
+- स इत् (*sa it*)—he alone
+- वाधूयं (*vādhūyaṃ*)—this garment of the bride
+- अर्हति (*arhati*)—becomes worthy to receive
+
+##### भावार्थ (Bhāvārtha)
+
+This garment is burning. It is of an astringent nature. It is like old Soma called ṛjīṣa. It is like poison. It is not fit for use. Only the Brāhmaṇa who knows the nature of the goddess Sūryā becomes worthy to receive this garment of the bride.
+
+##### English translation
+This (garment) is inflaming , it is pungent ; it is like stale Soma ; it is like poison ; it is not fit to eat ; the Brahman, who knows Surya, verily desires the bridal (garment).
+
+#### Ṛk 35
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒ शस॑नं वि॒शस॑न॒मथो॑ अधिवि॒कर्त॑नं ।  
+> सू॒र्यायाः॑ पश्य रू॒पाणि॒ तानि॑ ब्र॒ह्मा तु शुं॑धति ॥ ३५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशसनं i विशसनं । अथो इति । अधिविकर्तनं ।  
+> सूर्यायाः । पश्य । रूपाणि । तानि । ब्रह्मा । तु । शुंधति ॥ ३५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशसनं तूषाधानं । तच्चान्यवर्णं भवति । विशसनं शिरसि निधीयमानं ।
+> तादृशं दशांते निधीयमानमधिविकर्तनं यत्त्रिधा वासो विकृंतंति । तान्याशसनादीनि वासांस्यवस्थितानि सूर्याया रूपाणि भवंति । तानि पश्य । एवंभूतान्याशसनादीनि पुरा सूर्यास्वशरीरे स्थितान्यमंगलानि वासांसि विधत्ते । तानि रूपाणि
+> सूर्याविद्ब्रह्मातु ब्राह्मण विव तस्माद्वाससः सकाशाच्छुंधति । अपनयति ॥
+
+##### Gist of the bhāṣya
+
+The āśasana is the तूषाधानं (*tūṣādhānaṃ*) **NOTE**, and that is of another colour. The viśasana is that which is placed on the head. The adhivikartana is of the same kind, placed at the end of the cloth, one which they cut into three parts as cloth. These cloths, the āśasana and the others, as they are arranged, are the forms of Sūryā. Look at them. Such cloths, the āśasana and the others, inauspicious, which formerly stood on Sūryā's own body, he prescribes **NOTE**. The Brahman, that is the Brāhmaṇa who knows Sūryā, removes those forms from that garment, takes them away.
+
+### Printed p. 422
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरायाः (*sūrāyāḥ*)—of the goddess Sūryā
+- आशसनं (*āśasanaṃ*)—the one called āśasana, which lies at the side
+- विशसनं (*viśasanaṃ*)—the one called viśasana, which is placed on the head
+- अधिविकर्तनं (*adhivikartanaṃ*)—the one called adhivikartana, which is of the nature of a division
+- रूपाणि (*rūpāṇi*)—the three forms (garments)
+- पश्य (*paśya*)—look
+- तानि (*tāni*)—them
+- ब्रह्मा तु (*brahmā tu*)—the man who knows the mantras, alone
+- शुंधति (*śuṃdhati*)—removes
+
+##### भावार्थ (Bhāvārtha)
+
+Look at the three forms (garments) of the goddess Sūryā: the one called āśasana, which lies at the side, the one called viśasana, which is placed on the head, and the one called adhivikartana, which is of the nature of a division. Only the man who knows the mantras removes them.
+
+##### English translation
+Beheld the forms of Surya, the ashasana (border-cloth), the Vishasana (head-cloth), the adhivikartana (divided skirt); of these the Brahman relieves her.
+
+#### Ṛk 36
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृ॒भ्णामि॑ ते सौभग॒त्वाय॒ हस्तं॒ मया॒ पत्या॑ ज॒रद॑ष्टि॒र्यथासः॑ ।  
+> भगो॑ अर्य॒मा स॑वि॒ता पुरं॑धि॒र्मह्यं॑ त्वादु॒र्गार्ह॑पत्याय  ॒
+> देवाः । ३६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृभ्वामि । ते । सौभगत्वाय । हस्तं । मया । पत्या । जरत् अष्टिः । यथा । असः ।  
+> भगः । अर्यमा । सविता । पुरंथिः । मह्यं । त्वा । अदुः । गार्हपत्याय देवाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विवाहे कन्याहस्तग्रहणे गृभ्नामीत्येषा। सूत्रितं च। गृभ्नामि ते सौभगत्वाय
+> हस्तमित्यंगुष्ठमेव गृह्णीयात् । आ. गृ.. १-७-३ । इति ॥
+
+##### Gist of the bhāṣya
+
+At the marriage, in taking the hand of the maiden, the Ṛk गृभ्नामि (*gṛbhnāmi*) is used. It is laid down in the sūtra: गृभ्नामि ते सौभगत्वाय हस्तमित्यंगुष्ठमेव गृह्णीयात् (*gṛbhnāmi te saubhagatvāya hastamityaṃguṣṭhameva gṛhṇīyāt*), that is, with this he should take the thumb only (Ā. Gṛ. 1-7-3 **NOTE**).
+
+### Printed p. 423
+
+> हे वधु ते तव हस्तमहं गृभ्णामि । गृह्णामि । किमर्थं । सौभगत्वाय
+> सौभाग्याय । मया पत्या त्वं यथा जरदष्टिः प्राप्तवार्धक्यासः भवसि । भगोऽर्यमा सविता पुरंधिः पूषा एते देवास्त्वा त्वां मह्यमदुः । दत्तवंतः । किमर्थं
+> गार्हपत्याय । यथाहं गृहपतिः स्यामिति ॥
+
+##### Gist of the bhāṣya
+
+O bride, I take your hand, I grasp it. For what purpose? For good fortune. So that you, with me as husband, may become jaradaṣṭi, one who has reached old age. Bhaga, Aryaman, Savitṛ and Purandhi, that is Pūṣan, these gods have given you to me. For what purpose? For the mastership of the house, so that I may be master of the house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- हस्तं (*hastaṃ*)—hand
+- सौभगत्वाय (*saubhagatvāya*)—for the accomplishment of welfare
+- गृभ्णामि (*gṛbhṇāmi*)—I take
+- यथा (*yathā*)—by this very relation
+- पत्या मया (*patyā mayā*)—with me, your husband
+- जरदष्टिः असः (*jaradaṣṭiḥ asaḥ*)—you will attain old age
+- गार्हपत्याय (*gārhapatyāya*)—that I may become the protector of the house
+- देवाः (*devāḥ*)—the gods who are of divine nature
+- भगः (*bhagaḥ*)—Bhaga
+- अरमा (*aramā*)—Aryaman
+- सविता (*savitā*)—Savitṛ
+- पुरंधिः (*puraṃdhiḥ*)—the god Pūṣan
+- त्वा (*tvā*)—you
+- मह्यं (*mahyaṃ*)—to me
+- अदुः (*aduḥ*)—have given
+
+##### भावार्थ (Bhāvārtha)
+
+I take your hand for the accomplishment of welfare. By this very relation, remain with me, your husband, until you attain old age. Bhaga, Aryaman, Savitṛ and Pūṣan, who are of divine nature, have given you to me, that I may become master of the house (a householder).
+
+##### English translation
+I take your hand for good fortune, that you may attain old age with me as your husband ; the gods Bhaga, Aryaman, Savitri, Pnrandhi have given you to me, that I may be the master of a household-
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of marriage, while taking the hand of the maiden, this Ṛk beginning गृभ्णामि (*gṛbhṇāmi*) is to be recited. This is set forth by the sūtra of the Āśvalāyana-gṛhya-sūtra, गृभ्णामि ते सौभगत्वाय हस्तमित्यंगुष्ठमेव गृह्णीयात् (*gṛbhṇāmi te saubhagatvāya hastamityaṃguṣṭhameva gṛhṇīyāt*) (Ā. Gṛ. 1-7-3 **NOTE**).
+
+गृभ्नामि ते सौभगत्वाय हस्तं (*gṛbhnāmi te saubhagatvāya hastaṃ*)—"O bride, for the sake of all prosperity and for the attainment of welfare, at this time of marriage I take your hand," thus the bridegroom says, addressing the bride, and he acts accordingly.
+
+मया पत्या जरदृष्टिः यथा असः (*mayā patyā jaradṛṣṭiḥ yathā asaḥ*)—"O bride, with me, your husband, for a long time, that is, until we both become old, that is, until the body grows slack with old age, carry on your life in the world and live happily."
+
+भगो आर्यमा सविता पुरंधिः देवाः त्वां मह्यं गार्हपत्याय अदुः (*bhago āryamā savitā puraṃdhiḥ devāḥ tvāṃ mahyaṃ gārhapatyāya aduḥ*)—
+
+### Printed p. 424
+
+"O bride, the gods Bhaga, Aryaman, Savitṛ, Pūṣan and the others have given you to me, that we both may perform the duties of action in the householder's stage of life," thus the bridegroom says, addressing the bride.
+
+#### Ṛk 37
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तां पू॑षञ्भा॒वत॑मा॒मेर॑यस्व॒ यस्यां॒ बीजं॑ मनु॒ष्या॒३॒॑ ३  ॑
+> वपंति ।  
+> या न॑ ऊ॒रू उ॑श॒ती वि॒श्रया॑ते॒ यस्या॑मु॒शंतः॑ प्र॒हरा॑म॒  ॑
+> शेषं ॥ ३७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तां । पूषन् । शिवतमां । आ । ईरयस्व । यस्यां । बीजं । मनुष्याः । वपंति ।  
+> या । नः । ऊरू इति । उशती । विश्रयाते । यस्यां । उशंतः । प्रहराम ।  
+> शेषं ॥ ३७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पूषन्नोषकैतन्नामक देव शिवतमामत्यंतमंगलभूतां तामेरयस्व । आ ईरय । सर्वतः प्रेरय । यस्यामूरौ बीजं रेतोलक्षणं मनुष्या
+> वपंति आदधते । या नोऽस्माकमूरू उशती कामयमाना विश्रयाते । यस्यामूरावुशंतः कामयमाना वयं शेषं स्पर्शनयोग्यं पुंसृजननं प्रहराम ।
+> ऊरौ व्यंजनसंबंधं करवामेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Pūṣan, god of that name, the nourisher, send, urge on from all sides her, the most auspicious one, in whose thigh men sow seed, of the nature of semen. She who, desiring us, spreads her thighs; in whom we, desiring, shall insert the शेषं (*śeṣaṃ*), that which is fit for touching, the male generative organ: that is, let us bring about the contact of the organs with the thighs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषन् (*pūṣan*)—O god Pūṣan
+- यस्यां (*yasyāṃ*)—in whom
+- बीजं (*bījaṃ*)—the seed in the form of semen
+- मनुष्याः (*manuṣyāḥ*)—men
+- वपंति (*vapaṃti*)—they establish
+- या (*yā*)—she who
+- नः (*naḥ*)—our
+- ऊरू (*ūrū*)—union
+- उशती (*uśatī*)—desiring
+- विश्रयाते (*viśrayāte*)—she welcomes
+- यस्यां (*yasyāṃ*)—in whom
+- उशंतः (*uśaṃtaḥ*)—wishing for sons
+- शेषं (*śeṣaṃ*)—the seed that produces sons (the male organ)
+- प्रचराम (*pracarāma*)—we shall establish
+- शिवतमां तां (*śivatamāṃ tāṃ*)—her, who brings good fortune
+- एरयस्व (*erayasva*)—urge her to love us
+
 ---
 
-**Progress note:** Done through printed p. 418. Special Topics of Ṛk 27, Ṛk 28-32 (Sūkta 85)
+**Progress note:** Done through printed p. 424. Vol 29 pp. 419-424, Ṛk 32 end to Ṛk 37 (Maṇḍala 10 Sūkta 85)
