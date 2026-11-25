@@ -14367,6 +14367,96 @@ Like the other demons, Namuci too was slain by Indra (Ṛ. Saṃ. 2-14-5; 7-19-5
 
 Now we shall explain how the Taittirīya-brāhmaṇa of the Yajurveda tells that Indra destroyed Namuci. नमुचिः । इंद्रेण सह युद्धं न मुंचतीति नमुचिः । (*namuciḥ | iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ |*). Some commentators have given this derivation of the word namuci: "he does not leave off fighting Indra, therefore he is Namuci." Because this demon was of great strength, it was very hard for Indra to fight him and conquer him. Therefore Indra had to slay him by a stratagem. On this matter there is an episode in the Taittirīya-brāhmaṇa:
 
+### Printed p. 440
+
+Continuing the episode in the Taittirīya Brāhmaṇa:
+
+इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । त्वा समलभीतां । सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदधावहै । अथ त्वावस्रक्षामि । न मा शुष्केण नार्देण हनः । न दिवा न वक्तमिति । स एतमसां फेनमसिंचत् । न वा एष शुष्को नार्द्रो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तं । तस्यैतस्मिन् लोके । असां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग् स्यपाहत । यदपमार्गहोमो भवति । रक्षसामपहत्यै ॥ (*iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tvā samalabhītāṃ | so 'smādabhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣāmi | na mā śuṣkeṇa nārdeṇa hanaḥ | na divā na vaktamiti | sa etamasāṃ phenamasiṃcat | na vā eṣa śuṣko nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etaddivā na naktaṃ | tasyaitasmin loke | asāṃ phenena śira udavartayat | tadenamanvavartata | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai sa rakṣāg syapāhata | yadapamārgahomo bhavati | rakṣasāmapahatyai ‖*) (Tai. Brā. 1-7-106, 7)
+
+After Indra had killed the asura Vṛtra, he also killed other asuras. But he could not conquer the asura named Namuci. This Namuci was very strong, and no kind of weapon could make him yield. Therefore Indra wished to defeat him by the strength of his own body alone and began a wrestling bout with him. Yet the more they fought, the more Namuci's strength grew. Indra could not escape his hold. Then Indra asked Namuci to release him. The asura said to Indra: "O Indra, if I am to release you, you must do as I say. Let us now make a pact with each other. You may again wish to fight me by some stratagem and kill me. In that case the weapon you use to kill me must be neither wet nor dry; you must not kill me by day, and you must not kill me by night. If you agree to these conditions I will release you." Indra agreed, saying "So be it", freed himself from his hold, and began to think how he might conquer him. After some time Indra thought of a means. While walking along the seashore, the foam of the sea fell within his sight. This foam is neither wet nor dry. "So I will make this my weapon and kill Namuci. When night has passed and dawn has begun, it is fully light before the sun rises. That time is not night, since there is no darkness, and not day, since the sun has not risen. If I fight Namuci at such a time and kill him with a weapon made of the water's foam, I shall not have broken my word." Having resolved thus, he fought Namuci accordingly and cut off his head with that foam. Yet the asura did not die; he chased Indra in order to kill him. "O Indra, betrayer of a friend, stop, stop! You gave your word earlier that you would not kill me, and now you have done this treacherous deed. Even now I will not leave you unkilled," he said. Then Indra, frightened, created the apāmārga, a particular kind of plant, and offered its sticks as an oblation in the fire to increase his vigour.
+
+### Printed p. 441
+
+Through that, Indra's strength increased, and he killed Namuci. Therefore those who wish to be free from the affliction of the rākṣasas should offer apāmārga sticks in the fire for the increase of vigour. By that offering their strength grows and they become able to conquer the rākṣasas. Such is the episode. This asura Namuci is mentioned in the Ṛgveda in the following Ṛks:
+
+नम्या यदिंद्र सख्या परावति निबर्हयो नमुचिं नाम मायिनं ॥ (*namyā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāma māyinaṃ ‖*) (Ṛ. Saṃ. 1-53-7)
+
+यः पिप्रुं नमुचिं यो रुधिकां तस्मा इंद्रायांधसो जुहोत ॥ (*yaḥ pipruṃ namuciṃ yo rudhikāṃ tasmā iṃdrāyāṃdhaso juhota ‖*) (Ṛ. Saṃ. 2-14-5)
+
+निवेशने शततमाविवेषीरहज्ज वृत्रं नमुचिमुताहन् (*niveśane śatatamāviveṣīrahajja vṛtraṃ namucimutāhan*) (Ṛ. Saṃ. 7-19-5)
+
+त्वं जघंथ नमुचिं मखस्युं दासं कृष्णान ऋषये विमायं ॥ (*tvaṃ jaghaṃtha namuciṃ makhasyuṃ dāsaṃ kṛṣṇāna ṛṣaye vimāyaṃ ‖*) (Ṛ. Saṃ. 10-23-7)
+
+आत्रा दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् ॥ (*ātrā dāsasya namuceḥ śiro yadavartayo manave gātumicchan ‖*) (Ṛ. Saṃ. 5-30-7)
+
+युजं हि मामकृथा आदिदिंद्र शिरो दासस्य नमुचेर्मथायन् ॥ (*yujaṃ hi māmakṛthā ādidiṃdra śiro dāsasya namucermathāyan ‖*) (Ṛ. Saṃ. 5-30-8)
+
+प्र शैनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ॥ (*pra śaino na madiramaṃśumasmai śiro dāsasya namucermathāyan ‖*) (Ṛ. Saṃ. 6-20-6)
+
+अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः (*apāṃ phenena namuceḥ śira iṃdrodavartayaḥ*) (Ṛ. Saṃ. 8-14-13)
+
+युवं सुराममश्विना नमुचावासुरे सचा (*yuvaṃ surāmamaśvinā namucāvāsure sacā*) (Ṛ. Saṃ. 10-131-4 **NOTE**)
+
+These Ṛks exist; there are none elsewhere.
+
+**The reason Indra is called Yajiṣī**
+
+**NOTE**
+
+Ṛjiṣī: Yāska has given the following explanation of this word:
+
+ख जिषी सोमो यत्सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति तेनर्जिषी सोमः । अथाप्यैंद्रो निगमो भवति ऋजिषी वज्री इति ॥ (*kha jiṣī somo yatsomasya pūyamānasyātiricyate tadṛjīṣamapārjitaṃ bhavati tenarjiṣī somaḥ | athāpyaiṃdro nigamo bhavati ṛjiṣī vajrī iti ‖*) (Ni. 5-12)
+
+**NOTE**
+
+### Printed p. 442
+
+After the soma plant has been crushed with stones and the juice taken out, the juiceless, husk-like material that remains is called ṛjīṣa. This ṛjīṣa is thrown away as useless. On some occasions that ṛjīṣa is soaked in water and a little more juice is squeezed out. Such soma juice is called "ऋजीषः सोमः (*ṛjīṣaḥ somaḥ*)". At the third pressing, āśira substances such as flour are mixed with this ṛjīṣa soma and it is offered to Indra. Because Indra drinks this ṛjīṣa soma, it has become customary to call Indra by the very word ṛjīṣī. Moreover, Indra's horses, the Haris, are well known to eat the husks of these soma plants called ṛjīṣa. As an example in this matter Yāska has cited the Vedic sentence बद्धां ते हरीधाना उप ऋजीषं जिघ्रतां (*baddhāṃ te harīdhānā upa ṛjīṣaṃ jighratāṃ*). The meaning of that sentence is: "O Indra, let your horses eat grain and then sniff this ṛjīṣa."
+
+What is ṛjīṣa? Why does it have this name? What is its use in the sacrifice? These and similar matters, as stated in the Aitareya Brāhmaṇa and the Taittirīya Saṃhitā, we shall examine here in brief:
+
+सोमो वै राजमुष्मिंल्लोक आसीत्तं देवाश्च ऋषयश्चाभ्यध्यायन् कथमयमस्मात्सोमो राजागच्छेदिति तेऽब्रुवंश्वंदांसि यूयं न इमं सोमं राजानमाहरतेति तथेति ते सुपर्णा भूत्वोदपतन् (*somo vai rājamuṣmiṃlloka āsīttaṃ devāśca ṛṣayaścābhyadhyāyan kathamayamasmātsomo rājāgacchediti te 'bruvaṃśvaṃdāṃsi yūyaṃ na imaṃ somaṃ rājānamāharateti tatheti te suparṇā bhūtvodapatan*) (I. Citra. 13-25)
+
+**NOTE**
+
+In the beginning King Soma (the soma plant; it is the custom to call the soma plant "King Soma" out of respect) was in the world of heaven, not in this world. Knowing this, the gods and the ṛṣis considered how this soma might be brought here. Then, deliberating on the matter, they concluded that the metres had the power to bring soma from heaven to earth, and they addressed the metres: "O metres, for us, that is, for use in our sacrifice, bring the soma that is in heaven down to earth." They begged them thus. Accepting their request, the metres took the forms of certain birds well known in the world and flew off to the world of heaven. First the metre Jagatī, taking the form of a bird, flew towards heaven. But before it had gone far it grew tired, could not reach heaven, and turned back. Then the metre Triṣṭubh said that it would bring the soma and leapt into the atmosphere. But before it had gone a little beyond half the way it was exhausted with fatigue and turned back. When the gods saw that Jagatī and Triṣṭubh had come back unable to bring the soma, they went to the metre Gāyatrī and begged: "O Gāyatrī, you must bring soma from heaven for us."
+
+### Printed p. 443
+
+Gāyatrī agreed, saying "So be it", took the form of a śyena bird, flew to heaven, frightened the guardians of the soma there, Sthāna, Bhrāja and others, carried the soma off, and brought it to earth. Because she brought the soma plant, Gāyatrī obtained the most excellent place among the metres.
+
+सा यद्धक्षिणेन पदा समगृभ्वात्तत्मा तःसवनमभवत्तद्गायत्री स्वमायतनमकुरुत तस्मात्तत्समृद्धतमं मन्यंते सर्वॆषां सवनानामग्रियो मुख्यो भवति श्रेष्ठतामश्नुते य एवं वेदाथ यत्सव्येन पदा समगृभ्वात्तन्माध्यंदिनं सवनमभवत्तद्विस्रंसत तद्विस्त्रस्तं नान्वप्पोत्तूर्वं सवनं ते देवाः प्राजिज्ञासंत तस्मिंस्त्रिष्टुभं छंदसामदधुरिंद्रं देवतानां तेन तत्समावद्वीर्यमभवत्तूर्वेण सवनेनोभाभ्यां सवनाभ्यां समावद्वीर्याभ्यां समावज्जामिभ्यां राध्योति य एवं वेदाथ यन्मुखेन समगृभ्वात्तृतीयसवनमभवत् (*sā yaddhakṣiṇena padā samagṛbhvāttatmā taḥsavanamabhavattadgāyatrī svamāyatanamakuruta tasmāttatsamṛddhatamaṃ manyaṃte sarvèṣāṃ savanānāmagriyo mukhyo bhavati śreṣṭhatāmaśnute ya evaṃ vedātha yatsavyena padā samagṛbhvāttanmādhyaṃdinaṃ savanamabhavattadvisraṃsata tadvistrastaṃ nānvappottūrvaṃ savanaṃ te devāḥ prājijñāsaṃta tasmiṃstriṣṭubhaṃ chaṃdasāmadadhuriṃdraṃ devatānāṃ tena tatsamāvadvīryamabhavattūrveṇa savanenobhābhyāṃ savanābhyāṃ samāvadvīryābhyāṃ samāvajjāmibhyāṃ rādhyoti ya evaṃ vedātha yanmukhena samagṛbhvāttṛtīyasavanamabhavat*) (I. Citra. 13-26)
+
+**NOTE**
+
+While bringing the soma plants, the śyena bird carried them gripped in both its feet and in its beak. The soma (or soma plant) that the bird seized with its right foot and brought became the morning pressing. Gāyatrī made that, the morning pressing, her own abode. Therefore, among all the pressings, the morning pressing is held by the ritualists to be the best of all. In that morning-pressing rite the use of mantras and the like is also special. Therefore the man who knows this well is regarded as becoming the best and the chief among those equal to him. When Gāyatrī brought the soma plant gripped in her left foot, the left foot did not have as much strength as the right, so those plants kept slipping a little from the foot from time to time. For this reason this midday pressing did not become equal to the morning pressing in strength and capacity. Seeing this, the gods deliberated and established for the metres used in the midday-pressing rite the metre Triṣṭubh and Indra, the best of the gods. Through the company of Indra, the best among the gods, and of Triṣṭubh, the metre dear to him, the midday pressing obtained a position equal to the morning pressing in strength, capacity and excellence. The man who knows this equality of the morning and midday pressings, and their strength, capacity and excellence, obtains prosperity in wealth and the like, and well-being, and lives happily. Then the portion of soma that Gāyatrī, in śyena form, bit and brought with her beak became famous as the third pressing.
+
+### Printed p. 444
+
+तस्य पतंती रसमधयत्तद्वीतरसं नान्वाप्पोत्पूर्वे सवने ते देवाः प्राजिज्ञासंत तत्सशुष्पपत्यंस्तद्यदाशिरमवनयंत्याज्येन पशुना चरंति तेन तत्समावद्वीर्यमभवत्पूर्वाभ्यां सवनाभ्यां सर्वैः सवनैः समावद्वी. र्यैः समावज्जा मिभी राध्योति य एवं वेद ॥ (*tasya pataṃtī rasamadhayattadvītarasaṃ nānvāppotpūrve savane te devāḥ prājijñāsaṃta tatsaśuṣpapatyaṃstadyadāśiramavanayaṃtyājyena paśunā caraṃti tena tatsamāvadvīryamabhavatpūrvābhyāṃ savanābhyāṃ sarvaiḥ savanaiḥ samāvadvī. ryaiḥ samāvajjā mibhī rādhyoti ya evaṃ veda ‖*) (Ai. Brā. 13-27)
+
+While Gāyatrī (the śyena) was coming, carrying the soma plant in her beak, she drank the juice in the plant little by little, sucking it. Therefore, that is, because the soma plants brought in the beak had little juice rather than much, this third pressing did not become equal to the morning and midday pressings in strength, capacity and so on. The gods, seeing this, deliberated and found that the suitable means lay in animals. From animals one obtains milk, curds and the offering substances such as ājya (ghee) obtained from them. If milk is mixed into the soma juice, which is scanty in the plants, that juice becomes strong. If oblations and the like are made with ājya and with the limbs of the animals, the pressing rite becomes complete. Therefore those who know the sacrificial rite add milk and other āśira substances to the juice of the ṛjīṣa used at the third pressing (the husks of the soma plant that remain after the juice has been taken at the morning and midday pressings are called ṛjīṣa), and make oblations with the ājya obtained from animals and with the heart and other organs of animals; knowing that by this the third-pressing rite becomes equal to the morning and midday pressings in strength, capacity and so on, they perform it accordingly. This matter is stated in another śākhā as follows:
+
+ब्रह्मवादिनो वदंति कस्मात्सत्याद्यायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं षरियायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्यैत्तस्मात्तेजस्वीनीतमा पद्भ्यां द्वे सवने समगृह्णान्मुखेनैकं यन्मुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवती प्रातःसवनं च माध्यंदिनं च तस्मात्तृतियसवन ऋजीषमभिषुण्वंति धीतनिव हि मन्यंते आशिरमवनयति सशुक्रत्वाय ॥ (*brahmavādino vadaṃti kasmātsatyādyāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ ṣariyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryaittasmāttejasvīnītamā padbhyāṃ dve savane samagṛhṇānmukhenaikaṃ yanmukhena samagṛhṇāttadadhayattasmādve savane śukravatī prātaḥsavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtiyasavana ṛjīṣamabhiṣuṇvaṃti dhītaniva hi manyaṃte āśiramavanayati saśukratvāya ‖*) (Tai. Saṃ. 6.1.6-4)
+
+Thus the same idea is stated in the Taittirīya Saṃhitā. The man who knows this matter, namely that the three pressings, the morning, midday and third, have obtained an equal position in strength, capacity and excellence, will enjoy happiness endowed with all prosperity.
+
+### Printed p. 445
+
+**The question how Indra and Vāyu obtained the first drinking of soma**
+
+In the Ṛk अग्रं पिब मधूनां (*agraṃ piba madhūnāṃ*) (Ṛ. Saṃ. 4-46-1) it is said that Vāyu, before Indra and the other gods, is entitled to drink soma first. In support of this, the Ṛk
+
+आ नायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार । उपो ते अंधो मद्यमयामि यस्य देव दधिषे पूर्वपेयं ॥ (*ā nāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra | upo te aṃdho madyamayāmi yasya deva dadhiṣe pūrvapeyaṃ ‖*) (Ṛ. Saṃ. 7-92-1)
+
+is cited, and it is pointed out there that the seer prays that Vāyu drink soma first. On how Vāyu obtained the foremost place among the gods in the drinking of soma, there is an ancient story in the Aitareya Brāhmaṇa. We set it out here:
+
+देवा वै सोमस्य राज्योऽग्रपेये न समपादयन्नहं प्रथमः पिबीयमहं प्रथमः पिबीयमित्येवाकामयंत ते संपादयंतोऽब्रुवन् हंताजिमयाम स यो न उज्जॆष्यति स प्रथमः सोमस्य पाश्यतीति तथेति त आजिमयुस्तेषामाजिं यतामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेंद्रोऽथ मित्रावरुणावथाश्विन् । (*devā vai somasya rājyo 'grapeye na samapādayannahaṃ prathamaḥ pibīyamahaṃ prathamaḥ pibīyamityevākāmayaṃta te saṃpādayaṃto 'bruvan haṃtājimayāma sa yo na ujjèṣyati sa prathamaḥ somasya pāśyatīti tatheti ta ājimayusteṣāmājiṃ yatāmabhisṛṣṭānāṃ vāyurmukhaṃ prathamaḥ pratyapadyatātheṃdro 'tha mitrāvaruṇāvathāśvin |*) (Ai. Brā. 9-25)
+
+In the past all the gods together wished to drink soma, and a dispute arose as to which of them should drink first; each began to argue that he should drink first. Since the matter could not be settled in any way, they all conferred together and came to an agreement: "Let us all together arrange a contest. Whoever wins in it will be entitled to drink soma first." When all consented, the contest was fixed thus: they were to run from one place to another place far off, and whoever first reached a rock or a tree there was to be regarded as the winner. When all agreed to the pact that the winner, victorious among them, should drink soma first, all the gods began to run at the same moment. Among all the gods who were running, Vāyu reached the appointed place ahead of all. Indra came right behind Vāyu and was second. Then, behind Indra, Mitra and Varuṇa, and behind them the Aśvins, ran up and reached the appointed place. Therefore among these gods Vāyu ran ahead of all and was the winner.
+
+सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्जयावेति स नेत्यब्रवीदहमेवोर्ज्जेष्यामीति तृतीयं मेऽथोज्जयावेति (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojjayāveti sa netyabravīdahamevorjjeṣyāmīti tṛtīyaṃ me 'thojjayāveti*)
+
 ---
 
-**Progress note:** Done through printed p. 439. pp. 434-439 (batch API)
+**Progress note:** Done through printed p. 445. pp. 440-445 (batch API)
