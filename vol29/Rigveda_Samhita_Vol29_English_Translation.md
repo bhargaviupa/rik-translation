@@ -22371,6 +22371,178 @@ The city of Brahman of the Supreme Self, who is without birth and of upright min
 
 The Supreme Self who dwells in the city of Brahman with nine doors is also at play in the outer world. He alone is lord of the whole world. Of the world of the moving and of the world of the unmoving he alone
 
+### Printed p. 796
+
+is the controller; he alone is the deity worshipped by all. In the Bhagavadgītā also this very description, "in the city of nine doors the embodied one", is given, and the supernatural divine nature of the Supreme Self is praised in the highest degree.
+
+Thus the space within the body (dahara-ākāśa) is described in many ways in the Yoga-upaniṣads. For the present we have no need of those details. The only purpose in hand is to examine how the Vedic texts indicate that the abode of the Lord lies in a secret space beyond the body and the heart. That the space within the heart is the dwelling of the Supreme Self, who is the united form of Indra and Virāṭ, is stated in the Bṛhadāraṇyaka as follows.
+
+अथैतद्वामेक्षिणि पुरुषरूपमेषास्य पत्नि विराट् तयोरेष संस्तावो य एषोऽंतर्हृदय आकाशोऽथैनयोरेतदन्नं य एषोऽंतर्हृदये लोहितपिंडोऽथैतयोरेतत्पावरणं यदेतदंतर्हृदये जालकमिवाधैनयोरेषासृतिः संचरणी यैषा हृदयादूर्ध्वा नाड्युच्चरति यया कोशः सहस्रधा भिन्न एवमस्यॆता हिता नाम नाड्योऽंतर्हृदये प्रतिष्ठिता भवंत्येताभिर्वा एतदास्त्रवदास्रवति तस्मादेष प्रविविक्ताहारतर इवैव भवत्यस्माच्छारीरादात्मनः ॥ (*athaitadvāmekṣiṇi puruṣarūpameṣāsya patni virāṭ tayoreṣa saṃstāvo ya eṣo 'ṃtarhṛdaya ākāśo 'thainayoretadannaṃ ya eṣo 'ṃtarhṛdaye lohitapiṃḍo 'thaitayoretatpāvaraṇaṃ yadetadaṃtarhṛdaye jālakamivādhainayoreṣāsṛtiḥ saṃcaraṇī yaiṣā hṛdayādūrdhvā nāḍyuccarati yayā kośaḥ sahasradhā bhinna evamasyètā hitā nāma nāḍyo 'ṃtarhṛdaye pratiṣṭhitā bhavaṃtyetābhirvā etadāstravadāsravati tasmādeṣa praviviktāhāratara ivaiva bhavatyasmācchārīrādātmanaḥ ‖*)
+
+(Bṛ. Tā. 4-2-3) **NOTE**
+
+In the passage quoted here, the nature of Indra is described. The principle of Virāṭ, shining in the form of a person in the right eye, is the consort of Indra; and Indra and his consort Virāṭ shine in the form of a person. The place where Indra and Virāṭ meet is the space of the heart. The lump of blood within the heart is their food. The net-like covering within the heart is the garment that covers them. The passage that rises upward from within the heart is their path of travel. This path, known by the name Hitā, is as fine as a hair split into a thousand parts. This is the way of their food. The divine Self-principle, the union of the principles of Indra and Virāṭ, is different from the bodily self, and unlike it is not subject to old age, death and the like. It is eternal.
+
+The authors of the Upaniṣads have given the heart greater importance than the head, which is the support of the intellect and the mind, the means of meditating on the Supreme Self. This importance exists because the heart is the support of the principal vital breaths. How? Thus:
+
+### Printed p. 797
+
+यद्वै तत्सुरुषे शरीरमिदं वाव तद्यदिदमस्मिन्नंतः पुरुषे हृदयमस्मिन्हीमे प्राणाः प्रतिष्ठिता एतदेव नातिशीयंते । (*yadvai tatsuruṣe śarīramidaṃ vāva tadyadidamasminnaṃtaḥ puruṣe hṛdayamasminhīme prāṇāḥ pratiṣṭhitā etadeva nātiśīyaṃte |*)
+
+(Cha. 30. 5-12-4) **NOTE**
+
+What is the true body of the person? It is the heart in the interior of the body. In that heart alone all the principal vital breaths are established. They cannot move beyond that heart. Therefore the heart is higher even than the head, which is called the chief limb of the body. This heart is the support of the Supreme Principle called gāyatrāṣṭa. The space of the heart, which surpasses the earth, the body and the heart, the limbs of the four-footed Gāyatrī, is the dwelling of the Supreme Person. In this context the Chāndogya Upaniṣad quotes the mantra of the Ṛk-saṃhitā (10-90-3):
+
+तावानस्य महिमा ततो ज्यायांश्च पूरुषः । पादोऽस्य विश्वा भूतानि त्रिपादस्यामृतं दिवीति ॥ (*tāvānasya mahimā tato jyāyāṃśca pūruṣaḥ | pādo 'sya viśvā bhūtāni tripādasyāmṛtaṃ divīti ‖*)
+
+(Cha. 30. 3-12-6) **NOTE**
+
+यद्वै तद्ब्रह्मेतीदं वाव तद्योऽयं बहिर्धा पुरुषादाकाशो यो वै स बहिर्धा पुरुषादाकाशः ॥ (*yadvai tadbrahmetīdaṃ vāva tadyo 'yaṃ bahirdhā puruṣādākāśo yo vai sa bahirdhā puruṣādākāśaḥ ‖*)
+
+(Chā. Ā. 3-12-7) **NOTE**
+
+अयं वाव स योऽयमंतः पुरुष आकाशो यो वै सोऽंतः पुरुष आकाशः ॥ (*ayaṃ vāva sa yo 'yamaṃtaḥ puruṣa ākāśo yo vai so 'ṃtaḥ puruṣa ākāśaḥ ‖*) (Chā. U. 3-12-8)
+
+In this way the space of the heart is described, the divine abode of the Supreme Person established in the inner space that reflects the outer space. In what manners does the expansion of this Supreme Person who dwells in the dahara space take place? What is the unmanifest state that transcends the manifestations of the manifested Supreme Person? How do the explanations of the Upaniṣads convey the purport of the sentence "three quarters rose upward"? This matter may be examined only in outline.
+
+तस्य ह वा एतस्य हृदयस्य पंच देवसुषयः स योऽस्य प्राज् सुषिः स प्राणस्तच्चक्षुः स आदित्यस्तदेशत्तत्तेजोऽन्नाद्यमित्युपासीत तेजस्वन्नादो भवति य एवं वेद । (*tasya ha vā etasya hṛdayasya paṃca devasuṣayaḥ sa yo 'sya prāj suṣiḥ sa prāṇastaccakṣuḥ sa ādityastadeśattattejo 'nnādyamityupāsīta tejasvannādo bhavati ya evaṃ veda |*)
+
+(Chā. U. 3-3-1) **NOTE**
+
+For the movement of the deities who worship the Supreme Self there are five doors in this heart. They are called the divine openings. The opening that faces east is named Prāṇa. It is the eye and the sun. It should be worshipped as food-eating (the eater of food).
+
+### Printed p. 798
+
+अथ योऽस्य दक्षिणः सुषिः स व्यानस्तच्छोत्रं स चंद्रमास्तदेतच्छिश्च यशश्चेत्युपासीत श्रीमान्यशस्वी भवति । (*atha yo 'sya dakṣiṇaḥ suṣiḥ sa vyānastacchotraṃ sa caṃdramāstadetacchiśca yaśaścetyupāsīta śrīmānyaśasvī bhavati |*)
+
+(Chā. U. 3-13-2)
+
+The door on the southern side is named Vyāna. It is the ear and has the form of the moon. It should be worshipped as splendour and fame.
+
+अथ योऽस्य प्रत्यज् सुषिः सोऽपानः सा वाक्सोऽग्निस्तदेतद्ब्रह्मवर्चसमन्नाद्यमित्युपासीत ॥ (*atha yo 'sya pratyaj suṣiḥ so 'pānaḥ sā vākso 'gnistadetadbrahmavarcasamannādyamityupāsīta ‖*)
+
+(Chā. U. 3-1--3) **NOTE**
+
+The opening (door) on the western side is named Apāna. It is speech. It is fire. It should be worshipped as the deity presiding over Brahmavidyā and as the food-eater.
+
+अथ योऽस्योदज् सुषिः स समानस्तन्मनः स पर्जन्यस्तदेतत्कीर्तिश्च व्युष्टिश्चेत्युपासीत ॥ (*atha yo 'syodaj suṣiḥ sa samānastanmanaḥ sa parjanyastadetatkīrtiśca vyuṣṭiścetyupāsīta ‖*)
+
+(Chā. U. 3-13-4)
+
+The opening facing north is named Samāna. It is the principle of mind. It is of the nature of Parjanya (the rain-god). It should be worshipped as fame and loveliness. One who worships thus becomes endowed with fame and loveliness.
+
+अथ योऽस्योर्ध्वः सुषिः स उदानः स वायुः स आकाशस्तदेतदोजश्च महश्चेत्युपासीत ॥ (*atha yo 'syordhvaḥ suṣiḥ sa udānaḥ sa vāyuḥ sa ākāśastadetadojaśca mahaścetyupāsīta ‖*)
+
+(Chā. U. 3-13-2) **NOTE**
+
+The opening that spreads in the upward direction is named Udāna. It is of the form of the wind. It is space. It should be worshipped as vigour and majesty.
+
+ते वा एते पंच ब्रह्मपुरुषाः स्वर्गस्य लोकस्य द्वारपाः स य एतानेवं पंच पुरुषान् स्वर्गस्य लोकस्य द्वारपान्वेद (*te vā ete paṃca brahmapuruṣāḥ svargasya lokasya dvārapāḥ sa ya etānevaṃ paṃca puruṣān svargasya lokasya dvārapānveda*)
+
+(Bhā. U. 3-136) **NOTE**
+
+These five vital breaths, who serve the Supreme Person established in the dahara space within the heart, are famed as the Brahma-persons. They are the doorkeepers of the world of heaven. One who knows this truth
+
+### Printed p. 799
+
+and worships these five vital breaths as worshippers of the Supreme Self and as doorkeepers of the world of heaven, in that man's lineage heroic men are born. The divine nature of the Supreme Person, who is worshipped by these doorkeepers, who is greater than the five vital breaths, who transcends the gross body, who dwells in the dahara space subtler than the subtle, and who is described in the present mantra (10-90-4) as "rose upward", is as follows:
+
+अथ यदतः पुरो दिवो ज्योतिर्दिर्प्यते विश्वतः पृष्ठेषु सर्वतः पृष्ठॆष्व नुत्तमेषूत्तमेषु लोकेष्टिदं वाव तद्यदिदमस्मिन्नंतःपुरुषे ज्योतिस्त स्यैषा दृष्टिर्यत्रैतदस्मिन् शरीरेसंस्पर्शेनोष्ठिमानं विजानाति तस्यैषा श्रुतिः............भवति य एवं वेद य एवं वेद । (*atha yadataḥ puro divo jyotirdirpyate viśvataḥ pṛṣṭheṣu sarvataḥ pṛṣṭhèṣva nuttameṣūttameṣu lokeṣṭidaṃ vāva tadyadidamasminnaṃtaḥpuruṣe jyotista syaiṣā dṛṣṭiryatraitadasmin śarīresaṃsparśenoṣṭhimānaṃ vijānāti tasyaiṣā śrutiḥ............bhavati ya evaṃ veda ya evaṃ veda |*)
+
+(Bhā. U. 3-13-6) **NOTE**
+
+The light that blazes above the world of heaven, that shines behind all things, that blazes in all the highest worlds: that same supreme principle is established also in the dahara space within the heart of the person. Though beyond the perception of the senses, when it is realised it becomes visible to the divine eye. The heart, which has the dahara form, is the support of the Self in the waking state and also in the state of sleep.
+
+स होवाचाजातशत्रुर्यत्रैष एतत्सुपोऽभूद्य एष विज्ञानमयः पुरुषस्तदेषां प्राणानां विज्ञानेन विज्ञानमादाय य एषोऽंतर्हृदय अकाशस्तस्मिञ्शेते तानि यदा गृह्णात्यथ हैतत्परुषः स्वपिति नाम तद्गृहीत एव प्राणो भवति गृहीता वागृहीतं चक्षुर्गृहीतं श्रोत्रं गृहीतं मनः ॥ (*sa hovācājātaśatruryatraiṣa etatsupo 'bhūdya eṣa vijñānamayaḥ puruṣastadeṣāṃ prāṇānāṃ vijñānena vijñānamādāya ya eṣo 'ṃtarhṛdaya akāśastasmiñśete tāni yadā gṛhṇātyatha haitatparuṣaḥ svapiti nāma tadgṛhīta eva prāṇo bhavati gṛhītā vāgṛhītaṃ cakṣurgṛhītaṃ śrotraṃ gṛhītaṃ manaḥ ‖*)
+
+(Bṛ. U. 2-1-17)
+
+In this passage the experience that the Supreme Person in the state of sleep undergoes in the dahara space within the heart is described. This matter will be explained in the fourth part of the same section, where the four states of the Self are described.
+
+The authors of the Upaniṣads state that the heart too is famed by that name because the Supreme Person dwells here. How? Thus:
+
+स वा एष आत्मा हृदि तस्यैतदेव निरुक्तं हृद्ययमिति। तस्माद्दृदयमहरहर्वा एवंवित्सर्गं लोकमेति । (*sa vā eṣa ātmā hṛdi tasyaitadeva niruktaṃ hṛdyayamiti| tasmāddṛdayamaharaharvā evaṃvitsargaṃ lokameti |*)
+
+(Chā. U. 8-3-3) **NOTE**
+
+### Printed p. 800
+
+The Supreme Self dwells in the heart. The authors of the Nirukta have given the explanation of the word hṛdaya as follows: ayam, this Supreme Self; hṛdi, is in the lotus of the heart. Therefore it has the name hṛdaya, such is the purport. One who knows this truth attains the highest world. The Kaṭha Upaniṣad praises this very thing: this Supreme Self, finer than the fine (aṇor aṇīyān), subtler than the most subtle, lies hidden in the secret region.
+
+अंगुष्ठमात्रः पुरुषोंतरात्मा सदा जनानां हृदये सन्निविष्टः । (*aṃguṣṭhamātraḥ puruṣoṃtarātmā sadā janānāṃ hṛdaye sanniviṣṭaḥ |*)
+
+(Kaṭha. 6.12)
+
+The Supreme Person is of the measure of a thumb. This Person, the inner Self, lies hidden, beyond perception, in the secret region of the interior of the hearts of men.
+
+तं दुर्दर्शं गूढमनुप्रविष्टं गुहाहितं गह्वरेष्ठं पुराणं । अध्यात्मयोगाधिगमेन देवं मत्वा धीरो हर्षशोकौ जहाति ॥ (*taṃ durdarśaṃ gūḍhamanupraviṣṭaṃ guhāhitaṃ gahvareṣṭhaṃ purāṇaṃ | adhyātmayogādhigamena devaṃ matvā dhīro harṣaśokau jahāti ‖*)
+
+(Kaṭha. 2-12)
+
+This Person, described as "rose upward", is beyond perception. He lies hidden in the secret region called the space of the heart. Those who, knowing the secret that the ancient Supreme Person lies hidden in the deep space of the heart, enter there and realise this Supreme Self, cross beyond sorrow.
+
+पुरुष एवेदं विश्वं कर्म तपो ब्रह्म परामृतं । एतद्यो वेद निहितं गुहायां सोविद्याग्रंथिं विकिरतीह सोम्य । (*puruṣa evedaṃ viśvaṃ karma tapo brahma parāmṛtaṃ | etadyo veda nihitaṃ guhāyāṃ sovidyāgraṃthiṃ vikiratīha somya |*)
+
+(Mu. U. 2-1-10) **NOTE**
+
+The all-pervading Supreme Self alone is all sacrificial action; he is of the form of austerity. The one who fully knows this Supreme Person, who is beyond the highest, who lies hidden in the secret space of the heart, loosens the knots of his own ignorance and becomes free. The means of knowing him is this:
+
+शतं चैका च हृदयस्य नाड्यस्तासां मूर्धानमभिनिःस्कृतैका । तयोर्ध्वमायन्नमृतत्वमेति विस्वज्जन्या अमृतत्वमेति ॥ (*śataṃ caikā ca hṛdayasya nāḍyastāsāṃ mūrdhānamabhiniḥskṛtaikā | tayordhvamāyannamṛtatvameti visvajjanyā amṛtatvameti ‖*)
+
+(Ka. 2.16) **NOTE**
+
+The channels of the heart are one hundred and one. Of them one alone goes out upward and reaches the crown of the head. One who follows its path and seeks the Person attains immortality.
+
+### Printed p. 801
+
+The other channels spread out in different directions. According to the description of this Upaniṣad, only one channel of the heart is a means to the realisation of the Supreme Person; the rest are scattered. Some Upaniṣads compare these channels to the rays of the sun; according to some Upaniṣads the channels of the heart are endless. This section will be concluded by quoting only the sentences of the Praśna Upaniṣad that explain it.
+
+हृदि ह्येष आत्मा । अत्रैतदेकशतं नाडीनां तासां शतं शतमेककस्यां द्वासप्ततिर्द्वा सप्ततिः प्रतिशाखानाडीसहस्राणि भवंत्यासु व्यानश्चरति । (*hṛdi hyeṣa ātmā | atraitadekaśataṃ nāḍīnāṃ tāsāṃ śataṃ śatamekakasyāṃ dvāsaptatirdvā saptatiḥ pratiśākhānāḍīsahasrāṇi bhavaṃtyāsu vyānaścarati |*)
+
+(Praśna 3-6)
+
+The Self dwells in the heart. In this heart there are one hundred and one channels. Each of them has three divisions. Each division consists of seventy-two thousand parts. Their order is as follows.
+
+The principal channels are 101. Each of them has three divisions, that is, 101 x 100 = 101.00. Again these have 72,000 divisions. In total the reckoning is as follows: 101 + 101 + 100 x 101 x 100 x 72000 = 72,710,201, that is, 72 crores, 72 lakhs and 10,201, as the commentator has explained. **NOTE** These calculations are not needed here. The idea that the realisation of the Supreme Person takes place through the upward-going channel is what is useful here. The Praśna Upaniṣad describes that very thing:
+
+अथैकयोर्ध्व उदानः पुण्येन पुण्यं लोकं नयति ॥ (*athaikayordhva udānaḥ puṇyena puṇyaṃ lokaṃ nayati ‖*)
+
+(Praśna. 3-7)
+
+and so on.
+
+Thus, according to one view, the sentence "three quarters rose upward" praises the Supreme Person who dwells in the dahara space within the heart, beyond the body and the heart. But here there is also room for the question what the word "thousand-headed" (sahasrāra) means here. To explain this form it would be necessary to quote the sentences of the Yoga-upaniṣads and clarify their purport. There is no room for that at present, nor is it relevant here.
+
+यद्वा त्रिपाच्छब्देन जाग्रत्स्वप्नसुषुप्तीनां ग्रहणं तत ऊर्ध्वमुपरिभागे तुरीयायामुदैत्सोपलब्धिं प्राप्त इत्यर्थः (*yadvā tripācchabdena jāgratsvapnasuṣuptīnāṃ grahaṇaṃ tata ūrdhvamuparibhāge turīyāyāmudaitsopalabdhiṃ prāpta ityarthaḥ*)
+
+By the word tripāt (three-footed) the three states, waking, dream and deep sleep, are indicated. What transcends all of them is the fourth state. Having passed beyond those first three states, to the highest
+
+### Printed p. 802
+
+turīya state (the fourth) the Supreme Person is established: this, it is said, is the purport of the sentence; this is another view. The Vedic texts also help in stating this purport. Only the self-controlled can have the experience of the turīya state; for the others there is no realisation of the Supreme Person who dwells in the secret region.
+
+परेण नाकं निहितं गुहायां विभ्राजदेतद्यतयो विशंति । (*pareṇa nākaṃ nihitaṃ guhāyāṃ vibhrājadetadyatayo viśaṃti |*)
+
+(Tai. Ā. 10-12-3)
+
+The sages, who have conquered their senses and have supersensuous knowledge, see the Supreme Self shining in the space of their own heart, which is hidden and higher than heaven; they too enter there and shine together with that divine principle. This realisation is possible only in the turīya state.
+
+निविशंते स्वापकाले स्वस्वविषयेभ्यः प्रतिनिवृत्तानि आत्मनिवृत्ता लीयंते पुनः प्रबोधकाले अधि विश्वे विश्वस्योपरि सुवते च उद्यंति स्वस्वविषयान् लभंत इत्यर्थः ॥ (*niviśaṃte svāpakāle svasvaviṣayebhyaḥ pratinivṛttāni ātmanivṛttā līyaṃte punaḥ prabodhakāle adhi viśve viśvasyopari suvate ca udyaṃti svasvaviṣayān labhaṃta ityarthaḥ ‖*)
+
+(Saṃ. 43.) **NOTE**
+
+In the time of sleep (deep sleep) the senses leave their respective objects, cease their contact with objects and are absorbed in the Self. Again at the time of waking they become manifest, turned toward the world, and come into contact with their respective objects. This is the nature of the functions of the senses. What is the relation between these functions of the senses and the Supreme Self? In which state of these functions does the realisation of the Self take place? What is the nature of the fruit obtained from that realisation? What is its distinctive character? The Māṇḍūkya Upaniṣad states this as follows.
+
+जागरितस्थानो बहिष्प्रज्ञः सप्तांग एकोनविंशतिमुखः स्कूलभुग्वैश्वानरः प्रथमः पादः । (*jāgaritasthāno bahiṣprajñaḥ saptāṃga ekonaviṃśatimukhaḥ skūlabhugvaiśvānaraḥ prathamaḥ pādaḥ |*)
+
+(Pā 5). C-3) **NOTE**
+
+In the state of wakefulness, in which the senses are alert to external objects, the Self is called jāgaritasthāna. Because he has awareness of what is outside, that is, of objects other than himself, he is bahiṣprajña. He has seven limbs and nineteen mouths (the five organs of knowledge, the five organs of action, the five vital airs, which make 15, together with mind, intellect, ego and thought). Through these doors the Self with outward vision enjoys the gross objects, beginning with sound. This is the first quarter or state of the Self. The Kaṭha Upaniṣad describes this same state as follows.
+
+परांचि खानि व्यतृणत्स्वयंभूस्तस्मात् पराज् पश्यति नांतरात्मन् । (*parāṃci khāni vyatṛṇatsvayaṃbhūstasmāt parāj paśyati nāṃtarātman |*)
+
+(Kaṭha. U. 2-1-1)
+
 ---
 
-**Progress note:** Done through printed p. 795. Upaniṣad citations on the worlds and the space of the heart, special topics of Ṛk 4
+**Progress note:** Done through printed p. 802. Mandala 10 Sukta 90 commentary on dahara-akasha, pp. 796-802
