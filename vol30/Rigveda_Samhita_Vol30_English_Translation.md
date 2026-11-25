@@ -282,6 +282,224 @@ I would leave my father-in-law's dining hall and go to my husband's quarters. Th
 **NOTE**
 17. Purūravas—Urvaśī, who fills and illumines the whole atmosphere with her radiance and is the maker of water, I, the best among the people living on earth, to my side
 
+### Printed p. 13
+#### Ṛk 17 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+…having brought her near me, I will make her subject to my will. May this Purūravas, the doer of good deeds, remain near you (Urvaśī) and enjoy happiness. O Urvaśī, my heart (mind) burns for you. Return quickly.
+
+#### Ṛk 18
+Urvaśī: O Purūravas, since you, the son of Ilā, are a human being, you must come under the sway of death. This is the rule made by the gods (the gods themselves say so). Your son (you, born in the form of a son) will satisfy the gods with oblations and the like. As the fruit of this you will join us in heaven and enjoy happiness. This conversation itself is the substance of this sūkta.
+
+Following the story of the Mahābhārata, which was composed on the background of this sūkta, Kālidāsa, famed as a great poet, composed a play called Vikramorvaśīya. But since that belongs to later literature, a critique of it is out of place here.
+
+The opinions of Western scholars on this sūkta are of many kinds. The scholar Wilson writes as follows:
+
+##### English translation
+According to the legend narrated by Sayana, Mitra and Varuna, excited by the charms of Urvashi, gave birth to Agastya, pronoucing at the same time an imprecation upon the nymph and condemning her to descend to earth and cohabit with a mortal. Ila, a Raja, having gone out hunting with the sons of Manu came to a place where Uma, the daughter of the mountain, with her attendant nymph, was worshipping Shiva. In punishment for his intrusion he was changed into a woman. Having prayed to Shiva to be restored to manhood, he was referred to Devi who allowed him to be alternately male and female, six months at a time. In the latter condition Budha, the son fo Soma, became cnamoured of her, and had a son by her, who was called Pururavas and was Raja of pratishthana. Pururavas became cnamoured of Urvashi, who became his mistress on condition that if he should be ever naked in her sight except in bed she should return to heaven; he was also to take charge of two pet rams belonging to her. They lived together four years, when one night, hearing the bleating of the rams as they were being carried off by the gods, Pururavas sprang from the bed in pursuit, when a flash of lightning exhibited him to Urvashi naked. She consequently left
+
+### Printed p. 14
+
+##### English translation
+him. Pururvas went in quest of her, and wandered about like one distracted. until he at length discovered her sporting with her fellow-nymphs. He impolored her to return. but she refused, calling him by various oppobrious names, as horse, brute, and the like (Sayana merely says Vajra.) This is the occasion of the dialogue of the Sukta, in which, however, Urvashi does not express herself in such unlady–like language, nor are the other particulars of the legend adverted to, beyond an allusion to the past cohabitation of the Raja and the nymph, and the unwillingness of the former to let his mistress depart. Sayana’s story is that of the Puranas. which is evidently different from that of the Veda. The story also of the drama, the Vikramorvashi differs from the Pauranik (being itseif derived from the Mahabharata, Vol I, p. 113; see Professor Cowell’s Translation of the Vikramorvashi , Introd. p. iv, note). Sayana quotes tne Vajasaneyaka. or White Yajush, for the story which varies apparently in some particulars, they not essenially. No Sukta, or portions of a Sukta, corresponding with the present, are found in the Vajasaneyi Samhita.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here is given the etymology that Yāska has explained of the names Purūravāḥ and Urvaśī, who play the chief parts in this sūkta.
+
+Purūravāḥ: पुरूरवाः । पुरूरवा बहुधा रोरूयते । तस्यैषा भवति । (*purūravāḥ | purūravā bahudhā rorūyate | tasyaiṣā bhavati |*) समस्मिञ्चायमान..................देवा (*samasmiñcāyamāna..................devā*) (Si. 10-46, 47) **NOTE**
+
+Durgācārya, the commentator on the Nirukta, explains that this Purūravāḥ is a deity of the middle region (lightning), and that the name arises because it makes much noise (puru—much, rava—sound). To make this meaning clear he cites the 7th Ṛk, समस्मिञ्चायमान (*samasmiñcāyamāna*), and gives the etymology for it. That is explained in the Special Topics of that Ṛk.
+
+Urvaśī: Here is cited the etymology that Yāska gives in discussing the derivation of the words Urvaśī and Apsarāḥ:
+
+उर्वशी । उर्वश्यप्सरा उर्वभ्यश्नुत उरुभ्यामश्नुत उरुर्वा वशोऽस्याः । अप्सरा अप्सारिण्यपि नाप्स इति रूपनामाप्सातेरप्सानीयं भवत्यादर्शनीयं व्यापनीयं वा स्पष्टं दर्शनायेति शाकपूणिः । यदप्प इत्यभक्ष्य । अप्पो नामेति व्यापिनः । तद्रा भवति रूपवती तदनयात्तमिति वा तदस्यै दत्तमिति वा। तस्या दर्शनान्मित्रावरुणयो रेतश्चस्कंद तदभिवादिन्येषर्ग्भवति ॥ (*urvaśī | urvaśyapsarā urvabhyaśnuta urubhyāmaśnuta ururvā vaśo 'syāḥ | apsarā apsāriṇyapi nāpsa iti rūpanāmāpsāterapsānīyaṃ bhavatyādarśanīyaṃ vyāpanīyaṃ vā spaṣṭaṃ darśanāyeti śākapūṇiḥ | yadappa ityabhakṣya | appo nāmeti vyāpinaḥ | tadrā bhavati rūpavatī tadanayāttamiti vā tadasyai dattamiti vā| tasyā darśanānmitrāvaruṇayo retaścaskaṃda tadabhivādinyeṣargbhavati ‖*) (Ni. 5-13)
+
+### Printed p. 15
+Urvaśī is a certain apsaras woman. The reason this name comes to this woman is:
+
+(1) उर्वभ्यश्नुते उरु महत् यशोऽभिव्याप्नोतीति (*urvabhyaśnute uru mahat yaśo 'bhivyāpnotīti*). Uru means much fame or renown; she attains (abhyuśnute) it. This woman is widely famous for her great fame (here fame means beauty, charm and the like); this is why she gets the name Urvaśī.
+
+(2) ऊरुभ्यां मैथुने धर्मे पुरुषं अश्नुते व्याप्तीति उर्वाशिनी सती उर्वशीत्युज्यते । (*ūrubhyāṃ maithune dharme puruṣaṃ aśnute vyāptīti urvāśinī satī urvaśītyujyate |*). Ūrū means thighs. By her attractive thighs, in the act of union, she pervades the man with embraces and the like and delights him. Therefore this woman gets the name Urvāśinī or Urvaśī.
+
+(3) अथवा उरुः महान् अस्याः वशः कामः सेयमुरुवशिनी सती उर्वशीत्युच्यते । (*athavā uruḥ mahān asyāḥ vaśaḥ kāmaḥ seyamuruvaśinī satī urvaśītyucyate |*). Uru means much, great. Vaśaḥ means desire of love. Since this woman has very great amorous desire, she gets the name Uruvaśinī or Urvaśī. Thus three kinds of etymology are given for the word Urvaśī.
+
+Now, to explain the meaning of the word Apsarāḥ, its etymology is given. Although this word is not read in this Ṛk, it had to be mentioned in passing while explaining the word Urvaśī; therefore its etymology is given here.
+
+(1) अप्सराः । सा हि अप्सारिणी भवति । अपः पतति नित्यमेव सरति । तत्पभवत्वात् तदेव तस्याः प्रियमुदकं तस्मादप्पराः (*apsarāḥ | sā hi apsāriṇī bhavati | apaḥ patati nityameva sarati | tatpabhavatvāt tadeva tasyāḥ priyamudakaṃ tasmādapparāḥ*). Apsarāḥ means apsāriṇī. Apaḥ means water. She who moves over the water. Since water is very dear to this woman, the name Apsarāḥ has come.
+
+(2) अथवा अद्भ्यः सृतेत्यप्सराः । अपि चैवमन्यथा स्यात् । अप्स इति एतत् रूपनाम । अप्सातेः प्रतिषेधपूर्वस्य प्सातेः भक्षणार्थस्य । तद्धि अप्सानीयं आदनीयं भवति । न हि तद्भक्ष्यते । किं तर्हि । आदर्शनीयं तदाभिमुख्यन स्थित्वा द्रष्टव्यमेव भवति चक्षुषा न पुनर्मुखेन भक्षयि तव्यमित्यर्थः (*athavā adbhyaḥ sṛtetyapsarāḥ | api caivamanyathā syāt | apsa iti etat rūpanāma | apsāteḥ pratiṣedhapūrvasya psāteḥ bhakṣaṇārthasya | taddhi apsānīyaṃ ādanīyaṃ bhavati | na hi tadbhakṣyate | kiṃ tarhi | ādarśanīyaṃ tadābhimukhyana sthitvā draṣṭavyameva bhavati cakṣuṣā na punarmukhena bhakṣayi tavyamityarthaḥ*). Apsaḥ is a name for form. The root psā means "to eat". *A-psā* means not fit for eating **NOTE**. Therefore
+
+### Printed p. 16
+the form that is in this woman is not fit to be eaten, but is worthy of being well looked at with the eyes. That is, the intended sense is that this woman's form is very attractive.
+
+(3) व्यापनीयं वा । व्यापनमर्हति । अप्लृ व्याप्तौ तस्य वा अप्सः, तद्धि नायनेन रश्मिना आत्मनः प्रत्ययाधानार्थं व्यापयितव्यं भवति । स्पष्टं दर्शनायेति शाकपूणिः ॥ (*vyāpanīyaṃ vā | vyāpanamarhati | aplṛ vyāptau tasya vā apsaḥ, taddhi nāyanena raśminā ātmanaḥ pratyayādhānārthaṃ vyāpayitavyaṃ bhavati | spaṣṭaṃ darśanāyeti śākapūṇiḥ ‖*). From the root aplṛ vyāptau the word apsaḥ is formed and gives the meaning "pervading". That is, the intended sense is that the form pervades so as to be clearly seen by all and is visible directly.
+
+All these differences of meaning given above accord with the opinion of the teacher Śākapūṇi. Now another meaning of the word Apsarā will be given. It has been said before that apsaḥ means form. Now, according to the root rā dāne, the word rā means "to give"; or, since this form (beauty) has been given to her by Brahmā, the name Apsarā has come; this too is the meaning.
+
+To make the meaning of these words clear, Yāska has given the etymology of the 10th Ṛk of this sūkta, विद्युन्नया पतंती (*vidyunnayā pataṃtī*). That is explained in the Special Topics of that Ṛk.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र हये जाय इत्यष्टादशर्चं पंचमं सूक्तं त्रिष्टुभं । आत्रानुक्रम
+> णिका । हये द्योनोर्वशीमैळः पुरूरवाः पूर्वोषितात्कामात्पुनरासाद्यावरोद्भुमैच्छता तमनिच्छंती प्रत्याचष्टे हय इषुर्या कदा सुदेवोऽंतरिक्षप्रां
+> सचेति शिस्रष्टैळवाक्यं शिष्वा उर्वश्चा इति। हये जाय इषुर्न श्रिये या सुजूर्णिः
+> कदा सूनुः सुदेवो अद्यांतरिक्षप्रां सचा यदासु जहतीष्टित्याद्यास्ति स्रश्चेति नवर्च
+> ऐळस्य पुरूरवसो वाक्यानि । आतस्तासां स ऋषिः । शिष्वा नवोर्वश्या वाक्यानि ।
+> आतस्तासु सर्षिका । उभयोर्वाक्येषु योऽर्थः प्रतिपाद्यते सा देवता ॥ गतो
+> विनियोगः ॥
+> ऐळोर्वशीतिहासोऽत्र वैशद्याय प्रवर्ण्यते ।
+> मित्रश्च वरुणश्चोभौ दीक्षित् प्रेक्ष्य चोर्वशीं ॥ १ ॥
+> रेतः सिषिचतुः सद्यस्तत्कुंभे न्यदधुस्तदा ।
+> तां शप्तवंतौ मनुजभोग्या भूम्यां भवेति तौ ॥ २ ॥
+> अत्रांतर इळो राजा मनोः पुत्रैश्च संयुतः ।
+> मृगयां संचरन् साश्वो देवीक्रीडं विवेश ह ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+This fifth sūkta, beginning हये जाये (*haye jāye*), has eighteen Ṛks and is in the Triṣṭubh metre. Sāyaṇa quotes the Anukramaṇikā: Aila Purūravas, desiring Urvaśī, who had formerly lived with him, approached her again and wished to take her back; she, not wishing it, rejects him. Of the verses, nine are the words of Aila Purūravas, and Purūravas is their seer; the nine that remain are the words of Urvaśī, and she is their seer. The subject set forth in the words of each is that verse's deity. The viniyoga has been given already.
+
+Then, to make it clear, he tells the history of Aila and Urvaśī in verse. Mitra and Varuṇa, both consecrated, saw Urvaśī and at once let fall their semen and placed it in a pot; and they cursed her: "Be on earth, to be enjoyed by a mortal." Meanwhile King Ilā, with Manu's sons, roaming on a hunt on horseback, entered the sporting-ground of the Goddess
+
+### Printed p. 17
+
+> <table>
+> <tbody>
+> <tr>
+> <td>यत्र देवं गिरिसुता सर्वैर्भावैरतोषयत् ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>अत्राविशन्नुमान् स्त्री स्यादित्तुक्त्वा तत्र चानिशत्</td>
+> <td>॥ ४ ॥</td>
+> </tr>
+> <tr>
+> <td>स्त्रीभूत्वा प्रीडितः सोऽगाच्छरणं शिवमंजसा ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>इयं प्रसाद्यतां राजन्नित्युक्तः शंभुना नृपः</td>
+> <td>॥ ५ ॥</td>
+> </tr>
+> <tr>
+> <td>जगाम शरणं देवीमात्मनः पुंस्त्वसिद्धये ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>अकरोऽस्ना नृपं देवी षण्मासात्पाप्तपुंस्ककं</td>
+> <td>॥ ६ ॥</td>
+> </tr>
+> <tr>
+> <td>ततः कदाचित्काले बुधः सौंदर्यमोहितः ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>अप्सरोभ्यो विशिष्टां तामिळां संगतवान्मुदा</td>
+> <td>॥ ७ ॥</td>
+> </tr>
+> <tr>
+> <td>तदेळायां सोमसुताज्ञातो राजा पुरूरवाः ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>तमुर्वशी तु चकमे प्रतिष्ठानपुरे स्थितं</td>
+> <td>॥ ८ ॥</td>
+> </tr>
+> <tr>
+> <td>तल्पादन्यत्र नग्नं त्वां दृष्ट्वा यामि यथागतं ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>सुता उरणकौ त्वं च समीपं कुरु मे द्रुतं</td>
+> <td>॥ ९ ॥</td>
+> </tr>
+> <tr>
+> <td>इति सा समयं कृत्वा रमयामास तं नृपं ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>चतुरब्बे गते रात्रौ देवैरुरणकद्वयं</td>
+> <td>॥ १० ॥</td>
+> </tr>
+> <tr>
+> <td>हृतं तस्य ध्वनिं श्रुत्वा नग्न एव स भूपतिः ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>उत्थाय जित्वा तावागच्छेत्येवं जल्पकोऽन्यतः</td>
+> <td>॥ ११ ॥</td>
+> </tr>
+> <tr>
+> <td>विद्युता दर्शितोऽस्यॆ स नग्न एव पुरूरवाः ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>अथ सादृष्टसमया ह्युर्वशी तु दिवं ययौ</td>
+> <td>॥ १२ ॥</td>
+> </tr>
+> <tr>
+> <td>तत उन्मत्तवद्राजा दिदृक्षुस्तामितस्ततः ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>कुर्वन्नन्वेषणं तीरे सरसो मानसस्य तां</td>
+> <td>॥ १३ ॥</td>
+> </tr>
+> <tr>
+> <td>विहरंतीमप्परोभिः सहापश्यत्पुरूरवाः ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>पुनः स चकमे भोक्तुमुर्वशीं च पुरूरवाः</td>
+> <td>॥ १४ ॥</td>
+> </tr>
+> <tr>
+> <td>साश्रं सापश्यदुक्ता च प्रत्याचष्टे व्रजेति तं ।</td>
+> <td></td>
+> </tr>
+> <tr>
+> <td>इत्युवर्श्यळसंवादमिमनेषोऽप्यसूचयदिति</td>
+> <td>॥ १५ ॥</td>
+> </tr>
+> </tbody>
+> </table>
+> अत्र वाजसनेयकं । उर्वशी हास्पराः पुरूरवसॆमैळं चकमे तग्ं ह विंदमानोवाच त्रिः स्म माहो नैतसेन दंडेन हतादकामा स्म मा निपद्यास्यॆ मो स्म त्वा
+> नग्नं दर्शमेष वै न स्त्रीणामुपचार इति सा हास्मिइज्योगुवासापि हास्माद्गर्भिण्यास
+> तावज्यो ग्घास्मिन्नुवास । ततो ह गंधर्वाः समूदिरे ज्योग्या इयमुर्वशी
+> 2
+
+##### Gist of the bhāṣya
+
+…where the mountain's daughter (Pārvatī) pleased the god with every mood. Ilā entered, and since it had been said there, "Whoever enters here shall become a woman," he became a woman, and, distressed, went at once to Śiva for refuge. Śambhu told the king, "She must be propitiated." He went to the Goddess for refuge to gain his manhood; the Goddess made him, after six months, one who had gained manhood. Then at a certain time Budha, bewitched by beauty, joyfully united with Ilā, who surpassed the apsarases. From Ilā, the king Purūravas was born, known as son of the son of Soma. Urvaśī loved him as he lived in the city of Pratiṣṭhāna. She laid down a condition: apart from the bed she was not to see him naked, otherwise she would go back as she came; and he was to keep two rams as her sons near her. Having made this agreement she delighted the king. When four years had passed, one night the gods carried off the two rams; hearing their sound, the king rose naked and went after them, saying "Come, I have conquered them"; but lightning showed him naked to her, and Urvaśī, her condition seen, went to heaven. Then the king, like a madman, searched about hoping to see her, and on the shore of Lake Mānasa saw her sporting with the apsarases. He again desired to enjoy her. She, tearful, saw him and, spoken to, rejected him: "Go." Thus he too indicated the dialogue of Aila and Urvaśī.
+
+Here the Vājasaneyaka (Brāhmaṇa) is cited: उर्वशी हास्पराः पुरूरवसॆमैळं चकमे तग्ं ह विंदमानोवाच त्रिः स्म माहो नैतसेन दंडेन हतादकामा स्म मा निपद्यास्यॆ मो स्म त्वा नग्नं दर्शमेष वै न स्त्रीणामुपचार इति सा हास्मिइज्योगुवासापि हास्माद्गर्भिण्यास तावज्यो ग्घास्मिन्नुवास । ततो ह गंधर्वाः समूदिरे ज्योग्या इयमुर्वशी (*urvaśī hāsparāḥ purūravasèmaiḷaṃ cakame tagṃ ha viṃdamānovāca triḥ sma māho naitasena daṃḍena hatādakāmā sma mā nipadyāsyè mo sma tvā nagnaṃ darśameṣa vai na strīṇāmupacāra iti sā hāsmiijyoguvāsāpi hāsmādgarbhiṇyāsa tāvajyo gghāsminnuvāsa | tato ha gaṃdharvāḥ samūdire jyogyā iyamurvaśī*). Urvaśī, an apsaras, loved Purūravas Aila; finding him she said: "Three times a day you shall strike me with a rod, but not against my wish; do not lie with me [otherwise], and let me not see you naked; this is the way of women." She lived with him for a long time, even pregnant by him. Then the Gandharvas said among themselves: "This Urvaśī has lived long among men."
+
+### Printed p. 18
+
+> मनुष्येष्टवात्सीमपजानीत यथेयं पुनरागच्छेदिति तस्यॆ हाविद्र्व्यरणा शयन
+> उपबद्धास ततो ह गंधर्वा अन्यतरमुरणं प्रमेथुः । सा होवाचावीर इव बत
+> मेऽजन इव पुत्रग्ं हरंतीति द्वितीयं प्रमेथुः सा ह तथैवोवाचाथ हायमीक्षां
+> चक्रे कथं नु तदवीरं कथमजनग्स् स्याद्यत्राहग्स् स्यामिति स नग्न एवानूत्पपात चिरं
+> तन्नेने यद्वासः पर्यधास्यत ततो ह गंधर्वा विद्युत् जनयां चक्रुस्तं यथा
+> दिवैनं नग्नं ददर्श ततो हैवेयं तिरोबभूव पुनरैमात्येत्तिरो भूताग्ं स आध्या
+> जल्पन्नुरुक्षेत्रग्ं समया चचारान्यतःप्लक्षेति बिसवती तस्यॆ हाध्यंतेनवप्राज तद्ध ता
+> अप्सरस आतयो भूत्वा परिपुप्लुविरे तग्ं हेयं ज्ञात्वोवाच अयं वै स मनुष्यो
+> यस्मिन्नहमवात्समिति ता होचुस्तस्मै वा आविरसामेति तथेति तस्मै हाविरासुस्ताग्ं
+> हायं ज्ञात्वाभिपरोनाद हये जाये मनसेत्यादि । शत. ब्रा. ११-५-१ ॥
+
+##### Gist of the bhāṣya
+
+The Gandharvas plan to remove her so that she may come back again. Two rams were tied at her bed; the Gandharvas carried one away. She cried, "As if I had no hero, no people, they are taking my son." They took the second, and she cried the same. Then he thought: "How can it be without hero, without people, where I am?" and, naked, he leapt up after them, not delaying to put on his garment. The Gandharvas produced lightning, and she saw him naked as by day; then she vanished. He came back and she had vanished; distressed, lamenting, he wandered over Kurukṣetra and came to the lotus pond Anyataḥplakṣā. The apsarases swam about there in the form of swans. She recognised him and said, "This is that mortal with whom I lived." They said, "Let us appear to him"; so they did. Recognising her, he called out: हये जाये मनसेत्यादि (*haye jāye manasetyādi*). (Śa. Brā. 11-5-1)
+
+##### भावार्थ (Bhāvārtha)
+
+Translation: In the eighth anuvāka of the tenth maṇḍala of the Ṛgveda-Saṃhitā, four sūkta-s ended in the preceding adhyāya. Now this sūkta beginning हये जाये (*haye jāye*), the opening sūkta of the fifth adhyāya, is the fifth sūkta in the eighth anuvāka. It has eighteen Ṛks; the metre is Triṣṭubh. The Anukramaṇikā says: "Aila Purūravas, from desire for Urvaśī who had formerly lived with him, approached her again and wished to take her back; she, not wishing it, rejects him; three are Urvaśī's…" The verses of this sūkta हये जाये (*haye jāye*) (Ṛk 1), इषुर्न श्रिये (*iṣurna śriye*) (Ṛk 3), यासु जूर्णिः (*yāsu jūrṇiḥ*) (Ṛk 6), कदा सूनुः (*kadā sūnuḥ*) (Ṛk 12), सुदेवो अद्य (*sudevo adya*) (Ṛk 14), अंतरिक्षप्रां (*aṃtarikṣaprāṃ*) (Ṛk 17), and the three beginning सचा यदासु जहतीषु (*sacā yadāsu jahatīṣu*) (Ṛks 8-10)—in all these nine Ṛks are the words of Purūravas, son of Ilā, so Purūravas is the seer of these Ṛks; the other nine Ṛks are the words of Urvaśī, so Urvaśī is the seer of those Ṛks. Whatever subject is set forth in the words of the two is, for the respective Ṛks, the deity; the viniyoga has been given before.
+
+Here the commentator tells a story about Purūravas, son of Ilā, and Urvaśī:
+
+There is a history concerning Purūravas, son of Ilā, and Urvaśī. It will be set out here in detail. Formerly, while Mitra and Varuṇa were consecrated in the sacrificial ground, they saw an apsaras woman named Urvaśī there. By the mere sight of her, Mitra and Varuṇa's semen was discharged, and it fell into a pot (a vessel, or a vessel holding the water called vasatīvarī) that was there… **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
+**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
