@@ -35468,6 +35468,262 @@ On the sixth day, at the third pressing, in the Brāhmaṇācchaṃsin's śastra
 - बुद्भुदयाशवः (*budbhudayāśavaḥ*)—like bubbles on the water
 - हताः (*hatāḥ*)—are destroyed
 
+### Printed p. 1049
+
+##### भावार्थ (Bhāvārtha)
+
+When these famine-deities (or deities of poverty), who torment the people and screech with distorted voices, move swiftly forward and depart, all the enemies of Indra (that is, of the people) perish like bubbles on water. The intention is that when famine has gone and plenty has arrived, the people's hardships will be removed.
+
+##### English translation
+Utterers of discordant sounds, when swiftly moving you departed, all
+the enemies of Indra were slain, disappearing like bubbles.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice, in the third pressing, among the śastra mantras recited by the priest called Brahman, this Ṛk beginning यद्ध प्राचीः (*yaddha prācīḥ*) is to be recited. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra कपृन्नरो यद प्राचीरजगंतेति चैते (*kapṛnnaro yada prācīrajagaṃteti caite*) (Ā. 8-3).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परी॒मे गाम॑नेषत॒ पर्य॒ग्नि म॑हृषत ।  
+> दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒मा आ द॑धर्षति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । इमे । गां । अनेषत । परि । अग्निं । अहृषत ।  
+> देवेषु । अक्रत । श्रवः । कः । इमान् । आ । दधर्षति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे विश्वे देवा गां । जात्यभिप्रायमेकवचनं । पणिभिरपहृताः सर्वा
+> देवगवीः पर्यनेषत । पर्यनयन् । यष्ट्यानंगिरसः परिप्रापयन् । ततोऽग्निं च
+> पर्यहृषत । परितो व्यहरन् । यागार्थं तत्र तत्र गार्हपत्यादिरूपेण स्थापितवंत इत्यर्थः । एवं कृत्वा देवेषु यष्टव्यॆष्टिद्रादिसु श्रवोऽन्नमक्रत । अकृषत ।
+> कः शत्रुरसुरादिरिमान्विश्वानेवाना दधर्षति । अभिभवितुं शक्नोति । न कश्चिदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+These Viśvedevas brought back गां (*gāṃ*) (the singular is used with a view to the class): all the cows of the gods that had been carried off by the Paṇis. They conducted them and handed them over to the Aṅgirases, the sacrificers. Then they also set up the fire all around, that is, they established it here and there for the sacrifice in the form of the Gārhapatya and the others. Having done so, they prepared श्रवः (*śravaḥ*), food, among the gods who are to be worshipped with the iṣṭis and the like. What enemy, an Asura or any other, can overcome all these? None can.
+
+### Printed p. 1050
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमे (*ime*)—these Viśvedevas
+- गां (*gāṃ*)—the herd of cows carried off by the Paṇis
+- परि अनेषत (*pari aneṣata*)—brought back and placed in the power of the Aṅgirasa sages
+- अग्निं (*agniṃ*)—the fires beginning with the Gārhapatya
+- परि अहृषत (*pari ahṛṣata*)—established here and there (afterwards)
+- देवेषु (*deveṣu*)—among the gods Indra and the rest, who are worthy of sacrifice
+- श्रवः (*śravaḥ*)—food in the form of oblation (to offer)
+- अक्रत (*akrata*)—prepared
+- इमान् (*imān*)—these Viśvedevas
+- कः (*kaḥ*)—what enemy or Asura
+- आ दधर्षति (*ā dadharṣati*)—can resist?
+
+##### भावार्थ (Bhāvārtha)
+
+These Viśvedevas brought back the cows carried off by the Paṇis and placed them in the power of the Aṅgirasa sages. They established the Gārhapatya and other fires on the sacrificial altar. They prepared food, in the form of oblation, for Indra and the other gods who are to be worshipped in the sacrifice. Can any enemy or Asura resist such Viśvedevas?
+
+##### English translation
+These (Vishwadevas) have brought back the (stolen) cattle ; they have built up the fire ; they have provided food for the gods. Who will overcome them ?
+
+## Sūkta 156 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं हिन्वंतु न इति पंचर्चं पंचमं सूक्तमग्निपुत्रस्य केतुनाम्न आर्षं
+> गायत्रमाग्नेयं । तथा चानुक्रांतं । अग्निं केतुराग्नेय आग्नेयं गायत्रमिति ॥
+> प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छंदसीदं शस्यं । सूत्रितं च । अग्निं हिन्वंतु नः
+> प्राग्नये वाचमिति सूक्ते । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अग्निं हिन्वंतु नः (*agniṃ hinvaṃtu naḥ*) has five Ṛks and is the fifth sūkta. Its seer is Ketu, son of Agni; the deity is Agni; the metre is Gāyatrī. The Anukramaṇī says: अग्निं केतुराग्नेय आग्नेयं गायत्रं (*agniṃ keturāgneya āgneyaṃ gāyatraṃ*). In the Prātaranuvāka and the Āśvina-śastra this sūkta is to be recited for the Ṛks in the Gāyatrī metre. The sūtra says: अग्निं हिन्वंतु नः प्राग्नये वाचमिति सूक्ते (*agniṃ hinvaṃtu naḥ prāgnaye vācamiti sūkte*) (Ā. 4-13).
+
+##### Anuvāda
+
+This sūkta अग्निं हिन्वंतु (*agniṃ hinvaṃtu*) is the fifth sūkta in the twelfth anuvāka. It contains five Ṛks. Its seer is Ketu, son of Agni; the deity is Agni; the metre is Gāyatrī. The Anukramaṇī says अग्निं केतुराग्नेय आग्नेयं गायत्रं (*agniṃ keturāgneya āgneyaṃ gāyatraṃ*). The sūkta is applied to Gāyatrī-metre Ṛks at the time of reciting the Prātaranuvāka and the Āśvina-śastra mantras. This is explained by the Āśvalāyana Śrauta Sūtra in the sūtra अग्निं हिन्वंतु नः प्राग्नये वाचमिति सूक्ते (*agniṃ hinvaṃtu naḥ prāgnaye vācamiti sūkte*) (Ā. 4-13).
+
+### Printed p. 1051
+Maṇḍala 10; Anuvāka 12; Sūkta 156; Aṣṭaka 8; Adhyāya 8; Varga 14. Number of Ṛks in the sūkta: 5. Seer: Ketu Āgneya. Deity: Agni. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं हि॑न्वंतु नो॒ धियः॒ सप्ति॑मा॒शुमि॑वा॒जिषु॑ ।  
+> तेन॑ जेष्म॒ धनं॑धनं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । हिन्वंतु । नः । धियः । सप्तिं । आशुंइव । आजिषु ।  
+> तेन । जेष्म । धनंधनं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं धियः कर्माणि स्तुतयो वाग्निं हिन्वंतु । प्रेरयंतु । यागार्थमुद्योजयंतु वर्धयंतु ना ॥ हि गतौ वृद्धौ च ॥ तत्र दृष्टांतः । आजिषु
+> संग्रामेष्वशुमिव यथाशुं शीघ्रगामिनं सप्तिं सर्पणशीलमश्वं योद्धारः
+> प्रेरयंति तद्वत् । तेनाग्नि ना धनंधनं सर्वं धनं जेष्म । वयं जयेम ॥
+
+##### Gist of the bhāṣya
+
+May our धियः (*dhiyaḥ*), our rites or praises, urge on Agni, that is, rouse him for the sacrifice and make him grow (the root हि (*hi*) means going and increase). The illustration: as warriors in battles urge on a swift horse, the सप्ति (*sapti*), the one given to moving along, so may our rites urge Agni. Through that Agni may we win all wealth, धनंधनं (*dhanaṃdhanaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आजिषु (*ājiṣu*)—in battles
+- आशुमिव (*āśumiva*)—like one of swift motion
+- सप्तिं (*saptiṃ*)—as warriors urge on a horse
+- नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—rites such as sacrifices, or praises
+- अग्निं (*agniṃ*)—Agni
+- हिन्वंतु (*hinvaṃtu*)—may they urge on for the sacrifice
+- तेन (*tena*)—through that Agni
+- धनंधनं (*dhanaṃdhanaṃ*)—all kinds of wealth
+- जेष्म (*jeṣma*)—may we win
+
+##### भावार्थ (Bhāvārtha)
+
+As soldiers in battles urge on a swift horse, may our rites or praises urge Agni on for the sacrifice. With the help of that Agni may we win all wealth.
+
+### Printed p. 1052
+
+##### English translation
+May our rites bring Agni hither like a swift charger in battle, may we through him acquire all wealth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यया॒ गा आ॒करा॑महे॒ सेन॑याग्ने॒ तवो॒त्या ।  
+> तां नो॑ हिन्व म॒घत्त॑ये ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यया । गाः । आकरामहे । सेनया । अग्ने । तव । ऊत्या ।  
+> तां । नः । हिन्व । मघत्तये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सेनयेनेन सह वर्तमानया सेनारूपया ना यया तवोत्या
+> रक्षया गा आकरामहे अभिमुख्येन कुर्महे । लभामह इत्यर्थः । तामूतिं
+> नोऽस्मान्हिन्व । गमय । किमर्थ० । मघत्तये । धनस्य दानार्थ० । अस्माकं धनलाभायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, by that protection of yours, which is in the form of an army, सेनया (*senayā*) (that is, accompanied by *ina*), we make cows our own, that is, we obtain them. Send us, हिन्व (*hinva*), make go to us that protection, for मघत्तये (*maghattaye*), the giving of wealth, that is, so that we may gain wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your
+- यया (*yayā*)—by which
+- सेनया (*senayā*)—army-like
+- ऊत्या (*ūtyā*)—by protection
+- गाः (*gāḥ*)—cows
+- आकरामहे (*ākarāmahe*)—we obtain
+- तां (*tāṃ*)—such protection
+- नः (*naḥ*)—to us
+- मघत्तये (*maghattaye*)—for wealth
+- हिन्व (*hinva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, provide us, for the gaining of wealth also, that protection of yours, in the form of an army, by which we obtain cows.
+
+##### English translation
+Send us, Agni, for the acquisition of wealth, that army with which
+we may acquire cattle through your protection.
+
+### Printed p. 1053
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग्ने॑ स्थू॒रं र॒यिं भ॑र पृ॒थुं गोमं॑तम॒श्विनं॑ ।  
+> अं॒ग्धि खं व॒र्तया॑ प॒णिं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्ने । स्थूरं । रयिं । भर । पृथुं । गोऽमंतं । अश्विनं ।  
+> अंग्धि । खं । वर्तय । पणिं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिप्लविकेषूक्ष्येषु प्रशास्तुः शस्त्र आग्ने स्थूरमिति तृचो वैकल्पिकोऽनुरूपः । सूत्रितं च । आ ते वत्सो मनो यमदाग्ने स्थूरं रयिं भर । आ. ७-८। इति ॥
+> हे अग्ने स्तूरं स्थूलं वृद्धं पृथुं विस्तीर्णं गोमंतं गोभिर्युक्तमश्विनमश्वोपेतं रयिं धनमा भर । अस्मभ्यमाहर । प्रयच्छ । खमंतरिक्षमंग्धि ।
+> वृष्ट्युदकैः सिंच । यद्वा । आत्मीयैस्तेजोभिव्यंजय । प्रकाशय । पणिं वणिजमदातारमसुरं वा वर्तय । इतो निर्गमय । यद्वा । दाने प्रवर्तय ॥
+
+##### Gist of the bhāṣya
+
+In the Abhiplava ukthya days, the three Ṛks beginning आग्ने स्थूरं (*āgne sthūraṃ*) are an optional anurūpa triplet in the Praśāstṛ's śastra. The sūtra says: आ ते वत्सो मनो यमदाग्ने स्थूरं रयिं भर (*ā te vatso mano yamadāgne sthūraṃ rayiṃ bhara*) (Ā. 7-8).
+O Agni, bring रयिं (*rayiṃ*), wealth, that is स्थूरं (*sthūraṃ*), bulky and abundant, पृथुं (*pṛthuṃ*), extensive, गोमंतं (*gomaṃtaṃ*), endowed with cows, and अश्विनं (*aśvinaṃ*), with horses; bring it to us and give it. अंग्धि खं (*aṃgdhi khaṃ*): sprinkle the sky with rain-water; or else, make it manifest, illumine it, with your own splendours. वर्तय पणिं (*vartaya paṇiṃ*): send the Paṇi, the merchant or the miserly one who gives nothing, or an Asura, out of here; or else, set him to giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- स्थूरं (*sthūraṃ*)—abundant
+- पृथुं (*pṛthuṃ*)—extensive
+- गोमंतं (*gomaṃtaṃ*)—together with cows
+- अश्विनं (*aśvinaṃ*)—together with horses
+- रयिं (*rayiṃ*)—wealth
+- आ भर (*ā bhara*)—bring to us
+- खं (*khaṃ*)—the sky
+- अंगिः (*aṃgiḥ*)—drench with rain-water, or fill with your radiance **NOTE**
+- पणिं (*paṇiṃ*)—the miserly Asura
+- वर्तय (*vartaya*)—send out of here
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bring us abundant and excessive wealth, cows and horses. Fill the sky with clouds or with your radiance. Send the miser out of here, or else prompt his mind to make gifts.
+
+##### English translation
+Bring us, Agni, substantial and extensive wealth, consistlng of cattle
+and horses, sprinkle the sky (with rain), expel Pani.
+
+### Printed p. 1054
+
+##### विशेषविषयगळु (Special Topics)
+
+In the ukthya sacrifices connected with the Abhiplava, among the śastra mantras to be recited by the priest called Praśāstṛ, the three Ṛks beginning आग्ने स्फूरं (*āgne sphūraṃ*) (Ṛks 3–5) are to be recited optionally as the anurūpa triplet. This is explained by the Āśvalāyana Śrauta Sūtra in the passage आ ते वत्सो मनो यमदाग्ने स्फूरं रयिं भर (*ā te vatso mano yamadāgne sphūraṃ rayiṃ bhara*) (Ā. 7-8).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ नक्ष॑त्रम॒जर॒मा सूर्यं॑ रोहयो दि॒वि ।  
+> दध॒ज्जोऽति॒र्जने॑भ्यः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । नक्षत्रं । अजरं । आ । सूर्यं । रोहयः । दिवि ।  
+> दधत् । ज्योतिः । जनेभ्यः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नक्षत्रं । नक्षति सततं गच्छतीति नक्षत्रः ॥ नक्षि गत् । अमिनक्षीत्यादिनात्रन्प्रत्ययः ॥ सततं गंतारमजरं जरारहितं सूर्यं सर्वस्य प्रेरकमादित्यं
+> दिव्यंतरिक्ष आ रोहयः । उपर्यवस्थितवानसि । यद्वा । नक्षत्रं कृत्तिकादिकं सूर्यं
+> च दिव्यारोहयः । किं कुर्वन् । जनेभ्यः सर्वेभ्यः प्राणिभ्यो व्यवहारार्थं ज्योतिः
+> प्रकाशं दधद्विदधत् कुर्वन् । यथा सर्वेषां प्रकाशो भवति तथोन्नते देशे
+> सूर्यमगमय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, नक्षत्रं (*nakṣatraṃ*) is the one who constantly goes (the root नक्षि (*nakṣi*), to go). You have set on high in the sky the sun, who is the constant mover, ageless, the impeller of all. Or else: you have set in the sky the constellations such as Kṛttikā, and the sun. Doing what? Providing light, ज्योतिः (*jyotiḥ*), for the people, for all creatures, for their activity. The meaning is: so that there may be light for all, you made the sun go to a lofty region.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- जनेभ्यः (*janebhyaḥ*)—for all people and creatures, for their activity
+- ज्योतिः (*jyotiḥ*)—light
+- दधत् (*dadhat*)—in order to produce
+- नक्षत्रं (*nakṣatraṃ*)—the constant mover
+- अजरं (*ajaraṃ*)—the ageless, that is, the one who always remains the same, without increase or decrease
+- सूर्यं (*sūryaṃ*)—the sun, who impels all
+- दिवि (*divi*)—in the sky
+- आ रोहयः (*ā rohayaḥ*)—you have established on high [or: नक्षत्रं (*nakṣatraṃ*)—the host of constellations beginning with Kṛttikā; आ रोहयः (*ā rohayaḥ*)—you have established]
+
 ---
 
-**Progress note:** Done through printed p. 1048. pp. 1043-1048 (batch API)
+**Progress note:** Done through printed p. 1054. pp. 1049-1054 (batch API)
