@@ -500,6 +500,192 @@ Here the commentator tells a story about Purūravas, son of Ilā, and Urvaśī:
 
 There is a history concerning Purūravas, son of Ilā, and Urvaśī. It will be set out here in detail. Formerly, while Mitra and Varuṇa were consecrated in the sacrificial ground, they saw an apsaras woman named Urvaśī there. By the mere sight of her, Mitra and Varuṇa's semen was discharged, and it fell into a pot (a vessel, or a vessel holding the water called vasatīvarī) that was there… **NOTE**
 
+### Printed p. 19
+…and the sage Pururavas, son of Ilā, and Urvaśī: there is an itihāsa concerning them, which will be told here in detail. In former times Mitra and Varuṇa, while consecrated at a sacrificial ground, saw there the celestial woman named Urvaśī. At the mere sight of her the semen of Mitra and Varuṇa was discharged, and it fell into a pot standing there (a vessel, or a vessel holding the water called vasatīvarī).
+
+They cursed the person who had caused their discharge, that is Urvaśī, to be born on earth in human form and to experience the pleasures and pains natural to men. Meanwhile a king named Ila, hunting in a forest together with the sons of Manu, entered the grove called Devīkrīḍa. In that grove Pārvatī, sporting in love with Īśvara, was delighting that god with many moods. Because the Goddess (Pārvatī) sported there together with Īśvara, the grove came to be called Devīkrīḍa. While Pārvatī and Parameśvara were at their secret play in this grove, she had cursed it, wishing that no one should come there, so that any male who entered it would at once become a woman. Therefore King Ila, having entered that grove, at once became a woman, and wandering about in shame took refuge with Śiva, asking to be saved from this state. Śiva told the king that this was a work the Goddess herself must do, and that he should therefore please her and ask a boon. Accordingly the king took refuge with the Goddess and begged her to grant him manhood as before. The Goddess in compassion granted that the king should be a woman for six months of the year and a man for the other six months. While this went on, the king in woman's form was roaming the grove with female companions, celestial women, when Budha (son of the Moon) came there for some other reason, saw this beautiful woman Ilā, and was overcome with infatuation. Afterwards a king named Pururavas was born to Ilā by that Budha. Urvaśī saw this King Pururavas, who ruled in the city of Pratiṣṭhāna, and fell in love with him. Then a kind of agreement was made between Pururavas and Urvaśī: that except when lying in bed she would not see the king naked at any other time; that the king would keep her two lambs in his charge and guard them; and that if this were violated she would at once leave him and go. Having made this agreement with the king, the two lived happily, sporting with each other for four years. After four years had passed, one night the gods carried off the lambs that were in the king's keeping. Hearing the bleating of the lambs, the king said he would bring them back from the thieves who were carrying them off, rose from the bed and, without putting on clothes, set out in haste naked. At that moment a lightning flash shone very brightly, and Urvaśī saw the king naked. Saying that the agreement they had made earlier was broken, Urvaśī rose and went away to heaven. The king, returning and not finding Urvaśī in bed, searched for her everywhere and came to the shore of Lake Mānasa. There the king saw Urvaśī, who was sporting in the water in the middle of the lake with her companions, celestial women, and wishing to sport with her again,
+
+### Printed p. 20
+he entreated her in many ways, in tears. But Urvaśī did not agree to the king's words; she said, "What you say cannot be carried out; therefore give up your longing for me and go back." The subject of this conversation between King Pururavas and Urvaśī is what is stated in this sūkta.
+
+The Śatapatha Brāhmaṇa of the Śukla Yajurveda also speaks thus on this matter:
+उर्वशी हाप्सराः........................ताग्ं ह यं ज्ञात्वाभिपरोवाद हये जाये मनसा ॥ (*urvaśī hāpsarāḥ........................tāgṃ ha yaṃ jñātvābhiparovāda haye jāye manasā ‖*)
+(Śa. Brā. 11-5-1 etc.)
+Since we have given the meaning of these Brāhmaṇa passages on pages 7–9 of the introduction to this sūkta, there is no need to explain them again.
+
+Maṇḍala 10; Anuvāka 8; Sūkta 95. Aṣṭaka 8; Adhyāya 5; Vargas 1, 2, 3, 4. Number of Ṛks in the sūkta: 18.
+Ṛṣi: Ṛks 1, 2, 6, 8–10, 12, 14, 17: Pururavas Aiḍa; Ṛks 2, 4, 5, 6, 11, 13, 15, 16, 18: Urvaśī.
+Deity: Ṛks 1, 3, 6, 8–10, 12, 14, 17: Urvaśī; Ṛks 2, 4, 5, 6, 11, 13, 15, 16, 18: Pururavas Aiḍa.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒ये जाये॒ मन॑सा॒ तिष्ठ॑ घोरे॒ वचां॑सि मि॒श्रा कृ॑णवावहै॒ नु ।  
+> न नौ॒ मंत्रा॒ अनु॑दितास ए॒ते मय॑स्कर॒न्पर॑तरे च॒नाह॑न् ॥ १ ॥
+
+### Printed p. 21
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हये । जाये । मनसा । तिष्ठ । घोरे । वचांसि । मिश्रा । कृणवावहै । नु ।  
+> न । नौ । मंत्राः । अनुदितासः । एते । मयः । करन् । परतरे । चन । अहन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरूरवसो वाक्यं । जायां पश्यन्वदति । हये हे घोरे । अस्माकं
+> दुःखजनकत्वात् । घोरकारिणि जाये मनसास्मदुपर्यनुरागवता मनसा युक्ता
+> सती तिष्ठ । क्षणमात्रं संनिधावेव निवस ॥ हय इत्यस्य निघाताभावश्चांदसः ॥ किमर्थं
+> संस्थानमिति तत्राह । वचांसि वाक्यानि मिश्राण्युक्तिप्रत्युक्तिरूपाणि स्वद्य क्षिप्रं वा
+> कृणवावहै करवावहै ॥ कृवि हिंसाकरणयोः । धिन्विकृणो रच्चेत्युप्रत्ययः ॥
+> किमर्थं वचसः करणमिति चेत् उच्यते । नावावयोर्मंत्रा रहस्यार्थ एते
+> विवक्षिता अनुदितासोऽप्याह्रियमाणाः परस्परमसंभाष्यमाणा गुंफिताः संतः परतरे
+> चनाहन् । चनेति निपातसमुदायश्चार्थे । अनेकेषु दिवसेषु चरमेऽप्यहनि मयः
+> सुखनामैतत् । सुखं न करन् । कुर्वंति । अतः कृणावाहहा इति ॥
+
+##### Gist of the bhāṣya
+
+This is Pururavas' speech; seeing his wife, he speaks. "Hye" means "O" (hē): O fierce one, because you cause us sorrow. O wife who acts fiercely, stay, with a mind full of affection for us; remain close by for just a moment. The absence of nighāta for हय (*haya*) is Vedic. Why stay? He says: let us exchange speeches (vacāṃsi), mixed, in the form of question and answer, today or quickly. Why make speech? These secret thoughts (mantrāḥ) of us two, if not uttered though intended, being merely strung together without being spoken to one another, do not bring pleasure (mayaḥ, a word for happiness), even on the last of many days; people do not make it. Hence "कृणवावहै (*kṛṇavāvahai*)".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हये घोरे जाये (*haye ghore jāye*)—O wife of hard heart
+- मनसा (*manasā*)—with a mind showing affection for me
+- तिष्ठ (*tiṣṭha*)—stand a little
+- वचांसि (*vacāṃsi*)—words in the form of conversation
+- नु (*nu*)—now
+- मिश्रा (*miśrā*)—both of us together
+- कृणवावहै (*kṛṇavāvahai*)—let us converse
+- *nau ete maṃtrāḥ*—these feelings hidden within our hearts
+- अनुदितासः (*anuditāsaḥ*)—if not spoken openly
+- परतरे चन् अहन् (*paratare can ahan*)—even in the last days
+- मयः (*mayaḥ*)—happiness
+- न करन् (*na karan*)—do not produce
+
+##### भावार्थ (Bhāvārtha)
+
+Pururavas: O wife of hard heart, stay a little with a mind showing love for me. Let us now together exchange words in conversation. If the feelings hidden in our hearts are not spoken openly, they will not bring happiness even in the last days.
+
+##### English translation
+(Pururavas speaks :) Ho indignant wife, with mind (relenting) stay
+awhile, let us now interchange discourse. These, our secret thoughts, whilst
+unspoken, did not yield us happiness even at the last day.
+
+### Printed p. 22
+
+##### विशेषविषयगळु (Special Topics)
+
+Hayē—this word is used here in the sense of "हे (*he*)" (O), for addressing. Besides this Ṛk it is used in the following:
+हये देवा यूयमिदापयः स्थ ते मृळत नाधमानाय मह्यं (*haye devā yūyamidāpayaḥ stha te mṛḷata nādhamānāya mahyaṃ*)
+(Ṛ. Saṃ. 2-29-4)
+हये नरो मरुतो मृळता नस्तुवीमघासो अमृता ऋतज्ञाः (*haye naro maruto mṛḷatā nastuvīmaghāso amṛtā ṛtajñāḥ*)
+(Ṛ. Saṃ. 5-57-8)
+It is used in eight Ṛks; nowhere else. **NOTE**
+
+Ghore—Pururavas addresses Urvaśī as "ghore" to indicate that her mind, toward him, has shown pity yet is very cruel in nature.
+Vacāṃsi miśrā kṛṇavāvahai nu—"Now let us mix our words" means: speaking to one another, let us exchange the thoughts in our minds. The meaning: I shall say what is in my mind; you say what is in yours.
+Manasā tiṣṭha—O woman, stay for a while, with affection for me, in order to speak lovingly.
+Na nau mantrā anuditāsaḥ—the secret matters we ought to have spoken have remained unspoken. Since we had not seen each other for a long time, secret conversation was not possible; so what ought to be said to each other has not been said.
+Ete mayaskran paratare canāhan—though this secret conversation would be pleasing to us, since there was no opportunity to carry it on to the end (up to now), it has not been pleasant for us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमे॒ता वा॒चा कृ॑णवा॒ तवा॒हं प्राक्र॑मिषमु॒षसा॑मग्रि॒येव॑ ।  
+> पुरू॑रवः॒ पुन॒रस्तं॒ परे॑हि दुराप॒ना वात॑ इवा॒हम॑स्मि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । एता । वाचा । कृणव । तव । अहं । प्र । अक्रमिषं । उषसां । अग्रियाइव ।  
+> पुरूरवः । पुनः । अस्तं । परा । इहि । दुःआपना । वातःइव । अहं । अस्मि ॥ २ ॥
+
+### Printed p. 23
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया तमुर्वशी प्रत्युवाच । एतैतया वाचा केवलया पुनःसंभोगरहितया किं कृणव । किं करवाव । अहं त्विदानीं त्वत्सकाशात्प्राक्रमिषं । अतिक्रांतवत्यस्मि ।
+> अतिक्रमे दृष्टांतः । उषसामग्रियेव । बह्नामुषसां मध्येऽग्राग्रे भवा
+> पूर्वोषाः प्राक्रमाद्यथाहमपीति । यस्मादेवं तस्माद्दे पुरूरवः त्वं पुनरस्मत्सकाशादस्तं गृहं परेहि । परागच्छ । मा ममाभिलाषं कार्षिः । तस्या दुर्ग्रहत्वमाह । अहं वात इव वायुरिव दुरापना दुष्प्रापा दुरापा नास्मि । दुरापा ना अहं
+> त्वय्यैतर्ह्यस्मि पुनर्गृहानिहीति हैनैनं तदुवाचेति वाजसनेयकं । शत. ११-५-१-७ ॥
+
+##### Gist of the bhāṣya
+
+Urvaśī replied to him with this Ṛk. With this speech alone, devoid of renewed union, what shall we do? I have now moved away from you, gone beyond, like the foremost of the many dawns, who goes ahead at the front of them; so have I. Therefore, O Pururavas, go back from me to your home; do not have desire for me. He states her unattainability: I am like the wind, hard to attain (durāpanā). He cites the Vājasaneyaka: दुरापा ना अहं त्वय्यैतर्ह्यस्मि पुनर्गृहानिहीति हैनैनं तदुवाचेति (*durāpā nā ahaṃ tvayyaitarhyasmi punargṛhānihīti hainainaṃ taduvāceti*) (Śa. 11-5-1-7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एता वाचा (*etā vācā*)—by this our conversation
+- किं कृणव (*kiṃ kṛṇava*)—what can we accomplish?
+- उषसां अग्रिया इव (*uṣasāṃ agriyā iva*)—as the first-born dawn slips away so that no one can seize her
+- अहं (*ahaṃ*)—I
+- तव (*tava*)—from you
+- प्राक्रमिषं (*prākramiṣaṃ*)—have moved far away, come so as not to fall in your grasp
+- पुरूरवः (*purūravaḥ*)—O Pururavas
+- पुनः (*punaḥ*)—again (without following me)
+- अस्तं (*astaṃ*)—to the home
+- परेहि (*parehi*)—go back
+- अहं (*ahaṃ*)—I
+- वातइव (*vātaiva*)—like the wind
+- दुरापना (*durāpanā*)—not to be caught in your grasp
+- अस्मि (*asmi*)—am
+
+##### भावार्थ (Bhāvārtha)
+
+Urvaśī: O Pururavas, what can we accomplish by this conversation? As the first-born dawn slips away so that none can hold her, I too have moved far from you, come so as not to fall in your grasp. O Pururavas, do not follow me again; go back home. Like the wind I have escaped, not caught in your grasp.
+
+##### English translation
+(Urvashi :) What can we accomplish through such discourse ? I have passed away from you like the first of the dawns. Return, pururavns, to your dwelling. I am as hard to catch as the wind.
+
+##### विशेषविषयगळु (Special Topics)
+
+This is Urvaśī's speech: O Pururavas, since we cannot again unite with each other, what use is the mutual conversation you propose? Will a dawn that has passed come again on that same day? Never possible. Just as it is not possible to catch the blowing wind,
+
+### Printed p. 24
+so I am not one you can get. Therefore give up your longing for me and go back to your house: this is the main meaning.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इषु॒र्न क्रि॒य इ॑षु॒धेर॑स॒ना गो॒षाः श॑त॒सा न रंहिः॑ ।  
+> अ॒वीरे॒ क्रत्वा॒ वि द॑विद्युत॒न्नोरा॒ न मा॒युं चि॑तयंत॒ धुन॑यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषुः । न । श्रिये । इषुधेः । असना । गोऽसाः । शतसाः । न । रंहिः ।  
+> अवीरे । क्रत् । वि । दविद्युतत् । न । उरा । न । मायुं । चितयंत । धुनयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया पुरूरवाः स्वस्य विरहजनितं वैक्लव्यं तां प्रति ब्रूते । इषुधेः ।
+> इषवो धीयंतेऽत्रेतीषुधिर्निषंगः । ततः सकाशादिषुरसनासनाय्कॆ प्रक्षेपुं न
+> भवति श्रिये विजयार्थं । त्वद्विरहाद्युद्धस्य बुद्धावप्यनिधानात् । तथा रंहिर्वेगवानहं शत्रुसकाशाद्गोषास्त्रेषां शत्क्रोणां गवां संभक्ता नाभवं । तथा शतसाः
+> शतानामपरिमितानां शत्रुधनानां संभक्ता नाभवं । किंचावीरे वीरवर्जिते क्रता
+> राजकर्मणि सति न वि दविद्युतत् । न विद्योतते । न मत्सामर्थ्यं । किंच धुनयः
+> कंपयितारोऽस्मदीया नरा उरोर् ॥ सुपां सुलुगिति सप्तम्या डादेशः ॥
+> विस्तीर्णे संग्रामे मायुं । मायते प्रक्षिप्यत इति मायुः शब्दः ॥ कृवापाजीत्यादिनोण् ॥ सिंहनादं न चितयंत । न बुध्यंते ॥ चिती संज्ञानेत् । अस्माण्णिचि
+> संज्ञापूर्वकस्य विधेरनित्यत्वाल्लघूपधगुणाभावः । छांदसो लज् ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk Pururavas tells her of his own distress born of separation. Iṣudhi is the quiver, where arrows are placed. From it, the arrow cannot be shot for victory (śriye), since because of separation from her his mind does not attend even to battle. Likewise, I, swift (raṃhi), have not become a sharer of hundreds of cows from the enemy, nor of the countless hundreds of enemy riches (śatasāḥ). Moreover, when the royal work is without a hero, my capacity does not shine forth. Further, my men, the shakers (dhunayaḥ), in the wide battle do not notice the lion-roar (māyu, that which is hurled forth); they do not perceive it. The remaining remarks concern grammar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इषुधेः (*iṣudheḥ*)—from the quiver
+- इषुः (*iṣuḥ*)—the arrow
+- श्रिये (*śriye*)—to gain victory
+- असना (*asanā*)—to shoot
+- न (*na*)—it is not possible
+- गोपाः (*gopāḥ*)—to gain the enemy's cows **NOTE**
+- रंहिः न (*raṃhiḥ na*)—I cannot rush forward swiftly
+- शतसाः (*śatasāḥ*)—their many riches cannot be gained
+- अवीरे (*avīre*)—powerless
+- क्रत्ौ (*kratau*)—in my works
+- न वि दविद्युतत् (*na vi davidyutat*)—my capacity
+
 ---
 
-**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
+**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
