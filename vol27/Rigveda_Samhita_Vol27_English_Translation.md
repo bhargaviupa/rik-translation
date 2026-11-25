@@ -18083,6 +18083,155 @@ Agni Jatavedas, who are glorified (by us), having made our oblations fragrant, y
 
 In the Mahāpitṛyajña, in the homa of the vaṣaṭkāra act, this Ṛk त्वमग्न ईळितः (*tvamagna īḷitaḥ*) is to be recited as the yājyā mantra of the Sviṣṭakṛt homa. This is set out by the sūtra of the Āśvalāyana Śrautasūtra: योऽग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेद इति संयाज्ये (*yo 'gniḥ kavyavāhanastvamagna īḷito jātaveda iti saṃyājye*) (Ā. 2-19).
 
+### Printed p. 507
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये चे॒ह पि॒तरो॒ ये च॒ नेह यांश्च॑ वि॒द्म या उ॑ च॒ न  ॒॑
+> प्र॑वि॒द्म ।  
+> त्वं वे॑त्थ॒ यति॒ ते जा॑तवेदः स्व॒धाभि॑र्य॒ज्ञं सुकृ॑तं जुषस्व ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । च । इह । पितरः । ये । च । न । इह । यान् । च । विद्म । यान् । ऊं इति ।  
+> च । न । प्रविद्म ।  
+> त्वं । वेत्थ । यति । ते । जात्यवेदः । स्वधाभिः । यज्ञं । सुकृतं । जुषस्व । १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे ये चेहेति द्वितीयानुवाक्या । सूत्रमुक्तं ॥
+> ये च पितर इहास्मत्समीपे वर्तंते ये चेह न संति । याश्च पित्थन्विद्म
+> संनिकृष्टत्वाज्ञानीमः या उ च नापि च न प्रविद्द विप्रकृष्टत्वाद्वयं न विजानीमः ।
+> यति ते यावंतस्ते भवंति तान्सर्वान्यथोक्तान् हे जातवेद उत्पन्नसर्ववस्तु।-
+> विषयज्ञानाग्ने त्वं वेत्थ । जानासि । स्वधाभिर्हविर्लक्षणैरन्नॆः सुकृतं साधु कृतं
+> यज्ञं जुषस्व । प्रीत्या गृहाण ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, the Ṛk beginning ये चेह (*ye ceha*) is the second anuvākyā; the sūtra has been stated. The Pitṛs who are here near us, and those who are not here; those whom we know because they are close, and those whom we do not know well, because they are remote — Agni, *Jātavedas* (one who has knowledge of every object that has arisen), you know how many of them there are, all of them as described. Accept lovingly the well-made sacrifice with the svadhās, that is, with food in the form of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, in the form of Jātavedas
+- ये च पितरः (*ye ca pitaraḥ*)—those Pitṛs who
+- इह (*iha*)—are near us
+- ये च (*ye ca*)—and those who
+- इह (*iha*)—near us
+- न (*na*)—are not
+- यांश्च (*yāṃśca*)—and those Pitṛs whom
+- विद्म (*vidma*)—we know
+- या उ च (*yā u ca*)—and whom
+- न प्रविद्म (*na pravidma*)—we do not know well, those also
+- यति ते (*yati te*)—their full number also
+- त्वं (*tvaṃ*)—you
+- वेत्थ (*vettha*)—know
+- स्वधाभिः (*svadhābhiḥ*)—with oblations in the form of svadhā
+- सुकृतं (*sukṛtaṃ*)—well-prepared
+- यज्ञं (*yajñaṃ*)—sacrifice
+- जुषस्व (*juṣasva*)—partake of
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the form of Jātavedas, you know those Pitṛs who are near us, those who are not near us, those Pitṛs whom we know, those whom we do not know well, and their full number. Partake of the well-prepared sacrifice with oblations in the form of svadhā.
+
+### Printed p. 508
+
+##### English translation
+You know, Jatavedas, those Pitris, how many they may be, who are not in this world, those who are not in this world, those whom we know, and those whom we do not fully know : enjoy this pious sacrifice offered together with Swadhas.
+
+##### विशेषविषयगळु (Special Topics)
+
+That in the Mahāpitṛyajña this Ṛk beginning ये चेह (*ye ceha*) is to be recited as the second anuvākyā mantra, as stated in the Āśvalāyana Śrauta Sūtra, has already been explained earlier.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये अ॑ग्निद॒ग्धा ये अन॑ग्निदग्धा॒ मध्ये॑ दि॒वः स्व॒धया॑ मा॒द-  ॑
+> ।  
+> यंते ।  
+> तेभिः॑ स्व॒राळसु॑नीतिमे॒तां य॑थाव॒शं त॒न्नं॑ कल्पयस्व ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अग्निदग्धाः । ये । अनग्निदग्धाः । मध्ये । दिवः । स्वधया । मादयंते ।  
+> तेभिः । स्वराट् । असुनीतिं । एतां । यथावशं । तन्वं । कल्पयस्व ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव यागे ये अग्निदग्धा इत्येषा याज्या । सूत्रितं च । ये
+> अग्निदग्धा ये अनग्निदग्धा इमं यम प्रस्तरमा हि सीदेति द्वे । आ-२-१९ । इति ॥
+> ये पितरोऽग्निदग्धा अग्निना भस्मीकृताः । स्मशानं प्राप्ता इत्यर्थः । ये च
+> पितरोऽनग्निदग्धाः स्मशानकर्म न प्राप्ता मध्ये दिवो द्युलोकस्य मध्ये स्वधया
+> हविर्लक्षणेनान्नेन मादयंते तृप्यंति हे अग्ने स्वराट् स्वकर्मोऽपभोगेन दीप्यमानस्तेभिस्तैः पितृभिः सहितः सन्नसुनीतिं प्राणानां विषयेषु नेतारमस्मत्पित्रंतरा-
+
+##### Gist of the bhāṣya
+
+In the same sacrifice as stated before, the Ṛk ये अग्निदग्धा (*ye agnidagdhā*) is the yājyā. It is also given in the sūtra: ये अग्निदग्धा ये अनग्निदग्धा इमं यम प्रस्तरमा हि सीदेति द्वे (*ye agnidagdhā ye anagnidagdhā imaṃ yama prastaramā hi sīdeti dve*) (Ā. 2-19). The Pitṛs who are "agnidagdha" are those burnt to ashes by fire, that is, who have reached the cremation ground; those who are "anagnidagdha" have not undergone the cremation rite. They are gratified in the middle of heaven (the middle of the world of heaven) with svadhā, food in the form of oblations. O Agni, "स्वराट् (*svarāṭ*)", shining by the enjoyment of your own works, being united with those Pitṛs, make fit and adapt, according to your wish, this body of the deity — which is *asunīti*, the leader of the vital breaths among the objects of sense, another self of our Pitṛs
+
+> त्मानमेतां तन्वमेतद्देवताशरीरं यथावशं यथाकामं कल्पयस्व समर्थयस्व ।
+> ग्रासयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+(continued) — that is, cause them to partake of the offering.
+
+### Printed p. 509
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) ये (*ye*)—those Pitṛs who
+- अग्निदग्धाः (*agnidagdhāḥ*)—have been burnt by fire
+- ये (*ye*)—and those who
+- अनग्नि दग्धाः (*anagni dagdhāḥ*)—have not been burnt by fire
+- मध्यॆ दिवः (*madhyè divaḥ*)—are in the middle of the world of heaven
+- स्वधया (*svadhayā*)—may all of them, with the oblation in the form of svadhā
+- मादयंते (*mādayaṃte*)—attain satisfaction
+- तेभिः (*tebhiḥ*)—united with them
+- स्वराट् (*svarāṭ*)—you who are self-luminous
+- असुनीतिं (*asunītiṃ*)—in the form of the Pitṛs' vital breath (containing it)
+- एतां तन्वं (*etāṃ tanvaṃ*)—this body of the deity
+- यथावशं (*yathāvaśaṃ*)—according to your will
+- कल्पयस्व (*kalpayasva*)—fashion
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may those Pitṛs who have been burnt by fire, and those who have not been burnt by fire, who are in the middle of the world of heaven, all attain satisfaction with the oblation in the form of svadhā. United with them, you, the self-luminous, fashion according to your will this body of the deity, which contains the vital breath of the Pitṛs.
+
+##### English translation
+May those who are Agnidagdhas, and those who are not, be satisfied with Swadha in the midst of heaven; and you, supreme Lord, associated with them, construct at your pleasure that body that is endowed with breath.
+
+##### विशेषविषयगळु (Special Topics)
+
+That in the sacrifice called Mahāpitṛyajña, mentioned before, this Ṛk ये अग्निदग्धाः (*ye agnidagdhāḥ*) is to be recited as the yājyā mantra is set out in the Āśvalāyana Śrauta Sūtra by the sūtra ये अग्निदग्धा ये अनग्निदग्धा इमं यम प्रस्तरमा हि सीदेति द्वे (*ye agnidagdhā ye anagnidagdhā imaṃ yama prastaramā hi sīdeti dve*) (A. 2-19).**NOTE**
+Agnidagdhāḥ, anagnidagdhāḥ: Those whose dead bodies, when their rites are performed after death, are burnt in fire and consecrated with the prescribed mantras are called "agnidagdha Pitṛs", Pitṛs burnt by fire. Those who have died without anyone to perform the fire-rite, or by drowning in water and similar causes, or by other kinds of untimely death, so that the fire-rite could not be performed, and who have gone to the world of the Pitṛs by their own good deeds alone, and are there, are called "anagnidagdha Pitṛs", Pitṛs not burnt by fire.
+
+### Printed p. 510
+## Sūkta 16 (Maṇḍala 10)
+**Introduction**
+In this sūkta and in the next are mantras relating to the Pitṛ deities and used in the actions performed in the later (funerary) rite. We have explained the subject of the Pitṛ deities at length in the earlier sūktas. Even so, it is necessary to describe briefly the nature of heaven and hell as found in the Ṛgveda and the other Vedas.
+
+Heaven: The abode where the Pitṛs and Yama dwell is in the middle of the sky, the seat of imperishable radiance (10-15-14); in the highest heaven (12-14-8); in the third heaven; in the deepest regions of the sky (9-113-7 to 9). Likewise in the Atharvaveda: a world extremely high (A. Ve. 11-4-11)**NOTE** and full of masses of radiance (4.34-2); the end of the sky (A. Ve. 18-2.47); the third आकार (*ākāra*)**NOTE** and the third heaven (A. Ve. 18-2-48) — these are said to be the places of the Pitṛ-worlds and of Yama. In the Maitrāyaṇī Saṃhitā (Mai. Saṃ. 1-10-18; 2.3.9) the world of the Pitṛs is the third world. The world of the Pitṛs is the highest region of the sun's orb (9.113-9). The Pitṛs have gone together with Sūra (the sun), or protect Sūra (10-107-2; 10-154-5), or have joined the sun's rays (1-109.7; compare Śa. Brā. 1-9-3-10), and Sūra shines for them alone (5-125-6). They are connected with the foot of Viṣṇu (10-15-3), and the righteous rejoice in that dear abode, in the third step of Viṣṇu (1-154.5). As Viṣṇu took three strides to the region where the gods rejoice, so Sūra, following Uṣas, goes to the place where good men offer oblations.
+
+The radiances of the good men going to the world of heaven are the stars (Tai. Saṃ. 5-4-1-3; Śa. Brā. 6-5-4-8), and the seven ancient ṛṣis were raised to the circle of the stars (Tai. Ā. 1-11-1-2).
+
+In the Ṛgveda a tree is mentioned, near which Yama sits with the gods and drinks (10-135-1); in the Atharvaveda (A. Ve. 5.4.3) it is said to be a fig tree.
+
+Mention of life in the next world is found especially and abundantly in the ninth and tenth maṇḍalas, and in general in the first. For those who practise hard austerity, heaven is the fruit of their austerity, and the same fruit is for those who die in battle (10-154-2 to 5). But above all these, heaven is the fruit for those who offer oblations generously (10-154-3; 1-125.5; 10-107-2). The fruits obtained by such performers of sacrifices are described very fully in the Atharvaveda.
+
+### Printed p. 511
+The dead enjoy in heaven a very delightful life (10-14-8; 10-15-14; 10-16-2, 5); here all desires are fulfilled (9-113.9, 11); the life is among the gods (10-14-14), and in particular in the presence of Yama and Varuṇa (10-14-7). There is no old age (10-27-21). Possessing beautiful bodies, they become dear and beloved to the gods (10-14-8; 10-16-5; 10-56-1). There they see father, mother, children and others (A. Ve. 6-120-3), and are reunited with wife, sons and others (A. Ve. 12-3-17). In that life there is not the least fault or defect, nor any bodily suffering (10-14-8; A. Ve. 6-120.3). Diseases all remain on earth; there are no defects such as crooked or lame hands and feet (A. Ve. 3-28-5); it is said in the Atharvaveda and the Śatapatha Brāhmaṇa that in that world they have complete bodies.
+
+The dead are happy and rejoice in heaven (मदंति (*madaṃti*), मादयंते (*mādayaṃte*), 10-14-10, 12-15-14, etc.). The bliss of life in heaven is given very fully in 9-113-7 to 11. There the light is constant, water flows swiftly, and the stream is not obstructed (compare Tai. Brā. 3-12-2.9). There is food in the form of svadhā (the food offered to the Pitṛs) and satisfaction; there are joy, delight, fulfilment of desires and all such things. What is said vaguely as delight and joy is explained further on as sensual pleasure (compare Tai. Brā. 2-4-6-6; Śa. Brā. 2-4-4-4; Śa. Brā. 10.4.4.4). In the Atharvaveda it is said that sensual pleasure is obtained as much as one wishes (A. Ve. 4-34-2). A hundredfold more pleasure than the greatest pleasure enjoyed on earth is enjoyed there (Śa. Brā. 14-7-1-32, 33). In that world of the meritorious, the sound of the flute and song are heard (10-135-7); for them Soma juice, ghee and honey flow (A. Ve. 4-34-5-6; Śa. Brā. 11-5-6-4). Clear cows of various colours, granting desires, are always ready (कामदुघाः (*kāmadughāḥ*), A. Ve. 4-34-8). There is no distinction between poor and rich, great and small (A. Ve. 3-29-3). This heavenly bliss described in the Saṃhitās and Brāhmaṇas is said in the Upaniṣads to be impermanent and not the best, and that only to those who know the principle of immortality come oneness with Brahman and the eternal bliss of knowledge of That. Therefore the idea is that those who have done good deeds spend time after death in the world of heaven, absorbed in pleasure, like idlers.
+
+### Printed p. 512
+Heaven is more splendid than this world and full of sensual pleasure. It is the world of the doers of good deeds (10-16-4); here those who know ritual action pass the time in joy. They enjoy the fruit of the oblations they made and the gifts they gave; and the more they gave to the Ṛtvijs and others, the more their happiness increases (10.154-3). Those who performed sacrificial rites in the prescribed manner attain oneness not only with the worlds of Āditya and Agni, but with the worlds of Vāyu, Indra, Varuṇa, Bṛhaspati, Prajāpati and Brahmā (Śa. Brā. 2-6-4-8, 11-4-4-21, 11-6-2-3, 3, Tai. Brā. 3-10-11-6). It is said (Tai. Brā. 3-10-9-11) that a ṛṣi, by the power of his knowledge, took the form of a golden swan, went to the world of heaven, and attained oneness with Sūra. In the Taittirīya Saṃhitā there is the view that, if certain rites are performed, a man can obtain heaven with this very physical body (Tai. Brā. 6-6-9-2).**NOTE**
+Those who have studied the Veda in the prescribed manner can become free of the fear of birth and death and attain equality with Brahman (Śa. Brā. 10-5-6-9). As a result of knowing some secret matter, a man is born again (Śa. Brā. 1-5-3-14). In these one can see the beginnings of the doctrines of the fruit of sin and of the attainment of another body. In the Upaniṣads such as the Chāndogya, Bṛhadāraṇyaka and Kaṭha, and in the sūtras, these are fully set forth. In the Kaṭha Upaniṣad is the story of Naciketas, whose main part is the dialogue of Naciketas and Yama. Yama taught Naciketas that those not qualified for heaven and liberation become again subject to death, caught in the wheel of saṃsāra, and are born on earth as embodied beings or as inert matter; that he who has the power of self-control can reach the world of Viṣṇu; and that for those unable to attain liberation there is hell.
+
+Hell
+Since the good attain the fruit of heaven and so on in the next world, there must be a separate place for the most sinful, even if punishments are not prescribed for them. In the Atharvaveda and the Kaṭha Upaniṣad it is clearly said that such persons experience in hell the fruit of their sinful deeds. As the counterpart to the world of heaven (A. Ve. 12-4-36) there is the world of hell (the nether world) where female piśācas and the like dwell (A. Ve. 2-14-3; 5-19-3); in this very world the murderer suffers punishment (Vā. Saṃ. 30-5). This world is described as darkness (तमस्सु (*tamassu*)) in the lowest region (A. Ve. 8-8-24; etc.), darkness enveloped in gloom (A. Ve. 5-30-11), blind darkness (अंधंतमस्सु (*aṃdhaṃtamassu*), A. Ve. 18-3-3), and so on. The sufferings of hell are described in A. Ve. 5-19 and still more fully in Śa. Brā. 11.6-1. The same Brāhmaṇa says: after the death of everyone he is born again;
+
 ---
 
-**Progress note:** Done through printed p. 506. pp. 501-506 (batch API)
+**Progress note:** Done through printed p. 512. pp. 507-512 (batch API)
