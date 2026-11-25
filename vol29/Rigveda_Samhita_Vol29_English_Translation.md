@@ -940,6 +940,81 @@ In these Ṛks it is said that when Agni is born he is called Varuṇa, when he 
 it is said that Mitra is the lord of the day and Varuṇa the lord of the night. Therefore it should be noted that these three deities are said in some places to be part-deities of the Sun and in some places different names of Agni.
 In the Purāṇas and elsewhere Mitra is one of the twelve Ādityas. Although in the Ṛgveda Mitra is another name of the Sun, Mitra has a distinct individuality, that is, a personal importance. In the Ṛgveda Mitra, Varuṇa and Aryamā are said to be sons of Aditi. Therefore in many places they are called Ādityas. These Ādityas, that is, the sons of Aditi, being six in number—
 
+### Printed p. 46
+
+इमा गिर आदित्येभ्यो धृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि । शृणोतु मित्रो अर्यमा भगो नस्तु विजातो वरुणो दक्षो अंशः ॥ (*imā gira ādityebhyo dhṛtasnūḥ sanādrājabhyo juhvā juhomi | śṛṇotu mitro aryamā bhago nastu vijāto varuṇo dakṣo aṃśaḥ ‖*) (Ṛ. Saṃ. 2-27-1)
+that is, only the names of six persons are given: Mitra, Aryamā, Bhaga, Varuṇa, Dakṣa, Aṃśa.
+देवा आदित्या ये सप्त तेभिः सोमाभि रक्ष न इंद्रायेंदो परि स्रव । (*devā ādityā ye sapta tebhiḥ somābhi rakṣa na iṃdrāyeṃdo pari srava |*) (Ṛ. Saṃ. 9-114-3)
+In this verse the sons of Aditi are said to be seven persons—
+अष्टौ पुत्रासो आदितेर्ये जातास्तन्व १ स्परि । देवा उपप्रैत्सप्तभिः परा मार्तांडमास्यत् । सप्तभिः पुत्रैरदितिरुप प्रैत्तूव्यं युगं । प्रजायै मृत्यवे त्वत्पुनमार्तांडमाभरत् ॥ (*aṣṭau putrāso āditerye jātāstanva 1 spari | devā upapraitsaptabhiḥ parā mārtāṃḍamāsyat | saptabhiḥ putrairaditirupa praittūvyaṃ yugaṃ | prajāyai mṛtyave tvatpunamārtāṃḍamābharat ‖*) (Ṛ. Saṃ. 10-72.8, 9)
+In these Ṛks it is said that Aditi had first seven sons and afterwards Mārtāṇḍa, eight sons in all. Besides, in the Taittirīya Āraṇyaka—
+अष्टौ पुत्रासो अदितेः । ये जातास्तन्वः परि । देवा उपप्रैत्सप्तभिः । परामार्तांडमास्यत् । सप्तभिः पुत्रैरदितिः । उपप्रैत्तूर्व्यं युगं । प्रजायैमृत्यवे तत् । परामार्तांडमाभरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अगंशश्च भगश्च । इंद्रश्च विवस्वाग्श्चेत्येते॥ (*aṣṭau putrāso aditeḥ | ye jātāstanvaḥ pari | devā upapraitsaptabhiḥ | parāmārtāṃḍamāsyat | saptabhiḥ putrairaditiḥ | upapraittūrvyaṃ yugaṃ | prajāyaimṛtyave tat | parāmārtāṃḍamābharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agaṃśaśca bhagaśca | iṃdraśca vivasvāgścetyete‖*) (Tai. Ā. 1-13-3)
+the names of the eight sons that Aditi had are also given. It is said that Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Indra and Vivasvān are those eight persons. The same matter in the Taittirīya Brāhmaṇa—
+अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्यै धाता चार्यमा चाजायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्या अगंंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोधत्त । तस्या इंद्रश्च विवस्वाग्ंश्चाजायेतां ॥ (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyai dhātā cāryamā cājāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyā agaṃṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā retodhatta | tasyā iṃdraśca vivasvāgṃścājāyetāṃ ‖*) (Tai. Brā. 1-1-9.1, 2. 3)
+
+### Printed p. 47
+
+is stated. That Aditi obtained eight sons is clearly described here. Of these eight, only the three, Mitra, Varuṇa and Aryamā, are especially famous in the Ṛgveda. In the 2-7th sūkta of the Ṛ. Saṃ. there is an extensive description of the deeds of valour of Mitra, Varuṇa and Aryamā, beneficial to the world. **NOTE**
+Mitra:—The derivation of the word Mitra has been given by Yāska in his Nirukta as follows—
+मित्रः प्रमीतेस्त्रायते । संमिन्वानो द्रवतीति वा । मेदयतीर्वा । (*mitraḥ pramītestrāyate | saṃminvāno dravatīti vā | medayatīrvā |*) (Ni. 10-21)
+If it is asked what the meaning of the word Mitra is—
+मित्रः कस्मात् । स हि प्रमितेः त्रायते । प्रमितिः मरणं । ततः सर्वलोकं त्रायते वर्षद्वारेण । (*mitraḥ kasmāt | sa hi pramiteḥ trāyate | pramitiḥ maraṇaṃ | tataḥ sarvalokaṃ trāyate varṣadvāreṇa |*)
+Pramiti means death. Because he brings about creation for the people in the world, and thereby provides food and other nourishment, and protects them by averting the fear of death that may arise from hunger, this deity is called Mitra.
+समंततो मिन्वानः उदकेन द्रवति अंतरिक्षलोके (*samaṃtato minvānaḥ udakena dravati aṃtarikṣaloke*) This deity, being the lord of water and staying in the atmosphere, makes, by means of the clouds, all around, that is, all regions, become drenched, that is, wet with water; therefore this deity is called Mitra.
+Or:—स्नेहनार्थस्य सर्वं ह्यसावुदकेन स्नेहयति (*snehanārthasya sarvaṃ hyasāvudakena snehayati*) This deity makes everything cling by water, that is, unite and join together; therefore this deity is called Mitra. Having stated these three kinds of derivation, in order to support it he has given as an example the Ṛk—
+मित्रो जनान् यातयति ब्रुवाणो मित्रो दाधार पृथवीमुत द्यां । मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं धृतवज्जु होत ॥ (*mitro janān yātayati bruvāṇo mitro dādhāra pṛthavīmuta dyāṃ | mitraḥ kṛṣṭīranimiṣābhi caṣṭe mitrāya havyaṃ dhṛtavajju hota ‖*) (Ṛ. Saṃ. 3-59-1)
+In this Ṛk the extraordinary qualities of Mitra and his benefit to the world are described very well: helping in agriculture and the like, pouring down rain and the like and providing the people with food and other nourishment, he sustains, that is, nourishes, the people of the earth and the dwellers in heaven. O men, offer oblations and the like mixed with ghee to such a divine Mitra. The only sūkta in the Ṛgveda in praise of Mitra is this sūkta of 9 Ṛks (Ṛ. Saṃ. 3-59); elsewhere Mitra is praised together with other deities such as Varuṇa. Because the association of Mitra and Varuṇa is very frequent, as said before there is only one sūkta in the Ṛgveda in which Mitra alone is the deity (Ṛ. Saṃ. 3-59). There too, of that deity the
+
+### Printed p. 48
+
+praise portion is obscure. But only in the first Ṛk is the distinctive character of Mitra well stated. In the fifth Ṛk of the same sūkta—
+महा आदित्यो नमसोपसद्यो यातयज्जनो गृणते सुशेवः । (*mahā ādityo namasopasadyo yātayajjano gṛṇate suśevaḥ |*) (Ṛ. Saṃ. 3-59-5)
+this Mitra is called a venerable Āditya who gathers all men together. The word यातयज्जन (*yātayajjana*), which gives this meaning, is used with reference to Mitra and Varuṇa in the Ṛks—
+व्रतेन स्थो ध्रुवक्षेमा धर्मणा यातयज्जना (*vratena stho dhruvakṣemā dharmaṇā yātayajjanā*) (Ṛ. Saṃ. 5-77-2) **GLOSS**
+and with reference to the three, Mitra, Varuṇa and Aryamā, in the Ṛk—
+मित्रस्तयोर्वरुणो यातयज्जनोऽर्यमा यातयज्जनः (*mitrastayorvaruṇo yātayajjano 'ryamā yātayajjanaḥ*) (Ṛ. Saṃ. 1-136-3) **GLOSS**
+According to the sūkta Ṛ. Saṃ. 3-59 mentioned above, Mitra is the support of heaven and earth. The five groups of men (पंचजनाः (*paṃcajanāḥ*)) are obedient to him, and he is the support of life for all the other deities; thus the qualities of Mitra are described. In Ṛ. Saṃ. 5-81-4 it is said that Savitṛ and Mitra are one; in the Vājasaneyi Saṃhitā (Vā. Saṃ. 4-3) that Viṣṇu took three steps following the rules of Mitra; in Ṛ. Saṃ. 10-8-4 that Agni, established before the time of dawn, himself produces Mitra for himself; in Ṛ. Saṃ. 3-5-4 that the kindled Agni is Mitra; in Ṛ. Saṃ. 4 3-1 that when Agni is born he is Mitra, **NOTE**
+मित्रो अग्निर्भवति यत्समिद्दो मित्रो होता वरुणो जातवेदाः । मित्रो अध्वर्युरिषिरो दमूना मित्रः सिंधूनामुत पर्वतानां ॥ (*mitro agnirbhavati yatsamiddo mitro hotā varuṇo jātavedāḥ | mitro adhvaryuriṣiro damūnā mitraḥ siṃdhūnāmuta parvatānāṃ ‖*) (Ṛ. Saṃ. 3-5-4)
+In this verse there is a description of the qualities of Mitra: that the well-kindled Agni is Mitra, that this Mitra is in the sacrifice the Hotṛ, the Adhvaryu, Varuṇa and the Agni called Jātavedas, and that he is the friend (benefactor) of the rivers and the mountains.
+Varuṇa:—वरुणो वृणोतीति सतः (*varuṇo vṛṇotīti sataḥ*) (Ni. 10-2) Yāska's derivation is that because he is covered by a mass of clouds this deity is called Varuṇa.
+
+### Printed p. 49
+
+Varuṇa is a most exalted deity, equal to Indra in power and the like. The number of mantras addressed to Varuṇa is very small; there are twelve sūktas in the Ṛgveda addressed to Varuṇa. But the sūktas that praise Mitra and Varuṇa together are twenty-four.
+Varuṇa has a human body and human activities. But rather than his physical body and activities, the description of his moral activities and deeds is what is chiefly suggested. He has a face, eyes, arms, hands and feet; he drives a chariot, sits, eats, drinks and so on; there is a description of his bodily activities. That the Sun is the eye of Agni, Mitra and Varuṇa—
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ*) (Ṛ. Saṃ. 1-115-1)
+उदु त्यच्चक्षमहि मित्रयोरा एति प्रियं वरुणयोरदब्धं । (*udu tyaccakṣamahi mitrayorā eti priyaṃ varuṇayoradabdhaṃ |*) (Ṛ. Sa. 6-51-6) **NOTE**
+उद्वां चक्षुर्वरुण सुप्रतीकं देवयोरेति सूर्यस्ततन्वान् । (*udvāṃ cakṣurvaruṇa supratīkaṃ devayoreti sūryastatanvān |*) (Ṛ. Saṃ. 7-61 1) **NOTE**
+चक्षुर्मित्रस्य वरुणस्य देवश्चर्मेव यः समविव्यक् तमांसि । (*cakṣurmitrasya varuṇasya devaścarmeva yaḥ samavivyak tamāṃsi |*) (Ṛ. Saṃ. 7-63-1)
+नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तदृतं सपर्यत । (*namo mitrasya varuṇasya cakṣase maho devāya tadṛtaṃ saparyata |*) (Ṛ. Saṃ. 10-37-1)
+is stated clearly in these Ṛks. Since the statement that the Sun is as an eye to him stands in the very first Ṛk of the sūktas addressed to Mitra and Varuṇa, it appears that this is the point that first comes to mind whenever Mitra and Varuṇa are mentioned. And in the Ṛk Ṛ. Saṃ. 7.66-10 it is said that Aryamā, Mitra and Varuṇa have the Sun as their eye. That Varuṇa has far-reaching sight (उरुचक्षसं (*urucakṣasaṃ*)) is said in Ṛks such as Ṛ. Saṃ. 1-25-5; 1-25-16.
+आ नो बर्हि रिशादसो वरुणो मित्रो अर्यमा । सीदंतु मनुषो यथा ॥ (*ā no barhi riśādaso varuṇo mitro aryamā | sīdaṃtu manuṣo yathā ‖*) (Ṛ. Saṃ. 1-26-4)
+व्रतेन स्थो ध्रुवक्षेमा धर्मणा यातॆयॆज्जना । नि बर्हिषि सदतं सोमपीतये ॥ (*vratena stho dhruvakṣemā dharmaṇā yātèyèjjanā | ni barhiṣi sadataṃ somapītaye ‖*) (Ma. Saṃ. - 5-72-2) **NOTE**
+
+### Printed p. 50
+
+In Ṛks such as these, Mitra, Varuṇa and Aryamā are prayed to come and sit on the darbha grass spread on the sacrificial altar for the drinking of Soma.
+यदी सखाया सख्याय सोमैः सुतेभिः सुप्रयसा मादय्यैते । (*yadī sakhāyā sakhyāya somaiḥ sutebhiḥ suprayasā mādayyaite |*) (Ṛ. Saṃ. 4.41-3)
+In Ṛks such as these it is said that Varuṇa drinks Soma along with Indra and the other deities.
+भिभ्रद्दापिं हिरण्ययं वरुणो वस्त्र निर्णिजं । परि स्पशो नि षेदिरे । (*bhibhraddāpiṃ hiraṇyayaṃ varuṇo vastra nirṇijaṃ | pari spaśo ni ṣedire |*) (Ṛ. Saṃ. 1-25-13)
+In this Ṛk there is a description that Varuṇa wears a golden mantle or robe and a shining garment. The chariot of Varuṇa is golden, shining like the Sun, and it has whips that urge on the horses; Mitra and Varuṇa mount the chariot in a very high region of the sky (Ṛ. Saṃ. 5 63-1) and there are such descriptions. **NOTE** The dwelling of Mitra and Varuṇa is golden and it is in the upper world. And Varuṇa, seated in his palace—
+नि षसाद धृतव्रतो वरुणः पस्ता ३ स्वा । साम्राज्याय सुकृतुः । अतो विश्वान्यद्भुता चिकित्त्वा अभि पश्यति । कृतानि या च कर्त्वा ॥ (*ni ṣasāda dhṛtavrato varuṇaḥ pastā 3 svā | sāmrājyāya sukṛtuḥ | ato viśvānyadbhutā cikittvā abhi paśyati | kṛtāni yā ca kartvā ‖*) (Ṛ. Saṃ. 1-25-1) (Ṛ. Saṃ. 1-25-10, 11) **NOTE**
+sees everything that happens in the world. The dwelling-place of Mitra and Varuṇa is very large, very high, firm, resting on a thousand pillars. And their house has a thousand doors (Ṛ. Saṃ. 7-88-5). The all-seeing Sun, setting out from his own abode, goes to the house of Mitra and Varuṇa to report the doings of men, and enters their dear house. There are also such descriptions.
+Varuṇa, alone or together with Mitra, is called king in many places, like the other deities.
+अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः । (*abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ |*) (Ṛ. Saṃ. 1-24-7)
+त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः । (*tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*) (Ṛ. Saṃ. 2-27-10)
+तेन विश्वस्य भुवनस्य राजा यवं न वृष्टिर्व्युनत्ति भूम । (*tena viśvasya bhuvanasya rājā yavaṃ na vṛṣṭirvyunatti bhūma |*) (Ṛ. Saṃ. 5-85-3)
+
+### Printed p. 51
+
+In Ṛks such as these it is said that Varuṇa is king not only of men but also of the gods and of all the worlds. Besides Varuṇa, the deities Indra, Yama, Soma and others also have the honorific name of king.
+There are many stories connected with Indra. But in the case of Varuṇa it is quite the opposite: there is not a single story. Varuṇa is highly praised as the regulator of the physical and moral orders (वरुणस्य व्रतानि (*varuṇasya vratāni*)). The divine power of Mitra and Varuṇa is described by the word माया (*māyā*). When this is applied to the gods it means the hidden power they have to do good, and when it is applied to the demons the same word means the crooked power they have to do evil. In the good sense this word is fitting for Mitra and Varuṇa; in the bad sense it applies to demons. Like the meaning of the word असुर (*asura*), the word माया (*māyā*) too is used in both senses. By this māyā power hidden in himself, Varuṇa, standing in the atmosphere, measures the earth with the Sun as with a measuring rod. He makes the Sun cross the atmosphere and makes him dim with rain clouds. Then drops mixed with honey (sweet) fall (Ṛ. Saṃ. 5-63-4). He makes the sky rain. Therefore this word माया (*māyā*) is said chiefly of Varuṇa among the deities in all the Ṛks such as Ṛ. Saṃ. 6-48-14; 7-28-4; 10-99. 10; 10-147-5.
+It is Varuṇa who lays down the laws of nature. It is he who established earth and heaven. And in the Ṛk—
+आसीदद्विश्वा भुवनानि संराड्विश्वेत्तानि वरुणस्य व्रतानि (*āsīdadviśvā bhuvanāni saṃrāḍviśvettāni varuṇasya vratāni*) (Ṛ. Saṃ. 8-42-1)
+it is said that Varuṇa dwells in all the worlds and that his ordinances and the like are observed everywhere there; and in
+तिस्रो द्यावो निहिता अंतरस्मिन् तिस्रो भूमिरुपराः षड्विधानाः । (*tisro dyāvo nihitā aṃtarasmin tisro bhūmiruparāḥ ṣaḍvidhānāḥ |*) (Ṛ. Saṃ. 7-47-5)
+it is said that the three upper worlds and the three earthly worlds (lower worlds) are in his power. Varuṇa and Mitra rule the whole universe (Ṛ. Saṃ. 5-63-7). They are the protectors of the whole world (Ṛ. Saṃ. 2-27-4). Varuṇa is the support of heaven, earth and the sky (Ṛ. Saṃ. 5-69-1, 4). He has placed Agni in the water, the Sun in the sky, and Soma on the stone. He has made a broad path for the Sun. Varuṇa, Mitra and Arya
+
 ---
 
-**Progress note:** Done through printed p. 45. Dakṣa/Aditi in Viṣṇu Purāṇa; Ṛks 72.5-8; Special Topics on Ādityas begins
+**Progress note:** Done through printed p. 51. Ādityas, Mitra and Varuṇa (special topics)
