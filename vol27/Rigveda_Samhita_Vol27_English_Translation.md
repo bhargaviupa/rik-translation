@@ -12703,6 +12703,161 @@ Whatever sin (दुरितं (*duritaṃ*)) there is in me, the sacrificer, 
 - वा (*vā*)—or
 - यत् शेपे (*yat śepe*)—concerning whom I have spoken ill
 
+### Printed p. 332
+- *yat śepe*—(continued) evil words spoken in regard to whom
+- उत (*uta*)—and
+- अनृतं (*anṛtaṃ*)—untruth (spoken)
+- इदं (*idaṃ*)—such sin
+- आपः (*āpaḥ*)—the waters
+- प्रवहत (*pravahata*)—(separating it from me) let them sweep away in the form of a current.
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever sins I may have committed through ignorance, or if I have plotted harm against anyone, or have spoken evil words, or have spoken untruth, may the waters (flowing water) sweep all such sins away in the form of a current.
+
+##### English translation
+Waters, take away whatever sin has been (found) in me, whether I have (knowingly) done wrong, or have pronounced imprecations (against holy men), or have spoken untruth.
+
+##### विशेषविषयगळु (Special Topics)
+
+दुरितं—अज्ञानान्निष्पन्नं कायिकं पापं । (*duritaṃ—ajñānānniṣpannaṃ kāyikaṃ pāpaṃ |*) Duritam is sin of the body, done through ignorance or knowingly in the form of an act, that is, sins committed by the use of force such as striking someone.
+
+Abhidudroha: plotting evil in the mind is called droha. This is a mental sin.
+
+Śepe, anṛtam: abusing and speaking untruth and the like are sins committed through speech. This is verbal. The prayer is that flowing water may sweep away these three kinds of sin.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॑ अ॒द्यान्व॑ चारिषं॒ रसे॑न॒ सम॑गस्महि ॥  
+> पय॑स्वा नग्न॒ आ ग॑हि॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । अद्य । अनु । आचारिषं । रसेन । सं । अगस्महि ।  
+> पयस्वान् । अग्ने । आ । गहि । तं । मा । सं । सृज । वर्चसा ॥ ९ ॥
+
+### Printed p. 333
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्निनेवभृथार्थमापोऽन्वचारिषं । जलान्यनुप्रविष्टोऽस्मि । प्रविश्य च
+> रसेन जलसारेण समगस्महि । संगताः स्मः । हे अग्ने पयस्वान् जले वर्तमानत्वेन
+> पयोयुकस्त्वमा गहि । अस्मिन्कर्मण्यागच्छ । तं मा तादृशं स्नातं मां वर्चसा
+> तेजसा सं सृज । संयोजय ॥ अपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । आचारिषं । चर गत्यर्थः । ! लुजि च्छेः सिच् । आर्धधातुकस्येड्वलादेः । पा. ७-२-३५ ।
+> इतीट्! नेटि। पा. ७-२-४। इति वृद्धि प्रतिषेधेप्राप्ते तदपवादतॆयातो लांतस्य; पा।
+> ७.२-२ । इत्युपधाया वृद्धिः । अगस्महि । समो गम्यच्छेत्यात्मनेपदं । पा. १-३-२९ ।
+> च्छेः सिच् । मंत्रे घसेत्यादिना ज्लेर्लुगभावश्चांदसः । एकाच उपदेशेऽनुदात्तादितीट् प्रतिषेधः । ना गमः । पा. १-२-१३ । इति सिचः कित्त्वादनुदात्तोपदेशेत्यादिदानुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्वेन जुत्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । अतो हेरिति लुग्न भवति । असिद्धवदत्राभादिति
+> मलोपस्यासिद्धत्वात् ॥
+
+##### Gist of the bhāṣya
+
+Today, for the sake of this avabhṛtha bath, I have entered the waters (अन्वचारिषं (*anvacāriṣaṃ*): I have gone into the waters), and having entered I have united with their essence, the substance of the water (समगस्महि (*samagasmahi*): we have come together). "O Agni, पयस्वान् (*payasvān*)—you who, being in the water, are possessed of water—come to this rite. Join me, so bathed, with वर्चसा (*varcasā*), with brilliance; unite me." The remainder of the block is grammatical (the form अपः (*apaḥ*) as a case-substitution; आचारिषं (*ācāriṣaṃ*), अगस्महि (*agasmahi*), गहि (*gahi*)) and is left out here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आद्य (*ādya*)—now (today)
+- आपः (*āpaḥ*)—the waters
+- अन्वचारिषं (*anvacāriṣaṃ*)—I have entered (for the avabhṛtha bath); (then)
+- रसेन (*rasena*)—with the essence of the water
+- समगस्महि (*samagasmahi*)—we have united
+- (हे) अग्ने (*(he) agne*)—O Agni
+- पयस्वान् (*payasvān*)—possessed of water, that is, you who are in the water
+- आ गहि (*ā gahi*)—come (to this rite of bathing); (and)
+- तं मा (*taṃ mā*)—me (who have bathed)
+- वर्चसा (*varcasā*)—with brilliance
+- संस्कृज (*saṃskṛja*)—join
+
+##### भावार्थ (Bhāvārtha)
+
+I have now entered the water for the (avabhṛtha) bath. May all the essence that is in the water unite with us. O Agni, since you are in the water, come to this bathing rite and make me, who have bathed, radiant.
+
+##### English translation
+I have this day entered into the waters : we have mingled with their essence. Agni abiding in the waters approach, and fill me (thus bathed) with vigour.
+
+##### विशेषविषयगळु (Special Topics)
+
+आपः—द्वितीयार्थे प्रथमा (*āpaḥ—dvitīyārthe prathamā*)—so Skandasvāmin has said. That is, for the word आपः (*āpaḥ*), which stands in the (first-case) ending, the sense of अपः (*apaḥ*), the second case, is to be understood. **NOTE**
+
+### Printed p. 334
+रसेन—जलसारेण (*rasena—jalasāreṇa*), with the essence of water: the idea is that pure water should remove the faults (the dirt), inward and outward, of my body.
+
+पयस्वान् (*payasvān*)—पयसा जलेन युक्तः (*payasā jalena yuktaḥ*), or: one who stays in water, पयसि तिष्ठतीति पयस्वान् (*payasi tiṣṭhatīti payasvān*). In the Yajurveda, sentences such as सोऽपः प्राविशत् (*so 'paḥ prāviśat*) say that Agni hid himself in the water. Hence it is said in many contexts that Agni is in the water. The latter half of this Ṛk has Agni as its deity.
+
+The supplementary mantra to be recited at the end of this sūkta:
+सस्रुषीस्तदपसो दिवा नक्तं च सस्रुषीः । (*sasruṣīstadapaso divā naktaṃ ca sasruṣīḥ |*)
+वरेण्यक्रतूरहमा देवीरवसे हुवे ॥ (*vareṇyakratūrahamā devīravase huve ‖*)
+The chief sense of the mantra: I call, praying for my protection, the waters or the deities presiding over the waters, which flow without break by day and by night, which carry out their excellent duty, and which are endowed with intelligence.
+
+## Sūkta 10 (Maṇḍala 10)
+**Introduction**
+In this sūkta and in several of the following sūktas, matters concerning Yama and the Pitṛs are stated. This sūkta contains the conversation between Yama and his sister, called Yamī. Therefore the introduction to this sūkta explains only the matter of Yama and the conversation held with Yamī. The matter of the Pitṛs will be explained in the following sūktas. By Pitṛs are meant here the elders of the family, such as the father, now dwelling in the other world, the forefathers. The Ṛgveda says that those of the family's elders who have died have obtained an excellent place in the other world and live there, and that Yama is king of these Pitṛs. Therefore in the following sūktas the close relation between Yama and the Pitṛs is explained.
+
+### Printed p. 335
+**In praise of Yama**
+
+**1. The greatness of Yama**
+Since in the Ṛksaṃhitā there are many kinds of descriptions when Yama's nature is explained, it is laborious to decide that his nature is exactly so. Among Western scholars each has formed a different conception in this matter. There is also discussion whether Yama is a human person or a deity. To examine the matter from a purely modern point of view and give a fixed opinion on it would be wrong. It is proper to examine it from the scholarly point of view, in accordance with traditional contexts.
+
+If one examines the contexts in which Yama's nature is described in the Ṛksaṃhitā, only four sūktas are found that praise Yama alone. The praise of this deity is abundant, it seems, only in the first and tenth maṇḍalas. Some Western scholars hold that in no mantra is Yama stated definitely as a deity. But there are many contexts where Yama is praised along with other deities. For example:
+
+इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । (*iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān |*)
+एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥ (*ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*)
+(Ṛ. Saṃ. 1-164-46)
+
+The one Lord is called Indra, Mitra, Varuṇa and Agni. Moreover, he is Garutmān, the divine spirit, of excellent flight. The wise vipras call the one Lord, who is one Self, in many ways: Agni, Yama, Mātariśvan. This means that Yama too is a part of the original principle. It is clear that the same greatness that Varuṇa and the others have belongs to Yama as well. Moreover:
+
+यस्मिन्वृक्षे सुपलाशे देवैः संपिबते यमः । (*yasminvṛkṣe supalāśe devaiḥ saṃpibate yamaḥ |*)
+अत्रा नो विश्वतिः पिता पुराणा अनु वेनति ॥ (*atrā no viśvatiḥ pitā purāṇā anu venati ‖*)
+(Ṛ. Saṃ. 10-135-1)
+
+In the tree full of leaves where Yama drinks soma together with the other deities, there the householder, protector of the people and lord, invites us to join those who have gone before; so it is also described.
+
+### Printed p. 336
+Yama is praised abundantly along with such deities as Varuṇa (10-14-7), Bṛhaspati (10-17-14) and Agni (10-21-5). Moreover, in the mantra महत्तदुल्बं स्थविरं (*mahattadulbaṃ sthaviraṃ*) (10-51-1) it is told that Agni hid himself secretly in the water, and that then only one god saw this Agni. But who that deity is:
+
+ऐच्छाम त्वा बहुधा जातवेदः प्रविष्टमग्ने अप्सोषधीषु । (*aicchāma tvā bahudhā jātavedaḥ praviṣṭamagne apsoṣadhīṣu |*)
+तं त्वा यनो अचिकेच्चित्रभानो दशांतरुष्यादतिरोचमानं ॥ (*taṃ tvā yano acikeccitrabhāno daśāṃtaruṣyādatirocamānaṃ ‖*)
+(Ṛ. Saṃ. 10-51-2)
+
+O Agni, you who were hidden in the water of abundant essence, and in many forms hidden in plants and the like, we sought you in many ways. But you, whose rays spread a great light, Yama alone knew; so it is said. That in the sentence 10-51-1 the deity sought Agni, and that in this present mantra Yama himself found Agni, shows definitely that Yama is a deity. This deity is king of all the Pitṛs.
+
+प्रेहि प्रेहि पथिभिः पूर्व्यभिर्यत्रा नः पूर्वे पितरः परेयुः । (*prehi prehi pathibhiḥ pūrvyabhiryatrā naḥ pūrve pitaraḥ pareyuḥ |*)
+उभा राजाना स्वधया मदंता यमं पश्यासि वरुणं च देवं ॥ (*ubhā rājānā svadhayā madaṃtā yamaṃ paśyāsi varuṇaṃ ca devaṃ ‖*)
+(Ṛ. Saṃ. 10-14-7)
+
+O departed one, set out on that path by which our former Pitṛs went. There you will see Yama, king of all the Pitṛs, and the god Varuṇa. Many such sentences describe Yama as king of all the Pitṛs. In all the sentences that praise him, the close relation between him and the Pitṛs is shown. Among them, the relation between the Aṅgirases and Yama is very close. He is praised as the giver of refuge to all the dead (10-14-9).
+
+**2. The place of Yama**
+The sentence
+यत्र राजा नैवस्वतः यत्रावरोधनं दिवः ॥ (*yatra rājā naivasvataḥ yatrāvarodhanaṃ divaḥ ‖*)
+(Ṛ. Saṃ. 9-113-8)
+and others like it, which describe the farthest region of the heavenly world as Yama's dwelling, describe Yama's dwelling-place and his lordship. Moreover, lordship over the heavenly world belongs to the two, Yama and Āditya. Of these, the place of Āditya and the place of Yama are both fixed. How, then?
+
+### Printed p. 337
+तिस्रो द्यावः सवितुद्र्वा उपस्था एका यमस्य भुवने विराषाट् । (*tisro dyāvaḥ savitudrvā upasthā ekā yamasya bhuvane virāṣāṭ |*)
+आणिं न रथ्यममृताधि तस्थुरिह ब्रवीतु य उ तच्चिकेतत् ॥ (*āṇiṃ na rathyamamṛtādhi tasthuriha bravītu ya u tacciketat ‖*)
+(Ṛ. Saṃ. 1-35-6)
+
+The worlds denoted by "heaven" are three. Of them, the heavenly world and the earth are to be illumined by Āditya. The middle world, the atmosphere, belongs to Yama. The place of Yama is thus stated: living beings that die and take the form of the departed travel through this atmosphere, Yama's world. It is laborious to state a definite meaning regarding these heavenly and atmospheric worlds. For, according to the prevailing belief, the heavenly world is above the atmosphere and is better than it. If Yama's world is the atmosphere, it would not be better than the heavenly world. But in some places Yama's world is described as the very best. For example:
+
+संगच्छस्व पितृभिः सं यमेनेष्टापूर्तेन परमे व्योमन् ॥ (*saṃgacchasva pitṛbhiḥ saṃ yameneṣṭāpūrtena parame vyoman ‖*)
+(Ṛ. Saṃ. 10-14-8)
+
+In such sentences Yama's world is said to be the most excellent. Here the everlasting light shines (Ṛ. Saṃ. 9-113-9). But this place is also known to be the place of the Sun. How?
+
+यत्रानुकामं चरणं त्रिनाके त्रिदिवे दिवः । (*yatrānukāmaṃ caraṇaṃ trināke tridive divaḥ |*)
+लोका यत्र ज्योतिष्मतस्तत्र मामृमृतं कृधींद्रायेंदो परि स्रव ॥ (*lokā yatra jyotiṣmatastatra māmṛmṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+(Ṛ. Saṃ. 9-113-9)
+
+In this prayer this heavenly world is described as having everlasting radiance. It has been stated before that this heavenly world is the world of the Sun. Moreover, in many places it is praised that the best soul, which has performed the prescribed rites, as soon as it is separated from the body takes the form of a ray of the sun and obtains a lasting place in the world of the Sun.
+
+सहस्रणीथाः कवयो ये गोपायंति सूर्यं । (*sahasraṇīthāḥ kavayo ye gopāyaṃti sūryaṃ |*)
+(Ṛ. Saṃ. 10-154-5)
+
+This point is clear also where it says: "O Yama, favour those ascetic ṛṣis, the poets of a thousand eyes, who protect the Sun." There are yet many other contexts that clearly show the identity of the abode of Āditya and the abode of Yama. For example—
+
 ---
 
-**Progress note:** Done through printed p. 331. pp. 326-331 (batch API)
+**Progress note:** Done through printed p. 337. pp. 332-337 (batch API)
