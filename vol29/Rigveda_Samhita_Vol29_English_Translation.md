@@ -2351,6 +2351,194 @@ O river Sindhu, you flow in the steep region of lofty mountains and the like. Va
 > दि॒वि स्व॒नो य॑तते॒ भूम्यो॒पर्य॑नं॒तं शुष्म॒मुदि॑यर्ति  ॒॑
 > भा॒नुना॑ ।
 
+### Printed p. 104
+
+> अभ्रादिव प्र स्तनयंति वृष्टयः सिंधुर्यदेति वृषभो न
+> रोरुवत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवि। स्वनः। यतते । भूम्या । उपरि । अनंतं। शुष्मं । उत् । इयर्ति । भानुना ।  
+> अभ्रात्ऽइव । प्र । स्तनयंति । वृष्टयः । सिंधुः । यत् । एति । वृषभः । न । रोरुवत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भूम्योपरि भूमेरुपरि प्रवर्तमानः स्वनो दिवि यतते । गच्छति । दिवं
+> प्राप्नोति । सेयं सिंधुरनंतमपर्यंतं शुष्मं वेगं भानुना दीप्तेनोर्मिणोदियर्ति । उद्गमयति । अभ्रादिवांतरिक्षाद्यथा वृष्टयः प्र स्तनयंति तद्वदस्याः
+> शब्दाः प्रादुर्भवंति । यद्यदा सिंधुरियं रोरुवद्भृशं शब्दयन् वृषभो न
+> वृषभ इवैति गच्छति तद्वैवं भवति ॥
+
+##### Gist of the bhāṣya
+
+The sound (स्वनः (*svanaḥ*)) that arises over the earth goes to heaven (दिवि यतते (*divi yatate*), glossed गच्छति (*gacchati*) and दिवं प्राप्नोति (*divaṃ prāpnoti*)), that is, it reaches heaven. This Sindhu sends up (उदियर्ति (*udiyarti*), glossed उद्गमयति (*udgamayati*)) her endless, limitless force (शुष्मं (*śuṣmaṃ*), glossed वेगं (*vegaṃ*), "speed") by her shining wave (भानुना (*bhānunā*), "shining wave"). As rains thunder forth from the cloud, that is, from the atmosphere, so her sounds arise. When this Sindhu goes roaring loudly, making a great noise like a bull, then it is so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूम्याः (*bhūmyāḥ*)—of the earth
+- उपरि (*upari*)—in the upper part, manifested
+- स्वनः (*svanaḥ*)—the sound
+- दिवि (*divi*)—to the upper atmosphere
+- यतते (*yatate*)—spreads and goes (O Sindhu)
+- अनंतं (*anaṃtaṃ*)—endless
+- शुष्कं (*śuṣkaṃ*)—your speed
+- भानुना (*bhānunā*)—in the form of brilliance
+- उदियर्ति (*udiyarti*)—you impel and spread
+- यत् (*yat*)—when
+- सिंधुः (*siṃdhuḥ*)—the Sindhu
+- वृषभो न (*vṛṣabho na*)—like a bull
+- रोरुवत् (*roruvat*)—making a noise
+- एति (*eti*)—flows, then
+- अभ्रात् (*abhrāt*)—from the cloud that is in the atmosphere
+- वृष्टय इव (*vṛṣṭaya iva*)—as rains fall with a sound
+- प्र स्तनयंति (*pra stanayaṃti*)—the flood of the Sindhu flows with a sound
+
+##### भावार्थ (Bhāvārtha)
+
+The sound of the river, manifested on the upper part of the earth, spreads and goes to the upper atmosphere. O Sindhu, you impel and spread your endless speed in the form of brilliance. When the Sindhu flows making a noise like a bull, then, as rain falls with a sound from the cloud that is in the atmosphere, the flood of the Sindhu flows with a sound.
+
+##### English translation
+The sound goes forth in heaven above the earth; (Sindhu) with shining wave animates his endless speed ; as rains issue thundering from the cloud, so Sindhu, (thunders) when it advances roaring like a bull.
+### Printed p. 105
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the speed with which the river Sindhu flows and the sound it makes as it flows are described. The roaring sound of the flood is compared with the sound of heavy rain.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॑ सिंधो॒ शिशु॒मिन्न मा॒तरो॑ वा॒श्रा अ॑र्षंति॒ पय॑सेव  ॒॑
+> धेनवः ।  
+> राजे॑व॒ युध्वा॑ नयसि॒ त्वमित्सिचौ॒ यदा॑सा॒मग्रं॑ प्र॒वता॒मिन॑क्षसि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । सिंधो इति । शिशुं । इत् । न । मातरः । वाश्राः । अर्षंति । पयसा इव ।  
+> धेनवः ।  
+> राजा इव । युध्वा । नयसि । त्वं । इत् । सिचौ । यत् । आसां । अग्रं । प्रवतां ।  
+> इनक्षसि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सिंधो त्वा त्वां शिशुमिन्न मातरः पुत्रमिव वाश्राः शब्दयंत्य इतरा
+> नद्योऽभ्यर्षंति । अभिगच्छंति । पयसेव धेनवः पयसा युक्ता नवप्रसूतिका
+> गाव इव । किंच युध्वा युद्धकृद्राजीव त्वमित्त्वमेव सिचौ सिच्यमानौ तटा
+> नयस्युदकपूरं यद्यदासां प्रवतां त्वया सह गच्छंतीनामग्रमग्र इनक्षसि
+> व्याप्नोषि सर्वासां पुरतो गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Sindhu, the other rivers, sounding (वाश्राः (*vāśrāḥ*), "sounding"), come towards you (अभ्यर्षंति (*abhyarṣaṃti*), glossed अभिगच्छंति (*abhigacchaṃti*)) as mothers come to a child, and as cows (धेनवः (*dhenavaḥ*)) newly calved and full of milk come to their calves. Further, like a king who goes to battle (युध्वा (*yudhvā*), "one who makes war"), you alone lead the two banks (सिचौ (*sicau*), "the two banks being drenched") to fullness of water **NOTE**. When (यत् (*yat*), glossed यदा (*yadā*)) you pervade (इनक्षसि (*inakṣasi*), glossed व्याप्नोषि (*vyāpnoṣi*)) the front of these flowing rivers that go with you, that is, when you go before all of them, then it is so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधो (*siṃdho*)—O Sindhu
+- मातरः (*mātaraḥ*)—mothers
+- शिशुमिन्न (*śiśuminna*)—as they call and cry out to their sons
+- वाश्राः (*vāśrāḥ*)—the other rivers that make a sound
+- पयसा (*payasā*)—filled with milk
+- धेनव इव (*dhenava iva*)—like cows
+- त्वा अभ्यर्षंति (*tvā abhyarṣaṃti*)—are coming towards you
+- यत् (*yat*)—when
+- आसां प्रवतां (*āsāṃ pravatāṃ*)—of the other rivers that flow with you
+- अग्रं (*agraṃ*)—in front
+- इनक्षसि (*inakṣasi*)—you flow, pervading
+### Printed p. 106
+when you flow, then
+- युद्धा (*yuddhā*)—going out for battle
+- राजीव (*rājīva*)—like a king
+- सिचौ (*sicau*)—the drenched banks
+- नयसि (*nayasi*)—you cross and press forward
+
+##### भावार्थ (Bhāvārtha)
+
+O Sindhu, as mothers affectionately call and cry out to their sons, the other tributaries that make a sound come towards you like cows full of milk. When you flow as the chief of the other rivers that flow with you, then, like a king, you cross the two banks and flow on.
+
+##### English translation
+Like mothers crying for their sons, (the other rivers) hasten toward you, Sindhu, like milch cows with their milk ; you lead your two wings like a king going to battle when you march in the van of the streams that are descending (with you).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the tributaries are mentioned. As cows that have just calved go with affection, lowing, to their calves, so your tributaries, as they flow, join you with a sound. You are the chief of all these rivers, and, overflowing your banks with their waters, you flow like the march of a king who fights: this is the chief purport.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं मे॑ गंगे यमुने सरस्वति॒ शुतु॑द्रि॒ स्तोमं॑ सचता॒  ॒
+> परु॒ष्ण्या ।  
+> अ॒सि॒क्न्या म॑रुद्वधे वि॒तस्त॒यार्ज॑कीये शृणु॒ह्या सु॒षोम॑या ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । मे । गंगे । यमुने । सरस्वति । शुतुद्रि । स्तोमं । सचत । परुष्ठि । आ  
+> असिक्ना । मरुत् वृधे । वितस्तया । अर्जीकीये । शृणुहि । आ । सुसोमया ॥ ५ ॥
+
+### Printed p. 107
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र प्रधानभूताः सप्त नद्यस्तदवयवभूता नद्यस्ति स्रः स्तूयंते । हे गंगे
+> हे यमुने हे सरस्वति हे शुतुद्रि हे परुष्ठि । हे असिक्न्यावयवभूतया सहिते
+> मरुद्वधे हे वितस्तया सुषोमया च सहित आर्जीकीये त्वं च एवं सप्त नद्यः
+> यूयं मे स्तोमं स्तोत्रमस्मदीयमा सचत । आसेवध्वं । शृणुहि । शृणुत ।
+> आर्जीकीयाया वितस्तया सुषोमया च साहित्यं निरुक्त उक्तं । वितस्तया
+> चार्जीकीय आ शृणुहि सुषोमया चेति । अत्र गंगा गमनादित्यादि, निरुक्तं
+> द्रष्टव्यं । ९-२६ । ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+Here the seven principal rivers and the three rivers that are their constituent parts are praised. O Gaṅgā, O Yamunā, O Sarasvatī, O Śutudri, O Paruṣṭhi; O Marudvṛdhā, accompanied by Asiknī, which is her constituent; and O Ārjīkīyā, accompanied by Vitastā and Susomā; and you: thus, seven rivers, you attend my praise, my song of praise (आ सचत (*ā sacata*), glossed आसेवध्वं (*āsevadhvaṃ*)); hear it (शृणुहि (*śṛṇuhi*), glossed as the plural, "hear"). The association of Ārjīkīyā with Vitastā and Susomā is stated in the Nirukta: चार्जीकीय आ शृणुहि सुषोमया चेति (*cārjīkīya ā śṛṇuhi suṣomayā ceti*). Here, for गंगा गमनादित्यादि (*gaṃgā gamanādityādi*) and the rest, the Nirukta is to be consulted, Ni. 9-26. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गंगे (*gaṃge*)—O river Gaṅgā
+- यमुने (*yamune*)—O Yamunā
+- सरस्वति (*sarasvati*)—O Sarasvatī
+- शुतुद्रि (*śutudri*)—O Śutudri
+- परुष्ठि (*paruṣṭhi*)—O Paruṣṭhi
+- असिक्ना (*asiknā*)—joined with the river Asiknī
+- मरुद्वृधे (*marudvṛdhe*)—O river Marudvṛdhā
+- वितस्तया (*vitastayā*)—and with the river Vitastā
+- सुषोमया (*suṣomayā*)—joined also with the river Susomā
+- आर्जिकीये (*ārjikīye*)—O river Ārjikā
+- मे (*me*)—recited by me
+- इमं स्तोमं (*imaṃ stomaṃ*)—this praise
+- आ शृणुत (*ā śṛṇuta*)—hear
+- आ सचत (*ā sacata*)—attend
+
+##### भावार्थ (Bhāvārtha)
+
+O Gaṅgā, O Yamunā, O Sarasvatī, O Śutudri, O Paruṣṭhi, O Marudvṛdhā joined with Asiknī, O Ārjikā joined with Vitastā and with the river Susomā, hear this praise recited by me, and attend it.
+
+##### English translation
+Accept this my praise, Ganga, Yamuna, Sarasvati, Shutudri, Parushni, Marudvridha with Asikni and Vitasta ; listen, Arjikiya with Sushoma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Along with the names of these seven chief rivers, the names of some more rivers or tributaries are also stated. Ten river names are stated here: Gaṅgā, Yamunā, Sarasvatī, Śutudri, Paruṣṭhi, Asiknī, Marudvṛdhā, Vitastā, Ārjikī and Susomā. Yāska has given the Nirukta for this Ṛk—
+### Printed p. 108
+इमं मे गंगे यमुने सरस्वति शुतुद्रि परुष्ठि स्तोममासेवध्वमसिक्ना च सह मरुद्वृधे वितस्तया चार्जीकीय आशृणुहि सुषोमया चेति समस्तार्थः ॥ (*imaṃ me gaṃge yamune sarasvati śutudri paruṣṭhi stomamāsevadhvamasiknā ca saha marudvṛdhe vitastayā cārjīkīya āśṛṇuhi suṣomayā ceti samastārthaḥ ‖*)
+अथैकपदनिरुक्तं—गंगा गमनात् ॥ यमुना प्रयुवती गच्छतीति वा प्रवियुतं गच्छतीति वा ॥ सरस्वती सर इत्युदकनाम सर्तॆस्तद्वती ॥ शुतुद्रीशुद्राविणी क्षिप्रद्राविण्याशु तुन्नेव द्रवतीति वा ॥ इरावतीं परुष्ठित्याहुः—पर्ववती भास्वती कुटिलगामिनी ॥ असिक्ष्य शुक्ला सिता—सितमिति वर्णनाम तत्पतिषेधोऽसितं ॥ मरुद्वधाः सर्वा नद्योमरुत एना वर्धयंति वितस्ता विदग्धा विवृद्धा महाकूला ॥ आर्जिकीयां विपाडित्याहुः । ख.जीकप्रभवा वर्जुगामिनी वा विपाड्विपाट. नाद्वा विप्राशनाद्दा विप्रापणाद्दा पाशा अस्यां व्यपाश्यंत वसिष्ठस्य मुमूर्षतस्तस्माद्विपाडुच्यते ॥ पूर्वमासीदुरुंजिरा ॥ सुषोमा सिंधुर्यदेनामभिप्रसुवंति नद्यः ॥ सिंधुः स्यंदनात् ॥ (*athaikapadaniruktaṃ—gaṃgā gamanāt ‖ yamunā prayuvatī gacchatīti vā praviyutaṃ gacchatīti vā ‖ sarasvatī sara ityudakanāma sartèstadvatī ‖ śutudrīśudrāviṇī kṣipradrāviṇyāśu tunneva dravatīti vā ‖ irāvatīṃ paruṣṭhityāhuḥ—parvavatī bhāsvatī kuṭilagāminī ‖ asikṣya śuklā sitā—sitamiti varṇanāma tatpatiṣedho 'sitaṃ ‖ marudvadhāḥ sarvā nadyomaruta enā vardhayaṃti vitastā vidagdhā vivṛddhā mahākūlā ‖ ārjikīyāṃ vipāḍityāhuḥ | kha.jīkaprabhavā varjugāminī vā vipāḍvipāṭa. nādvā viprāśanāddā viprāpaṇāddā pāśā asyāṃ vyapāśyaṃta vasiṣṭhasya mumūrṣatastasmādvipāḍucyate ‖ pūrvamāsīduruṃjirā ‖ suṣomā siṃdhuryadenāmabhiprasuvaṃti nadyaḥ ‖ siṃdhuḥ syaṃdanāt ‖*) (Ni. 9-26)
+The total meaning of this Ṛk is: O Gaṅgā, Yamunā, Sarasvatī, Śutudri joined with Paruṣṭi, Marudvṛdhā who is with Āsiki, Ārjikīyā who is with Vitastā, all of you hear this praise that I am reciting **NOTE**. For each word, Gaṅgā and so on, the Nirukta, that is, the meaning of the parts, will be stated—
+गंगा (*gaṃgā*)—the word Gaṅgā is formed from a word having the sense of going, formed from the root गम्लृ (*gamlṛ*), which has the meaning "go" (flow).
+यमुना (*yamunā*)—this river is called Yamunā because it flows mingled with (joined to) other rivers, or because it flows slowly or without sound.
+सरस्वती (*sarasvatī*)—सरः (*saraḥ*) means water. Having water means having much water, or, flowing (moving on) without stopping; therefore this river is called Sarasvatī.
+शुतुद्रि (*śutudri*)—because it runs swiftly, or flows swiftly, or flows swiftly as if running at the urging of others, this river is called Śutudri.
+### Printed p. 109
+परुष्टि (*paruṣṭi*)—the river Irāvatī itself is called the river Paruṣṭi. परुष्टि (*paruṣṭi*) means having joints or knots. Because this river flows in a winding course, the name Paruṣṭi has come to this river.
+असिक्नी (*asiknī*)—it means not white, being dark. सितं (*sitaṃ*) means white. असित (*asita*) means not white, being dark. Because the water of this river is not clear but has a slightly dark shade, the name Asiknī has come to this river.
+मरुद्वधे (*marudvadhe*)—because this river grows and flows in flood from all the other rivers (its tributaries) and from the wind, it is called Marudvṛdhā.
+वितस्ता (*vitastā*)—it means a river with high banks made of unburnt, that is, raw sticky earth.
+आर्जीकीया (*ārjīkīyā*)—this is also called विपाड् (*vipāḍ*). Because this river is born and flows in the country called ऋजुक (*ṛjuka*), or because it flows straight without bends (turns), this river is called Ārjīkīyā.
+विपाट् (*vipāṭ*)—because this river, as it flows, overflows its banks, or because it flows beyond the two banks that confine it, or because it spreads widely and flows beyond the banks, this river is called Vipāṭ. In former times the sons of the seer Vasiṣṭha died, and the seer, unable to bear the grief for his sons, wished to take his own life; he bound his hands and feet with cords and plunged into this river Vipāṭ. But the river, not wishing to kill him, tore off his cords and saved his life. Because it tore off the cords in this way, the name Vipāṭ came to this river. In former times this river had the name उरुंजिरा (*uruṃjirā*), a river with a great deal of water.
+सुषोमा (*suṣomā*)—this river is also called the river Sindhu. For all the rivers (its tributaries) flow to it, in order to join it (for confluence). The word सिंधु (*siṃdhu*) means flowing. Some are of the opinion that the name Susomā (सु (*su*) + सोम (*soma*)) came to this river because excellent Soma plants grew on its bank.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तृ॒ष्णाम॑या प्रथ॒मं यात॑ने स॒जूः सु॒सर्ता॑ र॒सया॑ श्वे॒त्वा  
+> त्या
+
 ---
 
-**Progress note:** Done through printed p. 103. Sūkta 75 Ṛks 1-2 (Sindhu hymn), Nirukta on personification of deities
+**Progress note:** Done through printed p. 109. Sūkta 75 Ṛks 3-5 (rivers, the Nirukta on their names)
