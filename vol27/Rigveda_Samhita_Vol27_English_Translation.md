@@ -2495,6 +2495,266 @@ O Soma juices, pressed, shining, pouring rain on the earth, purified, filling th
 ##### English translation
 Bring us wealth, bright Soma juices effused, filtered, filling the sky with rain, shedding water (upon the earth), acquiring all things.
 
+### Printed p. 55
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमः॑ पुना॒न ऊ॒र्मिणाव्यो॒ वारं॒ वि धा॑वति ।  
+> अग्रे॑ वा॒चः पव॑मानः॒ कनि॑क्रदत् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । पुनानः । ऊर्मिणा । अव्यः । वारं । वि । धावति ।  
+> आग्रे । वाचः । पवमानः । कनिक्रदत् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः सोम ऊर्मिणा स्वीयया धारयाव्योऽवेर्वारं
+> वालं पवित्रं वि धावति । विविधं गच्छति । कीदृशः सोमः । पवमानः पूतो वाचः
+> स्तोत्रस्याग्रे कनिक्रदत् पुनः पुनः शब्दं कुर्वन्वि धावति ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified, runs with his own stream through the sheep's-wool filter (वारं (*vāraṃ*) = the hair, the filter). He is called पवमानः (*pavamānaḥ*), the purified one. Sounding again and again, he runs in front of the voice, that is, of the hymn of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—one who attains purification
+- पवमानः (*pavamānaḥ*)—the purifier
+- सोमः (*somaḥ*)—Soma
+- वाचः (*vācaḥ*)—of the word of praise
+- अग्रे (*agre*)—in front
+- कनिक्रदत् (*kanikradat*)—making sound
+- ऊर्मिणा (*ūrmiṇā*)—with his own stream-form
+- अव्यः (*avyaḥ*)—of wool
+- वारं (*vāraṃ*)—through the fibres
+- वि धावति (*vi dhāvati*)—flows swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is purified and is the purifier, flows swiftly through the fibres of the wool with his own stream-form, sounding in front of the word of praise.
+
+##### English translation
+Soma being filtered flows in a stream through the woollen fleece, crying aloud when filtered in advance of the voice (of praise).
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धी॒भिर्हि॑न्वंति वा॒जिनं॒ वने॒ क्रीळं॑त॒मत्य॑विं ।  
+> अ॒भि त्रि॑पृ॒ष्ठं म॒तयः॒ सम॑स्वरन् ॥ ११ ॥
+
+### Printed p. 56
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धीभिः । हिन्वंति । वाजिनं । वने । क्रीळंतं । अति अविं ।  
+> अभि । त्रिऽपृष्ठं i मतयः । सं । अस्वरन् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नाजिनं बलवंतं वने वननीये वसतीवर्याख्य उदके क्रीळंतं संक्रीडमानमत्यविं । अविशब्देन तद्रोमकृतं पवित्रमभिधीयते । अतिक्रांतपवित्रं सोममृत्विजो धीभिः स्तुतिभिर्हिन्वंति । वर्धयंति । यद्वा । धीभिः ॥ वर्णलोपश्चांदसः ॥
+> धीतिभिरंगुलीभिर्हिन्वंति । प्रेरयंति ॥ हि गतौ वृद्धौ च स्वादिः । किं च त्रिपृष्टं । त्रीणि
+> पवित्राणि द्रोणकलशाधवनीयपूतभृदाख्यानि पात्राणि स्पृशतीति त्रीणि सवनानि वा
+> स्पृशतीति स तथोक्तः । तं सोमं मतयः स्तुतयोऽभि समस्वरन् । अभितः
+> संस्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+The powerful Soma sports in the water called वसतीवरी (*vasatīvarī*), and has passed beyond the filter; by अवि (*avi*) is meant the filter made of wool hair. The priests strengthen him with praises (धीभिः (*dhībhiḥ*)). Alternatively, धीभिः (*dhībhiḥ*) means with the fingers (*dhītibhiḥ*, with loss of a letter, a Vedic feature); they urge him on. The root हि (*hi*) is of the Svādi class, in the sense of going and increasing. Further, he is त्रिपृष्ठं (*tripṛṣṭhaṃ*): he touches the three vessels called Droṇakalaśa, Ādhavanīya and Pūtabhṛt, or he touches the three pressings. The praises sing around that Soma on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनं (*vājinaṃ*)—the powerful one
+- वने (*vane*)—in the Vasatīvarī water
+- क्रीळंतं (*krīḷaṃtaṃ*)—the one who sports
+- अत्यविं (*atyaviṃ*)—Soma who has crossed the woollen filter
+- धीभिः (*dhībhiḥ*)—with praises
+- हिन्वंति (*hinvaṃti*)—the priests strengthen
+- त्रिपृष्ठं (*tripṛṣṭhaṃ*)—Soma who is in the vessels called Droṇakalaśa, Ādhavanīya and Pūtabhṛt
+- मतयः (*matayaḥ*)—praises
+- अभि समस्वरन् (*abhi samasvaran*)—praise on all sides
+
+##### भावार्थ (Bhāvārtha)
+
+The priests strengthen with praises Soma, who is powerful, sports in the Vasatīvarī water and has crossed the woollen filter. The praises extol on all sides Soma who is in the vessels called Droṇakalaśa, Ādhavanīya and Pūtabhṛt.
+
+##### English translation
+They send forth with their fingers the powerful Soma sporting in the water, passing through the fleece; praises celebrate him abiding in the hree receptacles.
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑र्जि क॒लशा॑ अ॒भि मि॒ळ्ळे सप्ति॒र्न वा॑ज॒युः ।  
+> पु॒ना॒नो वाचं॑ ज॒नय॑न्नसिष्यदत् ॥ १२ ॥
+
+### Printed p. 57
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असर्जि । कलशान् । अभि । माळ्ही । सप्तिः । न । वाजयुः ।  
+> प्रनानः । वाचं । जनयन् । असिस्त्यदत् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजयुर्यजमानानामन्नमिच्छन् स सोमः कलशानभिलक्ष्य कलशेष्वसर्जि ।
+> सृज्यते । तत्र दृष्टांतः । सप्तिर्न यथाश्वो मिळ्ळे ! संग्रामनामैतत् । संग्रामे
+> सृज्यते तद्वत् । ततः पुनानः पूयमानः सोमो वाचं शब्दं जनयन्नुत्पादयन्नसिष्यदत् । पात्रेषु स्यंदते ॥
+
+##### Gist of the bhāṣya
+
+Soma, desiring food for the sacrificers (वाजयुः (*vājayuḥ*)), is let loose into the pitchers. The illustration: as a horse is let loose in मिळ्ळे (*miḷḷe*), a name for battle, so is he. Then, being purified, Soma produces a sound and flows into the vessels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सप्तिः (*saptiḥ*)—a horse
+- मिळ्ळे न (*miḷḷe na*)—as it is let loose for battle
+- वाजयुः (*vājayuḥ*)—Soma, wishing to provide food for the sacrificer
+- कलशान् अभि (*kalaśān abhi*)—into the pitcher-vessels
+- असर्जि (*asarji*)—is let loose
+- पुनानः (*punānaḥ*)—Soma who has been purified
+- वाचं (*vācaṃ*)—sound
+- जनयन् (*janayan*)—producing
+- असिष्यदत् (*asiṣyadat*)—enters the vessels
+
+##### भावार्थ (Bhāvārtha)
+
+As a horse is let loose for battle, Soma, wishing to provide food for the sacrificer, is let loose into the pitcher-vessels. Soma, having been purified, enters the vessels producing a sound.
+
+##### English translation
+Desiring (to give the worshipper) food he has been let loose into the pitchers like a charger in battle ; being filtered, raising a cry he flows (into the vessels)
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑ते हर्य॒ॆतो हरि॒रति॒ ह्वरां॑सि॒ रंह्या॑ ।  
+> अभ्यर्षन्‌न्नू नृत्यभ्यो वीरवद्यशः ॥ १३ ॥
+
+### Printed p. 58
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवते । हर्यतः । हरिः । अति । हृरांसि । रंह्या ।  
+> अभिर् अर्षन् । स्तोतृभ्यः । वीरवत् । यशः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हर्यतः स्पृहणीयो हरिर्हरितवर्णः सोमो रंह्मा ॥ तृतीयाया
+> आकारः ॥ साधुवेगेन ह्वरांसि कुटिलान्यनृजूनि पवित्राण्यति पवते । अतीत्य गच्छति ।
+> किं कुर्वन् । स्तोतृभ्यो वीरवत् पुत्रयुक्तं यशोभ्यर्षन्नभिगमयन ॥ पवते
+
+##### Gist of the bhāṣya
+
+Soma, desirable (हर्यतः (*haryataḥ*)) and green-tinted (हरिः (*hariḥ*)), flows with good speed (रंह्या (*raṃhyā*), the instrumental ending in ā) through the crooked, that is, not straight, filters, passing over them. What does he do? He brings to the worshippers fame together with sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरतः (*harataḥ*)—one of attractive form
+- हरिः (*hariḥ*)—the green-coloured Soma-god
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to the praisers
+- वीरवत् (*vīravat*)—accompanied by heroic sons and the like
+- यशः (*yaśaḥ*)—fame
+- अभ्यर्षन् (*abhyarṣan*)—bestowing
+- रंह्या (*raṃhyā*)—with speed
+- ह्वरांसि (*hvarāṃsi*)—to the crooked vessels
+- अति पवते (*ati pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-god, of attractive form and green colour, flows swiftly into the crooked vessels, bestowing on the praisers fame accompanied by heroic sons and the like.
+
+##### English translation
+The delightful green-tinted (juice) flows with rapidity into the crooked (pitchers); bringing the worshippers food and male offspring.
+**NOTE**
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या प॑वस्व देव॒युर्मधो॒धारा॑ अस्यक्षत ।  
+> रेभ॑स्प॒वित्रं॒ पर्ये॑षि वि॒श्वतः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । पवस्व । देवयुति । मधोः । धाराः । अस्पृशत ।  
+> रेभन् । पवित्रं । परि । एषि । विश्वतः । १४ ॥
+
+### Printed p. 59
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देवयुर्देवानामयमानस्त्वमयानया धारया पवस्व ।
+> क्षर । ततो मधोर्मदकरस्य तव धारा आत्मीया असृक्षत । स्यज्यते । अनंतरं रेभञ्छब्दायमानः पवित्रं विश्वतः पर्येषि । सर्वतः परिगच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, desiring the gods (देवयुः (*devayuḥ*)), flow with this stream. Then your streams, of intoxicating sweetness, are let loose. Afterwards, sounding, you go round the filter on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god) देवयुः (*devayuḥ*)—you who long for the gods
+- अया (*ayā*)—with this stream-form
+- पवस्व (*pavasva*)—flow
+- मधोः (*madhoḥ*)—of you, the exhilarating one
+- धाराः (*dhārāḥ*)—streams
+- असृक्षत (*asṛkṣata*)—are let loose
+- रेभन् (*rebhan*)—making sound
+- पवित्रं (*pavitraṃ*)—to the filter
+- विश्वतः (*viśvataḥ*)—from all sides
+- पर्येषि (*paryeṣi*)—come and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you who desire to join the gods, flow with this stream-form. Your streams, which cause exhilaration, flow. Sounding, come from all sides to the filter.
+
+##### English translation
+Devouted to the gods flow with that (stream); (your) streams of exhilarating liquor are let loose ; with a roar you pass through the filter in all directions.
+## Sūkta 107 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परीत इति षड्विंशत्यचं चतुर्थं सूक्तं । त्वं सोमासि । ऋ. ९.६७ । इत्यत्रोक्ता भरद्वाजकश्यपाद्याः सप्तर्षयः । आद्या बृहती द्वितीया सतोबृहती ।
+> अयमेकः प्रगाथः । परि सुवान इत्येषा तृतीयैकविंशत्यक्षरा भुरिग्विराड् द्विपदा ।
+> नृभिर्यॆमान इति षोडशिविंशत्यक्षरा द्विपदा विराट् । चतुर्थ्यादिद्वौ प्रगाथौ ।
+> दशम्यादित्रयः सप्तदश्यादिपंच प्रगाथाः । पवमानः सोमो देवता । तथा
+> चानुक्रम्यते । परीतः षड्विंशतिः सप्तर्षयः प्रागाथं तृतीयाषोळश्या द्विपदे
+> अष्टम्याद्ये बृहत्याविति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+परीत (*parīta*) is the fourth sūkta, of twenty-six verses. The seers are the seven seers, Bharadvāja, Kaśyapa and others, as stated at त्वं सोमासि (*tvaṃ somāsi*) (Ṛ. Saṃ. 9.67). The first verse is Bṛhatī, the second Satobṛhatī; this pair is one Pragātha. The third, परि सुवान (*pari suvāna*), of twenty-one syllables, is Bhurigvirāḍ Dvipadā. The sixteenth, नृभिर्यॆमान (*nṛbhiryèmāna*), of twenty syllables, is Dvipadā Virāṭ. The fourth and following form two Pragāthas; the tenth and following three, and the seventeenth and following five, are Pragāthas. The deity is Pavamāna Soma. The Anukramaṇī says: परीतः षड्विंशतिः सप्तर्षयः प्रागाथं तृतीयाषोळश्या द्विपदे अष्टम्याद्ये बृहत्याविति ॥ (*parītaḥ ṣaḍviṃśatiḥ saptarṣayaḥ prāgāthaṃ tṛtīyāṣoḷaśyā dvipade aṣṭamyādye bṛhatyāviti ‖*) The use of the sūkta has been stated.
+
+##### विशेषविषयगळु (Special Topics)
+
+Translation: This sūkta परीतः (*parītaḥ*) is the fourth sūkta in the seventh Anuvāka. It has twenty-six Ṛks; the preceding statement was made at sūkta 66 of this Maṇḍala, त्वं सोमासि (*tvaṃ somāsi*).
+
+### Printed p. 60
+The seven seers, Bharadvāja, Kaśyapa and the others, are the seers of this sūkta too. Pavamāna Soma is the deity. The first Ṛk of this sūkta is in the Bṛhatī metre and the second in the Satobṛhatī metre. Thus a Ṛk of the Bṛhatī metre together with the Ṛk of Satobṛhatī metre that follows it is called a Pragātha. The third Ṛk, परि सुवानः (*pari suvānaḥ*), is in the metre called Bhurigvirāṭ Dvipadā of twenty-one syllables; the sixteenth Ṛk, नैभिर्यॆमानः (*naibhiryèmānaḥ*), is in the metre called Dvipadā of sixteen syllables. From the fourth Ṛk onwards there are two Pragāthas. Three Ṛks from the tenth and five Ṛks from the seventeenth are Pragāthas. In the Anukramaṇikā it is stated: परीतः षड्विंशतिः सप्तर्षयः प्रागाथं तृतीयषोळश्या द्विपदे अष्टमाद्ये बृहत् (*parītaḥ ṣaḍviṃśatiḥ saptarṣayaḥ prāgāthaṃ tṛtīyaṣoḷaśyā dvipade aṣṭamādye bṛhat*). The use of the sūkta was stated earlier.
+**NOTE**
+Maṇḍala 9; Anuvāka 7; Sūkta 107. Aṣṭaka 7; Adhyāya 5; Vargas 12, 13, 14, 15, 16. Number of Ṛks in the sūkta: 26.
+Seers: the seven seers (Bharadvāja Bārhaspatya, Kaśyapa Mārīca, Gotama Rāhūgaṇa, Atri Bhauma, Viśvāmitra Gāthina, Jamadagni Bhārgava, Vasiṣṭha Maitrāvaruṇi).
+Deity: Pavamāna Soma.
+Metre: 1, 4, 6, 8–10, 12, 14, 17, 19, 21, 23, 25 Bṛhatī; 2, 5, 7, 11, 13, 15, 18, 20, 22, 24, 26 Satobṛhatī; 3, 16 Dvipadā.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परी॒तो षिं॑चता सु॒तं सोमो॒ य उ॑त्त॒मं ह॒विः ।  
+> द॒ध॒न्वा यो नर्यो॑ अ॒प्स्व१॒ं॑१तरा सु॒षाव॒ सोम॒मुद्रि॑भिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । इतः । सिंचत । सुतं । सोमः । यः । उत्तमं । हविः ।  
+> दधन्वान् । यः । नर्यः । अप्सु । अंतः । आ । सुसाव । सोमं । अद्रिभिः ॥ १
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः सुतमभिषुतं सोममित अस्मात्कर्मण ऊर्ध्वं अथवास्मात्
+> देशादूर्ध्वं परि षिंचत वसतीवरीभिः ॥ इतो षिंचतेत.त. संहितायां छंदसीति
+
+##### Gist of the bhāṣya
+
+O priests, pour round, away from this rite (or, upward from this place), the pressed Soma, with the Vasatīvarī waters. ()
+
 ---
 
-**Progress note:** Done through printed p. 54. pp. 49-54 (batch API)
+**Progress note:** Done through printed p. 60. pp. 55-60 (batch API)
