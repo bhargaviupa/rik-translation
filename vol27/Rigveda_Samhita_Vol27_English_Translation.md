@@ -24528,6 +24528,278 @@ The intelligent (priests), whose desires are fixed (on the fruit of good works),
 
 O Soma, you protect (रक्षसि (*rakṣasi*)) our animal (पशुं (*paśuṃ*)), the one brought near for the sacrifice to the gods. Not the animal only: you protect also the world (जगत् (*jagat*)) which stands divided (विष्ठितं (*viṣṭhitaṃ*)) in many ways (पुरुत्रा (*purutrā*)), as the existence of gods, men, animals and other births. Further, you set in order (समाकृणोषि (*samākṛṇoṣi*)) the livelihood of the world, that is, you arrange it well. For what? For life (जीवसे (*jīvase*)). Doing what? विश्वा भुवना (*viśvā bhuvanā*), all beings, ….
 
+### Printed p. 698
+
+> भुवनानि भूतजातानि संपश्यन् । किमर्थमेतदादिकं सर्वं करोषि उच्यते । वि
+> वो मदे युष्माकं सर्वेषां देवानां विविधहविर्जन्यतृप्त्यर्थं । उक्तं हि ।
+> इतःप्रदानमुत देवा उप जीवंत्यमुतःप्रदानं मनुष्या उपजीवंति । तै. सं.
+> ३-२-९-७ । इति । अत एव त्वं विवक्षसे । महान्भवसि । महतामेतत्सर्वमुचितमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss of the preceding verse. Soma sees all beings (भुवनानि भूतजातानि (*bhuvanāni bhūtajātāni*)) and does all this for the sake of the delight (वि वो मदे (*vi vo made*)) of all of you gods, that is, for satisfaction produced by the various oblations. He cites *itaḥpradānamuta devā upa jīvaṃti* (Tai. Saṃ. 3-2-9-7): the gods live on what is given from here, and men live on what is given from yonder. Hence Soma is विवक्षसे (*vivakṣase*), "you are great"; all this is fitting for the great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- नः (*naḥ*)—our
+- पशुं (*paśuṃ*)—cattle
+- रक्षिसि (*rakṣisi*)—you protect
+- पुरुत्रा (*purutrā*)—in many ways
+- विष्ठितं (*viṣṭhitaṃ*)—established
+- जगत् (*jagat*)—the world; you protect it
+- वः (*vaḥ*)—of you and of all the gods
+- वि मदे (*vi made*)—for the exceeding joy
+- विश्वा (*viśvā*)—all
+- भुवना (*bhuvanā*)—worlds
+- संपश्यन् (*saṃpaśyan*)—beholding
+- जीवसे (*jīvase*)—for living
+- समाकृणोषि (*samākṛṇoṣi*)—you prepare
+- विवक्षसे (*vivakṣase*)—you are great
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you protect our cattle. You also protect the world, which is established in many ways. For the exceeding joy of you and of all the gods, beholding all the worlds, you prepare everything for their living. You are great.
+
+##### English translation
+You protect our cattle, Soma, and the variously occupied world contemplating all existing beings ; you prepare (the world) for them to live in for your exhilaration ; for you are mighty.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नः॑ सोम वि॒श्वतो॑ गो॒पा अदा॑भ्यो भव ॥  
+> सेध॑ राज॒न्नप॒ स्रिधो॒ वि वो॒ मदे॒ मा नो॑ दुः॒शंस॑ ईशता॒  ॑
+> विवक्षसे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । सोम। विश्वतः। गोपाः । अदाभ्यः । भव ।  
+> सेध । राजन् । अप । स्रिधः । वि । वः । मदे । मा । नः। दुःशंसः । ईशत । विवक्षसे॥
+
+### Printed p. 699
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अदाभ्यः केनाप्यहिंस्यस्त्वं विश्वतः सर्वतो नोऽस्माकं गोपा
+> रक्षिता भव । अपि च । हे राजन्राजमान सोम त्वं स्रिधोऽस्माकमुपक्षपयित्थनप सेध । अस्मत्तोऽपगमय । अपजहि वा । नोऽस्माकं दुःशंसो विद्यमानानामविद्यमानानां कर्मणां शंसिता प्रख्यापयिता मेशत । ईशिता मा भूत् । तव
+> प्रसादादस्माकमपवक्ता कश्चिदपि मा भूदित्यर्थः । किमर्थमेतत्सर्वं प्रार्थ्यते । वि
+> वो मदे तव विविधसोमादिहविर्जन्यतृप्त्यर्थं । अतो विनक्षसे । त्वं महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, unassailable, being harmed by none, be our guardian on every side. O shining king, drive away our adversaries (स्रिधः (*sridhaḥ*)), who weaken us, or cast them off. Let no दुःशंसः (*duḥśaṃsaḥ*), one who proclaims actions, real or unreal, to our hurt, rule over us; that is, by your grace let no slanderer of ours exist. Why is all this asked? For your delight, produced by the various oblations such as Soma. Therefore you are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- अदाभ्यः (*adābhyaḥ*)—harmed by none
+- त्वं (*tvaṃ*)—you
+- विश्वतः (*viśvataḥ*)—on all sides
+- नः (*naḥ*)—to us
+- गोपाः (*gopāḥ*)—as protector
+- भव (*bhava*)—be
+- वः (*vaḥ*)—of you and of the gods
+- वि मदे (*vi made*)—for the winning of exceeding joy
+- राजन् (*rājan*)—O shining Soma
+- स्रिधः (*sridhaḥ*)—our injurers
+- अप सेध (*apa sedha*)—drive far away
+- नः (*naḥ*)—over us
+- दुःशंसः (*duḥśaṃsaḥ*)—one who wishes evil
+- मा ईशत (*mā īśata*)—let him not exercise lordship
+- विवक्षसे (*vivakṣase*)—you are great
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Soma, you who are harmed by none, be our protector on every side. For the exceeding joy of you and of the gods, drive our injurers far away. Let one who wishes us evil not rule over us. You are great.
+
+##### English translation
+Be on all sides our preserver, Soma, you, who are unassailable; drive away, monarch, our adversaries in your exhilaration, and let no columiator rule over us ; for you are mighty.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नः॑ सोम सु॒क्रतु॑र्वयो॒धेया॑य जागृहि ।  
+> क्षे॒त्र॒वित्त॑रो॒ वनु॑षो॒ वि वो॒ मदे॑ द्रु॒हो नः॑ पा॒ह्यंह॑सो॒  ॑
+> विनक्षसे ॥ ८ ॥
+
+### Printed p. 700
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । सोम । सुक्रतुः । वयःधेयाय । जागृहि ।  
+> क्षेत्रविर्तरः । मनुषः । वि । वः । मदे । द्रुहः । नः । पाहि । अ०हसः । विवक्षसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुक्रतुः शोभनप्रज्ञः क्षेत्रवित्तरः क्षेत्रस्यातिशयेन लंभकस्त्वं
+> नोऽस्माकं वयोधेयायान्नदानाय जागृहि । किंच द्रुहो द्रोग्धुर्मनुषो
+> मनुष्याच्छत्रोः सकाशान्नोऽस्मान्पाहि । रक्ष । अ०हसः पापाच्च नोऽस्मान्पाहि ।
+> किमर्थं । वि वो मदे । तव सोमादिहपर्जन्यतृप्त्यर्थमित्यर्थः । विवक्षसे । त्वं
+> महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, of good insight (सुक्रतुः (*sukratuḥ*)) and a great finder of fields (क्षेत्रवित्तरः (*kṣetravittaraḥ*)), be watchful for our food-giving (वयोधेयाय (*vayodheyāya*)). Protect us also from the injurer (द्रुहः (*druhaḥ*)), the enemy who is a man (मनुषः (*manuṣaḥ*)), and from sin (अ०हसः (*a0hasaḥ*)). Why? For your delight produced by Soma and the other oblations. You are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- सुक्रतुः (*sukratuḥ*)—one of excellent insight
+- क्षेत्रवित्तरः (*kṣetravittaraḥ*)—provider of excellent fields
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- वयोधेयाय (*vayodheyāya*)—for the giving of food
+- जागृहि (*jāgṛhi*)—be watchful
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—in the time of exceeding joy
+- द्रुहः (*druhaḥ*)—wishing us evil
+- मनुष्यः (*manuṣyaḥ*)—from the human enemy
+- नः (*naḥ*)—us
+- पाहि (*pāhi*)—protect
+- अ०हसः (*a0hasaḥ*)—from sins also protect
+- विवक्षसे (*vivakṣase*)—you are great
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are of excellent insight and provide excellent fields, be watchful for our food-giving. In the time of your exceeding joy protect us from the human enemy who wishes us evil. Protect us from sins also. You are great.
+
+##### English translation
+Soma, author of good works, liberal granter of fields, be vigilant in supplying us with food ; and in your exhilaration preserve us from oppres- sive men, (and) from sin ; for you are mighty.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं नो॑ वृत्रहंत॒मेंद्र॑स्येंदो शि॒वः सखा॑ ।
+
+### Printed p. 701
+
+> यत्सीं हवंते समिथे वि वो मदे युध्यमानास्तोकसात्  
+> विवक्षसे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । वृत्रहन्तम । इंद्रस्य । इंदो इति । शिवः । सखा ।  
+> यत् । सीं । हवंते । संइथे । वि । वः । मदे । युध्यमानाः । तोकसातौ ।  
+> विवक्षसे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतम शत्रुणामतिशयेन हंतर्हे इंदो हे सोम यस्त्वमिंद्रस्य शिवः सुखकरः सखा मित्रभूतोऽसि स त्वं नोऽस्मान्पाहीति शेषः । कदेति उच्यते ।
+> तोकसात् । तोक इत्यपत्यनाम ॥ सातिः । षणु दान इत्यस्माद्धातो रूपं ॥ दीयतेऽस्मिन्न पत्यमिति तोकसातिः संग्रामविशेषणं । तस्मिन् । अतिमहतीत्यर्थः । समिथे
+> संग्रामे युद्धमाना युद्धं कुर्वाणाः शत्रुजनाः सीं सर्वतो यद्यदा
+> हवंते युद्धार्थमस्मानाह्वयंति । तदास्माकं रक्षिता भवेत्यर्थः । कस्मिन्निमित्ते ।
+> वि वो मदे तव विविधहनिर्जन्यहर्षनिमित्ते । विवक्षसे । त्वं महान्भवसि । महतां
+> हि पालनं युक्तमेवेति ॥
+
+##### Gist of the bhāṣya
+
+O supreme slayer of Vṛtra, that is, of enemies, O Indu, O Soma, you who are the auspicious friend of Indra: protect us (this is to be supplied). When? तोकसातौ (*tokasātau*): तोक (*toka*) is a name for offspring; साति (*sāti*) is a form from the root षणु दान (*ṣaṇu dāna*); where offspring is given, there is a तोकसाति (*tokasāti*), an epithet of battle, that is, a very great one. When enemies fighting in the battle (समिथे (*samithe*)) call us from all sides (सीं (*sīṃ*)) to fight, then be our protector. On what occasion? In your delight produced by the various oblations. You are great; the protection of the great is indeed fitting.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहंतम (*vṛtrahaṃtama*)—O destroyer of enemies
+- इंदो (*iṃdo*)—O Soma
+- त्वं (*tvaṃ*)—you
+- इंद्रस्य (*iṃdrasya*)—to Indra
+- शिवः (*śivaḥ*)—auspicious
+- सखा (*sakhā*)—you are a friend
+- तोकसातौ (*tokasātau*)—in the offspring-bestowing
+- समिथे (*samithe*)—battle
+- युध्यमानाः (*yudhyamānāḥ*)—enemies who fight
+- सीं (*sīṃ*)—everywhere
+- यत् (*yat*)—when
+- हवंते (*havaṃte*)—they call for battle, then
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—in the time of exceeding joy
+- नः (*naḥ*)—protect us
+- विवक्षसे (*vivakṣase*)—you are great
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, destroyer of enemies, you are an auspicious friend to Indra. When enemies gather everywhere in the offspring-bestowing battle and call us to fight, then in the time of your exceeding joy protect us. You are great.
+
+### Printed p. 702
+
+##### English translation
+Utter destroyer of enemies, Soma, who are the auspicious friend of Indra, (protect us), when hostile warriors everywhere call us to the combat that bestows offspring ; by your exhilaration preserve us) ; for you are mighty.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं घ॒ स तु॒रो मद॒ इंद्र॑स्य वर्धत प्रि॒यः ।  
+> अ॒यं क॒क्षीव॑तो म॒हो वि वो॒ मदे॑ म॒तिं विप्र॑स्य वर्धय॒द्विव॑क्षसे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । घ । सः । तुरः । मदः । इंद्रस्य । वर्धत । प्रियः ।  
+> अयं । कक्षीवतः । महः । वि । वः । मदे । मतिं । विप्रस्य । वर्धयत् । विवक्षसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं फेदृशः खलु स प्रसिद्धोऽस्माभिरभिषुतः सोमस्तुरः सर्वकार्येषु
+> श्वर्णशीलो मदो मदकरः प्रिय इंद्रस्य तर्पयिता वर्धत । अस्मदीयां मतिमवर्धयत् । अयं सोमः कक्षीवत एतदाख्यस्यर्षेः । कीदृशस्य । महो महतो
+> विप्रस्य मेधाविनः मतिं प्रज्ञां वर्धयत् । अवर्धयत् । तद्वदस्माकमपि मतिमवर्धयदित्यर्थः । शिष्टं गतं ॥
+
+##### Gist of the bhāṣya
+
+This well-known Soma, pressed by us, is swift (तुरः (*turaḥ*)) in all undertakings, exhilarating, dear to Indra and his gratifier; it has increased (वर्धत (*vardhata*) read as अवर्धयत् (*avardhayat*)) our understanding. This Soma increased the understanding (मतिं (*matiṃ*)) of the sage named Kakṣīvat, great and wise (विप्रस्य (*viprasya*)); likewise it increased ours also. The rest has been explained before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the famous
+- अयं घ (*ayaṃ gha*)—this very Soma
+- तुरः (*turaḥ*)—swift
+- मदः (*madaḥ*)—exhilarating
+- प्रियः (*priyaḥ*)—dear
+- इंद्रस्य (*iṃdrasya*)—gratifying to Indra
+- वर्धत (*vardhata*)—increased our understanding
+- अयं (*ayaṃ*)—this same Soma
+- महः (*mahaḥ*)—great
+- विप्रस्य (*viprasya*)—wise
+- कक्षीवतः (*kakṣīvataḥ*)—of Kakṣīvat
+- मतिं (*matiṃ*)—understanding
+- वर्धयत् (*vardhayat*)—increased (O Soma)
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—in the time of joy (increase our discernment)
+- विवक्षसे (*vivakṣase*)—you are great
+
+### Printed p. 703
+
+##### भावार्थ (Bhāvārtha)
+
+This famous Soma, swift, exhilarating, dear, and gratifying to Indra, increased our understanding. This same Soma increased the understanding of the great and wise Kakṣīvat. O Soma, in the time of your joy increase our discernment. You are great.
+
+##### English translation
+Such is the Soma which, swiftly moving, exhilarating, acceptable to Indra, has given increase (to our understanding) ; it has increased the intelligence of the great and pious Kakshivat in your exhilaration; for you are mighty.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं विप्रा॑य दा॒शुषे॒ वाजा॑ इयर्ति॒ गोम॑तः।  
+> अ॒यं स॒प्तभ्य॒ आ वरं॒ वि वो॒ मदे॒ प्रांधं श्रो॒णं च॑  
+> तारिष॒द्विव॑क्षसे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । विप्राय । दाशुषे । वाजान् । इयर्ति । गोऽमतः ।  
+> अयं । सप्तभ्यः । आ । वरं । वि । वः । मदे । प्र ! अंधं । श्रोणं । च । तारिषत् ।  
+> विवक्षसे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमो विप्राय मेधाविने दाशुषे हविर्दत्तवते यजमानाय
+> गोमतः पशुयुक्तानि वाजानन्नानीयर्ति । प्रेरयति । प्रयच्छतीत्यर्थः । किंचायमेव सोमः सप्तभ्यो होतृभ्यो वरं वरणीयं धनमा । प्रयच्छति । अंधं
+> नेत्रहीनं दीर्घतमसमृषिं चक्षुःप्रदानेन श्रोणं च पंगुं परावृजमृषिं चरणप्रदानेन एवमुभावृषी प्र तारिषत् । प्रकर्षण वर्धितवान् । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+This Soma sends (इयर्ति (*iyarti*), that is, bestows) to the wise (विप्राय (*viprāya*)) sacrificer (दाशुषे (*dāśuṣe*)) who has given oblations, food (वाजान् (*vājān*)) accompanied by cattle (गोमतः (*gomataḥ*)). This same Soma also bestows choice wealth (वरं (*varaṃ*)) on the seven Hotṛs. He caused अंधं (*aṃdhaṃ*), the eyeless sage Dīrghatamas, to prosper by giving him sight, and श्रोणं (*śroṇaṃ*), the lame sage Parāvṛj, by giving him feet; thus he carried both sages forward (प्र तारिषत् (*pra tāriṣat*)), that is, advanced them greatly. The rest is clear.
+
 ---
 
-**Progress note:** Done through printed p. 697. pp. 692-697 (batch API)
+**Progress note:** Done through printed p. 703. pp. 698-703 (batch API)
