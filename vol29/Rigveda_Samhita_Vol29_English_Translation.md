@@ -734,6 +734,212 @@ In the same way, in the Taittirīya Saṃhitā also,
 May the gods, mind-born, yoked by the mind, having Dakṣa himself as father, protect us.
 In the examples above it cannot be said precisely that the word Dakṣa is the designation of a particular individual. In 8-25-5 Mitra and Varuṇa are described not only as "powerful sons of Dakṣa" (सूनू दक्षस्य सुक्रतू (*sūnū dakṣasya sukratū*)) but also as "grandsons of strength" (नपाता शवसो महः (*napātā śavaso mahaḥ*)). The way in which Sāyaṇa has explained the mantra 6.50-2 has been stated above. In the Ṛk 7-66-2 quoted above he has explained दक्षपितारा (*dakṣapitārā*) as बलस्य पालकौ (*balasya pālakau*), protectors of strength. The epithets सहसस्पुत्रः (*sahasasputraḥ*) and सहसःसूनुः (*sahasaḥsūnuḥ*) and the like are used in some places with reference to Agni (8-49-2; 8-60-11 and so on) and in some places with reference to Indra (8.79-3 and so on).
 
+### Printed p. 40
+
+In the Śatapatha Brāhmaṇa, in the passage 2.4.4-2, the identity of Dakṣa with Prajāpati, the creator, is shown. In 2-4-4.6 it is stated to be the name of a person who was a son of the mountain. **NOTE**
+It will not be out of place at present to examine how Dakṣa is described in the Viṣṇu Purāṇa, which has expanded the story relying on these Vedic passages. Three variant readings are seen in the edition of this Viṣṇu Purāṇa. They may be examined one by one.
+(1) In the first version the account of the story is as follows:—Dakṣa is one of the mind-born sons of Brahmā. He marries a woman named Prasūti. By her he obtains twenty-four daughters. But it is not included that Aditi is one of them.
+(2) In the second version:—Aditi is one of the sixty daughters of Dakṣa; he gave her in marriage to Kaśyapa together with Diti, Danu and ten others; and then the twelve Ādityas were born to Kaśyapa from Aditi.
+(3) In the manner of the third narration:—it is known that Aditi is a daughter of Dakṣa and the mother of Vivasvat (the Sun). [That this same Aditi is the wife of Kaśyapa and the mother of Viṣṇu who took the Vāmana incarnation is known from a context in the Rāmāyaṇa (here too there are variant readings).]
+In the Vājasaneyi Saṃhitā (Vā. Saṃ. 29-60) and in the Taittirīya Saṃhitā (Tai. Saṃ. 7-5-14-1) Aditi is stated to be the wife of Viṣṇu. (आदित्यै विष्णुपत्नै चरुः (*ādityai viṣṇupatnai caruḥ*)) In the following mantra quoted from the Taittirīya Saṃhitā also the description of the nature of Aditi is as follows.
+विष्टंभो दिवो धरुणः पृथिव्या अस्येशाना जगतो विष्णु पत्नि । विश्वव्यचा इषयंती सुभूतिः शिवा नो अस्त्वदितिरुपस्थे ॥ (*viṣṭaṃbho divo dharuṇaḥ pṛthivyā asyeśānā jagato viṣṇu patni | viśvavyacā iṣayaṃtī subhūtiḥ śivā no astvaditirupasthe ‖*)
+Aditi, who is as a support to the world of heaven, the upholder of the earth, the mistress of the whole world, the wife of Viṣṇu, all-pervading, endowed with power, may she bring welfare to us who rest in her lap.
+In all these contexts it is clear that Aditi is the chief cause of the creation of the world and of its sustenance.
+
+### Printed p. 41
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदि॑ति॒र्ह्यज॑निष्ट॒ दक्ष॒ या दु॑हि॒ता तव॑ ।  
+> तां दे॒वा अन्व॑जायंत भ॒द्रा अ॒मृत॑बंधवः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदितिः । हि । अजनिष्ट । दक्ष । या । दुहिता । तव ।  
+> तां । देवाः । अनु । अजायंत । भद्राः । अमृतबंथवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदितिदेवताके पशावदितिर्ह्यजनिष्टेत्येषा हविषोऽनुवाक्या । सूत्रितं च ।
+> अदितिर्ह्यजनिष्प सुत्रामाणं पृथिवीं द्यामनेहसं ॥ आ. ३-८ ॥ इति ॥
+> हे दक्ष तव या दुहिताभूत् सादितिरजनिष्ट हि पुत्रानादित्यान् । तदेवाह ।
+> तां देवा अन्वजायंत भद्राः स्तुत्या भजनीया अमृतबंधवोऽमरणबंधनाः ॥१॥
+
+##### Gist of the bhāṣya
+
+In the animal sacrifice (paśu) addressed to Aditi, this verse is the anuvākyā (invitatory) of the oblation; the Sūtra says so: अदितिर्ह्यजनिष्प सुत्रामाणं पृथिवीं द्यामनेहसं (*aditirhyajaniṣpa sutrāmāṇaṃ pṛthivīṃ dyāmanehasaṃ*) (Ā. 3-8). Sāyaṇa explains: O Dakṣa, she who was your daughter, that Aditi bore sons, the Ādityas. He says the same again: after her the gods were born, भद्राः (*bhadrāḥ*), that is, praiseworthy and worthy to be served, अमृतबंधवः (*amṛtabaṃdhavaḥ*), that is, those whose bonds are not those of death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्ष (*dakṣa*)—O Dakṣa, divine one
+- या (*yā*)—who
+- तव (*tava*)—to you
+- दुहिता (*duhitā*)—daughter, such
+- अदिति: (*aditi:*)—Aditi
+- अजनिष्ट हि (*ajaniṣṭa hi*)—bore sons, the Ādityas and others
+- तां अनु (*tāṃ anu*)—following her
+- भद्राः (*bhadrāḥ*)—auspicious
+- अमृतबंधवः (*amṛtabaṃdhavaḥ*)—free from the bond in the form of death
+- देवाः (*devāḥ*)—other gods
+- अजायंत (*ajāyaṃta*)—were born
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Dakṣa, your daughter Aditi bore sons, the Ādityas and others. After her were born other gods, auspicious and free from the bond in the form of death.
+
+##### English translation
+Aditi, who was your daughter, Daksha, was born; after her the gods were born adorable, freed from the bonds of death.
+
+### Printed p. 42
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्दे॑वा अ॒दः स॑लि॒ले सुसं॑रब्धा॒ अति॑ष्ठत ।  
+> अत्रा॑ वो॒ नृत्य॑तामित ती॒व्रो रे॒णुरपा॑यत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । देवाः । अदः । सलिले । सुसंरब्धाः । अतिष्ठत ।  
+> अत्र । वः । नृत्यतां इव । तीव्रः । रेणुः : अप । आयत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयोत्तरेण चादित्याः स्तूयंते । यद्यदा हे देवाः अदोऽमुष्मिन्सलिले यूयं सुसंरब्धाः सुष्टु लब्धात्मानोऽतिष्ठत स्थितवंतः ! आपो वा इदं
+> सर्वं । तै. आ. १०.२२ । अप एव ससर्जादाविति श्रुतिस्मृती । अत्रास्मिन्सलिले नृत्यतामिव
+> वो युष्माकं संबंधी तीव्रो दुःसहो रेणुरंशभूत एकोपायत । अपागच्छत् । दिवं प्रति गत इति सूर्याभिप्रायं । परा मार्तांडमास्यदिति वक्ष्यति ॥
+
+##### Gist of the bhāṣya
+
+By this verse and the one that follows, the Ādityas are praised. यत् (*yat*) means "when": O gods, when you stood in that water, सुसंरब्धाः (*susaṃrabdhāḥ*), that is, well established, having well obtained your own being. The Śruti and Smṛti say: आपो वा इदं सर्वं (*āpo vā idaṃ sarvaṃ*) (Tai. Ā. 10.22) and अप एव ससर्जादाविति (*apa eva sasarjādāviti*), that is, in the beginning he created the waters only. Here, in this water, a fierce, hard to endure dust, belonging to you as if you were dancing, being a part (of you), went forth; it went away, went towards the sky; this has the Sun in view. He will say further that the Sun was cast away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- यत् (*yat*)—when
+- अदः सलिले (*adaḥ salile*)—in this pool
+- सुसंरब्धाः (*susaṃrabdhāḥ*)—having an excellent mind
+- अतिष्ठत (*atiṣṭhata*)—you stood, then
+- अत्र (*atra*)—in this same pool
+- नृत्यतांइव (*nṛtyatāṃiva*)—as if you were dancing
+- वः (*vaḥ*)—belonging to you
+- तीव्रः (*tīvraḥ*)—and sharp
+- रेणुः (*reṇuḥ*)—a part of radiance
+- अपायत (*apāyata*)—arose
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, when you stood in this pool having an excellent mind, then in this same pool, as if you were dancing, a part of radiance belonging to you, and sharp, arose.
+
+##### English translation
+When, gods, you abode in this pool well-arranged, then a pungent dust went forth from you as if you were dancing.
+
+### Printed p. 43
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्दे॑वा॒ यत॑यो यथा॒ भुव॑ना॒न्यपि॑न्वत ।  
+> अत्रा॑ समु॒द्र आ गू॒ळ्हमा सूर्य॑मजभर्तन ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । देवाः । यतयः । यथा । भुवनानि । अपिन्वत ।  
+> अत्र । समुद्रे । आ । गूळ्हं । आ । सूर्यं । अजभर्तन ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा हे देवाः यतयो यथा । वृष्ट्वा नियमयंतीति वा वर्षणेन
+> यातयंतीति वा यतयो मेघाः । ते यथोदकैर्भुवनानि लोकं पूरयंति
+> तद्वत्स्वतेजोभिरपिन्वत । पूरितवंतः । अत्र समुद्रेऽप्स्वा गूळं निगूळं सूर्यं
+> प्रातरुदयायाजभर्तन । आहृतवंतः ॥
+
+##### Gist of the bhāṣya
+
+यत् (*yat*) means "when": O gods, like यतयः (*yatayaḥ*). The यतयः (*yatayaḥ*) are the clouds, either because after raining they restrain (the world), or because they cause it to strive by raining. As they fill the worlds, the earth, with waters, so you filled the worlds with your own radiance. Here, in the ocean, that is, in the waters, you brought the Sun, hidden and concealed, for the sake of his rising in the morning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- यत् (*yat*)—when
+- भुवनानि (*bhuvanāni*)—the worlds
+- यतयोयथा (*yatayoyathā*)—as clouds fill with rain
+- अपिन्वत (*apinvata*)—when you filled these worlds with your radiance, then
+- अत्रसमुद्रे (*atrasamudre*)—in this mass of water
+- आ गूळं (*ā gūḷaṃ*)—hidden, concealed
+- सूर्यं (*sūryaṃ*)—the Sun
+- अ अजभर्तन (*a ajabhartana*)—you brought out and made him shine
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, when you filled these worlds with your radiance as clouds fill the worlds with rain, then you brought out and made shine the Sun hidden in this mass of water.
+
+##### English translation
+When, gods, you filled the worlds (with your radiance) as clouds (fill the earth with rain), then you brought forth the sun hidden in the ocean.
+
+### Printed p. 44
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ष्टौ पु॒त्रासो॒ अदि॑ते॒र्ये जा॒तास्त॒न्व१॒ं॑स्परि॑ ।  
+> दे॒वा उप॒ प्रैत्स॒प्तभिः॒ परा॑ मार्तां॒डमा॑स्यत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अष्टौ । पुत्रासः । आदितेः । ये । जाताः । तन्वः । परि ।  
+> देवान् । उप । प्र । ऐत् । सप्तभिः । परा । मार्तांडं । अस्यत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अष्टौ पुत्रासः पुत्रा मित्रादयोऽदितेर्भवंति येऽदितेस्तन्वः परि शरीराज्ञाता उत्पन्नाः । अदितेरष्टौ पुत्रा अध्वर्युब्राह्मणे परिगणिताः । तथा हि । ताननुक्रमिष्यामो मित्रश्च वरुणश्च धाता चार्यमा चांशश्च भगश्च विवस्वानादित्यश्चेति ।
+> तथा तत्त्रैव प्रदेशांतरेऽदितिं प्रस्तुत्याम्नातं । तस्या उच्चेषणमददुस्तत्पाश्नात्
+> सा रेतोऽधत्त तस्यॆ चत्वार आदित्या अजायंत सा द्वितीयमपचदित्यष्टानामादित्यानामुत्पत्तिर्वणीता । तै. सं. ६-५-६-१ । सादितिः सप्तभिः पुत्रैर्देवानुप
+> प्रैत् । उपागच्छत् । अष्टमं पुत्रं मार्तांडं सूर्यं परास्यत् । उपरि प्राक्षिपदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+अष्टौ पुत्रासः (*aṣṭau putrāsaḥ*): the eight sons, Mitra and the others, who were born तन्वः परि (*tanvaḥ pari*), from the body of Aditi. The eight sons of Aditi are counted in the Adhvaryu Brāhmaṇa; it is so: "We shall enumerate them: Mitra, Varuṇa, Dhātā, Aryamā, Aṃśa, Bhaga, Vivasvān and Āditya." Likewise in another place in the same (work), speaking of Aditi, it is recited: तस्या उच्चेषणमददुस्तत्पाश्नात् सा रेतोऽधत्त तस्यॆ चत्वार आदित्या अजायंत (*tasyā ucceṣaṇamadadustatpāśnāt sā reto 'dhatta tasyè catvāra ādityā ajāyaṃta*) (Tai. Saṃ. 6-5-6-1) **GLOSS** Thus the origin of the eight Ādityas is described. That Aditi approached the gods with seven sons; the eighth son, Mārtāṇḍa, the Sun, she cast away, that is, threw upward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those gods, Mitra and the others
+- अदितेः (*aditeḥ*)—of Aditi
+- तन्वः परि (*tanvaḥ pari*)—from the body
+- जाताः (*jātāḥ*)—who were born, such
+- पुत्रासः (*putrāsaḥ*)—the sons of Aditi
+- अष्टौ (*aṣṭau*)—eight in number
+- सप्तभिः पुत्रैः (*saptabhiḥ putraiḥ*)—with seven sons among them
+- देवान् (*devān*)—to the gods
+- उप प्रैत् (*upa prait*)—went and approached
+- मार्तांडं (*mārtāṃḍaṃ*)—the Sun
+- परास्यत् (*parāsyat*)—threw to the upper region (established in the atmosphere)
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, Mitra and the others, who were born from the body of Aditi, are such sons of Aditi, eight in number. With seven sons among them she approached the gods; the Sun she sent upward and established in the atmosphere. **NOTE**
+
+### Printed p. 45
+
+##### English translation
+Eight sons (there were) of Aditi who were born from her body; she approached the gods with seven, she sent forth Martanda on high.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next it is said that Aditi has eight sons. In some places seven are mentioned. Although there is a custom of calling them collectively Ādityas, all of them have separate names. Of these, the matter of Mitra, Varuṇa and Aryamā will be explained first, and afterwards such matters as how many Ādityas there are and how they were born will be examined.
+Although these three deities, Mitra, Varuṇa and Aryamā, are conceived as separate deities, it seems that they are described here as many forms of the Sun, that is, as part-deities bearing these names among the twelve Ādityas. Besides, in some places it is said that these three deities are other forms of Agni:
+त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्धः । (*tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddhaḥ |*) (Ṛ. Saṃ. 5-3-1)
+त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन् गुह्यं बिभर्षि ॥ (*tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvan guhyaṃ bibharṣi ‖*) (Ṛ. Saṃ. 5-3-2)
+In these Ṛks it is said that when Agni is born he is called Varuṇa, when he is well kindled and blazing he is called Mitra, and in the homas and the like connected with a maiden he is called Aryamā; Agni has these three names. Besides, in the Taittirīya Brāhmaṇa:—
+मित्रोऽसि वरुणोऽसीत्याह । मैत्रं ना अहः। वारुणी रात्रिः। अहोरात्राभ्यामेवैनमुपावहरति ॥ (*mitro 'si varuṇo 'sītyāha | maitraṃ nā ahaḥ| vāruṇī rātriḥ| ahorātrābhyāmevainamupāvaharati ‖*) (Tai. Brā. 1-7-10-1)
+it is said that Mitra is the lord of the day and Varuṇa the lord of the night. Therefore it should be noted that these three deities are said in some places to be part-deities of the Sun and in some places different names of Agni.
+In the Purāṇas and elsewhere Mitra is one of the twelve Ādityas. Although in the Ṛgveda Mitra is another name of the Sun, Mitra has a distinct individuality, that is, a personal importance. In the Ṛgveda Mitra, Varuṇa and Aryamā are said to be sons of Aditi. Therefore in many places they are called Ādityas. These Ādityas, that is, the sons of Aditi, being six in number—
+
 ---
 
-**Progress note:** Done through printed p. 39. Aditi discussion and creation order of sukta 72, pp. 33-39
+**Progress note:** Done through printed p. 45. Dakṣa/Aditi in Viṣṇu Purāṇa; Ṛks 72.5-8; Special Topics on Ādityas begins
