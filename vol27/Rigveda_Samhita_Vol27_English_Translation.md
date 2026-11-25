@@ -10312,6 +10312,204 @@ First, the root द्रु (*dru*), meaning "to move", together with the two p
 तयोर्विभागस्तत्रेतिहासमाचक्षते । देवापिश्चार्ष्टषेणः शंतनुश्च कौरव्या भ्रातरा बभूवतुः । स शंतनुः कनीयानभिषेजचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो जेष्ठंभ्रातरमंतरित्याभिषॆचितं तस्मा त्ते देवो न वर्षतीति । स शंतनुदेवापिं शिशिक्ष राज्येन । तमुनाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति तस्यैतद्वर्षकामसूक्तंतस्येषा भवति ॥ (*tayorvibhāgastatretihāsamācakṣate | devāpiścārṣṭaṣeṇaḥ śaṃtanuśca kauravyā bhrātarā babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣejacayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jeṣṭhaṃbhrātaramaṃtarityābhiṣècitaṃ tasmā tte devo na varṣatīti | sa śaṃtanudevāpiṃ śiśikṣa rājyena | tamunāca devāpiḥ purohitaste 'sāni yājayāni ca tveti tasyaitadvarṣakāmasūktaṃtasyeṣā bhavati ‖*)
 Of Devāpi and Śantanu, the two Kuru-line sons of Ṛṣṭiṣeṇa, the younger, Śantanu, had himself consecrated and became king of that realm. Devāpi went to the forest to practise austerities. Thereafter, for twelve years no rain fell in Śantanu's kingdom. The Brāhmaṇas then said to Śantanu: "Having sent your elder brother to the forest and become king yourself, you have committed a sinful act. Therefore the rain-god does not rain in your kingdom." Then, when Śantanu tried to have Devāpi consecrated king, Devāpi said, "I shall be your priest and perform the sacrifice for you," and he had the sacrifice performed for rain. Afterwards rain fell from the ocean in the upper region into the ocean in the lower region; thus showing the difference between the two oceans,
 
+### Printed p. 264
+Quoting this Ṛk, अर्ष्पिषेणो होत्रमृषिर्निषीदन् देवापिर्देवसुमतिं चिकित्वान् । स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि । (*arṣpiṣeṇo hotramṛṣirniṣīdan devāpirdevasumatiṃ cikitvān | sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi |*) (Ṛ. Saṃ. 10-98-5), they have shown the difference between the upper sea and the lower sea. Here "upper sea" means the atmosphere, and "lower sea" means the terrestrial sea.
+
+In the Ṛksaṃhitā the word *samudra* ("sea") can in some places be said definitely to mean the terrestrial sea. But in Ṛks such as यथा वातो यथा वनं यथा समुद्र विजति (*yathā vāto yathā vanaṃ yathā samudra vijati*) (Ṛ. Saṃ. 5-78-8) it is hard to say whether it means the atmosphere or the terrestrial sea.
+
+In अग्निं विश्वा अभि पृक्षः सचंते समुद्रं न स्रवतः सप्त यह्वीः (*agniṃ viśvā abhi pṛkṣaḥ sacaṃte samudraṃ na sravataḥ sapta yahvīḥ*) (Ṛ. Saṃ. 1-71-7), in सं यं स्तुभोऽवनयो न यंति समुद्रं न स्रवतो रोधचक्राः (*saṃ yaṃ stubho 'vanayo na yaṃti samudraṃ na sravato rodhacakrāḥ*) (Ṛ. Saṃ. 1-190 7), and in या आपो दिव्या उत वा स्रवंति खनित्रिमा उत वा याः स्वयंजाः । समुद्रार्था याः शुचयः पावकास्ता आपो देवीरिह मामवंतु । (*yā āpo divyā uta vā sravaṃti khanitrimā uta vā yāḥ svayaṃjāḥ | samudrārthā yāḥ śucayaḥ pāvakāstā āpo devīriha māmavaṃtu |*) (Ṛ. Saṃ. 7-49-2) — in these and many other Ṛks it can be said with certainty that the terrestrial sea is meant. In some places the word is used as an adjective and gives the sense "flowing".
+
+In the Ṛk अद्भर्याति वरुणः समुद्रैयुष्मा इच्छंतः शवसो नपातः (*adbharyāti varuṇaḥ samudraiyuṣmā icchaṃtaḥ śavaso napātaḥ*) (Ṛ. Saṃ. 1-160-4), समुद्रैः (*samudraiḥ*) means "with waters whose nature is to flow". In this way the meaning must be made out according to the context.
+
+भूरिजन्मा (*bhūrijanmā*)—Agni who has many births. Many sacrificers, each in his own many sacrifices, kindle Agni separately in the fire-sticks (araṇi) and install him in the Āhavanīya and other places. Since Agni is produced afresh in many sacrifices, it is natural to call him *bhūrijanmā*, "of many births".
+
+एकः (*ekaḥ*)—without a helper: one who has the power to accomplish any task by himself, without needing another's help.
+
+### Printed p. 265
+अस्मत् हृदः वि चष्टे (*asmat hṛdaḥ vi caṣṭe*)—He knows the desires in our hearts. This Agni knows the wishes in the heart, that is the mind, of us who sacrifice or praise. No one can know what is in another's mind; but Agni has the power to know what is in another's mind.
+
+निण्योः उपस्थे ऊधः सिषक्ति (*niṇyoḥ upasthe ūdhaḥ siṣakti*)—Two kinds of meaning have been explained for this sentence. (1) He serves, that is approaches, the night near morning and evening, which are covered with light and with darkness. At morning there is light; at evening there is darkness. The night is related to both: at the beginning of the night is the evening with darkness, at the end of the night the morning with light. Therefore the intention is that Agni shines in the night, which is connected with both evening and morning. This is one meaning. (2) निण्योः (*niṇyoḥ*) means "of the hidden atmosphere". The other meaning is that Agni shines in the cloud in this atmosphere in the form of lightning-fire.
+
+उत्सस्य मध्ये निहितं पदं वेकि (*utsasya madhye nihitaṃ padaṃ veki*)—Two kinds of meaning can be given for this sentence also. The intention is: go to the place called Mādhyamikā Vāk, situated in the middle of the world that holds the water, in the place of water or the atmosphere; or go to the place of lightning-fire, your own very form, in the middle of the cloud filled with water.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नं नी॒ळं वृष॑णो॒ वसा॑नाः॒ सं ज॑ग्मिरे महि॒षा अर्व॑तीभिः ॥  
+> ऋ॒तस्य॑ प॒दं क॒वयो॒ नि पां॑ति॒ गुहा॒ नामा॑नि दधिरे॒ परा॑णि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानं । नीळं । वृषणः । वसानाः । सं । जग्मिरे । महिषाः । आर्वतीभिः ॥  
+> ऋतस्य । पदं । कवयः । नि । पांति । गुहा । नामानि । दधिरे । पराणि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषण आहुतीनां सेक्तारः समानमेकं नीळं स्थानमुग्निं वसाना मंत्रत
+> आच्छादयंतो महिषा महांतो यजमाना अर्वतीभिर्वडनाभिः सु जग्मिरे !
+
+##### Gist of the bhāṣya
+
+The showerers of oblations (वृषणः (*vṛṣaṇaḥ*)), covering with mantras the one common abode, Agni (समानं नीळं (*samānaṃ nīḷaṃ*)), the great ones, the sacrificers, have come together (सं जग्मिरे (*saṃ jagmire*)) with mares**NOTE**; that is, they became possessed of horses.
+
+### Printed p. 266
+
+> समगच्छंत । अश्ववंतोऽभूवन् । यद्वा । अग्निमेवात्मीययज्ञं प्रत्यागंतुं
+> रोहिदाख्याभिर्नडनाभिः संयोजितवंतः । तथा कवयो मेधाविन ऋतस्योदकस्य
+> पदमावासस्थानमग्निं नि पांति । नितरां रक्षंति । हविर्भिः स्तुतिभिश्चाराधयंतीत्यर्थः ।
+> ततो गुहा गुहायामंतरिक्षे स्थितानि दिव्यानि नामान्न्युदकानि दधिरे । धारयंति ।
+> यद्वा । गुहा गूढे संवृते हृदये पराणि प्रधानान्यग्निर्जातवेदा वैश्वानर इत्या
+> दीनि नामानि दधिरे । कुर्वंति । स्तुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+(Continuing.) Or else: they yoked Agni himself, so that he should come to their own sacrifice, with mares called Rohit. Likewise the sages (कवयः (*kavayaḥ*)), the wise, guard well the dwelling-place of the water (ऋतस्य (*ṛtasya*)), Agni; they worship him with oblations and praises. Then they hold the divine waters situated in the cave, that is in the atmosphere. Or else: in the hidden, covered heart they make the chief names, such as Agni, Jātavedas, Vaiśvānara; that is, they praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणः (*vṛṣaṇaḥ*)—those who offer oblations
+- समानं (*samānaṃ*)—common to all
+- नीळं (*nīḷaṃ*)—Agni, the place of worship
+- वसानाः (*vasānāḥ*)—those who cover (him) with mantras
+- महिषाः (*mahiṣāḥ*)—the great ones, the sacrificers
+- अर्वतीभिः (*arvatībhiḥ*)—with horses
+- सं जग्मिरे (*saṃ jagmire*)—have yoked
+- कवयः (*kavayaḥ*)—the wise
+- यतस्य (*yatasya*)—of the water
+- पदं (*padaṃ*)—the place
+- नि पांति (*ni pāṃti*)—protect
+- गुहा (*guhā*)—meditated upon in their hidden heart
+- पराणि नामानि (*parāṇi nāmāni*)—the excellent names of Agni
+- दधिरे (*dadhire*)—have borne
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, who offer oblations, who cover with mantras Agni, the place of worship common to all, and who are great, have yoked Agni with horses, that he may come to their sacrifice. The wise protect the place of the water. They have borne the excellent names of Agni, who is meditated upon in their hidden heart.
+
+##### English translation
+Great (worshippers), showerers (of oblations) enveloping with their hymns the common dark (fire), have associated (him) with his horses (to the sacrifice). Sages, preserve (by oblations) the place of the water and support the divine rains in the vault (of heaven).
+
+##### विशेषविषयगळु (Special Topics)
+
+वृषणः समानं नीळं वसानाः महिषाः अर्वतीभिः सं जग्मिरे (*vṛṣaṇaḥ samānaṃ nīḷaṃ vasānāḥ mahiṣāḥ arvatībhiḥ saṃ jagmire*)—The Bhāṣyakāra has explained this sentence in two ways. The excellent sacrificers, who offer oblations to Agni and who cover Agni with mantras, that is, praise him, became endowed with horses; that is, by Agni's grace they obtained horses. Or else, so that Agni might come to their place of sacrifice, they yoked Agni's chariot with Agni's horses called Rohita; this is also the meaning.
+
+### Printed p. 267
+ऋतस्य पदं कवयः नि पांति (*ṛtasya padaṃ kavayaḥ ni pāṃti*)—The wise priests guard well Agni, who is the dwelling-place of the water, that is, who had taken refuge in the water; that is, they worship Agni specially with offerings of oblations and recitations of hymns.
+
+गुहा नामानि दधिरे पराणि (*guhā nāmāni dadhire parāṇi*)—They hold the divine, that is heavenly, water that is in the atmosphere. Or else it can be explained thus: in the inner depth of the heart, a hidden region, they meditate upon and praise the various names of Agni, such as Jātavedas, Vaiśvānara and the like.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ता॒यिनी॑ मा॒यिनी॒ सं द॑धाते मि॒त्वा शिशुं॑ जज्ञतुर्व॒र्धयं॑ती ॥  
+> विश्व॑स्य॒ नाभिं॒ चर॑तो ध्रु॒वस्य॑ क॒वेश्चि॒तंतुं॒ मन॑सा वि॒यिंतः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतयिनी इत्यृतयिनी । मायिनी इति । सं । दधाते इति । मित्वा : शिशुं ।  
+> जज्ञतुः । वर्धयंती इति ॥  
+> विश्वस्य । नाभिं । चरतः । ध्रुवस्य । कवेः । चित् । तंतुं । मनसा । वियंतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतायिनी ऋतवत्यौ सत्यवत्यौ आत एव मायिनी । प्रज्ञावत्यौ कर्मयुक्ते
+> ना द्यावापृथिव्यौ यज्ञसाधनभूते अरणिः वेममग्निं सं दधाते । सम्यग्धारयतः ।
+> अग्निं सूर्यात्मना केवलाग्न्यात्मना ना सं दधाते । मित्वा कालपरिमाणं कृत्वा
+> यद्वा संपरिच्छिद्य शिशुं शंसनीयं बालमग्निं जज्जतुः । जनयतः । वर्धयंती
+> वर्धयंत्र्यौ द्यावापृथिव्यौ लोके यथा परिच्छेदाय पुत्रं पितरौ जनयतस्तद्वत् ।
+> ततो विश्वस्य सर्वस्य चरतो जंगमस्य ध्रुवस्य स्थावरस्य च जगतो नाभिं नाभिभूतं
+> मध्यं प्रधानभूतं वा कवेर्मेधाविनोऽग्नेस्तंतुं तनितारं वैश्वानराख्यमंशमेव मनसा वियंतो विविधं गच्छंतो मनुष्याः सुखेन युज्यंत इति शेषः ।
+> तं वयं यजाम इति ॥
+
+##### Gist of the bhāṣya
+
+ऋतायिनी (*ṛtāyinī*): the two possessing truth; hence मायिनी (*māyinī*): the two possessing wisdom, joined with action. Heaven and earth, the two means of the sacrifice**NOTE**, hold Agni well (सं दधाते (*saṃ dadhāte*)); they hold Agni in the form of the sun and in the form of simple fire. मित्वा (*mitvā*): having made a measure of time (or: having delimited). The two beget (जज्ञतुः (*jajñatuḥ*)) the child (शिशुं (*śiśuṃ*)), the praiseworthy young Agni, and make him grow (वर्धयंती (*vardhayaṃtī*): the two who cause to grow), as in the world parents beget a son for a defined purpose. Then the navel (नाभिं (*nābhiṃ*)) of all the world, the moving (चरतः (*carataḥ*)) and the fixed (ध्रुवस्य (*dhruvasya*)), that is, its centre or its chief part; the thread (तंतुं (*taṃtuṃ*)), the spreader, of the wise Agni, that part named Vaiśvānara — men, going variously (वियंतः (*viyaṃtaḥ*)) with the mind towards it, are joined with happiness (this is the word to be supplied). "We worship him."
+
+### Printed p. 268
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतायिनी (*ṛtāyinī*)—possessing truth
+- मायिनी (*māyinī*)—and endowed with wisdom; heaven and earth
+- सं दधाते (*saṃ dadhāte*)—have borne Agni
+- मित्वा (*mitvā*)—as those who measure time
+- शिशुं (*śiśuṃ*)—Agni, in the form of a son
+- जज्जतुः वर्धयंती (*jajjatuḥ vardhayaṃtī*)—have brought him forth and have made him grow (or: having made him grow, have brought him forth)
+- विश्वस्य (*viśvasya*)—of the whole
+- चरतः (*carataḥ*)—to the world of the moving
+- ध्रुवस्य चित् (*dhruvasya cit*)—to the stable universe also
+- नाभिं (*nābhiṃ*)—the navel
+- कवेः (*kaveḥ*)—of the wise Agni
+- तंतुं (*taṃtuṃ*)—the part named Vaiśvānara
+- मनसा (*manasā*)—in the mind itself
+- वियंतः (*viyaṃtaḥ*)—meditating (let us worship him)
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth, possessing truth and endowed with wisdom, have borne Agni in their midst. They, who measure time, have brought forth Agni in the form of a son and raised him. Meditating in the mind itself upon that part named Vaiśvānara of the wise Agni, who is the navel of the whole world, moving and unmoving, let us worship him.
+
+##### English translation
+The two observers of the truth, the two possessors of wisdom, (heaven and earth) sustain (this Agni) ; measuring the time. they have brought forth and reared a son ; and (men), pondering in their minds on that navel of the universe, movable and immovable, the thread of the sage (Agni, are blessed with happiness).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॒ हि व॑र्त॒नयः॒ सुजा॑त॒मिषो॒ वाजा॑यि प्र॒दिवः॒ सचं॑ते ॥  
+> अ॒धी॒वा॒सं रोद॑सी वावसा॒ने घृ॒तैरन्नै॑र्वावृधाते॒  ॑
+> मधूनां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । हि । वर्तनयः । सुजातं । इषः । वाजाय । प्रदिवः । सचंते ॥  
+> अधीवासं । रोदसी इति । ववसाने इति । पृथैः । अन्नैः । पवृधाते इति । मधूनां ।
+
+### Printed p. 269
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य यज्ञस्य वर्तनयः प्रवर्तका इषोऽभिलषितानीच्छंतः प्रदिवः पुरातना ऋत्विग्यजमानाः सुजातमाधानकाले सुषूत्पन्नमग्निं वाजाय बलार्थमन्नार्थं वा सचंते हि । सेवंते खलु । अपि च वावसाने सर्वस्य जगत अच्चादयित्र्यौ
+> रोदसी द्यावापृथिव्यावधीनासमोषधिनक्षत्राद्यात्मना निवसंतं । यद्वा । अधिरुपर्यर्थे ' त्रयाणां लोकानामुपर्यग्निविद्युदादित्यात्मना निवसंतं । अग्निं
+> मधूनामुवकानां जन्मत्तेन संबंधिभिर्घृतैरन्नॆः पुरोडाशादिभिश्च वावृधाते ।
+> वर्धयां चक्रतुः । वर्धयतः । तस्माद्वयमपि तमग्निमभिष्टुम इत्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+ऋतस्य (*ṛtasya*) means of the sacrifice. The ancient priests and sacrificers (प्रदिवः (*pradivaḥ*)), who are the promoters (वर्तनयः (*vartanayaḥ*)) of the sacrifice and desire (इषः (*iṣaḥ*)) their wishes, serve (सचंते हि (*sacaṃte hi*)) Agni, well-born (सुजातं (*sujātaṃ*)), produced well at the time of installation, for strength or for food (वाजाय (*vājāya*)). Moreover heaven and earth (रोदसी (*rodasī*)), who enclose the whole world (वावसाने (*vāvasāne*)), cause him who dwells**NOTE** to grow. Or else, taking अधि (*adhi*) in the sense of "above": him who dwells above the three worlds as fire, lightning and sun, Agni. They cause him to grow (वावृधाते (*vāvṛdhāte*)) with ghee and with food such as the puroḍāśa, connected with the waters (मधूनां (*madhūnāṃ*)). Therefore we too praise that Agni; such is the intention.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—to the sacrifice
+- वर्तनयः (*vartanayaḥ*)—promoters
+- इषः (*iṣaḥ*)—desirers of food
+- प्रदिवः (*pradivaḥ*)—and ancient; the priests and sacrificers
+- सुजातं (*sujātaṃ*)—Agni, who has an excellent birth
+- वाजाय (*vājāya*)—for the gain of food
+- सचंते हि (*sacaṃte hi*)—serve
+- वावसाने (*vāvasāne*)—enclosing the whole world
+- रोदसी (*rodasī*)—heaven and earth (printed द्याव्यापृथिविगळु (*dyāvyāpṛthivigaḷu*))
+- अधीनासं (*adhīnāsaṃ*)—Agni, who has variety of forms in the three worlds
+- मधूनां (*madhūnāṃ*)—which are causes of water
+- धृतैः (*dhṛtaiḥ*)—with oblations of ghee
+- अन्नैः (*annaiḥ*)—with puroḍāśa and the like
+- वावृधाते (*vāvṛdhāte*)—make him grow
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient priests and sacrificers, who are promoters of the sacrifice and desirers of food, serve Agni, who has an excellent birth, for the gain of food. Heaven and earth, who enclose the whole world, make him grow, Agni who pervades the three worlds with variety of forms, with oblations of ghee, which are causes of water, and with foods such as the puroḍāśa.
+
+##### English translation
+The ancient celebrators of the rite desiring (boons) wait on (Agni) rightly born, for the sake of food : the all-comprising heaven and earth cherish him, who abides above the heavens, with the sacrificial butter and food (produced) from the water.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त स्वस्व॒ररु॑षीर्वावशा॒नो वि॒द्वान्मध्व॒ उज्ज॑भारा दृ॒शे कं ॥  
+> अं॒तर्ये॑मे अं॒तरि॑क्षे पुरा॒जा इ॒च्छन्व॒विम॑विदत्तूष॒णस्य॑ ॥
+
 ---
 
-**Progress note:** Done through printed p. 263. pp. 258-263 (batch API)
+**Progress note:** Done through printed p. 269. pp. 264-269 (batch API)
