@@ -2767,6 +2767,255 @@ In whatever region the herbs come together, as kings gather in a battle, as they
 - रक्षोहा (*rakṣohā*)—is the destroyer of demons
 - अमीवचातनः (*amīvacātanaḥ*)—and the destroyer of disease
 
+### Printed p. 80
+
+##### भावार्थ (Bhāvārtha)
+
+Where the plants are gathered together, like kings assembled in one place in battle, there the wise physician is so called. That man is the destroyer of demons and the destroyer of disease.
+
+##### English translation
+Where, plants, you are congregated like princes (assembled) in battle there the sage is designated a physician, the destroyer of evil spirits, the extirpator of disease.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒श्वा॒व॒तीं सो॑माव॒तीमू॒र्जयं॑ती॒मुदो॑जसं ।  
+> आवि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्ववतीं । सोमवतीं । ऊर्जयंतीं । उत्ओजसं ।  
+> आ । अवित्सि । सर्वाः । ओषधीः । अस्मै । अरिष्टतातये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अश्वावत्यादयः प्रधानभूता ओषधयश्चतस्रः । ताः सर्वा ओषधीरावित्सि ।
+> आजाने । सौमीत्यर्थः । अस्मा अरिष्टतातये । आमुं रोगं विनाशयितुमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Aśvāvatī and the rest are four principal plants. "I praise all those plants": आवित्सि (*āvitsi*) means "I praise" (आजाने (*ājāne*)), that is, I address them with praise. अस्मा अरिष्टतातये (*asmā ariṣṭatātaye*) means: in order to destroy this आमुं (*āmuṃ*) disease.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वावतीं (*aśvāvatīṃ*)—that named Aśvāvatī
+- सोमवतीं (*somavatīṃ*)—that bearing the name Somavatī
+- ऊर्जयंतीं (*ūrjayaṃtīṃ*)—that named Ūrjayantī
+- उदोजसं (*udojasaṃ*)—that known as Udojas
+- सर्वा ओषधीः (*sarvā oṣadhīḥ*)—all (four) kinds of plants
+- अस्मै अरिष्टतातये (*asmai ariṣṭatātaye*)—for the destruction of this disease
+- आवित्सि (*āvitsi*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+I praise all (four kinds of) plants—that named Aśvāvatī, that named Somavatī, that named Ūrjayantī, and that known as Udojas—for the destruction of this disease.
+
+### Printed p. 81
+
+##### English translation
+The Ashwavathi, the Somavathi, the Urjayanti, the Udojasa—all these plants I praise for the purpose of overcoming this disease.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उच्चुष्मा॒ ओष॑धीनां॒ गावो॑ गो॒ष्ठादि॑वेरते ।  
+> धनं॑ सनि॒ष्यंती॑नामा॒त्मानं॒ तव॑ पूरुष ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । शुष्माः । ओषधीनां । गावः । गोस्थात् इव । ईरते ।  
+> धनं । सनिष्यंतीनां । आत्मानं । तव । पुरुष ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ओषधीनां शुष्मा बलान्युदीरते । उद्धच्छंति । रुग्ने स्ववीर्यं प्रोद्गमयंतीत्यर्थः । गावो गोष्ठादिव । ता यथा ततः सकाशादुदीरते तद्वत् । कीदृशीनामोषधीनां । उच्यते । धनं स्वसामर्थ्यलक्षणं सनिष्यंतीनां दातुमिच्छंतीनां।
+> किं प्रतीति :उच्यते । पूरुष पुरुष रोगग्रस्त तवात्मानं शरीरं प्रति । यद्वा!
+> प्ररोहंतीरोषधीर्दृष्ट्वा वदति । हे पुरुष प्रियंग्वाद्योषधिस्वामिन् तवात्मानं
+> वर्धयितुं धनं सनिष्यंतीनां व्रीह्याद्योषधीनां शुष्मा उदीरते ॥
+
+##### Gist of the bhāṣya
+
+The powers of the plants rise up; in the sick man they bring forth their own strength. "As cattle from the cattle-pen": as cattle come out from it, so these. Of what plants? Of those that wish to give wealth in the form of their own efficacy. Towards what? Towards you, sick man, towards your body. Or else: seeing the plants sprouting, he says: O man, master of the plants such as priyaṅgu, the powers of the plants such as rice, wishing to bring wealth, rise up to increase your body.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुष (*puruṣa*)—O sick man
+- गोष्ठात् (*goṣṭhāt*)—from the cattle-pen
+- गाव इव (*gāva iva*)—as cattle come out
+- धनं (*dhanaṃ*)—their wealth of sap
+- सनिष्यंतीनां (*saniṣyaṃtīnāṃ*)—wishing to provide
+- ओषधीनां (*oṣadhīnāṃ*)—of these plants
+- शुष्माः (*śuṣmāḥ*)—the powers
+- तव (*tava*)—your
+- आत्मानं (*ātmānaṃ*)—towards the body
+- उदीरते (*udīrate*)—come out, manifesting
+
+##### भावार्थ (Bhāvārtha)
+
+O sick man, like cattle coming out of the pen, the powers of these plants, wishing to provide their wealth of sap, come out manifest towards your body.
+
+### Printed p. 82
+
+##### English translation
+The virtues of the plants which are desirous of bestowing wealth issue from them, man, (towards) your body like cattle from the pen.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इष्कृ॑ति॒र्नाम॑ वो मा॒ताथो॑ यू॒यं स्थ॒ निष्कृ॑तीः ।  
+> सी॒राः प॑त॒त्रिणीः॑ स्तन॒ यदा॒मय॑ति॒ निष्कृ॑थ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इष्कृतिः । नाम । वः । माता । अथो इति । यूयं । स्थ । निःकृतीः ।  
+> सीराः । पतत्रिणीः । स्थन । यत् । आमयति । निः । कृथ ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधयः वो माता जननीष्कृतिर्नाम । सर्वेषां रुग्णानां निष्कर्तीति
+> प्रसिद्धा यस्मात्सा रुग्णं निष्करोति । अथातो यूयमपि निष्कृतीर्निष्कृतयः स्थ ।
+> भवथ । किंच यूयं सीराः सरणशीलाः पतत्रिणीः पतनवत्यश्च स्थन । भवथ ॥ तप्तनबिति
+> तनादेशः ॥ किंच पुरुषो यद्यद्यामयति व्याधितो भवति तं निष्कृथ । संस्कुरुथ ॥
+
+##### Gist of the bhāṣya
+
+O plants, your mother is called Iṣkṛti, famed as the one who cures all the sick, since she cures the sick. Therefore you too are Niṣkṛtis. Moreover you are moving (सीराः (*sīrāḥ*)) and able to fly (पतत्रिणीः (*patatriṇīḥ*)); स्थन (*sthana*) stands for "you are", by the substitution of तन (*tana*) for *taptanap*. And whenever a man falls ill, you cure him (निष्कृथ (*niṣkṛtha*): you restore him).**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O plants) वः (*vaḥ*)—your
+- माता (*mātā*)—mother
+- इष्कृतिः नाम (*iṣkṛtiḥ nāma*)—is famed as Iṣkṛti, because she removes all diseases
+- अथ (*atha*)—therefore
+- यूयं (*yūyaṃ*)—you also
+- निष्कृतीः स्थ (*niṣkṛtīḥ stha*)—for that very reason are famed as Niṣkṛtis
+- पतत्रिणीः (*patatriṇīḥ*)—able to fly
+- सीराः (*sīrāḥ*)—of moving nature
+- स्थन (*sthana*)—you are
+- यत् (*yat*)—if
+- आमयति (*āmayati*)—a man becomes ill
+- निष्कृथ (*niṣkṛtha*)—cure him
+
+##### भावार्थ (Bhāvārtha)
+
+O plants, your mother is famed as Iṣkṛti because she removes all diseases. Therefore you too, for this very reason, are famed as Niṣkṛtis. You are also able to fly. If a man is afflicted by disease, cure him.
+
+### Printed p. 83
+
+##### English translation
+Verily Ishkriti is your mother, therefore are you (also)Nishkritis; you are flying streams; if (aman) is ill you cure him.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॒ विश्वाः॑ परि॒ष्ठाः स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
+> ओष॑धीः॒ प्राचु॑च्यवु॒र्यत्किं च॑ त॒न्नो॒३॒॑३रपः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । विश्वाः ! परिसस्थाः । स्तेनः इव । व्रजं । अक्रमुः ।  
+> ओषधीः । प्र । अचुच्यवुः । यत् । किं । च । तन्वः । रपः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वा व्याप्ताः परिष्ठाः परितः स्थिता ओषधयोऽत्यक्रमुः । व्याधीनतिक्रांतवत्यः।
+> स्तेन इव व्रजं । यथा स्तेनो व्रजमत्यक्रमीत् तद्वत् । तथा कृत्वाषधीरोषधयः
+> प्राचुच्यवुः प्रच्यावयंति यत्किं च तन्नो रुग्णशरीरस्य रपः पापं व्याधिलक्षणमस्ति
+> तदिति ॥
+
+##### Gist of the bhāṣya
+
+The plants, pervading (विश्वा (*viśvā*)) and standing all around, have overcome the diseases, as a thief goes over a cow-pen. Having so done, the plants drive out whatever sin of the sick body, in the form of disease, there is.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तेनः (*stenaḥ*)—a thief
+- व्रजं इव (*vrajaṃ iva*)—as he enters the cow-pen and carries off all the cows
+- परिष्ठाः (*pariṣṭhāḥ*)—pervading all around
+- विश्वाः ओषधीः (*viśvāḥ oṣadhīḥ*)—all plants
+- अत्यक्रमुः (*atyakramuḥ*)—assail the disease
+- तन्वः (*tanvaḥ*)—of the body
+- यत्किं च रपः (*yatkiṃ ca rapaḥ*)—whatever fault there is
+- प्राचुच्यवुः (*prācucyavuḥ*)—drive out
+
+##### भावार्थ (Bhāvārtha)
+
+As a thief enters a cow-pen and carries off all the cows, all the plants pervading all around assail the disease and carry it off. Whatever fault of the body there is, they drive it out.
+
+##### English translation
+The universal all-pervading plants assail (diseases) as a thief (attacks) a cow-shed; they drive out whatever infirmity of body there may be.
+
+### Printed p. 84
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॒मा वा॒जय॑न्न॒हमोष॑धी॒र्हस्त॑ आद॒धे ।  
+> आ॒त्मा यक्ष॑स्य नश्यति पु॒रा जी॑व॒गृभो॑ यथा ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इमाः । नाजयन् । अहं । ओषधीः । हस्ते । आदधे ।  
+> आत्मा । यक्षस्य । नश्यति । पुरा । जीवगृभः । यथा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं यद्यदीमा ओषधीर्हस्त आदधे आधारयामि । किं कुर्वन् । वाजयन्
+> रुग्णं बलिनं कुर्वन्। ततः पुरा यक्षस्य रोगस्यात्मा नश्यति नष्टो भवति जीवगृभो
+> यथा । जीवानां शकुनादीनां ग्राहकाद्व्याधाद्यथा जीवा नश्यंति तद्वत् । यद्वा।
+> जीवगृभो मृत्योः सकाशाज्जीवोऽपह्रियते । तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+If I hold these plants in my hand, making the sick man strong (वाजयन् (*vājayan*)), then before that the self of the यक्ष (*yakṣa*) disease perishes, as living creatures perish before the जीवगृभ (*jīvagṛbha*), the hunter who seizes living things such as birds. Or else: as life is carried off from the presence of death, the seizer of life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जीवगृभो यथा (*jīvagṛbho yathā*)—as the life of birds and the like flies away as soon as the hunter seizes them
+- अहं (*ahaṃ*)—I
+- यत् (*yat*)—when
+- वाजयन् (*vājayan*)—making the sick man strong
+- इमाः ओषधीः (*imāḥ oṣadhīḥ*)—these plants
+- हस्ते (*haste*)—in the hand
+- आदधे (*ādadhe*)—I hold, then
+- पुरा (*purā*)—even before applying them
+- यक्ष्मस्य (*yakṣmasya*)—of the disease
+- आत्मा (*ātmā*)—the strength
+- नश्यति (*naśyati*)—perishes
+
+##### भावार्थ (Bhāvārtha)
+
+As the life of birds and the like flies away as soon as the hunter seizes them, when I hold these plants in my hand to make the sick man strong, then even before applying them the strength of the disease perishes.
+
+##### English translation
+As soon as I take these plants in my hand making (the sick man) strong, the soul of the malady perishes before (their application) as (life is driven away from the persence) of the seizer of life.
+
+### Printed p. 85
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the particle यथा (*yathā*) in its sense of comparison, Yāska takes the second half of this Ṛk as an example and gives its etymology: आत्मा यक्षस्य नश्यति पुरा जीवगृभो यथा । आत्माततेर्वाप्तेर्वापि वाप्त इव स्यात् यावद्व्याप्तिभूत इति ॥ (*ātmā yakṣasya naśyati purā jīvagṛbho yathā | ātmātatervāptervāpi vāpta iva syāt yāvadvyāptibhūta iti ‖*) (Ni. 3-15).
+
+As a hunter, before he has even gripped a bird firmly in his hand, finds it dead from fear, so, as soon as I hold the plant in my hand, that is, even before applying it to the body, the ātman of the यक्ष (*yakṣa*) disease, that is, its root (cause), is at once destroyed. The meaning is that its very root is destroyed so that the disease does not return.
+
+The word आत्मा (*ātmā*) is derived either from the root आत् (*āt*), meaning "go", or from the root आप् (*āp*) or व्याप् (*vyāp*), meaning "pervade and spread". How: since this self is in all beings and in all places, it is called आत्मा (*ātmā*); or, because it pervades everything, it is called आत्मा (*ātmā*). Or, since it is customary to say that it pervades only a particular place, that is, only the body of a creature, it is called आत्मा (*ātmā*). Though the self pervades the whole universe collectively (samaṣṭi), it is said to be in the bodies of creatures individually (vyaṣṭi, as separate in each). Therefore it is subject to the two kinds of pervasion, आप्ति (*āpti*) and व्याप्ति (*vyāpti*). आप्ति (*āpti*) means that its pervasion in the whole universe is collective. व्याप्ति (*vyāpti*) means that it is customary to say that it is pervading (dwelling) in the body of one particular creature (or man). Because it is subject to these two kinds of pervasion, it has the name आत्मा (*ātmā*): this is the purport of the etymology.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्यौ॑षधीः प्र॒सर्प॒थांग॑मंगं॒ परु॑ष्परुः ।  
+> ततो॒ यक्ष्मं॒ वि बा॑धध्व उ॒ग्रो म॑ध्यम॒शीरि॑व ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ओषधीः । प्रसर्पथ । अंगं5अंगं । परुः5परुः ।  
+> ततः । यक्ष्यं । वि । बाधद्वे । उग्रः । मध्यमशी5इव ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 79. pp. 74-79 (batch API)
+**Progress note:** Done through printed p. 85. pp. 80-85 (batch API)
