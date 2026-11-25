@@ -1,0 +1,2 @@
+- 2026-11-25: rig_27.md: 60 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
+- front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 0 NOTE rows added at the top of review/notes.tsv.
