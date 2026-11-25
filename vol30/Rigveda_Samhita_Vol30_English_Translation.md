@@ -22956,6 +22956,269 @@ I support the foe-destroying Soma, Twashtri, Pushan and Bhaga; I bestow wealth u
 > अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नां ।  
 > तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शयं॑तीं ॥ ३ ॥
 
+### Printed p. 694
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । राष्ट्री । संगमनी । वसूनां । चिकितुषी । प्रथमा । यज्ञियानां ।  
+> तां । मा । देवाः । वि । अदधुः । पुरुत्रा । भूरिस्थात्रां । भूरि । आवेशयंती ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं राष्ट्री । ईश्वरनामैतत्। सर्वस्य जगत ईश्वरी । तथा वसूनां धनानां
+> संगमनी संगमयित्युपासकानां प्रापयित्री । चिकितुषी यत्साक्षात्कर्तव्यं परं
+> ब्रह्म तञ्ञातवती स्वात्मतया साक्षात्कृतवती । अत एव यज्ञियानां यज्ञार्हाणां
+> प्रथमा मुख्या । यैवंगुणविशिष्टाहं तां मां भूरिस्थात्रां बहुभावेन प्रपंचात्मनावतिष्ठमानां भूरि भूरीणि बहूनि भूतजातान्यावेशयंती जीवभावेनात्मानं
+> प्रवेशयंतीं ईदृशीं मां पुरुत्रा बहुषु देशेषु व्यदधुः । देवा विदधति ।
+> कुर्वंति । उक्तप्रकारेण वैश्वरूप्येणावस्थानात् । यद्यत्कुर्वंति तत्सर्वं मामेव
+> कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"I am the sovereign (राष्ट्री (*rāṣṭrī*))": this is a name for a ruler, so I am the mistress of the whole world. I am also the one who brings together the treasures and gives them to my worshippers. I am the knower (चिकितुषी (*cikituṣī*)): I know the Supreme Brahman, which is to be realised, and have realised it as my own Self. For that reason I am the first, the chief, of those worthy of sacrifice. The gods set me, who am so endowed, in many places. I abide as many things, in the form of the universe, and I cause many beings to enter, taking the form of the individual soul, so that I enter into them. Because I abide in this manifold form, whatever the gods do, they do for me alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- राष्ट्री (*rāṣṭrī*)—I am the lord of the whole world
+- वसूनां (*vasūnāṃ*)—of the treasures to be given to the people who worship me
+- संगमनी (*saṃgamanī*)—I am the place of their gathering (that is, all the treasures to be given to them are gathered together in me)
+- चिकितुषी (*cikituṣī*)—I have known the Supreme Brahman well and realised it
+- यज्ञॆयानां (*yajñèyānāṃ*)—among the gods worthy of sacrifice
+- प्रथमा (*prathamā*)—I am the chief
+- तां (*tāṃ*)—such a one, endowed with these qualities
+- भूरिस्थात्रां (*bhūristhātrāṃ*)—existing in the form of the universe through manifold being
+- भूरि (*bhūri*)—in manifold beings
+- आवेशयंती (*āveśayaṃtī*)—who has entered and dwells
+- मां (*māṃ*)—me
+- देवाः (*devāḥ*)—the gods
+- पुरुत्रा (*purutrā*)—in many places
+- व्यदधुः (*vyadadhuḥ*)—they establish
+
+##### भावार्थ (Bhāvārtha)
+
+I am the lord of all people. All the wealth that is to be given to everyone is gathered in me alone. I have known the Supreme Brahman well and have realised him. Among the gods worthy of sacrifice I alone am the chief. I exist in the form of the many things of the world, and I dwell as consciousness in the bodies of beings of many kinds. The gods establish me, such as I am, in many places; that is, they invoke me in many places and worship me.
+
+##### English translation
+I am the sovereign queen, the collectress of treasures. cognizant (of the Supreme Being), the chief of objects of worship; as such the gods have
+
+### Printed p. 695
+put me in many places, abiding in manifold conditions, entering into numerous (forms).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मया सो अन्नमत्ति यो विपश्यति यः प्राणिति य ईं  
+> शृणोत्युक्तं ।  
+> अ॒मं॒तवो॒ मां त उप॑ क्षियंति श्रु॒धि श्रु॑त श्रद्धि॒नं ते॑ वदामि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मया । सः । अन्नं । अत्ति । यः । विपश्यति । यः । प्राणिति । यः । ईं । शृणोति ।  
+> उक्तं ।  
+> अमंतवः । मां । ते । उप । क्षियंति । श्रुधि । श्रुत । श्रद्धिवं । ते । वदामि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽन्नमत्ति स भोक्तृशक्तिरूपया मयैवान्नमत्ति । यश्च विपश्यति । आलोकयतीत्यर्थः । यश्च प्राणिति श्वासोच्योस्वादिव्यापारं करोति सोऽपि मय्यव ।
+> यश्चोक्तं शृणोति ॥ श्रु श्रवणे । श्रुवः शृ चेति श्रुधातोः शृभावः ॥ य ईदृशीमंतर्यामिरूपेण स्थितां मां न जानंति तेऽमंतवोऽमन्यमाना अजानंत उप
+> क्षियंति । उपक्षीणाः संसारेण हीना भवंति ॥ मनेरौणादिकस्तु प्रत्ययः । नञ्चमासे
+> व्यत्ययेनांतोदात्तत्वं । यद्वा। भावे तुप्रत्ययः । ततो बहुव्रीहौ नञ्चभ्यामित्युत्तरपदांतोदात्तत्वं माममंतवो मद्विषयज्ञानरहिता इत्यर्थः ॥ हे श्रुत
+> निश्रुत सखे श्रुधि । मया वक्ष्यमाणं शृणु ॥ छांदसो विकरणस्य लुक् । श्रुशृणुपृकृवृभ्य इति हेर्धिभावः ॥ किं तच्चोतव्यं । त्रद्विवं । श्रद्धिः श्रद्धा । तया युक्तं ।
+> श्रद्धायत्नेन लभ्यमित्यर्थः । श्रदंतरोरुपसर्गवद्वृत्तिरिष्यते । पा. १-४-५७-२ । इति
+> श्रच्छब्दस्योपसर्गवद्वर्तमानत्वादुपसर्गे घोः किरिति किप्रत्ययः । मत्त्वर्थीयो
+> पः ॥ ईदृशं ब्रह्मात्मकं वस्तु ते शुभ्यं वदामि । उपदिशामि ॥
+
+##### Gist of the bhāṣya
+
+Whoever eats food eats it through me alone, in the form of the power of the enjoyer. Whoever sees (looks), and whoever breathes, performing the acts of in-breath and out-breath, does so in me alone. Whoever hears what is spoken does so in me too. Those who do not know me, who stand thus as the inner controller, are अमंतवः (*amaṃtavaḥ*), those who do not think or know. They उप क्षियंति (*upa kṣiyaṃti*): they are wasted, and become bereft by saṃsāra. The word अमंतवः (*amaṃtavaḥ*) is formed with an Uṇādi suffix from the root man. Or else the suffix tu is used in the sense of the abstract state; then, in a bahuvrīhi, the final syllable of the second member is acute. The sense is "those devoid of knowledge about me". "O Śruta, O renowned friend, listen: hear what I shall say." What is it that is to be heard? It is श्रद्धिवं (*śraddhivaṃ*), endowed with śraddhi, which is faith; the sense is that it is attained by faithful effort. A thing of this kind, whose nature is Brahman, I tell to you; I instruct you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- अन्नं (*annaṃ*)—food, or nourishment
+- अत्ति (*atti*)—eats
+- मया (*mayā*)—that is done through me alone (by my power); likewise
+
+### Printed p. 696
+- यः (*yaḥ*)—the man who
+- विपश्यति (*vipaśyati*)—sees the various things
+- यः (*yaḥ*)—the man who
+- प्राणिति (*prāṇiti*)—lives by in-breath and out-breath
+- यः (*yaḥ*)—the man who
+- ईं उक्तं (*īṃ uktaṃ*)—what one has said
+- शृणोति (*śṛṇoti*)—hears with the ears (all these acts go on)
+- मया (*mayā*)—through me alone
+- मां (*māṃ*)—me, who am thus in all as the inner controller
+- अमंतवः (*amaṃtavaḥ*)—those who do not know
+- ते (*te*)—they
+- उप क्षियंति (*upa kṣiyaṃti*)—meet destruction
+- श्रुत (*śruta*)—O friend who hears what I say
+- ते (*te*)—to you
+- वदामि (*vadāmi*)—I speak
+- श्रद्धिवं (*śraddhivaṃ*)—that word to be heard with faith
+- श्रुधि (*śrudhi*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+A man's eating food and other nourishment, seeing with the eye, breathing in and out, and hearing with the ear what another has said: all these activities go on through me alone, that is, by my agency. Those who do not know me, who am present in all beings as the inner controller, meet a downfall. O friend, hear with faith the word that I speak to you.
+
+##### English translation
+He who eats food (eats) through me; he who sees, who breathes, who hears what is spoken, does so through me; those who are ignorant of me perish; hear you who has hearing, I tell you that which is deserving of belief.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वेभि॑रु॒त मानु॑षेभिः ।  
+> यं का॒मये॒ तंत॑मु॒ग्र कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तम्मृषिं॒ तं  ॒॑
+> सुमेधां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । एव । स्वयं । इदं । वदामि । जुष्टं । देवेभिः । उत । मानुषेभिः ।  
+> यं । कामये । तंतं । उग्रं । कृणोमि । तं । ब्रह्माणं । तं । ऋषिं । तं ।  
+> सुमेधां ॥ ५ ॥
+
+### Printed p. 697
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं स्वयमेवेदं वस्तु ब्रह्मात्मकं वदामि । उपदिशामि । देवेभिर्देवैरींद्रादिभिरपि जुष्टं सेवितं । उतापि च मानुषेभिर्मनुष्यैरपि जुष्टं ।
+> ईदृग्वस्त्वात्मिकाहं कामये यं पुरुषं रक्षितुमहं वांछामि तं तं पुरुषमुग्रं कृणोमि । सर्वेभ्योऽधिकं करोमि । तमेव ब्रह्माणं स्रष्टारं करोमि ।
+> तमेवर्षिमतींद्रियार्थदर्शिनं करोमि । तमेव सुमेधां शोभनप्रज्ञं च
+> करोमि ॥
+
+##### Gist of the bhāṣya
+
+I myself declare this thing, whose nature is Brahman. It is served by the gods, Indra and the others, and also by human beings. I, being of the nature of this thing, make exalted (उग्रं (*ugraṃ*)), superior to all, whichever man I wish to protect. That same man I make a Brahmā, a creator. I make him a seer (ṛṣi), one who perceives what lies beyond the senses. I make him also सुमेधां (*sumedhāṃ*), of excellent wisdom.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं एव (*ahaṃ eva*)—I myself (O man)
+- इदं (*idaṃ*)—this thing, whose nature is Brahman
+- स्वयं एव (*svayaṃ eva*)—I of myself
+- वदामि (*vadāmi*)—I declare (that Brahman)
+- देवेभिः (*devebhiḥ*)—by the gods, Indra and the others
+- उत (*uta*)—and
+- मानुषेभिः (*mānuṣebhiḥ*)—by human beings
+- जुष्टं (*juṣṭaṃ*)—is served (I, being such)
+- यं (*yaṃ*)—whichever man
+- कामये (*kāmaye*)—I wish to protect
+- तं तं (*taṃ taṃ*)—that man
+- उग्रं (*ugraṃ*)—as the foremost of all
+- कृणोमि (*kṛṇomi*)—I make
+- तं (*taṃ*)—him
+- ब्रह्माणं (*brahmāṇaṃ*)—I make also a creator
+- तं (*taṃ*)—him
+- ऋषिं (*ṛṣiṃ*)—I make a knower of what is beyond the senses
+- तं (*taṃ*)—him
+- सुमेधां (*sumedhāṃ*)—I make also one possessed of excellent wisdom, or understanding
+
+##### भावार्थ (Bhāvārtha)
+
+I myself declare that I am that thing whose nature is the Supreme Brahman. That Brahman is served and worshipped by all the gods and by human beings. Moreover, whichever man I wish to protect, I can make him superior to all. I can make him a Brahmā, a creator, a ṛṣi who knows what lies beyond the senses, and a man of excellent wisdom (a sage).
+
+##### English translation
+I verily of myself declare this which is approved of by both gods and men ; whomsoever I will. I render formidable. I make him a Bramhan, a Rishi, or a sage.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हंत॒वा उ॑ ।  
+> अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
+
+### Printed p. 698
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । रुद्राय । धनुः । आ । तनोमि । ब्रह्मद्विषे । शरवे । हंतवै । ऊं इति ।  
+> अहं । जनाय । समदं । कृणोमि । अहं । द्यावापृथिवी इति । आ । विवेश ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरा त्रिपुरविजयसमये रुद्राय रुद्रस्य । षष्ठ्यर्थे चतुर्थी ।
+> महादेवस्य धनुश्चापमहमा तनोमि । ज्ययाततं करोमि । किमर्थं । ब्रह्मद्विषे
+> ब्राह्मणानां द्वेष्टारं शरवे शरुं हिंसकं त्रिपुरनिवासिनमसुरं हंतवै हंतुं
+> हिंसितुं ॥ हंतेस्तुमर्थे सेसेनिति तवैप्रत्ययः । अंतश्च तनै युगपदित्याद्यंतयोर्युगपदुदात्तत्वं ॥ शृ हिंसायामित्यस्माच्छस्वस्निहीत्यादिनोप्रत्ययः ।
+> क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्च तुर्थी ॥ उशब्दः पूरकः । अहमेव
+> समदं । समानं माद्यंत्यस्मिन्निति समत्संग्रामः । स्तोतृजनार्थं शत्रुभिः सह
+> संग्राममहमेव कृणोमि । करोमि । तथा द्यानापृथिवी दिवं च पृथिवीं
+> चांतर्यामितयाहमेवा विवेश । प्रविष्टवती ॥
+
+##### Gist of the bhāṣya
+
+Formerly, at the time of the conquest of the Three Cities (Tripura), I stretch the bow of Rudra, that is, of Mahādeva (the dative रुद्राय (*rudrāya*) stands in the sense of the genitive); I make it taut with the string. For what purpose? To slay the hater of Brahmins (ब्रह्मद्विषे (*brahmadviṣe*)), the शरवे (*śarave*), the violent one, the asura dwelling in the Three Cities. The particle उ (*u*) is a filler. I alone make समदं (*samadaṃ*): समत् (*samat*) is battle, in which people rejoice together. For the sake of the praising people I alone make battle with their enemies. So too I have entered heaven and earth, as the inner controller.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मद्विषे (*brahmadviṣe*)—who hates Brahmins
+- शरवे (*śarave*)—the violent asura (dweller in the Three Cities)
+- हंतवै उ (*haṃtavai u*)—in order to destroy
+- रुद्राय (*rudrāya*)—of Rudra
+- धनुः (*dhanuḥ*)—the bow
+- अहं (*ahaṃ*)—I
+- आ तनोमि (*ā tanomi*)—I bend (I have bent)
+- अहं (*ahaṃ*)—I
+- जनाय (*janāya*)—for the praising people
+- समदं (*samadaṃ*)—battle
+- कृणोमि (*kṛṇomi*)—I make
+- अहं (*ahaṃ*)—I
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth (as the inner controller)
+- आ विवेश (*ā viveśa*)—I have entered
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of the destruction of the Three Cities, when Rudra was set on slaying the violent asura who hated Brahmins, I myself bent his bow and made it ready, to be used against the enemies. For the people who praise me, I myself make war. And I have entered heaven and earth (the whole world) as the inner controller.
+
+##### English translation
+I bend the bow of Rudra, to slay the destructive enemy of the Brahmanas, I wage war with (hostile) men, I pervade heaven and earth,
+
+### Printed p. 699
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्व१॒ं॑ १ तः स॑मु॒द्रे।  
+> ततो॒ वि ति॑ष्ठे॒ भुव॒नानु॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑  
+> स्पृशामि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । सुवे । पितरं । अस्यॆ । मूर्धन् । मम । योनिः । अप्सु । अंतरिति । समुद्रे।  
+> ततः । वि । तिष्ठे । भुवना । अनु । विश्वा । उत । अमूं । द्यां । वर्ष्णणा । उप ।  
+> स्पृशामि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दौः पितेति श्रुतेः पिता द्यौः । पितरं दिवमहं सुवे । प्रसुवे । जनयामि
+> आत्मन आकाशः संभूतः । तै. आ. ८-१ । इति श्रुतेः । कुत्रेति तदाह । अस्य परमात्मनो
+> मूर्धन्मूर्धन्युपरि । कारणभूते तस्मिन्वि यदादिकार्यजातं सर्वं वर्तते तंतुषु
+> पट इव । मम च योनिः कारणं समुद्रे । समुद्रवंत्यस्माद्भूतजातानीति
+> समुद्रः परमात्मा । तस्मिन्नप्पु व्यापनशीलासु धीवृत्तिष्टंतर्मध्यॆ यद्ब्रह्म
+> चैतन्यं तन्नम कारणमित्यर्थः । यत ईदृग्भूताहमस्मि ततो हेतोर्विश्वा विश्वानि
+> सर्वाणि भुवनानि भूजातान्यनु प्रविश्य वि तिष्ठे विविधं व्याप्यतिष्ठामि ॥ समवप्रविभ्यः
+> स्थ इत्यात्मनेपदं ॥ उतापि चामूं द्यां विप्रकृष्टदेशेऽवस्थितं स्वर्गलोकं ।
+> उपलक्षणमेतत् । एतदुपलक्षितं कृत्स्नं विकारजातं वर्ष्णणा कारणभूतेन मायात्मकेन मदीयेन देहेनोप स्पृशामि । यद्वा । अस्य भूलोकस्य मूर्धन्मूर्धन्युपर्यहं पितरमाकाशं सुवे। समुद्रॆ जलधावप्पोदकेष्टंतर्मध्यॆ मम योनिः
+> कारणभूतोऽंभृणाख्य ऋषिर्वर्तते । यद्वा । समुद्रेऽंतरिक्षेऽप्सम्मयेषु
+> देवशरीरेषु मम कारणभूतं ब्रह्म चैतन्यं वर्तते । ततोऽहं कारणात्मिका सती
+> सर्वाणि भुवनानि व्याप्नोमि । अन्यत्समानं ॥
+
+##### Gist of the bhāṣya
+
+By the śruti "Heaven is the father" the father is heaven. I bring forth (सुवे (*suve*)), I generate, the father, heaven; for the śruti says आत्मन आकाशः संभूतः । तै. आ. ८-१ । इति श्रुतेः । (*ātmana ākāśaḥ saṃbhūtaḥ | tai. ā. 8-1 | iti śruteḥ |*) (Tai. Ā. 8-1). Where? "On the head of this Supreme Self": above. In him, who is the cause, the whole body of effects, heaven and the rest, abides like cloth in threads. My source (योनिः (*yoniḥ*)), my cause, is in the ocean (समुद्रे (*samudre*)). The Supreme Self is the ocean, since all beings flow forth from him. In him, within the waters, the pervasive modifications of the mind, is the Brahman-consciousness, and that is my cause. Since I am such, I stand pervading variously, entering all (विश्वा (*viśvā*)) the worlds, the created things. The ātmanepada form is by the rule on sthā with sam, ava, pra, vi. And I touch also that yonder heaven (द्यां (*dyāṃ*)), the world of svarga situated in a remote region. This is indicative: the whole body of modifications so indicated I touch with my own body (वर्ष्णणा (*varṣṇaṇā*)), which is the cause and is made of māyā. Alternatively: above (on the head of) this earth-world I bring forth the father, the ākāśa. In the ocean, the watery expanse, among the waters within, my source, the ṛṣi named Ambhṛṇa, who is the cause, abides. Or else: in the ocean, the atmosphere, in divine bodies made of water, the Brahman-consciousness that is my cause abides. Therefore I, being of the nature of the cause, pervade all the worlds. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- पितरं (*pitaraṃ*)—the heaven that is the father
+- अस्य (*asya*)—of this Supreme Self
+- मूर्धन् (*mūrdhan*)—on the head, that is, in the upper part
+- सुवे (*suve*)—I bring forth
+- मम (*mama*)—my
+
 ---
 
-**Progress note:** Done through printed p. 693. pp. 688-693 (batch API)
+**Progress note:** Done through printed p. 699. pp. 694-699 (batch API)
