@@ -17560,6 +17560,259 @@ I have brought to my presence the Pitris who are well cognizant (of my worship),
 > बर्हिसदः । पितरः । ऊती । अर्वाक् । इमा । वः । हव्या । चकृम । जुषध्वं ।  
 > ते । आ । गत । अवसा । शंतमेन । अथ । नः । शं । योः । अरपः । दधात ॥ ४ ।
 
+### Printed p. 495
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बर्हिषदः । यज्ञे सीदंतीति बर्हिषदः । अत्रापि ये वै यज्वानस्ते
+> पितरो बर्हिषद इत्यत्र श्रुतत्वाद्यागं कृत्वा प्रेत्य पितृलोकं प्राप्ता बर्हिषदः ।
+> तादृशा हे पितरः अर्वागर्वाचीनानामस्माकमूती रक्षा भवद्भिः कर्तव्येति शेषः। वो
+> युष्मदर्थमिमा हवैतानि हवींषि चक्रम । अतस्तानि जुषध्वं । ते हविर्जुष्टवंतो
+> यूयं शंतमेन सुखतमेनावसा रक्षणेन निमित्तभूतेना गत । अभिमुख्येनास्मान्नाप्नुत । अथानंतरं नोऽस्मभ्यं शं सुखं योर्दुःखवियोगमरपः पापरहितं
+> च दधात । दत्त ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses बर्हिषदः (*barhiṣadaḥ*) as "those who sit at the sacrifice". He cites the passage "those who are sacrificers are the Fathers, the Barhiṣads" (the statement that those who performed the sacrifice, on dying reached the world of the Fathers and became Barhiṣads). He addresses such Fathers: "O Fathers, for us who are turned towards you, you must provide protection" (this is the supplied remainder of the sentence). "We have made these oblations for you; therefore enjoy them. Having enjoyed the oblations, come to us with your most pleasant protection, facing us. Then bestow upon us happiness (शं (*śaṃ*)), separation from sorrow (योः (*yoḥ*)) and freedom from sin (अरपः (*arapaḥ*))."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बर्हिषदः (*barhiṣadaḥ*)—those seated at the sacrifice
+- पितरः (*pitaraḥ*)—O Fathers
+- अर्वाक् (*arvāk*)—to us, seated facing you
+- ऊती (*ūtī*)—your protection is necessary
+- वः (*vaḥ*)—addressing you
+- इमा हव्या (*imā havyā*)—these oblations
+- चक्रम (*cakrama*)—we have prepared
+- जुषध्वं (*juṣadhvaṃ*)—partake of them
+- ते (*te*)—you who have partaken of the oblation
+- शंतमेन (*śaṃtamena*)—most happiness-giving
+- अवसा (*avasā*)—with protection
+- आ गत (*ā gata*)—come facing us
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—happiness
+- योः (*yoḥ*)—freedom from sorrow
+- अरपः (*arapaḥ*)—freedom from sin
+- दधात (*dadhāta*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Fathers seated at the sacrifice, your protection is absolutely necessary for us who sit facing you. We have prepared these oblations for you. Partake of them. Having partaken of the oblation, come to us with your most happiness-giving protection, facing us. Afterwards grant us happiness, freedom from sorrow and freedom from sin.
+
+##### English translation
+Pitris, Barhishads, protect (us who are) in your presence; we have made these oblations for you, accept them: come with your most felicitous protection, and bestow upon us health and happiness, and pardon from sin-
+
+##### विशेषविषयगळु (Special Topics)
+
+For the words शं योः (*śaṃ yoḥ*) in this Ṛk, Yāska gives an etymology and explains the meaning: शंयोः । (शंयुः सुखंयुः) अथानः शंयोररपो दधात । रपो रिप्रमिति पापनामनी भवतः । शमनं रोगाणां यावनं च भयानां ॥ (*śaṃyoḥ | (śaṃyuḥ sukhaṃyuḥ) athānaḥ śaṃyorarapo dadhāta | rapo ripramiti pāpanāmanī bhavataḥ | śamanaṃ rogāṇāṃ yāvanaṃ ca bhayānāṃ ‖*) (Ni. 4-21)
+
+### Printed p. 496
+शंयुः (*śaṃyuḥ*) means desiring peace or happiness. The meaning of the example sentence is: "Grant us happiness and peace free from sin." The two words रपः (*rapaḥ*) and रिप्रं (*ripraṃ*) are synonyms denoting sin. The intention is: bring about cessation (that is, release) from diseases and the removal of fear.
+
+बर्हिषद पितरः (*barhiṣada pitaraḥ*)—who such Fathers are, the commentator explains thus: बर्हिषदः यज्ञे सीदंतीति बर्हिषदः । अत्रापि-ये वै यज्ञानस्ते पितरो बर्हिषदः (*barhiṣadaḥ yajñe sīdaṃtīti barhiṣadaḥ | atrāpi-ye vai yajñānaste pitaro barhiṣadaḥ*) (Tai. Brā. 1.6.9) इत्यत्र श्रुतत्वाद्यागं कृत्वा प्रेत्य पितृलोकं प्राप्ता बर्हिषदः (*ityatra śrutatvādyāgaṃ kṛtvā pretya pitṛlokaṃ prāptā barhiṣadaḥ*). The word बर्हिषदः (*barhiṣadaḥ*) means those who have come and sit upon the darbha grass called बर्हिः (*barhiḥ*), spread as a seat at the sacrifice. Such a grass seat is prepared at sacrifices so that the invoked gods may come and sit. The Fathers spoken of in the present Ṛk are those who formerly performed sacrifices according to rule and, after death, went to the world of the Fathers; these are called Barhiṣads, so the commentator explains the word.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑हूताः पि॒तरः॑ सो॒म्यासो॑ बर्हि॒ष्ये॑षु नि॒धिषु॑ प्रि॒येषु॑ ।  
+> त आ ग॑मंतु॒ त इ॒ह श्रु॑वं॒त्वधि॑ ब्रुवंतु॒ ते॑वंत्व॒स्मान् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उपहूताः । पितरः । सोम्यासः । बर्हिष्येषु । निधिषु । प्रियेषु ।  
+> ते । आ । गमंतु । ते । इह । श्रुवंतु । अधि । ब्रुवंतु । ते । अवंतु । अस्मान् ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे पितरः सोमवंत इत्यस्य याज्योपहूताः पितर इत्येषा ।
+> सूत्रितं च । उपहूताः पितरः स्कोम्यासस्त्वं सोम प्र चिकितो मनीषा ।
+> आ. २-१९ । इति ॥
+> सोम्यासः सोम्या अस्मदनुग्रहपराः सोमसंपादिनो वा पितरो बर्हिषेषु यागार्हेषु प्रियेषु तृप्तिकरेषु निधिषु निधिसदृशेषु हविःषु निमित्तभूतेषु सत्सूपहूता अस्माभिराहूतास्ते पितर आ गमंतु । आगच्छंतु । अगत्य चेहास्मि-
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, this verse उपहूताः पितरः (*upahūtāḥ pitaraḥ*) is the yājyā for the offering to the Fathers "possessed of Soma" (पितरः सोमवंतः (*pitaraḥ somavaṃtaḥ*)). It is prescribed in the sūtra: उपहूताः पितरः स्कोम्यासस्त्वं सोम प्र चिकितो मनीषा (*upahūtāḥ pitaraḥ skomyāsastvaṃ soma pra cikito manīṣā*) (Ā. 2-19). सोम्यासः (*somyāsaḥ*): Fathers worthy of Soma, bent on favouring us, or procurers of Soma. They are invoked by us, when the oblations that are fit for the sacrifice, dear and satisfying, like treasures, are present; let those Fathers come. Having come, let them here, in this rite, hear the praises we address; and having heard, let them speak in our favour, "this sacrificer is good", declaring it with regard. Let those Fathers protect us.
+
+### Printed p. 497
+
+> न्यर्मण्यस्माभिः प्रयुक्ताः स्तुतीः श्रुवंतु । शृण्वंतु । श्रुत्वा चाधि ब्रुवंतु ;
+> साधुरयं यजमान इत्यादरेण कथॆयंतु । ते तादृशाः पितरोऽस्थानवंतु ।
+> रक्षंतु ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम्यासः (*somyāsaḥ*)—those (who) are favourably disposed towards us
+- ते पितरः (*te pitaraḥ*)—those Fathers
+- बर्हिष्येषु (*barhiṣyeṣu*)—fit for sacrifice
+- प्रियेषु (*priyeṣu*)—pleasing
+- निधिषु (*nidhiṣu*)—on account of the oblations
+- उपहूताः (*upahūtāḥ*)—invoked
+- आ गमंतु (*ā gamaṃtu*)—let them graciously come
+- इह (*iha*)—in our rites
+- श्रुवंतु (*śruvaṃtu*)—let them hear our praises
+- अधि ब्रुवंतु (*adhi bruvaṃtu*)—let them speak in praise of us
+- ते (*te*)—they
+- आस्मान् (*āsmān*)—us
+- अवंतु (*avaṃtu*)—let them protect
+
+##### भावार्थ (Bhāvārtha)
+
+The Fathers whom we invoke to receive the oblations that are fit for sacrifice and pleasing: let such Fathers come, showing favourable disposition towards us. Let them hear our praises recited at the times of this rite. Let them speak words of praise concerning us. Let them protect us.
+
+##### English translation
+May the Pitris who are entitled to the Soma come, when invoked by us, to the agreeable treasures connected with the sacred grass; let them here listen (to our praises). let them protect us.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña, in the homa made to the Fathers of the group "possessed of Soma", this Ṛk उपहूताः पितरः (*upahūtāḥ pitaraḥ*) is to be recited as the yājyā mantra; this is stated by the sūtra of the Āśvalāyana Śrauta Sūtra उपहूताः पितरः सोम्यासस्त्वं सोम प्र चिकितो मनीषा (*upahūtāḥ pitaraḥ somyāsastvaṃ soma pra cikito manīṣā*) (Ā. 2.19).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आच्या॒ जानु॑ दक्षिण॒तो नि॒षद्ये॒मं य॒ज्ञम॒भि गृ॑णीत॒ विश्वे॑ ।  
+> मा हिं॑सिष्ट पितरः॒ केन॑ चिन्नो॒ यद्व॒ आगः॑ पुरु॒षता॒ करा॑म ॥  
+> xxvii 32
+
+### Printed p. 498
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आऽअच्य । जानु । दक्षिणतः । निऽसद्य । इमं । यज्ञं । अभि । गृणीत । विश्वे ।  
+> मा । हिंसिष्ट । पितरः! केन। चित् । नः । यत् । वः । आगः । पुरुषता । कराम ॥ ६
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पित्थणामयं स्वाभाविको धर्मः अथैनं पितरः प्राचीनावीतिनः सव्यं
+> जान्वाच्य । शत-२-४-२-२ । इति वचनात् ! हे पितरः विश्वे सर्वॆ यूयं जान्वाच्य
+> भूमौ निपात्य दक्षिणतो दक्षिणपार्श्वे निषद्योपविश्येममस्मदीयं यज्ञमभि
+> गृणीत । अभिष्टुत ! विशिष्टतृप्तियोगात्परया प्रीत्या सगुणोऽयं यज्ञ इति प्रशंसतेत्यर्थः । अपि च वो युष्माकं यत्किंचित्कर्मवैगुण्यजनितवागोऽपराधं
+> पुरुषता मनुष्यत्वेन हेतुना कराम वयं कृतवंतः हे पितरः तेन केन चिदप्यपराधेन नोऽस्मान्मा हिंसिष्ट ॥
+
+##### Gist of the bhāṣya
+
+This is the natural custom of the Fathers, by the statement अथैनं पितरः प्राचीनावीतिनः सव्यं जान्वाच्य (*athainaṃ pitaraḥ prācīnāvītinaḥ savyaṃ jānvācya*) (Śa. 2-4-2-2). O Fathers, all of you, having bent the knee and placed it on the ground, having sat down on the right side, praise this sacrifice of ours (अभि गृणीत (*abhi gṛṇīta*)): from the special satisfaction obtained, with the highest delight, commend "this sacrifice is accompanied by its qualities". Further, whatever offence of yours, arising from some defect in the rite, we have committed by reason of our being human, O Fathers, do not harm us for any such offence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः (*pitaraḥ*)—O Fathers
+- विश्वे (*viśve*)—all of you
+- जानु आच्य (*jānu ācya*)—resting on the knee
+- दक्षिणतः (*dakṣiṇataḥ*)—on the right side
+- निषद्य (*niṣadya*)—having sat
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice of ours
+- अभि गृणीत (*abhi gṛṇīta*)—praise
+- वः (*vaḥ*)—with regard to you
+- यत् आगः (*yat āgaḥ*)—whatever sin
+- पुरुषता (*puruṣatā*)—through the ignorance natural to man
+- कराम (*karāma*)—if we have done
+- केन चित् (*kena cit*)—for whatever kind of sin
+- नः (*naḥ*)—us
+- मा हिंसिष्ट (*mā hiṃsiṣṭa*)—do not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Fathers, all of you, resting on the knee and sitting on the right side, praise this sacrifice of ours. If we have committed any sin with regard to you through the ignorance natural to man, do not harm us for any such sin.
+
+##### English translation
+Having sat down on the right side with bended knee, you all accept this sacrifice. Harm us not, Pitris, for any offence which through human (infirmity) we may have committed towards you.
+
+##### विशेषविषयगळु (Special Topics)
+
+आच्य जानु दक्षिणतः निषद्य (*ācya jānu dakṣiṇataḥ niṣadya*)—पितृणामयं स्वाभाविको धर्मः । अथैनु पितरः प्राचानावीतिनः सव्यं जान्वाच्य (*pitṛṇāmayaṃ svābhāviko dharmaḥ | athainu pitaraḥ prācānāvītinaḥ savyaṃ jānvācya*) (Śa. Brā. 2-4-2-2) इति वचनात् (*iti vacanāt*). Addressing the Fathers
+
+### Printed p. 499
+the seer speaks thus: "O Fathers, bending your right knee, with the sacred thread worn on the left, come and sit on the seat prepared on the south side of this sacrificial altar." The commentator says that sitting with the knee bent, facing south, is the natural custom prescribed for the Fathers, and to support this he gives as illustration a statement of the Śatapatha Brāhmaṇa.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आसी॑नासो अरु॒णीना॑मु॒पस्थे॑ र॒यिं ध॑त्त दा॒शुषे॒ मर्त्या॑य ।  
+> पु॒त्रेभ्यः॑ पितर॒स्तस्य॒ वस्वः॒ प्र य॑च्छत॒ त इ॒होर्जं॑ दधात ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आसीनासः । अरुणीनां । उपस्थे । रयिं । धत्त । दाशुषे । मर्त्याय ।  
+> पुत्रेभ्यः । पितरः । तस्य । वस्वः । प्र । यच्छत । ते । इह । ऊर्जं । दधात ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरुणीनामारोचमानानां ज्वालानां वा देवतानां वोपस्थे समीपस्थाने
+> वेद्याख्य आसीनास उपविष्टाः पितरः यूयं दाशुषे हर्विदर्तवते मत्याय
+> मनुष्याय यजमानाय रयिं धनं धत्त । दत्त । हे पितरः यूयं तस्य यजमानस्य पुत्रेभ्यो वस्वो वसु धनं प्र यच्छत । ते तादृशा यूयमिहास्मिन्नस्मदीये कर्मण्यर्जं धनं दधात । निधत्त ॥
+
+##### Gist of the bhāṣya
+
+अरुणीनां (*aruṇīnāṃ*): of the shining flames, or of the deities; in their proximity, on the altar, seated, O Fathers, bestow wealth (रयिं (*rayiṃ*)) on the mortal, the sacrificer, who has given the oblation (दाशुषे (*dāśuṣe*)). O Fathers, give wealth to that sacrificer's sons. Such as you are, establish vigour, that is wealth (ऊर्जं (*ūrjaṃ*)), here in this rite of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः (*pitaraḥ*)—O Fathers
+- अरुणीनां (*aruṇīnāṃ*)—of the attractive flames
+- उपस्थे (*upasthe*)—in the proximity
+- आसीनासः (*āsīnāsaḥ*)—you who are seated
+- दाशुषे (*dāśuṣe*)—to the one who has offered the oblation
+- मर्त्याय (*martyāya*)—to the sacrificer
+- रयिं (*rayiṃ*)—wealth
+- धत्त (*dhatta*)—give
+- तस्य (*tasya*)—of that sacrificer
+- पुत्रेभ्यः (*putrebhyaḥ*)—to the sons
+- वस्वः (*vasvaḥ*)—wealth
+- प्र यच्छत (*pra yacchata*)—give
+- ते (*te*)—you, the renowned
+- इह (*iha*)—in this sacrificial rite of ours
+- ऊर्जं (*ūrjaṃ*)—wealth
+- दधात (*dadhāta*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Fathers, you who sit in the proximity of the attractive flames, give wealth to the sacrificer who has offered the oblation. Provide wealth for that sacrificer's son. You, the renowned, establish wealth in this sacrificial rite of ours.
+
+### Printed p. 500
+
+##### English translation
+Seated in the proximity of the radiant (flames of the altar), bestow riches on the mortal donor (of the oblation); give wealth, Pitris, to his sons ; you are present, grant us vigour.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये नः॒ पूर्वे॑ पि॒तरः॑ सो॒म्यासो॑ऽनूहि॒रे सो॑मपी॒थं  ॑
+> वसि॑ष्ठाः ।  
+> तेभि॑र्य॒मः सं॑ररा॒णो ह॒वींष्यु॒शन्नु॒शद्भिः॑ प्रतिका॒मम॑त्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । नः । पूर्वे । पितरः । सोम्यासः। अनुऊहिरे । सोमपीथं । वसिष्ठाः ।  
+> तेभिः । यमः । संरराणः । हवींषि । उशन् । उशत्भिः । प्रतिकामं । अत्तु ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोम्यासः सोमसंपादिनो वसिष्ठा वस्त्रतमाः कृताच्छादना धनवत्तमा
+> ना नोऽस्माकं ये पूर्वे पितरः सोमपीथं सोमपानमनूहिरे आनुपूर्व्यण
+> देवेभ्यश्च पितृभ्यश्च प्राप्नुवंतः । दत्तवंत इत्यर्थः । उशन् पितृभिः सह संभोगं
+> कामयमानो यमः पितृपतिरुशद्भिर्यमेन सह संभोगं कामयमानस्तेभिस्तैरस्यदीयैः पितृभिः सह रराणो रममाणो हवींष्यस्माभिर्दत्तानि प्रतिकामं
+> कामं कामं प्रत्यत्तु । यानि यानि हवींषि कामयते तानि तानि भक्षयत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सोम्यासः (*somyāsaḥ*): procurers of Soma; वसिष्ठाः (*vasiṣṭhāḥ*): best clothed, who have given clothing, richest. Those of our former Fathers who have obtained the Soma-drinking (सोमपीथं (*somapīthaṃ*)) in due order for the gods and for the Fathers (अनूहिरे (*anūhire*)), that is, who have given it. उशन् (*uśan*): Yama, lord of the Fathers, desiring communion with the Fathers; and (उशद्भिः (*uśadbhiḥ*)) the Fathers desiring communion with Yama. Yama, rejoicing (रराणः (*rarāṇaḥ*)) with those Fathers of ours, let him eat (अत्तु (*attu*)) the oblations given by us, according to his desire (प्रतिकामं (*pratikāmaṃ*)): whichever oblations he desires, let him consume each of them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our (their) सोम्यासः (*somyāsaḥ*)—those who offered Soma according to rule
+- वसिष्ठाः (*vasiṣṭhāḥ*)—most excellent
+- पूर्वे (*pūrve*)—ancestors
+- ये पितरः (*ye pitaraḥ*)—which Fathers
+- सोमपीथं (*somapīthaṃ*)—Soma-drinking
+- अनूहिरे (*anūhire*)—caused to be performed for the gods
+- तेभिः (*tebhiḥ*)—such
+- उशद्भिः (*uśadbhiḥ*)—(desiring connection with Yama) with the Fathers
+- रराणः (*rarāṇaḥ*)—he who takes delight
+
 ---
 
-**Progress note:** Done through printed p. 494. pp. 489-494 (batch API)
+**Progress note:** Done through printed p. 500. pp. 495-500 (batch API)
