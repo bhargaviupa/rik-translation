@@ -1,6 +1,6 @@
 # Vol 24: check of the printed contents against the body
 
-The contents list (supplied md lines 39–141) gives 47 sūkta entries (Maṇḍala 8, 21–67; entry k = sūkta 20+k, the numbers printed in the entries are OCR-damaged in places) each with a printed page. Compared with the page on which the English file places the `## Sūkta N` heading (the heading follows the page marker of the page where the sūkta starts; a sūkta that starts on a page after a page marker already printed is placed under the marker before it).
+The contents list (supplied md lines 39–141) gives 47 sūkta entries (Maṇḍala 8, 21–67; entry k = sūkta 20+k, the numbers printed in the entries are OCR-damaged in places) each with a printed page. Compared with the page of the marker under which the English file places the `## Sūkta N` heading (after the page-marker repair of Nov 25 2026: all 797 markers present and correct).
 
 | Sūkta | contents page | page of heading in English | difference |
 |---|---|---|---|
@@ -15,7 +15,7 @@ The contents list (supplied md lines 39–141) gives 47 sūkta entries (Maṇḍ
 | 29 | 189 | 189 | 0 |
 | 30 | 198 | 198 | 0 |
 | 31 | 203 | 203 | 0 |
-| 32 | 225 | 223 | 2 |
+| 32 | 225 | 225 | 0 |
 | 33 | 256 | 256 | 0 |
 | 34 | 276 | 276 | 0 |
 | 35 | 294 | 293 | 1 |
@@ -29,7 +29,7 @@ The contents list (supplied md lines 39–141) gives 47 sūkta entries (Maṇḍ
 | 43 | 395 | 395 | 0 |
 | 44 | 424 | 424 | 0 |
 | 45 | 450 | 450 | 0 |
-| 46 | 489 | 488 | 1 |
+| 46 | 489 | 489 | 0 |
 | 47 | 525 | 524 | 1 |
 | 48 | 547 | 547 | 0 |
 | 49 | 569 | 567 | 2 |
@@ -52,4 +52,4 @@ The contents list (supplied md lines 39–141) gives 47 sūkta entries (Maṇḍ
 | 66 | 757 | 757 | 0 |
 | 67 | 776 | 776 | 0 |
 
-47 contents entries read, 47 sūkta headings in the English file; 12 differ by at least one page. No scan of the printed contents was supplied: the page numbers of the contents are those of the supplied text.
+47 contents entries read, 47 sūkta headings in the English file; 10 differ by at least one page (the heading stands at the end of the page before the sūkta starts, or the contents number is the page of the sūkta text). No scan of the printed contents was supplied.
