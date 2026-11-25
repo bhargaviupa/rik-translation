@@ -6494,6 +6494,231 @@ Soma, the wise (चेकितत् (*cekitat*)), goes toward the eastern, for
 
 The wise Soma goes and joins the excellent eastern quarter. The chariot of Soma, visible to all and renowned among the gods, joins the sun's rays. O Soma, when you and Indra are unconquered by enemies in battles, then the hymns endowed with manly power join Indra and gladden him for the sake of victory. The vajra also joins Indra.
 
+### Printed p. 140
+The intelligent Soma proceeds to the eastern quarter; (your) beautiful chariot, (your) celestial beautiful chariot meets the sun's rays; the manly praises advance to Indra and simulate him to victory: (his) thunderbolt too (advances to him); so that you are invincible, invincible in battle,
+
+## Sūkta 112 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नानानमिति चतुर्यचं नवमं सूक्तमांगिरसस्य शिशुनाम्न आर्षं । पंचपदा पंक्तिश्चंदः । पवमानः सोमो देवता । तथा चानुक्रांतं । नानानं चतुष्कं
+> शिशुः पांक्तं हीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning with नानानं (*nānānaṃ*), has four Ṛks. Its seer is Śiśu Āṅgirasa; the metre is Pañcapadā Paṅktiḥ; the deity is Pavamāna Soma. Sāyaṇa cites the Anukramaṇī to the same effect. He adds that the viniyoga has been stated already.
+
+##### Anuvāda
+
+This sūkta beginning नानानं (*nānānaṃ*) is the ninth sūkta in the seventh anuvāka. It has four Ṛks. Its seer is Śiśu Āṅgirasa, its deity is Pavamāna Soma, and its metre is Pañcapadā Paṅktiḥ. In the Anukramaṇī it is stated: नानानं चतुष्कं शिशुः पांक्तं हि (*nānānaṃ catuṣkaṃ śiśuḥ pāṃktaṃ hi*). The viniyoga has been stated only once.
+
+##### Particulars
+
+- Sūkta—112
+- Maṇḍala—9; Anuvāka—7; Sūkta—112
+- Aṣṭaka—7; Adhyāya—5; Varga—25 **NOTE**
+- Number of Ṛks in the sūkta—4
+- Seer—Śiraḥ **NOTE**
+- Deity—Pavamāna Soma
+- Metre—Pāktiḥ **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ना॒ना॒नं वा उ॑ नो॒ धियो॒ वि व्र॒तानि॒ जना॑नां ।  
+> तक्का॑रि॒ष्टं रु॒तं भि॒षग्ब्र॒ह्मा सु॒न्वंत॑मिच्छ॒तींद्रा॑येंदोः॒ ॑ 
+> परि स्रव ॥ १ ॥
+
+### Printed p. 141
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नानानं । वै । ऊं इति । नः । धियः । वि । व्रतानि । जनानां ।  
+> तक्षा । रिष्टं । रुतं । भिषक् । ब्रह्मा । सुन्वंतं । इच्छति । इंद्राय । इंदो इति ।  
+> परि । स्रव . १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरेतदादिभिस्त्रिभिः सूक्तैरपरिस्रवतः सोमस्याजामित्वाय मनसो
+> विनोदनं कुर्वन्नाह । हे सोम नोऽस्माकं धियः कर्माणि नानानं नानाजातीयकानि बहूनि भवंति । वैशब्दः प्रसिद्धर्थद्योतनार्थः । उ इति पूरणः ।
+> तथान्येषामपि जनानां व्रतानि कर्माणि विविधानि भवंति । तक्षा त्वष्टा रिष्टं दारुतक्षणमिच्छति । तथा भिषगैद्यश्चित्सि को रुतं रोगमिच्छति । ब्रह्मा ब्राह्मणः सुन्वंतं
+> सोमाभिषवं कुर्वंतं यजमानमिच्छति । तथाहं त्वत्परिस्रवणमिच्छामि । तस्माद्दे
+> इंदो सोमेंद्रायेंद्रार्थं परि स्रव । परितः क्षर ॥
+
+##### Gist of the bhāṣya
+
+With this and the next two sūkta-verses the seer, to console his mind about Soma not flowing, speaks. O Soma, our acts (धियः (*dhiyaḥ*)) are of many kinds; so too the acts of other men are varied. The carpenter (तक्षा (*takṣā*), the wood-cutter) desires timber-cutting; the physician desires illness (रुतं (*rutaṃ*)); the Brahmā priest desires the sacrificer who presses Soma. In the same way I desire your flowing. Therefore, O Indu, flow around for Indra, that is, stream on all sides. The particle वै (*vai*) marks a well-known fact; उ (*u*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) नः (*naḥ*)—our
+- धियः (*dhiyaḥ*)—acts
+- नानानं (*nānānaṃ*)—are of many kinds
+- जनानां (*janānāṃ*)—of men
+- व्रतानि (*vratāni*)—acts
+- वि (*vi*)—are of many kinds
+- तक्षा (*takṣā*)—the wood-worker
+- रिष्टं (*riṣṭaṃ*)—wood-work
+- इच्छति (*icchati*)—desires
+- भिषक् (*bhiṣak*)—the physician
+- रुतं (*rutaṃ*)—desires disease
+- ब्रह्मा (*brahmā*)—the Brahmin
+- सुन्वंतं (*sunvaṃtaṃ*)—desires the sacrificer who presses Soma
+- इंदो (*iṃdo*)—O Soma-deva
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, our acts are of many kinds. The acts of men are of many kinds. The carpenter desires wood-work. The physician desires disease. The Brahmin desires the one who presses Soma. O Soma-deva, flow for Indra's drinking.
+
+##### English translation
+Various are our acts, (various) are the occupations of men; the carpenter desires timber, the physician disease, the Brahman a worshipper who effuse Soma : flow, Indu, for Indra.
+
+### Printed p. 142
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जर॑तीभि॒रोष॑धीभिः प॒र्णेभिः॑ शकु॒नानां॑ ।  
+> का॒र्मा॒रो अश्म॑भि॒र्दुर्यभि॒र्हिर॑ण्यवंतमिच्छ॒तींद्रा॑येंदो॒ परि॑  
+> स्रव ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जरतीभिः । ओषधीभिः! पर्णॆभिः । शकुनानां ।  
+> कार्मारः । अश्वभिः । द्युभिः हिरण्यवंतं । इच्छति । इंद्राय । इंदो इति ।  
+> परि । स्रव ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जरतीभिर्जीर्णाभिरोषधीभिरिषवः क्रियंते तथा शकुनानां पर्णॆभिरिषूणां
+> पक्षभूतैः पर्णॆश्च क्रियंते तथा द्युभिर्दिप्ताभिरिषूणां तेजनार्थाभिरश्मिभिः
+> शिलाभिश्च क्रियंते । एतैः कार्मारोऽयस्कारो हिरण्यवंतमाढ्यं पुरुषमिच्छति ।
+> तथाहं त्वत्परिस्रवणमिच्छामि । तस्मादिंदो इंद्राय परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+Arrows are made with old dried plants (जरतीभिः ओषधीभिः (*jaratībhiḥ oṣadhībhiḥ*)); likewise the feathers of birds serve as the feathering of arrows; and with shining (द्युभिः (*dyubhiḥ*)) stones, that is, whetting stones or rays for sharpening the arrows, they are made. With these the smith (कार्मारः (*kārmāraḥ*), the iron-worker) desires a rich man (हिरण्यवंतं (*hiraṇyavaṃtaṃ*)). So I desire your flowing; therefore, O Indu, flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरतीभिः (*jaratībhiḥ*)—with the old
+- ओषधीभिः (*oṣadhībhiḥ*)—with plants
+- इषवः (*iṣavaḥ*)—arrows are made
+- शकुनानां (*śakunānāṃ*)—of birds
+- पर्णेभिः (*parṇebhiḥ*)—with feathers the feathers of arrows are made
+- द्युभिः (*dyubhiḥ*)—shining
+- अश्वभीः (*aśvabhīḥ*)—with stones they are also made
+- कार्मारः (*kārmāraḥ*)—the goldsmith (or the carpenter) **NOTE**
+- हिरण्यवंतं (*hiraṇyavaṃtaṃ*)—a wealthy man
+- इच्छति (*icchati*)—desires
+- इंदो (*iṃdo*)—O Soma-deva
+- इंद्राय (*iṃdrāya*)—for Indra
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+Arrows are made with dried sticks. The feathers of arrows are made with the feathers of birds. They are also made with shining stones. The goldsmith and the carpenter desire a wealthy man. O Soma-deva, flow for Indra.
+
+##### English translation
+With dried plants (are arrows made), with the feathers of birds (and) with glistening stones; the smith seeks a man who has gold: flow, Indu, for Indra.
+
+### Printed p. 143
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> का॒रुर॒हं त॒तो भि॒षगु॑पलप्र॒क्षिणी॑ न॒ना ।  
+> नाना॑धियो वसू॒यवोऽनु॒ गा इ॑व तस्थि॒मेंद्रा॑येंदो॒ ॑ 
+> परि स्रव ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कारुः, अहं । ततः । भिषक् । उपलप्रक्षिणी । नना ।  
+> नानाधियः । वसुयवः । अनु । गाः इव । तस्तिम । इंद्राय । इंदो इति !  
+> परि । स्रव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः प्रवृत्तसोमयागः सन् दशापवित्रात्सोमे क्षरति प्रतिबंधकपापापनुत्तये पुरश्चरितानुकीर्तनपुरःसरमध्येषणां चकार । तावदहं कारुः स्तोमानां
+> कर्तास्मि । तत इति संताननाम । तन्यतेऽस्मादिति ततः पिता । तन्यतेसाविति वा ततः
+> पुत्रः । भिषग्येषजकृत् । यज्ञस्य ब्रह्मेत्यर्थः । सर्वं त्रय्या विद्यया भिषज्यतीति
+> श्रुतेः । ततोपलप्रक्षिणी । उपलेषु वालुकासु प्रक्षणोति यवान्हिनस्ति भृज्जतीति ।
+> यद्वा । दृषदादिषूपलेषु बृष्टान्यवान्हिनस्ति चूर्णयतीति । अथवा धानासक्तुकरंभादीनां कारिका वा । असौ नना माता दुहिता वा । नमनक्रियायोग्यत्वात् ।
+> माता खल्वपत्यं प्रति स्तनपानादिना नमनशीला भवति । दुहिता वा शुश्रूषार्थं ।
+> एवं सर्वेषां परिचरणेन नानाधियो नानाकर्माणो वसूयवो धनकामा
+> वयमनु तस्थिम । लोकमन्वास्थिताः स्मः । तत्र दृष्टांतः । गा इव ॥ छांदसो जसः
+> शसादेशः ॥ गावो यथा गोष्ठमनुतिष्ठंति स्वपयःप्रदानेन परिचरंति वा एवं
+> वयमपि परिचरामः । एतज्ञात्वा हे इंदो सोम इंद्राय परि स्रव । दशापवित्रात् क्षर । एवमेषाध्येषणा सत्कारपूर्विका व्यापारणा । अत्र निरुक्तं : उपलप्रक्षिणीत्युपलेषु प्रक्षिणात्युपलप्रक्षेपिणी वा । कारुरहमस्मि कर्ता स्तोमानां ततो
+> भिषक् तत इति संताननाम पितुर्वा पुत्रस्य वा । उपलप्रक्षिणी सक्तुकारिका नना
+> नमतेर्माता पा दुहिता वा ! नानाधियो नानाकर्माणो वसूयवो वसुकामा
+> अन्वास्थिताः स्मो गाव इव लोकं । नि. ६.५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The seer, having begun a Soma sacrifice, and Soma not flowing from the ten-fold filter, made a request, preceded by a recital of his own family's occupations, to remove the sin that obstructs. "I am a कारुः (*kāruḥ*), a maker of praises. ततः (*tataḥ*) is a name for offspring: one from whom (the family) is extended is father (ततः (*tataḥ*)), or one who is extended is son. भिषक् (*bhiṣak*) is the one who does the healing: the Brahmā of the sacrifice, since the Śruti says that everything is healed by the threefold knowledge. उपलप्रक्षिणी (*upalaprakṣiṇī*) is one who throws barley on the stones (grinding stones) and crushes or parches it; or, in another explanation, one who crushes the parched barley on mortar-stones; or she makes fried grain, flour, gruel and so on. नना (*nanā*) is mother or daughter, since she is fit for bowing: a mother bows to her child in nursing and so on; or a daughter for service. Thus by serving all, we, of various acts (नानाधियः (*nānādhiyaḥ*)) and desiring wealth (*vasūyavaḥ*), have taken our place in the world (अनु तस्थिम (*anu tasthima*)). Example: like cows (गा इव (*gā iva*); the plural accusative is Vedic): as cows keep to the stall or serve with the gift of their milk, so we serve. Knowing this, O Indu Soma, flow for Indra from the ten-fold filter. Such is this request, preceded by respect." Sāyaṇa then quotes the Nirukta (Ni. 6.5): उपलप्रक्षिणीत्युपलेषु प्रक्षिणात्युपलप्रक्षेपिणी वा । कारुरहमस्मि कर्ता स्तोमानां ततो भिषक् तत इति संताननाम पितुर्वा पुत्रस्य वा । उपलप्रक्षिणी सक्तुकारिका नना नमतेर्माता पा दुहिता वा ! नानाधियो नानाकर्माणो वसूयवो वसुकामा अन्वास्थिताः स्मो गाव इव लोकं । नि. ६.५ । इति ॥ (*upalaprakṣiṇītyupaleṣu prakṣiṇātyupalaprakṣepiṇī vā | kārurahamasmi kartā stomānāṃ tato bhiṣak tata iti saṃtānanāma piturvā putrasya vā | upalaprakṣiṇī saktukārikā nanā namatermātā pā duhitā vā ! nānādhiyo nānākarmāṇo vasūyavo vasukāmā anvāsthitāḥ smo gāva iva lokaṃ | ni. 6.5 | iti ‖*).
+
+### Printed p. 144
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- कारुः (*kāruḥ*)—am a praiser
+- ततः (*tataḥ*)—my father
+- भिषक् (*bhiṣak*)—is a physician
+- नना (*nanā*)—our mother
+- उपलप्रक्षिणी (*upalaprakṣiṇī*)—puts grain on the grinding stone and grinds
+- गाः इव (*gāḥ iva*)—like cows resorting to the stall
+- नानाधियः (*nānādhiyaḥ*)—having acts of many kinds
+- वसुयवः (*vasuyavaḥ*)—and desirous of wealth, we
+- अनु तस्थिम (*anu tasthima*)—have taken our place in the world
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+I am a praiser. My father is a physician. Our mother puts grain on the grinding stone and grinds. Like cows resorting to the stall, we, having acts of many kinds and desiring wealth, have taken up various ways of life in this world. O Soma, flow for Indra.
+
+##### English translation
+I am the singer ; father is the physician, mother throws the corn upon the grinding stones; having various occupations, desiring riches we remain (in the world) like cattle (in the stalls): flow, Indu, for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the beginning of this sūkta the commentator says: ऋषिरेतदादिभिस्त्रिभिः सूक्तैः अपरिस्रवतः सोमस्याजामित्वाय मनसो विनोदनं कुर्पन्नाह (*ṛṣiretadādibhistribhiḥ sūktaiḥ aparisravataḥ somasyājāmitvāya manaso vinodanaṃ kurpannāha*). The seer Śiśu, seer of this sūkta, was performing a sacrifice. At the time of pressing Soma, though he crushed and pressed the Soma plants, the Soma juice did not flow out properly. Noticing this, thinking स्वदुष्कृताशंकया किलापरिस्रवति सोमे पापसंकीर्तनादात्मशुद्धिर्भविष्यतीति मन्यमान आत्मानमेव निर्दिष्टन्नाह (*svaduṣkṛtāśaṃkayā kilāparisravati some pāpasaṃkīrtanādātmaśuddhirbhaviṣyatīti manyamāna ātmānameva nirdiṣṭannāha*) **NOTE**, he says: "Because of the sins I have committed, Soma does not come out of the plants in this way. Therefore if I proclaim my sins, and the acts done by me and by those connected with me, so that others hear them clearly, that sin will be pacified." So he has described in the Ṛks of this sūkta the activities of himself and of his father and the rest.
+
+On these Ṛks Yāska has given the Nirukta:
+कारुरहमस्मि कर्ता स्तोमानां । ततो भिषक् तत इति संताननाम पितुर्वा पुत्रस्य वा । उपलप्रक्षिणी सक्तुकारिका । नना नमतेर्माता ना दुहिता वा नानाधियो नानाकर्माणो वसूयवो वसुकामा अस्वास्थिताः स्मोगाव इव लोकं । इंद्रायेंदो परि स्रव इत्यध्येषणा ॥ (*kārurahamasmi kartā stomānāṃ | tato bhiṣak tata iti saṃtānanāma piturvā putrasya vā | upalaprakṣiṇī saktukārikā | nanā namatermātā nā duhitā vā nānādhiyo nānākarmāṇo vasūyavo vasukāmā asvāsthitāḥ smogāva iva lokaṃ | iṃdrāyeṃdo pari srava ityadhyeṣaṇā ‖*) (Ni. 6-5)
+
+### Printed p. 145
+That is: I am a praiser, one who composes words of praise and offers them for the delight of the gods; my father is a physician who treats diseases. Here, since the word ततः (*tataḥ*) denotes offspring, the word may mean father or son. For the word भिषक् (*bhiṣak*) the Bhāṣyakāra and the commentators of the Nirukta have explained in another way, leaving aside the meaning "physician". Here "diseases" are the defects and omissions that occur in sacrifices and the like, and the priest called Brahmā, who corrects them by expiations and the like, is the physician. The word नना (*nanā*) also has two meanings, mother and daughter: since she is fit to be bowed to she is the mother; since she bows to oneself she is the daughter; so it can be explained in two ways. Therefore नना (*nanā*) means my mother or daughter, who grinds flour with the grinding stone. Therefore all of our household are engaged in various works for the sacrifice. And we, desiring wealth, are intent on our several duties as cows go to their stalls. Therefore, O Soma, flow quickly from the plants for Indra's drinking: such is the intent of the explanation (of the Nirukta) **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वो॒ वोळ्हा॑ सु॒खं रथं॑ हस॒नामु॑पमं॒त्रिणः॑ ।  
+> शेपो॒ रोम॑ण्वंत् भे॒दौ वारिन्मं॒डूक॑ इच्छ॒तींद्रा॑येंदो॒ परि॑ स्रव ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वः । वोळ्हा । सुखं । रथं । हसनां । उपमंत्रिणः .  
+> शेपः । रोमण् ऽवंतौ । भेदौ । वाः । इत् । मंडूकः । इच्छति । इंद्राय ।  
+> इंदो इति । परि , स्रव ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वोळ्हा लक्ष्यं देशं प्रापयन्नश्वः सुखं कल्याणं रथमिच्छति । उपमंत्रिण
+> उपमंत्रवंतो नर्मसचिवा हसनामुपहसनां वाचमिच्छंति । तथा शेषः । शेषो
+> नैतस इति पुंसृजननस्येति यास्कः । नि. ३-२१ । यथा शेषो रोमण्वंतौ भेदाविच्छति । मंडूको वारित् ; इदवधारणे । उदकमेवेच्छति । तथाहं त्वत्परिस्रवणमिच्छामि । तस्मादिंद्रायेंदो परि स्रवेति ॥
+> xxvii 10
+
+##### Gist of the bhāṣya
+
+The horse (अश्वः (*aśvaḥ*)) that carries (वोळ्हा (*voḷhā*)) one to the intended place desires a good, comfortable chariot. The jesting companions (उपमंत्रिणः (*upamaṃtriṇaḥ*)), those who confer in jest, desire mocking speech (हसनां (*hasanāṃ*)). So also शेपः (*śepaḥ*): Yāska says शेषो नैतस इति पुंसृजननस्येति (*śeṣo naitasa iti puṃsṛjananasyeti*) (Ni. 3-21), i.e. the male organ of generation. As this desires the two hairy thighs (रोमण्वंत् भेदौ (*romaṇvaṃt bhedau*)), and the frog (मंडूकः (*maṃḍūkaḥ*)) desires only water (वारित् (*vārit*); इत् (*it*) is used in the sense of restriction), so I desire your flowing. Therefore, O Indu, flow for Indra.
+
 ---
 
-**Progress note:** Done through printed p. 139. pp. 133-139 (batch API)
+**Progress note:** Done through printed p. 145. pp. 140-145 (batch API)
