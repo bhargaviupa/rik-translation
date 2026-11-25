@@ -10,8 +10,8 @@ The source is the 1949–1952 Kannada edition of the Ṛgveda-saṃhitā with S�
 |---|---|---|
 | English translation (working text) | `volN/Rigveda_Samhita_VolN_English_Translation.md` | append-only, one trailing progress note; Sanskrit in three layers |
 | Kannada text | `volN/Rigveda_Samhita_VolN_Kannada_Text.md` | made by script from the supplied text, appended together with the English file; basis for later Telugu/Hindi work |
-| Print PDF, English | `publish/out/volN_full_Eng.pdf` | front matter from the volume's own scans; Vol 1 pattern |
-| Print PDF, Kannada | `publish/out/volN_full_Kan.pdf` | same front matter + the original Kannada pages' text |
+| Print PDF, English | `volN/review/volN_full_Eng.pdf` | front matter from the volume's own scans; Vol 1 pattern |
+| Print PDF, Kannada | `volN/review/volN_full_Kan.pdf` | same front matter + the original Kannada pages' text |
 | Status | `volN/STATUS.md` | the only place for volume-specific state |
 
 Not translated (user decision, Nov 7 2026): the Kannada front matter (title page, imprint, dedication, board, translator's note/preface, contents, abbreviations). It is carried as scanned pages in the PDFs.
@@ -39,7 +39,7 @@ publish/tools/translit/   kannada_to_deva.py, add_iast.py, deva_to_kannada.py (s
 publish/tools/accents/    accent_volume.py (accent marks from refs/mandala)
 publish/assets/           covers/portraits of old volumes; assets/volN/fm_NN.jpg + frontmatter.json (new volumes); guruji.jpg, maharaja.jpg
 publish/style*.css        style.css, style_vol1.css (old), style_volbook.css, style_volbook_kan.css
-publish/out/              built PDFs/HTML (see REPO_REVIEW: these should not live in git)
+publish/out/              release PDFs only (none yet); review copies are in volN/review/
 publish/build*.py, vol*_clean.py, voice.py   FROZEN: builders/cleaners of Vols 1–13 (old md formats); do not extend
 refs/mandala/             rv_mandala1..10.html: accented Ṛgveda text (all ten Maṇḍalas)
 vol1 … volN/              one folder per volume (layout below)
@@ -118,7 +118,7 @@ Review files: `doubts.tsv` (every `[?]` with the exact words), `accent_report.ts
 
 ## 8. Publication (print PDFs)
 
-One generic builder for all new volumes: **`python3 publish/volbook.py N [eng|kan]`** → `publish/out/volN_full_Eng.pdf`, `volN_full_Kan.pdf` (+ `.html`); reads `volN/pubcfg.json`; never changes the `.md` files. Needs `pip install weasyprint` and `apt-get install fonts-lohit-deva fonts-noto-core fonts-lohit-knda` (fonts are not preinstalled in cloud sessions). Lohit Devanagari is used because it draws the svarita as a vertical stroke; check no dotted circles (◌) in `pdftotext`.
+One generic builder for all new volumes: **`python3 publish/volbook.py N [eng|kan]`** → `volN/review/volN_full_Eng.pdf`, `volN_full_Kan.pdf` (+ `.html`); reads `volN/pubcfg.json`; never changes the `.md` files. Needs `pip install weasyprint` and `apt-get install fonts-lohit-deva fonts-noto-core fonts-lohit-knda` (fonts are not preinstalled in cloud sessions). Lohit Devanagari is used because it draws the svarita as a vertical stroke; check no dotted circles (◌) in `pdftotext`.
 
 Steps for a volume: (1) user's front-matter scan PDF → `python3 publish/tools/frontmatter/fm_extract.py UPLOAD.pdf --vol N --roles cover,title,portrait,permission,board,preface1,preface2,contents1,…,abbreviations` → `publish/assets/volN/`; (2) `python3 publish/tools/frontmatter/contents_parse.py volN/html/FILE.md --check` and **compare every contents number with the scan pages** (Vol 15: 159/159 equal after restoring one lost number; a number that is wrong *in the print* stays as printed and is recorded in `review/contents_check.md`); (3) fill `pubcfg.json` roles; (4) build; (5) open the first ~20 pages of both PDFs as images (cover, title page on ONE page, portrait, permission, board, contents, index), check page counts and fonts.
 Front-matter order: cover scan | title page (English typeset / Kannada scan) | credits | Maharaja portrait scan | permission page | board of scholars | preface scans (Kannada PDF) | Guruji portrait | "The Present Day" placeholders (kept by user decision) | printed contents typeset like the original with links to the "p. N" marks | abbreviations scan | English PDF also an index of sūktas | body.

@@ -24,7 +24,7 @@ Translated; file closed.
 `[?]` readings only.
 
 ## Publication (print PDF)
-Built with `build_vol45.py 6 full`; `publish/out/vol6_full.pdf`.
+Built with `build_vol45.py 6 full`; `vol6/review/vol6_full.pdf`.
 
 ## Pointers
 `vol6/README.md`.

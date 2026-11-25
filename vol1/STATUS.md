@@ -27,7 +27,7 @@ Translated and closed. Files are closed (do not edit) except agreed passes.
 Outside Vedic/Sanskrit expert review still wanted. ~59 best-effort/illegible places should become a 'known limitations' appendix. A few chapter headings carry unresolved bracketed numbers (check against the contents table). ~9,000 `[?]` readings in Vols 1–2 together. Only one source diagram (lineage chart, p. 48) was reproduced as an image.
 
 ## Publication (print PDF)
-Built (1,249–1,291 pp.) with `publish/build_vol1.py` + `publish/vol1_clean.py`; `publish/out/vol1_full.pdf`. Front matter is the model for the other volumes (cover, title, credits, portraits, contents).
+Built (1,249–1,291 pp.) with `publish/build_vol1.py` + `publish/vol1_clean.py`; `vol1/review/vol1_full.pdf`. Front matter is the model for the other volumes (cover, title, credits, portraits, contents).
 
 ## Pointers
 `vol1/README.md`, `vol1/vol1_state.md`, `vol1/vol1_runbook.md`, `vol1/vol1_handoff.md`, `vol1/vol1_qmarks_log.md`, `docs/HISTORY.md`.

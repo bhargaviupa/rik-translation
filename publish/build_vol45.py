@@ -134,8 +134,8 @@ def build(vol, mode='full'):
 </body></html>'''
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'vol{vol}_{mode}.html').write_text(doc, encoding='utf-8')
-    HTML(string=doc, base_url=str(PUB)).write_pdf(out / f'vol{vol}_{mode}.pdf')
-    print(f'notes: {len(notes)}; sūktas: {len(suk)}; wrote out/vol{vol}_{mode}.pdf')
+    HTML(string=doc, base_url=str(PUB)).write_pdf(PUB.parent / f'vol{vol}' / 'review' / f'vol{vol}_{mode}.pdf')
+    print(f'notes: {len(notes)}; sūktas: {len(suk)}; wrote vol{vol}/review/vol{vol}_{mode}.pdf')
 
 if __name__ == '__main__':
     build(int(sys.argv[1]), sys.argv[2] if len(sys.argv) > 2 else 'full')

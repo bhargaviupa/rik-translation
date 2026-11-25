@@ -9,7 +9,7 @@ Maṇḍala 2 Sūktas 24–43 and Maṇḍala 3 Sūktas 1–6 (Second Aṣṭaka
 `vol15/html/rig_15.md` (the user's two files `rig_15_1.md` + `rig_15_2.md` merged losslessly with `tools/rv/merge_md.py`: front matter lines 1–445, then printed pp. 1–800; the page split is identical to the two originals; `volcfg.json` `source` = `rig_15.md@2-800`). Front-matter scan PDF supplied by the user (Nov 8 2026, 15 pages) → `publish/assets/vol15/fm_NN.jpg`. No page scans in the repo.
 
 ## Outputs
-`vol15/Rigveda_Samhita_Vol15_English_Translation.md` and `…_Kannada_Text.md` (merged to `main`); `publish/out/vol15_full_Eng.pdf` / `vol15_full_Kan.pdf`.
+`vol15/Rigveda_Samhita_Vol15_English_Translation.md` and `…_Kannada_Text.md` (merged to `main`); `vol15/review/vol15_full_Eng.pdf` / `vol15_full_Kan.pdf`.
 
 ## How it was made
 Standing single Sonnet agent, one 3-page window per batch (≈ 257 windows, p. 1–800); dispatcher verified every commit (`git log`, one progress note, no `XXX`). Cost log `vol15/parts/batch_costs.md` (tokens mostly 'n/a'). Details of the method: `CLAUDE.md` (pipeline).
@@ -28,7 +28,7 @@ Front matter is deliberately not translated.
 Page numbers refer to the English PDF. P6 board of scholars → translated page; P9–16 contents and abbreviations → translated (`contents_en.json`, `frontmatter_en.json`) with the page numbers of this book; separate sūkta index (P17–18) removed; Om at the top of printed p. 1; "Introduction" on its own page; the front Pīṭhike = Preface (translated); remarks moved to footnotes; page-break sentence p. 1/2 repaired; reference abbreviations corrected in both files (`refs_fix.py`). Still open from the review: further comments by the user as the review continues; other possibly misread abbreviations (e.g. ಭಾ. ಉ., ಕೃ. ಸಂ., ತ್ರೈ. ಬ್ರಾ., ಕಥ.) need the user's reading.
 
 ## Publication (print PDF)
-`python3 publish/volbook.py 15 [eng|kan]` (config `vol15/pubcfg.json`); outputs in `publish/out/`; front matter = the user's scan pages; Guruji and 'present day' pages kept (user decision).
+`python3 publish/volbook.py 15 [eng|kan]` (config `vol15/pubcfg.json`); outputs in `vol15/review/`; front matter = the user's scan pages; Guruji and 'present day' pages kept (user decision).
 
 ## Metrics (Vol 15 = the baseline; later volumes should beat it)
 | windows | pages | hand-fixes | gate failures | `[?]` | inline mismatches | accent lines unmatched | QA sample | tokens / cost |

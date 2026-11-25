@@ -3,7 +3,7 @@
 
   python3 publish/volbook.py N [eng|kan] [--html-only] [--wikisource]
 
-Reads volN/pubcfg.json and writes publish/out/<out>_Eng.pdf / <out>_Kan.pdf (+ .html).  Nothing in the volume's .md files is changed.
+Reads volN/pubcfg.json and writes the review copies volN/review/<out>_Eng.pdf / <out>_Kan.pdf (publish/out/ is for releases only; the .html build step stays there, not kept).  Nothing in the volume's .md files is changed.
 
 Per-volume inputs (see vol15/pubcfg.json):
   * front-matter page images from the user's scan PDF:  publish/tools/frontmatter/fm_extract.py UPLOAD.pdf --vol N --roles cover,title,...
@@ -343,14 +343,15 @@ def wrap(front_html, rest, kan, vol):
     return (f'<!doctype html><html lang="{"kn" if kan else "en"}"><head><meta charset="utf-8"><title>{t}</title>'
             f'<link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../style_vol1.css">{css}</head><body>\n{front_html}\n{rest}\n</body></html>')
 
-def write(doc, name, html_only):
+def write(doc, name, html_only, vol):
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'{name}.html').write_text(doc, encoding='utf-8')
     print(f'wrote out/{name}.html', len(doc) // 1024, 'KB')
     if not html_only:
         from weasyprint import HTML
-        HTML(string=doc, base_url=str(out)).write_pdf(out / f'{name}.pdf')
-        print(f'wrote out/{name}.pdf')
+        rev = ROOT / f'vol{vol}' / 'review'; rev.mkdir(exist_ok=True)          # review copies live with the volume (REQUIREMENTS A1, F16)
+        HTML(string=doc, base_url=str(out)).write_pdf(rev / f'{name}.pdf')
+        print(f'wrote vol{vol}/review/{name}.pdf')
 
 def abbreviations(cfg):
     role = cfg.get('front', {}).get('abbreviations')
@@ -401,7 +402,7 @@ def build_eng(cfg, html_only):
     else:
         idx = '<section class="toc"><h2>Index of Sūktas</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(l)}</a></li>' for h, l, c in toc) + '</ul></section>'
         ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', []); ab = abbreviations(cfg)
-    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only)
+    write(wrap(front(cfg, 'eng', fm(cfg), blocks), ch + '\n' + ab + '\n' + idx + '\n' + body, False, cfg['vol']), cfg['out'] + '_Eng', html_only, cfg['vol'])
 
 def kannada_front_matter_fallback(cfg):
     """Only used when the volume has no preface scans: the supplied text up to the Pīṭhike (the Om line that opens printed p. 1)."""
@@ -433,7 +434,7 @@ def build_kan(cfg, html_only):
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
     ch, blocks = contents_html(cfg) if cfg.get('contents') else ('', [])
-    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only)
+    write(wrap(front(cfg, 'kan', fm(cfg), blocks), ch + '\n' + abbreviations(cfg) + idx + body, True, cfg['vol']), cfg['out'] + '_Kan', html_only, cfg['vol'])
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith('--')]

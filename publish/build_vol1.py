@@ -88,8 +88,8 @@ def build(mode='full'):
 </body></html>'''
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'vol1_{mode}.html').write_text(doc, encoding='utf-8')
-    HTML(string=doc, base_url=str(PUB)).write_pdf(out / f'vol1_{mode}.pdf')
-    print(f'notes: {len(notes)}; parts: {n["h1"]}; chapters: {n["h2"]}; wrote out/vol1_{mode}.pdf')
+    HTML(string=doc, base_url=str(PUB)).write_pdf(PUB.parent / 'vol1' / 'review' / f'vol1_{mode}.pdf')
+    print(f'notes: {len(notes)}; parts: {n["h1"]}; chapters: {n["h2"]}; wrote vol1/review/vol1_{mode}.pdf')
 
 if __name__ == '__main__':
     build(sys.argv[1] if len(sys.argv) > 1 else 'full')

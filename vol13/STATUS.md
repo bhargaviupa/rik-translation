@@ -13,7 +13,7 @@ Expected from the old edition: Maṇḍala 1 Sūktas 166–183 (Fourth Adhyāya 
 
 ## Outputs
 New, empty: `vol13/Rigveda_Samhita_Vol13_English_Translation.md` and `…_Kannada_Text.md` (progress note "Done through printed p. 0"). `volcfg.json`: window 6, `note_style` NOTE, sub-heading layout, bhāṣya block Devanagari only, grammar in Sanskrit, Wilson label (to confirm), `source` page range to be set from the text.
-**Old translation, kept untouched: `vol13/legacy/`** (`Rigveda_Samhita_Vol13_English_Translation_scan.md`, `.docx`, `.pdf`). `publish/out/vol13_full.pdf` and the docx/pdf pair there are builds of the old text. `publish/build_vol45.py 13` no longer finds its input at the old path.
+**Old translation, kept untouched: `vol13/legacy/`** (`Rigveda_Samhita_Vol13_English_Translation_scan.md`, `.docx`, `.pdf`). `vol13/legacy/vol13_full.pdf` and `vol13/legacy/Rigveda_Samhita_Vol13_English_Translation.pdf` (moved from `publish/out/` Nov 25 2026) are builds of the old text. `publish/build_vol45.py 13` no longer finds its input at the old path.
 
 ## Status
 Scaffold only. Nothing translated, nothing sent to the API. Next: `vol13/CONTINUE_PROMPT_HTML.md` in a new session, after the user uploads the text.

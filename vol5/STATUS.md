@@ -21,7 +21,7 @@ Translated and complete including the Pariśiṣṭa (printed pp. 1–529 and 53
 Repair pilot: `[?]` in printed pp. 1–184 repaired against the supplied text (`vol5/review/html_repair_log.tsv`, tools `tools/rv/repair_worksheet.py`, `compare_html_scan.py`); the user judges disagreements. Vol 5 tests (`vol5/review/exp15`, `exp40`) are the basis of the decision to use the supplied text as base from Vol 15 on.
 
 ## Publication (print PDF)
-Built with `build_vol45.py 5 full`; `publish/out/vol5_full.pdf`.
+Built with `build_vol45.py 5 full`; `vol5/review/vol5_full.pdf`.
 
 ## Pointers
 `vol5/README.md`.

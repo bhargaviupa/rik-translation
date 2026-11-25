@@ -21,7 +21,7 @@ Translated (complete).
 Numeral pass status: not recorded (`vol9/numerals/` is empty); check `publish/tools/numeral_pass/METHOD.md` before starting one.
 
 ## Publication (print PDF)
-Built with `build_vol45.py 9 full` (title page image `assets/title_vol9.jpg`); `publish/out/vol9_full.pdf`.
+Built with `build_vol45.py 9 full` (title page image `assets/title_vol9.jpg`); `vol9/review/vol9_full.pdf`.
 
 ## Pointers
 `docs/HISTORY.md`.

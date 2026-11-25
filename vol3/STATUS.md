@@ -24,7 +24,7 @@ Translated. **Audit (`vol3/Session_Report_Vol3_Sukta29-32.md`):** Sūkta 29 Ṛk
 Pass in progress or pending per the runbook; see Vol 2 for common open items.
 
 ## Publication (print PDF)
-Built (799 pp.) with `publish/build.py 3 full`; `publish/out/vol3_full.pdf`.
+Built (799 pp.) with `publish/build.py 3 full`; `vol3/review/vol3_full.pdf`.
 
 ## Pointers
 `vol3/README.md`, `vol3/vol3_runbook.md`, `vol3/Session_Report_Vol3_Sukta29-32.md`.
