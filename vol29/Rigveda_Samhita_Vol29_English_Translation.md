@@ -13221,6 +13221,331 @@ The mother who is the institutress of the ceremony, the mother of male offspring
 > इं॒द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवं ।  
 > न॒ह्य॑स्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥११॥
 
+### Printed p. 471
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राणीं । आसु । नारिषु । सुभगां । अहं । अश्रवं ।  
+> नहि । आस्त्याः । अपरं । चन । जरसा । मरते । पतिः । विश्वस्मात् । इंद्रः । उत्तरः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथेंद्राणीमिंद्रः स्तौति । आसु सौभाग्यवत्तया प्रसिद्धासु नारीषु स्त्रीषु
+> स्त्रीणां मध्य इंद्राणीं सुभगां सौभाग्यवतीमहमिंद्रोऽश्रवं । अशौषं ।
+> किंचास्या इंद्राण्याः पतिः पालको विश्वस्मादुत्तर उत्कृष्टतर इंद्रोऽपरं चनान्यद्भूतजातमिव जरसा वयोहान्या न हि मरते । न खलु म्रियते । यद्वा ।
+> इदं वृषाकपीर्वाक्यं । तस्मिन्पक्षे त्वहमिति शब्दो वृषाकपिपरतया योज्यः ।
+> अन्यत्समानं ॥
+
+##### Gist of the bhāṣya
+
+Now Indra praises Indrāṇī. Among these women (नारीषु (*nārīṣu*)), famed for good fortune, I, Indra, have heard (अश्रवं (*aśravaṃ*), that is, अशौषं (*aśauṣaṃ*)) that Indrāṇī is fortunate (सुभगां (*subhagāṃ*)), possessed of good fortune. Further, her husband, her protector Indra, who is above all, more excellent, does not die of old age (जरसा (*jarasā*), by loss of vigour) like any other creature. Or else this is the speech of Vṛṣākapi; on that view the word अहं (*ahaṃ*) is to be applied to Vṛṣākapi. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसु नारिषु (*āsu nāriṣu*)—among all these women
+- इंद्राणीं (*iṃdrāṇīṃ*)—Indrāṇī alone
+- सुभगां (*subhagāṃ*)—as a most excellent fortunate woman
+- अहं (*ahaṃ*)—I
+- अश्रवं (*aśravaṃ*)—have heard
+- अस्याः (*asyāḥ*)—her
+- पतिः (*patiḥ*)—protector
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is the most excellent
+- अपरं च न (*aparaṃ ca na*)—not like other people
+- जरसा (*jarasā*)—by old age
+- न हि मरते (*na hi marate*)—does not die
+
+##### भावार्थ (Bhāvārtha)
+
+I have heard that among all these women Indrāṇī is the most excellent and fortunate. Indra, who is greater than the whole world, is her husband. He does not die of old age like other people.
+
+##### English translation
+[ Indra speaks:] I have heard that Indrani is the most fortunate among these women, for her lord Indra, who is above all (the world), does not die of old age like other (men).
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given the Nirukta: इंद्राणी इंद्रस्य पत्निः तस्यैषा भवति । इंद्राणीमासु नारिषु सुभगामहमश्रवं । न ह्यस्या अपरं चन जरसा मरते पतिर्विश्वस्मादिंद्र उत्तरः ॥ इंद्राणीमासु नारिषु सुभगामहमशृणवं न्य ह्यस्या अपरामपि समां जरया म्रियते पतिः सर्वस्माद्य इंद्र उत्तरस्तमेतद्दूमः ॥ (*iṃdrāṇī iṃdrasya patniḥ tasyaiṣā bhavati | iṃdrāṇīmāsu nāriṣu subhagāmahamaśravaṃ | na hyasyā aparaṃ cana jarasā marate patirviśvasmādiṃdra uttaraḥ ‖ iṃdrāṇīmāsu nāriṣu subhagāmahamaśṛṇavaṃ nya hyasyā aparāmapi samāṃ jarayā mriyate patiḥ sarvasmādya iṃdra uttarastametaddūmaḥ ‖*) (Ni. 11-38)
+
+### Printed p. 472
+
+Indrāṇī means the wife of Indra. In the Ṛk that follows there is mention of Indrāṇī. I have heard that Indrāṇī, the wife of Indra, is endowed with the greatest good fortune of all other women. For, however many years may pass, her husband Indra never at any time dies of old age. The main purport of the Nirukta is that Indra is the most excellent one, greater than the whole world.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाहमिं॑द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेर्यु॒ते ।  
+> यस्ये॒नमष्यं॑ ह॒विः प्रि॒यं दे॒वेषु॒ गच्छ॑ति॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अहं । इंद्राणि । ररण । सख्युः । वृषाकपेः । ऋते ।  
+> यस्य । इदं । अप्यं । हविः । प्रियं । देवेषु । गच्छति । विश्वस्मात् । इंद्रः ।  
+> उत्कतरः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्राणि अहमिंद्रः सख्युर्मम सखिभूताद्वृषाकपेर्यते प्रियं
+> वृषाकपिं विना न रराण । न रमे । अप्यमप्पु भवमद्भिर्वा सुसंस्कृतं प्रियं
+> प्रीतिकरमिदमुपस्थितं हविर्देवेषु देवानां मध्यॆ यस्य ममेंद्रस्य सकाशं
+> गच्छति । यश्चाहमिंद्रः सर्वस्मादुत्तरः । यद्वा । अयमर्थः । हे इंद्राणि
+> वृषाकपेः सख्युरिंद्रादृतेऽहं वृषाकपिर्न रराण । न रमे । अन्यत्समानं ॥
+
+##### Gist of the bhāṣya
+
+O Indrāṇī, I, Indra, do not delight (रराण (*rarāṇa*): न रमे (*na rame*)) without वृषाकपेः (*vṛṣākapeḥ*), my friend (सख्युः (*sakhyuḥ*)), the dear Vṛṣākapi. अप्यं (*apyaṃ*) is that which is born in the waters or that which is well prepared with waters; this dear, pleasing oblation, now present, goes among the gods to me, Indra. And I, Indra, am above all, more excellent. Or else this is the meaning: O Indrāṇī, without Vṛṣākapi's friend Indra, I, Vṛṣākapi, do not delight. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्राणि (*iṃdrāṇi*)—O Indrāṇī
+- अहं (*ahaṃ*)—I
+- सख्युः (*sakhyuḥ*)—of my son Vṛṣākapi
+- ऋते (*ṛte*)—without Vṛṣākapi
+- न ररण (*na raraṇa*)—am not delighted
+- अप्यं (*apyaṃ*)—prepared with water
+- प्रियं (*priyaṃ*)—and dear to me
+- इदं हविः (*idaṃ haviḥ*)—this oblation
+- देवेषु (*deveṣu*)—among the gods
+- यस्य (*yasya*)—to whomever, to me
+- गच्छति (*gacchati*)—comes
+- इंद्रं (*iṃdraṃ*)—I, the lord
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—am the more excellent
+
+### Printed p. 473
+
+##### भावार्थ (Bhāvārtha)
+
+O Indrāṇī, without my friend Vṛṣākapi I have no joy. I, the lord, towards whom this oblation, prepared with water and dear to me, comes among the gods, am more excellent than the world. **NOTE**
+
+##### English translation
+I am not happy, Indrani, without my friend Vrishakapi: whose acceptable oblation here, purified with water, proceeds to the gods; Indra is above all (the world)
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the Nirukta of this Ṛk in this way: नाहमिंद्राणि रमे सख्युर्वृषाकपेर्ऋते यस्येदमप्यं हविरप्सु शृतमद्भिः संस्कृतमिति ना प्रियं देवेषु निगच्छति सर्वस्माद्य इंद्र उत्तरस्तमेतद्दूमः ॥ (*nāhamiṃdrāṇi rame sakhyurvṛṣākaperṛte yasyedamapyaṃ havirapsu śṛtamadbhiḥ saṃskṛtamiti nā priyaṃ deveṣu nigacchati sarvasmādya iṃdra uttarastametaddūmaḥ ‖*) (Ni. 11-39). In this Ṛk Indra addresses Indrāṇī and speaks thus: O Indrāṇī, if Vṛṣākapi, my friend and son, is not with me, I have no joy. The oblation that is cooked with water, that is, prepared by the use of water, gives pleasure to the gods and approaches them.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑कपायि॒ रेव॑ति॒ सुपु॑त्र॒ आदु॒ सुस्नु॑षे ।  
+> घस॑त्त॒ इंद्र॑ उ॒क्षणः॑ प्रि॒यं का॑चित्क॒रं ह॒विर्विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषाकपायि । रेवति । सुपुत्रे। आत् । ऊं इति । सुस्नुषे ।  
+> घसत् । ते । इंद्रः । उक्षणः । प्रियं । काचित्सरं । हविः । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ १३ ॥
+
+### Printed p. 474
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषाकपायि। कामानां वर्षकत्वादभीष्टदेशग नाच्चेंद्रो वृषाकपिः
+> तस्य पत्नि । यद्वा । वृषाकपेर्मम मातरित्यर्थः । रेवति धनवति सुपुत्रे शोभनपुत्रे सुस्नुषे शोभनस्नुषे हे इंद्राणि ते तवायमिंद्र उक्षणः सेचनसमर्था
+> नाद्वनंतरमेव। शीघ्रमेवेत्यर्थः । पशून्फसत् । प्राश्नातु । किंच काचित्करं ।
+> कं सुखं। तस्याचित् संघः। तत्करं हविः प्रियमिष्टं कुर्विति शेषः। किंच ते पतिरिंद्रो
+> विश्वस्मादुत्तरः । तथा च यास्कः । वृषाकपायि रेवति सुपुत्रे मध्यमेन सुस्नुषे
+> माध्यमिकया वाचा । स्नुषा साधुसादिनीति वा साधुसानिनीति वा । प्रियं कुरुष्ट
+> सुखाचयकरं हविः सर्वस्माद्य इंद्र उत्तरः । नि. १२-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+O वृषाकपायि (*vṛṣākapāyi*): Indra is Vṛṣākapi because he rains down desires and goes to the places desired; his wife is Vṛṣākapāyī. Or else it means Vṛṣākapi's, that is my, mother. O wealthy one (रेवति (*revati*)), O mother of a good son (सुपुत्रे (*suputre*)), O one with a good daughter-in-law (सुस्नुषे (*susnuṣe*)), O Indrāṇī: let this your Indra, उक्षणः (*ukṣaṇaḥ*), who is able to sprinkle, immediately thereafter, that is, quickly, eat (घसत् (*ghasat*)) the animals. Further, the oblation that produces happiness (काचित्करं (*kācitkaraṃ*), ka being happiness): make it dear, that is, desired; this is the word to be supplied. Further, your husband Indra is above all. Likewise Yāska says: मध्यमेन सुस्नुषे माध्यमिकया वाचा (*madhyamena susnuṣe mādhyamikayā vācā*); स्नुषा साधुसादिनीति वा साधुसानिनीति वा (*snuṣā sādhusādinīti vā sādhusāninīti vā*); प्रियं कुरुष्ट सुखाचयकरं हविः (*priyaṃ kuruṣṭa sukhācayakaraṃ haviḥ*) (Ni. 12-9). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषाकपायि (*vṛṣākapāyi*)—O mother of Vṛṣākapi
+- रेवति (*revati*)—possessed of wealth
+- सुपुत्रे (*suputre*)—having excellent sons
+- सुस्नुषे (*susnuṣe*)—having an excellent daughter-in-law (O Indrāṇī)
+- ते (*te*)—your husband
+- इंद्रः (*iṃdraḥ*)—Indra
+- उक्षणः (*ukṣaṇaḥ*)—powerful bulls
+- आदु (*ādu*)—immediately
+- घसत् (*ghasat*)—let him eat
+- काचित्करं हविः (*kācitkaraṃ haviḥ*)—the oblation that gives happiness
+- प्रियं (*priyaṃ*)—make it agreeable to Indra
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than all the worlds
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Indrāṇī, mother of Vṛṣākapi, possessed of wealth, having excellent sons and an excellent daughter-in-law: let your husband Indra eat the flesh of powerful bulls. Make the oblation that gives happiness agreeable to Indra. Indra is more excellent than the whole world.
+
+##### English translation
+[ Vrishakapi speaks : ] O mother of Vrishakapi, wealthy, possessing excellent sons, possessing excellent daughters-in-law, let Indra eat your bulls, (give him) the beloved and most delightful ghi; Indra is above all (the world).
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the word वृषाकपाया (*vṛṣākapāyā*) in this Ṛk, Yāska has, as an example, given the explanation of this Ṛk in this way: वृषाकपायी वृषाकपेः पत्न्येष्टैवाभिसृष्टकालतमा । तस्येषा भवति । वृषाकपायी रेवति सुपुत्र आ सुस्नुषे घसत्त इंद्र उक्षणः प्रियं (*vṛṣākapāyī vṛṣākapeḥ patnyeṣṭaivābhisṛṣṭakālatamā | tasyeṣā bhavati | vṛṣākapāyī revati suputra ā susnuṣe ghasatta iṃdra ukṣaṇaḥ priyaṃ*)
+
+### Printed p. 475
+
+काचित्करं हविर्विश्वस्मादिंद्र उत्तरः ॥ वृषाकपायि रेवति सुपुत्रे मध्यमेन सुस्नुषे माध्यमिकया वाचा । स्नुषा साधुसादिनीति वा साधुसानिनीति वा स्वपत्यं तत्सनोतीति वा ॥ प्राश्नातु त इंद्र उक्षण एतान्याध्यमिकान् संस्तायान् । उक्षण उक्षतेर्वृद्धि कर्मणः उक्षंत्युदकेनेति वा प्रियं कुरुष्ट सुखाचयकरं हविः सुखकरं हविः सर्वस्माद्य इंद्र उत्तरस्तमेतद्दूम आदित्यं ॥ (*kācitkaraṃ havirviśvasmādiṃdra uttaraḥ ‖ vṛṣākapāyi revati suputre madhyamena susnuṣe mādhyamikayā vācā | snuṣā sādhusādinīti vā sādhusāninīti vā svapatyaṃ tatsanotīti vā ‖ prāśnātu ta iṃdra ukṣaṇa etānyādhyamikān saṃstāyān | ukṣaṇa ukṣatervṛddhi karmaṇaḥ ukṣaṃtyudakeneti vā priyaṃ kuruṣṭa sukhācayakaraṃ haviḥ sukhakaraṃ haviḥ sarvasmādya iṃdra uttarastametaddūma ādityaṃ ‖*) (Ni. 12-9)
+
+Vṛṣākapāyi means the wife of Vṛṣākapi, that is, the wife of Āditya; Vṛṣākapi means the Sun. Sūryā, the wife of that Sun, after some time is called by the name Vṛṣākapāyi. In the Ṛk beginning वृषाकपायि रेवति (*vṛṣākapāyi revati*) (the present Ṛk) this matter is mentioned. O Vṛṣākapāyi (wife of Āditya), you are रेवति (*revati*), that is, possessed of wealth; here wealth is wealth in the form of water. सुपुत्रे (*suputre*): having an excellent son; here the son is Indra, the deity of the middle region (the atmosphere), the excellent son. सुस्नुषे (*susnuṣe*): having an excellent daughter-in-law; here the deity of Speech of the middle region is the excellent daughter-in-law. Three derivations of the word स्नुषा (*snuṣā*) are stated here. साधुसादिनीति वा स्नुषा (*sādhusādinīti vā snuṣā*): because she sits well, that is, dwells steadily in the house of the mother-in-law, the daughter-in-law is called snuṣā. Or साधु सानिनीति वा स्नुषा (*sādhu sāninīti vā snuṣā*): because she works in the house of the mother-in-law and helps in the work of maintaining the livelihood, the daughter-in-law is called snuṣā. Or स्वपत्यं तत्सनोतीति वा स्नुषा (*svapatyaṃ tatsanotīti vā snuṣā*): because, living in the house of her husband, she increases the offspring of her husband, the daughter-in-law is called snuṣā.
+
+The word उक्षणः (*ukṣaṇaḥ*) is formed from the root ukṣ in the sense of growing; or the root ukṣ may also mean to sprinkle water. Therefore ukṣaṇaḥ can be explained as the clouds that sprinkle water. घसत्त इंद्र उक्षणः (*ghasatta iṃdra ukṣaṇaḥ*) means: let Indra eat, that is, destroy, these water-sprinkling clouds, let him strike them with the thunderbolt. Therefore make this oblation, offered to this Indra, that is, to the Sun, agreeable to him. This is the main purport of the Nirukta.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्ष्णो हि मे॒ पंच॑दश सा॒कं पचं॑ति विंश॒तिं ।  
+> उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्सी पृ॑णंति मे॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ १४ ॥
+
+### Printed p. 476
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उष्णः । हि । मे । पंचदश । साकं । पचंति । विंशतिं ।  
+> उत । अहं । अद्मि । पीवः । इत् । उभा । कुक्षी इति । पृणंति । मे । विश्वस्मात् ।  
+> इंद्रः । उत्तरः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथेंद्रो ब्रवीति । मे मदर्थं पंचदश पंचदशसंख्याकान् विंशतिं
+> विंशतिसंख्याकांश्चोक्ष्णो वृषभान् साकं सह मम भार्ययेंद्राण्या प्रेरिता
+> यष्टारः पचंति । उतापि चाहमद्मि । तान्भक्षयामि । जग्त्वा चाहं पीव इत् स्कूल
+> एव भवामीति शेषः । किंच मे मनोभोभौ कुक्षि पृणंति । सोमेन पूरयंति
+> यष्टारः । सोऽहमिंद्रः सर्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+Now Indra speaks. For me (मे (*me*)), on my behalf, the sacrificers, impelled by my wife Indrāṇī, cook together (साकं (*sākaṃ*)) fifteen (पंचदश (*paṃcadaśa*)) and twenty (विंशतिं (*viṃśatiṃ*)) bulls (उक्ष्णः (*ukṣṇaḥ*)). And I eat (अद्मि (*admi*)) them, and I become stout (पीव इत् (*pīva it*)). Further, the sacrificers fill both my sides of the belly (कुक्षी (*kukṣī*)) with Soma. I, that Indra, am above all, more excellent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—for me
+- पंचदश (*paṃcadaśa*)—fifteen in number
+- विंशतिं (*viṃśatiṃ*)—and twenty in number
+- उक्ष्णः (*ukṣṇaḥ*)—bulls
+- साकं (*sākaṃ*)—together
+- पचंति (*pacaṃti*)—the sacrificers cook
+- उत (*uta*)—and
+- अहं (*ahaṃ*)—I
+- अद्मि (*admi*)—eat them
+- पवीत् (*pavīt*)—grow stout
+- मे (*me*)—my
+- उभा कुक्षि (*ubhā kukṣi*)—both sides of the belly
+- पृणंति (*pṛṇaṃti*)—fill
+- इंद्रः (*iṃdraḥ*)—I, the lord
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—am more excellent
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers cook fifteen and twenty bulls for me and offer them. I eat them and grow stout. They fill both sides of my belly. I, the lord, am more excellent than the whole world.
+
+##### English translation
+[ Indra speaks : ] The worshippers dress for me fifteen (and) twenty bulls : I eat them and (become) fat, they fill both sides of my belly; Indra is above all (the world).
+
+#### Ṛk 15
+
+### Printed p. 477
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष॒भो न ति॒ग्मशृं॑गो॒ऽंतर्यू॒थेषु॒ रोरु॑वत् ।  
+> मं॒थस्त॑ इंद्र॒ शं हृ॒दे यं ते॑ सु॒नोति॑ भाव॒युर्विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषभः । न । तिग्मृशृंगः । अंतः । यूथेषु । रोरुवत् ।  
+> मंथः । ते । इंद्र । शं । हृदे । यं । ते । सुनोति । भावयुः । विश्वस्मात् ।  
+> इंद्रः । उत्तरः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथेंद्राणी ब्रवीति । तिग्मशृंगस्तीक्ष्णशृंगो वृषभो न यथा वृषभो
+> यूथेषु गोसंघेष्टंतर्मध्यॆ रोरुवच्छब्दं कुर्वन् गा अभिरमयति तथा
+> हे इंद्र त्वं मामभिरमयेति शेषः । किंच हे इंद्र ते तव हृदे हृदयाय
+> मंथो दध्नो मथनवेलायां शब्दं कुर्वञ्यं शंकरो भवत्त्विति शेषः । किंच ते
+> तुभ्यं यं सोमं भावयुर्भावमिच्छंतींद्राणी सुनोति अभिषुणोति सोऽपि
+> शंकरो भवत्त्यर्थः । मम पतिरिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+Now Indrāṇī speaks. As (न (*na*)) a bull with sharp horns (तिग्मशृंग (*tigmaśṛṃga*)) roars (रोरुवत् (*roruvat*)) among the herds of cows and delights the cows, so, O Indra, may you delight me; this is the word to be supplied. Further, O Indra, for your heart (हृदे (*hṛde*)) may the मंथः (*maṃthaḥ*), the sound made at the time of churning curds, be a source of happiness; this is the word to be supplied. Further, the Soma which Indrāṇī, desiring bhāva (भावयुः (*bhāvayuḥ*)), presses (सुनोति (*sunoti*)) for you, may that too be a source of happiness. My husband Indra is above all, more excellent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यूथेषु अंतः (*yūtheṣu aṃtaḥ*)—in the herd of cows
+- रोरुवत् (*roruvat*)—making a sound
+- तिग्मृंगः (*tigmṛṃgaḥ*)—having sharp horns
+- वृषभो न (*vṛṣabho na*)—like a bull that experiences delight
+- ते (*te*)—for you
+- यं (*yaṃ*)—which Soma
+- भावयुः (*bhāvayuḥ*)—I who desire your delight
+- सुनोति (*sunoti*)—press
+- ते (*te*)—your
+- हृदे (*hṛde*)—in the heart
+- मंथः (*maṃthaḥ*)—making the sound of churning
+- शं (*śaṃ*)—may it be a source of happiness
+- इंद्रः (*iṃdraḥ*)—you, the lord
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—are more excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a bull with sharp horns experiences delight roaring among the herd of cows, so the Soma which I, desiring your happiness, press for you, may it, making the sound of churning in your heart,
+
+### Printed p. 478
+
+be a source of happiness. You, the lord, are more excellent than the whole world.
+
+##### English translation
+[ Indrani speaks : ] Like a sharp-horned bull roaring amongst the herds, so may your libation please your heart, Indra, (your libation) which she who desires to please you is expressing for you; Indra is above all (the world).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न सेशे॒ यस्य॒ रंब॑तेऽन्त॒रा स॒क्था॒३॒॑ ३ कपृ॑त् ।  
+> सेदी॑शे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृंभ॑ते॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सः । ईशे । यस्य । रंबते । अंतरा । सक्था । कपृत् ।
+
+> सः । इत् । ईशे । यस्य । रोमशं । निषेदुषः । विजृंभते । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र स जनो नेशे मैथुनं कर्तुं नेष्टे न शक्योति यस्य जनस्य
+> कपृच्छेपः सक्ता सक्तिनी अंतरा रंबते लंबते । सेत् स एव स्त्रीजन ईशे मैथुनं
+> कर्तुं सक्कोति यस्य जनस्य निषेदुषः शयानस्य रोमशमुपस्थं विजृंभते विवृतं
+> भवति । यस्य च पतिरिंद्रो विश्वस्मादुत्तरति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, that man is not able (नेशे (*neśe*): न शक्योति (*na śakyoti*)) to perform union, in whose case the कपृत् (*kapṛt*), the organ, hangs (रंबते (*raṃbate*): लंबते (*laṃbate*)) between the thighs (सक्ता (*saktā*)). That very person (स्त्रीजन (*strījana*)) is able (ईशे (*īśe*)) to perform union, in whose case, when he sits down or lies down, the hairy (रोमशं (*romaśaṃ*)) private part gapes (विजृंभते (*vijṛṃbhate*)), that is, becomes open. And of whom Indra is the husband is above all, more excellent. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which man
+- कपृत् (*kapṛt*)—the generative organ
+- सक्ष्या (*sakṣyā*)—of the thighs
+- अंतरा (*aṃtarā*)—in the middle
+- रंबते (*raṃbate*)—hangs without strength (in the sleeping state)
+- सः जनः (*saḥ janaḥ*)—that man
+- न ईशे (*na īśe*)—is not able to carry out the act of union with a woman, that is, to have intercourse
+- यस्य (*yasya*)—of which man
+- निषेदुषः (*niṣeduṣaḥ*)—who is in the sleeping state
+- रोमशं (*romaśaṃ*)—the male organ (or the shaft of the organ)
+- विजृंभते (*vijṛṃbhate*)—stands in an excited state
+- सः इत् (*saḥ it*)—such
+
 ---
 
-**Progress note:** Done through printed p. 470. Sūkta 86 Ṛks 6-11 (Vṛṣākapi hymn), pp. 465-470
+**Progress note:** Done through printed p. 478. Sūkta 86 Ṛks 11-16 (Vṛṣākapi hymn), pp. 471-478
