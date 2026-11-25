@@ -23503,6 +23503,120 @@ The gods and the asuras, both these groups, were born from Prajāpati, who is of
 
 (Pa. Bā. 11-1-8-2) **NOTE**
 
+### Printed p. 847
+
+The gods alone, free from selfishness, began to offer oblations for one another's welfare. Then Prajāpati, of the form of sacrifice, offered himself to them in the form of an oblation. Thus the sacrifice came to belong to the gods. That is their food.
+
+स देवेभ्य आत्मानं प्रदाय । अथैतमात्मनः प्रतिमामसृजत यद्यज्ञं तस्मादाहुः प्रजापतिरज्ञ इत्यात्मनो ह्येतं प्रतिमामसृजत ॥ (*sa devebhya ātmānaṃ pradāya | athaitamātmanaḥ pratimāmasṛjata yadyajñaṃ tasmādāhuḥ prajāpatirajña ityātmano hyetaṃ pratimāmasṛjata ‖*)
+
+(Śa. Brā. 11-2-8-3)
+
+After Prajāpati had offered himself to the gods, he produced the sacrifice, his own representative. Because Prajāpati made the sacrifice, which has a form of his own, in order to reflect himself in this way, the identity "Prajāpati is the sacrifice" has been declared.
+
+Since the whole universe is of the nature of sacrifice, the life of the person (the human being) also is said to be of the form of sacrifice. For that reason it is also taught that a human being has three births. How? —
+
+त्रिर्ह वै पुरुषो जायते ' एतन्नेव मातुश्चाध पितुश्चाग्रे जायतेऽथ यं यज्ञउपनमति स यद्यजते तद्वितीयं जायतेऽथ यत्र म्रियते यत्र्यैनमग्नावभ्यादधति स यत्ततः संभवति तत्तृतीयं जायते तस्मात्रिः पुरुषो जायत इत्याहुः । (*trirha vai puruṣo jāyate ' etanneva mātuścādha pituścāgre jāyate 'tha yaṃ yajñaupanamati sa yadyajate tadvitīyaṃ jāyate 'tha yatra mriyate yatryainamagnāvabhyādadhati sa yattataḥ saṃbhavati tattṛtīyaṃ jāyate tasmātriḥ puruṣo jāyata ityāhuḥ |*)
+
+(Ka. Prā. 11-2-1-1) **NOTE**
+
+A person is born three times. These three are as follows. The first is birth from mother and father. The second is obtaining a body purified by worship and the like, which have the sacrifice as their source. After his death, being placed on the funeral pyre and burnt, he obtains birth again; that is the third time. Everything is of the nature of sacrifice.
+
+Thus the source of creation is sacrifice, the work of creation is of the form of sacrifice, and the whole created world also is of the form of sacrifice. Just as the self-sacrifice of Viśvakarman is the source of the earlier creation, so the gods, by offering the oblation that is the form of the Supreme Person, carry forward the creative work of the primal Person for the later creation: this is the chief purport of the present Ṛk. That is stated in the first half of this Ṛk as पुरुषेण हविषा देवा यज्ञमतन्वत (*puruṣeṇa haviṣā devā yajñamatanvata*). In the second half, वसंतोऽस्यासीदाज्यं (*vasaṃto 'syāsīdājyaṃ*), the identity of the sacrifice and the year is declared. In the sacrifice that has the Person as its nature, the Person himself is the oblation. The Person is the sacrifice, and the sacrifice is the year. Therefore the Person is the year. Thus the identity of each with the other is declared.
+
+### Printed p. 848
+
+Just as ghee, fuel and oblation are the three nourishers of the sacrifice, so spring, summer and autumn, these three members of the year, are its completers and nourishers. It has been explained earlier, with citation of Vedic sentences on this subject, that the sacrifice is the source of the creation of the whole world and the support of the nourishment of the world. In the same way, the sentences that say that the principle of the year also is the source of all worlds and of all activities declare the identity of the year and the sacrifice.
+
+संवत्सरो हि सर्वेषां भूतानां प्रतिष्ठा । (*saṃvatsaro hi sarveṣāṃ bhūtānāṃ pratiṣṭhā |*)
+
+(Śa. Brā. 8-4-1-22)
+
+The year is the foundation of all worlds and of all beings; that is, it is the support. (Foundation) For it is well known that Prajāpati produces all the things of the world in the form of the year itself.
+
+संवत्सरो ना अग्निर्वैश्वानरः संवत्सरेण वै सयुग्यूत्वा प्राजनयत् (*saṃvatsaro nā agnirvaiśvānaraḥ saṃvatsareṇa vai sayugyūtvā prājanayat*)
+
+(Śa. Brā. 8-2-2_8) **NOTE**
+
+Prajāpati, of the form of the Vaiśvānara fire, becoming united with the year, produces the whole world. These three are not different principles.
+
+प्रजापतिरेषोग्निः संवत्सर उ प्रजापतिस्तस्य यदूर्ध्वं (*prajāpatireṣogniḥ saṃvatsara u prajāpatistasya yadūrdhvaṃ*)
+
+(Śa. Brā. 8-4-2-16)
+
+Prajāpati is the fire. The year is Prajāpati. These principles are only different states of the primal Person, not anything else. Just as all the gods produced by the sacrifice of Viśvakarman are related to one another like the limbs of the Person called Viśvakarman, so the seasons beginning with spring, as the limbs of the year, are related to one another. Just as the year reflects Prajāpati in the work of creation, so the seasons beginning with spring, the limbs of the year, reflect the gods. This matter is explained in detail in the section on the Ṛtavyā bricks in the piling of the fire. The earthly sacrificial pit reflects the sacrifice of the universe. Prajāpati, who is of the nature of the universe, is himself the sacrificial altar and the oblation, everything. The gods are the materials of the sacrificial act and the sacrificers (in the time of the later creation only). In the same way, in the earthly sacrifice, which reflects the sacrifice of the world, **NOTE** all the bricks that are the materials for building the sacrificial altar indicate the gods, who are the limbs of Prajāpati, and the seasons beginning with spring, which are the limbs of the year. From one point of view the seasons beginning with spring are the materials needed for building the sacrificial altar; from another point of view they are of the form of the oblations of the sacrifice (ghee, fuel and so on). How? —
+
+### Printed p. 849
+
+ऋतव्या उपदधाति । ऋतव एते यदृतव्या ऋतूनेवैतदुपदधाति तदेतत्सर्वं यदृतव्याः संवत्सरो वा ऋतव्याः संवत्सर इदग्ं सर्वमिदमेवैतत्सर्वमुपदधात्यथो प्रजननमेतत्संवत्सरो वा ऋतव्याः संवत्सरः प्रजननं प्रजननमेवैतदुपदधाति ॥ (*ṛtavyā upadadhāti | ṛtava ete yadṛtavyā ṛtūnevaitadupadadhāti tadetatsarvaṃ yadṛtavyāḥ saṃvatsaro vā ṛtavyāḥ saṃvatsara idagṃ sarvamidamevaitatsarvamupadadhātyatho prajananametatsaṃvatsaro vā ṛtavyāḥ saṃvatsaraḥ prajananaṃ prajananamevaitadupadadhāti ‖*)
+
+(Ca. Jā. 8-7-1-1) **NOTE**
+
+The bricks related to the seasons are of the form of the seasons. Since the seasons themselves are of the nature of the year, everything is contained in the seasons. Since the year is the source of procreation (the begetting of offspring), the seasons also possess that power. Therefore, by placing the bricks related to the seasons and building the sacrificial altar, the means of procreation is established. Thus the connection between the creator and the acts that are parts of the sacrifice is shown, and the greatness of the seasons, which are the limbs of the year that is of the nature of sacrifice, is praised. Moreover—
+
+यद्देवर्तव्या उपदधाति । क्षत्रं वा ऋतव्या विश इमा इतरा इष्टकाः क्षत्रं तद्विश्वत्तारं दधाति ताः सर्वासु चितिषूपदधाति सर्वस्यां तद्विशि क्षत्रमत्तारं दधाति ॥ (*yaddevartavyā upadadhāti | kṣatraṃ vā ṛtavyā viśa imā itarā iṣṭakāḥ kṣatraṃ tadviśvattāraṃ dadhāti tāḥ sarvāsu citiṣūpadadhāti sarvasyāṃ tadviśi kṣatramattāraṃ dadhāti ‖*)
+
+(Ta. Brā. 8-7-1-2) **NOTE**
+
+Since time, which is of the nature of the year, governs the whole world, the seasons, the limbs of the year, also are governors. The conditions of all things in the world are under their control. In the same way, the bricks that reflect them are lords. The other bricks (of the sacrificial altar) are as if their subjects. To show their all-round lordship they must be placed in every row.
+
+Another point is to be noted here. If there is no concord among the gods, the creative work of Prajāpati cannot be carried forward. Although there is variety in their respective creations, in the end everything must reach harmony; otherwise they perish. In the same way, although the seasons appear different to the outer world, the creative work of the year cannot be carried forward unless all of them together attain harmony. This matter is stated in this way. And the sentences that praise the divinity of the bricks when they are indicated, saying यद्देव ऋतव्या (*yaddeva ṛtavyā*), also make this point clear.
+
+यद्देवर्तव्या उपदधाति । संवत्सर एषोग्निः स ऋतव्याभिः संग्‌हितः संवत्सरमेवैतदृतुभिः संतनोति संदधाति ता वै नानाप्रभृतयः समानोदर्का ऋतवो वा असृज्यंत ते सृष्ट्या नानैवासन् ॥ (*yaddevartavyā upadadhāti | saṃvatsara eṣogniḥ sa ṛtavyābhiḥ saṃghitaḥ saṃvatsaramevaitadṛtubhiḥ saṃtanoti saṃdadhāti tā vai nānāprabhṛtayaḥ samānodarkā ṛtavo vā asṛjyaṃta te sṛṣṭyā nānaivāsan ‖*)
+
+(Śa. Brā. 8-7-1-3)
+
+### Printed p. 850
+
+What is the purpose of placing the divine bricks related to the seasons? If the question arises whether the altar cannot be built with the other bricks, this sentence is the answer: for the year to continue unbroken, it is not possible without the help of the seasons. The fire-altar also is of the form of the year; therefore it is possible only by these bricks, which are limbs of the year. Without them there would be no unbroken connection. Although at the beginning these seasons had different forms, in the end they attain harmony. Since the seasons were produced at first in diversity, the variety remained fixed. But—
+
+तेऽब्रुवन् । न वा इत्थग्ं संतः शक्ष्यामः प्रजनयितुग्ं रूपैः समायामेति त एकैकमृतुग्ं रूपैः समायंस्तस्मादेकैकस्मिन्नृत् सर्वेषामृतूनाग्ं रूपं ता यन्नानाप्रभृतयो नाना ह्यसृज्यंताथ यत्समानोदर्का रूपैर्हि समायन्। (*te 'bruvan | na vā itthagṃ saṃtaḥ śakṣyāmaḥ prajanayitugṃ rūpaiḥ samāyāmeti ta ekaikamṛtugṃ rūpaiḥ samāyaṃstasmādekaikasminnṛt sarveṣāmṛtūnāgṃ rūpaṃ tā yannānāprabhṛtayo nānā hyasṛjyaṃtātha yatsamānodarkā rūpairhi samāyan|*)
+
+(Śa. Cā. 8.7 1.4) **NOTE**
+
+The seasons, produced in diversity, met together and thought thus: "If we have different forms, the work of procreation will not continue. Let us become united with our respective forms." And so, in each season, the other seasons joined their individual forms. For that very reason, in every season there is a share of all the seasons. Thus, although they appear as if not related to one another, there is a complete relation. This relation is the basis of procreation. In order to establish the relation of the various materials in the sacrifice, which is the source of procreation, the placing of these bricks is made in every row of the sacrificial altar. If the sacrifice of the nature of the year is a special state of Prajāpati, then the Ṛtavya bricks, the members of the sacrifice, indicate the various gods who are the limbs of Prajāpati. That is—
+
+स उपदधाति । तपश्च तपस्यश्च शैशिरावृतू इति नामनी एनयोरेते नामभ्यामेवैने एतदुपदधात्यसौ वा आदित्यस्तपस्तस्मादेतावृतू अनंतर्हितौ तद्यतेशस्मादेशावृतू अनंतर्हितौ तस्मादेत् तपत्व तपस्यश्च ॥ (*sa upadadhāti | tapaśca tapasyaśca śaiśirāvṛtū iti nāmanī enayorete nāmabhyāmevaine etadupadadhātyasau vā ādityastapastasmādetāvṛtū anaṃtarhitau tadyateśasmādeśāvṛtū anaṃtarhitau tasmādet tapatva tapasyaśca ‖*)
+
+(Śa. Brā. 8-7-13)
+
+Māgha and Phālguna, these two, are the months of the Śiśira season. Reciting the sentence of the Vājasaneya Saṃhitā (15-57) that praises them, the bricks that represent this season are to be placed. The sun, who burns (heats), is indicated as तप (*tapa*). He is the cause of the division of the seasons. For that very reason
+
+### Printed p. 851
+
+the naming तप (*tapa*), तपस्व (*tapasva*) exists. Thus the relation of Agni with the year, and the work of Agni that proceeds with the help of the bricks called Ṛtavya, is explained in this way.
+
+अग्नेरंतःश्लेषोऽसीति । सुवत्सर एषोऽग्निः स ऋतव्याभिः सगंहितः संवत्सरमेवैतदृतुभीसंतनोति संदधाति कल्पेतां द्यावापृथिवी कल्पंतामाप ओषधय इतेदमेवैतत्सर्वमृतुभिः कल्पयति कल्पांतामग्नयः पृथङ्मय जैष्ठाय सव्रता इत्यग्नयो हैते पृथग्यदेता इष्टकास्ते यथानयोर्ऋत्तोज्र्जैष्ठाय कल्पेरन्नेवमेतदाह येऽग्नयः समनसोऽंतरा द्यावापृथिवी इमे इति यथैव यजुस्तथा बंधुः शैशिरावृतू अभिकल्पमाना इंद्रमिव देवा अभिसंविशंत्विति यथेंद्रं देवा अभिसंविष्टा एवमिवावृतू जैष्ठायाभिसंविशंत्वेतद्दे इष्टके भवतो द्वा हि मासावृतुः सकृत्सादयत्येकं तदृतुं करोति ॥ ( (*agneraṃtaḥśleṣo 'sīti | suvatsara eṣo 'gniḥ sa ṛtavyābhiḥ sagaṃhitaḥ saṃvatsaramevaitadṛtubhīsaṃtanoti saṃdadhāti kalpetāṃ dyāvāpṛthivī kalpaṃtāmāpa oṣadhaya itedamevaitatsarvamṛtubhiḥ kalpayati kalpāṃtāmagnayaḥ pṛthaṅmaya jaiṣṭhāya savratā ityagnayo haite pṛthagyadetā iṣṭakāste yathānayorṛttojrjaiṣṭhāya kalperannevametadāha ye 'gnayaḥ samanaso 'ṃtarā dyāvāpṛthivī ime iti yathaiva yajustathā baṃdhuḥ śaiśirāvṛtū abhikalpamānā iṃdramiva devā abhisaṃviśaṃtviti yatheṃdraṃ devā abhisaṃviṣṭā evamivāvṛtū jaiṣṭhāyābhisaṃviśaṃtvetadde iṣṭake bhavato dvā hi māsāvṛtuḥ sakṛtsādayatyekaṃ tadṛtuṃ karoti ‖ (*)
+
+(Śa. Cā. 8-7-1-6) **NOTE**
+
+O fire-altar, representative of the year, the sacrificer praises the fire-altar, saying that the bricks called Ṛtavya help you to establish a relation among the various works of Agni and to carry it forward. With the help of the seasons, as the one who joins the seasons together, he makes the year proceed without obstruction and perform its work without obstruction. Desiring: "May heaven and earth carry forward their mutual relation and bring well-being to the world; may the waters be nourishing to the plants," he establishes a relation among all parts of the universe with the help of the seasons. Each of these bricks, which reflect the seasons, indicates one portion of Agni. Since these carry forward their mutual relation, may each portion of Agni, fulfilling its own individual work, in the end all come together and be consummated in the one harmonious welfare of the world; praying thus, he worships the Ṛtavya bricks. By the favour of these bricks, which have lordship over all things, lordship comes also to the sacrificer. Just as the gods go and join Indra, their lord, so may all the portions of Agni that pervade the whole interval between heaven and earth come together and also be united with these months of the Śiśira season, तप (*tapa*) and तपस्य (*tapasya*); praying thus, he places the Ṛtavya bricks. What is the purpose of placing these two bricks? —
+
+तद्यदेशे अत्रोपदधाति । संवत्सर एषोऽग्नि इम उ लोकाः संवत्सरस्तस्य दौरेवपंचमी चितिद्यौरस्य शिशिर ऋतुस्तद्यदेते अत्रोपदधाति यदेवास्यैते आत्मनस्तदस्मिन्नेतत्पतिदधाति तस्मादेते अत्रोपदधाति ॥ (*tadyadeśe atropadadhāti | saṃvatsara eṣo 'gni ima u lokāḥ saṃvatsarastasya daurevapaṃcamī citidyaurasya śiśira ṛtustadyadete atropadadhāti yadevāsyaite ātmanastadasminnetatpatidadhāti tasmādete atropadadhāti ‖*)
+
+(Śa. Brā. 8-7-1-7)
+
+### Printed p. 852
+
+The fire-altar is the year, and the year exists in the form of both heaven and earth. Therefore the placing of these Ṛtavya bricks, which reflect both heaven and earth. Moreover, Śiśira is the representative of the heavenly world. By placing it, it is possible to establish firmly in all three worlds the fire that pervades the three worlds.
+
+यद्वैवैते अत्रोपदधाति । प्रजापतिरेषोग्निः । संवत्सर उ प्रजापतिस्तस्य शिर एव पंचमी चितिः शिरोऽस्य शिशिर ऋतुस्तद्यदेते अत्रोपदधाति यदेवास्यैते आत्मनस्तदस्मिन्नेतत्प्रतिदधाति तस्मादेते अत्रोपदधाति॥ (*yadvaivaite atropadadhāti | prajāpatireṣogniḥ | saṃvatsara u prajāpatistasya śira eva paṃcamī citiḥ śiro 'sya śiśira ṛtustadyadete atropadadhāti yadevāsyaite ātmanastadasminnetatpratidadhāti tasmādete atropadadhāti‖*)
+
+(Śa. Brā. 8-7-1-8)
+
+If it is asked why the same bricks are placed just here, the reason is as follows. The fire-altar is none other than Prajāpati, the source of creation. Prajāpati is the year. The fifth row is the head of Agni, and Śiśira is the head of the year. By placing these, the head is joined to the body. Thus the relation between the gods engaged in the work of creation and the seasons is shown in this way. Indicating the place of the Ṛtavya bricks,
+
+स पुरस्तात्स्वयमातृण्णायै च विश्वज्योतिषश्चर्तव्ये उपदधाति । द्यौर्वा उत्तमा स्वयमातृण्णादित्य उत्तमा विश्वज्योतिरर्वाचीनं तद्दिवश्चादित्याच्चर्तून्थधाति तस्मादर्वाचीनमेवात ऋतवोऽथो प्रजननमेतदर्वाचीनं तद्दिवश्चादित्याच्च स्थितग्ं हैवातः परात्रजननंयावंतो हैव सनाग्रे देवास्तावंतो देवाः ॥ (*sa purastātsvayamātṛṇṇāyai ca viśvajyotiṣaścartavye upadadhāti | dyaurvā uttamā svayamātṛṇṇāditya uttamā viśvajyotirarvācīnaṃ taddivaścādityāccartūnthadhāti tasmādarvācīnamevāta ṛtavo 'tho prajananametadarvācīnaṃ taddivaścādityācca sthitagṃ haivātaḥ parātrajananaṃyāvaṃto haiva sanāgre devāstāvaṃto devāḥ ‖*)
+
+(Śa. Brā. 8-7-19)
+
+he thus directs. The brick that has a hole of itself is the representative of the heavenly world, and the brick called Viśvajyotis reflects the sun. The Ṛtavya brick must be placed before these two. By doing so, a support is given to the heavenly world and to the orbs of light such as the sun. Then the power of procreation is established in the region below them. This power of procreation is unlimited and worldly. The number of gods produced in the place of the heavenly world and the sun's world is limited: whatever the number of the gods was before, it is the same number now.
+
+अथो इमे नै लोका ऋतव्याः । इमांस्तल्लोकानूर्ध्वांश्चितिभिश्चिनोत्यथो क्षत्रं वा ऋतव्याः क्षत्रं तदूर्ध्वं जितिभिश्चिनोक्यथो संवत्सरो ना ऋतव्याः संवत्सरं तदूर्ध्वं चितिभिश्चिनोति ॥ (*atho ime nai lokā ṛtavyāḥ | imāṃstallokānūrdhvāṃścitibhiścinotyatho kṣatraṃ vā ṛtavyāḥ kṣatraṃ tadūrdhvaṃ jitibhiścinokyatho saṃvatsaro nā ṛtavyāḥ saṃvatsaraṃ tadūrdhvaṃ citibhiścinoti ‖*)
+
+(Śa Brā. Ā.7.192) **NOTE**
+
+**GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 846. Special Topics: mind and Prajapati sacrifice, creation of gods and directions (Sat. Br. 11), pp. 840-846
+**Progress note:** Done through printed p. 852. Special Topics: sacrifice, year and seasons, Rtavya bricks (Sat. Br. 8, 11), pp. 847-852
