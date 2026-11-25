@@ -43670,6 +43670,267 @@ May he invest our sacrifice with those bright (flames) of Jatavedas, that are th
 
 The sūkta beginning आयं गौः (*āyaṃ gauḥ*) is a triplet, the thirty-eighth sūkta, in Gāyatrī metre. The seer is a woman named Sārparājñī; she herself is the deity, or else the Sun. He begins the Anukramaṇī quotation: आयं गौः सार्पराज्ञात्मदैवतं (*āyaṃ gauḥ sārparājñātmadaivataṃ*).
 
+### Printed p. 1265
+
+## Sūkta 189 (Maṇḍala 8)
+**NOTE**
+
+> सौर्यं वेति ॥ अविवाक्येऽहनि मानसग्रह एतत्तूक्तं शंसनीयं । सूत्रितं च । आयं
+> गौः पृश्निरक्रमीदित्युपांशु तिस्रः पराचीः शस्त्रा । आ. ८-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the introduction: the deity is सौर्यं (*sauryaṃ*), that is, the Sun, as the alternative to the Sārparājñī named before. On the Avivākya day this sūkta is to be recited at the Mānasagraha, and it is prescribed in the sūtra आयं गौः पृश्निरक्रमीदित्युपांशु तिस्रः पराचीः शस्त्रा । (*āyaṃ gauḥ pṛśnirakramīdityupāṃśu tisraḥ parācīḥ śastrā |*) (Ā. 8-13). **NOTE**
+
+##### Anuvāda
+
+The sūkta beginning आयं गौः (*āyaṃ gauḥ*) is the thirty-eighth sūkta in the twelfth anuvāka. It has three Ṛks. Its seer is the woman Sārparājñī; that same woman is the deity, or else the Sun is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: आयं गौः सार्पराज्ञात्म दैवतं सौर्यं वा (*āyaṃ gauḥ sārparājñātma daivataṃ sauryaṃ vā*). This sūkta is to be recited on the tenth day of the sacrifice, called Avivākya, for taking the Mānasagraha; this is explained by the Āśvalāyana Śrauta Sūtra आयं गौः पृश्निरक्रमीद्युपांशु तिस्रः पराचीः शस्त्रा (*āyaṃ gauḥ pṛśnirakramīdyupāṃśu tisraḥ parācīḥ śastrā*) (Ā. 8-12).
+
+##### Particulars
+
+Sūkta 189. Maṇḍala 8; Anuvāka 12; Sūkta 189. Aṣṭaka 8; Adhyāya 8; Varga 47. Number of Ṛks in the sūkta: 3. Seer: Sārparājñī. Deity: Sārparājñī or the Sun. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आयं गौः पृश्नि॑रक्रमा॒दस॑दन्मा॒तरं॑ पु॒रः ।  
+> पि॒तरं॑ च प्र॒यन्तस्यः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अयं । गौः । पृश्निः । अक्रमात् । असदत् । मातरं । पुरः ।  
+> पितरं । च । प्रयन् । स्वरिति स्वः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गौर्गमनशीलः पृश्निः प्राष्टवर्णः प्राप्ततेजा अयं सूर्य आक्रमात् ।
+> अक्रांतवान् । उदयाचलं प्राप्तवानित्यर्थः । आक्रम्य च पुरः पुरस्तात्पूर्वस्यां
+> दिशि मातरं सर्वभूतजातस्य निर्मात्रीं पृथिवीमसदत् । आसीदति । प्राप्नोति ॥ सदे-
+> 80
+
+##### Gist of the bhāṣya
+
+गौः (*gauḥ*) is the one whose nature is to move; पृश्निः (*pṛśniḥ*) is the one of spotted hue, who has attained splendour. This Sun has आक्रमात् (*ākramāt*), has advanced, that is, has reached the eastern mountain of rising. Having advanced, पुरः (*puraḥ*), in front, in the eastern quarter, he has असदत् (*asadat*), sat upon, reached, the Mother, the earth, the maker of all beings. The form असदत् (*asadat*) is explained by the Vedic loss of the augment (luṅ)
+
+### Printed p. 1266
+
+> श्यांदसो लुज् । लृदित्वाच्चेरजादेशः ॥ ततः पितरं पालकं द्युलोकं । चशब्दादंतरिक्षं च प्रयन् प्रकर्षण शीघ्रं गच्छन् स्वैः स्वरणः शोभनगमनो भवति ।
+> यद्वा । पितरं स्वर्गलोकं प्रयन्वर्तते ॥
+
+##### Gist of the bhāṣya
+
+and by the substitution of इर (*ira*) for the root ending in ṛ. Then, going swiftly, with प्रयन् (*prayan*) meaning going forward, towards the Father, the protecting heaven, and, by the word च (*ca*), the atmosphere also, he is स्वः (*svaḥ*), one of beautiful going. Or else: he proceeds towards the Father, the world of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गौः (*gauḥ*)—one whose nature is to move
+- पृश्निः (*pṛśniḥ*)—one with many kinds of rays
+- अयं (*ayaṃ*)—this Sun
+- आ अक्रमात् (*ā akramāt*)—has arrived
+- पुरः (*puraḥ*)—in the eastern quarter
+- मातरं (*mātaraṃ*)—near the earth, the maker of all beings
+- असदत् (*asadat*)—is seated (then)
+- पितरं (*pitaraṃ*)—towards the protecting world of heaven
+- प्रयन् (*prayan*)—going swiftly
+- स्वः (*svaḥ*)—of beautiful going, he moves about
+
+##### भावार्थ (Bhāvārtha)
+
+This Sun, who is of moving nature and shines with manifold splendour, has now risen and arrived. And in front, that is, in the eastern quarter, he sits near the earth, the maker of all beings. Then, directed towards heaven (the world of Dyu), his father, he moves swiftly with excellent motion (towards the west).
+
+##### English translation
+This moving many-coloured (Sun) has arrived, he has sat down before his mother (earth) in the east, and advances to his father heaven.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒तश्च॑रति रोच॒नास्य प्रा॒णाद॑पान॒ती ।  
+> व्य॑ख्यन्महि॒षो दिवं॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतरिति । चरति । रोचना । अस्य । प्राणात् । अपअनती ।  
+> वि । अख्यत् । महिषः । दिवं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सूर्यस्य रोचना रोचमाना दीप्तिरंतः शरीरमध्ये मुख्यप्राणात्मना
+> चरति । वर्तते । किं कुर्वती । प्राणादपानती । मुख्यप्राणस्य प्राणाद्याः पंच
+
+##### Gist of the bhāṣya
+
+The shining radiance (रोचना (*rocanā*)) of this Sun moves अंतः (*aṃtaḥ*), within the body, in the form of the chief vital breath. What is it doing? प्राणादपानती (*prāṇādapānatī*): the chief breath has five functions beginning with prāṇa. Of these, prāṇana is the upward going out of the air through the channels; after such prāṇana comes apānana, the leading of the air downward through the channels; it performs that.
+
+### Printed p. 1267
+
+> वृत्तयः । तत्र प्राणनं नाडीभिरूर्ध्व० वायोर्निर्गमनं । तथाविधात्प्राणात्प्राणनादनंतरमपानती । अपाननं नाडीभिरवाङ्मुखं वायोर्नयनं । तत्कुर्वती ॥ अपपूर्वादनितेर्लटः शतृ । अदादित्वाच्छपो लुक् । उगितश्चति जीप् । शतुरनुम इति
+> नद्या उदात्तत्वं ॥ यद्वा । अंतर्द्यावापृथिव्योर्मध्यॆऽस्य सूर्यस्य रोचना
+> रोचमाना दीप्तिश्चरति । गच्छति ॥ रुच दीप्तौ । अनुदात्तेतश्च हलादेरिति युच् ॥ किं
+> कुर्वती । प्राणात्प्राणनादुदयानंतरमपानती सायंसमयेऽस्तं गच्छंती ।
+> ईदृश्या दीप्त्या युक्तः । अत एव महिषो महान्सूर्यो दिवमंतरिक्षमुदयास्तमययोर्मध्यॆ व्यख्यत् । विचष्टे ! प्रकाशयति ॥ महेरविमह्योष्टिषच् ।
+> उ. १-४६ । इत्यौणादिकष्टिषच् प्रत्ययः । चक्षिजः ख्याञ् । छांदसे लुज्यस्यतिवक्तित्यादिना क्लेरजादेशः ॥
+
+##### Gist of the bhāṣya
+
+Or else: between heaven and earth the radiance of this Sun goes. What does it do? प्राणात् (*prāṇāt*), from the rising, अपानती (*apānatī*), going to its setting at evening. Being possessed of such radiance, the great (महिषः (*mahiṣaḥ*)) Sun व्यख्यत् (*vyakhyat*), illumines specially, the sky (दिवं (*divaṃ*)) between rising and setting. The rest of the block gives the formation of अपानती (*apānatī*), रोचना (*rocanā*), महिषः (*mahiṣaḥ*) (Uṇ. Sū. 1-46) and व्यख्यत् (*vyakhyat*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Sun
+- रोचना (*rocanā*)—the shining radiance
+- अंतः (*aṃtaḥ*)—in the middle of the body
+- प्राणात् (*prāṇāt*)—from the breath with upward motion
+- अपानती (*apānatī*)—joining the apāna breath with downward motion
+- चरति (*carati*)—remains (or)
+- [अस्य (*asya*)—of this Sun
+- रोचना (*rocanā*)—the shining radiance
+- प्राणात् (*prāṇāt*)—from the time of rising
+- अपानती (*apānatī*)—until evening
+- चरति (*carati*)—remains or moves]
+- महिषः (*mahiṣaḥ*)—this Sun of great majesty
+- दिवं (*divaṃ*)—in the lofty heaven (in the interval between rising and setting)
+- वि अख्यन् (*vi akhyan*)—shines in a special manner
+
+##### भावार्थ (Bhāvārtha)
+
+The shining brilliance of this Sun, in the middle of the body, unites with the apāna breath, which goes downward, by means of the prāṇa breath, which goes upward; or it remains between heaven and earth from the time of rising until the time of setting. This Sun of great majesty shines very brilliantly in the very lofty heaven (the atmosphere) between the times of rising and setting.
+
+##### English translation
+His radiance penetrates internally, drawing (the air) down (through the lungs) after having sent it up, the mighty one beholds the sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+The chief breath in the body exists in the form of five kinds of air: prāṇa, apāna, vyāna, udāna and samāna. Of these, prāṇa and apāna are the principal ones. The prāṇa air moves through the channels towards the upper part of the body.
+
+### Printed p. 1268
+
+Likewise the apāna air goes to the lower part. The doctrine of the Yogaśāstra is that if the prāṇa air is brought to the lower part and the apāna air to the upper part and they are joined in the middle (the region of the navel), splendour and health increase. It is said here that the radiance of the Sun does this work. Besides, the passage is explained as showing that prāṇa and apāna have the names of rising and setting. For the Śruti says that when the Sun rises he rises bringing with him the breaths, that is, the power of consciousness, of all creatures, and that at the time of setting he takes the breaths of those creatures away with him:
+योऽसौ तपन्नुदेति । स सर्वेषां भूतानां प्राणानादायोदेति........। (*yo 'sau tapannudeti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyodeti........|*)
+आसौ योऽस्तमेति । स सर्वेषां भूतानां प्राणानादायस्तमेति ॥ (*āsau yo 'stameti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyastameti ‖*) (Tai. Ā. 1-14-1).
+It is said here that the Sun, each day when he rises, brings with him the breaths (the power of consciousness) of all creatures, and when he sets takes the breaths of all creatures away with him.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिं॒शद्धाम॒ विरा॑जति॒ वाक्प॑तं॒गाय॑ धीयते ।  
+> प्रति॒ वस्तो॒रह॒ द्युभिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिंशत् । धाम । वि । राजति । वाक् । पतंगाय । धीयते ।  
+> प्रति । वस्तोः । अह । द्युभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिंशद्धाम धामानि स्थानानि ॥ वचनव्यत्ययः ॥ वस्तोर्वासरस्याहोरात्रस्यावयवभूतानि । अहशब्दोऽवधारणे । द्युभिः सूर्यस्य दीप्तिभिरेव वि राजति । विरा
+> जंते । विशेषेण दीप्यंते ॥ व्यत्ययेनैकवचनं ॥ मुहूर्तान्यत्र धामान्युच्यंते ।
+> पंचदश रात्रेः पंचदशाह्नः । पतंगाय । पतति गच्छतीति पतंगः सूर्यः । तस्मै
+> श्रुतिरूपा वाक् प्रति धीयते ! प्रतिमुखं स्तोतृभ्यः क्रियते । यद्वा । वस्तोरहनि
+> त्रिंशद्धामानि । घटिकाभिप्रायमेतत् । त्रिंशद्धटिकाः ॥ अत्यंतसंयोगे द्वितीया ॥
+
+##### Gist of the bhāṣya
+
+त्रिंशद्धाम (*triṃśaddhāma*) stands for thirty stations (the number is irregular), parts of वस्तोः (*vastoḥ*), the day and night. The word अह (*aha*) is for emphasis: they shine द्युभिः (*dyubhiḥ*), with the rays of the Sun alone (the singular verb is by a change of number). Here the "stations" are called muhūrtas: fifteen of the night and fifteen of the day. पतंगाय (*pataṃgāya*): the Sun is called Pataṅga because he goes (पतति (*patati*)); to him the voice (वाक् (*vāk*)), in the form of praise, प्रति धीयते (*prati dhīyate*), is made towards him by the singers. Or else: the thirty stations in a day (*ahani*) are meant as ghaṭikās, thirty ghaṭikās; the accusative is used for continuous duration.
+
+### Printed p. 1269
+
+> एतावंतं कालं द्युभिर्दिप्तिभिरसौ सूर्यो वि राजति । विशेषेण दीप्यते । तस्मिंश्च
+> समये वाक् त्रयीरूपा तस्मै सूर्यरूपाय पतंगाय प्रति धीयते । प्रतिमुखं धार्यते । स्तूयते सूर्यः सर्वत इत्यर्थः । श्रूयते हि । ऋग्निः
+> पूर्वाह्ने दिवि देव ईयते यजुर्वेदे तिष्ठति मध्यॆ अह्न इत्यादि । तै. ब्रा. ३-१२-
+> ९-१ ॥ यदा त्विदं सूक्तं सार्पराज्ञा आत्मस्तुतिः तदा सूर्यात्मना स्तूयत
+> इत्यवगंतव्यं ॥
+
+##### Gist of the bhāṣya
+
+For this length of time that Sun shines specially with his rays; and at that time the voice, in the form of the three Vedas, is directed towards him, the Sun-formed Pataṅga; that is, the Sun is praised on every side. For it is heard: ऋग्निः पूर्वाह्ने दिवि देव ईयते यजुर्वेदे तिष्ठति मध्यॆ अह्न इत्यादि । (*ṛgniḥ pūrvāhne divi deva īyate yajurvede tiṣṭhati madhyè ahna ityādi |*) (Tai. Brā. 3-12-9-1 **NOTE**). When, however, this sūkta is Sārparājñī's praise of herself, it is to be understood that she is praised in the Sun's form.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वस्तोः (*vastoḥ*)—in a day made up of day and night
+- त्रिंशद्दाम (*triṃśaddāma*)—thirty stations, that is, thirty muhūrtas
+- द्युभिः (*dyubhiḥ*)—with the Sun's rays
+- वि राजति (*vi rājati*)—shine
+- (or
+- [वस्तोः (*vastoḥ*)—in a day-time
+- त्रिंशद्दाम (*triṃśaddāma*)—thirty ghaṭikās
+- द्युभिः (*dyubhiḥ*)—with the Sun's rays
+- वि राजति (*vi rājati*)—shine]
+- (to such a majestic one)
+- पतंगाय (*pataṃgāya*)—for the Sun, who moves about
+- वाक् (*vāk*)—the word of praise (in the form of a Vedic mantra)
+- प्रति धीयते (*prati dhīyate*)—is recited by the singers facing the Sun
+
+##### भावार्थ (Bhāvārtha)
+
+The thirty muhūrtas in a day (day and night together), or the thirty ghaṭikās in a day-time, shine with the brightness of the Sun. For such a Sun, who is of moving nature, the Vedic word in the form of praise is recited by the singers facing the Sun.
+
+##### English translation
+The thirty stations of the day and night shine with (the sun's) rays, the voice (of praise) is addressed to the Sun.
+
+## Sūkta 190 (Maṇḍala 10)
+**Introduction**
+This sūkta was seen by the seer Aghamarṣaṇa. Concerning this sūkta, the sage Śaunaka, the author of the Bṛhaddevatā, has spoken thus:
+भाववृत्तं परं सूक्तं ददर्शाथाघमर्षणः (*bhāvavṛttaṃ paraṃ sūktaṃ dadarśāthāghamarṣaṇaḥ*)
+परं न विद्यते यस्माच्छांत्यै ना पावनाय वा । यथाश्वमेधः क्रतुराट् सर्वरिप्रप्रणोदनः ॥ (*paraṃ na vidyate yasmācchāṃtyai nā pāvanāya vā | yathāśvamedhaḥ kraturāṭ sarvariprapraṇodanaḥ ‖*)
+
+### Printed p. 1270
+
+शथाघमर्षणं ब्रह्म सर्वरिप्रप्रणोदनं (*śathāghamarṣaṇaṃ brahma sarvariprapraṇodanaṃ*) (Bṛ. De. 8-91, 92).
+The seer named Aghamarṣaṇa is the seer of this sūkta, whose deity is Bhāvavṛtta. There is no other sūkta that serves for pacification and for purification. As the Aśvamedha sacrifice is the best among sacrifices and removes all sins, so this sūkta, seen by the seer Aghamarṣaṇa, is the best among sūktas and produces peace in the mind and purity in the body. In the book called Ṛgvidhāna also:
+पवित्राणां पवित्रस्तु जपेदेवाघमर्षणं । अपः प्रविश्य यश्चैतत् त्रिः पठेत् सुसमाहितः ॥ १२१ ॥ यथाश्वमेधावभृथस्तादृशं मनुरब्रवीत् । अप्पु चैव निमज्जित्वा त्रिः पठेदघमर्षणं ॥ १२२ ॥ यथाश्वमेधावभृथ एवं तदृषिरब्रवीत् । यथाश्वमेधः क्रतुराट् सर्वपापापनोदनः ॥ १२३ ॥ तथाघमर्षणं सूक्तं सर्वपापापनोदनं ॥ (*pavitrāṇāṃ pavitrastu japedevāghamarṣaṇaṃ | apaḥ praviśya yaścaitat triḥ paṭhet susamāhitaḥ ‖ 121 ‖ yathāśvamedhāvabhṛthastādṛśaṃ manurabravīt | appu caiva nimajjitvā triḥ paṭhedaghamarṣaṇaṃ ‖ 122 ‖ yathāśvamedhāvabhṛtha evaṃ tadṛṣirabravīt | yathāśvamedhaḥ kraturāṭ sarvapāpāpanodanaḥ ‖ 123 ‖ tathāghamarṣaṇaṃ sūktaṃ sarvapāpāpanodanaṃ ‖*)
+(Ṛgvidhāna, Adhyāya 4, Ślokas 121-123)
+is said. Of all the sacred sūktas, this most sacred sūkta seen by the seer Aghamarṣaṇa should be recited silently. In reciting it, one should become pure, stand in water with discipline, and recite this sūkta three times. Manu himself has said that if one stands in water and recites this sūkta, the fruit is that of performing the Aśvamedha sacrifice and taking the avabhṛtha bath. As the Aśvamedha sacrifice, being the best of all sacrifices, destroys all sins, so the recitation of this sūkta seen by the seer Aghamarṣaṇa removes all sins.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतमिति तृचमेकोनचत्वारिंशं सूक्तं मधुच्छंदसः पुत्रस्याघमर्षणस्यार्षमानुष्टुभं । रात्र्यादीनां भावानां सृष्ट्त्यादिप्रतिपादकत्वात्तादृग्रूप एवार्थो
+> देवता । तथा चानुक्रांतं । ऋतं माधुच्छंदसोऽघमर्षणो भाववृत्तमानुष्टुभं त्विति । लिंगाद्विनियोगोऽवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ऋतं (*ṛtaṃ*) has three Ṛks and is the thirty-ninth sūkta. Its seer is Aghamarṣaṇa, son of Madhucchandas; the metre is Anuṣṭubh. Because it teaches the creation and so on of the states beginning with night, the matter of that kind itself is the deity. So the Anukramaṇikā says: ऋतं माधुच्छंदसोऽघमर्षणो भाववृत्तमानुष्टुभं (*ṛtaṃ mādhucchaṃdaso 'ghamarṣaṇo bhāvavṛttamānuṣṭubhaṃ*). The ritual use is to be understood from the indicatory mark.
+
+##### Anuvāda
+
+The sūkta beginning ऋतं (*ṛtaṃ*) is the thirty-ninth sūkta in the twelfth anuvāka. It has three Ṛks. Its seer is Aghamarṣaṇa, son of the seer Madhucchandas. Since this sūkta sets forth the order of creation of the states beginning with night
+
+### Printed p. 1271
+
+the matter of this kind, in the form of creation, is the deity of this sūkta; the metre is Anuṣṭubh. In the Anukramaṇikā it is said: ऋतं माधुच्चंदसो ऽघमर्षणो भाववृत्तमानुष्टुभं तु (*ṛtaṃ mādhuccaṃdaso 'ghamarṣaṇo bhāvavṛttamānuṣṭubhaṃ tu*). The use is to be understood according to the meaning.
+
+##### Particulars
+
+Sūkta 190. Maṇḍala 10; Anuvāka 12; Sūkta 190. Aṣṭaka 8; Adhyāya 8; Varga 48. Number of Ṛks in the sūkta: 3. Seer: Aghamarṣaṇa, son of Madhucchandas. Deity: Bhāvavṛtta. Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तं च॑ स॒त्यं चा॒भी॑द्धा॒त्तप॒सोऽध्य॑जायत ।  
+> ततो॒ रात्र्य॑जायत॒ ततः॑ समु॒द्रो अ॑र्ण॒वः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतं च सत्यं चाभीद्धात्तपसोऽध्यजायत ।  
+> ततो रात्र्यजायत ततः समुद्रो अर्णवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतमिति सत्यनाम । ऋतं मानसं यथार्थसंकल्पनं सत्यं वाचिकं यथार्थभाषणं । चकाराभ्यामन्यदपि शास्त्रीयं धर्मजातं समुच्चीयते । तत्सर्वमभीद्दादभितप्ताद्ब्रह्मणा पुरा सृष्ट्यर्थं कृतात्तपसोऽधि । अध्युपर्यर्थे । उपर्यजायत । उदपद्यत । तपस्तप्तदं सर्वमसृजत । तै. आ. ८-६ । इति श्रुतेः ।
+> तपश्चात्र स्रष्टव्यपर्यालोचनलक्षणं । यस्य ज्ञानमयं तप । मुं. १-१-९ । इति
+> श्रुत्यंतरात् ॥ अभिपूर्वादिंधेः कर्मणि निष्ठा! श्विदितो निष्ठायामितीट् प्रतिषेधः।
+> गतिरनंतर इति गतेः प्रकृतिस्वरत्वं। स्वरितो वानुदात्ते पदादावित्येकादेशः स्वर्यते ॥
+> यद्वा। अभीद्धादभितः प्रकाशमानात्परमात्मनो मायाधिष्ठानरूपापादानभूतादृतं
+> सत्यं चाजायत ॥ जनिकर्तुः प्रकृतिः । पा. १-४-३० । इति प्रकृतेंपादानसंज्ञा ।'
+> ततस्तस्मादेवेश्वराद्रात्रि । उपलक्षणमेतदह्योऽपि । अहश्च रात्रिश्चाजायत ॥ रात्रे-
+
+##### Gist of the bhāṣya
+
+ऋतं (*ṛtaṃ*) is a name of truth. ऋतं (*ṛtaṃ*) is the mental, true resolve; सत्यं (*satyaṃ*) is the spoken, true utterance. By the two च (*ca*) any other group of duties taught in the śāstra is also gathered in. All that arose from *abhīddhāt tapasaḥ*, from the austerity (tapas) kindled by Brahmā long ago for the sake of creation; *adhi* has the sense of "above", it arose above, came into being. Authority: तपस्तप्तदं सर्वमसृजत (*tapastaptadaṃ sarvamasṛjata*) (Tai. Ā. 8-6). And tapas here means the reflection on what is to be created; another Śruti: यस्य ज्ञानमयं तप (*yasya jñānamayaṃ tapa*) (Muṃ. 1-1-9). **NOTE** Or else: from *abhīddhāt*, the Supreme Self shining on all sides, who is the basis of māyā and the material cause, ṛta and satya arose; by जनिकर्तुः प्रकृतिः (*janikartuḥ prakṛtiḥ*) (Pā. Sū. 1-4-30) the material cause receives the name apādāna. Then, from that Īśvara, night arose; this is indicative, so that day also arose.
+
 ---
 
-**Progress note:** Done through printed p. 1264. pp. 1259-1264 (batch API)
+**Progress note:** Done through printed p. 1271. pp. 1265-1271 (batch API)
