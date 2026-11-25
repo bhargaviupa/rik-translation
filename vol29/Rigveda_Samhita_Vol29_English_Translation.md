@@ -7667,6 +7667,154 @@ With this verse the answer to the question stated in the preceding mantra is giv
 
 The waters, before creation, held that womb of the form of Viśvakarman, in which all the gods have gathered together. In this golden egg, in which all beings
 
+### Printed p. 298
+
+are established, in that unique Brahma-egg, is established in the navel of the unborn primal principle. (Or: this unique Brahma-egg is established in the water that binds the whole world.)
+
+##### English translation
+The waters verily first retained the embryo in which all the god, were aggregated, single, deposited on the navel of the unborn (creator), in which all beings abode. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+Here is explained further what was stated in the preceding verse: that Hiraṇyagarbha, who contained the Brahma-egg within himself, was established in the water that existed before creation. The words अजस्य नाभौ (*ajasya nābhau*) here express the main purport.
+
+The word aja means "that which is free from birth". The word bhuvana designates all the beings that have come into existence. The meaning is that all beings created by this Supreme Brahman are contained in the navel of this unborn Hiraṇyagarbha. Before creation they are contained in the unborn Hiraṇyagarbha in a subtle state, and after creation in a gross form. This is a description of Hiraṇyagarbha, who has contained the Brahma-egg in the water that binds the whole world. The only question that arises concerns what this Aja is. Is Hiraṇyagarbha a Person, or is it a description of the nature of the primal principle? The questions and answers on this point are as follows.
+
+किं कारणं ब्रह्म? कुतः स्म जाता जीवाम केन, क्व च संप्रतिष्ठाः । अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्मविदो व्यवस्थां ॥ (*kiṃ kāraṇaṃ brahma? kutaḥ sma jātā jīvāma kena, kva ca saṃpratiṣṭhāḥ | adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthāṃ ‖*) (Śve. U. 1.1) **NOTE**
+
+What is the root cause of the world? Is it Brahman? Or what is that which is called Brahman? What is its nature? From where is our origin? What is the support of our existence? From where do our joys and sorrows arise? The answer to these questions is as follows.
+
+कालः स्वभावो नियतिर्यदृच्छा भूतानि योनिः पुरुष इति चिंत्या ॥ (*kālaḥ svabhāvo niyatiryadṛcchā bhūtāni yoniḥ puruṣa iti ciṃtyā ‖*) (Śve. U. 8-2) **NOTE**
+
+This great principle, the root of the world and unborn (aja), is called by some time, by some destiny, by some nature, and likewise by still other names, by different philosophers. But,
+
+### Printed p. 299
+
+स्वभावमेके कवयो वदंति कालं तथान्ये परिमुह्यमानाः । देवस्यैष महिमा तु लोके येनेदं भ्राम्यते ब्रह्मचक्रं ॥ (*svabhāvameke kavayo vadaṃti kālaṃ tathānye parimuhyamānāḥ | devasyaiṣa mahimā tu loke yenedaṃ bhrāmyate brahmacakraṃ ‖*) (Prai. U. 6-1) **NOTE**
+
+Some seers call this great principle nature, and likewise by many other names. Even so, its true nature is not fully described. The Lord who has established the whole world by his power, has taken it within his own navel, and is the master of all the dealings of the universe, must be a conscious person. By whatever name any philosopher calls this primal principle, it is compared to the chariot wheel; no other fitting comparison can be given. Whether it is called Self, Brahman or destiny, the relation of this principle, which is of the nature of consciousness, to the world of action must be likened to the relation of the chariot wheel to its spokes. The details of this simile of the wheel were explained fully earlier, when the nature of the wheel of the sun was described. Still, because the word nābhi (navel) is used here, the same simile is set out briefly.
+
+स ना अयमात्मा सर्वेषां भूतानामधिपतिः सर्वेषां भूतानां राजा तद्यथा रथनाभौ च रथनेमौ चाराः सर्वे समर्पिता एवमेवास्मिन्नात्मनि सर्वाणि भूतानि सर्वे देवाः सर्वे लोकाः सर्वे प्राणाः सर्व एवात्मनः समर्पिताः ॥ (*sa nā ayamātmā sarveṣāṃ bhūtānāmadhipatiḥ sarveṣāṃ bhūtānāṃ rājā tadyathā rathanābhau ca rathanemau cārāḥ sarve samarpitā evamevāsminnātmani sarvāṇi bhūtāni sarve devāḥ sarve lokāḥ sarve prāṇāḥ sarva evātmanaḥ samarpitāḥ ‖*) (Bṛ. U. 2.5-15)
+
+This Self is the lord of all beings. As the spokes are all contained in the nave and the rim of the chariot wheel, and have fixed positions, so all beings are contained in this Self and are subject to the rule of this Self. All beings, all gods, all worlds, all breaths, everything is dedicated to the rule of this Self and depends on it. Thus the likeness between the Self of the world and the chariot wheel is stated. Likewise in the Muṇḍaka Upaniṣad and in the Praśna Upaniṣad:
+
+आरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽंतश्चरते बहुधा जायमानः ॥ (*ārā iva rathanābhau saṃhatā yatra nāḍyaḥ sa eṣo 'ṃtaścarate bahudhā jāyamānaḥ ‖*) (Mu. 2-2 6) **NOTE**
+
+आरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । ऋचो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ (*ārā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | ṛco yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ‖*) (Praśn. 2-6) **NOTE**
+
+आरा इव रथनाभौ कला यस्मिन् प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति ॥ (*ārā iva rathanābhau kalā yasmin pratiṣṭhitāḥ | taṃ vedyaṃ puruṣaṃ veda yathā mā vo mṛtyuḥ parivyathā iti ‖*) (Praśn. 6-6)
+
+### Printed p. 300
+
+In these and similar passages the relation of the primal Person to all the principles of the world is likened to this. These details have been given before (Part 12).
+
+Thus all the worlds are contained in the egg, which is of the form of Hiraṇyagarbha, and this egg, which includes them all, floats supported by the water. The purport of this description is that the Lord pervades the universe and also transcends the universe. **NOTE** Only when the beings of the world have become one with him do they have no individual form. Only in the time of the world's dealings do they have an individual form. Before creation they forget that individual form, all are contained in the navel of the Lord, and all take on the form of the Lord. This is described in the Chāndogya Upaniṣad as follows.
+
+इमाः सोम्य नद्यः पुरस्तात्पाच्यः स्यंदंते पश्चात् प्रतीच्यः ताः समुद्रात् समुद्रमेवापियंति स समुद्र एव भवति ता यथा तत्र न विदुरियमहमस्मीयमहमस्मीति ॥ (*imāḥ somya nadyaḥ purastātpācyaḥ syaṃdaṃte paścāt pratīcyaḥ tāḥ samudrāt samudramevāpiyaṃti sa samudra eva bhavati tā yathā tatra na viduriyamahamasmīyamahamasmīti ‖*) (Bhā. U. 6-10-1) **NOTE**
+
+O dear son, as the rivers of the eastern quarter flow facing east and those of the western quarter flow facing west, they set out from the sea and again join the sea. Only in the middle period do they have their individual form. Neither before this nor after it do they have an individual form. All are one in the form of the sea. There is no separate designation such as "This is I; this is my name".
+
+एवमेव खलु स्कोम्येमाः सर्वाः द्रजाः सत आगम्य न विदुः सत आगच्छामह इति त इह व्याघ्रो ना सिंहो ना वृको ना वराहो ना कीडो ना पतंगो ना दंशो ना मशको ना यद्यद्भवंति तदा भवंति ॥ (*evameva khalu skomyemāḥ sarvāḥ drajāḥ sata āgamya na viduḥ sata āgacchāmaha iti ta iha vyāghro nā siṃho nā vṛko nā varāho nā kīḍo nā pataṃgo nā daṃśo nā maśako nā yadyadbhavaṃti tadā bhavaṃti ‖*) (Bhā. U. 6-10-2)
+
+In the same way, all the beings of this world arise from one primal principle and have their individual forms, but they do not know that their source is one and that one consciousness pervades them all. In the world they may have the form of a tiger, or of a lion, wolf, bear, worm, gnat, insect or mosquito, and in many other forms, yet in the end they become one in that primal principle from which they arose. In this and similar ways the relation of the unborn Lord to all beings contained in the Supreme Self, who is of the form of Hiraṇyagarbha, is stated. The same matter is explained in the present verse.
+
+### Printed p. 301
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तं वि॑दाथ॒ य इ॒मा ज॒जाना॒न्यद्दु॒ष्माक॒मंत॑रं बभूव ।  
+> नी॒हा॒रेण॒ प्रावृ॑ता॒ जल्प्या॑ चासु॒तृप॑ उक्त॒शास॑श्वरंति ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । विदाथ । यः । इमा । जजान । अन्यत् । युष्माकं । अंतरं । बभूव ।  
+> नीहारेण । प्रावृताः । जल्पा । च । असुतृपः । उक्त ऽ शसः । चरंति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नराः तं विश्वकर्माणं न विदाथ न जानीथ य इमेमानि भूतानि जजान
+> उत्पादितवान् । देवदत्तोऽहं यज्ञदत्तोऽमिति वयमात्मानं विश्वकर्माणं
+> जानीम इति यदुच्येत तदसत् न ह्यहंप्रत्ययगम्यं जीवरूपं विश्वकर्मणः
+> परमेश्वरस्य तत्त्वं किंतु युष्माकमहंप्रत्ययगम्यानां जीवानामंतरमन्यदहंप्रत्ययगम्यादतिरिक्तं सर्ववेदांतवेद्यमीश्वरतत्त्वं बभूव । भवति । विद्यते ।
+> जीवरूपवत्तदपि कुतो न विद्म इति चेत् श्रूयतां । नीहारेण प्रावृता यूयं
+> नीहारसदृशेनाज्ञानेनाच्छन्नाः । अतो न जानीथ । यथा नीहारो नात्यंतमसद्दृष्टेरावरकत्वात् नात्यंतं सत्काष्ठ पाषाणादिवत्संबोद्दु मयोग्यत्वात्
+> एवमज्ञानमसि नात्यंतमसदीश्वरतत्त्वावरकत्वात् नापि सद्बोधमात्रनिवर्त्यत्वात् ।
+> ईदृशेनाज्ञानेन सर्वॆ जीवाः प्रावृताः । न केवलं प्रावृतत्वं किंतु जल्पा च
+> देवोऽहं मनुष्योऽहमित्याद्यनृतजल्पनेन प्रावृताः । किंचासुतृपः केनाप्युपायेनासून्प्राणांस्कृप्यंतः । उदरंभरा इत्यर्थः । न तु पारमेश्वरं तत्त्वं
+> विचारितवंतः । न केवलमिहलोकभोगमात्रतृप्ता उक्ततासो नानाविधेनु
+> यज्ञेषूक्ष्यं प्रलुगनिष्केवल्यादिकं शंसंतश्चरंति । पृथिव्यां वर्तंते । केवलमैहिकामुष्टिकभोगपरा वर्तध्वेऽतो विश्वकर्माणं देवं न जानीथेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O men, you do not know that Viśvakarman who generated these beings. If it were said, "I am Devadatta, I am Yajñadatta; we know ourselves as Viśvakarman," that would be false, for the soul known through the notion "I" is not the true nature of Viśvakarman, the supreme Lord. Rather, other than you, the souls known through the notion "I", there is बभूव (*babhūva*), that is, there exists, the principle of the Lord, to be known through the whole of the Vedānta. If it is asked why we do not know that principle, though it is like the soul, listen. You are covered by नीहारेण (*nīhāreṇa*), by ignorance like mist; therefore you do not know. As mist is not wholly non-existent, since it veils the sight, and not wholly existent, since, unlike wood or stone, it is not fit to be perceived, so ignorance is not wholly non-existent, since it veils the principle of the Lord, nor wholly existent, since it is removed by mere right knowledge. By such ignorance all souls are covered. They are covered not only so, but also by जल्पा (*jalpā*), by false prattle such as "I am a god, I am a man". Further, the असुतृपः (*asutṛpaḥ*) are those who by whatever means feed their breaths (asu), that is, belly-fillers, who have not reflected on the principle of the Supreme Lord. Not satisfied with the enjoyment of this world only, they move about in the various sacrifices reciting the uktha and prauga hymns, the niṣkevalya and so on; that is, they live on the earth. Being intent only on enjoyment in this world and the other, you live, therefore you do not know the god Viśvakarman. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Viśvakarman
+- इमा (*imā*)—these beings
+- जजान (*jajāna*)—produced
+- तं (*taṃ*)—that Viśvakarman
+- न विदाथ (*na vidātha*)—you cannot know
+- युष्माकं (*yuṣmākaṃ*)—than the endless souls who possess individuality
+- अंतरं (*aṃtaraṃ*)—different
+- अन्यत् (*anyat*)—the supreme principle
+
+### Printed p. 302
+
+- बभूव (*babhūva*)—exists (without this knowledge of the supreme principle)
+- नीहारेण (*nīhāreṇa*)—by ignorance like a lump of mist
+- प्रावृताः (*prāvṛtāḥ*)—those who are covered
+- जल्पा (*jalpā*)—those who are engaged proudly in worldly dealings
+- असुतृपः (*asutṛpaḥ*)—those who hold mere enjoyment as the chief thing
+- उक्तशासः (*uktaśāsaḥ*)—the ignorant, attached to enjoyment, who keep reciting the śastra and other mantras that are chief in rites done for desires
+- चरंति (*caraṃti*)—are in the majority
+
+##### भावार्थ (Bhāvārtha)
+
+You cannot know that Viśvakarman who produced these beings. There is a supreme principle different from the endless souls who possess individuality. Without knowledge of this supreme principle, those who are covered by ignorance like a lump of mist, who are engaged proudly in worldly dealings, who hold mere enjoyment as the chief thing, who keep reciting the śastra and other mantras that are chief in rites done for desires, the ignorant attached to enjoyment, are in the majority.
+
+##### English translation
+You know not him who has generated these (beings); (his life) is another, different from yours; wrapped in fog, and foolish speech (do they) wander (who are) gluttonous and engaged in devotion.
+
+##### विशेषविषयगळु (Special Topics)
+
+All beings arise from the Lord, who is of the form of Viśvakarman. But no creature that has arisen from him is able to know his greatness. There are two reasons for this. First—
+
+(1) The Lord is beyond the universe. He is not the kind of being that can be grasped by the senses and other instruments. Even great seers, rich in austerity, can realize only one part or another of the Lord; the realization of the whole Lord does not come to them. Second—
+
+(2) All created beings, without the knowledge that their origin is from the Lord, are filled with mere selfishness and egoism and with craving for enjoyment, and become full of ignorance, so they have no fitness for the realization of the Lord. These two matters are stated in this verse.
+
+(1) The Lord, the cause of the whole world, is of the nature of the thread: he makes a connection with the whole universe and establishes unity in variety. He is the inner controller of all. He knows everything. Though he pervades all things, no one knows his greatness. How? Thus—
+
+### Printed p. 303
+
+यः पृथिव्यां तिष्ठन् पृथिव्या अंतरो यं पृथिविः न वेद यस्य पृथिवी शरीरं यः पृथिवीमंतरो यमयत्येष त आत्मा अंतर्याम्यमृतः ॥ (*yaḥ pṛthivyāṃ tiṣṭhan pṛthivyā aṃtaro yaṃ pṛthiviḥ na veda yasya pṛthivī śarīraṃ yaḥ pṛthivīmaṃtaro yamayatyeṣa ta ātmā aṃtaryāmyamṛtaḥ ‖*) (Bṛ. U. 3-7-3)
+
+The Sūtrātman who is established in the earth, whose body is the earth, whose nature the earth cannot know, is within the earth and governs all the dealings of the earth. He is the eternal Lord.
+
+यः अप्पु तिष्ठन्नद्योऽन्तरो यमापो न विदुः यस्यापः शरीरं .... .... ॥ (*yaḥ appu tiṣṭhannadyo 'ntaro yamāpo na viduḥ yasyāpaḥ śarīraṃ .... .... ‖*)
+योऽग्नौ तिष्ठन्नग्नेरंतरो यमग्निर्नवेद यस्याग्निःशरीरं .... .... .... ॥ ५ ॥ (*yo 'gnau tiṣṭhannagneraṃtaro yamagnirnaveda yasyāgniḥśarīraṃ .... .... .... ‖ 5 ‖*)
+योऽन्तरिक्षे तिष्ठन् अंतरिक्षादंतरः यमंतरिक्षं न वेद .... .... .... .... ॥ ६ ॥ (*yo 'ntarikṣe tiṣṭhan aṃtarikṣādaṃtaraḥ yamaṃtarikṣaṃ na veda .... .... .... .... ‖ 6 ‖*)
+यो वायौ तिष्ठन् वायोरंतरो यं वायुर्न वेद .... .... .... .... ॥ ७ ॥ (*yo vāyau tiṣṭhan vāyoraṃtaro yaṃ vāyurna veda .... .... .... .... ‖ 7 ‖*)
+यो दिवि तिष्ठन् दिवोऽंतरो यं द्यौर्नवेद .... .... .... .... .... .... ॥ ८ ॥ (*yo divi tiṣṭhan divo 'ṃtaro yaṃ dyaurnaveda .... .... .... .... .... .... ‖ 8 ‖*)
+य आदित्ये तिष्ठन्नादित्यादंतरो यमादित्यो न वेद .... .... .... .... ॥ ९ ॥ (*ya āditye tiṣṭhannādityādaṃtaro yamādityo na veda .... .... .... .... ‖ 9 ‖*)
+यो दिक्षु तिष्ठन् दिग्बोऽंतरो यं दिशो न विदुः .... .... .... .... ॥ १० ॥ (*yo dikṣu tiṣṭhan digbo 'ṃtaro yaṃ diśo na viduḥ .... .... .... .... ‖ 10 ‖*)
+यश्चंद्रतारके तिष्ठन् चंद्रतारकादंतो यं चंद्रतारकं न वेद.... ॥ ११ ॥ (*yaścaṃdratārake tiṣṭhan caṃdratārakādaṃto yaṃ caṃdratārakaṃ na veda.... ‖ 11 ‖*)
+य आकाशे तिष्ठन् आकाशादंतरो यमाकाशो न वेद .... .... .... .... ॥ १२ ॥ (*ya ākāśe tiṣṭhan ākāśādaṃtaro yamākāśo na veda .... .... .... .... ‖ 12 ‖*)
+यस्तमसि तिष्ठन् तमसोऽंतरो यं तमो न वेद .... .... .... .... ॥ १३ । (*yastamasi tiṣṭhan tamaso 'ṃtaro yaṃ tamo na veda .... .... .... .... ‖ 13 |*)
+यस्तेजसि तिष्ठंस्तेजसोऽंतरो यं तेजो न वेद .... .... .... .... ॥ १४ ॥ (*yastejasi tiṣṭhaṃstejaso 'ṃtaro yaṃ tejo na veda .... .... .... .... ‖ 14 ‖*)
+यः सर्वेषु भूतेषु तिष्ठन्सर्वेभ्यो भूतेभ्योऽंतरो यं सर्वाणि भूतानि न विदुः .... .... .... .... ॥ १५ ॥ (*yaḥ sarveṣu bhūteṣu tiṣṭhansarvebhyo bhūtebhyo 'ṃtaro yaṃ sarvāṇi bhūtāni na viduḥ .... .... .... .... ‖ 15 ‖*) (Bṛ. U. 3-7-4 to 23)
+
+This Sūtrātman is the indweller in water. Water is his body. But water does not know his greatness. He is the controller of water.
+
+He is the indweller in fire. Fire is his body. But fire cannot know his greatness. He is the controller of fire.
+
+This same Lord is within the atmosphere. The atmosphere is his body, but the atmosphere cannot know his greatness. He is the controller of the atmosphere.
+
+This Sūtrātman is within the wind. The wind is his body. But the wind cannot know his greatness. He is the controller of the movement of the wind. This Supreme Self is within the heavenly world. The heavenly world is his body. But the heavenly world cannot know his greatness.
+
 ---
 
-**Progress note:** Done through printed p. 297. Sūkta 82 end of Special Topics (Ṛk 5), Ṛk 6 begins
+**Progress note:** Done through printed p. 303. Ṛk 6 end, Ṛk 7 (Sūkta 82), special topics
