@@ -235,3 +235,9 @@ page	place	as_found	question	why_not_settled	decision
 523	page prose	ಅವನ್ನು for ಅವನು; ಸಂಪಾದಿಸದ for ಸಂಪಾದಿಸಿದ	Kannada misprint ಅವನ್ನು/ಸಂಪಾದಿಸದ; English has 'he'/'attained'		English kept
 530	Sanskrit quotation in prose	ಜಾಯೇವ ಸತ್ಯ ಉಶತೀ; ತನ್ನಂ ವಿ ಸಸ್ರೇ	Kannada misprint ಸತ್ಯ/ತನ್ನಂ; English has patya/tanvam		English kept
 546	prose on relation	ಪ್ರತಿಪಾದ್ಯ and ಪ್ರತಿಪಾದಕ reversed	Kannada misprint (terms reversed) Veda=pratipadya; English has Veda=pratipadaka		English kept
+550	accent-class name	ಪ್ರಜಯಾಕ್ಷರಗಳು	Kannada misprint prajaya-akshara; English has prachaya		English kept
+552	sandhi example	ವಾಯನಾ	Kannada misprint vayana; English has vayav a		English kept
+561	embedded translation	sthulaprishatim agnivarunim ... alahheta	Kannada misprint alahheta; English has alabheta		English kept
+570	sentence before the grammarians explanation	ಈ ಮಕ್ಕಳಿಗೆ ಹೀಗೆ ಬೇಕಾದರೂ ಅರ್ಥಮಾಡಬಹುದು	Kannada misprint makkalige (children), probably mantrakke; English has the sentence without the word		English kept
+575	embedded translation of Nirukta	Gauli	Kannada misprint Gauli; English has gauh		English kept
+576	embedded translation	Nirykta	Kannada misprint Nirykta; English has Nirukta		English kept

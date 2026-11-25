@@ -11682,7 +11682,7 @@ That is: in Sanskrit and in Prakrit — the languages in use other than Sanskrit
 
 ...of the first word remains unchanged. This is a part of the subject which, as being discussed in Vyakarana, is omitted in the Śikṣā.
 
-Udātta, anudātta, and the pluta (prolated) accent are marked distinctly across the words to be recited. Those wishing to master pronunciation must study these markings closely. The udātta accent is marked with a vertical stroke above the letter; the svarita accent is marked below; the anudātta carries no mark at all — bare, unmarked letters are to be understood as anudātta. One must understand these markings letter by letter. Where the accent-mark sits — above the letter, at its foot, or beside it — determines the type of accent for that syllable. **As an example, here is a well-known mantra shown with its accent-marks in place**—
+The udātta and prachaya accents are pronounced without any difference. When the anudātta is spoken, the syllable is pronounced lowered; when the svarita is pronounced, it is raised a little. In writing, the udātta and the prachaya accents carry no mark. But syllables that stand without a mark at the beginning of a mantra, and syllables that come without a mark after an anudātta, are to be understood as udātta syllables. The anudātta syllable is marked with a small horizontal stroke below the syllable; the svarita carries a small vertical stroke above the syllable. **As an example, one mantra is shown here with its accent-marks in place**—
 
 > **अ॒ग्निमी॑ळे पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॑त्विज॑म् ।**
 > **होता॑रं रत्न॒धात॑मम् ॥**
@@ -11700,9 +11700,9 @@ Udātta, anudātta, and the pluta (prolated) accent are marked distinctly across
 
 **"Mātrā"** means the specific duration required to pronounce a given letter — whether short or long — and how long that pronunciation should take. This is now discussed—
 
-### "Prasave dīrghaḥ plutaśced iti kāla-niyamādi arthaḥ" (Sutra) — see page 548 above
+### "Prasave dīrghaḥ plutaśced iti kāla-niyamādi arthaḥ" (Sutra)
 
-**Meaning:** the letters pronounced with normal duration are called "hrasva" (short). This much is stated explicitly. In the second mātrā-length, a and ī and similar letters are prolonged, called "dīrgha" (long). Three-mātrā duration is called "pluta" (prolated), used specifically for calling out or summoning. Whether short, long, or prolated, in any given sentence, the mātrā (quantity) is determined by these three durations. Three-mātrā...
+**Meaning:** the letter pronounced in the time taken to utter the vowel a is called hrasva (short); this is called one mātrā. Letters such as ā and ī, pronounced in the time of two mātrās, are called dīrgha (long). Letters pronounced in the time of three mātrās are called pluta (prolated). In the first example sentence the syllable is a pluta of three mātrās, and the numeral 3 is customarily written to show it; there is also a pluta of two mātrās, as in the second example sentence.
 
 ---
 
@@ -11731,24 +11731,24 @@ The reference is to the text of Scripture:
 
 If "indraśatru" in this text were intended to mean "enemy, destroyer of Indra," the word would be a tatpuruṣa compound, and in accordance with the rule "samāsasya" (the compound's accent-rule), it would have the acute accent on the...
 
-**This is a well-known cautionary tale.** Correctly pronounced, "indraśatru" should mean "he whose slayer is Indra" (a bahuvrīhi compound, accent on the first member) — but Tvashtri, in performing a sacrifice to create a son who would destroy Indra, mispronounced the accent, unintentionally shifting the compound's sense to a tatpuruṣa ("Indra's slayer") — and as a direct result, the very son born from that yajna was destroyed **by** Indra, rather than destroying him. This story is given in detail in works such as the same passage cited above (page 552) and in Panini's grammar tradition.
+**This is a well-known cautionary tale.** If "indraśatru" is to mean "he who slays Indra", the compound must be a tatpuruṣa ("Indra's slayer"), and then its last syllable must carry the udātta accent. But the word in the mantra has the udātta on its first syllable, and the last syllable (tru) is not udātta; so it is a bahuvrīhi, meaning "he whose slayer is Indra", that is, one to be slain by Indra. Because of this change of accent the sense reversed: Tvashtri, who sacrificed to obtain a son who would slay Indra, obtained one who was slain by Indra, and harm came to him instead of the fruit.
 
 ### On "Bala" (Force)
 
-**"Bala"** refers to the place of articulation. The place refers to the specific effort involved in pronouncing a given letter; the letter pronounced with the appropriate effort at its proper place is called "sthāna" (station). "Kaṇṭha (throat), tālu (palate), danta (teeth), oṣṭha (lips)" and similar — these are the places at which the letters are articulated. According to the Anga tradition, the letter **a** [and similar vowels] are articulated in the throat; the semivowels [ya, ra, la, va] are articulated with slight contact — this is called "īṣat" (slight) contact. Understanding this proper application of contact and place, at each letter, matters for correct articulation.
+**"Bala"** means the place and the effort of articulation. "Place" (sthāna) is the part of the mouth to which the tongue is applied when a letter is pronounced; the Śikṣā says there are eight places, throat, palate, teeth, lips and the like. The vowels (a and the rest) are untouched: in pronouncing them the tongue touches no part of the mouth. The semivowels (ya, ra, la, va) are "īṣat" (slightly) touched. This manner of pronouncing a letter by touching the tongue to the palate and the other parts of the mouth is called "effort" (prayatna).
 
 *(The Kannada text quotes here* तत्राष्टौ स्थानानि वर्णानाम् (शि. १३) — *tatrāṣṭau sthānāni varṇānām (Śikṣā 13).)*
 
 ### On "Sāma" (Uniform Delivery)
 
-**"Sāma"** means: when reciting the words, neither shortening a short-duration letter nor lengthening it beyond its proper measure — this is the true meaning of correct recitation. One must recite with steady attentiveness, without letting the mind wander, taking care not to reverse the order of the letters, nor to omit any, nor mispronounce them. If one recites in a manner that adds extraneous sounds or drops necessary ones — the meaning of the words becomes muddled, and the recitation carries the fault of ill-effect (as the poison-anecdote and similar stories illustrate). Reciting evenly, without irregularity, is the virtue of proper "sāma."
+**"Sāma"** (sāmya, uniformity) means that, in pronouncing words, rules such as which letter is to be recited short and which long make the word uniform. One must not recite too hastily, nor drag out the letters too slowly. Without such faults, the words must be pronounced clearly and sweetly to the ear (audibly). This manner of pronunciation is called "sāmya".
 
 The faults of recitation are given in the passages:
 
 > गीती शीघ्री शिरःकम्पीत्यादिना (शि. ३२) । उपांशु दष्टं त्वरितमित्यादिना (शि. ३५)
 > *gītī śīghrī śiraḥkampīty ādinā (Śikṣā 32) | upāṃśu daṣṭaṃ tvaritam ity ādinā (Śikṣā 35)*
 
-### On "Santāna" (Madhurya) — Joining
+### On "Madhurya" (Sweetness)
 
 > माधुर्यमक्षरव्यक्तिरित्यादिना (शि. ३-३)
 > *mādhuryam akṣara-vyaktir ity ādinā* (Śikṣā 3-3; line re-read from the print in the numeral pass)
@@ -11768,7 +11768,7 @@ The faults of recitation are given in the passages:
 
 ### "Santāna" (Joining) — continued
 
-**Santāna** refers to the proper procedure for joining words together, according to the rules of euphonic combination (sandhi). "Vāyav" is a case of vāyu joined with "ā": when the word "vāyu" is followed by "ā" [as in "vāyav ā yāhi"], sandhi occurs. Similarly, "indrāgnī" is a case where "indra" and "agnī" combine: when "indra" is followed by "agnī," this particular sandhi results — which words combine, and how they combine, is set out in the science of grammar (vyākaraṇa). Since a full discussion of this belongs there, it is not elaborated in the Śikṣā, and is only briefly touched upon here.
+**Santāna** means the arrangement of joining according to the rules of saṃhitā or sandhi. In the sentence "vāyav ā yāhi", vāyo + ā becomes vāyav ā by the change of o to av, and sandhi results. In the sentence "indrāgnī ā gatam", indrāgnī + ā gatam undergoes no sandhi at all, and the original form remains as it was. Since many such rules of sandhi are explained at length in the science of grammar, the Śikṣā leaves them aside without explaining them.
 
 Failing to properly know the rules laid down in the Śikṣā text — whether errors of accent or errors in letters — leads to serious fault when reciting a mantra. If a mantra is recited with either wrong accent or wrong letters, its very meaning becomes altered from its intended sense. Such a defective mantra becomes fruitless (aphala) — or worse, it directly harms the very person who recites it. There are traditional accounts of this. In particular, a well-known account, still preserved in the Taittiriya Shakha tradition, tells of such a case—
 
@@ -11783,7 +11783,7 @@ Previously, when Tvashtri was performing Prajapati's yajna, desiring to have a s
 > *svāhendraśatrur vardhasva |*
 > "Svāhā! May you grow, O slayer of Indra"
 
-Because of an accent-error within it, instead of achieving the intended result, harm befell the very yajamāna who performed the yajna. **This same matter is explained by the mantra given in the Taittiriya Samhita of the Yajurveda** — see the fuller citation and resolution on the following page.
+Because of an accent-error within it, instead of achieving the intended result, harm befell the very yajamāna who performed the yajna. **This same matter is explained by the mantra given in the Taittiriya Samhita of the Yajurveda.**
 
 > त्वष्टा हतपुत्रो वीन्द्रꣳ सोममाहरत्तस्मिन्निन्द्र उपहवमैच्छत तं नोपाह्वयत पुत्रं मेऽवधीरिति स यज्ञवेशसं कृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यत तत्त्वष्टाऽऽहवनीयमुपप्रावर्तयत्स्वाहेन्द्रशत्रुर्वर्धस्वेति स यावदूर्ध्वः पराविध्यति तावति स्वयमेव व्यरमत ॥ (तै. सं. २-४-१२-१)
 > *tvaṣṭā hataputro vīndraṃ somam āharat tasminn indra upahavam aicchata taṃ nopāhvayata putraṃ me'vadhīr iti sa yajñaveśasaṃ kṛtvā prāsahā somam apibat tasya yad atyaśiṣyata tat tvaṣṭā''havanīyam upaprāvartayat svāhendraśatrur vardhasveti sa yāvad ūrdhvaḥ parāvidhyati tāvati svayam eva vyaramata || (Taittirīya Saṃhitā 2-4-12-1)* (added from the print in the numeral pass)
@@ -11800,16 +11800,16 @@ Because of an accent-error within it, instead of achieving the intended result, 
 
 ### Page 553
 
-...is that this mantra needs to be understood as **"sākṣād indraśatru-varthārthasya"** — "one whose very slayer is directly Indra." When Tvashtri performed the yajna intending to produce a son who would slay Indra, he intended the compound "indraśatru" to mean "the slayer of Indra" (indraṃ śatruḥ — a tatpuruṣa compound: "Indra's foe"). But because he pronounced it with the *wrong accent* — properly accented, "indraśatru" as a **bahuvrīhi compound** must instead be understood to mean "he whose slayer is Indra" (indraḥ śatruḥ yasya saḥ — "one destroyed **by** Indra"). Accent alone determines this distinction.
+What we need is the mantra "svāhendraśatrur vardhasva". When Tvashtri Prajapati performed the sacrifice, intending to obtain a son who would slay Indra, and made the offering in the fire, the accent of the word "indraśatru" was changed and the sense changed with it: instead of "the son who slays Indra" it became "the son who is slain by Indra", and harm came instead of the fruit. Let us consider how the change of accent came about. For "indraśatru" to mean the son who slays Indra, it would have to be a tatpuruṣa compound ("Indra's slayer"), and its last syllable would then have to be udātta. But the word used in the mantra has the udātta on its first syllable, and the last syllable (tru) is not udātta. So the word is a bahuvrīhi instead of a tatpuruṣa, and the meaning changes accordingly.
 
-Because of this single mispronunciation, the very meaning of the mantra reversed: instead of producing a destroyer *of* Indra, the sacrifice produced a being destined to be destroyed *by* Indra — and that is precisely what happened, as the sacred narrative recounts. This shows how essential correct accent is:
+Because of this change of accent the sense of the mantra reversed: instead of producing a slayer of Indra, the sacrifice produced one to be slain by Indra, and the sacrificer received harm instead of the fruit. This shows how essential correct accent is:
 
 > इन्द्रः शत्रुर्यस्य ।
 > *indraḥ śatrur yasya |*
 
 — this is the bahuvrīhi's genuine intended sense.
 
-**Meaning:** the compound "indraśatru," when correctly accented as a bahuvrīhi (with acute accent on the first member), means "he whose enemy/destroyer is Indra." Because Tvashtri's actual pronunciation shifted the accent to the pattern proper to a tatpuruṣa compound, the sense inadvertently reversed to "the destroyer of Indra" — and the resulting confusion in meaning led directly to his own destruction, as the story shows. **From this, it becomes clear how essential correct knowledge of accent truly is.** This example alone suffices to demonstrate why the Śikṣā treatise is indispensable.
+**Meaning:** if "indraśatru" is a tatpuruṣa, it means "slayer of Indra" and has the udātta on its last syllable; the word in the mantra has the udātta on its first syllable and is therefore a bahuvrīhi, "he whose slayer (śatru) is Indra", that is, one to be slain by Indra. By this change of accent the sense reversed and, instead of the fruit, harm came to the sacrificer. **From this it is clear how essential correct knowledge of the Śikṣā is for avoiding such faults of accent, letters and the like.**
 
 ### The Second Anga: Kalpa
 
@@ -11837,11 +11837,11 @@ Because of this single mispronunciation, the very meaning of the mantra reversed
 >
 > "Let a man recite his own Veda, or one verse only of his own Veda, be it Rig, Yajur, or Sama; that is the spiritual sacrifice."
 
-**Meaning:** for this daily brahma-yajña, one must recite according to the sequence in which the mantras are collected within the Samhita — not according to when each mantra is actually employed in a rite. The order of recitation for the brahma-yajña follows the Samhita's own internal arrangement: the mantras belonging to the trees and plants (used for consecrating the sacred grass and similar purposes) are recited according to that fixed textual order, not according to their scattered ritual usage.
+**Meaning:** in this brahma-yajña japa, the mantras beginning with the first Rik of the Saṃhitā are to be recited in the order in which they stand in the Saṃhitā. Likewise, at the vācaḥ-stoma sacrifice, in which all the Riks, all the Yajus mantras and all the Sāman mantras are to be recited, the order given by the traditional authorities is to be accepted.
 
-**This same principle** — that recitation-order and ritual-employment-order are two entirely separate matters — resolves the apparent contradiction: since Ashvalayana's Kalpa-sutra text (dealing with actual ritual sequence) doesn't follow the Rigveda-Samhita's own textual order, this in no way undermines the claim that the Samhita's own arrangement is fixed for the purposes of daily recitation (svādhyāya) and the brahma-yajña specifically.
+The Mantra-kāṇḍa (the Saṃhitā) is thus arranged for japa in the brahma-yajña and the like, not for showing the order of performing sacrifices; therefore, although the order of the Mantra-kāṇḍa is not found in Āśvalāyana's Kalpa-sūtra, there is no contradiction in it.
 
-**One further doubt might arise:** does Ashvalayana's own Grihya-sutra, in laying down the rules for daily recitation, follow the mantra order of the Rigveda-Samhita, or does it follow some other principle? — Whichever the answer, one thing is beyond dispute: a person should recite his own portion, be it Rig, Yajur, or Sama, according to a fixed and definite sequence.
+The same traditional order is to be followed wherever the whole Mantra-kāṇḍa is employed, as in the recitation prescribed as an expiation.
 
 ---
 
@@ -11854,25 +11854,25 @@ Because of this single mispronunciation, the very meaning of the mantra reversed
 
 ### Page 555
 
-**Wherever employment [of a mantra in ritual] is explicitly commanded, the traditional [Samhita] order need not be followed** — this is not to be regarded as a genuine flaw. In the case of works belonging to different Shakhas, understanding the specific application (viniyoga) of each mantra requires study of those Shakhas' own Kalpa-sutra texts.
+**If it be asked** why uses are stated for mantras that are not in the Rigveda Saṃhitā, this is no fault. The use established in another Brāhmaṇa for mantras recited in another Śākhā has to be stated here by the principle of gathering together the qualities (guṇopasaṃhāra-nyāya). The logicians say that one rite rests on all the Śākhās; therefore Kalpa, like Śikṣā, is needed.
 
 **In all cases where a recitation of the whole mantra portion is commanded, the traditional order must be rigidly followed.**
 
-Now, this discussion is undertaken by those wishing to critically examine the works composed by the various Angas. **Kalpa** means the treatises that treat the specific methods for performing yajnas — that is, the works explaining ritual procedure (karma), mantra-application (viniyoga), and the substances to be used (dravya) in a yajna. Among the ancient works of this kind, Ashvalayana, Apastamba, and Baudhayana are well-known, and among more recent works, Katyayana and similar authors have composed treatises. There are many such Kalpa-treatises belonging to different Shakhas — Shrauta-sutra, Grihya-sutra, Dharma-sutra, Paribhasha-sutra, and so on. **Among these, we shall now examine an objection raised regarding Ashvalayana's Shrauta-sutra specifically**—
+So far the Vedānga Śikṣā has been dealt with; now the books of Kalpa, the sūtra-works, are examined. Kalpa means the works that set out the rules for performing sacrifices, the application (viniyoga) of mantras and the order of performing the sacrifice. They were composed in sūtra form by great sages such as Āśvalāyana, Āpastamba and Bodhāyana. For the Rigveda the Kalpa-sūtras composed by Āśvalāyana are the chief ones; for the Kṛṣṇa Yajurveda, Āpastamba, Bodhāyana and others composed Kalpa-sūtras; the other Vedas and other Śākhās also have Kalpa-sūtras composed by other sages. This has already been explained in detail (see page 32). According to the rites the sūtra-works are of many kinds: Śrauta-sūtra, Gṛhya-sūtra, Dharma-sūtra, Paribhāṣā-sūtra and so on. Of these the Śrauta-sūtra is the chief, so we shall examine it here. **In composing his Śrauta-sūtra, what order did Āśvalāyana follow?**
 
-Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in the ritual-application of the mantras, following the sequence in which they occur in the Samhita? Or do they follow some other order not matching the Kanda (section) division? Whatever it may be, they do not follow the Samhita's own Mantra-kanda sequence at all. If it be objected that in one instance, at least, the order matches — namely, where it is said—
+Did he follow the order of the Mantra-kāṇḍa (the mantras used in the sacrifice), or the order given in the Aitareya Brāhmaṇa? He did not follow the first. At the beginning of his work he opens the section on the Darsha-Purnamasa sacrifice, saying—
 
 > दर्शपूर्णमासौ तु पूर्वं व्याख्यास्यामः ।
 > *darśa-pūrṇamāsau tu pūrvaṃ vyākhyāsyāmaḥ |*
 > "We shall first expound the Darsha and Purnamasa rites"
 
-(Ashvalayana Shrauta Sutra 1-1-3) — this is [merely] because the Darsha-Purnamasa sacrifice comes first in the sequence of sacrificial rites, [not because it follows the Samhita's mantra-order]. The word **"agnihotra"** begins their treatise likewise — the mantra collection for Agnihotra is not found gathered anywhere in the Samhita as a coherent block. Therefore, the Kalpa-treatises follow their *own* sequence, based on the order of ritual performance, not the Samhita's own arrangement. Precisely because these two orderings can differ, one's own Brahmana-portion may not follow the same sequence either. Some might say — but the text opens—
+(Ashvalayana Shrauta Sutra 1-1-3). The mantras at the beginning of the Rigveda Saṃhitā, such as the first Rik, are nowhere used in the Darsha-Purnamasa sacrifice; therefore the order of the Mantra-kāṇḍa was not followed. Did he follow the second, the order of the Aitareya Brāhmaṇa? That too is not so. For at the beginning of the Aitareya Brāhmaṇa come the mantras connected with the dīkṣaṇīyā rite, as in the passage—
 
 > आत्मानं वेदपुरोडाशं निर्वपति दीक्षणीयेष्ट्यादौ कल्पम् ।
 > *ātmānaṃ veda-puroḍāśaṃ nirvapati dīkṣaṇīyeṣṭy-adau kalpam |*
-> "At the beginning of the dīkṣaṇīyā rite, one offers the Veda-cake for oneself"
+> "At the dikshaniya sacrifice they offer the purodasa cake in eleven platters"
 
-(Aitareya Brahmana 1-1) — this passage relates to the dīkṣaṇīyā-related mantra. Therefore, the Brahmana too may not always follow the [Samhita's] sequence.
+(Aitareya Brahmana 1-1) — the mantras connected with the dīkṣaṇīyā rite come first there. So the order of the Brāhmaṇa too was not followed.
 
 ---
 
@@ -11890,19 +11890,19 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 
 ### Page 556
 
-**Here a special doubt must be resolved.** In the Mantra-kanda (the portion of the Samhita comprising mantras, including the Khilas), determining which mantra decisively belongs to which rite is often difficult — the composer of the Brahmana-portion doesn't reveal this explicitly. The performer of the Brahma-yajna needs no such determination. **The Brahma-yajna's injunction is stated thus:**
+**Here one special point must be made.** The Mantra-kāṇḍa (the Saṃhitā, comprising the Riks) is an order fixed for recitation (japa) in the brahma-yajña and the like; it was not arranged for showing the order of performing sacrifices. **The brahma-yajña is enjoined thus:**
 
 > यत्स्वाध्यायमधीयीतैकामप्यृचं यजुः साम वा तद्ब्रह्मयज्ञः ॥
 > *yat svādhyāyam adhīyītaikām apy ṛcaṃ yajuḥ sāma vā tad brahma-yajñaḥ ||* (Taittirīya Āraṇyaka 2-10-6)
 
-"Let a man recite his own Veda — even a single verse of his own Veda, whether Rig, Yajur, or Sama — that is the spiritual sacrifice." **This is what it means.** One should recite his own Shakha's texts in their proper Samhita-sequence. This much suffices.
+"Let a man recite his own Veda — even a single verse of his own Veda, whether Rig, Yajur, or Sama — that is the spiritual sacrifice." **This is what it means.** In this brahma-yajña the mantras beginning with the first Rik of the Saṃhitā are to be recited in the order in which they stand in the Saṃhitā. Likewise, at the vācaḥ-stoma sacrifice, in which all the Riks, Yajus and Sāman mantras are to be recited, the order given by the traditional authorities is to be accepted.
 
-**But when actually performing rites**, one must know precisely which mantras from the Samhita apply to which specific rite. Without knowing this precise application, one cannot perform the rites correctly. Therefore, it is entirely proper to first know the sequence of ritual acts and only afterward identify the mantras belonging to each — an entirely different concern from the Samhita's own arrangement. It has also been said elsewhere—
+And at the Ashvina sacrifice, while the Ashvina-shastra is being recited, it is enjoined—
 
 > सूर्यो नोदियादपि सर्वा दाशतयीरनुब्रूयात् ।
 > *sūryo nodiyād api sarvā dāśatayīr anubrūyāt |*
 
-— that is, before the sun rises one should recite all the mantras of the *dāśatayī* (the ten-maṇḍala Ṛgveda). And again—
+— that is, before the sun rises one should finish reciting all the mantras called *dāśatayā*. And again—
 
 > रिच्यत इव वा एष प्रेव रिच्यते यो याजयति प्रति वा गृह्णाति, याजयित्वा प्रतिगृह्य वानश्नन् त्रिः स्वाध्यायं वेदमधीयीत ॥
 > *ricyata iva vā eṣa preva ricyate yo yājayati prati vā gṛhṇāti, yājayitvā pratigṛhya vānaśnan triḥ svādhyāyaṃ vedam adhīyīta ||* (Taittirīya Āraṇyaka 2-16)
@@ -11935,16 +11935,16 @@ Do Ashvalayana's followers, in the Shrauta-sutra, follow the order employed in t
 
 **which are no part of the revealed text of the Rig Veda at all? He is not in fault. He does well, &c.**
 
-Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses — even those used in yajus-mantra portions elsewhere — when found to properly belong, according to the assessment of experts, to a particular ritual application, those experts should indeed include them within the relevant Kalpa-sutra text. Since the ordering of a given rite draws upon whatever [texts] are genuinely applicable [to it], it is entirely proper to follow that rite's own [functional] order [rather than the Samhita's].
+Regarding this, **"इषे त्वा"** (*iṣe tvā*) and the other Yajurveda mantras: since these mantras are arranged in the order of performing the sacrifice, Apastamba and the other great sages composed their Kalpa-sutras following the order found there. Since that order is in the Veda itself, it is natural that the same order is followed in japa, recitation and the like.
 
-**Followers of Ashvalayana** established their own Kalpa-sutra in accordance with the order of the Darsha-Purnamasa rite. The word "aitareya" appears at the very beginning of their Brahmana. That the Brahmana thus follows the order of the Darsha-Purnamasa rite, rather than the Samhita's own arrangement, should present no obstacle at all. And it has already been shown (see previous discussion) that followers of Ashvalayana also, in composing their own Kalpa-sutra, followed the Darsha-Purnamasa rite's own sequence. **Since the Kalpa Anga's genuine purpose is precisely to explain the application (viniyoga) of the mantras, this establishes the usefulness of studying the Kalpa Anga.**
+**Ashvalayana** begins his Kalpa-sutra with the Darsha-Purnamasa sacrifice. In the Aitareya Brahmana the dīkṣaṇīyā rite is stated first. But since the dīkṣaṇīyā rite is a modification of the Darsha-Purnamasa, and it is proper to state the model rite first and the modification afterwards, Ashvalayana was right to state the Darsha-Purnamasa first. (The matter of model rites and modifications has been explained earlier.) **Therefore, since the Kalpa-sutras, by stating the application of mantras, teach the order of performing the sacrifice, they are of service.**
 
-**If it be objected**:
+**Then let Ashvalayana state the application** of the Samidheni Riks (the mantras said when the fire is kindled and the fuel sticks are laid on), such as—
 
 > प्र वो वाजाः ।
 > *pra vo vājāḥ |*
 
-**and similar verses** — [why does he not] rather cite the application of these verses that belong wholly to the revealed Rig Veda text itself? — This is not a fault. All the texts that bear on a particular sacrifice should, **in accordance with the "गुणोपसंहारन्याय" (*guṇopasaṃhāra-nyāya*)** (the principle of gathering together whatever qualities are relevant), be given, in whatever Shakha they are found. **Logicians say that each rite rests on all the Shakhas; therefore Kalpa, like Śikṣā, must be attended to.**
+**and similar verses** — granted. But why state the application of mantras that are not in the revealed Rig Veda text at all? — This is not a fault. All the texts that bear on a particular sacrifice should, **in accordance with the "गुणोपसंहारन्याय" (*guṇopasaṃhāra-nyāya*)** (the principle of gathering together whatever qualities are relevant), be given, in whatever Shakha they are found. **Logicians say that each rite rests on all the Shakhas; therefore Kalpa, like Śikṣā, must be attended to.**
 
 ---
 
@@ -12033,7 +12033,7 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 
 **Meaning:** among the six Angas, Grammar is spoken of as foremost. Since effort expended on the primary [Anga] is what truly bears fruit, one should first make the effort to study Grammar specifically. This is what "āgama" (scriptural authority) establishes as the reason for studying Grammar.
 
-**On "Laghu" (Brevity/Conciseness):** grammar teaches how to express a matter using the fewest possible words — a mark of skillful, economical expression, which is itself a genuine virtue in speech.
+**On "Laghu" (Ease):** Grammar is to be studied so that the Veda may be understood easily; the account of Brihaspati and Indra on the next page shows why.
 
 **On "Sandeha" (Doubt):** where genuine uncertainty arises regarding whether a word is being used correctly — for example, doubt about whether the intended sense is being properly conveyed by a given form — only knowledge of Grammar dispels such doubt and confirms the word's true, correct application.
 
@@ -12108,7 +12108,7 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 >
 > "**A word with a wrong accent or a wrong letter is used in vain since it does not convey the same meaning: it is a spoken thunderbolt that will destroy the sacrificer, as, for example, the word 'indraśatru' with the accent misplaced.**"
 
-*(The Sanskrit passage at the head of this page, not transcribed here, quotes "… bhadraiṣāṃ lakṣmīr nihitādhi vāci" with the reference (Ṛgveda Saṃhitā 10-70-2, as printed; the verse is 10-71-2) and "sudevo asi varuṇa …" (Ṛgveda Saṃhitā 8-69-12).)*
+*(The Sanskrit passage at the head of this page, not transcribed here, quotes "… bhadraiṣāṃ lakṣmīr nihitādhi vāci" with the reference (Ṛgveda Saṃhitā 10-20-2) and "sudevo asi varuṇa …" (Ṛgveda Saṃhitā 8-69-12).)*
 
 ---
 
@@ -12130,14 +12130,14 @@ Regarding this, **"इषे त्वा"** (*iṣe tvā*) and similar verses �
 
 ### Page 563
 
-Now let us critically examine the grammatical discussion that stands as the principal matter among the Veda's Angas. Grammar accepts and orders the roots (prakṛti), suffixes (pratyaya), word-forms, and their meaning-determinations in the appropriate contexts where they apply. As it was said before, this too has its basis in the **Aindravāyavagraha-brāhmaṇa**—
+Now the discussion of Grammar, the chief among the Vedāṅgas, is taken up. Grammar too is of use in determining the form of a word and its meaning, by showing the divisions such as root (prakṛti) and suffix (pratyaya). So it is said also in the **Aindravāyavagraha-brāhmaṇa**—
 
 > वाग्वै पराच्यव्याकृतावदत् एते देवा इन्द्रमब्रुवन् इमां नो वाचं व्याकुर्विति सोऽब्रवीद्वैषा मह्यं चैव वायवे च सह गृह्णाथा इति तस्मादिन्द्रवायू सहैव गृह्णाति तामिन्द्रो मध्यतोऽवक्रम्य व्याकरोत् तस्मादियं व्याकृता वागुद्यते ॥
 > *vāg vai parācy avyākṛtāvadat | ete devā indram abruvan imāṃ no vācaṃ vyākuruv iti | so'bravīd vaiṣā mahyaṃ caiva vāyave ca saha gṛhṇāthā iti | tasmād indra-vāyū sahaiva gṛhṇāti | tām indro madhyato'vakramya vyākarot | tasmād iyaṃ vyākṛtā vāg udyate ||* (Taittiriya Samhita 6-4-7-3; see page 558 above)
 
-**Meaning:** in the beginning, Speech spoke unclearly (avyākṛta — undivided), rendering it useless [for correctly conveying meaning]. Then the gods approached Indra, asking, "Divide this Speech of ours [into parts] for us." He agreed, saying, "Give this offering jointly to me and to Vayu." Because of this, [the offering] is given jointly to Indra and Vayu even now (this is called "Aindravāyava" — a specific offering-related Dharma tradition). Both deities accepted the offering. Then Indra took hold of Speech at her very middle and divided her methodically. That is why what we now recite is "vyākṛta vāk" — Speech that has been analyzed and divided into her proper constituent parts.
+**Meaning:** in the beginning, Speech spoke unclearly (avyākṛta — undivided). Then the gods approached Indra, asking, "Divide this Speech of ours [into parts] for us." He agreed, saying, "Give this offering jointly to me and to Vayu." Because of this, [the offering] is given jointly to Indra and Vayu even now (the Aindravāyava). The gods agreed. Then Indra took hold of Speech at her very middle and divided her methodically. That is why what we now recite is "vyākṛta vāk" — Speech that has been analyzed and divided into her proper constituent parts.
 
-**Grammar itself was, in ancient times, composed in the earliest period — vast in extent, like the ocean itself.** The roots, suffixes, words, and sentences were originally undivided (agrantha, unarranged into a systematic textual form). Then, out of desire for the fulfillment [of ritual duties], the gods approached Indra alone specifically, and by combining the powers of Vayu and Soma-Rasa-graha with him, established a fixed order — and thus, from that point on, this speech came to be arranged in a systematic, divided fashion, namely: words, roots, and suffixes, distinguished from one another. **Because of this, the wisest sages, from Pāṇini onward, arranged this speech (that is, established a grammatical treatise) in a fixed, methodical form — this is the understood significance here.**
+**In ancient times a text like "agnim īḷe purohitam" was an undivided sound, like the roar of the sea, without the divisions of root, suffix, word and sentence.** Then Indra, requested by the gods and pleased with the boon that he and Vayu might take the soma juice in one vessel, separated that undivided Speech in the middle and established the divisions such as root and suffix throughout. **So this Speech, analysed (vyākṛta) by Pāṇini and other great sages by the rules of grammar, is recited by all — this is the sense.**
 
 ---
 
@@ -12154,22 +12154,22 @@ Now let us critically examine the grammatical discussion that stands as the prin
 
 ### Page 564
 
-Regarding what specific purpose this Grammar serves, later scholars, in their own tradition, have stated—
+What the use of this Grammar is, Vararuchi has shown in his Vārtika—
 
 > **रक्षोहागमलाघवसंदेहाः प्रयोजनमिति ।**
 > *rakṣohāgamalāghavasandehāḥ prayojanam iti |* (Katyayana's Vartika; see page 559 above)
 
-"**Rakṣā** (protection), **ūha** (adaptation), **āgama** (scriptural priority), **lāghava** (brevity), and **sandeha**-removal — these are the purposes [of Grammar]." Vararuchi has clearly set out these five purposes in his own vārtika-treatise.
+"**Rakṣā** (protection), **ūha** (adaptation), **āgama** (scriptural priority), **lāghava** (brevity), and **sandeha**-removal — these are the purposes [of Grammar]." Patañjali has explained these purposes, and others, clearly in his Mahābhāṣya.
 
-**Rakṣā (Protection):** since Vedic mantras have come down through the ages, doubts arise concerning whether their forms have been corrupted, whether some deviation has crept into the words as transmitted. Precisely to remove such doubts and to protect the Veda's genuine form from corruption, Grammar is necessary. Without knowing Grammar, one cannot distinguish which letters, among those forming a word, are genuinely correct and which have been altered — nor determine, through Grammar's principles, the correct application of the mantras. Hence, without knowledge of Grammar, one cannot properly identify errors of accent, wrong letters, and similar deviations.
+**Rakṣā (Protection):** Grammar is to be studied in order to protect the Vedas, that is, to preserve the Vedic texts as they are, so that they are not altered by pronunciation and the like and no variant readings or losses arise. One who knows the changes of letters caused by loss, addition and the like will keep the Vedas intact, and such a grammarian can understand the Veda well.
 
-**Ūha (Adaptation):** the words found in the Vedic mantras — nouns, verbs, and similar forms — are not always used explicitly in their fully expanded application; often, the application must be inferred and understood [i.e., adapted to the specific ritual context]. This too requires proficiency in Grammar. Where the mantras must be modified [in case, number, gender] for ritual employment — this adaptation likewise cannot be accomplished without knowledge of Grammar.
+**Ūha (Adaptation):** In the Vedic mantras the genders, numbers, cases and the like are not used so strictly; and at the sacrifice the mantras have to be used with some change of number, case and the like to suit the occasion. One who does not know Grammar cannot make such changes. So that one may know which number and which case to supply on each occasion, Grammar must be studied.
 
-**Āgama (Scriptural Priority):** the Brahmin who desires knowledge must study and understand not only the Veda itself, but also the dharma expressed through its established, systematic form — this too the shastras declare. Among the six Angas of the Veda, Grammar holds the foremost place. Effort spent studying this principal Anga will prove fruitful. Therefore, Grammar should be studied.
+**Āgama (Scripture):** The scriptures say that a brahmin, without desiring any reward, must study the Veda with its six Angas, which is of the nature of dharma, and must understand its meaning. Among the six Vedāngas Grammar is the chief. Effort spent on studying this chief Anga is fruitful. Therefore Grammar must be studied.
 
-**Lāghava (Brevity):** to know the Veda with genuine ease, one must study Grammar. Once, when the sage Brihaspati desired to teach the science of words to Indra, he explained it word by word — an approach that even after a thousand celestial years, remained incomplete. Grammar's own systematic method (through its structured rules on roots, suffixes, and the like) accomplishes in a single stroke what such an exhaustive word-by-word approach never could.
+**Lāghava (Ease):** Grammar is to be studied so that the Veda may be understood easily. Once Brihaspati, the teacher of the gods, tried to teach Indra the science of words, and taught the peculiarities of the form and derivation of each word in the Veda for a thousand years by the divine reckoning; yet he did not reach the end. The teacher was Brihaspati, the learner Indra, and the time a thousand divine years; still it was not finished. Nowadays the longest life of a man is about a hundred years; how could he learn the science of words by taking each word in turn? Therefore Grammar must be studied so that the use of words may be learned easily and quickly.
 
-**Sandeha (Removal of Doubt):** even one who knows how to distinguish between correct and incorrect forms may occasionally have doubts about a particular word's status. If, at such a time, one lacks the ability to apply Grammar's rules, one cannot resolve the doubt.
+**Sandeha (Removal of Doubt):** When the right meaning of words is to be fixed, many doubts arise. Grammar must be studied to remove them.
 
 ---
 
@@ -12206,11 +12206,11 @@ Regarding what specific purpose this Grammar serves, later scholars, in their ow
 > स्थूलः पृषती ।
 > *sthūlaḥ pṛṣatī |*
 
-—(great and spotted — meaning a bull that is both great and spotted)? Or as a karmadhāraya compound meaning "the great-spotted-one"? Without knowledge of Grammar, this cannot be resolved. Only a grammarian, on the basis of the accent, can determine whether this is a bahuvrīhi or a karmadhāraya compound, and thereby settle the meaning correctly. Here, in this sentence, the accent falls on the compound's *first* member — establishing it definitively as a bahuvrīhi, meaning "one who possesses great spots," rather than "great and spotted" as a mere descriptive pairing. **This kind of doubt-resolution is Grammar's chief use.** Therefore, Grammar should be studied to remove such doubts.
+— (a karmadhāraya compound, "she who is both great and spotted")? Or as a bahuvrīhi compound, "she whose spots are great"? Without knowledge of Grammar, this cannot be resolved. Only a grammarian, on the basis of the accent, can determine whether this is a bahuvrīhi or a karmadhāraya compound, and thereby settle the meaning correctly. Here, in this sentence, the accent falls on the compound's *first* member — establishing it definitively as a bahuvrīhi, meaning "one who possesses great spots," rather than "great and spotted" as a mere descriptive pairing. In a karmadhāraya the two words are independent, with no relation of qualifier and qualified; in a bahuvrīhi the whole compound qualifies another, principal word ("she whose spots are great"); so the two analyses give different meanings. Therefore Grammar must be studied to remove such doubts.
 
-The sutras of these [purposes] are as follows: **rakṣā, śabdaḥ, uditvaṃ, iyaśca, prayukte, avidvāṃsa, vibhaktiṃ kurvanti, yo vā imāṃ, catvāri, uta tvaḥ, saktum iva, sāraśvatīṃ, dasamyaṃ putrasya, sudevoṣi varuṇeti** ||
+Besides these, Grammar has many further uses; they are stated in sūtra form and each is explained at length. These sūtras are: **rakṣā, śabdaḥ, uditvaṃ, iyaśca, prayukte, avidvāṃsa, vibhaktiṃ kurvanti, yo vā imāṃ, catvāri, uta tvaḥ, saktum iva, sāraśvatīṃ, dasamyaṃ putrasya, sudevoṣi varuṇeti** ||
 
-**Devāsurāḥ (Gods and Asuras):** it is said that in ancient times, gods and demons — belonging to the same lineage — became rivals for supremacy over the three worlds. Then, both sides ("devāḥ" and "asuraḥ")...
+**Te'surāḥ (The Asuras):** those demons, at one time (in battle), pronounced a wrong word and were therefore defeated. Instead of shouting the cry "he 'rayo he 'rayah" (O enemies!),
 
 ---
 
@@ -12221,14 +12221,14 @@ The sutras of these [purposes] are as follows: **rakṣā, śabdaḥ, uditvaṃ,
 
 ### Page 566
 
-(In place of the letter "l" [in certain dialectal pronunciations, sounds shift]) — using "r" in place of "l" pronounces "layaḥ" as "rayaḥ" ("layaḥ" = destruction; "rayaḥ" = wealth) — and speaking this way, if "layaḥ" (destruction) is [mistakenly] spoken as "layaḥ" (with a corrupted, garbled sound), it becomes offensive to a brahmin's ears. That is why one should avoid speaking corrupted speech (mleccha-speech). And that "corrupted speech" (apaśabda) itself is precisely what must not be uttered — a corrupted word must be studiously avoided; Grammar should therefore be studied specifically to avoid such corrupted speech.
+they pronounced l in place of r and said "helayo helayah" (layah = destruction); so they met with laya, that is, destruction and defeat. Therefore a brahmin must not become a mleccha, that is, he must not speak a corrupt word as the mlecchas do; a corrupt word is itself mleccha. Grammar should be studied so as not to utter such corrupt words.
 
 **"Duṣṭaḥ Śabdaḥ"** (The Corrupted Word) — this term has already been discussed above (see page 552 [the indraśatru account]). It occurs in the Pāṇinīya Śikṣā as follows:
 
 > दुष्टः शब्दः स्वरतो वर्णतो वा मिथ्याप्रयुक्तो न तमर्थमाह । स वाग्वज्रो यजमानं हिनस्ति यथेन्द्रशत्रुः स्वरतोऽपराधात् ॥
 > *duṣṭaḥ śabdaḥ svarato varṇato vā mithyā-prayukto na tam artham āha | sa vāg-vajro yajamānaṃ hinasti yathendraśatruḥ svarato'parādhāt ||* (Pāṇinīya Śikṣā 52)
 
-Whether wrong in accent or wrong in letter — a word used incorrectly does not convey its intended meaning at all. Whether the fault lies in accent or arises through incorrect meaning, this indicates a corrupted word. This shows the meaning being conveyed as fault-bearing. Because of this defective usage, [the mantra] harms the sacrificer, just as we've seen, in a similar manner, with the "indraśatru" example — [it] causes the yajamāna to be struck down. From this discussion, we've seen the various flaws that can arise. Therefore, to avoid producing a corrupted word, one must study Grammar.
+If in a word the accent or a letter is lost or changed, it is a corrupted word (duṣṭa śabda). Such a use of a word does not convey the intended meaning but speaks a wrong one. Therefore the use of a corrupted word brings harm to the sacrificer, as a thunderbolt strikes an enemy. The word "indraśatru" used with a changed accent is the example. Therefore, to avoid such faults, that is, to avoid using a corrupted word, Grammar should be studied.
 
 **"Yad Adhītam"** (What Has Been Studied) — from the Nirukta (1-6-1), stated thus—
 
@@ -12237,7 +12237,7 @@ Whether wrong in accent or wrong in letter — a word used incorrectly does not 
 
 **Meaning:** whatever is studied by rote alone, without understanding, and merely recited mechanically, without genuine comprehension of the Veda's meaning — it will never blaze up, like dry fuel thrown where there is no fire, never bursting into flame. Therefore, one should study Grammar specifically in order to understand the Veda's meaning correctly.
 
-**"Yas tu Prayuṅkte"** (He Who Rightly Applies It) — [regarding] the use of words, and the skill applied in a given context; how one should properly apply each — this is what one must know. On this matter, the authors of the Kaśikā and similar grammatical treatises say—
+**"Yas tu Prayuṅkte"** (He Who Rightly Applies It) — Grammar is to be studied in order to know how words are to be used on each occasion. On this the sage Katyayana says—
 
 > यस्तु प्रयुङ्क्ते कुशलो विशेषे शब्दान्यथावद्व्यवहारकाले ।
 > *yas tu prayuṅkte kuśalo viśeṣe śabdān yathāvad vyavahāra-kāle |* (see page 564 above)
@@ -12254,11 +12254,11 @@ Whether wrong in accent or wrong in letter — a word used incorrectly does not 
 > सोऽकनन्तेमाप्रोत्येति जयं परत्रे वाग्योगविद्दुष्यति चापशब्दैः ॥
 > *so'kanantemāprotyeti jayaṃ paratre vāg-yoga-vid duṣyati cāpaśabdaiḥ ||* (Kashika/grammatical tradition, on the value of correct usage)
 
-**Meaning:** one who has skillfully mastered the proper use of speech, applying it correctly according to worldly needs, attains victory in the beyond as well. But one who is ignorant of the proper joining and application of speech is contaminated by corrupted forms (apaśabda).
+**Meaning:** the wise man who, in the performance of rites as in worldly dealings, uses faultless good words as the occasion requires, gains fame in this world and endless victory (the best state) in the next world. But one who knows the right use of words, if he uses corrupt words, will not escape harm.
 
-**Here it must be understood what constitutes the "fault" of a corrupted word's use.** Concerning this: is the use of a corrupted word — that is, an improper word — itself a fault? Or does merely knowing that a word is corrupted, without actually using it, also become fault? Precisely because of this discussion, using a corrupted word is a true dharma-violation. In that sense, whether from mere knowledge of a corrupted word or from actually using it, an adharma (or, indeed, a sin) results. Ordinarily, corrupted forms are far more numerous than correct forms. Corrupted forms exist in great abundance. **For example — "gauḥ" (cow) — and its many corrupt variations, such as "gāvī," "goṇī," "gopotalikā," and similar, are widely known.**
+**Who is harmed here? The one who knows the right use of words.** Why is harm done to one who knows? Because such a man can tell a good word from a bad one; if, with that knowledge, he still uses a corrupt word, what is it but harm? From good use of words dharma arises; in the same way from the use of corrupt words adharma, that is, sin, arises. Or: if, though he knows, he uses a corrupt word, a greater sin comes to him. Ordinarily good words (correct words that are not corrupt) are very few; corrupt words are the more numerous. Every word has many corrupt forms. For example the word "gauḥ" (cow) has many corrupt forms in common use, such as "gāvī," "goṇī," "gopotalikā."
 
-Once, a certain man, from lack of grammatical knowledge, is said to have used a corrupted form without even knowing it was corrupted. If asked, can he escape blame simply because he acted out of ignorance rather than deliberate intent? — even so, ignorance is customarily excused as a defense. Whether or not a brahmin knew, if he committed some transgression, or created some fault through incorrect performance, does he not still bear consequences for it? Similarly, even one who commits a mistaken utterance without knowing it — precisely because he lacks the knowledge to know that his usage is corrupt — such a person does not incur the fault of adharma. **This shows why "avidvāṃsaha" (ignorance) is discussed** — merely knowing many words and their applications, without also knowing dharma, still leaves one properly usable in speech.
+Someone may say that he used corrupt words from ignorance, that is, without knowing, because he had no knowledge of grammar. But to plead ignorance in this way is wrong, and it must not be done. If a man, without knowing it, kills a brahmin or drinks wine, does he not become an outcast even though he did it from ignorance? So, whether done knowingly or from ignorance, bad deeds do not escape punishment. In the same way, one who does not know the use of words and, in his ignorance, uses corrupt words does not escape adharma. And the one who knows the use of words and, by the strength of his knowledge, uses good words will surely gain dharma; since he has the knowledge, he should use good words only.
 
 **Jaimini and other Mīmāṃsakas insist one must know what constitutes dharma, and equally know what constitutes adharma** — precisely for this purpose. Both must be known: to perform dharma, and to avoid adharma. Even here [in the Śikṣā's own account], "śabda" (correct word) and "aśabda" (incorrect word)...
 
@@ -12285,14 +12285,14 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 
 "**But the unlearned, who do not know that, in responding to a salutation, they should protract the vowel — in approaching them, he should simply say, as he would to a woman, 'Here am I.'**"
 
-**Meaning:** in this verse (which appears in the first chapter, describing the ordinary applications typically found), it is said that when responding to a salutation, one's own [family or personal] name should be pronounced with a lengthened vowel [as a mark of grammatical propriety]. Those unlearned people who do not know this rule instead pronounce it in an ordinary manner, as one would when addressing a woman [informally]. This is spoken of here as an example of erroneous practice. In this way, in a person's daily life as well, such improper practices are known to occur. This shows that even after studying and gaining scholarly proficiency, without also thoroughly mastering Grammar, one cannot avoid this kind of fault in ordinary word-usage. Since even scholars versed in the shastras are exposed to this risk, Grammar's importance is beyond dispute; without knowledge of Grammar, no genuine honour attaches [to one's learning]. **Therefore, Grammar should be studied.**
+**Meaning:** as said in this verse, when a young student (vaṭu) salutes, he states his pravara (the names of the chief sages of his gotra) and salutes with "I, sir, salute you". The one saluted blesses the student by saying "Long life to you, Devadatta, may you prosper", pronouncing the last syllable of the student's name with a pluta of three mātrās. When he salutes an unlearned man who does not know how to bless with the pluta, the one who has gone away and returned must salute without reciting the pravara and the rest, simply saying "I salute", as he would salute women. Since such is the rule, to receive salutations in a learned assembly and the like one must be learned through the study of Grammar and the other sciences; an unlearned man receives no such honour. Therefore, to win honour, Grammar should be studied.
 
-**"Vibhaktiṃ Kurvanti"** (They Perform the Division) — the priests who properly know the words to be recited (that is, the principal words belonging to the yajna, and the words belonging to that portion) must be studied for their correct application. Without knowledge of Grammar, this precept cannot be properly complied with. For this reason too, Grammar should be studied.
+**"Vibhaktiṃ Kurvanti"** (They Adapt the Case-endings) — those who know the order of performing the sacrifice say that the prayājas must be made "with case-endings", that is, in reciting the prayāja mantras (the prayājas are the principal offering-mantras of the sacrifice) the case-endings must be adapted to the occasion so that the meaning fits. Without a knowledge of Grammar one cannot recite the prayāja mantras with the right case-endings. Therefore Grammar should be studied.
 
 > प्रयाजाः सविभक्तिकाः कार्त्स्न्या इति —
 > *prayājāḥ savibhaktikāḥ kārtsnyā iti* — "The priests recite the text 'prayajah savibhaktikah karyah.' But without Grammar this precept cannot be complied with. Let us study Grammar then for this reason."
 
-**"Yo Vā Imām"** (He Who [Analyses] This [Speech]) — this well-known text of the Rig Veda declares that whoever fully knows word, accent, and letter — one must know these matters, distinguishing each accent, each letter, in due order—
+**"Yo Vā Imām"** (He Who [Analyses] This [Speech]) — the man who is able to divide the Vedic sentences word by word, and the accents and letters at the pauses according to the rules of svara-sandhi—
 
 ---
 
@@ -12313,7 +12313,7 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 
 ...according to the rules — only such a person is fit to be a priest. One who cannot properly divide sentences, syllables, or word-portions; who cannot distinguish accent-differences, letter-differences, or the boundaries within a compound; who cannot properly identify [ritually] related words — such a person is unfit to serve as priest in yajna and similar rites. **Therefore, only one who is thoroughly versed in Grammar is fit for priesthood.**
 
-**Here, to illustrate the analysis of words and accented letters, the Nirukta gives the following example**—
+**Here, to illustrate the analysis of words and accented letters, we give the following example from the Rigveda**—
 
 > वायवा याहि दर्शतेमे सोमा अरंकृताः । तेषां पाहि श्रुधी हवम् ॥
 > *vāyav ā yāhi darśateme somā araṃkṛtāḥ | teṣāṃ pāhi śrudhī havam ||* (Ṛgveda Saṃhitā 1-2-1)
@@ -12322,7 +12322,7 @@ Once, a certain man, from lack of grammatical knowledge, is said to have used a 
 
 ### "Catvāri" (Four)
 
-**This particular topic is important** — regarding it, the explanation of this ṛk has been given earlier (see page 401)—
+**This particular topic is important** — regarding it, the explanation of this ṛk has been given earlier (see page 40)—
 
 > चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्यां आ विवेश ॥
 > *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṃ ā viveśa ||* (Rigveda Samhita 4-58-3)
@@ -12344,7 +12344,7 @@ Since this mantra holds a hidden meaning, many commentators have construed it in
 
 ### Page 570
 
-Ancient scholars have explained this mantra's meaning in various ways, according to whichever deity is taken as primary in the intended sense; even in our own tradition, this mantra has been interpreted in several distinct ways. **Grammatically, they explain the meaning as follows** —
+Following the view of the Nirukta-authors, Agni, in the form of the sacrifice, is the chief deity; and since the sun, like Agni, is luminous, this mantra is said to speak of both, and Sayana has explained the meaning in his commentary accordingly. Those who know Grammar say that this mantra refers to the Word-Brahman (shabda-brahman). In the same way many others explain it in many ways. **The following is the way the grammarians explain the meaning** —
 
 > चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य । त्रिधा बद्धो वृषभो रोरवीति महो देवो मर्त्यां आ विवेश ॥
 > *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyāṃ ā viveśa ||* (Rigveda Samhita 4-58-3; see page 569 above)
@@ -12353,7 +12353,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **Catvāri Śṛṅgā** (Four Horns) — from the standpoint of Grammar: noun (nāma), verb (ākhyāta), preposition (upasarga), and particle (nipāta) — these are the four kinds of word-categories.
 
-**Trayo Asya Pādāḥ** (Its Three Feet) — past (bhūta), present (bhavat), and future (vartamāna) — these are the three time-divisions.
+**Trayo Asya Pādāḥ** (Its Three Feet) — past (bhūta), future (bhaviṣyat), and present (vartamāna) — these are the three time-divisions.
 
 **Dve Śīrṣe** (Two Heads) — nominal endings (subanta-padas) and verbal endings (tiṅanta-padas) — these two types of word-terminations.
 
@@ -12365,11 +12365,11 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **Roravīti** (It Roars Mightily) — from the root "ru," meaning to make a sound (śabda-karma) — hence its use here.
 
-**Mahoo Devaḥ** (The Great God) — the great deity, referring to the science of grammar (vyākaraṇa) itself.
+**Mahoo Devaḥ** (The Great God) — the great god, that is, the Word-Brahman (shabda-brahman).
 
 **Martyān** (Into Mortals).
 
-**Ā Viveśa** (Has Entered) — meaning: has entered into, taken possession of. That great deity — namely Grammar itself — has entered into mortal beings [i.e., speakers] and dwells within them.
+**Ā Viveśa** (Has Entered) — meaning: has entered into, taken possession of. That is, Grammar should be studied so that we may attain union (identity) with that great god.
 
 ---
 
@@ -12389,17 +12389,17 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **"Manīṣiṇaḥ"** means "manasā īśinaḥ" (those who are masters through the mind). "**Guhā**" is a Vedic form for "guhāyam" (in the secret place), as is also "**nihitā**" for "nihitāni" (placed/deposited). "**Turīyaṃ vāco manuṣya vadanti**" — that is, it is the fourth part of speech only that is current among men.
 
-**This particular verse too has been explained in various ways by many scholars — differing interpretations arise from the differing systems each scholar follows.** In deciding its precise meaning, various learned authorities have explained the matter in different ways—
+**This verse too has been explained in many ways by many commentators. In the Nirukta-pariśiṣṭa, in expounding this mantra, it is said that many scholars have explained the four divisions of speech in various ways—**
 
-**Om-kāra** (the syllable Om, the "praṇava") **is the great, non-decaying, imperishable [primal sound]. Nāma** (name) is called "bhūḥ, bhuvaḥ, svaḥ" — the vyāhṛti-forms, said to number four. **Nāma** (noun), **ākhyāta** (verb), **upasarga** (preposition), **nipāta** (particle) — these are the four kinds of speech, according to Vyākaraṇa's own account.
+**The four classes of speech are, according to the seers (ṛṣis), the syllable Om together with the three vyāhṛtis "bhūḥ," "bhuvaḥ," "svaḥ"; according to the grammarians, noun (nāma), verb (ākhyāta), preposition (upasarga) and particle (nipāta);**
 
-**Mantra, kalpa, vyākaraṇa, lokakṣaṇa-vyāhāra** — the [four-part] division as understood by ordinary human beings is one view. **Ṛgveda, Yajurveda, Sāmaveda, and Vyāvahārika-bhāṣā** (practical/ordinary speech) — this is another classification. **Sparśa, sparśī, kramīkṛta** and the "**vyāvahārikī**" (practical) speech — such is another accepted account.
+**according to the performers of sacrifice (yājñikas), mantra, kalpa, grammar and the language people use in worldly dealings; according to the Nirukta-authors, the Ṛgveda, the Yajurveda, the Sāmaveda and the language of worldly dealings; according to some (those who study the elements of nature), the speech of serpents, of birds and of small creeping creatures, together with the language of worldly dealings; and according to the upholders of the Self (ātma-pravādins), the speech found in cattle, in birds, in beasts and in man.**
 
-**Paśyantī, madhyamā, and vaikharī** — [along with a fourth] — these terms are used by some scholars to explain the fourfold division.
+**In this way many have explained it in many ways.**
 
-**In this way, the ancients have set forth many kinds of interpretation** — brahmins, wise in mind, know all these fourfold divisions. Of these four, three remain hidden and unmoving in their secret place; it is only the fourth portion of speech that ordinary humans commonly utter — this much is the accepted meaning, held by many across different systems.
+**The main sense is this:** words are divided into four kinds, and all of them are known to intelligent brahmins. Of these four groups of words, three lie hidden in the cave and do not move, that is, being concealed they are not perceived by anyone; the fourth division, the web of words, is in use among men, and this men call speech. Here "manīṣiṇaḥ" means those who are able to understand by deliberating well in the mind, that is, the intelligent.
 
-**The meaning of the word "muktārtha"** [liberated/complete sense] is that speech has four distinct kinds. Grasping this well, brahmins who genuinely know [this doctrine] understand: among these four kinds of speech-categories, in three of them exist countless forms — but in only one does the ordinary usage practiced by human beings actually occur. That which remains, unspoken and unmoving in most cases, is what most people are unaware even exists. Here, the terms "manīṣiṇaḥ" and "brāhmaṇāḥ" are used interchangeably, discussed together, and their meaning...
+In the Veda, when speaking of a thing kept secret from everyone, it is usual to say that it lies hidden in a cave.
 
 ---
 
@@ -12414,7 +12414,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 ### Page 572
 
-...as spoken of here. "**Guhā**" means "guhāyām" (in the hidden place); "**guha**" carries the sense of [something] concealed. In this context, the essence of things not yet understood is spoken of as hidden within the Veda. "**Turīyaṃ**" means the well-known form, that which has come down through generations, [the portion that] is well-established. Some scholars, [regarding the three hidden portions,] hold that what is inaccessible remains genuinely secret, while what is well-known and commonly used is understood as the accepted meaning.
+Here "**Guhā**" means "guhāyām" (in the cave). Things in a cave are not seen by ordinary people, so it has become usual to say, in speaking of what is secret, that it is in the cave. The fourth part of speech ("turīya") is the part that is current among men.
 
 ### "Uta Tvaḥ" (Moreover, One)
 
@@ -12430,7 +12430,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 > सख्यम् इव तमुलूना पुरुषेभ्यो रयस्ते धीरा मनसा नाचमक्रत । अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ॥
 > *sakhyam iva tam ulūnā puruṣebhyo rayas te dhīrā manasā nācam akrata | atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci ||* (Rigveda Samhita 10-71-2)
 
-**This mantra**, according to the scholarly tradition, is explained differently depending on which of the four categories mentioned in the preceding verse is taken as its subject; and even within our own [Taittiriya-Shakha] tradition, the wise (those who have thoroughly mastered Grammar) understand this mantra by first grasping its true intent through the mind, before articulating it in speech...
+**This mantra** has been explained by Yaska in the ninth section of the fourth chapter of his Nirukta. As grain (flour) is sifted by winnowing in a winnowing basket, the wise (those who know Grammar) sift speech with the mind (they consider well the nature of words and the like and then speak). By doing so they cultivate friendship with speech (they use good words and speak well). In the words they speak a blessing endowed with right marks resides (their words are well-formed and auspicious)...
 
 ---
 
@@ -12448,7 +12448,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 ### Page 573
 
-...explaining this fully; thus have the wise elaborated it. Just as [in the analogy given], while looking at her, they know her [that is, understand her true meaning]; from this act of looking arises genuine understanding. This is spoken of as revealed only to those who possess this quality (that is, those able to properly perceive the meaning through Grammar's own light).
+A man who sees yet does not see, and hears yet does not hear: though he sees with the eye and hears with the ear, he has no knowledge of the meaning of words, so nothing is understood by him; he only pronounces the words, without knowing their meaning. This is said of the man who is not learned. About the learned man the next part says: as a wife, wearing fair garments and adorned with every ornament, comes to her husband out of desire, and the husband looks at her with great regard and speaks to her lovingly, so the Vedas (or words) offer their body, that is, reveal their hidden meaning, to the man learned in the sciences; the learned man can well understand the nature of words and their special meaning. We have already explained the meaning of this Rik at length (see page 528). Therefore Grammar must be studied.
 
 **"'As a loving wife shows herself in fair garments to her husband.' As a wife full of love for her husband puts on her fair attire and shows herself to him, so Speech reveals herself to the wise. Let us study Grammar that Speech may reveal herself to us."**
 
@@ -12461,14 +12461,14 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 **"The word 'saktu' here [is] derived from 'sacati': it means 'hard to purify.' Or we may take it from 'kasati,' become by transposition 'sakati.' In that case it would mean**..."
 
-**Meaning:** the word "saktu" (ground grain/meal) here — its derivation according to Grammar can be traced through the verbal root "√sac" (to associate/adhere), yielding the sense of "that which is difficult to purify [thoroughly]." Alternatively, deriving it through metathesis (letter-transposition) from the root "√kas" (to move/shine), it may instead convey the sense of "capability" (śakti). This shows how the very meaning of a single word — its etymological source, and hence its true sense — depends entirely on grammatical analysis.
+**Meaning:** the word "saktu" (ground grain/meal) here — its derivation according to Grammar can be traced through the verbal root "√sac" (to associate/adhere), yielding the sense of "that which is difficult to purify [thoroughly]." Alternatively, deriving it through transposition from the root "√kas", it may convey the sense "opened out, blossomed". This shows how the very meaning of a single word — its etymological source, and hence its true sense — depends entirely on grammatical analysis.
 
-**This mantra**, whether taken as expressing the science of speech (vāk-śāstra), or as describing the structure of grammar (vāk-svarūpa) itself, is a difficult one, requiring the discipline called "grammar" (śabda-śāstra) to properly navigate its path. **Who, then, is capable of understanding it? Only the authorities on Grammar (vyākaraṇa-śāstra) themselves.**
+**This mantra** raises the question: what is that road, so hard to travel, to union with speech, that is, to the true nature of speech? It is the path that concerns speech, the science of words (shabda-shastra). **Who knows it? The authorities on Grammar (vyākaraṇa-śāstra).** Why? Because in the speech of the grammarians the words are well-marked.
 
 > भद्रैषां लक्ष्मीर्निहिताधि वाचि — इषां वाचि भद्रा लक्ष्मीर्निहिता भवति ।
 > *bhadraiṣāṃ lakṣmīr nihitādhi vāci* — *iṣāṃ vāci bhadrā lakṣmīr nihitā bhavati |*
 
-"**A gracious fortune is upon their words.**" — meaning: an auspicious splendor resides upon the speech [of those wise ones]. Since [precisely] the grammatical treatises (vyākaraṇa-śāstra) demonstrate that meaning-bearing forms are present within such words, an auspicious lustre indeed rests upon them.
+"**A gracious fortune is upon their words.**" — that is, since the words in the speech of the grammarians are well-marked (endowed with the right marks), the auspicious Lakshmi dwells in their speech.
 
 ---
 
@@ -12529,7 +12529,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 "**Thou art a glorious god, Varuna, thou along whose throat the seven streams flow as through a hollow pillar.**"
 
-**Meaning:** here, "the seven streams" refer to the seven grammatical cases (vibhakti). "**Kākut**" means the tongue. "**Kākuda**," the place where the tongue resides, therefore refers to the palate. "**Ūrmi**" or "**sūrmi**" [here rendered in the mantra as "sruti"] is a stout, hollow pillar made of iron [used as a metaphor for the throat/vocal passage through which speech, in its sevenfold grammatical case-forms, flows].
+**Meaning:** here, "the seven streams" refer to the seven grammatical cases (vibhakti). "**Kākut**" means the tongue. "**Kākuda**," the place where the tongue resides, therefore refers to the palate. "**Ūrmi**" or "**sūrmi**" is a stout, hollow pillar made of iron [used as a metaphor for the throat/vocal passage through which speech, in its sevenfold grammatical case-forms, flows].
 
 **In this same way, the uses of Grammar given in the Vārtika are to be added here as well** — "**siddhe śabdārtha-sambandhe**..." [and so on, as previously discussed].
 
@@ -12568,7 +12568,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 *ādyaṃ naighaṇṭukaṃ kāṇḍaṃ dvitīyaṃ naigamaṃ tathā | tṛtīyaṃ daivataṃ ceti samāmnāyas tridhā sthitaḥ || gaurādyeṣāraḍ vyaktam ādyaṃ naighaṇṭukaṃ mataṃ | jahādyaṃ vyavasānāntaṃ naigamaṃ saṃprakīrtitam || agnyādi devatā-śabdaṃ devatā-kāṇḍam ucyate | agnyādi devi ūrjahatuḥ akhilaṃ kṣiti-devatāḥ ||*
 
-**"The [portion of the] first-named divisions of words, syllables, and analysis fall into groups... where, in this connection, [the terms] 'gūḍha' [hidden] and 'prasiddha' [well-known] arise; from Śākaṭāyana's own teaching, ten such analyses (nirukta) are in common use — from these, the usage-based tradition."**
+**"Nighaṇṭu is a well-established name for a book in which groups of synonymous words are chiefly taught; such are the ten Nighaṇṭus (Amarasiṃha, Vaijayantī, Halāyudha and the rest) of common usage."**
 
 **This Nirukta is divided into three chapters, as is shown in the commentary on the Anukramaṇikā.**
 
@@ -12588,7 +12588,7 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 >
 > "First the Naighantuka chapter, second nigama, third the Daivata, thus is the Samamnaya divided into three parts.
 >
-> "The Naighantuka is considered to be the part beginning with 'gauh' and ending 'apage': the part beginning with 'jaha' and ending with 'ulbam ribisam,' they declare to be the Naigama.
+> "The Naighantuka is considered to be the part beginning with 'gauh' and ending 'apare': the part beginning with 'jaha' and ending with 'ulbam ribisam,' they declare to be the Naigama.
 >
 > "The part beginning with 'Agni,' and ending with 'Devapatnyah' is called the Devata chapter. From Agni to urjahati is the host of gods that are on the Earth.
 
@@ -12609,9 +12609,9 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 > प्रथमाध्याये भूम्यादि-लोकानाम् आकाश-कालयोश्च नामानि । द्वितीये पुरुषादीनां तदङ्गानां च संज्ञाः स्युः । तृतीये तूभयोरपि साधारणा बहुत्वाल्पत्वादि-गुणवाचकाः शब्दāḥ ||
 > *prathamādhyāye bhūmyādi-lokānām ākāśa-kālayoś ca nāmāni | dvitīye puruṣādīnāṃ tad-aṅgānāṃ ca saṃjñāḥ syuḥ | tṛtīye tūbhayor api sādhāraṇā bahutvālpatvādi-guṇa-vācakāḥ śabdāḥ ||*
 
-**Even the very authorship of this book (Nighaṇṭu) is not settled with certainty among scholars.** Regarding its origin, some hold varying views — but its own arrangement, its chapter-and-verse organization, and its authoritative status regarding synonym-lists are firmly established, notwithstanding disagreements about its precise authorship. **There is no dispute regarding all this.** Its content bears directly on the science of etymology (Nirukta) and its practical application, being useful for that purpose (page 576 discussion, above).
 
-**Therefore, this concludes the summary of the Devata-Anga's Nirukta discussion.**
+
+
 
 
 *(The Sanskrit passage on this page, not transcribed here, cites Nirukta 1-4, Aitareya Āraṇyaka 2-4-3, Taittirīya Brāhmaṇa 1-1-3-7 and Nirukta 1-15.)*
@@ -12632,9 +12632,9 @@ Ancient scholars have explained this mantra's meaning in various ways, according
 
 ### Page 578
 
-Continuing the extensive discussion on the science of etymology (Nirukta) and its practical application, the current explanation now also touches on grammar's own connection to it. There is no separate helpful resource for this beyond the treatise itself, so the author gives the relevant details directly. Since establishing this particular subject matter requires knowledge that only Grammar can supply, its inclusion here is entirely appropriate.
+So far the necessity of Grammar for understanding the Veda has been explained at length; now the use that is gained from the Nirukta is explained. A work that explains the meaning of words so that the sense is had without the help of another is called Nirukta (nir + ukta): the meaning that arises from a word does not depend on another word. Thus this Nirukta begins with the words "Gauh, gma, jma, kshma, ksha, kshama" and ends with "vasavah, vajinah, devapatnyah, devapatnyah"; for understanding the meaning of words in it no other help (parāpekṣā) is needed, because it is stated clearly in each place that so many words are names of the earth and so many are names of gold. This Nirukta is divided into three kāṇḍas, as is shown in the Anukramaṇikā-bhāṣya—
 
-**On this point, the verses at the start of the Nirukta's own commentary state**—
+**On this point the Anukramaṇikā-bhāṣya says**—
 
 > आद्यं नैघण्टुकं काण्डं द्वितीयं नैगमं तथा । तृतीयं दैवतं चेति समाम्नायस्त्रिधा स्थितः ॥
 > गौरादि पापूरणपर्यन्तमाद्यं नैघण्टुकं मतम् । जहादि व्यवसानान्तं नैगमं संप्रचक्षते ॥
@@ -12650,7 +12650,7 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 >
 > "The first section (kāṇḍa) is Naighaṇṭuka, the second is likewise Naigama, and the third Daivata — thus the Samāmnāya stands in three parts. From 'gauḥ' up to 'pāpūraṇa' is held to be the first, Naighaṇṭuka; from 'jahā' to 'vyavasāna' is proclaimed as Naigama. From 'agni' up to 'devapatnī' is called the Devatā-kāṇḍa; from Agni's own [group] up to Ūrjāhuti is the host of deities dwelling on Earth. From Vāyu onward, ending with Bhaga, are the deities dwelling in the mid-region (antarikṣa); from Sūrya onward, ending with the Devapatnīs, are the deities dwelling in heaven (dyuloka). Thus, from 'gaṇa' onward, ending with 'devapatnī,' the Samāmnāya is studied."
 
-**Meaning:** in this way, this Nirukta-treatise has five sections — that is, three kāṇḍas (Naighaṇṭuka, Naigama, Daivata), further subdivided into the earth-region, the mid-region, and the heaven-region within the Daivata portion itself. The word "**nigama**" means Veda. **For Yaska, when citing a Vedic text, constantly uses the formula, "And there is a nigama with regard to this."** Because the second chapter, which is the fourth adhyāya, deals with words that, for the most part, occur in the Veda, it is therefore called Nigama.
+**Meaning:** this Nirukta has three kāṇḍas: the first, Naighaṇṭuka, the second, Naigama, the third, Daivata. In the Daivata kāṇḍa the words from "Agni" to "Ūrjāhuti" denote the host of deities on earth, from Vāyu to Bhaga the deities of the mid-region, and from Sūrya to the Devapatnīs the deities of heaven. The word "**nigama**" means Veda. **For Yaska, when citing a Vedic text, constantly uses the formula, "And there is a nigama with regard to this."** Because the second chapter, which is the fourth adhyāya, deals with words that, for the most part, occur in the Veda, it is therefore called Nigama.
 
 **The reason why the third chapter, which is the fifth adhyāya, is called Daivata is plain.**
 
@@ -12689,15 +12689,15 @@ Continuing the extensive discussion on the science of etymology (Nirukta) and it
 > दुर्मदासो न सुरायाम् ।
 > *durmadāso na surāyāṃ |*
 
-**Meaning:** the etymological ("Vaikārthavāchi") sense, wherever a single word denotes a whole class of meaning through one root's own natural sense, is regarded as one such usage encoded in this treatise — this is what "nipāta" (particle) refers to. Among particles, there is also a subdivision into those used in the sense of comparison and those used otherwise. This treatise, in its own opening chapters, discusses different applications of the word "artha" and their fourfold classification, and also treats "aupacārikatva" (figurative usage) or "nipāta" (untranslatable particles).
+**Meaning:** the particles are used in various, even mutually opposed, meanings, and so this group of words has come to be called "nipāta". For example, the word "na"...
 
-**In the beginning chapters, various types are discussed: root-analysis, letter-derivation, day, night, and time-related words, along with words carrying meanings of substance.** In the middle chapters, useful discussions of household-related words, actions, and their derivation appear. In the final chapters, virtues and defects belonging to the qualities discussed in earlier chapters are treated more fully.
 
-**The Nigama section of the Veda deals with well-known, non-obscure sentences drawn from various parts of the Veda**, and clarifies their exact meaning; scholars refer to this specifically as forming the "Nigama-kāṇḍa." In this section, ordinary Vedic sentences are cited and their meanings clearly resolved, distinguishing this section as belonging to the "Nigama" division.
 
-**In the third section — the fifth adhyāya — the deities discussed are called "Devatā."** This is why it is termed the "Devatā-kāṇḍa."
+**"Nigama" means the Veda, because Yaska calls the sentences he cites here and there from the Vedas "nigama" sentences.** In the second kāṇḍa, the fourth chapter, words that are for the most part found in the Veda are explained; so this kāṇḍa has come to be called Naigama.
 
-**These three sections make up the full text.** Since this treatise gives the derivations of unusual (obscure) words found scattered throughout the Veda, the text is called "Nirukta." Yaska defines these obscure words as belonging to the categories: noun (nāma), verb (ākhyāta), preposition (upasarga), and particle (nipāta); and states that particles convey various meanings depending on context. Having analyzed the term "nipāta" this way, he gives an example. **"Na" ordinarily means only prohibition in common speech; but in the Veda, it carries both senses — prohibition and comparison.** In the text—
+**In the third kāṇḍa, the fifth chapter, mostly the names of the deities are given; so this kāṇḍa is called the Daivata kāṇḍa.**
+
+**The book of three kāṇḍas in five chapters is called Nirukta because in it the meanings of words are given without dependence on any other (parāpekṣā).** Yaska composed a commentary on this work in twelve chapters in all. This commentary too is called Nirukta; because in it the meanings of the parts of each word are stated without remainder, the name suits it by derivation. In that work, after stating that there are four kinds of words, noun (nāma), verb (ākhyāta), preposition (upasarga) and particle (nipāta), he says that the particles are used in various meanings, and so the group is called nipāta. For example, **"na" ordinarily means only prohibition in common speech; but in the Veda it carries both senses — prohibition and comparison.** In the text—
 
 > नेन्द्रं देवममंसत ।
 > *nendraṃ devam amaṃsata |*

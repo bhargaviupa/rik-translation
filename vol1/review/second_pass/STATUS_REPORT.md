@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 549 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549)
-- **Findings:** 1485 — applied 1259, questions 226; edits ok 1264, failed 0
-- **Reader tokens (batches so far):** 5420k; per page 9.9k
-- **Last commit:** 65937c2
+- **Pages read:** 579 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579)
+- **Findings:** 1579 — applied 1345, questions 234; edits ok 1350, failed 0
+- **Reader tokens (batches so far):** 5420k; per page 9.4k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -30,23 +30,24 @@
 | 17 | 460–489 | 18 | 18 | 18 / 0 | 0 | 249k | 818ab07 | 18 edits (6 S13 names, 5 S14 incl. Babara/Kusurubinda roles reversed on p. 468, 5 S16, 2 S1); Sanskrit out of scope (no sp_sanskrit, no conversion); p. 473 text sits inside the p. 472 block (matches English Page 473) |
 | 18 | 490–519 | 16 | 13 | 13 / 0 | 3 | 306k | b0ac4c0 | 13 edits (p. 490, p. 519 read first by a reader that took the range for two pages; pp. 491–518 re-read in full by a second reader; 12 edits there: S14 reversed senses on pp. 495, 503, 516, S13, S1 sūtra numbers, an invented reference removed on p. 505); English opens p. 499 with the end of p. 498's explanation |
 | 19 | 520–549 | 32 | 25 | 25 / 0 | 7 | 253k | 65937c2 | 25 edits (21 S13/S14/S15/S16: a comparison reversed on p. 526, Mundaka→Chandogya on p. 545, a parā/aparā sentence rewritten on p. 547; 2 numbers the print lacks removed); no page shifts |
+| 20 | 550–579 | 94 | 86 | 86 / 0 | 8 | TOK19 | @C@ | 86 edits (about 60 S14 sense incl. accent/vowel descriptions on pp. 550–553, l/r reversed on p. 566, Vararuchi/Patañjali on p. 564; S15 attributions; about 12 additions removed; 4 numbers incl. p. 562 '10-20-2' and p. 569 'page 40' applied as printed, open.tsv); pp. 573–574: p. 573 sits inside the p. 572 block and matches English Page 573, p. 574 has no Kannada text (English kept); many pages are Sanskrit with embedded English only (554, 558–562, 576–577) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
 | S7 | 359 | 22 | 381 |
-| S14 | 282 | 6 | 288 |
-| S13 | 231 | 32 | 263 |
-| S1 | 137 | 1 | 138 |
+| S14 | 338 | 8 | 346 |
+| S13 | 234 | 34 | 268 |
+| S1 | 139 | 1 | 140 |
 | H29 | 0 | 132 | 132 |
-| S16 | 95 | 8 | 103 |
-| S17 | 29 | 25 | 54 |
-| S15 | 46 | 0 | 46 |
-| S3 | 42 | 0 | 42 |
+| S16 | 112 | 9 | 121 |
+| S17 | 30 | 28 | 58 |
+| S15 | 52 | 0 | 52 |
+| S3 | 43 | 0 | 43 |
 | S2 | 37 | 0 | 37 |
 | R6 | 1 | 0 | 1 |
 
-By reader: R1 818, R3 373, R6 294
+By reader: R1 910, R3 373, R6 296
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -111,11 +112,14 @@ By reader: R1 818, R3 373, R6 294
 - **other** (pages 472): Kannada p.472 prints the reference of the Jaiminiya Nyayamala verses as (ಜೈ ನ್ಯಾ. ೧೧-೮); the other Nyayamala references are of the form 1-2-1, 2-1-7; applied as printed (English now 11-8)
 - **other** (pages 481, 484): Kannada p.481 gives the sutra for tac codakesu mantrakhya as (Purva Mimamsa 2-1-32, 33), p.484 as (Jai. Su. 3-1-32); English p.484 keeps 3-1-32 as printed on p.484
 - **other** (pages 473): Kannada p.473 has no head of its own in the supplied text: its text follows the second head 'Sayanabhasyabhumika' inside the block of p.472 and corresponds to English '### Page 473'
+- **other** (pages 562): Kannada p.562 prints the reference of the quotation as (Ri. Sam. 10-20-2); the verse is in hymn 71 of Mandala 10; applied as printed (English now 10-20-2)
+- **other** (pages 569): Kannada p.569 refers to the earlier explanation of catvari on (40 ne) page 40; English had page 401; applied as printed
+- **other** (pages 573-574): Kannada p.573 has no head of its own: its text follows the page header 573 inside the block of p.572 and corresponds to English ### Page 573; Kannada p.574 has no text in the supplied Kannada, English ### Page 574 (Sarasvati, Dasamyam putrasya) has nothing to compare with
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 236 Kannada misprints where the English is kept (`kn_misprints.tsv`); 95 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 242 Kannada misprints where the English is kept (`kn_misprints.tsv`); 101 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
