@@ -41,3 +41,4 @@
 | 39 | through p. 749 (three windows in one agent: pp. 729–749) | sonnet | 23 | 231111 | 5.9 |
 | 40 | through p. 774 (three windows in one agent: pp. 750–774) | sonnet | 20 | 238894 | 7.2 |
 | 41 | through p. 795 (three windows; the agent hit the usage limit after the third window, token figure lost) | sonnet | – | – | – |
+| 42 | through p. 817 (three windows in one agent: pp. 796–817) | sonnet | 23 | 227864 | 6.4 |
