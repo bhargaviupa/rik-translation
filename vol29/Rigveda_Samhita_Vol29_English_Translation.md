@@ -21098,6 +21098,176 @@ This Paramātman, who is honey for all beings in the form of the sun, is in all 
 
 इमा दिशः ............ यश्चायमध्यात्मं श्रौत्रः ........... आत्मेदममृतमिदं ब्रह्मेदं सर्वं ॥ (*imā diśaḥ ............ yaścāyamadhyātmaṃ śrautraḥ ........... ātmedamamṛtamidaṃ brahmedaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-5)
 
+### Printed p. 735
+
+In the form of the directions, this Supreme Puruṣa, who is honey for all beings and is all-pervading, being full of immortality and full of radiance, abides in the form of the organ of hearing in all beings. He alone is the Parabrahman who is the Self of all.
+
+अयं चंद्रः......... यश्चायमध्यात्मं मानसस्तेजः............ आत्मेदममृत. मिदं ब्रह्मदं सर्वं ॥ (*ayaṃ caṃdraḥ......... yaścāyamadhyātmaṃ mānasastejaḥ............ ātmedamamṛta. midaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-25-6) **NOTE**
+
+This Supreme Puruṣa is full of radiance and full of immortality in the moon, which is honey for all beings. This same Paramātman is, in all beings, the radiant one in the form of the mind. He alone is the Parabrahman who is the Self of all.
+
+अयमग्निः............ यश्चायमध्यात्मं वाङ्मयस्तेजो मया......... अय. मात्मेदममृतमिदं सर्वं ॥ (*ayamagniḥ............ yaścāyamadhyātmaṃ vāṅmayastejo mayā......... aya. mātmedamamṛtamidaṃ sarvaṃ ‖*) (Bṛ. U. 2.5-2) **NOTE**
+
+This Supreme Puruṣa is the fire that is honey for all beings. In all beings he is established in the form of speech. This same Supreme Puruṣa, full of radiance and full of immortality, is the Parabrahman who is the Self of all.
+
+इयं विद्युत्...........यश्चायमध्यात्मं तैजसस्तेजोमयः............अयमात्मेदममृतमिदं ब्रह्मदं सर्वं ॥ (*iyaṃ vidyut...........yaścāyamadhyātmaṃ taijasastejomayaḥ............ayamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2.25-8) **NOTE**
+
+This Supreme Puruṣa, full of radiance and full of immortality, is honey for all beings in the form of lightning. He is full of radiance in all beings. This Supreme Puruṣa is the Parabrahman who is the Self of all. He is the inner controller of all and is made up of all.
+
+अयं स्तनयित्नुः.................. यश्चायमध्यात्मं शाब्दः सौवरस्तेजोमयः .................. अयमात्मेदममृतमिदं ब्रह्मदं सर्वं ॥ (*ayaṃ stanayitnuḥ.................. yaścāyamadhyātmaṃ śābdaḥ sauvarastejomayaḥ .................. ayamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-9)
+
+This Supreme Puruṣa, who is in the form of the cloud and in the form of thunder, is in all beings of the nature of sound. This Supreme Puruṣa, full of radiance and full of immortality, is the Parabrahman who is the Self of all and the inner controller of all.
+
+### Printed p. 736
+
+अयमाकाशः.................. यश्चायमध्यात्मं हृद्याकाशः.................. अयमात्मेदममृतमिदं ब्रह्मदं सर्वं ॥ (*ayamākāśaḥ.................. yaścāyamadhyātmaṃ hṛdyākāśaḥ.................. ayamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-10)
+
+This Supreme Puruṣa, in the form of the all-pervading ether, is established in all beings, in the form of the heart and in the form of the ether of the heart. This Parabrahman, full of radiance and full of immortality, is the Self of all.
+
+अयं धर्मः ............. यश्चायमध्यात्मं धार्मस्तेजोमयः.................. अयमात्मेदममृतमिदं ब्रह्मदं सर्वं ॥ (*ayaṃ dharmaḥ ............. yaścāyamadhyātmaṃ dhārmastejomayaḥ.................. ayamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-4-11) **NOTE**
+
+This Supreme Puruṣa, full of radiance, shines in all beings in the form of dharma. This all-pervading Puruṣa is the Parabrahman who is the Self of all.
+
+इदं सत्यं ............ यश्चायमध्यात्मं सात्यः ........ अयमात्मेदं ब्रह्मदं सर्वं ॥ (*idaṃ satyaṃ ............ yaścāyamadhyātmaṃ sātyaḥ ........ ayamātmedaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-12)
+
+The Supreme Puruṣa, full of immortality, is in all beings of the nature of truth. He is the Parabrahman who is the Self of all; he is made up of all.
+
+इदं मानुषं .... .... .... यश्चायमध्यात्मं मानुषस्तेजोमयः अयमात्मेदममृतमिदं ब्रह्मदं सर्वं ॥ (*idaṃ mānuṣaṃ .... .... .... yaścāyamadhyātmaṃ mānuṣastejomayaḥ ayamātmedamamṛtamidaṃ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-13)
+
+This Parabrahman, the Supreme Puruṣa, having entered all beings in the human form, is full of immortality and full of radiance and is the Self of all.
+
+अयमात्मा............ यश्चायमात्मा ........ ब्रह्मदं सर्वं ॥ (*ayamātmā............ yaścāyamātmā ........ brahmadaṃ sarvaṃ ‖*) (Bṛ. U. 2-5-14)
+
+This Supreme Puruṣa, full of radiance and full of immortality, is the Self of all, made up of all. He is the Parabrahman. He is of the nature of the Self for all beings. स वा अयमात्मा सर्वेषां भूतानामधिपतिः सर्वेषां भूतानां राजा (*sa vā ayamātmā sarveṣāṃ bhūtānāmadhipatiḥ sarveṣāṃ bhūtānāṃ rājā*) He, being of the form of the Self of the whole world of the moving and the unmoving, is the lord of all.
+
+This Paramātman is not only all-pervading as the inner controller in all beings; he is also the one who impels the actions and so on of all beings. How? Thus—
+
+### Printed p. 737
+
+आ नखाग्रेभ्यो यथा क्षुरः क्षुरधानेवहितः स्याद्विश्वंभरो वा वित्वंभरकुलाये तं न पश्यंति आकृत्स्नो हि स प्राणन्नेव प्राणो नाम भवति । वदन्वाक्षश्यंश्चक्षुः शृण्वन् श्रोत्रां मन्वानो मनस्तान्यस्यैतानि कर्मनामान्येव ॥ (*ā nakhāgrebhyo yathā kṣuraḥ kṣuradhānevahitaḥ syādviśvaṃbharo vā vitvaṃbharakulāye taṃ na paśyaṃti ākṛtsno hi sa prāṇanneva prāṇo nāma bhavati | vadanvākṣaśyaṃścakṣuḥ śṛṇvan śrotrāṃ manvāno manastānyasyaitāni karmanāmānyeva ‖*) (Bṛ. U. 1-4-7)
+
+As the blade of a sword lies hidden within the sheath of the sword, and as fire lies enclosed in the fire-vessel (or in the fire-drill), so this Paramātman, who lies hidden in all beings, cannot be seen by anyone. When breathing he is of the nature of the vital breath. When speaking he is of the nature of speech. At the time of seeing he is of the nature of the eye. When hearing he is of the nature of the organ of hearing. At the time of thinking he is of the nature of the mind. All these are the names of the actions of this Paramātman.
+
+स योऽत्र एकैकमुपास्ते न स वेदाकृत्स्नो ह्येषोऽत एकैकेन भवत्यात्मेत्येवोपासीतात्र हैते सर्व एकं भवंति । तदेतत्सदनीयमस्य सर्वस्य यदयमात्मानेन हैतत्सर्वं वेद । यथा वै पदेनानु विंदेदेवं कीर्तिं श्लोकं विंदते य एवं वेद ॥ (*sa yo 'tra ekaikamupāste na sa vedākṛtsno hyeṣo 'ta ekaikena bhavatyātmetyevopāsītātra haite sarva ekaṃ bhavaṃti | tadetatsadanīyamasya sarvasya yadayamātmānena haitatsarvaṃ veda | yathā vai padenānu viṃdedevaṃ kīrtiṃ ślokaṃ viṃdate ya evaṃ veda ‖*) (Bṛ. U. 1-4-7)
+
+If one worships only a single aspect of any of these, then the nature of Brahman is not understood fully. If one examines them individually, all of these are incomplete. Only if one worships the Self, who is the one source of all these and in whom all of them come together and unite, is the nature of the complete Self understood. Since this Self alone is the guide for all knowledge and vision, it is praised as पदनीय (*padanīya*). One who knows this principle obtains fame and praise. The Supreme Puruṣa, thus the Self of all and the guide of all knowledge, is praised in this way in the Īśāvāsya Upaniṣad.
+
+ईशावास्यमिदग्ं सर्वं यत्किंच जगत्यां जगत् (*īśāvāsyamidagṃ sarvaṃ yatkiṃca jagatyāṃ jagat*) (Īśa 1) **NOTE**
+
+Whatever things there are in this world of the moving, all of them are pervaded by Īśvara. He has become manifest in those very forms. He alone is the guide on the good path. Therefore—
+
+अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयनानि विद्वान् । युयोध्यं स्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥ (*agne naya supathā rāye asmān viśvāni deva vayanāni vidvān | yuyodhyaṃ smajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ‖*) (Īśa. 18) **NOTE**
+
+### Printed p. 738
+
+O Agni, you are one who knows all the good paths. Be one who leads us on the good path. Keep us far from the bad path. Homage to you. This prayer makes known the purport of the epithet पदनीय (*padanīya*) described above in the Bṛhadāraṇyaka. Therefore he is praised also as the lord. The details of the several ways in which this Supreme Puruṣa enters the world and reveals his own nature are as follows.
+
+यादृगेव ददृशे तादृगुच्यते सं छायया दधिरे सिद्धयाप्सा । महीमस्मभ्यमुरुषामुरु ज्रयो बृहत्सुवीरमनपच्युतं सहः ॥ (*yādṛgeva dadṛśe tādṛgucyate saṃ chāyayā dadhire siddhayāpsā | mahīmasmabhyamuruṣāmuru jrayo bṛhatsuvīramanapacyutaṃ sahaḥ ‖*) (Ṛ. Saṃ. 5-44.6) **NOTE**
+
+Since this Supreme Principle is pervasive everywhere, it is praised in every way in which it appears to the sight of each one. As described in the Ṛk एकं सद्विप्रा बहुधा वदंति (*ekaṃ sadviprā bahudhā vadaṃti*) (1. 164. 46) (Ṛgveda Saṃhitā, Part 12, p. 626), Indra, Agni, Yama, Sūrya, Savitṛ, Brahmā and Prajāpati are all special manifestations of Īśvara. Or it may be said that all these are alternative names of Īśvara.
+
+एतद्योनीनि भूतानि सर्वाणीत्युपधारय । आहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ॥ मत्तः परतरं नान्यत् किंचिदस्ति धनंजय । मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥ (*etadyonīni bhūtāni sarvāṇītyupadhāraya | āhaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā ‖ mattaḥ parataraṃ nānyat kiṃcidasti dhanaṃjaya | mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva ‖*) (Bha. Gī. 7. 6,7) **NOTE**
+
+I am the womb (the place of origin) of all the things that there are in the world. The whole world arises from me and is dissolved in me. Apart from me there is no other principle in the universe. As gems are strung together on a thread, so all things are strung together in me.
+
+सर्वभूतानि कौंतेय प्रकृतिं यांति मामिकां । कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहं ॥ (*sarvabhūtāni kauṃteya prakṛtiṃ yāṃti māmikāṃ | kalpakṣaye punastāni kalpādau visṛjāmyahaṃ ‖*) (Bha. Gī. 7-7)
+
+O Arjuna, all beings attain the changed state that is my own body. At the end of the kalpa they are absorbed in me. And again, at the beginning of the kalpa, I bring them forth in the form of creation. All are particular states of mine. How? Thus—
+
+### Printed p. 739
+
+यो योनिं योनिमधितिष्ठत्येको विश्वानि रूपाणि योनीश्च सर्वाः । एकैकं जालं बहुधा विकुर्वन्नस्मिन् क्षेत्रे संहरत्वेष देवः । भूयः सृष्ट्वा पतयस्तथेशः सर्वाधिपत्यं कुरुते महात्मा ॥ (*yo yoniṃ yonimadhitiṣṭhatyeko viśvāni rūpāṇi yonīśca sarvāḥ | ekaikaṃ jālaṃ bahudhā vikurvannasmin kṣetre saṃharatveṣa devaḥ | bhūyaḥ sṛṣṭvā patayastatheśaḥ sarvādhipatyaṃ kurute mahātmā ‖*) (Prai. U. 53-2,3) **NOTE**
+
+Īśvara is the controller of every place of origin. All forms and all places of origin are particular conceptions that reflect his own nature. Spreading out each mesh of his net, he keeps every thing under his control. At his appointed time he draws everything in, and the great Īśvara again brings it forth at the time of the new conception; that is, he himself expands in those forms. But since he alone takes on different states, the ignorant, having taken all of them to have a separate (different) individuality, think that this is the truth. But one Puruṣa alone possesses all those states. How? Thus—
+
+अविभक्तं च भूतेषु विभक्तमिव च स्थितं ' भूतभर्तृ च तज्जेऽयं ग्रसिष्णु प्रभुविष्णु च ॥ ज्योतिषामपि तज्जोऽतिस्तमसः परमुच्यते । ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितं ॥ (*avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitaṃ ' bhūtabhartṛ ca tajje 'yaṃ grasiṣṇu prabhuviṣṇu ca ‖ jyotiṣāmapi tajjo 'tistamasaḥ paramucyate | jñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitaṃ ‖*) (Bha. Gī. 13-16, 17)
+
+I pervade all beings. But since I am in different forms in them, I am seen as different. In truth, however, my form is not divided (not different). At the time of the dissolution of the world I am the one who swallows everything; again, at the time of origin, I am also the cause of origin. I am the one of greater brilliance than all the masses of light such as the sun. I am the object of knowledge. I am of the nature of knowledge. I am also the one established in the heart of all. This same thing is praised in this way in the Praśna Upaniṣad.
+
+प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे । तुभ्यं प्राण प्रजास्त्विमा बलिं हरंति यः प्राणैः प्रतितिष्ठसि ॥ (*prajāpatiścarasi garbhe tvameva pratijāyase | tubhyaṃ prāṇa prajāstvimā baliṃ haraṃti yaḥ prāṇaiḥ pratitiṣṭhasi ‖*) (Praśna. 2-7) **NOTE**
+
+O Agni, you yourself, in the form of Prajāpati, enter all wombs and move about in the form of the embryo. You yourself are born again in the form of all living beings. Since you dwell in all living beings in the form of the vital breath, all living beings offer worship to you.
+
+### Printed p. 740
+
+एषोग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः । एष पृथिवी रयिर्देवः सदसच्चामृतं च यत् ॥ (*eṣognistapatyeṣa sūrya eṣa parjanyo maghavāneṣa vāyuḥ | eṣa pṛthivī rayirdevaḥ sadasaccāmṛtaṃ ca yat ‖*) (Praśna 2-5)
+
+In the form of fire this Paramātman burns. In the form of the sun he shines with radiance. In the form of Parjanya he is the maker of rain. In the form of the wind he moves about everywhere. He is the form of the earth; all wealth is he; he, being of the nature of the gods, has also the various states such as being, non-being and immortality.
+
+या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि । या च मनसि संतता शिवां तां कुरु मोत्क्रमीः ॥ (*yā te tanūrvāci pratiṣṭhitā yā śrotre yā ca cakṣuṣi | yā ca manasi saṃtatā śivāṃ tāṃ kuru motkramīḥ ‖*) (Praśna 2.12)
+
+O God, whatever form of yours is contained in speech, whatever is within the organ of hearing, whatever divine form of yours is within the eye, whatever is pervading the mind, may all of these be auspicious: thus the parts of Īśvara pervading the human body are described.
+
+Since he is present individually in the human body in various forms, even though the Paramātman appears to be destroyed when those bodies are destroyed, there is no destruction for him. He is immortal. If the body is destroyed, there is no destruction of the Self by that. How? Thus—
+
+एको मृत्युर्बहवा इत्येकश्च बहवश्चेति ह ब्रूयाद्यदहासावमुत्र तेनैकोऽथ यदिह प्रजासु बहुधा व्याविष्टस्तेनो बहवः ॥ (*eko mṛtyurbahavā ityekaśca bahavaśceti ha brūyādyadahāsāvamutra tenaiko 'tha yadiha prajāsu bahudhā vyāviṣṭasteno bahavaḥ ‖*) (Śa. Brā. 10-5-2-16)
+
+The question arises once whether Death is one or many. In answer to it, it is right whether one says "one" or says "many". If the question is asked with regard to the Āditya who shines in the world of heaven, he is the one non-dual principle; there is none other than he. Or, since in the worlds such as the earth he shines in different forms as if divided in many ways, it is not wrong to say "many"; thus unity has been shown in diversity.
+
+In this way, although this matter could be explained clearly by citing many more passages, for want of space only a few more topics will be set forth and the matter that follows will be examined. That before creation Brahman was without a second, that he desired creation and resolved, and that the whole creation of the world is only the manifestation of his powers: on this matter Śruti passages have been cited and told in several places before (Ṛ. Saṃ. 10-81 and 82).
+
+### Printed p. 741
+
+Thus, after creation, Brahman is not one thing and the world another; the whole world is a part of Brahman: on this matter, citing only a few passages, the meaning contained in the sentence पुरुष एवेदं सर्वं (*puruṣa evedaṃ sarvaṃ*) will be made clear.
+
+सर्वं खल्विदं ब्रह्म तज्जलानिति शांत उपासीत । (*sarvaṃ khalvidaṃ brahma tajjalāniti śāṃta upāsīta |*) (Chā. U. 3-14-1)
+
+The whole universe is full of Brahman. From him is creation, in him is dissolution, in him is breathing; creation, preservation and dissolution are all in him.
+
+मनोमयः प्राणशरीरो भारूपः सत्यसंकल्पः आकाश आत्मा सर्वकर्मा सर्वकामः सर्वगंधः सर्वरसः सर्वमिदमभ्यात्तोवाक्यनादरः । (*manomayaḥ prāṇaśarīro bhārūpaḥ satyasaṃkalpaḥ ākāśa ātmā sarvakarmā sarvakāmaḥ sarvagaṃdhaḥ sarvarasaḥ sarvamidamabhyāttovākyanādaraḥ |*) (Bhā. U. 3-13_2) **NOTE**
+
+Īśvara is of the nature of mind. He has the vital breath for his body; he is of the form of radiance; he is one whose resolve is true; he is one in whom all selves are united; all actions, all desires, all smell, all taste, the praiseworthy and the not praiseworthy, all those activities of the world are particular actions of Īśvara.
+
+अथात आत्मादेश एवात्मैवाधस्तादात्मोपरिष्टादात्मा पश्चादात्मा पुरस्तादात्मा दक्षिणत आत्मोत्तरत आत्मैवेदं सर्वमिति ॥ (*athāta ātmādeśa evātmaivādhastādātmopariṣṭādātmā paścādātmā purastādātmā dakṣiṇata ātmottarata ātmaivedaṃ sarvamiti ‖*) (Bhā. U. 7-25-2)
+
+This Self of the universe is the lower part. This is also the upper part. Whatever principle there is in the western, eastern, southern and northern directions and in the intermediate regions, all that is this Self alone. The whole universe is full of the Self and is of the form of the Self.
+
+यतश्चोदेति सूरोऽस्तं यत्र च गच्छति । तं देवाः सर्वेऽर्पितास्तदु नात्येति कश्चन ॥ (*yataścodeti sūro 'staṃ yatra ca gacchati | taṃ devāḥ sarve 'rpitāstadu nātyeti kaścana ‖*) (Kaṭha: 4.9) **NOTE**
+
+That Paramātman from whom the sun rises and in whom he sets, in that Self of the universe all the gods have their refuge. No one exists beyond this Paramātman. Every god is a part of this Self of the universe and not something other. This same matter is described in this way in the Muṇḍaka Upaniṣad.
+
+### Printed p. 742
+
+तदेतत्सत्यं यथा सुदीप्तात् पावकाद्विस्फुलिंगाः सहस्रशः प्रभवंते सरूपाः। तथाक्षराद्विविधा: सोम्य भावाः प्रजायंते तत्र चैवापि यंति ॥ (*tadetatsatyaṃ yathā sudīptāt pāvakādvisphuliṃgāḥ sahasraśaḥ prabhavaṃte sarūpāḥ| tathākṣarādvividhā: somya bhāvāḥ prajāyaṃte tatra caivāpi yaṃti ‖*) (Mu. U. 2-1-1) **NOTE**
+
+As from a blazing fire flames go forth and thousands of sparks arise from it and spread, O gentle one, so from this Self of the universe many multitudes of living beings and other insentient things arise, spread in the world, and finally are dissolved here itself.
+
+एतस्माज्जायते प्राणो मनः सर्वेंद्रियाणि च । खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी ॥ (*etasmājjāyate prāṇo manaḥ sarveṃdriyāṇi ca | khaṃ vāyurjyotirāpaḥ pṛthivī viśvasya dhāriṇī ‖*) (Mu. U. 2-1-3)
+
+The vital breath, the mind, all the senses, ether, air, fire, water and earth: all these have arisen from this Paramātman.
+
+अग्निमूर्धा चक्षुषी चंद्रसूर्यौ दिशः श्रोत्रे वाग्विवृताश्च वेदाः । वायुः प्राणो हृदया विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभूतांतरात्मा॥ (*agnimūrdhā cakṣuṣī caṃdrasūryau diśaḥ śrotre vāgvivṛtāśca vedāḥ | vāyuḥ prāṇo hṛdayā viśvamasya padbhyāṃ pṛthivī hyeṣa sarvabhūtāṃtarātmā‖*) (Mu. U. 2-1-4)
+
+Among all the principles of the world he is the inner controller. Fire is his head; the sun and the moon are his eyes. The directions are his ears. The Veda is his speech. The wind is the vital breath. The whole universe is his heart. From his feet the earth has gone forth and spread out widely.
+
+सप्त प्राणाः प्रभवंति तस्मात् सप्तार्चिषः समिधः सप्त होत्राः । सप्त इमे लोका येसु चरंति प्राणा गुहाशया निहिताः सप्त सप्त ॥ (*sapta prāṇāḥ prabhavaṃti tasmāt saptārciṣaḥ samidhaḥ sapta hotrāḥ | sapta ime lokā yesu caraṃti prāṇā guhāśayā nihitāḥ sapta sapta ‖*) (Mu. 2-1-8)
+
+The seven vital breaths in the head (that is, the eye and the rest), their powers of knowledge, the objects of their knowledge, the seven kinds of sacrificial oblations, and the vital breaths which are of seven kinds in the heart of all living beings: all these have obtained their origin from him.
+
+अतः समुद्रा गिरयश्च सर्वेऽस्मात्संवंदंते सिंधवः सर्व रूपाः । अतश्च सर्वा ओषधयो रसाश्च येनैष भूत्यैतिष्ठते ह्यंतरात्मा ॥ (*ataḥ samudrā girayaśca sarve 'smātsaṃvaṃdaṃte siṃdhavaḥ sarva rūpāḥ | ataśca sarvā oṣadhayo rasāśca yenaiṣa bhūtyaitiṣṭhate hyaṃtarātmā ‖*) (Mu. U. 3-1-9) **NOTE**
+
+All oceans and mountains have come into being from this Paramātman. All kinds of rivers arise from him and flow. The herbs, by whose help this body is kept in good condition, have also come into being from him.
+
+### Printed p. 743
+
+पुरुष एवेदं विश्वं कर्म तपो ब्रह्म परामृतं । (*puruṣa evedaṃ viśvaṃ karma tapo brahma parāmṛtaṃ |*) (Mu. 2-1-10)
+
+In the universe everything is full of Puruṣa.
+
+ब्रह्मवेदममृतं पुरस्ताद्ब्रह्म पश्चात् ब्रह्म दक्षिणतश्चोत्तरेण । अधश्चोर्ध्वं प्रसृतं ब्रह्मवेदं विश्वमिदं वरिष्ठं ॥ (*brahmavedamamṛtaṃ purastādbrahma paścāt brahma dakṣiṇataścottareṇa | adhaścordhvaṃ prasṛtaṃ brahmavedaṃ viśvamidaṃ variṣṭhaṃ ‖*) (Mu. U. 2-2-11)
+
+Everything is full of Brahman. Brahman alone is all-going. Brahman himself pervades the upper part, the lower part, the front, the back, the right side and the left side. This matter, that the whole universe is full of that Brahman, is described and praised in the present Ṛk by पुरुष एवेदं सर्वं (*puruṣa evedaṃ sarvaṃ*), and the relation between the world created by Brahman and Brahman, the original cause of creation, will be told when the purport of the sentence अतो ज्यायांश्च पूरुषः (*ato jyāyāṃśca pūruṣaḥ*) is explained.
+
+यद्भूतं यच्च भव्यं (*yadbhūtaṃ yacca bhavyaṃ*)—all this, whatever is in the present time, whatever was in the past, whatever will come into being hereafter, all of that is Puruṣa. If the whole world is subject to time, then time, which controls the world, is subject to Īśvara. How? Thus—
+
+अंगुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति । ईशानो भूतभव्यस्य न ततो विजुगुप्सते ॥ अंगुष्ठमात्रः पुरुषो ज्योतिरिवाधूमकः । ईशानो भूतभव्यस्य स एवाद्य स उश्वः ॥ (*aṃguṣṭhamātraḥ puruṣo madhya ātmani tiṣṭhati | īśāno bhūtabhavyasya na tato vijugupsate ‖ aṃguṣṭhamātraḥ puruṣo jyotirivādhūmakaḥ | īśāno bhūtabhavyasya sa evādya sa uśvaḥ ‖*) (Kara U 4-12-13) **NOTE**
+
+The Puruṣa is of the measure of a thumb. He abides in the middle of the body. He is the lord of the past. He is the controller of the future. He is radiant, like a fire that blazes together with a flame free from smoke. He is the master of the past and the future times; he is the one who is today, and he alone is the one who will be tomorrow. There is nothing other than he. He alone is not subject to time. How? Thus—
+
+यस्मादर्वाक्संवत्सरोऽहोभिः परिवर्तते । तद्देवा ज्योतिषां ज्योतिरायुर्होपासतेऽमृतं । (*yasmādarvāksaṃvatsaro 'hobhiḥ parivartate | taddevā jyotiṣāṃ jyotirāyurhopāsate 'mṛtaṃ |*) (Bṛ. U. 4-4-16)
+
+Even the year, which controls all affairs, goes on revolving, together with its days and nights, before this Parabrahman. This Paramātman, who is the controller even of time, the gods worship as the light
+
 ---
 
-**Progress note:** Done through printed p. 734. Vol 29 pp. 729-734: Puruṣa-sūkta Ṛk 2, commentary and Upaniṣad quotations
+**Progress note:** Done through printed p. 743. Vol 29 pp. 735-743: Upaniṣad and Smṛti citations on Puruṣa as all, Special Topics of Ṛk 2
