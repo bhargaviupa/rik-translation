@@ -31,3 +31,5 @@
 - Nov 25 2026: `rig_25.filled.md`: the four colophon lines (ವೇದಾರ್ಥಸ್ಯ … ಸಮಾಪ್ತಂ ಚ ಷಷ್ಠಾಷ್ಟಕಮ್) that ws_fill put at the end of the bhāṣya block of 9.43.6 were removed by hand, because the print carries the colophon after the English on p. 878 (read from the scan, now in the file). Re-running ws_fill brings them back; remove them again (or give ws_fill a flag).
 
 - scan_heads.py --apply: 6 running heads with [?] (Maṇḍala/Adhyāya/Sūkta) settled by the unmarked heads before and after them (list: review/heads_applied.tsv); 86 heads left marked.
+
+- scan_wordfix.py --apply: 69 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'corrected': 19, 'confirmed': 50}; list: review/wordfix_applied.tsv).
