@@ -6717,6 +6717,157 @@ Thus the principle that is described as the producer and the nourisher of the wh
 
 चक्षुः ख्यापकं तेजः । तस्य उत्पादयिता। (*cakṣuḥ khyāpakaṃ tejaḥ | tasya utpādayitā|*) It is the light that is the means of knowledge and gives illumination.
 
+### Printed p. 258
+
+is indicated by the word चक्षुस् (*cakṣus*). The supreme principle in the form of Viśvakarman, who is the producer of this light, is the second purport. This purport too is in keeping with the context.
+
+चक्षुः—ख्यातेर्वा चष्टेर्वा । (*cakṣuḥ—khyātervā caṣṭervā |*) The author of the Nirukta has explained the derivation of this word: it is formed either from the root ख्या (*khyā*) meaning knowledge, or from the root meaning sight (Ni. 4-3).
+
+सूर्यो यथा सर्वलोकस्य चक्षुः । (*sūryo yathā sarvalokasya cakṣuḥ |*) (Kara. 5.11.) **NOTE**
+
+Since it is described in the Upaniṣads and elsewhere that the sun is the eye of all the worlds, the same meaning is also appropriate in the verse under discussion. This eye of the world, being itself full of light, is the producer and nourisher of the other lights as well.
+
+हिरण्मये परे कोशे विरजं ब्रह्म निष्कलं । तच्चुभ्रं ज्योतिषां ज्योतिस्तद्यदात्मविदो विदुः ॥ (*hiraṇmaye pare kośe virajaṃ brahma niṣkalaṃ | taccubhraṃ jyotiṣāṃ jyotistadyadātmavido viduḥ ‖*) (Muṇḍaka. 2-2-9)
+
+In the highest golden sheath abides Brahman, stainless, perfect and pure. The meaning of Sāyaṇa is that the very Supreme Light, which is described as the light of all lights, the original light of all luminaries, is described here as चक्षुषः पिता (*cakṣuṣaḥ pitā*). The greatness of this light is this—
+
+न तत्र सूरो भाति न चंद्रतारकं नेमा विद्युतो भांति कुतोऽयमग्निः । तमेव धांतमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ॥ (*na tatra sūro bhāti na caṃdratārakaṃ nemā vidyuto bhāṃti kuto 'yamagniḥ | tameva dhāṃtamanubhāti sarvaṃ tasya bhāsā sarvamidaṃ vibhāti ‖*) (Muṇḍaka. 2-2-10)
+
+When this Supreme Light is pervading the whole universe in the form of the Supreme Brahman, that is, when Brahman is in the unmanifest state in the form of light, neither the sun nor the moon nor the stars nor lightnings nor earthly fire can shine; for the sun and the others are not yet created at that time. All the other lights shine by the radiance of that divine light. That great light which is described in the Ṛk-saṃhitā thus—
+
+शरणिर्विश्वदर्शतो ज्योतिष्कृतदसि सूर्य । विश्वमाभासि रोचनं ॥ (*śaraṇirviśvadarśato jyotiṣkṛtadasi sūrya | viśvamābhāsi rocanaṃ ‖*) (Ṛ. Saṃ. 1.50-4)
+
+"O Sūrya, you are the maker of all light; by you everything is made to shine"; the same is described here also.
+
+### Printed p. 259
+
+Because the whole universe is thus subject to the control of this Viśvakarman, he is described as मनसा हि धीरः (*manasā hi dhīraḥ*). न हि मत्समोऽस्ति कश्चिदिति बुद्धा, दृष्टो विश्वकर्मा (*na hi matsamo 'sti kaściditi buddhā, dṛṣṭo viśvakarmā*): there is none equal to me; all the others are subject to me; thus the boldness of Viśvakarman, who displays this steadfastness, is also described. The Upaniṣads also describe this same point in this way.
+
+भीषास्माद्वातः पवते। भीषोदेति सूर्यः । भीषास्मादग्निश्चेंद्रश्च । मृत्युर्धावति पंचम इति ॥ (*bhīṣāsmādvātaḥ pavate| bhīṣodeti sūryaḥ | bhīṣāsmādagniśceṃdraśca | mṛtyurdhāvati paṃcama iti ‖*) (Kṛ. U. 2.8.) **NOTE**
+
+Out of fear of this Supreme Principle the wind blows. The sun too rises, subject to its control. Agni and Indra and all these perform their respective duties out of fear of the rule of this Supreme Principle. Therefore the point that he is the lord of all and, himself subject to no one's lordship, enjoys his imperial dignity, is indicated by मनसा हि धीरः (*manasā hi dhīraḥ*).
+
+यदेदंता आददृहंत पूर्वे (*yadedaṃtā ādadṛhaṃta pūrve*)—by the power of this Viśvakarman all the boundary regions of heaven and earth were firmly established. Since heaven and earth are like the limbs of Viśvakarman, the question arises: what are these boundary regions, and what is their relation to Viśvakarman? In answer, the description of these boundary regions is given at length in the Upaniṣads. Because Brahman contains these boundaries, he is described as having four parts. They are, first—
+
+ब्रह्मणश्च ते पादं ब्रवाणीति ब्रवीतु मे भगवानिति तस्मै होवाच प्राचे दिक्कला प्रतीची दिक्कला दक्षिणा दिक्कलोदीची दिक्कलैष वै सोम्य चतुष्कलः पादो ब्रह्मणः प्रकाशवान्नाम ॥ (*brahmaṇaśca te pādaṃ bravāṇīti bravītu me bhagavāniti tasmai hovāca prāce dikkalā pratīcī dikkalā dakṣiṇā dikkalodīcī dikkalaiṣa vai somya catuṣkalaḥ pādo brahmaṇaḥ prakāśavānnāma ‖*) (Chā. U. 4.25-2)
+
+Brahman has four parts; he has four feet. The east is one foot; the south is the second foot; the west is the third; the north is the fourth. Thus these four are the four feet of Brahman. They are most brilliant. These very ones are described in the verse under discussion as अंता अददृहंत (*aṃtā adadṛhaṃta*). Besides this, the parts of Brahman taught by Agni to Satyakāma are of another kind.
+
+ब्रह्मणः सोम्य ते पादं ब्रवाणीति ब्रवीतु मे भगवानिति तस्मै होवाच पृथिवी कलांतरिक्षं कला द्यौः कला समुद्रः कलैष वै सोम्य चतुष्कलः पादो ब्रह्मणोऽनंतवान्नाम ॥ (*brahmaṇaḥ somya te pādaṃ bravāṇīti bravītu me bhagavāniti tasmai hovāca pṛthivī kalāṃtarikṣaṃ kalā dyauḥ kalā samudraḥ kalaiṣa vai somya catuṣkalaḥ pādo brahmaṇo 'naṃtavānnāma ‖*) (Bhā. U. 4-6-2) **NOTE**
+
+For Brahman the earth is one foot, the atmosphere the second, the heavenly world the third, and the ocean the
+
+### Printed p. 260
+
+fourth. O Satyakāma, all these have received the name Anantavat. Besides this, the swan also taught Satyakāma the nature of the feet of Brahman in another way.
+
+तस्मै होवाचाग्निः कला सूर्यः कला चंद्रः कला विद्युत्कलैष वै सोम्य चतुष्कलः पादो ब्रह्मणो ज्योतिष्मान्नाम ॥ (*tasmai hovācāgniḥ kalā sūryaḥ kalā caṃdraḥ kalā vidyutkalaiṣa vai somya catuṣkalaḥ pādo brahmaṇo jyotiṣmānnāma ‖*) (Bhā. U. 4-7-2)
+
+Fire, sun, moon and lightning, these four are the four kinds of feet. They have the name Jyotiṣmat. He who knows their nature becomes possessed of light. Thus, since all the quarters and regions are parts of Brahman, all of them are well known as the feet of Brahman. Besides what has been said above, the water-bird named Madgu describes these feet of Brahman to Satyakāma in yet another way.
+
+ब्रह्मणः सोम्य ते पादं ब्रवाणीति ब्रवीतु मे भगवानिति तस्मै होवाच प्राणः कला चक्षुः कला श्रोत्रं कला मनः कलैष वै सोम्य चतुष्कलः पादो ब्रह्मण आयतनवान्नाम ॥ (*brahmaṇaḥ somya te pādaṃ bravāṇīti bravītu me bhagavāniti tasmai hovāca prāṇaḥ kalā cakṣuḥ kalā śrotraṃ kalā manaḥ kalaiṣa vai somya catuṣkalaḥ pādo brahmaṇa āyatanavānnāma ‖*) (Chā. U. 4-8-2)
+
+O Satyakāma, eye, ear, mind and breath, all these are the four feet of Brahman. These are of the nature of supports. Because he possesses them, Brahman has the name आयतनवान् (*āyatanavān*).
+
+Thus, even if the word चक्षुस् (*cakṣus*) is taken to mean the senses, it is understood that Brahman is the producer of the senses and the nourisher of the body, which consists of the group of senses. Even if it is taken to mean light, this meaning too is appropriate, because he possesses the four boundaries in the form of light. The chief purport of the verse is that by the resolve of Viśvakarman, the father of these eyes, all the quarters and boundaries obtained stability, and that he is the complete upholder and nourisher of them all.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्वक॑र्मा॒ विम॑ना॒ आद्विहा॑या धा॒ता वि॑धा॒ता प॑र॒मोत  ॒
+> संदृक् ।  
+> तेषा॑मि॒ष्टानि॒ समि॒षा म॑दंति॒ यत्रा॑ सप्तऋ॒षीन्व॒र एक॑मा॒हुः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वकर्मा । विमनाः । आत् । विहायाः । धाता । विधाता । परमा । उत ।  
+> संदृक् ।  
+> शे षां । इष्टानि । सं । इषा । मदंति । यत्र । सप्तऋषीन् । परः । एकं । अहुः ॥
+
+### Printed p. 261
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वकर्मणस्य पशोर्हविष विषानुवाक्या । विश्वकर्मा विमना आद्विहायाः
+> किं स्विदासीदधिष्ठानं । आ. ३-८ इति सूत्रितं ॥
+> अयं मंत्रोऽधियज्ञाध्यात्मयोर्भेदेन द्विधा व्याख्यॆयः । तत्र प्रथमं
+> दैवतमधिकृत्योच्यते । विश्वकर्मा बहुविधप्रकारवृष्टि प्रदानादिकर्मणां कर्तादित्यः
+> स च विमना विभूतमनाः । आदित्यनर्थकः सर्वत इत्यर्थे ना । विहाया विविधमाप्ता । महानित्यर्थः । धाता वृष्टादिकर्ता च विधाता जगतः कर्ता च परमा
+> परमः संदृक् संद्रष्टा च भूतानां । तेषां सप्तर्षिणां । ज्योतिषां रश्मीनामित्यर्थः । चरमपादे वक्षमाणत्वात् । इष्टानि स्थानानि शरीराणि वेषोदकेन
+> सं मदंति संमोदंते यत्रयस्मिन्नादित्ये तं देवं सप्तर्षीन्। सप्तर्षिभ्य इत्यर्थः।
+> तेभ्यः परः परस्तादेकमेवादित्यमाहुर्मंत्रविदः ॥ अध्यात्मपक्ष उच्यते! विश्वकर्मायः परमात्मा प्राणप्रकाशाभ्यामुपेतः सन् बहुकर्मा भवति स च विमना विभूतमना विहाया वस्तुतो महान् विशेषेण सुकृतदुष्कृतफलस्याप्ता धाता विधाता
+> च परमोत संदृक् परमश्च संद्रष्टेंद्रियाणां । तेषां सप्तर्षिणां द्रष्टणामिंद्रियाणामिष्टानि स्वरूपाणीषान्नेन सह सं मदंति संमोदंते यत्र यस्मिन्नात्मनि तमात्मानं सप्तर्षिन्नप्तसंख्याकेभ्यः सर्पणस्वभावेभ्यो वा परः परस्ता
+> द्वर्तमानमिंद्रियाद्यतीतमेकं परमात्मानमाहुस्तत्त्वविदः ॥ अत्र विश्वकर्मा
+> विभूतमना व्याप्त्यादि निरुक्तमनुसंधेयं । १०-२६ ॥
+
+##### Gist of the bhāṣya
+
+The verse is the anuvākyā (invitatory) for the offering of the victim of the Vaiśvakarmaṇa animal sacrifice; this use is stated in the sūtra beginning with the first words of this verse (Ā. 3-8). The mantra is to be explained in two ways, according to the sacrifice and the Self; first it is explained with reference to the deity. Viśvakarman is the sun, who performs the many kinds of acts such as the giving of rain. He is of wide mind, great, the maker of rain and the rest, the maker of the world, supreme, and the beholder of all beings. Of those, of the seven seers, that is, of the lights, the rays, since this is to be stated in the last quarter of the verse, the desired places, the bodies, rejoice with water, in which sun; the knowers of the mantra call that one sun higher than the seven seers. **NOTE**
+
+Then the Self-side is stated. Viśvakarman is the Supreme Self, who, endowed with breath and light, becomes of many works; he is of wide mind, in truth great, the special obtainer of the fruit of good and evil deeds, the supporter and arranger, supreme, and the beholder of the senses. Of those seven seers, the seeing senses, the desired forms rejoice together with food, in which Self; the knowers of the truth call him the one Supreme Self, who is beyond the seven seers, whether the seven are the number seven or those of a creeping nature, and beyond the senses and the rest. Here the explanation of Viśvakarman as of wide mind, as pervading and so on, is to be taken from the Nirukta (10-26). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वकर्मा (*viśvakarmā*)—the god Viśvakarman
+- विमनाः (*vimanāḥ*)—he of special insight, who has a mind
+- विहायाः (*vihāyāḥ*)—the great-souled
+- धाता (*dhātā*)—the maker of rain and the rest
+- विधाता (*vidhātā*)—the maker of the whole world
+- परमा (*paramā*)—the supreme
+- संदृक् (*saṃdṛk*)—he who sees everything minutely
+- यत्र (*yatra*)—in which Viśvakarman
+- तेषां (*teṣāṃ*)—of all lights
+- इष्टानि (*iṣṭāni*)—forms and resolves
+- इषा (*iṣā*)—together with water
+- सं मदंति (*saṃ madaṃti*)—are satisfied together; that Viśvakarman
+- सप्तर्षीन् परः (*saptarṣīn paraḥ*)—higher than the seven seers
+- एकं (*ekaṃ*)—the one, the incomparable Āditya
+- आहुः (*āhuḥ*)—those who know say
+
+##### भावार्थ (Bhāvārtha)
+
+Viśvakarman is of special insight and mind, great-souled, the maker of rain and the rest, the maker of the whole world, supreme, and one who sees everything minutely. Those who know say that this Viśvakarman, in whom the forms and resolves of all lights, joined with water, are satisfied together, is the Āditya who is higher than the seven seers and incomparable.
+
+### Printed p. 262
+
+##### English translation
+Vishwakarman, of comprehensive mind and manifold greatness, is all-pervading, the creator, the arranger and the supreme supervisor ; him in whom the desires of their (senses) are satisfied with food, they call (him) supreme beyond the seven Rishis.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal offering made to the deity named Viśvakarman, while the oblation is being offered, this Ṛk विश्वकर्मा विमना (*viśvakarmā vimanā*) is to be recited as the anuvākyā mantra; this is stated by the sūtra of the Āśvalāyana-śrauta-sūtra, विश्वकर्मा विमना अद्विहायाः किं स्विदासीदधिष्ठानं (*viśvakarmā vimanā advihāyāḥ kiṃ svidāsīdadhiṣṭhānaṃ*) (Ā. 3.8).
+
+In explaining who Viśvakarman is and what the nature of this deity is, Yāska has given the explanation of this Ṛk in both the adhidaivata and the adhyātma views—
+
+विश्वकर्मा विभूतमना व्याप्ता धाता च विधाता च परमश्च संद्रष्टा भूतानां तेषामिष्टानि वा, कांतानि वा क्रांतानि वा, गतानि वा, मतानि वा, नतानि वाद्भिः सह संमोदंते यत्रैतानि सप्तऋषीणानि ज्योतींषि तेभ्यः पर आदित्यस्तान्येतस्मिन्नेकं भवंतीत्यधिदैवतं ॥ (*viśvakarmā vibhūtamanā vyāptā dhātā ca vidhātā ca paramaśca saṃdraṣṭā bhūtānāṃ teṣāmiṣṭāni vā, kāṃtāni vā krāṃtāni vā, gatāni vā, matāni vā, natāni vādbhiḥ saha saṃmodaṃte yatraitāni saptaṛṣīṇāni jyotīṃṣi tebhyaḥ para ādityastānyetasminnekaṃ bhavaṃtītyadhidaivataṃ ‖*) (Ni. 10-26) (3. 10-26) **NOTE**
+
+Here for the word विमनाः (*vimanāḥ*) the meaning विभूतमनाः (*vibhūtamanāḥ*) is given. That is—विभूतप्रज्ञानः, सर्वत्राप्रतिहतमस्य प्रज्ञानं । (*vibhūtaprajñānaḥ, sarvatrāpratihatamasya prajñānaṃ |*) For the word Viśvakarman the meaning Āditya is given. Therefore the insight of Viśvakarman, or Āditya, who is set forth in this Ṛk, is unobstructed everywhere. There is no obstruction at all to the insight (knowledge) of that Viśvakarman (Āditya) in any place or in any matter. His insight spreads pervading all. Has this Viśvakarman only such knowledge? Has he no other power? The answer is धाता च विधाता च (*dhātā ca vidhātā ca*): he is not merely the one who pervades the whole world in every way, but he is the creator of all classes of beings. He it is who brings all creatures into being, and he beholds (is the witness of all) these creatures that he has produced, engaged according to their own deeds in higher and lower actions; that is, he is the controller of their deeds and an excellent guide. And having given to these creatures that he has made the desired fruits they long for, he gratifies them with the waters that are the means to them. Here for the word इष्टानि (*iṣṭāni*) various meanings are given: desired wishes, objects dear to them, things that they desire; wishes that reach, or that are longed for, or that are the means to their goal.
+
+### Printed p. 263
+
+And for the sentence सं इषा मदंति (*saṃ iṣā madaṃti*)—इषा उदकेन सह मोदंते (*iṣā udakena saha modaṃte*): the materials of comfort needed by all creatures, that is, food, clothing and other objects of enjoyment, all have rain as their means. It is well known in worldly experience that if rain falls in due season, all wealth is obtained through the growth of plants. Therefore it is beyond dispute that Āditya gratifies all creatures by the giving of rain. For the sentence यत्रा सप्तऋषीन् पर एकमाहुः (*yatrā saptaṛṣīn para ekamāhuḥ*) the explanation is यत्र्यतानि सप्तऋषीणानि ज्योतींषि तेभ्यः पर आदित्यस्तान्वेतस्मिन्नेकं भवंतीत्यधिदैवतं (*yatryatāni saptaṛṣīṇāni jyotīṃṣi tebhyaḥ para ādityastānvetasminnekaṃ bhavaṃtītyadhidaivataṃ*) **NOTE**. The seven kinds of lights or particular rays; that Āditya, beyond them, in whom or in whose orb they shine gathered into one, is the cause of the rain, which is the means to the happiness and joy of all creatures. He is the enjoyer of sacrifice, gift and austerity. All the limbs of that Āditya, from the nails to the beard and hair, are golden. Such an Āditya they call परः (*paraḥ*), that is, the supreme deity (the Supreme Self), higher than everything. This is the explanation of the adhidaivata view. The explanation of the second, the adhyātma view, has been given in this way—
+
+विश्वकर्मा विभूतमना व्याप्ता धाता च विधाता च परमश्च संदर्शयितेंद्रियाणामेषामिष्टानि वा, कांतानि वा, क्रांतानि वा, गतानि वा, मतानि वा, नतानि वान्नेन सह संमोदंते यत्रेमानि सप्तऋषीणानींद्रियाण्येभ्यः पर आत्मा तान्येतस्मिन्नेकं भवंतीत्यात्मगतिमाचष्टे ॥ (*viśvakarmā vibhūtamanā vyāptā dhātā ca vidhātā ca paramaśca saṃdarśayiteṃdriyāṇāmeṣāmiṣṭāni vā, kāṃtāni vā, krāṃtāni vā, gatāni vā, matāni vā, natāni vānnena saha saṃmodaṃte yatremāni saptaṛṣīṇānīṃdriyāṇyebhyaḥ para ātmā tānyetasminnekaṃ bhavaṃtītyātmagatimācaṣṭe ‖*) (Ni. 10-26)
+
+Here the meaning relating to the Supreme Self or the Self is explained. Here Viśvakarman means the Supreme Self who has the power to create everything. He has also the name Kṣetrajña, that is, he is the inner Self in the bodies of all creatures and impels their actions and their intellect. Without his impulse not even the movement of the wind can take place. This Self is not only possessed of power; he is also possessed of knowledge. Therefore he is said to be विमनाः (*vimanāḥ*)—विभूतमनाः (*vibhūtamanāḥ*), of all knowledge, possessed of special powers of knowledge in every direction. Because he has these qualities, they call him महान् (*mahān*), of a great nature. This Self, endowed with the quality of great nature, creates all creatures, and appoints the creatures that he has created to their respective fitting actions. And this Self is also the guide of the senses in the enjoyment of their objects, or the watcher who looks without attachment at the activities that creatures perform. For those senses (the eye and the other senses in the body)
+
+### Printed p. 264
+
+he provides the food and other things that are dear to them, or that those senses desire, long for and wish to have, and so makes those senses also remain happy. Who is that Self who performs such acts? He is the one in whom the seven kinds of senses (these senses are called lights) are gathered, that is, joined into one, but who is distinct from the senses, that is, who is beyond them; he is the Self. This Self is higher than all things, he is ever satisfied, and he has no need of food and other nourishment. But the senses and the rest of the body, taking food and the like that give strength, are satisfied together with the Self who dwells within the body. For this Self there is no sorrow, delusion, old age or death. Those who know the truth of the Self call this very Self the Supreme Brahman. Because there is nothing higher than he (or no thing different from him), this Self has received the name Supreme Self or Supreme Brahman. The Śruti sentence तस्माद्वान्यन्न परः किंचनास (*tasmādvānyanna paraḥ kiṃcanāsa*) (Ṛ. Saṃ. 10-19-2) supports this. **NOTE** This is the explanation of the adhyātma view, which explains the course of the Self.
+
+The author of the Nirukta, and Sāyaṇa who followed him, have given two kinds of purport for this Ṛk: one the adhidaivata view, the other the adhyātma view. According to the first, it is the description of Āditya, who is of wide mind, great, the maker and the arranger. According to the second purport, it is the description of the Supreme Self with these same epithets. In the place where it says that the seven seers rejoice, having obtained their desires, if it refers to Āditya, the seven rays are meant. The purport is that Āditya is higher than these seven seers and, having them, is beyond them. If it refers to the Supreme Self, the senses are meant; the purport is that he is the Supreme Self, distinct from the senses and the rest. In stating these two purports, the special meaning of the epithets such as विमनाः (*vimanāḥ*) must be examined.
+
+In giving the meaning referring to Āditya, Durgācārya has explained these epithets in this way.
+
+विमनाः- विभूतमनाः ; विभूतप्रज्ञानः : सर्वत्र अप्रतिहतं अस्य प्रज्ञानं । (*vimanāḥ- vibhūtamanāḥ ; vibhūtaprajñānaḥ : sarvatra apratihataṃ asya prajñānaṃ |*) The insight of this Āditya is all-pervading; it is unobstructed and unimpeded.
+
+विहायाः— अप्पसौ आत्मना विहायाः । आत्मनापि सर्वप्रकारं महान् (*vihāyāḥ— appasau ātmanā vihāyāḥ | ātmanāpi sarvaprakāraṃ mahān*) **NOTE** He possesses his own personal power or greatness.
+
+धाता (*dhātā*)—he who brings all beings into existence.
+
+विधाता (*vidhātā*)—he who produces, in accordance with each place and time, the other things useful for the life of beings.
+
 ---
 
-**Progress note:** Done through printed p. 257. Vol 29 pp. 251-257: Prajapati creation from water, prana as Brahman (Upanishad passages), commentary on chakshusha pita
+**Progress note:** Done through printed p. 264. Vol 29 pp. 258-264: end of chakshusha pita commentary; Sukta 82 Rk viśvakarmā vimanā with bhāṣya, Nirukta explanations
