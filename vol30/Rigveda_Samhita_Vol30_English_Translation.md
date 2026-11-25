@@ -8058,6 +8058,282 @@ The Soma has been effused for you, (Indra), the invoked of many, come quickly to
 
 In the first paryāya, in the Brāhmaṇācchaṃsin's śastra, the Ṛk अप्सु धूतस्य (*apsu dhūtasya*) is the yājyā. It is stated in the sūtra: अप्पु धूतस्य हरिवः पिबेहेति याज्या (*appu dhūtasya harivaḥ pibeheti yājyā*) (Ā. 6-4). Then he addresses Indra as हरिवः (*harivaḥ*), "possessor of bay horses": by the śruti ऋक्सामे ना इंद्रस्य हरी (*ṛksāme nā iṃdrasya harī*) (Ai. Brā. 2-24), the Ṛk and the Sāman are Indra's two bay horses, the supports of stotra and śastra; and he is "having the two" of them. The explanation then begins with the Soma shaken in the waters, in the vessels of water such as the अप्सेकधान (*apsekadhāna*) **NOTE**.
 
+### Printed p. 214
+
+> कंपितस्य । अभिषुतस्येत्यर्थः । तथा नृभिः कर्मनेतृभिः कर्मनिर्वाहकैरध्वय्यादिभिः
+> सुतस्याभिषुतस्य ॥ उभयत्र क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानसंज्ञायां
+> चतुर्थ्यर्थे बहुलं छंदसीति षष्ठी ॥ ईदृशं सोममिहास्मिन्यज्ञे पिब । पीत्वा च
+> जतरं स्वकीयं पृणस्व । पूरय च ॥ चादिलोपे विभाषेति प्रथमा तिज्वभक्तिर्न
+> निहन्यते ॥ यं सोममद्रयोऽभिषवग्राणो हे इंद्र तुभ्यं त्वदर्थं मिमिक्षुः
+> सेक्तुमभिषोतुमैच्छन् । अभिषवमकुर्वन्नित्यर्थः ॥ मिह सेचन इत्यस्य सनि लिज्युसि
+> रूपं ॥ हे उक्तवाह उक्थैः शस्त्रैरुह्यमान तेभिस्तैर्मदं वर्धस्व ॥
+
+##### Gist of the bhāṣya
+
+This continues the commentary on the second Ṛk. धूतस्य (*dhūtasya*) means "shaken", that is, pressed. Likewise the Soma is pressed by "men" (नृभिः (*nṛbhiḥ*)), the leaders of the rite, the adhvaryu and the others who carry it out. Sāyaṇa says the verbal action must be taken as understood in both places. The genitive stands for the dative because a "recipient" is implied, by the rule बहुलं छंदसीति (*bahulaṃ chaṃdasīti*). Indra is to drink such Soma here, in this sacrifice, and having drunk it to fill his own belly. The nominative is due to the omission of च (*ca*), and the verb is not accented.
+
+The Soma that the pressing stones desired to sprinkle for Indra, that is, for his sake, means that they performed the pressing. मिमिक्षुः (*mimikṣuḥ*) is the desiderative form of the root मिह (*miha*), "to sprinkle". उक्तवाह (*uktavāha*) addresses Indra as one carried by ukthas, that is, by śastras. With these (the hymns) he is to increase his exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, carried by horses in the form of the Ṛk and Sāman
+- अप्पु (*appu*)—joined with the waters
+- धूतस्य (*dhūtasya*)—shaken
+- नृभिः (*nṛbhiḥ*)—by the priests
+- सुतस्य (*sutasya*)—pressed
+- (the Soma,) इह (*iha*)—in this sacrifice
+- पिब (*piba*)—drink
+- जठरं (*jaṭharaṃ*)—your belly
+- पृणस्व (*pṛṇasva*)—fill
+- उक्तवाहः (*uktavāhaḥ*)—carried by śastras (praises)
+- इंद्र (*iṃdra*)—O Indra
+- यं (*yaṃ*)—which Soma
+- अद्रयः (*adrayaḥ*)—the pressing stones
+- तुभ्यं (*tubhyaṃ*)—for you
+- मिमिक्षुः (*mimikṣuḥ*)—have pressed
+- तेभिः (*tebhiḥ*)—with those
+- मदं (*madaṃ*)—delight
+- वर्धस्व (*vardhasva*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, carried by horses in the form of the Ṛk and Sāman, drink in this sacrifice the Soma that has been shaken together with the waters and pressed by the priests. Fill your belly. O Indra, carried by the śastra-mantras, drink the Soma that the pressing stones have pressed for you, and increase your delight.
+
+##### English translation
+Lord of bay steeds, drink at this ceremony of the juice that has been shaken up with the water, fill your belly with the libation offered by the priests, which the grinding-stones desired to express for you, Indra; do you who are carried by hymns enhance your exhilaration with these (hymns).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first paryāya, among the śastra-mantras to be recited by the priest called Brāhmaṇācchaṃsin, this Ṛk beginning अप्पु धूतस्य (*appu dhūtasya*) is to be recited as a yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, अप्पु धूतस्य हरिवः पिबेहेति याज्या (*appu dhūtasya harivaḥ pibeheti yājyā*) (Ā. 6-4).
+
+### Printed p. 215
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रोग्रां प्री॒तिं वृष्ण॑ इयर्मि स॒त्यां प्र॒य्यै सु॒तस्य॑ हर्यश्व॒  ॑
+> तुभ्यं ।  
+> इंद्र॒ धेना॑भिरि॒ह मा॑दयस्व धी॒भिर्विश्वा॑भिः॒ शच्या॑ गृणा॒नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । उग्रां । पीतिं । वृष्णे । इयर्मि । सत्यां । प्रय्यै । सुतस्य । हरिअश्व । तुभ्यं।  
+> इंद्र । धेनाभिः । इह । मादयस्व । धीभिः । विश्वाभिः । शच्या । गृणानः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीये पर्याये ब्राह्मणाच्छंसिनः प्रोग्रामित्येषा याज्या । सूत्रितं च ।
+> अश्वावति प्रथमः प्रोग्रां पीतिं वृष्ट इयर्मि सत्यामिति याज्या । आ. ६-४ । इति ॥
+> हे हर्यश्वेंद्र वृष्णे वर्षकाय तुभ्यमुग्रामुद्गूर्णं सत्यां पीतिं
+> सोमपानं प्रेयर्मि । प्रेरयामि । किमर्थं । प्रयै प्रगमनाय । कस्य पीतिं ।
+> सुतस्याभिषुतस्य । अतो हे इंद्र शच्या शक्त्या कर्मणा वा युक्तो गृणानः
+> स्तूयमानस्त्वं विश्वाभिः सर्वाभिर्धेनाभिः स्तुतिवाग्निर्विश्वाभिर्धीभिः सर्वैः कर्मभिश्चेहास्मिन्यागे मादयस्व । तृप्यस्व ॥ मद तृप्तियोगे । आत्मनेपदं ॥
+
+##### Gist of the bhāṣya
+
+In the second paryāya this is the yājyā of the Brāhmaṇācchaṃsin. It is prescribed in the sūtra अश्वावति प्रथमः प्रोग्रां पीतिं वृष्ट इयर्मि सत्यामिति याज्या । आ. (*aśvāvati prathamaḥ progrāṃ pītiṃ vṛṣṭa iyarmi satyāmiti yājyā | ā.*) (Ā. 6-4).
+
+O Haryaśva Indra, to you the showerer I send forth the fierce, true drinking of Soma (पीतिं (*pītiṃ*)), so that you may come forth (प्रयै (*prayai*), "for going forth"). The Soma is the pressed one. Therefore, O Indra, you who are endowed with power or with action and are praised, be exhilarated, that is, be satisfied, here in this sacrifice. Be satisfied with all the praises (धेनाभिः (*dhenābhiḥ*), meaning praising speech) and with all the rites (धीभिः (*dhībhiḥ*)). The root मद (*mada*) is used in the sense of satisfaction, and the verb is in the ātmanepada.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरश्व (*haraśva*)—possessing horses called Hari
+- इंद्र (*iṃdra*)—O Indra
+- वृष्णे (*vṛṣṇe*)—to you who grant desired ends
+- तुभ्यं (*tubhyaṃ*)—for you
+- उग्रां (*ugrāṃ*)—powerful
+- सत्यां (*satyāṃ*)—and excellent
+- सुतस्य (*sutasya*)—of the pressed Soma
+- पीतिं (*pītiṃ*)—the drinking
+- प्रयै (*prayai*)—for your coming
+- प्र इयर्मि (*pra iyarmi*)—I offer
+- शच्या (*śacyā*)—endowed with action
+- गृणानः (*gṛṇānaḥ*)—you who are praised by us
+- विश्वाभिः (*viśvābhiḥ*)—all
+- धेनाभिः (*dhenābhiḥ*)—with praises
+- धीभिः (*dhībhiḥ*)—and with rites
+- इह (*iha*)—in this sacrifice
+- मादयस्व (*mādayasva*)—be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who possess horses called Hari, I offer for your coming a powerful and excellent drink of Soma to you who grant desired ends. You who are endowed with action and are praised by us, be satisfied in this sacrifice with all the praises and with all the rites.
+
+### Printed p. 216
+
+##### English translation
+Lord of bay steeds, showerer (of benifits), I send you strong good drink that you may proceed; Indra, who are glorified for your prowess, be exhilarated at this (ceremony) with praises, with all rites.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the second paryāya, among the śastra-mantras to be recited by the priest called Brāhmaṇācchaṃsin, this Ṛk beginning प्रोग्रां (*progrāṃ*) is to be recited as a yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, अश्वावति प्रथमः प्रोग्रां पीतिं वृष्ण इयर्मि सत्यामिति याज्या (*aśvāvati prathamaḥ progrāṃ pītiṃ vṛṣṇa iyarmi satyāmiti yājyā*) (Ā. 6-4).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒ती श॑चीव॒स्तव॑ वी॒र्ये॑ण॒ वयो॒ दधा॑ना उ॒शिज॑ ऋत॒ज्ञाः ।  
+> प्र॒जाव॑दिंद्र॒ मनु॑षो दुरो॒णे त॒स्थुगृ॒णंतः॑ सध॒माद्या॑सः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊती । शचीवः । तव । वीर्येण । वयः । दधानाः । उशिजः । ऋत्ज्ञाः ।  
+> प्रजावत् । इंद्र । मनुषः । दुरोणे । तस्थुः । गृणंतः । सध्माद्यासः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीये पर्याये ब्राह्मणाच्छंसिनः शस्त्र ऊती शचीव इत्येषा याज्या
+> ऊती शचीवस्तव वीर्येणेति याज्या । आ. ६-४ । इति सूत्रितं ॥
+> हे शचीवः शक्तिवन्निंद्र तवोत्यूत्या रक्षणेन तव वीर्येण वयोऽन्नं
+> प्रजावत्प्रजोपेतं दधाना धारयंत उशिजस्त्वामेव कामयमाना ऋतज्ञा ऋतं
+> यज्ञमहर्जानंतः । अंगिरसः सत्रमनुतिष्ठंतः षष्ठेऽहनि प्रयोगमूढाः संतो
+> नाभानेदिष्टेन पारंगता यतः अतस्तेषामृतज्ञत्वं । ईदृशोऽंगिरसो मनुषो
+
+##### Gist of the bhāṣya
+
+In the third paryāya this Ṛk is the yājyā in the śastra of the Brāhmaṇācchaṃsin. It is prescribed in the sūtra ऊती शचीवस्तव वीर्येणेति याज्या (*ūtī śacīvastava vīryeṇeti yājyā*) (Ā. 6-4).
+
+O Śacīvat Indra, the powerful one: by your protection and by your valor, they hold food (वयः (*vayaḥ*)) together with offspring. They are उशिजः (*uśijaḥ*), desiring you alone, and ऋतज्ञाः (*ṛtajñāḥ*), knowing the ṛta, that is, the sacrifice. These are the Aṅgirases. Performing a sattra, they were bewildered in the performance on the sixth day, and were brought across by Nābhānediṣṭha. For that reason they are said to know the ṛta. Such Aṅgirases
+
+### Printed p. 217
+
+> मनुष्यस्य यजमानस्य दुरोणे यज्ञगृहे गृणंतस्तां स्तुवंतः सधमाद्यासः सह
+> माद्यंतस्तस्थुः । तिष्ठंति ॥ मादयतेः कृत्यल्युटो बहुलमिति वचनात्कर्तर्यचो
+> यदिति यत् । छांदसः सदादेशः ॥ अतो वयमपि तिष्ठमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+They stand, in the sacrificial house (दुरोणे (*duroṇe*)) of the man, the sacrificer, praising you and rejoicing together (सधमाद्यासः (*sadhamādyāsaḥ*)). The remainder of the block gives the derivation of the forms. Its closing sense is: therefore we too stand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीवः (*śacīvaḥ*)—O one possessed of action
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—your
+- ऊती (*ūtī*)—by protection
+- वीर्येण (*vīryeṇa*)—and by valor
+- प्रजावत् (*prajāvat*)—together with sons and others
+- वयः (*vayaḥ*)—food
+- दधानाः (*dadhānāḥ*)—those who possess
+- उशिजः (*uśijaḥ*)—those who desire you
+- ऋतज्ञाः (*ṛtajñāḥ*)—those who know the essence of the sacrifice
+- मनुषः (*manuṣaḥ*)—of the sacrificer
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- गृणंतः (*gṛṇaṃtaḥ*)—those who praise
+- सधमाद्यासः (*sadhamādyāsaḥ*)—those who come together and experience joy, the Aṅgirases
+- तस्थुः (*tasthuḥ*)—are awaiting you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of action: by your protection and by your valor, the Aṅgirases, who hold food together with sons and the rest, who desire you, who know the essence of the sacrifice, who praise you in the sacrificer's house, and who come together and share joy, are awaiting you.
+
+##### English translation
+Powerful Indra, they stood in the dwelling of the man (who instituted the rite), enjoing food together with offspring, through your protection and prowess, desiring you, knowing the ceremonies, glorifying you and partaking of the exilaration.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the third paryāya, among the śastra-mantras recited by the priest called Brāhmaṇācchaṃsin, this Ṛk beginning ऊती शचीवः (*ūtī śacīvaḥ*) is to be recited as a yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, ऊती शचीवस्तव वीर्येणेति याज्या (*ūtī śacīvastava vīryeṇeti yājyā*) (Ā. 6-4).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रणी॑तिभिष्टे हर्यश्व सु॒ष्टोः सु॑षु॒म्नस्य॑ पुरु॒रुचो॒ जना॑सः।  
+> मंहि॑ष्ठामू॒तिं वि॒तिरे॒ दधा॑नाः स्तो॒तार॑ इंद्र॒ तव॑ सू॒न्यता॑भिः ॥ ५ ॥
+
+### Printed p. 218
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रनीतिभिः । ते । हरिअश्व । सुस्तोः । सुसुम्मस्य । पुरुरुचः । जनासः ।  
+> मंहिष्ठां । ऊतिं । व्रीतिरे । दधानाः । स्तोतारः । इंद्र । तव । सूनृताभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हर्यश्व हरितवर्णाश्वोपेतेंद्र सुष्टोः सुष्टु स्तूयमानस्य सुषुम्नस्य
+> सुसुखस्य सुधनस्य वा पुरुरुचो बहुदीप्तेस्ते तव प्रणीतिभिः प्रणयनैर्धनादिप्रदानैर्जनासो जनाः स्तोतारः सूनृताभिः प्रियसत्यात्मिकाभिर्वाग्भिः । एतत्प्रणीतिभिरित्यनेन समुच्चीयते । वितिरेऽन्येभ्योऽर्थिभ्यो वितरणाय मंहिष्ठामतिशयेन
+> मंहनीयां तव संबंधिनीमूतिं रक्षां दधाना आसत इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Haryaśva Indra, you who have green-tawny horses: you are well praised (सुष्टोः (*suṣṭoḥ*)). You are सुषुम्नस्य (*suṣumnasya*), of good happiness or good wealth, and पुरुरुचः (*pururucaḥ*), greatly radiant. Through your guidance (प्रणीतिभिः (*praṇītibhiḥ*)), that is, your leadings and gifts of wealth and the like, the people (जनासः (*janāsaḥ*)), your praisers (स्तोतारः (*stotāraḥ*)), with their pleasant and true words (सूनृताभिः (*sūnṛtābhiḥ*)) — Sāyaṇa says this is to be taken together with प्रणीतिभिः (*praṇītibhiḥ*) — are in possession of your most gracious protection (मंहिष्ठां ऊतिं (*maṃhiṣṭhāṃ ūtiṃ*)), your safeguard (दधानाः (*dadhānāḥ*)). They hold it so as to distribute (वितिरे (*vitire*)) to other suppliants. The words "they remain" are to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरश्व (*haraśva*)—possessing horses of green-tawny color
+- इंद्र (*iṃdra*)—O Indra
+- सुष्टोः (*suṣṭoḥ*)—you who are well praised
+- सुषुम्नस्य (*suṣumnasya*)—who grant excellent happiness
+- पुरुरुचः (*pururucaḥ*)—who shine abundantly
+- ते (*te*)—by you
+- प्रणीतिभिः (*praṇītibhiḥ*)—by the wealth given
+- स्तोतारः (*stotāraḥ*)—the praisers
+- जनासः (*janāsaḥ*)—the people
+- सूनृताभिः (*sūnṛtābhiḥ*)—with excellent praises
+- वितिरे (*vitire*)—for surpassing others
+- मंहिष्ठां (*maṃhiṣṭhāṃ*)—venerable
+- तव ऊतिं (*tava ūtiṃ*)—your protection
+- दधानाः (*dadhānāḥ*)—have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have horses of green-tawny color: through the wealth given by you, who are well praised, who grant happiness and who shine abundantly, the people who are your praisers have obtained your venerable protection, by their excellent praises, so as to surpass others.
+
+##### English translation
+Lord of bay horses, by the right guidance of you who are deservedly praised, the bestower of happiness, the illustrious, the men your praisers, O Indra, have acquired your most gracious assistance for excelling (other suppliants) through your favours.
+
+### Printed p. 219
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॒ ब्रह्मा॑णि हरिवो॒ हरि॑भ्यां॒ सोम॑स्य याहि पी॒तये॑  ॒॑
+> सुतस्य ।  
+> इंद्र॑त्वा य॒ज्ञः क्षम॑माणमानड् दा॒श्वा अ॑स्यध्व॒रस्य॑ प्रके॒तः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । ब्रह्माणि । हरिऽवः । हरिभ्यां । सोमस्य । याहि । पीतये । सुतस्य ।  
+> इंद्र । त्वा । यज्ञः । क्षममाणं । आनट् । दाश्वान् । असि । अध्वरस्य । प्रकेतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरिवो हरिवन्निंद्र सुतस्याभिषुतस्य सोमस्य पीतये पानाय ब्रह्माणि
+> परिवृढान्यस्मदीयानि कर्माणि स्तोत्राणि वोप याहि । उपागच्छ ! केन साधनेनेति
+> तदुच्यते । हरिभ्यामश्वाभ्यां । ताभ्यां युक्तेन रथेनेत्यर्थः । यद्वा । हरिभ्यां
+> हरिव इति संबंधनीयं । हे इंद्र क्षममाणं त्वा त्वां यज्ञः सोमयाग आनट् ।
+> व्याप्नोति ॥ नशतेर्लुज् मंत्रे घसेति चेर्लुक् । छंदस्यपि दृश्यत इत्याडागमः ।
+> अश्नोतेरेव वा लिटि च्छांदसस्तत्पत्ययस्य लोपः । अश्नोतेश्वेति नुडागमः ॥
+> अध्वरस्य यागस्य प्रकेतः प्रकर्षण जानंत्वं दाश्वानसि । दातासि कर्मफलस्य ॥
+
+##### Gist of the bhāṣya
+
+O Harivat Indra, for the drinking of the pressed Soma, come to our ब्रह्माणि (*brahmāṇi*), which are "grown great" (*parivṛḍhāni*): our rites or our hymns of praise. Sāyaṇa asks by what means you are to come, and answers: with the two horses (हरिभ्यां (*haribhyāṃ*)), that is, on a chariot yoked with them. Or else हरिभ्यां (*haribhyāṃ*) is to be construed with हरिवः (*harivaḥ*). O Indra, the Soma sacrifice has reached (आनट् (*ānaṭ*), "pervades") you who are patient (क्षममाणं (*kṣamamāṇaṃ*)). You, who know the sacrifice (अध्वरस्य (*adhvarasya*)) excellently (प्रकेतः (*praketaḥ*)), are the giver (दाश्वान् असि (*dāśvān asi*)) of the fruit of the rite. The remainder of the block gives the derivation of आनट् (*ānaṭ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिवः (*harivaḥ*)—O Indra, who possess horses
+- सुतस्य (*sutasya*)—of the pressed
+- सोमस्य (*somasya*)—Soma
+- पीतये (*pītaye*)—for drinking
+- हरिभ्यां (*haribhyāṃ*)—with your horses
+- ब्रह्माणि (*brahmāṇi*)—towards the extended praises
+- उप याहि (*upa yāhi*)—come graciously
+- इंद्र (*iṃdra*)—O Indra
+- क्षममाणं (*kṣamamāṇaṃ*)—patient
+- त्वा (*tvā*)—you
+- यज्ञः (*yajñaḥ*)—the Soma sacrifice
+- आनट् (*ānaṭ*)—approaches
+- अध्वरस्य (*adhvarasya*)—the nature of the sacrifice
+- प्रकेतः (*praketaḥ*)—you who know
+- दाश्वान् असि (*dāśvān asi*)—you are the giver of the fruit of the rite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who possess horses, come graciously with your horses towards the extended praises, for the drinking of the pressed Soma. O Indra, the Soma sacrifice approaches you, who are patient. You, who know the nature of the sacrifice, are the giver of the fruit of the rite.
+
 ---
 
-**Progress note:** Done through printed p. 213. pp. 208-213 (batch API)
+**Progress note:** Done through printed p. 219. pp. 214-219 (batch API)
