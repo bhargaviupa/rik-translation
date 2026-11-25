@@ -7002,6 +7002,281 @@ Soma, the utterer of truth, radiant with truth, truthspeaking, truthful in act, 
 > स॒त्यमु॑ग्रस्य बृह॒तः सं स्र॑वंति संस्र॒वाः ।  
 > सं यं॑ति र॒सिनो॒ रसाः॑ पुना॒नो ब्रह्म॑णा हर॒ इंद्रा॑येंदो॒ परि॑ स्रव ॥ ५ ॥
 
+### Printed p. 153
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यं उग्रस्य । बृहतः । सं । स्रवंति । संस्रवाः ।  
+> सं । यंति । रसिनः । रसाः । पुनानः । ब्रह्मणा । हरे । इंद्राय । इंदो इति ।  
+> परि । स्रव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्यमुग्रस्य संग्रामे सत्येन शत्रूणामुद्गारयितुः । यद्वा । उद्धर्णसत्यस्य । यद्वा । यथार्थभूतमुद्दूर्णं बलं यस्य तस्य ॥ पृषोदरादित्वाद्रूपसिद्धिः ॥ बृहतो महतः सोमस्य तव संस्रवाः सम्यक्स्रवणशीला धाराः सं
+> स्रवंति । सम्यग्गच्छंति । किंच रसिनो रसवतस्तव स्वभूता रसाः सं यंति। संगच्छंते।
+> तस्माद्दे हरे हरितवर्ण सोम ब्रह्मणा ब्राह्मणेन मंत्रेण वा पुनानः पूयमानः स त्वमिंद्रार्थं परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains सत्यमुग्रस्य (*satyamugrasya*) as "of him who by truth makes his enemies vomit up (their strength) in battle"; or "of him whose truth is lofty"; or "of him whose strength is real and lofty". The form is accounted for by the rule of पृषोदरादि (*pṛṣodarādi*). The streams (संस्रवाः (*saṃsravāḥ*)), whose nature is to flow together, of you, the great Soma, flow together, that is, go together properly. Further, your own juices, the juices of you the juicy one, meet together. Therefore, O green-hued Soma, being purified by the Brāhmaṇa or by a mantra, flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्यमुग्रस्य (*satyamugrasya*)—of him who truly has a manifesting strength
+- बृहतः (*bṛhataḥ*)—of the great Soma
+- संस्रवाः (*saṃsravāḥ*)—flowing streams
+- सं स्रवंति (*saṃ sravaṃti*)—flow
+- रसिनः (*rasinaḥ*)—of the juicy Soma
+- रसाः (*rasāḥ*)—juices
+- सं यंति (*saṃ yaṃti*)—flow together
+- हरे (*hare*)—green-hued
+- इंदो (*iṃdo*)—O Soma
+- ब्रह्मणा (*brahmaṇā*)—by the mantra
+- पुनानः (*punānaḥ*)—you who are purified
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+The streams of Soma, who shines with true valour and is great, flow. The juices of the juicy Soma flow together. O green-hued Soma, purified by the mantra or by the Brāhmaṇa, flow for Indra's drinking.
+
+##### English translation
+The united sereams of you who are vast and truly formidable flow united ; the juices of you the juicy one meet together ; green-tinted (Soma) purified by holy prayer, Indu, flow for Indra.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यॆत्र॑ ब्र॒ह्मा प॑वमान छंद॒स्यां॒३॒॑ ३ वाचं॒ वद॑न् ।  
+> ग्रावा॒ सोमे॑ मही॒यते॒ सोमे॑नानं॒दं ज॒नय॒न्निंद्रा॑येंदो॒ परि॑ स्रव ॥ ६ ॥
+
+### Printed p. 154
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । ब्रह्मा । प्रवमान । छंदस्यां । वाचं । वदन् ।  
+> ग्रावा । सोमे । महीयते । सोमेन । आनंदं । जनयन् : इंद्राय ।  
+> इंदो इति । परि । स्रव ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम त्वदर्थं छंदस्यां सप्तछंदोभिः कृतां तेषु
+> भवां वाचं स्तुतिं वदन्नुच्चारयन् सोमे सोमाभिषवार्थं ग्राव्णाभिषवं
+> कुर्वता युक्तस्तेनाभिषुतेन सोमेन देवानामानंदं संतोषं जनयन्नुत्पादयन्न ब्राह्मणो यत्र यस्मिन्देशे महीयते देवैः पूज्यते तत्र हे
+> सोम त्वं परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+O purified Soma, for you the Brāhmaṇa (ब्रह्मा (*brahmā*)) utters a speech (वाचं (*vācaṃ*)), a praise, composed in the seven metres and consisting of them. He is engaged in pressing Soma with the pressing-stone, and by the pressed Soma he produces delight, contentment, for the gods. In whatever region he is honoured by the gods, there, O Soma, flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma, who are purified
+- छंदस्यां (*chaṃdasyāṃ*)—composed of the seven metres
+- वाचं (*vācaṃ*)—the praise-speech
+- वदन् (*vadan*)—reciting
+- सोमे (*some*)—for the obtaining of Soma
+- ग्राव्णा (*grāvṇā*)—with the pressing-stones, pressed
+- सोमेन (*somena*)—with the Soma juice
+- आनंदं (*ānaṃdaṃ*)—delight to the gods
+- जनयन् (*janayan*)—producing
+- ब्रह्मा (*brahmā*)—the Brāhmaṇa
+- यत्र (*yatra*)—in whatever region
+- महीयते (*mahīyate*)—is honoured, in that place
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, who are purified: in whatever region the Brāhmaṇa is honoured who recites praise-speech composed in the seven metres and with Soma pressed by the pressing-stones for the obtaining of Soma produces delight for the gods, in that place flow for Indra's drinking.
+
+##### English translation
+Wherever the Brahman, O purified ( Soma ), reciting the holy rhythmical text, engendering the delight (of the gods) by the Soma (expressed) with the grinding-stone, is reverenced, flow, Indu, for Indra.
+
+### Printed p. 155
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ ज्योति॒रज॑स्रं॒ यस्मि॑ल्लो॒के स्व॑र्हि॒तं ।  
+> तस्मि॒न्मां धे॑हि पवमाना॒मृते॑ लो॒के अक्षि॑त॒ इंद्रा॑येंदो॒ ॑ 
+> परि स्रव ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । ज्योतिः । अजस्रं । यस्मिन् । लोके । स्वः । हितं ।  
+> तस्मिन् । मां । धेहि । पवमान । अमृते । लोके । अक्षिते । इंद्राय । इंदोइति । हरि । स्तव ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान यत्र यस्मिल्लोके ज्योतिः सर्वं तेजोऽजस्रं सर्वदाविनश्वरं वर्तते । यस्मिंश्च लोके स्वरादित्याख्यं ज्योतिर्हितं निहितमस्ति । तस्मिन्न
+> मृते मरणधर्मरहिते आत एवाक्षितेऽक्षीणे लोके मां सोमाभिषवं कुर्वंतं
+> धेहि । निधेहि । तस्मान्मामुत्तमलोकं प्रापयितुं त्वमिंद्राय परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, in the world where all light is unceasing and imperishable, and in which the light called the sun is placed, in that immortal, hence undecaying world, place me who am pressing Soma. To bring me to that highest world, flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva
+- यत्र (*yatra*)—in which world
+- ज्योतिः (*jyotiḥ*)—all radiance
+- अजस्रं (*ajasraṃ*)—is eternal
+- यस्मिन् लोके (*yasmin loke*)—in which world
+- स्वः (*svaḥ*)—the radiance of the sun
+- हितं (*hitaṃ*)—is established
+- तस्मिन् (*tasmin*)—in that
+- अमृते (*amṛte*)—deathless
+- अक्षिते (*akṣite*)—and undecaying
+- लोके (*loke*)—world
+- मां (*māṃ*)—me
+- धेहि (*dhehi*)—place
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, in the world where all radiance is eternal, in which the sun's radiance is established, in that deathless and undecaying world place me. O Soma, flow for Indra's drinking.
+
+##### English translation
+Where light is perpetual, in the world in which the sun is placed, in that immortal imperishable world place me, Pavamana; flow, Indu, for Indra.
+
+### Printed p. 156
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ राजा॑ वैवस्व॒तो यत्रा॑व॒रोध॑नं दि॒वः ।  
+> यत्रा॒मूर्य॒ह्वती॒राप॒स्तत्र॒ माम॒मृतं॑ कृ॒धींद्रा॑येंदो॒ ॑ 
+> परि स्रव ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । राजा । वैवस्वतः । यत्र । अव्यरोधनं । दिवः ।  
+> यत्र । अमूः । यह्वतीः । अपः । तत्र । मां । अमृतं । कृधि । इंद्राय । इंदो  
+> इति । परि । स्वव ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिल्लोके वैवस्वतो विवस्वत्पुत्रो राजा भवति । यत्र च लोके
+> दिव आदित्यस्यावरोधनं भूतानां प्रवेशनं । किंच यत्र लोके यह्वतीर्महत्योमूरिमा गंगाद्या अपस्तिष्ठंति । तत्र तादृशे लोके मामृतं मरणधर्मरहितं कृधि ! कुरु । मम देवत्वं प्रापयेत्यर्थः । ततः कारणात्परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+In the world where Vaivasvata, the son of Vivasvat, is king; where there is the अवरोधनं (*avarodhanaṃ*) of the sun, the entering of beings; and where those great waters, the Gaṅgā and others, abide: in such a world make me immortal, free from the nature of death; that is, bring me to godhood. For that reason flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- यत्र (*yatra*)—in which world
+- वैवस्वतः (*vaivasvataḥ*)—the son of Vivasvat
+- राजा (*rājā*)—is lord
+- यत्र (*yatra*)—in which world
+- दिवः (*divaḥ*)—of the sun
+- अवरोधनं (*avarodhanaṃ*)—there is inner entry
+- यत्र (*yatra*)—in which world
+- यह्वतीः (*yahvatīḥ*)—of great nature
+- अमूः आपः (*amūḥ āpaḥ*)—the purified waters of the Gaṅgā and other rivers are
+- तत्र (*tatra*)—in such a world
+- मां (*māṃ*)—me
+- अमृतं (*amṛtaṃ*)—as deathless
+- कृधि (*kṛdhi*)—make (establish)
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, in the world where the son of Vivasvat is lord, where the sun has inner entry, where the purified waters of the Gaṅgā and other rivers, of great nature, are, in such a world make me deathless. Flow for Indra's drinking.
+
+### Printed p. 157
+
+##### English translation
+Where Vivaswat's son is king, where the inner chamber of the sun (is), where these great waters (are). there make me immortal; flow, Indu, for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+यत्र राजा वैवस्वतः (*yatra rājā vaivasvataḥ*)—The king who is the son of the well-known deity named Vivasvān is called Vaivasvata. It is customary also to call him Yama. Explanations concerning him are given at length in the later sūktas of this same part (Ṛ. Saṃ. 10-10 etc.).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रा॑नुका॒मं चर॑णं त्रिना॒के त्रि॑दि॒वे दि॒वः ।  
+> लो॒का यत्र॒ ज्योति॑ष्मंत॒स्तत्र॒ माम॒मृतं॑ कृ॒धींद्रा॑येंदो॒ ॑ 
+> परि स्रव ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । अनुकामं । चरणं । त्रिनाके । त्रिदिने । दिवः ।  
+> लोकाः । यत्र । ज्योतिष्मंतः । तत्र । मां । अमृतं । कृधि । इंद्राय ; इंदो  
+> इति । परि । स्त्रव ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र त्रिदिवे तृतीयस्यां दिवि द्युलोके त्रिनाके । तत्राधरमध्यमोत्तमभावेन त्रीणि स्थानानि संति । तत्र तृतीये नाक उत्तमे स्थाने दिव आदित्यस्यानुकामं कामानुगुणं चरणमस्ति । किंच यत्र यस्मिल्लोके लोका ज्योतिष्मंतो
+> ज्योतिर्युक्तास्तिष्ठंति । तत्र तादृरे लोके मामृतं कृधि । यथा ममोत्तमलोको भवति तथा त्वमिंद्राय परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+In the third heaven (त्रिदिवे (*tridive*)), the heavenly world, the त्रिनाके (*trināke*), there are three places, lower, middle and highest. In the third, the highest place (नाके (*nāke*)), the sun has movement as he wishes (अनुकामं (*anukāmaṃ*)). Further, in whatever world the worlds stand endowed with light, in such a world make me immortal. That I may get the highest world, flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) त्रिनाके (*trināke*)—which has three places, lower, middle and highest
+- यत्र (*yatra*)—in which
+- त्रिदिवे (*tridive*)—in the third heavenly world
+- दिनः (*dinaḥ*)—of the sun
+- अनुकामं (*anukāmaṃ*)—independent **NOTE**
+
+### Printed p. 158
+- चरणं (*caraṇaṃ*)—movement is
+- यत्र (*yatra*)—where
+- लोकाः (*lokāḥ*)—all worlds
+- ज्योतिष्मंतः (*jyotiṣmaṃtaḥ*)—are full of radiance
+- तत्र (*tatra*)—in such a highest world
+- मां (*māṃ*)—me
+- अमृतं (*amṛtaṃ*)—deathless
+- कृधि (*kṛdhi*)—make and establish
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, in that third heavenly world having three divisions, lower, middle and highest, where the sun has independent movement, where all worlds are full of radiance, in such a highest world make me deathless and establish me. O Soma, flow for Indra's drinking.
+
+##### English translation
+Where in the third heaven, in the third sphere, the sun wanders at will, where the regions are filled with light, there make me immortal: flow, Indu, for Indra.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्र॒ कामा॑ निका॒माश्च॒ यत्र॑ ब्र॒ध्नस्य॑ वि॒ष्टपं॑ ।  
+> स्व॒धा च॒ यत्र॒ तृप्ति॑श्च॒ तत्र॒ माम॒मृतं॑ कृ॒धींद्रा॑येंदो॒ ॑ 
+> परि स्रव ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । कामाः । निकामाः । च । यत्र । ब्रध्नस्य । विष्टपं ।  
+> स्वधा । च । यत्र । तृप्तिः । च । तत्र । मां । अमृतं । कृधि । इंद्राय । इंदो  
+> इति । परि । स्तव ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिल्लोके कामाः काव्यमाना देवा निकामा नितरामवश्यं
+> प्रार्थ्यमाना इंद्रादयश्च विद्यंते । .... .... .... .... । यद्वा ! सूर्येण विना
+> कर्माणि न घटंत इति सर्वेषां कर्मणां मूलभूतस्यादित्यस्य पिष्टपं सहस्थानं
+
+##### Gist of the bhāṣya
+
+In whatever world there are कामाः (*kāmāḥ*), the gods who are desired, and निकामाः (*nikāmāḥ*), Indra and the others who are earnestly and necessarily entreated. (The passage is abridged in print.) Or else: since actions do not come about without the sun, the पिष्टपं (*piṣṭapaṃ*), the common abode, of the sun, who is the root of all actions …. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 152. pp. 146-152 (batch API)
+**Progress note:** Done through printed p. 158. pp. 153-158 (batch API)
