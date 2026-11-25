@@ -26509,6 +26509,241 @@ The cart has not arrived in due season, nor does he acquire fame in battles; (le
 
 In the Sautrāmaṇī, the verse युवं (*yuvaṃ*) is the puronuvākyā for the surā-grahas. The sūtra says: युवं सुराममश्विनेति ग्रहाणां पुरोनुवाक्या । आ. ३-९ । इति॥ (*yuvaṃ surāmamaśvineti grahāṇāṃ puronuvākyā | ā. 3-9 | iti‖*) (Ā. 3-9).
 
+### Printed p. 808
+
+> हे अश्विनाश्विन् हे शुभस्पती उदकस्य शोभनालंकारस्य वा पती पालयितारौ
+> सुरामं सुष्टु रमणसाधनमिदं हविर्विपिपाना विशेषेण पीतवंतौ युवं युवां
+> सचा संतौ संगतावासुरेऽसुरपुत्रे नमुचावेतत्संज्ञेऽसुरे हंतव्ये सति कर्मसु
+> योधनकर्मस्त्विंद्रमावतं । अरक्षतं ॥ विपिपाना । पा पान इत्यस्माल्लिटः कानच् ।
+> बहुलं छंदसीत्यभ्यासस्यॆत्वं । शुभस्पती इति सुबामंत्रित इति षष्ठ्यंतस्य परांगवद्भावात्पष्ट्यामंत्रितसमुदायस्याष्टमिकं सर्वानुदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, lords of the waters or of fair adornment, having drunk the pleasing offering (सुरामं (*surāmaṃ*), the means of delight), you two together protected Indra in the battles when the Asura Namuci, the Asura's son, was to be slain. Sāyaṇa glosses *āvataṃ* as "you protected".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभस्पती (*śubhaspatī*)—those who are guardians of the waters, or those endowed with fair adornment
+- अश्विना (*aśvinā*)—O Aśvin deities
+- सुरामं (*surāmaṃ*)—this delightful offering
+- *epipānā*—having drunk especially
+- युवं (*yuvaṃ*)—you
+- सचा (*sacā*)—being together
+- आसुरे (*āsure*)—the Asura's son
+- नमुचौ (*namucau*)—the Asura named Namuci (who was to be slain)
+- कर्मसु (*karmasu*)—in the acts of battle (in which he was engaged)
+- इंद्रं (*iṃdraṃ*)—Indra
+- अवतं (*avataṃ*)—you protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, guardians of the waters and endowed with fair adornment, after you drank this delightful offering, or Soma, together, you protected Indra while he was fighting the Asura Namuci.
+
+##### English translation
+You, O Ashwins, lords of light, having drunk the grateful (libation), jointly preserved Indra in battle against the Asura Namuchi.
+
+##### विशेषविषयगळु (Special Topics)
+
+We have described in detail how Indra slew the Asura Namuci in Ṛ. Saṃ. Part 19, p. 193.
+In the Sautrāmaṇī sacrifice, when the cups of surā are taken, this Ṛk beginning युवं (*yuvaṃ*) is to be recited as the Puronuvākyā. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, युवं सुराममश्विनेति ग्रहाणां पुरोनुवाक्या (*yuvaṃ surāmamaśvineti grahāṇāṃ puronuvākyā*) (Ā. 3-9).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒त्रमि॑व पि॒तरा॑व॒श्विनो॒भेंद्रा॒वथुः॒ काव्य॑र्दं॒सना॑भिः ।
+
+### Printed p. 809
+
+> यत्सुरामं व्यपिबः शचीभिः सरस्वती त्वा मघवन्न भिष्णक् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुत्रं इव । पितरौ । अश्विना । उभा । इंद्र । अवधुः । काव्यैः । दंसनाभिः ।  
+> यत् । सुरामं । वि । अपिबः । शचीभिः । सरस्वती । त्वा । मघवन् । अभिष्णक् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्तानामेव ग्रहाणां पुत्रमिवेति याज्या । सूत्रितं च । पुत्रमिव
+> पितरावश्विनोभेति याज्या । आ. ३-९ । इति ॥
+> हे इंद्र त्वां पितरौ मातापितरौ पुत्रमिव ॥ पिता मात्रा । पा. १-२-७० । इति
+> पितुः शेषः ॥ उभोभावश्विन् काव्यैः प्रशस्यॆर्दंसनाभिरात्मीयैः कर्मभिरावथुः ॥
+> मध्यमो व्यत्ययेन ॥ आवतुः । ररक्षतुः । त्वं च सुरामं सुखेन रमणसाधनं
+> हविर्यद्यदा शचीभिः शक्तिभिः सार्धं व्यपिबः विशेषेण पीतवानसि तदा हे मघवन्थनवन्निंद्र सरस्वती देवी त्वा त्वामभिष्णक् । उपासेवत ॥ भिष्णक् उपसेवायां ।
+> कंड्वादिः । छांदसो यगभावः । लजि बहुलं छंदसीति शपो लुक् । हल्ज्याब्ब
+> इति लोपः ॥
+
+##### Gist of the bhāṣya
+
+This is the Yājyā for the same cups mentioned before (in the Sautrāmaṇī); he cites the sūtra पुत्रमिव पितरावश्विनोभेति याज्या (*putramiva pitarāvaśvinobheti yājyā*) (Ā. 3-9). O Indra, the two Aśvins protected you with their own praiseworthy deeds, as the two parents (mother and father) protect a son. Here the father alone remains, by Pā. 1-2-70, as the printed text cites it. आवथुः (*āvathuḥ*) is the middle person used by a change and means "they protected". And when you drank the pleasing offering, the easy means of delight, together with your powers (शचीभिः (*śacībhiḥ*)), then, O wealthy Indra, the goddess Sarasvatī served you; अभिष्णक् (*abhiṣṇak*) means "she attended on you".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पितरौ (*pitarau*)—mother and father
+- पुत्रमिव (*putramiva*)—as they protect their sons
+- उभा अश्विना (*ubhā aśvinā*)—both the Aśvin deities
+- काव्यैः (*kāvyaiḥ*)—praiseworthy
+- दंसनाभिः (*daṃsanābhiḥ*)—by their daring deeds
+- आवथुः (*āvathuḥ*)—protected you
+- मघवन् (*maghavan*)—you, O wealthy Indra
+- सुरामं (*surāmaṃ*)—the delight-giving offering
+- यत् (*yat*)—when
+- शचीभिः (*śacībhiḥ*)—with your powers
+- वि अपिबः (*vi apibaḥ*)—you drank
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- त्वा (*tvā*)—you
+- अभिष्णक् (*abhiṣṇak*)—came near
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as parents protect their sons, the two Aśvin deities protected you with their praiseworthy daring deeds. O wealthy Indra, when you drank the delight-giving offering for the increase of your valour, the goddess Sarasvatī came to you and served you.
+
+### Printed p. 810
+
+##### English translation
+Both the Ashwins defended (thee), Indra, like two fathers (defending) a son with glorious exploits; when (triumphing) through the deeds of valour, you drank the grateful libation, Saraswati approached you, O Maghavat.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Sautrāmaṇī cup-taking described earlier, this Ṛk beginning पुत्रमिव (*putramiva*) is to be recited as the Yājyā mantra. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, पुत्रमिव पितरावश्विनोभेति याज्या (*putramiva pitarāvaśvinobheti yājyā*) (Ā. 3-9).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॑ सु॒त्रामा॒ स्ववा॒ अवो॑भिः सुमृळी॒को भ॑वतु वि॒श्ववे॑दाः ।  
+> बाध॑तां॒ द्वेषो॒ अभ॑यं कृणोतु सु॒वीर्य॑स्य॒ पत॑यः  
+> स्याम ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । सुत्रामा । स्ववान् । अवभिः । सुमृळीकः । भवतु । विश्ववेदाः ।  
+> बाधतां । द्वेषः । आभयं । कृणोतु । सुवीर्यस्य । पतयः । स्याम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुत्रामा सुष्टु त्राता स्ववान्थनवान् स इंद्रोऽवोभी रक्षणैः सुमृळीकः
+> सुष्टु सुखयिता भवतु । तथा च विश्ववेदाः सर्वधनः सर्वविद्वान्वा स इंद्रो
+> द्वेषो द्वेष्टन् शत्र्यान् बाधतां । हिनस्तु । अभयं भयरहितं चास्माकं
+> कृणोतु । करोतु । वयं च तत्पसादात्सुवीर्यस्य शोभनवीर्यस्य पतयः
+> स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+May that Indra, the good protector and wealthy one (स्ववान् (*svavān*)), be a good bestower of happiness through his protections. And may he, the all-possessing or all-knowing (विश्ववेदाः (*viśvavedāḥ*)), strike down our hating enemies and make us free from fear. May we, by his grace, become lords of fair valour (सुवीर्यस्य (*suvīryasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुत्रामा (*sutrāmā*)—the one who protects exceedingly
+- स्ववान् (*svavān*)—the wealthy one
+- इंद्रः (*iṃdraḥ*)—Indra
+- अवोभिः (*avobhiḥ*)—with his protections
+- सुमृळीकः (*sumṛḷīkaḥ*)—as one who gives excellent happiness
+
+### Printed p. 811
+- भवतु (*bhavatu*)—let him be
+- विश्ववेदाः (*viśvavedāḥ*)—Indra, who knows everything
+- द्वेषः (*dveṣaḥ*)—the enemies who hate us
+- बाधतां (*bādhatāṃ*)—let him strike down
+- आभयं (*ābhayaṃ*)—freedom from fear for us
+- कृणोतु (*kṛṇotu*)—let him bring about
+- सुवीरस्य (*suvīrasya*)—of all wealth that is excellent and powerful
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may he favour us so that we become
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who protects exceedingly and is wealthy, give excellent happiness with his protections. May Indra, who knows everything, strike down the enemies who hate us. May he make us free from fear. May we become lords of all wealth that is excellent and powerful.
+
+##### English translation
+May Indra, the protector, the possessor of great wealth, the all-knowing, be favourable (to us) with his protections; may he confound our enemies, may he make us free from fear, may we be the parents of excellent male offspring.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्य॑ व॒यं सु॑म॒त् य॒ज्ञय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ।  
+> स सु॒त्रामा॒ स्ववा॒ इंद्रो॑ अ॒स्मे आ॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्य । वयं । सुमत् । यज्जियस्य । अपि । भद्रे । सौमनसे । स्याम ॥  
+> सः । सुत्रामा । स्ववान् । इंद्रः । अस्मे इति । आरात् । चित् । द्वेषः । सनुतः ।  
+> युयोतु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियस्य यज्ञार्हस्य सुमतौ शोभनायामनुग्रहात्मिकायां बुद्धौ
+> वयं स्याम । तद्विषयभूता भवेम । तथा भद्रे कल्याणे सौमनसे सुमसो
+
+##### Gist of the bhāṣya
+
+May we be within the fair, gracious mind (सुमतौ (*sumatau*)) of the sacrifice-worthy Indra, that is, become objects of it; and in his auspicious good-will (सौमनसे (*saumanase*))
+
+### Printed p. 812
+
+> भावेऽपि तदीये स्याम । भवेम । स इंद्रोऽस्मास्वनुग्रहात्मिकां बुद्धिं सौमनस्यं
+> च करोत्वित्यर्थः । सुत्रामा सुष्टु त्राता स्ववान्धनवान् स इंद्रश्चास्मे अस्मत्त
+> आराच्चित् दूरदेश एव द्वेषो द्वेष्टान् सनुतः। अंतर्हितनामृतत् । अंतर्हितानुयोतु । पृथक्करोतु ॥
+> त्रातारमिंद्रमित्यस्मिन्वर्गे । ४-७-३२ । व्याख्याते । अक्षरार्थस्तु । सुत्राता
+> धनवान् सर्वस्य वेदितेंद्रो रक्षणैः सुष्टु सुखयिता भवतु शत्रुंश्च हिनस्तु भयराहित्यं च करोत्वस्माकं । अतो वयं शोभनवीर्योपेतस्य धनस्य स्वामिनो
+> भवेमेति ॥ सप्तम्यास्तु । तस्य यज्ञार्हस्येंद्रस्यानुग्रहबुद्धौ भजनीये सौमनस्ये
+> च वयं विषयभूता भवेम । सुष्टु त्राता धनवान् स इंद्रोऽस्मत्तो दूरदेशे
+> द्वेष्टानंतर्धानं योजयत्विति ॥
+
+##### Gist of the bhāṣya
+
+we also, may we be. The sense is: may that Indra produce in us a gracious mind and good-will. May the same Indra, the good protector and wealthy one, keep the hating enemies (द्वेषः (*dveṣaḥ*)) far away from us, hidden (सनुतः (*sanutaḥ*) means "concealed"), and separate them (युयोतु (*yuyotu*)). Sāyaṇa says the passage *trātāramiṃdraṃ* in 4-7-32 has been explained already in this section. The word-by-word sense is: may Indra, the good protector, wealthy and knower of all, be a good giver of happiness through his protections, strike down enemies and give us freedom from fear; therefore may we become lords of wealth endowed with fair valour. As for the seventh-case construction (सप्तम्यास्तु (*saptamyāstu*)): may we become objects in the gracious mind of that sacrifice-worthy Indra and in his adorable good-will; and may that good protector, the wealthy Indra, bring about the concealment of the hater far from us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्य यज्ञियस्य (*tasya yajñiyasya*)—of that Indra, worthy of worship
+- सुमत् (*sumat*)—to the gracious mind, as its objects
+- वयं (*vayaṃ*)—we
+- स्याम (*syāma*)—may we be
+- भद्रे (*bhadre*)—auspicious
+- सौमनसे अपि (*saumanase api*)—may we also be objects of his affection
+- सुत्रामा (*sutrāmā*)—the one who protects exceedingly
+- स्ववान् (*svavān*)—the wealthy one
+- स इंद्रः (*sa iṃdraḥ*)—that same Indra
+- द्वेषः (*dveṣaḥ*)—the enemies who hate us
+- अस्मे (*asme*)—than ourselves
+- आराच्चित् (*ārāccit*)—in a place extremely far away
+- सनुतः (*sanutaḥ*)—out of sight
+- युयोतु (*yuyotu*)—let him keep them apart, not joined with us
+
+##### भावार्थ (Bhāvārtha)
+
+May we be objects of the gracious mind of that same Indra, who is worthy of worship. May we also be objects of his auspicious affection. May that same Indra, who protects exceedingly and is wealthy, keep the enemies who hate us in a place extremely far from us, out of our sight and not joined with us.
+
+##### English translation
+May we be ever in (the enjoyment of) the favour of that adorable divinity (retained) in his favourable thoughts, and may the protecting and opulent Indra drive away far off from us those who hate us
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्मे (*asme*)—Yāska says this word is used in all seven case-meanings, and as an example he quotes from this Ṛk the passage अस्मे आराच्चिद्वेषः सनुतर्युयोतु (*asme ārāccidveṣaḥ sanutaryuyotu*)
+
+### Printed p. 813
+We have explained in detail the seven kinds of case usage of the word अस्मे (*asme*) in Ṛ. Saṃ. Part 10, p. 170.
+The last two Ṛks of this sūkta, that is, Ṛks 6 and 7, were recited earlier as Ṛks 12 and 13 of Sūkta 47 of Maṇḍala 6.
+
+## Sūkta 132 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईजानमिति सप्तर्चं चतुर्थं सूक्तं नृमेधपुत्रस्य शकपूतस्यार्षं मित्रावरुणदेवताकं । आद्या तु लिंगोक्तद्युभूम्यश्विदेवताका न्यंकुसारिणी द्वितीयद्वादशकत्र्यष्टकवती । द्वितीयाषष्ठौ प्रस्तारपंक्ति द्विद्वादशकद्व्यष्टकवती । सप्तमी
+> महासतो बृहती त्र्यष्टकद्विद्वादशकवती । शिष्वासिस्तिस्रो विराडूपा एकादशिनस्त्रयोऽष्टकश्चेति लक्षणलक्षिताः । तथा चानुक्रांतं । ईजानं शकपूतो नार्मेधो मैत्रावरुणं न्यंकुसारिण्यद्या लिंगोक्तदेवतांत्या महासतोबृहत्युपाद्योपांत्ये
+> प्रस्तारपंक्ति शेषा विराडूपा इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning ईजानं (*ījānaṃ*) has seven Ṛks and is the fourth sūkta (of the anuvāka). Its seer is Śakapūta, son of Nṛmedha, and its deity Mitrāvaruṇa. The first Ṛk has as its deities those named by the gender-marks in it: heaven, earth and the Aśvins. It is a Nyaṅkusāriṇī, with a second pāda of twelve syllables and three of eight. The second and sixth are Prastārapaṅktis with two twelves and two eights. The seventh is a Mahāsatobṛhatī, with two twelves and three eights. The remaining three are Virāḍrūpās, with three elevens and an eight. He cites the Anukramaṇī: ईजानं शकपूतो नार्मेधो मैत्रावरुणं न्यंकुसारिण्यद्या लिंगोक्तदेवतांत्या महासतोबृहत्युपाद्योपांत्ये प्रस्तारपंक्ति शेषा विराडूपा इति ॥ (*ījānaṃ śakapūto nārmedho maitrāvaruṇaṃ nyaṃkusāriṇyadyā liṃgoktadevatāṃtyā mahāsatobṛhatyupādyopāṃtye prastārapaṃkti śeṣā virāḍūpā iti ‖*). He then says the viniyoga has been given.
+
+##### Anuvāda
+
+This sūkta beginning ईजानं (*ījānaṃ*) is the fourth sūkta in the eleventh anuvāka. It has seven Ṛks. Its seer is Śakapūta, son of Nṛmedha; its deities are Mitra and Varuṇa. For the first Ṛk of this sūkta the deities indicated by the gender-marks (Heaven, Earth and the Aśvin deities) are the deities; for the remaining Ṛks 2-7 Mitra and Varuṇa are the deities. The first Ṛk of this sūkta is in the metre named Nyūṅkusāriṇī. A Ṛk in this metre has four pādas, of which the second has 12 syllables and the other three have eight each. The second and sixth Ṛks are in the metre named Prastārapaṅkti. A Ṛk in this metre has four pādas, of which the first two have twelve syllables each and the last two have eight each. The seventh Ṛk is in the metre named Mahāsatobṛhatī. A Ṛk in this metre has five pādas, of which the first two have twelve syllables each and the last three have eight each. The remaining three Ṛks are in the metre named Virāḍrūpā. A Ṛk in this metre has eleven syllables in each of the first three pādas and eight syllables in the last pāda. In the Anukramaṇī it is said: ईजानं शाकपूतो नार्मेधो मैत्रावरुणं न्यूकुसारिण्याद्या लिंगोक्तदेवतांत्या महासतोबृहत्युपाद्योपांत्ये प्रस्तारपंक्ति शेषा विराड्रूपाः (*ījānaṃ śākapūto nārmedho maitrāvaruṇaṃ nyūkusāriṇyādyā liṃgoktadevatāṃtyā mahāsatobṛhatyupādyopāṃtye prastārapaṃkti śeṣā virāḍrūpāḥ*). The viniyoga has been stated earlier.
+
 ---
 
-**Progress note:** Done through printed p. 807. pp. 802-807 (batch API)
+**Progress note:** Done through printed p. 813. pp. 808-813 (batch API)
