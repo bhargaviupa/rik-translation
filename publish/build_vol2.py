@@ -120,7 +120,7 @@ def build(mode='full'):
 </body></html>'''
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'vol2_{mode}.html').write_text(doc, encoding='utf-8')
-    HTML(string=doc, base_url=str(PUB)).write_pdf(PUB.parent / 'vol2' / 'review' / f'vol2_{mode}.pdf')
+    HTML(string=B.footer_marks(doc), base_url=str(PUB)).write_pdf(PUB.parent / 'vol2' / 'review' / f'vol2_{mode}.pdf')
     print(f'notes: {len(notes)}; sūktas: {len(suktas)}; wrote vol2/review/vol2_{mode}.pdf')
 
 if __name__ == '__main__':

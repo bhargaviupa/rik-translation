@@ -493,7 +493,6 @@ How did the word "Veda" come about? To trace this, one looks to the Samhita and 
 
 > वेदेन वै देवा असुराणां नित्यं वेद्यनुविन्दन्त तद्देवस्य वेदत्वम् ।
 >
-> वेदेन वै देवा असुराणां नित्यं वेद्यम् अनुविन्दन्त तद् देवस्य वेदत्वम्
 > *vedena vai devā asurāṇāṃ nityaṃ vedyam anuvindanta tad devasya vedatvam*
 >
 > "By the Veda, the gods repeatedly discovered/came to know the [hidden] nature of the Asuras — that indeed is the 'Veda-ness' belonging to the gods."
@@ -508,7 +507,6 @@ The Taittiriya Brahmana states the same. Words appearing in its authoritative pa
 
 > आयुरस्मिन् विद्यते अनेन वा आयुर्विन्दतीति आयुर्वेदः ।
 >
-> आयुर् अस्मिन् विद्यते अनेन वा आयुर् विन्दति इति आयुर्वेदः*
 > *āyur asmin vidyate anena vā āyur vindati iti āyurvedaḥ* (Sutra-sthana 1-14)
 >
 > "That in which longevity (ayus) resides, or that by which one obtains longevity — hence, Ayurveda."
@@ -529,7 +527,6 @@ In the introduction to his own Rigveda commentary, Dayananda Sarasvati writes as
 
 > विदन्ति-जानन्ति विद्यन्ते-भवन्ति, विन्दन्ति अथवा इन्दन्ते-लभन्ते, विन्दन्ति-विचारयन्ति । सर्वे मनुष्याः सर्वाः सत्यविद्या यैर्येषु वा तथा विद्वांसश्च भवन्ति ते वेदाः ।
 >
-> विदन्ति = जानन्ति; विद्यन्ते = भवन्ति; विन्दन्ति/इन्दन्ते = लभन्ते; विन्दन्ति = विचारयन्ति. सर्वे मनुष्याः सर्वाः सत्य-विद्या यैर् येषु वा तथा विद्वांसश् च भवन्ति ते वेदाः.
 > *vidanti = jānanti; vidyante = bhavanti; vindanti/indante = labhante; vindanti = vicārayanti. sarve manuṣyāḥ sarvāḥ satya-vidyā yair yeṣu vā tathā vidvāṃsaś ca bhavanti te vedāḥ.*
 >
 > "They know; they come to be; they obtain; they deliberate. Those [texts] by which, or in which, all people come to possess all true knowledge and become learned — those are the Vedas."
@@ -540,7 +537,6 @@ In any case, "Veda" has consistently been used to refer to the Vedic Samhitas th
 
 > शब्दार्थमारम्भणानां तु कर्मणां समाम्नायसमाप्तौ वेदशब्दः ।
 >
-> शब्दार्थ-मारम्भणानां तु कर्मणां समाम्नाय-समाप्तौ वेद-शब्दः
 > *śabdārtha-mārambhaṇānāṃ tu karmaṇāṃ samāmnāya-samāptau veda-śabdaḥ*
 >
 > "The word 'Veda' [applies to] the complete, traditionally-transmitted corpus of those rites whose word and meaning are set forth."
@@ -585,7 +581,6 @@ There are four Vedas: Rigveda, Yajurveda, Samaveda, and Atharvaveda. Let us exam
 
 > तस्माद्यज्ञात्सर्वहुतः ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत ॥
 >
-> तस्माद् यज्ञात् सर्वहुतः ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद् यजुस् तस्माद् अजायत ॥*
 > *tasmād yajñāt sarvahutaḥ ṛcaḥ sāmāni jajñire | chandāṃsi jajñire tasmād yajus tasmād ajāyata ||* (from the Purusha-sukta, Rigveda 10-90-9)
 >
 > "From that all-oblation sacrifice were born the Rig verses and the Sama chants; from it were born the meters, and from it the Yajus came into being."
@@ -594,7 +589,6 @@ That is: from the sacrifice performed by the gods, the Rigveda arose first, then
 
 > यद्वै यज्ञस्य साम्ना यजुषा क्रियते शिथिलं तदृग्भिश्च तद्दृढम् ।
 >
-> यद् वै यज्ञस्य साम्ना यजुषा क्रियते शिथिलं तद् ऋग्भिश् च तद् दृढम्
 > *yad vai yajñasya sāmnā yajuṣā kriyate śithilaṃ tad ṛgbhiś ca tad dṛḍham*
 >
 > "Whatever part of the yajna is performed loosely by Sama and Yajus [alone] is made firm by the Rig[-verses]."
@@ -603,7 +597,6 @@ That is: performing the rites of a yajna according to the Rigveda makes them mor
 
 > ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणमिति ।
 >
-> ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदम् आथर्­वणम् इति
 > *ṛgvedaṃ bhagavo'dhyemi yajurvedaṃ sāmavedam āthar­vaṇam iti*
 >
 > "Venerable one, I have studied the Rigveda, the Yajurveda, the Samaveda, and the Atharva[veda]."
@@ -996,7 +989,6 @@ The word "Upanishad" literally suggests "sitting near" (upa + ni + sad) — a di
 
 > इदं वाव तच्छ्रेष्ठाय पुत्राय पिता ब्रह्म प्रब्रूयात्प्रणाय्याय वा चान्तेवासिने ।
 >
-> इदं वाव तच् छ्रेष्ठाय पुत्राय पिता ब्रह्म प्रब्रूयात् प्रणाय्याय वा चान्तेवासिने
 > *idaṃ vāva tac chreṣṭhāya putrāya pitā brahma prabrūyāt praṇāyyāya vā cāntevāsine*
 >
 > "This indeed should a father teach to his most worthy son, or to a devoted resident-disciple."
@@ -1048,7 +1040,6 @@ Shiksha is the discipline teaching the correct pronunciation, accent, and clarit
 
 > शिक्ष्यन्ते वेदमन्त्राणाम् उद्दिश्यन्ते स्वरवर्णादयो यत्रासौ शिक्षा ।
 >
-> शिक्ष्यन्ते वेद-मन्त्राणाम् उद्दिश्यन्ते स्वर-वर्णादयो यत्रासौ शिक्षा
 > *śikṣyante veda-mantrāṇām uddiśyante svara-varṇādayo yatrāsau śikṣā*
 >
 > "That [text] in which the accents, sounds, and related features of Vedic mantras are taught — that is Shiksha."
@@ -1118,7 +1109,6 @@ Each Veda (and each of its shakhas) traditionally had all four kinds of Sutra co
 
 > बोधितानां कर्मणां सुखावबोधाय भगवान् बोधायनः कल्पसूत्रमकल्पयत् ।
 >
-> बोधितानां कर्मणां सुखावबोधाय भगवान् बोधायनः कल्पसूत्रम् अकल्पयत्
 > *bodhitānāṃ karmaṇāṃ sukhāvabodhāya bhagavān bodhāyanaḥ kalpasūtram akalpayat*
 >
 > "For the easy comprehension of the rites already taught, the venerable Baudhayana composed the Kalpa-sutra."
@@ -1200,7 +1190,6 @@ Beyond these life-cycle rites, a householder has ongoing daily duties, among whi
 
 > पञ्च वा एते महायज्ञाः सततं प्रतायन्ते सततं संतिष्ठन्ते देवयज्ञः पितृयज्ञो भूतयज्ञो मनुष्ययज्ञो ब्रह्मयज्ञ इति ।
 >
-> पञ्च वा एते महायज्ञाः सततं प्रतायन्ते सततं संतिष्ठन्ते देव-यज्ञः पितृ-यज्ञो भूत-यज्ञो मनुष्य-यज्ञो ब्रह्म-यज्ञ इति
 > *pañca vā ete mahāyajñāḥ satataṃ pratāyante satataṃ saṃtiṣṭhante deva-yajñaḥ pitṛ-yajño bhūta-yajño manuṣya-yajño brahma-yajña iti*
 >
 > "These five great sacrifices are continuously extended and continuously maintained: the sacrifice to the gods, the sacrifice to the ancestors, the sacrifice to [all] beings, the sacrifice to humankind, and the sacrifice of sacred study."
@@ -1310,14 +1299,12 @@ The previous chapter raised the question of how the Veda came to be divided into
 
 > पूर्वं भगवता कृष्णद्वैपायनेन जगदुपकारार्थम् एकीभूतस्य तस्य वेदस्य व्यस्तम् ।
 >
-> पूर्वं भगवता कृष्ण-द्वैपायनेन जगद्-उपकारार्थम् एकी-भूतस्य तस्य वेदस्य व्यस्तम्
 > *pūrvaṃ bhagavatā kṛṣṇa-dvaipāyanena jagad-upakārārtham ekī-bhūtasya tasya vedasya vyastam*
 >
 > "Formerly, by the venerable Krishna-Dvaipayana [Vyasa], for the benefit of the world, this Veda — which had been one unified whole — was divided."
 
 > सकलवेदपरिपालनं तैश्चैव पुरुषेणेति शाखाभेदप्रवृत्तिः ।
 >
-> सकल-वेद-परिपालनं तैश् चैव पुरुषेणेति शाखा-भेद-प्रवृत्तिः
 > *sakala-veda-paripālanaṃ taiś caiva puruṣeṇeti śākhā-bheda-pravṛttiḥ*
 >
 > "So that the entire Veda could be preserved by these very people [his disciples] — this is how the practice of dividing it into separate branches (shakhas) came about."
@@ -1400,7 +1387,6 @@ Among the many disciples who studied under the sage Vyasa, two taught the Rigved
 
 > शैलो होता वसोः पुत्रो धौम्येन सहितोऽभवत् ।
 >
-> शैलो होता वसोः पुत्रो धौम्येन सहितोऽभवत्
 > *śailo hotā vasoḥ putro dhaumyena sahito'bhavat*
 >
 > "Shaila, the Hotr priest, son of Vasu, was present together with Dhaumya."
@@ -1425,7 +1411,6 @@ Patanjali, in the Paspashahnika section of his Mahabhashya, writes:
 
 > एकविंशतिधा बाह्वृच्यम् ।
 >
-> एकविंशतिधा बाह्वृच्यम्
 > *ekaviṃśatidhā bāhvṛcyam*
 >
 > "The Bahvricha [Rigveda tradition] exists in twenty-one forms [i.e., has 21 shakhas]."
@@ -1442,7 +1427,6 @@ A further, more granular breakdown of Rigveda sub-branches appears in a citation
 
 > सर्वे ते बह्वृचाः पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः । तद्यथा शाकलाः । बाष्कलाः । माण्डव्या इति । तत्र दश शाकलाः । अष्टौ बाष्कलाः । सप्त माण्डव्या इत्ययं ब्राह्मणबद्ध्यचानां शाखा पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः ।
 >
-> सर्वे ते बह्वृचाः पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः । तद्यथा शाकलाः । बाष्कलाः । माण्डव्या इति । तत्र दश शाकलाः । अष्टौ बाष्कलाः । सप्त माण्डव्या इत्य् अयं ब्राह्मण-बद्ध्यचानां शाखा पुष्पिशिखो भूत्वा पञ्चविंशतिधा भिन्नाः ।
 > *sarve te bahvṛcāḥ puṣpiśikho bhūtvā pañcaviṃśatidhā bhinnāḥ | tadyathā śākalāḥ | bāṣkalāḥ | māṇḍavyā iti | tatra daśa śākalāḥ | aṣṭau bāṣkalāḥ | sapta māṇḍavyā ity ayaṃ brāhmaṇa-baddhyacānāṃ śākhā puṣpiśikho bhūtvā pañcaviṃśatidhā bhinnāḥ |*
 >
 > "All these Bahvrichas, having become 'Pushpishikha,' are divided into twenty-five kinds — namely, the Shakalas, the Bashkalas, and the Mandavyas. Of these: ten are Shakala, eight are Bashkala, and seven are Mandavya. This [Brahmana-linked] shakha grouping, having become Pushpishikha, is thus divided into twenty-five kinds."
@@ -1599,7 +1583,6 @@ The Anuvakanukramani gives the Shakalya Samhita's word-count:
 
 > शाकल्यदृष्टे पदलक्ष्मेकं सार्धं च वेदे त्रिसहस्रयुक्तम् । शतानि चाष्टौ दशकद्वयं च सदानि षट् चेति हि चर्चितानि ॥ ४५ ॥
 >
-> शाकल्य-दृष्टे पदलक्ष्मेकं सार्धं च वेदे त्रिसहस्रयुक्तम् । शतानि चाष्टौ दशकद्वयं च सदानि षट् चेति हि चर्चितानि ॥
 > *śākalya-dṛṣṭe padalakṣmekaṃ sārdhaṃ ca vede trisahasrayuktam | śatāni cāṣṭau daśakadvayaṃ ca sadāni ṣaṭ ceti hi carcitāni ||*
 >
 > — summarized as: the Shakalya Samhita contains, in total, **1,53,826 words**.
@@ -1672,7 +1655,6 @@ The Bashkala Pratishakhya rule is found in Varadatta-suta Anartiya's Sankhyayana
 
 > एकं सहस्रं दश सप्त चैवाष्टावतश्च बाष्कलक्षेऽधिकानि । तान्स्वारणे शाकले शैशिरीये वदन्ति शिष्टा न शिलेषु विप्राः ॥ ३६ ॥
 >
-> एकं सहस्रं दश सप्त चैवाष्टाव् अतश् च बाष्कलक्षेऽधिकानि । तान् स्वारणे शाकले शैशिरीये वदन्ति शिष्टा न शिलेषु विप्राः ॥
 > *ekaṃ sahasraṃ daśa sapta caivāṣṭāv ataś ca bāṣkalakṣe'dhikāni | tān svāraṇe śākale śaiśirīye vadanti śiṣṭā na śileṣu viprāḥ ||*
 >
 > "One thousand and seventeen, and eight more besides — these [additional mantras] belong to the Bashkala [tradition]; learned Brahmins declare them absent in the Shakala/Shaishiriya svarana [reading], not [merely] omitted by chance."
@@ -1958,7 +1940,6 @@ Looking at all these variants, the author settles on three reconstructed name-pa
 
 > शैंगक्ष्वो द्वालकस्था । शैंग्य बैद्वालकस्था । शैंग्यक शैलालकस्था ॥
 >
-> शैङ्गक्ष्वो द्वालकस्था । शैङ्ग्य बैद्वालकस्था । शैङ्ग्यक शैलालकस्था ॥
 > *śaiṅgakṣvo dvālakasthā | śaiṅgya baidvālakasthā | śaiṅgyaka śailālakasthā ||*
 
 (reconstructed as **Shaingya-Ikshalaka, Shaingya-Baidalaka,** and **Shaingyaka-Shailalaka**).
@@ -2017,7 +1998,6 @@ That is: Bashkali Bharadvaja had three disciples.
 
 > आर्व्व । कथाजन । तथाजन । कासार ।
 >
-> आर्व्व । कथाजन । तथाजन । कासार ।
 > *ārvva | kathājana | tathājana | kāsāra |*
 
 — again, no confident determination among these is possible.
@@ -2026,7 +2006,6 @@ That is: Bashkali Bharadvaja had three disciples.
 
 > एकविंशतिधा बाह्वृच्यम् । सप्तदशधा इत्येके ।
 >
-> एकविंशतिधा बाह्वृच्यम् । सप्तदशधा इत्य् एके ।
 > *ekaviṃśatidhā bāhvṛcyam | saptadaśadhā ity eke |*
 >
 > "The Bahvricha [tradition] is twenty-one-fold; some say seventeen-fold."
@@ -2239,7 +2218,6 @@ Commentators generally gloss this as "brahmana-sadrsham anubrahmanam" — "that 
 
 > अश्वा वेतानि हविर्गोंशि भवन्ति ॥
 >
-> अश्वा वेतानि हविर्-गोम्शि भवन्ति
 > *aśvā vetāni havir-gomśi bhavanti*
 >
 > "These become the horse-related oblation materials..."
@@ -2248,7 +2226,6 @@ as "anubrāhmaṇaṃ ca bhavanti" — "and these become Anubrahmana." Madhava's
 
 > अथ राजसूयस्यानुब्राह्मणम् ॥
 >
-> अथ राजसूयस्यानुब्राह्मणम्
 > *atha rājasūyasyānubrāhmaṇam*
 >
 > "Now, the Anubrahmana of the Rajasuya [rite]..."
@@ -2283,7 +2260,6 @@ The Charanavyuha (third Kandika) quotes a verse from the *Mahanarnava*:
 
 > तुंगा कृष्णा तथा गोदा सह्याद्रिशिखरावधि । आ आंध्रदेशपर्यंतं बह्वृचाश्चैवशालायनी ॥
 >
-> तुङ्गा कृष्णा तथा गोदा सह्याद्रि-शिखरावधि, आ आन्ध्र-देश-पर्यन्तं बह्वृचाश् चैव-शालायनी
 > *tuṅgā kṛṣṇā tathā godā sahyādri-śikharāvadhi, ā āndhra-deśa-paryantaṃ bahvṛcāś caiva-śālāyanī*
 >
 > "From the Tunga, Krishna, and Godavari [rivers], up to the peaks of the Sahyadri mountains, extending as far as the Andhra region — there the Bahvricha [tradition], via the Ashvalayana line, [is established]."
@@ -2296,7 +2272,6 @@ The Brahmana of the Sankhyayana shakha is called the Kaushitaki-Brahmana (some i
 
 > उत्तरे गुर्जरे देशे वेदो ब्रह्म च ईरितः । कौषीतकब्राह्मणं च शाखा शांखायनी स्थिता ॥
 >
-> उत्तरे गुर्जरे देशे वेदो ब्रह्म च ईरितः, कौषीतक-ब्राह्मणं च शाखा शाङ्खायनी स्थिता
 > *uttare gurjare deśe vedo brahma ca īritaḥ, kauṣītaka-brāhmaṇaṃ ca śākhā śāṅkhāyanī sthitā*
 >
 > "In the northern Gujarat region, the Veda and Brahman are proclaimed; there, the Kaushitaki-Brahmana and the Sankhyayana shakha are established."
@@ -2316,7 +2291,6 @@ Certain texts are meant specifically for Brahmins, called Aranyakas, generally r
 
 > अरण्याध्ययनादेतदारण्यकमितीर्यते । अरण्ये तदधीयीतेत्येवं वाक्यं प्रचक्ष्यते ॥
 >
-> अरण्याध्ययनाद् एतद् आरण्यकम् इतीर्यते । अरण्ये तद् अधीयीतेत्य् एवं वाक्यं प्रचक्ष्यते ॥
 > *araṇyādhyayanād etad āraṇyakam itīryate | araṇye tad adhīyītety evaṃ vākyaṃ pracakṣyate ||*
 >
 > "Because it is studied in the forest, this is called 'Āraṇyaka', for the injunction is declared thus: 'one should study it in the forest.'"
@@ -2338,7 +2312,6 @@ Tradition holds that Mahidasa (promulgator of the Aitareya Brahmana) composed th
 
 > शौनकीया दश ग्रन्थास्ते ऋग्वेदगुप्स्रये । अष्टानुक्रमणीत्याद्या छन्दस्सी दैवती तथा ॥ अनुवाकानुक्रमणे सूक्तानुक्रमणे तथा । ऋक्सादयोर्विद्वांश्च बार्हद्दैवतमेव च ॥ प्रातिशाख्यं शौनकीयं स्वार्थं दशमनुच्यते ।
 >
-> शौनकीया दश ग्रन्थास् ते ऋग्वेद-गुप्स्रये । अष्टानुक्रमणीत्याद्या छन्दस्सी दैवती तथा ॥ अनुवाकानुक्रमणे सूक्तानुक्रमणे तथा । ऋक्सादयोर् विद्वांश् च बार्हद्दैवतम् एव च ॥ प्रातिशाख्यं शौनकीयं स्वार्थं दशम् अनुच्यते ।
 > *śaunakīyā daśa granthās te ṛgveda-gupsraye | aṣṭānukramaṇītyādyā chandassī daivatī tathā || anuvākānukramaṇe sūktānukramaṇe tathā | ṛksādayor vidvāṃś ca bārhaddaivatam eva ca || prātiśākhyaṃ śaunakīyaṃ svārthaṃ daśam anucyate |*
 >
 > "These are Shaunaka's ten texts for the protection of the Rigveda: the Ashtaka-anukramani and similar works, the Chandas[-anukramani], and likewise the Daivata[-anukramani]; the Anuvaka-anukramani, and likewise the Sukta-anukramani; [a work] on the words of the Rik and related matters, and the Brihaddaivata itself; and the Pratishakhya composed by Shaunaka is called the tenth, for its own purpose."
@@ -2347,7 +2320,6 @@ And further:
 
 > शौनकीयं च दशकं तच्छिष्यस्य त्रिकं तथा । द्वादशाध्यायकं सूक्तं चतुःसद्गृह्यमेव च ॥ चतुर्थारण्यकं चेति ह्याश्वलायनसूत्रकम् ॥
 >
-> शौनकीयं च दशकं तच्-छिष्यस्य त्रिकं तथा । द्वादशाध्यायकं सूक्तं चतुः-सद्-गृह्यम् एव च ॥ चतुर्थारण्यकं चेति ह्य् आश्वलायन-सूत्रकम् ॥
 > *śaunakīyaṃ ca daśakaṃ tac-chiṣyasya trikaṃ tathā | dvādaśādhyāyakaṃ sūktaṃ catuḥ-sad-gṛhyam eva ca || caturthāraṇyakaṃ ceti hy āśvalāyana-sūtrakam ||*
 >
 > "Thus Shaunaka's ten [texts]; and likewise his disciple's [Ashvalayana's] three: the twelve-chapter Sukta[-related Shrautasutra], the four-part Grihyasutra, and the fourth being the Aranyaka — these together constitute the Ashvalayana-sutra corpus."
@@ -2391,7 +2363,6 @@ At the end of this Aranyaka appears a closing statement:
 
 > गुणाख्याश्चांबायनादस्माभिरधीतम् ॥ १५ ॥
 >
-> गुणाख्याश् चाम्बायनाद् अस्माभिर् अधीतम् ॥
 > *guṇākhyāś cāmbāyanād asmābhir adhītam ||*
 >
 > "This has been learned by us from Gunakhya-Sankhyayana."
@@ -2407,7 +2378,6 @@ Before reciting a sukta's mantra, one must first state that sukta's rishi, meter
 
 > अविदित्वा ऋषिं छन्दो दैवतं योगमेव च । योऽध्यापयेज्जपेद्वापि पापीयाज्जायते तु सः ॥
 >
-> अविदित्वा ऋषिं छन्दो दैवतं योगम् एव च । योऽध्यापयेज् जपेद् वापि पापीयाज् जायते तु सः ॥
 > *aviditvā ṛṣiṃ chando daivataṃ yogam eva ca | yo'dhyāpayej japed vāpi pāpīyāj jāyate tu saḥ ||*
 >
 > "Without knowing the rishi, the meter, the deity, and the [ritual] application, whoever teaches or recites [a mantra] becomes, indeed, a greater sinner."
@@ -2416,7 +2386,6 @@ What exactly are this "rishi," "deity," and "meter"? Katyayana, in the Sarvanukr
 
 > यस्य वाक्यं स ऋषिः । या तेनोक्ता सा देवता । यदक्षरपरिमाणं तच्छन्दः । अक्षैस्स ऋषयो देवताश्छन्दोभिरसाधारणम् ॥
 >
-> यस्य वाक्यं स ऋषिः । या तेनोक्ता सा देवता । यद्-अक्षर-परिमाणं तच्-छन्दः । अक्षैस् स ऋषयो देवताश् छन्दोभिर् असाधारणम् ॥
 > *yasya vākyaṃ sa ṛṣiḥ | yā tenoktā sā devatā | yad-akṣara-parimāṇaṃ tac-chandaḥ | akṣais sa ṛṣayo devatāś chandobhir asādhāraṇam ||*
 >
 > "He whose utterance it is — he is the rishi. She who is addressed by it — she is the deity. Whatever the syllable-count is — that is its meter. [The correspondence of] rishis, deities, and meters, [determined] through syllables, is specific to each [mantra]."
@@ -2427,7 +2396,6 @@ Saying the rishis "composed" the mantras is not, strictly, Vedic doctrine — ra
 
 > अतीन्द्रियस्य वेदस्य परमेश्वरानुग्रहेण प्रथमतो दर्शनात् ऋषित्वम् ।
 >
-> अतीन्द्रियस्य वेदस्य परमेश्वरानुग्रहेण प्रथमतो दर्शनात् ऋषित्वम् ।
 > *atīndriyasya vedasya parameśvarānugraheṇa prathamato darśanāt ṛṣitvam |*
 >
 > "Rishihood consists in the first perception, through the grace of the Supreme Lord, of the Veda, which transcends the senses."
@@ -2489,7 +2457,6 @@ The rishis of the first Mandala begin with Madhuchchandas and others; those who 
 
 > अथ ऋषयः शतर्षिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर्भरद्वाजो वसिष्ठः प्रगाथाः पावमान्याः क्षुद्रसूक्ता महासूक्ता इति ॥
 >
-> अथ ऋषयः शतर्षिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर् भरद्वाजो वसिष्ठः प्रगाथाः पावमान्याः क्षुद्रसूक्ता महासूक्ता इति ॥
 > *atha ṛṣayaḥ śatarṣino mādhyamā gṛtsamado viśvāmitro vāmadevo'trir bharadvājo vasiṣṭhaḥ pragāthāḥ pāvamānyāḥ kṣudrasūktā mahāsūktā iti ||*
 >
 > "Now, the rishis: Shatarshina, Madhyama, Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha, the Pragathas, the Pavamanyas, the Kshudrasuktas, and the Mahasuktas — thus."
@@ -2500,7 +2467,6 @@ Among the rishis, there are said to be several classes — Maharshi, Rishi, Rish
 
 > मुनीनां चतुर्विधो भेदः । ऋषयः, ऋषिकाः, ऋषिपुत्राः महर्षयश्च ।
 >
-> मुनीनां चतुर्विधो भेदः । ऋषयः, ऋषिकाः, ऋषिपुत्राः महर्षयश् च ।
 > *munīnāṃ caturvidho bhedaḥ | ṛṣayaḥ, ṛṣikāḥ, ṛṣiputrāḥ maharṣayaś ca |*
 >
 > "The division among sages (munis) is fourfold: Rishis, Rishikas, Rishiputras, and Maharshis."
@@ -2517,7 +2483,6 @@ According to Harishchandra, excluding Shrutarshi, there are only these four divi
 
 > भृगुर्मरीचिश्चात्रिश्च ह्यंगिराः पुलहः कृतुः । मनुर्दक्षो वसिष्ठश्च पुलस्त्यश्चेति ते दश ॥ ९६ ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयमुच्चराः । सप्तैवर्षयो यस्मात् सृतास् स्यान्महर्षयः ॥ ९७ ॥
 >
-> भृगुर् मरीचिश् चात्रिश् च ह्य् अङ्गिराः पुलहः क्रतुः । मनुर् दक्षो वसिष्ठश् च पुलस्त्यश् चेति ते दश ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयम् उच्चराः । सप्तैव ऋषयो यस्मात् सृतास् स्यान् महर्षयः ॥
 > *bhṛgur marīciś cātriś ca hy aṅgirāḥ pulahaḥ kratuḥ | manur dakṣo vasiṣṭhaś ca pulastyaś ceti te daśa || brahmaṇo mānasāḥ sṛṣṭā udgāthāḥ svayam uccarāḥ | saptaiva ṛṣayo yasmāt sṛtās syān maharṣayaḥ ||*
 >
 > "Bhrigu, Marichi, and Atri, and likewise Angiras, Pulaha, Kratu, Manu, Daksha, Vasishtha, and Pulastya — these are the ten. Created from Brahma's mind, self-proclaiming... From whom the seven [great] rishis arose — these are the Maharshis."
@@ -2689,7 +2654,6 @@ Related to the above: a mantra's authority/origin holds special importance. It i
 
 > न ह्येषु प्रत्यक्षमस्त्यन्येषां तपसस्त्वेषाम् ॥
 >
-> न ह्य् एषु प्रत्यक्षम् अस्त्य् अन्येषां तपसस् त्वेषाम् ॥
 > *na hy eṣu pratyakṣam asty anyeṣāṃ tapasas tveṣām ||*
 >
 > "For among these, direct perception does not belong to others [who lack it] — rather, it comes through their own austerity (tapas)."
@@ -2705,7 +2669,6 @@ That is: mantras do not become directly perceivable to the ignorant or to those 
 
 > ऋषेर्दृष्ट्यर्थस्य प्रतिभावात्ख्यानसंयुक्ता ।
 >
-> ऋषेर् दृष्ट्यर्थस्य प्रतिभावात् ख्यान-संयुक्ता ।
 > *ṛṣer dṛṣṭyarthasya pratibhāvāt khyāna-saṃyuktā |*
 >
 > "[Narration] joined with the insight arising from the rishi's perceived meaning."
@@ -2716,7 +2679,6 @@ Here, the word "dṛṣṭyārthasya" establishes that the rishis directly perce
 
 > य एव मुक्तब्राह्मणस्य द्रष्टारः प्रवक्तारश्च ते खल्वितिहासपुराणस्य धर्मशास्त्रस्य चेति ।
 >
-> य एव मुक्त-ब्राह्मणस्य द्रष्टारः प्रवक्तारश् च ते खल्व् इतिहास-पुराणस्य धर्मशास्त्रस्य चेति ।
 > *ya eva mukta-brāhmaṇasya draṣṭāraḥ pravaktāraś ca te khalv itihāsa-purāṇasya dharmaśāstrasya ceti |*
 >
 > "Those who are indeed the seers and expounders of the [corresponding] Brahmana are also, indeed, [the seers and expounders] of Itihasa, Purana, and Dharmashastra."
@@ -2725,7 +2687,6 @@ And another sutra (2-2-67):
 
 > य एवास्या वेदार्थानां द्रष्टारः प्रवक्तारश्च त एवायुर्वेदप्रभृतीनामिति ।
 >
-> य एवास्या वेदार्थानां द्रष्टारः प्रवक्तारश् च त एवायुर्वेद-प्रभृतीनाम् इति ।
 > *ya evāsyā vedārthānāṃ draṣṭāraḥ pravaktāraś ca ta evāyurveda-prabhṛtīnām iti |*
 >
 > "Those who are the seers and expounders of the Veda's meanings are the very same as those of Ayurveda and similar [auxiliary] sciences."
@@ -2736,7 +2697,6 @@ These statements establish that rishis are both seers of the mantras and, in Bra
 
 > ब्राह्मणमुद्वीच्यं शिक्ष्यमुच्चं स्विष्टमुच्च्मषिणा शीयम् ।
 >
-> ब्राह्मणम् उद्वीच्यं शिक्ष्यम् उच्चं स्विष्टम् उच्च-ऋषिणा शीयम् ।
 > *brāhmaṇam udvīcyaṃ śikṣyam uccaṃ sviṣṭam ucca-ṛṣiṇā śīyam |*
 >
 > *(a technical liturgical phrase whose precise construction is difficult to render exactly)*
@@ -2749,7 +2709,6 @@ Commenting on this, Uvata glosses "rishi" as "*ṛṣir mantrāṇāṃ vyākhy�
 
 > ऋषिर्वेदः । तदध्ययन-विज्ञान-तदर्थानुष्ठानातिशययोगात् पुरुषेष्वप्यृषिशब्दः ।
 >
-> ऋषिर् वेदः । तद्-अध्ययन-विज्ञान-तद्-अर्थानुष्ठानातिशय-योगात् पुरुषेष्व् अप्य् ऋषि-शब्दः ।
 > *ṛṣir vedaḥ | tad-adhyayana-vijñāna-tad-arthānuṣṭhānātiśaya-yogāt puruṣeṣv apy ṛṣi-śabdaḥ |*
 >
 > "The Veda itself is 'rishi.' Because of an exceptional connection through its study, understanding, and practice of its meaning, the word 'rishi' extends to human beings as well."
@@ -2767,7 +2726,6 @@ In several such cases, it becomes clear that rishis set aside their own personal
 
 > सर्वेषां तु स नामानि कर्माणि च पृथक् पृथक् । वेदशब्देभ्य एवादौ पृथक् संस्थाश्च निर्ममे ॥
 >
-> सर्वेषां तु स नामानि कर्माणि च पृथक् पृथक् । वेद-शब्देभ्य एवादौ पृथक् संस्थाश् च निर्ममे ॥
 > *sarveṣāṃ tu sa nāmāni karmāṇi ca pṛthak pṛthak | veda-śabdebhya evādau pṛthak saṃsthāś ca nirmame ||*
 >
 > "For all [beings], He fashioned, at the very beginning, their separate names, separate deeds, and separate conditions — from the words of the Veda itself."
@@ -2922,7 +2880,6 @@ The rishis appear motivated by experiencing life's fullness rather than any atti
 
 > ददात नो अमृतस्य प्रजायै (VII-57-6)
 >
-> ददात नो अमृतस्य प्रजायै
 > *dadāta no amṛtasya prajāyai*
 >
 > "Grant us, for our progeny, [a share] of amrita (immortality)."
@@ -3008,7 +2965,6 @@ These traits — ordinary human pride, gluttony, drunken indulgence, obstinacy, 
 
 > इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री । अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम् ॥ (1-32-1)
 >
-> इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री । अहन्न् अहिम् अन्व् अपस् ततर्द प्र वक्षणा अभिनत् पर्वतानाम् ॥
 > *indrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajrī | ahann ahim anv apas tatarda pra vakṣaṇā abhinat parvatānām ||*
 >
 > "Now I shall proclaim the heroic deeds of Indra, which the thunderbolt-wielder performed first: he slew the serpent (Ahi), released the flowing waters, and split open the flanks of the mountains."
@@ -3034,7 +2990,6 @@ Who is this Vritrasura? What water did he obstruct, and what water did Indra rel
 
 > य एम्॒बय॑न्ति॒ पर्व॑तान् ति॒रः स॑मु॒द्रम॑र्ण॒वम् (I-19-7)
 >
-> य एम्॒बय॑न्ति॒ पर्व॑तान् ति॒रः स॑मु॒द्रम्॑ अर्ण॒वम्
 > *ya embayanti parvatān tiraḥ samudram arṇavam*
 >
 > "[The waters] which flow past the mountains, through the vast, surging ocean..."
@@ -3052,7 +3007,6 @@ A third theory also exists — that of the Western scholar Hillebrandt, sometime
 
 > यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरद्यन्वविन्दत् । ओजायमानं यो अहिं जघान दानुं शयानं स जनास इन्द्रः ॥ (II-12-11)
 >
-> यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरद्य् अन्वविन्दत् । ओजायमानं यो अहिं जघान दानुं शयानं स जनास इन्द्रः ॥
 > *yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śarady anvavindat | ojāyamānaṃ yo ahiṃ jaghāna dānuṃ śayānaṃ sa janāsa indraḥ ||*
 >
 > "He who found Shambara, dwelling in the mountains, in the fortieth autumn; who slew the mighty serpent Ahi, lying prostrate along with Danu — he, O people, is Indra."
@@ -3091,7 +3045,6 @@ This mantra, addressing both deities, shows their distinction: "Indra performs t
 
 > सत्यानृते अवपश्यन् जनानाम् (VII-49-3)
 >
-> सत्यानृते अवपश्यन् जनानाम्
 > *satyānṛte avapaśyan janānām*
 >
 > "Watching over the truth and falsehood of people."
@@ -3121,7 +3074,6 @@ Some Rigveda mantras connect Varuna with the deity Mitra — and since Mitra is 
 
 > अस्तं गर्भ सूर्य इव वरुण इत्यच्ये । स हि स्वगमनेन रात्रीर्जनयति ।
 >
-> अस्तं गर्भ सूर्य इव वरुण इत्य् उच्यते । स हि स्वगमनेन रात्रीर् जनयति ।
 > *astaṃ garbha sūrya iva varuṇa ity ucyate | sa hi svagamanena rātrīr janayati |*
 >
 > "'[He goes] home, like the sun — thus Varuna is spoken of.' For he, by his own setting, brings the nights into being."
@@ -3206,7 +3158,6 @@ Per Tilak's reading, some passages describe Dawn as a daily, routine event, whil
 
 > तानीदहानि बहुलान्यासन् या प्राचीनमुदिता सूर्यस्य । यतः परि जार इवाचरन्त्युषो ददृश्रे न पुनर्यतीव ॥ (VII-76-3)
 >
-> तानीद् अहानि बहुलान्य् आसन् या प्राचीनम् उदिता सूर्यस्य । यतः परि जार इवाचरन्त्युषो ददृश्रे न पुनर्यतीव ॥
 > *tānīd ahāni bahulāny āsan yā prācīnam uditā sūryasya | yataḥ pari jāra ivācarantyuṣo dadṛśre na punaryatīva ||*
 >
 > "Those were indeed many days that passed before the sun's rising, during which Dawn was seen moving about like a lover [going to her beloved], as though she would never return again."
@@ -3222,7 +3173,6 @@ The subject of philosophy is nowhere stated with full clarity in the hymns, nor 
 
 > एकं॒ सद्विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥ (I-164-46)
 >
-> एकं॒ सद् विप्रा॑ बहु॒धा व॑दन्त्य्॒ अग्निं य॒मं मा॑त॒रिश्वा॑नम् आहुः ॥
 > *ekaṃ sad viprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ ||*
 >
 > "That which is One, the wise call by many names: they call it Agni, Yama, Matarishvan."
@@ -3513,7 +3463,6 @@ Scholars have agreed on the following legitimate methods for reconciling apparen
 
 > प्रेद्धो अग्ने दीदिहि पुरो नो (7-1-3)
 >
-> प्रेद्धो अग्ने दीदिहि पुरो नो
 > *preddho agne dīdihi puro no*
 
 This is in the Trishtubh meter, which should carry 11 syllables per pada — but as printed, only ten appear. Therefore "preddho" should be read (restored) as "pra iddho":
@@ -3586,7 +3535,6 @@ As far as currently known, the earliest Rigveda commentator is **Skandasvami**. 
 
 > वल्लभी विनिवास्ये तावृग्गर्थागमसंश्रुतिं । भर्तृध्रुवसुतश्चैव स्कंदस्वामी यथाश्रुति ॥
 >
-> वल्लभी विनिवास्ये तावृग्-गर्थागम-संश्रुतिं । भर्तृध्रुव-सुतश् चैव स्कन्दस्वामी यथाश्रुति ॥
 > *vallabhī vinivāsye tāvṛg-garthāgama-saṃśrutiṃ | bhartṛdhruva-sutaś caiva skandasvāmī yathāśruti ||*
 >
 > "Residing at Vallabhi, having thoroughly learned the meaning and tradition of the Rik — the son of Bhartridhruva, Skandasvami, as tradition relates."
@@ -3603,7 +3551,6 @@ That is: Harisvami was the grandson of Guhasvami, son of Nagasvami, and a discip
 
 > युदाब्दानां कलेर्जग्न्य सप्तत्रिंशच्छतानि वै । चत्वारिंशच्च मासाश्चाष्ट स्यात् तदा भाष्यमिदं कृतम् ॥
 >
-> युदाब्दानां कलेर् जग्न्य सप्तत्रिंशच्-छतानि वै । चत्वारिंशच् च मासाश् चाष्ट स्यात् तदा भाष्यम् इदं कृतम् ॥
 > *yudābdānāṃ kaler jagnya saptatriṃśac-chatāni vai | catvāriṃśac ca māsāś cāṣṭa syāt tadā bhāṣyam idaṃ kṛtam ||*
 >
 > "When 3,700 years of the Kali era had elapsed, along with 40 [more], and 8 months — then this commentary was composed."
@@ -3672,7 +3619,6 @@ Skandasvami's second associate. Both Sayanacharya and Atmananda cite Udgitha's s
 
 > वनवासी विनिर्गताचार्यस्य उद्गीथस्य कृतौ ऋग्वेदभाष्ये चतुष्पंचाशोऽध्यायः समाप्तः ।
 >
-> वनवासी विनिर्गताचार्यस्य उद्गीथस्य कृतौ ऋग्वेदभाष्ये चतुष्पञ्चाशोऽध्यायः समाप्तः ।
 > *vanavāsī vinirgatācāryasya udgīthasya kṛtau ṛgvedabhāṣye catuṣpañcāśo'dhyāyaḥ samāptaḥ |*
 >
 > "In the work of the teacher Udgitha, who came from Vanavasi [or Vallabhi], in this Rigveda commentary, the fifty-fourth chapter is concluded."
@@ -3710,7 +3656,6 @@ Venkata Madhava himself, at the end of the 8th Ashtaka's 3rd chapter, indicates 
 
 > विकोनषष्ट मध्यायं व्याकरोदितिमाधवः । जगतावेकवीरस्य विषये निवसत्सुखम् ॥
 >
-> विकोनषष्ट मध्यायं व्याकरोद् इतिमाधवः । जगताव् एकवीरस्य विषये निवसत् सुखम् ॥
 > *vikonaṣaṣṭa madhyāyaṃ vyākarod itimādhavaḥ | jagatāv ekavīrasya viṣaye nivasat sukham ||*
 >
 > "Madhava composed this — the fifty-ninth chapter — dwelling happily in the domain of [King] Ekavira in the world."
@@ -3800,7 +3745,6 @@ Some count the number of ṛks as 10,402; the dvipadas are included in this. If 
 
 > आर्यावर्ताख्यदेशे स्थितो जनपदो महान् । मेरूत्तर इति ख्यातस्स्य दक्षिणभागतः ॥ ५ ॥ ग्रामो मातरपूज्याख्यो द्विजसाहस्रसंमितः । तत्र लक्ष्मणनावासीद्द्विजः काश्यपवंशजः ॥ ६ ॥
 >
-> आर्यावर्ताख्य-देशे स्थितो जनपदो महान् । मेरूत्तर इति ख्यातस् स्य दक्षिणभागतः ॥ ग्रामो मातरपूज्याख्यो द्विजसाहस्रसंमितः । तत्र लक्ष्मणनावासीद् द्विजः काश्यपवंशजः ॥
 > *āryāvartākhya-deśe sthito janapado mahān | merūttara iti khyātas sya dakṣiṇabhāgataḥ || grāmo mātarapūjyākhyo dvijasāhasrasaṃmitaḥ | tatra lakṣmaṇanāvāsīd dvijaḥ kāśyapavaṃśajaḥ ||*
 >
 > "In the land called Aryavarta lay a great region known as Meruttara, to the south of which was a village called Matarapujya, home to a thousand Brahmins. There resided Lakshmana, a Brahmin of the Kashyapa lineage."
@@ -3810,7 +3754,6 @@ Some count the number of ṛks as 10,402; the dvipadas are included in this. If 
 
 > त्रिंशता क्रतुभिर्विष्णुं कोशयावास वेदवित् । वेदानां भाष्यमकरोन्न्याव्या यो वेदभूषणम् ॥ ७ ॥
 >
-> त्रिंशता क्रतुभिर् विष्णुं कोशयावास वेदवित् । वेदानां भाष्यम् अकरोन् न्याव्या यो वेदभूषणम् ॥
 > *triṃśatā kratubhir viṣṇuṃ kośayāvāsa vedavit | vedānāṃ bhāṣyam akaron nyāvyā yo vedabhūṣaṇam ||*
 >
 > "Through thirty sacrifices, this Veda-knower propitiated Vishnu; he, an ornament of the Veda, composed a commentary on the Vedas with proper method."
@@ -3833,7 +3776,6 @@ Renowned as the Acharya who established the Dvaita philosophical doctrine, known
 
 > चतुस्सहस्रे त्रिशकोत्करे गते संवत्सराणां तु कलौ स्फुटिन्याम् । जातः पुनर्विप्रतनुः स भीमो दैत्यैर्निगूढं परितत्त्वमाह ॥
 >
-> चतुस्सहस्रे त्रिशकोत्करे गते संवत्सराणां तु कलौ स्फुटिन्याम् । जातः पुनर् विप्रतनुः स भीमो दैत्यैर् निगूढं परितत्त्वम् आह ॥
 > *catussahasre triśakotkare gate saṃvatsarāṇāṃ tu kalau sphuṭinyām | jātaḥ punar vipratanuḥ sa bhīmo daityair nigūḍhaṃ paritattvam āha ||*
 >
 > "When four thousand and some [thirty-odd] years of the Kali era had passed, in this manifest age, he — Bhima [reborn] — took form again as a Brahmin, and declared the truth that had been concealed by demons."
@@ -3855,7 +3797,6 @@ Every manuscript of the Madhva commentary reads "ṛgbhāṣyaṃ sampūrṇam" 
 
 > स पूर्णत्वप्रमाण्नं पौरुषे सूक्त ईरितः । स एवाखिलवेदार्थः सर्वशास्त्रार्थ एव च ॥
 >
-> स पूर्णत्व-प्रमाण्नं पौरुषे सूक्त ईरितः । स एवाखिल-वेदार्थः सर्व-शास्त्रार्थ एव च ॥
 > *sa pūrṇatva-pramāṇnaṃ pauruṣe sūkta īritaḥ | sa evākhila-vedārthaḥ sarva-śāstrārtha eva ca ||*
 >
 > "He, established by proof of his own completeness, is declared in the Purusha-sukta. He alone is the meaning of the entire Veda, and indeed the meaning of all scripture."
@@ -3999,7 +3940,6 @@ Atmananda was an **Advaitin**, following Shankara's philosophy, and the spirit o
 
 > इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ॥ (RV 1-164-47)
 >
-> इन्द्रं मित्रं वरुणम् अग्निम् आहुर् अथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद् विप्रा बहुधा वदन्त्य् अग्निं यमं मातरिश्वानम् आहुः ॥
 > *indraṃ mitraṃ varuṇam agnim āhur atho divyaḥ sa suparṇo garutmān | ekaṃ sad viprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ ||*
 >
 > "They call it Indra, Mitra, Varuna, Agni; and also that divine, well-winged Garutman. That which is One, the wise call by many names — they call it Agni, Yama, Matarishvan."
@@ -4409,7 +4349,6 @@ The commentators discussed above are the principal ones. It is understood that m
 
 > अथर्ववेदादिमन्त्रोऽयं पिप्पलादादृगुच्यते । वरुणदैवतः । छन्दो गायत्री । अत्र च शं नो भवन्तु इत्यत्र आपो भवन्तु इति पठ्यते ॥
 >
-> अथर्ववेद-आदि-मन्त्रोऽयं पिप्पलादाद् ऋग् उच्यते । वरुण-दैवतः । छन्दो गायत्री । अत्र च शं नो भवन्तु इत्य् अत्र आपो भवन्तु इति पठ्यते ॥
 > *atharvaveda-ādi-mantro'yaṃ pippalādād ṛg ucyate | varuṇa-daivataḥ | chando gāyatrī | atra ca śaṃ no bhavantu ity atra āpo bhavantu iti paṭhyate ||*
 >
 > "This mantra, the Atharvaveda's opening verse, is stated according to the Pippalada [recension]. Its deity is Varuna, its meter Gayatri. Here, where [other recensions] read 'śaṃ no bhavantu' ('may they be auspicious to us'), this one instead reads 'āpo bhavantu' ('may the waters be...')."
@@ -4427,7 +4366,6 @@ The Rigveda, Yajurveda, and Samaveda all have many surviving commentaries — bu
 
 > वाच्याय वेदत्रितयमामुष्मिकफलप्रदम् । ऐहिकामुष्मिकफलं चतुर्थं व्याचिकीर्षति ॥
 >
-> वाच्याय वेद-त्रितयम् आमुष्मिक-फल-प्रदम् । ऐहिकामुष्मिक-फलं चतुर्थं व्याचिकीर्षति ॥
 > *vācyāya veda-tritayam āmuṣmika-phala-pradam | aihikāmuṣmika-phalaṃ caturthaṃ vyācikīrṣati ||*
 >
 > "Having expounded the three Vedas that grant results in the hereafter, he now intends to expound the fourth, which grants results both in this world and the next."
@@ -4679,7 +4617,6 @@ Not all eight remain in practice today — only **Samhitapatha, Padapatha, Krama
 
 > ओषधयः सं वदन्ते सोमेन सह राज्ञा । यस्मै कृणोति ब्राह्मणस्तं राजन्पारयामसि ॥ (RV 10-97-22)
 >
-> ओषधयः सं वदन्ते सोमेन सह राज्ञा । यस्मै कृणोति ब्राह्मणस् तं राजन् पारयामसि ॥
 > *oṣadhayaḥ saṃ vadante somena saha rājñā | yasmai kṛṇoti brāhmaṇas taṃ rājan pārayāmasi ||*
 >
 > "The herbs converse together with King Soma: 'Whomever the Brahmin acts for, O King, him we carry safely across.'"
@@ -5191,7 +5128,6 @@ Indeed, through Mandala 9, the Rigveda shows no established basis for caste dist
 
 > ब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः । ऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत ॥ (RV 10-90-12)
 >
-> ब्राह्मणोऽस्य मुखम् आसीद् बाहू राजन्यः कृतः । ऊरू तद् अस्य यद् वैश्यः पद्भ्यां शूद्रो अजायत ॥
 > *brāhmaṇo'sya mukham āsīd bāhū rājanyaḥ kṛtaḥ | ūrū tad asya yad vaiśyaḥ padbhyāṃ śūdro ajāyata ||*
 >
 > "The Brahmin was his mouth; the Rajanya (Kshatriya) was made his arms; that which became the Vaishya was his thighs; from his feet the Shudra was born."
@@ -5531,7 +5467,6 @@ Since the Yajurveda held particular usefulness for yajna-related matters, Sayana
 
 > वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम् ॥ १ ॥
 >
-> वागीशाद्याः सुमनसः सर्वार्थानाम् उपक्रमे । यं नत्वा कृतकृत्याः स्युस् तं नमामि गजाननम् ॥ १ ॥
 > *vāgīśādyāḥ sumanasaḥ sarvārthānām upakrame | yaṃ natvā kṛtakṛtyāḥ syus taṃ namāmi gajānanam || 1 ||*
 >
 > "I bow to that elephant-faced one, bowing to whom, at the start of all undertakings, even the wise ones beginning with Vagisha (the Lord of Speech) become accomplished in their purpose."
@@ -5544,7 +5479,6 @@ Ganapati is famously known in the Puranas as "Vighnaraja" (Lord of Obstacles) �
 
 > यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥ २ ॥
 >
-> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तम् अहं वन्दे विद्यातीर्थ-महेश्वरम् ॥ २ ॥
 > *yasya niḥśvasitaṃ vedā yo vedebhyo'khilaṃ jagat | nirmame tam ahaṃ vande vidyātīrtha-maheśvaram || 2 ||*
 >
 > "I worship him — Vidyatirtha-Maheshvara — whose very breath the Vedas are, and who, from the Vedas, fashioned this entire universe."
@@ -5574,7 +5508,6 @@ The Vedas hold the Supreme to be non-dual — "*tat sat, tad vā dvaita*" (that 
 
 > तस्यैव कटाक्षेण तादृशं दध्रे बुक्कमहीपतिः । आदिशन्माधवाचार्यं वेदार्थस्य प्रकाशने ॥ ३ ॥
 >
-> तस्यैव कटाक्षेण तादृशं दध्रे बुक्क-महीपतिः । आदिशन् माधवाचार्यं वेदार्थस्य प्रकाशने ॥ ३ ॥
 > *tasyaiva kaṭākṣeṇa tādṛśaṃ dadhre bukka-mahīpatiḥ | ādiśan mādhavācāryaṃ vedārthasya prakāśane || 3 ||*
 >
 > "By that very [Maheshvara's] sidelong glance, King Bukka assumed such a form [became king], and directed Acharya Madhava to illuminate the meaning of the Vedas."
@@ -5598,7 +5531,6 @@ Scripture holds that protecting the citizenry according to dharma is a king's fo
 
 > स स्प्राह नृपतिं राजन् सायणार्यो ममानुजः । सर्वं वेत्त्येष वेदानां व्याख्याकृत्ये नियुज्यताम् ॥ ४ ॥
 >
-> स स्प्राह नृपतिं राजन् सायणार्यो ममानुजः । सर्वं वेत्त्य् एष वेदानां व्याख्या-कृत्ये नियुज्यताम् ॥ ४ ॥
 > *sa sprāha nṛpatiṃ rājan sāyaṇāryo mamānujaḥ | sarvaṃ vetty eṣa vedānāṃ vyākhyā-kṛtye niyujyatām || 4 ||*
 >
 > "He said to the king: 'O king, Sayanacharya is my younger brother; he knows everything of the Vedas — let him be appointed to the task of composing the commentary.'"
@@ -5609,7 +5541,6 @@ Hearing King Bukka's request, Madhavacharya addressed him: "O king, I have a you
 
 > इत्युक्तो माधवार्येण वीरबुक्कमहीश्वरः । अन्वशात् सायणाचार्यं वेदार्थस्य प्रकाशने ॥ ५ ॥
 >
-> इत्य् उक्तो माधवार्येण वीर-बुक्क-महीश्वरः । अन्वशात् सायणाचार्यं वेदार्थस्य प्रकाशने ॥ ५ ॥
 > *ity ukto mādhavāryeṇa vīra-bukka-mahīśvaraḥ | anvaśāt sāyaṇācāryaṃ vedārthasya prakāśane || 5 ||*
 >
 > "Thus addressed by Madhavacharya, the valiant King Bukka commanded Sayanacharya to illuminate the meaning of the Vedas."
@@ -5620,7 +5551,6 @@ Accordingly, King Bukka summoned Sayanacharya and commanded him to compose a Ved
 
 > ये पूर्वोक्ते मीमांसे ते व्याख्यायातिसंग्रहात् । कृपालुर्माधवाचार्यो वेदार्थं वक्तुमुद्यतः ॥ ६ ॥
 >
-> ये पूर्वोक्ते मीमांसे ते व्याख्यायातिसंग्रहात् । कृपालुर् माधवाचार्यो वेदार्थं वक्तुम् उद्यतः ॥ ६ ॥
 > *ye pūrvokte mīmāṃse te vyākhyāyātisaṃgrahāt | kṛpālur mādhavācāryo vedārthaṃ vaktum udyataḥ || 6 ||*
 >
 > "Having already expounded, in extremely concise form, the two aforementioned Mimamsas, the compassionate Madhavacharya now sets himself to explain the meaning of the Vedas."
@@ -5648,7 +5578,6 @@ The Purva-Mimamsa and Uttara-Mimamsa are the final two of the six orthodox philo
 
 > आध्वर्यवस्य यज्ञेषु प्राधान्याद्व्याख्यातः पुरा । यजुर्वेदोऽथ होत्रार्थं ऋग्वेदो व्याकरिष्यते ॥ ७ ॥
 >
-> आध्वर्यवस्य यज्ञेषु प्राधान्याद् व्याख्यातः पुरा । यजुर्वेदोऽथ होत्रार्थं ऋग्वेदो व्याकरिष्यते ॥ ७ ॥
 > *ādhvaryavasya yajñeṣu prādhānyād vyākhyātaḥ purā | yajurvedo'tha hotrārthaṃ ṛgvedo vyākariṣyate || 7 ||*
 >
 > "Because of the primary importance of the Adhvaryu priest's role in yajnas, the Yajurveda was explained first; now, for the sake of the Hotr priest's task, the Rigveda is going to be explained."
@@ -5680,7 +5609,6 @@ Having established this reasoning, Sayana explains: because the Adhvaryu's role 
 
 > एकस्मिन् प्रथमोऽध्यायः संप्रदायानुसारतः । वृत्तैस्सावधानः सर्वं बोद्धुं शक्नोति बुद्धिमान् ॥ ८ ॥
 >
-> एकस्मिन् प्रथमोऽध्यायः संप्रदायानुसारतः । वृत्तैः सावधानः सर्वं बोद्धुं शक्नोति बुद्धिमान् ॥ ८ ॥
 > *ekasmin prathamo'dhyāyaḥ saṃpradāyānusārataḥ | vṛttaiḥ sāvadhānaḥ sarvaṃ boddhuṃ śaknoti buddhimān || 8 ||*
 >
 > "In this [work], the first chapter should be studied following tradition; a discerning student, attentively grasping it through repeated practice, becomes capable of understanding the whole."
@@ -5712,7 +5640,6 @@ That is: if this Rigveda's first chapter is studied in the traditional way — s
 
 > तस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत ॥ (RV 10-90-9)
 >
-> तस्माद् यज्ञात् सर्व-हुत ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद् यजुस् तस्माद् अजायत ॥
 > *tasmād yajñāt sarva-huta ṛcaḥ sāmāni jajñire | chandāṃsi jajñire tasmād yajus tasmād ajāyata ||*
 >
 > "From that all-oblation yajna, the Riks and Samans were born; the meters were born from it, and the Yajus arose from it."
@@ -5723,7 +5650,6 @@ That is: from that being called "sahasraśīrṣā puruṣaḥ" (the thousand-he
 
 > इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ॥ (RV 1-164-86)
 >
-> इन्द्रं मित्रं वरुणम् अग्निम् आहुर् अथो दिव्यः स सुपर्णो गरुत्मान् । एकं सद् विप्रा बहुधा वदन्त्य् अग्निं यमं मातरिश्वानम् आहुः ॥
 > *indraṃ mitraṃ varuṇam agnim āhur atho divyaḥ sa suparṇo garutmān | ekaṃ sad viprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ ||*
 >
 > "They call it Indra, Mitra, Varuna, Agni; and also that divine, well-winged Garutman. That which is One, the wise call by many names — they call it Agni, Yama, Matarishvan."
@@ -5808,7 +5734,6 @@ The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something sim
 
 > ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणं चतुर्थमिति । (Chandogya Upanishad 7-1-2)
 >
-> ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदम् आथर्वणं चतुर्थम् इति ।
 > *ṛgvedaṃ bhagavo'dhyemi yajurvedaṃ sāmavedam ātharvaṇaṃ caturtham iti |*
 >
 > "O revered one, I have studied the Rigveda, the Yajurveda, the Samaveda, and the fourth — the Atharvana."
@@ -5817,7 +5742,6 @@ The followers of the Vajasaneyi (Shukla Yajurveda) tradition state something sim
 
 > ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेद इति । (Mundaka Upanishad 1-1-5)
 >
-> ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेद इति ।
 > *ṛgvedo yajurvedaḥ sāmavedo'tharvaveda iti |*
 >
 > "Rigveda, Yajurveda, Samaveda, and Atharvaveda."
@@ -5885,7 +5809,6 @@ The Chandogas first cite Narada's own words to Sanatkumara: "O revered one, I ha
 
 > ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु । ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां विमिमीत उ त्वः ॥ (RV 10-71-11)
 >
-> ऋचां त्वः पोषम् आस्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु । ब्रह्मा त्वो वदति जातविद्यां यज्ञस्य मात्रां विमिमीत उ त्वः ॥
 > *ṛcāṃ tvaḥ poṣam āste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu | brahmā tvo vadati jātavidyāṃ yajñasya mātrāṃ vimimīta u tvaḥ ||*
 >
 > "One, having nourished it, tends the growth of the Riks; another sings the Gayatra chant among the Shakvari meters; the Brahmin speaks forth innate knowledge; and another measures out the proper form of the yajna."
@@ -5960,7 +5883,6 @@ That is: the priest called Brahma speaks the proper sanction relevant to each sp
 
 > एष एव यज्ञस्पृष्ट मनश्च वाक् च वर्तनी तयोरन्यतरां मनसा संस्करोति ब्रह्मा, वाचा होताध्वर्युरुद्गाता चान्यतराम् इति ॥ (Chandogya Upanishad 4-16-1)
 >
-> एष एव यज्ञस् पृष्ट मनश् च वाक् च वर्तनी तयोर् अन्यतरां मनसा संस्करोति ब्रह्मा, वाचा होताध्वर्युर् उद्गाता चान्यतराम् इति ॥
 > *eṣa eva yajñas pṛṣṭa manaś ca vāk ca vartanī tayor anyatarāṃ manasā saṃskaroti brahmā, vācā hotādhvaryur udgātā cānyatarām iti ||*
 >
 > "This indeed is the yajna, having mind and speech as its twofold path; the Brahma corrects one of these [the mind-path] with his mind, while the Hotr, Adhvaryu, and Udgatr correct the other [the speech-path] with speech."
@@ -6013,7 +5935,6 @@ Yaska further demonstrates this same idea:
 
 > मन्त्रा मननाच्छन्दांसि च्छादनाच्च स्तोमः स्तवनाच्च यजुर्यजनेरिति । (Nirukta 7-12)
 >
-> मन्त्रा मननाच् छन्दांसि च्छादनाच् च स्तोमः स्तवनाच् च यजुर् यजनेर् इति ।
 > *mantrā mananāc chandāṃsi cchādanāc ca stomaḥ stavanāc ca yajur yajaner iti |*
 >
 > "'Mantra' [derives] from manana (thinking/reflection); 'Chandas' from chādana (covering); 'Stoma' from stavana (praising); and 'Yajus' from yajana (sacrificing)."
@@ -6022,7 +5943,6 @@ Yaska further demonstrates this same idea:
 
 > एवं सत्यध्वर्युसंबन्धि यजुर्वेदे निष्पन्नं यज्ञशरीरमुपजीव्य शेषभूता स्तोत्रशस्त्ररूपा सानगाथा इतरेण वेद...
 >
-> एवं सत्य् अध्वर्यु-संबन्धि यजुर्वेदे निष्पन्नं यज्ञ-शरीरम् उपजीव्य शेष-भूता स्तोत्र-शस्त्र-रूपा सानगाथा इतरेण वेद...
 > *evaṃ saty adhvaryu-saṃbandhi yajurvede niṣpannaṃ yajña-śarīram upajīvya śeṣa-bhūtā stotra-śastra-rūpā sānagāthā itareṇa veda...*
 >
 > "Thus it being established that the yajna's own body is formed specifically within the Yajurveda, connected to the Adhvaryu — the remaining elements, in the form of hymn (stotra) and recitation (shastra), are supplied by the other Vedas..."
@@ -6065,7 +5985,6 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 
 > ननु वेद एव तावन्नास्ति । कुतस्तदवान्तरभेद ऋग्वेदः ? तथा हि । कोऽयं वेदो नाम ? न हि तत्र लक्षणं प्रमाणं वास्ति । न च तदुभयमृते किंचित्सिध्यति । लक्षणप्रमाणाभ्यां हि वस्तुसिद्धिरिति न्यायविदां मतम् ॥
 >
-> ननु वेद एव तावन् नास्ति । कुतस् तद्-अवान्तर-भेद ऋग्वेदः । तथा हि । कोऽयं वेदो नाम । न हि तत्र लक्षणं प्रमाणं वास्ति । न च तद्-उभयम् ऋते किंचित् सिध्यति । लक्षण-प्रमाणाभ्यां हि वस्तु-सिद्धिर् इति न्याय-विदां मतम् ॥
 > *nanu veda eva tāvan nāsti | kutas tad-avāntara-bheda ṛgvedaḥ | tathā hi | ko'yaṃ vedo nāma | na hi tatra lakṣaṇaṃ pramāṇaṃ vāsti | na ca tad-ubhayam ṛte kiṃcit sidhyati | lakṣaṇa-pramāṇābhyāṃ hi vastu-siddhir iti nyāya-vidāṃ matam ||*
 >
 > "Objection: The Veda itself does not exist at all — how then can there be a subdivision of it called the Rigveda? Consider: what is this thing called 'Veda'? Neither a definition (lakṣaṇa) nor a proof (pramāṇa) of it exists. And without both of these, nothing whatsoever can be established — for it is the settled view of logicians (Naiyayikas) that the establishment of any entity requires both definition and proof."
@@ -6086,7 +6005,6 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 
 > प्रत्यक्षानुमानागमेषु प्रमाणाविशेषेण किमो वेद इति तल्लक्षणमिति चेन्न, मनुस्मादिस्मृतिष्वातिव्याप्तेः । समयबलेन सम्यगदृष्टानुभवसाधनसमिति अस्यागमलक्षणस्य तास्स्वपि सद्भावात् ।
 >
-> प्रत्यक्षानुमानागमेषु प्रमाणाविशेषेण किम् एष वेद इति तल्-लक्षणम् इति चेन् न, मन्व्-आदि-स्मृतिष्व् अतिव्याप्तेः । समय-बलेन सम्यग्-अदृष्टानुभव-साधन-समितिः अस्यागम-लक्षणस्य तास्व् अपि सद्भावात् ।
 > *pratyakṣānumānāgameṣu pramāṇāviśeṣeṇa kim eṣa veda iti tal-lakṣaṇam iti cen na, manv-ādi-smṛtiṣv ativyāpteḥ | samaya-balena samyag-adṛṣṭānubhava-sādhana-samitiḥ asyāgama-lakṣaṇasya tāsv api sadbhāvāt |*
 >
 > "If you say that, among the three valid means of knowledge — perception, inference, and revealed word (āgama) — the Veda is defined as the last of these, we reply: no. This over-extends to the Smritis of Manu and others as well, since the accepted definition of 'āgama' — 'that which serves as the means for correctly apprehending what is unseen (adṛṣṭa)' — applies equally to those Smritis."
@@ -6095,7 +6013,6 @@ Keeping this reasoning in mind, Yaska Maharshi clarifies the etymology showing t
 
 > अपौरुषेयत्वे सतीति विशेषणादोष इति चेन्न, वेदस्यापि परमेश्वरनिर्मितत्वेन पौरुषेयत्वात् ।
 >
-> अपौरुषेयत्वे सतीति विशेषणाद् दोष इति चेन् न, वेदस्यापि परमेश्वर-निर्मितत्वेन पौरुषेयत्वात् ।
 > *apauruṣeyatve satīti viśeṣaṇād doṣa iti cen na, vedasyāpi parameśvara-nirmitatvena pauruṣeyatvāt |*
 >
 > "If you say that adding the qualifier 'provided it is non-human in origin (apauruṣeya)' removes this flaw, we reply: no. For the Veda too, having been made by Parameshvara (the Supreme Person), is thereby of personal/human origin (pauruṣeya)."
@@ -6159,14 +6076,12 @@ If, finally, you propose that "apauruṣeyatva" (non-human origin) itself simply
 
 > नापि तस्यावे प्रमाणं पश्यामः । ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमथर्वणं चतुर्थम् (छान्दोग्य उपनिषद् ७-१-२) इत्यादिवाक्यं प्रमाणमिति चेन्न, तस्यापि वाक्यस्य वेदान्तःपातित्वेनात्माश्रयत्वप्रसंगात् । न खलु निपुणोऽपि स्वस्कन्धमारोढुं प्रभवति ।
 >
-> नापि तस्यावे प्रमाणं पश्यामः । ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदम् अथर्वणं चतुर्थम् इत्य् आदि-वाक्यं प्रमाणम् इति चेन् न, तस्यापि वाक्यस्य वेदान्तःपातित्वेनात्माश्रयत्व-प्रसङ्गात् । न खलु निपुणोऽपि स्वस्कन्धम् आरोढुं प्रभवति ।
 > *nāpi tasyāve pramāṇaṃ paśyāmaḥ | ṛgvedaṃ bhagavo'dhyemi yajurvedaṃ sāmavedam atharvaṇaṃ caturtham ity ādi-vākyaṃ pramāṇam iti cen na, tasyāpi vākyasya vedāntaḥpātitvenātmāśrayatva-prasaṅgāt | na khalu nipuṇo'pi svaskandham āroḍhuṃ prabhavati |*
 >
 > "Nor do we see any proof of its existence either. If you say that a statement such as 'O Lord, I study the Rigveda, the Yajurveda, the Samaveda, and the fourth, the Atharvana' (Chandogya Upanishad 7-1-2) serves as proof — we reply: no. Since that very statement, being itself contained within the Veda, falls into the fallacy of self-dependence (ātmāśraya). Indeed, no one, however skilled, can climb upon his own shoulder."
 
 > वेद एव द्विजातीनां निःश्रेयसकरः पर इत्यादिस्मृतिवाक्यं प्रमाणमिति चेन्न, तस्याप्यश्रुतिमूलत्वेन निराकृतत्वात् । प्रत्यक्षादिकं शंकितुमप्ययोग्यम् । वेदविषया तु लोकप्रसिद्धिः सार्वजनीनापि नीलं नभ इत्यादिवच्च । तस्माल्लक्षणप्रमाणरहितस्य वेदस्य सद्भावे नांगीकार्यं शक्यते इति पूर्वः पक्षः ॥
 >
-> वेद एव द्विजातीनां निःश्रेयसकरः पर इत्य् आदि-स्मृति-वाक्यं प्रमाणम् इति चेन् न, तस्याप्य् अश्रुति-मूलत्वेन निराकृतत्वात् । प्रत्यक्षादिकं शङ्कितुम् अप्य् अयोग्यम् । वेद-विषया तु लोक-प्रसिद्धिः सार्वजनीनापि नीलं नभ इत्य् आदि-वच् च । तस्माल् लक्षण-प्रमाण-रहितस्य वेदस्य सद्भावे नाङ्गीकार्यं शक्यत इति पूर्वः पक्षः ॥
 > *veda eva dvijātīnāṃ niḥśreyasakaraḥ para ity ādi-smṛti-vākyaṃ pramāṇam iti cen na, tasyāpy aśruti-mūlatvena nirākṛtatvāt | pratyakṣādikaṃ śaṅkitum apy ayogyam | veda-viṣayā tu loka-prasiddhiḥ sārvajanīnāpi nīlaṃ nabha ity ādi-vac ca | tasmāl lakṣaṇa-pramāṇa-rahitasya vedasya sadbhāve nāṅgīkāryaṃ śakyata iti pūrvaḥ pakṣaḥ ||*
 >
 > "If you say that a Smriti-statement such as 'the Veda alone is the supreme means of ultimate good for the twice-born' serves as proof — we reply: no. Since this too, being rooted in Shruti itself, is rejected for the same reason. Perception and similar means aren't even worth considering here. As for the Veda's popular renown among people — however universal, it is like the common expression 'the sky is blue' [mere convention, not genuine proof]. Therefore, the existence of a Veda lacking both definition and proof cannot be accepted. — Thus concludes the objection (pūrvapakṣa)."
@@ -6225,7 +6140,6 @@ That is: an adhikarana comprises five distinct parts — the subject-matter (vis
 
 > अत्रोच्यते । मन्त्रब्राह्मणात्मकत्वं तावददुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञपरिभाषायामाह । मन्त्रब्राह्मणयोर्वेदनामधेयमिति (आ. प. ३१) । तयोस्तु स्वरूपविवेचने...
 >
-> अत्रोच्यते । मन्त्र-ब्राह्मणात्मकत्वं तावद् अदुष्टं लक्षणम् । अत एवापस्तम्बो यज्ञ-परिभाषायाम् आह । मन्त्र-ब्राह्मणयोर् वेद-नामधेयम् इति (आपस्तम्ब यज्ञ-परिभाषा ३१) । तयोस् तु स्वरूप-विवेचने...
 > *atrocyate | mantra-brāhmaṇātmakatvaṃ tāvad aduṣṭaṃ lakṣaṇam | ata evāpastambo yajña-paribhāṣāyām āha | mantra-brāhmaṇayor veda-nāmadheyam iti (Āpastamba Yajña-paribhāṣā 31) | tayos tu svarūpa-vivecane...*
 >
 > "To this we reply: the definition of the Veda as consisting of mantras and brahmanas is, in fact, faultless. This is precisely why Apastamba, in his Yajña-paribhāṣā, states: 'The name Veda applies to the mantras and the brahmanas' (Apastamba Yajña-paribhasha 31). As for determining the precise nature of each of these..."
@@ -6298,7 +6212,6 @@ We grant, then, that an entity called "Veda" exists — but what need is there t
 
 > अधः स्विदासीदुपरि स्विदासीदिति (ऋ. सं. १०-१२९-५) मन्त्रस्य बोधकत्वेऽपि स्थाणुर्वा पुरुषो वेत्यादिवाक्यवत्संदिग्धार्थबोधकत्वान्न प्रामाण्यम् ॥
 >
-> अधः स्विद् आसीद् उपरि स्विद् आसीद् इति (र्व् १०-१२९-५) मन्त्रस्य बोधकत्वेऽपि स्थाणुर् वा पुरुषो वेत्य् आदि-वाक्यवत् संदिग्धार्थ-बोधकत्वान् न प्रामाण्यम् ॥
 > *adhaḥ svid āsīd upari svid āsīd iti (RV 10-129-5) mantrasya bodhakatve'pi sthāṇur vā puruṣo vety ādi-vākyavat saṃdigdhārtha-bodhakatvān na prāmāṇyam ||*
 >
 > "The mantra 'adhaḥ svid āsīd upari svid āsīt' (was it below, or was it above?) (RV 10-129-5), though it conveys some meaning, conveys only a doubtful, ambiguous sense — like the statement 'is it a post, or is it a man?' — and therefore lacks authority."
@@ -6307,7 +6220,6 @@ Take the mantra "adhaḥ svid āsīd upari svid āsīt." Even though its words c
 
 > ओषधे त्रायस्वैनमिति (Taittiriya Samhita 1-2-1-1) मन्त्रे दर्भविषयः । (Ashvalayana Grihyasutra 1-17-8) स्वधिते मैनं हिंसीरिति क्षुरविषयः । (Ashvalayana Grihyasutra 1-17-9) श्रुणोत ग्रावाण (Taittiriya Samhita 1-3-13-1) इति पाषाणविषयः । एतेष्वचेतनानां दर्भक्षुरपाषाणानां चेतनवत्संबोधनं श्रूयते । द्वौ चन्द्रौ चन्द्रमसाविति वाक्यवद्विसंवादिबोधकत्वात्प्रामाण्यम् ॥
 >
-> ओषधे त्रायस्वैनम् इति मन्त्रे दर्भ-विषयः । स्वधिते मैनं हिंसीर् इति क्षुर-विषयः । शृणोत ग्रावाण इति पाषाण-विषयः । एतेष्व् अचेतनानां दर्भ-क्षुर-पाषाणानां चेतनवत् सम्बोधनं श्रूयते । द्वौ चन्द्रौ चन्द्रमसाव् इति वाक्यवद् विसंवादि-बोधकत्वात् प्रामाण्यम् ॥
 > *oṣadhe trāyasvainam iti mantre darbha-viṣayaḥ | svadhite mainaṃ hiṃsīr iti kṣura-viṣayaḥ | śṛṇota grāvāṇa iti pāṣāṇa-viṣayaḥ | eteṣv acetanānāṃ darbha-kṣura-pāṣāṇānāṃ cetanavat sambodhanaṃ śrūyate | dvau candrau candramasāv iti vākyavad visaṃvādi-bodhakatvāt prāmāṇyam ||*
 >
 > "In the mantra 'oṣadhe trāyasvainam' ('O herb, protect him'), the subject is sacred grass (darbha). 'Svadhite mainaṃ hiṃsīḥ' ('O razor, do not harm him') concerns a razor. 'Śṛṇota grāvāṇaḥ' ('Hear, O stones') concerns stones. In these, inanimate things — grass, razor, and stones — are addressed as though sentient beings. Such statements, conveying something self-contradictory (like saying 'there are two moons'), cannot carry authority."
@@ -6327,7 +6239,6 @@ That is: the mantras "O herb, protect him" address grass (darbha), "O razor, do 
 
 > एक एव रुद्रो न द्वितीयाय तस्थे (Taittiriya Samhita 1-8-6-1) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (Taittiriya Samhita 4-5-11-1) इत्येतयोस्तु मन्त्रयोर्यावच्छिवमहं मौनीति वाक्यवद्व्याघातबोधकत्वादप्रामाण्यम् ॥
 >
-> एक एव रुद्रो न द्वितीयाय तस्थे (तैत्तिरीय संहिता १-८-६-१) सहस्राणि सहस्रशो ये रुद्रा अधि भूम्याम् (तैत्तिरीय संहिता ४-५-११-१) इत्य् एतयोस् तु मन्त्रयोर् यावच् छिवम् अहं मौनीति वाक्यवद् व्याघात-बोधकत्वाद् अप्रामाण्यम् ॥
 > *eka eva rudro na dvitīyāya tasthe (Taittirīya Saṃhitā 1-8-6-1) sahasrāṇi sahasraśo ye rudrā adhi bhūmyām (Taittirīya Saṃhitā 4-5-11-1) ity etayos tu mantrayor yāvac chivam ahaṃ maunīti vākyavad vyāghāta-bodhakatvād aprāmāṇyam ||*
 >
 > "'Rudra is one alone; he does not stand as a second' (Taittiriya Samhita 1-8-6-1); and 'thousands upon thousands are the Rudras upon the earth' (Taittiriya Samhita 4-5-11-1) — these two mantras convey a plain self-contradiction, like a man declaring aloud, 'I am silent' — and are therefore without authority."
@@ -6336,7 +6247,6 @@ One mantra states that Parameshvara, as Rudra, exists alone with no equal second
 
 > आप उन्दन्त्विति (Taittiriya Samhita 1-2-1-1) मन्त्रे यजमानस्य क्षौरकाले जलेन शिरसः सेचनं ब्रूते । शुभिके शिर आरोह शोभयन्ती मुखं ममेति मन्त्रे विवाहकाले मंगलाचरणार्थं पुष्पनिर्मितायाः शुभकायाः वरवध्वोः शिरस्यवस्थानं ब्रूते । तयोश्च मन्त्रयोर्लोकप्रसिद्धार्थानुवादित्वादनधिगतार्थगन्तृत्वं नास्ति । तस्मात्स्मृतिभागो न प्रमाणम् ॥
 >
-> आप उन्दन्त्व् इति मन्त्रे यजमानस्य क्षौर-काले जलेन शिरसः सेचनं ब्रूते । शुभिके शिर आरोह शोभयन्ती मुखं ममेति मन्त्रे विवाह-काले मङ्गलाचरणार्थं पुष्प-निर्मितायाः शुभकायाः वर-वध्वोः शिरश्य् अवस्थानं ब्रूते । तयोश् च मन्त्रयोर् लोक-प्रसिद्धार्थानुवादित्वाद् अनधिगतार्थ-गन्तृत्वं नास्ति । तस्मात् स्मृति-भागो न प्रमाणम् ॥
 > *āpa undantv iti mantre yajamānasya kṣaura-kāle jalena śirasaḥ secanaṃ brūte | śubhike śira āroha śobhayantī mukhaṃ mameti mantre vivāha-kāle maṅgalācaraṇārthaṃ puṣpa-nirmitāyāḥ śubhakāyāḥ vara-vadhvoḥ śiraśy avasthānaṃ brūte | tayoś ca mantrayor loka-prasiddhārthānuvāditvād anadhigatārtha-gantṛtvaṃ nāsti | tasmāt smṛti-bhāgo na pramāṇam ||*
 >
 > "The mantra 'āpa undantu' ('may the waters moisten him') states that water should be poured over the sacrificer's head at the time of shaving. The mantra 'śubhike śira āroha śobhayantī mukhaṃ mama' ('O beautiful one, ascend the head, adorning my face') states that a flower-garland should be placed on the bride's and groom's heads at marriage for an auspicious purpose. Since both mantras merely restate what is already commonly known, they fail to reveal anything previously unknown — and so this ritual-instruction portion too is not valid proof."
@@ -6362,7 +6272,6 @@ That is: these mantras merely describe customs already familiar from ordinary li
 
 > जलादिदृश्येण शिरःक्षेदनादेर्लोकसिद्ध्यैकपि तदभिमानिदेवतानुग्रहस्यअप्रसिद्धत्वाद्विषयस्यानाज्ञातार्थज्ञापकत्वम् । ततो लक्षणसद्भावात्स्वैर्मन्त्रैर्भागस्य प्रामाण्यम् ॥
 >
-> जलादि-दृश्येण शिरः-क्षेदनादेर् लोक-सिद्ध्य्-ऐकपि तद्-अभिमानि-देवतानुग्रहस्याप्रसिद्धत्वाद् विषयस्यानाज्ञातार्थ-ज्ञापकत्वम् । ततो लक्षण-सद्भावात् स्वैर् मन्त्रैर् भागस्य प्रामाण्यम् ॥
 > *jalādi-dṛśyeṇa śiraḥ-kṣedanāder loka-siddhy-aikapi tad-abhimāni-devatānugrahasyāprasiddhatvād viṣayasyānājñātārtha-jñāpakatvam | tato lakṣaṇa-sadbhāvāt svair mantrair bhāgasya prāmāṇyam ||*
 >
 > "Though acts such as pouring water while shaving the head are, by themselves, well known in ordinary life, the favor of the deity presiding over that act is not commonly known — so this subject matter does indeed reveal something previously unknown. Therefore, since the defining mark of valid proof is genuinely present, this mantra-portion is authoritative."
@@ -6373,7 +6282,6 @@ That is: these mantras merely describe customs already familiar from ordinary li
 
 > एकदेवाभिप्रेत्य भगवान् जैमिनिर्मन्त्राधिकरणे मन्त्राणां विवक्षितार्थत्वमसूत्रयत् (Purva Mimamsa 1-2-31 to 53) । तानि च सूत्राणि क्रमशः प्रवर्तयिष्यामः । तत्र पूर्वपक्षं सूत्रयति ॥
 >
-> एक-देवाभिप्रेत्य भगवान् जैमिनिर् मन्त्राधिकरणे मन्त्राणां विवक्षितार्थत्वम् असूत्रयत् (पूर्व मीमांसा १-२-३१ — ५३) । तानि च सूत्राणि क्रमशः प्रवर्तयिष्यामः । तत्र पूर्वपक्षं सूत्रयति ॥
 > *eka-devābhipretya bhagavān jaiminir mantrādhikaraṇe mantrāṇāṃ vivakṣitārthatvam asūtrayat (Pūrva Mīmāṃsā 1-2-31 to 53) | tāni ca sūtrāṇi kramaśaḥ pravartayiṣyāmaḥ | tatra pūrvapakṣaṃ sūtrayati ||*
 >
 > "With this very idea in mind, the venerable Jaimini, in his section on mantras, formulated in sutra-form the doctrine that mantras carry an intended meaning (Purva-Mimamsa 1-2-31 to 53). We shall now present these sutras in their proper order — beginning with his own formulation of the objection (purva-paksha)."
@@ -6511,7 +6419,6 @@ This might be answered as follows: what the mantras state may indeed already be 
 
 > चत्वारि शृंगा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य (RV 4-58-3) इति मन्त्रे आम्नायते । न खलु चतुःशृंगत्वादियुक्तं किंचिद्यज्ञसाधनं विद्यते यन्मन्त्रशाखेनास्मर्येत । ...
 >
-> चत्वारि शृङ्गा त्रयो अस्य पादा द्वे शीर्षे सप्त हस्तासो अस्य (र्व् ४-५८-३) इति मन्त्रे आम्नायते । न खलु चतुः-शृङ्गत्वादि-युक्तं किंचिद् यज्ञ-साधनं विद्यते यन् मन्त्र-शाखेनास्मर्येत ।
 > *catvāri śṛṅgā trayo asya pādā dve śīrṣe sapta hastāso asya (RV 4-58-3) iti mantre āmnāyate | na khalu catuḥ-śṛṅgatvādi-yuktaṃ kiṃcid yajña-sādhanaṃ vidyate yan mantra-śākhenāsmaryeta |*
 >
 > "The mantra states: 'four horns, three feet, two heads, seven hands has it' (RV 4-58-3). But no sacrificial implement possessing four horns and the like actually exists, which this mantra could be supposed to remind the priest of."
@@ -6522,7 +6429,6 @@ Even granting mantras a memory-jogging function, this fails for mantras describi
 
 > ओषधे त्रायस्वैनम् । श्रुणोत ग्रावाणः । इत्याद्यचेतनवचनेषु मन्त्रेषु चेतनोचितं रक्षणश्रवणादिकमर्थं बध्नाति । स च चेतनस्वापादुचितः ।
 >
-> ओषधे त्रायस्वैनम् । शृणोत ग्रावाणः । इत्य् आद्य् अचेतन-वचनेषु मन्त्रेषु चेतनोचितं रक्षण-श्रवणादिकम् अर्थं बध्नाति । स च चेतन-स्वभावाद् उचितः ।
 > *oṣadhe trāyasvainam | śṛṇota grāvāṇaḥ | ity ādy acetana-vacaneṣu mantreṣu cetanocitaṃ rakṣaṇa-śravaṇādikam arthaṃ badhnāti | sa ca cetana-svabhāvād ucitaḥ |*
 >
 > "In mantras such as 'O herb, protect him' and 'Hear, O stones,' meanings befitting sentient beings — protection, hearing, and the like — are attached to statements addressed to inanimate things. But such meanings are properly suited only to conscious beings."
@@ -6582,7 +6488,6 @@ The objection: since a single mantra identifies Aditi simultaneously with two di
 
 > नसु त्वैमेव माता च पिता त्वैमेवेत्यादवन्तरिक्षादिरूपश्चेनादितिः स्तूयते । एवमेकस्यापि रुद्रस्य योगसामर्थ्याद्बहुमूर्तिस्वीकारोऽस्तु । ततो नार्थविप्रतिषेध इत्याशंक्य दोषान्तरं सूत्रयति ॥
 >
-> ननु त्वैम् एव माता च पिता त्वैम् एव इत्य् आदव् अन्तरिक्षादि-रूपश् चेनादितिः स्तूयते । एवम् एकस्यापि रुद्रस्य योग-सामर्थ्याद् बहु-मूर्ति-स्वीकारोऽस्तु । ततो नार्थ-विप्रतिषेध इत्य् आशङ्क्य दोषान्तरं सूत्रयति ॥
 > *nanu tvaim eva mātā ca pitā tvaim eva ity ādav antarikṣādi-rūpaś cenāditiḥ stūyate | evam ekasyāpi rudrasya yoga-sāmarthyād bahu-mūrti-svīkāro'stu | tato nārtha-vipratiṣedha ity āśaṅkya doṣāntaraṃ sūtrayati ||*
 >
 > "[One might say:] just as we say of someone, 'you alone are my mother, and you alone are my father,' Aditi is likewise praised metaphorically in the form of Antariksha and similar epithets. Similarly, let it be granted that the one Rudra, through his own yogic power, assumes many forms. Therefore, there is no genuine contradiction of meaning. Anticipating this possible defense, [Jaimini] now formulates yet a further objection, identifying a different flaw."
@@ -6604,7 +6509,6 @@ The objection: since a single mantra identifies Aditi simultaneously with two di
 
 > पूर्णिका नाम काचिद्योषिदवघातं करोति । तत्समीपे माणवकः स्वाध्यायग्रहणकालं कदाचिदवघातमन्त्रमधीते। न च तस्यार्थप्रकाशनविवक्षाऽस्ति, प्रतिमुशलप्रहारं तस्य मन्त्रस्यापश्यमानत्वात्पदग्रहणमात्रं इच्छत इव मन्त्रानभ्यस्यति। तत्र स्वाध्यायकाले पठितोऽप्यश्वं मन्त्रो यथा पूर्णिकां प्रति स्वार्थं न ब्रूते तथा कर्मकालेऽपि स्वार्थं न वक्ष्यति।
 >
-> पूर्णिका नाम काचिद् योषिद् अवघातं करोति । तत्-समीपे माणवकः स्वाध्याय-ग्रहण-कालं कदाचिद् अवघात-मन्त्रम् अधीते । न च तस्यार्थ-प्रकाशन-विवक्षाऽस्ति, प्रति-मुशल-प्रहारं तस्य मन्त्रस्यापश्यमानत्वात् पद-ग्रहण-मात्रं इच्छत इव मन्त्रान् अभ्यस्यति । तत्र स्वाध्याय-काले पठितोऽप्य् एवं मन्त्रो यथा पूर्णिकां प्रति स्वार्थं न ब्रूते तथा कर्म-कालेऽपि स्वार्थं न वक्ष्यति ।
 > *pūrṇikā nāma kācid yoṣid avaghātaṃ karoti | tat-samīpe māṇavakaḥ svādhyāya-grahaṇa-kālaṃ kadācid avaghāta-mantram adhīte | na ca tasyārtha-prakāśana-vivakṣā'sti, prati-muśala-prahāraṃ tasya mantrasyāpaśyamānatvāt pada-grahaṇa-mātraṃ icchata iva mantrān abhyasyati | tatra svādhyāya-kāle paṭhito'py evaṃ mantro yathā pūrṇikāṃ prati svārthaṃ na brūte tathā karma-kāle'pi svārthaṃ na vakṣyati |*
 >
 > "A certain woman named Purnika is pounding grain with a pestle. Nearby, a young brahmin student, engaged in his daily lesson, happens to be reciting the pestle-mantra (avaghāta-mantra). He has no intention of conveying its meaning — evident from the fact that he does not synchronize the mantra with each fall of the pestle; he seems merely intent on memorizing the words, and practices this mantra among others [without regard to Purnika's work]. Just as this mantra, though recited during study, conveys no meaning relevant to Purnika, so too it will convey no meaning even when recited during the actual ritual."
@@ -6629,7 +6533,6 @@ That is: just as a mantra's meaning goes unattended during rote study, so too it
 
 > केषांचिन्मन्त्राणामर्थो विज्ञातुं न शक्यते । तद्यथा । अम्यक्स त इन्द्र ऋष्टिरस्मे (RV 1-169-3) इत्येको मन्त्रः । सृण्येव जर्भरी तुर्फरीतू (RV 10-106-6) इत्यपरो मन्त्रः । ननु एतस्मान्मन्त्रार्थबोधायैव निगमनिरुक्तव्याकरणानि सन्तीत्याशंक्य दोषान्तरं सूत्रयति ॥
 >
-> केषाञ्चिन् मन्त्राणाम् अर्थो विज्ञातुं न शक्यते । तद् यथा । अम्यक्स त इन्द्र ऋष्टिर् अस्मे इत्य् एको मन्त्रः । सृण्येव जर्भरी तुर्फरीतू इत्य् अपरो मन्त्रः । नन्व् एतस्मान् मन्त्रार्थ-बोधायैव निगम-निरुक्त-व्याकरणानि सन्तीत्य् आशङ्क्य दोषान्तरं सूत्रयति ॥
 > *keṣāñcin mantrāṇām artho vijñātuṃ na śakyate | tad yathā | amyaksa ta indra ṛṣṭir asme ity eko mantraḥ | sṛṇyeva jarbharī turpharītū ity aparo mantraḥ | nanv etasmān mantrārtha-bodhāyaiva nigama-nirukta-vyākaraṇāni santīty āśaṅkya doṣāntaraṃ sūtrayati ||*
 >
 > "The meaning of some mantras cannot be ascertained at all. For example: 'amyaksa ta indra ṛṣṭir asme' is one such mantra; 'sṛṇyeva jarbharī turpharītū' is another. One might object that Nigama, Nirukta, and Vyakarana exist precisely to illuminate such mantras' meaning — anticipating this, a further objection is formulated."
@@ -6659,7 +6562,6 @@ That is: since the meaning of numerous mantras cannot be properly determined at 
 
 > किं ते कृण्वन्ति कीकटेषु (RV 3-53-14) इति मन्त्रे कीकटो नाम जनपद आम्नातः । तथा नैचाशाखं नाम नगरं प्रमगन्दो नाम राजेत्येतद्वा अनित्या आम्नाताः । तथा च सति स्यात्प्रमगन्दात्प्राय मन्त्रो भूतपूर्व इति गम्यते । तदेवं नित्यस्य शास्त्रादिभिर्हेतुभिर्मन्त्रार्थप्रत्यायनार्थत्वं नास्ति । किंतूच्चारणादृष्ट्यार्थ इति पूर्वः पक्षः ॥
 >
-> किं ते कृण्वन्ति कीकटेषु इति मन्त्रे कीकटो नाम जनपद आम्नातः । तथा नैचाशाखं नाम नगरं प्रमगन्दो नाम राजेत्य् एतद् वा अनित्या आम्नाताः । तथा च सति स्यात् प्रमगन्दात् प्राय मन्त्रो भूतपूर्व इति गम्यते । तद् एवं नित्यस्य शास्त्रादिभिर् हेतुभिर् मन्त्रार्थ-प्रत्यायनार्थत्वं नास्ति । किन्तूच्चारणाद् ऋष्ट्य्-अर्थ इति पूर्वः पक्षः ॥
 > *kiṃ te kṛṇvanti kīkaṭeṣu iti mantre kīkaṭo nāma janapada āmnātaḥ | tathā naicāśākhaṃ nāma nagaraṃ pramagando nāma rājety etad vā anityā āmnātāḥ | tathā ca sati syāt pramagandāt prāya mantro bhūtapūrva iti gamyate | tad evaṃ nityasya śāstrādibhir hetubhir mantrārtha-pratyāyanārthatvaṃ nāsti | kintūccāraṇād ṛṣṭy-artha iti pūrvaḥ pakṣaḥ ||*
 >
 > "In the mantra 'kiṃ te kṛṇvanti kīkaṭeṣu' (RV 3-53-14), a country named Kikata is mentioned; likewise a city named Naichashakha and a king named Pramaganda — all non-eternal, transient things. This being so, it follows that the mantra must postdate King Pramaganda's era. Thus, for these reasons — along with the shastra-based arguments already given — mantras serve no purpose in conveying meaning; their purpose lies instead in the unseen fruit (adṛṣṭa) obtained through mere recitation. — Thus concludes the objection (pūrvapakṣa)."
@@ -6691,7 +6593,6 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 
 > तुशब्देन मन्त्राणामुद्दिष्टार्थमुच्चारणमात्रं वारयति । क्रियाकारकसंबन्धेन प्रतीयमानो वाक्यार्थो लोकवेदयोरविशिष्टः । तथा सति यथा लोकेऽर्थप्रत्यायनायैव वाक्यमुच्चार्यते तथा वैदिकयागप्रयोगेऽपि दृश्यम् । मन्त्रेण प्रकाशितस्यार्थोऽनुष्ठातुं शक्यते न...
 >
-> तु-शब्देन मन्त्राणाम् उद्दिष्टार्थम् उच्चारण-मात्रं वारयति । क्रिया-कारक-सम्बन्धेन प्रतीयमानो वाक्यार्थो लोक-वेदयोर् अविशिष्टः । तथा सति यथा लोकेऽर्थ-प्रत्यायनायैव वाक्यम् उच्चार्यते तथा वैदिक-याग-प्रयोगेऽपि दृश्यम् । मन्त्रेण प्रकाशितस्यार्थोऽनुष्ठातुं शक्यते न...
 > *tu-śabdena mantrāṇām uddiṣṭārtham uccāraṇa-mātraṃ vārayati | kriyā-kāraka-sambandhena pratīyamāno vākyārtho loka-vedayor aviśiṣṭaḥ | tathā sati yathā loke'rtha-pratyāyanāyaiva vākyam uccāryate tathā vaidika-yāga-prayoge'pi dṛśyam | mantreṇa prakāśitasyārtho'nuṣṭhātuṃ śakyate na...*
 >
 > "The particle 'tu' (but) rules out the view that mantras exist merely for recitation with no intended meaning. The meaning of a sentence, understood through the relation between action and its agents/instruments, is the same whether in ordinary speech or in the Veda. Just as, in ordinary life, a sentence is uttered precisely to convey meaning, the same must hold in Vedic ritual application as well. What a mantra reveals can indeed be acted upon, not..."
@@ -6766,7 +6667,6 @@ But consider the Taittiriya Samhita's mantra "imām agṛbhṇan" ("I have grasp
 
 > गर्दभाभिधानीं नादत्त इति निषेधः परिसंख्या । तदर्थमिदं ब्राह्मणवाक्यम् ॥
 >
-> गर्दभाभिधानीं नादत्त इति निषेधः परिषङ्ख्या । तदर्थम् इदं ब्राह्मण-वाक्यम् ॥
 > *gardabhābhidhānīṃ nādatta iti niṣedhaḥ pariṣaṅkhyā | tadartham idaṃ brāhmaṇa-vākyam ||*
 >
 > "'One does not take up the rope called gardabha [donkey-rope]' — this implied prohibition is called pariṣaṅkhyā (exclusive specification). The Brahmana statement exists precisely for this purpose."
@@ -6812,7 +6712,6 @@ The other method isn't explicitly negated — it simply becomes moot. Take "vrī
 
 > विधिर्द्व्यन्तमप्राप्ते नियमः स्यादुके गतिः । तत्र चान्यत्र च प्राप्ते परिसंख्येति कीर्त्यते ॥
 >
-> विधिर् द्व्य्-अन्तम् अप्राप्ते नियमः स्याद् उके गतिः । तत्र चान्यत्र च प्राप्ते परिषङ्ख्येति कीर्त्यते ॥
 > *vidhir dvy-antam aprāpte niyamaḥ syād uke gatiḥ | tatra cānyatra ca prāpte pariṣaṅkhyeti kīrtyate ||*
 >
 > "Where nothing else is otherwise attained, that instruction is 'vidhi'; where one of two paths is already established and the instruction directs toward one, that is 'niyama'; where both this and another alternative are equally attained, and one is exclusively specified, that is called 'pariṣaṅkhyā.'"
@@ -6838,7 +6737,6 @@ An objection arises: without this Brahmana statement, three flaws would follow i
 
 > श्रुतार्थस्य परित्यागः अश्रुतार्थस्य कल्पनात् । प्राप्तस्य बाधो द्वेषं परिसंख्या त्रिदोषणा ॥
 >
-> श्रुतार्थस्य परित्यागः अश्रुतार्थस्य कल्पनात् । प्राप्तस्य बाधो द्वेषं परिषङ्ख्या त्रिदोषणा ॥
 > *śrutārthasya parityāgaḥ aśrutārthasya kalpanāt | prāptasya bādho dveṣaṃ pariṣaṅkhyā tridoṣaṇā ||*
 >
 > "Abandoning the stated meaning, constructing an unstated one, and barring what is otherwise independently established — pariṣaṅkhyā suffers from these three flaws."
@@ -6861,7 +6759,6 @@ On further reflection, however, this statement arguably isn't pariṣaṅkhyā i
 
 > ननु एवमप्राप्तिविधिरेवायं संजात इति न वक्तव्यम् । परिसंख्येति फलेनैवं अभिधानाद्दोषः । (तन्त्रवार्तिक)
 >
-> नन्व् एवम् अप्राप्ति-विधिर् एवायं संजात इति न वक्तव्यम् । परिषङ्ख्येति फलेनैवम् अभिधानाद् दोषः ।
 > *nanv evam aprāpti-vidhir evāyaṃ saṃjāta iti na vaktavyam | pariṣaṅkhyeti phalenaivam abhidhānād doṣaḥ | (Tantravārtika)*
 >
 > "One might object: this then simply becomes an ordinary injunction (for something not otherwise attained), and the term 'pariṣaṅkhyā' should not apply. But calling it pariṣaṅkhyā on the strength of its resulting function, rather than its strict formal structure, involves no real flaw."
@@ -6899,7 +6796,6 @@ What was termed pariṣaṅkhyā-vidhi in the previous sutra applies only to tha
 
 > वाशब्दो न्यायार्थं वारयति । अस्वप्रत्यार्थवादकः । यज्ञपतिमेव तत्प्रथयतीति तेनार्थवादेन संबन्धाय ब्राह्मणे विधिः पठ्यते । ननु प्रथयतीत्येव प्रथनविधिः सिद्ध प्रथनमनुष्ठेयं यज्ञपतिमेवेत्यादिनार्थवादेन स्तोतव्यम् । तदेव तु प्रथनं कुतः प्राप्तमित्यस्याशंक्योत्तरं सूत्रयति ॥
 >
-> वा-शब्दो न्यायार्थं वारयति । अस्वप्रत्यर्थवादकः । यज्ञपतिम् एव तत् प्रथयतीति तेनार्थवादेन सम्बन्धाय ब्राह्मणे विधिः पठ्यते । ननु प्रथयतीत्य् एव प्रथन-विधिः सिद्ध प्रथनम् अनुष्ठेयं यज्ञपतिम् एव इत्य् आदिनार्थवादेन स्तोतव्यम् । तद् एव तु प्रथनं कुतः प्राप्तम् इत्य् अस्याशङ्क्योत्तरं सूत्रयति ॥
 > *vā-śabdo nyāyārthaṃ vārayati | asvapratyarthavādakaḥ | yajñapatim eva tat prathayatīti tenārthavādena sambandhāya brāhmaṇe vidhiḥ paṭhyate | nanu prathayatīty eva prathana-vidhiḥ siddha prathanam anuṣṭheyaṃ yajñapatim eva ity ādinārthavādena stotavyam | tad eva tu prathanaṃ kutaḥ prāptam ity asyāśaṅkyottaraṃ sūtrayati ||*
 >
 > "The word 'vā' (or) rules out [the claim of] uselessness. [The relevant Brahmana passage is] an arthavāda (eulogistic explanatory statement). The injunction is recited in the Brahmana specifically to connect with the arthavāda 'yajñapatim eva tat prathayati' ('it spreads out the yajamana himself'). One might ask: since 'prathayati' alone already establishes the injunction to spread, and the act of spreading is already prescribed, then praised through the arthavāda beginning 'yajñapatim eva' — from where, then, is the very act of spreading itself originally attained? Anticipating this doubt, [Jaimini] formulates the answer."
@@ -6923,7 +6819,6 @@ What was termed pariṣaṅkhyā-vidhi in the previous sutra applies only to tha
 
 > अध्वर्युः पुरोडाशमुद्दिश्य मन्त्रे प्रथस्वेत्येवमभिधत्ते । तस्मादभिधानादध्वर्युकर्तृकं प्रथनं प्राप्तम् । यथा लोके यः कुर्विति ब्रूते स कारयत्येव तथात्रापि यः प्रथस्वेति ब्रूते स प्रथयत्येव ।
 >
-> अध्वर्युः पुरोडाशम् उद्दिश्य मन्त्रे प्रथस्वेत्य् एवम् अभिधत्ते । तस्माद् अभिधानाद् अध्वर्यु-कर्तृकं प्रथनं प्राप्तम् । यथा लोके यः कुर्व् इति ब्रूते स कारयत्य् एव तथात्रापि यः प्रथस्वेति ब्रूते स प्रथयत्य् एव ।
 > *adhvaryuḥ puroḍāśam uddiśya mantre prathasvety evam abhidhatte | tasmād abhidhānād adhvaryu-kartṛkaṃ prathanaṃ prāptam | yathā loke yaḥ kurv iti brūte sa kārayaty eva tathātrāpi yaḥ prathasveti brūte sa prathayaty eva |*
 >
 > "Referring to the puroḍāśa, the Adhvaryu states in the mantra: 'spread [it] out.' From this very statement, the act of spreading is established as the Adhvaryu's own task. Just as, in ordinary life, one who says 'do this' thereby causes it to be done, so too here, one who says 'spread' thereby performs the spreading."
@@ -6997,7 +6892,6 @@ The Mimamsakas' "fruit-authority" doctrine (that every Vedic statement is author
 
 > तद्यथेह कर्मचितो लोकः क्षीयते एवमेवामुत्र पुण्यचितो लोकः क्षीयते (Chandogya Upanishad 8-1-6)
 >
-> तद् यथा इह कर्म-चितो लोकः क्षीयते एवम् एवामुत्र पुण्य-चितो लोकः क्षीयते
 > *tad yathā iha karma-cito lokaḥ kṣīyate evam evāmutra puṇya-cito lokaḥ kṣīyate*
 >
 > "Just as here, a world built through action decays, so too, in the next world, a world built through merit likewise decays."
@@ -7006,7 +6900,6 @@ The Mimamsakas' "fruit-authority" doctrine (that every Vedic statement is author
 
 > यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः । वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥ (Bhagavad Gita 2-47)
 >
-> याम् इमां पुष्पितां वाचं प्रवदन्त्य् अविपश्चितः । वेद-वाद-रताः पार्थ नान्यद् अस्तीति वादिनः ॥
 > *yām imāṃ puṣpitāṃ vācaṃ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||*
 >
 > "That flowery speech which the unwise proclaim, O Partha, devoted to the letter of the Veda, declaring 'there is nothing else [beyond ritual fruit]'..."
@@ -7032,7 +6925,6 @@ Even so, since word-order must not be altered (altering it produces nonsense), t
 
 > परं द्वितीयसूत्रोक्तं स्यात्प्रत्ययं पूपस्वाकशंसाकसं न हि अयं साकल्क्रमनियमादृष्ट्यं निवारयामः ॥ किं तर्हि ॥ मन्त्रेण जायमानमर्थप्रत्यायनं दृष्टप्रयोजनत्वान्नोपेक्षितव्यमिति ब्रूमः । ननु प्रोक्षणीरासादय (Vajasaneyi Samhita 1-28) इति मन्त्रो बुद्धमेवार्थं शास्ति । तदयुक्तम् ।
 >
-> परं द्वितीय-सूत्रोक्तं स्यात् ... न हि अयं साकल-क्रम-नियमादृष्ट्यं निवारयामः ॥ किं तर्हि ॥ मन्त्रेण जायमानम् अर्थ-प्रत्यायनं दृष्ट-प्रयोजनत्वान् नोपेक्षितव्यम् इति ब्रूमः । ननु प्रोक्षणीर् आसादय इति मन्त्रो बुद्धम् एवार्थं शास्ति । तद् अयुक्तम् ।
 > *paraṃ dvitīya-sūtroktaṃ syāt ... na hi ayaṃ sākala-krama-niyamādṛṣṭyaṃ nivārayāmaḥ || kiṃ tarhi || mantreṇa jāyamānam artha-pratyāyanaṃ dṛṣṭa-prayojanatvān nopekṣitavyam iti brūmaḥ | nanu prokṣaṇīr āsādaya iti mantro buddham evārthaṃ śāsti | tad ayuktam |*
 >
 > "What was said in the second sutra is not contradicted by us — we do not deny the unseen benefit of the fixed recitation-order. What then is our point? We say that the meaning-conveying function arising through the mantra, being a directly observable benefit, must not be overlooked. But doesn't the mantra 'prokṣaṇīr āsādaya' merely prescribe an already-known matter? That objection does not hold."
@@ -7058,7 +6950,6 @@ Sutra's meaning: what the second sutra states is not opposed to our view. The in
 
 > संप्रेषकर्मणो गर्हा त्वदुक्त दोषो नोपलभ्यते । बुद्धस्यापि अर्थस्य मन्त्रेणानुसंस्करणान्नियमाद्दृष्टलक्षणस्य संस्कारस्य सद्भावात् । यच्चोक्तं चत्वारि शृंगेति मन्त्रेऽसंभवमेवार्थमभिधत्त इति तस्योत्तरं सूत्रयति ॥
 >
-> संप्रेष-कर्मणो गर्हा त्वद्-उक्त दोषो नोपलभ्यते । बुद्धस्याप्य् अर्थस्य मन्त्रेणानुसंस्करणान् नियमाद् दृष्ट-लक्षणस्य संस्कारस्य सद्भावात् । यच् चोक्तं चत्वारि शृङ्गेति मन्त्रेऽसंभवम् एवार्थम् अभिधत्त इति तस्योत्तरं सूत्रयति ॥
 > *saṃpreṣa-karmaṇo garhā tvad-ukta doṣo nopalabhyate | buddhasyāpy arthasya mantreṇānusaṃskaraṇān niyamād dṛṣṭa-lakṣaṇasya saṃskārasya sadbhāvāt | yac coktaṃ catvāri śṛṅgeti mantre'saṃbhavam evārtham abhidhatta iti tasyottaraṃ sūtrayati ||*
 >
 > "The fault you alleged for acts commanded by 'presha' (directive) mantras is not actually found. Even for already-known matter, reciting the mantra confers a directly-observable refinement (saṃskāra) upon the act, following the established rule. As for the earlier objection that the 'four-horned' mantra states something self-evidently impossible, an answer to that follows too."
@@ -7096,7 +6987,6 @@ Whether "saṃskāra" is understood as conferring a special unseen fruit (impart
 
 > असतोऽर्थस्याभिधाने वाक्ये गौणस्यार्थस्योक्तिर्दृष्ट्या । तद्यथा । चत्वारो होतृचोद्गातृ-अध्वर्यु-ब्राह्मणाः अस्य कर्णः शृंगाणि । प्रातःसवनादयस्त्रयः पादाः । गार्हपत्यादीनि सप्त छन्दांसि हस्ताः । ऋग्वेदादिभिस्त्रेधा बन्धनम् । कामान्सृजतीति वृषभः । रोरवीति स्तोत्रं चादिशब्दात् पुनःपुनः करोति । महादेवः सोऽयं प्राणो यज्ञरूपो देवो मर्त्यानाविवेशेति मनुष्या द्विनात्वाधिकांशि । लोकेष्विव गौणप्रयोगा दृश्यन्ते । चित्रांगस्त्री हंसदन्तावली काश्यैवलकेशिनीत्येवं सद्यः स्त्रीयमानत्वात् । एवमोषधे त्रायस्वैनं, शृणोत ग्रावाण इत्याद्यचेतनसंबोधनानि स्तुतिपरत्वेन योजनीयानि । यस्मिन् सजन ओषधिः त्रायते तत्र वसनकर्ता त्रायत इति किमु वक्तव्यम् । तथा ग्रावाणोऽपि...
 >
-> असतोऽर्थस्याभिधाने वाक्ये गौणस्यार्थस्योक्तिर् दृष्ट्या । तद् यथा । चत्वारो होतृ-चोद्-गातृ-अध्वर्यु-ब्राह्मणाः अस्य कर्णः शृङ्गाणि । प्रातः-सवनादयस् त्रयः पादाः । गार्हपत्यादीनि सप्त छन्दांसि हस्ताः । ऋग्वेदादिभिस् त्रेधा बन्धनम् । कामान् सृजतीति वृषभः । रोरवीति स्तोत्रं चादि-शब्दात् पुनः पुनः करोति । महादेवः सोऽयं प्राणो यज्ञ-रूपो देवो मर्त्यान् आविवेशेति मनुष्या द्विनात्व्-अधिकांशि । लोकेष्व् इव गौण-प्रयोगा दृश्यन्ते । चित्रांगस्त्री हंस-दन्तावली काश्यैव-लकेशिनीत्य् एवं सद्यः स्त्रीयमानत्वात् । एवम् ओषधे त्रायस्वैनं, शृणोत ग्रावाण इत्य् आद्य्-अचेतन-सम्बोधनानि स्तुति-परत्वेन योजनीयानि । यस्मिन् सजन ओषधिः त्रायते तत्र वसन-कर्ता त्रायत इति किम् उ वक्तव्यम् । तथा ग्रावाणोऽपि...
 > *asato'rthasyābhidhāne vākye gauṇasyārthasyoktir dṛṣṭyā | tad yathā | catvāro hotṛ-cod-gātṛ-adhvaryu-brāhmaṇāḥ asya karṇaḥ śṛṅgāṇi | prātaḥ-savanādayas trayaḥ pādāḥ | gārhapatyādīni sapta chandāṃsi hastāḥ | ṛgvedādibhis tredhā bandhanam | kāmān sṛjatīti vṛṣabhaḥ | roravīti stotraṃ cādi-śabdāt punaḥ punaḥ karoti | mahādevaḥ so'yaṃ prāṇo yajña-rūpo devo martyān āviveśeti manuṣyā dvinātv-adhikāṃśi | lokeṣv iva gauṇa-prayogā dṛśyante | citrāṃgastrī haṃsa-dantāvalī kāśyaiva-lakeśinīty evaṃ sadyaḥ strīyamānatvāt | evam oṣadhe trāyasvainaṃ, śṛṇota grāvāṇa ity ādy-acetana-sambodhanāni stuti-paratvena yojanīyāni | yasmin sajana oṣadhiḥ trāyate tatra vasana-kartā trāyata iti kim u vaktavyam | tathā grāvāṇo'pi...*
 >
 > "When a sentence states something non-existent, we recognize a secondary/metaphorical meaning, based on precedent. As follows: the four priests — Hotr, Udgatr, Adhvaryu, and Brahma — are this sacrifice's 'horns.' The morning pressing and the other two pressings are its three 'feet.' The Garhapatya and other sacred fires, together with the seven meters, are its 'hands.' It is bound threefold through the Rigveda and the other Vedas. 'It fulfills desires' — hence it is called a 'bull' (vṛṣabha); it 'roars' — that is, the hymn of praise — and, from the word 'etc.,' does so repeatedly. This same great deity (Mahādeva), this life-breath in the form of the sacrifice, has entered mortals — hence humans having two principal [organs/heads] need not be taken too literally. Metaphorical usage is seen in ordinary life too — as when we call a woman 'swan-toothed' or 'Kashi's own curly-locked one,' describing her as embodying these qualities directly. Likewise, addresses to inanimate things — 'O herb, protect him,' 'hear, O stones' — should be understood as oriented toward praise. Where the herb itself is said to protect [the wearer], need it even be said that the one who prepares and ties it also protects him? Similarly, the stones too..."
@@ -7156,7 +7046,6 @@ Similarly, sentences addressing inanimate objects serve to praise the associated
 
 > यथा त्वमेव सिता त्वमेव मातेत्यत्र गौणप्रयोगादविरोधस्तद्वत् । एवमेकरुद्रदेवत्ये कर्मण्येको रुद्रः शतरुद्रदेवत्ये शतं रुद्रा इत्यविरोधः । यदुक्तं स्वाध्या...
 >
-> यथा त्वम् एव सिता त्वम् एव मातेत्य् अत्र गौण-प्रयोगाद् अविरोधस् तद्वत् । एवम् एक-रुद्र-देवत्ये कर्मण्य् एको रुद्रः शत-रुद्र-देवत्ये शतं रुद्रा इत्य् अविरोधः । यद् उक्तं स्वाध्या...
 > *yathā tvam eva sitā tvam eva mātety atra gauṇa-prayogād avirodhas tadvat | evam eka-rudra-devatye karmaṇy eko rudraḥ śata-rudra-devatye śataṃ rudrā ity avirodhaḥ | yad uktaṃ svādhyā...*
 >
 > "Just as in 'you alone are my father, you alone are my mother,' the metaphorical usage removes any contradiction, so too here: in a rite dedicated to a single Rudra-deity, there is one Rudra; in a rite dedicated to a hundred Rudra-deities, there are a hundred Rudras — no contradiction. As for what was earlier said regarding svādhyāya..."
@@ -7287,7 +7176,6 @@ The objection there held that the Vedas, like Kalidasa's own works, were compose
 
 > परं तु श्रुतिसामान्यमात्रम् ।
 >
-> परं तु श्रुति-सामान्य-मात्रम् ।
 > *paraṃ tu śruti-sāmānya-mātram |*
 >
 > "But this rests merely on a similarity of sounds."
@@ -7315,7 +7203,6 @@ In this way, no flaw whatsoever remains regarding mantra-meaning — mantras gen
 
 > आग्नेय्याग्निध्रमुपतिष्ठेति श्रूयते । तस्यायमर्थः । अग्निदेवता यस्या ऋचः सेयमाग्नेयी । तयाग्निध्रस्थानमुपतिष्ठेति । अत्र ह्युपस्थानमुपदिशद्ब्राह्मणमग्ने नय (RV 1-189-1) इत्येवंरूपोपस्थाने मन्त्रप्रतीकं पठित्वा नोपस्थितिं किं तु आग्नेयीत्याख्येनोपदिशति ।
 >
-> आग्नेय्य् आग्निध्रम् उपतिष्ठेति श्रूयते । तस्यायम् अर्थः । अग्नि-देवता यस्या ऋचः सेयम् आग्नेयी । तयाग्निध्र-स्थानम् उपतिष्ठेति । अत्र ह्य् उपस्थानम् उपदिशद् ब्राह्मणम् अग्ने नय इत्य् एवं-रूपोपस्थाने मन्त्र-प्रतीकं पठित्वा नोपस्थितिं किं तु आग्नेयीत्य् आख्येनोपदिशति ।
 > *āgneyy āgnidhram upatiṣṭheti śrūyate | tasyāyam arthaḥ | agni-devatā yasyā ṛcaḥ seyam āgneyī | tayāgnidhra-sthānam upatiṣṭheti | atra hy upasthānam upadiśad brāhmaṇam agne naya ity evaṃ-rūpopasthāne mantra-pratīkaṃ paṭhitvā nopasthitiṃ kiṃ tu āgneyīty ākhyenopadiśati |*
 >
 > "It is heard: 'one should approach the Agnidh's platform with an Āgneyī [verse].' Its meaning: that Rik whose deity is Agni is called 'Āgneyī' — one should approach the Agnidh's platform with such a verse. Here, the Brahmana, in prescribing this approach, does not simply cite the opening words of the actual verse ('agne naya...') — instead, it prescribes it using the descriptive term 'Āgneyī.'"
@@ -7338,7 +7225,6 @@ Sutra's meaning: ritual terms are used precisely to indicate meaning. "Āgneyyā
 
 > प्रकृतानाम्नातस्य मन्त्रस्य विकृतौ समन्वेतार्थत्वाय तदुचितसदान्तरस्य प्रक्षेपेण पाठ ऊहः । शब्द्यथा । अन्वेनं माता मन्यतामनु पितानु भ्रातेति प्राकृते पशुविषये मन्त्रपाठः (Maitrayani Samhita 4-13-4) । तस्य च मन्त्रस्य विकृतौ पशुद्वये सत्यन्वेना माता मन्यताम् इत्युक्त्ये कर्तव्ये इहैकस्मिन्त्रे व्याख्यारूपं ब्राह्मणमेवमाम्नायते । न माता वर्धते न पितेति ।
 >
-> प्रकृतानाम् नातस्य मन्त्रस्य विकृतौ समन्वेतार्थत्वाय तद्-उचित-पदान्तरस्य प्रक्षेपेण पाठ ऊहः । शब्द्यथा । अन्वेनं माता मन्यताम् अनु पितानु भ्रातेति प्राकृते पशु-विषये मन्त्र-पाठः । तस्य च मन्त्रस्य विकृतौ पशु-द्वये सत्य् अन्वेना माता मन्यताम् इत्य् उक्त्ये कर्तव्ये इहैकस्मिन्त्त्रे व्याख्या-रूपं ब्राह्मणम् एवम् आम्नायते । न माता वर्धते न पितेति ।
 > *prakṛtānām nātasya mantrasya vikṛtau samanvetārthatvāya tad-ucita-padāntarasya prakṣepeṇa pāṭha ūhaḥ | śabdyathā | anvenaṃ mātā manyatām anu pitānu bhrāteti prākṛte paśu-viṣaye mantra-pāṭhaḥ | tasya ca mantrasya vikṛtau paśu-dvaye saty anvenā mātā manyatām ity uktye kartavye ihaikasminttre vyākhyā-rūpaṃ brāhmaṇam evam āmnāyate | na mātā vardhate na piteti |*
 >
 > "Ūha (adaptation) means reciting a mantra, originally composed for one context, with an appropriately modified word substituted, so that it retains a fitting meaning when applied in a related but altered context. For example: 'anvenaṃ mātā manyatām anu pitānu bhrātā' ('may its mother, father, and brother approve of it') is the mantra-text prescribed for a single sacrificial animal. In the modified case of two animals, one might expect the dual form 'anvenā mātā manyatām' — yet the Brahmana's own explanatory gloss on this states: 'the mother is not increased, nor the father' [i.e., these terms remain singular regardless]."
@@ -7386,7 +7272,6 @@ Here, "vṛddhi" (increase) could mean either of two things: age-related growth 
 
 > मन्त्रव्याख्यानरूपो ब्राह्मणिकः शब्दो विधिशब्द इत्युच्यते । स चैवमाम्नायते । शतं हिमाः शतं वर्षाणि जीव्यासमेत्येवैतदाह (Shatapatha Brahmana 2-3-4-21) इति । तत्र शतं हिमा इत्येतद्व्याख्येयमन्त्रस्य प्रतीकम् । अवशिष्टं तु तस्य तात्पर्यव्याख्यानम् । मन्त्रस्याविवक्षितार्थत्वे तु किं नाम तात्पर्यं मन्त्रे व्याख्यायेत । तस्माद्विवक्षितार्था मन्त्राः प्रयोगकाले स्वार्थप्रकाशनायैवोच्चार्यन्त इत्याह ॥
 >
-> मन्त्रव्याख्यानरूपो ब्राह्मणगतः शब्दो विधिशब्द इत्युच्यते । स चैवमाम्नायते । शतं हिमाः शतं वर्षाणि जीव्यास्मेत्येवैतदाह (श. ब्रा. २-३-४-२१) इति । तत्र शतं हिमा इत्येतद्व्याख्येयमन्त्रस्य प्रतीकम् । अवशिष्टं तु तस्य तात्पर्यव्याख्यानम् । मन्त्रस्याविवक्षितार्थत्वे तु किं नाम तात्पर्यं मन्त्रे व्याख्यायेत । तस्माद्विवक्षितार्था मन्त्राः प्रयोगकाले स्वार्थप्रकाशनायैवोच्चारयितव्याः ॥
 > *mantra-vyākhyāna-rūpo brāhmaṇagataḥ śabdo vidhiśabda ity ucyate | sa caivam āmnāyate | śataṃ himāḥ śataṃ varṣāṇi jīvyāsmety evaitad āha (Śa. Brā. 2-3-4-21) iti | tatra śataṃ himā ity etad vyākhyeya-mantrasya pratīkam | avaśiṣṭaṃ tu tasya tātparya-vyākhyānam | mantrasyāvivakṣitārthatve tu kiṃ nāma tātparyaṃ mantre vyākhyāyeta | tasmād vivakṣitārthā mantrāḥ prayoga-kāle svārtha-prakāśanāyaivoccārayitavyāḥ ||*
 >
 > "A Brahmana statement that takes the form of explaining a mantra is called a 'vidhi-śabda.' One such is recorded: 'śataṃ himāḥ śataṃ varṣāṇi jīvyāsam' ('may I live a hundred winters, a hundred years') — this is what is meant. Here, 'śataṃ himāḥ' is the pratīka (opening phrase) of the mantra being explained; the rest explains its purport. If the mantra carried no intended meaning at all, what purport could possibly be explained? This shows that mantras, carrying real intended meaning, are recited at their application specifically to reveal that meaning."
@@ -7467,7 +7352,6 @@ Let us accept the Samhita (mantra) portion as authoritative, as already establis
 
 > सोमयागे प्रवृत्तस्य यजमानस्य संस्कारो दीक्षणम् । तस्मै च संस्कारस्य हेतुः कर्मविशेषो दीक्षणीयाच्च्यवाच्यः ॥ (Sāyaṇa-bhāṣya, Ai. Brā. 1-1-1)
 >
-> सोमयागे प्रवृत्तस्य यजमानस्य संस्कारो दीक्षणम् । तस्मै च संस्कारस्य हेतुः कर्म-विशेषो दीक्षणीयाच् च्यवाच्यः ॥
 > *somayāge pravṛttasya yajamānasya saṃskāro dīkṣaṇam | tasmai ca saṃskārasya hetuḥ karma-viśeṣo dīkṣaṇīyāc cyavācyaḥ ||*
 >
 > "For the yajamāna undertaking a Soma-yaga, initiation (dīkṣaṇa) is the necessary consecration; the specific ritual act causing that consecration is termed 'dīkṣaṇīyā.'"
@@ -7495,7 +7379,6 @@ The Taittiriya Brahmana states similarly through "yad anudite... juhoti" and rel
 
 > यदुदिते सूर्ये प्रातर्जुहुयात् । यथातिथये प्रयुतायै शून्यायावसथायागच्छेत् । आद्यैव स्यात् । (Taittiriya Brahmana 2-1-27)
 >
-> यद् उदिते सूर्ये प्रातर् जुहुयात् । यथातिथये प्रदुतायै शून्यायावसथायागच्छेत् । आद्यैव स्यात् ।
 > *yad udite sūrye prātar juhuyāt | yathātithaye pradutāyai śūnyāyāvasathāyāgacchet | ādyaiva syāt |*
 >
 > "If one performs the morning homa after the sun has already risen — it is like a guest arriving at an empty house after the food meant for him has already been sent away; it would have been better offered promptly."
@@ -7609,7 +7492,6 @@ Whether to include or omit a given Shastra remains disputed — the Sankhyayana-
 
 > अज्ञातज्ञापकेषु ब्रह्मविधिष्ठ्वपि परस्परविरोधान्नास्ति प्रामाण्यम् । आत्मा वा इदमेक एवाग्र आसीत् (Aitareya Aranyaka 2-4-1) इत्यैतरेयेण आमनन्ति । असद्वा इदमग्र आसीत् (Taittiriya Aranyaka 8-7) इति तैत्तिरीयकाः । सोऽयं विरोधः । तस्माद्येव विधिभागः सर्वोऽप्यप्रमाणमिति प्राप्ते ब्रूमः ॥
 >
-> अज्ञात-ज्ञापकेषु ब्रह्म-विधिष्व् अपि परस्पर-विरोधान् नास्ति प्रामाण्यम् । आत्मा वा इदम् एक एवाग्र आसीत् इत्य् ऐतरेयेण आम्नन्ति । असद् वा इदम् अग्र आसीत् इति तैत्तिरीयकाः । सोऽयं विरोधः । तस्माद् एव विधि-भागः सर्वोऽप्य् अप्रमाणम् इति प्राप्ते ब्रूमः ॥
 > *ajñāta-jñāpakeṣu brahma-vidhiṣv api paraspara-virodhān nāsti prāmāṇyam | ātmā vā idam eka evāgra āsīt ity aitareyeṇa āmnanti | asad vā idam agra āsīt iti taittirīyakāḥ | so'yaṃ virodhaḥ | tasmād eva vidhi-bhāgaḥ sarvo'py apramāṇam iti prāpte brūmaḥ ||*
 >
 > "Even among the brahma-kāṇḍa's 'revealing the unknown' vidhis, no authority exists, due to mutual contradiction. The Aitareyins state: 'ātmā vā idam eka evāgra āsīt' (in the beginning, this was the Self alone). The Taittiriyas state: 'asad vā idam agra āsīt' (in the beginning, this was non-being alone). This is a direct contradiction. Given this, the entire vidhi-portion is claimed to be without authority — to which we now respond—"

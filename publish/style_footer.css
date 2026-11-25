@@ -1,0 +1,13 @@
+/* Footer of the old builders (build.py, build_vol1/2/45.py), Nov 25 2026 (user; REQUIREMENTS A4, A1):
+   the page number of this book stands in the footer, not in the top corners; the page of the Kannada original is no longer printed in
+   the body ("original p. N") but in the footer; every page says REVIEW COPY.  Linked last, so it overrides style.css. */
+.pgmark { string-set: kp attr(data-p); height: 0; margin: 0; padding: 0; font-size: 0; line-height: 0; visibility: hidden; break-after: avoid; }
+@page { @bottom-center { content: counter(page); font: 9pt "Noto Serif"; }
+        @bottom-left   { content: "REVIEW COPY"; font: 7.5pt "Noto Serif"; color: #777; letter-spacing: .08em; }
+        @bottom-right  { content: string(kp, first); font: 7.5pt "Noto Serif"; color: #555; } }
+@page :left  { @top-left  { content: none; } }
+@page :right { @top-right { content: none; } }
+@page roman, roman:left, roman:right { @bottom-center { content: counter(page, lower-roman); font: 9pt "Noto Serif"; } }
+@page front { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+@page :first { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }
+@page :blank { @bottom-center { content: none; } @bottom-left { content: none; } @bottom-right { content: none; } }

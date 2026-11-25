@@ -11,6 +11,9 @@ KINDs: oldnotes   old mid-file progress/target notes and the closing progress no
                   Unlike the other kinds it also works at the end of Sanskrit lines (the parenthesis itself must be free of Devanagari).
        session    whole paragraphs in which the translating session talks (Progress, Target for next session, Pacing/Honesty/Confidence notes,
                   Caveats, flag lists "- p. N — …", Superseded notes)
+       twin       (Vol 1) a Sanskrit quotation given twice in Devanagari: as printed, then again with the words set apart, then the
+                  transliteration.  The second Devanagari line goes (user, Nov 25 2026: "retain only the first lines"); only where the two lines
+                  are the same text (letters compared through the transliteration, >= 93 of 100) and the transliteration follows.
        marks      no change: writes volN/review/open_readings.tsv, every `[?]` and `[sic]` left in the file (file, page, line, mark, context)
 Dry run by default: prints counts, damage checks and 30 before/after samples.  --write applies, appends to volN/review/removed_remarks.tsv
 (kind, page, line, text removed, line before, line after) so that any removal can be undone, and prints the damage report.
@@ -211,7 +214,26 @@ def kind_session(L):
            or (SESSION_WORD.search(l) and re.match(r'^(?:>\s*)?(\*\*|\*\(|\d+\. \*\*)', l)):
             rm[i] = None
     return rm
-KINDS = {'session': kind_session, 'paren': kind_paren, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
+def kind_twin(L):
+    sys.path.insert(0, os.path.join(ROOT, 'publish', 'tools', 'translit'))
+    from add_iast import deva_to_iast
+    from rapidfuzz import fuzz
+    DV = re.compile('[\u0900-\u097f]')
+    def key(l):
+        l = re.sub(r'\([^()]*\)', '', re.sub(r'^>\s*', '', l))
+        return re.sub('[^a-zāīūṛṝḷṃḥśṣṇṭḍñṅ]', '', deva_to_iast(''.join(ch for ch in l if DV.match(ch) or ch == ' ')).lower())
+    rm = {}
+    for i, a in enumerate(L):
+        if not (a.startswith('>') and DV.search(a)) or i in rm: continue
+        j = i + 1
+        while j < len(L) and L[j].strip() == '>': j += 1
+        if j == i + 1 or j + 1 >= len(L): continue
+        b = L[j]
+        if not (b.startswith('>') and DV.search(b)) or b.lstrip('> ').startswith('*') or not L[j + 1].lstrip('> ').startswith('*'): continue
+        ka, kb = key(a), key(b)
+        if len(ka) >= 12 and fuzz.ratio(ka, kb) >= 93: rm[j] = None
+    return rm
+KINDS = {'twin': kind_twin, 'session': kind_session, 'paren': kind_paren, 'firstperson': kind_firstperson, 'asprinted2': kind_asprinted2, 'asprinted': kind_asprinted, 'tentative': kind_tentative, 'clauses': kind_clauses, 'notes': kind_notes, 'oldnotes': kind_oldnotes}
 def apply(L, rm):
     last = rm.pop('last', None)
     out = []; gap = False
