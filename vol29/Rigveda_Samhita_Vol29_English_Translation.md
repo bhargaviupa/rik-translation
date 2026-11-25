@@ -1,5 +1,23 @@
 # Rigveda Samhita — Volume 29 (Kannada → English translation)
 
+## Preface (Pīṭhike)
+
+In this part of the Ṛk-saṃhitā the third and fourth adhyāyas of the eighth aṣṭaka are included. In them are explained many sūktas that contain profound matters of principle. Of these the Viśvakarma-sūkta and the Puruṣa-sūkta are the chief ones. We have explained these somewhat at length. Although a detailed explanation is necessary in some other sūktas also, for fear that the book would become too large, only such explanations as were possible have been added here and there.
+
+To publish in simple Kannada, together with a critical translation, such a Ṛgveda-saṃhitā, which is most ancient, most profound, most vast, and the foundation of all the śāstras, is not an easy task. Even so, with the lofty aim that through such a great undertaking all people, scholars and laymen alike, may gain increase of knowledge and become worthy of the grace of God, His Highness Śrī Jayachamarajendra Wodeyar Bahadur, G.C.B., G.C.S.I., the Lord of the Throne of Karnataka, a lover of Vedic learning, himself a scholar, beloved of his subjects and devoted to God, and his Government, by their generous patronage encourage this publication, which calls for great expenditure; this must be called the good fortune of the multitude of the people of Karnataka. For our generous-minded Lord, his family, the princesses, the prince bearing the auspicious name Śrīkaṇṭhadatta Narasiṃharāja Wodeyar, and the whole multitude of subjects, I pray that Sarveśvara, who is the Veda-Puruṣa, may graciously grant, all the more abundantly, all wealth, such as long life, health and prosperity, which are the fruits of this world, and also spiritual knowledge, which is the fruit of the other.
+
+Mysore
+
+Śrī Jaya year, Saṃ. Mārgaśira kṛṣṇa trayodaśī, Wednesday
+
+Date 22-12-1954.
+
+Translator:
+
+H. P. Venkata Rao,
+
+Court Mahāvidvān.
+
 ### Printed p. 1
 
 Invocation verses:

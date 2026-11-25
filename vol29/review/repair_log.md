@@ -6,3 +6,6 @@
 
 ## 2026-11-25 — page markers (both files)
 Checked with `tools/rv/check_page_markers.py 29` (one `---` chunk of the supplied text = one printed page). Before: 1018 markers, missing 167, 311, 447, 987, 1019, 1020. Repairs: marker 238 moved from the footnote of p. 237 to the real start of p. 238 (head line added as supplied); markers inserted for 167, 311, 447 (page of the "ૐ / Śrī 9" opening, no head line), 988, 1019, 1021 (head lines wrapped as in other markers); marker labelled 988 relabelled 987 and the one labelled 1021 relabelled 1020 (their head lines name those pages). English `### Printed p. N` moved/added at the matching text. No text changed. After: 1024 markers in each file, none missing, repeated or out of order.
+
+## 2026-11-25 — preface installed
+Editor's preface (ಪೀಠಿಕೆ, lines 104–133 of `vol29/html/rig_29.md`; translated by one Sonnet agent) installed before printed p. 1: English `## Preface (Pīṭhike)` after the title line; Kannada `## ಪೀಠಿಕೆ` after the header `---`, as supplied (stray `}` after the date line kept in the Kannada); 1 NOTE row moved to the top of `review/notes.tsv` (window `preface`). Done on the user's instruction "go ahead with all".
