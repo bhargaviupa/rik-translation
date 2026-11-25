@@ -24240,6 +24240,238 @@ For well-being and prosperity this sūkta should be muttered every day; and the 
 
 स्थावरणां निवेशे तु नगराणां तथैव च । ग्रामाणां च गृहाणां च जपेदिममृषिं सदा ॥ ८५ ॥ (*sthāvaraṇāṃ niveśe tu nagarāṇāṃ tathaiva ca | grāmāṇāṃ ca gṛhāṇāṃ ca japedimamṛṣiṃ sadā ‖ 85 ‖*)
 
+### Printed p. 730
+In mountain regions, cities, villages, houses and other places, at convenient spots, this very sūkta should always be recited.
+
+जातरूपमयं विद्वान्कारयेत्त्रिवृतं मणिं । (*jātarūpamayaṃ vidvānkārayettrivṛtaṃ maṇiṃ |*)
+सहस्रसंपातहुतमृषिणा तेन तं ततः ॥ (*sahasrasaṃpātahutamṛṣiṇā tena taṃ tataḥ ‖*) (36)
+प्रतिमुंचेत शिरसि ग्रीनायामथवोरसि । (*pratimuṃceta śirasi grīnāyāmathavorasi |*)
+नैनं कृत्या निहिंसंति ज्ञाताज्ञातानि यानि च ॥ (*nainaṃ kṛtyā nihiṃsaṃti jñātājñātāni yāni ca ‖*) (37)
+
+A discerning practitioner should make beads from the tree called jātarūpa, string a thousand such beads into a three-stranded necklace, and wear it on his head, at his throat or on his chest. Then magic, sorcery and other hostile rites (ābhicāraka) can do him nothing.
+
+अनेनैव तु सूक्तेन राज्ञां च समलोहितं । (*anenaiva tu sūktena rājñāṃ ca samalohitaṃ |*)
+कारयेत मणिं विद्वांस्तावदेवानुमंत्रणं ॥ (*kārayeta maṇiṃ vidvāṃstāvadevānumaṃtraṇaṃ ‖*) (38)
+संग्रामेषु ध्वजाग्राणि वादित्राण्यनुमंत्रयेत् । (*saṃgrāmeṣu dhvajāgrāṇi vāditrāṇyanumaṃtrayet |*)
+आसनानि च शय्याश्च यानानि विविधानि च ॥ (*āsanāni ca śayyāśca yānāni vividhāni ca ‖*) (39)
+तस्याभिचरतः साक्षादंगिरसोऽप्युषेः स्वयं । (*tasyābhicarataḥ sākṣādaṃgiraso 'pyuṣeḥ svayaṃ |*)
+प्रत्यंगिरसकल्पेन सर्वं तत्पतिबाधते ॥ (*pratyaṃgirasakalpena sarvaṃ tatpatibādhate ‖*) (40)
+
+Having made the beads as described above and consecrated them with the mantras of this sūkta, kings should tie them to the tops of the banners used in battle and the like. Likewise, if the beads are tied to the various drums such as the nagārī and other instruments, to seats, beds and other articles, then even if the sage Aṅgiras himself, who is skilled in magical arts, were to direct hostile rites against them, all of these can be warded off by the procedure of the Pratyaṅgirasa-kalpa.
+
+अमानुषीरभिचरेत् कृत्यासूक्तं जपन्निदं । (*amānuṣīrabhicaret kṛtyāsūktaṃ japannidaṃ |*)
+मुच्यते सर्वतोऽनिष्टात् किंपुनर्मानुषाद्भयं (*mucyate sarvato 'niṣṭāt kiṃpunarmānuṣādbhayaṃ*) (printed number 40)**NOTE**
+
+Sitting in a secluded place without human traffic and reciting this Kṛtyā-sūkta, all kinds of misfortune, fear and the like will be destroyed. What can fears and terrors arising from human beings do in front of the recitation of this mantra?
+
+तपस्वी नियतो दांतः प्रयोक्ता चेद्भवेदृषिं । (*tapasvī niyato dāṃtaḥ prayoktā cedbhavedṛṣiṃ |*)
+सर्वं तरति शांतात्मा तपो हि सुमहद्बलं (*sarvaṃ tarati śāṃtātmā tapo hi sumahadbalaṃ*) (42)
+
+### Printed p. 731
+आयुष्यमायुर्वर्चस्यं सूक्तं दाक्षायणं महत् । (*āyuṣyamāyurvarcasyaṃ sūktaṃ dākṣāyaṇaṃ mahat |*)
+अलंकारं हिरण्यं ना प्राप्य दाक्षायणं जपेत् । (*alaṃkāraṃ hiraṇyaṃ nā prāpya dākṣāyaṇaṃ japet |*)
+प्रायश्च श्रियमादत्ते बहु चान्नं समश्नुते (*prāyaśca śriyamādatte bahu cānnaṃ samaśnute*) (43)
+
+If an ascetic man, with discipline and a calm mind, recites this sūkta and performs the rites accordingly, he removes by the power of his austerity all misfortunes and fears and lives happily. If this great sūkta is recited at the auspicious time of the dakṣiṇāyana, long life, splendour, adornment, gold and other prosperity, wealth, and abundance of riches and grain will all be obtained.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ममाग्न इति नवर्चं षोडशं सूक्तमांगिरसस्य विहव्यस्यार्षं वैश्वदेवं ।
+> अंत्या जगती शिष्टास्त्रिष्टुभः । अनुक्रम्यते हि । ममाग्ने नव विहवो वैश्वदेवं
+> जगत्यंतमिति ॥ संसवे निमित्तभूते वैश्वदेवसूक्तस्य पुरस्तादेतच्छंस्यं । सूत्रितं
+> च । ममाग्ने वर्च इति वैश्वदेवसूक्तस्यापि वैतेष्वेव निविदो दध्यात् । आ. ६-६ ।
+> इति ॥ समावर्तनेऽनेन सूक्तेन सिष्णासुना प्रत्यृचं समिधाधातव्या । सूत्रितं च ।
+> ममाग्ने वर्च इति प्रत्यृचं समिधोऽभ्यादध्यात् । आ. गृ. ३-९-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the sixteenth sūkta, of nine ṛks, beginning ममाग्न (*mamāgna*). Its seer is Vihavya of the Āṅgirasa line, its deity the Viśvedevas; the last ṛk is Jagatī and the rest are Triṣṭubh. The Anukramaṇī says: ममाग्ने नव विहवो वैश्वदेवं जगत्यंतमिति (*mamāgne nava vihavo vaiśvadevaṃ jagatyaṃtamiti*). In the saṃsava, which is the occasion, this sūkta is to be recited before the Vaiśvadeva sūkta. It is prescribed by the sūtra ममाग्ने वर्च इति वैश्वदेवसूक्तस्यापि वैतेष्वेव निविदो दध्यात् (*mamāgne varca iti vaiśvadevasūktasyāpi vaiteṣveva nivido dadhyāt*) (Ā. 6-6). In the samāvartana the one who wishes to bathe should place a fuel-stick with each ṛk of this sūkta; the sūtra reads ममाग्ने वर्च इति प्रत्यृचं समिधोऽभ्यादध्यात् (*mamāgne varca iti pratyṛcaṃ samidho 'bhyādadhyāt*) (Ā. Gṛ. 3-9-2).
+
+##### Anuvāda
+
+This sūkta beginning ममाग्ने (*mamāgne*) is the sixteenth sūkta in the tenth anuvāka. It contains nine ṛks. Its seer is Vihavya of the Aṅgirasa gotra; its deity is the Viśvedevas; the last ṛk of the sūkta is in the Jagatī metre; the remaining ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is stated: ममाग्ने नव विहवो वैश्वदेवं जगत्तंतं (*mamāgne nava vihavo vaiśvadevaṃ jagattaṃtaṃ*). In the saṃsava, when the Vaiśvadeva sūkta is recited, this sūkta is to be recited beforehand; this is explained by the Āśvalāyana-śrautasūtra ममाग्ने वर्च इति वैश्वदेवसूक्तस्यापि वैतेष्टेव निविदो दध्यात् (*mamāgne varca iti vaiśvadevasūktasyāpi vaiteṣṭeva nivido dadhyāt*) (Ā. 6-6). In the samāvartana rite also, a fuel-stick is to be put into the fire with each ṛk of this sūkta; this is explained by the Āśvalāyana-gṛhyasūtra ममाग्ने वर्च इति प्रत्यृचं समिधोऽभ्यादध्यात् (*mamāgne varca iti pratyṛcaṃ samidho 'bhyādadhyāt*) (Ā. Gṛ. 3-9-2).
+
+Sūkta 128. Maṇḍala 10; Anuvāka 10; Sūkta 128. Aṣṭaka 8; Adhyāya 7; Vargas 15, 16. Number of ṛks in the sūkta: 9. Seer: Vihavya. Deity: Viśvedevas. Metre: 1–8 Triṣṭubh; 9 Jagatī.
+
+### Printed p. 732
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ममा॑ग्ने॒ वर्चो॑ विह॒वेष्व॑स्तु व॒यं त्वेंधा॑नास्त॒न्वं॑ पुषेम ।  
+> मह्यं॑ नमंतां प्र॒दिश॒श्चत॑स्र॒स्य याध्य॑क्षेण॒ पृत॑ना जयेम ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मम । अग्ने । वर्चः । विहवेषु । अस्तु । वयं । त्वा । इंधानाः । तन्वं । पुषेम ।  
+> मह्यं । नमंतां । प्रदिशः । चतस्रः । त्वया । अधिअक्षेण । पृतनाः । जयेम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने । विविधमाहूयंते येषु शूरा इति विहवाः संग्रामाः । यद्वा ।
+> विविधं यागार्थं देवा आहूयंत एष्विति विहवा यज्ञाः ॥ ह्वः संप्रसारणं च
+> न्यभ्युपविषु । पा. ३-३-७२ । इत्यधिकरणेऽप् संप्रसारणं च । थाथादिनोत्तरपदांतोदात्तत्वं ॥ संग्रामेषु यज्ञेषु वा वर्चो दीप्तिस्त्वदनुग्रहान्ममास्तु । भवतु ।
+> वयं च त्वा त्वामिंधानाः समिद्धिर्दिपयंतस्तन्वं तव शरीरं पुषेम । हविर्भिर्व.
+> र्धयेम ॥ इंथेः शानचि श्नसोरल्लोप उदात्तनिवृत्तिस्वरेण शानच आद्युदात्तत्वे
+> प्राप्ते विभाषा वेण्विंदानयोः । पा. ६-१-२१५ । इत्याद्युदात्तत्वं ॥ तन्नं पुषेम ॥
+> पुषेर्लिजि लिज्याशिष्यज् ॥ अपि च मह्यं मदर्थं ॥ जयि चेत्यस्मद आद्युदात्तत्वं ॥
+> चतस्रः प्रदिशः प्रकृष्टा दिशः । तद्वासिनो जना इत्यर्थः । नमंतां । स्वतः एव प्रह्वीभवंतु ॥ नमतेः कर्मकर्तरि लोटि न दुहस्सु नमामिशि यक्रतिषेधः ॥ त्वयास्माभिर्हविर्भिः प्रवर्धितेनाध्यक्षणेश्वरेण सता पृतनाः शत्रुसेना जयेम। अभिभवेम ॥
+
+##### Gist of the bhāṣya
+
+"O Agni." विहवाः (*vihavāḥ*) are battles, in which heroes are called in various ways; or else विहवाः (*vihavāḥ*) are sacrifices, in which the gods are called in various ways for the sake of the offering. In battles or sacrifices may radiance (वर्चः (*varcaḥ*)) be mine through your favour. And we, kindling you (इंधानाः (*iṃdhānāḥ*)) with fuel-sticks, would nourish (पुषेम (*puṣema*)) your body (तन्वं (*tanvaṃ*)), that is, make it grow with oblations. Further, may the four प्रदिशः (*pradiśaḥ*), the principal quarters, that is, the people living there, bow (नमंतां (*namaṃtāṃ*)) of themselves for me. With you, made strong by us through oblations and being our overlord (अध्यक्षेण (*adhyakṣeṇa*)), may we conquer the पृतनाः (*pṛtanāḥ*), the enemy armies, that is, overcome them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni (by your grace)
+- विहवेषु (*vihaveṣu*)—in sacrifices or in battles
+- वर्चः (*varcaḥ*)—radiance, that is, capacity
+- मम (*mama*)—to me
+- अस्तु (*astu*)—let there be
+- वयं (*vayaṃ*)—we
+- त्वा (*tvā*)—you
+- इंधानाः (*iṃdhānāḥ*)—having kindled with fuel-sticks and the like
+- तन्वं (*tanvaṃ*)—your body
+- पुषेम (*puṣema*)—we nourish and make grow with oblations and the like
+- चतस्रः प्रदिशः (*catasraḥ pradiśaḥ*)—the four quarters, that is, the people in the four quarters
+- मह्यं (*mahyaṃ*)—towards me
+- नमंतां (*namaṃtāṃ*)—let them bow
+- अध्यक्षेण (*adhyakṣeṇa*)—who are the lord
+- त्वया (*tvayā*)—by you, that is, with your help
+- पृतनाः (*pṛtanāḥ*)—enemy armies
+- जयेम (*jayema*)—may we conquer
+
+### Printed p. 733
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, by your grace, in sacrifices or in battles may strength and capacity arise in me. Having kindled you with fuel-sticks and the like, we nourish and make grow your body with oblations and the like. May the people in the four quarters bow to me, that is, be subject to my command. With your help, you who are lord of all, may we conquer the enemy armies.
+
+##### English translation
+May glory, Agni, be mine in battle, may we, kindling you, cherish your person, may the (inhabitants of the) four quarters bow down before me, may we with you for our leader overcome (hostile) armies.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनु॑ दे॒वा वि॑ह॒वे सं॑तु॒ सर्व॒ इंद्र॑वन्नो म॒रुतो॒ विष्णु॑र॒ग्निः ।  
+> ममां॒तरि॑क्षमु॒रुलो॑कमस्तु॒ मह्यं॒ वातः॑ पवतां॒ कामे॑  ॒
+> अस्मिन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मम । देवाः । विहवे । संतु । सर्वे । इंद्रवनः । मरुतः । विष्णुः । अग्निः ।  
+> मम । अंतरिक्षं । उरुलोकं । अस्तु । मह्यं । वातः । पवतां । कामे । अस्मिन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सर्वे देवा विहने संग्रामे यज्ञे ना मम संतु । ममैव साधका भवंतु।
+> के पुनस्ते । इंद्रवंत इंद्रेण युक्ता मरुतो विष्णुरग्निश्च । तथांतरिक्षं मनोरुलोकं विस्तीर्णप्रकाशकमस्तु ॥ लोकृ दर्शने । भावे घञ् । लोक आलोकः
+> प्रकाशः । उरुर्लोको यस्यॆति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥ अपि चास्मिन्मामे कामयितव्ये फले निमित्तभूते सति वातो वायुः पवतां । अनुगुणं
+> प्रवातु ॥ पूज् पवने भौवादिकः । ऊडिदमित्यादिनेदमः सप्तम्या उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+May all the gods be mine in battle or sacrifice, that is, be my accomplishers. Who are they? The इंद्रवंतः (*iṃdravaṃtaḥ*), the Maruts accompanied by Indra, and Viṣṇu and Agni. Likewise may the antarikṣa be उरुलोकं (*urulokaṃ*), widely luminous: the root लोकृ (*lokṛ*) means "to see", and लोक (*loka*) is the view, light; उरुर्लोको यस्य (*ururloko yasya*) is a bahuvrīhi. And in this कामे (*kāme*), this desired fruit being the occasion, may Vāta, the wind, blow (पवतां (*pavatāṃ*)), that is, blow favourably.
+
+### Printed p. 734
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवंतः (*iṃdravaṃtaḥ*)—accompanied by Indra
+- मरुतः (*marutaḥ*)—the Marut deities
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- अग्निः (*agniḥ*)—and Agni; all these and others
+- सर्वे देवाः (*sarve devāḥ*)—all the gods
+- विहवे (*vihave*)—in battle or in sacrifice
+- मम (*mama*)—mine, that is, as helpers to me
+- संतु (*saṃtu*)—let them be (and likewise)
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmospheric world
+- मम (*mama*)—in respect of me
+- उरुलोकं (*urulokaṃ*)—possessing wide light
+- अस्तु (*astu*)—let it be
+- मह्यं (*mahyaṃ*)—for me
+- कामे (*kāme*)—desiring the fruit
+- आस्मिन् (*āsmin*)—in me
+- वातः (*vātaḥ*)—the wind
+- प्रवतां (*pravatāṃ*)—let it blow pleasantly
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods, Indra, the Maruts, Viṣṇu, Agni and the rest, be my helpers in battle or sacrifice. In my case may the atmosphere also shine brightly. For me, who desire the fruit, may the wind blow beneficially.
+
+##### English translation
+May all the gods be on my side in battle, the Maruts with Indra, Vishnu and Agni ; may the expanded firmament be mine, may the wind blow (propitiously) to this my desire.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मयि॑ दे॒वा द्रवि॑ण॒मा य॑जंतां॒ मय्या॒तीर॑स्तु॒ मयि॑ दे॒वहू॑तिः ।  
+> दैव्या॒ होता॑रो वनुषंत॒ पूर्वेरि॑ष्टाः स्याम त॒न्वा॑ सु॒वीराः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मयि । देवाः । द्रविणं । आ । यजंतां । मयि । आशीः । अस्तु । मयि । देवहूतिः।  
+> दैव्याः । होतारः । वनुषंत । पूर्वे । अरिष्टाः । स्याम । तन्वा । सुवीराः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवाः सर्वे द्रविणं धनं मयि स्तोतर्या यजंतां । गमयंतु । मह्यं
+> ददत्वित्यर्थः । तथाशीराशंसनीयं यज्ञफलं च मय्येवास्तु । देवानां हूतिरा-
+
+##### Gist of the bhāṣya
+
+May all the gods offer (यजंतां (*yajaṃtāṃ*)) wealth (द्रविणं (*draviṇaṃ*)) to me, the praiser, that is, cause it to come, give it to me. So too may the आशीः (*āśīḥ*), the sacrificial fruit to be desired, be mine alone. (The explanation of देवहूतिः (*devahūtiḥ*) begins at the end of this block and continues in the next.)
+
+### Printed p. 735
+
+> ह्वानमस्मिन्निति देवहूतिर्यज्ञः । स च मय्यस्तु । अपि च देवानामिमे दैव्याः ॥
+> देवाद्यञञाविति यञ् ॥ तादृशा होतारः साधुहोमनिष्पादका मदीया
+> ऋत्विजः पूर्वेऽन्यदीयेभ्य ऋत्विग्भ्यः प्रथमभाविनः संतो वनुषंत । देवान्संभजंतां ॥ वनतेश्चांदसे लजि व्यत्ययो बहुलमिति त्रयो विकरणा उप्रत्ययः
+> सिष्यपौ च । अडभावश्चांदसः ॥ वयं च तन्ना शरीरेणारिष्टा अहिंसिताः सुवीराः
+> सुपुत्राश्च स्याम । भवेम ॥ वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+देवहूतिः (*devahūtiḥ*) is the sacrifice, in which there is an invoking of the gods; may that be in me. Further, those priests who are दैव्याः (*daivyāḥ*), belonging to the gods, who accomplish the good homa, my own priests, being earlier (पूर्वे (*pūrve*)) than the priests of others, may they worship (वनुषंत (*vanuṣaṃta*)) the gods, that is, serve them. And we, अरिष्टाः (*ariṣṭāḥ*), unharmed in body (तन्वा (*tanvā*)), and सुवीराः (*suvīrāḥ*), having good sons, may we be.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—all the gods
+- मयि (*mayi*)—in me, the praiser, or to me
+- द्रविणं (*draviṇaṃ*)—wealth
+- आ यजंतां (*ā yajaṃtāṃ*)—let them provide and give
+- आशीः (*āśīḥ*)—the sacrificial fruit in the form of a blessing
+- मयि अस्तु (*mayi astu*)—let it come to me
+- देवहूतिः (*devahūtiḥ*)—the sacrifice also
+- मयि (*mayi*)—let it be conducted by me
+- दैन्व्याः (*dainvyāḥ*)—belonging to the gods, our
+- होतारः (*hotāraḥ*)—priests
+- पूर्वे (*pūrve*)—even earlier than others
+- वनुषंत (*vanuṣaṃta*)—let them worship the gods
+- तन्वा (*tanvā*)—by our body
+- अरिष्टाः (*ariṣṭāḥ*)—let us be unharmed
+- सुवीराः (*suvīrāḥ*)—sons possessing vigour
+- स्याम (*syāma*)—may we obtain
+
+##### भावार्थ (Bhāvārtha)
+
+May all the gods provide wealth to me, the praiser. By their grace may the sacrifice in the form of a blessing, and its fruit, come to me. May our priests, who invoke the gods, pray to the gods and worship them before everyone else. May we live happily, without disease or other afflictions in our bodies, and may we obtain vigorous sons.
+
+##### English translation
+May the gods bestow wealth upon me, may (their) blessing be upon
+me, may sacrifice in which the gods are invoked be (beneficial) to me, may
+my invokers of the gods be the first to propitiate them; may we be unharmed
+in body and blessed with male offspring.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मह्यं॑ यजंतु॒ मम॒ यानि॑ ह॒व्याकू॑तिः स॒त्या मन॑सो मे  
+> अस्तु ।
+
 ---
 
-**Progress note:** Done through printed p. 729. pp. 724-729 (batch API)
+**Progress note:** Done through printed p. 735. pp. 730-735 (batch API)
