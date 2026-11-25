@@ -25238,6 +25238,172 @@ is formed from the root अन (*ana*) "to breathe" and indicates past time. Yā
 
 Objection: if, as stated, this world did not exist before, how then was it born? What is born is the agent of the act of birth and so a factor (कारक (*kāraka*)), and a factor is a particular kind of cause, so for the factor.
 
+### Printed p. 766
+
+> सतो नियतपूर्वक्षणवर्तित्वस्यावश्यंभावात् । आधैतद्दोषपरिजिहीर्षया जनिक्रियायाः प्रागपि तद्विद्यत इत्युच्यते । कथं तस्य जन्म । अत आह । तमसा गूढमग्र
+> इति । अग्रे सृष्टेः प्राक् प्रलयदशायां भूतभौतिकं सर्वं जगत्तमसा गूढं ।
+> यथा नैशं तमः सर्वपदार्थजातमावृणोति तद्वत् । आत्मतत्त्वस्यावरकत्वान्मायापरसंज्ञं भावरूपाज्ञानमत्र तम इत्युच्यते । तेन तमसा निगूढं संवृतं
+> कारणभूतेन तेनाच्छादितं भवति । आच्छादकात्तस्मात्तमसो नामरूपाभ्यां यदाविर्भवनं तदेव तस्य जन्मेत्युच्यते । एतेन कारणावस्थायामसदेव कार्यमुत्पद्यत
+> इत्यसद्वादिनोऽसत्कार्यवादिनो ये मन्यंते ते प्रत्याख्याताः । ननु कारणे
+> तमसि तज्ञगदात्मकं कार्यं विद्यते चेत् कथं नासीद्रज इत्यादिनिषेधॆः । तत्राह
+> तम आसीदिति । तमो भावरूपाज्ञानं मूलकारणं । तद्रूपता तदात्मनां । यतः
+> सर्वं जगत्प्राक तम आसीदतो निषिध्यत इत्यर्थः । नन्नावरकत्पादावरकं तमः कर्तृ
+> आवाय्र्यात्वाज्जगत्कर्म । कथं तयोः कर्मकर्त्रोस्तादात्म्यं । तत्राह । अप्रकेतमिति।
+> अप्रकेतमप्रज्ञायमानं । अयमर्थः । यद्यपि जगतस्तमसश्च कर्मकर्तृभावो
+> यौक्तिको विद्यते तथापि व्यवहारदशायामिव तस्यां दशायां नामरूपाभ्यां
+> विस्पष्टं न ज्ञायत इति तादात्मवर्णनं । अत एव मनुना स्मर्यते । आसीदिदं
+> तमोभूतमप्रज्ञातमलक्षणं । अप्रतर्क्यमनिर्दॆश्यं प्रसुप्तमिव सर्वतः । मनु
+> १-५ । इति । कुतो वा न प्रज्ञायते तत्राह । सलिलं ॥ सल पतौ । औणादिक इलच् ॥
+> इदं दृश्यमानं सर्वं जगत्सलिलं कारणेन संगतमविभागापन्न माः । आसीत् ॥
+> अस्तेर्लज् तिपि बहुलं छंदसीतीडभावे हल्‌ज्याब्ब इति तिलोपे तिष्यनस्तेः ।
+> पा. ८-२-७३ । इति पर्युदासाद्ड काराभावः ॥ यद्वा सलिलमिति लुप्रोपमं । सलिलमिव । यथा क्षीरेणाविभागापन्नं नीरं दुर्विज्ञानं तथा तमसाविभागापन्नं जगन्न
+> शक्यविज्ञानमित्यर्थः । ननु विविधविचित्ररूपभूयसः प्रपंचस्य कथमतितुच्छेन तमसा
+> क्षीरेण नीरस्येवाभिभवः । तथा तमोऽपि क्षीरवद्वलवदित्येवोच्यते । तर्हि दुर्बलस्य
+> जगतः सर्गसमयेऽपि नोद्भवसंभव इत्यत आह तुच्छेनेति । आ समंताद्भवतीत्याभु तुच्छेन ॥ छांदसो यकारोपजनः ॥ तुच्छेन तुच्छकल्पनेन सदसद्विलक्षणेन.
+> भावरूपाज्ञानेनापिहितं छादितमासीत् ॥ दधातेः कर्मणि निष्ठा । दधातेर्हि ।
+> गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥ एकमेकीभूतं कारणेन तमसाविभागतां
+> प्राप्तमपि तत्कार्यजातं तपसः सृष्टव्यपर्यालोचनरूपस्य महिना माहात्म्येनाजायत । उत्पन्नं । तपसः सृष्टव्यपर्यालोचनरूपत्वं चान्यत्राम्नायते । यः
+> सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः । मुं. उ. १-१-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+(Continuation of the bhāṣya on Ṛk 3.) The objector says: if, as stated, this world did not exist before, how can it be born? A thing that is born is the agent of the act of birth, and an agent is a kind of causal factor, so it must necessarily exist at some definite moment before. To avoid this fault it is said that the world existed even before the act of birth. "How then is its birth?" He answers with तमसा गूढमग्र (*tamasā gūḍhamagra*). In the beginning, in the state of dissolution before creation, the whole world of elements and their products was covered by darkness, as nocturnal darkness covers every kind of object. Because it veils the truth of the Self, the positive ignorance called by the name māyā is here called "darkness". The world is hidden by it, enveloped and covered by it as its cause. When name and form later become manifest out of that covering darkness, that very manifestation is called the world's birth. By this the asadvādins, who hold that an effect that does not exist in the state of its cause comes to be, are refuted.
+
+Objection: if the effect, the world, exists in the causal darkness, why does the denial "there was no space" and so on appear? He answers with तम आसीत् (*tama āsīt*): darkness, the positive ignorance, is the root cause; the world is of its nature, since the whole world was darkness before. Hence the denial. Further objection: the veiling darkness is the agent and the world, being veiled, is the object; how can agent and object be identical? He answers with अप्रकेतं (*apraketaṃ*), "not perceived". Though by reasoning there is a relation of object and agent between the world and the darkness, in that state it is not clearly known through name and form, as in ordinary dealings; hence the statement of identity. Hence also Manu recalls (Manu 1-5): आसीदिदं तमोभूतमप्रज्ञातमलक्षणं । अप्रतर्क्यमनिर्दॆश्यं प्रसुप्तमिव सर्वतः (*āsīdidaṃ tamobhūtamaprajñātamalakṣaṇaṃ | apratarkyamanirdèśyaṃ prasuptamiva sarvataḥ*).
+
+Why is it not perceived? He answers: सलिलं (*salilaṃ*). All this visible world was "salila", joined with its cause and fallen into non-distinction. Or else सलिलमिति लुप्रोपमं (*salilamiti lupropamaṃ*): "like water". As water mixed with milk and become non-distinct is hard to know, so the world, become non-distinct with darkness, cannot be known.
+
+Objection: how can a world of manifold, varied forms be overpowered by the utterly insignificant darkness, as water by milk? Answer: it is said that darkness too is strong like milk. Then, the world being weak, it could not emerge even at the time of creation; hence he says तुच्छेन (*tucchena*). "आभु (*ābhu*)" is that which becomes all around; "tuccha" is the insignificant, the positive ignorance, neither existent nor non-existent. What was covered by it was one, united with its cause, the darkness, in non-distinction; yet that whole effect was born through the greatness (mahinā) of tapas, which is the reflection on what is to be created. That tapas is of the nature of such reflection is taught elsewhere: यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः (*yaḥ sarvajñaḥ sarvavidyasya jñānamayaṃ tapaḥ*) (मुं (*muṃ*). उ (*u*). 1-1-9)**NOTE**.
+
+### Printed p. 767
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्रे (*agre*)—before creation
+- तमसा (*tamasā*)—by darkness
+- गूळ्हं (*gūḷhaṃ*)—thickly covered
+- अप्रकेतं (*apraketaṃ*)—in which nothing could be known
+- तमः (*tamaḥ*)—darkness
+- आसीत् (*āsīt*)—was
+- इदं सर्वं (*idaṃ sarvaṃ*)—all this world that is now seen (at that time)
+- सलिलं (*salilaṃ*)—consisting of water
+- आः (*āḥ*)—was
+- आभु (*ābhu*)—all around
+- तुच्छेन (*tucchena*)—by the absence of anything, by nothingness
+- यत् (*yat*)—which
+- अपिहितं (*apihitaṃ*)—covered
+- आसीत् (*āsīt*)—was
+- एकं (*ekaṃ*)—that non-existent thing in which cause and effect were united as one
+- तपसः (*tapasaḥ*)—of the nature of meditation on creating
+- महिम्मा (*mahimmā*)—by the greatness
+- तत् (*tat*)—as the world in the form of effect
+- अजायत (*ajāyata*)—came into being
+
+##### भावार्थ (Bhāvārtha)
+
+Before everything else, that is, at the beginning of creation, darkness, thickly covered by a darkness in which nothing could be known, spread everywhere. All the world now seen was not as it is now, but was altogether water; or it was covered by darkness as dense as water. The unmanifest form, which had no support and no covering and was one, without separate divisions called cause and effect, became the world as effect through the greatness of its meditation of the nature of the wish to create.
+
+##### English translation
+There was darkness covered by darkness in the beginning, all this (world) was undistinguishable water; that empty united (world) which was covered by a mere nothing, was produced through the power of austerity.
+
+##### विशेषविषयगळु (Special Topics)
+
+It has been said that this world did not exist before. How then did the world arise? To make a thing one needs an agent who makes it, a raw material for it, and also a cause. For example, to make a pot there must be a potter who can make it; he is the agent. The raw material needed is clay, and a cause is needed. Such being so, who is the agent of the making of the world? The agent is Brahman, of unmanifest nature. What is the raw material of the world? The raw material is some other substance (raw material) that existed before the finished article. Here only the Supreme Brahman existed and there was no other thing; so with the help of what substance would Brahman, the agent, make the world? The answer is that Brahman has no need of raw material for creating the world.
+
+### Printed p. 768
+
+Nor does he need it. Brahman himself, being of unmanifest form, becomes of the nature of the existent, that is, the world and the rest. That is, Brahman is not different, and the existent world and the rest are not different. Therefore it should be understood that a small part of the non-existent became existent.
+
+तम आसीत् तमसा गूढं अग्रे अप्रकेतं (*tama āsīt tamasā gūḍhaṃ agre apraketaṃ*)—Before creation there was none of the world and the rest. But the world's not existing does not mean that the existent (sat), its root cause, did not exist. The non-existent became existent and itself became the root cause of the world and the rest. Before this happened, in the state of dissolution, everything was full of darkness and nothing could be seen or known. As water spreads everywhere in the sea, everything was full of water, or was covered by darkness dense like water. This state is described in the Śruti and elsewhere by sentences such as आपो ना इदमग्रे सलिलमासीत् (*āpo nā idamagre salilamāsīt*). Here the bhāṣyakāra has given another meaning to the word tamas: आत्मतत्त्वस्यावरकत्वान्मायापरसंज्ञं भावरूपाज्ञानमत्र तम इत्युच्यते । तेन तमसा निगूढं संवृतं कारणभूतेन तेनाच्छादितं भवति । आच्छादकात् तस्मात्तमसो नामरूपाभ्यां यदाविर्भवनं तदेव तस्य जन्मेत्युच्यते। एतेन कारणावस्थायामसदेव कार्यमुत्पद्यते इत्यसद्वादिनोऽसत्कार्यवादिनो ये मन्यंते ते प्रत्याख्याताः । (*ātmatattvasyāvarakatvānmāyāparasaṃjñaṃ bhāvarūpājñānamatra tama ityucyate | tena tamasā nigūḍhaṃ saṃvṛtaṃ kāraṇabhūtena tenācchāditaṃ bhavati | ācchādakāt tasmāttamaso nāmarūpābhyāṃ yadāvirbhavanaṃ tadeva tasya janmetyucyate| etena kāraṇāvasthāyāmasadeva kāryamutpadyate ityasadvādino 'satkāryavādino ye manyaṃte te pratyākhyātāḥ |*) Here, that which covers the Self so that the true nature of Brahman, called the Ātma-tattva, is not known, is called māyā, that is, ignorance, the covering. That is, the covering called ignorance is the darkness. The thing endowed with name and form that emerges from that covering darkness of ignorance is called the origin of the world. That is the view of the asadvādins, that the non-existent in the state of cause itself takes on the form of effect. But this is contrary to Śruti sentences such as असद्वा इदमग्र आसीत् । ततो वै सदजायत (*asadvā idamagra āsīt | tato vai sadajāyata*), "at first only the non-existent was; afterwards it itself was born as the existent". Manu too describes the state of the non-existent (Manu 1-5): आसीदिदं तमोभूतमप्रज्ञानमलक्षणं । अप्रतर्क्यमनिर्देश्यं प्रसुप्तमिव सर्वतः (*āsīdidaṃ tamobhūtamaprajñānamalakṣaṇaṃ | apratarkyamanirdeśyaṃ prasuptamiva sarvataḥ*). It spreads everywhere like darkness. It cannot be known, examined, or described as being such and such. Without any movement or any activity, it is as a man in sleep lies sleeping without motion. The meaning is that it cannot be described in words.
+
+सलिलं सर्वं आ इदं (*salilaṃ sarvaṃ ā idaṃ*)—Here the bhāṣyakāra has given the meaning of a lupta-upamā for this sentence. Salila means water. यथा क्षीरेणाविभागापन्नं नीरं दुर्विज्ञानं तथा तमसाविभागापन्नं जगन्न शक्यविज्ञानमित्यर्थः । (*yathā kṣīreṇāvibhāgāpannaṃ nīraṃ durvijñānaṃ tathā tamasāvibhāgāpannaṃ jaganna śakyavijñānamityarthaḥ |*) In water mixed with milk one cannot say separately which is milk and which is water;
+
+### Printed p. 769
+
+in the same way, in the darkness, that is, the darkness of unmanifest form, one cannot point out and say which is the world existing there as seed.
+
+तुच्छेन आभु अपिहितं यत् आसीत् तपसः तत् महिना अजायात एकं (*tucchena ābhu apihitaṃ yat āsīt tapasaḥ tat mahinā ajāyāta ekaṃ*)—Here the word tuccha suggests the meaning "absence of anything" (nothing). The Brahman-substance alone existed, covered by such an absence (the absence of any thing), and nothing else existed. The meaning is that through the greatness, of the nature of meditation, of that one Supreme Brahman, the world, in the form of effect different from the cause, was created.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त् ।  
+> स॒तो बंधु॒मस॑ति॒ निर॑विंदन्हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कामः । तत् । अग्रे । सं । अवर्तत । अधि । मनसः । रेतः । प्रथमं । यत् । आसीत् ।  
+> सतः । बंधुं । असति । निः । अविंदन् । हृदि । प्रतिइष्य । कवयः । मनीषा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ननूक्तरीत्या यदीश्वरस्य पर्यालोचनं जगतः पुनरुत्पत्तौ कारणं तदेव
+> किंनिबंधनमित्यत आह कामस्तदग्र इति । अग्रेऽस्य विकारजातस्य सृष्टेः प्रागवस्थायां
+> परमेश्वरस्य मनसि कामः समवर्तत । सम्यगजायत । सिसृक्षा जातेत्यर्थः । ईश्वरस्य
+> सिसृक्षा ना किंहेतुकेत्यत आह मनस इति । मनसोऽंतःकरणस्य संबंधि वासनाशेषेण
+> मायायां विलीनेऽंतःकरणे समवेतं । सामान्यापेक्षमेकवचनं । सर्वप्राण्यंतःकरणेषु समवेतमित्यर्थः । एतेनात्मनो गुणाधारत्वं प्रत्याख्यातं । तादृशं
+> रेतो भाविनः प्रपंचस्य बीजभूतं प्रथममतीते कल्पे प्राणिभिः कृतं पुण्यात्मकं
+> कर्म यद्यतः कारणात्सृष्टिसमय आसीत् अभवत् । भूष्णु वर्धिष्टजायत परिपक्वं
+> सत्फलोन्मुखमासीदित्यर्थः । तत्ततो हेतोः फलप्रदस्य सर्वसाक्षिणः कर्माध्यक्षस्य
+> परमेश्वरस्य मनसि सिसृक्षाजायतेत्यर्थः । तस्यां च जातायां स्रष्टव्यं पर्यालोच्य ततः सर्वं जगत्सृजति । तथा चाम्नायते । सोऽकामयत बहुः स्यां
+> प्रजायेयेति स तपोऽतप्यत स तपस्तप्तदं सर्वमसृजत यदिदं किं च। तै.आ. ८-६।
+> 49
+
+##### Gist of the bhāṣya
+
+Objection: if, as said, the Lord's reflection is the cause of the world's re-creation, what is the ground of that reflection? He answers with कामस्तदग्र इति (*kāmastadagra iti*). In the beginning, in the state before the creation of this whole product, desire arose well (samyak) in the mind of the Supreme Lord; the meaning is that the wish to create arose. Is the Lord's wish to create without a reason? He answers with मनस इति (*manasa iti*). It belongs to the mind, the inner organ; it remains as a residue of impressions, inhering in the inner organ dissolved in māyā. The singular is used with reference to the general: it inheres in the inner organs of all beings. By this the view that the Self is the support of qualities is refuted. Such a seed ("reto") of the coming world is the meritorious action done by beings in the previous (first) kalpa; because it was ripened and turned towards its fruit at the time of creation, it grew (bhūṣṇu, vardhiṣṭa). For that reason the wish to create arose in the mind of the Supreme Lord, the giver of fruit, witness of all, overseer of actions. When it has arisen, he reflects on what is to be created and then creates the whole world. So it is taught: सोऽकामयत बहुः स्यां प्रजायेयेति स तपोऽतप्यत स तपस्तप्तदं सर्वमसृजत यदिदं किं च। (*so 'kāmayata bahuḥ syāṃ prajāyeyeti sa tapo 'tapyata sa tapastaptadaṃ sarvamasṛjata yadidaṃ kiṃ ca|*) (Tai. Ā. 8-6).
+
+### Printed p. 770
+
+> इति श्रुत्यात्मनेत्थमवगमितेऽर्थे विद्वदनुभवमप्यनुग्राहकत्वेन प्रमाणयति सत
+> इति । सतः सत्येनेदानीमनुभूयमानस्य सर्वस्य जगतो बंधुं बंधकं हेतुभूतं कल्पांतरे प्राण्यनुष्ठितं कर्मसमूहं कवयः क्रांतदर्शना अतीतानागतवर्तमानाभिज्ञा योगिनो हृदि हृदये निरुद्धया मनीषा मनीषया बुद्ध्या ॥
+> सुपां सुलुगिति तृतीयाया लुक् ॥ प्रतीष्य विचार्य ॥ अन्येषामपीति साहितिको
+> दीर्घः ॥ असति सद्विलक्षणेऽव्याकृते कारणे निरविंदन् । निष्कृष्यालभंत । विविच्याजानन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Having thus understood the matter through the Śruti itself, he confirms it, as supporting it, by the experience of the learned, with सत इति (*sata iti*). The kavis, the sages of far-reaching vision who know past, future and present, the yogins, found in the heart, by the mind (manīṣā), that is, by understanding with restrained mind, the "bandhu" of the sat, of the whole world now experienced as real: the bandhu, the binding cause, is the mass of actions performed by beings in another kalpa. They did this by reflecting (pratīṣya, "having considered"). They found it "in the asat", that is, in the unmanifest cause, different from the existent; निरविंदन् (*niraviṃdan*) means that they drew it out and obtained it, that is, they distinguished it and knew it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसः (*manasaḥ*)—of the mind
+- रेतः (*retaḥ*)—the seed of the creation of the world
+- प्रथमं (*prathamaṃ*)—the action performed by beings in the former kalpa
+- यत् (*yat*)—for which reason
+- आसीत् (*āsīt*)—was
+- तत् (*tat*)—for that reason
+- अग्रे (*agre*)—before the creation of the world, in the mind of the Supreme Lord
+- कामः (*kāmaḥ*)—the wish to create
+- सं अधि अवर्तत (*saṃ adhi avartata*)—arose
+- सतः (*sataḥ*)—of the entire world, a modification of the existent
+- बंधुं (*baṃdhuṃ*)—the mass of actions of beings, which is kin or binding
+- कवयः (*kavayaḥ*)—the seers of far-reaching vision
+- हृदि (*hṛdi*)—in their hearts
+- मनीषा (*manīṣā*)—by the understanding
+- प्रतीष्य (*pratīṣya*)—having considered
+- असति (*asati*)—that which is seed in the unmanifest form
+- निरविंदन् (*niraviṃdan*)—found out
+
+##### भावार्थ (Bhāvārtha)
+
+When the idea arose in the mind of the Supreme Lord that the actions, sin, merit and the rest, performed by beings in the former creation are the seed of the present creation, the wish to create the world arose in his mind before the creation of the world. The wise seers or yogins considered with their understanding in their minds, and understood, that the mass of actions of beings, which binds all the worlds that are modifications of the existent, abides as seed in the unmanifest form.
+
+##### English translation
+In the beginnig there was desire, which was the first seed of mind; sages having meditated in their hearts have discovered by their wisdom the connexion of the existent with the non-existent.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present Ṛk it is explained that the wish to create, in the mind of the Supreme Brahman, became the cause of the creation of the world.
+
+### Printed p. 771
+
+कामः तत् अग्रे सं अवर्तत अधि (*kāmaḥ tat agre saṃ avartata adhi*)—Before the creation of the world, the wish to create the world first arose in the mind of the Supreme Lord. Why it arose is explained in the next pāda.
+
+मनसः रेतः प्रथमं यत् आसीत् (*manasaḥ retaḥ prathamaṃ yat āsīt*)—The meaning of the words "मनसः रेतः (*manasaḥ retaḥ*)" here is that desire is born in the mind. When some work is to be done, the wish to do it first dawns, that is, arises, in the mind. As a seed is necessary for a plant to be born, so a cause, or seed, is necessary for a work to be accomplished. So, when the Supreme Self was to create, the wish to create arose first in his mind. That wish is the cause of the creation of the world. But why did that wish arise? प्रथमं यत् आसीत् (*prathamaṃ yat āsīt*): when the world was created in the previous kalpa, the beings in it could not fully experience the actions they had done, sin, merit and the rest, or their fruits, since the world was dissolved in the meantime; so those fruits of actions had to remain unexperienced. Therefore it is said here that the wish to create the world arose in the mind of the Supreme Self with the purpose that beings may experience them in this creation. This is supported by the Śruti sentence सोs कामयत ।बहु स्यां प्रजायेयेति । स तपोs तप्यत ।स तपस्तप्ता । इदग्० सर्वमसृजत । यदिदं किंच । (*sos kāmayata |bahu syāṃ prajāyeyeti | sa tapos tapyata |sa tapastaptā | idag0 sarvamasṛjata | yadidaṃ kiṃca |*) (Tai. Ā. 8-6).
+
+सतः बंधुं असति निः अविंदन् हृदि प्रतीष्य कवयः मनीषा (*sataḥ baṃdhuṃ asati niḥ aviṃdan hṛdi pratīṣya kavayaḥ manīṣā*)—In the sentence above it was said that the mass of actions of the beings of the former kalpa is the cause of the creation of the world now made, was it not? How is that? In this sentence the manner in which this was known is explained. The yogins, sages and others, who can know matters of past, future and present, with their divine vision, that is, by meditation in the mind and by careful reflection, understood one important matter. That important matter is this: the existent worlds of the former kalpa, the beings in them, and their actions in the form of sin and merit, all these lie hidden as seed (in the form of cause) in the unmanifest non-existent (in Brahman); this they understood with their reflective understanding. That is, the cause that is the seed of the worlds lies dissolved in the non-existent of unmanifest form. Therefore a kind of binding relation came to exist between the existent world and the non-existent in unmanifest form. That is, since the existent comes into manifestation from the non-existent, the two are related to each other; this is explained here by the words "satah bandhuh asati".
+
 ---
 
-**Progress note:** Done through printed p. 765. pp. 760-765 (batch API)
+**Progress note:** Done through printed p. 771. pp. 766-771 (batch API)
