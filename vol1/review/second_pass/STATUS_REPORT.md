@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 489 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489)
-- **Findings:** 1437 — applied 1221, questions 216; edits ok 1226, failed 0
-- **Reader tokens (batches so far):** 4861k; per page 9.9k
-- **Last commit:** 818ab07
+- **Pages read:** 519 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519)
+- **Findings:** 1453 — applied 1234, questions 219; edits ok 1239, failed 0
+- **Reader tokens (batches so far):** 4861k; per page 9.4k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -28,23 +28,24 @@
 | 15 | 400–429 | 20 | 17 | 17 / 0 | 3 | 207k | 6c37c14 | 17 edits (11 S13 names/terms, S1, S14, S15, 2 S16, S17); mostly Sanskrit blocks with the Kannada's anuvāda, little English prose to correct; pp. 409, 422, 428 have no mark in the Kannada book but their text and the English sections line up; a Kannada paragraph on p. 422 (Pūrva-Mīmāṃsā 10-8) is missing from the English (not added) |
 | 16 | 430–459 | 29 | 21 | 21 / 0 | 8 | 248k | 844066c | 21 edits (9 S13 names/terms, 5 numbers S1/S3, roles reversed on p. 439, 2 S16, 2 inline S7); English has no section for printed p. 447 (Aditi example, Tai. Saṃ. 6-1-5): not added (open.tsv); stray numbers 58/59/60 at the end of Kannada pp. 437, 445, 453; Tai. Brā. '1-14' on p. 449 applied as printed |
 | 17 | 460–489 | 18 | 18 | 18 / 0 | 0 | 249k | 818ab07 | 18 edits (6 S13 names, 5 S14 incl. Babara/Kusurubinda roles reversed on p. 468, 5 S16, 2 S1); Sanskrit out of scope (no sp_sanskrit, no conversion); p. 473 text sits inside the p. 472 block (matches English Page 473) |
+| 18 | 490–519 | 16 | 13 | 13 / 0 | 3 | TOK17 | @C@ | 13 edits (p. 490, p. 519 read first by a reader that took the range for two pages; pp. 491–518 re-read in full by a second reader; 12 edits there: S14 reversed senses on pp. 495, 503, 516, S13, S1 sūtra numbers, an invented reference removed on p. 505); English opens p. 499 with the end of p. 498's explanation |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
 | S7 | 359 | 21 | 380 |
-| S14 | 260 | 5 | 265 |
-| S13 | 226 | 30 | 256 |
-| S1 | 134 | 1 | 135 |
+| S14 | 266 | 5 | 271 |
+| S13 | 228 | 30 | 258 |
+| S1 | 137 | 1 | 138 |
 | H29 | 0 | 132 | 132 |
-| S16 | 92 | 4 | 96 |
-| S17 | 29 | 23 | 52 |
+| S16 | 93 | 5 | 98 |
+| S17 | 29 | 25 | 54 |
 | S15 | 44 | 0 | 44 |
 | S3 | 42 | 0 | 42 |
-| S2 | 34 | 0 | 34 |
+| S2 | 35 | 0 | 35 |
 | R6 | 1 | 0 | 1 |
 
-By reader: R1 774, R3 372, R6 291
+By reader: R1 789, R3 372, R6 292
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -113,7 +114,7 @@ By reader: R1 774, R3 372, R6 291
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 226 Kannada misprints where the English is kept (`kn_misprints.tsv`); 87 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 233 Kannada misprints where the English is kept (`kn_misprints.tsv`); 91 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

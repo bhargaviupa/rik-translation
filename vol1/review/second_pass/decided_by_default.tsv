@@ -86,3 +86,7 @@ page	place	as_found	question	why_not_settled	decision
 484	abhidhayaka sentence	English renders the Kannada's abhidhayaka (non-injunctive) sentences as 'exhortatory', following the embedded English translation	Change to non-injunctive?	Embedded English translation of the source uses 'exhortatory'	English kept
 489	Omission	Kannada also says that most of the mantras sung as Sama are found in the Rigveda; English omits this and says Rik and Sama mantras are woven in the Yajurveda	Add the sentence?	An omission is not added	English kept unchanged; omission not added
 481	Duplicated material	English p.481 repeats lists that Kannada gives on pp.483-484 (hetu etc. and mantra examples)	Remove the repeat?	Page shift in the English file, not a Kannada difference	English kept
+504	Omission	Kannada top-of-page paragraph on anvaya-vyatireka is not in the English	Add it?	An omission is not added	English kept unchanged
+502	Omission	Kannada explanation of karma/karana-karaka reading omitted in the English	Add it?	An omission is not added	English kept unchanged
+499	Attribution	English says 'Sayana points out' where the Kannada has only 'ಇತ್ಯಾಹ'	Change it?	Not settled by the Kannada alone	English kept unchanged
+498	Page shift	Kannada p.498 closes with the prakriti/vikriti explanation (ends p.499); English places it on p.499	Move it?	Page shift in the English file, not a Kannada difference	English kept unchanged

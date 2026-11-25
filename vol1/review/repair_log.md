@@ -1417,3 +1417,19 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | page | old → new | why |
 |---|---|---|
 | 490 | `as Rigveda, Yajurveda, and Samaveda appropriately yields the term "traividhya" (threefold-` → `as Rigveda, Yajurveda, and Samaveda, it became customary to call this threefold division o` | SECOND-PASS S14: Kannada p.490: ವೇದಗಳನ್ನು ... ವಿಂಗಡಿಸಿ ಹೇಳುವುದರಿಂದ ... ತ್ರೈವಿಧ್ಯವೆಂದು ಹೇಳುವುದು ರೂಢಿಯಾಯಿತು (it became customary); English "appropriately yields" is not in the Kan |
+
+### 2026-11-25 second pass, batch e491-518.tsv
+| page | old → new | why |
+|---|---|---|
+| 491 | `A householder-dvija should study three Vedas` → `A dvija who has undergone upanayana should study three Vedas` | SECOND-PASS S13: Kannada p.491: ಉಪನೀತನಾದ ದ್ವಿಜನು (a dvija who has been invested with the thread), not a householder |
+| 493 | `loses all share in the heavenly fruit` → `has no share in the fruit` | SECOND-PASS S16: Kannada p.493: ಫಲದಲ್ಲಿ ಭಾಗ್ಯವೆಲ್ಲಿಯದು (share in the fruit); 'heavenly' not in Kannada |
+| 494 | `"One should perform daily recitation each day"` → `"One should perform the Sandhya worship every day"` | SECOND-PASS S14: Kannada p.494: ಪ್ರತಿದಿನವೂ ಸಂಧ್ಯಾವಂದನೆಯನ್ನು ಮಾಡಬೇಕು (Sandhya worship daily), not daily recitation |
+| 495 | `like saying one cannot marry until born, and cannot be born until married` → `like saying that the madness will not leave until one is married, and one will not marry u` | SECOND-PASS S14: Kannada p.495: ಮದುವೆಯಾಗುವವರೆಗೂ ಹುಚ್ಚು ಬಿಡುವುದಿಲ್ಲ, ಹುಚ್ಚು ಬಿಡುವವರೆಗೂ ಮದುವೆಯಾಗುವುದಿಲ್ಲ |
+| 497 | `purely by scholarly consensus` → `purely because all sacrificers accept it` | SECOND-PASS S13: Kannada p.497: ಯಾಜ್ಞಿಕರೆಲ್ಲರೂ ಒಪ್ಪುವರು (all sacrificers agree) |
+| 503 | `is not directly observable at the moment of study itself, and study proceeds under specifi` → `is plainly observable, why should study be bound by an injunction and rules, needing separ` | SECOND-PASS S14: Kannada p.503: ಇಂತಹ ಫಲವು ಪ್ರತ್ಯಕ್ಷ ಕಾಣುತ್ತಿರುವಲ್ಲಿ, ವಿಧಿನಿಯಮಗಳಿಗೊಳಗಾಗಿ ... ಏಕೆ ಹೇಳಬೇಕು (the fruit is visible, so why an injunction); English had it reversed |
+| 505 | `Sū. 1 to 4` → `Sū. 1 to 5` | SECOND-PASS S1: Kannada p.505: ಅ. ೨. ಪಾ. ೧. ಸೂ. ೧ ರಿಂದ ೫ |
+| 505 | ` (For a fuller technical treatment of "apūrva," see the Jaimini-nyaya-mala-vistara, third ` → `` | SECOND-PASS S2: Kannada p.505 has one reference only (ಅ. ೨. ಪಾ. ೧. ಸೂ. ೧-೫); the 'third adhyaya, first pada, sutras 1-3' is not in the print, removed |
+| 508 | `(Sutra 15)` → `(Sutra 1)` | SECOND-PASS S1: Kannada p.508: ॥೧॥ (sutra number printed ೧) |
+| 513 | `that the study-injunction fails to reach those who already understand the Veda` → `that the meaning would not be obtained at all unless the injunction extends to knowledge o` | SECOND-PASS S14: Kannada p.513: ಅರ್ಥವನ್ನು ತಿಳಿಯುವವರೆಗೂ ವೇದಾಧ್ಯಯನ ಮಾಡಬೇಕೆಂಬ ವಿಧಿಯನ್ನು ಶಂಕಿಸಬೇಕಾಗಿಲ್ಲ; English had a different sense |
+| 516 | `If study's sole purpose were mere recitation (without regard to meaning), then studying th` → `If the injunction's purpose were only to know the meaning, then reciting the words in stud` | SECOND-PASS S14: Kannada p.516: ಅರ್ಥವನ್ನು ತಿಳಿಯುವುದಕ್ಕೆ ಮಾತ್ರ ಎನ್ನುವುದೇ ವಿಧಿಯ ಉದ್ದೇಶವಾಗಿದ್ದಲ್ಲಿ ಶಬ್ದೋಚ್ಚಾರಣಪೂರ್ವಕವಾದ ವೇದಾಧ್ಯಯನವು ವ್ಯರ್ಥ; roles reversed in English |
+| 517 | `(Sutra 12)` → `(Sutra 13)` | SECOND-PASS S1: Kannada p.517: ವಿಚಾರ ಉತ್ತರವಿಧಿಪ್ರಯೋಕ್ತ ಉಪಪದ್ಯತ ಇತಿ ॥ ೧೩ ॥ |

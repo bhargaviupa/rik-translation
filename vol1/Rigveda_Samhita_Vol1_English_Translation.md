@@ -9883,7 +9883,7 @@ This opens a substantial new discussion: is studying the Veda a matter of person
 >
 > "Therefore one should study one's own Veda." (Manu Smriti 2-168)
 
-A dvija (twice-born) purified through upanayana must, according to his intellectual capacity, study all three Vedas as above; if unable, at least one. Yajnavalkya states: "A householder-dvija should study three Vedas — or two, or, failing that, at least one." Here, "one Veda" specifically means the Veda transmitted through one's own paternal, ancestral lineage — hence the word "sva" (own) appears in the injunction. "Svādhyāya" means study of one's own [family's] shakha specifically — and this obligation is **nitya** (obligatory), not **kāmya** (optional): one cannot simply choose whether to undertake it, on pain of forfeiting one's dvija-status entirely. On this matter, the text Purusharthanushasana states this very sutra—
+A dvija (twice-born) purified through upanayana must, according to his intellectual capacity, study all three Vedas as above; if unable, at least one. Yajnavalkya states: "A dvija who has undergone upanayana should study three Vedas — or two, or, failing that, at least one." Here, "one Veda" specifically means the Veda transmitted through one's own paternal, ancestral lineage — hence the word "sva" (own) appears in the injunction. "Svādhyāya" means study of one's own [family's] shakha specifically — and this obligation is **nitya** (obligatory), not **kāmya** (optional): one cannot simply choose whether to undertake it, on pain of forfeiting one's dvija-status entirely. On this matter, the text Purusharthanushasana states this very sutra—
 
 ---
 
@@ -9933,7 +9933,7 @@ One who fails to study the Veda — his genuine friend — becomes devoid of elo
 
 ### Page 493
 
-It's stated that during Brahmayajna, small portions from all four Vedas are properly recited, and it's true that the above-mentioned fruit belongs to such recitation. But before performing Brahmayajna, one must already have learned those very portions — and this requires comprehension-study (grahaṇārtha-adhyayana) beforehand. Without such study, Brahmayajna itself cannot occur — so this fruit belongs precisely to this preliminary study too. Whoever abandons this friend — the Veda that grants such fruit — loses the fruit of speech itself, and thereby loses all share in the heavenly fruit. One who fails to recite the Veda — which expounds all deities, dharma, and ultimate Brahman-reality — and remains instead absorbed in worldly quarrels, clearly lacks true mastery of speech. As Shruti states: "nānasyāyātivṛttai jñācāce vigrāsanaṃ hi tad" (Shatapatha Brahmana 14-7-2-23) — excessive talking wearies speech itself, and can even open the door to falsehood. Considering this, wise people counsel measured speech. Even reading or hearing poetry and drama is, in a sense, similarly pointless — such reading reveals neither the path of righteousness nor genuine (Brahman-)knowledge.
+It's stated that during Brahmayajna, small portions from all four Vedas are properly recited, and it's true that the above-mentioned fruit belongs to such recitation. But before performing Brahmayajna, one must already have learned those very portions — and this requires comprehension-study (grahaṇārtha-adhyayana) beforehand. Without such study, Brahmayajna itself cannot occur — so this fruit belongs precisely to this preliminary study too. Whoever abandons this friend — the Veda that grants such fruit — loses the fruit of speech itself, and thereby has no share in the fruit. One who fails to recite the Veda — which expounds all deities, dharma, and ultimate Brahman-reality — and remains instead absorbed in worldly quarrels, clearly lacks true mastery of speech. As Shruti states: "nānasyāyātivṛttai jñācāce vigrāsanaṃ hi tad" (Shatapatha Brahmana 14-7-2-23) — excessive talking wearies speech itself, and can even open the door to falsehood. Considering this, wise people counsel measured speech. Even reading or hearing poetry and drama is, in a sense, similarly pointless — such reading reveals neither the path of righteousness nor genuine (Brahman-)knowledge.
 
 **I have quoted the Shruti; hear also a Smriti:**
 
@@ -9969,7 +9969,7 @@ Shudra-status befalls even one's descendants. As many such statements as needed 
 
 > अहरहः स्वाध्यायमुशासीत ।
 > *ahar ahaḥ svādhyāyam uśāsīta |*
-> "One should perform daily recitation each day"
+> "One should perform the Sandhya worship every day"
 
 —abandoning such duty makes one fallen. Naimittika-karma is performed on a specific occasion — marriage rites, funerary rites, and similar — obligatory when the occasion arises, though views differ on some details. Kāmya-karma is performed from personal desire for a specific fruit — vows, yajnas, and similar; the shastras state that a given act yields a given fruit, and one desiring that fruit may perform it, but there is no compulsion to do so, and no fault in abstaining.
 
@@ -9984,7 +9984,7 @@ Shudra-status befalls even one's descendants. As many such statements as needed 
 
 ### Page 495
 
-A genuine doubt arises: to know the rule that Vedic study must be performed, one would seemingly need to have already studied the Veda and learned what it states — yet the desire to study only arises *after* knowing this rule. So which comes first? This creates a mutual-dependence flaw (anyonyāśraya-doṣa), like saying one cannot marry until born, and cannot be born until married. Since this doubt has genuine grounds, we accept it as worth resolving.
+A genuine doubt arises: to know the rule that Vedic study must be performed, one would seemingly need to have already studied the Veda and learned what it states — yet the desire to study only arises *after* knowing this rule. So which comes first? This creates a mutual-dependence flaw (anyonyāśraya-doṣa), like saying that the madness will not leave until one is married, and one will not marry until the madness leaves. Since this doubt has genuine grounds, we accept it as worth resolving.
 
 **Two resolutions emerge.** Followers of "**गुरुमत** (*Guru-mata*)" hold that teachers, through great effort, instill in boys the very inclination to undertake study. Followers of Prakāśātma's differing doctrine argue instead: just as the notion "one should perform Sandhyavandana" is instilled in boys by their father *before* study even begins, so too the desire to study itself comes from one's father, elder brother, or other elders — not from the Veda's own text. Either way, whether the study-obligation is learned through Vedic study itself or through one's elders beforehand, one thing remains beyond dispute: a person who has undergone upanayana must undertake Vedic study.
 
@@ -10041,7 +10041,7 @@ Since it's established that upanayana-invested persons must undertake Vedic stud
 
 **Sutra's meaning:** rivers of ghee and similar comforts, or heavenly happiness itself, should be inferred here as the fruit, by analogy.
 
-For rites like Brahmayajna, japa, and study, many kinds of fruit are declared in their respective arthavāda statements. In the discussion on daily study specifically, one should infer — by analogy from the ratri-sattra rite — that heavenly comforts like "rivers of ghee" result, even though the Veda nowhere explicitly states this for the ratri-sattra itself; rather, this fruit is declared only in its related arthavāda passage. By the same logic, though daily study's fruit isn't explicitly stated, one may infer it follows the same arthavāda-pattern. Those unwilling to accept this reasoning may instead reason by analogy with the Vishvajit sacrifice — universally accepted to yield heaven-attaining fruit despite no explicit statement, purely by scholarly consensus. By this same logic, study too should be understood to yield heaven and similar rewards.
+For rites like Brahmayajna, japa, and study, many kinds of fruit are declared in their respective arthavāda statements. In the discussion on daily study specifically, one should infer — by analogy from the ratri-sattra rite — that heavenly comforts like "rivers of ghee" result, even though the Veda nowhere explicitly states this for the ratri-sattra itself; rather, this fruit is declared only in its related arthavāda passage. By the same logic, though daily study's fruit isn't explicitly stated, one may infer it follows the same arthavāda-pattern. Those unwilling to accept this reasoning may instead reason by analogy with the Vishvajit sacrifice — universally accepted to yield heaven-attaining fruit despite no explicit statement, purely because all sacrificers accept it. By this same logic, study too should be understood to yield heaven and similar rewards.
 
 **Regarding the ratri-sattra fruit specifically, the extended Nyayamala states, in its fourth adhyaya, third pada, sutras 17–19, as follows:**
 
@@ -10237,7 +10237,7 @@ He further declares that mastery of the syllables is, mediately, a genuine human
 
 **Sutra's meaning:** prāpti (mastering the text through memorization) aids understanding of the Veda's meaning — "arthabodha" here means "artha-jñāna" (knowledge of meaning), with "jāyate" (arises) elliptically understood.
 
-**A genuinely sharp counter-objection follows:** just as with eating — we eat because we know it satisfies hunger, with no separate injunction needed to eat — why isn't Vedic study the same? Why not simply say we study *because* it lets us understand the Veda, and understanding it, we perform the commanded yajnas and reap their reward — without needing to treat the *study itself* as independently commanded by scripture? Since this fruit (understanding, leading to yajna, leading to reward) is not directly observable at the moment of study itself, and study proceeds under specific rules and constraints, why should it need separate scriptural authority at all?
+**A genuinely sharp counter-objection follows:** just as with eating — we eat because we know it satisfies hunger, with no separate injunction needed to eat — why isn't Vedic study the same? Why not simply say we study *because* it lets us understand the Veda, and understanding it, we perform the commanded yajnas and reap their reward — without needing to treat the *study itself* as independently commanded by scripture? Since this fruit (understanding, leading to yajna, leading to reward) is plainly observable, why should study be bound by an injunction and rules, needing separate scriptural authority at all?
 
 **Sayana's answer:** where a fruit is directly observable, no injunction is needed; no one desires an unseen fruit for its own sake. Therefore, an injunction becomes necessary precisely to establish an unseen (adṛṣṭa) fruit — and for no other reason. A parallel example: pounding rice for a yajna with the specific mantra-accompanied method (avaghāta) is itself a case of unseen-fruit dependency — the rice could be dehusked in any number of ways to serve merely as food, but rice prepared other than by this exact prescribed method cannot be used in the yajna. The prescribed method itself carries the unseen fruit; ordinary efficient dehusking does not.
 
@@ -10294,7 +10294,7 @@ As for the objection to ceremonial perfection as study's visible result — that
 >
 > The affix 'tavya' denotes the object studied as well as the act of studying, and the former is the nearer meaning, and accordingly the affix denotes here a spiritual result attaching to the Veda itself."
 
-**Sutra's meaning:** knowing the injunctions for yajnas and similar rites in full detail — timing, manner, correct mantras, and their respective fruits — requires studying them directly, heard sequentially from a guru's own mouth (never from a written text, per the study-injunction's own restriction, which is what "svādhyāya" specifically requires). (For the meaning of *apūrva* the source refers to the Jaiminīya-nyāya-mālā-vistara, A. 2 Pā. 1 Sū. 1 to 4.) Combining these heard injunctions makes clear that a genuine saṃskāra results. **But this saṃskāra is itself an unseen (adṛṣṭa) fruit — and it belongs to the person who studies, not to the text studied.** This is because the "tavya" affix denotes a special quality (apūrva) generated in the agent through the act, not in the object. (For a fuller technical treatment of "apūrva," see the Jaimini-nyaya-mala-vistara, third adhyaya, first pada, sutras 1–3.) The next sutra answers the implication that follows from this.
+**Sutra's meaning:** knowing the injunctions for yajnas and similar rites in full detail — timing, manner, correct mantras, and their respective fruits — requires studying them directly, heard sequentially from a guru's own mouth (never from a written text, per the study-injunction's own restriction, which is what "svādhyāya" specifically requires). (For the meaning of *apūrva* the source refers to the Jaiminīya-nyāya-mālā-vistara, A. 2 Pā. 1 Sū. 1 to 5.) Combining these heard injunctions makes clear that a genuine saṃskāra results. **But this saṃskāra is itself an unseen (adṛṣṭa) fruit — and it belongs to the person who studies, not to the text studied.** This is because the "tavya" affix denotes a special quality (apūrva) generated in the agent through the act, not in the object. The next sutra answers the implication that follows from this.
 
 ---
 
@@ -10354,7 +10354,7 @@ As for the objection to ceremonial perfection as study's visible result — that
 
 Having thus established that Vedic study has an immediate, visible result — the pupil's mastery of the text — Sayana now turns to a new question: does the study-injunction's authority extend to the *interpretation* of meaning as well, or only to the act of study itself?
 
-### "Vyathamartha-nirṇayaṃ bhaṭṭa-gurū vidheḥ puruṣārtha-sānād iti" (Sutra 15)
+### "Vyathamartha-nirṇayaṃ bhaṭṭa-gurū vidheḥ puruṣārtha-sānād iti" (Sutra 1)
 
 > सर्वत्र विधिः पुरुषार्थ-पर्यवसायि चेति नियमाद् इत्य् अपि पुरुषार्थ-भूतं फलवद्-अर्थ-निश्चयम् अध्ययन-विधि-प्रयुक्तं भट्ट-गुरोर् मन्येते । ननु सकृद्-अध्ययनस्याडावृत्ति-संहितार्थ-निश्चये सोज्झलभ्ये इत्य् आशङ्क्य सति तज्-ज्ञानं फलान्तराध्ययन-विध्य्-अर्थ-निश्चयं विचारं कल्पयिष्याह ॥
 > sarvatra vidhiḥ puruṣārtha-paryavasāyi ceti niyamād ity api puruṣārtha-bhūtaṃ phalavad-artha-niścayam adhyayana-vidhi-prayuktaṃ bhaṭṭa-guror manyete | nanu sakṛd-adhyayanasyāḍāvṛtti-saṃhitārtha-niścaye sojjhalabhye ity āśaṅkya sati taj-jñānaṃ phalāntarādhyayana-vidhy-artha-niścayaṃ vicāraṃ kalpayiṣyāha ||
@@ -10534,7 +10534,7 @@ The purpose of understanding the Veda's meaning is to perform the rites it descr
 >
 > The next objection that occurs to him is this. If we take the reward contemplated by the injunction to lie in a knowledge of the meaning, then the injunction applies to every..."
 
-**Sutra's meaning:** complete study serves the purpose of japa (recitation); through japa, an unseen fruit results. Nor need one worry that the study-injunction fails to reach those who already understand the Veda's meaning — a valid means of knowledge (pramāṇa) naturally conveys what needs to be known by its own inherent nature, just as, in ordinary life, the words of respected persons instruct us without needing any separate scriptural command authorizing them to do so. The Vedic text, likewise, instructs of its own accord.
+**Sutra's meaning:** complete study serves the purpose of japa (recitation); through japa, an unseen fruit results. Nor need one worry that the meaning would not be obtained at all unless the injunction extends to knowledge of it's meaning — a valid means of knowledge (pramāṇa) naturally conveys what needs to be known by its own inherent nature, just as, in ordinary life, the words of respected persons instruct us without needing any separate scriptural command authorizing them to do so. The Vedic text, likewise, instructs of its own accord.
 
 ### "लोकवन्नैजो बोध इति" (Sutra 8)
 *"Lokavan naijo bodha iti"*
@@ -10630,7 +10630,7 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 >
 > If you conjecture the meaning of the Veda without studying it, then to learn the text of the Veda with the intention of knowing its meaning would be useless in this world. But it is not so. Learning the text of the Veda is not enough, but to know its meaning is also necessary, because such doubts as the Vedas are composed by men and the like will vanish with the help of Mimamsa Sastra."
 
-**Sutra's meaning:** the intended meaning can be surmised directly from the force of the words themselves. If study's sole purpose were mere recitation (without regard to meaning), then studying the Veda expressly *in order to* understand its meaning would become pointless in the world. But this isn't so: merely learning the text isn't sufficient — understanding its meaning is genuinely necessary too, since doubts like "the Vedas were composed by human authors" are resolved only with the help of Mimamsa-shastra.
+**Sutra's meaning:** the intended meaning can be surmised directly from the force of the words themselves. If the injunction's purpose were only to know the meaning, then reciting the words in studying the Veda would become pointless in the world. But this isn't so: merely learning the text isn't sufficient — understanding its meaning is genuinely necessary too, since doubts like "the Vedas were composed by human authors" are resolved only with the help of Mimamsa-shastra.
 
 ---
 
@@ -10649,7 +10649,7 @@ You will perhaps say that a thing may be known in a general way, and yet there b
 
 **Sutra's meaning:** reciting the Veda with a specific purpose — understanding its meaning, intending to perform yajnas — removes sin in this world. If the study-injunction excluded the aim of understanding meaning, then Mimamsa-shastra (which exists precisely to examine Vedic meaning) would become entirely purposeless. The resolution follows.
 
-### "विचार उत्तरविधिप्रयोक्ते उपसद्यत इति" (Sutra 12)
+### "विचार उत्तरविधिप्रयोक्ते उपसद्यत इति" (Sutra 13)
 *"Vicāra uttara-vidhi-prayokte upasadyata iti"*
 
 > "**The Mimansa has the place because it rests on later injunctions.**
