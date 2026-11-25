@@ -3303,6 +3303,269 @@ The plants, falling from heaven, said, " The man whom living we pervade, will no
 
 "The plants whose king (lord) is Soma, those that are many, innumerable, शतविचक्षणा (*śatavicakṣaṇā*), of many appearances: O plant called Soma, you are the best of those plants. Since this is so, be अरं (*araṃ*), abundantly, pleasant to the beloved heart (कामाय (*kāmāya*) read as काम (*kāma*), कांताय हृदे (*kāṃtāya hṛde*)), is the word to be supplied: 'be happiness-giving'."**NOTE**
 
+### Printed p. 92
+
+*Pratipadārtha and Bhāvārtha of the preceding Ṛk (continuing)*
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बह्वीः (*bahvīḥ*)—numerous
+- शतविचक्षणाः (*śatavicakṣaṇāḥ*)—possessed of the power of manifold seeing
+- या ओषधीः (*yā oṣadhīḥ*)—which plants
+- सोमराष्ट्रेः (*somarāṣṭreḥ*)—those that have Soma himself as their king
+- अरं (*araṃ*)—fully
+- कामाय (*kāmāya*)—as the one who grants our desired ends
+- हृदे (*hṛde*)—to our heart
+- शं (*śaṃ*)—be the bringer of happiness
+- तासां (*tāsāṃ*)—among them
+- त्वं (*tvaṃ*)—you
+- उत्तमा असि (*uttamā asi*)—you are the best (therefore…)
+
+##### भावार्थ (Bhāvārtha)
+
+O plant called Soma, of those plants which are numerous, which have the power of manifold seeing, and which have Soma himself as their king, you are the best. Therefore be fully the giver of our desired ends and the bringer of happiness to our heart.
+
+##### English translation
+The plants which have the Soma for their king, and are numerous and all-seeking, of them you (O Soma-plant) are the best ; be very bountiful to the affectionate heart.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ओष॑धीः॒ सोम॑राज्ञ॒र्विष्ठि॑ताः पृथि॒वीमनु॑ ।  
+> बृह॒स्पति॑प्रसूता अ॒स्मै सं द॑त्त वी॒र्यं॑ ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । ऒषधीः । सोमराज्ञे । विस्तिता । पृथिवीं । अनु ।  
+> बृहस्पतिप्रसूताः । अस्मै । सं । दत्त । वीर्यं ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या ओषधीरोपधयः सोमराज्ञे पृथिवीमनु विष्मिता विविधं स्थिताः दिवः
+> सकाशादागत्य पृथिव्यां नानाभेदेन स्थिताः बृहस्पतिप्रसूता बृहस्पतिनाहुज्माशाः
+> क्षो यूयमस्यै रुग्धतत्वे वीर्यं सं दत्त । संधत्त ॥
+
+##### Gist of the bhāṣya
+
+The plants which, for Soma the king, are spread out variously over the earth: having come from the region of heaven they stand on earth in manifold divisions. Sāyaṇa then explains *Bṛhaspati-impelled* (बृहस्पतिप्रसूता (*bṛhaspatiprasūtā*)) as sent forth by Bṛhaspati **NOTE**. "You give vigour to this sick body"; सं दत्त (*saṃ datta*) is explained as संधत्त (*saṃdhatta*).
+
+### Printed p. 93
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधीः (*oṣadhīḥ*)—O plants
+- याः (*yāḥ*)—you who
+- सोमराज्ञीः (*somarājñīḥ*)—having Soma himself as king
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- अनु विष्ठिताः (*anu viṣṭhitāḥ*)—pervading
+- बृहस्पतिप्रसूताः (*bṛhaspatiprasūtāḥ*)—having received the favour of Bṛhaspati; such as you are
+- अस्यै (*asyai*)—to this sick person
+- वीर्यं (*vīryaṃ*)—strength
+- सं दत्त (*saṃ datta*)—supply
+
+##### भावार्थ (Bhāvārtha)
+
+O plants, you who have Soma as your king, who pervade the earth, and who have received the favour of Bṛhaspati, fill this sick person with strength.
+
+##### English translation
+Plants, which have the Soma for your king, who are scattered over the earth, the offspring of Brihaspathi, give vigour to this (infirm body.)
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा पो॑ रिषत्पनि॒ता यस्मै॑ चा॒हं खना॑मि वः ।  
+> द्वि॒पच्चतु॑ष्पद॒स्माकं॒ सर्व॑मस्तृनातु॒रं ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । वः । रिषत् । खनिता । यस्मै । च । अहं । खनामि । वः ।  
+> द्विपत् । चतुःपत् । अस्माकं । सर्वं । अस्तु । अनातुरं ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधयः वो युष्मान्मा रिषत् । मा हिंस्यात् । कः । खनिता भूमेः
+> खननकर्ता । यस्मै रुग्णाय चाहं खनामि वो युष्मान् । किंचास्माकं संबंधि
+> द्विपत् पुत्रभृत्यादिकं चतुष्पद्दोमहिष्यादिकं च यदस्ति तत्सर्वमनातुरमरोगमस्तु ॥
+
+##### Gist of the bhāṣya
+
+O plants, let not the digger of the earth harm you, nor I, for whatever sick person I dig you up. Moreover, whatever belongs to us, the biped (sons, servants and the like) and the quadruped (cows, buffaloes and the like), let all of it be free from disease.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- खनिता (*khanitā*)—he who digs the earth for you
+- वः (*vaḥ*)—you
+- मा रिषत् (*mā riṣat*)—let him not harm
+- यस्मै (*yasmai*)—for whatever sick person
+- अहं (*ahaṃ*)—I
+- खनामि (*khanāmi*)—dig (even then)
+
+### Printed p. 94
+
+(continuing) let me not harm you either.
+- वः (*vaḥ*)—you
+- अस्माकं (*asmākaṃ*)—belonging to us
+- द्विपत् (*dvipat*)—sons and the like
+- चतुष्पात् (*catuṣpāt*)—cattle and the like
+- सर्वं (*sarvaṃ*)—all living beings
+- अनातुरं (*anāturaṃ*)—free from disease
+- अस्तु (*astu*)—let be
+
+##### भावार्थ (Bhāvārtha)
+
+O plants, let him who digs the earth to obtain you not harm you; and when I dig for the sake of a sick person, let me too not harm you. Let our sons and the like, our cattle and the like, and all living beings be free from disease.
+
+##### English translation
+Let not the digger hurt you, nor (the sick person) for whom I dig you up; may all my bipeds and quadrupeds be free from disease.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याश्चे॒दमु॑पशृ॒ण्वंति॒ याश्च॑ दू॒रं परा॑गताः ।  
+> सर्वाः॑ सं॒गत्य॑ वीरुधो॒ऽस्यॆ सं द॑त्त वी॒र्यं॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । च । इदं । उपशृण्वंति । याः । च । दूरं । परागताः ।  
+> सर्वाः । संगत्य । वीरुधः । अस्यै । सं । दत्त । वीर्यं ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> याश्चौषधय इदं स्तोत्रमुपशृण्वंति याश्चौषधयो दूरं परागताः सर्वा
+> वीरुधः संगत्य संगताः सत्यो हे वीरुधः अस्यै रुग्णतन्वे वीर्यं सं दत्त ॥
+
+##### Gist of the bhāṣya
+
+The plants that hear this hymn of praise, and the plants that have gone far away: all these creepers (वीरुधः (*vīrudhaḥ*)), having come together, O creepers, give vigour to this sick body.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरुधः (*vīrudhaḥ*)—O plants, (among you)
+- याः (*yāḥ*)—which plants
+- इदं (*idaṃ*)—this hymn of praise
+- उपशृण्वंति (*upaśṛṇvaṃti*)—are able to hear
+- याः च (*yāḥ ca*)—and which
+- दूरं परागताः (*dūraṃ parāgatāḥ*)—are hidden in a far-off region
+- सर्वाः (*sarvāḥ*)—all of you
+- संगत्य (*saṃgatya*)—having come together
+- अस्यॆ (*asyè*)—to the body of this sick person
+- वीर्यं (*vīryaṃ*)—strength
+- सं दत्त (*saṃ datta*)—supply
+
+### Printed p. 95
+
+##### भावार्थ (Bhāvārtha)
+
+O plants, those of you that are near and can hear this hymn, and those that are hidden in a far-off region, all of you come together and supply strength to the body of this sick person.
+
+##### English translation
+Both the plants that hear this (prayer), and those which are removed far off, all comming together, give vigour to this (infirm body).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओष॑धयः॒ सं व॑दंते॒ सोमे॑न स॒ह राज्ञा॑ ।  
+> यस्मै॑ कृ॒णोति॑ ब्राह्म॒णस्तं रा॑जन्पारयामसि ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ओषधयः । सं । वदंते । सोमेन । सह । राज्णा ।  
+> यस्मै । कृणोति । ब्राह्मणः । तं । राजन् । पारयामसि ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ओषधयः सर्वाः सोमेन राज्ञा सह सं वदंते । संवादं कुर्वंति । किमिति
+> उच्यते । यस्मै रुग्णाय ब्राह्मण ओषधिसामर्थ्यज्ञो ब्राह्मणो वैद्यः कृणोति
+> करोति चिकित्सा० तं रुग्णं हे राजन् पारयामसि । पारयामः ॥ इदंतो मसिः ॥
+
+##### Gist of the bhāṣya
+
+All the plants converse with Soma the king; they hold a dialogue. What do they say? For whatever sick person the brāhmaṇa, the physician who knows the power of the plants, performs treatment, that sick person, O king, we bring through (पारयामसि (*pārayāmasi*) = पारयामः (*pārayāmaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधयः (*oṣadhayaḥ*)—all the plants
+- राज्ञा (*rājñā*)—with the lord
+- सोमेन सह (*somena saha*)—with the god Soma
+- सं वदंते (*saṃ vadaṃte*)—speak thus
+- राजन् (*rājan*)—O lord
+- यस्मै (*yasmai*)—for whichever sick person
+- ब्राह्मणः (*brāhmaṇaḥ*)—the physician who knows the nature of the plants
+- कृणोति (*kṛṇoti*)—performs treatment
+- तं (*taṃ*)—that sick person
+- पारयामसि (*pārayāmasi*)—we shall cure
+
+##### भावार्थ (Bhāvārtha)
+
+All the plants, gathering together, speak thus to their lord, the god Soma: "O lord, the sick person for whom the physician who knows the nature of the plants performs treatment, that sick person we shall cure."
+
+### Printed p. 96
+
+##### English translation
+All the plants, together with Soma their king, declare, " We save him, O king, to whom the brahman administers (us)".
+
+##### विशेषविषयगळु (Special Topics)
+
+ब्राह्मणः (*brāhmaṇaḥ*): brahma means mantra; one who knows it is a brāhmaṇa. Here the word brāhmaṇa can be given two kinds of meaning: a physician who also knows the nature of the mantra, or a brāhmaṇa.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमु॑त्त॒मास्यो॑षधे॒ तव॑ वृ॒क्षा उप॑स्तयः ।  
+> उप॑स्तिरस्तु॒ सो॒३॒॑ऽस्माकं॒ यो अ॒स्मा अ॑भि॒दास॑ति ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । उत्तमा । असि । ओषधे । तव । वृक्षाः । उपस्तयः ।  
+> उपस्तिः । अस्तु । सः । अस्माकं । यः । अस्मान् । अभिदासति ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधे सोमाख्ये त्वमोषधीनामन्यासामुत्तमासि । तव वृक्षाः सर्व
+> उपस्तयः । अधः शायिन एव । तथा सति स उपस्थिरस्तु अधःशायी भवतु योऽस्मानभिदासति हिनस्ति । भ्रातृव्य इति ॥
+
+##### Gist of the bhāṣya
+
+O plant, called Soma, you are the best of the other plants. All trees are your उपस्तयः (*upastayaḥ*), that is, lying below (you). That being so, let him be उपस्थिरस्तु (*upasthirastu*), lying below, who attacks (अभिदासति (*abhidāsati*), harms) us; he is the enemy (भ्रातृव्य (*bhrātṛvya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधे (*oṣadhe*)—O plant of the form of Soma
+- त्वं (*tvaṃ*)—you
+- उत्तमा असि (*uttamā asi*)—are the best among all plants
+- तव (*tava*)—before you
+- वृक्षाः (*vṛkṣāḥ*)—all trees
+- उपस्तयः (*upastayaḥ*)—are bowed down
+- यः (*yaḥ*)—whoever
+- नः (*naḥ*)—us
+- अभिदासति (*abhidāsati*)—harms
+- सः (*saḥ*)—he
+- अस्माकं (*asmākaṃ*)—to us
+- उपस्थिः (*upasthiḥ*)—bowing down
+- अस्तु (*astu*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+O plant of the form of Soma, you are the best among all plants. All trees are bowed before you. Whoever harms us, let him bow to us and be subject to us.
+
+### Printed p. 97
+
+##### English translation
+You (soma) are the best of the plants, to you (all) trees are prostrate; may he be prostrate to us, who attacks us.
+
+## Sūkta 98 (Maṇḍala 10)
+
+Concerning this sūkta, Yāska, the author of the Nirukta, has told an ancient story:
+
+अत्रेतिहासमाचक्षते । देवापिश्चार्ष्टिषेणः शंतनुश्च कौरव्यौ भ्रातरा बभूवतुः । स शंतुनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतुनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति ॥ (*atretihāsamācakṣate | devāpiścārṣṭiṣeṇaḥ śaṃtanuśca kauravyau bhrātarā babhūvatuḥ | sa śaṃtunuḥ kanīyānabhiṣecayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtunurdevāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste 'sāni yājayāni ca tveti ‖*) (Ni. 9-11)
+
+In former times, in the Kuru line, a king named Ṛṣṭiṣeṇa had two sons, Devāpi and Śantanu. Of these, Devāpi was the elder and Śantanu the younger. After their father Ṛṣṭiṣeṇa died, his elder son Devāpi wished to become king. But his younger brother Śantanu, giving him no opportunity, desired to be the ruler of the kingdom himself, drove out his elder brother Devāpi and began to rule the kingdom himself. The elder brother Devāpi, distressed, went to the forest and passed his time performing austerities. While matters stood so, no rain fell in Śantanu's country for twelve years and a great famine arose. Then King Śantanu considered what should be done about it and asked the advice of the brāhmaṇas. The brāhmaṇas said to the king: "According to the Dharmaśāstra, the king's eldest son alone is entitled to the kingdom. Therefore the rule of the kingdom should have been exercised by your elder brother Devāpi. But you gave him no opportunity, drove him out and seized the kingdom. Since you are thus practising unrighteousness, the god of rain does not send rain in your kingdom." King Śantanu repented of the wrong he had done, summoned his elder brother Devāpi, who was performing austerities in the forest, and handed the kingdom over to him. But Devāpi said that he did not want the kingdom, that he would remain in the forest performing austerities and follow the path of withdrawal (निवृत्ति (*nivṛtti*)); and that, for the removal of the drought that had arisen in the kingdom, Śantanu should perform a sacrifice, in which he himself would take the office of priest and help bring about the rain. The king agreed, and Devāpi took the part of the priest called hotṛ in his sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 91. pp. 86-91 (batch API)
+**Progress note:** Done through printed p. 97. pp. 92-97 (batch API)
