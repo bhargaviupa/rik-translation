@@ -6437,6 +6437,235 @@ Use: on the sixth day, in the Brāhmaṇācchaṃsin's śastra, the verse "kap�
 - पुत्रं (*putraṃ*)—the son
 - इंद्रं (*iṃdraṃ*)—Indra
 
+### Printed p. 171
+
+ʻAh, leaders of the rite, bring him down here for the soma-drinking and for protection.ʼ (This completes the Pratipadārtha begun on the previous page.)
+
+- नन्नु (*nannu*)—(Indra, the son of Aditi, continuing from the previous page)
+- सोमपीतये (*somapītaye*)—for the drinking of soma
+- ऊतये (*ūtaye*)—for protection
+- इह (*iha*)—here
+- आ च्यवय (*ā cyavaya*)—make him come down
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, leaders of the rite, Indra is the giver of happiness to us. Urge on this giver of happiness, stir him up. Sport with him for the gaining of food. O priests, make Indra, the son of Aditi, come down here both for the drinking of soma and for our protection.
+
+##### English translation
+Indra, you leaders, is the giver of happiness; excite the giver of happiness, stimulate him, sport with him for the acquisition of food, bring down here, O priests, Indra, the son of Nishtigri, to drink the soma juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the sixth day of the sacrifice, among the śastra-mantras to be recited by the priest called Brāhmaṇācchaṃsin, this Ṛk beginning कपृन्नरः (*kapṛnnaraḥ*) is to be recited. This is set out by the Āśvalāyana Śrauta Sūtra in the sūtra कपृन्नरो यद्ध प्राचीरजगन्तेति चैते (*kapṛnnaro yaddha prācīrajaganteti caite*) (Ā. 8-3).
+
+## Sūkta 102 (Maṇḍala 10)
+
+**Introduction**
+The seer of this sūkta is Mudgala, son of Bhramyaśva. There is a story about this seer. Once thieves carried off all the cows that Mudgala had. They left behind only one old ox, useless for any work. Mudgala did not lose heart; he yoked that very old ox to his cart and pursued the thieves. He threw ahead a club or cudgel that he had. By the power of his austerity it followed the very path the thieves had taken and led him to the place where they were. Then Mudgala beat the thieves down with that same club and brought his cows back. The seer himself tells this in the ninth Ṛk of this sūkta.
+
+Yāska too has spoken thus on this matter: तत्रेतिहासमाचक्षते । मुद्गलो भार्म्यश्व ऋषिर्वृषभं च द्रुघणं च युक्त्वा संग्रामे व्यवहृत्याजिं जिगायॆ ॥ (*tatretihāsamācakṣate | mudgalo bhārmyaśva ṛṣirvṛṣabhaṃ ca drughaṇaṃ ca yuktvā saṃgrāme vyavahṛtyājiṃ jigāyè ‖*) (2. 9-24)
+
+### Printed p. 172
+
+Once the seer Mudgala, son of Bhṛmyaśva, yoked to his cart an ox and, together with it, a wooden club, and with its help won victory in battle. This is told in the ninth Ṛk of this same sūkta. It will be explained there, in the Special Topics of that Ṛk, when the nirvacana is set out. The nirvacana of the words Mudgala and Bhārmyaśva will also be given there.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र ते रथमिति द्वादशर्चं तृतीयं सूक्तं । भर्मश्वपुत्रो मुद्दलऋषिः ।
+> आद्या तृतीयांत्या चेति तिस्रो बृहत्यः । शिष्टा नव त्रिष्टुभः । द्रुघणो नाम
+> मुद्दरः । तद्देवत्यमिदमिंद्रदेवत्यं वा । तथा चानुक्रांतं । प्र ते मुद्दलो
+> भार्म्यश्व ऋषभेण द्रुघणेन चाजिं जिगायेति दौघणं वाद्या तृतीयांत्या
+> च बृहत्य इति ॥ गतो विनियोगः ॥ अत्राहुः । मुद्दलस्य हृता गावश्चोरैस्त्यक्ता
+> जरद्गवं । स शिष्टं शकटे कृत्वा गत्वैक ऋजुराहवं । द्रुघणं युयुजेऽन्यत्र
+> चोरमार्गनुसारकः । द्रुघणं जाग्रतः क्षिप्ता चोरेभ्यो जगृहे स्वगा इति ॥
+> तथा निरुक्तेऽपीयं कथा सूचिता । मुद्दलो भार्म्यश्व ऋषिर्वृषभं च द्रुघणं
+> च युक्त्वा संग्रामे व्यवहृत्याजिं जिगाय ।नि ९-२३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र ते रथं (*pra te rathaṃ*) has twelve Ṛks and is the third of its anuvāka. The seer is Mudgala, son of Bhṛmyaśva. The first, third and last verses are Bṛhatī; the remaining nine are Triṣṭubh. Drughaṇa is a name for the club (mudgara); the deity is that, or Indra. The Anukramaṇī is quoted: प्र ते मुद्दलो भार्म्यश्व ऋषभेण द्रुघणेन चाजिं जिगायेति दौघणं वाद्या तृतीयांत्या च बृहत्य इति ॥ (*pra te muddalo bhārmyaśva ṛṣabheṇa drughaṇena cājiṃ jigāyeti daughaṇaṃ vādyā tṛtīyāṃtyā ca bṛhatya iti ‖*) The viniyoga has been given already. Of this the verses say: Mudgala's cows were stolen, and the thieves left only an old ox. He put that leftover ox to his cart, went on and yoked the club to the other side; following the thieves' track he threw the club ahead against them while they were awake, and took back his cows from the thieves. The same tale is indicated in the Nirukta: मुद्दलो भार्म्यश्व ऋषिर्वृषभं च द्रुघणं च युक्त्वा संग्रामे व्यवहृत्याजिं जिगाय । (*muddalo bhārmyaśva ṛṣirvṛṣabhaṃ ca drughaṇaṃ ca yuktvā saṃgrāme vyavahṛtyājiṃ jigāya |*) (Ni. 9-23).
+
+##### Anuvāda
+
+This sūkta प्र ते रथं (*pra te rathaṃ*) is the third sūkta of the ninth anuvāka, with twelve Ṛks. Its seer is Mudgala, son of the seer Bhramyaśva. The first, third and last Ṛks are in the Bṛhatī metre; the other nine are Triṣṭubh. Drughaṇa means mudgara, that is, the (wooden) club. The deity of the sūkta is this club, or Indra. In the Anukramaṇī it is said: प्र ते मुद्गलो भार्म्यश्व ऋषभेण द्रुघणेन चाजिं जिगायेति द्रौघणं वाद्या तृती यांत्या च बृहत्यः (*pra te mudgalo bhārmyaśva ṛṣabheṇa drughaṇena cājiṃ jigāyeti draughaṇaṃ vādyā tṛtī yāṃtyā ca bṛhatyaḥ*). The viniyoga was stated earlier.
+
+Concerning Mudgala, the seer of this sūkta, it is said: मुद्गलस्य हृता गावश्चोरैस्त्यक्त्वा जरद्गवं । स शिष्टं शकटे कृत्वा गत्वैक ऋजुराहवं ॥ द्रुघणं युयुजेऽन्यत्र चोरमार्गनुसारकः । द्रुघणं चाग्रतः क्षिप्त्वा चोरेभ्यो जगृहे स्वगाः ॥ इति ॥ (*mudgalasya hṛtā gāvaścoraistyaktvā jaradgavaṃ | sa śiṣṭaṃ śakaṭe kṛtvā gatvaika ṛjurāhavaṃ ‖ drughaṇaṃ yuyuje 'nyatra coramārganusārakaḥ | drughaṇaṃ cāgrataḥ kṣiptvā corebhyo jagṛhe svagāḥ ‖ iti ‖*)
+
+Once all the cows of this seer Mudgala were taken away by thieves; they left only one old ox. Mudgala yoked that old ox to one side of his cart and the wooden club he had to the other, sat in that cart, pursued the thieves
+
+### Printed p. 173
+
+and fought them with that very club, conquered them and brought his cows back. Such is the tradition. In the Nirukta too it is said: मुद्दलो भार्म्यश्व ऋषिर्वृषभं च द्रुघणं च युक्त्वा संग्रामे व्यवहृत्याजिं जिगाय (*muddalo bhārmyaśva ṛṣirvṛṣabhaṃ ca drughaṇaṃ ca yuktvā saṃgrāme vyavahṛtyājiṃ jigāya*) (Ni. 9-23). We have explained the sense of this in the introduction to this very sūkta.
+
+Sūkta 102
+Maṇḍala 10; Anuvāka 9; Sūkta 102.
+Aṣṭaka 8; Adhyāya 5; Varga 20, 21.
+Number of Ṛks in the sūkta: 12.
+Seer: Mudgala Bhārmyaśva.
+Deity: Drughana, or Indra.
+Metre: 1, 3, 12 Bṛhatī; 2, 4–11 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ रथं॑ मिथू॒कृत॒मिंद्रो॑ऽवतु धृष्णु॒या ।  
+> अ॒स्मिन्ना॒जौ पु॑रुहूत श्र॒वाय्ये॑ धनभ॒क्षेषु॑ नोऽव ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । रथं । मिथुकृतं । इंद्रः । अवतु । धृष्णुया ।  
+> अस्मिन् । आजौ । पुरुहूत । श्रवाय्ये । धनभक्षेषु । नः । अव ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मुद्दल ते रथं मिथूकृतं मिथःकृतमसहायं कृतं । अथवा मिथुरिति
+> मिथ्यानाम । अश्वादिभिः शून्यं कृतं धृष्णुया धर्षणशील इंद्रोऽवतु । रक्षतु ।
+> यद्वा । धृष्णुया धर्षणशीलेन वज्रेण ॥ उभयत्र सुपां सुलुगिति- सुपो
+> याजादेशः ॥ अथ प्रत्यक्षकृतः । हे पुरुहूत बहुभिराहूतेंद्र अस्मिन्नाज्
+> संग्रामेऽपहृतगोभिश्चोरैः कृते संग्रामे । कीदृशे श्रवाय्कॆ श्रोतव्ये विश्रुत
+> इत्यर्थः ॥ श्रुदक्षीत्यादिना । उ-३-९६ । आय्यप्रत्ययः ॥ धनभक्षेष्टस्मासु गोरूपधनभजनकामेषु सत्सु । यद्वा । गोरूपधनस्य भक्षकेषु चौरेषु जेतव्येषु
+> सत्सु । नोऽस्मानव । रक्ष ॥
+
+**NOTE**
+
+> (एलैमुद्गलने)के-निन्न । मिथूकृतं-हूडलु अश्वादिगळिल्लदॆ असहायकस्थितियल्लिरुव
+> रथं-रथवन्नु अथवा गाडियन्नु ! इंद्रः-इंद्रनु:। धृष्णुया-धर्षणशीलवाद ऎंदरॆ
+> शत्रुगळन्नु ऎदुरिसबल्ल वज्रायुधदिंद ! अवतु-रक्षिसलि । पुरुहूत-अनेकर आह्वानक्कॆ ।
+> पात्रनाद ऎलै इंद्रने । श्रवाय्ये-प्रसिद्धवाद ! धनभक्षेषु गोरूपवाद धनप्राप्तिदाय
+> कवाद अथवा गोरूपधनवन्नु पहरिसिद चोररॊडनॆ नडॆयबेकागिरुव । अस्मिन् आजौई युद्धदल्लि । वः-नम्मन्नु । अव-रक्षिसु !
+> ॥ ८४ ॥
+> ऎलै (मुद्दल ऋषिये) हूडलु अश्वादिगळिल्लदिरुव मत्तु असहायकस्थितियल्लिरुव निन्न
+> रथवन्नु इंद्रनु तन्न शत्रुधर्षकवाद वज्रायुधद सहायदिंद रक्षिसलि. अनेकर आह्वानक्कॆ
+> पात्रनाद ऎलै इंद्रने, गोरूपवाद धनवन्न पहरिसिद चोररॊडनॆ नडॆयुव प्रसिद्धवाद ई
+> युद्धदल्लि नम्मन्नु (मुद्दल मॊदलादवरन्नु) रक्षिसु.
+
+##### Gist of the bhāṣya
+
+O Mudgala, may Indra, the daring one, protect your chariot मिथूकृतं (*mithūkṛtaṃ*)—made helpless, without help; or *mithuḥ* is a name meaning "false", so made empty of horses and the like. Or else, धृष्णुया (*dhṛṣṇuyā*) is the daring thunderbolt (by it). Then, addressing him directly: O Indra, called by many, in this battle fought against the thieves who carried off the cows, a battle that is श्रवाय्ये (*śravāyye*), to be heard of, renowned; while we are eager to win the wealth in the form of cows; or else while the thieves, devourers of the cow-wealth, are to be conquered—protect us.
+
+### Printed p. 174
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मिथूकृतं (*mithūkṛtaṃ*)—left helpless, without horses and the like to yoke
+- रथं (*rathaṃ*)—the chariot or cart
+- इंद्रः (*iṃdraḥ*)—Indra
+- धृष्णुया (*dhṛṣṇuyā*)—with the daring thunderbolt, able to face enemies
+- अवतु (*avatu*)—may he protect
+- पुरुहूत (*puruhūta*)—O Indra, worthy of the invocation of many
+- श्रवाय्ये (*śravāyye*)—renowned
+- धनभक्षेषु (*dhanabhakṣeṣu*)—in the winning of wealth in the form of cows, or in the fight to be waged with thieves who seized the cow-wealth
+- अस्मिन् आजौ (*asmin ājau*)—in this battle
+- नः (*naḥ*)—us
+- अव (*ava*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Mudgala, may Indra protect your chariot, which is without horses and the like to yoke and is in a helpless state, with his thunderbolt that overcomes enemies. O Indra, worthy of the invocation of many, protect us (Mudgala and the others) in this famous battle waged with the thieves who carried off the wealth of cows.
+
+##### English translation
+May (Indra) by his prowess protect your waggon (Mudgala) that has no companion, defend us, O invoked of many, in this memorable conflict in the recovery of our wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+The story of Mudgala, and why he had to fight the thieves, is explained in the introduction to this sūkta. In such a battle the seer prays Indra to help and protect him.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्स्म॒ वातो॑ वहति॒ वासो॑ अस्मा॒ अधि॑रथं॒ यदज॑यत्स॒हस्रं॑ ।  
+> र॒थीर॑भून्मुद्ग॒लानी॒ गवि॑ष्टौ॒ भरे॑ कृ॒तं व्य॑चेदिंद्रसे॒ना ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उज् । स्त । वातः । वहति । वासः । अस्माः । अधिरथं । यत् । अजयत् । सहस्रं ।  
+> रथीः । अभूत् । मुद्दलानी । गोइष्टौ । भरे । कृतं । वि । अजेत् । इंद्रसेनाः ॥२
+
+### Printed p. 175
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्या रथीरभून्मुद्गलानीति वक्षमाणत्वादस्य मुद्गलस्य पत्न्याः सारथिभूताया वासोऽंशुकं वातो वायुरद्वहति । ऊर्ध्व० प्रापयति ।श्रमजनितस्वेदापनयनाय । अथवा शीघ्ररथधावनजनितो वायुरंशुकं चालयतीत्यर्थः ।
+> कदेति उच्यते । यद्यदाधिरथमधिकं रथमारुह्य सहस्रं सहस्रसंख्याकं गोसंघमजयत् तवा । यव्या गोसहस्रमजयदस्या इति वा योज्यं ॥ यद्योगाज्जयतेर्न निघातः ॥ गविष्टौ गवामपहृतानामेषणे मुद्गलानी मुद्गलस्य स्त्री
+> रथीरभूत् । सारथिरभवत् ॥ छांदस आनुक् ॥ इंद्रसेना स्तुत्या परितुष्टस्येंद्रस्य
+> सेना । यद्वा । इंद्रस्य शत्रूणां दारयितुर्मुद्गलस्य सेनानीरूपा मुद्गलानी ।
+> भरे संग्रामे कृतं संपादितं गोसंघं व्यचेत् । व्यचिनोत् । शत्रुभ्यः
+> पृथक्तवती ॥ चयतेर्लजि बहुलं छंदसीति विकरणस्य लुक् ॥
+
+##### Gist of the bhāṣya
+
+Because the verse will say रथीरभून्मुद्गलानी (*rathīrabhūnmudgalānī*), the wind lifts upward the garment of this Mudgala's wife, who has become the charioteer, to remove the sweat born of exertion; or: the wind produced by the swift running of the chariot makes the garment flutter. When? When, mounting the great chariot, she won a thousand, a herd of a thousand cows; अस्या (*asyā*) may be construed either way (she won for him, or the thousand cows were won of him). In the quest of the stolen cows Mudgalānī, Mudgala's wife, became the charioteer. इंद्रसेना (*iṃdrasenā*) is the army of Indra, pleased by praise; or else, as the destroyer of enemies, she is Mudgala's army-leader. In battle she parted from the enemies the herd that had been won, and separated it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when Mudgala's wife
+- अधिरथं (*adhirathaṃ*)—mounting the great chariot
+- सहस्रं (*sahasraṃ*)—the many cows taken by the thieves
+- अजयत् (*ajayat*)—won and brought back, then
+- अस्याः (*asyāḥ*)—of this charioteer, Mudgalānī
+- वासः (*vāsaḥ*)—the garment
+- वातः (*vātaḥ*)—the wind
+- उत् स्मवहति (*ut smavahati*)—kept blowing upward
+- गविष्टौ (*gaviṣṭau*)—in the battle waged to seek and bring back the stolen cows
+- मुद्दलानी (*muddalānī*)—Mudgala's wife
+- रथीः (*rathīḥ*)—as the charioteer driving the chariot
+- अभूत् (*abhūt*)—was
+- इंद्रसेना (*iṃdrasenā*)—the army of Indra, pleased with praise; or Mudgala's wife, like Mudgala's army-leader, splitting enemies
+- भरे (*bhare*)—in battle
+- कृतं (*kṛtaṃ*)—the herd of cows gained
+- व्यचेत् (*vyacet*)—freed from the enemies and brought back
+
+##### भावार्थ (Bhāvārtha)
+
+In the fight with the thieves, waged to recover the cows they had stolen from Mudgala, Mudgala's wife was the charioteer driving the chariot. As she drove, the wind caused by the chariot's speed kept lifting her garment. In that battle for the cows, his wife, who was like Mudgala's army-leader, won the cows back from the thieves.
+
+##### English translation
+The wind raised her vesture when she won a thousand waggon-loads. Mudgalani was the charioteer in the quest of the cattle, the army of Indra recovered (the spoil) taken in battle.
+
+### Printed p. 176
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒तर्य॑च्छ॒ जिघां॑सतो॒ वज्र॑मिंद्राभि॒दास॑तः ।  
+> दास॑स्य वा मघव॒न्नार्य॑स्य ना सनु॒तर्य॑वया व॒धं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतः । यच्छ । जिघांसतः । वज्रं । इंद्र । अभिदासतः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दासस्य । वा । मघवन् । आर्यस्य । वा । सनुतः । यवय । वधं ॥ ३ ॥
+> हे इंद्र जिघांसतो हंतुमिच्छतोऽभिदासतोऽभिद्रुह्यतः शत्रोर्वज्रमंतर्यच्छ । अंतर्गमय । तदेवाह । हे मघवन्धनवन्निंद्र दासस्य वोपक्षेणस्याल्पस्यार्यस्याभिगंतव्यस्य महतो ना शत्रोर्वधं । वज्रनामैतत् । हननसाधनं
+> वज्रं सनुतः । अंतर्हितनामैतत् । अंतर्हितं गूढं प्रयुज्यमानं यवय ।
+> पृथक्कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, hold back within the thunderbolt of the enemy who wishes to kill and is hostile; make it go within. He says it: O Maghavan, wealthy Indra, whether the enemy is a दास (*dāsa*) (or an upakṣepaṇa, a petty one) or an आर्य (*ārya*) (one to be approached, a great one), separate the वधं (*vadhaṃ*) of the man. वध (*vadha*) is a name of the thunderbolt, an instrument of killing. सनुतः (*sanutaḥ*) is a name meaning "hidden": the weapon hidden, secretly used—separate it, keep it apart.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- जिघांसतः (*jighāṃsataḥ*)—of the enemy who wishes to kill us
+- अभिदासतः (*abhidāsataḥ*)—who does us harm
+- वज्रं (*vajraṃ*)—the weapon like a thunderbolt
+- अंतः यच्छ (*aṃtaḥ yaccha*)—hold it back there (so that it does not fall upon us)
+- मघवन् (*maghavan*)—O wealthy Indra
+- दासस्य (*dāsasya*)—even if the enemy is a murderous dasyu
+- आर्यस्य वा (*āryasya vā*)—or even one of the Āryas, of such an enemy
+- सनुतः (*sanutaḥ*)—hidden away, concealed
+- वधं (*vadhaṃ*)—the weapon (thunderbolt), the instrument of killing
+- यवय (*yavaya*)—separate it so that it does not come to us, that is, ward it off
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, hold back there, so that it does not fall upon us, the thunderbolt-like weapon of the enemy who is hostile to us and wishes to kill us. O wealthy Indra, whether the enemy who wishes to kill us is a dasyu or an Ārya, check there the weapon he has hidden away, so that it does not come to us.
+
 ---
 
-**Progress note:** Done through printed p. 170. pp. 165-170 (batch API)
+**Progress note:** Done through printed p. 176. pp. 171-176 (batch API)
