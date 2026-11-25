@@ -143,6 +143,7 @@ One route for all volumes (the approved design): the Kannada book and the struct
 6. **Vols 3–10, 13** as their texts arrive; **Vol 19** when its translation is finished.
 
 ## 6. Change log
+- Nov 24 2026: **Vol 5 second pass done** (S0–S6: Kannada book from the supplied text, all supplied pages 2–708 read in 52 batches, 1 420 repairs applied, 205 questions in `vol5/review/second_pass/questions.tsv`, Wikisource coverage of the 152 Ṛks checked, 30 pictures listed). Bhāṣya English not made; 20 pages are not in the supplied text. See `vol5/STATUS.md`.
 - Nov 19 2026: supplied text of Vol 6 complete (p. 82 added as its own file; whole volume pp. 2–619).
 - Nov 19 2026: supplied text of Vol 5 complete (file 5, pp. 468–485, added; whole volume pp. 2–708).
 - Nov 19 2026: supplied text of Vol 5, file 7 (pp. 584–708) added; only pp. 468–485 are still missing.
