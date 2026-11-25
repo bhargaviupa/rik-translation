@@ -2,3 +2,4 @@
 |---|---|---|---|---|---|
 | 1 | p. 1-6 (one window; stopped at the [?] gate, fixed by `doubt_check: notes`) | sonnet | 7 | 107,699 | 2.0 |
 | 2 | through p. 24 (windows w0007, w0013, w0019) | sonnet | 27 | 159,700 | 4.5 |
+| 3 | through p. 42 (windows w0025, w0031, w0037) | sonnet | 14 | 161,680 | 3.1 |
