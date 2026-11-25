@@ -18,7 +18,7 @@ if '--windows' in sys.argv:
         body = [l for l in kn.split('\n') if l.strip() and not l.startswith('<!--') and not l.startswith('*[')]
         if not body or not body[0].startswith('>'): continue          # the window starts with a label: nothing to repair
         en = open(ep, encoding='utf8').read()
-        m = re.match(r'(### Printed p\. \d+\n)(?:#### Ṛk \d+(?: \(continued\))?\n)?(?:\*\*Saṃhitā-pāṭha\*\*\n)(\[\[b1\]\]\n)', en)
+        m = re.match(r'(### Printed p\. \d+\n)\n?(?:#### Ṛk \d+(?: \(continued\))?\n)?\n?(?:\*\*Saṃhitā-pāṭha\*\*\n)\n?(\[\[b1\]\]\n)', en)
         if m and (kn.count('*ಸಂಹಿತಾಪಾಠಃ*') or True):
             new = m.group(1) + m.group(2) + en[m.end():]
             log.append(os.path.basename(w))
@@ -26,7 +26,7 @@ if '--windows' in sys.argv:
 else:
     p = f'{ROOT}/vol{n}/Rigveda_Samhita_Vol{n}_English_Translation.md'
     t = open(p, encoding='utf8').read()
-    pat = re.compile(r'(#### Ṛk (\d+)(?: \(continued\))?\n\n##### ॥ संहितापाठः ॥ \(Saṃhitā-pāṭha\)\n\n(?:> [^\n]*\n)+)\n(### Printed p\. \d+\n)(?:#### Ṛk \2(?: \(continued\))?\n\n)+##### ॥ संहितापाठः ॥ \(Saṃhitā-pāṭha\)\n\n')
+    pat = re.compile(r'(#### Ṛk (\d+)(?: \(continued\))?\n\n##### ॥ संहितापाठः ॥ \(Saṃhitā-pāṭha\)\n\n(?:> [^\n]*\n)+)\n(### Printed p\. \d+\n)\n?(?:#### Ṛk \2(?: \(continued\))?\n\n)+##### ॥ संहितापाठः ॥ \(Saṃhitā-pāṭha\)\n\n')
     def rep(m): log.append(f'Ṛk {m.group(2)} at {m.group(3).strip()}'); return m.group(1) + '\n' + m.group(3) + '\n'
     t2 = pat.sub(rep, t)
     if write and t2 != t: open(p, 'w', encoding='utf8').write(t2)
