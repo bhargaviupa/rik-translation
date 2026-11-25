@@ -1132,6 +1132,221 @@ With these two Ṛks he praises Urvaśī. Urvaśī, falling like lightning (व�
 - भरंती (*bharaṃtī*)—brings; she; or else, या (*yā*)—the Urvaśī who, अप्या (*apyā*)—desired by me or needed by me, मे (*me*)—my, काम्यानि (*kāmyāni*)—
 **NOTE**
 
+### Printed p. 38
+
+##### Gist of the bhāṣya
+
+not applicable here; this page continues the previous Ṛk's Kannada material.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्युन्न (*vidyunna*)—like lightning
+- पतंती (*pataṃtī*)—descending from the heavenly world
+- दविद्योत् (*davidyot*)—shines
+- अपः (*apaḥ*)—engaged in work
+- नरः (*naraḥ*)—beneficial to men
+- सुजातः (*sujātaḥ*)—the son of excellent birth
+- जनिष्टो (*janiṣṭo*)—when he is born, then
+- उर्वशी (*urvaśī*)—Urvaśī
+- आयुः (*āyuḥ*)—my life
+- दीर्घं (*dīrghaṃ*)—long
+- प्रतीरत (*pratīrata*)—she increases
+
+(The preceding words, up to "…who fulfils my desires, that Urvaśī", stand on the previous page.)
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of Purūravas) The Urvaśī who brings me the desirable waters of the atmosphere, or who fulfils my desires, comes down like lightning and shines. A son, devoted to work, beneficial to men and of excellent birth, is born of her. Urvaśī lengthens my life.
+
+##### English translation
+(Urvashi) who shone like flashing lightning, bringing me the desirable dews (of heaven, has appeared); a son able in act and friendly to man has been born ; Urvashi has prolonged my lengthened existence.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Purūravas addresses Urvaśī alone and praises her. Although the six Apsaras women ran away as soon as they saw him, Urvaśī alone swooped down like lightning from the atmosphere to where he was, stayed with him and shone. She fulfils his desires. In her a good son, devoted to work and a benefactor of people, is born. In this Ṛk Purūravas expresses the assurance that this Urvaśī will grant him long life.
+
+For an example of a Ṛk using the word Urvaśī, Yāska gave an explanation of this Ṛk:
+विद्युदिव या पतंत्यद्योतत हरंती मे आप्या काम्यान्युदकान्यंतरिक्षलोकस्य यदा नूनमयं जायेताद्ध्योऽध्यप इति । नर्यो मनुष्यो नृभ्यो हितो नरापत्यमिति वा । सुजातः सुजाततरोऽथोर्वशी प्रवर्धयते दीर्घमायुः ॥ (*vidyudiva yā pataṃtyadyotata haraṃtī me āpyā kāmyānyudakānyaṃtarikṣalokasya yadā nūnamayaṃ jāyetāddhyo 'dhyapa iti | naryo manuṣyo nṛbhyo hito narāpatyamiti vā | sujātaḥ sujātataro 'thorvaśī pravardhayate dīrghamāyuḥ ‖*) (Ni. 11-36)
+
+### Printed p. 39
+The explanation (nirvacana) admits two kinds of meaning. One: Purūravas means the lightning and thunder in the atmosphere (puru = much, rava = sound); but here Purūravas is said to be the sound (of thunder) and Urvaśī the lightning. This lightning (Urvaśī), moving again and again in the cloud of the atmosphere, that is, flashing repeatedly, supplies the waters wanted by all in the atmospheric world (हरंती (*haraṃtī*)); rain pours from the cloud-mass accompanied by thunder and lightning. As the fruit of this rain a work beneficial to people, namely growth of plants (the wealth of food and the like), arises. May such an Urvaśī (the cloud with thunder and lightning) increase the life of people by giving food and so on.
+
+The other meaning is the historical view: this Apsaras woman Urvaśī came down from her own abode, the atmosphere (heaven), fulfilled the desires of me, Purūravas, stayed with me and shone. From me a son is born in her, devoted to good works, beneficial to people and of excellent birth. The intention is: may such an Urvaśī give me happiness and joy and long life, that I may live long.
+
+अपः (*apaḥ*) means waters or works.
+नर्यः (*naryaḥ*)—मनुष्यो नृभो हितो नरापत्यमिति वा ॥ (*manuṣyo nṛbho hito narāpatyamiti vā ‖*) नरः (*naraḥ*) means a man. नर्यः (*naryaḥ*) means one beneficial to men, or one born of a man.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒ज्ञि॒ष इ॒त्था गो॒पीथ्या॑य॒ हि द॒धाथ॒ तत्पु॑रूरवो म॒ ओजः॑ ।  
+> अशा॑सं त्वा वि॒दुषी॒ सस्मि॒न्नह॒न्न म॒ आशृ॑णोः॒ किम॒भुग्व॑दासि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जज्जिषे । इत्था । गोऽपीथ्याय । हि । दधाध । तत् । पुरूरवः । मे । ओजः ।  
+> अशासं । त्वा । विदुषी । सस्मिन् । अहन् । न । मे । आ । अश्रणोः । किं । अभुक् ।  
+> वदासि ॥ ११ ॥
+
+### Printed p. 40
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इत्थेत्थं गोपीथ्याय । गौः पृथिवी । पीथं पालनं ॥ स्वार्थिकस्तद्धितः ॥
+> भूरक्षणाय जज्ञिषे हि । जातोऽसि खलु पुत्ररूपेण । आत्मा वै पुत्रनामेति
+> श्रुतेः । पुनर्देव्याह । हे पुरूरवः मे मनोदरे मय्योजोऽपत्योत्पादनसामर्थ्य० दधाथ । मयि निहितवानसि । तत्तथास्तु । अथापि स्थातव्यमिति चेत् तत्राह
+> अहं विदुषी भावि कार्यं जानती सस्मिन्नहन् सर्वस्मन्नहनि त्वया कर्तव्यं त्वा
+> त्वामशासं । शिक्षितवत्यस्मि । त्वं मे मम वचनं नाशृणोः । न शृणोषि । किं
+> त्वमभुगभोक्तापालयिता प्रतिज्ञातार्थमपालयन्नदासि हये जाय इत्यादिकरूपं
+> प्रलापं ॥ वदेर्लेट्वयडागमः ! दिवसे त्रिवारं यभस्व एडकबालकमस्माकं पुत्रत्वेन
+> परिकल्पय अपत्योत्पादनपर्यंतं वसामि नग्नं त्वां यदाद्राक्षं तदा गच्छामित्येवंरूपो मिथःसमय उर्वशी हाप्सराः पुरूरवसमैळं चकमे तग्ं ह विंदमानोवाच त्रिः स्म माहो वैतसेन दंडेनेत्यादि वाजसनेयकमुदाहृतं ॥
+
+##### Gist of the bhāṣya
+
+इत्था (*itthā*) is "thus"; गोपीथ्याय (*gopīthyāya*): गौः (*gauḥ*) is the earth, पीथं (*pīthaṃ*) protection (a svārthika taddhita). "You have been born as a son to protect the earth," in accord with the śruti "the self is called son". Again the goddess speaks: "O Purūravas, you have placed in me, in my womb, the power of begetting offspring; so be it. If you ask whether I should still stay—" to that she says: "Knowing what is to come, I instructed you about what you must do on every day. You did not listen to my word. Why do you, a non-protector who has not kept your promise, speak words such as 'Ho wife, stay!'—mere prattle?" वदेर्लेट्वयडागमः (*vaderleṭvayaḍāgamaḥ*) (grammatical note). He then cites the Vājasaneyaka passage on the agreement: "Have intercourse three times a day; regard the ram-lamb as our son; I stay until offspring is born; when I see you naked, I shall go" — such was the mutual pact; "the Apsaras Urvaśī loved Purūravas Aiḷa; finding him, she said, 'Thrice you strike me with a cane of reed'", etc.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूरवः (*purūravaḥ*)—O Purūravas
+- इत्था (*itthā*)—in this way (as a son)
+- गोपीथ्याय (*gopīthyāya*)—for the protection of the earth
+- जज्जिषे हि (*jajjiṣe hi*)—you have been born
+- मे (*me*)—in my womb
+- तत् ओजः (*tat ojaḥ*)—that vigour in the form of a son
+- दधाध (*dadhādha*)—you have placed
+- विदुषी (*viduṣī*)—I, who know the future
+- सस्मिन्नहन् (*sasminnahan*)—on all days, what you must do
+- त्वा (*tvā*)—to you
+- अशासं (*aśāsaṃ*)—have told
+- त्वं (*tvaṃ*)—you
+- मे (*me*)—my word
+- न अशृणोः (*na aśṛṇoḥ*)—did not hear
+- अभुक् (*abhuk*)—having not kept my well-meant word
+- किं (*kiṃ*)—why
+- वदासि (*vadāsi*)—do you address me and speak?
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of Urvaśī) O Purūravas, you have been born thus, in the form of a son, to protect the earth. You have placed in my womb vigour in the form of a son. Knowing the future, I told you what you must do on all days. Yet you did not listen to my word. Having not kept my well-meant advice, why do you address me and speak?
+
+##### English translation
+(Urvashi :) You have been born thus to protect the earth; you have deposited this vigour in me; knowing (the future) I have instructed you
+
+### Printed p. 41
+what to do) every day; you have not listened to me; why do you now address me, neglectful (of my instruction)?
+
+##### विशेषविषयगळु (Special Topics)
+
+विदुषी सस्मिन्नहन् त्वा अशासं (*viduṣī sasminnahan tvā aśāsaṃ*)—अहं भाविकार्यं जानती सर्वस्मिन्नहनि त्वया कर्तव्यं त्वां शिक्षितवत्यस्मि । (*ahaṃ bhāvikāryaṃ jānatī sarvasminnahani tvayā kartavyaṃ tvāṃ śikṣitavatyasmi |*) Since I know what will happen in future, I told you many times before how you should behave towards me.
+
+मे न अशृणोः (*me na aśṛṇoḥ*)—मम वचनं न शृणोषि । (*mama vacanaṃ na śṛṇoṣi |*) You did not listen to my word. What was the word Urvaśī spoke to Purūravas here, and how did he not listen? — अपत्योत्पादनपर्यंतं वसामि । नग्नं त्वां यदाद्राक्षं तदा गच्छामात्येवंरूपो मिथःसमयः । (*apatyotpādanaparyaṃtaṃ vasāmi | nagnaṃ tvāṃ yadādrākṣaṃ tadā gacchāmātyevaṃrūpo mithaḥsamayaḥ |*) Earlier there was an agreement between Purūravas and Urvaśī, and according to it Urvaśī lived with Purūravas like his wife. Then Urvaśī had said at the time of the agreement: "O Purūravas, I shall live with you until a son is born to you in me; but if I get occasion to see you naked, I shall leave you at once and go." Referring to that, she here tells Purūravas that he did not listen to her word. On this matter the commentator cites the Śatapatha Brāhmaṇa passage उर्वशी ह्यप्सराः पुरूरवसवमैळं चकमे तग्ं ह विंदमानोवाच त्रिः स्म माहो वैतसेन दंडेन (*urvaśī hyapsarāḥ purūravasavamaiḷaṃ cakame tagṃ ha viṃdamānovāca triḥ sma māho vaitasena daṃḍena*) (Śa. Brā. 11-5-1), etc.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा सू॒नुः पि॒तरं॑ जा॒त इ॑च्छाच्च॒क्रन्नाश्रु॑ वर्तयद्विजा॒नन् ।  
+> को दंप॑ती॒ सम॑नसा॒ वि यू॑यो॒दध॒ यद॒ग्निः श्वशु॑रेषु॒  ॑
+> दीद॑यत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । सूनुः । पितरं । जातः । इच्छात् । चक्रन् । न । अश्रु । वर्तयत् । विजानन् ।  
+> कः । दंपती इति दंपती । समनसा । वि । यूयोत् । अध । यत् । अग्निः ।  
+> श्वशुरेषु । दीदयत् ॥ १२ ॥
+
+### Printed p. 42
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं पुरूरवसो वाक्यं । कदा कस्मिन्काले सूनुस्तवोदरजातः सन् पितरं
+> मामिच्छात् । इच्छेत् ॥ इषु इच्छायां । लेटि शपीषुगमियमां छ इति छादेशः ।
+> लेटोऽडाटावित्यडागमः ॥ कदा वा विजानन्वितरं मामधिगच्छंश्चक्रन् क्रंदमानो
+> नाश्रु वर्तयत् । नेति चार्थे । किंच कः किंविधः सन् सूनुः समनसा समनसौ
+> समनस्कौ दंपती जायापती त्वां मां च वि यूयोत् । विश्लेषयेत् ॥ यु
+> मिश्रणामिश्रणयोः । यौतेश्चांदसः शपः श्लुः । तुजादित्वादभ्यासस्य दीर्घः ॥
+> आधाधुनां यद्यदाग्निजव हृदयस्थितस्तेजोरूपो गर्भः श्वशुरेषु दीदयत्
+> दीप्यते । दीदयतिर्दिप्तिकर्मेति नैरुक्तो धातुः ॥
+
+##### Gist of the bhāṣya
+
+This is Purūravas' speech. "When will the son, born of your womb, desire me, his father? Or when, knowing me as father, will he cry and shed tears?" इच्छात् (*icchāt*) is from इषु इच्छायां (*iṣu icchāyāṃ*) in the Leṭ; न (*na*) is in the sense of "and". Further: "What kind of son will separate the two of us, husband and wife, of one mind?" यूयोत् (*yūyot*) means "would separate". यदग्निः (*yadagniḥ*): when the fire, the fiery embryo placed in your heart, shines among the parents-in-law. दीदयति (*dīdayati*) is, in the Nairukta, a root meaning shining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Urvaśī) कदा (*kadā*)—when
+- सूनुः (*sūnuḥ*)—the son born in your womb
+- पितरं (*pitaraṃ*)—me, his father
+- इच्छात् (*icchāt*)—will love
+- विजानन् (*vijānan*)—knowing that I am his father
+- चक्रन् (*cakran*)—crying out
+- न अश्रु वर्तयत् (*na aśru vartayat*)—will shed tears
+- आध (*ādha*)—in this situation
+- यत् (*yat*)—when
+- अग्निः (*agniḥ*)—the embryo in your heart, in the form of fire
+- श्वशुरेषु (*śvaśureṣu*)—among your husband's parents
+- दीदयत् (*dīdayat*)—shines, at that time
+- कः (*kaḥ*)—what kind of son
+- समनसा (*samanasā*)—of united minds
+- दंपती (*daṃpatī*)—husband and wife, me and you
+- वि यूयोत् (*vi yūyot*)—can separate?
+
+##### भावार्थ (Bhāvārtha)
+
+(Words of Purūravas) O Urvaśī, when will the son born in your womb love me, his father? When, knowing me as his father, will he cry out and shed tears? In this situation, when will the embryo in your heart, in the form of fire, shine among your husband's parents, that is, please the parents? What son can separate us, husband and wife of one mind?
+
+##### English translation
+(Pururavas:) When shall a son (born of you) claim me as a father, and, crying, shed a tear on recognizing (me)? What son shall sever husband and wife who are of one mind, now that the fire shines upon your husband's parents?
+
+### Printed p. 43
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॑ ब्रवाणि व॒र्तय॑ते॒ अश्रु॑ च॒क्रन्न क्रं॑ददा॒ध्ये॑ शि॒वाय्कॆ ॑।  
+> प्र तत्ते॑ हिनवा॒ यत्ते॑ अ॒स्मे परे॒ह्यस्तं॑ न॒हि मू॑र॒ मापः॑ ॥१३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । ब्रवाणि । वर्तयते । अश्रु । चक्रन् । न । क्रंदत् । आध्ये । शिवाय्कॆ ।  
+> प्र । तत् । ते । हिनव । यत् । ते । अस्मे इति । परा । इहि । अस्तं । नहि । मूर ।  
+> मा । आपः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमुर्वशीवाक्यं । हे पुरूरवः त्वां प्रति ब्रवाणि । प्रतिवच्चि । त्वदपत्यमश्रु
+> बाष्पं वर्तयते । वर्तयिष्यति । आध्य आध्याते वस्तुनि शिवाय्कॆ शिवे कल्याणे
+> समुपस्थिते सति चक्रन्द्रदन्नशूणि विमुंचन्न क्रंदत् । नकारश्चार्थे । रोत्सृति
+> चेत्यर्थः । तत्त्वदपत्यं ते तुभ्यं हिनव प्रहिणोमि यदपत्यं ते तव संबंध्यस्मे
+> अस्मासु निहितं । त्वं परेह्यस्तं । अस्तमिति गृहनाम । स्वगृहं प्रतिगच्छ । हे मूर
+> मूढ मा मां न ह्यापः । न प्राप्नोषि ॥ हिनवेत्यत्र हिनोतेश्चंदसि लुज्लज्लिट
+> इति भविष्यदर्थे लजि मिष आमादेशः । गुणः । अंत्यलोपश्चांदसः । बहुलवचनादडभावः । आपः । अप्ल व्याप्तौ । लिटि तिजां तिजो भवंतीति थलो णल् ॥
+
+##### Gist of the bhāṣya
+
+This is Urvaśī's speech. "O Purūravas, I shall answer you. Your offspring will shed tears; when the auspicious, desired moment arrives, he will cry, shedding tears." न (*na*) is in the sense of "and". "I send to you that offspring of yours which is placed in me. Go back to your own house (अस्तं (*astaṃ*) is a name for house). O fool, you do not reach me." Grammar notes on हिनव (*hinava*) and आपः (*āpaḥ*) follow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Purūravas) प्रति ब्रवाणि (*prati bravāṇi*)—I shall answer your question
+- (your son) अश्रु (*aśru*)—tears
+- वर्तयते (*vartayate*)—will shed
+- आध्यॆ (*ādhyè*)—desired
+- शिवाय्कॆ (*śivāykè*)—when that auspicious time arrives
+- चक्रन् (*cakran*)—shedding tears
+- न क्रंदत् (*na kraṃdat*)—he will weep
+- यत् ते (*yat te*)—which child of yours
+- अस्मे (*asme*)—is placed in me
+- तत् (*tat*)—that
+- ते (*te*)—to you
+- प्र हिनव (*pra hinava*)—I shall send
+- अस्तं (*astaṃ*)—to your house
+- परेहि (*parehi*)—go back
+- मूर (*mūra*)—O fool
+- मा (*mā*)—me
+- नहि आप्य (*nahi āpya*)—you cannot approach
+
 ---
 
-**Progress note:** Done through printed p. 37. pp. 32-37 (batch API)
+**Progress note:** Done through printed p. 43. pp. 38-43 (batch API)
