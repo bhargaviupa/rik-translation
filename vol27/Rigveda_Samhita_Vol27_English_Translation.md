@@ -2219,6 +2219,282 @@ This effused Soma adorable for battle, is filtered for Indra ; Soma thinks of th
 
 Thereafter Indra, in the exhilarations (मदेषु (*madeṣu*)) arisen from this very Soma, takes the bow (ग्राभं (*grābhaṃ*), that which is to be taken), to be shared in by all (सानसिं (*sānasiṃ*)). Moreover *apsujit* is the conqueror of Vṛtra for the sake of water. Or else: *āpaḥ* is a name of the atmosphere; he is the conqueror of the one named Ahi in the atmosphere. Indra bears the showerer, the rain-giver, and the thunderbolt.
 
+### Printed p. 49
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्येत् आ (*asyet ā*)—produced from the drinking of this Soma
+- मदेषु (*madeṣu*)—at the time of exhilaration
+- सानसिं (*sānasiṃ*)—worthy of worship by all
+- ग्राभं (*grābhaṃ*)—the bow
+- गृभ्नीत (*gṛbhnīta*)—takes hold of
+- अप्सुजित् (*apsujit*)—Indra, who conquered Vṛtra for the sake of the waters
+- वृषणं (*vṛṣaṇaṃ*)—granting desired ends
+- वज्रं च (*vajraṃ ca*)—and the thunderbolt weapon
+- सं भरत् (*saṃ bharat*)—may he hold
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of exhilaration produced by drinking this Soma, Indra takes hold of the bow, which is worthy of worship by all. May Indra, who conquered Vṛtra for the sake of the waters, also hold the thunderbolt weapon that grants desired ends.
+
+##### English translation
+In the Soma's exhilaration may Indra Seize hold of wealth to be enjoyed (by all) and conquering Vritra in the waters may he wield the thunderbolt the showerer (of blessings).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ध॑न्वा सोम॒ जागृ॑वि॒रिंद्रा॑येंदो॒ परि॑ स्रव ।  
+> द्यु॒मंतं॒ शुष्॒मा भ॑रा स्व॒र्विदं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । धन्व । सोम । जागृविः . इंद्राय । इंदो इति । परि । स्रव ।  
+> द्युमंतं . शुष्मं । आ : भर । स्वःविदं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम जागृविर्जागरणशीलत्वं प्र धन्व । प्रक्षर । हे इंदो सोम
+> इंद्राय परि स्रव । परितः पात्रेषु क्षर । किं च द्युमंतं दीप्तियुक्तं स्वर्विदं
+> सर्वस्य लंभकं शुष्मं शत्रूणां शोषकं बलमा भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are ever wakeful, flow forth. O Indu (Soma), stream around for Indra, flowing into the vessels on every side. Bring also the strength (शुष्मं (*śuṣmaṃ*)) that is radiant, that obtains everything (स्वर्विदं (*svarvidaṃ*)) and that dries up enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- जागृविः (*jāgṛviḥ*)—you who are always wakeful
+- प्र धन्व (*pra dhanva*)—flow forth
+- इंदोः (*iṃdoḥ*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—
+
+### Printed p. 50
+- flow
+- द्युमंतं (*dyumaṃtaṃ*)—radiant
+- स्वर्विदं (*svarvidaṃ*)—leading to heaven
+- शुष्मं (*śuṣmaṃ*)—and enemy-drying, the strength
+- आ भर (*ā bhara*)—supply to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are ever wakeful, flow forth. Stream for Indra's drinking. Supply us with strength that is radiant, leads to heaven and dries up enemies.
+
+##### English translation
+Flow Soma who are vigilant ; Indu, spread around for Indra ; bring brilliant overpowering all-obtaining (strength)-
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य॒ वृष॑णं॒ मदं॒ पव॑स्व वि॒श्वद॑र्शतः ।  
+> स॒हस्र॑यामा पथि॒कृद्वि॑चक्ष॒णः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । वृषणं । मदं । पवस्व । विश्वदर्शतः ।  
+> सहस्रयामा । पथिकृत् । विचक्षणः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वृषणं वर्षितारं मदं मदहेतुं रसमिंद्रायेंद्रार्थं
+> पवस्व । क्षर । कीदृशः । विश्वदर्शतः सर्वैर्दर्शनीयः सहस्रयामा बहुमार्गः
+> पथिकृद्यजमानानां सन्मार्गकरणशीलो विचक्षणः सर्वस्य विद्रष्टा ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow for Indra the showering (वृषणं (*vṛṣaṇaṃ*)) exhilarating juice, the cause of exhilaration. What kind are you? विश्वदर्शतः (*viśvadarśataḥ*): to be seen by all; सहस्रयामा (*sahasrayāmā*): having many paths; पथिकृत् (*pathikṛt*): by nature one who makes a good path for the sacrificers; विचक्षणः (*vicakṣaṇaḥ*): the seer of everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) विश्वदर्शतः (*viśvadarśataḥ*)—visible to all
+- सहस्रयामा (*sahasrayāmā*)—possessing many paths
+- पथिकृत् (*pathikṛt*)—maker of a good path for the sacrificers
+- विचक्षणः (*vicakṣaṇaḥ*)—of subtle vision; you, such as you are
+- वृषणं (*vṛṣaṇaṃ*)—granting desired ends
+- मदं (*madaṃ*)—producing joy; the juice
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- पवस्व (*pavasva*)—make flow
+
+### Printed p. 51
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are visible to all, have many paths, make a good path for the sacrificers and have subtle vision: cause the juice that grants desired ends and produces joy to flow for Indra's drinking.
+
+##### English translation
+Pour forth for Indra the exhilarating (juice) showering (benefits), you who are very beautiful, who have many paths, the finder of the (right) path, the observer (of all).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मभ्यं॑ गातु॒वित्त॑मो दे॒वेभ्यो॒ मधु॑मत्तमः ।  
+> स॒हस्रं॑ याहि प॒थिभिः॒ कनि॑क्रदत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यं । गातुवित् ऽतमः । देवेभ्यः । मधुमत् ऽतमः ।  
+> सहस्रं । याहि । पथिभिः । कनिक्रदत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अस्मभ्यं गातुवित्तमोऽत्यंतं मार्गस्य लंभकः तथा देवेभ्यश्च
+> मधुमत्तमोऽत्यंतंस्वादुकारीत्वं कनिक्रदच्छब्दं कुर्वन् सहस्रं पथिभिर्बहुभिर्मार्गैर्याहि । कलशमागच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are for us the best finder (गातुवित्तमः (*gātuvittamaḥ*)) of the way, and for the gods the sweetest (मधुमत्तमः (*madhumattamaḥ*)), the most delicious maker, crying aloud (कनिक्रदत् (*kanikradat*)), go by a thousand, that is many, paths. Come to the vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) अस्मभ्यं (*asmabhyaṃ*)—for us
+- गातुवित्तमः (*gātuvittamaḥ*)—the best guide of the way
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- मधुमत्तमः (*madhumattamaḥ*)—the most delicious; you such as you are
+- कनिक्रदत् (*kanikradat*)—making sound
+- सहस्रं पथिभिः (*sahasraṃ pathibhiḥ*)—by many paths
+- याहि (*yāhi*)—flow towards the vessel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are for all of us the best guide of the way and for the gods the most delicious, flow towards the vessel by many paths, making sound.
+
+### Printed p. 52
+
+##### English translation
+You who are the best finder of paths for us, the sweet beverage for the gods, come by a thousand paths crying aloud.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व दे॒वनी॑तय॒ इंदो॒ धारा॑भि॒रोज॑सा ।  
+> आ कलशं मधुमान्नोऽस्नेम नः सदः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । देव्वनीतये । इंदो इति । धाराभिः । ओजसा ।  
+> आ । कलशं । मधुमान् । सोम । नः । सदः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम देववीतये देवानां भक्षणायौजसा बलेन धाराभिरात्मीयाभिः पवस्व । क्षर । हे सोम मधुमान्मदकररसवांस्त्वं नोऽस्मदीयं
+> कलंश द्रोणाभिधानमा सदः ॥ सदेर्लुजि रूपं ॥ आसीद ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, flow with your own streams, with strength, for the feasting of the gods (देववीतये (*devavītaye*)). O Soma, you who are sweet, producing exhilaration, sit in our vessel named Droṇa. सदः (*sadaḥ*) is the form of the root सद (*sada*) with luk; the sense is "sit".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- देवनीतये (*devanītaye*)—for the drinking of the gods
+- ओजसा (*ojasā*)—together with your strength
+- धाराभिः (*dhārābhiḥ*)—in the form of streams
+- पवस्व (*pavasva*)—flow
+- सोम (*soma*)—O Soma
+- मधुमान् (*madhumān*)—you who are delicious
+- नः (*naḥ*)—our
+- कलशं (*kalaśaṃ*)—in the Droṇa vessel
+- आ सदः (*ā sadaḥ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, flow in streams, together with your strength, for the drinking of the gods. O Soma, you who are delicious, sit in our Droṇa vessel.
+
+##### English translation
+Flow, Indu, in your strength with your streams for the banquet of the gods; sit down, Soma, who are sweet-flavoured, in our pitcher.
+
+### Printed p. 53
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ द्र॒प्सा उ॑द॒पुत्॒र इंद्रं॒ मदा॑य वावृधुः ।  
+> त्वां दे॒वासो॑ अ॒मृता॑य॒ कं प॑पुः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । द्रप्साः । उदपुतः । इंद्रं । मदाय । ववृधुः ।  
+> त्वां । देवासः । अमृताय । कं । पपुः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदपुतो वसतीवर्याख्यमुदकं प्रति गच्छंतः । यद्वा । उदकस्य निर्गमयितारः । तव स्वभूता द्रप्सा द्रुतगामिनो रसा मदाय मदार्थमिंद्रं
+> वावृधुः । वर्धयंति । ततो देवासो देवा इंद्रादयः कं सुखकरं त्वाममृतायामरणार्थं पपुः । पिबंति ॥
+
+##### Gist of the bhāṣya
+
+उदपुतः (*udaputaḥ*): going towards the water called Vasatīvarī; or, those who cause water to come out. Your own quick-moving juices (द्रप्साः (*drapsāḥ*)) strengthen Indra for exhilaration. Then the gods, Indra and the rest, drink you, the giver of happiness, for the sake of immortality.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) उदपुतः (*udaputaḥ*)—flowing towards the Vasatīvarī waters and the like
+- तव (*tava*)—your
+- द्रप्साः (*drapsāḥ*)—juices
+- मदाय (*madāya*)—for the joy of Indra
+- इंद्रं (*iṃdraṃ*)—Indra
+- वावृधुः (*vāvṛdhuḥ*)—strengthen
+- देवासः (*devāsaḥ*)—the gods, Indra and others
+- कं (*kaṃ*)—the giver of happiness
+- त्वां (*tvāṃ*)—you
+- अमृताय (*amṛtāya*)—for freedom from death
+- पपुः (*papuḥ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your juices, flowing towards the Vasatīvarī waters and the like, strengthen Indra for his joy. The gods, Indra and others, drink you, the giver of happiness, for freedom from death.
+
+##### English translation
+Your drops, going to the water, have exalted Indra to exhilaration ; the gods have quaffed you, the deighter‘ for immortality,
+
+### Printed p. 54
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ सुतास इंदवः पुना॒ना धा॑वता र॒यिं ।  
+> वृ॒ष्टिद्या॑वो रीत्यापः स्व॒र्विदः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सुतासः । इंदवः । पुनानाः । धावत । रयिं ।  
+> वृष्टिऽद्यावः । रीतिऽपः । स्वःविदः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुतासोऽभिनूयमाणा हे इंदवो दीप्ताः पात्रेषु क्षरंतो ना हे
+> रीत्यापः यैः पृथिवीं प्रति स्रवणशीला आपः कृताः तादृशा हे सोमाः पुनानः
+> सूयमाना यूयं नोऽस्मभ्यं रयिमा धावत । आगमयत । कीदृशाः । वृष्टिद्यावो वृष्टिमभि द्यौर्यैः क्रियते वृष्ट्यभिमुखद्युलोकवंतः स्वर्विदः सर्वस्य
+> लंबकाः ॥
+
+##### Gist of the bhāṣya
+
+O Somas, pressed and praised, O bright ones, flowing into the vessels, O रीत्यापः (*rītyāpaḥ*), by whom the waters were made to flow towards the earth, O Somas being purified: bring wealth to us. What kind are you? वृष्टिद्यावः (*vṛṣṭidyāvaḥ*): those by whom heaven is made turned towards rain, having the heaven-world facing the rain; स्वर्विदः (*svarvidaḥ*): obtainers of everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतासः (*sutāsaḥ*)—pressed
+- इंदवः (*iṃdavaḥ*)—shining
+- रीत्यापः (*rītyāpaḥ*)—pouring rain on the earth; O Soma juices
+- पुनानाः (*punānāḥ*)—having attained purity
+- वृष्टिद्यावः (*vṛṣṭidyāvaḥ*)—filling the sky with rain
+- स्वर्विदः (*svarvidaḥ*)—causing all to be obtained; you
+- नः (*naḥ*)—to us
+- रयिं (*rayiṃ*)—wealth
+- आ धावत (*ā dhāvata*)—bring and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma juices, pressed, shining, pouring rain on the earth, purified, filling the sky with rain, causing all to be obtained: bring us wealth.
+
+##### English translation
+Bring us wealth, bright Soma juices effused, filtered, filling the sky with rain, shedding water (upon the earth), acquiring all things.
+
 ---
 
-**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
+**Progress note:** Done through printed p. 54. pp. 49-54 (batch API)
