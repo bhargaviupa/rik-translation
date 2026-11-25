@@ -24911,6 +24911,112 @@ From statements of this kind the following points are clearly understood.
 
 The above opinions stated by the scholar Muir have been approved by other scholars also. Zimmer, who approves the same, has given the opinion that for political reasons the caste system was made in a time much more recent than the Ṛk-saṃhitā. The need of a purohita for sacrifices and other rites also did not exist in earlier times. The Kṣatriya himself performed this work. Devāpi Ārṣṭiṣeṇa is the example of this (the explanation of the Nirukta-writers on the sūkta Ṛ. Saṃ. 10-98 makes this clear). There are also some scholars who argue in this way. But some English scholars themselves have refuted these opinions, saying that their arguments are not supported by proof. These have defended their argument by citing proofs that the sentences of the Ṛk-saṃhitā themselves state the system of the castes definitely.
 
+### Printed p. 915
+
+The opinions of the scholars who say that the sentences of the Ṛk-saṃhitā themselves state the system of the castes—(the opinions of Macdonell and Keith).
+
+The saying that, although there are words denoting varṇa such as ब्रह्म (*brahma*) and क्षत्र (*kṣatra*), they do not denote varṇa has no meaning. It is not right either to say that the word ब्रह्म (*brahma*) does not denote the Brāhmaṇa but means only the seer of a sūkta. The scholar Muir, who says so, himself admits, as he himself states, that this word denotes a group that holds an occupation received by hereditary succession. Moreover, in the Ṛk-saṃhitā itself, divisions that denote varṇa are clear in many places. For example—
+
+ब्रह्म जिन्वतमुत जिन्वतं धियो हतं रक्षांसि सेधतममीवाः । सजोषसा उषसा सूर्येण च सोमं सुन्वतो अश्विना ॥ क्षत्रं जिन्वतमुत नृन्नतं रक्षांसि सेधतममीवाः । धेनूर्जिन्वतमुत जिन्वतं विशो हतं रक्षांसि सेधतममीवाः ॥ (*brahma jinvatamuta jinvataṃ dhiyo hataṃ rakṣāṃsi sedhatamamīvāḥ | sajoṣasā uṣasā sūryeṇa ca somaṃ sunvato aśvinā ‖ kṣatraṃ jinvatamuta nṛnnataṃ rakṣāṃsi sedhatamamīvāḥ | dhenūrjinvatamuta jinvataṃ viśo hataṃ rakṣāṃsi sedhatamamīvāḥ ‖*) (Ṛ. Saṃ. 8-35-16, 12, 18)
+
+In these Ṛks there are words that denote the varṇas Brāhmaṇa, Kṣatriya and Vaiśya. In the prayer "O Aśvin deities, satisfy the Brāhmaṇas, satisfy the Kṣatriya and satisfy the Vaiśya" the three varṇas are clearly mentioned.
+
+"The Kshatriyas were no doubt a hereditary body; monarchy was already heredititary and it is admitted that Sudras were a separate body. Thus all the elemets of the caste system were already in existence "
+
+(Vedic Index of Names and subjects by Macdonell and Keith. Vol. II. p. 251)
+
+Continuing this same argument, Macdonell and Keith state the following in order to establish that the materials of the system of the castes are clearly seen in the Ṛk-saṃhitā also. Their opinion is stated in summary.
+
+From the example of Devāpi, it is understood that priesthood is not only the occupation of the Brāhmaṇa and that the Kṣatriya also is fit for that work; therefore the argument of Muir and other scholars that one cannot say that this occupation belongs to this varṇa is also not sound. All these show only certain special circumstances; the example of Devāpi does not indicate the absence of the system of the castes. There are still many more examples of the same kind,
+
+### Printed p. 916
+
+but all of them belong to the time of the caste system. As Muir and others admit, in the period of the Upaniṣads the complete system of the varṇas was established. There are many examples that in that period Kṣatriyas gave instruction in the truth of the Self. Instruction in the truth is the occupation of the Brāhmaṇa; one has to ask how the Kṣatriyas did it. That is, all these are special circumstances.
+
+Moreover, there is no complete basis either for saying that Devāpi, who took up the priesthood, was a king's son. These scholars maintain that it is not right to deny the general rule by one or two examples of this kind. Moreover, the divisions Brāhmaṇa, Kṣatriya and viś (the subjects) are clear in many places in the Ṛk-saṃhitā. For example—
+
+स इत् क्षेति सुधित ओकसि स्वे तस्मा इळा पिन्नते विश्वदानीं । तस्मै विशः स्वयमेवा नमंते यस्मिन् ब्रह्मा राजनि पूर्व एति ॥ (*sa it kṣeti sudhita okasi sve tasmā iḷā pinnate viśvadānīṃ | tasmai viśaḥ svayamevā namaṃte yasmin brahmā rājani pūrva eti ‖*) (Ṛ. Saṃ. 4-50-8)
+
+In whose kingdom the Brāhmaṇa who teaches the truth of Brahman is honoured, to that king all the subjects pay homage: thus the division into the respective groups is clearly stated. Moreover, the words पंचजनाः (*paṃcajanāḥ*), पंचक्षितयः (*paṃcakṣitayaḥ*), पंचचर्षण्यः (*paṃcacarṣaṇyaḥ*) and the like also denote these divisions clearly. Although in some places the sense of groups such as gods and men is given to these words, in many contexts Yāska and Sāyaṇa have stated exactly that they mean the people of the four varṇas together with the fifth. By examining some examples which show that the word ब्रह्म (*brahma*) denotes the Brāhmaṇa group itself and, in the same way, that the word क्षत्रिय (*kṣatriya*) must denote the king who rules the kingdom, it becomes plain that there is no room for the opinion of Muir and others. For example—
+
+(1) यदिंद्राग्नी मदथः स्वे दुरोणे यद्ब्रह्मणि राजनि वा यजत्रा । (*yadiṃdrāgnī madathaḥ sve duroṇe yadbrahmaṇi rājani vā yajatrā |*) (Ṛ. Saṃ. 1-108-7)
+
+O revered Indra and Agni, may you enjoy delight, whether in your own house, or in the house of a Brāhmaṇa, or in the house of a king.
+
+(2) प्र ब्रह्माणो अंगिरसो नक्षंत प्रक्रंदनुर्नभन्यस्य वेतु । (*pra brahmāṇo aṃgiraso nakṣaṃta prakraṃdanurnabhanyasya vetu |*) (Ṛ. Saṃ. 7.42-1)
+
+May the Brāhmaṇa Aṅgirases come here and pervade our sacrificial house. May Parjanya desire our praises.
+
+### Printed p. 917
+
+(3) न नूनं ब्रह्मणामृणं प्राशूनामस्ति सुन्वतां (*na nūnaṃ brahmaṇāmṛṇaṃ prāśūnāmasti sunvatāṃ*) (Ṛ. Saṃ. 8.22-16)
+
+The Brāhmaṇas who press the soma have no debt to any god. Many sentences of this kind show the personal position of the Brāhmaṇa. And—
+
+(1) मम द्विता राष्ट्रं क्षत्रियस्य विश्वायोर्विश्वे अमृता यथा नः । (*mama dvitā rāṣṭraṃ kṣatriyasya viśvāyorviśve amṛtā yathā naḥ |*) (Ṛ. Saṃ. 4.42-1)
+
+The kingdom is under the control of me, the Kṣatriya, and is subject to my governance.
+
+(2) आ राजाना मह ऋतस्य गोपा सिंधुपती क्षत्रिया यातमर्वाक् । (*ā rājānā maha ṛtasya gopā siṃdhupatī kṣatriyā yātamarvāk |*) (Ṛ. Saṃ. 7-64-2)
+
+O kings (Mitra and Varuṇa), guardians of Ṛta, lords of the rivers, Kṣatriyas, be pleased to come here.
+
+(3) ऋतावाना नि षेदतुः साम्राज्याय सुकृतू । धृतव्रता क्षत्रिया क्षत्रमाशतुः ॥ (*ṛtāvānā ni ṣedatuḥ sāmrājyāya sukṛtū | dhṛtavratā kṣatriyā kṣatramāśatuḥ ‖*) (Ṛ. Saṃ. 8.24.8)
+
+The Kṣatriyas (Mitra and Varuṇa), guardians of Ṛta (truthful), of excellent deeds, firm in their vows, are seated to obtain the rank of universal sovereignty. And they also attain the power of the Kṣatriya.
+
+(4) न दूताय प्रह्य तस्थ एषा तथा राष्ट्रं गुपितं क्षत्रियस्य । (*na dūtāya prahya tastha eṣā tathā rāṣṭraṃ gupitaṃ kṣatriyasya |*) (Ṛ. Saṃ. 10-109.3)
+
+In the same way the kingdom of the Kṣatriya also is well protected. And so on. Apart from the Ṛk-saṃhitā, the order of the system of the castes as described by the other Saṃhitās and Brāhmaṇas—
+
+From the examples above it can be said with certainty that the system of the castes was established exactly in the time of the Ṛk-saṃhitā: this is the opinion of Macdonell and Keith. They have stated it in this way.
+
+" The relation between the later and earlier periods of the Vedic history of caste must probably be regarded in the main as the hardening of a system already formed by the time of Rigveda.
+
+(Index. Vol. II. p. 252)
+
+### Printed p. 918
+
+In the same way the division of the varṇas is stated exactly in the sentences of the other Saṃhitās and Brāhmaṇas also. Moreover, these sentences also say that these varṇas were created at the very time of the creation of the world, as the fruit of Prajāpati's resolve. For example—
+
+भूरिति वै प्रजापतिः । इमामजनयत भुव इत्यंतरिक्षग्ं स्वरिति दिवमेतावद्वा इदग्ं सर्वं यावदिमे लोकाः सर्वेणैवाधियते ॥ (*bhūriti vai prajāpatiḥ | imāmajanayata bhuva ityaṃtarikṣagṃ svariti divametāvadvā idagṃ sarvaṃ yāvadime lokāḥ sarveṇaivādhiyate ‖*)
+
+भूरिति वै प्रजापतिः । ब्रह्माजनयत भुव इति क्षत्रग्ं स्वरिति विशमेतावद्वा इदग्ं सर्वं यावद्ब्रह्म क्षत्रं सर्वेणैवाधियते ॥ (*bhūriti vai prajāpatiḥ | brahmājanayata bhuva iti kṣatragṃ svariti viśametāvadvā idagṃ sarvaṃ yāvadbrahma kṣatraṃ sarveṇaivādhiyate ‖*) (Śa. Brā. 2-1-4-11, 12)
+
+Prajāpati uttered भूः (*bhūḥ*). From that the earth was produced. By saying भुवः (*bhuvaḥ*) the middle region, and by saying स्वः (*svaḥ*) the heaven, were produced. The whole universe is contained in these. Then by saying भूः (*bhūḥ*) he produced the Brāhmaṇa, by saying भुवः (*bhuvaḥ*) the Kṣatriya, and by saying स्वः (*svaḥ*) the Vaiśya. Thus the origin of the creation of the varṇas is also described, as the whole universe is pervaded by these three powers. After citing some more sentences that tell the order of the origin of the varṇas in the same way, some contexts that tell the mutual relations of these varṇas will be set out. In a sentence of the Vājasaneya Saṃhitā it is said in this way.
+
+एकयास्तुवत प्रजा अधीयंत प्रजापतिरधिपतिरासीत् । तिसृभिरस्तुवत ब्रह्मासृज्यत ब्रह्मणस्पतिरधिपतिरासीत् । .... .... .... पंचदशभिरस्तुवत क्षत्रमसृज्यतेंद्रोऽधिपतिरासीत् .... .... नवदशभिरस्तुवत शूद्रार्यावसृज्येतामहोरात्रे अधिपत्नी आस्तां । (*ekayāstuvata prajā adhīyaṃta prajāpatiradhipatirāsīt | tisṛbhirastuvata brahmāsṛjyata brahmaṇaspatiradhipatirāsīt | .... .... .... paṃcadaśabhirastuvata kṣatramasṛjyateṃdro 'dhipatirāsīt .... .... navadaśabhirastuvata śūdrāryāvasṛjyetāmahorātre adhipatnī āstāṃ |*) (Vā. Saṃ. 14-78)
+
+Prajāpati praised himself with one mantra. All beings were produced. When he praised himself with three mantras the Brāhmaṇa was produced. When he praised himself with fifteen mantras the Kṣatriya was produced. Indra became their lord. When he praised himself with nineteen mantras the Śūdras and the Āryas (the Vaiśyas) were produced. Day and night became their rulers.
+
+In the Taittirīya Brāhmaṇa—
+
+सर्वग्ं हेदं ब्रह्मणा हैव सृष्टं । ऋज्यो जातं वैश्यं वर्णमाहुः । यजुर्वेदं क्षत्रियस्याहुर्योनिं । सामवेदो ब्राह्मणानां प्रसूतिः । पूर्वे पूर्वेभ्यो वच एतदूचुः ॥ (*sarvagṃ hedaṃ brahmaṇā haiva sṛṣṭaṃ | ṛjyo jātaṃ vaiśyaṃ varṇamāhuḥ | yajurvedaṃ kṣatriyasyāhuryoniṃ | sāmavedo brāhmaṇānāṃ prasūtiḥ | pūrve pūrvebhyo vaca etadūcuḥ ‖*) (Tai. Brā. 3-12-9.2)
+
+### Printed p. 919
+
+The whole universe has been created by Brahman himself. The wise say that from the Ṛk mantras the Vaiśya varṇa, from the Yajus mantras the Kṣatriya varṇa, and from the Sāmaveda the Brāhmaṇa varṇa was produced. The ancient seers taught this truth to their ancient disciples, and so on.
+
+The words that denote the varṇas so clearly are not always of the same form. In some places there is also a slight difference. For example, the division Brāhmaṇa, Rājanya, Vaiśya, Śūdra occurs in some places, and the divisions Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra in some places. (The purport is that Rājanya and Kṣatriya are synonyms.) That the word Ārya is also used for the Vaiśyas is understood from the sentence of the Vājasaneya Saṃhitā cited above.
+
+Since all the varṇas have been created by Prajāpati himself, and since Prajāpati pervades everywhere and is the inner controller of all, and since everything is a part of Prajāpati himself, a further question naturally arises: how is the distinction possible that one varṇa is higher and another lower? Before giving the answer to this question, it is necessary to cite some sentences that show the higher and lower positions of the varṇas in relation to one another and to examine what their real purport is. Only a few examples can be examined.
+
+तानि वा एतानि । चत्वारि वाच एहीति ब्राह्मणस्यागह्याद्रवेति वैश्यस्य च राजन्यबंधोश्चाधावेति शूद्रस्य स यदेव ब्राह्मणस्य तडाहैतद्धि यज्ञियतममेतदु ह वै वाचः शांततमं यदेहीति तस्मादेहीत्येव ब्रूयात् । (*tāni vā etāni | catvāri vāca ehīti brāhmaṇasyāgahyādraveti vaiśyasya ca rājanyabaṃdhoścādhāveti śūdrasya sa yadeva brāhmaṇasya taḍāhaitaddhi yajñiyatamametadu ha vai vācaḥ śāṃtatamaṃ yadehīti tasmādehītyeva brūyāt |*) (Śa. Brā. 1-1-4-12)
+
+When one addresses someone and calls him near, there are four ways. One should call the Brāhmaṇa by addressing him with एहि (*ehi*). One should call the Vaiśya and the Kṣatriya by addressing them with आ गहि (*ā gahi*), आ द्रव (*ā drava*). For the Śūdra one should use आ धाव (*ā dhāva*). एहि (*ehi*) is a word of calling with courtesy, meaning "please come". आ गहि (*ā gahi*) means "approach me", that is, the command "come near here". आ द्रव (*ā drava*) is also a command: "come quickly and approach". अ धाव (*a dhāva*), "run here", is likewise a word in the form of a command that is used in the case of the Śūdra.
+
+### Printed p. 920
+
+Since the Brāhmaṇa among these is worthy of honour, the use of the word एहि (*ehi*), which indicates courtesy, is proper in his case: in this way the difference of rank and standing is told. In the same way this kind of difference is stated in some other places. For example,
+
+स वै न सर्वेणेव संवदेत । देवान्वा एष उपावर्तते यो दीक्षते स देवतानामेको भवति न वै देवाः सर्वेणेव संवदंते ब्राह्मणेन वैव राजन्येन वा वैश्येन वा ते हि यज्ञियास्तस्माद्यद्येनग्ं शूद्रेण संवादो विंदेदेतेषामेवैकं ब्रूयादिममिति विचक्षेममिति .... .... तत्र दीक्षितस्योपचारः ॥ (*sa vai na sarveṇeva saṃvadeta | devānvā eṣa upāvartate yo dīkṣate sa devatānāmeko bhavati na vai devāḥ sarveṇeva saṃvadaṃte brāhmaṇena vaiva rājanyena vā vaiśyena vā te hi yajñiyāstasmādyadyenagṃ śūdreṇa saṃvādo viṃdedeteṣāmevaikaṃ brūyādimamiti vicakṣemamiti .... .... tatra dīkṣitasyopacāraḥ ‖*) (Śa. Brā. 3-1-1-10)
+
+One who has been consecrated for the sacrifice is equal to the gods. Therefore he must not speak with those who are of lower standing, with anyone. The gods do not deal with anyone except the three groups, Brāhmaṇa, Rājanya and Vaiśya. Because only these have the right to perform sacrifice, they deal with these. If the occasion arises to speak with a Śūdra, then he must be told through others, "Tell him to do this; tell him to do that." This is the rule stated in the case of the consecrated person. He must observe it. In this way a low estimate of the Śūdra is expressed. In some other places the idea that the two castes Vaiśya and Śūdra are inferior is indicated. For example—
+
+तद्यदितो यतां । अश्वः प्रथम एति तस्मात् क्षत्रियं प्रथमं यंतमितरे त्रयो वर्णाः पश्चादनुयंत्यथ यदमुत आयतामजः प्रथम एति तस्माद्ब्राह्मणं यंतमि तरे त्रयो वर्णाः पश्चादनु यंत्यथ यन्नैवेतो यतां नामुतो रासभः प्रथम एति तस्मान्न कदाचन ब्राह्मणश्च क्षत्रियश्च वैश्यं च शूद्रं च पश्चादन्वितस्तस्मादेवं यंत्यपापवस्यसायाथो ब्रह्मणा चैवैतत्क्षत्रेण चैतौ वर्णावभितः परिगृह्नीतेऽनपक्रमिणौ कुरुते ॥ (*tadyadito yatāṃ | aśvaḥ prathama eti tasmāt kṣatriyaṃ prathamaṃ yaṃtamitare trayo varṇāḥ paścādanuyaṃtyatha yadamuta āyatāmajaḥ prathama eti tasmādbrāhmaṇaṃ yaṃtami tare trayo varṇāḥ paścādanu yaṃtyatha yannaiveto yatāṃ nāmuto rāsabhaḥ prathama eti tasmānna kadācana brāhmaṇaśca kṣatriyaśca vaiśyaṃ ca śūdraṃ ca paścādanvitastasmādevaṃ yaṃtyapāpavasyasāyātho brahmaṇā caivaitatkṣatreṇa caitau varṇāvabhitaḥ parigṛhnīte 'napakramiṇau kurute ‖*) (Śa. Brā. 6-4-4-13)
+
+Among the animals that go forth from this Āhavanīya fire the horse is first. Then the rāsabha (donkey). Then the male goat (aja). Of these, the horse represents the Kṣatriya, the rāsabha (donkey) the Vaiśya and the Śūdra, and the male goat (aja) the Brāhmaṇa. Since among the animals that move forward from the Āhavanīya fire the horse goes forth first, the Kṣatriya goes forth first and the other three groups must follow him. When returning from there
+
 ---
 
-**Progress note:** Done through printed p. 914. pp. 909-914: Ṛk 12 (varṇa), Taittirīya parallels, views on Puruṣa-sūkta
+**Progress note:** Done through printed p. 920. pp. 915-920: Macdonell and Keith on varṇa, Ṛk and Brāhmaṇa evidence
