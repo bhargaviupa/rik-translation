@@ -24,6 +24,9 @@ Done through printed p. 733 (windows 1–120 of 163; one API batch of 120 window
 ## Repairs (in `review/repair_log.md`)
 10 windows stopped or failed after the commit: page mark of p. 148 (garbled head), a page heading glued into another heading (w0326), remarks (w0338, w0593), a wrongly numbered quoted verse (w0363), a glued word-list entry (w0393), garbled Pada labels (w0495, w0644), an inline quotation off from kn.md (w0611), a chapter-level `## Special Topics` heading (w0320), a second line of a Saṃhitā with its own headings (w0399).
 
+## Second batch (Nov 25 2026)
+The user's API balance showed $0.80: ONE more batch of 10 windows (pp. 734–794, 243,154 input tokens, expected $0.62) submitted; `collect 27` after it ends. Then 33 windows (pp. 795–992, about $1.9) remain.
+
 ## Not done: the last 43 windows (printed pp. 734–992, Maṇḍala 10 Sūktas 27–40 and the colophon)
 They need about $2.4 more (the plan above: 163 windows). When the user has the budget: `python3 tools/rv/api_batch.py plan 27 --windows 50` (free), show the estimate, `submit 27`, then the dry-run sweep and `collect 27`. The supplied text is complete (the colophon stands on p. 992).
 
