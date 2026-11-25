@@ -22246,6 +22246,131 @@ Those who lead a pure life in the forest, practising austerity, meditating on th
 
 अथ हैनं गार्गि वाचक्कवी पप्रच्छ याज्ञवल्कॆति होवाच यदिदं सर्वमप्सीतं च प्रोतं च कस्मिन्नु खल्वाप ओतश्च प्रोतश्चेति वायौ गार्गीति कस्मिन्नु खलु वायुरोतश्चेत्यंतरिक्षलोकेषु गार्गीति कस्मिन्नु खल्वंतरिक्षलोका ओताश्च प्रोताश्वेति गंधर्वलोकेषु गार्गीति कस्मिन्नु खलु गंधर्वलोका ओताश्च प्रोताश्वेत्यादित्यलोकेषु गार्गीति कस्मिन्नु खल्वादित्यलोका ओताश्च प्रोताश्वेति चंद्रलोकेषु गार्गीति कस्मिन्नु खलु चंद्रलोका ओताश्च प्रोताश्वेति नक्षत्रलोकेषु गार्गीति कस्मिन्नु खलु (*atha hainaṃ gārgi vācakkavī papraccha yājñavalkèti hovāca yadidaṃ sarvamapsītaṃ ca protaṃ ca kasminnu khalvāpa otaśca protaśceti vāyau gārgīti kasminnu khalu vāyurotaścetyaṃtarikṣalokeṣu gārgīti kasminnu khalvaṃtarikṣalokā otāśca protāśveti gaṃdharvalokeṣu gārgīti kasminnu khalu gaṃdharvalokā otāśca protāśvetyādityalokeṣu gārgīti kasminnu khalvādityalokā otāśca protāśveti caṃdralokeṣu gārgīti kasminnu khalu caṃdralokā otāśca protāśveti nakṣatralokeṣu gārgīti kasminnu khalu*)
 
+### Printed p. 790
+
+देवलोका ओताश्च प्रोताश्चेति इंद्रलोकेषु गार्गिति कस्मिन्नु खल्विंद्रलोका ओताश्च प्रोताश्चेति प्रजापतिलोकेषु गार्गिति कस्मिन्नु खलु प्रजापतिलोका ओताश्च प्रोताश्चेति ब्रह्मलोकेषु गार्गिति कस्मिन्नु खलु ब्रह्मलोका ओताश प्रोताश्चेति स होवाच गार्गि मातिप्राक्षीर्मा ते मूर्धा व्यपप्तदनतिप्रश्न्यां वै देवतामति पृच्छसि गार्गि मातिप्राक्षीरिति ततो ह गार्गि वाचक्कव्युपरराम ॥ (*devalokā otāśca protāśceti iṃdralokeṣu gārgiti kasminnu khalviṃdralokā otāśca protāśceti prajāpatilokeṣu gārgiti kasminnu khalu prajāpatilokā otāśca protāśceti brahmalokeṣu gārgiti kasminnu khalu brahmalokā otāśa protāśceti sa hovāca gārgi mātiprākṣīrmā te mūrdhā vyapaptadanatipraśnyāṃ vai devatāmati pṛcchasi gārgi mātiprākṣīriti tato ha gārgi vācakkavyupararāma ‖*)
+
+In the conversation between Gārgī and Yājñavalkya, the difference between the lower worlds and the higher world is stated. It is understood that the lower worlds are fit to be described, while the higher world is beyond description and endless. The conversation runs thus:
+
+Gārgī asks: "O Yājñavalkya, everything is woven into water like warp and woof, is it not? In what principle is water woven like warp and woof? Tell me." In answer Yājñavalkya said: "In the wind." When she asked in the same way about the wind, he answered:
+
+- the wind is woven in the worlds of the atmosphere;
+- the worlds of the atmosphere, in the worlds of the Gandharvas;
+- the worlds of the Gandharvas, in the worlds of the Sun;
+- the worlds of the Sun, in the worlds of the Moon;
+- the worlds of the Moon, in the worlds of the stars;
+- the worlds of the stars, in the worlds of the gods;
+- the worlds of the gods, in the worlds of Indra;
+- the worlds of Indra, in the worlds of Prajāpati.
+
+Yājñavalkya went on giving the answer to each question that they are woven in as warp and woof. But to the question in what the world of Brahman is united, Yājñavalkya gave no answer and only expressed his displeasure. He rebuked her, saying that if she went on discussing the world of Brahman her head would burst. The matter of Parabrahman is beyond description by speech; therefore the higher world of Parabrahman too is beyond description. In this way he teaches that the higher world cannot be described. It is this higher world that is designated by the sentence त्रिपादूर्भ्व उद्वैत्पुरुषः (*tripādūrbhva udvaitpuruṣaḥ*). In the Upaniṣads generally the description of the three worlds is the more frequent. The threefold division of भूः (*bhūḥ*), भुवः (*bhuvaḥ*) and सुवः (*suvaḥ*) alone is specified on many occasions.
+
+### Printed p. 791
+
+Bhā. U. 1-3-7; 2-21-1; 3-15-5; Bṛ. U. 1-2-3; 1-5-4; 3-9-8; Praśna. 5-7, and so on. **NOTE** The creation and order of these worlds is stated in the Aitareya Upaniṣad as follows.
+
+आत्मा ना इदमेक एवाग्र असीन्नान्यत्किंचन मिषत्; स ईक्षत लोकान्नु सृजा इति । स निमांल्लोकानसृजत अंभो मरीचीर्मरमापोऽम्भः परेण दिवं द्यौः प्रतिष्ठांतरिक्षं मरीचयः । पृथिवी मरो या अधस्तात्ता आपः ॥ (*ātmā nā idameka evāgra asīnnānyatkiṃcana miṣat; sa īkṣata lokānnu sṛjā iti | sa nimāṃllokānasṛjata aṃbho marīcīrmaramāpo 'mbhaḥ pareṇa divaṃ dyauḥ pratiṣṭhāṃtarikṣaṃ marīcayaḥ | pṛthivī maro yā adhastāttā āpaḥ ‖*)
+
+(I. U. 1-1-2) **NOTE**
+
+Before creation there was only the Self. There was no second thing. Then the Self had the desire to create the world. Then he produced the worlds called अंभः (*aṃbhaḥ*), मरं (*maraṃ*), मरीची (*marīcī*) and आपः (*āpaḥ*). The world called अंभः (*aṃbhaḥ*) is beyond the heavenly world; the heavenly world is its support. मरीची (*marīcī*) is the region of the atmosphere. The earth got the name मर (*mara*). The region below the earth got the name आपः (*āpaḥ*). The principle that shows harmony among all these worlds and establishes mutual relation among them is the imperishable, अक्षर (*akṣara*), as the Bṛhadāraṇyaka states. (Bṛ. U. 3-8 3-7) The Taittirīya states the number of these worlds as four. Just as in the Bṛhadāraṇyaka **NOTE** it is said that all these worlds are woven in space, so it is stated in the Taittirīya Upaniṣad also. But there the names of the worlds are different.
+
+भूर्भुवःसुवरिति वा एतास्ति स्रो व्याहृतयः । तासामुह स्मृतां चतुर्थीं । माहाचमस्यः प्रवेदयते । मह इति । तद्ब्रह्म । स आत्मा । अंगान्यन्या देवताः । भूरिति वा अयं लोकः । भुव इत्यंतरिक्षं । सुवरित्यसौ लोकः । मह इत्यादित्यः । आदित्मेन वाव सर्वॆ लोका महीयंते । (*bhūrbhuvaḥsuvariti vā etāsti sro vyāhṛtayaḥ | tāsāmuha smṛtāṃ caturthīṃ | māhācamasyaḥ pravedayate | maha iti | tadbrahma | sa ātmā | aṃgānyanyā devatāḥ | bhūriti vā ayaṃ lokaḥ | bhuva ityaṃtarikṣaṃ | suvarityasau lokaḥ | maha ityādityaḥ | āditmena vāva sarvè lokā mahīyaṃte |*)
+
+(Tai. U. 1-5)
+
+The vyāhṛtis भूः (*bhūḥ*), भुवः (*bhuvaḥ*) and सुवः (*suvaḥ*) reflect the three worlds. भूः (*bhūḥ*) indicates the earth, भुवः (*bhuvaḥ*) the atmosphere, and सुवः (*suvaḥ*) the heavenly world. महः (*mahaḥ*) is the representative of the world of the Āditya. Here the world of the Āditya has a special meaning. Ordinarily the heavenly world is itself well known as the world of the Āditya. Since the world of the Āditya is mentioned here again along with the heavenly world, it means an Āditya world that is beyond the worlds of Agni, Vāyu and Āditya. The nature of the Āditya is of two kinds. One is the orb of the sun, which is not perceptible to ordinary perception; the other is the golden Puruṣa within the Āditya.
+
+### Printed p. 792
+
+आदित्यो ना ब्रह्मेत्यादेशः । स एतमेवं विद्वानादित्यं ब्रह्मेश्युपास्ते । (*ādityo nā brahmetyādeśaḥ | sa etamevaṃ vidvānādityaṃ brahmeśyupāste |*)
+
+(Bhā. U. 3-19-1 and 4) **NOTE**
+
+The Supreme Puruṣa who dwells within the outer orb of the Āditya is Brahman. It is taught that one should worship, "The Āditya is this Parabrahman." Therefore the world of Mahas is reckoned as this Brahman world, in the fourth place. What has been described in this very Ṛk Saṃhitā by the qualification गुह्य (*guhya*) has been stated earlier. This world of Mahas has a nature better than the three worlds beginning with भूः (*bhūḥ*). The Taittirīya describes thus the three worlds that are perceptible to ordinary perception, the fourth, Brahman, and the deities who are their lords. Here an identity is shown between the outer worlds and the space within the heart.
+
+स य एषोंत्यर्हृदय आकाशः । तस्मिन्नयं पुरुषो मनोमयः । अमृतो हिरण्मयः । अंतरेण तालुके । य एषस्तन इवावलंबते । सेंद्रयोनिः । यत्रासौ केशांतो विवर्तते । व्यपोह्य शीर्षकपाले । भूरित्यग्ना प्रतितिष्ठति । भुव इति वायौ । सुवरित्यादित्ये । मह इति ब्रह्मणि । आप्नोति स्वाराज्यं । आप्नोति मनसस्पतिं । वाक्प्रतिश्चक्षुष्पतिः । श्रोत्रपतिर्विज्ञानपतिः । एतत्ततो भवति । आकाशशरीरं ब्रह्म । सत्यात्मप्राणारामं मन आनंदं । शांतिसमृद्धममृतं । इति प्राचीनयोगोपास्त्व ॥ (*sa ya eṣoṃtyarhṛdaya ākāśaḥ | tasminnayaṃ puruṣo manomayaḥ | amṛto hiraṇmayaḥ | aṃtareṇa tāluke | ya eṣastana ivāvalaṃbate | seṃdrayoniḥ | yatrāsau keśāṃto vivartate | vyapohya śīrṣakapāle | bhūrityagnā pratitiṣṭhati | bhuva iti vāyau | suvarityāditye | maha iti brahmaṇi | āpnoti svārājyaṃ | āpnoti manasaspatiṃ | vākpratiścakṣuṣpatiḥ | śrotrapatirvijñānapatiḥ | etattato bhavati | ākāśaśarīraṃ brahma | satyātmaprāṇārāmaṃ mana ānaṃdaṃ | śāṃtisamṛddhamamṛtaṃ | iti prācīnayogopāstva ‖*)
+
+(Kṛ. U. 1-6) **NOTE**
+
+In the section above the outer worlds are divided and their lords described. In the example under discussion, the nature of the Supreme Brahman who dwells within the space of the heart, which is the representative of outer space, is described. Here the Puruṣa made of mind is established. He is golden. Through the vyāhṛti भूः (*bhūḥ*) he pervades Agni, with the help of भुवः (*bhuvaḥ*) the wind, and with the help of सुवः (*suvaḥ*) the Āditya; or he shines in those forms. The excellent vyāhṛti महः (*mahaḥ*) becomes the means of being established in Brahman, that is, of being placed in the form of Brahman. He becomes the lord of speech, eye, ear, mind and knowledge. Therefore one who worships this Brahman also becomes the lord of all the senses. And with the help of the vyāhṛtis he obtains the support of all the worlds. He himself attains the Brahman nature of the form of the Virāj. He becomes one whose body is space, whose self is truth, who delights in the life-breath, and whose mind is bliss. He obtains the fullness of Brahman's bliss. This is above worldly bliss. This blissful Brahman world is praised in some places as the world of Mahas and in other places as the world of Satya.
+
+### Printed p. 793
+
+This is what the sentence त्रिपादूर्ध्वमुदैत् (*tripādūrdhvamudait*) in the present context declares: so one kind of purport has been stated.
+
+यद्वा, त्रिपादित्यनेन उदर, हृदय, दहराणां तत ऊर्ध्वमुपरिधागे सहस्रारे पुरुष उदैत् । (*yadvā, tripādityanena udara, hṛdaya, daharāṇāṃ tata ūrdhvamuparidhāge sahasrāre puruṣa udait |*)
+
+Or it is understood that he shines in the Brahma-wheel of the nature of the sahasrāra, which is beyond these three places, the belly, the heart and the दहर (*dahara*): this too is one way. This is a description of the Supreme Self within the body of a man. The division of the body is explained in the Upaniṣads in one way in one place and another way in another. It is stated that the दहर (*dahara*) is the space-form in which the golden Puruṣa is established and that it is the place of that same Puruṣa. This order of division may be examined in the present context. The body of man is generally praised as the city, the dwelling place of Brahman. For example:
+
+पुरश्चक्रे द्विपदः पुरश्चक्रे चतुष्पदः । पुरः स पक्षी भूत्वा पुरः पुरुष आविशत् ॥ (*puraścakre dvipadaḥ puraścakre catuṣpadaḥ | puraḥ sa pakṣī bhūtvā puraḥ puruṣa āviśat ‖*)
+
+(Bṛ. U. 2-5-88) **NOTE**
+
+Brahman built a city (a fortress) with two feet. He built fortresses with four feet. Afterwards he took the form of a bird and entered this city in the form of the body. Because he thus entered the city, he is called पुरुष (*puruṣa*). In the Chāndogya Upaniṣad this दहर (*dahara*) city is praised in this way.
+
+आथ यदिदमस्मिन् ब्रह्मपुरे दहरं पुंडरीकं वेश्म दहरोऽस्मिन्नंतराकाशस्त स्मिन्यदंतस्तदन्नेष्टव्यं तद्वाव विजिज्ञासितव्यमिति । (*ātha yadidamasmin brahmapure daharaṃ puṃḍarīkaṃ veśma daharo 'sminnaṃtarākāśasta sminyadaṃtastadanneṣṭavyaṃ tadvāva vijijñāsitavyamiti |*)
+
+(Chā. U. 8-1-1)
+
+In this city of Brahman (the body of man) there is a subtle dwelling in the form of a lotus. In its middle is the space of the heart. The principle that dwells in that space of the heart is the supreme principle. To seek it and to realise it directly must be the aim of every person.
+
+तं चेद्ब्रूयुर्यदिदमस्मिन् ब्रह्मपुरे दहरं पुंडरीकं वेश्म दहरोS स्मिन्नंतराकाशः किं तदत्र विद्यते यदन्वेष्टव्यं यद्वाव विजिज्ञासितव्यमिति स ब्रूयात् । (*taṃ cedbrūyuryadidamasmin brahmapure daharaṃ puṃḍarīkaṃ veśma daharoS sminnaṃtarākāśaḥ kiṃ tadatra vidyate yadanveṣṭavyaṃ yadvāva vijijñāsitavyamiti sa brūyāt |*)
+
+(Bhā. U. 8-1-2) **NOTE**
+
+### Printed p. 794
+
+If the disciples ask the teacher: "What is the principle that is within the space inside this city of Brahman, in the form of a lotus, of the nature of the दहर (*dahara*)? What is the nature of that principle we are to seek?" then the teacher's answer is as follows.
+
+यावान्ना अयमाकाशस्तानानेषोऽंतर्हृदय आकाश उभे अस्मिन् द्याना. पृथिवी अंतरेव समाहिते उभावग्निश्च वायुश्च सूराचंद्रमसावुभौ विद्युन्नक्षत्राणि यच्चास्येहास्ति यच्च नास्ति सर्वं तदस्मिन् समाहितमिति ॥ (*yāvānnā ayamākāśastānāneṣo 'ṃtarhṛdaya ākāśa ubhe asmin dyānā. pṛthivī aṃtareva samāhite ubhāvagniśca vāyuśca sūrācaṃdramasāvubhau vidyunnakṣatrāṇi yaccāsyehāsti yacca nāsti sarvaṃ tadasmin samāhitamiti ‖*)
+
+(Chā. U. 8-1-3)
+
+As far as the all-pervading outer space extends, so far extends the space of the heart. Heaven and earth are both contained in it. Fire and wind, sun and moon, lightning and the stars, and whatever there is in the present context in the form of existence and whatever is not, all are contained within the space of the heart.
+
+तं चेद्ब्रूयुरस्क्रिंश्चेदिदं ब्रह्मपुरे सर्वं समाहितं सर्वाणि च भूतानि सर्वे च कामा यदैतज्जरा नाप्नोति प्रध्वंसते वा किं ततोऽतिशिष्यत इति। (*taṃ cedbrūyuraskriṃścedidaṃ brahmapure sarvaṃ samāhitaṃ sarvāṇi ca bhūtāni sarve ca kāmā yadaitajjarā nāpnoti pradhvaṃsate vā kiṃ tato 'tiśiṣyata iti|*)
+
+(Chā. U. 8-1-4)
+
+If the disciples ask: "If in this city of Brahman all beings and all desires are contained, when old age overtakes it, or when it perishes, what remains of it?" the teacher answers in this way.
+
+स ब्रूयान्नास्य जरय्यैतज्जीर्यति न वधेनास्य हन्यत एतत्सत्यं ब्रह्मपुरमस्मिन्कामाः समाहिता एष आत्माहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिसासः सत्यकामः सत्यसंकल्पो यथा ह्येवेह प्रजा अन्वाविशंति.................. ॥ (*sa brūyānnāsya jarayyaitajjīryati na vadhenāsya hanyata etatsatyaṃ brahmapuramasminkāmāḥ samāhitā eṣa ātmāhatapāpmā vijaro vimṛtyurviśoko vijighatso 'pisāsaḥ satyakāmaḥ satyasaṃkalpo yathā hyeveha prajā anvāviśaṃti.................. ‖*)
+
+(Chā. U. La. 1-5) **NOTE**
+
+While every person reaches old age, this has no old age. Even if the person is destroyed, it is not destroyed. The city of Brahman is not the body, but this दह्राकाश (*dahrākāśa*). In it all desires are contained. This Self of space is free from fault, free from burning, free from sorrow, true in desire and true in resolve. The Muṇḍaka Upaniṣad praises this in the following way. Here the Self of the universe is indicated.
+
+यः सर्वज्ञः सर्ववित् यस्यैव महिमा भुवि । दिव्ये ब्रह्मपुरे ह्येष व्योम्नात्मा प्रतिष्ठितः ॥ (*yaḥ sarvajñaḥ sarvavit yasyaiva mahimā bhuvi | divye brahmapure hyeṣa vyomnātmā pratiṣṭhitaḥ ‖*)
+
+(Mu. U. 2-2-6) **NOTE**
+
+### Printed p. 795
+
+मनोमयः प्राणशरीरनेता प्रतिष्ठितोऽन्ने हृदयं सन्निधाय । तद्विज्ञानेन परिपश्यंति धीरा आनंदरूपममृतं यद्विभाति ॥ (*manomayaḥ prāṇaśarīranetā pratiṣṭhito 'nne hṛdayaṃ sannidhāya | tadvijñānena paripaśyaṃti dhīrā ānaṃdarūpamamṛtaṃ yadvibhāti ‖*)
+
+(Mu. U. 2-2-7) **NOTE**
+
+In the shining city of Brahman, which is of the form of the space of the heart, dwells the omniscient Supreme Self. He is made of mind. He is the impeller and leader of the breath and the body, and is established in food. He is the controller of the heart. By the divine knowledge of this Supreme Self established in the city of Brahman, the discerning attain direct realisation of the Supreme Puruṣa, who is of the nature of bliss and is immortal. This description of the Puruṣa who dwells in the दह्राकाश (*dahrākāśa*) is praised thus in the Mahānārāyaṇa Upaniṣad.
+
+दहरं विषाप्यं परवेश्मभूपं यत्पुंडरीकं पुरमध्यस्थग्गस्थं । तत्रापि दहरं गगनं विशोकस्तस्मिन्यदंतस्तदुपासितव्यं ॥ (*daharaṃ viṣāpyaṃ paraveśmabhūpaṃ yatpuṃḍarīkaṃ puramadhyasthaggasthaṃ | tatrāpi daharaṃ gaganaṃ viśokastasminyadaṃtastadupāsitavyaṃ ‖*)
+
+(Ma. U. 10-23) **NOTE**
+
+Here too it is praised, as it is said in the Chāndogya, that the Supreme Self established in the lotus in the middle of the city of Brahman should be worshipped. In the Praśna Upaniṣad it is stated: प्राणाग्निय एव एतस्मिन् पुरे जाग्रति (*prāṇāgniya eva etasmin pure jāgrati*) (Praśna. 3-4) **NOTE**. In this way the glory of the space of the दहर (*dahara*) is described in many places. It is beyond the gross body and the heart and is situated in the very hidden and subtle middle part of the heart. This is the view that the Supreme Self who dwells in this space of the दहर (*dahara*) is the one described in the present context as त्रिपादूर्ध्व उद्वैत् (*tripādūrdhva udvait*). The glory of this very space of the दहर (*dahara*), which is the dwelling place of the Supreme Self and which reflects outer space in the body, is described in the highest terms in many other places also.
+
+पुरमेकादशद्वारमजस्यावक्रचेतसः । अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते ॥ (*puramekādaśadvāramajasyāvakracetasaḥ | anuṣṭhāya na śocati vimuktaśca vimucyate ‖*)
+
+(Kaṭha. 5-1) **NOTE**
+
+The city of Brahman of the Supreme Self, who is without birth and of upright mind, has altogether eleven doors. When the Supreme Self in this city of Brahman is directly realised, there is release from sorrow. Here it is stated that the city of Brahman has eleven doors. But in the Śvetāśvatara Upaniṣad it is explained thus:
+
+नवद्वारे पुरे देही हंसो लेलायते बहिः । वशी सर्वस्य लोकस्य स्थावरस्य चरस्य च ॥ (*navadvāre pure dehī haṃso lelāyate bahiḥ | vaśī sarvasya lokasya sthāvarasya carasya ca ‖*)
+
+(Śve. U. 3-18) **NOTE**
+
+The Supreme Self who dwells in the city of Brahman with nine doors is also at play in the outer world. He alone is lord of the whole world. Of the world of the moving and of the world of the unmoving he alone
+
 ---
 
-**Progress note:** Done through printed p. 789. Śatapatha and Upaniṣad citations on the three-quarter Puruṣa; special topics of Ṛk 4
+**Progress note:** Done through printed p. 795. Upaniṣad citations on the worlds and the space of the heart, special topics of Ṛk 4
