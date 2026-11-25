@@ -13416,6 +13416,178 @@ In this ṛk, while Yamī urges Yama to unite with her, Yama says that union bet
 
 प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये तामृ शोभूत्वा रोहितं भूतामभ्यैत्तं देवा अपश्यन्नकृतं वै प्रजापतिः करोतीति ते तम्मैच्छन्य एनमारिष्यत्येशमन्योन्यस्मिन्नाविंदंस्तेषां या (*prajāpatirvai svāṃ duhitaramabhyadhyāyaddivamityanya āhuruṣasamityanye tāmṛ śobhūtvā rohitaṃ bhūtāmabhyaittaṃ devā apaśyannakṛtaṃ vai prajāpatiḥ karotīti te tammaicchanya enamāriṣyatyeśamanyonyasminnāviṃdaṃsteṣāṃ yā*)
 
+### Printed p. 363
+
+एव घोरतमास्तन्न आसंस्ता एकधा समभरंस्ताः संभृता एष देवोऽभवत्तदस्यैतद्भूतवन्नाम भवति वै स योऽस्यैतदेवं नाम वेद ॥ (*eva ghoratamāstanna āsaṃstā ekadhā samabharaṃstāḥ saṃbhṛtā eṣa devo 'bhavattadasyaitadbhūtavannāma bhavati vai sa yo 'syaitadevaṃ nāma veda ‖*) (Ai. Brā. 13-33)
+
+In former times Prajāpati, the creator, looked on his own daughter with desire and set his mind on taking his pleasure with her. There is a difference of opinion as to who this daughter was. Some seers say she was the deity presiding over the heavenly world, others that she was Uṣas. Be that as it may. Then Prajāpati took the form of a kind of deer with spots, called ṛśya. The daughter took the form of a red-coloured doe. Then Prajāpati sported with her in the act of union. The gods saw Prajāpati engaged in this evil act and said to one another: "This Prajāpati, the creator himself, is doing such a deed, forbidden by all. We must stop him and punish him suitably." They resolved this and questioned each of them in turn as to who among them was able to do the deed boldly. They found that none of them was so able. They therefore all joined and devised a plan. All those among the gods who were the most fierce, that is, of terrible form, gathered their several terrible forms into one and made a single figure. They saw that it was a man of very fearsome appearance and called him Rudra. Because the body of this Rudra was fearful, with the form of a bhūta, he was also named Bhūtavān, that is, lord of beings (bhūtapati). One who knows this becomes bhūtimān, that is, a man of wealth.
+
+तं देवा अब्रुवन्नयं वै प्रजापतिरकृतमकरिमं विध्येति स तथेत्यब्रवीत्स वै वो वरं वृणा इति वृणीष्टेति स एकमेव वरमवृणीत पशूनामाधिपत्यं तदस्यैतत्पशुमन्नाम पशुमान्भवति योऽस्यैतदेवं नाम वेद ॥ (*taṃ devā abruvannayaṃ vai prajāpatirakṛtamakarimaṃ vidhyeti sa tathetyabravītsa vai vo varaṃ vṛṇā iti vṛṇīṣṭeti sa ekameva varamavṛṇīta paśūnāmādhipatyaṃ tadasyaitatpaśumannāma paśumānbhavati yo 'syaitadevaṃ nāma veda ‖*)
+
+Then the gods, seeing Rudra of fearsome form, entreated him: "O Rudra, Prajāpati, enamoured of his own daughter, has committed an unnatural deed contrary to the world. Therefore, to punish him, strike him with your arrow." Rudra said: "Very well, I shall do so. But for doing this work you must grant me a boon." The gods agreed and said, "Ask the boon you wish." Rudra said: "I must become lord of all cattle; that is, I must gain lordship over the cattle and be famed by the name Paśupati. This is the boon I ask." The gods consented and granted the boon, saying, "So be it." One who knows this obtains the wealth of cattle, cows and the rest, and lives in comfort.
+
+तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकांडा सो एवेषुस्त्रिकांडा । (*tamabhyāyatyāvidhyatsa viddha ūrdhva udaprapatattametaṃ mṛga ityācakṣate ya u eva mṛgavyādhaḥ sa u eva sa yā rohitsā rohiṇī yo eveṣustrikāṃḍā so eveṣustrikāṃḍā |*)
+
+### Printed p. 364
+
+Then Rudra fitted an arrow to his bow, drew the string to his ear, aimed at Prajāpati who was in the form of a deer, and shot. Pained by the arrow, Prajāpati leapt upward into the sky, still in the form of the deer. Seeing this, all people say that Prajāpati in the form of the deer shines in the sky as the constellation Mṛgaśīrṣā (stars in the Orion), between the stars Rohiṇī and Ārdrā. Rudra, who struck Prajāpati with the arrow, became famed by the name Mṛgavyādha. He became known as this very Mṛgavyādha (name of star), famed among the people, who is seen in the sky among the stars. The daughter of Prajāpati, who was in the form of the red doe, became the star Rohiṇī (constellation), shining in the sky with a red colour. The arrow that Rudra shot had three parts, shaft, steel and point (kāṇḍa, loha, tuḍi), and these three parts are still found together in the arrows that people use.
+
+तद्वा इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतो दुषदिति यदब्रुवन्मेदं प्रजापते रेतो दुषदिति तन्मादुषमभवत्तन्मादुषस्य मादुषत्वं माडुषं ह वै नामैतद्यन्मानुषं सन्मानुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः ॥ (*tadvā idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto duṣaditi yadabruvanmedaṃ prajāpate reto duṣaditi tanmāduṣamabhavattanmāduṣasya māduṣatvaṃ māḍuṣaṃ ha vai nāmaitadyanmānuṣaṃ sanmānuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ ‖*) (I. Bra. 13-23) **NOTE**
+
+The semen that Prajāpati, in the form of the deer, had discharged into his daughter in the form of the doe was so abundant that it fell on the earth, flowed as a stream and stood in a low-lying place. It became a great lake. The gods saw this and praised it, saying, "This semen of Prajāpati is not to be despised (dūṣya), nor is it untouchable." Because of this the semen became famed by the name Māduṣam ("not to be despised"). In truth, since this semen is free of fault, it is right to call it Māduṣa. When people speak, they change the letter du in the word Māduṣa into nu by transposition and say Mānuṣa. Therefore the bodies of Brāhmaṇas, Kṣatriyas and the rest, produced from the semen of Prajāpati, are called mānuṣa. This is the reason why human beings have the name Mānuṣa. But it is not so with the gods. They do not change the letters of the word Māduṣa and use it as Māduṣa. This word Māduṣa is not in common use. For the gods are fond of the indirect (parokṣa), and so they like to use words with a hidden meaning, not saying what is as it is, that is, not in such a way as to be clearly understood.
+
+तदग्निना पर्यादधुस्तन्मरुतोऽधून्वंस्तदग्निर्न प्राच्यावयत्तदग्निना वैश्वानरेण पर्यादधुस्तन्मरुतोऽधून्वंस्तदग्निर्वैश्वानरः प्राच्यावयत्तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवद्यद्वितीयमासीत्त- द्भृगुरभवत्तं वरुणो नृगृह्णीत तस्मात्स भृगुर्वारुणिरथ यत्तृतीयमदीदेदिव त आदित्या अभवन्येऽज्जारा आसंस्तेऽज्गरसोऽभवन्यदंगाराः पुनरवशांता उददीप्यंत तद्बृहस्पतिरभवत् । (*tadagninā paryādadhustanmaruto 'dhūnvaṃstadagnirna prācyāvayattadagninā vaiśvānareṇa paryādadhustanmaruto 'dhūnvaṃstadagnirvaiśvānaraḥ prācyāvayattasya yadretasaḥ prathamamudadīpyata tadasāvādityo 'bhavadyadvitīyamāsītta- dbhṛgurabhavattaṃ varuṇo nṛgṛhṇīta tasmātsa bhṛgurvāruṇiratha yattṛtīyamadīdediva ta ādityā abhavanye 'jjārā āsaṃste 'jgaraso 'bhavanyadaṃgārāḥ punaravaśāṃtā udadīpyaṃta tadbṛhaspatirabhavat |*) (Ai. Brā. 13-34)
+
+### Printed p. 365
+
+After the gods had made the semen of Prajāpati, standing in the form of a lake, free of fault, they thought it would be hard to keep it if it stayed liquid. They resolved to separate the liquid, the watery part, from it. So they set fire all round that lake of semen, and tried by its heat to make the semen dry up, lose its liquid state and become solid lumps. When a fire is burning, the wind naturally blows. The gods thought that the wind would help the liquid of the lake to dry up, and so they made the wind blow together with the fire. But the lake was churned and thrown into turmoil by the strong wind that blew, and however great the heat of the fire, the semen did not become solid. It remained liquid. Because the semen in the lake contained a great deal of liquid, it was impossible for the fire to turn it into lumps. Seeing this, the gods thought again and, as before, set the fire called Vaiśvānara all round the lake. Vaiśvānara is a special form of Agni. This Vaiśvānara fire, in the form of heat in the bellies of living beings, digests the food and the rest that they eat. On this point,
+
+अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः । प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधं ॥ (*ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ | prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidhaṃ ‖*)
+
+the Lord himself has said. That is: "I myself (the Lord), in the form of the Vaiśvānara fire, remain in the bodies of living beings together with the vital airs called prāṇa and apāna, and digest the four kinds of food, anna and the rest, that living beings eat." Since this is said, it follows that Vaiśvānara has special power and ability beyond the ordinary fire. Thereupon this Vaiśvānara fire, by its power, made the liquid semen in the lake free of liquid and solid, and turned it into many lumps (balls). From the first lump, blazing in the contact of Vaiśvānara's flames, Āditya (the sun) came into being. From the second lump the seer Bṛgu was produced. Varuṇa took this seer Bṛgu as his own son. For this very reason the followers of the Taittirīya branch (students of the Yajurveda) recite बृगुर्वै वारुणिः । वरुणं पितरमुपससार (*bṛgurvai vāruṇiḥ | varuṇaṃ pitaramupasasāra*). That is, Bṛgu, the son of the god Varuṇa, approached his father Varuṇa and put a question to him in this manner; this is its meaning. By this Bṛgu became famed as the son of Varuṇa. Then from the third lump, which was burning, the Ādityas, that is, the sons of Aditi or the twelve Ādityas, were produced
+
+### Printed p. 366
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वर्तिः । यातं । जयुषा । वि । पर्वतं । अपिन्वतं । शयवे । धेनुं । अश्विना ।  
+> वृकस्य । चित् । वर्तिकां । अंतः । आस्यात् । युवं । शचीभिः । ग्रसितां । अमुंचतं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् ता तौ युवां जयुषा जयशीलेन रथेन पर्वतमुद्रिं प्रति
+> वर्तिर्मार्गं वि यातं । विविधं गच्छथः । तथा च निगमांतरं । वि जयुषा रथ्या
+> यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । ऋ. ६ ६२.७ । इति । किंच युवां
+> शयवे शयोरर्थाय धेनुमपिन्वतं । निवृत्तप्रसवां वृद्धां गां प्रभूतस्य
+> पयसो दोग्धीं कृतवंतौ स्थ इत्यर्थः । तथा च निगमांतरं । युवं धेनुं
+> शयवे नाधितायापिन्वतमश्विना पूर्वाय । ऋ. १-११८-८ । इति । किंच युवं
+> युवां वृकस्यांतरनुप्रविष्टां ग्रसितां वृकेण ग्रस्तां वर्तिकां । वर्तिका नाम
+> चटका । तामास्याद्वृकस्य मुखाच्छचीभिः प्रज्ञाभिः कर्मभिर्वामुंचतं । अमोचयतं । तथा च निगमांतरं । अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुंचतं वृकस्य । ऋ. १.११३-१६! इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: with your victorious chariot (जयुषा (*jayuṣā*), "of conquering habit") you go variously along the path (वर्तिः (*vartiḥ*)) towards the mountain (पर्वतं (*parvataṃ*), the rock). He cites another Ṛk for this: वि जयुषा रथ्या यातमद्रिं श्रुतं हवं वृषणा वध्रिमत्याः । (*vi jayuṣā rathyā yātamadriṃ śrutaṃ havaṃ vṛṣaṇā vadhrimatyāḥ |*) (Ṛ. 6 62.7). Further, you made the cow (धेनुं (*dhenuṃ*)) swell with milk for Śayu: you made a cow that was old and had ceased to bear a yielder of abundant milk. He cites: युवं धेनुं शयवे नाधितायापिन्वतमश्विना पूर्वाय (*yuvaṃ dhenuṃ śayave nādhitāyāpinvatamaśvinā pūrvāya*) (Ṛ. 1-118-8). Further, you released the quail (वर्तिकां (*vartikāṃ*); vartikā is the name of the caṭakā), that had been swallowed by the wolf and had gone into it, from the mouth of the wolf, by your wisdoms or by your deeds (शचीभिः (*śacībhiḥ*)). He cites: अजोहवीदश्विना वर्तिका वामास्नो यत्सीममुंचतं वृकस्य (*ajohavīdaśvinā vartikā vāmāsno yatsīmamuṃcataṃ vṛkasya*) (Ṛ. 1.113-16).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- ता (*tā*)—you
+- जयुषा (*jayuṣā*)—with the victorious chariot
+- पर्वतं वर्तिः (*parvataṃ vartiḥ*)—on the mountain path
+- वि यातं (*vi yātaṃ*)—travel about in many ways
+- शयवे (*śayave*)—for Śayu
+- धेनुं अपिन्वतं (*dhenuṃ apinvataṃ*)—you made the barren cow nourished so that she became a milch cow **NOTE**
+- युवं (*yuvaṃ*)—you
+- वृकस्य अंतः (*vṛkasya aṃtaḥ*)—inside the wolf's mouth
+- ग्रसितां (*grasitāṃ*)—swallowed
+- वर्तिकां (*vartikāṃ*)—the bird called vartikā
+- आस्यात् (*āsyāt*)—from its mouth
+- शचीभिः (*śacībhiḥ*)—by your deeds
+- अमुंचतं (*amuṃcataṃ*)—you released
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, travel about in many ways on the mountain path with your victorious chariot. For Śayu you made the barren cow a cow that gives milk. You released the sparrow that was swallowed inside the wolf's mouth, from its mouth.
+
+##### English translation
+Do you two, Ashwins, climb the path to the mountain with your triumphant chariot ; you have renovated for Shayu the (barren) milch cow : you liberated by your acts the quail that had been seized from the jaws of the wolf.
+
+### Printed p. 367
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमो यमीं पुनर्ब्रूते । पुरा पूर्वं प्रजापतेर्यदगम्यागमनपरिमितसामर्थ्योपेतत्वात्कृतं तथा वयं न चक्रम । नाकुर्म । वयमृतानि सत्यानि
+> वदंतो ब्रुवंतोऽनृतमसत्यं कद्ध कदा खलु नूनं निश्चितं रपेम । वदेम । न
+> कदाचिदपीत्यर्थः । आगम्यागमनं न कुर्म इति यावत् । अपि चाप्पु । अंतरिक्षनामैतत् । अंतरिक्षे स्थितो गंधर्वो गवां रश्मीनामुदकानां वा धारयितादित्योऽप्यांतरिक्षस्था सा प्रसिद्धा योषादित्यस्य भार्यासरण्यूश्च नो नानावयोर्नाभिरुत्पत्ति स्थानं । मातापितरावित्यर्थः । तत्तस्मात्कारणान्नाववयोर्जामि बांधवमुत्कृष्टं । एवं सत्यावयोरगम्यागमनरूपत्वात्कर्तुमयुक्तं तस्मादेतन्न
+> करोमीत्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Yama speaks again to Yamī. What Prajāpati did formerly, because he was endowed with a measureless capacity for approaching a woman not to be approached, we have not done. How, speaking truths (*ṛtāni*), could we ever, certainly, speak untruth? The meaning is that we never will; that is, we do not do what is union with the forbidden. Further, अप्पु (*appu*): this is a name of the atmosphere. The Gandharva standing in the atmosphere, the Āditya, upholder of the rays of cows or of the waters, and that well-known woman of the atmosphere, the wife of Āditya, Saraṇyū, are the nābhi of us two, that is, the place of our origin; the meaning is that they are our mother and father. Therefore the kinship (जामि (*jāmi*)) of us two is excellent. This being so, it is improper for us two to do what would be union with the forbidden, and therefore, is his intention, "I do not do this." **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरा (*purā*)—formerly (O Yamī)
+- यत् (*yat*)—what deed Prajāpati did
+- न चक्रम (*na cakrama*)—I cannot do it
+- ऋता (*ṛtā*)—true words
+- वदंतः (*vadaṃtaḥ*)—speaking
+- अनृतं (*anṛtaṃ*)—untruth
+- कत् ह (*kat ha*)—how indeed
+- नूनं (*nūnaṃ*)—certainly
+- रपेम (*rapema*)—can we speak
+- अप्पु (*appu*)—the one standing in the atmosphere
+- गंधर्वः (*gaṃdharvaḥ*)—Āditya
+- अप्या सा (*apyā sā*)—the well-known woman of the atmosphere
+- योषा च (*yoṣā ca*)—and the woman (the wife of Āditya), Saraṇyū
+- नः (*naḥ*)—to both of us
+- नाभिः (*nābhiḥ*)—are the place of origin
+- तत् (*tat*)—therefore
+- नौ (*nau*)—of both of us
+- जामि (*jāmi*)—kinship
+- परमं (*paramaṃ*)—is most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Yamī, what the all-powerful Prajāpati did formerly I cannot do now. Having spoken true words up to now, how can we speak untruth now? The Āditya who stands in the atmosphere and Saraṇyū, the wife of Āditya, who also stands in the atmosphere, are the common place of origin of both of us. Therefore the kinship of both of us, as brother and sister, is most excellent. (Our relation as husband and wife is not possible.)
+
+##### English translation
+(Yama speaks). We connot do what was done formerly; for how can we who speak truth, utter now that which is untrue? Gandharva (the sun) was in the watery (firmament), and the water was his bride She is our common parent, hence our near affinity.
+
+### Printed p. 368
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गर्भे॒ नु नौ॑ जनि॒ता दंप॑ती कर्दे॒वस्त्वष्टा॑ सवि॒ता वि॒श्वरू॑पः ।  
+> नकि॑रस्य॒ प्र मि॑नंति व्र॒तानि॒ वेद॑ नाव॒स्य पृ॑थि॒वी उ॒त द्यौः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गर्भे । नु । नौ । जनिता । दंपती इति दंपती । कः । देवः । त्वष्टा । सविता । विश्वरूपः ।  
+> नकिः । अस्य । प्र । मिनंति । व्रतानि । वेद । नौ । अस्य । पृथिवी । उत । द्यौः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वष्टा रूपाणां कर्ता सविता सर्वेषां शुभाशुभस्य प्रेरको विश्वरूपः
+> सर्वात्मको देवो दानादिगुणयुक्तो जनिता जनयिता प्रजापतिर्गर्भे नु
+> गर्भावस्थायामेव नावानां दंपती जायापती कः । कृतवान् एकोदरे सहवासित्वात् । अस्य प्रजापतेर्व्रतानि कर्माणि नकिः प्र मिनंति । न केचित्पहिंसंति । न
+> लोपयंतीत्यर्थः । अतः कारणाद्गर्भावस्थायामेवावयोः प्रजापतिकृते
+> दंपतित्वे सति संभोगं कुर्वित्यर्थः । अपि च नावावयोरस्येदं मातुरुदरे
+> सहवासजनितं दंपतित्वं पृथिवी भूमिर्वेद । जानाति । उतापि च द्यौर्द्युलोकोऽपि
+> जानाति ॥
+
+##### Gist of the bhāṣya
+
+Tvaṣṭṛ, the maker of forms; Savitṛ, the impeller of all to good and bad; Viśvarūpa, the all-formed; the god endowed with the qualities of generosity and the rest; the begetter (जनिता (*janitā*)), Prajāpati: he made us two a couple (दंपती (*daṃpatī*)), husband and wife, in the womb itself (गर्भे नु (*garbhe nu*)), since we dwelt together in one womb; कः (*kaḥ*) is glossed कृतवान् (*kṛtavān*), "he made". None (नकिः (*nakiḥ*)) violate (प्र मिनंति (*pra minaṃti*)) the vratas, the deeds, of this Prajāpati; none injure or neglect them. For this reason, the two of us having been made a couple by Prajāpati in the womb itself, the meaning is: "Have union." Further, the earth (पृथिवी (*pṛthivī*)) knows this coupledom of us two, born of living together in the mother's womb, and heaven (द्यौः (*dyauḥ*)), the heavenly world, also knows it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टा (*tvaṣṭā*)—the maker of the forms of the world
+- सविता (*savitā*)—the impeller of all
+- विश्वरूपः (*viśvarūpaḥ*)—the all-formed
+- देवः (*devaḥ*)—the divine one
+- जनिता (*janitā*)—Prajāpati, the begetter of all
+- नौ (*nau*)—us
+- गर्भॆ नु (*garbhè nu*)—while we were in the womb
+- दंपती (*daṃpatī*)—as husband and wife
+- कः (*kaḥ*)—has made
+- अस्य (*asya*)—of this Prajāpati
+- व्रतानि (*vratāni*)—the deeds
+- नकिः (*nakiḥ*)—no one at all
+- प्र मिनंति (*pra minaṃti*)—can injure
+- नौ (*nau*)—our
+- अस्य (*asya*)—this relation of husband and wife
+- पृथिवी (*pṛthivī*)—the earth
+- वेद (*veda*)—has known
+- उत (*uta*)—and
+- द्यौः (*dyauḥ*)—heaven also has known
+
+##### भावार्थ (Bhāvārtha)
+
+Prajāpati, the maker of the forms of the world, the impeller of all, the self of all, the divine self, the begetter of all, made us husband and wife while we were still in the womb. No one at all can injure the deeds of this Prajāpati. Both heaven and earth have known this relation of ours as husband and wife.
+
 ---
 
-**Progress note:** Done through printed p. 362. pp. 357-362 (batch API)
+**Progress note:** Done through printed p. 368. pp. 363-368 (batch API)
