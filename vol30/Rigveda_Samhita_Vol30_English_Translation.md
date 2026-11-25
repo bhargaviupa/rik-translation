@@ -43488,6 +43488,188 @@ The lightning-fire that appears with white colour in the very high region of thi
 ##### English translation
 That Agni who in the form of sun or lightening rises brightly in the far-off regions bears us (safe) beyond (the reach of) those who hate us.
 
+### Printed p. 1259
+
+##### विशेषविषयगळु (Special Topics)
+
+The supplementary mantra to be recited at the end of this sūkta:
+अनीकवंतमूतये ऽग्निं गीर्भिर्हवामहे । स नः पर्षदति द्विषः ॥ (*anīkavaṃtamūtaye 'gniṃ gīrbhirhavāmahe | sa naḥ parṣadati dviṣaḥ ‖*)
+
+## Sūkta 188 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र नूनमिति तृचं सप्तत्रिंशं सूक्तं । अग्निपुत्रस्य श्येनस्यार्षं गायत्रं
+> जातवेदोगुणकोऽग्निर्देवता । तथा चानुक्रांतं । प्र नूनं तृचमाग्नेयः
+> श्येनो जातवेदस्यमिति ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र नूनं (*pra nūnaṃ*) is a triplet, the thirty-seventh sūkta. Its seer is Śyena, son of Agni; the metre is Gāyatrī; the deity is Agni in his aspect as Jātavedas. He quotes the Anukramaṇī: प्र नूनं तृचमाग्नेयः श्येनो जातवेदस्यमिति (*pra nūnaṃ tṛcamāgneyaḥ śyeno jātavedasyamiti*). The use (viniyoga) is stated for the Prātaranuvāka and the Āśvina-śastra.
+
+Anuvāda: This sūkta beginning "प्र नूनं (*pra nūnaṃ*)" is the thirty-seventh sūkta in the twelfth anuvāka. It has three Ṛks. Its seer is Śyena, son of Agni; the deity is Agni, of the nature of Jātavedas; the metre is Gāyatrī. The Anukramaṇī says: "Pra nūnam, a triplet, Āgneya, Śyena, Jātavedasya." The sūkta is used as Prātaranuvāka and Āśvinaśastra mantras.
+
+Maṇḍala 10; Anuvāka 12; Sūkta 188; Aṣṭaka 8; Adhyāya 8; Varga 46. Number of Ṛks in the sūkta: 3. Seer: Śyena Āgneya. Deity: Agni Jātavedas. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नू॒नं जा॒तवे॑दस॒मश्वं॑ हिनोत वा॒जिनं॑ ।  
+> इ॒दं नो॑ ब॒र्हिरा॒सदे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नूनं । जातवेदसं । अश्वं । हिनोत । वाजिनं ।
+
+### Printed p. 1260
+
+> इदं । नः । बर्हिः । आसदे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदसं जातानां वेदितारं जातधनादिकं वाश्वं कर्मभिर्व्याप्पुवंतं
+> वाजिनमन्नवंतं हे ऋत्विग्यजमानाः नूनमवश्यं प्र हिनोत । प्रवर्धयत । यद्वा।
+> अश्वमिव स्तुतिभिः प्रेरयत ॥ हि गतौ वृद्धौ च । अस्माल्लोटि तशब्दस्य तप्तनप्तनथनाश्चेति तबादेशः ॥ किमर्थं । नोऽस्माकमिदं बर्हिरास्तीर्णमासद आसत्तुं प्राप्तं ।
+> बर्हिरासीदत्वित्यर्थः ॥ सदेः कृत्यार्थे तनैकेनिति केन्प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O priests and sacrificers, you must surely urge forward Jātavedas, who knows all that is born, or who possesses wealth that is born, or who pervades through rites; who is possessed of food. "Urge forward" means make him grow. Or else: urge him on with praises as one urges a horse. The root हि (*hi*) means going and growth. Why? So that he may come and sit on this strewn sacred grass of ours; the sense is "let him sit on the barhis".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदसं (*jātavedasaṃ*)—one who knows all that is born, or the wealthy one
+- अश्वं (*aśvaṃ*)—the pervader, who takes the chief part in all sacrifices and rites
+- वाजिनं (*vājinaṃ*)—the possessor of food; this Agni called Jātavedas
+- नः (*naḥ*)—our
+- इदं बर्हिः (*idaṃ barhiḥ*)—upon this seat of darbha grass
+- आसदे (*āsade*)—in order to come and sit
+- नूनं (*nūnaṃ*)—necessarily
+- प्र हिनोत (*pra hinota*)—urge forward (O priests and sacrificers)
+- [Or अश्वं (*aśvaṃ*)—as one urges a horse; प्र हिन्वत (*pra hinvata*)—urge with praises]
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, necessarily urge this Agni called Jātavedas, the all-knowing, who pervades by taking the chief part in all sacrifices and rites, and who is possessed of food, to come and sit on this darbha seat of ours (urging him with praises as one urges a horse).
+
+##### English translation
+Urge the food-giver, Jatavedas, (as) a horse, to sit down upon this our sacred grass.
+
+##### विशेषविषयगळु (Special Topics)
+
+As an illustration of a Ṛk describing Agni called Jātavedas, Yāska takes the Ṛk जातवेदसे सुनवाम सोमं (*jātavedase sunavāma somaṃ*) (Ṛ. Saṃ. 1-99-1) and the present Ṛk प्र नूनं (*pra nūnaṃ*) and gives the Nirukta on them:
+जातवेदाः । जातवेदाः कस्मात् । जातानि वेद । जातानि नैनं विदुः । जाते जाते विद्यत इति वा । जातवित्तो ना जातधनः । जातविद्यो ना जातप्रज्ञानः । यत्तज्जातः पशूनविंदतेति तज्जातवेदसो जातवेदस्त्वमिति ब्राह्मणं तस्मात् सर्वानृतून् पशवोऽग्निमभिसर्पंतीति च ॥ (*jātavedāḥ | jātavedāḥ kasmāt | jātāni veda | jātāni nainaṃ viduḥ | jāte jāte vidyata iti vā | jātavitto nā jātadhanaḥ | jātavidyo nā jātaprajñānaḥ | yattajjātaḥ paśūnaviṃdateti tajjātavedaso jātavedastvamiti brāhmaṇaṃ tasmāt sarvānṛtūn paśavo 'gnimabhisarpaṃtīti ca ‖*) (Ni. 7-19)
+
+### Printed p. 1261
+Why has Agni the name Jātavedāḥ? This Agni is जातानि वेद (*jātāni veda*)—he knows all things that are born; जातानि नैनं विदुः (*jātāni nainaṃ viduḥ*)—all born beings know this Agni; जाते जाते विद्यत इति वा (*jāte jāte vidyata iti vā*)—he is present pervading all beings that are born; जातवित्तो ना जातधनो ना (*jātavitto nā jātadhano nā*)—all wealth that is born is with him; जातविद्यो ना जातप्रज्ञानः (*jātavidyo nā jātaprajñānaḥ*)—the sense is that this Agni, at the very time of birth, possesses all knowledge or wisdom. Further, यत्तज्ञातः पशूनविंदतेति तज्ञातवेदसो जातवेदस्त्वमिति ब्राह्मणं तस्मात् सर्वानृतून् पशवोऽग्निमभिसर्पंतीति (*yattajñātaḥ paśūnaviṃdateti tajñātavedaso jātavedastvamiti brāhmaṇaṃ tasmāt sarvānṛtūn paśavo 'gnimabhisarpaṃtīti*)—as soon as he was born this Agni obtained cattle, that is, animals are offered in the fire. For these reasons Agni has the name Jātavedāḥ. The above Brāhmaṇa passage supports this. Therefore in all seasons animals are offered in Agni. The Ṛk praising this Jātavedas Agni is as follows:
+जातवेदसे सुनवाम सोममरातीयतो नि दहाति वेदः । स नः पर्षदति दुर्गाणि विश्वा नावेव सिंधुं दुरितात्यग्निः ॥ जातवेदस इति जातवेदस्यां वैवं जातवेदसेर्चाय सुनवाम सोममिति प्रसवायाभिषवाय सोमं राजानममृतमरातीयतो यज्ञार्थमनिस्मो निदहाति निश्चयेन दहति भस्मी करोति सोमो दददित्यर्थः । स नः पर्षदति दुर्गाणि विश्वानि दुर्गमानि स्थानानि नावेव सिंधुं नावा सिंधुं सिंधुं नावा नदीं जलदुर्गा० महाकूलां तारयति दुरितात्यग्निरिति दुरितानि तारयति ॥ (*jātavedase sunavāma somamarātīyato ni dahāti vedaḥ | sa naḥ parṣadati durgāṇi viśvā nāveva siṃdhuṃ duritātyagniḥ ‖ jātavedasa iti jātavedasyāṃ vaivaṃ jātavedasercāya sunavāma somamiti prasavāyābhiṣavāya somaṃ rājānamamṛtamarātīyato yajñārthamanismo nidahāti niścayena dahati bhasmī karoti somo dadadityarthaḥ | sa naḥ parṣadati durgāṇi viśvāni durgamāni sthānāni nāveva siṃdhuṃ nāvā siṃdhuṃ siṃdhuṃ nāvā nadīṃ jaladurgā0 mahākūlāṃ tārayati duritātyagniriti duritāni tārayati ‖*) (Ni. 7-20)
+We press Soma for Jātavedas Agni. Or, since this Jātavedas Agni is worthy of worship, we press Soma for his pleasure. The Soma juice we press, or this king Soma, Agni burns for the sacrifice, that is, burns to ashes; that is, he causes the Soma-oblation to be offered. As a boat carries us across a river that is hard to cross, deep, broad and full of currents, so this Jātavedas Agni carries us across many troubles and sins: this is the chief purport. One more Ṛk praising this Jātavedas Agni will be explained:
+प्र नूनं जातवेदसमश्वं हिनोत वाजिनं । इदं नो बर्हिरासदे ॥ प्रहिणुत जातवेदसं कर्मभिः समश्नुवानमपि वोपमार्थे स्यादश्वमिव जातवेदसमितीदं नो बर्हिरासीदत्विति ॥ ( (*pra nūnaṃ jātavedasamaśvaṃ hinota vājinaṃ | idaṃ no barhirāsade ‖ prahiṇuta jātavedasaṃ karmabhiḥ samaśnuvānamapi vopamārthe syādaśvamiva jātavedasamitīdaṃ no barhirāsīdatviti ‖ (*) (Ni. 7-20)
+
+### Printed p. 1262
+O priests, urge forward, praising with your sacrificial rites, this all-pervading Jātavedas Agni; or the word अश्व (*aśva*) here may be used in the sense of comparison: O priests, urge this Agni with praises as one urges a horse. The purport is: let this Agni sit on this darbha seat which we have spread.
+तदेतदेकमेव जातवेदस्यं गायत्रं तृचं दशततीषु विद्यते यत्तु किंचिदाग्नेयं तज्ञातवेदसानां स्थाने यज्यते ॥ (*tadetadekameva jātavedasyaṃ gāyatraṃ tṛcaṃ daśatatīṣu vidyate yattu kiṃcidāgneyaṃ tajñātavedasānāṃ sthāne yajyate ‖*) (Ni. 7-20)
+In the ten maṇḍalas of the Ṛgveda this is the only sūkta that directly praises Jātavedas; there is no other. It is in the Gāyatrī metre. Because the qualities of Agni are also in Jātavedas Agni, the terrestrial Agni is praised in many places as Jātavedas.
+स न मन्येतायमेवाग्निरित्यप्येते उत्तरे ज्योतिषी जातवेदसी उच्येते ततो नु मध्यमः । अभि प्रवंत समनेव योषा इति तत् पुरस्ताद्वाख्यातमथासावादित्य उदुत्यं जातवेदसमिति तदुपरिष्पाद्वाख्यास्यामः ॥ (*sa na manyetāyamevāgnirityapyete uttare jyotiṣī jātavedasī ucyete tato nu madhyamaḥ | abhi pravaṃta samaneva yoṣā iti tat purastādvākhyātamathāsāvāditya udutyaṃ jātavedasamiti tadupariṣpādvākhyāsyāmaḥ ‖*) (Ni. 7-20)
+But it should not be understood that all the qualities of Jātavedas Agni apply only to the terrestrial Agni. The two higher lights, that is, the lightning-fire and the sun, are also called Jātavedas. The Vedic sentence अभि प्रवंत समनेव योषा (*abhi pravaṃta samaneva yoṣā*) indicates here the middle Agni (the lightning-fire). We explained this sentence earlier. As to this Jātavedas being the sun, the Ṛk उदुत्यं जातवेदसं (*udutyaṃ jātavedasaṃ*) (Ṛ. Saṃ. 1-50-1) will be explained later.
+यस्तु सूक्तं भजते यस्मै हविर्निरुप्यतेयमेव सोऽग्निर्जातवेदा निपातमेवैते उत्तरे ज्योतिषी एतेन नामधेयेन भजेते ॥ (*yastu sūktaṃ bhajate yasmai havirnirupyateyameva so 'gnirjātavedā nipātamevaite uttare jyotiṣī etena nāmadheyena bhajete ‖*) (Ni. 7-20)
+Although Agni exists in three places under the names terrestrial Agni, lightning-fire and sun, oblations and the like are offered only in the terrestrial Agni, and this Agni alone is called Jātavedāḥ. The other two, the lightning-fire and the sun, are not used for offerings; they too are praised by the word Jātavedas by way of context. Hence wherever it is said that oblations are offered in Jātavedas Agni, the terrestrial Agni is meant.
+
+### Printed p. 1263
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य प्र जा॒तवे॑दसो॒ विप्र॑वीरस्य मा॒ळ्हुषः॑ ।  
+> म॒हीमि॑यर्मि सुष्टु॒तिं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । प्र । जातवेदसः । विप्रवीरस्य । माळ्हुषः ।  
+> महीं । इयर्मि । सुस्तुतिं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदसो जातानां वेदितुर्विप्रवीरस्य । विप्रा मेधाविनो यजमाना
+> वीराः पुत्रा यस्य । तादृशस्य मीळ्हुषः सेक्तुरस्याग्नेर्महीं महतीं सुष्टुतिं
+> शोभनां स्तुतिं प्रेयर्मि । प्रेरयामि ॥ ऋ गतौ चौहोत्यादिकः । अर्तिपिपर्त्योश्चेत्यभ्यासस्यॆत्वं ॥
+
+##### Gist of the bhāṣya
+
+I send forth a great and beautiful praise to this Agni Jātavedas, the knower of all that is born, विप्रवीरस्य (*vipravīrasya*)—one whose sons (वीराः (*vīrāḥ*)) are the wise sacrificers (विप्रा (*viprā*))—and मीळ्हुषः (*mīḷhuṣaḥ*), the sprinkler. प्रेयर्मि (*preyarmi*) means प्रेरयामि (*prerayāmi*), "I send forth".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्रवीरस्य (*vipravīrasya*)—having the wise sacrificers as sons
+- मीळ्हुषः (*mīḷhuṣaḥ*)—the showerer of desired objects
+- अस्य जातवेदसः (*asya jātavedasaḥ*)—to this Agni called Jātavedas
+- महीं (*mahīṃ*)—great
+- सुष्टुतिं (*suṣṭutiṃ*)—beautiful praise
+- प्र इयर्मि (*pra iyarmi*)—I utter of my own impulse
+
+##### भावार्थ (Bhāvārtha)
+
+To this Agni called Jātavedas, who has the wise sacrificers as his sons and showers desired objects, I recite and offer great and beautiful praise.
+
+##### English translation
+I offer earnest and ample praise to this Jatavedas, the showerer (of benefits), whose sons are intelligent (worshippers).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या रुचो॑ जा॒तवे॑दसो देव॒त्रा ह॑व्य॒वाह॑नीः ।  
+> ताभि॑नो य॒ज्ञमि॑न्वतु ॥ ३ ॥
+
+### Printed p. 1264
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । रुचः । जात्यवेदसः । देवत्रा । हव्यवाहनीः ।  
+> शाभिः । नः । यज्ञं । इन्वतु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदसोऽग्नेर्या रुचो रोचमानाः कालीकरालीप्रभृतयः सप्त
+> जिह्वा देवत्रा देवान्प्रति ॥ देवमनुष्यपुरुषपुरुमर्त्येभ्य इत्यादिना द्वितीयार्थे
+> त्राप्रत्ययः ॥ हव्यवाहनीर्हव्यानां हविषां वोढ्यः प्रापयित्र्यो भवंति ॥ वा
+> छंदसीति जसि पूर्वसवर्णदीर्घः ॥ ताभिर्जिह्वाभिर्नोऽस्माकं यज्ञं यागसाधनं
+> हविरिन्वतु । देवान्प्रापयतु ॥ इवि व्याप्तौ । इदित्वान्नुम् ॥
+
+##### Gist of the bhāṣya
+
+The shining flames of Jātavedas Agni, the seven tongues beginning with Kālī and Karālī, which are देवत्रा (*devatrā*), directed to the gods, are हव्यवाहनीः (*havyavāhanīḥ*), bearers of the oblations. With those tongues let him इन्वतु (*invatu*), carry our sacrifice, that is, the oblation, the means of the rite, to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदसः (*jātavedasaḥ*)—of this Agni called Jātavedas
+- याः रुचः (*yāḥ rucaḥ*)—which shining flames, that is, the seven tongues
+- देवत्रा (*devatrā*)—directed to the gods
+- हव्यवाहनीः (*havyavāhanīḥ*)—bear the oblation
+- ताभिः (*tābhiḥ*)—by those flames or tongues
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—the oblation, the means of the sacrifice
+- इन्वतु (*invatu*)—let him carry to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+By those shining flames or tongues of this Agni called Jātavedas which bear the oblation to the gods, let Agni carry our oblation, the means of the sacrifice, to the gods.
+
+##### English translation
+May he invest our sacrifice with those bright (flames) of Jatavedas, that are the bearers of the oblation to the gods.
+
+## Sūkta 189 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयं गौरिति तृचमष्टात्रिंशं सूक्तं गायत्रं । सार्पराज्ञे नामर्षिका । सैव
+> देवता सूर्यो वेति । तथा चानुक्रांतं । आयं गौः सार्पराज्ञात्मदैवतं
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आयं गौः (*āyaṃ gauḥ*) is a triplet, the thirty-eighth sūkta, in Gāyatrī metre. The seer is a woman named Sārparājñī; she herself is the deity, or else the Sun. He begins the Anukramaṇī quotation: आयं गौः सार्पराज्ञात्मदैवतं (*āyaṃ gauḥ sārparājñātmadaivataṃ*).
+
 ---
 
-**Progress note:** Done through printed p. 1258. pp. 1253-1258 (batch API)
+**Progress note:** Done through printed p. 1264. pp. 1259-1264 (batch API)
