@@ -6599,6 +6599,124 @@ What is said in this Ṛk is: the desire to create the world first sprouted in t
 
 When he shook thus, from his flesh were born three kinds of seers called the Aruṇas, the Ketus and the Vātaraśanas. From the nails (nakha) were born the sages called the Vaikhānasas, and from the hair the seers named the Vālakhilyas. From the rasa (blood), the essence of the body, a tortoise (kūrma) was born. Prajāpati, seeing that tortoise moving about in the midst of the water, spoke thus: "O tortoise, you are born from my flesh and skin." The tortoise said: "Not so; I am not one born of your flesh. Only this tortoise shape, my body, has been born. I, who exist in the form of consciousness in all things, was in the water even before the birth of the tortoise. Because I have existed from before, I have the name Puruṣa." Having said this, in order to manifest his own power, he assumed the form of the Virāṭ (the great form) and appeared there with countless limbs, thousands of heads, thousands of eyes, thousands of feet and so on. Then Prajāpati, seeing the Supreme Self in the Virāṭ form, said, "You yourself fashion the world." Accordingly that Supreme Self filled his hand (the hollow of his palm) with water, faced the east, uttered the words एवाह्येव (*evāhyeva*), and threw that water upward. From it Āditya was born, and that direction received the name east. In the same way, for another direction, when he threw the water with एवाह्यन्ने (*evāhyanne*), Agni was born there, and it became the south. Another time, when he threw the water with एवा हि वायो (*evā hi vāyo*), Vāyu was born, and it became the west. Then, when he threw it with एवाहींद्र (*evāhīṃdra*), Indra was born, and it became the north. In the middle, when he threw the water with एवा हि पूषन् (*evā hi pūṣan*), the god Pūṣan was born. That is the lower region. In the upper region, when he threw the water with एवा हि देवाः (*evā hi devāḥ*), there were born the other gods, men, fathers, gandharvas and apsarases. That became famous as the upward direction. Thus, while the Supreme Self was sprinkling water all around, from some drops of water that flew far off from that water the asuras, the hosts of rākṣasas and the piśācas were born. Because they were born from drops that had been flung far off, these asuras and the others were defeated by the gods.
 
+### Printed p. 251
+
+तदेषाभ्यनूक्ता : आपो ह यद्बृहतीर्गर्भमायन् । दक्षं दधाना जनयंतीः स्वयंभुं । तत इमेऽध्यसृज्यंत सर्गाः । अद्भो वा इदग्ं समभूत् । तस्मादिदग्ं सर्वं ब्रह्म स्वयंभ्विति । तस्मादिदग्ं सर्वग्ं शिथिलमिवाध्रुवमिवाभवत् । प्रजापतिर्वाव तत् । आत्मनात्मानं विधाय । तदेवानु प्राविशत् । (*tadeṣābhyanūktā : āpo ha yadbṛhatīrgarbhamāyan | dakṣaṃ dadhānā janayaṃtīḥ svayaṃbhuṃ | tata ime 'dhyasṛjyaṃta sargāḥ | adbho vā idagṃ samabhūt | tasmādidagṃ sarvaṃ brahma svayaṃbhviti | tasmādidagṃ sarvagṃ śithilamivādhruvamivābhavat | prajāpatirvāva tat | ātmanātmānaṃ vidhāya | tadevānu prāviśat |*) (Śrī. A. 1-23-8) **NOTE**
+
+The account of how gods, men and the rest were created from water in this way is stated clearly in the verse of the Ṛgveda.... **NOTE**
+
+अपो ह यद्बृहतीर्विश्वमायन्गर्भं दधाना जनयंतीरग्निं । ततो देवानां समवर्ततासुरेकः कस्यै देवाय हविषा विधेम ॥ (*apo ha yadbṛhatīrviśvamāyangarbhaṃ dadhānā janayaṃtīragniṃ | tato devānāṃ samavartatāsurekaḥ kasyai devāya haviṣā vidhema ‖*) (Ṛ. Saṃ. 18-121-7; Atharva 4-2.6; Vājasaneya Saṃ. 27,-25,-32-7; Śai. Saṃ. 2-2-18-1; 4-1-8-5; Śai. Ā. 1-23-8) **NOTE**
+
+Before creation, the water that covered everything everywhere took up a germ. That germ grew and brought forth the Supreme Self (Prajāpati) in the form of a tortoise, who bears the name Svayambhū. That is to say, the Supreme Self himself appeared out of the water in the form of a tortoise. After that, all the other creations proceeded from that Prajāpati in tortoise form. Therefore everything came into being from these waters; therefore the whole world that came into being is itself of the nature of Brahman, called Svayambhū. Because it arose from water, the whole world, without a firm footing, was shaking in the midst of the water like waves. Therefore Prajāpati, whose nature is being, consciousness and bliss, by his own power fitted a part of himself into each thing according to its form; that is, he himself entered into them with his own portion of consciousness (his form of consciousness) and established them firmly so that they would not shake.
+
+तदेषाभ्यनूक्ता । विधाय लोकान्विधाय भूतानि । विधाय सर्वाः प्रदिशो दिशश्च । प्रजापतिः प्रथमजा ऋतस्य । आत्मानात्मानमभिसंविवेशेति । सर्वमेवेदमाप्ता । सर्वमवरुध्य । तदेवानुप्रविशति । य एवं वेद ॥ (*tadeṣābhyanūktā | vidhāya lokānvidhāya bhūtāni | vidhāya sarvāḥ pradiśo diśaśca | prajāpatiḥ prathamajā ṛtasya | ātmānātmānamabhisaṃviveśeti | sarvamevedamāptā | sarvamavarudhya | tadevānupraviśati | ya evaṃ veda ‖*)
+
+This account is stated in the Ṛgveda thus— (Śrī. A. 1-23-9) **NOTE**
+
+विधाय लोकान्विधाय भूतानि विधाय सर्वाः प्रदिशो दिशश्च । प्रजापतिः प्रथमजा ऋतस्य आत्मनात्मानमभिसंविवेश ॥ (*vidhāya lokānvidhāya bhūtāni vidhāya sarvāḥ pradiśo diśaśca | prajāpatiḥ prathamajā ṛtasya ātmanātmānamabhisaṃviveśa ‖*)
+
+Prajāpati carried on the work of creation from the water that existed before everything. Having made these worlds that we see with our eyes, all the classes of beings who live in them, that is, the living creatures, and the directions and the intermediate directions, he entered into them in the form of consciousness; this
+
+### Printed p. 252
+
+is the main purport of this mantra. (This mantra is not found in the Ṛgveda. The commentator says that it is in another branch; which branch it is cannot be known.) Having thus completed the whole work of creation and entered into the manifest things in the form of consciousness, Prajāpati dwells within them and carries on the business of the world. The man who knows this order of creation of the Supreme Self obtains and enjoys the fruits that a man is to obtain in this world, and is happy.
+
+Not only in the Vedic mantras but also in the Manusmṛti and in the Purāṇas and other works, the thought that the Supreme Lord first created water alone and then, like it, created the world and the rest, is stated in passages such as—
+
+अप एव ससर्जादौ तासु वीर्यमवाकरत् । तदंडमभवद्धैमं सूर्यकोटसमप्रभं ॥ (*apa eva sasarjādau tāsu vīryamavākarat | tadaṃḍamabhavaddhaimaṃ sūryakoṭasamaprabhaṃ ‖*) (Manusmṛti 1.8-9)
+
+By the epithet चक्षुषः पिता (*cakṣuṣaḥ pitā*) Viśvakarman is praised in this verse. Sāyaṇa has given two kinds of meaning to this epithet. For the word चक्षुस् (*cakṣus*) he gives चक्षुरुपलक्षितस्य इंद्रियसंघात्मकस्य शरीरस्य पिता उत्पादयिता । (*cakṣurupalakṣitasya iṃdriyasaṃghātmakasya śarīrasya pitā utpādayitā |*): that he is the producer of the body, which consists of the whole group of senses, the eye and the others, is one meaning; or else चक्षुः व्यापकं तेजः । तस्य उत्पादयिता । (*cakṣuḥ vyāpakaṃ tejaḥ | tasya utpādayitā |*): that he is the producer of the light that is the means of knowledge, is another meaning that is possible. **NOTE** Both these purports are stated on the basis of Vedic sentences. How? If the word चक्षुस् (*cakṣus*) is taken to mean the senses, the eye and the others, then Viśvakarman is the producer of the body, which consists of the group of senses, or he may be understood as its protector in the sense of a father, or as its lord. He is lord because he is the nourisher. For the senses, the eye and the others, the breath is the nourisher, and it is because the breath is there that the senses are maintained; without it they have no good state. This breath is the form of the Supreme Brahman. All the senses are protected by Brahman in the form of breath.
+
+आदित्यो ह वै प्राणः । (*ādityo ha vai prāṇaḥ |*) (Pra. Tā. 1-5) **NOTE**
+
+स होवाच । विजान्यामहं यत्पाणो ब्रह्म ॥ (*sa hovāca | vijānyāmahaṃ yatpāṇo brahma ‖*) (Cha. U. 4-10-5) **NOTE**
+
+The sun is of the nature of breath. That which is known as breath is the Supreme Brahman itself. It is this that nourishes the senses and the rest; so it is praised.
+
+अथादित्य उदयन यत्प्राचीं दिशं प्रविशति तेन प्राच्यान् प्राणान् रश्मिषु सन्निधत्ते । यद्धक्षिणां यत्पतीचीं यदुदीचीं यदधो (*athāditya udayana yatprācīṃ diśaṃ praviśati tena prācyān prāṇān raśmiṣu sannidhatte | yaddhakṣiṇāṃ yatpatīcīṃ yadudīcīṃ yadadho*)
+
+### Printed p. 253
+
+यदूर्ध्वं यदंतरा दिशो यत्सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु सन्निधत्ते ॥ (*yadūrdhvaṃ yadaṃtarā diśo yatsarvaṃ prakāśayati tena sarvān prāṇān raśmiṣu sannidhatte ‖*) (Pra. 1-6)
+
+As soon as this sun, who is the breath of the world, rises and enters the eastern quarter, he gives life with his rays to all the breaths of that quarter. In the same way he enters the remaining quarters, south, west, north, the upward quarter and the intermediate quarters, with his rays, and makes all of them filled with breath.
+
+स एष वैश्वानरो विश्वरूपः प्राणोऽग्नि रुदयते । तदेतदृचाभ्युक्तं । (*sa eṣa vaiśvānaro viśvarūpaḥ prāṇo 'gni rudayate | tadetadṛcābhyuktaṃ |*) (Pra. 1-6)
+
+This Supreme Brahman, who bears the name Vaiśvānara Agni, takes all forms, and is the breath of the whole universe. This breath of the world is praised in this way.
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖*) (Pra. 1-8)
+
+This Supreme Brahman is of all forms, with a golden form, all-knowing, the goal of the life of all, the one light of the whole world, with many rays, who exists in many forms, the breath of the whole world. This sun, who is the form of the world's breath, rises and makes the whole universe full of consciousness. Because this breath is the nourisher of all the senses, all the senses of the body are subject to this breath and keep its rules. How? Thus:—
+
+प्राणो ब्रह्मेति ह स्माह काषीतकिः— तस्य ह वा एतस्य प्राणस्य ब्रह्मणो मनो दूतं चक्षुर्गॊप्तृ, श्रोत्रं संश्रावयितृ वाक्परिवेष्ट्री ...... .... .... .... .... तस्मै वा एतस्मै प्राणाय ब्रह्मण एतास्सर्वा देवतायाचमानाय बलिं हरंति ...... .... .... .... ॥ (*prāṇo brahmeti ha smāha kāṣītakiḥ— tasya ha vā etasya prāṇasya brahmaṇo mano dūtaṃ cakṣurgòptṛ, śrotraṃ saṃśrāvayitṛ vākpariveṣṭrī ...... .... .... .... .... tasmai vā etasmai prāṇāya brahmaṇa etāssarvā devatāyācamānāya baliṃ haraṃti ...... .... .... .... ‖*) (Kauṣītake. 2-1)
+
+"Breath is Brahman," said Kauṣītaki. For this breath, which is Brahman, the mind is the servant, the eye is the guardian, the ear is the means of making known, and speech is the housekeeping power. For the man who knows this truth, all the wealth of means such as servants is obtained. Mind, eye, ear and speech, these powers, even though he makes no request of any kind, offer to this Brahman, who is of the nature of breath, their service as an oblation. That is, the purport is that Brahman in the form of breath can exist without the help of the senses, but the senses cannot live without the help of this breath.
+
+### Printed p. 254
+
+To teach that the breath can be independent and that without breath none of the senses can live, an event in the form of a story is related in the Bṛhadāraṇyaka Upaniṣad in this way.
+
+ते हेमे प्राणा अहंश्रेयसे विवदमाना ब्रह्म जग्मुस्तद्धोचुः को नो वसिष्ठ इति तद्दोवाच यस्मिन्व उत्क्रांत इदं सरीरं पापीयो मन्यते स वो वसिष्ठ इति । (*te heme prāṇā ahaṃśreyase vivadamānā brahma jagmustaddhocuḥ ko no vasiṣṭha iti taddovāca yasminva utkrāṃta idaṃ sarīraṃ pāpīyo manyate sa vo vasiṣṭha iti |*) (Bṛ. U. 6-1-7)
+
+Once a dispute arose between speech and the other senses and the breath over their own individual superiority. Then they approached Prajāpati and begged him to say who among them was the best. In answer Prajāpati said: "Whichever of you, when he departs and leaves the body, makes the condition of all the others fail, he is the best among you." To test this they tried in this way.
+
+वाग्भोच्चक्राम । सा संवत्सरं प्रोष्यागत्योवाच कथमशकत महते जीवितुमिति ते होचुर्यथाकला अवदंतो वाचा प्राणंतः प्राणेन पश्यंतश्चक्षुषा शृण्वंतः श्रोत्रेण विद्वांसो मनसा प्रजायमाना रेतस्यॆवमजीविष्मेति प्रविवेश ह वाक् ॥ (*vāgbhoccakrāma | sā saṃvatsaraṃ proṣyāgatyovāca kathamaśakata mahate jīvitumiti te hocuryathākalā avadaṃto vācā prāṇaṃtaḥ prāṇena paśyaṃtaścakṣuṣā śṛṇvaṃtaḥ śrotreṇa vidvāṃso manasā prajāyamānā retasyèvamajīviṣmeti praviveśa ha vāk ‖*) (Bra. U. 6-1-8) **NOTE**
+
+Then speech left the body and went out. After remaining outside for a year, it came back and asked the other senses of the body how they had lived for this one year without it. They answered: "We lived dumb, without the help of speech, living by the breaths of inhalation and exhalation, seeing with the eyes, hearing with the ears, knowing everything with the mind, and begetting offspring with the seed." After they had said this, speech entered the body with dignity.
+
+In the same way, when the eye, the ear and the mind also each left the body and went out for a year, the other senses, without that one sense, carried on their work. The man remained alive. Whichever of them left the body, no kind of decay came to the remaining senses of the body. After that the breath wished to test its own distinction.
+
+अथ ह प्राण उत्क्रिमिष्यन्यथा महासुहयः सैंधवः पद्वीशशंकून् संवृहे- (*atha ha prāṇa utkrimiṣyanyathā mahāsuhayaḥ saiṃdhavaḥ padvīśaśaṃkūn saṃvṛhe-*)
+
+### Printed p. 255
+
+देवं हैवेमान् प्राणान् संववर्ह ते होचुर्मा भगव उत्क्रमीर्न वै रक्ष्यामस्त्वदृते जीवितुमिति तस्यो मे बलिं कुरुतेति तथेति ॥ (*devaṃ haivemān prāṇān saṃvavarha te hocurmā bhagava utkramīrna vai rakṣyāmastvadṛte jīvitumiti tasyo me baliṃ kuruteti tatheti ‖*) (Bṛ. U. 6-1-13)
+
+When the breath wished to test its own distinction and power, it began to leave the body. At once all the other senses became loose. As a fine horse of the Sindhu country, trying to run, shakes and pulls its rope and tears up together all the pegs that serve to bind its feet and starts off, so this breath loosened all the senses that depended on it, so that they would leave the body together with it. Then the senses begged: "O breath, do not leave us. We cannot live without you. You alone are the best of us all." Then the breath said to them: "If I am the best, offer me your service as an oblation." As soon as it asked, they agreed, saying "So be it." The Supreme Brahman is present in this form of breath, which is the lord of the senses and the nourisher of the senses. The same matter, that without it the other senses are of no use, is also stated in the Praśna Upaniṣad. This account is somewhat different from the one given above. How? Thus—
+
+अथ हैनं भार्गवो वैदर्भिः पप्रच्छ । भगवन् कत्येव देवाः प्रजां विधारयंते ? कतर एतत्पकाशयंते । कः पुनरेषां वरिष्ठ इति ॥ (*atha hainaṃ bhārgavo vaidarbhiḥ papraccha | bhagavan katyeva devāḥ prajāṃ vidhārayaṃte ? katara etatpakāśayaṃte | kaḥ punareṣāṃ variṣṭha iti ‖*) (Praśna. 2-1)
+
+"O revered one, which powers sustain this manifest world? Which are the powers that give light to this world? And which of them is the best?" Thus Bhārgava of the country of Vidarbha questioned Sippalāda. **NOTE** In answer Sippalāda spoke in this way.
+
+तस्मै स होवाच आकाशे ह वा एष देवो वायुरग्निरापः पृथिवी वाज्मनश्चक्षुश्योत्रं च । ते प्रकाश्याभिवदंति वयपेतद्बाणमुवप्पभ्य विधानयामः ॥ (*tasmai sa hovāca ākāśe ha vā eṣa devo vāyuragnirāpaḥ pṛthivī vājmanaścakṣuśyotraṃ ca | te prakāśyābhivadaṃti vayapetadbāṇamuvappabhya vidhānayāmaḥ ‖*) (Praśna. 2-2)
+
+Space is this power. Besides, air, fire, water, earth, speech, mind, eye and ear, all these are helpers. All of them give power to the world. Therefore they said: "All of us together keep this body firm; its support is from us." But the breath opposed this declaration and gave this reply.
+
+तान् वरिष्ठः प्राण उवाच । मा मोहमापद्यथ अहमेवैतत्पंचधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति तेश्रद्धधाना बभूपुः ॥ (*tān variṣṭhaḥ prāṇa uvāca | mā mohamāpadyatha ahamevaitatpaṃcadhātmānaṃ pravibhajyaitadbāṇamavaṣṭabhya vidhārayāmīti teśraddhadhānā babhūpuḥ ‖*) (Praśne. 2-3)
+
+### Printed p. 256
+
+The breath, which is the highest of them all, said to them: "O senses, give up your false pride that you are the supporters of the body and that the good state of the body is from you. I myself, dividing my own form into five parts in your forms, sustain the body." Then none of them believed this word. To make them believe, the breath made this attempt.
+
+सोऽभिमानादूर्ध्वमुत्क्रमत इव । तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामंते । तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रातिष्ठंते । तद्यथा मक्षिता मधुकरराजानमुत्क्रामंतं सर्वा एवोत्क्रामंते । तस्मिंश्च प्रतिष्ठमाने सर्वा एव प्रातिष्ठंत एवं वाङ्मनश्चक्षुःशोत्रं च ते प्रीताः प्राणं स्तुवंति ॥ (*so 'bhimānādūrdhvamutkramata iva | tasminnutkrāmatyathetare sarva evotkrāmaṃte | tasmiṃśca pratiṣṭhamāne sarva eva prātiṣṭhaṃte | tadyathā makṣitā madhukararājānamutkrāmaṃtaṃ sarvā evotkrāmaṃte | tasmiṃśca pratiṣṭhamāne sarvā eva prātiṣṭhaṃta evaṃ vāṅmanaścakṣuḥśotraṃ ca te prītāḥ prāṇaṃ stuvaṃti ‖*) (Praśna. 2-4)
+
+Then the breath, to show its might, rose upward to leave the body. With it the other senses also rose up. When it was established again in the body, the other senses also were established. As, when the king of the bees rises, the other bees settle down, so all of them, understanding the superiority of the breath, praised it for all the comings and goings of the breath, which is like a king. Explaining this same matter in the Bṛhadāraṇyaka, the greatness of the breath is stated in this way.
+
+अथातो व्रतमीमांसा प्रजापतिर्ह कर्माणि सस्यजे तानि सृष्टान्यन्नोन्येनास्पर्धंत वदिष्टाम्येवाहमिति वाग्दध्रॆ द्रक्ष्याम्यहमिति चक्षुः श्रोष्याम्यहमिति श्रोश्रमेवमन्यानि कर्माणि यथा कर्म तानि मृत्युः श्रमो भूत्वा उपयेमे तान्याप्नोत्तान्याप्ता मृत्युरनारुंध तस्माच्छाम्यत्येव वाक् श्राम्यति चक्षुः श्राम्यति श्रोत्रमथेममेव नाप्पोद्योऽयं मध्यमः प्राणस्तानि ज्ञातुं दधिरे । (*athāto vratamīmāṃsā prajāpatirha karmāṇi sasyaje tāni sṛṣṭānyannonyenāspardhaṃta vadiṣṭāmyevāhamiti vāgdadhrè drakṣyāmyahamiti cakṣuḥ śroṣyāmyahamiti śrośramevamanyāni karmāṇi yathā karma tāni mṛtyuḥ śramo bhūtvā upayeme tānyāpnottānyāptā mṛtyuranāruṃdha tasmācchāmyatyeva vāk śrāmyati cakṣuḥ śrāmyati śrotramathemameva nāppodyo 'yaṃ madhyamaḥ prāṇastāni jñātuṃ dadhire |*) अयं वै नः श्रेष्ठो यः संचरंश्चासंचरंश्च न व्यथतेऽथो न रिष्यति हंतास्यैव सर्वे रूपमसामेति त एतस्यॆव सर्वे रूपमभवंस्तस्मादेत एतेनाख्यायंते प्राणा इति तेन ह वाव तत्कुलमाचक्षते यस्मिन् कुले भवति य एवं वेद य उ हैवं विदा स्पर्धतेऽनुशुष्यत्यनुशुष्य हैवांततो म्रियत इत्यध्यात्मं ॥ (*ayaṃ vai naḥ śreṣṭho yaḥ saṃcaraṃścāsaṃcaraṃśca na vyathate 'tho na riṣyati haṃtāsyaiva sarve rūpamasāmeti ta etasyèva sarve rūpamabhavaṃstasmādeta etenākhyāyaṃte prāṇā iti tena ha vāva tatkulamācakṣate yasmin kule bhavati ya evaṃ veda ya u haivaṃ vidā spardhate 'nuśuṣyatyanuśuṣya haivāṃtato mriyata ityadhyātmaṃ ‖*) (Bṛ. U. 1-5-21)
+
+Prajāpati created the senses, which accomplish actions. As soon as they were created, rivalry arose among them. The eye said: "I am the one who sees"; speech said: "I am the one who speaks"; the ear said: "I am the one who hears." In the same way the other senses also, each
+
+### Printed p. 257
+
+displaying its own prowess, showed pride. Then death, the cause of weariness, caught them in its grip and took away their independence. Then the eye and the other senses all lost their vigour and were unable to carry on their actions. Death could not seize only the breath that stands in the middle and make it dependent. Then all the senses together, understanding their own weakness and the power of the breath, said: "This breath is more excellent than all of us. It is not subject to the harm of death," and considered all of them to be transformations of that breath. Since the breath is the chief of them all, the whole group of senses came to be called by the name of breath.
+
+एषोग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः । एष पृथिवी रयिर्देवः सदसच्चामृतं च यत् ॥ (*eṣognistapatyeṣa sūrya eṣa parjanyo maghavāneṣa vāyuḥ | eṣa pṛthivī rayirdevaḥ sadasaccāmṛtaṃ ca yat ‖*)
+
+This breath is Agni and burns in the form of fire. It is the sun. It is the god Parjanya, the giver of wealth. It is the earth. It is the earthly wealth. All the principles, both what is and what is not, are this itself. It is eternal.
+
+आरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । यचो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ (*ārā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | yaco yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ‖*) (Praśna. 2-6)
+
+As all the spokes of a wheel are joined in the hub of the wheel, all the principles of the universe are established in this breath. The Ṛk, the Yajus, the Sāman, the sacrifice, the warrior power, and all the speech and all the powers called Brahman rest on this breath and are established here.
+
+इंद्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता । त्वमंतरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः ॥ (*iṃdrastvaṃ prāṇa tejasā rudro 'si parirakṣitā | tvamaṃtarikṣe carasi sūryastvaṃ jyotiṣāṃ patiḥ ‖*) (Gra. 2-9) **NOTE**
+
+O Prajāpati, who are of the nature of breath, you alone are the lord of the whole world (the creator), you alone are Rudra, and radiant you alone are the protector. You alone move in the sky in the form of the sun. You alone are the universal light, the original form of all lights.
+
+Thus the principle that is described as the producer and the nourisher of the whole body, which consists of the group of senses, is described in the Upaniṣads and elsewhere as the all-pervading principle of light. That is what Sāyaṇa has stated in explaining the second purport of the epithet चक्षुषः पिता (*cakṣuṣaḥ pitā*).
+
+चक्षुः ख्यापकं तेजः । तस्य उत्पादयिता। (*cakṣuḥ khyāpakaṃ tejaḥ | tasya utpādayitā|*) It is the light that is the means of knowledge and gives illumination.
+
 ---
 
-**Progress note:** Done through printed p. 250. Vol 29 pp. 245-250: end of Special Topics, Sūkta 82 (Viśvakarman), Ṛk 1 with bhāṣya and Special Topics
+**Progress note:** Done through printed p. 257. Vol 29 pp. 251-257: Prajapati creation from water, prana as Brahman (Upanishad passages), commentary on chakshusha pita
