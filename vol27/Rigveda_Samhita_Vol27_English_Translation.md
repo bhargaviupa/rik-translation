@@ -7825,6 +7825,108 @@ Introduction.
 
 It has already been said that the Ṛgveda has ten maṇḍalas in all. The first maṇḍala and the last, the tenth, resemble each other in many respects. In both these maṇḍalas there are many different seers. Therefore, since the seers of the first maṇḍala are the seers of about a hundred or more Ṛks each, the seers of that maṇḍala are well known as śatarcins. In this tenth maṇḍala there are long sūktas at the beginning and after, and small sūktas at the end, so it is well known as the maṇḍala of great sūktas and small sūktas. In both maṇḍalas the number of sūktas is 191. In both, various deities are praised. In these and similar matters the two maṇḍalas resemble each other. But in this tenth maṇḍala, besides many sūktas useful for śrauta and smārta rites, there are also many sūktas that set forth profound philosophical reflection. Such sūktas
 
+### Printed p. 178
+In these hymns there are also many that discuss profound matters: how the universe, the world, came into being; what the state was before creation; the question of the self and the not-self; the question of the supreme Brahman; the question of heaven and hell. Besides this, many hymns of this same Maṇḍala, beginning with the Puruṣa-sūkta, which contain the principles of the Vedānta and have won the respect of the people, are found here. Hence the excellence and usefulness of this Maṇḍala are evident.
+
+Because the objects of worship in some of the very small hymns of this Maṇḍala are seen here and there to be inanimate things, some Western scholars hold that the hymns of this Maṇḍala are not so ancient, and that the praise of inanimate things from the notion that they are deities, a custom come into use only lately, is the proof of this. This opinion is not sound, and it has no proper support. Since all the hymns of the Ṛgveda are arranged in a certain order, various subjects may be described in some of the last hymns. It is not reasonable to say on that ground alone that this Maṇḍala is not ancient.
+
+An account of the seers in the tenth Maṇḍala, and of the hymns and Ṛks seen by them—
+
+Table (columns: No.; Name of the seer; Maṇḍala; Sūkta; Number of Ṛks; Total number of Ṛks):
+
+1. Triśirā Tvāṣṭra — 1.105 **NOTE** (19); 8.47 **NOTE** (18); 9.33 **NOTE** (6); 9.34 **NOTE** (6); 9.102 **NOTE** (8); 10.1 **NOTE** (7); 10.2 **NOTE** (7); 10.3 **NOTE** (7); 10.4 **NOTE** (7); 10.5 **NOTE** (7); 10.6 **NOTE** (7).
+2. Triśirā Tvāṣṭra — 10.8 **NOTE** (9); total 106.
+3. Yama Vaivasvata — 10.9 **NOTE** (9); total 18; 10.10 **NOTE** (8: Ṛks 2, 4, 6, 8, 9, 10, 12); 10.14 **NOTE** (16); total 24.
+
+### Printed p. 179
+Table (continued):
+
+4. Yamī Vaivasvatī — 10.10 **NOTE** (6: Ṛks 1, 3, 5, 7, 11, 13).
+5. Āṅgirasa Havirdhāna — 10.154 **NOTE** (5); total 11; 10.12 (9); 10.13 **NOTE** (5); total 23.
+6. Śaṅkha Yāmāyana — 10.15 **NOTE** (14); total 14.
+7. Damana Yāmāyana — 10.16 **NOTE** (14); total 14.
+8. Devaśravā Yāmāyana — 10.17 **NOTE** (14); total 14.
+9. Saṅkusuka Yāmāyana — 10.18 **NOTE** (14); total 14.
+10. Mathita Yāmāyana — 10.19 **NOTE** (8); total 8.
+11. Aindra Ṛda — 10.20 **NOTE** (10).
+12. Aindra Vasukra — 10.21 **NOTE** (8); 10.22 **NOTE** (15); 10.23 **NOTE** (7); 10.24 **NOTE** (10); 10.25 **NOTE** (11); 10.26 **NOTE** (9); total 66.
+13. Vasukra's wife Indrasnuṣā (a woman seer) — 10.27 **NOTE** (24).
+14. Indra the seer — 10.28 **NOTE** (8); total 38.
+15. Kavaṣa Ailūṣa — 10.28 **NOTE** (1); total 1; 10.28 **NOTE** (5: Ṛks 2, 6, 8, 10, 12), 5; 10.30 **NOTE** (15); 10.31 **NOTE** (11); 10.32 **NOTE** (9); 10.34 **NOTE** (14); total 58. (Akṣa Maujavāna?)
+Uśo Dhānāka — 10.35 **NOTE** (14); 10.36 **NOTE** (14); total 28.
+
+### Printed p. 180
+Table (continued):
+
+17. Saurya Abhitapā — 10.37 **NOTE** (12); total 12.
+18. Muṣkavān Indra — 10.38 **NOTE** (5); total 5.
+19. Kākṣīvatī Ghoṣā (a woman seer) — 10.39 **NOTE** (14).
+20. Suhasta Ghauṣeya — 10.40 **NOTE** (14); total 28; 10.41 **NOTE** (3); total 3.
+21. Kṛṣṇa Āṅgirasa — 8.85 **NOTE** (9); 8.86 **NOTE** (5); 8.87 **NOTE** (6); 10.42 **NOTE** (11); 10.43 **NOTE** (11).
+22. Vatsapri Bhālandana — 10.44 **NOTE** (11); total 53; 9.68 **NOTE** (10); 10.45 **NOTE** (12).
+23. Saptagu Āṅgirasa — 10.46 **NOTE** (10); total 32; 10.47 **NOTE** (8); total 8; 10.48 **NOTE** (11); 10.50 **NOTE** (7); total 29.
+25. Saucika Agni — 10.51 **NOTE** (4: Ṛks 2, 4, 6, 8); 10.52 **NOTE** (6); 10.53 **NOTE** (2: Ṛks 4, 5); 10.59 **NOTE** (7).
+26. The Devas — 10.51 **NOTE** (5: Ṛks 1, 3, 5, 7, 9); 10.53 **NOTE** (9: Ṛks 1–3, 6–11), 14.
+27. Bṛhaduktha Vāmadevya — 10.54 **NOTE** (6); 10.55 **NOTE** (8); 10.56 **NOTE** (7); total 21.
+
+### Printed p. 181
+Table (continued):
+
+28. Bandhu, Śrutabandhu, Viprabandhu, the Gaupāyanas — 10.57 **NOTE** (6); 10.58 **NOTE** (12); 10.59 **NOTE** (10); 10.60 **NOTE** (12); total 40.
+Nābhānediṣṭha Mānava — 10.61 **NOTE** (23).
+29. Same — 10.62 **NOTE** (11); total 38. Gaya Plāta — 10.63 **NOTE** (13).
+30. Same — 10.64 **NOTE** (13); total 34. Vasukarṇa Vāsukra — 10.65 **NOTE** (15).
+31. Same — 10.66 **NOTE** (15); total 30. Āyāsya Āṅgirasa — 9.44 **NOTE** (6); 9.45 **NOTE** (6); 9.46 **NOTE** (6).
+33. Same — 10.67 **NOTE** (12); total 42. Sumitra Vādhryaśva — 10.69 **NOTE** (12); 10.70 **NOTE** (11); total 23. Bṛhaspati Āṅgirasa — 9.39 **NOTE** (6); 9.40 **NOTE** (6); 10.31 **NOTE** (11).
+35. Same — 10.72 **NOTE** (9); total 9. Bṛhaspati Laukya — 5.29 **NOTE** (15). Gauravīti Śākti — 9.108 **NOTE** (2: Ṛks 1, 2). Same — 10.73 **NOTE** (11).
+37. Sindhukṣit Praiyamedha — 10.75 **NOTE** (9); total 9.
+38. Sarpa Airāvata Jaratkarṇa — 10.76 **NOTE** (8); total 8.
+
+### Printed p. 182
+Table (continued):
+
+39. Syūmaraśmi Bhārgava — 10.77 **NOTE** (8).
+40. Viśvakarman Bhauvana — 10.78 **NOTE** (8); total 16; 10.82 **NOTE** (7); total 14.
+41. Manyu Tāpasa — 10.83 **NOTE** (7).
+42. Sāvitrī Sūryā, a woman seer — 10.84 **NOTE** (7); total 14; 10.85 **NOTE** (47); total 47.
+43. Indra — 8.165 **NOTE** (8: Ṛks 1, 2, 4, 6, 8, 10–12); 10.170 **NOTE** (3: Ṛks 1, 3, 4); 4.18 **NOTE** (1½: Ṛk 1 and the latter half of Ṛk 4); 10.26 **NOTE** (3: Ṛks 1–3); 8.100 **NOTE** (2: Ṛks 4, 5); 10.86 **NOTE** (9: Ṛks 1, 8, 11, 12, 14, 19–22); total 26½.
+44. Aindra Vṛṣākapi — 10.86 **NOTE** (3: Ṛks 7, 13, 23); 3.
+45. Indrāṇī — 10.86 **NOTE** (11: Ṛks 2–6, 9, 10, 15–18).
+46. Pāyu Bhāradvāja — 10.145 **NOTE** (6); total 17; 10.87 **NOTE** (25); total 44.
+47. Āṅgirasa Mūrdhanvān (or Vāmadevya) — 10.88 **NOTE** (19); total 19.
+48. Reṇu Vaiśvāmitra — 9.70 **NOTE** (10); 10.89 **NOTE** (18); total 28.
+49. Nārāyaṇa — 10.90 **NOTE** (16); total 16.
+50. Aruṇa Vaitahavya — 10.91 **NOTE** (15); total 15.
+51. Śāryāta Mānava — 10.92 **NOTE** (15); total 15.
+52. Tānya Pārtha — 10.93 **NOTE** (15); total 15.
+53. Arbuda Kādraveya Sarpa — 10.94 **NOTE** (14); total 14.
+54. Aila Purūravas — 10.95 **NOTE** (9: Ṛks 1, 3, 6, 8–10, 12, 14, 17); 9.
+
+### Printed p. 183
+Table (continued):
+
+55. Urvaśī, a woman seer — 10.95 **NOTE** (9: Ṛks 2, 4, 5, 7, 11, 13, 15, 16, 18); 9.
+56. Baru Āṅgirasa (or Sarvahari Aindra) — 10.96 **NOTE** (13); 13.
+57. Bhiṣaj Ātharvaṇa — 10.97 **NOTE** (23); 23.
+58. Devāpi Ārṣṭiṣeṇa (desirous of rain) — 10.98 **NOTE** (12); 12.
+59. Vamra Vaikhānasa — 10.99 **NOTE** (12); 12. [The printed name reads वमो (*vamo*).]
+60. Duvasyu Vāndana — 10.100 **NOTE** (12); 12.
+61. Budha Saumya — 10.101 **NOTE** (12); 12.
+62. Mudgala Bhārmyaśva — 10.102 **NOTE** (12); 12.
+63. Apratiratha Aindra — 10.103 **NOTE** (13); 13.
+64. Aṣṭaka Vaiśvāmitra — 10.104 **NOTE** (11); 11.
+65. Kautsa Durmitra (or Sumitra) — 10.105 **NOTE** (11); 11.
+66. Bhūtāṃśa Kāśyapa — 10.106 **NOTE** (11); 11.
+67. Divya Āṅgirasa (or Dakṣiṇā Prājāpatyā) — 10.107 **NOTE** (11); 11.
+68. The Paṇis, Asuras — 10.108 **NOTE** (5: Ṛks 1, 3, 5, 7, 9).
+69. Saramā Devaśunī (a woman seer) — 10.101 **NOTE** (6: Ṛks 2, 4, 6, 8, 10, 11).**NOTE**
+70. Juhū Brahmajāyā (or Brāhma Ūrdhvanābhā) — 10.109 **NOTE** (7); 7.
+71. Jamadagni Bhārgava (or Jāmadagnya Rāma) — 8.101 **NOTE** (16); 9.102 **NOTE** (30); 9.105 **NOTE** (30); 9.107 **NOTE** (3: Ṛks 16–18).**NOTE**
+72. Aṣṭādaṃṣṭra Vairūpa — 10.111 **NOTE** (10); 10.
+73. Nabhaḥprabhedana Vairūpa — 10.112 **NOTE** (10); 10.
+74. Śataprabhedana Vairūpa — 10.113 **NOTE** (10); 10.
+75. Saddhi Vairūpa — 10.114 **NOTE** (10); 10.
+
 ---
 
-**Progress note:** Done through printed p. 176. pp. 171-176 (batch API)
+**Progress note:** Done through printed p. 183. pp. 178-183 (batch API)
