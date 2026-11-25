@@ -12940,6 +12940,287 @@ This ape has spoiled the oblation, prepared by the sacrificers for me, Indrāṇ
 ##### English translation
 The ape has spoiled the beloved ghi-adorned (oblations) made to me (by worshippers); let me quickly cut off his head, let me not be the giver of happiness to one who works evil; Indra is above all (the world).
 
+### Printed p. 465
+
+##### विशेषविषयगळु (Special Topics)
+
+Kapiḥ: the commentator explains this word as वृषाकर्पेर्विषये वर्तमानः कश्चित् कपिः (*vṛṣākarperviṣaye vartamānaḥ kaścit kapiḥ*), that is, some wicked ape living in the realm of Vṛṣākapi. And with अस्य शिरो नु क्षिप्रं राविषं—तत्कपिस्वामिनो वृषाकपेः शिरः लुनीयां । (*asya śiro nu kṣipraṃ rāviṣaṃ—tatkapisvāmino vṛṣākapeḥ śiraḥ lunīyāṃ |*) he means: therefore I shall cut off the head of this Vṛṣākapi, who is the master of that ape, says Indrāṇī. This too is seen in worldly practice. It is the custom to punish the owner of an animal for the evil deed done by the animal. For example, if a cow or a dog does harm to another person, it is common to bring the owner of that animal to punishment.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न मत्स्यी सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत् ।  
+> न मत्प्रति॑च्यवीयसी॒ न सक्थुद्य॑मीयसी॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । मत् । स्त्री । सुभसत्९तरा । न । सुयाशु९तरा । भुवत् ।  
+> न । मत् । प्रतिच्यवीयसी । न । सक्ति । उत्९यमीयसी । विश्वस्मात् । इंद्रः ।  
+> उत्९तरः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मन्मत्तोऽन्या स्त्री नारी सुभसत्तरातिशयेन सुभगा न भुवत् । न भवति ।
+> नास्तित्यर्थः । किंच मत्तोऽन्या स्त्री सुयाशुतरातिशयेन सुसुखातिशयेन सुपुत्रा
+> वा न भवति । तथा च मंत्रांतरं । ददाति मह्यं यादुरी याशूनां भोज्या
+> शता । ऋ. १-१२६-६ । इति । किंच मन्मत्तोऽन्या प्रतिच्यवीयसी पुमांसं प्रति
+> शरीरस्यात्यंतं च्यावयित्रि नास्ति । किंच मत्तोऽन्या स्त्री सक्तुद्यमायसी
+> संभोगेऽत्यंतमुत्कृष्टेनास्ति । न मत्तोऽन्या काचिदपि नारी मैथुनेऽनुगुणं
+> सक्तुद्यच्छतीत्यर्थः । मम पतिरिंद्रो विश्वस्मादुत्तरः । उत्कृष्टः ॥
+
+##### Gist of the bhāṣya
+
+Another woman than I, स्त्री (*strī*), is not सुभसत्तरा (*subhasattarā*), exceedingly fortunate: there is none. Further, no other woman than I is exceedingly happy, सुयाशुतरा (*suyāśutarā*), or else the mother of good sons. In this sense another mantra says ददाति मह्यं यादुरी याशूनां भोज्या शता (*dadāti mahyaṃ yādurī yāśūnāṃ bhojyā śatā*) (Ṛ. 1-126-6) **GLOSS**. Further, no other woman than I is प्रतिच्यवीयसी (*praticyavīyasī*), one who, in relation to a man, exceedingly causes the body to be moved. Further, no other woman than I is सक्तुद्यमायसी (*saktudyamāyasī*), one who is exceedingly excellent in union; that is, no other woman at all offers her thigh in a manner suited to the union. My husband Indra is above all, superior. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मत् (*mat*)—than me
+- सुभसत्तरा (*subhasattarā*)—possessing greater good fortune
+- स्त्री (*strī*)—woman!
+- न भुवत् (*na bhuvat*)—there is none at all
+- सुयाशुतरा (*suyāśutarā*)—a greater giver of happiness
+- न (*na*)—there is none that exceeds me
+
+### Printed p. 466
+
+- मत् (*mat*)—than me
+- प्रतिच्यवीयसी (*praticyavīyasī*)—one who agrees with her husband
+- न (*na*)—there is no other
+- सक्षि (*sakṣi*)—when husband and wife are together
+- उद्यमीयसी (*udyamīyasī*)—one of greater compliance than I
+- न (*na*)—there is no other
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is the most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+There is no woman more fortunate than I. There is none who gives more happiness. There is no other woman beyond me who agrees with her husband and, when husband and wife are together, follows her husband's wish. Indra is the most excellent, above the whole world.
+
+##### English translation
+There is no woman more amiable than I am, nor one who bears fairer sons than I ; nor one more tractable nor one more ardent; Indra is above all (the world),
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒वे अं॑ब सुलाभिके॒ यथे॑वां॒ग भ॑वि॒ष्यति॑ ।  
+> भ॒सन्ने॑ अंब॒ सक्ति॑ मे॒ शिरो॑ मे॒ वी॑व हृष्यति॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उवे । अंब । सुलाभिके : यथा इव । अंग । भविष्यति ।  
+> बसत् । मे । अंब । सक्ति । मे । शिरः । मे । विइव । हृष्यति । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमिंद्राण्या शप्पो वृषाकपिर्ब्रवीति । उवे इति संबोधनार्थो निपातः ।
+> हे अंब मातः सुलाभिके शोभनलाभे त्वया यथैव येन प्रकारेणैवोक्तं
+> तथैव तदंग क्षिप्रं भविष्यति । भवतु । किमनेन त्वदनुप्रीतिकारिणा ग्रहेण मम
+> प्रयोजनं । किंच मे मम पितुस्त्वदीयो भसद्भग उपयुज्यतां । किंच मम
+
+##### Gist of the bhāṣya
+
+Thus addressed by Indrāṇī in anger, Vṛṣākapi speaks. उवे (*uve*) is a particle in the sense of address. O mother (अंब (*aṃba*)), सुलाभिके (*sulābhike*), one of fair gain: in just the manner in which you have spoken, so it will quickly (अंग (*aṃga*)) be. Let it be so; what use have I of this seizing of yours that works your pleasure? Further, let your भसद्भग (*bhasadbhaga*) be put to use for my father, and your सक्कि (*sakki*) be put to use as well.
+
+### Printed p. 467
+
+> पितुस्त्वदीयं सक्कि चोपयुज्यतां । किंच मे मम पितरमिंद्रं त्वदीयं शिरश
+> प्रियालापेन वीव यथा कोकिलादिः पक्षी तद्वद्धृष्यति। हर्षयतु। मम पितेंद्रो
+> विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+Further, your head delights, हृष्यति (*hṛṣyati*), my father Indra with pleasing speech, as a cuckoo or other such bird does (वीव (*vīva*)); let it delight him. My father Indra is above all, superior. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुलाभिके (*sulābhike*)—one who graciously bestows with ease
+- उवे अंब (*uve aṃba*)—O mother
+- यथैव (*yathaiva*)—just as you have said
+- अंग (*aṃga*)—quickly
+- भविष्यति (*bhaviṣyati*)—let it come to pass
+- अंब (*aṃba*)—mother
+- सक्ति (*sakti*)—while you are with your husband
+- मे (*me*)—my father Indra
+- भसत् (*bhasat*)—let him enjoy happiness with you
+- वीव (*vīva*)—like a bird
+- शिरः (*śiraḥ*)—your head
+- मे (*me*)—my father Indra
+- हृष्यति (*hṛṣyati*)—let it delight
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is the most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O mother, who bestow favour with ease, let it be fulfilled quickly just as you have said. While you are with your husband, let my father Indra enjoy happiness with you. Let your head delight my father Indra like a bird. Indra is the most excellent, above the whole world.
+
+##### English translation
+[ Vrishakapi speaks ] : O mother, who are easy of access, it wil quickly be as (you have said) ; may my (father) and you, mother, be uni- ted ; may it delight my (father) and your head like a bird : Indra is above all (the world).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं सु॑बाहो स्वंगुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने ।  
+> किं शू॑रपत्नि न॒स्त्वम॒भ्य॑मीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । सुबाहो इति सुबाहो । सुअंगुरे । पृथुस्तो इति पृथुस्तो  
+> पृथुजघने ।  
+> किं । शूरपत्नि । नः । त्वं । अभि । अमीषि । वृषाकपिं । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ ८ ॥
+
+### Printed p. 468
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्रुद्धामिंद्र उपशमयति । हे सुबाहो हे शोभनबाहो स्वंगुरे
+> शोभनांगुलिके पृथुष्टो पृथुकेशसंघाते पृथुजघने विस्तीर्णजघने शूरपत्नि
+> वीरभार्ये हे इंद्राणि त्वं नोऽस्मदीयं वृषाकपिं किमर्थमभ्यमीषि ।
+> अभिक्रुद्धसि । एकः किंशब्दः । यस्य पितेंद्रोऽहं विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+Indra pacifies her who is angry. O fair-armed one (सुबाहो (*subāho*)), O fair-fingered one (स्वंगुरे (*svaṃgure*)), O you of a broad mass of hair (पृथुष्टो (*pṛthuṣṭo*)), O broad-hipped one (पृथुजघने (*pṛthujaghane*)), O wife of a hero (शूरपत्नि (*śūrapatni*)), O Indrāṇī: why are you angry (अभ्यमीषि (*abhyamīṣi*)) with our Vṛṣākapi? The word किं (*kiṃ*) is one only. I, Indra, whose father I am, am above all, superior.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुबाहो (*subāho*)—you of excellent arms
+- स्वंगुरे (*svaṃgure*)—you of fine fingers
+- पृथुष्टो (*pṛthuṣṭo*)—you of a full mass of hair
+- पृथुजघने (*pṛthujaghane*)—you of broad hips
+- शूरपत्नि (*śūrapatni*)—O Indrāṇī, wife of a hero
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—our son
+- वृषाकपिं (*vṛṣākapiṃ*)—with regard to Vṛṣākapi
+- किं अभ्यमीषि (*kiṃ abhyamīṣi*)—why are you angry
+- इंद्रः (*iṃdraḥ*)—I, the lord of the world
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—am the most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Indrāṇī, you of excellent arms, of fine fingers, of a full mass of hair, of broad hips, wife of a hero: why are you angry with my son Vṛṣākapi? I, the lord of the world, am the most excellent, above the whole world.
+
+##### English translation
+[ Indra speaks : ] You who have beautiful arms,who have beautiful fingers, long-haired, broad-hipped, why are you angry with our Vrisha-kapi, O you wife of a hero ; Indra is above all (the world).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते ।  
+> उ॒ताहम॑स्मि वी॒रिणींद्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवीरां इव । मां । अयं । शरारुः । अभि । मन्यते ।  
+> उत । अहं । अस्मि । वीरिणी । इंद्रपत्नी । मरुत्त्सखा । विश्वस्मात् । इंद्रः ।  
+> उत्त्सतरः ॥ ९ ॥
+
+### Printed p. 469
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनरिंद्रमिंद्राणी ब्रवीति । शरारुर्घातुको मृगोऽयं वृषाकपिर्मामिंद्राणीमवीरामिवाभि मन्यते । विजानाति । उतापि चेंद्रपत्नींद्रस्य भार्याहमिंद्राणी वीरिणी पुत्रवती मरुत्सखा मरुद्भियुक्ता चास्मि । भवामि । यस्या
+> मम पतिरिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+Indrāṇī again speaks to Indra. This शरारुः (*śarāruḥ*), a destructive beast, Vṛṣākapi, regards (अभि मन्यते (*abhi manyate*)), that is, takes me, Indrāṇī, as if one without a hero. And I am Indra's wife (इंद्रपत्नी (*iṃdrapatnī*)), I am वीरिणी (*vīriṇī*), one who has sons, and I am मरुत्सखा (*marutsakhā*), joined with the Maruts. My husband Indra is above all, superior.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शरारुः (*śarāruḥ*)—this Vṛṣākapi, a destructive beast
+- अयं (*ayaṃ*)—this
+- मां (*māṃ*)—me
+- अवितां इव (*avitāṃ iva*)—as one without the protection of a hero (thinking)
+- अभि मन्यते (*abhi manyate*)—speaks with contempt
+- उत (*uta*)—in truth
+- अहं (*ahaṃ*)—I
+- इंद्रपत्नि (*iṃdrapatni*)—am the wife of Indra, the hero
+- वीरिणी (*vīriṇī*)—and have heroic sons
+- मरुत्सखा (*marutsakhā*)—and am joined with the Maruts
+- अस्मि (*asmi*)—am
+- इंद्रः (*iṃdraḥ*)—my husband Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+This Vṛṣākapi, a wicked beast, thinks of me as one without the protection of a hero and speaks with contempt. But Indra, the hero, is my husband. I have heroic sons. The heroic Maruts are my friends. My husband Indra is greater than the whole world.
+
+##### English translation
+Indrani speaks : ] This savage beast (Vrishakapi) despises me as one who has no male (protector), and yet I am the mother of male off-spring, the wife of Indra, the friend of the Maruts; Indra is above all (the world).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं॒हो॒त्रं स्म॑ पु॒रा नारी॒ सम॑नं॒ वाव॑ गच्छति ।  
+> वे॒धा ऋ॒तस्य॑ वी॒रिणेंद्र॑पत्नी महीयते॒ विश्व॑स्मा॒दिंद्र॒ उत्त॑रः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संहोत्रं । स्म । पुरा । नारी । समनं । वा । अव । गच्छति ।
+
+### Printed p. 470
+
+> वेधाः । ऋतस्य । वीरिणी । इंद्रपत्नी । महीयते । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ १८ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नारी स्त्रैतस्य सत्यस्य वेधा विधात्रि वीरिणी पुत्रवतींद्रपत्नींद्रस्य भार्येंद्राणी संहोत्रं स्म समीचीनं यज्ञं खलु समनं वा संग्रामं । समनमिति
+> संग्रामनामसु पाठात् । अव प्रति पुरा गच्छति । महीयते । स्तोतृभिः स्तूयते
+> च । तस्या मम पतिरिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+The woman, नारी (*nārī*), Indrāṇī, is the maker (वेधा (*vedhā*)) of this truth, वीरिणी (*vīriṇī*), one who has sons, and इंद्रपत्नी (*iṃdrapatnī*), the wife of Indra. She goes (गच्छति (*gacchati*)) forward (पुरा (*purā*)) to the संहोत्रं (*saṃhotraṃ*), a good sacrifice, and to the समनं (*samanaṃ*), battle, since समनमिति संग्रामनामसु पाठात् (*samanamiti saṃgrāmanāmasu pāṭhāt*), the word samana is read among the names of battle. She is honoured (महीयते (*mahīyate*)), that is, praised by the praisers. My husband Indra is above all, superior.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of truth
+- विधात्रि (*vidhātri*)—the maker
+- वीरिणी (*vīriṇī*)—one who has heroic sons
+- इंद्र पत्नि (*iṃdra patni*)—who is also the wife of Indra
+- नारी (*nārī*)—Indrāṇī
+- संहोत्रं स्म (*saṃhotraṃ sma*)—to a good sacrifice
+- समनं वा (*samanaṃ vā*)—or to battle
+- अव (*ava*)—facing
+- पुरा (*purā*)—before all
+- गच्छति (*gacchati*)—goes
+- महीयते (*mahīyate*)—there is praised by the praisers
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+Indrāṇī, the maker of truth, mother of heroic sons and wife of Indra, goes before all, whether to a good sacrifice or to battle. There she is praised by the praisers. Indra is greater than the whole world.
+
+##### English translation
+The mother who is the institutress of the ceremony, the mother of male offspring, the wife of Indra, goes first to the united sacrifice, to battle (and) is honoured (by the praisers); Indra is above all (the world).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इं॒द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवं ।  
+> न॒ह्य॑स्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥११॥
+
 ---
 
-**Progress note:** Done through printed p. 464. pp. 458-464: Rk 1 special topics, Rks 2-5 of sukta 86
+**Progress note:** Done through printed p. 470. Sūkta 86 Ṛks 6-11 (Vṛṣākapi hymn), pp. 465-470
