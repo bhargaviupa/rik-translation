@@ -16340,6 +16340,223 @@ As the Taittirīya Āraṇyaka says, Aditi has eight sons: Mitra, Varuṇa, Dhā
 The son of this Vivasvat is Yama. It is customary to call him king. Because Yama is lord of the world of the Pitṛs, and because it is explained that Varuṇa also is there, it is the usage to call both Yama and Varuṇa kings.
 संगमनं जनानां (*saṃgamanaṃ janānāṃ*)—Because he takes the dead beings to his own world and gathers and keeps them together there, संगमनं जनानां (*saṃgamanaṃ janānāṃ*) has the sense of one who assembles people in one place
 
+### Printed p. 459
+(The first lines continue the sentence from the previous page.) Yama is described by these words. *Saṅgamanam* means the place to be reached, that is, the region where living beings must go and gather. It may be heaven or hell: for the virtuous it is to be understood as heaven, for the sinful as hell.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒मो नो॑ गा॒तुं प्र॑थ॒मो वि॑वेद॒ नैषा गव्यू॑ति॒रप॑भर्त॒वा  ॑
+> उ ।  
+> यत्रा॑ नः॒ पूर्वे॑ पि॒तरः॑ परे॒युरे॒ना ज॑ज्ञा॒नाः प॒थ्या॒३॒॑ ३ अनु॒  
+> स्वाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमः । नः । गातुं । प्रथमः । विवेद । न । एषा । गव्यूतिः । अपभर्तवै । ऊं इति ।  
+> यत्र । नः । पूर्वे । पितरः । पराईयुः । एना । जज्ञानाः । पथ्याः । अनु । स्वाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमः सर्वेषां मुख्यो यमो नोऽस्माकं प्रजानां गारुशुभाशुभनिमित्तं विवेद । जानाति । एषा गव्यूतिर्नापभर्तवा उ । अतिशयज्ञानयोगाद्यमस्य
+> न केनचिदपहर्तुमपनेतुं शक्यत इत्यर्थः । यत्र यस्मिन्मार्गे नोऽस्माकु पूर्वे
+> पितरः परेयुः एनानेन मार्गेण गच्छंतो जज्ञाना जाताः सर्वॆ स्वाः स्वभूताः
+> पथ्याः स्वकर्ममार्गभूता गतीरनु गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+Yama, first, that is chief of all, knows for us, his subjects, the road of what is auspicious and inauspicious. "This pasture is not to be taken away": because of Yama's surpassing knowledge, no one can take it from him or remove it. On the road by which our forefathers went, going along it, all who are born follow their own paths, the courses that are the road of their own actions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमः (*prathamaḥ*)—chief of all
+- यमः (*yamaḥ*)—Yama
+- नः (*naḥ*)—our
+- गातुं (*gātuṃ*)—the path of travel
+- विवेद (*viveda*)—has known
+- एषा गव्यूतिः (*eṣā gavyūtiḥ*)—this fruitful road
+- न अपभर्तवै (*na apabhartavai*)—not to be taken away by others
+- यत्र (*yatra*)—on whichever road that accords with action
+- नः (*naḥ*)—our
+- पूर्वे पितरः (*pūrve pitaraḥ*)—all the earlier forefathers
+- परेयुः (*pareyuḥ*)—went after death
+- एना (*enā*)—on just such roads
+- जज्ञानः (*jajñānaḥ*)—all who are born
+- स्वाः (*svāḥ*)—their own individual
+- पथ्याः (*pathyāḥ*)—roads that are the fruit of action
+- अनु (*anu*)—following, they go
+
+### Printed p. 460
+
+##### भावार्थ (Bhāvārtha)
+
+Yama, chief of all, knows our paths of travel. This fruitful road is not to be taken away by others. On the roads that accord with action, by which all our earlier forefathers went after death, on just those roads all who are born go, following their own individual fruits of action.
+
+##### English translation
+Yama, the chief (of all), knows our well-being : this pasture no one can take from us. By the road by which our forefathers have gone, all who are born (proceed) along the paths they have made for themselves.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yamaḥ naḥ gātuṃ prathamaḥ viveda—for the word प्रथमः (*prathamaḥ*) in this sentence the commentator, following Yāska's explanation, takes "प्रथमः (*prathamaḥ*)" to mean "the chief one". But Western scholars such as Muir take the word as an indeclinable and explain that Yama was the first to find the way to the world of the fathers: "Yama was the first who found for us the way. This home is not to be taken from us. Those who are now born (follow) by their own paths to the place whither our ancient fathers departed." So he says.
+
+Eṣā gavyūtiḥ apabhartavai u—अतिशयज्ञानयोगात् यमस्य न केनचिदपहर्तुं शक्यत इत्यर्थः । (*atiśayajñānayogāt yamasya na kenacidapahartuṃ śakyata ityarthaḥ |*) The commentator has given no explanation of the word गव्यूतिः (*gavyūtiḥ*) in this sentence. Elsewhere he explains the word gavyūti as अतिविस्तृतं मार्गं (*ativistṛtaṃ mārgaṃ*). That meaning may be given here too; or it may be taken to mean the excellent place that is under Yama's lordship.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मात॑ली क॒व्यैर्य॒मो अंगि॑रोभि॒र्बृह॒स्पति॒र्ऋक्व॑भिर्वावृधा॒नः ।  
+> यांश्च॑ दे॒वा वा॑वृ॒धुर्ये च॑ दे॒वान्त्स्नाहा॒न्ये स्व॒धया॒न्ये  ॑
+> मदंति ॥ ३ ॥
+
+### Printed p. 461
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ पदसाक्षि ॥  
+> मातली कव्यैः । यमः । अंगिरभिः । बृहस्पतिः । यक्वभिः । ववृधानः ।  
+> यान् । च । देवाः । ववृधुः । ये ! च । देवान् । स्वाहा । अन्ये । स्वधया । अन्ये ।  
+> मदंति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमारुते मातली कव्यैरित्येषा धाय्या । सूत्रितं च । इमं यम
+> प्रस्तरमा हि सीद मातली कव्यैर्यमो अंगिरोभिरुदीरतामवर उत्परासः ।
+> आ. ५-२० । इति.
+> मातली । मातलिरिंद्रस्य सारथिः । तद्वानिंद्रो मातली । स कव्यैः कव्यभाग्भिः
+> पितृभिः सह ववृधानो वर्धमानो भवति । यमश्चांगिरोभिः पितृविशेषैः सह
+> वर्धमानो भवति ।........। तत्र देवा इंद्रादयो यांश्च कव्यभागादीन्पित्थन्ववृधुः
+> वर्धयंति ये च कव्यभागादयः पितरो देवानिंद्रादीन्वर्धयंति तेषां मध्येऽन्य
+> इंद्रादयः स्वाहा मदंति । स्वाहाकारेण हृष्यंति । अन्ये पितरः स्वधया स्वधाकारेण हृष्यंति ॥
+
+##### Gist of the bhāṣya
+
+The verse मातली कव्यैः (*mātalī kavyaiḥ*) is a dhāyyā in the Agnimāruta (śastra). It is stated in the sūtra: इमं यम प्रस्तरमा हि सीद मातली कव्यैर्यमो अंगिरोभिरुदीरतामवर उत्परासः । (*imaṃ yama prastaramā hi sīda mātalī kavyairyamo aṃgirobhirudīratāmavara utparāsaḥ |*) (Ā. 5-20). Mātali is Indra's charioteer; Indra who has him is Mātalī. He prospers together with the Kavyas, the fathers who share in kavya. Yama prospers together with the Aṅgirases, a special class of fathers. The gods, Indra and the rest, augment those fathers who share in kavya and so on, and those fathers augment the gods, Indra and the rest; among them some, Indra and the others, rejoice at the svāhā; the other fathers rejoice at the svadhā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातली (*mātalī*)—Indra
+- कव्यैः (*kavyaiḥ*)—with the fathers who share in kavyas
+- ववृधानः (*vavṛdhānaḥ*)—attains growth
+- यमः (*yamaḥ*)—Yama
+- अंगिरोभिः (*aṃgirobhiḥ*)—attains growth with the Aṅgirases
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- ऋक्वभिः (*ṛkvabhiḥ*)—is strengthened with the praisers
+- देवाः (*devāḥ*)—the gods, Indra and others
+- यांश्च (*yāṃśca*)—whichever fathers
+- ववृधुः (*vavṛdhuḥ*)—they cause to grow
+- ये च (*ye ca*)—and whichever fathers
+- देवान् (*devān*)—cause the gods, Indra and others, to grow; among them
+- अन्ये (*anye*)—one group of gods
+- स्वाहा (*svāhā*)—partaking of the oblation offered with "स्वाहा (*svāhā*)"
+- मदंति (*madaṃti*)—attain delight
+- अन्ये (*anye*)—another group, the fathers
+- स्वधया (*svadhayā*)—are delighted with the kavyas offered in the form of svadhā
+
+##### भावार्थ (Bhāvārtha)
+
+Indra attains growth together with the fathers who share in kavyas, Yama with the Aṅgirases, and Bṛhaspati with the praisers. Among those whom the gods, Indra and others, cause to grow, and those fathers who are the cause of the growth of the gods, Indra and others, one group, the gods, partake of the oblation offered with "स्वाहा (*svāhā*)" and attain delight. The other group, the fathers, are delighted with the offerings made in the form of svadhā.
+
+### Printed p. 462
+
+##### English translation
+Matalin prospers with the Kavyas; Yama with the Angirasas; Brihaspati with the Rikwans; they whom the gods augment, and they who augment the gods, these rejoice in Swaha, those in the Swadha.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agnimāruta śastra mantras this Ṛk, "मातली कव्यैः (*mātalī kavyaiḥ*)", is to be recited as a dhāyyā mantra; this is explained by the sūtra of the Āśvalāyana Śrautasūtra, इमं यम प्रस्तरमा हि सीद मातली कव्यैर्यमो अंगिरोभिरुदीरतामवर उत्परासः (*imaṃ yama prastaramā hi sīda mātalī kavyairyamo aṃgirobhirudīratāmavara utparāsaḥ*) (Ā. 5-20).
+
+Mātalī—Mātali is well known as Indra's charioteer. Mātalī means Indra, who has the charioteer Mātali.
+
+Kavyaiḥ—kavya is the food offered to the fathers. The food offered to the gods is called havis or havya.
+
+In this Ṛk it is said that the gods increase the fathers and the fathers the gods. Three kinds of fathers are also indicated here. The fathers worthy of kavya, or who consume kavya (कव्यभाग्भिः (*kavyabhāgbhiḥ*)), gain growth together with Indra. The fathers called Aṅgirases grow together with Yama. The fathers called Ṛkvas (praisers) are increased together with Bṛhaspati. Having indicated the three kinds of fathers, the seer then declares the rule of how havya and kavya are to be offered to gods and fathers. As in the Śruti sentence स्वाहा देवेभ्यः स्वधा पितृभ्य इत्याह (*svāhā devebhyaḥ svadhā pitṛbhya ityāha*), when the oblation is offered to the gods with the utterance of svāhā, and when kavya is offered to the fathers preceded by the word svadhā, they are pleased; so the seer declares.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं य॑म प्रस्त॒रमा हि सीदांगि॑रोभिः पि॒तृभिः॑ संविदा॒नः ।  
+> आ त्वा॒ मंत्राः॑ कविश॒स्ता व॑हंते॒ना रा॑जन्ह॒ विषा॑ मादयस्व ॥४॥
+
+### Printed p. 463
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । यम । प्रस्तरं। आ । हि । सीद । अंगिरःभिः । पितृभिः । संविदानः ।  
+> आ । त्वा । मंत्राः । कविशस्त्राः । वहंतु । एना । राजन् । हविषा । मादयस्व ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे यमस्यॆमं यमेत्यादिके द्वे अनुवाक्ये । इमं यम
+> प्रस्तरमा हि सिदेति द्वे । आ. २-१९ । इति हि सूत्रितं ॥ सैषाग्निमारुतेऽपि धाय्या ।
+> सूत्रं पूर्वमेवोदाहृतं ॥
+> हे यम अंगिरोभिरेतन्नामकैः पितृभिः संविदान ऐकमत्यं गतस्त्वमिमं
+> प्रस्तरं विस्तीर्णं यज्ञविशेषमा सीद । आगत्योपविश हि यस्मादेवं तस्मात्कविशस्ता
+> विद्वद्भिर्युत्विग्भिः प्रयुक्ता मंत्रास्त्वा त्वामा वहंतु । हे राजन् एनैतेन हविषा
+> तुष्टो मादयस्व । यजमानं हर्षय ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, "इमं यम (*imaṃ yama*)" and the following are the two anuvākyās of Yama; the sūtra says इमं यम प्रस्तरमा हि सीदांगिरोभिः पितृभिः संविदानः । आ त्वा मंत्राः कविशस्ता वहंतेना राजन्ह विषा मादयस्व ॥४॥ इमं । यम । प्रस्तरं। आ । हि । सीद । अंगिरःभिः । पितृभिः । संविदानः । आ । त्वा । मंत्राः । कविशस्त्राः । वहंतु । एना । राजन् । हविषा । मादयस्व ॥ ४ ॥ महापितृयज्ञे यमस्यॆमं यमेत्यादिके द्वे (*imaṃ yama prastaramā hi sīdāṃgirobhiḥ pitṛbhiḥ saṃvidānaḥ | ā tvā maṃtrāḥ kaviśastā vahaṃtenā rājanha viṣā mādayasva ‖4‖ imaṃ | yama | prastaraṃ| ā | hi | sīda | aṃgiraḥbhiḥ | pitṛbhiḥ | saṃvidānaḥ | ā | tvā | maṃtrāḥ | kaviśastrāḥ | vahaṃtu | enā | rājan | haviṣā | mādayasva ‖ 4 ‖ mahāpitṛyajñe yamasyèmaṃ yametyādike dve*) (Ā. 2-19). This verse is also a dhāyyā in the Agnimāruta (śastra); the sūtra was quoted earlier. O Yama, agreed with the fathers named Aṅgirases, sit down at this spread-out sacrifice, the prastara. Since it is so, let the mantras uttered by the wise priests bring you. O king, delighted with this oblation, gladden the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यम (*yama*)—O god Yama
+- अंगिरोभिः (*aṃgirobhiḥ*)—with the fathers called Aṅgirases
+- पितृभिः (*pitṛbhiḥ*)—with the fathers
+- संविदान? (*saṃvidāna?*)—united
+- प्रस्तरं इमं (*prastaraṃ imaṃ*)—on this sacrificial seat widely spread
+- आ सीद (*ā sīda*)—sit down
+- हि (*hi*)—therefore
+- कविशस्ताः (*kaviśastāḥ*)—recited by the poets
+- मंत्राः (*maṃtrāḥ*)—the praise-mantras
+- त्वा (*tvā*)—you
+- आ वहंतु (*ā vahaṃtu*)—let them bring here
+- राजन् (*rājan*)—Yama, the lord
+- एना हविषा (*enā haviṣā*)—satisfied with these oblations
+- मादयस्व (*mādayasva*)—gladden the sacrificer too
+
+##### भावार्थ (Bhāvārtha)
+
+O god Yama, united with the fathers called Aṅgirases, sit down on this widely spread seat. Let the praise-mantras recited by the poets bring you here. O Yama, lord, satisfied with these oblations, gladden the sacrificer too.
+
+##### English translation
+Yama, who are associated with the Angirasa Pitris, sit down at this Sacrifice; may the prayers recited by the priests bring you hither; be exhilarated, Sovereign (Yama), by this oblation.
+
+### Printed p. 464
+
+##### विशेषविषयगळु (Special Topics)
+
+In the homa made to Yama in the Mahāpitṛyajña, this Ṛk "इमं यम (*imaṃ yama*)" and the Ṛk that follows it are to be recited as anuvākyā mantras; this is explained by the sūtra of the Āśvalāyana Śrautasūtra, इमं यम प्रस्तरमा हि सीदेति द्वे (*imaṃ yama prastaramā hi sīdeti dve*) (Ā. 2-19). The sūtra sentence has been given earlier, that this mantra is also to be recited as a dhāyyā mantra in the Agnimāruta śastra mantras.
+
+Prastaram—प्रस्तरं-विस्तीर्णं यज्ञविशेषं । (*prastaraṃ-vistīrṇaṃ yajñaviśeṣaṃ |*) Come and sit at this sacrifice that is proceeding at length; or the meaning is: come and sit on the darbha grass called barhis, spread here as a seat for this sacrifice.
+
+O Yama, in this sacrifice now going on in your honour, the priests are reciting mantras and invoking you. Hearing their invocation, graciously come to this our sacrifice together with the Aṅgirases and the fathers, sit on the seat of darbha prepared here, and, satisfied with the oblation we offer, gladden the sacrificer too. This is the main purport of this Ṛk.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंगि॑रोभि॒रा ग॑हि य॒ज्ञिये॑भि॒र्यम॑ वैरू॒पैरि॒ह मा॑दयस्व ।  
+> विव॑स्वंतं हुवे॒ यः पि॒ता ते॒ऽस्मिन्य॒ज्ञॆ ब॒र्हिष्या नि॒षद्य॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंगिरःभिः । आ । गहि । यज्ञियेभिः । यम । वैरूपैः । इह । मादयस्व ।  
+> विवस्वंतं । हुवे । यः । पिता । ते । अस्मिन् । यज्ञे । बर्हिषि । आ । निऽसद्य ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यम वैरूपैर्विविधरूपयुक्तैर्वैरूपसामप्रियैर्वा यज्ञियेभिर्यज्ञयोग्यैरंगिरोभिः सहा गहि । आगच्छ । अगत्य चेहास्मिन्यज्ञे मादयस्व ।'
+> यजमानं हर्षय । यो विवस्वांस्ते तव पितास्ति अस्मिन्यज्ञे तं विवस्वंतं हुवे ।
+> आह्वयामि । स चास्त्रीर्णे बर्हिष्या निषद्योपविश्य यजमानं हर्षयतु ॥
+
+##### Gist of the bhāṣya
+
+O Yama, come with the Aṅgirases, who are fit for sacrifice and who are of many forms or fond of the Vairūpa sāman. Having come, rejoice here in this sacrifice; gladden the sacrificer. Vivasvān, who is your father, I invoke in this sacrifice. Let him too sit down on the spread barhis and gladden the sacrificer.
+
 ---
 
-**Progress note:** Done through printed p. 458. pp. 453-458 (batch API)
+**Progress note:** Done through printed p. 464. pp. 459-464 (batch API)
