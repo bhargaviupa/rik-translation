@@ -70,7 +70,7 @@ def parse(src):
             if new: parent = i
             ev.append((kind, i, new, parent)); lastkind = kind; prose = False; continue
         s = l.strip()
-        if s and s != '---' and not LABEL.match(s) and 'ಋಗ್ವೇದಸಂಹಿತಾ' not in s and 'ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ' not in s and not s.startswith('xxv') and not s.startswith('<!--') and not re.match(r'^\[?\s*(xxv)?\.?\s*[0-9A-Za-z೦-೯]{1,4}\s*\]?\.?$', s):
+        if s and s != '---' and not LABEL.match(s) and 'ಋಗ್ವೇದಸಂಹಿತಾ' not in s and 'ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ' not in s and not s.startswith('xxv') and not s.startswith('<!--') and not (len(s) < 90 and re.search(r'ಮಂ\.\s*[೦-೯]|ಸೂ\.\s*[೦-೯]|ವ\.\s*[೦-೯]', s)) and not re.match(r'^\[?\s*(xxv)?\.?\s*[0-9A-Za-z೦-೯]{1,4}\s*\]?\.?$', s):
             prose = True
     return L, ev
 
