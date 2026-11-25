@@ -16,7 +16,7 @@ Check: the supplied text has a `---` line after every printed page; from the mar
 By Sonnet agents, one per batch of three windows, no Batch API (`docs/prompts/VOL29_AGENT_PROMPT.md`, as Vol 24). Conventions in `volcfg.json` as Vol 24.
 
 ## Status
-Prepared Nov 25 2026; `audit 29` at "done through printed p. 0". No window translated yet.
+Done through printed p. 193 after 10 agent batches (Nov 25 2026; Sūktas 72–81 present in order, Ṛk headings run without gap; `audit 29` passes; `check_labels.py 29`: 249 English blocks = 249 Kannada blocks, 0 under another section's label). 142 NOTE marks, 48 GLOSS marks. About 2.0M agent tokens (`parts/batch_costs.md`), 180–225k per batch. Known open: the marker of printed p. 167 is missing (its running head is garbled and was not marked; its text stands under p. 166), to be repaired with the other marker repairs at the end (`check_page_markers.py 29`). Heads whose numbers disagree with the marker (9, 58, 86, 98, 126) look like OCR slips of the head, to be checked against the `---` chunks at the end.
 
 ## Open items
 1. (dispatcher) Preface to be translated separately into `work/preface/en.md` (finishing job; installing it is a logged repair with the user's yes).

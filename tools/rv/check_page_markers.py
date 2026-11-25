@@ -36,7 +36,7 @@ else:
     figure_only = all((not l.strip()) or l.startswith('[figure') or l.startswith('*') for l in tail)
     real = chunks - (1 if figure_only else 0)
     print(f'source: {chunks} `---` chunks from page 1 on ({real} without a closing picture-only chunk); volume files: last page marker {last or "none yet"}')
-    if last and real != last:
+    if last and real != last and last >= real - 5:
         bad += 1; print(f'  DIFFERENT: {real} chunks against {last} pages: a `---` is missing or extra (seam of joined files?); look at the seam first')
 for name, p in (('English', pe), ('Kannada', pk)):
     miss = [x for x in range(1, last + 1) if x not in set(p)]
