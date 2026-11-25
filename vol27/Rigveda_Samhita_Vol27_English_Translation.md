@@ -21347,6 +21347,256 @@ At the decline of the day they have placed me (in the grave) like the feathers o
 
 In this Ṛk Prajāpati is prayed to. Since there is no Sāyaṇa-bhāṣya for this Ṛk, we have written here the commentary on this Ṛk, collected and printed at the end of page 33 of the fourth volume of the Ṛgveda with commentary published by the Vaidika Saṃśodhana Maṇḍala of Poona. It is not Sāyaṇa's commentary. It cannot be said who wrote it.
 
+### Printed p. 623
+## Sūkta 19 (Maṇḍala 10)
+
+The end of the sixth adhyāya is marked here: the sixth adhyāya in the seventh aṣṭaka of the Ṛgveda Saṃhitā, with Sāyaṇa's bhāṣya and a Kannada translation, is completed. Then follows the opening of the next adhyāya: the seventh adhyāya in the seventh aṣṭaka; the nineteenth sūkta in the tenth maṇḍala.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ द्वादशानुवाकात्मकस्य दशममंडलस्य द्वितीयेऽनुवाके त्रयोदश
+> सूक्तानि । तत्र निवर्तध्वमित्यष्टर्चं तृतीयं सूक्तं । अस्य यमपुत्रो मथिताख्य
+> ऋषिर्वरुणपुत्रो भृगुर्वाथवा भार्गवश्चवनः । षष्ठी गायत्रि शिष्टा अनुष्टुभः ।
+> इदमद्भवताकं गोदेवताकं वा । अग्निषोमा पुनर्वसू इत्यर्धर्चोऽग्नीषोमदेवताकः । कथा चानुक्रांतं। नि वर्तध्वमष्टौ मथितो भृगुर्वा वारुणिर्भार्गवश्चवनो पापं गव्यं वानुष्टुभमग्नीषोमीयो द्वितीयोऽर्थर्चः षष्ठि
+> गायत्रीति ॥ गतो विनियोगः ॥
+> xxvii 40
+
+##### Gist of the bhāṣya
+
+The tenth maṇḍala consists of twelve anuvākas. Its second anuvāka contains thirteen sūktas. Of these, the third is the sūkta of eight ṛks beginning निवर्तध्वं (*nivartadhvaṃ*). Its seer is Mathita, son of Yama; or else Bhṛgu, son of Varuṇa; or Cyavana, descendant of Bhṛgu. The sixth ṛk is in Gāyatrī metre and the rest are in Anuṣṭubh. The deity is the waters or the cows. The second half of the first ṛk, अग्नीषोमा पुनर्वसू (*agnīṣomā punarvasū*), has Agni and Soma as its deities. He confirms this by the Anukramaṇī. The viniyoga has already been stated.
+
+### Printed p. 626
+
+The Anuvāda: this tenth maṇḍala has twelve anuvākas, and its second anuvāka has thirteen sūktas. The first two of these were explained in the previous adhyāya. The sūkta now explained, नि वर्तध्वं (*ni vartadhvaṃ*), is the third sūkta of the second anuvāka. It has eight ṛks. Its seer is Mathita, son of Yama; or the seer Bhṛgu, son of Varuṇa; or Cyavana, son of Bhṛgu, may also be the seer. The sixth ṛk of this sūkta is in Gāyatrī metre and the remaining ṛks are in Anuṣṭubh. Its deity is the waters or the cows; for the second half of the first ṛk, beginning अग्नीषोमा पुनर्वसू (*agnīṣomā punarvasū*), the deities are Agni and Soma. The Anukramaṇī is cited as saying the same. The viniyoga was stated earlier.
+
+Sūkta 19. Maṇḍala 10; Anuvāka 2; Sūkta 19. Aṣṭaka 7; Adhyāya 7; Varga 1. Number of ṛks in the sūkta: 8.
+
+Ṛṣi: Mathita Yāmāyana; or Bhṛgu Vāruṇi; or Cyavana Bhārgava.
+
+Devatā: of ṛk 1, the first half, and of ṛks 2–8: the waters or the cows. Of ṛk 1, the second half: Agni and Soma.
+
+Chandas: ṛks 1–5 and 7–8: Anuṣṭubh. Ṛk 6: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि व॑र्तध्वं॒ मानु॑ गाता॒स्मान्सि॑षक्त रेवतीः ।  
+> अग्नी॑षोमा पुनर्वसू अ॒स्मे धा॑रयतं र॒यिं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । वर्तर्ध्वं । मा । अनु । गात । अस्मान् । सिसक्त । रेवतीः ।  
+> अग्नीषोमा । पुनर्वसू इति पुनःवसू । अस्मे इति । धारयतं । रयिं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गावो हे आपो वा यूयं नि वर्तर्ध्वं । अस्मान्प्रत्यागच्छत । मानु
+> गात । अस्मद्वृतिरिक्तं यजमानं मा गच्छत । अगत्य च हे रेवती रेवत्यो धन_
+
+##### Gist of the bhāṣya
+
+He addresses the cows or the waters: "Turn back (नि वर्तध्वं (*ni vartadhvaṃ*)); come back to us. Do not go to a sacrificer other than us." Then, not going away, "O wealthy ones (रेवतीः (*revatīḥ*)), you who possess wealth, …".
+
+### Printed p. 627
+
+> वत्यो यूयमस्मान्सिषक्त । सेचयत । अवगाहत । गोदोहनस्नानपानादिद्वारेण सेवध्वमित्यर्थः ! हे पुनर्वसू! पुनःपुनर्वस्तारौ स्तोत्थाणां यष्ट्णणामाच्छादयितारावेतन्नामकौ देवौ युवामस्मे अस्मासु रयिं व्रीह्यादिलक्षणं
+> धनं धारयतं । स्थापयतं ॥
+
+##### Gist of the bhāṣya
+
+"…you, the wealthy ones, सिषक्त (*siṣakta*) us": that is, sprinkle us, bathe us; the meaning is, serve us by way of milking, bathing, drinking and the like. "O Punarvasu": two deities of this name, who again and again are givers of wealth (or, as he also explains, coverers of the worshippers and praisers); "you two hold, establish, in us the wealth (रयिं (*rayiṃ*)) that consists of rice and the like."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नि वर्तध्वं (*ni vartadhvaṃ*)—(O cows) turn back
+- मानु गात (*mānu gāta*)—do not go to another sacrificer
+- रेवतीः (*revatīḥ*)—you who are endowed with wealth
+- अस्मान् (*asmān*)—to us
+- सिसक्त (*sisakta*)—pour out milk
+- पुनर्वसू (*punarvasū*)—you who again and again give dwelling to the sacrificers (or, who clothe them with garments and the like)
+- अग्नीषोमा (*agnīṣomā*)—O deities Agni and Soma
+- अस्मे (*asme*)—in us
+- रयिं (*rayiṃ*)—wealth
+- धारयतं (*dhārayataṃ*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O cows, return to us. Do not go to another sacrificer. Wealthy as you are, pour out milk for us. O Agni and Soma, who again and again clothe the sacrificers with garments and the like, establish wealth in us.
+
+##### English translation
+Come back : go not elsewhere; abounding in wealth, sprinkle us ; Agni and Soma, you who clothe (your worshippers) again, bestow upon us riches.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॑रेना॒ नि व॑र्तय॒ पुन॑रेना॒ न्या कु॑रु ।  
+> इंद्र॑ एणा॒ नि य॑च्छत्व॒ग्निरे॑ना उ॒पाज॑तु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । एनाः । नि । वर्तय । पुनः । एनाः । नि । आ । कुरु ।  
+> इंद्रः । एनाः । नि । यच्छतु । अग्निः । एनाः । उपअजतु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> : अत्र मंत्रद्रष्टा स्मात्मानं प्रतिब्रूते । हे मदीयात्मन् त्वमेना एता
+> अन्यतोऽभिगंत्रिर्गा अपो वा पुनर्निवर्शय । पुनःपुनर्मदभिमुखीकुरु ।
+
+##### Gist of the bhāṣya
+
+Here the mantra-seer addresses his own self: "O my self, turn these cows (or waters), who are being drawn from elsewhere, back again; again and again make them face me."
+
+### Printed p. 628
+
+> तदनंतरमेना एताः पुनर्भूयो भूयो न्या कुरु । नियता आत्मायत्ताः कुरु ।
+> किंचेंद्रोऽपि तव सहायभूतः सन्नेना एता नि यच्छतु । त्वदायत्ताः करोतु ।
+> अग्निश्चैना एता गा अपो वोपाजतु । उपगमयतु । उपक्षिपतु ना । उपयोग्याः करोश्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+After that, "make these again and again subject, make them restrained and dependent on yourself. Moreover, let Indra also, being your helper, restrain them and make them dependent on you. And let Agni bring these cows or waters near": that is, make them come near, throw them near; the meaning is, make them fit for use.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एनाः (*enāḥ*)—these cows
+- पुनः (*punaḥ*)—again
+- नि वर्तय (*ni vartaya*)—make them turn back
+- एनाः (*enāḥ*)—these
+- पुनः (*punaḥ*)—again
+- न्या कुरु (*nyā kuru*)—make them subject
+- इंद्रः (*iṃdraḥ*)—Indra
+- एनाः (*enāḥ*)—these
+- नि यच्छतु (*ni yacchatu*)—let him make them subject to us
+- अग्निः (*agniḥ*)—Agni also
+- एनाः (*enāḥ*)—these
+- उपाजतु (*upājatu*)—let him make them useful to us
+
+##### भावार्थ (Bhāvārtha)
+
+Make these cows turn back again. Make them subject again. Let Indra make them subject to us. Let Agni also make them useful to us.
+
+##### English translation
+Bring them back again, render them obedient: may Indra restore them; may Agni bring them nigh.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॑रे॒ता नि व॑र्तंताम॒स्मिन्पु॑ष्यंतु॒ गोप॑त् ।  
+> इ॒हैवाग्ने॒ नि धा॑रये॒ह ति॑ष्ठतु॒ या र॒यिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । एताः । नि । वर्तंतां । अस्मिन् । पुष्यंतु । गोऽपतौ ।  
+> अह । एव । अग्ने । नि । धारय । इह । शिष्ठतु । या । रयिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एना एता ईदृश्यो गाव आपो वा पुनर्नि वर्तंतां । भूयो भूयो
+> मां प्रत्यागच्छंतु । अगत्य च गोपत् सास्नादिमतीनां धेनूनां वृष्टिलक्षणाना-
+
+##### Gist of the bhāṣya
+
+"May these cows, or waters, of this kind turn back again; may they come back to me again and again. And having come, in this one who is the protector (गोपत् (*gopat*)) of milch cows, with udders, and of the waters in the form of rain …".
+
+### Printed p. 629
+
+> मपां पालकेऽस्मिन्नीदृशे मयि पुष्यंतु । आत्मायत्तत्वेन स्थित्वा पुष्टा भवंतु ।
+> पुष्टाः सतीस्ता हे अग्ने त्वमिहैवास्मिन्नेव मयि नि धारय । नियमेन स्थापय ।
+> या रयिर्यदपि व्रीह्यादिकं धनमस्ति तदपि धनं गोसहितमिहास्मिन्नेव गोपता
+> मयि शिष्ठतु हनिवसतु ॥
+
+##### Gist of the bhāṣya
+
+"… may they thrive in me, such a protector; staying dependent on themselves, may they become fat. Being nourished, O Agni, hold them here, in me alone; establish them firmly. Whatever wealth there is, such as rice and the like, let that wealth also, together with cows, remain here, in me alone, the protector of cows; let it dwell."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एताः (*etāḥ*)—these cows
+- पुनः नि वर्तंतां (*punaḥ ni vartaṃtāṃ*)—let them come back to me again
+- गोपत् (*gopat*)—(me) the nourisher of cows
+- अस्मिन् (*asmin*)—in me
+- पुष्यंतु (*puṣyaṃtu*)—let them grow
+- अग्ने (*agne*)—O Agni
+- इहैव (*ihaiva*)—in me alone
+- नि धारय (*ni dhāraya*)—establish those cows permanently
+- या रयिः (*yā rayiḥ*)—whatever well-known wealth there is, of cows and the like
+- इह (*iha*)—in me alone
+- तिष्ठतु (*tiṣṭhatu*)—let it stay permanently
+
+##### भावार्थ (Bhāvārtha)
+
+Let these cows come back to me again. Let them grow in me, the nourisher of cows. O Agni, establish those cows in me alone, permanently. Let whatever well-known wealth of cows and the like there is remain in me alone, permanently.
+
+##### English translation
+May they come back to me and be fostered under this (their) protector : do you, Agni, keep them here; may whatever wealth (there is) remain here,
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यन्नि॒यानं॒ न्यय॑नं सं॒ज्ञानं॒ यत्प॒राय॑णं ।  
+> आ॒वर्त॑नं नि॒वर्त॑नं॒ यो गो॒पा अपि॒ तं हु॑वे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । निऽयानं । निऽअयनं । संज्ञानं । यत् । पराऽअयनं ।  
+> आवर्तनं । निवर्तनं । यः । गोपाः । अपि । तं । हुवे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नियानं ॥ अधिकरणे ल्युट् ॥ नियमेन यत्यागच्छंति गावोऽत्रेति नियानं
+> गोष्ठाख्यं स्थानं । यत् अस्तीति शेषः । यच्छब्दयोगात्तच्छब्दोऽध्याहर्तव्यः ।
+
+##### Gist of the bhāṣya
+
+नियानं (*niyānaṃ*) is formed with the affix lyuṭ in the locative sense: the place called the cowpen, where the cows regularly come. The words यत् अस्तीति (*yat astīti*) are to be supplied ("which there is"), and because of the word यत् (*yat*) the word तत् (*tat*) must be supplied.
+
+### Printed p. 630
+
+> हुव इति क्रियापदं सर्वत्रानुषज्यते । तत्स्थानं हुवे । आह्वयामि । आह्वानमभिमुखीकरणं तेन चात्र तत्पूर्विका प्रार्थना लक्ष्यते । गोसहितं गोष्ठं प्रार्थय
+> इत्यर्थः । न्ययनं ॥ भावे ल्युट् ॥ नियमेन गृहं प्रति प्राप्तिलक्षणं गमनं
+> यदस्ति तदपि प्रार्थये । निवर्तनं वने चरित्वा गृहं प्रति यदागमनमस्ति तदपि
+> प्रार्थये । योऽपि गोपा गवां पालकोऽस्ति तमपि हुवे । प्रार्थये ।
+> सर्वगुणोपेता गाः प्रार्थय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The verb हुवे (*huve*) is carried on to every item: "I invoke that place," that is, I call it. Calling is making it face one, and thereby a prayer preceded by that is meant here: the meaning is "I pray for the cowpen together with its cows." न्ययनं (*nyayanaṃ*) is formed with lyuṭ in the sense of the action: the going, which consists of arriving regularly at the house, "that too I pray for." निवर्तनं (*nivartanaṃ*): after grazing in the forest, the coming back to the house, "that too I pray for." And whoever is the keeper (गोपा (*gopā*)) of the cows, "him too I invoke, I pray to"; the meaning is, "I pray for cows endowed with every good quality."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नियानं यत् (*niyānaṃ yat*)—whatever movement of those cows there is, that also
+- नयनं (*nayanaṃ*)—the returning also
+- संज्ञानं (*saṃjñānaṃ*)—the knowledge of their whereabouts also
+- यत् परायणं (*yat parāyaṇaṃ*)—their going back again (to graze) also
+- आवर्तनं (*āvartanaṃ*)—their moving about there also
+- निवर्तनं (*nivartanaṃ*)—their coming back home from there also, I pray for
+- यः गोपाः (*yaḥ gopāḥ*)—whoever is the protector of those cows
+- तं अपि (*taṃ api*)—him also
+- हुवे (*huve*)—I pray to
+
+##### भावार्थ (Bhāvārtha)
+
+When they are out of sight, I pray for knowledge of the movement of those cows, for their coming back to us from out of sight, for their going back again to graze, for their moving about there among them, and for their coming back home from there. I pray also to whoever is the protector of those cows.
+
+##### English translation
+I invoke the knowledge of the place, of their going of their coming, of their departure, of their wandering, of their returning : (I invoke) him who is their keeper.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒दान॒ड्वय॑नं॒ य उ॒दान॑ट्प॒राय॑णं ।  
+> आ॒वर्त॑नं नि॒वर्त॑न॒मपि॑ गो॒पा नि व॑र्ततां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उत्आनट् । विअयनं । यः । उत्आनट् । पराअयनं ।  
+> आवर्तनं । निवर्तनं । अपि । गोपाः । नि । वर्ततां ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 622. pp. 617-622 (batch API)
+**Progress note:** Done through printed p. 630. pp. 623-630 (batch API)
