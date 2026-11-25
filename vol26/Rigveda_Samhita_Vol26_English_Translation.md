@@ -982,6 +982,112 @@ Here the account of the order of the Unnīyamāna sūktas ends.
 
 Now he will explain the nature of the prasthita yājyā mantras that the seven Hotṛs recite at the time of the Prātaḥsavana. After the recitation of the Unnīyamāna sūkta, the seven Ṛtvijs recite the prasthita yājyā mantras. Earlier
 
+### Printed p. 57
+
+said, यज्ञो ना ऐंद्रः (*yajño nā aiṃdraḥ*), that is, the sacrifice has Indra as its deity. Therefore it is proper that at the times of the savanas the mantras addressed to Indra should be recited. But now, among the seven Hotṛs, the mantras recited by only two Ṛtvijs, the Hotṛ and the Brāhmaṇācchaṃsī, have Indra as their deity. The mantras recited by the other five Ṛtvijs do not have Indra as their deity; they have other deities. How? The Hotṛ recites the Ṛk इदं ते सोम्यं (*idaṃ te somyaṃ*) (Ṛ. Saṃ. 8-65-8). This is the yājyā mantra recited by the Hotṛ. The words जुषाण इंद्र (*juṣāṇa iṃdra*) in the third pāda of this Ṛk directly address and praise Indra. In the yājyā mantra इंद्र त्वा वृषभं (*iṃdra tvā vṛṣabhaṃ*) (Ṛ. Saṃ. 3-40-1) recited by the Ṛtvij called Brāhmaṇācchaṃsī, the word Indra is plainly recited in the very first pāda. Therefore it is settled that the yājyā mantras recited by these two Ṛtvijs, the Hotṛ and the Brāhmaṇācchaṃsī, have Indra as their deity. But the five yājyā mantras recited by the other five Ṛtvijs have various deities; they do not have Indra as their deity. Is this not strange?
+
+मित्रं वयं हवामह इति मैत्रावरुणो यजति वरुणं सोमपीतय इति. (*mitraṃ vayaṃ havāmaha iti maitrāvaruṇo yajati varuṇaṃ somapītaya iti.*)
+
+यद्वै किंच पीतवत्पदं तद्वैंद्रं रूपं तेनेंद्रं प्रीणाति । (*yadvai kiṃca pītavatpadaṃ tadvaiṃdraṃ rūpaṃ teneṃdraṃ prīṇāti |*)
+
+That is, he gives the answer to this. Even though the Ṛks recited by the other five Ṛtvijs have deities other than Indra, there is a reason for regarding them as having Indra as their deity. How? In the yājyā mantra recited by the Maitrāvaruṇa, मित्रं वयं हवामहे (*mitraṃ vayaṃ havāmahe*) (Ṛ. Saṃ. 1-23-4), there are the words वरुणं सोमपीतये (*varuṇaṃ somapītaye*). Indra has a great fondness for drinking Soma. Since words used for the purpose of drinking Soma give pleasure to Indra, the Ṛks in which those words are used may be regarded as having Indra as their deity. Since the expression सोमपीतये (*somapītaye*) is used in the present Ṛk, this mantra gives pleasure to Indra. A mantra that is pleasing to Indra must be thought of as having Indra as its deity.
+
+मरुतो यस्य हि क्षय इति पोता यजति स सुगोपातमो जन इतींद्रो वै गोपास्तदैंद्रं रूपं तेनेंद्रं प्रीणाति । (*maruto yasya hi kṣaya iti potā yajati sa sugopātamo jana itīṃdro vai gopāstadaiṃdraṃ rūpaṃ teneṃdraṃ prīṇāti |*)
+
+The Ṛtvij called Potṛ recites the yājyā mantra मरुतो यस्य हि क्षये (*maruto yasya hi kṣaye*) (Ṛ. Saṃ. 1-86-1). In the third pāda of this mantra there is the word गोपा (*gopā*). Since guardianship, that is, protecting, belongs to Indra, who is all-capable, the recitation of this Ṛk gives pleasure to Indra.
+
+अग्ने पत्नीरिहावहेति नेष्टा यजति त्वष्टारं सोमपीतय इतींद्रो वै त्वष्टा तदैंद्रं रूपं तेनेंद्रं प्रीणाति । (*agne patnīrihāvaheti neṣṭā yajati tvaṣṭāraṃ somapītaya itīṃdro vai tvaṣṭā tadaiṃdraṃ rūpaṃ teneṃdraṃ prīṇāti |*)
+
+### Printed p. 58
+
+The Ṛtvij called Neṣṭṛ recites the yājyā mantra अग्ने पत्नीरिहावह (*agne patnīrihāvaha*) (Ṛ. Saṃ. 1-22-9). In this Ṛk the words त्वष्टारं सोमपीतये (*tvaṣṭāraṃ somapītaye*) are used. Here Tvaṣṭā means one who makes the enemies thin and defeats them without regarding them; since Indra does this, he is denoted by the word Tvaṣṭṛ. **NOTE** Therefore it follows that Indra is spoken of in this Ṛk.
+
+उक्षान्नाय वशान्नायेत्याग्नीध्रो यजति सोमपृष्टाय वेधस इतींद्रो वै वेधास्तदैंद्रं रूपं तेनेंद्रं प्रीणाति । (*ukṣānnāya vaśānnāyetyāgnīdhro yajati somapṛṣṭāya vedhasa itīṃdro vai vedhāstadaiṃdraṃ rūpaṃ teneṃdraṃ prīṇāti |*)
+
+The Ṛtvij called Agnīdhra recites and offers the yājyā mantra उक्षान्नाय वशान्नाय (*ukṣānnāya vaśānnāya*) (Ṛ. Saṃ. 8-43-11). In the second pāda of this mantra the word वेधसे (*vedhase*) is recited, a form of the word Vedhas. The word Vedhas means one who ordains the arrangement of the world. Because he ordains the arrangement of the world, Indra is denoted by the word Vedhas. Therefore this Ṛk is pleasing to Indra.
+
+प्रातर्यावभिरागतं देवेभिर्जेन्यावसू । इंद्राग्नी सोमपीतॆय इति स्वयं समृद्धाच्छावाकस्य । (*prātaryāvabhirāgataṃ devebhirjenyāvasū | iṃdrāgnī somapītèya iti svayaṃ samṛddhācchāvākasya |*)
+
+The Ṛtvij called Acchāvāka recites and offers as a yājyā mantra the Ṛk प्रातर्यावभिरागतं (*prātaryāvabhirāgataṃ*) (Ṛ. Saṃ. 8-38-7). The main purport of this Ṛk is: O deities Indra and Agni, you are those who have conquered the enemies and obtained the riches they held. Such as you are, come here for the drinking of Soma, together with the deities who come at dawn to the place of sacrifice for the Prātaḥsavana. In this Ṛk the expression इंद्राग्नी (*iṃdrāgnī*) is used and the two deities Agni and Indra are both indicated; yet, since the word Indra is used directly, this Ṛk is pleasing to Indra. This is the purport.
+
+एतमु हैता ऐंद्रो भवंति यन्नानादेवत्यास्तेनान्या देवताः प्रीणाति । यदु गायत्र्यस्तेनाग्नेय्यः एतदु हैताभिस्त्रयमुपाप्नोति ॥ ( (*etamu haitā aiṃdro bhavaṃti yannānādevatyāstenānyā devatāḥ prīṇāti | yadu gāyatryastenāgneyyaḥ etadu haitābhistrayamupāpnoti ‖ (*)
+
+(Ai. Brā. 28-1)
+
+In this way the Indra-nature of the yājyā mantras recited by the seven Ṛtvijs has been set forth. Besides, the deities spoken of in these Ṛks, namely the Mitrāvaruṇas, the Maruts, Agni, Vedhas and Indrāgnī, have also been pleased. Since all these Ṛks are in the Gāyatrī metre, they are connected with Agni. How? Since Agni and Gāyatrī were both born from the mouth of Prajāpati, all the Ṛks in the Gāyatrī metre have an indirect connection with Agni. Therefore in these yājyā mantras the praise of various deities
+
+### Printed p. 59
+
+and the prosperity of Indra's deityship (a description relating to Indra), and the connection with Agni through the Gāyatrī metre, these three kinds of connection have been explained.
+
+Here the explanation of the Prātaḥsavana ends.
+
+**The Explanation of the Mādhyandina-savana**
+
+In the Mādhyandina-savana, as soon as the Unnīyamāna sūkta has been directed to be recited by the Praiṣa mantra, the Maitrāvaruṇa recites the sūkta असावि देवं गोऋजीकमंधः (*asāvi devaṃ goṛjīkamaṃdhaḥ*) (Ṛ. Saṃ., the 21st sūkta of Maṇḍala 7).
+
+असावि देवं गोऋजीकमंध इति मध्यंदिन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वतीः रूपसमृद्धाः । (*asāvi devaṃ goṛjīkamaṃdha iti madhyaṃdina unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatīḥ rūpasamṛddhāḥ |*)
+
+This sūkta, as stated before, has ten Ṛks. In the Ṛks of this sūkta there are the words vṛṣa, pīta, suta and mada, which are used for the purpose of drinking Soma. How? In the second Ṛk of this sūkta the word वृषणो नृषाच (*vṛṣaṇo nṛṣāca*), that is, the word vṛṣaṇa, is recited. In the third Ṛk, रथ्यो न धेना (*rathyo na dhenā*), the word dhenā is used. Since this word is derived from the root धेट् पाने (*dheṭ pāne*), "to drink", the use of this word indicates the sense of the word pīta. The word असावि (*asāvi*) at the very beginning of the sūkta is derived from the root su, "to press", and indicates the sense of the word suta; and the word मदेषु (*madeṣu*) in अंधसो मदेषु (*aṃdhaso madeṣu*) at the end of the first Ṛk indicates the state of mada. Therefore this sūkta, containing the words vṛṣa, pīta, suta and mada, which belong to Soma-drinking, and having a meaning suited to the present occasion, thus has richness of form.
+
+ऐंद्रीरन्वाहैंद्रो वै यज्ञस्त्रिष्टुभोऽन्वाह त्रैष्टुभं वै माध्यंदिनं सवनं । (*aiṃdrīranvāhaiṃdro vai yajñastriṣṭubho 'nvāha traiṣṭubhaṃ vai mādhyaṃdinaṃ savanaṃ |*)
+
+He now examines the Ṛks of this sūkta, and their metre and deities. According to the Śruti statement ऐंद्रो वै यज्ञः (*aiṃdro vai yajñaḥ*), the sacrifice must be of the nature of Indra. Accordingly, since the word Indra is used in the second pāda of the first Ṛk, Indra-nature has been stated for this sūkta. In the other Ṛks too Indra-nature is indicated in the same way. According to the rule that at the Mādhyandina-savana mantras in the Triṣṭubh metre are to be recited, it is well known that this sūkta consists of Ṛks in the Triṣṭubh metre.
+
+### Printed p. 60
+
+तदाहुर्यत्तृतीयसवनस्यॆव रूपं मद्वदथ कस्मान्मध्यंदिने मद्वतीरनु चाह यजंति चाभिरिति । (*tadāhuryattṛtīyasavanasyèva rūpaṃ madvadatha kasmānmadhyaṃdine madvatīranu cāha yajaṃti cābhiriti |*)
+
+In this sūkta, with the word मदेषु (*madeṣu*), a matter connected with the intoxication produced by drinking Soma is stated. But at the third savana, the last savana, performed at the end of the day, joy arises in all the deities after they have drunk Soma, and so it is natural that the word mada should be used then. Is it not unsuitable that, instead of that, Ṛks in which the word mada is used should be recited in the Mādhyandina-savana itself? This seems strange. To this he says:
+
+माद्यंतीव वै मध्यंदिने देवताः समेव तृतीयसवने मादयंते तस्मान्मध्यंदिने मद्वतीरनु चाह यजंति चाभिः । (*mādyaṃtīva vai madhyaṃdine devatāḥ sameva tṛtīyasavane mādayaṃte tasmānmadhyaṃdine madvatīranu cāha yajaṃti cābhiḥ |*)
+
+He gives the answer to this. Even at the time of the Mādhyandina-savana some chief deities become joyful after drinking Soma. At the third savana the other deities too, who did not drink Soma at the Mādhyandina-savana, become joyful after drinking Soma. Therefore it is fitting that the Maitrāvaruṇa should recite, at the time of the Mādhyandina-savana, Ṛks in which the word mada is used. In the same way the seven Ṛtvijs, beginning with the Hotṛ, also make their offerings at the time of the Mādhyandina-savana with yājyā mantras in which the word mada is used.
+
+ते वै खलु सर्व एव माध्यंदिने प्रस्थितानां प्रत्यक्षाद्यंद्रीभिर्यजंति अभितृण्णवतीभिरेके । (*te vai khalu sarva eva mādhyaṃdine prasthitānāṃ pratyakṣādyaṃdrībhiryajaṃti abhitṛṇṇavatībhireke |*)
+
+He now explains the nature of the prasthita yājyā mantras with which the Ṛtvijs beginning with the Hotṛ make their offerings. In the prasthita yājyā mantras that the seven Ṛtvijs, beginning with the Hotṛ, use for the offering in this Mādhyandina-savana, the word Indra ought to be used directly. But only in the yājyā mantras recited by the three Ṛtvijs, the Hotṛ, the Maitrāvaruṇa and the Brāhmaṇācchaṃsī, are there words indicating Indra-nature, and also the word अभितृण्ण (*abhitṛṇṇa*), which indicates drinking. The word अभितृण्ण (*abhitṛṇṇa*) is derived from the root तृदि (*tṛdi*) joined with the prefix अभि (*abhi*) and indicates the sense of drinking.
+
+पिबा सोममभि यमुग्र तर्द इति होता यजति । (*pibā somamabhi yamugra tarda iti hotā yajati |*)
+
+He explains the yājyā mantras that the seven Ṛtvijs, beginning with the Hotṛ, recite one by one. First the Hotṛ recites the Ṛk पिबा सोममभि यमुग्र तर्दः (*pibā somamabhi yamugra tardaḥ*) (Ṛ. Saṃ. 6-17-1). In this Ṛk the words अभि (*abhi*) and तर्द (*tarda*) together indicate the word अभितृण्ण (*abhitṛṇṇa*).
+
+स ईं पाहि य ऋजीषी तरुत्र इति मैत्रावरुणो यजति । (*sa īṃ pāhi ya ṛjīṣī tarutra iti maitrāvaruṇo yajati |*)
+
+### Printed p. 61
+
+The Ṛtvij called Maitrāvaruṇa recites the Ṛk स ईं पाहि य ऋजीषी तरुत्रः (*sa īṃ pāhi ya ṛjīṣī tarutraḥ*) (Ṛ. Saṃ. 1-17-2). In the fourth pāda of this Ṛk the word अभितृंधि (*abhitṛṃdhi*) indicates the sense of the word अभितृण्ण (*abhitṛṇṇa*).
+
+एवा पाहि प्रत्नथा मंदतु त्वेति ब्राह्मणाच्छंसी यजति । (*evā pāhi pratnathā maṃdatu tveti brāhmaṇācchaṃsī yajati |*)
+
+The Ṛtvij called Brāhmaṇācchaṃsī recites the Ṛk एवा पाहि प्रत्नथा मंदतु त्वा (*evā pāhi pratnathā maṃdatu tvā*) (Ṛ. Saṃ. 6-17-3). In the fourth pāda of this Ṛk the word अभितृंधि (*abhitṛṃdhi*) is used, in अभिगा इंद्र तृंधि (*abhigā iṃdra tṛṃdhi*). In this way, in the yājyā mantras recited by the three Ṛtvijs, the Hotṛ, the Maitrāvaruṇa and the Brāhmaṇācchaṃsī, the words Indra and abhitṛṇṇa (drinking) are found used.
+
+अर्वाजेहि सोमकामं त्वाहुरिति पोता यजति तवायं सोमस्वमेह्यर्वाजति नेष्टा यजति इंद्राय सोमाः प्रदिवो विदाना इत्यच्छावाको यजति आपूर्णो अस्य कलशः स्वाहेत्याग्निध्रो यजति । (*arvājehi somakāmaṃ tvāhuriti potā yajati tavāyaṃ somasvamehyarvājati neṣṭā yajati iṃdrāya somāḥ pradivo vidānā ityacchāvāko yajati āpūrṇo asya kalaśaḥ svāhetyāgnidhro yajati |*)
+
+He now indicates the yājyā mantras recited by the remaining four Ṛtvijs. The Ṛtvij called Potṛ recites the Ṛk आर्वाजेहि सोमकामं त्वाहुः (*ārvājehi somakāmaṃ tvāhuḥ*) (Ṛ. Saṃ. 1-104-9); the Ṛtvij called Neṣṭṛ the Ṛk तवायं सोमस्तमेह्यर्वाज् (*tavāyaṃ somastamehyarvāj*) (Ṛ. Saṃ. 3-35-6) **NOTE**; the Ṛtvij called Acchāvāka the Ṛk इंद्राय सोमाः प्रदिवो विदानाः (*iṃdrāya somāḥ pradivo vidānāḥ*) (Ṛ. Saṃ. 3-36-2); and the Ṛtvij called Āgnīdhra **NOTE** the Ṛk आपूर्णो अस्य कलशः स्वाहा (*āpūrṇo asya kalaśaḥ svāhā*) (Ṛ. Saṃ. 3-32-15), each as his own yājyā mantra.
+
+तासामेता अभितृण्णवत्यो भवंतींद्रो वै प्रातःसवने न व्यजयत स एताभिरेव माध्यंदिनं सवनमभ्यतृणद्यदभ्यतृणत्तस्मादेता अभितृण्णवत्यो भवंति । (*tāsāmetā abhitṛṇṇavatyo bhavaṃtīṃdro vai prātaḥsavane na vyajayata sa etābhireva mādhyaṃdinaṃ savanamabhyatṛṇadyadabhyatṛṇattasmādetā abhitṛṇṇavatyo bhavaṃti |*)
+
+Of the seven yājyā mantras described above, the first three Ṛks are well known as the abhitṛṇṇavatī mantras. They are so named because in these Ṛks there is a word derived from the root तृदि (*tṛdi*) preceded by the prefix अभि (*abhi*). Since the root तृदि (*tṛdi*) has the sense of injuring, killing, the words abhitardana or abhitṛṇṇa indicate Indra's power to subdue enemies. How? Formerly, when Indra drank Soma at the Prātaḥsavana and set out to conquer the enemies, victory did not come to him. But at the time of the Mādhyandina-savana the Ṛtvijs recited the Ṛks beginning पिबा सोमं (*pibā somaṃ*), in which the word abhitarda (abhitṛṇṇa), indicating the subduing of enemies, is used, and so increased Indra's strength. And Indra too, at the Mādhyandina-savana, drank Soma abundantly and from the joy he derived from it
+
+### Printed p. 62
+
+became able to defeat the enemies. In this way, since the strength of Indra has been made firmly bound by the word abhitarda in the first three Ṛks beginning पिबा सोमं (*pibā somaṃ*), the name abhitṛṇṇavatī Ṛks for these three Ṛks is appropriate to their meaning.
+
+Here the explanation of the Mādhyandina-savana ends.
+
+**The Explanation of the Third Savana**
+
+As stated before, at the beginning of the third savana the Ṛtvij called Maitrāvaruṇa recites the Unnīyamāna sūkta.
+
+इहोप यात शवसो नपात इति तृतीयसवन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धास्ता ऐंद्रार्भव्यो भवंति। (*ihopa yāta śavaso napāta iti tṛtīyasavana unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīrmadvatī rūpasamṛddhāstā aiṃdrārbhavyo bhavaṃti|*)
+
+At the beginning of the third savana, as soon as the Adhvaryu has directed the Maitrāvaruṇa by the Praiṣa mantra to recite the Unnīyamāna sūkta, the Maitrāvaruṇa recites the sūkta of nine Ṛks इहोप यात शवसो नपात (*ihopa yāta śavaso napāta*) (Ṛ. Saṃ., the 35th sūkta of Maṇḍala 4). In the Ṛks of this sūkta the words vṛṣa, pīta, suta and mada are used. How? In the fourth pāda of the 6th Ṛk of this sūkta it says आ तक्षत वृषणो मंदसानाः (*ā takṣata vṛṣaṇo maṃdasānāḥ*), so the word vṛṣaṇa is there; in the second pāda of the 2nd Ṛk it says सुषुतस्य पीतिः (*suṣutasya pītiḥ*), so the words suta and pīta are there; and in the fourth pāda of the first Ṛk, इंद्रमनु वो मदासः (*iṃdramanu vo madāsaḥ*), the word mada is there. Therefore this sūkta has richness of form. The deities of the Ṛks of this sūkta are Indra and the Ṛbhus, the sons of Sudhanvan. Although the Anukramaṇikā names the Ṛbhus as the deity of this sūkta, there is no reason for doubt that Indra too is a deity of this sūkta, since in the first Ṛk, सौधन्वना ऋभवो............गमत्त्विंद्रमनु वो मदासः (*saudhanvanā ṛbhavo............gamattviṃdramanu vo madāsaḥ*), and in the 7th Ṛk, समृभुभिः पिबस्व..................सखीयान् इंद्र (*samṛbhubhiḥ pibasva..................sakhīyān iṃdra*), it is prayed that Soma be drunk together with the Ṛbhus, addressing Indra.
+
+तदाहुर्यन्नार्भवीषु स्तुवतेऽथ कस्मादार्भवः पवमान इत्याचक्षत इति । (*tadāhuryannārbhavīṣu stuvate 'tha kasmādārbhavaḥ pavamāna ityācakṣata iti |*)
+
+Is not the presence of a connection with the Ṛbhus at the time of the third savana open to objection? And the Sāma singers at the sacrifice do not, at the third savana, combine Ṛks having the Ṛbhus as their deity and praise the Ṛbhus with the Pavamāna stotra; they praise with mantras that have other deities than the Ṛbhus, beginning स्वादिष्टया मदिष्टया (*svādiṣṭayā madiṣṭayā*). Therefore how the Pavamāna stotra comes to have the Ārbhava nature, that is, a connection with the Ṛbhus, is also strange. To this he gives the answer.
+
 ---
 
-**Progress note:** Done through printed p. 56. Unnīyamāna sūktas of the three savanas, rules for reciting them, start of the Saptahotṛ mantras (pp. 51-56)
+**Progress note:** Done through printed p. 62. Seven Hotr prasthita yajya mantras at three savanas (pp. 57-62)
