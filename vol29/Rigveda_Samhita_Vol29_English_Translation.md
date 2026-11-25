@@ -9756,6 +9756,166 @@ When Sūryā went newly to her husband, the deity called Citti (the mind) became
 ##### English translation
 Chitti (mind) was the pillow, the Eye was the collyriaum : heaven and earth were the box when Surya went to her husband.
 
+### Printed p. 369
+
+##### विशेषविषयगळु (Special Topics)
+
+चक्षुः आ अभ्यंजसं—वृत्रस्य कनीनिका परापतत्रिककुन्नाम्नपर्वते । तेन त्रैककुदेनांजनसजातीयेन चक्षुषि आंजते । तच्छक्षुरेवांजनमासीत् । (*cakṣuḥ ā abhyaṃjasaṃ—vṛtrasya kanīnikā parāpatatrikakunnāmnaparvate | tena traikakudenāṃjanasajātīyena cakṣuṣi āṃjate | tacchakṣurevāṃjanamāsīt |*) In former times, when Indra slew the demon Vṛtra, the pupil (kanīnikā; kanīnikā means the black part seen in the eyeballs) in his eyes fell on the mountain called Trikakut. It grew into a kind of herb called Traikakut. The black pigment made from that herb is used as the black that is applied to the eyes at the time of initiation (dīkṣā) in sacrifices and the like. That is what is explained here by the word cakṣuḥ. The sentence of the Taittirīya Saṃhitā—
+
+इंद्रो वृत्रमहन्तस्य कनीनीका परापतत्तदांजनमभवद्यांक्ते चक्षुरेव ॥ (*iṃdro vṛtramahantasya kanīnīkā parāpatattadāṃjanamabhavadyāṃkte cakṣureva ‖*)
+
+(Tai. Saṃ. 7-8-1-5)
+
+—supports this.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमा॑ आसन्प्रति॒धयः॑ कु॒रीरं॒ छंद॑ ओप॒शः ।  
+> सू॒र्याया॑ अ॒श्विना॑ व॒राग्निरा॑सीत्पुरोग॒वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोमाः । आसन् । प्रतिधयः । कुरीरं । छंदः । ओपशः ।  
+> सूर्यायाः । अश्विना । वरा । अग्निः । आसीत् । पुरःगवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्याया रथस्य स्तोमास्त्रिवृदादयः प्रतिधिय आसन् । प्रतिधीयंत इति
+> प्रतिधय ईषातिर्यगायितकाष्ठादयः । तथा कुरीरं छंदः कुरीरनामकं
+> छंदोऽनस ओपशोऽभवत् । येनोपशेरते स ओपशः । तादृशायाः सूर्याया
+> अश्विनाश्विन् वरा वरावास्तामिति शेषः । तस्या विवाहे पुरोगवः पुरोगंता पुरतो
+> गंता यः पूर्वमेव प्रस्तावार्थं गच्छति तत्स्थानीयोग्निरासीत् ॥ प्रजाप्रतिर्वै
+> सोमाय राज्ञॆ दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्यॆ सर्वॆ देवा वरा
+> आगच्छन्नित्यादि हि ब्राह्मणं । ऐ. ब्रा. ४-७ । अत्रायमभिप्रायः । प्रजापतिः सविता
+> स्वदुहितरं सोमाय प्रायच्छत् । सोमाय दास्यामिति मनीषामकरोत् ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the stomas such as the trivṛt were the pratidhis of Sūryā's chariot; the pratidhis are what is set against, namely the slanting timbers of the pole and the like. Likewise the metre named Kurīra became the opaśa of the cart; the opaśa is that on which people rest. For such a Sūryā the two Aśvins were the suitors (the word "were" is to be supplied). At her wedding Agni was the one who goes in front (purogava), who goes ahead first for the purpose of the proposal, standing in that place. He cites the Brāhmaṇa: Prajāpati gave his daughter Sūryā Sāvitrī to King Soma; all the gods came as suitors for her, and so on (Ai. Brā. 4-7). Here the meaning is this: Prajāpati, Savitṛ, gave his own daughter to Soma; he made up his mind that he would give her to Soma.
+
+### Printed p. 370
+
+> तस्मिन्समये पुत्रा उपचारार्थं प्रदानान्न्युक्त्वान्यभवन् । तथा च सत्यश्विन्
+> प्रबलौ संतावाजिं पुरतो गत्वा तामलभेतामिति । उत्तरत्रापि सोमो वधूयुरभवदित्यादिनायमेवार्थः स्पष्टो भविष्यति । योषावृणीत जेन्येत्यादिकमुक्तं ।
+> ऋ. १-११९-५ ॥
+
+##### Gist of the bhāṣya
+
+The first sentence here is damaged and cannot be construed with certainty. **NOTE** Sāyaṇa continues: and so the two Aśvins, being powerful, would go ahead in the race and win her. In what follows also, by the verse "Soma became the one desiring the bride" and the like, this very meaning will become clear. The Ṛk beginning "yoṣā vṛṇīta jenyā" and the like has been quoted (Ṛ. 1-119-5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोमाः (*stomāḥ*)—(of Sūryā's chariot) the stomas, such as the trivṛt
+- प्रतिधयः (*pratidhayaḥ*)—like rods
+- आसन् (*āsan*)—were
+- कुरीरं छंदः (*kurīraṃ chaṃdaḥ*)—the metre named Kurīra
+- ओपशः (*opaśaḥ*)—was the whip
+- सूरायाः (*sūrāyāḥ*)—for Sūryā
+- अश्विना (*aśvinā*)—the Aśvin deities
+- वरा (*varā*)—were the bridegrooms
+- अग्निः (*agniḥ*)—Agni
+- पुरोगवः (*purogavaḥ*)—as the leader of the procession
+- आसीत् (*āsīt*)—was
+
+##### भावार्थ (Bhāvārtha)
+
+In the procession at Sūryā's wedding Agni went in front as the leader of all. The stomas such as the trivṛt were the rods of Sūryā's chariot. The metre named Kurīra was the whip. The Aśvin deities themselves were the bridegrooms.
+
+##### English translation
+Hymns were the cross-bars (of the car); the Kurira metre was the thong of the whip; the Aswins were Surya's groomsmen; Agni was the leader of the procession.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्तोमाः (*stomāḥ*)—it is said here that they are stomas such as the trivṛt. What are these stomas? What is their nature? What is their use in sacrifices? It is necessary to explain this here concisely—
+
+For the word stoma Sāyaṇa has given the explanation त्रिवृत्पंचदशादिलक्षणं स्तोत्रं (*trivṛtpaṃcadaśādilakṣaṇaṃ stotraṃ*). By the sentence
+
+एकं साम तृचे क्रियते तस्य च तृचस्य आवृत्ता ऋचां संख्या वर्धनीया भवति या स्तोमशब्देनोच्यत इति (*ekaṃ sāma tṛce kriyate tasya ca tṛcasya āvṛttā ṛcāṃ saṃkhyā vardhanīyā bhavati yā stomaśabdenocyata iti*)
+
+he has stated the definition of the stoma; and the nine kinds among the stomas, namely त्रिवृत् (*trivṛt*), पंचदशः (*paṃcadaśaḥ*), सप्तदशः (*saptadaśaḥ*), एकविंशः (*ekaviṃśaḥ*), त्रिणवः (*triṇavaḥ*), त्रयस्त्रिंशः (*trayastriṃśaḥ*), चतुर्विंशः (*caturviṃśaḥ*), चतुश्चत्वारिंशः (*catuścatvāriṃśaḥ*) and अष्टाचत्वारिंशः (*aṣṭācatvāriṃśaḥ*), together with their viṣṭutis, have been stated very fully in the 2nd part of the Ṛgveda Saṃhitā, on pages 138 to 150. Here only a concise explanation of those stomas and the benefits to be gained by reciting them is given.
+
+In the sacrifice called Abhiplava-ṣaḍaha, on the odd days, that is, the first, third and fifth days, in the midday pressings (the ritual period at midday when the Soma juice is pressed) the priests such as the Udgātṛ praise with the Sāma chants called Rathantara, and so these days are called Rathantara-pṛṣṭha days.
+
+### Printed p. 371
+
+In the same way, on the even days, that is, the second, fourth and sixth days, they praise with the Sāma chants called Bṛhat-sāma, and so these days are called Bṛhat-pṛṣṭha days. Beginning from the third day, on every day, when the Pṛṣṭha-stotras are recited, special Sāma mantras called Vairūpa, Vairāja and Śākvara-Raivata are sung in their place. At that time, in accordance with the Sāma chant, the priests of the Hotṛ group recite certain Ṛks called stoma. The explanation of the stoma is as follows—
+
+एकं साम तृचे क्रियते । तस्य च तृचस्य आवृत्त्या ऋचां संख्या वर्धनीया भवति या स्तोमशब्देनोच्यत इति ॥ (*ekaṃ sāma tṛce kriyate | tasya ca tṛcasya āvṛttyā ṛcāṃ saṃkhyā vardhanīyā bhavati yā stomaśabdenocyata iti ‖*)
+
+A tṛca means three Ṛks. These three Ṛks must treat of one and the same deity. By arranging such Ṛks in various orders, and by reciting each Ṛk more than once, the tṛca can be increased into many Ṛks. For example, in one tṛca there are the Ṛks 1, 2, 3. When they are recited by changes of position, as
+
+1, 2, 3; 3, 2, 1; 1, 3, 2; 2, 1, 3; 2, 3, 1; 3, 1, 2, and so on,
+
+and by additional repetitions, as
+
+1, 1, 1, 2, 3; 1, 2, 2, 2, 3; 1, 2, 3, 3, 3, and so on,
+
+the three Ṛks become many Ṛks. Reciting the three Ṛks called the tṛca in this way in some one order, that is, beginning 1, 2, 3 or 1, 2, 3, 3, 3, is called a paryāya. When there are three such paryāyas, it makes one viṣṭuti. For each stoma there are many such viṣṭutis, with different names. Therefore reciting the tṛca of three Ṛks in three paryāyas in various orders is what is called the stoma. Among the stomas there are nine kinds, namely त्रिवृत् (*trivṛt*), पंचदशः (*paṃcadaśaḥ*), सप्तदशः (*saptadaśaḥ*), एकविंशः (*ekaviṃśaḥ*), त्रिणवः (*triṇavaḥ*), त्रयस्त्रिंशः (*trayastriṃśaḥ*), चतुर्विंशः (*caturviṃśaḥ*), चतुश्चत्वारिंशः (*catuścatvāriṃśaḥ*) and अष्टाचत्वारिंशः (*aṣṭācatvāriṃśaḥ*). In the trivṛt stoma the tṛca is recited three times in different orders, and so this stoma is called the trivṛt stoma. Therefore the total number of Ṛks in the three paryāyas of the trivṛt stoma is 9. In the stomas such as the pañcadaśa, the Ṛks of the three paryāyas number fifteen or more, in accordance with the name of the respective stoma. That is, in the pañcadaśa stoma there are in all fifteen Ṛks from the three paryāyas, and in the saptadaśa stoma, from the three paryā
+
+### Printed p. 372
+
+yas, in all 17 Ṛks, and so on. Therefore the stomas have received their respective names in accordance with the numbers of the Ṛks. There is no rule that every paryāya must have the same number of Ṛks. In the viṣṭutis of the respective stomas there must be, from the three paryāyas, the fixed number of Ṛks. Their details are as follows—
+
+- (1) त्रिवृत्तोम (*trivṛttoma*): from the three paryāyas, 9 Ṛks in all.
+- (2) पंचदशस्तोम (*paṃcadaśastoma*): 15 Ṛks.
+- (3) सप्तदशस्तोम (*saptadaśastoma*): 17 Ṛks.
+- (4) एकविंशस्तोम (*ekaviṃśastoma*): 21 Ṛks.
+- (5) त्रिणवस्तोम (*triṇavastoma*): 27 Ṛks.
+- (6) त्रयस्त्रिंशस्तोम (*trayastriṃśastoma*): 33 Ṛks.
+- (7) चतुर्विंशस्तोम (*caturviṃśastoma*): 24 Ṛks.
+- (8) चतुश्चत्वारिंशस्तोम (*catuścatvāriṃśastoma*): 44 Ṛks.
+- (9) अष्टाचत्वारिंशस्तोम (*aṣṭācatvāriṃśastoma*): 48 Ṛks.
+
+In this way the numbers of Ṛks of the 9 stomas are in accordance with the name of the respective stoma. It should be understood that this number applies to each viṣṭuti in the stoma. That is, since there are three viṣṭutis in the trivṛt stoma, it should be understood that for each viṣṭuti there are 9 Ṛks in its three paryāyas. The three viṣṭutis together, out of the 9 Ṛks, will become 27 Ṛks. And so on.
+
+It has been said earlier that each stoma has many viṣṭutis. Their details are given below.
+
+I. For the trivṛt stoma—three viṣṭutis: (1) उद्यती (*udyatī*) (2) परिवर्तिनी (*parivartinī*) (3) कुलायिनी (*kulāyinī*).
+
+II. For the pañcadaśa stoma—three viṣṭutis: (1) पंचपंचिनी (*paṃcapaṃcinī*) (2) उद्यती प्रथमा (*udyatī prathamā*) (3) उद्यती द्वितीया (*udyatī dvitīyā*).
+
+III. For the saptadaśa stoma—seven viṣṭutis: (1) दशसप्ता प्रथमा (*daśasaptā prathamā*) (2) दशसप्ता द्वितीया (*daśasaptā dvitīyā*) (3) सप्तस्थिता प्रथमा (*saptasthitā prathamā*) (4) सप्तस्थिता द्वितीया (*saptasthitā dvitīyā*) (5) अनामिका (*anāmikā*) (6) उद्यती (*udyatī*) (7) भस्सा (*bhassā*).
+
+### Printed p. 373
+
+IV. For the ekaviṃśa stoma—four viṣṭutis: (1) सप्तसप्तिनी (*saptasaptinī*) (2) उद्यती (*udyatī*) (3) प्रतिष्ठुतिः (*pratiṣṭhutiḥ*) (4) सूर्मा (*sūrmā*).
+
+V. For the triṇava stoma—two viṣṭutis: (1) प्रतिष्ठिता (*pratiṣṭhitā*) (2) उद्यती (*udyatī*).
+
+VI. For the trayastriṃśa stoma—five viṣṭutis: (1) समत्र्यंशा (*samatryaṃśā*) (2) नेदीयस्संक्रमा (*nedīyassaṃkramā*) (3) उद्यती (*udyatī*) (4) प्रत्यवरोहिणी (*pratyavarohiṇī*) (5) अंतिमा (*aṃtimā*).
+
+VII. For the caturviṃśa stoma—there is only one viṣṭuti.
+
+VIII. For the catuścatvāriṃśa stoma—three viṣṭutis: (1) प्रथमा (*prathamā*) (2) निर्मध्या (*nirmadhyā*) (3) तृतीया (*tṛtīyā*).
+
+IX. For the aṣṭācatvāriṃśa stoma—two viṣṭutis: (1) प्रथमा (*prathamā*) (2) नेदीयस्संक्रमा (*nedīyassaṃkramā*).
+
+In all, there are thirty viṣṭutis for the nine stomas.
+
+The nine divisions of the stomas stated above can be increased by the order of addition (āvāpa) into the trayodaśa, caturdaśa, ṣoḍaśa and so on. For example—
+
+वसवस्त्रयोदशाक्षरेण त्रयोदशग्स्टोममुदजयनुद्राश्चतुर्दशाक्षरेण चतुर्दशग्स्टोममुदजयन्नादित्याः पंचदशाक्षरेण पंचदशग्स्टोममुदजयन्नदितिः षोडशाक्षरेण षोडशग्स्टोममुदजयत्प्रजापतिस्सप्तदशाक्षरेण सप्तदशग्स्टोममुदजयत् ॥ (*vasavastrayodaśākṣareṇa trayodaśagsṭomamudajayanudrāścaturdaśākṣareṇa caturdaśagsṭomamudajayannādityāḥ paṃcadaśākṣareṇa paṃcadaśagsṭomamudajayannaditiḥ ṣoḍaśākṣareṇa ṣoḍaśagsṭomamudajayatprajāpatissaptadaśākṣareṇa saptadaśagsṭomamudajayat ‖*)
+
+(Kai. Saṃ. 1-7-11-44) **NOTE**
+
+By these sentences of the Taittirīya Saṃhitā it is stated in what order the Vasus, the Rudras, the Ādityas, Aditi and Prajāpati respectively gained the trayodaśa, caturdaśa, pañcadaśa, ṣoḍaśa and saptadaśa stomas. The power of the stomas is very great. By reciting them all desired objects can be gained: this matter also is recited in the Taittirīya Saṃhitā itself.
+
+पातःसवने वै गायत्रेण च्छंदसा त्रिवृते स्तोमाय ज्योतिर्दधदेति त्रिवृता ब्रह्मवर्चसेन पंचदशाय ज्योतिर्दधदेति पंचदशेनौजसा (*pātaḥsavane vai gāyatreṇa cchaṃdasā trivṛte stomāya jyotirdadhadeti trivṛtā brahmavarcasena paṃcadaśāya jyotirdadhadeti paṃcadaśenaujasā*)
+
+### Printed p. 374
+
+वीर्येण सप्तदशाय ज्योतिर्दधदेति सप्तदशेन प्राजापत्येन प्रजननेनैकविग्ंशाय ज्योतिर्दधदेति स्तोम एव तत्स्तोमाय ज्योतिर्दधदेत्यथोस्टोम एव स्तोममभिप्रणयति यावंतो वै स्तोमास्तावंतः कामास्तावंतो लोकास्तावंति ज्योतिग् ष्येतावत एव स्तोमानेतावतः कामानेतावलो लोकानेतावंति ज्योतिग् ष्यवरुंधे ॥ (*vīryeṇa saptadaśāya jyotirdadhadeti saptadaśena prājāpatyena prajananenaikavigṃśāya jyotirdadhadeti stoma eva tatstomāya jyotirdadhadetyathosṭoma eva stomamabhipraṇayati yāvaṃto vai stomāstāvaṃtaḥ kāmāstāvaṃto lokāstāvaṃti jyotig ṣyetāvata eva stomānetāvataḥ kāmānetāvalo lokānetāvaṃti jyotig ṣyavaruṃdhe ‖*)
+
+(Tai. Saṃ. 7-1-2-1)
+
+In these sentences the power of the four kinds of stomas that are to be recited in the Agniṣṭoma is stated. The sacrificer, at the time of the morning pressing, places the trivṛt stoma, with the Gāyatrī metre, in a place of importance. In the same way he makes the pañcadaśa stoma radiant through the trivṛt, which is of the nature of light; the saptadaśa stoma through the pañcadaśa, which is endowed with vigour; and the ekaviṃśa stoma through the saptadaśa stoma, which is connected with Prajāpati and is a means of procreation. In the same way one kind of stoma produces power and radiance for another kind of stoma. As many kinds as there are in the stoma, so many worlds, so many kinds of radiance and so many kinds of desired objects there are. And by reciting the stomas the sacrificers obtain that many kinds of worlds, radiances and desired objects: having stated thus the power of the stoma, the Brāhmaṇa then states the loss that comes from not reciting the stoma.
+
+ब्रह्मवादिनो वदंति सत्वै यजेत योऽग्निष्टोमेन यजमानोऽथ सर्वस्तोमेन यजेतेति यस्य त्रिवृतमंतर्यंति प्राणाग्‌स्तस्यांतर्यंति प्राणेषु मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य पंचदशमंतर्यंति वीर्यं तस्यांतर्यंति वीर्येमेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य सप्तदशमंतर्यंति प्रजां तस्यांतर्यंति प्रजायां मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते (*brahmavādino vadaṃti satvai yajeta yo 'gniṣṭomena yajamāno 'tha sarvastomena yajeteti yasya trivṛtamaṃtaryaṃti prāṇāgstasyāṃtaryaṃti prāṇeṣu me 'pyasaditi khalu vai yajñena yajamāno yajate yasya paṃcadaśamaṃtaryaṃti vīryaṃ tasyāṃtaryaṃti vīryeme 'pyasaditi khalu vai yajñena yajamāno yajate yasya saptadaśamaṃtaryaṃti prajāṃ tasyāṃtaryaṃti prajāyāṃ me 'pyasaditi khalu vai yajñena yajamāno yajate*) यस्यैकविग्‌ंशमंतर्यंति प्रतिष्ठां तस्यांतर्यंति प्रतिष्ठायां मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य त्रिणवमंतर्यंतृत्तूग्‌श्च तस्य नक्षत्रियां च विराजमंतर्यंत्यतुषु मेऽप्यसन्नक्षत्रियायां च विराजेति खलु वै यज्ञेन यजमानो यजते यस्य त्रयस्त्रिग्‌ंशमंतर्यंति देवतास्तस्यांतर्यंति देवतासु मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते (*yasyaikavigṃśamaṃtaryaṃti pratiṣṭhāṃ tasyāṃtaryaṃti pratiṣṭhāyāṃ me 'pyasaditi khalu vai yajñena yajamāno yajate yasya triṇavamaṃtaryaṃtṛttūgśca tasya nakṣatriyāṃ ca virājamaṃtaryaṃtyatuṣu me 'pyasannakṣatriyāyāṃ ca virājeti khalu vai yajñena yajamāno yajate yasya trayastrigṃśamaṃtaryaṃti devatāstasyāṃtaryaṃti devatāsu me 'pyasaditi khalu vai yajñena yajamāno yajate*) यो वै स्तोमानामवमं परमतां गच्छंतं वेद परमतामेव गच्छति त्रिवृद्धै स्तोमानामवमस्त्रिवृत्परमो य एवं वेद परमतामेव गच्छति॥ (*yo vai stomānāmavamaṃ paramatāṃ gacchaṃtaṃ veda paramatāmeva gacchati trivṛddhai stomānāmavamastrivṛtparamo ya evaṃ veda paramatāmeva gacchati‖*)
+
+(Tai. Saṃ. 7-1-3) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 368. Sukta 85 Rks 5-7, bhashya, special topics (Yaska, Aitareya Brahmana)
+**Progress note:** Done through printed p. 374. Rk 8, bhashya, special topics (stomas, vishtutis, Tai. Sam.)
