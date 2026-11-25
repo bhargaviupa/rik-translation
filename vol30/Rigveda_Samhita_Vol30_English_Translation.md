@@ -13134,6 +13134,72 @@ The word स्वाहा (*svāhā*) has four analytical meanings.
 (2) स्वा वागहेति वा (*svā vāgaheti vā*): स्वा (*svā*) = one's own speech (वाक् (*vāk*)). There is a Śruti sentence (Brāhmaṇa): तं स्वा वागभ्यवदज्जुहुधीति तत्स्वाहाकारस्य जन्म (*taṃ svā vāgabhyavadajjuhudhīti tatsvāhākārasya janma*). That is, when making the offering, the offerer himself adds and says the word स्वाहा (*svāhā*) at the end of the Ṛk, the Vedic mantra; hence the name स्वाहा (*svāhā*).
 (3) स्व प्राहेति वा (*sva prāheti vā*): here स्व (*sva*) = his own oblation, आह (*āha*) = he says that he offers. Hence the name स्वाहा (*svāhā*).
 
+### Printed p. 368
+(4) "Or because he offers the oblation well offered (*svāhutam*)": the oblation which he offers in homa is offered by uttering the word svāhā, that is, by presenting the oblation in Agni; hence the name svāhā.
+For the meaning of svāhākāra Yāska has given the following passage as an illustration:
+सद्यो जातो व्यमिमित यज्ञमग्निर्देवानामभवत्पुरोगाः । अस्य होतुः प्रदिश्यतस्य वाचि स्वाहाकृतं हविरदंतु देवाः ॥ (*sadyo jāto vyamimita yajñamagnirdevānāmabhavatpurogāḥ | asya hotuḥ pradiśyatasya vāci svāhākṛtaṃ haviradaṃtu devāḥ ‖*)
+सद्यो जायमानो निरमिमित यज्ञमग्निर्देवानामभवत्पुरोगाम्यस्य होतुः प्रदिश्यतस्य वाच्या स्वाहाकृतं हविरदंतु देवाः ॥ (*sadyo jāyamāno niramimita yajñamagnirdevānāmabhavatpurogāmyasya hotuḥ pradiśyatasya vācyā svāhākṛtaṃ haviradaṃtu devāḥ ‖*)
+(Ni. 8-21)
+Its main sense: Agni, who has just been born (that is, has just been established in the sacrifice), sits before the gods and, performing the duty of the hotṛ, that is, the work of inviting the gods, carries the sacrifice through. May the gods eat the oblation which this hotṛ, stationed in the east, offers, offered in homa with the utterance of the word svāhākāra. The idea is therefore that svāhā is the name of the word uttered at the end of the mantra when the oblation is offered, according to rule, in the duly established Agni for the sacrifice, to please the gods.
+In some Āprī-sūktas the plural *svāhākṛtayaḥ* is used. Since the word svāhākāra is added and recited also with the eleven Prayāja mantras used when offering to the eleven deities of this sūkta, the plural *svāhākṛtayaḥ* is employed.
+In the Prāṇas and the like the word svāhā is used in another sense. The Mahābhārata calls the daughter of Bṛhaspati, son of Andhakāyi, Svāhā; in the Purāṇas the goddess Svāhā is said to be the daughter of Dakṣa Prajāpati and the wife of Agni.
+On the nature of svāhākṛti the opinions of the learned are not of one kind. Yet all the entities indicated by this word are directed to the terrestrial Agni alone. Because this Agni is the maker of svāhā and also its product, the terrestrial Agni is so called; so the author of the Nirukta and the author of the Bṛhaddevatā state their view: अग्नेया इति तु स्थितिः (*agneyā iti tu sthitiḥ*) (Ni. 8-22). In the last Ṛk of some svāhākāra Āprī-sūktas, deities such as Pūṣan, the Maruts, Vāyu, Sūrya, Indra and Varuṇa are all praised. Since the gods are gladdened by mantras ending in the word svāhā, the word svāhā holds an important place in the sacrifice.
+
+### Printed p. 369
+## Sūkta 111 (Maṇḍala 10)
+Introduction.
+In the Ṛgveda no other deity has the prominence that Agni and Indra have. Considered by the number of sūktas and Ṛks, the first place goes to Indra. About a quarter of all the mantras in the Ṛgveda-Saṃhitā praise Indra alone. Since it is necessary to know about Indra fully and critically, we shall set it out here. To the question who Indra is, the seer Gṛtsamada has given the proper answer earlier in Ṛ. Saṃ. 2.12. Stating that briefly here, the matters found in the Ṛgveda about Indra are told.
+O people, he who, as soon as born, became the foremost of the gods, firm of mind, radiant, who by deeds such as the slaying of Vṛtra honoured and protected all the gods, and through the strength of whose body heaven and earth both were afraid, joined with the greatness of his army-like might: he is Indra.
+O people, he who made the trembling earth stand firm, who made the mountains that roamed everywhere with wings bend to his control and stay fixed, who fashioned the wide atmosphere, who held up and propped the heavens: he is Indra.
+O people, he who, having slain the cloud, made the seven flowing rivers such as the Gaṅgā flow, who freed the cows caught in the confinement of the asura Vala, who created the fire in the form of lightning in the midst of the clouds, and who is unrepelled in battles: he is Indra.
+O people, by whom this perishable world was made to stand firm, who made the destroying and base asura dwell in the cave that is hell, who conquered the enemy he had aimed at, and who, as a hunter takes possession of a deer, made the enemy's abundant riches his own: he is Indra.
+Of him, the terror of the enemy, of whom they ask "Where is he?", the knowing say that he is not in one place only. That same Indra, causing alarm, destroys all round the cows, horses and the like that belong to the enemy and nourish him.
+
+### Printed p. 370
+O people, place faith in such a great Indra.
+O people, he who gives wealth alike to the rich, to the poor, to the one who begs of him, and to the praising ṛtvij; who has fine cheeks, and who is the protector of the sacrificer who holds the pressing-stone in hand and has pressed the Soma: he is Indra.
+O people, under whose rule, he being the inner controller of all, are horses, cows, villages and all chariots; who, having slain Vṛtra, created the sun and Uṣas; who, splitting the cloud, impels the waters: he is Indra.
+O people, whom the divine host and the human host, sounding together, call for protection; whom both the best and the lowest enemies call; and whom the two charioteers, mounted on a chariot like Indra's chariot, call separately (for protection): he is Indra.
+O people, without whom people cannot win victory, and therefore those engaged in battle call on him for protection; who is the representative of the whole world, and who made the immovable mountains and the like move: he is Indra.
+O people, who slew with the thunderbolt the people who bore great sin, were many, and were full of arrogance; who gives no encouraging help to one without knowledge of the self; who is the destroyer of the enemy that causes decay: he is Indra.
+O people, who searched out and finally found the asura Śambara, who lived hidden in the mountains for forty years, and slew that strong and murderous dānava: he is Indra.
+O people, who, seven-rayed, rain-giving and mighty, freed the seven rivers such as the Gaṅgā from the serpent so that they might flow; who, thunderbolt in hand, slew the asura Rauhiṇa as he climbed the heavens: he is Indra.
+Heaven and earth both bow humbly to this Indra, and from this Indra's might the mountains tremble. He who is a drinker of Soma, firm of body, with arms like the thunderbolt, who holds the thunderbolt in hand: he is Indra.
+
+### Printed p. 371
+O people, who protects the sacrificer who presses the Soma; who protects the one who cooks the puroḍāśa and the like; who protects those who ask for protection; who protects the praisers; and for whom the hymn, the Soma and the puroḍāśa and other foods are increasers: he is Indra.
+O Indra, you who, unrepelled, give abundantly food and strength to the sacrificer who presses Soma and cooks puroḍāśa and the like, are you not of true nature? We, dear to you, and joined by your grace with sons, grandsons and others of good fortune, recite the hymn on all days.
+Indra's origin; his parents and his wife.
+Although Indra's greatness is described in a most excellent and poetic style, Indra is nowhere described as a supreme god without birth. As noted on many earlier occasions, Indra's mother and father are specified. His manner of birth too is praised at great length in many places. For example, some mantras quoted below speak of Indra's birth.
+"O Indra, on the very day you were born you drank the juice of the Soma plant born on the mountain-slope and showed your great fondness for it. Your mother, young, who bore you, in the house of your father of great might gave you that Soma and satisfied you. This same Indra, as soon as born, approached his mother and found the Soma in her breast." (3-48-2, 3)
+"O Indra, your father is very firm of body, as the atmosphere expects. The begetter of Indra, who roars in the atmosphere and is steady as the earth, is a most skilful doer of deeds. Indra has the utmost devotion to his father and to his mother." (4-17-4)
+"The womb too is that same ancient door through which the gods were born of old. May the fully grown child come out through this door; may Indra, born from it, not needlessly hurt his mother." (4-18-1)
+Knowing that Indra's origin would reveal a fault, Indra's mother hid him. Most powerful, he rose of himself as a most attractive bearer of weapons and at once pervaded heaven and earth both. (4-18-5)
+
+### Printed p. 372
+His mother brought forth the most powerful, firm-bodied, Indra of unrepelled power, heroic and robust, as a cow bears a calf, so that he might move freely by himself and show his strength. (4-18-10)
+When Indra of great power was born, his mother, out of fondness for her son, warned him: "O son, none of these gods helped you; all have abandoned you." Then Indra said: "O Viṣṇu, since Vṛtra the asura must be slain, become one who has the form and power to pervade all worlds." (1-18-11) **NOTE**
+"O Indra, who made your mother a widow? Who, when you were asleep or moving about, wished to kill you? Who was the god near you when your father was seized by the foot and harmed?" (4-8-12) **NOTE**
+"The mighty father begot a son of strength fit to destroy enemies in battle; the radiant woman bore a radiant son." (7-20-5)
+"O Indra, as soon as born you drank Soma to gain your strength. Your mother made your greatness manifest." (7-98-3)
+"To show your unrepelled power you were born of fearsome form. Displaying anger, and making known your proud valour, you showed your self-confidence. When Indra's mother, full of wealth, bore Indra, the Maruts tended and fostered this mighty Indra so that he grew ever greater." (10 73-1)
+The god who begot this Indra, of fearsome form and unrepelled power, is of the greatest might in the whole universe. (11-20-1) **NOTE**
+"O Indra, as Uṣas pervades the whole world, so when you stood pervading all of heaven and earth, your mother, divine and of great form, bore you, the lord of all the gods, the best of the world's people." (8.0-134-1) **NOTE**
+"As we have known before, this Indra is the son of Niṣṭigrī. (Sāyaṇa explains Niṣṭigrī as Aditi.)" (10-101-12) **NOTE**
+
+### Printed p. 373
+Although in the Purāṇas and the like Indra is famed as one of the Ādityas and as Varuṇa's companion (Ṛ. Saṃ. 7-85-4), in other parts of the Ṛk-Saṃhitā he is mostly not described in this way, that is, as one of the Ādityas. In 4-26-1 identity with Manu and Sūra is shown. In the mantras 8.8-2-1 and 4, 10.89.2 he is denoted by the word sūra. In 2-30-1 he is described by the epithet savitṛ.
+In the Atharvaveda Indra's power is described by the passages quoted below.
+एकाष्टका तपसा तप्यमाना जजान गर्भं महिमानमिंद्रं । तेन देवा अपहंत शत्रून् हंता दस्यूनामभवच्छचीपतिः ॥ (*ekāṣṭakā tapasā tapyamānā jajāna garbhaṃ mahimānamiṃdraṃ | tena devā apahaṃta śatrūn haṃtā dasyūnāmabhavacchacīpatiḥ ‖*)
+(Atha. Saṃ. 3-10-12)
+Ekāṣṭakā, practising powerful austerity, bore the great Indra. By the help of this Indra the gods conquered their enemies. Indra, lord of Śacī, became the slayer of the dasyus.
+In the next Ṛk Ekāṣṭakā is specified as the mother of Indra and Soma and as the daughter of Prajāpati. In the Atharvaveda Indra's mother is addressed (6.38) but not named. The Mahābhārata says that Indra is one of the sons born to Kaśyapa of Dākṣāyaṇī, the daughter of Dakṣa, who has the other name Aditi. (Ā. Pa.) In Atharvaveda 8-58-4 he is called son of truth (सूनुं सत्यस्य (*sūnuṃ satyasya*)).
+Elsewhere it is said that Indra was created by the gods to destroy enemies (3.49-1): घनं वृत्राणां जनयंत देवाः (*ghanaṃ vṛtrāṇāṃ janayaṃta devāḥ*) (2-13.5; 3-51.8).
+The Puruṣasūkta says that Indra, with Agni, was born from the mouth of the Puruṣa (मुखादिंद्रश्चाग्निश्च (*mukhādiṃdraścāgniśca*)). (10-90-13)
+Elsewhere in the Ṛk-Saṃhitā it is stated definitely that Indra is one of the gods born of Soma. (9-96-5)
+Such a mighty Indra conquered heaven by the power of his austerity. (10-167-1)
+In the Śatapatha and other Brāhmaṇas the story of Indra's origin is told in various ways. For example, the account in the Śatapatha Brāhmaṇa is as follows.
+
 ---
 
-**Progress note:** Done through printed p. 367. pp. 362-367 (batch API)
+**Progress note:** Done through printed p. 373. pp. 368-373 (batch API)
