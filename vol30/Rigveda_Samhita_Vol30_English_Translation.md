@@ -26094,6 +26094,190 @@ In this sacrifice the "share of the day" is the portion of the day's three press
 - इह (*iha*)—in this sacrifice
 - त्रिष्टुप् (*triṣṭup*)—the Triṣṭup metre
 
+### Printed p. 796
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अह्नः (*ahnaḥ*)—of the day
+- भागः (*bhāgaḥ*)—was the portion of the midday pressing
+- जगती (*jagatī*)—the Jagatī metre
+- विश्वान् देवान् (*viśvān devān*)—the Viśvedevas
+- आ विवेश (*ā viveśa*)—entered and pervaded them
+- तेन (*tena*)—by that sacrifice
+- ऋषयः (*ṛṣayaḥ*)—the seers
+- मनुष्याः (*manuṣyāḥ*)—and men
+- चाप्लृप्रे (*cāplṛpre*)—were created
+
+##### भावार्थ (Bhāvārtha)
+
+For Mitra and Varuṇa the Virāj metre became the support. The Triṣṭup metre was the portion of the Mādhyandina pressing, which takes place at midday in the sacrifice. The Jagatī metre entered the Viśvedevas. By that sacrifice, which the gods performed for the sake of creation, the seers and men came into being.
+
+##### English translation
+Viraj was the glory of Mitra and Varuna; Trishtubh was Indra's portion of the midday (oblation) at this (sacrifice). Jagati entered into the Viswedevas; by this (sacrifice) Rishis and men were created.
+
+##### विशेषविषयगळु (Special Topics)
+
+विराट् मत्रावरुणयोः अभिश्रीः (*virāṭ matrāvaruṇayoḥ abhiśrīḥ*)—The Virāj metre was produced by Prajāpati together with Mitra and Varuṇa.
+
+इंद्रस्य त्रिष्टुप् इह भागः अह्नः (*iṃdrasya triṣṭup iha bhāgaḥ ahnaḥ*)—At the Mādhyandina pressing Indra has the chief share. At this pressing the mantras in the Triṣṭup metre are to be recited. For the rule is that at the morning pressing mantras in the Gāyatrī metre are recited, at the midday pressing mantras in the Triṣṭup metre, and at the third pressing mantras in the Jagatī metre. The mantras to be recited at the three pressings and the rules governing them we have explained at length earlier (Part 26, p. 40). That the Mādhyandina pressing and the Triṣṭup metre were produced by Prajāpati is also stated in the Taittirīya Saṃhitā:
+
+उरसो बाहुभ्यां पंचदशं निरमिमित तमिंद्रो देवतान्नसृज्यत त्रिष्टुप्छंदो बृहत्साम राजन्यो मनुष्याणामविः पशूनां तस्मात्ते वीर्यावंतो वीर्याद्भ्यसृज्यंत ॥ (*uraso bāhubhyāṃ paṃcadaśaṃ niramimita tamiṃdro devatānnasṛjyata triṣṭupchaṃdo bṛhatsāma rājanyo manuṣyāṇāmaviḥ paśūnāṃ tasmātte vīryāvaṃto vīryādbhyasṛjyaṃta ‖*) (Tai. Saṃ. 7-1-14)
+
+Prajāpati fashioned the Pañcadaśa stoma from his chest and arms. Then he created Indra, the Triṣṭup metre and the Sāman mantra called Bṛhat. Therefore Indra, born from the arms of the mighty Prajāpati, became the most excellent of all. Therefore among men the kings became powerful, and among animals the sheep became fit for sacrifice.
+
+### Printed p. 797
+
+विश्वान् देवान् जगती आ विवेश (*viśvān devān jagatī ā viveśa*)—"The Jagatī metre entered the Viśvedevas" means that, since Prajāpati created the Viśvedevas and the Jagatī metre together, the Jagatī metre became dear to the Viśvedevas. On this point:
+
+मध्यतः सप्तदशं निरमिमित तं विश्वे देवा देवता अन्वसृज्यंत जगतीछंदो वैरूपग्ं साम वैश्यो मनुष्याणां गावः पशूनां तस्मात्त आद्या अन्नधानाद्द्य सृज्यंत ॥ (*madhyataḥ saptadaśaṃ niramimita taṃ viśve devā devatā anvasṛjyaṃta jagatīchaṃdo vairūpagṃ sāma vaiśyo manuṣyāṇāṃ gāvaḥ paśūnāṃ tasmātta ādyā annadhānāddya sṛjyaṃta ‖*) (Tai. Saṃ. 7-1-1-5)
+
+Prajāpati created the Saptadaśa stoma from his middle (abdominal) part. After that he created the Viśvedevas, the Jagatī metre and the Vairūpa Sāman mantra; likewise he created Vaiśyas and cows. Since these were born from Prajāpati's belly, the Vaiśyas were, among men, the best provided in anna-dhāna, that is, in food and the like, wealth and grain; and the cows were the best among the animals that produce milk for food.
+
+In the Ṛk of this sūkta beginning कासीत्प्रमा प्रतिमा (*kāsītpramā pratimā*) several questions were asked about the materials of the sacrifice. Of these, three have now been answered here. That is: प्रतिमा कासीत् (*pratimā kāsīt*)—who is the deity? छंदः किमासीत् (*chaṃdaḥ kimāsīt*)—what is the metre? प्रउगं किमुक्थं (*praugaṃ kimukthaṃ*)—what are the Praüga and the Ukthya Śastra mantras? These three questions are answered in the previous Ṛk and in this one. The two further questions, आज्यं किमासीत् (*ājyaṃ kimāsīt*)—what was the ājya?—and परिधिः क असीत् (*paridhiḥ ka asīt*)—what was the paridhi?—are answered in the Puruṣa-sūkta (Ṛ. Saṃ. Maṇḍala 10, sūkta 90) as follows:
+
+............ देवा यज्ञमतन्वत । वसंतो अस्यासीदाज्यं ग्रीष्म इद्मः शरद्धविः । सप्तास्यासन्परिधयस्त्रीसप्त समिधः कृताः ॥ (*devā yajñamatanvata | vasaṃto asyāsīdājyaṃ grīṣma idmaḥ śaraddhaviḥ | saptāsyāsanparidhayastrīsapta samidhaḥ kṛtāḥ ‖*) (Ṛ. Saṃ. 10-90-6 and 15)
+
+That is: spring, which makes all sap flow, that is, makes all trees and the like put forth shoots, became the ājya offered in the sacrifice that is the instrument of the world's creation. The meaning is that from that sacrifice spring arose, together with the saps (juices) such as ājya (ghee) and curds. In the summer season the heat is great, so it dries up all sap, that is, liquids such as water and also trees and the like. Therefore at that season dry wood and the like is found in abundance. For this reason summer became in that sacrifice the fuel-stick called idhma. That is, the intention is that from that sacrifice the summer season arose, together with dry wood.
+
+### Printed p. 798
+
+In the autumn season grains such as rice ripen well and become fit to eat; therefore autumn became the oblation of that sacrifice. That is, from that sacrifice the autumn season arose, rich in grain.
+
+The seven metres became the paridhis. That is, त्रिः सप्त (*triḥ sapta*)—those same seven metres, repeated three times, made twenty-one. In that number of twenty-one, the three paridhis and eighteen fuel-sticks together made twenty-one.
+
+Now, to the three questions कासीत्प्रमा प्रतिमा किं निदानं (*kāsītpramā pratimā kiṃ nidānaṃ*) an answer is to be given: what was the time-limit of the sacrifice? who were the deities? what was the fruit of the sacrifice? Since it is said
+
+पूर्णे विश्वसृजोऽमृताः शतं वर्षसहस्राणि दीक्षिताः सत्रमासत ॥ (*pūrṇe viśvasṛjo 'mṛtāḥ śataṃ varṣasahasrāṇi dīkṣitāḥ satramāsata ‖*)
+
+and also
+
+एतेन वै विश्वसृज इदं विश्वमसृजंत (*etena vai viśvasṛja idaṃ viśvamasṛjaṃta*) (Tai. Brā. 3-12-9-2 and 8)
+
+the gods, desiring in the beginning to create the world, performed the sacrifice for a thousand years. Therefore the time-limit of that sacrifice is a thousand years. The fruit of this sacrifice is the impulse to undertake the creation of the world. The main purport is this: when the gods, desiring to carry the work of creation forward, performed the sacrifice called Viśvasṛjām-ayana addressed to Prajāpati, all the implements of the sacrifice, that is, the materials of the sacrifice, were produced from Prajāpati himself. Then, since from Prajāpati's body the gods beginning with Agni arose together with the seven metres beginning with Gāyatrī, the deities of those metres are Agni and the others. In the work called Chandoviciti it is said: अग्निः सविता सोमो बृहस्पतिर्मित्रावरुणाविंद्रो विश्वे देवा देवताः ॥ (*agniḥ savitā somo bṛhaspatirmitrāvaruṇāviṃdro viśve devā devatāḥ ‖*)—Agni (Gāyatrī), Savitṛ (Uṣṇik), Soma (Anuṣṭup), Bṛhaspati (Bṛhatī), Mitra and Varuṇa (Virāj), Indra (Triṣṭup), the Viśvedevas (Jagatī): these deities are declared to be the deities of the respective metres. In this way the sacrifice called Prājāpatya (performed in honour of Prajāpati) was carried out, and it is explained here that from this sacrifice the whole world was created.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चा॒क्लृ॒प्रे तेन॒ ऋष॑यो मनु॒ष्या॑ य॒ज्ञे जा॒ते पि॒तरो॑ नः  ॒
+> पुराणे ।  
+> पश्य॑न्मन्ये॒ मन॑सा॒ चक्ष॑सा॒ तान्य इ॒मं य॒ज्ञ मय॑जंत॒ पूर्वे॑ ॥
+
+### Printed p. 799
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चाक्लृप्रे । तेन । ऋषयः । मनुष्याः । यज्ञे । जाते । पितरः । नः । पुराणे ।  
+> पश्यन् । मन्ये । मनसा । चक्षसा । तान् । ये । इमं । यज्ञं । अयजंत ।  
+> पूर्णे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुराणे चिरंतनेऽस्मिन्यज्ञे जाते विश्वसृड्भिर्देवैः सम्यगनुष्ठिते सति तेन
+> यज्ञेनर्षयो मनुष्या नोऽस्माकं पितरः पूर्वपुरुषाश्च चाक्लप्रे । अकल्प्यंत ।
+> असृज्यंत । इममीदृशं यज्ञं ये पूर्णे साध्या देवाः प्रजापतेः प्राणभूता
+> अयजंत अन्वतिष्ठन् तान्देवान्त्राणात्मना सर्वत्र वर्तमानांश्चक्षसा दर्शनहेतुना
+> मनसा पश्यज्ञानन्मन्ने । तानेव विश्वसृष्टान्देवान् सौमि । मन्यतिरर्चतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+When this ancient, long-standing sacrifice had come to be, that is, had been duly performed by the world-creating gods, then by that sacrifice the seers, men and "our fathers", the forefathers, were fashioned and created (अकल्प्यंत (*akalpyaṃta*), असृज्यंत (*asṛjyaṃta*) are his glosses of चाक्लप्रे (*cāklapre*)). Those Sādhya gods of old, who are the vital breaths of Prajāpati and who performed this sacrifice, and who exist everywhere in the form of breath: those gods I perceive with the mind, which is the instrument of seeing. Those very gods, the creators of the world, I praise: मन्यतिरर्चतिकर्मा (*manyatirarcatikarmā*) (the root man here belongs to the verbs of worship). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुराणे (*purāṇe*)—performed in extremely ancient times
+- यज्ञे (*yajñe*)—this sacrifice
+- जाते (सति) (*jāte (sati)*)—when it was performed by the gods desiring to create the world
+- तेन (*tena*)—by that sacrifice
+- ऋषयः (*ṛṣayaḥ*)—seers
+- मनुष्याः (*manuṣyāḥ*)—men
+- नः (*naḥ*)—our
+- पितरः (*pitaraḥ*)—forefathers who are our fathers
+- चाक्लप्रे (*cāklapre*)—were created
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- ये पूर्णे (*ye pūrṇe*)—which gods of former time, the Sādhyas, who are the breaths of Prajāpati
+- अयजंत (*ayajaṃta*)—performed
+- तान् (*tān*)—those gods who exist everywhere in the form of breath
+- चक्षसा (*cakṣasā*)—capable of seeing and understanding
+- मनसा (*manasā*)—with the mind
+- पश्यन् (*paśyan*)—having understood
+- मन्ये (*manye*)—I praise those gods, the creators of the world
+
+##### भावार्थ (Bhāvārtha)
+
+In extremely ancient times, when this sacrifice was performed by the gods desiring to create the world, by that sacrifice the seers, men and our forefathers the fathers were created. And those former gods called Sādhyas, who are the breaths of Prajāpati and who performed this sacrifice: those gods I understand, with a mind able to examine and perceive them, and I praise them.
+
+##### English translation
+When this ancient sacrifice was accomplished, by it Rishis, men, and our progenitors were created; beholding them with the eye of the mind, I glorify those who of old celebrated this sacrifice.
+
+### Printed p. 800
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्तो॑माः स॒हच्॑छंदस आ॒वृतः॑ स॒हप्र॑मा॒ ऋष॑यः स॒प्त  ॑
+> दैव्याः ।  
+> पूर्वे॑षां॒ पंथा॑मनु॒दृश्य॒ धीरा॑ अ॒न्वाले॑भिरे र॒थ्यो॒३॒॑ ३ न  ॒
+> रश्मीन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्तोमाः । सहछंदसः । आवृतः । सहप्रमाः । ऋषयः । सप्त ! दैन्व्याः ।  
+> पूर्वॆषां । पंथां । अनुदृश्य । धीराः । अनुआलेभिरे । रथ्यः । न । रश्मीन् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्तोमैः त्रिवृत्पंचदशादिभिः सह वर्तमानाः सहस्तोमाः सहच्छंदसो
+> गायत्र्यादिभिश्चंदोभिः सह वर्तमाना आवृत आवर्तमानाः सहप्रमाः । प्रमितिः
+> प्रमा यज्ञस्येयत्तापरिज्ञानं । तेन सह वर्तमाना दैव्या देवस्य प्रजापतेः
+> संबंधिनः यद्वा देवानां यष्टव्यानां संबंधिन ऋषयो द्रष्टारः सप्तसंख्याकाः
+> शीर्षण्याः । यद्वा । मरीचिप्रमुखाः सप्तर्षयो होत्रादयः सप्त वषट्कर्तारो
+> ना । एवंविधा एते पूर्वेषां पूर्वपुरुषाणामंगिरःप्रभृतीनां विश्वसृजां
+> देवानां ना पंथां पंणानमनुष्ठानमार्गमनुदृश्य क्रमेण ज्ञात्वा धीरा धीमंतः
+> संतोऽन्वालेभिरे । अनुक्रमेणारब्धवंतः । यागानुष्ठाने प्रवृत्ता इत्यर्थः ।
+> रथ्यो न यथा रथिनो रथेन युक्ता रथस्य नेतारः सूता रश्मीनश्वनियोजनार्थान्प्रग्रहान् सम्यग्रथस्य नयनाय हस्तेनान्सारभंते अन्वारभ्य च सम्यक् तं रथं
+> प्रवर्तयंति एवमेतेऽप्यनुष्ठानमार्गं श्रुतितोऽवगम्य सम्यगन्वतिष्ठन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+सहस्तोमाः (*sahastomāḥ*): those who are with stomas such as the Trivṛt and Pañcadaśa. सहच्छंदसः (*sahacchaṃdasaḥ*): those who are with metres such as Gāyatrī. आवृतः (*āvṛtaḥ*): those who go on reciting. सहप्रमाः (*sahapramāḥ*): प्रमितिः प्रमा (*pramitiḥ pramā*), that is, knowledge of the extent of the sacrifice; those who are with that. दैव्याः (*daivyāḥ*): belonging to the god Prajāpati, or else belonging to the gods who are to be worshipped. The seers, the "seers" (drastāraḥ), seven in number, are शीर्षण्याः (*śīrṣaṇyāḥ*) (chief). Or else they are the seven seers headed by Marīci, or the seven vaṣaṭkartṛs (those who utter the vaṣaṭ), the Hotṛ and the others. Such as these, having in due order come to know the path, the way of performance, of the forefathers, the world-creating gods beginning with Aṅgiras, and being wise, अन्वालेभिरे (*anvālebhire*): began in order; that is, engaged in performing the sacrifice. रथ्यो न (*rathyo na*): just as charioteers, yoked to the chariot and leading it, take in the hand the reins, the straps for guiding the horses, in order to drive the chariot well, and having taken them up make it go properly, so these too, having learned the way of performance from the revealed text, performed it properly: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्तोमाः (*sahastomāḥ*)—those accompanied by the recitation of stomas such as Trivṛt and Pañcadaśa
+- सहच्छंदसः (*sahacchaṃdasaḥ*)—those who recite mantras of the seven metres beginning with Gāyatrī
+- आवृतः (*āvṛtaḥ*)—those who recite the mantras
+- सहप्रमाः (*sahapramāḥ*)—those possessed of knowledge of the performance of the sacrifice
+- दैन्व्याः (*dainvyāḥ*)—belonging to the god Prajāpati, or belonging to the gods
+- सप्त ऋषयः (*sapta ṛṣayaḥ*)—the seven seers beginning with Marīci, or
+
+### Printed p. 801
+
+the Hotṛ and the other vaṣaṭ-performers
+- पूर्वॆषां (*pūrvèṣāṃ*)—of the forefathers, Aṅgiras and the others, or of the world-creating gods
+- पंथां (*paṃthāṃ*)—the path of performance of the sacrifice
+- अनुदृश्य (*anudṛśya*)—having understood in order
+- धीराः (*dhīrāḥ*)—being wise
+- रथ्यः (*rathyaḥ*)—the charioteer who drives the chariot
+- रश्मीन्‌न (*raśmīnna*)—as he takes the reins of the horses
+- अन्वालेभिरॆ (*anvālebhirè*)—began the performance of the sacrifice in order, that is, engaged in it
+
+##### भावार्थ (Bhāvārtha)
+
+The seven seers beginning with Marīci, belonging to the gods, or the seven vaṣaṭ-performers, reciting the stoma mantras such as Trivṛt and Pañcadaśa and the mantras of the seven metres beginning with Gāyatrī, and possessed of knowledge of the performance of the sacrifice, having learned the way of performing the sacrifice of the earlier world-creating gods or of Aṅgiras and the others, became wise, and engaged in performing the sacrifice, as a charioteer who drives a chariot takes the reins of the horses and drives it.
+
+##### English translation
+Associated with praises, accompanied by metres invested, having authority, the seven divine Rishis, bold, and observing the path of their predecessors like charioteers, took up the reins.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्तोमाः (*sahastomāḥ*)—Among stomas there are nine kinds: the Trivṛt stoma, Pañcadaśa stoma, Saptadaśa stoma, Ekaviṃśa stoma, Triṇava stoma, Trayastriṃśa stoma, Caturviṃśa stoma, and Catuścatvāriṃśa stoma. We have explained these, and the varieties of stuti found in them, at length with examples in Ṛ. Saṃ. Part 2, pp. 137-150. The meaning is: those who recite such various stoma mantras. **NOTE**
+
+सहच्छंदसः (*sahacchaṃdasaḥ*)—Although there are many kinds of metres, in sacrifices and the like, in the morning-recitation (prātaranuvāka) mantras, the Śastra mantras and so on, it is chiefly mantras in seven kinds of metre that are recited: Gāyatrī, Triṣṭup, Jagatī, Anuṣṭup, Paṅkti, Uṣṇik and Bṛhatī. There is a rule that such and such mantras must be in such and such a metre. The meaning is: those who recite mantras accompanied by the seven kinds of metre beginning with Gāyatrī.
+
+सहप्रमाः (*sahapramāḥ*)—यज्ञस्येयत्तापरिज्ञानं (*yajñasyeyattāparijñānaṃ*). The intention is: the seers who knew that such a sacrifice must be performed for so many days, and who knew the order of performing the sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 795. pp. 790-795 (batch API)
+**Progress note:** Done through printed p. 801. pp. 796-801 (batch API)
