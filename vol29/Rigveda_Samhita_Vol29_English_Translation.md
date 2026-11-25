@@ -23617,6 +23617,104 @@ he thus directs. The brick that has a hole of itself is the representative of th
 
 **GLOSS**
 
+### Printed p. 853
+
+The Ṛtavya bricks reflect the three worlds. Each row is the representative of one world. By placing one row upon another, it is as if one world were placed upon another world. Not only that: since the bricks of the nature of the seasons possess a lordship of their own (this matter was stated earlier), they are guides to the other bricks, which are of the nature of subjects. All these Ṛtavya bricks together complete the year. It was stated earlier that, just as the nature of the year is contained within these seasons that appear to have diversity, so Prajāpati is contained within all the gods who appear to have diversity.
+
+ता हैता एव संयान्यः । एतद्वै देवा ऋतव्याभिरेवेमांल्लोकान्त्समयुरितश्चोध्वानमुतश्चार्वाचस्तथैवैतद्यजमान ऋतव्याभिरेवेमांलोकान्त्संयातीतश्चोध्वानमुतश्चार्वाचः ॥ (*tā haitā eva saṃyānyaḥ | etadvai devā ṛtavyābhirevemāṃllokāntsamayuritaścodhvānamutaścārvācastathaivaitadyajamāna ṛtavyābhirevemāṃlokāntsaṃyātītaścodhvānamutaścārvācaḥ ‖*)
+
+(Śa. Brā. 8-7-13)
+
+These bricks of the form of the seasons are what establish a direct connection between all of heaven and earth. With their help the gods travel from the heavenly world and the atmosphere to the earth, and from the earth to the heavenly world and the atmosphere. These bricks establish the mutual relation of men and gods and are the means of the harmony of the universe. By showing the relation between the seasons beginning with spring, which are the limbs of the year, and the gods, who are the limbs of Prajāpati, and the bricks, which are the parts of the sacrifice, it is stated clearly that the praise of one applies to the others also.
+
+Thus, in describing the means of the sacrifice and the fruit of the sacrifice, the greatness of the seasons beginning with spring has been praised, and the direct relation between the sacrifice and the seasons has been explained. So it amounts to saying that there is a direct relation between Prajāpati, the maker of the universe, and the seasons beginning with spring.
+
+Besides, in the present context it must be examined in what manner the praise of the seasons and the other limbs of the year is made when the materials needed for the sacrificial oblation are described. This explanation is given in summary. This section makes the meaning of the present Ṛk still clearer.
+
+संवत्सरो यज्ञः .... .... .... । ऋतव ऋत्विजः .... .... ... । मासा हवीग्षि .... .... .... । अर्धमासा हविष्पात्राणि .... .... .... अहोरात्रे परिवेष्ट्री... ॥ (*saṃvatsaro yajñaḥ .... .... .... | ṛtava ṛtvijaḥ .... .... ... | māsā havīgṣi .... .... .... | ardhamāsā haviṣpātrāṇi .... .... .... ahorātre pariveṣṭrī... ‖*)
+
+(Śa. Blā. 11-2-7-1 to 5) **NOTE**
+
+The year is the sacrifice; the seasons, the limbs of the year, are the priests; the months are the oblations; the half-months are the oblation vessels; the days and nights are the enclosures called Pariveṣṭṛ. By this
+
+### Printed p. 854
+
+description the year, completed by the priests and the rest, is praised. The year is determined by the revolution of the sun. For that very reason there is identity of the sun and the year. And the seasons depend on the movement of the sun. How? —
+
+आदित्यस्त्वेव सर्वर्तवः। यदैवोदेत्यथ्यवसंतो यदा संगवोऽथ ग्रीष्मो यदा मध्यंदिनोऽथ वर्षा यदापराह्नोऽथ शरद्यद्वैवास्तमेत्यथ हेमंतस्तस्मादु मध्यंदिन एवादधीत तर्हि ह्येषोऽस्य लोकस्य नेदिष्टं भवति ॥ (*ādityastveva sarvartavaḥ| yadaivodetyathyavasaṃto yadā saṃgavo 'tha grīṣmo yadā madhyaṃdino 'tha varṣā yadāparāhno 'tha śaradyadvaivāstametyatha hemaṃtastasmādu madhyaṃdina evādadhīta tarhi hyeṣo 'sya lokasya nediṣṭaṃ bhavati ‖*)
+
+(Śa. Brā. 2-2-3-9)
+
+All the seasons are the limbs of the sun. When the sun rises it is spring; when the cows are driven for milk it is summer. The midday time is the rainy season. The afternoon is autumn. And the time of sunset is the winter season. When the sun is in the middle the performance of the sacrifice is prescribed. It is the part that establishes concord among all the seasons and all the parts of the sacrifice.
+
+In many ways, besides showing the identity of Prajāpati, the maker of the universe, with the year, it is also stated that, just as the gods, the portions of Prajāpati, perform the sacrifice offering Prajāpati himself as the oblation, so the seasons, the portions of the year, perform the sacrifice, offer the oblation of the form of the year, and become the means of the welfare of the world. Who is the sacrificer here and who are the other priests? What is the order of the sacrifice? This is indicated as follows.
+
+संवत्सरो यजमानः । तमृतवो याजयंति वसंत आग्नीध्रस्तस्माद्वसंते द.वाश्चरंति तद्ध्यग्निरूपं ग्रीष्मोऽध्वरुस्तप्त इव वै ग्रीष्मस्तप्तमिवाध्वर्युर्निष्कामति वर्षा उद्घाता तस्माद्यदा बलवध्वर्षति साम्न इवोपब्बि : क्रियते शरद्ब्रह्मा तस्माद्यदा सस्यं पच्यते ब्रह्माण्वत्यः प्रजा इत्याहुर्हेमंतो होता तस्माद्देहन्वषट्कृताः पशवः सीदंतेता ह वा एवं देवता याजयंति स यद्येनमैषावीरा याजयेयुरेता एव देवता मनसा ध्यायेदेता हैवैनं देवता याजयंति ॥ (*saṃvatsaro yajamānaḥ | tamṛtavo yājayaṃti vasaṃta āgnīdhrastasmādvasaṃte da.vāścaraṃti taddhyagnirūpaṃ grīṣmo 'dhvarustapta iva vai grīṣmastaptamivādhvaryurniṣkāmati varṣā udghātā tasmādyadā balavadhvarṣati sāmna ivopabbi : kriyate śaradbrahmā tasmādyadā sasyaṃ pacyate brahmāṇvatyaḥ prajā ityāhurhemaṃto hotā tasmāddehanvaṣaṭkṛtāḥ paśavaḥ sīdaṃtetā ha vā evaṃ devatā yājayaṃti sa yadyenamaiṣāvīrā yājayeyuretā eva devatā manasā dhyāyedetā haivainaṃ devatā yājayaṃti ‖*)
+
+(Ka. Brā. 11-2-3-32) **NOTE**
+
+The year is the sacrificer. The seasons beginning with spring, in the form of priests, perform the sacrificial work for that sacrificer. Which season holds the place of which priest: the respective places are indicated and the order of the sacrifice is stated in this way. And their nature is described.
+
+### Printed p. 855
+
+(1) In the spring season the forest fire reaches its fiercest state. Therefore spring is regarded as the priest called Agnīdhra.
+
+(2) After taking part in the sacrificial acts, the Adhvaryu looks as if scorched by the heat of the sacrificial fire. In the same way, since in the summer season wood and the like are all burnt up, the summer season is regarded as the priest called Adhvaryu.
+
+(3) In the rainy season, when rain falls (when the rain pours down), an attractive sound arises as if of singing. This sound is like the divine voice of the Udgātṛ, who sings the Sāman mantras at the time of the sacrifice. Therefore the rainy season is called the Udgātṛ.
+
+(4) In autumn the grain and the like all become plump, that is, become fully ripe. For that reason all creatures are known as ब्रह्मण्वत्यः (*brahmaṇvatyaḥ*) (those who are in a fully ripe state). For this reason the autumn season is renowned as the Brahman priest.
+
+(5) At the end of the sacrifice, as soon as the Hotṛ recites the mantra of the form of vaṣaṭ, the oblation is offered into the fire and sinks down; in the same way all the animals perish in this season. Therefore the name Hotṛ is intended for the winter season.
+
+For the sacrificer of the nature of the year, the sacrifice is performed by the gods called by the names of spring and the rest. And the meaning that is suggested in the present Ṛk by वसंतो अस्यासीदाज्यं : ग्रीष्म इद्मश्यरद्धविः (*vasaṃto asyāsīdājyaṃ : grīṣma idmaśyaraddhaviḥ*) **NOTE** is intended in all the sentences quoted above. But here another question arises. In the sentences quoted above the number of seasons is at one time six and at another five, whereas in the present Ṛk (19-90.6) **NOTE** the number is recited only as three. If the question arises whether there is consistency in this, the answer to such objections has been given earlier. (Ṛgveda Saṃhitā Part 12, p. 300.) When explaining the Ṛk Ṛ. Saṃ. 1-164-2, Sāyaṇa there has said that by the word त्रिनाभि (*trinābhi*) the three seasons, summer, rainy season and winter, are intended. And what is the direct relation between the Person Prajāpati intended in the present context and the seasons? —
+
+स यः स प्रजापतिर्व्यग्रग्‌ंसत । संवत्सरः सोऽथ या अस्यैताः पंच तन्नो व्यग्रग्‌ंसंतर्तवस्ते पंच वा ऋतवः पंचैताश्चितयस्तद्यत्पंह चितीश्चिनोत्यृतुभिरेवैनं तच्चि नोति तस्माच्चितयः ॥ (*sa yaḥ sa prajāpatirvyagragṃsata | saṃvatsaraḥ so 'tha yā asyaitāḥ paṃca tanno vyagragṃsaṃtartavaste paṃca vā ṛtavaḥ paṃcaitāścitayastadyatpaṃha citīścinotyṛtubhirevainaṃ tacci noti tasmāccitayaḥ ‖*)
+
+(Śa. Cā, 6-1-2-18) **NOTE**
+
+### Printed p. 856
+
+Prajāpati, who was complete, when he became divided became of the form of the year. His five limbs, which had a solid form, took the forms of the five seasons. Because these limbs are five in number, the fire-altar has five rows. It is stated that all these indicate the year with its five seasons and Prajāpati with his five limbs. Moreover, showing the relation of the year, which is of three parts, with the Person, the nature of the three seasons is described in this way.
+
+या ओषधीः पूर्वा जाताः । देवेभ्यस्त्रियुगं पुरेत्यृतवो वै देवास्तेभ्रएतास्त्रिः पुरा जायंते वसंता प्रावृषि शरदि मन्यॆ नु बभ्रूणामहमिति सोमो वै बभ्रुः सौम्या ओषधय औषधः पुरुषः शतं धामानीति यदिदग्ं शतायुः शतार्थ..................तानेतदाह ॥ (*yā oṣadhīḥ pūrvā jātāḥ | devebhyastriyugaṃ puretyṛtavo vai devāstebhraetāstriḥ purā jāyaṃte vasaṃtā prāvṛṣi śaradi manyè nu babhrūṇāmahamiti somo vai babhruḥ saumyā oṣadhaya auṣadhaḥ puruṣaḥ śataṃ dhāmānīti yadidagṃ śatāyuḥ śatārtha..................tānetadāha ‖*)
+
+(Śa. Jāti. 7-3-4-26) **NOTE**
+
+The plants were born earlier than the gods. The gods are none other than the seasons. In the spring season, in the rainy season and in the autumn season, thus three times in the year, these plants become plump. This substance of tawny colour exists in the form of Soma. This Soma, which is offered in the sacrifice addressed to the Person, is produced from the plants. Since the three seasons are the cause of the appearance of this Soma, those seasons themselves, as its original cause, are described as the oblations in the sacrifice of the Person. The same ideas have been explained in many ways in many places. Only the main ideas have been explained, with quotation of Vedic sentences.
+
+The main idea:
+
+Some say that the order of creation carried out by the Supreme Person himself up to now is the earlier creation. In the earlier Ṛks it has been said that the bodies of the gods and the rest arose from this earlier creation. Now, in order to explain how the later creation proceeded, the performance of the sacrifice that the gods carried out as a preliminary to that creation is explained in this Ṛk and in the next Ṛk. For performing a sacrifice, the materials for it are necessary. But since at that time the things needed for the sacrifice had not been created, the gods imagined in their minds the Supreme Person himself as the oblation and performed a mental sacrifice accordingly. Although here the Supreme Person himself is called the oblation, the mere existence of an oblation did not amount to the existence of all the materials of the sacrifice. Therefore, in the first half of this Ṛk it is stated in general terms that they performed the sacrifice with the oblation called the Person, and in the second half this is explained in detail. That is, it is stated which things they used as the materials needed for the sacrifice.
+
+### Printed p. 857
+
+Although many materials are needed for the sacrifice, only the chief of them are stated here. What are they? — ghee (आज्य (*ājya*)), fuel (इध्म (*idhma*)), oblation (हविः (*haviḥ*)) (sacrificial cakes and the like), strewn grass (बर्हिः (*barhiḥ*)) (cut darbha grass), the animal (पशु (*paśu*)) (the animal offered as an oblation in the sacrifice), the encircling sticks (परिधि (*paridhi*)) (darbha grasses around the fire-pit to prevent demons from coming and causing obstruction), and the kindling sticks (समिधः (*samidhaḥ*)) (sticks used to be offered in the fire as an oblation, or dry twigs of certain trees). Although many more materials are needed, only these seven chief materials are stated in this sūkta. Of these seven, the first three are stated in the present Ṛk, the next two in the Ṛk तं यज्ञं बर्हिष (*taṃ yajñaṃ barhiṣa*) (the 7th Ṛk), and the remaining two in the 15th Ṛk, सप्तास्यासन् (*saptāsyāsan*).
+
+Since this fifteenth Ṛk, सप्तास्यासन् (*saptāsyāsan*), relates to the performance of the sacrifice by the gods, this Ṛk should have been included in this sūkta after the 6th Ṛk. But for some other reason it is recited as the 15th Ṛk of this sūkta. In the other Vedas such as the Yajurveda, where this Puruṣa sūkta occurs, this omission seems to have been set right.
+
+In the first half there is, in general terms, the statement of the oblation as "with the oblation of the form of the Person". The materials of the sacrifice explained in the second half can be examined closely here.
+
+In वसंतो अस्यासीदाज्यं (*vasaṃto asyāsīdājyaṃ*) it is stated which is the ghee (आज्य (*ājya*)), the chief material for the performance of the sacrifice. The spring season is this ghee. Here the question, which is the spring season, is natural. मधुश्च माधवश्च वासंतिकावृतू (*madhuśca mādhavaśca vāsaṃtikāvṛtū*) (Tai. Saṃ. 4-4-11-1) इति मंत्रात् वसंतो मधुमाधवमासद्वयात्मक ऋतुः (*iti maṃtrāt vasaṃto madhumādhavamāsadvayātmaka ṛtuḥ*). According to the above Vedic sentence, when the two months Caitra and Vaiśākha are joined, that time is called the spring season. Similarly शुक्रश्च शुचिश्च ग्रैष्मावृतू (*śukraśca śuciśca graiṣmāvṛtū*) (Tai. Saṃ. 4-4-11-1) इति मंत्रात् शुक्रशुचिमासयुगात्मक ऋतुः (*iti maṃtrāt śukraśucimāsayugātmaka ṛtuḥ*). The months Jyeṣṭha and Āṣāḍha are named the summer season. And इषोर्जश्च शारदावृतू (*iṣorjaśca śāradāvṛtū*) (Tai. Saṃ. 4-4-11-1) इति मंत्रात् इषोर्जमासद्वयात्मक ऋतुः शरदित्युच्यते (*iti maṃtrāt iṣorjamāsadvayātmaka ṛtuḥ śaradityucyate*). The months Kārttika and Mārgaśira are named the autumn season. Among these three seasons, the gods performed the sacrifice imagining in their minds the spring season as the ghee used in the sacrifice, the summer season as इद्धः (*iddhaḥ*), that is, as the fuel sticks, and the autumn season as the oblation of the form of sacrificial cakes and the like.
+
+Here an important matter is to be noted. Although in one year there are six seasons, one season for every two months, namely spring, summer, rainy season, autumn, winter and Śiśira, why did the gods choose only the three seasons, spring, summer and autumn? Why they left out the other seasons deserves to be considered.
+
+### Printed p. 858
+
+वसंतः । अस्य ऋतुपुरुषस्य जाया इदमाज्यं । तेजः लोके वसंत र्तावजाविकादिपशूनां नवपल्लविततरुपल्लव शाखापत्रपुष्पा दिचर्वणात् क्षीरबाहुल्येनाज्यसमृद्धिदर्शनात् स एव वसंतः स्वस्य यज्ञपुरुषस्य हविराहुतये आज्यरूपो बभूवेत्यर्थः । (*vasaṃtaḥ | asya ṛtupuruṣasya jāyā idamājyaṃ | tejaḥ loke vasaṃta rtāvajāvikādipaśūnāṃ navapallavitatarupallava śākhāpatrapuṣpā dicarvaṇāt kṣīrabāhulyenājyasamṛddhidarśanāt sa eva vasaṃtaḥ svasya yajñapuruṣasya havirāhutaye ājyarūpo babhūvetyarthaḥ |*)
+
+The ghee is said to be the wife of the season-person called spring. For in this season trees and the like, and grasses and creepers and the like, sprout anew, and the grass, leaves, flowers and the like become ample food for cows and other animals; so they give milk in abundance. From that milk plentiful ghee is obtained. Therefore it is natural that the gods, imagining the spring season itself, the cause of the abundance of ghee, as the ghee, offered the oblation. This is the meaning.
+
+ग्रीष्मः । ज्वालयाग्निमेधयतीति तथोक्तः । समित्सुंज आसीदित्यनुषंगः । अनेन ग्रीष्मर्तौ सकलगुल्मतरुलतादीनां द्रवशोषणादनलस्तत्समित्संस्कारमात्रेणैधत इति कृत्वा स एव यज्ञेश्वरप्रीत्यै इंधनराशिरूपोऽभवदित्यर्थः । (*grīṣmaḥ | jvālayāgnimedhayatīti tathoktaḥ | samitsuṃja āsīdityanuṣaṃgaḥ | anena grīṣmartau sakalagulmatarulatādīnāṃ dravaśoṣaṇādanalastatsamitsaṃskāramātreṇaidhata iti kṛtvā sa eva yajñeśvaraprītyai iṃdhanarāśirūpo 'bhavadityarthaḥ |*)
+
+It is a matter of experience that by putting in dry sticks the fire blazes well. In the summer season, that is, in the hot weather, all trees and creepers lose the sap or liquid in them by drying up (withering), become thoroughly dry, and as soon as they are put into the fire they burn brightly. Therefore, since the dry wood needed for the fuel (इद्म (*idma*)) is obtained in abundance in this summer season, the gods, resolving that the summer season is the fuel, performed the sacrifice.
+
+शरत् । हविर्हविष्यं नूतनशाल्यादिव्रीहिधान्यजन्यान्नमासीत् । प्रायेण तरदि शाल्यादिनवधान्यागमप्रसिद्धेयज्जिनो लोके शरत्काल एव आग्रयणोपयोगिनवीनधान्यानेन यज्ञपुरुषं यजंते । अतः स एव यज्ञपुरुषो हविष्टेन हूयत इत्यर्थः । (*śarat | havirhaviṣyaṃ nūtanaśālyādivrīhidhānyajanyānnamāsīt | prāyeṇa taradi śālyādinavadhānyāgamaprasiddheyajjino loke śaratkāla eva āgrayaṇopayoginavīnadhānyānena yajñapuruṣaṃ yajaṃte | ataḥ sa eva yajñapuruṣo haviṣṭena hūyata ityarthaḥ |*)
+
+Here the oblation means cooked rice made of grains such as barley and rice, or sacrificial cakes made of flour. Grain is necessary for making these. Since in autumn grain and the like ripen and it is the time of harvest, new grain is obtained in abundance in this season. Therefore it is quite proper that the gods, when offering the oblation obtained from grain and the like (sacrificial cakes and the rest), imagined the autumn season, the cause of this abundance of grain, as the oblation and performed the sacrifice.
+
+Besides the reasons stated above, it is said in many places that only the three seasons, spring, summer and autumn, are commended for the performance of sacrifice and other rites—
+
 ---
 
-**Progress note:** Done through printed p. 852. Special Topics: sacrifice, year and seasons, Rtavya bricks (Sat. Br. 8, 11), pp. 847-852
+**Progress note:** Done through printed p. 858. Special Topics: seasons as priests and sacrificial materials, Ṛk 6 materials of the sacrifice, pp. 853-858
