@@ -7807,6 +7807,257 @@ O Maghavan Indra, rouse up our weapons (उद्धर्षय (*uddharṣaya*
 
 O wealthy Indra, stimulate our weapons. Make the minds of our soldiers full of enthusiasm. O Indra, destroyer of enemies, let the speeds of our horses and the sounds of our chariots rise up and appear.
 
+### Printed p. 208
+
+##### English translation
+Excite, Maghavan, my weapons, (excite) the spirits of my heroes; slayer of Vritra, let the speed of the horses be accelerated, let the noises of the chariots be increased.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्माक॒मिंद्रः॒ समृ॑तेषु ध्व॒जेष्व॒स्माकं॒ या इष॑व॒स्ता ज॑यंतु।  
+> अ॒स्माकं॑ वी॒रा उत्त॑रे भवंत्व॒स्मा उ॑ देवा अवता॒ हवे॑षु॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्माकं । इंद्रः । संऋतेषु । ध्वजेषु । अस्माकं । याः । इषवः । ताः । जयंतु ।  
+> अस्माकं । वीराः । उत्तरे । भवंतु । अस्मान् । ऊं इति । देवाः । अवत । हवेषु॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्माकं संबंधिष्टेव समृतेषु परसेनां संप्राप्तेषु ध्वजेषु ध्वजवत्सु
+> सैनिकेष्ट्विंद्रो रक्षिता भवतु । तथास्माकं या इषवः संति ता एव जयंतु शत्रून् ।
+> तथास्माकं । वीरा भटा उत्तर उपरि भवंतु । हे देवाः अस्मा उ अस्मानेवावत रक्षत
+> हवेषु संग्रामेषु ॥
+
+##### Gist of the bhāṣya
+
+May Indra be the protector of our soldiers who carry banners when our banners have met the enemy's army. May the arrows that are ours alone conquer the enemies. May our heroes, our warriors, be uppermost. O gods, protect us alone in the battles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्माकं (*asmākaṃ*)—our
+- ध्वजेषु (*dhvajeṣu*)—with the banners
+- संयतेषु (*saṃyateṣu*)—when contact with the enemy's banners has occurred **NOTE**
+- इंद्रः (*iṃdraḥ*)—Indra (may he protect us)
+- याः (*yāḥ*)—which
+- अस्माकं इषवः (*asmākaṃ iṣavaḥ*)—are our arrows
+- ताः (*tāḥ*)—those
+- जयंतु (*jayaṃtu*)—let them win victory
+- अस्माकं (*asmākaṃ*)—our
+- वीराः (*vīrāḥ*)—heroic warriors
+- उत्तरे भवंतु (*uttare bhavaṃtu*)—let them be victorious
+- देवाः (*devāḥ*)—O gods
+- हवेषु (*haveṣu*)—in the battles
+- अस्मान् (*asmān*)—us alone
+- अवत (*avata*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+When the banners of our army have met the banners of the enemy armies, may Indra protect us. May the arrows that are ours attain victory. May our heroic warriors win. O gods, protect us alone in the battles.
+
+### Printed p. 209
+
+##### English translation
+When the banners are intermingled, may Indra be our (defender), may those arrows which are ours be victorious, may our warriors be triumphant; gods, protect us in battles.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒मीषां॑ चि॒त्तं प्र॑तिलो॒भयं॑ती गृहा॒णांगा॑न्यष्टे॒ परे॑हि ।  
+> अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॑रं॒धेना॒मित्रा॒स्तम॑सा सचंतां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमीषां । चित्तं । प्रतिलोभयंती । गृहाण । अंगानि । अष्टे । परा । इहि ।  
+> अभि । प्र । इहि । निः । दह । । हृत्सु । शोकैः । अंधेन । अमित्राः । तमसा ।  
+> सचंतां ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अष्टे पापाभिमानिनि देवते अमीषां योद्धाणां शत्रूणां चित्तं
+> प्रतिलोभयंती विमोहयंत्यंगानि तेषामवयवाञ्चिरअदिकान्गृहाण । स्वीकुरु ।
+> अभि प्रेहि । अभिगच्छ । तेषां समीपं गत्वा च हृत्तु हृदयेषु शोकैर्निर्दह ।
+> नितरां भस्मीकुरु । तेऽमित्रा अस्मच्छत्रवोऽंधेन तमसा सचंतां । संगच्छंतां ॥
+
+##### Gist of the bhāṣya
+
+O अष्टे (*aṣṭe*), deity presiding over sin, bewildering the mind of these enemy warriors, seize their limbs, their members beginning with the head **NOTE**; take hold of them. Go against them; having gone near them, burn them with griefs in their hearts, reduce them utterly to ashes. Let these enemies of ours be joined with blinding darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अष्टे (*aṣṭe*)—O deity presiding over sin
+- अमीषां (*amīṣāṃ*)—of our enemies
+- चित्तं (*cittaṃ*)—the mind
+- प्रतिलोभयंती (*pratilobhayaṃtī*)—bewildering
+- अंगानि (*aṃgāni*)—their limbs
+- गृहाण (*gṛhāṇa*)—seize firmly
+- अभि प्रेहि (*abhi prehi*)—go against them
+- परेहि (*parehi*)—go far from us
+- हृत्सु (*hṛtsu*)—in their hearts
+- शोकैः (*śokaiḥ*)—with griefs
+- निर्दह (*nirdaha*)—burn
+- अमित्राः (*amitrāḥ*)—our enemies
+- अंधेन (*aṃdhena*)—sightless
+- तमसा (*tamasā*)—with thick darkness
+- सचंतां (*sacaṃtāṃ*)—let them be joined
+
+##### भावार्थ (Bhāvārtha)
+
+O deity presiding over sin, bewildering the minds of our enemies, seize their limbs firmly. Go against them. Go far from us. Fill their hearts with griefs and burn them. Let our enemies be joined with the sightless, thick darkness.
+
+### Printed p. 210
+
+##### English translation
+Bewildering the mind of our foes, Apiva, seize their limbs and depart, proceed against them, burn in their hearts with sorrow, let our enemies be covered with thick darkness.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the Nirukta of this Ṛk:
+अमीषां चित्तानि प्रज्ञानानि प्रतिलोभयमाना गृहाणांगान्यष्टे परेह्यभिप्रेहि निर्दहैषां हृदयानि शोकैरंधेनामित्रास्तमसा संसेव्यंतां ॥ (*amīṣāṃ cittāni prajñānāni pratilobhayamānā gṛhāṇāṃgānyaṣṭe parehyabhiprehi nirdahaiṣāṃ hṛdayāni śokairaṃdhenāmitrāstamasā saṃsevyaṃtāṃ ‖*) (Ni. 9-33)
+O deity of sin named Apvā **NOTE**, bewilder the intellect of our enemies, that is, their power of discrimination. Seize their limbs, that is, hinder their limbs from doing their natural functions. Go to them, and having gone, make their hearts, their minds, be filled with sorrow, grief and the like and burn. Fill their minds with darkness so that those who are in darkness can see nothing to do, that is, destroy their power of discrimination and make them grope in the dark.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेता॒ जय॑ता नर॒ इंद्रो॑ वः॒ शर्म॑ यच्छतु ।  
+> उ॒ग्रा वः॑ संतु बा॒हवो॑ऽनाधृ॒ष्या यथास॑थ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । इत । जयत । नरः । इंद्रः । वः । शर्म । यच्छतु ।  
+> उग्राः । वः । संतु । बाहवः । अनाधृष्याः । यथा । असथ ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरो नेतारः संग्रामस्य निर्वोढारो योद्धारः प्रेत । प्रकर्षेण
+> गच्छत । गत्वा च जयत तान्प्रतिभटान् ॥ तिजः परत्वात्तिज्ञतिज इति निघाताभावः ॥ वो
+> युष्माकमिंद्रः शर्म सुखं यच्छतु । प्रयच्छतु । वो बाहव उग्रा उद्धूर्णबलाः संतु । भवंतु । अनाधृष्या अन्यैरनभिभाव्या यथा यूयमसथ भविष्यथ
+> कथोग्राः संतु वो बाहवः ॥
+
+##### Gist of the bhāṣya
+
+O men, leaders, carriers-through of the battle, warriors, go forth; having gone, conquer those opposing warriors. May Indra grant you happiness. May your arms be fierce, of surging strength, and unassailable by others, as you shall be.
+
+### Printed p. 211
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O warriors
+- प्रेत (*preta*)—advance
+- जयत (*jayata*)—win victory
+- वे (*ve*)—to you **NOTE**
+- इंद्रः (*iṃdraḥ*)—Indra
+- शर्म (*śarma*)—happiness
+- यच्छतु (*yacchatu*)—let him give
+- यथा (*yathā*)—in the way that
+- अनाधृष्याः (*anādhṛṣyāḥ*)—unassailable
+- असथ (*asatha*)—you shall be
+- वः (*vaḥ*)—your
+- बाहवः (*bāhavaḥ*)—arms
+- उग्राः (*ugrāḥ*)—possessed of mighty strength
+- संतु (*saṃtu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+O warriors, advance. Win victory. May Indra give you happiness. May your arms attain mighty strength, so that you may be unassailable.
+
+##### English translation
+Advance, warriors, and conquer; may Indra grant you happiness, may your arms be strong, so that you may be invincible.
+
+##### विशेषविषयगळु (Special Topics)
+
+The khila mantra to be recited at the end of this sūkta is:
+असौ या सेना मरुतः परेषामभ्यैति न ओजसा स्पर्धमाना । तां गूहत तमसापव्रतेन यथामीषामन्यो अन्यं न जानात् ॥ (*asau yā senā marutaḥ pareṣāmabhyaiti na ojasā spardhamānā | tāṃ gūhata tamasāpavratena yathāmīṣāmanyo anyaṃ na jānāt ‖*)
+अंधा अमित्रा भवताशीर्षाणा अहय इव । तेषां वो अग्निदग्धनामग्निमूळ्हूनामिंद्रो हंतु वरंवरं ॥ (*aṃdhā amitrā bhavatāśīrṣāṇā ahaya iva | teṣāṃ vo agnidagdhanāmagnimūḷhūnāmiṃdro haṃtu varaṃvaraṃ ‖*)
+
+## Sūkta 104 (Maṇḍala 10)
+असावीत्येकादशर्चं पंचमं सूक्तं । वैश्वामित्रस्याष्टकस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । असाव्येकादशाष्टको वैश्वामित्र इति ॥ गतः सूक्तविनियोगः ॥ (*asāvītyekādaśarcaṃ paṃcamaṃ sūktaṃ | vaiśvāmitrasyāṣṭakasyārṣaṃ traiṣṭubhamaiṃdraṃ | tathā cānukrāṃtaṃ | asāvyekādaśāṣṭako vaiśvāmitra iti ‖ gataḥ sūktaviniyogaḥ ‖*)
+Anuvāda: This sūkta, beginning असावि (*asāvi*), is the fifth sūkta in the ninth anuvāka. It has eleven Ṛks. The seer of this sūkta is Aṣṭaka, son of the seer Viśvāmitra; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇikā it is said: असाव्येकादशाष्टको वैश्वामित्रः (*asāvyekādaśāṣṭako vaiśvāmitraḥ*). The viniyoga has already been stated earlier.
+
+### Printed p. 212
+Maṇḍala 10; Anuvāka 9; Sūkta 104; Aṣṭaka 8; Adhyāya 5; Vargas 24, 25; number of Ṛks in the sūkta: 11. Seer: Aṣṭaka Vaiśvāmitra. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑वि॒ सोमः॑ पुरुहूत॒ तुभ्यं॒ हरि॑भ्यां य॒ज्ञमुप॑ याहि॒  ॑
+> तूयं ।  
+> तुभ्यं॒ गिरो॒ विप्र॑वीरा इया॒ना द॑धन्व॒र इं॑द्र॒ पिबा॑ सु॒तस्य॑ ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असावि । सोमः । पुरुहूत । तुभ्यं । हरिभ्यां । यज्ञं । उप । याहि । तूयं ।  
+> तुभ्यं । गिरः । विप्रवीराः । इयानाः । दधन्वरे । इंद्र । पिब । सुतस्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिः स्तोतृभिराहूत तुभ्यं त्वदर्थं सोमोऽसावि । अभिषुतोऽभूत् ॥ सुञ् अभिषव इत्यस्मात्कर्मणि लुज् ॥ अतो हरिभ्यां हरितवर्णाभ्यामश्वाभ्यां यज्ञमस्मदीयं तूयं तूर्णमुप याहि ॥ उपागच्छ । तुभ्यं
+> त्वदर्थं गिरोऽस्मदीयाः स्तुतयो विप्रवीराः । विप्रा मेधाविनो वीरा विशेषेण
+> प्रेरयितारः प्रोद्धमयितारो यासां तास्तथोक्ताः । इयाना गमनशीला
+> दधन्विरे । गम्यंते । अस्माभिर्युष्मस्त्रीणनाय प्राप्यंत इत्यर्थः ॥ ईज् गतौ ।
+> ताच्चीलिकः शानच् । छांदसो विकरणस्य लुक् । धविर्गत्यर्थः । इदित्वान्नुम् ।
+> कर्मणि च्छांदसो लिट् ॥ यत एवमतः सुतस्याभिषुतस्यांशं सुतं सोमं
+> ना पिब !
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many singers, Soma has been pressed for you; it has been pressed for your sake. Therefore come quickly to our sacrifice with your two bay (green-hued) horses. For you are our praises, विप्रवीराः (*vipravīrāḥ*), those whose impellers are the wise (विप्रा (*viprā*) are the intelligent, वीराः (*vīrāḥ*) those who especially impel and stir up); इयानाः (*iyānāḥ*), going quickly, दधन्विरे (*dadhanvire*), they are approached by us, that is, they are brought to please you. Since this is so, drink the pressed Soma. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you
+- सोमः (*somaḥ*)—Soma
+- असावि (*asāvi*)—has been pressed
+- हरिभ्यां (*haribhyāṃ*)—with your horses
+
+### Printed p. 213
+- यज्ञं (*yajñaṃ*)—to our sacrifice
+- तूयं (*tūyaṃ*)—quickly
+- उप याहि (*upa yāhi*)—graciously come
+- विप्र वीराः (*vipra vīrāḥ*)—recited by the wise
+- इयानाः (*iyānāḥ*)—approaching you
+- गिरः (*giraḥ*)—our praises
+- तुभ्यं (*tubhyaṃ*)—for you
+- दधन्विरे (*dadhanvire*)—are offered and reach you
+- सुतस्य (*sutasya*)—of the pressed
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, worthy of the invocation of many, Soma juice has been pressed for you. Come quickly to our sacrifice with your horses. Our praises, recited by the wise and approaching you, are offered to you and reach you. Drink the Soma that has been pressed.
+
+##### English translation
+The Soma has been effused for you, (Indra), the invoked of many, come quickly to the sacrifice with your two bay horses; our praises recited by the wise, moving quickly, are addressed to you; drink, Indra, of the libation.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्सु धू॒तस्य॑ हरिवः॒ पिबे॒ह नृभिः॑ सु॒तस्य॑ ज॒ठरं॑ पृणस्व ।  
+> मि॒मि॒क्षुर्यमद्र॑य इंद्र॒ तुभ्यं॒ तेभि॑र्वर्धस्व॒ मद॑मुक्थवाहः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्सु । धूतस्य । हरिवः । पिब । इह । नृभिः । सुतस्य । जठरं । पृणस्व ।  
+> मिमिक्षुः । यं । अद्रयः । इंद्र । तुभ्यं । तेभिः । वर्धस्व । मदं । उक्तवाहः ॥ २॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमे पर्याये ब्राह्मणाच्छंसिशस्त्रेऽप्सु धूतस्येत्येषा याज्या । सूत्रितं
+> च । अप्पु धूतस्य हरिवः पिबेहेति याज्या । आ. ६-४ । इति ॥
+> हे हरिवः ऋक्सामे ना इंद्रस्य हरी । ऐ. ब्रा. २-२४ । इति श्रुतेः स्तोत्रशस्त्राधारभूताभ्यामृक्सामाभ्यां हरिभ्यां तद्वन्निंद्र अप्सेकधानादिषूदकेषु धूतस्य
+
+##### Gist of the bhāṣya
+
+In the first paryāya, in the Brāhmaṇācchaṃsin's śastra, the Ṛk अप्सु धूतस्य (*apsu dhūtasya*) is the yājyā. It is stated in the sūtra: अप्पु धूतस्य हरिवः पिबेहेति याज्या (*appu dhūtasya harivaḥ pibeheti yājyā*) (Ā. 6-4). Then he addresses Indra as हरिवः (*harivaḥ*), "possessor of bay horses": by the śruti ऋक्सामे ना इंद्रस्य हरी (*ṛksāme nā iṃdrasya harī*) (Ai. Brā. 2-24), the Ṛk and the Sāman are Indra's two bay horses, the supports of stotra and śastra; and he is "having the two" of them. The explanation then begins with the Soma shaken in the waters, in the vessels of water such as the अप्सेकधान (*apsekadhāna*) **NOTE**.
+
 ---
 
-**Progress note:** Done through printed p. 206. pp. 201-206 (batch API)
+**Progress note:** Done through printed p. 213. pp. 208-213 (batch API)
