@@ -37732,6 +37732,290 @@ I banish disease from your neck, from your sinews, from your bones, from your jo
 
 "O one overcome by yakṣma, from your आंत्रेभ्यः (*āṃtrebhyaḥ*): आंत्रं (*āṃtraṃ*) is the receptacle of excrement, food and drink; from the sinews connected with it, from the गुदाभ्यः (*gudābhyaḥ*), the channels by which the juice of food, with the samāna wind, …" (the sentence is cut off at the end of this page; the next window continues it).
 
+### Printed p. 1105
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नीयते ताभ्यो नाडीभ्यश्च सॆकाशाद्यक्षं वि वृहामि । तथा वनिष्ठोः स्थविरांत्राद्धृदयादधि हृत्पुंडरीकाच्च यक्षं वि वृहामि । अपि च ते तव मतस्नाभ्यां ।
+> मतस्य पार्श्वयोर्वर्तमानानाम्रफलाकृती वृक्त् । ताभ्यां यक्षः । हृदयसमीपे
+> वर्तमानः कालमांसविशेषो यकृत् । तस्माच्च ॥ पद्दन्नित्यादिना यकृच्छब्दस्य
+> यकन्नादेशः ॥ प्लाशिभ्योऽन्येभ्योऽपि क्लोमप्लीहादिसंज्ञेभ्यश्च मांसेभ्यश्च
+> यक्षं रोगं वि वृहामि । उत् क्षिपामि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of Ṛk 3. *āṃtraṃ* is the receptacle of the food and drink in the intestines. "From the sinews connected with it, from the गुदाभ्यः (*gudābhyaḥ*) (the channels through which the essence of food is carried by the samāna wind into the bodily tissues), and from those channels, I tear out the यक्षं (*yakṣaṃ*)." Likewise from वनिष्ठोः (*vaniṣṭhoḥ*), the thick intestine, and from the heart, the heart-lotus, I tear it out. Further, मतस्नाभ्यां (*matasnābhyāṃ*) are the two kidneys, shaped like mango fruits and lying at the two sides of the मतस्य (*matasya*). यक्षः (*yakṣaḥ*) is the liver (यकृत् (*yakṛt*)), the black flesh lying near the heart. प्लाशिभ्यः (*plāśibhyaḥ*) means from the other fleshy parts also, called kloma, plīhā and so on. From all these I tear out the disease, that is, I cast it out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O afflicted one)
+- ते (*te*)—your
+- आंत्रेभ्यः (*āṃtrebhyaḥ*)—from the entrails
+- गुदाभ्यः (*gudābhyaḥ*)—from the channels of the anal region (anus)
+- वनिष्ठोः (*vaniṣṭhoḥ*)—from the side regions of the abdomen
+- हृदयात् अधि (*hṛdayāt adhi*)—from the heart
+- ते (*te*)—your
+- मतस्नाभ्यां (*matasnābhyāṃ*)—from the urine-producing organs (kidneys)
+- यक्षः (*yakṣaḥ*)—from the bile-producing organ (liver)
+- प्लाशिभ्यः (*plāśibhyaḥ*)—from the other fleshy parts
+- यक्ष्मं (*yakṣmaṃ*)—the disease called yakṣma
+- वि वृहामि (*vi vṛhāmi*)—I separate and tear out
+
+##### भावार्थ (Bhāvārtha)
+
+O afflicted one, from your entrails, anal region, sides of the abdomen, heart, kidneys, gall-bladder and other fleshy parts, and from the blood-vessels and nerves spread through them, I separate and tear out the yakṣma disease that pervades them all.
+
+##### English translation
+I banish disease from your entrails, from your anus, from your abdomen, and from your heart, from your kidneys, from your liver, from your (other) viscera.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒रुभ्यां॑ ते अष्टी॒वद्भ्यां॒ पार्ष्णि॑भ्यां॒ प्रप॑दाभ्यां ।  
+> यक्ष्मं॒ श्रोणि॑भ्यां॒ भास॑दा॒द्भंस॑सो॒ वि वृ॑हामि ते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊरुभ्यां । ते । अष्टीवत्भ्यां । पार्ष्णिभ्यां । प्रपदाभ्यां ।  
+> 70
+
+### Printed p. 1106
+
+> यक्ष्यं । श्रोणिभ्यां । भासदात् । भंससः । वि । वृहामि । ते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रुग्ण ते तवोरुभ्यामष्ठीवद्भ्यां जानुभ्यां च यक्ष्यं वि वृहामि । तथा
+> पार्ष्टिभ्यां पादस्यापरभागाभ्यां प्रपदाभ्यां पादाग्राभ्यां च यक्ष्यं वि वृहामि ।
+> अपि च श्रोणिभ्यां जंघनाभ्यां च यक्ष्यं वि वृहामि । तथा भासदात् । भसत्कटिप्रदेशः । तत्संबंधाद्भसंसो भासमानात्पायोस्ते तव यक्ष्यं वि वृहामि ॥
+
+##### Gist of the bhāṣya
+
+O sick one, from your two thighs, from the अष्टीवद्भ्यां (*aṣṭīvadbhyāṃ*) (the knees), I tear out the yakṣma. Likewise from the पार्ष्टिभ्यां (*pārṣṭibhyāṃ*), the hinder parts of the feet, and from the प्रपदाभ्यां (*prapadābhyāṃ*), the fore-parts of the feet. Further, from the श्रोणिभ्यां (*śroṇibhyāṃ*), the hips, I tear it out. Likewise from भासदात् (*bhāsadāt*), the shining loin region; and by connection with it, from the shining anal part (*pāyoḥ*) of you, I tear out the yakṣma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O afflicted one)
+- ते (*te*)—your
+- ऊरुभ्यां (*ūrubhyāṃ*)—from the two thighs
+- अष्टीवद्भ्यां (*aṣṭīvadbhyāṃ*)—from the knee regions
+- पार्षिभ्यां (*pārṣibhyāṃ*)—from the heels
+- प्रपदाभ्यां (*prapadābhyāṃ*)—from the great toes of the feet
+- श्रोणिभ्यां (*śroṇibhyāṃ*)—from the hip regions
+- भासदात् (*bhāsadāt*)—from the loins
+- ते (*te*)—your
+- भंससः (*bhaṃsasaḥ*)—from the anal region
+- यक्ष्मं (*yakṣmaṃ*)—the yakṣma disease
+- वि वृहामि (*vi vṛhāmi*)—I separate and tear out
+
+##### भावार्थ (Bhāvārtha)
+
+O afflicted one, from the regions of your two thighs, knees, heels, great toes of the feet, hips, loins and anus, I separate and tear out the yakṣma disease that pervades them.
+
+##### English translation
+I banish disease from your thighs. from your knees, from your heels! from your toes, from your loins, from your buttocks, from your private parts.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मेह॑नाद्वनं॒कर॑णा॒ल्लोम॑भ्यस्ते न॒खेभ्यः॑ ।  
+> यक्ष्मं॒ सर्व॑स्मादा॒त्मन॒स्तमि॒दं वि वृ॑हामि ते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मेहनात् । वनंकरणात् । लोमभ्यः । ते । नखेभ्यः ।  
+> यक्ष्यं । सर्वस्मात् । आत्मनः । तं । इदं । वि । वृहामि । ते ॥ ५ ॥
+
+### Printed p. 1107
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वनंकरणात् । वनमुदकं शारीरं । तत्क्रियते विसृज्यते येन तद्वनंकरणं ॥
+> तस्मान्मेहनान्नेढ्रात्ते तव लोमभ्यो नखेभ्यश्च यक्ष्मं वि वृहामि । किं बहुना ।
+> इदमिदानीं तं यक्ष्मं सर्वस्मादात्मनः कृत्सादेव ते तव शरीराद्वि वृहामि ॥
+
+##### Gist of the bhāṣya
+
+वनं (*vanaṃ*) is the water of the body; that by which it is made, that is, discharged, is the वनंकरणं (*vanaṃkaraṇaṃ*). From that, from the मेहनात् (*mehanāt*), the male organ, from your hairs and from your nails, I tear out the yakṣma. Why say more? I tear out this yakṣma now from your whole self, from your entire body.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O one afflicted by yakṣma)
+- ते (*te*)—your
+- वनंकरणात् (*vanaṃkaraṇāt*)—from the urinary receptacle (bladder)
+- मेहनात् (*mehanāt*)—from the organ of urination (urethra)
+- लोमभ्यः (*lomabhyaḥ*)—from the hairs
+- नखेभ्यः (*nakhebhyaḥ*)—from the nails
+- ते (*te*)—your
+- सर्वस्मात् आत्मनः (*sarvasmāt ātmanaḥ*)—from all the parts of the body
+- तं इदं यक्षं (*taṃ idaṃ yakṣaṃ*)—this yakṣma disease
+- वि वृहामि (*vi vṛhāmi*)—I separate and tear out
+
+##### भावार्थ (Bhāvārtha)
+
+O one afflicted by yakṣma, from your bladder, urinary organ, hair and nails, and from all the other regions of your body, I separate and tear out this yakṣma disease.
+
+##### English translation
+I banish disease from your urethra, from your bladder. from your hair, from your nails, from your whole person.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अंगा॑दंगा॒ल्लोम्नो॑लोम्नो जा॒तं पर्व॑णि पर्वणि ।  
+> यक्ष्यं॒ सर्व॑स्मादा॒त्मन॒स्तमि॒दं वि वृ॑हामि ते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंगात् अंगात् । लोम्नः लोम्नः । जातं । पर्वणिपर्वणि ।  
+> यक्ष्यं । सर्वस्मात् । आत्मनः । तं । इदं । वि । वृहामि । ते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगादंगात् सर्वेभ्योऽंगेभ्यो लोम्मो लोम्नः सर्वेभ्यो लोमभ्यश्च पर्वणि पर्वण्यवयवानां संधौ जातमुत्पन्नं यक्ष्मं वि वृहामि । अन्यद्धतं ॥
+
+##### Gist of the bhāṣya
+
+From every limb, from all the limbs, and from every hair, from all the hairs, and from every पर्वणि (*parvaṇi*), the junctions of the parts of the body, I tear out the yakṣma that has arisen. The rest is as already said.**NOTE**
+
+### Printed p. 1108
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O one afflicted by disease)
+- ते (*te*)—your
+- अंगादंगात् (*aṃgādaṃgāt*)—from every limb (from all the parts)
+- लोनोलोम्नः (*lonolomnaḥ*)—from every hair (from all the body-hairs)
+- पर्वणिपर्वणि (*parvaṇiparvaṇi*)—in all the joints or articulations
+- जातं (*jātaṃ*)—arisen (pervading)
+- इदं तं यक्ष्मं (*idaṃ taṃ yakṣmaṃ*)—that yakṣma disease
+- ते (*te*)—your
+- सर्वस्मात् आत्मनः (*sarvasmāt ātmanaḥ*)—from all the parts of the body
+- वि वृहामि (*vi vṛhāmi*)—I separate and tear out
+
+##### भावार्थ (Bhāvārtha)
+
+O afflicted one, this yakṣma disease that has arisen in, or pervades, all your limbs, all the pores of your hairs, and all your joints, I separate and tear out from all the parts of your body.
+
+##### English translation
+I banish disease from each limb, from each hair. from each joint where it is generated, from your whole person.
+
+## Sūkta 164 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+The hundred and sixty-fourth sūkta
+
+> अपेहीति पंचर्चं त्रयोदशं सूक्तं । अंगिरसस्य प्रचेतस आर्षं । तृतीया
+> त्रिष्टुप् । पंचमी पंक्तिः । दुःस्वप्ननाशनं देवता । तथा चानुक्रांतं । अपेहि पंच
+> प्रचेता दुःस्वप्नघ्नं पंक्त्यंतं त्रिष्टुम्मध्यमिति ॥ लैंगिको विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, beginning अपेहि (*apehi*), has five ṛks. Its seer is Pracetas of the Aṅgiras line. The third ṛk is Triṣṭubh and the fifth is Paṅkti. The deity is the destruction of bad dreams. The Anukramaṇī says the same: five ṛks, seer Pracetas, deity the slayer of bad dreams, ending in Paṅkti with Triṣṭubh in the middle. The use (viniyoga) is laiṅgika.
+
+##### Anuvāda
+
+This sūkta, अपेहि (*apehi*), is the thirteenth sūkta in the twelfth anuvāka. It has five ṛks. Its seer is Pracetas of the Aṅgirasa gotra; its deity is the destruction of bad dreams. Its third ṛk is in the Triṣṭubh metre and its fifth ṛk in the Paṅkti metre. The Anukramaṇī says: five ṛks, seer Pracetas, deity the slayer of bad dreams, ending in Paṅkti, with Triṣṭubh in the middle. The use is laiṅgika.
+
+### Printed p. 1109
+Sūkta 164. Maṇḍala 10, Anuvāka 12, Sūkta 164. Aṣṭaka 8, Adhyāya 8, Varga 22. Number of ṛks in the sūkta: 5. Seer: Pracetas. Deity: the slayer of bad dreams. Metre: 1, 2, 4 Anuṣṭubh; 3 Triṣṭubh; 5 Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपे॑हि मनसस्प॒तेऽप॑ क्राम प॒रश्च॑र ।  
+> प॒रो निर्यु॑त्या॒ आ च॑क्ष्व बहु॒धा जीव॑तो॒ मनः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । इहि । मनसः । पते । अप । क्राम । परः । चर ।  
+> परः । निःऋत्यै । आ । चक्ष्व । बहुधा । जीवतः । मनः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परः । निःऋत्यै । आ । चक्ष्व । बहुधा । जीवतः । मनः ॥ १ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मनसस्पते स्वप्नावस्थस्य मनसः स्वामिन् दुःस्वप्नाधिदेव अपेहि । अपगच्छ!
+> स्वप्नावस्थावतो मत्तो निर्गच्छ । निर्गत्य चाप क्राम । देशांतरं गंतुं पादौ विक्षिप ।
+> दूरदेशं गच्छेत्यर्थः । अपक्रम्य च परः परस्ताद्विप्रकृष्टे देशे चर । यथेच्छं
+> वर्तस्व । अपि च निर्यत्यै पापदेवताय्कॆ परः परस्ताद्वर्तमानाया आ चक्ष्व । वयं
+> न बाधनीया इति प्रब्रूहि । जीवतो मम मनो बहुधा बहुप्रकारं भवति ।
+> भोक्तव्येषु बहुषु विषयेषूत्सुकं सद्वर्तते । अतस्तद्विनाशकं दुःस्वप्नदर्शनं
+> नश्यत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O lord of the mind, that is, O presiding deity of bad dreams, lord of the mind in the dream state: अपेहि (*apehi*), go away, depart from me who am in the dream state. Having departed, अप क्राम (*apa krāma*): move your feet to go to another place; that is, go to a distant place. Having stepped away, चर (*cara*), move about at will, far off in a remote place. Further, आ चक्ष्व (*ā cakṣva*): tell Nirṛti, the deity of sin, who stays far off, "We are not to be harassed." The mind of me, who am alive, is बहुधा (*bahudhā*), of many kinds; it is eager for the many objects to be enjoyed. Therefore may the vision of bad dreams, which destroys it, perish.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसः पते (*manasaḥ pate*)—O deity of bad dreams, lord of the mind in the dream state
+- अपेहि (*apehi*)—go away from my side, as I am in the dream state
+- अप क्राम (*apa krāma*)—go away elsewhere
+- परः (*paraḥ*)—from there, still farther
+- चर (*cara*)—go as you please
+- निर्यत्यै (*niryatyai*)—to the deity of sin called Nirṛti
+- आ चक्ष्व (*ā cakṣva*)—tell her that we are not to be harassed
+- जीवितः (*jīvitaḥ*)—of me, who am living
+- मनः (*manaḥ*)—the mind
+- बहुधा (*bahudhā*)—in many ways, that is, it is attached to many objects
+
+### Printed p. 1110
+
+##### भावार्थ (Bhāvārtha)
+
+O deity of bad dreams, leave me who am in the dream state and go far away. Go to a distant place wherever you please. Tell Nirṛti, the deity of sin, that she should not harass us. The mind of me, who am alive, is attached to many objects and the like.
+
+##### English translation
+Lord of the mind, begone, depart, proceed to a distance: look at Nirriti far off ; the mind of a living being is manifold.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रं वै वरं॑ वृणते भ॒द्रं युं॑जंति॒ दक्षि॑णं ।  
+> भ॒द्रं वै॑वस्व॒ते चक्षु॑र्बहु॒त्रा जीव॑तो॒ मनः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं । वै । वरं । वृणते । भद्रं । युंजंति । दक्षिणं ।  
+> भद्रं । वैवस्वते । चक्षुः । बहुत्रा । जीवतः । मनः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रं वै शोभनमेव वरं वरणीयं दुःस्वप्नविनाशरूपं फलं वृणते ।
+> सर्वे जनाः प्रार्थयंते । दक्षिणं प्रवृद्धं भद्रं शोभनं तत्पलं युंजंति ।
+> प्राप्नुवंति च । नैवस्वते विवस्वतः पुत्रे यमे विषये भद्रं शोभनमेव चक्षुर्दर्शनमहं प्रार्थये । दुःस्वप्नाधिदेवो नैवस्वतोऽस्मान्मा बाधतां । भद्रमेव
+> दर्शनमिह लोकेऽवस्थानलक्षणं करोत्वित्यर्थः । बहुत्रा बहुषु हि विषयेषु
+> जीवतो मम मनो वर्तते ॥
+
+##### Gist of the bhāṣya
+
+भद्रं वै (*bhadraṃ vai*): the auspicious वरं (*varaṃ*), the desirable fruit, which consists in the destruction of bad dreams, all people pray for. दक्षिणं (*dakṣiṇaṃ*), the grown, auspicious fruit, they युंजंति (*yuṃjaṃti*), that is, they obtain. In regard to वैवस्वते (*vaivasvate*), Yama, the son of Vivasvat, I pray for an auspicious चक्षुः (*cakṣuḥ*), a good sight. Let Vaivasvata, the presiding deity of bad dreams, not trouble us; let him make a good sight alone, characterised by staying in this world. For the mind of me, who am alive, is engaged बहुत्रा (*bahutrā*), in many objects.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भद्रं वै (*bhadraṃ vai*)—auspicious
+- वरं (*varaṃ*)—the fruit that all need, consisting in the destruction of bad dreams
+- वृणते (*vṛṇate*)—all people desire
+- दक्षिणं (*dakṣiṇaṃ*)—abundant
+- भद्रं (*bhadraṃ*)—that auspiciousness
+- युंजंति (*yuṃjaṃti*)—all obtain
+- वैवस्वते (*vaivasvate*)—in regard to Yama, the son of Vivasvat
+- भद्रं (*bhadraṃ*)—auspicious
+- चक्षुः (*cakṣuḥ*)—sight I desire
+- जीवतः (*jīvataḥ*)—of me, who am living
+- मनः (*manaḥ*)—the mind
+- बहुत्रा (*bahutrā*)—engages in many objects
+
 ---
 
-**Progress note:** Done through printed p. 1104. pp. 1099-1104 (batch API)
+**Progress note:** Done through printed p. 1110. pp. 1105-1110 (batch API)
