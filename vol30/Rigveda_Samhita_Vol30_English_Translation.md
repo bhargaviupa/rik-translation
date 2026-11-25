@@ -44077,6 +44077,209 @@ This is the last sūkta of the Ṛgveda Saṃhitā. As Agni is praised in the fi
 
 This sūkta beginning संसमिद्यवसे वृषन् (*saṃsamidyavase vṛṣan*) removes difference of opinion and produces friendly feeling. By reciting this sūkta, the ill feeling that may exist among kinsmen, that is, relatives, is removed, and sweet kinship arises among them. In future too no discord will arise among them. After reciting this sūkta, the svasti mantra beginning तच्छंयोरावृणीमहे (*tacchaṃyorāvṛṇīmahe*) should be recited. While meditating on the eternal, luminous Supreme Brahman, one should recite the Mahānāmnī mantras and the Pāvamānī mantras, which destroy enemies and bestow merit. One who desires rain should recite the sūkta beginning आपो हिष्ठा (*āpo hiṣṭhā*). This Ṛgveda Saṃhitā should be recited preceded by Oṃkāra and the vyāhṛtis, beginning with the sūkta beginning अग्निमाळे (*agnimāḷe*) seen by the sage Madhucchandas and continuing to the end of this sūkta, and at the end the Mahānāmnī mantras should be recited. This is the order of reciting the Ṛgveda. By reciting the Ṛgveda Saṃhitā in this way the gods obtained immortality (freedom from death). Therefore the man who, pure each day, recites this Ṛgveda Saṃhitā will obtain increase of well-being and live long. On this very occasion the Pitṛ-sūktas should be recited for the pleasure of the ancestors. By reciting these sūktas the ancestors, and the deities of those sūktas, the Vasus, Rudras, Ādityas and the Viśvedevas, become pleased. Afterwards a man who knows dharma should perform the vāstu-homa for the sake of peace. Having duly worshipped the vāstu deity with flowers, perfumes, garlands and the like, with herbs and trees, and with grains and the like, he should then offer into the fire to the deity Vāstoṣpati with pāyasa, and to Bṛhaspati with fuel-sticks of the udumbara and palāśa trees, and should present a bali offering in every direction. Sūrya, Vāyu, Yama, the Pitṛs, Varuṇa, Nirṛti, Soma and Mahendra, these eight deities are the lords of the eight directions and intermediate directions beginning with the east. Afterwards dakṣiṇā should be given to Brāhmaṇas; by this the vāstu deity becomes well pleased. Every year the master of the house should do this in his own house. By the method stated above and by other methods not stated here, a man who wishes to propitiate other deities such as Agni, Indra, Vāyu and Sūrya should propitiate each deity by employing the sūkta addressed to that deity. If the deities are propitiated with mantras seen by the sages, the desired aim is accomplished. For the perfection of the rite, dakṣiṇā should be given to all. The great sage Śaunaka has said that no rite should be performed without dakṣiṇā. Therefore in all rites some dakṣiṇā, however small, should be given according to one's means. If this is done, the rite
 
+### Printed p. 1278
+Gist of the Kannada text that opens the page (continuing the preceding sūkta): when the work is completed, the performer should make eleven gifts of cows to his guru, who officiated as priest in this rite; this pleases the guru. Gifts are to be given only to a Brāhmaṇa who knows Brahman and speaks the truth; such a gift brings the full fruit. The rite thus prescribed is of the nature of the supreme Brahman, purifying, most wonderful and most secret. This instruction in the rite is not to be told to one whose mind is not calm, to one without sons, to one who has not practised austerity, to a disciple who has not lived near his guru and served him even for one year, or to one who is not dear to him.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संसमिति चतुर्ऋचं चत्वारिंशं सूक्तं संवननस्यार्षं । समानो मंत्र इति
+> तृतीया त्रिष्टुप् शिष्टास्तिस्रोऽनुष्टुभः । प्रथमाया अग्निर्देवता । शिष्टानां
+> संज्ञानं । अनुक्रम्यते च । संसं चतुष्कं संवननः संज्ञानमाद्याग्नेयिा तृतीया
+> त्रिष्टुप् तृतीया त्रिष्टुबिति । आनुष्टुभं त्विति पूर्वमुक्तत्वादवशिष्टानामनुष्टुप्तं ॥
+> सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning संसं (*saṃsaṃ*) has four Ṛks and is the forty-first of the Anuvāka's sūkta series, with Saṃvanana as seer. The deity of the first Ṛk is Agni; of the rest, Saṃjñāna. The third Ṛk, समानो मंत्रः (*samāno maṃtraḥ*), is in Triṣṭubh; the other three are in Anuṣṭubh. The Anukramaṇī says: संसं चतुष्कं संवननः संज्ञानमाद्याग्नेयिा तृतीया त्रिष्टुप् (*saṃsaṃ catuṣkaṃ saṃvananaḥ saṃjñānamādyāgneyiā tṛtīyā triṣṭup*). The Anuṣṭubh character of the remaining verses follows from the earlier statement आनुष्टुभं तु (*ānuṣṭubhaṃ tu*). The use of the sūkta is by indication (liṅga).
+
+##### Anuvāda
+
+This sūkta, संसं (*saṃsaṃ*), is the fortieth sūkta in the twelfth anuvāka. It has four Ṛks. Its seer is Saṃvanana; the deity of the first Ṛk is Agni, and of the remaining Ṛks Saṃjñāna. The third Ṛk, समानो मंत्रः (*samāno maṃtraḥ*), is in Triṣṭubh; the other three are in Anuṣṭubh. The Anukramaṇī's statement संसं चतुष्कं संवननः संज्ञानमाद्याग्नीया तृतीया त्रिष्टुप् (*saṃsaṃ catuṣkaṃ saṃvananaḥ saṃjñānamādyāgnīyā tṛtīyā triṣṭup*), together with the earlier आनुष्टुभं तु (*ānuṣṭubhaṃ tu*) (in the introduction to the previous sūkta), shows that all Ṛks other than the third are Anuṣṭubh. The use of the sūkta is by indication.
+
+Sūkta 191. Maṇḍala 10, Anuvāka 12, Sūkta 191. Aṣṭaka 8, Adhyāya 8, Varga 49. Number of Ṛks in the sūkta: 4. Seer: Saṃvanana. Deity: 1. Agni; 2–4. Saṃjñāna. Metre: 1, 2, 4. Anuṣṭubh; 3. Triṣṭubh.
+
+### Printed p. 1279
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> संस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ ।  
+> इ॒ळस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संसं । इत् । युवसे । वृषन् । अग्ने । विश्वानि । आर्यः । आ ।  
+> इळॆः । पदे । सं । इध्यसे । सः । नः । वसूनि । आ । भर ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन्मामानां वर्षितरग्ने अर्य ईश्वरस्त्वं ॥ आर्यः स्वामिवैश्ययोः ।
+> पा. ३-१-१०३ । इति यत्प्रत्ययांतो निपातितः । आर्यः स्वाम्याख्यायां । फि. १-१८ ।
+> इत्यंतोदात्तत्वं ॥ स त्वं विश्वानि सर्वाणि भूतजातानि संसं ॥ प्रसमुपोदः पादपूरणे । पा. ८-१-६ । इति समो द्विर्वचनं ॥ इच्छब्दोऽवधारणे । आ समंतात्सं
+> युवसे ! मिश्रयसि । देवेषु मध्यॆ त्वमेव सर्वाणि भूतजातानि वैश्वानरात्मना
+> व्याप्नोषि । नान्य इत्यर्थः । किं चेळ इडायाः पृथिव्याः पदे स्थान उत्तरवेदिलक्षणे।
+> एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः । ऐ. ब्रा. १-२८ । इति ब्राह्मणं । तत्र त्वं
+> समिध्यसे । ऋत्विग्निः संदीप्यसे । स तादृशस्त्वं नोऽस्माकं वसूनि धनान्या भर ।
+> आहर ॥
+
+##### Gist of the bhāṣya
+
+"O showerer (वृषन् (*vṛṣan*)) of benefits, Agni, you, the lord (आर्यः (*āryaḥ*))." आर्यः (*āryaḥ*) is formed with the affix yat, irregularly, in the sense of lord and Vaiśya; it is acute on the final syllable by the Phiṭ rule. You bring together (युवसे (*yuvase*), "you mix") all (विश्वानि (*viśvāni*)) beings; the doubling of सं (*saṃ*) is for filling out the pāda, and इत् (*it*) is for emphasis. Among the gods you alone pervade all beings in the form of Vaiśvānara; none other does. Further, you are kindled by the priests at the place (पदे (*pade*)) of Iḷā, the earth, which is the Uttaravedi; the Brāhmaṇa says: एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः (*etadvā iḷāyāspadaṃ yaduttaravedīnābhiḥ*) (Ai. Brā. 1-28). Such as you are, bring (आ भर (*ā bhara*)) us riches (वसूनि (*vasūni*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—one who showers desired objects
+- अग्ने (*agne*)—O Agni
+- आर्यः (*āryaḥ*)—you who are the lord of all
+- विश्वानि (*viśvāni*)—all creatures
+- संसं (*saṃsaṃ*)—as one, that is, so as to be of one mind in friendship
+- आ (*ā*)—in every way
+- युवसे (*yuvase*)—you unite
+- इळः (*iḷaḥ*)—of the earth
+- पदे (*pade*)—in the place, the Uttaravedi (you)
+- सं इध्यसे (*saṃ idhyase*)—you blaze, kindled by the priests
+- सः (*saḥ*)—such a you
+- नः (*naḥ*)—to us
+- वसूनि (*vasūni*)—riches
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, giver of desired things, you, lord of all, dwell in the bodies of all creatures in the form of Vaiśvānara and unite them in every way so that they are as one. On the Uttaravedi of the sacrifice you are kindled by the priests and blaze most brilliantly. Such as you are, bring us riches.
+
+### Printed p. 1280
+
+##### English translation
+Agni, showerer (of benefits), you who are the lord, you verily combine with all creatures, you are kindled upon the footmark of Ila, (the altar); bring unto us riches.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं ग॑च्छध्वं॒ सं व॑दध्वं॒ सं वो॒ मनां॑सि जानतां ।  
+> दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । गच्छध्वं । सं । वदध्वं । सं । वः । मनांसि । जानतां ।  
+> देवाः । भागं । यथा । पूर्वे । संजानानाः । उपआसते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः यूयं सं गच्छध्वं । संगताः संभूता भवत ॥ समो
+> गम्यच्छेत्यादिना गमेरात्मनेपदं ॥ तथा सं वदध्वं । सह वदत । परस्परं विरोधं
+> परित्यज्यैकविधमेव वाक्यं ब्रूतेति यावत्॥ व्यक्तवाचां समुच्चारणे । पा. १-३-४८।
+> इति वदेरात्मनेपदं ॥ वो युष्माकं मनांसि सं जानतां । समानमेकरूपमेनार्थमवगच्छंतु ॥ संप्रतिभ्यामनाध्याने । पा. १-३-४६ । इति जानातेरात्मनेपदं ॥
+> यथा पूर्वे पुरातना देवाः संजानाना ऐकमत्यं प्राप्ता हविर्भागमुपासते
+> यथास्वं स्वीकुर्वंति तथा यूयमपि वैमत्यं परित्यज्य धनं स्वीकुरुतेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O praisers, come together (सं गच्छध्वं (*saṃ gacchadhvaṃ*)), be united; the root gam takes the ātmanepada by the rule beginning समो गम्यच्छ (*samo gamyaccha*). Likewise speak together (सं वदध्वं (*saṃ vadadhvaṃ*)): give up mutual opposition and utter one kind of speech; vad takes the ātmanepada (Pā. Sū. 1-3-48). Let your (वः (*vaḥ*)) minds (मनांसि (*manāṃsi*)) know together (सं जानतां (*saṃ jānatāṃ*)), that is, grasp one and the same meaning; jñā takes the ātmanepada (Pā. Sū. 1-3-46). As the ancient gods, concurring (संजानानाः (*saṃjānānāḥ*)), attained unanimity and each takes up his portion of the oblation, so you also, giving up disagreement, take up wealth. This last is the supplied remainder.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praisers) सं गच्छध्वं (*saṃ gacchadhvaṃ*)—always stay together and go together
+- सं वदध्वं (*saṃ vadadhvaṃ*)—give up mutual opposition and speak in one manner
+- वः (*vaḥ*)—your
+- मनांसि (*manāṃsi*)—minds
+- सं जानतां (*saṃ jānatāṃ*)—let them, giving up differences, proceed along one kind of path
+- पूर्वे (*pūrve*)—ancient
+- देवाः (*devāḥ*)—gods
+- यथा (*yathā*)—as
+- संजानानाः (*saṃjānānāḥ*)—united in unanimity
+- भागं (*bhāgaṃ*)—their portion of the oblation
+- उपासते (*upāsate*)—accept; so you also, in unanimity, accept riches and the like
+
+### Printed p. 1281
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, always be of one mind; wherever you must go, go together. When you speak, give up mutual opposition and speak expressing one opinion. Let your minds be one, giving no room to differences. As the ancient gods accept their portion of the oblation united in unanimity, so you also accept the wealth and the rest obtained through the gods' grace.
+
+##### English translation
+Meet together, talk together, let your minds apprehend alike; in like manner as the ancient gods concurring accepted their portion of the sacrifice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नो मंत्रः॒ समि॑तिः समा॒नी स॑मा॒नं मनः॑ स॒ह चि॒त्तः  ॑
+> मेषां ।  
+> स॒मा॒नं मंत्र॑म॒भि मं॑त्रये वः समा॒नेन॑ वो ह॒विषा॑  
+> जुहोमि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानः । मंत्रः । संइतिः । समानी । समानं । मनः । सह । चित्तं । एषां ।  
+> समानं । मंत्रं । अभि । मंत्रये । वः । समानेन । वः । हविषा । जुहोमि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोऽर्धर्चः परोक्षकृतः उत्तरः प्रत्यक्षकृतः । एषामेकस्मिन्कर्मणि सह
+> प्रवृत्तानामृत्विजां स्तोत्थणां वा मंत्रः स्तुतिः शस्त्राद्यात्मका गुप्तभाषणं वा
+> समान एकविधोऽस्तु । तथा समितिः प्राप्तिरपि समानैकरूपास्तु ॥ केवलमामकेत्यादिना समानशब्दाद्वीप् । उदात्तनिवृत्तिस्वरेण जीप उदात्तत्वं ॥ तथा मनो
+> मननसाधनमंतःकरणं चैषां समानमेकविधमप्यस्तु । चित्तं विचारजं ज्ञानं
+> तथा सह सहितं परस्परस्यॆकार्थेनैकीभूतमस्तु । अहं च वो युष्माकं समानमेकविधं मंत्रमभि मंत्रये । ऐकविध्याय संस्करोमि । तथा वो युष्माकं स्व-
+> 81
+
+**NOTE**
+
+> भूतेन समानेन साधारणेन हविषा चरुपुरोडाशादिनाहं जुहोमि ॥ तृतीया
+> च होश्चंदसि । पा. २-३-३ । इति कर्मणि कारके तृतीया ॥ वषट्कारेण हविः प्रक्षेपयामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The first half-verse is in the third person (parokṣakṛta), the second in the first person addressed directly (pratyakṣakṛta). Of these (एषां (*eṣāṃ*)), priests or praisers engaged together in one rite, let the mantra (मंत्रः (*maṃtraḥ*)), meaning the praise consisting of śastra and the like, or the secret speech, be common (समान (*samāna*)), of one kind; likewise let the attainment (समितिः (*samitiḥ*)) be common and of one form. समानी (*samānī*) takes the feminine suffix वीप् (*vīp*) after समान (*samāna*) by the rule beginning केवलमामक (*kevalamāmaka*), with the acute by the udātta-nivṛtti accent. Likewise let their mind (मनः (*manaḥ*)), the inner organ of thought, be of one kind; let their cognition (चित्तं (*cittaṃ*)), knowledge born of deliberation, be united (सह (*saha*)) in one purpose. And I consecrate (अभि मंत्रये (*abhi maṃtraye*)) for you a common mantra, for the sake of uniformity. And for you I offer (जुहोमि (*juhomi*)) with a common oblation (हविषा (*haviṣā*)), a shared one
+
+### Printed p. 1282
+ of cooked rice, cake and the like. The instrumental is in the object sense by Pā. Sū. 2-3-3, "and in the Veda the third case with hu". The meaning is: I cast the oblation with the vaṣaṭ-call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these priests, sacrificers and praisers engaged in one rite
+- मंत्रः (*maṃtraḥ*)—the recitation of the mantra, or the praise
+- समानः (*samānaḥ*)—let it be of one kind (and likewise)
+- समितिः (*samitiḥ*)—the fruit obtained from it
+- समानी (*samānī*)—let it be of one kind, that is, equal, none having more and none less
+- मनः (*manaḥ*)—their mental inclination
+- समानं (*samānaṃ*)—let it be of one kind
+- चित्तं (*cittaṃ*)—discriminating knowledge
+- सह (*saha*)—let it be of one kind in unanimity. O gods, (I)
+- वः (*vaḥ*)—for you
+- समानं (*samānaṃ*)—of one kind
+- मंत्रं (*maṃtraṃ*)—the mantra
+- अभि मंत्रये (*abhi maṃtraye*)—I recite and consecrate (likewise)
+- वः (*vaḥ*)—to you
+- समानेन (*samānena*)—with a common
+- हविषा (*haviṣā*)—oblation of cooked rice, cake and the like
+- जुहोमि (*juhomi*)—I offer
+
+##### भावार्थ (Bhāvārtha)
+
+Let the mantra-recitation or praise of these priests, sacrificers and praisers engaged in one rite be of one kind, and let the fruit obtained from it come to all equally, without more or less. Let their mental inclination and discriminating knowledge not differ but be of one kind in unanimity. O gods, I recite for you one kind of mantra (that is, not a different mantra for each god, but one common to all) and consecrate the oblations and the rest; and with an oblation of one kind, of cooked rice, cake and the like, I offer the libation to you.
+
+##### English translation
+Common be the prayer of these (assembled worshippers), common be the acquirement, common the purpose, associated be the desire. I repeat for you a common prayer, I offer for you with a common oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+The bhāṣya explains that the first half of this Ṛk is a description in the third person (parokṣakṛta) and the second half in the first person addressed directly (pratyakṣakṛta). What these two terms mean is explained here briefly. On this subject Yāska says in his Nirukta:
+
+तद्यानि नामानि प्राधान्यस्तुतीनां देवतानां तद्वैवतमित्याचक्षते । यत्काम ऋषियर्स्यां देवतायामार्थपत्यमिच्छन् स्तुतिं प्रयुंक्ते तद्वैवतः स (*tadyāni nāmāni prādhānyastutīnāṃ devatānāṃ tadvaivatamityācakṣate | yatkāma ṛṣiyarsyāṃ devatāyāmārthapatyamicchan stutiṃ prayuṃkte tadvaivataḥ sa*)
+
+### Printed p. 1283
+मंत्रो भवति । तास्त्रिविधा ऋचः परोक्षकृताः प्रत्यक्षकृता आध्यात्मिक्यश्च । तत्र परोक्षकृताः सर्वाभिर्नामविभक्तिभिर्युज्यंते प्रथमपुरुषैश्चाख्यातस्य । अथ प्रत्यक्षकृता मध्यमपुरुषयोगास्त्वमिति चैतेन सर्वनाम्ना । अथाध्यात्मिक्य उत्तमपुरुषयोगा अहमिति चैतेन सर्वनाम्ना । परोक्षकृताः प्रत्यक्षकृताश्च मंत्रा भूयिष्ठा अल्पश आध्यात्मिकाः ॥ (*maṃtro bhavati | tāstrividhā ṛcaḥ parokṣakṛtāḥ pratyakṣakṛtā ādhyātmikyaśca | tatra parokṣakṛtāḥ sarvābhirnāmavibhaktibhiryujyaṃte prathamapuruṣaiścākhyātasya | atha pratyakṣakṛtā madhyamapuruṣayogāstvamiti caitena sarvanāmnā | athādhyātmikya uttamapuruṣayogā ahamiti caitena sarvanāmnā | parokṣakṛtāḥ pratyakṣakṛtāśca maṃtrā bhūyiṣṭhā alpaśa ādhyātmikāḥ ‖*)
+(Ni. 7-1 to 3)
+
+That is, among mantras there are many kinds: mantras to a deity, praise-mantras, blessing-mantras, oath, curse, a "someone's state", lamentation, blame and praise. A mantra to a deity (daivata) is one describing the greatness of gods; praise (stuti) is a mantra containing hymns and prayers; a blessing-mantra is a blessing, a wish for good; an oath (śapatha) is a vow; a curse (abhiśāpa) is an ill wish; a "someone's state" (kaścidbhāva) is the explanation of a subject or principle; lamentation (paridevanā) is grief, distress; blame (nindā) is censure; praise (praśaṃsā) is eulogy, praise of gifts and so on.
+
+Among the many kinds mentioned, the Ṛks called daivata are of three kinds: parokṣakṛta, pratyakṣakṛta and ādhyātmika. Parokṣakṛta means: because the deity praised is not present, mantras use third-person nouns and verbs (third person both in subject and predicate) concerning that deity. Pratyakṣakṛta means: Ṛks that praise the deity as if present before one, addressing it with second-person words (second person) such as "you" and "your". Ādhyātmika means: mantras that praise using the first person. Of these three kinds, the two, parokṣakṛta and pratyakṣakṛta, are the most numerous; the ādhyātmika mantras are very few.
+
+In classifying the Ṛks of the Ṛgveda by meaning, Yāska says there are many varieties, including parokṣakṛta, pratyakṣakṛta, परोक्षकृतः प्रत्यक्षकृतश्च (*parokṣakṛtaḥ pratyakṣakṛtaśca*), ādhyātmika, praise, blessing, oath, curse, कस्यचिद्भाव (*kasyacidbhāva*), lamentation, blame and so on, and he explains them by examples. Thus:
+
+(1) Parokṣakṛta—In such a Ṛk the deity is praised as if not before one, not seen, but remote. In this case any of the case-endings of the pronoun may be used, but the verb must be in the third person.
+
 ---
 
-**Progress note:** Done through printed p. 1277. pp. 1272-1277 (batch API)
+**Progress note:** Done through printed p. 1283. pp. 1278-1283 (batch API)

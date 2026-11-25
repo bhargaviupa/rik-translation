@@ -12,3 +12,4 @@
 - 2026-11-25: w1013: remark '—as printed' removed from a word-list entry (en.md).
 - 2026-11-25: w1149: a '[figure: …]' line in kn.md was a printed ornament (a divider, looked at the picture): line removed (kn.md; no text).
 - 2026-11-25: Vol 30, w1228 (Sūkta 10.180?): Ṛk headings at the start of the window were out of order/empty (#### Ṛk 3, Ṛk 4, Ṛk 5 over one Saṃhitā block): reduced to #### Ṛk 3 with its Saṃhitā heading; p. 990: the two Saṃhitā lines of Ṛk 2 split at the page break as in the Kannada file (check_labels). English file only, no text changed.
+- 2026-11-25: w1278: remark '[as printed: fortieth]' removed from a Gist (en.md); the numbering difference of the printed anuvāka position is not a NOTE yet: for the editor.
