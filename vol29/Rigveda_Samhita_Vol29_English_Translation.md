@@ -4322,6 +4322,278 @@ His head is deposited in a cavern; his eyes are vide apart; with his tongue he d
 > प्र मा॒तुः प्र॑त॒रं गुह्य॑मि॒च्चन्कु॑मा॒रो न वी॒रुधः॑ सर्पदु॒र्वीः ।  
 > स॒सं न प॒क्वम॑विदच्चु॒चंतं॑ रिरि॒ह्वांसं॑ रि॒प उ॒पस्थे॑ अं॒तः ॥ ३॥
 
+### Printed p. 155
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मातुः । प्रतरं । गुह्यं । इच्छन् । कुमारः । न । वीरुधः । सर्पत् । उर्वीः ।  
+> ससं । न । पक्वं । अविदत् । शुचंतं । रिरिह्वांसं । रिपः । उपस्थे । अंतरिति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्मातुः पृथिव्याः संबंधिनीरुर्वीर्बह्वीर्वीरुधो लता इच्छन्
+> तथा प्रतरं पृकृष्टतरं गुह्यं गोप्यं तासां वीरुधां मूलमपीच्छन्यामयमानः प्र सर्पत् । प्रसर्पति । प्रसरति । किमिव । कुमारो न कुमार इव । स यथा
+> स्तन्यं पातुं जानुभ्यां सर्पति तद्वत् । ससं न पक्वं पक्वमन्नमिव शुचंतं
+> दीप्यमानं नीरसं वृक्षं रिपः पृथिव्याः उपस्थेऽन्तरुत्संगेऽंतरविदत् । विंदति ।
+> पुनः कीदृशं । रिरिह्वांसमाकाशमास्वादयंतं । यद्वा । मूलैर्मातरं पृथिवीं
+> रिरिह्वांसं ॥
+
+##### Gist of the bhāṣya
+
+This Agni, desiring the many creepers that belong to the earth, the mother, and also the more excellent, hidden roots of those creepers, creeps forth. How? Like a child, who crawls on his knees to drink the breast. Like ripe food, he finds the shining, sapless tree in the lap of the earth, within her bosom. Of what kind is the tree? It tastes the sky. Or else: with its roots it tastes the mother, the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- मातुः (*mātuḥ*)—belonging to the earth
+- ऊर्विः (*ūrviḥ*)—abundant
+- वीरुधः (*vīrudhaḥ*)—the creepers
+- प्रतरं (*prataraṃ*)—excellently
+- गुह्यं (*guhyaṃ*)—hidden within the earth, the roots of those creepers
+- इच्छन् (*icchan*)—desiring
+- कुमारो न (*kumāro na*)—like a young child
+- प्र सर्पत् (*pra sarpat*)—he creeps
+- पक्वं (*pakvaṃ*)—ripe
+- ससं न (*sasaṃ na*)—like food
+- शुचंतं (*śucaṃtaṃ*)—shining
+- रिरिह्वांसं (*ririhvāṃsaṃ*)—embracing the atmosphere, the tree
+- रिपः (*ripaḥ*)—of the earth
+- उपस्थे अंतः (*upasthe aṃtaḥ*)—upon the lap
+- अविदत् (*avidat*)—he obtains
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, desiring the abundant creepers that belong to the earth and the roots of those creepers, excellently hidden within the earth, creeps like a young child. He obtains, upon the lap of the earth, the tree that shines like ripe food and embraces the atmosphere. That is to say, he at once burns the tree that stands dry upon the earth.
+
+##### English translation
+Longing for the abundant creepers of the maternal (earth, longing for) their more excellent concealed (root), he creeps like a child; he has found the tree shining like ripe grain, upon the lap of the earth, tasting (the ether).
+
+### Printed p. 156
+
+##### विशेषविषयगळु (Special Topics)
+
+On the phrase ससं न पक्वं अविदत् शुचंतं (*sasaṃ na pakvaṃ avidat śucaṃtaṃ*) Yāska has given the explanation स्वपनमेतन्माध्यमिकं ज्योतिरनित्यदर्शनं तदिवादज्ञाज्वल्यमानं । (*svapanametanmādhyamikaṃ jyotiranityadarśanaṃ tadivādajñājvalyamānaṃ |*) (Ni. 5-3). Agni at once, in a gulp, eats the tree that shines, that is like ripe food, and that stands dry upon the earth. How? An object seen in a dream lasts only a moment and then becomes invisible. In the same way the lightning that appears in the atmosphere amid the clouds is seen for a moment only and at once becomes invisible. Like that, Agni eats, that is, burns, the ripe food in the form of the dry standing tree at once, that is, in the time in which one closes and opens the eye, in the shortest time. This is the meaning.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद्वा॑मृ॒तं रो॑दसी॒ प्रब्र॑वीमि॒ जाय॑मानो मा॒तरा॒ गर्भो॑  
+> अत्ति ।  
+> नाहं दे॒वस्य॒ मर्त्य॑श्चिकेता॒ग्निरं॒ग विचे॑ताः॒ स प्रचे॑ताः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> • ॥ पदपातः ॥ •  
+> तत् । वां । ऋतं रोदसी इति । प्र । ब्रवीमि । जायमानः । मातरा । गर्भः ।  
+> अत्ति ।  
+> न । अहं । देवस्य । मर्त्यः । चिकेत । अग्निः : अंग, विचेताः । सः प्रचेताः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रोदसी द्यावापृथिव्यौ वां युवां तदृतं सत्यं प्रब्रवीमि यदरणीभ्यां
+> जायमान उत्पन्नो गर्भो गर्भस्थानीयोऽग्निर्मातरारणी अत्ति भक्षयति । देवस्य
+> द्योतनादिगुणस्याग्नेर्वर्तनं मर्त्यो मनुष्योऽहं न चिकेत । न जानामि ।
+> हे अंग वैश्वानर अग्निररणीभ्यामुत्पन्नो विचेता विविधज्ञानवान् स प्रचेताः
+> प्रकृष्टज्ञानः । अतो न जानामीत्यर्थः । अथवांगेत्यात्मानमेव संबोध्य
+> ब्रवीमि । अग्निरेव विचेता बहुधा जानाति स प्रचेताः स एव जानाति । स्वमहिमानं
+> नाहं स्तोतुं प्रभवामीत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+O heaven and earth, I tell you this truth: Agni, born from the two fire-sticks as an embryo, as it were, devours his two mothers, the two fire-sticks. I, a mortal man, do not know the course of action of the deity Agni, whose qualities are shining and the like. O dear Vaiśvānara, Agni, born from the two fire-sticks, is of manifold knowledge; he is of excellent knowledge. Therefore I do not know, such is the meaning. **NOTE** Or else, addressing himself as "dear one", he says: Agni alone knows in manifold ways; he, of excellent knowledge, alone knows. I am not able to praise his own greatness; such is the meaning.
+
+### Printed p. 157
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोदसी (*rodasī*)—O heaven and earth
+- नां (*nāṃ*)—to you
+- तत् ऋतं (*tat ṛtaṃ*)—this truth
+- प्र ब्रवीमि (*pra bravīmi*)—I declare
+- जायमानः (*jāyamānaḥ*)—as soon as he is born
+- गर्भः (*garbhaḥ*)—Agni in the form of an embryo
+- मातरा (*mātarā*)—his mothers, the two fire-sticks
+- अत्ति (*atti*)—devours
+- देवस्य (*devasya*)—of Agni, whose nature is divine, the nature
+- मर्त्यः (*martyaḥ*)—a man
+- अहं (*ahaṃ*)—I
+- न चिकेत (*na ciketa*)—cannot know
+- आंग (*āṃga*)—O sacrificer
+- अग्निः (*agniḥ*)—Agni, born from the fire-stick
+- विचेताः (*vicetāḥ*)—possessed of manifold knowledge
+- स प्रचेताः (*sa pracetāḥ*)—possessed of most excellent knowledge
+
+##### भावार्थ (Bhāvārtha)
+
+O heaven and earth, I declare to you this truth. As soon as he is born, Agni in the form of an embryo devours his mothers, the two fire-sticks (the trees). I, a man, cannot know the nature of Agni, whose nature is divine. O sacrificer, Agni, born from the fire-stick, is possessed of manifold knowledge and of most excellent knowledge.
+
+##### English translation
+This (that) I declare unto you, heaven and earth, (is) the truth; as soon as born, the embryo devours the parents ; I who am a mortal know not (the condition) of the deity ; Agni, (O Vaishwanara), is discriminating he is exceedingly wise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॑स्मा॒ अन्नं॑ तृ॒ष्णा॒३॒॑ऽदधा॒त्याज्यै॑र्घृ॒तैर्जु॒होति॒ पुष्य॑ति ।  
+> तस्यै॑ स॒हस्र॑म॒क्षभि॒र्वि च॒क्षेऽग्ने॑ वि॒श्वतः॑ प्र॒त्यज्ज॑सि॒ त्वं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अस्मै । अन्नं । तृषु । आदधाति । आज्यैः । घृतैः । जुहोति । पुष्यति ।  
+> तस्मै । सहस्रं । अक्षभिः । वि । चक्षे । अग्ने । विश्वतः । प्रत्यज् । असि । त्वं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो यजमानोऽस्मा अग्नये तृषु क्षिप्रमन्नमादधाति करोत्याज्यैर्घृतैः
+> क्षरद्रूपैर्दीप्तैर्वा सोमरसैर्जुहोति पुष्यति पुष्णाति चैनं काष्ठैः तस्यॆ ।
+
+##### Gist of the bhāṣya
+
+The sacrificer who quickly provides this Agni with food, makes oblations to him with ghee, which is flowing, or with shining Soma-juices, and nourishes him with logs of wood: him, the sacrificer, is the meaning.
+
+### Printed p. 158
+
+> तमित्यर्थः । तं सहस्रं सहस्रसंख्याकैरक्षभिरक्षिस्थानीयाभिरपरिमिताभिर्ज्वालाभिर्वि
+> चक्षे । विचष्टे । विपश्यति । अथ प्रत्यक्षकृतः । हे अग्ने त्वं विश्वतः सर्वतः प्रत्यज्जसि ।
+> प्रत्यगंचनो भवसि । अस्मदानुकूल्येन प्रवर्तमानो भवसि ॥
+
+##### Gist of the bhāṣya
+
+Him Agni looks upon with a thousand eyes, that is, with countless flames that stand in the place of eyes; he sees him with favour. Now, turned to him directly: O Agni, you are on every side turned towards us; you act in a manner favourable to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the sacrificer who
+- अस्मै (*asmai*)—for this Agni
+- तृषु (*tṛṣu*)—quickly
+- अन्नं (*annaṃ*)—food
+- आ दधाति (*ā dadhāti*)—offers
+- आज्यैः धृतैः (*ājyaiḥ dhṛtaiḥ*)—with flowing ghee, or with flowing Soma-juices
+- जुहोति (*juhoti*)—offers the oblation
+- पुष्यति (*puṣyati*)—nourishes by offering logs of wood and the like
+- तस्मै (*tasmai*)—that sacrificer
+- सहस्रं (*sahasraṃ*)—a thousand in number
+- अक्षभिः (*akṣabhiḥ*)—with eyes
+- वि चक्षे (*vi cakṣe*)—Agni looks upon
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- विश्वतः (*viśvataḥ*)—in every respect
+- प्रत्यज् असि (*pratyaj asi*)—you are favourable to us
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer who quickly offers food to this Agni, and offers the oblation in the form of flowing Soma-juice, and nourishes him with logs of wood and the like, that sacrificer Agni looks upon with a thousand eyes (with a mind of favour). O Agni, you are favourable to us in all matters.
+
+##### English translation
+He who quickly offers him food, makes oblations to him with dripping Soma-juices, and delights him (with food); (Agni) looks upon him with a thousand eyes; you Agni, are everywhere present.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं दे॒वेषु॒ त्यज॒ एन॑श्चक॒र्थाग्ने॑ पृ॒च्छामि॒ नु त्वामवि॑द्वान् ।  
+> अक्री॑ळ॒न् क्रीळ॒न्नरि॒रत्त॑वे॒दन्नि प॑र्व॒शश्च॑कर्त॒ गामि॑वा॒सिः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । देवेषु । त्यजः । एनः । चकर्थ । अग्ने । पृच्छामि । नु । त्वां । अविद्वान् ।  
+> अक्रीळन् । क्रीळन् । हरिः । अत्तवे । अदन् । वि । पर्वशः । चकर्थ । गां इव । असिः ॥
+
+### Printed p. 159
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां नु क्षिप्रं देवेषु किं त्यजः क्रोधमेन? पापं च चकर्थ
+> कृतवानसीत्यविद्वान्हं पृच्छामि । खांडवं दहंतमग्निं पृच्छामि । किंचाक्रीळन्
+> क्वचिद्देशेऽविहरन् क्रीळन् क्वचिद्देशे विनोदयल्लीलया दहन्हरिर्हरितवर्णः
+> सन्नत्तवेऽत्तव्यमदन्नकाष्ठादिकं पर्वशः संधौ संधौ वि चकर्थ । विविधं करोषि ।
+> गामिवासिः गां यथासिः स्वधितिः पर्वशश्चि नत्ति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, I ask you quickly: what wrath and what sin have you committed among the gods? I ask in ignorance. I ask Agni, who burned the Khāṇḍava forest. Further: not sporting in one place, sporting in another, burning playfully, being of green hue, eating what is to be eaten, such as wood and the like, you divide it variously, joint by joint. Like a knife, which cuts a cow joint by joint, so you do.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वां (*tvāṃ*)—you
+- नु (*nu*)—quickly
+- देवेषु (*deveṣu*)—among the gods
+- किं त्यजः (*kiṃ tyajaḥ*)—what wrathful act
+- एनः (*enaḥ*)—sin
+- चकर्थ (*cakartha*)—you have committed
+- अविद्वान् (*avidvān*)—I, who do not know
+- पृच्छामि (*pṛcchāmi*)—ask
+- आक्रीळन् (*ākrīḷan*)—not sporting in some places
+- क्रीळन् (*krīḷan*)—sporting in some places
+- हरिः (*hariḥ*)—Agni, being of green hue
+- आत्तवे (*āttave*)—what is to be eaten
+- अदन् (*adan*)—eating
+- गां (*gāṃ*)—a cow
+- आसिः (*āsiḥ*)—as a knife cuts
+- पर्वशः (*parvaśaḥ*)—in the joints
+- वि चकर्थ (*vi cakartha*)—he splits
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I who do not know ask you what wrathful act and what sin you have committed among the gods. Being of green hue, Agni, sporting in some places and not sporting in others, eating what is to be eaten, splits it in the joints, as a knife cuts up an animal (for its flesh).
+
+##### English translation
+What wrathful act, what sin have you committed among the gods? Ignorant I ask you, Agni, sporting (here) not sporting (there), golden-hued ; eating what is to be eaten, you cut (your food) into pieces as the knife (cuts up) the cow.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विसू॑चो॒ अश्वा॑न्युयुजे वने॒जा ऋजी॑तिभी रश॒नाभि॑र्गृभी॒तान् ।  
+> च॒क्ष॒दे मि॒त्रो वसु॑भिः॒ सुजा॑तः॒ समा॑नृधे॒ पर्व॑भिर्वा वृधा॒नः॥
+
+### Printed p. 160
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ पपसाधे ॥  
+> विषूचः । अश्वान् । युयुजे । वनेऽजाः । ऋजीतिभिः । रशनाभिः । गृभीतान् ।  
+> चक्षदे । मित्रः । वसुऽभिः । सुऽजातः । सं । आन्यधे । पर्वऽभिः । ववृधानः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्विषूचो विश्वगंचनानश्वान्वाप्तान्महतो वृक्षान्सर्वतो
+> गंत्यनश्वानेव वा युयुजे युक्ते वनेजा वने प्रवृद्धः संपन्नः सन् ।
+> कीदृशानश्वान् । ऋजीतिभिर्यजुगामिनीभी रशनाभी रशनास्थानीयाभिर्लताभिर्गृभीतान्परिगृहीतान्वेषितान् । साक्षादश्वपक्ष ऋजुगतिभिः प्रसिद्धाभी रशनाभिर्गृभीतान्गृहीतान्स्कीयानश्वाइच्छॆ दाहाय रथे योजितवानित्यर्थः । तादृशोऽग्निश्चक्षदे
+> चक्षाद शकलीकरोति वसूनि मित्रोऽस्माकं मित्रभूतो वसुभिर्वासकै रश्मिभिः
+> सुजातः सुष्टु प्रवृद्धः सन् । किंच समानृधे सम्यग्वर्धते पर्वभिः काष्ठखंडैर्वा.
+> वृधानो वर्धमानः ॥
+
+##### Gist of the bhāṣya
+
+This Agni, born and grown in the forest, has yoked the horses that go in every direction, that is, the great trees that have spread out, going everywhere, or else the horses themselves. Of what kind are the horses? They are held by reins that go straight, that is, by creepers that stand in the place of reins. **NOTE** Such an Agni "breaks into pieces" the goods; **NOTE** he is a friend, our friend, and is well born, that is, well grown, by the rays that cause dwelling. Further, he thrives fully, growing by joints, that is, by pieces of wood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनेजा (*vanejā*)—Agni, born in the forest
+- ऋजीतिभि (*ṛjītibhi*)—that carry along a straight path
+- रशनाभि (*raśanābhi*)—with reins
+- गृभीतान् (*gṛbhītān*)—held
+- विषूचः (*viṣūcaḥ*)—going everywhere
+- अश्वान् (*aśvān*)—the horses
+- युयुजे (*yuyuje*)—he yokes
+- मित्रः (*mitraḥ*)—dear to us
+- वसुभि (*vasubhi*)—with riches
+- सुजातः (*sujātaḥ*)—nourished, Agni
+- चक्षदे (*cakṣade*)—he provides us with riches
+- पर्वभि (*parvabhi*)—with pieces of wood
+- वावृधानः (*vāvṛdhānaḥ*)—having grown
+- समानृधे (*samānṛdhe*)—he becomes strong
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, born in the forest, yokes the horses that go everywhere, held by reins that carry along a straight path. Agni, who is dear to us and strong with riches, provides us with riches. Growing by pieces of wood, he becomes strong.
+
+##### English translation
+Born in the woods, he has harnessed his steeds which move everywhere held in by straight-guiding reins ; friendly and augmented by rays, he has distributed (wealth); he grows in strength nourished with logs of wood.
+
 ---
 
-**Progress note:** Done through printed p. 154. Mandala 10 Sukta 78 Rks 7-8; Sukta 79 Rks 1-2 and start of Rk 3 (pp. 149-154)
+**Progress note:** Done through printed p. 160. Mandala 10 sukta 79 verses 3 (end) to 7, pp. 155-160
