@@ -850,6 +850,277 @@ The sūkta क्राणा शिशुः (*krāṇā śiśuḥ*) has eight 
 
 This sūkta beginning क्राणा शिशुः (*krāṇā śiśuḥ*) is the sixth sūkta in the sixth anuvāka. It has eight Ṛks. The seer of this sūkta is one called Trita Āstya. The four sūktas following this one are in the Uṣṇik metre. The deity is Pavamāna Soma. In the Anukramaṇī it is said: क्राणाष्टौ त्रित औष्ठिहु वै (*krāṇāṣṭau trita auṣṭhihu vai*). The application of the sūkta has been stated before.
 
+### Printed p. 19
+Maṇḍala 9; Anuvāka 6; Sūkta 102. Aṣṭaka 7; Adhyāya 5; Varga 4, 5. Number of Ṛks in the sūkta: 8. Ṛṣi: Trita. Deity: Pavamāna Soma. Metre: Uṣṇik. Theme: purification.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रा॒णा शिशु॑र्म॒हीनां॑ हि॒न्वन्नृ॒तस्य॒ दीधि॑तिं ।  
+> विश्वा॒ परि॑ प्रि॒या भु॑व॒दध॑ द्वि॒ता ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्राणा ' शिशुः । महीनां । हिन्वन् , ऋतस्य । दीधितिं ।  
+> विश्वा । परि । प्रिया । भुवत् । अध । द्विता ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्राणा ॥ करोतेः शानचि बहुलं छंदसीति विकरणस्य लुक् । सुपां सुलुगिति
+> सुप आकारादेशः । यज्ञं कुर्वाणो महीनां महतीनां मंहनीयां वापां
+> शिशुः पुत्रस्थानीयः सोम ऋतस्य यज्ञस दीधितिं प्रकाशकं धारकं वा स्वीयं
+> रसं हिन्वन् प्रेरयन्विश्वा सर्वाणि प्रिया प्रियाणि हवींषि परि भुवत् । परिभवति ।
+> व्याप्नोति । आधापि च द्विता द्विधा भवति दिवि च पृथिव्यां च वर्तत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma, performing the sacrifice, is the "child" (śiśu), that is, in the position of a son, of the great (or lovely) waters. Sending forth his own juice, which illumines or sustains the sacrifice, he pervades all the pleasing oblations. He also exists in two ways, being present both in heaven and on earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्राणा (*krāṇā*)—the one who carries out the sacrifice
+- महीनां (*mahīnāṃ*)—to the great waters
+- शिशुः (*śiśuḥ*)—Soma, who is as a son
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- दीधिति (*dīdhiti*)—the illuminating juice
+- हिन्वन् (*hinvan*)—sending forth
+- विश्वा (*viśvā*)—all
+- प्रिया (*priyā*)—pleasing oblations
+- परि भुवत् (*pari bhuvat*)—pervades
+- अध (*adha*)—and
+- द्विता (*dvitā*)—exists divided in both heaven and earth
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who carries out the sacrifice and is as a son to the great waters, sending forth the illuminating juice of the sacrifice, pervades all the pleasing oblations. And he exists divided in both heaven and earth.
+
+### Printed p. 20
+
+##### English translation
+Performing (sacred rites) the child of the great (waters) sending forth the lustre of the sacrifice (Soma) produces all acceptable (oblations) and (abides) in the two worlds.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ त्रि॒तस्य॑ पा॒ष्यो॒३॒॑ऽरभ॑क्त॒ यद्गुहा॑ प॒दं ।  
+> य॒ज्ञस्य॑ स॒प्त धाम॑भि॒रथ॑ प्रि॒यं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । त्रितस्य । पाष्योः । अभक्त । यत् । गुहा । पदं ।  
+> यज्ञस्य । सप्त । धामभिः । अध । प्रियं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रितस्य मम यज्ञे गुहा गुहायां हनिर्धाने वर्तमानयोः पाष्योः
+> पाषाणवद्दृढयोरधिषवणफलकयोः पदं स्थानं सोमो यद्यदोपाभक्त
+> समभजत अधानंतरं यज्ञस्य धामभिर्धारकैः सप्त सप्तभिश्चंदोभिर्गायत्रादिभिः
+> प्रियं प्रीणयितारं सोममभिष्टु वंत्यृत्वजः । अपि वा । सप्त सर्पणशीलैर्वसतीवर्यादिभिरुदकैः सोममभिषुण्वंति ॥
+
+##### Gist of the bhāṣya
+
+The speaker is Trita. In his sacrifice, when Soma has come to the place of the two pressing boards (पाष्योः (*pāṣyoḥ*)), firm as stones, that lie in the secret place, the oblation-shed, then, immediately after, the priests praise Soma, the gladdener, with the seven metres beginning with the Gāyatrī, which are the supports (धामभिः (*dhāmabhiḥ*)) of the sacrifice. Alternatively, "seven" are the flowing waters such as the Vasatīvarī, with which they press out the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रितस्य (*tritasya*)—in the sacrifice of me, called Trita
+- गुहा (*guhā*)—situated in the secret place (the place of the oblation-shed)
+- पाषोः (*pāṣoḥ*)—of the firm pressing boards
+- पदं (*padaṃ*)—the place
+- यत् (*yat*)—when
+- उप अभक्त (*upa abhakta*)—Soma has reached
+- अध (*adha*)—immediately then
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- सप्त धामभिः (*sapta dhāmabhiḥ*)—with the seven metres beginning with Gāyatrī, which are the supports
+- प्रियं (*priyaṃ*)—the gladdening Soma (the priests praise)
+
+##### भावार्थ (Bhāvārtha)
+
+When Soma reaches the place of the firm pressing boards in the oblation-shed in the sacrifice of me, called Trita, immediately the priests praise that gladdening Soma with the seven metres beginning with Gāyatrī, which sustain the sacrifice.
+
+### Printed p. 21
+
+##### English translation
+When the Soma has taken the secret station of the grinding stones (at the sacrifice) of Trita, then with the seven supports of the sacrifice (the priests praise) the conciliating (Soma).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रीणि॑ त्रि॒तस्य॒ धार॑या पृ॒ष्ठेष्वेर॑या र॒यिं ।  
+> मिमी॑ाते अस्य॒ योज॑ना॒ वि सु॒क्रतुः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रीणि । त्रितस्य । धारया । पृष्ठेषु । आ । ईरय । रयिं ।  
+> मिमीाते । अस्य । योजना । वि । सुक्रतुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्रितस्य मम यज्ञस्य स्वभूतानि त्रीणि सवनानि धारयात्मीयया
+> विधारय । किंच पृष्ठेषु सामसु रयिं दातारमिंद्रमेरय । आगमय । सुक्रतुः
+> सुप्रज्ञः स्तोतास्येंद्रस्य योजना योजनानि योजकारीणि स्तोत्राणि वि मिमीते।
+> करोति । यस्मादेवं तस्मादिंद्रं सामसु प्रेरयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, sustain with your stream the three pressings that belong to my sacrifice, I, Trita. Further, bring Indra, the giver of wealth, to the Pṛṣṭha Sāmans. The wise praiser makes the uniting hymns (योजना (*yojanā*)) for this Indra. Since this is so, send Indra to the Sāmans."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) त्रितस्य (*tritasya*)—of me, called Trita
+- त्रीणि (*trīṇi*)—the three pressings
+- धारया (*dhārayā*)—sustain with your streams
+- पृष्ठेषु (*pṛṣṭheṣu*)—in my Sāmans
+- रयिं (*rayiṃ*)—Indra, the giver of wealth
+- आ ईरय (*ā īraya*)—bring and establish
+- सुक्रतुः (*sukratuḥ*)—the praiser who has excellent insight
+- अस्य (*asya*)—addressing this Indra
+- योजना (*yojanā*)—the hymns suited to him
+- वि मिमिते (*vi mimite*)—composes
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, sustain with your streams the three pressings of me, called Trita. In my Sāmans bring and establish Indra, the giver of wealth. The praiser of excellent insight composes the hymns suited to this Indra.
+
+### Printed p. 22
+
+##### English translation
+(Support, Soma;) with your stream Trita's three (oblations) ; cause the giver of riches (Indra) to come to the sacred songs. The intelligent (praiser) of this (Indra) measures out hymns.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒ज्ञा॒नं स॒प्त मा॒तरो॑ वे॒धाम॑शासत श्रि॒ये ।  
+> अ॒यं ध्रु॒वो र॑यी॒णां चिके॑त॒ यत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जज्ञानं । सप्त । मातरः । वेधां । अशासत । श्रिये ।  
+> अयं । ध्रुवः । रयीणां । चिकेत । यत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जज्ञानं प्रादुर्भूतं वेधां कर्मणो विधातारं सोमं सप्त सप्तसंख्याका
+> मातरो गंगाद्या नद्यः सप्त च्छैंदांसि वा श्रिये यजमानानामैश्वर्यार्थमशासन । अनुशासंति । अनुशासनं कुर्वंति ॥ शास्त्रेर्लजु व्यत्ययेनात्मनेपदं ॥
+> यद्यस्माद्भुवोऽयं सोमो रयाणां धनानि चिकेत जानाति तस्मादस्यानुशासने
+> कृते यजमानानां धनादिसमृद्धि र्भवति ॥
+
+##### Gist of the bhāṣya
+
+The seven mothers, that is, the seven rivers beginning with the Gaṅgā, or else the seven metres, instruct Soma, who has appeared and is the ordainer (वेधां (*vedhāṃ*)) of the rite, for the prosperity of the sacrificers. Because this firm Soma knows the riches, when he is instructed the sacrificers' wealth and the like increase.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—by whose power
+- ध्रुवः (*dhruvaḥ*)—of everlasting standing
+- आयं (*āyaṃ*)—this Soma
+- रयीणां (*rayīṇāṃ*)—the secret of riches
+- चिकेत (*ciketa*)—knows, and therefore
+- जज्ञानं (*jajñānaṃ*)—born for the sacrifice
+- वेधां (*vedhāṃ*)—and the accomplisher of rites, Soma
+- सप्त (*sapta*)—the seven
+- मातरः (*mātaraḥ*)—rivers such as the Gaṅgā (or the metres)
+- श्रिये (*śriye*)—for the sacrificer's gain of wealth
+- अशासत (*aśāsata*)—give direction (praise)
+
+##### भावार्थ (Bhāvārtha)
+
+By whose power this Soma, of everlasting standing, knows the secret of riches, therefore the seven metres together praise Soma-deva, born for the sacrifice and the accomplisher of rites, and give him direction for the sacrificer's gain of wealth.
+
+### Printed p. 23
+
+##### English translation
+The seven mothers instruct the (Soma) the institutor (of the sacrifice) when born for the prosperity (of the worshippers), so that this firm Soma is cognizant of riches.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य व्र॒ते स॒जोष॑सो॒ विश्वे॑ दे॒वासो॑ अ॒द्रुहः॑ ।  
+> स्मा॒र्हा भ॑वंति॒ रंत॑यो जु॒षंत॒ यत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । व्रते । सजोषसः । विश्वे । देवासः । अद्रुहः ।  
+> स्वाहर्णः ॥ भवंति । रंतयः । जुषंत । यत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्रुहो द्रोहवर्जिता विश्वे सर्वे देवासो देवा अस्य सोमस्य व्रते
+> कर्मणि सजोषसः संगताः संतः स्पार्हाः स्पृहणीया भवंति । रंतयो रमणशीला
+> देवाः सुतमेनं सोमं यद्यदि जुषंत सेवंते तर्हि स्पृहणीया भवंति ॥
+
+##### Gist of the bhāṣya
+
+All the gods, free from malice, united in the rite of this Soma, become enviable (स्पार्हाः (*spārhāḥ*)) if the delighting (रंतयः (*raṃtayaḥ*)) gods take pleasure in this pressed Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रंतयः (*raṃtayaḥ*)—the gods devoted to delight
+- यत् (*yat*)—when
+- जुषंत (*juṣaṃta*)—they enjoy this Soma, then
+- अद्रुहः (*adruhaḥ*)—free from malice
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- अस्य (*asya*)—of this Soma
+- व्रते (*vrate*)—in the rite
+- सजोषसः (*sajoṣasaḥ*)—united together
+- स्वार्हाः भवंति (*svārhāḥ bhavaṃti*)—become possessed of an attractive form
+
+##### भावार्थ (Bhāvārtha)
+
+When the gods, devoted to delight (the Kannada prints हर्षासक्त (*harṣāsakta*); the Pratipadārtha prints वर्षासक्त (*varṣāsakta*)), enjoy this Soma, then all the gods, free from malice, united in the rite of this Soma, become possessed of an attractive form. **NOTE**
+
+##### English translation
+The universal gods, devoid of malice, assembled together at his rite, are to be envied if being delighted they take pleasure (in the Soma).
+
+### Printed p. 24
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमी॒ गर्भ॑मृता॒वृधो॑ दृ॒शे चारु॒मजी॑जनन् ।  
+> क॒विं मुंहि॑ष्ठमध्व॒रे पु॑रु॒स्पृहं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । ईमिति । गर्भं । ऋत्तवृधः । दृशे । जारुं । अजीजनन् ।  
+> कविं । मंहिष्ठं । अध्वरे । पुरुस्पृहं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतावृधो यज्ञस्य वर्धयित्र्यो वसतीवर्याख्या आपो गर्भं गर्भस्थानीयमीमेनं यं सोममध्वरे यज्ञे दृशे दर्शनायाजीजनन् उदपादयन् ।
+> कीदृशं । चारुं सर्वेषां कल्याणरूपं कविं क्रांतप्रज्ञं मुंहिष्ठं पूज्यतमं
+> दातृतमं वा आत एव पुरुस्पृहं बहुभिः स्पृहणीयं सोमं देवाः सेवंत इति
+> पूर्वेण समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The waters called Vasatīvarī, which augment the sacrifice (ऋतावृधः (*ṛtāvṛdhaḥ*)), brought forth this Soma, who is as their embryo (गर्भं (*garbhaṃ*)), in the sacrifice, to be seen. He is lovely, of auspicious form to all, a seer (कविं (*kaviṃ*)) of surpassing insight, most worthy of worship or most liberal, and therefore desired by many. The gods enjoy this Soma: the connection is with the previous verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चारुं (*cāruṃ*)—one of attractive form
+- कविं (*kaviṃ*)—the wise
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—the adorable
+- पुरुस्पृहं (*puruspṛhaṃ*)—desired by many
+- गर्भं (*garbhaṃ*)—who is as an embryo
+- यं ईं (*yaṃ īṃ*)—this very Soma whom
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—the waters that augment the sacrifice
+- अध्वरे (*adhvare*)—in the sacrifice
+- दृशे (*dṛśe*)—to be seen by all
+- अजीजनन् (*ajījanan*)—brought forth (that very Soma the gods enjoy)
+
+##### भावार्थ (Bhāvārtha)
+
+That very Soma, of attractive form, wise, adorable, desired by many, who is as an embryo, whom the waters that augment the sacrifice brought forth in the sacrifice to be seen by all, him the gods enjoy.
+
+##### English translation
+The germ which the augmenters of the rite brought forth at the sacrifice lovely to look upon, intelligent, most adorable, desired by many.
+
 ---
 
-**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
+**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
