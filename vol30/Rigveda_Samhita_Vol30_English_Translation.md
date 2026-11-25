@@ -10904,6 +10904,239 @@ Metre: Triṣṭubh.
 
 Seeing Saramā approach with this Ṛk, the Paṇis speak. Saramā, the divine bitch of that name, from *saraṇaśīlā* (given to going): "What do you seek, what are you asking for, that you have reached this place of ours?" प्रानट् (*prānaṭ*) means प्राप्नोत् (*prāpnot*), "reached"; the root नशि (*naśi*) with आज् (*āj*) prefixed has the sense of pervading. The remainder, on its aorist form, is grammar and is cut off here.
 
+### Printed p. 295
+
+> चेर्लुक् । छंदस्यपि दृश्यत इत्याडागमः ॥ पराचैः परांचि पराङ्मुखान्यावृत्तिवर्जितानि यानि गमनानि तैर्जगुरिरुद्धूर्णः । महता प्रयत्नेनापि गंतुं न शक्यत
+> इत्यर्थः ॥ गृ निगरणे । आदृगमहनेत्यादिना किन्द्रत्ययः । बहुलं छंदसि । पा. ७-१-
+> १०३ । इत्युत्वं ॥ तादृशोऽयमध्वा दूरे हि । विप्रकृष्टः खलु । यद्वा । पराचैः
+> परांचनैर्जगुरिरत्यर्थं गंत्रि पौष्टिभागमनालोकमाना सतीदं स्थानं प्राप्नोति ।
+> दूरेऽयमध्वा यदृच्छया गंतुं न शक्यते । अतो वयमेतां पृच्छामः । हे
+> सरमे का कीदृश्यस्नेहितिः । कोऽस्मास्वर्थहितिः । कोऽस्मासु त्वदपेक्षितार्थो निहितः।
+> यद्वा । अस्मासु कोऽर्थो गतः ॥ दधातेर्हिनोतीर्वा क्तिनि रूपं ॥ आगच्छंत्यास्तव
+> का कीदृशी परितक्क्या रात्रिरासीत्। यद्वा । तकतिर्गत्यर्थः । परितकनं परितो गमनं
+> भ्रमणं वा कीदृशमासीत् । कथं च रसायाः शब्दायमानाया अंतरिक्षनद्या
+> योजनशतविस्तीर्णायाः पयांस्युदकान्यतरः । तीर्णवत्यसि । एतद्वद । अत्र किमिच्छंती सरमेदं प्रानडित्यादिकं निरुक्तं द्रष्टव्यं ॥ नि. ११-२५ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes पराचैः (*parācaiḥ*) to mean goings that are turned away and free of return. The path cannot be travelled even with great effort. Such a path is indeed far away. **NOTE**
+
+Alternatively, he says, Sarama, seeing the path, reaches this place. The way is far and cannot be travelled at will, so the Paṇis question her: "O Sarama, what is the अस्मेहितिः (*asmehitiḥ*)?" He explains it as what purpose of yours is lodged in us, or alternatively what object has gone to us. The form comes from the root दधातेर्हिनोतीर्वा (*dadhāterhinotīrvā*) with the affix ktin. Then "what sort of परितक्क्या (*paritakkyā*), a night, was yours as you came?" Alternatively, the root तकति (*takati*) means going, so the question is what sort of going about or wandering it was. And how did you cross the waters of the sounding aerial river Rasā, a hundred yojanas broad? Tell us. On "what do you seek" and *prānaḍ* and so on, the Nirukta is to be seen (Ni. 11-25). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरमा (*saramā*)—Sarama
+- किं इच्छंती (*kiṃ icchaṃtī*)—desiring what
+- प्र आनट् (*pra ānaṭ*)—has she come here?
+- अध्वा (*adhvā*)—the road coming here
+- दूरे हि (*dūre hi*)—is very long
+- पराचैः (*parācaiḥ*)—even by those who walk on continuously **NOTE**
+- जगुरिः (*jaguriḥ*)—it cannot be crossed; therefore, O Sarama
+- अस्मेहितिः (*asmehitiḥ*)—the purpose for which you have come to us
+- का (*kā*)—what?
+- परितक्क्या (*paritakkyā*)—the manner of coming here
+- का आसीत् (*kā āsīt*)—what was it like
+- रसायाः (*rasāyāḥ*)—of the river Rasā
+- पयांसि (*payāṃsi*)—the waters
+- कथं (*kathaṃ*)—how
+- अतरः (*ataraḥ*)—did you cross?
+
+##### भावार्थ (Bhāvārtha)
+
+With what desire has Sarama come here? The road coming here is very long. Even those who walk on continuously cannot come along this road. Therefore, O Sarama, what is the purpose for which you have come to us? By what kind of going have you come here? How have you crossed the waters of the river Rasā?
+
+##### English translation
+(The Panis :) With what intention has Sarama come to this place ? Verily the way is long and difficult to be traversed by the persevering. What is the motive of your comming to us? What sort of waudering was yours ? How have you crossed the waters of the Rasa ?
+
+### Printed p. 296
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an etymology both for this Ṛk and for the word सरमा (*saramā*) in it: सरमा सरणात् (*saramā saraṇāt*) (Ni. 11-24). Of her there is this verse: किमिच्छंती सरमेदं प्रानट् (*kimicchaṃtī saramedaṃ prānaṭ*), दूरे ह्यध्वा जगुरिर्जंगम्यतेः परांचनैरचितः (*dūre hyadhvā jagurirjaṃgamyateḥ parāṃcanairacitaḥ*), का तवास्मास्वर्थहितिरासीत् (*kā tavāsmāsvarthahitirāsīt*) and so on (Ni. 11-25). The Nirukta passage continues with परितक्म्या रात्रिः परित एनां शक्क (*paritakmyā rātriḥ parita enāṃ śakka*), with the explanation of the word रसा (*rasā*), and with the story. **NOTE**
+
+सरमा सरणात् (*saramā saraṇāt*)—The word सरमा (*saramā*) is derived from the word सरण (*saraṇa*), which is formed from the root सृ (*sṛ*) ("to move"). The meaning is "one who moves" or "who wanders". The idea is a divine bitch whose nature is to wander.
+
+किमिच्छंती सरमेदं प्रानट् (*kimicchaṃtī saramedaṃ prānaṭ*)—The Asuras first say among themselves, "Desiring what from us may Sarama have come here?" Then they ask Sarama directly.
+
+दूरे ह्यध्वा जगुरिर्जंगम्यतेः परांचनैरचितः (*dūre hyadhvā jagurirjaṃgamyateḥ parāṃcanairacitaḥ*)—The road by which she has come is very far. The word जगुरि (*jaguri*) is formed from the root गम्ल गत् (*gamla gat*), "go". जगुरि (*jaguri*) means going, wandering. परांचन (*parāṃcana*) means going from one place to another, leaving one region behind and moving on to the region ahead (the printed text also has पर अंचनैः पराज्मुखैर्गमनैः विप्रकृष्टो देवनिवासात् (*para aṃcanaiḥ parājmukhairgamanaiḥ viprakṛṣṭo devanivāsāt*)). The idea is that Sarama, the divine bitch, has set out from Indra's dwelling and come to the city of the Paṇis.
+
+का तवास्मास्वर्थहितिरासीत् (*kā tavāsmāsvarthahitirāsīt*)—What business have you with us? For what purpose have you come to us?
+
+परितक्क्या रात्रिः परित एनां तक्क (*paritakkyā rātriḥ parita enāṃ takka*); तक्केत्युष्णनाम तकत इति सतः (*takketyuṣṇanāma takata iti sataḥ*)—The word तक्क (*takka*) is formed from the root तकति (*takati*), which means "go". तक्क (*takka*) means heat, sunshine. There is heat on both sides of the night, before the night and at its end. Before the night means before sunset, when there is sunshine (heat). At the end of the night means after the night has passed, in the morning after sunrise, when there is sunshine (heat). So the time that is enveloped by heat at both ends, namely the night, is परितक्क्या (*paritakkyā*) — it is a name. **NOTE**
+
+कथं रसाया आतरः पयांसीति (*kathaṃ rasāyā ātaraḥ payāṃsīti*); रसा नदी रसतेः शब्दकर्मणः (*rasā nadī rasateḥ śabdakarmaṇaḥ*); कथं रसानि तान्युदकानीति वा (*kathaṃ rasāni tānyudakānīti vā*)—O Sarama, how did you cross the fathomless water of the river Rasā?
+
+### Printed p. 297
+रसा (*rasā*) is the name of a river. The word is formed from the root रसति (*rasati*), meaning "make a sound". रसा (*rasā*) means a river that flows roaring as its water runs. Or else रस (*rasa*) is also a name for water; the meaning is then a river full of fathomless masses of water.
+
+देवशुनींद्रेण प्रहिता पणिभिरसुरैः समूद इत्याख्यानं (*devaśunīṃdreṇa prahitā paṇibhirasuraiḥ samūda ityākhyānaṃ*)—There is a story that the divine bitch named Sarama, sent by Indra, conversed with the Asuras called Paṇis. It is told in this sūkta.
+
+In this Ṛk, as soon as the Asuras called Paṇis saw Sarama, they questioned her thus: "O Sarama, why have you come here? What business have you with us? You have come from a very distant region. What business have you with us? How did you cross this very deep Rasā river, full of fathomless water?" The answer is given by Sarama in the next (2nd) Ṛk. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य दू॒तीरि॑षि॒ता च॑रामि म॒ह इ॒च्छंती॑ पणयो नि॒धीन्वः॑ ।  
+> अ॒ति॒ष्कदो॑ भि॒यसा॒ तन्न॑ आव॒त्तथा॑ र॒साया॑ अतरं॒ पयां॑सि ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । दूतीः । इषिता । चरामि । महः । इच्छंती । पणयः । निधीन् । वः ।  
+> अतिस्कदः । भियसा । तत् । नः । आवत् । तथा । रसायाः । अतरं । पयांसि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया तान्सरमा प्रत्युवाच । हे पणय एतन्नामका असुराः इंद्रस्य
+> दूतीः ॥ सुपां सुलुगिति प्रथमैकवचनस्य सुश्चांदसः ॥ अहमिषिता तेनैव प्रेषिता
+> सती चरामि । युष्मदीयं स्थानमागच्छामि । किमर्थं । वो युष्मदीयान्युष्मदीये पर्वतेऽधिष्ठापितान्महो महतो निधीन्बृहस्पतेर्गोनिधीनिच्छंती कामयमाना सती चरामि । किंचातिष्कदः ॥ स्कंदिर् गतिशोषणयोः । भावे क्विप् ॥ अति-
+
+##### Gist of the bhāṣya
+
+With this Ṛk Sarama replied to them. "O Paṇis, Asuras of that name, I, the messenger (दूतीः (*dūtīḥ*), the case ending सु (*su*) being Vedic by the rule *supāṃ suluk*) of Indra, sent (इषिता (*iṣitā*)) by him, go about; I come to your place." For what purpose? "Desiring *mahaḥ nidhīn*, your great treasures, namely Bṛhaspati's treasures of cattle, set up on your mountain, I go about." Further, अतिष्कदः (*atiṣkadaḥ*) is formed from the root स्कंदि (*skaṃdi*), meaning going and drying up, with kvip in the abstract sense. By fear (भियसा (*bhiyasā*)) arising from the transgression, from the leaping over, that river-water (तत् (*tat*)) protected me. The plural नः (*naḥ*) is used for honour (the speaker means herself). In that way I crossed the waters of the river Rasā.
+
+### Printed p. 298
+
+> ष्कंदनादतिक्रमणाज्ञातेन भियसा भयेन तन्नदीजलं नः । पूजायां बहुवचनं ।
+> मामावत् । अरक्षत् । तथा तेन प्रकारेण रसाया नद्याः पयांस्युदकान्यतरं ।
+> तीर्णवत्यस्मि ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पणयः (*paṇayaḥ*)—O Paṇis
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- दूती (*dūtī*)—I, the messenger
+- वः (*vaḥ*)—in your possession
+- महः (*mahaḥ*)—great
+- निधीन् (*nidhīn*)—the treasures in the form of cattle
+- इच्छंती (*icchaṃtī*)—desiring
+- इषिता (*iṣitā*)—sent by Indra
+- चरामि (*carāmi*)—I am wandering
+- अतिष्कदः (*atiṣkadaḥ*)—of transgressing entry
+- भियसा (*bhiyasā*)—through fear
+- तत् (*tat*)—the river-water
+- नः (*naḥ*)—me
+- आवत् (*āvat*)—protected
+- तथा (*tathā*)—in the same way
+- रसायाः (*rasāyāḥ*)—of the river Rasā
+- पयांसि (*payāṃsi*)—the waters
+- अतरं (*ataraṃ*)—I have crossed
+
+##### भावार्थ (Bhāvārtha)
+
+(Sarama's words.) O Paṇis, I, the messenger of Indra, desiring the great treasures in the form of cattle that are with you, am wandering here, sent by Indra. Through fear of transgressing entry, the river-water protected me. In the same way I have crossed the waters of the river Rasā.
+
+##### English translation
+(Sarama :) I come, the appointed messenger of Indra, desiring, Panis your great hidden treasures; through fear of being crossed the (water) helped us, thus I passed over the waters of the Rasa.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> की॒दृज्जंद्रः॑ सरमे॒ का दृ॑शी॒का यस्ये॒दं दू॒तीरस॑रः परा॒कात् ।  
+> आ च॒ गच्छा॑न्मि॒त्रमे॑ना दधा॒माथा॒ गवां॒ गोप॑तिर्नो भवाति॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कीदृज् । इंद्रः । सरमे । का । दृशीका । यस्य । इदं । दूतीः । असरः । पराकात् ।  
+> आ । च । गच्छात् । मित्रं । एन । दधाम । अथ । गवां । गोऽपतिः । नः । भवाति ॥ ३ ॥
+
+### Printed p. 299
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेषां वाक्यं । हे सरमे तव स्वामींद्रः कीदृक् । कियत्पराक्रमवान् । का
+> दृशीका । तस्य कीदृशी दृष्टिः । दृष्टिरूपा सेना कियती । यस्य दूतीर्दूती त्वमिदमस्मदीयं स्थानं पराकादतिदूरादसरः आगमः । इति तामुक्त्येदानीं ते परस्परमाहुः । एषा सरमा गच्छाच्च । आगच्छतु च ॥ गमर्लॆट्याडागमः ॥ स्वामी भवाति ।
+> भवतु । न ह्येकस्या गोः किंतु बहूनां गवां स्वामी भवतु । वृत्त्यवृत्तिभ्यां
+> स्वामित्वं बाहुल्यं च विवक्ष्यते ॥
+
+##### Gist of the bhāṣya
+
+The words of the Paṇis. "O Sarama, what is your master Indra like (कीदृक् (*kīdṛk*))? How great is his prowess? What is his दृशीका (*dṛśīkā*): what is his sight like? How large is his army, which has the form of sight? Whose messenger you are, having come (असरः (*asaraḥ*), an aorist) from afar, from a very distant place, to this place of ours." Having said this to her, they now say to one another: "Let this Sarama come (गच्छात् (*gacchāt*), from गम् (*gam*) with the augment *āṭ* in the subjunctive)." And let her become mistress (भवाति (*bhavāti*), "let her be"), not of one cow only but of many cows. Ownership and plurality are intended by the use and non-use of the affix. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सरमे (*sarame*)—O Sarama
+- यस्य (*yasya*)—of which Indra
+- दूतीः (*dūtīḥ*)—you, the messenger
+- इदं (*idaṃ*)—to this place of ours
+- पराकात् (*parākāt*)—from a very distant region
+- असरः (*asaraḥ*)—you have come, that
+- इंद्रः (*iṃdraḥ*)—Indra
+- कीदृक् (*kīdṛk*)—what sort of one?
+- का दृशीका (*kā dṛśīkā*)—of what form?
+- आ च गच्छात् (*ā ca gacchāt*)—let her come here, becoming worthy of our regard
+- एना (*enā*)—this woman
+- मित्रं (*mitraṃ*)—as my (our) friend
+- दधाम (*dadhāma*)—let us take
+- नः (*naḥ*)—our
+- गवां (*gavāṃ*)—of the cows
+- गोपतिः (*gopatiḥ*)—as mistress
+- भवाति (*bhavāti*)—let her be
+
+##### भावार्थ (Bhāvārtha)
+
+(The Paṇis:) O Sarama, what sort of person is that Indra whose messenger you are, you who have come to this place of ours from a very distant region? What form has he? (Among themselves:) Let this Sarama come here, becoming worthy of our regard. Let us take her as our friend. Let her be mistress of our cows.
+
+##### English translation
+(The Panis:) What is Indra like, O Sarama ? What is the appearance of him as whose messenger you have come to this place from afar? (They then say to one another:) Let her approach : let us make friends with her and let her be the lord of our cattle.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाहं तं वे॑द॒ दभ्यं॒ दभ॒त्स यस्ये॒दं दू॒तीरस॑रं परा॒कात् ।  
+> न तं गू॑हंति स्र॒वतो॑ गभी॒रा ह॒ता इंद्रे॑ण पणयः शयध्यॆ ॥
+
+### Printed p. 300
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । अहं । तं । वेद । दभ्यं । दभत् । सः । यस्य । इदं । दूतीः । असरं । पराकात् ।  
+> न । तं । गूहंति । स्रवतः । गभीराः । हताः । इंद्रेण । पणयः । शयद्वे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सरमा वदति । हे पणयः तमिंद्रं दभ्यं हंतव्यमिति न वेद । न जानामि ॥
+> दभेरचो यत् ॥ कथं । स इंद्रो दभत् । सर्वाञ्जनान्दभति । हिनस्त्वेव ॥
+> दभेर्लेटि रूपं । वाक्यभेदादनिघातः ॥ यस्य दूतीर्दूत्यहमिदं युष्मदीयं
+> स्थानं पराकादतिदूराद्देशादसरं प्राप्ताभूवं । इंद्रो हिंसितवो न भवतीत्यत्र
+> युक्तिमाह । स्रवतः । स्रवणं स्रवः । तमाचरंति ॥ आचारार्थे क्विप् । तुगागमः ।
+> जसि रूपं ॥ स्रवणशीला गभीरा गंभीरा नद्यस्तमिंद्रं न गूहंति । न संवृण्वंति ।
+> नाच्छादयंति । किंत्वाविष्टुर्वंति । वयं यस्य महिम्ना समुद्रं प्रतिसरामः ।
+> तस्मादहिंस्य इत्येनं प्रकटीकुर्वंति ॥ गुहू संवरणे भौवादिकः ॥ तस्माद्दे पणयः
+> यूयमिंद्रॆण तादृशपराक्रमेण हताः संतः शयद्वे ॥ शीञ् स्वष्टे । बहुलं
+> छंदसीति शपो लुगभावः ॥
+
+##### Gist of the bhāṣya
+
+Sarama says: "O Paṇis, I do not know (न वेद (*na veda*)) that Indra to be दभ्यं (*dabhyaṃ*), one to be slain (दभेरचो यत् (*dabheraco yat*))." How so? That Indra (दभत् (*dabhat*)) slays all people; the form is from दभ (*dabha*) in the *leṭ*. Because the sentence is divided, there is no निघात (*nighāta*). "Whose messenger I am, I have come (असरं (*asaraṃ*)) to this place of yours from a very distant region." She gives the reason why Indra cannot be slain. स्रवतः (*sravataḥ*): स्रवणं स्रवः (*sravaṇaṃ sravaḥ*), and they behave like it; the affix is kvip in the sense of conduct, with the augment *tuk*, and the form is in *jas*. The flowing, deep rivers do not hide Indra: they do not cover or conceal him but make him manifest. "By whose greatness we run to the sea, he cannot be harmed", thus they reveal him. The root is गुहू (*guhū*) in the sense of covering, of the भू (*bhū*) class. Therefore, O Paṇis, you, slain by Indra of such prowess, will lie down (शयद्वे (*śayadve*), from *śīṅ*, to sleep; *śap* is not elided by "bahulaṃ chandasi").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Paṇis) तं (*taṃ*)—that Indra
+- दभ्यं (*dabhyaṃ*)—as one to be slain by you
+- न वेद (*na veda*)—I do not know
+- यस्य (*yasya*)—to which Indra
+- दूती (*dūtī*)—I, the messenger
+- इदं (*idaṃ*)—to this region of yours
+- पराकात् (*parākāt*)—from a very distant region
+- अतरं (*ataraṃ*)—I have come across
+- सः (*saḥ*)—that Indra
+- दभत् (*dabhat*)—destroys everyone
+- स्रवतः (*sravataḥ*)—flowing
+- गभीराः (*gabhīrāḥ*)—deep rivers
+- तं (*taṃ*)—Indra
+- न गूहंति (*na gūhaṃti*)—cannot hide
+- पणयः (*paṇayaḥ*)—O Paṇis
+- इंद्रेण (*iṃdreṇa*)—by Indra
+- हताः (*hatāḥ*)—slain
+- शयद्वे (*śayadve*)—you will lie down
+
+##### भावार्थ (Bhāvārtha)
+
+(Sarama:) O Paṇis, I have certainly no fear that you will slay Indra. That Indra, whose messenger I am and for whom I have come here from a very distant region, destroys everyone. Even the flowing, deep rivers cannot hide Indra (cannot stop him). O Paṇis, you will lie down (on the battlefield), slain by Indra.
+
 ---
 
-**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
+**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
