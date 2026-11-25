@@ -1,0 +1,29 @@
+{
+ "vol": 25,
+ "range_line": "Maṇḍala 6 · Sūktas 29–75 and Maṇḍala 7 · Sūktas 1–19",
+ "adhyaya_line": "Seventh and Eighth Adhyāyas of the Fourth Aṣṭaka; First and Second Adhyāyas of the Fifth Aṣṭaka",
+ "imprint": "Śrī Jayacāmarājendra Vedaratna-mālā<br>Sree Sharada Press, Mysore, 1953",
+ "year": "1953",
+ "note_style": "NOTE",
+ "english_md": "vol25/Rigveda_Samhita_Vol25_English_Translation.md",
+ "kannada_md": "vol25/Rigveda_Samhita_Vol25_Kannada_Text.md",
+ "supplied_md": "vol25/html/rig_21.md",
+ "out": "vol25_full",
+ "press": "Śrī Śāradā Press, Mysore",
+ "assets": "publish/assets/vol25",
+ "front": {
+  "cover": "cover",
+  "title": "title"
+ },
+ "front_en": "vol25/frontmatter_en.json",
+ "contents_en": "vol25/contents_en.json",
+ "contents": {
+  "start": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ",
+  "end": "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ ಸಮಾಪ್ತವು",
+  "heading": [
+   "॥ ಶ್ರೀಃ ॥",
+   "ಋಗ್ವೇದಸಂಹಿತೆಯ ಇಪ್ಪತ್ತೊಂದನೆಯ ಭಾಗದ",
+   "ವಿಷಯಾನುಕ್ರಮಣಿಕೆ"
+  ]
+ }
+}
