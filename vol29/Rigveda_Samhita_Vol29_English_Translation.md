@@ -14525,6 +14525,300 @@ O Agni, protect our sacrifice with your burning radiance. O Agni, who have excel
 ##### English translation
 Protect this sacrifice, Agni, with your sharp glance; lead it sage (Agni) forward to (the acquisition of) riches; let not the Yatudhanas harm you, beholder of men, the destroyer of Rakshasas blazing fiercely.
 
+### Printed p. 505
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒चक्षा॒ रक्षः॒ परि॑ पश्य वि॒क्षु तस्य॒ त्रीणि॒ प्रति॑ शृणी॒ह्यग्रा॑ ।  
+> तस्या॑ग्ने सृ॒ष्टीर्हर॑सा शृणीहि त्रे॒धा मूलं॑ यातु॒धान॑स्य  
+> वृश्च ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृचक्षाः । रक्षः । परि । पश्य । विक्षु । तस्य । त्रीणि । प्रति । शृणीहि । अग्रा ।  
+> तस्य । अग्ने । पृष्टीः । हरसा । शृणीहि । त्रेधा । मूलं । यातुधानस्य । वृश्च ॥१८॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने नृचक्षा नृणां द्रष्टा त्वं विक्षु मनुष्येषु हिंसकत्वेन वर्तमानं
+> रक्षो राक्षसं परि पश्य । सर्वतोऽवलोकय । अवलोक्य च तस्य रक्षसस्त्रीण्यग्राग्राणि
+> शिरांसि प्रति शृणीहि । छिद्धीत्यर्थः । ततस्तस्य रक्षसः सृष्टीः पार्श्वस्थानाक्षसानपि
+> हरसा स्वकीयेन तेजसा शृणीहि । मारय । एवं त्रेधा यातुधानस्य तस्य राक्षसस्य
+> मूलं पादं वृश्च । छिद्धि ॥
+
+##### Gist of the bhāṣya
+
+Agni, who is the beholder of men, is told to look all around at the Rākṣasa who lives among men as a harmer. Having looked, he is to cut off the three topmost heads of that Rākṣasa. Then he is to destroy with his own radiance the Rākṣasas who stand at the side of that Rākṣasa. In the same way he is to cut off, in a threefold manner, the foot of that Yātudhāna Rākṣasa. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नृचक्षाः (*nṛcakṣāḥ*)—you who can see the doings of men
+- विक्षु (*vikṣu*)—among men, harmful
+- रक्षः (*rakṣaḥ*)—the Asura
+- परिपश्य (*paripaśya*)—find out
+- तस्य (*tasya*)—his
+- त्रीणि ग्रा (*trīṇi grā*)—the three heads **NOTE**
+- प्रति शृणीहि (*prati śṛṇīhi*)—cut off
+- तस्य (*tasya*)—of that same Asura
+- पृष्टीः (*pṛṣṭīḥ*)—those at his side
+- हरसा (*harasā*)—with your radiance
+- शृणीहि (*śṛṇīhi*)—destroy
+- यातुधानस्य (*yātudhānasya*)—of the Asura
+- त्रेधा (*tredhā*)—threefold
+- मूलं (*mūlaṃ*)—the foot
+- वृश्च (*vṛśca*)—cut off
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who can see the doings of men, find out the Asura who among men is a harmer. Cut off all his three heads. Destroy with your radiance those who are at the side of that same Asura. Cut off also the threefold foot of the Asura.
+
+##### English translation
+Regard, beholder of men, the Rakshasa among the people; cut off his three heads; cut off his flanks with your might; cut off the triple foot of the Yatudhana.
+
+### Printed p. 506
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिर्या॑तु॒धानः॒ प्रसि॑तिं त एत्कृ॒तं यो अ॑ग्ने॒ अनृ॑तेन॒ हंति॑ ।  
+> तम॒र्चिसा॑ स्फू॒र्जय॑ञ्चितवेदः सम॒क्षमे॑नं गृण॒ते नि  ॑
+> वृज्ञि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । यातुधानः । प्रसितिं । ते । एतु । ऋतं । यः । अग्नी । अनृतेन । हंति ।  
+> तं । अर्चिषा । स्फूर्चियन् । जातवेदः । संअक्षं । एनं । गृणते । नि ! वृज्ञि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञाग्ने ते त्वदीयं प्रसितिं ज्वालाप्रबंधनं
+> यातुधानो राक्षसस्त्रिस्त्रीन्वारानेतु । गच्छतु । त्रिबद्धं यत्तत्सुबद्धं भवति हि ।
+> किंच यो यातुधानो राक्षस ऋतं सत्यमन्यतेनासत्येन हंति हिनस्ति तं यातुधानमर्चिषा स्वकीयेन तेजसा स्फूर्जयन्निष्पिसन् । स्फूर्जतिरत्र निष्पेषणकर्मा । एनं
+> यातुधानं गृणते स्तोत्रं कुर्वते मह्यं समक्षं प्रत्यक्षं निवृज्ञि । निगृह्य
+> वर्जय वृकेण ॥
+
+##### Gist of the bhāṣya
+
+Jātaveda, Agni of wisdom, is addressed: let the Yātudhāna Rākṣasa come three times into your prasiti, the binding of your flames; what is bound threefold is well bound. Further, the Yātudhāna Rākṣasa who strikes truth with untruth: crushing him with your own radiance (the root sphūrj here has the sense of crushing), restrain that Yātudhāna in plain view before me, who make praise, and keep him away, वृकेण (*vṛkeṇa*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—you who are Jātavedas
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the Rākṣasa who
+- ऋतं (*ṛtaṃ*)—truth
+- अनृतेन (*anṛtena*)—with untruth
+- हंति (*haṃti*)—defiles
+- यातुधानः (*yātudhānaḥ*)—that same Asura
+- ते (*te*)—your
+- प्रसितिं (*prasitiṃ*)—in the mass of flames
+- त्रिः (*triḥ*)—three times
+- एतु (*etu*)—let him be caught
+- तं (*taṃ*)—him
+- अर्चिषा (*arciṣā*)—with your radiance
+- स्फूर्जयन् (*sphūrjayan*)—crushing
+- एनं (*enaṃ*)—him
+- गृणते (*gṛṇate*)—of the praiser
+- समक्षं (*samakṣaṃ*)—in plain view
+- नि वृजि (*ni vṛji*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are Jātavedas, may the Rākṣasa who defiles truth with untruth be caught three times in your mass of flames. Crushing him with your radiance, destroy him in the plain view of the praiser.
+
+##### English translation
+Agni, Jatavedas, let the Yatudhana, who defeats your truth with falsehood, come thrice into the confinement of your flames; crushing him with your might, drive him from the presence of (me) your worshipper.
+
+### Printed p. 507
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तद॑ग्ने॒ चक्षुः॒ प्रति॑ धेहि रे॒भे श॑फा॒रुजं॒ येन॒ पश्य॑सि  ॒॑
+> यातुधानं ।  
+> अ॒थ॒र्व॒वज्योति॑षा॒ दैव्ये॑न स॒त्यं धूर्वं॑तम॒चितं॒ न्यू॑ष ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । अग्ने । चक्षुः । प्रति । धेहि । रेभे । शघ्र आरुजं । येन । पश्यसि । यातुधानं ।  
+> अथर्ववत् । ज्योतिषा । दैव्येन । सत्यं । धूर्वंतं । अचितं । नि । ओष ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं रेभे शब्दायमाने राक्षसे तच्चक्षुस्तेजः प्रति धेहि प्रक्षिप
+> येन चक्षुषा शफारुजं शफाभ्यामारुजंतं शफसदृशैनर्खैः साधूनामाभिमुख्येन
+> भंजकं यातुधानं राक्षसं पश्यसि । किंच सत्यं धूर्वंतमसत्येन हिंसंतमचितमज्ञानं दैव्येन दिवि भवेन ज्योतिषा तेजसाथर्ववन्नोष । नितरां दह। दध्यज्जथर्वा
+> रक्षसां हंतेति प्रागुक्तं ॥
+
+##### Gist of the bhāṣya
+
+Agni is told to cast that eye, that radiance, upon the roaring Rākṣasa, the eye with which he sees the Yātudhāna Rākṣasa who is śaphārujam, one who with nails like hoofs breaks the pious by assailing them. Further, he is to burn down thoroughly, as Atharvan did, with divine radiance, the ignorant one who harms truth with untruth. Sāyaṇa adds that this was said before: दध्यज्जथर्वा रक्षसां हंतेति प्रागुक्तं (*dadhyajjatharvā rakṣasāṃ haṃteti prāguktaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- येन (*yena*)—with which eye
+- शफारुजं (*śaphārujaṃ*)—who splits with nails like hoofs
+- यातुधानं (*yātudhānaṃ*)—the Rākṣasa
+- पश्यसि (*paśyasi*)—you see
+- तत् चक्षुः (*tat cakṣuḥ*)—that same eye
+- रेभे (*rebhe*)—upon the Asura who makes a noise
+- प्रति धेहि (*prati dhehi*)—direct
+- सत्यं (*satyaṃ*)—truth
+- धूर्वतं (*dhūrvataṃ*)—who harms with untruth **NOTE**
+- अचितं (*acitaṃ*)—the ignorant one
+- दिव्येन ज्योतिषा (*divyena jyotiṣā*)—with his own divine light
+- अथर्वसत् (*atharvasat*)—as Atharvan destroys **NOTE**
+- न्यूष (*nyūṣa*)—burn the Asuras completely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, with whatever eye you look at the Rākṣasa whose nails are harmful like hoofs, direct that same eye upon the Asura who makes a noise. Burn completely, with your divine light, the ignorant one who harms truth with falsehood, as Atharvan destroys the Asuras.
+
+### Printed p. 508
+
+##### English translation
+Cast, Agni, upon the two roaring (Rakshasas) that eye wherewith you behold the Yatudhana striking with his hoof; like Atharvan with celestial radiance burn down the ignorant (Rakshasa), who assaults truth with falsehood.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑ग्ने अ॒द्य मि॑थु॒ना शपा॑तो॒ यद्वा॒चस्तृ॒ष्टं ज॒नयं॑त  ॒
+> रेभाः ।  
+> म॒न्योर्मन॑सः शर॒व्या॒३॒॑ ३ जाय॑ते॒ या तया॑ विध्य॒ हृद॑ये  ॒॑
+> यातुधानान् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अग्ने i अद्य । मिथुना । शपातः । यत् । वाचः । तृष्टं । जनयंत । रेभाः ।  
+> मन्योः । मनसः । शरव्या । जायते । या । तया । विध्य । हृदये । यातु-  
+> ।  
+> धानान् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यद्यदाद्यास्मिन्नहनि मिथुना स्त्रीपुंसौ शपातः परस्परमाक्रोशतः ।
+> यद्यदा रेभाः स्तोतारो वाचः संबंधि तृष्टं कटुकं परस्पराक्रोशलक्षणमधरं
+> वा जनयंत । परस्परमाक्रोशंतीत्यर्थः । तदा मन्योर्दिप्तस्य क्रुद्धस्य वा तव ।
+> तथा च यास्कः । मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा '
+> नि. १०-२९ । इति । मनसः सकाशाद्या शरव्येषुर्जायते तया शरव्यया यातु.
+> धानान्राक्षसान्हृदये विध्य । ताडय । मारयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, when today a pair, husband and wife, curse each other, and when the praisers produce harsh speech, that is, abuse one another, then from the mind of you who are kindled or angry (and so Yāska says, मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो (*manyurmanyaterdiptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo*), Ni. 10-29) the arrow that is born, with that arrow pierce the Yātudhānas, the Rākṣasas, in the heart; strike them, kill them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- आद्य (*ādya*)—on this day of sacrifice
+- मिथुना (*mithunā*)—the husband and wife who are together
+- शपार्त (*śapārta*)—use angry words to each other **NOTE**
+
+### Printed p. 509
+
+- यत् (*yat*)—when
+- रेभाः (*rebhāḥ*)—the praisers
+- वाचः (*vācaḥ*)—speech
+- तुष्टं (*tuṣṭaṃ*)—harshly **NOTE**
+- जनयंत (*janayaṃta*)—use, then
+- मन्योः (*manyoḥ*)—of you who are angry
+- मनसः (*manasaḥ*)—from the mind
+- या (*yā*)—which
+- शरव्या (*śaravyā*)—arrow
+- जायते (*jāyate*)—is produced
+- तया (*tayā*)—with it
+- यातुधानान् (*yātudhānān*)—the Asuras
+- हृदये (*hṛdaye*)—in the heart
+- विध्य (*vidhya*)—split open
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when on this day of sacrifice the husband and wife who are together use angry words to each other, and when the praisers use harsh speech, then with the arrow that is produced from your angry mind split open the Asuras in the heart.
+
+##### English translation
+To-day Agni, when the married pair curse each other, then the praisers produce bitter words (in anger against each other), pierce the Yatudhanas through the heart with your arrow, which is generated from your wrathful mind.
+
+#### Ṛk 14
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॑ शृणीहि॒ तप॑सा यातु॒धाना॒न्परा॑ग्ने॒ रक्षो॒ हर॑सा शृणीहि ।  
+> परा॒र्चिषा॒ मूर॑देवाञ्छृणीहि॒ परा॑सु॒तृपो॑ अ॒भिशोशु॑चानः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । शृणीहि । तपसा । यातुधानान् । परा । अग्ने । रक्षः । हरसा । शृणीहि ।  
+> परा । अर्चिषा । मूरदेवान् । शृणीहि । परा । अस्तुतृपः । अभि । शोशुजानः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यातुधानांस्तपसा तापेन परा शृणीहि । मारय । किंच रक्षो
+> हरसा त्वदीयेनौष्ण्येन परा शृणीहि । किंच मूरदेवान्मारव्यापारानाक्षसानर्चिषा
+> स्वकीयेन तेजसा परा शृणीहि । आसि चासुतृपो: मनुष्याकारशुभिश्च प्रा
+> तानपि परा शृणीहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, kill the Yātudhānas with heat. Further, kill the Rākṣasas with your warmth. Further, kill with your own radiance the Mūradevas, the Rākṣasas whose business is killing. And kill also the असुतृपः (*asutṛpaḥ*), those of human form. **NOTE**
+
+### Printed p. 510
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यातुधानान् (*yātudhānān*)—the Rākṣasas
+- तपसा (*tapasā*)—with your flame
+- परा शृणीहि (*parā śṛṇīhi*)—destroy
+- रक्षः (*rakṣaḥ*)—the Rākṣasas
+- हरसा (*harasā*)—with the burning flame
+- परा शृणीहि (*parā śṛṇīhi*)—burn up
+- मूरदेवान् (*mūradevān*)—the Asuras who worship petty deities
+- अर्चिषा (*arciṣā*)—with your radiance
+- परा शृणीहि (*parā śṛṇīhi*)—destroy
+- शोशुचानः (*śośucānaḥ*)—you who are brilliant
+- असुतृपः (*asutṛpaḥ*)—the harmful Asuras
+- अभि परा (*abhi parā*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, destroy the Rākṣasas with your flame. Burn them up with the burning flame. Destroy with your radiance the Asuras who worship petty deities. You who are brilliant, destroy the harmful Asuras.
+
+##### English translation
+Destroy the Yatudhanas with your scorching fire; destroy the Rakshasas, Agni. with your heat; destroy with your radiance those who believe in vain gods, fiercely blazing, destroy the insatiable.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॒द्य दे॒वा वृ॑जि॒नं शृ॑णंतु प्र॒त्यगे॑नं श॒पथा॑ यंतु तृ॒ष्णाः ।  
+> वा॒चास्ते॑नं॒ शर॑व ऋच्छंतु॒ मर्म॒न्विश्व॑स्यॆतु॒ प्रसि॑तिं  ॒॑
+> यातुधानः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । अद्य । देवाः । वृजिनं । शृणंतु । प्रत्यक् । एनं । शपथाः । यंतु । तृष्णाः ।  
+> वाचास्तेनं । शरवः । ऋच्छंतु । मर्मन् । विश्वस्य । एतु । प्रसितिं । यातुधानः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्नहनि देवा अग्निपुरोगाः सर्वे देवा वृजिनं प्राणिनां प्राणैर्वर्जितारं यातुधानं परा शृणंतु । अथैनमायांतं राक्षसं तृष्णाः कटुका
+
+##### Gist of the bhāṣya
+
+Today all the gods, with Agni at their head, are to destroy the Yātudhāna Rākṣasa, who deprives living beings of their breath. Then, as this Rākṣasa comes, the curses, harsh ... **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 504. sukta 87 Rk 3 end, Rk 4-9
+**Progress note:** Done through printed p. 510. Mandala 10 sukta 87 verses 10-15 (partial)
