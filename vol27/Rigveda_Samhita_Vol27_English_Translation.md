@@ -20398,6 +20398,163 @@ there is no destruction. Therefore those wise ones who know that the Supreme Sel
 
 The description of the highest state is given in another way: this is saṃsāra, the stream of birth and death, which is the eternal aśvattha tree (is like an aśvattha tree). Its roots are above, that is, spread upward; its branches are below, that is, grown downward. The root of that tree (what is its cause) is the pure thing, Brahman. That is, the meaning is that this saṃsāra and the outer world have come into being from Brahman, the pure thing. This pure Brahman is called immortal (amṛta means without destruction). All worlds rest on it. No one can go beyond it. Only if there were a thing other than this Brahman would the question of going beyond it arise. Since it is the final place, there is nothing further, nothing beyond it. This whole universe visible to us moves in prāṇa, that is, in Brahman, who is the form of consciousness in prāṇa and all-pervading. That is, the origin and dissolution of this universe take place in Brahman. This Brahman, the cause of the universe, is very great, that is, without beginning or end, endless. When one goes on reflecting on this infinite nature, one feels: how great it is! How small is this universe and the creatures in it! This feeling arises and causes a kind of fear in the mind. As fearful as it is to see a man lift a thunderbolt in his hand, ready to strike, so fearful is it to contemplate the stature of this infinite Brahman. It does not come within the reach of man's intellect, because man's intellect has a limit. Yet ascetics and knowers who have realised the Self through yoga and other practices know this and become immortal. Through fear (that is, by the command) of this Supreme Self or Brahman, the cause of the origin, continuance and dissolution of the universe, fire burns, that is, fire has the power to burn; the sun
 
+### Printed p. 593
+
+…the Brahman—through fear of it the sun shines, and Indra, Vāyu and Yama (or Mṛtyu), the fifth, perform their respective duties through fear of him (Brahman).
+
+It is good if self-knowledge comes before this body falls (dies). Otherwise the soul must take birth in the various worlds of creation. As one's reflection is seen in a mirror, so Brahman is seen clearly in one's own self. That is, to one who knows the Self, the realisation of Brahman appears as clearly as a face in a mirror. In the world of the Fathers it appears indistinctly, as in a dream. In the world of the Gandharvas it appears indistinctly, as a reflection in water. But in the world of Brahman the vision of Brahman is clear, as light (sunshine) and shade are clearly seen.
+
+The wise man who understands the differing states of the senses, born from the different tanmātras, and their origin and dissolution, becomes free from sorrow. That is, the senses such as the eye, born from the tanmātras (tanmātra means subtle form) of the five elements beginning with earth, are in the end dissolved or destroyed in the five elements, their place of origin. These five elements and the senses born of them last for some time and perish. But the wise man who knows that the Self is never destroyed has no sorrow at all.
+
+The mind is higher, or subtler, than the senses. Pure intellect is greater than the mind. Higher and subtler than the intellect is the Mahat principle. Beyond it, that is subtler than it, is the Unmanifest. Higher than the Unmanifest is Puruṣa (cit, or consciousness). This is the Self. He is all-pervading, without any characteristic marks, free from all the attributes of worldly existence, unattached. Knowing such a Self, a living being becomes free and attains immortality. The form of this Self does not come within sight (outer sight). No one can see him with the eye. He becomes visible only through meditation in the inner organ of a yogī or ascetic with controlled mind. Those who know this also become immortal.
+
+For the one whose five organs of knowledge and mind are steady and whose intellect is unmoving, that is, who has gained firmness of mind without letting his mental modifications go towards the pleasures of the senses, they say the supreme state has been reached. This steady holding of the senses is called yoga. The yogī must be very vigilant, for even the state of yoga has many pitfalls or obstacles. For one who is not vigilant, that is, who is slothful, yoga is not accomplished. Self-knowledge is not obtained by speech (conversation and the like), by thinking with the mind, or by seeing with the eyes.
+
+### Printed p. 594
+
+It is attained only by one who has firm faith that it (the Self) exists, that is, one of believing mind, a man of faith. It must be obtained through true knowledge of cause and effect. When the conviction that it exists is born, true knowledge (knowledge of Brahman) becomes manifest, that is, arises in the mind. When all the desires in a man's inner organ, that is, the longing for pleasures and the like, are destroyed, he becomes immortal, that is, liberated while living, and enjoys the bliss of Brahman here itself. When the false bonds that have made a home in the inner organ (the mind) are destroyed, the mortal man becomes immortal, that is, he attains the eternal supreme state called liberation. As soon as the bonds of ignorance firmly lodged in a man's heart are destroyed, the mortal becomes immortal. In the heart there are one hundred and one channels (nāḍīs). Among them one channel called Suṣumnā goes up to the Brahma-randhra at the top of the head. If the breath is made to move in that channel and the life-breath departs through the Brahma-randhra, that man attains immortality. If the breath departs through the other channels, he obtains various births hereafter.
+
+The Puruṣa of the size of a thumb, that is, the inner Self, always dwells in people's hearts. To see that inner Self one must separate it with patience, that is, with self-knowledge, as one peels off a husk and takes out the thing within. That is the immortal thing shining with divine radiance.
+
+Having understood this knowledge of Brahman taught by Mṛtyu or Yama, and having learned the whole method of yoga which he taught, Naciketas attained the state of Brahman. He became free from sin and immortal. Other people too who understand the knowledge of the Self set forth in it will attain eternal liberation like Naciketas.
+
+Here ends the concise exposition of the Kaṭha Upaniṣad.
+
+### Printed p. 595
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परं मृत्यो इति चतुर्दशर्च० द्वितीयं सूक्तं । यमपुत्रस्य संकुसुकस्यार्ष० । एकादशी प्रस्तारपंक्तिः । आद्या जागतौ ततो द्वा गायत्रौ । प्रस्तारपंक्तिः
+> पुरतः । पि ३-४० । इति । त्रयोदशी जगती चतुर्दर्श्यनुष्टुप् । शिष्टास्त्रिष्टुभः ।
+> तत्रादौ चतस्रो मृत्युदेवत्याः । पंचमी धातृदेवताका । षष्ठि त्वष्टृदेवत्या ।
+> सप्तम्याद्याः शिष्टाः पितृमेधाभिधायिन्यः । अतस्तद्देवताकाः । अंत्या त्वनिरुक्तत्वा-
+
+##### Gist of the bhāṣya
+
+The sūkta "परं मृत्यो (*paraṃ mṛtyo*)" (a fourteen-Ṛk sūkta, the second) has as its seer Saṅkusuka, son of Yama. The eleventh verse is a prastāra-paṅkti; the first is a jagatī and then two are gāyatrī; the prastāra-paṅkti is said to come first (a reference is cited, printed पि ३-४० (*pi 3-40*)). The thirteenth is jagatī, the fourteenth anuṣṭubh, and the rest triṣṭubh. Of these, the first four have Mṛtyu as deity, the fifth Dhātṛ, the sixth Tvaṣṭṛ. The seventh and the rest are about the Pitṛmedha (funeral rite); hence they have the Fathers and the like as deities. The last is either Prājāpatya, because no deity is stated for it.**NOTE**
+
+> त्प्राजापत्या वा । तथा चानुक्रांतं । परं मृत्यो संकुसुकश्चतस्रो मृत्युदेवताः
+> परा धात्रि परा त्वाष्ट्री पराः पितृमेधा एकादशी प्रस्तारपंक्तिर्जगत्युपांत्यांत्यानुष्टुप् प्राजापत्या वा सानिरुक्तेति ॥
+
+##### Gist of the bhāṣya
+
+So also the Anukramaṇī says: परं मृत्यो संकुसुकश्चतस्रो मृत्युदेवताः परा धात्रि परा त्वाष्ट्री पराः पितृमेधा एकादशी प्रस्तारपंक्तिर्जगत्युपांत्यांत्यानुष्टुप् प्राजापत्या वा सानिरुक्तेति ॥ (*paraṃ mṛtyo saṃkusukaścatasro mṛtyudevatāḥ parā dhātri parā tvāṣṭrī parāḥ pitṛmedhā ekādaśī prastārapaṃktirjagatyupāṃtyāṃtyānuṣṭup prājāpatyā vā sānirukteti ‖*)
+
+##### Anuvāda
+
+This sūkta "परं मृत्यो (*paraṃ mṛtyo*)" is the second sūkta in the second anuvāka. It has fourteen Ṛks. Its seer is Saṅkusuka, son of Yama. Its eleventh Ṛk is in the prastāra-paṅkti metre; the first two Ṛks are in jagatī; the next two (Ṛks 3–4) in gāyatrī; the thirteenth Ṛk in jagatī; the fourteenth in anuṣṭubh; the remaining Ṛks in triṣṭubh. The first four Ṛks of this sūkta have Mṛtyu as deity; the fifth has Dhātṛ; the sixth has Tvaṣṭṛ; from the seventh onward all Ṛks are used in the subsequent rite called Pitṛmedhābhidhāyinī, so for them the Fathers and others are the deities. As no deity is specified for the last Ṛk, Prajāpati may be its deity. The Anukramaṇī says: Parā mṛtyo ….
+
+Sūkta 18
+Maṇḍala 10 · Anuvāka 2 · Sūkta 18
+Aṣṭaka 7 · Adhyāya 6 · Vargas 26, 27, 28
+Number of Ṛks in the sūkta: 14
+Seer: Saṅkusuka Yāmāyana.
+Deity: 1–4 Mṛtyu; 5 Dhātṛ; 6 Tvaṣṭṛ; 7–13 Pitṛmedha; 14 Pitṛmedha or Prajāpati.
+Metre: 1–10, 12 triṣṭubh; 11 prastāra-paṅkti; 13 jagatī; 14 anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परं॑ मृत्यो॒ अनु॒ परे॑हि॒ पंथां॒ यस्ते॒ स्व इत॑रो देव॒याना॑त् ।  
+> चक्षु॑ष्मते शृण्व॒ते ते॑ ब्रवीमि॒ मा नः॑ प्र॒जां री॑रिषो॒ मोत  ॒
+> वीरान् ॥ १ ॥
+
+### Printed p. 596
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परं । मृत्यो इति । अनु । परा । इहि । पंथां । यः । ते । स्वः । इतरः । देवयानात् ।  
+> चक्षुष्मते । शृण्वते । ते । ब्रवीमि । मा । नः । प्रजां । रीरिषः । मा । उत ।  
+> वीरान् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मृत्यो सर्वेषां मारकैतन्नामक देव परमन्यं पंथां पंथानमन्वानुपूर्व्येण परेहि । पराङ्मुखो गच्छ । यजमानादिति शेषः । कोऽसौ पंथाः ।
+> ते तव स्वः स्वभूतः देवयानात् । देवा अनेन मार्गण गच्छंतीति देवयानो
+> देवमार्गः । तस्मादितरो यः पंथास्तं प्रगच्छ । न केवलमतः परागच्छ आपि तु
+> चक्षुष्मते दर्शनवते शृण्वते सर्वं । अप्रतिहतसर्वेंद्रियविज्ञानायेत्यर्थः । ते
+> तुभ्यं ब्रवीमि कथयामि : नोऽस्माकं प्रजां दुहितृदौहित्रात्मिकां मा रिरिषः ।
+> मा हिंसीः । उतापि च वीरान्पुत्रपौत्रादीन्मा हिंसीः । तत्परागमनेन रक्षेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Mṛtyu, the god of that name who slays all, go away in order, turning away, by another path—from the sacrificer, is the understood supplement. Which path? Your own, देवयानात् (*devayānāt*): the gods go by this way, hence devayāna is the path of the gods; go along the path other than that. Not only go away: to you who have sight and hearing—that is, whose knowledge through all the senses is unobstructed—I say it. Do not harm our offspring, daughters and daughters' sons; and do not harm our heroes, sons, grandsons and the like. Protect them by your going away, is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मृत्यो (*mṛtyo*)—O Mṛtyu
+- परं पंथां अनु (*paraṃ paṃthāṃ anu*)—taking another path
+- परेहि (*parehi*)—go away, turned away
+- ते (*te*)—your
+- स्वः (*svaḥ*)—own
+- देवयानात् (*devayānāt*)—than the path of movement of the gods
+- इतरः (*itaraḥ*)—different
+- यः (*yaḥ*)—whichever path there is, follow that
+- चक्षुष्मते (*cakṣuṣmate*)—possessing eyes
+- शृण्वते (*śṛṇvate*)—possessing ears
+- ते (*te*)—to you
+- ब्रवीमि (*bravīmi*)—I say
+- नः (*naḥ*)—our
+- प्रजां (*prajāṃ*)—sons and the like
+- मा रिरिषः (*mā ririṣaḥ*)—do not harm
+- उत (*uta*)—and
+- वीरान् (*vīrān*)—heroic sons and the like
+- मा (*mā*)—do not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Mṛtyu, take another path and turn away. Go following your own path, different from the path of the gods. I pray to you who have eyes and ears. Do not harm our sons and the like, and do not harm heroic sons and the like.
+
+##### English translation
+Depart, Mrityu, by a different path : by that which is your own, and distinct from the path of the gods ; I speak to you who have eyes, who have ears : do no harm to our offspring, nor to our male progeny.
+
+### Printed p. 597
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the word mṛtyu, Yāska says: मृत्युः । मृत्युर्मारयतीति सतः । मृतं च्यावयतीति ना शतबलाक्षो मौद्गल्यः ॥ तस्यैषा भवति ॥ (*mṛtyuḥ | mṛtyurmārayatīti sataḥ | mṛtaṃ cyāvayatīti nā śatabalākṣo maudgalyaḥ ‖ tasyaiṣā bhavati ‖*) (Ni. 11-6)
+
+He is named Mṛtyu because he kills living beings. Or, because he removes the dead, that is, the soul, from that place to the other world, he is named Mṛtyu: this is the view of the sage Śatabalākṣa, son of Mudgala. The Ṛk containing this word is cited here:
+
+परं मृत्यो अनु परेहि पंथां यस्ते स्व इतरो देवयानात् । चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् ॥ (*paraṃ mṛtyo anu parehi paṃthāṃ yaste sva itaro devayānāt | cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān ‖*)
+
+परं मृत्यो ध्रुवं मृत्यो ध्रुवं परेहि मृत्यो कथितं तेन मृत्यो मृतं च्यावयते भवति मृत्यो मदेर्वा मुदेर्वा ॥ (*paraṃ mṛtyo dhruvaṃ mṛtyo dhruvaṃ parehi mṛtyo kathitaṃ tena mṛtyo mṛtaṃ cyāvayate bhavati mṛtyo madervā mudervā ‖*) (Ni. 11-7)
+
+O Mṛtyu, depart from here certainly; O Mṛtyu, depart, depart. O Mṛtyu, the man whom you have brought to death belongs to you alone. Taking him, depart by your own path, the pitṛyāṇa. Others go to the other world by the devayāna path. O god Mṛtyu, you have eyes to see and ears to hear. What I say to such as you is: do not harm our offspring, that is, sons and the like, and do not harm our people who are heroes. The word mṛtyu may be derived from the root mad or from the root mud: this is the intention of the etymology.
+
+In this Ṛk the seer praises the deity Mṛtyu. Mṛtyu means one who destroys, who kills all living beings. When the measure of life appointed for men and other beings is complete, he makes them die by many causes such as disease and accidents. The seer also indicates here that there is a separate path by which the spirits of the dead go to reach the world of Mṛtyu. The path on which the gods travel is called devayāna. The other path than this devayāna is the pitṛyāṇa, the path by which the Fathers go to the other world. The seer describes this path as the own path of Mṛtyu (Yama), because by this very path the Fathers and the spirits of the dead
+
+### Printed p. 598
+
+go to and reach the world of Mṛtyu; therefore the seer calls it Mṛtyu's own path. Depart by that very path; and the prayer is stated here: do not harm us, nor our kinsfolk, sons, grandsons, daughters, daughters' sons and the like, nor our heroic warriors. For the words चक्षुष्मते शृण्वते (*cakṣuṣmate śṛṇvate*) in this Ṛk the commentator explains अप्रतिहतसर्वेंद्रियविज्ञानाय (*apratihatasarveṃdriyavijñānāya*): that all the senses of this Mṛtyu, eye, ear and the rest, have power and capacity that no one can obstruct. Moreover the use of the words चक्षुष्मते शृण्वते (*cakṣuṣmate śṛṇvate*) points to a kind of hidden meaning. In whatever place in the world any creature dies, Mṛtyu sees it at once, and at once hears of it through his spies and knows. That is, it is to be understood that this use of words conveys that the matter of the dead is known to him immediately.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒त्योः प॒दं यो॒पयं॑तो॒ यदैत॒ द्राघी॑य॒ आयुः॑  
+> प्रत॒रं दधा॑नाः ।  
+> आ॒प्याय॑मानाः प्र॒जया॒ धने॑न शु॒द्धाः पू॒ता भ॑वत यज्ञियासः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृत्योः । पदं । योपयंतः । यत् । ऐत । द्राघीयः । आयुः । प्रतरं ।  
+> दधानाः ।  
+> आप्यायमानाः । प्रजया । धनेन । शुद्धाः । पूताः । भवत । यज्ञियासः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मृतस्य ज्ञातयः मृत्योः परागच्छतस्तस्य पदं पद्यतेऽस्मिन्निति पदं
+> पितृयाणः । तं योपयंतो विमोहयंतः परिवर्जयंतो यद्यस्मादैत
+> देवयानीयपथा गतवंतः तस्माद्राघीयो दीर्घतरमायुर्जीवनं प्रतरं
+> प्रकृष्टतरमत्यर्थं दधाना धारयंतो भवथ । किंच हे यज्ञियासो यज्ञार्हा
+> यज्ञसंपादिनो यजमानाः प्रजया पुत्रपौत्रादिकया धनेन गवाश्वादिकेन
+
+##### Gist of the bhāṣya
+
+O kinsmen of the dead: of Mṛtyu who is going away—पदं (*padaṃ*) is that in which one goes, the pitṛyāṇa path. Avoiding it, bewildering it, since you have gone by the devayāna path, therefore you will be bearing a longer life, much more excellent, in the extreme. Moreover, O sacrificers, worthy of sacrifice, performers of sacrifice, with offspring such as sons and grandsons, with wealth such as cattle and horses ….
+
 ---
 
-**Progress note:** Done through printed p. 592. pp. 587-592 (batch API)
+**Progress note:** Done through printed p. 598. pp. 593-598 (batch API)
