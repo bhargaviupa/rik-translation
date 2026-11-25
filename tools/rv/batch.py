@@ -280,6 +280,7 @@ def cmd_check(a):
         if st: fail.append(f'stray letters of another script in the English text (e.g. {st[0]!r} U+{ord(st[0]):04X}): a mistyped Latin letter, fix it in en.md')
         if kk: fail.append(f'{len(kk)} Kannada-script words left in the English text (e.g. {kk[0]}): Sanskrit goes inside ⟦ ⟧ (the script converts it), a reference abbreviation is written in Latin letters (BRIEF.md table), a Kannada word is translated; Kannada letters may stand only inside **NOTE**{{…}}')
     dk,de=doubts(kn),doubts(enf)
+    if cfg.d.get('doubt_check')=='notes': dk=[]      # transcribed volumes (Vol 25): a [?] of the Kannada text is answered by a **NOTE** in the English; only the English must be free of them
     if len(dk)+len(de)>mx: fail.append(f'[?] left: {len(dk)} in kn.md, {len(de)} in en.md (allowed {mx})')
     knr=re.sub(r'(?<=[೦-೯0-9])_(?=[೦-೯0-9])','-',kn); knr=re.sub(r'(?<=-[೦-೯0-9]) (?=[೦-೯0-9]{1,3}-[೦-೯0-9])','-',knr)   # … and a space for it inside a reference (೧೦-೫ ೪-೧೪)          # the machine reader sometimes gives '_' for the hyphen of a reference (ನಿ. ೧೦_೮): same reference for the twin check
     knr=re.sub(r'(?<=[೦-೯])[ \n]+(?=[೦-೯]{1,4}[-)])','-',knr)     # a reference whose hyphen the print lost at a space or line break (೬ ೪-೧೦೨ / ೩-೨⏎೧೦೬): the same number (Vol 11)
@@ -389,6 +390,8 @@ def audit(cfg,expect_clean=True):
     q=lambda t:t.count('[?]')-t.count('`[?]`')
     if cfg.d.get('doubt_check')=='kn_le_en':      # Vol 14 (older remark style): the English remarks may repeat or add a mark; every Kannada mark must have an English one
         if q(kn)>q(en): pr.append(f"more [?] in the Kannada file than in the English: English {q(en)}, Kannada {q(kn)}")
+    elif cfg.d.get('doubt_check')=='notes':
+        if q(en): pr.append(f"[?] in the English file ({q(en)}): a Kannada [?] is answered by a **NOTE**, never copied")
     elif q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
     if note_style(cfg):
         nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0
