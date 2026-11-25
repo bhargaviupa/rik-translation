@@ -32278,6 +32278,221 @@ In this sūkta Indrāṇī, the seer of the sūkta, in order to remove the affli
 (Ṛgvidhāna, Chapter 4, verses 64-69)
 By repeating this sūkta "इमां खनामि (*imāṃ khanāmi*)" a hundred times, the rival wife's harassment ceases and one's husband becomes attached to oneself. If the husband too repeats this sūkta and drinks for seven nights milk mixed with the herb called pāṭhā, all his enemies will be destroyed. The woman who, leaving aside the mantras of this sūkta, wishes to win her husband with other mantras will meet misfortune and will sink in suffering in the hell located in Yama's world. Even if herbs other than the pāṭhā mentioned here, powders and other medicines are used, those powders and other medicines will destroy that woman's husband. Therefore the mantra and the herb stated here should be used, and no other mantra or herb should be used. The woman who speaks pleasing words to her husband, whose husband is attached to his wife, and who always speaks sweet and good words with her husband: her husband will be attached to her and affectionate. The woman who desires her husband's love should drink this medicine in her husband's presence. The man who out of delusion despises and insults a lawful wife who speaks pleasing words, is devoted to dharma and is blameless, is called the lowest of men.
 
+### Printed p. 965
+The Bṛhaddevatā says thus:
+
+इमां खनामिति सूक्तमिंद्राणी यत्त्वयं जगौ ॥ ५५ ॥ तदौपनिषदं षट्कं भाववृत्तं प्रचक्षते ॥ उत्तानपर्णां पाठां तु स्तोति सूक्ते महौषधिं ॥ ५६ ॥ पतिसंवननी त्वंत्यान्याः सपत्न्यपनोदिकाः ॥ (*imāṃ khanāmiti sūktamiṃdrāṇī yattvayaṃ jagau ‖ 55 ‖ tadaupaniṣadaṃ ṣaṭkaṃ bhāvavṛttaṃ pracakṣate ‖ uttānaparṇāṃ pāṭhāṃ tu stoti sūkte mahauṣadhiṃ ‖ 56 ‖ patisaṃvananī tvaṃtyānyāḥ sapatnyapanodikāḥ ‖*) (Bṛ. De. 8-55, 56)
+
+Indrāṇī (the wife of Indra) herself recited and praised this sūkta beginning "इमां खनामि (*imāṃ khanāmi*)". This sūkta is called an Upaniṣad bhāvavṛtta sūkta of six Ṛks. In this sūkta the seer (a woman) praises, describing them, the long and spreading leaves and stems of the creepers that are great medicinal plants, and their power. In the last Ṛk of this sūkta it is said that the husband's love is obtained for the wife. In the remaining Ṛks there is a description of the matter of warding off the harassment of the co-wife (rival wife). What the sage Āpastamba and the commentator have said regarding this sūkta is given in the Anuvāda of the viniyoga of this sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमामिति षडृचं सप्तदशं सूक्तमिंद्राण्या आर्षं। षष्ठी पंक्तिः शिष्टा अनु
+> ष्टुभः । अनेन सूक्तेन सपत्न्या बाधनं प्रतिपाद्यते । अत एव सूक्तजपादिना सपत्न्याविनाशो भवति । अतस्तद्देवताकमिदं । तथा चानुक्रांतं । इमामिंद्राण्युपनिषत्सपत्नीबाधनमानुष्टुभं तु पंक्त्यंतमिति ॥ अस्य सूक्तस्य विनियोगो भगवतापस्तंबेन कस्मिंश्चित्सपत्नीघ्नप्रयोगविशेषे दर्शितः । त्रिः सप्तैर्यवैः पाठां परिकिरति यदि
+> वारुण्यसि वरुणात्वा निष्कीर्णामि यदि सौम्यसि सोमात्वा निष्कीर्णामीति ।
+> श्वोभूत उत्तरयोत्थाप्योत्तराभिस्तिसृभिरभिमंत्रोत्तरया प्रतिच्छन्नां हस्तयोराबध्य शय्याकाले बाहुभ्यां भर्तारं परिगृह्णीयादुपधानलिंगया । वश्यो
+> भवति । सपत्नीबाधनं च । आप- गृ. ९-५ रिंद ८ । इति । आयमर्थः । आद्यया पाठा
+> नामौषधिः खातव्या । ततस्ति सृभिरोषधेरभिमंत्रणं । षष्ठ्याबद्धा सौषधिर्यथा
+> भर्तारं स्पृशति तथा तस्य भर्तुरालिंगनमिति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta of six Ṛks, the seventeenth in the anuvāka, has Indrāṇī as seer. The sixth Ṛk is in Paṅkti metre, the rest in Anuṣṭubh. By this sūkta the harassment of the co-wife is set forth; hence by reciting it and the like the co-wife is destroyed, and so it has that deity. He quotes the Anukramaṇī: इमामिंद्राण्युपनिषत्सपत्नीबाधनमानुष्टुभं तु पंक्त्यंतमिति (*imāmiṃdrāṇyupaniṣatsapatnībādhanamānuṣṭubhaṃ tu paṃktyaṃtamiti*). The viniyoga was shown by the venerable Āpastamba in a particular co-wife-destroying rite: she scatters the pāṭhā plant around with three times seven barley grains, saying यदि वारुण्यसि वरुणात्वा निष्कीर्णामि यदि सौम्यसि सोमात्वा निष्कीर्णामीति (*yadi vāruṇyasi varuṇātvā niṣkīrṇāmi yadi saumyasi somātvā niṣkīrṇāmīti*). On the morrow she raises it with the next Ṛk, consecrates it with the next three Ṛks, and with the next Ṛk, binding it covered in her hands, at bedtime she should embrace her husband with her arms, using the plant as a pillow-like contact. He becomes subject to her, and the co-wife is warded off (Āpa. Gṛ. 9-5 to 8). The meaning: with the first Ṛk the plant called pāṭhā is dug up; then it is consecrated with three Ṛks; the plant bound with the sixth touches the husband, so that he is embraced.
+
+**Anuvāda:** This sūkta "इमां (*imāṃ*)" is the seventeenth sūkta in the eleventh anuvāka. It has six Ṛks. Indrāṇī is its seer; its sixth Ṛk is in Paṅkti metre, the other Ṛks in Anuṣṭubh. The matter set forth in this sūkta is that the harassment of the co-wife be removed. By reciting this sūkta the co-wife is destroyed. Therefore the deity of this sūkta is the removal of the co-wife's harassment. In the Anukramaṇī it is said: इमामिंद्राण्युपनिषत्सपत्नीबाधनमानुष्टुभं तु पंक्त्यंतमिति ॥ अस्य सूक्तस्य विनियोगो भगवतापस्तंबेन कस्मिंश्चित्सपत्नीघ्नप्रयोगविशेषे दर्शितः । त्रिः सप्तैर्यवैः पाठां परिकिरति यदि वारुण्यसि वरुणात्वा निष्कीर्णामि यदि सौम्यसि सोमात्वा निष्कीर्णामीति । श्वोभूत उत्तरयोत्थाप्योत्तराभिस्तिसृभिरभिमंत्रोत्तरया प्रतिच्छन्नां हस्तयोराबध्य शय्याकाले बाहुभ्यां भर्तारं परिगृह्णीयादुपधानलिंगया । वश्यो भवति । सपत्नीबाधनं च । आप- गृ. ९-५ रिंद ८ । इति । आयमर्थः । आद्यया पाठा नामौषधिः खातव्या । ततस्ति सृभिरोषधेरभिमंत्रणं । षष्ठ्याबद्धा सौषधिर्यथा भर्तारं स्पृशति तथा तस्य भर्तुरालिंगनमिति ॥ अनुवादवु—इमां ऎंब ई सूक्तवु हन्नॊंदनॆय अनुवाकदल्लि हदिनेळनॆय सूक्तवु. इदरल्लि आरु ऋक्कुगळिरुवुवु. ई सूक्तक्कॆ इंद्राणियु ऋषिकॆयु ; ई सूक्तद आरनॆय ऋक्कु पंक्तिश्चंदवु; उळिद ऋक्कुगळु अनुष्टुप् छंदस्कवु. ई सूक्तदल्लि सपत्निय (सवतिय) बाधॆयु परिहारवागबेकॆंब विषयवु प्रतिपादितवागिदॆ. ई सूक्तजपदिंद सवतिय विनाशवु आगुवुदु. आद्दरिंद ई सूक्तक्कॆ सपत्नीबाधनवे देवतॆयु. अनुक्रमणिकॆयल्लि—इमामिंद्राण्युपनिषत्स- पत्नीबाधनमानुष्टुभं तु पंक्त्यंतं (*imāmiṃdrāṇyupaniṣatsapatnībādhanamānuṣṭubhaṃ tu paṃktyaṃtamiti ‖ asya sūktasya viniyogo bhagavatāpastaṃbena kasmiṃścitsapatnīghnaprayogaviśeṣe darśitaḥ | triḥ saptairyavaiḥ pāṭhāṃ parikirati yadi vāruṇyasi varuṇātvā niṣkīrṇāmi yadi saumyasi somātvā niṣkīrṇāmīti | śvobhūta uttarayotthāpyottarābhistisṛbhirabhimaṃtrottarayā praticchannāṃ hastayorābadhya śayyākāle bāhubhyāṃ bhartāraṃ parigṛhṇīyādupadhānaliṃgayā | vaśyo bhavati | sapatnībādhanaṃ ca | āpa- gṛ. 9-5 riṃda 8 | iti | āyamarthaḥ | ādyayā pāṭhā nāmauṣadhiḥ khātavyā | tatasti sṛbhiroṣadherabhimaṃtraṇaṃ | ṣaṣṭhyābaddhā sauṣadhiryathā bhartāraṃ spṛśati tathā tasya bharturāliṃganamiti ‖ anuvādavu—imāṃ èṃba ī sūktavu hannòṃdanèya anuvākadalli hadineḷanèya sūktavu. idaralli āru ṛkkugaḷiruvuvu. ī sūktakkè iṃdrāṇiyu ṛṣikèyu ; ī sūktada āranèya ṛkku paṃktiścaṃdavu; uḷida ṛkkugaḷu anuṣṭup chaṃdaskavu. ī sūktadalli sapatniya (savatiya) bādhèyu parihāravāgabekèṃba viṣayavu pratipāditavāgidè. ī sūktajapadiṃda savatiya vināśavu āguvudu. āddariṃda ī sūktakkè sapatnībādhanave devatèyu. anukramaṇikèyalli—imāmiṃdrāṇyupaniṣatsa- patnībādhanamānuṣṭubhaṃ tu paṃktyaṃtaṃ*).
+
+### Printed p. 966
+Regarding the viniyoga of this sūkta, the sage Āpastamba has said as follows in the rite connected with removing a co-wife: a woman who wishes that the co-wife's trouble be removed and that her husband become subject to her should scatter around the powder of the herb called pāṭhā together with twenty-one barley grains, reciting the mantra "yadi vāruṇyasi varuṇāttā niṣkrīṇāmi yadi saumyasi somātvā niṣkrīṇāmi". Rising next morning, she should consecrate it with three Ṛks of this sūkta, and with the following Ṛk, holding the herb covered in her hand, at bedtime if she embraces her husband with her arms, the husband becomes subject to her and the co-wife's torment ceases. The chief point is: reciting the first Ṛk of this sūkta, the herb pāṭhā is to be dug out of the earth. Then with the next three Ṛks (2-4) the herb is to be consecrated. With the sixth Ṛk, binding the herb on the arm and embracing the husband so that the herb touches his body, the husband becomes subject to her.
+
+Maṇḍala 10; Anuvāka 11; Sūkta 145; Aṣṭaka 8; Adhyāya 8; Varga 3. Number of Ṛks in the sūkta: 6. Seer: Indrāṇī. Deity: Upaniṣat, removal of the co-wife's harassment. Metre: 1–5 Anuṣṭubh; 6 Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां ख॑ना॒म्योष॑धिं वी॒रुधं॒ बल॑वत्तमां ।  
+> यया॑ स॒पत्नीं॒ बाध॑ते॒ यया॑ संविं॒दते॒ पतिं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । खनामि । ओषधिं । वीरुधं । बलवत्कतमां ।  
+> यया । सपत्नीं । बाधते । यया । संविंदते । पतिं ॥ २ ॥
+
+### Printed p. 967
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमानोषधिं पाठाख्यां वीरुधं लतारूपां बलवत्तमां स्वकार्यकरणेऽतिशयेन बलवतीं खनामि । उन्मूलयामि । ययौषध्या सपत्नीं । समान एकः
+> पतिर्यस्याः सा सपत्नी । तामेषा वधूर्बाधते हिनस्ति । यया च पतिं भर्तारं
+> संविंदते सम्यगसाधारण्येन लभते ॥
+
+##### Gist of the bhāṣya
+
+I dig up this plant called pāṭhā, a creeper, exceedingly strong in doing its work; I uproot it. By which plant the co-wife — she whose husband is the same, one — this bride harasses, injures; and by which she wins her husband fully, without sharing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यया (*yayā*)—by which plant (herb)
+- सपत्नीं (*sapatnīṃ*)—the co-wife
+- बाधते (*bādhate*)—is harassed (is destroyed)
+- यया (*yayā*)—by the help of which plant
+- पतिं (*patiṃ*)—her husband
+- संविंदते (*saṃviṃdate*)—is obtained; of such a kind
+- वीरुधं (*vīrudhaṃ*)—existing in the form of a creeper
+- बलवत्तमां (*balavattamāṃ*)—possessing exceeding power in accomplishing the work
+- इमां ओषधिं (*imāṃ oṣadhiṃ*)—this herb called pāṭhā
+- खनामि (*khanāmi*)—I dig out of the earth
+
+##### भावार्थ (Bhāvārtha)
+
+By the help of which plant (herb) the co-wife can be destroyed, by the help of which plant one can obtain her husband (and his love) — such a herb called pāṭhā, in the form of a creeper and of exceeding power, I dig out of the earth.
+
+##### English translation
+I dig up this most potent medicinal creeper, by which (a wife) destroys a rival wife, by which she secures to herself her husband.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ता॑नपर्णे॒ सुभ॑गे॒ देव॑जूते॒ सह॑स्वति ।  
+> स॒पत्नीं॑ मे॒ परा॑ धम॒ पतिं॑ मे॒ केव॑लं कुरु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्तानपर्णे । सुभगे । देवजूते । सहस्वति ।  
+> सप्तीं । मे । परा । धम । पतिं । मे । केवलं । कुरु ॥ २ ॥
+
+### Printed p. 968
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उत्तानपर्णे । उत्तानान्यूर्द्ध्वमुखानि पर्णानि पत्राणि यस्याः तादृशि हे
+> सुभगे सौभाग्यहेतुभूते हे देवजूते देवेन स्रष्टा प्रेरिते हे सहस्वत्यभिभवनवति ईदृशे हे पाठे मे मम सपत्नीं स्त्रियं परा धम । परागमय । धमतिर्गतिकर्मा । पतिं च मे ममैव केवलमसाधारणं कुरु ॥
+
+##### Gist of the bhāṣya
+
+O pāṭhā, you whose leaves (parṇa) are uttāna, upturned, facing upward; auspicious, cause of good fortune; sent forth by the god, the creator; सहस्वति (*sahasvati*), possessed of overpowering — drive away (परा धम (*parā dhama*), make go away; the root dham has the sense of motion) my co-wife, and make my husband mine alone, not shared.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत्तानपर्णे (*uttānaparṇe*)—O one furnished with leaves grown upward
+- सुभगे (*subhage*)—bestower of good fortune
+- देवजूते (*devajūte*)—impelled by the Creator
+- सहस्वति (*sahasvati*)—overcomer of the enemy, O herb called pāṭhā
+- मे (*me*)—my
+- सपत्नीं (*sapatnīṃ*)—co-wife
+- परा धम (*parā dhama*)—drive away
+- पतिं च (*patiṃ ca*)—and my husband
+- मे केवलं (*me kevalaṃ*)—so that he be mine only
+- कुरु (*kuru*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O herb called pāṭhā, furnished with upward-grown leaves, a cause of good fortune, overcomer of the enemy co-wife: drive my co-wife far from the vicinity of my husband, and make my husband mine alone — that is, not attached to another woman but loving me only.
+
+##### English translation
+O (plant) with up-turned leaves, auspicious, sent by the gods, powerful, remove my rival and make my husband mine alone.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः ।  
+> अथा॑ स॒पत्नी॒ या मनाध॑रा॒ साध॑राभ्यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्तरा । अहं । उत्तरे । उत्तरा । इत् । उत्तराभ्यः ।  
+> अथ । सप्तत्नि । या । मम । अधरा । सा । अधराभ्यः ॥ ३ ॥
+
+### Printed p. 969
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उत्तर उत्कृष्टतरे पाठे अहमुत्तरोत्कृष्टतरा भूयासं । उत्तराभ्यो
+> लोके या उत्कृष्टतराः संति ताभ्योऽप्यहमुत्तरोत्कृष्टतरैव त्वत्पसादाद्भवेयं।
+> अथानंतरं मम या सपत्नि साधराभ्यो निकृष्टाभ्योऽप्यधरा निकृष्टतरा भवतु ॥
+
+##### Gist of the bhāṣya
+
+O superior, more excellent pāṭhā, may I become superior, more excellent; may I, by your favour, be more excellent even than those in the world who are more excellent. Thereafter, may my co-wife be lower, more inferior, even than those who are inferior.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत्तरे (*uttare*)—O excellent herb called pāṭhā
+- अहं (*ahaṃ*)—I
+- उत्तरा (*uttarā*)—may be more excellent than all
+- उत्तराभ्यः (*uttarābhyaḥ*)—than those who are most excellent in the world, I
+- उत्तरा इत् (*uttarā it*)—may be excellent
+- अथ (*atha*)—afterwards
+- मम (*mama*)—my
+- या सपत्नि (*yā sapatni*)—whatever co-wife there is
+- सा (*sā*)—she
+- अधराभ्यः (*adharābhyaḥ*)—than inferior (low) people
+- अधरा (*adharā*)—may be most inferior
+
+##### भावार्थ (Bhāvārtha)
+
+O excellent (superior) herb called pāṭhā, may I be more excellent than all. May I be more excellent than those who are reckoned most excellent in the world. Thereafter, may she who is my co-wife be more inferior even than the people who are inferior in the world.
+
+##### English translation
+Exallent (plant), may I too be excellent, excellent among the excellent and may she who is my rival be vile amongst the vile.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒ह्य॑स्या॒ नाम॑ गृ॒भ्णामि॒ नो अ॒स्मिन्॑मते॒ जने॑ ।  
+> परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । अस्याः । नाम । गृभ्णामि । नो इति । अस्मिन् । रमते । जने ।  
+> परां । एव । परावतं । सपत्नीं । गमयामसि ॥ ४ ॥
+
+### Printed p. 970
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याः सपत्न्या नाम संज्ञामपि नहि गृह्णामि । नैव गृह्णामि । उच्चारयामि॥
+> नो खलु काचिदस्मिज्जने सपत्न्याख्ये रमते । क्रीडति । अपि च तां सपत्नीं परां,
+> परावतमेवातिशयेन दूरदेशमेव गमयामसि । प्रापयामः । अतिशयेन भर्त्रावियोजयाम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+I do not take even the name of this co-wife; I do not utter it. No one at all takes delight (रमते (*ramate*), plays) in this person called co-wife. And we send that co-wife far away, to a distant place indeed; we cause her to reach there; that is, we utterly separate her from her husband.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्याः (*asyāḥ*)—of this co-wife
+- नाम (*nāma*)—the name also
+- नहि गृभ्नामि (*nahi gṛbhnāmi*)—I do not utter even with the mouth
+- आस्मिन् जने (*āsmin jane*)—in the matter of this co-wife
+- नो रमते (*no ramate*)—no one has delight (tolerance)
+- परां (*parāṃ*)—other than myself
+- सपत्नीं (*sapatnīṃ*)—the co-wife
+- परावतं एव (*parāvataṃ eva*)—to a very distant place (so as to be away from the husband)
+- गमयामसि (*gamayāmasi*)—let us drive away
+
+##### भावार्थ (Bhāvārtha)
+
+I do not utter even the name of this co-wife. No one is pleased in the matter of this co-wife. Let us drive this co-wife, other than myself, to a very distant place (so that she is far from the husband).
+
+##### English translation
+I will not even utter her name, no (woman) takes pleasure in that person ; may we remove the other rival wife to a distance.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हम॑स्मि॒ सह॑मा॒नाथ॒ त्वम॑सि सास॒हिः ।  
+> उ॒भे सह॑स्वती भू॒त्वी स॒पत्नीं॑ मे सहावहै ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । अस्मि । सहमाना । अथ । त्वं । असि । ससहिः ।  
+> उभे इति । सहस्वती इति । भूत्वी । सपत्नीं । मे । सहावहै ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 964. pp. 959-964 (batch API)
+**Progress note:** Done through printed p. 970. pp. 965-970 (batch API)
