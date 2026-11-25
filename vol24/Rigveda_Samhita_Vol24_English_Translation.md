@@ -2643,7 +2643,7 @@ No hostile mortal shall have power by fraud over him who by the (sacred) offerer
 
 Desiring a showerer of riches for himself, or else desiring a sender of rain, the seer Vyaśva of that name, my father, pleased you, who are the finder of wealth.
 
-### Printed p. 60
+### Printed p. 59
 
 > धनादिप्राप्त्यर्थं हविर्भिरतोषयत् । तथा वयमपि महो महते राये धनाय
 > शमु तथाविधमेव त्वा त्वां समिधीमहि । सम्यगाज्यादिहविर्भिर्दिर्पयेम ॥
@@ -2691,11 +2691,12 @@ The Rishi Vyashwa, desirous (of propitating) the showerer (of rain), has gratifi
 > इत्यर्थः । आयजिमाभिमुख्येन यष्टारं जातवेदसं जातप्रज्ञं त्वा त्वां ।
 > पुनस्ताशब्द आदरार्थः । त्वामेव होतारं होमनिष्पादकं न्यसादयॆत् ।
 > निशरामुपावेशयत् ॥
-> 60 सायणभाव्यसहिता [ मं. ८. अ. ४. सू. २३.
 
 ##### Gist of the bhāṣya
 
 O Agni, the seer named Uśanas, the son of Kavi, for Manu the king, that is, in his house, seated you, the sacrificer facing the gods, who are of born wisdom (jātavedas), as the hotṛ, the performer of the oblation. The word "you" is repeated for emphasis: he seated you yourself, as the one who accomplishes the oblation.
+
+### Printed p. 60
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -2738,7 +2739,7 @@ Ushanas, as the son of Kavi, has established you, Jatavedas, as the ministrant p
 
 O Agni, all the gods, being united, having considered that "he brings oblations for us", made you yourself their messenger, the bearer of the oblations. The particle is used for emphasis. Therefore, O shining Agni, you who are the foremost, the chief of the gods, be quickly worthy of sacrifice as the giver of the oblation to the gods. The word for "quickly" is a name meaning swift.
 
-### Printed p. 62
+### Printed p. 61
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -2780,11 +2781,12 @@ All the consentient gods have made you their messenger ; may you, divine Agni, w
 > पापानां शोधकं कृष्णवर्तनिं । वर्तनिर्मार्गः । कृष्णमार्गं विहायसं । विहाया
 > इति महन्नाम । गुणैस्तैजोऽधिकत्वेन वा महांतमिमं घेममेवाग्निं दूतं
 > देवानां वोढृत्वेन दूतं कृण्वीत । अकार्षित् ॥
-> 62 सयणभाष्पसहिता [ मं. ८. आ. ४. सू. २३.
 
 ##### Gist of the bhāṣya
 
 With this verse he says that the sacrificer made Agni the messenger of the gods. The mortal, the man, the sacrificer, who is the hero, able in the rite, has made this very Agni, who is immortal, free from the nature of death, the purifier, the cleanser of sins, whose path is dark (the word for "path" means road, so: the dark road), and who is great (the word for "great" is a name meaning large), great through his qualities or through his excess of splendour, the messenger, as the carrier of the oblations to the gods.
+
+### Printed p. 62
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -2828,7 +2830,7 @@ The pious mortal has appointed this immortal purifying, dark-moving, mighty (Agn
 
 We who hold the ladles, or else we who hold the ladles ready in their several places, invoke that Agni who is of fair light, of bright and shining splendour, the lord of the people. Or else, the construction is "worthy of praise by the people": worthy to be praised by men, ageless, free from old age, ancient. We call such an Agni with praises, recitations and the like.
 
-### Printed p. 65
+### Printed p. 63
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -2877,6 +2879,9 @@ The mortal, the man, who through the givers of oblations, the priests, offers th
 - अस्मै (*asmai*)—to this Agni
 - आहुतिं (*āhutiṃ*)—the offerings of ghee and so on
 - अविधत् (*avidhat*)—offers
+
+### Printed p. 64
+
 - सः (*saḥ*)—that same man
 - भूरि (*bhūri*)—in great measure
 - पोषं (*poṣaṃ*)—nourishment by wealth and the like
@@ -2924,6 +2929,8 @@ Agni, who is first, the chief among the gods, of born wisdom (jātavedas), ancie
 - स्रुक् (*sruk*)—the cup ladle
 - नमसा (*namasā*)—with praise
 - प्रत्येति (*pratyeti*)—approaches
+
+### Printed p. 65
 
 ##### भावार्थ (Bhāvārtha)
 
@@ -3394,7 +3401,7 @@ O Indra, you are famous for strength, for your might. The particle expresses wha
 - मघैः (*maghaiḥ*)—with your riches
 - मघोनः (*maghonaḥ*)—than other men who are wealthy
 
-### Printed p. 76
+### Printed p. 75
 - अति (*ati*)—being of surpassing generosity
 - दाशसि (*dāśasi*)—you give wealth to the reciters
 
@@ -3435,7 +3442,11 @@ O Indra, such as you are, being praised by us, bring to us wealth, a wealth of t
 - चित्रश्रवस्तमं (*citraśravastamaṃ*)—of many kinds
 - रयिं (*rayiṃ*)—wealth in the form of sons and the like
 - नः (*naḥ*)—to us
-- आ भर (*ā bhara*)—accomplish and give
+- आ भर (*ā bhara*)—accomplish
+
+### Printed p. 76
+
+  and give
 - हरिवः (*harivaḥ*)—O Indra, who have horses called Hari
 - यः (*yaḥ*)—you who
 - निरेके चित् (*nireke cit*)—by the discharge of arrows alone
@@ -10161,6 +10172,10 @@ Here ends the second adhyāya in the sixth aṣṭaka of the Ṛgveda-saṃhitā
 
 शुभं भूयात् (*śubhaṃ bhūyāt*)
 
+### Printed p. 224
+
+### Printed p. 225
+
 ओं (*oṃ*) **NOTE**
 
 श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*)
@@ -10487,7 +10502,7 @@ If you are propitiated by my libation and praise. bestow food (upon me), come wi
 > व॒यं घा॑ ते॒ अपि॑ ष्मसि स्तो॒तार॑ इंद्र गिर्वणः ।  
 > त्वं नो॑ जिन्व सोमपाः ॥ ७ ॥
 
-### Printed p. 234
+### Printed p. 233
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
@@ -10542,6 +10557,8 @@ Indra, you are pleased by praise, we are your adorers; do you therefore, who are
 ##### Gist of the bhāṣya
 
 And moreover, O Maghavan, you, delighting in us, bring to us undiminished food; pitu is read among the names of food. Your wealth is abundant, indeed greater. **NOTE**
+
+### Printed p. 234
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -11638,7 +11655,11 @@ O Vasu, bestower of dwelling, Indra, when the Soma has been pressed, at its outf
 - सुते (*sute*)—the Soma juice, the creepers having been crushed and pressed
 - निरेके (*nireke*)—as it is flowing fresh
 - उक्तिनः (*uktinaḥ*)—reciting the hymns that have been spoken
-- वरः (*varaḥ*)—the priests and others who take the chief parts in the sacrifice **NOTE**
+- वरः (*varaḥ*)—
+
+### Printed p. 259
+
+  the priests and others who take the chief parts in the sacrifice **NOTE**
 - त्वां (*tvāṃ*)—you
 - स्वरंति (*svaraṃti*)—praise with a loud voice (such an Indra)
 - सुतं (*sutaṃ*)—the pressed and prepared Soma juice, desiring it
@@ -11685,6 +11706,9 @@ O bold Indra, assailant of foes, give to the Kaṇvas (the Sanskrit has कण�
 - सहस्रिणं (*sahasriṇaṃ*)—numbering a thousand (much)
 - वाजं (*vājaṃ*)—food
 - आ दर्षि (*ā darṣi*)—give
+
+### Printed p. 260
+
 - मघवन् (*maghavan*)—wealthy
 - विचर्षणे (*vicarṣaṇe*)—O Indra, who sees and knows everything
 - धृषक् (*dhṛṣak*)—that which gives strength
@@ -20390,6 +20414,8 @@ I glorify with hymns the ever-young Agni, the lord of men, the wise the all-devo
 > य॒ज्ञानां॑ र॒थ्ये॑ व॒यं ति॒ग्मजं॑भाय वी॒ळवे॑ ।  
 > स्तोमै॑रिषेमा॒ग्नये॑ ॥ २७ ॥
 
+### Printed p. 447
+
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
 > यज्ञानां । रथ्ये । वयं । तिग्मजंभाय । वीळपे ।  
@@ -22413,6 +22439,9 @@ Bestow on us, Indra, that desirable wealth which all men recognize as given abun
 Here ends the third chapter in the sixth aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Kannada translation.
 
 यवक्षरदनभ्रष्टं मात्र हीनं तु यद्वृतेत् तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yavakṣaradanabhraṣṭaṃ mātra hīnaṃ tu yadvṛtet tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+### Printed p. 489
+
 
 **Sixth Aṣṭaka, Fourth Adhyāya**
 
@@ -34702,6 +34731,9 @@ Even wealth buried in the earth (निखातं चित् (*nikhātaṃ c
 - वज्री (*vajrī*)—the bearer of the thunderbolt
 - सुशिप्रः (*suśipraḥ*)—having fine cheeks
 - हर्यश्व इत् (*haryaśva it*)—endowed with horses of bay colour, that same
+
+### Printed p. 763
+
 - इंद्रः (*iṃdraḥ*)—Indra
 - दाशुषे (*dāśuṣe*)—to the sacrificer who gives the oblation
 - निखातः चित् (*nikhātaḥ cit*)—digging up even the earth
