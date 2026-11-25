@@ -31,7 +31,7 @@ def lines_of(vol, pg, png):
         ws.sort(); out.append((min(x[0] for x in ws), min(x[1] for x in ws), max(x[2] for x in ws), max(x[3] for x in ws), ' '.join(x[4] for x in ws)))
     return sorted(out, key=lambda x: x[1])
 def main():
-    a = sys.argv[1:]; vol = a[0]; kinds = (a[a.index('--kinds') + 1] if '--kinds' in a else 'number,head').split(','); per = int(a[a.index('--per') + 1]) if '--per' in a else 10
+    a = sys.argv[1:]; vol = a[0]; kinds = (a[a.index('--kinds') + 1] if '--kinds' in a else 'number,head').split(','); per = int(a[a.index('--per') + 1]) if '--per' in a else 10; tag = a[a.index('--tag') + 1] if '--tag' in a else ('num' if 'word' not in kinds else 'word')
     PDFS[vol] = os.path.join(ROOT, f'vol{vol}', 'scans', f'Rig_Vol{vol}.pdf')
     Q = [q for q in csv.DictReader(open(os.path.join(ROOT, f'vol{vol}', 'review', 'questions.tsv'), encoding='utf8'), delimiter='\t') if q['kind'] in kinds and not q['answer']]
     os.makedirs(os.path.join(ROOT, f'vol{vol}', 'work', 'ocr'), exist_ok=True); cd = os.path.join(ROOT, f'vol{vol}', 'work', 'crops')
@@ -71,10 +71,10 @@ def main():
         grp = items[j:j + per]; n += 1; Hh = sum(c.height + 44 for _, c in grp); M = Image.new('RGB', (1560, Hh), 'white'); d = ImageDraw.Draw(M); y = 0
         for q, c in grp:
             d.rectangle((0, y, 1560, y + 40), fill=(225, 235, 255)); d.text((8, y + 4), f"{q['id']}  PDF p{q['pdf_page']}  {q['kind']}  token before the mark: {q['reading']}", fill='black', font=font); y += 44; M.paste(c, (0, y)); y += c.height
-        M.save(os.path.join(cd, f'mosaic_{n:03d}.png'))
-        with open(os.path.join(cd, f'mosaic_{n:03d}.tsv'), 'w', encoding='utf8') as o:
+        M.save(os.path.join(cd, f'mosaic_{tag}_{n:03d}.png'))
+        with open(os.path.join(cd, f'mosaic_{tag}_{n:03d}.tsv'), 'w', encoding='utf8') as o:
             for q, c in grp: o.write('\t'.join([q['id'], q['pdf_page'], q['kind'], q['reading'], q['context'][:100]]) + '\n')
-    with open(os.path.join(cd, 'nomatch.tsv'), 'w', encoding='utf8') as o:
+    with open(os.path.join(cd, f'nomatch_{tag}.tsv'), 'w', encoding='utf8') as o:
         for r in nomatch: o.write('\t'.join(r) + '\n')
     print(f'{len(Q)} questions: {len(items)} cropped into {n} mosaics; {len(nomatch)} without a matching printed line → {cd}')
 PDFS = {}
