@@ -17918,6 +17918,224 @@ O Indra, you are the master even of the smallest wealth. You are the lord of the
 
 (7-3-16)
 
+### Printed p. 609
+
+O heroic Indra, lord of all things, moving and unmoving, we approach you with our praises, like cows that have not been called.
+
+(6-25.22)
+
+Apart from you we have no other protector, either on earth or in the atmosphere.
+
+(ṭa.ṭa.ṭa.2) **NOTE**
+
+O Indra, fighting the enemies in battle you have won freedom together with the gods. Therefore you pervade the widest atmosphere.
+
+(ṭa-9-3) **NOTE**
+
+**In the eighth Maṇḍala:**
+
+Indra of marvellous form is the cause of the expansion and pervasion of all the worlds. He has provided light for the sun. The protection of all the worlds belongs to Indra alone.
+
+(8.3-6)
+
+"Nothing in the three worlds equals the valour of Indra, who roars with valour."
+
+(8-6-15)
+
+O Indra, as soon as you established the radiant sun in the atmosphere, all the worlds bowed to you in gratitude.
+
+(8-12.30)
+
+All the masses of radiance that shine in the atmosphere and elsewhere have been established by Indra alone. Once appointed, the ordinances of that Indra do not become slack. Therefore the radiances shine steadily, without being dimmed.
+
+(8-14-9)
+
+Because of this greatness of Indra, the mountains, the plains and the oceans, in short all the worlds, are firm.
+
+(la.15-2) **NOTE**
+
+O Indra, because of your power and by reckoning of your valour all the gods bow to you. (8-51-7)
+
+O Indra, thousands of atmospheres and earths and the like, beyond the direct perception of man, belong to your control. Even a thousand suns together could not surpass your radiance. No created thing can match you.
+
+(8-59-5)
+
+### Printed p. 610
+
+Indra is invincible, powerful, unobstructed. He can hear everything and see everything; he is all-knowing and all-powerful.
+
+(8-67-5)
+
+O Indra, you alone are the true warrior. These hymns composed by the Gotamas urge you on, increase your strength, and become able to protect us. By your own will you have gained your growth. There is nothing earthly in you, and no one among heaven, earth and the rest can restrain you and exercise lordship over you.
+
+(a-77-4, 5) **NOTE**
+
+O Indra, for that very reason all the gods seek your friendship.
+
+(la-78-2) **NOTE**
+
+O Indra, when you were born for the purpose of slaying Vṛtra and spread out heaven and earth, extending them, you then brought forth the principle of sacrifice. It was then that the hymns and the mantras addressed to you were composed. Praised by those hymns, you obtained supreme power and attained surpassing greatness over all beings that were born, or are to be born, in the past, future and present.
+
+(3-7-5)
+
+O Indra, the confidence that you hold, "I have no death, I have no decay," is indeed true.
+
+(8-82.2)
+
+Among gods, humans and others none is able to withstand your command and your sovereignty; nor does any have the courage.
+
+O Indra, I praise you exceedingly as the most worthy of worship among the worthy, as the one who throws down even an immovable enemy, and as greater than all beings endowed with life.
+
+Let us praise this Indra, who has made all these worlds. All things that have been born are inferior to him.
+
+(6-75-6)
+
+The Asuras are without weapons. Therefore they are not gods. Destroy them with your discus. As fire burns up a dry forest and uproots it, Indra destroys the wicked Rākṣasas and
+
+### Printed p. 611
+
+makes things convenient for sacrificial and other rites, as is stated in 6.18-10; it is told here too.
+
+(8-85-9)
+
+Gods, humans and others, all assembled together, made Indra, the destroyer of enemies, of surpassing might, terrible, heroic and swift, the sovereign of the kingdom. It was for this purpose that they brought forth the valiant Indra.
+
+(8-86-9)
+
+**In the tenth Maṇḍala:**
+
+When Indra gathered together all the means of rain from the sun, he appeared like a gambler who holds all his winnings together at the game of dice. No one, ancient or modern, can possess this power.
+
+(10-43-5)
+
+Indra made the shaking mountains and the foothill regions stand firm. The atmosphere resounded at the time of this song. He made the atmosphere tremble.
+
+(10-44.8)
+
+"Tvaṣṭṛ made for me a thunderbolt of steel. The gods also filled me with vitality. My radiance, like the radiance of Āditya, is without a second. For the marvellous deeds I have done and for the marvellous deeds I may yet accomplish, all gods and humans praise me exceedingly and worship me."
+
+(10-48-3)
+
+O wealthy Indra, your pre-eminence is that all things frightened by you worship you. You released the gods.
+
+(10-54-1)
+
+When, growing in your own form, you move among men displaying the excess of your valour, they praise your strength. Neither now nor before is there an enemy of yours who can withstand your valour.
+
+(10-54-2)
+
+O Indra, among these seers before us, who knows the limit of your greatness? That you produced from your own body the earth and the atmosphere, the mother and father of the world, is your power. The world knows it.
+
+(10 54-3)
+
+### Printed p. 612
+
+Indra filled the orbs of radiance with radiance. He filled the sweet things with sweetness.
+
+(10-54-6)
+
+Just as the two wheels of a chariot are kept apart and yet connected with the help of the axle, so Indra, keeping heaven and earth separate, has by his power established a natural connection between the two; and besides exercising lordship over the atmosphere, Indra is the sovereign of the earth, of the oceans and the like, and of the mountains and the like. But there is no one who is lord over him; he alone is the greatest.
+
+(10-89-4, 10)
+
+O Indra, you are the eye, the means of seeing, for all moving beings that exist.
+
+(10-102-12)
+
+O seers of monkey form, knowing all the desires of men, offer to Indra the praises that suit them. Since Indra loves praise, let us, with our praises, make Indra intent on the work needed for our welfare.
+
+From the place of sacrifice the praise of the sacrificer and others has risen up shining. As a bull born of a good heifer approaches the cattle, our praise has approached Indra. He too, bellowing, has awakened, and has occupied and pervaded the vast region.
+
+(0.0.0.0-3) **NOTE**
+
+Indra has surely known the praise recited by us. Indra, the victorious, has made a path for the sun's course. Having created the cow that accompanies the bull, he is established in the atmosphere as the eternal, unmoving, incomparable lord.
+
+(10-8-193) **NOTE**
+
+The Asura (god) who is famed as having split the head of the Asura Arbuda, **NOTE** (10-67-2) that same Indra destroyed the Asura of serpent form and broke his evil designs. Resting on truth, he established many worlds.
+
+( 0-1, 1-2 ) **NOTE**
+
+This same Indra, praised by the Aṅgirasas, is the representative who reflects all heaven and earth. He knows all the oblations and the like offered by the sacrificers and others. He slays Śuṣṇa.
+
+### Printed p. 613
+
+By the help of the sun he has caused the atmosphere and the other regions to extend and spread out. Since he is himself of the nature of truth, he supports and upholds all heaven and earth by his own power, which is of the form of truth.
+
+(13-120-5) **NOTE**
+
+O Indra, when you pervaded the worlds, as the radiance of Uṣas pervades all the worlds, then the divine mother bore you. You are the most marvellous lord of extraordinary beings. Because you were born of the divine mother, your greatness is surpassing.
+
+(10-134-1)
+
+O Indra, you have fixed the order for the movement of the months and the like in the atmosphere. In the atmosphere, which is the seat of the world, **NOTE** there is a boundary made by you.
+
+(10-138-6)
+
+In some passages Indra is described as samrāṭ, the sovereign of the whole universe.
+
+(4-19-2 ; 4-21-10)
+
+In other places he is praised as svarāṭ, the self-ruling lord, who is not subject to others and whose own independence is paramount.
+
+(3-46-1; 3-49-2; 7.82.2: 8-12-14)
+
+Moreover, in some places he is praised as the ancient seer who rules by his own greatness. (ऋषिर्हि पूर्वजा अस्येक ईशान ओजसा (*ṛṣirhi pūrvajā asyeka īśāna ojasā*)).
+
+(8-6-21)
+
+He is also described by the epithet Āsura, which shows supernatural power.
+
+(1-174-1 ; 8.20.6)
+
+**The nature of the favour Indra shows to his devotees**
+
+There are many passages that show the direct relation between Indra and his devotees. Some passages describe Indra's moral personality. Of the many passages that show faith in Indra, the purport of some is stated here.
+
+When Indra, at the time of destroying his enemies, whirls his thunderbolt again and again, all the people, afraid of his terrible form, place their faith in him.
+
+(C.-9191-97) **NOTE**
+
+O Indra, the sun and the moon (who are under your control) keep up their revolving work in alternation. All who behold such a world-order show devotion and faith to you for having such extraordinary power.
+
+(1-102-2)
+
+### Printed p. 614
+
+O sacrificers, seeing Indra's most excellent wealth, place devotion and faith in him.
+
+(1-103-5)
+
+O Indra, do not cause any kind of harm to the growth of our future offspring. We are your devotees.
+
+(1-104.6)
+
+O god, we have certainly placed our faith in you. Bring and grant us the best wealth. You are heroic.
+
+(1-104-6)
+
+Prathamathaḥ, **NOTE** praying to the two of you (Indra and Agni): "This Soma is to be offered to you two, who are of divine nature," I have resolved. According to that devout resolve of mine, please drink here the Soma offered here.
+
+(1-108.6)
+
+O sacrificers and others, these cows are Indra. I wish, from my heart, for the presence of Indra.
+
+(6-28-35)
+
+Truth, faith and intense austerity are the principles that show themselves in the conduct of a devotee. O Soma, you have been offered to Indra with a resolve of truth, with faith and with austerity. Flow to Indra and join him.
+
+(9-123-2)
+
+Indra never allows the cows of that devotee to be carried off who, devoted to the gods, with a respectful mind and a pure heart, offers the oblation in the form of Soma juice. He will certainly protect them.
+
+(10-160-3)
+
+**The description of the point that Indra's existence is established by the afflictions that befall those without faith**
+
+The enemy-man who shows disbelief about Indra, acting and speaking in a way that slights Indra with "Where is he?" and "He does not exist at all," from him Indra seizes and makes away with his wealth of cattle and the like, as a gambler runs off taking the sum he has won at dice. Therefore, O humans, place your faith in Indra. Do not show disbelief and bring trouble upon yourselves.
+
+(2-12-29)
+
 ---
 
-**Progress note:** Done through printed p. 608. Indra's greatness, Maṇḍalas 1-7 (special topics)
+**Progress note:** Done through printed p. 614. Indra's greatness, Maṇḍalas 6-10, and his favour to devotees (special topics)
