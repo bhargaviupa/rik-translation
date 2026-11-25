@@ -19181,6 +19181,291 @@ The Kannada Anuvāda: This sūkta Indraṃ stava is the fifth sūkta in the seve
 - Deity: Ṛks 1-4 and 6-18, Indra; Ṛk 5, Indra and Soma.
 - Metre: Triṣṭubh.
 
+### Printed p. 660
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रं॑ स्तवा॒ नृत॑मं॒ यस्य॑ म॒ह्ना वि॑बबा॒धे रो॑च॒ना वि  ॑
+> ज्यो अंतान् ।  
+> आ यः प॒प्रौ च॑र्षणी॒धृद्वरो॑भिः॒ प्र सिंधु॑भ्यो रिरिचा॒नो  ॒॑
+> महित्वा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं । स्तव । नृतमं । यस्य ॥ मह्ना । विबबाधे । रोचना । वि । ज्ञः ।  
+> अंतान् ।  
+> आ । यः । पप्रौ । चर्षणीधृत् । वरःभिः । प्र । सिंधुभ्यः । रिरिचानः । महित्वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः त्वं नृतमं नेतृतममिंद्रं स्तव । स्तुहि । यस्येंद्रस्य मह्ना
+> महत्त्वं ॥ विभक्तिव्यत्ययः ॥ रोचना परेषां तेजांसि विबबाधे विबाधते । अभिभवतीत्यर्थः। वि ज्ञः पृथिव्यात्चांतान्सर्यंतानभिभवति। यश्चेंद्रश्चर्षणीधृन्मनुष्याणां
+> धर्ता सिंधुभ्यः समुद्रॆभ्योऽपि महित्वा महत्वेन प्ररिरिचानः प्रवर्धमानश्च सन्
+> वरोभिस्तमसां वरकैस्तेजोभिरा पप्रौ द्यावापृथिव्यावापूरयति ॥
+
+##### Gist of the bhāṣya
+
+O praiser, you must praise Indra, the best of leaders. Sāyaṇa takes the word of praise as an imperative (the verse has a change of case-ending, the vibhakti-vyatyaya). Of this Indra the greatness overcomes the lustres of others; he overcomes as well the ends of the earth up to the ends **NOTE**. And that Indra, the sustainer of men, even exceeding the seas by his greatness and increasing, fills heaven and earth with radiances that keep off darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) यस्य (*yasya*)—of which Indra
+- मह्ना (*mahnā*)—greatness
+- रोचना (*rocanā*)—all orbs of light
+- वि बबाधे (*vi babādhe*)—which, disregarding them, surpasses them all
+- वि जृः अंतान् (*vi jṛḥ aṃtān*)—surpasses even the ends of the earth
+- यः (*yaḥ*)—which Indra
+- चर्षणीधैत् (*carṣaṇīdhait*)—as the sustainer of men
+- सिंधुभ्यः (*siṃdhubhyaḥ*)—than all the seas
+- महित्वा (*mahitvā*)—by his greatness
+- प्र रिरिचानः (*pra riricānaḥ*)—surpassing
+- वरोभिः (*varobhiḥ*)—by the radiances that keep off darkness
+- आ पप्रौ (*ā paprau*)—has pervaded all heaven and earth, such
+- नृतमं (*nṛtamaṃ*)—the excellent guide
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तव (*stava*)—praise.
+
+### Printed p. 661
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise that Indra, the excellent guide, whose greatness disregards and surpasses all orbs of light, who as the sustainer of men surpasses all the seas by his greatness, and who has pervaded heaven and earth all over with radiances that keep off darkness.
+
+##### English translation
+Praise Indra, the chief leader (of rites), whose glory surpass the lustre (of others), and the ends of the earth; the sustainer of man, who exceeding the ocean in magnitude, fills (heaven and earth) with radiance.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सूर्यः॒ पर्यु॒रू नरां॒स्येंद्रो॑ वनृत्या॒द्रथ्ये॑व च॒क्रा ।  
+> अति॑ष्ठंतमप॒स्यं१॒॑१ न सर्ग०॑ कृ॒ष्णा तमां॑सि॒ त्रिष्या॑ जघान ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सूर्यः । परि । उरु । वरांसि । आ । इंद्रः । ववृत्यात् । रथ्या इव । चक्रा ।  
+> अतिष्ठंतं । अपस्यं । न । सर्गं । कृष्णा । तमांसि ! त्वष्या । जघान ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यः सुवीर्यः स प्रसिद्ध इंद्र उरु बहूनि वरांसि तेजांसि पर्या
+> ववृत्यात् । पर्यावर्तयति । तत्र दृष्टांतः । रथ्येव यथा सारथी रथसंबंधीनि
+> चक्रा चक्राण्यावर्तयति तद्वदित्यर्थः । किंच सोऽयमतिष्ठंतं शीघ्रं गच्छंतमपस्यं
+> न कर्मण्यमिव सर्ग० । सृज्यत इति सर्गोऽश्वः । कृष्णानि तमांसि त्रिष्या दीप्ता
+> जघान । हंति ॥
+
+##### Gist of the bhāṣya
+
+That well-known Indra of excellent valour makes many lustres revolve all around. An example: as a charioteer makes the wheels of the chariot turn, so he does. Moreover, he, like a swift-going horse that is active in work (the horse is so called as one that is sent forth), destroys the black darkness with his shining radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथ्या (*rathyā*)—the charioteer who drives the chariot
+- चक्रा इव (*cakrā iva*)—as he makes the wheels turn
+- सूर्यः (*sūryaḥ*)—of excellent valour
+- सः (*saḥ*)—the well-known Indra
+- उरु (*uru*)—very great
+- वरांसि (*varāṃsi*)—lustres
+- परि आ ववृत्यात् (*pari ā vavṛtyāt*)—makes them revolve everywhere
+
+### Printed p. 662
+
+- ष्ठंतं (*ṣṭhaṃtaṃ*)—swift-going **NOTE**
+- अपस्यं (*apasyaṃ*)—and active in work
+- सर्गं न (*sargaṃ na*)—like a horse
+- त्विष्या (*tviṣyā*)—with his own radiance
+- कृष्णा तमांसि (*kṛṣṇā tamāṃsi*)—the black darkness
+- जघान (*jaghāna*)—destroys.
+
+##### भावार्थ (Bhāvārtha)
+
+As a charioteer who drives a chariot praises **NOTE** the wheels of the chariot, Indra, of excellent valour and well known, makes the very great lustres revolve everywhere. Like a swift-going horse that is active in work, he destroys the black darkness with his radiance.
+
+##### English translation
+The heroic Indra causes numerous rays of light to revolve as a charioteer (effects the rotation of) the wheels of the chariot ; he destroys by his radiance the black darkness like a restless active horse.
+
+#### Ṛk 3 **NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नम॑स्मा॒ अन॑पावृदर्च क्ष्म॒या दि॒वो अस॑मं॒ ब्रह्म॒ नव्यं॑।  
+> वि यः पृ॒ष्टेव॒ जनि॑मान्य॒र्य इंद्र॑श्चि॒काय॒ न सखा॑यमी॒षे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानं । अस्मै । अनपवृत् । अर्च । क्ष्मया । दिवः । असमं । ब्रह्म । नव्यं ।  
+> वि । यः । पृष्ठा इव । जनिमानि । अर्यः । इंद्रः । चिकाय न । सखायं ईषे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः त्वं समानं मया सहानपावृदपगतिरहितं क्षमया दिवो दिवः
+> पृथिव्याश्चासममत्यंतमतिरिक्तं । महदित्यर्थः । नव्यं नवतरमन्यैरकृतपूर्वं
+> ब्रह्म स्तोत्रमस्मा इंद्रायार्च । उच्चारय । य इंद्रो जनिमानि यज्ञे यज्ञे
+> जातानि पृष्ठेव पृष्ठसंज्ञकानि स्तोत्राणीवार्योऽरीञ्चितून्वि चिकाय विजिनोति
+> सखायं च नेषे नेच्छति ॥
+
+##### Gist of the bhāṣya
+
+O praiser, together with me recite to this Indra a new hymn (brahma, a stotra) never made before by others, that is without interruption, and that exceeds heaven and earth, that is, is very great. That Indra, as the stotras named Pṛṣṭha that are born at every sacrifice, overcomes the foes, and desires no friend.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) यः इंद्रः (*yaḥ iṃdraḥ*)—which Indra
+- जनिमानि (*janimāni*)—produced in the sacrifice
+
+### Printed p. 663
+
+- पृष्ठेव (*pṛṣṭheva*)—like the stotras named Pṛṣṭha
+- आर्यः (*āryaḥ*)—the enemies
+- वि चिकाय (*vi cikāya*)—seeks out and destroys (and)
+- सखायं (*sakhāyaṃ*)—no friend
+- न ईषे (*na īṣe*)—does he desire for help
+- अस्मै (*asmai*)—to such an Indra
+- समानं (*samānaṃ*)—with me
+- अनपावृत् (*anapāvṛt*)—that which is without interruption
+- क्षया (*kṣayā*)—than the earth
+- दिवः (*divaḥ*)—than the heavenly world
+- असमं (*asamaṃ*)—that which exceeds
+- नव्यं (*navyaṃ*)—new
+- ब्रह्म (*brahma*)—stotra
+- अर्च (*arca*)—recite.
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, to that Indra who, like the stotras named Pṛṣṭha produced at the sacrifice, seeks out and destroys his enemies, and who desires no friend for help, recite a praise that is without interruption, that exceeds the earth and the heavenly world, and that is new.
+
+##### English translation
+Sing along with me a new song, unceasing, surpassing heaven and earth, to him who like the prishtha (praises), born at sacrifices, overcomes his enemies, Indra who desires no friend.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य॒ गिरो॒ अनि॑शितसर्गा अ॒पः प्रेर॑यं॒ सग॑रस्य बु॒ध्नात् ।  
+> यो अक्षे॑णेव च॒क्रिया॒ शची॑भि॒र्विष्ट॑क्त॒स्तंभ॑ पृथ॒ीमु॒त द्यां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । गिरः । अनिशितसर्गाः । अपः । प्र । ईरयं । सगरस्य ! बुध्नात् ।  
+> यः । अक्षेण इव । चक्रिया । शचीभिः । विश्वक् । तस्तंभ । पृथिवीं । उत । द्यां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रायेंद्रार्थमनिशितसर्गा आतनूकृतविसर्गा उपर्युपरि वर्तमाना
+> या गिरः स्तुतयस्ताभिर्गीर्भिः सगरस्यांतरिक्षस्य । सगरं समुद्र इत्यंतरिक्षनामसु
+> पाठात् । बुध्नात्पदेशादप उदकानि प्रेरयं । प्रेरयानि । य इंद्रः शचीभिः
+> कर्मभिः पृथिवीमुतापि च द्यां दिवं चक्रिया रथचक्राण्यक्षेणेव यथा रथाक्षेण
+> तद्वद्विष्टक् सर्वशस्त्रस्तंभ अस्तभ्नात् ॥
+
+##### Gist of the bhāṣya
+
+For Indra, with those hymns that are uninterrupted, their emission not blunted, going on one above another, I send forth waters from the base of the firmament (the firmament is meant, since this word stands in the list of names of the firmament). That Indra holds firmly on every side, by his deeds, the earth and also heaven, as the axle holds the wheels of a chariot.
+
+### Printed p. 664
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चक्रिया (*cakriyā*)—the wheels of the chariot
+- आक्षेणेव (*ākṣeṇeva*)—as the wheels are held fast and made to stand firm by the axle-pin
+- यः इंद्रः (*yaḥ iṃdraḥ*)—which Indra
+- शचीभिः (*śacībhiḥ*)—by his deeds
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heavenly world
+- तस्तंभ (*tastaṃbha*)—holds and makes to stand, such
+- इंद्राय (*iṃdrāya*)—to Indra
+- अनिशितसर्गाः (*aniśitasargāḥ*)—which are recited continuously without interruption
+- गिरः (*giraḥ*)—with praises
+- सगरस्य बुध्नात् (*sagarasya budhnāt*)—from the base regions of the firmament
+- अपः (*apaḥ*)—waters
+- प्रेरयं (*prerayaṃ*)—I offer and send forth.
+
+##### भावार्थ (Bhāvārtha)
+
+As an axle-pin holds the wheels of a chariot fast and makes them stand firm, that Indra by his deeds holds and makes to stand the earth and the heavenly world; to such an Indra, with praises recited continuously, without interruption (without hindrance), I offer and send forth waters from the base regions of the firmament.
+
+##### English translation
+I will utter praises to Indra in unceasing flow, (I will send) waters from the depth of the firmament (to him) who has fixed heaven and earth on both sides by his acts as the wheels of a chariot (are fixed) by the axle,
+
+#### Ṛk 5 **NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपां॑तमन्युस्तृ॒पल॑प्रभर्मा॒ धुनिः॒ शिमी॑वा॒ञ्चरु॑मा ऋजी॒षी ।  
+> सोमो॒ विश्वा॑न्यत॒सा वना॑नि॒ नार्वागिंद्रं॑ प्रति॒माना॑नि देभुः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपांतमन्युः । त्वपलप्रभर्मा । धुनिः । शिमीवान् । शरुमान् । ऋजीषी ।  
+> सोमः । विश्वानि । अतसा । वनानि । न । अर्वाक् । इंद्रं । प्रतिमानानि । देभुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपांतमन्युरापातितमन्युस्तृपलप्रभर्मा ग्रावादिभिः क्षिप्रप्रहारी धुन्नि
+> शत्रुणां कंपयिता शिमीवान् कर्मवाइरुमानायुधवानृजीष्यजीषवान्
+
+##### Gist of the bhāṣya
+
+Āpātamanyu: one whose wrath has been aroused; tṛpalaprabharmā: one who strikes swiftly with grinding stones and the like; dhuni: one who makes enemies tremble; śimīvān: one possessed of action **NOTE**; śarumān: one possessed of weapons; ṛjīṣī: one possessed of the residue (ṛjīṣa).
+
+### Printed p. 665
+
+> सोमो विश्वानि सर्वाण्यतसातसमयानि वनान्यरण्यानि वर्धयतीति शेषः । प्रतिमानानि प्रतिमानभूतानि । समानानि द्रव्याणेत्यर्थः । इंद्रमर्वाग्न देभुः । दभ्योतिरत्राकर्षणकर्मा । तुलया मीयमानान्यात्माभिमुखतया नाकर्षयंति । लघूनि
+> बवंतीत्यर्थः । अन्यत्र प्रतिनिधीयमानानि पुरूणि तान्यात्माभिमुखमाकर्षंति नैवमिंद्रं कुर्वंतीति । सर्वेभ्यो महानिंद्र इत्यर्थः । त्रयः पादाः सौम्यास्तुरीयस्त्वैंद्रः । तथा च यास्क ! आपातितमनुस्त्रप्रप्रहारी क्षिप्रप्रहारी सोमो
+> वॆंद्रो वा धुनिर्धूनोतेः शिमीति कर्मनाम शमयतीर्वा शक्नोतेर्वर्जिषी
+> सोमो यत्सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति तेनर्जिषी
+> सोमोऽथाप्यैंद्रो निगमो भवत्यजीषी वज्रीति । सोमः सर्वाण्यतसानि वनानि
+> नार्वागिंद्रं प्रतिमानानि दभ्नुवंति यैरेनं प्रतिमिमते नैनं तानि दभ्नुवंति ।
+> नि. ५-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+Soma makes all the woods of atasa grow (this is the word to be supplied). Pratimānāni means things that serve as a counterpart, that is, equal objects. They do not draw Indra: the root meaning here is drawing; things weighed on a balance against him do not draw him towards themselves; they become light. Elsewhere, things set against others draw those towards themselves in many ways; they do not do so with Indra: Indra is greater than all. Three quarters of the verse are addressed to Soma, the fourth to Indra. Accordingly Yāska (Ni. 5-12) explains: āpātamanyu, striking quickly, is Soma or Indra; dhuni is from the root of shaking; śimi is a word for action, or from the roots of calming or of being able; ṛjīṣī is Soma, because what remains over of Soma as it is pressed and is thrown away is the ṛjīṣa, and by it Soma is ṛjīṣī; and there is also an Indra passage, ṛjīṣī, bearer of the thunderbolt; and Soma, all the atasa woods, the objects that measure themselves against Indra do not draw him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपांतमन्युः (*āpāṃtamanyuḥ*)—he who causes wrath to be shown
+- तृपलप्रभर्मा (*tṛpalaprabharmā*)—he who is crushed by the stones
+- धुनिः (*dhuniḥ*)—he who makes enemies tremble
+- शिमीवान् (*śimīvān*)—the man of action
+- शरुमान् (*śarumān*)—he who has weapons
+- ऋजीषी (*ṛjīṣī*)—and he who is called Ṛjīṣa
+- सोमः (*somaḥ*)—the god Soma
+- विश्वानि (*viśvāni*)—all
+- अतसा वनानि (*atasā vanāni*)—the woods filled with atasa trees, he makes to grow
+- प्रतिमानानि (*pratimānāni*)—those that reflect Indra
+- इंद्रमर्वाक् (*iṃdramarvāk*)—facing Indra
+- न देभुः (*na debhuḥ*)—do not show pride.
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, who causes wrath to be shown, who is crushed by stones, who makes enemies tremble, the man of action, who has weapons, and who is called Ṛjīṣa, makes all the woods filled with atasa trees flourish. Those that reflect Indra do not display pride in front of him.
+
+##### English translation
+Appeasing wrath, striking quickly, intimidating foes, doer of great deeds, armed with weapons, possessing the stale residue, Soma nourishes all the Atasa woods, they oppose no impediments against Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word आपांतमन्युः (*āpāṃtamanyuḥ*) in this Ṛk, Yāska has given an explanation of this Ṛk:
+
+### Printed p. 666
+
+आपातमन्युः । आपातमन्युस्तृपलप्रभर्मा धुनिः शिमीवाञ्चरुमा ऋजीषी । सोमो विशान्यतसा वनानि नार्वागिंद्रं प्रतिमानानि देभुः ॥ (*āpātamanyuḥ | āpātamanyustṛpalaprabharmā dhuniḥ śimīvāñcarumā ṛjīṣī | somo viśānyatasā vanāni nārvāgiṃdraṃ pratimānāni debhuḥ ‖*) **NOTE**
+
+आपातितमन्युस्तृप्रप्रहारी क्षिप्रप्रहारी (सृप्रप्रहारी) सोमो वेंद्रो ना ॥ धुनिर्धुनोतेः । शिमीति कर्मनाम । शमयतीर्वा शक्नोतीर्वा । (*āpātitamanyustṛpraprahārī kṣipraprahārī (sṛpraprahārī) somo veṃdro nā ‖ dhunirdhunoteḥ | śimīti karmanāma | śamayatīrvā śaknotīrvā |*)
+
+ऋजीषी सोमो यत्सोमस्य पूयमानस्यातिरिच्यशे तदृजीषमपार्जितं भवति तेनर्जिषी सोमः । अथाप्यॆंद्रो निगमो भवति । ऋजीषी वज्री इति । (*ṛjīṣī somo yatsomasya pūyamānasyātiricyaśe tadṛjīṣamapārjitaṃ bhavati tenarjiṣī somaḥ | athāpyèṃdro nigamo bhavati | ṛjīṣī vajrī iti |*)
+
+हर्योरस्य स भागो धानाश्चति । धाना भ्राष्टे हिता भवंति फले हिता भवंतीति ना । बद्धां ते हरीधाना उप ऋजीषं जिघ्रतां । इत्यपि निगमो भवति । आदिनाभ्यासेनोपहितेनोपधामादत्ते । बभस्तियर्तिकर्मा ! सोमः सर्वाण्यतसानि वनानि नार्वागिंद्रं प्रतिमानानि दभ्नुवंति यैरेनं प्रतिमिमते नैनं तानि दभ्नुवंत्यर्वागेवैनमप्राप्य विनश्यंतीति । (*haryorasya sa bhāgo dhānāścati | dhānā bhrāṣṭe hitā bhavaṃti phale hitā bhavaṃtīti nā | baddhāṃ te harīdhānā upa ṛjīṣaṃ jighratāṃ | ityapi nigamo bhavati | ādinābhyāsenopahitenopadhāmādatte | babhastiyartikarmā ! somaḥ sarvāṇyatasāni vanāni nārvāgiṃdraṃ pratimānāni dabhnuvaṃti yairenaṃ pratimimate nainaṃ tāni dabhnuvaṃtyarvāgevainamaprāpya vinaśyaṃtīti |*)
+
+इंद्रप्रधानेत्येके नैघुंटुकं सोमकर्मोभयप्रधानेत्यपरं ॥ (*iṃdrapradhānetyeke naighuṃṭukaṃ somakarmobhayapradhānetyaparaṃ ‖*)
+
+(Ni. 5-12)
+
+Here अपातितमन्युः आपादितदीप्तिः उत्पादितमन्युर्वा शत्रुभिः संग्रामे । (*apātitamanyuḥ āpāditadīptiḥ utpāditamanyurvā śatrubhiḥ saṃgrāme |*): the meaning is a man heated with anger, a man in whom wrath is welling up, one who in fighting with enemies, seized by anger, rushes forward against the enemies, or one who strikes the enemies even while rushing forward in anger. तृप्रप्रहारी क्षिप्रप्रहारी सोमो वेंद्रो वा (*tṛpraprahārī kṣipraprahārī somo veṃdro vā*): Tṛpalaprabharmā means one who strikes enemies swiftly or quickly. These words apply either to the deity Soma or to Indra; both have this kind of strength and capacity. The word धुनिः (*dhuniḥ*) is formed from the root धुनोति (*dhunoti*), which means to shake, to make tremble; the meaning is one who makes the enemies tremble with fear. शिमि (*śimi*) means action, work. शिमीवान् (*śimīvān*) means one who does deeds of daring or work full of valour. Or the word शिमि (*śimi*) may be formed from the root शक्कोति (*śakkoti*); in that case शिमीवान् (*śimīvān*) means one who has strength and capacity. शरुमान् (*śarumān*) means हिंसावान् (*hiṃsāvān*), one who does violence to enemies. Two meanings can be given for the word ऋजीषी (*ṛjīṣī*). The husk that remains after the Soma plants have been crushed and the juice taken out is called ऋजीष (*ṛjīṣa*); ऋजीष (*ṛjīṣa*) means a substance thrown away because it is useless. From that husk, at the time of the third pressing, a little juice is pressed out once more, and they add to it milk, curds or flour, any one of these, so as to make it fit for drinking (palatable). This kind of Soma juice is called ऋजीषी (*ṛjīṣī*), or Indra, who drinks this kind of Soma juice, is also called ऋजीषी (*ṛjīṣī*).
+
 ---
 
-**Progress note:** Done through printed p. 659. pp. 653-659: Indra-Vayu soma share, Varaha legend, Sukta 89 start
+**Progress note:** Done through printed p. 666. pp. 660-666: Sukta 89 Rks 1-5 with Yaska on rjishi
