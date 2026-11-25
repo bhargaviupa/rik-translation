@@ -14013,6 +14013,105 @@ There are also many passages in which the sacrificer (or the seer), while beggin
 
 "Showering your kindness on us and doing us good, let your fame and the praises offered to you be made fruitful." (8-45-33)
 
+### Printed p. 416
+O Indra, lord of Pīśya, we may have committed a sin or two, or perhaps even more. But for that reason alone do not destroy us utterly; forgive us.
+(8-45-34)
+O Indra, one feels fear on seeing a god like you, supremely terrible, destroyer, harmer, who confronts the adversary and throws him down.
+(8-45-35)
+Indra is the enemy of the non-Vedic, rite-fallen unbeliever. Indra punishes and destroys such an unbeliever. O Indra, you have duly punished the man who does not worship you and does not offer you the oblation.
+(1-131-4)
+Whoever does not honour Indra, but neglects him and commits a great sin, him Indra strikes with the thunderbolt and destroys. (20-12-10) **NOTE**
+O Indra, drinker of Soma, surpassing all, you have scattered and destroyed the whole host of men who offer no Soma.
+(त-७४-१३ (*ta-74-13*)) **NOTE**
+Indra can hear everything. Everything comes within his sight. He alone is free of restraint.
+(ट-७-५ (*ṭa-7-5*)) **NOTE**
+He protects his own intimate and devoted followers, and leads them into a fitting, luminous atmospheric region,
+(6-47-8)
+Going with Indra to the region of the solar orb in the atmosphere, they there drink the threefold, sevenfold nectar. (8-69-7)
+Indra is prayed to, more than the other deities, as the protecting father of all the Āryas, and he is the destroyer of all enemies, both terrestrial and atmospheric. O Indra, show the difference between who is Ārya and who is Dasyu. Make the lawless men and those who offer no oblations subject to the sacrificers. Give the sacrificers mighty help. At the time of your worship I desire all these things. Not Indra alone: other deities too are praised as protectors of the Āryas. For example—
+
+### Printed p. 417
+"O Aśvin deities, having destroyed the whole Dasyu race with the thunderbolt, you have made the best light for the Āryas."
+(1-117-21)
+"The Viśvedevas, whose tongue is Agni, have placed the progeny of Manu (the Ārya) in a station better than the progeny of the Dāsas."
+(6-21-11)
+"May these our praises approach Agni, the cause of the Ārya progeny's growth, and give him the best delight." (8-103-2)
+In such passages it is shown that Agni and the other deities too are benefactors of the Ārya progeny.
+Indra went forward brandishing his thunderbolt, showing firm trust in his wonderful power, and uprooting the towns of the Dasyus. O Indra, who advance with a roar, always hurl your thunderbolt upon the Dasyus alone, and increase the power and glory of the Āryas.
+(1-103-2)
+Indra, capable of manifold helps, protected the sacrificing Ārya in all battles. Punishing the lawless non-Ārya, he brought the dark-coloured, uncivilised people under the sway of Manu's descendants. **NOTE**
+(1-130-8)
+O Indra, you revealed light to the Ārya and placed the Dasyu on the left side.
+(2-10-8) **NOTE**
+(9-11-88)
+Indra has furnished the Āryas with horses, the light of the sun, well-milking cattle, and golden wealth.
+(इ-इळ-९ (*i-iḷa-9*)) **NOTE**
+"For the Ārya who performs the sacrifice and worships me I have made this earth," says Indra himself.
+(4-36-2)
+"O Indra, you defeated the Dasyu and made him subject to the Ārya."
+(6-18-2)
+By just such protections you gathered all the scattered Dasyus and handed them over to the Āryas, to be under their control. (6-25-3)
+
+### Printed p. 418
+O Indra, you protected us with great ... , and protected all the Āryas living in the Sapta-sindhu regions, and checked the weapons of the Dasyus so that they would not harm the people living in that region. **NOTE**
+(8-24-27)
+O Indra, the towns of enemies that you have destroyed are beyond measure. You are the taker of the Dasyus' lives, the cause of the growth of the ātmas, and lord of the whole radiant atmosphere. **NOTE**
+(8-98-6)
+"I, the destroyer of enemies, have checked and stopped Śuṣṇa's weapon. I will certainly not give the ātmas up into the power of the Dasyus." **NOTE**
+(10-49-2)
+"Fully taking into account the distinction of who are Dāsas and who are Āryas, I move about."
+(Such sentences must be Indra's own words.) (10-86-19)
+Below are given the purport of some passages that describe occasions on which Indra, together with other deities as well, slays the Dasyus.
+O Indra and Agni, you who remove our troubles, whatever kinds of trouble may come to us, whether from Āryas of our own group or from Dasyus belonging to the enemy group, you destroy them all completely.
+(6-60-6)
+O Indra, grant that we conquer the rite-fallen man who, whether among the Arara or among the Vasyus, wishes to fight with us. May we, fighting with them, completely destroy all such faithless enemies. (In this passage Indra alone is mentioned.) **NOTE**  Similarly,
+(10-28-3)
+O Indra, stop right there the weapon of whatever enemy wishes to destroy us. Make the weapons hurled at us by a Dāsa or by one belonging to the Arara group, which would harm us, not touch us.
+(10-102-3)
+O Indra and Varuṇa, destroy the enemy, whether in the form of a Dāsa or of an Arara, so that he does not come to harm us. Protect Sudāsa with your protections.
+(8-83-1) **NOTE**
+
+### Printed p. 419
+(In the same way other deities such as Manyu are also prayed to. 10-83-1, 2-15-19, 10-65-11.)
+Some apparent inconsistencies in the description of Indra's nature, to the gross view, and their resolution.
+For those who have no acquaintance with the Ṛk-saṃhitā, whether through study of the original or through translation, it is natural that some contradictory points should appear in the description of Indra's nature given above. Examined only from the gross point of view, there is no doubt that inconsistency appears in the above accounts. The description of Indra as the supreme deity who governs and supports the universe is contrary to the other, ordinary descriptions of qualities. For example—
+In Soma-drinking and in other dealings too, Indra is described as having the desires and so on of ordinary men. Sometimes even sensual desire seems intense. Such a description does not fit with the great qualities of Indra, which are extraordinary, supramundane, guiding the whole universe, and spiritual. There are also contexts in which such contrary descriptions occur in a single sūkta. But if one examines the matter from the spiritual point of view, it becomes clear that such a nature is only natural. How? All elements of the universe may be seen to have two kinds of nature: one eternal, the other non-eternal; one sensory, the other spiritual; one ordinary, the other extraordinary; thus this duality is plainly present in every human being. There is no inconsistency in the ordinary qualities natural to the universe and the extraordinary, supramundane, divine qualities, because he transcends the universe, being found together. Even if one supposes that qualities like desire show a terrestrial nature in Indra, it is established that this is not a description of sensual desire in the modern cultural sense. The desire for the Soma juice, the means of immortality, in Soma-drinking and the like through which Indra procures nectar, is itself a supramundane, divine desire; it is certain that it is no fault. Since these contrary qualities are described by one and the same seer, it is not right to say that such a seer's utterance is inconsistent. Some such contexts may be examined. For example—
+"Indra established the heaven in the empty region. He pervaded and stood throughout heaven and earth. He upheld the earth and made it spread out widely. All these extraordinary deeds Indra did by the power of drinking the Soma juice."
+(2-15-2)
+
+### Printed p. 420
+O Indra, of most wonderful prowess, producer of the atmosphere, maker of the earth, drink the Soma that gives you supreme delight.
+(8-36-4)
+As explained before, in all the Ṛks such as 8-78-5, Indra's drinking of Soma juice, the vigour arising from it, and the supramundane deeds that Indra performs as the fruit of that vigour are well known.
+"By this Soma-drinking, which produces most intense and excellent delight, Indra's vigour grew, and by its power Indra conquered all the worlds and became the lord who governs the whole universe." (8-92-6)
+From such passages it cannot be said that Indra's desire to drink Soma is sensual desire, nor that the vigour born of it is merely worldly vigour, nor that such descriptions state anything contrary to Indra's divine qualities. Even when examined from the spiritual point of view, there is no doubt that these descriptions describe Indra's divine qualities.
+Some passages describing the mutual relationship of Indra and Varuṇa
+In the early maṇḍalas of the Ṛk-saṃhitā the sūktas addressed to Indra are more numerous; in the last maṇḍalas the sūktas addressed to Varuṇa are in greater number. For this reason some English scholars have held that in the early period of the composition of the Ṛk-saṃhitā Indra had greater prominence than Varuṇa, and that in the last period Varuṇa was shown greater reverence than Indra. This opinion has no proper basis, and it may be called a wrong opinion. The Saṃhitā's own sentences state, and it has been explained before and will be stated again, that all the practical differences such as Indra and Varuṇa are different special manifestations of one principle, and that these names are not divisions of deities with differences of principle. (इंद्रं मित्रं वरुणमग्निमाहुः (*iṃdraṃ mitraṃ varuṇamagnimāhuḥ*)) Even so, to establish that there is no room for such a difference even in describing the special manifestations of the one principle, some contexts in which these two deities are described, together or individually, may be examined.
+In sūktas such as 1-17, 4-41, 4-42, 6-68, 7-82, 7-83, 7-84, 7-85, equal reverence is shown to both Indra and Varuṇa. At the very beginning Indra and Varuṇa are both designated as sovereigns who support the whole world.
+इंद्रावरुणयोरहं सम्राजोरव आ वृणॆः । ता नो मृळात ईवृतॆ (*iṃdrāvaruṇayorahaṃ samrājorava ā vṛṇèḥ | tā no mṛḷāta īvṛtè*)
+(1-2-1)
+
+### Printed p. 421
+गंतारा हि स्कोऽवसे दवं विप्रस्य मावतः । धर्तारा चर्षणीनां ॥ (*gaṃtārā hi sko 'vase davaṃ viprasya māvataḥ | dhartārā carṣaṇīnāṃ ‖*)
+(1-17-2)
+In such contexts no superiority or inferiority is shown for either deity. Epithets such as Dhṛtavrata are also common to both and indicate their equal role in sustaining the universe.
+(6-68-10 **NOTE**)
+Just as Indra is prayed to hurl his radiant thunderbolt at the enemy, so is Varuṇa.
+(4-41-4)
+But in many contexts this power applies to Indra alone. In 7-82-2 Varuṇa is praised with the epithet samrāṭ and Indra with the epithet svarāṭ. (सम्राळन्य: स्वराळन्य उच्यते (*samrāḷanya: svarāḷanya ucyate*)).
+(See mantras such as 3-46-1; 1-61-9)
+In this same sūkta and in other sūktas too, the individual acts and qualities of Indra and Varuṇa are described separately.
+O Indra and Varuṇa, when you created all the creatures of the world and manifested your power, Mitra shone in a tranquil manner with Varuṇa, and the terrible Indra with the Maruts.
+(7-82-5)
+Varuṇa conquers the destructive enemy. Indra, with the help of the Maruts alone, drives numerous enemies far away.
+(7-82-6)
+Indra shows his delight in destroying enemies in battle. Varuṇa's duty is to keep the law, being Dhṛtavrata.
+(7-83-9)
+May Varuṇa's wrath not harm us but remain far from us. May Indra provide us wide room.
+(7-84-2)
+The one, Varuṇa, bears many kinds of vital powers. The other, Indra, utterly destroys endless enemy armies.
+(2-85-3) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 415. pp. 410-415 (batch API)
+**Progress note:** Done through printed p. 421. pp. 416-421 (batch API)
