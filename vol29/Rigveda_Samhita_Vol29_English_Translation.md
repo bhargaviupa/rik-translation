@@ -16772,6 +16772,229 @@ The main meaning of this is: for the gods, Agni and Vāyu are well known as the 
 
 In the Ṛk 7-2-7 they are called जातावेदसा (*jātāvedasā*) and in the Ṛk 10-70-7 पुरोहितौ (*purohitau*). And since the words मिमाना यज्ञं मनुषो यजध्यै (*mimānā yajñaṃ manuṣo yajadhyai*), यज्ञेषु मानुषेसु कारू (*yajñeṣu mānuṣesu kārū*) and प्रचोदयंता विदथेषु कारू (*pracodayaṃtā vidatheṣu kārū*) in the Ṛks mentioned above say that these deities conduct the sacrifices that men perform, it is natural that they are called purohitas.
 
+### Printed p. 570
+
+Where among the gods the hotṛs are Agni and Vāyu, among men the Hotṛ and his assistant priest Maitrāvaruṇa are called the hotṛs. This Maitrāvaruṇa commands the other priests by the Praiṣa mantras to perform their respective acts. In the Yajurveda (Tai. Saṃ. 6-1) it is said: मैत्तावरुणो हि पुरस्तादृत्विग्भो वाचं विभजति (*maittāvaruṇo hi purastādṛtvigbho vācaṃ vibhajati*).
+
+Thus, although some attributes are common to the two hotṛs and indicate the duty of the human hotṛ, there are other attributes which, though they too are common to both, describe only the duties of Agni, the divine hotṛ. For example:
+
+दैव्या होतारा प्रथमा नृंजे सप्त पृक्षासः स्वधया मदंति । यतं शंसंत ऋतमित्त आहुरनु व्रतं व्रतपा दीध्यानाः ॥ (*daivyā hotārā prathamā nṛṃje sapta pṛkṣāsaḥ svadhayā madaṃti | yataṃ śaṃsaṃta ṛtamitta āhuranu vrataṃ vratapā dīdhyānāḥ ‖*)
+
+(Ṛ. Saṃ. 3-4-7)
+
+In this Ṛk there is no doubt that the attribute प्रथमा (*prathamā*) refers only to Agni, the divine hotṛ. In 1-13-4 होता मनुर्हितः (*hotā manurhitaḥ*) is an attribute of Agni. The precise difference that holds between these two hotṛs is stated in the Praiṣa-sūkta in this way:
+
+होता यक्षद्वैव्या होतारा मंद्रा पोतारा कवी प्रचेतसा । स्विष्टमद्यान्यः करदिषा स्वभिगूर्तमन्य ऊर्जा सतवसेमं यज्ञं दिवि देवेषु धत्तां वीतामाज्यस्य होतरज ॥ (*hotā yakṣadvaivyā hotārā maṃdrā potārā kavī pracetasā | sviṣṭamadyānyaḥ karadiṣā svabhigūrtamanya ūrjā satavasemaṃ yajñaṃ divi deveṣu dhattāṃ vītāmājyasya hotaraja ‖*)
+
+(Śrī. Brā. 3 6-2-2) **NOTE**
+
+In this sentence it is indicated that one hotṛ should make the sacrifice acceptable by the oblation in the form of food, and the other should establish this sacrifice among the gods in heaven. This exchange of functions shows the difference between the human hotṛ and Agni, the divine hotṛ. In the Aitareya Brāhmaṇa:
+
+दैव्या होतार यजति प्राणापान् वैद्यैवा, होतारा प्राणापानावेव तत्णाति प्राणापान् यजमाने दधाति । (*daivyā hotāra yajati prāṇāpān vaidyaivā, hotārā prāṇāpānāveva tatṇāti prāṇāpān yajamāne dadhāti |*)
+
+(Ai. Brā. 2-4)
+
+having stated the identity of these hotṛs with prāṇa and apāna, it says that he who recites this mantra secures for the sacrificer a good state of prāṇa and apāna. In the Nirukta:
+
+दैव्या होतारा दैव्या होतारावयं चाग्निरस्च मध्यमः । (*daivyā hotārā daivyā hotārāvayaṃ cāgnirasca madhyamaḥ |*)
+
+(Ni. 8-12)
+
+it is said, by the supporting passages that bear out Sāyaṇa's meaning, that they are the terrestrial Agni and the Agni of the atmosphere. The Bṛhaddevatā also, approving this same meaning,
+
+### Printed p. 571
+
+दैन्व्याविति तु होतारावग्नी पार्थिवमध्यमौ । दिव्यादग्निर्हि जज्ञाते दैप्सौ तेनेह जन्मना ॥ (*dainvyāviti tu hotārāvagnī pārthivamadhyamau | divyādagnirhi jajñāte daipsau teneha janmanā ‖*)
+
+(Bṛ. De. 3.11)
+
+says that these two hotṛs are the terrestrial and the middle (atmospheric) fires.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कत्य॒ग्नयः॒ कति॒ सूर्या॑सः॒ कत्यु॒षासः॒ कत्यु॑ स्वि॒दापः॑ ।  
+> नोप॒स्पिजं॑ वः पितरो वदामि पृ॒च्छामि॑ वः कवयो वि॒द्मने॒  
+> कं ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कति । अग्नियः । कति । सूर्यासः । कति । उषसः । कति । ऊं इति । स्वित् । आपः ।  
+> न । उपस्पिजं । वः । पितरः । वदामि । पृच्छामि । वः । कवयः । विद्मने । कं ॥१८।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवं विवदमानावग्निवायू पित्थन्प्रश्नमेयितुः । तत्र मध्यमस्तान्पृच्छति ।
+> कत्यग्नयः । अग्नयः कति कतिसंख्याकाः । सूर्यासः सूर्याश्च कतिसंख्याकाः ।
+> उषास उषसत्व कतिसंख्याकाः । आपश्च कति । उ इति पूरणः । स्विच्छब्दोऽत्र
+> विचारणार्थः । हे पितरः वो युष्माकमुपस्पिजं । उपस्पिजमिति स्पर्धायुक्तं
+> वचनमुच्यते । पूर्वोक्तं प्रश्नवचनमेतन्न वदामि किंतर्ह्यहमजानन् हे
+> कवयो मेधाविनः युष्मान्विद्मने विज्ञानाय कं सुखं स्वरूपपर्यालोचनक्लेशमंतरेण पृच्छामि । अत्रोत्रराणि वालखिल्वसंहितायां दर्शितानि । एक
+> एवाग्निर्बहुधा समिद्ध एकः सूर्यो विश्वमनु प्रभूतः । एकैवोषाः सर्वमिदं
+> वि भात्येकं वा इदं वि बभूव सर्वं । ऋ. ८-५८.२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The fires Agni and Vāyu, disputing thus, ask the Pitṛs a question **NOTE**. Of these, the one in the middle region asks them: how many are the fires, how many are the suns, how many the dawns, and how many the waters? The word उ (*u*) is a filler, and the word स्वित् (*svit*) here has the sense of inquiry. "O fathers, I do not speak to you what is spoken in rivalry", for उपस्पिजं (*upaspijaṃ*) is said of speech joined with rivalry; I do not speak the question stated before in that way. Rather, O wise ones, being ignorant, I ask you for knowledge, for ease, without the trouble of reflecting on the nature of the matter. The answers here are shown in the Vālakhilya-saṃhitā: Agni is one, kindled in many ways; the sun is one, spread out over the whole world; Uṣas is one, shining over all this; that which is one has become all this (Ṛ. 8-58.2).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कति अग्नयः (*kati agnayaḥ*)—how many are the fires
+- कति सूर्यासः (*kati sūryāsaḥ*)—how many are the suns
+- कति उषसः (*kati uṣasaḥ*)—how many are the dawns
+- कति स्विदाहः (*kati svidāhaḥ*)—how many are the deities of the waters **NOTE**
+- पितरः (*pitaraḥ*)—O fathers
+- वः (*vaḥ*)—with you
+- उपस्पिजं (*upaspijaṃ*)—with the intention of rivalry
+- न वदामि (*na vadāmi*)—I do not
+
+### Printed p. 572
+
+  speak
+- कवयः (*kavayaḥ*)—O wise ones
+- विद्मने (*vidmane*)—only for the gaining of knowledge
+- कं पृच्छामि (*kaṃ pṛcchāmi*)—I put an easy question
+
+##### भावार्थ (Bhāvārtha)
+
+O fathers, how many are the fires? How many are the suns? How many are the dawns? How many are the deities of the waters? I do not speak with you with the intention of rivalry. O wise ones, I ask this question easily, only for the gaining of knowledge.
+
+##### English translation
+How many fires are there, how many suns, how many dawns, how many waters? I address you, O Pitris, not in rivalry, I ask you, sages, in order to know (the truth).
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या॒व॒न्मा॒त्रमु॒षसो॒ न प्रती॑कं सुप॒ण्यो॒३॒॑ ३ वस॑ते मातरिश्वः।  
+> ताव॑द्दधा॒त्युप॑ य॒ज्ञमा॒यन्ब्र॑ह्म॒णो होतु॒रव॑रो  ॒॑
+> निषीदन् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यावत्मात्रं । उषसः । न । प्रतीकं । सुपण्यः । वसते मातरिश्वः ।  
+> तावत् । दधाति । उप । यज्ञं । आयन् । ब्राह्मणः । होतुः । अवरः । निसीदन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रकृतस्य वैश्वानरस्य विषये यः प्रश्नस्तस्य निर्णयमनया वदंति । हे
+> मातरिश्वो मातर्यंतरिक्षे श्वसन् माध्यमिक वायो यावन्मात्रं यावदेव
+> सुपर्ण्यः सुपतना रात्रय उषसः प्रतीकं मुखं प्रकाशाख्यं दर्शनं वा । नेति
+> पूरणिः । वसते आच्छादयंति तावदेव ब्राह्मणो होतावरो निकृष्टो
+> होतुरस्याग्नेर्वैश्वानरस्य दैव्यस्य होतुर्निषिदन् हौत्रं कर्म कर्तुमुपविशन्
+> यज्ञमायन्नु पगच्छन्नुप दधाति । होतृकर्म स्वबुद्धौ धारयति । तथा च यास्कः ।
+> यावन्मात्रमुषसः प्रत्यक्तं भवति प्रतिदर्शनमिति वास्तु समानस्य संप्रत्यर्थे
+> प्रयोग इहेव निनेहीति यथा सुपर्ण्यः सुपतना एता रात्रयो वसते मातरिश्व.
+
+### Printed p. 573
+
+> इष्टोतिर्वर्णस्य तावदुपदधाति यज्ञमागच्छन्ब्राह्मणो दोतास्याग्नेर्होतुरवरो निषीदन् होतृजपस्त्वनग्निर्वैश्वानरीयो भवति ॥ नि. ७-३१ । इति ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk they state the decision of the question that was put about the Vaiśvānara under discussion. O Mātariśvan, that is, Vāyu of the middle region, who breathes in the mother, the atmosphere: for as long as the well-winged nights cover the face of the dawn, that is, its appearance called light, the word न (*na*) being a filler; for so long the Brahman, the Hotṛ, the lower, the inferior one, sits down to perform the hotṛ's act of this divine hotṛ, the Vaiśvānara Agni, approaches the sacrifice and bears the hotṛ's work in his mind. Yāska says accordingly (Ni. 7-31): the word for "as much as" and for the face of the dawn has the sense of "visible" or "appearance", the word is used in the sense of "now", as in the phrase इहेव (*iheva*) **NOTE**; as the well-winged nights cover, Mātariśvan, so long the Brahman, the hotṛ who is lower than the hotṛ of this Agni, coming to the sacrifice and sitting down, bears it; and the hotṛ's muttered prayer becomes that of the Vaiśvānara fire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरिश्वः (*mātariśvaḥ*)—O Agni, who has the form of Vāyu
+- यावन्मात्रं (*yāvanmātraṃ*)—as long as
+- सुपर्ण्यः (*suparṇyaḥ*)—the nights that have a good manifestation
+- उषसः प्रतीकं (*uṣasaḥ pratīkaṃ*)—the face of the dawn
+- वसते (*vasate*)—cause to be covered
+- तावत् (*tāvat*)—for so long
+- अवरः ब्राह्मणः (*avaraḥ brāhmaṇaḥ*)—the hotṛ who is on the earth
+- होतुः (*hotuḥ*)—to perform the act of the Agni who accomplishes the offering
+- निषिदन् (*niṣidan*)—sitting down
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- आयन् (*āyan*)—approaching
+- उप दधाति (*upa dadhāti*)—obtains the knowledge of his act
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have the form of Vāyu, for as long as the nights that have a good manifestation cause the face of the dawn to be covered, for so long the hotṛ who is on the earth sits down to perform the act of the Agni who accomplishes the offering, approaches the sacrifice and obtains the knowledge of his own duty.
+
+##### English translation
+As long, Matarishvan, as the swiftly-moving (nights) cover the face of the dawn, (so long) the Brahman, the inferior sitting down (to perform the work) of the Hotri, approaching the sacrifice supports (the ceremony).
+
+##### विशेषविषयगळु (Special Topics)
+
+The explanation of this by Yāska is as follows:
+
+यावन्मात्रमुषसः प्रत्यक्तं भवति प्रतिदर्शनमिति वास्तुपमानस्य संप्रत्यर्थे प्रयोग इहेव निधेहीति यथा सुपर्ण्यः सुपतना एता रात्रयो वसते मातरिश्वन ज्योतिर्वर्णस्य तावदुपदधाति यज्ञमागच्छन् ब्राह्मणो होतास्याग्नेर्होतुरवरो नीषीदन् ॥ (*yāvanmātramuṣasaḥ pratyaktaṃ bhavati pratidarśanamiti vāstupamānasya saṃpratyarthe prayoga iheva nidhehīti yathā suparṇyaḥ supatanā etā rātrayo vasate mātariśvana jyotirvarṇasya tāvadupadadhāti yajñamāgacchan brāhmaṇo hotāsyāgnerhoturavaro nīṣīdan ‖*)
+
+(Ni. 7.31)
+
+An example of one more Ṛk has been given in this matter. In the preceding Ṛk Agni and Vāyu are praised. In this Ṛk Agni alone is praised. Mātariśvan (Vāyu) is asked by a man whether the Brahman, the human hotṛ who takes part in the sacrifice, can bear, that is, can know, the knowledge which Agni, the hotṛ of the gods, has (the understanding of the performance of the sacrifice). That man has given this reply: O Mātariśvan, for as long as (for how long) the birds with good wings hold the dawn, for so long the Brahman, the human hotṛ, who sits in the sacrificial hall near the sacrificial fire, in a place lower than Agni, bears it
+
+### Printed p. 574
+
+(that is, by the grace of Agni he knows it to some extent).
+
+The word न (*na*) in this Ṛk does not have the sense of comparison. It has the sense of "now" (संप्रत्यर्थ (*saṃpratyartha*)). It is to be understood in the way that, although the word इह (*iha*) has the meaning "here", the sentence इहैव निधेहि (*ihaiva nidhehi*) has the meaning "put it right now". Therefore the sentence यावन्मात्रमुषसो न प्रतीकं (*yāvanmātramuṣaso na pratīkaṃ*) means: for how long, that is, for what length of time (only a short time), the time of dawn at the end of the night spreads, for that length of time only. The sentence सुपर्ण्यः सुपतना एता रात्रियो वसते मातरित्वन् (*suparṇyaḥ supatanā etā rātriyo vasate mātaritvan*) means: O Mātariśvan, birds with good wings, flying, hold the time of dawn. Here birds means nights. The word सुपर्ण्य (*suparṇya*) that indicates this has the meaning of various kinds of wings; it indicates the meaning of the various (good) colours of the dawn time. Therefore सुपर्ण्यः (*suparṇyaḥ*) means that when at the last part of the night the dawn rises, that dawn has various or beautiful colours. The extent of this dawn time is very small. Since after the dawn time the sun rises very quickly, the dawn time is very small in extent. The meaning is: for a very short time only. The human hotṛ is lower than Agni, the divine hotṛ. Therefore the Brahman, the human hotṛ, sitting in a place lower than the Agni established on the sacrificial altar, performs the hotṛ's act only for a very short time, by the grace of Agni, who is of special wisdom: this is the main meaning. By this the smallness of man and the greatness of Agni become evident. Since it is said in this Ṛk that the Brahman, the human hotṛ, sitting on the sacrificial altar, performs the hotṛ's act praising Agni, the divine hotṛ, it is clearly evident that here the terrestrial Agni is praised as Vaiśvānara Agni, and not Āditya.
+
+होतृजपस्त्वनग्निर्वैश्वानरियो भवति देव सतविरेतं त्वा वृणतेऽग्निं होत्राय सह पित्रा वैश्वानरेणेतीममॆवाग्निं सवितारमाह सर्वस्य प्रस. वितारं मध्यमं वोत्तमं वा पितरं ॥ यस्तु सूक्तं भजते यस्यै हविर्निरुप्यतेयमेव सोग्निर्वैश्वानरः । निपातमेवैते उत्तरे ज्योतिषी एतेन नामधेयेन भजेते भजेते ॥ (*hotṛjapastvanagnirvaiśvānariyo bhavati deva sataviretaṃ tvā vṛṇate 'gniṃ hotrāya saha pitrā vaiśvānareṇetīmamèvāgniṃ savitāramāha sarvasya prasa. vitāraṃ madhyamaṃ vottamaṃ vā pitaraṃ ‖ yastu sūktaṃ bhajate yasyai havirnirupyateyameva sognirvaiśvānaraḥ | nipātamevaite uttare jyotiṣī etena nāmadheyena bhajete bhajete ‖*)
+
+(Ni. 7-31)
+
+The muttered prayers and the like that the hotṛ recites in the sacrifice address and praise Vaiśvānara himself, not Agni. The mantra-japa is देवसवितरेतु त्वा वृणतेऽग्नि होत्राय सह पित्रा वैश्वानरेण (*devasavitaretu tvā vṛṇate 'gni hotrāya saha pitrā vaiśvānareṇa*). The sentence "O shining god Savitṛ, the hotṛ has chosen you for the praise, that is, Agni, together with your father Vaiśvānara"
+
+### Printed p. 575
+
+needs explanation. Here the seer has called Agni Savitṛ. Here Savitṛ (the word savitṛ) means the cause of the origin of all things (or of beings). In this sense this word is used here. He has addressed as father Vāyu, who stands in the middle region, or the Ādiśa **NOTE**, who stands in the highest (heavenly) region.
+
+That Vaiśvānara to whom the sūkta is addressed, for whom the oblation is offered (the deity towards whom the offering is made), is this terrestrial Agni.
+
+There is an old well-known story of the churning of fire. As it says there: सर्वमिदमंधंतम आसीत् । अथ मातरिश्वाकाशे सूक्ष्ममग्निमपश्यत् । तममथ्नात् । मथित्वा जानयदिति । (*sarvamidamaṃdhaṃtama āsīt | atha mātariśvākāśe sūkṣmamagnimapaśyat | tamamathnāt | mathitvā jānayaditi |*) Formerly the whole world was covered with pitch darkness. Then Mātariśvan noticed the Agni in subtle form in the sky and churned him. Afterwards he brought that Agni to the earth so as to suit the sacrifice. This well-known story is told in the Ṛgveda in the Ṛks
+
+अन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः । (*anyaṃ divo mātariśvā jabhārāmathnādanyaṃ pari śyeno adreḥ |*)
+
+(Ṛ. Saṃ. 1-93-6)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ*)
+
+(Ṛ. Saṃ. 6-8-4)
+
+and in other Ṛks too: there is a description in praise of Agni that only after Mātariśvan had brought him did Agni shine in the sacrificial house.
+
+मातरिश्वा—मातरिश्वा वायुर्मातर्यंतरिक्षे श्वसिति मातराश्वनितीति वा। (*mātariśvā—mātariśvā vāyurmātaryaṃtarikṣe śvasiti mātarāśvanitīti vā|*) Since he breathes in the atmosphere or moves, the name Mātariśvan has come to Vāyu. In the Ṛk Kha. Saṃ. 1-96-4 **NOTE** they explain this word as Agni, and in 1-141-3 as the sacrificer. But except in one or two such places, everywhere else Mātariśvan means Vāyu.
+
+अन्यं मातरिश्वा दिव आ जभार (*anyaṃ mātariśvā diva ā jabhāra*): thus the supramundane manifestation and the worldly origin of Agni, who is the self of the sacrifice, are described in many ways. The manifestation of Agni, who is the banner of the sacrifices, the means for the vidatha, the father of the sacrifices and the like, and the king of the adhvaras (see the descriptions in the Ṛks Ṛ. Saṃ. 3-3-3; 3-11-2; 4-2-3 and others), took place first, in the form of lightning, in Vāyu; this is praised in the Ṛk-saṃhitā in
+
+### Printed p. 576
+
+त्वमग्ने प्रथमो मातरिश्वन आविर्भव सुक्रतूया विवस्वते । (*tvamagne prathamo mātariśvana āvirbhava sukratūyā vivasvate |*)
+
+(Ṛ. Saṃ. 1-31-3)
+
+स जायमानः परमे व्योमान्या विरग्नि रभवन्मातरिश्वने । (*sa jāyamānaḥ parame vyomānyā viragni rabhavanmātariśvane |*)
+
+(Ṛ. Saṃ. 1-143-2)
+
+and in other such Ṛks. There are many Vedic sentences that this Vāyu brought Agni, who was hidden in a very distant region, for the sake of Bhṛgu and Manu, the sacrificers, and helped them. For example:
+
+द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भगवे मातरिश्वा । (*dvijanmānaṃ rayimiva praśastaṃ rātiṃ bharadbhagave mātariśvā |*)
+
+(Ṛ. Saṃ. 1-60-1)
+
+यॆं मातरिश्वा मनवे परावतो देवं भाः परावतः । (*yèṃ mātariśvā manave parāvato devaṃ bhāḥ parāvataḥ |*)
+
+(Ṛ. Saṃ. 1-128-2)
+
+ऐनं नयन्मातरिश्वा परावतो देवेभ्यो मथितं परि । (*ainaṃ nayanmātariśvā parāvato devebhyo mathitaṃ pari |*)
+
+(Ṛ. Saṃ. 3-9-5)
+
+आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः (*ā dūto agnimabharadvivasvato vaiśvānaraṃ mātariśvā parāvataḥ*)
+
+(Ṛ. Saṃ. 6-8-4)
+
+ईळेन्यं प्रथमं मातरिश्वा देवास्त्रक्षुर्मनवे यजत्रं । (*īḷenyaṃ prathamaṃ mātariśvā devāstrakṣurmanave yajatraṃ |*)
+
+(Ṛ. Saṃ. 10-46-9)
+
+In many such Ṛks it is well known from the Veda that Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, brought to the earth the Agni who was hidden in a distant region, and did good to all the people on the earth.
+
 ---
 
-**Progress note:** Done through printed p. 569. Sukta 88 Special Topics devayana end, Rk 16-17, Special Topics on daivya hotarau, pp. 564-569
+**Progress note:** Done through printed p. 576. Sukta 88 Special Topics on daivya hotarau, Rk 18-19, Matarishvan, pp. 570-576
