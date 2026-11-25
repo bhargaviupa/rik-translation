@@ -43931,6 +43931,152 @@ Sūkta 190. Maṇḍala 10; Anuvāka 12; Sūkta 190. Aṣṭaka 8; Adhyāya 8; V
 
 ऋतं (*ṛtaṃ*) is a name of truth. ऋतं (*ṛtaṃ*) is the mental, true resolve; सत्यं (*satyaṃ*) is the spoken, true utterance. By the two च (*ca*) any other group of duties taught in the śāstra is also gathered in. All that arose from *abhīddhāt tapasaḥ*, from the austerity (tapas) kindled by Brahmā long ago for the sake of creation; *adhi* has the sense of "above", it arose above, came into being. Authority: तपस्तप्तदं सर्वमसृजत (*tapastaptadaṃ sarvamasṛjata*) (Tai. Ā. 8-6). And tapas here means the reflection on what is to be created; another Śruti: यस्य ज्ञानमयं तप (*yasya jñānamayaṃ tapa*) (Muṃ. 1-1-9). **NOTE** Or else: from *abhīddhāt*, the Supreme Self shining on all sides, who is the basis of māyā and the material cause, ṛta and satya arose; by जनिकर्तुः प्रकृतिः (*janikartuḥ prakṛtiḥ*) (Pā. Sū. 1-4-30) the material cause receives the name apādāna. Then, from that Īśvara, night arose; this is indicative, so that day also arose.
 
+### Printed p. 1272
+
+> श्चाजसानिति जीप् ॥ ततस्तस्मादेवेश्वरादर्णवोर्णसोऽदकेन युक्तः समुद्रश्चाजायत । समुद्रशब्दोऽंतरिक्षोदध्योः साधारण इत्यभिमतार्थस्य प्रकाशनायार्णवशब्देन विशेष्यते ॥ अर्णसः सलोपश्च ॥ का. ५-२-१०९-३ । इति मत्त्वर्थीयो
+> वप्रत्ययः सलोपश्च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the previous explanation. From that same Īśvara the ocean (अर्णवः (*arṇavaḥ*)), endowed with water, was born. The word समुद्र (*samudra*) is common to the sky and the sea, so to bring out the intended sense it is qualified by the word अर्णव (*arṇava*). The affix va in the sense of "possessing" is given by the rule अर्णसः सलोपश्च (*arṇasaḥ salopaśca*) (Kā. 5-2-109-3), together with the loss of sa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभीद्धात् (*abhīddhāt*)—from Brahmā, who had performed austerity with the wish to create
+- ऋतं (*ṛtaṃ*)—the truth that takes the form of mental resolve
+- च (*ca*)—and
+- सत्यं (*satyaṃ*)—the truth that takes the form of speech
+- अध्यजायत (*adhyajāyata*)—came into being
+- [Or: अभीद्धात् (*abhīddhāt*)—from the Supreme Self, who shines everywhere]
+- ऋतं (*ṛtaṃ*)—ṛta in the form of the substratum of māyā
+- सत्यं (*satyaṃ*)—satya in the form of the material cause
+- अध्यजायत (*adhyajāyata*)—came into being
+- ततः (*tataḥ*)—from that same Brahmā or the Supreme Self
+- रात्रिः (*rātriḥ*)—day and night
+- अजायत (*ajāyata*)—arose
+- ततः (*tataḥ*)—from that same Brahmā
+- अर्णवः (*arṇavaḥ*)—filled with water
+- समुद्रः (*samudraḥ*)—the ocean arose
+
+##### भावार्थ (Bhāvārtha)
+
+From Brahmā, who was performing austerity with the wish to create, there came into being the truth that takes the form of mental resolve (ṛta) and the truth that takes the form of speech (satya). Or: from the Supreme Self in his unmanifest form came ṛta in the form of resolve, and from the Supreme Self in his manifest form came satya in the form of speech. Then from that same Brahmā came day and night, and the ocean full of water.
+
+##### English translation
+Truth (of thought) and truthfulness (of speech) were born of arduous penance, thence was night generated, thence also the watery ocean.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्राद॑र्ण॒वादधि॑ संवत्स॒रो अ॑जायत ।  
+> अ॒हो॒रा॒त्राणि॑ वि॒दध॒द्विश्व॑स्य मिष॒तो व॒शी ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रादर्णवादधि संवत्सरो अजायत ।
+
+### Printed p. 1273
+
+> अहोरात्राणि विदधद्विश्वस्य मिषतो वशी ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्णवात्समुद्रात्सृष्टादधूर्द्ध्वं संवत्सरः संवत्सरोपलक्षितः सर्वः
+> कालोऽजायत । श्रूयते हि । सर्वे निमेषा जज्जिरे विद्युतः पुरुषादधि कला
+> मुहूर्ताः काष्ठाश्च । तै. आ. १०-१-२ । इति । स चेश्वरोऽहोरात्राण्येतदुपलक्षितानि सर्वाणि भूतानि विदधत् कुर्वन् सृजन् ॥ अभ्यस्तानामादिरित्याद्युदात्तत्वं ।
+> ततः समासे कृदुत्तरपदप्रकृतिस्वरत्वं ॥ मिषतो निमिषादियुक्तस्य विश्वस्य सर्वस्य
+> प्राणिजातस्य वशी स्वामी भूत्वा वर्तते ॥
+
+##### Gist of the bhāṣya
+
+After the ocean had been created, the year, and with it all of time, was born. This is heard in scripture: सर्वे निमेषा जज्जिरे विद्युतः पुरुषादधि कला मुहूर्ताः काष्ठाश्च । (*sarve nimeṣā jajjire vidyutaḥ puruṣādadhi kalā muhūrtāḥ kāṣṭhāśca |*) (Tai. Ā. 10-1-2). That Īśvara, creating (विदधत् (*vidadhat*)) days and nights and, marked by them, all beings, is the ruler (वशी (*vaśī*)) of the whole world (विश्वस्य (*viśvasya*)) that blinks (मिषतः (*miṣataḥ*)), that is, of every living creature endowed with the winking of eyes and the like; he abides as its master.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्णवात् (*arṇavāt*)—filled with water
+- समुद्रात् (*samudrāt*)—from the ocean
+- संवत्सरः (*saṃvatsaraḥ*)—the divisions of time beginning with the year
+- अधि अजायत (*adhi ajāyata*)—came into being (afterwards the Supreme Self)
+- अहोरात्राणि (*ahorātrāṇi*)—the divisions of time such as day and night (and all creatures)
+- विदधत् (*vidadhat*)—creating
+- विश्वस्य (*viśvasya*)—of the whole
+- मिषतः (*miṣataḥ*)—of time
+- वशी (*vaśī*)—abides as the master
+
+##### भावार्थ (Bhāvārtha)
+
+From the ocean full of water the divisions of time beginning with the year came into being. Then, creating days and nights (and all creatures), that Supreme Lord is the ruler of all time.
+
+##### English translation
+From the watery ocean was the year afterwards produced, ordaining nights and days, the ruler of every moment.
+
+##### विशेषविषयगळु (Special Topics)
+
+In all three Ṛks of this sūkta it is told what things the Creator created in the beginning, when the world and the rest did not yet exist. But the order stated here need not be heeded. For the second half of the first Ṛk says that day and night came into being, and the second half of the second Ṛk says the same; then the first half of the third Ṛk says that he created the sun and moon. How can days and nights exist before the sun and moon are created? Days and nights and the other divisions of time follow the course of the sun and moon.
+
+### Printed p. 1274
+Therefore it need not be said that the sun, moon, days and nights, ocean and other things mentioned in these three Ṛks were created in the order set out here. The work of creation is described at length in the Upaniṣads and other Vedānta texts. The creation described in this sūkta, that is, the divisions of time such as day and night and the three worlds beginning with the earth, is described in the Taittirīya Upaniṣad as follows:
+सर्वे निमेषा जज्ञिरे विद्युतः पुरुषादधि । कला मुहूर्ताः काष्ठाश्च होरात्राश्च सर्वशः ॥ अर्धमासा मासा ऋतवः संवत्सरश्च कल्पंतां ॥ स आपः प्रदुघे उभे इमे अंतरिक्षमथो सुवः ॥ (*sarve nimeṣā jajñire vidyutaḥ puruṣādadhi | kalā muhūrtāḥ kāṣṭhāśca horātrāśca sarvaśaḥ ‖ ardhamāsā māsā ṛtavaḥ saṃvatsaraśca kalpaṃtāṃ ‖ sa āpaḥ pradughe ubhe ime aṃtarikṣamatho suvaḥ ‖*) (Kṛ. U. 4-1)
+From that self-luminous Brahman alone come the divisions of time: the nimeṣa (the time of closing and opening the eyelid), kāṣṭhā, kalā, muhūrta, day, night, pakṣa (fifteen days, or half a month), month, seasons and year. All these divisions of time come from this Supreme Brahman. This Brahman, who is of the nature of time, created the earth, composed of water and the other five elements, and the firmament and heaven; so it is said.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सू॒र्या॒चं॒द्र॒मसौ॑ धा॒ता य॑थापू॒र्वम॑कल्पयत् ।  
+> दिवं॑ च पृथि॒वीं चां॒तरि॑क्ष॒मथो॒ स्वः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्याचंद्रमसौ धाता यथापूर्वमकल्पयत् ।  
+> दिवं च पृथिवीं चांतरिक्षमथो स्वः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्याचंद्रमसौ कालस्य ध्वजभूतौ दिवं च पृथिवीं चांतरिक्षं च इत्थं
+> त्रिभुवनं स्वः । स्वःशब्दः सुखवाची । दिवो विशेषणं । सुखरूपां दिवं । तदेतत्सर्वं
+> धाता विधाता यथा पूर्वं पूर्वस्मिन्कालेऽकल्पयत् सृष्टवान् तथैवागामिन्यपि
+> कल्पे कल्पयिष्यतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sun and moon, the banners of time, and heaven, earth and the firmament, thus the three worlds, were all created. The word स्वः (*svaḥ*) denotes happiness and is an adjective of heaven: heaven of the nature of happiness. All this the Dhātā, the Ordainer, fashioned (अकल्पयत् (*akalpayat*)) as before, in the former time; so too will he fashion it in the coming kalpa. This is the meaning.
+
+### Printed p. 1275
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धाता (*dhātā*)—the Supreme Lord, the Creator
+- यथापूर्वं (*yathāpūrvaṃ*)—now also, just as he created in the former kalpa
+- सूर्याचंद्रमसौ (*sūryācaṃdramasau*)—the sun and moon, who are like ornaments of time
+- स्वः (*svaḥ*)—bestowing happiness
+- दिवं च (*divaṃ ca*)—the world of heaven
+- पृथिवीं (*pṛthivīṃ*)—the world of earth
+- अंतरिक्षं च (*aṃtarikṣaṃ ca*)—the firmament, the middle world (thus the three worlds)
+- अकल्पयत् (*akalpayat*)—created
+
+##### भावार्थ (Bhāvārtha)
+
+The Supreme Self, the Creator, created now also, just as he created in the former kalpa, the sun and moon, who are like ornaments of time, and the three worlds, the pleasant heaven, earth and firmament. (In the coming kalpa also he will create in the same way.)
+
+##### English translation
+Dhatri in the begining created the sun and moon, the heaven, the earth, the firmament, and the happy (sky).
+
+## Sūkta 191 (Maṇḍala 10)
+**Introduction**
+This is the last sūkta of the Ṛgveda Saṃhitā. As Agni is praised in the first sūkta of the Saṃhitā, so Agni is praised in this sūkta too; and saṃjñāna (concord), of the nature of a peace-recital, is praised. In the Ṛgvidhāna this is said about this sūkta:
+संसमिद्युवसे वृषन्सौभ्रातृकरणं महत् ॥ १२५ ॥ ज्ञातिभेदे प्रयुंजीत न भिद्यंते कदाचन । कृते भेदे तु संज्ञान एतत्संधिकरं जपेत् ॥ १२६ ॥ न तत्र भेदो भूयः स्याद्यत्रैतत्सततं जपेत् । तच्छंयोरावृणीमह इति स्वस्त्ययनं जपेत् ॥ १२७ ॥ महानाम्म्यः परं ब्रह्म शुक्रं ज्योतिः सनातनं । सपत्न्यघ्न्यश्च पुण्याश्च पावमान्यः पराः स्मृताः ॥ १२८ ॥ वृष्टिकामो जपेच्चैता आपो हि ष्ठाः सनातनाः । ओंकारपूर्ण व्याहृतयो मधुछंदसॆ आदितः ॥ १२९ ॥ (*saṃsamidyuvase vṛṣansaubhrātṛkaraṇaṃ mahat ‖ 125 ‖ jñātibhede prayuṃjīta na bhidyaṃte kadācana | kṛte bhede tu saṃjñāna etatsaṃdhikaraṃ japet ‖ 126 ‖ na tatra bhedo bhūyaḥ syādyatraitatsatataṃ japet | tacchaṃyorāvṛṇīmaha iti svastyayanaṃ japet ‖ 127 ‖ mahānāmmyaḥ paraṃ brahma śukraṃ jyotiḥ sanātanaṃ | sapatnyaghnyaśca puṇyāśca pāvamānyaḥ parāḥ smṛtāḥ ‖ 128 ‖ vṛṣṭikāmo japeccaitā āpo hi ṣṭhāḥ sanātanāḥ | oṃkārapūrṇa vyāhṛtayo madhuchaṃdasè āditaḥ ‖ 129 ‖*)
+
+### Printed p. 1276
+सूक्तान्यंते महानाम्यः संहिता सामृता स्मृता । अमृतत्वं ययुर्देवाः पूर्वं संहितयानया ॥ १३० ॥ जपन्नेतां शुचिर्नित्यममृतत्वं स गच्छति । अत्तैव श्वावपेन्मध्यॆ पितृसूक्तान्यनेकशः ॥ १३१ ॥ पित्र्यां तां संहितां विद्यात् पितृन् प्रीणाति चैतया । एवमेव समाहृत्य वासवी संहिता भवेत् ॥ १३२ ॥ रौद्रादित्या वैश्वदेवी यद्देवत्यां च कामयेत् । कुर्वीत वास्तुशमनं मध्यॆ गोष्ठस्य धर्मवित् ॥ १३३ ॥ पुष्पैर्गंधैश्च माल्कॆश्च वानस्पत्यैस्तथौषधैः । वास्तु सर्वं प्रतिकिरेत्सप्त धान्यैस्तथैव च ॥ १३४ ॥ वास्तोष्पतिं यजेच्चात्र पायसेन बृहस्पतिं । औदुंबर पलाशैस्तु बलिं प्रतिदिशं हरेत् ॥ १३५ ॥ सूर्यो वायुर्यमः पितरो वरुणो निर्ऋतिस्तथा । सोमो महेंद्र इत्येते दिक्षु वै देवताः स्मृताः ॥ १३६ ॥ दद्याद्दानं ब्राह्मणेभ्यः शिवं भवति वास्तुनि । प्रतिसंवत्सरं कार्यं गृहे वै गृहमेधिना ॥ १३७ ।' यद्येवं सविधं चान्यदनुक्तमपि किंचन । अग्निमिंद्रमथो वायुं सूर्यमन्याश्च देवताः ॥ १३८ ॥ अरिराधयिषुर्या० यामभिधावेत तां च तां । अभिरूपेण सूक्तेन यथादिष्टं प्रयोजनं ॥ १३९ ॥ ऋषीणां मंत्रदृष्टेन प्रत्यक्षा सिद्धिरिष्यते । सर्वत्र दक्षिणां दद्याद्नं ना कर्मसिद्धये ॥ १४० ॥ न त्वेनादक्षिणं कर्म किंचिदस्तीति शौनकः । शक्त्या हि पूर्णपात्रेण संमिताप्यंततो भवेत् ॥ १४१ ॥ तस्मात्स्वल्पापि दातव्या दक्षिणा कर्मसिद्धये । ऋषभैकादशा दद्याद्येन वा तुष्यते गुरुः ॥ १४२ ॥ धर्मज्ञे सत्यवादिनि ब्रह्मदानं च दीयते । तदिदं परमं ब्रह्म गुह्यं पावनमद्भुतं ॥ १४३ (*sūktānyaṃte mahānāmyaḥ saṃhitā sāmṛtā smṛtā | amṛtatvaṃ yayurdevāḥ pūrvaṃ saṃhitayānayā ‖ 130 ‖ japannetāṃ śucirnityamamṛtatvaṃ sa gacchati | attaiva śvāvapenmadhyè pitṛsūktānyanekaśaḥ ‖ 131 ‖ pitryāṃ tāṃ saṃhitāṃ vidyāt pitṛn prīṇāti caitayā | evameva samāhṛtya vāsavī saṃhitā bhavet ‖ 132 ‖ raudrādityā vaiśvadevī yaddevatyāṃ ca kāmayet | kurvīta vāstuśamanaṃ madhyè goṣṭhasya dharmavit ‖ 133 ‖ puṣpairgaṃdhaiśca mālkèśca vānaspatyaistathauṣadhaiḥ | vāstu sarvaṃ pratikiretsapta dhānyaistathaiva ca ‖ 134 ‖ vāstoṣpatiṃ yajeccātra pāyasena bṛhaspatiṃ | auduṃbara palāśaistu baliṃ pratidiśaṃ haret ‖ 135 ‖ sūryo vāyuryamaḥ pitaro varuṇo nirṛtistathā | somo maheṃdra ityete dikṣu vai devatāḥ smṛtāḥ ‖ 136 ‖ dadyāddānaṃ brāhmaṇebhyaḥ śivaṃ bhavati vāstuni | pratisaṃvatsaraṃ kāryaṃ gṛhe vai gṛhamedhinā ‖ 137 | ' yadyevaṃ savidhaṃ cānyadanuktamapi kiṃcana | agnimiṃdramatho vāyuṃ sūryamanyāśca devatāḥ ‖ 138 ‖ arirādhayiṣuryā0 yāmabhidhāveta tāṃ ca tāṃ | abhirūpeṇa sūktena yathādiṣṭaṃ prayojanaṃ ‖ 139 ‖ ṛṣīṇāṃ maṃtradṛṣṭena pratyakṣā siddhiriṣyate | sarvatra dakṣiṇāṃ dadyādnaṃ nā karmasiddhaye ‖ 140 ‖ na tvenādakṣiṇaṃ karma kiṃcidastīti śaunakaḥ | śaktyā hi pūrṇapātreṇa saṃmitāpyaṃtato bhavet ‖ 141 ‖ tasmātsvalpāpi dātavyā dakṣiṇā karmasiddhaye | ṛṣabhaikādaśā dadyādyena vā tuṣyate guruḥ ‖ 142 ‖ dharmajñe satyavādini brahmadānaṃ ca dīyate | tadidaṃ paramaṃ brahma guhyaṃ pāvanamadbhutaṃ ‖ 143*)
+
+### Printed p. 1277
+नाप्रशांताय दातव्यं नापुत्रायातपस्विने । नासंवत्सरोषिताय नाशिष्यायाहिताय च ॥१४४ ॥ (*nāpraśāṃtāya dātavyaṃ nāputrāyātapasvine | nāsaṃvatsaroṣitāya nāśiṣyāyāhitāya ca ‖144 ‖*)
+(Ṛgvidhāna, Adhyāya 4, verses 125-148)
+
+This sūkta beginning संसमिद्यवसे वृषन् (*saṃsamidyavase vṛṣan*) removes difference of opinion and produces friendly feeling. By reciting this sūkta, the ill feeling that may exist among kinsmen, that is, relatives, is removed, and sweet kinship arises among them. In future too no discord will arise among them. After reciting this sūkta, the svasti mantra beginning तच्छंयोरावृणीमहे (*tacchaṃyorāvṛṇīmahe*) should be recited. While meditating on the eternal, luminous Supreme Brahman, one should recite the Mahānāmnī mantras and the Pāvamānī mantras, which destroy enemies and bestow merit. One who desires rain should recite the sūkta beginning आपो हिष्ठा (*āpo hiṣṭhā*). This Ṛgveda Saṃhitā should be recited preceded by Oṃkāra and the vyāhṛtis, beginning with the sūkta beginning अग्निमाळे (*agnimāḷe*) seen by the sage Madhucchandas and continuing to the end of this sūkta, and at the end the Mahānāmnī mantras should be recited. This is the order of reciting the Ṛgveda. By reciting the Ṛgveda Saṃhitā in this way the gods obtained immortality (freedom from death). Therefore the man who, pure each day, recites this Ṛgveda Saṃhitā will obtain increase of well-being and live long. On this very occasion the Pitṛ-sūktas should be recited for the pleasure of the ancestors. By reciting these sūktas the ancestors, and the deities of those sūktas, the Vasus, Rudras, Ādityas and the Viśvedevas, become pleased. Afterwards a man who knows dharma should perform the vāstu-homa for the sake of peace. Having duly worshipped the vāstu deity with flowers, perfumes, garlands and the like, with herbs and trees, and with grains and the like, he should then offer into the fire to the deity Vāstoṣpati with pāyasa, and to Bṛhaspati with fuel-sticks of the udumbara and palāśa trees, and should present a bali offering in every direction. Sūrya, Vāyu, Yama, the Pitṛs, Varuṇa, Nirṛti, Soma and Mahendra, these eight deities are the lords of the eight directions and intermediate directions beginning with the east. Afterwards dakṣiṇā should be given to Brāhmaṇas; by this the vāstu deity becomes well pleased. Every year the master of the house should do this in his own house. By the method stated above and by other methods not stated here, a man who wishes to propitiate other deities such as Agni, Indra, Vāyu and Sūrya should propitiate each deity by employing the sūkta addressed to that deity. If the deities are propitiated with mantras seen by the sages, the desired aim is accomplished. For the perfection of the rite, dakṣiṇā should be given to all. The great sage Śaunaka has said that no rite should be performed without dakṣiṇā. Therefore in all rites some dakṣiṇā, however small, should be given according to one's means. If this is done, the rite
+
 ---
 
-**Progress note:** Done through printed p. 1271. pp. 1265-1271 (batch API)
+**Progress note:** Done through printed p. 1277. pp. 1272-1277 (batch API)
