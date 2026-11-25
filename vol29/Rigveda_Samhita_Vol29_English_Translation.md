@@ -16317,6 +16317,259 @@ For the explanation of the etymology that Yāska has written for this Ṛk, see 
 > आ ! यः ! ततान । उषसः । विभातीर् । अपो इति ! ऊर्णोति । तमः । अर्चिषा !  
 > यन् ॥ १२ ॥
 
+### Printed p. 557
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा इंद्रादयो विश्वस्मै भुवनाय वैश्वानरं विश्वनरहितमग्निमह्नां
+> दिवसानां केतुं प्रज्ञापकमकृण्वन् । अकुर्वन् । यो वैश्वानरोऽग्निरुषसो
+> विभातीर्विविधं दीप्यमाना आ ततान विस्तारयति। किंच सोऽयं यन्नच्छंस्तमोऽंधकारमुर्चिषा तेजसापो ऊर्णोति । अपगमयति ॥
+
+##### Gist of the bhāṣya
+
+The gods, Indra and the others, made the Vaiśvānara Agni, who is beneficial to all men, the indicator of the days, for the sake of the whole world. He is the one who spreads out the shining dawns in manifold ways. Moreover, this same Agni, moving along, drives away the darkness, the gloom, with his radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Vaiśvānara Agni who
+- विभातीः (*vibhātīḥ*)—shining
+- उषसः (*uṣasaḥ*)—the dawns
+- आ ततान (*ā tatāna*)—causes to spread out, such a one
+- वैश्वानरं अग्निं (*vaiśvānaraṃ agniṃ*)—Agni who has the form of Vaiśvānara
+- देवाः (*devāḥ*)—the gods, Indra and the others
+- विश्वस्मै भुवनाय (*viśvasmai bhuvanāya*)—for the welfare of all the worlds
+- अह्नां केतुं (*ahnāṃ ketuṃ*)—as the indicator of the days
+- अकृण्वन् (*akṛṇvan*)—made (this same Agni)
+- यन् (*yan*)—moving everywhere
+- तमः (*tamaḥ*)—the darkness
+- अर्चिषा (*arciṣā*)—with his own radiance
+- अपो ऊर्णोति (*apo ūrṇoti*)—destroys
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, Indra and the others, made this Agni, who has the form of Vaiśvānara and who caused the shining dawns to spread out by his lustre, the indicator of the days, for the welfare of all the worlds as well. This same Agni, moving everywhere, destroys the darkness with his radiance.
+
+##### English translation
+The gods made Agni Vaishwanara, the indicator of days, for the sake of the whole world, who stretched out the radiant dawns, and as he moves along scatters the darkness with his light.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वै॒श्वा॒न॒रं क॒वयो॑ य॒ज्ञिया॑सो॒ग्निं दे॒वा अ॑जनयन्नजु॒र्यं ।  
+> नक्ष॑त्रं प्र॒त्नमवि॑नच्चरि॒ष्णु य॒क्षस्याध्य॑क्षं तवि॒षं बृ॒हंतं॑ ॥१३॥
+
+### Printed p. 558
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वैश्वानरं । कवयः । यज्ञियासः । अग्निं । देवाः । अजनयन् । अजुर्यं ।  
+> नक्षत्रं । प्रत्नं । अमिनत् । चरिष्णु । यक्षस्य । अधिs अक्षं । तविषं । बृहंतं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कवयो मेधाविनो यज्ञियासो यज्ञार्हा यज्ञसंपादिनो वा देवा
+> अजुर्यं जरावर्जितमहिंस्यं वा वैश्वानरं विश्वनरहितं सूर्यात्मकमग्निमजनयन् । उत्पादितवंतः । स च देवैरुत्पादितोऽग्निर्नक्षत्रं कृत्तिकादि प्रत्नं पुराणं
+> चरिष्णु चरणशीलं यक्षस्य । यक्षतिः पूजार्थः । प्रयक्षमित्यादौ दर्शनात् ।
+> ऋ. २.५-१ । यक्षस्य पूज्यस्य देवस्याध्यक्षं प्रत्यक्षं स्वामिनं वा तविषं वृद्धं बृहंतं
+> महांतममिनत् । हिंसितवान् । तेजसाभिभूतवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The wise ones, the gods who are worthy of sacrifice or who accomplish the sacrifice, brought forth the Vaiśvānara Agni, who is free from old age or cannot be harmed, who is benevolent to all men and has the nature of the sun. This Agni, brought forth by the gods, overcame the nakṣatra, that is Kṛttikā and the rest, the ancient, the moving one. The root yakṣ here has the sense of worship, as is seen in the usage prayakṣam and the like (Ṛ. 2.5-1). He is the overseer, the manifest lord, of the worshipful god (यक्षस्य (*yakṣasya*)), the grown, the great and mighty. He injured it, that is, he overcame it with his splendour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवयः (*kavayaḥ*)—the wise
+- यज्जियासः (*yajjiyāsaḥ*)—worthy of sacrifice
+- देवाः (*devāḥ*)—the gods
+- जुर्यं (*juryaṃ*)—the one free from decay
+- वैश्वानरं (*vaiśvānaraṃ*)—the one called Vaiśvānara
+- अग्निं (*agniṃ*)—Agni
+- अजनयन् (*ajanayan*)—brought forth (this same Agni)
+- प्रत्नं (*pratnaṃ*)—the ancient
+- चरिष्णु (*cariṣṇu*)—the one of the nature of movement
+- यक्षस्य (*yakṣasya*)—of the worshipful host of gods
+- अध्यक्षं (*adhyakṣaṃ*)—the chief (the lord)
+- तविषं (*taviṣaṃ*)—the grown
+- बृहंतं (*bṛhaṃtaṃ*)—the one possessed of greatness
+- नक्षत्रं (*nakṣatraṃ*)—the host of stars
+- अभिनत् (*abhinat*)—destroyed by his own splendour **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The wise gods, worthy of sacrifice, brought forth Agni, who is free from decay and is called Vaiśvānara. This same Agni destroyed by his splendour the host of stars, the ancient, the moving, the chief (lord) of the worshipful host of gods, the grown, the great.
+
+##### English translation
+The wise and adorable gods engendered the imperishable Agni Vaishwanara ; he overcame (with his light) the ancient swift-moving Nakshatra, the overseer of the adorable (deity), mighty and great.
+
+### Printed p. 559
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वै॒श्वा॒न॒रं वि॒श्वहा॑ दीदि॒वांसं॒ मंत्रै॑र॒ग्निं क॒विमच्छा॑वदामः ।  
+> यो म॑हि॒म्मा प॑रिब॒भूवो॒र्वी उ॒तावस्ता॑दु॒त दे॒वः  ॒॑
+> परस्तात् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वैश्वानरं । विश्वहा । दीदिऽवांसं । मंत्रैः अग्निं । कविं । अच्छ । वदामः ।  
+> यः । महिम्मा । परिबभूव । उर्वी इति । उत।अवस्तात्! उत। देवः। परस्तात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वहा सर्वदा दीदिवांसं दीप्तं कविं क्रांतप्रज्ञं वैश्वानरमग्निं
+> मंत्रैरच्छा वदामः । अभिष्टुमः! यो वैश्वानरोऽग्निर्महिम्ना महत्वेनोर्वी
+> द्यावापृथिव्यौ परिबभूव परिभवति । उतापि चायमवस्तादधस्तात्तपति । उतापि
+> चायं सूर्यात्मको देवः परस्तादुपरिष्टाच्च तपतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+We praise the Vaiśvānara Agni with hymns, at all times: the shining, the sage, the one of far-reaching wisdom. That Vaiśvānara Agni surpasses by his greatness the two wide ones, heaven and earth. Moreover, he burns below; and moreover this same god, who has the nature of the sun, burns above. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Vaiśvānara Agni who
+- महिम्ना (*mahimnā*)—by his greatness
+- उर्वी (*urvī*)—the wide
+- परि बभूव (*pari babhūva*)—surpasses heaven and earth
+- उत (*uta*)—and
+- देवः (*devaḥ*)—this Agni, whose self is divine
+- अधस्तात् (*adhastāt*)—below, in the earth, in the form of fire
+- उत (*uta*)—and
+- परस्तात् (*parastāt*)—above, in the sky, in the form of the sun, spreads his flame, such a one
+- दीदिवांसं (*dīdivāṃsaṃ*)—the shining
+- कविं (*kaviṃ*)—the sage
+- वैश्वानरं अग्निं (*vaiśvānaraṃ agniṃ*)—the Vaiśvānara Agni
+- मंत्रैः (*maṃtraiḥ*)—with hymns of praise
+- विश्वहा (*viśvahā*)—at all times
+- अच्छा (*acchā*)—fully
+- वदामः (*vadāmaḥ*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We praise at all times, fully, with hymns of praise the shining and sage Vaiśvānara Agni, who surpasses by his greatness the wide heaven and earth, and who, with a divine self, spreads his flame both in the earth and in the sky.
+
+### Printed p. 560
+
+##### English translation
+We glorify daily with praises the brilliant and sage Agni Vaishwanara, the god who overcomes by his might both heaven and earth,(burning) both below and above.
+
+#### Ṛk 15
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वे स्तु॒ती अ॑शृणवं पित्थ॒णाम॒हं दे॒वाना॑मु॒त मर्त्या॑नां ।  
+> ताभ्या॑मि॒दं विश्व॒मेज॒त्समे॑ति॒ यदं॑त॒रा पि॒तरं॑ मा॒तरं॑ च ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वे इति । स्तुती इति । अशृणवं । पित्थाणां । अहं । देवानां । उत । मर्त्यानां ।  
+> ताभ्यां । इदं । विश्वं । एजत् । सं । एति । यत् । अंतरा । पितरं । मातरं । च ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितृणां देवानां चोतापि मर्त्यानां मनुष्याणां च द्वे स्रुती द्वौ
+> मार्गौ देवयानपितृयाणाख्यावहमशृणवं । अश्रौषं । यद्विश्वं पितरं पालकत्वेन
+> पितृभूतां द्यां मातरं च धारकत्वेन मातृभूतां पृथिवीं चांतरा द्यावापृथिवीमध्यॆ भवति तदिदं विश्वमग्निना संस्कृतं सदेजद्देवलोकं पितृलोकं च
+> गच्छत् ताभ्यां देवयानपितृयाणाख्याभ्यां मार्गाभ्यां समेति । गच्छति । तौ च
+> मार्गौ भगवता दर्शितौ ॥ भ. गी. ८-२४, २५, २६ ॥
+> अग्निर्ज्योतिरहःशुक्लः षण्मासा उत्तरायणं ।
+> तत्र प्रयाता गच्छंति ब्रह्म ब्रह्मविदो जनाः ॥
+> धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनं ।
+> तत्र चांद्रमसं ज्योतिर्योगी प्राप्य निवर्तते ॥
+> शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते ।
+> एकया यात्यनावृत्ति मन्यथा वर्तते पुनः ॥
+> नैते सृती पार्थ जानन्नोगी मुह्यति कश्चनेति ॥
+
+##### Gist of the bhāṣya
+
+Of the Pitṛs and the gods, and also of mortals, that is, men, I have heard two paths, called the way of the gods and the way of the Pitṛs. The whole of this world which is between the father, heaven, who is a father by being the protector, and the mother, earth, who is a mother by being the supporter, being purified by Agni, goes moving to the world of the gods and the world of the Pitṛs, and proceeds by those two paths, the way of the gods and the way of the Pitṛs. Those two paths were shown by the Blessed One (Bha. Gī. 8-24, 25, 26) **NOTE**: fire, light, day, the bright fortnight, the six months of the northern course; going there, the men who know Brahman reach Brahman. Smoke, night, likewise the dark fortnight, the six months of the southern course; going there the yogi attains the lunar light and returns. These bright and dark paths are held to be the eternal two of the world; by the one he goes to non-return, by the other he returns again. Knowing these two paths, O Pārtha, no yogi is deluded.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पित्थणां (*pitthaṇāṃ*)—for the Pitṛs
+- देवानां (*devānāṃ*)—for the gods
+- उत (*uta*)—and
+- मर्त्यानां (*martyānāṃ*)—for men
+- द्वे स्रुती (*dve srutī*)—that there are two paths, called the way of the gods and the way of the Pitṛs
+- अहं (*ahaṃ*)—
+
+### Printed p. 561
+
+  I
+- अशृणवं (*aśṛṇavaṃ*)—have heard
+- पितरं (*pitaraṃ*)—for the world of heaven
+- मातरं च (*mātaraṃ ca*)—and for the world of earth
+- अंतरा (*aṃtarā*)—which is between
+- यत् इदं विश्वं (*yat idaṃ viśvaṃ*)—this whole world, which it is, that
+- एजत् (*ejat*)—moving
+- ताभ्यां (*tābhyāṃ*)—only between these two paths
+- सं एति (*saṃ eti*)—moves about
+
+##### भावार्थ (Bhāvārtha)
+
+I have heard that for the Pitṛs, for the gods and also for men there are two paths, called the way of the gods and the way of the Pitṛs. This whole world, which lies between the world of heaven and the world of earth, moving, goes about only on these two paths.
+
+##### English translation
+I have heard that there are two paths for Pitris, gods and mortals ; all this universe which is between the paternal (heaven) and the maternal (earth) proceeds on its way by these two (paths).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Upaniṣads the words devayāna and pitṛyāna have a technical meaning. But in many places in the Ṛk-saṃhitā the word devayāna simply means the path along which the gods travel. Only in some places is the spiritual import described in the Upaniṣads also indicated.
+
+By the words devayāna and pitṛyāna in the Upaniṣads two paths are well known, along which, after the death of a man, when his body has become ashes, the eternal ātman travels. Of the paths along which one goes to enjoy the fruit of good works, one is devayāna and the other pitṛyāna. One is the path of the gods; the other is the path of the Pitṛs. Those who know the Pañcāgni-vidyā and place their faith in truth alone set out on the path of the gods and reach the Supreme Brahman. After their death the ātman enters the flame, and through it the day, the bright fortnight, the northern course, the year, the sun and the lightning, and through them, with the help of the non-human person, obtains the Supreme Brahman. This matter is described in the Upaniṣads in this way:
+
+ते य एवमेतद्विद्युरेचामि अरण्ये श्रद्धां सत्यमुपासते तेऽर्चिरभिसंभवंत्यर्चिषोऽहरह्न आपूर्यमाणपक्षमापूर्यमाणपक्षाद्यान्पण्हासान्नुदज्जादित्य एति मासेभ्यो देवलोकं देवलोकादादित्यमादित्याद्वैद्युतं तान्‌वैद्युतान्पुरुषो मानस एत्य ब्रह्मलोकान्नमयति (*te ya evametadvidyurecāmi araṇye śraddhāṃ satyamupāsate te 'rcirabhisaṃbhavaṃtyarciṣo 'harahna āpūryamāṇapakṣamāpūryamāṇapakṣādyānpaṇhāsānnudajjāditya eti māsebhyo devalokaṃ devalokādādityamādityādvaidyutaṃ tānvaidyutānpuruṣo mānasa etya brahmalokānnamayati*)
+
+### Printed p. 562
+
+तेषु ब्रह्मलोकेषु पराः परावशो वसंति तेषां न पुनरावर्तितिः ॥ (*teṣu brahmalokeṣu parāḥ parāvaśo vasaṃti teṣāṃ na punarāvartitiḥ ‖*)
+
+(Bṛ. U. 2-6-12)
+
+Having thus told that those who have reached the world of Brahman have no return, it then describes the nature of the pitṛyāna and the order of that path.
+
+अथ ये यज्ञेन दानेन तपसा लोकाञ्चयंति ते धूममभिसंभवंति धूमाद्रात्रिं रात्रेरपक्षीयमाणपक्षमपक्षीयमाणपक्षाद्यान्नष्टा सान्दक्षिणादित्य एति मासेभ्यः पितृलोकं पितृलोकाच्चंद्रं ते चंद्रं प्राप्तान्नं भवंति तांस्तत्र देवा यथा सोमं राजानमाप्याय............ते पृथीवीं प्राप्तान्नं भवंति ते पुनः पुरुषाग्नौ हूयंते..................एवमेवानुपरिवर्तंते ॥ (*atha ye yajñena dānena tapasā lokāñcayaṃti te dhūmamabhisaṃbhavaṃti dhūmādrātriṃ rātrerapakṣīyamāṇapakṣamapakṣīyamāṇapakṣādyānnaṣṭā sāndakṣiṇāditya eti māsebhyaḥ pitṛlokaṃ pitṛlokāccaṃdraṃ te caṃdraṃ prāptānnaṃ bhavaṃti tāṃstatra devā yathā somaṃ rājānamāpyāya............te pṛthīvīṃ prāptānnaṃ bhavaṃti te punaḥ puruṣāgnau hūyaṃte..................evamevānuparivartaṃte ‖*)
+
+(Bṛ. U. 6-2-16)
+
+Those who satisfy the world merely by sacrifice and by gifts and the like, that is, who without knowing the Pañcāgni-vidyā are devoted only to good works, travel after death by a different path. After the body has been burnt, the ātman unites with smoke, and then goes to the night, through it to the dark fortnight, through that to the southern course, then to the world of the Pitṛs and at last to the world of the moon. That is their final place. Having fully enjoyed in that world the fruits that correspond to their good works and having lived with the Pitṛs, as soon as the impression of their works is exhausted they return again to the earth by the same path of smoke. This is the nature of the devayāna and pitṛyāna described in the Upaniṣads.
+
+What we have to consider in the present context is this: whether the whole import described in the Upaniṣads, as explained above, is fully indicated by the word devayāna used in the Ṛk-saṃhitā, or whether it means merely the physical path along which the gods travel. In the same way, what meaning the word pitṛyāna described in the Upaniṣads has must also be examined in the present context.
+
+The word devayāna is used in all thirteen times in the Ṛk-saṃhitā. [1-72-7; 1-162-4: 1-18-3-6; 1-184-6; 4-37-1; 5-43-6; 7-38-8; 7-76-2; 10-18-1; 11 51-2; 10-51-5; 10.98-11; 10-181-3.] **NOTE** In all these contexts Sāyaṇa has given mainly only two meanings. According to his explanation, it means first the path along which the human sacrificers go with their oblations to approach the gods, and second the path along which the gods come to the earth to receive their oblations.
+
+### Printed p. 563
+
+The word pitṛyāna is used only once in the Ṛk-saṃhitā. The context in which it is used is this:
+
+यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान । पंथामनु प्रविद्वान् पितृयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna | paṃthāmanu pravidvān pitṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*)
+
+(Ṛ. Saṃ. 10-2.7)
+
+In this Ṛk it is prayed that Agni, who was kindled by heaven and earth, by the waters, by the creator and by Tvaṣṭṛ, and who has fully known the nature of the pitṛyāṇa, shine forth as soon as he is kindled. For this word, which stands in the third pāda of the Ṛk, the explanation of Sāyaṇa is पितृयाणं पितरो येन मार्गेण गच्छंति तं (*pitṛyāṇaṃ pitaro yena mārgeṇa gacchaṃti taṃ*): the path along which the Pitṛs travel is the meaning. The English scholars also accept and explain this same meaning.
+
+If devayāna is thus taken as the path along which the gods come for the oblation, and pitṛyāna as the path along which the Pitṛs travel, then, if it is asked how the spiritual import described in the Upaniṣads can be possible in these contexts, the import of the Ṛks cited below must be considered, and it must be decided whether this idea is expressed by those mantras.
+
+प्र मे पंथा देवयाना अदृश्रन्नमर्धंतो वसुभिरिष्कृतासः । अभूदु केतुरुषसः पुरस्तात्प्रतीच्यागादधि हर्मेभ्यः ॥ (*pra me paṃthā devayānā adṛśrannamardhaṃto vasubhiriṣkṛtāsaḥ | abhūdu keturuṣasaḥ purastātpratīcyāgādadhi harmebhyaḥ ‖*)
+
+(Ṛ. Saṃ. 7-76.2)
+
+को मा ददर्श कतमः स देवो यो मे तन्नो बहुधा पर्यपश्यत् । क्वाह मित्रावरुणा क्षियंत्यग्निर्विश्वाः समिधो देवयानीः ॥ ( (*ko mā dadarśa katamaḥ sa devo yo me tanno bahudhā paryapaśyat | kvāha mitrāvaruṇā kṣiyaṃtyagnirviśvāḥ samidho devayānīḥ ‖ (*)
+
+(Ṛ. Saṃ. 10-51-2)
+
+एहि मनुर्देवयुर्यज्ञकामोऽरंकृत्या तमसि क्षेप्यग्ने । सुगान्पथः कृणुहि देवयानान्वह हव्यानि सुमनस्यमानः ॥ (*ehi manurdevayuryajñakāmo 'raṃkṛtyā tamasi kṣepyagne | sugānpathaḥ kṛṇuhi devayānānvaha havyāni sumanasyamānaḥ ‖*)
+
+(Ṛ. Saṃ. 10-51-5)
+
+Of these Ṛks, the devayāna described in the first half of the first Ṛk has two attributes. First it is amardhantaḥ (not injuring), and second vasubhiḥ iṣkṛtāsaḥ (prepared by splendours). By these two attributes the nature of the devayāna is described. These attributes tell that it is a path that is not injured and that it is full of splendour. In the second half of the second mantra, when Agni questions Mitra and Varuṇa, who among the gods has known the endless form of Agni, which is full of splendour and which has the form of the devayāna
+
 ---
 
-**Progress note:** Done through printed p. 556. Vol 29 Sūkta 88 (Maṇḍala 10) Ṛk 6 end to Ṛk 12 Pada, pp. 550-556
+**Progress note:** Done through printed p. 563. Sukta 88 Rk 12 bhasya to Rk 15, Special Topics on devayana/pitryana, pp. 557-563
