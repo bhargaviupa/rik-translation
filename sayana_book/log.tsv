@@ -1,0 +1,23 @@
+sūkta	agent model	check	NOTEs	second reading by the agent	tokens
+1.2	sonnet	VERIFIED (form)	0	NO (agent: checked while writing only)	135991
+1.4	sonnet	VERIFIED (form)	2	NO (agent: only fixed rejected citations)	130167
+0.2 (bhūmikā part 2)	sonnet	VERIFIED (form)	27 (OCR)	yes (by reading)	137203
+1.3	sonnet	VERIFIED (form)	6	yes (agent says every unit re-read)	146665
+0.3 (bhūmikā part 3)	sonnet	VERIFIED (form)	45 (OCR)	NO (agent: one pass, fixed rejected citations only)	146737
+0.4 (bhūmikā part 4)	sonnet	VERIFIED (form)	20 (OCR)	yes (agent: against each unit)	155026
+1.1	sonnet	VERIFIED (form)	7	partly (agent: while drafting, no separate pass)	167487
+REVIEW 1.4	sonnet (independent reader)	VERIFIED (form)	43 units read; 11 changes in 10 units: 3 wrong sense, 2 wrong attachment, 1 dropped, 1 addition, 2 citation, 1 wording		128989
+0.1 (bhūmikā part 1)	sonnet	VERIFIED (form)	37 (OCR)	partly (agent: while composing, no separate pass)	170240
+REVIEW 1.2	sonnet (independent reader)	VERIFIED (form)	45 units read; 15 changes: 4 wrong sense, 1 wrong attachment, 3 dropped, 2 additions removed, 5 wording		142858
+VERIFY vs Vol 1: 0.2	sonnet	39 rows covering all 63 units: 32 consistent, 5 differs in detail, 2 contradicts (both were our errors, now fixed: verify/M0_S002_fixes.tsv), 0 not found			136848
+1.5	sonnet	VERIFIED (form)	3	yes (agent: separate pass, 1 sense correction + 16 citation fixes)	130240
+VERIFY vs Vol 1: 0.3	sonnet	37 rows covering units 114.1–125.7: 27 consistent, 10 differs in detail (mostly reference numbers; wording of damaged places), 0 contradicts, 0 not found			209726
+VERIFY vs Vol 1: 0.4	sonnet	36 rows covering units 126.1–137.5: 25 consistent, 10 differs in detail, 1 contradicts (0.4.128.2 indraśatru: Vol 1 contradicts itself; our English agrees with Vol 1 embedded English and with the Sanskrit logic; no change), 0 not found			206625
+REVIEW 1.3	sonnet (independent reader)	VERIFIED (form)	56 units read; 9 changes in 7 units: 2 dropped, 2 wrong sense, 1 wrong attachment, 1 addition, 3 wording (drafter had done its own re-read)		154545
+1.7	sonnet	VERIFIED (form)	1	yes (agent: separate pass, 1 content correction)	129927
+REVIEW 1.5	sonnet (independent reader)	VERIFIED (form)	41 units read; 14 changes: 7 dropped, 2 wrong sense, 1 wrong attachment, 4 wording (drafter had done a separate pass)		126238
+REVIEW 1.1	sonnet (independent reader)	VERIFIED (form)	50 units read; 15 changes: 3 wrong sense, 2 wrong attachment, 1 dropped, 2 additions removed, 4 citation (sense of cited roots added), 3 wording (drafter had no separate pass)		152406
+VERIFY vs Vol 1: 0.1	sonnet	43 rows covering all 82 units: 32 consistent, 9 differs in detail, 1 contradicts (0.1.95.1: Vol 1 Sanskrit has smṛti where the supplied text and Vol 1 own gloss say mantra; our English follows the Sanskrit; no change), 1 not found (0.1.95.2: Vol 1 has no printed pp. 372-373)			263647
+1.6	sonnet	VERIFIED (form)	1	yes (agent: about 20 content fixes in its own pass + 24 citation fixes)	180232
+REVIEW 1.7	sonnet (independent reader)	VERIFIED (form)	45 units read; 9 changes: 2 dropped, 2 wrong sense, 1 wrong attachment, 1 addition removed, 3 wording (drafter had done a separate pass)		130983
+REVIEW 1.6	sonnet (independent reader)	VERIFIED (form)	54 units read; 9 changes: 3 wrong sense, 2 wrong attachment, 2 dropped, 1 addition removed, 1 wording (drafter had done its own pass with about 20 fixes)		151333
