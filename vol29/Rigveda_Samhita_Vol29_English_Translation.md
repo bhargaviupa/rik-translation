@@ -10034,6 +10034,326 @@ Because the goddess Uṣas took part in the contest with slightly red bulls yoke
 
 (Ai. Brā. 17-9) **GLOSS**
 
+### Printed p. 381
+
+Indra came to the contest seated in chariots yoked with horses, and from the neighing of those horses and the sound of their hooves a very loud noise arose. It is known to everyone that in the world a king who sets out for battle seated in a chariot yoked with horses is followed, behind and in front, for his protection, by his servants also, seated on horses, and that at such a time a mighty noise arises from the neighing of the horses and the sound of their hooves. In the same way a mighty noise arose from the horses of Indra's chariot. Therefore Indra is the emblem of the Kṣatriya, that is, the form of the king.
+
+गर्दभरथेनाश्विना उदजयतामश्विनावाश्नुवातां यदश्विना उदजयतामश्विनावाश्नुवातां तस्मात्स सृतजवो दुग्धदोहः सर्वेषामेतर्हि वाहनानामनाशिष्टो रेतसस्त्वस्य वीर्यं नाहरतां तस्मात्स द्विरेता वाजी ॥ (*gardabharathenāśvinā udajayatāmaśvināvāśnuvātāṃ yadaśvinā udajayatāmaśvināvāśnuvātāṃ tasmātsa sṛtajavo dugdhadohaḥ sarveṣāmetarhi vāhanānāmanāśiṣṭo retasastvasya vīryaṃ nāharatāṃ tasmātsa dviretā vājī ‖*) (Ai. Brā. 17-9)
+
+The Aśvin deities came to the contest seated in their chariot yoked with donkeys, drove their chariot swiftly and won the victory in the contest. But because, in their eagerness to win, they drove the chariot at the utmost speed, the donkeys yoked to the chariot became weary and worn out from running so fast. Their (the donkeys') power of yielding milk grew less. Among the animals used for conveyance, such as the elephant and the horse, the donkey's gait became the slowest of all. Therefore even now the donkey goes very slowly. But by the favour of the Aśvin deities the donkey's seed, that is, its power of producing young, did not diminish; it must be said that in one respect it increased. For the offspring of this animal multiplies in both ways, with horse and with donkey: from the union of a donkey and a horse the mule is born, and from the union of donkeys ordinary donkeys are born. This twofold power of seed belongs to the donkey.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ वधू॒युर॑भवद॒श्विना॑स्तामु॒भा व॒रा ।  
+> सू॒र्यां यत्पत्ये॒ शंसं॑तीं॒ मन॑सा सवि॒ताद॑दात् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । वधूयुः । अभवत् । अश्विना । आस्तां । उभा । वरा ।  
+> सूर्यां । यत् । पत्ये । शंसंतीं । मनसा । सविता । अददात् । ९ ॥
+
+### Printed p. 382
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमो वधूयुर्वधूकामो वरोऽभवत् । तस्मिन्समयेऽश्विनाश्विनावुभोभौ वरा वरावास्तां । अभूतां । यद्यदा सूर्यां पत्ये शंसंतीं पतिं
+> कामयमानां । पर्याप्तयौवनामित्यर्थः । सूर्यां मनसा सहिताय
+> सोमाय वराय सविता तत्पिताददात् प्रादात् दित्सां चकार ॥
+
+##### Gist of the bhāṣya
+
+Soma, desiring a bride, became the bridegroom. At that time the two Aśvins both became his groomsmen. When Savitṛ, Sūryā's father, gave Sūryā to Soma the bridegroom, who was endowed with mind, he formed the wish to give her, that is, he gave her. Sūryā was longing for a husband, which means that she had reached full youth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पत्ये शंसंतीं (*patye śaṃsaṃtīṃ*)—who wished to obtain a husband
+- सूर्यां (*sūryāṃ*)—Sūryā
+- सविता (*savitā*)—Savitṛ
+- मनसा (*manasā*)—to Soma, who was endowed with mind
+- अददात् (*adadāt*)—gave, then
+- उभा अश्विना (*ubhā aśvinā*)—the two Aśvin deities
+- वरा (*varā*)—as grooms
+- आस्तां (*āstāṃ*)—were
+- सोमः (*somaḥ*)—Soma
+- वधूयुः (*vadhūyuḥ*)—filled with the desire to obtain a bride
+- अभवत् (*abhavat*)—was
+
+##### भावार्थ (Bhāvārtha)
+
+Soma was filled with the desire to obtain a bride. When Savitṛ gave Sūryā, who longed to obtain a husband, to Soma, who was endowed with mind, the two Aśvin deities were the grooms.
+
+##### English translation
+Soma was desirous of a bride; the two Aswins were the two grooms-men were Savitri gave Surya, who was ripe for a husband, (to Soma endowed) with intelligence. **NOTE**
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनो॑ अस्त्या॒ अन॑ आसी॒द्दौ रा॑सीदु॒त च्छ॒दिः ।  
+> शु॒क्राव॑न॒ड्वाहा॑वास्तां॒ यदया॑त्सू॒र्या गृ॒हं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनः । अस्माः । अनः । आसीत् । द्यौः । आसीत् । उत । छदिः ।  
+> शुक्रौ । अनड्वाहौ । आस्तां । यत् । अयात् । सूर्या । गृहं ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याः सूर्यायाः पत्युगृहं गच्छंत्या अनो रथो मन आसीत् । या
+> पतिगृहं त्वया गच्छामीति मतिरस्ति सान आसीत् । उतापि च तस्या अनसो द्यौर्द्यु-
+
+##### Gist of the bhāṣya
+
+When Sūryā went to her husband's house, her cart was her mind: the thought "I go to the husband's house with you" was the cart. And of that cart the sky-world, the heaven, was the covering, the upper cover.
+
+### Printed p. 383
+
+> लोकश्चदिरुपर्यपिधानमासीत् । शुक्रौ दीप्तौ सूर्याचंद्रमसावनड्वाहौ रथस्य
+> वोढारावास्तां । अभवतां । यद्यदा सूर्या गृहं सोममयात् अगात् ॥
+
+##### Gist of the bhāṣya
+
+The two shining ones, the sun and the moon, were the two oxen, the bearers of the chariot, when Sūryā went to Soma's house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सूर्या (*sūryā*)—Sūryā
+- गृहं (*gṛhaṃ*)—to Soma's house
+- अयात् (*ayāt*)—went
+- मनः (*manaḥ*)—the mind
+- अस्याः (*asyāḥ*)—her
+- अनः (*anaḥ*)—as the cart
+- आसीत् (*āsīt*)—was
+- उत (*uta*)—and
+- द्यौः (*dyauḥ*)—the heaven-world
+- वधिः (*vadhiḥ*)—as the covering above **NOTE**
+- आसीत् (*āsīt*)—was
+- शुक्रा (*śukrā*)—the radiant sun and moon
+- अनड्वाह् (*anaḍvāh*)—as the oxen that draw the chariot
+- आस्तां (*āstāṃ*)—were
+
+##### भावार्थ (Bhāvārtha)
+
+When Sūryā went to her husband's house, the mind was her chariot. The heaven-world was the covering above. The radiant sun and moon were the oxen that draw the chariot.
+
+##### English translation
+Mind was her chariot, and heaven was the covering, the two shining (orbs) were the oxen when Surya went to (her husband's) dwelling.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒क्सा॒माभ्या॑म॒भिहि॑तौ॒ गावौ॑ ते साम॒ुनावि॑तः ।  
+> शोत्रं॑ ते च॒क्रे अ॑स्तां दि॒वि पंथा॑श्चराच॒रः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यक् सामान्याभ्यां । अभिहितौ । गौवौ । शे । सामनौ । इतः ।  
+> शोत्रं । ते । चक्रे इति । आस्तां । दिवि । पंथाः । चराचरः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्ये देवि ते तवर्क्षामाभ्यामभिधानीस्थानाभ्यामभिहितौ गावौ
+> गोस्थानीयौ सूर्याचंद्रमसौ सामनौ सामानौ संतावितः । गच्छत । अनोवाहौ
+> पत्युगृहं प्रति गच्छतः । ते तव श्रोत्रं । श्रोते इत्यर्थः । वरस्य गुणग्राहिणी
+> श्रोत्रे एव चक्रे आस्तां । मनोरूपस्य रथस्य श्रोत्रे चक्रे अभवतामित्यर्थः
+
+##### Gist of the bhāṣya
+
+O goddess Sūryā, your two oxen, the sun and the moon, which stand in the place of oxen, are bound by the Ṛk and the Sāman, which take the place of the halters, and they go together, drawing the cart towards the husband's house. Your ear, that is, your two ears, which take in the qualities of the bridegroom, became the two wheels of the chariot that was mind.
+
+### Printed p. 384
+
+> दिवि पंथाश्च राचरश्च लाचलोऽत्यंतं गमनसाधभूतो मार्गोऽभूत् । रथसंचारप्रदेशो द्युलोक आसीत् ॥
+
+##### Gist of the bhāṣya
+
+The path in the heaven, which is moving about greatly **NOTE**, became the road that is the means of going; the region of the chariot's travel was the heaven-world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋक्सामाभ्यां (*ṛksāmābhyāṃ*)—by the Ṛk and the Sāman, which are like yokes (O goddess Sūryā)
+- अभिहितौ (*abhihitau*)—bound to the chariot and driven
+- ते गावौ (*te gāvau*)—your oxen, in the form of the sun and the moon
+- सामनौ (*sāmanau*)—evenly
+- इतः (*itaḥ*)—are going
+- ते (*te*)—your
+- श्रोत्रं (*śrotraṃ*)—ears
+- चक्रे (*cakre*)—as the chariot wheels
+- आस्तां (*āstāṃ*)—have become
+- चराचरः (*carācaraḥ*)—which is the means of movement
+- पंथाः (*paṃthāḥ*)—the path
+- दिवि (*divi*)—is in the heaven-world
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sūryā, the oxen in the form of the sun and the moon, bound to the chariot and driven by the Ṛk and the Sāman, which are like yokes, are going evenly. Your ears have become the chariot wheels. The path, the means of movement, is in the heaven-world.
+
+##### English translation
+Those two oxen yoked by the Rich and the Saman march equally; the two wheels were your ears; the moving path (was) in haavan. **NOTE**
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुची॑ ते च॒क्रे या॒त्या व्या॒नो अक्ष॒ आह॑तः ।  
+> अनो॑ मन॒स्मयं॑ सू॒र्यारो॑हत्पय॒ती पतिं॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुची इति । ते । चक्रे इति । यात्याः । विआनः । अक्षः । आहतः ।  
+> अनः । मनस्मयं । सूर्या । आ । अरोहत् । प्रयती । पतिं ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यात्या गच्छंत्यास्ते तवानसश्चक्रे चक्रमणशीले रथांगे शुची श्रोत्रे
+> आस्तां । व्यानस्तव व्यानो वायुरक्षः । उभयरथचक्रच्छिद्रगामिनी या काष्ठा
+> सा च रथस्य सर्वं भारं वहति । सोऽक्षो व्यानोऽभूत् । मनस्मयं मनोमयमनः शकटं सूर्या पतिं सोमं प्रति प्रयती प्रकर्षेण गच्छंत्यारोहत् ।
+
+##### Gist of the bhāṣya
+
+As you went, the two wheels of your cart, the revolving parts of the chariot, were the two pure ones, the two ears. Your Vyāna, the wind, was the axle: that beam which runs through the holes of both chariot wheels and bears the whole load of the chariot, that axle was Vyāna. Sūryā, going forth to her husband Soma, mounted the cart made of mind.
+
+### Printed p. 385
+
+> आरूढवती । पतिं प्रति जिगमिषोर्मनोरूपस्य रथस्य पत्युर्गुणश्राविणी श्रोत्रे
+> एव चक्रे अभूतां व्यानो धारको वायुश्चेष्टकोऽक्षोभूदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The chariot of mind, belonging to her who longed to go to her husband, had for its two wheels the two ears that listen to the husband's qualities; Vyāna, the supporting wind, the one who sets things in motion, became the axle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यात्या (*yātyā*)—as you went to your husband's house (O goddess Sūryā)
+- ते (*te*)—your
+- शुची (*śucī*)—the hearers **NOTE**
+- चक्रे (*cakre*)—were the chariot wheels
+- व्यानः (*vyānaḥ*)—the wind
+- अक्षः आहतः (*akṣaḥ āhataḥ*)—bore the load as a firm axle-support **NOTE**
+- सूर्या (*sūryā*)—Sūryā
+- पतिं (*patiṃ*)—to Soma, her husband
+- प्रयती (*prayatī*)—while going
+- मनस्मयं (*manasmayaṃ*)—made of mind
+- अनः (*anaḥ*)—the cart
+- आरोहत् (*ārohat*)—mounted
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sūryā, as you went to your husband's house, your ears became the chariot wheels. The wind bore the load as a firm axle-support. Sūryā, going to her husband Soma, mounted the cart made of mind.
+
+##### English translation
+The two swift-moving wheels were your pure (cars), Vayu was the fastened axle, Surya mounted thc chariot of the Mind, going to her lord. **NOTE**
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सू॒र्याया॑ वह॒तुः प्रागा॑त्सवि॒ता यम॒नासृ॑जत् ।  
+> अ॒घासु॑ हन्यंते॒ गावोर्जु॑न्र्योः॒ पर्यु॑ह्यते ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यायाः । वहतुः । प्र । अगात् । सविता । यं । अव्यअसृजत् ।  
+> अघासु । हन्यंते । गावः । अर्जुन्नोः । परि । उह्यते ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमाय प्रदित्सितायाः सूर्याया वहतुः । कन्याप्रियार्थं दातव्यो
+> गवादिपदार्थो वहतुः । स च प्रागात् ! तस्या अपि पूर्वमगच्छत् । यं वहतुं
+> सवितास्याः पितावासृजत् अवसृष्टवान् । प्रादादित्यर्थः । कदा सागच्छत् कदा
+> xxix 25
+> xxix 25
+
+##### Gist of the bhāṣya
+
+The vahatu is the gift of cows and the like, to be given for the pleasure of the bride; here it is that of Sūryā, who was to be given to Soma. It went forward, that is, it went even before her: the vahatu which her father Savitṛ sent out, which means that he gave it. The text then asks when she went and when the vahatu went.
+
+### Printed p. 386
+
+> वहतुरित्युभयोः काल उच्यते । अघासु । मघास्वित्यर्थः । मघानक्षत्रेषु गावः
+> सवित्रा दत्ता गावः सोमगृहं प्रति हन्यंते । दंडैस्ताड्यंते प्रेरणार्थं ।
+> अर्जुन्नोः । फल्गुन्नोरित्यर्थः । तयोर्नक्षत्रयोः सवितुः सकाशात् परि सोमगृहं प्रत्युह्यते । नीयते रथेन ॥
+
+##### Gist of the bhāṣya
+
+The times of both are stated. अघासु (*aghāsu*) means in the Maghā constellations: the cows given by Savitṛ are driven to Soma's house; they are struck with sticks to urge them on. अर्जुन्नोः (*arjunnoḥ*) means of the two Phalgunī constellations: in those two constellations, from Savitṛ's side, she is carried to Soma's house by chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरायाः (*sūrāyāḥ*)—for Sūryā, who goes to her husband's house
+- यं (*yaṃ*)—which wedding-gifts of cows and other wealth
+- सविता (*savitā*)—the Sun
+- अवासृजत् (*avāsṛjat*)—sent forth first
+- वहतुः (*vahatuḥ*)—the procession of those wedding-gifts
+- प्रागात् (*prāgāt*)—set out in front of the goddess Sūryā
+- गावः (*gāvaḥ*)—the cows sent by the Sun
+- अघासु (*aghāsu*)—in the groups of the Maghā constellations
+- हन्यंते (*hanyaṃte*)—are urged to go forward
+- सूर्या (*sūryā*)—Sūryā
+- अर्जुन्नोः परि (*arjunnoḥ pari*)—in the groups of the Phalgunī constellations (through them)
+- उह्यते (*uhyate*)—is carried to her husband's house
+
+##### भावार्थ (Bhāvārtha)
+
+The procession of the wedding-gifts of cows and other wealth, which the Sun sent forth first for Sūryā as she goes to her husband's house, came even before the goddess Sūryā. The cows sent by the Sun are urged to go forward in the groups of the Maghā constellations. Sūryā is carried to her husband's house through the groups of the Phalgunī constellations.
+
+##### English translation
+Surya's bridal procession which Savitri despatched has advanced, the oxen are whipped along in the Magha (constellations); she is borne (to her husband's house) in the Arjuni (constellations).
+
+##### विशेषविषयगळु (Special Topics)
+
+वहतुः (*vahatuḥ*)—कन्याप्रियार्थं दातव्यो गवादिपदार्थो वहतुः । (*kanyāpriyārthaṃ dātavyo gavādipadārtho vahatuḥ |*) At the time of marriage, the cows, ornaments and other articles, garments, male and female servants and so on, which the father gives as a wedding-gift for his daughter.
+
+अघासु (*aghāsu*), अर्जुन्योः (*arjunyoḥ*)—the commentator has explained these words as the Maghā constellation and the Phalgunī constellation. It is said in the Taittirīya Saṃhitā that there are in all twenty-seven groups of constellations and that various deities preside over them.
+
+कृत्तिकानक्षत्रमग्निर्देवताग्नेरुचः स्थ प्रजापतेर्धातुः सोमस्यर्चॆ त्वा रुचे त्वा द्युते त्वा भासे त्वा ज्योतिषे त्वा (*kṛttikānakṣatramagnirdevatāgnerucaḥ stha prajāpaterdhātuḥ somasyarcè tvā ruce tvā dyute tvā bhāse tvā jyotiṣe tvā*)
+
+रोहिणीनक्षत्रं प्रजापतिर्दे- वता मृगशीर्षं नक्षत्रग्ं सोमो देवतार्दा नक्षत्रग्ं रुद्रो देवता पुनर्वसूनक्षत्रमदितिर्देवता तिषोनक्षत्रं बृहस्पतिर्देवताश्रेषानक्षत्रग्ं सर्पा देवता मघानक्षत्रं पितरो देवता फल्गुनीनक्षत्रमर्यमा देवता फल्गुनीनक्षत्रं भगो देवता हस्तो नक्षत्रग्ं सविता देवता चित्रानक्षत्रमिंद्रो देवता स्वातीनक्षत्रं वायुर्देवता विशाखे नक्षत्रमिंद्राग्नी देवतानूराधा नक्षत्रं मित्रो देवता (*rohiṇīnakṣatraṃ prajāpatirde- vatā mṛgaśīrṣaṃ nakṣatragṃ somo devatārdā nakṣatragṃ rudro devatā punarvasūnakṣatramaditirdevatā tiṣonakṣatraṃ bṛhaspatirdevatāśreṣānakṣatragṃ sarpā devatā maghānakṣatraṃ pitaro devatā phalgunīnakṣatramaryamā devatā phalgunīnakṣatraṃ bhago devatā hasto nakṣatragṃ savitā devatā citrānakṣatramiṃdro devatā svātīnakṣatraṃ vāyurdevatā viśākhe nakṣatramiṃdrāgnī devatānūrādhā nakṣatraṃ mitro devatā*)
+
+रोहिणीनक्षत्रमिंद्रो देवता विचृत् नक्षत्रं पितरो देवताषाढा नक्षत्रमापो देवताषाढा नक्षत्रं विश्वेदेवा देवता श्रोणानक्षत्रं विष्णुर्देवता श्रविष्ठानक्षत्रं वसवो देवता शतभिषङ्नक्षत्रमिंद्रो देवता प्रोष्ठ पदानक्षत्रमजएकपाद्देवता प्रोष्ठपदानक्षत्रमहिर्बुधियो देवता रेवती नक्षत्रं पूषा देवताश्वयुजौ नक्षत्रमश्विन् देवतापभरणीर्नक्षत्रं यमो देवता पूर्णा पश्चाद्यत्ते देवा अदधुः ॥ (*rohiṇīnakṣatramiṃdro devatā vicṛt nakṣatraṃ pitaro devatāṣāḍhā nakṣatramāpo devatāṣāḍhā nakṣatraṃ viśvedevā devatā śroṇānakṣatraṃ viṣṇurdevatā śraviṣṭhānakṣatraṃ vasavo devatā śatabhiṣaṅnakṣatramiṃdro devatā proṣṭha padānakṣatramajaekapāddevatā proṣṭhapadānakṣatramahirbudhiyo devatā revatī nakṣatraṃ pūṣā devatāśvayujau nakṣatramaśvin devatāpabharaṇīrnakṣatraṃ yamo devatā pūrṇā paścādyatte devā adadhuḥ ‖*)
+
+### Printed p. 387
+
+(Tai. Saṃ. 4-4-10-1, 2, 3) **GLOSS**
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑श्विना पृ॒च्छमा॑ना॒वया॑तं त्रिच॒क्रेण॑ वह॒तुं सू॒र्यायाः॑।  
+> विश्वे॑ दे॒वा अनु॒ तद्वा॑मजानन्पु॒त्रः पि॒तरा॑ववृणीत पू॒षा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यात् । अश्विना । पृच्छमानौ । आयातं । त्रिचक्रेण। वहतुं । सूर्यायाः ।  
+> विश्वे । देवाः । अनु । तत् । वां । अजानन् । पुत्रः । पितरा । अवृणीत । पूषा ॥१४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् यद्यदा पृच्छमानौ सवितारं प्रष्टुमयातं अगच्छतं। केन
+> साधनेनायातं तदुच्यते । त्रिचक्रेण चक्रत्रययुक्तेन रथेन । किं पृच्छमानौ ।
+> सूर्याया वहतुं । विवाहमित्यर्थः । तत्तदानीं नां युवां सवितारं प्रति
+> गच्छंतौ विश्वे सर्वे देवा अन्वजानन् । अनुज्ञातवंतः । तथा पितरौ पुत्रोऽश्विनोः
+> पुत्रः पूषावृणीत । वृतवान् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, when you went to ask Savitṛ, by what means did you go? That is stated: with a three-wheeled chariot, that is, a chariot having three wheels. What were you going to ask? Sūryā's vahatu, which means the marriage. Then, as you two went to Savitṛ, all the gods gave their assent **NOTE**. And Pūṣan, the Aśvins' son, chose them as parents.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यत् (*yat*)—when
+- सूर्यायाः (*sūryāyāḥ*)—Sūryā's
+- वहतुं (*vahatuṃ*)—the question of the marriage
+- पृच्छमानौ (*pṛcchamānau*)—for the sake of asking
+- त्रिचक्रेण (*tricakreṇa*)—with three wheels
+
 ---
 
-**Progress note:** Done through printed p. 380. Special topics: stomas, Ashvina-shastra, Surya's wedding contest (Ai. Bra. 17)
+**Progress note:** Done through printed p. 387. Ṛk 9-14 of Sūkta 85 (Sūryā's wedding), pp. 381-387
