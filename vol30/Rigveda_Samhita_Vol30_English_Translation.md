@@ -40333,6 +40333,278 @@ May Indra, gratified with a firm oblation, make this consecrated king firm, stea
 - तस्मै उ (*tasmai u*)—to this king too
 - ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati, guardian of the mantra, also may speak beneficial words
 
+### Printed p. 1173
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, gratified by the firm oblation, establish this anointed king so that he stays firm in his kingdom. May Soma, and Brahmaṇaspati the guardian of the mantras, speak words of good to this king and comfort him.
+
+##### English translation
+May Indra, gratified by the perpetual oblation, firmly establish this (prince); may Soma, may Brahmanaspati address him (as their votary).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वासः॒ पर्व॑ता इ॒मे ।  
+> ध्रु॒वं विश्व॑मि॒दं जग॑द्ध्र॒वो राजा॑ वि॒शाम॒यं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्रुवा । द्यौः । ध्रुवा । पृथिवी । ध्रुवासः । पर्वताः । इमे ।  
+> ध्रुवं । विश्वं । इदं । जगत् । ध्रुवः । राजा । विशां । अयं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यौर्ध्रुवा स्थिरा भवति । पृथिवी च ध्रुवा स्थिरा भवति । इमे दृश्यमानाः
+> पर्वता महीधराश्च ध्रुवासः स्थिराः । इदं विश्वं सर्वं जगद्भुवं स्थिरं भवति ।
+> एवमेवायं विशां प्रजानां राजा स्वामी सन् ध्रुवः स्थिरो भवतु ॥
+
+##### Gist of the bhāṣya
+
+Heaven is firm, that is, steadfast; the earth too is firm. These visible mountains, the earth-bearers, are firm. This whole world, all that moves, is firm. In the same way let this king, being lord of the विशां (*viśāṃ*) (the people), be firm and steadfast.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यौः (*dyauḥ*)—the heavenly world
+- ध्रुवा (*dhruvā*)—is firm
+- पृथिवी (*pṛthivī*)—this earth
+- ध्रुवा (*dhruvā*)—is firm indeed
+- इमे पर्वताः (*ime parvatāḥ*)—these mountains before us
+- ध्रुवासः (*dhruvāsaḥ*)—are firm
+- विश्वं (*viśvaṃ*)—entire
+- इदं जगत् (*idaṃ jagat*)—this world
+- ध्रुवं (*dhruvaṃ*)—is firm (in this very manner)
+- अयं (*ayaṃ*)—this king
+- विशां (*viśāṃ*)—to the subjects
+- राजा (*rājā*)—as lord
+- ध्रुवः (*dhruvaḥ*)—let him be firm
+
+##### भावार्थ (Bhāvārtha)
+
+This heaven, the earth, these mountains, this whole world are firm. Likewise let this king, the protector of his subjects, be firm.
+
+### Printed p. 1174
+
+##### English translation
+Firm is the heaven, firm is the earth, firm are these mountains, firm is this entire world, so may this king of men be firm.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वं दे॒वो बृह॒स्पतिः॑ ।  
+> ध्रु॒वं त॒ इंद्र॑श्चा॒ग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्रुवं । ते । राजा । वरुणः । ध्रुवं । देवः । बृहस्पतिः ।  
+> ध्रुवं । ते । इंद्रः । च । अग्निः । च । राष्ट्रं । धारयतां । ध्रुवं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् ते तव राष्ट्रं राजा राजमानो वरुणो ध्रुवं स्थिरं धारयतु ।
+> देवो दानादिगुणयुक्तो बृहस्पतिर्ध्रुवं धारयतु । इंद्रश्चाग्निश्चोभावपि ते तव
+> राष्ट्रं ध्रुवं स्थिरं धारयतां । इंद्राग्नोरुभयोरपेक्षया ध्रुवशब्दस्य द्विः
+> प्रयोगः ॥
+
+##### Gist of the bhāṣya
+
+O king, let Varuṇa, the shining king, hold your kingdom firm. Let the divine Bṛhaspati, endowed with the qualities of generosity and the like, hold it firm. Let Indra and Agni, both of them, hold your kingdom firm. The word ध्रुव (*dhruva*) is used twice with regard to the two, Indra and Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O king) ते (*te*)—your
+- राष्ट्रं (*rāṣṭraṃ*)—kingdom
+- राजा (*rājā*)—the shining
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- ध्रुवं (*dhruvaṃ*)—let him hold so that it be firm
+- देवः (*devaḥ*)—endowed with generosity and other qualities
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- ध्रुवं (*dhruvaṃ*)—let him make firm
+- इंद्रः च (*iṃdraḥ ca*)—Indra
+- अग्निः च (*agniḥ ca*)—and Agni, both
+- ते राष्ट्रं (*te rāṣṭraṃ*)—your kingdom
+- ध्रुवं (*dhruvaṃ*)—so that it be firm
+- धारयतां (*dhārayatāṃ*)—let them hold
+
+##### भावार्थ (Bhāvārtha)
+
+(O king) may the shining Varuṇa, Bṛhaspati endowed with generosity and other qualities, and Indra and Agni hold and protect your kingdom so that it remains firm.
+
+##### English translation
+May the royal Varuna, the divine Brihaspati, may Indra and Agni ever give stability to your kingddom.
+
+### Printed p. 1175
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॒भि सोमं॑ मृशामसि ।  
+> अथो॑ त॒ इंद्रः॒ केव॑ली॒र्विशो॑ बलि॒हृत॑स्करत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ध्रुवं । ध्रुवेण । हविषा । अभि । सोमं । मृशामसि ।  
+> अथो इति । ते । इंद्रः । केवलीः । विशः । बलिहृतः । करत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ध्रुवेण स्थिरेण हविषा पुरोडाशादिना युक्तं ध्रुवं स्थिरं सोममभि
+> मृशामसि । अभिमृशामः । देवतामभिलक्ष्य यागार्थं वयमृत्विजः संस्पृशामः ।
+> अथो अथानंतरमेवेंद्रो विशः प्रजास्ते तनैव केवलीरसाधारणाः सतीर्बलिहृतः
+> करस्य प्रदात्रीः करत् । करोतु ॥
+
+##### Gist of the bhāṣya
+
+We touch the firm Soma, accompanied by a firm oblation such as the puroḍāśa. Having the deity in view, we priests touch it for the sacrifice. Then Indra makes your subjects wholly yours, not shared with others, payers of the tax (बलिहृतः (*balihṛtaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्रुवेण (*dhruveṇa*)—that which is firm
+- हविषा (*haviṣā*)—that which is accompanied by an oblation such as the puroḍāśa
+- ध्रुवं (*dhruvaṃ*)—and firm
+- सोमं (*somaṃ*)—the Soma juice
+- अभि मृशामसि (*abhi mṛśāmasi*)—we touch
+- अथो (*atho*)—afterwards
+- इंद्रः (*iṃdraḥ*)—Indra
+- विशः (*viśaḥ*)—the subjects
+- ते केवलीः (*te kevalīḥ*)—devoted to you alone
+- बलिहृतः (*balihṛtaḥ*)—giving you taxes and the like (revenue)
+- करत् (*karat*)—let him make
+
+##### भावार्थ (Bhāvārtha)
+
+We priests touch, for the sacrifice, the firm Soma that is accompanied by a firm oblation such as the puroḍāśa. Afterwards may Indra grant that the subjects offer you loyalty to the king and tributes such as taxes.
+
+##### English translation
+With a constant oblation we handle the constant Soma ; therefore may Indra render your subject people payers of (their) taxes.
+
+### Printed p. 1176
+## Sūkta 174 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभीवर्तेनेति पंचर्चं त्रयोविंशं सूक्तमांगिरसस्याभीवर्ताख्यस्यार्षमानुष्टुभं । पूर्ववद्राजस्तुतिर्देवता । तथा चानुक्रांतं । अभीवर्तेन पंचाभीवर्त इति ॥ पुरोहित इदं सूक्तं राजानं युद्धाय कृतसंनाहं वाचयीत ।
+> सूत्रते हि । अथैनं सारयमाणमुपारुह्याभीवर्तं वाचयति । आ. गृ. ३-१२-१२ ।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अभीवर्तेन (*abhīvartena*) has five Ṛks and is the twenty-third sūkta. Its seer is Abhīvarta of the Āṅgirasa line; its metre is Anuṣṭubh; as before, the praise of the king is the deity. The Anukramaṇī says: अभीवर्तेन पंचाभीवर्त इति॥ (*abhīvartena paṃcābhīvarta iti‖*). The purohita should have the king, equipped for battle, recite this sūkta. For it is prescribed: अथैनं सारयमाणमुपारुह्याभीवर्तं वाचयति (*athainaṃ sārayamāṇamupāruhyābhīvartaṃ vācayati*) (Ā. Gṛ. 3-12-12).
+
+##### Anuvāda
+
+This sūkta अभीवर्तेन (*abhīvartena*) is the twenty-third sūkta in the twelfth anuvāka. It has five Ṛks. Its seer is Abhīvarta of the Aṅgirasa gotra; as in the previous sūkta, its deity is the praise of the king; its metre is Anuṣṭup. In the Anukramaṇī it is said: Abhīvarta, with अभिवर्तेन (*abhivartena*), five. When the king sets out ready for battle, the purohita should have him recite this sūkta. This is set out in the Āśvalāyana Gṛhya sūtra अथैनं सारयमाणमुपारुह्याभीवर्तं वाचयति (*athainaṃ sārayamāṇamupāruhyābhīvartaṃ vācayati*) (Ā. Gṛ. 3-12-12).
+
+Sūkta 174
+Maṇḍala 10; Anuvāka 12; Sūkta 174.
+Aṣṭaka 8; Adhyāya 8; Varga 32.
+Number of Ṛks in the sūkta: 5.
+Ṛṣi: Abhīvarta.
+Devatā: praise of the king.
+Chandas: Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी॒व॒र्तेन॑ ह॒विषा॒ यॆनेंद्रो॑ अभिवावृ॒ते ।  
+> तेना॒स्मान्ब्र॑ह्मणस्पते॒ऽभि रा॒ष्ट्राय॑ वर्तय ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिवर्तेन । हविषा । येन । इंद्रः । अभिववृते ।  
+> तेन । अस्मान् । ब्रह्मणः । पते । अभि । राष्ट्राय । वर्तय ।
+
+### Printed p. 1177
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभीवर्तेन अभिगच्छत्यनेनेत्यभीवर्तः ॥ करणे घञ् । थाथादिस्वरेणोत्तरपदांतोदात्तत्वं । उपसर्गस्य घञ्यामनुष्ये बहुलं । पा. ६-३-१२२ । इति दीर्घः ॥
+> ईदृशेन येन हविषा साधनेनेंद्रोऽभिववृते सर्वमभिजगाम तेन हविषेष्टवतोऽस्मान् हे ब्रह्मणसस्पते राष्ट्राय राज्यं प्राप्तमभि वर्तय । अभिगमय ॥
+
+##### Gist of the bhāṣya
+
+अभीवर्त (*abhīvarta*) is that by which one goes toward (an object). By such an oblation, as the means by which Indra went over everything, do you, O Brahmaṇaspati, bring us, who have sacrificed with that oblation, to the kingdom, that is, to sovereignty obtained; make us approach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभीवर्तेन (*abhīvartena*)—called Abhīvarta, or offered by me, Abhīvarta
+- येन हविषा (*yena haviṣā*)—by which oblation
+- इंद्रः (*iṃdraḥ*)—Indra
+- अभिववृते (*abhivavṛte*)—conquered everything
+- तेन (*tena*)—offering with that oblation
+- अस्मान् (*asmān*)—us
+- ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati
+- राष्ट्राय (*rāṣṭrāya*)—for the attainment of kingship
+- अभि वर्तय (*abhi vartaya*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Brahmaṇaspati, by that oblation called Abhīvarta, through which Indra became able to conquer the entire world, make us who offer with that oblation eager to exert ourselves for the attainment of the kingdom.
+
+##### English translation
+By the abhivarta oblation, whereby Indra has conquered (everything) do you, O Brahmanaspati, bring us to sovereign rule.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि॒वृत्य॑ स॒पत्ना॑ न॒भि या नो॒ अरा॑तयः ।  
+> अ॒भि पृ॑त॒न्यंतं॑ तिष्ठा॒भि यो न॑ इर॒स्यति॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिवृत्य । सपत्नान् । अभि । याः । नः । अरातयः ।  
+> अभि । पृतन्यंतं । तिष्ठ । अभि । यः । नः । इरस्यति ॥ २ ॥
+
+### Printed p. 1178
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् सपत्नान् शत्रून् अभिवृत्य अभितो गमयित्वा नः अस्माकं याः
+> अरातयः अदानशीलाः प्रजाः संति ता अपि अभि तिष्ठ अभिभव । पृतन्यंतं पृतनाः सेना
+> आत्मन इच्छंतं युयुत्तुं च अभि तिष्ठ ॥ पृतनाशब्दात् क्यचि कव्यध्वरपृतनस्य इत्यंतलोपः ॥ यः च नः अस्मभ्यं इरस्यति ईर्ष्यति । इरस् तिरस् ईर्षायां कंड्वादिः ।
+> तमपि अभि तिष्ठ । यद्वा । प्रकृतो ब्रह्मणस्पतिरेवात्रापि संबोध्यः ॥
+
+##### Gist of the bhāṣya
+
+O king, having brought rivals and enemies near, overcome also those of our subjects who are अरातयः (*arātayaḥ*), not given to giving. Overcome too him who wishes armies for himself and desires to fight. And overcome him who is envious of us (इरस्यति (*irasyati*)). Or else, Brahmaṇaspati, the subject of the preceding verse, is to be addressed here also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O king) सपत्नान् (*sapatnān*)—enemies
+- अभिवृत्य (*abhivṛtya*)—besieging on all sides
+- नः (*naḥ*)—to us
+- याः अरातॆयः (*yāḥ arātèyaḥ*)—those subjects (or enemies) who give nothing
+- अभितिष्ठ (*abhitiṣṭha*)—defeat them also
+- पृतन्यंतं (*pṛtanyaṃtaṃ*)—the enemy who fights with an army
+- अभि तिष्ठ (*abhi tiṣṭha*)—defeat
+- यः (*yaḥ*)—whoever
+- नः (*naḥ*)—us
+- इरस्यति (*irasyati*)—disparages with base words
+- अभि (*abhi*)—defeat him too
+
+##### भावार्थ (Bhāvārtha)
+
+O king, besiege the enemies and defeat them. Defeat also enemies of other kinds; defeat the enemy who fights with an army; defeat him too who disparages us with contemptuous speech.
+
+##### English translation
+Having overcome our rivals, and those who are our enemies, do you, attack him who assaults us, and him who behaves insolently towards us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृतत् ।  
+> अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । देवः । सविता । अभि । सोमः । अवीवृतत् ।  
+> अभि । त्वा । विश्वा । भूतानि । अभिवर्तः । यथा । अससि ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 1172. pp. 1167-1172 (batch API)
+**Progress note:** Done through printed p. 1178. pp. 1173-1178 (batch API)
