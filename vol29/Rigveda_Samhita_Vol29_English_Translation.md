@@ -17282,6 +17282,208 @@ This chariot of Indra has a speed greater than the speed of the mind.
 
 **NOTE**
 
+### Printed p. 589
+
+Indra is described as sometimes the charioteer, and at other times the friend, of the god Vāyu, the two travelling seated together in the same chariot. This description shows to an extraordinary degree the relation between Indra and Vāyu, and the speed of Indra's chariot.
+
+(4-46-2; 4-48-2; 7-91-6)
+
+Indra's horses, by the power of praise, come of themselves to the chariot and are yoked. (ब्रह्मणा ते ब्रह्मयुजा युनज्मी हरी (*brahmaṇā te brahmayujā yunajmī harī*)).
+
+(3-35.4; 1-82-6; 2-18-3; 8-1-24; 8.17-2; 8 2-27; 8-45-39 : 8.86-9)
+
+The purport is that as soon as the prayer in the form of praise from the sacrificers who perform the sacrifice has been offered, Indra at once yokes the horses to the chariot in order to come to their sacrifice. Since praises themselves are the cause of the yoking of the horses to the chariot, the idea is that the yoking of the horses takes place through the power of praise. Thus, of the many Saṃhitā passages that describe the powerful chariot and horses of Indra, who travels through the earth, the atmosphere and all the regions, only a few have been set out above as examples.
+
+**Indra's thunderbolt and other implements**
+
+It is well known that Indra's great thunderbolt was made by Tvaṣṭṛ, the divine craftsman. It is also said that Tvaṣṭṛ made it for Indra himself (त्वष्टास्मै वज्रं स्वर्यं ततक्ष (*tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa*)).
+
+(1-32-2; 1-61-6; 1-85-9; 5.31-4; 6-17-10; 10-48-3)
+
+But in some places alone it is stated explicitly that it was made by Kāvya Uśanas and given to Indra for the slaying of the Asuras. (यं ते काव्य उशना................ततक्ष वज्रं (*yaṃ te kāvya uśanā................tatakṣa vajraṃ*)).
+
+(1-12-12; 5-34.2)
+
+On the creation of the thunderbolt and Indra's taking it up, a passage of the Aitareya Brāhmaṇa states as follows—
+
+देवा वै प्रथमेनाह्नेंद्राय वज्रं समभरंस्तं द्वितीयेनाह्नासिंचंस्तंतृतीयेनाह्ना प्रायच्छंस्तं चतुर्थेऽहन्वाहरत् ॥ (*devā vai prathamenāhneṃdrāya vajraṃ samabharaṃstaṃ dvitīyenāhnāsiṃcaṃstaṃtṛtīyenāhnā prāyacchaṃstaṃ caturthe 'hanvāharat ‖*) (Ai. Brā. 4-1)
+
+The gods provided Indra with the thunderbolt for the proceedings of the first day. On the second day they consecrated it. On the third day they handed it over to him. On the fourth day Indra employed that thunderbolt given by the gods. So it says. Moreover,
+
+"The thunderbolt lies covered with water in the ocean that is in the atmosphere."
+
+(8-108-9)
+
+### Printed p. 590
+
+In this account the natural order of the origin of the thunderbolt weapon is described. **NOTE** This thunderbolt is stated in some places to be of gold (1-57-2; 1-85.9; 8-57-3; 10-23-3), and in some places to be golden-hued mixed with green (10-96-3); in still other places it is stated to be of iron (आयसः (*āyasaḥ*)), that is, made of steel.
+
+(1-52-8; 1-80-12; 1-81-4; 1-121-9; 8-85-3; 10-48-3; 10-96-3; 10-113-5)
+
+Some passages hold that it has four edges. (4-22-2) (चतुरश्रिः (*caturaśriḥ*)) But there are also passages stating that it has a hundred edges (शताश्रि (*śatāśri*)). (6-17-10) The meaning is one with a hundred edges. It is also described as having a hundred joints. (शतपर्वन् (*śataparvan*))
+
+(8-80-6; 8-6-6; 8-65-2; 2-78-3)
+
+There are also some occasions where it is said to have a thousand joints.
+
+(1-80-12; 1-85-9; 33-34-2; 6-17-10) **NOTE**
+
+भीमा इंद्रस्य हेतयश्च तभृष्टीरयस्मयिः (*bhīmā iṃdrasya hetayaśca tabhṛṣṭīrayasmayiḥ*)
+
+(A. Pe. 4-37-5) **NOTE**
+
+The weapons of Indra, having a hundred points and made of iron, are praised in the Atharvaveda as exceedingly terrible. In place of आयस्मयिः (*āyasmayiḥ*) the same description is found elsewhere with the variant reading हिरण्ययाः (*hiraṇyayāḥ*).
+
+(A. Pe. 8-5-19)
+
+As a bull rubs its horn, Indra rubs his weapon and sharpens it (for the destruction of enemies). (शिशीते वज्रं (*śiśīte vajraṃ*)).
+
+(1-53-1)
+
+As the Āditya, stationed in the atmosphere, shines with his divine radiance, so the thunderbolt placed in Indra's hand shines. (दिवे न सूर्यः (*dive na sūryaḥ*))
+
+(8-52-2)
+
+There are also some occasions on which Indra is described as a deity who carries arrows and a bow.
+
+(8-45-4; 8-66-6, 11; 10-103-2; 10.103-3)
+
+Indra's arrows have three joints and sharp edges. They are adorned with feathers in the thousands, and are of gold.
+
+(8-66-7; 8-66-12)
+
+Indra is also described as a bearer of the goad. (दीर्घस्ते अस्त्वंकुशः (*dīrghaste astvaṃkuśaḥ*))
+
+### Printed p. 591
+
+"O Indra, let your goad, which helps to provide wealth for the sacrificer who offers you the oblation, be long.
+
+(8-17-10)
+
+In the Atharvaveda too this same matter is stated in this way.
+
+यस्ते अंकुशो वसुदानो बृहन्निंद्र हिरण्ययः । तेनाजनीयते जायां मद्यं धेहि शचीपते ॥ (*yaste aṃkuśo vasudāno bṛhanniṃdra hiraṇyayaḥ | tenājanīyate jāyāṃ madyaṃ dhehi śacīpate ‖*)
+
+(A. Ve. 6-82-3) **NOTE**
+
+"O Indra, I am very eager to obtain a wife. With the help of your goad, which provides wealth and is of gold, provide me with a wife." This is the occasion on which the sacrificers pray to Indra. Moreover,
+
+O Indra, as a goat stretches out its forefoot and seizes the branch of a creeper, so you too stretch out your goad and draw to yourself the thing you wish for. You bear such power.
+
+(10-134_6)
+
+A mantra whose purport is, "O Indra, I bring and offer to you this long goad, with the help of which you destroy powerful Asuras," also conveys the same idea.
+
+(10-44-9)
+
+In the Atharvaveda the description and praise of Indra's net (jāla) is as follows.
+
+अंतरिक्षं जालमासीज्जालदंडा दिशो महीः । तेनाभिधाय दस्यूनां शक्रः सेनामपातयत् ॥ (*aṃtarikṣaṃ jālamāsījjāladaṃḍā diśo mahīḥ | tenābhidhāya dasyūnāṃ śakraḥ senāmapātayat ‖*)
+
+(A. Ve. 8-8-5)
+
+(A. Pe. A-8-5) **NOTE**
+
+The atmosphere is Indra's net, and the great directions are the poles of this net. Casting this net that spreads over all directions, Indra seized the enemies in the form of Dasyus and made them fall down.
+
+बृहद्धि जालं बृहतश्यक्रस्य वाजिनीवतः । तेन शत्रुनभि सर्वान्न्युब्ब यथा न मुच्यातै कमश्चन एषां ॥ (*bṛhaddhi jālaṃ bṛhataśyakrasya vājinīvataḥ | tena śatrunabhi sarvānnyubba yathā na mucyātai kamaścana eṣāṃ ‖*)
+
+(A. Ve. 8-8-6)
+
+The net of Indra, the giver of food, whose form is great, is very extensive. When it is cast and spread, all the enemies are caught. Not one of them can escape from it.
+
+### Printed p. 592
+
+बृहिर्ज्वलं बृहत इंद्र उरुण सदुसिल्घस्य शतवीर्यस्य । ईन सहस्रमयुतं न्यर्बुदं जघान शक्रो दस्यानामभिधाय सेनया ॥ (*bṛhirjvalaṃ bṛhata iṃdra uruṇa sadusilghasya śatavīryasya | īna sahasramayutaṃ nyarbudaṃ jaghāna śakro dasyānāmabhidhāya senayā ‖*)
+
+(Ā. Ve. Ā.A-2) **NOTE**
+
+O Indra, of great form, your net, you being valiant, is exceedingly extensive. You possess together the strength of a hundred enemies. You can face thousands of enemies at once. Indra, together with his followers, caught in his net all the Dasyu people, numbering thousands, ten thousands and ten crores, struck them all with his weapon and killed them.
+
+अयं लोको जालमासीच्छ क्रस्य महतो महान् । शेनाहमिंद्रजालेनामूंस्तमसाभिदधामि सर्वान् ॥ (*ayaṃ loko jālamāsīccha krasya mahato mahān | śenāhamiṃdrajālenāmūṃstamasābhidadhāmi sarvān ‖*)
+
+(A. Pe. 8-8-8)
+
+This world is the net of Indra, whose form is great. With the help of that net I make all the enemies be caught in the pitch darkness.
+
+**Indra's regard for Soma-drinking** **NOTE**
+
+As soon as he is invited by the sacrificers to drink Soma, Indra comes ready, seated in his chariot. And there the food for his horses too is ready. And as soon as he arrives, the oblation in the form of Soma is made ready in abundance for his drinking and offered.
+
+(Śi-25-7) **NOTE**
+
+(3-35-7)
+
+As soon as this Soma is drunk he obtains exceeding delight, and from it he obtains not only the enthusiasm needed for battle but also strength useful for many other extraordinary deeds, such as the upholding of Heaven and Earth. All kinds of strength and enthusiasm increase.
+
+(2.12-2)
+
+Of the many passages that state the manner of Indra's worship, only the purport of some is stated here. This Soma juice produces imperishable vigour. As the sun pervades with his rays the atmosphere and all the other regions, may this Soma juice make strength pervade Indra's whole body; so the seer has prayed.
+
+(2-15-1, 2 : 3.19-1; 2.20-1; 3-26-3; 3-40-1 : 3-42-1; 6-23-1, 5, 6 :
+6.28-1; 6-29-4; 7-22.1; 7-29.1; 8-3-1; 8-81-5, 6; 10-104-1)
+
+### Printed p. 593
+
+All the gods run up eagerly to the share of the Soma juice that is to be offered to Indra.
+
+(8-2-18)
+
+"Together with Indra, the other gods and Agni have drunk. All the gods have obtained satisfaction. But Indra's satisfaction is the greatest."
+
+(1-104-9; 1-125-5; 2-14-1; 7-33-2; 8-2-4)
+
+Among all the other gods, Indra's Soma-drinking is the most extraordinary. इंद्र इत् सोमपा एकः.......अंतर्देवान् मर्तांश्च । (*iṃdra it somapā ekaḥ.......aṃtardevān martāṃśca |*) (8-2-4). Among the gods and the like, Indra alone is the true Soma-drinker. Therefore he alone is the truly valiant one.
+
+(8-4-12; 8-6-40)
+
+Since Indra's mother provided him with Soma on the very day of his birth, the point is clear that Soma is the life-giver of Indra. (सद्यो यज्जातो आपिबो ह सोमं (*sadyo yajjāto āpibo ha somaṃ*)).
+
+(3-32-9, 10; 3-48-2; 6-40-2; 7-98-3)
+
+It is well known that he drank the Soma of thirty Droṇa vessels in a single draught.
+
+(8-66-4; 6-17-11; 8-7-10; Ni. 4-11)
+
+His devotees call him to this Soma-drinking with the utmost humility and devotion, and Indra, accepting their invitation and coming, drinks in haste like a thirsty deer.
+
+(8-4-10; 5-36-1; 8-33-2)
+
+The belly (bellies) of this Indra is like two lakes. In his eagerness to fill it, Indra roars like a bull wandering for water in a waterless desert.
+
+(5-36-1; 1-8-7; 1-104-9; 2-11-11; 2-14-10; 2-16-2; 3-35-6;
+3.36-7, 8; 3-40-5; 3.47-1; 3.51-12; 8-12-23; 8-2-1; 8-17-5 to 8;
+8.67-7; 8.81-22, 23, 24; 10.28-2; 10.43-7; 10.104-2; A. Ve. 2.5-1;
+6.2-1)
+
+Sometimes, when the sacrificers drink this same Soma juice, there is a description of the same kind. For example—
+
+"As soon as I drink this Soma, it increases my body."
+
+(6-47-3)
+
+So the seer says. In another passage, stating the power of Soma-drinking—
+
+### Printed p. 594
+
+"We have drunk the Soma; therefore we have become free from death. No man can now harm us. O immortal Indra, by your grace we too, together with you and without fear, shall ascend to the atmosphere," he proclaims.
+
+(La.48.3) **NOTE**
+
+As birds fly to a tree full of leaves, and as rivers full of water go and join the ocean, so the stream of Soma juice goes and joins Indra. As, when rain falls, grain and the like grow abundantly and robustly, in the same way the sacrificers, by the offering of Soma juice, make Indra grow strong.
+
+(19-43-4, 7) **NOTE**
+
+As a good husband loves his wife and desires her company, so Indra is prayed to drink the Soma offered by the sacrificers, to accept the praises offered by them, and to obtain satisfaction from them.
+
+(3.52-3; 4-32-16)
+
+To show clearly how the power of Soma-drinking increases Indra's enthusiasm, a seer in one sūkta describes Indra's nature in this way. From it one learns in what ways Indra, satisfied by Soma-drinking, shows his favour to the sacrificer.
+
+"I have drunk Soma fully. Therefore I shall provide the sacrificer with cattle and horses. The stream of Soma that I have drunk has produced exceeding vigour in me. As a cow runs in affection and joins her calf, the praise made by the seer has come and joined me. As a smith goes round and refines it, I too have made that praise pervade my heart. **NOTE** Even the five peoples, the Gandharvas and the rest, are insignificant before me. That is the power of Soma. Even Heaven and Earth together would not amount to half of me. I am one whose greatness exceeds the greatness of these two, Heaven and Earth. I shall establish this earth according to my resolve. The atmosphere is half of me. The other half I have let down below. I have the power to rule in the atmosphere. As the fruit of this Soma-drinking, I have the power to carry the oblation to all the gods and distribute it."
+
+(Ṛ. Saṃ. 10-119-1, 389 1) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 588. Sūkta 89 introduction on Indra, pp. 577-588
+**Progress note:** Done through printed p. 594. Sūkta 89 introduction on Indra, pp. 589-594
