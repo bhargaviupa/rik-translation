@@ -27425,6 +27425,282 @@ Gayatri drew it away without difficulty, for the good of those (gods) who, (sati
 
 The divine seers and others who strengthen (हिन्विरे (*hinvire*)) their bodies at the Soma sacrifice with उक्षैः (*ukṣaiḥ*), that is, with praises (*śastraiḥ*): these gods and the rest, when Soma has been fetched at Indra's command, with शमीभिः (*śamībhiḥ*) (the rites of the Soma sacrifice)…
 
+### Printed p. 770
+
+> कर्मभिः सुशमी सुकर्माणोऽभूवन् । नृवन्मनुष्यवद्वदन् इदं युष्मभ्यं मया
+> दत्तमिति व्यक्तां वाचमुच्चारयन् नोऽस्मभ्यमुप माहि । उपगम्य वाजानन्नानि
+> बलानि ना हे इंद्र त्वं देहीति शेषः । अतः कारणाद्वीरो दानशूरस्त्वं दिवि
+> द्युलोके श्रवो दानपतिरिति कीर्तितं नाम नामधेयं दधिषे । धारयसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of the previous Ṛk. Through the Soma-sacrifice rites those sacrificers became "of good rites" (सुशमी (*suśamī*) is read as *sukarmāṇaḥ*, those whose rites are good). Speaking like a man (नृवत् (*nṛvat*) means "like a human being"), uttering plain words such as "This has been given to you by me", come to us (उप माहि (*upa māhi*)). Having come, give us वाजान् (*vājān*), that is, foods and strengths; "O Indra, you give" is the word to be supplied. For this reason you, the hero, the one heroic in giving, bear in heaven (the world of Dyu) a famed name, "lord of givers". दधिषे (*dadhiṣe*) means "you hold".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—who
+- तन्नः (*tannaḥ*)—their bodies
+- सोमे (*some*)—in the Soma-sacrifice
+- उक्षैः (*ukṣaiḥ*)—with śastra-mantras
+- हिन्विरे (*hinvire*)—(those who) strengthen
+- एते (*ete*)—all of them
+- शमीभिः (*śamībhiḥ*)—by the rites of the Soma-sacrifice
+- सुशर्मा (*suśarmā*)—possessing excellent rites
+- अभूवन् (*abhūvan*)—became (O Indra)
+- नृवत् (*nṛvat*)—like men
+- वदन् (*vadan*)—speaking
+- नः (*naḥ*)—us
+- उप माहि (*upa māhi*)—approach
+- वाजान् (*vājān*)—give foods
+- वीरः (*vīraḥ*)—you, the hero
+- दिवि (*divi*)—in the world of heaven
+- श्रवः (*śravaḥ*)—famed
+- नाम (*nāma*)—name
+- दधिषे (*dadhiṣe*)—you have taken on
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, those sacrificers who strengthen their bodies in the Soma-sacrifice with śastra-mantras have all become possessors of excellent rites through the rites of the Soma-sacrifice. O Indra, speaking like a man, approach us and give us foods. You, the hero, have taken on a famed name in the world of heaven.
+
+##### English translation
+They have been sanctified by holy rites, who have fostered their bodies with prayers, at the Soma (sacrifice): speaking like a man, grant us food, you possess in heaven name and fame as a hero.
+
+## Sūkta 29 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वने न वेत्यष्टर्चं त्रयोदशं सूक्तं वसुक्रस्यार्षं त्रैष्टुभमैंद्रं ।
+> अनुक्रांतं च । वने नाष्टाविति ॥ चतुर्थेऽहनि स्तोमवृद्धौ ब्राह्मणाच्छंसिन एतत्सूक्तमावापार्थं । सूत्रितं च । स्तोमे वर्धमाने को अद्य नर्यो वने न
+> वा यः । आ. ७-१२ । इति ॥ महाव्रते निष्केवल्य एतत्सूक्तं । सूत्रितं च । प्र वो
+
+### Printed p. 771
+
+> महे मंदमानायांधस इति निविद्धानं वने न वा यो न्यधायि चाकन् । ऐ. आ.
+> ५-३-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta वने न वा (*vane na vā*) has eight Ṛks, and is the thirteenth sūkta (of the anuvāka). Its seer is Vasukra, its deity Indra, its metre Triṣṭubh. Sāyaṇa notes the Anukramaṇī, which reads वने नाष्टौ (*vane nāṣṭau*). On the fourth day, when the Stoma is being increased, the Brāhmaṇācchaṃsin uses this sūkta for the purpose of āvāpa (insertion); this is stated in the sūtra with the reference Ā. 7-12. In the Mahāvrata it is used in the niṣkevalya (śastra), as the sūtra says, and then the Brāhmaṇa quotes the line containing वने न वा यो न्यधायि चाकन् (*vane na vā yo nyadhāyi cākan*) (Ai. Ā. 5-3-1).
+
+##### Anuvāda
+
+This sūkta, "वने न वा (*vane na vā*)", is the thirteenth sūkta in the second anuvāka. It has eight Ṛks. Its seer is Vasukra; its deity is Indra; its metre is Triṣṭubh. The Anukramaṇī says "वने नाष्टौ (*vane nāṣṭau*)". On the fourth day of the sacrifice, for the increase of the Stoma, the ṛtvij called Brāhmaṇācchaṃsin is to recite this sūkta for the purpose of āvāpa, as explained by the Āśvalāyana-śrauta-sūtra, in the sūtra "Stome vardhamāne ko adya naryo vane na nāyaḥ" (Ā. 7-12). It is also stated that in the Mahāvratestyi this sūkta is used for the niṣkevalya-śastra mantras, by the sentence of the Aitareya-Āraṇyaka, "Pra vo mahe mandamānāyāndhasa iti nividdhānaṃ vane na vā yo nyadhāyi cākan" (Ai. Ā. 5-3-1).
+
+- Maṇḍala 10; Anuvāka 2; Sūkta 29.
+- Aṣṭaka 7; Adhyāya 7; Vargas 22, 23.
+- Number of Ṛks in the sūkta: 8.
+- Seer: Vasukra.
+- Deity: Indra.
+- Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वने॒ न वा॒ यो न्य॑धायि चा॒कञ्चुचि॑र्वां॒ स्तोमो॑ भुरणावजीगः ।  
+> यस्येदिंद्रः॑ पुरु॒दिने॑षु॒ होता॑ नृ॒णां नर्यो॒ नृत॑मः  ॒॑
+> क्षपावान् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वने । न । वा । यः । नि । अधायि । चाकन् । शुचिः । वां । स्तोमः । भुरणौ ।  
+> अजीगरिति ।  
+> यस्य । इत् । इंद्रः । पुरुदिनेषु । होता । नृणां । नर्यः । नृतमः । क्षपावान् ॥ १ ॥
+
+### Printed p. 772
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वने न वायो नैधायीति । वने न वन इव वृक्ष इव शकुनिः स्वे नीडे वायमात्मीयं पुत्रं नैधायि निदधाति शिशुकमजातपक्षं । स यथा तत्र निहितश्चाकन्नश्यन्
+> भयाद्दिशो निरीक्षमाण आसीत् । अथवा । कामयमानस्तदुत्सुकमना आसीत् ।
+> एवमयमस्मासु वृक्षस्य नीडभूतेषु शकुनिपुत्रभूतः शुचिर्व्यपगतसर्वदोषो
+> युवयोः स्वभूतः स्तोमः हे भुरणौ भर्तारावश्विन् शीघ्रा वा । भुरण्युरिति
+> क्षिप्रनामेति । किंच यस्य स्तोमस्य पुरुदिनेषु बहुष्वह्सिंद्रो होतेंद्रोऽप्याह्वाता भवति ममायं स्तोमः स्यादिति । किल्लक्षणः पुनरिंद्र-अह्वाता ! यो नृणां
+> मनुष्याणां नृतमः मनुष्याणामपि मनुष्यतमः । शूराणामपि मध्यॆ शूरतम
+> इत्यर्थः । नर्यश्च नृभ्यो हितो यः क्षपावांश्च रात्रि पर्यायेषु सोमभागः ।
+> एवंगुणयुक्तन यः स्तोम इंद्रेणापि प्रार्थ्यतेऽस्मासु वर्तमानः स युवां
+> प्रत्यजीगः । नित्यकालमेव गच्छतीत्यर्थः । एतावदेतामृचमाश्विनीमिति कृत्वा
+> व्याचक्षते । तदसाधु । ऐंद्रे हि सूक्ते प्रथमैवेयं भवति । तच्च पुनः पृष्टस्य
+> षष्ठेऽहनि स्तोमे वर्धमाने माध्यंदिने सवने ब्राह्मणाच्छंसिनः शस्त्रे विनियुज्यते ।
+> हे भुरणौ भर्तारौ देवानां पती य एष स्तोमोऽस्मासु निहितः शुचिर्व्यपगतदोषः शकुनिपुत्र इव वने वनावयवे वृक्षे चाकन्नश्यन्निव कामयमान इव
+> वेंद्रमास्ते । यस्य स्तोमस्य किमिति । यस्येंद्रः पुरुदिनेषु बहुष्वह्साह्वाताभूत् अपि नाम मामनेन स्तोमेन स्तुयुरिति । किल्लक्षणः पुनराह्वाता ।
+> यस्येदिंद्र इति नृणां नृतमो नर्यश्च क्षपावांश्च समानमेत्पूर्वेणार्थेन ।
+> यमेवमिंद्रः प्रार्थयते स एष स्तोमस्तं प्रत्यजीगः । गच्छतीत्यर्थः । अथवा
+> स एष स्तोमोऽस्माभिरुदीर्यमाणस्तस्येंद्रस्य गुणान्गृह्णातीति स्यात् । जिगर्तिर्गृह्णातिकर्मेति ह्युक्तं ! नि. ६-८ । एवमत्र चाकन्नित्यस्य चायन्निति वा कामयमान
+> इति वेत्येतौ विपरिणामावुपपद्येते शब्दसारूप्यादर्थाविरोधाच्च । एतस्मिन्निगमे
+> पदविभागगतः कश्चिद्विचारोऽस्ति । तमाह भाष्यकारः । वेति च य इति च
+> चकार शाकल्य इति । वेति य इति च पदे चकार शाकल्यः पदकारः । तदेतद्विचार्यमाणं न साधु भवति । किं कारणं । उदात्तं त्वेवमाख्यातमभविष्यत् । एवमेतस्मिन्नदद्वये सति यदेतदाख्यातं न्यधायीति तदुदात्तमभविष्यत् । यद्वृत्तात्परस्य
+> नित्यमाख्यातस्य निघातो न भवतीति लक्षणविदो मन्यंते । न चेदमुदात्तं तस्माद्य
+> इति नेदं यद्वृत्तं किं तर्हि वाय इत्येकमेव पदं । किंच । असुसमाप्तश्चार्थः ।
+> अपुष्कलः । एवमेव तस्मिन्नदद्वये सति मंत्रस्यार्थोऽसुसमाप्नो भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the first line. As a bird in a tree places in its own nest its own young one, not yet fledged, and that young one, so placed, looks about in fear, or else is eager, longing (चाकन् (*cākan*) is "looking" or "desiring"); in the same way this pure stoma, free of every fault, belonging to you, O Bhuraṇau (the two bearers, the Aśvins, or "swift"; he adds that *bhuraṇyuḥ* is a name for "quick"), lodged in us as in a nest, being like the bird's son, goes to you. Of which stoma Indra, on many days, is the invoker: Indra too calls, thinking "may this stoma be mine". What is Indra like? He is the manliest of men, the most heroic even among heroes; नर्यः (*naryaḥ*) is "beneficial to men"; क्षपावान् (*kṣapāvān*) is the one having a Soma-share in the night-rounds. The stoma that even Indra desires, and that is present among us, goes to you (अजीगः (*ajīgaḥ*): it goes constantly).
+
+Some expositors take this Ṛk as addressed to the Aśvins. Sāyaṇa says that is wrong: in an Indra-sūkta this Ṛk is the first, and it is used on the sixth day of the Pṛṣṭhya, at the midday pressing, in the śastra of the Brāhmaṇācchaṃsin, when the stoma is being increased.
+
+Second explanation: "O bearers, lords of the gods, this pure, fault-free stoma lodged in us abides toward Indra, like the bird's young in the tree, longing. Of whose stoma Indra on many days was the invoker, thinking, 'may they praise me with this stoma'." The words "manliest of men", "beneficial to men" and क्षपावान् (*kṣapāvān*) have the same sense as before; Indra desires this stoma and it goes to him. Or else this stoma, recited by us, grasps the qualities of Indra, for it is said "जिगर्तिर्गृह्णातिकर्म (*jigartirgṛhṇātikarma*)" (Ni. 6-8). In this way both changes of reading are possible for चाकन् (*cākan*), as चायन् (*cāyan*) or as "desiring", through similarity of sound and absence of conflict in sense.
+
+Then he turns to a point of word-division and cites the Bhāṣyakāra (Yāska): Śākalya, the Padakāra, made "वा (*vā*)" and "ya" two separate words. Sāyaṇa says this, on examination, is not sound: the verb न्यधायि (*nyadhāyi*) would then have had to be udātta, which the accent-knowers do not allow after a yad-word; and it is not so. So वायः (*vāyaḥ*) is one word, not "yad"-relative. Moreover the sense of the mantra would be incomplete.
+
+### Printed p. 773
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुरणौ (*bhuraṇau*)—O Aśvin deities, bearers of the world
+- नृणां (*nṛṇāṃ*)—among all men
+- नृतमः (*nṛtamaḥ*)—the most excellent
+- नर्यः (*naryaḥ*)—beneficial to men
+- क्षपावान् (*kṣapāvān*)—who has Soma offered at night
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुरुदिनेषु (*purudineṣu*)—on many days
+- यस्य (*yasya*)—to obtain which stoma
+- होता (*hotā*)—he is the one who prays
+- शुचिः (*śuciḥ*)—pure
+- यः स्तोमः (*yaḥ stomaḥ*)—which stoma
+- न्यधायि (*nyadhāyi*)—is lodged in us
+- वने (*vane*)—as a bird laying its egg in a tree
+- चाकन् न (*cākan na*)—looks after it carefully
+- वां (*vāṃ*)—you
+- अजीगः (*ajīgaḥ*)—(it) looks after carefully
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, bearers of the world: the pure stoma that is lodged in us, for obtaining which Indra, the foremost of all men, beneficial to men, he who has Soma offered at night, has been the one who prays for many days, looks after you carefully, as a bird that has laid its egg (its young) in a tree looks after it carefully.
+
+##### English translation
+As (the bird) who deposits its young (in its nest) in the tree (is) eagerly looking around, so you bearers (Aswins) your pure praise (ever) keeps you awake: (that praise) of which Indra has for many days been the invoker, (Indra) the friend of man, the manliest of men, (to whom the soma is offered) at night.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the word चाकन् (*cākan*), Yāska has given the Nirukta on this Ṛk thus:
+वनेन वायो न्यधायि चाकन् । वन इव वायो वेः पुत्रश्चायन्निति वा कामयमान इति वा । वेति च य इति च चकार शाकल्य उदात्तं त्वेवमाख्यातमभविष्यदसुसमाप्तश्चार्थः ॥ (*vanena vāyo nyadhāyi cākan | vana iva vāyo veḥ putraścāyanniti vā kāmayamāna iti vā | veti ca ya iti ca cakāra śākalya udāttaṃ tvevamākhyātamabhaviṣyadasusamāptaścārthaḥ ‖*) (Ni. 6-28).
+Here the word वन (*vana*) means a tree. The sense of the sentence is: a bird sitting in a tree places its tender young one, that is, a small chick whose wings have not yet grown, in the tree, and, since it cannot yet fly, looks about with anxiety about whether it will fall down somewhere —
+
+### Printed p. 774
+
+it may fall: with such eager anxiety it looks around. The sage Śākalya has divided the word वायः (*vāyaḥ*) in this sentence into two words, "वा (*vā*)" and "यः (*yaḥ*)". If that is done, the verb of the sentence would have had to have the udātta, and the sense of the sentence would be incomplete; so the author of the Nirukta has indicated his opinion.
+
+If वायः (*vāyaḥ*) is taken as a single word, "vi" means a bird, and वायः (*vāyaḥ*) means "belonging to a bird", that is, the bird's young, born of the bird. This sense alone is fitting. But Śākalya, the author of the Pada-pāṭha, has separated the words as "वा यः (*vā yaḥ*)". If the words are so divided, the main verb न्यधायि (*nyadhāyi*) would have had to be ādyudātta, and the sense of the sentence would not be complete. Therefore, the Bhāṣyakāra has supported the view of the author of the Nirukta, that taking वायः (*vāyaḥ*) as a single word is the acceptable course.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ अ॒स्या उ॒षसः॒ प्राप॑रस्या नृ॒तौ स्या॑म॒ नृत॑मस्य नृ॒णां ।  
+> अनु॑ त्रि॒शोकः॑ श॒तमाव॑ह॒न्नन्नुत्से॑न॒ रथो॒ यो अस॑त्सस॒वान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । अस्याः । उषसः । प्र । अपरस्याः । नृतौ । स्याम । नृतमस्य । नृणां ।  
+> अनु । त्रिशोकः । शतं । आ । अवहत् । न्यन् । कुत्सेन । रथः । यः । असत् । ससवान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्या वर्तमानाया ईदृश्या उषसो नृतौ ॥ नृ नये ॥ नयने प्रापणे ।
+> उदयकाल इत्यर्थः । नृणां नेतृणां मध्यॆ नृतमस्यातिशयेन नेतुस्ते तवेंद्रस्य
+> स्तुत्या यागेन च प्र स्याम । वयं प्रकृष्टा भवेम । तथा हे इंद्र अपरस्या
+> आगामिन्याश्चोषसो नृतौ प्रापणे तव स्तुत्या यागेन च वयं प्रकृष्टा भवेमेत्याशास्महे । किंच त्रिशोको नामर्षिर्हॆ इंद्र त्वामाराध्य त्वत्पसादाच्छतं
+> बहूनन्वनुचरभूतान्ननुष्यानावहत् । प्रापितवान् । लब्धवानित्यर्थः । तथा
+> तव कुत्सस्य च ससवान् सनिता युगपदेव संभक्ता यो रथोऽसत् अस्ति स रथः
+> कुत्सेन । कुत्सो लब्धवानिति शेषः । तथा च मंत्रंतरे श्रूयते । यासि कुत्सेन
+> सरथमवस्युः । ऋ ४-१६-११ । इति । यस्मादेवं तस्मात्त्वत्पसादाद्वयं प्रकृष्टा
+> भवेमेत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+In the leading (नृतौ (*nṛtau*), from the root nṛ, "to lead", "to bring") of this present dawn, that is, at the time of its rising, we would be advanced (प्र स्याम (*pra syāma*)) through praise and sacrifice to you, Indra, the most leading of leaders (नृणां (*nṛṇāṃ*)). Likewise, O Indra, at the leading in (that is, the coming of) the future dawn too we hope to be advanced through praise and sacrifice to you. Further, the seer Triśoka, having propitiated you, through your favour brought (आवहत् (*āvahat*): obtained) a hundred, that is many, men as followers. And the chariot which is ससवान् (*sasavān*) (सनिता (*sanitā*), one who shares at once) between you and Kutsa was obtained by Kutsa (this last is supplied). That this is so is heard in another mantra: "यासि कुत्सेन सरथमवस्युः (*yāsi kutsena sarathamavasyuḥ*)" (Ṛ. 4-16-11). Since it is so, by your favour may we be advanced.
+
+### Printed p. 775
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्याः (*asyāḥ*)—of the present time
+- उषसः (*uṣasaḥ*)—of the dawn
+- नृतौ (*nṛtau*)—at the time of rising
+- नृणां (*nṛṇāṃ*)—among all men
+- नृतमस्य (*nṛtamasya*)—the most excellent
+- ते (*te*)—through your worship
+- प्र स्याम (*pra syāma*)—we shall be prosperous
+- अपरस्त्याः (*aparastyāḥ*)—may it be so in the coming dawn-times too
+- त्रिशोकः (*triśokaḥ*)—the seer named Triśoka
+- शतं (*śataṃ*)—numbering many
+- अनु नृन् (*anu nṛn*)—followers
+- आवहत् (*āvahat*)—has obtained through your favour
+- ससवान् (*sasavān*)—endowed with wealth
+- यः रथः (*yaḥ rathaḥ*)—which chariot
+- असत् (*asat*)—there is
+- कुत्सेन (*kutsena*)—by Kutsa (as the fruit of your favour) it was obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at the rising of the present dawn we shall be prosperous through the worship of you, the most excellent of all men. May we be so also in the coming dawn-times! The seer named Triśoka has obtained, through your favour, a numerous following. Kutsa has obtained, through your favour, a chariot endowed with wealth.
+
+##### English translation
+May we be prosperous at the coming of the present or of any future dawn, (through the adoration) of you, the chief leader of men : through your favour Trishoka obtained a hundred followers; the chariot which was common to him and you was acquired by Kutsa.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्ते॒ मद॑ इंद्र॒ रंत्यो॑ भू॒द्दुरो॒ गिरो॑ अ॒भ्यु१॒ं॑ग्रो वि  ॑
+> धाव ।  
+> कद्वाहो॑ अ॒र्वागुप॑ मा मनी॒षा आ त्वा॑ शक्यामुप॒मं ॒ ॑
+> राधो अन्नैः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । ते । मदः । इंद्र । रंत्यः । भूत् । दुरः । गिरः । अभि । उग्रः । वि । धाव ।  
+> कत् । वाहः । अर्वाक् । उप । मा । मनीषा । आ । त्वा । शक्यां । उपमं । राधः ।  
+> अन्नैः ॥ ३ ॥
+
+### Printed p. 776
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवेषन्मध्यमोत्तमानां सोमजन्यानां मदानां मध्यॆ को
+> मदो रंत्यो रमयिता प्रीतिकरो भूत् । भवति । त्वत्प्रीतिकरमदयोग्यसोमदानाभिप्रायेणायं प्रश्नॆः । उग्र ओजस्वी त्वं दुरो यज्ञगृहद्वाराणि गिरः
+> स्तुतिलक्षणा वाचश्चाभि वि धाव । अभ्यागच्छ ! किंच कत् कदा वाहः । इंद्रं प्रत्युह्यत
+> इति नाहः सोम उच्यते । एवंभूतोर्वाक् त्वत्पसादात्सलदानायास्मदभिमुखो भविष्यतीति शेषः । अपि च कदा मनीषा सर्वार्थदर्शना प्रज्ञा सर्वगुणग्राहिणी स्तुतिर्वा मा मां त्वत्पसादादुपगमिष्यतीति शेषः । कदा हे इंद्र त्वा त्वां ।
+> आ इत्युपसर्गश्रुतेयोग्यपदाध्याहारः । आराध्य वयमन्नॆः सह राधो
+> धनमुपमं मत्समीपं शक्यां। शकिरत्र गत्यर्थोऽंतर्भावितण्यर्थः । संगमयेयं॥
+
+##### Gist of the bhāṣya
+
+O Indra, among your exhilarations born of Soma (**NOTE**), which exhilaration has become रंत्यः (*raṃtyaḥ*), delighting, pleasing? The question is meant for the gift of Soma fit for the exhilaration that pleases you. You, the mighty one, hasten (*abhi vi dhāva*: come) to the doors of the sacrificial house and to the voices of praise. Further, when will वाहः (*vāhaḥ*) (Soma is called "वाहः (*vāhaḥ*)" because it is carried to Indra) turn to us, by your favour, for giving the fruit (**NOTE**)? And when will मनीषा (*manīṣā*), insight that sees all things, or praise that grasps all qualities, come to me by your favour? And when, O Indra, having propitiated you (आ (*ā*) is a preposition that is heard, so a suitable word is supplied) shall we, together with foods, शक्यां (*śakyāṃ*), bring wealth (राधः (*rādhaḥ*)) near to me (उपमं (*upamaṃ*))? Here the root शक (*śaka*) is in the sense of motion, with a causative implied; the sense is संगमयेयं (*saṃgamayeyaṃ*), "may I bring together".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—for you
+- कः मदः (*kaḥ madaḥ*)—what sort of exhilaration
+- रंत्यः (*raṃtyaḥ*)—satisfying
+- भूत् (*bhūt*)—is
+- उग्रः (*ugraḥ*)—you who are of great power
+- दुरः (*duraḥ*)—to the doors of the sacrificial house
+- गिरः अभि (*giraḥ abhi*)—and to the praises
+- विधाव (*vidhāva*)—run and come
+- कत् (*kat*)—when
+- वाहः (*vāhaḥ*)—the Soma
+- अर्वाक् (*arvāk*)—is turned toward us
+- मनीषा (*manīṣā*)—the intelligence that praises you
+- मा (*mā*)—me
+- उप (*upa*)—when will it come and join
+- त्वा (*tvā*)—you
+- आ (*ā*)—having propitiated
+- अन्नैः (*annaiḥ*)—together with foods
+- राधः (*rādhaḥ*)—wealth (when)
+- उपमं (*upamaṃ*)—near to us
+- शक्यां (*śakyāṃ*)—we shall be able to obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, what sort of exhilaration is satisfying to you? You, who are of great power, run to the door of the sacrificial house and to the praises. When will the Soma be turned toward us? When will the intelligence that praises you come and join me? When shall we be able to obtain to our side, having propitiated you, wealth together with foods?
+
+##### English translation
+What sort of exhilaration, Indra, is agreeable to you? You who are powerful hasten to the doors (of the sacrificial chamber) to our praises : when will the Soma be present ? (when will) intelligence (come) to me ? when, having propitiated you, may I acquire wealth and food ?
+
 ---
 
-**Progress note:** Done through printed p. 769. pp. 764-769 (batch API)
+**Progress note:** Done through printed p. 776. pp. 770-776 (batch API)
