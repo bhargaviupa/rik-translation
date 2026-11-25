@@ -16986,6 +16986,257 @@ Entrust him, O king, to your two dogs, which are your protectors, Yama, the four
 
 पथिरक्षी (*pathirakṣī*)—मार्गस्य रक्षकौ (*mārgasya rakṣakau*). Besides Yama's house they also watch the path by which the Pitṛs come from the earth to Yama; that is, the departed who, devoted to the performance of good works, died
 
+### Printed p. 477
+Out of the whole passage here the sense is that the dogs mean to punish only those who have done wrong, without troubling anyone else. Therefore the seer warns the departed one to be very careful with regard to these dogs, and Agni is prayed to lead the departed one to Yama by another, circuitous road, so that he does not fall under their eyes.
+
+नृचक्षसौ—मनुष्यैःख्याप्यमानौ । श्रुतिस्मृतिपुराणाभिज्ञाः पुरुषास्तौ प्रख्यापयंति । (*nṛcakṣasau—manuṣyaiḥkhyāpyamānau | śrutismṛtipurāṇābhijñāḥ puruṣāstau prakhyāpayaṃti |*) They are praised by men. That is, good men who know the Śruti, Smṛti, Purāṇas and the like praise greatly the commendable work of these dogs; for the dogs do not trouble good men but injure only the sinful, and so these men praise with open voice the dogs' discernment of what is fitting and unfitting.
+
+In the second half of this Ṛk, Yama is prayed to protect well the body of the departed one who comes to Yama, so that it is free from the affliction of diseases.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रू॒ण॒साव॑सु॒तृपा॑ उदुंब॒लौ य॒मस्य॑ दू॒तौ च॑रतो॒ जना॒  ॑
+> अनु ।  
+> ताव॒स्मभ्यं॑ दृ॒शये॒ सूर्या॑य॒ पुन॑र्दाता॒मसु॑म॒द्येह  ॒
+> भद्रं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुनसौ । असुतृपौ । उदुंबलौ । यमस्य । दूतौ । चरतः । जनान् । अनु ।  
+> शौ । अस्मभ्यं । दृशये । सूर्याय । पुनः । दातां । असुं । अद्य । इह । भद्रं ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमस्य संबंधिनौ दूतौ श्वानौ जनां अनु प्राणिनो लक्षीकृत्य सर्वत्र
+> चरतः । कीदृशौ । उरुणसौ दीर्घनासिकायुक्तौ असुतृपौ परकीयान्प्राणान्
+> स्वीकृत्य तैस्तृप्यंतौ उदुंबलावुरुबलौ विस्तीर्णबलौ। तावुभौ दूतौ सूर्याय
+> दृशये सूर्यस्य दर्शनार्थमद्य दिन इह कर्मणि भद्रममुं समीचीनं प्राणं
+> पुनरस्मभ्यं दातां । अदत्तां ॥
+
+##### Gist of the bhāṣya
+
+The two dogs, Yama's messengers, move everywhere among people, with the living beings as their object. They are of what kind? उरुणसौ (*uruṇasau*): having long noses; असुतृपौ (*asutṛpau*): taking the life-breaths of others and being sated by them; उदुंबलौ (*uduṃbalau*): of wide strength. Those two messengers are asked to give back to us today, in this rite, that good, auspicious life-breath, for the seeing of the sun.
+
+### Printed p. 478
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरूणसौ (*urūṇasau*)—having long noses
+- असुतृपौ (*asutṛpau*)—getting satisfaction by sucking the life-breaths of others
+- उदुंबलौ (*uduṃbalau*)—having exceedingly great strength
+- यमस्य (*yamasya*)—of Yama
+- दूतौ (*dūtau*)—these dogs, who are messengers
+- जनान् अनु (*janān anu*)—seeking out living beings
+- चरतः (*carataḥ*)—they roam
+- त्वा (*tvā*)—those two dogs
+- सूराय्य (*sūrāyya*)—of the sun
+- दृशये (*dṛśaye*)—for the sight
+- अद्य (*adya*)—today
+- इह (*iha*)—in this sacrificial rite
+- भद्रं (*bhadraṃ*)—auspicious
+- असुं (*asuṃ*)—the life-breath
+- पुनः (*punaḥ*)—again
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- दातां (*dātāṃ*)—may they give
+
+##### भावार्थ (Bhāvārtha)
+
+The Sārameyas, long-snouted, getting satisfaction by sucking the life-breaths of others, of exceeding strength, and messengers of Yama, roam seeking living beings. May those two dogs today, in this sacrificial rite, give us again the auspicious life-breath, for the seeing of the sun.
+
+##### English translation
+The messengers of Yama, broad-nosed, and of exceeding strength, and satiating themselves with the life (of mortals), hunt mankind ; may they allow us this day a prosperous existence here, that we may look upon the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is said that Yama's dogs roam among people; that is, they keep searching for beings who are about to die, in order to carry them to Yama. In the Atharvaveda too these dogs are described in many places. In some places they are said to be two, in others many, and they are said to be the messengers who carry the departed spirits of beings to Yama after they die.
+
+In the second half of this Ṛk, तावस्मभ्यं.... .... .... ..... भद्रं (*tāvasmabhyaṃ.... .... .... ..... bhadraṃ*), the prayer is that Yama's dogs, who roam among people and carry off their life-breaths, should not trouble us, that is, should not carry us to Yama, but should let us go on living for some time more on this earth, seeing the sun, and should do us good.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒माय॒ सोमं॑ सुनुत य॒माय॑ जुहुता ह॒विः ।  
+> य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू॑तो॒ अरं॑कृतः ॥ १३ ॥
+
+### Printed p. 479
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमाय । सोमं । सुनुत । यमाय । जुहुत । हविः ।  
+> यमं । ह । यज्ञः । गच्छति । अग्निसदूतः । अरंकृतः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः यमाय यमदेवतार्थं सोमं सुनुत । लतात्मकं सोममभिषुणुत । तथा यमार्थं हनिर्जुहुत । अर्गिर्दूतो यस्मिन्यज्ञे सोऽयमग्निदूतः । अग्नेर्दूतत्वमन्यत्राम्नातं । अग्निर्देवानां दूत आसीत् । तै. सं. २-५-
+> ८.५ । इति । अरंकृतो बहुभिर्द्रव्यैरलंकाररूप्यर्युक्तः तादृशो यज्ञो यमं
+> ह यममेव गच्छति ॥
+
+##### Gist of the bhāṣya
+
+O priests, press Soma, the creeper-soma, for Yama as deity, and likewise offer the oblation for Yama. The sacrifice in which Agni is the messenger is "Agni-messenger"; Agni's being a messenger is recorded elsewhere: अर्गिर्दूतो यस्मिन्यज्ञे सोऽयमग्निदूतः । अग्नेर्दूतत्वमन्यत्राम्नातं । अग्निर्देवानां दूत आसीत् । तै. सं. २-५- ८.५ । इति । (*argirdūto yasminyajñe so 'yamagnidūtaḥ | agnerdūtatvamanyatrāmnātaṃ | agnirdevānāṃ dūta āsīt | tai. saṃ. 2-5- 8.5 | iti |*). अरंकृतः (*araṃkṛtaḥ*): furnished with many substances as ornaments. Such a sacrifice goes to Yama alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यमाय (*yamāya*)—with Yama as the object
+- सोमं (*somaṃ*)—Soma
+- सुनुत (*sunuta*)—press
+- यमाय (*yamāya*)—with Yama as the object
+- हविः (*haviḥ*)—the oblation
+- जुहुत (*juhuta*)—offer
+- अग्निदूतः (*agnidūtaḥ*)—having Agni himself as messenger
+- अरंकृतः (*araṃkṛtaḥ*)—adorned with many substances
+- यज्ञ: (*yajña:*)—this sacrifice
+- यमं ह (*yamaṃ ha*)—Yama himself
+- गच्छति (*gacchati*)—approaches
+
+(The address "O priests" is supplied before यमाय (*yamāya*).)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, press Soma for Yama. Offer the oblation for Yama. This sacrifice, which has Agni himself as messenger and is adorned with many substances, approaches Yama.
+
+##### English translation
+Pour out the Soma for Yama; to Yama offer the oblation, the decorated sacrifice of which Agni is the messenger proceeds to Yama.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next two Ṛks the seer prays the priests to offer the oblation in the fire with Yama as the object. Since neither Yama nor the other deities come in person to the sacrificial ground to receive the offering, the oblations offered to them must be made in the consecrated fire. अरंकृतः (*araṃkṛtaḥ*) in this Ṛk means अलंकृतः (*alaṃkṛtaḥ*), prepared and adorned. 
+
+### Printed p. 480
+The prayer expressed here is that Agni, thus prepared and adorned, should carry, in the manner of a messenger, the offerings made in him for Yama to Yama, and make them reach him.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒माय॑ घृ॒तव॑द्ध॒विर्जु॒होत॒ प्र च॑ तिष्ठत ।  
+> स नो॑ दे॒वेष्टा य॑मद्दी॒र्घमायुः॒ प्र जी॒वसे॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमाय । स्तैतवत् । हविः । जुहोत । प्र । च । तिष्ठत ।  
+> सः । नः । देवेषु । आ । यमत् । दीर्घं । आयुः । प्र । जीवसे ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः यूयं यमाय धृतवदाज्येन संयुक्तं हनिः पुरोडाशादिकं जुहोत । प्र च तिष्ठत । यमं यूयमुपतिष्ठध्वं च । देवेषु मध्यॆ स
+> यमो देवः प्र जीवसे प्रकृष्टजीवनार्थं नोऽस्माकं दीर्घमायुरा यमत् ।
+> प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O priests, offer to Yama the oblation (cake and the like) joined with ghee, and stand near; that is, approach Yama. Among the gods, may that god Yama grant us a long life, for living on in a distinguished way.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) यमाय (*yamāya*)—with Yama as the object
+- धृतवत् (*dhṛtavat*)—provided with ghee
+- हविः (*haviḥ*)—the oblation
+- जुहोत (*juhota*)—offer
+- प्रतिष्ठत च (*pratiṣṭhata ca*)—approach him and pray
+- देवेषु (*deveṣu*)—among the gods
+- सः (*saḥ*)—that well-known Yama
+- प्र जीवसे (*pra jīvase*)—for an excellent life
+- नः (*naḥ*)—to us
+- दीर्घमायुः (*dīrghamāyuḥ*)—long life
+- आ यमत् (*ā yamat*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, offer the oblation provided with ghee, with Yama as the object. Approach him and pray. May Yama, well-known among the gods, give us long life for an excellent life.
+
+##### English translation
+Offer the oblation of clarified butter to Yama, and stand nigh (to the altar); It is he who among the gods gives us a long life to live
+
+### Printed p. 481
+
+##### विशेषविषयगळु (Special Topics)
+
+O priests, offer in the fire, with mantras, the oblation mixed with ghee, with Yama as the object. The chief sense of this Ṛk is that Yama, who is among the gods gratified by it, should favour us by giving a long life, so that we may live for a long time.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒माय॒ मधु॑मत्तमं॒ राज्ञे॑ ह॒व्यं जु॑होतन ।  
+> इ॒दं नम॒ ऋषि॑भिः पूर्व॒जेभ्यः॒ पूर्वे॑भ्यः पथि॒कृद्भ्यः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमाय । मधुमर्तमं । राज्ञे । हव्यं । जुहोतन ।  
+> इदं । नमः । ऋषिभ्यः । पूर्वजेभ्यः । पूर्वेभ्यः । पथिकृत्भ्यः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः यमाय राज्ञे मधुमत्तममतिशयेन मधुरं हव्यं पुरोडाशादिकं हविर्जुहोतन । जुहुत । पूर्वजेभ्यः सृष्ट्पादावुत्पन्नेभ्यः आत एव
+> पूर्वेभ्योऽस्मत्तः पूर्वभाविभ्यः पथिकृद्भ्यः शोभनमार्गकारिभ्य ऋषिभ्य इदं प्रत्य.
+> क्षं यथा भवति तथा नमोऽस्तु ॥
+
+##### Gist of the bhāṣya
+
+O priests, offer to king Yama the most sweet oblation (cake and the like); जुहोतन (*juhotana*) means जुहुत (*juhuta*). To the sages who were born at the beginning of creation, and therefore are earlier than ourselves, who make good paths, let there be this adoration, as if in visible presence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) राजे (*rāje*)—to the lord
+- यमाय (*yamāya*)—with Yama as the object
+- मधुमत्तमं (*madhumattamaṃ*)—most sweet
+- हव्यं (*havyaṃ*)—the oblation
+- जुहोतन (*juhotana*)—offer
+- पूर्वजेभ्यः (*pūrvajebhyaḥ*)—born earlier
+- पूर्वेभ्यः (*pūrvebhyaḥ*)—ancient
+- पथिकृद्भ्यः (*pathikṛdbhyaḥ*)—guides of the way
+- ऋषिभ्यः (*ṛṣibhyaḥ*)—to the sages
+- इदं नमः (*idaṃ namaḥ*)—these my salutations
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, offer the most sweet oblation with the lord Yama as the object. These my salutations to the sages, born earlier, ancient, and guides of the way.
+
+### Printed p. 482
+
+##### English translation
+Offer to the royal Yama this most sweet oblation; (let) this our adoration (be addressed) to the ancient sages, the first followers of (virtuous) paths.
+
+##### विशेषविषयगळु (Special Topics)
+
+Besides praying the priests to offer the oblation in the fire through the offering, with Yama as the object, the seer, in the second half of this Ṛk, salutes his ancestors: "Here I bow" to the sages who lived formerly on this earth, died, and now dwell near Yama in the world of the fathers, to our elders who have died, and to the other fathers who have made clear the way to Yama's world.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिक॑द्रुकेभिः पतति॒ षळु॒र्वीरेक॒मिद्बृ॒हत् ।  
+> त्रि॒ष्टुब्ब्गा॑य॒त्री छंदां॑सि॒ सर्वा॒ ता य॒म आहि॑ता ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिकद्रुकेभिः । पतति । षट् । उर्विः । एकं । इत् । बृहत् ।  
+> त्रिस्तुप् । गायत्री । छंदांसि । सर्वा । ता । यमे । अहिता ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिकद्रुकेभिः । द्वितीयार्थे तृतीयैषा । त्रिकद्रुकान् । ज्योतिर्गौरायुरिति
+> त्रयो यागविशेषास्त्रिकद्रुका उच्यंते । तात्पत्यंगभावाय संरक्षणार्थं च पतति।
+> यमस्तान् प्राप्नोति । षट्संख्याका उर्वीर्भूमिः कृताकृतप्रत्यवेक्षणाय
+> प्राप्नोति । ताश्चोर्व्यः शाखांतरमंत्रे समाम्नाताः ! षण्मोर्वीरंहसस्पांतु
+> द्याश्च पृथिवी चापश्चौषधयश्चोर्क्च सूनृता चेति । एकमिदेकमेव बृहद्महज्जगद्यमश्च प्रतिपालनीयः प्राप्नोति । किंच यानि त्रिष्टुब्जायत्रादीनि च्छंदांसि संति
+> सर्वाणि तानि च्छंदांसि यम आहितानि । ऋत्विग्भिः स्तुतिश्वेनावस्थितानि !!
+
+##### Gist of the bhāṣya
+
+त्रिकद्रुकेभिः (*trikadrukebhiḥ*): this instrumental stands for the accusative; it means the त्रिकद्रुकान् (*trikadrukān*). Three special sacrifices, Jyotis, Gau and Āyus, are called Trikadrukas. Yama reaches them, for the sake of their being his auxiliaries and for their protection. The six उर्वीः (*urvīḥ*), the earths, he reaches to inspect what has been done and not done; those six wide ones are recorded in the mantra of another śākhā: षण्मोर्वीरंहसस्पांतु द्याश्च पृथिवी चापश्चौषधयश्चोर्क्च सूनृता चेति । (*ṣaṇmorvīraṃhasaspāṃtu dyāśca pṛthivī cāpaścauṣadhayaścorkca sūnṛtā ceti |*). *ekamit*: the one great world, to be protected by Yama, he reaches. Moreover, all the metres, Triṣṭubh, Gāyatrī and the rest, are placed in Yama; that is, they stand by the priests' praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिकद्रुकेभिः (*trikadrukebhiḥ*)—the three sacrifices called Jyotis, Gau, Āyus
+- पतति (*patati*)—Yama gets
+- षट् उर्वीः (*ṣaṭ urvīḥ*)—he occupies the six wide earths
+- बृहत् (*bṛhat*)—great …
+
 ---
 
-**Progress note:** Done through printed p. 476. pp. 471-476 (batch API)
+**Progress note:** Done through printed p. 482. pp. 477-482 (batch API)
