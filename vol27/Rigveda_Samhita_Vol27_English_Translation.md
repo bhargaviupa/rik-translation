@@ -18805,6 +18805,231 @@ The flesh-eating Agni, the god, who has entered the house of you householders: t
 - घर्मं (*gharmaṃ*)—the sacrifice
 - इन्वात् (*invāt*)—let him pervade
 
+### Printed p. 526
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni called Kravyāt, who has entered your house: while looking at that other Agni, who is Jātavedas, I carry him out of the house for the worship of the Pitṛs. May the Agni who is Jātavedas pervade the sacrifice in the most excellent place.
+
+##### English translation
+The fleeh-devouring deity Agni, who has entered your dwelling, I turn him out, for the worship of the Pitris, upon beholding this other (Agni) Jatavedas; let him celebrate the sacrifice (to the Pitris) in the most excellent assembly.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒ग्निः क॑व्य॒वाह॑नः पि॒त्थान्यक्ष॑दृता॒वृधः॑ ।  
+> प्रेदु॑ ह॒व्यानि॑ वोचति दे॒वेभ्य॑श्च पि॒तृभ्य॒ आ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अग्निः । कव्यवाहनः । पित्थन् । यक्षत् । ऋत्यवृधः ।  
+> प्र । इत् । ऊं इति ! हव्यानि । वोचति । देवेभ्यः । च । पितृभ्यः । आ ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे वषट्कारक्रियायां यो अग्निः कव्यवाहन इत्येषा स्विष्टकृतो याज्या । सूत्रितं च । यो अग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेद इति
+> संयाज्ये । आ. २-१९ । इति ॥
+> कव्यवाहनः कव्यस्य हविषो वोढा योऽग्निः पितृनृतावृध ऋतस्य यज्ञस्योदकस्य वा वर्धयित्थन् सत्येन वृद्धान्वा देवान् । एतत्पितृविशेषणं वास्तु । तान्यक्षत्
+> यजति । यजेर्लेटि सिबडागमः ॥ सोऽग्निर्हव्यानि हवींषि प्र वोचतु । पितृयज्ञे
+> प्रब्रवीतु । युष्मदर्थं मायानीतानीति । इदू पूर्णौ । केभ्यः । देवेभ्यश्च
+> पितृभ्यश्च । आकारः समुच्चये ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, in the vaṣaṭkāra rite, the verse यो अग्निः कव्यवाहन (*yo agniḥ kavyavāhana*) is the yājyā of the Sviṣṭakṛt offering. It is stated in the sūtra: यो अग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेद इति संयाज्ये (*yo agniḥ kavyavāhanastvamagna īḷito jātaveda iti saṃyājye*) (Ā. 2-19).
+कव्यवाहनः (*kavyavāhanaḥ*) is the Agni who carries the kavya oblation. He is ऋतावृधः (*ṛtāvṛdhaḥ*), the increaser of ṛta, that is, of the sacrifice or of water; or the word qualifies the Pitṛs, or the gods, who are strengthened by truth. He worships (यक्षत् (*yakṣat*)) them; in the Leṭ the augment siṭ is added. May that Agni proclaim the oblations in the Pitṛyajña: "These have been brought for you." इदू (*idū*) are complete words. For whom? For the gods and for the Pitṛs; the ā has the sense of conjunction.
+
+### Printed p. 527
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कव्यवाहनः (*kavyavāhanaḥ*)—the bearer of the oblation called kavya
+- यः अग्निः (*yaḥ agniḥ*)—which Agni
+- पित्थान् (*pitthān*)—the Pitṛs
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—the gods who increase truth
+- यक्षत् (*yakṣat*)—he who worships; that Agni
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- पितृभ्यः च (*pitṛbhyaḥ ca*)—and for the Pitṛs
+- हव्यानि (*havyāni*)—the oblations, specified
+- प्र वोचति (*pra vocati*)—may he declare them distinctly and make them known
+
+##### भावार्थ (Bhāvārtha)
+
+May the Agni who carries the oblation called kavya, and who worships the Pitṛs and the gods who increase truth, offer the oblations assigned to the gods and to the Pitṛs and make known their respective portions.
+
+##### English translation
+Let Agni the bearer of the Kavya worship the Pitris, who are magnified by truth, let him declare which are the offerings to the gods, which to the Pitris.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña, when the Sviṣṭakṛt oblation is made with the vaṣaṭkāra, this Ṛk यो अग्निः कव्यवाहनः (*yo agniḥ kavyavāhanaḥ*) is to be recited as the yājyā mantra. This is explained by the Āśvalāyana-śrauta-sūtra: यो अग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेदॆ इति संयाज्ये (*yo agniḥ kavyavāhanastvamagna īḷito jātavedè iti saṃyājye*) (Ā. 2-19).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒शंत॑स्त्वा॒ नि धी॑मह्यु॒शंतः॒ समि॑धीमहि ।  
+> उ॒शन्नु॑श॒त आ व॑ह पि॒त्थन्ह॒विषे॒ अत्त॑वे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उशंतः । त्वा । नि । धीमहि । उशंतः । सं । इधीमहि ।  
+> उशन् । उशतः । आ । वह । पित्थान् । हविषे । अत्तने ॥ १२ ॥
+
+### Printed p. 528
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञ उशंतस्त्वेत्येषा सामिधेनी । सूत्र्यते हि । उशंतस्ता नि
+> धीमहीत्येतां त्रिरनवानं ताः सामिधेन्यः । आ.२.१९ । इति ।
+> हे अग्ने उशंतः कामयमाना वयं त्वा त्वां नि धीमहि । कर्मार्थं
+> स्थापितवंतः । उशंतो वयं समिधीमहि । संदीपयामः । त्वमप्युशन् कामयमानो हविरादिकमुशत आगंतुकामान्पित्यनस्मिन्यज्ञ आ वह । हविषेऽस्माभिः
+> प्रत्तं हविरत्तवेऽत्तुं ॥ अदेस्तुमर्थे तवेन्प्रत्ययः । क्रियाग्रहणं कर्तव्यमिति
+> कर्मणः संप्रदानसंज्ञा ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña the verse उशंतस्त्वा (*uśaṃtastvā*) is a sāmidhenī. It is stated in the sūtra: उशंतस्ता नि धीमहीत्येतां त्रिरनवानं ताः सामिधेन्यः (*uśaṃtastā ni dhīmahītyetāṃ triranavānaṃ tāḥ sāmidhenyaḥ*) (Ā. 2.19).
+O Agni, longing, we place you for the rite; longing, we kindle you. You too, longing, bring to this sacrifice the Pitṛs who long to come, to eat (अत्तवे (*attave*)) the oblation offered by us. The affix tavai is used in the sense of the infinitive of अद (*ada*). The object receives the designation sampradāna.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) उशंतः (*uśaṃtaḥ*)—we who desire your worship
+- त्वा (*tvā*)—you
+- नि धीमहि (*ni dhīmahi*)—we have established for the rite
+- उशंतः (*uśaṃtaḥ*)—we who desire you
+- समिधीमहि (*samidhīmahi*)—we have made you blaze
+- उशन् (*uśan*)—you who desire our worship
+- उशतः (*uśataḥ*)—who desire our oblations
+- पितृन् (*pitṛn*)—the Pitṛs
+- हविषे (*haviṣe*)—our oblations
+- अत्तवे (*attave*)—to eat
+- आ वह (*ā vaha*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we who desire your worship have established you for the rite. We who desire you have made you blaze. You who desire our worship, bring the Pitṛs who desire our oblations, to eat our oblations.
+
+##### English translation
+Longing we set you down; longing we kindle you ; do you longing bring the longing Pitris to eat of the (sacrificial) viands.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña this Ṛk उशंतस्त्वा (*uśaṃtastvā*) is to be recited as the sāmidhenī mantra. This is explained by the Āśvalāyana-śrauta-sūtra: उशंतस्त्वा नि धीमहीत्येतां त्रिरनवानं ताः सामिधेन्यः (*uśaṃtastvā ni dhīmahītyetāṃ triranavānaṃ tāḥ sāmidhenyaḥ*) (A. 2.19).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वम॑ग्ने स॒मद॑ह॒स्तमु॒ निर्वा॑पया॒ पुनः॑ ॥  
+> कि॒यांब्वत्र॑ रोहतु पाकदू॒र्ना व॑ल्कशा ॥ १३ ॥
+
+### Printed p. 529
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वं । अग्ने । संअदहः। तं ऊं इति । निः । वापय । पुनरिति ।  
+> कियांबु । अत्र । रोहतु । पाकदूर्ना । विअल्कशा ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं पितृदहनकाले यं देशं समुदहः पुरा सम्यग्दग्धवानसि ॥ तिजु
+> चोदात्तवतीति समो निघातः ॥ तमु तमेव पुनर्निर्वापय । अत्रास्मिन्देशे
+> कियांबु कियत्प्रमाणमुदकं यस्मिन् तत्पुष्करिण्यादिकं रोहतु । उत्पद्यतां ।
+> किंच व्यल्कशा विविधशाखा पाकदूर्वा परिपक्वदूर्वा चोत्पद्यतां ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the place which you burned completely at the time of the cremation of the Pitṛs: cool that very place again. Here, in this place, let there grow कियांबु (*kiyāṃbu*), a pond or the like with some measure of water, and let there arise व्यल्कशा (*vyalkaśā*), of many branches, and ripe पाकदूर्वा (*pākadūrvā*), fully ripened durvā grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यं (*yaṃ*)—which region
+- समदहः (*samadahaḥ*)—you burned at the time of the cremation of the Pitṛs
+- तमु (*tamu*)—that region
+- पुनः (*punaḥ*)—again
+- निर्नापय (*nirnāpaya*)—make cool
+- अत्र (*atra*)—in this region
+- कियांबु (*kiyāṃbu*)—pond-plants and the like that grow in a little water
+- रोहतु (*rohatu*)—let grow
+- व्यल्कशा (*vyalkaśā*)—having many branches
+- पाकदूर्वा (*pākadūrvā*)—the ripe durvā plant (grass blades): let it grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the region which you burned at the time of the cremation of the Pitṛs, make it cool again. In this region let pond-plants and the like that grow in a little water, and durvā plants of many branches, grow abundantly (grass blades).
+
+##### English translation
+Cool again, Agni, the spot which you have burned, there let the water-lily grow, and the ripe Durva with its many stalks.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तीति॑के॒ तीति॑कावति॒ ह्लादि॑के॒ ह्लादि॑कावति ।  
+> मं॒डू॒क्या॒३॒॑ ३ सु सं ग॑म इ॒मं स्व१॒॑ १ ग्निं ह॑र्षय ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शीतिके । शीतिकावति । ह्लादिके । ह्लादिकावति ।  
+> मंडूक्य । सु । सं । गमः । इमं । सु । अग्निं । हर्षय ॥ १४ ॥
+
+### Printed p. 530
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्थि संचयने क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं श्मशानायतनं
+> प्रोक्षति शीतिके शीतिकावतीत्यनया । सूत्रितं च । क्षीरोदकेन शमीशाखया त्रिः
+> प्रसव्यं परिव्रजन्प्रोक्षति शीतिके शीतिकावतीति । आ. गृ. ४-५-३ । इति ॥
+> हे शीतिके शैत्ययुक्ते हे शीतिकावति । शीतिकाः शैत्ययुक्ता ओषधयः ।
+> ताभिस्तद्वति हे ह्लादिक आह्लादयित्रि हे ह्लादिकावत्याह्लादकफलयुक्तैर्वृक्षैस्तद्वति
+> हे पृथिवि मंडूक्या मंडूकस्त्रिया वृष्टिप्रियॆया सु सुष्टु सं गमः। संगच्छस्व ॥
+> गमेर्लुजु व्यत्ययेन परस्मैपदं ॥ तत इममग्निं सु सुष्टु हर्षय ॥
+
+##### Gist of the bhāṣya
+
+In the collecting of the bones, one sprinkles the cremation-ground thrice, keeping it to the left, with milk and water by means of a branch of the śamī, reciting शीतिके शीतिकावती (*śītike śītikāvatī*). It is stated in the sūtra: क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं परिव्रजन्प्रोक्षति शीतिके शीतिकावतीति (*kṣīrodakena śamīśākhayā triḥ prasavyaṃ parivrajanprokṣati śītike śītikāvatīti*) (Ā. Gṛ. 4-5-3).
+O शीतिके (*śītike*), possessed of coolness; O शीतिकावति (*śītikāvati*): शीतिकाः (*śītikāḥ*) are cool herbs, and you possess them. O ह्लादिके (*hlādike*), gladdener; O ह्लादिकावति (*hlādikāvati*), possessed of trees with gladdening fruit. O earth, unite well (सु सं गमः (*su saṃ gamaḥ*)) with मंडूक्या (*maṃḍūkyā*), the female frog dear to rain. The Parasmaipada of *gam* is by vyatyaya. Then gladden this Agni well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शीतिके (*śītike*)—she who is possessed of coolness
+- शीतिकावति (*śītikāvati*)—she who is possessed of cool herbs
+- ह्लादिके (*hlādike*)—she who gives joy
+- ह्लादिकावति (*hlādikāvati*)—O earth, who is endowed with gladdening trees and the like
+- मंडूक्या (*maṃḍūkyā*)—with frogs that grow by rain
+- सु (*su*)—exceedingly
+- सं गमः (*saṃ gamaḥ*)—unite
+- इमं अग्निं (*imaṃ agniṃ*)—this Agni
+- सु (*su*)—exceedingly
+- हर्षय (*harṣaya*)—gladden
+
+##### भावार्थ (Bhāvārtha)
+
+O earth, possessed of coolness, of cool herbs, giver of joy, endowed with gladdening trees and the like: unite abundantly with the frogs that grow by rain (with the female frogs). Gladden this Agni abundantly.
+
+##### English translation
+(Oh earth), cool and filled with cool (herbs), gladsome and filled with gladsome (trees), be thronged with female frogs and give joy to this Agni.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the rite of collecting the bones, a subsidiary part of the funeral rites, one sprinkles the cremation-ground where the dead body was burned, thrice, keeping it to the right, with milk and water by means of a branch of the śamī tree, reciting this Ṛk शीतिके शीतिकावति (*śītike śītikāvati*).
+
+### Printed p. 531
+This is explained by the Āśvalāyana-gṛhya-sūtra: क्षीरोदकेन शमीशाखया त्रिः प्रसव्यं परिव्रजन् प्रोक्षति शीतिके शीतिकावतीति (*kṣīrodakena śamīśākhayā triḥ prasavyaṃ parivrajan prokṣati śītike śītikāvatīti*) (Ā. Gṛ. 4-5-3).
+
+## Sūkta 17 (Maṇḍala 10)
+**Introduction**
+Saraṇyū and Vivasvān.
+At the beginning of this sūkta, this introduction briefly sets out details such as who Saraṇyū, the daughter of Tvaṣṭṛ, was; her marriage to Vivasvān; and the birth of Yama and Yamī, Manu and the Aśvins from them. Further, under the respective Ṛks, Yāska's Nirukta relating to this matter is explained as it stands there; and in the last part of the introduction the account of the goddess Saraṇyū is also given as told in the Bṛhaddevatā attributed to Śaunaka.
+These mantras (10-17-1-2) which tell of Saraṇyū may be placed together with the mantras known as brahmodya. Mantras belonging to this group of brahmodya occur in many places in the Saṃhitās and Brāhmaṇas, for example (Ṛ. Saṃ. 1-164; Atha. Ve. 9-9, 10; Vā. Saṃ. 23-9 to 12; Tai. Saṃ. 7-4-18; Ai. Brā. 5-25; Śa. Brā. 13. 2. 6. 9 to 17; 5. 2. 11-21 etc.). They differ somewhat from one another in composition. In the present case one must examine what the basis is for the mantra त्वष्टा दुहित्रे (*tvaṣṭā duhitre*) belonging to this group. First, if one examines the composition of the mantra and its purport, they can be observed in many respects.
+त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति । यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश । (*tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa |*) (Ṛ. Saṃ. 10-17-1)
+Tvaṣṭṛ was arranging the marriage of his daughter, and on that account the whole world (all beings) gathered together. But Yama's mother (Saraṇyū), who had just entered the state of wifehood with Vivasvān, vanished.
+अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजुहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajuhādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10-17-2)
+
 ---
 
-**Progress note:** Done through printed p. 525. pp. 520-525 (batch API)
+**Progress note:** Done through printed p. 531. pp. 526-531 (batch API)
