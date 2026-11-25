@@ -8923,6 +8923,154 @@ Manyu, the giver of victory like Indra, irreproachable, be our protector at this
 
 अनवब्रवः (*anavabravaḥ*) means one in whose speech there are no faults. The meaning is one who speaks excellent, faultless, unblamable or courteous words. Since the speech of Indra is faultless in that manner, the seer has given the example of Indra here, to show that the speech of the deity Manyu is also of that kind.
 
+### Printed p. 337
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आभू॑त्या सह॒जा व॑ज्र सायक॒ सहो॑ बिर्भ्यभिभूत॒ उत्त॑रं ।  
+> क्रत्वा॑ नो मन्यो स॒ह मे॒द्ये॑धि महाध॒नस्य॑ पुरुहूत  ॒॑
+> संसृजि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आभूत्वा । सहजाः । वज्र । सायक । सहः । बिभर्षि । अभिभूते । उत्तरं ।  
+> क्रत्वा । नः । मन्यो इति । सह । मेदी । एधि । महाधनस्य । पुरुहूत । संसृजि॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्र वज्रवत्सारभूत हे सायक शत्रूणामंतकराभिभूते शत्रूणामभिभावुक मन्यो आभूत्या । आभूतिरभिभवः । तेन सहजाः सहैवोत्पन्नस्त्वमुत्तरमुत्कृष्टतरं सहो बलं बिभर्षि । धारयसि । हे मन्यो क्रत्वा कर्मणा सह
+> नोऽस्माकं मेद्येधि । स्निग्धो भव । कुत्रॆति तदुच्यते । महाधनस्य । संग्रामनामैतत् । संग्रामस्य संसृजि सर्गे । हे पुरुहूत बहुभिराहूतेति मन्युसंबोधनं ॥
+
+##### Gist of the bhāṣya
+
+O you who are the essence like the thunderbolt, O you who are the destroyer of enemies, O overcomer of enemies, Manyu: ābhūti is overcoming; born together with it, you bear superior, more excellent strength. O Manyu, by your deed be gracious to us. Where? In the mahādhana, which is a name for battle, in the clash of battle. O you who are invoked by many: this is an address to Manyu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्र (*vajra*)—you who are hard like the thunderbolt
+- सायक (*sāyaka*)—you who are destructive like an arrow
+- अभिभूते (*abhibhūte*)—and destroyer of enemies, O Manyu
+- आभूत्या (*ābhūtyā*)—together with the overcoming of enemies
+- सहजाः (*sahajāḥ*)—you who are born together
+- उत्तरं (*uttaraṃ*)—excellent
+- सहः (*sahaḥ*)—strength
+- भिभर्षि (*bhibharṣi*)—you bear
+- महाधनस्य (*mahādhanasya*)—battle
+- संस्कृजि (*saṃskṛji*)—when it has come
+- पुरुहूत (*puruhūta*)—you who are called many times
+- मन्यो (*manyo*)—O Manyu-deva
+- क्रत्वा सह (*kratvā saha*)—who are with the work of battle
+- नः (*naḥ*)—to us
+- मेध्येधि (*medhyedhi*)—be affectionate
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu, hard like the thunderbolt, destructive like an arrow, destroyer of enemies, you who are born together with the overcoming of enemies bear excellent strength. O Manyu-deva, who are called many times when battle has come, be affectionate to us who are engaged in the work of battle.
+
+### Printed p. 338
+
+##### English translation
+(Manyu), you destructive thunderbolt, the overpowerer (of foes), twin-born with victory, you possess exceeding strength; be favourable to us, Manyu, in deeds, you who are invoked by many in the shock of battle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> संसृ॑ष्टं॒ धन॑मु॒भयं॑ स॒माकृ॑तम॒स्मभ्यं॑ दत्तां॒ वरु॑णश्च  ॒
+> मन्युः ।  
+> भियं॒ दधा॑ना॒ हृद॑येषु॒ शत्र॑वः॒ परा॑जितासो॒ अप॒ नि  ॑
+> लयंतां ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संसृष्टं । धनं । उभयं । संआकृतं । अस्मभ्यं । दत्तां । वरुणः । च । मन्युः ।  
+> भियं।दधानाः । हृदयेषु । तत्रवः । पराजितासः । अप । नि । लयंतां ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> संसृष्टमविभागमापन्नमुभयमुभयविधं धनं समाकृतं सम्यगानीतमस्मभ्यं दत्तां । कः । वरुणश्च देवो मन्युश्च । भियं भयं हृदये दधानाः
+> शत्रवोऽस्मद्विरोधिनः पराजितासः पराजिता अप नि लयंतां । अपनिलीना भवंतु ॥
+
+##### Gist of the bhāṣya
+
+Wealth that is undivided, of both kinds, and well brought together, let Varuṇa and Manyu give to us. The enemies hostile to us, bearing fear in their hearts, defeated, let them go away and disappear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मन्युः (*manyuḥ*)—and Manyu
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- संसृष्टं (*saṃsṛṣṭaṃ*)—that which is undivided
+- उभयं (*ubhayaṃ*)—and of two kinds
+- धनं (*dhanaṃ*)—wealth
+- समाकृतं (*samākṛtaṃ*)—so as to become our own
+- दत्तां (*dattāṃ*)—let them give
+- हृदयेषु (*hṛdayeṣu*)—in the hearts
+- भिया (*bhiyā*)—fear
+- वधानाः (*vadhānāḥ*)—having
+- शत्रपं (*śatrapaṃ*)—our enemies
+- पराजितासः (*parājitāsaḥ*)—having been defeated by us
+- अप नि लयंतां (*apa ni layaṃtāṃ*)—let them meet destruction
+
+##### भावार्थ (Bhāvārtha)
+
+May Varuṇa and Manyu provide to us wealth that is undivided and of two kinds, so that it becomes our own. May our enemies, who bear fear in their hearts, be defeated by us and meet destruction at our hands.
+
+### Printed p. 339
+
+##### English translation
+May Varuna and Manyu bestow upon us wealth of both kinds undivided and completely our own, and may our enemies, bearing fear within their hearts, be overcome and utterly destroyed.
+
+## Sūkta 85 (Maṇḍala 10)
+
+**Introduction**
+
+In the first five Ṛks of this sūkta the subject of the deity Soma, and in Ṛks 6-16 the subject of the marriage of the goddess Sūryā, are stated. The goddess Sūryā herself is the seer of this sūkta. At the beginning of the sūkta Sūryā, having praised her husband Soma, then praises the matter of her own marriage. Therefore in this context it is necessary to examine closely the matter of the deity Soma and the matter of the marriage of the goddess Sūryā. The matter of the deity Soma we shall discuss in the Special Topics of the first Ṛk of this sūkta. Now only the matter of Sūryā's marriage is set out.
+
+In the Taittirīya Brāhmaṇa it is thus:
+
+प्रजापतिः सोमग्ं राजानमसृजत । तं त्रयो वेदा अन्वसृज्यंत । तान् हस्तेऽकुरुत । अथ ह सीता सावित्रि । सोमग्ं राजानं चकमे । श्रद्धामु स चकमे । सा ह पितरं प्रजापतिमुपससार । तग्ं होवाच । नमस्ते अस्तु भगवः । उपत्वाऽयानि । प्र त्वा पद्ये । सोमं वै राजानं कामये । श्रद्धामु स कामयत इति । (*prajāpatiḥ somagṃ rājānamasṛjata | taṃ trayo vedā anvasṛjyaṃta | tān haste 'kuruta | atha ha sītā sāvitri | somagṃ rājānaṃ cakame | śraddhāmu sa cakame | sā ha pitaraṃ prajāpatimupasasāra | tagṃ hovāca | namaste astu bhagavaḥ | upatvā 'yāni | pra tvā padye | somaṃ vai rājānaṃ kāmaye | śraddhāmu sa kāmayata iti |*) तस्या उ हस्तागरमलंकारं कल्पयित्वा! दशहोतारं पुरस्ताद्व्याख्याय। चतुर् होतारं दक्षिणतः। पंचहोतारं पश्चात् । षड्भोतारमुत्तरतः । सप्तहोतारमुपरिष्टात् । संभारैश्च पत्निभिश्चमुखेऽलंकृत्य। आस्त्यार्थं वप्राज ! ताग्ं होदीक्ष्योवाच । भोगं तु म आचक्ष्व । एतन्म आचक्ष्व । यत्ते पाणाविति । तस्याउहत्रीन् वेदान् प्रददौ ॥ (*tasyā u hastāgaramalaṃkāraṃ kalpayitvā! daśahotāraṃ purastādvyākhyāya| catur hotāraṃ dakṣiṇataḥ| paṃcahotāraṃ paścāt | ṣaḍbhotāramuttarataḥ | saptahotāramupariṣṭāt | saṃbhāraiśca patnibhiścamukhe 'laṃkṛtya| āstyārthaṃ vaprāja ! tāgṃ hodīkṣyovāca | bhogaṃ tu ma ācakṣva | etanma ācakṣva | yatte pāṇāviti | tasyāuhatrīn vedān pradadau ‖*) (Tai. Brā. 2-3-10-1, 2. 3)
+
+In former times Prajāpati created the god Soma. Then the creation of the three Vedas, called Ṛg, Yajus and Sāman, also took place. He held them in his hand, and a daughter of the god Savitṛ
+
+### Printed p. 340
+
+Sāvitrī (the goddess Sūryā) saw it. Then desire of love for the god Soma arose in her. But that god Soma had his mind on the goddess Śraddhā. He did not agree to marry the goddess Sūryā. Then the goddess Sūryā went to Prajāpati, the father of Soma, and prayed: "O lord, here I bow to you. I have come to you for a purpose. You must favour me by granting the boon I ask." Then, when Prajāpati said, "What do you want?", Sūryā said: "O revered one, I am infatuated with the god Soma. I wish to marry him alone. But that Soma, without love for me, is attached to the goddess Śraddhā." Hearing this, Prajāpati thought in his mind and said to Sūryā: "Good. If you are to appear attractive to the eye of the god Soma, adorn your body well with ornaments and the like; then Soma will like you and marry you." Having said so, he adorned her with garments, ornaments and the like of many kinds, led her a little way, and left her near King Soma. Then Sūryā asked Prajāpati: "So that I may enjoy pleasures and the like with my husband, give me as a gift what you have in your hand." Prajāpati agreed, "So be it", and gave her the three Vedas that he had in his hand: this history is stated. In the Aitareya Brāhmaṇa this matter is described somewhat differently.
+
+Skandasvāmin has commented अत्र प्रजापतिर्वै सोमाय राजे (*atra prajāpatirvai somāya rāje*) (Ai. Brā. 4-7-1) इत्याद्यैकरेयब्राह्मणाधीतमिहाप्याकृष्टव्यं (*ityādyaikareyabrāhmaṇādhītamihāpyākṛṣṭavyaṃ*): that is, the passage of the Aitareya Brāhmaṇa that tells the history that Prajāpati gave his daughter to King Soma is to be explained here. And he has given all of it by way of example:
+
+प्रजापतिः सवितुः दुहितरं सूर्यां सोमाय राजे प्रायच्छत् । ये त्वन्ये देवाः तां वरयितुमागच्छन् । तेभ्यो विवाहादनंतरमृक्सहस्रमददात् । यदेतदाश्विनं नाम तस्मिन् देवा विवादमकुर्वन् । ममेदमस्तु ममेदमस्त्विति । तेऽब्रुवन् । आजिं धावाम । यो नो जेष्यति तस्येदं भविष्यतीति । तेऽग्निर्गृहपतेरुपर्यादित्यं काष्ठां कृत्वाभिधावन् । काष्ठा आज्यंत उच्चते अश्वतरीरथेनाग्निराजिमधावत् । गोभिररुणैरुषाः । हरिरथेनेंद्रः । गर्दभरथेनाश्विन् । तत्राश्विनावजयताम् । (*prajāpatiḥ savituḥ duhitaraṃ sūryāṃ somāya rāje prāyacchat | ye tvanye devāḥ tāṃ varayitumāgacchan | tebhyo vivāhādanaṃtaramṛksahasramadadāt | yadetadāśvinaṃ nāma tasmin devā vivādamakurvan | mamedamastu mamedamastviti | te 'bruvan | ājiṃ dhāvāma | yo no jeṣyati tasyedaṃ bhaviṣyatīti | te 'gnirgṛhapateruparyādityaṃ kāṣṭhāṃ kṛtvābhidhāvan | kāṣṭhā ājyaṃta uccate aśvatarīrathenāgnirājimadhāvat | gobhiraruṇairuṣāḥ | hariratheneṃdraḥ | gardabharathenāśvin | tatrāśvināvajayatām |*)
+
+Brahmā gave the daughter of the god Savitṛ, named Sūryā, in marriage to King Soma. Then the other gods came to choose her. After the marriage he gave them a thousand Ṛks. These Ṛks are well known by the name Āśvina Ṛks. The gods who had come there disputed about these Ṛks, each saying that he wanted them. Afterwards
+
+### Printed p. 341
+
+they decided among themselves that these Ṛks should go to the one who won the contest, the battle. Then they fixed that the end of the contest should be going from above Agni the householder's fire up to Āditya, and set out to run. Then Agni came to the contest with a chariot yoked with mules. Uṣas came to the contest with a chariot yoked with red cows. Indra came with a chariot yoked with horses named Hari. The Aśvins came to the contest with a chariot yoked with asses. In the contest that took place the Aśvins won. A thousand Ṛks were obtained by them. Hence these Ṛks are famed as Āśvina. Thus the history is explained.
+
+Sāyaṇa has told the story of this context thus:
+
+सविता सूरो दुहितरं सूर्य्याख्यां प्रदातुमनाः देवानाहूय सामर्थ्यसमीक्षणाय आजिं परिकल्प्य य इमं जेष्यति स एतां कन्यकामृक्सहस्रक्लप्तं स्तोत्रं च लभते इत्यकल्पयत् । तमग्निः प्रथममजयत् । तमन्वश्विनावपि जित्वा अग्निं प्रधृष्ट्य ऋक्सहस्रं कन्यकां च चालभेतां । तत इंद्र उषाश्चालभेतां । तौ च तैरग्न्यादिभिः प्रार्थितौ स्वशस्त्रस्य कंचित्कंचिद्भागं तेभ्यः परिकल्प्य सूर्यः स्वरथे आधारयतां इति ॥ (*savitā sūro duhitaraṃ sūryyākhyāṃ pradātumanāḥ devānāhūya sāmarthyasamīkṣaṇāya ājiṃ parikalpya ya imaṃ jeṣyati sa etāṃ kanyakāmṛksahasraklaptaṃ stotraṃ ca labhate ityakalpayat | tamagniḥ prathamamajayat | tamanvaśvināvapi jitvā agniṃ pradhṛṣṭya ṛksahasraṃ kanyakāṃ ca cālabhetāṃ | tata iṃdra uṣāścālabhetāṃ | tau ca tairagnyādibhiḥ prārthitau svaśastrasya kaṃcitkaṃcidbhāgaṃ tebhyaḥ parikalpya sūryaḥ svarathe ādhārayatāṃ iti ‖*)
+
+Savitṛ, wishing to give his daughter named Sūryā in marriage, called the gods and, to test their ability, arranged a contest. He announced that to the one who won it he would hand over his daughter and a śastra measuring a thousand Ṛks. When Agni won, the Aśvins opposed him and took both for themselves. Afterwards, when Indra and Uṣas also won the contest, the two, begged by them and by Agni, assigned to them also a small share in their śastra and seated Sūryā in their chariot: this story he has told. This same matter he has told in the fourteenth part, in Ṛk 1-184-1, while telling the importance of the Āśvina śastra, quoting the words of the Aitareya Brāhmaṇa प्रजापतिर्वै सोमाय राजे (*prajāpatirvai somāya rāje*) (Ai. 4.7), and the story described there. In the Ṛksaṃhitā the sūkta describing Sūryā's marriage is separate (Ṛ. Saṃ. 10-85). Before knowing that description, it is highly necessary to know how the form of the divine maiden or goddess named Sūryā is described in various places. The form of Sūryā is told in the Bṛhaddevatā thus:
+
+तस्य मुख्यतमौ देवावश्विन् सूर्यमाश्रित् । वृषाकपायी सूर्योषाः सूर्यस्यॆव तु पत्नयः ॥ अमुतोऽर्वाज् निवर्तंते प्रतिलोमास्तदाश्रयाः । (*tasya mukhyatamau devāvaśvin sūryamāśrit | vṛṣākapāyī sūryoṣāḥ sūryasyèva tu patnayaḥ ‖ amuto 'rvāj nivartaṃte pratilomāstadāśrayāḥ |*)
+
+### Printed p. 342
+
+पुरोदयात्तामुषसं सूर्यां मध्यंदिने स्थिते ॥ वृषाकपायीं सूर्यस्य तामेवाहुस्तु निम्रुचि । तस्याश्रये सरण्यूश्च भगः पूषा वृषाकपिः ॥ (*purodayāttāmuṣasaṃ sūryāṃ madhyaṃdine sthite ‖ vṛṣākapāyīṃ sūryasya tāmevāhustu nimruci | tasyāśraye saraṇyūśca bhagaḥ pūṣā vṛṣākapiḥ ‖*) (Bṛ. Hade. 2-8 to 10) **NOTE**
+
+The two Aśvin deities are deities connected with the sun. Vṛṣākapāyā, Sūryā and Uṣas, these three are the wives of the sun. Those of the atmospheric world, having obtained connection with the sun, turn back toward this world. One and the same goddess, in three forms, is named Uṣas before sunrise, Sūryā at midday, and Vṛṣākapāyā at sunset. Having said so, he describes again, when telling the matter of the Sūryā-sūkta, in this manner:
+
+सावित्रि चैव सूर्या च सैव पत्नि विवस्वतः । स्तुता वृषाकपायीति उषा इति च योच्यते । उषा एषा त्रिधात्मानं विभज्य प्रैति गोपतिं ॥ उषाः पुरोदयादूत्वा सूर्या मध्यंदिने स्थिते । भूत्वा वृषाकपायी च दिनांतेष्टवगच्छति ॥ (*sāvitri caiva sūryā ca saiva patni vivasvataḥ | stutā vṛṣākapāyīti uṣā iti ca yocyate | uṣā eṣā tridhātmānaṃ vibhajya praiti gopatiṃ ‖ uṣāḥ purodayādūtvā sūryā madhyaṃdine sthite | bhūtvā vṛṣākapāyī ca dināṃteṣṭavagacchati ‖*) (Bṛ. De. 7-119 to 121)
+
+Sāvitrī and Sūryā, these two are both wives of Vivasvān. This same Sūryā is also called Vṛṣākapāyī and Uṣas: having restated what was said before, he describes the matter of the marriage of this Sūryā and praises the distinctiveness of the Sūryā-sūkta. Thus, when there is a description of the maiden named Sūryā, it is necessary to know what her relation is to the sun and what is the meaning of her having chosen the Aśvins. In the Ṛks of the Sūryā-sūkta cited below, Sūryā's joining the Aśvins for marriage is described.
+
+यदश्विना पृच्छमानावयातं त्रिचक्रेण वहतुं सूर्यायाः । विश्वे देवा अनु तद्वामजानन् पुत्रः पितराववृणीत पूषा ॥ (*yadaśvinā pṛcchamānāvayātaṃ tricakreṇa vahatuṃ sūryāyāḥ | viśve devā anu tadvāmajānan putraḥ pitarāvavṛṇīta pūṣā ‖*) (Ṛ. Saṃ. 10-85.14)
+
+In this Ṛk: "O Aśvins, when you came in your three-wheeled chariot to take the hand of Sūryā, all the gods also approved your marriage, and your son Pūṣan chose you as father." In it the very words वहतुं सूर्यायाः (*vahatuṃ sūryāyāḥ*) that are used in the present Ṛk are used. Besides this,
+
 ---
 
-**Progress note:** Done through printed p. 336. Manyu-sukta 84 Rks 1-5 (pp. 331-336)
+**Progress note:** Done through printed p. 342. Manyu-sukta 84 Rks 6-7; sukta 85 introduction (Surya marriage) pp. 337-342
