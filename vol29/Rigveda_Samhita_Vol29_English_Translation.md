@@ -8392,6 +8392,264 @@ O Manyu-deva, come graciously to us. You who have greater power than the powerfu
 ##### English translation
 Come to us Manyu, who are the strongest of the strong; withas Tap
 
+### Printed p. 325
+
+as your ally overthrow our enemies; do you who are the slayer of enemies, the slayer of adversaries, the slayer of foes, bring to us all riches.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वयं॒भूर्भामो॑ अभिमातिषा॒हः ।  
+> वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सहा॑वान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । हि । मन्यो इति । अभिभूतिऽजाः । स्वयंभूः । भामः । अभिमाति सहः ।  
+> विश्वचर्षणिः । सहुरिः । सहावान् । अस्मासु । ओजः । पृतनासु । धेहि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो त्वमभिभूत्योजाः परेषामभिभावुकबलः स्वयंभूः स्वयमेवोत्पन्नो भामः क्रुद्धोऽभिमातिषाहः । अभितो हिंसंतीत्यभिमातयः शत्रवः ।
+> तेषामभिभविता विश्वचर्षणिः सर्वेषां द्रष्टा सहुरिः सहनशीलः सहावान् सहनवान्
+> ईदृशस्त्वमस्मासु हृतनासु संग्रामेष्टोजो बलं धेहि । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, you are one whose strength overcomes others (अभिभूत्योजाः (*abhibhūtyojāḥ*)), self-born, that is, arisen of yourself, wrathful, and the overcomer of foes. Those who attack from all sides are the enemies; you overcome them. You are the beholder of all, enduring, and possessed of endurance. Being such, grant strength to us in battles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्यो (*manyo*)—O Manyu-deva
+- अभिभूत्योजाः (*abhibhūtyojāḥ*)—you who have strength able to overcome enemies
+- स्वयंभूः (*svayaṃbhūḥ*)—self-arisen
+- भामः (*bhāmaḥ*)—of the nature of wrath
+- अभिमातिषाहः (*abhimātiṣāhaḥ*)—the destroyer of enemies
+- विश्वचर्षणिः (*viśvacarṣaṇiḥ*)—the beholder of all
+- सहुगिः (*sahugiḥ*)—the enduring
+- सहावान् (*sahāvān*)—who are able to overcome enemies
+- त्वं (*tvaṃ*)—you
+- अस्मासु हृतनासु (*asmāsu hṛtanāsu*)—in our battles
+- ओजः (*ojaḥ*)—strength
+- धेहि (*dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, you who are the destroyer of enemies, self-arisen, of the nature of wrath, the beholder of all, and enduring, produce strength for us in battles.
+
+### Printed p. 326
+
+##### English translation
+Do you Manyu, who are possessed of over-powering strength, self-existent, irate, the overcomer of enemies, the beholder of all, enduring, vigorous, grant us strength in battles.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः ।  
+> तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीळा॒हं स्वात॒नूर्ब॑ल॒देया॑य॒  ॑
+> मेहि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभागः । सन् । अप । पराऽइतः । अस्मि । तव । क्रत्वा । तविषस्य । प्रचेत इति प्रचेतः।  
+> तं । त्वा । मन्यो इति । अक्रतुः । जिहीळ । अहं । स्वा । तनूः । बलदेयाय ।  
+> मा । आ । इहि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रचेतः प्रकृष्टज्ञान मन्यो तविषस्य महतस्तव क्रत्वा कर्मणाभागो
+> भागरहितः सन् । त्वां यज्ञेऽयाजकः सन्नित्यर्थः । त्वदनुकूलरहितोऽहमप
+> परेतोऽस्मि । युद्धे शत्रुभिरभिभूतः सन्नूरं गतोऽस्मि । तं तादृशं भागरहितं
+> त्वा त्वां हे मन्यो अक्रतुः कर्मरहितोऽहं जिहीळ । क्रुद्धं कृतवानित्यर्थः ।
+> यद्वा । अहमेव त्वत्सहायमेव क्रोधितवान् । अथेदानीं स्वा तनूर्मम
+> शरीरभूतस्त्वं बलडेयाय बलदानाय मेहि । मां । प्राप्नुहि ॥
+
+##### Gist of the bhāṣya
+
+O Manyu of excellent knowledge, by your great rite I am without a share, that is, I was not a sacrificer to you in the sacrifice, and being without your favour I have gone away; defeated by enemies in battle I have gone far. To you, thus shareless, I, without rite, have given anger; that is, I have made you angry. Or else: I myself have angered one who was my helper. Now you, who are as my own body, approach me, in order to give me strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रचेतः (*pracetaḥ*)—you who have excellent knowledge
+- मन्यो (*manyo*)—O Manyu-deva
+- तव क्रत्वा (*tava kratvā*)—in your rite
+- अभागः सन् (*abhāgaḥ san*)—without taking a share
+- अप परेतोऽस्मि (*apa pareto 'smi*)—I have been defeated by enemies
+- मन्यो (*manyo*)—O Manyu-deva
+- तं त्वा (*taṃ tvā*)—you, the worshipful
+- अक्रतुः (*akratuḥ*)—being without rite
+- अहं (*ahaṃ*)—I
+- जिहीळ (*jihīḷa*)—have made you angry
+- स्वा तनूः (*svā tanūḥ*)—you who are of the form of my body
+- बलदेयाय (*baladeyāya*)—to give me strength
+- मा (*mā*)—to me
+- एहि (*ehi*)—come graciously
+
+### Printed p. 327
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva of excellent knowledge, because I took no share in your rite I have been defeated by enemies. O Manyu-deva, I, being without rite, have made you, the worshipful, angry. You who are of the form of my body, come graciously to me, to give me strength.
+
+##### English translation
+Sage Manyu, takiug no part in the worship of you the powerful one, I have retreated (from before my foes); worshipping not, I was angry with you; (yet) being incorporated with) my body, approach me to give me strength.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं ते॑ अ॒स्म्युप॒ मेह्य॒र्वाज् प्र॑तीची॒नः स॑हुरे विश्वधायः।  
+> मन्यो॑ वज्रिन्न॒भि मामा न॑वृत्स्व॒ हना॑व॒ दस्यू॑रु॒त बो॑ध्या॒पेः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयं । ते । अस्मि । उप । मा । आ । इहि । अर्वाज् । प्रतीचीनः । सहुरे ।  
+> विश्वधायः i  
+> मन्यो इति । वज्रिन् । अभि । मां । आ । ववृत्स्व । हनाव । दस्यून् । उत । बोधि ।  
+> आपेः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहुरे शत्रूणां सहनशील विश्वधायो विश्वस्य धर्तर्मन्यो अयं
+> जनोऽहं ते तवास्मि कर्मकृत् । यत एवमतः प्रतीचीनः प्रतिगंतार्वाजस्मदभिमुखं मा मामुपेहि । उपागच्छ । हे मन्यो वज्रिन् मामभ्या ववृत्स्व ।
+> अभ्यावर्तस्व । किमर्थमभ्यागमनमिति चेत् उच्यते । हनावावां दस्यूइत्य्रून् ।
+> उतापि चापेर्बंधुं बोधि । बुध्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, enduring toward enemies and sustainer of the world, I, this man, am yours, a performer of rites. Since this is so, turning toward me, come to me, approach. O Manyu, bearer of the thunderbolt, turn toward me. If it is asked for what purpose the coming is, it is said: let us two slay the Dasyus, the enemies. And understand me, your kinsman.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहुरे (*sahure*)—you who overcome enemies
+- विश्वधायः (*viśvadhāyaḥ*)—and are the sustainer of the world, O Manyu-deva
+- अयं (*ayaṃ*)—this man
+- ते (*te*)—as belonging to you
+- आस्ति (*āsti*)—is
+
+### Printed p. 328
+
+- प्रतीचीनः (*pratīcīnaḥ*)—turned toward me
+- मा अर्वाज् (*mā arvāj*)—toward me
+- उपेहि (*upehi*)—come graciously
+- वज्रिन् (*vajrin*)—you who bear the thunderbolt
+- मन्यो (*manyo*)—O Manyu-deva
+- मां (*māṃ*)—to me
+- अभ्या ववृत्स्य (*abhyā vavṛtsya*)—come back
+- दस्यून् (*dasyūn*)—the enemies
+- हनाव (*hanāva*)—let us two slay together
+- उत (*uta*)—and
+- आपेः (*āpeḥ*)—me, your kinsman
+- बोधि (*bodhi*)—know as worthy of help
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, who overcome enemies and sustain the world, this sacrificer is yours. Turn toward me. O Manyu, bearer of the thunderbolt, come back to me. Let us two together slay the enemies. Know me, your kinsman, as worthy of help.
+
+##### English translation
+I am yours, come to me, advancing to me, turned towards me, O resister (of foes), sustainer of all; Manyu, bearer of the thunderbolt, come up to me, let us slay the Dasyus, think upon your kinsman.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ मेऽधा॑ वृ॒त्राणि॑ जंघनाव॒ भूरि॑ ।  
+> जु॒होमि॑ ते ध॒रुणं॒ मध्यो॒ अग्र॑मु॒भा उ॑पां॒शु प्र॑थ॒मा  ॑
+> पिबाव ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्र । इहि । दक्षिणतः । भव । मे । अध । वृत्राणि । जंघनाव । भूरि ।  
+> जुहोमि । ते । धरुणं । मध्वः । अग्रं । उभौ । उपअंशु । प्रथमा । पिबाव ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो अभि प्रेहि । अभिगच्छ । मम युद्धं गत्वा च मे मम दक्षिणतो
+> भव । अधाथानां वृत्राणि शत्रून्फूरि प्रभूतं जंघनाव । हनाव । ते तुभ्यमग्रं
+> श्रेष्ठं मध्यो मधु सोमरसं जुहोमि । उभौ त्वं चाहं चोपांश्वप्रकाशं
+> प्रथमा प्रथमा संतौ पिबाव ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, come toward me; having gone to my battle, be on my right. Then let us two slay many enemies. To you I offer the best honey, the Soma juice. Let both of us, you and I, being first, drink it in privacy, that is, unseen.
+
+### Printed p. 329
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभि प्रेहि (*abhi prehi*)—come facing me
+- मे (*me*)—my
+- दक्षिणतः (*dakṣiṇataḥ*)—on the right side
+- भव (*bhava*)—sit
+- अधॆ (*adhè*)—afterwards
+- भूरि वृत्राणि (*bhūri vṛtrāṇi*)—many enemies
+- जंघनाव (*jaṃghanāva*)—let us two slay together
+- ते (*te*)—addressed to you
+- धरुणं (*dharuṇaṃ*)—the sustaining
+- अग्रं (*agraṃ*)—the best
+- मध्वः (*madhvaḥ*)—and sweet Soma juice
+- जुहोमि (*juhomi*)—I offer
+- उभौ (*ubhau*)—both of us
+- उपांशु (*upāṃśu*)—in secret
+- प्रथमा (*prathamā*)—before all
+- पिबाव (*pibāva*)—let us drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, come facing me. Sit on my right side. Afterwards let us two together slay many enemies. Addressed to you, we offer the sustaining, best and sweet Soma juice. Let both of us drink it in secret, before all others.
+
+##### English translation
+Approach, be upon my right, let us slay a multitude of foes ; I offer to you the best juice of the Soma, the sustainer, let us both drink it first in privacy.
+
+## Sūkta 84 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वया मन्यो इति सप्तर्चं षोडशं सूक्तं । आदितस्त्रिस्रस्तिष्टुभस्ततश्चतस्रो
+> जगत्यः । पूर्ववदृषिदेवते । तथा चानुक्रांतं । त्वया मन्यो चतुर्जगत्यंतमिति ॥
+> अजिरनाम्मेकाह इदं सूक्तं मरुत्वतीयशस्त्रे निविद्धानं । सूत्रं पूर्वसूक्त
+> एवोदाहृतं ॥ विनुत्त्यभिभूतिषु वज्रेष्टेकाहेष्टेते सूक्ते मरुत्वतीयनिष्केवल्ययोः शस्यॆ । सूत्रितं च । विनुत्त्यभिभूत्योरिषुवज्रयोश्च मन्युसूक्ते ।
+> आ. ९-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning त्वया मन्यो (*tvayā manyo*) has seven Ṛks and is the sixteenth sūkta. Of its Ṛks the first three are in Triṣṭubh and the next four in Jagatī. The seer and deity are as before. So it is recorded in the Anukramaṇī: चतुर्जगत्यंतमिति (*caturjagatyaṃtamiti*). In the one-day rite called Ajira this sūkta is the nivid-dhāna in the Marutvatīya śastra. The Sūtra has been quoted already under the previous sūkta. In the one-day rites Vinutti, Abhibhūti, Iṣu and Vajra these two sūktas are recited in the Marutvatīya and Niṣkevalya śastras. It is stated in the Sūtra: विनुत्त्यभिभूत्योरिषुवज्रयोश्च मन्युसूक्ते (*vinuttyabhibhūtyoriṣuvajrayośca manyusūkte*) (Ā. 9-8).
+
+Anuvāda: This sūkta beginning त्वया मन्यो (*tvayā manyo*) is the sixteenth sūkta in the sixth Anuvāka. It has seven Ṛks. As in the previous sūkta, the seer and deities of this sūkta are the same. The first three Ṛks of this sūkta are in the Triṣṭup metre; the next four Ṛks are in the Jagatī metre. In the Anukramaṇī it is said त्वया मन्यो चतुर्जगंत्यंतं (*tvayā manyo caturjagaṃtyaṃtaṃ*). In the one-day rite named Ajira this sūkta is to be recited as the nivid-dhāna sūkta among the mantras of the Marutvatīya śastra, as is indicated in the
+
+### Printed p. 330
+
+passage of the Āśvalāyana Śrauta-sūtra, which has been quoted earlier. In the one-day rites Vinutti, Abhibhūti and Vajra, these two sūktas that have Manyu as deity are to be recited, as is explained by the Āśvalāyana Śrauta-sūtra, विनुत्यभिभूत्योरिषु वज्रयोश्च मन्युसूक्ते (*vinutyabhibhūtyoriṣu vajrayośca manyusūkte*) (Ā. 9-8).
+
+Sūkta 84. Maṇḍala 10, Anuvāka 6, Sūkta 84. Aṣṭaka 8, Adhyāya 3, Varga 19. Number of Ṛks in the sūkta: 7. Ṛṣi: Manyustāpasaḥ. Devatā: Manyu. Chandas: 1-3 Triṣṭup; 4-7 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ मन्यो स॒रथ॑मारु॒जंतो॒ हर्ष॑माणासो धृषि॒ता  ॑
+> मरुत्वः ।  
+> ति॒ग्मेष॑व॒ आयु॑धा सं॒शिशा॑ना अ॒भि प्र यं॑तु॒ नरो॑ अ॒ग्निरू॑पाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । मन्यो इति । सरथं । अरुजंतः । हर्षमाणासः । धृषिताः । मरुत्वः ।  
+> तिग्मइषवः । आयुधा । संशिशानाः । अभि । प्र । यंतु । नरः । अग्निरूपाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो हे मरुत्वः त्वया सरथं समानमेकमेव रथमारुह्यति शेषः ।
+> आरुजंतो गच्छंतो हर्षमाणासो हृष्टा धृषिता धृष्टास्तिगेषवस्तीक्ष्णबाणा
+> आयुधायुधानि संशिशानाः सम्यग्निश्यंतो नरो युद्धस्य नेतार इंद्रादयो
+> देवास्त्रदनुचरा वाग्निरूपा अग्निवत्तीक्ष्णदाहादिकर्माणः यद्वा संनद्धाः
+> कवचिनोऽभि प्र यंतु युद्धे सहायार्थं । अत्र त्वया मन्यो सरथमारुह्य
+> रुजंत इत्यादि निरुक्तमनुसंधेयं । १०-३० ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, O lord of the Maruts, going together with you in one and the same chariot (having mounted it is to be supplied), rejoicing, bold, with sharp arrows, whetting their weapons well, may the leaders of the battle, Indra and the other gods, your followers, fire-like, that is, doing fiery acts of burning and the like, or else armoured, advance to our side in battle for help. Here the Nirukta beginning त्वया मन्यो सरथमारुह्य रुजंत इत्यादि (*tvayā manyo sarathamāruhya rujaṃta ityādi*) is to be consulted (10-30).
+
 ---
 
-**Progress note:** Done through printed p. 324. pp. 317-324; printed p. 321 is a displaced page (Surya hymn verses 34-35 inside Sukta 83); its verse is a bold 'Verse 35' line, not a Rk heading, with a NOTE (user decision Nov 25 2026)
+**Progress note:** Done through printed p. 330. Manyu-sukta 83 Rks 4-7, sukta 84 intro and Rk 1 (pp. 325-330)
