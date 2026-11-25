@@ -31,3 +31,4 @@
 | 29 | through p. 543 (three windows in one agent: pp. 524–543) | sonnet | 27 | 241669 | 7.0 |
 | 30 | through p. 556 (two windows in one agent: pp. 544–556; the third not started after a VERIFY FAIL, repaired by the dispatcher) | sonnet | 21 | 164911 | 5.0 |
 | 31 | through p. 576 (three windows in one agent: pp. 557–576) | sonnet | 19 | 217764 | 6.8 |
+| 32 | through p. 602 (three windows in one agent: pp. 577–602; Venkata Rao essay on Indra) | sonnet | 24 | 236276 | 6.3 |
