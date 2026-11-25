@@ -6666,6 +6666,204 @@ O Indra, hold back within the thunderbolt of the enemy who wishes to kill and is
 
 O Indra, hold back there, so that it does not fall upon us, the thunderbolt-like weapon of the enemy who is hostile to us and wishes to kill us. O wealthy Indra, whether the enemy who wishes to kill us is a dasyu or an Ārya, check there the weapon he has hidden away, so that it does not come to us.
 
+### Printed p. 177
+
+##### English translation
+Restrain, Indra, the thunderbolt of the malignant threatening (foe); ward off, Maghavan, the secret weapon (of our foe), be he Dasa or Arya.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒द्यो ह्र॒दम॑पिब॒ज्ज हृ॑र्षाणः॒ कूटं॑ स्म तृं॒हद॒भिमा॑तिमेति ।  
+> प्र मु॒ष्कभा॑रः॒ श्रव॑ इ॒च्छमा॑नोऽजि॒रं बा॒हू अ॑भर॒त्सिषा॑सन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उद्नः । ह्रदं । अपिबत् । जर्हृषाणः । कूटं । स्म । तृंहत् । अभिमातिं । एति ।  
+> प्र । मुष्कभारः । श्रवः । इच्छमानः । अजिरं । बाहू इति । अभरत् । सिसासन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र वृषभः स्तूयते । वृषभ उद्य उदकस्य प्रदमगाधजलाशयमपिबज्जर्हृषाणोऽत्यंतं हृषितः सन् । तथा कूटं पर्वतशृंगं चोर्रैर्गॊपिधानार्थं
+> निहितं तृंहत्स्म ! शृंगेण विहिंसितवान् । व्यदारयदित्यर्थः । तथा कृत्वाभिमातिमेति ।
+> शत्रुं गच्छति हंतुं । पश्चान्मुष्कभारः प्रवृद्धमष्कः । प्रवृद्धस्य वृषभस्य हि मुष्कवृद्विर्भवति । तथा प्रवृद्धो वृषभः श्रवः । श्रूयत इति श्रवो यशः । इच्छमान
+> इच्छन्नजिरं गमनशीलं शत्रुं बाहू बाहुभ्यां बाह्वर्वा प्राभरत् । प्रहृतवान् ।
+> यद्वा । अजिरमिति क्षिप्रनाम । क्षिप्रं सिषासन् संभक्तुमिच्छन् बाहू प्राभरत् ।
+> प्रसारितवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Here a bull is praised. The bull, greatly delighted, drank the deep pool of water. In the same way it struck with its horn and split the mountain peak (कूटं (*kūṭaṃ*)) that thieves had placed there to hide cows. Having done so, it goes against the enemy in order to kill him. Afterwards the bull is मुष्कभारः (*muṣkabhāraḥ*), "with grown testicles"; for in a full-grown bull the testicles grow. So the grown bull, desiring श्रवः (*śravaḥ*), that is, fame (what is heard), attacked the swift-moving enemy with its two arms, that is, with its forelegs. Alternatively: अजिरं (*ajiraṃ*) is a name for "quick"; desiring to obtain (सिषासन् (*siṣāsan*)) quickly, it stretched out its arms.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उद्नः (*udnaḥ*)—filled with water (the bull yoked to Mudgala's cart)
+- ह्रदं (*hradaṃ*)—the very pool
+- अपिबत् (*apibat*)—drank
+- जर्हर्षाणः (*jarharṣāṇaḥ*)—joyfully (that is, from excess of delight)
+- कूटं (*kūṭaṃ*)—the mountain peak (which thieves had set up as a cover to hide cows), that is, a great rock
+- तृंहत् स्म (*tṛṃhat sma*)—gored it with its horn and threw it down (and then)
+- अभिमातिं एति (*abhimātiṃ eti*)—charged forward against the enemy
+- प्र मुष्कभारः (*pra muṣkabhāraḥ*)—that bull, intoxicated with mushka, that is, intoxicated with strength
+- श्रवः (*śravaḥ*)—fame, that is, the approval of its master
+- इच्छमानः (*icchamānaḥ*)—
+
+### Printed p. 178
+
+- desiring
+- अजिरं (*ajiraṃ*)—the enemy who was rushing forward
+- सिषासन् (*siṣāsan*)—approaching
+- बाहू (*bāhū*)—with its arms, that is, with its feet (hooves)
+- प्र अभरत् (*pra abharat*)—seized and harmed
+
+##### भावार्थ (Bhāvārtha)
+
+That bull (ox), yoked to Mudgala's cart, drank all the water in the pool. Delighted by this, it gored with its horns and threw down the boulder that lay across the mouth of the cave in which thieves had hidden the cows, and charged forward against the enemy. The bull, intoxicated with excess of strength, rushed upon the enemy to win its master's approval, and trampled and harmed him with the hooves of its feet.
+
+##### English translation
+Rejoicing, he drank up the pool of water; he cleft the mountain peak, he went against the enemy; endowed with vigour, eager for fame, assailing the quick--moving (foe), he scized him with his two arms.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk is described the daring deed of the bull yoked to the cart of the sage Mudgala, which charged upon the enemy and wounded him.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न्य॑क्रंदयन्नु प॒यंत॑ एन॒ममे॑हयन्वृष॒भं मध्य॑ आ॒जेः ।  
+> तेन॒ सूभ॑र्वं श॒तव॑त्स॒हस्रं॒ गवां॒ मुद्ग॑लः प्र॒धने॑ जिगाय ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । अक्रंदयन् । उपयंतः । एनं । अमेहयन् । वृषभं । मध्ये । आजेः ।  
+> तेन । सूभर्वं । शतवत् । सहस्रं । गवां । मुद्गलः । प्रधने । जिगाय ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मुद्गल आह । तेनेति तच्छब्दश्रुतेर्यच्छब्दाध्याहारः । यमेनं वृषभं
+> न्यक्रंदयन् नितरां क्रंदनमकुर्वन् । के । उपयंतः समीपे गच्छंतो नरः ।
+> यथा प्रचंडेन क्रंदनेन शत्रवो भीताः पलायंते तथाकुर्वन् । किं । वृषभं
+
+##### Gist of the bhāṣya
+
+Mudgala speaks. Since the word तेन (*tena*) is heard, the word "yat" (which) must be supplied: the bull which the men, approaching, made to bellow (न्यक्रंदयन् (*nyakraṃdayan*)) repeatedly. They did so in such a way that enemies, frightened by the fierce bellowing, flee. What did they make bellow? The bull
+
+### Printed p. 179
+
+> वर्षकं सेक्तारमाजेः संग्रामस्य मध्येमेहयन् मूत्रपुरीषोत्सर्गं विश्रामार्थं कारितवंतः सूभर्वं । भर्वतिरत्तिकर्मा । शोभनचर्वणादिभक्षकं । तादृशो
+> यथा भवति तथा कृत्वेत्यर्थः । यद्वा । एतद्द्योसहस्रविशेषणं । तेनोक्तरूपेण
+> वृषभेण सूभर्वं सुष्टु यवसास्वादि शतवच्छतोपेतं गवां सहस्रं मुद्गल एतन्नामाहं प्रधने संग्रामे जिगाय । अजैषं ॥
+
+##### Gist of the bhāṣya
+
+— the one who sprinkles (the shedder of seed) — in the midst of the battle (आजेः (*ājeḥ*)). They made him pass urine and dung (अमेहयन् (*amehayan*)), having him do so for rest. सूभर्वं (*sūbharvaṃ*): the root भर्वति (*bharvati*) has the sense of eating; hence "a good chewer", one who eats well; the sense is that they did this so that he became such. Alternatively, this is an epithet of the thousand: by that bull as described, I, Mudgala by name, won in battle (प्रधने (*pradhane*)) a thousand cows, with a hundred added, well-fed on fodder. जिगाय (*jigāya*) means "I won".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आजेः (*ājeḥ*)—of the battlefield
+- मध्यॆ (*madhyè*)—in the middle
+- एनं वृषभं (*enaṃ vṛṣabhaṃ*)—this bull (men)
+- उपयंतः (*upayaṃtaḥ*)—approaching
+- नि अक्रंदयन् (*ni akraṃdayan*)—made it bellow loudly (to frighten the enemies)
+- अमेहयन् (*amehayan*)—also made it pass urine and dung
+- तेन (*tena*)—by this act of the bull, done in this way
+- मुद्गलः (*mudgalaḥ*)—I, named Mudgala
+- प्रधने (*pradhane*)—in battle
+- सूभर्वं (*sūbharvaṃ*)—well-fed
+- गवां शतवत् सहस्रं (*gavāṃ śatavat sahasraṃ*)—hundreds and thousands of cows
+- जिगाय (*jigāya*)—have won and brought
+
+##### भावार्थ (Bhāvārtha)
+
+(Mudgala's words:) My people took this bull that was with me to the battlefield, and there made him bellow and also pass urine and dung. The enemies were thrown into confusion by the bull's bellowing. By this action of the bull, I, Mudgala, won in battle hundreds and thousands of cows, well-fed on grass, and brought them back.
+
+##### English translation
+Approaching the bull, they made him roar in the midst of the battle. I, Mudgala, have thereby gained in war hundreds and thousands of cattle well-pastured.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given an etymology:
+
+वृषभः । प्रजां वर्षतीति वातिबृहति रेत इति ना तद्वृषकर्मा वर्षणाद्वृ षभः ॥ तस्यैषा भवति ॥ (*vṛṣabhaḥ | prajāṃ varṣatīti vātibṛhati reta iti nā tadvṛṣakarmā varṣaṇādvṛ ṣabhaḥ ‖ tasyaiṣā bhavati ‖*) (Ni. 2 9-22)**NOTE**
+
+"वृषभ (*vṛṣabha*)" means one who pours out. What does he pour out? He pours out the offspring, or the seed (semen) which is the cause of the birth of offspring, into the womb (of the female); hence the name vṛṣabha. Or, because he pours out seed in abundance, he is called vṛṣabha. "From pouring, vṛṣabha": the pouring out of seed is called vṛṣakarma; because he does it, he is called vṛṣabha. The Ṛk that contains this word is cited here:
+
+### Printed p. 180
+
+न्यक्रंदयन्नुपयंत एनमिति व्याख्यातं । अमेहयन् वृषभं मध्य आजेराजयनस्याजवनस्यॆति वा । तेन तं सूभर्वं राजानं । भर्वतिरत्तिकर्मा । तद्वा सूभर्वं सहस्रं गवां मुद्गलः प्रधने जिगाय । प्रधन इति संग्रामनाम प्रकीर्णान्यस्मिन् धनानि भवंति ॥ (*nyakraṃdayannupayaṃta enamiti vyākhyātaṃ | amehayan vṛṣabhaṃ madhya ājerājayanasyājavanasyèti vā | tena taṃ sūbharvaṃ rājānaṃ | bharvatirattikarmā | tadvā sūbharvaṃ sahasraṃ gavāṃ mudgalaḥ pradhane jigāya | pradhana iti saṃgrāmanāma prakīrṇānyasmin dhanāni bhavaṃti ‖*) (Ni. 9-23)
+
+The meaning of the words न्यक्रंदयन्नुपयंत एनं (*nyakraṃdayannupayaṃta enaṃ*) has been explained earlier. "They made this bull pass urine and dung in the middle of the battlefield" means they made him rest for a moment. Āji means battlefield. The derivation of the word āji follows the meanings of the words आजयन (*ājayana*), a place where enemies are conquered, or आजवन (*ājavana*), a place where one moves swiftly. For this battlefield is helpful for conquering enemies, or on this battlefield soldiers rush swiftly one upon another and fight. Therefore the word āji is derived from आजयन (*ājayana*) or आजवन (*ājavana*), which carry these meanings. The sense of the sentence is that they made that bull, which was lording it like a king on such a battlefield, roar. भर्वतिरत्तिकर्मा (*bharvatirattikarmā*): the root भर्वति (*bharvati*) has the meaning "to eat". Therefore the word सूभर्वं (*sūbharvaṃ*), formed from this root, means a bull that has eaten (grass) well, one that has grazed well. With the help of such a bull the sage Mudgala won thousands of cows in battle and brought them. Prādhana means battle. For in this battle it is possible to conquer enemies and plunder the abundant wealth they possess; hence battle also has the name pradhana.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒कर्द॑वे वृष॒भो यु॒क्त आ॑सी॒दवा॑वची॒त्सार॑थिरस्य के॒शी ।  
+> दुधे॑युर्यु॒क्तस्य॒ द्रव॑तः स॒हान॑स ऋ॒च्छंति॑ ष्मा नि॒ष्पदो॑ मुद्द॒लानीं॑ ॥ ६ ॥
+
+### Printed p. 181
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ककर्दवे । वृषभः । युक्तः । आसीत् । अनावचीत् । सारथिः । अस्य । केशी ।  
+> दुधेः । युक्तस्य । द्रवतः । सह । अनसा । ऋच्छंति । स्म । निःपदः । मुद्दलानीं ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ककर्दवे हिंसनाय शत्रूणां वृषभो वर्षिता गौर्युक्त आसीत् । रथे
+> संबद्धोऽभूत् । केशी केशवान् प्रग्रहवानस्य राज्यो रथस्य वा सारथिः । मुद्दलानीत्यर्थः । सारथ्यभिप्रायेण केशीति पुल्लिंगता । अवावचीत् । वृषभभयजनकं शत्रुभयजनकं वाक्रोशमकरोत् । अथवा । केशी केशिनी सारथिरस्य । अमुमित्यर्थः ।
+> अमुं वृषभं शब्दमकारयत् ॥ वच परिभाषण इत्यस्य केवलस्यांतर्णीतण्यर्थस्य
+> यज्लुगंतस्य लुजि रूपं ॥ अथवा । अस्य सारथिः सहायभूतः केशी प्रकृष्टकेशो
+> वृषभोऽवावचीत् । भृशमशब्दयत् । एवंभूतस्य दुधेर्दुर्धरस्यानसा सह द्रवतः
+> शीघ्रं शत्रुमध्यॆ रथेन सह धावतो वृषभस्य भयंकरशब्देन निष्पदो निर्गच्छंतो
+> योद्धारो मुद्दलानीं मुद्दलस्य योषितं सारथिभूतां प्रत्यृच्छंति स्म ।
+> अगच्छन्नित्यर्थः ॥ पाप्रेत्यादिनर्चादेशः ॥
+
+##### Gist of the bhāṣya
+
+For the harming of enemies (ककर्दवे (*kakardave*)) the bull, the sprinkler, was yoked; it was fastened to the chariot. केशी (*keśī*) means one having hair, or one holding the reins; the charioteer of this king or of this chariot, that is, Mudgalānī. The masculine form is used with the sense of "charioteer". अवावचीत् (*avāvacīt*): she uttered a cry causing fear to the bull, or causing fear to the enemies. Alternatively: केशी (*keśī*) is feminine, a woman with hair, the charioteer of this (bull); the sense is that she made this bull sound. The form is the aorist of the root वच (*vaca*) ("to speak") in the simple (non-causative) sense, with an internal causative, ending in yaṅluk. Or else: the long-maned bull, the helper of this charioteer, bellowed loudly. Of such a bull, irresistible (दुधेः (*dudheḥ*)), running swiftly with the cart in the midst of the enemy, the warriors, going out (निष्पदः (*niṣpadaḥ*)) at its fearful sound, went toward Mudgalānī, the wife of Mudgala, who was the charioteer. The sense is that they went. (A remark on the substitution of ṛc follows, which is grammar.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ककर्दवे (*kakardave*)—for the sake of harming enemies
+- वृषभः (*vṛṣabhaḥ*)—the bull
+- युक्तः आसीत् (*yuktaḥ āsīt*)—was yoked to the chariot
+- केशी (*keśī*)—having long hair
+- अस्य सारथिः (*asya sārathiḥ*)—Mudgalānī, the charioteer of this chariot
+- अवावचीत् (*avāvacīt*)—made a loud sound to frighten the bull or the enemies
+- दुधेः (*dudheḥ*)—of the unbearable
+- अनसा सह (*anasā saha*)—with the chariot (cart)
+- द्रवतः (*dravataḥ*)—by the fearful bellowing of this bull, which was running swiftly in the midst of the enemies
+- निष्पदः (*niṣpadaḥ*)—the warriors who were running away
+- मुद्दलानीं (*muddalānīṃ*)—Mudgalānī the charioteer
+- ऋच्छंति स्म (*ṛcchaṃti sma*)—followed after (pursued)
+
+##### भावार्थ (Bhāvārtha)
+
+When the chariot was got ready in the battle to kill the enemies, the bull was yoked to it. Then the charioteer Mudgalānī, resplendent with her long hair, made a loud sound to urge on the bull. As that bull yoked to the cart, advancing with unbearable speed, plunged into the midst of the enemies dragging the cart,
+
+### Printed p. 182
+
+the soldiers, terrified by that sound and running away, followed Mudgalānī the charioteer. Or else the enemy soldiers rushed upon Mudgalānī the charioteer.
+
+##### English translation
+The bull has been yoked for the destruction of the enemy ; his long-haired yoke-fellow made him roar; rushing on with the waggon of the irresistible yoked (bull), the warriors comming forth went to Mudgalani.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning of this Ṛk is somewhat difficult. It is the custom to use chariots when fighting to kill enemies. In the battle that Mudgala fought with the thieves, the single bull he had was yoked to the chariot. That chariot was driven by Mudgala's wife Mudgalānī as charioteer. Her long hair then shone so that all could see it. Those who drive a cart frighten and drive their oxen on with words like "hey"; so too the charioteer Mudgalānī, urging her chariot's bull to go swiftly, made a loud sound. This sound not only urged on her bull but also caused fear in the enemy soldiers. Or, for the sentence केशी अवावचीत् (*keśī avāvacīt*), one may say either that the long-haired bull yoked to this chariot bellowed fearfully and made a noise, or that the charioteer Mudgalānī made her bull bellow; either meaning may be given for the first half of this Ṛk.
+
+For the second half of this Ṛk, beginning दुधेयुक्तस्य (*dudheyuktasya*), the meaning may be given thus: when the bull yoked to this chariot, dragging the chariot, was running swiftly in the midst of the enemies, the enemy soldiers, unable to withstand its force, ran off in various directions, and also rushed upon Mudgalānī, who was driving the chariot.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त प्र॒धिमुद॑हन्नस्य वि॒द्वानुपा॑युन॒ग्वंस॑ग॒मत्र॒ शिक्ष॑न् ।  
+> इंद्र॒ उदा॑व॒त्पति॒मघ्न्या॑ना॒मरं॑हत॒ पद्या॑भिः क॒कुद्मा॑न् ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 176. pp. 171-176 (batch API)
+**Progress note:** Done through printed p. 182. pp. 177-182 (batch API)
