@@ -168,12 +168,12 @@ No counts are recorded for 2.3; all were found when pages were re-read from bett
 
 | Volume | Open |
 |---|---|
-| 1 | 312 doubt marks in three files; 148 pages without Sanskrit; about 59 best-effort places; accents unverified |
+| 1 | second pass done Nov 25 2026 (Part 4); 108 `[?]` remain; 148 pages without Sanskrit; about 59 best-effort places; accents unverified |
 | 2 | 11 numerals not checked |
 | 3 | 537 doubt marks |
 | 4 | 151 doubt marks, 103 accent doubts |
 | 5 | user's readings for pp. 578–625 not applied |
-| 6 | 183 numeral rows await the user |
+| 6 | numerals: settled by the user's decision of Nov 24 2026 (the supplied text is right); second pass done Nov 24 2026 (Part 4) |
 | 7 | 173 numeral differences |
 | 8 | 225 numeral differences; Sūktas 98–112, about 280 flagged pages |
 | 9 | 274 numeral differences |
@@ -211,3 +211,24 @@ A raw count of doubt marks overstates the places (each can appear in the Devanag
 | Deviations in Pada-pāṭha, word meanings, bhāṣya mentioned | H29, S7 |
 
 Kinds the comments do not mention, for the design to cover: H1 (blocks under the wrong label), H7 (page breaks), H15–H16 (quotations retyped or shortened), H25–H30 (meaning), H31 (grammar).
+
+---
+
+## Part 4. What the second pass of Vols 6 and 1 found (Nov 24–25 2026; counts from `volN/review/second_pass/findings.tsv`)
+
+Readers: Sonnet, one per batch of about 30 pages, Kannada against English, no scans. A *finding* is one place; "applied" = changed in the English (or the supplied Kannada: one place); the rest were kept (English kept, settled by rule).
+
+| Kind | Vol 6 findings (applied) | Vol 1 findings (applied) | What it was |
+|---|---|---|---|
+| S2 number the print lacks | 305 (304) | 43 (43) | sūtra, Uṇādi and Nirukta numbers added by the English from memory or as "read" |
+| S1 / S3 number wrong or missing | 180 (177) / 48 (48) | 157 (156) / 72 (72) | digits, chapter numbers, counts ("twenty-two names" for twenty-eight), references |
+| S14 wrong or reversed sense | 93 (86) | 421 (413) | roles and conditions reversed (who asks whom; "dry firewood burns where there is fire"); bold paragraphs of paraphrase |
+| S7 Sanskrit quotation misread | 158 (145) | 381 (359) | English Devanagari/IAST differing from the Kannada (not edited from Nov 25: derived data) |
+| S13 name or term | 32 (24) | 305 (263) | look-alike names, ಶಿಷ್ಟ "the learned" for "disciples" |
+| S15 attribution | 4 (4) | 60 (60) | wrong author or school (Mundaka for Chandogya; Vararuchi/Patañjali) |
+| S16 addition | 47 (44) | 168 (146) | facts and names the print lacks (anecdotes, "French scholar Burnouf") |
+| S17 omission | 15 (14) | 69 (35) | paragraphs and sentences missing (not added: later translation pass) |
+| H29 Kannada misprint the English silently corrected | 280 (3) | 135 (0) | the English is right, the Kannada has a non-word; listed in `kn_misprints.tsv` |
+| S18 grammar page misstated | 13 (13) | — | sūtra names and numbers on the grammar pages (the English grammar pages are 2–4 line notes) |
+
+New observations: (a) **numbers**, the largest class in Vol 6, are what the user's decision removes the doubt from (the supplied numerals are correct); (b) the English of the prose volume (Vol 1) is a loose paraphrase with **invented facts** and reversed senses (S14, S16: 589 findings in 720 pages); (c) the supplied files have their own faults: Vol 1 p. 215 is a copy of p. 216, pp. 345, 594–595 and 716 have no text, Kannada table totals that do not add up; (d) the English page boundaries are shifted against the Kannada by a paragraph in about nine places per volume; (e) the Kannada prints some impossible numbers (maṇḍala 18, Pāṇini adhyāya 9) which were applied as printed and listed in `open.tsv`.

@@ -118,6 +118,8 @@ Review files: `doubts.tsv` (every `[?]` with the exact words), `accent_report.ts
 
 ## 8. Publication (print PDFs)
 
+*Print rules of the user's reading of the Vol 1 PDF (Nov 25 2026) are in `docs/REQUIREMENTS.md` A4a; they apply to every volume's PDF and are not built yet.*
+
 One generic builder for all new volumes: **`python3 publish/volbook.py N [eng|kan]`** → `publish/out/volN_full_Eng.pdf`, `volN_full_Kan.pdf` (+ `.html`); reads `volN/pubcfg.json`; never changes the `.md` files. Needs `pip install weasyprint` and `apt-get install fonts-lohit-deva fonts-noto-core fonts-lohit-knda` (fonts are not preinstalled in cloud sessions). Lohit Devanagari is used because it draws the svarita as a vertical stroke; check no dotted circles (◌) in `pdftotext`.
 
 Steps for a volume: (1) user's front-matter scan PDF → `python3 publish/tools/frontmatter/fm_extract.py UPLOAD.pdf --vol N --roles cover,title,portrait,permission,board,preface1,preface2,contents1,…,abbreviations` → `publish/assets/volN/`; (2) `python3 publish/tools/frontmatter/contents_parse.py volN/html/FILE.md --check` and **compare every contents number with the scan pages** (Vol 15: 159/159 equal after restoring one lost number; a number that is wrong *in the print* stays as printed and is recorded in `review/contents_check.md`); (3) fill `pubcfg.json` roles; (4) build; (5) open the first ~20 pages of both PDFs as images (cover, title page on ONE page, portrait, permission, board, contents, index), check page counts and fonts.
@@ -140,6 +142,14 @@ In memory only (the `.md` is not changed): missing `## Sūkta` headings are supp
 | `publish/tools/translit/*` | Kannada↔Devanagari, IAST |
 | `publish/tools/accents/accent_volume.py` | Vedic accents from `refs/mandala` (`--write`; unmatched lines → `accent_report.tsv`) |
 | `publish/tools/frontmatter/*`, `publish/volbook.py` | front matter, contents, print PDFs |
+| `tools/rv/recheck.py`, `recheck_numbers.py` (list; `--apply` only the one-digit anchored cases) | second-pass sieve: numbers, references, quotations, `[?]` of a legacy volume's English against the Kannada book, page by page |
+| `tools/rv/prose_kn.py` (`--rk-from N`, `--vol N`, `--front FILE`) | the Kannada book of a legacy volume from its supplied files (prose pages, then the Ṛk layout); page marks; `html_to_kn.kn_pages` writes "NOT IN THE SUPPLIED TEXT" only for a page that is really absent |
+| `tools/rv/sp_apply.py` | second pass: carries out a batch's edit file (page, target en\|kn, old, new, kind, basis), exact-once, English in several files, pages under combined headings, logs `repair_log.md` and `source_fixes.tsv`; refuses Devanagari that the Kannada page does not support (`--nogate` to revert) |
+| `tools/rv/sp_report.py` | second pass: the one status report (`volN/review/second_pass/STATUS_REPORT.md`, format `docs/SECOND_PASS_REPORT.md`) from `findings.tsv`, `batches.tsv`, `open.tsv`, `kn_misprints.tsv`, `decided_by_default.tsv`; `--add-batch FIRST LAST --tokens … --commit …` |
+| `tools/rv/sp_sanskrit.py` | Devanagari + IAST from Kannada words by script; `--check VOL PAGE TEXT` is the gate used by `sp_apply.py` |
+| `tools/rv/SECOND_PASS_BRIEF.md`, `docs/prompts/second_pass/VOLN.md` (made by `tools/rv/second_pass_prompt.py`), `VOL1_READER.md` | the reader's brief and the per-volume job prompt |
+| `tools/rv/bhumika_map.py N` | which printed pages carry Sāyaṇa's Bhāṣya-bhūmikā and where in the Wikisource export M00 (Vol 1) |
+| `tools/rv/extract_figures.py`, `figures_sheet.py N --pdf` | pictures of the supplied files to `volN/html/figures/`; contact sheet `volN/review/VolN_pictures.pdf` (reads several supplied files) |
 | `tools/rv/compare_html_scan.py`, `repair_worksheet.py`, `publish/tools/ref_check/`, `numeral_pass/` | repair/verification passes on older volumes |
 
 ## 10. Cost and speed (measured on Vol 15)
@@ -174,6 +184,8 @@ New volumes use the pipeline above. Vols 1–14 keep their legacy workflow (`doc
 - After a history rewrite every other clone needs `git fetch --prune`, `git reset --hard origin/main`, `git reflog expire --expire=now --all`, `git repack -adf --window=50 --depth=50` (see `docs/LESSONS.md` 21); the repo is kept small: no scans, no new built artifacts if avoidable.
 - Large files to the user: ≤ 400 MiB per file, split with checksums and a README.
 - Fonts and WeasyPrint are installed per session (§8). Keep `work/` directories out of git; they hold scratch windows only.
+
+- **Added Nov 25 2026 (second pass of Vols 6 and 1):** the stop hook asks for a commit whenever a file changes, so commit and push after every batch and a checkpoint while a reader still runs; a reader stopped by the usage limit is resumed with `SendMessage` (check what it already appended), not restarted; a reader stopped with `TaskStop` leaves nothing half-applied if it had not yet run `sp_apply.py`; give a range as "every page from A through B inclusive" and ask for the list of pages read; read `origin/main` and the `refs/` tree before saying that a source lacks something (the Bhāṣya-bhūmikā export was on main); merge `origin/main` into the session branch before merging the branch into main (151 commits had arrived; two conflicts); regenerate the per-volume prompts with `tools/rv/second_pass_prompt.py` instead of editing them.
 
 ## 15. Keep improving — rules for every future session (user request, Nov 9 2026)
 
