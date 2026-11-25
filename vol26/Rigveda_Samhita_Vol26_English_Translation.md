@@ -694,6 +694,186 @@ If during this period of twenty-four years sluggishness comes upon the body, the
 
 अथ यानि चतुर्विंशद्वर्षाणि तन्माध्यंदिनं सवनं चतुश्चत्वारिंशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा वाव रुद्रा एते हीदं सर्वं रोदयंति । (*atha yāni caturviṃśadvarṣāṇi tanmādhyaṃdinaṃ savanaṃ catuścatvāriṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tadasya rudrā anvāyattāḥ prāṇā vāva rudrā ete hīdaṃ sarvaṃ rodayaṃti |*) (Chā. 3-16-3) **NOTE**
 
+### Printed p. 44
+
+The Triṣṭup metre consists of forty-four syllables, and the Triṣṭup is the metre of the midday savana. Therefore the next forty-four years, the second stage of man, are of the nature of the midday savana in the sacrifice of life. In this the Rudras are dependent. Because even the departure of the breath makes everyone weep, these breaths themselves are the Rudras.
+
+तं चेहेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात् प्राणा रुद्रा इदं मे माध्यंदिनं सवनं तृतीयसवनमनुसंतनुतेति माहं प्राणानां रुद्राणां मध्यॆ यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति । (*taṃ cehetasminvayasi kiṃcidupatapetsa brūyāt prāṇā rudrā idaṃ me mādhyaṃdinaṃ savanaṃ tṛtīyasavanamanusaṃtanuteti māhaṃ prāṇānāṃ rudrāṇāṃ madhyè yajño vilopsīyetyuddhaiva tata etyagado ha bhavati |*) (Bhā. 3-16-4) **NOTE**
+
+If during these forty-four years, which are of the nature of the midday savana, there comes any sluggishness of the body, then, addressing the Rudras: "O Rudras, who are of the nature of breaths, may this midday savana of mine carry me up to the third savana. May my sacrifice of life not be cut off in the middle", if one prays thus, the man becomes freed from sluggishness **NOTE**.
+
+अथ यान्यष्टाचत्वारिंशद्वर्षाणि तत्तृतीयसवनमष्टाचत्वारिंशदक्षरा जगती जागतं तृतीयसवनं तदस्यादित्या अन्वायत्ताः प्राणा नावादित्या एते हीदं सर्वमाददते । (*atha yānyaṣṭācatvāriṃśadvarṣāṇi tattṛtīyasavanamaṣṭācatvāriṃśadakṣarā jagatī jāgataṃ tṛtīyasavanaṃ tadasyādityā anvāyattāḥ prāṇā nāvādityā ete hīdaṃ sarvamādadate |*) (Chā. U. 3-16-5)
+
+The Jagatī, which consists of forty-eight syllables, is the metre of the third savana; therefore the last forty-eight years of man are also of the nature of the evening savana. Because at the time of the departure of the breath they draw everything into themselves, the breaths are of the form of the Ādityas **NOTE**. And the breaths, being of the nature of the Ādityas, are the presiding deities of this third savana.
+
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनु संतनोतीति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति. (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātprāṇā ādityā idaṃ me tṛtīyasavanamāyuranu saṃtanotīti māhaṃ prāṇānāmādityānāṃ madhye yajño vilopsīyetyuddhaiva tata etyagado haiva bhavati.*) (Bhā. U. 3-16-6) **NOTE**
+
+If sluggishness comes at this time, then, addressing the Ādityas: "May my sacrifice not be cut off in the middle. May my span of life be lived out in full", if one prays thus, the sacrifice of life is not cut off but is carried out completely.
+
+एतद्दस्मै वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद । (*etaddasmai vai tadvidvānāha mahidāsa aitareyaḥ sa kiṃ ma etadupatapasi yo 'hamanena na preṣyāmīti sa ha ṣoḍaśaṃ varṣaśatamajīvatpra ha ṣoḍaśaṃ varṣaśataṃ jīvati ya evaṃ veda |*) (Bhā. U. 2-16-2) **NOTE**
+
+### Printed p. 45
+
+Because Mahidāsa Aitareya had this knowledge of the truth, he did not fear the bodily sluggishness and the like that came upon him, and lived one hundred and sixteen years, so as to bring his sacrifice of life to full completion; thus the greatness of the three savanas, which are of the nature of human life, is described. In the Ṛk at hand the relation between Indra, who is the presiding deity of all the means of sacrifice such as rain, and the savana is described. And since it is said, at the time when the Soma sacrifice that gives satisfaction to Indra has been performed, विश्वा गौः ते जोष्या भूत् (*viśvā gauḥ te joṣyā bhūt*), that all speech, of the form of stotra and śastra, becomes pleasing to you, the order of those stotras and śastras that belong to the Soma sacrifice is stated thus.
+
+**For the Prātaḥsavana**
+- Stotras: बहिष्पवमान स्तोत्र (*bahiṣpavamāna stotra*); 4 आज्य स्तोत्रगळु (*ājya stotragaḷu*)
+- Śastras: होतृविन आज्य शस्त्र (*hotṛvina ājya śastra*); होतृविन प्रलुग शस्त्र (*hotṛvina praluga śastra*); 3 आज्यशस्त्रगळु (*ājyaśastragaḷu*) of the Hotṛka priests (Maitrāvaruṇa; Brāhmaṇācchaṃsin, Acchāvāka)
+
+**For the Mādhyandina-savana**
+- Stotras: माध्यंदिनपवमानस्तोत्र (*mādhyaṃdinapavamānastotra*); 4 पृष्ठ स्तोत्रगळु (*pṛṣṭha stotragaḷu*)
+- Śastras: होतृविन मरुत्वतीयशस्त्र (*hotṛvina marutvatīyaśastra*); होतृविन निष्केवल्यशस्त्र (*hotṛvina niṣkevalyaśastra*); 3 निष्केवल्यशस्त्र (*niṣkevalyaśastra*) of the Hotṛka priests
+
+**For the Tṛtīya-savana**
+- Stotras: आर्भवपवनमानस्तोत्र (*ārbhavapavanamānastotra*); अग्निष्टोमसाम (*agniṣṭomasāma*)
+- Śastras: होतृविन वैश्वदेवशस्त्र (*hotṛvina vaiśvadevaśastra*); होतृविन अग्निमारुतशस्त्र (*hotṛvina agnimārutaśastra*)
+
+Thus the meaning given for गौः (*gauḥ*), speech of the nature of stotra and śastra, also indicates the close relation of Indra with the sacrifice and with the speech connected with the sacrifice. This relation is explained in the Śatapatha in this way.
+
+सोऽयं यज्ञो वाचमभिदध्या । मिथुनेनया स्यामिति ताग्ं संबभूव ॥ इंद्रो ह ना ईक्षांचक्रे । महद्वाऽइतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यन्मा तन्नाभिभवेदिति स इंद्र एव गर्भो भूत्वैतन्मिथुनं प्रविवेश । स ह संवत्सरे जायमान ईक्षांचक्रे । महावीरा वा इयं योनिर्या मामदीधरत यद्वै मैतो महदेवाऽभ्वं नानुप्रजायेत यन्मा तन्नाभिभवेदिति ।....................इंद्रस्य योनिरसीतींद्रस्य हैषा योनिरतो वा हैनां प्रविशन्नविशत्यतो वा जायमानो जायते तस्मादाहेंद्रस्य योनिरसीति ॥ (*so 'yaṃ yajño vācamabhidadhyā | mithunenayā syāmiti tāgṃ saṃbabhūva ‖ iṃdro ha nā īkṣāṃcakre | mahadvā 'ito 'bhvaṃ janiṣyate yajñasya ca mithunādvācaśca yanmā tannābhibhavediti sa iṃdra eva garbho bhūtvaitanmithunaṃ praviveśa | sa ha saṃvatsare jāyamāna īkṣāṃcakre | mahāvīrā vā iyaṃ yoniryā māmadīdharata yadvai maito mahadevā 'bhvaṃ nānuprajāyeta yanmā tannābhibhavediti |....................iṃdrasya yonirasītīṃdrasya haiṣā yonirato vā haināṃ praviśannaviśatyato vā jāyamāno jāyate tasmādāheṃdrasya yonirasīti ‖*) (Śa. Brā. 3-2-1-25 to 29)
+
+### Printed p. 46
+
+The sacrifice desired to establish a relation with speech. Indra, knowing this, understood that from the union of the two a great power would certainly arise, and, in fear lest that power might become greater than his own, he himself entered into them in the form of their embryo. After a year had passed he was born in the form of a great power and himself became the performer of the sacrifice. Therefore it is well known that sacrifice and speech are sources of delight to Indra.
+
+In the sacrifice, when oblations and the like are offered in the fire, they make the offering by adding the word स्वाहा (*svāhā*) or वषट् (*vaṣaṭ*) at the end of the mantra. Therefore it is said here that वषट्कर्तृ (*vaṣaṭkartṛ*) means the actions (the offerings) of the seven Ṛtvijs who make the offering with the utterance of vaṣaṭ. Who are these seven offering priests, the seven Hotṛs? They are the seven Ṛtvijs named Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsī, Potṛ, Neṣṭṛ, Acchāvāka and Agnīdhra.
+
+In the three savanas, called the Prātaḥsavana, the Mādhyandinasavana and the Tṛtīyasavana, each of these seven Ṛtvijs recites one Ṛk and offers the Soma in the fire. At the time of the Prātaḥsavana the offering is to be made with Ṛks of the Gāyatrī metre, at the time of the Mādhyandina-savana with Ṛks of the Triṣṭup metre, and at the time of the Tṛtīyasavana with Ṛks of the Jagatī metre. These mantras, recited by the respective Ṛtvijs at the time of the respective savanas, are called the Prasthitayājyā mantras, or else the Saptahotṛ mantras. They are explained here in detail.
+
+**The Prātaḥsavana**
+
+In this savana all seven Ṛtvijs must recite Ṛks of the Gāyatrī metre only.
+
+1. The mantra to be recited by the Hotṛ:
+
+इदं ते सोम्यं मध्यधक्षन्नद्रिभिर्नरः । जुषाणा इंद्र तत्पिब ॥ (*idaṃ te somyaṃ madhyadhakṣannadribhirnaraḥ | juṣāṇā iṃdra tatpiba ‖*) (Ṛ. Saṃ. 8-65-8) **GLOSS**
+
+2. The mantra to be recited by the Ṛtvij called Brāhmaṇācchaṃsī:
+
+इंद्र त्वा वृषभं वयं सुते सोमे हवामहे । स पाहि मध्यो अंधसः ॥ (*iṃdra tvā vṛṣabhaṃ vayaṃ sute some havāmahe | sa pāhi madhyo aṃdhasaḥ ‖*) (Ṛ. Saṃ. 3-40 1) **NOTE** **GLOSS**
+
+3. The mantra to be recited by the Ṛtvij called Mitrāvaruṇa:
+
+मित्रं वयं हवामहे वरुणं सोमपीतये । जज्ञाना पूतदक्षसा ॥ (*mitraṃ vayaṃ havāmahe varuṇaṃ somapītaye | jajñānā pūtadakṣasā ‖*) (Ṛ. Saṃ. 1-23-4) **GLOSS**
+
+### Printed p. 47
+
+4. The mantra to be recited by the Ṛtvij called Potṛ:
+
+मरुतो यस्य हि क्षये पाथा दिवो विमहसः । स सुगोपातमो जनः ॥ (*maruto yasya hi kṣaye pāthā divo vimahasaḥ | sa sugopātamo janaḥ ‖*) (Ṛ. Saṃ. 1-86-1) **GLOSS**
+
+5. The mantra to be recited by the Ṛtvij called Neṣṭṛ:
+
+अग्ने पत्नीरिहा वह देवानामुशतीरुप । त्वष्टारं सोमपीतये ॥ (*agne patnīrihā vaha devānāmuśatīrupa | tvaṣṭāraṃ somapītaye ‖*) (Ṛ. Saṃ. 1-22-9) **GLOSS**
+
+6. The mantra to be recited by the Ṛtvij called Agnīdhra:
+
+उक्षान्नाय वशान्नाय सोमपृष्टाय वेधसे । स्तोमैर्विधेमाग्नये ॥ (*ukṣānnāya vaśānnāya somapṛṣṭāya vedhase | stomairvidhemāgnaye ‖*) (Ṛ. Saṃ. 8-43-11) **GLOSS**
+
+7. The mantra to be recited by the Ṛtvij called Acchāvāka:
+
+प्रात्यावभिरा गतं देवेभिर्जेन्यावसू । इंद्राग्नी सोमपीतये ॥ (*prātyāvabhirā gataṃ devebhirjenyāvasū | iṃdrāgnī somapītaye ‖*) (Ṛ. Saṃ. 8-38-7) **GLOSS**
+
+**The Mādhyandinasavana**
+
+In this savana only mantras of the Triṣṭup metre are to be recited. Among them:
+
+1. The mantra to be recited by the Hotṛ:
+
+पिबा सोममभि यमुग्र तर्द ऊर्वं गव्यं महि गृणान इंद्र । वि यो धृष्णो वधिषो वज्रहस्त विश्वा वृत्रममित्रिया शवोभिः ॥ (*pibā somamabhi yamugra tarda ūrvaṃ gavyaṃ mahi gṛṇāna iṃdra | vi yo dhṛṣṇo vadhiṣo vajrahasta viśvā vṛtramamitriyā śavobhiḥ ‖*) (Ṛ. Saṃ. 6-17-1) **GLOSS**
+
+2. Maitrāvaruṇa:
+
+स ई पाहि य ऋजीषी तरुत्तो यः शिप्रवान् वृषभो यो मतीनां । यो गोत्रभिद्वजभिद्यो हरिष्ठाः स इंद्र चित्रां आभि तृंधि वाजान् ॥ (*sa ī pāhi ya ṛjīṣī tarutto yaḥ śipravān vṛṣabho yo matīnāṃ | yo gotrabhidvajabhidyo hariṣṭhāḥ sa iṃdra citrāṃ ābhi tṛṃdhi vājān ‖*) (Ṛ. Saṃ. 6-17-2) **GLOSS**
+
+3. Brāhmaṇācchaṃsī:
+
+एवा पाहि प्रत्नथा मंदतु त्वा श्रुधि ब्रह्म नावृधस्वोत गीर्भिः । अविः सूर्यं कृणुहि पीपिहीषो जहि शत्वरभि गा इंद्र शृंधि ॥ (*evā pāhi pratnathā maṃdatu tvā śrudhi brahma nāvṛdhasvota gīrbhiḥ | aviḥ sūryaṃ kṛṇuhi pīpihīṣo jahi śatvarabhi gā iṃdra śṛṃdhi ‖*) (Ṛ. Saṃ. 6-17-2) **NOTE** **GLOSS**
+
+### Printed p. 48
+
+4. Pro-tya **NOTE**:
+
+अर्वाजेहि सोमकामं त्वाहुरयं सुतस्तस्य पिबा मदाय । उरुव्यचा जठर आ वृषस्व पितेव नः शृणुहि हूयमानः ॥ (*arvājehi somakāmaṃ tvāhurayaṃ sutastasya pibā madāya | uruvyacā jaṭhara ā vṛṣasva piteva naḥ śṛṇuhi hūyamānaḥ ‖*) (Ṛ. Saṃ. 1-104-9) **GLOSS**
+
+5. Neṣṭṛ:
+
+तवायं सोमस्त्वमेह्यर्वाज् शश्वत्तमं सुमना अस्य पाहि । अस्मिन् यज्ञॆ बर्हिष्या निषद्या दधिष्वेमं जठर इंदुमिंद्र ॥ (*tavāyaṃ somastvamehyarvāj śaśvattamaṃ sumanā asya pāhi | asmin yajñè barhiṣyā niṣadyā dadhiṣvemaṃ jaṭhara iṃdumiṃdra ‖*) (Ṛ. Saṃ. 3-35-6) **GLOSS**
+
+6. Acchavāka:
+
+इंद्राय सोमाः प्रदिवो विदाना ऋभुर्येभिर्वृषपर्वा विहायाः । प्रयम्यमानान् प्रति षू गृभायेंद्र पिब वृषधूतस्य वृष्णः ॥ (*iṃdrāya somāḥ pradivo vidānā ṛbhuryebhirvṛṣaparvā vihāyāḥ | prayamyamānān prati ṣū gṛbhāyeṃdra piba vṛṣadhūtasya vṛṣṇaḥ ‖*) (Ṛ. Saṃ. 3-36-2) **GLOSS**
+
+7. Agnīdhra:
+
+आपूर्णो अस्य कलशः स्वाहा सेक्तेव कोशं सिसिचे पिबध्यै । समु प्रिया आववृत्रन् मदाय प्रदक्षिणिदभि सोमास इंद्रं ॥ (*āpūrṇo asya kalaśaḥ svāhā sekteva kośaṃ sisice pibadhyai | samu priyā āvavṛtran madāya pradakṣiṇidabhi somāsa iṃdraṃ ‖*) (Ṛ. Saṃ. 3-32-15) **GLOSS**
+
+**The Tṛtīyasavana**
+
+All the mantras to be recited at the time of this savana are in the Jagatī metre.
+
+1. The Hotṛ:
+
+इंद्र यभुभिर्वाजवद्भिः समुक्षितं सुतं सोममा वृषस्वा गभस्तोः । धियेषितो मघवन्नाशुषो गृहे सौधन्वनेभिः सह मत्सा नृभिः ॥ (*iṃdra yabhubhirvājavadbhiḥ samukṣitaṃ sutaṃ somamā vṛṣasvā gabhastoḥ | dhiyeṣito maghavannāśuṣo gṛhe saudhanvanebhiḥ saha matsā nṛbhiḥ ‖*) (Ṛ. Saṃ. 3-60-5) **GLOSS**
+
+2. Paitravaraṇi **NOTE**:
+
+इंद्रावरुणा सुतपाविमं सुतं सोमं पिबतं मद्यं धृतव्रता । युवो रथो अध्वरं देवनीतये प्रति स्वसरमुप याति पीतये ॥ (*iṃdrāvaruṇā sutapāvimaṃ sutaṃ somaṃ pibataṃ madyaṃ dhṛtavratā | yuvo ratho adhvaraṃ devanītaye prati svasaramupa yāti pītaye ‖*) (Ṛ. Saṃ. 6 68-10) **NOTE** **GLOSS**
+
+3. Brāhmaṇaccasi **NOTE**:
+
+इंद्रश्च सोमं पिबतं बृहस्पतेऽस्मिन्यज्ञे मंदसाना वृषण्वसू । अ वां विशंत्विंदवः स्वाभुवोऽस्मे रयिं सर्ववीरं नि यच्छतं ॥ (*iṃdraśca somaṃ pibataṃ bṛhaspate 'sminyajñe maṃdasānā vṛṣaṇvasū | a vāṃ viśaṃtviṃdavaḥ svābhuvo 'sme rayiṃ sarvavīraṃ ni yacchataṃ ‖*) (Ṛ. Saṃ. 4-50-10) **GLOSS**
+
+### Printed p. 49
+
+4. Potṛ:
+
+आ वो वहंतु सप्तयो रघुष्यदो रघुपत्वानः प्रजिगात बाहुभिः । सीदता बर्हिरुरु वः सदस्यतं मादयध्वं मरुतो मध्वो अंधसः ॥ (*ā vo vahaṃtu saptayo raghuṣyado raghupatvānaḥ prajigāta bāhubhiḥ | sīdatā barhiruru vaḥ sadasyataṃ mādayadhvaṃ maruto madhvo aṃdhasaḥ ‖*) (Ṛ. Saṃ. 1-85-6) **GLOSS**
+
+5. Neṣṭṛ:
+
+अमेव नः सहवा आ हि गंतन नि बर्हिषि सदतना रणिष्टन । अथा मंदस्व जुजुषाणो अंधसस्त्वष्टर्देवेभिर्जनिभिः सुमद्गणः ॥ (*ameva naḥ sahavā ā hi gaṃtana ni barhiṣi sadatanā raṇiṣṭana | athā maṃdasva jujuṣāṇo aṃdhasastvaṣṭardevebhirjanibhiḥ sumadgaṇaḥ ‖*) (Ṛ. Saṃ. 2-36-3) **GLOSS**
+
+6. Acchāvāka:
+
+इंद्राविष्णू पिबतं मध्यो अस्य सोमस्य दस्रा जठरं पृणेथां । आ नामंधांसि मदिराण्यग्मनन्नुप ब्रह्माणि शृणुतं हवं मे ॥ (*iṃdrāviṣṇū pibataṃ madhyo asya somasya dasrā jaṭharaṃ pṛṇethāṃ | ā nāmaṃdhāṃsi madirāṇyagmanannupa brahmāṇi śṛṇutaṃ havaṃ me ‖*) (Ṛ. Saṃ. 6-69-7) **GLOSS**
+
+7. Āgnīdhra:
+
+इमं सोममर्हते जातवेदसे रथमिव सं महेमा मनीषया । भद्रा हि नः प्रमतिरस्य संसद्यग्ने सख्ये मा रिषामा वयं तव ॥ (*imaṃ somamarhate jātavedase rathamiva saṃ mahemā manīṣayā | bhadrā hi naḥ pramatirasya saṃsadyagne sakhye mā riṣāmā vayaṃ tava ‖*) **GLOSS**
+
+In this way, in each savana, each of these seven Ṛtvijs recites one Ṛk each, seven Ṛks in all, and makes the offering. As said before, in the Prātaḥsavana they make the offering with mantras of the Gāyatrī metre, in the Mādhyandinasavana with mantras of the Triṣṭup metre, and in the Tṛtīyasavana with mantras of the Jagatī metre. This is the account of the mantras to be recited at the times of the savanas.
+
+**The Explanation of the Unnīyamāna Sūktas**
+
+Having stated the seven mantras, each in the Gāyatrī, Triṣṭup and Jagatī metres, which the seven Ṛtvijs beginning with the Hotṛ recite and offer in the three savanas, he now explains, as stated in the Aitareya Brāhmaṇa (Ai. Brā., the 27th chapter), the procedure to be followed at the time of the Prātaḥsavana, the mantras to be recited, and the like.
+
+Before making the offering at the time of the savana, when the Ṛtvijs stand ready, having filled the Soma juice into the Camasa vessel (a wooden vessel like a ladle, used for making offerings), the Adhvaryu directs the Ṛtvij called Maitrāvaruṇa, by means of the Praiṣa mantra, to recite the Unnīyamāna sūkta. The Unnīyamāna sūkta means the sūkta that is recited while the Soma juice, filled into the Camasa vessel for the offering, is held up and lifted for the offering
+
+### Printed p. 50
+
+. The Unnīyamāna sūkta that is recited at the time of the Prātaḥsavana must be in the Gāyatrī metre, that of the Mādhyandinasavana in the Triṣṭup metre, and that of the Tṛtīyasavana in the Jagatī metre. Besides this there is the rule that a sūkta of nine Ṛks is to be recited as the Unnīyamāna sūkta in the Prātaḥsavana, a sūkta of ten Ṛks in the Mādhyandinasavana, and a sūkta of nine Ṛks in the Tṛtīyasavana.
+
+Besides this there is yet another special point regarding the recitation of the mantras: the mantras are to be recited at these three savana times following the course of the sun. How? In the morning the brightness of the sun is very faint, so in the Prātaḥsavana the mantras are to be recited in a soft voice. At midday the brightness of the sun is very sharp, so at the time of the Mādhyandinasavana the mantras are to be uttered in a high voice, that is, very loudly. In the evening the heat of the sun is declining and has become less, so at the time of the Tṛtīyasavana the mantras are to be recited in a soft voice only.
+
+**The Unnīyamāna Sūkta to be Recited at the Time of the Prātaḥsavana**
+
+As soon as the Adhvaryu directs Maitrāvaruṇa, by means of the Praiṣa mantra, to recite the Unnīyamāna sūkta at the time of the Prātaḥsavana, Maitrāvaruṇa accordingly recites the sūkta आ त्वा वहंतु हरयः (*ā tvā vahaṃtu harayaḥ*) (Ṛ. Saṃ. 1-16).
+
+1. आ त्वा वहंतु हरयो वृषणं सोमपीतये । इंद्र त्वा सूरचक्षसः ॥ (*ā tvā vahaṃtu harayo vṛṣaṇaṃ somapītaye | iṃdra tvā sūracakṣasaḥ ‖*) **GLOSS**
+
+2. इमा धाना धृतस्न्नुवो हरी इहोप वक्षतः । इंद्रं सुखतमे रथे ॥ (*imā dhānā dhṛtasnnuvo harī ihopa vakṣataḥ | iṃdraṃ sukhatame rathe ‖*) **GLOSS**
+
+3. इंद्रं प्रातर्हनामह इंद्रं प्रयत्यध्वरे । इंद्रं सोमस्य पीतये ॥ (*iṃdraṃ prātarhanāmaha iṃdraṃ prayatyadhvare | iṃdraṃ somasya pītaye ‖*) **GLOSS**
+
+4. उप नः सुतमा गहि हरिभिरिंद्र केशिभिः । सुते हि त्वा हनामहे ॥ (*upa naḥ sutamā gahi haribhiriṃdra keśibhiḥ | sute hi tvā hanāmahe ‖*) **GLOSS**
+
+5. सेमं नः स्तोममा गह्युपेदं सवनं सुतं । गौरो न तृषितः पिब ॥ (*semaṃ naḥ stomamā gahyupedaṃ savanaṃ sutaṃ | gauro na tṛṣitaḥ piba ‖*) **GLOSS**
+
+6. इमे सोमास इंदवः सुतासो अधि बर्हिषि । ता इंद्र सहसे पिब ॥ (*ime somāsa iṃdavaḥ sutāso adhi barhiṣi | tā iṃdra sahase piba ‖*) **GLOSS**
+
+7. अयं ते स्तोमो अग्रियो हृदिस्पृशस्तु शंतमः । अथा सोमं सुतं पिब ॥ (*ayaṃ te stomo agriyo hṛdispṛśastu śaṃtamaḥ | athā somaṃ sutaṃ piba ‖*) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 43. Uttarapīṭhikā to Somapravāhaṇa end; Savanatraya introduction (pp. 37-43)
+**Progress note:** Done through printed p. 50. Savanatraya Chā. U. passages, stotra/śastra table, Saptahotṛ mantras, Unnīyamāna sūkta of the Prātaḥsavana (pp. 44-50)
