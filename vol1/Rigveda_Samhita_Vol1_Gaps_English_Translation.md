@@ -4154,7 +4154,7 @@ Among the commentators on works such as the Mālatīmādhava there was a famous 
 
 (As printed, the verse is a continuation across pages; the verse number is 2, re-read on the 600 dpi scan.)
 
-Earlier there were two scholars, born of a good lineage and masters of all the śāstras, both named Gauradhara. They composed a pure commentary on the Yajurveda. The commentator Ratnakaṇṭha, writing the explanation of these verses, says:
+Earlier there was an excellent scholar named Gauradhara, born of a good lineage and master of all the śāstras. He composed a pure commentary on the Yajurveda. The commentator Ratnakaṇṭha, writing the explanation of these verses, says:
 
 > ताद्दृशस्य गौरधरस्य ऋजुर्निर्मला निर्दोषा च यजुर्वेद-
 > पदानामर्थवर्णना भाष्यपद्धतिर्वेदविलासनाम्नी य-
@@ -4290,7 +4290,7 @@ At the end of every adhyāya the name "*Kāṇva-veda-mantra-bhāṣya-saṃgrah
 >
 > *iti śrīmatparamahaṃsaparivrājakācāryavaryaśrīvāsudeva-purīpūjyapādaparamakāruṇyāsāditaśrīkṛṣṇabhaktisāmrājyasya śrīmajjñātavedabhaṭṭopādhyāyasya sūnunā śrīmadānanda-bhaṭṭopādhyāyena viracite kāṇvavedamantrabhāṣyasaṃgrahe catvāriṃśo 'dhyāyaḥ |*
 >
-> "Thus, in the *Kāṇva-veda-mantra-bhāṣya-saṃgraha* composed by the venerable Ānanda Bhaṭṭopādhyāya, son of the venerable Jñātaveda [as printed] Bhaṭṭopādhyāya, who obtained the empire of devotion to Kṛṣṇa through the supreme compassion of the revered feet of the venerable Vāsudeva-purī, teacher-supreme, the *paramahaṃsa* wanderer — the fortieth chapter."
+> "Thus, in the *Kāṇva-veda-mantra-bhāṣya-saṃgraha* composed by the venerable Ānanda Bhaṭṭopādhyāya, son of the venerable Jātaveda Bhaṭṭopādhyāya, who obtained the empire of devotion to Kṛṣṇa through the supreme compassion of the revered feet of the venerable Vāsudeva-purī, teacher-supreme, the *paramahaṃsa* wanderer — the fortieth chapter."
 
 From this it is learnt that the name of this work is *Kāṇvaveda-mantra-bhāṣya-saṃgraha*, and that his father was Bhaṭṭopādhyāya.
 
@@ -4447,7 +4447,7 @@ There are not many grounds to determine his time. The following verses help to s
 
 (The second verse is clearly legible; in the first, the words of the second half are doubtful.)
 
-That is: in the west-south-west [as printed: "*paścimadikkinalli*"] there is a large city by the name Ucca. Near it there is a holy place (*tīrtha-kṣetra*) called Pañcanada. Here many excellent Kṣatriya kings ruled. Their root-ancestor was one named Vāghara. In this line, Vāghara, Tolloka, Rāma, Hariścandra, Sahadeva, Haṃsapāla, Maṅgala, Vīrapāla, Jayapāla and Mahārājadeva ruled. In the time of the last of these, Mahārājadeva, Kālanātha's *Yajur-mañjarī* was written.
+That is: in the western direction there is a large city by the name Ucca. Near it there is a holy place (*tīrtha-kṣetra*) called Pañcanada. Here many excellent Kṣatriya kings ruled. Their root-ancestor was one named Vāghara. In this line, Vāghara, Toloka, Rāma, Hariścandra, Sahadeva, Haṃsapāla, Maṅgala, Vīrapāla, Jayapāla and Mahārājadeva ruled. In the time of the last of these, Mahārājadeva, Kālanātha's *Yajur-mañjarī* was written.
 
 There are two holy places called Pañcanada. Of these, the Pañcanada near Bhāvalpur must be the region pointed to by Kālanātha. Near it there is also a village called Ucca. Kālanātha may have described the genealogy of the kings of this place.
 

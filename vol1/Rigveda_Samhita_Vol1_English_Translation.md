@@ -3886,7 +3886,7 @@ That is: Madhvacharya was born after 4,300 years of the Kali era had elapsed —
 >
 > "Among the thousand-and-one suktas of the Rigveda shakha, some forty suktas were explained by the Bhagavatpada [Anandatirtha]."
 
-That is, of the 1,001 suktas of the Rigveda, the Bhagavatpada commented on only 40.
+That is, of the 101 suktas of the Rigveda, the Bhagavatpada commented on only 40.
 
 Every manuscript of the Madhva commentary reads "ṛgbhāṣyaṃ sampūrṇam" ("the Rig-commentary is complete") right after the 40th sukta — confirming he composed commentary for exactly 40 suktas. A devoted worshipper of Vishnu, Madhva maintains throughout his works that Vishnu alone is supreme; his commentary opens accordingly:
 
@@ -3930,7 +3930,7 @@ That is: this teacher interprets the Veda in three ways — first, addressing de
 
 Since Madhva repeatedly writes "this is Vyasa's own view" at various points, he must have had access to some Vyasa-authored text as a source.
 
-**(2)** His works cite many "shrutis" as authorities — Paingi-shruti, Barka-shruti, Tura-shruti, Ananda-shruti, Shaushkalya-shruti, and others — though what exactly these texts are is not clearly known today.
+**(2)** His works cite many "shrutis" as authorities — Paingi-shruti, Barka-shruti, Tura-shruti, Ananda-shruti, Sauparni-shruti, and others — though what exactly these texts are is not clearly known today.
 
 **(3)** On the division of the Vedas, he records Vyasa's own view, following Puranic authority:
 
@@ -3955,7 +3955,7 @@ Anandatirtha wrote 37 works in total, including the *Mahabharata-Tatparya-Nirnay
 
 ### Page 243
 
-On Rigveda 1-3-10's word "Vajinivati," Jayatirtha notes Madhva used it without specifying gender explicitly. On this, Narasimha's own Vivriti (explanatory sub-commentary on Jayatirtha) states:
+On Rigveda 1-3-10's word "Vajinivati," Jayatirtha notes Madhva used it as an indication without a case-ending. On this, Narasimha's own Vivriti (explanatory sub-commentary on Jayatirtha) states:
 
 > विशेषान्नमन्नवत् क्रिया वा वाजिनीति माधवव्याख्या प्रत्युक्ता ।
 >
@@ -3985,7 +3985,7 @@ This suggests Narasimha resided in the border region between Karnataka and Mahar
 >
 > "I shall compile the meanings of the Rig-Bhashya's verses, clearly and accessibly."
 
-In his own commentary, he cites the Shabara-bhashya, Chandrika, Aitareya-bhashya, Sutrakarantara, the Gita, Kanva-shruti, and similar works — the *Mantrartha-manjari* itself standing as good testimony to Raghavendra Yati's scholarly caliber and erudition.
+In his own commentary, he cites the Shabara-bhashya, Chandrika, Aitareya-bhashya, Sutrakara-kantharava, the Gita, Kanva-shruti, and similar works — the *Mantrartha-manjari* itself standing as good testimony to Raghavendra Yati's scholarly caliber and erudition.
 
 
 ### Page 244 — Narayana's Explanatory Commentary on the Jayatirtha Gloss
@@ -3999,18 +3999,18 @@ For an introduction to Atmananda, commentator on the "Asya Vamasya" sukta (RV 1-
 
 ### Texts and Authors Cited by Atmananda
 
-An extraordinary bibliography for a single sukta's commentary: Skandabhashya, Udgitha, Bhaskara, Shaunaka, Vedamitra, the Brihaddevata-author, the Anukramanika-author, Vishnudharmottara, Nirukta, Pushtaroktakalpa, the Bhagavad Gita, the Mahabharata, Puranas, Smritis, Padakara, Keshavacharya (a Vedanta author), Shankaracharya, Vedanki, the Upanishads, the Vishnu Purana, the Nighantu, a Sampradayajna authority, Yoga-Yajnavalkya, Vriddha-Shaunaka, a Yoga text, Shakapuni, the Pancharatra, Prashamsa, Vriddha-Manu, the author Lakshmidharacharya (Atmananda's own elder brother), Shankha, the author of the Chandrika (an Apastamba-related text), Vijnaneshvara, Atmajnana, the Yama-smriti, the Harivamsha, Sarvajna, Gadadhara, a Bhattacharya (possibly Kumarila), the Nrisimha-mantra-kalpa, the Maha-Bhagavata, Shvetashvatara, Shivadharmottara, the Yajnavalkya-smriti, the Prokta-Upanishad-parishishta, the Vasishtha-Ramayana, the Skanda Purana's Kalika-khanda, the Taittiriya texts, the Brahma-Gita, an unnamed commentator, Shaingi-shastra, the Ekaksharanighantu, the Bharadvaja-sutra, Bhoja, a Vartika-author, Dravidasvami (a disciple of Shankaracharya), the Vivarana, Vachaspati, the Mahayogashastra, the Bappruchi-Aranyaka, the Vasishtha-Vedanta-karika, the Ratnaprashna, the Bhoja-nighantu, and the Naradiya Purana — all cited within this single commentary.
+An extraordinary bibliography for a single sukta's commentary: Skandabhashya, Udgitha, Bhaskara, Shaunaka, Vedamitra, the Brihaddevata-author, the Anukramanika-author, Vishnudharmottara, Nirukta, Pushkaroktakalpa, the Bhagavad Gita, the Mahabharata, Puranas, Smritis, Padakara, Keshavacharya (a Vedanta author), Shankaracharya, Vedanti, the Upanishads, the Vishnu Purana, the Nighantu, a Sampradayajna authority, Yoga-Yajnavalkya, Vriddha-Shaunaka, a Yoga text, Shakapuni, the Pancharatra, Prashamsa, Vriddha-Manu, the author Lakshmidharacharya (Atmananda's own elder brother), Shankha, the author of the Chandrika (an Annika text), Vijnaneshvara, Atmajnana, the Yama-smriti, the Harivamsha, Sarvajna, Gadadhara, a Bhattacharya (possibly Kumarila), the Nrisimha-mantra-kalpa, the Maha-Bhagavata, Shvetashvatara, Shivadharmottara, the Yajnavalkya-smriti, the Brahmopanishat-parishishta, the Vasishtha-Ramayana, the Skanda Purana's Kalika-khanda, the Taittiriya texts, the Brahma-Gita, an unnamed commentator, Paingi-rahasya, the Ekaksharanighantu, the Bharadvaja-sutra, Bhoja, a Vartika-author, Dravidasvami (a disciple of Shankaracharya), the Vivarana, Vachaspati, the Mahayogashastra, the Bahvricha-Aranyaka, the Vasishtha-Vedanta-karika, the Ratnashastra, the Bhoja-nighantu, and the Naradiya Purana — all cited within this single commentary.
 
 ### Atmananda's Era
 
-Among these names, **Bhoja, Vijnaneshvara,** and the **Chandrika-author** are especially worth examining. The Chandrika-author is Devanabhatta himself, who also composed the Apastambakanda. Per Pandit Pandurang Vaman Kane, Vijnaneshvara's era runs from 1070 to 1100 CE; the *Smriti-chandrika*'s era begins in the early 13th century.
+Among these names, **Bhoja, Vijnaneshvara,** and the **Chandrika-author** are especially worth examining. The Chandrika-author is Devanabhatta himself, who also composed the Annikakhanda. Per Pandit Pandurang Vaman Kane, Vijnaneshvara's era runs from 1070 to 1100 CE; the *Smriti-chandrika*'s era begins in the early 13th century.
 
 Who exactly Atmananda's elder brother Lakshmidharacharya was cannot be determined with certainty — he is not the same Lakshmidharacharya who composed the *Kalpataru* (in 1142 CE)...
 
 
 ### Page 245
 
-...whose father is named Bhattojaddyada, whereas Atmananda's own father is stated as Vishnu Prakashakara — confirming these are two distinct individuals. From the above record it is certain that Atmananda was earlier than the year 1217. Among Vedic commentators, Atmananda cites Skanda, Udgitha, Bhaskara, and others, but never cites Sayana's examples — suggesting Atmananda lived somewhat before Sayana, and since no stronger evidence has been found so far, it must be said that his period cannot be later than the **13th century**.
+...whose father is named Bhattahridaya, whereas Atmananda's own father is stated as Vishnuprakashaka — confirming these are two distinct individuals. From the above record it is certain that Atmananda was earlier than the year 1217. Among Vedic commentators, Atmananda cites Skanda, Udgitha, Bhaskara, and others, but never cites Sayana's examples — suggesting Atmananda lived somewhat before Sayana, and since no stronger evidence has been found so far, it must be said that his period cannot be later than the **13th century**.
 
 ### Manuscript Copies of Atmananda's Commentary
 
@@ -4046,7 +4046,7 @@ Atmananda was an **Advaitin**, following Shankara's philosophy, and the spirit o
 
 That all the Vedas' meaning rests in the Supreme Self alone is what this mantra's commentary conveys; when glossing individual words like "Agni," Atmananda selects only those senses through which knowledge of the Supreme Self arises.
 
-Beyond this, whichever Kalpa-text Atmananda cites at the close of each mantra-commentary likewise clearly states this same spiritual meaning — a text some centuries older than Atmananda himself, identifiable as the "Pushtaroktakalpa." Though not found within the printed Vishnudharmottara, it may well be a portion of that same work. Its relevant statement:
+Beyond this, whichever Kalpa-text Atmananda cites at the close of each mantra-commentary likewise clearly states this same spiritual meaning — a text some centuries older than Atmananda himself, identifiable as the "Pushkaroktakalpa." Though not found within the printed Vishnudharmottara, it may well be a portion of that same work. Its relevant statement:
 
 > इन्द्रादिशब्दो गुणयोगतो वा वृत्त्युक्तिगो वापि परेशमाहुः । विप्रास्स्यदेकं बहुधा वदन्ति प्राज्ञास्त्व नानापि सदेकमाहुः ॥
 >
@@ -4082,9 +4082,9 @@ His commentaries on the Vedas' Samhitas and Brahmanas are not only exceptionally
 
 ...clarifying the subtle truths concealed in Vedic material in a fully accessible way — an immense service. Even accounting for all the earlier commentators, their works aren't fully available to us today, with only some names known; where Vedic commentaries do survive, they typically cover only a small, abridged portion. Among all who received honor for composing Veda-commentaries, Sayana's own achievement stands foremost. His own celebrated fellow-commentators were his brothers — ministers to the Vijayanagara kings, who protected the Vedic commentarial tradition and composed many excellent texts, achieving leading positions in scholarship. Owing to circumstance, this great man's biography has not come down to us in full detail — even so, we present here, with what help is available, a summary of the main points of his life.
 
-Sayana was born into a well-known Brahmin family in South India, of the Bharadvaja gotra. His father was named Mayana, his mother Shrimati. His family specialized in interpreting the Krishna Yajurveda — hence Sayana first wrote a commentary on the Krishna Yajurveda's Taittiriya Samhita before turning to the Rigveda. He had an elder brother, **Madhavacharya**, and a younger brother, **Bhoganatha**.
+Sayana was born into a well-known Brahmin family in South India, of the Bharadvaja gotra. His father was named Mayana, his mother Shrimati. His family followed the Bodhayana branch of the Krishna Yajurveda — hence Sayana first wrote a commentary on the Krishna Yajurveda's Taittiriya Samhita before turning to the Rigveda. He had an elder brother, **Madhavacharya**, and a younger brother, **Bhoganatha**.
 
-Madhavacharya served as minister to the Vijayanagara kings, and was a great authority in Dharmashastra, Purva-Mimamsa philosophy, and many other disciplines. **Harihara and Bukka**, founders of the Vijayanagara kingdom, relied on these ministers in matters of state. The city of Vijayanagara was renowned for its beautiful architecture, trade-derived wealth, and prosperity — celebrated among leading historians as especially famous for these qualities during this period.
+Madhavacharya served as minister to the Vijayanagara kings, and was a great authority in Dharmashastra, Purva-Mimamsa philosophy, and many other disciplines. **Harihara and Bukka**, founders of the Vijayanagara kingdom, relied on these ministers in matters of state. The renowned city of Vijayanagara, the most beautiful in all Asia, rich in wealth and charming with sculpture and the other arts, is held by the chief historians to have been founded by them.
 
 Madhavacharya is credited with many works, though not all attributions are fully certain; several, however, are well-established:
 
@@ -4092,17 +4092,17 @@ Madhavacharya is credited with many works, though not all attributions are fully
 **(2) Kalanirnaya** (or *Kalamadhava*).
 **(3) Jaimini-nyayamala** — an authoritative commentary on the sage Jaimini's Purva-Mimamsa philosophy.
 **(4) Jivanmukti-viveka** — a Vedanta text discussing liberation-while-living.
-**(5) Sarvadarshanasangraha** — a famous Advaita-Vedanta text.
+**(5) Panchadashi** — a famous Advaita-Vedanta text.
 **(6) Vaiyasika-nyayamala** — a commentary explaining the Vedanta-sutras.
 
 
 ### Page 248
 
-...composed with the aid of his teacher's own brother, Bharati-tirtha.
+...the last two of these works were composed, when Madhavacharya gave up the ministry and took sannyasa under the name Vidyaranya, with the help of his teacher Bharati-tirtha.
 
-Whether this Madhavacharya and the famed monk **Vidyaranya** were one and the same person, or two distinct individuals, remains genuinely debated. Some scholars firmly hold they are identical; others find this doubtful without offering a strong counter-case. Most of the works discussed here are attributed to Madhavacharya, and it is well-established that Madhavacharya, minister to Vijayanagara's founding kings, holds the central historical role — a question examined in detail by Sriman Hastavakal Krishnamachari's article in *Indian Historical Quarterly* (Vol. VI, pp. 701–717), which weighs the evidence on whether "Madhavacharya" and "Vidyaranya" name one figure or two across his ministerial and later monastic careers.
+Whether this Madhavacharya and Vidyaranya are one and the same person, or two different persons, is a very important question; the problem is still unsolved. Some scholars are very doubtful that these are two names of one person. Though some of their arguments look strong, even works contemporary with Madhavacharya, not only later ones, bear witness that Vidyaranya and Madhavacharya, the minister of the early kings of Vijayanagara, are identical. But in the Indian Historical Quarterly (Vol. VI, pp. 701–717) it is determined, on the evidence of inscriptions, that this Madhavacharya or Vidyaranya and the Madhava who was minister of Bukka I (known in history as Madhava-mantri or Amatya Madhava) are different persons. They too appear to have been eminent scholars like Vidyaranya.
 
-Inscriptions describe him as "Upaniṣan-mārga-pravartanācārya" (the teacher who established the path of the Upanishads) and as a great hero who drove Muslim settlers out of a place called Kokai and administered the Goa and Banavasi regions.
+Inscriptions describe him as "Upaniṣan-mārga-pravartanācārya" (the teacher who established the path of the Upanishads) and as a great hero who drove the Muslims settled in the Konkan out from there and administered the Goa and Banavasi regions.
 
 Per Kane's *History of Dharmasastra* (p. 374), Vidyaranya was an extraordinary scholar and statesman who served as a pillar of support during Vijayanagara's founding days, before embracing sannyasa in old age, renouncing all worldly ties, and spending his remaining years in meditation — a guide across many spheres of life whose biography still inspires many today.
 
@@ -4145,7 +4145,7 @@ That a scholar who composed commentaries on all four Vedas possessed extraordina
 
 ### Page 250
 
-...mental strength, divine grace, scholarship, and heroism all combined in them. Alongside his lord Sangama, Sayana personally led an army to capture the Chola kingdom's Kampana region and the fortress town of the Kondavidu chief (*Indian Antiquary*, 1916, p. 23). The *Alankara-sudhanidhi* describes his valor:
+...mental strength, physical strength, scholarship, and heroism all combined in them. Alongside his lord Sangama, Sayana personally led an army to defeat Kampana, the Chola king, and the chieftain of Garudanagara (*Indian Antiquary*, 1916, p. 23). The *Alankara-sudhanidhi* describes his valor:
 
 > जगद्गीर्यस्य जागर्ति कृपाणः सायणप्रभोः । किमित्येते वृथाटोपा गर्जन्ति परिसंस्थिनः ॥
 >
@@ -4170,7 +4170,7 @@ Among his works, the commentaries on the Vedic Samhitas and Brahmanas are by far
 
 ### Page 251
 
-As statesmen occupied with political affairs, the brothers must have composed their works on Dharmashastra, grammar, and poetics only in their spare time — and having enjoyed Vijayanagara royal patronage, they produced several important and scholarly works across disciplines. Below, so far as it can be determined, is the list of these texts in their likely order of composition.
+From the time he was engaged in politics he must have had the intention of composing works on Dharmashastra, grammar, poetics and the like; therefore, living under the patronage of the Vijayanagara kings, he composed many useful and interesting works on the different sciences. Below, so far as it can be determined, is the list of these texts in their likely order of composition.
 
 **1. Subhashitasudhanidhi** — a compilation of wise verses (subhashitas) drawn from many texts; apparently his first work, composed while serving as minister to King Kampana, per the closing colophon:
 
@@ -4238,7 +4238,7 @@ Sayanacharya wrote commentaries for these Samhitas:
 4. Shukla Yajurveda's Kanva Samhita
 5. Atharvaveda Samhita
 
-He also commented on the Brahmana and Aranyaka texts belonging to these Samhitas — though his Shatapatha Brahmana commentary appears more hurriedly composed than the rest, having been written, as its own opening states, at the very end of his life.
+He also commented on the Brahmana and Aranyaka texts belonging to these Samhitas — though only the Shatapatha Brahmana commentary seems to have been composed last of all, after all the other commentaries; as the opening of that work says, it was composed in the time of Harihara II.
 
 **A. Krishna Yajurveda**
 1. Taittiriya Brahmana
@@ -4261,7 +4261,7 @@ He also commented on the Brahmana and Aranyaka texts belonging to these Samhitas
 **D. Shukla Yajurveda**
 1. Shatapatha Brahmana
 
-Per this list, Sayanacharya composed his Krishna Yajurveda commentary first, before turning to the other Vedas. Yet the Rigveda is established, on many grounds, as foremost among the four Vedas — the root source of Sanskrit itself and the most ancient of the four. If one asks why Sayana did not begin with the Rigveda commentary instead, he answers this himself at the opening of his Rigveda-Bhashya-Bhumika (introduction): the Vedas' primary use is in yajnas, and whatever yajna is performed, its central officiant is the **Adhvaryu priest** — who, taking up a given form of the sacrifice, enacts/describes it (this is the sense of "*yajñasya mātrāṃ vimimīte*," "he measures out the yajna's form"). What he must follow is the Yajus [Yajurveda]...
+Per this list, Sayanacharya composed his Krishna Yajurveda commentary first, before turning to the other Vedas. Yet the Rigveda is established, on many grounds, as foremost among the four Vedas — the foundation of our culture and the most ancient of the four. If one asks why Sayana did not begin with the Rigveda commentary instead, he answers this himself at the opening of his Rigveda-Bhashya-Bhumika (introduction): the Vedas' primary use is in yajnas, and whatever yajna is performed, its central officiant is the **Adhvaryu priest** — who, taking up a given form of the sacrifice, enacts/describes it (this is the sense of "*yajñasya mātrāṃ vimimīte*," "he measures out the yajna's form"). What he must follow is the Yajus [Yajurveda]...
 
 
 ### Page 254
@@ -4272,15 +4272,15 @@ Per this list, Sayanacharya composed his Krishna Yajurveda commentary first, bef
 
 Sayanacharya wrote a separate introduction for each Veda-commentary — themselves significant works, discussing many important topics connected to the Veda.
 
-The **Taittiriya-bhashya's introduction** covers the Veda's defining characteristics, its authority, and briefly its status as a valid means of knowledge; the two branches of Veda-commentary (connected to the four purusharthas, and connected to the origin of Brahma-knowledge); and the divisions of yajnas — explaining what elements every yajna requires and what elements are specific to particular rites.
+The **Taittiriya-bhashya's introduction** covers the Veda's defining characteristics, its authority, and briefly its status as a valid means of knowledge; the two parts of the Veda (one connected with the four kinds of rites, the other dealing with Brahman and knowledge of Brahman); and the divisions of yajnas — the Darsha and Paurnamasa sacrifices being essential parts of all sacrifices and therefore called the prakriti (model), all other sacrifices being vikriti (modifications).
 
-The **Rigveda-bhashya's introduction** is the most useful of all — tracing the interpretive tradition from its very beginning and establishing his own doctrine, addressing objections raised about studying the Vedangas point by point with full reasoning, and drawing on Jaimini's Purva-Mimamsa logic wherever relevant to offer systematic, well-argued resolutions. It covers the Veda's defining characteristics, its self-authenticating nature (svataḥ-prāmāṇya) independent of human authorship, the Vedanga tradition, and the divisions of Veda and Brahmana — explaining the Veda's purpose and showing how each Vedanga discipline illuminates its meaning.
+The **Rigveda-bhashya's introduction** is the most useful of all — discussing many important questions of Vedic knowledge, restating the opponent's view and establishing the settled conclusion, to the great benefit of all who study the Veda and Vedangas; making full use of the adhikaranas of Jaimini's Mimamsa-sutras and giving his own opinion on those sutras, he sets forth the matters in a reasoned manner. It covers the Veda's defining characteristics, its self-authenticating nature (svataḥ-prāmāṇya) independent of human authorship, the Vedanga tradition, and the divisions of Veda and Brahmana — explaining the Veda's purpose and showing how each Vedanga discipline illuminates its meaning.
 
 The **Samaveda-bhashya's introduction** discusses Veda-characteristics along with Sama-chanting (samagana) and its manner of performance in detail, again drawing on Purva-Mimamsa material to settle 62 questions concerning Sama-singing.
 
 The **Kanva-Samhita (Shukla Yajurveda) bhashya's introduction** briefly discusses that Veda's own portions, explains the intended meaning of the injunction "svādhyāyo'dhyetavyaḥ" ("one's own Vedic recitation should be studied"), and gathers together the main subjects of the Shukla Yajurveda's 40 Adhyayas.
 
-The **Atharvaveda-bhashya's introduction** covers, on Puranic authority, the Atharvaveda's exceptional usefulness and necessity for kings' priests (rajapurohitas) and Brahmins alike; studying the Veda grants knowledge of mantra-meaning, and the introduction also covers the Veda's own authority (pramanya) and the determination of word-meanings.
+The **Atharvaveda-bhashya's introduction** covers, on Puranic authority, the Atharvaveda's exceptional usefulness and necessity for the king's priest (rajapurohita) and the Brahma priest; studying the Veda grants knowledge of mantra-meaning, and the introduction also covers the Veda's own authority (pramanya) and the determination of word-meanings.
 
 
 ### Page 255
@@ -4289,11 +4289,11 @@ Across all these introductions, the topics fall into two broad groups: elements 
 
 **Common elements** include: mantra and Brahmana together defining the Veda (whatever is not mantra is Brahmana); the Veda's non-human origin (apaurusheyatva) and eternality (nitya-vada), with refutation of opposing views; that the Veda carries genuine meaning rather than being mere sound to recite; the distinctions among Rik, Yajus, and Sama; and the Veda's own two-fold division — one Kanda describing ritual action (karma), the other describing the path to Brahma-knowledge and its attainment — meaning that dharma and Brahman together constitute the Veda's subject matter, and knowledge of these its ultimate purpose.
 
-**Veda-specific elements** include, for instance: discussion of the completeness of the philosophical schools, praise for the effort of Vedic exegesis, an introduction to the Vedangas, and (for the Shukla Yajurveda) a brief survey of its 40 chapters.
+**Veda-specific elements** include, for instance: the Darsha and Paurnamasa sacrifices, praise of one who has studied the Veda, an introduction to the Vedangas, and (for the Shukla Yajurveda) a brief survey of its 40 chapters.
 
 ### The Commentator Sayanacharya
 
-The Vedas are extremely ancient texts, and even the commentaries that survive to us show considerable variation. Garbled statements, ambiguous usages, and words without fixed convention are woven throughout the Veda from the start — so anyone wishing to understand it correctly must, above all, be thoroughly grounded in the traditional Vedic scholarly disciplines, embodied in the **six Vedangas**: Shiksha, Vyakarana, Chandas, Nirukta, Jyotisha, and Kalpa.
+The Vedas are extremely ancient texts, and their language differs greatly from the language now in use. Garbled statements, ambiguous usages, and words without fixed convention are woven throughout the Veda from the start — so anyone wishing to understand it correctly must, above all, be thoroughly grounded in the traditional Vedic scholarly disciplines, embodied in the **six Vedangas**: Shiksha, Vyakarana, Chandas, Nirukta, Jyotisha, and Kalpa.
 
 - **Shiksha** — explains the correct method of Vedic recitation and pronunciation.
 - **Vyakarana** (grammar) — based on word-formation, aids in understanding even subtle usages.
@@ -4328,14 +4328,14 @@ For modern scholars researching the special elements hidden within the vast body
 
 > "He (Sayana) undoubtedly had a knowledge of his text far beyond the pretensions of any European Scholar, and must have been in possession, either through his own learning, or that of his assistants, of all the interpretations which had been perpetuated by traditional teaching from the early times."
 
-This concludes the discussion of Sayanacharya's biography; the remaining commentators follow.
+The further points relating to Sayanacharya's biography will be discussed in the following sections.
 
 ### 11. Ravana
 *(Approximate period: 1600 CE)*
 
-Known to have written commentaries for both the Rigveda and Yajurveda (edited in part by Edward Hall); only a small portion of the Rigveda commentary has been published. His sectarian affiliation is unknown, but the work belongs to the Vedanta tradition, written in a simple, clear style — Atmananda's commentary resembles it somewhat, and cites it in a few places.
+Known to have written commentaries for both the Rigveda and Yajurveda (edited in part by Fitzedward Hall); only a small portion of the Rigveda commentary has been published. From his surviving work only these points are known: he was a Vedantin following the school of Shankara; the style of the commentary is simple and clear; Atmananda's commentary resembles it somewhat, and he must be later than Atmananda.
 
-**Dating:** Suryapandita, author of the *Paramarthaprabha* commentary on the *Gitavali* (called the *Lilavati-tikeya*), quotes the Ravana Rigveda commentary; Suryapandita himself writes at the end of that work that his Lilavati commentary was composed in 1548 CE — so this Rigveda commentary may be conjectured to have been composed about 400 years ago.
+**Dating:** Suryapandita, author of the *Paramarthaprabha* commentary on the Gita (Suryapandita is the author of the Lilavati commentary), quotes the Ravana Rigveda commentary; Suryapandita himself writes at the end of that work that his Lilavati commentary was composed in 1538 CE — so this Rigveda commentary may be conjectured to have been composed about 400 years ago.
 
 Some scholars hold that "Ravana" is simply another name for Sayanacharya himself, not a distinct person — this is incorrect, as becomes clear from a direct comparison of the two texts' own stated aims:
 
@@ -4346,7 +4346,7 @@ Some scholars hold that "Ravana" is simply another name for Sayanacharya himself
 **His other texts:**
 
 **Yajurveda-bhashya** — not available.
-**Rigveda-padapatha** — not found complete; only its first Ashtaka survives, held at the Dayananda Mahavidyalaya library, Lahore. This text differs in small ways from Shakalya's own Padapatha.
+**Rigveda-padapatha** — not found complete; only its seventh Ashtaka survives, held at the Dayananda Mahavidyalaya library, Lahore. This text differs in small ways from Shakalya's own Padapatha.
 
 ### 12. Mudgala
 *(Approximate period: 1413–1419 CE)*
@@ -4358,7 +4358,7 @@ Nothing is reliably known of his background — no solid evidence exists, and he
 
 ...one at the Mysore Oriental Library and another at Lahore. None is complete: the Mysore copy has the first Ashtaka and the Lahore copy Ashtakas 4–5. The copy in London reads "saṃvat 147…"; the last figure has been erased. On this basis it may be conjectured that this copy was written in about the first quarter of the 15th century.
 
-Mudgala uses grammatical terminology extensively throughout, generally conducting his own analysis within that framework, though his commentary appears to cover only the essential, summarized portions rather than full detail:
+Mudgala leaves out the grammatical part entirely; as he himself says in his opening verses, he looked at all the earlier commentaries and gathered only the essential part:
 
 > आरोच्च पूर्वभाष्यं च बध्चिचस्य समन्ततः । गहनं मन्यमानेन सुबोधेन समुद्धृतम् ॥ नवशीतं युग्णाश्चीरात् शिककायाश्चांजनम् । तथा समुद्धृतं सारं प्राशिनां बोधसिद्धये ॥ मौद्गल्यगोत्रेण च मुद्गलेन प्राक्तनभूतेन सुसंस्कृतेन । युथार्थभूतेन सुसाधकेन समुद्धृतं सारमिदं वरिष्ठम् ॥
 >
@@ -4401,11 +4401,11 @@ His commentary itself is not available, but its existence is well confirmed thro
 
 That Devasvāmin wrote a commentary on the Mahābhārata has not been heard of so far — so the text Vimalabodha references here must be his Rigveda commentary instead.
 
-**His period** is not definitively known. General sources record that Acharya Devasvami composed an abridged Mimamsa-commentary, apparently based on the Shabara-bhashya. If this is the same Devasvami as the Rigveda commentator, he would predate the Vikrama era.
+**His period** is not definitively known. The Prapancha-hridaya records that Acharya Devasvami composed a Mimamsa-commentary (as an abridgment of Upavarsha's commentary), apparently based on the Shabara-bhashya. If this is the same Devasvami as the Rigveda commentator, he would predate the Vikrama era.
 
 ### 15. Bhattabhaskara
 
-His commentary has not been located anywhere, though he is known to have composed a commentary on the Taittiriya Brahmana; he is also said to have written a Rigveda commentary.
+His commentary has not been located anywhere, though he is known to have composed a commentary on the Aitareya Brahmana; he is also said to have written a Rigveda commentary.
 
 ### 16. Uvata
 
@@ -4416,13 +4416,13 @@ In the Nighantu commentary (3-4-11), where the meaning of the word "amātya" is 
 
 But since this same citation also occurs in a Yajurveda commentary, whether Uvata composed a genuine Rigveda commentary remains genuinely ambiguous.
 
-Katyayana's *Sarvanukramani* also has its own commentary (author unspecified), reasonably substantial in scope — and though formally a commentary on the Anukramani rather than the Rigveda text itself, it explains matters connected to Rigveda interpretation so extensively that it may fairly be counted as a Rigveda commentary in its own right.
+There is a commentary by Uvata on Katyayana's *Sarvanukramani*; this Anukramani commentary is excellent. Uvata also wrote an exposition of the Rik-pratishakhya. Therefore he may also have composed a commentary on the Rigveda.
 
 ### 17. Haradatta
 
-Composed a commentary on the Ashvalayana-mantra-shiksha text (manuscripts survive at Mysore, Madras, and Trivandrum); Devarajayajva's own Nighantu-bhashya cites Haradatta's commentary at several points. He also composed:
+Composed a commentary on the Ashvalayana-mantra-patha text (manuscripts survive at Mysore, Madras, and Trivandrum); Devarajayajva's own Nighantu-bhashya cites Haradatta's commentary at several points. He also composed:
 
-1. Rikagni-kanda-vyakhya
+1. Ekagni-kanda-vyakhya
 2. Apastamba-Grihyasutra-vyakhya — titled *Anakula*
 3. Apastamba-Dharmasutra-vyakhya — titled *Ujjvala*
 4. Ashvalayana-Grihyasutra-vyakhya — titled *Anavila*

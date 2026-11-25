@@ -123,3 +123,9 @@ page	place	as_found	question	why_not_settled	decision
 234	Kannada prose	Kannada ಪೇಂಕಟಮಾಧವ for ವೇಂಕಟಮಾಧವ; ನಾರಾಯಣಿಕೃತ	Kannada misprint ಪೇಂಕಟ; English has Venkata		English kept
 235	Kannada quotation	Kannada ಭವಸ್ಥಾಮಿ for ಭವಸ್ವಾಮಿ	Kannada misprint ಭವಸ್ಥಾಮಿ; English has Bhavasvami		English kept
 239	Kannada prose	Kannada ಮಣ್ಣಲ for ಮಂಡಲ; ಯಾಸ್ನೀಯ/ಯಾಸ್ನ for ಯಾಸ್ಕೀಯ/ಯಾಸ್ಕ (line printed twice)	Kannada misprints ಮಣ್ಣಲ, ಯಾಸ್ನೀಯ; English has Mandala, Yaska		English kept
+253	Kannada prose and list	Kannada ಋಗ್ವದ for ಋಗ್ವೇದ, ಉನನಿಷತ್ for ಉಪನಿಷತ್, ಉತ್ವಃ	Kannada misprints ಋಗ್ವದ, ಉನನಿಷತ್; English has Rigveda, Upanishad		English kept
+256	Mimamsa quotation	Kannada ಸೂರ್ಯೋತ್ತರ / ಸೂರೋತ್ತರ for ಪೂರ್ವೋತ್ತರ (line printed twice)	Kannada misprint ಸೂರ್ಯೋತ್ತರ; English has Purva-Uttara		English kept
+261	Heading	Kannada ಶಾನಕ for ಶೌನಕ	Kannada misprint ಶಾನಕ; English has Shaunaka		English kept
+267	Heading	Kannada ಅಸಂತಾಚಾರ್ಯ for ಅನಂತಾಚಾರ್ಯ	Kannada misprint ಅಸಂತಾಚಾರ್ಯ; English has Anantacarya		English kept
+269	List numbers	Kannada ೨ twice for ೩	Kannada misprint ೨ (second); English has 3		English kept
+249	Works list	Kannada item 6 printed twice	Kannada duplicate line; English has it once		English kept

@@ -32,3 +32,4 @@ other	224	Kannada p.224 table prints ೭ ೧ ೦ (7-1-0) for agnim naro....; imp
 other	239	Kannada p.239 numbers the points (೪) then (೬), skipping 5, and prints the (೬) line twice (second line has Yaska correctly); applied as printed ((6))
 other	240	Kannada p.240 prints Anandatirtha 1197-1237 while the Kannada text says he lived 80 years; applied as printed (English was 1197-1277)
 page-absent	215	The supplied Kannada p. 215 is a copy of p. 216 (running head 216); the true p. 215 text is not in the file, so English p. 215 could not be checked (the supplied file needs a new p. 215)
+other	241	Kannada p.241 prints 101 suktas of the Rigveda while the quoted Sanskrit says thousand-and-one (ekottarasahasra); applied as printed (English had 1,001)

@@ -1064,3 +1064,53 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 240 | `a scholar named Dhanushyajva composed` → `a scholar named Dhanushkayajva composed` | SECOND-PASS S13: Kannada p.240: dhanushkayajva |
 | 240 | `(Period: 1197–1277 CE)` → `(Period: 1197–1237 CE)` | SECOND-PASS S1: Kannada p.240 prints 1197-1237 |
 | 240 | `four thousand and some [thirty-odd] years` → `four thousand and three hundred more years` | SECOND-PASS S14: Kannada p.240 verse: chatussahasre trishatottare gate (4000 and 300 more) |
+
+### 2026-11-25 second pass, batch e241-270.tsv
+| page | old → new | why |
+|---|---|---|
+| 241 | `of the 1,001 suktas of the Rigveda` → `of the 101 suktas of the Rigveda` | SECOND-PASS S1: Kannada p.241 prints 101 suktas |
+| 242 | `Shaushkalya-shruti` → `Sauparni-shruti` | SECOND-PASS S13: Kannada p.242: Sauparnishruti |
+| 243 | `without specifying gender explicitly` → `as an indication without a case-ending` | SECOND-PASS S14: Kannada p.243: avibhaktiko nirdeshah (without case-ending) |
+| 243 | `Sutrakarantara` → `Sutrakara-kantharava` | SECOND-PASS S13: Kannada p.243: sutrakarakantharava |
+| 244 | `Pushtaroktakalpa` → `Pushkaroktakalpa` | SECOND-PASS S13: Kannada p.244: pushkaroktakalpa |
+| 244 | `Shaingi-shastra` → `Paingi-rahasya` | SECOND-PASS S13: Kannada p.244: paingirahasya |
+| 244 | `Vedanki` → `Vedanti` | SECOND-PASS S13: Kannada p.244: vedanti |
+| 244 | `Bappruchi-Aranyaka` → `Bahvricha-Aranyaka` | SECOND-PASS S13: Kannada p.244: bahvacharanyaka (Bahvricha-Aranyaka) |
+| 244 | `Ratnaprashna` → `Ratnashastra` | SECOND-PASS S13: Kannada p.244: ratnashastra |
+| 244 | `Prokta-Upanishad-parishishta` → `Brahmopanishat-parishishta` | SECOND-PASS S13: Kannada p.244: brahmopanishat parishishta |
+| 244 | `(an Apastamba-related text)` → `(an Annika text)` | SECOND-PASS S14: Kannada p.244: annikagrantha |
+| 244 | `also composed the Apastambakanda` → `also composed the Annikakhanda` | SECOND-PASS S14: Kannada p.244: annikakhandavannu |
+| 245 | `whose father is named Bhattojaddyada, whereas Atmananda's own father is stated as Vishnu P` → `whose father is named Bhattahridaya, whereas Atmananda's own father is stated as Vishnupra` | SECOND-PASS S13: Kannada p.245: bhattahridaya; vishnuprakashaka |
+| 246 | `identifiable as the "Pushtaroktakalpa."` → `identifiable as the "Pushkaroktakalpa."` | SECOND-PASS S13: Kannada p.246: pushkaroktakalpa |
+| 247 | `His family specialized in interpreting the Krishna Yajurveda` → `His family followed the Bodhayana branch of the Krishna Yajurveda` | SECOND-PASS S14: Kannada p.247: krishnayajurvedada bodhayanashakhanusarigalu |
+| 247 | `The city of Vijayanagara was renowned for its beautiful architecture, trade-derived wealth` → `The renowned city of Vijayanagara, the most beautiful in all Asia, rich in wealth and char` | SECOND-PASS S16: Kannada p.247: eshyakhandalella atyanta sundaravu, aishwaryadigalinda samriddhavu, shilpadikalegalinda manoharavu ... ivarindale sthapisalpittu |
+| 247 | `**(5) Sarvadarshanasangraha** — a famous Advaita-Vedanta text.` → `**(5) Panchadashi** — a famous Advaita-Vedanta text.` | SECOND-PASS S13: Kannada p.247: (5) panchadashi |
+| 248 | `...composed with the aid of his teacher's own brother, Bharati-tirtha.` → `...the last two of these works were composed, when Madhavacharya gave up the ministry and ` | SECOND-PASS S14: Kannada p.248: kone eradu granthagalu ... vidyaranya ... tamma gurugalada bharatitirthara sahayadinda |
+| 248 | `Whether this Madhavacharya and the famed monk **Vidyaranya** were one and the same person,` → `Whether this Madhavacharya and Vidyaranya are one and the same person, or two different pe` | SECOND-PASS S14: Kannada p.248: sandehavullavaru (doubtful, not firm); abhinnarembudakke sakshibhutavagive; Indian Historical Quarterly ... bere bere vyaktigalendu shasanagala a |
+| 248 | `drove Muslim settlers out of a place called Kokai` → `drove the Muslims settled in the Konkan out from there` | SECOND-PASS S13: Kannada p.248: konkanadalli nelasidda musalmanarannu alliinda odisi |
+| 250 | `mental strength, divine grace, scholarship` → `mental strength, physical strength, scholarship` | SECOND-PASS S14: Kannada p.250: manashakti mattu daihikavada bala |
+| 250 | `to capture the Chola kingdom's Kampana region and the fortress town of the Kondavidu chief` → `to defeat Kampana, the Chola king, and the chieftain of Garudanagara` | SECOND-PASS S14: Kannada p.250: cholarajanada kampananu, garudanagarada palegaranannu sotaru |
+| 251 | `As statesmen occupied with political affairs, the brothers must have composed their works ` → `From the time he was engaged in politics he must have had the intention of composing works` | SECOND-PASS S16: Kannada p.251: ivaru rajakiyadalli todagiddaginindalu ... uddeshavannittukondirabeku |
+| 253 | `though his Shatapatha Brahmana commentary appears more hurriedly composed than the rest, h` → `though only the Shatapatha Brahmana commentary seems to have been composed last of all, af` | SECOND-PASS S14: Kannada p.253: shatapathabrahmana bhashyavannu matra ella bhashyagalikkinta kadeyalli rachisidante; harihara kaaladalli |
+| 253 | `the root source of Sanskrit itself and the most ancient of the four` → `the foundation of our culture and the most ancient of the four` | SECOND-PASS S14: Kannada p.253: namma samskritige mulabhutavu |
+| 254 | `the two branches of Veda-commentary (connected to the four purusharthas, and connected to ` → `the two parts of the Veda (one connected with the four kinds of rites, the other dealing w` | SECOND-PASS S14: Kannada p.254: eradu vedabhagagalu (chaturvidha karma, brahma); darsha-paurnamasa prakriti, vikriti |
+| 254 | `tracing the interpretive tradition from its very beginning and establishing his own doctri` → `discussing many important questions of Vedic knowledge, restating the opponent's view and ` | SECOND-PASS S14: Kannada p.254: purvapakshavannu anuvada maadi siddhantavannu sthapane; jaiminiya mimamsasutragala adhikaranagalannu sampurnavagi upayogisi |
+| 254 | `for kings' priests (rajapurohitas) and Brahmins alike;` → `for the king's priest (rajapurohita) and the Brahma priest;` | SECOND-PASS S14: Kannada p.254: rajapurohita mattu brahma |
+| 255 | `discussion of the completeness of the philosophical schools, praise for the effort of Vedi` → `the Darsha and Paurnamasa sacrifices, praise of one who has studied the Veda,` | SECOND-PASS S14: Kannada p.255: darshapurnamaseshtigalu, vedadhyayana madidavana prashamsa |
+| 255 | `and even the commentaries that survive to us show considerable variation` → `and their language differs greatly from the language now in use` | SECOND-PASS S14: Kannada p.255: ivugala bhasheggu iga baLakeyalliruva bhasheggu visheshavyatyasavide |
+| 257 | `This concludes the discussion of Sayanacharya's biography; the remaining commentators foll` → `The further points relating to Sayanacharya's biography will be discussed in the following` | SECOND-PASS S14: Kannada p.257: munina keleavu bhagagalalli charchisalaguvudu |
+| 257 | `(edited in part by Edward Hall)` → `(edited in part by Fitzedward Hall)` | SECOND-PASS S13: Kannada p.257: Fits Edvard Hal |
+| 257 | `His sectarian affiliation is unknown, but the work belongs to the Vedanta tradition, writt` → `From his surviving work only these points are known: he was a Vedantin following the schoo` | SECOND-PASS S14: Kannada p.257: shankaramatanuyayiyada vedanti; atmanandarigintalu iteenanirabeku |
+| 257 | `commentary on the *Gitavali* (called the *Lilavati-tikeya*)` → `commentary on the Gita (Suryapandita is the author of the Lilavati commentary)` | SECOND-PASS S14: Kannada p.257: lilavatitikakara suryapanditanu paramarthaprabha embudagi gitege tike |
+| 257 | `was composed in 1548 CE` → `was composed in 1538 CE` | SECOND-PASS S1: Kannada p.257: 1538 |
+| 257 | `only its first Ashtaka survives` → `only its seventh Ashtaka survives` | SECOND-PASS S1: Kannada p.257: elaneya ashtaka |
+| 258 | `Mudgala uses grammatical terminology extensively throughout, generally conducting his own ` → `Mudgala leaves out the grammatical part entirely; as he himself says in his opening verses` | SECOND-PASS S14: Kannada p.258: vyakaranabhagavannu sampurnavagi bittubittiddane ... saarabhutavada bhagavannu matra shekharisiddane |
+| 259 | `General sources record that Acharya Devasvami composed an abridged Mimamsa-commentary,` → `The Prapancha-hridaya records that Acharya Devasvami composed a Mimamsa-commentary (as an ` | SECOND-PASS S14: Kannada p.259: prapanchahridayadallide; upavarshabhashya sankshepa |
+| 259 | `he is known to have composed a commentary on the Taittiriya Brahmana;` → `he is known to have composed a commentary on the Aitareya Brahmana;` | SECOND-PASS S13: Kannada p.259: aitareyabrahmana bhashya |
+| 260 | `Katyayana's *Sarvanukramani* also has its own commentary (author unspecified), reasonably ` → `There is a commentary by Uvata on Katyayana's *Sarvanukramani*; this Anukramani commentary` | SECOND-PASS S14: Kannada p.260: katyayana sarvanukramaniya ondu uvatakruta bhashyavide; rikpratishakhyakkoo vyakhyana |
+| 260 | `Ashvalayana-mantra-shiksha text` → `Ashvalayana-mantra-patha text` | SECOND-PASS S13: Kannada p.260: ashvalayanamantrapathakke |
+| 260 | `1. Rikagni-kanda-vyakhya` → `1. Ekagni-kanda-vyakhya` | SECOND-PASS S13: Kannada p.260: ekagni kandavyakhya |
+| 264 | `Earlier there were two scholars, born of a good lineage and masters of all the śāstras, bo` → `Earlier there was an excellent scholar named Gauradhara, born of a good lineage and master` | SECOND-PASS S16: Kannada p.264: gauradhararemba panditottamaru iddaru; ivaru ... rachisidaru (one person) |
+| 267 | `son of the venerable Jñātaveda [as printed] Bhaṭṭopādhyāya` → `son of the venerable Jātaveda Bhaṭṭopādhyāya` | SECOND-PASS S13: Kannada p.267: jatavedabhattopadhyayasya sununa |
+| 269 | `in the west-south-west [as printed: "*paścimadikkinalli*"]` → `in the western direction` | SECOND-PASS S14: Kannada p.269: pashchimadikkinalli (in the west direction) |
+| 269 | `Tolloka` → `Toloka` | SECOND-PASS S13: Kannada p.269: toloka |
