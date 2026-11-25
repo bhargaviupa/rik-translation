@@ -11364,9 +11364,7 @@ In this Ṛk too the blame of touching the bride's garment is stated. If the hus
 
 ### Printed p. 417
 
-without beauty. Therefore even now it is the custom that men wear women's garments and the like **NOTE**
-
- who wishes to be possessed of health, radiance and strength should never wear garments and the like that women have used.
+without beauty. Therefore even now it is the custom that men wear women's garments and the like **NOTE**. A man who wishes to be possessed of health, radiance and strength should never wear garments and the like that women have used.
 
 #### Ṛk 31
 
