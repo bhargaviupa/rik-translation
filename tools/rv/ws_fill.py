@@ -39,8 +39,10 @@ def num(s):
     s = re.sub(r'\[\?\]', '', s).translate(KD); m = re.search(r'\d+', s)
     return (int(m.group()) if m else None)
 
+ACC = re.compile('[\u0951-\u0954\u1CD0-\u1CFF\uA8E0-\uA8F7]')      # Vedic accent signs: the supplied machine text has none (a few pages of the index give the plain Saṃhitā with accents)
+
 def kn(text, number_tail=True):
-    t = text.replace('“', '').replace('”', '').replace('"', '')
+    t = ACC.sub('', text).replace('“', '').replace('”', '').replace('"', '')
     t = re.sub(r'॥\s*([०-९]+)\s*॥?\s*$', lambda m: '|| ' + m.group(1) + ' ||', t, flags=re.M)
     t = t.replace('।', '|').replace('॥', '||')
     return deva2kn(t)
