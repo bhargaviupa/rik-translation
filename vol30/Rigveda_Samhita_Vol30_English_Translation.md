@@ -27200,6 +27200,224 @@ Sūkta 133. Maṇḍala 10, Anuvāka 11, Sūkta 133. Aṣṭaka 8, Adhyāya 7, V
 
 अस्मा इंद्राय (*asmā iṃdrāya*): the dative stands for the genitive, "of this Indra". पुरोरथं (*purorathaṃ*) is "in front of the chariot"; the compound arises because पुरः (*puraḥ*) is an indeclinable. O praisers, worship well the strength, शूषं (*śūṣaṃ*), that goes before the chariot; प्रो (*pro*) is a combination of the particles प्र (*pra*) and उ (*u*). Indra is further qualified: समत्सु (*samatsu*), in battles, where men rejoice together; संगे (*saṃge*), in the enemy force to be encountered. Even when the enemy is close, even at grappling, he is लोककृत् (*lokakṛt*), one who makes a stand and does not flee, the slayer of the Vṛtras, the obstructers. Such an Indra, becoming the impeller of wealth for us his praisers, बोधि (*bodhi*), let him take note of the services done by us. Also, let the bowstrings, ज्याकाः (*jyākāḥ*), bad ones, strung on the bows of other, contemptible enemies, be destroyed: नभंतां (*nabhaṃtāṃ*) means "let them be harmed, let them perish".
 
+### Printed p. 826
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मै इंद्राय (*asmai iṃdrāya*)—(O worshippers) of this Indra
+- पुरोरथं (*purorathaṃ*)—the one who stands in front of the chariot
+- शूषं (*śūṣaṃ*)—the might
+- सु प्रो अर्चत (*su pro arcata*)—worship well
+- समत्सु (*samatsu*)—in battles
+- संगे (*saṃge*)—when the enemy forces have gathered together
+- अभीके चित् (*abhīke cit*)—even when they have come near
+- लोककृत् (*lokakṛt*)—who stands firm in battle without fleeing
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of enemies
+- अस्माकं (*asmākaṃ*)—for us
+- चोदिता (*coditā*)—as the impeller (the one who urges us on)
+- बोधि (*bodhi*)—may he know the service-rite we perform
+- अन्यकेषां (*anyakeṣāṃ*)—of the wretched enemies
+- अधि धन्वसु (*adhi dhanvasu*)—fixed upon the bows
+- ज्याकाः (*jyākāḥ*)—the bowstrings
+- नभंतां (*nabhaṃtāṃ*)—may they meet destruction
+
+##### भावार्थ (Bhāvārtha)
+
+O worshippers, worship well the might that goes before this Indra's chariot. In the hand-to-hand fights that take place when the enemies gather and clash in battles, Indra, the slayer of enemies, is able to keep the battle-position from being spoilt. May he be our impeller, that is, urging us on in battles, and may he take note of the service-rites we perform. May the well-strung bowstrings on the bows of the wretched enemies be destroyed.
+
+##### English translation
+Adore fervently the might of that Indra which goes before his chariot; he who makes room for us in the hand to hand conflict, who slays the Vritra in the hostile army in battles, he who is our simulator, may he know (the adoration paid by us); may the bowstrings on the bows of our enemies be destroyed.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the words अभीके चित् (*abhīke cit*) in this Ṛk the Bhāṣyakāra explains अभ्यर्णॆऽपि निकटं प्राप्तेपि केशाकेश्यवस्थायामपि (*abhyarṇè 'pi nikaṭaṃ prāptepi keśākeśyavasthāyāmapi*): (enemies) who have come very close and, seizing one another by the topknots, are striking each other. Yāska, giving the etymology of the word अभीके (*abhīke*), says—
+प्रपित्वेऽभीक इत्यासन्नस्य । प्रपित्वे प्राप्ते । अभीके अभ्यक्ते । आपित्वे नः प्रपित्वे तूयमागहि । अभीके चिदुलोककृत् । इत्यपि निगमौ भवतः ॥ (*prapitve 'bhīka ityāsannasya | prapitve prāpte | abhīke abhyakte | āpitve naḥ prapitve tūyamāgahi | abhīke cidulokakṛt | ityapi nigamau bhavataḥ ‖*) (Ni. 3-20)
+Among the twenty-six words beginning प्रपित्वे (*prapitve*), अभीके (*abhīke*), etc., the words go in pairs, that is, the two words प्रपित्वे (*prapitve*) and अभीके (*abhīke*)
+### Printed p. 827
+(and likewise the two words दभ्रं (*dabhraṃ*) and अर्भकं (*arbhakaṃ*)) indicate one and the same meaning. प्रपित्वे (*prapitve*) means "come near"; अभीके (*abhīke*) means अभ्यक्ते (*abhyakte*), facing, that is, standing near, in front. In this matter it is indicated that the Vedic sentence आपित्वे नः प्रपित्वे तूयमागहि (*āpitve naḥ prapitve tūyamāgahi*) is the example of a sentence where the word प्रपित्वे (*prapitve*) is used, and the Vedic sentence अभीके चिदुलोककृत् (*abhīke cidulokakṛt*) is the example of a sentence where the word अभीके (*abhīke*) is used.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सिंधू॒रवा॑सृजोऽध॒राचो॒ अह॒न्नहिं॑ ॥  
+> अ॒श॒त्रुरिं॑द जज्ञिषे॒ विश्वं॑ पुष्यसि॒ वार्यं॒ तं त्वा॒परि॑ ष्वजामहे॒  
+> नभं॑तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । सिंधून् । अव । असृजः । अधराचः । अहन् । अहिं ।  
+> अशत्रुः । इंद्र । जज्जिषे । विश्वं । पुष्यसि । वार्यं । तं । त्वा । परि । स्वजामहे ।  
+> नभंतां । अन्यकेषां । ज्याकाः । अधि । धन्वसु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सिंधून् स्यंदनशीलाञ्चलपूरानधराचोऽधरमधोमुखमंचतो गंत्कानवासृजः । मेघान्निरगमयः । यतस्त्वमहिमंतरिक्षे गतं मेघमहन्
+> हतवानसि । यद्वा । अहिमागत्य हंतारं सर्वस्य जगत आवरकं वृत्रमसुरमहन्
+> हतवानसि ! अतो हे इंद्र त्वमशत्रुः शत्रुरहितो जज्जिषे । जायसे ॥ न संति
+> शत्रवोऽस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । जनेर्लिटि गमहनेत्यादिनोपधालोपः । द्विर्वचनेऽचीति स्थानिवद्भावाद्विर्वचनं ॥ तथा विश्वं सर्वं
+> वार्यं वरणीयं संभजनीयं धनं पुष्यसि । वर्धयसि ॥ वृज् संभक्तौ । ऋहलोर्ण्यत् । ईडवंदवृशंसदुहां ण्यत इत्याद्युदात्त त्वं ॥ तादृशं त्वां परि
+> ष्वजामहे । हविर्भिः स्तुतिभिश्चालिंगनं कुर्मः । वशीकुर्म इत्यर्थः ॥ ष्टन्व परिष्वंगे ।
+> दंशसंजष्टंजां शपि ! पा. ६-४-२५ । इत्यनुनासिकलोपः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you have sent forth the rivers, the swiftly flowing floods, the clouds that go moving downward (अधराचः (*adharācaḥ*): going with face turned down); for you struck Ahi, the cloud in the atmosphere. Or else: coming to Ahi, you slew Vṛtra the Asura, the slayer, who covers the whole world. Therefore, Indra, you are born without an enemy; you have no enemies. And you increase all the desirable, shareable wealth. Such as you are, we embrace you with oblations and praises, that is, we bring you under our sway. The remainder of the sentence about the bowstrings is not explained further here; the rest, he says, is established.
+**NOTE**
+
+### Printed p. 828
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सिंधून् (*siṃdhūn*)—the flowing waters
+- अधराचः (*adharācaḥ*)—downward-flowing, that is, rivers flowing in low ground
+- अवासृजः (*avāsṛjaḥ*)—you have created
+- अहिं (*ahiṃ*)—the cloud in the atmosphere
+- अहन् (*ahan*)—you have struck (made it pour rain), or you have slain Vṛtra who enveloped the cloud
+- इंद्र (*iṃdra*)—(therefore) O Indra, (you)
+- अशत्रुः (*aśatruḥ*)—without an enemy
+- जिज्ञषे (*jijñaṣe*)—have been born (and)
+- विश्वं (*viśvaṃ*)—all
+- वार्यं (*vāryaṃ*)—the wealth that all desire
+- पुष्यसि (*puṣyasi*)—you increase
+- तं (*taṃ*)—such
+- त्वा (*tvā*)—you
+- परि ष्वजामहे (*pari ṣvajāmahe*)—we serve with oblations and embrace, that is, we bring under our control
+- अन्यकेषां (*anyakeṣāṃ*)—of our enemies
+- अधि धन्वसु (*adhi dhanvasu*)—fixed upon the bows
+- ज्याकाः (*jyākāḥ*)—the bowstrings
+- नभंतां (*nabhaṃtāṃ*)—may they be destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you slew the Asura Vṛtra who enveloped the cloud, and you made the rain-waters he had held back, flowing by nature, fall on the earth and run as rivers in the low-lying regions. O Indra, you were born without an enemy; you increase the wealth all desire. Such as you are, we serve you with oblations and embrace you, that is, we bring you under our control. May the bowstrings of our enemies' bows be destroyed.
+
+##### English translation
+You have sent the rivers away downwards, you have slain Ahi ; you are born, Indra. without an enemy, you grant all that is desirable. as such we embrace you, may the bowstrings on the bows of our enemies be destroyed.
+
+##### विशेषविषयगळु (Special Topics)
+
+Citing sentences of mutually contradictory meaning, Yāska here explains the sentence अशत्रुरिंद्र जज्जिषे (*aśatruriṃdra jajjiṣe*)—
+अथापि विप्रतिषिद्दार्था भवंति । एक एव रुद्रो ऽवतस्थॆ न द्वितीयः । असंख्याताः सहस्राणि ये रुद्रा अधि भूम्यां ॥ अशत्रुरिंद्र जज्जिषे । शतं सेना अजयत्साकमिंद्रः ॥ (*athāpi vipratiṣiddārthā bhavaṃti | eka eva rudro 'vatasthè na dvitīyaḥ | asaṃkhyātāḥ sahasrāṇi ye rudrā adhi bhūmyāṃ ‖ aśatruriṃdra jajjiṣe | śataṃ senā ajayatsākamiṃdraḥ ‖*) (Ni. 1-15)
+Here two sentences indicating mutually contradictory meanings are cited: एक एव रुद्रोऽवतस्थे न द्वितीयः (*eka eva rudro 'vatasthe na dvitīyaḥ*) and असंख्याता सहस्राणि ये रुद्रा अधि भूम्यां (*asaṃkhyātā sahasrāṇi ye rudrā adhi bhūmyāṃ*) (Vā. Saṃ. 16-5).
+### Printed p. 829
+These two Vedic sentences contain mutually opposed views. In the first sentence the meaning is that Rudra is one alone, there is no other equal to him. In the second sentence it is said that the number of Rudras on earth is countless. These two meanings contradict each other. Likewise, in अशत्रुरिंद्र जज्जिषे (*aśatruriṃdra jajjiṣe*) (Ṛ. Saṃ. 10-133-2) the meaning is that Indra was born without an enemy, while in शतं सेना अजयत्साकमिंद्रः (*śataṃ senā ajayatsākamiṃdraḥ*) (Ṛ. Saṃ. 10-103-1) it is said that Indra conquered hundreds of enemy armies. If Indra was without enemies at birth, that is, when he had no enemies at all, is it not contradictory to say that he conquered hundreds of enemy armies? To say that one without an enemy conquered enemies means that he had enemies; once enemies existed, how was he without an enemy? The purport of these two sentences is mutually contradictory.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि षु विश्वा॒ अरा॑तयो॒ऽर्यो न॑शंत नो॒ धियः॑ ॥  
+> अस्ता॑सि॒ शत्र॑वे व॒धं यो न॑ इंद्र॒ जिघां॑सति॒ या ते॑ रा॒तिर्द॒दिर्वसु॒ नभं॑तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । सु । विश्वाः । अरातॆयः । अर्यः । नशंत । नः । धियः ।  
+> अस्ता । असि । शत्रवे । वधं । यः । नः । इंद्र । जिघांसति । या । ते । रातिः । ददिः ।  
+> वसु । नभंतां । अन्यकेषां । ज्याकाः । अधि । धन्वसु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वाः सर्वा अरातयोऽदात्र्योऽर्योऽभिगंत्रोऽ नोऽस्माकं शत्रुभूताः
+> प्रजाः सु सुष्टु वि नशंत । विनश्यंतु । हे इंद्र त्वैदर्थं धियः कर्माणि स्तुतयो
+> ना प्रवर्तंतां । हे इंद्र यो नोऽस्माज्जिघांसति हंतुमिच्छति ॥ हंतेः सन्यज्ञनगमां सनीति दीर्घः । अभ्यासाच्चेति कुत्वं ॥ तस्मै शत्रवे वधं हननसाधॆनमायुधमस्तासि । क्षेप्ता भवसि ॥ असु क्षेपणे । ताच्छीलिकस्तृन् ॥ ते तव या रातिर्धनप्रदानहे-
+
+##### Gist of the bhāṣya
+
+May all our enemy-folk, the non-givers and assailants (अर्यः (*aryaḥ*): those who come against us), be utterly destroyed. O Indra, may our praises and rites, the धियः (*dhiyaḥ*), be directed to you. O Indra, whoever wishes to slay us, against that enemy you are the hurler of the weapon (वधं (*vadhaṃ*)), the instrument of slaying; अस्तासि (*astāsi*) means you are the thrower. Your रातिः (*rātiḥ*) (the bestowing of wealth; in the next block its cause, the hand) …
+### Printed p. 830
+
+> तुर्हस्तः ॥ रा दाने । करणे क्तिन् । मंत्रे वृषेषपचमनविदभूवीरा उदात्त
+> इति क्तिन उदात्तत्वं ॥ सा रार्तिर्वसु धनं ददिः । अस्मभ्यं दाता भवतु ॥ आद्यगमहन
+> इति ददातेः किप्रत्ययः । न लोकाव्ययेति वसुशब्दात्पश्यभावः ॥ सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+… that gift of yours, रातिः (*rātiḥ*) (from रा दाने (*rā dāne*)), may it be the giver of wealth, वसु (*vasu*), to us. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्यः (*aryaḥ*)—rushing upon us
+- विश्वाः (*viśvāḥ*)—all
+- नः अरातयः (*naḥ arātayaḥ*)—our enemies
+- सु वि नशंश (*su vi naśaṃśa*)—may they be well destroyed
+- धियः (*dhiyaḥ*)—let the deeds of slaying the enemy proceed
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—whichever enemy
+- नः (*naḥ*)—us
+- जिघांसति (*jighāṃsati*)—wishes to kill
+- शत्रवे (*śatrave*)—in order to kill that enemy
+- वधं (*vadhaṃ*)—your thunderbolt, the instrument of slaying
+- अस्ता असि (*astā asi*)—you hurl at him
+- ते (*te*)—your
+- या रातिः (*yā rātiḥ*)—that hand of yours that gives us wealth
+- वसु (*vasu*)—wealth
+- ददिः (*dadiḥ*)—may it give us
+- अन्यकेषां (*anyakeṣāṃ*)—of the enemies
+- अधि धन्वसु (*adhi dhanvasu*)—fixed upon the bows
+- ज्याकाः (*jyākāḥ*)—the bowstrings
+- नभंतां (*nabhaṃtāṃ*)—may they meet destruction
+
+##### भावार्थ (Bhāvārtha)
+
+May all our enemies who rush upon us be destroyed. May the work of slaying enemies go forward. O Indra, against whatever enemy wishes to kill us, may your thunderbolt be hurled for his destruction. May your wealth-giving hand give us wealth. May the strung bowstrings on the enemies' bows be destroyed.
+
+##### English translation
+May all our assailants, who make no offerings, puickly perish, may our praises (be successful); you, Indra, hurl the weapon at the foe who seeks to slay us, may that liberal (hand) of yours be the giver of wealth (to us); may the bowstrings on the bows of our enemies be destroyed.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो न॑ इंद्रा॒भितो॒ जनो॑ वृका॒युरा॒दिदे॑शति ।  
+> अ॒ध॒स्प॒दं तमीं॑ कृधि विबा॒धो अ॑सि सास॒हिर्नभं॑तामन्य॒केषां॑ ॒ ॒॑
+> ज्या॒का अधि॒ धन्व॑सु ॥ ४॑ ॥
+
+### Printed p. 831
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । इंद्र । अभितः । जनः । वृकयुः । आदिदि देशति ।  
+> अधःपदं । तं । ईं । कृधि । विबाधः । असि । ससहिः । नभंतां । अन्यकेषां । ज्याकाः।  
+> अधि । धन्वसु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यो जनो वृकायुः । वृको हिंसकोऽरण्यश्वा स्तेनो वा ।
+> स इवाचरन्नोऽस्मानभितः सर्वत आदिदेशति अभिलक्ष्यायुधान्यतिसृजति ॥ दिशतेर्लेट्यडागमः । छांदसः शपः श्लुः । नाभ्यस्तस्याचि पितीत्यत्र बहुलं छंदसीति वक्तव्यमिति वचनात्पतिषेधाभावे लघूपधगुणः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥
+> तमीं तमिमं जनमधस्पदं पादस्याधस्ताद्वर्तमानं कृधि । कुरु ॥ करोतेश्छांदसो विकरणस्य लुक् श्रुशृणुष्यकृवृभ्य इति हेर्धिः ॥ यतस्त्वं विबाधो
+> विशेषेण बाधिता शत्रूणां सासहिरभिभविता चासि । सिद्धः शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the man who is वृकायुः (*vṛkāyuḥ*)—वृक (*vṛka*) being the destructive forest dog (wolf) or a thief—behaving like that, aims at us on every side and hurls weapons at us (आदिदेशति (*ādideśati*)). Make that man अधस्पदं (*adhaspadaṃ*), lying beneath the foot; कृधि (*kṛdhi*) means "do". For you are विबाधः (*vibādhaḥ*), one who specially afflicts enemies, and सासहिः (*sāsahiḥ*), an overcomer. The rest is established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृकायुः (*vṛkāyuḥ*)—who, like a wolf or a thief, does us harm
+- यः जनः (*yaḥ janaḥ*)—whichever enemy
+- नः अभितः (*naḥ abhitaḥ*)—around us
+- आदिदेशति (*ādideśati*)—swings and hurls his weapon
+- तं ईं (*taṃ īṃ*)—that enemy
+- अधस्पदं (*adhaspadaṃ*)—so that he falls beneath our feet
+- कृधि (*kṛdhi*)—make (you, O Indra)
+- विबाधः (*vibādhaḥ*)—though specially harassed by enemies
+- सासहिः असि (*sāsahiḥ asi*)—you defeat them
+- अन्यकेषां (*anyakeṣāṃ*)—of the enemies
+- अधि धन्वसु (*adhi dhanvasu*)—fixed upon the bows
+- ज्याकाः (*jyākāḥ*)—the bowstrings
+- नभंतां (*nabhaṃtāṃ*)—may they meet destruction
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whatever enemy, harming us like a wolf or a thief, swings and hurls his weapon around us, make that enemy fall beneath our feet. O Indra, even when the enemies afflict you greatly, you defeat them. May the well-strung bowstrings on the enemies' bows be destroyed.
+
+##### English translation
+The man who, like a wolf, prowls around us, O Indra, cast him beneath our feet, for you are the resister, the overcomer (of foes); may the bowstrings on the bows of our enemies be destroyed.
+
 ---
 
-**Progress note:** Done through printed p. 825. pp. 820-825 (batch API)
+**Progress note:** Done through printed p. 831. pp. 826-831 (batch API)
