@@ -19422,6 +19422,239 @@ The word सरण्य (*saraṇya*) is formed from the root सृ (*sṛ*), 
 
 There is an itihāsa on this point: the goddess Saraṇyū, Tvaṣṭṛ's daughter, obtained from Āditya (Vivasvat) two twin children, Yama and Yamī. Afterwards she set another goddess-woman like herself beside Āditya as her substitute, and herself ran away in mare's form. (This goddess-woman of the same form is customarily called by the name Chāyā. And in this woman Manu was born from Āditya. Afterwards Āditya, learning that this woman was not his wife Saraṇyū,) then himself took a horse's form, followed the mare-formed Saraṇyū, and stayed near her. Then, as the fruit of the mutual union of these two, the Aśvin deities were born, and in the woman of the same form Manu was born. This is the intent of the Nirukta statement.
 
+### Printed p. 551
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षा तै॒तश्चा॑वयतु॒ प्र वि॒द्वानन॑ष्टपशु॒र्भुव॑नस्य गो॒पाः।  
+> स तै॒तेभ्यः॒ परि॑ ददत्पि॒तृभ्यो॒ग्निर्दे॒वेभ्यः॑ सुविद॒त्रिये॑भ्यः ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषा । त्वा । इतः । च्यवयतु । प्र । विद्वान् । अनष्टपशुः । भुवनस्य । गोपाः ।  
+> सः । त्वा । एतेभ्यः । परि । ददत् । पितृभ्यः । अग्निः । देवेभ्यः । सुविदत्रियेभ्यः ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीक्षितमरणे पूषा त्वेत इत्याद्याश्च तस्रः शंसनीयाः । सूत्रितं च । पूषा
+> त्वेतश्चावयतु प्रविद्वानिति चतस्रः । आ. ६.१० । इति ॥
+> पूषा पोषयितैतन्नामको देवस्त्वा त्वामितोऽस्माद्देशाल्लोकात्प
+> च्यावयतु । प्रकर्षणोत्तमलोकं गमयतु । कीदृशः । विद्वानस्मद्भक्ततां
+> विजानानः अनष्टपशुरविनश्वरपशुयुक्तः । यस्मिन्सर्वे पशवस्तिष्ठंति न तु नश्यंतीत्यर्थः । भुवनस्य भूतजातस्य गोपा गोपायिता । किंच प्रक्रमय्य स पूषैतेभ्यः
+> पितृभ्यस्त्वा त्वां परि ददत् । परिप्रयच्छतु । तथाग्निश्च सुविदत्रियेभ्यः । सुविदत्रं
+> ज्ञानं धनं वा । तदर्हाः सुविदत्रियाः ॥ छांदसो घप्रत्ययः । शोभनज्ञानेभ्यः
+> सुधनेभ्यो ना देवेभ्यस्त्वां प्रयच्छतु । तेषां लोके स्थापयत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+On the death of a man consecrated for a sacrifice, three verses beginning पूषा त्वेत (*pūṣā tveta*) are to be recited, and the sūtra says: four verses beginning "Pūṣā tvetaś cyāvayatu pra vidvān" (Ā. 6.10). Pūṣan, the nourisher, bearing this name, is to make you move away from this place, this world, and to take you onward to the best world. What kind of god is he? He is "knowing", aware of our devotion; "of unlost cattle", possessed of imperishable cattle, in whose care all cattle remain and do not perish; and the protector of all that has come into being. Further, the same Pūṣan is to give you over to these fathers. Likewise Agni is to give you to the सुविदत्रियेभ्यः (*suvidatriyebhyaḥ*): सुविदत्रं (*suvidatraṃ*) is knowledge or wealth, and those worthy of it are सुविदत्रियाः (*suvidatriyāḥ*). So he is to give you to the gods of excellent knowledge, the possessors of good wealth, and to establish you in their world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्वान् (*vidvān*)—one who knows everything
+- अनष्टपशुः (*anaṣṭapaśuḥ*)—one whose cattle are not lost
+- भुवनस्य (*bhuvanasya*)—of all beings
+- गोपाः (*gopāḥ*)—the protector
+- पूषा (*pūṣā*)—the god Pūṣan
+- त्वा (*tvā*)—you
+- इतः (*itaḥ*)—from this world
+- प्र च्यवयतु (*pra cyavayatu*)—let him carry to the best world
+- सः (*saḥ*)—that same god Pūṣan
+- एतेभ्यः पितृभ्यः (*etebhyaḥ pitṛbhyaḥ*)—to these fathers
+- त्वा (*tvā*)—you
+- परि ददत् (*pari dadat*)—let him hand over
+- अग्निः (*agniḥ*)—Agni
+- सुविदत्रियेभ्यः (*suvidatriyebhyaḥ*)—to those of full knowledge (or of wealth)
+- देवेभ्यः (*devebhyaḥ*)—to the gods too, let him hand over
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Pūṣan, who knows everything, whose cattle are never lost, and who is the protector of all beings, carry you from this world to the best world. May the same Pūṣan hand you over to these fathers. May Agni hand you over to the gods of full knowledge (or of wealth).
+
+### Printed p. 552
+
+##### English translation
+May the discriminating Pushan, whose cattle are never lost, the protector of all beings, transfer you hence (to a better world): may he give you to these Pitris : may Agni (give) you to the beneficent gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+To support, as an example, the praise of two deities separately in a single Ṛk, the exposition of this Ṛk has been given: अथाप्याग्नापौष्णं हविर्न तु संस्तवः ! तत्रैतां विभक्तिस्तु तिमृचमुदाहरंति । पूषा त्वेतश्चावयतु प्र विद्वाननष्टपशुर्भुवनस्य गोपाः । स त्वैतेभ्यः परिददत्पितृभ्योऽग्निर्दॆवेभ्यः सुविदत्रियेभ्यः ॥ (ऋ. सं. १०-१७-३) । पूषा त्वेतः प्रच्यावयतु विद्वाननष्टपशुर्भुवनस्य गोपा इत्येष हि सर्वॆषां भूतानां गोपायितादित्यः स त्वैतेभ्यः परिददत् पितृभ्य इति सांशयिकस्तृतीयः पादः । पूषा पुरस्तात्तस्यान्वादेश इत्येकमग्निरुपरिष्कात्तस्य प्रकीर्तनेत्यपरं । अग्निर्दॆवेभ्यः सुविदत्रियेभ्यः । सुविदत्रं धनं भवति विंदतेर्वैकोपसर्गाद्ददातेर्वा स्याद्व्युपसर्गात् ॥ (*athāpyāgnāpauṣṇaṃ havirna tu saṃstavaḥ ! tatraitāṃ vibhaktistu timṛcamudāharaṃti | pūṣā tvetaścāvayatu pra vidvānanaṣṭapaśurbhuvanasya gopāḥ | sa tvaitebhyaḥ paridadatpitṛbhyo 'gnirdèvebhyaḥ suvidatriyebhyaḥ ‖ (ṛ. saṃ. 10-17-3) | pūṣā tvetaḥ pracyāvayatu vidvānanaṣṭapaśurbhuvanasya gopā ityeṣa hi sarvèṣāṃ bhūtānāṃ gopāyitādityaḥ sa tvaitebhyaḥ paridadat pitṛbhya iti sāṃśayikastṛtīyaḥ pādaḥ | pūṣā purastāttasyānvādeśa ityekamagnirupariṣkāttasya prakīrtanetyaparaṃ | agnirdèvebhyaḥ suvidatriyebhyaḥ | suvidatraṃ dhanaṃ bhavati viṃdatervaikopasargāddadātervā syādvyupasargāt ‖*) (Ni. 7-9).
+In some Ṛks, even though two deities are praised, it is not a joint praise (saṃstava); that is, it is not as if the two were praised together. Though the names of two occur, the praise of each of them is separate. For example, in this Ṛk Pūṣan and Agni are praised, yet it is not a joint praise; the two are praised separately.
+This god Pūṣan knows everything. Therefore, by remembering him or by his knowledge, cattle do not stray. Cattle that have strayed for some reason are certainly recovered again through Pūṣan's knowledge of the way. For this reason Pūṣan is called here "of unlost cattle". This god protects the whole world. May such Pūṣan, in the form of the Āditya, separate you, the dead body, from the path of this world and give you into the keeping of the fathers; and may Agni from there give you into the keeping of the gods, the givers of wealth. Some have expressed doubt about the meaning of the third pāda of this Ṛk. The meaning stated in this pāda, that Pūṣan is to give you (the dead) to the fathers, is open to doubt. For here it is said that Pūṣan gives you to the fathers, and then that Agni gives him to the gods. Besides this pāda's naming Pūṣan as deity, others hold that the third and fourth pāda both belong to Agni, so that the meaning that Agni himself gives this dead body to both the fathers and the gods is evident here.
+
+### Printed p. 553
+As to the word सुविदत्रियेभ्यः (*suvidatriyebhyaḥ*) in this Ṛk: सुविदत्र (*suvidatra*) means wealth. The explanation is that this word may be formed either from the root विद् (*vid*) in the sense of "obtain", with the single prefix सु (*su*), or from the root दा (*dā*) in the sense of "give", with the two prefixes सु (*su*) and वि (*vi*).
+The sacrificer who has taken the consecration for a sacrifice, on his death, is to recite four Ṛks beginning पूषा त्वेतः (*pūṣā tvetaḥ*) (verses 3-6 of this sūkta); this is set out in the sūtra of the Āśvalāyana Śrauta-sūtra पूषा त्वेतश्चावयतु प्र विद्वानिति चतस्रः (*pūṣā tvetaścāvayatu pra vidvāniti catasraḥ*) (Ā. Sū. 6-10).
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आयु॑र्वि॒श्वायुः॒ परि॑ पासति त्वा पू॒षा त्वा॑ पातु॒ प्रप॑थे पु॒रस्ता॑त् ।  
+> यत्रास॑ते सु॒कृतो॒ यत्र॒ ते य॒युस्तत्र॑ त्वा दे॒वः स॑वि॒ता  ॑
+> दधातु ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आयुः । विश्वआयुः । परि । पासति । त्वा । पूषा । त्वा । पातु । प्रपथे । पुरस्तात् ।  
+> यत्र । आसते । सुकृतः । यत्र । ते । ययुः । तत्र । त्वा । देवः । सविता । दधातु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वायुः सर्वान्नः सर्वत्र गमनशीलो वायुः ॥ वकारलोपश्चांदसः ॥
+> वायुः । यद्वा । छंदसीण इत्युण् प्रत्यये वृद्धौ च कृतायां रूपं ॥ गंता
+> वायुः । त्वा त्वां परि पासति । परिपातु । पूषानुज्ञया परितो रक्षतु ॥ पा रक्षणे।
+> लेट सिप्यडागमः ॥ प्रपथे प्रकृष्टे मार्गे स्वर्गे पुरस्तात्सर्वेषां प्रथममेव
+> वर्तमानः पूषा स्वयमेव त्वा त्वां प्रमितं यजमानं पातु । रक्षतु । सुकृतः
+> पुण्यकर्माणो यत्र यस्मिन्देत आसते तिश्यंति यत्र वा ते सुकृतो: ययुः
+
+##### Gist of the bhāṣya
+
+विश्वायुः (*viśvāyuḥ*) is the wind (vāyu) that goes everywhere, to all; the loss of the letter va is Vedic. Alternatively, the form is made with the affix *uṇ* in the Veda, with vṛddhi; the meaning is "the goer", the wind. त्वां परि पासति (*tvāṃ pari pāsati*): may he protect you all round, by Pūṣan's leave. प्रपथे (*prapathe*): on the excellent path, in heaven; Pūṣan, being first of all, himself is to protect you, the deceased sacrificer. Where the doers of good deeds abide, or where those good-doers have gone **NOTE**, (continued in the next block).
+
+### Printed p. 554
+
+> प्राप्ताः तत्र तस्मिन्स्थाने देवो दीप्यमानः सविता सर्वस्य स्वस्वकर्मणि प्रेरक
+> एतन्नामको देवस्त्वा त्वां दधातु । निदधातु ॥
+
+##### Gist of the bhāṣya
+
+...there, in that place, the shining god Savitṛ, the impeller of everyone in his own work, bearing this name, is to place you, to set you down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वायुः (*viśvāyuḥ*)—all-pervading
+- आयुः (*āyuḥ*)—the wind
+- त्वा (*tvā*)—you
+- परि पासति (*pari pāsati*)—let him protect
+- प्रपथे (*prapathe*)—in the most excellent heaven
+- पुरस्तात् (*purastāt*)—being first of all
+- पूषा (*pūṣā*)—the god Pūṣan
+- त्वा (*tvā*)—you, the sacrificer
+- पातु (*pātu*)—let him protect
+- यत्र (*yatra*)—in which region
+- सुकृतः (*sukṛtaḥ*)—doers of good deeds
+- आसते (*āsate*)—abide
+- यत्र (*yatra*)—where
+- ते सुकृतः ययुः (*te sukṛtaḥ yayuḥ*)—where the people who do good go
+- तत्र (*tatra*)—in that place
+- देवः (*devaḥ*)—the shining
+- सविता (*savitā*)—god Savitṛ
+- त्वा (*tvā*)—you
+- दधातु (*dadhātu*)—let him establish
+
+##### भावार्थ (Bhāvārtha)
+
+May the all-pervading wind protect you. May the god Pūṣan, who is first of all in the most excellent heaven, protect you, the sacrificer. In the region where the doers of good deeds abide, to which those good-doers go, in that place may the shining god Savitṛ establish you.
+
+##### English translation
+May the all-pervading, Vayu protect you, may Pushan (preserve) you, (going) first on the excellent path (to heaven): may the divine Savitri place you, where the virtuous abide, whither they have gone.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्मै अभ॑यतमेन  
+> नेषत् ॥  
+> स्व॒स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूषा । इमाः । आशाः । अनु । वेद । सर्वाः । सः । अस्मान् । अभयतमेन । नेषत् ।  
+> स्वस्ति दाः । आघृणिः । सर्ववीरः । अप्रयुच्छन् । पुरः । एतु । प्रजानन् ॥ ५ ॥
+
+### Printed p. 555
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकादशिनस्य पौष्णस्य पशोर्हविषः पूषेमा इत्यनुवाक्या । पूषेमा अशा
+> अनु वेद सर्वाः शुक्रं ते अन्यद्यजतं ते अन्यत् । आ. ३-७ । इति हि सूत्रितं ॥
+> पूषा देव इमा सर्वा आशाः प्राच्याद्या दिशोऽनु वेद । अनुपूर्व्येण
+> जानाति । इमाः सुखेन गंतव्या असुखेनेति वैवमनुक्रमेण जानातीत्यर्थः । एवं
+> सत्यस्मान् । प्रमिते यजमानो ब्रवीति पुत्रमुखेन याजकमुखेन वा । अस्मानभयतमेनात्यंतं भयरहितेन मार्गेण नेषत् । नयतु । कथं । स्वस्तिदाः कल्याणस्य
+> दाताघृणिरागतदीप्तियुक्तः सर्ववीरः सर्वैर्विरैः कर्मणि समर्थैर्युत्विग्निरुपेतोऽप्रयुच्छन्नप्रमाद्यन् प्रजानन्नस्माकं फलाफले विजानानः सन् पुर एतु ।
+> अस्माकं पुरस्ताद्गच्छतु । यथास्माकं भयं न भवति तथा गच्छत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This verse is the anuvākyā for the offering of the eleven-fold animal to Pūṣan; the sūtra says so (Ā. 3-7), citing the verse together with the following pāda. The god Pūṣan knows all these quarters, east and the rest, in order: he knows in sequence which are to be travelled with ease and which not. This being so, the deceased sacrificer speaks, through his son or through the priest: let him lead us by the most fearless path, a path wholly free of fear. How? As giver of welfare, endowed with radiance that has come to him, सर्ववीरः (*sarvavīraḥ*), accompanied by all the heroes, the priests capable in the rite, not neglecting anything, knowing the good and bad outcome for us, let him go before us; that is, let him go in front of us so that we may have no fear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—the god Pūṣan
+- सर्वाः (*sarvāḥ*)—all
+- इमा आशाः (*imā āśāḥ*)—all these quarters
+- अनु वेद (*anu veda*)—knows
+- सः (*saḥ*)—he
+- अस्मान् (*asmān*)—us
+- अभयतमेन (*abhayatamena*)—by the path wholly free of fear
+- नेषत् (*neṣat*)—let him lead
+- स्वस्ति दाः (*svasti dāḥ*)—giver of welfare
+- आघृणिः (*āghṛṇiḥ*)—very radiant
+- सर्ववीरः (*sarvavīraḥ*)—accompanied by all the priests
+- अप्रयुच्छन् (*aprayucchan*)—not in the least careless
+- प्रजानन् (*prajānan*)—knowing what is good for us
+- पुरः (*puraḥ*)—before us
+- एतु (*etu*)—let him go
+
+##### भावार्थ (Bhāvārtha)
+
+The god Pūṣan knows all these quarters. May he lead us by a path wholly free of fear. Being giver of welfare, very radiant, accompanied by all the priests, not in the least careless, and knowing our welfare, may he go before us.
+
+##### English translation
+Pushan knows all these regions severally; let him conduct us by (the path) that is most free from peril: let him precede us, who is the giver of prosperity, endowed with radiance, accompanied by all pious men, ever vigilant, and knowing our (deserts).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal sacrifice to Pūṣan called Ekādaśin, when the oblation is offered, this Ṛk beginning पूषेमा (*pūṣemā*) is to be recited as the anuvākyā mantra; this is set out in the Āśvalāyana Śrauta-sūtra
+
+### Printed p. 556
+in the sūtra beginning with this verse (Ā. 3-7).
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रप॑थे प॒थाम॑जनिष्ट पू॒षा प्रप॑थे दि॒वः प्रप॑थे पृथि॒व्याः ।  
+> उ॒भे अ॒भि प्रि॒यत॑मे स॒धस्थे॒ आ च॒ परा॑ च चरति प्रजा॒नन् ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रपथे । पथां । अजनिष्ट । पूषा । प्रपथे । दिवः । प्रपथे । पृथिव्याः ।  
+> उभे इति । अभि । प्रियतमे इति प्रियतमे । सधस्थे इति सधस्थे । आ । च । परा ।  
+> च । चरति । प्रजानन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकादशिनस्य पौष्णस्य पशोः पुरोडाशस्य प्रपथे पथामिति याज्या । सूत्रितं
+> च । प्रपथे पथामजनिष्ट पूषा पथस्पथः परिपतिं वचस्या । आ. ३-७ । इति ॥
+> पथामंतरिक्षगमनहेतुभूतानां मार्गाणां मध्यॆ प्रपथे यः प्रकृष्टः
+> पंथास्ति तत्र पूजाजनिष्ट । प्रादुरभूत् । पुण्यकर्मणां सुगतिप्रापणार्थमवस्थित
+> इति भावः । तथा दिवो द्युलोकस्य च मार्गाणां मध्यॆ प्रपथे प्रकृष्टे मार्गे
+> जातः । तथा पृथिव्याः प्रपथे प्रकृष्टे मार्गे मनुष्याणां तत्तत्कर्मणि प्रवर्तनार्थं प्रादुर्भूत इत्यर्थः । सोऽयं पूषा प्रियतमे सर्वस्यॆष्टतमे सधस्थे
+> सर्वेषां सहावस्थानभूते उभे द्यावापृथिव्यावभिलक्ष्या चरति । अभिमुख्येन चरति ।
+> सुकृतिनां सुकृतफलप्रदर्शनायानुकूलं चरतीत्यर्थः । तथा परा चरति । दुष्कर्मणां प्रतिकूलं गच्छति । किं कुर्वन् । प्रजानन् अनेनेदं कर्म कृतमस्य कर्मण
+> इदं फलमित्यविशेषेण जानानः ॥
+
+##### Gist of the bhāṣya
+
+This verse is the yājyā for the puroḍāśa of the eleven-fold animal offering to Pūṣan; the sūtra says so (Ā. 3-7), citing the verse. Among the paths by which one travels through the sky, on the excellent path, Pūṣan was born, that is, appeared; the sense is that he stands there to bring the doers of good deeds to a good destination. Likewise, among the paths of heaven, he was born on the excellent path; and on the excellent path of the earth he appeared in order to set men to their several acts. This Pūṣan moves towards both heaven and earth, the dearest to all, the common dwelling of all; he moves towards them, facing them. The meaning is that he moves favourably to the good-doers, to show them the fruit of their good deeds; and he goes परा (*parā*), away, adversely, to the doers of evil. Doing what? Knowing without distinction: "by this man this act was done; this is the fruit of this act".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पथां (*pathāṃ*)—among all the paths
+- प्रपथे (*prapathe*)—on the most excellent path
+- पूषा (*pūṣā*)—the god Pūṣan
+- अजनिष्ट (*ajaniṣṭa*)—has been born
+- दिवः (*divaḥ*)—of heaven
+- प्रपथे (*prapathe*)—on the most excellent path he has been born too
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- प्रपथे (*prapathe*)—on the excellent path he has been born too (that same Pūṣan)
+- प्रियतमे (*priyatame*)—the dearest to all
+- सधस्थे (*sadhasthe*)—the common abode of all
+- उभे (*ubhe*)—between the two, heaven and earth
+- आ चरति (*ā carati*)—he moves
+- प्रजानन् (*prajānan*)—knowing the acts and what follows them
+- परा (चरति) (*parā (carati)*)—he moves facing those who have fallen from their rites
+
 ---
 
-**Progress note:** Done through printed p. 550. pp. 544-550 (batch API)
+**Progress note:** Done through printed p. 556. pp. 551-556 (batch API)
