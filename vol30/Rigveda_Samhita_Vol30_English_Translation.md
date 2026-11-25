@@ -27907,6 +27907,125 @@ As you bear a long अंकुशं (*aṃkuśaṃ*) (hook), so, O मंत�
 - मंतुमः (*maṃtumaḥ*)—the wise one
 - यथा (*yathā*)—as he takes it and uses it, so you
 
+### Printed p. 844
+#### Ṛk 6 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्तिं (*śaktiṃ*)—your power
+- बिभर्षि (*bibharṣi*)—you bear
+- मघवन् (*maghavan*)—O wealthy Indra
+- यथा (*yathā*)—in what manner
+- अजः (*ajaḥ*)—a goat
+- पूर्वेण पदा (*pūrveṇa padā*)—with its fore-foot
+- वयां (*vayāṃ*)—a branch of a tree; as it bends it, so you
+- यमः (*yamaḥ*)—you bend (subdue) the enemies
+- देवी (*devī*)—divine in nature (your)
+- जनित्री (*janitrī*)—mother Aditi
+- अजीजनत् (*ajījanat*)—bore you
+- अजीजनत् (*ajījanat*)—precisely because she bore you
+- जनित्री (*janitrī*)—your mother
+- भद्रा (*bhadrā*)—is worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as a wise man takes a long hooked pole in his hand and uses it, so you use your power. O wealthy Indra, as a goat bends the branch of a tree with its fore-foot, so you bend (defeat) your enemies. Because Aditi, your mother, divine in nature, bore you, she has become worthy of praise.
+
+##### English translation
+For you, sapient (Indra), wield your might like a long hook; you drag (your foes), Maghavan, as a goat with its fore-foot (drags) a branch; the divine pragenitress has given you birth, the auspicious progenitress has givee you birth.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकि॑र्देवा मिनीमसि॒ नकि॒रा यो॑पयामसि मंत्र॒श्रुत्यं॑  
+> चरामसि ।  
+> प॒क्षेभि॑रपिक॒क्षेभि॒रत्रा॒भि सं र॑भामहे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । देवाः । मिनीमसि । नकिः । आ । योपयामसि । मंत्रश्रुत्यं । चरामसि ।  
+> पक्षेभिः । अपि कक्षेभिः । अत्र । अभि । सं । रभामहे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा इंद्रादयः युष्मद्विषये नकिर्मिनीमसि । न किमपि हिंस्मः ॥
+> मीज् हिंसायां क्रैयादिकः ॥ मीनातेर्निगम इति ह्रस्वः । इदंतो मसिः ॥ आकारः
+
+##### Gist of the bhāṣya
+
+"O gods, Indra and the rest, in regard to you we do not injure (नकिर्मिनीमसि (*nakirminīmasi*)): we harm you in nothing." The root is "to injure", of the Kryādi class.
+
+### Printed p. 845
+
+> समुच्चये । नकिर्न किंच योपयामसि । योपयामः । अननुष्ठानेन विमोहयामः ॥ युप विमोहने ॥ किं तर्हि मंत्रश्रुत्यं मंत्रेण स्मार्यं श्रुत्
+> विधिवाक्ये प्रतिपाद्यं युष्मद्विषयं कर्म तच्चरामसि । आचरामः । अनुतिष्ठामः ।
+> अपि च पक्षेभिः पक्षैः पक्षस्थानीयैः स्तुतशस्त्रैरपिकक्षेभिः । अपिकक्षो नाम बाह्वोर्मध्यभागः । यज्ञस्यापिकक्षभूतैर्हविर्भिरत्रास्मिन्यज्ञेऽभितः सर्वतो युष्मान्सं
+> रभामहे । सम्यगवलंबामहे ॥
+
+##### Gist of the bhāṣya
+
+The particle ā is for conjunction. "Nor do we bewilder you (योपयामः (*yopayāmaḥ*)) by failing to perform; what, then? The rite relating to you, which is to be recalled by the mantra and is taught in the injunctive text (मंत्रश्रुत्यं (*maṃtraśrutyaṃ*)), that we perform and carry out." Further, with the पक्षेभिः (*pakṣebhiḥ*), the praise-recitations that stand in the place of wings, and with the अपिकक्षेभिः (*apikakṣebhiḥ*): apikakṣa means the middle part of the arms; with oblations which are as it were the arm-hollows of the sacrifice, here in this sacrifice, on all sides, we take hold of you, we rely on you fully.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods, Indra and the others (in regard to you we)
+- नकिः मिनीमसि (*nakiḥ minīmasi*)—do not injure in the least
+- नकिः आ योपयामसि (*nakiḥ ā yopayāmasi*)—do not trouble you by neglecting the rites; (but)
+- मंत्रश्रुत्यं (*maṃtraśrutyaṃ*)—as stated in the Vedic mantras
+- चरामसि (*carāmasi*)—we perform the sacrificial rites, and
+- पक्षेभिः (*pakṣebhiḥ*)—with the śastra-mantras that stand in the place of wings
+- अपिकक्षेभिः (*apikakṣebhiḥ*)—and with oblations and the like offered with the arms
+- अत्र (*atra*)—in this sacrifice
+- अभि (*abhi*)—in all places, you
+- सं रभामहे (*saṃ rabhāmahe*)—we resort to
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and the other gods, in regard to you we do no act that causes injury, and we give you no kind of trouble. But as ordained in the Vedic texts, we perform sacrificial rites directed to you. In this sacrifice, with śastra-mantras and with oblations, we attend upon you especially and take refuge in you.
+
+##### English translation
+O gods, we never injure (you), we never inflict annoyance (on you), we follow the teaching of the mantra ; we take hold of you at this (sacrifice) with wings and arms.
+
+## Sūkta 135 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+Introduction. There is a narrative in the Kaṭha Upaniṣad. The sage Vājaśravas had a son named Naciketas. While he was still a boy, that is, of tender age, his father performed a sacrifice and gave away to brahmins the lean cows he had. Seeing this, Naciketas thought: "Why is my father doing this? What use will those brahmins have from these lean cows?" and said to his father: "Father, what merit comes to you by giving such cows? Give good things." When the father said, "Except you, Naciketas, nothing is left with me," Naciketas said, "Give me to someone." The father paid no heed to his childish speech and kept silent. Naciketas did not leave it at that and went on pressing his father: "To whom will you give me?" The father grew angry, and in the rush of anger, not knowing what to say, said: "Boy, I have given you to Death (Yama)."
+
+### Printed p. 846
+Believing that to be true, Naciketas went to Yama. Yama was not at home, so he fasted for three days until Yama should come, waiting there for his arrival. After three days Yama came home and, seeing at his door the boy fasting and awaiting him, was greatly moved and said: "Boy, you, a brahmin and a brahmacārin, have come as a guest to my house and been fasting for three days. This is not right; great harm will come to me from it. What sin may befall me who have not honoured a guest!" Greatly repentant, he said: "Boy, to atone for your three days' fast in my house I give you three boons of your choice; take them and return happy." Naciketas accordingly asked for three boons. Two he asked for: that his father's affection for him remain, and that his father's poverty perish and wealth and prosperity be gained. For the third boon he asked that Yama explain what becomes of men after they are subject to death, that is, what their state and nature are after death, and other matters touching the truths of the self. Yama tried in many ways to appease him, urging him to ask another boon and saying that even the gods cannot know this, but Naciketas would not agree. He prayed again that this very matter be made known to him. So Yama finally explained, as he desired, the nature of death. Then Naciketas, having obtained Yama's leave, came to his father. This account is set out in the Kaṭha Upaniṣad. The commentator says that this matter is alluded to in the Ṛks of this sūkta. We have explained the summary of this Kaṭha Upaniṣad and the conversation between Naciketas and Yama at length in Ṛ. Saṃ. part 27, pp. 582-594.
+
+Regarding the conversation between Naciketas and Yama, the Taittirīya Brāhmaṇa, third kāṇḍa, 11th prapāṭhaka, 8th anuvāka, says:
+
+### Printed p. 847
+उशन् ह वै (*uśan ha vai*) … य उ चैनमेवं वेद ॥ (*ya u cainamevaṃ veda ‖*) **NOTE** (Tai. Brā. 3-11-8-1, 2, 3, 4, 5)
+
+In former times there was a sage named Vājaśravas of the Gautama gotra. He had a son named Uddālaka. Once Uddālaka set about performing a special sacrifice called Viśvajit. The peculiarity of this sacrifice is giving away all one possesses to the officiating priests and other brahmins. So the sage Uddālaka, desiring that the full fruit of his sacrifice be his, gave all his wealth and other things to brahmins. At that time Naciketas, Uddālaka's son, a boy who was watching all this, felt a special effect in his mind. The boy had not yet had his initiation. In him too a special faith in giving arose. Thinking that he, the son, was a possession belonging to his father, the boy said to his father: "Father, you have given away all you had.
+
+### Printed p. 848
+"I, your son, am I not a possession of yours? Why did you not give me? To whom do you mean to give me?" Hearing his son's words, the father thought: "He is still a boy who knows nothing. His question is not proper. Why should I answer it?" and, ignoring his words, gave no reply. But the boy did not leave it at that and asked the same question a second time, a third time, again and again. At this the father grew angry and, thinking, "I took him for a boy who knows nothing, but he is an obstinate, utter fool," said: "I give you to Death." Then, as the son was ready to go to Death on hearing his father's word, a bodiless voice spoke thus: "Boy of the Gotama line (Naciketas), your father has said that he gives you to Death. So now set out to the house of Death (Yama). When you go to Yama's house he will have gone abroad on a journey. He will not come for three days. Even so, go there and stay in his house fasting until he comes, until three nights have passed. Eat nothing, whatever is offered. Afterwards, when Yama has come, he will ask you: 'Boy, how many days is it since you came?' You must say: 'Three nights have passed since I came.' Again, if he asks, 'What did you eat on the first day (or night)?', say: 'I ate your offspring'; if 'What did you eat on the second night?', say: 'I ate your cattle and other wealth'; if 'What did you eat on the third night?', say: 'I ate the good deeds you have done.'" Thus the goddess of speech gave Naciketas beneficial counsel and sent him off.
+
+[A little explanation is needed here. If a guest who comes to a householder's house on an errand is not honoured and not satisfied with food and the like, great sin comes to that householder. That is, if the guest fasts one night (one day) in his house, the householder's progeny, sons and the rest, perish; if he fasts a second day too, the householder's cattle, wealth, grain and other possessions perish; if he fasts a third day too, all the merit of the sacrifices and good rites the householder has performed up to then perishes. This, as stated in the Dharmaśāstra, is explained here. It is shown here that the goddess of speech advised Naciketas what answer to give to these questions of Yama.]
+
+Keeping the goddess of speech's counsel in mind, Naciketas came to Yama's abode. Yama had gone on a journey. After three days he came home and, seeing the boy sitting there fasting for three days, said: "Boy, how many days is it since you came here"
+
+### Printed p. 849
+and, when asked, Naciketas said three nights had passed. Then, asked what he ate the first night, he said: "I ate your progeny." Then, asked what he ate the second day, he said: "Cattle and other wealth." Asked what he ate the third day, he said: "The fruits of the good deeds you have performed." Hearing all this Yama was greatly distressed at heart and said: "Revered one, homage to you. You have fasted and wasted away three days in my house; great sin has befallen me thereby. To atone for that sin I will give three boons, one for each of the three days you fasted; ask." Naciketas asked for the three boons he wanted thus: "O Yama, if you give me boons, let me go to my father as I now am, without falling under death." Yama granted the boon, "So be it," and said, "Ask the second boon." Naciketas said: "Tell me the method by which śrauta and smārta rites yield imperishable fruits." Yama accordingly explained to him the method of piling the fire-altar and said that this piling of the fire should be famous by the name Naciketas (Nāciketa fire). Granting the second boon — that the man who performs the Nāciketa fire-piling gains exceeding fruit for the śrauta and smārta rites he performs — he then said, "Ask the third boon." Naciketas said: "O Yama, a man through his actions takes many births and falls under death many times. Therefore tell me the means of conquering death, so as to be freed from saṃsāra. This is the third boon I ask." Yama then explained to Naciketas at length the means of conquering death and the nature of the Supreme Brahman, it is said.
+
+The commentator says that this sūkta can be explained in two ways, and accordingly explains one meaning with reference to Yama and another with reference to Āditya. Yāska also approves this Āditya-related meaning and gives the etymology of the first Ṛk of the sūkta accordingly. Following this, we too have explained the Ṛks of this sūkta in two ways, with reference to Yama and to Āditya.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्निति सप्तर्चं सप्तमं सूक्तं यमगोत्रस्य कुमारस्यार्षं । आनुष्टुभं
+> यमदेवत्यं । तथा चानुक्रांतं । यस्मिन्कुमारो यामायनो याममानु_
+> ष्टुभं त्विति ॥
+> 54
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, of seven Ṛks, beginning यस्मिन् (*yasmin*), has as its seer Kumāra of the Yama gotra; its metre is Anuṣṭubh and its deity Yama. So the Anukramaṇī says: यस्मिन्कुमारो यामायनो याममानु_ष्टुभं त्विति ॥ (*yasminkumāro yāmāyano yāmamānu_ṣṭubhaṃ tviti ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 843. pp. 838-843 (batch API)
+**Progress note:** Done through printed p. 849. pp. 844-849 (batch API)
