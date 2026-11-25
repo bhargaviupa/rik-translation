@@ -1121,6 +1121,273 @@ That very Soma, of attractive form, wise, adorable, desired by many, who is as a
 ##### English translation
 The germ which the augmenters of the rite brought forth at the sacrifice lovely to look upon, intelligent, most adorable, desired by many.
 
+### Printed p. 25
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒ची॒ने अ॒भि त्मना॑ य॒द्वी ऋ॒तस्य॑ मा॒तरा॑ ।  
+> त॒न्वा॒ना य॒ज्ञमा॑नु॒षग्यदं॑ज॒ते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समीचीने इति संईचीने । अभि । त्मना । यह्वी अति । ऋतस्य । मातरा ।  
+> तन्वानाः । यज्ञं । आनुषक् । यत् । अंजते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमः समीचीने परस्परं संगते यह्वी महत्यावृतस्य यज्ञस्य मातरा
+> निर्मात्र्य द्यावापृथिव्या त्मनात्मना स्वयमेव तदाभिगच्छति । यद्यदा यज्ञं
+> तन्वाना अध्वर्यव आनुषगनुषक्तं वसतीवरीभिरंजते सोमं मिश्रयंति तदा
+> स्वयमभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+That Soma, of his own accord, goes toward the two great, mutually united parents of the sacrifice, heaven and earth, who are its makers. This happens when the Adhvaryus, extending the rite, anoint (mix) the Soma in due order with the Vasatīvarī waters; then he goes of himself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- तन्वानाः (*tanvānāḥ*)—the Adhvaryus who extend it
+- यत् (*yat*)—when
+- आनुषक् (*ānuṣak*)—in due order (the Soma)
+- अंजते (*aṃjate*)—they mix with the Vasatīvarī water (then the Soma)
+- समीचीने (*samīcīne*)—the two that are united with each other
+- यह्वी (*yahvī*)—of great nature
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- मातरा (*mātarā*)—toward heaven and earth, the makers
+- त्मना (*tmanā*)—by his own impulse
+- अभि (*abhi*)—goes and joins
+
+##### भावार्थ (Bhāvārtha)
+
+When the Adhvaryus, who extend and carry out the sacrifice, mix the Soma in due order with the Vasatīvarī waters, then Soma goes of his own impulse toward heaven and earth, which are united with each other, of great nature, and makers of the sacrifice.
+
+##### English translation
+He of his own will approaches the great united parents of the sacrifice (heaven and earth) when (the priests) conducting the ceremony anoint him in duc order (with the sacred waters).
+
+### Printed p. 26
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्वा॑ शु॒क्रेभि॑र॒क्षभि॑र्युर्॒णोरस॑ व्र॒जं दि॒वः ।  
+> हि॒न्वन्नृ॒तस्य॒ दीधि॑तिं॒ प्राध्व॒रे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्वा । शुक्रेभिः । अक्षभिः । ऋणोः । अप । व्रजं । दिवः ।  
+> हिन्वन् । ऋतस्य । दीधितिं । प्र । अध्वरे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं कृत्वा कर्मणा ज्ञानेन वा शुक्रेभिः शुक्रैर्दीप्यमानैरक्षभिरक्षैरिंद्रियैरिवाश्नुवानैः स्वतेजोभिर्व्रजमंधकारसमूहं दिवोऽंतरिक्षादपर्णोः । अपगमय । विनाशय ॥ ऋणु गतौ तानादिकः ॥ किं कुर्वन् ।
+> अध्वरे हिंसारहिते यज्ञ ऋतस्य यज्ञस्य दीधितिं धारकं स्वीयं रसं प्र हिन्वन्
+> प्रेरयन् । अनेन लोकद्वयवर्तित्वमभिहितं ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, by your action or knowledge, with your own radiances, which are bright and shining, like sense-organs that pervade, drive away the mass of darkness from the sky, the atmosphere." Sāyaṇa glosses *aparṇoḥ* as "make go away, destroy". What are you doing? In the non-violent sacrifice, sending forth your own juice that sustains the sacrifice. By this, existence in both worlds is stated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) अध्वरे (*adhvare*)—in the sacrifice
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- धीदितिं (*dhīditiṃ*)—the sustaining juice
+- प्र हिन्वन् (*pra hinvan*)—sending forth
+- क्रत्वा (*kratvā*)—by your excellent action
+- शुक्रेभिः (*śukrebhiḥ*)—shining
+- अक्षभिः (*akṣabhiḥ*)—by the radiances
+- व्रजं (*vrajaṃ*)—the mass of darkness
+- दिवः (*divaḥ*)—from the atmosphere
+- अप ऋणोः (*apa ṛṇoḥ*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, sending forth in the sacrifice the juice that sustains it, drive away the mass of darkness from the atmosphere by your excellent action and your shining radiances.
+
+##### English translation
+Soma, by your act drive away with your brilliant organs the darkness from the sky, effusing into the sacrifice (your juice) the lustre of the rite.
+
+### Printed p. 27
+
+## Sūkta 103 (Maṇḍala 9)
+Sūkta 103. Maṇḍala 9; Anuvāka 6; Sūkta 103. Aṣṭaka 7; Adhyāya 5; Varga 6. Number of Ṛks in the sūkta: 6. Ṛṣi: Dvita Āptya. Deity: Pavamāna Soma. Metre: Uṣṇik.
+
+Sāyaṇa's introduction: the sūkta beginning प्र पुनानाय (*pra punānāya*) has six Ṛks and is the seventh sūkta. Its seer is Dvita Āptya; metre and deity are as before. The Anukramaṇī says: प्र पुनानाय षड्द्वित आप्त्य इति (*pra punānāya ṣaḍdvita āptya iti*). The viniyoga has been given already.
+
+Anuvāda: This sūkta beginning प्र पुनानाय (*pra punānāya*) is the seventh sūkta in the sixth anuvāka. It has six Ṛks. Its ṛṣi is Dvita Āptya; its deity and metre are the same as in the preceding sūkta. In the Anukramaṇī it is said: "Pra punānāya, six verses, Dvita Āptya". The viniyoga was stated earlier.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र पु॑ना॒नाय॑ वे॒धसे॒ सोमा॑य॒ वच॒ उद्य॑तं ।  
+> भृ॒तिं न भ॑रा म॒तिभि॒र्जुजो॑षते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र ! पुनानाय । वेधसे । सोमाय । वचः । उत्यतं ।  
+> भृतिं । न । भर । मतिभिः । जुजोषते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितो नामर्षिः स्वात्मानं प्रत्याह । पुनानाय पवित्रेण पूयमानाय
+> वेधसे कर्मणो विधात्रे मतिभिः स्तुतिभिर्जुजोषते प्रीयमाणाय यद्वा
+> मतिभिः स्तोतृभिः सह जुजोषते प्रीणयित्रे सोमायोद्यतमुद्युक्तं वचः
+
+##### Gist of the bhāṣya
+
+The seer Dvita speaks to himself. To Soma, who is being purified by the filter, the ordainer of the rite, who is pleased by praises (or, alternatively, who is gratified together with the praisers, the pleaser), the uplifted speech…
+
+### Printed p. 28
+
+> प्र भर । प्रकर्षेण संपादय । अभिष्टुहीत्यर्थः । तत्र दृष्टांतः । भृतिं न यथा
+> भृतका भृतिं संपादयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+…bring forth, carry forth in abundance; that is, praise him. The illustration: as hired workers procure their wages, so do it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भृतिं न (*bhṛtiṃ na*)—as wages are paid to workmen, each his own
+- पुनानाय (*punānāya*)—to the purifier
+- वेधसे (*vedhase*)—the manager of the rite
+- मतिभिः (*matibhiḥ*)—by praises
+- जुजोषते (*jujoṣate*)—who obtains satisfaction
+- सोमाय (*somāya*)—to Soma
+- उद्यतं (*udyataṃ*)—lifted up and recited
+- वचः (*vacaḥ*)—the praise
+- प्र भर (*pra bhara*)—compose and offer
+
+##### भावार्थ (Bhāvārtha)
+
+As wages are paid to workmen, each his own, compose and offer the praise to be recited to Soma, who is the purifier, the manager of the rite, and who obtains satisfaction through praises.
+
+##### English translation
+Raise a loud voice to Soma the institutor (of the rite), purified, gratified by praises, as (men pay) wages (to a labourer).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ वारा॑ण्य॒व्यया॒ गोभि॑रंजा॒नो अ॑र्षति ।  
+> श्री ष॒धस्था॑ पुना॒नः कृ॑णुते॒ हरिः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । वाराणि । अव्यया । गोभिः । अंजानः । अर्षति ।  
+> श्री । सधस्था । पुनान । कृणुते । हरिः २ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोभिर्गॊविकारैः क्षीरादिभिरंजानोऽज्यमानः सोमोऽव्ययाविमयानि
+> वाराणि वालानि पवित्राणि पर्यर्षति । परिगच्छति । आपि च हरिर्हरितवर्णः सोमपुनानः पूयमानः संस्कृ त्रिणि सथस्था । सह तिष्मंश्यत्रेति सथस्थं स्थानं । द्रोणकलशाधवनीयपूतभ्यदात्मकानि त्रिणि स्थानानि कृणुते । करो+ति ॥
+
+##### Gist of the bhāṣya
+
+Soma, anointed with the products of cows, milk and the like, goes around the filters, the woollen hairs. Moreover, Soma, the green-tinted, being purified, makes three seats; "seat" is a place where they stand together; the three places are the Droṇakalaśa, the Ādhavanīya and the Pūtabhṛt.
+
+### Printed p. 29
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोभिः (*gobhiḥ*)—with milk and the like
+- अंजानः (*aṃjānaḥ*)—Soma, mixed
+- अव्यया (*avyayā*)—made of wool
+- नाराणि (*nārāṇi*)—through the threads of the ten-fold filter
+- परि अर्षति (*pari arṣati*)—flows and goes
+- हरिः (*hariḥ*)—the green-coloured
+- पुनानः (*punānaḥ*)—the purified Soma
+- त्री सदस्या (*trī sadasyā*)—the hundred places called Droṇakalaśa, Ādhavanīya and Pūtabhṛt **NOTE**
+- कृणुते (*kṛṇute*)—makes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, mixed with milk and the like, flows through the threads of the ten-fold filter made of wool. Soma, green-coloured and purified, occupies the three places called Droṇakalaśa, Ādhavanīya and Pūtabhṛt.
+
+##### English translation
+Blending with the curds and milk the Soma rushes through the woollen fleece ; the green-tinted Soma being purified takes up three stations.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ कोशं॑ मधु॒श्चुत॑म॒व्यये॒ वारे॑ अर्षति ।  
+> अ॒भि वाणी॒र्यषी॑णां स॒प्त नू॑षत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । कोशं । मधुश्चुतं । अव्यये । वारे । अर्षति ।  
+> अभि । वाणीः । ऋषीणां । सप्त । नूषत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमोऽव्ययेऽविमये वारे वाले पवित्रे मधुश्चुतं मधुररसस्य
+> चाव्ययितारं द्रोणकलशं प्रत्यात्मीयं रसं पर्यर्षति । गमयति । तमिमं
+> सोममृषीणां सप्त वाणीश्छंदांस्यभि नूषत । अभिष्टुवंति ॥ नू स्तवने कुटादिः ॥
+
+##### Gist of the bhāṣya
+
+That Soma, through the woollen filter, the hair, makes his own juice go to the Droṇakalaśa, the honey-dripping vessel and the one that makes the sweet juice flow. The seven voices of the seers, the metres, praise this Soma; नू स्तवने (*nū stavane*) is a root of the Kuṭādi class.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (Soma) अव्यये (*avyaye*)—made of wool
+- वारे (*vāre*)—through the threads of the ten-fold filter
+- मधुश्चुतं (*madhuścutaṃ*)—that drips sweet juice
+- कोशं (*kośaṃ*)—to the Droṇakalaśa
+- परि अर्षति (*pari arṣati*)—pours his own juice (then)
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers
+- सप्त वाणीः (*sapta vāṇīḥ*)—the seven metres beginning with Gāyatrī
+- अभि नूषत (*abhi nūṣata*)—praise
+
+### Printed p. 30
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, through the threads of the ten-fold filter made of wool, pours his juice to the Droṇakalaśa that drips sweet juice. Then the seven metres of the seers, beginning with Gāyatrī, praise him.
+
+##### English translation
+The Soma sends forth (its juice) through the woollen fleece to the honey-dripping receptacle ; the seven metres of the Rishis praise (it)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ णे॒ता म॑ती॒नां वि॒श्वदे॑वो॒ अदा॑भ्यः ।  
+> सोमः॑ प्रसा॒नश्च॒ म्यो॑र्विश॒द्धरिः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परे नेता । मतीनां । विश्वदेवः । अदाभ्यः ।  
+> सोमः । पुनानः । चन्वोः । विशत् । हरिः ॥  
+> ॥ श्री रामचंद्राय नमः ॥  
+> हरिर्हरितवर्णः स सोमः पुनानः पूयमानः संश्च म्योरधिषवणफलकयोः  
+> परि विशत् । परिविशति । कीदृश मतीनां स्तुतीनां नेता यद्वा मतीनां  
+> स्तोत्यणां स्वकर्मण्युपनेता विश्वदेवः सर्वदेवः । सोमेऽभिषूयमाणे  
+> सतींद्रादयः सर्वे देवाः सोमं प्रत्यागच्छंति खलु । तस्मात्सर्वदेवोपेतः अत  
+> एवादाभ्योऽहिंसितः कैश्चिदपि
+
+##### Gist of the bhāṣya
+
+Hari, the green-coloured Soma, being purified, enters the two boards of the pressing, the *camyoḥ* **NOTE**. What is he like? Leader of praises, or alternatively the one who brings the praisers to his own rite; Viśvadeva, all-divine. When Soma is being pressed, all the gods, Indra and the rest, come to Soma; therefore he is accompanied by all the gods and hence undaunted, unharmed by anyone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतीनां (*matīnāṃ*)—of the praises
+- नेता (*netā*)—the leader
+- विश्वदेव (*viśvadeva*)—the all-divine
+- अदाभ्यः (*adābhyaḥ*)—the unharmed
+- हरिः (*hariḥ*)—the green-coloured
+- सोमः (*somaḥ*)—Soma
+- पुनानः (*punānaḥ*)—being purified
+- चन्नोः (*cannoḥ*)—in the two vessels, the Camū
+- परि विशत् (*pari viśat*)—enters
+
 ---
 
-**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
+**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
