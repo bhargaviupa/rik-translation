@@ -17350,6 +17350,216 @@ Metre (*chaṃdaḥ*, printed वंदः (*vaṃdaḥ*)): Ṛks 1-10 and 12-14
 > असुं॒ य ई॒युर॑वृ॒का ऋ॑त॒ज्ञास्ते नो॑ऽवंतु पि॒तरो॒  ॑
 > हवेषु ॥ १ ॥
 
+### Printed p. 489
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईरतां । अवरे । उत् । परासः । उत् । मध्यमाः । पितरः । सोम्यासः ।  
+> असुं । ये । ईयुः । अवृकाः । ऋत्तज्ञाः । ते । नः । अवंतु । पितरः । हवेषु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रिविधाः पितर उत्तमा मध्यमा अधमाश्चति । यथाविधं श्रौतं कर्मानुष्ठाय पितृत्वं प्राप्ता उत्तमाः । स्मार्तकर्ममात्रपरा मध्यमाः । आत्रापि कैश्चित्संस्कारैर्विकला अधमाः । एतदेवाभिप्रेत्य ये अग्निदग्धा ये अनग्निदग्धा इत्यादिमंत्र
+> अन्नातः । तेष्ववरे निकृष्टा उदीरतां । उत्तमं हविः प्राप्नुवंतु । परास उत्तमाः
+> पितर उदीरतां । मध्यमाः पितरश्चोदीरतां । ते सर्वॆऽप्यस्मद्विषये सोम्यासः
+> सोम्या अनुग्रहपराः संतु । ये पितरोऽवृका वृकवदरण्यश्ववदस्मासु हिंसामकुर्वंत ऋतज्ञा अस्मदनुष्ठितं यज्ञं जानंतोऽसुमस्मत्पाणमायुः रक्षितुं
+> प्राप्ताः ते पितरो हवेष्वस्मदीयॆष्वाह्वानेषु नोऽस्मानवंतु । रक्षंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says the Pitṛs are of three kinds: the best, the middling and the lowest. Those who performed the Vedic (śrauta) rites as prescribed and so attained the state of Pitṛs are the best. Those devoted only to the Smārta rites are the middling. Those among them who are deficient in some sacraments are the lowest. With just this in view the mantra beginning ये अग्निदग्धा (*ye agnidagdhā*) ("those who are fire-burnt, those who are not fire-burnt") and the like was composed. Of these, the "lower" (अवरे (*avare*)), the inferior ones, are to rise up, that is, to receive the best oblation. The "higher" (परासः (*parāsaḥ*)), the best Pitṛs, are to rise up, and the middling Pitṛs are to rise up. May all of them be सोम्यासः (*somyāsaḥ*), that is, gracious towards us. Those Pitṛs who are अवृकाः (*avṛkāḥ*), that is, who do not harm us as a wolf or a forest-horse would, who are ऋतज्ञाः (*ṛtajñāḥ*), that is, who know the sacrifice performed by us, and who have come to protect our life-breath (असुं (*asuṃ*)), our life-span: may those Pitṛs protect us at our invocations (हवेषु (*haveṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवरे (*avare*)—the Pitṛs in the lower region
+- उदीरतां (*udīratāṃ*)—let them receive our oblation
+- परासः (*parāsaḥ*)—those who are in the best world
+- उत् (*ut*)—let them receive our oblation
+- मध्यमाः (*madhyamāḥ*)—those in the middle world
+- पितरः उत् (*pitaraḥ ut*)—let the Pitṛs also accept
+- सोम्यासः (*somyāsaḥ*)—may all of them be of a gracious mind towards us
+- ये पितरः (*ye pitaraḥ*)—those Pitṛs who
+- अवृकाः (*avṛkāḥ*)—not cruel like wolves
+- ऋतज्ञाः (*ṛtajñāḥ*)—who know our sacrificial rites
+- असुं (*asuṃ*)—our life-breath
+- ईयुः (*īyuḥ*)—have come to protect
+- ते (*te*)—they
+- नः (*naḥ*)—us
+- हवेषु (*haveṣu*)—at the times of our invocation
+- अवंतु (*avaṃtu*)—let them protect
+
+##### भावार्थ (Bhāvārtha)
+
+May the Pitṛs in the lower world, those in the best world and those in the middle world accept our oblations. May all of them be gracious towards us. May those Pitṛs who are not cruel like wolves, who know our sacrificial rites and who have come to protect our life-breath protect us at the time of our invocation.
+
+##### English translation
+Let the lower, the upper, the intermediate Pitris, rise up, accepting the Soma libation : may those progenitors who, unlike wolves, acknowledging our offerings, have come to preserve our lives, protect us upon our invocations.
+
+### Printed p. 490
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an etymological explanation of this Ṛk: उदीरतामवर उदीरतां पर उदीरतां मध्यमाः पितरः सोम्याः सोमसंपादिनस्तेऽसुं प्राणमन्वीयुरवृका अनमित्राः सत्यज्ञा वा यज्ञज्ञा वा ते न आगच्छंतु पितरो ह्वानेषु ॥ (*udīratāmavara udīratāṃ para udīratāṃ madhyamāḥ pitaraḥ somyāḥ somasaṃpādinaste 'suṃ prāṇamanvīyuravṛkā anamitrāḥ satyajñā vā yajñajñā vā te na āgacchaṃtu pitaro hvāneṣu ‖*) (Ni. 11-19).
+
+अवरे (*avare*): the Pitṛs in the lower part, that is, on the earth, or in the lower part of the world of the Pitṛs; परासः (*parāsaḥ*): the Pitṛs dwelling in the heavenly world; मध्यमाः (*madhyamāḥ*): the Pitṛs of the middle station, dwelling in the atmosphere; सोम्यासः (*somyāsaḥ*): those who formerly prepared and offered Soma in the sacrifice for offering to the gods. Those who have come to protect our life-breath, those who do no harm of any kind to anyone, those who are not enemies, that is, who do not wish ill, those who know the nature of truth or of sacrifice — whichever Pitṛs there are, may all of them come to us at the invocation we are now making and protect us.
+
+On the word अवृकाः (*avṛkāḥ*): वृकः (*vṛkaḥ*) is a wolf. The nature of the wolf is to do harm. When the word is used of men it means those who do harm, wicked people. अवृकाः (*avṛkāḥ*) means those who are not wolves, who harm no one, good people.
+
+अनमित्रा: (*anamitrā:*): मित्र (*mitra*) means friend, benefactor. अमित्र (*amitra*) is one who is not a friend, an enemy; अनमित्र (*anamitra*) is one who is not an enemy, that is, a friend, a benefactor. Thus मित्र (*mitra*) and अनमित्र (*anamitra*) have the same meaning. Because two negative prefixes occur in this word, (Two negetives make one affirmative) the word indicates the original meaning.
+
+The commentator has said that there are three kinds of Pitṛs: उत्तमा मध्यमा अधमाश्चेति (*uttamā madhyamā adhamāśceti*). Thus:
+
+उत्तमाः (*uttamāḥ*): यथाविधं श्रौतं कर्मानुष्ठाय पितृत्वं प्राप्ता उत्तमाः (*yathāvidhaṃ śrautaṃ karmānuṣṭhāya pitṛtvaṃ prāptā uttamāḥ*). Those who performed the best rites, sacrifices and the like, in due form, and as the fruit of that good conduct obtained the station of Pitṛs, are renowned as the best among the Pitṛs.
+
+मध्यमाः (*madhyamāḥ*): स्मार्तकर्मपरा मध्यमाः (*smārtakarmaparā madhyamāḥ*). The Pitṛs who, as stated in the Smṛtis, Purāṇas and so on, worshipped the gods and obtained the state of Pitṛs through that merit are the middling.
+
+### Printed p. 491
+अधमाः (*adhamāḥ*): अत्रापि कैश्चित्संस्कारैर्विकला अधमाः (*atrāpi kaiścitsaṃskārairvikalā adhamāḥ*). Those who, through faults and omissions in the above rites, were unable to carry them out completely are counted the lowest among the Pitṛs. Thus the nature of the three kinds of Pitṛs, best, middling and lowest, and their stations have been explained. In accordance with this there is also the mantra ये अग्निदग्धाः (*ye agnidagdhāḥ*). That is, those whose dead body is burnt in the fire with mantra-accompanied sacraments attain the best station among the Pitṛs; they are called "fire-burnt". Those, on the other hand, who without the fire-sacraments are drowned in water, or for whom there is no one to perform the later rites, or who are not sanctified by rites as prescribed, are all called "not fire-burnt". These obtain the middle or the lowest station among the Pitṛs. The purport of this Ṛk is that all such Pitṛs, who acquire Soma, are free from harm, protect life and know the performance of sacrifices, should heed our invocation and protect us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं पि॒तृभ्यो॒ नमो॑ अस्त्व॒द्य ये पूर्वा॑सो॒ य उप॑रास  ॒
+> ईयुः ।  
+> ये पार्थि॑वे॒ रज॒स्या निष॑त्ता॒ ये वा॑ नू॒नं सु॑वृ॒जना॑सु  ॒
+> विक्षु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । पितृभ्यः । नमः । अस्तु । अद्य । ये । पूर्वासः । ये । उपरासः । ईयुः ।  
+> ये । पार्थिवे । रजसि । आ । निसत्ताः । ये । वा । नूनं । सुवृजनासु । विक्षु ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे पितरो बर्हिषद इत्यस्येदं पितृभ्य इति द्वितीयानुवाक्या ।
+> सूत्रं तु पूर्वमेवोदाहृतं । आ. २-१९ ॥ इदं पितृभ्य इत्येषा धाय्या । सूत्रितु
+> च । आहं पितृन्सु विदत्रा अवित्सीदं पितृभ्यो नमो अस्त्वद्य स्वादुष्किलायमिति
+> चतस्रः । आ. ५-२० । इति ॥
+> पूर्वासो यजमानोत्पत्तेः पूर्वमुत्पन्ना ज्येष्ठभ्रातृपितामहादयो
+> य ईयुः पितृलोकं प्राप्ताः । ये चान्य उपरासो यजमानजन्मन उपर्यु-
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, for the verse पितरो बर्हिषदः (*pitaro barhiṣadaḥ*) the verse इदं पितृभ्यः (*idaṃ pitṛbhyaḥ*) is the second anuvākyā. The sūtra was quoted before: Ā. 2-19. इदं पितृभ्य इत्येषा धाय्या (*idaṃ pitṛbhya ityeṣā dhāyyā*); and it is also prescribed: आहं पितृन्सु विदत्रा अवित्सीदं पितृभ्यो नमो अस्त्वद्य स्वादुष्किलायमिति चतस्रः । (*āhaṃ pitṛnsu vidatrā avitsīdaṃ pitṛbhyo namo astvadya svāduṣkilāyamiti catasraḥ |*) (Ā. 5-20). पूर्वासः (*pūrvāsaḥ*) are those born before the sacrificer, such as elder brothers and grandfathers, who have gone (ईयुः (*īyuḥ*)) to the world of the Pitṛs. And the others, उपरासः (*uparāsaḥ*), born after the sacrificer's birth, such as younger brothers and his own sons, have gone to the world of the Pitṛs.
+
+### Printed p. 492
+
+> तन्नाः कनिष्ठभ्रातृस्वपुत्रादय ईयुः पितृलोकं प्राप्ताः । येऽप्यन्ये पार्थिवे
+> पृथिवीसंबंधिनि रजसि रजोगुणकार्येऽस्मिन्कर्मण्या निषत्ता हविः स्वीकर्तुमागत्योपविष्टाः । ये वा केचिदन्ये बंधुवर्गरूपाः पितरो विक्षु बंधुरूपासु
+> प्रजास्वा निषत्ताः श्राद्धादिस्वीकारायागत्योपविष्टाः । कीदृशीषु विक्षु ! सुवृजनासु ।
+> व्यज्यते परित्यज्यते दारिद्रमनेनेतिवृजनं धनं । शोभनं वृजनं यासां ताः
+> सुवृजनाः । तादृशीषु । धनसमृद्ध्या श्राद्धादिकर्मपरास्वित्यर्थः । सर्वेभ्य उक्तेभ्यः
+> पितृभ्योऽद्यास्मिन्कर्मणेदं नमोऽस्तु । अयमाहुतिप्रदानपूर्वको नमस्कारो
+> भवतु ॥
+
+##### Gist of the bhāṣya
+
+Also the others who are seated (आ निषत्ताः (*ā niṣattāḥ*)) in the terrestrial (पार्थिवे (*pārthive*)) रजसि (*rajasi*), in this rite, a product of the quality rajas, having come to receive the oblation. Or any other Pitṛs of the class of kinsmen who are seated among the people (विक्षु (*vikṣu*)), the kinsfolk, having come to accept śrāddha and the like. What sort of people? सुवृजनासु (*suvṛjanāsu*): वृजनं (*vṛjanaṃ*) is wealth, by which poverty is cast off; those who have good wealth are सुवृजनाः (*suvṛjanāḥ*), people devoted to śrāddha and other rites through abundance of wealth. To all the Pitṛs mentioned, today, in this rite, let there be this homage (नमः (*namaḥ*)): let this act of homage, preceded by the giving of the oblation, take place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वासः (*pūrvāsaḥ*)—among the elder Pitṛs and grandfathers and others older than we
+- ये (*ye*)—those who
+- ईयुः (*īyuḥ*)—have joined the world of the Pitṛs
+- उपरासः (*uparāsaḥ*)—among those younger than we
+- ये (*ye*)—those who have died
+- ये (*ye*)—those who
+- पार्थिवे रजसि (*pārthive rajasi*)—in the terrestrial world (having come for the oblation)
+- आ निषत्ताः (*ā niṣattāḥ*)—are seated
+- ये वा (*ye vā*)—and whichever other Pitṛs
+- सुवृजनासु (*suvṛjanāsu*)—of the excellent, wealthy
+- विष्णु (*viṣṇu*)—are seated among the people
+- पितृभ्यः (*pitṛbhyaḥ*)—to all Pitṛs
+- अद्य (*adya*)—at this time of the rite
+- इदं नमः (*idaṃ namaḥ*)—this homage
+- अस्तु (*astu*)—let there be
+
+##### भावार्थ (Bhāvārtha)
+
+Among the elder Pitṛs and grandfathers and others, those who have joined the world of the Pitṛs; among those younger than we, those who have died; those who have come to the terrestrial world for the oblation and are seated; and whichever other Pitṛs are seated among excellent wealthy people: to all such Pitṛs I make obeisance at this time of the sacrifice.
+
+##### English translation
+Let this our adoration be to-day addressed to those Pitris our predecessors, to those our successors, who have departed (to the world of the manes); to those who are seated in the terrestrial sphere, to those who are present among opulent people.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the oblation-rite called Mahāpitṛyajña, when the offering is made to the group of Pitṛs beginning पितरो बर्हिषदः (*pitaro barhiṣadaḥ*), this Ṛk इदं पितृभ्यः (*idaṃ pitṛbhyaḥ*) is to be recited as the second anuvākyā mantra, as stated in the Āśvalāyana Śrauta Sūtra, already quoted before (Ā. 2-19). In the Agnimāruta-śastra mantras too this Ṛk इदं पितृभ्यः (*idaṃ pitṛbhyaḥ*) is to be recited as a dhāyyā mantra, as set out in the Āśvalāyana Śrauta Sūtra: आहं पित्थन्सुविदत्ता अवित्सीदं पितृभ्यो नमो अस्त्वद्य स्वादुष्किलायमिति चतस्रः (*āhaṃ pitthansuvidattā avitsīdaṃ pitṛbhyo namo astvadya svāduṣkilāyamiti catasraḥ*) (Ā. 5-20).
+
+### Printed p. 493
+In this Ṛk the seer describes the different forms of certain Pitṛs.
+पूर्वासः यजमानोत्पत्तेः पूर्वमुत्पन्ना ज्येष्ठभ्रातृपितामहादयः (*pūrvāsaḥ yajamānotpatteḥ pūrvamutpannā jyeṣṭhabhrātṛpitāmahādayaḥ*): those who came into being before the birth of the sacrificer (or the seer), that is, older in age than himself, elder brothers, paternal grandfathers and the like, who have died and are in the station of Pitṛs.
+उपरासः यजमानजन्मन उपरि उत्पन्नाः कनिष्ठभातृस्वपुत्रादयः (*uparāsaḥ yajamānajanmana upari utpannāḥ kaniṣṭhabhātṛsvaputrādayaḥ*): younger brothers, sons and the like, younger in age than himself, who for some reason died before him and are in the world of the Pitṛs.
+पार्थिवे रजसि आ निषत्ताः (*pārthive rajasi ā niṣattāḥ*): those who have come here, to this earthly world, to the Pitṛ-sacrifice now being performed, to receive the oblation, and are seated.
+ये वा नूनं सुवृजनासु विक्षु (*ye vā nūnaṃ suvṛjanāsu vikṣu*): some further Pitṛs who, though not belonging directly to our own lineage, belong to our circle of kinsmen and have come and are seated to receive oblations at śrāddha and the like. The seer describes himself as making obeisance to the Pitṛs of these various kinds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आहं पि॒त्थन्तु॑ वि॒दत्रा॑ अवित्सि॒ नपा॑तं च वि॒क्रम॑णं च॒ विष्णोः॑ ।  
+> ब॒र्हि॒षदो॒ ये स्व॒धया॑ सु॒तस्य॒ भजं॑त पि॒त्वस्त इ॒हाग॑मिष्याः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अहं । पित्थन् । सुविदत्रान् । अवित्सि । नपातं । च । विक्रमणं । च । विष्णोः ।  
+> बर्हिसदः । ये । स्वधया । सुतस्य । भजंत । पित्वः । ते । इह । आगमिष्ठाः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं यजमानः सुविदत्रान् मदीयां भक्तिं सुष्टु जानतः पितृनावित्सि ।
+> आभिमुख्येन लब्धवानस्मि । विष्णोव्यापिनो यज्ञस्य नपातं च विनाशाभावं च विक्रमणं च विशेषेण प्रवृत्तिं च लब्धवानस्मि । ये पितरो बर्हिषदो बर्हिषि सीदंति
+> त इहास्मिन्कर्मण्यागमिष्याः । अतिशॆयेनागताः । आदरपूर्वं समागत्य स्वधया
+
+##### Gist of the bhāṣya
+
+I, the sacrificer, have obtained (अवित्सि (*avitsi*)), face to face, the Pitṛs who are सुविदत्रान् (*suvidatrān*), who know my devotion well. I have also obtained the नपातं (*napātaṃ*), the non-perishing, of the pervading (विष्णोः (*viṣṇoḥ*)) sacrifice, and its विक्रमणं (*vikramaṇaṃ*), its special progress. The Pitṛs who are बर्हिषदः (*barhiṣadaḥ*), who sit on the sacred grass, have come (आगमिष्ठाः (*āgamiṣṭhāḥ*)) here to this rite in abundance: having come with respect, together with the food of the sacrifice, स्वधया (*svadhayā*), with cakes and the like, they partake (भजंत (*bhajaṃta*): serve, make use of) of the share of the food (पित्वः (*pitvaḥ*)) of the Soma that has been pressed (सुतस्य (*sutasya*)).
+
+### Printed p. 494
+
+> पुरोडाशाद्यन्नेन सह सुतस्याभिषुतस्य सोमलक्षणस्य पित्वः पितरोऽन्नस्य भागं
+> भजंत । सेवंते । उपयुंजते ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, the sacrificer
+- सुविदत्रान् (*suvidatrān*)—who know my devotion exceedingly
+- पित्थन् (*pitthan*)—the Pitṛs
+- आ अवित्सि (*ā avitsi*)—I have brought before me
+- विष्णोः (*viṣṇoḥ*)—of the pervading sacrifice
+- नपातं (*napātaṃ*)—the freedom from destruction
+- विक्रमणं च (*vikramaṇaṃ ca*)—and the orderly expansion
+- we have obtained
+- ये (*ye*)—which Pitṛs
+- बर्हिषदः (*barhiṣadaḥ*)—sit on seats of darbha grass
+- ते (*te*)—they
+- इह (*iha*)—in our sacrificial rite
+- आगमिष्ठाः (*āgamiṣṭhāḥ*)—have come
+- स्वधया (*svadhayā*)—with the food called svadhā
+- सुतस्य (*sutasya*)—pressed
+- पित्वः (*pitvaḥ*)—the food in the form of Soma
+- भजंत (*bhajaṃta*)—they partake of
+
+##### भावार्थ (Bhāvārtha)
+
+I, the sacrificer, have brought before me the Pitṛs who know my devotion exceedingly. We have obtained the freedom from destruction of the pervading sacrifice and its orderly expansion. The Pitṛs who rest on seats of darbha grass have come to our sacrifice. They partake of the pressed Soma together with the food called svadhā.
+
+##### English translation
+I have brought to my presence the Pitris who are well cognizant (of my worship), the infallibility, and progressive advance of the sacrifice ; (the Pitris) who sit on the sacred grass frequently coming hither worship the food of the effused (Soma) with the sacrificial cake.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बर्हि॑सदः पितर ऊ॒त्य१॒॑ १ र्वागि॒मा वो॑ ह॒व्या च॑कृमा  ॒॑
+> जुषध्वं ।  
+> त आ ग॒तव॑सा॒ शंत॑मे॒नाथा॑ नः॒ शं योर॑र॒पो द॑धात ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बर्हिसदः । पितरः । ऊती । अर्वाक् । इमा । वः । हव्या । चकृम । जुषध्वं ।  
+> ते । आ । गत । अवसा । शंतमेन । अथ । नः । शं । योः । अरपः । दधात ॥ ४ ।
+
 ---
 
-**Progress note:** Done through printed p. 488. pp. 483-488 (batch API)
+**Progress note:** Done through printed p. 494. pp. 489-494 (batch API)
