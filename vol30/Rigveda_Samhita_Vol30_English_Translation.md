@@ -41081,6 +41081,184 @@ That the three Ṛks beginning प्र देवः (*pra devaḥ*) are to be 
 
 अयमु (*ayamu*): this very Agni, स्य (*sya*), is devayu, wishing to sacrifice to the gods. This very one is the hotṛ, the caller of the gods; he is led forward (nīyate) for the sacrifice, to the Āhavanīya place. Further, रथः (*rathaḥ*) is the swift sun, or one who has a chariot. Like him, Agni is ghṛṇīvān, radiant; योः (*yoḥ*) the mixer, who brings the oblations together with the gods. अभीवृत (*abhīvṛta*) ….
 
+### Printed p. 1191
+
+> वेष्टितः ॥ वृणोतेः कर्मण्यन्येषामपीति पूर्वपदस्य दीर्घः । गतिरनंतर इति
+> गतेः प्रकृतिस्वरत्वं ॥ एवंभूतोऽग्निस्त्मनात्मना । स्वयमेव चेतति । सम्यग्देवान्यष्टुं जानाति ॥ मंत्रेष्वाज्यादेरात्मन इत्याकारलोपः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of *abhīvṛtaḥ*. The fire is surrounded by the priests and the sacrificers. The word comes from the root वृणोतेः (*vṛṇoteḥ*), and he gives the lengthening of the earlier member and the retention of the original accent of the prefix-like first member. Such an Agni, "by himself" (त्मना (*tmanā*), that is, of his own accord), "knows" (चेतति (*cetati*)): he knows rightly how to worship the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—the well-known
+- अयं उ (*ayaṃ u*)—this very Agni
+- देवयुः (*devayuḥ*)—desires to worship the gods (this very Agni)
+- होता (*hotā*)—is also the one who invites the gods to the sacrificial ground (this very Agni)
+- यज्ञाय (*yajñāya*)—for the sake of the sacrifice
+- प्र नीयते (*pra nīyate*)—is carried from near the two kindling-sticks, the place of his birth, to the Āhavanīya fire on the northern altar
+- रथः न (*rathaḥ na*)—like the Sun, who is swift-moving or who travels in a chariot
+- फृणीवान् (*phṛṇīvān*)—shining radiantly
+- योः (*yoḥ*)—and distributing the oblations to the gods
+- अभिवृतः (*abhivṛtaḥ*)—and surrounded by the priests and the sacrificer, this Agni
+- त्मना (*tmanā*)—by himself (without the prompting of others)
+- चेतति (*cetati*)—knows the manner of worshipping the gods in the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Agni himself desires to worship the gods. This Agni himself invites the gods to the sacrificial ground. This Agni is carried to the Āhavanīya place for the sacrifice. This Agni, who shines like the Sun that travels in a chariot, who distributes the oblations to the gods, and who is surrounded by his attendants such as the priests and the sacrificer, knows of himself, without anyone's prompting, in what way the gods are to be worshipped in the sacrifice.
+
+##### English translation
+This ministrant priest devoted to the gods is brought (hither) for the sacrifice ; radiant as the swift-moving sun, uniting (the oblation and the gods) surrounded (by the priests, Agni) knows of himself (how to worship the gods).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॒ग्नि रु॑रुष्यत्य॒मृता॑दिव॒ जन्म॑नः ।  
+> सह॑सश्चि॒त्सही॑यान्दे॒वो जी॒वात॑वे कृ॒तः ॥ ४ ॥
+
+### Printed p. 1192
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । अग्निः । उरुष्यति । अमृतात् इव । जन्मनः ।  
+> सहसः । चित् । सहीयान् । देवः । जीवातवे । कृतः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निरमृतादमरणाद्भावनिमित्ताद्भयादिव जन्मनो जायमानान्मनुष्यनिमित्ताद्भयादप्युरुष्यति । तस्माद्रक्षति । उरुष्यती रक्षाकर्मेति यास्कः । नि. ५-२३ ॥
+> भाववाचिनोऽमृतशब्दस्य नञा बहुव्रीहौ नञो जरमरमित्रमृता इत्युत्तरपदाद्युदात्तत्वं । भीत्रार्थानां । पा. १-४-२५ । इत्यपादानसंज्ञा ॥ अपि चायं देवः
+> सहसश्चित् ॥ सह इति बलनाम । तस्मादुत्तरस्य मत्त्वर्थीयस्य बहुलं छंदसीति लुक् ॥
+> चिच्छब्धोऽप्यर्थः । सहस्वतो बलवतोऽपि सहीयान् बलवत्तरः ॥ सहस्विशब्दादीयसुनि विन्मत्तोरिति विनो लुक् । टेरिति टिलोपः ॥ एवंभूतो देवो जीवातवे
+> जीवनहेतने यागाय कृतः । ब्रह्मणा सृष्टः ॥
+
+##### Gist of the bhāṣya
+
+This Agni protects (उरुष्यति (*uruṣyati*)) from fear as if from the immortal, that is, from fear arising from the state of being (the deathless); and also from the fear that comes from born beings, that is, from men. Yāska: उरुष्यती रक्षाकर्मेति (*uruṣyatī rakṣākarmeti*) (Ni. 5-23). He notes the accent of अमृत (*amṛta*), and that in the sense of fear the source of fear gets the name apādāna (Pā. 1-4-25). Further, this god is सहसश्चित् (*sahasaścit*): सह (*saha*) is a name for strength, and the particle चित् (*cit*) has the sense "even"; he is stronger (सहीयान् (*sahīyān*)) even than the strong. Such a god has been made (कृतः (*kṛtaḥ*)) for the sake of the sacrifice, the means of life (जीवातवे (*jīvātave*)): he was created by Brahmā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- अमृतात् इव (*amṛtāt iva*)—as he protects from the fear that may arise from the deathless gods
+- जन्मनः (*janmanaḥ*)—so also from the fear arising from men, who have birth
+- उरुष्यति (*uruṣyati*)—protects
+- देवः (*devaḥ*)—this shining Agni
+- सहसः चित् (*sahasaḥ cit*)—than even the exceedingly strong
+- सहीयान् (*sahīyān*)—stronger (such an Agni)
+- जीवातवे (*jīvātave*)—for the sacrifice that is the support of life
+- कृतः (*kṛtaḥ*)—has been created by Brahmā
+
+##### भावार्थ (Bhāvārtha)
+
+This Agni protects us from the fear arising from men just as he protects from the fear arising from the gods. This shining Agni is more powerful than even the exceedingly powerful. Such an Agni has been created by Brahmā for the sacrifice, which is the cause of life for men.
+
+##### English translation
+This Agni saves from peril caused by man as (well as) from peril caused by the immortals, a god stronger than strength, created for life-producing (sacrifice)
+
+### Printed p. 1193
+## Sūkta 177 (Maṇḍala 10)
+Introduction.
+In this sūkta the deity called Māyābheda is praised. Sāyaṇa has explained this sūkta in two ways, as referring to a deity and as referring to the self (adhyātma). The last Ṛk, beginning अपश्यं (*apaśyaṃ*), has an extensive explanation in the Nirukta-pariśiṣṭa. In the Bṛhaddevatā, a work proclaimed by Śaunaka, it is said of this sūkta:
+ऋषिर्जग् पतंगस्तु पतंगमिति यत्परं । तत्सौर्यमेके मन्यंते मायाभेदं तथापरे ॥ ७५ ॥ (*ṛṣirjag pataṃgastu pataṃgamiti yatparaṃ | tatsauryameke manyaṃte māyābhedaṃ tathāpare ‖ 75 ‖*)
+मायाभेदे द्वितीयायां वाक् स्तुतेत्याह शौनकः । देवीं बिभर्ति मनसा या वाचं विदितां सतीं ॥ ७६ ॥ (*māyābhede dvitīyāyāṃ vāk stutetyāha śaunakaḥ | devīṃ bibharti manasā yā vācaṃ viditāṃ satīṃ ‖ 76 ‖*)
+The sage named Pataṅga is the seer of the sūkta beginning पतंगमक्तं (*pataṃgamaktaṃ*). Some say that the Sun is praised in this sūkta; others say that it speaks of the Māyābheda, that is, the counteraction of hostile rites such as sorcery. Śaunaka says that, in the context of the Māyābheda praise spoken of in this sūkta, Vāk (the goddess of speech) is praised in the second Ṛk. This goddess of speech bears in her mind the speech (the word, the language) that is known to all, that is, well known; that is, dwelling in the mind of everyone, she prompts the words each one speaks. Śaunaka's opinion is that this goddess of speech is praised in the second Ṛk.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पतंगमिति तृचं षड्विंशं सूक्तं प्रजापतिपुत्रस्य पतंगस्यार्षं । आद्या जगती
+> ततस्त्रिष्टुभौ । मायाभेदस्य प्रतिपाद्यत्वात्तद्देवत्यमिदं सूक्तं । अनुक्रांतं च ।
+> पतंगं तृचं पतंगः प्राजापत्यो मायाभेदं जगत्यादीति ॥ प्रवर्गैऽभिष्टव आद्ये
+> ऋचौ । सूत्रितं च । पतंगमक्तमसुरस्य मायया यो नः सनुत्यः । आ. ४-७। इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पतंगं (*pataṃgaṃ*), of three Ṛks, is the twenty-sixth sūkta of the anuvāka; its seer is Pataṅga, son of Prajāpati. The first Ṛk is in Jagatī, the next two in Triṣṭubh. Because Māyābheda is what is expounded, this sūkta has that as its deity. The Anukramaṇī says: पतंगं तृचं पतंगः प्राजापत्यो मायाभेदं जगत्यादीति (*pataṃgaṃ tṛcaṃ pataṃgaḥ prājāpatyo māyābhedaṃ jagatyādīti*). In the Pravargya rite the first two Ṛks are used in the Abhiṣṭava. It is also stated in the Sūtra: पतंगमक्तमसुरस्य मायया यो नः सनुत्यः (*pataṃgamaktamasurasya māyayā yo naḥ sanutyaḥ*) (Ā. Sū. 4-7).
+
+Anuvāda: This sūkta beginning पतंगं (*pataṃgaṃ*) is the twenty-sixth sūkta in the twelfth anuvāka. It has three Ṛks. Its seer is Pataṅga, son of Prajāpati; because it expounds the Māyābheda, Māyābheda is its deity; its first Ṛk is in the Jagatī metre, and the next two Ṛks in the Triṣṭubh metre. In the Anukramaṇī it is stated thus: पतंगं तृचं पतंगः प्राजापत्यो मायाभेदं जगत्यादि (*pataṃgaṃ tṛcaṃ pataṃgaḥ prājāpatyo māyābhedaṃ jagatyādi*).
+
+### Printed p. 1194
+It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, पतंगमक्तमसुरस्य मायया यो नः सनुत्यः (*pataṃgamaktamasurasya māyayā yo naḥ sanutyaḥ*) (Ā. 4-7), that the first two Ṛks of this sūkta are to be recited in the Abhiṣṭava of the rite called Pravargya.
+
+Sūkta 177, Maṇḍala 10; Anuvāka 12; Aṣṭaka 8, Adhyāya 8, Varga 35. Number of Ṛks in the sūkta: 3. Seer: Pataṅga Prājāpatya. Deity: Māyābheda. Metre: 1. Jagatī; 2, 3. Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒तं॒गम॒क्तमसु॑रस्य मा॒यया॑ हृ॒दा प॑श्यंति॒ मन॑सा विप॒श्चितः॑ ।  
+> स॒मु॒द्रे अं॒तः क॒वयो॒ वि च॑क्षते॒ मरी॑चीनां प॒दमि॑च्छंति  ॒॑
+> वेधसः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पतंगं । अक्तं । असुरस्य । मायया । हृदा । पश्यंति । मनसा । विपःचितः ।  
+> समुद्रे । अंतरिति । कवयः । वि । चक्षते । मरीचीनां । पदं । इच्छंति । वेधसः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असुरस्यासनकुशलस्य सर्वोपाधिविहीनस्य परब्रह्मणः संबंधिन्या मायाया
+> त्रिगुणात्मकयाक्तं व्यक्तमभिव्यक्तं । यद्वा । मायेति प्रज्ञानाम । प्रज्ञया
+> संबद्धं सर्वज्ञं पतंगं । पतति गच्छतीति पतंगः सूर्यः । तं विपश्चितो विद्वांसो
+> हृदा हृत्स्थेन ॥ तात्स्यात्ताच्छब्दं ॥ हृदि निरुद्धेन मनसा पश्यंति। जानंति । कवयः
+> क्रांतदर्शिनस्ते समुद्रे । समुद्रवंत्यस्माद्रश्मय इति समुद्रं सूर्यमंडलं ।
+> तस्मिन्नंतर्मध्यॆ वि चक्षते । विपश्यंति । मंडलांतर्वर्तिनं हिरण्मयं पुरुषमपि
+> जानंतीत्यर्थः । य एवं वेधसो विधातार उक्तप्रकारेण सूर्योपासनस्य कर्तारः
+> ते मरीचीनां रश्मीनां पदं स्थानं सूर्यमंडलमिच्छंति । अभिलषंति । तमपास-
+
+##### Gist of the bhāṣya
+
+असुर (*asura*) is the Supreme Brahman, skilled in sitting (or "ruling"), free of all limiting adjuncts. By his Māyā, made of the three guṇas, the अक्तं (*aktaṃ*) is "manifest". Or else: माया (*māyā*) is a name for wisdom (प्रज्ञा (*prajñā*)); the all-knowing Pataṅga is bound to wisdom. पतति गच्छतीति पतंगः सूर्यः (*patati gacchatīti pataṃgaḥ sūryaḥ*): Pataṅga is the Sun, who goes. The wise (विपश्चितः (*vipaścitaḥ*)) see, that is, know, him with the mind restrained in the heart (हृदा (*hṛdā*) meaning "abiding in the heart"). The seers (कवयः (*kavayaḥ*)), who see beyond, look into the "ocean" (समुद्रे (*samudre*)): since the rays flow from it, the ocean is the orb of the Sun; within it, in the middle, they look; the meaning is that they know also the golden Person who dwells within the orb. Those ordainers (वेधसः (*vedhasaḥ*)), who thus perform worship of the Sun, desire the abode (पदं (*padaṃ*)) of the rays (मरीचीनां (*marīcīnāṃ*)), the Sun's orb; the meaning is that by worship they attain it.
+
+### Printed p. 1195
+
+> नया प्राप्नुवंतीत्यर्थः । यद्वा । माययाक्तं जीवरूपेणाभिव्यक्तमात्मानं
+> विपश्चितो वेदांताभिज्ञा हृत्स्थेनांतर्मुखेन मनसा पतंगं । पतति व्याप्नोतीति
+> पतंगः परमात्मा । तं पश्यंति । उपाधिपरित्यागेन जीवात्मनः परमात्मना तादात्म्यं
+> साक्षात्कर्वंतीत्यर्थः । अपि च ते कवयः 'क्रांतदर्शिनो वेदांताभिज्ञाः समुद्रे ।
+> समुद्रवंत्यस्माद्भूतानीति समुद्रः परमात्मा । तस्मिन्नधिष्ठानभूतेऽंतर्मध्यॆ
+> सर्वं दृश्यजातमध्यस्तत्वेन वि चक्षते । वि पश्यंतीति । अतो दृग्वतिरिक्तस्य सर्वस्य
+> मिथ्यात्वाद्वेदसो विधातारस्ते मरीचीनां वृत्तिज्ञानानां पदमधिष्ठानभूतं
+> सच्चित्सुखात्मकं यत्परं ब्रह्म तदेवेच्छंति । तद्भावप्राप्तिमेव कामयंते ॥
+
+##### Gist of the bhāṣya
+
+Alternatively: the wise, versed in the Vedānta, see with the inward-turned mind abiding in the heart the Self manifested by Māyā in the form of the individual soul (जीव (*jīva*)); Pataṅga is the Supreme Self, since he pervades (पतति व्याप्नोतीति (*patati vyāpnotīti*)). They see him; that is, by laying aside the limiting adjuncts they realize directly the identity of the individual soul with the Supreme Self. Further, those seers, versed in the Vedānta, "in the ocean": the ocean is the Supreme Self, since beings flow from him; in him, as the substratum, in the middle, they behold all that is seen as superimposed. Therefore, since everything apart from the seer is unreal, the ordainers desire that Supreme Brahman, of the nature of being, consciousness and bliss, which is the substratum of the rays, that is, of the modes of knowledge (वृत्तिज्ञानानां (*vṛttijñānānāṃ*)); they long only for the attainment of that state.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुरस्य (*asurasya*)—belonging to the Supreme Brahman, who is free of all limiting adjuncts
+- मायया (*māyayā*)—by the Māyā made of the three guṇas, or by wisdom
+- अक्तं (*aktaṃ*)—manifested
+- पतंगं (*pataṃgaṃ*)—the Sun
+- विपश्चितः (*vipaścitaḥ*)—the learned
+- हृदा (*hṛdā*)—of the heart, with the restraint of the mental modes
+- मनसा (*manasā*)—with the concentrated mind
+- पश्यंति (*paśyaṃti*)—know
+- कवयः (*kavayaḥ*)—they, who see beyond
+- समुद्रे अंतः (*samudre aṃtaḥ*)—in the middle of the Sun's orb, the source of the rays
+- वि चक्षते (*vi cakṣate*)—look at and know the golden Person within the orb, that is, Brahman
+- वेधसः (*vedhasaḥ*)—those who thus also perform worship of the Sun
+- मरीचीनां (*marīcīnāṃ*)—of the rays
+- पदं (*padaṃ*)—the abode, the Sun's orb (the world of the Sun)
+- इच्छंति (*icchaṃti*)—desire, that is, obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The wise know, with concentration of mind, the Sun, manifested by the three-guṇa Māyā of the Supreme Brahman, who is free of all limiting adjuncts. Those who see beyond know the golden Person abiding within the middle of the Sun's orb, the source of the rays, as the Supreme Brahman. Those who thus perform worship of the Sun obtain the world of the Sun, the abode of the rays, that is, the highest state.
+
+##### English translation
+The wice behold with their mind (seated) in their heart the Sun made manifeast by the illusion of the Asura ; the sages look into the solar orb, the ordainers (of solar worship) desire the region of his rays.
+
+### Printed p. 1196
+
+##### विशेषविषयगळु (Special Topics)
+
+पतंगं अक्तं असुरस्य मायया (*pataṃgaṃ aktaṃ asurasya māyayā*)—Here the word असुरस्य (*asurasya*) has been explained as the Supreme Brahman free of all limiting adjuncts. "Free of all limiting adjuncts" means the Supreme Brahman in the unmanifest state. मायया (*māyayā*) of this Brahman means by the Māyā made of the three guṇas, the forms sattva, rajas and tamas, or by wisdom in the form of resolve. In Brahman in the unmanifest state the three kinds of guṇas, sattva, rajas and tamas, remain in a state of equality; then none of the world and the rest exists. All is calm and Brahman alone remains. This may be called the state of dissolution. By the resolve of the Supreme Self, that is, by the wish to create, vibration arises in the guṇas sattva, rajas and tamas, which lie in equilibrium in this unmanifest state, and they come into a state of disequilibrium; that is, the three guṇas are no longer all in the same proportions but change, becoming greater and lesser. Then the unmanifest turns into the manifest form. This is what is called creation. Now, in explaining the words पतंगं अक्तं (*pataṃgaṃ aktaṃ*), for the word पतंग (*pataṃga*) he says पतति गच्छतीति पतंगः सूर्यः (*patati gacchatīti pataṃgaḥ sūryaḥ*): because he moves always, Pataṅga means the Sun; अक्तं (*aktaṃ*) means manifested, visible to the eye. In the unmanifest state only Brahman exists and there are no things endowed with name and form, so the Sun too does not exist then. When that unmanifest comes to the manifest state, the world and the rest, and the Sun, become manifest so as to be visible to the eye. This is what is here called the manifested Sun. All this creation of the world and the rest proceeds from the Māyā-power of the Supreme Brahman, that is, from his wisdom.
+
+हृदा पश्यंति मनसा विपश्चितः (*hṛdā paśyaṃti manasā vipaścitaḥ*)—Here the words हृदा (*hṛdā*) and मनसा (*manasā*) have a special meaning. In worldly dealings, if we wish to know the nature of a thing, we know it by the eye or with the help of a sense organ. To know the nature of a thing through the sense organs of knowledge such as the eye, the help of the mind is also necessary. Nothing can be known without the help of the mind. Even if our mind is elsewhere while the eyes look at a thing, the nature of the thing is not known. This is a matter within everyone's experience. When one examines or meditates on a thing, there should be no room in the mind for modes other than that one object; that is, there must be concentration of mind. This concentration of mind is also called yoga. According to the Yoga-sūtra योगश्चित्तवृत्तिनिरोधः (*yogaścittavṛttinirodhaḥ*), yoga is to check the other activities in the mind (attention to other matters) and make that mind rest steadily in one place. This can be called, broadly, concentration of mind. Ascetics and yogins, when they meditate on the Supreme Self, meditate with this kind of concentration of mind. By this they attain direct realization of the object they meditate on, that is, of Brahman or of another deity. This is what is here विपश्चितः (*vipaścitaḥ*), that is, the knowers or
+
 ---
 
-**Progress note:** Done through printed p. 1190. pp. 1185-1190 (batch API)
+**Progress note:** Done through printed p. 1196. pp. 1191-1196 (batch API)
