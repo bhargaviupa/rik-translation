@@ -37472,6 +37472,266 @@ O woman, whatever Rākṣasa or the like moves (विहरति (*viharati*))
 - इतः (*itaḥ*)—from this place
 - नाशयामसि (*nāśayāmasi*)—may we destroy
 
+### Printed p. 1099
+
+*Bhāvārtha* (of the preceding Ṛk)
+
+O woman, may we drive out and destroy the disease that destroys the embryo and clings to your thighs, the affliction that destroys the embryo and has settled between husband and wife, and the disease that sucks up the seed lodged in the region of your womb.
+
+##### English translation
+May we exterminate from hence (the evil spirit) who separates your thighs, who lies between husband and wife, who, entering your womb devours (the seed).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वा॒ भ्राता॒ पति॑र्भू॒त्वा जा॒रो भू॒त्वा नि॒पद्य॑ते ।  
+> प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वा । भ्राता । पतिः । भूत्वा । जारः । भूत्वा । निपद्यते ।  
+> प्रजां । यः । ते । जिघांसति । तं । इतः । नाशयामसि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे योषित् यो राक्षसो भ्राता भ्रातृरूपो भूत्वा पतिर्भर्तृरूपो ना
+> भूत्वा त्वां निपद्यते अभिगच्छति । अथवा जार उपपतिरूपो ना भूत्वाभिगच्छति । एवंभूतो यो राक्षसादिस्ते तव प्रजां जिघांसति हंतुमिच्छति । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+"O woman, the rākṣasa who, having become a brother, in the form of a brother, and having become a husband, in the form of a husband, निपद्यते (*nipadyate*) approaches you; or who, having become a जार (*jāra*), in the form of a paramour, approaches you; such a rākṣasa or the like wishes to kill, desires to slay, your offspring." The rest he calls clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O woman) यः (*yaḥ*)—the rākṣasa (evil spirit) who
+- भ्राता (*bhrātā*)—in the form of your brother
+- भूत्वा (*bhūtvā*)—being (so)
+- पतिः (*patiḥ*)—or being in the form of your husband (or)
+- जारः (*jāraḥ*)—in the form of a beloved paramour
+- भूत्वा (*bhūtvā*)—being (so), approaching you
+- यः (*yaḥ*)—the rākṣasa who
+- ते (*te*)—your
+- प्रजां (*prajāṃ*)—child in the womb
+- जिघांसति (*jighāṃsati*)—wishes to kill
+- तं (*taṃ*)—that rākṣasa
+- इतः (*itaḥ*)—from here
+- नाशयामसि (*nāśayāmasi*)—may we drive out and destroy
+
+### Printed p. 1100
+
+##### भावार्थ (Bhāvārtha)
+
+O woman, the rākṣasa (evil spirit) who comes to you in the form of your brother, or in the form of your husband, or in the form of your beloved paramour, and wishes to kill the child in your womb: may we drive that rākṣasa out of here and destroy him.
+
+##### English translation
+May we exterminate from hence (the evil spirit), who in the form of brother, husbaud, or paramour, approaches you, and seeks to destroy your offspring.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त्वा॒ स्वप्ने॑न॒ तम॑सा मोहयि॒त्वा नि॒पद्य॑ते ।  
+> प्र॒जां यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । त्वा । स्वप्नेन । तमसा । मोहयित्वा । निपद्यते ।  
+> प्रजां । यः । ते । जिघांसति । तं । इतः । नाशमामसि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे योषित् यो राक्षसादिः स्वप्नेन स्वप्नावस्थया तमसा निद्रया त्वा त्वां
+> मोहयित्वा मूढतां प्रापय्य निपद्यते गर्भघाताय गच्छति । अन्यद्गतं ॥
+
+##### Gist of the bhāṣya
+
+"O woman, the rākṣasa or the like who, having मोहयित्वा (*mohayitvā*) bewildered you, brought you to stupefaction, by स्वप्नेन (*svapnena*) the state of dream and by तमसा (*tamasā*) sleep, निपद्यते (*nipadyate*) comes to you in order to destroy the embryo." The rest has gone before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O woman) यः (*yaḥ*)—the rākṣasa who
+- स्वप्नेन (*svapnena*)—in the state of dream
+- तमसा (*tamasā*)—and in sleep
+- त्वा (*tvā*)—you
+- मोहयित्वा (*mohayitvā*)—having made (you) stupefied (devoid of understanding)
+- निपद्यते (*nipadyate*)—comes to you to destroy the embryo
+- त्वं (*tvaṃ*)—that rākṣasa
+- इतः (*itaḥ*)—from here
+- नाशयामसि (*nāśayāmasi*)—may we drive out and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O woman, the rākṣasa who, in the state of dream and in the state of sleep, makes a stupor come over you, that is, brings about confusion of mind, and comes to you to destroy the child lying in your womb: may we drive that rākṣasa out of here and destroy him.
+
+### Printed p. 1101
+
+##### English translation
+May we exterminate from hence (the evil spirit) who, having beguiled you by sleep or darkness, approaches you, and seeks to destroy your offspring
+
+## Sūkta 163 (Maṇḍala 1)
+
+**Introduction**
+As stated in sūkta 161, which begins मुंचामि त्वा (*muṃcāmi tvā*), in this sūkta also the means of removing the disease yakṣma (consumption) is set forth. In the Ṛgvidhāna it is as follows:
+
+आज्यं संस्कृत्य जुहुयादक्षीभ्यां त इति द्विजः ॥ ९९ ॥ (*ājyaṃ saṃskṛtya juhuyādakṣībhyāṃ ta iti dvijaḥ ‖ 99 ‖*)
+पाणिना तु घृताक्तेन मूर्धानं संस्पृशेत्ततः ॥ (*pāṇinā tu ghṛtāktena mūrdhānaṃ saṃspṛśettataḥ ‖*)
+कर्ण् नेत्रे च छुबुकं नासिके चैव संस्पृशेत् ॥ १०० ॥ (*karṇ netre ca chubukaṃ nāsike caiva saṃspṛśet ‖ 100 ‖*)
+एतदेव जपेन्नित्यं यक्ष्मणो विप्रमुच्यते । (*etadeva japennityaṃ yakṣmaṇo vipramucyate |*)
+पूर्वोक्तेनैव कल्पेन यक्षनाशनमाचरेत् ॥ १०१ ॥ (*pūrvoktenaiva kalpena yakṣanāśanamācaret ‖ 101 ‖*)
+होमेन च जपैश्चैव यक्षनाशनमाचरेत् ॥ (*homena ca japaiścaiva yakṣanāśanamācaret ‖*)
+(Ṛgvidhāna, Adhyāya 4, verses 99–101)
+
+To remove yakṣma or consumption, a twice-born man should prepare ghee according to rule and make an offering in the fire with the mantras of this sūkta beginning अक्षीभ्यां (*akṣībhyāṃ*). Then, wiping his hands with the ghee left over from the offering, he should touch with it the head, ears, eyes, chin, nose and other limbs of the man afflicted by the disease. If this is done every day, that man becomes free of the disease. The disease is to be destroyed by the same rites of recitation and offering that were prescribed earlier for the destruction of yakṣma.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्षीभ्यामिति षडृचं द्वादशं सूक्तमानुष्टुभं । कश्यपगोत्रोत्पन्नो
+> निवृहा नामर्षिः । यक्ष्मनाशनप्रतिपाद्यत्वात्तद्देवताकं कृत्स्नं सूक्तं । अनुक्रांतं
+> च । अक्षीभ्यां निवृहा काश्यपो यक्ष्मघ्नमिति ॥ लैंगिको विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अक्षीभ्यां (*akṣībhyāṃ*) has six Ṛks, is the twelfth sūkta, and is in the Anuṣṭubh metre. Its seer is Nivṛhā by name, born in the Kaśyapa gotra.**NOTE**  Because the sūkta teaches the destruction of yakṣma, the whole sūkta has that as its deity. The Anukramaṇī says: अक्षीभ्यां निवृहा काश्यपो यक्ष्मघ्नमिति॥ (*akṣībhyāṃ nivṛhā kāśyapo yakṣmaghnamiti‖*) The viniyoga is लैंगिको (*laiṃgiko*) (by the indication of the text).
+
+##### Anuvāda
+
+This sūkta beginning अक्षीभ्यां (*akṣībhyāṃ*) is the twelfth sūkta in the twelfth anuvāka. It has six Ṛks. The seer of this sūkta is one named Vivṛhā, of the Kaśyapa gotra. This
+
+### Printed p. 1102
+
+sūkta teaches how to destroy the disease yakṣma, so the destruction of yakṣma is the deity of this sūkta; the metre is Anuṣṭup. In the Anukramaṇī it is said: अक्षीभ्यां विवृहा काश्यपो यक्षघ्नं (*akṣībhyāṃ vivṛhā kāśyapo yakṣaghnaṃ*). The viniyoga is by indication (लैंगिक (*laiṃgika*)).
+
+Sūkta 163
+Maṇḍala 10; Anuvāka 12; Sūkta 163;
+Aṣṭaka 8; Adhyāya 8; Varga 21;
+Number of Ṛks in the sūkta: 6
+Ṛṣi: Vivṛhā Kāśyapa
+Deity: Yakṣaghna (destroyer of yakṣma)
+Metre: Anuṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क्षीभ्यां॑ ते॒ नासि॑काभ्यां॒ कर्णा॑भ्यां॒ छुबु॑का॒दधि॑ ।  
+> यक्ष्मं॑ शीर्ष॒ण्यं॑ म॒स्तिष्का॑ज्जि॒ह्वाया॒ वि वृ॑हामि ते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षीभ्यां । ते । नासिकाभ्यां । कर्णाभ्यां । छुबुकात् । अधि ।  
+> यक्ष्मं । शीर्षण्यं । मस्तिष्कात् । जिह्वायाः । वि । वृहामि । ते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यक्षगृहीत ते तवाक्षीभ्यां चक्षुर्भ्यां यक्षरोगं वि वृहामि । उद्धरयामि । विश्लेषयामित्यर्थः ॥ ई च द्विवचन इत्यक्षिशब्दस्यॆकारांतादेशः । स
+> चोदात्तः ॥ तथा नासिकाभ्यां फ्राणेंद्रियाच्च कर्णाभ्यां शोत्राभ्यां च छुबुकाच्चुबुकादोष्यस्याधःप्रदेशाच्च । अधिरनर्थकः । अपि च शीर्षण्यं । शिरसि भवो रोगः
+> शीर्षण्यः ॥ भवे छंदसीति यत् । ये च तद्धिते । पा. ६-१-६१ । इति शिरसः शीर्षन्नादेशः । ये चाभावकर्मणोरिति प्रकृतिभावः ॥ ईदृशं यक्षं रोगं ते तव
+> मस्तिष्कात् । शिरसोऽंतरवस्थितो मांसविशेषो मस्तिष्कः । तस्माज्जिह्वाया
+> रसनायाश्च सकाशाद्भि वृहामि । उद्धारयामि । पृथक्करोमीत्यर्थः ॥ वृहू उद्यमन इति धातुः ॥
+
+##### Gist of the bhāṣya
+
+"O one seized by yakṣma, I वि वृहामि (*vi vṛhāmi*) pull out, draw out, that is, separate, the yakṣma disease from your eyes; likewise from your nostrils, the organ of smell, and from your ears, the organs of hearing, and from the chin, the region below the lower lip. The word अधि (*adhi*) has no meaning of its own. Further, शीर्षण्यं (*śīrṣaṇyaṃ*) is the disease that arises in the head. Such yakṣma, the disease, I pull out and separate from your मस्तिष्कात् (*mastiṣkāt*), the particular flesh lying within the head, and from the tongue, the organ of taste." The root is वृहू उद्यमन (*vṛhū udyamana*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O one gripped by consumption) ते (*te*)—your
+- अक्षीभ्यां (*akṣībhyāṃ*)—from the eyes
+- यक्ष्मं (*yakṣmaṃ*)—the yakṣma disease
+- वि वृहामि (*vi vṛhāmi*)—I pull out (and likewise)
+- नासिकाभ्यां (*nāsikābhyāṃ*)—from the organs of smell
+- कर्णाभ्यां (*karṇābhyāṃ*)—from the organs of hearing
+- छुबुकात् (*chubukāt*)—from the region of the chin I pull out the yakṣma disease
+- शीर्षण्यं (*śīrṣaṇyaṃ*)—the yakṣma disease that is in the head
+- ते (*te*)—your
+- मस्तिष्कात् (*mastiṣkāt*)—from the brain
+- जिह्वायाः (*jihvāyāḥ*)—from the tongue I pull it out
+
+### Printed p. 1103
+
+##### भावार्थ (Bhāvārtha)
+
+O one afflicted by yakṣma, from your eyes, your nose, your ears, your chin, the brain in your head, and your tongue, I pull out this yakṣma disease that has spread through those parts of the body.
+
+##### English translation
+I banish disease from your eyes, from your nose, from your ears, from your chin, from your head, from your brain, from your tongue.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्री॒वाभ्य॑स्त उ॒ष्णिहा॑भ्यः॒ कीक॑साभ्यो अनू॒क्या॑त् ।  
+> यक्ष्मं॑ दोष॒ण्य१॒॑१ मंसा॑भ्यां बा॒हुभ्यां॒ वि वृ॑हामि ते ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रीवाभ्यः । ते । उष्णिहाभ्यः । कीकसाभ्यः । अनूक्यात् ।  
+> यक्ष्मं । दोषण्यं । अंसाभ्यां । बाहुभ्यां । वि । वृहामि । ते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो व्याधिगृहीत उष्णिहाभ्य ऊर्ध्वाभिमुखं स्निग्धाभ्य उत्स्नाताभ्यो वा
+> स्नायुभ्यो ग्रीवाभ्यो गलगताभ्यो धमतीभ्यस्ते तव यक्ष्मं वि वृहामि । तथा
+> कीकसाभ्योऽस्थिभ्योऽनूक्यादस्थिसंधेश्च यक्ष्मं वि वृहामि ॥ उच समवाये ।
+> अनूच्यते समवेयत इत्यस्थः संधिरनूक्यः । ऋहलोर्ण्यत् । चजोः कु घिण्य-
+
+##### Gist of the bhāṣya
+
+"O one seized by disease, from the उष्णिहाभ्य (*uṣṇihābhya*), the sinews that are upward-directed, or oily or bathed, from the ग्रीवाभ्य (*grīvābhya*), those at the neck, the channels (धमतीभ्य (*dhamatībhya*)), I pull out your yakṣma. Likewise I pull out yakṣma from the कीकसाभ्य (*kīkasābhya*), the bones, and from the अनूक्यात् (*anūkyāt*), the joint of the bones." The explanation of अनूक्य (*anūkya*) is from the root उच समवाये (*uca samavāye*): the bone-joint is that which is joined together. (The bhāṣya continues on the next page.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O one gripped by yakṣma) ते (*te*)—your
+- ग्रीवाभ्यः (*grīvābhyaḥ*)—from the blood-vessels in the neck
+- उष्णिहाभ्यः (*uṣṇihābhyaḥ*)—from the sinews (nerves)
+- कीकसाभ्यः (*kīkasābhyaḥ*)—from the bones
+- अनूक्यात् (*anūkyāt*)—from the bone-joint, that is, the joints
+- अंसाभ्यां (*aṃsābhyāṃ*)—from the shoulders
+- बाहुभ्यां (*bāhubhyāṃ*)—from the arms
+- ते (*te*)—your
+- दोषण्यं (*doṣaṇyaṃ*)—that is in the roots of the arms
+- यक्षं (*yakṣaṃ*)—the yakṣma disease
+- वि वृहामि (*vi vṛhāmi*)—I pull out
+
+### Printed p. 1104
+
+##### Gist of the bhāṣya
+
+(continued): He adds that दोषण्यं (*doṣaṇyaṃ*) means what arises in the two arms; that disease also, the yakṣma, I pull out from your अंसाभ्यां (*aṃsābhyāṃ*) and बाहुभ्यां (*bāhubhyāṃ*). The upper parts of the two arms are *aṃsau*, the lower parts are बाहू (*bāhū*).
+
+> तोरिति कुत्वं । तित्स्वरितः ॥ अपि च दोष्णोर्भवं दोषण्यं ॥ पूर्ववद्यति पद्दन्नित्यादिना दोःशब्दस्य दोषाणादेशः । पूर्ववत्पकृतिभावः ॥ तमपि यक्ष्मं रोगं
+> ते तवांसाभ्यां बाहुभ्यां च वि वृहामि । हस्तयोरूर्ध्वभागावंसावधोभागौ
+> बाहू ॥
+
+##### भावार्थ (Bhāvārtha)
+
+O one afflicted by consumption, from the blood-vessels in your neck, from the nerves, from the bones, from their joints, from the shoulders, from the arms, I separate and pull out the yakṣma disease that lies in the roots of your arms.
+
+##### English translation
+I banish disease from your neck, from your sinews, from your bones, from your joints, from your upper arms, from your shoulders, and from your fore arms.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आं॒त्रेभ्य॑स्ते॒ गुदा॑भ्यो वनि॒ष्ठोहृद॑या॒दधि॑ ।  
+> यक्ष्मं॒ मत॑स्नाभ्यां य॒क्षः प्ला॒शिभ्यो॒ वि वृ॑हामि ते ॥३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आंत्रेभ्यः । ते । गुदाभ्यः । वनिष्ठोः । हृदयात् । अधि ।  
+> यक्ष्मं । मतस्नाभ्यां । यक्षः । प्लाशिभ्यः । वि । वृहामि । ते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यक्ष्माभिभूत ते तवांत्रेभ्यः । आंत्रं पुरीतदन्नपानयोराधानभूतं ।
+> तत्संबंधिभ्यः स्नायुभ्यो गुदाभ्यः याभिर्नाडीभिरन्नरसः समानवायुना धातुषु
+
+##### Gist of the bhāṣya
+
+"O one overcome by yakṣma, from your आंत्रेभ्यः (*āṃtrebhyaḥ*): आंत्रं (*āṃtraṃ*) is the receptacle of excrement, food and drink; from the sinews connected with it, from the गुदाभ्यः (*gudābhyaḥ*), the channels by which the juice of food, with the samāna wind, …" (the sentence is cut off at the end of this page; the next window continues it).
+
 ---
 
-**Progress note:** Done through printed p. 1098. pp. 1093-1098 (batch API)
+**Progress note:** Done through printed p. 1104. pp. 1099-1104 (batch API)
