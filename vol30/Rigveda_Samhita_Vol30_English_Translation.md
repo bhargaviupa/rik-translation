@@ -34610,6 +34610,254 @@ Vritra; baffle, Indra, slayer of Vritra, the wrath of (our) menacing foe.
 > वि । नः । इंद्र । मृधः । जहि । नीचा । यज्ञ । पृतन्यतः ।  
 > यः । अस्मान् । अभिदासति । अधरं । गमय । तमः ॥ ४ ॥
 
+### Printed p. 1025
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वि न इंद्रेति वैमृधस्य हविषोऽनुवाक्या । सूत्ति तं च । वि न इंद्र मृधो
+> जहि मृगो न भीमः कुचरो गिरिष्ठाः । आ. २-१० । इति ॥
+> हे इंद्र नोऽस्माकं मृधः संग्रामकारिणः शत्रून्वि जहि । विनाशय । तथा
+> पृतन्यतः पृतनाः सेना आत्मन इच्छतो युयुत्समानानपि नीचा यच्छ । नीचीनमवाङ्मुखं यच्छ! गमय । यः शत्रुरस्मानभिदासति अभित उपक्षपयति तमधरं निकृष्टं
+> तमोऽंधकारं मरणलक्षणं गमय । प्रापय ॥
+
+##### Gist of the bhāṣya
+
+The verse वि न इंद्र (*vi na iṃdra*) is the anuvākyā (invitatory verse) for the Vaimṛdha oblation. The sūtra says so: वि न इंद्र मृधो जहि मृगो न भीमः कुचरो गिरिष्ठाः (*vi na iṃdra mṛdho jahi mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*) (Ā. 2-10). Sāyaṇa explains: O Indra, destroy our enemies who make war on us. Bring down (नीचा यच्छ (*nīcā yaccha*)) as well those who wish to fight and who look for armies of their own, turning them face downward. Whatever enemy harasses us on every side, send him to the lower darkness, that is, the darkness of death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—O Indra
+- नः (*naḥ*)—our (with us)
+- मृधः (*mṛdhaḥ*)—the enemies who make war
+- वि जहि (*vi jahi*)—destroy (and likewise)
+- पृतन्यतः (*pṛtanyataḥ*)—these enemies who fight facing us in the enemy army
+- नीचा यच्छ (*nīcā yaccha*)—make them fall down
+- यः (*yaḥ*)—whichever enemy of ours
+- अस्मान् (*asmān*)—us
+- अभिदासति (*abhidāsati*)—who wants to surround and kill us, him
+- अधरं (*adharaṃ*)—lower
+- तमः (*tamaḥ*)—death, in the form of darkness
+- गमय (*gamaya*)—cause to reach (make him fall down and die)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroy the enemies who are fighting with us. Likewise make the enemies who are fighting facing us in the enemy army fall down. Make whatever enemy wishes to surround us and destroy us fall down and become a victim of death, which is like darkness.
+
+##### English translation
+Destroy, Indra, our enemies; hunt down those who are in array against us; consign to lower darkness him who seeks to harm us.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, वि न इंद्र (*vi na iṃdra*), is to be recited as the anuvākyā mantra while the oblation is offered in the Vaimṛdha oblation (iṣṭi). This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra वि न इंद्र मृधो जहि मृगो न भीमः कुचरो गिरिष्ठाः (*vi na iṃdra mṛdho jahi mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*) (Ā. 2-10).
+
+### Printed p. 1026
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपें॑द्र द्विष॒तो मनोप॒ जिज्या॑सतो व॒धं ।  
+> वि म॒न्योः शर्म॑ यच्छ॒ वरी॑यो यवया व॒धं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । इंद्र । द्विषतः । मनः । अप । जिज्यासतः । वधं ।  
+> वि । मन्योः । शर्म । यच्छ । वरीयः । यवय । वधं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र द्विषतो द्वेष्टुः शत्रोर्मनोऽप जहि । जिज्यासतोऽस्माकं
+> वयोहानिमिच्छतश्च वधं हननसाधनवायुधं चाप जहि । मन्योः शत्रुसंबंधिनः
+> क्रोधाच्चास्मान्रक्ष । वरीय उरुतरं शर्म सुखं विशेषेण यच्छ । देहि । वधं
+> शत्र्युकृतं हननं च यवय । अस्मत्तः पृथक्कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, strike away (अप (*apa*)) the mind of the hating enemy. Strike away also the weapon (वधं (*vadhaṃ*)), the instrument of killing, of the one who wishes to bring about our loss of life. Protect us from the wrath of the enemy. Give us in particular broader (वरीयः (*varīyaḥ*)) happiness (शर्म (*śarma*)). Remove from us the killing done by the enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- द्विषतः (*dviṣataḥ*)—of the enemy who hates us
+- मनः (*manaḥ*)—the mind (the intellect, or the power of discernment)
+- अप (*apa*)—spoil
+- जिज्यासतः (*jijyāsataḥ*)—of the enemy who wishes to make an end of us
+- वधं (*vadhaṃ*)—the weapon that is the instrument of killing
+- अप (*apa*)—make useless
+- मन्योः (*manyoḥ*)—protect us from the enemy's anger
+- वरीयः (*varīyaḥ*)—abundant
+- शर्म (*śarma*)—happiness
+- वि यच्छ (*vi yaccha*)—give specially
+- वधं (*vadhaṃ*)—the enemy's intention to kill us
+- यवय (*yavaya*)—prevent from happening
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, spoil the mind, that is, the power of discernment, of the enemy who hates us. Make useless the weapon of the enemy who wishes to end our life. Protect us from the anger of the enemy. Give us abundant happiness and prevent the enemy from killing us.
+
+##### English translation
+Frustrate the purpose of him who hates us, (baffle) the weapon of him who seeks to overpower us; grant us entire security from his warth, ward off (his) weapon.
+
+### Printed p. 1027
+
+## Sūkta 153 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईंखयंतीरिति पंचर्चं गायत्रमैंद्रं द्वितीयं सूक्तं । देवानां
+> स्वसृभूता इंद्रमातरो नामर्षिकाः । तथा चानुक्रांतं । ईंखयंतीर्देवजामय
+> इंद्रमातरो गायत्रमिति ॥ द्वितीये पर्याये प्रशास्तुः शस्त्र इदं सूक्तं ।
+> सूत्रितं च । ईंखयंतीरहं दां पाता सुतं । आ. ६-४ । इति ॥ महाव्रतेऽपि प्रातःसवनिके ब्रह्मशस्त्र एतत्तूक्तं ॥
+
+##### Gist of the bhāṣya
+
+The sūkta ईंखयंतीः (*īṃkhayaṃtīḥ*) has five Ṛks, is in the Gāyatra metre and is addressed to Indra; it is the second sūkta. Its seers (ṛṣikā) are the Indramātaraḥ, who are sisters of the gods. The Anukramaṇī says: ईंखयंतीर्देवजामय इंद्रमातरो गायत्रं (*īṃkhayaṃtīrdevajāmaya iṃdramātaro gāyatraṃ*). In the second paryāya this sūkta is the śastra of the Praśāstṛ. The sūtra says: ईंखयंतीरहं दां पाता सुतं (*īṃkhayaṃtīrahaṃ dāṃ pātā sutaṃ*) (Ā. 6-4). In the Mahāvrata too this sūkta belongs to the Brahma-śastra at the morning pressing.
+
+##### Anuvāda
+
+This sūkta, ईंखयंतीः (*īṃkhayaṃtīḥ*), is the second sūkta in the twelfth anuvāka. It has five Ṛks. The seers of this sūkta are the women called Indramātaraḥ, who are sisters of the gods. The deity is Indra; the metre is Gāyatrī. The Anukramaṇī says: ईंखयंतीर्देवजामय इंद्रमातरो गायत्रं (*īṃkhayaṃtīrdevajāmaya iṃdramātaro gāyatraṃ*). In the second paryāya, this sūkta is applied to the śastra mantras to be recited by the priest called the Praśāstṛ; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra ईंखयंतीरहं दां पाता सुतं (*īṃkhayaṃtīrahaṃ dāṃ pātā sutaṃ*) (Ā. 6-4).
+
+##### Particulars
+
+Sūkta 153. Maṇḍala 10. Anuvāka 12. Sūkta 153. Aṣṭaka 8. Adhyāya 8. Varga 11. Number of Ṛks in the sūkta: 5. Ṛṣi: the Indramātaraḥ, the Devajāmayaḥ. Deity: Indra. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ईं॒खयं॑तीरप॒स्युव॒ इंद्रं॑ जा॒तमुपा॑सते ।  
+> भे॒जा॒नासः॑ सु॒वीर्यं॑ ॥ १ ॥
+
+### Printed p. 1028
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईंखयंतीः । अपसुवः । इंद्रं । जातं । उप । आसते ।  
+> भेजानासः । सुवीर्यं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईंखयंतीर्गच्छंत्यः स्तुत्यादिभिरिंद्रं प्राप्नुवत्योऽपस्युवोऽपः कर्मात्मन इच्छंत्य इंद्रमातरोऽस्य सूक्तस्य द्रष्टोऽ जातं प्रादुर्भूतमिंद्रमुपासते । परिचरंति । सुवीर्यं शोभनवीयोर्पेतं धनं च भेजानासः । तस्मादिंद्रात्संभक्तवत्यो भवंति ॥
+
+##### Gist of the bhāṣya
+
+The Indramātaraḥ, the seers of this sūkta, are going (ईंखयंतीः (*īṃkhayaṃtīḥ*)) and reaching Indra with praises and the like. They desire (अपस्युवः (*apasyuvaḥ*)) work (*apaḥ*) for themselves. They attend upon (उपासते (*upāsate*)) Indra, who has newly appeared (जातं (*jātaṃ*)), and they share (भेजानासः (*bhejānāsaḥ*)) in wealth endowed with good heroic strength (सुवीर्यं (*suvīryaṃ*)). Thus they become devoted to Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईंखयंतीः (*īṃkhayaṃtīḥ*)—the Indramātaraḥ, seers of this sūkta, who go to Indra's presence with praises and the like
+- अपस्युवः (*apasyuvaḥ*)—who wish to perform work
+- जातं (*jātaṃ*)—born
+- इंद्रं (*iṃdraṃ*)—Indra
+- उपासते (*upāsate*)—they attend upon
+- सुवीर्यं (*suvīryaṃ*)—excellent wealth
+- भेजानासः (*bhejānāsaḥ*)—they obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The Indramātaraḥ, the seers of this sūkta, who wish to perform work and who approach Indra with praises and the like in order to praise him, attend upon and serve Indra, who has just been born. And they obtain excellent wealth.
+
+##### English translation
+Desirous of fulfilling their functions (the mothers of Indra) approaching, worship him as soon as born, and enjoy (affluence) together with male progeny.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्र॒ बला॒दधि॒ सह॑सो जा॒त ओज॑सः ।  
+> त्वं वृ॑ष॒न्वृषेद॑सि ॥ २ ॥
+
+### Printed p. 1029
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इंद्र । बलात् । अधि । सहसः । जातः । ओजसः ।  
+> त्वं । वृषन् । वृषा । इत् । असि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सहसः परेषामभिभावुकाद्बलादधि जातोऽसि । अधिः पंचम्यर्थानुवादकः । वृत्रा तिवधहेतुभूता द्बलाद्धेतोस्त्वं प्रख्यातो भवसीत्यर्थः । अपि
+> चौजसः । ओजो नाम बलहेतु हृदयगतं धैर्यं । तस्मादपि त्वं जातोऽसि ।
+> हे वृषन्वर्षितः त्वं वृषेदसि । कामानां वर्षितैव भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you were born (जातः (*jātaḥ*)) from strength (बलात् (*balāt*)) that overpowers (सहसः (*sahasaḥ*)) others; the word अधि (*adhi*) only repeats the sense of the ablative. The meaning is that you become famous from the strength that is the cause of the killing of Vṛtra and the like. You were born also from vigour (ओजसः (*ojasaḥ*)): *ojaḥ* is the courage lodged in the heart that is the cause of strength. O showerer, you are indeed (इत् (*it*)) a showerer; you are the one who showers desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सहसः (*sahasaḥ*)—possessing the power to defeat others
+- बलात् (*balāt*)—from strength
+- अधि जाता (*adhi jātā*)—you were born
+- ओजसः (*ojasaḥ*)—from courage too you were born
+- वृषन् (*vṛṣan*)—O Indra, giver of what is desired
+- त्वं (*tvaṃ*)—you
+- वृषा इत् (*vṛṣā it*)—as one who showers desired objects
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, at your very birth you were born with the power of subduing enemies, needed for the slaying of Vṛtra and the like, and endowed with boundless courage of mind. O Indra, giver of desires, you are also one who showers desired objects.
+
+##### English translation
+You, Indra, were born from overpowering strength and energy ; yon, O showerer, are indeed a showerer (of blessings).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्रासि वृत्र॒हा व्य१॒ं॑ग्यतरि॑क्षमतिरः ।  
+> उद्धाम॑स्तभ्ना॒ ओज॑सा ॥ ३ ॥
+
+### Printed p. 1030
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इंद्र । असि । वृत्रहा । वि । अंतरिक्षं । अतिरः ।  
+> उत् । द्यां । अस्तभ्नाः । ओजसा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं वृत्रहासि । शत्रूणां हंता भवसि । अंतरिक्षं मध्यमस्थानं च
+> व्यतिरः । आवारकापनोदनेन प्रावर्धयः । द्यां द्युलोकं चौजसा बलेनोदस्तभ्नाः । ऊर्ध्वमस्तंभीः । यथाधो न पतति तथोपर्यवस्थापितवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the slayer of Vṛtra, the killer of enemies. You made the firmament (अंतरिक्षं (*aṃtarikṣaṃ*)), the middle region, grow (व्यतिरः (*vyatiraḥ*)) by removing what obstructed it. By your strength (ओजसा (*ojasā*)) you propped up (*udastabhnāḥ*) the heaven (द्यां (*dyāṃ*)), the world of heaven, upward. The meaning is that you set it up above so that it does not fall down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- वृत्रहा (*vṛtrahā*)—as slayer of enemies
+- असि (*asi*)—you are
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament, the middle region
+- वि अतिरः (*vi atiraḥ*)—you have opened out
+- ओजसा (*ojasā*)—by your strength
+- द्यां (*dyāṃ*)—the world of heaven
+- उत् अस्तभ्नाः (*ut astabhnāḥ*)—you have set it up so that it does not fall down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the destroyer of enemies. You have opened out the firmament. By your strength you have set the world of heaven up in a high region so that it does not fall down.
+
+##### English translation
+You, Indra, are the slayer of Vritra, you have spread out the firmament; you have unheld the heaven by your power.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्र स॒जोष॑सम॒र्कं जि॑भर्षि बा॒ह्वोः ।  
+> वज्रं॒ शिशा॑स॒ ओज॑सा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इंद्र । सजोषसं । अर्कं । बिभर्षि । बाह्वोः ।  
+> वज्रं । शिशानः । ओजसा ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 1024. pp. 1019-1024 (batch API)
+**Progress note:** Done through printed p. 1030. pp. 1025-1030 (batch API)
