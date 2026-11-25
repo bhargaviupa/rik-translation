@@ -374,6 +374,118 @@ Then the Gāyatrī became one of eight syllables, the Triṣṭubh one of three 
 
 In former times the Soma was in heaven. When no one was able to bring it, the Gāyatrī went to heaven in the form of a falcon, disregarded the resistance of those who were there, and brought it to the earth. While it was being brought, on the way a Gandharva named Viśvāsu stole that Soma and kept it with himself. The gods considered how to get it back from him, and, since the Gandharvas are especially fond of women and full of desire, they resolved to show them a desire for women and so get the Soma back. For this purpose they went to the goddess Vāk, told her the whole matter, and decided that Vāk should become a beautiful woman, that they should sell her to the Gandharvas, and in exchange bring back the Soma. Accordingly, when the goddess Vāk took the form of a beautiful woman, they gave her to the Gandharvas and brought the Soma back. After the Soma had come into the power of the gods, the goddess Vāk, who was in the form of a beautiful woman, took the form of a deer, escaped from the Gandharvas, ran away and came and joined the gods. From that time it became the custom to buy Soma plants for use in sacrifices. The rite called the purchase of Soma is still performed in the sacrifice. Moreover, since the best Soma plants grow in high mountain regions (the mountain called Mūjavata is famous for the Soma plant), it is very laborious to fetch them. Therefore it seems to have become the custom to buy them, paying a fitting price to those who endured the toil for the sake of wealth, went to the mountains and brought the Soma. In former times, when the Gandharva stole the Soma, it remained with him for three nights, and so for the purchase
 
+### Printed p. 25
+
+the Soma that is taken in purchase must likewise remain for three nights, such is the rule. (All this is stated in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā.) After the purchase of the Soma it is brought in two carts called havirdhāna and left at the edge of the sacrificial hall or of the prāgvaṃśa (the ancient hall). The ritual act of bringing that Soma with mantras to the neighbourhood of the Uttaravedi is called Somapravāhaṇa; therefore the procedure is stated here as it stands in the Aitareya Brāhmaṇa (Ai. Brā. 3-12).
+
+प्राच्यां वै दिशि देवाः सोमं राजानमक्रीणंस्तस्मात्प्राच्यां दिशि क्रीयते । (*prācyāṃ vai diśi devāḥ somaṃ rājānamakrīṇaṃstasmātprācyāṃ diśi krīyate |*)
+
+In former times, when the gods performed a sacrifice, they bought the Soma from the region to the east of the prāgvaṃśa (the sacrificial altar). Therefore even now the Soma must be bought and brought from the east.
+
+तं त्रयोदशान्मासादक्रीणंस्तस्मात्रयोदशो मासो नानुविद्यते न वै सोमविक्रय्यनुविद्यते पापो हि सोमविक्रया । (*taṃ trayodaśānmāsādakrīṇaṃstasmātrayodaśo māso nānuvidyate na vai somavikrayyanuvidyate pāpo hi somavikrayā |*)
+
+In former times a year had thirteen months. The gods bought the Soma from the presiding deity of the thirteenth month. Now there is no thirteenth month in the year; there are only twelve months. Although at certain times there is a thirteenth month called the intercalary month, since it is of no use for any auspicious rites and the like, there is no custom of buying in it. Since selling Soma is regarded as a very sinful act, the man who sells Soma is also most sinful. No courteous dealings of any kind may be carried on with him. On this matter the Taittirīya Śruti says:
+
+अस्मे ज्योतिः सोमविक्रयणि तम इत्याह । ज्योतिरेव यजमाने दधाति । तमः सोमविक्रयिणमर्पयति । (*asme jyotiḥ somavikrayaṇi tama ityāha | jyotireva yajamāne dadhāti | tamaḥ somavikrayiṇamarpayati |*)
+
+Here तमः (*tamaḥ*) means sin. The luminosity of the seller of Soma, that is, his power and capacity, leaves him and joins the sacrificer who buys the Soma and performs the sacrifice. The meaning of the Śruti sentence is that only sin befalls the seller of Soma. After the purchase of the Soma, there is the injunction that eight Ṛks must be recited when it is brought to the neighbourhood of the prāgvaṃśa. There is also a reason for this, and it is stated here:
+
+तस्य क्रीतस्य मनुष्यानभ्युपावर्तमानस्य दिशो वीर्याणींद्रियाणि व्युदसीदंस्तान्येकयर्चावारुरुत्संत तानि नाशक्कुवंस्तानि द्वाभ्यां तानि तिसृभिस्तानि चतसृभिस्तानि पंचभिस्तानि षड्भिस्तानि सप्तभिर्नैवावरुंधत तान्यष्टाभिरवारुंधताष्टाभिराश्नुवत यदष्टाभिरवारुंधताष्टाभिराश्नुवत तदष्टानामष्टत्वमश्नुते यद्यत्कामयते य एवं वेद । (*tasya krītasya manuṣyānabhyupāvartamānasya diśo vīryāṇīṃdriyāṇi vyudasīdaṃstānyekayarcāvārurutsaṃta tāni nāśakkuvaṃstāni dvābhyāṃ tāni tisṛbhistāni catasṛbhistāni paṃcabhistāni ṣaḍbhistāni saptabhirnaivāvaruṃdhata tānyaṣṭābhiravāruṃdhatāṣṭābhirāśnuvata yadaṣṭābhiravāruṃdhatāṣṭābhirāśnuvata tadaṣṭānāmaṣṭatvamaśnute yadyatkāmayate ya evaṃ veda |*)
+
+After the Soma was bought and brought, when it came near the men (the sacrificers), its powers and capacities shrank. That is, whatever the Soma ought to have (what those who drink Soma may obtain)
+
+### Printed p. 26
+
+the bestowing of strength and the capacity to make the senses, the eye and the others, keen were all lost. Then those sacrificers, wishing to prevent those powers and capacities from going away, tried reciting one Ṛk for the purpose of binding the directions. It was not possible. Then they tried reciting two Ṛks, and afterwards three, four, five, six and up to seven Ṛks, but it was not possible. Then, when they recited eight Ṛks, it became possible to bind. Therefore, because the work was accomplished by reciting eight Ṛks, the use of the word अष्ट (*aṣṭa*) (from अश् (*aś*), to attain) is fitting here. The man who knows this obtains what he desires.
+
+तस्मादेतेषु कर्मस्वष्टावनूच्यंत इंद्रियाणां वीर्याणामवरुध्यॆ । (*tasmādeteṣu karmasvaṣṭāvanūcyaṃta iṃdriyāṇāṃ vīryāṇāmavarudhyè |*) (Ai. Brā. 3-12)
+
+Therefore in these Somapravāhaṇa rites the Hotṛ must recite eight Ṛks separately. By reciting in this way it is possible to prevent the senses and the vigour (the powers and capacities) from being destroyed.
+
+Here the preliminary account ends.
+
+**The Rite Called Somapravāhaṇa**
+
+(The rite of bringing the Soma from the neighbourhood of the prāgvaṃśa or sacrificial altar to the neighbourhood of the Uttaravedi, which lies in the west)
+
+So far the number of Ṛks to be used in this Somapravāhaṇa rite has been made clear. Now the Adhvaryu recites the preṣa mantra addressed to the Hotṛ:
+
+सोमाय क्रीताय प्रोह्यमाणायानुब्रू ३ हीत्याहाध्वर्युः (*somāya krītāya prohyamāṇāyānubrū 3 hītyāhādhvaryuḥ*)
+
+Now the Adhvaryu addresses the Hotṛ, saying: "O Hotṛ, सोमाय क्रीताय प्रोह्यमाणायानुब्रू ३ हि (*somāya krītāya prohyamāṇāyānubrū 3 hi*)", that is, recite the mantra required in this rite called Somapravāhaṇa, which is performed in order to carry the Soma, taken in purchase, to the Uttaravedi.
+
+भद्रादभि श्रेयः प्रेहीत्यन्वाह (*bhadrādabhi śreyaḥ prehītyanvāha*)
+
+Hearing this, the Hotṛ recites the mantra भद्रादभि श्रेयः प्रेहि (*bhadrādabhi śreyaḥ prehi*). This mantra is not in the Ṛgveda Saṃhitā. It is stated in the Taittirīya recension, that is, in the Yajurveda. This mantra is
+
+### Printed p. 27
+
+भद्रादभि श्रेयः प्रेहि बृहस्पतिः पुर एता ते अस्तु । अथेमवस्य वर अ पृथिव्या आरे शत्रून् कृणुहि सर्ववीरः ॥ (*bhadrādabhi śreyaḥ prehi bṛhaspatiḥ pura etā te astu | athemavasya vara a pṛthivyā āre śatrūn kṛṇuhi sarvavīraḥ ‖*) (Tai. Saṃ. 1-2-3-3)
+
+Its meaning is as follows: O Soma, set out from this earth, which is auspicious and is the place of purchase, towards the region of the prāgvaṃśa, which is equal to the place of heaven. As you go thus, Bṛhaspati will go before you as your guide. When you have gone there, fix on the earth, in the place of the divine sacrifice, a fitting and excellent seat for yourself to sit upon. Then, you who are the bravest of all, cause all the enemies, the sinful ones who hate the sacrifice, to be kept far away; that is, make them depart far away. This is the meaning of the mantra. The explanation of the first quarter-verse is given by describing the result of reciting this mantra.
+
+अयं नाव लोको भद्रस्तस्मादसानेव लोकः श्रेयान् स्वर्गमेव तल्लोकं यजमानं गमयति । (*ayaṃ nāva loko bhadrastasmādasāneva lokaḥ śreyān svargameva tallokaṃ yajamānaṃ gamayati |*)
+
+As said in the first quarter-verse, this earth is auspicious. But the heavenly world is far more beneficial than this world. The recitation of this mantra brings the sacrificer who performs the sacrifice to such a heavenly world.
+
+बृहस्पतिः पुर एता ते अस्त्विति ब्रह्म वै बृहस्पतिर्ब्रह्मैनासा एतत्पुरोगमकर्ण वै ब्रह्मण्वद्रिष्यति ॥ (*bṛhaspatiḥ pura etā te astviti brahma vai bṛhaspatirbrahmaināsā etatpurogamakarṇa vai brahmaṇvadriṣyati ‖*)
+
+Next the Hotṛ recites the second quarter-verse, बृहस्पतिः पुरा एता ते अस्तु (*bṛhaspatiḥ purā etā te astu*). For the gods Bṛhaspati is the priest called Brahman. Since it is said that the Brahman priest, the foremost of Brāhmaṇas, will be the guide, a sacrificial rite performed under the leadership of a Brāhmaṇa is never spoiled; it reaches its completion in auspiciousness.
+
+अथेमवस्य वर आ पृथिव्या इति देवयजनं वै वरं पृथिव्यै देवयजन एनैनं तदवसाययत्यारे शत्रुन्हणुहि सर्ववीर इति द्विषंतमेवास्मै तत्पाप्मानं भ्रातृव्यमपभाधतेऽधरं पादयति । ई (*athemavasya vara ā pṛthivyā iti devayajanaṃ vai varaṃ pṛthivyai devayajana enainaṃ tadavasāyayatyāre śatrunhaṇuhi sarvavīra iti dviṣaṃtamevāsmai tatpāpmānaṃ bhrātṛvyamapabhādhate 'dharaṃ pādayati | ī*)
+
+Now they explain the third quarter-verse: अथेमवस्य वर आ पृथिव्याः (*athemavasya vara ā pṛthivyāḥ*) is the third quarter-verse. The most excellent region on the earth is the region of the divine sacrifice. By reciting this third quarter-verse the Hotṛ makes the Soma settle in the excellent place connected with the earth, that is, in the region of the divine sacrifice.
+
+### Printed p. 28
+
+Next, by reciting the fourth quarter-verse, आरे शत्रुन्हणुहि सर्ववीरः (*āre śatrunhaṇuhi sarvavīraḥ*), there is help in driving away the enemy in the form of sin that hates the sacrificer. Therefore the Hotṛ recites this fourth quarter-verse, drives away the enemy who would do harm to the sacrificer, and makes that enemy go to a lowly (very base) region.
+
+सोम यास्ते मयोभुव इति तृचं सौम्यं गायत्रमन्वाह सोमे राजनि प्रोह्यमाणे स्वयैवैनं तद्देवतया स्टेन छंदसा समर्धयति । (*soma yāste mayobhuva iti tṛcaṃ saumyaṃ gāyatramanvāha some rājani prohyamāṇe svayaivainaṃ taddevatayā sṭena chaṃdasā samardhayati |*)
+
+Then the Hotṛ recites the three Ṛks:
+
+सोम यास्ते मयोभुव ऊतयः संति दाशुषे । ताभिर्नोऽविता भव ॥ इमं यज्ञमिदं वचो जुजुषाण उपागहि । सोम त्वं नो वृधे भव ॥ सोम गीर्भिष्ट्वा वयं वर्धयानो वचोविदः । सुमृळीको न आ विश ॥ (*soma yāste mayobhuva ūtayaḥ saṃti dāśuṣe | tābhirno 'vitā bhava ‖ imaṃ yajñamidaṃ vaco jujuṣāṇa upāgahi | soma tvaṃ no vṛdhe bhava ‖ soma gīrbhiṣṭvā vayaṃ vardhayāno vacovidaḥ | sumṛḷīko na ā viśa ‖*)
+
+(Ṛ. Saṃ. 1-90-9, 20, 21) (Ṛ. Saṃ. 1-91-9, 10, 11) **NOTE**
+
+These three Ṛks have Soma as their deity and are in the Gāyatrī metre. They are to be recited at the time of bringing the Soma. By reciting Ṛks in the Gāyatrī metre that praise the deity Soma himself and are dear to the deity Soma, it is as if the deity Soma were praised with his own mantras and with his own Gāyatrī metre, and so the deity Soma becomes prosperous, that is, becomes glad at heart. Here the substance that is brought is Soma, and the mantras that praise are those of which Soma is the deity. Therefore the mantras are said to be Soma's own. Since it was the Gāyatrī that brought the Soma, which was in heaven, to the earth, the Gāyatrī metre is regarded as Soma's own. This matter is stated in the Taittirīya Saṃhitā in the anuvāka beginning कद्रूश्च वै (*kadrūśca vai*) (Tai. Saṃ. 6-1-6). Therefore it is explained here that the three Ṛks mentioned above, and the Gāyatrī metre as well, are Soma's own.
+
+सर्वे नंदंति यशसागतेनेत्यन्नाह (*sarve naṃdaṃti yaśasāgatenetyannāha*)
+
+Thus the Hotṛ recites the fifth Ṛk:
+
+सर्वे नंदंति यशसागतेन सभासाहेन सख्या सखायः । किल्पिषस्पृत्पितुषणिर्हैषामरं हितो भवति वाजिनाय ॥ (*sarve naṃdaṃti yaśasāgatena sabhāsāhena sakhyā sakhāyaḥ | kilpiṣaspṛtpituṣaṇirhaiṣāmaraṃ hito bhavati vājināya ‖*) (Ṛ. Saṃ. 10-72-18)
+
+### Printed p. 29
+
+This Ṛk is in the Ṛgveda Saṃhitā itself. Its main purport is as follows. The people who take part in the sacrifice, the sacrificer, the priests and the rest, are glad on seeing this god Soma, who like a friend is dear to all, come to the sacrificial ground. This Soma is the giver of fame; just as a scholar who defeats everyone in an assembly of the learned by his extraordinary learning enters the assembly and brings joy to all, so all rejoice at the arrival of this god Soma; and this Soma destroys the kilbiṣas, that is, the sins and faults, of the priests and the sacrificer, and protects them; he is the giver of food to them, that is, all are satisfied by drinking the Soma. Such a Soma, endowed with these great qualities, has been brought to this sacrificial altar and placed here in order to favour all with food, strength of the senses and vigour. This matter is well known. This is the purport of the Ṛk.
+
+यशो वै सोमो राजा सर्वो ह वा एतेन क्रियमाणेन नंदंति यश्च यज्ञे लप्स्यमानो भवति यश्च न । (*yaśo vai somo rājā sarvo ha vā etena kriyamāṇena naṃdaṃti yaśca yajñe lapsyamāno bhavati yaśca na |*)
+
+The first quarter-verse of this Ṛk is explained. The god Soma is the cause of fame. Indra and the others drank Soma, performed many heroic deeds and became famous. Therefore Soma is said to be of the very nature of fame. Some, by performing the priestly duties in the sacrifice, gain wealth; some are glad merely by watching the sacrifice. Therefore all rejoice on seeing this Soma, which has been bought and brought to the sacrificial ground.
+
+सभासाहेन सख्या सखाय इत्येष वै ब्राह्मणानां सभासहः सखा यत्सोमो राजा । (*sabhāsāhena sakhyā sakhāya ityeṣa vai brāhmaṇānāṃ sabhāsahaḥ sakhā yatsomo rājā |*)
+
+The second quarter-verse is explained: this radiant, shining Soma conquers all in the learned assemblies of the Brāhmaṇas and shines with his learning. Since this god brings benefit to the Brāhmaṇas and to the priests and sacrificer, he is their friend.
+
+किल्पिषस्पृदित्येष उ एव किल्पिषस्पृत् यो वै भवति यः श्रेष्ठतामश्नुते स किल्पिषं भवति । तस्मादाहुर्मानुवोचो मा प्रचारीः किल्पिषं नु मा यातयन्निति । (*kilpiṣaspṛdityeṣa u eva kilpiṣaspṛt yo vai bhavati yaḥ śreṣṭhatāmaśnute sa kilpiṣaṃ bhavati | tasmādāhurmānuvoco mā pracārīḥ kilpiṣaṃ nu mā yātayanniti |*)
+
+The third quarter-verse is explained: this god Soma removes kilbiṣa, that is, sin, and protects. In the Soma sacrifice performed to obtain all one's desired ends, there is the likelihood that kilbiṣas, that is, omissions, faults, deficiencies, sins and the like, may arise. In such circumstances
+
+### Printed p. 30
+
+the deity Soma removes those omissions, faults and sins and protects the sacrificer. As to what the occasion is for kilbiṣa to befall the priests and the sacrificer while a sacrifice is being performed: when a man engaged in the sacrificial work recites mantras and the like in an advanced sacrifice that must be conducted with great discernment, with a wish to finish it quickly, or with the conceit that he himself is the most capable in the use of mantras and that there is no one equal to him, then, through the recitation of mantras, there arise in the pronunciation of the mantras and in their order such faults as the omission of a syllable or the omission of a rite; the rite becomes deficient and sin results. And the sacrificer will address the priests thus: "O Hotṛ, at the time of reciting the mantras let your mind be fixed on the recitation and meaning of the mantras; with a steady mind, not letting it wander elsewhere, recite the puronuvākyā and the other mantra texts. O Adhvaryu, so that the duties to be done in the haste of the work do not go awry, and so that, with your attention elsewhere, the work is not spoiled, give up the hurry of getting the work done quickly and perform the duties carefully. Take care that no kilbiṣa, that is, sin, befalls me, the sacrificer, through the omissions and faults you commit." The sacrificer will have to say this. It is said that the deity Soma should protect the priests and the sacrificer from such sins.
+
+पितुषणिरित्यन्नं वै पितु दक्षिणा वै पितु तामेनेन सनोत्यन्नसनिमेवैनं तत्करोति । (*pituṣaṇirityannaṃ vai pitu dakṣiṇā vai pitu tāmenena sanotyannasanimevainaṃ tatkaroti |*)
+
+Explaining the fourth quarter-verse, they explain the meaning of the word पितुषणि (*pituṣaṇi*): the word पितु (*pitu*) means food, and besides it means also the fee (dakṣiṇā) given to the priests in sacrifices and the like. In this Soma sacrifice Soma gives the fees and food to the priests who take part.
+
+अरं हितो भवति वाजिनायेतींद्रियं वै वीर्यं वाजिनं अजरसं हास्यॆ वाजिनं नापच्छिद्यते य एवं वेद । (*araṃ hito bhavati vājināyetīṃdriyaṃ vai vīryaṃ vājinaṃ ajarasaṃ hāsyè vājinaṃ nāpacchidyate ya evaṃ veda |*)
+
+And Soma gives the priests and the sacrificer keenness of the senses, vigour and strength up to old age. For the one who knows this, the god Soma grants that keenness of the senses and the like is not destroyed midway. Seeing such a Soma brought to the sacrificial altar and placed in his own seat, all the people rejoice; thus the main purport of this Ṛk is described.
+
+आगस्त्येव इत्यन्वाह (*āgastyeva ityanvāha*) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 24. Tai. Saṃ./Ai. Brā. Soma-abduction legend, pp. 19-24
+**Progress note:** Done through printed p. 30. Somapravahana preliminaries, Tai. Saṃ./Ai. Brā. quotations, Soma-kraya mantras, pp. 25-30
