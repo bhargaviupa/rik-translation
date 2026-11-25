@@ -23491,6 +23491,266 @@ Sūkta—23
 - Deity: Indra.
 - Metre: 1, 7 triṣṭubh; 2-4, 6 jagatī; 5 abhisāriṇī.
 
+### Printed p. 674
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यजा॑मह॒ इंद्रं॒ वज्र॑दक्षिणं॒ हरी॑णां र॒थ्यं१॒॑ १ विव्र॑तानां ।  
+> प्र श्मश्रु॒ दोधु॑वदू॒र्ध्वथा॑ भू॒द्वि सेना॑भि॒र्दय॑मानो॒ वि  ॑
+> राधसा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यजामहे । इंद्रं । वज्रदक्षिणं । हरीणां । रथ्यं । विव्रतानां ।  
+> प्र । श्मश्रु । दोधुवत् । ऊर्ध्वथा । भूत् । वि । सेनाभिः । दयमानः । वि ।  
+> राधसा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमिंद्रं यजामहे । सोमलक्षणैर्हविर्भिः पूजयामः । कीदृशं ।
+> वज्रदक्षिणं शत्रुवधाय सततं वज्रो दक्षिणे हस्ते यस्य तं विव्रतानां रथवहनादिविविधकर्मणां हरीणामेतत्संज्ञकानामश्वानां रथ्यमानेतारं । स इंद्रः सोमपानानंतरं स्मश्रु स्वकीयानि स्मश्रूणि दोधुवत् पुनःपुनर्धून्वानः सन्नूर्ध्वथोर्ध्व० प्र भूत् । प्रादुरभूत् । किंच सेनाभिर्मरुदादिस्वकीयैः सैन्यैर्वि
+> दयमानो विविधं शत्रून्हिंसनाधसा । द्वितीयार्थे तृतीया । राधो धनं ।
+> वीत्युपसर्गश्रुतेर्योग्यक्रियाध्याहारः । विविधं स्तोतृभ्यो ददाति ॥
+
+##### Gist of the bhāṣya
+
+We worship Indra with oblations in the form of Soma. He is described as वज्रदक्षिणं (*vajradakṣiṇaṃ*): the one who always holds the thunderbolt in his right hand in order to kill enemies. He is रथ्यं (*rathyaṃ*), the leader of the bay horses (Hari) called by this name, which are विव्रतानां (*vivratānāṃ*), that is, engaged in various works such as drawing the chariot. After drinking Soma, that Indra, repeatedly shaking his own beard, comes forth upward (प्र भूत् (*pra bhūt*) means "appeared"). Further, he destroys enemies in manifold ways with his own armies, the Maruts and the rest. राधसा (*rādhasā*) has the third case in the sense of the second; *rādhaḥ* is wealth. Because the preposition वि (*vi*) is heard, a suitable verb has to be supplied: he gives wealth variously to the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रदक्षिणं (*vajradakṣiṇaṃ*)—one who holds the thunderbolt in his right hand
+- विव्रतानां (*vivratānāṃ*)—capable of many works
+- हरीणां (*harīṇāṃ*)—of the horses
+- रथ्यं (*rathyaṃ*)—the leader
+- इंद्रं (*iṃdraṃ*)—Indra
+- यजामहे (*yajāmahe*)—we worship
+- श्मश्रु (*śmaśru*)—the hairs of his face
+- दोधुवत् (*dodhuvat*)—shaking again and again
+- ऊर्ध्वया (*ūrdhvayā*)—facing upward
+- प्र भूत् (*pra bhūt*)—has mounted
+- सेनाभिः (*senābhiḥ*)—with the armies of the Maruts and others
+- वि दयमानः (*vi dayamānaḥ*)—destroying enemies in many ways
+- राधसा (*rādhasā*)—with wealth he satisfies his worshippers
+
+##### भावार्थ (Bhāvārtha)
+
+We worship Indra, who holds the thunderbolt in his right hand and is the leader of the horses, which are capable of many works. That same Indra, shaking the hairs of his face again and again,
+### Printed p. 675
+has mounted upward. Destroying enemies in many ways with the armies of the Maruts and others, he satisfies his worshippers with wealth.
+
+##### English translation
+We worship Indra, bearing in his right hand the thunderbolt, the driver of the bay horses which have many functions: shaking his beard, he mounts on high, destroying (his enemies) by his armies he gives wealth (to his worshippers).
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरी॒ न्व॑स्य॒ या वने॑ वि॒दे वस्विंद्रो॑ म॒घैर्म॒घवा॑ वृत्र॒हा  ॑
+> भुवत् ।  
+> ऋ॒भुर्वाज॑ ऋभु॒क्षाः प॑त्यते॒ शवोऽव॑ क्षौमि॒ दास॑स्य॒ नाम॑  
+> चित् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरी इति । नु । अस्य । या । वने । विदे । वसु । इंद्रः । मघैः । मघवा ।  
+> वृत्रहा । भुवत् ।  
+> ऋभुः । वाजः । ऋभुक्षाः । पत्यते । शवः । अव । क्षौमि । दासस्य । नाम । चित् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य संबंधिनौ या यौ हरी अश्वा वने । वन्यंते संभज्यंतेऽस्मिन्देवा
+> इति वनं यज्ञोऽरण्यं वा । तस्मिन्वस्वजीषलक्षणं धनं यवसलक्षणं वा नु क्षिप्रं
+> विदे विंदेते लभेते । यद्वा । यौ हरी अस्येंद्रस्य वने संभजनार्थं वसु वसुनो
+> लाभाय क्षिप्रं भवत इति शेषः । ताभ्यां हरिभ्यां मघैर्धनैर्मघवान्थनवानिंद्रो
+> वृत्रहा वृत्राख्यस्यासुरस्य मेघस्य वा हंता भुवत् । भवति । अर्षिचर्भुर्दिप्तो
+> वाजो बलवानृभुक्षा महानिंद्रः शवः शवसो बलस्य धनस्य वा पत्यते । ईष्टे ।
+> यद्वा । शत्रूणां बलं प्रति पत्यते । प्रतिपद्यते । गच्छति । अहमपि तस्य प्रसादाद्दासस्योपक्षपयितव्यस्य शत्रोर्नाम चित् । नम्यतेऽनेनेति नाम शिरः । तदप्यव क्षामि ।
+> अवहन्मि । किमुतान्यदंगं । अथवा । नामधेयमपि नाशयामि किमुत शत्रुं ॥
+
+##### Gist of the bhāṣya
+
+The two bay horses of this Indra find quickly, in the वने (*vane*), wealth (वसु (*vasu*)). वनं (*vanaṃ*) is the sacrifice (in which the gods are shared out, वन्यंते (*vanyaṃte*)) or else the forest. The wealth is of the kind of *ajīṣa* or of barley (यवस (*yavasa*)). विदे (*vide*) means "the two obtain". Or else: the two horses of Indra become quick in the वने (*vane*) in order to obtain wealth, with "become" to be supplied. By those two horses Indra, rich in मघैः (*maghaiḥ*) (riches), becomes the slayer of Vṛtra, the Asura of that name, or of the cloud. Ṛbhu is the shining one; Vāja is the strong one; Ṛbhukṣā is the great Indra; he is lord (पत्यते (*patyate*) = ईष्टे (*īṣṭe*)) of strength (शवः (*śavaḥ*)), or of wealth. Or else: पत्यते (*patyate*) means he goes against the strength of the enemies. By his grace I too cut off the head (नाम (*nāma*), so called because one bows by it) of the Dāsa who is to be destroyed; how much more any other limb. Or else: I destroy even the name; how much more the enemy.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—his
+- या हरी (*yā harī*)—which horses
+- वने (*vane*)—at the sacrifice
+- वसु (*vasu*)—wealth
+- नु (*nu*)—quickly
+- विदे (*vide*)—provide; he who is accompanied by those horses
+- मघैः (*maghaiḥ*)—with riches
+- मघवा (*maghavā*)—the wealthy one
+- इंद्रः (*iṃdraḥ*)—Indra
+- वृत्रहा (*vṛtrahā*)—as the slayer of enemies
+- भुवत् (*bhuvat*)—becomes
+- ऋभुः (*ṛbhuḥ*)—the radiant one
+- वाजः (*vājaḥ*)—the powerful one
+- ऋभुक्षाः (*ṛbhukṣāḥ*)—Indra, the great one
+- शवः (*śavaḥ*)—of strength
+- पत्यते (*patyate*)—is the lord
+- दासस्य (*dāsasya*)—of the enemy who is a harmer
+- नाम चित् (*nāma cit*)—the head
+- अव क्षौमि (*ava kṣaumi*)—(with Indra's help) I cut off
+### Printed p. 676
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, accompanied by those horses which quickly provide wealth at the sacrifice, and wealthy through his riches, becomes the slayer of enemies. Indra, the radiant, powerful and great, is the lord of strength. With Indra's help I cut off the head of the enemy who is a harmer.
+
+##### English translation
+With his two bay horses which bestow riches at the sacrifice, Indra, wealthy with wealth, is the slayer of Vritra; the brilliant, powerful, mighty Indra is the lord of strength; (through him) I cut off the head of the Dasa.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा वज्रं॒ हिर॑ण्य॒मिदथा॒ रथं॒ हरी॒ यम॑स्य॒ वह॑तो॒ वि  ॒॑
+> सू॒रिभिः॑ ।  
+> आ ति॑ष्ठति म॒घवा॒ सन॑श्रुत॒ इंद्रो॒ वाज॑स्य दी॒र्घश्र॑वस॒स्पतिः॑ ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । वज्रं । हिरण्यं । इत् । अथ । रथं । हरी इति । यं । अस्य । वहतः । वि ।  
+> सूरिभिः ।  
+> आ । शिष्ठति । मॆघवा । सन्श्रुतः । इंद्रः । वाजस्य । दीर्घश्रवसः । पतिः ॥ ३ ॥
+
+### Printed p. 677
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदेंद्रो हिरण्यं हितरमणीयं वज्रं स्वकीयमायुधं शत्रुहननाय
+> गृह्ञातीति शेषः । इदिति पूरणः । अथ तदानीमस्येंद्रस्य हरी अश्वा यं रथं वहतः
+> गंतृप्रदेशं विशेषेण प्रापयतः मघवा धनवानिंद्रः सूरिभिः स्तोतृभिः कुत्सादिभिः
+> सह तं रथमा तिष्ठति । आरोहति । कीदृशः । सनश्रुतश्चिरप्रख्यातः । जगति स्वभावत एव
+> विख्यात इत्यर्थः । दीर्घश्रवसो बहुकीर्तेर्वाजस्यान्नस्य पतिः स्वामी । एवंभूत
+> इंद्रस्तं रथमारोहतीत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+When Indra takes up his golden (हिरण्यं (*hiraṇyaṃ*) = beneficial and delightful) thunderbolt, his own weapon, to kill enemies (the verb "takes" is to be supplied; इत् (*it*) is a filler), then the two bay horses of Indra draw the chariot, bringing it specially to the place of going. Wealthy Indra mounts that chariot together with the सूरिभिः (*sūribhiḥ*), the praisers such as Kutsa. He is सनश्रुतः (*sanaśrutaḥ*), long famed, that is, renowned in the world naturally. He is lord of वाजस्य (*vājasya*), food, of दीर्घश्रवसः (*dīrghaśravasaḥ*), of wide fame. Such an Indra mounts that chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा (*yadā*)—when
+- हिरण्यं (*hiraṇyaṃ*)—golden
+- वज्रं (*vajraṃ*)—the thunderbolt (Indra takes up)
+- अथ (*atha*)—then immediately
+- अस्य (*asya*)—of this Indra
+- हरी (*harī*)—the horses
+- यं रथं (*yaṃ rathaṃ*)—which chariot
+- वहतः (*vahataḥ*)—draw, that very chariot
+- मघवा (*maghavā*)—the wealthy
+- सनश्रुतः (*sanaśrutaḥ*)—renowned from long ago
+- दीर्घश्रवसः (*dīrghaśravasaḥ*)—of great fame
+- वाजस्य (*vājasya*)—of food
+- पतिः (*patiḥ*)—the lord
+- इंद्रः (*iṃdraḥ*)—Indra
+- सूरिभिः (*sūribhiḥ*)—with his praisers
+- आ तिष्ठति (*ā tiṣṭhati*)—mounts
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Indra takes up the golden thunderbolt, his horses draw his chariot. Indra, renowned from long ago and lord of food of great fame, mounts that same chariot with his praisers.
+
+##### English translation
+When he grasps his golden thunderbolt, then the opulent Indra ascends with his praisers, the chariot which his two bay horses draw, (Indra) the lord of long celebrated and widely renowned food.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो चि॒न्नु वृ॒ष्टिर्यू॒थ्या॒३॒॑ ३ स्वा सचा॒ इंद्रः॒ स्मश्रू॑णि॒ हरि॑ता॒भि  ॑
+> पुष्णुते ।  
+> अव॑ वेति सु॒क्षयं॑ सु॒ते मधूदिद्दू॑नोति॒ वातो॒ यथा॒  ॑
+> वनं ॥ ४ ॥
+
+### Printed p. 678
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सो इति । चित् । नु । वष्टिः । यूथ्या । स्वा । सचा । इंद्रः । श्मश्रूणि । हरिता । अभि ।  
+> प्रुष्णते ।  
+> अव । वेति । सुक्षयं । सुते । मधु । उत् । इत् । धूनोति । वातः । यथा ।  
+> वनं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तच्छब्दश्रुतेर्यच्छब्दोऽध्याहर्तव्यः । या महती वृष्टिरस्ति सो सा वृष्टिर्नु
+> क्षिप्रं । चिदित्युपमार्थे । यथा सर्वं सिंचति तथेंद्रः स्वा स्वानि यूथ्या यूथानि
+> मरुदादिगणलक्षणानि सचा सह स्वानि श्मशूणि च हरिता हरिद्वर्णेन सोमेनाभि
+> पुष्णुते ॥ पुष प्लुष स्नेहनसेचनपूरणेष्टिति धातुः ॥ अभिमुख्येन स्थित्वा क्षिप्रं
+> सिंचति । सोमं पाययति पिबति चेत्यर्थः । अपि च सुक्षयं शोभनं यज्ञगृहमव
+> वेति । अभिगच्छति । गत्वा च सुते सोमेऽभिषुते सति मधु मधुररसोपेतं सोमं
+> पीत्वा । मत्तः सन्निति शेषः । उदिद्दूनोति । स्वशरीरमुत्कंपयति । तत्र दृष्टांतः ।
+> पातो वायुर्यथा वनं वृक्षसमूहमुत्कंपयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Because the word तत् (*tat*) is heard, the word *yat* must be supplied: the great rain that there is, that rain quickly; चित् (*cit*) is in the sense of comparison. As the rain wets everything, so Indra, together with his own troops (यूथ्या (*yūthyā*)), the hosts of Maruts and others, sprinkles his own beards with the green-coloured Soma (हरिता (*haritā*)). Of the root पुष (*puṣa*), प्लुष (*pluṣa*), in the sense of moistening, sprinkling, filling: standing facing, he quickly sprinkles; he makes Soma be drunk and drinks it. Further, he goes to the fair sacrificial house (सुक्षयं (*sukṣayaṃ*)). Having gone, when Soma is pressed, he drinks the sweet Soma and, intoxicated (to be supplied), shakes his body. The example: as the wind shakes the forest, the mass of trees.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सो (*so*)—the well-known
+- वृष्टिः (*vṛṣṭiḥ*)—rain
+- नु चित् (*nu cit*)—as it quickly wets all regions
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्वा (*svā*)—his own
+- यूथ्या सचा (*yūthyā sacā*)—with the hosts of Maruts
+- श्मशूणि (*śmaśūṇi*)—the hairs of his face
+- हरिता (*haritā*)—with the green-coloured Soma
+- अभि प्रुष्णुते (*abhi pruṣṇute*)—wets
+- सु क्षयं (*su kṣayaṃ*)—the excellent sacrificial house
+- अव वेति (*ava veti*)—enters
+- वातः (*vātaḥ*)—the wind
+- यथा (*yathā*)—as
+- वनं (*vanaṃ*)—as it makes the forest tremble, so
+- सुते (*sute*)—when Soma is pressed
+- मधु (*madhu*)—having drunk the sweet Soma
+- उदिद्दूनोति (*udiddūnoti*)—Indra trembles
+
+##### भावार्थ (Bhāvārtha)
+
+As the well-known rain quickly wets all regions, Indra, with his hosts of Maruts, wets the hairs of his face with the green-coloured Soma. He enters the excellent sacrificial house. As the wind makes the forest tremble, so, when Soma is pressed, Indra drinks the sweet Soma and shows his satisfaction by shaking his head.
+### Printed p. 679
+
+##### English translation
+As the rain (bedews all), so, Indra, accompanied by his troops (of the Maruts), sprinkles their beards, with the green (Soma-juice): he repairs to the pleasant chamber (of sacrifice); (the Soma) being effused, the sweet beverage agitates (his frame), as the breeze (shakes) the forest,
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वा॒चा विवा॑चो मृ॒ध्रवा॑चः पु॒रू स॒हस्राशि॑वा ज॒घानः॑  
+> तत्त॒दिद॑स्य॒ पौंस्यं॑ गृणीमसि पि॒तेव॒ यस्तवि॑षीं वावृ॒धे शवः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वाचा । विवाचः । मृध्रवाचः । पुरु । सहस्रा । अशिवा । जघान ।  
+> तत् तत् । इत् । अस्य । पौंस्यं । गृणीमसि । पिताइव । यः । तविषीं । ववृधे ।  
+> शवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो वाचा वाज्मात्रेणैन विवाचो विविधवाचः स्वशत्रुन् मृध्रवाचो हिंसितवाचः । कृत्वेति शेषः । पुरु पुरूणि बहून्यशिवाशिवान्यसुखकराणि ।
+> दुःखकराणीत्यर्थः । सहस्रा शत्रुणां सहस्राणि जघान हंति । अपि च यश्चेंद्रः
+> पितेव यथा पिता पुत्रस्य तविषीं बलमन्न प्रदानैर्ववृधे वर्धयति तथा वृष्टिद्वारेण सर्वस्य जगतः शवो बलं ववृधे वर्धयति अस्येंद्रस्य तत्तदित्तत्तदेव पौंस्यं
+> बलं गृणीमसि । वयं स्तुमः । इंद्रो येन येन बलेन शत्रुन्हंति तस्य
+> तत्तद्बलं वयं स्तुम इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra, by speech alone, makes his enemies विवाचः (*vivācaḥ*), of various speech, and मृध्रवाचः (*mṛdhravācaḥ*), of harmed speech (*kṛtvā*, "having made", is to be supplied), and he kills many thousands of enemies, अशिवा (*aśivā*), that is, inauspicious and painful ones. Further, as a father increases the strength (तविषीं (*taviṣīṃ*)) of his son by gifts of food, so Indra, by means of rain, increases the strength (शवः (*śavaḥ*)) of the whole world. We praise (गृणीमसि (*gṛṇīmasi*)) each and every manly power (पौंस्यं (*pauṃsyaṃ*)) of this Indra: by whatever strength Indra kills enemies, each such strength of his we praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- वाचा (*vācā*)—by his speech alone
+- विवाचः (*vivācaḥ*)—enemies who make sound in many ways
+- मृध्रवाचः (*mṛdhravācaḥ*)—having made them soundless
+- पुरु (*puru*)—of great number
+- अशिवा (*aśivā*)—and inauspicious
+- सहस्रा (*sahasrā*)—thousands of enemies
+- जघान (*jaghāna*)—has killed
+
 ---
 
-**Progress note:** Done through printed p. 673. pp. 668-673 (batch API)
+**Progress note:** Done through printed p. 679. pp. 674-679 (batch API)
