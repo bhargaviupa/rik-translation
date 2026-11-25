@@ -22689,6 +22689,217 @@ To make a pot, the material is clay, the maker is the potter; the wheel, the sti
 
 What was said by विष्टज् व्यक्रामदिति (*viṣṭaj vyakrāmaditi*) is developed here. From that primal Person, Virāṭ, the body that is the cosmic egg, was born, that is, came into being. Virāṭ is so called because various things shine in it.
 
+### Printed p. 810
+
+> विराजोऽधि विराड्देहस्कोपरि तमेव देहमधिकरणं कृत्वा पुरुषस्तद्देहाभिमानी
+> कश्चित्पुमानजायत । सोऽयं सर्ववेदांतवेद्यः परमात्मा स्वयमेव
+> स्वकीयया मायया विराड्देहं ब्रह्मांडरूपं सृष्ट्वा तत्र जीवरूपेण प्रविश्य
+> ब्रह्मांडाभिमानी देवतात्मा जीवोऽभवत् । एतच्चाधर्वणिका उत्तरतापनिये.
+> विस्पष्टमामनंति । स वा एष भूतानींद्रियाणि विराजं देवताः कोशांश्च सृष्ट्वा
+> प्रविश्यामूढो मूढ इव व्यवहरन्नास्ते मायय्यन । नृ. ता. २-१-९ । इति । स
+> जातो विराट् पुरुषोऽत्यरिच्यत । अतिरिक्तोऽभूत् । विराड् व्यतिरिक्तो देवतिर्यज्ञनुष्यादिरूपोऽभूत् । पश्चाद्देवादिजीवभावादूर्ध्वं भूमिं ससर्जेति
+> शेषः । अथो भूमिसृष्टेरनंतरं तेषां जीवानां पुरः ससर्ज । पूरैंते
+> सप्तभिर्धातुभिरिति पुरः शरीराणि ॥
+
+##### Gist of the bhāṣya
+
+"Above Virāṭ": making the body of Virāṭ itself the support, some Puruṣa who identifies himself with that body was born. This Supreme Self, who is to be known through the whole Vedānta, himself by his own māyā created the body of Virāṭ in the form of the cosmic egg, entered into it in the form of the individual soul, and became the soul, the deity who identifies himself with the cosmic egg. The followers of the Atharvaveda state this plainly in the Uttaratāpanīya: having created the elements, the senses, Virāṭ, the deities and the sheaths, and entered them, he, though unbewildered, lives as if bewildered, by māyā (Nṛ. Tā. 2-1-9) **NOTE**. "He, being born, exceeded": the born Virāṭ-Puruṣa became in excess, that is, different from Virāṭ, taking the forms of gods, animals, men and so on. Afterwards, after the state of gods and other living beings, he created the earth; this is the word to be supplied. Then, after the creation of the earth, he created the bodies (puras) of those living beings; they are called puras because they are filled with the seven constituents.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्मात् (*tasmāt*)—from the primal Person
+- विराट् (*virāṭ*)—the cosmic egg, shining in many ways
+- अजायत (*ajāyata*)—came into being
+- विराजः अधि (*virājaḥ adhi*)—resting on this very body of Virāṭ
+- पुरुषः (*puruṣaḥ*)—the Person who identifies himself with the body appeared
+- सः जातः (*saḥ jātaḥ*)—the Person who appeared in the form of the conscious and the unconscious
+- अत्यरिच्यत (*atyaricyata*)—took forms different from himself, such as gods, animals and men
+- पश्चात् (*paścāt*)—afterwards
+- भूमिं (*bhūmiṃ*)—the earth also
+- अथो (*atho*)—afterwards
+- पुरः (*puraḥ*)—he made the bodies made of the five elements, and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+The cosmic egg, shining in many ways, came into being from the primal Person. Resting on this very body of Virāṭ, the Person who identifies himself with the body appeared. The Person who appeared in the form of the conscious and the unconscious took forms different from himself, such as gods, animals and men. Afterwards he made the earth.
+
+##### English translation
+From him was born Viraj, and from Viraj Purusha ; he, as soon as born, became manifested, and afterwards (created) the earth (and) then corporeal forms.
+
+##### विशेषविषयगळु (Special Topics)
+
+The purport of the former Ṛk, ततो विश्वज्व्यक्रामत्; साशनानशने अभि (*tato viśvajvyakrāmat; sāśanānaśane abhi*), was said to be explained on this occasion. The idea that the three states, origin, continuance and dissolution, follow one another in order is conveyed in the former Ṛk by the sentence पादोऽस्येहाभवत्पुनः (*pādo 'syehābhavatpunaḥ*).
+
+### Printed p. 811
+
+The relation of producer and produced between Puruṣa and Virāṭ is stated in the present Ṛk. These two are different principles and different manifestations. The idea that the Virāṭ-Puruṣa, who obtained manifestation in the form of the world, underwent change into the forms of gods, animals and men is known from the sentence स जातोऽत्यरिच्यत (*sa jāto 'tyaricyata*). Moreover the sentence साशनानशने अभि (*sāśanānaśane abhi*) also conveys the same matter. What this description of the states of creation, continuance and again dissolution is has to be examined in the present context.
+
+That the unique Supreme Self, wishing to become one with a second, produced the world has been indicated before in the Viśvakarman hymns. What order was followed in this creation is not stated there. Further, although the Lord is the sustainer of all the beings produced, what it means that all attain dissolution has to be stated in the present context. The order of creation is cyclic. In this matter all the sentences of the Saṃhitā and the Brāhmaṇas convey one and the same idea. The present sentence, तस्माद्विराडजायत; विराजोः ४ पूरुषः (*tasmādvirāḍajāyata; virājoḥ 4 pūruṣaḥ*), is an example. Since the word punar, again, occurs in the sentence पादोऽस्येहाधवत्स्नः (*pādo 'syehādhavatsnaḥ*) (the former mantra), it is explained as creation again after dissolution. Creation and dissolution are without beginning and without end. The play of the Lord, flowing on continuously, is manifested in the form of these acts. Since it is said "creation again after dissolution", it may be known what the purport of the sentence स जातोऽत्यरिच्यत (*sa jāto 'tyaricyata*) is, after examining who is the dissolver of the world, what the nature of dissolution is, and how the acts of dissolution are described. In this context one more point has to be noticed. The purport of the sentence पादोऽस्येहाभवत्पुनः (*pādo 'syehābhavatpunaḥ*) and the purport of other sentences that praise creation do not appear to agree. How? Thus:
+
+आत्मा वा इद मेक एवाग्र आसीत् (*ātmā vā ida meka evāgra āsīt*) (Ai. U. 1-1-1)
+
+असदेवेदमग्र आसीत् (*asadevedamagra āsīt*) (Chā. U. 3-19-1)
+
+अत्मैवेदमग्र आसीत् पुरुषविधः (*atmaivedamagra āsīt puruṣavidhaḥ*) (Bṛ. U. 1-4-1)
+
+असद्वा इदमग्र आसीत् । ततो वै सदजायत (*asadvā idamagra āsīt | tato vai sadajāyata*) (Tai. U. 2-7-1) **NOTE**
+
+Many such sentences state the beginning of creation. These sentences state clearly that before creation only the unique Self existed, and that creation began at a definite time. Therefore there is room for the question what the word punar, again, means.
+
+### Printed p. 812
+
+In this context the purport of the Vedānta aphorisms, which teach the essence of the Upaniṣads, must also be noticed a little. According to the Vedānta view, creation has a definite cause. Since every conscious being is filled with the impressions of action, every conscious being must take birth according to these impressions of action. Thus for each birth there is always an earlier cause. From this it is clearly understood that saṃsāra is without beginning.
+
+न कर्माविभागादिति चेन्न, अनादित्वात् । (*na karmāvibhāgāditi cenna, anāditvāt |*)
+
+(Bra. Sū. Śaṃ. Bhā. 2-3-5) **NOTE**
+
+Such sentences of the Vedānta aphorisms make this point clear. Thus, when examined in a gross way, there seems to be a contradiction between the sentences of the Upaniṣads and the sentences of the Vedānta. But when one notices what the right meaning of the words ādi and agra, beginning and first, is, it is understood that there is no mutual contradiction here.
+
+The sentence of the Bhagavadgītā, कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहु (*kalpakṣaye punastāni kalpādau visṛjāmyahu*), has been quoted above and its purport explained. After the end of a kalpa the Supreme Self remains unique. The meaning is that, since before the next kalpa there is no creation of the world, he remains alone.
+
+सूर्याचंद्रमसौ धाता यथापूर्वमकल्पयत् । दिवं च पृथिवीं चातरीक्षमथो स्वः ॥ (*sūryācaṃdramasau dhātā yathāpūrvamakalpayat | divaṃ ca pṛthivīṃ cātarīkṣamatho svaḥ ‖*)
+
+(Ṛ. Saṃ. 10-190-3) **NOTE**
+
+In such Ṛks other kalpas are indicated. As to यथापूर्वं (*yathāpūrvaṃ*): Sāyaṇa has explained it thus: विधाता यथापूर्वं पूर्वस्मिन् कल्पे यथा सृष्टवान् तथैवागामिन्यपि कल्पे इत्यर्थः (*vidhātā yathāpūrvaṃ pūrvasmin kalpe yathā sṛṣṭavān tathaivāgāminyapi kalpe ityarthaḥ*); the purport is that as the Creator made the world in the former kalpa, so he will make it in the next kalpa. Thus, since at the end of every kalpa the whole world is dissolved in Brahman, Brahman has the epithet तल्लं (*tallaṃ*). This dissolution is of two kinds: (1) individual dissolution and (2) universal dissolution. For both kinds of dissolution Brahman alone is the cause and the goal.
+
+भर्ता सन्फ्रियमाणो बिभर्ति । एको देवो बहुधा निविष्टः । यदा भारं तंद्रयते सभर्तुं । निधाय भारं पुनरस्तमेति । तमेव मृत्युममृतं तमाहुः । तं भर्तारं तमु गोप्तारमाहुः । (*bhartā sanphriyamāṇo bibharti | eko devo bahudhā niviṣṭaḥ | yadā bhāraṃ taṃdrayate sabhartuṃ | nidhāya bhāraṃ punarastameti | tameva mṛtyumamṛtaṃ tamāhuḥ | taṃ bhartāraṃ tamu goptāramāhuḥ |*)
+
+(Tai. Ā. 3-14-1)
+
+Here the vital breath is praised in the form of death. Because it nourishes the body, it is called the bearer. When it appears that the burden in the form of the body must be laid down, it vanishes. Then it is called death.
+
+### Printed p. 813
+
+Yet the same which is death is also the deathless. The sentences above praise Brahman in the form of the vital breath, who exists in many forms and pervades all things. He alone is the supporter and he alone is death. How? Thus:
+
+ब्रह्म वै मृत्युवे प्रजाः प्रायच्छत् (*brahma vai mṛtyuve prajāḥ prāyacchat*)
+
+(Pa. Prā. 11-3-3-1) **NOTE**
+
+Because Brahman gave all creatures to death, he is death; the meaning is that he causes them to be dissolved in himself. Therefore before creation there was nothing other than death alone. If it is asked which principles existed:
+
+नैवेह किंचनाग्र आसीत् मृत्युनैवेदमावृतमासीत् । अशनायया, अशनाया हि मृत्युः, तन्मनोऽकुरुत । (*naiveha kiṃcanāgra āsīt mṛtyunaivedamāvṛtamāsīt | aśanāyayā, aśanāyā hi mṛtyuḥ, tanmano 'kuruta |*)
+
+(Pu. 50. 1-1) **NOTE**
+
+That at the beginning nothing existed other than death means that everything was held by death. Since death and hunger (aśanāyā) are one and the same, hunger was pervading. That death itself became the root of creation. (When the purport of these quoted sentences is stated, there is a large discussion containing many kinds of prima facie views and answers.)
+
+स यद्यदेवासृजत । तत्तदत्तुमध्रियत, सर्वं वा अत्तित्ति तददितेरदितित्वं । सर्वस्यैतस्यात्ता भवति । सर्वमस्यान्नं भवति । (*sa yadyadevāsṛjata | tattadattumadhriyata, sarvaṃ vā attitti tadaditeradititvaṃ | sarvasyaitasyāttā bhavati | sarvamasyānnaṃ bhavati |*)
+
+(Bṛ. U. 1-2-5)
+
+After creation there arose a hunger to devour everything. Therefore he began to devour everything. Because he thus devours everything (adanāt), the name Aditi is also well known for him. Everything that is created becomes his food.
+
+यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः । मृत्युर्यस्कोपसेचनं क इत्था वेद यत्र सः ॥ (*yasya brahma ca kṣatraṃ ca ubhe bhavata odanaḥ | mṛtyuryaskopasecanaṃ ka itthā veda yatra saḥ ‖*)
+
+(Kaṭha. U. 2-25) **NOTE**
+
+Both Brahma and Kṣatra are food for this Ordainer. Death is the means of obtaining food for the Ordainer; thus the Supreme Brahman in the form of death is praised. The description of the Supreme Self in the form of death occurs on many occasions, but it is not all of one kind; there is variety. In the Taittirīya Upaniṣad there is one order and in the Chāndogya another. But the purport is one. In many places this description is of excellent poetic quality. In the Taittirīya it is as follows.
+
+### Printed p. 814
+
+यतो वा इमानि भूतानि जायंते । येन जातानि जीवंति । यत्पयंत्यभिसंविशंति । तद्विजिज्ञासस्व । तद्ब्रहेति ॥ (*yato vā imāni bhūtāni jāyaṃte | yena jātāni jīvaṃti | yatpayaṃtyabhisaṃviśaṃti | tadvijijñāsasva | tadbraheti ‖*)
+
+(Tai. U. 3-1)
+
+When Bhṛgu, son of Varuṇa, prayed to his father Varuṇa, "Venerable father, teach me Brahman", Varuṇa taught him, praising Brahman in this way: O Bhṛgu, that great principle from which everything in the world is produced, by which everything is sustained, and in which everything attains dissolution, know that as Brahman. That is the Supreme Brahman. Explaining this very point the Muṇḍaka Upaniṣad says:
+
+तदेतत्सत्यं यथा सुदीप्तात् पावकाद्विस्पुलिंगाः सहस्रशः प्रभवंते सरूपाः । तथाक्षराद्विविधाः सोम्य भावाः प्रजायंते तत्र चैवापि यंति ॥ (*tadetatsatyaṃ yathā sudīptāt pāvakādvispuliṃgāḥ sahasraśaḥ prabhavaṃte sarūpāḥ | tathākṣarādvividhāḥ somya bhāvāḥ prajāyaṃte tatra caivāpi yaṃti ‖*)
+
+(Mu. U. 2-1-1)
+
+Just as thousands of sparks go out from a blazing fire and spread, in the same way beings of many kinds go out from the Supreme Brahman in the form of the imperishable and spread everywhere in the form of the world, and again at the time of dissolution join him alone. This alone is the truth.
+
+It has been said above that the description of the time of dissolution is of many kinds. This matter is stated in some places, that dissolution brings about a state of great peace, and in some other contexts, that it reaches a terrible state. For example:
+
+यो योनिं योनिमधितिष्ठत्येको यस्मिन्निदं सं च वि चैति सर्वं । तमीशानं वरदं देवमीड्यं निजाय्येमां शांतिमत्यंतमेति ॥ (*yo yoniṃ yonimadhitiṣṭhatyeko yasminnidaṃ saṃ ca vi caiti sarvaṃ | tamīśānaṃ varadaṃ devamīḍyaṃ nijāyyemāṃ śāṃtimatyaṃtameti ‖*)
+
+(Śrī. U. 4-80) **NOTE**
+
+(Śrī. U. 4-11)
+
+It is said that one who knows that Supreme Principle, the radiant Supreme Brahman who though one is the lord of the whole universe, in whom the whole universe at the time of dissolution is united and attains peace, reaches complete peace. But elsewhere in the same Śvetāśvatara, describing this same dissolution:
+
+एकोहि रुद्रो न द्वितीयाय तस्थुर्य इमान्‌ल्लोकानीशत ईशनीभिः । प्रत्यज्‌ जनास्तिष्ठति संचुकोचांतकाले संसृज्य विश्वा भुवनानि गोपाः ॥ (*ekohi rudro na dvitīyāya tasthurya imānllokānīśata īśanībhiḥ | pratyaj janāstiṣṭhati saṃcukocāṃtakāle saṃsṛjya viśvā bhuvanāni gopāḥ ‖*)
+
+(Śve. U. 3-2)
+
+Here the terrible form of Rudra, the cause of dissolution, is described. This Rudra alone is the controller of the whole world. No one else has independence. He causes the whole world to be dissolved in himself. This Rudra inflicts severe punishment on all evildoers.
+
+### Printed p. 815
+
+Thus dissolution is the drawing into himself of all things that have been produced; it does not mean the utter destruction of the world.
+
+यस्मिन्निदं सं च वि चैति सर्वं (*yasminnidaṃ saṃ ca vi caiti sarvaṃ*)
+
+(Pā. Saṃ. 32-8) **NOTE**
+
+In the Lord everything attains dissolution, and again goes forth from him, unfolds and spreads in the form of the world. This description of creation is what the present Ṛk describes by पादोऽस्येहाभवत्पुनः (*pādo 'syehābhavatpunaḥ*). Because he thus controls both dissolution and origin, the Lord is compared to a spider. Describing this same point, the Śvetāśvatara says:
+
+एकैकं जालं बहुधा विकुर्वन्नस्मिन् क्षेत्रे संहरत्येष देवः । भूयः सृष्ट्वा पतयस्तथेशः सर्वाधिपत्यं कुरुते महात्मा ॥ (*ekaikaṃ jālaṃ bahudhā vikurvannasmin kṣetre saṃharatyeṣa devaḥ | bhūyaḥ sṛṣṭvā patayastatheśaḥ sarvādhipatyaṃ kurute mahātmā ‖*)
+
+(Kveṃ. U. 5-3) **NOTE**
+
+यस्तंतुनाभ इव तंतुभिः प्रधानज्ञैः स्वभावतः । देव एकः स्वमावृणोति स नो दधातु ब्रह्माप्ययं ॥ (*yastaṃtunābha iva taṃtubhiḥ pradhānajñaiḥ svabhāvataḥ | deva ekaḥ svamāvṛṇoti sa no dadhātu brahmāpyayaṃ ‖*)
+
+(Kve U. 6.10) **NOTE**
+
+The Lord spreads out his single net in the form of his own māyā and extends it in many ways. In this field (the world) he gathers all beings into it. Afterwards the great-souled Lord again produces the guardians of the worlds and shows his sovereignty over all. The Ṛk-saṃhitā states this by the sentence यद्देवा यतयो यथा भुवनान्यपिन्वत (*yaddevā yatayo yathā bhuvanānyapinvata*) (10-32-7).
+
+But the Brahmasūtra makes it clear that even in such creation and in dissolving all the beings produced the Lord has no partiality and no cruelty.
+
+वैषम्यनैर्घृण्ये न सापेक्षत्वात्तथा हि दर्शयति । (*vaiṣamyanairghṛṇye na sāpekṣatvāttathā hi darśayati |*)
+
+(Bra. Sū. 2-1-34)
+
+In creation or in dissolution the Lord has no partiality and no cruelty. He sends forth each conscious being again into the world according to its nature and in accordance with its action. And like a spider he envelops everything with the net of his own māyā.
+
+यथोर्णनाभिः सृजते गृह्णते च यथा पृथिव्यामोषधयः संभवंति । यथा सतः पुरुषात्केशलोमानि तथाक्षरात् संभवतीह विश्वं ॥ (*yathorṇanābhiḥ sṛjate gṛhṇate ca yathā pṛthivyāmoṣadhayaḥ saṃbhavaṃti | yathā sataḥ puruṣātkeśalomāni tathākṣarāt saṃbhavatīha viśvaṃ ‖*)
+
+(Mu. U. 1-1-7)
+
+### Printed p. 816
+
+Just as herbs and creepers spread on the earth, just as a spider spreads its thread, just as hairs are produced from the body of a man and spread, so all things are produced from the Lord and spread in the world.
+
+शत्कर्म कृत्वा विनिवर्त्य भूयस्तत्वस्य तत्वेन समेत्य योगं । एकेन द्वाभ्यां त्रिभिरष्टभिर्वा कालेन चैवात्मगुणैश्च सूक्ष्मैः ॥ (*śatkarma kṛtvā vinivartya bhūyastatvasya tatvena sametya yogaṃ | ekena dvābhyāṃ tribhiraṣṭabhirvā kālena caivātmaguṇaiśca sūkṣmaiḥ ‖*)
+
+(Śve. U. 6-3)
+
+आरभ्य कर्माणि गुणान्वितानि भावांश्च सर्वान् विनियोजयेद्यः ॥ (*ārabhya karmāṇi guṇānvitāni bhāvāṃśca sarvān viniyojayedyaḥ ‖*)
+
+(Śve. U. 6-4)
+
+After producing all the beings of the world so that they attain a state in accordance with their actions, he again unites everything with a body endowed with the respective qualities of the self, so that they obtain the fruit that fits their own action. Having joined all conscious beings with the qualities of nature, he alone stands apart, farther than the world. Therefore he is praised as आदिः स संयोगनिमित्तहेतुः (*ādiḥ sa saṃyoganimittahetuḥ*), he is the cause of the union of the conscious and the unconscious (6-5).
+
+Having joined all the beings produced with action in accordance with their own impressions, he alone withdrew farther than the world (विनिवर्त्य भूयः (*vinivartya bhūyaḥ*), त्रिपादूर्ध्व उद्वैत् (*tripādūrdhva udvait*)). Then there is room for the question: does it not follow that the Lord is one thing and the world produced another? The purpose of the sentence पादोऽस्येहाभवत्पुनः (*pādo 'syehābhavatpunaḥ*) is to show that the world produced is not different from the Lord. The idea that he himself entered into the world produced by himself is read again in many places in the Ṛk-saṃhitā, the Brāhmaṇas and so on. Here only one or two examples are given according to the context. The idea expressed in hymns 10-2, 10-81 and 82 of the Ṛk-saṃhitā is stated in the respective sections.
+
+हिरण्यगर्भः समवर्तताग्रे भूतस्य जातः पतिरेक आसीत् । स दाधार पृथिवीं द्यामुतेमां कस्मै देवाय हविषा विधेम ॥ (*hiraṇyagarbhaḥ samavartatāgre bhūtasya jātaḥ patireka āsīt | sa dādhāra pṛthivīṃ dyāmutemāṃ kasmai devāya haviṣā vidhema ‖*)
+
+(Ṛ. Saṃ. 10-121-1)
+
+When creation began, Hiraṇyagarbha was produced first. He is the lord of all the beings produced. He held all heaven and earth in himself. Heaven and earth are not different from him. The expansion of his nature is the whole world. How? This Hiraṇyagarbha is Prajāpati.
+
+प्रजापते न त्वदेतान्यन्नो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहुमस्तन्नो अस्तु वयं स्याम पतयो रयाणां ॥ (*prajāpate na tvadetānyanno viśvā jātāni pari tā babhūva | yatkāmāste juhumastanno astu vayaṃ syāma patayo rayāṇāṃ ‖*)
+
+(Ṛ. Saṃ. 10-121-10)
+
+### Printed p. 817
+
+Here the identity of Prajāpati and Hiraṇyagarbha is shown. The Hiraṇyagarbha praised in the 1st Ṛk of the 121st hymn of this same maṇḍala is described here as Prajāpati. The Śatapatha-brāhmaṇa states in this way that Prajāpati, in the form of the Supreme Person, was produced in the form of an egg and became the root of the world:
+
+स एव पुरुषः प्रजापतिरभवत् (*sa eva puruṣaḥ prajāpatirabhavat*) … स वै सप्तपुरुषो भवति (*sa vai saptapuruṣo bhavati*) … सोऽयं पुरुषः प्रजापतिरकामयत । भूयान्तस्यां प्रजायेयेति । (*so 'yaṃ puruṣaḥ prajāpatirakāmayata | bhūyāntasyāṃ prajāyeyeti |*) … सोऽपोऽसृजत (*so 'po 'sṛjata*) … सोऽकामयत । अभ्योऽद्भोऽधि प्रजायेयेति सोऽनया त्रय्या विद्यया सहायः प्राविशत्तत अण्णग्ं समवर्तत । (*so 'kāmayata | abhyo 'dbho 'dhi prajāyeyeti so 'nayā trayyā vidyayā sahāyaḥ prāviśattata aṇṇagṃ samavartata |*) … ता वा एता नवसृष्टयः (*tā vā etā navasṛṣṭayaḥ*) …
+
+(Ka. Chā. 6-1-1-1 to 15) **NOTE**
+
+The Person Prajāpati, wishing to manifest the three Vedas and to extend his own nature, pervaded everything in the form of speech. Because he pervaded everywhere, it received the name āpaḥ. This water also became known as vāri. Wishing to bring forth creatures again with the help of the threefold knowledge on the basis of this water, he entered into the water. Then an egg arose. From this egg the Supreme Brahman was born. The creation of Brahman is prior to that of the Person. Thus the Creator was produced in himself, by the help of his own creation. This same matter, which the Taittirīya-āraṇyaka states by आत्मनात्मानं विधाय । तदेवानु प्राविशत् (*ātmanātmānaṃ vidhāya | tadevānu prāviśat*), will be explained later, where the order of creation of heaven and earth is stated. That the unique principle, having changed into the form of the cosmic egg, pervades in many forms is explained at length in the Upaniṣads.
+
+But in one way this description of creation appears to be opposed to the principle taught in the Upaniṣads. There is no principle other than the Self. The teaching that knowledge of the Self is all knowledge does not agree with the description of the manifold states of the world. Therefore a creation other than the Self is impossible. But the outer principle also is of the nature of truth. The variety of the outer principles also is of the nature of truth. This being so, it is the view of the authors of the Upaniṣads that the variety of the world cannot be called untrue. Moreover the Brahmasūtra also, foreseeing many prima facie views on this matter, has shown the fitting answer. For example:
+
+The aphorism असदिति चेन्न; प्रतिषेधमात्रत्वात् (*asaditi cenna; pratiṣedhamātratvāt*) (Bra. Sū. Ni. 1-7) **NOTE** also continues this same idea, and the aphorism तदनन्यत्वमारंभणशब्दादिभ्यः (*tadananyatvamāraṃbhaṇaśabdādibhyaḥ*) (Bra. Sū. 2-1-14), as
+
 ---
 
-**Progress note:** Done through printed p. 809. Mandala 10 Sukta 90 Rk 4 commentary (Mandukya states), Rk 5 text
+**Progress note:** Done through printed p. 817. Mandala 10 Sukta 90 Rk 5 bhashya, word meanings and special topics on creation and dissolution
