@@ -38223,6 +38223,267 @@ Metre: Triṣṭubh
 
 > देवाः । कपोतः । इषितः । यत् । इच्छन् । दूतः । निःयत्याः । इदं । आजगाम ।
 
+### Printed p. 1117
+
+> तस्मै । अर्चाम । कृणवाम । निःकृतिं । शं । नः । अस्तु । द्विपदे । शं । चतुःपदे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः इषितः प्राप्तो निर्ऋत्याः पापदेवताया दूतोऽनुचरः कपोतो
+> यद्बाधनमिच्छन्नभिलषन्निदमस्मदीयं गृहमाजगाम प्राप्नोत् तस्मै बाधनाय
+> तद्बाधननिवृत्त्यर्थमर्चाम । युष्मान्हविषा पूजयाम । ततो निष्कृतिं कपोतप्रवेशजन्यस्य दोषस्य परिहृतिं कृणवाम । अनेन हविर्दानेन करवाम । अतो
+> नोऽस्माकं द्विपदे पुत्राय शं सुखमस्तु चतुष्पदे गवाश्वप्रभृतये च शं
+> सुखमस्तु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the gods. The pigeon (कपोतः (*kapotaḥ*)) has been sent (इषितः (*iṣitaḥ*), "arrived") as the messenger, the attendant, of Nirṛti, the goddess of evil. Wishing to afflict us, it has come to this house of ours. To remove that affliction we worship you with the oblation. Then we shall perform the expiation (निष्कृतिं (*niṣkṛtiṃ*)), the removal of the fault arising from the pigeon's entry, by this offering of the oblation. Therefore let there be well-being (शं (*śaṃ*)) for our biped (द्विपदे (*dvipade*)), that is, for our son, and well-being for our quadruped (चतुष्पदे (*catuṣpade*)), that is, for cows, horses and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- इषितः (*iṣitaḥ*)—who has come here
+- निर्यत्याः (*niryatyāḥ*)—of Nirṛti, the goddess of evil (of death)
+- दूतः (*dūtaḥ*)—who is the attendant
+- कपोतः (*kapotaḥ*)—this pigeon
+- यत् (*yat*)—what affliction to us
+- इच्छॆन् (*icchèn*)—wishing to cause
+- इदं (*idaṃ*)—to our house
+- आजगाम (*ājagāma*)—has come
+- तस्मै (*tasmai*)—for the removal of that affliction
+- अर्चाम (*arcāma*)—we worship you with the oblation (afterwards)
+- निष्कृतिं (*niṣkṛtiṃ*)—the expiation, for the removal of the fault arising from the pigeon's entry
+- कृणवाम (*kṛṇavāma*)—let us perform it by oblations and the like (by that)
+- नः (*naḥ*)—our
+- द्विपदे (*dvipade*)—for sons and the like
+- शं अस्तु (*śaṃ astu*)—let there be happiness
+- चतुष्पदे (*catuṣpade*)—for the four-footed beasts, cows and the rest
+- शं (*śaṃ*)—let there be happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, this pigeon, the messenger of Nirṛti, the goddess of evil, has now come here, wishing to cause us some affliction, and has come even to our house. To be rid of that affliction we worship you with oblations and the like. Further, to remove the fault arising from the pigeon's entry, we shall also perform an expiation with oblations and the like. Thereby may no harm befall our sons and the rest, nor our cows, horses and other animals, but may there be happiness.
+
+##### English translation
+O gods, let us worship for that, desiring which the pigeon sent as Nirriti's messenger, has come to this (ceremony); let us make atonement, may prosperity be given to our bipeds and quadrupeds.
+
+### Printed p. 1118
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शि॒वः क॒पोत॑ इषि॒तो नो॑ अस्त्वना॒गा दे॑वाः शकु॒नो गृ॒हेषु॑ ।  
+> अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो  
+> वृणक्तु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिवः । कपोतः । इषितः । नः । अस्तु । अनागाः । देवाः । शकुनः । गृहेषु ।  
+> अग्निः । हि । विप्रः । जुषतां । हविः । नः । परि । हेतिः । पक्षिणी । नः । वृणक्तु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः नोऽस्माकं गृहेष्टिषितः कपोताख्यः शकुनः पक्षी शिवः सुखकरोऽनागा अपापहेतुश्चास्तु । हि यस्माद्विप्रो मेधाव्यग्निर्नोऽस्माकं हविर्युष्मभ्यं
+> परिकल्पितं जुषतां जुषते अतो युष्मत्प्रसादात्पक्षिणी पक्षोपेता हेतिर्हननहेतुः
+> कपोतो नोऽस्मान्परि वृणक्तु । अस्मान्परित्यजतु । मा बाधतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O gods, may the bird called the pigeon (कपोताख्यः शकुनः (*kapotākhyaḥ śakunaḥ*)), which has come into our houses, be auspicious (शिवः (*śivaḥ*)), a bringer of happiness, and be faultless (अनागाः (*anāgāḥ*)), a cause of no sin. Since the wise Agni (विप्रः (*vipraḥ*), *medhāvī*) accepts our oblation prepared for you, therefore by your favour let the winged weapon (हेतिः (*hetiḥ*), the cause of killing), the pigeon, avoid us (परि वृणक्तु (*pari vṛṇaktu*)): let it leave us, that is, not trouble us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- नः (*naḥ*)—our
+- गृहेषु (*gṛheṣu*)—in the houses
+- इषितः (*iṣitaḥ*)—which has come and settled
+- कपोतः शकुनः (*kapotaḥ śakunaḥ*)—this bird called the pigeon
+- शिवः अस्तु (*śivaḥ astu*)—let it be auspicious (let it bring only good) and
+- अनागाः (*anāgāḥ*)—let it be not a cause of sin
+- हि (*hi*)—therefore
+- विप्र (*vipra*)—the wise
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—our
+- हविः (*haviḥ*)—oblation
+- जुषतां (*juṣatāṃ*)—let him enjoy (and by your grace)
+- पक्षिणी (*pakṣiṇī*)—winged
+- हेति (*heti*)—this pigeon, which has come to kill us
+- नः (*naḥ*)—us
+- परि वृणक्तु (*pari vṛṇaktu*)—let it abandon and go away
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, may this pigeon that has come and settled in our houses do us no ill but only good. May it also cause no sin to befall us. Therefore may the wise Agni enjoy the oblation we offer. May this wicked winged pigeon, which has come to kill us, leave us and go away.
+
+### Printed p. 1119
+
+##### English translation
+May the bird sent to our dwellings, the pigeon, be ausqicious, O gods and void of offence, so that the wise Agni may approve of our oblation, and the winged weapon (of mischief) depart from us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्यां प॒दं कृ॑णुते अग्नि॒धाने॑ ।  
+> शं नो॒ गोभ्य॑श्च॒ पुरु॑षेभ्यश्चास्तु॒ मा नो॑ हिंसीदि॒ह दे॑वाः  ॒॑
+> कपोतः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हेतिः । पक्षिणी । न । दभाति । अस्मान् । आष्ट्यां । पदं । कृणुते । अग्निधाने ।  
+> शं । नः । गोभ्यः । च । पुरुषेभ्यः । च । अस्तु । मा । नः । हिंसीत् । इह । देवाः ।  
+> कपोतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पक्षिणी पक्षोपेता हेतिर्हननहेतुः कपोतोऽस्मान्न दभाति । न हिनस्तु ।
+> अष्ट्यां व्याप्तायामरण्यान्यामग्निधाने । अग्निर्निधीयतेऽस्मिन्नित्यग्निसहिते प्रदेशे
+> पदं स्थानं कृणुते । करोति ! तत्रैव प्रदेशे निवसत्वित्यर्थः। यद्वा! अश्नंत्यस्मिन्नित्याष्ट्री
+> पचनशाला ! तस्यां। अग्निधाने यत्र पचनाग्निर्निधीयते तस्मिन्द्रदेशे पदं पादनिधानं
+> कृणुते। करोति । तद्देतुको बाधो नोऽस्माकं न भवत्वित्यर्थः । अपि च नोऽस्माकं
+> गोभ्यश्च पुरुषेभ्यश्च शं सुखं शंसनीयानां दोषाणां शांतिर्वास्तु । भवतु । हे
+> देवाः इहास्मिन्गृहे कपोतो नोऽस्मान्मा हिंसीत् । युद्धदनुग्रहान्मा बाधतां ॥
+
+##### Gist of the bhāṣya
+
+The winged weapon (हेतिः (*hetiḥ*), the cause of killing), the pigeon, must not harm (न दभाति (*na dabhāti*)) us. In the आष्ट्यां (*āṣṭyāṃ*), the pervaded, another forest-region, at the अग्निधाने (*agnidhāne*), the place where Agni is deposited (that is, a place with fire), it sets its foot (पदं कृणुते (*padaṃ kṛṇute*)); the meaning is that it should dwell in that very spot. Or else: *āṣṭrī* is the cooking-hall, where people eat; at the अग्निधाने (*agnidhāne*) in it, where the cooking-fire is deposited, in that place it sets its foot. May no affliction arising from that come upon us. Moreover, let there be well-being (शं (*śaṃ*)) for our cattle and our people, or else the quieting of the blameworthy faults. O gods, here in this house let the pigeon not harm us; by your favour let it not afflict us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हेतिः (*hetiḥ*)—come to kill us
+- पक्षिणी (*pakṣiṇī*)—this winged pigeon
+- अस्मान् (*asmān*)—us
+- न दभाति (*na dabhāti*)—let it not harm
+- आष्ट्यां (*āṣṭyāṃ*)—in this forest (in the hermitage)
+- अग्निधाने (*agnidhāne*)—in the fire-pit (this pigeon)
+- पदं कृणुते (*padaṃ kṛṇute*)—sets its foot
+- नः (*naḥ*)—to us
+- *gobhyaḥ
+
+### Printed p. 1120
+
+ca*—and from the cows
+- पुरुषेभ्यः च (*puruṣebhyaḥ ca*)—and from the men
+- शं अस्तु (*śaṃ astu*)—let there be happiness
+- देवाः (*devāḥ*)—O gods (by your grace)
+- इह (*iha*)—in this house of ours
+- कपोतः (*kapotaḥ*)—this pigeon
+- नः (*naḥ*)—us
+- मा हिंसीत् (*mā hiṃsīt*)—let it not harm
+
+##### भावार्थ (Bhāvārtha)
+
+May this winged pigeon, which has come to kill us, not harm us. In the middle of this forest (in our hermitage), in this fire-pit, this wicked pigeon sets its foot. May no ill come to us from this, but only happiness from our cows and our men. May this pigeon in this house of ours not harm us.
+
+##### English translation
+May the winged weapon (of mischief) do us no harm; he takes his place upon the touchwood, the seat of Agni; may prosperity attend our cattle and our people, let not the pigon, gods, do us harm iii this (dwelling)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदुलू॑को॒ वद॑ति मो॒घमे॒तद्यत्क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑।  
+> यस्य॑ दू॒तः प्रहि॑त ए॒ष ए॒तत्तस्मै॑ य॒माय॒ नमो॑ अस्तु  ॒॑
+> मृत्यवे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । उलूकः । वदति । मोघं । एतत् । यत् । कपोतः । पदं । अग्नौ । कृणोति ।  
+> यस्य । दूतः । प्रहितः । एषः । एतत् । तस्मै । यमाय । नमः । अस्तु । मृत्यवे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उलूको घूकसंज्ञः पक्षी यदशोभनं वदति ब्रवीति आत्मीयेन शब्देन
+> सूचयति एतन्मोघं निष्पलमस्तु । कपोतश्चाग्नावग्निमति गृहमध्यॆ यत्पदं कृणोति
+> करोति एतदपि मोघं निर्वीर्यमस्तु । प्रहितः प्रेषितः एष कपोतो यस्य
+> स्वामिनो दूतोऽनुचरो भवति तस्मै नाम मृत्यवे मारयित्रे यमाय्कॆतन्नमः
+> प्रणामोऽस्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+What the owl (उलूकः (*ulūkaḥ*), the bird called घूक (*ghūka*)) utters, the inauspicious thing it says, announcing it by its own cry, let that be in vain (मोघं (*moghaṃ*)), fruitless. And that the pigeon sets its foot in the fire, in the midst of a house that has a fire, let that too be in vain, powerless. This pigeon has been sent (प्रहितः (*prahitaḥ*)) as the messenger, the attendant, of a certain master; to him, to Yama, to Death (मृत्यवे (*mṛtyave*)), the killer, let this homage (नमः (*namaḥ*)) be offered.
+
+### Printed p. 1121
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उलूकः (*ulūkaḥ*)—the owl
+- यत् (*yat*)—with whatever ill-omened evil cry
+- वदति (*vadati*)—it hoots
+- एतत् (*etat*)—that evil cry of its
+- मोघं (*moghaṃ*)—let it be in vain
+- कपोतः (*kapotaḥ*)—this pigeon
+- यत् पदं (*yat padaṃ*)—whatever foot of its
+- अग्नौ कृणोति (*agnau kṛṇoti*)—it places in the fire-pit, that too be in vain
+- प्रहितः (*prahitaḥ*)—sent here
+- एषः (*eṣaḥ*)—this pigeon
+- यस्य (*yasya*)—of whatever master
+- दूतः (*dūtaḥ*)—it is the attendant
+- तस्मै मृत्युवे (*tasmai mṛtyuve*)—to that Yama, the god of death
+- एतत् नमः (*etat namaḥ*)—this homage
+- अस्तु (*astu*)—let it be accepted
+
+##### भावार्थ (Bhāvārtha)
+
+May the owl's hooting with its evil cry, as an ill omen, be in vain. Likewise may it be in vain that this pigeon sets its foot in the fire-pit to do harm. To Yama, the god of death, whose messenger this pigeon sent here is, let this homage be accepted (be offered).
+
+##### English translation
+May that which the owl shrieks be in vain, (and may it be in vain) that the pigeon takes his place upon the fire; may this reverence be paid to Yama, (the god of) Death, as whose messenger he is sent.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मदं॑तः॒ परि॒ गां  ॑
+> नयध्वं ।  
+> सं॒यो॒पयं॑तो दुरि॒तानि॒ विश्वा॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑ता॒त्पति॑ष्ठः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यचा । कपोतं । नुदत । प्रनोदं । इषं । मदंतः । परि । गां । नयध्वं ।  
+> संयोपयंतः । दुःइतानि । विश्वा । हित्वा । नः । ऊर्जं । प्र । पतात् । पतिष्ठः ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 1122
+
+> हे देवाः ऋचा मंत्रेण स्तूयमानाः संतो यूयं प्रणोदं प्रकर्षण
+> नोदनीयं बहिष्कर्तव्यं कपोतं दक्षिणं नुदत । अस्माद्दहात्प्रेरयत । निर्गमयत । तथा मदंतोऽस्माभिर्दत्तैर्हविर्भिर्माद्यंत इषमन्नं गां च परि णयध्वं ।
+> परितोऽस्मभ्यं प्रापयत । किं कुर्वंतः । विश्वा सर्वाणि दुरितानि कपोतोपहतिजन्यानि दोषजातानि संयोपयंतोऽदृश्यानि कुर्वंतः । अपि च पतिष्ठोऽतिशयेन
+> पतिता शीघ्रोत्पातकः कपोतो नोऽस्माकमूर्जमन्नं हित्वा परित्यज्य प्र पतात् ।
+> प्रकर्षण पततु । पक्षाभ्यामुत्पततु ॥
+
+##### Gist of the bhāṣya
+
+O gods, praised by this Ṛk, the mantra, drive away (नुदत (*nudata*)) the pigeon, which is to be driven out with force (प्रणोदं (*praṇodaṃ*)), to be expelled; send it out from this house and make it go out. And being exhilarated (मदंतः (*madaṃtaḥ*)) by the oblations we have given, bring us (परि णयध्वं (*pari ṇayadhvaṃ*)) food (इषं (*iṣaṃ*)) and a cow (गां (*gāṃ*)), conveying them to us from all sides. Doing what? Making invisible (संयोपयंतः (*saṃyopayaṃtaḥ*)) all the evils (दुरितानि (*duritāni*)), all the faults produced by the pigeon's visitation. Moreover, may the pigeon, पतिष्ठः (*patiṣṭhaḥ*), the swiftest flier, quick to rise, abandon our food (ऊर्जं (*ūrjaṃ*)) and fly away (प्र पतात् (*pra patāt*)); let it fly off on its wings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) ऋचा (*ṛcā*)—you who are praised by the mantra
+- प्रणोदं (*praṇodaṃ*)—which greatly torments us
+- कपोतं (*kapotaṃ*)—this pigeon
+- नुदत (*nudata*)—urge it to leave our house and drive it away (likewise)
+- मदंतः (*madaṃtaḥ*)—gladdened by the oblations and the like that we have offered
+- विश्वा (*viśvā*)—all
+- दुरितानि (*duritāni*)—the evils that may arise from the pigeon's presence
+- संयोपयंतः (*saṃyopayaṃtaḥ*)—warding them off
+- इषं (*iṣaṃ*)—food
+- गां (*gāṃ*)—and a cow
+- परि नयध्वं (*pari nayadhvaṃ*)—provide for us
+- पतिष्ठः (*patiṣṭhaḥ*)—this pigeon that can fly swiftly
+- नः (*naḥ*)—our
+- ऊर्जं (*ūrjaṃ*)—food and nourishment
+- हित्वा (*hitvā*)—leaving (abandoning)
+- प्र पतात् (*pra patāt*)—let it quickly fly away
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, praised by the mantra, urge this pigeon, which torments us greatly, to leave our house and drive it away. And you, gladdened by the oblations and the like that we offer, warding off all the faults arising from the pigeon's entry, provide us with food and with a cow. May this swift-flying pigeon abandon our food and quickly fly away.
+
+##### English translation
+(Praised) by our hymn, O gods, drive out the pigeon who deserves to be driven out, exhilarated (by our oblation), bring us food and cattle, dissi-pating all our misfortunes; abandoning our food, may the swift (pigeon) fly away.
+
 ---
 
-**Progress note:** Done through printed p. 1116. pp. 1111-1116 (batch API)
+**Progress note:** Done through printed p. 1122. pp. 1117-1122 (batch API)
