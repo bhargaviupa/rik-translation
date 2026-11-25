@@ -24391,6 +24391,160 @@ These animals are of two kinds, domestic and wild. Both kinds are means for man 
 
 श्वेतो रश्मिः परि सर्वं बभूव । सुवन्मह्यं पशून् विश्वरूपान् ॥ (*śveto raśmiḥ pari sarvaṃ babhūva | suvanmahyaṃ paśūn viśvarūpān ‖*) (Kṛ. Ā. 3-11)**NOTE**
 
+### Printed p. 895
+
+The prayer is: may the white ray of Āditya grant me the cattle that are of universal forms. The cattle of universal forms are also of two kinds.
+
+ये ग्राम्याः पशवो विश्वरूपाः । विरूपास्संतोबहुधैकरूपाः । तेषाग्ं सप्तानामिह रंतिरस्तु ॥ (*ye grāmyāḥ paśavo viśvarūpāḥ | virūpāssaṃtobahudhaikarūpāḥ | teṣāgṃ saptānāmiha raṃtirastu ‖*) (Tri. A. 3-11)**NOTE**
+
+Although there are the varieties cow, horse, goat, sheep, man, ass and camel, all of them have one and the same distinctive character. Therefore एकरूपाः (*ekarūpāḥ*) stands in the text. Secondly:
+
+य अरण्याः पशवो विश्वरूपाः । विरूपास्संतोबहुधैकरूपाः ॥ तेषाग्ं सप्तानामिह रंतिरस्तु ॥ (*ya araṇyāḥ paśavo viśvarūpāḥ | virūpāssaṃtobahudhaikarūpāḥ ‖ teṣāgṃ saptānāmiha raṃtirastu ‖*) (Tai. Ā. 3-11)
+
+The cloven-hoofed animal, the beast of prey, the bird, the reptile, the elephant, the monkey and the nādeya (that which belongs to the river) are these seven wild animals. Although these too have different forms, all have one and the same special quality. There is a manner of praying, beginning "may our happiness grow with these seven creatures". It is praised that Prajāpati produced these two classes of creatures as the fruit of the sacrifice. What the order of creation of all these creatures is will be stated later among the special topics.
+
+**Main purport**
+
+On the word सर्वहुतः (*sarvahutaḥ*) Sāyaṇa explains: सर्वात्मकः पुरुषः यस्मिन् यज्ञे हूयते सोऽयं सर्वहुत् । (*sarvātmakaḥ puruṣaḥ yasmin yajñe hūyate so 'yaṃ sarvahut |*). That is, the sacrifice in which the Supreme Person, who is the Self of all, is invoked and worshipped is called सर्वहुत् (*sarvahut*). Or else it may be explained as the mental sacrifice performed by the gods, regarding the Supreme Self, who contains all, that is, this whole world of the moving and the unmoving, as the substance of the offering. This word is read also in the next Ṛk; there too the meaning is the same.
+
+संभृतं (*saṃbhṛtaṃ*) Pṛṣadājya: Sāyaṇa's explanation is that the Pṛṣadājya is ghee mixed with curds, दधिमिश्रमाज्यं (*dadhimiśramājyaṃ*). It may also be understood as two separate things, curds and ghee. Bhaṭṭa Bhāskara explains this word:
+
+पृषत् विचित्रं आज्यं पश्वादिभावेन पानीयं पृषदाज्यं अपां परिणामात्मा द्रव्यविशेषः । पशव्यः अजस्यैव अवस्थाविशेष इत्येके । (*pṛṣat vicitraṃ ājyaṃ paśvādibhāvena pānīyaṃ pṛṣadājyaṃ apāṃ pariṇāmātmā dravyaviśeṣaḥ | paśavyaḥ ajasyaiva avasthāviśeṣa ityeke |*)
+
+### Printed p. 896
+
+पृषत् (*pṛṣat*) means variegated; आज्यं (*ājyaṃ*) is ghee. What is meant by ghee being variegated? The ghee produced from the milk of the various kinds of cattle is of various kinds. The ghee produced from cow's milk, the ghee produced from buffalo's milk, the ghee produced from goat's milk and so on differ in colour and qualities; therefore it is called variegated, or of many kinds. Or else the special state of milk (curds) may be called पृषत् (*pṛṣat*). Then Pṛṣadājya means ghee mixed with curds. The purport is that such an oblation substance in the form of Pṛṣadājya was produced from that sacrifice performed by the gods.
+
+पशूंस्तांश्चक्रे (*paśūṃstāṃścakre*) Vāyavya: in the same way many well-known cattle came into being from that sacrifice. Here the word वायव्यान् (*vāyavyān*) is an adjective of the word पशून् (*paśūn*). What is the relation between Vāyu and cattle? On this matter the commentator has quoted this Brāhmaṇa sentence:
+
+वायवःस्थेत्याह । वायुर्वा अंतरिक्षस्याध्यक्षाः । अंतरिक्षदेवत्याः बलु वै पशवः । वायव एवैनान्परिददाति । (*vāyavaḥsthetyāha | vāyurvā aṃtarikṣasyādhyakṣāḥ | aṃtarikṣadevatyāḥ balu vai paśavaḥ | vāyava evainānparidadāti |*) (Trai. Batri. 3-2-1-3)**NOTE**
+
+That is, the deities who dwell in the atmosphere are the presiding deities of cattle. Since Vāyu is the chief deity of the atmosphere, it is said here वायव्यान् (*vāyavyān*) पशून् (*paśūn*).
+
+अरण्यान् (*araṇyān*) Grāmya: cattle are of two kinds. Cattle such as the deer, which roam freely in the forest, are called wild cattle, and cattle such as cows and horses, which live in villages and the like in the company of men and are nourished by them, are called domestic cattle; this is the usage. Commonly in many places in the Vedic mantras it is said सप्त ग्राम्याः पशवः सप्तारण्याः (*sapta grāmyāḥ paśavaḥ saptāraṇyāḥ*). The seven domestic animals are गोश्वाजाविपुरुषगर्दभोष्प्राः (*gośvājāvipuruṣagardabhoṣprāḥ*) (Bhaṭṭa Bhā.): cows, horses, goats, sheep, man, asses and camels; these seven are the domestic animals. Since the number of wild animals is very great, it is unnecessary to explain them all here. In the list of animals stated for the animal offering in the Aśvamedha sacrifice in the fifth Kāṇḍa of the Taittirīya Saṃhitā, the names of about 81 animals are given in the last Anuvākas 11-24 and 18-23 of the 5. 6th Prapāṭhaka.**NOTE**
+
+### Printed p. 897
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्जिरे ।  
+> छंदा॑सि जज्जिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मात् । यज्ञात् । सर्वहुतः । ऋचः । सामानि । जज्जिरे ।  
+> छंदांसि । जज्ञिरे । तस्मात् । यजुः । तस्मात् । अजायत ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सर्वहुतस्तस्मात्पूर्वोक्ताद्यज्ञादृचः सामानि जज्जिरे । उत्पन्नाः । तस्माद्यज्ञा
+> च्छंदांसि गायत्रादीनि जज्जिरे । तस्माद्यज्ञाद्यजुरप्यजायत ॥
+
+##### Gist of the bhāṣya
+
+From that previously mentioned sacrifice, called Sarvahuta, the Ṛks and the Sāmans were born, that is, came into being. From that sacrifice the metres, Gāyatrī and the rest, were born. From that sacrifice the Yajus also was born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सर्वहुतः (*sarvahutaḥ*)—having as its oblation the Virāṭ Person, who is the Self of all
+- तस्मात् यज्ञात् (*tasmāt yajñāt*)—from that sacrifice
+- यजः (*yajaḥ*)—mantras**NOTE**
+- सामानि (*sāmāni*)—the Sāma mantras
+- जज्जिरे (*jajjire*)—were born
+- तस्मात् (*tasmāt*)—from it itself
+- छंदांसि (*chaṃdāṃsi*)—the metres, Gāyatrī and the rest
+- जज्जिरे (*jajjire*)—were born
+- तस्मात् (*tasmāt*)—from that sacrifice itself
+- यजुः (*yajuḥ*)—the Yajus
+- अजायत (*ajāyata*)—was born
+
+##### भावार्थ (Bhāvārtha)
+
+From that sacrifice which has as its oblation the Virāṭ Person, the Self of all, the Ṛk mantras and the Sāmans were born. From it the metres, Gāyatrī and the rest, were also born. From that sacrifice the Yajus also was born.
+
+##### English translation
+From that victim, in whom the universal oblation was offered, the Richas and Samans were produced ; from him the metres were born ; from him the Yajus was born-**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+सर्वहुतः (*sarvahutaḥ*) means: from the sacrifice in which the Person, the Self of all, was himself offered as the oblation. Here the Puruṣamedha is indicated. The derivation of the word for Person was given earlier.
+
+### Printed p. 898
+
+Whatever things there are in the universe, all of them are food for the Person who is the sacrifice. That is why it is named Puruṣamedha. This Ṛk states that from this sacrifice, described by the epithet सर्वहुतः (*sarvahutaḥ*), the Vedas beginning with the Ṛk and the metres beginning with Gāyatrī were born. Having stated the identity of sacrifice and the Person, it was stated earlier on the basis of scriptural sentences that the parts of the sacrifice and the limbs of the Person are not different. What the relation is between the Vedas beginning with the Ṛk and the sacrifice, or the Person who is of the form of sacrifice, must be examined here. In some places the relation of cause and effect between the two is stated. In some other places the relation of part and whole is stated; that is, the purport is that the Ṛks and the rest are limbs of the sacrifice, or of the Person who is of the form of sacrifice.
+
+The scriptural sentences that state the identity, or the relation of part and whole, between the Vedas beginning with the Ṛk and the Supreme Person are these:
+
+अथ य एषोऽंतरक्षिणि पुरुषो दृश्यते सैवर्कासम तदुक्कं तद्यजुस्तद्ब्रह्म तस्यैतस्य तदेव रूपं यदमुष्य रूपं यावमुष्य गोष्टौ ता गोष्ठौ यन्नाम तन्नाम ॥ (*atha ya eṣo 'ṃtarakṣiṇi puruṣo dṛśyate saivarkāsama tadukkaṃ tadyajustadbrahma tasyaitasya tadeva rūpaṃ yadamuṣya rūpaṃ yāvamuṣya goṣṭau tā goṣṭhau yannāma tannāma ‖*) (Bhā. U. 1-7-5)**NOTE**
+
+This Person who is in the interior of the eye is the Ṛgveda, he is the Sāmaveda, he is the Uktha, he is the Yajurveda. And he is the Brahman, of the form of mantra. The form of this Person and the form of the Supreme Person who is within Āditya are one and the same. The purport is that the two are not different. Moreover,
+
+The Supreme Person whom in many places the scripture praises as the Udgītha, the limbs of that Udgītha are the Vedas beginning with the Ṛk:
+
+सामवेद एवोद्यजुर्वेदो गीर्युग्वेदस्थं ॥ (*sāmaveda evodyajurvedo gīryugvedasthaṃ ‖*) (Bhā. U. 1-3-7)
+
+Of the limbs of the Udgītha, उत् (*ut*) is the Sāmaveda; गी (*gī*) is the Yajurveda; and थं (*thaṃ*) is the Ṛgveda. That is, they are the limbs of the Supreme Person, who is of the nature of the Udgītha. In this way, in many other contexts also the identity has been shown.
+
+The scriptural sentences that describe the Vedas beginning with the Ṛk as masses of speech produced from the Supreme Person:
+
+प्रजापतिर्लोकानभ्यतपत्तेषां तप्यमानानां रसान्प्रावृहदग्निं पृथिव्या वायुमंतरिक्षादादित्यं दिवः ॥ (*prajāpatirlokānabhyatapatteṣāṃ tapyamānānāṃ rasānprāvṛhadagniṃ pṛthivyā vāyumaṃtarikṣādādityaṃ divaḥ ‖*) (Bhā.U. 4-17-1)
+
+### Printed p. 899
+
+Prajāpati meditated, becoming one with the worlds he had created. As the fruit of that meditation he brought to light their essences in the form of Agni and the rest. He produced Agni from the earth, Vāyu from the atmosphere and Āditya from the world of heaven, and made them shine. Afterwards:
+
+स एतास्तिस्रो देवता अभ्यतपत्तासां तप्यमानानां रसान्नावृहदग्नेऋचो वायोर्यजूग्ंषि सामान्यादित्यात् ॥ (*sa etāstisro devatā abhyatapattāsāṃ tapyamānānāṃ rasānnāvṛhadagneṛco vāyoryajūgṃṣi sāmānyādityāt ‖*) (Chā. U. 4-17-2)
+
+He meditated, becoming one with these three deities. As the fruit of it he pressed out their essence. From Agni he brought to light the Ṛgveda, from Vāyu the Yajurveda and from Āditya the Sāmaveda. These three Vedas themselves became manifest in the form of the Vyāhṛtis beginning with Bhūḥ. The most excellent essence of the Vyāhṛtis beginning with Bhūḥ and of the Vedas beginning with the Ṛk is the Praṇava.
+
+तया वाचा तेनात्मनेदं सर्वमसृजत यदिदं किंचर्चोयुजूग्ंषि सामानि छंदांसि यज्ञान् प्रजाः पशून् ॥ (*tayā vācā tenātmanedaṃ sarvamasṛjata yadidaṃ kiṃcarcoyujūgṃṣi sāmāni chaṃdāṃsi yajñān prajāḥ paśūn ‖*) (Bṛ. U. 1-2-5)
+
+By means of the speech produced from himself, Prajāpati produced everything that is in the world. What these are: the Ṛgveda, the Yajurveda, the Sāmaveda, the metres, sacrifice, the creatures, the cattle, and all else of the kind are included.
+
+The passages that state the identity of the parts of sacrifice with the Vedas beginning with the Ṛk:
+
+तस्य वा एतास्याग्नेः । वागेवोपनिषद्वाचा हि चीयत ऋचायजुषा सामेति नु दैव्याथ यन्मानुष्या वाचा हीदं कुरुत ॥ (*tasya vā etāsyāgneḥ | vāgevopaniṣadvācā hi cīyata ṛcāyajuṣā sāmeti nu daivyātha yanmānuṣyā vācā hīdaṃ kuruta ‖*) (Śa. Brā. 10-5-1,1)
+
+Speech is the secret principle of the fire-altar. By speech it is built. The Ṛgveda, the Yajurveda and the Sāmaveda are the limbs of the fire-altar. The Adhvaryu's giving of directions for the sacrificial acts also rests on speech.
+
+स वा एषा वाक्रेधा विहिता । ऋचो ऋजूग्ंषि सामानि । तेनाग्निस्तेधा विहित एतेन हि त्रयेण चीयते ॥ (*sa vā eṣā vākredhā vihitā | ṛco ṛjūgṃṣi sāmāni | tenāgnistedhā vihita etena hi trayeṇa cīyate ‖*) (Śa. Brā. 10-5-1-2)
+
+Speech has three parts. They are the Ṛk, Yajus and Sāman. Since it is made up of these, the fire-altar also has three parts. Thus, besides the construction of the sacrificial pit or the sacrificial altar,
+
+### Printed p. 900
+
+this same purport is explained in detail in this section: that everything that is a part of the sacrifice is fashioned from the Ṛks and the rest. Moreover, the metre is joined with these Ṛks and the rest. That is why Prajāpati, who is of the form of sacrifice, has such great importance. As follows:
+
+प्रजापतिस्त्रय्या विद्यया सहापः प्रानिशत्........................ ॥ तद्यानि त्रीणि प्रथमानि । इमे ते लोका अथ यच्चतुर्थं यजुस्त्रयी सा विद्या जगती सा भवति जगती सर्वाणि छंदाग्ंसि सर्वाणि छंदाग्ंसि त्रयी विद्या (*prajāpatistrayyā vidyayā sahāpaḥ prāniśat........................ ‖ tadyāni trīṇi prathamāni | ime te lokā atha yaccaturthaṃ yajustrayī sā vidyā jagatī sā bhavati jagatī sarvāṇi chaṃdāgṃsi sarvāṇi chaṃdāgṃsi trayī vidyā*) (Śa. Brā. 6-3-1-11)
+
+Prajāpati entered the waters together with the three knowledges (the three Vedas). The fruit of it was these three worlds. Together with them the Jagatī also was included. The Jagatī contains all the metres within itself. All these together formed the directions. Since the three Vedas, and the Jagatī that includes all the metres, are contained in Prajāpati himself, it is with this idea of identity that the Adhvaryu and the other priests carry out the sacrifice, as though the sacrifice too were made of the three Vedas. In these Vedas, produced from Prajāpati, who is of the form of sacrifice, the whole world is contained. As follows:
+
+अथ सर्वाणि भूतानि परैक्षत् । स त्रय्यामेव विद्यायाग्ं सर्वाणि भूतान्यपश्यदत्र हि सर्वेषां छंदसामात्मा सर्वेषाग् स्तोमानाग्ं सर्वेषां प्राणानाग्ं सर्वेषां देवानामेतद्वा अस्त्येतद्धम्यतं.... ॥ (*atha sarvāṇi bhūtāni paraikṣat | sa trayyāmeva vidyāyāgṃ sarvāṇi bhūtānyapaśyadatra hi sarveṣāṃ chaṃdasāmātmā sarveṣāg stomānāgṃ sarveṣāṃ prāṇānāgṃ sarveṣāṃ devānāmetadvā astyetaddhamyataṃ.... ‖*) (Śa. Brā. 10-4-2-21)
+
+Prajāpati examined all things, moving and unmoving. At that time he saw that all of them were contained in the Vedas themselves. The limbs of all the metres are contained in these Vedas themselves. Since these Vedas are eternal, the limbs of all the Stomas, all the life-breaths and all the gods are all contained here.
+
+स ऐक्षत प्रजापतिः । त्रय्यां वाव विद्यायाग्ं सर्वाणि भूतानि हंत त्रयीमेव विद्यामात्मानमभि संस्करवा इति ॥ (*sa aikṣata prajāpatiḥ | trayyāṃ vāva vidyāyāgṃ sarvāṇi bhūtāni haṃta trayīmeva vidyāmātmānamabhi saṃskaravā iti ‖*) (Śa. Brā. 10-4-2-22)
+
+All the things in the world are contained in these three Vedas. These are my limbs. Resolving "on the basis of these I shall build my body (in the form of the sacrificial altar) and make all these Vedas be contained there",
+
+### Printed p. 901
+
+he built the fire-altar with it. Again, from that sacrifice itself the Vedas beginning with the Ṛk and all the metres were born. This very matter is stated in the Ṛk now under study.
+
+**Main purport**
+
+We explained the meaning of the word सर्वहुतः (*sarvahutaḥ*) in the preceding Ṛk itself. The meaning of the word सर्वहुत् (*sarvahut*) has been explained as the mental sacrifice performed by the gods, regarding the Supreme Person, or all things created by the Supreme Person, as cattle. In the preceding Ṛk it was said that from a sacrifice of that kind the Pṛṣadājya, that is, ghee mixed with curds, and the two classes of cattle, those living in the forest and those in the village, were produced. What other things besides these were produced from that sacrifice is stated in the next five Ṛks (9-13).
+
+In the Ṛk now under study, from that sacrifice ऋचः (*ṛcaḥ*), that is, the Ṛks, were produced.
+
+ऋक् श्लोकबद्धरूपा आख्यायिकप्रचुरा च । ता ऋचो जज्जिरे उत्पन्ना बभूवुः । ऋचां हौत्रकर्मार्हत्वात्तत्र ऋग्वेद इत्यर्थः । (*ṛk ślokabaddharūpā ākhyāyikapracurā ca | tā ṛco jajjire utpannā babhūvuḥ | ṛcāṃ hautrakarmārhatvāttatra ṛgveda ityarthaḥ |*)
+
+By Ṛks is meant a Vedic sentence that is bound in metre and contains praise of the gods or the setting forth of some subject. Every Ṛk has from one to seven padas. In the Gāyatrī metre there are three padas. In the Triṣṭup, Jagatī and the like there are four padas. In the metre called Ekapadā there is only one pada. In the metre called Dvipadā (Virāṭ) there are two padas. In the Paṅkti metre there are five padas. In the Mahāsatobṛhatī, Mahāpaṅkti and other metres there are six padas. In the Śakvarī metre there are seven padas. In the metre called Aśidhṛti there are eight padas.
+
+There is a rule that the padas of each metre should have so many syllables. In the padas of the Gāyatrī metre there are eight syllables each. In the padas of the Triṣṭubh metre there are eleven syllables, and in the padas of the Jagatī metre twelve syllables. There is no rule that all the padas in the Ṛks of each metre should have an equal number of syllables. There may be different numbers of syllables in the padas of one and the same Ṛk, for instance 12 syllables in the first pada and 8 syllables in the second. Ṛks that contain many padas with such varying numbers of syllables have different names. We have explained all these in detail in the part called Chandonukramaṇikā, on page 222 and the following pages of the first part of the Ṛ. Saṃ. Here only the names of the chief metres, with the total number of padas and syllables in them, are given:
+
 ---
 
-**Progress note:** Done through printed p. 894. Bṛ. U. 6-2-12 ff., Śatapatha quotations on ghee and cattle, Vāyu and Āditya (pp. 888-894)
+**Progress note:** Done through printed p. 901. Ṛk 8 commentary end (cattle, Pṛṣadājya), Ṛk 9 with special topics on Veda/sacrifice identity, metres (pp. 895-901)
