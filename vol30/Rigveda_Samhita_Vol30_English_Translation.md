@@ -36554,6 +36554,266 @@ Free from rivals, the destructress of rivals, victorious, triumphant, I cut up t
 > सं । अजैषं । इमाः । अहं । सपत्नीः । अभिभूवरी ।  
 > यथा । अहं । अस्य । वीरस्य । विराजानि । जनस्य । च ॥ ६ ॥
 
+### Printed p. 1074
+
+> अभिभूवर्यभिभवित्र्यहमिमाः सपत्निः समजैषं । सम्यगभ्यभूवं । यथा
+> येन प्रकारेणाहमस्य वीरस्येंद्रस्य तदीयपरिजनस्य च विराजानि विशेषेण
+> राजमाना भवानि । तथा समजैषमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The abhibhūvarī is "she who overcomes" (*abhibhavitrī*). "I have completely conquered these co-wives, thoroughly overpowering them. In the way that I may shine in distinction (विराजानि (*virājāni*)) over this hero Indra and his retinue, so I have conquered": this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- अहं (*ahaṃ*)—I
+- वीरस्य (*vīrasya*)—of the hero Indra
+- च (*ca*)—and
+- जनस्य (*janasya*)—of his retinue
+- विराजानि (*virājāni*)—in such a way that I shine, becoming worthy of their trust and regard
+- अभिभूवरी (*abhibhūvarī*)—having the nature of defeating
+- अहं (*ahaṃ*)—I
+- इमाः सपत्नीः (*imāḥ sapatnīḥ*)—these my co-wives
+- सं अजैषं (*saṃ ajaiṣaṃ*)—have thoroughly defeated
+
+##### भावार्थ (Bhāvārtha)
+
+I, who am skilled in the work of defeating co-wives, have thoroughly defeated these my co-wives. Thereby, free from obstruction, I shine, having become worthy of the love and regard of my husband, the hero Indra, and of his retinue.
+
+##### English translation
+Triumphant, I conquered these my rivals, so that I might rule this hero and his people.
+
+## Sūkta 160 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तीव्रस्येति पंचर्चं नवमं सूक्तं वैश्वामित्रस्य पूरणस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रांतं । तीव्रस्य पंच पूरणो वैश्वामित्र इति ॥ तीव्रसोमाख्य
+> एकाह इदं निष्केवल्यनिविद्वानं । सूत्रितं च । क्वस्य वीरस्तीव्रस्याभिवयस इति मध्यंदिनः । आ. ९-७ । इति ॥ महाव्रतेऽपि माध्यंदिने सवने ब्रह्मशस्त्रेऽप्येतत्तूक्तं । तथैव
+> पंचमारण्यके सूत्रितं । तीव्रस्याभिवयसो अस्य पाहीति माध्यंदिने । ऐ. आ. ४-१-१।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तीव्रस्य (*tīvrasya*) has five Ṛks and is the ninth sūkta. Its seer is Pūraṇa, of the Viśvāmitra line; its deity is Indra; its metre is Triṣṭubh. So the Anukramaṇī says: तीव्रस्य पंच पूरणो वैश्वामित्र इति (*tīvrasya paṃca pūraṇo vaiśvāmitra iti*). It is used in the one-day rite called Tīvrasoma, as the nivid-dhāna (the hymn to be inserted) of the niṣkevalya recitation. This is stated in the sūtra क्वस्य वीरस्तीव्रस्याभिवयस इति मध्यंदिनः (*kvasya vīrastīvrasyābhivayasa iti madhyaṃdinaḥ*) (Ā. 9-7). In the Mahāvrata too, in the midday pressing, this hymn is used in the Brahma-śastra. So the fifth Āraṇyaka states: तीव्रस्याभिवयसो अस्य पाहीति माध्यंदिने (*tīvrasyābhivayaso asya pāhīti mādhyaṃdine*) (Ai. Ā. 4-1-1). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning "तीव्रस्य (*tīvrasya*)" is the ninth sūkta in the twelfth anuvāka. It has five Ṛks. The seer of this sūkta is Pūraṇa of the Viśvāmitra gotra; the deity is Indra; the metre is Triṣṭup. In the Anukramaṇikā it is said: "Tīvrasya, five (Ṛks), Pūrṇa Vaiśvāmitra". **NOTE**
+
+### Printed p. 1075
+
+(The sentence continues:) It is explained by the Āśvalāyana Śrauta Sūtra sūtra "Kva sya vīras tīvrasyābhivayasa iti mādhyandinaḥ" (Ā. 9-7) that this sūkta is used, in the one-day rite called Tīvrasoma, for the nivid-dhāna sūkta which is to be recited inserted among the mantras of the niṣkevalya śastra. It is pointed out by the sentence "Tīvrasyābhivayaso asya pāhīti mādhyandine" (Ai. Ā. 5-1-1) in the fifth Āraṇyaka of the Aitareya Āraṇyaka that this sūkta is used for the śastra mantras recited by the priest called Brahman at the midday pressing of the Mahāvrata rite.
+
+##### Particulars of the Sūkta
+
+Maṇḍala 10; Anuvāka 12; Sūkta 160. Aṣṭaka 8; Adhyāya 8; Varga 8. Number of Ṛks in the sūkta: 5. Seer: Pūraṇa Vaiśvāmitra. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ती॒व्रस्या॒भिव॑यसो अ॒स्य पा॑हि सर्वर॒था वि हरी॑ इ॒ह मुं॑च ।  
+> इंद्र॒ मा त्वा॒ यज॑मानासो अ॒न्ये नि री॑रम॒नुभ्य॑मि॒मे  ॒॑
+> सुतासः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तीव्रस्य । अभिवयसः । अस्य । पाहि । सर्व९रथा । वि । हरी इति । इह । मुंच ।  
+> इंद्र । मा । त्वा । यजमानासः । अन्ये । नि । रीरमन् । तुभ्यं । इमे । सुतासः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तीव्रस्य तीक्ष्णस्य क्षिप्रंमदकरस्याभिवयसः । वय इत्यन्ननाम । अभिगतं
+> चरुपुरोडाशाद्यन्नं यस्यॆ तादृशस्यास्य सोमस्य॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः
+> संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥ ईदृशं सोमं हे इंद्र पाहि । पिब ॥ पिबतेश्लांदसः शपो लुक् ॥ तदर्थं सर्वरथा सरणशीलरथौ हरी अश्वाविहास्मिन्यज्ञगृहे वि
+> मुंच । रथाद्विस्पृज । हे इंद्र अस्मत्तोऽन्ये यजमानासो यजमानास्त्वा त्वां
+
+##### Gist of the bhāṣya
+
+"तीव्र (*tīvra*)" means sharp, that is, quickly intoxicating. "Abhivayas": "vayas" is a name for food; the Soma is such that cooked food such as caru and puroḍāśa has come to it. Of this Soma (the genitive stands for the dative, because the act of taking is to be made, and the thing offered is the recipient): "O Indra, drink such Soma." The verb "पाहि (*pāhi*)" means "drink". For that purpose, "unyoke here, in this sacrificial house, your two bay horses, yoked to the swift-going chariot; release them from the chariot." "O Indra, let other sacrificers than us (अस्मत्तोऽन्ये यजमानासो (*asmatto 'nye yajamānāso*)) not detain you (त्वां मा नि रीरमन् (*tvāṃ mā ni rīraman*))…"
+
+### Printed p. 1076
+
+> मा नि रीरमन् । नितरां मा रमयंतु । वयमेव रमयाम इत्यर्थः । ततस्तुभ्यं
+> त्वदर्थमेव सुतासः सुता अभिषुता इमे प्रत्यक्षेणोपलभ्यमानाः सोमा वर्तंते ॥
+
+##### Gist of the bhāṣya
+
+(continuing) "…let them not at all make you rest, delight you; we ourselves shall delight you": this is the meaning. "Therefore, for you alone, these pressed Soma juices, which are perceived directly, are present."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) तीव्रस्य (*tīvrasya*)—of the sharp, that is, quickly intoxicating
+- अभिवयसः (*abhivayasaḥ*)—accompanied by caru, puroḍāśa and other food
+- अस्य (*asya*)—this Soma juice
+- पाहिं (*pāhiṃ*)—drink (for that)
+- सर्वरथा (*sarvarathā*)—yoked to your swiftly travelling chariot
+- हरी (*harī*)—the horses
+- इह (*iha*)—near this sacrificial house
+- वि मुंचॆ (*vi muṃcè*)—unyoke from the chariot
+- इंद्र (*iṃdra*)—O Indra
+- अन्ये (*anye*)—other (than us)
+- यजमानासः (*yajamānāsaḥ*)—sacrificers who perform sacrifice
+- त्वा (*tvā*)—you
+- मा नि रीरमन् (*mā ni rīraman*)—let them not delight
+- तुभ्यं (*tubhyaṃ*)—for you alone
+- इमे (*ime*)—these Soma juices
+- सुतासः (*sutāsaḥ*)—have been pressed and made ready
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink this Soma juice, which is sharp, that is, quickly intoxicating, and accompanied by caru and puroḍāśa food. For that, unyoke the horses of your swift-going chariot right here near this sacrificial house. O Indra, may other sacrificers not stop you on the way and give you delight; that is, do not stop anywhere but come quickly to us. For you alone these Soma juices are ready.
+
+##### English translation
+Drink, Indra, of this sharp (Soma-juice, wich is) combined with sacrificial food, unyoke here your bay steeds yoked to your swift chariot; let no other worshippers detain you, Indra ; these libations are for you.
+
+##### विशेषविषयगळु (Special Topics)
+
+When Soma juice is drunk, to make it tasty, the āśira substances milk, curd and flour are mixed into it. Soma juice mixed with milk is called gavāśira, Soma juice mixed with curd is called dadhyāśira, and Soma juice mixed with flour is called yavāśira. Soma juice that remains as it is, with nothing mixed in, is very powerful and quickly intoxicates, so it is called by names such as tīvra and tīkṣṇa.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॑ सु॒तास्तुभ्य॑मु॒ सोत्वा॑स॒स्त्वां गिरः॒ श्वात्रा॒ आ ह्व॑यंति ।
+
+### Printed p. 1077
+
+> इंद्रेदमद्य सवनं जुषाणो विश्वस्य विद्वा इह पाहि सोमं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यं । सुताः । तुभ्यं । ऊं इति । सोत्वासः । त्वां । गिरः । श्वात्राः । आ । ह्वयंति ।  
+> इंद्र । इदं । अद्य । सवनं । जुषाणः । विश्वस्य । विद्वान् । इह । पाहि । सोमं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तुभ्यं त्वदर्थमेव सुता अभिषुताः सर्वे सोमाः सोत्वास इतः
+> परमभिषोतव्याश्च तुभ्यमु त्वदर्थमेव ॥ सुनोतेः कृत्यार्थे तवैकेनिति त्वन्प्रत्ययः॥
+> श्वात्राः श्व आशु शीघ्रमतंत्यः प्रवर्तमाना गिरः स्तुतिरूपा वाचश्च त्वामेवा
+> ह्वयंति। आक्रोशयंति। हे इंद्र अद्यास्मिन्काल इदं सवनं प्रातःसवनादिकं जुषाणः
+> सेवमानो विश्वस्य सर्वस्य विद्वाञ्ञाता त्वमिहास्मिन्यज्ञे सोमं पाहि । पिब ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, for you alone all the Somas have been pressed (सुता (*sutā*)), and those that are to be pressed hereafter (सोत्वासः (*sotvāsaḥ*)) are likewise for you alone." The affix tvan is used with the root सुनोति (*sunoti*) in the sense of what is to be done. "The praises (गिरः (*giraḥ*)), the words in the form of hymns, which proceed quickly and swiftly (श्वात्राः (*śvātrāḥ*)), call you alone, summon you. O Indra, today, at this time, taking pleasure in this savana, the morning pressing and the rest, you, who know everything, drink the Soma here, in this sacrifice."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) तुभ्यं (*tubhyaṃ*)—for you
+- सुताः (*sutāḥ*)—the Soma juices that have now been pressed are here
+- सोत्वासः (*sotvāsaḥ*)—and the Soma juices that are still to be pressed
+- तुभ्यं उ (*tubhyaṃ u*)—for you alone
+- श्वात्राः (*śvātrāḥ*)—recited very quickly
+- गिरः (*giraḥ*)—these words in the form of praise
+- त्वा (*tvā*)—you alone
+- आ ह्वयंति (*ā hvayaṃti*)—call
+- इंद्र (*iṃdra*)—O Indra
+- अद्य (*adya*)—now
+- इदं सवनं (*idaṃ savanaṃ*)—this rite of the morning pressing and the rest
+- जुषाणि (*juṣāṇi*)—enjoying
+- विश्वस्य विद्वान् (*viśvasya vidvān*)—you who know everything
+- इह (*iha*)—in this sacrifice
+- सोमं (*somaṃ*)—the Soma juice
+- पाहि (*pāhi*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for you alone these Soma juices have been pressed and made ready. The Soma juices that will be pressed hereafter, and these words in the form of praise, recited quickly for you alone, call you alone. O Indra, enjoying this morning-pressing rite, you who know everything, drink the Soma in this sacrifice.
+
+##### English translation
+For you are the libations that have been poured out, for you are those which are to be poured out; you do our quickly uttered praises invoke;
+
+### Printed p. 1078
+
+Indra, you are cognizant of all things, taking pleasure in this present sacrifice, drink the Soma here.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॑श॒ता मन॑सा॒ सोम॑मस्मै सर्वहृ॒दा दे॒वका॑मः  ॒॑
+> सु॒नोति॑ ।  
+> न गा इंद्र॒स्तस्य॒ परा॑ ददाति प्रश॒स्तमिच्चारु॑मस्मै कृणोति ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उशता । मनसा । सोमं । अस्मै । सर्वहृदा । देवकामः । सुनोति ।  
+> न । गाः । इंद्रः । तस्य । परा । ददाति । प्रशस्तं । इत् । चारुं । अस्मै । कृणोति॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य उशता कामयमानेन सर्वहृदा । सर्वमविकलं हृदयं यस्य । यद्वा।
+> सर्वेषामृत्विजां हृदयेन । सामर्थ्यान्मत्वर्थो लक्ष्यते । हृदयवता मनसास्मा
+> इंद्राय देवकानो देवमिंद्रं कामयमानो यजमान सोमं सुनोति अभिषुणोति । इंद्रस्तस्य यजमानस्य गा न परा ददाति । परादानं विनाशः । नि विनाशयति । अस्मै यजमानाय चारुं शोभनं अत एव प्रसक्तं । इदित्यवधारणे । प्रशंसनीयमेव धनं कृणोति । करोति ॥
+
+##### Gist of the bhāṣya
+
+*Ushatā* means "desiring". "सर्वहृदा (*sarvahṛdā*)": he whose heart is whole and undivided; or else, "with the heart of all the priests". By implication the possessive sense is understood: with a mind that has a heart. "देवकामः (*devakāmaḥ*)": the sacrificer who desires the god Indra presses (सुनोति (*sunoti*)) Soma for this Indra. Indra does not "give away" (परा ददाति (*parā dadāti*)) the cattle of that sacrificer; *parādāna* means destruction, so he does not destroy them. For this sacrificer he makes (कृणोति (*kṛṇoti*)) beautiful, and therefore excellent, wealth; इत् (*it*) is in the sense of emphasis: he makes only praiseworthy wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवकामः (*devakāmaḥ*)—desiring to worship Indra
+- यः (*yaḥ*)—the sacrificer who
+- उशता (*uśatā*)—having the wish to offer Soma
+- सर्वहृदा (*sarvahṛdā*)—wholehearted
+- मनसा (*manasā*)—with the mind
+- अस्मै (*asmai*)—for this Indra
+- सोमं (*somaṃ*)—Soma juice
+- सुनोति (*sunoti*)—presses
+- तस्य (*tasya*)—of that sacrificer
+- गाः (*gāḥ*)—the cattle
+- इंद्रः (*iṃdraḥ*)—Indra
+- न परा ददाति (*na parā dadāti*)—does not destroy; moreover
+- अस्मै (*asmai*)—to that sacrificer
+- चारुं (*cāruṃ*)—beautiful and
+- प्रशस्तं इत् (*praśastaṃ it*)—only excellent wealth
+- कृणोति (*kṛṇoti*)—provides
+
+### Printed p. 1079
+
+##### भावार्थ (Bhāvārtha)
+
+Indra does not destroy the cattle of the sacrificer who, desiring to worship Indra, presses Soma juice for Indra with his wholehearted longing and with his mind; and he provides that sacrificer with excellent and beautiful wealth alone.
+
+##### English translation
+He who devoted to the deity with a willing mind offers the Soma to him with all his heart, Indra does not destroy his cattle, but gives him beautiful excellent (wealth).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑स्पष्टो भवत्ये॒षो अ॑स्य॒ यो अ॑स्मै रे॒वान्न सु॒नोति॒  ॑
+> सोमं ।  
+> निर॑र॒त्ना म॒घवा॒ तं द॑धाति ब्रह्म॒द्विषो॑ हं॒त्यना॑नुदिष्टः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनुऽस्पष्टः । भवति । एषः । अस्य । यः । अस्मै । रेवान् । न । सुनोति । सोमं ।  
+> निः । अरत्ना । मघवा । तं । दधाति । ब्रह्मद्विषः । हंति । अननुदिष्टः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य यजमानस्यैष इंद्रोऽनुस्पष्टो दृष्टिगोचरो भवति यो रेवान्धनवानस्मा इंद्राय सोमं सुनोति अभिषुणोति । मघवा धनोपेत इंद्रस्तं यजमानमरत्ना हस्ते निर्दधाति भयान्निकृष्ण धारयति रक्षिता सन् धृत्वा चाननुदिष्टस्तेनानुक्तोऽप्रार्थित एव सन्ब्रह्मद्विषो ब्राह्मणद्वेष्ट्वञ्त्यत्रून्हंति । हिनस्ति ॥
+
+##### Gist of the bhāṣya
+
+This Indra becomes *anuspaṣṭa*, visible to the eye, to that sacrificer who, being wealthy (रेवान् (*revān*)), presses Soma for this Indra. Maghavan, Indra the possessor of wealth, holds that sacrificer in his hand (अरत्ना (*aratnā*), निर्दधाति (*nirdadhāti*)), as his protector; and, unasked, unprayed to (अननुदिष्टः (*ananudiṣṭaḥ*)), he slays (हंति (*haṃti*)) the enemies, the haters of Brahmins (ब्रह्मद्विषः (*brahmadviṣaḥ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेवान् (*revān*)—wealthy
+- यः (*yaḥ*)—the sacrificer who
+- अस्मै (*asmai*)—for this Indra
+- सोमं (*somaṃ*)—Soma juice
+- सुनोति (*sunoti*)—presses and offers
+- अस्य (*asya*)—to that sacrificer
+- एषः (*eṣaḥ*)—this Indra
+- अनुस्पष्टः (*anuspaṣṭaḥ*)—becomes visible to the eye
+- मघवा (*maghavā*)—Indra, the wealthy
+- तं (*taṃ*)—
+
 ---
 
-**Progress note:** Done through printed p. 1073. pp. 1068-1073 (batch API)
+**Progress note:** Done through printed p. 1079. pp. 1074-1079 (batch API)
