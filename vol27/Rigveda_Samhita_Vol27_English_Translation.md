@@ -24800,6 +24800,275 @@ Such is the Soma which, swiftly moving, exhilarating, acceptable to Indra, has g
 
 This Soma sends (इयर्ति (*iyarti*), that is, bestows) to the wise (विप्राय (*viprāya*)) sacrificer (दाशुषे (*dāśuṣe*)) who has given oblations, food (वाजान् (*vājān*)) accompanied by cattle (गोमतः (*gomataḥ*)). This same Soma also bestows choice wealth (वरं (*varaṃ*)) on the seven Hotṛs. He caused अंधं (*aṃdhaṃ*), the eyeless sage Dīrghatamas, to prosper by giving him sight, and श्रोणं (*śroṇaṃ*), the lame sage Parāvṛj, by giving him feet; thus he carried both sages forward (प्र तारिषत् (*pra tāriṣat*)), that is, advanced them greatly. The rest is clear.
 
+### Printed p. 704
+
+##### Gist of the bhāṣya
+
+(none; the page opens with the Pratipadārtha of Ṛk 11 of the preceding sūkta)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Soma-deva
+- विप्राय (*viprāya*)—to the wise
+- दाशुषे (*dāśuṣe*)—to the sacrificer
+- गोमतः (*gomataḥ*)—accompanied by cattle
+- वाजान् (*vājān*)—foods
+- इयर्ति (*iyarti*)—provides
+- अयं (*ayaṃ*)—this Soma-deva
+- सप्तभ्यः (*saptabhyaḥ*)—to the seven Hotṛs also
+- वरं (*varaṃ*)—excellent wealth
+- आ (*ā*)—provides
+- वः (*vaḥ*)—his own
+- वि मदे (*vi made*)—at the time of exceeding joy
+- अंधं (*aṃdhaṃ*)—the blind seer called Dīrghatamas
+- श्रोणं च (*śroṇaṃ ca*)—and the lame seer called Parāvṛk
+- प्र तारिषत् (*pra tāriṣat*)—protected (O Soma-deva)
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of his exceeding joy, this Soma-deva provides the wise sacrificer with foods accompanied by cattle. He provides excellent wealth to the seven Hotṛs also. He protected the blind seer Dīrghatamas and the lame seer Parāvṛk. O Soma, you are a great one.
+
+##### English translation
+This Soma bestows, upon the pious donor of the libation, food with cattle; it gives wealth to the seven (priests) in the manifold exhilaration; it has restored (their faculties) to the blind, and the lame.
+
+## Sūkta 26 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र हीति नवर्चं दशमं सूक्तमानुष्टुभं पूषदेवताकं । आद्याचतुर्थ्यावुष्ठिहौ । ऋषिः पूर्ववत् । तथा चानुक्रांतं । प्र हि नव पौष्ण मानुष्टुभमाद्याचतुर्थ्या उष्ठिहाविति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ten-Ṛk... correction: the sūkta beginning प्र हि (*pra hi*) has nine Ṛks, is in Anuṣṭubh metre and has Pūṣan as deity. The first and fourth Ṛks are in Uṣṇih. The seer is as before. He cites the Anukramaṇī: प्र हि नव पौष्ण मानुष्टुभमाद्याचतुर्थ्या उष्ठिहाविति (*pra hi nava pauṣṇa mānuṣṭubhamādyācaturthyā uṣṭhihāviti*). The viniyoga has already been given.
+
+##### Anuvāda
+
+This sūkta beginning प्र हि (*pra hi*) is the tenth sūkta in the second anuvāka. It contains nine Ṛks. Its seer is the same as that of the preceding sūkta. Pūṣan is the deity; the metre is Anuṣṭubh, but the first and fourth Ṛks are in Uṣṇik metre. In the Anukramaṇī it is stated: प्र हि नव पौष्ण मानुष्टुभमाद्यचतुर्था उष्टिहौ (*pra hi nava pauṣṇa mānuṣṭubhamādyacaturthā uṣṭihau*). The viniyoga was stated earlier.
+
+### Printed p. 705
+Sūkta 26; Maṇḍala 10; Anuvāka 2; Aṣṭaka 7, Adhyāya 7, Vargas 13, 14. Number of Ṛks in the sūkta: 9.
+Seer: Vimada Aindra, or Prājāpatya, or Vasukṛt, or Vāsukra. Deity: Pūṣan. Metre: 1–4 Uṣṇik; 2, 3, 5–9 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ह्यच्छा॑ मनी॒षाः स्पा॒र्हा यंति॑ नि॒युतः॑ ।  
+> प्र द॒स्रा नि॒युद्र॑थः पू॒षा अ॑विष्टु॒ माहि॑नः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । हि । अच्छ । मनीषाः । स्पार्हाः । यंति । नियुतः ।  
+> प्र । दस्रा । नियत्९रथः । पूषा । अविष्टु । माहिनः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हि यस्मात्कारणान्मनीषा अस्मदीयाः स्तुतिलक्षणा वाचोऽच्छ गुणग्रहणद्वारेण पूषणमभिप्राप्तं प्र यंति प्रकर्षेण गच्छंति । कीदृश्यः । स्पार्हाः सर्वगुणोपेतत्वात्सृहणीयाः नियुतः ॥ नियमनाद्वा नियोजनाद्वेत्येतद्रूपं ।
+> अस्माभिर्नियमिता वा नियुक्ता वा । उच्चारिता इत्यर्थः । एतज्ञा त्वोपकारस्य
+> प्रत्युपकारं कर्तुं दस्रा दर्शनीयो नियुद्रथो गमनाय सर्वदा नियतरथो
+> नियुक्तरथो वा माहिनो महान्सूषा देवः प्राविष्टु । अस्मान्प्रकर्षेण रक्षतु!
+> यद्वा । दस्रा दंसयितार् कर्मणामुपक्षपयितार् । परिसमापयितारावित्यर्थः ।
+> एवंभूत् पत्नीयजमानौ पूषा रक्षत्विति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+Because our praise-words (मनीषाः (*manīṣāḥ*)), through the praising of qualities, go forth toward Pūṣan, being desirable (स्पार्हाः (*spārhāḥ*)) as endowed with every virtue, and नियुतः (*niyutaḥ*), that is, restrained or appointed by us, i.e. uttered; knowing this, so as to repay the favour, may the lovely (दस्रा (*dasrā*)) great Pūṣan, whose chariot is always harnessed for going, protect us well. Or else दस्रा (*dasrā*) (dual) means the two who bring rites to completion, the wife and the sacrificer; the connection is that Pūṣan should protect these two.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—for what reason
+- स्पार्हाः (*spārhāḥ*)—attractive
+- नियुतः (*niyutaḥ*)—made and offered by us
+- मनीषाः (*manīṣāḥ*)—our words of praise
+- अच्छ (*accha*)—toward Pūṣan
+- प्र यंति (*pra yaṃti*)—go and reach; for that reason
+- दस्रा (*dasrā*)—he of attractive form
+
+### Printed p. 706
+- नियुद्रथः (*niyudrathaḥ*)—he whose chariot is made ready to come to us
+- माहिनः (*māhinaḥ*)—the great one
+- पूषा (*pūṣā*)—Pūṣa-deva
+- प्राविष्टु (*prāviṣṭu*)—may he protect us fully
+
+##### भावार्थ (Bhāvārtha)
+
+For which reason our attractive praise-words, made and offered by us, go and reach Pūṣan; for that reason may the god Pūṣan, of attractive form, whose chariot is made ready to come to us, the great one, protect us fully.
+
+##### English translation
+Since, our appointed and acceptable prayers proceed to him, may the mighty Pushan, of pleasing aspect, whose car is ever harnessed, protect us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ त्यन्म॑हि॒त्वं वा॒ताप्य॑म॒यं जनः॑ ।  
+> विप्र॒ आ वं॑सद्धी॒तिभि॒श्चिके॑त सुष्टुती॒नां ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्यत् । महित्वं । वाताप्यं । अयं । जनः ।  
+> विप्रः । आ । वंसत् । धीतिभिः । चिकेत । सुस्तुतीनां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रो मेधाव्ययं जनो यजमानः । यस्य पूष्णः संबंधि त्यत्तत्प्रसिद्धं
+> महित्वं महत्त्वं वाताप्यं मंडले संभृतं परिपक्वमुदकं धीतिभिर्यागादिकर्मभिरा वंसत् संभजते स देवः सुष्टुतीनां तदीयाः शोभनाः स्तुतीश्चिकेत ।
+> जानातु ॥
+
+##### Gist of the bhāṣya
+
+This wise man, the sacrificer, whose (Pūṣan's) well-known greatness, the ripened water gathered in the cloud-sphere, he honours with rites such as sacrifice — may that god know the excellent praises that are his.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Pūṣa-deva
+- वाताप्यं (*vātāpyaṃ*)—as the rain filling the cloud-sphere pours everywhere and becomes manifest
+- त्यत् (*tyat*)—well-known
+- महित्वं (*mahitvaṃ*)—greatness
+- विप्र? (*vipra?*)—the wise
+
+### Printed p. 707
+- अयं जनः (*ayaṃ janaḥ*)—this sacrificer
+- धीतिभिः (*dhītibhiḥ*)—with rites such as sacrifice
+- आ वंसत् (*ā vaṃsat*)—honours and worships; that Pūṣa-deva
+- सुष्टुतीनां (*suṣṭutīnāṃ*)—excellent praises
+- चिकेत (*ciketa*)—may he know
+
+##### भावार्थ (Bhāvārtha)
+
+As the rain filling the cloud-sphere pours everywhere and becomes manifest, so the greatness of the well-known Pūṣa-deva is honoured and worshipped by this wise sacrificer with rites such as sacrifice; may that Pūṣa-deva know our excellent praises.
+
+##### English translation
+(May he) whose greatness (manifested as ) the matured rain, this pious man celebrates with pious rites—may he be cognizant of such excellent praises.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वे॑द सुष्टुती॒नारिमिंदु॒नर् पू॒षा वृषा॑ ।  
+> अ॒भि प्सुरः॑ प्रषायति व्र॒जं न॒ आ प्र॑षायति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वेद । सुस्तुतीनां । इंदुः । न । पूषा । वृषा ।  
+> अभि । प्सुरः । प्रषायति । व्रजं । नः । आ । प्रषायति । ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य उक्तगुणः स पूषा सुष्टुतीनां शोभनस्तोत्राणां । स्वरूपमिति शेषः ।
+> वेद । जानाति । अपि चेंदुर्न सोम इव तथायं पूषा वृषा कामानां वर्षिता
+> भवति । प्सुरो रूपवान् स अभ्यस्मानभिलक्ष्य प्रषायति । सिंचति । तथा नोऽस्माकं
+> व्रजं गोष्ठं चा पुषायति । अभिमुख्येन सिंचति । अस्मभ्यं हिरण्यपश्वादिकं ददातीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Pūṣan of the stated qualities knows the nature of the good praises. Like Soma (*iṃdurna*), this Pūṣan is a showerer of desires. The one of beautiful form pours toward us, and likewise pours toward our cow-pen; that is, he gives us gold, cattle and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that same Pūṣa-deva
+- सुष्टुतीनां (*suṣṭutīnāṃ*)—excellent praises
+- वेद (*veda*)—knows
+- इंदुः न (*iṃduḥ na*)—like Soma-deva
+- पूषा (*pūṣā*)—Pūṣa-deva
+- वृषा (*vṛṣā*)—is the giver of desired things
+
+### Printed p. 708
+- पुरुषः (*puruṣaḥ*)—the Pūṣa-deva possessed of form **NOTE**
+- अभि (*abhi*)—toward us
+- पुषायति (*puṣāyati*)—pours rain and the like
+- नः (*naḥ*)—our
+- व्रजं (*vrajaṃ*)—the food and so on needed for the herd of cattle
+- आ पुषायति (*ā puṣāyati*)—pours
+
+##### भावार्थ (Bhāvārtha)
+
+Pūṣa-deva knows our excellent praises. Like Soma-deva, Pūṣan too is the giver of desired things. The handsome Pūṣan pours rain and the like toward us. He pours the food and so on needed for our herd of cattle.
+
+##### English translation
+He, Pushan, is cognizant of such excellent praises; like Soma he is showerer (of benefits): the graceful deity rains down upon us, he rains upon our cow-pastures.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒सी॒महि॑ त्वा व॒यम॒स्माकं॑ देव पूषन् ।  
+> म॒ती॒नां च॒ साध॑नं॒ विप्रा॑णां चाध॒वं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंसीमहि । त्वा । वयं । अस्माकं । दॆव । पूषन् ।  
+> मतीनां । च । साधनं । विप्राणां । च । आधवं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान पूषन् वयं स्तोतारस्त्वा त्वां मंसीमहि । स्तुमः ।
+> कीदृशं । अस्माकमस्मदीयानां मतीनां चाभिलषितानां च साधनं साधयितारं
+> विप्राणां च मेधाविनामप्याधवं परिचर्यादरेण कंपयितारं ॥
+
+##### Gist of the bhāṣya
+
+O shining god Pūṣan, we the praisers praise you (मंसीमहि (*maṃsīmahi*) means "we praise"): you who accomplish our thoughts and desires, and who stir even the wise by the zeal of service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—shining
+- पूषन् (*pūṣan*)—O Pūṣa-deva
+- वयं (*vayaṃ*)—we, the praisers
+- अस्माकं (*asmākaṃ*)—our
+- मतीनां च (*matīnāṃ ca*)—for all praises
+- साधनं (*sādhanaṃ*)—the primary cause
+- विप्राणां (*viprāṇāṃ*)—
+
+### Printed p. 709
+- च (*ca*)—to the wise
+- आधवं (*ādhavaṃ*)—the one who causes trembling (who gives zeal)
+- त्वा (*tvā*)—you
+- मंसीमहि (*maṃsīmahi*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Pūṣa-deva, we the praisers praise you, who are the impeller of all our praises and who give zeal to the wise, the sacrificers and others.
+
+##### English translation
+We glorify you, divine Pushan, the accomplisher of our desires, who make the pious to quake
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रत्य॑र्थिर्य॒ज्ञाना॑मश्वह॒यो रथा॑नां ।  
+> ऋषिः॒ स यो मनु॑र्हितो॒ विप्र॑स्य यावयत्स॒खः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रतिअर्धिः । यज्ञानां । अश्वहयः । रथानां ।  
+> यषिः । सः । यः । मनुःहितः । विप्रस्य । यवयत्सखः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः सर्वस्य द्रष्टा स पूषा यज्ञानां प्रत्यर्थिरर्धभाग्रथानामश्वहयः ।
+> हयतिर्गतिकर्मा । रथानां संबंधिभिरश्वैर्गमनशीलो भवति । अश्वयुक्तेन रथेन
+> सदा गंतेत्यर्थः । मनुर्हितो मनुष्यहितो यो विप्रस्य मेधाविनः स्तोतुर्यावयत्सखः शत्रूणां पृथक्कर्ता सखा भवति स इति पूर्वेण संबंधः ।
+
+##### Gist of the bhāṣya
+
+The seer, the beholder of all, that Pūṣan, is the sharer (प्रत्यर्थिः (*pratyarthiḥ*), "partaker of half") of the sacrifices, and अश्वहयः (*aśvahayaḥ*) of chariots: हयति (*hayati*) is a root of motion; he is given to going with the horses of the chariots, that is, he always goes in a chariot yoked with horses. He who is beneficial to men (मनुर्हितः (*manurhitaḥ*)), who is the friend of the wise praiser and the separator of enemies (यावयत्सखः (*yāvayatsakhaḥ*)) — "he" is connected with the preceding.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनुर्हितः (*manurhitaḥ*)—beneficial to men
+- यः (*yaḥ*)—which Pūṣa-deva
+- विप्रस्य (*viprasya*)—of the wise praiser
+- यावयत्सखः (*yāvayatsakhaḥ*)—is a friend able to destroy enemies; such a one
+- ऋषिः (*ṛṣiḥ*)—one able to see supersensuous matters
+- सः (*saḥ*)—Pūṣa-deva
+- यज्ञानां (*yajñānāṃ*)—of the sacrificial oblations
+- प्रत्यर्थिः (*pratyarthiḥ*)—the sharer
+- रथानां (*rathānāṃ*)—of chariots
+- अश्वहयः (*aśvahayaḥ*)—the one borne by horses
+
 ---
 
-**Progress note:** Done through printed p. 703. pp. 698-703 (batch API)
+**Progress note:** Done through printed p. 709. pp. 704-709 (batch API)
