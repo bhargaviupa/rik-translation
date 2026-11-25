@@ -42666,6 +42666,284 @@ Maṇḍala 10; Anuvāka 12; Sūkta 183; Aṣṭaka 8; Adhyāya 8; Varga 41. Num
 
 As the Śruti sentence आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) says, the father himself is born as a son from his own part. Since sons are born from the father's seed, it is said that the father himself is born as the son.
 
+### Printed p. 1240
+## Sūkta 183 (Maṇḍala 1)
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॑श्यं त्वा॒ मन॑सा॒ दीध्या॑नां॒ स्वायां॑ त॒नू ऋत्वे॒ नाध॑मानां ।  
+> उप॒ मामु॒च्चा यु॑व॒तिर्ब॑र्भूयाः॒ प्र जा॑यस्व प्र॒जया॑  
+> पुत्रकामे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपश्यं । त्वा । मनसा । दीध्यानां । स्वायां । तनू इति । ऋत्वे । नाधमानां ।  
+> उप । मां । उच्चा । युवतिः । बभूयाः । प्र । जायस्व । प्रजया । पुत्रकामे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पत्नि दीध्यानां दीप्यमानां स्वायामात्मीयायां तनू तन्वां शरीर
+> ऋत्वे । ऋतुकाले भवं गर्भधारणरूपं कर्मत्वियं । तस्मिन्निमित्तभूते नाधमानां भर्तुरुपगमनं याचमानां त्वा त्वां मनसापश्यं । आद्राक्षं । हे पुत्रकामे पुत्रान्कामयमाने मामुप मत्समीपं प्राप्य सा त्वमुच्चोच्चैर्भृशं
+> युवतिस्तरुणी बभूयाः । भूयाः ॥ छंदस्युभयथेत्याशीर्लिजः सार्वधातुकत्वाच्छप् । तस्य छांदसः श्लुः । अलिट्यपि व्यत्ययेन भवतेरः । पा. ७-४-२३ । इत्यभ्यासस्यात्वं ॥ युवतिर्भूत्वा च प्रजया प्रजनेन प्र जायस्व । पुत्रान्प्रसूष्व ॥ जनी
+> प्रादुर्भावे । श्यनि ज्ञाजनोर्जॆति जादेशः ॥
+
+##### Gist of the bhāṣya
+
+"O wife, I have seen you with my mind, shining in your own body at the Ṛtu-time (the act of conception that belongs to the fertile season), and begging for your husband's approach." Sāyaṇa glosses दीध्यानां (*dīdhyānāṃ*) as "shining" and स्वायां (*svāyāṃ*) as "one's own". He glosses ऋत्वे (*ṛtve*) as "belonging to the season of fertility, having the form of conception". He glosses नाधमानां (*nādhamānāṃ*) as "requesting the husband's approach", this being the occasion for it. "O you who desire sons, having come near me, be exceedingly youthful (युवतिः (*yuvatiḥ*) = young woman). Having become youthful, bring forth sons by procreation." प्र जायस्व (*pra jāyasva*) is explained as "bear sons", from the root meaning "to come into being". (The grammatical remarks are omitted.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीध्यानां (*dīdhyānāṃ*)—(O wife) shining with youth
+- स्वायां (*svāyāṃ*)—your
+- तनू (*tanū*)—body
+- ऋत्वे (*ṛtve*)—when, after the bath following the period, it is ready for union with the husband
+- नाधमानां (*nādhamānāṃ*)—longing for the company of the husband
+- त्वा (*tvā*)—you
+- मनसा (*manasā*)—having known with the mind
+- अपश्यं (*apaśyaṃ*)—I saw
+- पुत्रकामे (*putrakāme*)—O wife who desire to have sons
+- मां (*māṃ*)—me
+- उप (*upa*)—you who have come near
+- उच्चा युवतिः (*uccā yuvatiḥ*)—having become exceedingly young (a youthful woman)
+- बभूयाः (*babhūyāḥ*)—you are (therefore)
+- प्रजया (*prajayā*)—by procreation (by childbirth)
+- प्र जायस्व (*pra jāyasva*)—bear sons
+
+### Printed p. 1241
+
+##### भावार्थ (Bhāvārtha)
+
+(The yajamāna's words:) O wife, this body of yours, shining with youth, longs for the company of the husband after the bath following the period. I have seen you, such as you are, having known it with my mind. O wife, desiring to have sons: you who have approached me wishing for sons are exceedingly young and shine with youthfulness. Therefore bring forth sons (bear them).
+
+##### English translation
+(The yajamana speaks:) I beheld you in my mind radiant (with beauty), beseeching (your husband's approach) to your body at due season ; may you, who are youthful, come up to me; bear offspring, you who are desirous of offspring.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं गर्भ॑मदधा॒मोष॑धीष्व॒हं विश्वे॑षु॒ भुव॑नेष्वं॒तः ।  
+> अ॒हं प्र॒जा अ॑जनयं पृथि॒व्याम॒हं जनि॑भ्यो अप॒रीषु॑ पु॒त्रान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । गर्भं । अदधां । ओषधीषु । अहं । विश्वेषु । भुवनेषु । अंतरिति ।  
+> अहं । प्रजाः । अजनयं । पृथिव्यां । अहं । जनिभ्यः । अपरीषु । पुत्रान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं होतौषधीषु शाल्यादिषु फलार्थं गर्भमदधां । धारयामि । विश्वेषु
+> सर्वेष्टन्येष्टपि भुवनेषु भूतजातेष्टंतर्मध्येऽहमेव गर्भं धारयामि । तथा
+> पृथिव्यां भूम्यां प्रजाः सर्वान्मनुष्यानहमजनयं । जनयामि । जनिभ्यो
+> जायाभ्योऽपरीष्टन्यास्वपि स्त्रीषु पुत्रानहमजनयं । जनयामि । मत्साध्येन
+> यागेन सर्वस्योत्पत्तेरहं सर्वजनहेतुर्भवामीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Hotṛ says: "I place the embryo in the herbs, in rice and the like, for the sake of fruit. In all the other worlds, among all born beings, I alone place the embryo. So too on the earth I beget the progeny, all human beings. I beget sons in the women other than the wives." The meaning is that, since everything comes into being through the sacrifice that I accomplish, I am the cause of all birth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, the Hotṛ-priest
+- ओषधीषु (*oṣadhīṣu*)—in creepers, trees and the like, beginning with the plants, for the sake of fruit
+- गर्भं (*garbhaṃ*)—the embryo
+- अदधां (*adadhāṃ*)—I cause it to be borne
+
+### Printed p. 1242
+- विश्वेषु (*viśveṣu*)—in all
+- भुवनेषु अंतः (*bhuvaneṣu aṃtaḥ*)—in the bodies of living beings also
+- अहं (*ahaṃ*)—I myself cause the bearing of the embryo (and so)
+- पृथिव्यां (*pṛthivyāṃ*)—on the earth
+- प्रजाः (*prajāḥ*)—all human beings
+- अहं (*ahaṃ*)—I
+- अजनयं (*ajanayaṃ*)—I cause them to come into being
+- जनिभ्यः (*janibhyaḥ*)—apart from the wives
+- अपरीषु (*aparīṣu*)—in other women also
+- पुत्रान् (*putrān*)—sons
+- अहं (*ahaṃ*)—I beget
+
+##### भावार्थ (Bhāvārtha)
+
+(The Hotṛ's words:) I, the priest called Hotṛ, cause the herbs and other plants (creepers, trees and so on) to bear the embryo, so that they may bear fruit. In the bodies of all living beings too, I myself cause the embryo to be borne. On the earth I cause all human beings to come into being. In women other than wives also I cause sons to be born.
+
+##### English translation
+(The hotri speaks :) I implant the seed in vegetables, the germ in all living beings ; I engender progeny upon the earth ; I beget children on other women.
+
+##### विशेषविषयगळु (Special Topics)
+
+The priest called Hotṛ speaks thus: By the power of my mantra I cause the plants and trees to bear fruit. I cause the embryo to be borne in the bodies of all living beings. In order that human beings may come into being on the earth, I cause the embryo to be borne both in wives and in women other than wives.
+## Sūkta 184 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्णुरिति तृचं त्रयस्त्रिंशं सूक्तमानुष्टुभं । गर्भाणां त्वष्टा नामर्षिः
+> प्रजापतिपुत्रो विष्णुर्वा । लिंगोक्ता विष्णुत्वष्टृप्रजापतिसिनीवालीसरस्वत्यश्विन इति
+> देवताः । तथा चानुक्रांतं । विष्णुस्तृष्टा गर्भकर्ता विष्णुर्वा प्राजापत्यो गर्भार्थाशीर्लिंगोक्तदैवतमानुष्टुभमिति ॥ लैंगिको विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विष्णुः (*viṣṇuḥ*) is a group of three Ṛks, the thirty-third sūkta, in the Anuṣṭubh metre. Its seer is Tvaṣṭṛ, called Garbhakartṛ ("maker of embryos"), or else Viṣṇu, son of Prajāpati. Its deities are those named in the Ṛks themselves: Viṣṇu, Tvaṣṭṛ, Prajāpati, Sinīvālī, Sarasvatī and the Aśvins. Sāyaṇa cites the Anukramaṇī to the same effect: the seer is Viṣṇu or Tvaṣṭṛ the maker of the embryo, or else a Prajāpati's son; the sūkta is a blessing for an embryo, its deities are those named in the verses, and its metre is Anuṣṭubh. The application is Laiṅgika (by the indication of the verse itself).
+
+##### भावार्थ (Bhāvārtha)
+
+Translation: This sūkta beginning विष्णुः (*viṣṇuḥ*) is the thirty-third sūkta in the twelfth anuvāka. It has three Ṛks. The deity Tvaṣṭṛ, maker of embryos, is the seer of this sūkta, or else Viṣṇu, son of Prajāpati, is the seer. The deities named in the Ṛks, that is, Viṣṇu, Tvaṣṭṛ, Prajāpati, Sinīvālī, Sarasvatī and the Aśvins, are the deities. The metre is Anuṣṭubh. In the Anukramaṇī it is said: विष्णुस्त्वष्टा गर्भकर्ता विष्णुर्वा प्राजापत्यो गर्भार्थाशीर्लिंगोक्तदैवतमानुष्टुभं (*viṣṇustvaṣṭā garbhakartā viṣṇurvā prājāpatyo garbhārthāśīrliṃgoktadaivatamānuṣṭubhaṃ*). The application is Laiṅgika. Sūkta 184.
+
+### Printed p. 1243
+Maṇḍala 10; Anuvāka 12; Sūkta 184. Aṣṭaka 8; Adhyāya 8; Varga 42. Number of Ṛks in the sūkta: 3. Seer: Tvaṣṭṛ the maker of embryos, or Viṣṇu, son of Prajāpati. Deity: the deities named in the verses (Viṣṇu, Tvaṣṭṛ, Prajāpati, Sinīvālī, Sarasvatī, the Aśvins); a blessing for an embryo. Metre: Anuṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु ।  
+> आ सिं॑चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विष्णुः । योनिं । कल्पयतु । त्वष्टा । रूपाणि । पिंशतु ।  
+> आ । सिंचतु । प्रजापतिः । धाता । गर्भं । दधातु । ते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विष्णुर्व्यापको देवो योनिं गर्भाधानस्थानं कल्पयतु । करोतु । त्वष्टा
+> तनुकर्तैतत्संज्ञको देवश्च रूपाणि निरूपकाणि स्त्रीत्वपुंस्त्वाभिव्यंजकानि चिह्नानि
+> पिंशतु । अवयवीकरोतु ॥ पिश अवयवे । मुचादित्वान्नुम् ॥ एवं प्रक्लप्तायां
+> योन्यां प्रजापती रेत आ सिंचतु । निषिंचतु । सृजत्वित्यर्थः । धाता धारको देवो
+> हे जाये ते तव गर्भं गर्भरूपेण परिणतं तद्रेतो दधातु । तत्रैव धारयतु ।
+> गर्भपातापप्रसवा मा भूवन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May Viṣṇu, the all-pervading god, make the womb, the place where the embryo is laid. May Tvaṣṭṛ, the shaper of bodies, a god of that name, carve out the forms, that is, the marks that show female or male state; "may he give them limbs". When the womb has been so prepared, may Prajāpati sprinkle the seed into it ("pour it in, emit it"). May Dhātṛ, the god who supports, place there the seed of you, O wife, which has turned into an embryo, that is, make it stay there; the meaning is that there should be no miscarriage, fall, or untimely birth. (The grammatical remarks on the root पिश (*piśa*) are omitted.)
+
+### Printed p. 1244
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विष्णुः (*viṣṇuḥ*)—the god Viṣṇu, who pervades everywhere
+- योनिं (*yoniṃ*)—the womb (the female part), the place where the embryo is laid
+- कल्पयतु (*kalpayatu*)—let him make (construct)
+- त्वष्टा (*tvaṣṭā*)—the god Tvaṣṭṛ
+- रूपाणि (*rūpāṇi*)—the marks that show female and male form
+- पिंशतु (*piṃśatu*)—let him show them with the respective limbs; in such a womb
+- प्रजापतिः (*prajāpatiḥ*)—the god Prajāpati (the creator)
+- आ सिंचतु (*ā siṃcatu*)—let him sprinkle the seed (semen)
+- धाता (*dhātā*)—the god Dhātṛ, who supports and nourishes all (O wife)
+- ते (*te*)—your
+- गर्भं (*garbhaṃ*)—that seed which has turned into an embryo
+- दधातु (*dadhātu*)—let him make it remain there
+
+##### भावार्थ (Bhāvārtha)
+
+May Viṣṇu, the all-pervading, make the womb, the place where the embryo is laid. May the god Tvaṣṭṛ make the forms furnished with marks suitable to woman and man, that is, the limbs of woman and man. May Prajāpati pour the seed into that womb. O wife, may the god Dhātṛ, who supports and nourishes all, make that seed, which has turned into your embryo, stay there (bear it).
+
+##### English translation
+May Vishnu construct the womb, may Twastri fabricate the members, may Prajapati sprinkle (the seed), may Dratri cherish your embryo.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गर्भं॑ धेहि सिनीवालि॒ गर्भं॑ धेहि सरस्वति ।  
+> गर्भं॑ ते अ॒श्विनौ॑ दे॒वावा ध॑त्तां॒ पुष्क॑रस्रजा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गर्भं । धेहि । सिनीवालि । गर्भं । धेहि । सरस्वति ।  
+> गर्भं । ते । अश्विन् । देवौ । आ । धत्तां । पुष्करस्रजा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सिनीवाल्येतत्संज्ञॆ देवि गर्भं धेहि । निषिक्तं गर्भं धारय । हे सरस्वति
+> त्वं च निषिक्तं गर्भं धारय । हे जाये पुष्करस्रजा पुष्करमालिनौ स्वर्णकमलाभरणावश्विन् देवौ ते तव गर्भमा धत्तां । प्रक्षिपतां । कुरुतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Sinīvālī, goddess of that name, hold the embryo that has been poured in. O Sarasvatī, you also hold the poured-in embryo. O wife, may the two Aśvin gods, garlanded with lotuses (पुष्करस्रजा (*puṣkarasrajā*), adorned with golden lotuses), place your embryo; the meaning of आ धत्तां (*ā dhattāṃ*) is "let them put it in, let them make it".
+
+### Printed p. 1245
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिनीवालि (*sinīvāli*)—O goddess called Sinīvālī
+- गर्भं (*garbhaṃ*)—the embryo in the womb
+- धेहि (*dhehi*)—hold; that is, so that the woman's embryo does not fall through discharge or the like, make the embryo remain growing in the woman's womb
+- सरस्वति (*sarasvati*)—O Sarasvatī, you also
+- गर्भं (*garbhaṃ*)—the woman's embryo
+- धेहि (*dhehi*)—make it be borne (O wife)
+- पुष्करस्रजा (*puṣkarasrajā*)—adorned with garlands of golden lotuses
+- अश्विन् देवौ (*aśvin devau*)—the Aśvin deities
+- ते (*te*)—your
+- गर्भं (*garbhaṃ*)—embryo
+- आ धत्तां (*ā dhattāṃ*)—let them make it be borne (let them protect the embryo)
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sinīvālī, O Sarasvatī, make this woman bear the embryo and protect it. O wife, may the Aśvin deities also, adorned with garlands of golden lotuses, bear and protect your embryo.
+
+##### English translation
+Sustain the embryo, Sinivali, sustain the embryo, Saraswati, may the divine Aswins, garlanded with lotuses, sustain your embryo.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒र॒ण्यया॑ अ॒रणी॒ यं नि॒र्मंथ॑तो अ॒श्विना॑ ।  
+> तं ते॒ गर्भं॑ हवामहे दश॒मे मा॒सि सूत॑वे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यया इति । अरणी इति । यं । निःमंथतः । अश्विना ।  
+> तं । ते । गर्भं । हवामहे । दशमे । मासि । सूतवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिरण्यया हिरण्मय्यावरणी यं गर्भमुद्दिश्याश्विनाश्विन् देवौ निर्मंथतः
+> निर्मथितवंतौ हे जाये ते तुभ्यं त्वदर्थं तं गर्भं हनामहे । आह्वयामहे !
+> दशमे मासि सूतवे प्रसोतुं ॥ पद्दन्नित्यादिना मासशब्दस्य मास्भावः । सूतेस्तुमर्थे सेसेनिति तवेन्प्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+With reference to the embryo which the two Aśvin gods churned out with two golden fire-sticks (अरणी (*araṇī*)), O wife, for you, that is, on your behalf, we invoke that embryo in order that it may be born in the tenth month. (Remarks on मासि (*māsi*) and the ending of सूतवे (*sūtave*) are omitted.)
+
+### Printed p. 1246
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—the Aśvin deities (O woman)
+- हिरण्यया (*hiraṇyayā*)—golden
+- अरणी (*araṇī*)—the fire-sticks
+- यं (*yaṃ*)—with reference to which embryo
+- निर्मंथतः (*nirmaṃthataḥ*)—they churned
+- तं (*taṃ*)—such
+- ते (*te*)—your
+- गर्भं (*garbhaṃ*)—embryo
+- दशमे मासि (*daśame māsi*)—in the tenth month
+- सूतवे (*sūtave*)—for the purpose of birth
+- हवामहे (*havāmahe*)—we desire and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+O woman, that embryo of yours, for which the Aśvin deities churned the golden fire-sticks, we desire and call, that it may be born in the tenth month.
+
+##### English translation
+We invoke your embryo which the Ashwins have churned with the golden pieces of touchwood, that you may bring it forth in the tenth month.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Khila mantras to be recited at the end of this sūkta:
+त्वष्टा रूपकर्ता । विष्णुः । अनुष्टुप् ॥ (*tvaṣṭā rūpakartā | viṣṇuḥ | anuṣṭup ‖*)
+नेजमेष पराशकॆ सुपुत्रः पुनरा पॆत । अस्यै मे पुत्रकामाय्कॆ गर्भमा धेहि यः पुमान् ॥ (*nejameṣa parāśakè suputraḥ punarā pèta | asyai me putrakāmāykè garbhamā dhehi yaḥ pumān ‖*)
+यथेयं पृथिवी महुत्ताना गर्भमादधे । एवं तं गर्भमा धेहि दशमे मासि सूतवे ॥ (*yatheyaṃ pṛthivī mahuttānā garbhamādadhe | evaṃ taṃ garbhamā dhehi daśame māsi sūtave ‖*)
+विष्णोः श्रेष्ठेन रूपेणास्यां नार्यां गवीन्यां । पुमांसं पुत्राना धेहि दशमे मासि सूतवे ॥ (*viṣṇoḥ śreṣṭhena rūpeṇāsyāṃ nāryāṃ gavīnyāṃ | pumāṃsaṃ putrānā dhehi daśame māsi sūtave ‖*)**NOTE**
+## Sūkta 185 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महीति तृचं चतुस्त्रिंशं सूक्तं वरुणपुत्रस्य सत्यधृतेरार्षं गायत्रमादित्यदेवताकं । तथा चानुक्रांतं । महि सत्यधृतिर्वारुणिरादित्यं स्वस्त्ययनं गायत्रं
+> वा इति ॥ धनलिप्सया प्रवसंतं शिष्यमाचार्योऽनेन सूक्तेनाभिमंत्रयते ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning मही (*mahī*) is a group of three Ṛks, the thirty-fourth sūkta. It is the work (seer) of Satyadhṛti, son of Varuṇa, in the Gāyatrī metre, and its deity is Āditya. Sāyaṇa cites the Anukramaṇī: महि (*mahi*), seer Satyadhṛti Vāruṇi, deity Āditya, a prayer for welfare, Gāyatrī (or else the metre is different). The teacher recites this sūkta over a pupil who is going abroad out of desire for wealth.
+
 ---
 
-**Progress note:** Done through printed p. 1239. pp. 1234-1239 (batch API)
+**Progress note:** Done through printed p. 1246. pp. 1240-1246 (batch API)
