@@ -7261,6 +7261,236 @@ The sūkta आशुः शिशान (*āśuḥ śiśāna*), of thirteen Ṛk
 
 This sūkta आशुः शिशानः (*āśuḥ śiśānaḥ*) is the fourth sūkta in the ninth anuvāka. It has thirteen Ṛks. Its seer is Apratiratha, the son of Indra; the thirteenth Ṛk is in the anuṣṭubh metre and the remaining Ṛks in triṣṭubh. The deity of the fourth Ṛk, बृहस्पते परिदीया (*bṛhaspate paridīyā*), is Bṛhaspati; of the twelfth Ṛk, अमीषां चित्तं (*amīṣāṃ cittaṃ*), a goddess named अप्पा (*appā*); the remaining Ṛks are addressed to Indra. For the thirteenth Ṛk the Maruts are an alternative deity. In the Anukramaṇī it is said: आशुः सप्तोनैंद्रोऽप्रतिरथश्चतुर्थि बार्हस्पत्योपांत्यास्वादेव्यंत्यानुष्टुग्मारुती पा (*āśuḥ saptonaiṃdro 'pratirathaścaturthi bārhaspatyopāṃtyāsvādevyaṃtyānuṣṭugmārutī pā*). In the sacrifice with agni-piling, when the piled fires are carried forward, this sūkta is to be muttered by the priest called Brahman as he goes facing south, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra दक्षिणतश्च व्रजन् जपत्याशुः शिशान इति सूक्तं समाप्य (*dakṣiṇataśca vrajan japatyāśuḥ śiśāna iti sūktaṃ samāpya*) (Ā. 1-12); and also by the sūtra ब्रह्माप्रतिरथं जपित्वा (*brahmāpratirathaṃ japitvā*) (Ā. 4-8). That a king who has armed himself and is setting out for battle is to be looked upon with the recitation of this sūkta is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra अथैनवं वीक्षीताप्रतिरथशाससौपर्णॆः (*athainavaṃ vīkṣītāpratirathaśāsasauparṇèḥ*) (Ā. Gṛ. 3-12-13).
 
+### Printed p. 195
+Maṇḍala 10; Anuvāka 9; Sūkta 103. Aṣṭaka 8; Adhyāya 5; Varga 22, 23. Number of Ṛks in the sūkta: 13.
+Seer: Apratiratha Aindra.
+Deity: 1–3 and 5–11, Indra; 4, Bṛhaspati; 12, Apvā; 13, Indra or the Maruts.
+Metre: 1–12 Triṣṭubh; 13 Anuṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒शुः शिशा॑नो वृष॒भो न भी॒मो घ॑नाघ॒नः क्षोभ॑णश्चर्षणी॒नां ।  
+> सं॒क्रंद॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिंद्रः॑॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आशुः । शिशानः । वृषभः । न । भीमः । घनाघनः । क्षोभणः । चर्षणीनां ।  
+> संक्रंदनः । अनिमिषः । एकवीरः । शतं । सेनाः । अजयत् । साकं । इंद्रः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्र आशुः शीघ्रकारी व्यापको ना शिशानो निशितः । शत्रूणां भयजनक
+> इत्यर्थः । क इव । वृषभो न भीमः । बिभेत्यस्मादिति भीमः । तादृशो वृषभ इव । स
+> यथा तीक्ष्णाभ्यां शृंगाभ्यां भीमो भवति तद्वत् । अथवा ! शिशानस्तीक्ष्ममतिः ॥
+> व्यत्ययेनात्मनेपदं ॥ वृषभो न भीमः वृषभो यथा शृंगाभ्यां भयजनकः
+> तद्वच्छत्रूणां 'भयजनकश्च । घनाघनो घातकः शत्रूणां हंता ॥ पचाद्यचि
+> हंतेर्घश्च । पा. ६-१-१२-७ । इति द्विर्वचनमभ्यासस्याडागमो, घत्वं च धात्वभ्यासयोः ॥ चर्षणीनां । चर्षणयो मनुष्याः । मनुष्याणां द्वेष्याणां क्षोभणः
+> क्षोभयिता । संक्रंदनः सम्यक्कंदयिता प्राणिनामाकर्षणेन प्रहारेण वा ।
+> अनिमिषश्चक्षुर्निमेषरहितः । सर्वदा स्वयज्ञगमनयुद्धादिकार्येष्ट्वनलस इत्यर्थः ।
+> एकवीरः । वीरयत्यमित्रानिति वीरः । एकश्वासौ वीरश्च । अथवा एक एव विक्रांतः ।
+> असाहाय्येन कार्यक्षम इत्यर्थः । ईदृशोऽयमिंद्रः शतं सेनाः साकं
+> सहैकोद्योगेनैवाजयत् । जयति ॥
+
+##### Gist of the bhāṣya
+
+This Indra is swift, quick in action and all-pervading, and sharpened (शिशानः (*śiśānaḥ*)), that is, a cause of fear to his enemies. He is like a bull, formidable (भीमः (*bhīmaḥ*), from "one fears him"): as a bull is fearsome with its sharp horns, so he is. Or else शिशानः (*śiśānaḥ*) means "of sharp mind", the ātmanepada being by vyatyaya. घनाघनः (*ghanāghanaḥ*) is the slayer, the killer of enemies. चर्षणीनां (*carṣaṇīnāṃ*): चर्षणयो (*carṣaṇayo*) are men; he agitates (क्षोभणः (*kṣobhaṇaḥ*)) hated men. संक्रंदनः (*saṃkraṃdanaḥ*) is one who makes creatures cry out, by dragging them off or by striking. अनिमिषः (*animiṣaḥ*) is without winking of the eye; he is never slack in going to his sacrifice, in battle and other deeds. एकवीरः (*ekavīraḥ*): he "heroes" his foes, so he is a hero; he is both one and a hero; or else he alone is valorous, able to act without help. Such an Indra conquered a hundred armies together, by a single effort.
+
+### Printed p. 196
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशुः (*āśuḥ*)—swift-going
+- वृषभो न (*vṛṣabho na*)—like a bull rubbing its horn
+- शिशानः (*śiśānaḥ*)—one who rubs and sharpens his weapon
+- भीमः (*bhīmaḥ*)—terrible
+- घनाघनः (*ghanāghanaḥ*)—slayer of enemies
+- चर्षणीनां (*carṣaṇīnāṃ*)—to enemy people
+- क्षोभणः (*kṣobhaṇaḥ*)—causer of destruction
+- संक्रंदनः (*saṃkraṃdanaḥ*)—one who makes them weep
+- अनिमिषः (*animiṣaḥ*)—one who watches without winking
+- एकवीरः (*ekavīraḥ*)—the matchless hero
+- इंद्रः (*iṃdraḥ*)—Indra
+- शतं सेनाः (*śataṃ senāḥ*)—a mass of many armies
+- साकं (*sākaṃ*)—together
+- अजयत् (*ajayat*)—conquers
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, swift-going, who rubs and sharpens his weapon as a bull rubs its horns, terrible, destroyer of enemies, causer of destruction to enemy people, who makes them weep, who watches without winking, the matchless hero, conquers a mass of many armies together.
+
+##### English translation
+The fleet-going Indra, like a formidable bull sharpening (his horns), the slayer of foes, the exciter of men, loud-shouting, ever-vigilant, the chief of heroes overthrew at once a hundred hosts.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska, explaining the method of interpreting mantras, says that some mantras are विप्रतिषिद्दार्था भवंति (*vipratiṣiddārthā bhavaṃti*): the meanings stated in mantras are seen to contradict one another. As an example he gives the Śruti passages अशत्रुरिंद्र जज्जिषे । शतं सेना अजयत्साकमिंद्रः (*aśatruriṃdra jajjiṣe | śataṃ senā ajayatsākamiṃdraḥ*) (Ni. 1-15):
+त्वं सिंधूरवासृजोऽधराचो अहन्नहिं । अशत्रुरिंद्र जज्जिषे विश्वं पुष्यसि वार्यं तत्वा परिष्वजामहे नभंतामन्यकेषां ज्याका अधि धन्वसु ॥ (*tvaṃ siṃdhūravāsṛjo 'dharāco ahannahiṃ | aśatruriṃdra jajjiṣe viśvaṃ puṣyasi vāryaṃ tatvā pariṣvajāmahe nabhaṃtāmanyakeṣāṃ jyākā adhi dhanvasu ‖*) (Ṛ. Saṃ. 10-133-2)
+अशुः शिशानो वृषभो न भीमो घनाघनः क्षोभणश्चर्षणीनां । संक्रंदनोऽनिमिष एकवीरः शतं सेना अजयत्साकमिंद्रः ॥ (*aśuḥ śiśāno vṛṣabho na bhīmo ghanāghanaḥ kṣobhaṇaścarṣaṇīnāṃ | saṃkraṃdano 'nimiṣa ekavīraḥ śataṃ senā ajayatsākamiṃdraḥ ‖*) (Ṛ. Saṃ. 12-103-1)
+The meanings in these two Ṛks are mutually contradictory. In the first Ṛk, अशत्रुरिंद्र जज्जिषे (*aśatruriṃdra jajjiṣe*) — "O Indra, you were born without an enemy" — means that from birth you have had no enemies. In the second Ṛk, एकवीरः शतं सेना अजयत्साकमिंद्रः (*ekavīraḥ śataṃ senā ajayatsākamiṃdraḥ*) — Indra is the sole hero, needs no one else's help, and he alone conquered hundreds of enemy armies. This being so: *yadyaśatruḥ kathaṃ śataṃ senā ajayat | atha śataṃ senā ajayat, kathamaśatruḥ ‖* That is: if Indra has no enemies, how did he conquer a hundred enemy armies? Or if Indra conquers a hundred enemy armies, how is he without enemies? To resolve the differing meanings seen in these passages, the solution must be stated thus: the meanings in these passages are said only to describe Indra's qualities in the highest degree.
+
+### Printed p. 197
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं॒क्रंद॑नेनानिमि॒षेण॑ जि॒ष्णुना॑ युत्का॒रेण॑ दुश्च्यव॒नेन॑  ॒॑
+> धृष्णुना ।  
+> तदिंद्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संक्रंदनेन । अनिमिषेण । जिष्णुना । यत्कारेण । दुःच्यवनेन । धृष्णुना ।  
+> तत् । इंद्रेण । जयत । तत् । सहध्वं । युधः । नरः ! इषुहस्तेन । वृष्णा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्तु नामेंद्र उक्तविधः तथाप्यस्माकं किमिति चेत् आह ! संक्रंदनेनानिमिषेण चोक्तलक्षणेन जिष्णुना जयशीलेन युत्कारेण । योधनं युत् । युद्धकारिणा ॥ कर्मण्यण् ॥ दुश्चवनेनान्यैरविचाल्येन !! च्युज् प्रुज् गतौ । छंदसि
+> गत्यर्थेभ्यः । पा- ३-३-१२९ । इति युच् ॥ धृष्णुना धर्षकेण ईदृशेनेंद्रेण
+> तद्युद्धं जयत । शत्रुबलं सहध्वं । अभिभवत । हे युधो योद्धारो हे नरो
+> नेतारः ॥ विभाषितं विशेषवचने बहुवचनं । पा. ८-१-७४ । इति पूर्वस्याविद्यमानवत्त्वनिषेधादुत्तरं निहन्यते ॥ पुनः कीदृशेनेंद्रेणेति । इषुहस्तेन वृष्णा
+> वर्षित्रा च ॥
+
+##### Gist of the bhāṣya
+
+Granted that Indra is such as described, what is that to us? He answers: with Indra, who has the stated marks of संक्रंदन (*saṃkraṃdana*) and अनिमिष (*animiṣa*), who is victorious (जिष्णुना (*jiṣṇunā*), given to conquering), युत्कारेण (*yutkāreṇa*) (युत् (*yut*) is fighting; one who makes battle), दुश्चवनेन (*duścavanena*) (not to be shaken by others), धृष्णुना (*dhṛṣṇunā*) (bold, overpowering) — with such an Indra win that battle; overcome the enemy force. "O warriors, O leaders" (युधो (*yudho*), नरो (*naro*)). And again, with what kind of Indra? One who has arrows in his hand, a showerer (वृष्णा (*vṛṣṇā*), a rainer).
+
+### Printed p. 198
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युधः (*yudhaḥ*)—O warriors
+- नरः (*naraḥ*)—O leaders
+- संक्रंदनेन (*saṃkraṃdanena*)—who makes enemy people weep
+- अनिमिषेण (*animiṣeṇa*)—who watches without winking
+- जिष्णुना (*jiṣṇunā*)—victorious
+- युत्‌कारेण (*yutkāreṇa*)—who makes war
+- दुश्चवनेन (*duścavanena*)—unassailed
+- धृष्णुना (*dhṛṣṇunā*)—who confronts enemies
+- इषुहस्तेन (*iṣuhastena*)—who holds arrows
+- वृष्णा (*vṛṣṇā*)—granter of desires
+- इंद्रेण (*iṃdreṇa*)—together with Indra
+- तत् (*tat*)—the battle
+- जयत (*jayata*)—win
+- तत् (*tat*)—the enemy army
+- सहध्वं (*sahadhvaṃ*)—defeat
+
+##### भावार्थ (Bhāvārtha)
+
+O warriors, O leaders, together with Indra, who makes enemy people weep, who watches without winking, victorious, who makes war, unassailed, who confronts enemies, who holds arrows, granter of desires, win the battle. Defeat the enemy army.
+
+##### English translation
+With Indra the loud-shouting, the vigilant. the victorious, the warlike the unconquerable, the daring, the hurler of arrows. the showerer, (as your ally) conquer warriors. leaders, that (hostile host) and overcome it.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इषु॑हस्तैः॒ स नि॑षं॒गिभि॑र्व॒शी संसृ॑ष्टा॒ स युध॒ इंद्रो॑  ॒॑
+> गणेन ।  
+> सं॒सृ॒ष्ट॒जित्सो॑म॒पा बा॑हुश॒र्धु१॒ं॑ग्रध॑न्वा॒ प्रति॑हिताभि॒रस्ता॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इषुहस्तैः । सः । निषंगिभिः । वशी । संसृष्टा । सः । युधः । इंद्रः । गणेन ।  
+> संसृष्टजित् । सोमपाः । बाहुशर्धी उग्रधन्वा । प्रतिहिताभिः । अस्ता ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्र इंद्रेण जयतेक्युक्तं आत्रेंद्रस्य जयसाधनसमर्थत्वं
+> दर्शयति । स इंद्र इषुहस्तैर्भटैर्मरुदादिभिर्वशी वश्यैस्तद्वान् । कथा विषंगिभि-
+
+##### Gist of the bhāṣya
+
+In the previous mantra it was said "conquer with Indra"; here he shows Indra's capacity to bring about victory. That Indra is वशी (*vaśī*), having under his control the warriors with arrows in hand, the Maruts and others; and he is joined with those who have swords (निषंगः (*niṣaṃgaḥ*) is a sword).
+
+### Printed p. 199
+
+> र्युक्तः । निषंगः खड्गः । तद्वद्भर्वशी । स चेंद्रो युधो युध्यमानः सन् ॥
+> इगुपथलक्षणः कः ॥ अथवा युधो युद्धहेतोर्गणेन शत्रुसंघेन सह संस्रष्टैकीभवनशीलः । यत एवंविधोऽतः संसृष्टजित् । ये परस्परैकमत्येन युद्धाय
+> संसृष्टा भवंति तेषां जीता । तथा सोमपाः सोमस्य पाता । बाहुशर्धि । शर्धो
+> बलिं । बाह्योर्बलं बाहुबलं । तद्वान् ॥ मत्वर्थीय इनिः । यद्वा । शृधु
+> प्रसहने ! बाहुभ्यां शर्धयत्यभिभवतीति बाहुशर्धि । सुप्यजातौ णिनिस्ताच्छेल्ये ।
+> पा. ३-२-७८ । इति णिनिः!! उग्रधन्वोद्यतधन्वा प्रतिहिताभिः शत्रुषु प्रेरिताभिरिषुभिरस्ता
+> मारयिता । यत्रेषून्मुंचति तत्र वृथा न भवतीत्यर्थः । ईदृशेनेंद्रेण जयतेति
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+And that Indra is युधः (*yudhaḥ*), fighting. Or else, for the sake of battle he is given to joining and becoming one with the enemy host (गणेन (*gaṇena*)). Being such, he is संसृष्टजित् (*saṃsṛṣṭajit*), conqueror of those who join one another with a single mind for battle. Likewise सोमपाः (*somapāḥ*), drinker of Soma; बाहुशर्धि (*bāhuśardhi*): *śardhaḥ* is strength, the strength of the arms is बाहुबलं (*bāhubalaṃ*), and he possesses it (the suffix ini in the sense of possession). Or else, from the root शृधु (*śṛdhu*) in the sense of overpowering, he overcomes with the arms, hence बाहुशर्धि (*bāhuśardhi*). उग्रधन्वा (*ugradhanvā*) is one with a raised bow; अस्ता (*astā*) is one who kills with arrows directed at enemies (प्रतिहिताभिः (*pratihitābhiḥ*)); wherever he looses arrows, they are not in vain. The construction is: conquer with such an Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सॆः इंद्रः—आ (*sèḥ iṃdraḥ—ā*)—that Indra
+- इषुहस्तैः (*iṣuhastaiḥ*)—is joined with the Maruts holding arrows
+- निषंगिभिः (*niṣaṃgibhiḥ*)—is armed with a sword
+- वशी (*vaśī*)—brings all under his control
+- सः (*saḥ*)—he
+- युधः (*yudhaḥ*)—while fighting
+- गणेन (*gaṇena*)—with the enemy host
+- संसृष्टा (*saṃsṛṣṭā*)—joins
+- संसृष्टजित् (*saṃsṛṣṭajit*)—conquers the enemies who join him
+- सोमपाः (*somapāḥ*)—drinks Soma
+- बाहुशर्धी (*bāhuśardhī*)—one possessing strength of arm
+- उग्रधन्वा (*ugradhanvā*)—with a raised bow
+- प्रतिहिताभिः (*pratihitābhiḥ*)—with arrows directed at enemies
+- अस्ता (*astā*)—destroys enemies
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is joined with the Maruts who hold arrows. He is armed with a sword. He brings all under his control. While fighting he joins the enemy host. He conquers the enemies who join him. He drinks Soma. He possesses strength of arm. With his bow he shoots arrows at the enemies and destroys them.
+
+##### English translation
+Indra, with the arrow-bearing (Maruts), armed with swords, the subduer, the warrior, who encounters a multitude (of foes), whod conquers those who encounter him, the drinker of the Soma, the strong-armed, having a powerful bow, who shoots with well aimed arrows (conquer with his help).
+
+### Printed p. 200
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते॒ परि॑ दीया॒ रथे॑न रक्षो॒हामित्रा॑ अप॒बाध॑मानः ।  
+> प्र॒भं॒जन्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता  ॑
+> रथानां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । परि । दीय । रथेन । रक्षःहा । अमित्रान् । अपबाधमानः ।  
+> प्रभंजन् । सेनाः । प्रमृणः । युधा ! जयन् । अस्माकं । एधि । अविता । रथानां॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहस्पते बृहतां पातः पालयितर्देव रथेन परि दीय । परिगच्छ ।
+> दीयतिर्गच्छतिकर्मा । आगत्य च रक्षोहा रक्षसां हंतामित्राञ्त्यत्रूनपबाधमानः
+> सर्वतो नाशयन् तथा सेनाः शत्रुसंबंधिनीः प्रभंजन् प्रकर्षण नाशयन्
+> प्रमृणः प्रकर्षण हिंसन् ॥ मृण हिंसायां ! इगुपधलक्षणः कः ॥ केन हिंसन् ।
+> युधा युद्धेन ॥ सावेकाच इति विभक्तेरुदात्तत्वं ॥ जयन्नेवं सर्वत्र जयं
+> प्रतिपद्यमानः ईदृशस्त्वमस्माकं रथानामवितैधि । भव ॥
+
+##### Gist of the bhāṣya
+
+O Bṛhaspati, protector of the great, O god, go about (परि दीय (*pari dīya*), go round) with your chariot; दीयति (*dīyati*) is a verb of going. Having come, as slayer of Rakṣases (रक्षोहा (*rakṣohā*)), driving away enemies on all sides, destroying them everywhere, and shattering the enemy's armies, प्रमृणः (*pramṛṇaḥ*) crushing them forcefully (root मृण (*mṛṇa*), to injure). With what? युधा (*yudhā*), with battle. Thus, gaining victory everywhere, be you, such as you are, the protector of our chariots.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- रथेन (*rathena*)—with your chariot
+- परिदीय (*paridīya*)—go about
+- युधा (*yudhā*)—by battle
+- रक्षोहा (*rakṣohā*)—as slayer of Rākṣasas
+- अमित्रान् (*amitrān*)—enemies
+- अपबाधमानः (*apabādhamānaḥ*)—harassing
+- सेनाः (*senāḥ*)—enemy armies
+- प्रभंजन् (*prabhaṃjan*)—destroying
+- प्रमृणः (*pramṛṇaḥ*)—injuring
+- जयन् (*jayan*)—gaining victory
+- अस्माकं (*asmākaṃ*)—our
+- रथानां (*rathānāṃ*)—for the chariots
+- अविता (*avitā*)—as protector
+- विधि (*vidhi*) be **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, go about with your chariot. As slayer of Rākṣasas by battle, harassing enemies, destroying them, gaining victory everywhere, be the protector of our chariots.
+
 ---
 
-**Progress note:** Done through printed p. 194. pp. 189-194 (batch API)
+**Progress note:** Done through printed p. 200. pp. 195-200 (batch API)
