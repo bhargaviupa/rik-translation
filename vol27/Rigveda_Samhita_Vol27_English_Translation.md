@@ -8703,6 +8703,197 @@ Each person, in order to be freed from this debt, to take part also in the conti
 जायमानो वै ब्राह्मणस्त्रिभिर्ऋणवा जायते ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष ना अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी ॥ (*jāyamāno vai brāhmaṇastribhirṛṇavā jāyate brahmacaryeṇarṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa nā anṛṇo yaḥ putrī yajvā brahmacārivāsī ‖*)
 (Tai. Saṃ. 6-3-11-5)
 
+### Printed p. 214
+The Kannada text continues from the previous page.
+
+Moreover, a Brahmin is born carrying three kinds of debts from the moment of his birth: the debt to the ṛṣis, the debt to the gods, and the debt to the ancestors. The debt to the ṛṣis is discharged by dwelling in the teacher's household under the vow of celibacy and studying the Veda regularly, with instruction from the teacher. The debt to the gods is discharged by worshipping the deities through sacrifices and the like. The debt to the ancestors is discharged by begetting lawful offspring on a wife taken in marriage. So it is also said in the Taittirīya Saṃhitā (Yajurveda), and so on. Thus, if every individual is to attain a vigorous existence within the universal order, sacrifice is the thread that links these generalities and particulars. This sacrifice, which is such a thread, itself grows at one time along with the expansion of the universe, and contracts at another time along with its contraction. It adjusts its own course to the course of the universe. Explaining this point, the Śatapatha Brāhmaṇa gives the etymology of the word *yajña*:
+
+अथ यस्माद्यज्ञो नाम । घ्नंति वा एनमेतद्यदभिषुण्वंति तद्यदेनं तन्नते तदेनं जनयंति स तायमानो जायते स यन् जायते तस्माद्यज्ञो यञ्जॊ ह वै नामैतद्यज्ञ इति । (*atha yasmādyajño nāma | ghnaṃti vā enametadyadabhiṣuṇvaṃti tadyadenaṃ tannate tadenaṃ janayaṃti sa tāyamāno jāyate sa yan jāyate tasmādyajño yañjò ha vai nāmaitadyajña iti |*)
+(Śa. Brā. 3-9-4-23)
+
+At the time of pressing, they crush the soma plant and kill it. Then they make it come into being again. Because it comes into being with an expanding course, the name *yajña* became established. Thus it is shown that contraction and expansion also exist according to need. And since it accords with the state and course of the universe, it is a benefactor of the universe. How is that? —
+
+भुज्युः सुपर्ण इति वै भुज्युः यज्ञो हि सर्वाणि भुनक्ति यज्ञो गंधर्वः..................॥ (*bhujyuḥ suparṇa iti vai bhujyuḥ yajño hi sarvāṇi bhunakti yajño gaṃdharvaḥ..................‖*)
+(Śa. Cā. 9-4-1-11) **NOTE**
+
+Sacrifice requires all beings for its offering, and again it spreads out for the benefit of all beings. Having thus shown the relation of identity between the universal principle and sacrifice, the text says that sacrifice is the cause of all worldly activity of the universe, that it alone is the protector, and that it alone is the relation in the form of a thread. This point, described in many Śruti passages, is described in the present Ṛk by the words नाभा पृथिव्याः (*nābhā pṛthivyāḥ*). For that very reason, to carry out this sacrifice, which is the navel of the universe, equal faith is shown to be absolutely necessary for gods, men and all the rest. **NOTE**
+
+### Printed p. 215
+यो वै श्रद्धामनारभ्य यज्ञेन यजते नास्यॆष्टाय श्रद्धधतेऽपः प्रणयति श्रद्धा वा आपः श्रद्धामेवारभ्य यज्ञेन यजत उभयेऽस्य देवमनुष्या इष्टाय श्रद्धधते ॥ (*yo vai śraddhāmanārabhya yajñena yajate nāsyèṣṭāya śraddhadhate 'paḥ praṇayati śraddhā vā āpaḥ śraddhāmevārabhya yajñena yajata ubhaye 'sya devamanuṣyā iṣṭāya śraddhadhate ‖*)
+(Tai. Saṃ. 1-6-8-1)
+
+The sacrifice of one who sacrifices without faith does not succeed. The sacrifice must be performed with the *ap* (water), which is faith, placed first. It is also shown that faith is necessary, for all, gods, men and the rest, take part in the sacrifice only through faith.
+
+This faith that must be placed in the principle of sacrifice is not mere blind faith. This faith must have the power to grasp the spiritual principle. It must know the relation between sacrifice, the navel of the world, and the principle of Brahman. The sacrificer who has this faith, standing on the basis of spiritual knowledge, conceives an identity between himself and the sacrifice. Afterwards he comes to know the identity between sacrifice and Prajāpati. He comes to know that all the worldly activities of the Supreme Brahman in the form of Prajāpati lie hidden in this principle of sacrifice. And he himself also takes a share in that wheel of the universe.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ हि द्यावा॑पृथि॒वी अ॑ग्न उ॒भे सदा॑ पु॒त्रो न मा॒तरा॑ त॒तंथ॑।  
+> प्र या॒ह्य च्यो॑श॒तो य॑वि॒ष्वाथा व॑ह सहस्ये॒ह दे॒वान् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । हि । द्यावापृथिवी इति । अग्ने ! उभे इति । सदा । पुत्रः । न ! मातरा । ततंथ ।  
+> प्र । याहि । अच्छ । उशतः । यविष्ठ । अथ । आ । वह । सहस्य । इह । देवान् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमुभे द्यावापृथिवी द्यावापृथिव्य सदा सर्वदा ततंथ । आतेनिथ । स्वतेजोभिर्विस्तारयसि खलु ॥ बभूथा ततंधेति थलि निपातितः ॥ तत्र
+> दृष्टांतः । पुत्रो न यथा पुत्रो मातरा मातापितरौ क्षीणौ धनैस्तनोति
+> तद्वत् । किंच हे यविष्ठ युवतम स त्वमुशतः कामयमानानच्छाभिलक्ष्य प्र
+> याहि । प्रकर्षणागच्छ । अथानंतरं हे सहस्य सहसो बलस्य पुत्र हे अग्ने त्वमिहास्यदीये यज्ञे देवानिंद्रादीना वह । प्रापय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you have always stretched out both heaven and earth, extending them by your own radiances. He cites the example: as a son supports his parents, who have become worn out, with wealth. Further, O youngest one, you should go forth toward those who desire you, approaching them eagerly. Then, O son of strength (सहस्य (*sahasya*)), bring Indra and the other gods hither to this sacrifice of ours and cause them to arrive.
+
+### Printed p. 216
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पुत्रः (*putraḥ*)—a son
+- मातरा न (*mātarā na*)—as he nourishes (supports) his parents with his wealth
+- (त्वं (*tvaṃ*)—you)
+- उभे द्यावापृथिवी (*ubhe dyāvāpṛthivī*)—both heaven and earth
+- सदा (*sadā*)—always
+- आ ततंथ (*ā tataṃtha*)—you have caused to be extended
+- यविष्ठ (*yaviṣṭha*)—O Agni, the youngest
+- उशतः अच्छ (*uśataḥ accha*)—toward the sacrificers who desire you
+- प्र याहि (*pra yāhi*)—come eagerly
+- अथ (*atha*)—afterwards
+- सहस्य (*sahasya*)—O Agni, son of strength
+- इह (*iha*)—in this sacrifice of ours
+- देवान् (*devān*)—the gods, Indra and the others
+- आ वह (*ā vaha*)—bring and unite them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as a son nourishes and supports his parents with his wealth, you have caused both heaven and earth to be extended always. O Agni, the youngest, come eagerly toward the sacrificers who desire you. Afterwards, O Agni, son of strength, bring Indra and the other gods to this sacrifice of ours and unite them with it.
+
+##### English translation
+You have ever sustained, Agni, both heaven and earth, as a son (supports) his parents : come youngest (of the gods), to the presence of those desiring (you); Son of strength, bring hither the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+पुत्रः मातरा न (*putraḥ mātarā na*)—Since the dual form of the word *mātṛ* is used here, the word मातरा (*mātarā*) means mother and father together. "As a son supports his parents" means here: as a young son supports with food and the like parents who have grown old and weak. Parents protect their son in childhood. In course of time, when the parents have grown old and are unable to do work, it is the son's duty, as a young man, to support and protect them. This very matter is explained here by the illustration पुत्रो न मातरा (*putro na mātarā*).
+
+## Sūkta 2 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिप्रीहीति सप्तर्चं द्वितीयं सूक्तं । ऋष्याद्याः पूर्ववत् । पिप्रीहीत्यनुक्रांतं ॥ प्रातरनुवाकाशिवशस्त्रयोरुक्तः सूक्तविनियोगः ॥ दर्शपूर्णमासयो-
+
+##### Gist of the bhāṣya
+
+The second sūkta, beginning पिप्रीहि (*piprīhi*), has seven Ṛks. The seer and the rest are as before. The Anukramaṇī says पिप्रीहि (*piprīhi*). The use of the sūkta in the Prātaranuvāka and in the Āśvina-śastra has been stated. In the Darśapūrṇamāsa sacrifices the first Ṛk is the anuvākyā of the Sviṣṭakṛt. ()
+
+### Printed p. 217
+
+> राद्या स्विष्टकृतोऽनुवाक्या । सूत्रितं च । अथ स्विष्टकृतः पिप्रीहि देवा उशतो
+> यविष्ठेत्यनुवाक्या । आ. १.६ । इति ॥
+
+##### Gist of the bhāṣya
+
+Continuing: and it is cited in a sūtra: "Now for the Sviṣṭakṛt: पिप्रीहि देवा उशतो यविष्ठ (*piprīhi devā uśato yaviṣṭha*) is the anuvākyā" (Ā. 1.6).
+
+##### English translation
+The Kannada Anuvāda: This sūkta beginning पिप्रीहि (*piprīhi*) is the second sūkta in the first anuvāka of the tenth maṇḍala. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. In the Anukramaṇī it is said पिप्रीहि (*piprīhi*). It was already said that this sūkta is used for the Prātaranuvāka mantras and the Āśvina-śastra mantras. And it is explained in the Āśvalāyana Śrauta Sūtra, in the sūtra अथ स्विष्टकृतः पिप्रीहि देवा उशतो यविष्ठेत्यनुवाक्या (*atha sviṣṭakṛtaḥ piprīhi devā uśato yaviṣṭhetyanuvākyā*) (Ā. 1-6), that the first Ṛk of this sūkta is to be recited as the anuvākyā mantra in the Svaṣṭakṛt offering at the Darśapūrṇamāsa sacrifices. **NOTE**
+
+Particulars: Sūkta 2; Maṇḍala 10; Anuvāka 1; Sūkta 2; Aṣṭaka 7; Adhyāya 5; Varga 30. Number of Ṛks in the sūkta: 7. Seer: Trita Āptya. Deity: Agni. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒प्री॒हि दे॒वा उ॑श॒तो य॑विष्ठ वि॒द्वान् ऋ॒तूऋ॑तुपते  ॒
+> यजेह ।  
+> ये दैव्या॑ ऋ॒त्विज॒स्तेभि॑रग्ने॒ त्वं होत्य॑णाम॒स्याय॑जिष्ठः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिप्रीहि । देवान् । उशतः । यविष्ठ । विद्वान् । ऋतून् । ऋतुपते । यज ।  
+> इह ।  
+> ये । दैव्याः । ऋत्विजः । तेभिः । अग्ने । त्वं । होत्यणां । असि । आयजिष्ठः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतमाग्ने उशतः स्तुतीः त्रोतुं कामायमानान्देवान्पिप्रीहि । हविर्भिः प्रीणय । हे ऋतुपत ऋतूतां देवयागकालानां स्वामिन्नग्ने
+
+##### Gist of the bhāṣya
+
+O Agni, the youngest, propitiate with oblations the gods who desire to hear praises. O lord of the ṛtus, the seasons (times) of the sacrifices to the gods, you who know the times of sacrifice, worship them here in this sacrifice.
+
+### Printed p. 218
+
+> ऋतून्यागकालान्विद्वाञ्ज्ञानानस्त्वमिहास्मिन्यज्ञे तान्यज । पूजय । किंच हे अग्ने
+> दैव्या देवेषु भवाः अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मित्र उपवक्ता । तै. आ.
+> ३-३ । इत्यत्रोक्ता य ऋत्विजः संति तेभिस्तैः सह देवान्यज । यद्वा । दैव्या
+> देवेषु भवा ऋत्विज आश्वलायनेनोकाश्चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य
+> उद्दातेति ! आ. गृ. १.१३. ८,९ । तैः सह यज ! यस्मात्त्वं होत्यणां मध्य आय.
+> जिष्ठ अभिमुख्येन देवानां यष्टृतमोऽसि भवसि ॥
+
+##### Gist of the bhāṣya
+
+Further, O Agni, the divine priests (दैव्या (*daivyā*)), those born among the gods, are those named in the passage अग्निर्होताश्विनावध्वर्यू त्वष्टाग्नीन्मित्र उपवक्ता (*agnirhotāśvināvadhvaryū tvaṣṭāgnīnmitra upavaktā*) (Tai. Ā. 3-3); worship the gods together with them. Or else: the divine priests are those spoken of by Āśvalāyana: चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्दातेति (*caṃdramā brahmādityo 'dhvaryuḥ parjanya uddāteti*) (Ā. Gṛ. 1.13.8,9); worship together with them. For among the hotṛs you are the foremost, the best sacrificer to the gods. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O Agni, the youngest
+- उशतः (*uśataḥ*)—who desire praises
+- देवान् (*devān*)—the gods
+- पिप्रीहि (*piprīhi*)—satisfy with oblations
+- ऋतुपते (*ṛtupate*)—O Agni, lord of the times of sacrifice
+- यतून् (*yatūn*)—the times of sacrifice
+- विद्वान् (*vidvān*)—you who know
+- इह (*iha*)—in this sacrifice
+- यज (*yaja*)—worship them
+- अग्ने (*agne*)—O Agni
+- दैव्याः (*daivyāḥ*)—related to the gods
+- ये ऋत्विजः (*ye ṛtvijaḥ*)—whatever priests there are
+- तेभिः (*tebhiḥ*)—with them worship the gods
+- त्वं (*tvaṃ*)—you
+- होतृणां (*hotṛṇāṃ*)—among the hotṛs
+- आ यजिष्ठः (*ā yajiṣṭhaḥ*)—as the most excellent worshipper of the gods
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the youngest, satisfy with oblations the gods who desire praises. O Agni, the regulator of the times of sacrifice, you who know the times of sacrifice, worship them in this sacrifice. O Agni, worship the gods together with whatever priests belong to the gods. Among the hotṛs you are the most excellent worshipper of the gods.
+
+##### English translation
+Agni, youngest (of the deities), propitiate the desiring gods; lord of seasons, cognizant of seasons, here offer worship; worship with those who are the priests of the celestials; among the ministrant priests you are the best offerer.
+
+##### विशेषविषयगळु (Special Topics)
+
+ऋतुपते, ऋतून् विद्वान् (*ṛtupate, ṛtūn vidvān*)—Yāska has said that the word *ṛtu* has the meaning "time" (Ni. 8-4 and 12-46). And, explaining the meaning of the word *ṛtu* and its formation, he says:
+
+मुहूर्तो मुहुर्ऋतुः । ऋतुरर्तेर्गतिकर्मणः । मुहुर्मूहळ इव कालो यावदभीक्ष्णं चेति । अभीक्ष्ण मभिक्षणं भवति । क्षणः क्षणोतः प्रक्षुतः कालः । कालः कालयतेर्गतिकर्मणः ॥ (*muhūrto muhurṛtuḥ | ṛturartergatikarmaṇaḥ | muhurmūhaḷa iva kālo yāvadabhīkṣṇaṃ ceti | abhīkṣṇa mabhikṣaṇaṃ bhavati | kṣaṇaḥ kṣaṇotaḥ prakṣutaḥ kālaḥ | kālaḥ kālayatergatikarmaṇaḥ ‖*)
+(reference printed garbled) **NOTE**
+
+### Printed p. 219
+*Muhūrta* means *muhuḥ* + *ṛtuḥ*: time that is attained again and again. As soon as one moment is over, another moment comes joined to it. That is, time is unbroken. The word *ṛtu* is formed from the root *ṛ-gat*, with the meanings "go", "pass", "elapse" and so on. Because it is passing away, *ṛtu* is called time. *Kṣaṇa* means a very small division of time. This word is formed from the root *kṣaṇ*, "injure, cut". *Kṣaṇa* is a piece of time (cut off), that is, a very small division. The word *kāla* also is formed from the root *kal* with the meaning "go", and means time that is passing away.
+
+When sacrifices and offerings are to be performed, one should look at what is auspicious among months, lunar days, weekdays, constellations and the like, and perform them at that time. To explain that Agni knows such divisions of time and the nature of time, Agni is addressed here by the word ऋतुपते (*ṛtupate*); and ऋतून् विद्वान् (*ṛtūn vidvān*): to explain that Agni has full knowledge of which sacrifices are to be performed at which times, and which sacrifices the Brāhmaṇa and the other castes are to perform at which times, the words "knowing the ṛtus, knowing the nature of time" are given as Agni's qualities. **NOTE**
+
+ये दैव्या ऋत्विजः (*ye daivyā ṛtvijaḥ*)—Among men there are priests such as the hotṛ and adhvaryu; it is said here that among the gods also there are priests.
+
+On this matter the commentator has cited the Śruti passage of the Taittirīya Āraṇyaka:
+
+अग्निर्होता । अश्विनाध्वयूर् । त्वष्टाग्नीत् । (*agnirhotā | aśvinādhvayūr | tvaṣṭāgnīt |*)
+(Tai. Ā. 3-3)
+
+Among the gods Agni is the priest called hotṛ, the Aśvins are the adhvaryus, Tvaṣṭṛ is the Āgnīdhra, and so on. Āśvalāyana too, in his Gṛhya Sūtra, explains: चंद्रमा ब्रह्मादित्योऽध्वर्युः पर्जन्य उद्गाता (*caṃdramā brahmādityo 'dhvaryuḥ parjanya udgātā*). Among the gods the moon is the priest called brahmā, the sun is the adhvaryu, and Parjanya is the priest called udgātṛ (Ā. Gṛ. 1-23-8, 9). **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेषि॑ हो॒त्रमु॒त पो॒त्रं जना॑नां मंधा॒तासि॑ द्रविणो॒॒तु  ॑
+> ऋ॒तावा॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 213. pp. 208-213 (batch API)
+**Progress note:** Done through printed p. 219. pp. 214-219 (batch API)
