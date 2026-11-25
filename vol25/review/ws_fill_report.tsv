@@ -1,0 +1,80 @@
+M	S	riks_index	samhita_blocks	pada_blocks	bhashya_blocks	intro_blocks	bhashya_expected	intro_expected	status	note
+8	68	19	19	19	19	1	19	1	filled	
+8	69	18	18	18	18	1	18	1	filled	
+8	70	15	15	16	15	1	15	1	NOT FILLED	bhashya then pada at lines 922, 929 (Ṛk 5)
+8	71	15	15	15	15	1	15	1	filled	header read 6.71, expected 8.71: expected number used
+8	72	18	18	18	18	1	18	1	filled	
+8	73	18	18	18	18	1	18	1	filled	
+8	74	15	15	15	15	1	15	1	filled	header read 8.24, expected 8.74: expected number used
+8	75	16	16	16	16	1	16	1	filled	
+8	76	12	12	12	11	1	12	1	NOT FILLED	
+8	77	11	11	11	11	1	11	1	filled	
+8	78	10	10	10	10	1	10	1	filled	
+8	79	9	9	9	9	1	9	1	filled	header read 9.79, expected 8.79: expected number used
+8	80	10	10	10	10	1	10	1	filled	
+8	81	9	9	9	9	1	9	1	filled	
+8	82	9	9	9	9	1	9	1	filled	
+8	83	9	9	9	9	1	9	1	filled	
+8	84	9	9	9	9	1	9	1	filled	
+8	85	9	9	9	9	1	9	1	filled	
+8	86	5	5	4	5	1	5	1	NOT FILLED	samhita then bhashya at lines 5635, 5641 (Ṛk 4)
+8	87	6	6	6	6	1	6	1	filled	
+8	88	6	6	6	6	1	6	1	filled	
+8	89	7	7	7	7	1	7	1	filled	
+8	90	6	6	6	6	1	6	1	filled	
+8	91	7	7	7	7	1	7	1	filled	
+8	92	33	33	33	33	1	33	1	filled	
+8	93	34	34	34	35	1	34	1	NOT FILLED	bhashya then bhashya at lines 7776, 7818 (Ṛk 34)
+8	94	12	12	12	12	1	12	1	filled	
+8	95	9	9	9	9	1	9	1	filled	
+8	96	21	21	20	21	1	21	1	NOT FILLED	samhita then bhashya at lines 8658, 8663 (Ṛk 13)
+8	97	15	15	15	15	1	15	1	filled	
+8	98	12	12	12	12	1	12	1	filled	
+8	99	8	8	8	8	1	8	1	filled	
+8	100	12	12	12	12	1	12	1	filled	
+8	101	16	16	16	16	1	16	1	filled	
+8	102	22	22	22	22	1	22	1	filled	
+8	103	14	14	14	14	1	14	1	filled	
+9	1	10	10	10	10	1	10	1	filled	
+9	2	10	10	10	10	1	10	1	filled	
+9	3	10	10	10	10	1	10	1	filled	
+9	4	10	10	10	10	1	10	1	filled	
+9	5	11	11	11	10	1	11	1	NOT FILLED	
+9	6	9	9	9	9	1	9	1	filled	
+9	7	9	9	9	9	1	9	1	filled	
+9	8	9	9	9	9	1	9	1	filled	
+9	9	9	9	9	9	1	9	1	filled	
+9	10	9	9	9	9	1	9	1	filled	
+9	11	9	9	9	9	1	9	1	filled	
+9	12	9	9	9	9	1	9	1	filled	
+9	13	9	9	9	9	1	9	1	filled	
+9	14	8	8	8	8	1	8	1	filled	
+9	15	8	8	8	8	1	8	1	filled	
+9	16	8	8	8	8	1	8	1	filled	
+9	17	8	8	8	8	1	8	1	filled	
+9	18	7	7	7	7	1	7	1	filled	
+9	19	7	7	7	7	1	7	1	filled	
+9	20	7	7	7	7	1	7	1	filled	
+9	21	7	7	7	7	1	7	1	filled	
+9	22	7	7	7	7	1	7	1	filled	
+9	23	7	7	7	7	1	7	1	filled	
+9	24	7	7	7	7	1	7	1	filled	
+9	25	6	6	6	6	1	6	1	filled	
+9	26	6	6	6	6	1	6	1	filled	
+9	27	6	6	6	6	1	6	1	filled	
+9	28	6	6	6	6	1	6	1	filled	
+9	29	6	6	6	6	1	6	1	filled	
+9	30	6	6	6	6	1	6	1	filled	
+9	31	6	6	6	6	1	6	1	filled	
+9	32	6	6	6	6	1	6	1	filled	
+9	33	6	6	6	6	1	6	1	filled	
+9	34	6	6	6	6	1	6	1	filled	
+9	35	6	6	6	6	1	6	1	filled	
+9	36	6	6	6	6	1	6	1	filled	
+9	37	6	6	6	6	1	6	1	filled	
+9	38	6	6	6	6	1	6	1	filled	
+9	39	6	6	6	6	1	6	1	filled	
+9	40	6	6	6	6	1	6	1	filled	
+9	41	6	6	6	5	1	6	1	NOT FILLED	
+9	42	6	6	6	6	1	6	1	filled	
+9	43	6	6	6	6	1	6	1	filled	
