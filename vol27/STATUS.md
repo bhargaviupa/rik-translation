@@ -18,6 +18,9 @@ Translated by `api_front.py 27 2 72 preface` ($0.035, checks PASS, 0 NOTE), inst
 ## Plan and batch
 Full plan: 163 windows, 991 pages, 3,698,515 input tokens (estimate $3.70 + output $9.25–22.19). The user has about $8 of API budget (Nov 25 2026), so the batch is cut to the FIRST 120 windows (pp. 1–about 732, 2,739,105 input tokens; expected real cost $6.7–7.1 from Vols 23 and 30: $2.4–2.6 per million input tokens). The remaining 43 windows (about pp. 733–992, about $2.4) wait for more budget: `api_batch.py plan 27 --windows 60` continues after the last committed page.
 
+## Batch
+Submitted Nov 25 2026 (user: go ahead, about $8 budget): ONE batch of 120 windows (pp. 1–733), id msgbatch_01EVr5raKLLpp8KBdApuFYD2 in `vol27/work/api_batch.json`. Next: `status 27`, dry-run sweep, `collect 27`.
+
 ## Open items
 1. (user) API budget for the last 43 windows (about $2.5).
 2. (dispatcher) `collect 27`, repair stops, then the rest, then the finishing checklist.
