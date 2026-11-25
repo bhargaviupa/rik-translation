@@ -10791,6 +10791,119 @@ In these Ṛks the matter of the two dogs called Sārameyau, the pups of the div
 
 The matter of the divine bitch Saramā mentioned above going to the Paṇis and negotiating with them is described in the 108th sūkta of the 10th Maṇḍala of the Ṛgveda (the present sūkta) in this way—
 
+### Printed p. 289
+Formerly the cows of Bṛhaspati were stolen by the Paṇis, the followers of Vala, and hidden in a secret place. At Bṛhaspati's request Indra then sent Saramā, the divine bitch, to search for the cows. Searching for them, Saramā travelled a very long way. She crossed a great river called Rasā that lay across her path and came near the Paṇis. The Paṇis learned why she had come and, wishing to make friends with her, held this conversation:
+
+Paṇis: O Saramā, you seem to have come here from far away with much hardship. What is your purpose in coming here? How did you come here? How did you cross the river Rasā?
+
+Saramā: Listen, O Paṇis. I have come here commissioned by Indra, as his messenger. Indra desires the wealth that you have hidden. The river Rasā took fright and helped me to cross. Therefore I crossed that river and came.
+
+Paṇis: Very well, Saramā. You say that Indra has sent you as his messenger. What does that Indra look like? (The Paṇis say among themselves:) Let Saramā come if she will. Let us make friends with her, and let her be the mistress of our cows.
+
+Saramā: It is not possible to conquer that Indra, as you imagine. The Indra who sent me conquers his enemies; others cannot conquer him. Even deep rivers cannot stop him. Struck down by him, you will have to lie on the bed of death.
+
+Paṇis: O Saramā, is it not for these cows that you have come this long way by the path of the sky and desire them? But who will hand those cows over to you for nothing, without a fight? Our weapons are very sharp.
+
+Saramā: What use are your words? Is there an army's strength in those words? Do your sin-filled bodies have the power of bows and arrows? The path you follow is full of hardship. Bṛhaspati (the owner of the cows) will show you no mercy and will set no value on your words.
+
+Paṇis: O Saramā, this wealth of cattle, that is, cows, horses, goods and so on, we have gathered and kept in the mountains, and we, the Paṇis, guard it with great care. It is in vain that you have come alone to such an inaccessible place.
+
+### Printed p. 290
+Saramā: Listen, O Paṇis. The Ṛṣis and the Aṅgirases, having gained strength and power by drinking Soma, will come here under the leadership of Ayāsya, seize these cows by force and divide them among themselves. Then you will know that your talk was in vain.
+
+Paṇis: O Saramā, you seem to have the support of the gods. Therefore we shall regard you as our sister. Do not go back to Indra. Stay here. We shall give you a share of these cows too.
+
+Saramā: I do not want the friendship and sisterhood you offer. Indra and the fearsome Aṅgirases know my nature. When I came here searching for the cows, they came to know your dwelling by a hidden path. Therefore, O Paṇis, run far away and save your lives.
+
+Do not delay; go to a safe region far off. Let the cows kept in the cave come out in order. Bṛhaspati, Soma and the wise Ṛṣis, having discovered this secret place, will break open the door of the cave where the cows are and rush in.
+
+In this conversation the Paṇis speak one Ṛk and Saramā speaks another as the reply. The theft of cows by these Paṇis is hinted at in many places in the Ṛgveda.
+
+Although in the Ṛgveda the word paṇi has the meaning of a rich man who does trade and the like, it also means a man who performs no sacrifices and gives no dakṣiṇā or gifts; so the Ṛṣis seem to have looked on him with contempt and thought him unworthy of respect and a base man. In some places paṇi appears as a single person, but since the plural use of this word is especially frequent, it should be understood that the word पणयः (*paṇayaḥ*) denotes a class of people. According to some, these Paṇis were earlier inhabitants of this country and engaged in trade and the like; but as they lacked honesty, people said that they belonged to the group of the Asuras. Because they performed no sacrifices, had no interest in any good rite, and regarded the mere acquisition of wealth, by just or unjust means, as the chief thing and acted accordingly, the Ṛṣis took them for robbers and men of base occupation and expressed that opinion in the mantras and elsewhere. There are many Ṛks in the Ṛgveda about the Paṇis.
+
+### Printed p. 291
+Regarding this sūkta, the 8th chapter of the Bṛhaddevatā says:
+असुराः पणयो नाम रसापारनिवासिनः । गास्तेऽपजहुरिंद्रस्य न्यगूहंश्च प्रयत्नतः ॥ २४ ॥ (*asurāḥ paṇayo nāma rasāpāranivāsinaḥ | gāste 'pajahuriṃdrasya nyagūhaṃśca prayatnataḥ ‖ 24 ‖*)
+24. In former times there were Asuras called Paṇis. They lived in the regions on the far bank of the river Rasā. Once they carried off Indra's cows and hid them in a secret place.
+बृहस्पतिस्तथापश्यद्दृष्ट्वेंद्राय शशंस च । प्राहिणोत्तत्र दूत्येऽथ सरमां पाकशासनः ॥ २५ ॥ (*bṛhaspatistathāpaśyaddṛṣṭveṃdrāya śaśaṃsa ca | prāhiṇottatra dūtye 'tha saramāṃ pākaśāsanaḥ ‖ 25 ‖*)
+25. Bṛhaspati learned that the Paṇis had carried off the cows and told Indra. Indra then sent Saramā, the divine bitch (the bitch of the world of the gods) who was with him, to the Paṇis as a messenger.
+किमित्यत्रायुजाभिस्तां पप्रच्छुः पणयोऽसुराः । कुतः कस्यासि कल्याणि किं ना कार्यमिहास्ति ते ॥२६॥ (*kimityatrāyujābhistāṃ papracchuḥ paṇayo 'surāḥ | kutaḥ kasyāsi kalyāṇi kiṃ nā kāryamihāsti te ‖26‖*)
+26. After Saramā went to the Paṇis, they questioned the bitch with the first Ṛk of the 108th sūkta, किमिच्छंती (*kimicchaṃtī*), and the odd-numbered Ṛks of this sūkta, 1, 3 and so on, contain the words the Paṇis addressed to Saramā. The Paṇis asked her: O fair one, where have you come from? With whom are you, that is, who is your master? For what business have you come here?
+अथाब्रवीत्तान्सरमा दूत्यैंद्री विचराम्यहं । युष्मान्वजं चान्विष्यंती गाश्चवेंद्रस्य सृच्छतः ॥ २७ ॥ (*athābravīttānsaramā dūtyaiṃdrī vicarāmyahaṃ | yuṣmānvajaṃ cānviṣyaṃtī gāścaveṃdrasya sṛcchataḥ ‖ 27 ‖*)
+27. Saramā spoke to them thus: I am Indra's messenger. I am travelling on his business. Since Indra's cows have been stolen, I have come here by Indra's command, searching for where your cow-pen is, in order to find them.
+विदित्वेंद्रस्य दूतीं तामसुराः पापचेतसः । ऊचुर्मा सरमे गास्तमिहास्माकं स्वसा भव ॥ २८ ॥ (*viditveṃdrasya dūtīṃ tāmasurāḥ pāpacetasaḥ | ūcurmā sarame gāstamihāsmākaṃ svasā bhava ‖ 28 ‖*)
+28. Learning that Saramā had come to them as Indra's messenger, those wicked Paṇis said to her: O Saramā, do not go back. Stay here as our sister.
+
+### Printed p. 292
+विभजामो गवां भागं माहिता ह ततः पुनः । सूक्तस्यास्यान्तया चर्चायुग्माभिस्तेव सर्वशः ॥ २९ ॥ (*vibhajāmo gavāṃ bhāgaṃ māhitā ha tataḥ punaḥ | sūktasyāsyāntayā carcāyugmābhisteva sarvaśaḥ ‖ 29 ‖*)
+29. (They said:) We shall give you too a share of the cows we have brought. Henceforth do not be like an enemy to us. In this way the dialogue went on between them. By the last Ṛk of this sūkta, and by the other even-numbered Ṛks of this sūkta,
+**NOTE**
+साब्रवीन्नाहमिच्छामि स्वसृत्वं वा धनानि वा ! पिबेयं तु पयस्तासां गवां यास्ता निगूहथ ॥ ३० ॥ (*sābravīnnāhamicchāmi svasṛtvaṃ vā dhanāni vā ! pibeyaṃ tu payastāsāṃ gavāṃ yāstā nigūhatha ‖ 30 ‖*)
+30. Saramā, stating her intention plainly, said: O Paṇis, I want neither your sisterhood nor your wealth, but I wish to drink the milk of the cows you have hidden.
+असुरास्तां तफेत्युक्ता तदाजहुः पयस्ततः । सा स्वधावाच्च लौल्याच्च पीत्वा तत्पय आसुरं ॥ ३१ ॥ (*asurāstāṃ taphetyuktā tadājahuḥ payastataḥ | sā svadhāvācca laulyācca pītvā tatpaya āsuraṃ ‖ 31 ‖*)
+31. The Asuras said "So be it" and brought the milk of those cows to Saramā. Saramā, in keeping with her nature and her greed, drank the milk the Asuras had brought,
+परं संवननं हृद्यं बलपुष्टिकरं ततः । शतॆयोजनविस्तारामतरत्तां रसां पुनः ॥ ३२ ॥ (*paraṃ saṃvananaṃ hṛdyaṃ balapuṣṭikaraṃ tataḥ | śatèyojanavistārāmatarattāṃ rasāṃ punaḥ ‖ 32 ‖*)
+32. and, praising that milk ("Ah! how good this milk is, how tasty, delightful and strength-giving!"), she crossed again the river Rasā, a hundred yojanas wide, reached her own place and went to Indra. For,
+यस्याः पारे परे तेषां पुरमासीत्सुदुर्जयं । पप्रच्छेंद्रश्च सरमां कच्चिद्दा दृष्टवत्यसि ॥ ३३ ॥ (*yasyāḥ pāre pare teṣāṃ puramāsītsudurjayaṃ | papraccheṃdraśca saramāṃ kacciddā dṛṣṭavatyasi ‖ 33 ‖*)
+33. on the far bank of the river Rasā stood the impregnable city of those Paṇis. Therefore, when she had crossed Rasā again and come to Indra, Indra asked Saramā: O Saramā, what came of the business you went on? Did you see the cows?
+सा नेति प्रत्युवाचेंद्र प्रभावादासुरस्य तु । कां जघान पदा क्रुद्धः उद्दिरंती पयस्ततः ॥ ३४ ॥ (*sā neti pratyuvāceṃdra prabhāvādāsurasya tu | kāṃ jaghāna padā kruddhaḥ uddiraṃtī payastataḥ ‖ 34 ‖*)
+
+### Printed p. 293
+34. Saramā, intoxicated by the Asuras' milk that she had drunk, was frenzied and answered Indra that she had not seen the cows (told a lie). Indra grew angry and kicked Saramā with his foot. Thereupon (from the blow of Indra's foot) Saramā, vomiting the milk she had drunk,
+जगाम सा भयोद्विग्ना पुनरेव पणीन्मृति । पदानुसारिपद्भत्या रथेन हरिवाहनः ॥ ३५ ॥ (*jagāma sā bhayodvignā punareva paṇīnmṛti | padānusāripadbhatyā rathena harivāhanaḥ ‖ 35 ‖*)
+35. trembling with fear, went again to the Paṇis. Then Indra, following the very footprints of Saramā, seated in his chariot,
+गत्वा जघ न च पणीन् गाश्च ताः पुनराहरत् । (*gatvā jagha na ca paṇīn gāśca tāḥ punarāharat |*)
+36. went to where the Paṇis were, killed them and brought the cows back. So it is said.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> किमिच्छंतीत्येकादशर्चं नवमं सूक्तं त्रैष्टुभं । ऐंद्रपुरोहितस्य बृहस्पतेर्गोषु वलनान्नोऽसुरस्य भटैः पणिनामकैरसुरैरपहृत्य गुहायां निहितासु
+> सतीषु बृहस्पतिप्रेरितेनेंद्रॆण गवामन्वेषणाय सरमा नाम देवशुनी प्रेषिता ।
+> सा च महतीं नदीम्ुत्तीर्य वलपुरं प्राप्य गुप्तस्थाने नीतास्ता गा ददर्श । अथ
+> तस्मिन्नंतरे पणय इदं वृत्तांतमवगच्छंत एनां मित्रिकर्तुं संवादमकुर्वन् ।
+> तत्र प्रथमातृतीयाद्या अयुजोऽ०त्यावर्जिताः पणीनां वाक्यानि । अत्र त ऋषयः
+> सरमा देवता । द्वितीयाचतुर्थ्याद्या युज एकादशी च षट् सरमाया वाक्यानि ।
+> अतस्तासु सर्षिः पणयो देवता । तथा चानुक्रांतं । किमिच्छंती पणिभिरसुरैर्निगूळ्हा गा अन्वेष्टुं सरमां देवशुनीमिंद्रेण प्रहितामयुग्भिः पणयो मित्रियंतः प्रोचुः सा तान्युग्मांत्याभिरनिच्छंती प्रत्याचष्ट इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, किमिच्छंती (*kimicchaṃtī*), of eleven Ṛks, in the Triṣṭubh metre. The cows of Bṛhaspati, Indra's priest, had been stolen by the Asuras called Paṇis, the henchmen of the Asura Vala, and placed in a cave. Indra, urged by Bṛhaspati, sent a divine bitch named Saramā to seek the cows. She crossed a great river, reached Vala's city and saw the cows taken to a hidden place. Meanwhile the Paṇis, learning of this, held a dialogue with her to make her their friend. In it the first, third and the other odd Ṛks except the last are the words of the Paṇis; for these the seers are those Paṇis and the deity is Saramā. The second, the fourth and the other even Ṛks, and the eleventh, six in all, are the words of Saramā; for these the seer is Saramā and the deity the Paṇis. He cites the Anukramaṇī: किमिच्छंती पणिभिरसुरैर्निगूळ्हा गा अन्वेष्टुं सरमां देवशुनीमिंद्रेण प्रहितामयुग्भिः पणयो मित्रियंतः प्रोचुः सा तान्युग्मांत्याभिरनिच्छंती प्रत्याचष्ट इति ॥ (*kimicchaṃtī paṇibhirasurairnigūḷhā gā anveṣṭuṃ saramāṃ devaśunīmiṃdreṇa prahitāmayugbhiḥ paṇayo mitriyaṃtaḥ procuḥ sā tānyugmāṃtyābhiranicchaṃtī pratyācaṣṭa iti ‖*) The viniyoga has been given before.
+
+Anuvāda: this sūkta किमिच्छंती (*kimicchaṃtī*) is the ninth sūkta in the ninth anuvāka. It has eleven Ṛks. In it the cows of Bṛhaspati, Indra's priest, were stolen by the Asuras called Paṇis, followers of the Asura Vala, and hidden in a mountain cave. At Bṛhaspati's request Indra sent his divine bitch Saramā to find the place where the cows were. The dog travelled a long way, crossed a great river in her path, went to the city of the Asura Vala and there saw the cows the Asuras had hidden in a secret place. When the Asuras learned that Indra's dog had come and seen the cows they had put in a secret place, they at once
+
+### Printed p. 294
+came to the dog and, wishing to win her over to their side and gain her friendship, held a conversation with her. This conversation is what the sūkta describes. Therefore in the odd-numbered Ṛks of this sūkta, one, three and so on (except the last Ṛk), there are words of the Paṇis. So for those Ṛks the Paṇis are the seers and Saramā is the deity. In the even-numbered Ṛks, two, four and so on, and in the eleventh Ṛk, six Ṛks in all, there are words of Saramā. So for those Ṛks Saramā is the seer and the Paṇis are the deities. In the Anukramaṇī it is said: किमिच्छंती पणिभिरसुरैर्निगूळ्ता गा अन्वेष्टुं सरमां देवशुनीमिंद्रॆण प्रहितामयुग्भिः पणयो मित्रीयंतः प्रोचुः सा तान्युग्यांत्याभिरनिच्छंती प्रत्याचष्टे (*kimicchaṃtī paṇibhirasurairnigūḷtā gā anveṣṭuṃ saramāṃ devaśunīmiṃdrèṇa prahitāmayugbhiḥ paṇayo mitrīyaṃtaḥ procuḥ sā tānyugyāṃtyābhiranicchaṃtī pratyācaṣṭe*). The viniyoga has been stated earlier.
+
+Sūkta—108
+Maṇḍala 10; Anuvāka 9; Sūkta 108.
+Aṣṭaka 8; Adhyāya 6; Varga 5, 6.
+Number of Ṛks in the sūkta: 11.
+Seer: 1, 3, 5, 7, 9: the Paṇis, Asuras. 2, 4, 6, 8, 10, 11: Saramā, the divine bitch.
+Deity: 1, 3, 5, 7, 9: Saramā. 2, 4, 6, 8, 10, 11: the Paṇis.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमि॒च्छंती॑ स॒रमा॒ प्रेदमा॑नड् दू॒रे ह्यध्वा॒ जगु॑रिः परा॒चैः ।  
+> कास्मेहि॑तिः॒ का परि॑तक्क्यासीत्क॒थं र॒साया॑ अतरः॒ पयां॑सि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । इच्छंती । सरमा । प्र । इदं । आनट् । दूरे । हि । अध्वा । जगुरिः । पराचैः ।  
+> का । अस्मेऽहितिः । का । परितत्क्र्या । आसीत् । कथं । रसायाः । अतरः । पयांसि ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयागच्छंतीं सरमां दृष्ट्वा पणयो वदंति । सरमा सरणशीलैतन्नामिका
+> देवशुनी किमिच्छंती किं प्रार्थयमाना सतीदमस्मदीयं स्थानं प्रानट् ।
+> प्राप्नोत् ॥...आज्‌पूर्वो नशिर्व्याप्तिकर्मा । तस्य लुजि मंत्रे घसेत्यादिना
+
+##### Gist of the bhāṣya
+
+Seeing Saramā approach with this Ṛk, the Paṇis speak. Saramā, the divine bitch of that name, from *saraṇaśīlā* (given to going): "What do you seek, what are you asking for, that you have reached this place of ours?" प्रानट् (*prānaṭ*) means प्राप्नोत् (*prāpnot*), "reached"; the root नशि (*naśi*) with आज् (*āj*) prefixed has the sense of pervading. The remainder, on its aorist form, is grammar and is cut off here.
+
 ---
 
-**Progress note:** Done through printed p. 288. pp. 283-288 (batch API)
+**Progress note:** Done through printed p. 294. pp. 289-294 (batch API)
