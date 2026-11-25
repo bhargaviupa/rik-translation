@@ -12212,6 +12212,144 @@ The celestial deity Tvaṣṭā; the story of the seer Dadhīca; the middle-regi
 
 22. Thereupon the seer Dadhyañc taught the Aśvin deities that Madhu-vidyā. Enraged at this, Indra cut off the horse's head of the seer Dadhīci. Afterwards the Aśvin deities joined to his body again the head that he had before.
 
+### Printed p. 331
+
+The Kannada translations of verses 23–31 of the Bṛhaddevatā passage on the sūkta's deities follow. The translation of verse 22 stood at the end of the previous page.
+
+1. The horse-head of the sage Dadhīci, cut off by Indra's thunderbolt, fell into the middle of a lake on the mountain called Śaryaṇāvat. **NOTE**
+
+24. The horse-head, which had sunk in the lake water, rises up from time to time, bestows various boons on living beings, and then sinks into that same water again. This work goes on until the end of the yuga.
+
+25. Tvaṣṭā, a deity of the middle region, is the lord of forms and can produce any form he wishes for living beings and others. This deity is praised in many sūktas, here and there, only incidentally. But there is no separate sūkta that praises him.
+
+26. Vanaspati: the deity who is called Vanaspati is only another form of Agni, who is said to be the protector of the forests. Agni is called Vanaspati because he is the guardian of the forests, or because he protects these forests (the trees) so that they are not harmed.
+
+27. The sage Gṛtsamada praised Agni by the word Vanaspati in the third Ṛk (the Ṛk "medyantu te vahnayaḥ") of the sūkta "mandasva hotrād anu" of six Ṛks (Maṇḍala 2, sūkta 37).
+
+28. In the eighth sūkta of the third Maṇḍala, "añjanti tvā", the deity Vanaspati is praised throughout, as occasion arises, as the sacrificial post and as a great tree. (This is the Kannada rendering of verse 28, whose Sanskrit stands at the foot of this page.)
+
+### Printed p. 332
+
+**Vanaspati and Svāhākṛti**
+
+29. Scholars hold many differing views about the deity called Svāhākṛti. But however much they differ, on this point alone all have one opinion: that this deity Svāhākṛti is a particular form of Agni.
+
+30. For Agni is the maker of the svāhākāras (that is, of the oblations offered with the word *svāhā*, or of the mantras). He is both maker and deity of all mantras of this kind. This Agni is the source of origin of all beings (living creatures): all creatures come into being from him. Among all creatures he alone is without destruction; that is, he is imperishable.
+
+**The Āprī sūktas that praise the two deities Tanūnapāt and Narāśaṃsa**
+
+31. Among the Āprī sūktas (the second deity being Tanūnapāt), there are only three in the Ṛgveda that praise the two deities Tanūnapāt and Narāśaṃsa. (Which these are: the 13th sūkta of the 1st Maṇḍala, seen by the sage Medhātithi Kāṇva, and the 142nd sūkta of the 1st Maṇḍala, seen by the sage Dīrghatamas Aucathya. It is said here that there are three such sūktas; but, leaving aside the Praiṣa sūkta, this is wrong. There are only two.)
+
+32. The second mantra belongs to the Āprī sūkta whose deity is Narāśaṃsa. By the use of this Āprī sūkta, the sacrificer who performs the sacrifice obtains the offspring he desires, strength, food, or wealth.
+
+### Printed p. 333
+
+On the Āprī sūktas, the Nirukta of Yāska runs thus:
+
+अथात अप्रियः । अप्रियः कस्मादाप्नोतेः प्रीणातीर्वा । अप्रीभिराप्रीणातीति च ब्राह्मणं ॥ (*athāta apriyaḥ | apriyaḥ kasmādāpnoteḥ prīṇātīrvā | aprībhirāprīṇātīti ca brāhmaṇaṃ ‖*) (Ni. 8-4)
+
+We now explain the matter of the Āprī sūktas. Why did these sūktas get the name "आप्री (*āprī*)"? Because they reach (āpnuvanti) and please (prīṇanti) the deities. When the deities are praised with the Ṛks of these sūktas, these reach those deities or delight them; therefore this sūkta, dear to the deities, is called an Āprī sūkta. Such is the sense.
+
+In explaining the eleven deities found in the Āprī sūktas, Yāska took this very sūkta as his example and gave a separate Nirukta for each of its 11 Ṛks. The Nirukta of each Ṛk is explained under the special topics of that Ṛk.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्ध इत्येकादशर्चमेकादशं सूक्तं त्रैष्टुभं । भार्गवो जमदग्नि र्यषिः।
+> तस्य पुत्रो रामो ना यः परशुराम इति प्रख्यातः । आप्रीसूक्तमिदं । अतः
+> समिदाद्याः सतनूनपातो नराशंसवर्जिताः प्रत्यृचं देवताः । तथा चानुक्रांतं
+> समिद्ध एकादश जमदग्निस्तत्सुतो वा राम आप्रिय इति ॥ पशौ जामदग्यानामिदमाप्रीसूक्तं यद्वाविशेषेण सर्वेषां । सूत्रितं च । समिद्धो अद्येति सर्वेषां
+> यथर्षि वा । आ. ३-२ । इति ॥ अग्निचयनांगभूते प्राजापत्ये पशौ सर्वेषां नित्यमिदमाप्रीसूक्तं । सूत्रितं च । प्राजापत्ये तु जामदग्यः सर्वेषां । आ. ३-२। इति ॥
+
+##### Gist of the bhāṣya
+
+"समिद्धः (*samiddhaḥ*)": the eleventh sūkta, of eleven Ṛks, in Triṣṭubh metre. The seer is Jamadagni of the Bhṛgu line; his son, known as Rāma, famed as Paraśurāma, is also named. This is an Āprī sūkta, so the deities of its Ṛks are, one to each Ṛk, the Āprī deities beginning with Samit, with Tanūnapāt but without Narāśaṃsa. Sāyaṇa cites the Anukramaṇī: "Samiddha, eleven, Jamadagni or his son Rāma, Āprī". At the animal sacrifice this Āprī sūkta is for the Jāmadagnyas, or, as a general rule, for all. He cites the sūtra (Ā. 3-2) that it is for all, or according to the seer. At the Prājāpatya animal offering, which is part of the building of the fire-altar, it is always for all; and for this he cites the sūtra of Ā. 3-2: for the Prājāpatya animal offering, the Jāmadagnya (sūkta) is for all.
+
+##### Anuvāda
+
+This sūkta "समिद्धः (*samiddhaḥ*)" is the eleventh sūkta in the ninth anuvāka. It has eleven Ṛks. Its seer is Jamadagni, son of Bhṛgu; the name Rāma or Paraśurāma is famed as that of Jamadagni's son. The metre is Triṣṭubh. This is an Āprī sūkta. Therefore the deities of the 11 Ṛks of this sūkta are those declared for the Āprī sūktas, beginning with Samit, one deity to each Ṛk. But in this sūkta the deity Tanūnapāt is praised, and the deity Narāśaṃsa is not praised here. The Anukramaṇī says: "Samiddha, eleven, Jamadagni, or his son Rāma, Āprī." At the animal sacrifice this Āprī sūkta is prescribed for those of Jamadagni's line, or generally for others also. On this point the sūtra of the Āśvalāyana Śrautasūtra, "samiddho adya, for all, or according to the seer" (Ā. 3-2), gives the direction. That at the Prājāpatya animal offering, which is part of the fire-building, this sūkta is prescribed for all is explained by the sūtra of the Āśvalāyana Śrautasūtra, "at the Prājāpatya, the Jāmadagnya for all" (Ā. 3-2).
+
+### Printed p. 334
+
+Sūkta 110. Maṇḍala 10; Anuvāka 9; Sūkta 110. Aṣṭaka 8; Adhyāya 6; Vargas 8, 9. Number of Ṛks in the sūkta: 11.
+Seer: Jamadagni or his son Rāma.
+Deity: Āprī deities: 1. Idhma, or Agni kindled; 2. Tanūnapāt; 3. Iḷā; 4. Barhis; 5. the divine Doors; 6. Uṣāsānaktā; 7. the two divine Hotṛs, the wise; 8. the three goddesses Sarasvatī, Iḷā, Bhāratī; 9. Tvaṣṭā; 10. Vanaspati; 11. the Svāhākṛtis.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्दो अ॒द्य मनु॑षो दुरो॒णे दे॒वो दे॒वान्य॑जसि  
+> जातवेदः ।  
+> आ च॒ वह॑ मित्रमहश्चि॒त्वान्त्वं दू॒तः क॒विर॑सि॒ प्रचे॑ताः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं इद्धः । अद्य । मनुषः । दुरोणे । देवः । देवान् । यजसि । जातवेदः ।  
+> आ । च । वह । मित्रमहः । चिकित्वान् । त्वं । दूतः । कविः । असि । प्रचेताः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञाग्ने देवः स्वतेजसा दीप्यमानस्त्वं मनुषो
+> मनुष्यस्य यष्टुर्दुरोणे । गृहनामैतत् । दुरवन आयासेन रक्षितव्ये गृहेऽद्यास्मिन्कर्मणि समिद्धः सम्यक्प्रज्वालितः सन् देवानिंद्रादीन्यजसि । हविर्भिः पूजय ॥
+> समिद्धः । इंधी दीप्तौ । कर्मणि क्ले श्विदितो निष्ठायामितीट् प्रतिषेधः । गतिरनंतर
+> इति गतेः प्रकृतिस्वरत्वं ॥ हे मित्रमहः स्तुत्यस्तोतृलक्षणत्वेन मित्रभूतानां
+> स्तोतृणां पूजयितः तैः पूज्यमान वाग्ने चिकित्वांस्तैः कृताः स्तुतीः प्रजानन्
+> चेतनावान्वा त्वमस्मदीये यज्ञे देवाना वह च । आप्रापय ॥ वह प्रापणे ।
+> लोटि रूपं । चवायोगे प्रथमेति न निघातः ॥ तथा कविः क्रांतप्रज्ञः अत एव
+> प्रचेताः प्रकृष्टज्ञानस्त्वं दूतो देवानां हविष्प्रापणेन हितकारी भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, Agni of born wisdom, divine, shining by your own light: you, kindled today in the *duroṇa* of the man, the sacrificer (duroṇa is a word for house, one to be guarded with effort), in this rite, well kindled, sacrifice to the gods, Indra and the rest; that is, honour them with oblations. "Samiddha" is from the root idh, "to shine". O Mitramahas, you who honour the worshippers, who are friends through the relation of praised and praiser, or who are honoured by them, O Agni, knowing (cikitvān) the praises they have made, or being possessed of consciousness, bring the gods to our sacrifice; "vaha" means "cause to arrive". Likewise you are kavi, of far-reaching wisdom, and therefore pracetāḥ, of excellent knowledge: you are the messenger, working good for the gods by conveying the oblation to them.
+
+### Printed p. 335
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who are of the form of Jātavedas
+- मनुषः (*manuṣaḥ*)—of the sacrificer
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- अद्य (*adya*)—today
+- समिद्धः (*samiddhaḥ*)—kindled
+- देवः (*devaḥ*)—of divine nature, you
+- देवान् (*devān*)—the gods, Indra and the rest
+- यजसि (*yajasi*)—you worship
+- मित्रमहः (*mitramahaḥ*)—you who are honoured by the praisers
+- चिकित्वान् (*cikitvān*)—who know their rite
+- आ वह (*ā vaha*)—bring the gods here
+- कविः (*kaviḥ*)—of far-reaching wisdom
+- प्रचेताः (*pracetāḥ*)—of excellent knowledge
+- त्वं (*tvaṃ*)—you
+- दूतः असि (*dūtaḥ asi*)—you are the messenger of the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the form of Jātavedas, today, kindled in the sacrificer's house and of divine nature, you worship the gods, Indra and the rest. You who are honoured by the praisers and know their rite, bring the gods here. You who are of far-reaching wisdom and of excellent knowledge are the messenger of the gods.
+
+##### English translation
+Kindled to-day, Jatavedas, in the dewlling of the wroshipper, you who are divine, sacrifice to the gods. Bear (the oblation), you who respect your friends, who are intelligent; you are the wise, far-seeing messenger (of the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given an explanation for every Ṛk of this sūkta:
+
+इध्मः । तासामिध्मः प्रथमगामी भवति । इध्मः समिंधनात् । तस्यैषा भवति । समिद्धो अद्य मनुषो दुरोणे देवो देवान्यजसि जातवेदः । आ च वह मित्रमहश्चित्वान्त्वं दूतः कविरसि प्रचेताः ॥ समिद्धो अद्य मनुष्यस्य मनुष्यस्य गृहे देवो देवान्यजसि जातवेद आ च वह मित्रमहश्विकित्वांश्चेतनावांत्वं दूतः कविरसि प्रजेताः प्रवृद्धचेताः ॥यज्ञेध्म इति कात्थक्यः । अग्निरिति शाकपूणिः ॥ (*idhmaḥ | tāsāmidhmaḥ prathamagāmī bhavati | idhmaḥ samiṃdhanāt | tasyaiṣā bhavati | samiddho adya manuṣo duroṇe devo devānyajasi jātavedaḥ | ā ca vaha mitramahaścitvāntvaṃ dūtaḥ kavirasi pracetāḥ ‖ samiddho adya manuṣyasya manuṣyasya gṛhe devo devānyajasi jātaveda ā ca vaha mitramahaśvikitvāṃścetanāvāṃtvaṃ dūtaḥ kavirasi prajetāḥ pravṛddhacetāḥ ‖yajñedhma iti kātthakyaḥ | agniriti śākapūṇiḥ ‖*) (Ni. 8-5)
+
+Among the deities praised in the Āprī sūktas, Idhma is the first. The word samiddha is formed from the root idh ("kindle, make blaze") with the prefix sam. Idhma is the samit, the firewood and similar means of kindling, put into the fire so that it burns. The following Ṛk, "samiddho adya", makes clear the meaning of this word idhma.
+
+### Printed p. 336
+
+"समिद्धो अद्य मनुष्यस्य (*samiddho adya manuṣyasya*)": in the house of the man. "दुरोणे (*duroṇe*)" means house, or sacrificial house. "Duravane": in the house to be guarded with effort. The place that protects us from toil, that is, from dangers, is called duravana or duroṇa. O Agni, in the sacrificial house of every man, that is, of the sacrificer, you are kindled and shine; that is, you burn brilliantly.
+
+"देवो देवान् यजसि जातवेदः (*devo devān yajasi jātavedaḥ*)": O Agni of born wisdom, you, divine or shining, worship the gods; that is, you make the oblations and the like which the human sacrificers offer in you (in Agni) as an offering reach their respective deities. *Jātavedas*: the name Jātavedā is given to Agni because as soon as he is produced by friction in the araṇis, everyone sees and knows him, or because he knows all beings that come into being. Because oblations and the like must be offered to the other deities through Agni alone, he is described by the words "देवान् यजसि (*devān yajasi*)" as worshipping them.
+
+"Ā ca vaha mitramaḥ cikitvān cetanāvān tvam": "मित्रमहः (*mitramahaḥ*)" is explained as स्तुत्यस्तोतृलक्षणत्वेन मित्रभूतानां स्तोतृणां पूज्यमानाग्ने (*stutyastotṛlakṣaṇatvena mitrabhūtānāṃ stotṛṇāṃ pūjyamānāgne*): Agni is the one praised, and the people are the praisers. Between them, that is, between the people and Agni, there is the relation of praised and praiser. Through this relation Agni is a friend, that is, one to be honoured, of the people who praise. "चिकित्वान् (*cikitvān*)" means "चेतनावान् (*cetanāvān*)": तैः कृताः स्तुतीः प्रजानन् (*taiḥ kṛtāḥ stutīḥ prajānan*); the sense is that Agni knows the praises the people make.
+
+"त्वं दूतः कविरसि प्रचेताः प्रवृद्धचेताः (*tvaṃ dūtaḥ kavirasi pracetāḥ pravṛddhacetāḥ*)": People offer oblations to the various deities through Agni. Because Agni makes these reach those deities, he is called the messenger between the people and the gods. "Kavi" means of far-reaching wisdom, of excellent knowledge, of knowledge greater than others, of knowledge beyond the senses. This Agni has knowledge that the senses of men cannot grasp. Therefore he is called pracetāḥ or pravṛddhacetāḥ. Hence, O Agni, you are the messenger who carries the oblations and the like between gods and men, of far-reaching wisdom, with knowledge beyond the senses. Such as you are, "आ च वह (*ā ca vaha*)": bring ("आप्रापय (*āprāpaya*)") the gods to this our sacrificial ground; such is the sense.
+
+"यज्ञेध्म इति कात्थक्यः अग्निरिति शाकपूणिः (*yajñedhma iti kātthakyaḥ agniriti śākapūṇiḥ*)": there are differences of opinion about who this deity Idhma is. The opinion of the teacher Kātthakya (son of Katthaka) is that it is the samit called idhma, used in the sacrifice. The opinion of Śākapūṇi is that idhma means Agni.
+
 ---
 
-**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
+**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
