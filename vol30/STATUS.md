@@ -19,9 +19,16 @@ Translated by `api_front.py 30 3 253 preface` (one request, $0.119, checks PASS,
 ## Plan (free)
 `api_batch.py plan 30 --windows 260`: 212 windows, about 1285 pages, 4,855,941 input tokens, estimate input $4.86 + output $12.14–29.14. Vol 23's real cost was about 74% of the low end of its estimate, so about $12–13 is expected. Not submitted: waiting for the user's yes (ceiling $20, user, Nov 25).
 
-## Batch
-Submitted Nov 25 2026 (user's yes, ceiling $20): ONE batch of 212 windows, id in `vol30/work/api_batch.json`. Next: `api_batch.py status 30` until ended, then `collect 30`.
+## Status
+Done through printed p. 1288 (the whole volume and the last of the edition; one API batch of 212 windows submitted and collected Nov 25 2026; `batch.py audit 30` passes; `check_labels.py 30`: 2358 English blocks, 2361 Kannada, 0 not matched, 0 under another section's label; `rkheads 30 --dry-run`: nothing to change; `kn_headings.py 30 --write` run: 97 sūktas (Maṇḍala 10, Sūktas 95–191, all in order), 680 Ṛk headings). Preface (roman pp. i–vii) translated and installed. Real cost: batch $11.81 + preface $0.12 + w0712 direct $0.10 = about $12.03 of the $20 ceiling (the estimate's low end was $17.0). 305 `**NOTE**` marks in the English text, 320 rows in `review/notes.tsv`.
+
+## Repairs (all in `review/repair_log.md`)
+17 windows stopped or failed after the commit (heading missing, blocks counted one off by garbled labels in the supplied text, a Saṃhitā split at a window break, remarks, a cut-off answer (w0712 re-sent), a picture that was an ornament, glued heading, Ṛk headings out of order). New shared tools from this volume: `tools/rv/fix_split_samhita.py`, head-variant recognition in `html_pages.py`, more remark patterns in `api_batch.py`, `--only` and the initial-vowel rule in `pratipada_apply.py`.
 
 ## Open items
-1. (user) yes to submit; budget $20 stated Nov 25.
-2. (dispatcher) after `collect`: finishing checklist (HANDBOOK §11).
+1. (user) 305 `**NOTE**` questions in `review/notes.tsv`.
+2. (user) 60 `fix-certain` Pratipadārtha rows left (`review/pratipada_check_source.tsv`) and the `near`/`absent` rows.
+3. (user) Kannada sūkta numbers misprinted as 109, 128, 122 where the order gives 119, 129, 172 (`kn_headings.py` WARN; heading follows the English order).
+4. (user) 17 printed numbers without a page of their own (see above): the English and Kannada carry no page mark for them.
+5. Finishing checklist not yet run: accent report, QA samples, review lists, front matter and PDFs (needs the user's front-matter scan PDF), metrics, lessons.
+6. Not merged to `main` yet (the user decides).

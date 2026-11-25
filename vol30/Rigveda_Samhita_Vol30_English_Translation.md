@@ -289,7 +289,7 @@ I would leave my father-in-law's dining hall and go to my husband's quarters. Th
 
 …having brought her near me, I will make her subject to my will. May this Purūravas, the doer of good deeds, remain near you (Urvaśī) and enjoy happiness. O Urvaśī, my heart (mind) burns for you. Return quickly.
 
-#### Ṛk 18
+#### Ṛk 18 (continued)
 Urvaśī: O Purūravas, since you, the son of Ilā, are a human being, you must come under the sway of death. This is the rule made by the gods (the gods themselves say so). Your son (you, born in the form of a son) will satisfy the gods with oblations and the like. As the fruit of this you will join us in heaven and enjoy happiness. This conversation itself is the substance of this sūkta.
 
 Following the story of the Mahābhārata, which was composed on the background of this sūkta, Kālidāsa, famed as a great poet, composed a play called Vikramorvaśīya. But since that belongs to later literature, a critique of it is out of place here.
@@ -12967,7 +12967,7 @@ In this Ṛk the deity Tvaṣṭṛ is praised. The explanation that Yāska has 
 
 ### Printed p. 362
 
-#### Ṛk 8 (Nirukta explanation, continued)
+#### Ṛk 8 (continued)
 
 ##### विशेषविषयगळु (Special Topics)
 
@@ -37571,7 +37571,7 @@ O woman, the rākṣasa who, in the state of dream and in the state of sleep, ma
 ##### English translation
 May we exterminate from hence (the evil spirit) who, having beguiled you by sleep or darkness, approaches you, and seeks to destroy your offspring
 
-## Sūkta 163 (Maṇḍala 1)
+## Sūkta 163 (Maṇḍala 10)
 
 **Introduction**
 As stated in sūkta 161, which begins मुंचामि त्वा (*muṃcāmi tvā*), in this sūkta also the means of removing the disease yakṣma (consumption) is set forth. In the Ṛgvidhāna it is as follows:
@@ -42667,7 +42667,6 @@ Maṇḍala 10; Anuvāka 12; Sūkta 183; Aṣṭaka 8; Adhyāya 8; Varga 41. Num
 As the Śruti sentence आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) says, the father himself is born as a son from his own part. Since sons are born from the father's seed, it is said that the father himself is born as the son.
 
 ### Printed p. 1240
-## Sūkta 183 (Maṇḍala 1)
 #### Ṛk 2
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
@@ -43672,7 +43671,6 @@ The sūkta beginning आयं गौः (*āyaṃ gauḥ*) is a triplet, the th
 
 ### Printed p. 1265
 
-## Sūkta 189 (Maṇḍala 8)
 **NOTE**
 
 > सौर्यं वेति ॥ अविवाक्येऽहनि मानसग्रह एतत्तूक्तं शंसनीयं । सूत्रितं च । आयं
