@@ -19030,6 +19030,112 @@ These mantras (10-17-1-2) which tell of Saraṇyū may be placed together with t
 Tvaṣṭṛ was arranging the marriage of his daughter, and on that account the whole world (all beings) gathered together. But Yama's mother (Saraṇyū), who had just entered the state of wifehood with Vivasvān, vanished.
 अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजुहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajuhādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10-17-2)
 
+### Printed p. 532
+After Saraṇyū vanished, the gods hid her, the immortal one, so that mortal men should not know, created another woman-form like her, and offered it to Vivasvant. She gave birth to the Aśvin deities. Afterwards Saraṇyū bore two children (Yama and Yamī). So it is stated. In this account there are many elements that show the characteristics of a Brahmodya. In a Brahmodya, however, it is customary that a question and an answer (some problem, and its answer) occur together. For example, to the question पृच्छामि त्वा (*pṛcchāmi tvā*) (1-164-34) the answer इयं वेदिः परो अंतः पृथिव्या (*iyaṃ vediḥ paro aṃtaḥ pṛthivyā*) (1-164.35) comes naturally. If it be objected that there is no question in the present mantra, one may say that here the question too is contained together with an unambiguous answer. There is no doubt that this context is the statement of a problem. To see what the picture of Saraṇyū, the main subject of this problem, is like, one must note the seven epithets describing her here. They are:
+
+1. त्वष्टुः दुहिता (*tvaṣṭuḥ duhitā*)—daughter of Tvaṣṭṛ.
+2. यमस्य माता (*yamasya mātā*)—mother of Yama (and of Yamī).
+3. विवस्वतः पत्नि (*vivasvataḥ patni*)—wife of Vivasvant.
+4. अमृता (*amṛtā*)—without death (without destruction).
+5. तस्याः सवर्णा (*tasyāḥ savarṇā*)—one who is her substitute, having her very form.
+6. अश्विन्योः माता (*aśvinyoḥ mātā*) (?)—mother of the Aśvin deities (?).
+7. अजहादु द्वा मिथुना (*ajahādu dvā mithunā*)—one who abandoned the twin children.
+
+If, in this context, we ask who is the daughter of Tvaṣṭṛ, who is the mother of Yama, and so on, only one answer comes to all the questions: Saraṇyū. But who this Saraṇyū is, that is a secret principle. Even so, this hidden meaning surely carries an exceedingly great import. For that very reason this situation is mentioned and described at length in the Purāṇas and Itihāsas. Yāska and Śaunaka (in the Bṛhaddevatā) have shown its importance and explained this situation. Explaining the mantra of the Ṛk Saṃhitā quoted above (10-17-2), Yāska has stated as follows:
+
+अपागूहन्नमृतां मर्त्येभ्यः । कृत्वी सवर्णामददुर्विवस्वतेऽप्यश्विनावभरदत्तदासीदजहाद्वा मिथुनौ सरण्यूर्मध्यमं च माध्यमिकां च वाचमिति नैरुक्ताः । (*apāgūhannamṛtāṃ martyebhyaḥ | kṛtvī savarṇāmadadurvivasvate 'pyaśvināvabharadattadāsīdajahādvā mithunau saraṇyūrmadhyamaṃ ca mādhyamikāṃ ca vācamiti nairuktāḥ |*) यमं च यमीं चेत्यैतिहासिकाः (*yamaṃ ca yamīṃ cetyaitihāsikāḥ*) तत्रेतिहासमाचक्षते— (*tatretihāsamācakṣate—*)
+
+### Printed p. 533
+त्वाष्ट्री सरण्यूर्निवस्वत अदित्याद्यमौ मिथुनौ जनयांचकार । सा सवर्णामन्यां प्रतिनिधायाश्वं रूपं कृत्वा प्रदुद्राव । स विवस्वा नादित्य आश्व- मेव रूपं कृत्वा तामनुग्रत सुखभाव ! ततोऽश्विनौ जज्ञाते सवर्णायां मनुः । तदभिवादिनिन्येऽगर्भवति ॥ (*tvāṣṭrī saraṇyūrnivasvata adityādyamau mithunau janayāṃcakāra | sā savarṇāmanyāṃ pratinidhāyāśvaṃ rūpaṃ kṛtvā pradudrāva | sa vivasvā nāditya āśva- meva rūpaṃ kṛtvā tāmanugrata sukhabhāva ! tato 'śvinau jajñāte savarṇāyāṃ manuḥ | tadabhivādininye 'garbhavati ‖*) (Ni. 12-10)
+
+The gods hid that immortal woman from men so that they should not know. They created another woman like her and offered her to Vivasvant. Saraṇyū gave birth to the Aśvin deities, abandoned those twins on the spot, and went away; and in this connection the meaning of the word यम (*yama*) is also discussed. The Nirukta-authors say that it means (1) Indra of the middle world and (2) the speech of the middle region, while the Aitihāsikas say it means Yama and Yamī; thus two opinions are stated. Saying that there is an itihāsa in this matter, it has also explained it. It is this: Saraṇyū, daughter of Tvaṣṭṛ and wife of Vivasvant, who is of the form of Āditya, bore two twin children, Yama and Yamī. Afterwards she placed another woman in that place as her substitute, took the form of a mare and ran away from there. Vivasvant, who is of Āditya form, also took the form of a stallion, followed her and united with her; as a result the Aśvin deities were born. In the woman who had been placed as Saraṇyū's substitute, Manu was born. This, the Nirukta-author explains, is what is stated in the mantra beginning त्वष्टा दुहित्रॆ (*tvaṣṭā duhitrè*). The authors of the Bṛhaddevatā have stated the same matter thus.
+
+अभवन्मिथुनं त्वष्टुः सरण्यूस्त्रिशिराः सह । स वै सरण्यूं प्रायच्छत् स्वयमेव विवस्वते ॥ (*abhavanmithunaṃ tvaṣṭuḥ saraṇyūstriśirāḥ saha | sa vai saraṇyūṃ prāyacchat svayameva vivasvate ‖*) (Bṛ. De. 6. 162)
+
+Tvaṣṭṛ had a daughter, Saraṇyū, and a son named Triśiras. He gave his daughter Saraṇyū in marriage to Vivasvant.
+
+ततः सरण्वां जज्ञाते यमयम्या विवस्वतः । ता चाप्युभौ यमानेव ज्यायांस्ताभ्यां तु नै यमः ॥ (*tataḥ saraṇvāṃ jajñāte yamayamyā vivasvataḥ | tā cāpyubhau yamāneva jyāyāṃstābhyāṃ tu nai yamaḥ ‖*) (Bṛ. De, 6. 163)
+
+Afterwards two children, Yama and Yamī, were born to Saraṇyū, the wife of Vivasvant. Those two were twins born together; of the two, Yama was the first.
+
+सृष्टाव भर्तुः परोक्षं तु सरण्यूः सदृशीं स्त्रियं । निक्षिप्य मिथुनं तस्यां अश्वा भूत्वापचक्रमे ॥ (*sṛṣṭāva bhartuḥ parokṣaṃ tu saraṇyūḥ sadṛśīṃ striyaṃ | nikṣipya mithunaṃ tasyāṃ aśvā bhūtvāpacakrame ‖*) (Bṛ. De. 7-1)
+
+### Printed p. 534
+When her husband was absent, Saraṇyū created another woman resembling herself, entrusted her twin children to her, took the form of a mare, left that place, and, unknown to Vivasvant, went to another place and became invisible.
+
+अविज्ञानाद्विवस्वांस्तु तस्यामजनयन्मनुं । राजर्षिरभवत्सोऽपि विवस्वानिव तेजसा ॥ (*avijñānādvivasvāṃstu tasyāmajanayanmanuṃ | rājarṣirabhavatso 'pi vivasvāniva tejasā ‖*) (Bṛ. De. 7.2)
+
+But Vivasvant, without knowing this, united with that woman who was Saraṇyū's substitute. As a result Manu was born. Manu too, like his father, became radiant, a great royal sage. His fame spread in all the worlds.
+
+स विज्ञाय त्वपक्रांतां सरण्यमश्वरूपिणीं । त्वाष्ट्रीं प्रति जगामाशु वाजी भूत्वा सलक्षणः ॥ (*sa vijñāya tvapakrāṃtāṃ saraṇyamaśvarūpiṇīṃ | tvāṣṭrīṃ prati jagāmāśu vājī bhūtvā salakṣaṇaḥ ‖*) (Bṛ. De. 7-3)
+
+In the end true knowledge came to Vivasvant. When he learned that Saraṇyū had gone away in the form of a mare, he too took the form of a stallion, followed the daughter of Tvaṣṭṛ to the place where she had gone, and tried to join her.
+
+सरण्यूश्च विवस्वंतं विदित्वा हयरूपिणं । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥ (*saraṇyūśca vivasvaṃtaṃ viditvā hayarūpiṇaṃ | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ ‖*) (Bṛ. De. 7-4)
+
+Saraṇyū, knowing that Vivasvant had followed her in the form of a horse, desired the pleasure of union with him. Then Vivasvant fulfilled her wish.
+
+ततस्तयोस्तु वेगेन शुक्रं तदपतद्भुवि । उपाजिघ्रच्च सा त्वश्वा तच्चुक्रं गर्भकाम्यया ॥ (*tatastayostu vegena śukraṃ tadapatadbhuvi | upājighracca sā tvaśvā taccukraṃ garbhakāmyayā ‖*) (Bṛ पे (*pe*) 7-5)**NOTE**
+
+In the time of their mutual ardour Vivasvant's semen fell to the ground. Then Saraṇyū, with the wish to conceive, smelled it.
+
+आघ्रातमात्राच्चुक्रात्तु कुमारौ संबभूवतुः । नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥ (*āghrātamātrāccukrāttu kumārau saṃbabhūvatuḥ | nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*) (Bṛ. Pe. 7-6)**NOTE**
+
+As soon as she smelled that semen, conception arose in her, and from it two youths, Nāsatya and Dasra, were born; afterwards they were called by the name Aśvin deities, and their greatness spread through all the worlds.
+
+### Printed p. 535
+इतिहासमिमं यास्कः सरण्यदेवति त्वजे ! विवस्वतश्च त्वष्टुश्च त्वष्टेति सह मन्यरे ॥ (*itihāsamimaṃ yāskaḥ saraṇyadevati tvaje ! vivasvataśca tvaṣṭuśca tvaṣṭeti saha manyare ‖*) (Bṛ. Je. 7-7)**NOTE**
+
+Yāska has taken the two mantras composed with Saraṇyū as deity (10-17-1) and (10.17-2) as the context in which the history of these two, Vivasvant and Tvaṣṭṛ, is explained. Yāska's explanation has been given above (Ni 12-10,11).
+
+In the present case it must be examined what the characteristic of a Brahmodya is in the Ṛk Saṃhitā mantra that describes this situation. On the one hand there is the discord arising from the giving of Saraṇyū, a divine woman, in marriage to Vivasvant, a man; on the other, the effort made to set this discord right. Thus the problem that appears in this episode and the effort to resolve it are the chief element. That Vivasvant is one of the Ādityas is well known throughout the Vedic texts. But the doubt naturally arises how an immortal deity can be called a mortal man. That he is a mortal man is plainly stated in the Vedic texts themselves.
+
+That at the time of Saraṇyū's marriage not only the gods but the people of all the worlds came and gathered is told by the sentence इदं विश्वं भुवनं समेति (*idaṃ viśvaṃ bhuvanaṃ sameti*) (Ṛ. Saṃ. 10-17-1). प्रायच्छत् स्वयमेव विवस्वते (*prāyacchat svayameva vivasvate*) (Bṛ. De.) says that Tvaṣṭṛ himself gave Saraṇyū to the man named Vivasvant. That, although all the gods had come and assembled at this marriage of the svayaṃvara type, Tvaṣṭṛ of his own accord gave her to Vivasvant (a man) is itself problematic. It is also clearly stated that Saraṇyū too expressed her dissatisfaction with this relation.
+
+That Vivasvant is mortal is the root matter of this problem. This point is stated clearly both in the Bṛhaddevatā and in the Mahābhārata.
+
+ततो विवस्वानादित्योऽजायत, तस्य वा इयं प्रजा यन्मनुष्याः । (*tato vivasvānādityo 'jāyata, tasya vā iyaṃ prajā yanmanuṣyāḥ |*) (Tai. Saṃ. 6-5-6-2)
+
+Afterwards Vivasvant, one of the Ādityas, was born. The Taittirīya Saṃhitā supports this by saying that all the people, those of human form, were born from this Vivasvant. Not only this, many other Vedic sentences too make his mortality clear. For example:
+
+सप्तभिः पुत्रैरदितिरुपप्रृत्पूर्व्यं युगं । प्रजाय्कॆ मृत्यवे त्वत्पुनर्मार्तांडमाभरत् ॥ (*saptabhiḥ putrairaditirupaprṛtpūrvyaṃ yugaṃ | prajāykè mṛtyave tvatpunarmārtāṃḍamābharat ‖*) (Ṛ. Saṃ. 10-22.9)
+
+### Printed p. 536
+Aditi had eight sons. With seven of them she went, joined the gods, and mingled with her earlier offspring. But the eighth, Mārtāṇḍa, she kept here, for the sake of the stream of saṃsāra in the form of birth, death and so on. So it is said. Who this Mārtāṇḍa is:
+
+अष्टौ ह वै पुत्रा अदितेः । यांस्त्वेतद्देवा आदित्या इत्याचक्षते सप्त हैव तेऽविकृतग्ं हाष्टमं जनयांचकार मार्तांडग्ं संदेघो हैवास यावानेवोर्ध्वस्तानांस्तिर्यज् पुरुषसंमित इत्यु हैत आहुः ॥ (*aṣṭau ha vai putrā aditeḥ | yāṃstvetaddevā ādityā ityācakṣate sapta haiva te 'vikṛtagṃ hāṣṭamaṃ janayāṃcakāra mārtāṃḍagṃ saṃdegho haivāsa yāvānevordhvastānāṃstiryaj puruṣasaṃmita ityu haita āhuḥ ‖*) (Śa. Brā. 3-1-3-3)
+
+Aditi had eight children. But the sons of Aditi who are called by the name of deities are only seven. To the eighth, Mārtāṇḍa, she did not give a complete form. It was merely a lump of body having a bulk equal to its height. The knowing ones say that it was equal to the measure of a man.
+
+त उ हैत ऊचुः । देवा आदित्या यदस्मानन्वजनिमा तदमुयेव भूद्धंतेमं विकरवामेति तं विचक्रुर्यथायं पुरुषो विकृतस्तस्य यानि माग्‌ंसानि संकृत्य संन्यासुस्ततो हस्ती समभवत्तस्मादुहुर्न हस्तिनं प्रतिगृह्णीयात्परुषाजानो हि हस्तीति यमु ह तद्विचक्रुः स विवस्वानादित्यस्तस्यॆमाः प्रजाः ॥ (*ta u haita ūcuḥ | devā ādityā yadasmānanvajanimā tadamuyeva bhūddhaṃtemaṃ vikaravāmeti taṃ vicakruryathāyaṃ puruṣo vikṛtastasya yāni māgṃsāni saṃkṛtya saṃnyāsustato hastī samabhavattasmāduhurna hastinaṃ pratigṛhṇīyātparuṣājāno hi hastīti yamu ha tadvicakruḥ sa vivasvānādityastasyèmāḥ prajāḥ ‖*) (Śa. Brā. 3-1-3-4)
+
+Then the seven sons of Aditi, of divine form, together resolved: "This lump must not be wasted. We must give it a form", and they made an existence for it in the form of a man. When the man was being made from that lump, the pieces of flesh cut off at the time of forming the limbs appeared in the form of the elephant. For that very reason it is said that an elephant should not be accepted as a gift. He who was refined into the form of a man is Vivasvant. That Āditya from whom this progeny arose is this Vivasvant. So it is stated. Moreover there are still many other proofs showing Vivasvant's mortality and humanity:
+
+यामथर्वा मनुष्पिता दध्यज् धियमत्नत । तस्मिन् ब्रह्माणि पूर्वथेंद्र उक्त्वा समग्मतार्चन्ननु स्वराज्यं ॥ (*yāmatharvā manuṣpitā dadhyaj dhiyamatnata | tasmin brahmāṇi pūrvatheṃdra uktvā samagmatārcannanu svarājyaṃ ‖*) (Ṛ. Saṃ, 1-80-16)
+
+In such places (Tai. Saṃ. 3-1-9-4; Śa. Brā. 1-8-1-1 etc.) the Manu who is designated as the father of men, to that same Manu, the human father, Vivasvant is known to be the father.
+
+### Printed p. 537
+यथा मनौ विवस्वति सोमं शक्रापिबः सुतं । यथा त्रिते छंद इंद्र जुजोषस्यायौ मादयसे सचा ॥ (*yathā manau vivasvati somaṃ śakrāpibaḥ sutaṃ | yathā trite chaṃda iṃdra jujoṣasyāyau mādayase sacā ‖*) (Ṛ. Saṃ. 8-52.1)
+
+ततोऽश्विनौ जज्ञाते । सवर्णायां मनुः । (*tato 'śvinau jajñāte | savarṇāyāṃ manuḥ |*) (Sirutte. 12-10)**NOTE**
+
+मनुर्वैवस्वतो राजेत्याह । तस्य मनुष्या विशस्त इम आसत । (*manurvaivasvato rājetyāha | tasya manuṣyā viśasta ima āsata |*) (Śa. Brā. 13-4-3-3)
+
+In many such places Manu is clearly called the son of Vivasvant. Descriptions such as विवस्वतः सदने (*vivasvataḥ sadane*) (Ṛ. Saṃ. 3-34-7; ) also show Vivasvant to be an excellent host (1-53-1; 3-51-3; 10-12-7 etc.).
+
+Saraṇyū, wedded to such a man, though at first she joined him, must in due course have become aware that her husband did not fully possess divinity. This point is stated clearly in the Harivaṃśa. As follows:
+
+भर्तृरूपेण नातुष्यद्रूपयौवनशालिनी (*bhartṛrūpeṇa nātuṣyadrūpayauvanaśālinī*) (Harivaṃśa. 547)
+
+It is clearly stated that Saraṇyū, endowed with youth and beauty, was not satisfied with her husband's form. That, dissatisfied with such a husband, she turned into the form of a mare is not stated plainly in the Ṛk Saṃhitā; but the sentence "she bore the Aśvin deities" (Ṛ. Saṃ. 1-17-2)**NOTE** tells this matter.
+
+When Saraṇyū, having taken the form of a mare, joined the gods, her natural kinsmen, they hid her from Vivasvant the man and from his sons Yama and Yamī, who are likewise human in form. Therefore:
+
+अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate |*) (Ṛ. Saṃ. 10-17-2)
+
+It is plain that they hid her from Vivasvant the man and his sons, created another woman of the same form as hers, and gave her to him. That Manu, born of this Savarṇā, became the brother of Yama is made clear by the sentences of the Nirukta and the Bṛhaddevatā. Besides this, no sentence praising the brotherhood of Manu and Yama is anywhere in the Ṛk Saṃhitā. It is suggested only in the Atharvaveda. As follows:
+
 ---
 
-**Progress note:** Done through printed p. 531. pp. 526-531 (batch API)
+**Progress note:** Done through printed p. 537. pp. 532-537 (batch API)
