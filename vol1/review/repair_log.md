@@ -1344,3 +1344,24 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 395 | `(Jaimini Sutra 1-2-46, with Shabara-bhashya)` → `(Shabara-bhashya sentence)` | SECOND-PASS S3: Kannada p395/397: ಮಂತ್ರಾಭಿಧಾನಾತ್ (ಶಾಬರಭಾಷ್ಯವಾಕ್ಯ), not a Jaimini sutra; no number printed |
 | 396 | `Ratrisukta` → `Ratrisatra` | SECOND-PASS S13: Kannada p396: ರಾತ್ರಿಸತ್ರ |
 | 399 | `confers a directly-observable refinement` → `confers an unseen refinement` | SECOND-PASS S14: Kannada p399: ವಿಶೇಷವಾದ ಅದೃಷ್ಟಫಲ; Sanskrit niyamādṛṣṭa-lakṣaṇasya |
+
+### 2026-11-25 second pass, batch e400-429.tsv
+| page | old → new | why |
+|---|---|---|
+| 400 | `its sacred fires and meters as hands` → `its seven meters as hands` | SECOND-PASS S16: Kannada p.401: Gayatri and the other seven chandas are the hands; no fires |
+| 405 | `Pramaganda, Babara, Prātaḥsavana, and similar` → `Pramaganda, Babara, Prāvāhaṇi, and similar` | SECOND-PASS S13: Kannada p.405: ಪ್ರಮಗಂದ, ಬಬರ, ಪ್ರಾವಾಹಣಿ |
+| 408 | `approaching the Agnidh's platform with one's wife for worship` → `approaching the Agnidh's platform for worship` | SECOND-PASS S16: Kannada p.409(408 block): ಆಗ್ನೀಧ್ರನ ವೇದಿಕೆಯ ಹತ್ತಿರಕ್ಕೆ ಪೂಜಾರ್ಥವಾಗಿ ಹೋಗುವಾಗ; no wife |
+| 417 | `| Bahiṣpavamāna-śrotra |` → `| Bahiṣpavamāna-stotra |` | SECOND-PASS S13: Kannada ಬಹಿಷ್ಪವಮಾನಸ್ತೋತ್ರ |
+| 417 | `| Ājya-śrotras |` → `| Ājya-stotras |` | SECOND-PASS S13: Kannada ಆಜ್ಯಸ್ತೋತ್ರಗಳು |
+| 417 | `| Mādhyandina-savana-śrotra | 6 | Marut-pṛṣṭha-śastra |` → `| Mādhyandina-pavamāna-stotra | 6 | Marutvatīya-śastra |` | SECOND-PASS S13: Kannada ಮಾಧ್ಯಂದಿನಪವಮಾನಸ್ತೋತ್ರ; ಮರುತ್ವತೀಯಶಸ್ತ್ರ |
+| 417 | `| Pṛṣṭha-śrotra |` → `| Pṛṣṭha-stotra |` | SECOND-PASS S13: Kannada stotra (not śrotra) |
+| 417 | `| Ārbhava-savana-śrotra |` → `| Ārbhava-pavamāna-stotra |` | SECOND-PASS S13: Kannada ಆರ್ಭವಪವಮಾನಸ್ತೋತ್ರ |
+| 417 | `three more Stotra-Shastras are added` → `twelve more Stotra-Shastras are added` | SECOND-PASS S1: Kannada p.417: ಇನ್ನೂ ೧೨ ಸ್ತೋತ್ರಶಸ್ತ್ರಗಳನ್ನು |
+| 418 | `Agnishtoma, Vajapeya, and Aptoryama` → `Atyagnishtoma, Vajapeya, and Aptoryama` | SECOND-PASS S13: Kannada p.418: ಅತ್ಯಗ್ನಿಷ್ಟೋಮ, ವಾಜಪೇಯ ಮತ್ತು ಅಪ್ತೋರ್ಯೋಮ |
+| 420 | `Sutta's argument` → `Sūtra's argument` | SECOND-PASS S13: term: Sutta is not the Kannada term (ಸೂತ್ರ) |
+| 422 | `and then rejects it, teaching instead the alternative:` → `and then rejects it. Likewise the Taittiriyas, in the sūktavāka mantra, reject one reading` | SECOND-PASS S15: Kannada p.422: ಹೀಗೆಯೇ ಸೂಕ್ತವಾಕಮಂತ್ರದಲ್ಲಿ ತೈತ್ತಿರೀಯಶಾಖೆಯವರು ... ಪಾಠಾಂತರವನ್ನು ಉಪದೇಶಿಸಿದ್ದಾರೆ; not the Shatapatha |
+| 426 | `and cast it away.` → `and cast it into the fire.` | SECOND-PASS S17: Kannada p.426: ಕಿತ್ತು ತೆಗೆದು ಅಗ್ನಿಯಲ್ಲಿ ಹಾಕಿದನು |
+| 426 | `settled upon the sacrificial ground, did not [yet] know the directions.` → `fixed a place for the divine sacrifice, could not identify that place.` | SECOND-PASS S14: Kannada p.426: ಯಾಗಕ್ಕೆ ಸ್ಥಳವನ್ನು ನಿಶ್ಚಯಮಾಡಿ, ಆ ಸ್ಥಳವನ್ನು ಗುರುತಿಸಲಾರದೇ ಹೋದರು |
+| 427 | `Sutta's meaning` → `Sūtra's meaning` | SECOND-PASS S13: term: ಸೂತ್ರಾರ್ಥ |
+| 428 | `**Dṛṣṭi-virodha**` → `**Dṛṣṭa-virodha**` | SECOND-PASS S13: Kannada ದೃಷ್ಟವಿರೋಧ |
+| 428 | `**Śāstra-dṛṣṭi-virodha**` → `**Śāstra-dṛṣṭa-virodha**` | SECOND-PASS S13: Kannada ಶಾಸ್ತ್ರದೃಷ್ಟವಿರೋಧ |

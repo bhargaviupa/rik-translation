@@ -1369,3 +1369,23 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 372	S17	R6	Kannada misprints in the Sanskrit lines	Kannada misprints ಅಮ್ಯಕ್ಸಾತ, ಸ್ಥಾನೋರಪರಾಧೋ	English kept	Kannada misprint; English Sanskrit is derived data	kept	
 380	S17	R1	prose: Mandala 3 / Sukta 58 / Rik 3	Kannada prose says 3rd Mandala, 58th Sukta, 3rd Rik; the Sanskrit line above it prints 4-58-3; English prose has no such sentence (RV 4-58-3 from the Sanskrit line)	English kept	kept: number conflict listed in open.tsv	kept	
 372-373	S17	R1	no English section	English has no section for printed pp. 372 and 373 (Yaska/Nirukta reply, Badarayana, Rudra answer)	English kept	omission not added; listed in decided_by_default.tsv	kept	
+400	S16	R1	its sacred fires and meters as hands	its sacred fires and meters as hands	its seven meters as hands	Kannada p.401: Gayatri and the other seven chandas are the hands; no fires	applied	
+405	S13	R1	Pramaganda, Babara, Prātaḥsavana, and si	Pramaganda, Babara, Prātaḥsavana, and similar	Pramaganda, Babara, Prāvāhaṇi, and similar	Kannada p.405: ಪ್ರಮಗಂದ, ಬಬರ, ಪ್ರಾವಾಹಣಿ	applied	
+408	S16	R1	approaching the Agnidh's platform with o	approaching the Agnidh's platform with one's wife for worship	approaching the Agnidh's platform for worship	Kannada p.409(408 block): ಆಗ್ನೀಧ್ರನ ವೇದಿಕೆಯ ಹತ್ತಿರಕ್ಕೆ ಪೂಜಾರ್ಥವಾಗಿ ಹೋಗುವಾಗ; no wife	applied	
+417	S13	R1	| Bahiṣpavamāna-śrotra |	| Bahiṣpavamāna-śrotra |	| Bahiṣpavamāna-stotra |	Kannada ಬಹಿಷ್ಪವಮಾನಸ್ತೋತ್ರ	applied	
+417	S13	R1	| Ājya-śrotras |	| Ājya-śrotras |	| Ājya-stotras |	Kannada ಆಜ್ಯಸ್ತೋತ್ರಗಳು	applied	
+417	S13	R1	| Mādhyandina-savana-śrotra | 6 | Marut-	| Mādhyandina-savana-śrotra | 6 | Marut-pṛṣṭha-śastra |	| Mādhyandina-pavamāna-stotra | 6 | Marutvatīya-śastra |	Kannada ಮಾಧ್ಯಂದಿನಪವಮಾನಸ್ತೋತ್ರ; ಮರುತ್ವತೀಯಶಸ್ತ್ರ	applied	
+417	S13	R1	| Pṛṣṭha-śrotra |	| Pṛṣṭha-śrotra |	| Pṛṣṭha-stotra |	Kannada stotra (not śrotra)	applied	
+417	S13	R1	| Ārbhava-savana-śrotra |	| Ārbhava-savana-śrotra |	| Ārbhava-pavamāna-stotra |	Kannada ಆರ್ಭವಪವಮಾನಸ್ತೋತ್ರ	applied	
+417	S1	R1	three more Stotra-Shastras are added	three more Stotra-Shastras are added	twelve more Stotra-Shastras are added	Kannada p.417: ಇನ್ನೂ ೧೨ ಸ್ತೋತ್ರಶಸ್ತ್ರಗಳನ್ನು	applied	
+418	S13	R1	Agnishtoma, Vajapeya, and Aptoryama	Agnishtoma, Vajapeya, and Aptoryama	Atyagnishtoma, Vajapeya, and Aptoryama	Kannada p.418: ಅತ್ಯಗ್ನಿಷ್ಟೋಮ, ವಾಜಪೇಯ ಮತ್ತು ಅಪ್ತೋರ್ಯೋಮ	applied	
+420	S13	R1	Sutta's argument	Sutta's argument	Sūtra's argument	term: Sutta is not the Kannada term (ಸೂತ್ರ)	applied	
+422	S15	R1	and then rejects it, teaching instead th	and then rejects it, teaching instead the alternative:	and then rejects it. Likewise the Taittiriyas, in the sūktavāka mantra, reject one reading and teach instead the alternative:	Kannada p.422: ಹೀಗೆಯೇ ಸೂಕ್ತವಾಕಮಂತ್ರದಲ್ಲಿ ತೈತ್ತಿರೀಯಶಾಖೆಯವರು ... ಪಾಠಾಂತರವನ್ನು ಉಪದೇಶಿಸಿದ್ದಾರೆ; not the Shatapatha	applied	
+426	S17	R1	and cast it away.	and cast it away.	and cast it into the fire.	Kannada p.426: ಕಿತ್ತು ತೆಗೆದು ಅಗ್ನಿಯಲ್ಲಿ ಹಾಕಿದನು	applied	
+426	S14	R1	settled upon the sacrificial ground, did	settled upon the sacrificial ground, did not [yet] know the directions.	fixed a place for the divine sacrifice, could not identify that place.	Kannada p.426: ಯಾಗಕ್ಕೆ ಸ್ಥಳವನ್ನು ನಿಶ್ಚಯಮಾಡಿ, ಆ ಸ್ಥಳವನ್ನು ಗುರುತಿಸಲಾರದೇ ಹೋದರು	applied	
+427	S13	R1	Sutta's meaning	Sutta's meaning	Sūtra's meaning	term: ಸೂತ್ರಾರ್ಥ	applied	
+428	S13	R1	**Dṛṣṭi-virodha**	**Dṛṣṭi-virodha**	**Dṛṣṭa-virodha**	Kannada ದೃಷ್ಟವಿರೋಧ	applied	
+428	S13	R1	**Śāstra-dṛṣṭi-virodha**	**Śāstra-dṛṣṭi-virodha**	**Śāstra-dṛṣṭa-virodha**	Kannada ಶಾಸ್ತ್ರದೃಷ್ಟವಿರೋಧ	applied	
+416	S13	R6	seven samsthas	English Ukthya, Aptoryama	unchanged	Kannada prints ಉಕ್ತೃ and ಅಪ್ರೋರ್ಯಾಮ (misprints); English has the real forms	kept	
+417	S13	R6	table Mādhyandina rows	Kannada table has only shastras 6-7 (layout lost); English fills Niṣkevalya for 7-10	unchanged	uncertain layout; English kept	kept	
+422	S17	R1	Purva-Mimamsa 10-8 shodasi and apurva discussion	English omits the paragraph on shodasi being optional and the apurva	unchanged	omission not added	kept	

@@ -7214,7 +7214,7 @@ Whether "saṃskāra" is understood as conferring a special unseen fruit (impart
 >
 > "When a sentence states something non-existent, we recognize a secondary/metaphorical meaning, based on precedent. As follows: the four priests — Hotr, Udgatr, Adhvaryu, and Brahma — are this sacrifice's 'horns.' The morning pressing and the other two pressings are its three 'feet.' The Garhapatya and other sacred fires, together with the seven meters, are its 'hands.' It is bound threefold through the Rigveda and the other Vedas. 'It fulfills desires' — hence it is called a 'bull' (vṛṣabha); it 'roars' — that is, the hymn of praise — and, from the word 'etc.,' does so repeatedly. This same great deity (Mahādeva), this life-breath in the form of the sacrifice, has entered mortals — hence humans having two principal [organs/heads] need not be taken too literally. Metaphorical usage is seen in ordinary life too — as when we call a woman 'swan-toothed' or 'Kashi's own curly-locked one,' describing her as embodying these qualities directly. Likewise, addresses to inanimate things — 'O herb, protect him,' 'hear, O stones' — should be understood as oriented toward praise. Where the herb itself is said to protect [the wearer], need it even be said that the one who prepares and ties it also protects him? Similarly, the stones too..."
 
-This is the celebrated allegorical reading of the "four-horned bull" mantra: rather than describing a literal impossible creature, it poetically describes the yajna itself — its four priests as horns, its three daily pressings as feet, its sacred fires and meters as hands, and its threefold Vedic foundation as its binding — resolving the fourth objection entirely.
+This is the celebrated allegorical reading of the "four-horned bull" mantra: rather than describing a literal impossible creature, it poetically describes the yajna itself — its four priests as horns, its three daily pressings as feet, its seven meters as hands, and its threefold Vedic foundation as its binding — resolving the fourth objection entirely.
 
 ---
 
@@ -7358,7 +7358,7 @@ That is: the meaning is genuinely present in such mantras, but goes unnoticed th
 
 One can indeed determine the meaning of such texts. For difficult words like these, gathering other Vedic passages using similar constructions, with Nirukta and grammar's help, one determines the underlying verbal root and infers meaning accordingly. Working through the cited example: "jarbharī" and "turpharītū" are clearly dual-number words, occurring in verse 6 of Rigveda Mandala 10, Sukta 106 — a sukta dedicated to the Ashvins, confirmed by that same sukta's 11th verse, "aśvinoḥ kāmam aprāḥ" ("you fulfilled the Ashvins' desire"). Therefore "jarbharī" and "turpharītū" refer to the Ashvin deities. The Nirukta itself, holding this same view, glosses "jarbharī" as "those who nourish/give shelter" and "turpharītū" as "those who destroy [obstacles]." The same method of inference applies to "amyak sā ta" and similar texts.
 
-**The ninth and final objection-sutra: "Anitya-saṃyogān mantrānarthakyaṃ."** The Veda mentions non-eternal things — Pramaganda, Babara, Prātaḥsavana, and similar proper names of persons who lived and then perished. Either the claim that the Veda is beginningless (anādi) is false, the objector argues, or the Vedas have no meaning at all — mere recitation must be their sole purpose.
+**The ninth and final objection-sutra: "Anitya-saṃyogān mantrānarthakyaṃ."** The Veda mentions non-eternal things — Pramaganda, Babara, Prāvāhaṇi, and similar proper names of persons who lived and then perished. Either the claim that the Veda is beginningless (anādi) is false, the objector argues, or the Vedas have no meaning at all — mere recitation must be their sole purpose.
 
 ### "Uktvā anitya-saṃyogaḥ" (Jaimini Sutra 1-2-50)
 
@@ -7438,7 +7438,7 @@ In this way, no flaw whatsoever remains regarding mantra-meaning — mantras gen
 >
 > "It is heard: 'one should approach the Agnidh's platform with an Āgneyī [verse].' Its meaning: that Rik whose deity is Agni is called 'Āgneyī' — one should approach the Agnidh's platform with such a verse. Here, the Brahmana, in prescribing this approach, does not simply cite the opening words of the actual verse ('agne naya...') — instead, it prescribes it using the descriptive term 'Āgneyī.'"
 
-Sutra's meaning: ritual terms are used precisely to indicate meaning. "Āgneyyāgnidhram upatiṣṭheta" is a Brahmana statement indicating the mantra to recite while approaching the Agnidh's platform with one's wife for worship. "Āgneyyā" means "by the mantra whose presiding deity is Agni" — referring to the mantra beginning "agne naya." Rather than naming that mantra directly, the Brahmana uses the grammatically-derived (taddhita) term "āgneyī" ("Agni-related [verse]") — itself proof that the mantra is understood to carry genuine meaning, since only a meaning-bearing verse could be classified by its subject-deity this way. Since mantras thus demonstrably convey meaning, they must be recited at their proper application. Further proofs follow.
+Sutra's meaning: ritual terms are used precisely to indicate meaning. "Āgneyyāgnidhram upatiṣṭheta" is a Brahmana statement indicating the mantra to recite while approaching the Agnidh's platform for worship. "Āgneyyā" means "by the mantra whose presiding deity is Agni" — referring to the mantra beginning "agne naya." Rather than naming that mantra directly, the Brahmana uses the grammatically-derived (taddhita) term "āgneyī" ("Agni-related [verse]") — itself proof that the mantra is understood to carry genuine meaning, since only a meaning-bearing verse could be classified by its subject-deity this way. Since mantras thus demonstrably convey meaning, they must be recited at their proper application. Further proofs follow.
 
 ---
 
@@ -7681,30 +7681,30 @@ Of these, **Agnishtoma is the primary form**, the remaining six being its varian
 
 | # | Stotra-gāna (Chant) | # | Shastra-mantra |
 |---|---|---|---|
-| 1 | Bahiṣpavamāna-śrotra | 1 | Ājya-śastra |
-| 2 | Ājya-śrotras | 2 | Prayuga-śastra |
+| 1 | Bahiṣpavamāna-stotra | 1 | Ājya-śastra |
+| 2 | Ājya-stotras | 2 | Prayuga-śastra |
 | 3 | " | 3 | Ājya-śastra |
 | 4 | " | 4 | " |
 | 5 | " | 5 | " |
 
 **Mādhyandina-savana (Midday Pressing)**
 
-| 6 | Mādhyandina-savana-śrotra | 6 | Marut-pṛṣṭha-śastra |
-| 7 | Pṛṣṭha-śrotra | 7 | Niṣkevalya-śastra |
+| 6 | Mādhyandina-pavamāna-stotra | 6 | Marutvatīya-śastra |
+| 7 | Pṛṣṭha-stotra | 7 | Niṣkevalya-śastra |
 | 8 | " | 8 | " |
 | 9 | " | 9 | " |
 | 10 | " | 10 | " |
 
 **Tṛtīya-savana (Third/Evening Pressing)**
 
-| 11 | Ārbhava-savana-śrotra | 11 | Vaiśvadeva-śastra |
+| 11 | Ārbhava-pavamāna-stotra | 11 | Vaiśvadeva-śastra |
 | 12 | Agniṣṭoma-sāman | 12 | Agni-māruta-śastra |
 
 The yajna takes its name "**अग्निष्टोम**" (*Agniṣṭoma*) from the final (12th) Stotra listed here, the "Agnishtoma-sāman."
 
 - In the **उक्थ्य** (*Ukthya*) samstha, beyond these 12, three additional Ukthya-stotras and three Ukthya-shastras are added.
 - In the **षोडशी** (*Ṣoḍaśī*), one further Stotra-Shastra is added to the 15 above, making 16 total.
-- In the **अतिरात्र** (*Atirātra*), three more Stotra-Shastras are added.
+- In the **अतिरात्र** (*Atirātra*), twelve more Stotra-Shastras are added.
 
 It is clear that each successive samstha builds upon the Stotra-Shastras of the one before it. But in the Atiratra, one Stotra from the preceding Shodashi samstha...
 
@@ -7729,7 +7729,7 @@ It is clear that each successive samstha builds upon the Stotra-Shastras of the 
 
 ### Page 418
 
-Whether to include or omit a given Shastra remains disputed — the Sankhyayana-shrauta, Ashvalayana-shrauta, and Kaushitaki-brahmana all include the Shodashi, while the Aitareya Brahmana omits it entirely. In this yajna (Atiratra), 12 Stotra-Shastras are sung through the night, and at sunrise a Sandhi-stotra is recited; since the rites go on all night, the yajna is perhaps called "Atiratra." According to the other Brahmanas, in the Atiratra the 15+1 Stotra-Shastras of the Shodashi together with these 12 make 28 Stotra-Shastras in all; but according to the Aitareya, leaving out the Shodashi, the 15 Stotra-Shastras, the 12 Stotras of the Atiratra and the 3 Sandhi-stotras (the Sandhi-stotra being counted as three) make 30 Stotra-Shastras. Thus there are differences even about one and the same yajna. Agnishtoma, Vajapeya, and Aptoryama see comparatively less common use.
+Whether to include or omit a given Shastra remains disputed — the Sankhyayana-shrauta, Ashvalayana-shrauta, and Kaushitaki-brahmana all include the Shodashi, while the Aitareya Brahmana omits it entirely. In this yajna (Atiratra), 12 Stotra-Shastras are sung through the night, and at sunrise a Sandhi-stotra is recited; since the rites go on all night, the yajna is perhaps called "Atiratra." According to the other Brahmanas, in the Atiratra the 15+1 Stotra-Shastras of the Shodashi together with these 12 make 28 Stotra-Shastras in all; but according to the Aitareya, leaving out the Shodashi, the 15 Stotra-Shastras, the 12 Stotras of the Atiratra and the 3 Sandhi-stotras (the Sandhi-stotra being counted as three) make 30 Stotra-Shastras. Thus there are differences even about one and the same yajna. Atyagnishtoma, Vajapeya, and Aptoryama see comparatively less common use.
 
 **A further, genuinely significant contradiction arises among the "revealing-the-unknown" (ajñāta-jñāpaka) vidhis of the brahma-kāṇḍa:**
 
@@ -7794,7 +7794,7 @@ Just as karma-kāṇḍa contains contradictions, the brahma-kāṇḍa does too
 >
 > *(A capstone argument citing the Vedanta-sutra and Purva-Mimamsa-sutra by name: showing that the apparent contradiction over the world's cause is resolved because "asat" (non-being) in the Taittiriya passage doesn't mean literal nothingness but rather the unmanifest/undifferentiated state — consistent with the Self being the world's true cause; and that both Jaimini and Vyasa establish the Veda's authority through their respective sutra-systems. The overall conclusion: the entire vidhi-portion's authority stands firmly established.)*
 
-Sutta's argument now resolves the objection fully: the statements "jartilayavāgvā vā juhuyāt gavīdhukayavāgvā vā" and "anāhutir vai jartilāś ca gavīdhukāś ca" (cited as contradictory) genuinely do lack authority — but without any actual flaw, since these vidhi-statements were never meant to be followed in the first place. The truly prescribed oblation-substance — goat's milk — appears shortly after, in "ajakṣīreṇa juhoti." Goat's milk is the excellent oblation-substance; jartila and gavidhuka were mentioned first, and then declared unsuitable, precisely to praise goat's milk by contrast — that is, jartila and similar substances...
+Sūtra's argument now resolves the objection fully: the statements "jartilayavāgvā vā juhuyāt gavīdhukayavāgvā vā" and "anāhutir vai jartilāś ca gavīdhukāś ca" (cited as contradictory) genuinely do lack authority — but without any actual flaw, since these vidhi-statements were never meant to be followed in the first place. The truly prescribed oblation-substance — goat's milk — appears shortly after, in "ajakṣīreṇa juhoti." Goat's milk is the excellent oblation-substance; jartila and gavidhuka were mentioned first, and then declared unsuitable, precisely to praise goat's milk by contrast — that is, jartila and similar substances...
 
 ---
 
@@ -7854,7 +7854,7 @@ The same mantra appears in the Vajasaneyi Samhita too — but there, only "**न
 
 ### Page 422
 
-...the Shatapatha Brahmana debates the "nāyavastho-pāyavastha" reading and then rejects it, teaching instead the alternative: "sūpacaraṇā ca svadhicaraṇā cety eva brūyāt." Whichever reading is stated belongs to followers of that specific school (śākhā) — another school prescribes a different reading. In all such cases, the correct reading is determined by who recites or performs it. The same principle applies to vidhi-statements generally: whether a statement functions as injunction or prohibition must be judged relative to the specific person performing the act.
+...the Shatapatha Brahmana debates the "nāyavastho-pāyavastha" reading and then rejects it. Likewise the Taittiriyas, in the sūktavāka mantra, reject one reading and teach instead the alternative: "sūpacaraṇā ca svadhicaraṇā cety eva brūyāt." Whichever reading is stated belongs to followers of that specific school (śākhā) — another school prescribes a different reading. In all such cases, the correct reading is determined by who recites or performs it. The same principle applies to vidhi-statements generally: whether a statement functions as injunction or prohibition must be judged relative to the specific person performing the act.
 
 **Turning to resolve the Ātman/Asat contradiction:** "ātmā vā idam eka evāgra āsīt" means the Self alone existed before creation; "asad vā idam agra āsīt" means only the unmanifest form called "asat" existed — these two Shruti statements appear directly contradictory. The answer is given in the Brahma-sutra, first adhyaya, fourth pada, fourteenth sutra:
 
@@ -7988,9 +7988,9 @@ Sutra's meaning: since all Vedic statements are established as pointing to ritua
 
 **(1)** "so'rodīd yad arodīt tad rudrasya rudratvam" (Taittiriya Samhita 1-5-1) — "He wept; because he wept, that is Rudra's own Rudra-ness [i.e., the origin of his name]."
 
-**(2)** "sa ātmano vapām udakhidat" (Taittiriya Samhita 2-1-1) — "He peeled off his own layer of fat and cast it away."
+**(2)** "sa ātmano vapām udakhidat" (Taittiriya Samhita 2-1-1) — "He peeled off his own layer of fat and cast it into the fire."
 
-**(3)** "devā vai devayajanam adhyavasāya diśo na prājānan" (Taittiriya Samhita 6-1-5) — "The gods, having settled upon the sacrificial ground, did not [yet] know the directions."
+**(3)** "devā vai devayajanam adhyavasāya diśo na prājānan" (Taittiriya Samhita 6-1-5) — "The gods, having fixed a place for the divine sacrifice, could not identify that place."
 
 ---
 
@@ -8012,7 +8012,7 @@ Sutra's meaning: since arthavādas contradict both shastra and direct experience
 >
 > *(Establishing three kinds of contradiction found in arthavādas: contradiction with shastra, contradiction with direct sensory observation, and contradiction between one shastra passage and another. The example given: "stenaṃ mano'nṛtavādinī vāk" ("the mind is a thief, speech a teller of lies") — contradicting the prohibitive shastra rules against theft and lying, since it seems to claim the mind and speech, not the person, commit these acts. The further passages cited in the Sanskrit are given as (Tai. Brā. 2-1-2), (Mai. Saṃ. 1-4-11) and (Tai. Saṃ. 6-1-1-1).)*
 
-Sutta's meaning: since arthavādas contradict both shastra and direct experience, the arthavāda-portion cannot be authoritative — this establishes a threefold taxonomy of contradiction found across various arthavāda passages, to be worked through with specific examples.
+Sūtra's meaning: since arthavādas contradict both shastra and direct experience, the arthavāda-portion cannot be authoritative — this establishes a threefold taxonomy of contradiction found across various arthavāda passages, to be worked through with specific examples.
 
 ---
 
@@ -8040,7 +8040,7 @@ Statements like "so'rodīt" might lack authority regarding dharma-matters specif
 > *stenaṃ manaḥ |*
 > "The mind is a thief" — [continuing] "speech a teller of lies." One might wrongly conclude theft and lying are thereby permitted — directly contradicting the prohibitive shastra against theft and falsehood.
 
-**Dṛṣṭi-virodha** (contradiction with direct experience):
+**Dṛṣṭa-virodha** (contradiction with direct experience):
 
 > तस्माद्धूम एवाग्नेर्दिवा दृश्यते । नार्चिः । तस्मादर्चिरेवाग्नेर्नक्तं दृश्यते । न धूमः ॥
 > *tasmād dhūma evāgner divā dṛśyate | nārciḥ | tasmād arcir evāgner naktaṃ dṛśyate | na dhūmaḥ ||* (Taittiriya Brahmana 2-1-12)
@@ -8050,7 +8050,7 @@ Statements like "so'rodīt" might lack authority regarding dharma-matters specif
 > *na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā ||* (Maitrayani Samhita 1-4-11)
 > "We don't even know whether we are brahmins or not" — likewise contrary to experience.
 
-**Śāstra-dṛṣṭi-virodha** (undermining the Veda's own authority) — where one Vedic statement damages another's credibility:
+**Śāstra-dṛṣṭa-virodha** (undermining the Veda's own authority) — where one Vedic statement damages another's credibility:
 
 > स्वर्गकामो यजेत ।
 > *svargakāmo yajeta |*
