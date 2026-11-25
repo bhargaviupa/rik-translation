@@ -8098,14 +8098,14 @@ Sutra's meaning: since the fruits arthavādas promise are never actually observe
 
 ...this alone is the claimed fruit of this ritual-knowledge — but no one who knows this rite is ever seen to attain it. Since it declares an unattainable fruit, arthavādas are inauthoritative.
 
-Statements like "śobhate'sya mukhaṃ" declare both worldly and other-worldly fruits. Whichever fruit is claimed, it might go unobserved even by those who perform the act — so such statements should be conceded as purposeless. But what of arthavādas promising specifically *other-worldly* (āmuṣmika) fruits, unfalsifiable by ordinary observation? Surely their authority must be granted? The next sutra argues even these fail.
+Statements like "śobhate'sya mukhaṃ" declare both worldly and perishable fruits. Whichever fruit is claimed, it might go unobserved even by those who perform the act — so such statements should be conceded as purposeless. But what of arthavādas promising specifically *other-worldly* (āmuṣmika) fruits, unfalsifiable by ordinary observation? Surely their authority must be granted? The next sutra argues even these fail.
 
 ### "Anyānarthakyāt" (Jaimini Sutra 1-2-4)
 
 > एवं हि श्रूयते । पूर्णाहुत्या सर्वान् कामान् अवाप्नोति । पशुबन्ध-याजी सर्वाल् लोकान् अभिजयति । तरति मृत्युं तरति पाप्मानं तरति ब्रह्म-हत्यां योऽग्निष्टोमेन यजते य उ चैनम् एवं वेदेति ।
 > evaṃ hi śrūyate | pūrṇāhutyā sarvān kāmān avāpnoti | paśubandha-yājī sarvāl lokān abhijayati | tarati mṛtyuṃ tarati pāpmānaṃ tarati brahma-hatyāṃ yo'gniṣṭomena yajate ya u cainam evaṃ vedeti |
 >
-> *(Citing three parallel arthavada promises: "one attains all desires through the Purnahuti offering"; "one who performs the pashubandha sacrifice conquers all worlds"; "one who performs the Agnishtoma, and understands it correctly, crosses beyond death, sin, and the crime of killing a brahmin." Since these three separate rites each claim to grant the very same all-encompassing rewards — attaining all desires, conquering all worlds, crossing all evils — at least two of the three promises must be redundant if the third alone already delivers everything; this excess undermines the reliability of such promised fruits generally, extending the charge of non-authority even to other-worldly-fruit arthavadas.)*
+> *(Citing three parallel arthavada promises: "one attains all desires through the Purnahuti offering"; "one who performs the pashubandha sacrifice conquers all worlds"; "one who performs the Ashvamedha, and understands it correctly, crosses beyond death, sin, and the crime of killing a brahmin." Since these three separate rites each claim to grant the very same all-encompassing rewards — attaining all desires, conquering all worlds, crossing all evils — at least two of the three promises must be redundant if the third alone already delivers everything; this excess undermines the reliability of such promised fruits generally, extending the charge of non-authority even to other-worldly-fruit arthavadas.)*
 
 Sutra's meaning: all other arthavāda statements likewise serve no genuine purpose.
 
@@ -8146,7 +8146,7 @@ If authority is granted to even one other-worldly-fruit statement, then since it
 
 Every householder must perform the rite called **Agnyadheya** before he becomes qualified to perform Agnihotra. If performing just one Purnahuti — itself only a component of the Agnyadheya rite — already fulfills every desired end, what purpose do the subsequent Agnihotra and related rites even serve?
 
-**On the Purnahuti itself:** among the fire-offerings performed within Shrauta, Smarta, and Grihya rites, many "pradhana-homas" (principal offerings) are made to the yajna's chief deities. Afterward, "prayashchitta-homas" (expiatory offerings) remedy any lapses, followed by the "srishtikrit" offering, and finally the "Purnahuti" — the very last oblation of the sequence.
+**On the Purnahuti itself:** among the fire-offerings performed within Shrauta, Smarta, and Grihya rites, many "pradhana-homas" (principal offerings) are made to the yajna's chief deities. Afterward, "prayashchitta-homas" (expiatory offerings) remedy any lapses, followed by the "svishtakrit" offering, and finally the "Purnahuti" — the very last oblation of the sequence.
 
 ---
 
@@ -8197,7 +8197,7 @@ Pakayajnas differ according to each branch's own tradition. Among Shrauta-yajnas
 **(4) Per the Gopatha Brahmana (1-5-23):**
 अग्न्याधेय (*Agnyādheya*), अग्निहोत्र (*Agnihotra*), पौर्णमासी (*Pūrṇamāsī*), अमावास्या (*Amāvāsyā*), नवेष्टि (*Naveṣṭi*), चातुर्मास्य (*Cāturmāsya*), पशुबन्ध (*Paśubandha*)
 
-**On the दर्शपूर्णमासेष्टि (Darsha-Purnamasa-iṣṭis)** — performed at new moon and full moon, called "**इष्टि**" (*iṣṭi*) — these form the structural foundation for all other iṣṭis, identical in both ritual technique (tantra) and essential form. The main offering-substance for the **पुरोडाश** (*puroḍāśa*) is wheat, made into flour and baked to become "puroḍāśa," prepared separately in earthen-dish fragments called "**कपाल**" (*kapāla*). The first homa addresses Agni: the puroḍāśa baked in eight kapalas ("**आग्नेयमष्टाकपालम्**" *āgneyam aṣṭākapālam*) is offered. The second homa addresses Agni and Soma jointly: the puroḍāśa in eleven kapalas ("**आग्नीषोमीयमेकादशकपालम्**" *āgnīṣomīyam ekādaśakapālam*) is offered. Different deities correspondingly require different numbers of kapalas.
+**On the दर्शपूर्णमासेष्टि (Darsha-Purnamasa-iṣṭis)** — performed at new moon and full moon, called "**इष्टि**" (*iṣṭi*) — these form the structural foundation for all other iṣṭis, identical in both ritual technique (tantra) and essential form. The main offering-substance for the **पुरोडाश** (*puroḍāśa*) is rice flour or wheat flour, boiled in milk to become "puroḍāśa," prepared separately in earthen-dish fragments called "**कपाल**" (*kapāla*). The first homa addresses Agni: the puroḍāśa baked in eight kapalas ("**आग्नेयमष्टाकपालम्**" *āgneyam aṣṭākapālam*) is offered. The second homa addresses Agni and Soma jointly: the puroḍāśa in eleven kapalas ("**आग्नीषोमीयमेकादशकपालम्**" *āgnīṣomīyam ekādaśakapālam*) is offered. Different deities correspondingly require different numbers of kapalas.
 
 ---
 
@@ -8210,7 +8210,7 @@ Pakayajnas differ according to each branch's own tradition. Among Shrauta-yajnas
 
 These ishtis require four priests: **(1) अध्वर्यु (Adhvaryu)** — performs all the technical/procedural work; **(2) होतृ (Hotṛ)** — recites mantras and invites the deities; **(3) ब्रह्मा (Brahmā)** — oversees the correct performance of the above two; **(4) आग्नीध्र (Āgnīdhra)** — Brahma's assistant.
 
-The rites described so far occur on the new-moon or full-moon day itself, but preliminary rites are performed the day before: in the morning, the **अग्न्याधान (Agnyādhāna)** rite (placing kindling in the Garhapatya, Ahavaniya, and Dakshinagni fires with mantras); then the yajamana is ritually shaved, eats purified food, and, standing near the three fire-pits, takes certain vows (**व्रतग्रहण** *Vratagrahaṇa*) — after which he is considered "dīkṣā-bound." That night, both he and his wife (also diksha-bound) must remain within the sacrificial hall; the yaga proper begins the following morning.
+The rites described so far occur on the new-moon or full-moon day itself, but preliminary rites are performed the day before: in the morning, the **अग्न्याधान (Agnyādhāna)** rite (placing kindling in the Garhapatya, Ahavaniya, and Dakshinagni fires with mantras); then the yajamana is ritually shaved, eats the midday meal, and, standing near the three fire-pits, takes certain vows (**व्रतग्रहण** *Vratagrahaṇa*) — after which he is considered "dīkṣā-bound." That night, both he and his wife (also diksha-bound) must remain within the sacrificial hall; the yaga proper begins the following morning.
 
 After the Agnihotra: **(1)** priest-selection (**ऋत्विग्वरण** *Ṛtvigvaraṇa*); then, for minor deities' favor, the **प्रयाज (Prayāja)** rites (subsidiary to the main act); **(2)** one Ajya-homa (ghee-offering) each to Agni and Soma; **(3)** the puroḍāśa offered first to Agni (eight kapalas), then jointly to Agni-Soma (eleven kapalas) — the yajna's central act. Between these two, a softly-recited Ajya-homa to Agni-Soma jointly is called **उपांशुयाग (Upāṃśu-yāga)**; **(4)** the **सुहुतकृत्/शिष्टकृत् (Śiṣṭikṛt)** rite, offering the remainder of the puroḍāśa already used; **(5)** finally, the **अनुयाज (Anuyāja)s** — homas addressing three [further] deities.
 
@@ -8284,11 +8284,11 @@ There is disagreement on the morning homa's exact timing — before or after sun
 
 Among the many animal-sacrifice varieties, one is obligatory: the **निरूढपशुबन्ध (Nirūḍha-Paśubandha)**, performed on the rainy season's full-moon or new-moon day (some hold it should instead fall at the winter/summer Sankranti transitions). Six priests officiate: अध्वर्यु (Adhvaryu), होतृ (Hotṛ), ब्रह्मा (Brahmā), आग्नीध्र (Āgnīdhra, Brahma's assistant), प्रतिप्रस्थाता (Pratiprasthātā, Adhvaryu's assistant), and मैत्रावरुण (Maitrāvaruṇa, Hotr's assistant).
 
-As in the ishtis, a platform is built; east of the Ahavaniya-pit, at a slight distance, a further platform called "**पशुक** (*Pāśuka*)" is constructed, atop which a smaller platform, "**उत्तरवेदि** (*Uttaravedi*)," is built. A pole (**यूप** *Yūpa*) is planted one cubit into the ground there, to which the sacrificial animal is tied. Numerous small mantric acts follow. Before the main homa, several "**प्रयाज** (*Prayāja*)" offerings are performed, each accompanied by its own "**आप्री** (*Āprī*)" hymn of praise.
+As in the ishtis, a platform is built; east of the Ahavaniya-pit, at a slight distance, a further platform called "**पशुक** (*Pāśuka*)" is constructed, atop which a smaller platform, "**उत्तरवेदि** (*Uttaravedi*)," is built. A pole (**यूप** *Yūpa*), five cubits long, is planted one cubit into the ground there, to which the sacrificial animal is tied. Numerous small mantric acts follow. Before the main homa, eleven "**प्रयाज** (*Prayāja*)" offerings are performed, each accompanied by its own "**आप्री** (*Āprī*)" hymn of praise.
 
 The main homa follows immediately, dedicated to **इन्द्र (Indra)** and **अग्नि (Agni)**. The animal's fat and other portions are consecrated with mantras; the Adhvaryu offers the puroḍāśa and fat as homa, while the Maitravaruna and Hotr recite the appropriate Anuvaka-verses and "**याज्या** (*Yājyā*)" mantras respectively. An offering to please Agni ("**रुद्र** *Rudra*" in this ritual context) follows — the **शिष्टिकृत्-होम (Śiṣṭikṛt-homa)** — then "**इडाभक्षण** (*Iḍā-bhakṣaṇa*)," the partaking of the leftover offering ("iḍā") by the yajamāna, priests, and all present.
 
-This completes the yajna's central portion, though further minor acts remain before the rite concludes properly: the "**अनुयाज** (*Anuyāja*)" offerings (using curd-mixed grain as the substance, honoring eleven deities), followed by the "**उपयाज** (*Upayāja*)" — the Adhvaryu's assistant, the Pratiprasthata, offering the animal's meat without mantra-recitation — performed only in animal-sacrifice yajnas specifically.
+This completes the yajna's central portion, though further minor acts remain before the rite concludes properly: the "**अनुयाज** (*Anuyāja*)" offerings (using curd-mixed ghee as the substance, honoring eleven deities), followed by the "**उपयाज** (*Upayāja*)" — the Adhvaryu's assistant, the Pratiprasthata, offering the animal's meat without mantra-recitation — performed only in animal-sacrifice yajnas specifically.
 
 ---
 
@@ -8327,7 +8327,7 @@ Granting, as the previous sutras argued, that fruit-promising statements lack au
 
 ...a falcon-shaped altar is customarily constructed (in the Agni-chayana rite) — this Soma-related form being a portion of Prajapati, whom the rite addresses. The fire is established upon a golden plate (symbolizing the Sun), atop which a human-shaped golden image (representing Prajapati) is set, surrounded by layered bricks ("svayamātṛṇṇāḥ") thought to occupy the positions of earth, atmosphere, and sky — the whole rite depicting the creation of the universe, with the yajamāna coming to feel unity with Prajapati and the mantra-invoked deities.
 
-**Returning to the objection:** this cited arthavada indicates fire should be established upon the golden plate — specifically excluding earth, atmosphere, and sky. Very well, let prohibitive statements lack authority — but surely narrative statements like "Pravāhaṇa's son sought out Babara" carry no such doubt, containing only a sage's own historical account with no contradictory content at all? Anticipating this defense, the next sutra follows.
+**Returning to the objection:** this cited arthavada indicates fire should be established upon the golden plate — specifically excluding earth, atmosphere, and sky. Very well, let prohibitive statements lack authority — but surely narrative statements like "Pravāhaṇa's son Babara desired" carry no such doubt, containing only a sage's own historical account with no contradictory content at all? Anticipating this defense, the next sutra follows.
 
 ### "Anitya-saṃyogāt" (Jaimini Sutra 1-2-6)
 
@@ -8406,7 +8406,7 @@ That is: the objection held that vayu is an especially swift deity, and offering
 
 Sutra's meaning: since arthavāda-statements have been studied, generation after generation, following the same tradition as vidhi-statements, no error can have crept into them in transmission.
 
-Just as certain vidhis, in "anadhyāya" (non-study) periods, were the very first to be studied [by tradition] — these too have come down through the same guru-lineage, passed on faithfully according to tradition. In this same transmission-line...
+Just as there are vidhis such as not studying on "anadhyāya" (non-study) days — these too have come down through the same guru-lineage, passed on faithfully according to tradition. In this same transmission-line...
 
 ---
 
@@ -8492,7 +8492,7 @@ Here, "vetasa-śākhayā cāvakābhiś cāgniṃ vikarṣati" ("one draws away t
 >
 > "The word 'tu' (but) rules out the flaw of mismatched subject-matter. A figurative statement (guṇavāda) is intended here. Just as, in ordinary life, a person native to Kashmir, upon hearing Kashmir praised, considers himself praised — likewise here, the vetasa and avaka plants, being born in water, are themselves praised whenever water is praised. Being born from calm-natured waters, the vetasa and avaka plants are themselves calm-natured, and thereby pacify [any harm affecting] the yajamāna — this very quality is what the statement intends to convey."
 
-*(The Sanskrit continues with two further worked examples — one concerning why silver is called "born of Soma's tears," another concerning Prajapati and goats — extending the same guṇavāda logic to other apparently mismatched vidhi-arthavāda pairs; given the density of these additional citations, the clear English rendering below is the more reliable guide to their content. The goat example is cited as (Tai. Saṃ. 2-1-1-4).)*
+*(The Sanskrit continues with two further worked examples — one concerning why silver is called "born of Rudra's tears," another concerning Prajapati and goats — extending the same guṇavāda logic to other apparently mismatched vidhi-arthavāda pairs; given the density of these additional citations, the clear English rendering below is the more reliable guide to their content. The goat example is cited as (Tai. Saṃ. 2-1-4).)*
 
 That is: this text figuratively means simply, "O vetasa and avaka plants, sprung from the holy waters and therefore yourselves holy — drive away all evil from this yajamāna."
 
@@ -8509,7 +8509,7 @@ That is: this text figuratively means simply, "O vetasa and avaka plants, sprung
 
 Sutra's meaning: in such statements, one portion states a quality belonging to what the other portion describes — so the two portions of the statement do share a genuine mutual connection. The word "tu" (but) resolves the flaw of "vaiyadhikaraṇya" (mismatched subject-matter) — where a vidhi addresses one thing and its arthavāda seems to address another entirely. As in ordinary life: "when Kashmir is praised, Devadatta, native to Kashmir, considers himself praised too" — likewise, praising "waters are calm" implicitly praises the vetasa and avaka plants growing in that water, since they share water's calm nature and thereby pacify misfortune for the yajamāna. Stating this shared quality is the arthavāda's whole purpose.
 
-**A second example of this same principle — and the resolution to the "Rudra wept" passage first raised many pages ago:**
+**A second example of this same principle:**
 
 > सोऽरोदीद् यद् अरोदीत् तद् रुद्रस्य रुद्रत्वम् । यद् अप्क्षीयत कद् रजतं हिरण्यम् अभवत् स्वाप्कर्जतं हिरण्यम् अदक्षिणम् उत्पृजद् घि यो बर्हिषि ददाति पुरस्तात् संवत्सराद् ध्य् ए रुदन्ति तस्माद् बर्हिषि न देयम् ॥
 > so'rodīd yad arodīt tad rudrasya rudratvam | yad apkṣīyata kad rajataṃ hiraṇyam abhavat svāpkarjataṃ hiraṇyam adakṣiṇam utpṛjad ghi yo barhiṣi dadāti purastāt saṃvatsarād dhy e rudanti tasmād barhiṣi na deyam || (Taittiriya Samhita 1-5-1)
@@ -8559,11 +8559,11 @@ That is: Prajapati, desiring offspring and cattle, tore out his own entrails and
 
 ### Page 448
 
-...the divine [deities], despite their divinity, were once ignorant of this — recognizing this, we should not consider it false just because it seems strange. As in the example: "if you drink up an herb, hair will grow on your bald head" — such statements, even when their literal claim seems dubious, are accepted as encouraging trust in the wider practice.
+...the divine [deities], despite their divinity, were once ignorant of this — recognizing this, we should not consider it false just because it seems strange. As in the example: "if you drink guḍūcī (an herb), the hair on your head will grow" — such statements, even when their literal claim seems dubious, are accepted as encouraging trust in the wider practice.
 
 Having now shown resolutions to the shastra-contradiction cases, we turn to those raised as contradicting direct sense-perception: "stenaṃ manaḥ, anṛtavādinī vāk" — and a further doubt about how arthavāda statements' apparent absurdity should be resolved is addressed via the next sutra.
 
-### "Rūpasattvāt" (Jaimini Sutra 1-2-11)
+### "Rūpātprayāt" (Jaimini Sutra 1-2-11)
 
 > हिरण्यं हस्ते भवत्य् अथ गृह्णाति त्यकं विधिः स्तोकमयम् अर्थवाद उच्यते । यथा लोके किम् पुरुषा देवदत्त एव । पूज्यते इव? देव-दत्ते पूज्यमाने पूज्यं स्वयम् इत्य् उच्यते ।
 > hiraṇyaṃ haste bhavaty atha gṛhṇāti tyakaṃ vidhiḥ stokamayam arthavāda ucyate | yathā loke kim puruṣā devadatta eva | pūjyate iva? deva-datte pūjyamāne pūjyaṃ svayam ity ucyate |
@@ -8592,7 +8592,7 @@ As with the earlier examples ("stenaṃ manaḥ, anṛtavādinī vāk"), this ne
 
 ### Page 449
 
-We now explain the arthavāda praising the vidhi "haste bhavaty atha gṛhṇāti" (Maitrayani Samhita 4-8-2-3). "Kiṃ puruṣā devadatta eva pūjyāḥ" ("What! Is Devadatta the only person worthy of honor?") — such an expression doesn't imply others aren't worthy; it exists solely to *emphasize* Devadatta's own worthiness. Likewise, "hiraṇyaṃ haste bhavaty atha gṛhṇāti" ("gold comes to be in the hand, then he grasps it") — this arthavāda praises the vidhi that gold should be taken as sacrificial fee, by declaring gold's own preciousness.
+We now explain the arthavāda praising the vidhi "haste bhavaty atha gṛhṇāti" (Maitrayani Samhita 4-8-2-3). "Kimṛṣiṇā devadatta eva pūjayitavyaḥ" ("What! Is Devadatta the only person worthy of honor?") — such an expression doesn't imply others aren't worthy; it exists solely to *emphasize* Devadatta's own worthiness. Likewise, "hiraṇyaṃ haste bhavaty atha gṛhṇāti" ("gold comes to be in the hand, then he grasps it") — this arthavāda praises the vidhi that gold should be taken as sacrificial fee, by declaring gold's own preciousness.
 
 In the same way, "stenaṃ manaḥ" ("the mind is a thief") should be read figuratively: thieves remain hidden and unseen; the mind too stays hidden within the body, unseen. Since concealment is a shared quality between thieves and the mind, the mind is compared to a thief — stating this figurative sense is exactly this statement's purpose.
 
@@ -8601,7 +8601,7 @@ Likewise, "anṛtavādinī vāk" ("speech is a false-speaker"): since speech is 
 **On these falsehood-statements, the Taittiriya Brahmana adds:**
 
 > अनृतं वै वाचा वदति । अनृतं मनसा ध्यायति । चक्षुर् वै सत्यम् । अद्या हि घृताह अदर्शम् इति । सत्यैव ॥
-> anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣur vai satyam | adyā hi ghṛtāha adarśam iti | satyaiva || (Taittiriya Brahmana 1-1-4)
+> anṛtaṃ vai vācā vadati | anṛtaṃ manasā dhyāyati | cakṣur vai satyam | adyā hi ghṛtāha adarśam iti | satyaiva || (Taittiriya Brahmana 1-14)
 >
 > "Speech indeed speaks falsehood; the mind indeed dwells on falsehood — but the eye is indeed truthful, for when one says 'I saw [it] today,' that itself is truth."
 
@@ -8618,7 +8618,7 @@ Likewise, "anṛtavādinī vāk" ("speech is a false-speaker"): since speech is 
 
 A sentence carries two kinds of meaning: one, the direct meaning conveyed by the words themselves — "the fire burns"; another, a further meaning conveyed indirectly through that literal sense as a stepping-stone — the "secondary meaning" (gauṇārtha), as in "Devadatta burns like fire," where "burning" must be reinterpreted (through anger, desire, etc.) to fit Devadatta sensibly. The first is the primary meaning; the second, the secondary meaning — meaning derived by pointing at a shared quality.
 
-Having thus resolved the shastra-contradiction objection, we turn to the dṛṣṭi-virodha (contradiction with direct perception) examples — statements like "bhūmā vāgnir dinā dṛśye" (only smoke, not flame, is visible by day) — addressed in the next sutra.
+Having thus resolved the shastra-contradiction objection, we turn to the dṛṣṭi-virodha (contradiction with direct perception) examples — statements like "dhūma evāgnir divā dadṛśe" (only smoke, not flame, is visible by day) — addressed in the next sutra.
 
 ### "Dūra-bhūyastvāt" (Jaimini Sutra 1-2-12)
 
@@ -8653,7 +8653,7 @@ The objection held this contradicts direct perception — flame *is* visible bef
 
 **Turning to the second dṛṣṭi-virodha example:** "na caitad vidmo vayaṃ brāhmaṇā vā smo'brāhmaṇā vā" — "we don't even know whether we are brahmins or not." The next sutra addresses this.
 
-### "Pṛṣi-sarādhākarṣṭa putra-darśanāt" (Jaimini Sutra 1-2-13)
+### "Straparādhātkartuśca putradarśanāt" (Jaimini Sutra 1-2-13)
 
 > प्रवरे प्रव्रियमाणे ब्रूयाद् देवाः पितरः इत्य् अस्य विधीस् ताकोऽयम् अर्थवादः । यदि यजमानो देवाः पितर इत्य् आदि-मन्त्रेण प्रवरम् अनुमन्त्र्येत इदानीम् अब्राह्मणो ब्राह्मणो भवेद् इत्य् असु-मन्त्रिणस् स्तुतिः । न चैतद् इति एतद् अज्ञान-वचनं दुर्जनत्व-गुणेन तत्र प्रयुज्यते । यत्र...
 > pravare pravriyamāṇe brūyād devāḥ pitaraḥ ity asya vidhīs tāko'yam arthavādaḥ | yadi yajamāno devāḥ pitara ity ādi-mantreṇa pravaram anumantryeta idānīm abrāhmaṇo brāhmaṇo bhaved ity asu-mantriṇas stutiḥ | na caitad iti etad ajñāna-vacanaṃ durjanatva-guṇena tatra prayujyate | yatra...
@@ -8825,7 +8825,7 @@ When these four vices converge, what more need be said? There's no doubt whatsoe
 
 **Returning to resolve the "redundant fruit" objection ("anyānarthakyāt"):** "pūrṇāhutyā sarvān kāmān āpnoti" and similar statements are explained next.
 
-### "Sarva-śabdādhikārikam" (Jaimini Sutra 1-2-16)
+### "Sarvatvamādhikārikaṃ" (Jaimini Sutra 1-2-16)
 
 > पूर्णाहुतिं जुहुयाद् इत्य् अस्य विधेः शेषोऽयं । सर्व-कामावाप्ति-हेतुत्वेन स्तूयमानं पूर्णाहुतिर् इति सूच्यते । यथा सर्वे ब्राह्मणा भोजयितव्या इत्य् अत्र सर्वत्वं स्व-गृह-गत-ब्राह्मण-विषयं । एवं पूर्णाहुत्याः कर्म-सङ्गत्ये यत् फलं तस्याधिकारे प्रस्तावे सम्भावितं तद्-विषयं सर्वत्वं द्रष्टव्यम् । पूर्णाहुतेर् अभावे कर्माङ्ग-विकलं भवति । तच् चेन् नैश्चल्यं पूर्णाहुत्या समाधीयत इत्य् एष कामः । तस्मिन् सम्ये सत्याहवनीयाद्य्-अग्नि-होत्रादि-कर्मसु योग्यो भवतीत्य् अयम् अप्य् एष कामः । कैश् च कर्मभिस् तैस् तैस् फलं प्राप्यत इति कामान्तरम् ।
 > pūrṇāhutiṃ juhuyād ity asya vidheḥ śeṣo'yaṃ | sarva-kāmāvāpti-hetutvena stūyamānaṃ pūrṇāhutir iti sūcyate | yathā sarve brāhmaṇā bhojayitavyā ity atra sarvatvaṃ sva-gṛha-gata-brāhmaṇa-viṣayaṃ | evaṃ pūrṇāhutyāḥ karma-saṅgatye yat phalaṃ tasyādhikāre prastāve sambhāvitaṃ tad-viṣayaṃ sarvatvaṃ draṣṭavyam | pūrṇāhuter abhāve karmāṅga-vikalaṃ bhavati | tac cen naiścalyaṃ pūrṇāhutyā samādhīyata ity eṣa kāmaḥ | tasmin samye satyāhavanīyādy-agni-hotrādi-karmasu yogyo bhavatīty ayam apy eṣa kāmaḥ | kaiś ca karmabhis tais tais phalaṃ prāpyata iti kāmāntaram |
@@ -8880,7 +8880,7 @@ The Adhana rite currently underway would otherwise remain deficient; the Purnahu
 
 Very well — Purnahuti is merely a component of one ritual act, and its fruit-declaring Shruti-statement, being arthavāda, is oriented purely toward praise, since it concerns substance, consecration, and ritual acts performed for another's (i.e., a further) sake. But "paśubandha-yājī sarvāl lokān abhijayati" ("one who performs pashubandha conquers all worlds") both prescribes an act *and* declares its own principal fruit — if we accept the Purnahuti resolution as given, doesn't one of these two statements become purposeless? The next sutra resolves this.
 
-### "Phalasya karma-niṣṭheṣu lokavat parimāṇakaḥ sāratho vā phala-viśeṣaḥ syāt" (Jaimini Sutra 1-2-17)
+### "Phalasya karmaniṣpattesteṣāṃ lokavatparimāṇataḥ sārato vā phalaviśeṣaḥ syāt" (Jaimini Sutra 1-2-17)
 
 > पृथिव्य्-अन्तरिक्ष-स्वर्-गेषु तमलोक-अभिजय-रूपं फलं पशुबन्ध-कर्मणा निष्पाद्यत इति शेषः । इतरेषां च प्रेणादीनां फलानां कर्मान्तरेण परिमाणाधिक्यं सारत्वं वा सम्पद्येत । ततः फल-विशेषः स्याद् इति नास्त्य् अनर्थक्यम् । लोक-वद् अपि प्रत्यक्ष-प्रमाणः दृष्टान्तः । यथा लोके निष्टिकिनः खारी-परिमितापि रीणे री श्रियं निष्पाद्य अन्तरेन पुनः क्रिये सति परिमाणाधिक्यं भवति । यथा वा निष्ठेन वस्त्र-मात्रं अल्पे निष्पद्यकेन तु सार-भूतं संकुलम् । तथा भोगाधिक्यं भोग-सारत्वं वा कर्मान्तरेण दृश्यम् । ब्रह्म-हत्याया अपि मानस्याः स्वल्पाया वेदन-मात्रेण तरणं कायिक्या महत्या अश्वमेधेन इति नास्त्य् अनर्थक्यम् ।
 > pṛthivy-antarikṣa-svar-geṣu tamaloka-abhijaya-rūpaṃ phalaṃ paśubandha-karmaṇā niṣpādyata iti śeṣaḥ | itareṣāṃ ca preṇādīnāṃ phalānāṃ karmāntareṇa parimāṇādhikyaṃ sāratvaṃ vā sampadyeta | tataḥ phala-viśeṣaḥ syād iti nāsty anarthakyam | loka-vad api pratyakṣa-pramāṇaḥ dṛṣṭāntaḥ | yathā loke niṣṭikinaḥ khārī-parimitāpi rīṇe rī śriyaṃ niṣpādya antarena punaḥ kriye sati parimāṇādhikyaṃ bhavati | yathā vā niṣṭhena vastra-mātraṃ alpe niṣpadyakena tu sāra-bhūtaṃ saṃkulam | tathā bhogādhikyaṃ bhoga-sāratvaṃ vā karmāntareṇa dṛśyam | brahma-hatyāyā api mānasyāḥ svalpāyā vedana-mātreṇa taraṇaṃ kāyikyā mahatyā aśvamedhena iti nāsty anarthakyam |

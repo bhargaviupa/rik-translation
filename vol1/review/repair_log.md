@@ -1365,3 +1365,28 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 427 | `Sutta's meaning` → `Sūtra's meaning` | SECOND-PASS S13: term: ಸೂತ್ರಾರ್ಥ |
 | 428 | `**Dṛṣṭi-virodha**` → `**Dṛṣṭa-virodha**` | SECOND-PASS S13: Kannada ದೃಷ್ಟವಿರೋಧ |
 | 428 | `**Śāstra-dṛṣṭi-virodha**` → `**Śāstra-dṛṣṭa-virodha**` | SECOND-PASS S13: Kannada ಶಾಸ್ತ್ರದೃಷ್ಟವಿರೋಧ |
+
+### 2026-11-25 second pass, batch e430-459.tsv
+| page | old → new | why |
+|---|---|---|
+| 430 | `both worldly and other-worldly fruits` → `both worldly and perishable fruits` | SECOND-PASS S14: Kannada p.430: ಐಹಿಕ ಮತ್ತು ನಶ್ವರವಾದ ಫಲಗಳು (worldly and perishable fruits) |
+| 430 | `one who performs the Agnishtoma, and understands it correctly` → `one who performs the Ashvamedha, and understands it correctly` | SECOND-PASS S13: Kannada p.430: ಯೋಽಶ್ವಮೇಧೇನ ಯಜತೇ (Ashvamedha), not Agnishtoma; English prose only |
+| 431 | `followed by the "srishtikrit" offering` → `followed by the "svishtakrit" offering` | SECOND-PASS S13: Kannada p.431: ಸ್ವಿಷ್ಟಕೃತ್ ಎಂಬ ಹೋಮ |
+| 433 | `is wheat, made into flour and baked to become` → `is rice flour or wheat flour, boiled in milk to become` | SECOND-PASS S16: Kannada p.433: ಅಕ್ಕಿಹಿಟ್ಟು ಅಥವಾ ಗೋಧಿಯಹಿಟ್ಟನ್ನು ಹಾಲಿನಲ್ಲಿ ಬೇಯಿಸಿದರೆ ಪುರೋಡಾಶ |
+| 434 | `eats purified food` → `eats the midday meal` | SECOND-PASS S16: Kannada p.434: ಮಧ್ಯಾಹ್ನ ಭೋಜನಮಾಡುತ್ತಾರೆ (no purified food) |
+| 437 | `Before the main homa, several` → `Before the main homa, eleven` | SECOND-PASS S3: Kannada p.437: ಪ್ರಧಾನಹೋಮಕ್ಕೆ ಮುಂಚೆ ಹನ್ನೊಂದು ಪ್ರಯಾಜಗಳು (number printed; English had "several") |
+| 437 | ` is planted one cubit into the ground there` → `, five cubits long, is planted one cubit into the ground there` | SECOND-PASS S3: Kannada p.437: ಐದು ಮೊಳ ಉದ್ದವುಳ್ಳ ಗೂಟ ... ಒಂದು ಮೊಳದಷ್ಟು ನೆಲದೊಳಗೆ ಹೂಳುತ್ತಾರೆ |
+| 437 | `using curd-mixed grain as the substance` → `using curd-mixed ghee as the substance` | SECOND-PASS S13: Kannada p.437: ದಧಿಮಿಶ್ರಿತವಾದ ಧೃತವೇ ಹೋಮದ್ರವ್ಯ (ghee) |
+| 439 | `Pravāhaṇa's son sought out Babara` → `Pravāhaṇa's son Babara desired` | SECOND-PASS S15: Kannada p.439: ಪ್ರವಾಹಣನ ಮಗನಾದ ಬಬರನು ಅಪೇಕ್ಷಿಸಿದನು (Babara, son of Pravahana, desired); roles were reversed |
+| 441 | `Just as certain vidhis, in "anadhyāya" (non-study) periods, were the very first to be stud` → `Just as there are vidhis such as not studying on "anadhyāya" (non-study) days — these too` | SECOND-PASS S14: Kannada p.441: ಅನಧ್ಯಯನದಿನಗಳಲ್ಲಿ ಅಧ್ಯಯನಮಾಡದಿರುವುದು ಮೊದಲಾದ ವಿಧಿಗಳು ಇರುವವಷ್ಟೆ; no "first to be studied" |
+| 444 | `born of Soma's tears` → `born of Rudra's tears` | SECOND-PASS S13: Kannada p.446/444 context: ರುದ್ರನ ಕಣ್ಣೀರು (Rudra, not Soma) |
+| 444 | `cited as (Tai. Saṃ. 2-1-1-4).)*` → `cited as (Tai. Saṃ. 2-1-4).)*` | SECOND-PASS S1: Kannada p.444: (ತೈ.ಸಂ. ೨-೧-೪) |
+| 445 | ` — and the resolution to the "Rudra wept" passage first raised many pages ago:**` → `:**` | SECOND-PASS S16: Kannada p.445: only ಮತ್ತೊಂದು ಉದಾಹರಣೆ; no earlier raising of the Rudra passage |
+| 448 | `if you drink up an herb, hair will grow on your bald head` → `if you drink guḍūcī (an herb), the hair on your head will grow` | SECOND-PASS S16: Kannada p.448: ಗುಡೂಚಿಯನ್ನು(ಒಂದು ಔಷಧ) ಕುಡಿ, ನಿನ್ನ ತಲೆಯ ಕೂದಲು ಬೆಳೆಯುವುದು; no bald head |
+| 448 | `"Rūpasattvāt" (Jaimini Sutra 1-2-11)` → `"Rūpātprayāt" (Jaimini Sutra 1-2-11)` | SECOND-PASS S13: Kannada p.448: ರೂಪಾತ್ಪ್ರಯಾತ್(ಜೈ. ಸೂ.೧-೨-೧೧); Latin made by sp_sanskrit.py from the Kannada; embedded source says "Rupat. Prayat." |
+| 449 | `Kiṃ puruṣā devadatta eva pūjyāḥ` → `Kimṛṣiṇā devadatta eva pūjayitavyaḥ` | SECOND-PASS S7: Kannada p.449: ಕಿಮೃಷಿಣಾ ದೇವದತ್ತ ಏವ ಪೂಜಯಿತವ್ಯಃ; Latin made by sp_sanskrit.py |
+| 449 | `Taittiriya Brahmana 1-1-4` → `Taittiriya Brahmana 1-14` | SECOND-PASS S1: Kannada p.449: (ತ್ರೈ. ಬ್ರಾ. ೧-೧೪) applied as printed; number only |
+| 450 | `bhūmā vāgnir dinā dṛśye` → `dhūma evāgnir divā dadṛśe` | SECOND-PASS S7: Kannada p.450: ಧೂಮ ಏವಾಗ್ನಿರ್ದಿವಾ ದದೃಶೇ; Latin made by sp_sanskrit.py |
+| 451 | `"Pṛṣi-sarādhākarṣṭa putra-darśanāt" (Jaimini` → `"Straparādhātkartuśca putradarśanāt" (Jaimini` | SECOND-PASS S13: Kannada p.452: ಸ್ತ್ರಪರಾಧಾತ್ಕರ್ತುಶ್ಚ ಪುತ್ರದರ್ಶನಾತ್(ಜೈ. ಸೂ. ೧-೨-೧೩); Latin by sp_sanskrit.py |
+| 457 | `"Sarva-śabdādhikārikam" (Jaimini` → `"Sarvatvamādhikārikaṃ" (Jaimini` | SECOND-PASS S13: Kannada p.457: ಸರ್ವತ್ವಮಾಧಿಕಾರಿಕಂ(ಜೈ. ಸೂ. ೧-೨-೧೬); Latin by sp_sanskrit.py |
+| 459 | `"Phalasya karma-niṣṭheṣu lokavat parimāṇakaḥ sāratho vā phala-viśeṣaḥ syāt" (Jaimini` → `"Phalasya karmaniṣpattesteṣāṃ lokavatparimāṇataḥ sārato vā phalaviśeṣaḥ syāt" (Jaimini` | SECOND-PASS S13: Kannada p.459 sutra text (ಫಲಸ್ಯ ಕರ್ಮನಿಷ್ಪತ್ತೇಸ್ತೇಷಾಂ ಲೋಕವತ್ಪರಿಮಾಣತಃ ಸಾರತೋ ನಾ ಫಲವಿಶೇಷಃ ಸ್ಯಾತ್); Latin by sp_sanskrit.py; vā kept (Kannada ನಾ misprint, in kn_misp |

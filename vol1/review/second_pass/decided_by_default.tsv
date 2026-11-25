@@ -72,3 +72,11 @@ page	place	as_found	question	why_not_settled	decision
 404-427	sutra headings	English headings Śataḥ parama-vijñānam, Uktvā anitya-saṃyogaḥ, Guṇāvadhi-vipratiṣedhāt, Abhidhāner-arthavādaḥ, Śāstra-dṛṣṭa-nirodhāc ca differ from Kannada ಸತಃ, ಉಕ್ತಶ್ಚ, ಗುಣಾದವಿಪ್ರತಿಷೇಧಃ, ಅಭಿಧಾನೇಽರ್ಥವಾದಃ, ವಿರೋಧಾಚ್ಚ	IAST headings		English kept (IAST not edited by hand)
 429	gargatrirata quotation and renown	English IAST kṣobhakreṣya mukham and 'performed for renown' (from Wikisource praśatyai); Kannada ಶೋಭತೇಽಸ್ಯ ಮುಖಂ	Sanskrit derived data		English kept
 409	no head	Kannada p.409 text sits in the 408 block (head '409' printed, no mark, followed by mark 'printed 409: NOT IN THE SUPPLIED TEXT'); English Page 409 carries it	alignment		English kept
+434	priest list	English lists (1) Adhvaryu; Kannada page has no item 1 (printed list starts at 2)			Kannada list lost its first item; English kept; English kept
+434	Prayajas	English omits the "(five)" Prayajas			omission not added; English kept
+438	falcon altar	English omits the year-long keeping of the fire and Gayatri bringing Soma			omission not added; English kept
+443	vikarsati	English "draws away" the fire; Kannada ಆರಿಸುವನು (extinguishes)			sense of the verb uncertain; English kept; English kept
+449	Kimrsina gloss	English gloss "Is Devadatta the only person worthy of honor?"; Kannada: what of a rishi? honour should go to Devadatta alone			English gloss follows the embedded source translation; English kept; English kept
+452	sutra heading	Kannada ಸ್ತ್ರಪರಾಧಾತ್ misprint; heading applied as printed (see page 451 edit)			Kannada misprint listed; English kept
+447	whole page	English has no section for Kannada p.447 (Aditi example, Tai. Saṃ. 6-1-5)			no translation added; open.tsv; English kept
+456	vaji	English "a swift one is born"; Kannada glosses ವಾಜೀ as food (ಅನ್ನ)			English kept; English kept
