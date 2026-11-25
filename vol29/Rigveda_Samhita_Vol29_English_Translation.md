@@ -25657,6 +25657,280 @@ O Agni, you are praised by the wakeful praisers, those watchful in their praise.
 - इळः (*iḷaḥ*)—of the earth
 - पदे (*pade*)—in the northern altar
 
+### Printed p. 949
+
+  as the sacrificial place in the form of the northern altar.
+- इषयन् (*iṣayan*)—desiring food
+- विश्वस्य हविषः (*viśvasya haviṣaḥ*)—of all oblations
+- होता (*hotā*)—the offerer
+- वरेण्यः (*vareṇyaḥ*)—the venerable one
+- विभुः (*vibhuḥ*)—the all-pervading
+- विभावा (*vibhāvā*)—the radiant
+- सुषखा (*suṣakhā*)—you, the excellent friend
+- दमे (*dame*)—in the sacrificial house
+- सखीयते (*sakhīyate*)—for the sacrificer who wishes to have you as his friend
+- समिध्यते (*samidhyate*)—you are kindled
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are praised by the wakeful praisers, who are of generous nature in giving, who at the place of sacrifice in the form of the northern altar of the earth, desiring food, offer all the oblations, who are venerable, all-pervading, radiant and an excellent friend, are kindled in the sacrificial house for the sacrificer who wishes to have you as his friend.
+
+##### English translation
+Damunas, being glorified by his diligent (worshippers), desiring food upon the footmark of Ila, is kindled in the chamber (of sacrifice), the offerer of every oblation, the object of veneration, the lord, the resplendent, to him who desires his friendship.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स द॑र्शत॒श्रीरत॑िर्गृ॒हेगृ॑हे॒ वने॑वने शिश्रये तक्व॒वीरि॑व ।  
+> जनं॑जनं॒ जन्नो॒ नाति॑ मन्यते॒ विश॒ आ क्षे॑ति वि॒शो॒३॒॑३विशं॑विशं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । दर्शतश्रीः । अतिथिः । गृहेऽगृहे । वनेऽवने । शिश्रिये । तक्ववीऽइव ।  
+> जनंजनं । जन्यः । न । अति । मन्यते । विशः । आ । क्षेति । विश्वः । विशंविशं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दर्शतश्रीर्दर्शनीयविभूतिरतिथिरतिथिभूतः सोऽग्निर्गृहेगृहे यजमानानां
+> गृहेषु वनेवने सर्वेषु वनेषु च शिश्रिये । श्रयति । किंच जनो जनहितः
+> सोऽग्निर्जनंजनं सर्वं जनं तक्ववीरिव गच्छन्निव नाति मन्यते । न विसृज्य
+
+##### Gist of the bhāṣya
+
+Agni, of beautiful splendour and of the nature of a guest, takes shelter in every house, that is, in the houses of the sacrificers, and in every forest. Moreover, being friendly to people, Agni, as if going to every single person, does not disregard any: the meaning is that he does not leave anyone aside and pass on.
+
+### Printed p. 950
+
+> गच्छतीत्यर्थः । तदेव दर्शयति । विश्यो विड्भ्यो हितः सोग्निर्विशो मनुष्याना
+> क्षेति । किंच विशंविशं सर्वा विशः प्रजा अधितिष्ठतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+He shows the same thing. Agni, beneficial to the clans, dwells among the people. Moreover he presides over every people, all the subjects (the verb "presides" is to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दर्शतश्रीः (*darśataśrīḥ*)—the one of attractive splendour
+- अतिथिः (*atithiḥ*)—the one of the form of a guest
+- सः (*saḥ*)—Agni
+- गृहेगृहे (*gṛhegṛhe*)—in the house of every sacrificer
+- वनेवने (*vanevane*)—in all forests
+- शिश्रिये (*śiśriye*)—takes shelter
+- जन्यः (*janyaḥ*)—Agni, who is beneficial to men
+- तक्ववीः इव (*takvavīḥ iva*)—as if going among men
+- जनंजनं (*janaṃjanaṃ*)—any man
+- नाति मन्यते (*nāti manyate*)—does not slight and pass on
+- विश्वः (*viśvaḥ*)—Agni, who is beneficial to the subjects
+- विशः आ क्षेति (*viśaḥ ā kṣeti*)—dwells, taking shelter among all men
+- विशं विशं (*viśaṃ viśaṃ*)—is the lord of all men
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, of attractive splendour and of the form of a guest, takes shelter in the house of every sacrificer and in all forests. Agni, who is beneficial to men, as if going among men, does not slight any man and pass on. Agni, who is beneficial to the subjects, dwells, taking shelter among all men. He is the lord of all men.
+
+##### English translation
+Of manifest glory, he resorts as a guest to every house (of his worshippers) to every forest; friendly to man, like one repairing to all men, he disregards them not; kind to all, he dwells amongst all men, (he presides over every one).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒दक्षो॒ दक्षैः॒ क्रतु॑नासि सु॒क्रतु॒रग्ने॑ क॒विः काव्ये॑नासि विश्व॒वित् ।  
+> वसु॒र्वसू॑नां क्षयिसि॒ त्वमेक॒ इद्द्यावा॑ च॒ यानि॑ पृथि॒वी च॒  ॑
+> पुष्यतः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुदक्षः । दक्षैः । क्रतुना । असि । सुक्रतुः । अग्ने । कविः । काव्येन । असि । विश्ववित् ।
+
+### Printed p. 951
+
+> वसुः । वसूनां । क्षयसि । त्वं । एकः । इत् । द्यावा । च । यानि । पृथिवी इति ।  
+> च । पुष्यतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं दक्षैर्बलैः सुदक्षः सुबलोऽसि । भवसि । किंच क्रतुना कर्मणा
+> सुक्रतुः शोभनकर्मासि । किंच काव्येन मेधाविकर्मणा कविर्मेधाव्यसि । किंच
+> विश्ववित्सर्वज्ञोऽसि । किंच वसूनां धनानां वसुर्वासयितासि । किंच हे अग्ने
+> त्वमेक इदेक एव क्षयिसि । निवससि । किंच द्यावा च पृथिवी च द्यावाभूमि यानि
+> वसूनि पुष्यतः संवर्धयतः तेषां दिव्यानां पार्थिवानां च धनानामीशिष
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are of good strength through strengths, that is, well endowed with power. Moreover you are of good action through action, that is, of excellent work. Moreover you are a poet through poetic work, that is, wise through the work of the wise. You are all-knowing. You are the Vasu of the wealths, that is, the one who provides dwelling for them. Moreover, O Agni, you alone dwell, that is, abide. Moreover, of those riches that heaven and earth, the two, nourish, that is, increase, of those heavenly and earthly riches you are the lord: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- दक्षैः (*dakṣaiḥ*)—together with the strong
+- सुदक्षः (*sudakṣaḥ*)—an excellent strong one
+- असि (*asi*)—you are
+- क्रतुना (*kratunā*)—by your action
+- सुक्रतुः (*sukratuḥ*)—you are one of excellent action
+- काव्येन (*kāvyena*)—by your excellent work of wisdom
+- कविः (*kaviḥ*)—a wise man of poetic work
+- असि (*asi*)—you are
+- विश्ववित् (*viśvavit*)—you are all-knowing
+- वसूनां (*vasūnāṃ*)—of all riches
+- वसुः (*vasuḥ*)—you are the one who provides dwelling
+- त्वं (*tvaṃ*)—you
+- एक इत् (*eka it*)—as the one without a second
+- क्षयिसि (*kṣayisi*)—you dwell
+- द्यावा च (*dyāvā ca*)—that which belongs to the heavenly world
+- पृथिवी च (*pṛthivī ca*)—and that which belongs to the earth
+- यानि (*yāni*)—which riches
+- पुष्यतः (*puṣyataḥ*)—you nourish; of all those you are the lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are the best among the strong. You are of the best action among those who act. Being wise, you are of excellent poetic work. You are all-knowing. You are the dwelling-giver (the shelter) of all riches. You are without a second. Of all riches belonging to heaven and earth you are the nourisher and the lord.
+
+##### English translation
+You, Agni, are vigorous with vigour, you are active with acts (of piety) you are wise with wisdom, knowing all things. You are the dispenser of wealth, you abide alone, you are lord of the treasures of heaven and earth.
+
+### Printed p. 952
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒जा॒नन्न॑ग्ने॒ तव॒ योनि॑मृ॒त्विय॒मिळा॑यास्प॒दे घृ॒तवं॑त॒मास॑दः ।  
+> आ ते॑ चिकित्स उ॒षसा॑मि॒वेत॑योरे॒पसः॒ सूर्य॑स्येव र॒श्मयः॑ ॥  
+> प्रजानन् । अग्ने । तव । योनिं । ऋत्वियं । इळायाः । पदे । धृतवंतं ।  
+> आ । असदः ।  
+> आ । ते । चिकित्से । उषसां इव । एतयः । अरेपसः । सूर्यस्य इव । रश्मयः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तवर्त्वियमृतौ भवं धृतवंतं धृतेन सहितं योनिं निवासस्थानमिळायास्पद उत्तरवेद्यां प्रजानंस्त्वमासदः । आसीदसि ! किंच ते तव
+> रश्मय उषसामिव यथोषसामेतयः प्रज्ञाः प्रकाशलक्षणा आगतयो वा ।
+> सूर्यस्येव.................. ॥
+
+##### Gist of the bhāṣya
+
+O Agni, knowing your abode, which is suited to the season and is accompanied by ghee, at the place of Ilā, that is, on the northern altar, you take your seat. Moreover, your rays are like the एतयः (*etayaḥ*) of the dawns, that is, like their knowings, characterised by light, or their comings. Like those of the sun, [the quotation is abridged].
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- इळायाः (*iḷāyāḥ*)—on the earth
+- पदे (*pade*)—at the place of the northern altar
+- ऋत्वियं (*ṛtviyaṃ*)—that which is fit for sacrifice
+- धृतवंतं (*dhṛtavaṃtaṃ*)—that which is moistened with ghee
+- तव योनिं (*tava yoniṃ*)—your abode
+- प्रजानन् (*prajānan*)—knowing
+- आसदः (*āsadaḥ*)—you are established
+- ते (*te*)—your
+- रश्मयः (*raśmayaḥ*)—flame-rays
+- उषसां (*uṣasāṃ*)—of the dawns
+- एतय इव (*etaya iva*)—like the rays
+- सूर्यस्य (*sūryasya*)—of the sun
+- अरेपसः इव (*arepasaḥ iva*)—like the faultless rays
+- आ चिकित्से (*ā cikitse*)—shine everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, knowing your abode, fit for sacrifice and moistened with ghee, at the place of the northern altar on the earth, you are established there; your flame-rays shine everywhere like the rays of the dawns and like the faultless rays of the sun.
+
+### Printed p. 953
+
+##### English translation
+Sagacious Agni, you sit at your station suited to the sacrifice and anointed with butter at the foot-mark of Ila. Your quick-moving rays are manifested like those of the dawns, beautiful as those of the sun.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ श्रियो॑ व॒र्ष॑स्येव वि॒द्युत॑श्चि॒त्राश्चि॑कित्र उ॒षसां॒ न के॒तवः॑ ।  
+> यदोष॑धीर॒भिसृ॑ष्टो॒ वना॑नि च॒ परि॑ स्व॒यं चि॑नु॒षे अन्न॑मा॒स्ये॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । श्रियः । वर्षस्य इव । विद्युतः । चित्राः । चिकित्से । उषसां । न । केतवः ।  
+> यत् । ओषधीः । अभिऽसृष्टः । वनानि । च । परि । स्वयं । चिनुषे । अन्नं । आस्ये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ............यथा वर्षितुर्मेघस्य संबंधिन्नो विद्युत् उषसां न यथा
+> चोषसां केतवः प्रज्ञानास्तत्स्थाः प्रकाशाः प्रज्ञायंते तद्वदित्यर्थः । तदेत्यत्राह ।
+> यद्यदा त्वमोषधीर्विह्र्याद्या वनान्यरण्यानि चाभिसृष्टः सृष्टो दग्गुं विस्कृष्टः सन्
+> स्वयमात्मनास्यॆ मुखेऽन्नमदनीयं स्थावरलक्षणं परि चिनुषे । परिक्षिपसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+As the lightnings belonging to the rain-giving cloud, and as the banners of the dawns, that is, the lights standing in them, which are known, so the sense is. He tells when: when you, set free upon the plants and the forests, to burn them, yourself place in your own mouth food fit to be eaten, of the nature of the immovable, you gather it around: this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- त्वं (*tvaṃ*)—you (supplied)
+- ओषधीः (*oṣadhīḥ*)—the plants
+- वनानि (*vanāni*)—the forest trees
+- अभिसृष्टः (*abhisṛṣṭaḥ*)—when you are set free, unrestrained, to burn
+- स्वयं (*svayaṃ*)—without the help of others
+- अस्यॆ (*asyè*)—in the mouth
+- अन्नं (*annaṃ*)—food
+- परिचिनुषे (*paricinuṣe*)—you gather (then)
+- तव (*tava*)—your
+- श्रियः (*śriyaḥ*)—radiant rays
+- वर्षस्य (*varṣasya*)—born of the clouds that pour rain
+- विद्युत इव (*vidyuta iva*)—like lightnings
+- उषसां (*uṣasāṃ*)—of the dawns
+- केतवः न (*ketavaḥ na*)—like banner-shaped rays
+- चित्राः (*citrāḥ*)—having many forms
+- चिकित्से (*cikitse*)—become visible
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you are set free to burn the creepers and the forest trees, and without the help of others gather in your mouth food in the form of trees and the like, then your
+
+### Printed p. 954
+
+radiant rays become visible in manifold forms, like the lightnings born of the rain-pouring clouds and like the banner-like rays of the dawns.
+
+##### English translation
+Your glories, Agni, like the lightnings of the rain-cloud, are manifested many-tinted, like the manifestations of the dawn, when quitting the plants and the forests, you gather on all sides food for your mouth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमोष॑धीर्दधिरे॒ गर्भ॑मृ॒त्तियं॒ तमापो॑ अ॒ग्निं ज॑नयंत  ॒॑
+> मातरः ।  
+> तमित्स॑मा॒नं व॒निन॑श्च वी॒रुधो॒ऽंतर्व॑तीश्च॒ सुव॑ते च वि॒श्वहा॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । ओषधीः । दधिरे । गर्भं । ऋत्वियं । तं । आपः । अग्निं । जनयंत । मातरः ।  
+> तं । इत् । समानं । वनिनः । च । वीरुधः । अंतःसवतीः । च सुवते । च । विश्वहा ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋत्वियमृतौ प्राप्तं गर्भं गर्भभूतं तं प्रकृतमग्निमोषधीरोषध्यो
+> दधिरे । धारयंति । तमेवाग्निं मातरो धारकत्वेन मातृस्थानीया अपश्च
+> जनयंत । जनयंति । किंच वनिनो वनस्पतयश्च समानं गर्भभावेन प्रवेशात्स्वतुल्यं तमित्तमेवाग्निं जनयंति । किंच तमेवाग्निमंतर्वतीर्गर्भवत्यो वीरुध
+> ओषधयश्च विश्वहा सर्वदा सुवते । जनयंति ॥
+
+##### Gist of the bhāṣya
+
+The plants bear that same Agni, who is the embryo, arrived in the season. The waters also, as mothers by their bearing, produce that same Agni. Moreover the trees produce that same Agni, who is like themselves since he enters them as an embryo. Moreover the creepers and plants, being pregnant, always bring forth that same Agni.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋत्वियं (*ṛtviyaṃ*)—the one who appears in the seasons beginning with spring
+- गर्भं (*garbhaṃ*)—and who is of the form of an embryo
+- तं (*taṃ*)—Agni
+- ओषधीः (*oṣadhīḥ*)—the plants
+- दधिरे (*dadhire*)—bear
+- तं अग्निं (*taṃ agniṃ*)—that same Agni
+- मातरः (*mātaraḥ*)—mother-like
+- आर्पः (*ārpaḥ*)—waters
+- जनयंत (*janayaṃta*)—produce
+- वनिनः (*vaninaḥ*)—
+
 ---
 
-**Progress note:** Done through printed p. 948. Special Topics on Sādhyas/Aṅgirases (pp. 942-946); Sūkta 91 intro and Ṛk 1 begun
+**Progress note:** Done through printed p. 954. Sūkta 91 Ṛk 1 (end) to Ṛk 6 (begun)
