@@ -35263,6 +35263,211 @@ O arāyi (non-giver, hostile to giving), O kāṇā (one who makes vile sounds, 
 - शिरिंबिठस्य (*śiriṃbiṭhasya*)—of the cloud
 - सत्वभिः तैः (*satvabhiḥ taiḥ*)—with those essential **NOTE**
 
+### Printed p. 1043
+#### Ṛk 1 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- …(with those) waters that are the essence, those in the cloud
+- त्वा (*tvā*)—you
+- चातयामसि (*cātayāmasi*)—we destroy
+- [Or: शिरिंबिठस्य (*śiriṃbiṭhasya*)—of the seer Śirimbiṭha, son of Bharadvāja
+- तैः सत्वभिः (*taiḥ satvabhiḥ*)—by good ritual acts
+- त्वा (*tvā*)—you, Alakṣmī
+- चातयामसि (*cātayāmasi*)—we destroy (therefore go quickly to deserted mountains and the like).]
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess of famine (drought), you are the enemy of giving; you are called by a vile name, or you are ill-formed; you have crippled limbs, or a distorted gait. You are one who is always weeping. Such as you, go away to the deserted mountain region. Do not trouble us. With the waters that are in the cloud we destroy your fierceness; or, by the good rites performed by the seer Śirimbiṭha, we destroy you, Alakṣmī.
+
+##### English translation
+Miserable, ill-favoured, deformed, ever-railing (goddess) go to the mountain ; with these exploits of Shirimbitha we scare you away.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the goddess of famine (drought) is described. In time of famine people have no food to eat, so there is no mind to give to another; even if there is the mind, it cannot be done. Therefore this goddess of famine is called the enemy of giving. Because there is no food, people curse this famine with bad words; people go about emaciated, crippled, without strength to walk, and weeping for food. Therefore the goddess is described here by the words काणे (*kāṇe*), विकटे (*vikaṭe*), सदान्वे (*sadānve*). And since villages and towns filled with people suffer from this famine, she is bidden to go away to the deserted mountain strongholds. And for famine to be removed there must be abundant rain. Therefore the seer says that we shall destroy famine, by means of rain, with the essential waters that are in the cloud; or else it is wished that famine be removed by the sacrificial and other rites of Śirimbiṭha, the seer of the hymn. On this Ṛk Yāska has given a Nirukta and explained the principal words:
+सदान्वे । शिरिंबिठः ॥ आरायि काणे विकटे गिरिं गच्छ सदान्वे । शिरिंबिरस्य सत्वभिस्तेभिष्टा चातयामसि ॥ आदायिनि काणे विकटे । काणोऽविक्रांतदर्शन इत्यौपमन्यवः । कणतीर्वा स्यादणूभावकर्मणः । कणतिः शब्दाणूभावे (*sadānve | śiriṃbiṭhaḥ ‖ ārāyi kāṇe vikaṭe giriṃ gaccha sadānve | śiriṃbirasya satvabhistebhiṣṭā cātayāmasi ‖ ādāyini kāṇe vikaṭe | kāṇo 'vikrāṃtadarśana ityaupamanyavaḥ | kaṇatīrvā syādaṇūbhāvakarmaṇaḥ | kaṇatiḥ śabdāṇūbhāve*)
+
+### Printed p. 1044
+भाष्यतेऽनु कणतीति। मात्राणूभावात्कणो दर्शनाणूभावात्काणः ॥ विकटो विक्रांतगतिरित्यापमन्यवः । कटतीर्वास्याद्विपरीतस्य विकुटितो भवति । गिरिं गच्छ सदानोनुवे शब्दकारिके । शिरिंबिठस्य सत्वभिः । शिरिंबिठो मेघः । शीर्यते बिठे । बिठमंतरिक्षं बिठं बीरिठेन व्याख्यातं ॥ तस्य सत्वैरुदकैरिति स्यात्तैष्वा चातयामः, अपि वा शिरिंबिठो भारद्वाजः । काळकर्णोपेतोS लक्ष्मीर्निर्णाशयांचकार तस्य सत्त्वैः कर्मभिरितिस्यात्तैष्वा चातयामः ॥ चातयतिर्नाशने ॥ (*bhāṣyate 'nu kaṇatīti| mātrāṇūbhāvātkaṇo darśanāṇūbhāvātkāṇaḥ ‖ vikaṭo vikrāṃtagatirityāpamanyavaḥ | kaṭatīrvāsyādviparītasya vikuṭito bhavati | giriṃ gaccha sadānonuve śabdakārike | śiriṃbiṭhasya satvabhiḥ | śiriṃbiṭho meghaḥ | śīryate biṭhe | biṭhamaṃtarikṣaṃ biṭhaṃ bīriṭhena vyākhyātaṃ ‖ tasya satvairudakairiti syāttaiṣvā cātayāmaḥ, api vā śiriṃbiṭho bhāradvājaḥ | kāḷakarṇopetoS lakṣmīrnirṇāśayāṃcakāra tasya sattvaiḥ karmabhiritisyāttaiṣvā cātayāmaḥ ‖ cātayatirnāśane ‖*) (Ni. 6-30)
+
+In this Ṛk Alakṣmī, or the goddess of famine, is described. सदान्वे (*sadānve*) means सदानोनुवे (*sadānonuve*)—one who weeps from hunger.
+
+अरायि (*arāyi*)—आदायिनि (*ādāyini*): one who does not give. In time of famine there is no mind to give to one another; having nothing themselves, what can they give to others? The same holds for the Alakṣmī, those afflicted by poverty: having nothing themselves, the poor cannot give to others.
+
+काणे (*kāṇe*). काणोऽविक्रांतदर्शन इत्यौपमन्यवः (*kāṇo 'vikrāṃtadarśana ityaupamanyavaḥ*). काण (*kāṇa*) means blind, one who cannot see; in famine, from lack of food, dimness of sight is natural. So too with the poor. This is the opinion of the teacher called Aupamanyava. कणतीर्वा स्यादणूभावकर्मणः । कणतिः शब्दाणूभावे (*kaṇatīrvā syādaṇūbhāvakarmaṇaḥ | kaṇatiḥ śabdāṇūbhāve*): the root कण् (*kaṇ*) indicates a very small, that is a very soft, sound; or it may indicate "not heard at all". A man of very small form is called कण (*kaṇa*). काण (*kāṇa*) means one who cannot see, or a man who has only one eye.
+
+कट (*kaṭa*): विकटो विक्रांतगतिरित्यौपमन्यवः (*vikaṭo vikrāṃtagatirityaupamanyavaḥ*). विकट (*vikaṭa*) means one with deformed limbs—a crooked arm, a lame leg and so on; or one with a deformed gait in walking; this is Aupamanyava's opinion. The word विकट (*vikaṭa*) is derived from the root कुट् (*kuṭ*) meaning "to be crooked"; or the letters of the word विकुटितः (*vikuṭitaḥ*) may have been transposed to give विकट (*vikaṭa*). It means very crooked.
+
+गिरिं गच्छ सदानोनुवे शब्द कारिके (*giriṃ gaccha sadānonuve śabda kārike*): O goddess of famine, who are ever weeping, screaming and making noise, go away to the deserted hill.
+
+### Printed p. 1045
+शिरिंबिठस्य सत्वभिः (*śiriṃbiṭhasya satvabhiḥ*). शिरिंबित (*śiriṃbita*) is the cloud. The cloud is split, that is scattered, in the बिर (*bira*), the atmosphere; hence the cloud is called शिरिंबिठ (*śiriṃbiṭha*). The explanation of the word बिठं (*biṭhaṃ*) was given earlier, when the word बीरिड (*bīriḍa*) was explained (Ni. 5-28). "We destroy you with the essential waters of such a cloud" means: by the fall of rain we destroy famine.
+
+अपि ना शिरिंबिरो भारद्वाजः । काळकर्णोपेतोऽलक्ष्मीर्निर्णाशयांचकार तस्य सत्त्वैः कर्मभिरिति स्यात्तैष्टा चातयामः । चातॆयतिर्नाशने ॥ (*api nā śiriṃbiro bhāradvājaḥ | kāḷakarṇopeto 'lakṣmīrnirṇāśayāṃcakāra tasya sattvaiḥ karmabhiriti syāttaiṣṭā cātayāmaḥ | cātèyatirnāśane ‖*). Or शिरिंबिठ (*śiriṃbiṭha*) means the son of the seer Bharadvāja. With his black ears, deformed in form, he destroyed Alakṣmī, the goddess of poverty—that is, he frightened her and drove her away. By the acts of that seer too we destroy, that is drive away, this goddess of famine. The root चातियति (*cātiyati*) has the sense of destroying, frightening and driving away.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒त्तो इ॒तिश्च॒त्तामुतः॒ सर्वा॑ भ्रू॒णान्या॒रुषी॑ ।  
+> अ॒रा॒य्यं॑ ब्रह्मणस्पते॒ तीक्ष्ण॑शृंगोदृ॒षन्नि॑हि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चत्तो इति । इतः । चत्ता । अमुतः । सर्वा । भ्रूणानि । आरुषी ।  
+> अराय्यं । ब्रह्मणः । पते । तीक्ष्णशृंग । उत्ऋषन् । इहि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सालक्ष्मीरितोऽस्माल्लोकाच्चत्तो चत्तैवास्माभिर्नाशितैवामुतोऽमुष्मादपि
+> लोकाच्चत्ता हिंसिता भवतु । यालक्ष्मीः सर्वा सर्वाणि भ्रूणानि गर्भजातानि सर्वासामोषधीनामंकुराणि या दुर्भिक्षाधिदेवतारुष्याहंत्री भवति आराय्यं दानविरोधिनीं तां हे ब्रह्मणस्पते मंत्रपालयितरदेव हे तीक्ष्ण शृंग तीक्ष्ण तेजस्क उदृषन्नस्मात्स्थानादुद्धमयन्निहि । गच्छ ॥
+
+##### Gist of the bhāṣya
+
+That Alakṣmī: from this world, चत्तो (*catto*)—let her be destroyed by us; from yonder world also let her be struck down (चत्ता (*cattā*)). The Alakṣmī, the presiding deity of famine, who is the destroyer of all embryos—everything born in wombs, and the sprouts of all plants—and who is आराय्यं (*ārāyyaṃ*), opposed to giving: her, O Brahmaṇaspati, protector of mantras, O sharp-horned one, of sharp radiance, driving her out from this place, go (इहि (*ihi*)).
+
+### Printed p. 1046
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (that Alakṣmī or goddess of famine) इतः (*itaḥ*)—from this world
+- चत्तः (*cattaḥ*)—let her be frightened away (destroyed)
+- अमुतः (*amutaḥ*)—from the heavenly world also
+- चत्ता (*cattā*)—let her be struck down (driven away)
+- (the goddess of famine) who
+- ब्रह्मणस्पते (*brahmaṇaspate*)—O deity Brahmaṇaspati, protector of mantras
+- तीक्ष्णशृंग (*tīkṣṇaśṛṃga*)—of sharp radiance
+- सर्वा (*sarvā*)—all
+- भ्रूणानि (*bhrūṇāni*)—unborn children in wombs, or the sprouts of plants
+- आरुषी (*āruṣī*)—destroys
+- अराय्यं (*arāyyaṃ*)—that goddess of famine, enemy of giving
+- उदृषन् (*udṛṣan*)—driving away
+- इहि (*ihi*)—come to us
+
+##### भावार्थ (Bhāvārtha)
+
+May this goddess of famine be struck down and driven away from this world and from the heavenly world. O Brahmaṇaspati, shining with sharp radiance, come to us, driving away this goddess of famine, enemy of giving, who destroys all unborn children and the seed-sprouts of trees.
+
+##### English translation
+May she be scared away from this (world), scared away from the next (world), the desructress of a embryos; sharp-horned Brihaspati, approach, driving away Distress.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒दो यद्दारु॒ प्लव॑ते॒ सिंधोः॑ पा॒रे अ॑पूरु॒षं ।  
+> तदा र॑भस्व दुर्हणो॒ तेन॑ गच्छ परस्त॒रं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदः । यत् । दारु । प्लवते । सिंधोः । पारे । अपुरुषं ।  
+> तत् । आ । रभस्व । दुर्हनो इति दुःहनो । तेन । गच्छ । परःतरं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदो विप्रकृष्टदेशे वर्तमानमपूरुषं निर्मात्रा पुरुषेण रहितं यद्दारु
+> दारुमयं पुरुषोत्तमाख्यं देवताशरीरं सिंधोः पारे समुद्रतीरे प्लवते
+> जलस्योपरि वर्तते तद्दारु हे दुर्हणो दुःखीन हननीय केनापि हंतुमशक्य हे
+
+##### Gist of the bhāṣya
+
+अदः (*adaḥ*): that which is in a distant place, अपूरुषं (*apūruṣaṃ*), devoid of a maker, a man—the wood, a wooden body of the deity named Puruṣottama—floats on the shore of the sea, upon the water. O दुर्हणो (*durhaṇo*), hard to be slain, who cannot be slain by anyone, O worshipper, take hold of that wood (the explanation continues in the next block).
+
+### Printed p. 1047
+
+> स्तोतः आ रभस्व । आलंबस्व । उपास्स्वेत्यर्थः । तेन दारुमयेण देवेनोपास्यमानेन परस्तरमतिशयेन तरणीयमुत्कृष्टं वैष्णवं लोकं गच्छ ॥ अपर अह । हे
+> दुर्हणो दुःखेन हननीये दुष्टहनुयुक्ते वा हे आलक्ष्मि सिंधोः पारे
+> समुद्रतीरप्रांतेऽपूरुषं पुरुषैर्जनैर्वियुक्तमदोऽस्मत्तो दूरे देशे
+> वर्तमानं यद्दारु दारुमयिा नौः प्लवते तद्दार्वा रभस्व । परिगृहाण । गृहीत्वा च
+> तेन दारुणा परस्तरमतिशयेन तरणीयं ब्रह्मणस्पतिना प्रेरिता सती द्वीपांतरं
+> गच्छ ॥
+
+##### Gist of the bhāṣya
+
+आ रभस्व (*ā rabhasva*) means: lay hold of, worship. With that wooden deity, who is being worshipped, go to the Viṣṇu-world, the excellent one that is to be crossed most (परस्तरं (*parastaraṃ*)). Another says: O दुर्हणो (*durhaṇo*), hard to be slain, or having a bad jaw, O Alakṣmī: on the shore of the sea, devoid of men, in a place far from us, a boat made of wood floats; seize that wood; having seized it, urged by Brahmaṇaspati, go with that wood to the far side, to another island.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+Spiritual (adhyātmic) sense:
+- अदः (*adaḥ*)—in a distant place
+- अपूरुषं (*apūruṣaṃ*)—not made by man
+- यत् दारु (*yat dāru*)—which wooden body of a deity
+- सिंधोः पारे (*siṃdhoḥ pāre*)—on the sea-shore
+- प्लवते (*plavate*)—floats
+- तत् (*tat*)—that wood
+- दुर्हनो (*durhano*)—O worshipper who cannot be killed
+- आ रभस्व (*ā rabhasva*)—take refuge in it (worship)
+- तेन (*tena*)—worshipped by that wooden deity
+- परस्तरं (*parastaraṃ*)—the excellent Viṣṇu-world
+- गच्छ (*gaccha*)—go and reach it
+
+##### भावार्थ (Bhāvārtha)
+
+O soul, or self, you (the self) cannot be killed. Such as you, taking refuge in the body of a deity, go and reach the most excellent Viṣṇu-world established in the middle of the sea.
+
+Sense with reference to the goddess of famine:
+- दुर्हणो (*durhaṇo*)—O goddess of famine, or Alakṣmī, who die in great suffering, or have a deformed jaw
+- सिंधोः पारे (*siṃdhoḥ pāre*)—in the region of the sea-shore
+- अपूरुषं (*apūruṣaṃ*)—without people
+- अदः (*adaḥ*)—very far from here
+- यत् दारु (*yat dāru*)—which boat made of wood
+- प्लवते (*plavate*)—floats
+- तत् (*tat*)—that boat
+- आ रभस्व (*ā rabhasva*)—take refuge in it, that is, climb in and sit
+- तेन (*tena*)—with the help of that boat (urged by Brahmaṇaspati)
+- परस्तरं (*parastaraṃ*)—to another island on the far shore of the sea, which has to be crossed
+- गच्छ (*gaccha*)—go away
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess of famine, or Alakṣmī, who die of great suffering: take refuge in the boat floating on the water at the sea-shore, very far from here, sit in it, and go away to the other island near the far shore of the sea.
+
+### Printed p. 1048
+
+##### English translation
+The wood which floats by the sea-shore far off, remote from man, seize that, (O goddess), hard to destroy, and therewith go to a distant shore.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्ध॒ प्राची॒रज॑गं॒तोरो॑ मंडूरधाणिकीः ।  
+> ह॒ता इंद्र॑स्य॒ शत्र॑वः॒ सर्वे॑ बुद्भु॒दया॑शवः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ह । प्राचीः । अजगंत । उरः । मंडूरधाणिकीः ।  
+> हताः । इंद्रस्य । शत्रवः । सर्वे । बुद्भुदयाशवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेऽहनि तृतीयसवने ब्राह्मणाच्छंसिशस्त्रे यद्ध प्राचीरित्येषा । सूत्रितं
+> च । कपृन्नरो यद्ध प्राचीरजगंतेति चैते । आ. ८-३ । इति ॥
+> हे मंडूरधाणिकीर्मंडूरवत्कुत्सितशब्द कारिण्यो मंदनस्य धनस्य धारयित्यो वालक्ष्य उरः ॥ उर्वि हिंसार्थः । अस्मात्कपि राल्लोप इति वलोपः ।
+> ततो जसि रूपमेतत् ॥ हिंसित्यो यूयं प्राचीः प्रकर्षीणांचंत्यः प्रकृष्टगमनाः सत्यो यद्ध यदा खल्वजगंत अगच्छत॥ गमर्लजि मध्यमबहुवचने छांदसः
+> शपः श्लुः । तप्तनप्तनथनाश्चेति तस्यॆ तनबादेशः । अत एव जित्वाभावादनुनासिकलोपो
+> न भवति ॥ तदानीमेव सर्व इंद्रस्य शत्रवो बुद्भुदयाशवः ॥ यांति गच्छंतीति याः ।
+> अश्नुवत इत्याशवः । याश्च त आशवश्च याशवः । बुद्भुदवद्यातारो व्यापनशीलाश्च
+> संतो हता नष्टा आसन् ॥
+
+##### Gist of the bhāṣya
+
+On the sixth day, at the third pressing, in the Brāhmaṇācchaṃsin's śastra, this Ṛk *yaddha prācīḥ* is used. It is also stated in the Sūtra: कपृन्नरो यद्ध प्राचीरजगंतेति चैते (*kapṛnnaro yaddha prācīrajagaṃteti caite*) (Ā. Sū. 8-3). O मंडूरधाणिकीः (*maṃḍūradhāṇikīḥ*)—you who, like frogs, make vile sounds; or who hold joyous wealth; or Alakṣmīs; उरः (*uraḥ*)—from the root उर्वि (*urvi*) in the sense of harming: injurers. When you, going forward (प्राचीः (*prācīḥ*), moving swiftly), came (अजगंत (*ajagaṃta*)), at that very time all the enemies of Indra, बुद्भुदयाशवः (*budbhudayāśavaḥ*)—those who go (याः (*yāḥ*)) and are swift (*āśavaḥ*), moving like bubbles and pervasive—were slain, destroyed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरः (*uraḥ*)—those who injure people
+- मंडूरधाणिकीः (*maṃḍūradhāṇikīḥ*)—those who scream with a distorted voice, the goddesses called famine or Alakṣmī
+- यत् (*yat*)—when
+- प्राचीः (*prācīḥ*)—walking very swiftly
+- अजगंत ह (*ajagaṃta ha*)—they go away, then
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सर्वे (*sarve*)—all
+- शत्रवः (*śatravaḥ*)—enemies
+- बुद्भुदयाशवः (*budbhudayāśavaḥ*)—like bubbles on the water
+- हताः (*hatāḥ*)—are destroyed
+
 ---
 
-**Progress note:** Done through printed p. 1042. pp. 1037-1042 (batch API)
+**Progress note:** Done through printed p. 1048. pp. 1043-1048 (batch API)
