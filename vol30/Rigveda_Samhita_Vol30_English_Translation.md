@@ -44280,6 +44280,154 @@ In classifying the Ṛks of the Ṛgveda by meaning, Yāska says there are many 
 
 (1) Parokṣakṛta—In such a Ṛk the deity is praised as if not before one, not seen, but remote. In this case any of the case-endings of the pronoun may be used, but the verb must be in the third person.
 
+### Printed p. 1284
+
+Examples: इंद्रो दिव इंद्र ईशे पृथिव्याः ॥ (*iṃdro diva iṃdra īśe pṛthivyāḥ ‖*) (nominative case); इंद्रमिद्दाथिनो बृहत् ॥ (*iṃdramiddāthino bṛhat ‖*) (accusative); इंद्रेणैते तृत्सवो वेविषाणा ॥ (*iṃdreṇaite tṛtsavo veviṣāṇā ‖*) (instrumental); इंद्राय साम गायत ॥ (*iṃdrāya sāma gāyata ‖*) (dative); नेंद्रादृते पवते धाम किंचन ॥ (*neṃdrādṛte pavate dhāma kiṃcana ‖*) (ablative); इंद्रस्य नु वीर्याणि प्र वोचं ॥ (*iṃdrasya nu vīryāṇi pra vocaṃ ‖*) (genitive); इंद्रे कामा आयंसत ॥ (*iṃdre kāmā āyaṃsata ‖*) (locative).
+
+Here seven examples are given for the seven cases. Only the verb stands in the third person.
+
+(2) Pratyakṣakṛta: in a Ṛk of this kind the deity praised is conceived as present before the eyes, standing in front, and may be praised in all the cases as stated before. But the second-person pronouns "you", "your" and so on, and the corresponding second-person verbs, must be used.
+
+Example: श्वमिंद्र बलादधि (*śvamiṃdra balādadhi*); वि न इंद्र मृधो जहि ॥ (*vi na iṃdra mṛdho jahi ‖*) and so on.
+
+(3) Pratyakṣakṛta and parokṣakṛta together: in certain Ṛks that combine the two kinds, the people who recite the praise are treated as pratyakṣakṛta and the deities who are praised as parokṣakṛta.
+
+Example: मा चिदन्यद्विशंसत ॥ (*mā cidanyadviśaṃsata ‖*); कण्वा अभि प्र गायत ॥ (*kaṇvā abhi pra gāyata ‖*); उप प्रेत कुशिकाश्चॆयध्वं ॥ (*upa preta kuśikāścèyadhvaṃ ‖*) and so on.
+
+(4) Ādhyātmika: the deities who are praised speak of themselves, uttering the sentence in the first person.
+
+Example: अहं भुवं वसुनः पूर्वस्पतिः ॥ (*ahaṃ bhuvaṃ vasunaḥ pūrvaspatiḥ ‖*); इति वा इति मे मनः ॥ (*iti vā iti me manaḥ ‖*); अहं रुद्रेभिर्वसुभिश्च रामि ॥ (*ahaṃ rudrebhirvasubhiśca rāmi ‖*) and so on.
+
+(5) Stuti: a Ṛk containing only praise of deities or of other persons.
+
+Example: इंद्रस्य नु विर‍्याणि प्र वोचं ॥ (*iṃdrasya nu viryāṇi pra vocaṃ ‖*) and so on.
+
+(6) Āśīḥ: a mantra of blessing or of wishing something good.
+
+### Printed p. 1285
+
+Example: सुचक्षा अहमक्षिभ्यां ॥ (*sucakṣā ahamakṣibhyāṃ ‖*) and so on.
+
+(7) Śapatha and abhiśāpa: a vow, or the uttering of a curse wishing evil on another.
+
+Example: अद्या मुरीय यदि यातुधानो अस्मि ॥ (*adyā murīya yadi yātudhāno asmi ‖*); अधा स वीरैर्दशभिर्वियूया ॥ (*adhā sa vīrairdaśabhirviyūyā ‖*) and so on.
+
+(8) Kasyacidbhāva: a mantra containing the description or mention of some matter.
+
+Example: न मृत्युरासीदमृतं न तर्हि । (*na mṛtyurāsīdamṛtaṃ na tarhi |*) तम असीत्तमसा गूळमग्रे ॥ (*tama asīttamasā gūḷamagre ‖*) and so on.
+
+(9) Paridevanā: lamenting.
+
+Example: सुदेवो अद्य प्रपतेदनावृत् ॥ (*sudevo adya prapatedanāvṛt ‖*); न विजानामि यदि वेदमस्मि ॥ (*na vijānāmi yadi vedamasmi ‖*) and so on.
+
+(10) Nindā: a mantra containing blame or praise.
+
+Example: केवलाघो भवति केवलादी ॥ (*kevalāgho bhavati kevalādī ‖*); भोजस्येदं पुष्करणीव वेश्व (*bhojasyedaṃ puṣkaraṇīva veśva*) (here: अत्र द्यूतनिंदा च कृषिप्रशंसा च (*atra dyūtaniṃdā ca kṛṣipraśaṃsā ca*)) and so on. The mantras given above as examples are the opening words of the respective Ṛks. The complete Ṛks are to be found in the alphabetical index of Ṛks (Ṛ. Saṃ. Part 1, pp. 717-920).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः ।  
+> स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानी । वः । आकूतिः । समाना । हृदयानि । वः ।  
+> समानं । अस्तु । वः । मनः । यथा । वः । सुसह । असति ॥ ४ ॥
+
+### Printed p. 1286
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विग्यजमानाः वो युष्माकमाकूतिः संकल्पोऽध्यवसायः समानैकविधोऽस्तु । तथा वो युष्माकं हृदयानि समानान्येकविधानि संतु । तथा वो
+> युष्माकं मनोऽंतःकरणं । प्रत्येकापेक्षयैकवचनं । तदपि समानमस्तु । यथा
+> वो युष्माकं सुसह शोभनं साहित्यमसति भवति तथा समानमस्त्वितन्वयः ॥
+> अस्तेर्लटि बहुलं छंदसीति शपो लुगभावः ॥
+
+##### Gist of the bhāṣya
+
+Addressing the priests and sacrificers, Sāyaṇa says: let your resolve, that is, your determination, be common, of one kind. Likewise let your hearts be common, of one kind. Likewise your mind, the inner organ, be common too; the singular is used with reference to each individual. The construction is: let it be common in such a way that there is good union (सुसह (*susaha*), "fine togetherness") among you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- वः (*vaḥ*)—to you, that is, among you
+- सुसह (*susaha*)—excellent unanimity
+- असति (*asati*)—as it exists, that is, comes about, in that manner
+- वः (*vaḥ*)—your
+- आकूतिः (*ākūtiḥ*)—purpose
+- समानी (*samānī*)—let it be of one kind
+- वः (*vaḥ*)—your
+- हृदयानि (*hṛdayāni*)—the desires of your minds
+- समाना (*samānā*)—let them be of one kind (and so)
+- वः (*vaḥ*)—your
+- मनः (*manaḥ*)—the inner thought or opinion too
+- समानं (*samānaṃ*)—let it be of one kind
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, so that there may be mutual unanimity among you, let your purpose, your desires, and your inner thought or opinion be of one kind, leaving no room for mutual opposition; that is, let the inclination of your minds be of one kind.
+
+##### English translation
+Common, (worshippers), be your intention ; common be (the wishes of) your hearts; common be your thoughts, so that there may be thorough union among you.
+
+##### विशेषविषयगळु (Special Topics)
+
+Closing (vila) mantras to be recited at the end of this sūkta, or at the end of the tenth Maṇḍala:
+
+संज्ञानमुशनावदत्संज्ञानं वरुणो ऽवदत् । (*saṃjñānamuśanāvadatsaṃjñānaṃ varuṇo 'vadat |*)
+संज्ञानमिंद्रश्चाग्निश्च संज्ञानं सवितावदत् ॥ (*saṃjñānamiṃdraścāgniśca saṃjñānaṃ savitāvadat ‖*) (1)
+संज्ञानं वः स्वेभ्यः संज्ञानमरणेभ्यः । (*saṃjñānaṃ vaḥ svebhyaḥ saṃjñānamaraṇebhyaḥ |*)
+संज्ञानमश्विना युवमिहास्मासु नि यच्छतां ॥ (*saṃjñānamaśvinā yuvamihāsmāsu ni yacchatāṃ ‖*) (2)
+
+### Printed p. 1287
+
+यत्कक्षीवां संवननं पुत्रो अंगिरसां भवेत् । (*yatkakṣīvāṃ saṃvananaṃ putro aṃgirasāṃ bhavet |*)
+तेन सोऽद्य विश्वे देवाः सं प्रियां समजीजनन् (*tena so 'dya viśve devāḥ saṃ priyāṃ samajījanan*) (3)
+सं वो मनांसि जानतां समाकूतिर्मनामसि । (*saṃ vo manāṃsi jānatāṃ samākūtirmanāmasi |*)
+असौ यो विमना मनः सं समावर्तयामसि (*asau yo vimanā manaḥ saṃ samāvartayāmasi*) (4)
+नैर्हस्यं सेनादरणं परि वर्त्मैतु यद्धविः । (*nairhasyaṃ senādaraṇaṃ pari vartmaitu yaddhaviḥ |*)
+तेनामित्राणां बाहून् हविषा शोषयामसि (*tenāmitrāṇāṃ bāhūn haviṣā śoṣayāmasi*) (5)
+परिवर्त्यान्येषामिंद्रः पूषा च सस्रतुः । (*parivartyānyeṣāmiṃdraḥ pūṣā ca sasratuḥ |*)
+तेषां वो अग्नि दग्धानामग्निमूळ्ता नामिंद्रो हंतु वरंवरं (*teṣāṃ vo agni dagdhānāmagnimūḷtā nāmiṃdro haṃtu varaṃvaraṃ*) (6)
+ऐषु नह्यवृषाजिनं हरिणस्य धियं यथा । (*aiṣu nahyavṛṣājinaṃ hariṇasya dhiyaṃ yathā |*)
+परा अमित्रा ऐष त्वर्वाची गौरुपाजतु (*parā amitrā aiṣa tvarvācī gaurupājatu*) (7)
+प्राध्वराणां पते वसो होतर्वरेण्यक्रतो । (*prādhvarāṇāṃ pate vaso hotarvareṇyakrato |*)
+तुभ्यं गायत्रमृच्यते (*tubhyaṃ gāyatramṛcyate*) (8)
+गोकामो अन्न कामः प्रजाकाम उत कश्यपः । (*gokāmo anna kāmaḥ prajākāma uta kaśyapaḥ |*)
+भूतं भविष्यत्प्रस्तुति सह ब्रह्मैकमक्षरं बहुब्रह्मैकमक्षरं (*bhūtaṃ bhaviṣyatprastuti saha brahmaikamakṣaraṃ bahubrahmaikamakṣaraṃ*) (9)
+यदक्षरं भूतकृतं विश्वेदेवा उपासते । (*yadakṣaraṃ bhūtakṛtaṃ viśvedevā upāsate |*)
+मह ऋषिमस्य गोप्तारं जमदग्नि रकुर्वतं (*maha ṛṣimasya goptāraṃ jamadagni rakurvataṃ*) (10)
+जमदग्निराप्यायते छंदोभिश्च तुरुत्तरैः । (*jamadagnirāpyāyate chaṃdobhiśca turuttaraiḥ |*)
+राजा सोमस्य भक्षेण ब्रह्मणा वीर्यावता (*rājā somasya bhakṣeṇa brahmaṇā vīryāvatā*) (11)
+शिवा नः प्रदिशो दिशः सत्या नः प्रदिशो दिशः । (*śivā naḥ pradiśo diśaḥ satyā naḥ pradiśo diśaḥ |*)
+अजो यत्तेजो ददृशे शुक्रं ज्योतिः परो गुहा (*ajo yattejo dadṛśe śukraṃ jyotiḥ paro guhā*) (12)
+यदृषिः कश्यपः स्तौति सत्यं ब्रह्म चराचरं ध्रुवं ब्रह्म चराचरं । (*yadṛṣiḥ kaśyapaḥ stauti satyaṃ brahma carācaraṃ dhruvaṃ brahma carācaraṃ |*)
+त्रायुषं जमदग्नेः कश्यपस्य त्रायुषमगस्त्यस्य त्पायुषं (*trāyuṣaṃ jamadagneḥ kaśyapasya trāyuṣamagastyasya tpāyuṣaṃ*) (13)
+*yaddevānāṃ trāyuṣaṃ tanne astu trāyuṣaṃ sarvamastu śatāyuṣaṃ balāyuṣaṃ |*
+तच्छंयोरा वृणेमहे गातुं यज्ञाय गातुं यज्ञपतये (*tacchaṃyorā vṛṇemahe gātuṃ yajñāya gātuṃ yajñapataye*) (14)
+
+### Printed p. 1288
+
+दैवी स्वस्तिरस्तु नः स्वस्तिर्मानुषेभ्यः । (*daivī svastirastu naḥ svastirmānuṣebhyaḥ |*)
+ऊर्ध्वं जिगातु भेषजं शं नो अस्तु द्विपदे शं चतुष्पदे (*ūrdhvaṃ jigātu bheṣajaṃ śaṃ no astu dvipade śaṃ catuṣpade*) (15)
+ओं शांतिः शांतिः शांतिः (*oṃ śāṃtiḥ śāṃtiḥ śāṃtiḥ*)
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । (*vedārthasya prakāśena tamo hārdaṃ nivārayan |*)
+पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्री वीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे युक्संहिताभाष्येष्टमाष्टकेष्टमोध्यायः समाप्तः (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrī vīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe yuksaṃhitābhāṣyeṣṭamāṣṭakeṣṭamodhyāyaḥ samāptaḥ*)
+ओं. तत्त्वत् ॥ (*oṃ. tattvat ‖*)
+
+Here ends the eighth chapter in the eighth Aṣṭaka of the Ṛgveda Saṃhitā, with the commentary of Śrī Sāyaṇa and the Kannada translation.
+
+The Ṛgveda Saṃhitā is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*)
+शंभर भायात् (*śaṃbhara bhāyāt*)
+
 ---
 
-**Progress note:** Done through printed p. 1283. pp. 1278-1283 (batch API)
+**Progress note:** Done through printed p. 1288. pp. 1284-1288 (batch API)
