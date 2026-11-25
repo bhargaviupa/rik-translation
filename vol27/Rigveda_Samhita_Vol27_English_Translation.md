@@ -7927,6 +7927,164 @@ Table (continued):
 74. Śataprabhedana Vairūpa — 10.113 **NOTE** (10); 10.
 75. Saddhi Vairūpa — 10.114 **NOTE** (10); 10.
 
+### Printed p. 184
+
+| No. | Ṛṣi | Maṇḍala | Sūkta | Number of ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| 76 | Upastutaḥ Vārṣṭihavyaḥ | 10 | 115 | 9 | 9 |
+| 77 | Agniyutaḥ Sauraḥ | 10 | 116 | 9 | 9 |
+| 78 | Bhikṣur Āṅgirasaḥ | 10 | 117 | 9 | 9 |
+| 79 | Urukṣaya Āmahīyavaḥ | 10 | 118 | 9 | 9 |
+| 80 | Laba Aindrati | 10 | 119 | 13 | 13 |
+| 81 | Bṛhaddivi Ātharvaṇaḥ | 10 | 120 | 9 | 9 |
+| 82 | Hiraṇyagarbhaḥ Prājāpatyaḥ | 10 | 121 | 10 | 10 |
+| 83 | Citramahā Vāsiṣṭhaḥ | 10 | 122 | 8 | 8 |
+| 84 | Veno Bhārgavaḥ | 9 | 123 | 8 | 20 |
+| 85 | Nihavaḥ Agnivaruṇasomānām | 10 | 124 | 6 | (1, 5-9) |
+| 86 | Agniḥ | 10 | 124 | 3 | (2-4) |
+| 87 | Vāg Āmbhṛṇī | 10 | 125 | 8 | 8 |
+| 88 | Kulmalabarhiṣaḥ Śailūṣiḥ (Vāmadevo'homugvā) | 10 | 126 | 8 | 8 |
+| 89 | Kuśikaḥ Saubharaḥ | 11 | 127 | 8 | 8 |
+| 90 | Vihavya Aṅgirasaḥ | 10 | 128 | 9 | 9 |
+| 91 | Prajāpatiḥ Parameṣṭhi | 10 | 129 | 7 | 7 |
+| 92 | Yajñaḥ Prājāpatyaḥ | 10 | 130 | 7 | 7 |
+| 93 | Sukīrtiḥ Kākṣīvataḥ | 10 | 131 | 7 | 7 |
+| 94 | Śakapūto Nārmedhaḥ | 10 | 132 | 7 | 7 |
+| 95 | Sudāḥ Paijavanaḥ | 10 | 133 | 7 | 7 |
+| 96 | Māndhātā Yauvanāśvaḥ | 10 | 134 | 5½ (first half of 15, 6) | |
+| 97 | Godhā Ṛṣikā | 10 | 134 | 1½ | (second half of 6, 2) |
+| 98 | Kumāro Yāmāyanaḥ | 10 | 135 | 3 | 3 |
+| 99 | Munayo Vātaraśanāḥ (1. Jūtiḥ; 2. Vātajūtiḥ; 3. Viprajūtiḥ; 4. Vṛṣāṇakaḥ; 5. Karikrataḥ; …) | 10 | 136 | 3 | 3 |
+
+**NOTE**
+
+### Printed p. 185
+
+| No. | Ṛṣi | Maṇḍala | Sūkta | Number of ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| 100 | Saptarṣayaḥ (1. Bharadvājaḥ; 2. Kaśyapaḥ; 3. Gotamaḥ; 4. Atriḥ; 5. Viśvāmitraḥ; 6. Jamadagniḥ; 7. Vasiṣṭhaḥ) | 10 | 137 | 7 | 7 |
+| 101 | Aṅga Auravaḥ | 10 | 138 | 6 | 6 |
+| 102 | Devagandharvo Viśvāvasuḥ | 10 | 139 | 6 | 6 |
+| 103 | Agniḥ Pāvakaḥ | 8 | 102 | 22 | 6 |
+| | | 10 | 140 | 6 | 28 |
+| 104 | Agnis Tāpasaḥ | 10 | 141 | 6 | 6 |
+| 105 | Śārṅgāḥ (1-2 Jaritā; 3-4 Droṇaḥ; 5-6 Sāriskṛtvā; 7-8 Stambamitraḥ) | 10 | 142 | 8 | 8 |
+| 106 | Atriḥ Sāṅkhyaḥ | 10 | 143 | 6 | 6 |
+| 107 | Suparṇas Tārkṣyaḥ (or Yāmāyana Ūrdhvakṛśano) | 10 | 144 | 6 | 6 |
+| 108 | Devamunir Airammadaḥ | 10 | 146 | 6 | 6 |
+| 109 | Suvedāḥ Śairīṣiḥ | 10 | 147 | 5 | 5 |
+| 110 | Pṛthur Vaiśyaḥ | 10 | 148 | 5 | 5 |
+| 111 | Arcan Hairaṇyastūpaḥ | 10 | 149 | 5 | 5 |
+| 112 | Mṛḷiko Vāsiṣṭhaḥ | 9 | 97 | 3 | (25-27) |
+| | | 10 | 150 | 5 | 8 |
+| 113 | Śraddhā Kāmāyanī | 10 | 151 | 5 | 5 |
+| 114 | Śāso Bhāradvājaḥ | 10 | 152 | 5 | 5 |
+| 115 | Devajāmaya Indramātaraḥ | 10 | 153 | 5 | 5 |
+| 116 | Yamī Vaivasvatī | 10 | 10 | 6 (1, 3, 5, 7, 11, 13) | 11 |
+| 117 | Śiriṃbito Bhāradvājaḥ | 10 | 155 | 5 | 5 |
+| 118 | Keturāgneyaḥ | 10 | 156 | 5 | 5 |
+| 119 | Bhuvana Āptyaḥ (or Sādhano Bhauvanaḥ) | 10 | 157 | 5 | 5 |
+| 120 | Cakṣuḥ Saurya | 10 | 158 | 5 | 5 |
+
+**NOTE**
+
+### Printed p. 186
+
+| No. | Ṛṣi | Maṇḍala | Sūkta | Number of ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| 121 | Paulomī Śacī | 10 | 159 | 6 | 6 |
+| 122 | Pūraṇo Vaiśvāmitraḥ | 10 | 160 | 5 | 5 |
+| 123 | Yakṣanāśanaḥ Prājāpatyaḥ | 10 | 161 | 5 | 5 |
+| 124 | Brāhmo Rakṣohā | 10 | 162 | 6 | 6 |
+| 125 | Vivṛhā Kāśyapaḥ | 10 | 163 | 6 | 6 |
+| 126 | Pracetā Āṅgirasaḥ | 10 | 164 | 5 | 5 |
+| 127 | Nairṛtaḥ Kapotaḥ | 10 | 165 | 5 | 5 |
+| 128 | Ṛṣabho Vairājaḥ (or Ṛṣabhaḥ Śākvaro) | 10 | 166 | 5 | 5 |
+| 129 | Viśvāmitraḥ Jamadagniś ca | 10 | 167 | 4 | 4 |
+| 130 | Anilo Vātāyanaḥ | 10 | 168 | 4 | 4 |
+| 131 | Śabaraḥ Kākṣīvataḥ | 10 | 169 | 4 | 4 |
+| 132 | Vibhrāṭ Saurya | 10 | 170 | 4 | 4 |
+| 133 | Iṭo Bhārgavaḥ | 10 | 171 | 4 | 4 |
+| 134 | Saṃvarta Āṅgirasaḥ | 10 | 172 | 4 | 4 |
+| 135 | Dhruva Āṅgirasaḥ | 10 | 173 | 6 | 6 |
+| 136 | Abhīvarta Āṅgirasaḥ | 10 | 174 | 5 | 5 |
+| 137 | Ūrdhvagrāvā Sarpa Ārbudiḥ | 10 | 175 | 4 | 4 |
+| 138 | Sūnur Ārbhavaḥ | 10 | 176 | 4 | 4 |
+| 139 | Pataṅgaḥ Prājāpatyaḥ | 10 | 177 | 3 | 3 |
+| 140 | Ariṣṭanemis Tārkṣyaḥ | 10 | 178 | 3 | 3 |
+| 141 | 1. Śibir Auśīnaraḥ; 2. Pratardanaḥ Kāśirājaḥ; 3. Vasumanā Rauhidaśvaḥ | 10 | 179 | 3 | 3 |
+| 142 | Jaya Aindraḥ | 10 | 180 | 3 | 3 |
+| 143 | 1. Pratho Vāsiṣṭhaḥ; 2. Sapratho Bhāradvājaḥ; 3. Gharmaḥ Saurya | 10 | 181 | 3 | 3 |
+| 144 | Tapurmūrdhā Bārhaspatyaḥ | 10 | 182 | 3 | 3 |
+| 145 | Prajāvān Prājāpatyaḥ | 10 | 183 | 3 | 3 |
+| 146 | Tvaṣṭā Garbhakartā (or Viṣṇur Prājāpatyaḥ) | 10 | 184 | 3 | 3 |
+| 117 | Satyadhṛtir Vāruṇiḥ | 10 | 185 | 3 | 3 |
+
+**NOTE**
+
+### Printed p. 187
+
+| No. | Ṛṣi | Maṇḍala | Sūkta | Number of ṛks | Total ṛks |
+|---|---|---|---|---|---|
+| 148 | Vātāyana Ulaḥ | 10 | 186 | 3 | 3 |
+| 149 | Āgneyo Vatsaḥ | 10 | 187 | 3 | 3 |
+| 150 | Āgneyaḥ Śyenaḥ | 10 | 188 | 3 | 3 |
+| 151 | Sārparājñī | 10 | 189 | 3 | 3 |
+| 152 | Mādhucchandaso'ghamarṣaṇaḥ | 10 | 190 | 3 | 3 |
+| 153 | Saṃvanana Āṅgirasaḥ | 10 | 191 | 4 | 4 |
+
+The tenth Maṇḍala has twelve anuvākas in all, 191 sūktas and 1754 ṛks. The table given below shows the anuvākas, sūktas and number of ṛks of the tenth Maṇḍala in detail.
+
+| Anuvāka | Opening sūkta of the anuvāka | From which sūkta to which | Total sūktas in the anuvāka | Total ṛks |
+|---|---|---|---|---|
+| 1 | Agre bṛhan | 1–16 | 16 | 148 |
+| 2 | Tvaṣṭā duhitre | 17–29 | 13 | 146 |
+| 3 | Pra devatrā | 30–42 | 13 | 145 |
+| 4 | Acchā ma | 43–60 | 18 | 168 |
+| 5 | Idam itthā | 61–68 | 8 | 126 |
+| 6 | Bhadrā agneḥ | 69–84 | 16 | 135 |
+| 7 | Satyenottabhitā | 85–90 | 6 | 142 |
+| 8 | Saṃ jāgṛvadbhiḥ | 91–99 | 9 | 143 |
+| 9 | Indra dṛhya | 100–112 | 13 | 142 |
+| 10 | Tamasya dyāvā | 113–128 | 16 | 146 |
+| 11 | Nāsadāsīn no | 129–151 | 23 | 144 |
+| 12 | Śāsa itthā | 152–191 | 40 | 169 |
+| Total | 12 | — | 191 | 1754 |
+
+### Printed p. 188
+
+## Maṇḍala 10
+
+## Sūkta 1 (Maṇḍala 10)
+
+**The first sūkta.**
+
+**Introduction to the ṛṣi Trita Āptya**
+
+The seer of the first seven sūktas of this tenth Maṇḍala is Trita Āptya. Although a few matters about this ṛṣi have been mentioned here and there earlier, it is now necessary to present his identity somewhat more fully.
+
+The matter of Trita is a problem for critics. It is not possible to give a settled answer to the question whether this name is the name of the ṛṣi who saw a sūkta, or whether there is a deity called Trita. In some places the word Trita is used as an epithet of Indra and Agni. So if one is to learn as far as possible, from the Ṛksaṃhitā and other sources, what the nature of Trita is, the opinions of Vedic critics beginning with Yāska must first be noted.
+
+The name Trita is used 40 times in all, in 29 sūktas. But there is no separate sūkta relating to Trita (that is, addressed to a deity called Trita). The name is also not mentioned in the Nighaṇṭu among the groups of deities. Only Yāska has given an explanation (nirvacana) of this word, in two places. First, while explaining the 8th ṛk of the 105th sūkta of the first Maṇḍala (Ni. 4-6): त्रितं कूपेऽवहितमेतत्तूक्तं प्रतिबभौ।तत्र ब्रह्मतिहासमिश्रमृज्मुश्रं गाथा मिश्रं भवति । त्रितस्तीर्णतमो मेधया बभूव अपि वा संख्यानामैवाभिप्रेतं स्यादेकतो द्वितस्त्रि त इति त्रयो बभोवुः । (*tritaṃ kūpe 'vahitametattūktaṃ pratibabhau|tatra brahmatihāsamiśramṛjmuśraṃ gāthā miśraṃ bhavati | tritastīrṇatamo medhayā babhūva api vā saṃkhyānāmaivābhipretaṃ syādekato dvitastri ta iti trayo babhovuḥ |*) "This sūkta shone forth to Trita, who had fallen into a well. It is mixed with Brāhmaṇa-history, mixed with ṛks, mixed with gāthās. Trita crossed over (tīrṇatama) by intelligence"; the sūkta was seen by Trita who had fallen into the well. It is a prayer with a story, partly in ṛks and partly in gāthās (वित्तं मे अस्य रोदसी (*vittaṃ me asya rodasī*)). He got the name Trita from his proficiency in intelligence. Or else, among the three Ekata, Dvita and Trita, being the third he may have got the name Trita. So he explained it the first time; the second time, while explaining ṛk 1-187-1, he explained Trita as an epithet of Indra, "Indra who pervades the three regions" (Ni. 9-25).
+
+**NOTE**
+
+In the Ṛksaṃhitā this word is said to be used sixteen times together with Indra, once as the slayer of Vṛtra, once as Viyadaśva, in four places as an epithet of the Maruts, in seven places with Agni, in one place with Varuṇa, four times with Soma, and six times as a person hidden in a distant place.
+
+### Printed p. 189
+
+In these places Sāyaṇa's explanation follows Yāska's nirvacana. He has explained the word Trita, in 20 ṛks, as the name of the mantra-seeing ṛṣi, a proper name, and in the other places, according to the context, as an epithet indicating the nature of the deities Vāyu, Varuṇa, Indra and Agni.
+
+The story of Trita, the third among the three ṛṣis Ekata, Dvita and Trita, is told in the special topics under the first ṛk of sūkta 1-105. In the 9th ṛk of the same sūkta Trita has the epithet Āptya. He also indicates that he has a relation with Agni. How did he get the epithet Āptya? How is his relation with Agni? To explain this there is a story in the Śatapatha Brāhmaṇa.
+
+चतुर्धाविहितो ह वाग्रेऽग्निरास । स यमग्रेऽग्निं होत्राय प्रावृणत स प्राधन्वद्यं द्वितीयं प्रावृणत स प्रैवाधन्वद्यं तृतीयं प्रावृण तस प्रैधन्वदथ योऽयमेतर्ह्यग्निः सभीषा निलिल्ये सोऽपः प्रविवेश तं देवा अनुविद्य सहस्यॆनाद्भ्य आनिन्युः सोऽपोऽभितिष्ठेवानवष्टूता स्थ या अप्रपदनं स्थ याभ्यो वो मामकामं नयंतीति तत आप्त्याः संबभूवुस्त्रितो द्वित एकतः । (*caturdhāvihito ha vāgre 'gnirāsa | sa yamagre 'gniṃ hotrāya prāvṛṇata sa prādhanvadyaṃ dvitīyaṃ prāvṛṇata sa praivādhanvadyaṃ tṛtīyaṃ prāvṛṇa tasa praidhanvadatha yo 'yametarhyagniḥ sabhīṣā nililye so 'paḥ praviveśa taṃ devā anuvidya sahasyènādbhya āninyuḥ so 'po 'bhitiṣṭhevānavaṣṭūtā stha yā aprapadanaṃ stha yābhyo vo māmakāmaṃ nayaṃtīti tata āptyāḥ saṃbabhūvustrito dvita ekataḥ |*) (Śa. Brā. 1-2-3 1)
+
+**NOTE**
+
+Agni's three elder brothers became tired and emaciated in the work of carrying the oblation to the gods. Agni, fearing that the same state might come to him, ran away and hid in the water. Then the gods entered the water too and caught him and brought him; and Agni, in anger, spat on the water, saying that this water is an unfit substance for giving protection. Then three Āptya deities arose, called Ekata, Dvita and Trita. This is one reason for the epithet Āptya.
+
+Second, to show that Trita and the others were produced from Agni, Sāyaṇa has given the nirvacana of the word Trita on the basis of a Taittirīya Brāhmaṇa passage (Ṛ. Saṃ. 1-52-5, Sā. Bhā.): देवानां हविर्लेपनिघर्षणाय अग्नेःसकाशात् अप्सु एकतो द्वितस्त्रित इति त्रयः पुरुषा जज्जिरे । (*devānāṃ havirlepanigharṣaṇāya agneḥsakāśāt apsu ekato dvitastrita iti trayaḥ puruṣā jajjire |*) "For the rubbing off of the oblation smeared on the vessels of the gods, three persons, Ekata, Dvita and Trita, were born in the waters from Agni." And so it is recorded by the Taittirīyas: सोंगारेणापः अभ्यपातयत् । तत एकतोजायत । स द्वितीयमभ्यपातयत् । ततो द्वितोऽजायत । स तृतीयमभ्यपातयत् । ततस्त्रितोऽजायत । (*soṃgāreṇāpaḥ abhyapātayat | tata ekatojāyata | sa dvitīyamabhyapātayat | tato dvito 'jāyata | sa tṛtīyamabhyapātayat | tatastrito 'jāyata |*) (Tai. Brā. 3.-2.-8-10)
+
 ---
 
-**Progress note:** Done through printed p. 183. pp. 178-183 (batch API)
+**Progress note:** Done through printed p. 189. pp. 184-189 (batch API)
