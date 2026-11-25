@@ -14547,6 +14547,263 @@ Sūkta 111. Maṇḍala 10; Anuvāka 9; Sūkta 111. Aṣṭaka 8; Adhyāya 6; Va
 > मनी॑षिणः॒ प्र भ॑रध्वं मनी॒षां यथा॑यथा म॒तयः॒ संति॑  ॒
 > नृणां ।
 
+### Printed p. 452
+
+> इंद्रं सत्यैरेरयामा कृतेभिः स हि वीरो गिर्वणस्युर्विदानः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनीषिणः । प्र । भरध्वं । मनीषां । यथायथा । मतयः । संति । नृणां ।  
+> इंद्रं । सत्यैः । आ । ईरयाम । कृतेभिः । सः । हि । वीरः । गिर्वणस्युः । विदानः ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मनीषिणः स्तोतारः मनीषां मनस ईशित्रीं स्तुतिमिंद्राय प्र भरध्वं ।
+> कुरुत । नृणां कर्मनेतृणां युष्माकं यथायथा मतयः संति भवंति तथा
+> बुद्ध्यनुसारेण स्तुतिं कुरुध्वं । वयं च कृतेभिः कृतैः सत्यैर्यथार्थभूतैः
+> स्तोत्रैरिंद्रमेरयाम । यज्ञं प्रत्यागमयाम ॥ ईर गत् । ण्यंतस्य लोट् ॥
+> हि यतो विदानो जानानः समर्थः स इंद्रो गिर्वणस्युः गीर्भिर्वनंति संभजंत
+> इति गीर्वणसः स्तोतारः ॥ वनतेरसुनि रूपं । उपपदस्य दीर्घाभावश्चांदसः ।
+> तदंतात्क्यप् । क्याच्छंदसीत्युप्रत्ययः ॥ स्तोत्कन्यामयमानः खलु । अतस्तमभिष्टुत ॥
+
+##### Gist of the bhāṣya
+
+O wise worshippers, offer to Indra the मनीषां (*manīṣāṃ*), praise that governs the mind. As the thoughts of you, the leaders of the rite, are, so make your praise, according to your understanding. We too, with true, genuine hymns that have been made, shall bring Indra (एरयाम (*erayāma*)) to the sacrifice. Since he is knowing (विदानः (*vidānaḥ*)), that is, capable, that Indra is गिर्वणस्युः (*girvaṇasyuḥ*): worshippers serve him with songs. Sāyaṇa adds that the stem takes the suffix kyap and the u-suffix after it. Because he desires praise, they praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनीषिणः (*manīṣiṇaḥ*)—O wise worshippers
+- नृणां (*nṛṇāṃ*)—to you, the leaders of the rite
+- यथायथा (*yathāyathā*)—in whatever manner
+- मतयः (*matayaḥ*)—powers of intellect
+- संति (*saṃti*)—are; accordingly
+- मनीषां (*manīṣāṃ*)—praise addressed to Indra
+- प्र भरध्वं (*pra bharadhvaṃ*)—procure
+- वीरः सः (*vīraḥ saḥ*)—that heroic Indra
+- हि (*hi*)—by whose power
+- विदानः (*vidānaḥ*)—knowing our wishes and capable of supplying them
+- गिर्वणस्युः (*girvaṇasyuḥ*)—since he desires the praises of worshippers
+- सत्यैः (*satyaiḥ*)—true
+- कृतेभिः (*kṛtebhiḥ*)—by your praises
+- इंद्रं (*iṃdraṃ*)—Indra
+- एरयाम (*erayāma*)—let us urge on, to come to the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O wise worshippers, leaders of the rite, make praise addressed to Indra in whatever manner your intellectual powers permit. The heroic Indra, by his power knowing our wishes and capable of supplying them, desires the praises of the worshippers; therefore let us urge Indra to come to the sacrifice with your true praises.
+
+### Printed p. 453
+
+##### English translation
+Offer, worshipper, to Indra praise agreeable to the thoughts of men ; let us incite Indra hither with sincere adoration, for he, the hero, capable (of granting our wishes, is) desirous of laudation.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॒ हि सद॑सो धी॒तिरद्यौ॒त्सं गा॑र्ष्टे॒यो वृ॑ष॒भो गोभि॑रानट् ।  
+> उद॑तिष्ठत्तवि॒षेणा॒ रवे॑ण म॒हांति॑ चि॒त्सं वि॑व्याचा॒ रजां॑सि ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । हि । सदसः । धीतिः । अद्यात् । सं । गार्ष्टेयः । वृषभः । गोभिः । आनट् ।  
+> उत् । अतिष्ठत् । तविषेण । रवेण । महांति । चित् । सं । विव्याच । रजांसि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्योदकस्य सदसः स्थानस्यांतरिक्षस्य धीतिर्धारकः स इंद्रोऽद्यात् ।
+> द्योतते । प्रकाशते । हि प्रसिद्धौ ॥ द्युत दीप्तौ । लुज' द्युद्भो लुजीति परस्मैपदं । चेर्लुक् छांदसः । हलंतलक्षणा वृद्धिरिसि ॥ यद्वा! अद्यात् । तादृश इंद्रो
+> यज्ञमभिगच्छति ॥ द्यु अभिगमे आदादिकः । लज् । उतो वृद्धिर्लुकि हलीति वृद्धिः ॥
+> गार्ष्टेयः । सकृत्पसूता धेनुर्गृष्टिः । तस्या अपत्यं वृषभो गोभिः समानट् ।
+> संव्याप्नोति । तथैषोऽपि सर्वं स्वमहिम्मा व्याप्नोति । तथा तविषेण । महन्नामैतत् । महता रवेण शब्देनोदतिष्ठत् । उच्च्रित उन्नतोऽभवत् । अत एव महांति
+> चिन्महांत्यपि रजांस्युदकानि भुवनानि वा सं विव्याच । संव्याप्नोति ॥
+
+##### Gist of the bhāṣya
+
+The sustainer (धीतिः (*dhītiḥ*)) of the water's abode, the atmosphere, that Indra shines (अद्यात् (*adyāt*)); हि (*hi*) marks something well known. Alternatively, अद्यात् (*adyāt*) means that such an Indra approaches the sacrifice. गार्ष्टेयः (*gārṣṭeyaḥ*): a cow that has calved once is गृष्टिः (*gṛṣṭiḥ*); her offspring is the bull, which pervades (आनट् (*ānaṭ*)) with the cows. So Indra too pervades all by his own greatness. तविषेण (*taviṣeṇa*) is a name for "great": with a great roar he rose up, became exalted. Hence he pervades (सं विव्याच (*saṃ vivyāca*)) even the great रजांसि (*rajāṃsi*), waters or worlds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—of water
+- सदसः (*sadasaḥ*)—of the atmosphere, its abode
+- धीतिः (*dhītiḥ*)—Indra, the sustainer
+- अद्यात् (*adyāt*)—shines
+- गार्षेयः (*gārṣeyaḥ*)—born of a cow
+- वृषभः (*vṛṣabhaḥ*)—the bull
+
+### Printed p. 454
+- गोभिः (*gobhiḥ*)—with the cows
+- समानट् (*samānaṭ*)—as one who joins them and shines, displaying his power; (Indra likewise)
+- तविषेण (*taviṣeṇa*)—with exceeding
+- रवेण (*raveṇa*)—roar
+- उदतिष्लत् (*udatiṣlat*)—manifested himself
+- महांति चित् (*mahāṃti cit*)—exceedingly great
+- रजांसि (*rajāṃsi*)—worlds
+- सं विव्याच (*saṃ vivyāca*)—has pervaded
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the sustainer of the atmosphere, the abode of water, shines. As a bull, born as the first calf of a cow, shines among the cows displaying his power, so Indra too, manifesting himself with an exceeding roar, has pervaded all the exceedingly great worlds.
+
+##### English translation
+Sustainer of the abode of the water, (the firmament), he shone brightly; the bull, the offspring of a cow which has only borne once, met the cows, with a loud roar he sprang up, he pervaded the vast worlds.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रः॒ किल॒ श्रुत्या॑ अ॒स्य वे॑द॒ सहि जि॒ष्णुः प॑थि॒कृत्सूर्या॑य ।  
+> आन्मेनां॑ कृ॒ण्वन्न च्यु॑तो॒ भुव॒द्दोः पति॑र्दि॒वः स॑न॒जा अप्र॑तीतः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । किल । श्रुत्यै । अस्य । वेद । सः । हि । जिष्णुः । पथिकृत् । सूर्याय ।  
+> आत् । मेनां । कृण्वन् । अच्युतः । भुवत् । गोः । पतिः । दिवः । सनजाः । अप्रतिइतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्यास्मदीयस्य स्तोत्रस्य श्रुत्यै श्रवणायेंद्रः किलेंद्र एव वेद । जानाति ।
+> स हि स एव जिष्णु ! शत्रुणां जयशीलः सूर्याय पथिकृन्मार्गकर्ता भवति । किंचाच्युतः शत्रुभिरगंतव्यो वृषणश्वस्य मेनामात्मानं कृण्वन् कुर्वन् इंद्र आत् ।
+> आगच्छत्यस्मदीयं यज्ञं ! मेनाभवो वृषणश्वस्य सुक्रतो ! य. १-५१-१३ । इति
+> मंत्रांतरं ॥ अस गतिदीप्त्यादानेषु भौवादिकः । ............ ॥ दिवो द्युलोकस्य च
+> पतिर्भुवत् । अभूत् ॥ भवतेर्लॆट् । वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Indra alone knows how to hear (श्रुत्यै (*śrutyai*)) this hymn of ours. He, victorious over enemies, is the maker of a path (पथिकृत् (*pathikṛt*)) for the sun. Moreover, unshakable (अच्युतः (*acyutaḥ*)), not to be approached by enemies, making himself (मेनां (*menāṃ*)) the Mena of Vṛṣaṇaśva, Indra comes (आत् (*āt*)) to our sacrifice. Sāyaṇa cites another mantra: मेनाभवो वृषणश्वस्य सुक्रतो (*menābhavo vṛṣaṇaśvasya sukrato*) (Ṛ. Saṃ. 1-51-13). He is also lord of heaven (दिवः (*divaḥ*)) and became (भुवत् (*bhuvat*)) so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—our praises
+- श्रुत्यै (*śrutyai*)—capable of hearing
+- इंद्रः किल (*iṃdraḥ kila*)—Indra himself
+- वेद (*veda*)—knows our wishes
+- जिष्णुः (*jiṣṇuḥ*)—victorious
+- स हि (*sa hi*)—he
+- सूर्याय (*sūryāya*)—for the sun's movement
+- पथिकृत् (*pathikṛt*)—has built a path
+- अच्युतः (*acyutaḥ*)—the imperishable Indra
+- मेनां (*menāṃ*)—Mena
+- कृण्वन् (*kṛṇvan*)—making his own
+- आत् (*āt*)—comes to the sacrifice
+- दिवः (*divaḥ*)—of heaven
+- पतिः (*patiḥ*)—lord
+- गोः (*goḥ*)—lord of cattle
+- सनजाः (*sanajāḥ*)—eternal
+- अप्रतीतः (*apratītaḥ*)—unassailed
+- भुवत् (*bhuvat*)—becomes
+
+### Printed p. 455
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is able to hear our praises, knows our wishes. He, the victorious, has built a path for the sun's movement. The imperishable Indra, making Mena his own, comes to the sacrifice. He is lord of cattle, lord of heaven, eternal and unassailed.
+
+##### English translation
+On hearing our praise Indra knows our wishes; victorious, he opens a path for the sun ; making himself Mena, he came (to the sacrifice), he was unassailable, the lord of cattle, (the lord) of heaven, eternal, unsurpassed.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ म॒ह्ना म॑ह॒तो अ॑र्ण॒वस्य॑ व्र॒तामि॑ना॒दंगि॑रोभिर्ग्णा॒नः ।  
+> पु॒रूणि॑ चि॒न्नि त॑ताना॒ रजां॑सि द॒धार॒ यो ध॒रुणं॑ स॒त्यता॑ता॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । मह्ना । महतः । अर्णवस्य । व्रता । अमिनात् । अंगिरभिः । गृणान ।  
+> पुरूणि । चित् । नि । ततान । रजांसि । दाधार । यः । धरुणं । सत्यताता ॥ ४ ॥
+
+### Printed p. 456
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोऽंगिरोभिर्यषिभिर्गृणानः स्तूयमानः सन् महतोऽर्णवस्य ॥
+> अर्णसः सलोपश्च । का. ५-२-१०९-३ । इति वप्रत्ययः ॥ उदकवतो मेघस्य व्रता
+> व्रतानि कर्माणि मह्ना स्वमहिम्मॆनाविनात् । अहिंसीत् ॥ मीज् हिंसायां । लजि
+> मीनातेर्निगम इति ह्रस्वः ॥ ततः पुरूणि चिद्बहुन्येव रजांस्युदकानि नि ततान ।
+> नीचीनान्यकरोत् । य इंद्रः सत्यताता सत्यैर्देवैस्तते । यद्वा । सत्यशब्दादपि
+> स्वार्थिकस्तातिल् द्रष्टव्यः । सत्ये । द्युलोके धरुणं धारकं बलं दाधार आधारयत्॥
+
+##### Gist of the bhāṣya
+
+Indra, praised by the Aṅgirases, has by his own greatness injured (अमिनात् (*amināt*)) the functions (व्रता (*vratā*)), the works, of the great अर्णवस्य (*arṇavasya*), the water-bearing cloud. Then he made many रजांसि (*rajāṃsi*), waters, spread downward (नि ततान (*ni tatāna*)): he who is सत्यताता (*satyatātā*), extended by the true gods. Alternatively, the affix tāti is to be seen as added to the word सत्य (*satya*) without change of sense; in the true heaven he upheld (दाधार (*dādhāra*)) the supporting (धरुणं (*dharuṇaṃ*)) strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अंगिरभिः (*aṃgirabhiḥ*)—by the Aṅgirases
+- गृणानः (*gṛṇānaḥ*)—praised
+- महतः (*mahataḥ*)—great
+- अर्णवस्य (*arṇavasya*)—of the cloud
+- व्रता (*vratā*)—functions
+- मह्ना (*mahnā*)—by his own greatness
+- अमिनात् (*amināt*)—has injured
+- यः (*yaḥ*)—which Indra
+- सत्यताता (*satyatātā*)—in the true heaven
+- धरुणं (*dharuṇaṃ*)—his world-supporting power
+- दाधार (*dādhāra*)—has upheld; that Indra
+- पुरूणि चित् (*purūṇi cit*)—abundant
+- रजांसि (*rajāṃsi*)—waters
+- नि ततान (*ni tatāna*)—has poured down
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, praised by the Aṅgirases, has by his own greatness injured the functions of the great clouds. The Indra who has upheld his world-supporting power in the true heaven has poured down abundant waters.
+
+##### English translation
+Praised by the Angirasas, Indra has by his might injured the functions of the mighty cloud; he has sent down abundant rains, he who (at other times) has supported the supporting (cloud) in heaven.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ दि॒वः प्र॑ति॒मानं॑ पृथि॒व्या पिश्वा॑ वेद॒ सव॑ना॒ हंति॒ शुष्णं॑।  
+> म॒हीं चि॒द्ध्यामात॑नो॒त्सूर्ये॑ण चा॒स्कंभ॑ चि॒त्कंभ॑नेन॒  ॑
+> स्तभीयान् ॥ ५ ॥
+
+### Printed p. 457
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । दिवः । प्रतिमानं । पृथिव्याः । विश्वा । वेद । सवना । हंति । शुष्णं ।  
+> महीं । चित् । द्यां । आ । अतनोत् । सूर्येण । चास्कंभ । चित् । स्कंभनेन ।  
+> स्कभीयान् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्य पृथिव्याश्च प्रतिमानं महत्त्वेन प्रतिनिधिरिंद्रो विश्वा
+> सर्वाणि सवना सवनानि वेद । सोमपानार्थं जानाति । शुष्णं सर्वस्य शोषकमेतन्नामानमसुरं हंति ॥ वाक्यभेदादनिघातः ॥ अपि च महीं चिन्महतीमपि द्यां
+> सूर्येणातनोत् । सर्वत्र प्रकाशयुक्तामकरोत् । स्कभीयान् स्कंभयित्यणां
+> मध्यॆ श्रेष्ठः स स्कंभनेन चिन्निरोधनसाधनेन सामर्थ्येनैव चास्कंभ । द्युलोकमवरुद्धमकरोत् ॥ स्कंभिः सौत्रो धातुः । लटि तुजादीनामिति दीर्घः । चित्कंभनेनेत्यत्र संहितायां सलोपः । उत्पूर्वस्य स्कंभेरुदः स्थास्त्रंभोः । पा. ८-४-६१ ।
+> इति सलोप उक्तः । चित्तूर्वस्य स्कंभेरपि भवति च्छंदोविषयत्वात् ॥
+
+##### Gist of the bhāṣya
+
+Indra, the counterpart (प्रतिमानं (*pratimānaṃ*)) of heaven and earth in greatness, knows all (विश्वा (*viśvā*)) सवना (*savanā*), the soma-pressings, for the drinking of soma. He slays the asura named Śuṣṇa, the desiccator of all. Moreover, he spread even the great heaven (महीं चित् द्यां (*mahīṃ cit dyāṃ*)) with the sun, making it full of light everywhere. स्कभीयान् (*skabhīyān*), the best of proppers, propped (चास्कंभ (*cāskaṃbha*)) heaven with prop (स्कंभनेन (*skaṃbhanena*)), a means of restraint, namely his power, and held heaven fast.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of heaven
+- पृथिव्याः (*pṛthivyāḥ*)—of earth
+- प्रतिमानं (*pratimānaṃ*)—the counterpart
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वा (*viśvā*)—all
+- सवना (*savanā*)—sacrificial rites
+- वेद (*veda*)—has known
+- शुष्णं (*śuṣṇaṃ*)—the desiccating Śuṣṇa asuras
+- हंति (*haṃti*)—has slain
+- महीं चित् (*mahīṃ cit*)—great
+- द्यां (*dyāṃ*)—heaven
+- सूर्येण (*sūryeṇa*)—with the help of the sun
+- आतनोत् (*ātanot*)—made extended
+- स्कभियान् (*skabhiyān*)—Indra, the best of those who give support
+- स्कंभनेन चित् (*skaṃbhanena cit*)—by his power fit to support all
+- चास्कंभ (*cāskaṃbha*)—became the support of heaven
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the counterpart of heaven and earth, has known all sacrificial rites. He has slain the desiccating Śuṣṇa asuras. He made the great heaven extended with the help of the sun. Indra, best in giving support, became the support of heaven by his power fit to support all.
+
+##### English translation
+Indra, the counterpart of heaven and earth, is cognizant of all sacrifices he is the slayer of Shushna; he spread out the spacious heaven with the sun (to light it up); best of proppers, he propped up (the heaven) with a prop.
+
 ---
 
-**Progress note:** Done through printed p. 451. pp. 446-451 (batch API)
+**Progress note:** Done through printed p. 457. pp. 452-457 (batch API)
