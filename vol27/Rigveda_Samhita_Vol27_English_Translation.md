@@ -9433,6 +9433,293 @@ This did not suit either. Therefore in the evening the Sun enters Agni and is hi
 
 That Agni, when he overcomes (abhi bhūt) with his own form of flame (varpas) the dark (kṛṣṇā) night as she goes (enī); doing what? ….
 
+### Printed p. 238
+
+> सर्वस्य जगतः पालयितुः पितृभूताद्वादित्याज्ञां जायमानां योषामुषसं
+> जनयन्नभिव्यंजयन् । तदानीमरतिर्गमनशीलोऽग्निर्दिवो द्युलोकस्य वसुभिर्वासयितृभिराच्छादकैः संधुक्षणसमर्थैरात्मीयैस्तेजोभिः सूर्यस्य भानुं दीप्तिमूर्ध्वमुपरिष्टात् स्तभायन् स्तंभयन् वि भाति । विशेषेण दीप्यते ॥
+
+##### Gist of the bhāṣya
+
+(continuing the explanation of the second Ṛk) Agni, as he overcomes the dark night, begets, that is, brings to light, the maiden Uṣas, who is born of the great father, the protector of the whole world. The father is Āditya. At that time Agni, the goer, shines forth variously. With his own radiances, which cover heaven and are able to kindle, he holds the light of the sun back above, in the upper region.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहतः (*bṛhataḥ*)—of the great one
+- पितुः (*pituḥ*)—from the protector of the world
+- जां (*jāṃ*)—the one born
+- योषां (*yoṣāṃ*)—Uṣas
+- जनयन् (*janayan*)—making manifest
+- यत् (*yat*)—when
+- कृष्णां (*kṛṣṇāṃ*)—the black
+- एनीं (*enīṃ*)—night
+- वर्पसा (*varpasā*)—with his own flame
+- अभि भूत् (*abhi bhūt*)—he overcomes (then)
+- अरतिः (*aratiḥ*)—Agni, the ranging one
+- दिवः (*divaḥ*)—of the world of heaven
+- वसुभिः (*vasubhiḥ*)—with his own covering radiances
+- सूर्यस्य (*sūryasya*)—of the sun
+- भानुं (*bhānuṃ*)—the light
+- ऊर्ध्वं (*ūrdhvaṃ*)—in the upper region itself
+- स्तभायन् (*stabhāyan*)—stopping and holding
+- विभाति (*vibhāti*)—shines exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Making manifest Uṣas, who was born of the great protector of the world, Agni, the ranging one, overcomes with his flame the black night. Then, with his own radiances that cover the world of heaven, he stops and holds the sun's light in the upper region itself, and shines exceedingly.
+
+##### English translation
+When he has overcome the dark departing (night) by his radiance, then, begetting the damsel, the daughter of the great father, he shines in his course with the treasures of heaven, establishing above the light of the sun.
+
+##### विशेषविषयगळु (Special Topics)
+
+कृष्णां एनीं वर्षसा अभि भूत् (*kṛṣṇāṃ enīṃ varṣasā abhi bhūt*)—This Agni defeats or overpowers the night, which is full of dense darkness and is passing away, with his radiance in the form of flame. "Black one" here means the night, which begins after sunset. As time passes the darkness spreads thicker and thicker and the deep gloom sets in. At such a time there is no sun to give light, so Agni himself destroys the darkness with his brilliantly shining flames and makes light everywhere. Because he destroys the deep darkness of the night by his light, the seer describes, figuratively, that Agni has defeated the night.
+
+### Printed p. 239
+बृहतः पितुः जां योषां जनयन् (*bṛhataḥ pituḥ jāṃ yoṣāṃ janayan*)—"Making manifest the dawn-time created by Prajāpati, or by Āditya, the protector of this great world of moving and unmoving things." The meaning intended is this: while Agni is shining with his radiance in the night, the night gradually passes away and the dawn-time arrives. The seer says that Agni does this work.
+अरतिः दिवः वसुभिः सूर्यस्य भानुं ऊर्ध्वं स्तभायन् वि भाति (*aratiḥ divaḥ vasubhiḥ sūryasya bhānuṃ ūrdhvaṃ stabhāyan vi bhāti*)—In the night Agni, with his radiance (flames or rays) spread everywhere, goes on giving light to a great distance in heaven or in the atmosphere. At that time dense darkness has settled and the time of sunrise has not arrived. So the seer describes, figuratively, that Agni stops the sun from rising and himself shines in a special way. In truth the shining of Agni has no connection with the rising of the sun; in due course the sun rises without fail. Until then, that is until that time, Agni shines especially in the all-pervading deep darkness. That the sunrise is delayed in this situation is due to the power of Agni. The seer has described it in this way in order to describe Agni's qualities.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रो भ॒द्रया॒ सच॑मान॒ आग॒त्स्वसा॑रं जा॒रो अ॒भ्ये॑ति प॒श्चात् ।  
+> सु॒प्र॒के॒तैर्द्युभि॑र॒ग्निर्वि॒तिष्ठ॒नुश॑द्भि॒र्वर्णरै॑र॒भि रा॒मम॑स्थात् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रः । भद्रया । सचमानः । आ । अगात् । स्वसारु । जारः । अभि । एति । पश्चात् ।  
+> सुप्रकेतैः । द्युबिः । अग्निः । वितिष्ठन् । रुशत्भिः । वर्णैः । अभि । रामं ।  
+> अस्थात् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रो भजनीयः कल्याणो भद्रया भजनीयया दीप्त्योषसा वा सचमानः
+> सेव्यमानः संगच्छमानो वाग्निरागात् । आजगाम।गार्हपत्यादाहवनीयं ततः पश्चाज्जारो जरयिता शत्रूणां सोऽग्निः स्वसारं स्वयंसारिणीमागच्छति भगिनीं वागतामुषसमभ्येति । अभिगच्छति । तथा सुप्रकेतैः सुप्रज्ञानैर्दुर्भिर्दिप्तैस्तेजोभिः सह
+
+##### Gist of the bhāṣya
+
+Bhadra is the auspicious, the one to be resorted to. Agni has come, either served by the resortable radiance (bhadrā) or accompanied by Uṣas. He has come from the Gārhapatya to the Āhavanīya. Afterwards that Agni, the jāra, the one who wears away his enemies, goes to his svasāra: either his self-moving (svayaṃsāriṇī) sister, or the Uṣas who has arrived; abhyeti means "goes toward". Likewise he is accompanied by suprakētas, well-known, shining lights.
+
+### Printed p. 240
+
+> विशिष्ठन् सर्वतो वर्तमानः सोग्नी रुशद्भिः श्वेतैर्वण्यार्पारक्षैरात्मीयैस्तेजोभी
+> रामं कृष्णं शार्वरं तमोऽभ्यस्थात् । सायंहोमकालेऽभिभूय तिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+Agni stands everywhere around, with his own white radiances **NOTE**. Rāma, the black one, is the darkness of the night; he overpowers it and stands, at the time of the evening homa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भद्रः (*bhadraḥ*)—Agni, the auspicious one
+- भद्रया (*bhadrayā*)—with auspicious radiance
+- सचमानः (*sacamānaḥ*)—served
+- आगात् (*āgāt*)—has come
+- पश्चात् (*paścāt*)—afterwards
+- चारः (*cāraḥ*)—the destroyer of enemies
+- अग्निः (*agniḥ*)—Agni
+- स्वसारं (*svasāraṃ*)—his sister Uṣas
+- अभ्येति (*abhyeti*)—approaches
+- सुप्रकेतैः (*supraketaiḥ*)—with excellent, informing
+- द्युभिः (*dyubhiḥ*)—lights
+- वितिष्ठन् (*vitiṣṭhan*)—spreading everywhere
+- अग्निः (*agniḥ*)—Agni
+- रुशद्भिः (*ruśadbhiḥ*)—with white
+- वर्णैः (*varṇaiḥ*)—radiances
+- रामुं (*rāmuṃ*)—the darkness of the night
+- अभि अस्थात् (*abhi asthāt*)—has stood overpowering it
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the auspicious one, has come, served by auspicious radiance. Afterwards Agni, the destroyer of enemies, approaches his sister Uṣas. Agni, who spreads everywhere with excellent, informing lights, stands overpowering the darkness of the night with white radiances.
+
+##### English translation
+He has come auspicious, waited on by the auspicious (light); he afterwards approaches his sister (dawn) like a gallant : Agni, spreading everywhere, with omniscient rays overpowers the dark (night) with brilliant beams.
+
+##### विशेषविषयगळु (Special Topics)
+
+The auspicious Agni, who is served, comes with his auspicious radiance and approaches his sister Uṣas. That is, while Agni shines with his own radiance throughout the night, the night gradually passes and the dawn-time draws near. To indicate this it is said that Agni approaches Uṣas. Agni and the night are related; the Vedic sentence आग्नेया वैरात्रि (*āgneyā vairātri*) supports this. Because Agni shines especially at night, there is a close connection between Agni and night. At the end of the night the dawn-time appears, so the dawn-time is, as it were, born of the night. Thus both Agni and the dawn-time are connected with the night, since both are born in the night-time, and it is proper to call the dawn-time Agni's sister (the younger one). Agni, who shines in the night in this way, shines brilliantly with his radiances, which destroy the deep darkness of the night and cast light. That is the main idea.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य यामा॑सो बृह॒तो न व॒ग्नूनिंधा॑ना अ॒ग्नेः सख्युः॑  ॒॑
+> शिवस्य ।  
+> ईड्य॑स्य॒ वृष्णो॑ बृह॒तः स्वासो॒ भामा॑सो॒ याम॑न्न॒क्तव॑श्चिकिते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । यामासः । बृहते । न । वग्नून् । इंधानाः । अग्नेः । सख्युः । शिवस्य ।  
+> ईड्यस्य । वृष्णः । बृहतः । सुआसः । भामासः । यामन् । अक्तवः । चिकित्से ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहतो महतोऽस्याग्नेः संबंधिन इंधाना दीप्यमाना यामासः । यांति
+> गच्छंतीति यामा रश्मयः । नवग्नून् स्तुतिकारिणो जनान्न बाधंते । किंतु सख्यु:
+> स्तुत्यस्तोतृत्वयष्टृयष्टव्यव्यत्वलक्षणेन सख्येन सखिभूतस्य शिवस्य कल्याणस्य भक्तानां
+> सुखकरस्येड्यस्य स्तोतव्यस्य वृष्णः कामानां वर्षितुर्बृहतो महतः स्नासः शोभनास्यस्यास्याग्नेः स्वभूता अक्तवस्तमांस्यंजंतोऽपगमयंत आहुतिभिः संगता वा
+> भामासः ॥ भाम क्रोधे ॥ तीक्ष्णा अप्रसह्या रश्मयो यामन् . याति देवान्प्रति
+> तर्पणाय यांति देवा एतं प्रत्यंगभावायेति यामा यज्ञः . तस्मिंश्चिकित्रॆ ।
+> सर्वतो जज्जिरे । प्रथिता अभूवन् ॥
+
+##### Gist of the bhāṣya
+
+The kindled, shining yāmāsas of this great Agni are his rays: "they go (yānti)". They do not harm the vagnus, the praisers. They are rather those of Śiva, the auspicious one, who is a friend through the friendship characterised by the relation of praised and praiser, worshipped and worshipper, the pleasant one to his devotees, the one to be praised, the showerer of desires, the great one, the well-mouthed (svāsaḥ: of beautiful mouth) Agni. These rays, his own, are akta: they dispel the darkness (aṅj), or else they are joined with the oblations. They are bhāmāsaḥ. The root bhām is used in the sense of anger: the rays are sharp and irresistible. In the yāman, the sacrifice, they are chikitre, that is, they have become famous, spread, everywhere. Yāman is explained in two ways: the sacrifice goes toward the gods for their satisfaction, or the gods go to it in order to become its limbs (प्रत्यंगभावाय (*pratyaṃgabhāvāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहतः (*bṛhataḥ*)—of the great one
+- अस्य अग्ने: (*asya agne:*)—of this Agni
+- इंधानाः (*iṃdhānāḥ*)—the shining
+- यामासः (*yāmāsaḥ*)—rays
+- वग्नून् (*vagnūn*)—the praisers
+- न (बाधंते) (*na (bādhaṃte)*)—do not hurt
+- सख्युः (*sakhyuḥ*)—of the friend
+- शिवस्य (*śivasya*)—the auspicious
+- ईड्यस्य (*īḍyasya*)—the worthy of praise
+- वृष्णः (*vṛṣṇaḥ*)—the showerer of desires
+- बृहतः (*bṛhataḥ*)—the great
+- स्वासः (*svāsaḥ*)—the one with an auspicious mouth, Agni's
+- अक्तवः (*aktavaḥ*)—joined with the oblations
+- भामासः (*bhāmāsaḥ*)—rays
+- यामन् (*yāman*)—in the sacrifice
+- चिकित्से (*cikitse*)—are known by all
+
+### Printed p. 243
+
+##### भावार्थ (Bhāvārtha)
+
+The shining rays of this great Agni do not hurt the praisers. The rays of Agni, who is a friend, auspicious, worthy of praise, the showerer of desires, great, and of auspicious mouth, joined with the oblations, are known by all in the sacrifice.
+
+##### English translation
+The blazing flames of that mighty Agni do not (deter) his adorers ; the fierce flames of the friendly auspicious adorable (Agni), the showerer of (benefits), the vast, the strong-mouthed, are visible in the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+यामासः (*yāmāsaḥ*)—यांति गच्छंतीति यामा रश्मयः (*yāṃti gacchaṃtīti yāmā raśmayaḥ*). Because they go out from Agni and spread around, the yāmāḥ are the rays.
+वग्नून् न (*vagnūn na*)—स्तुतिकारिणो जनान् न बाधंते (*stutikāriṇo janān na bādhaṃte*). The fierce rays of Agni, or his burning power, are capable of doing harm to enemy people, but they cause no hurt to the people who praise Agni. The seer says this because there is a kind of friendship between Agni and the people who praise him.
+सख्युः शिवस्य (*sakhyuḥ śivasya*)—What is the friendship between Agni and the people? It is स्तुत्यस्तोतृत्वयष्टृयष्ट. व्यत्वलक्षणेन सख्येन! (*stutyastotṛtvayaṣṭṛyaṣṭa. vyatvalakṣaṇena sakhyena!*). There is a kind of relation between Agni and the people. Agni is the one who is praised; the people praise Agni. This relation is called that of praised and praiser. In the same way, since the people worship Agni with oblations and the like, there is also the relation of worshipped and worshipper. The seer describes this relation as the friendship between Agni and those who praise him.
+भामासः (*bhāmāsaḥ*)—भाम क्रोधे । तीक्ष्णा अप्रसह्या रश्मयः (*bhāma krodhe | tīkṣṇā aprasahyā raśmayaḥ*). Rays of the nature of anger, that is, sharp rays that cannot be borne. When Agni burns with great flames, no one can go near him. The meaning is: such fierce rays of Agni.
+यामन् (*yāman*)—याति देवान्प्रति तर्पणाय यांति देवा एतं प्रत्यंगभावायेति यामा यज्ञः . (*yāti devānprati tarpaṇāya yāṃti devā etaṃ pratyaṃgabhāvāyeti yāmā yajñaḥ .*). Two explanations are given. Yāman is the sacrifice because it satisfies the gods with the offering of oblations; or yāman is the sacrifice because the gods themselves, invited, go to this place of sacrifice for their own pleasure.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒ना न यस्य॒ भामा॑सः॒ पवं॑ते॒ रोच॑मानस्य बृह॒तः सु॒दिवः॑।  
+> ज्येष्ठे॑भि॒र्यस्तेजि॑ष्टैः क्रीळु॒मद्भि॒र्वर्षि॑ष्टेभिर्भा॒नुभि॒र्नक्ष॑ति॒  
+> द्यां ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वनाः । न । यस्य । भामासः । पवंते । रोचमानस्य ! बृहतः । सुदिवः ।  
+> ज्येष्ठेभिः । यः । तेजिस्थैः । क्रीळुमत् 5भिः । वर्षिष्ठेभिः । भानुभिः । नक्षति ! द्यां"
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रोचमानस्य दीप्यमानस्य बृहतो महतः सुदिवः शोभनदीप्तेर्वा
+> यस्याग्नेः स्वभूता भामासः ॥ भा दीप्ता ॥ दीप्ता रश्मयः स्वना न स्वनंतो मरुत
+> इव पवंते सर्वतः शब्दं कुर्वंतो गच्छंति। किंच योऽग्निर्जैष्टेभिरत्यंतं प्रशस्त्यस्तेजिष्ठैस्तेजिस्वितमैः क्रीळुमद्भिः क्रीडनवद्धिर्वर्षिष्टेभिर्वृद्धतमैर्भानुभिरात्मीय्यैस्तेजोभिदार्क्यं द्युलोकं नक्षति व्याप्नोतीति । सत्वं देवानावहेत्युत्तरेण
+> संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Of Agni, who is shining, great, and su-div (of fair radiance), the own rays are bhāmāsaḥ: "भा (*bhā*)" is shining. The shining rays pavante, that is, go everywhere making a noise, "like the roaring Maruts" (स्वना न स्वनंतो मरुत इव (*svanā na svanaṃto maruta iva*)). Moreover, that Agni pervades the world of heaven with his own rays, which are the most excellent, most lustrous, sportive, and most grown. The sentence is connected with the later words सत्वं देवानावह (*satvaṃ devānāvaha*) ("may he bring the gods").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रोचमानस्य (*rocamānasya*)—of him who is radiant
+- बृहतः (*bṛhataḥ*)—of great form
+- सुदिवः (*sudivaḥ*)—of excellent splendour
+- यस्य (*yasya*)—whose Agni's
+- भामासः (*bhāmāsaḥ*)—rays
+- स्वना न (*svanā na*)—like the Maruts
+- पवंते (*pavaṃte*)—move about making a noise everywhere
+- यः (*yaḥ*)—which Agni
+- ज्येष्ठेभिः (*jyeṣṭhebhiḥ*)—with the most praiseworthy
+- तेजिस्थैः (*tejisthaiḥ*)—radiant
+- क्रीळुमद्भिः (*krīḷumadbhiḥ*)—sportive
+- वर्षिष्ठेभिः (*varṣiṣṭhebhiḥ*)—most excellent
+- भानुभिः (*bhānubhiḥ*)—with rays
+- द्यां (*dyāṃ*)—the world of heaven
+- नक्षति (*nakṣati*)—pervades (may that Agni bring the gods)
+
+##### भावार्थ (Bhāvārtha)
+
+Whose rays, of the radiant, great, and fair-splendoured Agni, move about like the Maruts, making a noise everywhere, and who pervades the world of heaven with his most praiseworthy, radiant, sportive, and most increasing rays, may that Agni bring the gods.
+
+### Printed p. 244
+
+##### English translation
+The flames of whom, radiant, vast, bright-shining, go roaring like the winds; who covers the sky with most excellent, most lustrous, most sportive, and most mighty rays ;—
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and the next, only the qualities of Agni are described and there is no sentence to complete the sense. So they must be connected with the sentence in the seventh Ṛk of this sūkta, स आ वक्षि महि नः (*sa ā vakṣi mahi naḥ*): "bring, such as you are, the greatly glorious gods to our sacrifice".
+स्वनाः न (*svanāḥ na*)—स्वनंतो मरुत इव (*svanaṃto maruta iva*). As the blowing wind makes a noise, so the description here is of Agni making a crackling noise of a kind when he consumes wood and the like.
+ज्येष्ठभिः यः तेजिस्थैः क्रीळुमद्भिः वर्षिष्ठेभिः भानुभिः द्यां नक्षति (*jyeṣṭhabhiḥ yaḥ tejisthaiḥ krīḷumadbhiḥ varṣiṣṭhebhiḥ bhānubhiḥ dyāṃ nakṣati*)—It is well known that heaven and the sky are at a very great height. The very radiant rays or flames of Agni rise very high, appear to be playing, and touch heaven, which is at that great height. That is, they spread to a very great height. That is the meaning.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य शुष्मा॑सो ददृशा॒नप॑वे॒र्जॆह॑मानस्य स्वनयन्नि॒युद्धिः॑ ।  
+> प्र॒त्नेभि॒र्यो रुश॑द्भीर्दे॒वत॑मो॒ वि रेभ॑द्धिरर॒तिर्भाति॒ विभ्वा॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । शुष्मासः । ददृशानपवेः । जेहमानस्य । स्वनयन् । नियुत् 5भिः ।  
+> प्रत्येभिः । यः । रुशत् 5भिः । देवतमः । वि । रेभत् 5भिः । अरतिः । भाति । विभ्वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ददृशानपवेर्दर्शनीयज्वालाग्नेः । यद्वा । पनिर्वज्र आयुधं । दृश्यमानायुधस्य । जेहमानस्य । जेहतिर्गतिकर्मा । हविरादाय देवान्प्रति गच्छतोऽस्याग्नेः
+> स्वभूताः शुष्मासः शोषका नियुद्भिः । नियुतो वायोरिति वायोरश्वा नियुतः ।
+> तमुक्कैर्वायुभिः संयुक्ता रश्मयः स्वनयन् । शब्दायंते । किंच देवतमो
+
+##### Gist of the bhāṣya
+
+ददृशानपवेः (*dadṛśānapaveḥ*) means: of the Agni whose flames are worth beholding. Or else: pavi is the vajra, a weapon, so "of him whose weapon is seen". जेहमानस्य (*jehamānasya*): the root jehati is a verb of motion, so "of this Agni, who goes with the oblation toward the gods". His own śuṣmāsaḥ, the drying rays, with the niyuts: "niyuts" are the horses of Vāyu (नियुतो वायोरिति (*niyuto vāyoriti*)). The rays, united with the winds **NOTE**, svanayan, that is, make a noise. Moreover, devatama:
+
+### Printed p. 245
+
+> देवानां मुख्योऽरतिर्गंता विभ्वा विभवनशीलो महान् योऽग्निः प्रत्नेभिः
+> पुराणै रुशद्भिः श्वेतवर्णॆ रेभद्धिः शब्दायमानैस्तेजोभिर्वि भाति विविधं दीप्यते ।
+
+##### Gist of the bhāṣya
+
+(continuing) Devatama is the chief of the gods; arati is the goer; vibhvā is the mighty one who prevails. The Agni who, with ancient (pratnebhiḥ: of old), white (ruśadbhiḥ), and noisy (rebhadbhiḥ) radiances, vi bhāti, shines variously.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ददृशानपवे? (*dadṛśānapave?*)—of him who has flames visible to all
+- जेहमानस्य (*jehamānasya*)—of him who goes to the gods taking the oblation
+- अस्य (*asya*)—Agni's
+- शुष्मासः (*śuṣmāsaḥ*)—drying rays
+- नियुद्भिः (*niyudbhiḥ*)—with the winds that are joined with horses
+- स्वनयन् (*svanayan*)—make a noise
+- देवतमः (*devatamaḥ*)—the chief of all the gods
+- अरतिः (*aratiḥ*)—the ranging one
+- विभ्वा (*vibhvā*)—the great one
+- यः (*yaḥ*)—which same Agni
+- प्रत्नेभिः (*pratnebhiḥ*)—ancient
+- रुशद्भिः (*ruśadbhiḥ*)—white
+- रेभद्धिः (*rebhaddhiḥ*)—noisy
+- वि भाति (*vi bhāti*)—shines exceedingly (with radiances)
+
+##### भावार्थ (Bhāvārtha)
+
+The drying rays of Agni, who has flames visible to all and goes to the gods taking the oblation, make a noise with the winds joined with horses. That same Agni, the chief of all the gods and the great one, shines exceedingly with ancient, white, and noisy radiances.
+
+##### English translation
+Of him, bright blazing and hastening (toward the gods), the fierce-burning flames roar with the horses (of the Maruts) : who shines mighty in his course, most divine. with ancient, brilliant, and loud-sounding (flames).
+
+##### विशेषविषयगळु (Special Topics)
+
+ददृशानपवेः (*dadṛśānapaveḥ*)—दर्शनीयज्वालाग्नेः (*darśanīyajvālāgneḥ*). The flames of Agni are bright so as to be seen by all. The meaning is: Agni, who is possessed of such flames. Or else पनिर्वज्र आयुधं दृश्यमानायुधस्य (*panirvajra āyudhaṃ dṛśyamānāyudhasya*) **NOTE**. Pavi means the thunderbolt weapon, or a weapon. Here Agni's weapon is his flames, which are seen by all. In sum, the intent of the two meanings is the same.
+नियुद्भिः स्वनयन् (*niyudbhiḥ svanayan*)—Niyut means the horse of Vāyu. The meaning is: making a noise together with the wind accompanied by horses, that is, the wind blowing swiftly. The intention is that the more the wind blows, the more Agni burns.
+
 ---
 
-**Progress note:** Done through printed p. 237. pp. 232-237 (batch API)
+**Progress note:** Done through printed p. 245. pp. 238-245 (batch API)
