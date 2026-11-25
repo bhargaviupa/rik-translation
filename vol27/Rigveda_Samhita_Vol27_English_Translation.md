@@ -12243,7 +12243,6 @@ The ninth sūkta. In this sūkta the presiding deities of water, the *advaitèga
 This sūkta, which praises the presiding deities of water called आपः (*āpaḥ*), has special importance. By the waters consecrated by the recitation of this sūkta, the seer Sindhudvīpa removed the guilt of brahmin-slaying that had come upon Indra because he had killed his own priest, called Viśvarūpa, and made him pure…
 
 ### Printed p. 320
-## Special Topics
 
 The text continues: it is also stated in the Bṛhaddevatā and in the Ṛgvidhāna that Sindhudvīpa made him pure. Moreover, the twice-born recite this sūkta every day, at dusk and at dawn, in the Sandhyāvandana and similar rites performed for the removal of sin, and sprinkle themselves with the water consecrated by it. The greatness of this sūkta and its power to remove sin, as set out in the work called Ṛgvidhāna, is stated here:
 
