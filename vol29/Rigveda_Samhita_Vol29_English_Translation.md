@@ -14202,6 +14202,329 @@ O Ubhayāvin, Agni endowed with both jaws, you are हिंस्रः (*hiṃ
 - जंभैः (*jaṃbhaiḥ*)—with sharp tusks
 - अभि सं धेहि (*abhi saṃ dhehi*)—swallow
 
+### Printed p. 498
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have two jaws, you the harmer of the Rākṣasas, sharpen both your jaws and apply them on the Rākṣasas. Protect this world and the world above. O Agni, endowed with radiance, confront the Asuras who dwell in the sky. Swallow those Rākṣasas with your sharp tusks.
+
+##### English translation
+Agni, the destroyer (of the Rakshasas), who have two (rows of teeth), sharpening them both, apply them to (the Rakshasas, and preserve) both the upper and the lower (world); and march, radiant (Agni, against the Rakshasas) in the firmament, seize the Yatudhanas with your jaws.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञैरिषूः॑ सं॒नम॑मानो अग्ने वा॒चा श॒ल्या अ॒शनि॑भिर्दिहा॒नः ।  
+> ताभि॑र्विध्य॒ हृद॑ये यातु॒धाना॑न्प्रति॒चो बा॒हून्प्रति॑  
+> भज्येषां ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञैः । इषूः । संनममानः । अग्ने । वाचा । शल्यान् । अशनिभिः । दिहानः ।  
+> ताभिः । विध्य । हृदये । यातुधानान् । प्रतीचः । बाहून् । प्रति । भज्य । एषां॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं यज्ञैरस्मदीयैर्बलकरैर्यागैर्वाचास्मदीयया स्तुत्या
+> चेषूर्वक्रान्पाणान् संनममानः संनमयन् शल्यांस्तासां शल्यानशनिभिर्दिप्तिबिर्दिहानस्तीक्ष्मीकुर्वन् ताभिरिशुभिर्यातुधानानाक्षसान्हृदये विध्य । तत एषां
+> यातुधानानां संबंधिनः प्रतीचो युद्धाय त्वां प्रतिगतान्पाहून्प्रति भज ।
+
+##### Gist of the bhāṣya
+
+O Agni, by our sacrifices that give strength and by our speech, our praise, bending the arrows, and sharpening their shafts with splendours, pierce with those arrows the Yātudhānas, the Rākṣasas, in the heart. Then, of these Yātudhānas, break and crush the arms of those who have come against you for battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यज्ञैः (*yajñaiḥ*)—by sacrifices
+- वाचा (*vācā*)—and by praises
+- इषू: (*iṣū:*)—your arrows
+- संनममानः (*saṃnamamānaḥ*)—bending them to shoot at the Asuras
+- शल्यान् (*śalyān*)—your javelins
+
+### Printed p. 499
+
+- आशनिभिः (*āśanibhiḥ*)—with flames
+- दिहानः (*dihānaḥ*)—sharpening
+- ताभिः (*tābhiḥ*)—with them
+- यातुधानान् (*yātudhānān*)—the Asuras
+- हृदये (*hṛdaye*)—striking them in the heart
+- विध्य (*vidhya*)—cleave
+- प्रतीचः (*pratīcaḥ*)—who oppose you
+- एषां बाहून् (*eṣāṃ bāhūn*)—their arms
+- प्रति भंगि (*prati bhaṃgi*)—cut off
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bending your arrows by sacrifices and praises to shoot at the Asuras, and sharpening your javelins with flames, strike the Asuras with them in the heart and cleave them. Cut off the arms of those who oppose you.
+
+##### English translation
+Agni, bending your arrows by means of our sacrifices and praise, and sharpening the javelins with your splendours, pierce with them the Yatudhanas to the heart, break their arms when raised against you-
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ त्वचं॑ यातु॒धान॑स्य भिंधि हिं॒स्राशनि॒र्हर॑सा हंतेनं ।  
+> प्र पर्वा॑णि जातवेदः शृणीहि क्र॒व्यात्क्र॑वि॒ष्णुर्वि चि॑नोतु  ॒
+> वृक्लं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आग्ने । त्वचं । यातुधानस्य । भिंधि । हिंस्रा । अशनिः । हरसा । हंतु । एनं ।  
+> प्र । पर्वाणि ! जातवेदः । शृणीहि । क्रव्यआत् । कृविष्णुः : वि । चिनोतु । वृक्लं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातधन जातप्रज्ञ वाग्ने त्वं यातुधानस्य राक्षसस्य त्वचु
+> भिंधि । दारय । एनं भिन्नत्वचं यातुधानं हिंसा हिंसनशीलं तवाशनिर्वज्रं
+> हरसा तापेन हंतु । हिनस्तु । हतस्य राक्षसस्य पर्वाणि शरीरपर्वाणि च प्र शृणीहि ।
+> छिंद्दीत्यर्थः । छिन्नेषु च शरीरसंबंधिसु सत्सु वृक्षं छिन्नसंधिमेनु यातुधानु
+> क्रविष्णुर्मांसमिच्छन् क्रव्यान्मांसभक्षको वृकादिर्वि चिनोतु । भक्षयतित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, Agni, he who has acquired wealth or has acquired knowledge, split, tear apart, the skin of the Yātudhāna, the Rākṣasa. May your thunderbolt, which is given to harming, destroy with its heat this Yātudhāna whose skin is split. And break the joints of the body of the slain Rākṣasa. When the parts joined to the body have been cut, let the flesh-desiring, flesh-eating wolves and the like devour the Yātudhāna whose joints are cut. **NOTE**
+
+### Printed p. 500
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who know everything
+- अग्ने (*agne*)—O Agni
+- यातुधानस्य (*yātudhānasya*)—of the Asura
+- त्व चं (*tva caṃ*)—the skin
+- भिंधि (*bhiṃdhi*)—strip off
+- एनं (*enaṃ*)—him
+- हिंस्रा (*hiṃsrā*)—that causes pain
+- अशनिः (*aśaniḥ*)—the thunderbolt
+- हरसा (*harasā*)—with its flame
+- हंतु (*haṃtu*)—let it destroy
+- पर्वाणि (*parvāṇi*)—the joints of the body
+- प्र शृणीहि (*pra śṛṇīhi*)—cut off
+- वृक्षं (*vṛkṣaṃ*)—this one whose body has been cut up
+- क्रविष्णुः (*kraviṣṇuḥ*)—that which desires flesh
+- क्रव्यात् (*kravyāt*)—wicked animals such as wolves, that eat flesh
+- वि चिनोतु (*vi cinotu*)—let them tear and eat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, omniscient, strip off the skin of the Asura. May the thunderbolt that causes pain destroy him with its flame. Cut off the joints of his body. May the flesh-eating wolves and the like tear and eat him whose body has been cut up.
+
+##### English translation
+Agni Jatavedas, cut through the skin of the Yatudhana, let your destructive thunderbolt destroy him with its fire ; sever his joints, may the flesh-desiring flesh-eater devour his mutilated body.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रे॒दानीं॒ पश्य॑सि जातवेद॒स्तिष्ठं॑तमग्न उ॒त वा॒ चरं॑तं ।  
+> यद्वां॒तरि॑क्षे प॒थिभिः॒ पतं॑तं॒ तमस्ता॑ विध्य॒ शर्वा॒ शिशा॑नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । इदानीं । पश्यसि । जातवेदः । तिष्ठंतं । अग्ने । उत । वा । चरुतं ।  
+> यत् । वा । अंतरिक्षे । पथिभिः । पतंतं । तं । अस्ता । विध्य । शर्वा । शिशानः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेद उत्पन्नप्रज्ञाग्ने त्वं यत्र पृथिव्यां तिष्ठंतमुतापि च चरंतं
+> यद्वांतरिक्षे पथिभिराकाशमार्गैः पतंतं गच्छंतं यातुधानमिदानीं संप्रति
+
+### Printed p. 501
+
+> पश्यसि तं यातुधानमस्ता शराणां क्षेप्ता त्वं शिशानः शरांस्तीक्ष्णीकुर्वञ्चा
+> शरेण विध्य ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, Agni, in whom knowledge has arisen, wherever you now see on the earth a Yātudhāna, a Rākṣasa, standing, or moving, or going in the sky by the paths of the air, you, the hurler of arrows, sharpening your arrows, pierce him with an arrow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni in the form of Jātavedas
+- अग्ने (*agne*)—O Agni
+- तिष्ठंतं (*tiṣṭhaṃtaṃ*)—let that Asura be standing
+- उत वा (*uta vā*)—or
+- चरंतं (*caraṃtaṃ*)—let him be moving
+- यद्वा (*yadvā*)—or
+- अंतरिक्षे पथिभिः (*aṃtarikṣe pathibhiḥ*)—on the paths of the sky
+- पतंतं (*pataṃtaṃ*)—let him be flying: such a Yātudhāna
+- इदानीं (*idānīṃ*)—now
+- यत्र पश्यसि (*yatra paśyasi*)—in whatever region you see him
+- तं (*taṃ*)—him
+- अस्ता (*astā*)—you who shoot arrows
+- शिशानः (*śiśānaḥ*)—having sharpened your weapon
+- शर्वा (*śarvā*)—with an arrow
+- विध्य (*vidhya*)—cleave
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni in the form of Jātavedas, whether that Yātudhāna is standing, or moving, or flying on the paths of the sky, in whatever region you now see him, destroy him with the shooting of your sharp arrow.
+
+##### English translation
+Wherever you now behold him, Agni Jatavedas, whether standing or moving, or passing along the paths in the firmament, you, O shooter, sharpening (your arrows), transfix him with your shaft.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ताल॑ब्धं स्पृणुहि जातवेद आलेभा॒नादृ॒ष्टिभि॑र्यातु॒धाना॑त् ।  
+> अग्ने॒ पूर्वो॒ नि ज॑हि॒ शोशु॑चान आ॒मादः॒ क्विंका॒स्तम॑दं॒तैनीः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उते । आलब्धं । स्पृणिहि । जातवेदः । आलेभानात् । ऋष्टिभिः । यातुधानात् ।  
+> अग्ने । पूर्वः । नि । जहि । शोशुचानः । आमअदः । क्विंकाः । तं । अदंतु । एनीः ॥
+
+### Printed p. 502
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे जातवेदोऽग्ने त्वमालब्धं हंतुं हस्ताभ्यामारब्धं साधुं
+> मां स्तोतारं यष्टारं वालेभानादालभमानाद्यातुधानाद्राक्षसादृष्टिभिरात्मीयैरायुधविशेषैः स्पृणुहि । पारय । रक्षेत्यर्थः । किंच पूर्वो मुख्यस्त्वं
+> शोशुचानः प्रज्वलन्नि जहि । मां हंतुमुद्युक्तं यातुधानं मारय । किंच तं
+> यातुधानमामादोऽपक्वस्य मांसस्य भक्षकाः क्विंकाः शब्दकारिण्यः॥ टुक्षु शब्दे ॥
+> यद्वा । क्विंका नाम पक्षिविशेषाः । एनीर्गंत्रोदंतु । भक्षयंतु ॥
+
+##### Gist of the bhāṣya
+
+And, O Jātavedas, Agni, me who am आलब्धं (*ālabdhaṃ*), seized, begun upon by hands in order to be killed, a good man, a praiser or a sacrificer, from the Yātudhāna, the Rākṣasa who seizes me, deliver and protect with your own special weapons. And you, the foremost, blazing, slay the Yātudhāna who is bent on killing me. And let the Kviṅkās, the eaters of uncooked flesh, the noise-makers, devour that Yātudhāna; or else the Kviṅkās are a special kind of birds. Let the एनीः (*enīḥ*) eat, devour him. **NOTE** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni in the form of Jātavedas
+- अग्ने (*agne*)—O Agni
+- आलब्धं (*ālabdhaṃ*)—me, who have striven for the destruction of the enemy
+- आलेभानात् (*ālebhānāt*)—from the one who confronts me and falls upon me
+- यातुधानात् (*yātudhānāt*)—the Rākṣasa
+- ऋष्टिभिः (*ṛṣṭibhiḥ*)—with your weapons
+- स्पृणुहि (*spṛṇuhi*)—protect
+- पूर्वः (*pūrvaḥ*)—you who are foremost
+- शोशुचानः (*śośucānaḥ*)—blazing
+- नि जहि (*ni jahi*)—destroy the enemy
+- आमादः (*āmādaḥ*)—that eat flesh
+- क्ष्वॆंकाः (*kṣvèṃkāḥ*)—that make noise
+- एनीः (*enīḥ*)—cruel birds that fly about
+- तं अदंतु (*taṃ adaṃtu*)—let them eat him
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni in the form of Jātavedas, protect me, who have striven for the destruction of the enemy, from the Rākṣasa who falls upon me. You, the foremost, blazing, destroy the enemy. May the cruel birds that eat flesh and make noise eat him.
+
+##### English translation
+And defend me, Jatavedas, with your darts when I am seized, (defend me) from the Yatudhana who has seized me; anticipating him you, Agni, blazing fiercely, slay him; may the swift-flying vultures, the flesh-eaters, devour him.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह प्र ब्रू॑हि यत॒मः सो अ॑ग्ने॒ यो या॑तु॒धानो॒ य ॒ ॒॑
+> इ॒दं कृ॒णोति॑ ।  
+> तमा र॑भस्व स॒मिधा॑ यविष्ठ नृ॒चक्ष॑स॒श्चक्षु॑षे रंधय्यनं ॥ ८ ॥
+
+### Printed p. 503
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । प्र । ब्रूहि । यतमः । सः । अग्ने । यः । यातुधानः । यः । इदं ।  
+> कृणोति ।  
+> तं । आ । रभस्व । संइधा । यविष्ठ । नृचक्षसः । चक्षुषे । रंधय । एनं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये यविष्ठ युवतमाग्ने यो यातुधानो राक्षसोऽस्मद्यज्ञविघ्नकारी
+> यश्चान्योऽपि पिशाचादिरिदं यज्ञदूषणादि करोति स यतमः ॥ तमबवधारणार्थ० ॥ इहास्मिंत्वद्विषययागकर्मणि वर्तमानाय मह्यं प्र ब्रूहि ।
+> तं पापकारिणं समिधा स्वकीयेन तेजसा रभस्व। हंतुं प्रारभस्व । तत एनं पापिष्ठं
+> नृचक्षसो नृणां द्रष्टुस्तव चक्षुषे तेजसे रंधय । वशं नय । तेजसा
+> संदहेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Yaviṣṭha, youngest Agni, whichever Yātudhāna, Rākṣasa, is an obstructer of our sacrifice, and whichever other, a Piśāca or the like, does this defilement of the sacrifice, he is यतमः (*yatamaḥ*), "whichever" (the suffix तम (*tama*) is in the sense of determination). Tell me, who am present here in the rite that is directed to you. Begin to kill that evildoer with your own radiance. Then subject this most sinful one to the radiance of you, the beholder of men: bring him under control; the meaning is: burn him up with radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ (*yaviṣṭha*)—O extremely young one
+- अग्ने (*agne*)—O Agni
+- यः यातुधानः (*yaḥ yātudhānaḥ*)—whichever Rākṣasa
+- यः (*yaḥ*)—or whichever Piśāca
+- इदं (*idaṃ*)—to our sacrifice, an obstruction
+- करोति (*karoti*)—does
+- सं यतमः (*saṃ yatamaḥ*)—whoever he may be
+- इह (*iha*)—here
+- प्र ब्रूहि (*pra brūhi*)—announce his name
+- तं (*taṃ*)—that evildoer
+- समिधा (*samidhā*)—with your flame
+- अरभस्व (*arabhasva*)—try to destroy
+- एनं (*enaṃ*)—this Asura
+- नृचक्षसः (*nṛcakṣasaḥ*)—who can see the doings of men
+- चक्षसः (*cakṣasaḥ*)—to your radiance
+- रंधय (*raṃdhaya*)—make him subject
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, extremely young, whichever Rākṣasa, or whichever Piśāca, causes obstruction to our sacrifice, whoever he may be, announce his name here. Destroy that evildoer with your flame. Make him subject to your flame.
+
+##### English translation
+Agni, youngest of the gods, announce (to me present) at this (your sacrifice), which is your Yatudhana who does this; destroy him with your kindled flame; beholder of men, consume him with your brilliance.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ती॒क्ष्णेना॑ग्ने॒ चक्षु॑षा रक्ष य॒ज्ञं प्रांचं॒ वसु॑भ्यः॒ प्र ण॑य  
+> प्रचेतः ।
+
+### Printed p. 504
+
+> हिंस्रं रक्षांस्यभि शोशुचानं मा त्वा दभन्यातुधाना नृचक्षः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तीक्ष्णेन । अग्नेः । चक्षुषा । रक्ष । यज्ञं । प्रांचं । वसुभ्यः । प्र । नय । प्रचेत  
+> इति प्रचेतः ।  
+> हिंस्रं । रक्षांसि । अभि । शोशुचासं । मा । त्वा । दभत् । यातुधानाः । नृचक्षः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं तीक्ष्णेन तिग्मेन चक्षुषा तेजसा यज्ञमस्मदीयं यागं रक्ष ।
+> पालय । किंच हे प्रचेतः प्रकृष्टज्ञानाग्ने प्रांचं प्रांचितारं यज्ञं वसुभ्यो
+> वसूनामर्थाय प्रणय । प्रकर्षेण नय । किंच हे नृचक्षो नृणां द्रष्टरग्ने
+> रक्षांसि हिंस्रं हिंसनशीलमभि शोशुचानमभिप्रदीप्तं त्वा त्वां यातुधाना राक्षसा
+> मा दभन् । हिंसिषुः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, protect, guard, our sacrifice with your sharp radiance. And, O Pracetas, Agni of excellent knowledge, lead forward the sacrifice, the one that goes forward, for the sake of riches, for the sake of the Vasus. And, O Agni, beholder of men, may the Yātudhānas, the Rākṣasas, not harm you, who are given to harming the Rākṣasas and are blazing forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तीक्ष्णेन (*tīkṣṇena*)—that burns
+- चक्षुषा (*cakṣuṣā*)—with your radiance
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- रक्ष (*rakṣa*)—protect
+- प्रचेतः (*pracetaḥ*)—O Agni, who have excellent knowledge
+- प्रांचं (*prāṃcaṃ*)—our sacrifice that goes forward
+- वसुभ्यः (*vasubhyaḥ*)—for the sake of wealth
+- प्र णय (*pra ṇaya*)—make it advance fully
+- नृचक्षः (*nṛcakṣaḥ*)—O Agni, who can see men
+- हिंस्रं (*hiṃsraṃ*)—that causes injury
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- अभि शोशुचानं (*abhi śośucānaṃ*)—who burn
+- त्वा (*tvā*)—you
+- यातुधानाः (*yātudhānāḥ*)—the Asuras
+- मा दभन् (*mā dabhan*)—let them not injure
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, protect our sacrifice with your burning radiance. O Agni, who have excellent knowledge, make our sacrifice complete for the sake of wealth. May the injuring Asuras not injure you, who destroy them.
+
+##### English translation
+Protect this sacrifice, Agni, with your sharp glance; lead it sage (Agni) forward to (the acquisition of) riches; let not the Yatudhanas harm you, beholder of men, the destroyer of Rakshasas blazing fiercely.
+
 ---
 
-**Progress note:** Done through printed p. 497. sukta 87 intro (Jatavedas, raksas), Rk 1-3
+**Progress note:** Done through printed p. 504. sukta 87 Rk 3 end, Rk 4-9
