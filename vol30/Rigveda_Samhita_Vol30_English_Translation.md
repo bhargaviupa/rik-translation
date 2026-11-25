@@ -24929,6 +24929,131 @@ The supplementary (khila) mantras to be recited at the end of this sūkta:
 - अभ्यक्ताक्ता स्सलंकृता सर्वं नो दुरितं दह । (*abhyaktāktā ssalaṃkṛtā sarvaṃ no duritaṃ daha |*)
 - जानीथाश्चैव कृत्यानां कर्तन नृन् पापचेतसः ॥ (*jānīthāścaiva kṛtyānāṃ kartana nṛn pāpacetasaḥ ‖*)
 
+### Printed p. 748
+
+**NOTE**
+
+### Printed p. 749
+
+## Sūkta 129 (Maṇḍala 10)
+
+The one hundred and twenty-ninth sūkta.
+
+**Introduction**
+
+The present sūkta describes the state that existed before creation. It then indicates how creation began. Among the sūktas that describe creation, the chief ones are Maṇḍala 10, sūktas 81, 82, 90, 129, 130 and 190. These sūktas are the basis of the principles and Vedāntic topics stated in the Upaniṣads and the Vedānta works. On their basis the Upaniṣads that describe the Supreme Brahman, and chiefly the ten principal Upaniṣads, were composed. In these Upaniṣads the nature of Brahman, the non-existent (asat) and the existent (sat), Prakṛti and Puruṣa, the Self and the Supreme Self, the state before the creation of the world, the cause of its creation afterwards, the course of creation, its continuance, its dissolution and similar matters are described in many ways. To explain them all at length would require many separate books, so it is not possible to do so here. Only the matters that belong to the present context will be examined, as the context requires.
+
+When the seer describes the state before creation, he asks: what was Brahman like, which pervaded everything? The worlds of earth, atmosphere, heaven and the rest, which are now seen, did not exist. What, then, filled all that? There was neither death nor deathlessness, neither day nor night. Nothing existed except Brahman, whose nature is consciousness. Deep darkness covered everything. Water filled every place. Then in that Supreme Brahman the desire of tapas, or meditation (resolve), arose. That desire is the original cause of the creation of the world. How the manifest existent came from the unmanifest non-existent, and what relation there is between the non-existent and the existent, the seers found out by their meditation. Their meditation went further still. They learned what the cause of the world is.
+
+### Printed p. 750
+
+They learned that the enjoyer is greater than the object of enjoyment. Yet who knows this creation, its cause, its states and its destruction? The gods too had not yet been created at that time; they were created afterwards. How, then, can they know the state that existed before their own creation? Only the Supreme Brahman, from whom the world and the rest arose, knows the secret of creation. Others do not know it. If there is anyone who knows it, it is that Supreme Brahman and no one else. If even he does not know, who else should know? No one knows. Thus the seer expresses his doubt.
+
+This sūkta has 7 Ṛks. In the first 2 Ṛks and in the first half of the third, the state before the creation of the world is described. In the second half of the third Ṛk and in the fourth Ṛk it is said that the cause of the creation of the world is the Supreme Self's desire in the form of tapas (meditation). The resolve to create is the seed, that is, the fundamental cause, of the creation of the world. At the end of the fourth Ṛk it is said that the seers found by the path of their meditation the relation between sat and asat, and, in the fifth Ṛk, the seed of the world, and that the Supreme Self, the enjoyer, is greater than the world and the rest, which are objects of enjoyment. In the sixth Ṛk the question is: who indeed knows the particulars of this creation? Do the gods know? Since they too had not then come into being, they have no reason to know it. How should those who came into being later know what came before? Such is the description. In the seventh Ṛk: only he from whom this world and the rest arose knows its secret; he certainly knows it. If he should say that he too does not know, who else should know? The seer thus states plainly that no one knows.
+
+It has been said that the present sūkta contains an account of the state before creation. After that creation proceeds. Then comes continuance: the created world and the rest remain for some time in that state. Afterwards they are destroyed and return to the very state in which they were before creation. After some time, from that same state, creation, continuance and destruction (dissolution) take place again. That is, creation, continuance and dissolution do not occur only once. Like the turning of a wheel, one follows another without interruption. Therefore the state before the creation of the world described here has occurred many times in the past and will occur again. Creation, continuance, dissolution and the state after dissolution go on countless times, one after another. This has neither beginning nor end. Among those countless states, the state described here is only one that occurred once. Since all of them are of one kind, describing the one that occurred once amounts to describing all.
+
+### Printed p. 751
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकादशेऽनुवाके त्रयोविंशतिसंख्यानि सूक्तानि । तत्र नासदासीदिति सप्तर्चं
+> प्रथमं सूक्तं त्रैष्टुभं । परमेष्ठि नाम प्रजापतिर्ऋषिः । वियदादिभावानां
+> सृष्टिस्थितिप्रलयादीनामत्र प्रतिपाद्यत्वात्तेषां कर्ता परमात्मा देवता । तथा चानुक्रांतं । नासत्सप्त प्रजापतिः परमेष्ठि भाववृत्तं त्विति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the eleventh anuvāka there are twenty-three sūktas. Of these, the first is the seven-Ṛk sūkta beginning नासदासीत् (*nāsadāsīt*), in the Triṣṭubh metre. The seer is the Prajāpati named Parameṣṭhin. Since the origin, continuance and dissolution of ether and the other elements are set forth here, their maker, the Supreme Self, is the deity. He cites the Anukramaṇī: नासत्सप्त प्रजापतिः परमेष्ठि भाववृत्तं त्विति (*nāsatsapta prajāpatiḥ parameṣṭhi bhāvavṛttaṃ tviti*). The viniyoga has already been given.
+
+##### Anuvāda
+
+In the eleventh anuvāka of the tenth maṇḍala there are twenty-three sūktas in all. Among them this sūkta, नासदासीत् (*nāsadāsīt*), is the first; it has seven Ṛks. The seer of this sūkta is the Prajāpati known by the name Parameṣṭhin. Because this sūkta sets forth the elements such as ether and their creation, continuance and dissolution, the Supreme Self, their creator, is the deity of this sūkta. In the Anukramaṇī it is said: नासत्सप्तः प्रजापतिः परमेष्ठि भाववृत्तं तु (*nāsatsaptaḥ prajāpatiḥ parameṣṭhi bhāvavṛttaṃ tu*). The viniyoga was stated earlier.
+
+Sūkta 128. Maṇḍala 10; Anuvāka 11; Sūkta 129; Aṣṭaka 8; Adhyāya 7; Varga 17. Number of Ṛks in the sūkta: 7. Seer: Prajāpati Parameṣṭhin. Deity: Bhāvavṛtta. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नास॑दासी॒न्नो सदा॑सीत्त॒दानीं॒ नासी॒द्रजो॒ नो व्यो॑मा ॒ 
+> परो यत् ।  
+> किमाव॑रीवः॒ कुह॒ कस्य॒ शर्म॒न्नंभः॒ किमा॑सी॒द्गह॑नं गभी॒रं ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । असत् । आसीत् । नो इति । सत् । आसीत् । तदानीं । न । आसीत् । रजः । नो इति ।  
+> विओम । परः । यत् ।  
+> किं । आ । अवरीवरिति । कुह । कस्य । शर्मन् । अंभः । किं । आसीत् । गहनं । गभीरं ॥  
+> कन्नड साहित्य परिषत्तु
+
+### Printed p. 752
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तपसस्तन्महिनाजायतैकमित्यादिनाग्रे सृष्टिः प्रतिपादयिष्यते । अधुना ततः
+> प्रागवस्था निरस्तसमस्तप्रपंचा या प्रलयावस्था सा निरूप्यते । तदानीं प्रलयदशायामवस्थितं यदस्य जगतो मूलकारणं तदसॆच्छविषाणवन्निरुपाख्यं नासीत् । न
+> हि तादृशात्कारणादस्य सॆतो जगत उत्पत्तिः संभवति ॥ तथा नो सन्नैव सदात्मवत्सत्तेन
+> निर्वाच्यमासीत् । यद्यपि सदसदात्मकं प्रत्येकं विलक्षणं भवति तथापि भावाभावयोः
+> सहावस्थानमपि संभवति । कुतस्तयोस्तादात्ममिति उभयविलक्षणमनिर्वाच्यमेवासीदित्यर्थः । ननु नो सदिति पारमार्थिकसत्त्वस्य निषेधः । तर्ह्यात्मनोऽप्यनिर्वाच्यत्वप्रसंगः । अथोच्येत । न । आनीदवातमिति तस्य सत्त्वमग्रे वक्ष्यते परिशेषान्मायाया
+> एवात्र सत्त्वं निषिध्यत इति । एवमपि तदानीमिति विशेषणानर्थक्यं व्यवहारदशायामपि
+> तस्याः पारमार्थिकसत्त्वाभावात् । अथ व्यावहारिकसतां पृथिव्यादीनां भावानां
+> विद्यमानत्वात् कथं नो सदिति निषेधः । तत्राह । नासीद्रज इत्यादि । लोका रजांस्युच्यंते । नि. ४-१९ । इति यास्कः । अत्र च सामान्यापेक्षमेकवचनं । व्योमो
+> वक्ष्यमाणत्वात्तस्याधस्तनाः पातालादयः पृथिव्यंता नासन्नित्यर्थः । तथा व्योमांतरिक्षं तदपि नो नैवासीत् । पर इति सकारांतं परस्तादित्यर्थे वर्तते ॥ परशब्दाच्छंदसोऽस्तातेरर्थेऽसिप्रत्ययः ॥ परो व्योम्मः परस्तादुपरिदेशे द्युलोकप्रभृतिसत्यलोकांतं यदस्ति तदपि नासीदित्यर्थः । अनेन चतुर्दशभुवनगर्भं
+> ब्रह्मांडं स्वरूपेण निषिद्धं भवति । अथ तदावरकत्वेन पुराणेषु प्रसिद्धानि यानि
+> वियदादिभूतानि तेषामवस्थानप्रदेशं तदावरणनिमित्तं चाक्षेपमुखेन क्रमेण
+> निषेधयति किमावरीवरिति । किमावरणीयं तत्त्वमावरकभूतजातमावरीवः । अत्यंतमावृणुयात् । आवार्याभावात्तदावरकमपि नासीदित्यर्थः ॥ वणोतेर्यज्लुगंताच्छंदसे लजि तिपि रूपमेतत् ॥ यद्वा । किमिति प्रथमैव । किं तत्त्वमावरकमावृणुयात् । आवार्याभावादाप्रियमाणवत्तदपि स्वरूपेण नासीदित्यर्थः ।
+> आवृण्वत्तत्तत्वं कुह कुत्र देशेऽवस्थायावृणोति । आधारभूतस्तादृशो देशोऽपि
+> नासीदित्यर्थः ॥ किंशब्दात्सप्तम्यर्थे हप्रत्ययः । कु तिहोः । सा. ७-२-१०४ । इति
+> प्रकृतेः क्वादेशः ॥ कस्य शर्मन् कस्य वा भोक्तुर्जीवस्य शर्मणि सुखदुःखसाक्षात्कारलक्षणे वा निमित्तभूते सति तदावरकं तत्त्वमादृणुयात् । जीवानामुपभोगार्था हि सृष्टिः । तस्यां हि सत्यां ब्रह्मांडस्य भूतैरावरणं प्रलयदशायां च
+> भोक्तारो जीवा उपाधिविलयात्रलीना इति कस्य कश्चिदपि भोक्ता न संभवतीत्याररणस्य निमित्ताभावादपि तन्न घटत इत्यर्थः । एतेन भोग्यप्रपंचवद्भोक्तृप्रपं-
+
+##### Gist of the bhāṣya
+
+Creation will be set forth further on, beginning *tapasastanmahinājāyataikam*. For now the state of dissolution is described, the state before creation, in which the whole manifold world is withdrawn. At that time, in the condition of dissolution, the root cause of this world was not an asat, like a hare's horn, that cannot be spoken of. For from such a cause the origin of this existing world is not possible. Nor was it sat in the sense of being "existent" like the Self; it was inexpressible as existent. Although the existent and the non-existent are each distinct in nature, existence and non-existence could still coexist; how then could they be identical? So it was distinct from both and indeed inexpressible. An objection: *no sat* denies real existence, so the Self too would become inexpressible. Reply: no; its existence is stated further on, in *ānīdavātam*, so by elimination it is the existence of Māyā that is denied here. Even so, the qualifier *tadānīm* would be pointless, since Māyā has no real existence even in the state of ordinary experience. Another objection: since earth and the other elements exist in the empirical sense, how can existence be denied? To this he answers with नासीद्रज (*nāsīdraja*) and the rest. He cites Yāska: the worlds are called rajas (Ni. 4-19). The singular is used with a general sense. Because व्योम (*vyoma*) is mentioned next, the worlds below it, from Pātāla down to the earth, did not exist. Likewise व्योम (*vyoma*), the atmosphere, was not. परः (*paraḥ*) means "beyond"; so whatever exists above, from the heaven-world to the Satya-world, also was not. By this the egg of Brahmā, with its fourteen worlds within, is denied in its own form. Then the elements known from the Purāṇas as its coverings, such as ether, the places where they stand, and the cause of their covering are denied in order, by way of question: किमावरीवः (*kimāvarīvaḥ*). What principle could cover, since there was nothing to be covered? So the covering too did not exist. Or else *kim* stands first: what principle could cover? Since there is nothing to be covered, it too did not exist in its own form. In कुह (*kuha*), "in what place would it stand and cover?": the place that serves as support also did not exist. In कस्य शर्मन् (*kasya śarman*): for the happiness of which enjoyer, a soul, or while the realization of pleasure and pain was the occasion, would it cover? Creation is for the souls' enjoyment. Only if it existed would there be the covering of the egg of Brahmā by the elements; in dissolution the enjoying souls were merged through the dissolution of their limiting adjuncts, so no enjoyer of anything was possible, and the occasion for covering was absent, so that too is not tenable. By this it is said that the world of enjoyers, like the world of objects, did not exist then. {The text of this block breaks off at the end of the page and continues in the next.}
+
+### Printed p. 753
+
+> चोऽपि तदानीं नासीदित्युक्तं भवति ॥ किंशब्दादुत्तरस्य जिसः सावेकाच इति प्राप्तस्योदात्तत्वस्य न गोश्वनाववर्णेति प्रतिषेधः । सुपां सुलुगिति शर्मणः सप्तम्या
+> लुक् ॥ यद्यपि आवरणस्य ब्रह्मांडस्य निषेधेन तदंतर्गतमप्पत्त्वमपि निराकृतं
+> तथाप्यापो वा इदमग्रे सलिलमासीत् । तै. सं. ७-१-५-१ । इत्यादिश्रुत्या कश्चिदपां
+> सद्भावमाशंकेत : तं प्रत्याचष्टेऽंभः किमासीदिति । गहनं दुष्प्रवेशं गभीरं
+> दुःखस्थानमत्यगाधं ईदृशमंभः किमासीत् । तदपि नैवासीदित्यर्थः । श्रुतिस्त्ववांतरप्रलयविषया ॥
+
+##### Gist of the bhāṣya
+
+(continuing) By this it is said that the world of enjoyers also did not exist at that time. Even though the denial of the covering, the egg of Brahmā, has also removed the water within it, someone might suspect the existence of water because of the śruti *āpo vā idamagre salilamāsīt* (Tai. Saṃ. 7-1-5-1) and the like. He answers that with *aṃbhaḥ kimāsīt*. Water that is *gahanam*, hard to enter, and *gabhīram*, a place of misery and very deep: did such water exist? It too did not exist. The śruti concerns the intermediate dissolution. (The remaining part of the block is grammatical: accent and the elision of the locative ending in शर्मन् (*śarman*).)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तदानीं (*tadānīṃ*)—in the state of dissolution, that is, before creation
+- असत् (*asat*)—the asat, the cause of the world and the rest, which exists in unmanifest form, is not grasped by the senses, and cannot be called by any name
+- न आसीत् (*na āsīt*)—was not
+- सत् (*sat*)—the original thing called sat, which has manifest form, is accessible to the senses and is the basis of the world and the rest
+- नो आसीत् (*no āsīt*)—was not
+- रजः (*rajaḥ*)—the worlds
+- न आसीत् (*na āsīt*)—were not
+- व्योम (*vyoma*)—the atmosphere
+- नो (*no*)—was not
+- परः (*paraḥ*)—beyond that region of the atmosphere
+- यत् (*yat*)—whatever worlds such as heaven exist
+- नो (*no*)—were not (then)
+- आवरीवः (*āvarīvaḥ*)—what covers, that is, what encloses all this
+- किं (*kiṃ*)—was there any thing? (no)
+- कुह (*kuha*)—in what place
+- कस्य (*kasya*)—of what enjoyer
+- शर्मन् (*śarman*)—were there things that give pleasure?
+- गहनं (*gahanaṃ*)—impossible to enter
+- गभीरं (*gabhīraṃ*)—unfathomable
+- अंभः (*aṃbhaḥ*)—water
+- किं आसीत् (*kiṃ āsīt*)—was there? (nothing was)
+
+##### भावार्थ (Bhāvārtha)
+
+In the state of dissolution, that is, at the time before there was creation again after the world and the rest, created earlier, had been absorbed into the Supreme Self, there was neither the asat, which is the cause of the world and the rest, exists in unmanifest form, lies beyond the knowledge born of the senses and cannot be indicated by name and form, nor the sat, which is accessible to the senses, has manifest form and is the basis of the world and the rest. The worlds were not, the atmosphere was not. The heaven-worlds and the rest beyond the atmosphere were not. Then was there any thing that covered all this? Where were the means of pleasure for the enjoyer (for the multitude of souls or living beings)? Or was there water that cannot be entered and is unfathomable? (The meaning is that nothing existed.)
+
+##### English translation
+The non-existent was not, the existent was not ; then the world was not, nor the firmament, nor that which is above (the firmament.) How
+
 ---
 
-**Progress note:** Done through printed p. 747. pp. 742-747 (batch API)
+**Progress note:** Done through printed p. 753. pp. 748-753 (batch API)
