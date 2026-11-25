@@ -25824,6 +25824,263 @@ When we, the grass-eaters of men, (are) together, I (am) among the barley-eaters
 > अत्र । इत् । ऊं इति । मे । मंससे । सत्यं । उक्तं। द्विपात् । च। यत् । चतुःपात् । संसृजानि ।  
 > स्त्रीभिः । यः । अत्र । वृषणं । पृतन्यात् । आयुद्धः । अस्य । वि । भजानि । वेदः ॥१८॥
 
+### Printed p. 728
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे ममात्रास्मिन्सूत्र उक्तं मया कथितं सत्यमिद्यथाभूतमेव
+> मंससे । त्वं जानीहि । अर्थवादरूपेण नैतदध्यारोपितगुणमित्यर्थः । उ इति
+> पूरणः । किंच द्विपाच्च मनुष्यादिकं च चतुष्पाच्च पश्वादिकं च यत्सा वरजंगमात्मकं जगत्संसृजानि । अहमुत्पादयामीति । अत्रास्मिज्जगति स्त्रीभिः स्त्रीसदृशैर्बलादिहीनैः पुरुषैः सह यः शूरंमन्यो जनो वृषणमभिलषितस्य वर्षितारं मां ।
+> परित्यज्येति शेषः । पृतन्यात् युद्धं कर्तुमिच्छति अहमस्येदृशस्य स्वभूतं वेदो
+> धनमयुद्धस्तेन पुरुषेणायोद्धा सन् बलादपहृत्य वि भजानि । स्तोतृभ्यो
+> यष्टृभ्यश्च ददामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra says: what has been said by me in this hymn, "that I may create", is true just as it is; "you may know" it. It is not a virtue falsely attributed to me by way of arthavāda. उ (*u*) is an expletive. Further, whatever the world is, moving and unmoving, "biped" (men and the like) and "quadruped" (cattle and the like), "I create" it, he says. In this world, whichever man who thinks himself a hero, together with "women" (men resembling women, lacking strength and so on), wishes to fight me, "the showerer", the rainer of what is desired (the words "abandoning me" are to be supplied), I, acting without a fight, seize by force the wealth that belongs to such a man and distribute it: I give it to the singers of praise and to the sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विपात् (*dvipāt*)—that which contains men and the like
+- चतुष्पाच्च (*catuṣpācca*)—and that which contains cattle and the like
+- यत् (*yat*)—whatever world there is, that
+- सं सृजानि (*saṃ sṛjāni*)—"I have created it", thus
+- मे (*me*)—addressed to me
+- अत्र (*atra*)—in this praise
+- उक्तं (*uktaṃ*)—what has been said
+- सत्यमित् (*satyamit*)—that it is indeed true
+- मंगसे (*maṃgase*)—you know **NOTE**
+- अत्र (*atra*)—in this world
+- स्त्रीभिः (*strībhiḥ*)—together with women (the powerless)
+- यः (*yaḥ*)—which man
+- वृषणं (*vṛṣaṇaṃ*)—with me, the giver of what is desired
+- पृतन्यात् (*pṛtanyāt*)—wishes to fight
+- अस्य (*asya*)—of such a man
+- वेदः (*vedaḥ*)—the wealth
+- अयुद्धः (*ayuddhaḥ*)—without fighting (seizing it)
+- वि भजानि (*vi bhajāni*)—I distribute to the singers of praise
+
+##### भावार्थ (Bhāvārtha)
+
+Know that what is said in this praise addressed to me, namely that I have created the world containing men and the like and cattle and the like, is truly so. In this world, whatever man, joining with the powerless who are like women, wishes to fight me, the giver of desires (the powerful one), I seize without fighting the wealth of such a man and distribute it to the singers of praise.
+
+##### English translation
+(Indra speaks) : You know that what is said by me at this time is the truth, that I may create both bipeds and quadrupeds. I distribute without conflict (among my worshippers) the wealth (that I have taken from him), who (neglecting me), the showerer (of desires), wishes to contend with women.
+
+### Printed p. 729
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्या॑न॒क्षा दु॑हि॒ता जात्वास॒ कस्तां वि॒द्वा अ॒भि म॑न्याते अं॒धां।  
+> क॒त॒रो मे॒निं प्रति॒ तं मु॑चाते॒ य ईं॒ वहा॑ते॒ य ईं॑  ॒
+> ना वरेयात् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । अनक्षा । दुहिता । जातु । आस । कः । तां । विद्वान् । अभि । मन्याते । अंधां ।  
+> कतरः । मेनिं । प्रति । तं । मुचाते । यः । ईं । वहाते । यः । ईं । वा । वरेऽयात् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्येंद्रस्य मम कारणरूपेणावस्थितस्यानक्षाक्षिवर्जिता दर्शनहीना । अचेतनेत्यर्थः । दुहिता प्रकृत्याख्या जातु कदाचिदास ॥ असतेर्गत्यर्थस्य लिटि रूपं ॥
+> सामर्थ्यान्महाप्रलये मय्येव लीना सती सर्वत्र वर्तते तां प्रकृतिं विद्वान्
+> मय्येव लीनां जानन् मत्तोऽन्यो देवः को भवति । न कोऽपीत्यर्थः । अपि
+> चांधां दर्शनहीनामचेतनां तामभि मन्याते । आत्मन्याश्रयप्रदानेन को
+> देवोऽभिवूजयति । यद्वा । क्षीरोदकवत् घटाकाशवच्च मया सहैकीभूतां
+> तामाभिमुख्येन को जानाति । अपमेव सर्वज्ञः स्वात्मन्याश्रयप्रदानेनाभिपूजयामि । मया सहैकीभूतां तां तत्त्वतोऽहमेव जानामि। नान्य इति। किंच
+> कतरो देवो मेनिं वज्रं तं प्रसिद्धं वृत्रादिशत्रुं प्रति मुचाते । मुंचति ।
+> स्वयमेव प्रश्नमुत्थाप्येदानीं प्रतिब्रूते। यो देव ईमेनं शत्रुं वहाते वहति।
+> अपि वा य ईमेनं वरेयात् वरयितुमिच्छति। स चाहमेव नान्यो मत्सदृशोऽस्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Of whom", of me, Indra, existing in the form of the cause, the daughter, called Prakṛti, is "eyeless", without sight, that is, insentient; she "was ever" (आस (*āsa*) is the perfect of the root अस (*asa*) in the sense of going). By implication, at the great dissolution she exists everywhere, absorbed in me alone. What other god, knowing her thus absorbed in me, exists? None. And "which god honours" her, the blind, insentient one, by giving her shelter in himself? Or else: who knows her, one with me as milk with water or the pot-space with space? I alone, omniscient, honour her by giving her shelter in myself; I alone truly know her as one with me, no other. Further: which god "lets loose" the "bolt" (मेनिं (*meniṃ*), the vajra) against that well-known enemy, Vṛtra and the like? Having raised the question himself, he now answers: the god who "bears" this enemy, or who wishes to "choose" him. That is I alone; no other like me exists.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of me, who am Indra
+- अनक्षा (*anakṣā*)—devoid of the organ of sight
+- दुहिता (*duhitā*)—the daughter (Prakṛti)
+- जातु (*jātu*)—for a while (at the time of dissolution)
+- आस (*āsa*)—who is contained within me
+- तां (*tāṃ*)—her
+- विद्वान् (*vidvān*)—who knows
+- कः (*kaḥ*)—which god is there?
+- अंधां (*aṃdhāṃ*)—her who is without consciousness
+- अभिमन्याते (*abhimanyāte*)—who indeed can worship?
+- कतरः (*kataraḥ*)—which god!
+
+### Printed p. 730
+- मेनिं (*meniṃ*)—the thunderbolt
+- तं प्रति (*taṃ prati*)—upon the enemy
+- प्रति मुंचाते (*prati muṃcāte*)—can hurl
+- यः (*yaḥ*)—who
+- ईं (*īṃ*)—this enemy
+- वहाते (*vahāte*)—can protect
+- वा (*vā*)—or
+- यः (*yaḥ*)—who
+- ईं (*īṃ*)—him
+- वरेयात् (*vareyāt*)—can accept
+
+##### भावार्थ (Bhāvārtha)
+
+Which god has known that my daughter, I being Indra, Prakṛti, devoid of the organ of sight, is absorbed in me at the time of dissolution? Who indeed can worship her, who is without consciousness? Which god can hurl the thunderbolt upon the enemy? Who can protect this enemy? Who but I can accept him?
+
+##### English translation
+What (other god but me) whose eyeless daughter is ever present knows her and honours (her) the blind one : which of the two (deities) lets loose that bolt against (a foe) he who assaults, (or) he who protects him?
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किय॑ती॒ योषा॑ मर्य॒तो व॑धू॒योः परि॑प्रीता॒ पन्य॑सा॒  ॑
+> वाय्येण ।  
+> भ॒द्रा व॒धूर्भ॑वति॒ यत्सु॒पेशाः॑ स्व॒यं सा मि॒त्रं व॑नुते॒ जने॑  
+> चित् १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कियती । योषा । मर्यतः । वधूयोः । परिप्रीता । पन्यसा । वार्येण ।  
+> भद्रा । वधूः । भवति । यत् । सुपेशाः । स्वयं । सा । मित्रं । वनुते । जने ।  
+> चित् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कियती किंपरिमाणा योषास्त्रीजातिर्मर्यतो मनुष्यसंबंधिनो भोगानाचरतो वधूयोः स्त्रीकामस्य सर्वात्मकस्यांतर्यामिरूपेणावस्थितस्येंद्रस्य
+
+##### Gist of the bhāṣya
+
+"How many", of what number, is the womankind who are "devoted" to a man, a mortal who practises human enjoyments, "desirous of a wife" (वधूयोः (*vadhūyoḥ*)), that is, to Indra, who is all-formed and abides as the inner controller…
+
+### Printed p. 731
+
+> परिप्रीता । अनुरक्ता । वशवर्तिनीत्यर्थः । कीदृशस्य । वार्येण वरणीयेन पन्यसा
+> स्तोत्रेण स्तुतस्य सत इति शेषः । आपि च यद्या वधूर्भद्रा कल्याणी सुपेशाः
+> शोभनरूपा च भवति सा द्रौपदीदमयंत्यादिका वधूः स्वयमात्मनैव जने
+> चिज्जनमध्यॆऽवस्थितमिति मित्रं प्रियमर्जुननलादिकं पतिं वनुते । याचते । स्वयंवरधर्मेण प्रार्थयते । स च प्रीयमाणो वरजनोऽहमेवेत्यभिप्रायः ।
+> रूपंरूपं प्रतिरूपो बभूव । ऋ. ६.४७-१८ । इति मंत्रलिंगात्सर्वात्मकत्वादिति ॥
+
+##### Gist of the bhāṣya
+
+…"Devoted" means attached, under his sway. To one how characterised? To one who is praised "with a choice praise" (पन्यसा (*panyasā*) means stotra); "being praised" is to be supplied. Moreover, the bride who is "fortunate", auspicious, and "beautiful" (of fair form), such a bride, Draupadī, Damayantī and the like, "of herself", among the people, asks for the "friend", the dear husband, Arjuna, Nala and the like; she petitions by the custom of svayaṃvara. The sense is that the chosen one is I alone, who am pleased. The reason is the mantra-indication "he became a counterpart to each form" (Ṛ. 6.47-18), since he is all-formed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वार्येण (*vāryeṇa*)—attractive
+- पन्यसा (*panyasā*)—by praise, one praised
+- वधूयोः (*vadhūyoḥ*)—who desires a bride
+- मर्यतः (*maryataḥ*)—with the man
+- योषा (*yoṣā*)—among women
+- कियती (*kiyatī*)—how many
+- परिप्रीता (*pariprītā*)—is devoted
+- यत् वधूः (*yat vadhūḥ*)—which bride
+- भद्रा (*bhadrā*)—of auspicious form
+- सुपेशाः (*supeśāḥ*)—beautiful
+- भवति (*bhavati*)—is
+- सा (*sā*)—she
+- स्वयं (*svayaṃ*)—of herself
+- जने चित् (*jane cit*)—among people
+- मित्रं (*mitraṃ*)—the friend she wants (husband)
+- वनुते (*vanute*)—asks for (chooses)
+
+##### भावार्थ (Bhāvārtha)
+
+How many women are devoted to a man who is praised with attractive praise and desires a bride? The bride who is of auspicious form and beautiful asks for, chooses, of herself among the people the friend she wants (her husband).
+
+##### English translation
+How many a woman has been gratified by the flattering praise of man's desire, when the bride is fortunate and beautiful, she of herself chooses her husband among men.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒त्तो ज॑गार प्र॒त्यंच॑मत्ति शी॒र्ष्णा शिरः॒ प्रति॑ दधौ॒ वरू॑थं ।  
+> आसी॑न ऊ॒र्ध्वामु॒पसि॑ क्षिणाति॒ नृज्ज॑ुत्ता॒नामन्वे॑ति॒ भूमिं॑ ॥
+
+### Printed p. 732
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पत्तः । जगार । प्रत्यंचं । अत्ति । शीर्ष्णा । शिरः । प्रति । दधौ । वरूथं ।  
+> आसीनः । ऊर्ध्वां । उपसि । क्षिणाति । न्यज् । उत्तानां । अनु । एति । भूमिं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रादित्यात्मनेंद्रः स्तूयते तदंशत्वात् । आदित्यरूपींद्रः पत्तो रश्मापैः पादैर्जगार । वृष्टिलक्षणमुदकं गिरति गृह्णाति वा । गृहीत्वा च प्रत्यंचमात्मानं
+> प्रतिगतमुदकमत्ति । भक्षयति । मंडलेऽवस्थापयतीत्यर्थः । तदनंतरं वरूथं
+> वरणीयं वृष्टिलक्षणमुदकं शीर्ष्णां शिरःस्थानीयेन रश्मिजालेन शिरः सर्वस्य लोकस्य
+> मस्तकं प्रति दधौ । दधाति । प्रतिक्षिपतीत्यर्थः । किंचोपस्युपस्थे स्वसमीपस्थाने
+> मंडल आसीन उपविष्टः सन्नूर्ध्वामुद्धतां स्वदीप्तिं क्षिणाति । हिनस्ति । आलोककरणाय प्रक्षिपतीत्यर्थः । न्यज् रश्मिसमूहरूपेण नीचैरंचिता गंता सन्नुत्तानां
+> विस्तृतां भूमिमन्वेति । अनुगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Here Indra is praised as the Sun, being a part of him. Indra in the form of the Sun "swallowed" (जगार (*jagāra*)) with his "feet", his rays, the water that is rain, that is, takes it; having taken it, he "eats" the water that has come back toward himself, that is, he establishes it in his orb. After that he casts the choice water, rain, with the "head", the head-like network of rays, against the "head", the crown, of the whole world. Further, "seated" in his orb, in "the lap" (उपसि (*upasi*)), his own place nearby, he "scatters" his upward-risen radiance, casting it to make light. न्यज् (*nyaj*): going downward in the form of masses of rays, he follows the "outspread" earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (इंद्रः (*iṃdraḥ*)—Indra)
+- पत्तः (*pattaḥ*)—with his feet, which are rays
+- जगार (*jagāra*)—has seized the rain
+- प्रत्यंचं (*pratyaṃcaṃ*)—the water spreading toward him
+- अत्ति (*atti*)—swallows
+- वरूथं (*varūthaṃ*)—the worshipful water
+- शीर्ष्णा (*śīrṣṇā*)—with the head-like rays
+- शिरः प्रति (*śiraḥ prati*)—upon the head
+- दधौ (*dadhau*)—has lifted and held
+- उपसि (*upasi*)—in the region of the atmosphere
+- आसीनः (*āsīnaḥ*)—seated
+- ऊर्ध्व (*ūrdhva*)—the radiance spreading upward
+- क्षिणाति (*kṣiṇāti*)—spreads
+- न्यज् (*nyaj*)—with rays spreading downward
+- उत्तानां (*uttānāṃ*)—widely spread out
+- भूमिं (*bhūmiṃ*)—the earth
+- अन्वेति (*anveti*)—pervades
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has seized the rain with his feet, which are rays. He has lifted the water spreading toward him upon his head with his head-like rays. Seated in the atmospheric region, he spreads his upward-spreading radiance. With the rays spreading downward he pervades the widely spread earth.
+
+##### English translation
+He seizes (it) with his feet ; he swallows it when it approaches him, he places the head (of heaven) as a guard around his head : seated (above)
+
+### Printed p. 733
+he sends (his rays) upwards to the proximate heaven ; he sends them downwards, on the outspread earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+उपसि (*upasi*)—For the word उपसि (*upasi*) Yāska has given the explanation आसीन ऊर्ध्वामुपसि क्षिणाति । उपस्थे । (*āsīna ūrdhvāmupasi kṣiṇāti | upasthe |*) (Ni. 6-6). That is, उपसि (*upasi*) means आत्मन उपस्थाने अंतरिक्षलोके (*ātmana upasthāne aṃtarikṣaloke*): in the region of the atmosphere near himself.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हन्न॑च्छा॒यो अ॑पला॒शो अर्वा॑ त॒स्थौ मा॒ता विषि॑तो अत्ति॒  ॑
+> गर्भः ।  
+> अ॒न्यस्या॑ व॒त्सं रि॑ह॒ती मि॑माय॒ कया॑ भु॒वा नि द॑धे धे॒नुरूधः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहन् । अच्छायः । अपलाशः । अर्वा । तस्थौ । माता । विसितः । अत्ति । गर्भः ।  
+> अन्यस्याः । वत्सं । रिहती । मिमाय । कया । भुवा । नि । दधे । धेनुः । ऊधः ॥१४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वसुक्रोऽनयादित्यात्मानमिंद्रं स्तौति । बृहन्महानादित्योऽच्छायश्चायावर्जितः । तमोरहित इत्यर्थः । अपलातः पर्णरहितः पराशदनवर्जितः । विनाशरहित
+> इत्यर्थः । अर्वा सततगामिा तस्थौ । तिष्ठति । किंच माता वृष्टिप्रदानद्वारेण सर्वस्य
+> जगतो निर्माता विषितो विमुक्तः । निरालंबन इत्यर्थः । गर्भस्त्रैलोक्यस्य गर्भभूत आदित्यात्मेंद्रोऽत्ति । हवींषि भक्षयति । यद्वा । अनेन विनाशनं लक्ष्यते ।
+> पापानि नाशयति । किंजान्यस्या आदित्याख्याया देवमातुर्वत्समपत्यभूतमादित्यं
+> रिहत्यास्वादयंत्युपजीवंती वर्धयंती मिमाय । निर्मिवीते । पूर्वस्यां दिश्य
+> हन्यहन्युत्पादयतीत्यर्थः । कया भुवा केन भावेनाभिप्रायेण । भक्त्या भयेन
+> वेत्यर्थः । धेनुर्दौरुदकस्याधारत्वात् क्षरितृत्वाच्चोधःस्थानीयमादित्यं नि दधे ।
+> स्थापयति । यद्वा । धेनुर्गौरूधो यथा तद्वदादित्यं द्यौर्धारयति ॥
+
+##### Gist of the bhāṣya
+
+Vasukra praises Indra, who is the Sun, with this verse. "Great" (बृहन् (*bṛhan*)) is the great Sun, "shadowless", free of shade, that is, free of darkness; "leafless" (अपलाशः (*apalāśaḥ*)), without leaves, not subject to decay, that is, free of destruction; "swift" (अर्वा (*arvā*)), constantly moving, he "stands". Further, the "mother", the maker of the whole world through the giving of rain, "released", that is, without support; the "embryo", the embryo of the three worlds, Indra as the Sun, "eats": he consumes the oblations. Or else, by this destruction is indicated: he destroys sins. Further, "of the other", the divine mother called Āditya, her offspring, the Āditya, she "licks", tasting, living on and nourishing, and "measures out" (मिमाय (*mimāya*)), creates: day after day she produces him in the eastern quarter. "By what existence", with what intention, by devotion or by fear? The "cow", heaven, because it is the support of water and because it drops it, "places" the Āditya, resembling an udder, that is, establishes him. Or else: as a cow holds its udder, so heaven bears the Āditya.
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 727. pp. 722-727 (batch API)
+**Progress note:** Done through printed p. 733. pp. 728-733 (batch API)
