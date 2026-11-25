@@ -13831,6 +13831,227 @@ Throughout days and nights let sacrificers offer the oblation to this Yama alone
 > आ । घ । ता । गच्छान् । उत्तरा । युगानि । यत्र । जामयः । कृणवन् । अजामि ।  
 > उप । बर्बृहि । वृषभाय । बाहुं । अन्यं । इच्छस्व । सुभगे । पतिं । मत् ॥ १० ॥
 
+### Printed p. 375
+#### Ṛk 10 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र येषु कालेषु जामयो भगिन्योऽजाम्यभ्रातरं पतिं कृणवन्
+> करिष्यंति ता तान्त्युत्तराणि युगानि कालविशेषा आ गच्छान् । आ गमिष्यंति । घेति
+> पूरणः । यस्मादेवं तस्माद्दे सुभगे त्वमिदानीं मन्मत्तोन्यं पतिं भर्तारमिच्छस्व ।
+> कामयस्व । तदनंतरं वृषभाय तव येनौ रेतः सेक्रे पुरुषायात्मीयं
+> बाहुमुप बर्बृहि । शयनकाल उपबर्हणं कुरु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that in the times when sisters (जामयः (*jāmayaḥ*)) will take as husbands men who are not brothers, those later ages, those special periods, will come. घ (*gha*) is an expletive. Since this is so, the auspicious one should now seek another husband than himself. After that she should make her arm a pillow (उपबर्हणं (*upabarhaṇaṃ*)) for the bull-like man, at the time of lying down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which times
+- जामयः (*jāmayaḥ*)—sisters
+- अजामि (*ajāmi*)—those who are not brothers
+- कृणवन् (*kṛṇavan*)—will make their husbands
+- ता (*tā*)—such
+- उत्तरा (*uttarā*)—coming later
+- युगानि (*yugāni*)—special periods
+- आ अगच्छान् (*ā agacchān*)—will arrive (therefore)
+- सुभगे (*subhage*)—O beautiful one
+- मत् (*mat*)—than me
+- अन्यं (*anyaṃ*)—another
+- पतिं (*patiṃ*)—as your husband
+- इच्छस्व (*icchasva*)—desire
+- वृषभाय (*vṛṣabhāya*)—for that powerful man
+- बाहुं (*bāhuṃ*)—your arm
+- उपबर्बृहि (*upabarbṛhi*)—make into a pillow
+
+##### भावार्थ (Bhāvārtha)
+
+O Yamī, the times will come when sisters will take as their husbands men who are not their brothers. Therefore, O beautiful one, desire and choose as your husband one other than me. Make your arm a pillow for that man, who has the power to fulfil your desire, and give him pleasure.
+
+##### English translation
+(Yama speaks). The subsequent ages will come, when sisters will choose one who is not a brother (as a husband); therefore, auspicious one. choose another husband than me, and make your arm a pillow for your mate.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the meaning of the word जामिः (*jāmiḥ*), Yāska has given this explanation of the Ṛk:
+आ घा ता गच्छानुत्तरा युगानि यत्र जामयः कृणवन्नजामि। उप बर्ब्बहि वृषभाय बाहुमन्यमिच्छस्व सुभगे पतिं मत्॥ आगमिष्यति तान्युत्तराणि युगानि यत्र जामयः करिष्यंत्यजामिकर्माणि । जाम्यतिरेकनाम। (*ā ghā tā gacchānuttarā yugāni yatra jāmayaḥ kṛṇavannajāmi| upa barbbahi vṛṣabhāya bāhumanyamicchasva subhage patiṃ mat‖ āgamiṣyati tānyuttarāṇi yugāni yatra jāmayaḥ kariṣyaṃtyajāmikarmāṇi | jāmyatirekanāma|*)
+
+### Printed p. 376
+बालिशस्य ना । असमानजातीयस्य वोपजनः । उपधेहि वृषभाय बाहुमन्यमिच्छस्व सुभगे पतिं मदिति व्याख्यातं ॥ (*bāliśasya nā | asamānajātīyasya vopajanaḥ | upadhehi vṛṣabhāya bāhumanyamicchasva subhage patiṃ maditi vyākhyātaṃ ‖*) (Ni. 4-20)
+
+The word जामि (*jāmi*) has the meaning "kinsman", and it also has the meaning "sister" and "fool". अजामि (*ajāmi*) means an act done by those who are not kinsmen, an action practised mutually. That is, before marriage the bridegroom and the bride have no relationship at all: the bride's family is one, the bridegroom's another. It is the custom that people of different families choose each other and marry. This kind of act too is called जामि (*jāmi*). अजामि (*ajāmi*) means the act opposite to it: where the bride and groom belong to the same family, and moreover are brother and sister, their marriage is forbidden. This kind of forbidden act is called अजामि (*ajāmi*). In the present Ṛk it is indicated that the time will come when brothers and sisters perform this forbidden act of sexual union. That is, now (in the seer's time) sexual union between brother and sister is forbidden. "Later and later" means that in the future, in the Kali age, people will abandon such good conduct and, wilfully, become attached to the forbidden act of union between brothers and sisters. Such a time will come. Therefore, O beautiful one, the seer describes: leave me, take as your husband another man who will satisfy you with the pleasure of love, give him shelter on the pillow of your arm, and enjoy the pleasure of love with him.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं भ्राता॑स॒द्यद॑ना॒थं भवा॑ति॒ किमु॒ स्वसा॒ यन्निर्य॑तिर्नि॒गच्छा॑त् ।  
+> काम॑मूता ब॒ह्वे॒३॒॑तद्र॑पामि त॒न्वा॑ मे त॒न्वं१॒॑१सं पि॑पृग्धि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । भ्राता । आसत् । यत् । अनाथं । भवाति । किं । ऊं इति ; स्वसा । यत् ।  
+> निःऋतिः । निगच्छात् ।  
+> काममूता । बहु । एतत् । रपामि । तन्वा । मे । तन्वं । सं । पिपृग्धि ॥ ११ ॥
+
+### Printed p. 377
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमी यमेन प्रत्याख्याता पुनराह । यद्यस्मिन्भ्रातरि सति स्वसादिकमनाथं नाथरहितं भवति स भ्राता किमसत् । किं भवति । न भवतीत्यर्थः । किंच यस्यां
+> भगिन्यां सत्यां भ्रातरं निर्ऋतिर्दुःखं निगच्छात् नियमेन गच्छति प्राप्नोति सा
+> स्वसा किमु । किं वा भवति । भ्रातृभगिन्योश्च परस्परं प्रीतिर्येन केनचिदुपायेनावश्यं कार्येत्यभिप्रायः । साहं काममूता कामेन मूर्छिता सती बहुनानाप्रकारमेतदीदृशमुक्तं वक्ष्यमाणं च रपामि । प्रलपामि । एतज्ञात्वा
+> मे मम तन्ना शरीरेण तन्नं शरीरं सं पिपृग्धि । संपर्चय । संभोगेन
+> संश्लेषय । मां सम्यग्भुंक्षेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Yamī, refused by Yama, speaks again. Is he a brother (भ्राता (*bhrātā*)) when, he being there, a sister and the rest are left without protector? He is not. And is she a sister when, she being there, misfortune (निर्ऋतिः (*nirṛtiḥ*), sorrow) surely comes to the brother? The intention is that love between brother and sister must be maintained by some means or other. Overcome by desire, she says all this and what is yet to be said, and prattles. Knowing this, let him unite his body with hers, join her in enjoyment; the meaning is "enjoy me fully".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् असत् (*yat asat*)—when there is a brother
+- अनाथं भवाति (*anāthaṃ bhavāti*)—the sister is without protector
+- भ्राता किं (*bhrātā kiṃ*)—is he truly called a brother?
+- यत् (*yat*)—when there is a sister
+- निर्ऋतिः (*nirṛtiḥ*)—sorrow
+- निगच्छात् (*nigacchāt*)—reaches the brother and torments him
+- स्वसा किमु (*svasā kimu*)—is she truly called a sister? (O Yama)
+- कामभूता (*kāmabhūtā*)—tormented by desire **NOTE**
+- बहु (*bahu*)—in many ways
+- एतत् (*etat*)—in this form of entreaty
+- रपामि (*rapāmi*)—I am begging
+- मे (*me*)—my
+- तन्वा (*tanvā*)—with body
+- तन्वं (*tanvaṃ*)—your body
+- सं पिपृग्गि (*saṃ pipṛggi*)—join and enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O Yama, is he truly called a brother when, he being there, the sister is without protector? Is she truly called a sister when, she being there, sorrow torments the brother? Tormented by desire, I am begging in many ways in this form of entreaty. Join your body with my body and enjoy.
+
+##### English translation
+(Yami speaks). Is he a brother whose sister has no supporter in her brother ? Is she a sister who will allow (her brother) to approach misfortune? Overcome by desire, I strongly urge this one request ; unite your person with mine-
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वा उ॑ ते त॒न्ना॑ त॒न्नं१॒॑ १ सं प॑पृच्यां पा॒पमा॑हु॒र्यः  
+> स्वसा॑रं नि॒गच्छा॑त् ।
+
+### Printed p. 378
+
+> अन्येन मत्प्रमुदः कल्पयस्व न ते भ्राता सुभगे वष्ट्येतत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वै । ऊं इति । ते । तन्ना । तन्नं । सं । पपृच्यां । पापं । आहुः । यः । स्वसारं।  
+> निगच्छत् :  
+> अन्येन । मत् । प्रमुदः । कल्पयस्व । न । ते । भ्राता । सुभगे । वष्टि । एतत् ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमो यमीं प्रत्युक्तवान् । हे यमि ते तव तन्ना शरीरेण तन्नमात्मीयं शरीरं न वै सं पपृच्यां । नैव संपर्चयामि। नैवाहं त्वां संभोक्तुमिच्छामीत्यर्थः । यो भ्राता स्वसारं भगिनीं निगच्छात् नियमेनोपगच्छति ।
+> संभुंक्ते इत्यर्थः । तं पापं पापकारिणमाहुः । शिष्टा वदंति । एतज्ञात्वा हे
+> सुभगे सुष्टु भजनीये हे यमि त्वं मन्मत्तोऽन्येन त्वद्योगेन पुरुषेण सह
+> प्रमुदः संभोगलक्षणान्हर्षान्कल्पयस्व । समर्थय । ते तव भ्राता यम
+> एतदीदृशं त्वया सह मैथुनं कर्तुं न वष्टि । न कामयते । नेच्छति ॥
+
+##### Gist of the bhāṣya
+
+Yama replies to Yamī. O Yamī, he will not unite his own body with her body; he does not wish to enjoy her. The brother who approaches a sister, who goes to her and enjoys her, the wise call a sinner. Knowing this, O fortunate one, let her find the joys of union with a man other than himself, one suited to her. Her brother Yama does not desire such intercourse with her.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your (O Yamī)
+- तन्ना (*tannā*)—with body
+- तन्नं (*tannaṃ*)—my body
+- न वै सं पपृच्यां (*na vai saṃ papṛcyāṃ*)—I certainly will not unite
+- यः (*yaḥ*)—the brother who
+- स्वसारं (*svasāraṃ*)—his own sister
+- निगच्छात् (*nigacchāt*)—approaches (him)
+- पापं (*pāpaṃ*)—as a sinner
+- आहुः (*āhuḥ*)—the wise call
+- सुभगे (*subhage*)—O beautiful one
+- मत् (*mat*)—than me
+- अन्येन (*anyena*)—together with another man
+- प्रमुदः (*pramudaḥ*)—many kinds of pleasures
+- कल्पयस्व (*kalpayasva*)—obtain
+- ते (*te*)—your
+- भ्राता (*bhrātā*)—I, the brother
+- एतत् (*etat*)—this relationship
+- न वष्टि (*na vaṣṭi*)—do not desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Yamī, I will certainly not unite my body with your body. The wise call a brother who approaches his sister a sinner. O beautiful one, unite with a man other than me and obtain many kinds of pleasure. I, your brother, do not desire this relationship.
+
+### Printed p. 379
+
+##### English translation
+(Yama speaks). I will not unite my persons with yours ; they call
+him who approaches a sister, a sinner. Enjoy pleasure with some other
+than me ; your brother, auspicious one, has no such desire
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒तो ब॑तासि यम॒ नैव ते॒ मनो॒ हृद॑यं चाविदाम ।  
+> अ॒न्या किल॒ त्वां क॒क्ष्ये॑व यु॒क्तं परि॑ ष्वजाते॒ लिबु॑जीव वृ॒क्षं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बतः । बत । असि । यम । न । एव । ते । मनः । हृदयं । च । अविदाम ।  
+> अन्या । किल । त्वां । कक्ष्या इव । युक्तं । परि । स्वजाते । लिबुजाइव । वृक्षं ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यमी प्रत्युवाच । हे यम त्वं बतो दुर्बलोऽसि । बतेति निपातः
+> खेदानुकंपयोः । अनुकंप्यश्चासि । ते त्वदीयं मनो मनोगतं संकल्पं हृदयं च बुद्धिगतमध्यवसायं च नैवाविदाम । वयं न जानीम एव । मत्तोऽन्या
+> काचित्स्ने त्वां परि ष्वजाते किल । तत्र दृष्टांतद्वयमुच्यते । कक्षेव युक्तं
+> यथा कक्ष्या रज्जुर्युक्तमात्मना संबद्धमश्व परिष्वजते तद्वत् । लिबुजीव वृक्षं
+> यथा लिबुजा व्रततिर्गाढं वृक्षं परिष्वजते तद्वच्च । अन्यस्यां स्त्रियामासक्तस्वं
+> मां परिष्वक्तुं नेच्छसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Yamī answers. O Yama, you are feeble (बतः (*bataḥ*)); बत (*bata*) is a particle (निपातः (*nipātaḥ*)) of distress and pity, and you are an object of pity. We do not know your mind, the intention lodged in it, nor your heart, the resolve lodged in the intellect. Some woman other than me embraces you. Two illustrations are given: as a girth (कक्ष्या (*kakṣyā*)), a rope, embraces the horse yoked to it and bound to itself; and as a creeper (लिबुजा (*libujā*)) firmly embraces a tree. The meaning is: "you, attached to another woman, do not wish to embrace me."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यम (*yama*)—O Yama
+- बत (*bata*)—certainly (you)
+- बतः (*bataḥ*)—feeble
+- असि (*asi*)—are
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- हृदयं च (*hṛdayaṃ ca*)—and heart
+- नैव अविदाम (*naiva avidāma*)—we certainly cannot know
+- कक्ष्या इव (*kakṣyā iva*)—as a rope ties the horse that is yoked to it
+- लिबुजा इव (*libujā iva*)—as a creeper embraces a tree
+- अन्या किल (*anyā kila*)—another woman
+- त्वां (*tvāṃ*)—you
+- परि ष्वजाते (*pari ṣvajāte*)—embraces
+
+### Printed p. 380
+
+##### भावार्थ (Bhāvārtha)
+
+O Yama, you are certainly feeble. We certainly cannot know your mind or your heart. As a rope ties the horse that is yoked to it, and as a creeper embraces a tree, another woman embraces you.
+
+##### English translation
+(Yami speaks). Alas, Yama, you are feeble ; we understand not your mind or your heart. Some other female embraces you as a girth a horse, or as a creeper a tree.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the meaning of the word बतः (*bataḥ*), Yāska has given the explanation of the present Ṛk:
+बत इति निपातः खेदानुकंपयोः । बतो बतासि यम नैव ते मनो हृदयं चाविदाम । अन्या किल त्वां कक्ष्येव युक्तं परिष्वजाते लिबुजीव वृक्षं ॥ बतो बलाददीतो भवति । दुर्बलो बतासि यम नैव ते मनो हृदयं च विजानीमोऽन्या किल त्वां परिष्वंक्ष्यते कक्ष्येव युक्तं लिबुजीव वृक्षं । लिबुजा व्रततिर्भवति लीयते विभजंतीति । व्रततिर्वणाच्च संयनाच्च ततनाच्च ॥ (*bata iti nipātaḥ khedānukaṃpayoḥ | bato batāsi yama naiva te mano hṛdayaṃ cāvidāma | anyā kila tvāṃ kakṣyeva yuktaṃ pariṣvajāte libujīva vṛkṣaṃ ‖ bato balādadīto bhavati | durbalo batāsi yama naiva te mano hṛdayaṃ ca vijānīmo 'nyā kila tvāṃ pariṣvaṃkṣyate kakṣyeva yuktaṃ libujīva vṛkṣaṃ | libujā vratatirbhavati līyate vibhajaṃtīti | vratatirvaṇācca saṃyanācca tatanācca ‖*) (Ni. 6-28)
+
+The word बत (*bata*) is a particle (an indeclinable) expressing sorrowful wonder, or distress and pity. O Yama, your mind is not firm; it is very weak. That is, there is no steadiness of mind. We cannot understand your mind as being right in this way. Alas, what pain! As a creeper winds round the tree near it, another woman will clasp you tightly with her arms. To see and bear this is very painful. लिबुजा (*libujā*) means a kind of creeper. It winds round, spreading its tendrils all over the tree. Because it divides or spreads and joins itself to the tree in this way, लिबुजा (*libujā*) is the name of the व्रतति (*vratati*), the creeper. Likewise the word प्रतति (*pratati*) too may be formed from the root वृ (*vṛ*), meaning "choose the tree one wants", or from the root सि (*si*), meaning "bind round", or from the root तनु (*tanu*), meaning "spread all round". This word means creeper, vine.
+
 ---
 
-**Progress note:** Done through printed p. 374. pp. 369-374 (batch API)
+**Progress note:** Done through printed p. 380. pp. 375-380 (batch API)
