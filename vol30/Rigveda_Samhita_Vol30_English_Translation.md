@@ -35724,6 +35724,319 @@ O Agni, नक्षत्रं (*nakṣatraṃ*) is the one who constantly goe
 - दिवि (*divi*)—in the sky
 - आ रोहयः (*ā rohayaḥ*)—you have established on high [or: नक्षत्रं (*nakṣatraṃ*)—the host of constellations beginning with Kṛttikā; आ रोहयः (*ā rohayaḥ*)—you have established]
 
+### Printed p. 1055
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, so that all creatures may be able to go about their own affairs, you have set the Sun in the upper region of the firmament to make light everywhere. The Sun is ever on the move, shines evenly without waxing or waning, and impels all. Or else you have set the constellations beginning with Kṛttikā there as well.
+
+##### English translation
+You, Agni. have elevated the imperishable planet, the Sun, in the firmament, giving light to the people.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ के॒तुर्वि॒शाम॑सि॒ प्रेष्ठः॒ श्रेष्ठ॑ उपस्थ॒सत् ।  
+> बोधा॑ स्तो॒त्रे वयो॒ दध॑त् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । केतुः । विशां । असि । प्रेष्ठः । श्रेष्ठः । उपस्थसत् ।  
+> बोध । स्तोत्रे । वयः । दधत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विशां प्रजानां यजमानानां केतुः केतयितासि । ज्ञापयिता
+> भवसि । अत एव प्रेष्ठः प्रियतमः श्रेष्ठः प्रशस्यतमश्च भवसि । स त्वमुपस्थसदुपस्थाने
+> यज्ञगृहे निषीदन्नोध । अस्मदीयं स्तोत्रमवगच्छ । किं कुर्वन् । स्तोत्रे स्तुवते
+> जनाय वयोऽन्नं दधद्विदधत् कुर्वन् प्रयच्छन् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are the *ketu* of the people, that is, of the sacrificers: you cause them to know, you make them aware. For that very reason you are the dearest and the most praiseworthy. Such as you are, seated at the place of sacrifice (*upastha*), the sacrificial house, attend to our praise. What are you to do? Giving food to the one who praises you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni, you
+- विशां (*viśāṃ*)—to the people, the sacrificers and others
+- केतुः (*ketuḥ*)—a banner-like one, or one who makes known
+- असि (*asi*)—you are (therefore)
+- श्रेष्ठः (*śreṣṭhaḥ*)—worthy of love and regard **NOTE**
+- श्रेष्ठः (*śreṣṭhaḥ*)—most praiseworthy (such as you are)
+- उपस्थसत् (*upasthasat*)—seated in the sacrificial house
+- स्तोत्रे (*stotre*)—to the person who praises you
+- वयः (*vayaḥ*)—food
+- दधत् (*dadhat*)—providing
+- बोध (*bodha*)—understand (hear) the praise we make
+
+### Printed p. 1056
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are a banner-like one, or one who makes known, to all the people, the sacrificer and the rest. You are also praiseworthy and worthy of love and regard. Seated in the sacrificial house, providing food and the like to the people who praise you, hear and understand the praises we make.
+
+##### English translation
+You, Agni, are the best beloved and most excellent benner of the people; understand (our praise) giving food to the praiser.
+
+## Sūkta 157 (Maṇḍala 10)
+The hundred and fifty-seventh sūkta
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमा नु कमिति पंचर्चं षष्ठं सूक्तमप्त्यपुत्रस्य भुवनस्यार्षं भुवनपुत्रस्य साधनसंज्ञस्य वा वैश्वदेवं । सर्वा द्विपदास्त्रिष्टुभः । तथा चानुक्रांतं ।
+> इमा नु भुवन आप्त्यः साधनो ना भौवनो वैश्वदेवं दैपदं त्रैष्टुभमिति ॥
+> दशरात्रस्य द्वितीये छंदोमे वैश्वदेवशस्त्रे वैश्वदेवान्नि विद्धानात्पूर्वमिदं
+> शंसनीयं । सूत्रितं च । आ याहि वनसेमा नु कं बभ्रुरेक इति द्विपदासूक्तानि ।
+> आ. ८-७ । इति ॥ षष्ठेऽहनि तृतीये सवने ब्राह्मणाच्छंसिन उक्ष्यशस्त्र आद्यस्तृचः
+> स्तोत्रियः । ततो द्वे अनुरूपार्थे । सूत्रितं च । ब्राह्मणाच्छंसिन इमा नु कं
+> भुवना सीषधामेति पंच । आ. ८-३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta इमा नु कं (*imā nu kaṃ*) is the sixth sūkta, of five ṛks. Its seer is Bhuvana, son of Āptya, or else Sādhana by name, son of Bhuvana. Its deity is the Viśvedevas; all the ṛks are *dvipadā triṣṭubh*. The Anukramaṇī is quoted accordingly: इमा नु भुवन आप्त्यः साधनो ना भौवनो वैश्वदेवं दैपदं त्रैष्टुभमिति ॥ (*imā nu bhuvana āptyaḥ sādhano nā bhauvano vaiśvadevaṃ daipadaṃ traiṣṭubhamiti ‖*). Use: in the Vaiśvadeva śastra of the second Chandoma of the Daśarāta, this sūkta is to be recited before the insertion of the nivid. It is given in the sūtra आ याहि वनसेमा नु कं बभ्रुरेक इति द्विपदासूक्तानि (*ā yāhi vanasemā nu kaṃ babhrureka iti dvipadāsūktāni*) (Ā. 8-7). On the sixth day, at the third savana, in the Ukthya śastra of the Brāhmaṇācchaṃsin, the first three ṛks serve as the Stotriya Tṛca, and the next two are the Anurūpa verses. It is given in the sūtra ब्राह्मणाच्छंसिन इमा नु कं भुवना सीषधामेति पंच (*brāhmaṇācchaṃsina imā nu kaṃ bhuvanā sīṣadhāmeti paṃca*) (Ā. 8-3).
+
+##### Anuvāda
+
+This sūkta इमा नु कं (*imā nu kaṃ*) is the sixth sūkta in the twelfth anuvāka. It has five ṛks. Its seer is Bhuvana, son of Āptya, or else Sādhana, son of Bhuvana. The deities are the Viśvedevas. All the ṛks of this sūkta are in the metre *dvipadā triṣṭubh*. In the Anukramaṇī it is said: इमा नु कं भुवन आप्तः साधनो वा भौवनो वैश्वदेवं दैपदं त्रैष्टुभं (*imā nu kaṃ bhuvana āptaḥ sādhano vā bhauvano vaiśvadevaṃ daipadaṃ traiṣṭubhaṃ*). This sūkta is to be recited, in the second Chandoma of the sacrifice called Daśarātra, before the nivid-sūkta that is inserted among the mantras of the Vaiśvadeva śastra when they are recited; this is expounded in the Āśvalāyana Śrauta Sūtra by the sūtra आ याहि वनसेमा नु कं बभ्रुरेक इति द्विपदासूक्तानि (*ā yāhi vanasemā nu kaṃ babhrureka iti dvipadāsūktāni*) (Ā. 8-7). On the sixth day of the sacrifice, at the time of the third savana, among the Ukthya-śastra mantras to be recited by the priest called Brāhmaṇācchaṃsin,
+
+### Printed p. 1057
+
+the first three ṛks of this sūkta are to be recited as the Stotriya Tṛca and the next two (ṛks 4–5) as Anurūpa ṛks; this is expounded in the Āśvalāyana Śrauta Sūtra by the sūtra ब्राह्मणाच्छंसिन इमा नु कंभुवना सीषधामेति पंच (*brāhmaṇācchaṃsina imā nu kaṃbhuvanā sīṣadhāmeti paṃca*) (Ā. 8-3).
+
+##### Particulars
+
+- Maṇḍala 10; Anuvāka 12; Sūkta 157
+- Aṣṭaka 8; Adhyāya 8; Varga 15
+- Number of ṛks in the sūkta: 5
+- Ṛṣi: भुवन आप्त्यः साधनो वा भावनः (*bhuvana āptyaḥ sādhano vā bhāvanaḥ*)
+- Deity: विश्वेदेवाः (*viśvedevāḥ*)
+- Metre: द्विपदा त्रिष्टुप् (*dvipadā triṣṭup*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा नु कं॒ भुव॑ना सीषधा॒मेंद्र॑श्च॒ विश्वे॑ च दे॒वाः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमा । नु । कं । भुवना । सीसधाम । इंद्रः । च । विश्वे । च । देवाः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमेमानि प्रदृश्यमानानि धुवना भुवनानि नु क्षिप्रं सीषधाम । साधयामः ।
+> वशीकुर्मः । कमिति पूरकः । यद्वा । इमानि सर्वाणि भूतजातान्यस्मभ्यं कं सुखं
+> सीषधाम । साधयंतु ॥ पुरुषव्यत्ययः ॥ इंद्रश्च विश्वे सर्वॆऽन्ये देवाश्च स्तुत्या
+> प्रीता इममर्थं साधयंतु ॥
+
+##### Gist of the bhāṣya
+
+These visible worlds we shall quickly accomplish, bring under our control; कं (*kaṃ*) is a filler. Or else: may all these beings accomplish happiness for us (a change of person). And may Indra and all the other gods, pleased by praise, accomplish this aim.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमा (*imā*)—these (worlds) that we see
+- भुवना (*bhuvanā*)—the worlds
+- नु (*nu*)—quickly
+- सीषधाम (*sīṣadhāma*)—let us bring under control
+- [Or इमा (*imā*)—these; भुवना (*bhuvanā*)—all the classes of beings (for us); नु (*nu*)—quickly; कं (*kaṃ*)—happiness; सीसधाम (*sīsadhāma*)—may they accomplish]
+- इंद्रः च (*iṃdraḥ ca*)—and Indra
+- विश्वे च देवाः (*viśve ca devāḥ*)—and all the other gods, pleased by our praise, may they approve this
+
+##### भावार्थ (Bhāvārtha)
+
+Let us quickly bring under our control all these worlds that we see. Or else, may all these classes of beings (living creatures)
+
+### Printed p. 1058
+
+quickly accomplish happiness for us. May Indra and all the other gods accomplish this wish of ours.
+
+##### English translation
+May we, along with Indra and the universal gods, possess all these worlds.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञं च॑ नस्त॒न्वं॑ च प्र॒जां चा॑दि॒त्यैरिंद्रः॑ स॒ह ची॑क्लपाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञं । च । नः । तन्वं । च । प्रजां । च । आदित्यैः । इंद्रः । सह । चीक्लृपाति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं यज्ञं ज्योतिष्टोमादिकं यागं तन्नं शरीरं च प्रजां।
+> पुत्रादिकां चादित्यैरदितिपुत्रैरन्यैर्देवैः सह वर्तमान इंद्रश्चीक्ष्लपाति । कल्पयतु।
+> यज्ञादिकं स्वव्यापारसमर्थं करोतु ॥
+
+##### Gist of the bhāṣya
+
+May Indra, accompanied by the Ādityas, the sons of Aditi, and by the other gods, put in order (*kalpayatu*) our sacrifice, the Jyotiṣṭoma and the rest, our body, and our offspring, sons and so on. May he make the sacrifice and the rest capable of their own functions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- आदित्यैः (*ādityaiḥ*)—with the other gods, the sons of Aditi
+- सह (*saha*)—together
+- नः (*naḥ*)—our
+- यज्ञं (*yajñaṃ*)—the sacrifice, the Jyotiṣṭoma and the rest
+- तन्वं च (*tanvaṃ ca*)—and the body
+- प्रजां च (*prajāṃ ca*)—and the offspring, sons and so on
+- चीक्लृपाति (*cīklṛpāti*)—may he make capable in their own functions
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, together with the other gods, the sons of Aditi, make our sacrifice, our body and our offspring capable in their own functions (may he make them prosper).
+
+##### English translation
+May Indra with the Adityas perfect our sacrifice and our bodies and our offspring.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्यैरिंद्रः॒ सग॑णो म॒रुद्भि॑र॒स्माकं॑ भूत्ववि॒ता त॒नूनां॑ ॥३॥
+
+### Printed p. 1059
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्यैः । इंद्रः । सगणः । मरुत्भिः । अस्माकं । भूतु । अविता । तनूनां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यैरदितिपुत्रैर्मित्रादिभिर्मरुद्भिश्च सगणः सहित इंद्रोऽस्माकं तनूनां
+> शरीराणां तनयानां नाविता भूतु । रक्षिता भवतु ॥
+
+##### Gist of the bhāṣya
+
+May Indra, together with his host (*sagaṇa*), accompanied by the Ādityas, the sons of Aditi, Mitra and the rest, and by the Maruts, be the protector of our bodies, that is, of our sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यैः (*ādityaiḥ*)—and by the gods Mitra and the rest, the sons of Aditi
+- मरुद्भिः सगणः (*marudbhiḥ sagaṇaḥ*)—accompanied by the hosts of the Maruts
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्माकं (*asmākaṃ*)—our
+- तनूनां (*tanūnāṃ*)—of the bodies or of the sons
+- अविता (*avitā*)—as protector
+- भूतु (*bhūtu*)—let him be
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, accompanied by the gods Mitra and the rest, the sons of Aditi, and by the hosts of the Maruts **NOTE**, be the protector of our bodies or of our sons.
+
+##### English translation
+May Indra with the Adityas, and attended by the Maruts be the protector of our bodies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒त्वा य॑ दे॒वा असु॑रा॒न्यदाय॑न्दे॒वा दे॑व॒त्वम॑भि॒रक्ष॑माणाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हत्वाय । देवाः । असुरान् । यत् । आयन् । देवाः । देवत्वं । अभिरक्षमाणाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा इंद्रादयोऽसुरान् क्षेप्त्वान्वृत्रादीन्हत्वाय हत्वा विनाश्य यद्यदायन् आगच्छन् स्वकीयं स्थानं प्राप्नुवन् तदानीं ते देवा देवत्वमात्मीयममृतत्वमभिरक्षमाणा अभितः सर्वतो रक्षंतोऽभूवन् । बाधकाभावात्सर्वत्र प्रख्यापितवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The gods, Indra and the others, having cast down and slain the asuras, Vṛtra and the rest, when they came, that is, reached their own place, then those gods, guarding on every side their own divinity, their immortality, were established. Because there was no obstructor, the meaning is that they became famous everywhere.
+
+### Printed p. 1060
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods, Indra and the others
+- असुरान् (*asurān*)—the asuras, Vṛtra and the rest
+- हत्वाय (*hatvāya*)—having destroyed
+- यत् (*yat*)—when
+- आयन् (*āyan*)—they came to their own places, then
+- देवाः (*devāḥ*)—those gods
+- देवत्वं (*devatvaṃ*)—the deathless divine station (having obtained it)
+- अभिरक्षमाणाः (*abhirakṣamāṇāḥ*)—became ones who guard it
+
+##### भावार्थ (Bhāvārtha)
+
+When the gods, Indra and the others, destroyed the asuras, Vṛtra and the rest, and returned to their own places, those gods made their deathless divine station secure and became famous. Being without enemies, they also became able to protect their station.
+
+##### English translation
+When the gods returned (home), after slaying the Asuras. (then were) the deities protecting their divinity.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the gods had destroyed the asuras and left themselves without any enemy, the name "gods" became meaningful for them. Being without enemies, they had no fear at all, and they became deathless. The meaning is that they went on guarding this divine station in the future too, that is, kept it.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒त्यंच॑म॒र्कम॑नय॒ञ्छ ची॑भि॒रादित्स्व॒धामि॑षि॒रां पर्य॑पश्यन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रत्यंचं । अर्कं । अनयन् । शचीभिः । आत् । इत् । स्वधां । इषिरां । परि । अपश्यन्॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शचीभिः कर्मभिः परिचरणात्मकैः सार्धमर्कमर्चनसाधनं स्तोत्रं प्रत्यंचमिंद्रादीन्प्रत्यंचदनयन् । स्तोतारः प्रापयन् । यदैवं आदिदनंतरमेवेषिरां
+> गमनशीलं स्वधां वृष्ट्युदकं पर्यपश्यन् । सर्वे जनाः परितः पश्यंति । यद्वा ।
+> इषिरामेषणीयां स्वधां! अन्ननामैतत्। हविर्लक्षणमन्नं सर्वे देवाः परिपश्यंति ॥
+
+##### Gist of the bhāṣya
+
+Together with the *śacī*s, the acts of service, the singers brought the *arka*, the praise that is the instrument of worship, toward (*pratyañc*) Indra and the others. When this is so, immediately after, all people look around at the swift-moving *svadhā*, the rain-water. Or else: *iṣirā* means desirable; *svadhā* is a name for food, and all the gods look at the food in the form of the oblation.
+
+### Printed p. 1061
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीभिः (*śacībhiḥ*)—accompanied by acts of service
+- अर्कं (*arkaṃ*)—the praise
+- प्रत्यंचं (*pratyaṃcaṃ*)—so as to reach Indra and the other gods
+- अनयन् (*anayan*)—when the singers conveyed (made) it
+- आश् इत् (*āś it*) **NOTE**—then, that is, afterwards (all the people)
+- इषिरां (*iṣirāṃ*)—falling
+- स्वधां (*svadhāṃ*)—the rain-water
+- परि अपश्यन् (*pari apaśyan*)—looked around
+- [Or इषिरां (*iṣirāṃ*)—desired; स्वधां (*svadhāṃ*)—the food in the form of the oblation; परि अपश्यन् (*pari apaśyan*)—the gods looked]
+
+##### भावार्थ (Bhāvārtha)
+
+After the singers made their praise, accompanied by service, reach the gods Indra and the others, they (as the result of it) saw the streams of rain pouring down all around. Or else the gods looked at the food, oblations and the like, that the singers offer.
+
+##### English translation
+When (the worshippers) with their pious acts offered praise in honour (of the gods) then (men) beheld around them the swift descending rain.
+
+##### विशेषविषयगळु (Special Topics)
+
+After people offered Indra and the other gods service of various kinds, rain fell as its fruit, and the people saw it. Or else the main idea is that the gods saw people offering them oblations and other food together with praise and the like.
+
+## Sūkta 158 (Maṇḍala 10)
+The hundred and fifty-eighth sūkta
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्य इति पंचर्चं सप्तमं सूक्तं सूर्यपुत्रस्य चक्षुःसंज्ञस्यार्षं
+> सूर्यदेवत्यं गायत्रं । तथा चानुक्रांतं । सूर्यो नश्चक्षुः सौर्यः सौर्यं
+> गायत्रमिति ॥ आश्विनशस्त्रे सूर्योदयादुत्तरकाले सौर्यकांड इदं सूक्तं ।
+> सूत्रितं च । सूर्यो नो दिव उदु त्यं जातवेदसमिति नव । आ. ६-५ । इति ॥ दर्शपूर्णमासयोः स्सुगादापनात्तूर्वभाविनि जपे सूर्यो न इत्येषा । सूत्रितं च ।
+> सूर्यो नो दिवस्पातु नमो महद्यो नमो अर्भकेभ्यः । आ. १-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta सूर्य (*sūrya*) is the seventh sūkta, of five ṛks. Its seer is Cakṣus, son of Sūrya; its deity is Sūrya; its metre is Gāyatrī. The Anukramaṇī is quoted: सूर्यो नश्चक्षुः सौर्यः सौर्यं गायत्रमिति (*sūryo naścakṣuḥ sauryaḥ sauryaṃ gāyatramiti*). Use: in the Āśvina śastra, after sunrise, in the Saurya section, this sūkta is used. It is given in the sūtra सूर्यो नो दिव उदु त्यं जातवेदसमिति नव (*sūryo no diva udu tyaṃ jātavedasamiti nava*) (Ā. 6-5). In the Darśapūrṇamāsa, in the *japa* **NOTE** the ṛk सूर्यो न (*sūryo na*) is used. It is given in the sūtra सूर्यो नो दिवस्पातु नमो महद्यो नमो अर्भकेभ्यः (*sūryo no divaspātu namo mahadyo namo arbhakebhyaḥ*) (Ā. 1-4).
+
+##### Anuvāda
+
+This sūkta सूर्यः (*sūryaḥ*) is the seventh sūkta in the twelfth anuvāka. It has five ṛks. Its seer is Cakṣus, son of Sūrya; Sūrya is
+
 ---
 
-**Progress note:** Done through printed p. 1054. pp. 1049-1054 (batch API)
+**Progress note:** Done through printed p. 1061. pp. 1055-1061 (batch API)
