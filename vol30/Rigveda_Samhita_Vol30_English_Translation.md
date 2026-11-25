@@ -11633,6 +11633,244 @@ These spoke first about Brahma's sin, the boundless (sun), the water-god (Varuna
 
 बृहस्पतेः किल्बिषे पापे जुहूर्दौर्भाग्यरूपे विषये ते देवाः अवदन् ॥ (*bṛhaspateḥ kilbiṣe pāpe juhūrdaurbhāgyarūpe viṣaye te devāḥ avadan ‖*). Bṛhaspati's sin turned into ill-fortune for his wife, the goddess Juhū, and in the matter of her having been abandoned by her husband the gods spoke in this way. Here ते (*te*) is said to mean the gods. Who are those gods? प्रथमाः (*prathamāḥ*): the foremost ones. Who are they? अकूपारः (*akūpāraḥ*): आदित्योऽकूपार उच्यतेऽकूपारो भवति दूरपारः (*ādityo 'kūpāra ucyate 'kūpāro bhavati dūrapāraḥ*) (Ni. 4-18). The Āditya is called Akūpāra. Because this Āditya travels in the sky for a very great distance (from east to west), the Āditya is called Akūpāra.
 
+### Printed p. 313
+
+सलिलः (*salilaḥ*)—salila means water; here, Varuṇa, the deity presiding over water.
+
+मातरिश्वा (*mātariśvā*)—the wind. Yāska says: मातरिश्वा वायुर्मातर्यंतरिक्षे श्वसिति मातर्याश्वनितीति (*mātariśvā vāyurmātaryaṃtarikṣe śvasiti mātaryāśvanitīti*) (Ni. 7-26). Because it pervades the atmosphere, or because it moves swiftly, the wind is called Mātariśvā.
+
+वीळुहराः तप उग्रः (*vīḷuharāḥ tapa ugraḥ*)—हरति विनाशयति तमांसीति हरस्तेजः प्रभूततेजस्कः (*harati vināśayati tamāṃsīti harastejaḥ prabhūtatejaskaḥ*). Because he destroys darkness with his light, and because he is very fierce by nature through his heat, the word Vīḷuharāḥ here denotes Agni. तपः तपसा उग्र उद्धूर्णोऽग्निः (*tapaḥ tapasā ugra uddhūrṇo 'gniḥ*).
+
+मयोभूः (*mayobhūḥ*)—maya means happiness; the one who produces that happiness, that is, who gives happiness or joy to those who drink him, is Soma.
+
+आपः देवीः प्रथमजा ऋतेन (*āpaḥ devīḥ prathamajā ṛtena*)—the divine ones born first, produced in the beginning by Brahman, who is truth: the deities presiding over water. The Śruti and Smṛti say that when Brahmā created in the beginning, he created water before everything else. The sentences आपो वा इदमासन् सलिलमेव (*āpo vā idamāsan salilameva*), आपो वा इदमग्रे सलिलमासीत् (*āpo vā idamagre salilamāsīt*) and अप एव ससर्जादौ (*apa eva sasarjādau*) support this.
+
+Hence the deities indicated by the word "te" at the beginning of this Ṛk are: Āditya, Varuṇa, Vāyu, Agni, Soma, the deity of the waters, and all the other deities. The main purport is that all of them consulted together, devised a fitting expiation to remove the ill fortune of Bṛhaspati's wife, which was a form of sin, freed her from the fault, and handed her back to Bṛhaspati.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॒ राजा॑ प्रथ॒मो ब्र॑ह्मजा॒यां पुनः॒ प्राय॑च्छ॒दहृ॑णीयमानः ।  
+> अ॒न्व॒र्ति॒ता वरु॑णो मि॒त्र आ॑सीद॒ग्निर्होता॑ हस्त॒गृह्या नि॑नायि॥
+
+### Printed p. 314
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । राजा । प्रथमः । ब्रह्मजायां । पुनरिति । प्र । अयच्छत् । अहृणीयमानः ।  
+> अनुऽर्तिता । वरुणः । मित्रः । आसीत् । अग्निः । होता । हस्तगृह्य । आ । निनाय॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमो मुख्यः सोमो राजाहृणीयमाणः । पापापगमनेनालज्जमानः ।
+> संस्तामेनामकिल्पिषां ब्रह्मजायां पुनर्बृहस्पतये प्रायच्छत् । ततो वरुणोऽन्वर्तिता ॥ ऋतिः सौत्रो धातुर्घृणायां वर्तते । तस्य तृचि रूपं ॥ सोमनुनुमोदयितासीत् । सर्वथा त्वं परिग्रहाणेति दयामकार्षित् । तथा मित्रश्च ।
+> अनंतरं होता देवानामाह्वाता मनुष्याणां होमनिष्पादको वाग्निर्हस्तगृह्य
+> तां हस्ते गृहीत्वा निनाय । आनैषीत् । प्रादादित्यर्थः ॥ हस्तगृह्य । नित्यं हस्ते
+> पाणावुपयमने । पा-१ ४-७७ । इति हस्तशब्दस्य गतिसंज्ञायां ग्रहिणा समासे
+> ल्यप् । एकारलोपश्चांदसः । यद्वा । हस्तशब्दात्परस्य गृहेश्छांदसौ समासल्यपौ ॥
+
+##### Gist of the bhāṣya
+
+Soma, the foremost and the king, not ashamed (अहृणीयमानः (*ahṛṇīyamānaḥ*) = not feeling shame at approaching the fault), gave back to Bṛhaspati this Brahman's wife, now free of sin. Then Varuṇa was the अन्वर्तिता (*anvartitā*): the root ऋतिः (*ṛtiḥ*) (sautra) is used in the sense of compassion; its form with *tṛc* is meant. He was the one who encouraged Soma, saying "Accept her in every way", and showed compassion; so too Mitra. Afterwards Agni, the Hotṛ, the summoner of the gods and accomplisher of the human homa, took her by the hand (हस्तगृह्य (*hastagṛhya*)) and led her; that is, he brought her, he gave her back. The rest of the block gives the formation of हस्तगृह्य (*hastagṛhya*) (grammar).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमः (*prathamaḥ*)—the chief
+- राजा (*rājā*)—the lord
+- सोमः (*somaḥ*)—Soma
+- अहृणीयमानः (*ahṛṇīyamānaḥ*)—without any hesitation, as the result of the removal of the fault
+- ब्रह्मजायां (*brahmajāyāṃ*)—Brahman's wife, the goddess Juhū
+- पुनः (*punaḥ*)—again
+- प्रायच्छत् (*prāyacchat*)—gave to her husband
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- अन्वर्तिता (*anvartitā*)—as the one who gave assent to this act
+- आसीत् (*āsīt*)—became
+- मित्रः (*mitraḥ*)—Mitra also approved
+- होता (*hotā*)—the accomplisher of the homa
+- अग्निः (*agniḥ*)—Agni
+- हस्तगृह्य (*hastagṛhya*)—taking her hand
+- आ निनाय (*ā nināya*)—brought her
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the chief lord, without any hesitation as the result of the removal of the fault, gave Juhū, the wife of Brahman, back to her husband. Varuṇa became the one who gave assent to this act. Mitra became the one who summons the gods. Agni took her by the hand and brought her.
+
+##### English translation
+First, the royal Soma, without being ashamed, rstored Brahma's wife (to Brihaspati), Varuna was the inviter, and Mitra, Agni as the ministrant priest taking her by the hand, led her (to her husband).
+
+### Printed p. 315
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हस्ते॑नै॒व ग्रा॒ह्य॑ आ॒धिर॑स्या ब्रह्मजा॒येयमिति॒ चेदवो॑चन् ।  
+> न दू॒ताय॑ प्र॒ह्ने॑ तस्थ ए॒षा तथा॑ रा॒ष्ट्रं गु॑पि॒तं क्ष॒त्रिय॑स्य ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हस्तेन । एव । ग्राह्यः । आधिः । अस्याः । ब्रह्मजाया । इयं । इति । च । इत् ।  
+> अवोचन् ।  
+> न । दूताय । प्रह्ये । तस्थे । एषा । तथा । राष्ट्रं । गुपितं । क्षत्रियस्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा बृहस्पतिमूचुः । हे बृहस्पते अस्या आधिः । आधीयंत आभरणान्यत्रेत्याधिः शरीरं ॥ उपसर्गे घोः किः । पा. ३-३-९२ । इति किप्रत्ययः ॥ अस्याः शरीरं
+> हस्तेनैव ग्राह्यो गृहीतव्यमेव । पुनस्ते देवा इदानीमियं ब्रह्मजायेत्येवावोचन् । अवादिषुः ॥ चशब्दश्चेदर्थे । अत एव निपातैर्य्यद्यदिहंतेति तिजो
+> निघाताभावः । ब्रूञ् व्यक्तायां वाचि । लुजि ब्रुवो वचिः । अस्यतिवक्तिख्यातिभ्योऽज्जिति चेरजादेशः । वच उमित्युमागमः । अडागमस्वरः । इदवधारणे ॥ एषा
+> ब्रह्मजाया पुरा प्रहै ॥ हि गत् वृद्दौ च । कर्मण्यणादिकः क्विप् । तुगभावश्चांदसः । बिद्वचने संज्ञापूर्वकस्य विधेरनित्यत्वाद्दुणाभावः । उदात्तस्वरितयोर्यण इति सुपः स्वरितत्वं ॥ प्रहिताय त्वया भार्यान्नेषणार्थं प्रेषिताय दूताय
+> तथा न तस्थे । स्वात्मानं न प्रकाशयति ॥ तिष्ठतेर्लिटि प्रकाशनस्थेयाख्ययोश्च ।
+> पा. १-३-२३ । इत्यात्मनेपदं । श्लाघह्नुज् स्थाशपां । पा. १-४-३४ । इति दूतस्य
+> संप्रदानसंज्ञा ॥ तत्र दृष्टांतः । यथा क्षत्रियस्य राज्यो गुपितं रक्षितं राष्ट्रं
+> राज्यं शत्रवे यथा न प्रकाशयति तद्वदसौ दौर्भाग्ययुक्ततया तस्मै स्वात्मानं न
+> प्रकाशितवती । इदानीं तु तद्राहित्येन प्रकाशमानेयं ब्रह्मजायैवेत्यब्रुवन् ॥
+
+##### Gist of the bhāṣya
+
+The gods said to Bṛhaspati: "O Bṛhaspati, her आधिः (*ādhiḥ*) (that in which ornaments are placed, the body) is to be taken by the hand alone." Then the gods said, "This is the Brahman's wife." The word च (*ca*) is in the sense of *cet*. एषा ब्रह्मजाया (*eṣā brahmajāyā*): formerly, to the messenger प्रह्ये (*prahye*) (sent by you to bring your wife), she did not show herself; she did not reveal herself. For this there is an illustration: as the kingdom of a Kṣatriya, guarded and protected, is not revealed to an enemy, so she, being afflicted with ill fortune, did not reveal herself to him. But now, free of that, she shines forth, and they said, "This is indeed the Brahman's wife."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Bṛhaspati) क्षत्रियस्य (*kṣatriyasya*)—by a Kṣatriya
+- गुपितं (*gupitaṃ*)—protected
+- राष्ट्रं (*rāṣṭraṃ*) like—as the protection of the kingdom is not visible to enemies
+- एषा (*eṣā*)—this wife of Brahman
+- प्रह्ये (*prahye*)—sent to seek her
+
+### Printed p. 316
+
+- दूताय (*dūtāya*)—to the messenger
+- तथा न तस्थे (*tathā na tasthe*)—did not show herself
+- अस्याः (*asyāḥ*)—her
+- आधिः (*ādhiḥ*)—body
+- हस्तेनैव (*hastenaiva*)—by the hand alone
+- ग्राह्यः (*grāhyaḥ*)—is to be taken
+- इयं (*iyaṃ*)—she
+- ब्रह्मजाया (*brahmajāyā*)—is the wife of Brahman
+- इति (*iti*)—thus
+- अवोचन् (*avocan*)—the gods said
+
+##### भावार्थ (Bhāvārtha)
+
+"O Bṛhaspati, just as the secret of the protection of the realm, guarded by a Kṣatriya, is not visible to enemies, so this wife of Brahman did not show herself to the messenger sent to seek her. Her body must be accepted only by the taking of her hand; she is the wife of Brahman," the gods said.
+
+##### English translation
+And (the gods) said (to Brihaspati), "This pledge of hers is to be taken by the hand, this is the wife of Brahma; she has not made herself known to the messenger sent (to seek her), so is the kingdom of a Kshatriya protected."
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वा ए॒तस्या॑मवदंत॒ पूर्वे॑ सप्तऋ॒षय॒स्तप॑से॒ ये नि॑षे॒दुः।  
+> भी॒मा जा॒या ब्रा॑ह्म॒णस्योप॑नीता दु॒र्धां द॑धाति पर॒मे  ॑
+> व्योमन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवाः । एतस्यां । अवदंत । पूर्वे । सप्तऋषयः । तपसे । ये । निसेदुः ।  
+> भीमा । जाया । ब्राह्मणस्य । उपनीता । दुःधां । दधाति । परमे । विओमन्॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वे चिरंतना देवा आदित्यादय एतस्यां विषयेऽवदंत । इयं पापरहित्येत्यवादिषुः । तथा ये सप्तर्षयः ॥ समासस्वरः ॥ सप्तसंख्याका ऋषयस्तपसे
+> तपश्चरणाय निषेदुः निषण्णा बभूवुः ॥ सदेर्लिट रूपं । उपसर्गेण समासः ।
+
+##### Gist of the bhāṣya
+
+The ancient gods, Ādityas and others, spoke concerning her: "She is free from sin." So also the seven ṛṣis who sat down for austerity (तपसे (*tapase*), to practise tapas) (निषेदुः (*niṣeduḥ*), from the root sad, perfect). The block continues on the next page.
+
+### Printed p. 317
+
+> यद्योगादनिघातः ॥ तेऽप्यवादिषुः । ततो भीमा शत्रुरूपाणां पापानां भयंकरी सुकृतवत्येषा जाया ब्राह्मणस्य बृहस्पतेरुपनीता । समीपे देवैः स्थापिता ॥
+> णीञ् प्रापणे । कर्मणि क्तः । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥ तथा हि । तपः
+> प्रभावो दुर्धा० दुर्धानामपि परमे व्योमन् व्योमन्युत्तमे स्थाने दधाति ।
+> विदधाति खलु । तस्मादेनामपि देवतापरिग्रहरूपस्तपोमहिमा बृहस्पतेरंतिके
+> स्थापयति ॥
+
+##### Gist of the bhāṣya
+
+They too spoke. Therefore this wife of the Brahman Bṛhaspati, terrible (भीमा (*bhīmā*)) to the sins that are her enemies and possessed of merit, was brought (उपनीता (*upanītā*)) near, placed beside him by the gods. Thus the power of austerity places even दुर्धां (*durdhāṃ*) (hard-to-bear states) in the highest heaven (परमे व्योमन् (*parame vyoman*)); it indeed ordains. Therefore the greatness of austerity, in the form of the gods' acceptance, establishes her too near Bṛhaspati.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वे (*pūrve*)—the ancient
+- देवाः (*devāḥ*)—the gods, Ādityas and others
+- एतस्यां (*etasyāṃ*)—with regard to this Juhū
+- अवदंत (*avadaṃta*)—have spoken in praise
+- ये (*ye*)—those who
+- तपसे (*tapase*)—to practise austerity
+- निषेदुः (*niṣeduḥ*)—were intent
+- सप्तर्षयः (*saptarṣayaḥ*)—such seven ṛṣis too have praised
+- भीमा (*bhīmā*)—terrible to the enemies that are sins
+- जाया (*jāyā*)—this wife of Brahman
+- ब्राह्मणस्य (*brāhmaṇasya*)—to the vicinity of Bṛhaspati
+- उपनीता (*upanītā*)—has been brought
+- (तपः (*tapaḥ*)—austerity)
+- दुर्धां (*durdhāṃ*)—even the sin that is a cause of sorrow (having purified it)
+- परमे व्योमन् (*parame vyoman*)—in the most excellent world
+- दधाति (*dadhāti*)—establishes
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient gods, Ādityas and others, have spoken in praise of this Juhū. The seven ṛṣis too, who were intent on practising austerity, have praised her. This wife of Brahman, terrible to the enemies that are sins, has been brought near Bṛhaspati. Austerity purifies even sin that is a cause of sorrow and establishes one in the most excellent world.
+
+##### English translation
+The ancient deities spoke about her, the seven Rishis who were engaged in penance. The terrible wife of Brahma has been brought back (to her husband); (penance) elevates sin to the highest heaven.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्र॒ह्म॒चा॒री च॑रति॒ वेवि॑ष॒द्विषः॒ स दे॒वानां॑ भव॒त्येक॒मंगं॑ ।  
+> तेन॑ जा॒यामन्व॑विंद॒द्बृह॒स्पतिः॒ सोमे॑न नी॒तां जु॒ह्वगं१॒॑ न  ॑
+> देवाः ॥ ५ ॥
+
+### Printed p. 318
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्मचारी । चरति । वेविषत् । विषः । सः । देवानां । भवति । एकं । अंगं ।  
+> तेन । जायां । अनु । अविंदत् । बृहस्पतिः । सोमेन । नीतां । जुह्वं । न ।  
+> देवाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवं स्वपतिर्मामलभतेति जुहूः परोक्षतॆया वदति । हे देवाः पूर्व० स
+> ब्रह्मचारी जायाभावेन ब्रह्मचारी चरति । अत एव विषः सर्वेषु यज्ञेषु व्याप्तवान्नेवान्वेनिषत् स्तुतिभिर्हविभिःश्च व्याप्प्नुवन् देवानामेकमंगं भवति। जायापती
+> यज्ञस्य द्वे अंगे खलु ॥ वेविषत् । विष्णु व्याप्त् जाहोत्यादिकः । निजां त्रयाणां गुणः श्ला । पा. ७-४-७५ । इत्यभ्यासस्य गुणः । 'शतुर्नाभ्यस्ताच्छतुरिति नुमागमप्रतिषेधः । अभ्यस्तानामादिरित्याद्यु दात्तत्वं ॥ तेन देवानां परिचरणेन बृहस्पतिर्जायां जुहूनामिकां मामन्वविंदत् । अनुगम्यालभत । नशब्द उपमार्थे ।
+> पूर्व० यथा सोमेन नीतां सोमो ददद्गंधर्वाय । ऋ. १०-८५-४१ । इत्यादिक्रमेण नीतां जुहूं जुहूं यथा लब्धवान् तद्वदिदानीमपि ॥ जुहूं । हु
+> दानादनयोः । अन्येभ्योऽपि दृश्यत इति क्विप् । जुहोतेर्द्वै चेति द्विर्वचनं
+> दीर्घश्च । उदात्तयणो हल्पूर्वादिति विभक्तुदात्तत्वे प्राप्ते नोज्‌धात्तोरिति
+> प्रतिषेध उदात्तस्वरितयोर्यण इति स्वरितत्वं ॥
+
+##### Gist of the bhāṣya
+
+Juhū speaks indirectly: "My husband obtained me thus." O gods, formerly he, being without a wife, went about as a celibate (ब्रह्मचारी (*brahmacārī*)). Therefore, pervading (वेविषत् (*veviṣat*)) all sacrifices with praises and oblations (विषः (*viṣaḥ*), from *viṣl vyāptau*), he is but one limb of the gods' sacrifice; husband and wife are indeed the two limbs of the sacrifice. By that service of the gods Bṛhaspati found (*anvaviṃdat*) his wife, me, named Juhū. The word न (*na*) is in the sense of comparison: as formerly he obtained Juhū, led away by Soma according to the sequence beginning सोमो ददद्गंधर्वाय (*somo dadadgaṃdharvāya*) (Ṛ. Saṃ. 10-85-41), so now too. The rest gives the grammar of वेविषत् (*veviṣat*) and जुहूं (*juhūṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- (सः (*saḥ*)—that Bṛhaspati)
+- ब्रह्मचारी (*brahmacārī*)—as a celibate, that is, without a wife
+- चरति (*carati*)—went about (therefore)
+- विषः (*viṣaḥ*)—the gods who come to all sacrifices
+- वेविषत् (*veviṣat*)—although Bṛhaspati worshipped them with praises and oblations, that
+- देवानां (*devānāṃ*)—of the sacrifice that worships the gods
+- एकं अंगं (*ekaṃ aṃgaṃ*)—only one limb (part)
+- भवति (*bhavati*)—is
+- तेन (*tena*)—by that worship of the gods
+- सोमेन (*somena*)—by Soma (formerly, that is, at the time of marriage)
+- नीतां (*nītāṃ*)—led away
+- जुह्वं न (*juhvaṃ na*)—as he obtained me, named Juhū
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- जायां (*jāyāṃ*)—me, named Juhū, his wife
+- अनु विंदत् (*anu viṃdat*)—now obtained again
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, Bṛhaspati formerly went about as a celibate, that is, without a wife. Since for performing a sacrifice the sacrificer and his wife are both necessary, the two of them
+
 ---
 
-**Progress note:** Done through printed p. 312. pp. 307-312 (batch API)
+**Progress note:** Done through printed p. 318. pp. 313-318 (batch API)
