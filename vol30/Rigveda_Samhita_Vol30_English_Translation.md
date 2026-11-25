@@ -24721,6 +24721,214 @@ The creator of creators, he who is the protector of the universe, (him I praise)
 
 In the first half of this Ṛk the Bhāṣyakāra gives the meaning "I praise Indra or the god Savitṛ, endowed with the qualities beginning with धाता धातृणां (*dhātā dhātṛṇāṃ*)". Although this meaning is appropriate, the same sūkta, with slight changes, is recited in the Taittirīya Saṃhitā (Tai. Saṃ. 4-7-14), and there the word सवितारं (*savitāraṃ*) is used in place of त्रातारं (*trātāraṃ*) in this Ṛk. It therefore appears that the deity intended here may be Savitṛ.
 
+### Printed p. 742
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रु॒न्यचा॑ नो महि॒षः शर्म॑ यंसद॒स्मिन्हवे॑ पुरुहू॒तः  ॒॑
+> पु॑रु॒क्षुः ।  
+> स नः॑ प्र॒जायै॑ हर्यश्व मृळ॒येंद्र॒ मा नो॑ रीरिषो॒ मा ॑ 
+> परा दः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुव्यचाः । नः । महिषः । शर्म । यंसत् । अस्मिन् । हवे । पुरुहूतः । पुरुक्षुः ।  
+> सः । नः । प्रजायै । हरिअश्व । मृळय । इंद्र । मा । नः । रिरिषः । मा । परा । दाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उरुव्यचा विस्तीर्णव्यापनो महिषो महान्ज्यो ना पुरुहूतो बहुभिर्यजमानैराहूतः पुरुक्षुर्बहुनिवासः ॥ क्षियतेर्मितद्वादिभ्य उपसंख्यानं ।
+> पा. ३-२-१८०-१ । इति डुप्रत्ययः ॥ यद्वा। पुरुभिर्बहुभिः शब्द्यमानः स्तूयमानः ॥
+> पूर्ववड्डु प्रत्ययः । औणादिके कर्मणि क्विपि वानित्यमागमशासनमिति तुगभावः ॥
+> ईदृश इंद्रोऽस्मिन्हवे यज्ञे ! हूयंतेऽस्मिन्हवींषीति हवो यज्ञः ॥ जुहोतेs
+> रधिकरणेऽप् ॥ यद्वा! अस्मिन्हवे त्वद्विषय आह्वाने ॥ भावेनुपसर्गस्यॆति ह्वयतेरप् संप्रसारणं च ॥ नोऽस्मभ्यं शर्म सुखं यंसत् । यच्छतु । ददात्वित्यर्थः ॥
+> यमेर्लॆट्यडामः । सिब्बहुलमिति सिप् ॥ हे हर्यश्व हरी आश्वा यस्य तादृश हे
+> इंद्र स त्वं नोऽस्माकं प्रजायै । द्वितीयार्थे चतुर्थि । प्रजां पुत्रपौत्रादिकां
+> मृळॆय । सुखयॆ । नोऽस्मान्मा रीरिषः । मा हिंसीः । मा च परा दाः । परादानं
+> परित्यागः । मा परित्याक्षीरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+उरुव्यचा (*uruvyacā*) means "pervading widely". महिषः (*mahiṣaḥ*) means "great". पुरुहूतः (*puruhūtaḥ*) means "called by many sacrificers". पुरुक्षुः (*purukṣuḥ*) means "of many dwellings". The affix ḍu is added here by Pā. 3-2-180-1. Alternatively, पुरुक्षुः (*purukṣuḥ*) means "praised (शब्द्यमानः (*śabdyamānaḥ*)) by many". The affix is added as in the earlier case. In the Uṇādi usage, where kvip comes after a karman, the augment is optional, so there is no tuk. Such an Indra, in this हवे (*have*) (the sacrifice, in which oblations are offered), is to be understood. Alternatively, अस्मिन् हवे (*asmin have*) means "in this invocation directed to you". नः (*naḥ*) is "to us". May he grant (यंसत् (*yaṃsat*) = यच्छतु (*yacchatu*), *dadātu*) शर्म (*śarma*), happiness. "O Indra, whose horses are the two bays (हरी (*harī*)), you, for our offspring (the dative stands in the sense of the accusative) — our sons, grandsons and the rest — make them happy. Do not harm us (मा रीरिषः (*mā rīriṣaḥ*) = मा हिंसीः (*mā hiṃsīḥ*)). And do not abandon (मा परा दाः (*mā parā dāḥ*)); परादानं (*parādānaṃ*) is abandonment, so the meaning is: do not forsake us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुव्यचाः (*uruvyacāḥ*)—one who pervades all places
+- महिषः (*mahiṣaḥ*)—one of great nature, or the worshipful
+- पुरुहूतः (*puruhūtaḥ*)—one who is prayed to and called by many sacrificers
+- पुरुक्षुः (*purukṣuḥ*)—one who has many dwelling places, or who goes to the dwellings of many (the sacrificial houses), or who is praised by many people; (this is) Indra
+- अस्मिन् हवे (*asmin have*)—in this sacrifice
+- नः (*naḥ*)—to us
+- शर्म (*śarma*)—happiness
+- यंसत् (*yaṃsat*)—may he give
+- हर्यश्व (*haryaśva*)—one accompanied by the horses called Hari
+- इंद्र (*iṃdra*)—O Indra
+- सः (*saḥ*)—you
+- नः (*naḥ*)—to us
+- प्रजाय्कॆ (*prajāykè*)—giving offspring, sons, grandsons and so on
+- मृळय (*mṛḷaya*)—bring happiness
+- नः (*naḥ*)—us
+- मा रीरिषः (*mā rīriṣaḥ*)—do not harm
+- मा परा दाः (*mā parā dāḥ*)—do not abandon us
+
+### Printed p. 743
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra — all-pervading, worshipful or of great majesty, worthy of the invocation of many, possessing many dwellings or praised by many — bring us happiness in this sacrifice. That is: may he cause the sacrifice to be completed without any obstacle, and make the happiness that is the fruit of the sacrifice come to us. O Indra, accompanied by your two horses called Hari, give us offspring such as sons, and make us live happily. Do not harm us, and do not abandon us.
+
+##### English translation
+May the omnipresent (Indra), the mighty one, who is invoked by many, and lauded by many, bestow a blessing on this our sacrifice; be gracious to our offspring, Indra, lord of bay horses; harm us not, desert us not.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये नः॑ स॒पत्ना॒ आप॒ ते भ॑वंत्विंद्रा॒ग्निभ्या॒मव॑ बाधामहे॒ तान्।  
+> वस॑वो रु॒द्रा आ॑दि॒त्या उ॑परि॒स्पृशं॑ मो॒ग्रं चेत्ता॑रमधिरा॒जम॑क्रन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । नः । सपत्नाः । अपे । ते । भवंतु । इंद्राग्निभ्यां । अव । बाधामहे । तान् ।  
+> वसवः । रुद्राः । आदित्याः । उपरिस्पृशं । मा । उग्रं । चेत्तारं । अधिराजं ।  
+> अक्रन् ॥ ९ ॥
+
+### Printed p. 744
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं ये सपत्नाः शत्रवस्तेऽप भवंतु । अपगता भवंतु । स्वस्थानादपगताः प्रच्युता भवंतु । तान्सपत्नानिंद्राग्निभ्यां हविर्भिः स्तुत्या च प्रसन्नाभ्यामनु
+> गृहीता वयमन बाधामहे । निकृष्टतरं विनाशयामः । अपि च वसवो रुद्रा
+> आदित्याश्च मा मामुपरिस्पृशमुन्नतपदस्य संस्पष्टारं सर्वेभ्यः श्रेष्ठमक्रन् ।
+> कुर्वंतु । तथोग्रमुद्दूर्णबलं चेत्तारं चेतितारं ॥ छांदस इडभावः ॥ सर्वस्य
+> ज्ञातारमधिराजं सर्वेषामधीश्वरं च मां कुर्वंतु ॥ करोतेश्छांदसे लुजि
+> मंत्रे घसेत्यादिना चेर्लुक् ॥
+
+##### Gist of the bhāṣya
+
+नः (*naḥ*) is "our". Those who are our rivals (सपत्नाः (*sapatnāḥ*), enemies), let them be gone (अप भवंतु (*apa bhavaṃtu*)): let them be driven away and dislodged from their own place. We, favoured by Indra and Agni, who are pleased by oblations and praise, drive those rivals down (अव बाधामहे (*ava bādhāmahe*)), that is, destroy them utterly. Moreover, may the Vasus, Rudras and Ādityas make me (मा (*mā*)) उपरिस्पृशं (*uparispṛśaṃ*), one who touches the high position, the best of all. Likewise उग्रं (*ugraṃ*), of surging strength; चेत्तारं (*cettāraṃ*) (= चेतितारं (*cetitāraṃ*), the absence of the augment iṭ being Vedic), the knower of all; and अधिराजं (*adhirājaṃ*), the lord over all — may they make me these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- ये सपत्नाः (*ye sapatnāḥ*)—whatever enemies there are
+- ते (*te*)—they
+- अप भवंतु (*apa bhavaṃtu*)—let them be defeated and go away
+- तान् (*tān*)—those enemies
+- इंद्राग्निभ्यां (*iṃdrāgnibhyāṃ*)—with the help of Indra and Agni
+- अव बाधामहे (*ava bādhāmahe*)—may we be able to harm and destroy (them); and
+- वसवः (*vasavaḥ*)—the eight Vasus
+- रुद्राः (*rudrāḥ*)—the eleven Rudras
+- आदित्याः (*ādityāḥ*)—the twelve Ādityas also
+- मां (*māṃ*)—me
+- उपरिस्पृशं (*uparispṛśaṃ*)—one fit for a high position, or the best of all
+- उग्रं (*ugraṃ*)—one possessed of great strength
+- चेत्तारं (*cettāraṃ*)—all-knowing
+- अधिराजं (*adhirājaṃ*)—lord of all
+- अक्रन् (*akran*)—let them make
+
+##### भावार्थ (Bhāvārtha)
+
+May our enemies be defeated by us and go away backwards. Praising Indra and Agni with oblations and the like, may we, with their help, harm and destroy those enemies of ours. May the eight Vasus, the eleven Rudras and the twelve Ādityas also make us worthy of a high position or the best of all, possessed of great strength, all-knowing, and lord of all.
+
+##### English translation
+May those who are our foes be driven off ; may we through Indra and Agni destroy them; may the Vasus, the Rudras, and the Adityas make me the high-reaching, fierce, intelligent, supreme ruler.
+
+##### विशेषविषयगळु (Special Topics)
+
+The supplementary (khila) mantras to be recited at the end of this sūkta:
+- अर्वांचमिंद्रममुतो हनामहे यो गोजिद्दनजिदश्वजिद्यः । (*arvāṃcamiṃdramamuto hanāmahe yo gojiddanajidaśvajidyaḥ |*)
+- इमं नो यज्ञं विहवे जुषस्वास्म कुर्मो हरिवॊ मेदिनं त्वा ॥ (*imaṃ no yajñaṃ vihave juṣasvāsma kurmo harivò medinaṃ tvā ‖*)
+
+### Printed p. 745
+- आयुष्यं वर्चस्यं रायस्पोषमौद्भिद्यं । (*āyuṣyaṃ varcasyaṃ rāyaspoṣamaudbhidyaṃ |*)
+- इदं हिरण्यं वर्चस्वज्जॆत्राया विशतादिमां ॥ (*idaṃ hiraṇyaṃ varcasvajjètrāyā viśatādimāṃ ‖*)
+- उच्चैर्वाजि पृतनाषाट् सभासाहं धनंजयं । (*uccairvāji pṛtanāṣāṭ sabhāsāhaṃ dhanaṃjayaṃ |*)
+- सर्वाः समग्रा ऋद्धयो हिरण्येऽस्मिन् समाहिताः ॥ (*sarvāḥ samagrā ṛddhayo hiraṇye 'smin samāhitāḥ ‖*)
+- शुनमहं हिरण्यस्य पितुर्मानेव जग्रभ । (*śunamahaṃ hiraṇyasya piturmāneva jagrabha |*)
+- तेन मां सूर्यत्वचमकरं पूरुषु प्रियं ॥ (*tena māṃ sūryatvacamakaraṃ pūruṣu priyaṃ ‖*)
+- साम्राजं च विराजं चाभिष्टीया च मे ध्रुवा । (*sāmrājaṃ ca virājaṃ cābhiṣṭīyā ca me dhruvā |*)
+- लक्ष्मी राष्ट्रस्य या मुखे तया मामिंद्र सं सृज ॥ (*lakṣmī rāṣṭrasya yā mukhe tayā māmiṃdra saṃ sṛja ‖*)
+- अग्नेः प्रजातं परि यद्धिरण्यममृतं यज्ञे अधि मर्त्येषु । (*agneḥ prajātaṃ pari yaddhiraṇyamamṛtaṃ yajñe adhi martyeṣu |*)
+- य एनद्वेद स इदेनमर्हति जरामृत्युर्भवति यो बिभर्ति ॥ (*ya enadveda sa idenamarhati jarāmṛtyurbhavati yo bibharti ‖*)
+- यद्वेद राजा वरुणो यदु देवी सरस्वती । (*yadveda rājā varuṇo yadu devī sarasvatī |*)
+- इंद्रो यद्वृत्रहा वेद तन्ने वर्चस आयुषे ॥ (*iṃdro yadvṛtrahā veda tanne varcasa āyuṣe ‖*)
+- न तद्रक्षांसि न पिशाचाश्चरंति देवानामोजः प्रथमजं ह्ये १ तत् । (*na tadrakṣāṃsi na piśācāścaraṃti devānāmojaḥ prathamajaṃ hye 1 tat |*)
+- यो बिभर्ति दाक्षायणा हिरण्यं स देवेषु कृणुते दीर्घमायुः स मनुष्येषु कृणुते दीर्घमायुः ॥७ ॥ (*yo bibharti dākṣāyaṇā hiraṇyaṃ sa deveṣu kṛṇute dīrghamāyuḥ sa manuṣyeṣu kṛṇute dīrghamāyuḥ ‖7 ‖*)
+- यदाबध्नन् दाक्षायणा हिरण्यं शतानीकाय सुमनस्यमाना । (*yadābadhnan dākṣāyaṇā hiraṇyaṃ śatānīkāya sumanasyamānā |*)
+- तन्न आ बध्नामि शतशारदायायुष्मान् जरदष्टिर्यथासत् ॥ (*tanna ā badhnāmi śataśāradāyāyuṣmān jaradaṣṭiryathāsat ‖*)
+- धृतादुर्लुप्तं मधुमत्सुवर्णं धनंजयं धरुणं धारयिष्टु । (*dhṛtādurluptaṃ madhumatsuvarṇaṃ dhanaṃjayaṃ dharuṇaṃ dhārayiṣṭu |*)
+- ऋणक् सपत्नादधरांश्च कृण्वदारोह मां महते सौभगाय ॥ (*ṛṇak sapatnādadharāṃśca kṛṇvadāroha māṃ mahate saubhagāya ‖*)
+- प्रियं मा कुरु देवेषु प्रियं राजसु मा कुरु । (*priyaṃ mā kuru deveṣu priyaṃ rājasu mā kuru |*)
+- प्रियं विश्वेषु गोप्रेषु मयि धेहि रुचा रुचं ॥ (*priyaṃ viśveṣu gopreṣu mayi dhehi rucā rucaṃ ‖*)
+- अग्निर्येन विराजति सूर्यो येन विराजति । (*agniryena virājati sūryo yena virājati |*)
+- विराजेन विराजति तेनास्मान् ब्रह्मणस्पते विराज समिधं कुरु ॥ (*virājena virājati tenāsmān brahmaṇaspate virāja samidhaṃ kuru ‖*)
+- यां कल्पयंति नोऽरयः क्रूरां कृत्यां वधूमिव । (*yāṃ kalpayaṃti no 'rayaḥ krūrāṃ kṛtyāṃ vadhūmiva |*)
+- तां ब्रह्मणाप निर्णुद्मः प्रत्यक्कर्तारमृच्छतु ॥ (*tāṃ brahmaṇāpa nirṇudmaḥ pratyakkartāramṛcchatu ‖*)
+- शीर्षण्वतीं कर्णवतीं विषुरूपां भयंकरीं । (*śīrṣaṇvatīṃ karṇavatīṃ viṣurūpāṃ bhayaṃkarīṃ |*)
+- यः प्राहिणोदिहाद्य त्वां वि तं त्वं योजयासुभिः ॥ (*yaḥ prāhiṇodihādya tvāṃ vi taṃ tvaṃ yojayāsubhiḥ ‖*)
+- येन दिष्टेह वहसि प्रतिकूलमघायिनि । (*yena diṣṭeha vahasi pratikūlamaghāyini |*)
+- तमेवेतो निवर्तस्त्व मास्मान् मृज्यो अनागसः ॥ (*tameveto nivartastva māsmān mṛjyo anāgasaḥ ‖*)
+
+### Printed p. 746
+- अभिवर्तस्व कर्तारं निरस्तास्माभिरोजसा । (*abhivartasva kartāraṃ nirastāsmābhirojasā |*)
+- यस्त्वा कृत्ये चकारेह तं त्वं गच्छ पुनर्नवे । (*yastvā kṛtye cakāreha taṃ tvaṃ gaccha punarnave |*)
+- अरातीः कृत्ये नाशय सर्वाश्च यातुधान्यः (*arātīḥ kṛtye nāśaya sarvāśca yātudhānyaḥ*)
+- क्षिप्रं कृत्ये निवर्तस्व कर्तरेव गृहान् प्रति । (*kṣipraṃ kṛtye nivartasva kartareva gṛhān prati |*)
+- पशूंश्च वास्य नाशय वीरांश्चास्य नि बर्हय (*paśūṃśca vāsya nāśaya vīrāṃścāsya ni barhaya*)
+- यस्त्वा कृत्ये प्रजिघाय विद्वा अविदुषो गृहान् । (*yastvā kṛtye prajighāya vidvā aviduṣo gṛhān |*)
+- तस्यैवेतः परेत्याशु तनुं कृधि परुष्करुः (*tasyaivetaḥ paretyāśu tanuṃ kṛdhi paruṣkaruḥ*)
+- प्रतीचीं त्वापसेधतु ब्रह्म रोचिष्टमित्रहा । (*pratīcīṃ tvāpasedhatu brahma rociṣṭamitrahā |*)
+- अग्निश्च कृत्ये रक्षोहा रिप्रहा चाज एकपात् (*agniśca kṛtye rakṣohā riprahā cāja ekapāt*)
+- यथा त्वांगिरसः पूर्वे भृगवश्चाप सेधिरे । (*yathā tvāṃgirasaḥ pūrve bhṛgavaścāpa sedhire |*)
+- अत्रयश्च वसिष्ठाश्च तथैव त्वाप सेधिम (*atrayaśca vasiṣṭhāśca tathaiva tvāpa sedhima*)
+- यस्ते परूंषि संदधौ रथस्येव विभुर्धिया । (*yaste parūṃṣi saṃdadhau rathasyeva vibhurdhiyā |*)
+- तं गच्छ तत्र तेऽयनमज्ञातस्ते अयं जनः (*taṃ gaccha tatra te 'yanamajñātaste ayaṃ janaḥ*)
+- यो नः कश्चिद्रणस्थो वा कश्चिद्वान्नोऽभि हिंसति । (*yo naḥ kaścidraṇastho vā kaścidvānno 'bhi hiṃsati |*)
+- तस्य त्वं द्रोरिवेद्योऽग्निस्तनूमृच्छस्व हेळिता (*tasya tvaṃ drorivedyo 'gnistanūmṛcchasva heḷitā*)
+- भवाशर्वा देवहेळिमस्यत पापकृत्वने । (*bhavāśarvā devaheḷimasyata pāpakṛtvane |*)
+- हरस्वती त्वं च कृत्ये मोच्चिपस्तस्य किंचन (*harasvatī tvaṃ ca kṛtye moccipastasya kiṃcana*)
+- यो नः कश्चिद्रुहारातिर्मनसा प्रतिभूषति । (*yo naḥ kaścidruhārātirmanasā pratibhūṣati |*)
+- दूरस्थो वांतिकस्थो वा तस्य हृद्यमसृक् पिब (*dūrastho vāṃtikastho vā tasya hṛdyamasṛk piba*)
+- येनासि कृत्ये प्रहिता दूढ्येनास्मज्जि घांसॆया । (*yenāsi kṛtye prahitā dūḍhyenāsmajji ghāṃsèyā |*)
+- तस्य व्यानच्चाव्यानच्च हिनस्तु हरसाशनिः (*tasya vyānaccāvyānacca hinastu harasāśaniḥ*)
+- ये नः शिवासः पंथानः परायंति परावतं । (*ye naḥ śivāsaḥ paṃthānaḥ parāyaṃti parāvataṃ |*)
+- तैर्देवि रात्र्याः कृत्या नो गमयस्वानुकृत्तये (*tairdevi rātryāḥ kṛtyā no gamayasvānukṛttaye*)
+- यदि वैषि द्विपद्यस्मान् यदि वैषि चतुष्पदी । (*yadi vaiṣi dvipadyasmān yadi vaiṣi catuṣpadī |*)
+- निरस्तेतो व्रजास्माभिः कर्तुरष्टापदी गृहान्< (*nirasteto vrajāsmābhiḥ karturaṣṭāpadī gṛhān<*)
+- यो नः शपादशपतो यश्च नः शपतः शपात् । (*yo naḥ śapādaśapato yaśca naḥ śapataḥ śapāt |*)
+- वृक्षमिव विद्युदाशु तमामूलादनु शोषय (*vṛkṣamiva vidyudāśu tamāmūlādanu śoṣaya*)
+
+### Printed p. 747
+- यं द्विष्टो यश्च नो द्वेष्ट्य घायुर्यश्च नः शपात् । (*yaṃ dviṣṭo yaśca no dveṣṭya ghāyuryaśca naḥ śapāt |*)
+- शुने पिष्टमिव क्षामं तं प्रत्यस्य स्वमृत्यवे ॥ (*śune piṣṭamiva kṣāmaṃ taṃ pratyasya svamṛtyave ‖*)
+- यश्च सापत्नः शपथो यश्च यामी शपाति नः । (*yaśca sāpatnaḥ śapatho yaśca yāmī śapāti naḥ |*)
+- ब्रह्मा च यत्कुद्धः शपात्सर्वं तत्पृथ्यधस्पदं ॥ (*brahmā ca yatkuddhaḥ śapātsarvaṃ tatpṛthyadhaspadaṃ ‖*)
+- सबंधुश्चाप्य बंधुश्च यो अस्मा अभिदासति । (*sabaṃdhuścāpya baṃdhuśca yo asmā abhidāsati |*)
+- तस्य त्वं भिंध्यधिष्ठाय पदा विस्फूर्य तच्छिरः ॥ (*tasya tvaṃ bhiṃdhyadhiṣṭhāya padā visphūrya tacchiraḥ ‖*)
+- अभि प्रेहि सहस्राक्षं युक्ता तु शपथं रथे । (*abhi prehi sahasrākṣaṃ yuktā tu śapathaṃ rathe |*)
+- शत्रूनन्विच्छती कृत्ये वृकीवाविमतो गृहान् ॥ (*śatrūnanvicchatī kṛtye vṛkīvāvimato gṛhān ‖*)
+- परि णो वृंगि शपथान् दहन्नग्निरिव ह्रदं । (*pari ṇo vṛṃgi śapathān dahannagniriva hradaṃ |*)
+- शत्रूनेवाभितो जहि दिव्या वृक्षमिवाशनिः ॥ (*śatrūnevābhito jahi divyā vṛkṣamivāśaniḥ ‖*)
+- शत्रून् मे प्रोध शपथात् कृत्याश्च सुहृदोऽसुहृत् । (*śatrūn me prodha śapathāt kṛtyāśca suhṛdo 'suhṛt |*)
+- जिह्माः श्लक्ष्णाश्च दुर्हृदः समिद्धं जातवेदसं ॥ (*jihmāḥ ślakṣṇāśca durhṛdaḥ samiddhaṃ jātavedasaṃ ‖*)
+- असपत्नं पुरस्तान्नः शिवं दक्षिणतः कृधि । (*asapatnaṃ purastānnaḥ śivaṃ dakṣiṇataḥ kṛdhi |*)
+- अभयं सततं पश्चाद्भद्रमुत्तरतो गृहे ॥ (*abhayaṃ satataṃ paścādbhadramuttarato gṛhe ‖*)
+- परेहि कृत्ये मा तिष्ठ विद्धस्येव पदं नय (*parehi kṛtye mā tiṣṭha viddhasyeva padaṃ naya*)
+- मृगस्य हि मृगारिप्रो न त्वा नीकर्तुमर्हति ॥ (*mṛgasya hi mṛgāripro na tvā nīkartumarhati ‖*)
+- अघ्न्यास्टेव घोररूपे विषुरूपेऽविनाशिनि । (*aghnyāsṭeva ghorarūpe viṣurūpe 'vināśini |*)
+- जृंभिता प्रतिगृष्टै स्वयमादाय चाद्भुतं ॥ (*jṛṃbhitā pratigṛṣṭai svayamādāya cādbhutaṃ ‖*)
+- त्वमिंद्रो यनो वरुणस्त्वमापोऽग्नि रथानिलः । (*tvamiṃdro yano varuṇastvamāpo 'gni rathānilaḥ |*)
+- त्वं ब्रह्मा चैव रुद्रश्च त्वष्टा चैव प्रजापतिः ॥ (*tvaṃ brahmā caiva rudraśca tvaṣṭā caiva prajāpatiḥ ‖*)
+- आवर्तध्वं निवर्तध्वमृतवः परिवत्सराः । (*āvartadhvaṃ nivartadhvamṛtavaḥ parivatsarāḥ |*)
+- अहोरात्राश्चाब्दाश्च त्वं दिशः प्रदिशश्च मे ॥ (*ahorātrāścābdāśca tvaṃ diśaḥ pradiśaśca me ‖*)
+- त्वं यमं वरुणं सोमं त्वमापोऽग्निमथानिलं । (*tvaṃ yamaṃ varuṇaṃ somaṃ tvamāpo 'gnimathānilaṃ |*)
+- अत्राहृत्य पशूंश्चैवमुत्पादयसि चाद्भुतं ॥ (*atrāhṛtya paśūṃścaivamutpādayasi cādbhutaṃ ‖*)
+- ये मे दमे दारुगर्भॆ शयानं धिया सहितं पुरुषं निजहुः । (*ye me dame dārugarbhè śayānaṃ dhiyā sahitaṃ puruṣaṃ nijahuḥ |*)
+- कुंभीपाकं नरकं ग्रीवबद्धं हता एव पुरुषासो यमस्य ॥ (*kuṃbhīpākaṃ narakaṃ grīvabaddhaṃ hatā eva puruṣāso yamasya ‖*)
+- अभ्यक्ताक्ता स्सलंकृता सर्वं नो दुरितं दह । (*abhyaktāktā ssalaṃkṛtā sarvaṃ no duritaṃ daha |*)
+- जानीथाश्चैव कृत्यानां कर्तन नृन् पापचेतसः ॥ (*jānīthāścaiva kṛtyānāṃ kartana nṛn pāpacetasaḥ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 741. pp. 736-741 (batch API)
+**Progress note:** Done through printed p. 747. pp. 742-747 (batch API)
