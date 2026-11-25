@@ -21830,6 +21830,232 @@ Yāska has given the Nirukta on this Ṛk:
 
 ज्योतिर्जरायुज्योतिरस्य जरायुस्थानीयं भवति । जरायुर्जरया गर्भस्य जरया यूयते इति वा (*jyotirjarāyujyotirasya jarāyusthānīyaṃ bhavati | jarāyurjarayā garbhasya jarayā yūyate iti vā*)—ज्योतिः (*jyotiḥ*) means the light called lightning (the flash). Vena is one who holds such light in the form of an embryo. What is a जरायु (*jarāyu*) here? जरया गर्भस्य (*jarayā garbhasya*)—that which, while the embryo is at first small, grows gradually, they call जरायु (*jarāyu*). Or else: प्रसूताया गोः स्त्रिया ना पश्चात् पतति सा जरॆत्युच्यते । तया च यायते मिश्रते तज्जराय्वित्युच्यते (*prasūtāyā goḥ striyā nā paścāt patati sā jarètyucyate | tayā ca yāyate miśrate tajjarāyvityucyate*)—what falls afterwards from the belly of a cow or a woman at the time of delivery is called जरा (*jarā*), that is, the afterbirth. The thing (the creature) that is joined with that afterbirth **NOTE**
 
+### Printed p. 664
+the name jarāyu; the creature that is joined with the womb is called jarāyu. In the present Ṛk the light itself (the lightning) is in the form of the cloud's embryo. That is, Vena, who is luminous in nature and has the form of lightning, is in the form of the embryo of the clouds. This is the meaning.
+
+इममपां च संगमने सूर्यस्य शिशुमिव विप्रा मतिभी रिहंति लिहंति स्तुवंति वर्धयंति पूजयंतीति (*imamapāṃ ca saṃgamane sūryasya śiśumiva viprā matibhī rihaṃti lihaṃti stuvaṃti vardhayaṃti pūjayaṃtīti*) (Ni.)—here "at the meeting-place of the waters and of the sun" means: at the place where the waters in the form of vapour and the sun meet, that is, in the region where these two (water and sun) come together, that is, in the atmosphere. "Like a child they caress (rihanti)" means: just as people fondle, cherish and praise a small child with good words. The intended sense is this: the wise people praise, extol, make grow, or worship, with their words of praise, this god Vena, who dwells as light in the midst of the cloud in the atmosphere, the meeting-place of the sun and the waters, as people caress, cherish and praise children.
+
+शिशुः शंसनीयो भवति । शिशीतेर्वा स्याद्दानकर्मणः । चिरलब्धो गर्भो भवति (*śiśuḥ śaṃsanīyo bhavati | śiśītervā syāddānakarmaṇaḥ | ciralabdho garbho bhavati*)—a child is called śiśu because it is praised with good words or soothed. Or else the root śiś has the sense "give"; दीयते हि स पुरुषेण स्त्रियै धारणाय (*dīyate hi sa puruṣeṇa striyai dhāraṇāya*)—since the child is given by the man to the woman to bear in her womb, it is called śiśu. The Nirukta's meaning is that the embryo, long retained in the womb, comes out.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रादू॒र्मिमुदि॑यर्ति वे॒नो न॑भो॒जाः पृ॒ष्ठं ह॑र्य॒तस्य॑ दर्शि ।  
+> ऋ॒तस्य॒ साना॒वधि॑ वि॒ष्टपि॒ भ्राट् स॑मा॒नं योनि॑म॒भ्य॑नूषत॒ व्राः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रात् । ऊर्मिं । उत् । इयर्ति । वेनः । नभःजाः । पृष्ठं । हर्यतस्य । दर्शि ।  
+> ऋतस्य । सान् । अधि । विष्टपि । भ्राट् । समानं । योनिं । अभि । अनूषत । व्राः ॥२॥
+
+### Printed p. 665
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्मिन्नेवाभीष्टवे समुद्रादूर्मिमित्येषा । सूत्र्यते हि । समुद्रादूर्मिमुदियर्ति वेनो द्रप्सः समद्रमभि यज्जिगाति । आ. ४-७ । इति ॥
+> समुद्रवंत्यस्मादाप इति समुद्रमंतरिक्षं । तस्मादूर्मिं जलसमूहमयं
+> वेन उदियर्ति । उद्गमयति । अधः पातयतीत्यर्थः । कीदृशः । नभोजाः । नभस्याकाशे............ । इमं वेनमभि शब्दायंते ॥ नु स्तुत् । कुटादिः । छांदसो लज् ॥
+
+##### Gist of the bhāṣya
+
+In that same Abhiṣṭava (the Pravargya hymn of praise), this Ṛk "Samudrād ūrmim" is used. The sūtra says: समुद्रादूर्मिमुदियर्ति वेनो द्रप्सः समद्रमभि यज्जिगाति । (*samudrādūrmimudiyarti veno drapsaḥ samadramabhi yajjigāti |*) (Ā. 4-7). **NOTE**
+Sāyaṇa explains: from this the waters flow, therefore samudra is the atmosphere (antarikṣa). From it Vena sends up (udiyarti) the wave, the mass of water; that is, he makes it come out and fall down. What kind of being is he? Nabhojāḥ, "born in the sky (nabhas)…" The text then breaks off in dots. Of what follows only fragments stand: "they sound towards this Vena", and "nu, praise", "कुटादिः (*kuṭādiḥ*)", "Vedic laj". **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नभोजाः (*nabhojāḥ*)—born in the middle of the sky (in the clouds)
+- वेनः (*venaḥ*)—this god Vena
+- समुद्रात् (*samudrāt*)—from the atmosphere
+- ऊर्मिं (*ūrmiṃ*)—the mass of water
+- उत् इयर्ति (*ut iyarti*)—impels it to fall on the earth in the form of rain; (afterwards)
+- हर्यतस्य (*haryatasya*)—of heaven
+- पृष्ठं (*pṛṣṭhaṃ*)—the lower part
+- दर्शि (*darśi*)—is seen
+- विष्टपि (*viṣṭapi*)—in heaven (that is, in the atmosphere)
+- ऋतस्य (*ṛtasya*)—of water
+- सानौ अधि (*sānau adhi*)—on the upper part
+- भ्राट् (*bhrāṭ*)—this Vena shines
+- समानं योनिं (*samānaṃ yoniṃ*)—in the atmosphere, their common place
+- व्राः (*vrāḥ*)—the Marut troops (or the clouds)
+- अभि अनूषत (*abhi anūṣata*)—praise this Vena, sounding loudly
+
+##### भावार्थ (Bhāvārtha)
+
+This god Vena, born in the middle of the sky, in the cloud-region, impels water from the atmosphere to fall on the earth as rain. After the rain has fallen, the lower part of the sky, that is, the sky, is seen clear (without clouds). On the high region of the atmosphere, above the water (the cloud), this god shines. In the atmosphere, which is the common place of Vena and of the Maruts or clouds, the Marut troops or clouds praise this Vena with their sound.
+
+##### English translation
+The cloud-born Vena sends the water from the firmament ; the back of the azure (sky) is beheld. He shone on the summit of the water in heaven the troops praised their common abode.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pravargya-abhiṣṭava mentioned above, this Ṛk "Samudrād ūrmim" is to be recited; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra समुद्रादूर्मिमुदियर्ति वेनो द्रप्सः समुद्रमभि यज्जिगाति (*samudrādūrmimudiyarti veno drapsaḥ samudramabhi yajjigāti*) (Ā. 4-7).
+A loss of text is seen in the Sāyaṇa-bhāṣya of this Ṛk.
+
+### Printed p. 666
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नं पू॒र्वीर॒भि वा॑वशा॒नास्तिष्ठ॑न्व॒त्सस्य॑ मा॒तरः॒ सनी॑ळाः ।  
+> ऋ॒तस्य॒ साना॒वधि॑ चक्रमा॒णा रि॒हंति॒ मध्वो॑ अ॒मृत॑स्य॒ वाणीः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानं । पूर्विः । अभि । वावशानाः । तिष्ठन् । वत्सस्य । मातरः । सनीळाः ।  
+> ऋतस्य । सान् । अधि । चक्रमाणाः । रिहंति । मध्वः । अमृतस्य । वाणीः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वीर्बह्वः समानं वेनस्यात्मनश्च साधारणं स्थानं प्राप्याभि वावशाना
+> अभितः शब्दायमानाः । यद्वा । तमेव वेनमभिकामयमानाः । वत्सस्य वत्सस्थानीयस्य वैद्युताग्नेर्मातरो मातृभूताः सनीळाः समाननिलयाः एवंविधा आंतरिक्ष्या
+> आपस्तिष्ठन् । तिष्ठंति । अपि चर्तस्योदकस्य सानावधि सान् गमुच्छ्रितेऽंतरिक्षस्थाने
+> चक्रमाणाः प्रवर्तमाना मध्वो मधुरस्यामृतस्योदकस्य वाणीर्वाण्यः शब्दा
+> रिहंति । इमं वेनमर्चंति । अलंकुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The many (pūrvīḥ) waters, having reached the common place shared by Vena and themselves, "clamour all round" (vāvaśānāḥ), sounding on every side; or else, desiring that very Vena. They are the mothers of the "calf", the calf here standing for the lightning fire (vaidyutāgni); being mothers and sharing one abode (sanīḷāḥ), these aerial waters stay (tiṣṭhan). Moreover, moving on the elevated part (sāna) of the water (ṛta), in the lofty atmosphere, the sounds of the sweet, ambrosial water "lick" (rihanti) this Vena, that is, they worship or adorn him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्विः (*pūrviḥ*)—many
+- समानं (*samānaṃ*)—being in the atmosphere, the common place of themselves and of Vena
+- अभि (*abhi*)—all around
+- वावशानाः (*vāvaśānāḥ*)—sounding, or desiring Vena
+- वत्सस्य (*vatsasya*)—of the lightning fire that stands in the place of the calf (child)
+- मातरः (*mātaraḥ*)—being its mothers
+- सनीळाः (*sanīḷāḥ*)—and dwelling in the atmosphere, the common place; the waters (of the cloud)
+- तिष्ठन् (*tiṣṭhan*)—remain (there); (and)
+- ऋतस्य (*ṛtasya*)—of the water (of the cloud)
+- सान् (*sān*)—on the upper part, that is, in the lofty atmosphere
+- चक्रमाणाः (*cakramāṇāḥ*)—moving
+- मध्वः उदकस्य (*madhvaḥ udakasya*)—of the sweet water
+- वाणीः (*vāṇīḥ*)—the sounds
+- रिहंति (*rihaṃti*)—praise this god Vena
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, that is, the clouds, which are of great extent, which stay in the atmosphere, the common place, and sound all round (thunder and rumble), and which are mothers of the child-like lightning fire, remain in the atmosphere, the common dwelling of themselves and Vena. And the roarings of the clouds, with their sweet waters, moving on the upper part of the lofty atmosphere, also praise this Vena (they seem to praise him).
+
+### Printed p. 667
+
+##### English translation
+The many waters occupy a common station, clamouring arround like the assembled mothers of the calf ; wandering above the summit of the water they utter the praises of the sweet-flavoured ambrosia.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जा॒नंतो॑ रू॒पम॑कृपंत॒ विप्रा॑ मृ॒गस्य॒ घोषं॑ महि॒षस्य॒ हि  
+> ग्मन् ।  
+> ऋ॒तेन॒ यंतो॒ अधि॒ सिंधु॑मस्थुर्वि॒दद्गं॑ध॒र्वो अ॒मृता॑नि॒  ॑
+> नाम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जानंतः । रूपं । अकृपंत । विप्राः । मृगस्य । घोषं । महिषस्य । हि । ग्मन् ।  
+> ऋतेन । यंतः । अधि । सिंधुं । अस्थुः । विदत् । गंधर्वः । अमृतानि । नाम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रा मेधाविनः स्तोतारोऽस्य वेनस्य रूपं जानंतीत्यर्थः । स्तुवंति ।
+> कृपतिः स्तुतिकर्मा । कथमस्य रूपं जानंतीत्यत आह । मृगस्यान्वेषणीयस्य महिषस्य । महन्नामैतत् । महतो वेनस्य घोषं गर्जितलक्षणं मेघस्थं शब्दं हि
+> यस्माद्मन् अभिगच्छंति आतस्तदीयं रूपं जानंतीत्यर्थः ॥ गमेश्वांदसे लज्
+> बहुलं छंदसीति शपो लुक् । गमहनेत्युपधालोपः । बहुलं छंदस्यमाज्योगेऽपीत्यडभावः ॥ अपि चर्तेन सत्यभूतेन स्तोत्रेण यज्ञेन वा यंतस्तं वेनं
+> गच्छंतः प्राप्नुवंतो जनाः सिंधुं स्यंदनशीलं जलसमूहमध्यस्तुः । अधितिष्ठंति ।
+> तेषां सॆ वेनो वृष्टिं करोतीत्यर्थः । तत्र किं कारणमिति चेत् यतोऽयं
+> गंधर्वो गवामुदकानां धर्ता वेनोऽमृतान्यमरणहेतुभूतानि नाम । उदकनामैतत् । नमनशीलान्युदकानि विदत् वेद जानाति । तस्य वशे वर्तंत इत्यर्थः ।
+> आतस्तद्भक्तानां वृष्टिः सुलभा ॥
+
+##### Gist of the bhāṣya
+
+The viprāḥ, the wise praisers, know the form of this Vena; kṛpati has the sense of praising. How do they know his form? Sāyaṇa says: of the mṛga, "the one to be sought", the mahiṣa (महन्नामैतत् (*mahannāmaitat*), mahat being a name), the great Vena, they approach (gman) the ghoṣa, the sound located in the cloud, marked by thundering; therefore they know his form. Further, men who approach that Vena with ṛta, true praise or the sacrifice, reach the sindhu, the flowing mass of water, and take their stand upon it (adhi asthuḥ); that is, Vena makes rain for them. If it is asked why, the reason is that this Vena is the gandharva, the bearer of the waters (gavām); he knows (vidat) the amṛtāni nāma, "waters" (a name of water), which are deathless, the cause of not dying, being of bending nature. That is, they are under his control; therefore rain is easy for his devotees.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—the wise praisers
+- मृगस्य (*mṛgasya*)—who is sought
+- महिषस्य (*mahiṣasya*)—of this Vena, who is of great form
+- घोषं (*ghoṣaṃ*)—the sound in the form of thunder
+- हि (*hi*)—for which reason
+
+### Printed p. 668
+- ग्मन् (*gman*)—approaching (hearing) they know, for that very reason
+- रूपं (*rūpaṃ*)—the form of this god Vena
+- जानंतः (*jānaṃtaḥ*)—knowing
+- अकृपंत (*akṛpaṃta*)—they praise him
+- ऋतेन (*ṛtena*)—by true praise or by the sacrifice
+- यंतः (*yaṃtaḥ*)—the people who approach this Vena
+- सिंधुं (*siṃdhuṃ*)—the mass of water of flowing nature
+- अधि अस्तुः (*adhi astuḥ*)—obtain in the form of rain (because)
+- गंधर्वः (*gaṃdharvaḥ*)—this Vena, who bears the waters
+- अमृतानि (*amṛtāni*)—deathless, that is, ambrosia-like
+- नाम (*nāma*)—water
+- विदत् (*vidat*)—knows (that is, the water indispensable for nourishing the body, so that it does not fall to death, is in this Vena's control)
+
+##### भावार्थ (Bhāvārtha)
+
+These wise praisers, learning from the roar (thunder) that he makes where he is, the form of this Vena of great nature whom they are seeking, praise him. The people who worship him with praises and the like, or with sacrifice, obtain flowing water in the form of rain; that is, by his grace the water of the Pṛṣṭhya is obtained, and the water indispensable for nourishing the body, so that it does not fall to death, is in this Vena's control. This Vena bestows it in the form of rain on the people who praise him.
+
+##### English translation
+The pious, knowing his form, praised him, for they followed the cry of the great deer; approaching him with sacrifice, they reached the flowing (water) for the sustainer of the waters knows the amb osial (fluids).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्स॒रा जा॒रमु॑पसिष्मीया॒णा योषा॑ बिभर्ति पर॒मेव्यो॑मन्।  
+> चर॑त्रि॒यस्य॒ योनि॑षु प्रि॒यः सन्तीद॑त्प॒क्षे हि॑र॒ण्यये॒ स वे॒नः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्पराः । जारं । उपसिष्मियाणा । योषा । बिभर्ति । परमे । विओमन् ।  
+> चरत् । प्रियस्य । योनिषु । प्रियः । सन् । सीदत् । पक्षे । हिरण्यये । सः । वेनः ॥
+
+### Printed p. 669
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्परा अपां सारयित्र्यप्पु क्रीडार्थं सरंती वोपसिष्मियाणा कांतसमीपमुपगत्येषद्ध संती ॥ स्मिज् ईषद्धसने । छांदसो लिट् । तस्य लिटः कानज्वेति कानच्॥
+> ईदृशी योषा स्त्री विद्युद्रूपा जारमपां जारयितारं । यद्वा! जार उपपतिः । स
+> इव प्रियं । इमं वेनं परम उत्कृष्टे व्योमन् व्योमन्यंतरिक्षे बिभर्ति ।
+> पोषयति । धारयति वा । यथा काचिद्रूपवती योषिज्जारमुपगम्येषद्ध संती तं
+> निर्जने स्थले पुष्णाति तद्वदनेन वेनेन विद्युद्रमत इत्यर्थः । प्रियस्यास्य वेनस्य
+> योनिषु स्थानेषु चरत् । विद्युद्रूपा योषिच्चरति गच्छति । अभिसारिकावृत्ता स्वयमेव गच्छति । स च वेनः प्रियोऽस्या अनुकूलतमः सन् हिरण्यये हिरण्मये
+> हिरण्मयवद्भास्वरे हितरमणीयरूपे ना पक्ष आत्मनः पक्षभूते मेघे सीदत् ।
+> सीदति । तया सहोपविशति ॥
+
+##### Gist of the bhāṣya
+
+Apsarā is she who moves in the waters (apām), either to sport in the waters or as one who, approaching her beloved, smiles slightly (upasiṣmiyāṇā). Such a woman (yoṣā), in the form of lightning, holds the jāra of the waters, the one who makes them old (jārayitṛ). Or else, jāra is the paramour (upapati); as such a dear one she bears this Vena in the highest vyoman, the atmosphere; she nourishes or supports him. Just as some beautiful woman, approaching her lover and smiling slightly, nourishes him in a lonely place, so the lightning sports with this Vena. In the places (yoniṣu) of this dear Vena the lightning-woman moves (carat), going of herself like an abhisārikā. And Vena, dear to her and most favourable, sits (sīdat) in his golden wing (pakṣa), radiant like gold and of lovely form, that is, in the cloud which is as a wing to him; he sits down with her.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- योषा (*yoṣā*)—a young woman
+- उपसिष्मियाणा (*upasiṣmiyāṇā*)—smiling gently with a faint smile
+- जारं (*jāraṃ*)—as one approaches her paramour or beloved
+- अप्सराः (*apsarāḥ*)—moving in the mass of water in the atmosphere
+- योषा (*yoṣā*)—the woman in the form of lightning
+- जारं (*jāraṃ*)—this Vena, who is dear to her
+- परमे व्योमन् (*parame vyoman*)—in the upper part of the atmosphere
+- बिभर्ति (*bibharti*)—nourishes
+- प्रियस्य (*priyasya*)—of this beloved Vena
+- योनिषु (*yoniṣu*)—in his own place, the atmosphere
+- चरत् (*carat*)—this woman in the form of lightning moves
+- सः वेनः (*saḥ venaḥ*)—that Vena
+- प्रियः (*priyaḥ*)—being dear to this lightning-woman
+- हिरण्यये (*hiraṇyaye*)—shining like gold, or lovely
+- पक्षे (*pakṣe*)—in the cloud that is a wing to him, that is, that is around him
+- सीदत् (*sīdat*)—sits
+
+##### भावार्थ (Bhāvārtha)
+
+As a smiling woman approaches her beloved and sports with him, the woman called vidyut (lightning), moving among the clouds in the atmosphere, sports with her beloved Vena in the atmosphere; and this lightning-woman moves in the atmosphere, the own place of this beloved Vena (that is, lightning moves in the clouds). This Vena too, being dear to this lightning-woman, sits with her on the cloud-region, which shines like gold or is lovely, and roams about.
+
+##### English translation
+The Apsaras, smiling affectionately like a wife at her lover, cherishes him in the highest heaven : she wanders in the abodes of her beloved ; he, Vena, being loved, sits down on his golden wing.
+
 ---
 
-**Progress note:** Done through printed p. 663. pp. 658-663 (batch API)
+**Progress note:** Done through printed p. 669. pp. 664-669 (batch API)
