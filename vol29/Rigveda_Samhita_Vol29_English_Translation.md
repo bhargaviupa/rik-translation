@@ -6333,6 +6333,152 @@ In this context the epithet वाचस्पतिं (*vācaspatiṃ*) makes 
 
 In the present case this matter is examined on the basis of the Vedic sentences that make known these three matters. In explaining the special topics of the Ṛk चत्वारि वाक्परिमिता पदानि........ (*catvāri vākparimitā padāni........*) (Ṛ. Saṃ. 1-164-45), the divisions of speech such as noun and verb have been explained at length. भूः (*bhūḥ*)
 
+### Printed p. 238
+
+भुवः, सुवः (*bhuvaḥ, suvaḥ*): the nature of speech in the form of the vyāhṛtis has been explained there. (Ṛgveda-saṃhitā, Part 12, pp. 615-624.) There was no occasion to explain the matters now in hand in that place. Therefore, as the context requires, the above matters are examined in this section.
+
+Like Viśvakarman, who pervades the three worlds and is of the nature of the three worlds, the goddess of speech too is of the nature of the universe and has the form of the universe. It is because he is her lord that the name Vācaspati is also famous for Viśvakarman. How? —
+
+वाचा वेदा ह्यधीयंते वाचा छंदांसि तत्र ह । अथो वाक्सर्वमेवेदं तेन वाचस्पतिस्तुतः ॥ (*vācā vedā hyadhīyaṃte vācā chaṃdāṃsi tatra ha | atho vāksarvamevedaṃ tena vācaspatistutaḥ ‖*) (Bṛ. De. 2-45)
+
+It is with the help of speech that the Vedas are recited. The metres too are built upon speech. The whole universe is of the form of speech. Therefore he has the name Vācaspati. This speech itself is also called Sarasvatī.
+
+सरांसि धृतवंत्यस्य संति लोकेषु यत्रिषु । सरस्वंतमिति प्राह वाचं प्राहुः सरस्वतीं ॥ (*sarāṃsi dhṛtavaṃtyasya saṃti lokeṣu yatriṣu | sarasvaṃtamiti prāha vācaṃ prāhuḥ sarasvatīṃ ‖*) (Bṛ. De. 2-51)
+
+(Bṛ. De. 2-50) In the preceding verse there is the derivation of the word Viśvakarman. That same Viśvakarman is also famous as सरस्वान् (*sarasvān*). This name is because he possesses lakes full of ghee in the three worlds. If Viśvakarman is famous as सरस्वान् (*sarasvān*), the goddess of speech is famous as सरस्वती (*sarasvatī*). (It was stated earlier that the epithet सरस्वान् (*sarasvān*) does not refer to Viśvakarman alone; it can designate either Indra, who dwells in the middle world, or the lightning fire.) **NOTE**
+
+The identity of Viśvakarman and Prajāpati has been stated earlier. In the same way, it is known from many sentences that the two epithets Viśvakarman and Bṛhaspati teach one and the same principle. Bṛhaspati is not different, and Brahmaṇaspati is not different. How? —
+
+बृहंतौ पाति यल्लोकावेष द्वौ मध्यमोत्तमौ । बृहता कर्मणा तेन बृहस्पतिरितीळितः ॥ (*bṛhaṃtau pāti yallokāveṣa dvau madhyamottamau | bṛhatā karmaṇā tena bṛhaspatiritīḷitaḥ ‖*) (Bṛ. De. 2-39)
+
+Because he protects the middle world and the heavenly world, which are exceedingly vast, he has the name Bṛhaspati. Moreover, because he is one of great action, he is also named Bṛhaspati. Thus the derivation of the word Bṛhaspati accords with the great action of Viśvakarman. And likewise —
+
+ब्रह्म वाग्ब्रह्म सत्यं च ब्रह्म सर्वमिदं जगत् । पातारं ब्रह्मणस्तेन शौनहोत्रस्तुवन् जगौ ॥ (*brahma vāgbrahma satyaṃ ca brahma sarvamidaṃ jagat | pātāraṃ brahmaṇastena śaunahotrastuvan jagau ‖*) (Bṛ. De. 2-40)
+
+Speech is of the form of Brahman. Brahman is of the nature of truth. This whole world is full of Brahman (and therefore full of speech). For this reason Gṛtsamada, son of Śunahotra, praised this primal principle as Brahmaṇaspati.
+
+Just as Viśvakarman, the cause of the world, pervades the three worlds, so the goddess of speech (Brahman, speech), who is of his own nature, pervades the three worlds. All the other deities, such as Uṣas, are but other forms of this goddess of speech. How? —
+
+### Printed p. 239
+
+पार्थिवी मध्यमा दिव्या वागपि त्रिविधा तु या । तस्याः सूक्तानि नामानि यथास्थानं निबोधत ॥ (*pārthivī madhyamā divyā vāgapi trividhā tu yā | tasyāḥ sūktāni nāmāni yathāsthānaṃ nibodhata ‖*) (Bi. De. 2-22) **NOTE**
+
+The goddess of speech pervades the three worlds. She herself, and none other, is the presiding deity of these three, earth, atmosphere and heaven. But her naming and her praise are according to the particular action suited to each world. The order of this is as follows.
+
+कृत्स्नं तु भजते सूक्तं एषा नद्यः स्तुता भुवि । यदा चैनं भजंत्यापो यदा चौषधयो यदा ॥ (*kṛtsnaṃ tu bhajate sūktaṃ eṣā nadyaḥ stutā bhuvi | yadā cainaṃ bhajaṃtyāpo yadā cauṣadhayo yadā ‖*) (Bṛ. Ve. 2-73) **NOTE**
+
+When rivers on the earth, or waters of other forms, or plants are praised by Ṛks, all the Ṛks of that sūkta praise this goddess of speech herself.
+
+अरण्यानी च रात्रि च श्रद्धा चोषाः सरस्वती । पृथिवी चैव नामैषा भूत्वा प्यर्चं भजंति च ॥ (*araṇyānī ca rātri ca śraddhā coṣāḥ sarasvatī | pṛthivī caiva nāmaiṣā bhūtvā pyarcaṃ bhajaṃti ca ‖*)
+
+This Sarasvatī (the goddess of speech), who bears the names अरण्यानी (*araṇyānī*), रात्रिः (*rātriḥ*), श्रद्धा (*śraddhā*), उषाः (*uṣāḥ*), पृथ्वी (*pṛthvī*) and so on, is the object of the praise of the Ṛks.
+
+अग्नाया नामतोऽप्येषा भूत्वाग्नेयेषु केषुचित् । स्तुतः निपातमात्रेण तत्र तत्रेह दृश्यते ॥ (*agnāyā nāmato 'pyeṣā bhūtvāgneyeṣu keṣucit | stutaḥ nipātamātreṇa tatra tatreha dṛśyate ‖*) (Bṛ. Ve. 7-75) **NOTE**
+
+She has also the name अग्नायी (*agnāyī*). In some sūktas related to Agni (1-22-12; 5 46-8) there is praise of this deity.
+
+मध्ये सत्यदितिर्वाक् च भूत्वा चैषा सरस्वती । समग्रं भजते सूक्तं त्रिभिरेव तु नामभिः ॥ (*madhye satyaditirvāk ca bhūtvā caiṣā sarasvatī | samagraṃ bhajate sūktaṃ tribhireva tu nāmabhiḥ ‖*) (Bṛ. De. 7-76)
+
+When she dwells in the middle world, the goddess of speech, bearing the names वाक् (*vāk*), अदिति (*aditi*) and सरस्वती (*sarasvatī*), becomes the sharer of the sūkta.
+
+एषैव दुर्गा भूत्वर्चं कृत्वा स्यात्सूक्तभागिनी । तन्नामानि यमींद्राणी सरमा रोमशोर्वशी । भवत्यग्रा सिनीवाली राका चानुमतिः कुहूः । (*eṣaiva durgā bhūtvarcaṃ kṛtvā syātsūktabhāginī | tannāmāni yamīṃdrāṇī saramā romaśorvaśī | bhavatyagrā sinīvālī rākā cānumatiḥ kuhūḥ |*)
+
+### Printed p. 240
+
+गौर्धेनुदर्देवपत्न्योऽघ्ना पथ्या स्वस्तिश्च रोदसी । नौपातिकानि युग्भांजि येषां नामानि कानिचित् ॥ (*gaurdhenudardevapatnyo 'ghnā pathyā svastiśca rodasī | naupātikāni yugbhāṃji yeṣāṃ nāmāni kānicit ‖*) (Bṛ. De. 2-27, 78)
+
+यमी (*yamī*), इंद्राणी (*iṃdrāṇī*), सरमा (*saramā*), रोमशा (*romaśā*) and उर्वशी (*urvaśī*) are also her names. First, this goddess of speech is indicated by the names सिनीवाली (*sinīvālī*), राका (*rākā*), अनुमति (*anumati*), कुहूः (*kuhūḥ*), गौः (*gauḥ*), धेनु (*dhenu*), देवपत्नी (*devapatnī*), अघ्न्या (*aghnyā*), पथ्यास्वस्ति (*pathyāsvasti*), रोदसी (*rodasī*) and so on.
+
+यदा तु वाग्भवत्येषा सूर्यामुं लोकमाश्रिता । तथा सूक्तमुषा भूत्वा सूर्या च भजतेऽखिलं ॥ (*yadā tu vāgbhavatyeṣā sūryāmuṃ lokamāśritā | tathā sūktamuṣā bhūtvā sūryā ca bhajate 'khilaṃ ‖*) (Bṛ. De. 2-79)
+
+When this goddess of speech is called by the name Sūryā, she dwells in the heavenly world. Dwelling in the heavenly world and shining in the form of Sūryā and in the form of Uṣas, there are entire sūktas that praise her. (The 85th sūkta of the tenth Maṇḍala is concerned with Sūryā. There are many sūktas composed with Uṣas as their subject.) Likewise she is famous by names such as वृषाकपायिा (*vṛṣākapāyiā*), सरण्यू (*saraṇyū*) and गौरी (*gaurī*). Therefore all the goddesses who are praised in the three worlds are other forms of this goddess of speech.
+
+तिस्रस्तु देव्यो याः प्रोक्तास्त्रिस्थानैवेह सा तु वाक् । त्रिविधेनोच्यते नाम्ना ज्योतिषु त्रिषु वर्तिनी ॥ (*tisrastu devyo yāḥ proktāstristhānaiveha sā tu vāk | trividhenocyate nāmnā jyotiṣu triṣu vartinī ‖*) (Bṛ. De. 3-12)
+
+What was said earlier (2-72) is repeated here. But that she has three luminous forms is the special point here. The special forms of this speech are the transformations, in the form of radiance, connected with the three presiding deities of the worlds: Agni, Vāyu or Indra, and Āditya, who exist in the three worlds. How are these three forms? —
+
+अग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । अमुं स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ (*agnimevānugeḷā tu madhyaṃ prāptā sarasvatī | amuṃ sthitādhi lokaṃ tu bhāratī bhavati hyasau ‖*) (Bṛ. De. 3-13)
+
+She follows the earthly Agni in the form of Iḷā. In the form of Sarasvatī she follows Indra of the middle world, or the lightning fire; and, dwelling in the heavenly world, she follows Āditya in the form of Bhāratī.
+
+सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च । व्यस्ता चैव समस्ता च भजत्यग्नीनिमानपि ॥ (*saiṣā tu trividhā vāgvai divi ca vyommi ceha ca | vyastā caiva samastā ca bhajatyagnīnimānapi ‖*) (Bṛ. De. 3-15)
+
+### Printed p. 241
+
+The one unity of speech pervades the three worlds in three forms (following the special forms of Viśvakarman). She serves the three forms of Agni, whether separately (in different forms) or in the combined form, and attains identity with them.
+
+It was stated earlier that the three sages Bhṛgu, Aṅgiras and Atri, born of the seed of Varuṇa and Prajāpati, are sons of the goddess of speech (Bṛ. De. 5-98-100). It was also stated, in describing the divine history of those sages, that these three sages possess a divine portion of Agni. That is, it would not be wrong to say that even the divine portions of Agni were born by the power of the goddess of speech. It is because of this universal pervasiveness that, by mantras such as यद्वाग्त्वदंती ; देवीं वाचमजनयंत (*yadvāgtvadaṃtī ; devīṃ vācamajanayaṃta*) (Ṛ. Saṃ. 8-100-10, 11), the all-pervading goddess of speech is praised, as is stated.
+
+वाचं सर्वगतां देवीं स्तौति यद्वागिति द्वृजे ॥ (*vācaṃ sarvagatāṃ devīṃ stauti yadvāgiti dvṛje ‖*) (Bṛ. De. 6-121)
+
+Thus in the Bṛhaddevatā too the greatness of speech is praised. If it is asked whether this goddess of speech is a separate deity or a divine portion of Viśvakarman, the Śatapatha Brāhmaṇa gives the following answer.
+
+विश्वकर्मऋषिरिति । वाग्वै विश्वकर्मऋषिनाचा हीदग्ं सर्वं कृतं तस्माद्वाग्विश्वकर्मर्षिः प्रजापतिगृहीतया त्वयेति प्रजापतिसृष्टया त्वयेत्येतद्वाचं गृह्णामि प्रजाभ्य इति वाचमुपरिष्टात्पापादयत..... ॥ (*viśvakarmaṛṣiriti | vāgvai viśvakarmaṛṣinācā hīdagṃ sarvaṃ kṛtaṃ tasmādvāgviśvakarmarṣiḥ prajāpatigṛhītayā tvayeti prajāpatisṛṣṭayā tvayetyetadvācaṃ gṛhṇāmi prajābhya iti vācamupariṣṭātpāpādayata..... ‖*) (Śa. Brā. 8-1-2-9)
+
+Viśvakarman, who does all action, is none other than speech. Nothing in the world is other than what is made by Viśvakarman. Everything that is produced belongs to the dealings in the form of speech. Therefore there is non-difference between Viśvakarman and speech. The sacrificer resolves: "I take up this speech, made by Prajāpati, for the welfare of my creatures." And further —
+
+सा वा एषा वाक्रेधा विहिता । ऋचो यजूग्ंषि सामानि मंडलमेवर्चोर्चिः सामानि पुरुषो यजूग्‌ष्यथैतदमृतं यदेतदर्चिर्दीप्यत इदं तत्पुष्करपर्णं ...... ॥ (*sā vā eṣā vākredhā vihitā | ṛco yajūgṃṣi sāmāni maṃḍalamevarcorciḥ sāmāni puruṣo yajūgṣyathaitadamṛtaṃ yadetadarcirdīpyata idaṃ tatpuṣkaraparṇaṃ ...... ‖*) (Śa. Brā. 10-5-1-5)
+
+### Printed p. 242
+
+Speech is threefold, with the divisions Ṛk, Yajus and Sāman. If complete speech reflects the Puruṣa within the Āditya, who is the soul of the universe, then the Ṛk mantra reflects the orb of the Āditya, the Sāman reflects the radiance, and the Yajus mantras reflect the Puruṣa within the Āditya. Thus speech, as the reflection of Viśvakarman, is all-pervading and all-powerful.
+
+**9. The mutual relation between speech and the principle of sacrifice, the root of creation**
+
+Earlier, in the special topics of the Ṛk 1-164-35 of the Ṛ. Saṃ., the relation between speech and the sacrificial altar, the navel of the world, was explained. The purport of the sentence ब्रह्मायं वाचः परमं व्योम (*brahmāyaṃ vācaḥ paramaṃ vyoma*) was explained. It was explained that Prajāpati is the speech-form of speech, that for him, who has the form of speech, the tongue is the seat and the sky the place of support, and so on. (Ṛgveda-saṃhitā, Part 12.)
+
+The relation of woman and man is the root cause of creation. If the sacrifice is to be the root cause of the creation of the world, that too is possible only through relation with a woman. It is well known that speech is that woman. The relation that arose between the sacrifice, which is of the male form, and speech, which is of the female form, is stated in the Śatapatha Brāhmaṇa as follows.
+
+देवाश्च वासुराश्नोभये प्राजापत्याः प्रजापतेः पितुर्दायमुपेयुर्मन एव देवा उपायन्वाचमसुरा यज्ञमेव तद्देवा उपायन्वाचमसुराः ॥ (*devāśca vāsurāśnobhaye prājāpatyāḥ prajāpateḥ piturdāyamupeyurmana eva devā upāyanvācamasurā yajñameva taddevā upāyanvācamasurāḥ ‖*) (Śa. Batra. 3-2-1-18) **NOTE**
+
+The gods, born of Prajāpati, and the asuras too, wishing to share the property of their father, tried to obtain the parts of Prajāpati: mind, speech and sacrifice. The gods obtained mind and sacrifice. The asuras obtained speech.
+
+ते देवा यज्ञमब्रुवन् । योषा वा इयं वागुपमंत्रयस्व ह्वयिष्यते वै त्वेति स्वयं ना हैवैक्षत योषा वा इयं वागुपमंत्रय्यॆ............ ॥ (*te devā yajñamabruvan | yoṣā vā iyaṃ vāgupamaṃtrayasva hvayiṣyate vai tveti svayaṃ nā haivaikṣata yoṣā vā iyaṃ vāgupamaṃtrayyè............ ‖*) (Pa. Cā. 3-2-1-19) **NOTE**
+
+When the gods said, "O sacrifice, you are of the male form. If you gain the relation of speech, who is of the female form, you will shine. If you show her your wish and call her, she will call you to herself," the sacrifice too agreed to this. When it called speech accordingly, at first speech refused this invitation. When the sacrifice told this to the gods,
+
+### Printed p. 243
+
+ते होचुः । उपैव भगवो मंत्रयस्व । ह्वयिष्यते वै त्वेति त्वामुपामंत्रयत ॥ (*te hocuḥ | upaiva bhagavo maṃtrayasva | hvayiṣyate vai tveti tvāmupāmaṃtrayata ‖*) (Śa. Prā. 3-2-1-20) **NOTE**
+
+"Approach speech and call her. Such is the nature of woman: at first she refuses," they said. The sacrifice then approached speech, who is of the female form, and called her. Speech only shook her head and so indicated her consent. When it called again, speech consented fully. Then separation arose between speech and the asuras. The sacrifice joined with speech.
+
+सोऽयं यज्ञो वाचमभिदध्यौ । मिथुन्येनया स्यामिति ताग्ं संबभूव (*so 'yaṃ yajño vācamabhidadhyau | mithunyenayā syāmiti tāgṃ saṃbabhūva*) (Śa. Brā. 3-2-1-25)
+
+As soon as the consent of speech was obtained, the desire arose in the sacrifice to join with speech and enjoy. Accordingly both of them united. Then —
+
+इंद्रो ह वा ईक्षांचक्रे । महद्वा इतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यन्मा तन्नाभिभवेदिति स इंद्र एव गर्भो भूत्वैतन्मिथुनं प्रविवेश ॥ (*iṃdro ha vā īkṣāṃcakre | mahadvā ito 'bhvaṃ janiṣyate yajñasya ca mithunādvācaśca yanmā tannābhibhavediti sa iṃdra eva garbho bhūtvaitanmithunaṃ praviveśa ‖*) (Śa. Brā. 3-2-1-26)
+
+As soon as Indra learned of the union of speech and sacrifice, he thought: "As a result of their being together, a great asura power will surely be born. It will surely have the power to defeat me. Without giving it any opportunity, I myself will enter the womb of it." So he entered that couple in the form of an embryo. It is stated that this is the root of the creation of the world. How? —
+
+स प्रजापतिरिंद्रं पुत्रमब्रवीत् । अनेन त्वा कामप्रेण यज्ञेन यजयानि येन मामिदं परमेष्ठ्ययायजदिति तथेति तमयाजयित्स इष्टाकामयताहमेवेदग्ं सर्वं स्यामिति स वागभवद्वाग्वा इदग्ं सर्वं तस्मादाहुरिंद्रो वागिति ॥ ( (*sa prajāpatiriṃdraṃ putramabravīt | anena tvā kāmapreṇa yajñena yajayāni yena māmidaṃ parameṣṭhyayāyajaditi tatheti tamayājayitsa iṣṭākāmayatāhamevedagṃ sarvaṃ syāmiti sa vāgabhavadvāgvā idagṃ sarvaṃ tasmādāhuriṃdro vāgiti ‖ (*) (Śa. Brā. 11-1-6-18)
+
+Prajāpati spoke thus to his son Indra. When he said, "O Indra, I wish to perform for your welfare this sacrifice, granting what is desired, which Parameṣṭhin performed with me as its object," Indra assented. As soon as that sacrifice was performed, Indra desired to become himself the soul of all and all-pervading. Immediately he attained the form of speech, all-pervading and the soul of all. It is shown that Indra is none other than speech, that is, identity.
+
+### Printed p. 244
+
+**4. Speech is the support of the creation of the world. Viśvakarman, the lord of speech, is the root cause.** **NOTE**
+
+वाचो वै प्रजा विश्वकर्मा जजान (*vāco vai prajā viśvakarmā jajāna*) (Śa. Brā. 2-5-7-21)
+
+Viśvakarman created all creatures with the help of speech alone: thus it is shown that speech is the support. The order of this creation is stated as follows.
+
+स मनसा वाचं मिथुनग्० समभवत् । सोऽष्टौ द्रप्सान् गर्भ्यभवत्तेऽष्टौ वसवोऽसृज्यंत तानस्यामुपादधात् ॥ (*sa manasā vācaṃ mithunag0 samabhavat | so 'ṣṭau drapsān garbhyabhavatte 'ṣṭau vasavo 'sṛjyaṃta tānasyāmupādadhāt ‖*) (Śa. Brā. 6-1-2-6)
+
+Viśvakarman, who has the form of Prajāpati, joined with speech in the form of meditation. Then he conceived, together with eight drops of his seed. As a result the eight Vasus were produced. He established them on the earth.
+
+स मनसैव वाचं मिथुनग्ं समभवत्स एकादश द्रप्सान्‌गर्भ्यभवत्त एकादश रुद्रा असृज्यंत तानंतरिक्ष उपादधात् ॥ (*sa manasaiva vācaṃ mithunagṃ samabhavatsa ekādaśa drapsāngarbhyabhavatta ekādaśa rudrā asṛjyaṃta tānaṃtarikṣa upādadhāt ‖*) (Pa. Brā. 6-1-2-7) **NOTE**
+
+Again, in the form of meditation, he joined with speech and was united with her. Then he conceived, together with eleven drops of his seed. From that eleven Rudras were produced. He established these eleven Rudras in the atmosphere.
+
+स मनसैव वाचं मिथुनग्ं समभवत्स द्वादश द्रप्सान्‌गर्भ,भवत्ते द्वादशादित्या असृज्यंत तान् दिव्युपादधात् ॥ (*sa manasaiva vācaṃ mithunagṃ samabhavatsa dvādaśa drapsāngarbha,bhavatte dvādaśādityā asṛjyaṃta tān divyupādadhāt ‖*) (Śa. Brā. 6.1.2-8)
+
+Again, in the form of meditation, he entered into relation with speech. Then he conceived, together with twelve drops of his seed. From that twelve Ādityas were produced. He established these twelve Ādityas in the heavenly world.
+
+स मनसैव वाचं मिथुनग्ं समभवत्स गर्भ्यभवत्स विश्वान् देवानसृजत तान् दिक्षोपादधात् ॥ (*sa manasaiva vācaṃ mithunagṃ samabhavatsa garbhyabhavatsa viśvān devānasṛjata tān dikṣopādadhāt ‖*) (Ca. Jā. 6-1-2-9) **NOTE**
+
+Again, in the form of meditation, he came into union with speech. Then too he conceived. As a result the Viśvedevas were produced. He established them as the guardians of the directions.
+
 ---
 
-**Progress note:** Done through printed p. 237. Vol 29 pp. 231-237: end of Special Topics on sacrifice (Sūkta 81), Ṛk 7 with bhāṣya, beginning of Special Topics
+**Progress note:** Done through printed p. 244. Vol 29 pp. 238-244: Special Topics on speech (Vāc) and Viśvakarman, sacrifice and speech
