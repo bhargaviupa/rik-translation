@@ -1651,3 +1651,119 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 660 | `The words "asti vā" indicate` → `The words "api vā" indicate` | SECOND-PASS S13: Kannada p.660: ಅಪಿ ವಾ ಎಂಬ ಶಬ್ದಗಳು |
 | 660 | `"one skilled in the four Vedas, among the deva-party" — here, since the statement's qualit` → `"Devadatta is learned in all four Vedas" — here, since the qualities of Devadatta are desc` | SECOND-PASS S14: Kannada p.660: ಯೋ ದೇವದತ್ತಃ ಸ ಚತುರ್ವೇದಾಭಿಜ್ಞಃ --- ದೇವದತ್ತನೆಂಬುವನು ನಾಲ್ಕು ವೇದಗಳಲ್ಲಿ ಪಾರಂಗತನು; ದೇವದತ್ತನ ಗುಣಗಳ ವರ್ಣನೆಯಿರುವುದರಿಂದ ಸ್ತುತಿ |
 | 663 | `recited melodiously but *without* singing` → `recited plainly, *without* singing` | SECOND-PASS S14: Kannada p.663: ಶಸ್ತ್ರವೆಂದರೆ---ಗಾನವಿಲ್ಲದೆ ಸುಮ್ಮನೆ ಪಠಿಸುವ ಮಂತ್ರವು |
+
+### 2026-11-25 second pass, batch e665-720.tsv
+| page | old → new | why |
+|---|---|---|
+| 665 | `But a sentence like "Devadattaḥ caturvedābhijñaḥ" (Devadatta, knower of the four Vedas) co` → `But a sentence like "Devadattaḥ caturvedābhijñaḥ" (Devadatta, knower of the four Vedas) is` | SECOND-PASS S14: Kannada: the sentence is stuti because it states a guna; in the second sentence there is no guna-relation so stuti does not arise; English gave a different reas |
+| 666 | `for the sake of a mantra-linkage, offers one Ājya-oblation into the Āhavanīya fire and two` → `for the purification of speech, offers one Ājya-oblation into the Āgnīdhra fire and two in` | SECOND-PASS S14: Kannada: vaakkuddhigaagi (for purification of speech); one aajyaahuti at Agnidhra, two at Ahavaniya; English reversed the fires and gave a wrong purpose |
+| 667 | `**mantra-svara**` → `**mandra-svara**` | SECOND-PASS S13: Kannada: upaamshu-svara, mandra-svara |
+| 667 | `Adhyayas 1–8` → `Adhyayas 1–6` | SECOND-PASS S1: Kannada: Taittiriya Samhita 6th kanda adhyayas 1-6 |
+| 670 | `A Soma-yaga may have a single sacrificer, or as many as sixteen ritvijs.` → `In a Soma-yaga there is one sacrificer and there are sixteen ritvijs.` | SECOND-PASS S14: Kannada: yajamana obbanu, hadinaaru jana ritvijaru iruvaru (one sacrificer and sixteen priests), not "or" |
+| 670 | `**"Abhiplava"** is the name given to a Soma-yaga performed over six days. This too is of t` → `**"Shadaha"** is the name given to a Soma-yaga performed over six days. This is of two kin` | SECOND-PASS S13: Kannada: Shadaha is the six-day Soma-yaga of two kinds, Abhiplava and Prishthya; English called the six-day yaga Abhiplava |
+| 670 | `from when the birds' calls first begin until the earliest light of dawn` → `even before the birds' calls are heard` | SECOND-PASS S14: Kannada: pakshigala dhvani kelibaruvudakkimta munche (before the birds' sound is heard); English reversed |
+| 671 | `and the second Rik serves as the Puronuvākyā for the Indra-Vāyu [offering]` → `and the first Rik of the second tṛca, that is, the fourth Rik, serves as the Puronuvākyā f` | SECOND-PASS S14: Kannada: eradaneya trcada modalaneya rkku emdare naalkaneya rkku Indra-Vayu puronuvakya |
+| 674 | `the pressing-stone is called "**grāvā**" and is referred to by that name in many contexts.` → `it is also called "**grāvā**" in many contexts. Besides these, this lower stone is sometim` | SECOND-PASS S16: Kannada: the lower stone is called adri, also graava in many contexts, and this lower stone also ulukhala; English added a separate pressing-stone |
+| 674 | `and the plant grows on a mountain, with many joints/nodes` → `and the plant is a finger thick, with many joints/nodes` | SECOND-PASS S16: Kannada: bettugaatraviruvudu (a finger thick), not growing on a mountain |
+| 674 | `9-2-?` → `9-2-9` | SECOND-PASS S3: Kannada prints 9-2-9 |
+| 675 | `about 2,000 feet elevation` → `about 7,000 feet elevation` | SECOND-PASS S1: Kannada prints 7000 adi |
+| 675 | `Its stem is bare and soft, reddish-brown with a mixture of pink; it has a rough, thorny bo` → `Its stem is round and soft, of a red colour mixed with white, about a finger thick; its le` | SECOND-PASS S14: Kannada: kaandavu dundaagiyu mrduvaagiyu bilupu misravaada kempu bannavulladdu, bettu gaatra dappa; elegalu bahala svalpa, bilupaagiyu sannavaagiyu |
+| 675 | `though to some people it becomes sour if kept` → `though it becomes sour if kept for some days` | SECOND-PASS S16: Kannada: kelavu dinagalavarege ittiddare huLiyaaguvudu (no "to some people") |
+| 675 | `It grows here and there in scattered fashion, and those familiar with it can find it readi` → `Here and there it has nodes, and it can be broken easily.` | SECOND-PASS S14: Kannada: allalli ginnugaliruvavu; idannu sulabhavaagi murebahudu |
+| 675 | `A mountain called **Mūjavat**` → `A mountain called **Maujavata**` | SECOND-PASS S13: Kannada: maujavata (Kannada name followed) |
+| 675 | `is found in the lakes of a region called "Śaryaṇāvat"` → `is found on the banks of a lake called "Śaryaṇāvat"` | SECOND-PASS S14: Kannada: Sharyanaavat emba sarovarada dadagalalli (on the banks of the lake called Sharyanavat) |
+| 675 | `in a country called **Paśtyā**, where five tribes of people dwell` → `in a country called **Paśtyā**, and in places where five tribes of people dwell` | SECOND-PASS S14: Kannada: two separate places: the country Pasta, and the place where five tribes live |
+| 675 | `?-7-29` → `8-7-29` | SECOND-PASS S3: Kannada prints 8-7 29 (8-7-29) |
+| 676 | `which is why the word "**pavitra**" is said to arise from purifying with sheep's wool` → `and that this hair was twisted to make the pavitra is shown by a word in the cited Riks` | SECOND-PASS S14: Kannada: ee tubatavannu hoseddu pavitravannu maaduttiddarendu hvaraamsi emba shabdadimda vyaktavaaguvudu |
+| 676 | `The freshly pressed Soma-juice was then mixed with milk` → `The Soma-juice was then mixed with freshly milked cow's milk` | SECOND-PASS S14: Kannada: hosadaagi karedha hasuvina haalu (freshly milked cow's milk), not freshly pressed juice |
+| 676 | `"ābhyāyana"` → `"āpyāyana"` | SECOND-PASS S13: Kannada: aapyaayana |
+| 676 | `?-63-4` → `9-63-4` | SECOND-PASS S3: Kannada prints 9-63-4 (the 9- stands at the foot of p.675) |
+| 676 | `9-65-?, ?-25,` → `9-65-25,` | SECOND-PASS S3: Kannada prints 9-65-25 (number runs over a line) |
+| 676 | `8-2-1?, 10, 11,` → `8-2-10, 11,` | SECOND-PASS S3: Kannada prints 8-2-10, 11 |
+| 678 | `review): 2, 7-3-78` → `review): 7-3-78` | SECOND-PASS S2: "2" is the sukta number of the running head, not a reference of the grammar section |
+| 679 | `review): 3, 2, 6-3-136` → `review): 6-3-136` | SECOND-PASS S2: "3, 2" come from the running head (varga 3, sukta 2), not references |
+| 680 | `of the four roots beginning` → `of the forty-four roots beginning` | SECOND-PASS S1: Kannada: nalavattanaalku (44) dhatugalu |
+| 682 | `long (Udvāta) tongue` → `long (that is, extended) tongue` | SECOND-PASS S16: Kannada: diirghavaada(uddavaada) naaligeyu; no Udvata |
+| 682 | `(Rigveda 8.?)` → `(Rigveda 8-49-5)` | SECOND-PASS S3: Kannada prints R.S. 8-49-5 |
+| 682 | `and, by extension, "the drinking of milk."` → `and that the plural of the word denotes "the drinking of milk."` | SECOND-PASS S14: Kannada: aa shabdada bahuvachanavu haalina paanavu emba artha (the plural denotes drinking of milk) |
+| 682 | ` — used in the sense of "wife"` → `` | SECOND-PASS S16: Kannada: priitipaatragalaada striyu (beloved women); no "wife" |
+| 682 | `in the sense of "sister/mother-cow" [i.e., a milch-cow]` → `in the sense of "sister"` | SECOND-PASS S16: Kannada: sahodari emba arthadalli |
+| 682 | `(Rigveda 5.?)` → `(Rigveda 5-62-2)` | SECOND-PASS S3: Kannada prints R.S. 5-62-2 |
+| 682 | `arises with the meaning "milk-cow," and this sense` → `arises with the meaning "tongue," and this sense` | SECOND-PASS S14: Kannada: dhena shabdavu naalige emba arthavannu heluvudu |
+| 683 | `(Rigveda 4.?)` → `(Rigveda 4-58-6)` | SECOND-PASS S3: Kannada prints R.S. 4-58-6 |
+| 683 | `review): 1-3, 3-1-9, 4-58-6, 1-141-1, 7-94-4, 8-32-22, 10-43-6, 10-104-3, 104-10, 6-1-173` → `review): 3-1-9, 4-58-6, 1-141-1, 7-94-4, 8-32-22, 10-43-6, 10-104-3, 10-104-10, 6-1-173` | SECOND-PASS S3: Kannada prints 10-104-10 (the 10- runs over a line); 1-3 comes from the running head |
+| 683 | `as "sacrificers performing Soma-yajnas"` → `as "many sacrificers, performers of Soma-yajnas"` | SECOND-PASS S17: Kannada: anekamamdi yajamanaru, somayaajigalu |
+| 686 | `(Rigveda 3.?.?)` → `(Rigveda 2-19-2)` | SECOND-PASS S3: Kannada prints R.S. 2-19-2 |
+| 688 | `those who are foremost among the sacrificers, who are provided with oblation-food and the ` → `those who are chief in yajnas and the like furnished with oblation-portions` | SECOND-PASS S14: Kannada: havirbhaagaadigalimda yuktavaada yajnaadigalalli mukhyabhutaravaru |
+| 688 | `come quickly and attentively to our side` → `come quickly to our side` | SECOND-PASS S16: Kannada: jaagrateyaagi banni (come quickly); no "attentively" |
+| 689 | `5-74-6; 8-5-20` → `5-74-6, 7; 8-5-20` | SECOND-PASS S3: Kannada: 5-74-6, 7 |
+| 689 | `1-139-[?]` → `1-139-5` | SECOND-PASS S3: Kannada prints 1-139 5 |
+| 689 | `5-25-2; 8-43-32` → `5-25-2, 7; 8-43-32` | SECOND-PASS S3: Kannada: 5-25-2, 7 |
+| 690 | `**Snāvasuḥ**` → `**Svāvasuḥ**` | SECOND-PASS S13: Kannada: svaavasuh |
+| 690 | `**Dhiyovasuḥ**` → `**Dhiyāvasuḥ**` | SECOND-PASS S13: Kannada: dhiyaavasuh |
+| 690 | `**Aśvyaṇīvasū [?]**` → `**Aghṛṇīvasū**` | SECOND-PASS S13: Kannada: aghrnivasu (printed name; English had a guess marked [?]) |
+| 690 | `**Kaitadvasū**` → `**Kṛtadvasū**` | SECOND-PASS S13: Kannada: krtadvasu |
+| 690 | `**Gotrāvasuḥ**` → `**Gūrtāvasuḥ**` | SECOND-PASS S13: Kannada: guurtaavasuh |
+| 690 | `1-6-4-[?], 3` → `1-6-4-2, 3` | SECOND-PASS S3: Kannada prints Sha. Bra. 1-6-4-2, 3 |
+| 690 | `"Citravasu"` → `"Citrāvasu"` | SECOND-PASS S13: Kannada: chitraavasu |
+| 691 | `sixteen or so words` → `twenty-six words` | SECOND-PASS S1: Kannada: ippattaaru (26) padagala madhyadalli |
+| 691 | `as "possessing oblation-food"; likewise Skandasvāmin, in his own Vedabhāṣya, glosses "vāji` → `as "a continuity of oblations"; likewise Skandasvāmin, in his own Vedabhāṣya, glosses "vāj` | SECOND-PASS S14: Kannada: Sayana: havissantati; Skandasvami: yaagasantati |
+| 691 | `review): 1-3, 1-48` → `review): 1-48` | SECOND-PASS S2: "1-3" comes from the running head |
+| 692 | `sixteen words meaning` → `twenty-six words meaning` | SECOND-PASS S1: Kannada: kshipranaamagalaada 26 shabdagala |
+| 693 | `or [the sacrificer's] presence, he who has got the Soma-juice ready` → `or to the vicinity of the sacrificer who has got the Soma-juice ready` | SECOND-PASS S14: Kannada: athava somarasavannu siddhapadisittukondiruva yajamanana samipakke |
+| 693 | `makṣu)** — with alertness` → `makṣu)** — quickly` | SECOND-PASS S14: Kannada: jaagrateyaagi (quickly) |
+| 694 | `**...[Geldner and Grassmann] take "niṣkṛta" to mean "the appointed place" or "the place of` → `**...[Grassmann] takes "niṣkṛta" to mean "a fixed or appointed place."**` | SECOND-PASS S15: Kannada: Geldner: kramapadisalpatta; Grassmann: nishchitavaada athava gottaada sthala; English gave the place sense to both |
+| 695 | `**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is said to be the first of three R` → `**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is the first of three Riks concern` | SECOND-PASS S14: Kannada p.694-695: application at the start of the Gavamayana sattra, 24th day, morning pressing, praising Mitra-Varuna; also Abhiplava-shadaha; Ashvalayana 24t |
+| 695 | `review): 4, 7-2` → `review): 7-2` | SECOND-PASS S2: "4" comes from the running head (varga 4) |
+| 695 | `(Uṇādi 3-108[?])` → `(Uṇādi 2-186)` | SECOND-PASS S3: Kannada: U. Su. 2-186 |
+| 695 | `(Phit-sutra 4-14)` → `(Phit-sutra 84)` | SECOND-PASS S3: Kannada p.695: Phi. Su. 84 |
+| 695 | `(Nirukta 4-2)` → `(Nirukta 12-7)` | SECOND-PASS S3: Kannada: Niru. 12-7 |
+| 695 | `(Panini 1-4-60)` → `(Panini 2-2-18)` | SECOND-PASS S3: Kannada: Pa. Su. 2-2-18 |
+| 697 | `one who devours the harmful ones (rākṣasas), the destroyer of enemies` → `one who devours the enemies (riśa), the destroyer of enemies` | SECOND-PASS S16: Kannada: risha = shatrugala, adasam = bhakshakanada (no rakshasas) |
+| 697 | `that is, who is ever capable` → `that is, exceedingly strong by his own capacity` | SECOND-PASS S14: Kannada: svasamarthyadimdale atibalashaaliyaada |
+| 697 | `his power knows no weakening` → `his strength has no equal` | SECOND-PASS S14: Kannada: ivana balakke eneyilla (no equal) |
+| 698 | `; this is the Bhashyakara's sense, taking these as two separate words joined together with` → `; this is the Bhashyakara's sense. The word "dakṣa" is read among the twenty-eight words m` | SECOND-PASS S14: Kannada: dakshashabdavu balavemba arthavannu suchisuva ippatteMTu shabdagala madhyadalli pathitavagide (Nighantu 2-9) |
+| 698 | `consider "*manaskeṃdu*"...` → `take it to mean "mind"...` | SECOND-PASS S13: Kannada: vedarthayatnakararu manassemdu (as mind) |
+| 699 | `takes "manaskeṃdu" [an intended-mind reading] in the sense of "purpose."` → `takes it in the sense of "purpose."` | SECOND-PASS S13: Kannada: Geldner uddeshavemdu (purpose) |
+| 699 | `But the Bhashyakara's own sense — "capability" — as stated on the previous page, fits bett` → `But the Bhashyakara's sense — "strength," following the Nighaṇṭu (2-9) — is the apt one.` | SECOND-PASS S14: Kannada: bhashyakararu nighantuvannanusarisi helida bala emba arthave yuktavaagiruvudu |
+| 699 | `In the Taittiriya Samhita of the Yajurveda (4-7-1), "dakṣa" is glossed as both "strength" ` → `In the Taittiriya Samhita of the Yajurveda (4-7-1) the words "dakṣa" and "bala" stand toge` | SECOND-PASS S15: Kannada: Taittiriya Samhita 4-7-1; Mahidhara explains daksha as jnanendriya kaushalya and bala as karmendriya kaushalya; English attributed the glosses to the V |
+| 700 | `He explains that those who protect against violence, being armed as it were with the weapo` → `Durga, commenting, explains the first as those who hurl weapons against the one who inflic` | SECOND-PASS S14: Kannada: Durga: reshayadasinah = ayudhavannu prayogisuvavanu, himsemaduvavanu; reshayadarinah = himsemaduvavanannu siluvavanu, nashapadisuvavanu |
+| 700 | `**Regarding the deities to whom this epithet applies: Nirukta scholars — Riśṭaṃ himsati** ` → `**Mahīdhara, the Bhashyakara, explains it thus:** "riśa" is harm done in enmity, and "dasy` | SECOND-PASS S15: Kannada: Mahidhara (bhashyakara) gives the riśadasa explanations; Devarajayajvan Nighantu 4-3-53 riś = himsayam; Mahidhara on Vajasaneya Samhita 33-72 (to Vayu  |
+| 700 | `**Sāyaṇācārya explains this word, in his commentary, as meaning: "Riśānām" — "of the harmf` → `**Sāyaṇācārya, in his commentary on this word, explains it as: "of the harmful ones, the d` | SECOND-PASS S14: Kannada: Sayana: devourer of harmers; RV 1-64-5 (Maruts): devourers or hurlers away; RV 6-51-4 (Adityas): hurlers away or devourers; English gave "one who prote |
+| 700 | `**Some who have written treatises on Vedic interpretation state:**` → `**Skandasvāmin explains it thus:**` | SECOND-PASS S15: Kannada: Skandasvami explains rishadasah (ris = himsarthah, asukshepane) |
+| 700 | `"**Riśāt**" means "one who inflicts harm"; "**adaḥ**" means "eater"; "**riśādaḥ**" therefo` → `the root "riś" means to harm; those who harm are hurled away, thrown off, that is, destroy` | SECOND-PASS S14: Kannada: risir dhatuvige himse maadu, pranatyagamaadu; rishatah himsisuvavarannu asyati = bisaaduva, ettiogeyuva (hurls away); English made it "eater" |
+| 701 | `He is inclined to think the word "Riśat" refers to a particular tribe/people, and that the` → `He holds that "riśat" may be taken as "a little, a morsel," and the word as "one who eats ` | SECOND-PASS S14: Kannada: Ludwig: rishat = svalpavannu, omdu churannu; atti = tinnuvavanu |
+| 701 | `Skandasvāmin calls it "an act to be examined/investigated" (*vicāryaṃ karma*), and Sāyaṇa` → `Skandasvāmin calls it a rite named for rain (vṛṣṭi), and Sāyaṇa` | SECOND-PASS S14: Kannada: Skandasvami: vrshtyakhyam karma (rite named for rain) |
+| 701 | `This is correct, because it is well established that Vṛṣṭi (rain) is brought about through` → `This seems correct, because in the Vedic period a belief was current that rain (vṛṣṭi) com` | SECOND-PASS S14: Kannada: idu sariyemdu torutte, yekemdare vedagala kaaladalli yajnamaduvudarimda vrshti baruvudu emba nambikeyu rudhavaagittu |
+| 701 | `Vāyu and [Mitra-Varuṇa]` → `Mitra and Varuṇa` | SECOND-PASS S15: Kannada: Skandasvami: sadhanta = sadhayantau, vrshtim kurvantau (Mitra-Varuna), not Vayu |
+| 702 | `**...that is, Varuṇa causes lightning to occur through the day.**` → `**...by the command of Mitra and Varuṇa, the presiding deities of day and night, Parjanya ` | SECOND-PASS S14: Kannada: ahoraatraabhimaanigalaada Mitravarunara ajneyamte Parjanyanu male kareyuttane |
+| 702 | `that Mitra-Varuṇa together summon the rain onto the earth` → `that, by the command of Mitra and Varuṇa, Parjanya sends rain onto the earth` | SECOND-PASS S14: Kannada: Mitravarunara ajneyamte Parjanyanu bhumiya mele vrshtiyannu kareyuvanendu |
+| 702 | `hundred-odd words` → `hundred words` | SECOND-PASS S1: Kannada: 100 padagala madhyadalli |
+| 702 | `discusses this word further.` → `glosses the verb as "moisten, sprinkle."` | SECOND-PASS S14: Kannada: Yaskaru ee sandarbhadalli ghrtavige neneyisu chumukisu emdarthamadiddare |
+| 702 | `Some Vedic-ritual scholars say that "ghṛta" means "flowing water" or "melted butter," and ` → `Devarājayajvan says in his Nighaṇṭu that the root "ghṛ" means to flow or to fall in a stre` | SECOND-PASS S15: Kannada: Devarajayajvana nighantuvinalli dhrta dhatuvige hari athava dhareyagi bilu; dhrta = antariksadimda dhareyagi biluva niru; adarimda dhrtashabdakke udaka |
+| 707 | `**"Ṛtena"** — we have already fully discussed this word (see page 647). **"Ṛtāvṛdhau"** — ` → `**"Ṛtena"** — we have already discussed this word (see page 647). **"Ṛtāvṛdhau"** — Yāska ` | SECOND-PASS S14: Kannada p.707: Yaska: udaka (2-25), satya or yajna (4-19); Bhashyakara udaka; Vedarthayatna dharma; Madhava satyasya vardhayitarau; Skandasvami yajna, udaka, sa |
+| 707 | `**In the present passage, the word "vṛdhau" is used in the sense of augmenting; the word "` → `**Therefore many scholars hold that "ṛta" in the word "ṛtāvṛdhau" means "truth" or "yajña,` | SECOND-PASS S14: Kannada: ritavridhau = satya/yajna, ritaspricha = udaka; rita = Universal law, not truth alone; English has an unrelated discussion of vrdhau/sprsau appearing t |
+| 707 | `**Many hold that the sense "truth" fits best here.** In the context where Mitra-Varuṇa are` → `In Rik 10-190-1 "ṛta" and "satya" stand as two separate words, so it is clear that "ṛta" i` | SECOND-PASS S14: Kannada: Rk 10-190-1 has rtam and satyam as separate words; Taittiriya Upanishad 4-23-1 supports; to be explained fully elsewhere; English gave a different argu |
+| 707 | `review): 1-4, 2-25` → `review): 2-25` | SECOND-PASS S2: "1-4" comes from the running head (varga 4) |
+| 708 | `as meaning "creators who establish truth."` → `as meaning "those who uphold truth."` | SECOND-PASS S14: Kannada: satyavannu uddharisuvavaru (those who uphold/raise truth) |
+| 708 | `"those who establish truth" is preferred` → `"those who uphold truth" is preferred` | SECOND-PASS S14: Kannada: satyavannu uddharisuvavaru |
+| 709 | `review): 2-1-2, 6-1-198` → `review): 21-2, 6-1-198` | SECOND-PASS S3: Kannada p.709 prints Pa. Su. 21-2 (applied as printed) |
+| 712 | `7-4-72, 9, 6-2-141` → `7-4-72, 6-2-141` | SECOND-PASS S2: "9" is the mantra number, not a reference |
+| 713 | `dwelling in a vast, established abode, or possessed of a broad, stable dwelling` → `having many dwelling-places, or being a refuge for many` | SECOND-PASS S14: Kannada: aneka nivasasthanagalulla athava anekarige ashrayabhutaru |
+| 713 | `dadhāte)** — uphold, bestow` → `dadhāte)** — may they give` | SECOND-PASS S14: Kannada: kodali (may they give) |
+| 713 | `We, who are engaged in performing this yajna, are aided by these deities Mitra and Varuṇa,` → `These deities Mitra and Varuṇa, whom we are praising, are exceedingly wise; they were born` | SECOND-PASS S14: Kannada bhavartha: naavu stotramaduttiruva ee Mitravarunareṃba devategalu bahu medhavigalu; anekarige upakaramaduvudakkagi utpannaraadavaru; anekarige ashrayada |
+| 713 | `since the meaning "helper of many" fits well in this context, most scholars explain "tuvi"` → `since they are read among twelve words meaning "many," the Bhashyakara explains "tuvi" as ` | SECOND-PASS S14: Kannada: hanneradu shabdagala madhyadalli pathitavagiruvudarimda bhashyakararu tuvi emdare anekaru emdarthamadiruvaru |
+| 714 | `this sense too fits well.` → `this sense is the apt one.` | SECOND-PASS S14: Kannada: ... emba arthave samanjasavaagiruvudu |
+| 714 | `the Bhashyakara and other authors adopt the meaning drawn from Yāska's own explanation, si` → `the Bhashyakara has explained following Yāska's Nighaṇṭu, and so the sense he gives is not` | SECOND-PASS S14: Kannada: bhashyakararu Yaskara nighantuvannu anusarisi vyakhyanamaduvudarimda avaru heluva arthavu illi ashtu samarpakavagilla |
+| 714 | `**"Urukṣayā"** — the Bhashyakara explains this as "possessed of a broad, established dwell` → `**"Urukṣayā"** — the Bhashyakara has explained this as "refuge of many." But since in the ` | SECOND-PASS S14: Kannada: bhashyakararu anekarige ashrayabhutaru emdu arthamadiddare; adare Rgvedadalli uru-vistaravada kshaya-vasasthana emba arthagalu visheshavagiruvudarimda  |
+| 714 | `**"Dakṣaṃ"** — this word, meaning "strength," is well known from the discussion given at t` → `**"Dakṣaṃ"** — since "dakṣa" is read among the twenty-eight words meaning "strength," the ` | SECOND-PASS S14: Kannada: dakshashabdavu balavemba arthavannu heluva ippatteMTu namagala madhyadalli pathitavaagiruvudarimda bhashyakararu balavemdu arthamadiruvaru; adare Mahid |
+| 714 | `**"Apasam"** — the Bhashyakara explains "apas" as meaning "karma" (action, rite). Further,` → `**"Apasam"** — since "apas" is read among the twenty-six names of "karma," the Bhashyakara` | SECOND-PASS S14: Kannada: apas karma-namagala madhyadalli pathita; bhashyakararu dakshaM, apasaM eradu shabdagalannu svatantravada visheshyapadagalemdu bhavisi artha madiruvaru; |
+| 714 | `the derivation "**varṇāvarṇyor unan**" (Uṇādi 1-9[?]) is applied` → `the derivation by the Uṇādi rule for the roots "kṛ," "vṛ" and "dṛ" with the affix "unan" (` | SECOND-PASS S3: Kannada: kr vr dr ... unan (U. Su. 3-333) |
+| 714 | `(Panini 6-3-26[?]) — in a dvandva-compound of deity-names, the first member retains its ac` → `(Panini 6-2-141) — in a dvandva-compound of deity-names, both members retain their accent ` | SECOND-PASS S3: Kannada: devataadvandve ca (Pa. Su. 6-2-141); both members keep prakrti-svara |
+| 714 | `(2.?.?)` → `(3-1-1-3)` | SECOND-PASS S3: Kannada prints Niru. 3-1-1-3 |
+| 715 | `(Uṇādi 5-65[?])` → `(Uṇādi 4-646)` | SECOND-PASS S3: Kannada: U. Su. 4-646 |
+| 715 | `(Rigveda Samhita 1.?.?)` → `(Rigveda Samhita 6-69-1)` | SECOND-PASS S3: Kannada: R. S. 6-69-1 |
+| 715 | `review): 1-4, 6-1-45, 3-3-56, 6-1-163, 6-1-201, 6-1-223,` → `review): 6-1-45, 3-3-56, 6-1-163, 6-1-201, 6-1-233,` | SECOND-PASS S3: Kannada p.715 prints Pa. Su. 6-1-233 (applied as printed); 1-4 comes from the running head |
+| 715 | `(9-42-6), the number given, "9-42-6," should be understood as: 9th Maṇḍala, 42nd Sūkta` → `(9-72-6), the number given, "9-72-6," should be understood as: 9th Maṇḍala, 72nd Sūkta` | SECOND-PASS S1: Kannada: 9-72-6; 9th mandala, 72nd sukta, 6th mantra |
+| 715 | `by Pro. S. R. Rangarao. 1947.` → `by Pro. Y. R. Rangarao. 1947.` | SECOND-PASS S13: Kannada: Pro: Y. R. Rangarao |
+| 715 | `ಪ್ರೊ: ಎಸ್. ಆರ್. ರಂಗರಾವ್` → `ಪ್ರೊ: ವೈ. ಆರ್. ರಂಗರಾವ್` | SECOND-PASS S13: Kannada: pro: vai. aar. rangaraav |

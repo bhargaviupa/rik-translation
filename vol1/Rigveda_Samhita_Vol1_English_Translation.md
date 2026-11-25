@@ -15015,7 +15015,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **This is said. These two verses condense and summarize everything discussed so far.** The statements "pṛhugaṃ śaṃsati, niṣkevalyaṃ śaṃsati, ājyaṃ stuvate, pṛṣṭhyaṃ stuvate" are simply instructions used within the Agnishtoma-yaga. **"Pṛhuga" and "Nishkevalya" name Shastra-mantras; "Ajya" and "Prishtha" name Stotra-mantras.** Riks used to praise deities without being sung are called "Shastra"; mantras suited to chanted praise are called "Stotra." **These Stotra-Shastra mantras are themselves primary, each bearing its own distinct fruit.**
 
-**If it were said instead that these mantras are merely preparatory, this would force the roots "stu" and "śaṃs" to be understood as describing only a deity's quality — with no primary sense of their own.** But a sentence like "Devadattaḥ caturvedābhijñaḥ" (Devadatta, knower of the four Vedas) constitutes genuine praise precisely because it identifies a specific person; if no such connection existed, no genuine praise would be possible. **Therefore, Vedic injunctive statements such as "ājyena devaṃ prakāśayet" (one should illuminate the deity through Ajya) would lose their primary sense entirely on the rival view. To avoid contradicting scripture, one must accept that Stotra and Shastra are themselves primary rites** — bearing, if not visible purpose, then certainly an unseen one (adṛṣṭa-phala).
+**If it were said instead that these mantras are merely preparatory, this would force the roots "stu" and "śaṃs" to be understood as describing only a deity's quality — with no primary sense of their own.** But a sentence like "Devadattaḥ caturvedābhijñaḥ" (Devadatta, knower of the four Vedas) is praise because it states a quality; in a sentence like "Call the one who knows the four Vedas" there is no connection with a quality, so no praise arises there. **Therefore, Vedic injunctive statements such as "ājyena devaṃ prakāśayet" (one should illuminate the deity through Ajya) would lose their primary sense entirely on the rival view. To avoid contradicting scripture, one must accept that Stotra and Shastra are themselves primary rites** — bearing, if not visible purpose, then certainly an unseen one (adṛṣṭa-phala).
 
 ---
 
@@ -15057,14 +15057,14 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **These Prātar-anuvāka mantras include the "agnimīḷe" mantras and others** [i.e., all of Sukta 1] — their application has already been explained.
 
-**We shall now describe, in careful detail, the sequence the Hotṛ follows when reciting the Prātar-anuvāka.** In the yajna, the Adhvaryu — who directs the Hotṛ, the primary ritvij — must periodically instruct the other ritvijs to perform their respective tasks; such directive statements are called "**Praiṣas**." Here, the Adhvaryu addresses the Hotṛ: "O Hotṛ! Recite the Prātar-anuvāka mantras, addressing the deities." **Upon this, the Hotṛ proceeds to the vicinity of the Āgnīdhra fire-pit and, for the sake of a mantra-linkage, offers one Ājya-oblation into the Āhavanīya fire and two into the Āgnīdhra fire, following the prescribed mantras. He then enters the Havirdhāna-hall (where the Soma-cart is kept) through its eastern doorway, sits near the yoke of the carts there, and recites this mantra first—**
+**We shall now describe, in careful detail, the sequence the Hotṛ follows when reciting the Prātar-anuvāka.** In the yajna, the Adhvaryu — who directs the Hotṛ, the primary ritvij — must periodically instruct the other ritvijs to perform their respective tasks; such directive statements are called "**Praiṣas**." Here, the Adhvaryu addresses the Hotṛ: "O Hotṛ! Recite the Prātar-anuvāka mantras, addressing the deities." **Upon this, the Hotṛ proceeds to the vicinity of the Āgnīdhra fire-pit and, for the purification of speech, offers one Ājya-oblation into the Āgnīdhra fire and two into the Āhavanīya fire, following the prescribed mantras. He then enters the Havirdhāna-hall (where the Soma-cart is kept) through its eastern doorway, sits near the yoke of the carts there, and recites this mantra first—**
 
 ### Page 667
 
 > आपो रेवतीः क्षयथा हि वस्वः क्रतुं च भद्रं बिभृथामृतं च । रायश्च स्थ स्वपत्यस्य पत्नीः सरस्वती तद्गृणते वयो धात् ॥
 > *āpo revatīḥ kṣayathā hi vasvaḥ kratuṃ ca bhadraṃ bibhṛthāmṛtaṃ ca | rāyaśca stha svapatyasya patnīḥ sarasvatī tadgṛṇate vayo dhāt ‖* (Ṛgveda Saṃhitā 10-30-12; verse re-read from the better scan in the [?] pass — it is a Ṛk, not a mnemonic)
 
-**Following this, the Hotṛ addresses Agni, Uṣas, and the Aśvin-deities in turn, reciting the Prātar-anuvāka mantras — in three portions.** Mantras addressing Agni belong to the "**Āgneya-kratu**"; those addressing Uṣas, to the "**Auṣasya-kratu**"; those addressing the Aśvins, to the "**Āśvina-kratu**." **Within each of these kratus, there are seven distinct sections, each in a different meter** — Gāyatrī, Anuṣṭubh, Triṣṭubh, Bṛhatī, Uṣṇik, Jagatī, and Paṅkti. These mantras — not fewer than a hundred in total — must be recited continuously from midnight until dawn. Depending on context, they are recited in one of seven accent-registers, including **upāṃśu-svara** and **mantra-svara**. **Among these Prātar-anuvāka mantras, within the Āgneya-kratu's own portion, the "agnimīḷe" sukta is included** — already expounded above.
+**Following this, the Hotṛ addresses Agni, Uṣas, and the Aśvin-deities in turn, reciting the Prātar-anuvāka mantras — in three portions.** Mantras addressing Agni belong to the "**Āgneya-kratu**"; those addressing Uṣas, to the "**Auṣasya-kratu**"; those addressing the Aśvins, to the "**Āśvina-kratu**." **Within each of these kratus, there are seven distinct sections, each in a different meter** — Gāyatrī, Anuṣṭubh, Triṣṭubh, Bṛhatī, Uṣṇik, Jagatī, and Paṅkti. These mantras — not fewer than a hundred in total — must be recited continuously from midnight until dawn. Depending on context, they are recited in one of seven accent-registers, including **upāṃśu-svara** and **mandra-svara**. **Among these Prātar-anuvāka mantras, within the Āgneya-kratu's own portion, the "agnimīḷe" sukta is included** — already expounded above.
 
 **Now, in the morning pressing, following the Vaishvadeva-grahaṇa, the Hotṛ must recite the Shastra-mantra called the "Pralugat-shastra."** This Shastra-mantra includes the mantras of this present, second sukta, beginning "vāyunā yāhi."
 
@@ -15072,7 +15072,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **It is worth explaining here what "Prātaḥ-savana" (the morning pressing) actually means.** In the Soma-yaga, the Soma creeper's juice is crushed out with stones, and, following prescribed mantra-procedures, homa and similar rites are performed with that juice for the deities' satisfaction — after which the sacrificer and his ritvijs drink the Soma juice. **There are seven varieties of Soma-yaga**, traditionally called by the seven "Soma" designations: **Agnishtoma, Atyagnishtoma, Ukthya, Shodashi, Atiratra, Aptoryama**, and **Vajapeya**. Among these, the **Agnishtoma-yaga is the foundational form** — that is, it serves as the base from which the remaining six Soma-yagas derive, through certain modifications.
 
-**We shall summarize the Agnishtoma-yaga's procedure here.** Its full, prescribed treatment is given at length in the Taittiriya Samhita of the Yajurveda, Kanda 6, Adhyayas 1–8. **Since explaining this rite's own form requires clarifying many technical terms — and since doing so fully would make this work excessively long — only the Sanskrit verses summarizing the rite's structure are given here, together with a Kannada explanation of only those points genuinely useful for the present context:**
+**We shall summarize the Agnishtoma-yaga's procedure here.** Its full, prescribed treatment is given at length in the Taittiriya Samhita of the Yajurveda, Kanda 6, Adhyayas 1–6. **Since explaining this rite's own form requires clarifying many technical terms — and since doing so fully would make this work excessively long — only the Sanskrit verses summarizing the rite's structure are given here, together with a Kannada explanation of only those points genuinely useful for the present context:**
 
 **A concise summary of the Agnishtoma-yaga's structure:**
 
@@ -15105,11 +15105,11 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 670
 
-**A Soma-yaga may have a single sacrificer, or as many as sixteen ritvijs.** In some Soma-yagas, many sacrificers together, along with an even larger number of ritvijs, participate. **Such a Soma-yaga, performed jointly by many people together, is called a "Sattra."** This Sattra-yaga is of two kinds: one performed continuously over twelve days, and another performed over a full year. The year-long Sattras are themselves of many kinds — **Ganamayana, Adityanamayana, Angirasamayana**, and others — of which Ganamayana serves as the foundational form underlying all the rest.
+**In a Soma-yaga there is one sacrificer and there are sixteen ritvijs.** In some Soma-yagas, many sacrificers together, along with an even larger number of ritvijs, participate. **Such a Soma-yaga, performed jointly by many people together, is called a "Sattra."** This Sattra-yaga is of two kinds: one performed continuously over twelve days, and another performed over a full year. The year-long Sattras are themselves of many kinds — **Ganamayana, Adityanamayana, Angirasamayana**, and others — of which Ganamayana serves as the foundational form underlying all the rest.
 
-**"Abhiplava"** is the name given to a Soma-yaga performed over six days. This too is of two kinds: **Abhiplava** and **Prishthya**. The great sage Ashvalayana describes the defining character of both: "**ubhayato-jyotiḥ ṣaḍahakam**" and "**antarataś-jyotiḥ ṣaḍahakam**." That is: in a six-day Soma-yaga where the first and last days are performed like the Agnishtoma-yaga, and the remaining four days like the Ukthya Soma-yaga, that special form is called "**Abhiplava**." "**Prishthya**" refers to the variant Soma-yaga where the first and fourth days are performed like Agnishtoma, and the remaining days like Ukthya.
+**"Shadaha"** is the name given to a Soma-yaga performed over six days. This is of two kinds: **Abhiplava** and **Prishthya**. The great sage Ashvalayana describes the defining character of both: "**ubhayato-jyotiḥ ṣaḍahakam**" and "**antarataś-jyotiḥ ṣaḍahakam**." That is: in a six-day Soma-yaga where the first and last days are performed like the Agnishtoma-yaga, and the remaining four days like the Ukthya Soma-yaga, that special form is called "**Abhiplava**." "**Prishthya**" refers to the variant Soma-yaga where the first and fourth days are performed like Agnishtoma, and the remaining days like Ukthya.
 
-**In the Agnishtoma-yaga, the day when the Soma juice is pressed and extracted is called "Sutya-dina."** Since Stotra and Shastra mantras are recited during the time of extracting the Soma juice, this day is also called "**Stutya-dina**." On this day, in the early morning — that is, after the previous night's midnight has passed, but before sunrise, from when the birds' calls first begin until the earliest light of dawn — **the mantras called the Pratar-anuvaka must be recited to completion.** This Pratar-anuvaka comprises three portions: the **Agneya-kratu** (Riks connected with Agni), the **Auṣasya-kratu**, and the **Aśvina-kratu**. Each portion must contain numerous mantras spanning the seven meters — Gayatri, Anushtubh, Trishtubh, Brihati, Ushnik, Jagati, and Pankti.
+**In the Agnishtoma-yaga, the day when the Soma juice is pressed and extracted is called "Sutya-dina."** Since Stotra and Shastra mantras are recited during the time of extracting the Soma juice, this day is also called "**Stutya-dina**." On this day, in the early morning — that is, after the previous night's midnight has passed, but before sunrise, even before the birds' calls are heard — **the mantras called the Pratar-anuvaka must be recited to completion.** This Pratar-anuvaka comprises three portions: the **Agneya-kratu** (Riks connected with Agni), the **Auṣasya-kratu**, and the **Aśvina-kratu**. Each portion must contain numerous mantras spanning the seven meters — Gayatri, Anushtubh, Trishtubh, Brihati, Ushnik, Jagati, and Pankti.
 
 **After reciting the Pratar-anuvaka, the rite called "Prataḥ-savana" takes place.** "Savana" means: crushing the Soma creeper with stones and extracting its juice. This rite occurs at three separate times: extraction in the morning is called "**Prataḥ-savana**"; extraction at midday is called "**Madhyandina-savana**"; extraction in the evening is called "**Tritiya-savana**."
 
@@ -15128,7 +15128,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **That is: in the sukta "vāyav ā yāhi," each set of three Riks in turn is assigned one deity — Vāyu, Indra-Vāyu, Mitrā-Varuṇā — and in the sukta "aśvinā yajña-vīriṇaḥ," the following four deities — Aśvinau, Indraḥ, Viśve-devāḥ, Sarasvatī — are similarly praised, three Riks each. All seven of these deities together bear the name "Pralugat-devatāḥ."**
 
-**Regarding this sukta "vāyav ā yāhi" — as with the preceding "agnimīḷe" sukta, its meter throughout is Gāyatrī.** The sukta's first three Riks are Vāyu-related. Among them, the first Rik serves as the Puronuvākyā for the Vāyu-deity, and the second Rik serves as the Puronuvākyā for the Indra-Vāyu [offering] — this application is stated directly.
+**Regarding this sukta "vāyav ā yāhi" — as with the preceding "agnimīḷe" sukta, its meter throughout is Gāyatrī.** The sukta's first three Riks are Vāyu-related. Among them, the first Rik serves as the Puronuvākyā for the Vāyu-deity, and the first Rik of the second tṛca, that is, the fourth Rik, serves as the Puronuvākyā for the Indra-Vāyu deities — this application is stated directly.
 
 **Ashvalayana likewise states, in his own Shrauta-sutra:**
 
@@ -15220,31 +15220,31 @@ O Vāyu, your form is exceedingly beautiful. We have here, in this yajna, presse
 
 **"Somāḥ"** — the Veda contains many mantras concerning Soma; the entire ninth Maṇḍala is devoted to praise of Soma. When many deities are being invoked, [Soma] is called to come to the yajna so that they may drink it. Many yajnas are connected with Soma, of which the **Agniṣṭoma** is chief. In this yajna, only a single animal (a goat) is offered to Agni. Through the recitation of Stotra-Shastra mantras and the like, the Soma is drawn out in the prescribed manner at all three pressings, consecrated, and drunk by the sacrificer and the ritvijs. In the other Soma-yajnas too, the same order is followed with certain variations.
 
-**What, then, is "Soma"?** This needs some examination. Soma is a particular kind of creeper (a climbing plant). Its juice is extracted by placing it on a stone and crushing it with another stone. The lower stone is called "**adri**" (Rigveda Samhita, several citations); the pressing-stone is called "**grāvā**" and is referred to by that name in many contexts. Besides these, the stones are sometimes called "**ulūkhala**" (mortar) in some places.
+**What, then, is "Soma"?** This needs some examination. Soma is a particular kind of creeper (a climbing plant). Its juice is extracted by placing it on a stone and crushing it with another stone. The lower stone is called "**adri**" (Rigveda Samhita, several citations); it is also called "**grāvā**" in many contexts. Besides these, this lower stone is sometimes called "**ulūkhala**" (mortar) in some places.
 
 **The juice that flows over the cloth from the crushed creeper is described in the Rigveda in many ways:** as tawny-brown (**babhru**), as reddish (**aruṇa**), as ruddy-hued (**aruṣa**), as golden-green (**hariḍvarṇa**), as red (**śoṇa**), and as white/bright (**śukra**).
 
 **On its taste and smell, it is described as sweet (svādiṣṭa, svādu, madhu, madhumat)** and as fragrant. **The Shatapatha Brahmana states that when this juice is left for some days it becomes foul-smelling through fermentation, and that, taken in excess, it can cause vomiting** (Taittiriya Samhita and Shatapatha Brahmana, several citations).
 
-**Professor Max Müller, drawing on the Ayurvedic work "Dhūrtasvāmi-bhāṣya-ṭīkā," gives this account:** the Soma creeper is somewhat blackish, leafless, its juice flows like milk, and the plant grows on a mountain, with many joints/nodes — which goats and other animals eat. Its juice, when freshly pressed, is sweet and fragrant, but after some days turns sour and foul-smelling.
+**Professor Max Müller, drawing on the Ayurvedic work "Dhūrtasvāmi-bhāṣya-ṭīkā," gives this account:** the Soma creeper is somewhat blackish, leafless, its juice flows like milk, and the plant is a finger thick, with many joints/nodes — which goats and other animals eat. Its juice, when freshly pressed, is sweet and fragrant, but after some days turns sour and foul-smelling.
 
-*(References printed on this page, in order (as read in the numeral review; mostly Ṛgveda — the print names the source of each): 1-130-2, 1-135-5, 1-137-1, 2-36-1, 9-11-5, 1-28-1, 1-83-6, 3-42-2, 9-80-4, 9-82-3, 1-28-1, 6, 9-11-4, 9-31-5, 9-33-2, 9-63-4, 9-98-7, 9-107-19, 9-40-2, 9-45-3, 9-78-4, 9-61-21, 9-82-1, 9-111-1, 9-3-9, 9-65, 8 & 12, 9-66-26, 9-82-1, 9-111-1, 9-97-13, 9-97-32, 9-109-3, 9-97-19, 9-107-2, 9-1-1, 9-2-?, 9-18-2, 9-30-5, 9-56-4, 4-1-3-6, 8, 2-3-2-6, 5-5-4-9, 12-7-1-11.)*
+*(References printed on this page, in order (as read in the numeral review; mostly Ṛgveda — the print names the source of each): 1-130-2, 1-135-5, 1-137-1, 2-36-1, 9-11-5, 1-28-1, 1-83-6, 3-42-2, 9-80-4, 9-82-3, 1-28-1, 6, 9-11-4, 9-31-5, 9-33-2, 9-63-4, 9-98-7, 9-107-19, 9-40-2, 9-45-3, 9-78-4, 9-61-21, 9-82-1, 9-111-1, 9-3-9, 9-65, 8 & 12, 9-66-26, 9-82-1, 9-111-1, 9-97-13, 9-97-32, 9-109-3, 9-97-19, 9-107-2, 9-1-1, 9-2-9, 9-18-2, 9-30-5, 9-56-4, 4-1-3-6, 8, 2-3-2-6, 5-5-4-9, 12-7-1-11.)*
 
 ### Page 675
 
-**This Soma creeper is no longer found in the lands of India today.** The plant called **Homa (Haoma)**, described in the Zend Avesta (the Persian scripture), must be the very same as this Soma. **The German scientist Schindler**, while travelling in Persia, reported that this plant had come to his notice. According to him, it grows especially on mountains; he saw it growing at about 2,000 feet elevation, reaching about four feet in height. Its stem is bare and soft, reddish-brown with a mixture of pink; it has a rough, thorny body; its leaves are very few, small, and of a pinkish, thin sort; leaves generally fall off, and at the tips of the stems there are clusters resembling millet-like seed-heads. Its juice is mixed with a greenish tint; in taste it is somewhat sweet, though to some people it becomes sour if kept; the colour of the juice is a reddish-brown (*babhru*) mixed with a yellowish tint. Growing near large trees, it climbs around the trunk like a creeper. It grows here and there in scattered fashion, and those familiar with it can find it readily. **This German scholar's description closely agrees with the description Professor Max Müller drew from the Ayurvedic work.**
+**This Soma creeper is no longer found in the lands of India today.** The plant called **Homa (Haoma)**, described in the Zend Avesta (the Persian scripture), must be the very same as this Soma. **The German scientist Schindler**, while travelling in Persia, reported that this plant had come to his notice. According to him, it grows especially on mountains; he saw it growing at about 7,000 feet elevation, reaching about four feet in height. Its stem is round and soft, of a red colour mixed with white, about a finger thick; its leaves are very few, whitish and small; leaves generally fall off, and at the tips of the stems there are clusters resembling millet-like seed-heads. Its juice is mixed with a greenish tint; in taste it is somewhat sweet, though it becomes sour if kept for some days; the colour of the juice is a reddish-brown (*babhru*) mixed with a yellowish tint. Growing near large trees, it climbs around the trunk like a creeper. Here and there it has nodes, and it can be broken easily. **This German scholar's description closely agrees with the description Professor Max Müller drew from the Ayurvedic work.**
 
-**This creeper grows in open ground, along riverbanks, and on mountains** — but the mountain-grown plant yields the most juice. The more elevated its place of growth, the more juice it yields. For this reason, the Rigveda in many places speaks of Soma as "brought from the mountains" (several citations). A mountain called **Mūjavat** is famed as a Soma-growing peak (Rigveda 10-34-1; Atharva Veda; Vajasaneyi Samhita; Nirukta; Shatapatha Brahmana, etc.), and the Avesta likewise says Soma is carried down from the mountains.
+**This creeper grows in open ground, along riverbanks, and on mountains** — but the mountain-grown plant yields the most juice. The more elevated its place of growth, the more juice it yields. For this reason, the Rigveda in many places speaks of Soma as "brought from the mountains" (several citations). A mountain called **Maujavata** is famed as a Soma-growing peak (Rigveda 10-34-1; Atharva Veda; Vajasaneyi Samhita; Nirukta; Shatapatha Brahmana, etc.), and the Avesta likewise says Soma is carried down from the mountains.
 
-**The Rigveda says in several places that the Soma creeper is found in the lakes of a region called "Śaryaṇāvat"** (Rigveda 8-7-29; 8-64-11; 9-65-22; 9-113-1 and others); in a place called **Ārjīka**; in a country called **Paśtyā**, where five tribes of people dwell; and in the regions around the river **Suṣomā** (whose name — "su" + "soma," "rich in Soma" — probably reflects that the area yielded good Soma). **From this we learn that in Vedic times, Soma grew freely on the open plains and along the riverbanks of what is now the Punjab.** Since the creeper growing in the open yields less juice than the mountain-grown plant, people carefully soaked it in water and used it...
+**The Rigveda says in several places that the Soma creeper is found on the banks of a lake called "Śaryaṇāvat"** (Rigveda 8-7-29; 8-64-11; 9-65-22; 9-113-1 and others); in a place called **Ārjīka**; in a country called **Paśtyā**, and in places where five tribes of people dwell; and in the regions around the river **Suṣomā** (whose name — "su" + "soma," "rich in Soma" — probably reflects that the area yielded good Soma). **From this we learn that in Vedic times, Soma grew freely on the open plains and along the riverbanks of what is now the Punjab.** Since the creeper growing in the open yields less juice than the mountain-grown plant, people carefully soaked it in water and used it...
 
-*(References printed on this page, in order (as read in the numeral review; mostly Ṛgveda — the print names the source of each): 7000, 1-93-6, 3-48-2, 5-36-2, 5-43-4, 5-85-2, 9-18-1, 9-46-1, 9-71-4, 9-82-3, 9-88-9, 3-22-10, 5-22-5, 3-61, 9-8, 2-6-2-17, 18, ?-7-29, 8-64-11, 9-65-22, 9-113-1, 8-7-29, 8-64-11, 9-65-23, 9-113-2, 9-65-23, 9-65-23, 9-92-3, 9-101-9, 8-7-29, 8-64-11.)*
+*(References printed on this page, in order (as read in the numeral review; mostly Ṛgveda — the print names the source of each): 7000, 1-93-6, 3-48-2, 5-36-2, 5-43-4, 5-85-2, 9-18-1, 9-46-1, 9-71-4, 9-82-3, 9-88-9, 3-22-10, 5-22-5, 3-61, 9-8, 2-6-2-17, 18, 8-7-29, 8-64-11, 9-65-22, 9-113-1, 8-7-29, 8-64-11, 9-65-23, 9-113-2, 9-65-23, 9-65-23, 9-92-3, 9-101-9, 8-7-29, 8-64-11.)*
 
 ### Page 676
 
 *(The opening lines continue a string of Rigveda citations, whose exact chapter-verse numbers are not reproduced here.)*
 
-**...[the creeper was] moistened in this manner with water; this soaking is called "ābhyāyana" (swelling/refreshing).** After the juice was pressed out of the creeper, it was purified by passing it through a filter called "**pavitra**" — a strainer of sheep's wool (Rigveda, several citations). **For these strainers they used the tuft of hair at the tail-end of the sheep** (called "*aṇva*"; the sheep's fleece is also called "avi"), which is why the word "**pavitra**" is said to arise from purifying with sheep's wool (Rigveda, several citations). **The juice thus purified was collected in vessels made of cow-hide** (called "kośa" or "pātra"; several Rigveda citations), and from there was poured into small vessels called "**kalaśa**" (pots). **The freshly pressed Soma-juice was then mixed with milk (Rigveda, many citations) or curds (dadhi), or with barley** (*yava*) — the mixed preparations bearing distinct names: **gavāśira** (mixed with milk), **dadhyāśira** (mixed with curds), **yavāśira** (mixed with barley); each mixture is called by its own name. **The milk and other substances mixed with Soma are called "āśir."** The vessel in which Soma-juice is offered to the deities is called "**camū**" (Rigveda, several citations); at times "camasa" is also used for such a vessel. **The Soma-juice and the milk called "āśir" were mixed in a vessel called "kalaśa."**
+**...[the creeper was] moistened in this manner with water; this soaking is called "āpyāyana" (swelling/refreshing).** After the juice was pressed out of the creeper, it was purified by passing it through a filter called "**pavitra**" — a strainer of sheep's wool (Rigveda, several citations). **For these strainers they used the tuft of hair at the tail-end of the sheep** (called "*aṇva*"; the sheep's fleece is also called "avi"), and that this hair was twisted to make the pavitra is shown by a word in the cited Riks (Rigveda, several citations). **The juice thus purified was collected in vessels made of cow-hide** (called "kośa" or "pātra"; several Rigveda citations), and from there was poured into small vessels called "**kalaśa**" (pots). **The Soma-juice was then mixed with freshly milked cow's milk (Rigveda, many citations) or curds (dadhi), or with barley** (*yava*) — the mixed preparations bearing distinct names: **gavāśira** (mixed with milk), **dadhyāśira** (mixed with curds), **yavāśira** (mixed with barley); each mixture is called by its own name. **The milk and other substances mixed with Soma are called "āśir."** The vessel in which Soma-juice is offered to the deities is called "**camū**" (Rigveda, several citations); at times "camasa" is also used for such a vessel. **The Soma-juice and the milk called "āśir" were mixed in a vessel called "kalaśa."**
 
 **The word "Soma," when speaking of the Soma-juice, is customarily used both in the singular ("somaḥ") and in the plural ("somāḥ" or "somāsaḥ").** This is because — since milk and other different substances were added to the Soma-juice — the prepared Soma came in many kinds, so the plural "somāḥ" can properly be used. More detail about the Soma creeper and its juice will be given when the ninth Maṇḍala is explained.
 
@@ -15254,7 +15254,7 @@ O Vāyu, your form is exceedingly beautiful. We have here, in this yajna, presse
 
 *(This section takes up the derivation of "darśate" [darśata], using the Uṇādi rule for roots such as "bhṛ, mṛ, dṛś, yaj, pari-…" with the affix "ataC," and then other words of the verse, in the established dense sutra-citation register; not reproduced in detail.)*
 
-*(References printed on this page, in order (as read in the numeral review; mostly Ṛgveda — the print names the source of each): ?-63-4, 9-74-9, 9-79-4, 9-80-5, 9-82-5, 9-83-5, 1-28-9, 3-31-16, 3-36-7, 8-33-1, 9-3-9, 9-6-3, 9-16-2, 9-86-47, 9-107-11, 2-36-1, 9-86-11, 9-8-5, 9-3-2, 9-63-4, 9-106-13, 1-28-9, 9-65-?, ?-25, 9-66-26, 9-70-7, 9-79-4, 9-101-16, 9-67-14, 9-67-15, 9-75-7, 9-1-9, 9-6-7, 9-11-2, 9-14-3, 9-16-6, 9-19-2, 9-22-7, 9-31-5, 9-33-2, 9-45-3, 9-46-4, 8-2-9, 9-11-6, 9-81-1, 9-68-4, 1-137-1, 1-187-9, 2-41-3, 3-32-2, 3-42-1, 8-52-10, 8-101-10, 9-64-28, 1-5-5, 1-137-2, 5-51-7, 7-74-4, 9-22-3, 1-187-9, 2-22-1, 3-37-7, 8-92-4, 1-134-6, 3-53-14, 8-2-1?, 10, 11, 8-31-5, 9-70-1, 10-49-10, 10-67-6, 3-48-4, 8-82-7, 9-62-15, 16, 9-63-2, 9-97-21, 37, 46, 9-99-6, 10-91-15, 4-35-5, 8-82-7, 10-16-8, 10-96-9, 9-72-1, 3-390.)*
+*(References printed on this page, in order (as read in the numeral review; mostly Ṛgveda — the print names the source of each): 9-63-4, 9-74-9, 9-79-4, 9-80-5, 9-82-5, 9-83-5, 1-28-9, 3-31-16, 3-36-7, 8-33-1, 9-3-9, 9-6-3, 9-16-2, 9-86-47, 9-107-11, 2-36-1, 9-86-11, 9-8-5, 9-3-2, 9-63-4, 9-106-13, 1-28-9, 9-65-25, 9-66-26, 9-70-7, 9-79-4, 9-101-16, 9-67-14, 9-67-15, 9-75-7, 9-1-9, 9-6-7, 9-11-2, 9-14-3, 9-16-6, 9-19-2, 9-22-7, 9-31-5, 9-33-2, 9-45-3, 9-46-4, 8-2-9, 9-11-6, 9-81-1, 9-68-4, 1-137-1, 1-187-9, 2-41-3, 3-32-2, 3-42-1, 8-52-10, 8-101-10, 9-64-28, 1-5-5, 1-137-2, 5-51-7, 7-74-4, 9-22-3, 1-187-9, 2-22-1, 3-37-7, 8-92-4, 1-134-6, 3-53-14, 8-2-10, 11, 8-31-5, 9-70-1, 10-49-10, 10-67-6, 3-48-4, 8-82-7, 9-62-15, 16, 9-63-2, 9-97-21, 37, 46, 9-99-6, 10-91-15, 4-35-5, 8-82-7, 10-16-8, 10-96-9, 9-72-1, 3-390.)*
 
 ### Page 677
 
@@ -15286,7 +15286,7 @@ O Vāyu, your form is exceedingly beautiful. We have here, in this yajna, presse
 > *vā́yav ukthébhir jarante tvā́m áchā jaritā́raḥ |*
 > *sutásomā aharvídaḥ ||2||*
 
-*(References printed in the grammar section of this page, in order (as read in the numeral review): 2, 7-3-78, 3-4-87, 3-1-68, 2-4-73, 6-4-102, 8-1-28, 3-4-87, 3-1-4, 6-3-137, 6-1-34, 6-1-108, 3-3-57, 6-1-162.)*
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 7-3-78, 3-4-87, 3-1-68, 2-4-73, 6-4-102, 8-1-28, 3-4-87, 3-1-4, 6-3-137, 6-1-34, 6-1-108, 3-3-57, 6-1-162.)*
 
 ### Page 679
 
@@ -15316,13 +15316,13 @@ O Vāyu, the ritvijs, sacrificers and others know at what time and what work is 
 
 *(A brief grammatical note follows in the source on "jaritāraḥ" from the root "jṛ" [to praise], on the accent of "sutasomāḥ" as a bahuvrīhi compound, and on "aharvidaḥ" as a compound, in the established dense register.)*
 
-*(References printed in the grammar section of this page, in order (as read in the numeral review): 3, 2, 6-3-136, 6-2-1, 6-1-223, 6-2-2, 6-2-?, 139.)*
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 6-3-136, 6-2-1, 6-1-223, 6-2-2, 6-2-?, 139.)*
 
 ### Page 680 — Sūkta 2, The Third Mantra
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics on Rik 2-2) ॥**
 
-**"Ukthebhiḥ"** does not mean sung Stotras; it means the Shastra-mantras such as the Pṛhuga and others, which are recited rather than chanted. **"Jarate"** — of the four roots beginning "arcati" and "gāyati" [in the traditional list of praising-roots], the root "jṛ" is used in the sense of worshipping and singing, so "jarate" carries the sense of offering praise; likewise **"jaritāraḥ"** means "those who offer praise." **"Aharvidaḥ"** — in this word, "ahaḥ" means "day," referring to the Sutyā-day on which Soma-juice is pressed at the morning pressing and the others; this is a single day within the Agniṣṭoma. **"Sutasomāḥ"** — "those who have prepared the Soma-juice" — likewise makes clear that "ahaḥ" means the Sutyā-day specifically. Even so, one cannot say with certainty that the poet had precisely this sense in mind in using the word "aharvidaḥ."
+**"Ukthebhiḥ"** does not mean sung Stotras; it means the Shastra-mantras such as the Pṛhuga and others, which are recited rather than chanted. **"Jarate"** — of the forty-four roots beginning "arcati" and "gāyati" [in the traditional list of praising-roots], the root "jṛ" is used in the sense of worshipping and singing, so "jarate" carries the sense of offering praise; likewise **"jaritāraḥ"** means "those who offer praise." **"Aharvidaḥ"** — in this word, "ahaḥ" means "day," referring to the Sutyā-day on which Soma-juice is pressed at the morning pressing and the others; this is a single day within the Agniṣṭoma. **"Sutasomāḥ"** — "those who have prepared the Soma-juice" — likewise makes clear that "ahaḥ" means the Sutyā-day specifically. Even so, one cannot say with certainty that the poet had precisely this sense in mind in using the word "aharvidaḥ."
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Summarized.)* The particle "accha" takes a lengthened vowel in the Saṃhitā by the rule that particles in mantras take lengthening. "**Sutasomāḥ**" is a bahuvrīhi compound ("those by whom Soma is pressed"), with the accent of the first member retained by the rule for bahuvrīhi. "**Aharvidaḥ**" is a compound whose final member, being a verbal derivative, keeps the stem accent.
 
@@ -15372,15 +15372,15 @@ O Vāyu, the sacrificer who performs the yajna, and many others besides, call yo
 
 ### Page 682
 
-**...[Some take "dhenā" to mean] "tongue" (jihvā)**, and on their view this Rik's sense would run: "O Vāyu, your long (Udvāta) tongue reaches the sacrificer who calls you for the drinking of Soma." **The German scholar Geldner**, after many investigations into the word "dhenā," concluded that it means "tongue" (in the sense of "speech," vāk); the sacrificer's Stotra (vāk), he says, generates in the deity a desire for the Soma-drinking. A Rik of the Rigveda supports this view: "**yaṃ te svadhāvan…**" (Rigveda 8.?). **But in a later study, this same scholar concluded that "dhenā" means "the milk-yielding cow's teat/milk-flow." According to Professor Max Müller, "dhenā" means "a stream of milk."** Both scholars hold that "dhenā" means "a cow that yields milk" and, by extension, "the drinking of milk." **In the Veda, the word "dhenā" is used in a variety of senses in different contexts:**
+**...[Some take "dhenā" to mean] "tongue" (jihvā)**, and on their view this Rik's sense would run: "O Vāyu, your long (that is, extended) tongue reaches the sacrificer who calls you for the drinking of Soma." **The German scholar Geldner**, after many investigations into the word "dhenā," concluded that it means "tongue" (in the sense of "speech," vāk); the sacrificer's Stotra (vāk), he says, generates in the deity a desire for the Soma-drinking. A Rik of the Rigveda supports this view: "**yaṃ te svadhāvan…**" (Rigveda 8-49-5). **But in a later study, this same scholar concluded that "dhenā" means "the milk-yielding cow's teat/milk-flow." According to Professor Max Müller, "dhenā" means "a stream of milk."** Both scholars hold that "dhenā" means "a cow that yields milk" and that the plural of the word denotes "the drinking of milk." **In the Veda, the word "dhenā" is used in a variety of senses in different contexts:**
 
-(1) A Rik in which "dhenā" refers to a beloved woman — used in the sense of "wife": "*striyo hi dāsa āyudhāni cakre kiṃ mā karann abalā asya senāḥ…*" (Rigveda 5-30-9) — where "dhenā" is used for women who are objects of affection.
+(1) A Rik in which "dhenā" refers to a beloved woman: "*striyo hi dāsa āyudhāni cakre kiṃ mā karann abalā asya senāḥ…*" (Rigveda 5-30-9) — where "dhenā" is used for women who are objects of affection.
 
-(2) "*ahan vyaṃsam uśadhag vaneṣv…*" and "*tvāvakro rathyo na dhenā rejante viśvā kṛtrimāṇi bhīṣā*" — in these Riks "dhenā" is used in the sense of "sister/mother-cow" [i.e., a milch-cow].
+(2) "*ahan vyaṃsam uśadhag vaneṣv…*" and "*tvāvakro rathyo na dhenā rejante viśvā kṛtrimāṇi bhīṣā*" — in these Riks "dhenā" is used in the sense of "sister".
 
-(3) "*viśvāḥ pinvathaḥ svasarasya dhenā anu vāmekaḥ pavir āvavarta*" (Rigveda 5.?) — here "dhenā" is used for a female animal, a cow.
+(3) "*viśvāḥ pinvathaḥ svasarasya dhenā anu vāmekaḥ pavir āvavarta*" (Rigveda 5-62-2) — here "dhenā" is used for a female animal, a cow.
 
-(4) "*visṛṣṭadhenā bharate suvṛktir…*" and "*mādayasva haribhir ye ta indra viṣyasva śipre vi sṛjasva dhene*" (Rigveda 1-101-10) — here, from the root "dhe" (to drink), the word "dhenā" arises with the meaning "milk-cow," and this sense is still found in the later-literature word "**stanandhaya**" (a suckling child — "one who drinks milk").
+(4) "*visṛṣṭadhenā bharate suvṛktir…*" and "*mādayasva haribhir ye ta indra viṣyasva śipre vi sṛjasva dhene*" (Rigveda 1-101-10) — here, from the root "dhe" (to drink), the word "dhenā" arises with the meaning "tongue," and this sense is still found in the later-literature word "**stanandhaya**" (a suckling child — "one who drinks milk").
 
 *(Several of the Rigveda verse-locators above are too small to read reliably at this resolution and are given only in approximate form; the Kannada text's citations in this passage should be checked against the source if precision matters.)*
 
@@ -15390,15 +15390,15 @@ O Vāyu, the sacrificer who performs the yajna, and many others besides, call yo
 
 **More Rigvedic uses of "dhenā"** (continuing the numbered list from the previous page):
 
-(5) In several Riks — among them "*pitur…*" (Rigveda 3-1-9), "*samyak sravanti saritro na dhenā…*" (Rigveda 4.?), "*yad īm upa hvarate sādhate matir ṛtasya dhenā anayanta sasrutaḥ*" (Rigveda 1-141-1), "*dhiyo dhenā avasyavaḥ*", "*dhenā indrāvacākaśat*", "*viśaṃ-viśaṃ maghavā paryaśāyata janānāṃ dhenā avacākaśad vṛṣā*", "*indre dhenābhir iha mādayasva dhībhir viśvābhiḥ śacyā gṛṇānaḥ*", and "*vīreṇyaḥ kratur indraḥ suśastir utāpi dhenā puruhūtam ūtaye*" — the word is used in the senses of **speech, utterance, hymn of praise, and the act of praising.**
+(5) In several Riks — among them "*pitur…*" (Rigveda 3-1-9), "*samyak sravanti saritro na dhenā…*" (Rigveda 4-58-6), "*yad īm upa hvarate sādhate matir ṛtasya dhenā anayanta sasrutaḥ*" (Rigveda 1-141-1), "*dhiyo dhenā avasyavaḥ*", "*dhenā indrāvacākaśat*", "*viśaṃ-viśaṃ maghavā paryaśāyata janānāṃ dhenā avacākaśad vṛṣā*", "*indre dhenābhir iha mādayasva dhībhir viśvābhiḥ śacyā gṛṇānaḥ*", and "*vīreṇyaḥ kratur indraḥ suśastir utāpi dhenā puruhūtam ūtaye*" — the word is used in the senses of **speech, utterance, hymn of praise, and the act of praising.**
 
 **M. Bloomfield**, in translating the Rik (10-104-10) cited above, remarks that the Vedic word "dhenā" is related to the Lithuanian word "*daina*" and the Avestan "*daena*." These words generally carry the senses of speech, song, hymn and lay. **Many scholars hold that in the Veda, "dhenā" chiefly and more often carries the sense of "speech, word."**
 
-**"Prapṛñcatī"** — means "touching, making contact." **"Urūcī"** — "broad, extended, plentiful." The Bhashyakara has glossed this as "sacrificers performing Soma-yajnas"; but "urūcī" may instead be taken simply as a qualifier of the word "dhenā." **"Somapītaye"** — the meaning of this word is clear; its use is especially frequent across many Riks.
+**"Prapṛñcatī"** — means "touching, making contact." **"Urūcī"** — "broad, extended, plentiful." The Bhashyakara has glossed this as "many sacrificers, performers of Soma-yajnas"; but "urūcī" may instead be taken simply as a qualifier of the word "dhenā." **"Somapītaye"** — the meaning of this word is clear; its use is especially frequent across many Riks.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Summarized.)* **"Prapṛñcatī"** — here, by the rule concerning words ending in the "śatṛ" affix and lacking the augment "num," the feminine-forming "ṅīp" affix (a "nadī"-class affix) is added, and the accent is treated accordingly: the word is accented on its final syllable, and the case-endings following it (such as "śas") likewise take the udātta accent.
 
-*(All references printed on this page, in order (as read in the numeral review): 1-3, 3-1-9, 4-58-6, 1-141-1, 7-94-4, 8-32-22, 10-43-6, 10-104-3, 104-10, 6-1-173.)*
+*(All references printed on this page, in order (as read in the numeral review): 3-1-9, 4-58-6, 1-141-1, 7-94-4, 8-32-22, 10-43-6, 10-104-3, 10-104-10, 6-1-173.)*
 
 ### Page 684 — Sūkta 2, The Fourth Mantra
 
@@ -15457,7 +15457,7 @@ O Indra and Vāyu! These Soma-juices have been thoroughly pressed and made ready
 
 **This Rik, as already stated, is applied as the second Puronuvākyā in the rite called the Aindravāyava-graha.** In this Rik, and in the two Riks that follow, Indra and Vāyu are invoked together. **The joint invocation or joint praise of two deities is often found in the Rigveda** — for example: *Indra-Vāyū, Indrāgnī, Agnīṣomau, Indrāsomau, Somārudrā, Indrāviṣṇū, Dyāvāpṛthivī, Uṣāsānaktā* (or *naktoṣāsā*), and so on.
 
-**"Ime"** — these (Soma-juices): that is, freshly pressed, made fit for drinking through the preparatory rites. **"Sutāḥ"** — this word, formed from the root "su" (to press), shows that Soma-creeper, crushed between stones and pressed out in the filter, has become fit for drinking. **"Prayobhiḥ"** — the Bhashyakara glosses this word as "with foods" or "with meals." Since the word derives from the root "prī" (to please, to gladden), the sense "things that please, that bring joy to the mind" is entirely fitting. Moreover the Bhashyakara himself, in the Rik "*pra yad vo yajñe…*" — where "prayāṃsi" occurs (Rigveda 3.?.?) — glosses it as "dear things." **In the Rigveda this word is used in many places in the sense of "food fit for sacrifice."** **"Indavaḥ"** — Soma-juices mixed with various admixtures; the word derives from the root "und" (to wet/moisten): since Soma-juice is a liquid, "kledana" (moistening) is the sense; and "indu" is accordingly used in place of "soma" in many passages.
+**"Ime"** — these (Soma-juices): that is, freshly pressed, made fit for drinking through the preparatory rites. **"Sutāḥ"** — this word, formed from the root "su" (to press), shows that Soma-creeper, crushed between stones and pressed out in the filter, has become fit for drinking. **"Prayobhiḥ"** — the Bhashyakara glosses this word as "with foods" or "with meals." Since the word derives from the root "prī" (to please, to gladden), the sense "things that please, that bring joy to the mind" is entirely fitting. Moreover the Bhashyakara himself, in the Rik "*pra yad vo yajñe…*" — where "prayāṃsi" occurs (Rigveda 2-19-2) — glosses it as "dear things." **In the Rigveda this word is used in many places in the sense of "food fit for sacrifice."** **"Indavaḥ"** — Soma-juices mixed with various admixtures; the word derives from the root "und" (to wet/moisten): since Soma-juice is a liquid, "kledana" (moistening) is the sense; and "indu" is accordingly used in place of "soma" in many passages.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Summarized.)* **"Indravāyū"** — the vocative takes initial-udātta accent. **"Prayāṃsi"** — "those which please the eaters" — by analysis, "prayas" derives from the root "prī" (to please) with the affix "asun" (added after all roots, per the Uṇādi rule), giving "prī + as," with guṇa and substitution "prayas"; being formed with an accent-bearing affix, it is accented on the first syllable.
 
@@ -15495,11 +15495,11 @@ O Indra and Vāyu! These Soma-juices have been thoroughly pressed and made ready
 
 **॥ Prati-padārthaḥ ॥**
 
-**(हे) वायो ((he) vāyo)** — O Vāyu! | **(त्वम्) इन्द्रश्च ((tvam) indraś ca)** — you, and Indra with you, both | **वाजिनीवसू (vājinīvasū)** — those who are foremost among the sacrificers, who are provided with oblation-food and the like | **(अतः तौ यूयम्)** — (you two, such as you) | **सुतानाम् (sutānām)** — of the pressed Soma-juices (that the Soma-juices are ready for drinking) | **चेतथः (cetathaḥ)** — know | **तौ (tau)** — you two, such | **द्रवत् (dravat)** — with alertness | **उप (upa)** — to our side | **आ यातम् (ā yātam)** — come.
+**(हे) वायो ((he) vāyo)** — O Vāyu! | **(त्वम्) इन्द्रश्च ((tvam) indraś ca)** — you, and Indra with you, both | **वाजिनीवसू (vājinīvasū)** — those who are chief in yajnas and the like furnished with oblation-portions | **(अतः तौ यूयम्)** — (you two, such as you) | **सुतानाम् (sutānām)** — of the pressed Soma-juices (that the Soma-juices are ready for drinking) | **चेतथः (cetathaḥ)** — know | **तौ (tau)** — you two, such | **द्रवत् (dravat)** — with alertness | **उप (upa)** — to our side | **आ यातम् (ā yātam)** — come.
 
 **॥ Bhāvārthaḥ ॥**
 
-O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are honoured as chief. You know full well that the Soma-juice has been made ready for your drinking. Therefore, for the sake of drinking the Soma, come quickly and attentively to our side.
+O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are honoured as chief. You know full well that the Soma-juice has been made ready for your drinking. Therefore, for the sake of drinking the Soma, come quickly to our side.
 
 **॥ English Translation ॥**
 
@@ -15513,19 +15513,19 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 **Authors of the Vedārtha-yatna [a modern commentary]** interpret the word thus: "vāji" means a horse, or a swift horse; "vasū" means those who possess them — that is, the two who possess swift horses. Or "vājinī" means "provided with horses" — a chariot; "vasū" means those who dwell or sit in it — those who sit in the chariot. Or "vājinī" may mean a mare, and "vasū" wealth — those who possess these. Or it may mean "givers." **The German scholar Grassmann** interprets "vājinīvasū" as "those who give abundant rewards."
 
-**The Bhashyakara glosses the word "vājinī" in some places as "food"** (Rigveda 2-37-5; 3-42-5; 5-74-6; 8-5-20; 8-9-4; 8-10-5; 8-22-7, 14, 18 and others); in some places as "sacrificial rite" (Rigveda 1-122-8; 3-42-5; 8-5-3, 12; 8-8-10; 10-96-8 and others); in some as "possessing food" (*annavatī*) (Rigveda 3-6-1; 6-61-6 and others); in some as "strong" (*balavatī*) (Rigveda 6-61-6 and others); and **"vasu" as "one who dwells"** (Rigveda 1-2-5) and as "wealth, riches" (Rigveda 3-42-5; 5-75-3; 8-5-3, 12, 20; 8-8-10; 8-9-4; 8-10-5; 8-22-7, 14, 18; 10-40-12; 10-96-8 and others).
+**The Bhashyakara glosses the word "vājinī" in some places as "food"** (Rigveda 2-37-5; 3-42-5; 5-74-6, 7; 8-5-20; 8-9-4; 8-10-5; 8-22-7, 14, 18 and others); in some places as "sacrificial rite" (Rigveda 1-122-8; 3-42-5; 8-5-3, 12; 8-8-10; 10-96-8 and others); in some as "possessing food" (*annavatī*) (Rigveda 3-6-1; 6-61-6 and others); in some as "strong" (*balavatī*) (Rigveda 6-61-6 and others); and **"vasu" as "one who dwells"** (Rigveda 1-2-5) and as "wealth, riches" (Rigveda 3-42-5; 5-75-3; 8-5-3, 12, 20; 8-8-10; 8-9-4; 8-10-5; 8-22-7, 14, 18; 10-40-12; 10-96-8 and others).
 
 **"Vasu"** is among the twenty-eight words for "wealth" in the Nighaṇṭu (Nirukta 2-10). Moreover, compounds ending in "vasu" are needed and found throughout the Rigveda, in which "vasu" generally means "wealth." A few examples follow:
 
-**Śacīvasū** (Rigveda 1-139-[?]; 7-24-1; 8-60-12); **Sūryavasū** (Rigveda 7-68-3); **Vibhāvasuḥ** (Rigveda 1-44-10; 3-2-2; 5-25-2; 8-43-32; 8-44-6, 10, 24; 8-93-25; 10-92-1; 10-118-4; 10-140-1 and others), and so on.
+**Śacīvasū** (Rigveda 1-139-5; 7-24-1; 8-60-12); **Sūryavasū** (Rigveda 7-68-3); **Vibhāvasuḥ** (Rigveda 1-44-10; 3-2-2; 5-25-2, 7; 8-43-32; 8-44-6, 10, 24; 8-93-25; 10-92-1; 10-118-4; 10-140-1 and others), and so on.
 
 ### Page 690
 
 *(This page continues the list of compounds ending in "-vasu" begun on the previous page, each followed by its Ṛgveda references; references as read in the numeral review.)*
 
-**Further compounds ending in "vasu" in the Rigveda:** **Viśvāvasuḥ** (10-85-21, 22; 10-139-4, 5); **Manāvasū** (5-74-1); **Viśvalāvasū** (1-182-1); **Snāvasuḥ** (5-44-7); **Tvāvasuḥ** (7-32-14); **Ṛtāvasū** (8-101-5); **Jenyāvasū** (7-74-3; 8-38-7); **Divāvasū** (8-34-1); **Dhiyovasuḥ** (1-3-10; 1-58-9; 1-60-5; 1-63-9; 1-64-15; 3-3-2; 3-28-1 etc.); **Vṛṣaṇvasū** (1-111-1; 2-41-8; 4-50-10; 5-74-1; 8-5-24; 8-26-1, 2, 5 etc.); **Puruvasū** (1-47-10; 1-81-8; 2-1-5; 5-36-3; 6-22-4 etc.); **Prabhūvasuḥ** (1-57-4; 7-22-2; 8-45-36; 9-29-3; 9-35-6); **Vibhūvasuḥ** (9-72-7; 9-86-10); **Mahāvasū** (7-82-2); **Punarvasū** (10-19-1); **Aśvyaṇīvasū [?]** (8-60-20); **Ābharadvasuḥ** (5-79-3); **Akṣitāvasuḥ** (8-49-6); **Kaitadvasū** (8-31-9); **Gotrāvasuḥ** (10-132-1); **Pratadvasū** (8-13-27); **Radāvasū** (7-32-18); **Vidadvasuḥ** (1-6-6; 3-34-1; 5-39-1; 8-66-1); **Śatadvasuḥ** (1-119-1 etc.), and so on.
+**Further compounds ending in "vasu" in the Rigveda:** **Viśvāvasuḥ** (10-85-21, 22; 10-139-4, 5); **Manāvasū** (5-74-1); **Viśvalāvasū** (1-182-1); **Svāvasuḥ** (5-44-7); **Tvāvasuḥ** (7-32-14); **Ṛtāvasū** (8-101-5); **Jenyāvasū** (7-74-3; 8-38-7); **Divāvasū** (8-34-1); **Dhiyāvasuḥ** (1-3-10; 1-58-9; 1-60-5; 1-63-9; 1-64-15; 3-3-2; 3-28-1 etc.); **Vṛṣaṇvasū** (1-111-1; 2-41-8; 4-50-10; 5-74-1; 8-5-24; 8-26-1, 2, 5 etc.); **Puruvasū** (1-47-10; 1-81-8; 2-1-5; 5-36-3; 6-22-4 etc.); **Prabhūvasuḥ** (1-57-4; 7-22-2; 8-45-36; 9-29-3; 9-35-6); **Vibhūvasuḥ** (9-72-7; 9-86-10); **Mahāvasū** (7-82-2); **Punarvasū** (10-19-1); **Aghṛṇīvasū** (8-60-20); **Ābharadvasuḥ** (5-79-3); **Akṣitāvasuḥ** (8-49-6); **Kṛtadvasū** (8-31-9); **Gūrtāvasuḥ** (10-132-1); **Pratadvasū** (8-13-27); **Radāvasū** (7-32-18); **Vidadvasuḥ** (1-6-6; 3-34-1; 5-39-1; 8-66-1); **Śatadvasuḥ** (1-119-1 etc.), and so on.
 
-**In these words, "vasu" generally means "wealth."** In the Shatapatha Brahmana as well, the word occurs in "Amāvasu" (Śa. Brā. 1-6-4-[?], 3) and in "Citravasu" (Śa. Brā. 2-3-4-22)...
+**In these words, "vasu" generally means "wealth."** In the Shatapatha Brahmana as well, the word occurs in "Amāvasu" (Śa. Brā. 1-6-4-2, 3) and in "Citrāvasu" (Śa. Brā. 2-3-4-22)...
 
 ### Page 691
 
@@ -15533,17 +15533,17 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 **The word "vājinīvatī"** — which is a derivative of "vājinī" — is used in the Rigveda as a qualifier of Uṣas (the Dawn) in several Riks (several citations). **Yāska, in his Nirukta, when explaining one of these Riks, glosses "vājinīvatī" as "annavatī" (possessing food).** There "vājinī" means "food"; and when explaining another Rik, he gives the same sense again.
 
-**Sāyaṇācārya has explained "vājinī" as "possessing oblation-food"; likewise Skandasvāmin, in his own Vedabhāṣya, glosses "vājinī" as "sacrifice."** Veṅkaṭamādhava, in explaining this word, interprets "*asmai vāsayitārau — vājinīvasū*" — hence for "vājinī," the principal senses that may be entertained are: (1) food or nourishment, (2) strength, and (3) speed. **"Vāji" is taken by some to mean "horse."** **Roth**, the scholar, translates "vājinīvasū" as "possessing quick horses." Since this word "vājinīvasū" is used by many rishis when praising deities such as Indra and the Aśvins, no single fixed sense has been established for it; it was evidently in common use, and especially frequent in yajnas involving Soma-drinking, so it is reasonable to suppose that Soma-juice and foods of every sort were freely offered in such rites.
+**Sāyaṇācārya has explained "vājinī" as "a continuity of oblations"; likewise Skandasvāmin, in his own Vedabhāṣya, glosses "vājinī" as "a continuity of sacrifices."** Veṅkaṭamādhava, in explaining this word, interprets "*asmai vāsayitārau — vājinīvasū*" — hence for "vājinī," the principal senses that may be entertained are: (1) food or nourishment, (2) strength, and (3) speed. **"Vāji" is taken by some to mean "horse."** **Roth**, the scholar, translates "vājinīvasū" as "possessing quick horses." Since this word "vājinīvasū" is used by many rishis when praising deities such as Indra and the Aśvins, no single fixed sense has been established for it; it was evidently in common use, and especially frequent in yajnas involving Soma-drinking, so it is reasonable to suppose that Soma-juice and foods of every sort were freely offered in such rites.
 
-**"Cetathaḥ"** — "you both know." **"Dravat"** — in the Nirukta (2-15-3), this word is listed among the sixteen or so words expressing "quickly, swiftly."
+**"Cetathaḥ"** — "you both know." **"Dravat"** — in the Nirukta (2-15-3), this word is listed among the twenty-six words expressing "quickly, swiftly."
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Summarized.)* **"Vājinīvasū"** — although Yāska lists "vājinī" among the names of Uṣas, that sense does not fit here and is not adopted. "**Vājaḥ asyām asti**" — food is present in this: the affix "ini" is added after "vāja," and the "a" is dropped, then the feminine affix "ṅīp" is added, giving "vājinī." Then "vājinyāṃ vasataḥ" gives the compound "vājinīvasū," a vocative dual; and by the rule for vocatives, its accent becomes fully unaccented (*sarvānudātta*).
 
-*(All references printed on this page, in order (as read in the numeral review): 1-3, 1-48, 16, 1-92-13, 15, 7-75-5, 12-6, 1-92-13, 1-3-10, 11-26, 1, 2-15-3, 5-2-114, 6-4-148, 4-1-5, 8-1-19.)*
+*(All references printed on this page, in order (as read in the numeral review): 1-48, 16, 1-92-13, 15, 7-75-5, 12-6, 1-92-13, 1-3-10, 11-26, 1, 2-15-3, 5-2-114, 6-4-148, 4-1-5, 8-1-19.)*
 
 ### Page 692 — Sūkta 2, The Sixth Mantra
 
-**"Dravat"** — Yāska lists this among the sixteen words meaning "quickly" ("*su kṣipraṃ makṣu dravat*," Nirukta 2-15-3). Hence here, by the rule for such words, the final syllable takes the udātta accent.
+**"Dravat"** — Yāska lists this among the twenty-six words meaning "quickly" ("*su kṣipraṃ makṣu dravat*," Nirukta 2-15-3). Hence here, by the rule for such words, the final syllable takes the udātta accent.
 
 **॥ Iti prathamāṣṭake prathamādhyāye tṛtīyo vargaḥ ॥**
 *(Thus ends the third Varga of the first Adhyāya of the first Aṣṭaka.)*
@@ -15589,7 +15589,7 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 
 **॥ Prati-padārthaḥ (Rik 2-6) ॥**
 
-**(हे) वायो ((he) vāyo)** — O Vāyu! | **इन्द्रश्च (indraś ca)** — and Indra with you (both of you) | **सुन्वतः (sunvataḥ)** — of the sacrificer who has pressed the Soma-juice | **निष्कृतम् (niṣkṛtam)** — the Soma purified by consecrating rites (for drinking), or [the sacrificer's] presence, he who has got the Soma-juice ready | **आ यातम् (ā yātam)** — come | **(हे) नरा ((he) narā)** — O Indra and Vāyu, endowed with manly strength | **धियः (dhiyaḥ)** — [through] this rite | **मक्षु (makṣu)** — with alertness (the preparation is completed) | **इत्था (itthā)** — this is true.
+**(हे) वायो ((he) vāyo)** — O Vāyu! | **इन्द्रश्च (indraś ca)** — and Indra with you (both of you) | **सुन्वतः (sunvataḥ)** — of the sacrificer who has pressed the Soma-juice | **निष्कृतम् (niṣkṛtam)** — the Soma purified by consecrating rites (for drinking), or to the vicinity of the sacrificer who has got the Soma-juice ready | **आ यातम् (ā yātam)** — come | **(हे) नरा ((he) narā)** — O Indra and Vāyu, endowed with manly strength | **धियः (dhiyaḥ)** — [through] this rite | **मक्षु (makṣu)** — quickly (the preparation is completed) | **इत्था (itthā)** — this is true.
 
 **॥ Bhāvārthaḥ ॥**
 
@@ -15607,7 +15607,7 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 ### Page 694
 
-**...[Geldner and Grassmann] take "niṣkṛta" to mean "the appointed place" or "the place of sacrifice."** That is: "niṣkṛta" = "that which has been completely prepared" — this is the right sense. The same sense holds in the Rik "*utā tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6). **Other Riks where "niṣkṛta" occurs:**
+**...[Grassmann] takes "niṣkṛta" to mean "a fixed or appointed place."** That is: "niṣkṛta" = "that which has been completely prepared" — this is the right sense. The same sense holds in the Rik "*utā tyaṃ cetasaṃ navaṃ tvaṣṭur devasya niṣkṛtam*" (Rigveda 1-20-6). **Other Riks where "niṣkṛta" occurs:**
 
 (1) *ratho ha vāṃ bhūri varṣaḥ kerikṛtsnā tāvato niṣkṛtam āgamiṣṭaḥ* (Rigveda 3-58-9)
 (2) *somo no jigāti gātuvid devānām eti niṣkṛtam* (Rigveda 3-62-13)
@@ -15627,23 +15627,23 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 ### Page 695
 
-**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is said to be the first of three Riks concerning Mitra-Varuṇa.** On the day of the Sutyā (pressing), within the yajña beginning at the appointed hour, at the morning pressing, in the Maitrāvaruṇa-graha rite, this Rik's application follows. Further, the entire matter of the Abhiplava and Ṣaḍaha [six-day] rites has already been explained; the application of these Riks in the present sacrifice has also been explained. **Āśvalāyana, in the section of his Shrauta-sutra called "hotā-jani..." (Adhyāya 3, Section 8), states the application of the Riks concerning Mitra and Varuṇa individually,** and further, in the Adhyāya 8, Section 2, states the application of the Riks concerning Vāyu and the others. This has already been discussed above (see printed pages 671–672).
+**...that is, "mitraṃ huve," the sukta's [seventh] Rik, is the first of three Riks concerning Mitra-Varuṇa (the 7th, 8th and 9th Riks of this sukta).** These Riks are applied, at the beginning of the Sattra called Gavāmayana, in the morning-pressing rite of the twenty-fourth day, when Mitra and Varuṇa are praised; they are applied also in the six-day Soma-yaga called Abhiplava-ṣaḍaha. **Āśvalāyana, in the twenty-fourth section of his Shrauta-sutra beginning "hotā-jani...," states the application of the two Riks beginning with "mitra" (Āśv. Sū. 7-2);** and he states it again in the section on the Abhiplava and Pṛṣṭhya rites (Āśv. Sū. 7-5).
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
 **"Vāyo"** — since the vocative case is governed by the rule stated in the Adhyāya on vocatives, it is treated as unaccented.
 
-**The words "udgātra, graha, viṣṭu, kubja, cambu, kṣurabhṛd, vedyoktra, bhairavabhelaka, śrūmāla,"** and others (Uṇādi 3-108[?]) are formed with the affix "ratna," pronounced with initial-udātta accent by the special rule for such formations. On this rule, the word "**indra**" is likewise established with the affix "ratna," pronounced with initial-udātta accent — this is well established in the grammar; the sense "one who is strong" is not further explained here, being clear enough.
+**The words "udgātra, graha, viṣṭu, kubja, cambu, kṣurabhṛd, vedyoktra, bhairavabhelaka, śrūmāla,"** and others (Uṇādi 2-186) are formed with the affix "ratna," pronounced with initial-udātta accent by the special rule for such formations. On this rule, the word "**indra**" is likewise established with the affix "ratna," pronounced with initial-udātta accent — this is well established in the grammar; the sense "one who is strong" is not further explained here, being clear enough.
 
-**"Cāpadayo'nudāttāḥ"** (Phit-sutra 4-14) — words ending in "ca" and similar particles are unaccented; hence "ca" itself is unaccented.
+**"Cāpadayo'nudāttāḥ"** (Phit-sutra 84) — words ending in "ca" and similar particles are unaccented; hence "ca" itself is unaccented.
 
 **"Sunvataḥ"** — the word "śamerasumeṇaddhyādeḥ" (Panini 3-2.?) is used with the meaning of that word's own class.
 
-**"Niṣkṛtam"** — here, in the sense of "carefully purified/consummated" (Nirukta 4-2), "niḥ" is used; the word "niḥ" being used with the sense of "carefully purified," in the sense "carried through by no remainder," and the meaning is thus established according to the various usages. **"Niṣkṛta"** is derived from "niḥ" + "kṛta" ("kṛ," to make); the resulting compound is formed by the rule concerning gati-compounds beginning at (Panini 1-4-60), where "kṛ" in the sense of "action" takes "kṛt" affix. Since "niḥ" is an indeclinable used with the root "kṛ" in the sense of "beginning," it is properly usable in the sense of the compound now beginning, "niṣkṛtam" indicating "the appointed place where the offering is begun." **"Makṣu"** — the word "kaḥ" and others, according to their own grammatical class, along with the appropriate preceding or following elements, take the udātta accent — hence "makṣu" carries this accent...
+**"Niṣkṛtam"** — here, in the sense of "carefully purified/consummated" (Nirukta 12-7), "niḥ" is used; the word "niḥ" being used with the sense of "carefully purified," in the sense "carried through by no remainder," and the meaning is thus established according to the various usages. **"Niṣkṛta"** is derived from "niḥ" + "kṛta" ("kṛ," to make); the resulting compound is formed by the rule concerning gati-compounds beginning at (Panini 2-2-18), where "kṛ" in the sense of "action" takes "kṛt" affix. Since "niḥ" is an indeclinable used with the root "kṛ" in the sense of "beginning," it is properly usable in the sense of the compound now beginning, "niṣkṛtam" indicating "the appointed place where the offering is begun." **"Makṣu"** — the word "kaḥ" and others, according to their own grammatical class, along with the appropriate preceding or following elements, take the udātta accent — hence "makṣu" carries this accent...
 
 *(Caveat: the Vyākaraṇa-prakriyā section on this page was exceptionally dense and compressed even by the standard of these grammar sections, and the rendering above should be treated as a best-effort, lower-confidence reading rather than a reliable transcription — in particular the specific sutra attributions and some of the word-formation chains. The surrounding Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and Viśeṣārtha sections translated elsewhere in this project remain the more reliable material.)*
 
-*(All references printed on this page, in order (as read in the numeral review): 4, 7-2, 7-5, 6-1-198, 2-186, 6-1-197, 84, 6-1-173, 12-7, 3-4-71, 2-2-18, 6-2-2, 6-2-144.)*
+*(All references printed on this page, in order (as read in the numeral review): 7-2, 7-5, 6-1-198, 2-186, 6-1-197, 84, 6-1-173, 12-7, 3-4-71, 2-2-18, 6-2-2, 6-2-144.)*
 
 ### Page 696 — Sūkta 2, The Seventh Mantra
 
@@ -15683,11 +15683,11 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 **॥ Prati-padārthaḥ ॥**
 
-**(अश्विनोः कर्मणि हविष्प्रदानाय, इह यज्ञ-कर्मदल्लि हविस्सन्नु समर्पिसुवुदक्कागि)** — (for offering the oblation in this yajna-rite) | **मित्रं (mitraṃ)** — Mitra | **पूतदक्षं (pūtadakṣaṃ)** — whose strength is pure, that is, who is ever capable | **हुवे (huve)** — I call | **रिशादसं (riśādasaṃ)** — one who devours the harmful ones (rākṣasas), the destroyer of enemies | **वरुणं (varuṇaṃ)** — Varuṇa | **च (ca)** — and | **हुवे (huve)** — I call | **(मित्रावरुणौ) (mitrāvaruṇau)** — (Mitra and Varuṇa) | **घृताचीं (ghṛtācīṃ)** — the rite that causes rain to fall | **धियं (dhiyaṃ)** — the sacrificial rite | **साधन्ता (sādhantā)** — accomplishing.
+**(अश्विनोः कर्मणि हविष्प्रदानाय, इह यज्ञ-कर्मदल्लि हविस्सन्नु समर्पिसुवुदक्कागि)** — (for offering the oblation in this yajna-rite) | **मित्रं (mitraṃ)** — Mitra | **पूतदक्षं (pūtadakṣaṃ)** — whose strength is pure, that is, exceedingly strong by his own capacity | **हुवे (huve)** — I call | **रिशादसं (riśādasaṃ)** — one who devours the enemies (riśa), the destroyer of enemies | **वरुणं (varuṇaṃ)** — Varuṇa | **च (ca)** — and | **हुवे (huve)** — I call | **(मित्रावरुणौ) (mitrāvaruṇau)** — (Mitra and Varuṇa) | **घृताचीं (ghṛtācīṃ)** — the rite that causes rain to fall | **धियं (dhiyaṃ)** — the sacrificial rite | **साधन्ता (sādhantā)** — accomplishing.
 
 **॥ Bhāvārthaḥ ॥**
 
-I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they may partake of the oblation. Among them, Mitra is of surpassing strength; his power knows no weakening. Varuṇa is mighty and destroys enemies. Moreover, in bringing about rain, Mitra and Varuṇa possess a particular capability. I invoke such Mitra and Varuṇa into this yajna, as the principal deities [of this Rik].
+I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they may partake of the oblation. Among them, Mitra is of surpassing strength; his strength has no equal. Varuṇa is mighty and destroys enemies. Moreover, in bringing about rain, Mitra and Varuṇa possess a particular capability. I invoke such Mitra and Varuṇa into this yajna, as the principal deities [of this Rik].
 
 *(All references printed on this page, in order (as read in the numeral review): 3-53, 3-1-135, 4-188, 8-2-5, 3-2-?, 59, 6-4-24, 4-1-62, 6-4-138, 6-3-138, 1-22, 6-1-161, 6-1-222, 3-2-124.)*
 
@@ -15699,7 +15699,7 @@ I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Pūtadakṣam"** — "pūta" means pure; "dakṣa" means strength; this is the Bhashyakara's sense, taking these as two separate words joined together within a compound ("pūta" occurring [inserted] between the syllables of a word meaning strength — Nighaṇṭu 2-9). **The Bhashyakara has explained the word following this Nighaṇṭu sense.** Several Riks illustrate this word's usage:
+**"Pūtadakṣam"** — "pūta" means pure; "dakṣa" means strength; this is the Bhashyakara's sense. The word "dakṣa" is read among the twenty-eight words meaning "strength" (Nighaṇṭu 2-9). **The Bhashyakara has explained the word following this Nighaṇṭu sense.** Several Riks illustrate this word's usage:
 
 (1) जज्ञाना पूतदक्षसा — *jajñānā pūtadakṣasā* (Rigveda 1-23-4)
 (2) अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः — *abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ* (Rigveda 1-24-7)
@@ -15716,13 +15716,13 @@ I invoke, into this rite of sacrifice, the deities Mitra and Varuṇa, that they
 
 *(Quotations and references re-read from the print in the numeral pass.)*
 
-— and so on. **The Bhashyakara, in explaining these Riks, glosses "pūtadakṣa" as: pure strength, power, or capability.** The authors of the Vedārtha-yatna, for this word, consider "*manaskeṃdu*"...
+— and so on. **The Bhashyakara, in explaining these Riks, glosses "pūtadakṣa" as: pure strength, power, or capability.** The authors of the Vedārtha-yatna, for this word, take it to mean "mind"...
 
 *(Note: given the density of citations on this page and the small print, several verse-locators above are given only approximately; several were left unread where illegible.)*
 
 ### Page 699
 
-**...Geldner** takes "manaskeṃdu" [an intended-mind reading] in the sense of "purpose." **But the Bhashyakara's own sense — "capability" — as stated on the previous page, fits better.** In the Taittiriya Samhita of the Yajurveda (4-7-1), "dakṣa" is glossed as both "strength" and "wisdom." **Here, some of the Vedārtha-yatna authors explain "dakṣa" as meaning "sensory power" or "the power of the sense-organs," while others explain it as meaning "the capacity for action."** "Dakṣa" indicates a strength of mind and a strength of body alike.
+**...Geldner** takes it in the sense of "purpose." **But the Bhashyakara's sense — "strength," following the Nighaṇṭu (2-9) — is the apt one.** In the Taittiriya Samhita of the Yajurveda (4-7-1) the words "dakṣa" and "bala" stand together; commenting on this, Mahīdhara explains "dakṣa" as skill of the organs of knowledge and "bala" as skill of the organs of action. The word "dakṣa" denotes intellectual power and the word "bala" bodily power.
 
 **Some further Riks in which the word "dakṣa" appears:**
 
@@ -15759,23 +15759,23 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 
 ---
 
-**"Riśādasam"** — Yāska, in his Nirukta (6-14), states that "riśādas" means "**rekṣalayodāriṇī**" or, alternatively, "**rekṣalayodāsinaḥ**." He explains that those who protect against violence, being armed as it were with the weapons appropriate for use against those who inflict harm, are "**riśādasaḥ**." That is, they are "the destroyer of the harmful," "the protector against harm," the one who chastises those who do harm.
+**"Riśādasam"** — Yāska, in his Nirukta (6-14), states that "riśādas" means "**rekṣalayodāriṇī**" or, alternatively, "**rekṣalayodāsinaḥ**." Durga, commenting, explains the first as those who hurl weapons against the one who inflicts harm, and the second as those who tear apart and destroy the one who inflicts harm. Such are "**riśādasaḥ**."
 
-**Regarding the deities to whom this epithet applies: Nirukta scholars — Riśṭaṃ himsati** (i.e., "riśa" is destroyed [by the deity]); Riśaṃ hiṃsakaṃ dasyati (destroys the harmer); Riśam adyaṃ hiṃsanti dasyanti (destroy that which harms); **Riśam adyanti kṣipanti veti riśādasaḥ** — thus various authors explain it, some saying that they eat or consume the harmful, some that they hurl them away.** Devarājayajvan, in his commentary on the Nighaṇṭu (4-3-53), says the root *riś* is used in the sense of harming (Dhātupāṭha 33-72). **Vāyu and other deities' epithets are likewise described using the word "riśādasaḥ" in many places.**
+**Mahīdhara, the Bhashyakara, explains it thus:** "riśa" is harm done in enmity, and "dasyanti" means they destroy; or they destroy the harmers; or they hurl away those who harm — such are "**riśādasaḥ**"; some say that they eat or consume the harmful, some that they hurl them away. Devarājayajvan, in his commentary on the Nighaṇṭu (4-3-53), says the root *riś* is used in the sense of harming. Commenting on the word "riśādasaḥ" in the Vājasaneyi Saṃhitā (33-72), where it is addressed to the deities Vāyu and Savitṛ, Mahīdhara explains it as "destroyers of enemies."
 
-**Sāyaṇācārya explains this word, in his commentary, as meaning: "Riśānām" — "of the harmful ones" — "Attāram" — "devourer" or "eater," and in other places as: "one who protects" or "one who guards." At times he explains it as "one whose enemies dwindle away, or who destroys their strength."**
+**Sāyaṇācārya, in his commentary on this word, explains it as: "of the harmful ones, the devourer" (devouring, destroying); in his commentary on Rik 1-64-5, concerning the Maruts, as devourers of harmers or, alternatively, hurlers away of harmers; and, concerning the Ādityas in 6-51-4, as hurlers away of harmers or, alternatively, devourers of harmers.**
 
-**Some who have written treatises on Vedic interpretation state:** "*riśat: hiṃsakah, ādaḥ-attā, riśādaḥ. riśāṃ hiṃsakāṇaṃ attā*" — "**Riśāt**" means "one who inflicts harm"; "**adaḥ**" means "eater"; "**riśādaḥ**" therefore means "eater of those who inflict harm." **This is stated to mean: "he who destroys the harmful," or "one who does away with the enemy."** Veṅkaṭamādhava explains it in the very same manner, connecting the sense with this compound word.
+**Skandasvāmin explains it thus:** "*riśat: hiṃsakah, ādaḥ-attā, riśādaḥ. riśāṃ hiṃsakāṇaṃ attā*" — the root "riś" means to harm; those who harm are hurled away, thrown off, that is, destroyed; hence "**riśādasaḥ**" means one who hurls away, destroys, those who inflict harm. Veṅkaṭamādhava explains it in the very same manner, connecting the sense with this compound word.
 
 *(Further references printed on this page (as read in the numeral review): 1-64-5, 6-51-4.)*
 
 ### Page 701
 
-**Among Western scholars — Max Müller, Eggling, Grassmann, Hillebrandt** and others — most explain this word to mean "destroyer of enemies" (Destroyer of enemies). **The German scholar Ludwig** does not agree that the word means "destroyer of enemies." He is inclined to think the word "Riśat" refers to a particular tribe/people, and that the sense is "one who has vanquished them." **But this meaning has not gained acceptance here.** Many other scholars have proposed varied meanings for the word, but since these meanings are drawn merely from etymology, and none of them fits the actual context well, further discussion of them is not useful here.
+**Among Western scholars — Max Müller, Eggling, Grassmann, Hillebrandt** and others — most explain this word to mean "destroyer of enemies" (Destroyer of enemies). **The German scholar Ludwig** does not agree that the word means "destroyer of enemies." He holds that "riśat" may be taken as "a little, a morsel," and the word as "one who eats a little." **But this meaning has not gained acceptance here.** Many other scholars have proposed varied meanings for the word, but since these meanings are drawn merely from etymology, and none of them fits the actual context well, further discussion of them is not useful here.
 
 ---
 
-**"Dhiyam"** — this word means an act of sacrifice, a rite. **Geldner** calls it "poem, composition" (Poem). Skandasvāmin, Veṅkaṭamādhava, and Sāyaṇa do not accept this. Skandasvāmin calls it "an act to be examined/investigated" (*vicāryaṃ karma*), and Sāyaṇa calls it "*varṣaṇa-karma*" (the rain-bringing rite). This is correct, because it is well established that Vṛṣṭi (rain) is brought about through the performance of yajnas in the Vedic period. **This sense is clearly evident in the Rik:**
+**"Dhiyam"** — this word means an act of sacrifice, a rite. **Geldner** calls it "poem, composition" (Poem). Skandasvāmin, Veṅkaṭamādhava, and Sāyaṇa do not accept this. Skandasvāmin calls it a rite named for rain (vṛṣṭi), and Sāyaṇa calls it "*varṣaṇa-karma*" (the rain-bringing rite). This seems correct, because in the Vedic period a belief was current that rain (vṛṣṭi) comes about through the performance of yajnas. **This sense is clearly evident in the Rik:**
 
 > यद्देवापिः शन्तनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥
 > *yaddevāpiḥ śantanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖* (Rigveda 10-98-7; verse re-read from the better scan in the [?] pass)
@@ -15783,16 +15783,16 @@ In these and other Ṛks the word also means the power of the intellect. Besides
 
 ---
 
-**"Ghṛtācīm"** — the Bhashyakara has interpreted this word: "*udakaṃ pṛthivīṃ prati yā gamayati sā ghṛtācī*" — that is, "the rite that causes water to reach the earth," on the analogy of "vṛṣṭi" (bringing water down). **The Māthava commentary [Veṅkaṭamādhava]** and others agree with this. The rite whereby, through yajnas performed, one brings water down onto the earth — this rite ("ghṛtācī") is thus glossed. **The Skandasvāmī commentary explains further: "phalasva bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — "the rite that carries water (in the form of ghee/rain) to the earth" — through this the two deities, Vāyu and [Mitra-Varuṇa], accomplish it, "vṛṣṇyaḥ" [rain-bringing].** Sāyaṇācārya says the same. **Sāyaṇācārya explains** "sphṛta udakaṃ āñcati bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — the rite by which water (in the form of the deity's own oblation) is caused to reach the earth — that rite, "ghṛtācī," and that which is accomplished — "vṛṣṭi" — as its result. **Māthava too accepts this sense.** Māthava, in one Brahmana-passage's citation, gives the example: "**mitraṃ vā ahaḥ vāruṇe rātrau. ca ahoratrābhyāṃ hi mitrāvaruṇāhorātrābhyāṃ tu varṣaṇyo**" — Mitra [rules] the day; Varuṇa, the night; and [through] Mitra-Varuṇa together, [ruling] both day and night, [rain is brought about]...
+**"Ghṛtācīm"** — the Bhashyakara has interpreted this word: "*udakaṃ pṛthivīṃ prati yā gamayati sā ghṛtācī*" — that is, "the rite that causes water to reach the earth," on the analogy of "vṛṣṭi" (bringing water down). **The Māthava commentary [Veṅkaṭamādhava]** and others agree with this. The rite whereby, through yajnas performed, one brings water down onto the earth — this rite ("ghṛtācī") is thus glossed. **The Skandasvāmī commentary explains further: "phalasva bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — "the rite that carries water (in the form of ghee/rain) to the earth" — through this the two deities, Mitra and Varuṇa, accomplish it, "vṛṣṇyaḥ" [rain-bringing].** Sāyaṇācārya says the same. **Sāyaṇācārya explains** "sphṛta udakaṃ āñcati bhūmiṃ prāsayati yā dhīrvarṣaṇakarma taṃ" — the rite by which water (in the form of the deity's own oblation) is caused to reach the earth — that rite, "ghṛtācī," and that which is accomplished — "vṛṣṭi" — as its result. **Māthava too accepts this sense.** Māthava, in one Brahmana-passage's citation, gives the example: "**mitraṃ vā ahaḥ vāruṇe rātrau. ca ahoratrābhyāṃ hi mitrāvaruṇāhorātrābhyāṃ tu varṣaṇyo**" — Mitra [rules] the day; Varuṇa, the night; and [through] Mitra-Varuṇa together, [ruling] both day and night, [rain is brought about]...
 
 ### Page 702
 
-**...that is, Varuṇa causes lightning to occur through the day.** In the Rigveda too, elsewhere (several citations), it is said that Mitra-Varuṇa together summon the rain onto the earth. In the Nighaṇṭu, "udaka" (water) is included among the hundred-odd words listed as synonyms for water, in which "ghṛta" itself is one.
+**...by the command of Mitra and Varuṇa, the presiding deities of day and night, Parjanya sends rain.** In the Rigveda too, elsewhere (several citations), it is said that, by the command of Mitra and Varuṇa, Parjanya sends rain onto the earth. In the Nighaṇṭu, "udaka" (water) is included among the hundred words listed as synonyms for water, in which "ghṛta" itself is one.
 
 > त आ अनश्रे रत्नान्युपैषु घृतेन पृथिवी व्यूद्ये ।
 > *ta ā anaśre ratnāny upaiṣu ghṛtena pṛthivī vyūdye |* (Rigveda 1-164-47)
 
-**In this Rik, "ghṛtena pṛthivī vyūdye"** — "the earth is watered/moistened by ghṛta" — makes clear that "ghṛta" here means water (rain). **Yāska, in this context, discusses this word further.** Some Vedic-ritual scholars say that "ghṛta" means "flowing water" or "melted butter," and that whichever sense (water or ghee) is intended is decided by context — but that, in the present case, the sense of "water" clearly fits the surrounding sense.
+**In this Rik, "ghṛtena pṛthivī vyūdye"** — "the earth is watered/moistened by ghṛta" — makes clear that "ghṛta" here means water (rain). **Yāska, in this context, glosses the verb as "moisten, sprinkle."** Devarājayajvan says in his Nighaṇṭu that the root "ghṛ" means to flow or to fall in a stream, and that "ghṛta" is water falling in a stream from the sky; therefore in the present context it is proper to leave the common sense "ghee" and take "ghṛta" to mean "water."
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Summarized.)*
 
@@ -15889,21 +15889,21 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**"Ṛtena"** — we have already fully discussed this word (see page 647). **"Ṛtāvṛdhau"** — the Bhashyakara states that "ṛta" here means "water," or, alternatively, "truth" or "the yajna." The authors of the Vedārtha-yatna accept the sense "water"; Skandasvāmī has similarly explained it. **The Bhashyakara, accepting the sense "water," explains it accordingly.** Scholars of Vedic interpretation say that "ṛta" means "Dharma" (**Taking delight in the Sacred law**), and explain the word in this sense. In the present context, this meaning too is entirely fitting, since, in a Rik connected with Mitra-Varuṇa, some scholars accept the sense "rain" precisely because of the well-known connection between rain and Mitra-Varuṇa. **Others who hold that this is not the fitting sense here explain the word differently.** Various writers explain this word using three distinct meanings: **"satyam" (truth), "yajña" (the sacrifice), and "udaka" (water)**. The Bhashyakara has himself made use of all three senses across various contexts.
+**"Ṛtena"** — we have already discussed this word (see page 647). **"Ṛtāvṛdhau"** — Yāska has explained "ṛta" as "water" (Nirukta 2-25) and as "truth" or "yajña" (Nirukta 4-19). The Bhashyakara has accepted the sense "water" and explained accordingly. The authors of the Vedārtha-yatna explain "ṛta" as "dharma" (**Taking delight in the Sacred law**). Although this sense is fitting for the word, in the present context and in many Riks concerning Mitra-Varuṇa they are shown as the cause of rain, as those who bring about rain; hence the sense "water" is the fitting one here for the word "ṛta." Māthava has explained it as "increasers of truth." Skandasvāmī has explained it in all three senses, yajña, water and truth. A doubt arises about the Bhashyakara's sense "water": this Rik has the two words "ṛtāvṛdhau" and "ṛtaspṛśā," and when "ṛta" is taken as water there is no reason for two words with the same meaning to stand side by side in one mantra.
 
-**In the present passage, the word "vṛdhau" is used in the sense of augmenting; the word "spṛśau" (in "ṛtaspṛśā") appears twice** — [used once each] with two distinct senses. **Since it would otherwise be redundant to repeat the same word "ṛtavṛdhau" and "ṛtaspṛśā" with an identical sense, several scholars hold that "ṛtāvṛdhau" means "increasers of truth or of the yajna," while "ṛtaspṛśā," within the same word, means "bringers of water"** — this being why the [same-looking] word carries different meanings in each place. **Some scholars, however, are of the view that "ṛta" applies with only the general sense of "truth" throughout, without needing this distinction.**
+**Therefore many scholars hold that "ṛta" in the word "ṛtāvṛdhau" means "truth" or "yajña," and that "ṛta" in the word "ṛtaspṛśā" means "water."** Where "ṛta" is given the sense "truth," that sense is generally fitting, but "ṛta" does not denote truth alone: it denotes the Universal law (dharma) by which the moving and unmoving world and the laws of creation proceed.
 
-**Many hold that the sense "truth" fits best here.** In the context where Mitra-Varuṇa are being praised, since only the sense "truth" fits the reference clearly, it is regarded as the more suitable reading — while the fittingness of the sense "water" does not appear so clear in the other place. **"Yugas satyaṃ paraṃ brahma"** — the topic of universal righteousness and eternal order — is discussed further in the Taittiriya Upanishad (1-1-1[?]); this subject matter is treated more fully when that context is explained.
+In Rik 10-190-1 "ṛta" and "satya" stand as two separate words, so it is clear that "ṛta" is a thing different from truth. A sentence of the Taittirīya Upaniṣad (4-23-1) also supports this. The word "ṛta" will be explained more fully in another context.
 
 ---
 
 **"Ṛtaspṛśā"** — the Bhashyakara explains this word as meaning "those who cause rain (vṛṣṭi) and are graciously disposed [toward it]"; and Vedic interpreters explain it as "defenders of Dharma" (**defending the Sacred law**). The German scholar Geldner explains it as "fosterers of truth" (**fosterers of truth**).
 
-*(All references printed on this page, in order (as read in the numeral review): 1-4, 2-25, 4-19, 10-190-1, 4-23-1.)*
+*(All references printed on this page, in order (as read in the numeral review): 2-25, 4-19, 10-190-1, 4-23-1.)*
 
 ### Page 708
 
-**Māthava [Veṅkaṭamādhava] explains "ṛtaspṛśau" as meaning "creators who establish truth."** His sense and Geldner's sense mutually agree. **Therefore, the sense "those who establish truth" is preferred here as the more suitable reading for "ṛtaspṛśau."**
+**Māthava [Veṅkaṭamādhava] explains "ṛtaspṛśau" as meaning "those who uphold truth."** His sense and Geldner's sense mutually agree. **Therefore, the sense "those who uphold truth" is preferred here as the more suitable reading for "ṛtaspṛśau."**
 
 **"Āśāthe"** — "āśnute" means "pervades, reaches, attends to," and so on. Each author has interpreted this word according to what fits his own sense; whatever meaning one adopts, they all essentially arrive at the same overall sense.
 
@@ -15926,7 +15926,7 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 **Progress: Through PDF page 737 (printed page 709) — 5-page batch (705–709).** Completed Rik 2-8 in full: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, English translation (*"O Mitra and Varuna, augmenters of water, presenters of water, you attend this big sacrificial rite and grant us its true reward"*), and a substantial Viśeṣārtha weighing the sense of "ṛta" here (water vs. truth vs. the yajna) across several named commentators (Sāyaṇa, Skandasvāmī, Veṅkaṭamādhava/Māthava, the Vedārtha-yatna authors, and Geldner), concluding that "truth" fits best in context despite the well-known rain-association of Mitra-Varuṇa. The batch closes with two pages of unusually dense grammar (708–709) confirming the accent-patterns of "ṛtāvṛdhau," "ṛtaspṛśā," and "mitrāvaruṇau" — flagged as lower-confidence per standing practice.
 **Target for next session:** continue from PDF page 738 / printed page 710 — Rik 2-9, the sukta's closing verse.
 
-*(All references printed on this page, in order (as read in the numeral review): 2-1-2, 6-1-198, 2-1-1, 1-94, 2-2-11-4, 8-1-19, 8-1-72.)*
+*(All references printed on this page, in order (as read in the numeral review): 21-2, 6-1-198, 2-1-1, 1-94, 2-2-11-4, 8-1-19, 8-1-72.)*
 
 ### Page 710
 
@@ -15976,7 +15976,7 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 **Translation:** "Mitra and Varuṇa, our deities, uphold and increase for our sake both 'dakṣa' (strength) and 'apas' (rite/action). What kind of pair are they? 'Kavī' — the two wise ones. 'Tuvijātau' — born so as to be helpers to many. 'Urukṣayau' — dwelling in a wide space, that is, both established with a broad, stable dwelling-place."
 
-*(All references printed on this page, in order (as read in the numeral review): 3-4-79, 7-4-72, 9, 6-2-141, 6-2-45, 3-3-56, 6-1-201.)*
+*(All references printed on this page, in order (as read in the numeral review): 3-4-79, 7-4-72, 6-2-141, 6-2-45, 3-3-56, 6-1-201.)*
 
 ### Page 713
 
@@ -15984,11 +15984,11 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 **॥ Prati-padārthaḥ ॥**
 
-**कवी (kavī)** — the two wise ones | **तुविजाता (tuvijātā)** — born so as to help many, that is, produced for the sake of many | **उरुक्षया (urukṣayā)** — dwelling in a vast, established abode, or possessed of a broad, stable dwelling | **मित्रावरुणा (mitrāvaruṇā)** — Mitra and Varuṇa, these deities | **नः (naḥ)** — for us | **दक्षं (dakṣaṃ)** — strength | **अपसं (apasaṃ)** — and work (the rite, i.e., the sacrifice) | **दधाते (dadhāte)** — uphold, bestow.
+**कवी (kavī)** — the two wise ones | **तुविजाता (tuvijātā)** — born so as to help many, that is, produced for the sake of many | **उरुक्षया (urukṣayā)** — having many dwelling-places, or being a refuge for many | **मित्रावरुणा (mitrāvaruṇā)** — Mitra and Varuṇa, these deities | **नः (naḥ)** — for us | **दक्षं (dakṣaṃ)** — strength | **अपसं (apasaṃ)** — and work (the rite, i.e., the sacrifice) | **दधाते (dadhāte)** — may they give.
 
 **॥ Bhāvārthaḥ ॥**
 
-We, who are engaged in performing this yajna, are aided by these deities Mitra and Varuṇa, who are exceedingly wise; upholding many, and refuge to those who come [to them], or protectors of many dwelling-places. May Mitra and Varuṇa in this way graciously bestow upon us strength, and the capability to perform yajnas and similar rites.
+These deities Mitra and Varuṇa, whom we are praising, are exceedingly wise; they were born for the benefit of many; they are givers of refuge to many, or dwell in many dwelling-places. May Mitra and Varuṇa in this way graciously bestow upon us strength, and the capability to perform yajnas and similar rites.
 
 **॥ English Translation ॥**
 
@@ -15998,27 +15998,27 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 **"Kavī"** — this word has already been discussed above. "Vipra," "dhīra," and "medhāvī" are all words that convey this same sense of wisdom; among the various senses of the word "kavi," "wise" is the one that fits here. Therefore here "kavi" is properly understood as meaning "wise."
 
-**"Tuvijātā"** — "uru" and "tuvi" are words both meaning "many"; since the meaning "helper of many" fits well in this context, most scholars explain "tuvi" as meaning "helper," or, in this same sense, "many." "Tuvi" carries the sense "**strong or mighty**." Given this sense, the word "tuvijātā" is here explained as meaning "born in the lineage of the strong," or "born of mighty parents" (**Born of strong...**
+**"Tuvijātā"** — "uru" and "tuvi" are words both meaning "many"; since they are read among twelve words meaning "many," the Bhashyakara explains "tuvi" as "many." "Tuvi" carries the sense "**strong or mighty**." Given this sense, the word "tuvijātā" is here explained as meaning "born in the lineage of the strong," or "born of mighty parents" (**Born of strong...**
 
 *(All references printed on this page, in order (as read in the numeral review): 6-2-199, 4-207, 6-69-1.)*
 
 ### Page 714
 
-**...race)" — this sense too fits well. Geldner** takes the same sense; the Bhashyakara and other authors adopt the meaning drawn from Yāska's own explanation, since the meaning proposed here does not appear inconsistent with that.
+**...race)" — this sense is the apt one. Geldner** takes the same sense; the Bhashyakara has explained following Yāska's Nighaṇṭu, and so the sense he gives is not so apt here.
 
-**"Urukṣayā"** — the Bhashyakara explains this as "possessed of a broad, established dwelling-place"; the authors of the Vedārtha-yatna explain "urukṣaya" in the sense of "possessing a special, broad plain/settlement," reading it as a distinct compound (drawn from the widely established senses of the word). Given this, "urukṣaya" is taken to mean: those who possess a settled, established dwelling — a settlement across the extended earth.
+**"Urukṣayā"** — the Bhashyakara has explained this as "refuge of many." But since in the Rigveda "uru" (extensive) and "kṣaya" (dwelling-place) are the common senses, here "urukṣayā" is better taken as "having an extensive dwelling-place" (spread over the earth, the sky and heaven).
 
-**"Dakṣaṃ"** — this word, meaning "strength," is well known from the discussion given at the very outset of this sukta (see page 699 above). The Bhashyakara here explains "dakṣa" as meaning "the power/strength of the mind." Later, however, some interpret "dakṣa" as meaning "efficiency" ("**Intellectual faculty or power; efficiency in work both mental and physical**"). Others take "dakṣa" and "buddhi-śakti" (intellectual capacity) to carry the same sense; that, too, is fitting here.
+**"Dakṣaṃ"** — since "dakṣa" is read among the twenty-eight words meaning "strength," the Bhashyakara has explained this word as "strength." But as we have said before (see page 699), the sense given by Mahīdhara, "intellectual faculty or power; efficiency in work both mental and physical," that is, "intellectual power," is the apt one here.
 
-**"Apasam"** — the Bhashyakara explains "apas" as meaning "karma" (action, rite). Further, some hold that "dakṣa" and "apas" together mean "one's own strength" and "the specific capability to accomplish the intended work." **But the fitting sense here is that "dakṣam" refers to strength itself, while "apasam" refers to that which is accomplished — the rite (the yajna).** This grants a sense to which the desire "may my rite prosper" is naturally connected.
+**"Apasam"** — since "apas" is read among the twenty-six names of "karma," the Bhashyakara has explained "apasam" as "action (the rite)." And he has taken the two words "dakṣaṃ" and "apasaṃ" as independent nouns and explained accordingly. But if "dakṣaṃ" is made the noun and "apasaṃ" its adjective, the meaning is: "May they give us proficiency in the rites, the yajnas and the like, that we perform." This sense seems the acceptable one.
 
 ---
 
 **॥ Vyākaraṇa-prakriyā ॥**
 
-**"Mitrāvaruṇā"** — here, the word "Mitra" takes the accent of the accusative, connected with the Prātipadika accent-rule already discussed above. **"Varuṇaḥ"** — the derivation "**varṇāvarṇyor unan**" (Uṇādi 1-9[?]) is applied, giving "varuṇaḥ" from the root "vṛ" with the affix "unan," through the process of guṇa and other adjustments. **"Devatādvandve ca"** (Panini 6-3-26[?]) — in a dvandva-compound of deity-names, the first member retains its accent — hence the accent seen here.
+**"Mitrāvaruṇā"** — here, the word "Mitra" takes the accent of the accusative, connected with the Prātipadika accent-rule already discussed above. **"Varuṇaḥ"** — the derivation by the Uṇādi rule for the roots "kṛ," "vṛ" and "dṛ" with the affix "unan" (Uṇādi 3-333) is applied, giving "varuṇaḥ" from the root "vṛ" with the affix "unan," through the process of guṇa and other adjustments. **"Devatādvandve ca"** (Panini 6-2-141) — in a dvandva-compound of deity-names, both members retain their accent at once — hence the accent seen here.
 
-**"Uru" + "tuvi"** — Yāska's Nirukta (2.?.?) states this word "tuvi" among words meaning "many"; many rishis in similar contexts have used "tuvijāta" as a compound meaning "born to help many." "**Tuvīnāṃ jātaḥ = tuvijātaḥ**" — a genitive compound, resolving by regular sandhi rules...
+**"Uru" + "tuvi"** — Yāska's Nirukta (3-1-1-3) states this word "tuvi" among words meaning "many"; many rishis in similar contexts have used "tuvijāta" as a compound meaning "born to help many." "**Tuvīnāṃ jātaḥ = tuvijātaḥ**" — a genitive compound, resolving by regular sandhi rules...
 
 *(All references printed on this page, in order (as read in the numeral review): 3-333, 6-2-141, 3-1-1-3.)*
 
@@ -16026,7 +16026,7 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 *(This page continues and closes the grammatical derivation of "tuvijātā," "urukṣayā," "dakṣaṃ," and "apasam" in the established dense register — not reproduced in full detail — before closing the sukta itself.)*
 
-**"Asyeti"** — from the root meaning "to obtain a fruit through an action," a formation results; that is, "apas" (work) here means the action whose fruit is obtainable through the deed performed. **"Apasa kartryāyāṃ"** (Uṇādi 5-65[?]) — the affix "asun" gives "apas," meaning "work" in general. Since the root here means "to perform, to be diligent in an action," the affix produces the accent seen in the printed text — hence "**apasasyāre**" (Rigveda Samhita 1.?.?), reading "apas" in this same sense.
+**"Asyeti"** — from the root meaning "to obtain a fruit through an action," a formation results; that is, "apas" (work) here means the action whose fruit is obtainable through the deed performed. **"Apasa kartryāyāṃ"** (Uṇādi 4-646) — the affix "asun" gives "apas," meaning "work" in general. Since the root here means "to perform, to be diligent in an action," the affix produces the accent seen in the printed text — hence "**apasasyāre**" (Rigveda Samhita 6-69-1), reading "apas" in this same sense.
 
 **॥ इति प्रथमास्ष्टके प्रथमाध्याये चतुर्थो वर्गः ॥**
 *(Thus ends the fourth Varga of the first Adhyāya of the first Aṣṭaka.)*
@@ -16071,11 +16071,11 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 > ಮೈಸೂರು
 > ಶ್ರೀ ಚಾಮುಂಡೇಶ್ವರೀ ಎಲೆಕ್ಟ್ರಿಕ್ ಪ್ರೆಸ್ಸಿನಲ್ಲಿ
-> ಪ್ರೊ: ಎಸ್. ಆರ್. ರಂಗರಾವ್‌ರವರಿಂದ
+> ಪ್ರೊ: ವೈ. ಆರ್. ರಂಗರಾವ್‌ರವರಿಂದ
 > ಮುದ್ರಿಸಲ್ಪಟ್ಟಿತು.
 > ೧೯೪೭.
 
-**"Mysore. Printed at the Śrī Chāmuṇḍeśvarī Electric Press by Pro. S. R. Rangarao. 1947."**
+**"Mysore. Printed at the Śrī Chāmuṇḍeśvarī Electric Press by Pro. Y. R. Rangarao. 1947."**
 
 *(This colophon likely marks a printing-signature boundary within the physical volume rather than any structural division of the text itself. The sukta content resumes on the next page.)*
 
@@ -16088,7 +16088,7 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 **॥ Sūcane (Note) ॥**
 
-**In this index, mantras are listed according to their division into Maṇḍala, Sūkta, and mantra-number.** For example — to locate the mantra "**aṃśaṃ duhanti svanayantam**" (9-42-6), the number given, "9-42-6," should be understood as: 9th Maṇḍala, 42nd Sūkta, 6th mantra. In this work, at the top right of every page, "Ma. A. Sū." (Maṇḍala, Anuvāka, Sūkta) is given; the reader should consult that accordingly. **Since some mantras also occur in the other Vedas, that information is given here too**, using these abbreviations: **Sāma** = Sāmaveda; **Vā. Ya** = Vājasaneyi Saṃhitā; **Atharva** = Atharvaveda; **Tai. Saṃ** = Taittirīya Saṃhitā; **Tai. Brā** = Taittirīya Brāhmaṇa; **Tai. Ā** = Taittirīya Āraṇyaka; **Śata. Brā** = Śatapatha Brāhmaṇa; **Ni** = Nirukta; and so on.
+**In this index, mantras are listed according to their division into Maṇḍala, Sūkta, and mantra-number.** For example — to locate the mantra "**aṃśaṃ duhanti svanayantam**" (9-72-6), the number given, "9-72-6," should be understood as: 9th Maṇḍala, 72nd Sūkta, 6th mantra. In this work, at the top right of every page, "Ma. A. Sū." (Maṇḍala, Anuvāka, Sūkta) is given; the reader should consult that accordingly. **Since some mantras also occur in the other Vedas, that information is given here too**, using these abbreviations: **Sāma** = Sāmaveda; **Vā. Ya** = Vājasaneyi Saṃhitā; **Atharva** = Atharvaveda; **Tai. Saṃ** = Taittirīya Saṃhitā; **Tai. Brā** = Taittirīya Brāhmaṇa; **Tai. Ā** = Taittirīya Āraṇyaka; **Śata. Brā** = Śatapatha Brāhmaṇa; **Ni** = Nirukta; and so on.
 
 ---
 
@@ -16112,4 +16112,4 @@ We, who are engaged in performing this yajna, are aided by these deities Mitra a
 
 *(This appendix appears set to continue for a considerable number of pages, given its evident aim to index the Rigveda's full corpus of roughly ten thousand mantras. Given its reference-tool nature — a raw alphabetical concordance rather than narrative commentary — it would be worth confirming how you'd like this handled: transcribed in full over many further pages, sampled/characterized as here, or skipped in favour of returning directly to Sukta 3's verse-by-verse commentary and revisited later if needed.)*
 
-*(All references printed on this page, in order (as read in the numeral review): 1-4, 6-1-45, 3-3-56, 6-1-163, 6-1-201, 6-1-223, 6-2-139, 6-1-144, 6-2-199, 3-3-118, 4-646, 6-69-1.)*
+*(All references printed on this page, in order (as read in the numeral review): 6-1-45, 3-3-56, 6-1-163, 6-1-201, 6-1-233, 6-2-139, 6-1-144, 6-2-199, 3-3-118, 4-646, 6-69-1.)*
