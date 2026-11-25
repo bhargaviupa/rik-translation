@@ -41742,6 +41742,239 @@ We, who again and again desire the gift (of wealth and the like) of this god Tā
 ##### English translation
 Repeatedly invoking the liberality (of Tarkshya), as (we do that) of Indra, let us mount upon it for our welfare as upon a ship; O heaven and earth, vast, expanded, mainfold, profound, may we not suffer harm now from (Tarakshya's) comming to or departing from you.
 
+### Printed p. 1216
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यश्चि॒द्यः शव॑सा॒ पंच॑ कृ॒ष्टीः सूर्य॑ इव॒ ज्योति॑षा॒पस्त॒तान॑ ।  
+> स॒ह॒स्र॒साः श॑त॒सा अ॑स्य॒ रंहि॒र्न स्मा॑ वरंते युव॒तिं न शर्यां॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यः । चित् । यः । शवसा । पंच । कृष्णीः । सूर्यैः इव । ज्योतिषा । अपः । ततान।  
+> सहस्रसाः । शतसाः । अस्य । रंहिः । न । स्म । वरंते । युवतिं । न । शर्यां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यश्चिद्योऽपि तार्क्ष्यः सद्यः शीघ्रं शवसात्मीयेन बलेनाप उदकान्यमृतलक्षणानि ततान विस्तारितवान् सूर्य इव यथा सूर्यः सर्वस्य प्रेरक आदित्यो
+> ज्योतिषात्मीयेन तेजसा वर्षर्तावपो विस्तारयति तद्वत् । कृष्टयो मनुष्याः ।
+> पंचकृष्टीः पंचविधान्कृष्टीन्मनुष्यान्प्रति । निषादपंचमांश्चतुरो वर्णानित्यर्थः ।
+> अस्य तार्क्ष्यस्य रंहिर्गतिः सहस्रसाः सहस्रसंख्यस्य धनस्य दात्री संभक्ति वा भवति । तथा
+> शतसाः शतस्य च दात्रि संभक्ति वा भवति ॥ सनतेः सनोतेर्वा जनसनखनेति विट् ।
+> विड्वनोरनुनासिकस्यादित्यात्वं ॥ न स्म न खल्विदृशीं तार्क्ष्यस्य ते गतिं वरंते । के
+> चन वारयंति । तत्र दृष्टांतः । शर्यां शरकांडमयिमिषुं धनुषो मुक्तां
+> युवतिं न लक्ष्मण मिश्रीभवंतीमिव । सा यथा दुर्निवारा तथैषा कैश्चितपि वारयितुमशक्त्यर्थः । अत्र निरुक्तं । सद्योऽपि यः शवसा बलेन तनोत्यपः सूर्य इव
+> ज्योतिषा पंच मनुष्यजातानि सहस्रसानिनी शतसानिन्यस्य सा गतिर्न स्मैनां वारयंति
+> प्रयुवतीमिव शरमयिमिषुं । नि. १०-२९ । इति ॥
+
+##### Gist of the bhāṣya
+
+That Tārkṣya who swiftly, by his own strength, spread out the waters (the waters of immortal nature), as the sun, the impeller of all, spreads out the waters in the rainy season by his own light. कृष्टीः (*kṛṣṭīḥ*) are men; पंचकृष्टीः (*paṃcakṛṣṭīḥ*) means the five kinds of men, that is, the four castes with the Niṣādas as the fifth. His course is the giver of a thousand-fold wealth, or is one that is shared in; likewise the giver of a hundred-fold wealth. न स्म (*na sma*): no one at all checks such a course of Tārkṣya. The illustration: like a शर्यां (*śaryāṃ*), an arrow made of reed, shot from the bow, like a young woman mingling with her mark; as the arrow is hard to stop, so this course cannot be stopped by anyone. Here the Nirukta: सद्योऽपि यः शवसा बलेन तनोत्यपः सूर्य इव ज्योतिषा पंच मनुष्यजातानि सहस्रसानिनी शतसानिन्यस्य सा गतिर्न स्मैनां वारयंति प्रयुवतीमिव शरमयिमिषुं । (*sadyo 'pi yaḥ śavasā balena tanotyapaḥ sūrya iva jyotiṣā paṃca manuṣyajātāni sahasrasāninī śatasāninyasya sā gatirna smaināṃ vārayaṃti prayuvatīmiva śaramayimiṣuṃ |*) (Ni. 10-29).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः चित् (*yaḥ cit*)—which Tārkṣya deva
+- सद्यः (*sadyaḥ*)—quickly
+- शवसा (*śavasā*)—by his own strength
+- सूर्य इव (*sūrya iva*)—as the sun
+- ज्योतिषा (*jyotiṣā*)—by his own radiance spreads out the waters in the form of rain
+- अपः (*apaḥ*)—the waters
+- पंच कृष्णीः (*paṃca kṛṣṇīḥ*)—for the benefit of the five kinds of people
+- ततान (*tatāna*)—spreads out, extends
+- अस्य (*asya*)—of such a Tārkṣya deva
+- रंहिः (*raṃhiḥ*)—the course (going)
+- सहस्रसाः (*sahasrasāḥ*)—gives wealth in thousands
+- शतसाः (*śatasāḥ*)—gives wealth in hundreds
+
+### Printed p. 1217
+- शर्यां (*śaryāṃ*)—an arrow released from a bow
+- युवतिं न (*yuvatiṃ na*)—as no one can stop it from reaching its target, so the gift this Tārkṣya deva gives us
+- न स्म वरंते (*na sma varaṃte*)—no one can obstruct
+
+##### भावार्थ (Bhāvārtha)
+
+As the sun by his radiance spreads out the waters over the earth in the form of rain, so the Tārkṣya deva who by his strength spreads out the waters over the earth for the benefit of the five kinds of people: the coming of such a Tārkṣya deva will give us wealth in hundreds and thousands of shares. As an arrow shot from a bow cannot be stopped from reaching its mark, so no one can obstruct the gift that Tārkṣya is about to give us.
+
+##### English translation
+He who has by his strength rapidly spread out waters for the five castes like the sun by his light—you sand-yiealding, hundred-bestowing is his course like an unfailing arrow, none can stop it.
+
+##### विशेषविषयगळु (Special Topics)
+
+Pañca kṛṣṭī: the five kinds of people, groups of people in five. The four castes beginning with the Brāhmaṇas, together with the hunters, make five kinds of people. For a detailed explanation of these five peoples see Ṛ. Saṃ. Part 13, p. 407 and Part 14, p. 710.
+Yāska has given an etymological explanation of this verse: सद्योऽपि यः शवसा बलेन तनोत्यपः सूर्यइव ज्योतिषा पंच मनुष्यजातानि सहस्रसानिनी शतसानिन्यस्य सा गतिर्न स्मैनां वारयंति प्रयुवतीमिव शरमयामिषुं ॥ (*sadyo 'pi yaḥ śavasā balena tanotyapaḥ sūryaiva jyotiṣā paṃca manuṣyajātāni sahasrasāninī śatasāninyasya sā gatirna smaināṃ vārayaṃti prayuvatīmiva śaramayāmiṣuṃ ‖*) (Ni. 10-29). Since there is no difference between the meaning of Sāyaṇa's bhāṣya as we have explained it and Yāska's explanation, there is no need to explain it again.
+
+Sūkta 179
+
+## Sūkta 179 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत्तिष्ठतेति तृचमष्टाविंशं सूक्तमैंद्रं । आद्यानुष्टुप् शिष्टे त्रिष्टुभौ ।
+> उशीनरपुत्रः शिविर्नाम राजा प्रथमाया ऋषिः । काशीनामधिपतिः प्रतर्दनो नाम
+> 77
+
+##### Gist of the bhāṣya
+
+The sūkta उत्तिष्ठत (*uttiṣṭhata*), of three verses, is the twenty-eighth sūkta, addressed to Indra. The first verse is anuṣṭubh, the other two triṣṭubh. The seer of the first verse is the king Śibi, son of Uśīnara; the seer of the second is Pratardana, lord of the Kāśīs; (continued on the next page).
+
+### Printed p. 1218
+
+> द्वितीयायाः । रोहिदश्वपुत्रो वसुमना नाम तृतीयायाः । तथा चानुक्रांतं ।
+> उत्तिष्ठतैकर्चाः शिबिरौशीनरः काशिराजः प्रतर्दनो रौहिदश्वो वसुमना अद्यानुष्टुबिति ॥ दधिघर्म आद्या वक्तव्या। सूत्रितं च । होतर्वदस्वेत्युक्त उत्तिष्ठिताव पश्यतेत्याह । अ. ५-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) the seer of the third is Vasumanas, son of Rohidaśva. The Anukramaṇī says: उत्तिष्ठतैकर्चाः शिबिरौशीनरः काशिराजः प्रतर्दनो रौहिदश्वो वसुमना अद्यानुष्टुबिति ॥ द (*uttiṣṭhataikarcāḥ śibirauśīnaraḥ kāśirājaḥ pratardano rauhidaśvo vasumanā adyānuṣṭubiti ‖ da*). The first verse is to be recited at the dadhigharma offering. It is prescribed in the sūtra: होतर्वदस्वेत्युक्त उत्तिष्ठिताव पश्यतेत्याह । (*hotarvadasvetyukta uttiṣṭhitāva paśyatetyāha |*) (Ā. 5-13).
+
+##### Anuvāda
+
+This sūkta beginning उत्तिष्ठत (*uttiṣṭhata*) is the twenty-eighth sūkta in the twelfth anuvāka. It has three Ṛks. Of the Ṛks of this sūkta, the seer of the first is the king named Śibi, son of Uśīnara; the seer of the second is Pratardana, lord of the people called Kāśīnaras; the seer of the third is Vasumanas, son of Rohidaśva. The deity is Indra. The first Ṛk is in anuṣṭubh metre; the remaining two are in triṣṭubh. The Anukramaṇī says: उत्तिष्ठतैकर्चाः शिबिरौशीनरः काशिराजः प्रतर्दनो रौहिदश्वो वसुमना आद्यानुष्टुप् (*uttiṣṭhataikarcāḥ śibirauśīnaraḥ kāśirājaḥ pratardano rauhidaśvo vasumanā ādyānuṣṭup*). The first Ṛk of this sūkta is to be recited when the oblation called dadhigharma is offered, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra होतर्वदस्वेत्युक्त उत्ति ष्ठताव पश्यतेत्याह (*hotarvadasvetyukta utti ṣṭhatāva paśyatetyāha*) (Ā. 5-13).
+
+Sūkta—179
+Maṇḍala—10; Anuvāka—12; Sūkta—179.
+Aṣṭaka—8; Adhyāya—8; Varga—37.
+Number of Ṛks in the sūkta—3.
+Ṛṣi—1. Śibi Auśīnara; 2. Pratardana, king of Kāśī; 3. Vasumanas Rauhidaśva.
+Devatā—Indra.
+Chandas—1. Anuṣṭubh; 2, 3. Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ति॑ष्ठ॒ताव॑ पश्य॒तेंद्र॑स्य भा॒गमृ॒त्वियं॑ ।  
+> यदि॑ श्रा॒तो जु॒होत॑न॒ यद्यश्रा॑तो मम॒त्तन॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । तिष्ठत । अव । पश्यत । इंद्रस्य । भागं । ऋत्वियं ।  
+> यदि । श्रातः । जुहोतन । यदि । अश्रातः । ममत्तन ॥ १ ॥
+
+### Printed p. 1219
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः उत्तिष्ठत । आसनादूर्ध्वमुत्तिष्ठत । नोपनिशत ॥ ऊर्ध्वकर्मत्पादात्मनेपदाभावः । पा. १-३-२४ ।' उत्थार्तियमृतौ वसंतादिकाले भवमिंद्रस्य भागं भजनीयं दधिघर्मं पच्यमानमव पश्यत । निरीक्षध्वं ॥ ऋतुशब्दाद्भवार्थे छंदसि घस् । सिति चेति पदसंज्ञया भसंज्ञाया बाधादोर्गुणाभावः । भजेः
+> कर्मणि घइंतो भागशब्दः । कर्षात्वत इत्यंतोदात्तद्वं ॥ यदि स भागः श्रातः पक्वः
+> तर्हि जुहोतन । इंद्रार्थमग्नौ जुहुत ॥ तप्तनप्तनथनाश्चेति तस्य तनबादेशः ।
+> भीह्रीत्यादिना । पा. ६-१-१९२ ॥ पिति प्रत्ययात्पूर्वस्योदात्तत्वं ॥ यद्यश्रातोऽपक्वः तर्हि ममत्तन । माद्यत । यद्वा । स्तुतिभिर्मादयत ॥ अत्र तेनैव सूत्रेण
+> तनदादेशः ॥
+
+##### Gist of the bhāṣya
+
+O priests, rise up from your seats; do not sit. Look at Indra's portion, the dadhigharma suited to the season (spring and the like), as it is being cooked; watch it. If that portion is cooked, offer it in the fire for Indra. If it is uncooked, delight him: ममत्तन (*mamattana*) means "gladden", or else "gladden with praises".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत्तिष्ठत (*uttiṣṭhata*)—(O priests) rise from your seats
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- भागं (*bhāgaṃ*)—the portion to be offered
+- ऋत्वियं (*ṛtviyaṃ*)—that the share of oblation is ready
+- अव पश्यत (*ava paśyata*)—look
+- यदि (*yadi*)—if that portion
+- श्रातः (*śrātaḥ*)—is cooked
+- जुहोतन (*juhotana*)—offer it in the fire for Indra
+- यदि (*yadi*)—if
+- अश्रातः (*aśrātaḥ*)—it is not cooked
+- ममत्तन (*mamattana*)—praise Indra with hymns and gladden him
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, do not sit in your seats. Rise, be ready for the work. See whether the portion of oblation to be offered to Indra is ready or not. If it is cooked, offer it in the fire for Indra. If it is not cooked, then at least praise Indra with hymns and make him glad.
+
+##### English translation
+Rise up, look to the portion of Indra suitable to the season ; if it be cooked, offer it; if uncooked, gratify him (by praise).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रा॒तं ह॒विरो ष्विं॑द्र॒ प्र या॑हि ज॒गाम॒ सूरू॒ अध्व॑नो॒  ॑
+> विमध्यं ।  
+> परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॒जप॑तिं॒ चरं॑तं ॥ २ ॥
+
+### Printed p. 1220
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रातं । हविः । ओ इति । सु । इंद्र । प्र । याहि । जगाम । सूरः । अध्वनः । विमध्यं ।  
+> परि । त्वा । आसते । निधिभिः । सखायः । कुलपाः । न । व्राजपतिं । चरंतं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्यैव दधिघर्मस्य श्रातं हविरित्येषानुवाक्या । सूत्रितं च । श्रातं हविरित्युक्तः श्रातं हविरित्यन्वाह । आ. ५-१३ । इति ॥
+> हे इंद्र हविर्दधिघर्माख्यं त्वदीयं श्रातं । पक्वं ॥ श्रीञ् पाक इत्यस्मान्निष्ठायामपस्पृधेथामित्यादौ श्राभावो निपात्यते ॥ ओ आ उ सु सुष्टु प्र याहि ।
+> प्रकर्षण शीघ्रमागच्छ । सूरः सूर्योऽध्वनो गंतव्यस्य मार्गस्य विमध्यं विकलमध्यमीषदूनं मध्यभागं जगाम । गतवान् । तव यागार्थं मध्याह्नो जात
+> इत्यर्थः । सखायः समानख्याना ऋत्विजश्च निधिभिर्निहितैरभिन्यासादित्यैः सोमैः सार्धं
+> त्वा त्वां पर्यासते । पर्युपासते । तत्र दृष्टांतः । कुलपा न कुलस्य वंशस्य रक्षकाः
+> पुत्रा यथा प्राजपतिं । प्राजा गंतव्या गृहाः । तेषां पतिं चरंतं गच्छंतमुपासते तथेत्यर्थः ॥ व्रज गत् । अस्मात्कर्मणि घञ् । अजिव्रज्योश्च । पा. ७-३-६० । इति
+> कुत्वनिषेधः । कर्षात्वत इत्यंतोदात्तत्वे पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+This verse, श्रातं हविः (*śrātaṃ haviḥ*), is the anuvākyā for that same dadhigharma. It is prescribed: श्रातं हविरित्युक्तः (*śrātaṃ havirityuktaḥ*) … *anvāha* **NOTE** (Ā. 5-13). O Indra, your oblation called dadhigharma is cooked. प्र याहि (*pra yāhi*): come forth quickly. The sun has reached विमध्यं (*vimadhyaṃ*), the middle of the road to be travelled, a little short of the middle; that is, midday has come for your sacrifice. Your friends, the priests, sit round you with the placed Soma offerings. The illustration: as sons, protectors of a family, attend upon the lord of the dwellings (प्राजा (*prājā*), houses to be gone to) as he goes about.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हविः (*haviḥ*)—the oblation called dadhigharma, for you
+- श्रातं (*śrātaṃ*)—is cooked (therefore)
+- ओ (*o*)—quickly
+- सुप्र याहि (*supra yāhi*)—graciously come here
+- सूरः (*sūraḥ*)—the sun
+- अध्वनः (*adhvanaḥ*)—of the road on which he travels
+- विमध्यं (*vimadhyaṃ*)—the middle part
+- जगाम (*jagāma*)—has reached (that is, it is now midday)
+- कुलपाः (*kulapāḥ*)—sons who are protectors of the family
+- प्राजपतिं (*prājapatiṃ*)—the master of their house
+- चरंतं (*caraṃtaṃ*)—as they approach and attend upon
+- सखायः (*sakhāyaḥ*)—the priests who are like friends to you
+- निधिभिः (*nidhibhiḥ*)—together with the Soma juices prepared and set down
+- त्वा (*tvā*)—you
+- परि आसते (*pari āsate*)—are waiting to serve
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the oblation called dadhigharma is cooked for you. Therefore come quickly here. The sun is already in the middle of his course; that is, it is now midday. As sons of the family, protectors of the lineage, approach and attend upon the master of their house, the priests, your friends,
+
+### Printed p. 1221
+stand waiting to serve you, together with the Soma juice prepared to be offered to you.
+
+##### English translation
+Repair, Indra, quickly to the oblation which is cooked, the sun is advanced nearly to the middle of his road; your friends sit arround you with their offerings as the protectors of a family (attend upon) the migrating lord of the mansion.
+
+##### विशेषविषयगळु (Special Topics)
+
+When the oblation called dadhigharma is offered, this Ṛk श्रातं हविः (*śrātaṃ haviḥ*) is to be recited as the anuvākyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta-sūtra श्रातं हविरित्युक्तः (*śrātaṃ havirityuktaḥ*) … *anvāha* **NOTE** (Ā. 4-13).**NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुश्रा॑तं मन्ये॒ तदृ॒तं नवी॑यः।  
+> माध्यं॑दिनस्य॒ सव॑नस्य द॒ध्नः पिबें॑द्र वज्रिन्पुरुकृज्जुषा॒णः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रातं । मन्ये । ऊधनि । श्रातं । अग्नौ । सुश्रातं । मन्ये । तत् । ऋतं । नवीयः।  
+> माध्यंदिनस्य । सवनस्य । दध्नः । पिब । इंद्र । वज्रिन् । पुरुकृत् । जुषाणः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्यैव दधिघर्मस्य श्रातं मन्य इत्येषा याज्या । सूत्र्यते हि । श्रातं मन्य
+> ऊधनि श्रातमग्नाविति यजति । आ. ५-१३ । इति ॥
+> ऊधनि गोरूधस्येतद्धधिघर्ममाख्यं हविः पयोरूपेण श्रातं पक्वमिति
+> मन्ये । जाने । पुनश्च दुग्धं पयोऽग्नावपि श्रातं पक्वं । इदानीं दध्यवस्थमप्यग्नौ
+> पच्यते । अतः सुश्रातं सुपक्वमिति मन्ये । जाने । अत एतद्धविऋतं सत्यभूतं
+> नवीयो नवतरं प्रत्यग्रतरं भवति । हे वज्रिन् वज्रवन् हे पुरुकृद्बहुकर्मकृदिंद्र
+> जुषाणः प्रीयमाणस्त्वं माध्यंदिनस्य माध्यंदिने भवस्य सवनस्य सोमस्य संबंधिधिनो दध्नः ॥ कर्मणि षष्ठी ॥ दधिघर्माख्यं हविः पिब ॥
+
+##### Gist of the bhāṣya
+
+This verse, श्रातं मन्ये (*śrātaṃ manye*), is the yājyā for the same dadhigharma. It is prescribed: श्रातं मन्य ऊधनि श्रातमग्नौ सुश्रातं मन्ये तदृतं नवीयः। माध्यंदिनस्य सवनस्य दध्नः पिबेंद्र वज्रिन्पुरुकृज्जुषाणः ॥ ३ ॥ श्रातं । मन्ये । ऊधनि । श्रातं । अग्नौ । सुश्रातं । मन्ये । तत् । ऋतं । नवीयः। माध्यंदिनस्य । सवनस्य । दध्नः । पिब । इंद्र । वज्रिन् । पुरुकृत् । जुषाणः ॥ ३ ॥ तस्यैव दधिघर्मस्य श्रातं मन्य इत्येषा याज्या । सूत्र्यते हि । श्रातं मन्य ऊधनि श्रातमग्नाविति यजति । (*śrātaṃ manya ūdhani śrātamagnau suśrātaṃ manye tadṛtaṃ navīyaḥ| mādhyaṃdinasya savanasya dadhnaḥ pibeṃdra vajrinpurukṛjjuṣāṇaḥ ‖ 3 ‖ śrātaṃ | manye | ūdhani | śrātaṃ | agnau | suśrātaṃ | manye | tat | ṛtaṃ | navīyaḥ| mādhyaṃdinasya | savanasya | dadhnaḥ | piba | iṃdra | vajrin | purukṛt | juṣāṇaḥ ‖ 3 ‖ tasyaiva dadhigharmasya śrātaṃ manya ityeṣā yājyā | sūtryate hi | śrātaṃ manya ūdhani śrātamagnāviti yajati |*) (Ā. 5-13). I think this oblation is cooked in the form of milk in the cow's udder; and again, the milk, drawn, is cooked in the fire. Now, in the state of curds, it is cooked in the fire; therefore I think it well cooked. Hence this oblation is true and newer, fresher. O Indra, wielder of the thunderbolt, doer of many deeds, being pleased, drink the dadhigharma oblation belonging to the midday pressing of Soma; the genitive is in the sense of the object.
+
 ---
 
-**Progress note:** Done through printed p. 1215. pp. 1210-1215 (batch API)
+**Progress note:** Done through printed p. 1221. pp. 1216-1221 (batch API)
