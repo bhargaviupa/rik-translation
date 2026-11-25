@@ -22694,6 +22694,274 @@ O Agni, you of great form are exceedingly renowned by your shining lustre. You r
 ##### English translation
 Agni, you, the mighty one, are known far and wide by your radiant lustre; bellowing, you rush like a bull, you impregnate the sister (plants) in your exhilaration; you are mighty.
 
+### Printed p. 656
+## Sūkta 22 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कुहेति पंचदशर्चं षष्ठं सूक्तमैंद्रं । पंचदशी त्रिष्टुप् पंचमीसप्तमानवम्यस्ति स्रोऽनुष्टुभः शिष्टाः पुरस्ताद्बृहत्यः । आद्यद्वादशकश्रष्टकवती
+> पुरस्ताद्बृहती । पूर्ववदृषिः । तथा चानुक्रांतं। कुह पंचोना पुरस्ताद्बार्हतं
+> त्रिष्टुबंतं त्वं त्या चिदा नस्त्वं नोऽनुष्टुभ इति॥ चतुर्थेऽहनि निष्केवल्य एतत्तूक्तं।
+> सूत्रितं च । कुह श्रुत इंद्रो युध्मस्य त इति निष्केवल्यं । आ. ७-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the sixth sūkta, beginning कुह (*kuha*), is addressed to Indra and has fifteen Ṛks. The fifteenth is a Triṣṭubh; the fifth, seventh and ninth are Anuṣṭubhs; the rest are Purastād-bṛhatīs. The first quarter-verse (pāda) has twelve syllables, and the remaining ones have eight each. The seer is the same as before. He cites the Anukramaṇī: कुह पंचोना पुरस्ताद्बार्हतं त्रिष्टुबंतं त्वं त्या चिदा नस्त्वं नोऽनुष्टुभ इति॥ (*kuha paṃconā purastādbārhataṃ triṣṭubaṃtaṃ tvaṃ tyā cidā nastvaṃ no 'nuṣṭubha iti‖*) The sūkta is used in the Niṣkevalya Śastra on the fourth day, and the sūtra says: कुह श्रुत इंद्रो युध्मस्य त इति निष्केवल्यं (*kuha śruta iṃdro yudhmasya ta iti niṣkevalyaṃ*) (Ā. 7-11).
+
+##### Anuvāda
+
+This sūkta, कुह (*kuha*), is the sixth sūkta in the second anuvāka. It has fifteen Ṛks. Its seer and deity are the same as those of the preceding sūkta. The fifteenth Ṛk of this sūkta is in the Triṣṭubh metre; the fifth, seventh and ninth are in the Anuṣṭubh metre. The remaining Ṛks are in the Purastād-bṛhatī metre. If a Ṛk has four pādas, the first with twelve syllables and the other three with eight each, that Ṛk is said to be in the Purastād-bṛhatī metre. In the Anukramaṇī it is said: कुह पंचोना पुरस्ताद्बार्हतं त्रिष्टुबंतं त्वं त्या चिदा नस्त्वं नोऽनुष्टुभः (*kuha paṃconā purastādbārhataṃ triṣṭubaṃtaṃ tvaṃ tyā cidā nastvaṃ no 'nuṣṭubhaḥ*). The sūkta is applied to the Niṣkevalya Śastra mantras on the fourth day of the sacrifice, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, कुह श्रुत इंद्रो युध्मस्य त इति निष्केवल्यं (*kuha śruta iṃdro yudhmasya ta iti niṣkevalyaṃ*) (Ā. 7-11).
+
+Sūkta 22.
+Maṇḍala 10; Anuvāka 2; Sūkta 22.
+Aṣṭaka 7, Adhyāya 7; Vargas 6, 7, 8.
+Number of Ṛks in the sūkta: 15.
+Ṛṣi: Pimada Aindra Prājāpatya, or Vasukṛt Vāsukra.
+Devatā: Indra.
+Chandas: 1, 4, 6, 8, 10-14: Purastād-bṛhatī. 5, 7, 9: Anuṣṭubh. 15: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुह॑ श्रु॒त इंद्रः॒ कस्मि॑न्न॒द्य जने॑ मि॒त्रो न श्रू॑यते ।  
+> ऋषी॑णां वा॒ यः क्षये॒ गुहा॑ वा॒ चर्कृ॑षे गि॒रा ॥ १ ॥
+
+### Printed p. 657
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुह । श्रुतः । इंद्रः । कस्मिन् । अद्य । जने । मित्रः । न । श्रूयते ।  
+> ऋषीणां । वा । यः । क्षये । गुहा । वा । चर्कृषे । गिरा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्निन इंद्रः कुह कुत्र स्थाने श्रुतो विश्रुतः प्रख्यातः । कस्मिञ्जने
+> यजमान इज्यत्वेन स्तुत्यत्वेनावस्थितः श्रूयते । प्रख्यायते । तत्र दृष्टांतः ।
+> मित्रो न सूर्य इव सखेव ना तद्वत् । य इंद्र ऋषीणां भृग्वादीनां क्षये निवास आश्रमे गुहा वा गुहायामरण्ये वा गिरा स्तुतिलक्षणया
+> वाचा चर्कृषे अत्यर्थमाकृष्यते । अत्यर्थं स्तूयत इत्यर्थः । स इंद्रः कुह श्रुत
+> इति पूर्वेण संबंधः ।
+
+##### Gist of the bhāṣya
+
+Where is Indra renowned today? Among what worshipper (yajamāna), as object of worship or of praise, is he heard of and famed? The example is मित्रो न (*mitro na*), "like Mitra": like the sun, or like a friend. Indra is greatly drawn (चर्कृषे (*carkṛṣe*)), that is, greatly praised, by the speech of praise at the dwelling (क्षये (*kṣaye*): abode, hermitage) of the sages Bhṛgu and others, or in a cave or forest. This is connected with the earlier question, "Where is that Indra renowned?"
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- ऋषीणां (*ṛṣīṇāṃ*)—of the sages
+- क्षये वा (*kṣaye vā*)—either in the dwelling-places
+- वा (*vā*)—or
+- गुहा (*guhā*)—in secret places
+- गिरा (*girā*)—by speech in the form of praise
+- चर्कृषे (*carkṛṣe*)—is drawn
+- इंद्रः (*iṃdraḥ*)—Indra
+- अद्य (*adya*)—on this day of the sacrifice
+- कुह (*kuha*)—in what place
+- श्रुतः (*śrutaḥ*)—is he renowned?
+- मित्रो न (*mitro na*)—like a dear friend
+- कस्मिन् जने (*kasmin jane*)—among what people
+- श्रूयते (*śrūyate*)—is he heard of as famed
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who is drawn by speech in the form of praise whether in the dwelling-places of the sages or in secret places: in what place is he renowned on this day of the sacrifice? Like a dear friend, among what people is he heard of as famed?
+
+##### English translation
+In what place to-day is Indra renowned? In what nation is he famed like Mitra ? (Indra), who is worshipped with sacred praise at the dwelling of the rishis, or in secret.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह श्रु॒त इंद्रो॑ अ॒स्मे अ॒द्य स्तवे॑ व॒ज्र्य चे॑षमः ।  
+> मि॒त्रो न यो जने॒ष्वा यश॑स्च॒क्रे असा॒म्या ॥ २ ॥
+
+### Printed p. 658
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । श्रुतः । इंद्रः । अस्मे इति । अद्य । स्तवे । वज्री । ऋचीषमः ।  
+> मिश्रः । न । यः । जनेषु । आ । यशः । चक्रे । असामि । आ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहास्मिन्यज्ञ इंद्रः श्रुतः प्रख्यातः । अद्यास्मिन्दिवस अस्मे अस्माभिः स्तवे ।
+> स्तूयते । कीदृशः । वज्री वज्रवान् ऋचीषमः । यद्दाव इंद्र ते शतं शतं
+> भूमारुत स्युः न त्वा वज्रिन् । ऋ. ८-७०-५ । इत्यादिकया स्तुत्या समानगुण
+> इत्यर्थः । य इंद्रो मित्रो न सूर्य इव स्निग्ध इव वा जनेषु स्तोतृजनेषु
+> यशोऽन्नं कीर्तिं वा चक्रे करोति । कीदृशं । असाम्यसाधारणं । स इंद्रोऽस्माभिः स्तूयत इति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Here, in this sacrifice, Indra is renowned; today, on this day, he is praised by us. What is he like? He is वज्री (*vajrī*), the wielder of the thunderbolt, and ऋचीषमः (*ṛcīṣamaḥ*): equal in qualities to the one praised by the hymn beginning यद्दाव इंद्र ते शतं शतं भूमारुत स्युः न त्वा वज्रिन् (*yaddāva iṃdra te śataṃ śataṃ bhūmāruta syuḥ na tvā vajrin*) (Ṛ. Saṃ. 8-70-5) and so on. Indra, like Mitra (that is, like the sun, or like a friend), produces among the worshippers यशः (*yaśaḥ*), food or fame, which is असामि (*asāmi*), unequalled. This is connected with the earlier statement that this Indra is praised by us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रे (*vajre*)—the bearer of the thunderbolt
+- यचीषमः (*yacīṣamaḥ*)—and deserving of praise
+- यः (*yaḥ*)—which Indra
+- मित्रो न (*mitro na*)—like a friend
+- जनेषु (*janeṣu*)—among the worshippers
+- असामि (*asāmi*)—unequalled
+- यशः (*yaśaḥ*)—food
+- आ चक्रे (*ā cakre*)—provides
+- इंद्रः (*iṃdraḥ*)—Indra
+- इह (*iha*)—here
+- श्रुतः (*śrutaḥ*)—renowned
+- अद्य (*adya*)—on this day of the sacrifice
+- अस्मे (*asme*)—by us
+- स्तवे (*stave*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the bearer of the thunderbolt and deserving of praise, who like a friend provides unequalled food among the worshippers, is renowned here and is praised by us on this day of the sacrifice.
+
+##### English translation
+Here is Indra renowned ; to-day he is praised by us, the wielder of the thunderbolt, the deserving of praise ; he who, like Mitra, bestows upon men unequalled abundance.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हो यस्पतिः॒ शव॑सो॒ असा॒म्या म॒हो नृ॒णस्य॑ तूतु॒जिः ।  
+> भ॒र्ता वज्र॑स्य धृ॒ष्टोः पि॒ता पु॒त्रमि॑व प्रि॒यं ॥ ३ ॥
+
+### Printed p. 659
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महः । यः । पतिः । शवसः । असामि । आ । महः । नृम्मस्य । तूतुजिः ।  
+> भर्ता । वज्रस्य । धृष्ण्णोः । पिता । पुत्रं इव । प्रियं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो महो महतः शवसो बलस्य पतिरीश्वरोऽसाम्या । आङ्मर्यादायां । आ समाप्तेः । अनंतगुण इत्यर्तः । महो महतो नृणस्य धनस्य च
+> तूतुजिः स्तोतृभ्यः प्रेरकः । किंच दृष्टोः शत्रूणां धर्षकस्य वज्रस्य स्वकीयस्यायुधस्य भर्ता य इंद्रो धारयिता । स इंद्रोऽस्मान्पात्विति शेषः । तत्र दृष्टांतः ।
+> पिता पुत्रमिव प्रियं यथा पितेप्सितं सुतं पाति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is lord of great strength, असाम्या (*asāmyā*) (आङ् (*āṅ*) in the sense of limit, "up to completion", so he has endless qualities), who is the impeller (तूतुजिः (*tūtujiḥ*)) of great wealth to the praisers, and who is the bearer (holder) of his own weapon, the thunderbolt, which overcomes enemies, may that Indra protect us (this is the word to be supplied). The example: as a father protects a dear son he longs for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- महः (*mahaḥ*)—of great
+- शवसः (*śavasaḥ*)—strength
+- पतिः (*patiḥ*)—being lord
+- असामान्या (*asāmānyā*)—and possessed of unequalled qualities
+- महः (*mahaḥ*)—to great
+- नृम्मस्य (*nṛmmasya*)—wealth
+- तूतुजिः (*tūtujiḥ*)—the impeller (so that it reaches the sacrificers)
+- धृष्टोः (*dhṛṣṭoḥ*)—overcoming enemies
+- वज्रस्य (*vajrasya*)—of the thunderbolt
+- भर्ता (*bhartā*)—he who is the lord, that Indra
+- पिता (*pitā*)—a father
+- प्रियं (*priyaṃ*)—a dear
+- पुत्रं इव (*putraṃ iva*)—as he protects a son, so may he protect us
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who is lord of great strength, who provides abundant wealth to the sacrificer, and who is master of the enemy-overcoming thunderbolt: may he protect us as a father protects a dear son.
+
+##### English translation
+(May Indra protect us) who is the lord of great strength, of unequalled (power), the distributor of great wealth, the cherisher of the dreadful thunderbolt, as a father (cherishes) a dear son.
+
+### Printed p. 660
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒जा॒नो अश्वा॒ वात॑स्य॒ धुनी॑ दे॒वो दे॒वस्य॑ वज्रिवः ।  
+> स्यंता॑ प॒था वि॒रुक्म॑ता सृजा॒नः स्तो॒ष्यध्व॑नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युजानः । अश्वा । वातस्य । धुनी इति । देवः । देवस्य । वज्रिवः ।  
+> स्यंता । पथा । विरुक्मता । सृजानः । स्तोषि । अध्वनः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिवो वज्रवन्निंद्र ॥ एको मत्त्वर्थीयोनुवादकः ॥ देवो द्योतमानस्त्वं देवस्य द्योतमानस्य वातस्य वायोधुनी प्रेरका । वायोरपि शीघ्रगामिनावित्यर्थः । अश्वाश्वा त्वदीयौ हरिनामकौ युजानः स्वरथे संयोजयन् ।
+> कीदृशौ । विरुक्कृता विरोचनवता पथा मार्गेण स्यंता स्यंता गच्छंतौ । अध्वनो
+> युद्धे गमनमार्गान्सृजान उत्पादयन् स्तोषि । सततं स्तूयसे ॥
+
+##### Gist of the bhāṣya
+
+O वज्रिवः (*vajrivaḥ*), Indra, wielder of the thunderbolt (the one व (*va*) is a possessive-suffix repetition). You, resplendent (देवः (*devaḥ*)), yoke to your chariot your two horses called Hari, अश्वा (*aśvā*), which are impellers (धुनी (*dhunī*)) of the resplendent wind, वातस्य (*vātasya*); that is, swifter even than the wind. They travel (स्यंता (*syaṃtā*)) along a shining road (*virukmatā pathā*). Creating (सृजानः (*sṛjānaḥ*)) the paths of going in battle, you are constantly praised (स्तोषि (*stoṣi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिवः (*vajrivaḥ*)—O Indra, bearer of the thunderbolt
+- देवः (*devaḥ*)—you, the resplendent
+- देवस्य (*devasya*)—of the divine
+- वातस्य (*vātasya*)—than the wind
+- धुनी (*dhunī*)—swifter
+- विरुक्मता (*virukmatā*)—resplendent
+- पथा (*pathā*)—along the road
+- स्यंता (*syaṃtā*)—which travel
+- अश्वा (*aśvā*)—horses
+- युजानः (*yujānaḥ*)—yoking to the chariot
+- अध्वनः (*adhvanaḥ*)—the paths of battle
+- सृजानः (*sṛjānaḥ*)—creating
+- स्तोषि (*stoṣi*)—you are praised
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, you, the resplendent, yoke to your chariot horses that are swifter than the divine wind and travel along a resplendent road, and, creating the paths of battle, you are praised.
+
+##### English translation
+Thunderer, you who are divine, yoking your horses which are swifter than the divine wind, and gliding along the resplendent road, you, opening out the way (t° battle), are glorified.
+
+### Printed p. 661
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं त्या चि॒द्वात॒स्याश्वागा॑ ऋ॒ज्रा त्मना॒ वह॑ध्यै ।  
+> ययो॑र्दे॒वो न मर्त्यो॑ यं॒ता नकि॑र्वि॒दाय्यः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । त्या । चित् । वातस्य । अश्वा । आ । आगाः । ऋज्रा । त्मना । वहध्यै ।  
+> ययोः । देवः । न । मर्त्यः । यंता । नकिः । विदाय्यः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यच्छब्द संबंधादुत्तरोर्धर्चः पूर्वं व्याख्यायते । ययोस्तदीययोर्यंता नियंता निवारयिता देवो न देवानां मध्यॆ कश्चिदपि देवो नास्ति
+> मर्त्यो मनुष्याणां मध्यॆ कश्चिदपि नास्ति नकिर्न कश्चिदपि विदाय्यो वेत्ता । जवस्य
+> बलस्येति वा शेषः । हे इंद्र त्वं वातस्य वार्योर्बलेन जवेन च युक्तावृज्रर्जुगामिनौ त्या चित्तावप्यश्वा त्वदीयावश्वा त्मनात्मनैव । सारथिनिरपेक्षेणेत्यर्थः ।
+> वहध्यै वहनार्थं । अभिप्रेतदेशप्रापणायेत्यर्थः । आगाः । अभिमुख्येन गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+Because of the connection with the relative word य (*ya*), the second half of the verse is explained first. Of those horses of his, the restrainer (यंता (*yaṃtā*)) is not a deity among the gods, मर्त्यः (*martyaḥ*) is none among men, and no one (नकिः (*nakiḥ*)) is a knower (विदाय्यः (*vidāyyaḥ*)); "of their speed or strength" is to be supplied. O Indra, you come (आगाः (*āgāḥ*)) facing those two famed horses of yours, which are joined with the strength and speed of the wind and go straight (ऋज्रा (*ṛjrā*)), so that they may bear you (वहध्यै (*vahadhyai*)), that is, convey you to the intended place, त्मना (*tmanā*), of themselves, without need of a charioteer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ययोः (*yayoḥ*)—of which horses of yours
+- यंता (*yaṃtā*)—the restrainer
+- देवो न (*devo na*)—not among the gods
+- मर्त्यः (*martyaḥ*)—among men
+- नकिः (*nakiḥ*)—there is none; such horses
+- वातस्य (*vātasya*)—endowed with the speed of the wind
+- ऋज्रा (*ṛjrā*)—going straight
+- त्या चित् (*tyā cit*)—and famed
+- अश्वा (*aśvā*)—your horses
+- त्मना (*tmanā*)—without a charioteer
+- वहध्यै (*vahadhyai*)—to carry you
+- विदाय्यः (*vidāyyaḥ*)—wise
+- त्वं (*tvaṃ*)—you
+- आगाः (*āgāḥ*)—come facing them
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the wise, come facing your horses, whose speed none among gods or men can restrain, which are joined with the strength of the wind, go straight and are famed, so that they may carry you of themselves, without a charioteer.
+
+##### English translation
+You have come to these two horses (which have the speed) of the wind, straight-going, for them to draw you of themselves, whom no deity, no mortal is able to restrain ; whose fleetness no one comprehends.
+
 ---
 
-**Progress note:** Done through printed p. 655. pp. 650-655 (batch API)
+**Progress note:** Done through printed p. 661. pp. 656-661 (batch API)
