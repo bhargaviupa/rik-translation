@@ -13200,6 +13200,142 @@ Elsewhere in the Ṛk-Saṃhitā it is stated definitely that Indra is one of th
 Such a mighty Indra conquered heaven by the power of his austerity. (10-167-1)
 In the Śatapatha and other Brāhmaṇas the story of Indra's origin is told in various ways. For example, the account in the Śatapatha Brāhmaṇa is as follows.
 
+### Printed p. 374
+
+ता वा एताः प्रजापतेरधि देवताः असृज्यंत अग्निरिंद्रः सोमः परमेष्ठी प्राजापत्यः । ताः सहस्रायुषो जज्जिरे । ता यथा नद्यै पारं परापश्येदेवं स्वस्यायुषः पारं पराचख्युः ॥ (*tā vā etāḥ prajāpateradhi devatāḥ asṛjyaṃta agniriṃdraḥ somaḥ parameṣṭhī prājāpatyaḥ | tāḥ sahasrāyuṣo jajjire | tā yathā nadyai pāraṃ parāpaśyedevaṃ svasyāyuṣaḥ pāraṃ parācakhyuḥ ‖*) (Śa. Brā. 11.1.6.14)
+
+Agni, Indra, Soma and Pārameṣṭhi Prājāpatya are all deities created by Prajāpati. They all came into being with a thousand years of life. Just as a man can see the far bank of a river, so all of them were able to see beyond the limit of their own lifespan. The Taittirīya Brāhmaṇa tells of Indra's origin as follows:
+
+प्रजापतिर्देवासुरानसृजत । स इंद्रमपि ना सृजत । तं देवा अब्रुवन् । इंद्रं नो जनयेति । सोऽब्रवीत् । यथाहं युष्माग्स्तपसासृक्षि । एवमिंद्रं जनयध्वमिति । ते तपोऽतप्यंत । त आत्मन्निंद्रमपश्यन् । तमब्रुवन् । जायस्वेति । सोऽब्रवीत् । किंभागधेयमभि जनिष्य इति । ऋतून्त्संवत्सरं । प्रजाः पशून् । इमान्लोकानित्यब्रुवन् । तं वै माहुत्याप्रजनयतेत्यब्रवीत् । तं चतुर्होत्रा प्राजनयन् । (*prajāpatirdevāsurānasṛjata | sa iṃdramapi nā sṛjata | taṃ devā abruvan | iṃdraṃ no janayeti | so 'bravīt | yathāhaṃ yuṣmāgstapasāsṛkṣi | evamiṃdraṃ janayadhvamiti | te tapo 'tapyaṃta | ta ātmanniṃdramapaśyan | tamabruvan | jāyasveti | so 'bravīt | kiṃbhāgadheyamabhi janiṣya iti | ṛtūntsaṃvatsaraṃ | prajāḥ paśūn | imānlokānityabruvan | taṃ vai māhutyāprajanayatetyabravīt | taṃ caturhotrā prājanayan |*) (Tai. Brā. 2-2-3-3, 4).
+
+Prajāpati created the gods and the Asuras. Only Indra he did not create. Then the gods addressed Prajāpati and prayed, "Create Indra for us." Then he said to the gods, "Just as I, by the power of my austerity, caused all of you to come into being, so you also, as the fruit of the toil of austerity, create Indra." Then all those gods practised austerity. Then they found Indra within themselves. Afterwards they told him to receive a share of the oblation. Then Indra said, "For what purpose must I manifest myself outside?" They said, "You must be born for the nourishment of the seasons, and for the protection of the year, of all beings and of all worlds." But in another place in this same Brāhmaṇa the account of Indra's origin is somewhat different. It runs as follows:
+
+प्रजापतिरिंद्रमसृजतानुजावरं देवानां । तं प्राहिणोत् । परेहि । एतेषां देवानामधिपतिरेधीति । तं देवा अब्रुवन् । कस्य मसि । वयं वै त्वच्छेयाग्‌ंसस्म इति । सोऽब्रवीत् । कस्यमसि वयं वै त्वच्छे याग्ंसस्स इति मा देवा अवोचन्निति । अथवा इदं तर्हि प्रजापतौ दर आसीत् । यदस्मिन्नादित्ये । तदेनमब्रवीत् । एतन्मे प्रयच्छ । अथा- हमेतेषां देवानामधिपतिर्भविष्यामीति.... ... ततो वा इंद्रो देवानामधिपतिरभवत् ॥ (*prajāpatiriṃdramasṛjatānujāvaraṃ devānāṃ | taṃ prāhiṇot | parehi | eteṣāṃ devānāmadhipatiredhīti | taṃ devā abruvan | kasya masi | vayaṃ vai tvaccheyāgṃsasma iti | so 'bravīt | kasyamasi vayaṃ vai tvacche yāgṃsassa iti mā devā avocanniti | athavā idaṃ tarhi prajāpatau dara āsīt | yadasminnāditye | tadenamabravīt | etanme prayaccha | athā- hameteṣāṃ devānāmadhipatirbhaviṣyāmīti.... ... tato vā iṃdro devānāmadhipatirabhavat ‖*) (Tai. Brā. 2-2-10 1, 2)
+
+### Printed p. 375
+
+After creating all the gods, Prajāpati created Indra last and made him lord over the remaining gods. Then the gods addressed Indra: "Who are you? We are all superior to you; how can you be lord over all of us?" Then Indra explained the situation and begged Prajāpati to provide him with Prajāpati's power, which confers the fitness to be lord over all the gods. Afterwards he obtained their lordship. So it is said. In the Taittirīya Saṃhitā:
+
+इंद्रो वै देवानामानुजावर आसीत्स प्रजापतिमुपाधावत्तस्मा एतग्ं षोडशिनं प्रायच्छत्तमगृह्णीत ततो वै सोग्रं देवतानां परैत् (*iṃdro vai devānāmānujāvara āsītsa prajāpatimupādhāvattasmā etagṃ ṣoḍaśinaṃ prāyacchattamagṛhṇīta tato vai sograṃ devatānāṃ parait*) (Tai. Saṃ. 6-6-11-2)
+
+Indra was the youngest of all the gods. Then, with the intention of going to Prajāpati, obtaining his help and attaining lordship over the gods, he offered the Ṣoḍaśin. Then Prajāpati granted his favour. As a result Indra obtained excellent fitness and became lord over the gods. So it is said. Moreover, in another part of the same Taittirīya Saṃhitā the same matter is stated somewhat differently:
+
+तेनेंद्रं प्रजापतिरयाजयत्ततो वा इंद्र इंद्रोऽभवत् । (*teneṃdraṃ prajāpatirayājayattato vā iṃdra iṃdro 'bhavat |*) (Tai. Saṃ. 7-2-10-2)
+
+Prajāpati had Indra perform a sacrifice by offering rice and the like according to the season. As a result Indra attained Indra-hood. It is said. In the same way, through the power of the sattra called Pañcadaśarātra, he obtained both the power to destroy the Asuras and the power to become lord over the gods. This is stated.
+(Tai. Saṃ. 7-3-6-1)
+
+A passage of the Ṛksaṃhitā states that Indra and Agni are twins, with the same father but different mothers.
+(6-59-2)
+
+In 10-55-1 the sons of Indra's brother are mentioned; it may be said that Heaven and Earth are these sons of the brother. In 6-55-5 Pūṣan is mentioned as Indra's brother.
+
+### Printed p. 376
+
+It is described that Indra displayed a warrior's prowess even in infancy. The description is as follows. "Indra, the slayer of Vṛtra, as soon as he was born, took up his weapon and asked, 'Who are those warriors renowned as most valiant?'"
+(8-45-4; 8-66-1)
+
+"O Indra, you are by nature free of enemies, and aged (great)": thus a devotee praises Indra and expresses his devotion.
+(1-102-8; 1.176-1; 10-133-2)
+
+"O Indra, being greatly delighted, join your wife, and through union with her attain your satisfaction": the passage in which Indra's wife is mentioned describes an occasion on which Indra enjoys amorous beauty. समु पत्न्यामदः (*samu patnyāmadaḥ*).
+(1-8-5, 6)
+
+During this kind of domestic happiness a perplexing situation sometimes arises. On the one hand the soma-oblation which the sacrificers offer at the sacrifice is very attractive. The seer describes Indra's predicament: Indra often doubts which of the two he should accept and which he should give up. It runs thus:
+
+"O Indra, the housewife is the house; she is the dwelling of the man. Therefore let your horses carry you to the place where your housewife is. But as soon as we have offered the soma-oblation, let Agni come to you to invite you." (3-254) **NOTE**
+
+"O Indra, my brother, set out. Please come here. Both places are attractive to you. When your chariot stands, your horses are unyoked."
+
+"O Indra, you have drunk the soma. Now set out for your home. In your home there is an attractive wife, and you have excellent domestic happiness. Wherever your chariot halts, there you should unyoke your horses." (3.25-6)
+
+The name Indrāṇī is mentioned in many places, but it is not stated directly that she is Indra's wife. Yet from that naming one may confidently say that she is Indra's wife.
+(1 22-12; 2-32.8; 5-46.8; 10-86 11, 12)
+
+### Printed p. 377
+
+In these places she is praised together with Agnāyī, Agni's wife, and with Varuṇānī, Varuṇa's wife, and she is also invited to the sacrifice along with them. But in the mantras 10-86-11 and 12 there is a somewhat special account of her.
+
+"Of all these goddesses I have heard that Indrāṇī is the most fortunate. For her husband has no old age, and so no death as its consequence." So it is said.
+
+A sentence of the Śatapatha Brāhmaṇa states precisely that Indrāṇī is Indra's wife and that she has an excellent head-ornament that takes on every form.
+(Pa. Bri. 14-2-1-8) **NOTE**
+
+The account in the Taittirīya Brāhmaṇa that describes Indrāṇī's good fortune is as follows:
+
+इंद्राणी देवी सुभगा सुपत्नी । उदग्‌ंशेन पतिविद्यॆ जिगाय । त्रिग्ंशदस्या जघनं योजनानि । उपस्थ इंद्रग् स्थविरं बिभर्ति ॥ (*iṃdrāṇī devī subhagā supatnī | udagṃśena patividyè jigāya | trigṃśadasyā jaghanaṃ yojanāni | upastha iṃdrag sthaviraṃ bibharti ‖*)
+(Tai. Brā. 2.4-2-7)
+
+This says what was stated above, that the fortunate Indrāṇī is a giver of happiness to her husband. The Kāṭhaka passage is of another kind:
+
+इंद्रो वै विलिष्टेंगां दानवीमकामयत । सोऽसुरेष्वचरत् स्त्रीव स्त्रीषु भवन् पुमान् पुंसु । स निर्यतिगृहीत इवामन्यत । स एतमैंद्रानैर्यतमपश्यत् ॥ (*iṃdro vai viliṣṭeṃgāṃ dānavīmakāmayata | so 'sureṣvacarat strīva strīṣu bhavan pumān puṃsu | sa niryatigṛhīta ivāmanyata | sa etamaiṃdrānairyatamapaśyat ‖*)
+(Kā. Saṃ 13-5) **NOTE**
+
+Indra was enamoured of a Dānava woman named Viliṣṭeṅgā. Then, joining the Asuras, he behaved among women like a woman and among men like a man. Then, feeling himself seized as if by Nirmuti (निर्मुतिगृहीत (*nirmutigṛhīta*)), that is, recognising his own bondage, he accepted an oblation in order to counteract it. **NOTE**  Besides this, in the Atharvaveda:
+
+येनानि चक्रे आसुरी इंद्रं देवेभ्यस्परि । तेनानि कुर्वे त्वामहं यथा तेऽसामि सुप्रिया ॥ (*yenāni cakre āsurī iṃdraṃ devebhyaspari | tenāni kurve tvāmahaṃ yathā te 'sāmi supriyā ‖*)
+(A. Ne 7.38.2) **NOTE**
+
+"O Indra, you must love me. To bring that about, I make you mine with the help of this herb." So saying, with its help that woman drew Indra, who was among the gods, into her own company. So it is said. In this way different Śruti passages give different accounts of Indra's wife.
+
+### Printed p. 378
+
+**Epithets showing Indra's physical and mental qualities**
+
+Epithets describing Indra's extraordinary qualities are very plentiful. First, the description of his youth and strength. This Indra is very young and yet ancient, exceedingly powerful and skilful in action.
+(1-130.7; 2-22.4; 6-29-3; 8-24.9, 12; 8-58-7; 8-81-3)
+
+There are also very many passages describing Indra's warrior qualities: that he has kṣatriya valour, is resplendent, ageless, conquers all, has boundless discernment, has unobstructed valour and vigour, and bears the thunderbolt.
+(1-4-8; 1-16-9; 1-30-6, 15; 1-61-1; 1-81-2, 7; 1-84-2; 1-100-12; 1-102-6; 1 165-6; 2.21-1, 2, 3; 3.30-3; 3.32.7; 3-45-3; 3-46.0; 6.18-4; 7-20.4; 7-22-5; 8-81.8; 8-84-7)
+
+In Indra's body there is valour, in his arms strength, in his hand the thunderbolt, in his head discernment.
+(2.86-2)
+
+Indra can assume many kinds of forms. All those forms are exceedingly beautiful and have the golden hue of the sun. (10.102-3)
+
+The seers who beheld the Ṛksaṃhitā described this special beauty of Indra with many kinds of comparisons. The words suśipra and śiprin are the chief among them. These words mean one with fine cheeks or nose. This is Indra's personal quality.
+(1-9-3; 1-29-2; 1-81-4; 1-101-10; 3-32-3; 3-36-10; 8-32.4 . 24. 8-33.7; 8-55.4; 10.105.5; 3-30-3; 8-17.4; 8-81-4)
+
+In 8-65-10 it is described that Indra, having gained strength through drinking soma, savours the sweetness of the soma by smacking his lips. Epithets such as hariśipra, harikeśa and hariśmaśru are also very frequent; they mean one with golden cheeks, golden hair, golden beard and moustache.
+(10-96.4, 9, 12; 10-96-5, 8; 10-23-4)
+
+When he is greatly delighted, his beard and moustache bristle and move.
+(2-11-17; 10-23-1)
+
+### Printed p. 379
+
+(In 6-46-3 Indra is also described as thousand-faced.)
+
+The whole form of this Indra is golden. In many places his form is described as harivarpas and as of golden form.
+(10-96-1; 8-55-3; 1-7-2)
+
+But in some other places he is also said to be of iron form, that is, one whose body is made of iron.
+(1-56.3; 10-96.4, 8)
+
+His arms are spread far and wide. (pṛthū karasnā bahulā gabhasti).
+(6-19-3; 8-32-10; 8-70-1)
+
+A mantra that is not in the Ṛksaṃhitā, in the Sāmasaṃhitā, praises Indra's long arms and attractive form and describes them thus:
+
+इंद्रस्य बाहू स्थविरौ युवानावनाधृष्ट्य सुप्रथितावसह्यौ । तौ युंजीत प्रथमौ योगे आगते याभ्यां जितमसुराणां सहो महत् ॥ (*iṃdrasya bāhū sthavirau yuvānāvanādhṛṣṭya suprathitāvasahyau | tau yuṃjīta prathamau yoge āgate yābhyāṃ jitamasurāṇāṃ saho mahat ‖*)
+(Sā. Ve. 2-1219) **NOTE**
+
+When the occasion arises for Indra to display his prowess, let him employ the arm which formerly destroyed the great power of the Asuras and won victory; which is powerful, youthful, of unobstructed strength, of charming form and invincible. So it is said.
+
+But Indra's forms are endless. In many places it is said that by mere resolve he can take on any forms he likes:
+(3-38-4; 3-48-4; 3-53.8)
+
+रूपरूपं प्रतिरूपो बभूव तदस्य रूपं प्रतिचक्षणाय । इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥ (*rūparūpaṃ pratirūpo babhūva tadasya rūpaṃ praticakṣaṇāya | iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*)
+(Ṛ. Saṃ. 6-47-18)
+
+**Indra's chariot and horses**
+
+Indra, seated in his golden chariot, with a golden whip (kaśā) in his hand, sets out on his journey. That chariot has a thousand supporting pillars.
+(6-29-2; 8-1-24; 8-58-16)
+
+This chariot of Indra is swifter than the mind.
+(10-112-2)
+
 ---
 
-**Progress note:** Done through printed p. 373. pp. 368-373 (batch API)
+**Progress note:** Done through printed p. 379. pp. 374-379 (batch API)
