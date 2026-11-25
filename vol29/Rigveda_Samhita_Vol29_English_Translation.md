@@ -26186,6 +26186,362 @@ Yours, Agni, is the Hotri, yours, the duly-performed function of the Potri, your
 > हविःकृति ।  
 > तस्य । होता । भवसि । यासि । दूत्यं । उप । ब्रूषे । यजसि । अध्वरियसि ॥११॥
 
+### Printed p. 961
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अमृताय मरणधर्मवर्जिताय तुभ्यं यो मर्त्यो मनुष्यः
+> समिधा समिधं ॥ द्वितीयायाः सुपां सुलुगित्याकारः ॥ दाशत् ददाति प्रयच्छति उत
+> वापि वा हविष्कृति । हविषां कृत् करणं यस्मिन् स हविष्कृत् । तस्मिन्यज्ञे हवींषि
+> ददातीति शेषः । तस्य मनुष्यस्य होता देवानामाह्वाता भवसि । किंच त्वं दूत्यं
+> देवान्प्रति दूतकर्म कर्तुं यासि । गच्छसि । किंच त्वं ब्रह्मा भूत्वास्मिस्कर्मणि
+> युष्मभ्यमिमानि हवींषि यजमानेन प्रहितानीत्युप ब्रूषे । उपक्रम्य ब्रवीषि ।
+> किंच त्वं यजसि । यजमानो भूत्वा देवेभ्यो हवींषि ददासि । किंच त्वं
+> तथा पूर्वोक्तप्रकारेणाध्वरीयसि । अध्वर्युरिवाचरसि । अथवान्यं यज्ञं
+> कर्तुमिच्चसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the mortal who gives you, the deathless one, fuel-sticks, or else presents oblations at the sacrifice (the words "he gives oblations in that sacrifice" are to be supplied), for that man you become the Hotṛ, the summoner of the gods. Further, you go to the gods to do the work of messenger. Further, becoming the Brahmā priest in this rite, you say, "These oblations, sent by the sacrificer, are for you", that is, you approach and speak. **NOTE** Further, you sacrifice: becoming the sacrificer you give oblations to the gods. Further, in the manner stated above you act as the Adhvaryu priest, or else you wish to perform another sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अमृताय (*amṛtāya*)—to you who are free from the nature of death
+- तुभ्यं (*tubhyaṃ*)—directed to you
+- यः मर्त्यः (*yaḥ martyaḥ*)—the man who
+- समिधा (*samidhā*)—fuel-sticks
+- दाशत् (*dāśat*)—offers
+- उत वा (*uta vā*)—and
+- हविष्कृति (*haviṣkṛti*)—offers oblations in the sacrifice
+- तस्य (*tasya*)—for that sacrificer
+- होता (*hotā*)—in the form of the Hotṛ
+- भवसि (*bhavasi*)—you are
+- दूत्यं (*dūtyaṃ*)—for the work of summoning the gods
+- यासि (*yāsi*)—you go (and offer them the oblation)
+- उपब्रूषे (*upabrūṣe*)—you begin the sacrifice and praise
+- यजसि (*yajasi*)—you offer the oblation to the gods
+- अध्वरीयसि (*adhvarīyasi*)—you carry the sacrifice through to completion
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the man who offers fuel-sticks to you, the deathless one, and who offers oblations in the sacrifice, for that sacrificer you are the Hotṛ. You go as the messenger of the gods. You begin the sacrifice and praise. You offer the oblation to the gods. You also do the work of the Adhvaryu.
+
+##### English translation
+The mortal, Agni, who presents to you, the immortal, fuel at the offering of the oblation—you are his Hotri, you go on his errand (to the gods), you direct (the ceremonial), you offer the sacrifice, you act as the officiating priest.
+
+### Printed p. 962
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मा अ॑स्मै म॒तयो॒ वाचो॑ अ॒स्मदा ऋचो॒ गिरः॑ सुष्टु॒तयः॒  ॑
+> समग्मत ।  
+> व॒सू॒यवो॒ वस॑वे जा॒तवे॑दसे वृ॒द्धासु॑ चि॒द्वर्ध॑नो॒ यासु॑  ॒॑
+> चाकनत् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमाः । अस्मै । मतयः । वाचः । अस्मत् । आ । ऋचः । गिरः । सुस्तुतयः । सं ।  
+> अग्मत ।  
+> वसुयवः । वसवे । जातवेदसे । वृद्धासु । चित् । वर्धनः । यासु । चाकनत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातवेदसे जातप्रज्ञाय वसवे वासयित्रेऽस्मा अग्नये मतयः पूजयित्र्य
+> इमा वाचो वसूयवोऽस्मदर्थं धनकामाः सत्योऽस्मदस्मत्तो निर्गत्या समग्मत।
+> अभिमुख्येन संगच्छंते । तमिममग्निं प्रीणयंतित्यर्थः । काः पुनस्ताः । सुष्टुतयः
+> शोभनस्तुतिरूपा ऋच युगात्मिका गिरो वाचः । तथा यासु वृद्धासु चित् स्वत एव
+> वृद्धास्वपि वर्धनः पुनरपि वर्धयिता सन्नग्निश्चकनत् स्तोत्थान्कामयते । इमा
+> मतय इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+These praises, worshipful speeches, are directed to this Agni, who is Jātavedas (of born wisdom) and Vasu (the one who makes dwell). Wishing wealth for us, they go forth from us and come together toward him, that is, they please this Agni. And which are they? The fair praises, the verses in the form of Ṛks, the utterances. Moreover, in these (speeches), even though they have grown of themselves, Agni, who is the increaser, becomes again an increaser and desires the praises. **NOTE**  The construction is "these praises".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतयः (*matayaḥ*)—our hymns of the nature of meditation
+- इमा वाचः (*imā vācaḥ*)—these words of praise
+- वसूयवः (*vasūyavaḥ*)—seeking wealth for us
+- अस्मत् (*asmat*)—going forth from us
+- जातवेदसे (*jātavedase*)—to the one of born wisdom
+- वसवे (*vasave*)—and the giver of dwelling
+- अस्मै (*asmai*)—to this Agni
+- आ समग्यत (*ā samagyata*)—surround and approach
+- यासु वृद्धासु चित् (*yāsu vṛddhāsu cit*)—although by their very nature they have grown, which praises
+- वर्धनः (*vardhanaḥ*)—he who increases them still further, that Agni
+- सुष्टुतयः (*suṣṭutayaḥ*)—the well praising
+- यचः (*yacaḥ*)—and Ṛk-formed
+- गिरः (*giraḥ*)—words of praise
+- चाकनत् (*cākanat*)—desires
+
+### Printed p. 963
+
+##### भावार्थ (Bhāvārtha)
+
+Our hymns of the nature of meditation and these words of praise, seeking wealth for us, go forth from us and surround this Agni, who is of born wisdom and the giver of dwelling. Agni, who has grown by his very nature, increases these praises still more and desires them.
+
+##### English translation
+May these laudatory words, these eulogistic verses, these voices (proceeding) from us, reach him the giver of wealth, Jatavedas: these wealth-desiring (words) in which when they are perfected, the perfecter delights.
+
+#### Ṛk 13
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां प्र॒त्नाय॑ सुष्टु॒तिं नवी॑यसीं वो॒चेय॑मस्मा उश॒ते ॒॑ 
+> शृ॒णोतु॑ नः ।  
+> भू॒या अंत॑रा हृ॒द्य॑स्य नि॒स्पृशे॑ जा॒येव॒ पत्य॑ उश॒ती सु॒वासाः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । प्रत्नाय । सुस्तुतिं । नवीयसीं । वोचेयं । अस्मै । उशते ।  
+> कृणोतु । नः ।  
+> भूयाः । अंतरा । हृदि । अस्य । निस्पृशे । जायाइव । पत्ये । उशती । सुवासाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रत्नाय पुराणायोशते सोत्रं कामयमानायास्मा अग्नये नवीयसीं
+> नवतरामन्यैरकृतपूर्वां सुष्टुतिं शोभनस्तुतिं वोचेयं । अहं वक्ष्यामि ।
+> सोऽग्निरस्मदीयां स्तुतिं शृणोतु । किंचाहमस्याग्नेर्हृदि हृदये तत्राप्यंतरा
+> मध्यॆ निस्पृशे संस्पर्शनाय । गुणैरनुरंजनायेत्यर्थः । भूयाः । भूयासं ॥
+> व्यत्ययेन मध्यमः ॥ आग्नेर्हृदिस्पृगहं स्यामित्यर्थः । अथवा मम सुष्टुतेरनुप्रवेष्टा भवेति योज्यं । समानमन्यत् । तत्र दृष्टांतः । पत्ये पत्युर्हृदयस्य
+> मध्यॆ सुवासाः शोभनवस्त्रादिना मंडिता जायोशती कामयमाना यथेष्टतमा
+> भवति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+To this ancient Agni, who desires praise, I shall speak a newer praise, one not made before by others, a fair praise. May that Agni hear our praise. Further, may I be in the heart of this Agni, in the midst of it, for touching it, that is, for pleasing him by his qualities; the sense is "may I be a toucher of Agni's heart". Or else it is to be construed as "be the one who enters into my fair praise". The rest is the same. The illustration is this: as a wife, well adorned with fair garments and the like, loving, becomes most dear in the midst of her husband's heart, so it is meant.
+
+### Printed p. 964
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रश्नाय (*praśnāya*)—to the ancient
+- उशते (*uśate*)—who desires praise
+- अस्मै (*asmai*)—addressed to Agni
+- नवीयसीं (*navīyasīṃ*)—new
+- सुष्टुतिं (*suṣṭutiṃ*)—and well praising
+- इमां (*imāṃ*)—this
+- वोचेयं (*voceyaṃ*)—I recite
+- नः (*naḥ*)—this praise of ours
+- शृणोतु (*śṛṇotu*)—may Agni hear
+- पत्ये (*patye*)—in the heart of her husband
+- सुवासाः (*suvāsāḥ*)—adorned with excellent garments
+- उशती (*uśatī*)—and loving him
+- जाया इव (*jāyā iva*)—as a wife stands
+- अस्य (*asya*)—of this
+- हृदि अंतरा (*hṛdi aṃtarā*)—in the midst of the heart
+- निस्पृशे (*nispṛśe*)—so as to touch it
+- भूयाः (*bhūyāḥ*)—may I be
+
+##### भावार्थ (Bhāvārtha)
+
+Addressed to the ancient Agni, who desires praise, I recite a new and well praising hymn. May Agni hear it. As a wife, adorned with excellent garments and loving him, stands in the heart of her husband, so may I be in the heart of this Agni, to touch it.
+
+##### English translation
+I will address this new laudatory hymn to the ancient Agni, who is gratified (by praise). May he hear us. May I be in the centre of his heart, to touch it, like a loving well-attired wife (in the heart) of her husband.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॒न्नश्वा॑स ऋष॒भास॑ उ॒क्षणो॑ व॒शा मे॒षा अ॑वस्प॒ष्टास॒  ॑
+> आहुताः ।  
+> की॒ला॒ल॒पे सोम॑पृष्टाय वे॒धसे॑ हृ॒दा म॒तिं ज॑नये॒  
+> चारु॑म॒ग्नये॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यॆस्मिन् । अश्वासः । ऋषभासः । उक्षणः । वशाः । मेषाः । अवसृष्टासः । आहुताः ।  
+> कीलालपे । सोमपृष्ठाय । वेधसे । हृदा । मतिं । जनये । चारुं । अग्नये ॥
+
+### Printed p. 965
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन्नग्नावुक्षण उक्षाणः ॥ वा षपूर्वस्य निगम इति दीर्घविकल्पः ॥ सेचनसमर्था अश्वासोऽश्वा ऋषभासो वृषभाश्च वशाः स्वभाववंध्याश्च मेषाश्चावसृष्टासो देवतार्थमवसृष्टाः परित्यक्ताः संतोऽश्वमेध आहुता अभिमुख्येन
+> हुता भवंति कीलालपे सौत्रामण्यां सुरां पिबते । कीलालमित्युदकनामसु
+> पाठात् । उदकं पिबते सोमपृष्ठाय सोमयुक्तः पृष्ठ उपरिभागो यस्य
+> तस्मै सोमपृष्ठाय वेधसे विधात्रे तस्मा अग्नये हृदा हृदयेन चारुं
+> कल्याणीं मतिं स्तुतिं जनये । जनयामि । उत्पादयामि ॥
+
+##### Gist of the bhāṣya
+
+In that Agni, horses able to sprinkle, bulls, and cows barren by nature, and rams, set free for the deity, are offered, that is, are offered facing him, at the Aśvamedha. Kīlālapa: the drinker of surā in the Sautrāmaṇī rite; or, since the word is read among the names of water, the drinker of water. Somapṛṣṭha: he whose back, that is, upper part, is joined with Soma. Vedhas: the ordainer. For that Agni, with my heart, I produce, I bring forth, a graceful (auspicious) praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in which Agni
+- उक्षण: (*ukṣaṇa:*)—of male vigour
+- अश्वार्ष (*aśvārṣa*)—horses
+- ऋषभासः (*ṛṣabhāsaḥ*)—bulls
+- वशाः (*vaśāḥ*)—cows barren by nature
+- मेषाः (*meṣāḥ*)—rams
+- अवसृष्टासः (*avasṛṣṭāsaḥ*)—released for the sacrifice
+- आहुता (*āhutā*)—are offered in the form of oblations, such
+- कीलालपे (*kīlālape*)—who drinks water (who drinks surā)
+- सोमपृष्ठाय (*somapṛṣṭhāya*)—whose back is joined with Soma
+- वेधसे (*vedhase*)—and who is the maker of rites
+- अग्नये (*agnaye*)—to Agni
+- हृदा (*hṛdā*)—wholeheartedly
+- चारुं (*cāruṃ*)—attractive
+- मतिं (*matiṃ*)—praise
+- जनये (*janaye*)—I produce
+
+##### भावार्थ (Bhāvārtha)
+
+Horses of male vigour, bulls, and rams, and cows barren by nature, released for the sacrifice, are offered as oblations in Agni. To that Agni, the drinker of water, whose back is joined with Soma and who is the maker of rites, I produce wholeheartedly an attractive praise.
+
+##### English translation
+I offer graceful praise with all my heart to Agni, the drinker of water, whose back is sprinkled with Soma, the ordainer (of the rite), to whom vigorous horses and bulls and barren cows and sheep are consigned as burnt offerings.
+
+#### Ṛk 15
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अहा॑व्यग्ने ह॒विरा॒स्ये॑ ते स्रु॒ची॑व घृ॒तं च॒म्मि॑व॒ सोमः॑ ।  
+> वा॒ज॒सनिं॑ र॒यम॒स्मे सु॒वीरं॑ प्रश॒स्तं धे॑हि य॒शसं॑ बृ॒हंतं॑ ॥
+
+### Printed p. 966
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहावि । अग्ने । हविः । अस्ये । ते । स्तुचि इव । धृतं । चम्मि इव । सोमः ।  
+> वाजसनिं । रयिं । अस्मे इति । सुवीरं । प्रशस्तं । धेहि । यशसं । बृहंतं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते तवास्यॆ मुखे हविः पुरोडाशादि हविरस्माभिरहावि । सततं
+> प्रक्षिप्यते । तत्र दृष्टांतौ । धृतमाज्यं स्रुचीव यथा स्रुचि । चव्विव सोमः
+> यथा चमसे सोमः । तद्वदित्यर्थः । तथा त्वं वाजसनिमन्नस्य दातारं सुवीरं
+> सोभनपुत्रोपेतं प्रशस्तं सुवर्णादिकं यशसं यशस्विनं कीर्तिमंतं बृहंतमपरिमितं महांतं ना रयिं रमणीयं धनमस्मे अस्मभ्यं धेहि । देहि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, into your mouth the oblation, the cake and other oblations, has been poured by us; it is continually put in. Two illustrations: as ghee is put in the ladle, as Soma in the cup, so it is meant. And so you bestow upon us (the verb "give" is explained by Sāyaṇa as "give") wealth that is delightful, giving food, with fair sons, excellent (gold and the like), renowned, and great, immeasurable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- धृतं (*dhṛtaṃ*)—as ghee
+- स्रुचीव (*srucīva*)—is poured into the ladle that offers the oblation
+- सोमः (*somaḥ*)—and as Soma
+- चम्वीव (*camvīva*)—is poured into the spoon
+- ते (*te*)—your
+- आस्यॆ (*āsyè*)—in the mouth
+- हविः (*haviḥ*)—the oblation
+- अहावि (*ahāvi*)—is offered
+- वाजसनिं (*vājasaniṃ*)—giver of food
+- सुवीरं (*suvīraṃ*)—with an excellent son
+- प्रशस्तं (*praśastaṃ*)—excellent
+- यशसं (*yaśasaṃ*)—renowned
+- बृहंतं (*bṛhaṃtaṃ*)—and abundant
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—to us
+- धेहि (*dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as ghee is poured into the ladle that offers the oblation and Soma is poured into the vessel, so the oblation is offered in you. Give us wealth that gives food, with an excellent son, excellent, renowned and abundant.
+
+##### English translation
+The oblation has been poured, Agni, into your mouth, like butter into the ladle, like Soma-juice into the spoon. Bestow upon us riches-conferring food, (comprehending) male porgency, excellent, renowned and abundant.
+
+## Sūkta 92 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्येति पंचदशर्चं द्वितीयं सूक्तं मनोः पुत्रस्य शार्यातस्यार्षं
+> जागतं बहुदेवताकं । तथा चानुक्रांतं । यज्ञस्य शार्यातो मानवो वैश्वदेवं
+
+### Printed p. 967
+
+> तु जागतमिति ॥ चातुर्विंशिक आरंभणीयेऽहनि वैश्वदेवशस्त्र इदं सूक्तं वैश्वदेवनिविद्धानं । सूत्रितं च । ते हि द्यावापृथिवी यज्ञस्य वो रथ्यं । आ. ७-४ । इति ॥
+> पृष्ठाभिप्लवषडहयोर्द्वितीयेऽहन्यपीदं वैश्वदेवनिविद्धानं चातुर्विंशिकेन
+> तृतीयसवनमिति सूत्रकृतातिदिष्टत्वात् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning with यज्ञस्य (*yajñasya*) has fifteen Ṛks and is the second sūkta of this section. Its seer is Śāryāta, the son of Manu; its metre is Jagatī and its deities are many. So the Anukramaṇī says यज्ञस्य शार्यातो मानवो वैश्वदेवं तु जागतं (*yajñasya śāryāto mānavo vaiśvadevaṃ tu jāgataṃ*). On the Ārambhaṇīya day of the Cāturviṃśika, in the Vaiśvadeva-śastra, this sūkta serves as the Vaiśvadeva nivid-dhāna. It is also prescribed in the sūtra ते हि द्यावापृथिवी यज्ञस्य वो रथ्यं (*te hi dyāvāpṛthivī yajñasya vo rathyaṃ*), Ā. 7-4. On the second day of the Pṛṣṭhya and Abhiplava ṣaḍahas also this serves as the Vaiśvadeva nivid-dhāna, since the author of the sūtras extends it, saying that the third pressing is as with the Cāturviṃśika.
+
+##### Anuvāda
+
+This sūkta, beginning with यज्ञस्य (*yajñasya*), is the second sūkta in the eighth anuvāka. It has fifteen Ṛks. Its seer is Śāryāta, the son of Manu; it has many deities; its metre is Jagatī. In the Anukramaṇī it is said यज्ञस्य शार्यातो मानवो वैश्वदेवं तु जागतं (*yajñasya śāryāto mānavo vaiśvadevaṃ tu jāgataṃ*). On the first day of the sacrifice called Cāturviṃśika, in the mantras of the Vaiśvadeva-śastra, this sūkta is to be recited as the Vaiśvadeva-nividdhāna sūkta; this is explained by the sūtra ते हि द्यावापृथिवी यज्ञस्य वो रथ्यं (*te hi dyāvāpṛthivī yajñasya vo rathyaṃ*) (Ā. 7-4) of the Āśvalāyana-śrauta-sūtra. And on the second day of the sacrifices called Pṛṣṭha and Abhiplava-ṣaḍaha this sūkta is to be recited as the nivid-dhāna sūkta, as explained by the sūtra of the Āśvalāyana-śrauta-sūtra on the third pressing as with the Cāturviṃśika (Ā. 7-6).
+
+##### Particulars
+
+- Sūkta 92
+- Maṇḍala 10; Anuvāka 8; Sūkta 92
+- Aṣṭaka 8; Adhyāya 4; Varga 23, 24, 25
+- Number of Ṛks in the sūkta: 15
+- Ṛṣi: शार्यातो मानवः (*śāryāto mānavaḥ*)
+- Devatā: विश्वे देवाः (*viśve devāḥ*)
+- Chandas: जगती (*jagatī*)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञस्य॑ वो र॒थ्यं॑ वि॒श्वतिं॑ वि॒शां होता॑रम॒क्तोरति॑थिं  ॒॑
+> विभावसुं ।  
+> शोच॒ञ्चाष्वा॑सु॒ हरि॑णीषु॒ जर्भु॑र॒द्वषा॑ के॒तुर्य॑ज॒तो  
+> द्याम॑शायत ॥ १ ॥
+
+### Printed p. 968
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञस्य । वः । रथ्यं । विश्वतिं । विशां । होतारं । अक्टोः । अतिथिं । विभावसुं ।  
+> शोचन् । शुष्कासु । हरिणेषु । जर्भुरत् । वैषा । केतुः । यजतः । द्यां ।  
+> अशायत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः वो यूयं यज्ञस्य रथ्यं नेतारं विश्वतिं मनुष्याणां पालकं
+> स्वामिनं वा विशां देवानां होतारमाह्वातारमक्तो रात्रेरतिथिमतिथिभूतं
+> विभावसुं विविधदीप्तधनं तमग्निं परिचरतेति शेषः । शुष्कासु शुष्कभूतास्वोषधीषु
+> शोचज्वलन् हरिणेषु हरितवर्णास्वाद्रास्वेषधीषु जर्भुरदभक्षयन् कुटिलं
+> गच्छन्वा वृषा कामानां वर्षिता केतुः प्रज्ञापको यजतो यष्टव्योऽग्निर्द्यां
+> दिवमशायत । प्रतिशेते ॥
+
+##### Gist of the bhāṣya
+
+O gods, you serve (the verb "serve" is to be supplied) that Agni who is the leader of the sacrifice, the lord or protector of men, the summoner of the gods, the guest of the night, of variously shining wealth. Blazing among the dry plants, devouring or moving crookedly among the green, moist plants, the showerer of desires, the banner that makes known, Agni, to be worshipped, lies in heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) वर् (*var*)—you
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- रथ्यं (*rathyaṃ*)—the leader
+- विश्वतिं (*viśvatiṃ*)—the protector of men
+- विशां (*viśāṃ*)—of the gods
+- होतारं (*hotāraṃ*)—the one who calls them to the sacrifice
+- अक्तोः (*aktoḥ*)—of the night time
+- अतिथं (*atithaṃ*)—the guest
+- विभावसुं (*vibhāvasuṃ*)—the one with shining wealth, Agni: worship him
+- शुष्कासु (*śuṣkāsu*)—among dry plants and creepers
+- शोचन् (*śocan*)—shining
+- हरिणेषु (*hariṇeṣu*)—among green crops
+- जर्भुरत् (*jarbhurat*)—moving about, slipping through
+- वृषा (*vṛṣā*)—the giver of desired things
+- केतुः (*ketuḥ*)—the one who makes known
+- यजतः (*yajataḥ*)—the worshipful Agni
+- द्यां (*dyāṃ*)—heaven
+- आशायत (*āśāyata*)—resorts to and pervades
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, worship Agni, the leader of the sacrifice, the protector of men, the one who calls the gods to the sacrifice, the guest of the night, the one with shining wealth. Shining among the dry plants and creepers, moving about among the green crops, the giver of desired things, the one who makes known, the worshipful Agni resorts to heaven and pervades it.
+
+##### English translation
+You (gods, adore) the charioteer of the sacrifice, the lord of men, the invoker of the gods, the guest of night, the resplendent (Agni). Blazing amid the dry (bushes) preying upon the green, the showerer of desires, thc banner (of light), the adorable, he reposes in heaven.
+
 ---
 
-**Progress note:** Done through printed p. 960. Sūkta 91 Ṛk 6 (end) to Ṛk 11 (begun)
+**Progress note:** Done through printed p. 968. Ṛk 11 end, Ṛks 12-15 of Sūkta 91, Sūkta 92 intro and Ṛk 1
