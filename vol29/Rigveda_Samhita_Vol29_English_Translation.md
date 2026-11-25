@@ -146,6 +146,91 @@ Vidura said:
 
 "O great seer, you have described the great deeds of Hari, who is of the form of Brahman. In the present context, how has Hari, the original cause of the creation of the world, divided the principle that is of the form of time, in order to fix the measure of creation, continuance and the like? What is the nature of time? Explain it and tell us," so Vidura asks in prayer. In answer to it, Maitreya sets out the principle that is of the form of time in this way—
 
+### Printed p. 7
+
+Maitreya said:
+
+गुणव्यतिकराकारो निर्विशेषोऽप्रतिष्ठितः । पुरुषस्तदुपादानमात्मानं लीलयासृजत् ॥ (*guṇavyatikarākāro nirviśeṣo 'pratiṣṭhitaḥ | puruṣastadupādānamātmānaṃ līlayāsṛjat ‖*)
+(Śrī. Bhā. 3-10-11)
+
+The great Prakṛti, which has an eternal state, undergoing modifications and changing, is what is called time. This time has no form, and no birth or death. But only in ordinary usage does this time have divisions. Making this time the instrumental cause, the Lord created the whole world as His sport.
+
+विश्वं वै ब्रह्मतन्मात्रं संस्थितं विष्णु मायया । ईश्वरेण परिच्छिन्नं कालेनाव्यक्तमूरिना ॥ यथेदानीं तथाग्रे च पश्चादप्येतदीदृशं । सर्गो नवविधस्तस्य प्राकृतो वैकृतस्तु यः ॥ (*viśvaṃ vai brahmatanmātraṃ saṃsthitaṃ viṣṇu māyayā | īśvareṇa paricchinnaṃ kālenāvyaktamūrinā ‖ yathedānīṃ tathāgre ca paścādapyetadīdṛśaṃ | sargo navavidhastasya prākṛto vaikṛtastu yaḥ ‖*)
+(Śrī. Bhā. 3.10-12, 13)
+
+The whole world that undergoes creation is full of Brahman. For this world created by the māyā of Brahman, time, which is of unmanifest nature and is the controller of the whole world, is the cause of all. The division of time is only for the transactions of this world. But eternal time has no divisions. By the power of this time that controls the world there is the ninefold creation and also the tenth creation, called prākṛta-vaikṛta.
+
+कालद्रव्यगुणैरस्य त्रिविधः प्रतिसंक्रमः । आद्यस्तु महतस्सर्गो गुणवैषम्यमात्मनः ॥ द्वितीयस्त्वहनो यत्र द्रव्यज्ञानक्रियोदयः । भूतसर्गस्तृतीयस्तु तन्मात्रो द्रव्यशक्तिमान् ॥ चतुर्थ ऐन्द्रियः सर्गो यस्तु ज्ञानक्रियात्मकः । वैकारिको देवसर्गः पंचमो यन्मयं मनः ॥ षष्ठस्तु तमसः सर्गो यस्त्वबुद्धिकृतः प्रभो । षडिमे प्राकृताः सर्गा वैकृतानपि मे शृणु ॥ (*kāladravyaguṇairasya trividhaḥ pratisaṃkramaḥ | ādyastu mahatassargo guṇavaiṣamyamātmanaḥ ‖ dvitīyastvahano yatra dravyajñānakriyodayaḥ | bhūtasargastṛtīyastu tanmātro dravyaśaktimān ‖ caturtha aindriyaḥ sargo yastu jñānakriyātmakaḥ | vaikāriko devasargaḥ paṃcamo yanmayaṃ manaḥ ‖ ṣaṣṭhastu tamasaḥ sargo yastvabuddhikṛtaḥ prabho | ṣaḍime prākṛtāḥ sargā vaikṛtānapi me śṛṇu ‖*)
+(Śrī. Bhā. 3-10-14-17)
+
+According to the rule of eternal time there are three kinds of dissolution: the daily dissolution, of the nature of deep sleep, that occurs in the time fixed for creation; the occasional dissolution caused by causes such as the fire from the mouth of Saṅkarṣaṇa; and the dissolution of Prakṛti, arising from the state of equilibrium of the guṇas, sattva and the others. Thus there are three
+
+### Printed p. 8
+
+kinds. By the resolve of the Supreme Self, among the creations, the Mahat-principle, which is the disturbance of the equilibrium of the guṇas, is the first creation. The ahaṅkāra, the cause of the creation of the elements, the senses and the deities, is the second creation. The subtle elements, which are the cause of the subtle elements (tanmātras) such as sound and of the gross elements such as earth, are the third creation. The creation of the senses, of the form of knowledge and action, is the fourth. The creation of the deities that preside over the senses and the like, and of the mind, is the fifth. The creation of ignorance is the sixth. These are the six creations born of Prakṛti. Now I shall tell of the creations born of Vikṛti.
+
+रजोभाजो भगवतो लीलेयं हरिमेधसः । सप्तमो मुख्यसर्गस्तु षड्विधस्तस्थुषां च यः ॥ (*rajobhājo bhagavato līleyaṃ harimedhasaḥ | saptamo mukhyasargastu ṣaḍvidhastasthuṣāṃ ca yaḥ ‖*)
+(Śrī. Bhā. 3-10-88) **NOTE**
+
+The creation of the immovables is the seventh. It is the controller of time. It is mere sport of Brahman. It is of six kinds: the herbs and the like that are without consciousness. The eighth is the animals. In this creation there are twenty-one kinds of creatures. They have no knowledge of time. The human race is the ninth. The three creations, of man, of animals and of immovables, are the vaikṛta ones. Only the creation of Sanatkumāra and the others is of both natures, prākṛta and vaikṛta.
+(Śrī. Bhā. 3-10-19-24)
+
+वैकृतास्त्रय एवैते देवसर्गश्च सत्तम । वैकारिकस्तु यः प्रोक्तः कौमारस्तूभयात्मकः ॥ देवसर्गश्चाष्टविधो विबुधाः पितरोऽसुराः । गंधर्वाप्सरसः सिद्धा यक्षरक्षांसि चारणाः ॥ (*vaikṛtāstraya evaite devasargaśca sattama | vaikārikastu yaḥ proktaḥ kaumārastūbhayātmakaḥ ‖ devasargaścāṣṭavidho vibudhāḥ pitaro 'surāḥ | gaṃdharvāpsarasaḥ siddhā yakṣarakṣāṃsi cāraṇāḥ ‖*)
+(Śrī. Bhā. 3-10-25-27)
+
+The eight kinds of groups, the gods, the asuras, the gandharvas and the rest, belong to the vaikṛta creation. In this way the cosmic egg, which is a transformation of the guṇas, by the greatness of the Lord is born all at once, without before and after, as bubbles arise at one time from the water flowing in a river.
+
+आतः परं प्रवक्ष्यामि वंशान् मन्वंतराणि च । एवं रजुप्लुत सृष्टा कल्पादिष्टात्मभूर्हरिः ॥ सृजत्यमोघसंकल्प आत्मैवात्मानमात्मना ॥ (*ātaḥ paraṃ pravakṣyāmi vaṃśān manvaṃtarāṇi ca | evaṃ rajupluta sṛṣṭā kalpādiṣṭātmabhūrhariḥ ‖ sṛjatyamoghasaṃkalpa ātmaivātmānamātmanā ‖*)
+(Śrī. Bhā. 3-10.28-29)
+
+Thus the order of creation is of two kinds. Now I shall tell the genealogies of the gods and the Manvantaras. The gods and asuras who in the first kalpa are famed by names such as Indra, those same ones in the different Manvantaras too are endowed with the same names and forms. Thus, through the marks of time and through the change of the guṇas, the tenfold creation came about. Now that same
+
+### Printed p. 9
+
+special nature of time has to be told. Therefore, saying "I shall tell the nature of the atom (paramāṇu), which measures and shows that time", Maitreya has told the nature of the division of time in this way. This division shows the division of time, place and objects.
+
+Maitreya said:
+
+चरमः सद्विशेषाणामनेकोऽसंयुतः सदा । परमाणुः स विज्ञेयो नृणामैक्यभ्रमो यतः ॥ सत एव पदार्थस्य स्वरूपावस्थितस्य । यत् । कैवल्यं परममहानविशेषो निरंतरः ॥ एवं कालोऽप्यनुमितः सौक्ष्मी स्थौल्ये च सत्तम । संस्थानभुक्ता भगवानव्यक्तो व्यक्तभुग्विभुः ॥ स कालः परमाणुर्वै यो भुक्ते परमाणुतां । ततोऽविशेषभुग्यस्तु स कालः परमो महान् ॥ (*caramaḥ sadviśeṣāṇāmaneko 'saṃyutaḥ sadā | paramāṇuḥ sa vijñeyo nṛṇāmaikyabhramo yataḥ ‖ sata eva padārthasya svarūpāvasthitasya | yat | kaivalyaṃ paramamahānaviśeṣo niraṃtaraḥ ‖ evaṃ kālo 'pyanumitaḥ saukṣmī sthaulye ca sattama | saṃsthānabhuktā bhagavānavyakto vyaktabhugvibhuḥ ‖ sa kālaḥ paramāṇurvai yo bhukte paramāṇutāṃ | tato 'viśeṣabhugyastu sa kālaḥ paramo mahān ‖*)
+(Śrī. Bhā. 3.11.1-4)
+
+If one goes on dividing the objects in the world, that part which cannot be divided any further, which is the extremely small part that neither changes nor forms groups, and whose combined sum people call objects, is called the atom (paramāṇu). Those very atoms, becoming a sum through change, come to be called the supremely great (parama-mahat) in the form of the common world free of distinctions. Just as the thing that indicates the measure of time receives names in this way, in the subtle state as the atom, in the middle state as objects, and in the gross state, in the form of the cosmic egg, as the supremely great, so also time, which is the cause of the change of objects and, though itself imperceptible, pervades perceptible things and is of the form of the power of the Lord, receives different names through the gross, subtle and middle states.
+
+अणुदौव परमाणू स्यात्प्रसरेणुस्त्रयः स्मृतः । जलार्करश्मवगतः स्वमेवानुपतन्नगात् ॥ (*aṇudauva paramāṇū syātprasareṇustrayaḥ smṛtaḥ | jalārkaraśmavagataḥ svamevānupatannagāt ‖*)
+(Śrī. Bhā. 3-11-4)
+
+In this world the time that has attained the state of the atom is known as the atom, and the time that pervades this whole world is known as the supremely great. The order of its divisions is as follows—
+
+त्रसरेणुत्रिकं भुंक्ते यः कालः स त्रुटिः स्मृतः । शतभागस्तु वेधः स्यात्तैस्त्रिभिस्तु लवः स्मृतः ॥ (*trasareṇutrikaṃ bhuṃkte yaḥ kālaḥ sa truṭiḥ smṛtaḥ | śatabhāgastu vedhaḥ syāttaistribhistu lavaḥ smṛtaḥ ‖*) **GLOSS**
+
+### Printed p. 10
+
+निमेषस्त्रिलवोः ज्ञेय आम्मातस्ते त्रयः क्षणः । क्षणान्संच विदुः काष्ठां लघुता दश पंच च ॥ लघूनि वै समाम्नाता दशपंच च नाडिका । ते द्वे मुहूर्तः प्रहरः षड्यामः सप्त वा नृणां !! द्वादशार्धपलोन्मानं चतुर्भिश्च तुरंगुलैः । स्वर्णमापैः कृतच्छिद्रंयावत्पास्थ जलप्लुतं ॥ यामाश्च त्वारश्च त्वारो मर्त्यानामहनी उभे । पक्षः पंचदशाहानि शुक्लः कृष्णश्च मानद । तयोस्समुच्चयो मासः पित्थणां तदहर्निशं । द्वौ तावृतुः षडयनं दक्षिणं चोत्तरं दिवि । अयने चाहनी प्रादुर्वत्सरो द्वादशस्स्कृतः । संवत्सरशतं नृणां परमायुर्निरूपितं ॥ (*nimeṣastrilavoḥ jñeya āmmātaste trayaḥ kṣaṇaḥ | kṣaṇānsaṃca viduḥ kāṣṭhāṃ laghutā daśa paṃca ca ‖ laghūni vai samāmnātā daśapaṃca ca nāḍikā | te dve muhūrtaḥ praharaḥ ṣaḍyāmaḥ sapta vā nṛṇāṃ !! dvādaśārdhapalonmānaṃ caturbhiśca turaṃgulaiḥ | svarṇamāpaiḥ kṛtacchidraṃyāvatpāstha jalaplutaṃ ‖ yāmāśca tvāraśca tvāro martyānāmahanī ubhe | pakṣaḥ paṃcadaśāhāni śuklaḥ kṛṣṇaśca mānada | tayossamuccayo māsaḥ pitthaṇāṃ tadaharniśaṃ | dvau tāvṛtuḥ ṣaḍayanaṃ dakṣiṇaṃ cottaraṃ divi | ayane cāhanī prādurvatsaro dvādaśasskṛtaḥ | saṃvatsaraśataṃ nṛṇāṃ paramāyurnirūpitaṃ ‖*) **GLOSS**
+
+ग्रहर्षताराचक्रस्थः परमाण्वादिना जगत् । संवत्सरावसानेन पर्येत्यनिमिषो विभुः ॥ संवत्सरः परिवत्सर इडावत्सर एव च । अनुवत्सरो वत्सरश्च विदुरैवं प्रभाष्यते ॥ यः सृज्यशक्तिमुरुधोच्छासयॆन् स्वशक्ता पुंसोभ्रमाय दिवि धावति भूतभेदः । कालाख्यया गुणमयं क्रतुभिर्तन्वं स्वस्मै बलं हरत वत्सरपंचकाय ॥ (*graharṣatārācakrasthaḥ paramāṇvādinā jagat | saṃvatsarāvasānena paryetyanimiṣo vibhuḥ ‖ saṃvatsaraḥ parivatsara iḍāvatsara eva ca | anuvatsaro vatsaraśca viduraivaṃ prabhāṣyate ‖ yaḥ sṛjyaśaktimurudhocchāsayèn svaśaktā puṃsobhramāya divi dhāvati bhūtabhedaḥ | kālākhyayā guṇamayaṃ kratubhirtanvaṃ svasmai balaṃ harata vatsarapaṃcakāya ‖*) **GLOSS**
+
+Vidura said:
+
+पितृदेवमनुष्याणामायुः परमिदं स्मृतं । परेषां गतिमाचक्ष्य ये स्युः कल्पाद्बहिर्विदः ॥ भगवान् वेद कालस्य गतिं भगवतो ननु । विश्वं विचक्षते धीरा योगराद्धेन चक्षुषा ॥ (*pitṛdevamanuṣyāṇāmāyuḥ paramidaṃ smṛtaṃ | pareṣāṃ gatimācakṣya ye syuḥ kalpādbahirvidaḥ ‖ bhagavān veda kālasya gatiṃ bhagavato nanu | viśvaṃ vicakṣate dhīrā yogarāddhena cakṣuṣā ‖*) **GLOSS**
+
+Maitreya said:
+
+कृतु त्रेता द्वापरं च कलिश्चेति चतुर्युगं । दिव्यैर्द्वादशभिर्वर्षैः सावधानं निरूपितं ॥ (*kṛtu tretā dvāparaṃ ca kaliśceti caturyugaṃ | divyairdvādaśabhirvarṣaiḥ sāvadhānaṃ nirūpitaṃ ‖*) **GLOSS**
+
+### Printed p. 11
+
+चत्वारि त्रीणि द्वे चैकं कृतादिषु यथाक्रमं । संख्या तानि सहस्राणि द्विगुणानि शतानि च ॥ संध्यांशयोरंतरेण यः कालः शतसंख्ययोः । तमेवाहुर्युगं तज्ञा यत्र धर्मो विधीयते ॥ धर्मश्च तुष्पान्मनुजान् कृते समनुवर्तते । स एवान्येष्वधर्मेण व्यति पादेन वर्धता ॥ त्रिलोक्या युगसाहस्रं बहिराब्रह्मणो दिनं । तावत्येव निशा तात यन्निमीलति विश्वसृक् ॥ निशावसान आरब्बो लोककल्पोऽनुवर्तते । यावद्दिनं भगवतो मनून्फुंजंश्च तुर्दश ॥ स्वं स्वं कालं मनुर्भुंक्ते साधिकां ह्येकसप्ततिं । मन्वंतरेषु मनवस्तद्वंश्या ऋषयः सुराः ॥ भवंति चैव युगपत्सुरेशाश्चानु ये च तान् । एष दैनंदिनः सर्गो ब्राह्मस्त्रैलोक्यवर्तनः ॥ (*catvāri trīṇi dve caikaṃ kṛtādiṣu yathākramaṃ | saṃkhyā tāni sahasrāṇi dviguṇāni śatāni ca ‖ saṃdhyāṃśayoraṃtareṇa yaḥ kālaḥ śatasaṃkhyayoḥ | tamevāhuryugaṃ tajñā yatra dharmo vidhīyate ‖ dharmaśca tuṣpānmanujān kṛte samanuvartate | sa evānyeṣvadharmeṇa vyati pādena vardhatā ‖ trilokyā yugasāhasraṃ bahirābrahmaṇo dinaṃ | tāvatyeva niśā tāta yannimīlati viśvasṛk ‖ niśāvasāna ārabbo lokakalpo 'nuvartate | yāvaddinaṃ bhagavato manūnphuṃjaṃśca turdaśa ‖ svaṃ svaṃ kālaṃ manurbhuṃkte sādhikāṃ hyekasaptatiṃ | manvaṃtareṣu manavastadvaṃśyā ṛṣayaḥ surāḥ ‖ bhavaṃti caiva yugapatsureśāścānu ye ca tān | eṣa dainaṃdinaḥ sargo brāhmastrailokyavartanaḥ ‖*) **GLOSS**
+
+तिर्यज् नृपितृदेवानां संभवो यत्र कर्मभिः । मन्वंतरेषु भगवान् बिभ्रत्सत्त्वं स्वमूर्तिभिः ॥ मन्यादिभिरिदं विश्वमवत्युदितपौरुषः तमोमात्रामुपादाय प्रतिसंरुद्धविक्रमः ॥ कालेनानुगताशेष आस्ते तूष्टीं दिनात्यये । तमेवान्वपिधीयंते लोका भूरादयस्त्रयः ॥ निशायामनुवृत्तायां निर्मुक्तशशिधास्करं । त्रिलोक्यां दह्यमानायां शक्त्या संकर्षणाग्निना ॥ यांत्यूष्मणा महर्लोकाज्जनं भृग्वादयोऽर्दिताः । तावत्रिभुवनं सद्यः कल्पांतैधितसिंधवः ॥ प्लावयंत्युत्कटाटोपचंडवातेरितोर्मयः । अंतः स तस्मिन् सलिल आस्तेऽनंतासनो हरिः ॥ (*tiryaj nṛpitṛdevānāṃ saṃbhavo yatra karmabhiḥ | manvaṃtareṣu bhagavān bibhratsattvaṃ svamūrtibhiḥ ‖ manyādibhiridaṃ viśvamavatyuditapauruṣaḥ tamomātrāmupādāya pratisaṃruddhavikramaḥ ‖ kālenānugatāśeṣa āste tūṣṭīṃ dinātyaye | tamevānvapidhīyaṃte lokā bhūrādayastrayaḥ ‖ niśāyāmanuvṛttāyāṃ nirmuktaśaśidhāskaraṃ | trilokyāṃ dahyamānāyāṃ śaktyā saṃkarṣaṇāgninā ‖ yāṃtyūṣmaṇā maharlokājjanaṃ bhṛgvādayo 'rditāḥ | tāvatribhuvanaṃ sadyaḥ kalpāṃtaidhitasiṃdhavaḥ ‖ plāvayaṃtyutkaṭāṭopacaṃḍavāteritormayaḥ | aṃtaḥ sa tasmin salila āste 'naṃtāsano hariḥ ‖*) **GLOSS**
+
+### Printed p. 12
+
+एवं विधैरहोरात्रॆ कालगत्योपलक्षितैः ॥ अपक्षितमिवास्यापि परमायुर्वयश्यतं । यदर्धमायुषस्तस्य पराधमभिधीयते ॥ पूर्वः पराधोपक्रांतो हप्यरोऽद्य प्रवर्तते । पूर्वस्यादौ पराधस्य ब्राह्मो नाममहानभूत् ॥ कल्पो यत्राभवद्ब्रह्मा शब्दब्रह्मेति यं विदुः । तस्यॆव चांते कल्पोऽभूद्यं पाद्ममभिचक्षते ॥ यद्धरेर्नाभिसरस आसील्लोकसरोरुहं । आयं तु कथितः कल्पो द्वितीयस्यापि भारत ॥ नाराह इति विख्यातो यत्रासीत्सूकरो हरिः । कालोऽयं द्विपराधाख्यो निमेष उपचर्यते ॥ अव्याकृतस्यानंतस्य अनादेर्जगदात्मनः । कालोऽयं परमाण्वादिर्द्विपराधांत ईश्वरः ॥ (*evaṃ vidhairahorātrè kālagatyopalakṣitaiḥ ‖ apakṣitamivāsyāpi paramāyurvayaśyataṃ | yadardhamāyuṣastasya parādhamabhidhīyate ‖ pūrvaḥ parādhopakrāṃto hapyaro 'dya pravartate | pūrvasyādau parādhasya brāhmo nāmamahānabhūt ‖ kalpo yatrābhavadbrahmā śabdabrahmeti yaṃ viduḥ | tasyèva cāṃte kalpo 'bhūdyaṃ pādmamabhicakṣate ‖ yaddharernābhisarasa āsīllokasaroruhaṃ | āyaṃ tu kathitaḥ kalpo dvitīyasyāpi bhārata ‖ nārāha iti vikhyāto yatrāsītsūkaro hariḥ | kālo 'yaṃ dviparādhākhyo nimeṣa upacaryate ‖ avyākṛtasyānaṃtasya anāderjagadātmanaḥ | kālo 'yaṃ paramāṇvādirdviparādhāṃta īśvaraḥ ‖*) **GLOSS**
+
+नैवेशितुं प्रभुर्भूम्न ईश्वरो धाम मानिनां । विकारैः सहितो युक्तैर्विशेषादिभिरावृतः ॥ आंडकोशो बहिरयं पंचाशत्तोटिविस्तृतः । दशोत्तराधिकैरत्र प्रविष्टः परमाणुवत् ॥ लक्ष्यतेऽंतर्गताश्चान्ये कोटिशो ह्यंडराशयः । तदाहुरक्षरं ब्रह्म सर्वकारणकारणं ॥ विष्णोर्धाम परं साक्षात्पुरुषस्य महात्मानः । इति ते वर्णितः क्षत्तः कालाख्यः परमात्मनः ॥ महिमा वेदगर्भोथ यथास्राक्षिन्निबोध मे । (*naiveśituṃ prabhurbhūmna īśvaro dhāma mānināṃ | vikāraiḥ sahito yuktairviśeṣādibhirāvṛtaḥ ‖ āṃḍakośo bahirayaṃ paṃcāśattoṭivistṛtaḥ | daśottarādhikairatra praviṣṭaḥ paramāṇuvat ‖ lakṣyate 'ṃtargatāścānye koṭiśo hyaṃḍarāśayaḥ | tadāhurakṣaraṃ brahma sarvakāraṇakāraṇaṃ ‖ viṣṇordhāma paraṃ sākṣātpuruṣasya mahātmānaḥ | iti te varṇitaḥ kṣattaḥ kālākhyaḥ paramātmanaḥ ‖ mahimā vedagarbhotha yathāsrākṣinnibodha me |*) **GLOSS**
+
+The measure of time is of two kinds, subtle and gross. For the extremely subtle, the usage is "atom" (paramāṇu); for the gross, "the supremely great" (parama-mahat).
+
 ---
 
-**Progress note:** Done through printed p. 6. Vol 29 opening: Sukta 10.72 introduction, Rk 1, special topics begin
+**Progress note:** Done through printed p. 12. Vol 29 pp. 7-12: Bhagavata passage on time and yuga (Special Topics of 10.72.1)
