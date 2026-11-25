@@ -19655,6 +19655,246 @@ This verse is the yājyā for the puroḍāśa of the eleven-fold animal offerin
 - प्रजानन् (*prajānan*)—knowing the acts and what follows them
 - परा (चरति) (*parā (carati)*)—he moves facing those who have fallen from their rites
 
+### Printed p. 557
+
+##### भावार्थ (Bhāvārtha)
+
+Pūṣan has been born on the most excellent of the paths. He has been born on the most excellent path of the heavenly world and on the excellent path of the earth. The same Pūṣan moves between the two, heaven and earth, which are dear to all and are a common abode for all. Knowing the differences among the dead between those who have performed rites and those who have fallen from rites, he moves facing away from those who have fallen from rites and facing toward those who have performed rites.
+
+##### English translation
+Pushan has been born on the best path of paths, on the best path of heaven, on the best path of earth, he goes forward and backward over both (worlds), the assemblies longed for by all, discriminating (the merits of the dead)
+
+##### विशेषविषयगळु (Special Topics)
+
+In the animal offering called Ekādaśinī, which belongs to Pūṣan, when the cake (puroḍāśa) is offered, this Ṛk, "प्रपथे पथां (*prapathe pathāṃ*)", is to be recited as the yājyā mantra. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra प्रपथे पथामजनिष्ट पूषा पथस्पथः परिपतिं वचस्या (*prapathe pathāmajaniṣṭa pūṣā pathaspathaḥ paripatiṃ vacasyā*) (Ā. 3-7).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वतीं देव॒यंतो॑ हवंते॒ सर॑स्वतीमध्व॒रे ता॒यमा॑ने ।  
+> सर॑स्वतीं सु॒कृतो॑ अह्वयंत॒ सर॑स्वती दा॒शुषे॒ वार्यं॑  
+> दात् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वतीं । देवयंतः । हवंते । सरस्वतीं । अध्वरे । तायमाने ।  
+> सरस्वतीं । सुकृतः । अह्वयंत । सरस्वती । दाशुषे । वार्यं । दात् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्यूहस्य दशराश्रस्य तृतीये छंदोमे प्रउगशस्त्रे सारस्वततृचस्य सरस्वतीं
+> देवयंत इत्येषाद्या । सूत्र्यते हि । प्र ब्रह्माणो अंगिरसो नक्षंत सरस्वतीं
+> देवयंतो हवंते । आ. ८-११ । इति ॥
+
+**NOTE**
+
+> देवयंतो देवान्यष्टुं स्तोतुं च कामयमाना यजमानाः सरस्वतीमेतन्नामिकां मध्यमस्थानदेवतां हवंते । कर्मावयवत्वायाह्वयंति । तथा
+> तायमाने स्तुतिभिर्हविर्भिश्च विस्तीर्णमाणेऽध्वरे यज्ञे सरस्वतीं यजंतीति
+> शेषः । सुकृतः पुण्यकर्माणः सरस्वतीमह्वयंत । फलप्रदानाय ह्ययंते । यत
+> एवमतः कारणात्सरस्वती देवी दाशुषे हवींषि दत्तवते यजमानाय वार्यं
+> वरणीयं कर्मफलं दात् । प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the first of the Sārasvata triad (tṛca) in the Praüga recitation of the third Chandoma day of the ten-night rite व्यूहस्य दशराश्रस्य (*vyūhasya daśarāśrasya*). It is prescribed in the sūtra: प्र ब्रह्माणो अंगिरसो नक्षंत सरस्वतीं देवयंतो हवंते (*pra brahmāṇo aṃgiraso nakṣaṃta sarasvatīṃ devayaṃto havaṃte*) (Ā. 8-11).
+
+### Printed p. 558
+*Gist (continued):* The sacrificers, wishing to worship and praise the gods (देवयंतः (*devayaṃtaḥ*)), call upon Sarasvatī, the deity of the middle region, as part of the rite. In the sacrifice (अध्वरे (*adhvare*)) that is spread out with praises and oblations they worship Sarasvatī (this is the supplied remainder). The doers of good deeds (सुकृतः (*sukṛtaḥ*)) call Sarasvatī in order that she may give the fruit. Since this is so, may the goddess Sarasvatī give the sacrificer who has offered oblations the desirable (वार्यं (*vāryaṃ*)) fruit of his rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवयंतः (*devayaṃtaḥ*)—those who desire the gods
+- सरस्वतीं (*sarasvatīṃ*)—the goddess Sarasvatī
+- हवंते (*havaṃte*)—they call, praying
+- तायमाने (*tāyamāne*)—which is being performed at length
+- अध्वरे (*adhvare*)—in the sacrifice
+- सरस्वतीं (*sarasvatīṃ*)—they worship Sarasvatī
+- सुकृतः (*sukṛtaḥ*)—those who do excellent rites
+- सरस्वतीं (*sarasvatīṃ*)—Sarasvatī
+- अह्वयंत (*ahvayaṃta*)—they call, for the attainment of the fruit
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- दाशुषे (*dāśuṣe*)—to the sacrificer who has offered the oblation
+- वार्यं (*vāryaṃ*)—the desired fruit
+- दात् (*dāt*)—may she give
+
+##### भावार्थ (Bhāvārtha)
+
+Those who desire the gods call upon the goddess Sarasvatī with prayer. In the sacrifice that is performed at length they worship Sarasvatī. Those who do excellent rites call Sarasvatī for the attainment of the fruit. May the goddess Sarasvatī give the desired fruit to the sacrificer who has offered the oblation.
+
+##### English translation
+The devout invoke Saraswati; they worship Saraswati at the strewn sacrifice ; the virtuous call upon Saraswati : may Saraswati bestow blessings upon the donor (of the oblation).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the third Chandoma day of the ten-night sacrifice called Vyūḍha, when the Praüga-śastra mantras are recited, the three Ṛks 7-9 addressed to the deity Sarasvatī, beginning "Sarasvatīṃ devayantaḥ", are to be recited. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra प्र ब्रह्माणो अंगिरसो नक्षंत सरस्वतीं देवयंतो हवंते (*pra brahmāṇo aṃgiraso nakṣaṃta sarasvatīṃ devayaṃto havaṃte*) (Ā. 8-11).
+
+### Printed p. 559
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वति॒ या स॒रथं॑ य॒याथ॑ स्व॒धाभि॑र्देवि पि॒तृभि॒र्मदं॑ती ।  
+> आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयस्वा नमी॒वा इष॒ आ धे॑ह्य॒स्मे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वति । या । सरथं । ययाथ । स्वधाभिः । देवि । पितृभिः । मदंती ।  
+> आसद्य । अस्मिन् । बर्हिषि । मादयस्व । अनमीवाः । इषः । आ । धेहि । अस्मे इति ॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सरस्वति हे देवि या त्वं सरथं पितृभिः सह समानेन रथेन युक्तं यथा
+> भवति तथा ययाथ ! अस्मदीयं यज्ञं प्राप्तासि । किं कुर्वती । पितृभिः सह स्वधाभिर्हविर्लक्षणैरन्नैर्मदंती माद्यंती यज्ञं गच्छसीति संबंधः । सा त्वं बर्हिष्यस्मिन्वेदिस्तरणे यज्ञ आसद्योपविश्य मादयस्व । हविर्भिस्तृप्ता भव । आत्मानं तर्पय
+> वा ! ततस्तृप्ता सती त्वमनमीवाः । अमीवा रोगः तद्वर्जितान्यारोग्यजननानीषोऽन्नान्यस्मे अस्मभ्यमा धेहि । पर्याप्तं प्रयच्छ !!
+
+##### Gist of the bhāṣya
+
+"O Sarasvatī, O goddess, you who go to our sacrifice in the same chariot (सरथं (*sarathaṃ*)) with the Pitṛs, rejoicing together with the Pitṛs in the foods (स्वधाभिः (*svadhābhiḥ*)) that are the oblations — such as you are, seat yourself on this sacred grass (बर्हिषि (*barhiṣi*)), the strewing of the altar at this sacrifice, and be delighted. Be satisfied with the oblations, or gratify yourself. Then, being satisfied, grant us foods (इषः (*iṣaḥ*)) that are free from अमीवा (*amīvā*), which means disease, and that produce health. Give them in sufficiency."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवि (*devi*)—divine one
+- सरस्वति (*sarasvati*)—O Sarasvatī
+- या (*yā*)—you who
+- पितृभिः (*pitṛbhiḥ*)—sitting with the Pitṛs
+- स्वधाभिः (*svadhābhiḥ*)—with the oblations that are of the nature of svadhā
+- मदंती (*madaṃtī*)—rejoicing
+- सरथं (*sarathaṃ*)—sitting with them in one chariot
+- ययाथॆ (*yayāthè*)—you go; such a one as you
+- अस्मिन् (*asmin*)—on this
+- बर्हिषि (*barhiṣi*)—seat of sacred grass
+- आसद्य (*āsadya*)—having sat
+- मादयस्व (*mādayasva*)—be satisfied
+- अनमीवाः (*anamīvāḥ*)—free from disease and the like
+- इषः (*iṣaḥ*)—foods
+- अस्मे (*asme*)—to us
+- आ धेहि (*ā dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Sarasvatī, you who sit with the Pitṛs, rejoice in the oblations that are of the nature of svadhā, and go sitting with them in one chariot — such as you are, sit on this seat of sacred grass and be satisfied. Give us foods that are free from disease and the like.
+
+### Printed p. 560
+
+##### English translation
+Divine Saraswati, who rides in the same chariot with the Pitris, and is delighted (along with them) by the (sacrificial) viands, seated on the sacred grass be gratified (by our offering), and grant us wholesome food.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर॑स्वतीं॒ यां पि॒तरो॒ हवं॑ते दक्षि॒णा य॒ज्ञम॑भि॒नक्ष॑माणाः।  
+> स॒ह॒स्रा॒र्घमि॒ळो अत्र॑ भा॒गं रा॒यस्पोषं॒ यज॑मानेषु  
+> धेहि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सरस्वतीं । यां । पितरः । हवंते । दक्षिणा । यज्ञं । अभिऽनक्षमाणाः ।  
+> सहस्र अर्थं । इळः । अत्र । भागं । रायः । पोषं । यजमानेषु । धेहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यां त्वां सरस्वतीं पितरो हवंते आह्वयंति । कीदृशाः । दक्षिणा ॥ दक्षिणादाजित्याच् प्रत्ययः । पा. ५-३-३६ ॥ दक्षिणत आगत्य यज्ञमभिनक्षमाणा अभिशो
+> गच्छंतो व्याप्नुवंतः । अत्रास्मिन्यज्ञे सहस्रार्घं बहुभिः पूजनीयमुपयोज्यमिलोऽन्नस्य भागं रायो धनस्य पोषं पुष्टिं च यजमानेषु त्वं धेहि । स्थापय ॥
+
+##### Gist of the bhāṣya
+
+The Pitṛs call you, Sarasvatī. What are they like? They come from the south (दक्षिणा (*dakṣiṇā*)) to the sacrifice and approach it (अभिनक्षमाणाः (*abhinakṣamāṇāḥ*)), that is, they pervade it. In this sacrifice, establish (धेहि (*dhehi*)) among the sacrificers a portion of food (इळः (*iḷaḥ*)) that is सहस्रार्घं (*sahasrārghaṃ*), worthy of honour by many and fit for use, and the prosperity (पोषं (*poṣaṃ*)) of wealth (रायः (*rāyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्षिणा (*dakṣiṇā*)—in the manner of circumambulation
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- अभिनक्षमाणाः (*abhinakṣamāṇāḥ*)—going round
+- पितरः (*pitaraḥ*)—the Pitṛs
+- यां सरस्वतीं (*yāṃ sarasvatīṃ*)—whichever Sarasvatī
+- हवंते (*havaṃte*)—they call; that Sarasvatī
+- अत्र (*atra*)—in this sacrifice
+- सहस्रार्घं (*sahasrārghaṃ*)—sufficient for the praise and satisfaction of many
+- इळः (*iḷaḥ*)—of food
+- भागं (*bhāgaṃ*)—the portion
+- रायः (*rāyaḥ*)—the wealth
+- पोषं (*poṣaṃ*)—the prosperity
+- यजमानेषु (*yajamāneṣu*)—among the sacrificers
+- धेहि (*dhehi*)—may she establish
+
+##### भावार्थ (Bhāvārtha)
+
+May that Sarasvatī whom the Pitṛs, going round the sacrifice with circumambulation, call, establish (give) in this sacrifice among the sacrificers a portion of food sufficient for the praise and satisfaction of many, and wealth and prosperity.
+
+### Printed p. 561
+
+##### English translation
+Saraswati, whom the Pitris invoke when circumambulating the sacrifice on the right, bestow upon the worshippers at this sacrifice a portion of food fit for thousands, and increase of riches.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॑ अ॒स्मान्मा॒तरः॑ शुंधयंतु घृ॒तेन॑ नो घृत॒प्पः॑ पुनंतु ।  
+> विश्वं॒ हि रि॒प्रं प्र॒वहं॑ति दे॒वीरुदिदा॑भ्यः॒ शुचि॒रा पू॒त ए॑मि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । अस्मान् । मातरः । शुंधयंतु । घृतेन । नः । घृतप्पः । पुनंतु ।  
+> विश्वं । हि । रिप्रं । प्रवहंति । देवीः । उत् । इत् । अभ्यः । शुचिः । आ । पूतः ।  
+> एमि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अवभृथस्थान आपो अस्मानित्येषा । सूत्रितं च । तत आचम्याप्लवंत अपो
+> अस्मान्मातरः शुंधयंतु । आ. ६-१३ । इति ॥ दशमेऽहनि वपामार्जनेऽप्येषा ।
+> सूत्रितं च । इदमापः प्र वहतेत्येतस्याः स्थान आपो अस्मान्मातरः शुंधयंतु ।
+> आ. ८-१२ । इति ॥
+> मातरो जगतो मातृस्थानीया आपोऽस्माङ्खंधयंतु । प्रोक्षणेन
+> शोधयंतु । तथा धृतप्पः । धृतमुदकं । तेनान्यान्सुनंतीति । तास्त्रथोक्ता आपः ।
+> यद्वा । धृतप्पः । धृतं गव्यं । तेन पुनंति । तथा ब्राह्मणं । धृतेन नो धृतप्पः
+> पुनंतीति तद्वै सुपूतं यद्धृतेन पूयत इति । ता आपोऽस्माङ्खंधयोदकेन
+> नोऽस्माङ्खंधयंतु । हि यस्माद्देवीर्देव्यो देवनशीला आपो विश्वं सर्वं रिप्रं
+> पापं प्रवहंति पुरुषसकाशात्पगमयंति । अपनयंतीति यावत् । अनंतरमाभ्योऽद्भ्य आ पूत अभिमुख्येन शुद्धः सन् स्तोताहमुदेमि । उद्दच्छामि । ऊर्ध्वं
+> स्वर्गं गच्छामोत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, "आपो अस्मान् (*āpo asmān*)", is used at the place of the avabhṛtha. It is prescribed by the sūtra: तत आचम्याप्लवंत अपो अस्मान्मातरः शुंधयंतु (*tata ācamyāplavaṃta apo asmānmātaraḥ śuṃdhayaṃtu*) (Ā. 6-13). It is also used on the tenth day at the wiping of the vapā; the sūtra is: इदमापः प्र वहतेत्येतस्याः स्थान आपो अस्मान्मातरः शुंधयंतु (*idamāpaḥ pra vahatetyetasyāḥ sthāna āpo asmānmātaraḥ śuṃdhayaṃtu*) (Ā. 8-12). The mothers (मातरः (*mātaraḥ*)) are the waters, who stand as mothers of the world; may they purify us, cleanse us by sprinkling. So too the धृतप्पः (*dhṛtappaḥ*): धृतं (*dhṛtaṃ*) is water, and they purify others with it; the waters so described. Or else धृतप्पः (*dhṛtappaḥ*) are those who purify with धृतं (*dhṛtaṃ*), the product of the cow. The Brāhmaṇa says likewise: धृतेन नो धृतप्पः पुनंतीति तद्वै सुपूतं यद्धृतेन पूयत इति (*dhṛtena no dhṛtappaḥ punaṃtīti tadvai supūtaṃ yaddhṛtena pūyata iti*). May those waters purify us with water. Because the divine waters, of a shining nature, carry away all sin (रिप्रं (*ripraṃ*)) from a man, that is, remove it, afterwards I, the praiser, purified by these waters, go up (उदेमि (*udemi*)), that is, go upward to heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरः (*mātaraḥ*)—the mother-like
+- आपः (*āpaḥ*)—waters
+- अस्मान् (*asmān*)—us
+- शुंधयंतु (*śuṃdhayaṃtu*)—may they purify
+- धृतप्पः (*dhṛtappaḥ*)—the purifying waters
+- घृतेन (*ghṛtena*)—with their flow
+
+### Printed p. 562
+- नः (*naḥ*)—us
+- पुनंतु (*punaṃtu*)—may they purify
+- हि (*hi*)—for
+- देवीः (*devīḥ*)—the waters that are divine
+- विश्वं हि (*viśvaṃ hi*)—all
+- रिप्रं (*ripraṃ*)—sin
+- प्रवहंति (*pravahaṃti*)—they sweep away and destroy
+- आभ्यः (*ābhyaḥ*)—by these waters
+- आ पूतः शुचिः (*ā pūtaḥ śuciḥ*)—I who have become purified
+- उदेमि (*udemi*)—I go up to heaven
+
+##### भावार्थ (Bhāvārtha)
+
+May the waters, who are like mothers, purify us. May the purifying waters make us holy by their flow. The divine waters sweep away and destroy all our sin. I, purified by these waters, go up to heaven.
+
+##### English translation
+May the maternal waters purify us; may the shedders of water purify us with the effusion; for the divine (waters) bear away all sin; I come away from them purified (to heaven).
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk, "आपो अस्मान् (*āpo asmān*)", is to be recited at the avabhṛtha place. This is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra अचम्याप्लवंत आपो अस्मान् मातरः शुंधयंतु (*acamyāplavaṃta āpo asmān mātaraḥ śuṃdhayaṃtu*) (Ā. 6-13). It is also to be recited on the tenth day at the time of the wiping of the vapā, as explained by the Āśvalāyana Śrauta Sūtra, in the sūtra इदमापः प्र वहतेत्वेतस्या स्थान आपो अस्मान्मातरः शुंधयंतु (*idamāpaḥ pra vahatetvetasyā sthāna āpo asmānmātaraḥ śuṃdhayaṃtu*) (Ā. 8-12). **NOTE**
+
+Mātaraḥ āpaḥ: here the waters, or the deities presiding over the waters, are described by the word मातरः (*mātaraḥ*). For just as mothers nourish and rear their children with milk and the like, these waters rear plants and the like, and nourish us (all living beings) with the food and so on obtained from them. Therefore it is natural to call the waters, whose nature is to nourish like mothers, मातरः (*mātaraḥ*), a word that shows respect.
+
+Śuṃdhayantu: प्रोक्षणेन शोधयंतु (*prokṣaṇena śodhayaṃtu*). The assurance expressed here is that the waters should purify us by sprinkling and the like. That water purifies everything is a matter of experience. By bathing and the like we purify our body, by washing our clothes and the like, by sweeping and the like our houses and the like, by rinsing our vessels and the like. That is, water is needed to purify anything. Besides this kind of external purification, there is also inner purification inside the body by sipping water and the like, as the Taittirīya Śruti sentence declares: अपोऽश्नात्यंतरत एव मेध्यो भवति (*apo 'śnātyaṃtarata eva medhyo bhavati*) (Tai. Saṃ. 6.1.1.3).
+
 ---
 
-**Progress note:** Done through printed p. 556. pp. 551-556 (batch API)
+**Progress note:** Done through printed p. 562. pp. 557-562 (batch API)
