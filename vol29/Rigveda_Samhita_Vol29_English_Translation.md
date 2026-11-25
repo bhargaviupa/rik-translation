@@ -23185,6 +23185,174 @@ When the gods performed the sacrifice with Purusha as the offering, then Spring 
 
 The Supreme Puruṣa resolved on the creation of the world, and as a result of that resolve various powers were produced; since through them the Puruṣa shines in many ways (virājate), he became called Virāṭ. The divine nature, which passes through special states, Virāṭ from Puruṣa and Puruṣa from Virāṭ, has been explained earlier. In the creation that was produced as the fruit of Īśvara's resolve there are two orders: one is the earlier creation, the other the later creation. In the sentence स जातो अत्यरिच्यत । पश्चाद्भूमिमथो पुरः (*sa jāto atyaricyata | paścādbhūmimatho puraḥ*) the order of the earlier creation is stated. The five great elements, earth and the rest, the conscious beings such as gods, animals and men, and the bodies, endowed with the organs of knowledge and the like, that give shelter to these conscious beings, belong to the earlier creation. At the time of the earlier creation the Supreme Self performed the sacrifice of the Self and offered himself as the oblation; that the creation of the world was the fruit of it has been explained earlier in the Viśvakarman hymns. In the Ṛk now in hand it is said that, as a part of the later creation, the gods performed the sacrifice, offering the Puruṣa in the form of the oblation. Since all the powers created by the Virāṭ-puruṣa are shining, all of them are called gods. Since each of the five great elements and of the organs of knowledge has a special power, these powers are what are called gods. As described before, the Supreme Brahman, without qualities and indescribable, taking name and form, attained variety in the world by a part of itself alone: this is the earlier creation; that these manifold powers, by their own influence, expand still further and spread in the form of effects is the later creation. What is the purport of the statement that these powers, called gods, performed the Puruṣa-sacrifice and afterwards the later creation came about must be examined in the present context. Sāyaṇa's explanation of this sentence is as follows.
 
+### Printed p. 832
+
+यत् यदा पूर्वोक्तक्रमेणैव शरीरेषूत्पन्नेषु देवाः उत्तरसृष्टिसिद्ध्यर्थं बाह्यद्रव्यस्य अनुत्पन्नत्वेन हविरंतरासंभदवात् पुरुषस्वरूपमेव मनसा हविष्ट्वेन संकल्प्य पुरुषाख्येन हविषा मानुषु यज्ञमतन्वत ॥ (*yat yadā pūrvoktakrameṇaiva śarīreṣūtpanneṣu devāḥ uttarasṛṣṭisiddhyarthaṃ bāhyadravyasya anutpannatvena haviraṃtarāsaṃbhadavāt puruṣasvarūpameva manasā haviṣṭvena saṃkalpya puruṣākhyena haviṣā mānuṣu yajñamatanvata ‖*)
+
+As explained before, after the creation of the bodies of the five great elements and so on, the gods performed a sacrifice for the later creation. The materials needed for this sacrifice were not to be had apart from the Puruṣa; external substances had not yet been produced. Therefore, forming a mental resolve with the oblation of the form of the Puruṣa, they performed a mental sacrifice. In this section, which explains thus, the nature of the mental sacrifice and the later creation that is its fruit are the chief subjects. How these points are described in Vedic sentences will be examined. Bhaṭṭabhāskara has given the following commentary on this mantra as it is read in the Taittirīya-āraṇyaka. Since the idea stated in the preceding Ṛk continues here also, that too will be quoted and explained. Here both kinds of creation are set out.
+
+(1) Bhaṭṭabhāskara's commentary on the mantra तस्माद्विराडजायत (*tasmādvirāḍajāyata*)—
+
+इदानीं सृष्टिरुच्यते । तस्मात् प्रणवाख्यात् नारायणात् । (अव्यक्तादिति केचित्) तस्मात् प्रकृतान्महापुरुषात् विराडजायत प्रजापतिः । ततो विराजो अधि विराजमेवाधिकरणीकृत्य पुरुषोऽजायत दशहोत्राख्यः प्रजापतिः पुरुषसमष्टात्मना अजायत । यथोक्तं । स मानसीन आत्मा जनानां ॥ (*idānīṃ sṛṣṭirucyate | tasmāt praṇavākhyāt nārāyaṇāt | (avyaktāditi kecit) tasmāt prakṛtānmahāpuruṣāt virāḍajāyata prajāpatiḥ | tato virājo adhi virājamevādhikaraṇīkṛtya puruṣo 'jāyata daśahotrākhyaḥ prajāpatiḥ puruṣasamaṣṭātmanā ajāyata | yathoktaṃ | sa mānasīna ātmā janānāṃ ‖*)
+
+(Tai. Ā. Bha. 3-12) **NOTE**
+
+This concerns the (earlier) creation. From the great Puruṣa, who is called Praṇava and is of the form of Nārāyaṇa, comes the birth of Virāṭ. Because all things shine (virājante) within him, he has the name Virāṭ. Prajāpati, who is of the form of mind, is the one called Virāṭ. The one produced from this Virāṭ is the Puruṣa. He is of the form of the Daśahotṛ. He pervades all people in the form of mind. In this explanation (1) the epithet दशहोत्राख्यः (*daśahotrākhyaḥ*) and (2) मानसीनः (*mānasīnaḥ*) indicate the chief purport of the present Ṛk **NOTE**. What chief nature of the Puruṣa these two epithets tell must be examined. Explaining this very epithet मानसीनः (*mānasīnaḥ*) the commentator (Bhaṭṭabhāskara) has also quoted a Brāhmaṇa sentence that supports his explanation.
+
+### Printed p. 833
+
+स वैराजः पुरुषः जातः प्रादुर्भावानंतरं अत्यरिच्यत स्वयमेव आत्मानमत्यरेचयत् । अनेकधाभावलक्षणं स्वरूपातिरेकमभजत भूकेंद्रियादीन्यसृजतेति यावत् । उक्तं च—असतोऽधि मनोऽृज्यत । मनः प्रजापतिमसृजत । प्रजापतिः प्रजा असृजत । इति ॥ (*sa vairājaḥ puruṣaḥ jātaḥ prādurbhāvānaṃtaraṃ atyaricyata svayameva ātmānamatyarecayat | anekadhābhāvalakṣaṇaṃ svarūpātirekamabhajata bhūkeṃdriyādīnyasṛjateti yāvat | uktaṃ ca—asato 'dhi mano 'ṛjyata | manaḥ prajāpatimasṛjata | prajāpatiḥ prajā asṛjata | iti ‖*)
+
+(Kṛ. Ā. Bhā.) **NOTE**
+
+The Supreme Puruṣa, who shines with all beings, after he was produced (manifested), spread into the forms of gods, animals, men and so on and pervaded the world. The same matter is told by a sentence of the Taittirīya-brāhmaṇa thus: from the unmanifest (asat) mind was produced; from mind, Prajāpati; from Prajāpati, the creatures (Tai. Brā. 2-2-9). That is, the very principle of mind that was praised earlier in तदसदेव सन्मनो5कुरुत स्यामिति (*tadasadeva sanmano5kuruta syāmiti*) (Tai. Brā. 2-2-9) is praised here also. The whole world existed only as the mental form of Īśvara; it existed only as his resolve. Therefore in this same context it is also said तद्वा इदं मनस्येव परमं प्रतिष्ठितं (*tadvā idaṃ manasyeva paramaṃ pratiṣṭhitaṃ*). This special resolve is indicated in the present Ṛk (Ṛ. Saṃ. 10-90-3) **NOTE** by the words यत्पुरुषेण हविषा (*yatpuruṣeṇa haviṣā*). How? The commentary of the Taittirīya-āraṇyaka on the Ṛk यत्पुरुषेण हविषा (*yatpuruṣeṇa haviṣā*):
+
+यत् यदा पुरुषेण प्रजापतिना हविषा हविष्टेन संकल्पितेन हविरंतर स्याभावात् देवाः प्राणाः प्राजापत्या: इंद्रियाणि च यज्ञं संकल्पात्मकं अशन्नत यज्ञमिव अकुर्वत । (*yat yadā puruṣeṇa prajāpatinā haviṣā haviṣṭena saṃkalpitena haviraṃtara syābhāvāt devāḥ prāṇāḥ prājāpatyā: iṃdriyāṇi ca yajñaṃ saṃkalpātmakaṃ aśannata yajñamiva akurvata |*)
+
+(Tai. Ā. Bhā. 3-12) **NOTE**
+
+Since there was no other oblation, the vital breaths of Prajāpati and the senses performed the sacrifice of the nature of resolve. That is, the purport is the sacrifice of the nature of resolve of the Puruṣa called Daśahotṛ. This is just what Sāyaṇa has said in explaining the present Ṛk (Ṛ. Saṃ. 10-90-6): उत्तरसृष्ट्यर्थं पुरुषस्वरूपमेव मनसा संकल्प पुरुषाख्येन हविषा मानुषं यज्ञमतन्वत (*uttarasṛṣṭyarthaṃ puruṣasvarūpameva manasā saṃkalpa puruṣākhyena haviṣā mānuṣaṃ yajñamatanvata*). Bhaṭṭabhāskara has explained the same matter by the sentence डशहोत्राख्यः प्रजापतिः पुरुषसमष्ट्यात्मना अजायत (*ḍaśahotrākhyaḥ prajāpatiḥ puruṣasamaṣṭyātmanā ajāyata*) and by the quotation स मानसीनः (*sa mānasīnaḥ*).
+
+Thus what is the nature of the sacrifice that precedes the later creation? What is the work of the Puruṣa called Daśahotṛ in this sacrifice? How? And what is the sacrifice of the form of mind? These matters have to be explained in the present context. Since in देवा यज्ञमतन्वत (*devā yajñamatanvata*) the word देवाः (*devāḥ*) means the vital breaths and the senses of Prajāpati, the meaning is that Prajāpati himself, being in these forms, again performed the sacrifice for the later
+
+### Printed p. 834
+
+creation. That is, the earlier creation is rooted in sacrifice, and the later creation too is rooted in sacrifice. All these are works of the nature of resolve of Prajāpati called Daśahotṛ. How?
+
+आदौ सिसृक्षुः प्रजापतिः सृष्ट्यर्थं केन चिद्यागेन आध्यात्मिकेन इष्टवान् (*ādau sisṛkṣuḥ prajāpatiḥ sṛṣṭyarthaṃ kena cidyāgena ādhyātmikena iṣṭavān*)
+
+To the question, what form of sacrifice did Prajāpati, who first resolved on creation, perform, the special parts of that sacrifice and their order are explained in the Taittirīya-āraṇyaka as follows.
+
+चित्तिः स्रुक् । चित्तमाज्यं । वाग्वेदिः । आधीतं बर्हिः । केतो अग्निः। विज्ञातमग्निः । वाक्प्रतिर्होता । मन उपवक्ता । प्राणो हविः । सामाध्वरुः ॥ (*cittiḥ sruk | cittamājyaṃ | vāgvediḥ | ādhītaṃ barhiḥ | keto agniḥ| vijñātamagniḥ | vākpratirhotā | mana upavaktā | prāṇo haviḥ | sāmādhvaruḥ ‖*)
+
+(Kṛ. Ā. 3-1) **NOTE**
+
+The intelligence of the form of the resolve to create the world that the Creator has is called चित्ति (*citti*). As a sacrifice is not possible without the instrument called स्रुक् (*sruk*), so for the sacrifice of the form of creation चित्ति (*citti*) itself is the chief instrument, in the form of the ladle.
+
+चित्तमाज्यं (*cittamājyaṃ*)—As the vessel **NOTE** is the support of the ghee offered in the form of oblation, so चित्ति (*citti*) is the support of चित्त (*citta*). For this sacrifice of Prajāpati, of the nature of resolve, चित्त (*citta*) itself is the ghee. Since चित्त (*citta*) is the support of all the principles to be meditated on, it is the principal implement: such is the meaning.
+
+वाग्वेदिः (*vāgvediḥ*)—As the sacrificial altar is the means for making the sacrificial acts manifest, so speech, which is the means for making the mental resolve manifest, is the altar.
+
+आधीतं बर्हिः (*ādhītaṃ barhiḥ*)—Like the darbha grass spread on the sacrificial altar, आधीत (*ādhīta*) (form), which gives room for the description of speech and helps the spread of speech, is the sacred grass.
+
+केतो अग्निः (*keto agniḥ*)—The power that makes the principle existing as a totality divide by name and form and gives it individual nature is the fire. As the sacrifice has the āhavanīya fire, so for the sacrifice of resolve केत (*keta*) **NOTE** is the form of the āhavanīya fire.
+
+विज्ञातमग्निः (*vijñātamagniḥ*)—The knowledge and satisfaction that the universe was created by me is the agnīdhra **NOTE**.
+
+वाक्प्रतिर्होता (*vākpratirhotā*)—The organ of speech of Prajāpati, the place of origin of words, is the hotṛ.
+
+मन उपवक्ता (*mana upavaktā*)—The mind of Prajāpati, the root of all acts, is the Brahman priest.
+
+प्राणो हविः (*prāṇo haviḥ*)—The vital breath, the chief power of Prajāpati, is the oblation.
+
+### Printed p. 835
+
+समाध्वर्यु: (*samādhvaryu:*)—The austerity performed for creation is the sāman. This sāman is the adhvaryu, the conductor of the sacrificial work. As the adhvaryu is needed for the sacrifice to be completed in all its parts, so for the sacrifice (adhvara) of the form of creation there is the sāman of the form of austerity.
+
+Thus the sacrifice of the form of Prajāpati (resolve), having the ten parts चित्ति (*citti*), चित्त (*citta*), वाक् (*vāk*), आधीत (*ādhīta*), केत (*keta*), विज्ञात (*vijñāta*), वाक्षति (*vākṣati*), मनस् (*manas*), प्राण (*prāṇa*) and साम (*sāma*), is described (दशहोता दशभूतो यज्ञात्वा प्रजापतिः (*daśahotā daśabhūto yajñātvā prajāpatiḥ*)). Sāyaṇa has said as follows in his explanation.
+
+चित्तिचित्तशब्दभ्यां निर्विकल्पकसविकल्पकभेदजनकावंतःकरणवृत्तिभेदौ विवक्षितौ. (*citticittaśabdabhyāṃ nirvikalpakasavikalpakabhedajanakāvaṃtaḥkaraṇavṛttibhedau vivakṣitau.*)
+
+Nirvikalpaka means the attributeless and indescribable Supreme Brahman, without any distinguishing qualities, who is denoted by the word चित्ति (*citti*); and the Brahman with attributes, endowed with parts and a fit subject of description, is denoted by the word चित्त (*citta*). Both the unmanifest and the manifest forms are indicated. The words केत (*keta*) and विज्ञात (*vijñāta*) also tell the knowledge of Brahman that is nirvikalpaka and savikalpaka (attributeless and undifferentiated, and with attributes and differentiated). The remaining words are well known (मनः प्राणौ प्रसिद्धि इत्यादि (*manaḥ prāṇau prasiddhi ityādi*)).
+
+एवं चित्तादयो दश शरीरगताः पदार्थविशेषाः स्रुगादयो दशपदार्था होमनिष्पादकाः .... .... .... ;आस्मिन्मंत्रे स्रुगादीनां होमसाधनानां दशानामभिहितत्वादयं मंत्रो दशहोतेत्युच्यते ॥ (*evaṃ cittādayo daśa śarīragatāḥ padārthaviśeṣāḥ srugādayo daśapadārthā homaniṣpādakāḥ .... .... .... ;āsminmaṃtre srugādīnāṃ homasādhanānāṃ daśānāmabhihitatvādayaṃ maṃtro daśahotetyucyate ‖*)
+
+Thus the ten words चित्ति (*citti*), चित्त (*citta*) and so on denote, from the point of view of principle, ten things belonging to the body, and, from the point of view of sacrifice, the ten things such as the ladle that are the instruments of the sacrifice. Because ten things such as the ladle are intended in this way, this mantra is called दशहोता (*daśahotā*): so Sāyaṇa has explained.
+
+Prajāpati, the creator, is described as daśahotṛ and likewise by the epithets caturhotṛ, pañcahotṛ and so on. To know what these epithets mean in the sacrifice of the form of creation, the sentences of the Taittirīya-brāhmaṇa in which these descriptions occur must be examined. In this context also, Prajāpati of the form of the daśahotṛ and his sacrifice of the nature of mental resolve are what is intended. Only as much as is useful for the present context will be collected, quoted and explained.
+
+प्रजापतिरकामयत प्रजाः सृजेयेति । स एतं दशहोतारमपश्यत् ; तं मनसानुद्रुत्य दर्भस्तंबेऽजुहोत् । ततो वै स प्रजा असृजत । ता (*prajāpatirakāmayata prajāḥ sṛjeyeti | sa etaṃ daśahotāramapaśyat ; taṃ manasānudrutya darbhastaṃbe 'juhot | tato vai sa prajā asṛjata | tā*)
+
+### Printed p. 836
+
+अस्मात्सृष्टा आपाक्रामन् । ता ग्रहेणागृह्णात् । .... .... .... प्रजापतिर्वै दशहोता ॥ (*asmātsṛṣṭā āpākrāman | tā graheṇāgṛhṇāt | .... .... .... prajāpatirvai daśahotā ‖*)
+
+(Tai. Prā. 2-2-1-1) **NOTE**
+
+When Prajāpati resolved to create creatures, he realised the meaning of the daśahotṛ mantra, चित्तिःस्रुक् (*cittiḥsruk*). Meditating on it in his mind, he offered it as an oblation on a clump of darbha grass. Then he created creatures. The creatures thus created tried to escape. Then Prajāpati controlled them by the power of the mantra in the form of the graha, वाचस्पते विधे नामन् (*vācaspate vidhe nāman*). Prajāpati himself is the daśahotṛ.
+
+प्रजापतिर्दर्शहोता । प्रजापतिरेव भूत्वा प्र जायते । मनसा जुहोति । मन इव हि प्रजापतिः । प्रजापतेराप्त्यै । पूर्णया जुहोति । पूर्ण इव हि प्रजापतिः । प्रजापतेराप्त्यै । न्यूनया जुहोति । न्यूनाद्दि प्रजापतिः प्रजा असृजत प्रजानाग्ं सृष्टै ॥ (*prajāpatirdarśahotā | prajāpatireva bhūtvā pra jāyate | manasā juhoti | mana iva hi prajāpatiḥ | prajāpaterāptyai | pūrṇayā juhoti | pūrṇa iva hi prajāpatiḥ | prajāpaterāptyai | nyūnayā juhoti | nyūnāddi prajāpatiḥ prajā asṛjata prajānāgṃ sṛṣṭai ‖*)
+
+(Trai. Cā. 2-2.1.2) **NOTE**
+
+Prajāpati is of the form of the daśahotṛ. Prajāpati himself is born in the form of creatures. Therefore his nature is of two kinds: one manifest, the other unmanifest; one full, the other deficient (incomplete). To worship the unmanifest nature one should offer the oblation with a full vessel. To worship the manifest and not-full nature of the form of the world, one should offer the oblation with the deficient vessel (चतुर्गृही तेनाज्येन युक्ता येयमपूर्णा स्ट्रुक् (*caturgṛhī tenājyena yuktā yeyamapūrṇā sṭruk*)) and worship. This helps the creation of creatures.
+
+For the favour of this twofold Prajāpati, the mental utterance of mantras such as those of the graha is prescribed. As Prajāpati made the world by his mental resolve alone, so the mental utterance is prescribed in accordance with it.
+
+प्रजापतिर्वै दशहोता । चतुर्होता पंचहोता । षड्थोता सप्तहोता । (*prajāpatirvai daśahotā | caturhotā paṃcahotā | ṣaḍthotā saptahotā |*)
+
+(Tai. Brā. 2-2-3)
+
+In this sentence it is stated that Prajāpati himself assumes all the forms. Prajāpati himself is the caturhotṛ. How he is caturhotṛ is this: (1) पृथिवी होता (*pṛthivī hotā*); (2) व्यौरध्वर्युः (*vyauradhvaryuḥ*); (3) रुद्रोग्नीत् (*rudrognīt*); (4) बृहस्पति रुपवक्ता (*bṛhaspati rupavaktā*).
+
+### Printed p. 837
+
+(Since the aim here is to show in what way the spiritual nature of Prajāpati is described by sacrificial procedures, the details of sacrificial ritual are not explained here. In quoting the Brāhmaṇa sentences also, what is intended is the explanation of the spiritual nature of Prajāpati.)
+
+Prajāpati's being pañcahotṛ **NOTE** is: (1) अग्निर्होता (*agnirhotā*); (2) अश्विनाध्वर्यो (*aśvinādhvaryo*); (3) त्वष्टाग्नीत् (*tvaṣṭāgnīt*); (4) मित्र उपवक्ता (*mitra upavaktā*). (The Aśvins are of the form of the adhvaryu and the pratiprasthātṛ.)
+
+The ṣaḍhotṛ mantra is of two kinds. The first is: (1) सूर्यं ते चक्षुः (*sūryaṃ te cakṣuḥ*); (2) वातं प्राणः (*vātaṃ prāṇaḥ*); (3) द्यां पृष्ठं (*dyāṃ pṛṣṭhaṃ*); (4) अंतरिक्षमात्मा (*aṃtarikṣamātmā*); (5) अंगैरज्ञं (*aṃgairajñaṃ*); (6) पृथिवीग्ं शरीरैः (*pṛthivīgṃ śarīraiḥ*).
+
+The second is: (1) वाग्फोता (*vāgphotā*); (2) दीक्षा पत्नि (*dīkṣā patni*); (3) वातोऽध्वर्युः (*vāto 'dhvaryuḥ*); (4) अपोऽभिगरः (*apo 'bhigaraḥ*); (5) मनो हविः (*mano haviḥ*); (6) तपसि जुहोमि (*tapasi juhomi*).
+
+(Trai. Ā. 3-6) **NOTE**
+
+The saptahotṛ nature **NOTE**: (1) महाहविर्होता (*mahāhavirhotā*); (2) सत्यहविरध्वर्युः (*satyahaviradhvaryuḥ*); (3) अच्युतपाजा अग्नीत् (*acyutapājā agnīt*); (4) अच्युतमना उपवक्ता (*acyutamanā upavaktā*); (5) अनाधृष्यश्चाप्रतिधृष्यश्च यज्ञन्याभिगरा (*anādhṛṣyaścāpratidhṛṣyaśca yajñanyābhigarā*); (6) अयास्य उद्गाता (*ayāsya udgātā*).
+
+Thus there are indications of the place of Prajāpati in the sacrifice of the form of creation. Besides, the description that at the time of creation Prajāpati himself, taking also the forms of Agni and the rest, pervaded the world is as follows.
+
+प्रजापतिरकामयत प्रजायेयेति । स एतं दशहोतारमपश्यत् । तेन दशधात्मानं विधाय । दशहोत्रातष्यप । (*prajāpatirakāmayata prajāyeyeti | sa etaṃ daśahotāramapaśyat | tena daśadhātmānaṃ vidhāya | daśahotrātaṣyapa |*)
+
+(Tai. Brā. 2-2-4)
+
+Prajāpati, who made the resolve for creation, not only realised the daśahotṛ mantra (चित्तिःस्रुक् (*cittiḥsruk*) and so on), but also, dividing his own nature into ten parts, pervaded the world: so it is said. The explanation of in which forms is described in the sacrificial procedure.
+
+### Printed p. 838
+
+(1) ब्राह्मण एकहोता । स यज्ञः (*brāhmaṇa ekahotā | sa yajñaḥ*)—The brāhmaṇa is full of austerity. Austerity itself is of the form of sacrifice. Because Prajāpati benefits the whole world by a sacrifice of austerity in this way, he is described here as a brāhmaṇa. Austerity is the support of creation; sacrifice is the nourisher of creation. Prajāpati in the form of a brāhmaṇa is the nourisher of all these.
+
+(2) अग्निर्द्विहोता; । स भर्ता (*agnirdvihotā; | sa bhartā*)—Because he bears the whole universe in the form of fire by carrying the cooked oblations, Prajāpati of the form of fire is described as dvihotṛ.
+
+(3) पृथिवी त्रिहोता। स प्रतिष्ठा (*pṛthivī trihotā| sa pratiṣṭhā*)—Because he is the cause of all foundations through fire, food and sacrifices, Prajāpati as the earth is trihotṛ.
+
+(4) अंतरिक्षं चतुर्होता। स विष्ठाः (*aṃtarikṣaṃ caturhotā| sa viṣṭhāḥ*)—Because he establishes the whole world in manifold ways by means of speech, rain, space and place, Prajāpati as the atmosphere is caturhotṛ.
+
+(5) वायुः पंचहोता । स प्राणः (*vāyuḥ paṃcahotā | sa prāṇaḥ*)—Because he makes the whole world endowed with breath through the five functions such as prāṇa, he is praised as pañcahotṛ.
+
+(6) चंद्रमाष्पदोता । स ऋतून्मल्पयाति (*caṃdramāṣpadotā | sa ṛtūnmalpayāti*)—Because he sustains the universe through the (six) conceptions of the seasons, Prajāpati as the moon is ṣaḍhotṛ.
+
+(7) अन्नग्ं सप्तहोता! स प्राणस्य प्राणः (*annagṃ saptahotā! sa prāṇasya prāṇaḥ*)—Because he keeps the whole universe endowed with life through the seven (7) functions of breath, शीर्षण्यादि (*śīrṣaṇyādi*), he is saptahotṛ.
+
+(8) दौरष्ट होता; । सोऽनाधृश्यः (*dauraṣṭa hotā; | so 'nādhṛśyaḥ*)—Because by means of the inner organs, prāṇa and the rest, which are of the nature of the senses, he is satisfying to the world through rain and the like, and is the abode of happiness, Prajāpati is aṣṭahotṛ.
+
+(9) आदित्यो नवहोता। स तेजस्वी (*ādityo navahotā| sa tejasvī*)—Joined with the eight powers mentioned before, he lights the world with his own divine splendour.
+
+(10) प्रजापतिर्दशहोता। स इदग्ं सर्वं (*prajāpatirdaśahotā| sa idagṃ sarvaṃ*) **NOTE**—Joined with all the principles described above, manifesting his own nature in the moving and unmoving world, and holding his own nature in a state beyond all that, Prajāpati is described as daśahotṛ.
+
+After the earlier creation had been brought about by Prajāpati called Daśahotṛ through the sacrifice of the form of resolve, the later creation too was then carried out in the same form by mental resolve alone, because of the absence of external materials. It is said that the gods became helpers in this sacrifice. The gods means
+
+### Printed p. 839
+
+the vital breaths of Prajāpati and the Prājāpatya senses: this is the meaning given. It is said that both the earlier creation and the later creation are of the nature of mental resolve. Since Prajāpati himself is of the form of mind, his works too are of mental nature. Therefore it is described as स मानसीन आत्माजनानां (*sa mānasīna ātmājanānāṃ*). The mental nature that precedes creation is described in the Śruti sentences as follows.
+
+सेव ना इदमग्रेसदासीन्नेव सदासीत् । आसीदिव ना इदमग्रे नेवासीत्तद्ध तन्मन एवास ॥ (*seva nā idamagresadāsīnneva sadāsīt | āsīdiva nā idamagre nevāsīttaddha tanmana evāsa ‖*)
+
+(Pa. Brā. 10-53.3.-1) **NOTE**
+
+Before creation the root principle was neither of the nature of being nor of the nature of non-being. It existed as of the nature of being and also as of the nature of non-being; and it existed in the form of full mind.
+
+तस्मादेतदृषिणाभ्यनूक्तं । नासदासीन्नोसदासीत्तदानीमिति नेव हि सन्मनो नेवासत् ॥ (*tasmādetadṛṣiṇābhyanūktaṃ | nāsadāsīnnosadāsīttadānīmiti neva hi sanmano nevāsat ‖*)
+
+(Pa. Patra. 10-5-3-2) **NOTE**
+
+Therefore the seers who saw the hymn beginning नासदासीत् (*nāsadāsīt*) have spoken thus (10-129-1): in the beginning there was neither existence nor non-existence. That is, since mind is different from these two states, it is described thus. At that time the mind, which was without a second, had the desire for creation, and:
+
+तदिदं मनः सृष्टमाविरबुभूषत् : निरुक्ततरं मूर्ततरं तदात्मानमन्वैच्छत्तत्तपोऽतप्यत तत्पा मूर्छत्तत् षट्त्रिग्ंशतग्ं सहस्राण्यपश्यदात्मनोऽग्नीनर्कान्मनोमयान्नश्चितस्ते मनसैवाधीयंत मनसा चीयंत मनसैषु यहा अगुह्यंत मनसास्तुवत मनसा शग्ंसन्यत्किं च यज्ञे कर्म क्रियते यत्किं च यज्जियं कर्म मनसैव तेषु तन्ननोमयेषु मनश्चित्तु मनोमयमक्रियत तद्यत्किं चेमानि भूतानि मनसा संकल्पयंति तेषामेव सा कृतिस्तानेवादधति तांश्चिन्नंति तेषु ग्रहान् गृह्णंति तेषु सुवते तेषु शग्ंसंत्येतावती वै मनसो. विभूतिरेतावती विसृष्टिरेतावन्मनः षट्त्रिग्ंशत्सहस्राण्यग्नयोर्कास्तेषामेकैक एव तावान्यानासौ पूर्वः ॥ (*tadidaṃ manaḥ sṛṣṭamāvirabubhūṣat : niruktataraṃ mūrtataraṃ tadātmānamanvaicchattattapo 'tapyata tatpā mūrchattat ṣaṭtrigṃśatagṃ sahasrāṇyapaśyadātmano 'gnīnarkānmanomayānnaścitaste manasaivādhīyaṃta manasā cīyaṃta manasaiṣu yahā aguhyaṃta manasāstuvata manasā śagṃsanyatkiṃ ca yajñe karma kriyate yatkiṃ ca yajjiyaṃ karma manasaiva teṣu tannanomayeṣu manaścittu manomayamakriyata tadyatkiṃ cemāni bhūtāni manasā saṃkalpayaṃti teṣāmeva sā kṛtistānevādadhati tāṃścinnaṃti teṣu grahān gṛhṇaṃti teṣu suvate teṣu śagṃsaṃtyetāvatī vai manaso. vibhūtiretāvatī visṛṣṭiretāvanmanaḥ ṣaṭtrigṃśatsahasrāṇyagnayorkāsteṣāmekaika eva tāvānyānāsau pūrvaḥ ‖*)
+
+(Śa. Brā. 10-5-3-3)
+
+After creation **NOTE** the mind wished to shine itself also in manifest form. It wished also to become visible in embodied form. It performed austerity. As a result of it, it acquired density
+
 ---
 
-**Progress note:** Done through printed p. 831. Mandala 10 Sukta 90 Rk 5 special topics end (creation, elements); Rk 6 begins
+**Progress note:** Done through printed p. 839. Rk 6 special topics: Bhattabhaskara, Dasahotr, Prajapati as sacrifice, mind before creation
