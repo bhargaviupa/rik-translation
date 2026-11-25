@@ -2187,6 +2187,170 @@ it is stated that Indra killed a king named Citraratha on the bank of the river 
 In this Ṛk there is a prayer that the rivers Sarasvatī, Sarayu and Sindhu may come with their protections. The river Sarayu is spoken of in the Ṛgveda only in these three Ṛks. Nowhere else.
 Rasā—It must be a famous river, or there is reason also to suppose that this name was borne by the river Sindhu, which is famous now. It was famous as a divine river, and once upon a time, when the water of this river dried up for some reason, the Aśvin gods by their power
 
+### Printed p. 97
+filled with water. This history is stated in Ṛ. Saṃ. 1-112-12, in the Ṛk where the qualities of the Aśvin gods are described.
+अत्रेतिहासमाचक्षते । पणिभिरसुरैरपह्रियमाणा गा अनुगच्छंतः देवगोपाला रसां नामांतरिक्षनदीमगाधोदकां नोत्तरितुं शेकुः । तद्ज्ञात्वा देवाः संक्रुद्धाः रसां शेपुः निरुदका भवेति । सा प्रत्यनीतासु गोषु अश्विनौ परिचचार । तामश्विन् गत्वा पुनरगाधोदकां चक्रुतुरिति ॥ (*atretihāsamācakṣate | paṇibhirasurairapahriyamāṇā gā anugacchaṃtaḥ devagopālā rasāṃ nāmāṃtarikṣanadīmagādhodakāṃ nottarituṃ śekuḥ | tadjñātvā devāḥ saṃkruddhāḥ rasāṃ śepuḥ nirudakā bhaveti | sā pratyanītāsu goṣu aśvinau paricacāra | tāmaśvin gatvā punaragādhodakāṃ cakruturiti ‖*)
+The Paṇis, who are asuras, carried off the cows of the gods. The divine herdsmen followed that path in pursuit of the asuras, but on the way a river named Rasā, of the atmosphere, with an unfathomable flow of water, lay across their path, and they were not able to cross it. When the gods came to know this, they were angry and cursed that river that it should become dry. Immediately all the water of that river dried up. After the cows had been driven back, the river Rasā prayed to the Aśvin gods; they came and filled that river with abundant water. Skandasvāmin has narrated this story in his commentary. Sāyaṇa's explanation differs a little. His explanation is—
+रसा नदी भवति रसतेः शब्दकर्मण इति यास्कः । नि. ११-२५ । हे अश्विनौ याभिरूतिभिर्हेतुभूताभी रसां नदीमनावृष्ट्या जलरहितां क्षोदसा कूलानि संपिंषतोद्न उदकेन पिपिस्वथु: युवां पूरितवंतौ ॥ (*rasā nadī bhavati rasateḥ śabdakarmaṇa iti yāskaḥ | ni. 11-25 | he aśvinau yābhirūtibhirhetubhūtābhī rasāṃ nadīmanāvṛṣṭyā jalarahitāṃ kṣodasā kūlāni saṃpiṃṣatodna udakena pipisvathu: yuvāṃ pūritavaṃtau ‖*) (Sā. Bhā.) **NOTE**
+Having cited the derivation given by the author of the Nirukta, that the word Rasā is formed from the root रस् (*ras*) which has the sense "make a sound", he says that the water of a river flows swiftly and therefore makes a noise, and for that reason this river is called Rasā. But he has given absence of rain as the reason for the drying up of the water of this river. In some places it is said that the water of this river has an unfathomable current and is impossible to cross.
+कास्मेहितिः का परितक्का सीत्कथं रसाया आतरः पयांसि । (*kāsmehitiḥ kā paritakkā sītkathaṃ rasāyā ātaraḥ payāṃsi |*) (Ṛ. Saṃ. 10-108-1)
+Formerly the Paṇis carried off the cows of the gods and hid them in the cave of a mountain, so that no one knew. At the prayer of the gods, Indra sent Saramā, the divine dog (the female dog of the world of the gods), to discover the place where the cows were hidden. She travelled a very great distance, crossed forests and wildernesses, passed over many rivers, and at last came to the place where the Paṇis were.
+### Printed p. 98
+Then a charming conversation took place between the Paṇis and Saramā on the matter of giving the cows back to the gods. The Paṇis, questioning Saramā, ask how she crossed the river Rasā, with its unfathomable flood of water, when she came here. Therefore it may be said that the river Rasā was filled with an unfathomable flood of water. Besides these passages, in
+सिषक्तु माता मही रसा नः स्मत्सूरिभिर्यजुहस्त ऋजुवनिः । (*siṣaktu mātā mahī rasā naḥ smatsūribhiryajuhasta ṛjuvaniḥ |*) (Ṛ. Saṃ. 54-41-15) **NOTE**
+the word Rasā is used. When explaining this Ṛk Sāyaṇa has said रसा सारभूता भूमिः (*rasā sārabhūtā bhūmiḥ*). But since this Ṛk has the word सिषक्तु (*siṣaktu*), "may she moisten", there is room for the surmise that the word Rasā here is specifically the river named Rasā. The name of the river Rasā is also indicated in the Ṛks Ṛ. Saṃ. 4-43-6; 10-75-6; 10-121-4; 5-53-9; 7-72-13, and so on.
+The seventy-fifth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सु व इति नवर्चं सप्तमं सूक्तं । प्रियमेधपुत्रस्य सिंधुक्षित आर्षं
+> जागतं नदीदेवताकं । तथा चानुक्रांतं । प्र सु नव सिंधुक्षित्र्ययमेधो
+> नदीस्तुतिर्जागतं श्विति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र सु व (*pra su va*) has nine Ṛks and is the seventh sūkta. It is the work of the seer Sindhukṣit, son of Priyamedha, its metre is Jagatī, and its deity is the rivers. So it is recorded in the Anukramaṇī: प्र सु नव सिंधुक्षित्र्ययमेधो नदीस्तुतिर्जागतं श्विति (*pra su nava siṃdhukṣitryayamedho nadīstutirjāgataṃ śviti*) **NOTE**. The use in the ritual has been stated (गतो विनियोगः (*gato viniyogaḥ*)).
+Anuvāda: This sūkta beginning प्र सु व (*pra su va*) is the seventh sūkta in the sixth Anuvāka. It has nine Ṛks. The seer of this sūkta is Sindhukṣit, the son of the seer Priyamedha; the deity is the rivers; the metre is Jagatī. In the Anukramaṇī it is said प्र सु नव सिंधुक्षित्मेधो नदीस्तुतिर्जागतं तु (*pra su nava siṃdhukṣitmedho nadīstutirjāgataṃ tu*). The use in the ritual has been stated before.
+Sūkta 75.
+Maṇḍala 10; Anuvāka 6; Sūkta 75.
+Aṣṭaka 8; Adhyāya 3; Varga 6, 7.
+Number of Ṛks in the sūkta: 9.
+Seer: सिंधुक्षितैयमेधः (*siṃdhukṣitaiyamedhaḥ*).
+Deity: पद्यः (*padyaḥ*) **NOTE**.
+Metre: जगती (*jagatī*).
+### Printed p. 99
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु व॑ आपो महि॒मान॑मुत्त॒मं का॒रुर्वो॑चाति॒ सद॑ने  ॒॑
+> वि॒वस्व॑तः ।  
+> प्र स॒प्तस॑प्त त्रे॒धा हि च॑क्र॒मुः प्र सृत्व॑रीणा॒मति॒ सिंधु॒रोज॑सा॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । वः । आपः । महिमानं । उत्तमं । कारुः । वोचाति । सदने । विवस्वतः ।  
+> प्र । सप्तसप्त । त्रेधा । हि । चक्रमुः । प्र । सृत्वरीणां । अति । सिंधुः । ओजसा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आपः वो युष्माकं महिमानं महत्त्वं स्तोत्रमत्तममुत्कृष्टतमं
+> कारुः स्तोता सिंधुक्षिदहं विवस्वतः परिचरणवतो यजमानस्य सदने यज्ञगृहे
+> सु सुष्टु प्र वोचाति । प्रब्रवीमि। ता नद्यः सप्तसप्त भूत्वा त्रेधा पृथिव्यामंतरिक्षे
+> दिवि चेति त्रिधा त्रिःप्रकारं चक्रमुः । प्रावहन् । सृत्वरीणामासां मध्यॆ सिंधुरेतन्नामिका नद्योजसा स्वबलेनाति सर्वा अपि नदीरतिक्रम्य प्रवहतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O waters, the praiser, Sindhukṣit, utters your greatness, that is, your majesty, as the most excellent praise, well (सु (*su*)) and fully (प्र वोचाति (*pra vocāti*), glossed प्रब्रवीमि (*prabravīmi*), "I proclaim"), in the dwelling, the sacrificial house, of Vivasvat, that is, of the institutor of the rite, who has attendants. Those rivers, becoming sevens each (सप्तसप्त (*saptasapta*)), flowed in three ways (त्रेधा (*tredhā*), glossed त्रिःप्रकारं (*triḥprakāraṃ*)), that is, on the earth, in the atmosphere and in heaven; चक्रमुः (*cakramuḥ*) is glossed प्रावहन् (*prāvahan*), "they flowed forth". Among these flowing rivers (सृत्वरीणां (*sṛtvarīṇāṃ*)) the river named Sindhu, by its strength (ओजसा (*ojasā*), glossed स्वबलेन (*svabalena*)), surpasses all the other rivers and flows on; the verb "flows on" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O waters
+- वः (*vaḥ*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- उत्तमं (*uttamaṃ*)—exceedingly
+- कारुः (*kāruḥ*)—the praiser
+- विवस्वतः (*vivasvataḥ*)—of the institutor of the rite
+- सदने (*sadane*)—in the sacrificial house
+- सु (*su*)—exceedingly
+- प्रवोचाति (*pravocāti*)—praises (those rivers)
+- सप्तसप्त (*saptasapta*)—in sevens
+- त्रेधा (*tredhā*)—in the three worlds beginning with the earth
+- त्रेधा (*tredhā*)—in three ways
+- चक्रमुः (*cakramuḥ*)—they flow
+- सृत्वरीणां (*sṛtvarīṇāṃ*)—among these flowing rivers
+- सिंधुः (*siṃdhuḥ*)—the Sindhu
+- ओजसा (*ojasā*)—by its own greatness
+- अति (*ati*)—surpassing everything
+- प्र (वहति) (*pra (vahati)*)—flows forth
+
+##### भावार्थ (Bhāvārtha)
+
+O waters, the praiser exceedingly praises your greatness in the house of the institutor of the rite. You break up into sevens and flow in three ways in the three worlds beginning with the earth. Among the flowing rivers the Sindhu, by its own greatness, surpasses all the rest.
+### Printed p. 100
+
+##### English translation
+Waters, the worshipper addresses to you excellent praise in the dwelling of the institutor of the rite; they flowed by sevens through the three (worlds); but the Sindhu surpasses (all) the (other) streams in strength.
+
+##### विशेषविषयगळु (Special Topics)
+
+सप्त सप्त (*sapta sapta*)—in the form of seven and seven rivers; the waters that fall from the atmosphere upon the earth as rain flow as (the principal) seven rivers and join the ocean. Of those seven rivers the river called Sindhu is the greatest of all the other rivers, that is, in the quantity of its water, in its breadth, in its length and in its speed; so the seer has described. Like these seven rivers on the earth, there are also seven rivers each in the atmosphere (the middle region) and in heaven (the names of these seven chief rivers are recited in the fifth Ṛk of this sūkta); this the seer made known by the words सप्त सप्त श्रेधा (*sapta sapta średhā*). But how the division into seven rivers applies to the waters that exist in the atmosphere and in heaven in the form of clouds is not clear. Perhaps the idea suggested may be that, since all the waters of the seven rivers on the earth exist in heaven and the atmosphere and fall from there upon the earth, these seven rivers (or their waters) were as if in heaven and the atmosphere.
+In this Ṛk the seer has addressed the waters with आहः (*āhaḥ*) **NOTE**, "O waters". But are the waters, which are lifeless things, endowed with consciousness? May they be regarded like human beings who have consciousness, or like gods? On this matter Yāska has given a special explanation—
+अथाकारचिंतनं देवतानां! पुरुषविधाः स्तुरित्येकं। चेतनावद्वद्धि स्तुतयोः भवंति । तथाभिधानाति । अथापि पुरुषविधिकैरंगैः संस्तूयंते । ऋष्वात इंद्र स्थविरस्य बाहू । यत्संगृभ्णामघवन्काशिरित्ते । अथापि पौरुषविधिकैर्द्रव्यसंयोगैः । आ द्वाभ्यां हरिभ्यामिंद्र याहि कल्याणीर्जाया सुरणं गृहे ते । अथापि पौरुषविधिकैः कर्मभिः । अद्दींद्र पिब च प्रस्थितस्य । आ श्रुत्कर्ण श्रुधी हवं ॥ (*athākāraciṃtanaṃ devatānāṃ! puruṣavidhāḥ sturityekaṃ| cetanāvadvaddhi stutayoḥ bhavaṃti | tathābhidhānāti | athāpi puruṣavidhikairaṃgaiḥ saṃstūyaṃte | ṛṣvāta iṃdra sthavirasya bāhū | yatsaṃgṛbhṇāmaghavankāśiritte | athāpi pauruṣavidhikairdravyasaṃyogaiḥ | ā dvābhyāṃ haribhyāmiṃdra yāhi kalyāṇīrjāyā suraṇaṃ gṛhe te | athāpi pauruṣavidhikaiḥ karmabhiḥ | addīṃdra piba ca prasthitasya | ā śrutkarṇa śrudhī havaṃ ‖*) (Ni. 7-6)
+When the seers praise the gods, they attribute to them form and the other things that human beings have, and praise them accordingly. Although human beings cannot know that the forms of the gods are just so
+### Printed p. 101
+by seeing them, it is natural to suppose that they also have hands, feet and other organs, as human beings have, who are seen by the eye every day. In the same way, attributing to the gods the limbs and other things that human beings have, the seers have praised them. In the passage ऋष्टात इंद्र स्थविरस्य बाहू यत्संगृध्नामघवन्माशिरित्ते (*ṛṣṭāta iṃdra sthavirasya bāhū yatsaṃgṛdhnāmaghavanmāśiritte*) the meaning is: O Indra, the fist of your strong arms holds the earth and the atmosphere firmly; this shows that Indra has arms and a fist as human beings have. In some other places it is said that the gods, like men, have the power of possessing wealth (property). In आ द्वाभ्यां हरिभ्यामिंद्र याहि कल्याणीर्जाया सुरणं गृहे ते (*ā dvābhyāṃ haribhyāmiṃdra yāhi kalyāṇīrjāyā suraṇaṃ gṛhe te*) there is mention of Indra's wife and house. In still other places the actions that human beings perform are attributed to the gods; in the sentences अद्दींद्र पिब च प्रस्थितस्य । आ श्रुत्कर्ण श्रुधी हवं (*addīṃdra piba ca prasthitasya | ā śrutkarṇa śrudhī havaṃ*) there is mention of actions such as eating, drinking and hearing: O Indra, eat the oblation prepared here, drink the Soma, hear our invocation with your ear.
+Some others say as follows—
+अपुरुषविधाः स्युरित्यपरं । अपि तु यद्धृश्यतेs पुरुषविधं तद्यथाग्निर्वायु रादित्यः पृथिवी चंद्रमा इति । यथो एतच्छेतनावद्वद्धि स्तुतयो भवंतीत्यचेतनान्यस्येवं स्तूयंते यथाक्षप्रभृतिन्नोषधिपर्यंतानि । यथो एततत्पौरुषविधिकैरंगैः संस्तूयंत इत्यचेतनेष्वष्टेतद्भवत्यभिक्रंदति हरितेभिरासभिरिति ग्रावस्तुतिः । यथो एतत्पौरुषविधिकैर्द्रव्यसंयोगैरित्येतदपि तादृशमेव । सुखं रथं युयुजे सिंधुरश्वनं इति नदीस्तुतिः ! यथो एतत्पौरुषविधिकैः कर्मभिरित्येतदपि तादृशमेव । होतुश्चित्तूर्वे हविरद्यमाशत इति ग्रावस्तुतिरेव । अपि वोभयविधाः स्युः । (*apuruṣavidhāḥ syurityaparaṃ | api tu yaddhṛśyates puruṣavidhaṃ tadyathāgnirvāyu rādityaḥ pṛthivī caṃdramā iti | yatho etacchetanāvadvaddhi stutayo bhavaṃtītyacetanānyasyevaṃ stūyaṃte yathākṣaprabhṛtinnoṣadhiparyaṃtāni | yatho etatatpauruṣavidhikairaṃgaiḥ saṃstūyaṃta ityacetaneṣvaṣṭetadbhavatyabhikraṃdati haritebhirāsabhiriti grāvastutiḥ | yatho etatpauruṣavidhikairdravyasaṃyogairityetadapi tādṛśameva | sukhaṃ rathaṃ yuyuje siṃdhuraśvanaṃ iti nadīstutiḥ ! yatho etatpauruṣavidhikaiḥ karmabhirityetadapi tādṛśameva | hotuścittūrve haviradyamāśata iti grāvastutireva | api vobhayavidhāḥ syuḥ |*) (Ni. 7-4)
+Others again say as follows. The gods may have no limbs, actions and so on such as human beings have, but since their actions and the like are seen by the eye, limbs and other things such as human beings have are attributed to those gods and they are praised. There is no fault in this. For example, fire, wind, the sun, the earth and so on are seen by our eyes, and their actions, burning, shining and so on, are within experience, so it must be said that the attribution of limbs and actions to those gods is natural. In some other cases it may be necessary to speak in this way even of lifeless things, as of the dice of gambling, the herbs and trees, the rivers, the stones that crush the Soma juice and other lifeless things, to which consciousness is attributed and which are praised as being like human beings
+### Printed p. 102
+engaging in actions. In the Śruti sentence सुखं रथं युयुजे सिंधुरश्विनं (*sukhaṃ rathaṃ yuyuje siṃdhuraśvinaṃ*) the river Sindhu is praised by describing her as having yoked a chariot. In the sentence अभिक्रंदंति हरितेभिरासभीः (*abhikraṃdaṃti haritebhirāsabhīḥ*) the stones that crush the Soma (the green colour of whose faces (mouths) is produced by crushing the Soma plants) cry out with their green mouths; here also the action of making a sound, as human beings speak with the mouth, is attributed to the stones and they are praised.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ऽरद॒द्वरु॑णो॒ यात॑वे प॒थः सिंधो॒ यद्वाजा॑ अ॒भ्यद्र॑व॒स्त्वं ।  
+> भूम्या॒ अधि॑ प्र॒वता॑ यासि॒ सानु॑ना॒ यदे॑षा॒मग्रं॒ जग॑तामिर॒ज्यसॆ ॥ २ ॥॑
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । अरदत् । वरुणः । यातवे । पथः । सिंधो इति । यत् । वाजान् । अभि ।  
+> अद्रवः । त्वं ।  
+> भूम्याः । अधि । प्रवता । यासि । सानुना । यत् । एषां । अग्रं । जगतां ।  
+> इरज्यसि ॥ २ ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सिंधो देवि ते तव यातने गमनाय वरुणो देवः पथो
+> मार्गान्पारदत् । प्राचीनं व्यलिखत् । सा हि प्राक् प्रवहति । अथवा प्रकृष्टमितरनदीभ्योऽपत्यंतं विस्तृतं व्यदारयत् । यद्यस्माद्दे सिंधो वाजानन्नान्यभिलक्ष
+> त्वमभ्यद्रवः अभ्यगच्छः । किंच त्वं भूम्या अध्युपरि सानुना समुच्च्रितेन प्रवता
+> मार्गेण यासि । गच्छसि । सिंधुः खलु पर्वतान्विभिद्य गता । यद्येन समुच्च्रितेन
+> मार्गेण गच्छंती त्वमेषां सर्वेषां जगतां जंगमानां प्राणिनामग्रं
+> प्रत्यक्षमिरज्यसि ईशिषे ॥
+
+##### Gist of the bhāṣya
+
+O goddess Sindhu, for your going Varuṇa the god has made the paths (पथः (*pathaḥ*), glossed मार्गान् (*mārgān*)): अरदत् (*aradat*) is glossed प्राचीनं व्यलिखत् (*prācīnaṃ vyalikhat*), "he drew it eastward", for she flows eastward. Or else, प्रकृष्टमितरनदीभ्योऽपत्यंतं विस्तृतं व्यदारयत् (*prakṛṣṭamitaranadībhyo 'patyaṃtaṃ vistṛtaṃ vyadārayat*): he split it open, extending it exceedingly beyond the other rivers. Because you, O Sindhu, have gone towards food (वाजान् (*vājān*) is glossed as food, अभ्यद्रवः (*abhyadravaḥ*) as "you went towards"), and further you go over the earth by a lofty road (सानुना (*sānunā*) and प्रवता (*pravatā*) are glossed as "raised up" and "road"), the Sindhu has indeed gone splitting the mountains. By which lofty road, going, you rule (इरज्यसि (*irajyasi*), glossed ईशिषे (*īśiṣe*)) in the sight of all these moving beings, that is, living creatures.
+### Printed p. 103
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधो (*siṃdho*)—O river Sindhu
+- यत् (*yat*)—for which reason
+- वाजान् (*vājān*)—looking to food
+- त्वं (*tvaṃ*)—you
+- अभ्यद्रवः (*abhyadravaḥ*)—you move swiftly, and therefore
+- ते (*te*)—your
+- यातवे (*yātave*)—for easy movement
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- पथः (*pathaḥ*)—the paths
+- प्रारदत् (*prāradat*)—has split open and set right
+- यत् (*yat*)—in which lofty region
+- एषां जगतां (*eṣāṃ jagatāṃ*)—to all these beings
+- अग्रं (*agraṃ*)—so as to be manifest
+- इरज्यसि (*irajyasi*)—you obtain lordship, such
+- भूम्याः अधि (*bhūmyāḥ adhi*)—upon the earth
+- सानुना (*sānunā*)—in the foothill region
+- प्रवता (*pravatā*)—in the sloping part
+- यासि (*yāsi*)—you flow
+
+##### भावार्थ (Bhāvārtha)
+
+O river Sindhu, for what reason you move swiftly towards food, for that very reason, for your easy movement, the god Varuṇa has split open and set right the paths. Upon the earth, in the foothill region, in the sloping part, in the lofty region where you obtain lordship so as to be manifest to all these beings, you flow.
+
+##### English translation
+For your course, Sindhu, Varuna tore open a path, since you hastened towards food ; you go by a lofty road down upon the earth, by which (road) you reign in the sight of all worlds.
+
+##### विशेषविषयगळु (Special Topics)
+
+O river Sindhu, you flow in the steep region of lofty mountains and the like. Varuṇa has made for you, by splitting the mountains and the like, such a difficult path along which you flow, so that you may flow easily. Because you flow, your waters become the cause of the growth of plants, and by that means supply food and other nourishment to all beings. Thus it is for the sake of supplying food and the like to beings, that is, for the good of the world, that you flow. Therefore you are the lord of all: this is the chief purport of this Ṛk.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वि स्व॒नो य॑तते॒ भूम्यो॒पर्य॑नं॒तं शुष्म॒मुदि॑यर्ति  ॒॑
+> भा॒नुना॑ ।
+
 ---
 
-**Progress note:** Done through printed p. 96. Sukta 75 introduction continued: Sarasvati, Visvamitra and the rivers (pp. 90-96)
+**Progress note:** Done through printed p. 103. Sūkta 75 Ṛks 1-2 (Sindhu hymn), Nirukta on personification of deities
