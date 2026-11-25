@@ -146,3 +146,16 @@ page	place	as_found	question	why_not_settled	decision
 295	Quotation	ವರ್ಣ್ಯವ್ಯತ್ಯಯೇನ, ಪದಕಾರ್ಯೈನ್ನಾಮ	Kannada misprints ವರ್ಣ್ಯವ್ಯತ್ಯಯೇನ, ಪದಕಾರ್ಯೈನ್ನಾಮ; English has varnavyatyayena, padakarair nama		English kept
 296	Quotation	ಅಧಿವಾಸಂ (twice)	Kannada prints adhivasam for both Shakalya and Atreya; English has adhyavasam for Atreya		English kept
 300	Prose	ಕಸ್ಯೈ	Kannada misprint ಕಸ್ಯೈ; English has kasmai		English kept
+301	Sayana quotation Kannada	Kannada misprints ಉಕ್ತರ್ವಾ, ಕಮೇರ್ಡಪ್ರತ್ಯಯಃ (for ಉಕ್ತ್ವಾ, ಕವೇರ್ಡ…)	Kannada misprint ukta-rvā/kamer-ḍa; English has the real forms		English kept
+302	Max Müller quotation and prose	Kannada OCR faults "Commentary!has", "Sine- qua non", ಪಡೆದಿದೇ	Kannada misprint Commentary!has / Sine- qua; English has "Commentary has" / "Sine qua non"		English kept
+305	Kramapatha heading and numeral row	Kannada ಕ್ರಮಸಾಕೆ, ಇತ್ಯುಚ್ಯುತೇ, ಪುನರಾವರ್ತಿಸಾಡ, number 13 in the word-number row (೧೦ ೧೧ ೧೧ ೧೩ ೧೨ ೧೨), ಜಟಾಪಾರಃ	Kannada misprint ಕ್ರಮಸಾಕೆ (for ಕ್ರಮಸಾರಃ), ೧೩ for ೧೨; English has Kramapatha and 12		English kept
+306	Jata formulas	Kannada prints ೨+೩+೩+೨+೯+೩ and ೪+೫+೫+೪+೮+೫; ವ್ಯುತ್ಕಮ; ಜಟಾಪಠವನ್ನು	Kannada misprint ೯ and ೮ in the Jata formulas; English has 2+3+3+2+2+3 and 4+5+5+4+4+5		English kept
+307	Jata heading	Kannada ಜಟಾಪಾರಕ್ಕೆ, ಎಂವರೆ	Kannada misprint ಜಟಾಪಾರ/ಎಂವರೆ; English has Jatapatha / "that is"		English kept
+308	Ghana definition	Kannada ತತ್ತ್ವದಾನಾಂ ಪ್ರಸಹನಂ, ರಾಜ್ಞೆತಿ	Kannada misprint in the Ghana lakshana; English Devanagari is derived data and not edited		English kept
+319	Roots taksh/jan sentence	Kannada ತಕ್ಸ್--ಜನ್-ರೂಪತಾಳು, ಜನ್ಮತಾಳು	Kannada garbled (tak-/jan- roots); English reads them as roots meaning to take form / birth		English kept
+320	Sanskrit citations	Kannada ಏನೇನ್ನು ಕಂ ದಾಶರಾಜ್ಞೇ, ಮಂತ್ರಂ ಯೇ ವಾರಂ, ತಸ್ಮಾ ಉಕಥಂ	Kannada misprints in the Sanskrit citations; English citations are derived data		English kept
+321	Phoenician paragraph	Kannada ಆರೈರು, ಪಾಸವಾಗಿದ್ದು, ಬ ರೀ, ಮೆಡಿಟರೇನಿರ್ಯ	Kannada misprints for ಆರ್ಯರು, ವಾಸವಾಗಿದ್ದು, ಬರೀ, ಮೆಡಿಟರೇನಿಯನ್; English has Aryans / lived		English kept
+326	River names	Kannada ಪರುಷ್ಠಿ ಇರಾವತಿ(ರಾವಿ), ವಿಸಸ್(ಬಿಯಾಸ್), ಕುಭಾ(Kubal), ಆರೈರು	Kannada misprint Kubal; English has Kubha (Kabul), Parushni, Vipas		English kept
+327	Crafts and household	Kannada ಅರರಿಗೆ, ಒಲೆಮೆಯ ಕಟ್ಟು, ಪ್ರೀಹಿಮತ್ತಂ ಯನಮತ್ತಂ	Kannada misprint for ಆರ್ಯರಿಗೆ, ಒಲುಮೆಯ; English has Aryans / bond of love		English kept
+328	Atharvaveda and Manu references	Kannada ಅರ್ಥವೇದ for ಅಥರ್ವವೇದ	Kannada misprint ಅರ್ಥವೇದ; English has Atharvaveda		English kept
+329	Bollensen and Aryan	Kannada ಬೊಲ್ಲೆರ್ಸ, ಅರ‍್ಯ	Kannada misprint ಬೊಲ್ಲೆರ್ಸ; English has "Bollensen"		English kept

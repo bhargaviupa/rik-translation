@@ -4680,27 +4680,27 @@ One side of the picture has been given above; the other cannot be ignored. Consi
 
 > "...fortress of Vedic language and Vedic religion, and how much even they, without being aware of it, are indebted to that Indian Eustathius.....Who does not know how much assistance may be derived from a first translation, even though it is imperfect, nay, how often the very mistakes of our predecessors help us in finding the right track? If we can now see further than he could, let us not forget that we are standing on his shoulders."
 
-Anyone examining Vedic scholarship will see that Sayanacharya's commentary, faults and all, has not been surpassed. Even its critics must acknowledge its special mastery.
+Anyone who examines how Vedic study has proceeded must admit that, whatever its faults and omissions, Vedic study would not be possible without Sayanacharya's commentary. Those who have only recently entered this field may decry it as written merely to display scholarship; but those who revile the commentary do not know how helpful it is for first entering this impregnable fortress, nor what a skilled guide Sayanacharya is, nor how much they themselves are indebted to it. Who does not know that a first translation of any work, however faulty, is very useful, and that the faults of the first attempts help later workers and make them follow the right road and leave the by-paths? So if we can now explain better than Sayanacharya, we must not forget that we came this far with his help. Like Max Müller, every student of the Veda who thinks calmly must gratefully remember the service rendered by Sayanacharya.
 
-This field was not empty before Sayana, nor did he claim to be its first pioneer — as already discussed, earlier commentaries offered real help, but Sayana's own text has one quality theirs lack: ease of understanding without excessive effort. Sayanacharya himself, in composing his commentary, drew on and names many predecessors: Bhattabhaskara, Skandasvami, Atmananda, the Nirukta-authors, Bashkala, Kashyapa, the Aitihasikas (traditional historians), the Naidanas (Nidana-sutra experts), grammarians (Vyakaranikas), tradition-bearers (Sampradaya-vids), self-knowers (Atmavids), elder-teachers (Vriddhashasanas), and earlier commentary-authors such as Devasvami — among others.
+As already said, Sayanacharya gives several derivations for a single word, and for a single mantra not only his own view but also the views of earlier scholars. Many earlier views and works are cited, but nothing is properly told about them. He mentions Bhattabhaskaramishra, Skandasvami, Kapardisvami and others, and uses the terms Nairukta (the Nirukta authors), Aitihasika (the Puranikas), Shabdika (the grammarians), Sampradayavid (those who knew the tradition), Atmavid (the knowers), Vriddhashasana, Purve bhashyakritah (the earlier commentators) and Apare kechana (some others). So many had worked in this same field by the time Sayanacharya composed his commentary, and it must be said that he composed it on the basis of their works.
 
-Other lesser-known Rigveda commentaries are also mentioned in passing: the Ravana-bhashya, Kaushika-bhashya, Gaudartha-vritti, and works by scholars in the lineage of Bhavasvami, Sthanaka, and Madhavadeva. None of these approach the completeness of Sayanacharya's own commentary, and none survive to us today.
+The names of some other Ṛgveda commentaries also occur: the Ravana-bhashya, the Kaushika-bhashya, the Gudhartharatnamala and others. Devaraja, the commentator on the Nirukta, cites in his commentary the Veda-commentaries of Bhavasvami, Rahadeva, Shrinivasa, Madhavadeva and others. All these seem to be earlier than Sayanacharya, but none of their works can now be found.
 
 
 ### Page 303
 
-Mahidhara's and Uvata's Yajurveda-commentaries, though well-known, offer no help for the Rigveda — only the commentaries already discussed serve that purpose.
+The Yajurveda commentaries of Mahidhara and Uvata are very famous, but they are not so helpful for the Ṛgveda commentary; only in understanding the ṛks that are common to the Ṛgveda and the Yajurveda can the two commentaries be compared.
 
-Vedic scholars' efforts to preserve the Veda over the centuries deserve real praise, but must be acknowledged as offering little direct help in determining the Veda's *meaning*. The ancients did not rely on written texts alone in investigating Vedic meaning — in that early era, texts hadn't gained much traction, so a **guru would teach the Veda orally**, mouth to ear, imparting correct pronunciation directly, generation after generation. The guru pronounced each word distinctly and in order; the disciple listened and repeated it back, as many times as needed; mispronunciations were corrected on the spot. Because sustained accurate recitation of lengthy metrical passages required long practice from childhood, words were taught divided into two or three portions at a time, with a sukta, a full chapter, or occasionally two or three chapters assigned according to the student's capacity.
+Vedic scholars' efforts to preserve the Veda over the centuries deserve real praise, but must be acknowledged as offering little direct help in determining the Veda's *meaning*. The ancients did not rely on written texts alone in investigating Vedic meaning — in that early time language had no script or similar means, so a **guru would teach the Veda orally**, mouth to ear, imparting correct pronunciation directly, generation after generation. The guru pronounced each word distinctly and in order; the disciple listened and repeated it back, as many times as needed; mispronunciations were corrected on the spot. Because sustained accurate recitation of lengthy metrical passages required long practice from childhood, words were taught divided into two or three portions at a time, with a sukta, a full chapter, or occasionally two or three chapters assigned according to the student's capacity.
 
-Study paused on Paurnamasa, Ashtami, Chaturdashi, Purnima, and eclipse days. Each morning, after his own rituals, the guru assigned the day's or week's new lesson in fixed sequence; students practiced the previous lesson before receiving the new one. In this way, students worked through the entire Samhita along with its corresponding Brahmana, Aranyaka, and Upanishads — alongside the Vedangas (Shiksha, etc.), Kalpasutra, Dharmashastra, Puranas, and Itihasa — pausing during the Ashadha rainy season. This full course was reckoned to take roughly **twelve years**.
+On the days other than the non-study days (Pratipad, Ashtami, Chaturdashi, Purnima, Amavasya and Sankramana), early in the morning, after bath, sandhya, the fire-rite and the other morning duties, the disciple sits humbly near the guru, facing north, and the guru teaches him the lesson daily for a month or more. When the lesson seems enough, the guru begins the next in the same way, and the disciple recites the earlier lesson well every day, as the guru said. While he studies the Veda in this way, at midday and whenever else there is opportunity he also studies the six Vedangas (Shiksha and the rest), the Kalpasutra, Dharmashastra, Puranas and Itihasa and other books. It was decided that to study one Veda completely in this way takes roughly **twelve years**.
 
-Beginning Vedic study required prior **upanayana** (the sacred-thread initiation with the Gayatri mantra) — without it, one had no standing to study the Veda at all. Throughout the period of study, the student had to reside in the guru's own household, serving him and his elders with reverence. These regulations appear in the Grihyasutra texts...
+Beginning Vedic study required prior **upanayana** (the sacred-thread initiation with the Gayatri mantra) — without it, one had no standing to study the Veda at all. Throughout the period of study, the student had to reside in the guru's own household, serving him with devotion. These regulations appear in the Grihyasutra texts...
 
 
 ### Page 304
 
-...After completing Vedic study, following personal capacity and available time, further shastras (or other Vedas) could be studied; the disciple would then take leave of the guru with a satisfying dakshina and return home, studies complete. This is the ancient tradition.
+...When the study of one's own shakha is complete, if there is time and capacity, the other shakhas (the other Vedas) may also be studied. After the studies are over, the disciple satisfies the guru with a fitting dakshina, performs the snataka-vrata, marries and may become a householder. This is the ancient tradition.
 
 ### The Method of Vedic Study
 
@@ -4744,7 +4744,7 @@ Here the words are marked with the numbers 1, 2, 3 (and so on). This mantra has 
 
 > १ओषधयः २सं । २सं ३वदन्ते । ३वदन्ते ४सोमेन । ४सोमेन ५सह । ५सह ६राज्ञा । ६राज्ञेति ६राज्ञा ॥ ७यस्मै ८कृणोति । ८कृणोति ९ब्राह्मणः । ९ब्राह्मणः १०तम् । १०तं ११राजन् । ११राजन् १२पारयामसि । १२पारयामसि १२पारयामसि ॥
 
-That is: each word is paired with the next and recited together, following the Samhita's phonetic-junction rules — first words 1+2, then dropping word 1 and pairing 2+3, and so on to the sentence's end, where the final word is repeated twice, observing the clause's proper concluding form (e.g., "rājñeti rājñā"). Compound (samasa) words use avagraha marking similarly — e.g., "purohitam iti puraḥkṛtam," "ṛtaṃ dhāta iti ṛtabhṛtam." Kramapatha builds accent-proficiency and helps in correctly word-dividing any Vedic mantra.
+That is: each word is paired with the next and recited together, following the Samhita's phonetic-junction rules — first words 1+2, then dropping word 1 and pairing 2+3, and so on to the sentence's end, where the final word is repeated twice, observing the clause's proper concluding form (e.g., "rājñeti rājñā"). Compound (samasa) words use avagraha marking similarly — e.g., "purohitam iti puraḥ 'hitaṃ," "ratnadhātamam iti ratnadhātamaṃ." Kramapatha builds accent-proficiency and helps in correctly word-dividing any Vedic mantra.
 
 ### 4. Jatapatha (Braided Recitation)
 
@@ -4767,13 +4767,13 @@ Example: Anuloma (forward) 1+2; Viloma (reverse) 2+1; Anuloma (forward) 1+2.
 >
 > "In the Krama pair, one should twice repeat the latter word with the former; having done so, then repeat the former with the next following pair likewise — proceeding continuously in this way, this is called 'Jata.'"
 
-Example: Krama = 1+2; Vikrama (reverse) = 2+1; Sankrama = 1+2.
+Example: Krama = 1+2; Vyutkrama (reverse) = 2+1; Sankrama = 1+2.
 
 That is, Jatapatha requires this word-joining pattern: **1+2+2+1+1+2**, then (dropping word 1) **2+3+3+2+2+3**, then **3+4+4+3+3+4**, then **4+5+5+4+4+5**, then **5+6+6+5+5+6**, and so on.
 
-**Example:** *oṣadhayaḥ saṃ samoṣadhyaya oṣadhayaḥ saṃ | saṃ vadante vadante saṃ saṃ vadante* — and so forth.
+**Example:** *oṣadhayaḥ saṃ samoṣadhaya oṣadhayaḥ saṃ | saṃ vadante vadante saṃ saṃ vadante* — and so forth.
 
-Within Jatapatha, five distinct patterns of word-combination occur, named **Krama, Utkrama, Vikrama, Abhikrama,** and **Sankrama** — each is explained by example below:
+Within Jatapatha, five distinct patterns of word-combination occur, named **Krama, Utkrama, Vyutkrama, Abhikrama,** and **Sankrama** — each is explained by example below:
 
 **(1) Krama** — one word joined with the next (1+2). Example: *oṣadhayaḥ sam || sam vadante || vadante somena ||* etc.
 
@@ -4782,13 +4782,13 @@ Within Jatapatha, five distinct patterns of word-combination occur, named **Kram
 
 ### Page 307
 
-**(3) Vikrama** — a word joined with the preceding one (2+1, 3+2). Example: *samoṣadhayaḥ | vadante sam | somena vadante* etc.
+**(3) Vyutkrama** — a word joined with the preceding one (2+1, 3+2). Example: *samoṣadhayaḥ | vadante sam | somena vadante* etc.
 
 **(4) Abhikrama** — following Utkrama, the first word repeated twice again in succession (1+1). Example: *oṣadhaya oṣadhayaḥ* etc.
 
 **(5) Sankrama** — repeating the original Krama pairing once more (1+2). Example: *oṣadhayaḥ sam* etc.
 
-| Krama | Utkrama | Vikrama | Abhikrama | Sankrama |
+| Krama | Utkrama | Vyutkrama | Abhikrama | Sankrama |
 |---|---|---|---|---|
 | 1+2 | 2+2 | 2+1 | 1+1 | 1+2 |
 
@@ -4835,7 +4835,7 @@ The Varaha Purana states on this matter:
 That is: mastery of Samhita, Padapatha, Kramapatha, correct pronunciation, accent, and duration qualifies one as a skilled acharya. Complete study of the Samhita alone brings merit; Padapatha study doubles it; Kramapatha triples it; Jatapatha brings sixfold merit — so states the Varaha Purana.
 
 
-## Chapter Eighteen — Modern Efforts in Vedic Study
+## Chapter Nineteen — Modern Efforts in Vedic Study
 
 *(Chapter number as legible; sequence continues from the previous chapter.)*
 
@@ -4843,63 +4843,63 @@ That is: mastery of Samhita, Padapatha, Kramapatha, correct pronunciation, accen
 
 Having clarified in earlier chapters what the Veda and Vedangas are, and explained the Rigveda in specific detail, we now turn to examining the proper method of Vedic study, reviewing both modern and ancient efforts made toward it.
 
-As Western scholars came to our country, many took up the study of our literature. Even as some of our own scholars neglected our ancient culture, foreigners embraced these texts, writing extensively in books and articles — editing, republishing, critically examining, dating texts, studying ancient coins, and publishing old palm-leaf manuscripts. Western effort in this regard deserves particular mention, extending beyond the Vedas themselves to the Vedangas as well. Among Western scholars, **German scholars in particular have excelled** — owed to German's own recorded historical-linguistic connection to Sanskrit, a connection no other Western language shares to the same degree. Western scholars find it natural to critically examine texts this way; our own readers, working from more traditional viewpoints, have found a purely academic approach less immediately comfortable to adopt. It must be acknowledged, though, that Western scholarship has shown one imprudent tendency: treating certain received Vedic traditions as unnecessary to accept at face value — though this isn't every Western scholar's stated position. Since this discipline is comparatively recent, it's unsurprising that not everything in their work is fully correct — but this doesn't diminish its overall value; these texts remain extremely useful for understanding the Vedas.
+As Western scholars came to our country, many took up the study of our literature. Their regard for our country's ancient culture is shown by the articles and books they have written after reading our texts — editing, republishing, critically examining, dating texts, studying ancient coins, and publishing old palm-leaf manuscripts. Western effort in this regard deserves particular mention, extending beyond the Vedas themselves to the Vedangas as well. Among Western scholars, **German scholars in particular** have studied the Vedic texts more than any others. The Ṛgveda has not been translated into any language of our country, but there are two translations in German and two in English; notes and articles on the Veda are countless; and there is a Sanskrit dictionary in German written from the historical point of view, such as no other language has. Western authors have one advantage in criticism: our writers cannot easily write or criticise in a way that puts the subject first and leaves aside certain traditional opinions, whereas Westerners can easily give priority to the subject. Their writing has also one disadvantage: to grasp many points in the Vedas, acquaintance with the tradition is essential, and without it the meaning is not understood. Because of this difficulty, everything written in Western books cannot be accepted as correct. For this reason, however, the value of their work should not be thought small; those books are very useful to anyone eager to understand the Veda.
 
 Let us now briefly examine the modern efforts made toward Vedic study.
 
 
 ### Page 310
 
-In the mid-18th century, the French writer **Voltaire** spoke highly of Brahmins' wisdom, and a text called "Ezour-Vedam" (a spurious "Veda") became known at Oxford in translation. **William Jones** translated Kalidasa's *Shakuntala* into English. **Colebrooke** later wrote an influential essay on the Vedas.
+In the middle of the eighteenth century the well-known French writer **Voltaire** praised the intellectual power of the Brahmins that is seen in the four Vedas. In 1784 the Asiatic Society of Bengal was founded to study ancient literature. **Wilkins** translated the Bhagavad Gita the next year. In 1805 **Colebrooke** wrote an essay on the subject "The Vedas are the sacred books of the Hindus". It is commendable that he wrote such a valuable essay in the conditions of that time.
 
-Colebrooke's essay deserves special mention for candidly describing the Veda's linguistic difficulty, advising that no one seeking full understanding of the Veda should neglect this challenge. His observations held for a long time, though later, deeper Sanskrit scholarship moved past some of his specific conclusions — even so, his pioneering effort, undertaken before Sanskrit studies had matured, deserves real credit.
+At the end of the essay he wrote: "The language of the Veda is very difficult. To read and translate the whole Veda is hard; great effort is needed to grasp the profound matters in it; but those who study Oriental literature must look into these books from time to time." These views cannot be called correct. But it is a great wonder that those who earlier disliked Sanskrit and abused those who studied it, once they began the study of the Veda, praised it without reserve and became guides to later students of Sanskrit.
 
-Following him, the French scholar **Eugène Burnouf** edited and published the Rigveda Samhita from many gathered manuscripts, building on Colebrooke's work — though he could complete only part of it before his death.
+Twenty years later the German scholar **Rorse** set out to publish the Ṛgveda Saṃhitā on the basis of the palm-leaf manuscripts Colebrooke had collected, but he died before a very small part had been printed.
 
-The German scholar **Rudolph Roth**, in the *St. Petersburg Sanskrit-German Lexicon* (8 volumes), traced Vedic-era word usage across all its varying senses with example sentences for each — a work whose usefulness Vedic scholars still rely on today.
+The St. Petersburg Sanskrit-German Lexicon (7 volumes), published under the editorship of the two scholars **Roth** and **Bothling**, shows their devotion and industry. In it, for each word, the changes of meaning from the Vedic period to the present, and all the sentences in which the word occurs, are brought together and explained. No student of the Veda can deny the usefulness of this dictionary.
 
-The German scholar **A. Weber** wrote *Indische Studien*, covering the Vedas, Vedanta, grammar, Nirukta, and lexicography comprehensively, as well as the well-known *History of Sanskrit Literature*.
+The German scholar **A. Weber** wrote *Indische Studien*, covering the Vedas, Vedanta, grammar, word-collections and the like comprehensively, as well as the well-known *History of Sanskrit Literature*.
 
-The German scholar **Franz Bopp** studied Sanskrit primarily for comparative linguistics rather than Vedic interpretation specifically — his writings are more introductory in nature, focused on language comparison across the broader Indo-European family rather than Sanskrit alone. Even so, his contribution to Sanskrit scholarship generally was substantial...
+**Max Müller**, a man of great intellect, stands foremost among those who studied the Sanskrit language and wrote books; there is no branch he has not touched. He has written on the interpretation of the Veda, the science of language, history, Vedanta, grammar and every other subject. All his writings are in the form of lectures, and his style is very simple; it has been a great help in making the Sanskrit language and learning popular. More than all this, he did not study Sanskrit as a foreigner; with the same attitude as our own countrymen would have...
 
 
 ### Page 311
 
-...whether Bopp's stated neutrality actually held up in practice is a separate question — writers sharing his broad perspective generally accept traditional textual views as authoritative up to a point, but depart from tradition once critical examination begins, giving priority to the subject itself over inherited convention. Truly impartial scholars on Hindu-shastra topics remain genuinely rare.
+...he studied as one of us. Because he wrote with that same attitude, he generally presented the opinions of the books according to tradition; but when criticising he did not write like one bound to tradition; he gave priority to the subject. In Hindu shastra no other European scholar has written as impartially as he.
 
-Remarkably, the **first printed edition of the sacred, ancient Rigveda Samhita** was not published in India at all — a German scholar, **Max Müller**, edited it together with Sayana's commentary and published it in England. This edition became the foundation of modern Vedic study; before it, study proceeded solely through oral instruction. Max Müller also wrote *Ancient Sanskrit Literature*, extensively covering Vedic literature and publishing much previously unavailable material alongside Vedic citations — a work whose usefulness for correctly understanding Vedic meaning remains undiminished even today.
+Remarkably, the **first printed edition of the sacred, ancient Rigveda Samhita** was not published in India at all — a German scholar, **Max Müller**, edited it together with Sayana's commentary and published it in England. This edition became a firm foundation for the study of the Veda; from then on the study went forward in an orderly way. Max Müller also wrote *Ancient Sanskrit Literature*, extensively covering Vedic literature and publishing much previously unavailable material alongside Vedic citations — a work whose usefulness for correctly understanding Vedic meaning remains undiminished even today.
 
-Among later scholarship, **Muir's** *The Original Sanskrit Texts* stands out as especially important — arranging citations from many texts in order to reach reasoned conclusions. In Muir's own words:
+Among later scholarship, **Muir's** *The Original Sanskrit Texts* (5 volumes) stands out as especially important — arranging citations from many texts in order to reach reasoned conclusions. In Muir's own words:
 
 > "In treating the several topics....I propose in each case, to adduce, first any texts bearing upon it, which may be found in the hymns of the Rigveda; next, those in the Brahmanas and their appendages, and lastly, those occurring in any of the different classes of works coming under the designation of Smriti."
 
-That is: for each topic, he first cites relevant Rigveda material, then the Brahmanas and their appendages, and finally the various Smriti-class texts — covering the Vedangas, Shrautasutras, Grihyasutras, Manu and other Dharmashastras, and the Puranas. From this, our own ancient writers' opinions on various matters, and how these opinions shifted across eras, become clear. Topics covered include the caste order, Brahmin-Kshatriya relations, connections between Hindus and other peoples (Greeks, Romans), the linguistic evidence for the Vedas' origin and authority, Hindu history, and life in Vedic-era society. This book is immensely useful for any serious student of the Rigveda.
+That is: for each topic, he first cites relevant Rigveda material, then the Brahmanas and their appendages, and finally the various Smriti-class texts — covering the Vedangas, Shrautasutras, Grihyasutras, Manu and other Dharmashastras, and the Puranas. From this, our own ancient writers' opinions on various matters, and how these opinions shifted across eras, become clear. Topics covered include the caste order, Brahmin-Kshatriya relations, the relations between the Hindus, Persians, Greeks and Romans, the linguistic evidence for the Vedas' origin and authority, Hindu history, and life in Vedic-era society. This book is immensely useful for any serious student of the Rigveda.
 
 
 ### Page 312
 
-**Dr. Haug** published a Brahmana text with an attractive, detail-rich introduction.
+**Dr. Haug** published the Aitareya Brahmana; its introduction is very attractive and contains many useful points.
 
-**Wilson** produced a complete English translation of the Rigveda (and also translated the Vishnu Purana and wrote *Hindoo Theatre*). His Rigveda translation closely follows Vedic-language meaning, especially in its early volumes — by his own account, he avoided speculative interpretation where meaning was unclear, preferring to follow Sayana's own commentary over divergent Western annotations wherever the two differed. In a place or two his own era's assumptions surface, but this doesn't diminish the work's overall value.
+The oldest of the translations of the Ṛgveda is **Wilson's**. He also translated the Vishnu Purana and wrote a book called *Hindoo Theatre*. His translation of the Ṛgveda is very old and the first of such attempts. In Wilson's view, no one is as qualified as the Hindus to write the sacred books of the Hindus; however eager European scholars may be, they cannot convey the sense of the original without contradicting it; native commentaries are better than Western notes, and of the native commentaries Sayana's bhashya is the best. Therefore Wilson wrote his translation following Sayanacharya, and it is useful where Sayana's commentary is not clear. On the whole, Wilson's translation has lost some of its authority as new matters have come to light in course of time.
 
-**Ludwig** and **Grassmann**, German scholars, each produced independent German translations with markedly different prose approaches from one another — and both differed sharply from Wilson in places, rejecting the idea that the Veda's meaning can be fully recovered through tradition alone, instead pursuing critical/historical determinations that sometimes yield divergent conclusions.
+The two German translations by **Ludwig** and **Grassmann** deserve attention; the first is in prose and the second in verse. Both hold views entirely opposed to Wilson's: they think that the true meaning of the Veda cannot be known by Hindus bound to tradition. Wherever possible they try to decide matters from the critical or historical point of view, and because of this their conclusions are in many places peculiar.
 
 **Grassmann** also produced a small but valuable Sanskrit-German dictionary specifically for the Rigveda, gathering, for every word, where it occurs in the ṛks of all ten Mandalas, and noting the differences of meaning found in its places.
 
-**Kaegi** wrote in 1880 a critical German-language study of the Rigveda's subject matter (later translated into English) — cited repeatedly throughout the present work.
+**Kaegi** wrote in 1880, in German, a lecture on the Ṛgveda; though short, it is very well written from the point of view of criticism. It has been translated into English.
 
-**Geldner** and **Pischel**, two German scholars, jointly produced a Vedic-studies volume clarifying how the Veda's meaning should properly be approached. They re-examined obscure or seemingly contradictory Vedic words, tracing them to their proper forms and offering fresh, previously unclear interpretations; several suktas were re-translated into German with word-by-word glosses, etymological notes, and commentary surveying all prior interpretive attempts...
+**Geldner** and **Pischel**, two German scholars, jointly produced a Vedic-studies volume clarifying how the Veda's meaning should properly be approached. They re-examined obscure or seemingly contradictory Vedic words, tracing them to their proper forms and offering fresh, previously unclear interpretations; several suktas were re-translated into German with notes on the words and on the formation of the words, showing the method of studying the Vedic mantras...
 
 
 ### Page 313
 
 ...their conclusions blend ancient and modern viewpoints, neither fully accepting tradition nor entirely rejecting it without reason — a genuinely balanced approach.
 
-**Whitney's** grammar is a highly valued text, generally more connected to modern Sanskrit scholarship than other current grammars — but it also makes a deliberate effort to show Vedic and classical grammatical forms side by side wherever they diverge (e.g., *devaḥ, devasya, devebhiḥ, devaiḥ*, with Vedic variants noted alongside). Its treatment of pronunciation is likewise extremely useful.
+**Whitney's** grammar is a highly valued text, the grammars in common use all relate to later Sanskrit, but this grammar attempts to bring Vedic and non-Vedic grammar together; when the forms of a noun are given, the Vedic forms stand with them (e.g., *devāḥ, devāsaḥ; devaiḥ, devebhiḥ*, both forms standing together). Its treatment of pronunciation is likewise extremely useful.
 
-**Prof. Oldenberg's** introduction to his own translation greatly assists Vedic students — discussing meter, grammar, etymology, and related matters for individual mantras and Brahmanas, and citing interpretations found across German, French, and English scholarship on each point, giving readers a comprehensive single-source overview of the field's major interpretive positions.
+**Prof. Oldenberg's** commentary on the Ṛksaṃhitā greatly assists Vedic students — discussing meter, grammar, etymology, and related matters for every mantra, and citing interpretations found across German, French, and English scholarship on each point, giving readers a comprehensive single-source overview of the field's major interpretive positions.
 
-These works, published through journals of the **German Oriental Society, The American Oriental Society,** and **The Royal Asiatic Society of Great Britain and Ireland** among others, are not lacking in scholarly rigor.
+Besides the books mentioned above there are countless articles and reviews; these have been printed in the journals of such bodies as the **German Oriental Society, The American Oriental Society,** and **The Royal Asiatic Society of Great Britain and Ireland**.
 
 **Bloomfield's** *Concordance to Rigveda*, and **Prof. Macdonald and Dr. Keith's** *Vedic Index of Names and Subjects*, represent enormous European scholarly labor. Related works worth mentioning include Prof. Lenman's *Noun Inflection in the Veda*, Dr. Arnold's *Vedic Metre*, and Bloomfield's *American Lectures on the Religion of the Veda*.
 
@@ -4908,39 +4908,39 @@ Among **Indian** scholars, **S. P. Pandit** began translating the Rigveda into b
 
 ### Page 314
 
-**Tilak** wrote two independent works, *The Orion* and *The Arctic Home in the Vedas* — both concerning Vedic chronology and astronomy: the first proposing a dating for the Vedic period based on astronomical calculation (not fully accepted by later scholars), the second arguing for an Arctic/polar original homeland for the Aryans.
+**Tilak** wrote two independent works, *The Orion* and *The Arctic Home in the Vedas* — both critical studies of the Veda: the first discusses the date of the Veda (the Ṛgveda is thousands of years older than the date fixed by European scholars), the second the dwelling-place of the Aryans (the Aryans first lived near the North Pole).
 
-Efforts continue as well to spread understanding of the Veda more broadly among ordinary readers, in English and in regional languages — useful work in its own way, even where methods remain debated.
+**Shrutibodha** is a recent effort; its aim is to translate the Veda into English and the native languages so that ordinary people can understand it. Though it does useful work in its own way, it is not of much use to one who studies the subject scientifically.
 
-Vedic-subject scholarship and critique continue to be published even now, with a good deal of further work still unpublished and ongoing.
+Recently many articles and reviews on the Veda are being published; independent and lasting publications among them are rare.
 
 ---
 
-## Chapter [Nineteen] — The Method of Studying the Veda
+## Chapter Twenty — The Method of Studying the Veda
 
 *(Chapter number as legible; sequence continues from the previous chapter.)*
 
 Having now surveyed the work of ancient and modern scholars toward Vedic study, let us examine how the Veda itself should be studied to grasp its meaning — what attitude a student should bring, and what the aim of such study should be.
 
-Every student, in their school years, reads many textbooks across subjects, generally aiming to pass examinations. But should the goal be merely passing exams, or genuinely acquiring the knowledge those books contain? Should the goal belong to the teacher, the student, or both? There should be no aimlessness at all — the goal should be set appropriately to the student's stage of education, age, chosen field, and station in life...
+Every student, in their school years, reads many textbooks across subjects, generally aiming to pass examinations. Is his aim merely to pass the examinations, or to remember what the books contain? What should the teacher's aim be? For neither teacher nor student are these the aim; they should not be. After his schooling is over, according to his age, the grade of his learning, his station in life...
 
 
 ### Page 315
 
 ...applying one's own intellectual capacity in any context, and determining how to benefit oneself and others — or grasping the underlying principle of any new subject encountered through experience — is, at minimum, what education should achieve.
 
-For a student, the primary goal of Vedic study should be genuine knowledge-seeking: gathering material, examining it broadly, comparing traditional and other viewpoints on difficult points, and reaching one's own reasoned determination — this is the mark of a true student. Since some mantras and words carry genuinely uncertain meaning, Vedic study demands real seriousness; conclusions should be earned through effort and held with confidence, not settled prematurely or left in confusion.
+For a student, the primary goal of Vedic study should be genuine knowledge-seeking: gathering material, examining it broadly, comparing traditional and other viewpoints on difficult points, and reaching one's own reasoned determination — this is the mark of a true student. It is not enough to learn the meaning and translation of certain mantras and words. One who studies the Veda must have patience (he must not rush to a conclusion), must not give up effort, and, beyond these two, must not be narrow-minded (he must not hold any opinion, good or bad, about it before reading). Study without these three is wasted.
 
 **Astikas** (orthodox believers holding the Veda to be non-human and self-authenticating in origin) treat the Veda as wholly divine, its authority beyond question, valuing Vedic study chiefly for its own merit rather than critical instruction. Sayanacharya, working from this same standpoint and his own expertise in ritual matters, treats yajna-related explanation as primary throughout his commentary — applying no critical or historical lens to the Veda, and never doubting its unified authority, even where the Rigveda itself shows no single unified textual foundation or subject.
 
 As already discussed, Sayanacharya's traditionalist approach accepts received opinion; where interpretations genuinely conflict, he doesn't insist on a single fixed meaning, nor does he require every determined meaning to rest on demonstrable proof — settling on an ungrounded meaning didn't trouble him the way it does modern critical scholarship.
 
-Western scholars, by contrast, approached Vedic study critically from the outset. Some, in critiquing fellow Westerners, argue that Sayanacharya should still be given priority in establishing the Veda's meaning...
+Western scholars, by contrast, approached Vedic study critically from the outset. Among them there were some, such as Wilson, who said that to explain the meaning of the Veda only one like Sayanacharya is qualified...
 
 
 ### Page 316
 
-...say the Acharyas [should be given final authority] — arguing Sayana's commentary shows the correct path. But **Roth**, without altering Vedic study's core principles, adopted a modern critical approach from the outset — using inductive reasoning and cross-contextual comparison as his main tools, examining the Rigveda historically, gathering every occurrence of a word, comparing its usage alongside related terms, and tracking its meaning's evolution over time. Where Roth and like-minded scholars erred was in discarding the ancient scholarly tradition entirely — a fault of his own making, leading his explanations astray at many points.
+...and that the Sayana-bhashya itself shows the right path. But **Roth**, changed the method of Vedic study radically from the root and began the modern critical method — inference and comparison were the main principles of his method, examining the Rigveda historically, gathering every occurrence of a word, comparing its usage alongside related terms, and tracking its meaning's evolution over time. Roth, however, setting out to refute Sayanacharya and the other Vedic scholars, pushed tradition entirely aside; this was his mistake, and because of it his explanations, though they cannot be called wrong, cannot be easily accepted in many places.
 
 Going forward, Vedic study needs a genuine **middle path** between these two extremes: following tradition where it proves reliable, while applying sound method to examine genuinely problematic points, determining meaning contextually case by case.
 
@@ -4975,24 +4975,24 @@ In this way, every sentence containing such words must be examined and its meani
 
 ---
 
-## Chapter [Twenty-One] — Subjects Expounded in the Veda: Differing Opinions on This Point
+## Chapter Twenty-One — Subjects Expounded in the Veda: Differing Opinions on This Point
 
 *(Chapter number as legible; sequence continues.)*
 
 ### The Traditional (Vedic/Astika) View
 
-**Astikas**, who accept the Veda's authority, hold that the Vedas are beginningless (anādi) and eternal (nitya) — never originating at any point in time, having existed since beginningless time. Whatever needs to be known in this vast universe is held to be contained, in compressed form, within the Veda — the ultimate authority. The Shatapatha Brahmana states: "Prajapati, wishing to create, needed to know the complete range of eternal ritual-forms and materials needed for creation. He then considered these three: the Rigveda, Yajurveda, and Samaveda — known to contain everything." All meters, revealed texts (shrutis), life-force, and deities are said to be contained within it. This is eternal, beginningless, and alone called "Sat" (Being) from time without beginning — the Veda encompassing everything, with no question of it deriving from anything prior. This same subject is discussed in the Purusha-sukta...
+**Astikas**, who accept the Veda's authority, hold that the Vedas are beginningless (anādi) and eternal (nitya) — never originating at any point in time, having existed since beginningless time. Whatever needs to be known in this vast universe is held to be contained, in compressed form, within the Veda — the ultimate authority. The Shatapatha Brahmana states: "Prajapati desired to know all the moving and unmoving beings and the whole mass of things in the world. Then he saw that all this is contained in the Ṛgveda, Yajurveda and Samaveda, which are called the Trayī. All kinds of metres, praises, breath and deities were in it. It is eternal; it has no destruction; it is also called Sat (that which is). This Veda contains everything; therefore he thought: I myself shall become of the form of this Veda." On this same subject the Purusha-sukta says...
 
 
 ### Page 318
 
-> तस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत ॥ (Purusha Sukta, RV 10-90-9)
+> तस्माद्यज्ञात्सर्वहुत ऋचः सामानि जज्ञिरे । छन्दांसि जज्ञिरे तस्माद्यजुस्तस्मादजायत ॥ (Purusha Sukta)
 >
 > "From that all-offering yajna, the Riks and Samans were born; the meters were born from it, and the Yajus arose from it."
 
 That is: from that yajna (the Supreme Being), the Riks, Samans, and Yajus all came into being — the same view of the Veda's non-human origin (apaurusheya) found across the texts cited above.
 
-But the Samhita portion is chiefly concerned with ritual action (karma) — pleasing the deities through worship and yajna to accumulate merit — and many texts hold this to be a lesser pursuit than the knowledge (jnana) taught in the Upanishads as the true cause of liberation. The Bhambhoyoga Upanishad states:
+But the Samhita portion is chiefly concerned with ritual action (karma) — pleasing the deities through worship and yajna to accumulate merit — and many texts hold this to be a lesser pursuit than the knowledge (jnana) taught in the Upanishads as the true cause of liberation. The Chandogya Upanishad states:
 
 > सोऽहं भगवो मन्त्रविदेवास्मि नात्मवित् । श्रुतं ह्येव मे भगवद्दृशेभ्यस्तरति शोकमात्मविदिति सोऽहं भगवः शोचामि तं मा भगवाच्छोकस्य पारं तारयत्विति । तं होवाच यद्वै किंचैतदध्यगीष्ठा नामैवैतत् । नाम वा ऋग्वेदो यजुर्वेदः...
 >
@@ -5000,7 +5000,7 @@ But the Samhita portion is chiefly concerned with ritual action (karma) — plea
 
 Many hold that the Veda-Samhitas and related shastras, however celebrated, cannot resolve the sorrow of worldly existence (samsara-duhkha) — that liberating the Self lies beyond their scope. The Gita expresses this same view:
 
-> यावानर्थ उदपाने सर्वतः संप्लुतोदके । तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥ (Bhagavad Gita 2-46)
+> यावानर्थ उदपाने सर्वतः संप्लुतोदके । तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥ (Bhagavad Gita)
 >
 > "As much use as there is in a well when floodwater surrounds it on every side, so much use do all the Vedas hold for a Brahmin who has attained true knowledge."
 
@@ -5017,9 +5017,9 @@ That is: the Veda teaches a path — distinct from perception and inference — 
 
 ### Page 319
 
-Many texts discuss the Veda's non-human origin (apaurusheyatva) at length, especially in Sayana-related literature — the core doctrine holding that the Veda is apaurusheya, eternal, and of ultimate/transcendent significance.
+Many texts discuss the Veda's non-human origin (apaurusheyatva) at length, this subject is set out in detail in Sayana's introduction; here it is enough to say that the Veda's being apaurusheya is the Vedic view. Those who hold this view, that is, who believe that the Vedas are apaurusheya, self-authoritative and teach the supreme truth, are known as Astikas.
 
-On this point, the *Vedanta-paribhasha*'s introduction states:
+On this point, the *Vedanta-paribhasha*, in its chapter on Āgama, says:
 
 > न हि तावत्पुरुषेणोच्चार्यमाणत्वं पौरुषेयत्वम् । गुरुमुखेऽपि अध्यापकसंप्रदाया पौरुषेयत्वाशक्त्ये । नासि पुरुषाभीनोत्पत्तिकत्वं पौरुषेयत्वम्...किंतु सजातीयोच्चारणानेक्षोच्चारणविषयत्वम् । तथा च सर्गाद्यकाले परमेश्वरः पूर्वसर्गसिद्धवेदानुस्पूर्विसमानानुस्पूर्विकं वेदं विरचितवान् न तु तद्विजातीयं वेदमिति न सजातीयोच्चारणानेक्षोच्चारणविषयत्वं पौरुषेयत्वं वेदानाम् । भारतादीनां तु सजातीयोच्चारणमनपेक्ष्योच्चारणमिति तेषां पौरुषेयत्वम् ॥
 >
@@ -5070,32 +5070,32 @@ One plausible resolution: the rishis originally lacked full confidence in their 
 
 ### Page 321
 
-Those investigating the Upanishads' philosophical principles hold that view superior to the ritualistic one; even critically-minded scholars share this preference, while Sayanacharya emphasizes the Veda's practical ritual value instead. This represents the ancient scholarly view; now consider the modern view:
+It has been said above that the Upanishads, which teach spiritual principles, are better than the Saṃhitā. The Mīmāṃsakas too have upheld the same view. Sayanacharya, however, has maintained that the Veda's intended purpose is sacrifice and the like. So much for the view of the ancients; now the moderns.
 
 > "The Primitive Aryans were children easily susceptible to the influence of their surroundings, highly imaginative, simple and innocent."
 
-That is: early Aryans were simpler than their descendants, not fully grasping natural phenomena, and thus prone to personify and imagine — believing in deities corresponding to natural causes, performing rituals out of unreasoned fear, and composing prayers and hymns from whatever satisfaction or feeling moved them, before having faced great hardship. This isn't a conclusion drawn from the mantras' content directly, but from their careful composition and thoughtfulness, it becomes clear their composers were, from early on, actually quite intellectually mature.
+That is: early Aryans were simpler than their descendants, not fully grasping natural phenomena, and thus prone to personify and imagine — taking whatever they saw to be gods, beginning to praise the extraordinary workings of nature, knowing nothing yet of the sorrow and hardship of the world, and, glad like children at everything, singing as it appeared to them. This conclusion was not reached by examining the mantras. After meditating more on the mantras it becomes clear that this view is wrong or needs much correction: the Aryans of the Vedic age were neither uncultured nor barbarians, and the mantras themselves show that civilisation was then in a fairly good state.
 
-**Another view** holds that the Vedas are neither especially modern nor ancient — their true era becomes clear from careful examination of the mantras themselves: their meters, distinguishing stylistic features, and structural conventions all point to a mature compositional era.
+The metre of the ṛks, the many varieties in it and the skill of their composition also show that the Aryans were far advanced in civilisation.
 
-**Yet another view** holds that the Rigveda is not a systematic philosophical text at all, but simply a collection of the earliest hymns — pointing to war-themed suktas and the stories of Sarama, Bhrigu, and Angiras as evidence. Drawing comparisons to Phoenician civilization and its interactions with Assyria, Babylonia, Egypt, and Greece, this view holds that linguistic evidence connects ancient Aryan civilization to a broader trade network — the Ganges region once connected to the Mediterranean by water routes now lost to history, explaining why European and Hindu regions later grew disconnected. This remains one hypothesis among several.
+**Another view** holds that the Ṛgveda is not only a book of verse but also history. Some wars are spoken of in the Ṛgveda, and there is a story of Sarama, the Phanis and the Angirases. On this basis some points have been decided: long ago a great war took place between the Aryans and a people called Phoenicians, both of whom had earlier lived in India or near it; in this war the Phoenicians were defeated and had to go to Greece, Rome and other regions. The Phoenicians were the first of the civilised peoples of the world; the civilisation of the ancient countries Assyria, Babylonia, Egypt, Greece and others has its root in the civilisation of these Phoenicians and Aryans. They had first lived in Afghanistan or the western part of India and, for some reason, migrated to the western countries and settled there. At that time there was a strait joining the Red Sea and the Mediterranean, and through it ship-trade with Europe went on; in course of time the strait was closed, and the trade between Europe and the Hindu countries stopped. This seems to be merely a world of conjecture.
 
 
 ### Page 322
 
-The Rigveda's content can be divided several ways: mantras of ordinary/everyday concern, spiritual (adhyatmic) mantras, and practical/ritual mantras. Deity-focused mantras generally aim to please the deities, concerned with sons, progeny, cattle, and similar worldly goods. Spiritual mantras are comparatively few, including cosmological/metaphysical inquiry alongside more worldly questions — genuinely difficult territory, since even certain deity-worship can be understood in either a worldly or spiritual register, and the line between "practical" and "spiritual" mantras isn't always sharp.
+The Saṃhitā can be divided more clearly into three kinds: mantras concerned with sacrifices and dharma, spiritual mantras, and worldly (vyavaharika) mantras. The religious mantras are in general addressed to the deities, in the form of praise of them, and of prayer for wealth, sons, cattle and similar things. The spiritual mantras are very few; in them are answers to questions such as who am I, whence did I come, what is the first cause of the world. As for the worldly mantras, it is not easy to separate the religious from the worldly, but a worldly mantra may be taken to be one not addressed directly to the deities.
 
 Take first the mantras that lie between the ritual and the practical — for example, those on the marriage rite and the funeral rite. The 85th sukta of the tenth Mandala concerns the marriage rite; the marriage of Soma and Surya is its subject.
 
-One striking marriage-sukta verse has the bride declare her own domestic authority:
+The sukta says: "The Moon and the Sun help each other; this action of theirs is the cause of the existence of the world of the moving and the unmoving, and man's daily affairs also go smoothly by it. In the same way, if husband and wife work in harmony, they can carry through successfully the burden they bear, that is, their household duties." And the bridegroom, holding the bride's hand, says:
 
-> "...having pleased my husband's mind, may I experience happiness; I have made no vow against a shared household. Aryama, Bhaga, Savitri, and Purandhi and the other deities have placed the role of household-deity upon me alone." (10-85-46)
+> "May both of us have happiness and delight, and may you live long with me; I have taken your hand. Aryaman, Bhaga, Savitṛ, Purandhi and the other deities have given you to me to be the deity of my house." (10-85-46)
 
-This closing verse of the marriage sukta reveals how sacred marriage was held to be in a woman's worldly life, and elsewhere she declares her wish for authority above all other women of the household — the mother-in-law, the daughters-in-law, and other kin — a natural desire for one's own rightful domain (10-85-46).
+The last mantra of that sukta shows what place the woman had in the household and how sacred an act marriage was: "In your house (your husband's house) exercise authority over the mother-in-law, father-in-law, brothers-in-law and sisters-in-law", that is, look after the welfare of all. (10-85-46)
 
 The 18th sukta of the tenth Mandala concerns the funeral rite. This is the rite most widely in use and most fully prescribed.
 
-Genuinely historically-informative suktas, however, are few. Where they exist, they generally serve to illuminate some royal lineage's history, praising a king's generosity or Indra's favor, revealing how far kings honored the deities and giving the historical basis for the Purohita's role — the rishis maintaining their relationship with the deities through devotion and the expectation of generous gifts in return. (7-18; 1-7 in 7-33; 7-83, etc.)
+Next come the suktas that tell history. They are historical only in name; the history to be learned from them is very little. In general these suktas tell of the victory of some kings or royal families and of their praising Indra for the victory. Kings can please the deities only through purohitas; for this they take refuge in great rishis such as Vishvamitra. These rishis, besides satisfying the deities, also sing the praise of the master (the donor). (7-18; 1-7 in 7-33; 7-83, etc.)
 
 
 ### Page 323
@@ -5104,21 +5104,21 @@ Genuinely historically-informative suktas, however, are few. Where they exist, t
 
 There is one humorous sukta (7-103). In it the singing of the ritual priests, intoxicated by soma, is compared to the croaking of frogs in the rainy season. Some take it as mockery; others say that, since both the priests and the frogs are connected with rain, the comparison is made only for that reason and for no other. Likewise there are two more suktas praying to the deities for rain (7-101; 7-102). Mantras teaching ethics, proverbs and the like are found here and there.
 
-On women, a few notable verses appear:
+On women there are both censure and praise:
 
-> "A woman does not walk an easy path." (8-33-17)
+> "It is difficult to keep a woman's mind on the right path." (8-33-17)
 > "There is no such thing as friendship with a woman; her heart is like a hyena's heart." (10-95-15)
 > "Many women, on many occasions, surpass men." (5-61-6, 7)
 
 It's also noted (10-27-12) that young women are courted for the sake of wealth.
 
-Following the Nyaya tradition, the Atharvaveda-adjacent material includes necessary medicinal plants and remedies for physical weakness and disease:
+Matters that properly belong to the Atharvaveda, such as charms, exorcism and remedies for diseases and other troubles, are also found here and there:
 
 > "This is a medicine for every disease." (10-60-12)
 
 Indra restores a skin-disease-afflicted woman to health (8-80; 10-161-2 and 5); one at death's door is saved (10-161-7, 6); a woman seeking to marry a man drives off her rival and binds him to her (10-145); and a woman awaiting her lover casts all the household to sleep (5-8 in 7-55).
 
-Finally, **Brahmodyas** are a form of riddle-hymn — describing someone's qualities rather than naming them directly. In mantras 4, 5, 6 and 8 of 8-29, the unnamed deities are, in sequence, Indra, Rudra, Vishnu, and the Ashvins — inferable from description alone, and relatively easy riddles. Far harder Brahmodyas apply this technique to earth and sky, sun and moon, wind, cloud, and rain — Sukta 1-164 being the prime example.
+Finally, **Brahmodyas** are a form of riddle-hymn — describing someone's qualities rather than naming them directly. In mantras 4, 5, 7 and 8 of 8-29, the unnamed deities are, in sequence, Indra, Rudra, Vishnu, and the Ashvins — inferable from description alone, and relatively easy riddles. Far harder Brahmodyas apply this technique to earth and sky, sun and moon, wind, cloud, and rain — Sukta 1-164 being the prime example.
 
 
 ## Chapter Twenty-Two — The Rigveda: Its Doctrine
@@ -5127,7 +5127,7 @@ Finally, **Brahmodyas** are a form of riddle-hymn — describing someone's quali
 
 As discussed earlier, the great majority of Rigveda suktas connect to some doctrine or belief tied to the deities — determining a sukta's context, its divine connection, and its dedicated deity requires real care. Two aspects of the Rigveda's content deserve special note. First: these mantras of praise (stuti) each belonged to a specific rishi — not every rishi's mantra held equal renown, and what survives as "the Rigveda's view" is really a merger of many individual views across a long period, so any general statement about its "intent" necessarily glosses over real historical variation, capturing only shared, common qualities.
 
-One view holds that the Vedic-era Aryans, being entirely uncivilized, were simply awestruck by natural phenomena, personifying nature and composing hymns to praise the cattle-wealth they possessed. I cannot fully accept this — the claim of extreme primitiveness, however often repeated, doesn't hold up.
+One view is that the Aryans of the Vedic age, being entirely uncivilised, were astonished and bewildered by certain aspects of nature; they were so ignorant that they asked how cows of many colours give white milk, and therefore praise such wonders again and again. This is not quite a correct view.
 
 Even granting limited planning, the rishis clearly composed with real worldly awareness — their careful attention to meter and structure, each mantra crafted with a specific purpose, each deity praised to secure favor for a particular yajna, mantras revised and refined over time, and appropriate mantras composed as community needs demanded within inherited compositional conventions (1-109-1; 1-62-13; 2-19-8, etc.) — none of this is the work of uncivilized, primitive people. This is my counter-argument.
 
@@ -5138,15 +5138,15 @@ The Vedic doctrine's most important trait, and its practical value, lies in its 
 
 ...the ritual acts of yajnas — composed with a poet's rhythmic care, or sung with a warrior's rallying spirit — sought longevity, wealth, fame, sons, and cattle for the community through fire-offerings and Soma-libations (see e.g. 7-1-5; 7-1-23).
 
-The Rigveda, being primarily connected to the **Purohita** class, naturally reflects their own worldview — where priestly matters took priority, devotion to the deities was steadfast, and prayer went well beyond basic subsistence. In war, kings prayed for victory through their Purohita, pleasing their chosen deity and considering it improper to abandon that deity for a rival one once devotion had been pledged. In the 83rd sukta of Mandala 7, Vasishtha calls on Indra and Varuna to aid his patron Sudas (7-83-3), relying jointly on Indra and Varuna for aid in the same battle — even while helping one side, no hesitation existed about opposing the other:
+The Rigveda, being primarily connected to the **Purohita** class, naturally reflects their own worldview — where priestly matters took priority, devotion to the deities was steadfast, and prayer went well beyond basic subsistence. In war, kings prayed through their purohitas for victory and pleased the deities, who came in person and gave them victory. In the 83rd sukta of Mandala 7, Vasishtha calls on Indra and Varuna to aid his patron Sudas (7-83-3), In such seeking of the deities' help the two parties sometimes pray to the same deity; the deity then helps those he has resolved to help and defeats the opposing party:
 
-> "Hear my prayer, all-knowing Indra; look upon these battle-difficulties. Many pray to you; I too pray, trusting in you." (7-28-1)
+> "O all-knowing Indra, hear our praise; turn your battle-ready horses this way. Many pray to you; yet attend to our praise." (7-28-1)
 
 This confirms that faith in the deities, mediated through the Purohita, was believed capable of securing victory — righteousness and divine reliance together constituting the true path to success.
 
-Purohitas performing yajnas would receive a tenth share (dakshina) of what was gained from the king, offering divine assistance in return — a mutual relationship where both sides had to remain satisfied for the arrangement to succeed. Generous praise-gifts to Purohitas are recorded as Danastutis.
+Those who performed sacrifices were caught between the purohitas, who ask for dakshina and the like, and the deities, who desire the offering; both had to be satisfied, or the rite could not succeed. The Danastutis praise the generous gifts given to the purohitas.
 
-In the Vedic era, deities were **not enshrined in temples** for worship, nor worshipped individually within households — only invoked in sequence during yajnas and pleased through Soma-offerings and similar rites. Among the deities, Agni and Indra held the highest importance; a full treatment of all the deities appears elsewhere in this book.
+In the Vedic era, deities were **not enshrined in temples** for worship, nor worshipped individually within households — only invoked in sequence during yajnas and pleased through Soma-offerings and similar rites. Among the deities, Agni and Indra held the highest importance; all the deities have been described briefly earlier, in Chapter Eleven.
 
 ---
 
@@ -5157,11 +5157,11 @@ In the Vedic era, deities were **not enshrined in temples** for worship, nor wor
 
 ### Page 326
 
-Modern researchers, using **comparative philology**, have established with reasonable confidence that Indians, Persians, Greeks, Germans, and Italians all once formed a single unified group, living together in one place. The **Avesta**'s language shows close similarity to the Rigveda's language, indicating that, in ancient times, one group split off, another remained, and both continued residing side by side for a long period. Later, the Hindus entered India specifically. It can be determined, with reasonable precision, from the names of rivers appearing in the Rigveda, which places the Aryans first settled. Following the Ganga river's route, further eastward-region rivers' names occur less frequently. The Sindhu and its own tributary rivers — the **Vitasta** (present-day Jhelum), **Asikni** (Chenab), **Parushni** (Ravi), **Vipas** (Beas), and **Shutudri** (Sutlej) — all appear by these names in the Rigveda. The Ganga river's name appears just once, in a single place (10-75-5). This suggests that, when much of the Rigveda was composed, the Aryans had not yet penetrated as far as the Ganga's banks. The **Kubha** (Kabul) and **Suvastu** (the Swat) river-names also occur, confirming that at the time much of the Rigveda was composed, the Aryans were settled across the region spanning Kabul to the Punjab.
+Modern researchers, using **comparative philology**, have established with reasonable confidence that Indians, Persians, Greeks, Germans, and Italians all once formed a single unified group, living together in one place. The **Avesta**'s language shows close similarity to the Rigveda's language, indicating that, in ancient times, one group split off, another remained, and both continued residing side by side for a long period. Later, the Hindus entered India specifically. It can be determined, with reasonable precision, from the names of rivers appearing in the Rigveda, which places the Aryans first settled. Apart from the Ganga, the names of the other rivers of the northern country occur again and again. The Sindhu and its own tributary rivers — the **Vitasta** (present-day Jhelum), **Asikni** (Chenab), **Parushni** (Ravi), **Vipas** (Beas), and **Shutudri** (Sutlej) — and the names Yamuna and Sarasvati also appear in the Rigveda. The Ganga river's name appears just once, in a single place (10-75-5). This suggests that, when much of the Rigveda was composed, the Aryans had not yet penetrated as far as the Ganga's banks. The **Kubha** (Kabul) and **Suvastu** (the Swat) river-names also occur, confirming that at the time much of the Rigveda was composed, the Aryans were settled across the region spanning Kabul to the Punjab.
 
-Villages, forts, and cities built of brick are also mentioned, alongside forts of stone (1-114-1, 1-44-10, 7-3-7, 7-15-14, 7-95-1) — though whether these were the deities' own fortresses or genuinely fortified structures used decoratively remains a debated point.
+Villages, towns, cities of iron and forts are mentioned here and there (1-114-1, 1-44-10, 7-3-7, 7-15-14, 7-95-1) — all of these are protections that the deities can provide; even if the usage is figurative, it must be said that forts and ramparts were in use.
 
-Among people's chief occupations were **agriculture** and **animal husbandry**. Every deity is prayed to, at some point, for crops, wealth, horses, and cattle — praying for cattle in particular is especially common. People valued these as their wealth. No other name for wealth appears elsewhere in the Veda quite so often — only in the Atharvaveda does "Akshaya" (imperishable wealth) occur as a term.
+Among people's chief occupations were **agriculture** and **animal husbandry**. In every prayer to a deity it is common to ask for cows, sheep, goats and horses; prayers for milch cows are the most frequent. The grain the people used was barley (*yava*). The name of rice hardly occurs in the Veda; only in the Atharvaveda does the name of rice occur:
 
 > प्रीहिमत्रं यवमत्रमथो माषमथो तिलम् । (Atharva — 6-140-2)
 
@@ -5176,20 +5176,20 @@ Besides drinking, gambling was very common (7-86-6; 10-34), and there were thiev
 
 *(The two paragraphs above and this sentence were rewritten from the print in the numeral pass, to place the page's references; the earlier rendering had condensed them.)*
 
-Trade is scarcely mentioned, and seafaring activity even less so — what boat-usage appears seems oriented toward river-crossing rather than genuine sea voyages.
 
-Marriage was arranged by the father; widow remarriage appears to have been considered acceptable. Details of husband-wife relations are scarce, but the **wife held a significant position within the household** — "household deity, mistress of the household" — with authority over domestic affairs; there's little evidence of exclusive husbandly authority in this domain. A house without a mistress, it's noted, could not properly function; a newly arrived young bride becomes the household's own yajamana (ritual mistress). This blessing was offered to a bride newly arriving in her husband's home:
+
+The father was the master of the house. Marriage was regarded as very sacred; no bond was subtler than that between husband and wife. The wife's place in the house was very high; a house without her was thought to be no house (*gṛhiṇī gṛhamucyate*). In the homa and sacrifices she has equal authority with her husband, and if the husband is away from the place for some reason she has the authority to perform the homa. In her husband's house she herself is the mistress of the house. When she goes to her husband's house for the first time she is blessed with this mantra:
 
 > सम्राज्ञी श्वशुरे भव सम्राज्ञी श्वश्र्वां भव । ननान्दरि सम्राज्ञी भव सम्राज्ञी अधि देवृषु ॥ (10-85-46)
 >
 > "Be sovereign over your father-in-law; be sovereign over your mother-in-law. Be sovereign over your sister-in-law; be sovereign over your brothers-in-law too."
 
-That is: may you hold authority over your in-laws — meaning, may you look after their welfare (yogakshema). Elsewhere, further—
+That is: exercise authority over your husband's mother, father and brothers, meaning look after their welfare. Elsewhere, further—
 
 
 ### Page 328
 
-> "From the very beginning, before the father-in-law's time itself, this position remains fixed" — meaning her authority over mother-in-law and household affairs was established from the outset. That is: women held an honored place in domestic life, connected to maintaining household happiness (10-85).
+> "*bhartuścaiva piturbhrāturhṛdayānaṃdinī sadā*" — that is, be always a delight to the heart of the husband's father, brother and the rest. That is: women held an honoured place in domestic life, and they were themselves the cause of the happiness and joy of the household (10-85).
 
 From all the points stated above it appears that monogamy was the custom (1-124-7; 4-3-2; 10-71-4; 1-105-2). But it is known that among the Kshatriyas especially polygamy also existed (1-62-11; 1-71-1; 1-105-8; 10-33-2; 7-26-3; 7-18-2; 10-43-1).
 
@@ -5216,9 +5216,9 @@ That husbands and wives abandoned their own dharma, and adultery, are known to h
 
 ### Page 329
 
-Infidelity was held a great sin (4-5-5), and it was believed that the deities punish such people (1-152-1, 7-49-3, 7-84-4).
+Speaking falsehood was held a great offence (4-5-5), and it was believed that the deities punish such people (1-152-1, 7-49-3, 7-84-4).
 
-**People lived organized in tribal groups.** Each tribe was distinct and independent, joining forces only temporarily during war; each had its own king with his own lineage, and there were many such kings (7-33-3, 7-83-6); that these kings had many wives is known from 7-18-2, where Indra is said to shine together with his wives; each royal household maintained its own Purohita — kings gave a portion of earned wealth to Indra as tribute, while the Purohita's task was to pray for wealth and the destruction of enemies, receiving a share of royal gifts in return, as many Danastuti hymns attest (10-173).
+**People lived organized in tribal groups.** Each tribe was distinct and independent, joining forces only temporarily during war; each had its own king with his own lineage, and there were many such kings (7-33-3, 7-83-6); that these kings had many wives is known from 7-18-2, where Indra is said to shine together with his wives; these kings kept house-priests, whose work it was to conduct all that was to be done in the house, good or bad; the kings gave the priests liberal gifts, and there are many such Danastutis; there are also instances where the priests, wishing the kings well, pronounced royal blessings (10-173).
 
 On deity-worship, already discussed — but whether Vedic-era practice included **idol worship** remains genuinely unclear. Max Müller and others hold that it did not:
 
@@ -5228,11 +5228,11 @@ That is: no image-worship ritual is mentioned in the Vedic era; idol-worship dev
 
 ### On Caste (Varna)
 
-The caste system is one of Hindu society's most defining, enduring features, still distinctly maintained today by inherited custom — and some scholars hold that caste distinction is not a very ancient feature at all, but a later development in our country's history.
+Lastly, the caste system now in practice: the purpose with which it first arose was different, and its result now is different. Castes have now split into many sub-castes, causing much discontent and ill-feeling in society; some hold that the internal quarrels arising from our caste differences are the cause of the misfortune of our country.
 
 Indeed, through Mandala 9, the Rigveda shows no established basis for caste distinctions. Only in Mandala 10's **Purusha Sukta** (10-90) does the fourfold varna system first appear:
 
-> ब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः । ऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत ॥ (RV 10-90-12)
+> ब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः । ऊरू तदस्य यद्वैश्यः पद्भ्यां शूद्रो अजायत ॥
 >
 > ब्राह्मणोऽस्य मुखम् आसीद् बाहू राजन्यः कृतः । ऊरू तद् अस्य यद् वैश्यः पद्भ्यां शूद्रो अजायत ॥
 > *brāhmaṇo'sya mukham āsīd bāhū rājanyaḥ kṛtaḥ | ūrū tad asya yad vaiśyaḥ padbhyāṃ śūdro ajāyata ||*
@@ -5244,7 +5244,7 @@ Indeed, through Mandala 9, the Rigveda shows no established basis for caste dist
 
 ...from the Virat-Purusha's face the Brahmin was born, from his arms the king (Kshatriya), from his thigh-region the Vaishya, and from his feet the Shudra.
 
-Some scholars hold that this sukta stands apart from the Rigveda's general flow and style, suggesting a later addition — though others dispute this. One theory holds that the body-part imagery reflects a functional division: Brahmins, born of the mouth/head, took up knowledge and learning, becoming particularly devoted to deity-worship and governance-adjacent affairs; those relying on physical strength for society's protection became Kshatriyas; trade and agriculture fell to Vaishyas; and whatever labor supported the body's basic needs and other humbler tasks fell to Shudras. This suggests occupational necessity, rather than everyone being assigned a single fixed task from birth, gave rise to these four divisions naturally. Puranic and related texts, however, state plainly that the four-varna division is fixed by birth (janmataḥ siddha).
+Some scholars hold that this sukta stands apart from the Rigveda's general flow and style, suggesting a later addition — though others dispute this. One theory holds that the body-part imagery reflects a functional division: Brahmins, born of the mouth, live by learning (or, in each tribe, those who taught knowledge and uttered mantras for the tribe's welfare were called Brahmins); those relying on physical strength for society's protection became Kshatriyas; trade and agriculture fell to Vaishyas; and whatever labor supported the body's basic needs and other humbler tasks fell to Shudras. This suggests occupational necessity, rather than everyone being assigned a single fixed task from birth, gave rise to these four divisions naturally. Puranic and related texts, however, state plainly that the four-varna division is fixed by birth (janmataḥ siddha).
 
 The Gita states:
 
@@ -5252,7 +5252,7 @@ The Gita states:
 >
 > "The fourfold varna was created by me, according to the division of qualities (guna) and actions (karma)."
 
-That is: the four varnas were organized according to their respective qualities and work — not fixed by birth as such. But since, over time, the qualities of Brahmin, Kshatriya, Vaishya, and Shudra families came to be inherited by birth in practice, some argue — based on the word "sṛṣṭam" ("created") in this very verse — that the division was intended as a birth-based lineage system from the very beginning.
+That is: the four varnas were organized according to their respective qualities and work — not fixed by birth as such. But those who argue that the distinction of Brahmin, Kshatriya, Vaishya and Shudra is by birth argue, from the word "sṛṣṭam" ("created") in this very verse of the Gita, that these distinctions arise at birth itself.
 
 ---
 

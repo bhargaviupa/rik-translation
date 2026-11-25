@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 310 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300)
-- **Findings:** 1172 — applied 1001, questions 171; edits ok 1005, failed 0
-- **Reader tokens (batches so far):** 3337k; per page 10.8k
-- **Last commit:** 3514965
+- **Pages read:** 340 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330)
+- **Findings:** 1286 — applied 1089, questions 197; edits ok 1094, failed 0
+- **Reader tokens (batches so far):** 3337k; per page 9.8k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -22,22 +22,23 @@
 | 9 | 211–240 | 87 | 74 | 74 / 0 | 13 | 279k | 0a76ccd | 74 edits (24 S14 sense, 16 S13 names, 12 S3 + 11 S1 numbers, 5 S16, 4 S15); the supplied Kannada p. 215 is a copy of p. 216 (true p. 215 absent: English p. 215 unchecked); several paragraphs on pp. 214, 217, 232 replaced as wrong as a whole; Kannada table references applied as printed even where odd (7-1-0 p. 224, p. 239 numbering, 1237 vs 80 years: open.tsv) |
 | 10 | 241–270 | 55 | 46 | 46 / 0 | 9 | 268k | 3a47bde | 46 edits (33 R6 names/terms, 13 R1 incl. whole-paragraph replacements on pp. 247, 248, 253, 254, 257, 258, 260 where the English was wrong as a whole); no page shifts; p. 241 Kannada 101 sūktas vs quoted Sanskrit 1001 applied as printed (open.tsv); p. 258 Chaturvedasvāmin account has no English (not added) |
 | 11 | 271–300 | 58 | 45 | 45 / 0 | 13 | 297k | 3514965 | 45 edits (18 S14 sense, 10 S1 chapter/heading numbers, 6 S13, 6 S16, 4 S2 removals, 3 S15); chapter numbers now follow the Kannada (p. 284 ch. 16, p. 285 ch. 17, p. 296 ch. 18); heading numbers 7→3/2 on pp. 271, 277, 283, 291 and Kṣura's date 1290→190 on p. 276 applied as printed (open.tsv); English p. 270 already holds the first lines of Kannada p. 271 |
+| 12 | 301–330 | 114 | 88 | 89 / 0 | 26 | TOK11 | @C@ | 89 edits (about 38 S14 sense, 22 S16 additions, 8 S17, 8 S13, 5 S15, 8 numbers, 3 inline S7 via sp_sanskrit); roles reversed on p. 322 (10-85-46 speaker), names and facts the print lacks removed on pp. 310–311, 318, 327; three impossible digits (pp. 305–306) judged misprints and the English kept (open.tsv); chapter heading of p. 309 sits at the end of English Page 308 |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| S7 | 352 | 21 | 373 |
-| S14 | 189 | 2 | 191 |
-| S13 | 178 | 13 | 191 |
-| S1 | 120 | 1 | 121 |
-| H29 | 0 | 119 | 119 |
-| S16 | 50 | 3 | 53 |
-| S3 | 38 | 0 | 38 |
-| S2 | 29 | 0 | 29 |
-| S15 | 29 | 0 | 29 |
-| S17 | 16 | 12 | 28 |
+| S7 | 355 | 21 | 376 |
+| S14 | 222 | 2 | 224 |
+| S13 | 184 | 26 | 210 |
+| H29 | 0 | 132 | 132 |
+| S1 | 125 | 1 | 126 |
+| S16 | 71 | 3 | 74 |
+| S3 | 39 | 0 | 39 |
+| S17 | 24 | 12 | 36 |
+| S15 | 36 | 0 | 36 |
+| S2 | 33 | 0 | 33 |
 
-By reader: R1 560, R3 367, R6 245
+By reader: R1 660, R3 368, R6 258
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -80,11 +81,15 @@ By reader: R1 560, R3 367, R6 245
 - **other** (pages 283): Kannada p.283 numbers the Gunavishnu section ೨ after ೬ Shobhakara; applied as printed (English was 7)
 - **other** (pages 291): Kannada p.291 numbers the Atharvaveda Pada-patha section ೨ after ೬ Samaveda; applied as printed (English was 7)
 - **other** (pages 300): Kannada p.300 gives the Hiranyagarbha hymn as Mandala 10, hymn 124; applied as printed (English had Mandala 1, ninth section)
+- **other** (pages 305): Kannada p.305 number row prints ೧೩ after ೧೧ ೧೧ (words 10 11 11 13 12 12) in the Kramapatha example; clearly a misprint for 12; English has 12 (Devanagari line, derived data); English kept
+- **other** (pages 306): Kannada p.306 Jata formulas print ೯ and ೮ in "೨+೩+೩+೨+೯+೩" and "೪+೫+೫+೪+೮+೫"; clearly misprints for 2 and 4; English has 2 and 4; English kept
+- **other** (pages 310): Scholars' names on pp. 310–311 were changed to the Kannada forms (Burnouf, Voltaire, Bopp removed as not in the print; "Rorse", "Roth and Bothling", Bollensen as printed): look at these names once with a scholar
+- **other** (pages 305-306): Kannada prints 13 in the word-number row (p. 305) and 9 and 8 in the Jata formulas (p. 306); the reader judged these misprints and kept the English instead of applying them as printed (deviation from the numbers rule, three places)
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 147 Kannada misprints where the English is kept (`kn_misprints.tsv`); 41 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 160 Kannada misprints where the English is kept (`kn_misprints.tsv`); 54 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
