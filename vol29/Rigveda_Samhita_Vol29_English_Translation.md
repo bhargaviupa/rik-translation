@@ -24279,6 +24279,118 @@ Parjanya is the fire; the year is the fuel, the clouds are the smoke, lightning 
 
 This world is the fire; the earth is the fuel; fire is the smoke. Night is the flame; the moon is the coals; the stars are the sparks. In this sacrificial fire the gods offer rain as the oblation. As the fruit of it food comes into being.
 
+### Printed p. 888
+
+पुरुषो वा अग्निर्गौतम, तस्य व्यात्तमेव समित्, प्राणो धूमः, वागर्चिः, चक्षुरंगाराः, श्रोत्रं विस्फुलिंगाः, तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति । तस्या आहुत्यै रेतः संभवति ॥ (*puruṣo vā agnirgautama, tasya vyāttameva samit, prāṇo dhūmaḥ, vāgarciḥ, cakṣuraṃgārāḥ, śrotraṃ visphuliṃgāḥ, tasminnetasminnagnau devā annaṃ juhvati | tasyā āhutyai retaḥ saṃbhavati ‖*) (Bṛ. U. 6-2-12)
+
+The Person is the sacrificial fire; the open mouth is the fuel; the life-breath is the smoke, speech is the flame, the eye is the coals, the ear is the sparks. In this sacrificial fire the gods offer food as the oblation. As the fruit of this oblation semen comes into being.
+
+अथैनमग्नये हरंति, तस्याग्निरेवाग्निर्भवति । समित्समित् धूमो धूमः, अर्चिरर्चिः, अंगारा अंगाराः, विस्पुलिंगा विस्पुलिंगाः, तस्मिन्नेतस्मिन्नगन् देवाः पुरुषं जुह्वति, तस्या आहुत्यै पुरुषो भास्वरवर्णः संभवति ॥ (*athainamagnaye haraṃti, tasyāgnirevāgnirbhavati | samitsamit dhūmo dhūmaḥ, arcirarciḥ, aṃgārā aṃgārāḥ, vispuliṃgā vispuliṃgāḥ, tasminnetasminnagan devāḥ puruṣaṃ juhvati, tasyā āhutyai puruṣo bhāsvaravarṇaḥ saṃbhavati ‖*) (Bṛ. 31, 6-7-14)**NOTE**
+
+Afterwards (after the Person has died) they offer him to the fire. Since this is the fire itself, the fuel, the smoke, the flame, the coals and the sparks are all naturally present in it. In this fire the gods offer the Person. As the fruit of this, a Person of radiant splendour comes into being.
+
+In this way it is described that the entire universe is of the nature of sacrifice, that as the fruit of each sacrifice a new creation comes about, and that creation has its root in sacrifice. Sacrifice is the cause of creation. Again, all things that have been created are oblations to sacrifice once more; again there is creation. Thus this principle of the Sarvamedha teaches the unity of the universe, and the great principle, the Supreme Self, which is the basis of this unity. The fundamental principle which is called Parabrahman in the Upaniṣads and other works is called Prajāpati in the Saṃhitās and Brāhmaṇas. And the identity of sacrifice and Prajāpati has been stated. The creation of the universe is the fruit of Prajāpati's austerity in the form of the Sarvamedha. Prajāpati, the cause of the world, who before the creation of the world was without a second, had to offer himself, that is, his whole form containing the entire universe, as the oblation, in order to perform the sacrifice that is the means of creation. Describing this very thing in the Ṛk-Saṃhitā also:
+
+य आत्मदा बलदा यस्य विश्व उपासते प्रशिषं यस्य देवाः । यस्य छायामृतं यस्य मृत्यु: कस्मै देवाय हविषा विधेम ॥ (*ya ātmadā baladā yasya viśva upāsate praśiṣaṃ yasya devāḥ | yasya chāyāmṛtaṃ yasya mṛtyu: kasmai devāya haviṣā vidhema ‖*) (Ṛ. Saṃ. 12-12-1-**NOTE**
+(Ṛ. Saṃ. 10-12-1-6)**NOTE**
+
+As described by this and the like, Prajāpati carried out the work of creation by offering himself in his own universal sacrifice. The gods and all the others carry out his command. Death and immortality are
+
+### Printed p. 889
+
+the shadows of Prajāpati. We too shall perform sacrifices and other rites and worship such a Prajāpati, the cause of the universe, with the cakes and other offerings. Thus the excellence of sacrifice is praised. That this same universal sacrifice is the root of creation, preservation and dissolution and a means to the highest good is also stated in the Śatapatha Brāhmaṇa in this way.
+
+अथ देवाः । अन्नोन्यस्मिन्नेव जुह्वतश्चेरुस्तेभ्यः प्रजापतिरात्मानं प्रदड् यज्ञो हैषामास यज्ञो हि देवानामन्नं ॥ (*atha devāḥ | annonyasminneva juhvataścerustebhyaḥ prajāpatirātmānaṃ pradaḍ yajño haiṣāmāsa yajño hi devānāmannaṃ ‖*) (Ca. Prā. 11-1-8-2)**NOTE**
+
+The gods performed a sacrifice and offered oblations that nourish one another. Then Prajāpati offered himself to them. Then that itself became the Sarvamedha. That Sarvamedha again became the property of the gods. Therefore sacrifice is called the food of the gods (that is, the means to food). Moreover,
+
+स एतेन यज्ञेन देवेभ्य आत्मानं निरक्रीणीत स यद्व्रतमुपैति यथैव तत्प्रजापतिर्देवेभ्य आत्मानं प्रायच्छत् । (*sa etena yajñena devebhya ātmānaṃ nirakrīṇīta sa yadvratamupaiti yathaiva tatprajāpatirdevebhya ātmānaṃ prāyacchat |*) (Ka. Pra. 11-8-53)**NOTE**
+
+Prajāpati, pleased with the sacrifice of the gods, offered himself to them again, and afterwards created again his own image, the representative of sacrifice. Because he thus created his own image for the sake of sacrifice and reflected the sacrifice, the knowers of the principle call Prajāpati himself by the synonym "sacrifice". This matter has been explained earlier.
+
+It has been stated that the Pṛṣadājya was obtained from the Sarvamedha described above (or as the fruit of the Puruṣamedha). Ghee is the chief means for accomplishing a sacrifice. It has been stated that this chief means itself arises from sacrifice. The importance of ghee in sacrifice is stated in this way.
+
+देवरथो ना एष यद्यज्ञस्तस्यैतावंतौ रश्मी यदाज्यप्रउगे तद्यदाज्येन पवमानमनुशंसति प्रउगेणाज्यं ॥ (*devaratho nā eṣa yadyajñastasyaitāvaṃtau raśmī yadājyaprauge tadyadājyena pavamānamanuśaṃsati praugeṇājyaṃ ‖*) (I. Bra, 2-37)**NOTE**
+
+Sacrifice is the chariot of the gods. Ghee and the Praüga are the two controlling reins of this chariot; that is, the purport is that they are the most excellent means of carrying out the sacrifice. Therefore the gods, knowing this secret, assigned to ghee its place in sacrifice. Its importance and fruits are as follows:
+
+### Printed p. 890
+
+तस्मादाज्यस्यैव यजेदाज्यग्ं ह वा अनयोर्द्यावापृथिव्योः प्रत्यक्षग्ं रसस्तत्पत्यक्षमेवैने एतत् स्वेन रसेन मेधेन प्रीणाति तस्मादाज्यस्यैव यजेत् । (*tasmādājyasyaiva yajedājyagṃ ha vā anayordyāvāpṛthivyoḥ pratyakṣagṃ rasastatpatyakṣamevaine etat svena rasena medhena prīṇāti tasmādājyasyaiva yajet |*) (Śa. Brā. 2-4-3-10)
+
+Ghee is the excellent essence that gives strength to both heaven and earth. Therefore one who offers the ghee oblation gratifies heaven and earth by offering them their own essences. Therefore no other oblation than ghee is enjoined.
+
+एतेन वै देवाः यज्ञेनेष्ट्वा उभयानामोषधीनां याश्च मनुष्या उपजीवंति याश्च पशवः कृत्यामिव त्वद्विषमिव त्वदपजघ्नुस्तत अश्नन्मनुष्या आलिशंत पशवः ॥ (*etena vai devāḥ yajñeneṣṭvā ubhayānāmoṣadhīnāṃ yāśca manuṣyā upajīvaṃti yāśca paśavaḥ kṛtyāmiva tvadviṣamiva tvadapajaghnustata aśnanmanuṣyā āliśaṃta paśavaḥ ‖*) (Śa Brā. 2-4.3.11)**NOTE**
+
+It is because the gods performed the sacrifice with the offering of this ghee oblation that they destroyed the poison both in the plants eaten by cattle and in the plants that are food for human beings. As a result, human beings and cattle also became able to eat their food in comfort. Thus the welfare of the world that comes from the ghee oblation is described.
+
+In the Ṛk now under study (10-90-8) the Pṛṣadājya is praised. The commentator has stated its purport as ghee mixed with curds. In explaining in the Śatapatha Brāhmaṇa what place curds have in the sacrifice, what place ghee has, and what the power of these two is, the relation of heaven and earth to the Pṛṣadājya and the usefulness of these two in the sacrifice that concerns heaven and earth are praised.
+
+कूर्ममुपदधाति । .... ...... ...। तस्य यदधरं कपालं । अयग्ं स लोकस्तत्पृतिष्ठितमिव भवति प्रतिष्ठित इव ह्ययं लोकोऽथ यदुत्तरग्ं सा द्यास्तद्व्यवगृहीतांतमिव भवति व्यवगृहीतांतेव हि द्यौरथ यदंतरा तदंतरिक्षग्ं स एष इम इव लोका इमानेवैतल्लोकानुपदधाति । (*kūrmamupadadhāti | .... ...... ...| tasya yadadharaṃ kapālaṃ | ayagṃ sa lokastatpṛtiṣṭhitamiva bhavati pratiṣṭhita iva hyayaṃ loko 'tha yaduttaragṃ sā dyāstadvyavagṛhītāṃtamiva bhavati vyavagṛhītāṃteva hi dyauratha yadaṃtarā tadaṃtarikṣagṃ sa eṣa ima iva lokā imānevaitallokānupadadhāti |*) (Śa. Bā. 7-5-1-2)
+(Śa. Brā. 7-5-1-2)**NOTE**
+
+The lower shell of the tortoise, which is installed in the form of the womb of the sacrifice, reflects the earth. The upper shell reflects the world of heaven. Just as the end regions of the world of heaven are bent, so too the end regions of this shell are bent. Just as the whole middle region between heaven and earth is filled with air, so too the middle part between these two shells of the tortoise is filled with air. By installing this, it is as if the sacrificial altar had been set between heaven and earth, joined to both of them. Moreover,
+
+### Printed p. 891
+
+तमभ्यनक्ति दध्ना मधुना धृतेन दधि हैवास्य लोकस्य रसो धृतमंतरिक्षस्य मध्वमुष्य स्वेन्नैवैनमेतद्रूपेण समर्धयत्यथो दधि हैवास्य लोकस्य रसो धृतमंतरिक्षस्य मध्वमुष्य स्वेन्नैवैनमेतद्रसेन समर्धयति ॥ (*tamabhyanakti dadhnā madhunā dhṛtena dadhi haivāsya lokasya raso dhṛtamaṃtarikṣasya madhvamuṣya svennaivainametadrūpeṇa samardhayatyatho dadhi haivāsya lokasya raso dhṛtamaṃtarikṣasya madhvamuṣya svennaivainametadrasena samardhayati ‖*) (Śa. Brā. 7-5-1-3)
+
+After installing the tortoise he smears it with curds, honey and ghee. Of these, curds are of the form of the earth, ghee of the form of the atmosphere, and honey of the form of the world of heaven. It is as if the tortoise, which reflects all these worlds, were smeared with the representative of each of those worlds. Or else: curds are the essence of this world, ghee the essence of the atmosphere, and honey the essence of the world of heaven. It is as if the tortoise, which reflects the three worlds, were filled with its full essence. Ghee is praised in many places as the essence of the whole universe, above everything else. Therefore it has the greatest importance in sacrifice. As follows:
+
+अथैनमभिजुहोति । जायत एष एतद्यच्चीयते स एष सर्वस्मा अन्नाय जायते सर्वस्या अस्यैष रसो यदाज्यमपां च हैष ओषधीनां च रसोऽस्यॆनमेतत्सर्वस्य रसेन प्रीणाति यावानु वै रसस्तावानात्मानेनैवैनमेतत्सर्वेण प्रीणाति पंचगृहीतेन पंचचितिकोऽग्निः पंचर्तवः संवत्सरः संवत्सरोऽग्निर्यावत्यस्य मात्रा तावतैवैनमेतदन्नेन प्रीणाति ॥ (*athainamabhijuhoti | jāyata eṣa etadyaccīyate sa eṣa sarvasmā annāya jāyate sarvasyā asyaiṣa raso yadājyamapāṃ ca haiṣa oṣadhīnāṃ ca raso 'syènametatsarvasya rasena prīṇāti yāvānu vai rasastāvānātmānenaivainametatsarveṇa prīṇāti paṃcagṛhītena paṃcacitiko 'gniḥ paṃcartavaḥ saṃvatsaraḥ saṃvatsaro 'gniryāvatyasya mātrā tāvataivainametadannena prīṇāti ‖*) (Śa. Brā. 7-2-3-4)
+
+As soon as the fire-altar has been built, Agni comes into being. And he is also the producer of all kinds of food. Ghee, which is the essence of plants and waters, is the essence of the entire universe. It is the support of the vitality of the universe. Therefore, by offering ghee into the fire according to rule, it is as if the essence that supports the vitality of the universe were offered. It is as if Agni were gratified by the offering of the body made up of the whole universe, having the measure of that same vitality. Having said this, it also explains the spiritual nature of ghee on this same occasion. As follows:
+
+Agni is of the nature of the year. Just as the year has five parts (the seasons beginning with spring), so the fire-altar also has five layers. Therefore the offering of ghee is made with five cups. These five portions gratify the five limbs of the great form of Agni. In stating the mutual relation of the seasonal limbs of the year and the limbs of ghee, in this way
+
+### Printed p. 892
+
+the close relation between ghee and sacrifice is praised. Sacrifice nourishes the life of the universe. Ghee nourishes that sacrifice. Therefore it is praised as the essence of the universe and the chief support of both creation and nourishment.
+
+आज्येन जुहोति । तोजो वा आज्यं तेजसैवास्मिंस्तत्तेजो दधात्याज्येन जुहोत्येतद्वै देवानां प्रियं धाम यदाज्यं प्रियेणैवैनान्थाम्ना समर्धयति ॥ (*ājyena juhoti | tojo vā ājyaṃ tejasaivāsmiṃstattejo dadhātyājyena juhotyetadvai devānāṃ priyaṃ dhāma yadājyaṃ priyeṇaivainānthāmnā samardhayati ‖*) (Ca. Cā. 13-2-1)**NOTE**
+
+Ghee is the power that produces radiance for the whole universe. It is itself full of radiance. By radiance it establishes radiance in the sacrificer. This same radiant ghee is the dearest abode of all the gods. Therefore sacrifice and ghee have an exceedingly close relation. Moreover,
+
+आ त्वा जिघर्मि मनसा धृतेनेति । आ त्वा जुहोमि मनसा च धृतेन चेत्येतत्पतिक्षियंतं भुवानि विश्वेति प्रत्यज् ह्येष सर्वाणि भुवनानि क्षियति । .... .... .... .... .... । ध्वाभ्यामभिजुहोति । द्विपाद्यजमानो यजमानोऽग्निर्यावानग्निर्यावत्यस्य मात्रा तावतैवैनमेतद्रेतो भूतग्ं सिंचति ॥ (*ā tvā jigharmi manasā dhṛteneti | ā tvā juhomi manasā ca dhṛtena cetyetatpatikṣiyaṃtaṃ bhuvāni viśveti pratyaj hyeṣa sarvāṇi bhuvanāni kṣiyati | .... .... .... .... .... | dhvābhyāmabhijuhoti | dvipādyajamāno yajamāno 'gniryāvānagniryāvatyasya mātrā tāvataivainametadreto bhūtagṃ siṃcati ‖*) (Śa. Brā. 6.3-3-21)
+
+The sacrificer's resolve is: "I shall offer ghee with a mind given to meditation." The sacrificer has two feet. The sacrificer too is of the form of Agni. In keeping with this measure he offers the oblation with two vessels. In this way, by offering ghee oblations in the sacrificial fire, it is as if the very seed that is the cause of the creation of the universe were offered. Thus the mutual relation of sacrifice, creation and ghee is stated.
+
+From sacrifice food is obtained by cattle and others, and as its fruit the Pṛṣadājya arises; again by offering the Pṛṣadājya the sacrifice is performed. Thus the mutual dependence of sacrifice and ghee, which are most useful for the work of creation and preservation of the universe, has been stated.
+
+By this all-embracing sacrifice Prajāpati produced the cattle whose deity is Vāyu, and the other cattle, domestic and wild; this is what the second half of this mantra states. (In the Pratipadārtha the epithet meaning "belonging to Vāyu" is explained as the birds that move in the atmosphere. This meaning too is possible.
+
+### Printed p. 893
+
+But since the purport "cattle whose deity is Vāyu" is also in current use, what the purport of this epithet is, is stated here in brief, and it will be given in detail among the special topics of the tenth Ṛk.
+
+Sacrificial animals are of two kinds, those whose deity is Āditya and those whose deity is Vāyu; or else, since both these deities, Āditya and Vāyu, are presiding deities of cattle, one may say that this division has been made. To speak of them as having Vāyu as deity is more widely current. This matter is clearly stated in the Taittirīya Brāhmaṇa.
+
+वायवस्थेत्याह । वायुर्वा अंतरिक्षस्याध्यक्षाः । अंतरिक्षदेवत्याः खलु वै पशवः । वायव एवैनान्परि ददाति । प्र ना एनानेतदाकरोति । यदाह । वायवस्थेत्युपायवस्थेत्याह । यजमानाय्कॆन पशूनुपह्वयते ॥ (*vāyavasthetyāha | vāyurvā aṃtarikṣasyādhyakṣāḥ | aṃtarikṣadevatyāḥ khalu vai paśavaḥ | vāyava evainānpari dadāti | pra nā enānetadākaroti | yadāha | vāyavasthetyupāyavasthetyāha | yajamānāykèna paśūnupahvayate ‖*) (Tai. Cā, 3-2-3,4)**NOTE**
+
+Vāyu is the lord of the atmosphere. The gods who dwell in the atmosphere are the presiding deities of cattle. Therefore Vāyu receives the cattle. Therefore, reciting the mantras that gratify the god Vāyu, he prepares those animals for the sacrifice. This is what is stated. The Śatapatha Brāhmaṇa states this same matter in the form of an itihāsa. When the Hotṛ first prays to Vāyu,
+
+स यत्रैताग्ं होता शग्ंसति । एकया च दशभिश्च ...... .... .... ...... वायुप्रणेता वै पशवः प्राणो वै वायुः प्राणेन हि पशवश्चरंति ॥ (*sa yatraitāgṃ hotā śagṃsati | ekayā ca daśabhiśca ...... .... .... ...... vāyupraṇetā vai paśavaḥ prāṇo vai vāyuḥ prāṇena hi paśavaścaraṃti ‖*) (Śa. Prā. 4-4-1-15)**NOTE**
+
+In the mantra एकया च दशभिः (*ekayā ca daśabhiḥ*) the number of animals to be offered to Vāyu and the other deities is enjoined. Reciting these mantras, Vāyu is entreated to loosen the drinking vessels. All the cattle came under Vāyu's control. Since the life-breath is Vāyu, all these should be said to be dependent on the life-breath.**NOTE** Thus the pre-eminence of Vāyu is specified. But:
+
+स ह देवेभ्यः पशुभिरपचक्राम । तं देवाः प्रातःसवनेऽन्वमंत्रयंत स नोपावर्तत तं माध्यंदिने सवनेऽन्वमंत्रयंत स ह नैवोपाववर्त तं तृतीयसवनेऽन्वमंत्रयंत ॥ (*sa ha devebhyaḥ paśubhirapacakrāma | taṃ devāḥ prātaḥsavane 'nvamaṃtrayaṃta sa nopāvartata taṃ mādhyaṃdine savane 'nvamaṃtrayaṃta sa ha naivopāvavarta taṃ tṛtīyasavane 'nvamaṃtrayaṃta ‖*) (Śa. Brā. 4-40-16)**NOTE**
+
+### Printed p. 894
+
+Once Vāyu left the gods and went off to a distant region together with his cattle. The gods called him at the morning pressing; he did not return. They called him at the midday pressing. Even then he did not return. Then they called him again at the third pressing. Then,
+
+स होपावर्त्यन्नुवाच । यद्व उपावर्तेय किं मे ततः स्यादिति त्वयै. वैतानि पात्राणि युज्येरंस्त्वया विमुच्येरन्निति तदेनेनैतत्पात्राणि युज्यंते तदैंद्रवायवाग्रान्प्रातःसवने गृह्णात्यथैनेनैतत्पात्राणि विमुच्यंते यदाह नियुद्धिर्वायविह ता विमुंचेति पशवो वै नियुतस्तत्पशुभिरेवैतत्पात्राणि विमुच्यंते ॥ (*sa hopāvartyannuvāca | yadva upāvarteya kiṃ me tataḥ syāditi tvayai. vaitāni pātrāṇi yujyeraṃstvayā vimucyeranniti tadenenaitatpātrāṇi yujyaṃte tadaiṃdravāyavāgrānprātaḥsavane gṛhṇātyathainenaitatpātrāṇi vimucyaṃte yadāha niyuddhirvāyaviha tā vimuṃceti paśavo vai niyutastatpaśubhirevaitatpātrāṇi vimucyaṃte ‖*) (Ta. Brā. 4-4-1-17)**NOTE**
+
+Vāyu, willing to return in accordance with that prayer, asked the gods: "If I return, what return will I get?" The yoking of these vessels and their loosening to help the gods drink are in your charge. Therefore, when the Adhvaryu takes up the vessels to offer to Indra and Vāyu, they are yoked. When Vāyu is praised by reciting the mantra नियुद्धिर्वायविह (*niyuddhirvāyaviha*), they are loosened. नियुत् (*niyut*) means cattle. With the help of these cattle those vessels are loosened; that is, they become fit for drinking. So it is stated. But in some places Āditya also is said to be the presiding deity of cattle. For example:
+
+अथ दधि गृह्णाति । आदित्यानां वै तृतीयसवनमादित्यान् वा अनु पशवस्तत्पशुष्पैवैतत्पयो दधाति तदिदं पशुषु पयो हितं ॥ (*atha dadhi gṛhṇāti | ādityānāṃ vai tṛtīyasavanamādityān vā anu paśavastatpaśuṣpaivaitatpayo dadhāti tadidaṃ paśuṣu payo hitaṃ ‖*) (Śa. Prā. 4-3-5-14)
+
+In these and similar places Āditya is praised as the presiding deity because he is the protector of cattle. From Āditya comes rain; from rain, food. Since cattle are protected by this food, Āditya became the protector of cattle. Therefore it is stated according to the respective sections that Āditya is the presiding deity of cattle, and so on.
+
+These animals are of two kinds, domestic and wild. Both kinds are means for man to perform sacrifice. Therefore at the time of sacrifice it is prayed that the very same animals be favoured. It is in accordance with this prayer that their creation and protection take place. This prayer is as follows.
+
+श्वेतो रश्मिः परि सर्वं बभूव । सुवन्मह्यं पशून् विश्वरूपान् ॥ (*śveto raśmiḥ pari sarvaṃ babhūva | suvanmahyaṃ paśūn viśvarūpān ‖*) (Kṛ. Ā. 3-11)**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 887. Sarvamedha closing passage, Vā. Saṃ. 32 quotations and Bṛ. U. 6-2-9..11 (pp. 882-887)
+**Progress note:** Done through printed p. 894. Bṛ. U. 6-2-12 ff., Śatapatha quotations on ghee and cattle, Vāyu and Āditya (pp. 888-894)
