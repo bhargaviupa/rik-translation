@@ -26862,6 +26862,273 @@ The praisers, when Indra is praised, obtain protection. When the sun is praised,
 
 Those who praise Indra obtain protection in Indra. Praising Indra in the form of the sun, they obtain the whole power of sight. Praising Indra, who is endowed with power, they obtain manly
 
+### Printed p. 976
+
+strength. Those praisers who quickly carry out the worship of Indra obtain, in the places of sacrifice, the thunderbolt of Indra for their help.
+
+##### English translation
+Those who praise him find protection in Indra; (those who praise him find) universal vision in the sun; (those who praise him find) manly vigour in the vigorous (Indra); those worshippers who diligently offer adoration to Indra (acquire) the thunderbolt as their ally in the dwellings of men.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर॑श्चि॒दा ह॒रितो॑ अस्य रीरम॒दिंद्रा॒दा कश्चि॑द्भयते॒ तवी॑यसः ।  
+> भी॒मस्य॒ वृष्णो॑ ज॒ठरा॑दभि॒श्वसो॑ दि॒वेदि॑वे॒ सहु॑रिः  ॒॑
+> स्तन्नबाधितः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूरः । चित् । आ । हरितः । अस्य । रीरमत् । इंद्रात् । आ । कः । चित् । भयते ।  
+> तवीयसः ।  
+> भीमस्य । वृष्णः । जठरात् । अभिश्वसः । दिवेदिवे । सहुरिः । स्तन् । अबाधितः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरः सूर्योऽप्यस्येंद्रस्य परमेश्वरस्य परमात्मन आज्ञां परिपालयितुं
+> मन्वानो हरितोऽश्वान्रेरयतीति शेषः । प्रेरयन्नध्वन्या रीरमत् । अभिमुख्येन
+> रमयति । यः कश्चिद्देवोऽपि सृष्टौ भयते बिभेति स देवस्तवीयसः प्रवृद्धादिंद्रात्परमात्मनो भयादेव बिभेति । तथा च तैत्तिरीये पठितं । भीषास्माद्वातः
+> पवते । तै. उ. २-८ । इत्यादिना । किंच वृष्टः कामानां वर्षितुर्भिमस्य सर्वभयंकरस्य परमात्मनः परमेश्वरस्य दिवेदिवेऽन्वहमभिश्वस अभिमुख्येन त्वसतो
+> जठरादुदरादंतरिक्षात्सहुरिः सहनशीलोऽबाधितो बाधरहितः सन् । स्तनयति ।
+> शब्दं करोति ॥
+
+##### Gist of the bhāṣya
+
+The sun too, wishing to obey the command of this Indra, the Supreme Lord, the Supreme Self, urges his bay horses (the verb "urges" is to be supplied); urging them on the way, he gives delight, facing him. Whatever god it may be that fears in creation, that god fears out of fear of the mighty, far-grown Indra, the Supreme Self. So it is read in the Taittirīya: भीषास्माद्वातः पवते (*bhīṣāsmādvātaḥ pavate*) Tai. U. 2-8, and so on. **GLOSS** Further, from the belly, that is, from the atmosphere, of the showerer of desires, the dreadful, all-terrifying Supreme Self, the Supreme Lord, who breathes toward them day by day, the enduring one, unobstructed, free from obstruction, thunders, that is, makes a sound. **NOTE**
+
+### Printed p. 977
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरः चित् (*sūraḥ cit*)—the sun also
+- अस्य (*asya*)—(obedient to) Indra
+- हरितः (*haritaḥ*)—urging his horses
+- आ रीरमत् (*ā rīramat*)—he attains joy
+- तवीयसः (*tavīyasaḥ*)—endowed with power
+- इंद्रात् (*iṃdrāt*)—of Indra
+- कश्चित् (*kaścit*)—every god
+- आ भयते (*ā bhayate*)—is afraid
+- वृष्णः (*vṛṣṇaḥ*)—the showerer of desires
+- भीमस्य (*bhīmasya*)—and dreadful Lord
+- अभिश्वसः (*abhiśvasaḥ*)—with long breaths
+- जठरात् (*jaṭharāt*)—from the belly
+- सहुरिः (*sahuriḥ*)—the powerful
+- अभाधितः (*abhādhitaḥ*)—and unharmed god
+- दिवे दिवे (*dive dive*)—every day
+- स्तन् (*stan*)—makes a sound
+
+##### भावार्थ (Bhāvārtha)
+
+The sun too, obedient to Indra, urges his horses and attains joy. Every god is afraid of Indra, who is endowed with power. From the belly, with its long breaths, of the Lord, the showerer of desires and the dreadful, the powerful and unharmed god makes a sound every day.
+
+##### English translation
+The sun urging his steeds (in obedience to) his (commands) delights (in his presence); every (god) is in fear of the powerful Indra ; from the belly of the formidable sighing showerer (of benefits) the all-enduring irresistible (deity) thunders day by day.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमं॑ वो अ॒द्य रु॒द्राय॒ शिक्व॑से क्ष॒यद्वी॑राय॒ नम॑सा  
+> दिदिष्टन ।  
+> येभिः॑ शि॒वः स्ववा॑ एव॒याव॑भिर्दि॒वः सिष॑क्ति॒ स्वय॑शा॒ निका॑मभिः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोमं । वः । अद्य । रुद्राय । शिक्वसे । क्षयत् ऽवीराय । नमसा । दिदिष्टन ।  
+> येभिः । शिवः । स्ववान् । एवयावभिः । दिवः । सिसक्ति । स्वयशाः । निकामभिः ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवयावभिरश्वैरागच्छद्भिर्येभिर्यैमरुद्भिः सह स्ववाञ्ञातिमान् स्वयशाः
+> स्वभूतकीर्तिः शिवः सुखकरः परमेश्वरो दिवो द्युलोकाद्यजमानान्षिषक्ति सेवते
+> xxix 62
+
+### Printed p. 978
+
+> हे ऋत्विजः यूयमद्यास्मिन्यागे निकामभिर्नियताभिलाष्टैस्मैर्मरुद्भिः सहिताय
+> क्षयद्वीराय क्षितशत्रवे शिक्वसे शरणे शक्ताय रुद्राय नमसान्नेन नमस्कारेण वा
+> सह स्तोमं स्तोत्रं दिदिष्टन । दिशत । सृजत । गमयतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Together with whichever Maruts, coming with horses, the self-possessed one (the one who has his kin), of his own acquired fame, Śiva, the giver of happiness, the Supreme Lord, from the heaven, from the world of heaven, attends the sacrificers: O priests, today in this sacrifice, offer praise, together with food or with homage, to that Rudra, who is accompanied by those Maruts of fixed desires, who has destroyed his enemies and is able to protect. Offer, send, cause it to reach him: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) एवयावभिः (*evayāvabhiḥ*)—moving together with horses
+- योभिः (*yobhiḥ*)—together with which Maruts
+- स्तवान् (*stavān*)—the one possessed of kinsmen
+- स्वयशाः (*svayaśāḥ*)—of self-acquired fame
+- शिवः (*śivaḥ*)—and the giver of happiness, which Rudra
+- दिवः (*divaḥ*)—from the heaven
+- सिषक्ति (*siṣakti*)—serves the sacrificers, such
+- निकामभिः (*nikāmabhiḥ*)—the one accompanied by the Maruts who grant desired ends
+- क्षयद्वीराय (*kṣayadvīrāya*)—the one who has his enemies destroyed
+- शिक्षसे (*śikṣase*)—and powerful
+- रुद्राय (*rudrāya*)—to Rudra
+- अद्य (*adya*)—in this sacrifice
+- नमसा (*namasā*)—together with the oblation
+- स्तोमं (*stomaṃ*)—the praise
+- वः (*vaḥ*)—you
+- दिदिष्ठन (*didiṣṭhana*)—offer
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, to Rudra, who is accompanied by the Maruts who move with horses, who has kinsmen, self-acquired fame and is the giver of happiness, who from heaven serves the sacrificers, who is accompanied by the Maruts who grant desired ends, who has his enemies destroyed and is powerful, offer in this sacrifice praise together with the oblation.
+
+##### English translation
+Address praise to-day with reverence to Rudra, the powerful, the destroyer of heroes, (who is accompanied) by the mounted (Maruts), the granters of wishes, together with whom he, propitious, possessing kinsmen, besprinkles (the worshippers) from heaven.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि प्र॒जाया॒ अभ॑रंत॒ वि श्रवो॒ बृह॒स्पति॑र्वृष॒भः सोम॑जामयः ।  
+> य॒ज्ञैरथ॑र्वा प्रथ॒मो वि धा॑रयद्दे॒वा दक्षै॒र्भग॑वः॒ सं  ॑
+> चिकित्त्रिरे ॥ १० ॥
+
+### Printed p. 979
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । प्रजायाः । अभरंत । वि । श्रवः । बृहस्पतिः । वृषभः । सोमजामयः ।  
+> यज्ञैः । अथर्वा । प्रथमः । वि । धारयत् । देवाः । दक्षैः । भृगवः । सं ।  
+> चिकित्त्रिरे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हि यस्मात्कारणाद्वृषभः कामानां वर्षिता बृहस्पतिः सोमजामयोऽन्ये
+> सोमबंधवस्ते विश्वे देवाः प्रजाया अर्थाय श्रवोऽन्नं व्यभरंत विभरंति
+> वृष्टिद्वारेण पोषयंति तस्मात्कारणात्तासां प्रजानां मध्येऽथर्वा नामर्षिः
+> प्रथमः प्रथममेव क्रियमाणैर्यज्ञैर्वि धारयत् । देवान्कर्मयोग्यान्विधृतानकरोत् । अत्र निगमः । यज्ञैरथर्वा प्रथमः प्रथस्तते । ऋ- १-८३-५ ।
+> इति । अथ दक्षैर्बलैः सह देवा विश्वे भृगव ऋषयश्च सं चिकित्रिरे । अथर्वणा कृतं
+> यज्ञं गत्वा पशून्संजातवंतः ॥
+
+##### Gist of the bhāṣya
+
+Because Bṛhaspati, the showerer of desires, and the other kinsmen of Soma, all those gods, bear food for the sake of the offspring, that is, nourish them by way of rain, therefore among those offspring the seer named Atharvan, first of all, by sacrifices performed, established the gods, making them fit for the rite. On this there is a Vedic passage: यज्ञैरथर्वा प्रथमः प्रथस्तते (*yajñairatharvā prathamaḥ prathastate*) Ṛ. 1-83-5. **GLOSS** Further, with strength the gods, all of them, and the Bhṛgu seers acknowledged; going to the sacrifice performed by Atharvan, they obtained cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—because
+- वृषभः (*vṛṣabhaḥ*)—the giver of desired ends
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- सोमजामयः (*somajāmayaḥ*)—the kinsmen of Soma
+- ते (*te*)—the All-gods
+- प्रजायाः (*prajāyāḥ*)—for men
+- श्रवः (*śravaḥ*)—food
+- व्यभरंत (*vyabharaṃta*)—made grow by way of rain, therefore
+- अथर्वा (*atharvā*)—the seer named Atharvan
+- प्रथमः (*prathamaḥ*)—first of all
+- यज्ञैः (*yajñaiḥ*)—by the sacrifices performed
+- वि धारयत् (*vi dhārayat*)—made the gods firm
+- दक्षैः (*dakṣaiḥ*)—endowed with strength
+- देवाः (*devāḥ*)—the All-gods
+- भृगवः (*bhṛgavaḥ*)—and the Bhṛgus
+- स चिकित्सिरे (*sa cikitsire*)—discovered the cattle
+
+##### भावार्थ (Bhāvārtha)
+
+Because Bṛhaspati, the giver of desired ends, and the All-gods, the kinsmen of Soma, made food grow for men by way of rain, the seer named Atharvan, with the sacrifices he performed first of all, made the gods firm. The All-gods, endowed with strength, and the Bhṛgus also discovered the cattle.
+
+##### English translation
+Inasmuch as Brihaspati, the showerer (of benefits), and the kindred of Soma ( the Vishwadevas ), bestow food ( for the support ) of people, Atharvan was the first to invigorate (the gods) with sacrifices; with strength the gods and Bhrigus discovered (the cattle).
+
+### Printed p. 980
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि द्यावा॑पृथि॒वी भूरि॑रेतसा॒ नरा॒शंस॒श्चतु॑रंगो य॒मोऽदि॑तिः ।  
+> दे॒वस्त्वष्टा॑ द्रविणो॒दा ऋ॑भु॒क्षणः॒ प्र रो॑द॒सी म॒रुतो॒  ॑
+> विष्णुरर्हिरे ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शे इति । हि । द्यावापृथिवी इति। भूरिरेतसा । नराशंसः । चतुः अंगः । यमः । अदितिः ।  
+> देवः । त्वष्टा । द्रविणःऽदाः । ऋभुक्षणः । प्र । रोदसी इति । मरुतः । विष्णुः ।  
+> अर्हिरे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भूरिरेतसा बहूदके द्यावापृथिवी द्यावापृथिव्यौ यमो देवोऽदितिश्च
+> त्वष्टा देवश्च द्रविणोदा अग्निश्च ऋभुक्षण ऋभवश्च रोदसी रुद्रस्य पत्नि च मरुतो
+> देवाश्च विष्णुश्च एते विश्वे देवाश्च तुरंगश्च तुर्भिरग्निभिर्युक्तस्तस्मिन्नराशंसो
+> नराशंसनामधेये यज्ञे प्रार्हिरे । आस्माभिः स्तोतृभिः पूज्यंते ॥
+
+##### Gist of the bhāṣya
+
+Heaven and earth, rich in water; the god Yama and Aditi; the god Tvaṣṭṛ; Agni, the giver of wealth; the Ṛbhus; Rodasī, the wife of Rudra; the Maruts, the gods; and Viṣṇu: these All-gods, and the four-limbed one joined with the four fires, are worshipped by us, the praisers, in the sacrifice named Narāśaṃsa. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते हि (*te hi*)—those well-known gods, namely
+- भूरिरेतसा (*bhūriretasā*)—those with abundant water
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- यमः (*yamaḥ*)—the god Yama
+- अदितिः (*aditiḥ*)—Aditi
+- त्वष्टा (*tvaṣṭā*)—Tvaṣṭṛ
+- देवः (*devaḥ*)—of divine nature
+- द्रविणोदाः (*draviṇodāḥ*)—Agni, the giver of wealth
+- ऋभुक्षणः (*ṛbhukṣaṇaḥ*)—the Ṛbhus
+- रोदसी (*rodasī*)—the wife of Rudra
+- मरुतः (*marutaḥ*)—the Maruts
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- चतुरंगः (*caturaṃgaḥ*)—having four fires
+- नराशंसः (*narāśaṃsaḥ*)—in this sacrifice, which is of the nature of Narāśaṃsa
+- प्राहिरे (*prāhire*)—are worshipped
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth with their abundant water, the god Yama, Aditi, Tvaṣṭṛ, Agni, who is of divine nature and the giver of wealth, the Ṛbhus, the wife of Rudra, the Maruts and Viṣṇu are worshipped in this sacrifice, which has four fires and is of the nature of Narāśaṃsa.
+
+### Printed p. 981
+
+##### English translation
+They, the heaven and earth, abounding with waters, the Narashamsa rite with its four fires, Yama, Aditi, the divine Twashtri, (Agni) the giver of wealth, the Ribhus, Rodasi, the Maurts, and Vishnu are worshipped (by us).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तस्य न॑ उ॒शिजा॑मुर्वि॒या क॒विरहिः॑ शृणोतु बु॒ध्यो॒३॒॑ऽऽहवी॑मनि ।  
+> सूर्या॒मासा॑ वि॒चरं॑ता दिवि॒क्षिता॑ धि॒या श॑मीनहुषी अ॒स्य  ॑
+> बोधतं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्यः । नः । उशिजां । उर्विया । कविः । अहिः । शृणोतु । बुध्यः । हवीमनि ।  
+> सूर्यामासा । विचरंता । दिविक्षिता । धिया । शमीनहुषी इति । अस्य । बोधतं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च नोऽस्माकमुशिजां कामयमानानामृत्विजामुर्वियोर्वीं
+> बह्वीं स्तुतिं कविर्मेधावी बुध्यो बुद्धेऽंतरिक्षे भवः सोऽहिर्देवो हवीमनि
+> हूयंते यत्र देवेभ्यो हवींषि तस्मिन्यज्ञे शृणोतु । दिविक्षिता दिवि वसंतौ
+> विचरंता विशेषेण चरंतौ सूर्यामासा सूर्यचंद्रमसौ धिया बुद्ध्यास
+> स्तोत्रमिदं बोधतं । बुध्येतां । तमी कर्मवती पृथिवी । शमिति कर्मनामसु
+> पाठात् । नहुषी ड्यौः । अत्र वाजसनेयकं । द्यौर्नहुषीयं वै शमी तस्या एष
+> गर्भ इति । हे द्यावापृथिव्यौ युवां स्तोत्रं धिया स्वीयया प्रज्ञया बुध्येतं ।
+> अवगच्छतमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+And may that wise one, born in the atmosphere, the god Ahi, hear in this sacrifice, where oblations are offered to the gods, our wide praise, the praise of us, the priests who desire. The sun and the moon, dwelling in heaven and moving in various ways, understand this praise by their intellect. Earth is the one of action, since the word is read among the names of action; heaven is Nahuṣī. On this there is a passage of the Vājasaneyaka: द्यौर्नहुषीयं वै शमी तस्या एष गर्भ इति (*dyaurnahuṣīyaṃ vai śamī tasyā eṣa garbha iti*) **GLOSS** O heaven and earth, you two understand the praise by your own intelligence; the meaning is, know it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- उशिजां (*uśijāṃ*)—of the priests devoted to the worship of the gods
+- नः (*naḥ*)—our
+- उर्विया (*urviyā*)—extended praise
+- कविः (*kaviḥ*)—the wise
+- बुध्न्यः (*budhnyaḥ*)—and dwelling in the atmosphere
+- अहिः (*ahiḥ*)—the god Ahirbudhnya
+- हवीमनि (*havīmani*)—in this sacrifice
+- शृणोतु (*śṛṇotu*)—may hear
+- दिविक्षिता (*divikṣitā*)—dwelling in the atmosphere
+
 ---
 
-**Progress note:** Done through printed p. 975. Ṛks 2-7 of Sūkta 92
+**Progress note:** Done through printed p. 981. Ṛks 8-12 of Sūkta 92
