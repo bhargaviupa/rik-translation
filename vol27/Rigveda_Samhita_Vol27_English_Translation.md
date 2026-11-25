@@ -16777,6 +16777,215 @@ O my father, then, in the supreme, excellent heaven called व्योमन्
 
 O father, in the supremely excellent heaven-station unite with the Pitṛs. Unite with Yama, who satisfies your desire. Abandon the body that is the root of sin and come again to the excellent home. Unite with a body of fair radiance.
 
+### Printed p. 471
+
+*English Translation.*
+
+Be united with the Pitṛs, with Yama, and with the fulfilment of your wishes in the highest heaven; discarding iniquity, return to your abode, and unite yourself to a luminous body.
+
+##### विशेषविषयगळु (Special Topics)
+
+As said in the previous Ṛk, after one's own father (or the father who is in the departed body) has gone by the ancient path to the world of the Pitṛs, the seer states in this Ṛk what he should do.
+
+O Pitṛ, after you have gone to the world of the Pitṛs (this may be called heaven), the earlier Pitṛs, our elders who died in former times, are there. Join them, and meet Yama. Then, in that divine world, enjoy the wishes you desire. That is, the fruits that were due for the sacrificial and other good works you performed while living on earth — enjoy those fruits now in this divine world. Here, if the word इष्टापूर्तेन (*iṣṭāpūrtena*) is divided into इष्ट (*iṣṭa*) + अपूर्तेन (*apūrtena*), the word means desires that you wished for until now but that remain unfulfilled. Since such desires could not be enjoyed while living on earth, the seer says: enjoy them now in this divine world. And after coming to this divine world, he voices the prayer: give up the sins you may have committed so far and the sorrow that is their fruit, obtain a excellent body of the nature of light, that is, a shining body, so as to be happy in this divine world, and dwell in an excellent abode.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपे॑त॒ वी॑त॒ वि च॑ सर्प॒तातो॒ऽस्मा ए॒तं पि॒तरो॑ लो॒कम॑क्रन् ।  
+> अहो॑भिर॒द्भिर॒क्तुभि॒र्व्य॑क्तं य॒मो द॑दात्यव॒सान॑मस्मै ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । इत । वि । इत । वि । च । सर्पत । अतः । अस्मै । एतं । पितरः । लोकं । अक्रन् ।  
+> अहःभिः । अर्त्भिः । अक्तुभिः । विअक्तं । यमः । ददाति । अव्यसानं । अस्मै ॥ ९ ॥
+
+### Printed p. 472
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पैतृमेधिके कर्मणि स्मशानायतनं प्रोक्षत्यपेत वीतेति । सूत्रितं च ।
+> गर्तोदकेन शमीशाखया त्रिः प्रसव्यमायतनं परिव्रजन् प्रोक्षत्यपेत वीत वि च
+> सर्पतातः । आ. गृ. ४-२-१८ । इति ॥
+> शृशाने पूर्वं स्थिता हे पिशाचादयः अतोऽस्मादृतयजमानदहनस्थानादपेत i अपगच्छत । वीत । विशेषेण गच्छत । वि सर्पत च । इदं स्थानं परित्यज्य
+> नानाभावेन दूरतरं देशं गच्छतेत्यर्थः । पितरोऽस्मै मृतयजमानस्यार्थायैतं लोकमिदं दहनस्थानमक्रन् । यमस्याज्ञयान्नकुर्वन् । यमोऽप्यहोभिर्दिवसैरद्भिरभ्युक्षणोदकैरक्तुभी रात्रिभिर्व्यक्तं संगतं । शुद्धिनिमित्तैः कालोदकादिभिः शोधितमित्यर्थः । अवसानं दहनस्थानमस्मै मृतयजमानस्यार्थाय ददाति ।
+> दत्तवान् ॥
+
+##### Gist of the bhāṣya
+
+In the funeral rite (Paitṛmedhika) he sprinkles the cremation ground with the verse अपेत वीत (*apeta vīta*). This is enjoined in the sūtra: going round the site three times counter-clockwise (prasavya) with a branch of the śamī and water from the pit, he sprinkles, saying *apeta vīta vi ca sarpatātaḥ* (Ā. Gṛ. 4-2-18). Piśācas and others who stood earlier in the cremation ground: depart from this place where the dead sacrificer is to be burnt; go away in particular; leave this place and disperse in various ways to a farther region. The Pitṛs have made this place, the cremation ground, for the sake of the dead sacrificer, by Yama's command. Yama too has given the cremation ground to the dead sacrificer, joined with days, with waters of sprinkling and with nights, that is, purified by purifying agents such as time and water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O piśācas and others) अतः (*ataḥ*)—from this cremation place
+- अपेत (*apeta*)—move far away
+- वीत (*vīta*)—go off to a great distance (वीत (*vīta*))
+- वि सर्पत च (*vi sarpata ca*)—scatter to various directions
+- अस्मै (*asmai*)—for this dead man
+- पितरः (*pitaraḥ*)—the Pitṛs
+- एतं लोकं (*etaṃ lokaṃ*)—this place
+- अक्रन् (*akran*)—have prepared
+- यमः (*yamaḥ*)—Yama also
+- अहोभिः (*ahobhiḥ*)—with days
+- अद्भिः (*adbhiḥ*)—with waters
+- अक्तुभिः (*aktubhiḥ*)—with nights
+- व्यक्तं (*vyaktaṃ*)—joined
+- अवसानं (*avasānaṃ*)—the cremation place
+- अस्मै (*asmai*)—to this sacrificer
+- ददाति (*dadāti*)—has appointed
+
+##### भावार्थ (Bhāvārtha)
+
+O piśācas and others, move away from this cremation place. Go off to a distant land. Scatter in various directions. The Pitṛs have prepared this place for the dead man; Yama too has given to the dead man, the sacrificer, this cremation place joined with days, waters and nights.
+
+##### English translation
+Depart from hence, begone, go far off, (evil spirits); the Pitris have assigned this place to him, Yama has given him a place of cremation consecrated by days, streams and nights.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pitṛ-rites, that is, the funeral rites, the verse अपेत वीत (*apeta vīta*) is to be recited and the appointed spot in the cremation ground sprinkled with water, as explained by the sūtra of the Āśvalāyana Gṛhya-sūtra गर्तोदकेन शमीशाखया त्रिःप्रसव्यमायतनं परिव्रजन् प्रोक्षत्यपेत वीत वि च सर्पतातः (*gartodakena śamīśākhayā triḥprasavyamāyatanaṃ parivrajan prokṣatyapeta vīta vi ca sarpatātaḥ*) (Ā. Gṛ. 4-2-10).
+
+### Printed p. 473
+
+In this Ṛk the seer says that the piśācas and others who may be at the place where the dead body is burnt in the cremation ground should leave that place and move far away.
+
+यमो ददात्यवसानमस्मै (*yamo dadātyavasānamasmai*)—Yama himself has given this cremation place for this dead man, that is, has arranged it. Since a man after death must come to his own world, the world of the Pitṛs, Yama takes interest in this matter and has already determined and arranged, in the cremation ground, the place where the dead body of the man about to come to his world will be burnt. Therefore, O piśācas and others, leave this place and go away. This region has been purified with water and the like for the dead man's funeral rite; so leave this region and move far away — thus the seer describes. Here अवसान (*avasāna*) means the cremation place (last resting place), the place where the dead body is burnt with fire. A spot in the cremation ground is designated, purified by sprinkling with water and so on, and the cremation takes place there. That is what is described here by the word अवसानं (*avasānaṃ*).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॑ द्रव सारमे॒यौ श्वानौ॑ चतुर॒क्षौ श॒बलौ॑ सा॒धुना॑ प॒था ।  
+> अथा॑ पि॒त्थन्सु॑ वि॒दत्तौ॒ उपे॑हि य॒मेन॒ ये स॑ध॒मादं॒  
+> मदं॑ति ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । द्रव । सारमेयौ । श्वानौ । चतुःs अक्षौ । शबलौ । साधुना । पथा ।  
+> अथ । पित्थन् । सुविदत्रान् । उप । इहि । यमेन । ये । सधर्मादं । मदंति ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनुस्तरण्या वृक्कौ पार्श्वयोराम्रफलाकृती । तावुद्धृत्य प्रेतस्य हस्तयोर्निदधात्यति द्रव सारमेयाविति द्वाभ्यां । सूत्रितं च । वृक्कावुद्धृत्य पाण्योरादध्यादति द्रव सारमेयौ श्वानौ । आ. गृ. ४-३-२० । इति ॥
+
+##### Gist of the bhāṣya
+
+In the funeral rite, the two lumps (वृक्कौ (*vṛkkau*)) in the shape of mango fruits, taken from the *anustaraṇi* (cow) at the sides, are placed in the hands of the dead man with the two verses अति द्रव सारमेयौ (*ati drava sārameyau*). It is laid down in the sūtra: वृक्कावुद्धृत्य पाण्योरादध्यादति द्रव सारमेयौ श्वानौ (*vṛkkāvuddhṛtya pāṇyorādadhyādati drava sārameyau śvānau*) (Ā. Gṛ. 4-3-20).
+
+### Printed p. 474
+
+> हे अग्ने साधुना पथा समीचीनेन मार्गेण श्वानावुभावति द्रव । अतिक्रम्य
+> गच्छ । यमसंबंधिनौ यौ श्वानौ प्रेतस्य बाधकौ तौ परित्यज्य समीचीनेन मार्गेण
+> प्रेतं नयेत्यर्थः । कीदृशौ श्वानौ । सारमेयौ । सरमा नाम काचित्प्रसिद्धा देवशुनी । तस्याः पुत्रौ चतुरक्षौ उपरिभागे पुनरप्यक्षिद्वयं ययोस्तादृशौ । अथ
+> शोभनमार्गेण गमनानंतरं ये पितरो यमेन सधमादं सहर्षं मदंति
+> प्राप्रुवंति तान्सुविदत्रान् सुष्पभिज्ञानित्थनुपेहि । उपगच्छ ।
+
+##### Gist of the bhāṣya
+
+O Agni, pass by the good path beyond the two dogs; leaving the two dogs of Yama who harass the departed, lead the departed by the good path. What are the dogs like? Sārameyas: Saramā is a well-known divine bitch, and these are her sons; four-eyed, having another pair of eyes above. Then, after going by the good path, go to those Pitṛs who rejoice joyfully with Yama, who are well-knowing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O departed one) साधुना पथा (*sādhunā pathā*)—following the very best path
+- सारमेया (*sārameyā*)—born of Saramā
+- शबलौ (*śabalau*)—of variegated colour
+- चतुरक्षौ (*caturakṣau*)—having four eyes
+- श्वानौ (*śvānau*)—Yama's messengers (the dogs)
+- अति द्रव (*ati drava*)—escape and pass beyond
+- अथ (*atha*)—afterwards
+- ये (*ye*)—which Pitṛs
+- यमेन (*yamena*)—with Yama
+- सधमादं (*sadhamādaṃ*)—together
+- मदंति (*madaṃti*)—rejoice
+- सुविदत्रान् (*suvidatrān*)—excellent, wise
+- पित्थन् (*pitthan*)—those Pitṛs
+- उपेहि (*upehi*)—join
+
+##### भावार्थ (Bhāvārtha)
+
+O departed one, follow the excellent path. Escape and pass beyond these two dogs, born of Saramā, of variegated colour, with four eyes. Then join those Pitṛs, excellent and wise, who rejoice together with Yama.
+
+##### English translation
+Pass by a secure path beyond the two spotted four-eyed dogs, the progeny of Sarama, and join the wise Pitris who rejoice joyfully with Yama.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the funeral rite, two flour lumps the size of a mango fruit are placed in the hands of the corpse and the two Ṛks beginning अतिद्रव सारमेयौ (*atidrava sārameyau*) are to be recited, as explained by the sūtra of the Āśvalāyana Gṛhya-sūtra अति द्रव सारमेयौ श्वानौ (*ati drava sārameyau śvānau*) (Ā. Gṛ. 4-3-20).
+
+In this Ṛk and the next, the two dogs called Sārameyas, the pups of the divine bitch Saramā, are mentioned. How Saramā, the divine bitch, being with Indra, greatly helped the gods in searching for the cows carried off by the Paṇis
+
+### Printed p. 475
+
+is described in the 108th sūkta of this Maṇḍala. Setting out at Indra's command to search for the cows, she travelled far, crossed the deep and very watery river Rasā, went to the region where the Paṇis were, conversed with them, explained to them the power of Indra and the gods and told them to give back the cows; when they did not agree, she returned from there, reported the whole matter to Indra and helped him — this is stated in that sūkta. It is said that the two dogs called Sārameyas, sons of this Saramā, were Yama's guards, punished the people who came to the world of the Pitṛs, but did not trouble those who had done good deeds. Even so, the seer warns that these dogs may cause trouble to the departed who leaves the dead body and goes to the world of the Pitṛs; and in the 12th Ṛk, praying to Agni, he describes that the departed should be led by a different, circuitous path, avoiding the region where these dogs are.
+
+On the basis of what is described in Ṛks 10–12 of this sūkta, these things appear: the two dogs are with Yama and guard his house and the like; each has four eyes; each has a long snout; they are always alert and watch the path on which the Pitṛs travel; they are famed as Yama's messengers.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यौ ते॒ श्वानौ॑ यम रक्षि॒तारौ॑ चतुर॒क्षौ प॑थि॒रक्षी॑ नृ॒चक्ष॑सौ ।  
+> ताभ्या॑मेनं॒ परि॑ देहि राजन्तस्व॒स्थि चा॑स्मा अनमी॒वं च॑  
+> धेहि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यौ । ते । श्वानौ । यम । रक्षितारौ।चतुःऽअक्षौ । पथिरक्षी इति पथिरक्षी । नृचक्षसौ।  
+> ताभ्यां । एनं । परि । देहि । राजन् । स्वस्ति । च । अस्मै । अनमीावं । च । धेहि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् हे यम ते त्वदीयौ यौत्वान् विद्येते ताभ्यां हे राजन्
+> यम एनं प्रेतं परि देहि । रक्षार्थं प्रयच्छ । कीदृशौ श्वानौ । रक्षितारौ यम_
+
+##### Gist of the bhāṣya
+
+O king Yama, hand over this departed one to those two dogs of yours, for protection. What are the dogs like? Guardians of Yama's
+
+### Printed p. 476
+
+> गृहस्य रक्षकौ चतुरक्षावक्षिचतुष्टययुक्तौ पथिरक्षी मार्गस्य रक्षकौ नृचक्षसौ
+> मनुष्यैः ख्याप्यमान् ! श्रुतिस्मृतिपुराणाभिज्ञाः पुरुषास्त्य प्रख्यापयंति ।
+> ताभ्यां श्वभ्यां दत्वास्मै प्रेताय स्वस्ति च क्षेममप्यनमीवं च रोगभावमपि
+> धेहि । संपादय ॥
+
+##### Gist of the bhāṣya
+
+house; four-eyed, endowed with four eyes; guardians of the road; नृचक्षसौ (*nṛcakṣasau*), proclaimed by men (the text says that men versed in Śruti, Smṛti and Purāṇa proclaim them). Having given the departed to those two dogs, grant him welfare (स्वस्ति (*svasti*), security) and also freedom from disease (अनमीवं (*anamīvaṃ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lord
+- यम (*yama*)—O god Yama
+- रक्षितारौ (*rakṣitārau*)—able to guard your house
+- चतुरक्षौ (*caturakṣau*)—having four eyes
+- पथिरक्षी (*pathirakṣī*)—guarding the paths
+- नृचक्षसौ (*nṛcakṣasau*)—praised by men
+- यौ तेश्वान् (*yau teśvān*)—which dogs of yours there are
+- ताभ्यां (*tābhyāṃ*)—to them
+- एनं (*enaṃ*)—this departed one
+- परि देहि (*pari dehi*)—commit for protection
+- अस्मै (*asmai*)—to this departed one
+- स्वस्ति च (*svasti ca*)—welfare
+- अनमीवं च (*anamīvaṃ ca*)—freedom from disease
+- धेहि (*dhehi*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O lord Yama, commit this departed one for protection to those dogs of yours that can guard your house, have four eyes, guard the paths and are praised by men. (Let the departed be protected by them.) Bring about welfare and freedom from disease for this departed one.
+
+##### English translation
+Entrust him, O king, to your two dogs, which are your protectors, Yama, the four-eyed guardians of the road, renowned by men, and grant him prosperity and health.
+
+##### विशेषविषयगळु (Special Topics)
+
+रक्षितार् (*rakṣitār*)—this word is an adjective of the word श्वानौ (*śvānau*). These dogs guard Yama's house. Or it can be understood to mean that they protect the Pitṛs newly arriving in the world of the Pitṛs.
+
+चतुरक्षौ (*caturakṣau*)—अक्षिचतुष्टययुक्तौ (*akṣicatuṣṭayayuktau*). Ordinary dogs have only two eyes; these dogs have four eyes, that is, two on each side, four in all. These four eyes help them to watch the road and the house carefully.
+
+पथिरक्षी (*pathirakṣī*)—मार्गस्य रक्षकौ (*mārgasya rakṣakau*). Besides Yama's house they also watch the path by which the Pitṛs come from the earth to Yama; that is, the departed who, devoted to the performance of good works, died
+
 ---
 
-**Progress note:** Done through printed p. 470. pp. 465-470 (batch API)
+**Progress note:** Done through printed p. 476. pp. 471-476 (batch API)
