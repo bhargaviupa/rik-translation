@@ -14306,6 +14306,258 @@ The Gandharvi and the water-consecrated feminine oblation praise Agni: may He be
 
 When the priests, for the sacrifice and only after the act of praise, produce this Agni, who himself desires the oblation and who gives the invocation to the gods who desire the oblation, then that same famous goddess Uṣas, auspicious, possessing sound and food, accompanied by Āditya, has quickly risen for the benefit of man.
 
+### Printed p. 387
+
+##### English translation
+That very auspicious, resounding, famous Dawn, ascends bringing the sun to man; when for the sacrifice after the worship they give birth to that Agni, the desirer, the invoker of the desiring (gods).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ त्यं द्र॒प्सं वि॒भ्वं॑ विचक्ष॒णं विराभ॑रदिष॒तः श्ये॒नो अ॑ध्व॒रे ।  
+> यदी॒ विशो॑ वृ॒णते॑ द॒स्ममार्या॑ अ॒ग्निं होता॑र॒मध॒ धीर॑जायत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । त्यं । द्रप्सं । विभ्वं । विचक्षणं । विः । आ । अभरत् । इषितः । श्येनः , अध्वरे  
+> यदि । विशः । वृणते । दस्मं । आर्याः । अग्निं । होतारं । अध । धीः i अजायत !
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाथानंतरं श्येनः श्येनाख्यो वि पक्ष्यध्वरे याग इषितोऽग्निप्रेषितो
+> विभ्वं महांतं विचक्षणं सर्वस्य विशेषेण द्रष्टारं त्यं तं प्रसिद्धं द्रप्पं नात्यल्पं
+> नातिबहुलं सोममाभरत् । आह्ृतवान् । अपि च यदि यदार्या अभिगमनीयं
+> तं व्रजंतो विशो यजमाना मनुष्या दस्म्यं दर्शनीयं शत्रूणामुपक्षपयितारं वा होतारमग्निं वृणते प्रार्थयंते अध तदा धीर्यागादिक्रियाजायत :
+> यज्जभिः प्रतायत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that after this (अध (*adha*)), the bird called Śyena, sent by Agni to the sacrifice, brought that famous Soma drop (द्रप्सं (*drapsaṃ*)). The Soma is great (विभ्वं (*vibhvaṃ*)), a seer of all in a special way (विचक्षणं (*vicakṣaṇaṃ*)), and is "not too little and not too much". Further, when the Āryas, that is, the sacrificers, the men who go to him as one to be approached, choose Agni the Hotṛ, whom he glosses as "fair to look upon" or "the one who destroys enemies" (दस्मं (*dasmaṃ*)), and pray to him, then the rite (धीः (*dhīḥ*)), the sacrificial action, came into being, that is, it was extended by the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—afterwards
+- श्येनः (*śyenaḥ*)—named Śyena
+- विः (*viḥ*)—the bird
+- अध्वरे (*adhvare*)—in the sacrifice
+- इषितः (*iṣitaḥ*)—impelled by Agni
+- विभ्वं (*vibhvaṃ*)—the great one
+- विचक्षणं (*vicakṣaṇaṃ*)—the one of subtle sight
+- त्यं (*tyaṃ*)—the famous one
+- द्रप्सं (*drapsaṃ*)—the flowing Soma
+- आभरत् (*ābharat*)—brought
+- यदि (*yadi*)—when
+- आर्याः (*āryāḥ*)—worshippers of Agni
+- विशः (*viśaḥ*)—the sacrificers
+- दस्म्यं (*dasmyaṃ*)—one of attractive form
+- होतारं (*hotāraṃ*)—the Hotṛ
+- अग्निं (*agniṃ*)—Agni
+- वृणते (*vṛṇate*)—pray to
+- अध (*adha*)—then
+- धीः (*dhīḥ*)—the action in the form of the sacrifice
+- अजायत (*ajāyata*)—began
+
+### Printed p. 388
+
+##### भावार्थ (Bhāvārtha)
+
+The bird called Śyena, sent by Agni to the sacrifice, brought the great, subtle-sighted, famous, flowing Soma. When the sacrificers, worshippers of Agni, pray to Agni, who is of attractive form and is the Hotṛ, then the action in the form of the sacrifice was begun.
+
+##### English translation
+The hawk sent (by Agni) to the sacrifice has brought the dripping copious all-seeing (soma) libration. When the Arya people choose the victorious Agni as the ministrant priest, then the sacred rite is celebrated.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सदा॑सि र॒णो यव॑सेव॒ पुष्य॑ते॒ होत्रा॑भिरग्ने॒ मनु॑षः स्वध्व॒रः।  
+> विप्र॑स्य वा॒ यच्छ॑शमा॒न उ॒क्थं१॒॑ १ वाजं॑ सस॒वा उ॑प॒यापि॒  ॑
+> भूरिभिः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सदा । असि । रण्वः । यवसा इव । पुष्यते । होत्राभिः । अग्ने । मनुषः । सु अध्वरः  
+> विप्रस्य । वा । यत् । शशमानः । उक्तं । वाजं । ससवान् । उपयासि ।  
+> भूरिभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं सदा सततं रणोऽसि । रमणीयो भवसि । तत्र दृष्टांतः ।
+> यवसेव पुष्यते यथा यवसानि तृणानि च पुष्टिं कुर्वते हस्त्यस्वगोमहिषादिचतुष्पदाय सर्वदा रमणीयानि भवंति तद्वत् । अपि च हे अग्ने मनुषो
+> मनुष्यस्य स्वभूतैर्होत्राभिः । होत्रेति यज्ञनामैतत् । यज्ञैः स्वध्वरः
+> शोभनयज्ञो भवेति शेषः। विप्रस्य वा स्तोतुर्वा यद्यस्य यजमानस्य वा स्वभूतमुक्थं स्तोत्रं शशमानः प्रशंसन् वाजं हविर्लक्षणमन्नं ससवान् संभजमानश्च
+> भूरिभिर्बहुभिर्देवैः सहोपयासि उपगच्छसि ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, you are always delightful (रण्वः (*raṇvaḥ*))." The illustration: as grasses and fodder (यवसानि (*yavasāni*)), which nourish elephants, horses, cows, buffaloes and other quadrupeds, are always pleasing to them, so are you. Further, O Agni, with the sacrifices of man (होत्राभिः (*hotrābhiḥ*); होत्रा (*hotrā*) is a name for sacrifice), be one of fair sacrifice (स्वध्वरः (*svadhvaraḥ*)), "be" being the word to supply. Praising the hymn (उक्थं (*ukthaṃ*)) belonging to the wise one, the singer, or to the sacrificer, and enjoying the food in the form of the oblation (वाजं (*vājaṃ*)), you come (उपयासि (*upayāsi*)) together with many gods.
+
+### Printed p. 389
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पुष्यते (*puṣyate*)—to the cattle and others who desire their nourishment
+- यवसेव (*yavaseva*)—as pasture is attractive
+- त्वं (*tvaṃ*)—you
+- सदा (*sadā*)—always
+- रण्वः (*raṇvaḥ*)—attractive
+- असि (*asi*)—you are
+- मनुषः (*manuṣaḥ*)—of man
+- होत्राभिः (*hotrābhiḥ*)—with sacrifices
+- स्वध्वरः (*svadhvaraḥ*)—be worshipped in the best manner
+- विप्रस्य (*viprasya*)—of the singer of praise
+- वा (*vā*)—or
+- यत् (*yat*)—of whichever sacrificer
+- उक्त्यं (*uktyaṃ*)—the hymn
+- शशमानः (*śaśamānaḥ*)—praising
+- वाजं (*vājaṃ*)—the food in the form of the oblation
+- ससवान् (*sasavān*)—partaking of
+- भूरिभिः (*bhūribhiḥ*)—with many gods
+- उपयासि (*upayāsi*)—come near
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as pasture is attractive to cattle and others who desire their nourishment, so you are always attractive to us. Be worshipped in the best manner with the sacrifices of man. Praising the hymn of the singer of praise or of the sacrificer, and partaking of the food in the form of the oblation, come near to our sacrifice with many gods.
+
+##### English translation
+You, Agni, are ever pleasing (to your worshippers), as pasture satisfies (the herds); be well-worshipped with man's sacrifices; if commending the praise of the wise, and partaking of the (sacrificial) food, you come with many (divinities to the rite).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑रय पि॒तरा॑ जा॒र आ भग॒मिय॑क्षति हर्य॒तो हृ॒त्त इ॑ष्यति ।  
+> विव॑क्ति॒ वह्निः॑ स्वप॒स्यते॑ म॒खस्त॑वि॒ष्यते॒ असु॑रो॒ वेप॑ते म॒ती ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईरय । पितरा । जारः । आ । भगं । इयक्षति । हर्यतः । हृत्तः । इष्यति ।  
+> विवक्ति । वह्निः । सुअपस्यते । मखः । तविष्यते । असुरः । वेपते । मती ॥ ६ ॥
+
+### Printed p. 390
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वदीयं ज्योतिः पितरा पितरौ सर्वप्राणिनां मातापितृभूते
+> द्यावापृथिव्यौ प्रत्युद्गमय । तत्र दृष्टांतः । आकार उपमार्थे । रात्रेर्नक्षत्रादिदीप्तीनां च जरयितृत्वाज्जार आदित्यः । स यथा द्यावापृथिव्यौ प्रति भगं भजनीयं
+> ज्योतिरुद्धमयति तद्वत् । हर्यतो यागं कावंयूमानान्प्रतीयक्षति ।
+> यजमानो यष्टुमिच्छति । हृत्तो हृदयेन चेष्यति । इषिरयं गत्यर्थः
+> शुद्धोऽप्युपसर्गपूर्वो द्रष्ट व्यः । अधीष्यति देवान्यष्टुमधिगच्छति ।
+> विवक्ति । विवक्षति । शस्त्रलक्षणाः स्तुतीर्वक्तुमिच्छति । वर्निर्वोढा स्तुतीनां
+> देवान्प्रति प्रापयिता होता च स्वपस्यते । शोभनमात्मीयं कर्म कर्तुमिच्छति ।
+> मखः । यज्ञनामैतत् । अत्र तत्पयोक्ताध्वर्युरुच्यते । स च तविष्यते । तविषिर्व्यद्धर्थः । स चात्रांतर्णीतसनर्थश्च द्रष्टव्यः । तुतुविसति । स्तोत्रलक्षणाः स्तुतीर्वर्धयितुमिच्छतीत्यर्थः । असुरः प्राणवान् प्रज्ञावान्वा । ब्रह्मेति शेषः । मती
+> मत्या बुद्धा वेपते । कर्मवैगुण्याद्भिभ्यत्कंपते । हे अग्ने यतो यजमानः
+> सर्वर्त्वजश्च स्वस्वकर्म कर्तुं त्वामागच्छंति अतस्त्वं शीघ्रमुद्दमयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, send up your light towards the parents (पितरा (*pitarā*)), Heaven and Earth, who are mother and father of all beings. The illustration: the particle आ (*ā*) is in the sense of comparison. Because he brings to an end (*jarayitṛtvāt*) the night and the lights of the stars and the like, the Sun is जार (*jāra*); as he sends up towards Heaven and Earth his adorable light (भगं (*bhagaṃ*)), so do you. The sacrificer wishes to worship (इयक्षति (*iyakṣati*)) the gods who desire the sacrifice, and with his heart he longs (इष्यति (*iṣyati*); the root इषि (*iṣi*) has the sense of going, and the plain form is to be seen as preceded by a prefix, "he approaches to worship the gods"). विवक्ति (*vivakti*) is "he wishes to speak" the praises in the form of śastras. The bearer (वह्निः (*vahniḥ*)), the Hotṛ, who conveys the praises to the gods, wishes to do his own good work (स्वपस्यते (*svapasyate*)). मखः (*makhaḥ*) is a name for sacrifice; here the Adhvaryu, who performs it, is meant; he "wishes to increase" (तविष्यते (*taviṣyate*); the root तविषि (*taviṣi*) has the sense of growth and here includes a desiderative meaning) the praises in the form of stotras. असुरः (*asuraḥ*) is "possessed of life or of wisdom", the Brahman priest being supplied; he trembles (वेपते (*vepate*)) in thought through fear of a defect in the rite. Since the sacrificer and all the priests come to you to do their own work, you should therefore rise up quickly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जारः (*jāraḥ*)—the Sun
+- भगं (*bhagaṃ*)—as he spreads his adorable splendour
+- पितरा (*pitarā*)—towards Heaven and Earth
+- उदीरय (*udīraya*)—spread your splendour
+- हर्यतः (*haryataḥ*)—the gods who desire the sacrifice
+- आ इयक्षति (*ā iyakṣati*)—the sacrificer wishes to worship
+- हृत्तः (*hṛttaḥ*)—with the mind
+- इष्यति (*iṣyati*)—wishes
+- विवक्ति (*vivakti*)—wishes to recite the praise
+- वह्नः (*vahnaḥ*)—the Hotṛ
+- स्वपस्यते (*svapasyate*)—wishes to do excellent work
+- मखः (*makhaḥ*)—the Adhvaryu
+- तविष्यते (*taviṣyate*)—wishes to increase the praise
+- असुरः (*asuraḥ*)—the Brahman
+- मती (*matī*)—together with his understanding
+- वेपते (*vepate*)—becomes intent on the rite
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as the Sun spreads his adorable splendour, spread your splendour towards Heaven and Earth. The sacrificer wishes to worship the gods who desire the sacrifice; he wishes it with all his heart; he wishes to recite the praise. The Hotṛ wishes to do excellent work, the Adhvaryu wishes to increase the praise. The Brahman, together with his understanding, becomes intent on the rite.
+
+##### English translation
+Wake up the parents, as the Sun his splendour: (the worshipper) desires to offer worship to (the deities) who are pleased by it; with all his
+
+### Printed p. 391
+
+heart he wishes (to do so); he desires to repeat (your praise); the bearer (of the oblation) is anxious to effect the good work; the sacrifice longs for augmentation, the prudent (sacrificer) trembles in his thoughts.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the various meanings of the word आ (*ā*) in this Ṛk, Yāska says that आ (*ā*) also has the sense of comparison, and cites this Ṛk in that connection:
+अथाप्युपमार्थे दृश्यते । जार आ भगं । जार इव भगं । आदित्योऽत्र जार उच्यते । रात्रेजरयिता । स एव भासां ॥ (*athāpyupamārthe dṛśyate | jāra ā bhagaṃ | jāra iva bhagaṃ | ādityo 'tra jāra ucyate | rātrejarayitā | sa eva bhāsāṃ ‖*) (Ni. 3-16)
+The prefix आ (*ā*) is also used in the sense of comparison, that is, of likeness. In the sentence जार आ भगं (*jāra ā bhagaṃ*) of the present Ṛk, the word आ (*ā*) has the sense of comparison, "like", so that it means "adorable like the Sun". Here the word जार (*jāra*) means the Sun. रात्रेजरयिता तदुदये हि रात्रिर्जीर्यते विपरिणमतीत्यर्थः (*rātrejarayitā tadudaye hi rātrirjīryate vipariṇamatītyarthaḥ*)—that is, because he brings the night to an end, the Sun is called जार (*jāra*). The meaning is that with the rising of the Sun the time of night comes to an end.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ अग्ने सुम॒तिं मर्तो॒ अक्ष॒त्सह॑सः सूनो॒ अति॒ स प्र  ॑
+> शृण्वे ।  
+> इषं॒ दधा॑नो॒ वह॑मानो॒ अश्वै॒रा स द्यु॒मा अनु॑वान्भूषति॒  
+> द्यून् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । अग्ने । सुमतिं । मर्तः । अक्षत् । सहसः । सूनो इति । अति । सः । प्र !  
+> शृण्वे ।  
+> इषं । दधानः । वहमानः । अश्वैः । आ । सः । द्युमान् । अमवान् । भूषति ;  
+> द्यून् ॥ ७ ॥
+
+### Printed p. 392
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहसः सूनो बलस्य पुत्राग्ने त्वदीयां सुमतिं शोभनामनुग्राहिकां
+> बुद्धिं यो मर्तो मनुष्यो यजमानोऽक्षत् अश्नुते । अनुग्रहशीलं त्वां
+> स्तुतिभिर्हविर्भिश्च परिचरतीत्यर्थः । स यजमानोऽति प्रशृण्वै । सर्वाल्लोकानतीत्य
+> प्रकर्षेण श्रूयते । प्रख्यातो भवतीत्यर्थः । कीदृशः । इषमन्नं वधानोऽथिभ्यः
+> प्रयच्छन् अश्वैर्वदमानः । किंच स एव द्युमान्वीप्तिमान् शरीरपतनानंतरं
+> द्युस्थानवान्वामवान्बलवाना ड्यून् । दुरित्यहर्नाम ॥ कालाद्वनोरत्यंतसंयोग
+> इत्येषा द्वितीया ॥ आदित्यकर्तृकाण्यहानि । आचंद्रार्कमित्यर्थः । भूषति । भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, son of strength (सहसः सूनो (*sahasaḥ sūno*), "son of might"), the mortal, the human sacrificer, who obtains (अक्षत् (*akṣat*), "attains") your good, gracious mind (सुमतिं (*sumatiṃ*)), that is, serves you, who are gracious by nature, with praises and oblations, becomes widely renowned (अति प्रशृण्वे (*ati praśṛṇve*)), heard of beyond all worlds. Of what kind is he? He gives food (इषं (*iṣaṃ*)) to petitioners and is borne by horses. Moreover he alone, after the falling of the body, is radiant (द्युमान् (*dyumān*)), possessed of a place in heaven or of strength (अमवान् (*amavān*)). द्यून् (*dyūn*) is a name for days; the accusative here is the second case taught by the rule "for time and road, continuous connection". The days are those caused by the Sun, that is, as long as the moon and sun last. भूषति (*bhūṣati*) is भवति (*bhavati*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहसः सूनो (*sahasaḥ sūno*)—O son of strength
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- सुमतिं (*sumatiṃ*)—excellent gracious mind
+- यः मर्तः (*yaḥ martaḥ*)—the sacrificer who
+- अक्षत् (*akṣat*)—obtains
+- सः (*saḥ*)—that sacrificer
+- इषं (*iṣaṃ*)—food
+- दधानः (*dadhānaḥ*)—giving to petitioners
+- अश्वैः (*aśvaiḥ*)—by horses
+- वहमानः (*vahamānaḥ*)—being borne
+- अति प्रशृण्वे (*ati praśṛṇve*)—obtains renown in abundance
+- सः (*saḥ*)—that same sacrificer
+- आ द्यून् (*ā dyūn*)—every day
+- द्युमान् (*dyumān*)—radiant
+- अमवान् (*amavān*)—powerful
+- भूषति (*bhūṣati*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, the sacrificer who obtains your excellent gracious mind gives food to petitioners, is borne by horses, and obtains renown in abundance. That same sacrificer becomes, every day, radiant and powerful.
+
+##### English translation
+Agni, son of strength, the mortal who obtains your fovaur is widely celebrated: possessing abundant food, and being conveyed by horses, illustrious and vigorous, he graces the days of his existence.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑ग्न ए॒षा समि॑ति॒र्भवा॑ति दे॒वीदे॒वेषु॑ यज॒ता य॑जत्र ।  
+> रत्ना॑ च॒ यद्वि॒भजा॑सि स्वधावो भा॒गं नो॒ अत्र॒ वसु॑मंतं  
+> वीतात् ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 386. pp. 381-386 (batch API)
+**Progress note:** Done through printed p. 392. pp. 387-392 (batch API)
