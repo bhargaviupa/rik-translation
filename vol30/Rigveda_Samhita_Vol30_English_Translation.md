@@ -23697,6 +23697,143 @@ May Varuna, Mitra, Aryaman (bestow) upon us felicity for our protection; may the
 
 > यथा॑ ह॒ त्यद्व॑सवो गौ॒र्यं॑ चित्प॒दि षि॒ताममुं॑चता यजत्राः ।
 
+### Printed p. 712
+
+> एवो ष्वग्‌स्मन्मुंचता व्यंहः प्रतार्यग्ने प्रतरं न आयुः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । ह । त्यत् । वसवः । गौर्यं । चित् । पदि । सितां । अमुंचत । यजत्राः ।  
+> एवो इति । सु । अस्मत् । मुंचत । वि । अंहः । प्र । तारि । अग्ने । प्रतरं । नः ।  
+> आयुः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसवो वासका हे यजत्रा यागार्हा मित्रादयो देवाः ॥ अमिनक्षीत्यादिना । उ. ३-१०५ । यजेरत्रन्प्रत्ययः ॥ त्यत् ते प्रसिद्धा यूयं ॥ सुपां
+> सुलुगिति विभक्तेर्लुक् ॥ यथा ह यथा खलु पदि पादे सितां बद्धां ॥ पद्दन्नित्यादिना
+> पादशब्दस्य पदादेशः । ऊडिदंपदादीत्यादिना सप्तम्या उदात्तत्वं । षिञ् बंधन
+> इत्यस्मान्निष्ठा ॥ ईदृशीं गौर्यं गौरीं गौरवर्णां सोमक्रयणीं गां ॥ षिङ् रादिभ्यश्चति जीष् । अमि पूर्व इत्यत्र वा छंदसीत्यनुवर्तनात्पूर्वरूपस्य पूर्वसवर्णदीर्घस्य चाभावे यण् । उदाद्तस्वरितयोर्यण इति परस्यानुदात्तस्य स्वरितत्वं ॥
+> ईदृशीं गाममुंचत यथा खलु यूयं विश्वावसोर्गंधर्वान्मोचितवंतः एवो
+> एवमेवास्मदस्मैत्तोऽहः पापं सुष्टु वि मुंचत । विश्लेषयत । हे अग्ने नोऽस्माकमायुर्जीवनं प्रतरं प्र तारि । प्रकर्षण त्वया प्रवर्धतां । प्रपूर्वस्तिरतिर्वर्धनार्थः ॥ प्रशब्दात्तरष्यमु च च्छंदसीत्यमुप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Vasus, the "dwellers" or "those who cause dwelling", and the Yajatras, the deities Mitra and the rest, who are worthy of sacrifice; यजेरत्रन्प्रत्ययः (*yajeratranpratyayaḥ*). त्यत् (*tyat*) means "you who are well known". यथा ह (*yathā ha*) means "just as indeed", and पदि सितां (*padi sitāṃ*) means "bound by the foot". The cow is गौर्यं (*gauryaṃ*), a cow of pale (gaura) colour, the one used for buying Soma. "As you released such a cow from the Gandharva Viśvāvasu, even so (एवो (*evo*)) release the sin (अंहः (*aṃhaḥ*)) from us well." He then says: O Agni, let our life be greatly prolonged by you; the verb प्र तारि (*pra tāri*) has the sense of increase.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—(you) who give dwelling, or who dwell everywhere
+- यजत्राः (*yajatrāḥ*)—worthy of sacrifice; O Mitra and the other deities
+- त्यत् (*tyat*)—you, the well known
+- पदि (*padi*)—by the foot
+- सितां (*sitāṃ*)—bound (with a rope)
+- गौर्यं चित् (*gauryaṃ cit*)—the cow of pale colour
+- यथा ह (*yathā ha*)—in which manner
+- अमुंचत (*amuṃcata*)—you released
+- एवो (*evo*)—in that same manner
+- अस्मत् (*asmat*)—from us
+- अंहः (*aṃhaḥ*)—our sins
+- सु (*su*)—well
+- वि मुंचत (*vi muṃcata*)—release (remove)
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life (the time of living)
+- प्रतरं (*prataraṃ*)—extended, for a long time
+- प्रतारि (*pratāri*)—let it be increased by you
+
+### Printed p. 713
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and the other deities, givers of dwelling or all-pervading, worthy of sacrifice: as you, the well known, released the pale cow whose foot was bound with a rope, even so remove our sins from us. O Agni, increase the measure of our life so that we may live long.
+
+##### English translation
+As you, adorable Vasus, set free the cow fastened by her foot, even so remove sin away from us, and prolong, Agni, our protracted life.
+
+##### विशेषविषयगळु (Special Topics)
+
+Formerly, when Soma was in heaven, the gods prayed to the metres in order to fetch it, and of them the Gāyatrī metre, in the form of a falcon, brought the Soma plants to earth. While it was bringing them, a Gandharva named Viśvāvasu snatched the Soma plants on the way. Then the gods gave a pale cow to Viśvāvasu and got the Soma plants back from him by purchase. The Gandharva had kept the cow he had received in exchange for the Soma plant bound, with a rope tied to its foot. There is an ancient story that, at the cow's prayer, the Viśvedevas Varuṇa, Mitra and Aryaman loosed the cow's bond and freed it. This is what is indicated here by the sentence गौर्यं चित्पदि षिताममुंचत (*gauryaṃ citpadi ṣitāmamuṃcata*).
+
+## Sūkta 127 (Maṇḍala 10)
+In this sūkta Night is praised. Although verses praising Night occur here and there in other sūktas, apart from this there is no complete sūkta praising Night. This sūkta has eight Ṛks. Some khila mantras (supplementary mantras) to be recited at the end of this sūkta also praise Night. Some of these khila mantras appear to be very ancient, because, when explaining the meaning of the word rātri, Yāska cites one of these khila mantras as an example and gives its Nirukta. Therefore
+
+### Printed p. 714
+these khila mantras can be said to have been in use in very early times, that is, in Yāska's time. Even now it is customary to recite this sūkta together with some khila mantras belonging to it as the Rātrisūkta. Yāska explains the etymology of the word rātri thus:
+रात्रिः कस्मात् प्ररमयति भूतानि नक्तंचारीण्युपरमयतीतराणि ध्रुवीकरोति । रातेर्वा स्याद्दानकर्मणः प्रदेयंतेऽस्यामवश्यायाः ॥ (*rātriḥ kasmāt praramayati bhūtāni naktaṃcārīṇyuparamayatītarāṇi dhruvīkaroti | rātervā syāddānakarmaṇaḥ pradeyaṃte 'syāmavaśyāyāḥ ‖*) (Ni. 2-18)
+What is rātri, and how did the word arise?
+प्ररमयति भूतानि नक्तं चारीणि (*praramayati bhūtāni naktaṃ cārīṇi*)—When this Night arrives, it gladdens certain creatures, namely forest wild beasts, piśācas and the like, and the asuras that roam at night. Since their roaming and sporting take place only at night, these beings naturally rejoice when day has passed and night has come. Therefore it is said here that Night delights certain beings and the creatures that move about at night.
+उपरमयतीतराणि ध्रुवीकरोति (*uparamayatītarāṇi dhruvīkaroti*)—Likewise, as soon as night arrives it makes the other creatures, that is, human beings and the like, stop their own work and rest. Since at night there is no light, seeing with the eye is not possible; therefore human beings and others do nothing at that time but stay fixed in one place, that is, they sleep. The meaning is that they do not move about and so on.
+रातेर्वा स्याद्दानकर्मणः प्रदीयंतेऽस्यामवश्यायाः (*rātervā syāddānakarmaṇaḥ pradīyaṃte 'syāmavaśyāyāḥ*)—This word rātri is derived from the root rā-dāne, meaning "to give". What is given? At night, because there is no heat of the sun, dew falls from the atmosphere. Because there is a giving or production of this dew, which of necessity falls, it is called rātri; this is the purport of the etymology.
+तस्यैषा भवति । आ रात्रि पार्थिवं रजः पितुरः प्रायि धामभिः । दिवः सदांसि बृहती वि तिष्ठस आ त्वेषं वर्तते तमः ॥ (*tasyaiṣā bhavati | ā rātri pārthivaṃ rajaḥ pituraḥ prāyi dhāmabhiḥ | divaḥ sadāṃsi bṛhatī vi tiṣṭhasa ā tveṣaṃ vartate tamaḥ ‖*) आ पूपुरस्त्वं रात्रि पार्थिवं रजः—स्थानैर्मध्यमस्य दिवः सदांसि बृहती महती वितिष्ठस आवर्तते त्वेषं तमोरजः ॥ (*ā pūpurastvaṃ rātri pārthivaṃ rajaḥ—sthānairmadhyamasya divaḥ sadāṃsi bṛhatī mahatī vitiṣṭhasa āvartate tveṣaṃ tamorajaḥ ‖*) (Ni. 9-29)
+This Ṛk, which contains the word rātri and praises Night, is given here as an example. This mantra beginning आ रात्रि (*ā rātri*) is not in the Ṛgveda Saṃhitā. It is stated in the khila mantras that belong, as it were, to the 127th sūkta of the 10th maṇḍala which praises Night (the first mantra of the 26th khila sūkta).
+
+### Printed p. 715
+आपूपुरस्त्वं रात्रि पार्थिवं रजः (*āpūpurastvaṃ rātri pārthivaṃ rajaḥ*)—O Night, you (with your darkness) have filled the world of the earth, and स्थानैर्मध्यमस्य दिवः सदांसि (*sthānairmadhyamasya divaḥ sadāṃsi*) the places of the atmosphere and of heaven. O Night of great majesty, the fearful darkness, covering all regions, draws everything to your vicinity; this is the purport of the etymology.
+Concerning the greatness and the use of the Rātrisūkta, the great sage Śaunaka says in his work Ṛgvidhāna:
+रात्रीं प्रपद्येत सदा शुचिश्चीर्णव्रतो निशि ॥ २० ॥ (*rātrīṃ prapadyeta sadā śuciścīrṇavrato niśi ‖ 20 ‖*)
+यः कामयेत न पुनर्जायेयमिति योनिषु । (*yaḥ kāmayeta na punarjāyeyamiti yoniṣu |*)
+सहस्रकृत्तो मनसा जपेद्रातीति रात्रिषु ॥ २१ ॥ (*sahasrakṛtto manasā japedrātīti rātriṣu ‖ 21 ‖*)
+स्थालीपाकेन रात्रीं च यजीताहरहर्निशि । (*sthālīpākena rātrīṃ ca yajītāharaharniśi |*)
+तन्नना निशि चासीनस्तिष्ठेदहनि धार्मिकः ॥ २२ ॥ (*tannanā niśi cāsīnastiṣṭhedahani dhārmikaḥ ‖ 22 ‖*)
+ऊर्ध्वं संवत्सराच्चैव चरुं पयसि संस्कृतं । (*ūrdhvaṃ saṃvatsarāccaiva caruṃ payasi saṃskṛtaṃ |*)
+सहस्रकृत्वस्वतेन दिवा होमो विधीयते ॥ २३ ॥ (*sahasrakṛtvasvatena divā homo vidhīyate ‖ 23 ‖*)
+जुहुयान्निशि पूर्वस्मिन् रात्रिभागे समाहितः । (*juhuyānniśi pūrvasmin rātribhāge samāhitaḥ |*)
+दिवा चावश्यकं कार्यं छायायामंशुतेजसा ॥ २४ ॥ (*divā cāvaśyakaṃ kāryaṃ chāyāyāmaṃśutejasā ‖ 24 ‖*)
+इति प्रयत आत्मावान्नूक्तं तु मनसा जपेत् । (*iti prayata ātmāvānnūktaṃ tu manasā japet |*)
+संवत्सरे तृतीये तु सर्पिषा साधयेच्चरुं ॥ २५ ॥ (*saṃvatsare tṛtīye tu sarpiṣā sādhayeccaruṃ ‖ 25 ‖*)
+अथास्य वरदा देवी रात्रिर्भवति शर्वरी । (*athāsya varadā devī rātrirbhavati śarvarī |*)
+विज्ञापयीत तां देवीं वरदां स्वयमागतां ॥ २६ ॥ (*vijñāpayīta tāṃ devīṃ varadāṃ svayamāgatāṃ ‖ 26 ‖*)
+संवत्सर ऋतौ मासि दिवसेऽस्मिन् क्षणेऽपि वा । (*saṃvatsara ṛtau māsi divase 'smin kṣaṇe 'pi vā |*)
+प्रयाणकालो भविता तव वत्सेति वत्सला ॥ २७ ॥ (*prayāṇakālo bhavitā tava vatseti vatsalā ‖ 27 ‖*)
+रात्रीसूक्तं जपन्नेव तं कालं प्रतिपद्यते । (*rātrīsūktaṃ japanneva taṃ kālaṃ pratipadyate |*)
+न योनिं पुनरायाति सर्वपापैः प्रमुच्यते ॥ २८ ॥ (*na yoniṃ punarāyāti sarvapāpaiḥ pramucyate ‖ 28 ‖*)
+(Ṛgvidhāna, Adhyāya 4, Ślokas 20-28)
+To recite this Rātrīsūkta, one must always be purified, wearing a clean (washed) garment, and recite it at night. A man who desires, "May I not be born again in the wombs of various creatures; may I attain liberation without return",
+
+### Printed p. 716
+should recite this Rātrīsūkta mentally a thousand times at night. Every day, at night, he should make a homa with the mantras of this Rātrīsūkta in the established fire by the sthālīpāka procedure; at night and by day he should always keep meditating on the goddess Night in his mind. Having done this for one year, he should then prepare a milk-mixed caru and perform a thousand homas in the daytime. While performing the homa he should do it in the first part of the night, that is, while there is still a little sunlight, and he should keep reciting the sūkta mentally during the homa. Having done so in the second year, then in the third year he should perform the homa with the caru mixed with ghee. If he does so, the goddess Night appears before that practitioner and becomes ready to grant a boon. Then the practitioner should pray thus to the goddess who has come to bestow a boon on him: "O goddess, if from here onward, whether within a year, or a season, or a month, or a day, or even at this very moment, my time of departure (the time of death) should arrive, do you in compassion avert it. I am a son dear to you." By praying thus and reciting the Rātrīsūkta he becomes able to ward off the calamity (that time of death) that might befall him. And a man who dies while reciting the Rātrīsūkta is freed from all sins and is not born again in a womb. Such is the account.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रात्रित्यष्टर्चं प चदतं सूक्तं सोभरिपुत्रस्य कुशिकस्यार्षं । यद्वा । भारद्वाजस्य सुता रात्र्याख्यास्य सूक्तस्यर्षिका । गायत्रं रात्रि देवताकं । कथा चानुक्रांतं । रात्रि कुशिकः सौभरो रात्रिर्वा भारद्वाजी रात्रिस्तवं गायत्रमिति ॥ दुःस्वप्नदर्शन उपोषितेन कर्त्रा पायसेन होतव्यं । तत्रैतत्तूक्तं करणत्वेन विनियुक्तं ।
+> तथा चारण्यके श्रूयते । स यद्येतेषां किंचित्पश्येदुपोष्य पायसं स्थालीपाकं
+> श्रपयित्वा रात्रिसूक्तेन प्रत्यृचं हुत्वा । ऐ. आ. ३-२-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta रात्रित्यष्टर्चं (*rātrityaṣṭarcaṃ*) has eight Ṛks and is the fifteenth sūkta of the anuvāka. Its seer is Kuśika, son of Sobhari; or else the seer is Rātri, daughter of Bharadvāja. The deity is Rātri and the metre Gāyatrī. The Anukramaṇī says: रात्रि कुशिकः सौभरो रात्रिर्वा भारद्वाजी रात्रिस्तवं गायत्रं (*rātri kuśikaḥ saubharo rātrirvā bhāradvājī rātristavaṃ gāyatraṃ*). Use: on seeing a bad dream, the performer, having fasted, is to make an offering of pāyasa; this sūkta is applied as the instrument. So it is heard in the Āraṇyaka: स यद्येतेषां किंचित्पश्येदुपोष्य पायसं स्थालीपाकं श्रपयित्वा रात्रिसूक्तेन प्रत्यृचं हुत्वा । (*sa yadyeteṣāṃ kiṃcitpaśyedupoṣya pāyasaṃ sthālīpākaṃ śrapayitvā rātrisūktena pratyṛcaṃ hutvā |*) (Ai. Ā. 3-2-4).
+
+Anuvāda: this sūkta Rātrī is the fifteenth sūkta in the tenth anuvāka. It has eight Ṛks. Its seer is Kuśika, son of Sobhari; or the woman named Rātri, daughter of the sage Bharadvāja, may be the seer of this sūkta. Its deity is Rātri; the metre is Gāyatrī. In the Anukramaṇī it is said: रात्रि कुशिकः सौभरो रात्रिर्वा भारद्वाजी रात्रिस्तवं गायत्रं (*rātri kuśikaḥ saubharo rātrirvā bhāradvājī rātristavaṃ gāyatraṃ*). Bad dreams: on seeing them, one who has fasted
+
+### Printed p. 717
+is to make a homa in the fire with pāyasa. That the mantras of this sūkta are to be recited for the homa is stated in the Aitareya Āraṇyaka: स यद्यतेषां किंचित्पश्येदुपोष्य पायसं स्थालीपाकं श्रपयित्वा रात्रीसूक्तेन प्रत्यृचं हुत्वा (*sa yadyateṣāṃ kiṃcitpaśyedupoṣya pāyasaṃ sthālīpākaṃ śrapayitvā rātrīsūktena pratyṛcaṃ hutvā*) (Ā. Ai. 3-2-4).
+Maṇḍala 10; Anuvāka 10; Sūkta 127; Aṣṭaka 8; Adhyāya 7; Varga 14. Number of Ṛks in the sūkta: 8. Ṛṣi: Kuśika Saubhara, or Rātri Bhāradvājī. Deity: Rātristava. Metre: Gāyatrī.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रात्री॒ व्य॑ख्यदाय॒ती पु॑रु॒त्रा दे॒व्य१॒॑ १ क्षभिः॑ ।  
+> विश्वा॒ अधि॒ श्रीयो॑ऽधित ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रात्री । वि । अख्यत् । आयती । पुरुत्रा । देवी । अक्षभिः ।  
+> विश्वाः । अधि । श्रियः । अधित ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयत्यागच्छंती ॥ आज्पूर्वादेतेः शतर्यदादित्वाच्छपो लुक् । इणो यण्णिति
+> यणादेशः । उगितश्चति जीप् । शतुरनुम इति नद्या उदात्तत्वं ॥ अक्षभिरक्षिस्थानीयैः
+> प्रकाशमानैनर्नक्षत्रैः ॥ छंदस्यपि दृश्यत इत्यक्षिशब्दस्यानजादेशः ॥ यद्वा। अक्षभिरंजकैस्तेजोभिः । पुरुत्रा बहुषु देशेषु देवी देवनशीला ॥ देवमनुष्यपुरुषपुरुमर्त्येभ्य इत्यादिना पुरुषब्दात्सप्तम्यर्थे त्राप्रत्ययः ॥ रात्रीयं रात्रिदेवता
+> व्यख्यत् । विचष्टे । विशेषेण पश्यति ॥ रात्रेश्चाजसाविति जीप् । ख्यातेश्चांदसे
+> लुज्यस्यतिवक्तीत्यादिना चेरजादेशः ॥ अपि चैषा विश्वाः सर्वाः श्रियः शोभा अध्यधित ।
+> अधिधारयति ॥ दधातेर्लुजि स्थाघ्वोरिच्छेतीत्वं । सिचः कित्वं । ह्रस्वादंगादिति
+> सिचो लोपः ॥
+
+##### Gist of the bhāṣya
+
+आयती (*āyatī*) is "coming", from ā + the root i with śatṛ; the sūtras on the lopa of śap, the yaṇ substitution and the nadī accent are given. अक्षभिः (*akṣabhiḥ*) means by the stars, shining like eyes in place (of the eyes); the word akṣi takes the substitute aja. Or else अक्षभिः (*akṣabhiḥ*) means by colouring lights. पुरुत्रा (*purutrā*) means in many places; देवी (*devī*) is "of shining nature"; the affix trā is added to puru in the locative sense. This Night-deity व्यख्यत् (*vyakhyat*), looks about, sees in particular. Moreover she अध्यधित (*adhyadhita*), puts on, all (विश्वाः (*viśvāḥ*)) splendours (श्रियः (*śriyaḥ*)); the verb is from dhā in the luṅ aorist.
+
 ---
 
-**Progress note:** Done through printed p. 711. pp. 706-711 (batch API)
+**Progress note:** Done through printed p. 717. pp. 712-717 (batch API)
