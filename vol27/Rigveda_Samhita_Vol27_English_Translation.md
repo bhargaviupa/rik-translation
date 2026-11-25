@@ -20942,6 +20942,176 @@ Up to now the seer has spoken in general of the dead man's kinsmen and friends; 
 
 A brother-in-law or other such person shall raise the dead man's wife from beside her husband with this verse, *udīrgha nāri*. It is laid down in a sūtra: तामुत्थापयेद्देवरः पतिस्थानीयोंतेवासी जरद्दासो वोदीर्घ नार्यभि जीवलोकं । आ. गृ- ४-२-१८ । इति॥ (*tāmutthāpayeddevaraḥ patisthānīyoṃtevāsī jaraddāso vodīrgha nāryabhi jīvalokaṃ | ā. gṛ- 4-2-18 | iti‖*) Then: O woman, wife of the dead man, rise up (उदीर्ष्व (*udīrṣva*)) towards the जीवलोकं (*jīvalokaṃ*), the world of the living, sons, grandsons and the rest, that is, the place, the house; rise up from this place. The root ईर (*īra*) is in the sense of going, of the adādi class.
 
+### Printed p. 611
+
+> सुमपक्रांतप्राणमेतं पतिमुप शेषे । तस्य समीपे स्वपिषि । तस्मात्त्वमेहि ।
+> आगच्छ ! यस्मात्त्वं हस्तग्राभस्य पाणिग्राहं कुर्वतो दिधिषोर्गर्भस्य निधातुस्तवास्य
+> पत्युः संबंधादागतमिदं जनित्वं जायात्त्वषुभिलक्ष्य सं बभूथ सं भूतासि अनुमरणनिश्चयमकार्षिः तस्मादागच्च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the verse as addressed to the wife of the dead man. "I who lie beside this man whose life-breath has departed", he says, "you are lying near him; therefore come. Since you, in respect of him who took your hand and was the begetter of the child, have turned toward this state of being his wife, you have resolved to die with him (anumaraṇa); therefore come away."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नारि (*nāri*)—O wife of the dead man
+- जीवलोकं अभि (*jīvalokaṃ abhi*)—to the house, the abode of your sons, grandsons and the rest
+- उदीर्ष्व (*udīrṣva*)—rise from here and set out
+- गतासुं (*gatāsuṃ*)—one whose life has gone
+- एतं (*etaṃ*)—near this husband
+- उप शेषे (*upa śeṣe*)—you are lying
+- एहि (*ehi*)—come home
+- हस्तग्राभस्य (*hastagrābhasya*)—of him who took your hand in marriage
+- दिधिषोः (*didhiṣoḥ*)—and caused you to conceive
+- तव पत्युः (*tava patyuḥ*)—with your husband
+- इदं जनित्वं अभि (*idaṃ janitvaṃ abhi*)—honouring your state of being his wife
+- सं बभूथ (*saṃ babhūtha*)—you have resolved to die with him (give that up and come home)
+
+##### भावार्थ (Bhāvārtha)
+
+O wife of the dead man, rise from here and go to the house, the abode of your sons and grandsons. You are lying near this husband whose life has gone; come home. Honouring your state of being the wife of the husband who took your hand and caused you to conceive, you have resolved to die with him; give that up and come home.
+
+##### English translation
+Rise, woman, (and go) the world of living beings : come, this man near whom you sleep is lifeless : you have enjoyed this state of being the wife of your husband, the suitor who took you by the hand.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 4-2-18) prescribes that when the wife of the dead man, clinging to his body, is set on going with him in sahagamana, she is to be raised and brought away from the body with the ṛk "udīrṣva nārī". The sūtra: तामुत्थापयेद्देवरः पतिस्थावीयोऽन्तेवासी जरद्दासो पोदीर्ष नार्यभि जीवलोकं (*tāmutthāpayeddevaraḥ patisthāvīyo 'ntevāsī jaraddāso podīrṣa nāryabhi jīvalokaṃ*).
+"हे नारि जीवलोकं अभि उत् ईर्ष्व (*he nāri jīvalokaṃ abhi ut īrṣva*)": O wife of the dead man, do not grieve, rise. What is in the dead body? His self has left that body and gone to the other world. Therefore leave contact with the dead body and come here. Make ready to go to this world where living kinsmen dwell, that is, to your house. The living must strive to live in this world of the living as long as their life lasts; it is not proper to cherish attachment to the lifeless body left behind after departure to the other world. Therefore leave the body of your husband there and rise and come.
+"गतासुं एतं उप शेषे, एहि (*gatāsuṃ etaṃ upa śeṣe, ehi*)": O woman, the body of your husband that you embrace has no breath. It is a corpse, a mere inert thing. Why lie near it? The breath that has left the body does not return. Therefore leave that body and come.
+When the dead man's wife, unable to be apart from his body, embraces it and laments, heeds no one and is resolved to go with that body in sahagamana, her brother-in-law (devara), that is, the dead man's younger brother, should try to turn her from this and bring her back home. If the dead man has no younger brother, the purohita, a pupil, or a long-serving servant of the dead man may do this task of consoling the wife and bringing her back. In the present ṛk the brother-in-law addresses her with the words "उदीर्ष्व (*udīrṣva*)".
+
+### Printed p. 612
+"Hastagrābhasya didhiṣoḥ tava patyuḥ idaṃ janitvaṃ abhi saṃ babhūtha": O woman, in respect of this husband of yours, who took your hand at the wedding but was not able to make you conceive a womb for the sake of a son, you have set your mind, following a wife's duty, on going with his dead body in sahagamana. Do not do so. Since no son who would extend the family has been born to you, give up this resolve, in order to obtain such a son from the devara (brother-in-law) and bring your husband a good state in the other world; leave your husband's body, rise and come. This is what the devara, the husband's younger brother, says to her.
+In former times, that is, in the Vedic period, if a husband died without a son, his wife used to obtain from the devara, her husband's brother, one son only, for the sake of a son. For this reason the present ṛk speaks of the brother-in-law holding back the dead man's wife from sahagamana and bringing her back to his own house. So that there may be no cause for doubt whether a brother-in-law could have intercourse with his elder brother's wife, or whether such a custom existed, the subject is mentioned elsewhere in the Ṛgveda itself—
+
+### Printed p. 613
+कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतुः कुहोषतुः । को नां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥ (*kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karatuḥ kuhoṣatuḥ | ko nāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā ‖*)
+(Ṛ. Saṃ. 10-40-2)
+The woman Ghoṣā, seer of this ṛk, speaks thus to the Aśvins: O Aśvins, where were you at night? Where by day? Where was your lodging today? In the house of which sacrificer did you lie? In whose house did you spend the night, as the wife of a dead man resorts at night to her brother-in-law (her husband's younger brother) for intercourse? Thus she questions the Aśvins in various ways. In this ṛk the sentence "vidhavēva dēvaraṃ maryaṃ na yōṣā kṛṇutē sadhastha ā" shows the present matter clearly. Its meaning is: as a widow who has lost her husband lies on one bed with her brother-in-law, a man, and makes him face her and attends on him. On this Yāska gives the etymology—
+क्व वसथः । को वां शयने विधवेव देवरं । देवरः कस्मात् । द्वितीयो वर उच्यते । विधवा विधातृका भवति । विधवनाद्वा । (*kva vasathaḥ | ko vāṃ śayane vidhaveva devaraṃ | devaraḥ kasmāt | dvitīyo vara ucyate | vidhavā vidhātṛkā bhavati | vidhavanādvā |*)
+(Ni. 3-15)
+That is: O Aśvins, where did you lie at night? Did you spend the night lying somewhere else, as a husbandless widow lies on one bed with her brother-in-law? Here the word dēvara means the second husband (vara). The dead husband is the woman's first husband; the devara, the brother-in-law, is the widow's second. The word vidhavā is explained by its parts as a woman who has lost the husband who nourished and protected her, a woman without a husband, or one who after her husband's death runs to others and takes refuge with them.
+In Smṛti and other works the following is found:
+यस्या म्रियेत कन्याया वाचा सत्ये कृते पतिः । कामनेन विधानेन निजो विंदेत देवरः ॥ (*yasyā mriyeta kanyāyā vācā satye kṛte patiḥ | kāmanena vidhānena nijo viṃdeta devaraḥ ‖*)
+It says that if the husband to whom a maiden had been promised in words (vāc) dies, after the verbal rite (vāṅmukhya) of the wedding was done but before the marriage rite was completed, then his younger brother, the brother-in-law, should marry that woman in due order. If the dead man has no brother,
+
+### Printed p. 614
+it says that those of his relatives who are fit should take the dead man's wife. The sage Parāśara says—
+नष्टे मृते प्रव्रजिते क्लीबे च पतितेऽपत् । पंचस्वापत्सु नारीणां पतिरन्यो विधीयते ॥ (*naṣṭe mṛte pravrajite klībe ca patite 'pat | paṃcasvāpatsu nārīṇāṃ patiranyo vidhīyate ‖*)
+That is: when the husband she married dies, or goes abroad for a long time, or it is not certain whether he lives, or he is unfit for intercourse and impotent, or he is fallen (patita), outcaste through evil deeds and the like, in these cases the woman may marry another husband. The custom that when a husband dies his younger brother or a near relative marries the woman is still found today among forest peoples of many other countries.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धनु॒र्हस्ता॑द॒दादा॑नो मृ॒तस्या॒स्मे क्ष॒त्राय॒ वर्च॑से॒ बला॑य ।  
+> अत्रै॒व त्वमि॒ह व॒यं सु॒वीरा॒ विश्वाः॒ स्पृधो॑ अ॒भिमा॑तीर्जयेम ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धनुः । हस्तात् । आददानः । मृतस्य । अस्मे इति । क्षत्राय । वर्चसे । बलाय ।  
+> अत्र । एव । त्वं । इह । वयं । सुवीराः । विश्वाः । स्पृधः । अभिमातीः । जयेम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्षत्रियस्य धनुर्हस्तादित्यनया धनुः प्रहरेत् । सूत्रितं च । धनुर्हस्तादाददानो मृतस्येति धनुः । अ. गृ. ४-२-२० । इति ॥
+> मृतस्य क्षत्रियस्य हस्ताद्धनुराददानः । किमर्थं । अस्मे अस्माकं क्षत्राय
+> प्रजापालनसमर्थाय बलाय वर्चसे तेजसे बलाय सेनालक्षणाय च धनुराद.
+> दानोऽहं ब्रवीमीति शेषः । किमिति । त्वमत्र्यैवास्मिन्स्थान एव भव वयं चेहास्मिल्लोके सुवीराः सुपुत्रयुक्ता भवंतो विश्वाः सर्वानभिमातीरभिमन्यमानान्
+> स्पृधः संघर्षयित्रिन्बाधकात्यत्रूञ्चयेम । सहेमहि ॥
+
+##### Gist of the bhāṣya
+
+The ṛk "धनुर्हस्तात् (*dhanurhastāt*)" is used for taking up the bow of a dead Kṣatriya. Sāyaṇa cites the sūtra धनुर्हस्तादाददानो मृतस्येति धनुः (*dhanurhastādādadāno mṛtasyeti dhanuḥ*). The speaker takes the bow from the hand of the dead Kṣatriya: for what purpose? For our kṣatra, capacity to protect the people, for varcas, brilliance, and for bala, strength in the form of an army. "I who take the bow say: you remain here in this very place, and we here in this world, with good sons, may overcome all who assail us, all the opponents, the harmful enemies." The verb "may we overcome" is glossed "may we overpower".
+
+### Printed p. 615
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मे (*asme*)—our
+- क्षत्राय (*kṣatrāya*)—for strength
+- वर्चसे (*varcase*)—for brilliance
+- बलाय (*balāya*)—for vigour
+- मृतस्य (*mṛtasya*)—of this dead Kṣatriya
+- हस्तात् (*hastāt*)—from the hand
+- धनुः (*dhanuḥ*)—the bow
+- आददानः (*ādadānaḥ*)—having taken (I say thus)
+- त्वं (*tvaṃ*)—you
+- अत्रैव (*atraiva*)—remain right here
+- वयं (*vayaṃ*)—we
+- इह (*iha*)—in this world
+- सुवीराः (*suvīrāḥ*)—with excellent sons, grandsons and the rest
+- अभिमातीः (*abhimātīḥ*)—who attack
+- स्पृधः (*spṛdhaḥ*)—and harm
+- विश्वाः (*viśvāḥ*)—all enemies
+- जयेम (*jayema*)—we conquer
+
+##### भावार्थ (Bhāvārtha)
+
+Taking the bow from the hand of this dead Kṣatriya, for our strength, brilliance and vigour, I say thus: O dead man, remain right here. In this world, with excellent sons and grandsons, we conquer all the enemies who attack and harm us.
+
+##### English translation
+Taking his bow from the hand of the dead man, for the sake of our vigour, energy and strength, (I say) you are there; may we (who are) here, blessed with male offspring, overcome all the enemies who assail us.
+
+##### विशेषविषयगळु (Special Topics)
+
+If the dead man is a Kṣatriya, this ṛk "धनुर्हस्तात् (*dhanurhastāt*)" is to be recited when the bow in his hand is taken, as shown by the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 4-2-20): धनुर्हस्तादाददानो मृतस्येति धनुः (*dhanurhastādādadāno mṛtasyeti dhanuḥ*).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ सर्प मा॒तरं॒ भूमि॑मे॒तामु॑रु॒व्यच॑सं पृथि॒वीं  ॒॑
+> सुशेवां ।  
+> ऊर्ण॑म्रदा युव॒तिर्दक्षि॑णावत ए॒षा त्वा॑ पातु॒ निर्ऋ॑तेरु॒पस्था॑त् ॥ १० ॥
+
+### Printed p. 616
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । सर्प । मातरं । भूमिं । एतां । उरुऽव्यचसं । पृथिवीं । सुशेवां ।  
+> ऊर्णम्रदाः । युवतिः । दक्षिणावते । एषा । त्वा । पातु । निःऋतेः । उप-  
+> ।  
+> स्थात् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीक्षितमरण उप सर्प मातरमित्याद्याश्चतस्रः शंसनीयाः । सूत्रितं च ।
+> उप सर्प मातरं भूमिमेतामिति चतस्रः सोम एकेभ्यः । अ. ६-१० । इति ॥ उप
+> सर्पेत्यनया संचितान्यस्थीनि गर्तॆ निदध्युः । आ. गृ. ४-५-५ ॥
+> मातरं मातृभूतां भूमिमस्माभिर्भूमौ निधीयमानस्तृमुप सर्प ।
+> उपगच्छ । अनुप्रविशेत्यर्थः । कीदृशीं । उरुव्यचसं बहुव्याप्तिकां पृथिवीं
+> विस्तीर्णां सुशेवां सुसुखां । सर्वेषां सुखदात्रीमित्यर्थः । तामुपगच्छ ।
+> युवतियौवनान्विता स्त्रीरूपेयं भूमिदक्षिणावत ऋत्विग्यो देयत्वेन धनवतॆ: यजमानायोर्णम्रदाः । ऊर्णेवोर्णाक इव मृद्वी भवति । सुकुमारा
+> भवति । न बाधयित्रित्यर्थः । सैषा पृथिवी निर्ऋतेर्मृत्युदेवताया उपस्थात्समीपस्थानात्वा त्वामस्थि रूपं यजमानं पातु । रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+At the death of a dīkṣita, four ṛks beginning "उप सर्प मातरं (*upa sarpa mātaraṃ*)" are to be recited (śaṃsanīya). Sāyaṇa cites the sūtra उप सर्प मातरं भूमिमेतामुरुव्यचसं पृथिवीं सुशेवां । ऊर्णम्रदा युवतिर्दक्षिणावत एषा त्वा पातु निर्ऋतेरुपस्थात् ॥ १० ॥ उप । सर्प । मातरं । भूमिं । एतां । उरुऽव्यचसं । पृथिवीं । सुशेवां । ऊर्णम्रदाः । युवतिः । दक्षिणावते । एषा । त्वा । पातु । निःऋतेः । उप- । स्थात् ॥ १० ॥ दीक्षितमरण उप सर्प मातरमित्याद्याश्चतस्रः शंसनीयाः । सूत्रितं च । उप सर्प मातरं भूमिमेतामिति चतस्रः सोम एकेभ्यः । अ. ६-१० । इति ॥ (*upa sarpa mātaraṃ bhūmimetāmuruvyacasaṃ pṛthivīṃ suśevāṃ | ūrṇamradā yuvatirdakṣiṇāvata eṣā tvā pātu nirṛterupasthāt ‖ 10 ‖ upa | sarpa | mātaraṃ | bhūmiṃ | etāṃ | uru 'vyacasaṃ | pṛthivīṃ | suśevāṃ | ūrṇamradāḥ | yuvatiḥ | dakṣiṇāvate | eṣā | tvā | pātu | niḥṛteḥ | upa- | sthāt ‖ 10 ‖ dīkṣitamaraṇa upa sarpa mātaramityādyāścatasraḥ śaṃsanīyāḥ | sūtritaṃ ca | upa sarpa mātaraṃ bhūmimetāmiti catasraḥ soma ekebhyaḥ | a. 6-10 | iti ‖*) and another: with "upa sarpa" they should lay the gathered bones in a pit (Ā. Gṛ. 4-5-5). *Mātaram*: the Earth, who is our mother; "creep up to her" as she is placed in the earth by us, that is, enter her. What is she like? Wide-expanding (uruvyacas), pervading much; Pṛthivī, broad; suśevā, very pleasant, the giver of happiness to all. Go to her. She is a young woman (yuvati), this earth in woman's form, to the sacrificer who is rich in dakṣiṇā, a giver of fees to the priests, she is ūrṇamradā: soft like wool (ūrṇa), like a woollen thing; she is very tender; the meaning is that she does not hurt. May this Earth protect you, the sacrificer in the form of bones, from the lap, the proximity, of Nirṛti, the goddess of death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुव्यचसं (*uruvyacasaṃ*)—all-pervading
+- पृथिवीं (*pṛthivīṃ*)—spread out widely
+- सुशेवां (*suśevāṃ*)—giver of happiness
+- मातरं (*mātaraṃ*)—in the form of a mother
+- एतां भूमिं (*etāṃ bhūmiṃ*)—to this Earth
+- उप सर्प (*upa sarpa*)—enter
+- युवतिः (*yuvatiḥ*)—this Earth, having the nature of a woman
+- दक्षिणावते (*dakṣiṇāvate*)—to the sacrificer who has given generously
+- ऊर्णम्रदाः (*ūrṇamradāḥ*)—is soft like wool
+- एषा (*eṣā*)—this Earth
+- निर्यतेः (*niryateḥ*)—of the goddess of death
+- उपस्थात् (*upasthāt*)—from the nearness
+- त्वा (*tvā*)—you
+- पातु (*pātu*)—may she protect
+
+##### भावार्थ (Bhāvārtha)
+
+Enter this Earth, all-pervading, widely spread, in the form of a mother and giver of happiness. This Earth, having the nature of a woman, is soft like wool to the sacrificer who has given generously. May this Earth protect you from the nearness of the goddess of death.
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 610. pp. 605-610 (batch API)
+**Progress note:** Done through printed p. 616. pp. 611-616 (batch API)
