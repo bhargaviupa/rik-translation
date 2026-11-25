@@ -6023,6 +6023,185 @@ well fitted with straps, fit to be poured out, full of water, inexhaustible.
 First explanation (the priests' cultivation): "O priests, satisfy the horses, that is, the pervading bulls, by giving suitable fodder, water and the like, so that they are capable of ploughing the field. Having done so, win हितं (*hitaṃ*), the ploughing arranged for the fire-piling. Make the chariot, whether the one called चयन (*cayana*) or the plough, स्वस्तिवाहं (*svastivāhaṃ*), a bearer of well-being." For this purpose: आहाव (*āhāva*) is a water-holding vessel from which bulls are called to drink; its द्रोण (*droṇa*) is of wood. अवतं (*avataṃ*) is the well-like hollow; अश्मचक्रं (*aśmacakraṃ*) is one with a stone wheel, extensively moving. अंसत्रकोशं (*aṃsatrakośaṃ*): as armour protects the body, so a store of water, नृपाणं (*nṛpāṇaṃ*), fit for drinking by the men who lead the rite. "Pour out such a well, O priests." This applies if the hymn is a praise of the priests.
 Second explanation (if the hymn is Vaiśvadeva, concerning battle): प्रीणीत (*prīṇīta*): satisfy the horses, making them fit for bathing, drinking and battle. हितं जयाथ (*hitaṃ jayātha*): हितं (*hitaṃ*) is adverbial; win the battle in such a way as is beneficial to kinsmen and friends. स्वस्तिवाहं (*svastivāhaṃ*): स्वस्ति (*svasti*) is a name for non-destruction; make the chariot a carrier of what is not destroyed; इत् (*it*) has the sense of "and". Having made horses and chariot firm and gone to the battlefield, pour out the accusatives द्रोणाहावं (*droṇāhāvaṃ*) etc., epithets of the battle called a well (कूप (*kūpa*)). अवतं (*avataṃ*) is a name for a well. द्रोण (*droṇa*) is wooden, that is, the chariot itself stands in the place of the आहाव (*āhāva*) of that battle. अश्मचक्रं (*aśmacakraṃ*) is explained as having missile weapons resembling oneself fastened at the edge of the well, or as one in which the weapons called चक्र (*cakra*) are hurled, or as having extended movement. He cites the Nirukta (4-27): चक्रं चकतेवा चरतेर्वा क्रामतेर्वेति (*cakraṃ cakatevā caratervā krāmaterveti*).
 
+### Printed p. 159
+
+> अंसत्राणि धनूंषि कवचानि च कोशस्थानीयानि यस्मिन् तं सिंचत । नृपाणं यस्मिन्नोद्धार उदकवत्पीयंते मार्यंते तं । ईदृशं कूपसदृशं संग्रामं सिंचत
+> हे अस्मदीया योद्धारः । सूक्तस्य वैश्वदेवत्वाद्दे सैनिका विश्वेषां देवानां
+> प्रसादेन सर्वमेतत्कुरुतेत्यर्थः । एवं निराहावानित्यादिषु कूपरूपव्याजेन
+> संग्रामवर्णनमवगंतव्यं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his gloss of the preceding verse, taking it as a description of a battle compared to a well. The "bows and armours" are the अंसत्राणि (*aṃsatrāṇi*), which stand in the place of a treasury (kośa) in that battle. The warriors are to "pour out" (सिंचत (*siṃcata*)) this battle, which is like a well, and in which the lives of men are drunk up like water. Because the sūkta is addressed to the Viśvedevas, the soldiers are to do all this through the favour of all the gods. In verses such as *nirāhāvān* the description of the battle is to be understood as made under the guise of a well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वान् (*aśvān*)—(O priests) the oxen that move about everywhere
+- प्रीणीत (*prīṇīta*)—satisfy them by giving grass and the like
+- हितं (*hitaṃ*)—the work such as ploughing
+- जयाथ (*jayātha*)—do and complete
+- रथं (*rathaṃ*)—the car
+- स्वस्तिवाहं इत् (*svastivāhaṃ it*)—so that it bears auspicious wealth
+- कृणुध्वं (*kṛṇudhvaṃ*)—make
+- अवतं (*avataṃ*)—that which is deep like a well
+- अश्मचक्रं (*aśmacakraṃ*)—that which has a wheel made of stone
+- अंसत्रकोशं (*aṃsatrakośaṃ*)—that which protects the water like armour
+- नृपाणं (*nṛpāṇaṃ*)—that which has water fit for men to drink
+- द्रोणाहावं (*droṇāhāvaṃ*)—the water trough
+- सिंचत (*siṃcata*)—fill with water
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, satisfy the oxen, which can move about everywhere, by giving them grass and the like. Do and complete the work such as ploughing. Fill the car with auspicious wealth. Fill with water the water trough, which is deep like a well, has a wheel made of stone, protects the water like armour, and has water fit for men to drink.
+
+##### English translation
+Satisfy the horses, accomplish the good work (of ploughing), equip a car laden with good fortune, pour out (the water of) the well having a stone rim, having a receptacle like armour, fit for the drinking of men.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator has given two kinds of meaning for this Ṛk: one the priests' view, the other the Viśvedeva view. What is said addressing the priests is the priests' (sacrificial) view, and that has been given above. The Viśvedeva view (the battle view) is as follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वान् (*aśvān*)—(O soldiers) the horses
+- प्रीणीत (*prīṇīta*)—satisfy them with food and water and make them fit to take part in the battle
+- हितं (*hitaṃ*)—so that it is beneficial to kinsmen and friends
+
+### Printed p. 160
+- जयाथ (*jayātha*)—win victory in the battle
+- स्वस्तिवाहं (*svastivāhaṃ*)—so that it is able to bear auspicious wealth
+- रथमित् (*rathamit*)—the car
+- कृणुध्वं (*kṛṇudhvaṃ*)—prepare
+- द्रोणाहावं (*droṇāhāvaṃ*)—that in which cars made of wood move about
+- अश्मचक्रं (*aśmacakraṃ*)—that which is well equipped with weapons such as the stone pulley-wheel of a well and discus-like weapons hurled at enemies
+- अंसत्रकोशं (*aṃsatrakośaṃ*)—that which has means of protection such as bows and armour
+- नृपाणं (*nṛpāṇaṃ*)—that which is full of chiefs (leaders) who are the guides in the works of battle
+- अवतं (*avataṃ*)—the battlefield
+- सिंचत (*siṃcata*)—resort to
+
+##### भावार्थ (Bhāvārtha)
+
+O soldiers, give the horses grass and water and make them ready to fight in battle. Win victory so that kinsmen and well-wishers may be happy. Make ready the car so that it can bring back the wealth and so forth of the enemies, after defeating them in battle. Cars made of wood are moving about on the battlefield. Discus-like weapons will be used against the enemies. Armour will be used to protect oneself, and bows to harm the enemies. An assembly of leaders skilled in the works of battle will be there. Go to such a battlefield, join it, conquer the enemies and show your valour and the like.
+
+Of these two kinds of meaning, the first describes the work of agriculture; the second describes the battlefield. For this Ṛk Yāska has given the Nirukta:
+प्रीणीताश्वान् । सुहितं जयथ जयनं वो हितमस्तु स्वस्तिवाहनं रथं कुरुध्वं द्रोणाहावं द्रोणं द्रुममयं भवति । आहाव आह्वानादावह आवहनादवतोऽवातितो महान् भवत्यश्मचक्रमसनचक्रमिति वा अंगत्रकोशमंसत्राणि वः कोशस्थानीयानि संतु कोशः कुष्णातेर्निकुषितो भवति । अयमपीतरः कोश एतस्मादेव संचय अचितमात्रो महान् भवति सिंचत नृपाणं नरपाणं कूपकर्मणा संग्राममुपमिमिते ॥ ( (*prīṇītāśvān | suhitaṃ jayatha jayanaṃ vo hitamastu svastivāhanaṃ rathaṃ kurudhvaṃ droṇāhāvaṃ droṇaṃ drumamayaṃ bhavati | āhāva āhvānādāvaha āvahanādavato 'vātito mahān bhavatyaśmacakramasanacakramiti vā aṃgatrakośamaṃsatrāṇi vaḥ kośasthānīyāni saṃtu kośaḥ kuṣṇāternikuṣito bhavati | ayamapītaraḥ kośa etasmādeva saṃcaya acitamātro mahān bhavati siṃcata nṛpāṇaṃ narapāṇaṃ kūpakarmaṇā saṃgrāmamupamimite ‖ (*) (Ni. 5-26)
+In this Nirukta Yāska (or the seer of the sūkta) describes the battlefield by comparing it to a (water) well.
+
+प्रीणीताश्वान् (*prīṇītāśvān*)—to make ready for battle, supply the horses with grass and water and make them glad.
+
+### Printed p. 161
+सुहितं जयथ जयनं वो हितमस्तु (*suhitaṃ jayatha jayanaṃ vo hitamastu*)—Among the soldiers who take part in battles there are certainly kinsmen and friends. At least some of them will die in the battle, so although battle is somewhat harmful, victory is beneficial to all. Therefore win victory so that it is beneficial to all.
+
+स्वस्ति वाहनं रथं कुरुध्वं (*svasti vāhanaṃ rathaṃ kurudhvaṃ*)—Equip the car well to bring back the wealth obtained through excellent victory.
+
+द्रोणाहावं द्रोणं द्रुममयं भवति । आहाव आह्वानादावह आवहनादवतोऽवातितो महान् भवति (*droṇāhāvaṃ droṇaṃ drumamayaṃ bhavati | āhāva āhvānādāvaha āvahanādavato 'vātito mahān bhavati*)—Droṇa means made of wood (a car, or a wooden trough or vat for filling with water). Āhāva means a wooden vat (ā-hāva). Āvaha means a means of bearing, a cart and so on; this word has the sense of bearing, carrying. Avata means a deep well; this word indicates the sense of ava-atita, very deep below.
+
+अश्मचक्रमशनचक्रमसनचक्रमिति ना (*aśmacakramaśanacakramasanacakramiti nā*)—Aśmacakra means a stone wheel. It is spread everywhere on the battlefield, or its use frightens the enemies. In this sense it is a special weapon used in battle (stone-axe).
+
+अंसत्रकोशमंसत्राणि वः कोशस्थानीयानि संतु । कोशः कुष्णातेर्विकुषितो भवति । अयमपीतरः कोश एतस्मादेव (*aṃsatrakośamaṃsatrāṇi vaḥ kośasthānīyāni saṃtu | kośaḥ kuṣṇātervikuṣito bhavati | ayamapītaraḥ kośa etasmādeva*)—Aṃsa means the limbs of the body. Because it protects them (tāyate), the (steel) armour and bows used in battle are called aṃsatra. The sheath or leather bag in which they are kept is called aṃsatrakośa. The word kośa is derived from the root kuṣ, meaning to pull, to draw out. Because the armour, bow and so on in it (in the bag) are drawn out, it is called kośa. Or kośa has another meaning, a place where wealth and the like are gathered and stored; when this meaning is indicated, the word is likewise derived from the root kuṣ.
+
+संचय अचितमात्रो महान् भवति (*saṃcaya acitamātro mahān bhavati*)—Sañcaya means a collection, the storing together in one place of many things.
+
+नृपाणं नरपाणं कूपकर्मणा संग्राममुपमिमाते (*nṛpāṇaṃ narapāṇaṃ kūpakarmaṇā saṃgrāmamupamimāte*)—Nṛpāṇa means a trough or vat, deep like a well, for filling with water fit for men to drink. The meaning is: fill this with water. Here the battlefield is described by comparison with a deep well.
+
+### Printed p. 162
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्र॒जं कृ॑णुध्वं॒ स हि वो॑ नृ॒पाणो॒ वर्म॑ सीव्यध्वं बहु॒ला  ॒॑
+> पृथूनि ।  
+> पुरः॑ कृणुद्व॒माय॑सी॒रधृ॑ष्टा॒ मा वः॑ सुस्रोच्चम॒सो द्रंह॑ता॒  
+> तं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> व्रजं । कृणुध्वं । सः । हि । वः । नृपानः । वर्म । सीव्यध्वं । बहुला । पृथूनि ।  
+> पुरः । कृणुध्वं । आयसीः । अधृष्टाः । मा । वः । सुस्रोत् । चमसः । दृंहत । तं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः व्रजं कृणुध्वं । व्रजं गोष्ठं कुरुध्वं । आशिरदोहार्थं
+> गोस्थानं कुरुत । स हि स खलु वो नृपाणो नेतृणां देवानां पातव्यः । देवपानसाधन इति । सांनाय्यरूपेण वासिररूपेण वा गोः पयआदिकं देवाः पिबंति
+> खलु । वर्म वर्माणि सीव्यध्वं । वर्मवत्वधानस्योभयत आच्छादकत्वात्पयाजादीनि
+> प्राच्यानि प्रतीच्यानि चांगानि वर्माणि । तानि सीव्यध्वं । दलयध्वं । कुरुध्वमित्यर्थ॥
+> कीदृशानि वर्माणि । बहुला बहुलान्यनेकानि । तानि च पृथूनि विस्तीर्णानि । तथा पुरः
+> पुराणि धिष्टादीनि यष्टव्यानां देवानां वा पुरः शरीराण्यायसीरयोमयवत्
+> सारभूता अधृष्टा अन्यैरधृष्याः । पूरणीया ग्रहा वा पुर इत्युच्यंते । तानुक्तलक्षणान्कुरुत । वो युष्मदीयश्चमसो यज्ञाख्यो भक्षणसाधनश्चमस एव ना ।
+> चमसपक्षे सामान्येनैकवचनं । मा सुस्रोत् । मा स्रवेत् ॥ स्रवतेर्लजि बहुलं
+> छंदसीति तपः श्लुः ॥ तं दृंहत । दृढीकुरुत । यथा विकलो न भवति तथा कुरुत ॥
+> दृह दृहि वृदौ भौवादिकः । तस्माल्लोटीदित्वान्नुम् ॥ ऋत्विक् स्तुतिपक्ष एवं ।
+> वैत्वदेवपक्षे! आस्मदीया योद्धारो यूयं। नरो योद्धारः पिबंति प्रत्यर्थिनां
+> प्राणानिति नृपाणः । स तादृशो यष्मदीयः खलु । गोष्ठपक्षॆ नराणां पानसाधनः
+> स खलु ॥ पातेः करणाधिकरणयोश्चेति ल्युट् ॥ वर्म वर्माणि कवचानि सीव्यध्वं
+> बहुलानि पृथूनि च यथा भवंति तथा । पुरः पुरीः कृणुध्वमायसीरन्यैरधृष्टाश्च ।
+> वश्चमसोऽदनसाधनो मा सुस्रोत् । मा स्रवेत् । तं दृंहतेति । इति
+> देवतानुग्रहलब्ध बलो वदति ॥
+
+##### Gist of the bhāṣya
+
+"O priests, make a pen (vraja)": make a cow-station for the milking of the āśir. "That is the nṛpāṇa of you": the drinking-place of the gods, the leaders, a means of the gods' drinking; for the gods drink the cow's milk and the like in the form of sāṃnāyya or of vāsira. "Sew the armours": since the vardhana-like covering covers on both sides, the prayājas and the other forward and backward limbs of the rite are the armours; sew, that is make, them. Such armours are many and broad. The "cities" (puraḥ) are the dhiṣṇya hearths and the like of the gods to be worshipped, or the bodies of the gods, made like iron, strong and unassailable by others; or the cups to be filled (grahas) are called "cities". Make them of the kind described. "Your cup", the cup that is the means of drinking: let it not leak, and make it firm so that it does not become defective. This is the priests' praise view.
+
+On the Viśvedeva view: you are our warriors. Nṛpāṇa means "they, the men, the warriors, drink the lives of the enemies"; such a one is yours. On the cow-pen view it is the means of the men's drinking. Sew armours, so that they are many and broad; make cities of iron, unassailable by others. Let your cup, the means of eating, not leak, and make it firm. So speaks one who has gained strength through the favour of the gods.
+
+### Printed p. 163
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- व्रजं (*vrajaṃ*)—(O priests) the cow-pen
+- कृणुद्वं (*kṛṇudvaṃ*)—prepare
+- स हि (*sa hi*)—that very
+- वः (*vaḥ*)—your
+- नृपाणः (*nṛpāṇaḥ*)—the place where the gods, the leaders, drink milk and the like
+- वर्म (*varma*)—the prayājas and the like, which cover like armour
+- सीव्यध्वं (*sīvyadhvaṃ*)—weave and prepare
+- बहुला (*bahulā*)—many and extensive (pṛthulā)
+- पुरः (*puraḥ*)—the sacrificial grounds
+- आयसीः (*āyasīḥ*)—like cities made of iron
+- अधृष्ट्वा (*adhṛṣṭvā*)—make them unassailable
+- वः (*vaḥ*)—your
+- चमसः (*camasaḥ*)—the sruk-vessel
+- मा सुसोत् (*mā susot*)—let it have no hole
+- तं (*taṃ*)—that
+- दृंहत (*dṛṃhata*)—make firm
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, prepare the cow-pen. It is the place where your leaders, the gods, drink milk and the like. Weave and prepare the armours in the form of the prayājas and the like. Make the many and extensive sacrificial ground unassailable, like cities made of iron. Let your vessel have no hole. Make it firm.
+
+##### English translation
+Construct the cow-stall, for that is the drinking-place of your leaders (the gods), fabricate armour, manifold and ample; make cities of iron and impregnable; let not the ladle leak, make it strong.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk too the commentator has given two kinds of meaning: one the priests' view or the cup (camasa) view, the second the battle view.
+
+व्रजं कृणुद्धं (*vrajaṃ kṛṇuddhaṃ*)—O priests, prepare the cow-pen for milking the cows, for use in sacrifices and the like. On the battle view: vraja means a multitude. For the sake of battle, equip the multitude of armies or soldiers with weapons and other equipment. The meaning is: gather the soldiers in one place for fighting, give them horses, cars, weapons and other equipment of war, and make them ready for battle.
+
+स हि वः नृपाणि (*sa hi vaḥ nṛpāṇi*)—The milk drawn in that pen is fit to be drunk by the gods, the leaders of the sacrifice. Besides, the cow's milk is used in the form of sāṃnāyya, or as the āśira substance mixed with the soma juice. On the battle view: *naro yoddhāraḥ pibaṃti
+
+### Printed p. 164
+pratyarthināṃ prāṇāniti nṛpāṇaḥ | sa tādṛśo yuṣmadīyaḥ khalu |* Nṛpāṇa means the warriors who drink, that is take, the lives of the enemies who face them in battle.
+
+वर्म सीव्यध्वं बहुला पृथूनि (*varma sīvyadhvaṃ bahulā pṛthūni*)—Varma means armour. O priests, as armour protects the body, weave extensively, that is recite well and offer, the prayāja and other oblations offered in the fire to protect the sacrifice from the asuras. On the battle view: the meaning is, O warriors, use (steel) armour freely in battle to protect your bodies from the enemies' arrows.
+
+पुरः कृणुध्वमायसीरधृष्टाः (*puraḥ kṛṇudhvamāyasīradhṛṣṭāḥ*)—O priests, by your mantras of praise make the bodies of the gods like iron, firm, and not to be harmed by others. On the battle view: O soldiers, make our cities impenetrable to the enemies, like iron.
+
+मावः सुस्रोत् चमसः दृंहत तं (*māvaḥ susrot camasaḥ dṛṃhata taṃ*)—O priests, make your camasa vessels not leak and make them firm. On the battle view: O warriors, make the food and the like that you eat not run short and make it strengthening; or, by the favour of the gods, make your strength firm. That is the meaning.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वो॒ धियं॑ य॒ज्जियां॑ वर्त ऊ॒तये॒ देवा॑ दॆ॒वीं य॑ज॒तां य॒ज्जिया॑मि॒ह ।  
+> सा नो॑ दुहीय॒द्यव॑सेव ग॒त्वी स॒हस्र॑धारा॒ पय॑सा म॒ही गौः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वः । धियं । यज्ञियां । वर्ते । ऊतये । देवाः । देवीं । यजतां । यज्ञियां । इह ।  
+> सा । नः । दुहीयत् । यवसा इव । गत्वी । सहस्रधारा । पयसा । मही । गौः ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 158. pp. 153-158 (batch API)
+**Progress note:** Done through printed p. 164. pp. 159-164 (batch API)
