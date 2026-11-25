@@ -27662,6 +27662,251 @@ O Indra, as the dawn fills the whole world with its radiance, you fill both heav
 ##### English translation
 You, Indra, who fill both heaven and earth (with light) like the dawn—the devine progenitress has given birth to you, the mighty of the mighty (gods), the sovereign of men; auspicious progenitress has given you birth.
 
+### Printed p. 838
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ स्म दुर्हणाय॒तो मर्त॑स्य तनुहि स्थि॒रं ।  
+> अ॒ध॒स्प॒दं तमिां॑ कृधि॒ यो अ॒स्मा आ॒दिदे॑शति दे॒वी जनि॑त्रजीजनद्भ॒द्रा जनि॑त्रजीजनत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्म । दुःहनायतः । मर्तस्य । तनुहि । स्थिरं ।  
+> अधॆःपदं । तं । ईं । कृधि । यः । अस्मान् । आदिदेशति । देवी । जनित्री । अजीजनत् ।  
+> भद्रा । जनित्री । अजीजनत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दुर्हणायतो दुःखप्रदं हननमाचरतो मर्तस्य मनुष्यस्य शत्रोः स्थिरं
+> दृढं बलमव तनुहि । अवततं नीचीनं कुरु । स्मेति पूरकः । तं शत्रुमीमेनमधस्पदं पादयोरधस्ताद्वर्तमानं कृधि । कुरु । यः शत्रुरस्मानादिदेशति जिघांसति ।
+> समानमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Of the mortal, that is, the enemy, who practises painful killing, break down the firm, steady strength; make it bent down. स्म (*sma*) is a mere filler. Make that enemy lie beneath the feet. The enemy who wishes to strike us down: do this to him. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दुर्हणायतः (*durhaṇāyataḥ*)—of one set upon the painful act of killing
+- मर्तस्य (*martasya*)—of the enemy
+- स्थिरं (*sthiraṃ*)—the firm strength, or steadiness
+- अव तनुहि स्म (*ava tanuhi sma*)—destroy
+- यः (*yaḥ*)—which enemy
+- अस्मान् (*asmān*)—us
+- आदिदेशति (*ādideśati*)—wishes to kill
+- तं एनं (*taṃ enaṃ*)—that enemy
+- अधस्पदं (*adhaspadaṃ*)—as though fallen beneath our feet
+- कृधि (*kṛdhi*)—make
+- देवी (*devī*)—the divine
+- जनित्री (*janitrī*)—your mother Aditi
+- अजीजनत् (*ajījanat*)—gave birth to you
+- जनित्री अजीजनत् (*janitrī ajījanat*)—your mother, who bore such a good son
+- भद्रा (*bhadrā*)—worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroy the steadiness of the enemy who strives only to kill others. Make the enemy who wishes to kill us fall beneath our feet. Because the divine Aditi bore you, such a good son, she has become worthy of praise.
+
+### Printed p. 839
+
+##### English translation
+Enfeeble the strength of malicious man, cast under foot him who tries to kill us; the devine progenitress has given you birth, the auspicious progenitress has given you birth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ त्या बृ॑ह॒तीरिषो॑ वि॒श्वश्चं॑द्रा अमित्रहन् ।  
+> शची॑भिः शक्र धूनु॒हींद्र॒ विश्वा॑भिरू॒तिभि॑र्दे॒वी जनि॑त्र्यजीजनद्भ॒द्रा जनि॑त्र्यजीजनत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । त्याः । बृहतीः । इषः । विश्वचंद्राः । अमित्रहन् ।  
+> शचीभिः । शक्र । धूनुहि । इंद्र । विश्वाभिः । ऊतिभिः । देवी । जनित्री । अजीजनत् ।  
+> भद्रा । जनित्री । अजीजनत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमित्रहन्नमित्राणां शत्रुणां हंतर्हे शक्रेंद्र शचीभिरात्मीयाभिः
+> शक्तिभिरात्मीयैः कर्मभिर्वा त्यास्ताः प्रसिद्धा बृहतीर्महतीः ॥ बृहन्महतोरुपसंख्यानमिति जीप उदात्तत्वं ॥ विश्वश्चंद्राः । विश्वानि सर्वाणि चंद्राणि हिरण्यानि यासां
+> तादृशीः ॥ ह्रस्वाच्चंद्रोत्तरपदे मंत्र इति सुडागमः । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदांतोदात्तत्वं ॥ एवंभूता इषोऽन्नानि विश्वाभिः सर्वाभिरूतिभी
+> रक्षाभिः सार्थमव धूनुहि । आस्मास्ववाज्मुखं कंपय । अस्मदभिमुखं गमयेत्यर्थः । गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, slayer of foes, शक्र (*śakra*), with your own powers or deeds, shake down upon us those well-known great इषः (*iṣaḥ*) (foods), "all-shining", that is, having all gold. He cites the rule on *bṛhanmahatoḥ* for the accent of बृहतीः (*bṛhatīḥ*) (Jīp) and the rule on the augment suṭ for विश्वश्चंद्राः (*viśvaścaṃdrāḥ*) and its accent. Shake them down together with all your protections: make them come toward us. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमित्रहन् (*amitrahan*)—destroyer of enemies
+- शक्र इंद्र (*śakra iṃdra*)—O Indra, endowed with power
+- शचीभिः (*śacībhiḥ*)—by your own powers
+- त्याः (*tyāḥ*)—those well-known
+- बृहतीः (*bṛhatīḥ*)—abundant
+- विश्वश्चंद्राः (*viśvaścaṃdrāḥ*)—all riches
+- इषः (*iṣaḥ*)—foods and the like
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—together with your protections
+- अव धूनुहि (*ava dhūnuhi*)—make them come and fall near us
+- देवी (*devī*)—the divine
+
+### Printed p. 840
+- जनित्री (*janitrī*)—your mother Aditi
+- अजीजनत् (*ajījanat*)—gave birth to you
+- जनित्री अजीजनत् (*janitrī ajījanat*)—for having borne such a good son, your mother
+- भद्रा (*bhadrā*)—became worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies and endowed with power, by your own powers make the well-known abundant wealth of gold and the like, and food, come and fall near us together with all your protections. Because the divine Aditi bore a good son like you, she has become worthy of praise.
+
+##### English translation
+Destroyer of enemies, Indra, Shakra, shake down upon us by your exploits those abundant, all-shining viands, (accompanied) with all your protections; the divine progentress has given you birth, the avspicious progentress has given you birth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ यत्त्वं श॑तक्रत॒विंद्र॒ विश्वा॑नि धूनु॒षे ।  
+> र॒यिं न सु॑न्व॒ते सचा॑ सह॒स्रिणी॑भिरू॒तिभि॑र्दे॒वी जनि॑त्र्यजीजनधृ॒द्रा जनि॑त्र्यजीजनत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । यत् । त्वं । शतक्रतो इति शतक्रतो । इंद्र । विश्वानि । धूनुषे ।  
+> रयिं । न । सुन्वते । सचा । सहस्रिणीभिः । ऊतिभिः । देवी । जनित्री । अजीजनत् ।  
+> भद्रा । जनित्री । अजीजनत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चातुर्विंशिकेऽहनि माध्यंदिनेऽच्छावाकस्याव यत्त्वमिति तृचो वैकल्पिकोऽनुरूपः । सूत्रं तु सूक्तादावुदाहृतं ॥
+
+##### Gist of the bhāṣya
+
+On the Cāturviṃśika day, at the midday pressing, the triplet अव यत्त्वं (*ava yattvaṃ*) is an optional anurūpa for the Acchāvāka. The sūtra was quoted at the beginning of the sūkta.
+
+### Printed p. 841
+
+> हे शतक्रतो बहुकर्मन् बहुप्रज्ञ वेंद्र सुन्वते सोमाभिषवं कुर्वते ॥
+> सुनोतेर्लटः शतृ । हुश्नुवोः सार्वधातुक इति यण् । शतुरनुम इति विभक्तेरुदात्तत्वं ॥ ईदृशाय यजमानाय यद्यदा त्वं विश्वानि व्याप्तान्यन्नानि वाव
+> धूनुषे अभिगमयसि । ददासीत्यर्थः । तदा रयिं न रयिं च पुत्ररूपं धनं च
+> सहस्रिणीभिः सहस्रसंख्यायुक्ताभिरूतिभी रक्षाभिः सचा सह प्रदेहि । गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, of many deeds or of much wisdom, Indra, to the one who presses Soma: when you "shake down" to such a sacrificer all pervading foods, that is, give them, then give also wealth in the form of a son, together with protections numbering a thousand. He notes the सुन्वते (*sunvate*) formation (present participle, yaṇ) and the accent of the ending. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—one who has done many daring deeds, or of much wisdom
+- इंद्र (*iṃdra*)—O Indra
+- सुन्वते (*sunvate*)—to the sacrificer who presses and offers Soma juice
+- यत् (*yat*)—when
+- त्वं (*tvaṃ*)—you
+- विश्वानि (*viśvāni*)—all riches or foods
+- अव धूनुषे (*ava dhūnuṣe*)—you provide and give, then
+- रयिं (*rayiṃ*)—wealth in the form of a son
+- सहस्रिणीभिः (*sahasriṇībhiḥ*)—in thousands
+- ऊतिभिः सचा (*ūtibhiḥ sacā*)—provide together with your protections
+- देवी (*devī*)—the divine
+- जनित्रि (*janitri*)—your mother Aditi
+- अजीजनत् (*ajījanat*)—gave birth to you
+- अजीजनत् (*ajījanat*)—because she gave birth to you
+- जनित्रि (*janitri*)—your mother
+- भद्रा (*bhadrā*)—worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of many daring deeds or of much wisdom, when you provide all wealth or food to the sacrificer who presses and offers Soma juice for you, then along with it provide also a son and your protections in thousands. Because your mother Aditi bore you, a good son, she has become worthy of praise.
+
+##### English translation
+When you, Indra, Shatakrathu, shake down (upon us) all blessings, (then bestow) upon the offerer of the libation wealth also, together with your thousandfold protections; the divine progenitress has given you birth, the auspicious progenitress has given you birth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ स्वेदा॑ इवा॒भितो॒ विश्व॑क्षतंतु दि॒द्यवः॑ ।
+
+### Printed p. 842
+
+> दूर्वाया इव तंतवो व्यगस्मदेतु दुर्मतिर्देवी जनित्र्यजीजनद्भद्रा जनित्र जीजनत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्वेदाःऽइव । अभितः । विष्णक् । पतंतु । दिद्यवः ।  
+> दूर्वायाःऽइव । तंतवः । वि । अस्मत् । एतु । दुःऽमतिः । देवी । जनित्री । अजीजनत् । भद्रा । जनित्री । अजीजनत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वेदा इव गात्रात्वेदविंदव इवाभितः सर्वतो दिद्यवो द्योतमानान्यायुधानींद्रस्य दीप्तयो वा विष्णग्नानामुखा अव पतंतु । निपतंतु । दूर्वाया
+> इव तंतवः । यथा दूर्वाकांडा बहुशः प्ररोहंति एवं बहुशो विस्त्रता
+> दृश्यंते । दुर्मतिर्दुष्टाभिसंधिः शत्रुरस्मदस्मत्तो व्येतु । वियता गच्छतु ।
+> गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Like drops of sweat from the body, may Indra's blazing weapons, or his flashes, fall all around, in many directions. Like the shoots of dūrvā grass, which spring up in many places, they are seen spread out in many ways. May the enemy of evil intent go away from us. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वेदा इव (*svedā iva*)—as drops of sweat drip from the body
+- दिद्यवः (*didyavaḥ*)—the shining weapons of Indra
+- अभितः (*abhitaḥ*)—all around
+- विष्णक् (*viṣṇak*)—in many directions
+- अव पतंतु (*ava pataṃtu*)—let them fall upon the enemies
+- दूर्वाया इव तंतवः (*dūrvāyā iva taṃtavaḥ*)—as blades of the grass called dūrvā grow quickly
+- दुर्मतिः (*durmatiḥ*)—the ill-minded enemy
+- अस्मत् (*asmat*)—from us
+- वि एतु (*vi etu*)—let him quickly depart
+- देवी (*devī*)—the divine
+- जनित्री (*janitrī*)—your mother Aditi
+- अजीजनत् (*ajījanat*)—gave birth to you
+- अजीजनत् (*ajījanat*)—because she gave birth to you
+- जनित्री (*janitrī*)—your mother
+- भद्रा (*bhadrā*)—became worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+As drops of sweat drip from the body, let Indra's shining weapons fall all around, in many directions, upon the enemies; as dūrvā grass grows quickly, let the ill-minded enemy quickly go away from us. Because the divine Aditi bore you, she has become worthy of praise.
+
+### Printed p. 843
+
+##### English translation
+Let your radiant (weapons) fall down everywhere round about like drops of perspiration; let the enemy depart from us like the stems of the durva grass; the divine progentress has given you birth, the auspicios progentress has given you birth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दी॒र्घं ह्यं॑कु॒शं य॑था॒ शक्तिं॒ बिभ॑र्षि मंतुमः ।  
+> पूर्वे॑ण मघवन्प॒दाजो व॒यां यथा॑ यमो दे॒वी जनि॑त्रैजीजनद्भ॒द्रा जनि॑त्रैजीजनत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दीर्घं । हि । अंकुशं । यथा । शक्तिं । बिभर्षि । मंतुमः ।  
+> पूर्वेण । मघवन् । पदा । अजः । वयां । यथा । यमः । देवी । जनित्री ।  
+> अजीजनत् । भद्रा । जनित्री । अजीजनत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दीर्घमायतमंकुशं सृणिं यथा बिभर्षि एवमायतां शक्तिं हे मंतुमः।
+> मंतुज्ञानं । तद्वन् ॥ मतुवसो रुरिति संबुद्धौ नकारस्य रुत्वं ॥ ईदृकेंद्र
+> बिभर्षि । धारयसि ॥ डुभृञ् धारणपोषणयोः जौहोत्यादिकः । श्ला भृञामिदित्यभ्यासस्यॆत्वं ॥ हे मघवनधनवन्निंद्र यथा पूर्णेण देहस्य पूर्वभागे वर्तमानेन पदा पादेनाजश्चागो वयां शाखामाकर्षति तथा पूर्वोक्तया शक्त्याकृष्य
+> यमः । शत्रून्नियच्छसि ॥ यमेर्लॆट्व्यडागमः । बहुलं छंदसीति शपो लुक् ॥
+> गतमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+As you bear a long अंकुशं (*aṃkuśaṃ*) (hook), so, O मंतुमः (*maṃtumaḥ*) (possessor of knowledge), you bear an extended शक्तिं (*śaktiṃ*) (spear). He explains मंतुमः (*maṃtumaḥ*) as possessing मंतु (*maṃtu*), knowledge (with the vocative rule for the final n), and बिभर्षि (*bibharṣi*) as "you hold" (root भृञ् (*bhṛñ*), Hu class, with reduplication). O Maghavan, wealthy Indra, as a goat pulls a branch with the forward foot, the one in the front part of its body, so you, drawing by the aforesaid spear, restrain enemies, यमः (*yamaḥ*). The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीर्घं (*dīrghaṃ*)—long
+- अंकुशं (*aṃkuśaṃ*)—a hooked staff (a pole)
+- मंतुमः (*maṃtumaḥ*)—the wise one
+- यथा (*yathā*)—as he takes it and uses it, so you
+
 ---
 
-**Progress note:** Done through printed p. 837. pp. 832-837 (batch API)
+**Progress note:** Done through printed p. 843. pp. 838-843 (batch API)
