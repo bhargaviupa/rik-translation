@@ -6864,6 +6864,190 @@ For the second half of this Ṛk, beginning दुधेयुक्तस्य
 > उ॒त प्र॒धिमुद॑हन्नस्य वि॒द्वानुपा॑युन॒ग्वंस॑ग॒मत्र॒ शिक्ष॑न् ।  
 > इंद्र॒ उदा॑व॒त्पति॒मघ्न्या॑ना॒मरं॑हत॒ पद्या॑भिः क॒कुद्मा॑न् ॥ ७ ॥
 
+### Printed p. 183
+#### Ṛk 7 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । प्रधिं । उत् । अहन् । अस्य । विद्वान् । उप । आयुनक् । वंसगं । अत्र ।  
+> शिक्षन् ।  
+> इंद्रः । उत् । आवत् । पतिं । अघ्न्यानां । अरंहत । पद्याभिः । ककुत्ऽमान् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च विद्वान् स मुद्दलोऽस्य रथस्य प्रधिं । प्रधिरक्षच्छिद्रकाष्ठः स च
+> रथावयवानामुपलक्षकः। रथावयवमुदहन्। उदगमयत्। रथं संननाहेत्यर्थः ।
+> तदनंतरमत्र रथे वंसगं वननीयगमनं वृषभं शिक्षञ्चयन्न्रज्जुषु स्थापयन्नुपायुनक् । रथसमीपे युगेऽयोजयत् ॥ युजेर्लजि तिपो हल्यादिलोपः ॥
+> एवं सतींद्रो देवोऽघ्यानामहंतप्यानां गवां पतिमुदावत् । उत्कृष्टमावत् । रक्षामकरोत् । पश्चात्तकुद्मान्वृषभः पद्याभिः सरणिभिररंहत । वेगेनागमत्।
+> रहिर्गत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the wise Mudgala raised the प्रधिं (*pradhiṃ*) of this chariot. A prādhi is the wooden piece pierced with a hole for the axle, and here it stands for the parts of the chariot generally. "Raised" (*udahan*) means he made it rise, that is, he fitted the chariot up. Then, in this chariot, he trained the bull that goes beautifully (वंसगं (*vaṃsagaṃ*)), placed it in the ropes, and yoked it (*upāyunak*) to the yoke beside the chariot. This being so, the god Indra protected (*udāvat*, "protected excellently") the lord of the inviolable cows. Afterwards the humped bull went swiftly along its paths (पद्याभिः (*padyābhiḥ*) = "by ways"); अरंहत (*araṃhata*) means "went with speed", the root rah having the sense of motion.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- विद्वान् (*vidvān*)—that discerning Mudgala
+- अस्य (*asya*)—of his own chariot
+- प्रधि (*pradhi*)—the linchpins of the wheel
+- उत् अहन् (*ut ahan*)—joined and made ready
+- अत्र (*atra*)—in this chariot
+- वंसगं (*vaṃsagaṃ*)—his bull of excellent gait
+- शिक्षन् (*śikṣan*)—binding with a rope
+- उप आयुनक् (*upa āyunak*)—yoked to the yoke (and then)
+- इंद्रः (*iṃdraḥ*)—Indra
+- अघ्न्यानां (*aghnyānāṃ*)—of the cows that must not be killed
+- पतिं (*patiṃ*)—to this bull, the lord
+- उत् आवत् (*ut āvat*)—gave excellent protection (and then)
+- ककुद्मान् (*kakudmān*)—that bull
+- पद्याभिः (*padyābhiḥ*)—with its footfalls
+- अरंहत (*araṃhata*)—rushed forward swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+Moreover, that discerning Mudgala fitted the linchpins near the wheels of his chariot and made the chariot ready. He tied his bull of excellent gait with a rope and yoked it to the yoke of the chariot. Then Indra gave excellent protection to that bull, who is called lord of the cows. Afterwards that bull, with its excellent gait, rushed forward swiftly on the battlefield.
+
+##### English translation
+The sage (Mudgala) has fitted up the frame of the waggon, he has harnessed the bull, training him to his work : Indra protected the lord of the inviolable (cows). the buffalo rushed along with speed.**NOTE**
+
+### Printed p. 184
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नम॑ष्ट्रा॒व्य॑चरत्कप॒र्दी व॑र॒त्रायां॒ दार्वा॒नह्य॑मानः ।  
+> नृ॒म्मानि॑ कृ॒ण्वन्ब॒हवे॒ जना॑य॒ गाः प॑स्पशा॒नस्तवि॑षीरधत्त ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । अष्ट्रावी । अचरत् । कपर्दि । वरत्रायां । दारु । आनह्यमानः ।  
+> नृम्मानि । कृण्वन् । बहवे । जनाय । गाः । पस्पशानः । तविषीः । अधत्त ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुनमिति सुखनाम । सुखं यथा भवति तथा । अष्टावी । अष्टा प्रतोदः ।
+> तद्वान् ॥ छांदसो विनिः ॥ कपर्दि कपर्दवानचरत् । संचरति । किं कुर्वन् ।
+> वरत्रायां वध्र्यां दारु काष्ठं रथांगभूतमानह्यमानः सर्वतो बध्नन् । पुनः
+> किं कुर्वन् । बहवे जनाय स्वपुत्रभृत्यादिलक्षणाय नृम्मानि धनानि शत्रुसंबंधीनि
+> सुखानि वा कृण्वन् । गाः पस्पशानः स्पृशन् ॥ स्पश बाधनस्पर्शनयोः । छांदसो लिटि
+> कानच् ॥ एवं कुर्वंस्तविषीर्बलान्यधत्त । धत्ते । जयं प्राप्नोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+शुनं (*śunaṃ*) is a name for happiness: "in such a way that there is happiness". अष्ट्रावी (*aṣṭrāvī*) is one who has the goad (aṣṭrā = pratoda), the word being formed in the Veda with the affix vini. कपर्दि (*kapardi*) is one who has braided hair. He moves about (अचरत् (*acarat*)). Doing what? Binding all round the wood, a part of the chariot, with the strap (वरत्रायां (*varatrāyāṃ*)). And again doing what? Making for the many people, that is, for his own sons, servants and the like, नृम्मानि (*nṛmmāni*), namely riches belonging to the enemy, or comforts. पस्पशानः (*paspaśānaḥ*) means touching the cows. Doing thus, he took up (अधत्त (*adhatta*)) powers (तविषीः (*taviṣīḥ*)), that is, he wins victory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कपर्दि (*kapardi*)—he of beautiful hair (Indra)
+- शुनं (*śunaṃ*)—easily
+- अष्टावी (*aṣṭāvī*)—holding the whip
+- वरत्रायां दारु (*varatrāyāṃ dāru*)—the (wooden) part of the chariot, with a rope
+- आनह्यमानः (*ānahyamānaḥ*)—having bound it tight
+- बहवे जनाय (*bahave janāya*)—for many people
+- नृम्मानि (*nṛmmāni*)—riches (or happiness)
+- कृण्वन् (*kṛṇvan*)—providing
+- गाः (*gāḥ*)—the cows
+- पस्पशानः (*paspaśānaḥ*)—touching with affection
+- अचरत् (*acarat*)—he moves about everywhere (and)
+- तविषीः (*taviṣīḥ*)—his strength and capacity
+- अधत्त (*adhatta*)—he bears, that is, he increases them and wins victory
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, with his beautiful braided locks, goes about with a whip in his hand. He binds the loose parts of the chariot tight with a rope. He provides wealth or happiness to many people. He pats the cows with affection. He increases his strength and wins victory.
+
+### Printed p. 185
+
+##### English translation
+Wielding the goad (Indra) with the braided hair proceeded happily, fastening the strap to the wood (of the waggon); distributing riches to many people, caressing the oxen he acquired vigour.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं तं प॑श्य वृष॒भस्य॒ युंजं॒ काष्ठा॑या॒ मध्ये॑ द्रुघ॒णं  ॑
+> शयानं ।  
+> येन॑ जि॒गाय॑ श॒तव॑त्स॒हस्रं॒ गवां॒ मुद्ग॑लः पृत॒नाज्ये॑षु ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । तं । पश्य । वृषभस्य । युंजं । काष्ठायाः । मध्ये । द्रुघनं । शयानं ।  
+> येन । जिगाय । शतवत् । सहस्रं । गवां । मुद्गलः । पृतनाज्येषु ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कंचन सखायॆं सेनादिसहायाभावेन जयविषय उपहासं कुर्वाणं प्रति
+> ब्रवीति । राजा द्रुघणेन वृषभेण चाजिं जिगायेत्युक्तवान् । पूर्व० वृषभो
+> वर्णितः । अत्र द्रुघणो वर्ण्यते । हे सखे तमिमं द्रुघणं पश्य! कीदृशमिममिति
+> उच्यते ॥ युजेरसमासे । पा. ७-१-७१ । इति नुम् ॥ युंजं । युज्यत इति
+> युक् सखा । वृषभस्य सखिभूतं । वृषभो यावंतमर्थं साधयति तावंतमेव
+> साधयंतमित्यर्थः । पुनः कीदृशं । काष्टाया मध्यॆ । आज्यंतोऽपि काष्टोच्यत
+> इति निरुक्तं । २-१५ । आज्यंतस्य मध्यॆ । संग्राम इत्यर्थः । तत्र शयानं हंतव्यान्सर्वान्हत्वा सुखेन स्वपंतं निर्व्यापारत्वेन वर्तमानं । ईदृशं द्रुममयं घनं
+> पश्येत्यर्थः । येन द्रुघणेन शतवच्छतोपेतं गवां सहस्रं पृतनाज्येषु संग्रामेषु जिगाय अहमजैषं तमिमं पश्येति समन्वयः ॥ जयतेर्लिट् । सन्‌लिटोर्जेरित्यभ्यासादुत्तरस्य कुत्वं । मिपो णल् ॥
+
+##### Gist of the bhāṣya
+
+Mudgala speaks to a friend who mocks him about victory because he had no army or other help. The king had said that he won the battle with the द्रुघण (*drughaṇa*) (the wooden club) and the bull. Earlier the bull was described; here the club is described. "Friend, look at this club." What is it like? युंजं (*yuṃjaṃ*): that which is yoked (yujyate), a companion; it is the bull's friend, that is, it accomplishes just as much as the bull accomplishes. Again, what is it like? काष्टाया मध्यॆ (*kāṣṭāyā madhyè*): the end of a course is also called kāṣṭhā (Ni. 2-15)**NOTE**; "in the middle of the kāṣṭhā" is the battle. Lying there (शयानं (*śayānaṃ*)): having slain all who were to be slain, sleeping at ease, being without work. "Look at such a club, a solid mass of wood." The construction is: look at this club, with which I won a thousand cows together with a hundred (शतवत् (*śatavat*)) in the battles (पृतनाज्येषु (*pṛtanājyeṣu*)).
+
+### Printed p. 186
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—with which wooden club (O friend)
+- गवां शतवत् सहस्रं (*gavāṃ śatavat sahasraṃ*)—hundreds and thousands of cows
+- पृतनाज्येषु (*pṛtanājyeṣu*)—in battles
+- जिगाय (*jigāya*)—I won and brought
+- युंजं (*yuṃjaṃ*)—that which is used as an aid in battle
+- वृषभस्य (*vṛṣabhasya*)—that is like a friend of the bull (the ox)
+- काष्ठायाः मध्ये (*kāṣṭhāyāḥ madhye*)—in the middle of the battle
+- शयानं (*śayānaṃ*)—that lies at ease after destroying enemies
+- तं इमं द्रुघणं (*taṃ imaṃ drughaṇaṃ*)—this club of mine (or cudgel)
+- पश्य (*paśya*)—look
+
+##### भावार्थ (Bhāvārtha)
+
+Friend, look at this wooden club (cudgel) that I have. With its help I conquered my enemies in battle and won thousands of cows. In battle it is a help to me like a friend. Because it bears the cart together with my bull, it is a companion to the bull too. This club, having beaten down the enemies in the middle of the battle, now lies here as if resting. Look at such a club.
+
+##### English translation
+Behold this club, the ally of the bull, resting in the midst of the conflict, with which I, Mudgala, have won hundreds and thousands of cattle in war.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this ṛk Yāska has given the Nirukta: इमं तं पश्य वृषभस्य सहयुजं काष्ठाया मध्ये द्रुघणं शयानं येन (*imaṃ taṃ paśya vṛṣabhasya sahayujaṃ kāṣṭhāyā madhye drughaṇaṃ śayānaṃ yena*) … भ्रमयोऽस्या अश्वभरणाद्वा (*bhramayo 'syā aśvabharaṇādvā*) **NOTE** (Ni. 9-24)
+
+इमं तं पश्य वृषभस्य सहयुजं काष्ठाया मध्ये द्रुघणं शयानं (*imaṃ taṃ paśya vṛṣabhasya sahayujaṃ kāṣṭhāyā madhye drughaṇaṃ śayānaṃ*)—The sage Mudgala, speaking to his friend about the druhghana, the wooden club or cudgel that he has with him, has praised it: "O friend, behold this club of mine. Since I have only one bull or ox, I have come to the battlefield after yoking the ox on one side of the yoke of the cart and this club on the other side. Therefore this club is called the ox's yoke-fellow (a friend)", वृषभस्य सहयुजं (*vṛṣabhasya sahayujaṃ*). "Since I have used this club freely against the enemies in battle, it has destroyed the enemies and lies in the middle of the battlefield as if resting (as if fallen). Look at this club of mine."
+
+### Printed p. 187
+येन जिगाय शतवत् सहस्रं गवां मुद्गलः पृतनाज्येषु (*yena jigāya śatavat sahasraṃ gavāṃ mudgalaḥ pṛtanājyeṣu*)—With the help of this club I, Mudgala, have beaten down the enemies in battles and won hundreds and thousands of cows.
+
+पृतनाज्यमिति संग्रामनाम पृतनानाम जनाद्वा जयनाद्वा (*pṛtanājyamiti saṃgrāmanāma pṛtanānāma janādvā jayanādvā*)—Pṛtanājya means battle. Pṛtanā means people, armies. The place where such armies go together (अजंति गच्छंति (*ajaṃti gacchaṃti*)), that is, meet, is called pṛtanājya, battle. Or else, जयनाद्वा (*jayanādvā*), पृथनाद्वा (*pṛthanādvā*): because armies or people win (jayanāt) in it; since people or armies fight one another here and win, it is called pṛtanājya, that is, battle.
+
+मुद्दलो मुद्दवान्- मुद्दगिलो ना मदनं गिलतीति वा मदंगिलो वा मुदंगिलो वा (*muddalo muddavān- muddagilo nā madanaṃ gilatīti vā madaṃgilo vā mudaṃgilo vā*)**NOTE**—Mudga is the name of a grain, the green gram. Because he has green gram, he is named Mudgala. Or मुद्दलो वा (*muddalo vā*): because he is fond of eating green gram, the name Mudgala came to him. Or मदनं गिलतीति वा (*madanaṃ gilatīti vā*): because he conquers desire (is one who has mastered his senses), he is named Mudgala. Or मदंगिलो वा (*madaṃgilo vā*): he who overcomes excitement or anger, that is, being of peaceful nature, hence the name Mudgala. Or मुदंगिलो वा (*mudaṃgilo vā*): one who has conquered joy, free from pleasure and pain and the like, devoted to the path of withdrawal (nivṛtti). Hence the name Mudgala.
+
+अंसत्रं । अंसत्रमंहसस्त्राणं धनुर्वा कवचं ना । कवचं कु आंचितं भवति कांचितं भवति कायेऽंचितं भवतीति वा ॥ (*aṃsatraṃ | aṃsatramaṃhasastrāṇaṃ dhanurvā kavacaṃ nā | kavacaṃ ku āṃcitaṃ bhavati kāṃcitaṃ bhavati kāye 'ṃcitaṃ bhavatīti vā ‖*) (Ni. 5-26)—Aṃsatra means: अंसरः त्राणं (*aṃsaraḥ trāṇaṃ*)**NOTE**, a bow or a coat of mail that protects from the sin arising from killing people in battle. The armour (the steel armour used in battle) is called kavaca because it is bent crookedly, or bent only slightly, or because it fits the shape of the body and adjusts to it.
+
+Druhghana: द्रुघणो द्रुममयो घनः (*drughaṇo drumamayo ghanaḥ*) (Ni. 9-23)—This word contains two words, dru and ghana. Dru means tree; ghana means solid. Therefore druhghana means a club (cudgel) made of wood and solid.
+
+भार्म्यश्वो भृम्यश्वस्य पुत्रः । भृम्यश्वो भ्रमयोऽस्या अश्वभरणाद्वा (*bhārmyaśvo bhṛmyaśvasya putraḥ | bhṛmyaśvo bhramayo 'syā aśvabharaṇādvā*)—Bhārmyaśva means the son of one called Bhṛmyaśva. As for Bhṛmyaśva: because his horses do not stand in one place but wander everywhere he is named Bhramyaśva; or, because he keeps and nourishes horses, he is named Bhramyaśva.
+
+### Printed p. 188
+Kāṣṭhāyāḥ: here the word kāṣṭhā has the sense of battle. Explaining the many meanings of this word, Yāska has given the following explanation (Ni. 9-15):
+
+1. तत्र काष्ठा इत्येतदनेकस्यापि सत्त्वस्य नाम भवति (*tatra kāṣṭhā ityetadanekasyāpi sattvasya nāma bhavati*)—the word kāṣṭhā has many meanings.
+2. काष्ठा दिशो भवंति क्रांत्वा स्थिता भवंति (*kāṣṭhā diśo bhavaṃti krāṃtvā sthitā bhavaṃti*)—Kāṣṭhā means the directions. This name is because they extend very far.
+3. काष्ठा उपदिशो भवंतीतरेतरं क्रांत्वा स्थिता भवंति (*kāṣṭhā upadiśo bhavaṃtītaretaraṃ krāṃtvā sthitā bhavaṃti*)—The intermediate directions also have the name kāṣṭhā, because they stand as if thrust between two directions.
+4. आदित्योऽपि काष्ठोऽच्यते क्रांत्वा स्थितो भवति (*ādityo 'pi kāṣṭho 'cyate krāṃtvā sthito bhavati*)—The sun also has the name kāṣṭha, because the sun crosses over in the sky from one place to another (from east to west).
+5. अज्यंतोऽपि काष्ठोऽच्यते क्रांत्वा स्थितो भवति (*ajyaṃto 'pi kāṣṭho 'cyate krāṃtvā sthito bhavati*)—The battlefield also has the name kāṣṭha, because in it the arrows of the warriors cross one another and go from one side to the other.
+6. आपोऽपि काष्ठा उच्यंते क्रांत्वा स्थिता भवंतीति स्थावराणां (*āpo 'pi kāṣṭhā ucyaṃte krāṃtvā sthitā bhavaṃtīti sthāvarāṇāṃ*)—Waters also are called kāṣṭhāḥ. Of these there are two kinds, sthāvara and asthāvara. Sthāvara means water that stands in one place without movement in a reservoir (tank, pond) and the like. Asthāvara means water that flows from one place to another (from a height to a hollow). Since these leave one place and flow to another, waters are called kāṣṭhā.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒रे अ॒घा को न्वि१॒॑गत्था द॑दर्श॒ यं युं॒जंति॒ तम्मा स्था॑पयंति ।  
+> नास्मै॒ तृणं॒ नोद॒कमा भ॑रं॒त्युत्त॑रो धु॒रो व॑हति प्र॒देदि॑शत् ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 182. pp. 177-182 (batch API)
+**Progress note:** Done through printed p. 188. pp. 183-188 (batch API)
