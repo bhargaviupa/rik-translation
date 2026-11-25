@@ -23,3 +23,7 @@ page	place	as_found	question	why_not_settled	decision
 209	Agni description	English omits the Kannada remark that Indra has about a quarter of the Rik-samhita (p.210) and the sentence He is God (p.210 start)	Add?	An omission is not added	English kept; omission not added
 191-205	Gaps index rows	English index rows give names without the hymn references; the references are not reproduced	Add the references?	Omitted by the Gaps editor; omission not added	English kept; omission not added
 191	Main-file Page 191 section	The main English file has a second, older Page 191 summary (heading ## Page 191) whose references and counts differ from the print	Correct?	The section is not reachable by sp_apply (heading level) and is superseded by the Gaps table	English kept unchanged
+215	whole page	Kannada p.215 holds a repeat of the text of p.216 (running head 216); the true p.215 text (Varuna prayers, Rita, Mitra) is not in the Kannada file; English p.215 cannot be checked	Kannada p.215 text missing		English kept unchanged; page not verified
+223	row Vardhamana, reference	English 10-9-5; Kannada prints 10 and 5 in broken cells (middle number lost in the file)	Is the middle figure 9?		English kept unchanged; the Kannada file is damaged here
+231	Arnold stage (3)	Kannada ಪರ್ವಕಾಲ (probably "middle/earlier period"); English "middle period"	Unclear word		English kept unchanged
+232	Chapter 13 opening, rest of paragraphs	English is a loose paraphrase of the Kannada in several sentences (Yaska, Sayana)	Paraphrase not exact		Main errors repaired; rest kept

@@ -3011,15 +3011,15 @@ In the Veda, Indra lacks no admirable quality. Summarized briefly: Indra was bor
 
 ...his golden-horsed chariot; his weapon is the thunderbolt (vajra); none equals him in Soma-drinking, through which he becomes intoxicated and destroys the rakshasas (VII-22-1,2 & VII-29-1) — on one occasion drinking Soma poured from thirty vessels (VII-77-4), among other feats.
 
-With Vishnu's aid, Indra defeated the demons Vritra, Ahi, Shushna, Namuchi, and Shambara — who had obstructed the waters — releasing what they had blocked (VII-99-4–5) and destroying the Asuras along with their cities. Indra is a great hero and warrior; his arms alone reduce enemies to trembling submission. He watches over humankind as a father would, forgiving human transgressions with a generous heart, punishing adharma within his purview, and destroying the Dasyus, demons, and sinners.
+With Vishnu's aid, Indra defeated the demons Vritra, Ahi, Shushna, Namuchi, and Shambara — who had obstructed the waters — releasing what they had blocked (VII-99-4–5) and destroying the Asuras along with their cities. Indra is a great hero and warrior; his arrows slay enemies, bringing good fortune to those who depend on him. He watches over humankind as a father would, forgiving human transgressions with a generous heart, punishing adharma within his purview, and destroying the Dasyus, demons, and sinners.
 
-Three qualities stand out among Indra's attributes. **First:** he presides over strength and power, holding supreme authority even over Brahminical power, with essentially no restraint placed on his conduct — regarding this exalted character:
+Three qualities stand out among Indra's attributes. **First:** he presides over strength and power, holding authority over the external world; in religious or moral terms he has no very exalted place — though he has a grand form:
 
 > "Indra embodies so completely the human qualities of brag and bluster, gluttony, drunkenness and lust, as to make him the peg upon which to hang scepticism." (Bloomfield, *Vedic Religion*)
 
-These traits — ordinary human pride, gluttony, drunken indulgence, obstinacy, and susceptibility to desire — are indeed found in his portrayal, which could give rise to skepticism regarding deities generally.
+These traits — ordinary human pride, gluttony, drunken indulgence, blindness, and susceptibility to desire — are indeed found in his portrayal, which could give rise to skepticism regarding deities generally.
 
-**Second:** Indra is the ideal of martial valor, regarded as a leader in battle; those going to war pray to him and rely on his help in destroying enemies — even foes otherwise difficult to overcome are expected to fall before his aid.
+**Second:** Indra is the ideal of martial valor, regarded as a leader in battle; those going to war pray to him and rely on his help in destroying enemies — his help is sought not only against enemies but also when they quarrel among themselves.
 
 **Third: the slaying of Vritrasura.** A few examples on this point:
 
@@ -3065,9 +3065,9 @@ Both theories leave room for objections. If Indra is the rain-deity, what role r
 
 ### Page 213
 
-A third theory also exists — that of the Western scholar Hillebrandt, sometimes called the "Ice/Frost" theory. Here, Vritra is a demon who freezes and obstructs the waters during winter; Indra, acting like the sun, melts them and sets them flowing again. This theory has not gained wide acceptance either.
+A third theory also exists — that of the Western scholar Hillebrandt. Here, Vritra is a demon who freezes and obstructs the waters during winter; Indra, acting like the sun, melts them and sets them flowing again. But this view does not suit a hot country like ours.
 
-> यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरद्यन्वविन्दत् । ओजायमानं यो अहिं जघान दानुं शयानं स जनास इन्द्रः ॥ (II-12-11)
+> यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरद्यन्वविन्दत् । ओजायमानं यो अहिं जघान दानुं शयानं स जनास इन्द्रः ॥
 >
 > यः शम्बरं पर्वतेषु क्षियन्तं चत्वारिंश्यां शरद्य् अन्वविन्दत् । ओजायमानं यो अहिं जघान दानुं शयानं स जनास इन्द्रः ॥
 > *yaḥ śambaraṃ parvateṣu kṣiyantaṃ catvāriṃśyāṃ śarady anvavindat | ojāyamānaṃ yo ahiṃ jaghāna dānuṃ śayānaṃ sa janāsa indraḥ ||*
@@ -3076,7 +3076,7 @@ A third theory also exists — that of the Western scholar Hillebrandt, sometime
 
 This suggests Indra found and killed a demon hidden in the mountains in "the fortieth year" — a specific timeframe raising the question: fortieth year from when? A Puranic story explains: Indra, having completed the required 100 Ashvamedha sacrifices, attained the office of Indra; around this time, the mountains still had wings, flying about at will, landing, and causing damage, until Indra cut off their wings with his thunderbolt — an event occurring shortly after he assumed his position, to which this "fortieth year" refers.
 
-Bal Gangadhar Tilak, in his *Arctic Home in the Vedas*, offers a different reading: this Indra-demon war reflects a struggle between darkness and light. In polar regions, darkness (and twilight) persists far longer than elsewhere. The "water" in this mantra, per Tilak, isn't rainfall or river-water but the vast water believed to envelop the entire world — the Puranas describe the earth as surrounded by a sphere of water, itself surrounded by air, itself surrounded by space; light and darkness arise from the sun's movement through this system, and, per Tilak, the sun and moon's movements are linked to the movement of this cosmic water-mass. The demon's obstruction of this water-mass's movement caused damage to the world beyond imagining — so Indra's slaying of the demon and restoring the water's motion was an act of tremendous benefit to the world, which is precisely why this feat is regarded as the foremost among all his heroic deeds.
+Bal Gangadhar Tilak, in his *Arctic Home*, offers a different reading: this Indra-demon war reflects a struggle between darkness and light. In polar regions, darkness (and twilight) persists far longer than elsewhere. The "water" in this mantra, per Tilak, isn't rainfall or river-water but the vast water believed to envelop the entire world — the Puranas describe the earth as surrounded by a sphere of water, itself surrounded by air, itself surrounded by space; light and darkness arise from the sun's movement through this system, and, per Tilak, the sun and moon's movements are linked to the movement of this cosmic water-mass. The demon's obstruction of this water-mass's movement caused damage to the world beyond imagining — so Indra's slaying of the demon and restoring the water's motion was an act of tremendous benefit to the world, which is precisely why this feat is regarded as the foremost among all his heroic deeds.
 
 ### Soma
 
@@ -3087,9 +3087,9 @@ Apart from Agni and Indra, Soma is the Rigveda's most celebrated deity — the e
 
 ...abode was atop mountain peaks. The Soma-creeper was pressed by stones (gravana) to extract its juice, described as sweet, honey-like in taste — its drinking bringing mental joy, bodily strength, and vigor, extensively praised by the poets. This Soma-juice itself is described as being like ambrosia (amrita).
 
-In the Avesta, the deity "Hoama" corresponds to Soma. The Rigveda describes Soma as growing on mountains, white in color, with hard stalks — called king of the herbs/forest-plants, its juice extracted with stones, warding off disease, granting immortality, and ruling among the deities; this description recurs consistently across the text. Because Soma connects to so many different yajnas, its original, precise significance is difficult to pin down.
+In the Avesta, the deity "Hoama" corresponds to Soma. The Rigveda describes Soma as growing on mountains, brought by the Shyena bird — called king of the herbs/forest-plants, its juice extracted with stones, warding off disease, granting immortality, and being a drink most dear to the deities; these matters are described alike in the Rigveda and the Avesta. Because the Soma sacrifices are so many and so important, its prominence can be imagined.
 
-In a few Mandala-9 suktas, and in the Krishna Yajurveda and Atharvaveda, "Soma-nadi" is described with a consort identified with the Moon (Chandra); later Puranic tradition famously identifies Soma's consort as Uma (Parvati), and its lunar association became firmly established.
+In a few suktas of Mandala 10, and in the Krishna Yajurveda and Atharvaveda, Soma is explained as the Moon (Chandra), lord of the herbs; in later Itihasa and Purana works, Soma is well known as Ishvara together with Uma (Parvati).
 
 Given how much remains to be said about Soma, only a brief account is given here — a fuller discussion follows in the introduction to Mandala 9.
 
@@ -3158,33 +3158,33 @@ Combining these two aspects, Puranic tradition came to describe Varuna as ruling
 
 ### The Ashvin Deities
 
-Mandala 7's suktas 67–74 are devoted entirely to the Ashvin deities, with many further suktas praising them scattered across other Mandalas. Famous as physicians (vaidyas), and known by the name "Sarasvya" [swift-moving?], they are especially fond of Soma-drinking. They are said to arrive in a golden chariot yoked with birds, aid the suffering, and cure disease — ever ready to help directly in difficult situations. Because they are almost always praised as a joint pair, their individual distinguishing qualities receive relatively little separate attention. In the Nirukta, when asked who the Ashvins are, Yaska answers: "Some say heaven and earth; some say day and night; and some say the sun and moon" — leaving the matter genuinely open.
+Mandala 7's suktas 67–74 are devoted entirely to the Ashvin deities, with many further suktas praising them scattered across other Mandalas. Famous as physicians (vaidyas), children of Vivasvat and Saranyu, they are especially fond of Soma-drinking. They are said to arrive in a golden chariot yoked with birds, aid the suffering, and cure disease — ever ready to help directly in difficult situations. Because they move so much among human beings, the other deities hesitate somewhat to include them among themselves. In the Nirukta, when asked who the Ashvins are, Yaska answers: "Some say heaven and earth; some say day and night; and some say the sun and moon" — leaving the matter genuinely open.
 
-Many stories are told of these deities: they restored youth and long life to the rishi Chyavana, granting him worldly happiness (I-116-10); they rescued Bhujyu, son of Tugra, helplessly drowning in the ocean's depths after he prayed to them, finding him abandoned in a hopeless situation and safely bringing him to shore (I-116-5); they restored the severed leg of the rishi named Vishpala (or Rebha, per differing accounts), thrown into the water for ten days — believed connected to a sacrificial affair (satra); they gave eyes to the blind and legs to the lame, making the crooked upright. (I-116-24; I-112-8)
+Many stories are told of these deities: they restored youth and long life to the rishi Chyavana, granting him worldly happiness (I-116-10); they rescued Bhujyu, son of Tugra, helplessly drowning in the ocean's depths after he prayed to them, finding him abandoned in a hopeless situation and safely bringing him to shore (I-116-5); they revived the rishi Rebha, who had been bound hand and foot and thrown into the water, and whom people supposed dead after ten days, and drew him out. (I-116-24; I-112-5)
 
 
 ### Page 217
 
-...the rishi Atrishpravadhya, thrown into a burning pit by demons, was rescued by the Ashvins, who protect such devotees (I-116-8; VI-50-10). They restored a quail's severed limb after a wolf attacked it, and restrained the quail's father from a curse; the quail then prayed to the Ashvins, who took compassion and restored its eyes (I-116-16; I-117-17). Vishpala, whose leg was severed in battle, received an iron leg from them (I-116-15); a crow whose wings were cut had them regrown by these deities (I-116-22). Many further such stories exist.
+...the rishi Atri Saptavadhi, thrown into a fire-pit by a demon, was rescued by the Ashvins, who protect such devotees (I-116-8; VI-50-10). Rijrashva killed a hundred sheep and gave them to a wolf as food; his father, angered, cursed him to blindness; the wolf then prayed to the Ashvins to give Rijrashva sight, and they granted him eyes (I-116-16; I-117-17). Vishpala, whose leg was severed in battle, received an iron leg from them (I-116-15); when the cow of Sayu would not calve or give milk, they made her give milk (I-116-22). Many further such stories exist.
 
 ### Surya (The Sun)
 
-At night's darkest hour, moonlight fades, and at that moment the sun's approach becomes bright and powerful; rising from the depths of the vast ocean each morning, he illuminates every direction as he ascends. The youthful, beautiful-eyed imagery in the Ashvin stories above is, in some views, appropriately connected to solar characteristics.
+The sun, dim in winter, becomes bright again in spring; rising from the depths of the vast ocean each morning, he illuminates every direction as he ascends. The youthful, beautiful-eyed imagery in the Ashvin stories above is, in some views, appropriately connected to solar characteristics.
 
-This deity holds a very important place in the Veda, though his standing diminished considerably in later Puranic tradition, where he becomes merely the gods' physician with relatively few devotees.
+These deities hold a very important place in the Veda, though in the Puranas their place is quite ordinary: they are merely the physicians of the gods, of very radiant form.
 
 Savitr, Surya, Mitra, Pushan, and Vishnu can, in a sense, be treated as a single deity under different names — though because the sun performs varied functions, each function came to be regarded as its own distinct deity.
 
-The root of "Savitr" means: that which generates all things, gives consciousness (chaitanya) to the world, and dispels darkness. In the period just before sunrise — when darkness is dissipating but full daylight hasn't yet come — the sun is called "Savitr." Per Sayanacharya, "Savitr" names the sun specifically in this pre-dawn phase; Yaska similarly holds that when the sun has not yet risen but has become visible, it is called "Savitr."
+The root of "Savitr" means: to give energy (chaitanya) and to fill with brilliance. After sunrise the sun's brilliance grows steadily; in this state the sun is called "Savitr." Per Sayanacharya, the sun is called "Savitr" before sunrise and "Surya" from rising until setting; Yaska holds that "Savitr" enters once the darkness has gone and light has spread across the whole sky.
 
-Many suktas are devoted to Savitr, who — seated in a golden chariot — destroys people's sins and grants their desires, and who stirs and inspires the human mind. Among all Vedic mantras addressed to Savitr, the most important and significant is the **Gayatri** — renowned as the "mother of the Vedas."
+Many suktas are devoted to Savitr, who — seated in a golden chariot — destroys darkness and grants people the things they desire, and who stirs and inspires the human mind. Among all Vedic mantras addressed to Savitr, the most important and significant is the **Gayatri** — renowned as the "mother of the Vedas."
 
-This Gayatri is the tenth mantra of its sukta in Mandala 3, and recurs in the Samaveda (~1-2-1-9), the Shukla Yajurveda's Vajasaneyi Samhita (3-35; 22-9; 30-2; 36-3), the Krishna Yajurveda's Taittiriya Samhita (1-5-7-4 and 4-1-11-1), and the Taittiriya Aranyaka (1-11-3). No other mantra in the Rigveda receives as much praise as the Gayatri, and it is highly praised within the Yajurveda as well.
+This Gayatri is the tenth mantra of the 62nd sukta in Mandala 3, and recurs in the Samaveda (1462), the Shukla Yajurveda's Vajasaneyi Samhita (3-35; 22-9; 30-2; 36-3), the Krishna Yajurveda's Taittiriya Samhita (1-5-7-4 and 4-1-11-1), and the Taittiriya Aranyaka (1-11-3). In the Rigveda this mantra is nowhere found to be called "Gayatri"; in the Yajurveda, praise of the Gayatri is abundant.
 
 
 ### Page 218
 
-Surya, wholly luminous, has Dyauh (Heaven) as father and Aditi as mother; Ushas is his sister. Golden-hued horses draw his chariot; he is steadfast and worldly, giving light to the whole world and strength to all living beings. In later Puranic texts, this deity retains only a small, ordinary place, considered subordinate to the world's greater regulating powers. The ṛks addressed to Surya in the Rigveda are only 60½.
+Surya is so called when wholly luminous; he is the son of Dyauh (Heaven) and Aditi; Ushas is his wife. Seven horses draw his chariot; he gives life to the world of the moving and the unmoving, and is witness to the acts of all beings. In later Puranic texts, this deity retains only a small, ordinary place, considered subordinate to the world's greater regulating powers. The ṛks addressed to Surya in the Rigveda are only 60½.
 
 ### Mitra
 
@@ -3192,15 +3192,15 @@ One entire sukta is devoted to Mitra (III-59); elsewhere he is praised jointly w
 
 ### Pushan
 
-This deity knows all paths and guards travelers from dangers — thieves, wild animals, and the like. He is guardian of cattle, reuniting lost animals with their owners, and watches over all beings. He drives a goat-drawn chariot; toothless, he eats crushed food; and alone among the deities has the ability to find what is lost or hidden.
+This deity knows all paths and guards travelers from dangers — thieves, wild animals, and the like. He is guardian of cattle, bringing them safely home (VI-53-56), and watches over all beings. He rides a chariot yoked with goats, a staff in his hand, and is skilled in bringing back lost things.
 
 ### Vishnu
 
 Relatively few mantras are dedicated to Vishnu alone — he is generally praised jointly with Indra or Agni ("Indra-Vishnu," "Agni-Vishnu"). In later Puranic tradition, Vishnu attains the highest position, some texts even granting him supreme overlordship — but in the Vedas, he holds only an ordinary place.
 
-Vishnu is described as measuring the world in three steps — understood as measuring the earth, the atmosphere, and the sun's orb in the sky with these three forms; some read the three steps as sunrise, midday, and sunset. Later Puranic tradition elaborated this into the full story of the three worlds (heaven, earth, netherworld) oppressed by an Asura king, whereupon Vishnu, in the guise of Vamana (the dwarf), requested three paces of land from the demon-king Bali, then assumed his true form to measure the three worlds, thereby reclaiming the kingdom through this charitable pretext and subduing the Asura. Vishnu is also celebrated for aiding Indra in the Vritrasura-slaying episode; Surya, Agni, Ushas, and others are likewise associated with these events.
+Vishnu is described as measuring the world in three steps — understood as measuring the earth, the atmosphere, and the sun's orb in the sky with these three forms; some read the three steps as sunrise, midday, and sunset. Later Puranic tradition elaborated this into the full story of the three worlds (heaven, earth, netherworld) oppressed by an Asura king, whereupon Vishnu, in the guise of Vamana (the dwarf), requested three paces of land from the demon-king Bali, then assumed his true form to measure the three worlds, thereby reclaiming the kingdom through this charitable pretext and subduing the Asura. Vishnu is also celebrated for aiding Indra in the Vritrasura-slaying episode; he is also the creator of Surya, Agni, Ushas, and others.
 
-Vishnu carries a further name, "Shipivishta," bearing two possible senses — "improperly clothed/covered," or "possessing intense brightness." On this (VII-100-6), Tilak's *Arctic Home* states:
+Vishnu carries a further name, "Shipivishta," bearing two possible senses — "one whose radiance is concealed," or "possessing intense brightness." On this (VII-100-6), Tilak's *Arctic Home* states:
 
 > "The poet, therefore, asks Vishnu not to be ashamed of this epithet, because says he, the form indicated by the bad name is only temporarily assumed as a dark armour for the purpose of fighting the Asuras, and as it was no longer needed, Vishnu is invoked to reveal his true form to the worshipper."
 
@@ -3209,7 +3209,7 @@ Vishnu carries a further name, "Shipivishta," bearing two possible senses — "i
 
 This unfavorable form was assumed only temporarily, for defeating demons; once that task was accomplished, the form became unnecessary, hence worshippers pray for Vishnu to reveal his true form.
 
-Sayanacharya generally explains Vishnu's name via "pervasion" (vyapti) — the root *viś* meaning "to enter/pervade." Another proposed etymology has been offered by Western scholarship as well. In support, the Samaveda (2-1024) states: *"yasyoru viṣṇur vicakrame pṛthivyām adhi śānave"* — "Vishnu, who strode across the earth."
+Sayanacharya generally explains Vishnu's name via "pervasion" (vyapti) — the root *viś* meaning "to enter/pervade." Prof. Bloomfield offers a new derivation, vi + snu. In support, the Samaveda (2-1024) states: *"yasyoru viṣṇur vicakrame pṛthivyām adhi śānave"* — "Vishnu, who strode across the earth."
 
 Vishnu is credited with creating heaven and earth, and his qualities across past, present, and future are impossible to fully determine — his capability knows no limit; he pervades everything.
 
@@ -3217,9 +3217,9 @@ Vishnu is credited with creating heaven and earth, and his qualities across past
 
 No other deity receives mantras as sweetly and beautifully composed as those for Ushas — roughly 20 suktas across the Rigveda are dedicated to her, with Mandala 7's suktas 75–81 devoted to her entirely. "This radiant deity, granting a full life through her own light, spreads across all directions" (III-61-4).
 
-Ushas is daughter of Dyauh (Sky) and sister of Ratri (Night); Surya is her beloved. She is mistress of the world, bringing things into being and taking form again and again, moving swiftly to dispel darkness and awaken everyone to their tasks. She wakens sleepers and, having banished darkness, brings joy to all. Born anew each time, she is called ever-youthful (yuvati), yet is also eternal — all living beings' lives depend on her. Vedic-era poets described dawn this way while never neglecting the practical vessels and implements of yajna; Ushas is prayed to, from a yajna's very outset, as protector and giver of wealth, valor, and progeny.
+Ushas is daughter of Dyauh (Sky) and sister of Ratri (Night); Surya is her beloved. She is mistress of the world, bringing things into being and taking form again and again, moving swiftly to dispel darkness and awaken everyone to their tasks. She wakens sleepers and, having banished darkness, brings joy to all. Born anew each time, she is called ever-youthful (yuvati), yet is also eternal — all living beings' lives depend on her. Vedic-era poets described dawn this way and being a ritualist he could not fail to describe Ushas' part in the yajnas; she is the starting-time of the yajnas and their forerunner, and in many places she is prayed to grant wealth, progeny, and the like.
 
-Per Tilak's reading, some passages describe Dawn as a daily, routine event, while others describe her as unending or continuous — evoking the dawns of polar regions, where sunrise is preceded by dawn-light persisting for many days running. Elsewhere, the following verse conveys this same idea:
+Per Tilak's reading, the Ushas so described is not the daily dawn but the dawn of the polar regions, where sunrise is preceded by dawn-light persisting for many days running. Elsewhere, the following verse conveys this same idea:
 
 > तानीदहानि बहुलान्यासन् या प्राचीनमुदिता सूर्यस्य । यतः परि जार इवाचरन्त्युषो ददृश्रे न पुनर्यतीव ॥ (VII-76-3)
 >
@@ -3253,9 +3253,9 @@ Questions like "Who am I? Where did I come from? How did this varied universe co
 
 ### Page 221
 
-Many speculative accounts exist regarding this world's origin and beginning. In (X-121), Hiranyagarbha is named as the cause of creation; in the Purusha-sukta (X-90), the cosmic Virat-Purusha is described as the world's root cause; in another sukta, everything is said to arise from water alone.
+Many speculative accounts exist regarding this world's origin and beginning. In (X-121), Hiranyagarbha is named as the cause of creation; in the Purusha-sukta (X-90), the cosmic Virat-Purusha is described as the world's root cause; in the 82nd sukta (X-82), everything is said to arise from water alone.
 
-In Mandala 10's famous **Nasadiya-sukta** ("nāsad āsīt..."), the pre-creation state of the universe is described as an indescribable, wondrous condition — its treatment of creation aligns remarkably with modern scientific causal reasoning, and contains philosophical perspectives fresh even by later standards.
+In Mandala 10's famous **Nasadiya-sukta** (X-129; "nāsad āsīt..."), the pre-creation state of the universe is described as an indescribable, wondrous condition — its treatment of creation aligns remarkably with modern scientific causal reasoning, and contains philosophical perspectives fresh even by later standards.
 
 Whatever the case, the hopeful spirit (asha) so characteristic of the Veda is uniquely its own, renowned among ancient scriptures generally.
 
@@ -3267,7 +3267,7 @@ Whatever the case, the hopeful spirit (asha) so characteristic of the Veda is un
 
 ### Page 221 (continued)
 
-Across every language, the most celebrated, elevated texts are composed in meter (chandobaddha). In Sanskrit, the Puranas, Dharmashastras, and Kavyas are all metrical works; the Vedas follow this same pattern, falling under metrical composition. Several reasons likely explain why verse became the norm from the very beginning. First: feelings naturally take the form of rhythm or meter (chandas) more readily than plain prose — meter meaning the patterned arrangement of high and low, long and short sounds. Even ordinary speech, when moved to express devotion toward the deities, took on rhythmic structure. It's well known that ancient kings composed rhythmic, clear-minded verse for the delight it brought; scholars across fields likewise preserved the ancient Vedic tradition over long periods by writing in meter and adhering to established conventions. Since metrical texts are far easier to memorize and retain than prose — a matter of common experience — the Vedas came to be composed in verse.
+Across every language, the most celebrated, elevated texts are composed in meter (chandobaddha). In Sanskrit, the Puranas, Dharmashastras, and Kavyas are all metrical works; the Vedas follow this same pattern, falling under metrical composition. Several reasons likely explain why verse became the norm from the very beginning. First: feelings naturally take the form of rhythm or meter (chandas) more readily than plain prose — meter meaning the patterned arrangement of high and low, long and short sounds. All mantras were composed to please the deities, and verse sung to a tune delights the mind more than dry prose. Above all, in a time without writing materials, the vast mass of the Veda could be preserved over long ages only in verse. Since metrical texts are far easier to memorize and retain than prose — a matter of common experience — the Vedas came to be composed in verse.
 
 The Shiksha texts, discussing the defining characteristics of meter, state—
 
@@ -3280,11 +3280,11 @@ The word "Chandas" derives from the root *chad* ("to please, delight" — *chadi
 
 Because Vedic Sanskrit's grammar and meters are, from a modern standpoint, less strictly regularized than classical Sanskrit, the term "Bhāndasa" (i.e., "Chandas-style," archaic Vedic usage) came to cover all Vedic linguistic forms generally — and in more recent usage, "Bhandasa" has come to mean, simply, "irregular."
 
-Chandas is one of the six Vedangas. Among works on the subject, Pingala's treatise is by far the most celebrated, covering not only Vedic meters but classical Sanskrit meters as well.
+Chandas is one of the six Vedangas. Among works on the subject, Pingala's treatise is the oldest, covering not only Vedic meters but classical Sanskrit meters as well.
 
 Vedic meters show no particularly rigid internal pattern — no fixed rule governs the placement of short or long vowels, or heavy/light syllables (guru-laghu). Only the **total syllable-count** distinguishes one meter from another.
 
-The Rigveda's many suktas each contain several mantras; each mantra has two or more feet (pada) — generally three or four — and each pada carries a fixed syllable-count. Below is given the Rigveda's principal meters, their sub-varieties, and details of pada-count, syllable-count, defining rule (sutra), an example mantra, and its location:
+The Rigveda's many suktas each contain several mantras; each mantra has two or more feet (pada) — generally three or four — and each pada has eight or more syllables. Below is given the Rigveda's principal meters, their sub-varieties, and details of pada-count, syllable-count, defining rule (sutra), an example mantra, and its location:
 
 ### "अथ छन्दसामुदाहरणानि" — "Now, Examples of the Meters"
 
@@ -3362,7 +3362,7 @@ Mnemonic verse continuing the sequence:
 | काविराट् *(Kāvirāṭ)* | 30 | 9-12-9 | नवकयोर्मध्ये जागतः काविराट् *(navakayor madhye jāgataḥ kāvirāṭ)* | ता विद्वांसा.... *(tā vidvāṃsā....)* | 1-120-3 |
 | नष्टरूपी *(Naṣṭarūpī)* | 32 | 9-10-13 | नव वैराजस्त्रयोदशो नष्टरूपी *(nava vairājas trayodaśo naṣṭarūpī)* | वि पृच्छामि.... *(vi pṛcchāmi....)* | 1-120-4 |
 | विराट् *(Virāṭ)* | 30 | 10-10-10 | दशकास्त्रयो विराट् *(daśakās trayo virāṭ)* | प्रेद्धो अग्ने *(preddho agne)* | 7-1-3 |
-| " | 33 | 11-11-11 | एकादशका (वा) *(ekādaśakā (vā))* | अग्निं नरो.... *(agniṃ naro....)* | 7-1-1 |
+| " | 33 | 11-11-11 | एकादशका (वा) *(ekādaśakā (vā))* | अग्निं नरो.... *(agniṃ naro....)* | 7-1-0 |
 
 *(Figures as printed, re-read on the 600 dpi scan; the last digits of 5-10-1, 4-10-5 and 7-1-3 read by me.)*
 
@@ -3446,7 +3446,7 @@ Mnemonic verse:
 | ज्योतिः *(Jyotiḥ)* | 44 | 12-8-12-12 | यतोऽष्टकस्ततो ज्योतिः *(yato 'ṣṭakas tato jyotiḥ)* | ताभिरा यातं *(tābhir ā yātaṃ)* | 8-22-12 |
 | महाबृहती *(Mahābṛhatī)* | ,, | 8-8-8-8-12 | चत्वारोऽष्टका जागतश्च महाबृहती *(catvāro 'ṣṭakā jāgataś ca mahābṛhatī)* | नवानां नव *(navānāṃ nava)* | 1-191-13 |
 | यवमध्या *(Yavamadhyā)* | ,, | 8-8-12-8-8 | मध्ये चेत् यवमध्या *(madhye cet yavamadhyā)* | सं मा तपन्त्य *(saṃ mā tapantya)* | 1-105-8 |
-| पङ्क्त्युत्तरा विराट्पूर्वा *(Paṅktyuttarā Virāṭpūrvā)* | ,, | 10-10-8-8-8 | आद्यौ दशकावष्टकास्त्रयः पङ्क्त्युत्तरा विराट्पूर्वा वा *(ādyau daśakāv aṣṭakās trayaḥ paṅktyuttarā virāṭpūrvā vā)* | एवेन्द्राग्निभ्या *(evendrāgnibhyā)* | 5-86-… |
+| पङ्क्त्युत्तरा विराट्पूर्वा *(Paṅktyuttarā Virāṭpūrvā)* | ,, | 10-10-8-8-8 | आद्यौ दशकावष्टकास्त्रयः पङ्क्त्युत्तरा विराट्पूर्वा वा *(ādyau daśakāv aṣṭakās trayaḥ paṅktyuttarā virāṭpūrvā vā)* | एवेन्द्राग्निभ्या *(evendrāgnibhyā)* | 5-86-6 |
 
 Mnemonic verse:
 
@@ -3456,8 +3456,8 @@ Mnemonic verse:
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| जगती *(Jagatī)* | 48 | 12-12-12-12 | (सप्तमं) जगती जागतपदा *((saptamaṃ) jagatī jāgatapadā)* | प्र देवमच्छा *(pra devam acchā)* | 9-68-… |
-| महासतोबृहती *(Mahāsatobṛhatī)* | ,, | 12-8-12-8-8 | अष्टिनस्त्रयः स्वौ च द्वौ महासतोबृहती *(aṣṭinas trayaḥ svau ca dvau mahāsatobṛhatī)* | आ यः पप्रौ *(ā yaḥ paprau)* | 6-48-… |
+| जगती *(Jagatī)* | 48 | 12-12-12-12 | (सप्तमं) जगती जागतपदा *((saptamaṃ) jagatī jāgatapadā)* | प्र देवमच्छा *(pra devam acchā)* | 9-68-1 |
+| महासतोबृहती *(Mahāsatobṛhatī)* | ,, | 12-8-12-8-8 | अष्टिनस्त्रयः स्वौ च द्वौ महासतोबृहती *(aṣṭinas trayaḥ svau ca dvau mahāsatobṛhatī)* | आ यः पप्रौ *(ā yaḥ paprau)* | 6-48-6 |
 | महापङ्क्तिः *(Mahāpaṅktiḥ)* | ,, | 8-8-7-6-10-9 | अष्टकौ सप्तकः षट्को दशको नवकश्च *(aṣṭakau saptakaḥ ṣaṭko daśako navakaś ca)* | इयत्त्रिका *(iyattrikā)* | 1-191-11 |
 | ,, | ,, | 8-8-8-8-8-8 | षळष्टका वा महापङ्क्तिः *(ṣaḷaṣṭakā vā mahāpaṅktiḥ)* | तदन्नाय तद *(tad annāya tada)* | 8-47-16 |
 
@@ -3469,8 +3469,8 @@ Mnemonic verse:
 
 | Meter-type | Syllables | Pattern | Sutra (rule) | Example (opening) | Location |
 |---|---|---|---|---|---|
-| बार्हतः प्रगाथः *(Bārhataḥ Pragāthaḥ)* | 76 | 8-8-12-8=36 | अथ प्रगाथा बृहतीसतोबृहत्या बार्हतः *(atha pragāthā bṛhatīsatobṛhatyā bārhataḥ)* | अयं वां *(ayaṃ vāṃ)* | 1-47-… |
-| | | (36+40) 12-8-12-8=40 | | त्रिवन्धुरेण *(trivandhureṇa)* | 1-47-… |
+| बार्हतः प्रगाथः *(Bārhataḥ Pragāthaḥ)* | 76 | 8-8-12-8=36 | अथ प्रगाथा बृहतीसतोबृहत्या बार्हतः *(atha pragāthā bṛhatīsatobṛhatyā bārhataḥ)* | अयं वां *(ayaṃ vāṃ)* | 1-47-1 |
+| | | (36+40) 12-8-12-8=40 | | त्रिवन्धुरेण *(trivandhureṇa)* | 1-47-2 |
 
 *(Figures as printed, re-read on the 600 dpi scan with the user's readings. The scan cuts off the right edge of this page: where the last figure of a reference is lost, "…" stands for it.)*
 
@@ -3511,7 +3511,7 @@ Mnemonic verse:
 |---|---|---|---|---|---|
 | 5 अत्यष्टिः *(Atyaṣṭiḥ)* | 68 | 12-12-8-8-8-12-8 | अत्यष्टिपादौ जागतौ चाष्टकास्त्रयः जागतश्चाष्टकश्च *(atyaṣṭipādau jāgatau cāṣṭakās trayaḥ jāgataś cāṣṭakaś ca)* | अग्निं होतारं *(agniṃ hotāraṃ)* | 1-127-1 |
 | 6 धृतिः *(Dhṛtiḥ)* | 72 | 12-12-8-8-8-16-8 | धृतिपादौ तु जागतौ पादास्त्रयोऽष्टकाश्चाथ षोळशाक्षर एव च अष्टकश्च *(dhṛtipādau tu jāgatau pādās trayo 'ṣṭakāś cātha ṣoḷaśākṣara eva ca aṣṭakaś ca)* | अवर्मह इन्द्र *(avarmaha indra)* | 1-133-6 |
-| 7 अतिधृतिः *(Atidhṛtiḥ)* | 76 | 12-12-8-8-8-12-8-8 | अथातिधृतौ जागतौ त्रयोऽष्टका जागतश्च तथैवाष्टकौ इत्यपि *(athātidhṛtau jāgatau trayo 'ṣṭakā jāgataś ca tathaivāṣṭakau ity api)* | स हि शर्धो न *(sa hi śardho na)* | 1-127-6 |
+| 7 अतिधृतिः *(Atidhṛtiḥ)* | 76 | 12-12-8-8-8-12-8-8 | अथातिधृतौ जागतौ त्रयोऽष्टका जागतश्च तथैवाष्टकौ इत्यपि *(athātidhṛtau jāgatau trayo 'ṣṭakā jāgataś ca tathaivāṣṭakau ity api)* | स हि शर्धो न *(sa hi śardho na)* | 1-126-6 |
 
 A further set of seven meters is then listed, each with its example-mantra opening and total syllable-count given in brackets:
 
@@ -3538,7 +3538,7 @@ Whether this variance arose from carelessness on the part of the Vedic poets the
 
 ### Page 230
 
-Two opinions exist on this subject. Some hold that the Vedas, being non-human in origin (apaurusheya), faultless, and sacred, make it inappropriate to imagine any discrepancy in the received text — such readers take it upon themselves to somehow reconcile any apparent metrical irregularity wherever it appears. Others hold that acknowledging discrepancies in the received text is acceptable. Neither view should be adopted unconditionally in full; a middle path between the two is more appropriate. Deciding that every apparent metrical discrepancy must be corrected would be presumptuous; but refusing, as a blanket policy, to ever acknowledge a metrical deficiency across all mantras is, in wise persons' view, equally improper.
+Two opinions exist on this subject. Some hold that the Vedas, being non-human in origin (apaurusheya), faultless, and sacred, make it inappropriate to imagine any discrepancy in the received text — such readers take it upon themselves to somehow reconcile any apparent metrical irregularity wherever it appears. Others hold that acknowledging discrepancies in the received text is acceptable. Neither view should be adopted unconditionally in full; a middle path between the two is more appropriate. The view of the learned is to follow a change of reading where one change applies to many mantras, and a change of metre where the metre is accepted as slightly altered and this applies to many mantras.
 
 Scholars have agreed on the following legitimate methods for reconciling apparent metrical deficiencies:
 
@@ -3561,7 +3561,7 @@ Here, instead of "sūrmyā," it may be read (restored) as "su ūrmi ā."
 > अग्नयोऽग्निभ्यो *(restored: अग्नयो अग्निभ्यो)* (7-1-4)
 > वनस्पतेऽव *(restored: वनस्पते अव)* (7-2-10)
 
-**(3)** In several words, the semi-vowels "y" and "v" (where historically derived from vowels via sandhi) should be restored to their original vowel form as separate syllables.
+**(3)** In several words, the letters "y" and "r" (where historically derived from vowels via sandhi) should be restored to their original vowel form as separate syllables.
 
 > प्रजावतीषु दुर्यासु दुर्य (7-1-11)
 >
@@ -3582,34 +3582,34 @@ Here, instead of "sūrmyā," it may be read (restored) as "su ūrmi ā."
 
 ### Page 231
 
-**(5)** Some words are commonly abbreviated in recitation — for example, "śāvaka" is read as "pavaka," and "sunānaḥ" should be read as if written "svānaḥ." Many such words exist.
+**(5)** Some words are commonly written incorrectly — for example, "pāvaka" is to be read "pavāka," and "suvānaḥ" as "svānaḥ." Many such words exist.
 
-Not everyone accepts that these meters' defining characteristic lies in total syllable-count alone; scholars in our own country have not focused closely on this question, and opinions here vary. Western scholars, however, have pursued the matter further — examining whether any deeper rhythmic system underlies the syllable-arrangement of these mantras. It would be wrong to think the poets composed with mechanical, rule-bound precision; yet careful examination shows no single fixed method either — one context favors one meter, another avoids it, for reasons that vary. What is clear is that meaning was never subordinated to meter in these compositions — meter had to remain secondary to meaning. From this balance of meaning and rhythmic structure together, it can be said with confidence that this poetry was composed with real craft.
+Not everyone accepts that these meters' defining characteristic lies in total syllable-count alone; scholars in our own country have not focused closely on this question, and opinions here vary. Western scholars, however, have pursued the matter further — examining whether any deeper rhythmic system underlies the syllable-arrangement of these mantras. It would be wrong to think the poets composed with mechanical, rule-bound precision; yet careful examination shows no single fixed method either — one context favors one meter, another avoids it, for reasons that vary. It appears that meaning alone was not given priority in these mantras; they must also be pleasing to the ear. From this balance of meaning and rhythmic structure together, it can be said with confidence that this poetry was composed with real craft.
 
 **Prof. Arnold** wrote a book titled *Vedic Metre*, in which he identifies **four stages** in the development of Vedic meter:
 
-**(1)** Spontaneous composition, done in a spirit of competition with one another. Mantras from this period show considerable variation in their parts, both external and internal. Mandala 6 and the final Mandala belong mostly to this period.
+**(1)** Spontaneous composition, done in a spirit of competition with one another. Mantras from this period show considerable variation in their parts, both external and internal. Mandalas 6 and 7 belong to this period.
 
-**(2)** Free composition gradually becomes systematized and takes on fixed structure — the Gayatri and Trishtubh meters predominate here. Mandalas 3, 4, and part of Mandala 5 belong to this group.
+**(2)** Free composition gradually becomes systematized and takes on fixed structure — the Gayatri and Trishtubh meters predominate here. Mandalas 3, 4, and 9 belong to this group.
 
 **(3)** Trishtubh and Jagati meters increasingly predominate. A large portion of Mandala 1 and a small portion of Mandala 10 belong to this — the "middle period."
 
 **(4)** Beyond this, the meters already mentioned continued in free use — most of Mandala 10 belongs to this final period.
 
-Vedic poets were master craftsmen in the art of poetry — later poets do not compare to them in syllabic arrangement and rhythm. Per Prof. Arnold's own view, this developmental history explains why modern scholars have not attached great importance to the systematic use of meter [in assessing the Veda's antiquity/authorship].
+Vedic poets were master craftsmen in the art of poetry — later poets do not compare to them in syllabic arrangement and rhythm. It is Prof. Arnold's view that modern scholars can see a development in the use of meter as well.
 
 
 ## Chapter Thirteen — Commentators on the Rigveda
 
 ### Page 232
 
-Many commentators have written Rigveda commentaries (bhashya) since ancient times. Even now, modern scholars attempt to explain Vedic meaning specifically through Western-language scholarship, sometimes critiquing interpretations given in traditional-language commentaries. Ancient scholars' Sanskrit-language interpretations, along with brief biographical accounts, will be presented here as relevant.
+Many commentators have written Rigveda commentaries (bhashya) since ancient times. Modern scholars too have tried to explain the Vedic meaning in the vernacular languages as it seemed to them. Without taking up the habit of reviewing such vernacular translations by moderns, the commentaries and explanations written in Sanskrit by the ancient scholars, with brief accounts of their lives, will be set out here as the occasion arises.
 
-Providing either an extremely ancient interpretation of the Vedas, or one tracing back to their very origin, has always mattered greatly to Brahmins. Over time, as Brahmins themselves grew somewhat removed from full understanding of the Vedas, and as the Veda's true meaning came to encompass ever more varied subject matter, it no longer seemed fitting that Brahmins alone should carry the honor of the commentarial tradition.
+The earliest attempt at explaining the Vedas is found in the Brahmanas themselves. In time the Brahmanas also came to be counted as Vedas, and since they contain many matters besides the meaning of the Veda, it does not seem very fitting to place the Brahmanas in the class of Veda-commentaries.
 
-Setting Brahmins aside, the first to undertake explaining the Veda's meaning were the **Niruktakaras** — Yaska, author of the Nirukta. Yaska is reasonably well known even among those most familiar with ancient commentators, and subsequent commentators drew extensively on his work — though his own original text does not survive to us intact. Even so, his standing as the first commentator rests on the fact that his views and interpretations survive in fragments, drawn upon within many later commentaries. Having explained the meaning of a number of mantras in an ordered, systematic fashion, and having his own opinions preserved in this well-arranged way, calling him a Veda-commentator fits naturally — no other Vedanga author wrote so systematically. For this reason, Yaska's subject is not taken up here; this chapter gives brief life-histories of 16 commentators, beginning with Skandasvami.
+Setting the Brahmanas aside, the first to attempt the meaning of the Veda were the Nirukta-writer Yaska. Since Yaska too cites many commentators earlier than himself, there may have been many commentators more ancient than he, but their works have not come down to us and are not likely to be found; so Yaska may be reckoned the first commentator. Since his Nirukta covers only some of the ṛks of the Rigveda, does not in many places explain the ṛks fully and in order, and also gives his own opinions, it cannot easily be called a Veda-commentary. Moreover, the Nirukta is counted as one of the Vedangas; so, without taking up Yaska here, this chapter gives brief life-histories of 16 commentators, beginning with Skandasvami.
 
-Among these commentators, those who completed a full commentary specifically on the Rigveda are rare. **Sayanacharya alone** produced a complete commentary — and his commentaries on all four Vedas have, to at least some degree, been made accessible to everyone; no one else has written so thoroughly. For this reason, Sayana's commentary deserves particular emphasis.
+Among these commentators, those who completed a full commentary specifically on the Rigveda are rare. **Sayanacharya alone** wrote commentaries on all four Vedas, somewhat more extensively than anyone else; no one has written more fully. For this reason, Sayana's commentary deserves particular emphasis.
 
 ### 1. Skandasvami
 *(Approximate period: 630 CE)*
@@ -3641,7 +3641,7 @@ That is: Harisvami was the grandson of Guhasvami, son of Nagasvami, and a discip
 > युदाब्दानां कलेर् जग्न्य सप्तत्रिंशच्-छतानि वै । चत्वारिंशच् च मासाश् चाष्ट स्यात् तदा भाष्यम् इदं कृतम् ॥
 > *yudābdānāṃ kaler jagnya saptatriṃśac-chatāni vai | catvāriṃśac ca māsāś cāṣṭa syāt tadā bhāṣyam idaṃ kṛtam ||*
 >
-> "When 3,700 years of the Kali era had elapsed, along with 40 [more], and 8 months — then this commentary was composed."
+> "When 3,700 years of the Kali era had elapsed, along with 40 [more] years — then this commentary was composed."
 
 That is: Harisvami composed his Shatapatha Brahmana commentary in the 3,740th year of the Kali era. By one reckoning, the Kali era began in 3102 BCE, placing this commentary's composition around 638 CE. Since Skandasvami's own commentary predates this, his period can be dated to approximately **630 CE**.
 
@@ -3657,7 +3657,7 @@ Skandasvami holds that the Vedas are primarily meant for use in yajnas; at the s
 >
 > *("…not the metre, because the statement is not being employed" — the tail of a technical remark carried over from the previous page; re-read from the better scan in the [?] pass)*
 
-Skandasvami cites many authorities from the Nighantu, Nirukta, and Brihaddevata, using phrases like "smaranam," "smṛti," "smaranti," "kecit" ("some say"). In the fourth Ashtaka, commenting on mantra 7-35-4's words "viśvaṃ jagat," he writes:
+Skandasvami cites many authorities from the Nighantu, Nirukta, and Brihaddevata, using phrases like "smaranam," "smṛti," "smaranti," "kecit" ("some say"). In the fourth Ashtaka, commenting on mantra 7-35-4's words "viṣṭhitaṃ jagat," he writes:
 
 > केचित्तु—विश्वशब्दः स्थावरवचनः जगदित्येतेन समुच्चीयते स्थावरं जङ्गमं च बुध्यतामिति—एवं व्याचक्षते
 > *kecit tu — viśva-śabdaḥ sthāvara-vacanaḥ jagad ity etena samuccīyate sthāvaraṃ jaṅgamaṃ ca budhyatām iti — evaṃ vyācakṣate*
@@ -3675,9 +3675,9 @@ Venkata Madhava writes in his own commentary:
 >
 > *(Stating that Skandasvami, Narayana, and Udgitha composed a commentary together, in due succession, covering the meaning of words and sentences.)*
 
-That is: Skandasvami, Narayana, and Udgitha together composed one Rigveda commentary. Narayana's own portion has not yet been located; a manuscript in the possession of Sham. Sambashiva Shastri contains only small portions of the fifth and seventh Ashtakas.
+That is: Skandasvami, Narayana, and Udgitha together composed one Rigveda commentary. Narayana's own portion has not yet been located; a manuscript in the possession of Pandit Sambashiva Shastri contains only small portions of the fifth and seventh Ashtakas.
 
-It is conjectured that the Samaveda commentator **Madhavabhatta** was Narayana's son. Madhavabhatta gives a brief self-introduction:
+It is conjectured that the Samaveda commentator **Madhava Pandita** was Narayana's son. Madhava Pandita gives a brief self-introduction:
 
 > स्कंदस्वामिसच्चनारायणपण्डितस्य सुतश्चेति संभाव्य माधवपण्डितस्य कृतौ सामवेदव्याख्यायां...
 >
@@ -3733,9 +3733,9 @@ The Nighantu-commentator Devarajayajva (1313 CE) also predates Sayanacharya. In 
 
 ### Page 236
 
-...Venkata Madhava's son Madhava, in his own Anukramani commentary, states he examined other Acharyas' commentaries before composing his own — confirming Venkata Madhava predates Devarajayajva.
+...Devarajayajva writes that his commentary is made after examining the Namanukramani in the commentary of Madhava, son of Venkatacharya, and the commentaries of other acharyas — confirming Venkata Madhava predates Devarajayajva.
 
-Keshavasvami's *Nānārthārṇavasaṃkṣepa* (before 1300 CE) gives an etymology of "gaulabba" based on Venkata Madhava's own authority:
+Keshavasvami's *Nānārthārṇavasaṃkṣepa* (before 1300 CE) gives the meaning "horse" (ashva) for the word "go," citing Venkata Madhava as authority:
 
 > दृयोःस्त्व्ये तथा ह्याड स्कंदस्वाम्यश्च भूरिशः । माधवाचार्यसूरिश्च कोऽद्येत्कृच्च भाषके ॥
 >
@@ -3764,7 +3764,7 @@ That is: he resided in the kingdom of a king named Ekavira. Among Chola-dynasty 
 
 The most recent of these, Virarajendra, ruled up to 1255 CE — placing Venkata Madhava's own period at approximately **1200 CE**.
 
-In his Rigveda commentary, Venkata Madhava includes a few autobiographical verses identifying himself as son of Venkatacharya, a resident of a village called Gomarcha in the Chola country, contemporary with King Ekavira.
+In his Rigveda commentary, Venkata Madhava includes a few autobiographical verses identifying himself as son of Venkatacharya, a resident of a village called Gorma in the Chola country, contemporary with King Ekavira.
 
 Devaraja, in his own Nighantu-commentary (at 1-14-18), cites Venkata Madhava's commentary, concluding:
 
@@ -3778,16 +3778,16 @@ Devaraja cites Venkata Madhava's commentary at many further points in his own te
 ### Page 237 — Manuscript Copies of Venkata Madhava's First Commentary
 
 1. Travancore Government Library — the first Adhyaya of the first Ashtaka.
-2. Copies held by individual pundits.
+2. In the possession of Pandit Sambashiva Shastri.
 3. Madras Government Oriental Manuscripts Library (Devanagari script) — lacks the fourth Ashtaka; corrupted in places.
 4. Travancore Government Library (second copy) — only the last four Ashtakas.
 5. Mysore Government Library — from the middle of the first Ashtaka's third chapter to the end of the first Ashtaka.
 6. Travancore Government Library (third copy) — only the first and second Ashtakas.
 7. Punjab University Library, Lahore — mostly complete.
 8. Dayananda College Library, Lahore — mostly complete.
-9. Dr. Malayalamkar's private collection — of his two copies, the first contains only the eighth Ashtaka's commentary.
+9. Dr. Malayalamkar's private collection — his two copies contain the commentary of the first and eighth Ashtakas.
 
-The Lahore-held manuscripts, though slightly incomplete, are the most complete overall. Drawing on these along with other supporting texts, Dr. Suroopa published this Venkata Madhava commentary in four parts; a copy of this edition is held at the Mysore Government Oriental Library.
+Apart from the Lahore manuscripts, all the rest are probably incomplete. Drawing on these along with other supporting texts, Dr. Svarupa published this Venkata Madhava commentary in four parts; a copy of this edition is held at the Mysore Government Oriental Library.
 
 ### The Special Features of Venkata Madhava's First Commentary
 
@@ -3799,7 +3799,7 @@ The Lahore-held manuscripts, though slightly incomplete, are the most complete o
 
 That is: he states there is no wordy elaboration in this commentary, though he claims to have attempted explaining every meaning, even if only briefly.
 
-**(2)** Venkata Madhava made an unusually thorough study of the Brahmana texts, evident throughout his commentary. In his own view, mere familiarity with the Brahmana texts is not, by itself, sufficient for understanding the Veda's meaning.
+**(2)** Venkata Madhava made an unusually thorough study of the Brahmana texts, evident throughout his commentary. In his view, the Veda's meaning cannot easily be understood without knowing the Brahmana texts.
 
 
 ### Page 238
@@ -3811,9 +3811,9 @@ Venkata Madhava's own verse on his methodology:
 >
 > *(Explaining that mantra-meanings should be settled, where unknown or doubtful, by consulting the elders; that present-day scholars versed only in Nirukta and grammar know but a quarter of the Saṃhitā; and that true scholarship requires knowledge of the Brahmana texts across many shakhas — the Tandya, Shatyayana, Shatapatha, Kaushitaka, Kathaka, Aitareya, Paippalāda (Atharvaṇa) and Taittirīya Brāhmaṇas — while the Bhāllavi, Maitrāyaṇīya and Caraka Brāhmaṇas were not heard by him.)*
 
-That is: in this commentary, each mantra's meaning is explained individually; where a meaning is unknown or doubtful, it is determined by those versed in the Brahmana texts. Among modern scholars, those skilled only in Nirukta and grammar can grasp merely a quarter of the Rik Samhita's meaning — full understanding requires mastery of the Brahmana portions and the ritual procedures (karmangas) they describe. Those versed in the Tandya, Shatyayana, Shatapatha, Kaushitaka, and Kathaka Brahmanas are called true scholars (panditas); those who further know the Aitareya, the Atharvana-Saipralada, and the Taittiriya Brahmanas are called "elders" (true authorities). Venkata Madhava admits he had no access to the Brahmana portions explaining the mantras of the Bhallavi, Vaitrayaniya, and Charaka traditions.
+That is: in this commentary, each mantra's meaning is explained individually; where a meaning is unknown or doubtful, it is determined by those versed in the Brahmana texts. Among modern scholars, those skilled only in Nirukta and grammar can grasp merely a quarter of the Rik Samhita's meaning — full understanding requires mastery of the Brahmana portions and the ritual procedures (karmangas) they describe. Those versed in the Tandya, Shatyayana, Shatapatha, Kaushitaka, and Kathaka Brahmanas are called scholars (panditas); one who knows our Aitareya Brahmana, the Paippalada of the Atharvana, and the Taittiriya Brahmana is called an "elder" (vriddha). Venkata Madhava states he has not heard the Brahmana portions explaining the mantras of the Bhallavi, Maitrayaniya, and Charaka traditions.
 
-This confirms Venkata Madhava studied the Aitareya, Kaushitaka, Shatapatha, Taittiriya, Katha, Tandya, Shatyayana, and Saipralada Brahmanas — but not the Bhallavi, Vaitrayaniya, or Charaka Brahmanas. Beyond all these, the **Shatyayana Brahmana** is cited most extensively in this first commentary — worth noting that its readings closely resemble those of the Jaiminiya Brahmana.
+This shows that Venkata Madhava studied the Aitareya, Kaushitaka, Shatapatha, Taittiriya, Katha, Tandya, Shatyayana, and Paippalada Brahmanas — but the Bhallavi, Maitrayaniya, and Charaka Brahmanas did not come to him. Beyond all these, the **Shatyayana Brahmana** is cited most extensively in this first commentary — worth noting that its readings closely resemble those of the Jaiminiya Brahmana.
 
 **(3)** Venkata Madhava's commentary also extensively cites the Katyayana Sarvanukramani, the Nidana-sutra, the Nighantu, the Nirukta, Shaunaka, and the Brihaddevata as supporting examples. At many points he references "Nirukta" or "Yaska" generically without naming a specific passage — and generally cites the shorter/abridged recension of the Nirukta.
 
@@ -3828,7 +3828,7 @@ The divisions into Ashtaka, Adhyaya and Varga were made by the earlier rishis in
 
 Some count the number of ṛks as 10,402; the dvipadas are included in this. If the dvipadas are counted separately, the number becomes 10480. The reading "10580 ṛks and an ekapada" (found in the Anuvakanukramani, the Charanavyuha and the like) is not right. Not knowing which shakha's count the Anuvakanukramani, the Charanavyuha and the like give, Venkata Madhava rejected that count.
 
-**(5)** On matters of Yajus, Nirukta, and the root-index of the Nighantu, Venkata Madhava holds that certain material attributed to Yaska is in fact a later interpolation (prakshipta).
+**(6)** Venkata Madhava holds that the Nighantu, the basis of Yaska's Nirukta, was itself composed by Yaska.
 
 ### 6. Lakshmana
 *(Approximate period: 1092 CE)*
@@ -3854,17 +3854,17 @@ Some count the number of ṛks as 10,402; the dvipadas are included in this. If 
 
 That is: in the village of Matarapujya, south of Meruttara, the eminent Brahmin Lakshmana, of the Kashyapa lineage, performed thirty yajnas, pleased Vishnu, and composed a Veda-commentary titled **"Vedabhushana"** ("Ornament of the Veda"). Since Sharadatanaya lived around 1174 CE, his great-grandfather Lakshmana may be conjectured to have lived about 75 years before him.
 
-### 7. Dhanushyajva
+### 7. Dhanushkayajva
 *(Approximate period: 13th century CE)*
 
 > त्रिवेदीभाष्यकारेण धानुष्कयज्वा तु चरणशब्दस्स्वदर्शनाभिधायीति देवता विशेषस्स्वदर्शनमिति स्पष्टं व्याख्यातम् । यद्वा—महस्सत् अरवत् खवं धन्ययज्ज्ञा व्याख्यातम् । त्रयीनिष्ट विद्गेन धानुष्कयज्ज्ञा त्रिष्टि वेदभाष्येषु सप्रमाणमुपसस्त् ।
 >
-> *(A technical passage identifying Dhanushyajva as commentator on all three Vedas; precise construction difficult to render exactly at this resolution.)*
+> *(A technical passage identifying Dhanushkayajva as commentator on all three Vedas; precise construction difficult to render exactly at this resolution.)*
 
-From these statements in the Veda-acharya's *Sudarshana-mimamsa*, it is understood that a scholar named Dhanushyajva composed commentaries on all three Vedas and belonged to the Vaishnava tradition — though these commentaries have not been located anywhere to date.
+From these statements in the Veda-acharya's *Sudarshana-mimamsa*, it is understood that a scholar named Dhanushkayajva composed commentaries on all three Vedas and belonged to the Vaishnava tradition — though these commentaries have not been located anywhere to date.
 
 ### 8. Anandatirtha
-*(Period: 1197–1277 CE)*
+*(Period: 1197–1237 CE)*
 
 Renowned as the Acharya who established the Dvaita philosophical doctrine, known by many names — Anandatirtha-Bhagavatpadacharya, Purnaprajna, Madhva. He states his own date in his own work, the *Mahabharata-Tatparya-Nirnaya*:
 
@@ -3873,7 +3873,7 @@ Renowned as the Acharya who established the Dvaita philosophical doctrine, known
 > चतुस्सहस्रे त्रिशकोत्करे गते संवत्सराणां तु कलौ स्फुटिन्याम् । जातः पुनर् विप्रतनुः स भीमो दैत्यैर् निगूढं परितत्त्वम् आह ॥
 > *catussahasre triśakotkare gate saṃvatsarāṇāṃ tu kalau sphuṭinyām | jātaḥ punar vipratanuḥ sa bhīmo daityair nigūḍhaṃ paritattvam āha ||*
 >
-> "When four thousand and some [thirty-odd] years of the Kali era had passed, in this manifest age, he — Bhima [reborn] — took form again as a Brahmin, and declared the truth that had been concealed by demons."
+> "When four thousand and three hundred more years of the Kali era had passed, in this manifest age, he — Bhima [reborn] — took form again as a Brahmin, and declared the truth that had been concealed by demons."
 
 That is: Madhvacharya was born after 4,300 years of the Kali era had elapsed — corresponding to **1197 CE**. Tradition holds he lived for 80 years within the Madhva tradition.
 

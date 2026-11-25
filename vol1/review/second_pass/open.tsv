@@ -28,3 +28,7 @@ other	166	Kannada p.166 prints ೬೦೨೦ ಋಕ್ಕುಗಳು for the Cā
 other	173	Kannada p.173 says the Kauṣītakī-brāhmaṇa follows the Bāṣkala branch although p.172 equates the Kauṣītakī brāhmaṇa with the Śāṅkhāyana branch; English changed to Bashkala as printed
 other	181, 182	Kannada p.181 heading prints ವಾಸಿಷ್ಠರು—೮ while its seven names and the p.182 table give 7; the English heading carries 8 as printed
 other	202	Kannada p.202 prints [0] for ವಿಹವ್ಯಃ ಆಂಗಿರಸಃ 10-128 (no mantras); English keeps [0] as printed
+other	224	Kannada p.224 table prints ೭ ೧ ೦ (7-1-0) for agnim naro....; impossible reference, applied as printed (English was 7-1-1)
+other	239	Kannada p.239 numbers the points (೪) then (೬), skipping 5, and prints the (೬) line twice (second line has Yaska correctly); applied as printed ((6))
+other	240	Kannada p.240 prints Anandatirtha 1197-1237 while the Kannada text says he lived 80 years; applied as printed (English was 1197-1277)
+page-absent	215	The supplied Kannada p. 215 is a copy of p. 216 (running head 216); the true p. 215 text is not in the file, so English p. 215 could not be checked (the supplied file needs a new p. 215)

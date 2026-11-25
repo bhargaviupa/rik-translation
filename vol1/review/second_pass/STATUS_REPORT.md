@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 220 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210)
-- **Findings:** 972 — applied 836, questions 136; edits ok 840, failed 0
-- **Reader tokens (batches so far):** 2493k; per page 11.3k
-- **Last commit:** d2c93de
+- **Pages read:** 250 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240)
+- **Findings:** 1059 — applied 910, questions 149; edits ok 914, failed 0
+- **Reader tokens (batches so far):** 2493k; per page 10.0k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -19,22 +19,23 @@
 | 6 | 121–150 | 93 | 71 | 96 / 0 | 22 | 353k | a98e5a2 | 96 edits (25 Devanagari/IAST pairs via sp_sanskrit, 25 number repairs); Kannada table numerals applied as printed even where they contradict the Kannada's own totals (pp. 121, 138, 139, 142, 150: 6 rows in open.tsv; English rows without a Kannada counterpart blanked/dashed on pp. 138–139); legacy remarks contradicted by the edits left (pp. 138, 150, 123–124) |
 | 7 | 151–180 | 178 | 162 | 162 / 0 | 16 | 344k | 0d0d282 | 162 edits (96 Devanagari/IAST repairs via sp_sanskrit, 22 S1 + 1 S3, 28 S13 names); where the Kannada word is a plausible misprint and the English had another reading the Kannada was followed as printed and flagged as a question (pp. 166, 178); pp. 151–167 in the Gaps file, 168–180 in the main file; 7 open.tsv rows (Kannada totals/branch numbers that do not fit) |
 | 8 | 181–210 | 79 | 71 | 71 / 0 | 8 | 317k | d2c93de | 71 edits (28 S14 sense, 12 S13 names, 9 S16, 8 S2, 5 S3, 4 S15, 4 S1, 1 S7), 8 Gaps index count rows corrected; first batch under the Nov 25 method (no questions: 15 kn_misprints, 7 decided_by_default rows; no Devanagari/IAST lines edited); Kannada p. 198 block holds printed 198+199; an older '## Page 191' summary in the main file (two-level heading) is out of sp_apply's reach (listed in decided_by_default) |
+| 9 | 211–240 | 87 | 74 | 74 / 0 | 13 | TOK8 | @C@ | 74 edits (24 S14 sense, 16 S13 names, 12 S3 + 11 S1 numbers, 5 S16, 4 S15); the supplied Kannada p. 215 is a copy of p. 216 (true p. 215 absent: English p. 215 unchecked); several paragraphs on pp. 214, 217, 232 replaced as wrong as a whole; Kannada table references applied as printed even where odd (7-1-0 p. 224, p. 239 numbering, 1237 vs 80 years: open.tsv) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| S7 | 351 | 21 | 372 |
-| S13 | 139 | 5 | 144 |
-| S14 | 122 | 1 | 123 |
-| H29 | 0 | 101 | 101 |
-| S1 | 99 | 1 | 100 |
-| S16 | 35 | 3 | 38 |
-| S3 | 28 | 0 | 28 |
-| S2 | 24 | 0 | 24 |
-| S15 | 22 | 0 | 22 |
-| S17 | 16 | 4 | 20 |
+| S7 | 352 | 21 | 373 |
+| S13 | 155 | 5 | 160 |
+| S14 | 150 | 1 | 151 |
+| H29 | 0 | 110 | 110 |
+| S1 | 107 | 1 | 108 |
+| S16 | 41 | 3 | 44 |
+| S3 | 38 | 0 | 38 |
+| S15 | 26 | 0 | 26 |
+| S2 | 25 | 0 | 25 |
+| S17 | 16 | 8 | 24 |
 
-By reader: R1 425, R3 361, R6 186
+By reader: R1 487, R3 361, R6 211
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -66,11 +67,15 @@ By reader: R1 425, R3 361, R6 186
 - **other** (pages 173): Kannada p.173 says the Kauṣītakī-brāhmaṇa follows the Bāṣkala branch although p.172 equates the Kauṣītakī brāhmaṇa with the Śāṅkhāyana branch; English changed to Bashkala as printed
 - **other** (pages 181, 182): Kannada p.181 heading prints ವಾಸಿಷ್ಠರು—೮ while its seven names and the p.182 table give 7; the English heading carries 8 as printed
 - **other** (pages 202): Kannada p.202 prints [0] for ವಿಹವ್ಯಃ ಆಂಗಿರಸಃ 10-128 (no mantras); English keeps [0] as printed
+- **other** (pages 224): Kannada p.224 table prints ೭ ೧ ೦ (7-1-0) for agnim naro....; impossible reference, applied as printed (English was 7-1-1)
+- **other** (pages 239): Kannada p.239 numbers the points (೪) then (೬), skipping 5, and prints the (೬) line twice (second line has Yaska correctly); applied as printed ((6))
+- **other** (pages 240): Kannada p.240 prints Anandatirtha 1197-1237 while the Kannada text says he lived 80 years; applied as printed (English was 1197-1277)
+- **page-absent** (pages 215): The supplied Kannada p. 215 is a copy of p. 216 (running head 216); the true p. 215 text is not in the file, so English p. 215 could not be checked (the supplied file needs a new p. 215)
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 115 Kannada misprints where the English is kept (`kn_misprints.tsv`); 24 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 124 Kannada misprints where the English is kept (`kn_misprints.tsv`); 28 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
