@@ -553,6 +553,303 @@ The गातुवित्तमाः (*gātuvittamāḥ*), those who most of
 
 The Soma juices, which know the best paths, are shining, friends of the gods, to be pressed, sinless, of excellent thought and bringers of heaven, flow for us.
 
+### Printed p. 13
+#### Ṛk 10 (continued)
+
+##### English translation
+The brilliant Soma juices flow for us knowing the right path, friendly (to the gods), effused, sinless, contemplative, all knowing.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒स्वा॒णासो॒ व्यद्रि॑भि॒श्चिता॑ना॒ गोरधि॑ त्व॒चि ।  
+> इष॑म॒स्मभ्य॑म॒भितः॒ सम॑स्वरन्वसु॒विदः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुस्वानासः । वि । अद्रिऽभिः । चितानाः । गोः । अधि । त्वचि ।  
+> इषं । अस्मभ्यं । अभितः । सं । अस्वरन् । वस्तुविदः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोरनडुहोऽधि त्वच्यधिषवणचर्मुणि चिताना ज्ञायमाना अद्रिभिर्ग्रावभिर्विविधं सुष्वाणासः सूयमाना वसुविदो वसुनो लंभका एते सोमा अस्मल्यमिषमन्नमभितः समस्वरन् । सम्यक् शब्दयंति । प्रयच्छंतीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes *goranaḍuho 'dhi tvaci* as "upon the hide of the ox", that is, on the pressing-hide. These Somas, being known (distinguished) there and pressed in various ways by the stones (the pressing-stones), are finders of wealth. They sound forth together food for us on every side; that is, they give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गोः (*goḥ*)—of the cow
+- अधि त्वचि (*adhi tvaci*)—upon the hide
+- वि चितानाः (*vi citānāḥ*)—those that are well recognised
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुष्वाणासः (*suṣvāṇāsaḥ*)—those that are pressed
+- वसुविदः (*vasuvidaḥ*)—those that cause wealth to be obtained, the Soma juices
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- इषं (*iṣaṃ*)—food
+- अभितः (*abhitaḥ*)—everywhere
+- समस्वरन् (*samasvaran*)—they provide
+
+##### भावार्थ (Bhāvārtha)
+
+While they are upon the cowhide, the Soma juices are well recognised, are pressed by the pressing stones and cause wealth to be obtained; they provide food for us everywhere.
+
+##### English translation
+Effused by the stones, recognized upon the cowhide, acquirers of wealth they bestow food upon us from all sides.
+
+### Printed p. 14
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते पू॒ता वि॑प॒श्चितः॒ सोमा॑सो॒ दध्या॑शिरः ।  
+> सूर्या॑सो॒ न द॑र्श॒तासो॑ जिग॒त्नवो॑ ध्रु॒वा घृ॒ते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । पूताः । विपःचितः । सोमासः । दधिआशिरः ।  
+> सूर्यासः । न । दर्शतासः । जिगत्नवः । ध्रुवाः । घृते ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूताः पवित्रेण परिपूता विपश्चितो मेधाविनो दध्याशिरो दध्यामिश्रणा
+> घृते वसतीवर्याख्य उदके जिगत्नवो गमनशीला ध्रुवास्तत्र स्थैर्येण वर्तमाना
+> एते सोमासः सोमाः सूर्यासो न सूर्या इव दर्शतासः पात्रेषु सर्वैर्दर्शनीया भवंति ॥
+
+##### Gist of the bhāṣya
+
+These Somas are purified (पूताः (*pūtāḥ*)) by the filter, wise, mixed with curds, and move in the ghṛta, which is the water called Vasatīvarī; they are steady, abiding there firmly. Like suns, they become visible to all in the vessels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूताः (*pūtāḥ*)—those purified in the daśāpavitra (the woollen filter)
+- विपश्चितः (*vipaścitaḥ*)—the wise
+- दध्याशिरः (*dadhyāśiraḥ*)—those mixed with curds
+- धृते (*dhṛte*)—in the Vasatīvarī water
+- बिगत्नवर् (*bigatnavar*)—those that move about
+- ध्रुवाः (*dhruvāḥ*)—those that are firm
+- एते सोमासः (*ete somāsaḥ*)—these Soma juices
+- सूर्यासो न (*sūryāso na*)—like the Ādityas (suns)
+- दर्शतासः (*darśatāsaḥ*)—shining, become visible
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices, purified in the daśāpavitra, wise, mixed with curds, moving about and steady in the Vasatīvarī water, shine like the Ādityas and become visible to all.
+
+##### English translation
+These Filtered Soma juices , intelligent, mixed with curds, swift-moving, firm in the water (are) brilliant as suns.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु॑न्वा॒नस्यांध॑सो॒ मर्तो॒ न वृ॑त॒ तद्वचः॑ ।  
+> अप॒ श्वान॑मरा॒धसं॑ ह॒ता म॒खं न भृग॑वः ॥ १३ ॥
+
+### Printed p. 15
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सुन्वानस्य अंधसः । मर्तः . न । वृत । तत् । वचः ।  
+> अप । श्वानं । अराधसं । हत । मखु । न । भृगवः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुन्वानस्याभिषूयमाणस्यांधसोऽदनीयस्य सोमस्य तत् प्रसिद्धं वचो
+> वचनं घोषं मर्तो मारकः कर्मविघ्नकारी श्वा न प्र वृत । न भजतां । न
+> शृणोत्वृत्ति यावत् । तथा हे स्तोतारः आराधसं संसाधककर्मरहितं तं श्वानमप हत । तत्र दृष्टांतः । मखं न यथा पुरापराद्धं ममेतन्नामानं बृगवोऽपहतवंतः तथाप हतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Of the Soma that is being pressed, the "food" (अंधसः (*aṃdhasaḥ*), what is to be eaten), let the mortal (मर्तो (*marto*), a deadly one, an obstructer of rites), a dog as it were, not प्र वृत (*pra vṛta*) (not resort to, that is, not listen to) that famous utterance, the sound. And you, O praisers, strike away that dog, who is devoid of rites that accomplish the sacrifice. The illustration: as the Bhṛgus in former times struck away one named Makha who had offended, so strike him away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुन्वानस्य (*sunvānasya*)—of the one being pressed
+- अंधसः (*aṃdhasaḥ*)—of Soma
+- तत् (*tat*)—that famous
+- वचः (*vacaḥ*)—praise
+- मर्तः (*martaḥ*)—the man fallen from rites
+- न प्र वृत (*na pra vṛta*)—let him not recite
+- भृगवः (*bhṛgavaḥ*)—the Bhṛgus
+- मखं न (*makhaṃ na*)—as they drove off one called Mukha formerly **NOTE**
+- आराधसं (*ārādhasaṃ*)—devoid of rites
+- श्वानं (*śvānaṃ*)—the dog
+- आप हत (*āpa hata*)—strike and drive away
+
+##### भावार्थ (Bhāvārtha)
+
+Let the man fallen from rites not recite the praise that extols the Soma pressed for the sacrifice. As the Bhṛgus formerly drove off one called Makha, strike and drive away the dog that is devoid of rites.
+
+##### English translation
+Let no mortal hear the sound of the effused Soma ; drive off the dog that sacrifices not as the Bhrigus drove off Makha.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ जा॒मिरत्के॑ अव्यत भु॒जे न पु॒त्र ओ॒ण्योः॑ ।  
+> सर॑ज्जा॒रो न योष॑णां व॒रो न योनि॑मा॒सदं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । जामिः । अत्के । अव्यत । भुजे । न । पुत्रः । ओण्योः ।  
+> सरत् । जारः । न । योषणां । वरः । न । योनिं । आसदं ॥ १४ ॥
+
+### Printed p. 16
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जामिर्बंधुभूतो देवानां सोमोत्क आच्छादके पवित्र आवृत । आवृणोति ।
+> संबद्धो भवति । तत्र दृष्टांतः । भुजे न यथाज्यो रक्षकयोर्मातापितोर्भुजे पुत्र आवृणोतीति तद्वत् । ततः सोऽयं सोमो योनिं स्वस्थानभूतं
+> कलशमासदमासत्तुं सरत् । सरति । तत्र दृष्टांतद्वयं । जारो न यथा जारो
+> योषणामसतीं स्त्रीयं प्राप्तं सरति । यथा वा वरः कन्यां प्राप्तुं गच्छति तद्वत्
+
+##### Gist of the bhāṣya
+
+Jāmi is Soma, the kinsman of the gods. He is enveloped (आवृत (*āvṛta*), he is bound up) in the covering filter (अत्के (*atke*)). The illustration: as a son in the arms of his protecting parents is enveloped. Thereupon this Soma runs to sit in his own place, the vessel (योनिं (*yoniṃ*)). Two illustrations: as a paramour runs to a woman, an unchaste one who has been obtained; or as a bridegroom goes to obtain a maiden, so he goes. ()
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओण्योः (*oṇyoḥ*)—of the protecting mother and father
+- भुजे (*bhuje*)—in the arm
+- पुत्रः न (*putraḥ na*)—as a son is happy
+- जामिः (*jāmiḥ*)—Soma, the kinsman of the gods
+- अत्के (*atke*)—in the covering daśāpavitra
+- अव्यत (*avyata*)—he is enveloped
+- योषणां (*yoṣaṇāṃ*)—seeking out a young woman
+- जारः न (*jāraḥ na*)—as a lover runs
+- वरः न (*varaḥ na*)—and as a bridegroom goes seeking a maiden
+- सोमः (*somaḥ*)—the god Soma
+- योनिं (*yoniṃ*)—to his own place, the Droṇa-kalaśa
+- आसदं (*āsadaṃ*)—to go and sit
+- सरत् (*sarat*)—he goes
+
+##### भावार्थ (Bhāvārtha)
+
+As a son is happy in the arms of his protecting parents, so Soma, the kinsman of the gods, is enveloped in the covering daśāpavitra. As a lover goes seeking a young woman, and as a bridegroom goes seeking a maiden, so the god Soma flows to go and settle in his own place, the Droṇa-kalaśa.
+
+##### English translation
+(Soma) the kinsman (of the gods) is enveloped in the investing filter like a child in the arms of its pretecting parents ; he hastens like a gallant to a mistress, like a bridegroom (to the bride), to sit upon his station (the pitcher).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वी॒रो द॑क्ष॒साध॑नो॒ वि यस्त॒स्तंभ॒ रोद॑सी ।  
+> हरिः॑ प॒वित्रे॑ अव्यत वे॒धा न योनि॑मा॒सदं॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वीरः । दक्षसाधनः । वि यः । तस्तंभ । रोवसी इति ।  
+> हरिः । पवित्रे । अव्यत । वेधाः । न । योनिं । आसदं ॥ १५ ॥
+
+### Printed p. 17
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दक्षसाधनो बलसाधनः स सोमो वीरः समर्थो भवति । यः सोमो
+> रोदसी द्यावापृथिव्यौ वि तस्तंभ स्वतेजसा व्यस्तभ्नात् । आच्छादयतीत्यर्थः । किंच
+> हरिर्हरितवर्णः सोमो वेधा न विधाता यजमानो यथा स्वगृहमासीदति तद्वद्योनिं स्वस्थानं कलशमासदमासत्तुं पवित्रेऽव्यत । अवृणोति । संबद्धो भवति ॥
+
+##### Gist of the bhāṣya
+
+That Soma, the accomplisher of strength (दक्षसाधनो (*dakṣasādhano*)), is a hero, that is, capable; he who propped apart heaven and earth (रोदसी (*rodasī*)) by his own brilliance, that is, covers them. Moreover, Soma, green in colour (हरिः (*hariḥ*)), is enveloped in the filter in order to sit in his own place, the vessel; as the sacrificer (वेधा (*vedhā*), the ordainer) sits in his own house, so he.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Soma who
+- रोदसी (*rodasī*)—both heaven and earth
+- वि तस्तंभ (*vi tastaṃbha*)—has divided and upheld
+- यः (*yaḥ*)—who
+- दक्षसाधनः (*dakṣasādhanaḥ*)—accomplisher of strength
+- वीरः (*vīraḥ*)—and is capable
+- हरिः (*hariḥ*)—green-coloured
+- सः (*saḥ*)—that same Soma
+- वेधा न (*vedhā na*)—as a victorious man sits in his house
+- योनिं (*yoniṃ*)—his own place, the Droṇa-kalaśa
+- आसदं (*āsadaṃ*)—for joining
+- पवित्रे (*pavitre*)—in the daśāpavitra
+- अव्यत (*avyata*)—he stands
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, who has divided heaven and earth and upholds both, the accomplisher of strength, the capable, the green-coloured, stands in the daśāpavitra in order to join his own place, the Droṇa-kalaśa, as a victorious man sits happily in his own house.
+
+##### English translation
+The green-tinted (Soma), the implement of strength, the hero, who has upheld heaven and earth, is enveloped in the filter like the sacrificer (in his house) to sit upon his station.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव्यो॒ वारे॑भिः पवते॒ सोमो॒ गव्ये॒ अधि॑ त्व॒चि ।  
+> कनि॑क्रद॒द्वृषा॒ हरि॒रिंद्र॑स्या॒भ्ये॑ति निष्कृ॒तं ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्यः । वारेभिः । पवते सोमः । गव्ये । अधि । त्वचि ,  
+> कनिक्रदत् । वृषा : हरिः । इंद्रस्य । अभि । एति । निःकृतं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> xxv 2
+
+**NOTE**
+
+### Printed p. 18
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमोऽव्योऽवेर्वारेभिर्वालैः पवित्रैः तेभ्यः पवते । कलशं प्रति
+> क्षरति । किंच गव्य आनडुहेऽधि त्वचि चर्मणि कनिक्रदच्छब्दायमानो वृषा कामानां
+> वर्षको हरिर्हरितवर्णः सोम इंद्रस्य स्वभूतं निष्कृतं संस्कृतं स्थानमभ्येति ।
+> अभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma flows through the sheep's hairs (वारेभिर्वालैः (*vārebhirvālaiḥ*)), the filters, that is, he streams to the vessel. Moreover, crying aloud upon the cowhide (the ox's hide), the showerer of desires, the green-coloured Soma goes to Indra's own prepared, refined place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—the god Soma
+- अव्यः (*avyaḥ*)—made of wool
+- वारेभिः (*vārebhiḥ*)—through threads
+- पवते (*pavate*)—flows to the Droṇa-kalaśa
+- गव्ये (*gavye*)—of the cow
+- अधि त्वचि (*adhi tvaci*)—upon the hide
+- कनिक्रदत् (*kanikradat*)—making a sound
+- वृषा (*vṛṣā*)—the showerer of desires
+- हरिः (*hariḥ*)—the green-coloured Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra (well prepared)
+- निष्कृतः (*niṣkṛtaḥ*)—to the excellent place
+- अभ्येति (*abhyeti*)—goes and reaches
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma flows to the Droṇa-kalaśa through threads made of wool. Making a sound upon the cowhide, Soma, the showerer of desires, green in colour, goes and reaches the place prepared for Indra.
+
+##### English translation
+The Soma flows purified by the sheep's hairs; crying aloud upon the cowhide the showerer (of benefits), green-tinted he goes to Indra's prepared station
+
+## Sūkta 102 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्राणा शिशुरित्यष्टर्चं षष्ठं सूक्तं । आप्त्यस्य त्रितस्यार्षं । इदमुत्तराणि
+> चत्वारि सूक्तान्षौष्टिहानि । पवमानः सोमो देवता । तथा चानुक्रम्यते ।
+> क्राणाष्टौ त्रित औष्टिहं वा इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta क्राणा शिशुः (*krāṇā śiśuḥ*) has eight Ṛks and is the sixth sūkta. The seer is Trita Āptya. This sūkta and the four following sūktas are in the Auṣṭiha metre. The deity is Pavamāna Soma. So the Anukramaṇī says: क्राणाष्टौ त्रित औष्टिहं वा इति॥ (*krāṇāṣṭau trita auṣṭihaṃ vā iti‖*) The application (viniyoga) has been stated before.
+
+##### Anuvāda
+
+This sūkta beginning क्राणा शिशुः (*krāṇā śiśuḥ*) is the sixth sūkta in the sixth anuvāka. It has eight Ṛks. The seer of this sūkta is one called Trita Āstya. The four sūktas following this one are in the Uṣṇik metre. The deity is Pavamāna Soma. In the Anukramaṇī it is said: क्राणाष्टौ त्रित औष्ठिहु वै (*krāṇāṣṭau trita auṣṭhihu vai*). The application of the sūkta has been stated before.
+
 ---
 
-**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
+**Progress note:** Done through printed p. 18. pp. 13-18 (batch API)
