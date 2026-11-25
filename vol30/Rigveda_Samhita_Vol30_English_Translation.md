@@ -28224,6 +28224,222 @@ The words of this Ṛk were spoken by Naciketas: "My father Vājaśravas has wis
 
 (Words of the seer Kumāra) The Āditya desires to favour the ancient seers or fathers who have praised him from of old, and moves in the atmosphere from sunrise to sunset. Unable to praise him, I, filled with evil thought and envy, thought "What is this sun, so great? What is seen in the world …"
 
+### Printed p. 856
+*(continuing from the previous page)*
+
+##### भावार्थ (Bhāvārtha)
+
+He looked on this Sun with envy, thinking: "He is only one among the things seen in the world." Afterwards, having learned the greatness of this Āditya, he gave up that evil thought of his and wished to win Āditya's favour with hymns and acts of service.
+
+##### विशेषविषयगळु (Special Topics)
+
+The above statement was spoken by the seer called Kumāra. Because he did not at first know Āditya's greatness, he says that he first looked on him with disregard and ill will. Later, when knowledge had dawned and he understood Āditya's glory, he wished to praise him with hymns and the like and to obtain his grace.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं कु॑मार॒ नवं॒ रथ॑मच॒क्रं मन॒साकृ॑णोः ।  
+> एके॑षं वि॒श्वतः॒ प्रांच॒मप॑श्य॒न्नधि॑ तिष्ठसि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । कुमार । नवं । रथं । अचक्रं । मनसा । अकृणोः ।  
+> एकईषं । विश्वतः । प्रांचं । अपश्यन् । अधि । तिष्ठसि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नचिकेतःसंज्ञं कुमारं यमोऽनयोत्तरया च प्रलोभयति । हे
+> कुमार नवमभिनवमितः पूर्वमदृष्टं । अभिनवत्वमेव व्यनक्ति । अचक्रं चक्ररहितं
+> तमेकेषमेकेषा यस्य तादृशं तथापि विश्वतः सर्वतः प्रांचं प्रकर्षणांचंतं
+> गच्छंतं यं रथं मनसाकृणोर्मत्समीपं प्रतिगमनायाध्यवसायात्मकमीदृशं
+> यं रथमकरोः कृत्वा चापश्यन् कर्तव्याकर्तव्यविभागमजानन्नधि तिष्ठसि । रथमारोहसि । यद्वा । स्तोतारं कुमाराख्यमृषिमादित्यः प्रत्यक्षः सन् देहात्मनोर्विनेकं
+> बोधयति । हे कुमारर्षे चक्ररहितमेकेषं । एकः प्राण ईषास्थानीयो यस्य ।
+> ईदृशमभिनवं सर्वतो गच्छंतं शरीरात्मकं यं रथं मनसांतःकरणेनाकृणोः
+> अकरोः । संकल्पात्मकेन मनसा हि कामो जायते । सत्यां हि कामनायां पुण्यापुण्यात्मकं कर्म क्रियते! तेन च भोगप्रदानायेदं शरीरमारभ्यत इति परंपरया
+
+##### Gist of the bhāṣya
+
+Yama tempts the boy called Naciketas with this verse and the next. "O Kumāra, new" means not seen before; he makes the newness plain. "Wheelless": without wheels; "single-poled": one that has a single pole (एकेष (*ekeṣa*)). Yet it goes everywhere, forward. Yama says: this chariot, which you made in your mind for coming to me, and having made it you mount it without seeing, not knowing what is to be done and what not.
+
+Or else: Āditya, appearing in person, teaches the seer Kumāra, who praises him, the discrimination between body and self. "O seer Kumāra, the wheelless one with a single pole," meaning one whose single pole is the vital breath. This new body, going everywhere, which you made with the mind, the inner organ. Desire arises from the mind consisting of resolve; when desire exists, action of merit and demerit is done, and for the yielding of its fruit this body is begun. Thus, indirectly, the mind produces the body. Not seeing, i.e. not knowing, that body-chariot, you mount it, from not knowing my nature; you accept it as an abode of enjoyment.
+
+### Printed p. 857
+
+> मनसः शरीरनिष्पादकत्वं । तं शरीरात्मकं रथमपश्यन्नजानन् ॥ लक्षणहेत्वोः ।
+> पा. ३-२-१२६ । इति हेतौ शतृप्रत्ययः ॥ मत्स्वरूपापरिज्ञानाद्भेतोरधितिष्ठसि ।
+> भोगायतनत्वेन स्वीकरोषि ॥
+> यमनपरवाद अर्थ
+> कुमार—ऎलै नचिकेतकुमारने । नवं—हॊसदाद ऎंदरॆ इदुवरॆगॆ नोडदिरुवुदू ।
+> अचक्रं—चक्रविल्लद्दू । एकेषं—ऒंदे अच्चिन मरवुळ्ळद्दू आदरू । विश्वतः — समस्त
+> प्रदेशगळल्लियू । प्रांचं—चॆन्नागि संचरिसबल्लद्दू आद । यं रथं—याव रथवन्नु
+> हत्ति । मनसा—नन्न बळिगॆ बरबेकॆंदु मनस्सिनल्लि । अकृणोः—निश्चयमाडिदियो ।
+> (तं—अंतह रथवन्नु) । अपश्यन्—विवेचनाशक्तिरहितनागि । अधि तिष्ठसि—हत्ति कुळितिद्दीयॆ.
+
+##### Gist of the bhāṣya
+
+The block continues as above: अपश्यन् (*apaśyan*) has the affix śatṛ in the sense of cause (Pā. Sū. 3-2-126), "because you do not know my nature you mount it, you accept it as an abode of enjoyment."
+
+**Pratipadārtha** (Yama's sense)
+- कुमार (*kumāra*)—O boy Naciketas
+- अपश्यन् (*apaśyan*)—lacking the power of discrimination
+- नवं (*navaṃ*)—new, that is, not seen till now
+- अचक्रं (*acakraṃ*)—wheelless
+- एकेषं (*ekeṣaṃ*)—having a single axle-pole
+- विश्वतः (*viśvataḥ*)—in all regions
+- प्रांचं (*prāṃcaṃ*)—able to travel well
+- यं रथं (*yaṃ rathaṃ*)—the chariot you mounted
+- मनसा (*manasā*)—in the mind, "I must come to me"
+- अकृणोः (*akṛṇoḥ*)—you resolved
+- अधि तिष्ठसि (*adhi tiṣṭhasi*)—you sit mounted
+
+##### भावार्थ (Bhāvārtha)
+
+(Yama's words) O boy Naciketas, thinking in your mind that you must come to me, you have imagined in your mind a new chariot for that purpose. Its form is most wondrous: it must be new, seen by no one ever; it has no wheels and one axle-pole; yet it must be able to travel in every region. Imagining such a chariot in your mind, you sit mounted on it. That is, without considering whether it is right to come to me (Death), with a firm mind that you must set out you sit on that chariot; that is, you have resolved in your mind to come to me.
+
+##### English translation
+The new chariot, wheeless, single-poled, but turning everywhere,
+which you, my child, has mentally formed-you stand thereon though you
+see it not.
+
+**Āditya's sense**
+Addressing the seer Kumāra who praises him, Āditya appears before him, explains the difference between body and self, and teaches discriminating knowledge.
+- कुमार (*kumāra*)—O seer Kumāra
+- अचक्रं (*acakraṃ*)—without wheels
+- नवं (*navaṃ*)—new
+- एकेषं (*ekeṣaṃ*)—endowed with breath
+- विश्वतः प्रांचं (*viśvataḥ prāṃcaṃ*)—able to travel everywhere
+- यं रथं (*yaṃ rathaṃ*)—this chariot called the body
+- मनसा (*manasā*)—by the inner organ (resolve)
+- अकृणोः (*akṛṇoḥ*)—you have built for yourself
+- अपश्यन् (*apaśyan*)—not knowing my nature
+- अधि तिष्ठसि (*adhi tiṣṭhasi*)—you sit mounted
+
+### Printed p. 858
+
+##### भावार्थ (Bhāvārtha)
+
+Āditya speaks thus to the seer Kumāra: O seer Kumāra, this body is like a chariot. It has no wheel, only a single axle-pole; that is, as the axle-pole is the support of a chariot, so the breath is the support of the body. This body can travel everywhere with the help of the feet. Listen, I shall tell how it came to you. From the resolve born in the mind arises desire (longing) to do an act. When desire arises, acts of merit and demerit are done. To experience those acts the body is obtained. Thus by the power of the mind's resolve a living being obtains a body. You built this body by the resolve of your own mind, and, not knowing my nature as the Supreme Brahman, you sit in that chariot of the body. That is, without gaining knowledge of Brahman and without liberation, you remain in the body and toil in the ocean of worldly life. The sense is that Āditya thus teaches Kumāra the discrimination of body and self; this meaning is suggested in the Ṛk.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं कु॑मार॒ प्राव॑र्तयो॒ रथं॒ विप्रे॑भ्य॒स्परि॑ ।  
+> तं सामानु॒ प्राव॑र्तत॒ समि॒तो ना॒व्याहि॑तं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । कुमार । प्र । अवर्तयः । रथं । विप्रेभ्यः । परि ।  
+> तं । साम । अनु । प्र । अवर्तत । सं । इतः । नावि । आहितं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कुमार नचिकेतः यं पूर्वोक्तमधिष्ठितं रथं प्रावर्तयः मत्समीपं
+> प्रत्यगमयो विप्रेभ्यो मेधाविभ्यः पर्युपरि भूलोके वर्तमानानां मेधाविनां बांधवानामुपरिष्कात् । अंतरिक्ष इत्यर्थः ॥ पंचम्याः परावध्यर्थ इति
+> विसर्जनीयस्य सत्वं ॥ तं रथं साम पित्रा कृतं सांत्वनं यमसमीपं गत्वैवमेव
+> त्वया वक्तव्यमिति प्रत्यागमनकारणमुपायोपदेशनमनु प्रावर्तत । इतोऽस्माल्लोकादन्वगच्छत् । कथंभूतं । नावि नौवत्तरणसाधनायां बुद्धौ समाहितं सम्य-
+
+##### Gist of the bhāṣya
+
+"O boy Naciketas, the chariot mentioned and mounted, which you drove" (प्रावर्तयः (*prāvartayaḥ*)): you made it come to my vicinity, "from the sages," i.e. above (परि (*pari*) = upari) the wise kinsmen living on the earth, that is, in the atmosphere. The visarga takes sattva because the sense of परि (*pari*) is that of "above" in construction with the ablative. "That chariot, the साम (*sāma*)": the consolation given by your father, "Go to Yama and speak to him just so," being the counsel of the means for returning, "followed" (अनु प्र अवर्तत (*anu pra avartata*)) from this world. How is it? "On the ship" (नावि (*nāvi*)): placed, firmly held, in the intellect which is the means of crossing like a boat, सम्य- (*samya-*)
+
+### Printed p. 859
+
+> गृतं । यद्वा । हे कुमारर्षे यं शरीरात्मकं रथमधिष्ठितं प्रावर्तयः संसारे
+> प्रवर्तितवानसि मेधाविनां मध्यॆ तं रथमनु साम । उपलक्षणमेतत् । ऋक्सामादिसाध्यं स्तोत्रं नावि नौवत्तायित्र्यां वाचि वेदात्मिकायां समाहितं सम्यकृतिपाद्यत्वेन हितं कर्म चेतोऽस्माल्लोकात्पावर्तत । प्रवृत्तमभूत् । इत्थमात्मस्वरूपापरिज्ञानेन शरीरबंधनं तेन कर्तव्यं व्यवहारजातं चोक्तं । अथ तु सत्यज्ञानादिस्वरूपमकर्तारं परमात्मानं यदि स्वात्मतया साक्षात्करोति तदोक्तं न संभवतीत्यभिप्रायः॥
+> यमन परवाद अर्थ
+> कुमार—ऎलै नचिकेतकुमारने । यं रथं—नन्न बळिगॆ बरुवदक्कागि नीनु हत्ति
+> कुळितिद्द याव रथवन्नु हत्ति । विप्रेभ्यः—भूलोकदल्लिरुव मेधाविजनर । परि—मेलुभाग
+> दल्लि ऎंदरॆ अंतरिक्षदल्लि । प्र अवर्तयः—नन्न समीपक्कॆ बंदॆयो । तं—अंतह रथवन्नु ।
+> नावि सं आहितं—निन्न तंदॆयिंद निनगॆ हितोपदेशरूपवागि माडिद । साम—यमन
+> समीपक्कॆ होगि अवनॊडनॆ ई रीति मातनाडु ऎंब सांत्ववचनवु । इतः—ई भूलोकदिंद ।
+> अनु प्र अवर्तत—अनुसरिसि बंदितु.
+
+##### Gist of the bhāṣya
+
+...held well. Or else: O seer Kumāra, the body-chariot you mounted, you have set rolling in worldly life among the wise; साम (*sāma*) here is an indication of the whole: the hymn to be accomplished with Ṛk, Sāman and the like, and the act well placed (as properly to be performed) in the speech made of the Veda, which is like a boat, followed from this world. Thus bondage to the body through ignorance of the nature of the self, and the activities to be performed by it, are stated. But if one directly realises as one's own self the Supreme Self, of the nature of truth and knowledge, a non-doer, then what has been said is not possible: this is the intention.
+
+**Pratipadārtha** (Yama's sense)
+- कुमार (*kumāra*)—O boy Naciketas
+- यं रथं (*yaṃ rathaṃ*)—the chariot you mounted in order to come to me
+- विप्रेभ्यः (*viprebhyaḥ*)—of the wise people on earth
+- परि (*pari*)—above, that is, in the atmosphere
+- प्र अवर्तयः (*pra avartayaḥ*)—you came near me
+- तं (*taṃ*)—that chariot
+- नावि सं आहितं (*nāvi saṃ āhitaṃ*)—made by your father to you as wholesome counsel
+- साम (*sāma*)—the conciliatory speech "Go near Yama and speak to him thus"
+- इतः (*itaḥ*)—from this earth
+- अनु प्र अवर्तत (*anu pra avartata*)—followed and came
+
+##### भावार्थ (Bhāvārtha)
+
+(Yama's words) O Kumāra, to come to me you mounted a chariot, and with its help you passed through the atmosphere over the intelligent people of the earth and have come near me. At that time the conciliatory counsel, the wholesome advice made by your father, followed you together with that chariot. That is, your father's wholesome advice was remembered by you.
+
+##### English translation
+The chariot which you, my child, has driven down to me from the sages above, the Saman has driven it back again from hence placed on a ship.
+
+##### विशेषविषयगळु (Special Topics)
+
+"Which chariot, Kumāra, you drove, from the sages above": what the words विप्रेभ्यः परि (*viprebhyaḥ pari*) are used for here is not clear. It is commonly held that the world of the Fathers (Yama's world) and heaven lie in a high region. So to go to the lofty world of Yama one must pass over humans and others on the earth. Moreover the word विप्र (*vipra*) means the wise, the intelligent. However intelligent, men cannot go to the upper part of the atmosphere (another world) without some means of help.
+
+### Printed p. 860
+So even if intelligent, people remain below on the earth. The seer has used the words विप्रेभ्यः परि (*viprebhyaḥ pari*) to show that Naciketas, going to Yama's world, left behind the mountains, animals, men and so on of the earth and went above.
+
+"That Sāman followed from here, placed on the ship": some words in this sentence need explanation. The seer's intention cannot be known, so the commentator's explanation must be followed here. For the word साम (*sāma*) he explains पित्रा कृतं सांत्वनं, यमसमीपं गत्वा, एवमेव त्वया वक्तव्यमिति प्रत्यागमनकारणमुपायोपदेशं (*pitrā kṛtaṃ sāṃtvanaṃ, yamasamīpaṃ gatvā, evameva tvayā vaktavyamiti pratyāgamanakāraṇamupāyopadeśaṃ*); that is, साम (*sāma*) means conciliatory speech, appeasement: "O son, go to Yama and speak to him obediently; tell him in good words that you have come to him at my command, and win his favour," and the like; such is the counsel. नावि (*nāvi*)—नौवत्तरणसाधनायां बुद्धौ (*nauvattaraṇasādhanāyāṃ buddhau*): नावि (*nāvi*) means "in a boat." Here the word is used purely in the sense of a means: as a boat is needed to cross the sea or a river, and with its help we cross the river easily, so in times of trouble with the help of our intellect we cross, that is, remove, our troubles. The boat is the means of crossing the river, the intellect the means of crossing troubles. आहितं (*āhitaṃ*)—सम्यग्धृतं (*samyagdhṛtaṃ*): placed, that is, placed in the intellect or mind, remembered in the mind. The wholesome advice the father gave his son Naciketas as he went to Yama's world followed him when he sat in the chariot; that is, Naciketas kept his father's advice in his mind and did not forget it.
+
+**Āditya's sense**
+- कुमार (*kumāra*)—O seer called Kumāra, you
+- यं रथं (*yaṃ rathaṃ*)—having mounted the chariot called the body (becoming embodied)
+- विप्रेभ्यः परि (*viprebhyaḥ pari*)—among wise people
+- प्र अवर्तयः (*pra avartayaḥ*)—you have become engaged in worldly life
+- तं (*taṃ*)—remaining in that body
+- साम (*sāma*)—which is accomplished with Ṛk, Sāman and other mantras
+- नावि समाहितं (*nāvi samāhitaṃ*)—which is contained in Vedic sentences, that sacrificial act
+- अनु (*anu*)—performing following it
+- इतः (*itaḥ*)—from this world
+- प्र अवर्तत (*pra avartata*)—you go to the Supreme Self
+
+##### भावार्थ (Bhāvārtha)
+
+(Āditya's words) O seer called Kumāra, mounted on the chariot of the body, that is, as an embodied man, you are engaged among wise people in worldly acts, and
+
+### Printed p. 861
+you perform sacrificial acts which are contained in the Vedic sentences and accomplished with Ṛk and Sāman mantras. Having performed these acts, then as their fruit you realise by your pure intellect the Supreme Self, of the nature of truth and knowledge and so on, unattached, and you join the Supreme Self: this is the sense.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk the embodied man's engagement in worldly life is described, and in the second half his release from it, his realisation of the Supreme Self by the path of withdrawal, and his attainment of the good goal.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कः कु॑मा॒रम॑जनय॒द्रथं॒ को निर॑वर्तयत् ।  
+> कः स्वि॒त्तद॒द्य नो॑ ब्रूयादनु॒देयि॒ यथाभ॑वत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । कुमारं । अजनयत् । रथं । कः । निः । अवर्तयत् ।  
+> कः । स्वित् । तत् । अद्य । नः । ब्रूयात् । अनुदेया । यथा । अभवत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कः पुरुष इमं कुमारमजनयत् । अधिक्षेपे किंशब्दः । ईदृशं बालं
+> यमसमीपं प्रहिण्वन् कथं पिता समीचीनः स्यात् । तत्तावदास्तां । को ना
+> पुरुषोऽस्य बालस्य यमसमीपं प्रतिगमनाय तं रथं निरवर्तयत् । निर्वर्तितवान् । सोऽपि मूर्ख इत्यर्थः । यथा येन प्रकारेणायं कुमारोऽनुदेय्यनुदातव्योऽभवत् भवति तत्तदनुगुणं वचनमुपायकथनमद्यास्मिन्काले नोऽस्माकं कः स्वित् को नाम ब्रूयात् । अभिदध्यात् । प्रथमं यमसमीपं गत्वा
+> पश्चात्ततो निर्गमनोपायं ब्रुवन्नपि न प्राज्ञ इत्यर्थः । अथवा । कुमाराख्य
+> ऋषिरात्मनः सर्वात्म्यमवगच्छन् स्वव्यतिरिक्तस्यान्यस्यासंभवं किंशब्देनाक्षेपवाचिना
+> दर्शयति । कुमारं मां कः पिताजनयत् । न कोऽपि । अजो नित्यः शाश्वतः ।
+> क. उ. २-१८ । इति श्रुत्युक्तरूपोऽहं भवामि । कश्च शरीरात्मकं रथं निरवर्तयत् ।
+> निर्वर्तयति । मद्व्यतिरिक्तस्य निर्वर्तयितुरभावात् तथा निर्वर्त्यस्यान्यस्यासंभवाच्च
+
+##### Gist of the bhāṣya
+
+"Who" (कः (*kaḥ*)) begot this boy? The word "who" is used in reproach: how could a father be sound who sends such a child to Yama? Let that be. What man made that chariot go forth for this child's going to Yama? He too is a fool. In whatever way this boy would be one to be consoled, which fitting speech, which means-telling, would anyone now speak to us? One who, having first gone to Yama, afterwards tells the way of getting out of there, is not wise either.
+
+Or else: the seer called Kumāra, realising his identity with all, shows with the word "who," which conveys rejection, that anything other than himself is impossible. "Who, a father, begot me, Kumāra?" No one. I am of the form stated by the Śruti: अजो नित्यः शाश्वतः (*ajo nityaḥ śāśvataḥ*) (Ka. U. 2-18). And who makes the body-chariot go forth? None, since there is no maker other than I, and likewise no other thing to be made. ()
+
 ---
 
-**Progress note:** Done through printed p. 855. pp. 850-855 (batch API)
+**Progress note:** Done through printed p. 861. pp. 856-861 (batch API)
