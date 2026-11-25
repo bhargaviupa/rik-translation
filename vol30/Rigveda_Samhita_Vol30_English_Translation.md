@@ -41418,6 +41418,166 @@ And in the Taittirīya Upaniṣad—
 
 तां गंधर्वः अवदत् गर्भे अंतः (*tāṃ gaṃdharvaḥ avadat garbhe aṃtaḥ*)—here the word गंधर्व (*gaṃdharva*) is explained as गाः शब्दान् धारयतीति गंधर्वः प्राणवायुः (*gāḥ śabdān dhārayatīti gaṃdharvaḥ prāṇavāyuḥ*): because he holds words, that is, impels them and helps in uttering them, गंधर्व (*gaṃdharva*) means the vital breath. In the Pāṇinīya Śikṣā—मारुतस्तूरसि चरन् मंद्रं जनयति स्वरं (*mārutastūrasi caran maṃdraṃ janayati svaraṃ*) (Pā. Śi. 7)—it is said that the wind, moving in the chest, produces the low-pitched tone. Although we speak with the mouth, the help of the wind is indispensable for speaking, that is, for uttering words. That wind
 
+### Printed p. 1203
+
+(The page begins in the middle of the Special Topics of Ṛk 2.) The breath that moves out of the heart helps in uttering sounds. So the vital air that moves within the body, in the middle of the heart (the breathing), helps in pronouncing the words, that is, the Vedic mantras. This is the intended meaning.
+
+तां द्योतमानां स्वर्यं मनीषां (*tāṃ dyotamānāṃ svaryaṃ manīṣāṃ*)—This Vedic mantra is resplendent, that is, excellent and supreme. स्वर्यं (*svaryaṃ*) means that which is a means of reaching heaven. By studying the Vedic mantras and by reciting them in sacrifices and the like, these mantras bring the reciter heaven, which is the fruit of the sacrifice. मनीषां (*manīṣāṃ*) means "that which rules by the mind" **NOTE**. Mantras do not give their full fruits by mere utterance. Their meaning must be reflected on in the mind, and they must be uttered with faith and with the whole mind. Such Vedic mantras—
+
+ऋतस्य पदे कवयः नि पांति (*ṛtasya pade kavayaḥ ni pāṃti*)—the seers protect them from decay by reciting them at the sacrificial altar and by having their pupils study them. The Vedic mantras are taught by the teacher to the pupils in the form of study. When those pupils grow up, they in turn have their own pupils study. Since the Veda is taught thus by tradition (from one to another), it remains and does not perish. This order of teaching is what is described here as the seers keeping the Vedic knowledge safe.
+
+**Pratipadārtha** (the sense relating to the Self)
+- पतंगः (*pataṃgaḥ*)—the all-pervading Supreme Self (before creation, with the wish to create)
+- वाचं (*vācaṃ*)—with the thought of what is to be created and in what manner, the Vedic speech, that is, the Veda
+- मनसा बिभर्ति (*manasā bibharti*)—He reflected, that is, resolved to create, determined in the mind
+- गर्भे अंतः (*garbhe aṃtaḥ*)—within the golden cosmic egg
+- गंधर्वः (*gaṃdharvaḥ*)—Hiraṇyagarbha (Brahmā)
+- तां (*tāṃ*)—that Veda
+- अवदत् (*avadat*)—first recited
+- द्योतमानां (*dyotamānāṃ*)—resplendent
+- स्वर्यं (*svaryaṃ*)—a means to heaven
+- मनीषां (*manīṣāṃ*)—meditated upon in the mind
+- तां (*tāṃ*)—that Vedic speech
+- कवयः (*kavayaḥ*)—the seers, who see beyond
+- ऋतस्य पदे (*ṛtasya pade*)—in the abode of Brahman, who is truth
+- नि पांति (*ni pāṃti*)—protect specially
+
+##### भावार्थ (Bhāvārtha)
+
+Before creation the all-pervading Supreme Self, in order to create, reflected on what things were to be created and in what manner, pondered the Veda for that purpose, and resolved in His mind that it should be done in this way. Hiraṇyagarbha, who dwells in the cosmic egg, first recited that Veda. Afterwards he carried the creation forward. Such a Veda—excellent, a means to heaven, meditated upon in the mind, that is, possessed of meaning—the seers, standing in the supreme station of Brahman, go on protecting.
+
+### Printed p. 1204
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk it is said that before creation the Supreme Self pondered the Veda in the mind, resolved in the mind that He would create, and then, to bring that creation into effect, first recited the Vedic mantras. In the meaning of the second half there is no difference between the sense relating to the deity and the sense relating to the Self. What is said in the first half is also current in worldly practice: when a man does some work, he first decides in his mind how it is to be done and afterwards says it in words. This is what is said here in that manner.
+
+In the animal sacrifice offered to Vāc, this Ṛk पतंगो वाचं (*pataṃgo vācaṃ*) is to be recited as the anuvākyā mantra in the oblation of the cake (puroḍāśa); this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यद्वाग्तदंत्यविचेतनानि पतंगो वाचं मनसा बिभर्ति (*yadvāgtadaṃtyavicetanāni pataṃgo vācaṃ manasā bibharti*) (Ā. 3-8).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चरं॑तं ।  
+> स स॒ध्रीचीः॒ स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्वं॒तः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपश्यं । गोऽपां । अनिपद्यमानं । आ । च । परा । च । पथिभिः । चरंतं ।  
+> सः । सध्रीचीः । सः । विषूचीः । वसानः । आ । वरीवर्ति । भुवनेषु । अंतरिति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्ग्येऽभिष्टवेऽपश्यं गोपामित्येषा । सूत्रितं च । अपश्यं गोपामनिपद्यमानं स्रक्वे द्रप्सस्य । आ. ४-६ । इति ॥
+> व्याख्यातेयमस्यनामीयसूक्ते । १-१६४-३१ । गोपां गोपायितारमादित्यमपश्यं । अज्ञासिषं । एष हि सर्वाणि भूतजातान्युदयास्तमयादिकर्मणा
+> गोपायति । कीदृशं । अनिपद्यमानमुच्चैर्गच्छंतं । न ह्यसौ कदाचिन्नीचैः
+
+##### Gist of the bhāṣya
+
+This Ṛk अपश्यं गोपां (*apaśyaṃ gopāṃ*) is used in the Pravargya at the abhiṣṭava. It is prescribed by the sūtra अपश्यं गोपामनिपद्यमानं स्रक्वे द्रप्सस्य (*apaśyaṃ gopāmanipadyamānaṃ srakve drapsasya*) (Ā. 4-6). This Ṛk has been explained in the Asya vāmīya sūkta (1-164-31). गोपां (*gopāṃ*): the protector, namely Āditya, I have seen, that is, known. For he protects all beings by his acts of rising, setting and the like. How is he? अनिपद्यमानं (*anipadyamānaṃ*): going on high; for he never descends low.
+
+### Printed p. 1205
+
+> पद्यते । पथिभिराकाशमार्गैः पूर्वाह्न आ चरंतमस्मानभिलक्ष्य गच्छंतं सायंसमये परा चरंतं । पराङ्मुखं गच्छंतं । प्रकारद्वयसमुच्चयार्थौ चशब्दौ । स
+> सूर्यः सध्रीचीः सहांचंतीः विषूचीर्विविधं पृथक्पृथगंचंतीः स्वस्वव्यापाराय
+> गच्छंतीः । प्राच्याद्या महादिशः सध्रीच्यो विषूच्यः कोणदिशः । वसानः स्वभासाच्छादयन् प्रकाशयनुवनेषु लोकेष्टंतर्मध्य आ वरीवर्ति । पुनपुनरुद्यन्नस्तं
+> गच्छन्नावर्तते । यद्वा । गोपां शरीरस्य गोपायितारमनिपद्यमानमविनाशनमविपन्नमा च परा चाभिमुखेन च पराङ्मुखेन च पथिभिर्नाडीलक्षणैर्मार्गैश्चरंतं
+> शरीरे वर्तमानं प्राणमपश्यं । अहमदर्शं ॥
+
+##### Gist of the bhāṣya
+
+(Continuing.) पथिभिः (*pathibhiḥ*): by paths of the sky. In the forenoon he moves आ (*ā*), going towards us; at evening he moves परा (*parā*), going away. The two च (*ca*) are for combining the two modes. सध्रीचीः (*sadhrīcīḥ*): the directions going together, namely the great quarters beginning with the east; विषूचीः (*viṣūcīḥ*): going variously and apart, each to its own function, namely the intermediate quarters. वसानः (*vasānaḥ*): covering and illuminating with his own light. Within the worlds, in their midst, he आ वरीवर्ति (*ā varīvarti*), rises again and again, goes to setting, and returns. Or else: I have seen the life-breath, the protector of the body, imperishable and undestroyed, moving within the body by paths in the form of channels (nāḍī), both facing forward and facing away.
+
+**Pratipadārtha** (the sense relating to the deity)
+- गोपां (*gopāṃ*)—who protects people by acts such as giving rain
+- अनिपद्यमानं (*anipadyamānaṃ*)—who moves very high (in the atmosphere)
+- पथिभिः (*pathibhiḥ*)—in the forenoon, on the path of the sky
+- आ चरंतं च (*ā caraṃtaṃ ca*)—who moves facing us
+- परा च (*parā ca*)—who in the evening moves facing away, that is, towards the west; this Āditya (the nature of Āditya)
+- अपश्यं (*apaśyaṃ*)—I have known
+- सः (*saḥ*)—that Sūrya
+- सध्रीचीः (*sadhrīcīḥ*)—the great quarters beginning with the east
+- विषूचीः (*viṣūcīḥ*)—the intermediate quarters lying between the directions
+- वसानः (*vasānaḥ*)—covering with his radiance
+- भुवनेषु अंतः (*bhuvaneṣu aṃtaḥ*)—in the midst of the worlds (heaven and earth)
+- आ वरीवर्ति (*ā varīvarti*)—goes round again and again
+
+##### भावार्थ (Bhāvārtha)
+
+I have known this Āditya (Sūrya), who protects all creatures by acts such as bestowing rain, moves in the very high atmospheric region, in the forenoon moves facing us on the path of the sky, and in the evening, facing away, that is, towards the west, goes to his setting. That Sūrya, lighting the eastern and other quarters and the south-eastern and other intermediate quarters with his radiance, goes round and round in the midst of the worlds.
+
+##### English translation
+I beheld the protector (the Sun), never descending, going by his paths to the east and to the west; clothing (with light) the (four) quarters of heaven and the intermediate spaces, he constantly revolves in the midst of the world.
+
+### Printed p. 1206
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk अपश्यं गोपां (*apaśyaṃ gopāṃ*) is read as Ṛk 31 in the 164th sūkta of the first maṇḍala. We have explained its subjects at length there. There are some differences between Sāyaṇa's commentary on that Ṛk and the commentary on the present Ṛk.
+
+The use of this Ṛk अपश्यं गोपां (*apaśyaṃ gopāṃ*) in the Pravargya at the time of the abhiṣṭava is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अपश्यं गोपामनिपद्यमानं स्रक्वे द्रप्सस्य (*apaśyaṃ gopāmanipadyamānaṃ srakve drapsasya*) (Ā. 4-6).
+
+गोपां (*gopāṃ*)—the protector. How is Āditya a protector? He protects by providing the rain, so indispensable to all creatures of the world, and the light needed for their own activities. This is said in the Taittirīya Āraṇyaka:
+
+अपश्यं गोपामित्याह । असौ ना आदित्यो गोपाः । स हीमाः प्रजा गोपायंति । तमेव प्रजानां गोप्तारं कुरुते ॥ (*apaśyaṃ gopāmityāha | asau nā ādityo gopāḥ | sa hīmāḥ prajā gopāyaṃti | tameva prajānāṃ goptāraṃ kurute ‖*) (Tai. Ā. 5-6-4).
+
+By these sentences the above point is confirmed. Besides, it may be said that he protects the creatures by his rising and setting also. After sunrise, in the day, creatures are absorbed in their own activities. After sunset, at night, creatures wearied by the work done in the day take rest. So it can be said that by his courses, called rising and setting, he helps and protects creatures, both in the work of obtaining food and the like and, when they are tired from it, by giving them rest.
+
+अनिपद्यमानं (*anipadyamānaṃ*)—one who moves very high. Though he moves at such a height, he never falls down. अनिपद्यमानमित्याह । न ह्येष निपद्यते (*anipadyamānamityāha | na hyeṣa nipadyate*) (Tai. A. 5-6-4, 5) **NOTE**. Āditya, who stands in the atmosphere, never falls upon the earth.
+
+आ च परा च पथिभिः चरंतं (*ā ca parā ca pathibhiḥ caraṃtaṃ*)—here पथिभिः (*pathibhiḥ*) means "by paths". Is there a path in the atmosphere? If there is, it is not seen—to this it is answered: there are no paths in the atmosphere, or if there are, they cannot be marked out. But the Sun always rises in the east, then comes to the south, and finally sets in the west. Since rising and setting go on without a break every day in just this way, without any difference, the word पथिभिः (*pathibhiḥ*) is used to indicate that the Sun's course, or path of travel, is of one kind. आ च (*ā ca*)
+
+### Printed p. 1207
+
+means "facing us", and परा च (*parā ca*) means "facing away" **NOTE**. The time of rising is called facing, the time of setting is called facing away. The meaning is: he moves in these two kinds of course.
+
+स सध्रीचीः स विषूचीः वसानः (*sa sadhrīcīḥ sa viṣūcīḥ vasānaḥ*)—the intention is that he covers with his light the four quarters and the four intermediate quarters, that is, the whole region.
+
+आ वरीवर्ति भुवनेषु अंतः (*ā varīvarti bhuvaneṣu aṃtaḥ*)—the Sun, who has such a course, goes round again and again in the midst of the worlds, that is, between the worlds: earth below, atmosphere or heaven above. Every day, without a break and without rest, he goes on circling in this same order. The seer here describes: "I have known the nature of such a supremely glorious Sun."
+
+**Pratipadārtha** (the sense relating to the Self)
+- गोपां (*gopāṃ*)—who protects the body in which he dwells, or its health
+- अनिपद्यमानं (*anipadyamānaṃ*)—who is without destruction
+- आ च (*ā ca*)—by the path of engagement (pravṛtti)
+- परा च (*parā ca*)—by the path of withdrawal (nivṛtti)
+- पथिभिः (*pathibhiḥ*)—by paths in the form of many births (in saṃsāra), or by paths in the form of channels, in the body
+- चरंतं (*caraṃtaṃ*)—who dwells; the Self (ātman) so described
+- अपश्यं (*apaśyaṃ*)—I have seen and known
+- सः (*saḥ*)—that Self, present in the form of life-breath
+- सध्रीचीः (*sadhrīcīḥ*)—the superior births, human and the like
+- विषूचीः (*viṣūcīḥ*)—the inferior births, animal and the like
+- वसानः (*vasānaḥ*)—covering, that is, obtaining
+- भुवनेषु अंतः (*bhuvaneṣu aṃtaḥ*)—in the midst of the worlds beginning with earth and heaven
+- आ वरीवर्ति (*ā varīvarti*)—goes round in the form of birth and death
+
+##### भावार्थ (Bhāvārtha)
+
+I have seen and known the Self, present in the form of life-breath, who protects the body in which he dwells, is without destruction, and moves in the paths of engagement and withdrawal or in the channels of the body. That Self, obtaining the superior births of gods, men and the like and the inferior births of animals and the like, goes round again and again, between the earthly world and the heavenly world, by a course in the form of birth and death.
+
+##### विशेषविषयगळु (Special Topics)
+
+अपश्यं गोपां अनिपद्यमानं (*apaśyaṃ gopāṃ anipadyamānaṃ*)—गोपां (*gopāṃ*) means one who protects the body. As long as the life-breath dwells in the body, the body remains; it does not perish. When the life-breath has gone out, the body perishes and merges into the five elements. So the protection of the body is by the life-breath alone. अनिपद्यमानं (*anipadyamānaṃ*)—अविनाशिनमविपन्नं (*avināśinamavipannaṃ*), one without destruction. Though the body is subject to destruction, the Self is not.
+
+### Printed p. 1208
+
+आ च परा च पथिभिः चरंतं (*ā ca parā ca pathibhiḥ caraṃtaṃ*)—अभिमुखेन च पराङ्मुखेन च (*abhimukhena ca parāṅmukhena ca*). "Facing" means the path of engagement (pravṛtti): the creatures and men who have been created being engaged in worldly affairs is the path of engagement **NOTE**. Taking up the worship of Brahman with the desire to become one with Brahman, their cause (to gain liberation), is the path of withdrawal (nivṛtti). Engagement means coming forth, created from the Supreme Brahman, that is, engaging in worldly affairs. Withdrawal means turning back: turning back with the wish to join the Brahman from whom they were sent forth, that is, striving for the acquisition of knowledge, the means of liberation, is the path of withdrawal. All creatures and men rely on one of these two. So it is said here that the Self acts by these paths of engagement and withdrawal. Or else this life-breath (that is, the Self) moves in the many channels of the body; ascetic yogis know the manner of its movement. It may also be said to be such a Self.
+
+सः सध्रीचीः स विषूचीः वसानः आ वरीवर्ति भुवनेषु अंतः (*saḥ sadhrīcīḥ sa viṣūcīḥ vasānaḥ ā varīvarti bhuvaneṣu aṃtaḥ*)—Creatures in the world are of two kinds: gods, men and the like, and animals, birds and the like. Because gods and men have intelligence and knowledge, they are called superior. Animals and birds have intelligence only for obtaining food, and lack the power of discernment and the knowledge to understand other deep matters, so they are called inferior. Those who do good deeds, that is, perform sacrifices, austerities and other good works, are born in the bodies of gods, men and the like, and as the fruit of their good works they also enjoy happiness in the superior worlds, heaven and the like. Not all men do only good deeds; there are many who do sinful deeds. By their sins they undergo punishment in the lower worlds such as hell and are born in lower wombs, as animals and the like. Since animals, birds and the like cannot do good deeds, they cannot attain the higher worlds either. Therefore men and others, through good deeds and the acquisition of knowledge, obtain the heavenly worlds and births as gods, men and the like, and through sinful conduct obtain the lower worlds such as hell and birth in lower wombs. That is, once they obtain a superior birth and another time a lower birth, according to their respective deeds. This goes on without a break. In this saṃsāra of birth and death, creatures are always going round, from heaven to earth, and from earth to heaven or to another world. This does not happen once and come to an end. Because it goes on again and again, the Self, taking many bodies, goes round in the midst of many worlds—so it is described here.
+
+In explaining this Ṛk with reference to the Self, Yāska in the Nirukta, in Chapter 14, sections 3 to 9, in the passage beginning पशिरिष्ट (*paśiriṣṭa*) **NOTE**, has described the nature of the Self. This
+
+### Printed p. 1209
+
+subject is not directly connected with the meaning of this Ṛk, and it cannot be explained here at great length; so we have written only the original text of this Nirukta. A detailed translation of it will be given when the Nirukta is commented upon—
+
+अपश्यं गोपामनिपद्यमानमा च परा च पथिभिश्चरंतं । स सध्रीचीः स विषूचीर्वसान आ वरीवर्ति भुवनेष्ट्यंतः ॥ अवरीवर्ति भुवनेष्ट्यंतरित्यथैष महानात्मा सत्त्वलक्षणस्तत्परं तद्ब्रह्म तत्सत्यं तत्सलिलं तदव्यक्तं तदस्पर्शं तदरूपं तद्रसं तदगंधं तदमृतं तच्चुक्लं तन्निष्टो भूतात्मा सैषा भूतप्रकृतिरित्येके । तत् क्षेत्रं तज्ञाज्ञानात् क्षेत्रज्ञमनुप्राप्य निरात्मकमथैष महानात्मा त्रिविधो भवति सत्यं रजस्तम इति । सत्यं तु मध्यॆ विशुद्धं तिष्ठत्यभितो रजस्तमसी । रजः इति कामद्वेषस्तम इत्यविज्ञातस्य विशुध्यतो विभूतिं कुर्वतः क्षेत्रज्ञपृथक्वाय कल्पते परिभाति लिंगो महानात्मा तमोलिंगो विद्या प्रकाशलिंगस्तमोऽपि निश्चयलिंग आकाशः ॥ (*apaśyaṃ gopāmanipadyamānamā ca parā ca pathibhiścaraṃtaṃ | sa sadhrīcīḥ sa viṣūcīrvasāna ā varīvarti bhuvaneṣṭyaṃtaḥ ‖ avarīvarti bhuvaneṣṭyaṃtarityathaiṣa mahānātmā sattvalakṣaṇastatparaṃ tadbrahma tatsatyaṃ tatsalilaṃ tadavyaktaṃ tadasparśaṃ tadarūpaṃ tadrasaṃ tadagaṃdhaṃ tadamṛtaṃ taccuklaṃ tanniṣṭo bhūtātmā saiṣā bhūtaprakṛtirityeke | tat kṣetraṃ tajñājñānāt kṣetrajñamanuprāpya nirātmakamathaiṣa mahānātmā trividho bhavati satyaṃ rajastama iti | satyaṃ tu madhyè viśuddhaṃ tiṣṭhatyabhito rajastamasī | rajaḥ iti kāmadveṣastama ityavijñātasya viśudhyato vibhūtiṃ kurvataḥ kṣetrajñapṛthakvāya kalpate paribhāti liṃgo mahānātmā tamoliṃgo vidyā prakāśaliṃgastamo 'pi niścayaliṃga ākāśaḥ ‖*) (Ni. 14-3)
+
+आकाशगुणः शब्द आकाशाद्वायुर्द्विगुणः स्पर्शेन वायोज्योतिस्त्रिगुणं रूपेण ज्योतिष अपश्चतुर्गुणा रसेनाद्भ्यः पृथिवी पंचगुणा गंधेन पृथिव्या भूतग्रामस्थावरजंगमास्तदेतदहर्युगसहस्रं जागर्ति तस्यांते सुषुप्स्यन्नंगानि प्रत्याहरति भूतग्रामाः पृथिवीमपि यंति पृथिव्यप आपो ज्योतिषं ज्योतिर्वायुं वायुराकाशमाकाशो मनो मनो विद्यां विद्या महांतमात्मानं महानात्मा प्रतिधां प्रतिभा प्रकृतिं सा स्वपिति युगसहस्रं रात्रिस्तावेतावहोरात्रावजस्रं परिवर्तेते स कालस्तदेतदह र्भवति ॥ (*ākāśaguṇaḥ śabda ākāśādvāyurdviguṇaḥ sparśena vāyojyotistriguṇaṃ rūpeṇa jyotiṣa apaścaturguṇā rasenādbhyaḥ pṛthivī paṃcaguṇā gaṃdhena pṛthivyā bhūtagrāmasthāvarajaṃgamāstadetadaharyugasahasraṃ jāgarti tasyāṃte suṣupsyannaṃgāni pratyāharati bhūtagrāmāḥ pṛthivīmapi yaṃti pṛthivyapa āpo jyotiṣaṃ jyotirvāyuṃ vāyurākāśamākāśo mano mano vidyāṃ vidyā mahāṃtamātmānaṃ mahānātmā pratidhāṃ pratibhā prakṛtiṃ sā svapiti yugasahasraṃ rātristāvetāvahorātrāvajasraṃ parivartete sa kālastadetadaha rbhavati ‖*)
+
+युगसाहस्रपर्यंतमहर्यद्ब्रह्मणो विदुः । रात्रिं युगसहस्रांतां तेऽहोरात्रविदो जनाः ॥ इ (*yugasāhasraparyaṃtamaharyadbrahmaṇo viduḥ | rātriṃ yugasahasrāṃtāṃ te 'horātravido janāḥ ‖ i*) इति (*iti*) (Ni. 14-4)
+
+तं परिवर्तमानमन्योऽनुप्रवर्तते स्रष्टा द्रष्टा विभक्तातिमात्रोऽहमिति गम्यते स मिथ्यादर्शनेदं पावकं महाभूतेषु चिरोण्वाकाशाद्वायोः प्राणाः चक्षुश्च वक्तारं च तेजसोऽद्भ्यः स्नेहं पृथिव्याः मूर्तिः पार्थिवांस्त्वष्टौ गुणान् विद्यात् त्रिन्मातृतस्त्रीन् पितृतोऽस्थिस्नायुमज्ञानः पितृतस्त्वज्ञांसशोणितानि मातृतोऽन्नं पानमित्यष्टौ सोऽयं पुरुषः सर्वमयः सर्वज्ञानोऽपि क्लृप्तः ॥ (*taṃ parivartamānamanyo 'nupravartate sraṣṭā draṣṭā vibhaktātimātro 'hamiti gamyate sa mithyādarśanedaṃ pāvakaṃ mahābhūteṣu ciroṇvākāśādvāyoḥ prāṇāḥ cakṣuśca vaktāraṃ ca tejaso 'dbhyaḥ snehaṃ pṛthivyāḥ mūrtiḥ pārthivāṃstvaṣṭau guṇān vidyāt trinmātṛtastrīn pitṛto 'sthisnāyumajñānaḥ pitṛtastvajñāṃsaśoṇitāni mātṛto 'nnaṃ pānamityaṣṭau so 'yaṃ puruṣaḥ sarvamayaḥ sarvajñāno 'pi klṛptaḥ ‖*) (Ni. 14-5)
+
 ---
 
-**Progress note:** Done through printed p. 1202. pp. 1197-1202 (batch API)
+**Progress note:** Done through printed p. 1209. pp. 1203-1209 (batch API)
