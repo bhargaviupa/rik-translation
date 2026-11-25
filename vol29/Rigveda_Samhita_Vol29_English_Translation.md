@@ -20393,6 +20393,135 @@ Puruṣa consists of seventeen principles. They are: ten vital breaths, four lim
 
 Knowing this Self of the universe as different from you, you eat food. But he who worships the Self called Vaiśvānara, who is of the measure of a span (the detail of the description "span-measure" is given in the first of the words अत्यतिष्ठद्व शांगुलं (*atyatiṣṭhadva śāṃgulaṃ*)
 
+### Printed p. 695
+
+foot of the Ṛk is explained) **NOTE**. Those who worship this Self of the universe eat the food belonging to all the worlds, by the pervading power of the Self of the universe that lies hidden in all beings and in all selves.
+
+तस्य ह ना एतस्यात्मनो वैश्वानरस्य मूर्धैव सतेजा चक्षुर्विश्वरूपः प्राणः पृथग्वर्तात्मा संदेहो बहुलो बस्ति रेव रयिः पृथिव्येव पादावुर एव वेदिर्लोमानि बर्हिर्हृदयं गार्हपत्यो मनोऽन्वाहार्यपचनआस्यमाहवनीयः ॥ (*tasya ha nā etasyātmano vaiśvānarasya mūrdhaiva satejā cakṣurviśvarūpaḥ prāṇaḥ pṛthagvartātmā saṃdeho bahulo basti reva rayiḥ pṛthivyeva pādāvura eva vedirlomāni barhirhṛdayaṃ gārhapatyo mano 'nvāhāryapacanaāsyamāhavanīyaḥ ‖*)
+(Bhā. U. 5-18-2) **NOTE**
+
+The radiant heaven is the head of the Self of the universe. Ādityā, of all forms, is the eye. The air, with its many courses, is the breath. The expansive sky is the body. The belly is the mine of wealth. The earth, the support of all, is the foot. The sacrificial ground is the heart. The darbha grass is the hair. The Gārhapatya fire is the heart. The Anvāhāryapacana is the mind. The Āhavanīya is the mouth.
+
+अणोरणीयान् महतो महीयान् (*aṇoraṇīyān mahato mahīyān*). There is the description that this Supreme Puruṣa is smaller than the most minute thing and greater than the greatest thing. The description महतो महीयान् (*mahato mahīyān*) has been made clear by examples showing how this Supreme Self pervades the whole universe. In the same way the description अणोरणीयान् (*aṇoraṇīyān*) is made clear by some of the following Upaniṣad passages. And it is also described that this greatness, which is beyond the reach of sense perception, shines with exceedingly great light.
+
+अंगुष्ठ मात्रः पुरुषो मध्य आत्मनि तिष्ठति । ईशानं भूतभव्यस्य न ततो विजुगुप्सते ॥ (*aṃguṣṭha mātraḥ puruṣo madhya ātmani tiṣṭhati | īśānaṃ bhūtabhavyasya na tato vijugupsate ‖*)
+
+This Supreme Puruṣa, who is only of the measure of a thumb, is the inner controller in the self of every individual. He is the lord of all beings that existed before and of all things that will come into being hereafter. No one shrinks from him.
+
+अंगुष्ठ मात्रः पुरुषो ज्योतिरिवाधूमकः । ईशानो भूतभव्यस्य स एवाद्य स उ श्वः ॥ (*aṃguṣṭha mātraḥ puruṣo jyotirivādhūmakaḥ | īśāno bhūtabhavyasya sa evādya sa u śvaḥ ‖*)
+(Kaṭha. 4-13) **NOTE**
+
+This Supreme Puruṣa, of the measure of a thumb, is like an exceedingly bright flame without smoke. He alone is the lord of the entire world. He alone is the non-dual lord today and for the ages that are to come.
+
+### Printed p. 696
+
+अंगुष्ठमात्रः पुरुषोंतरात्मा सदा जनानां हृदये सन्नि विष्टः । तं स्वाच्छरीरात्पृवृहेन्मुंचादिवेषीकां धैर्य्येण । तं विद्याच्चुक्रममृतं तं विद्याच्चुक्रममृतमिति ॥ (*aṃguṣṭhamātraḥ puruṣoṃtarātmā sadā janānāṃ hṛdaye sanni viṣṭaḥ | taṃ svāccharīrātpṛvṛhenmuṃcādiveṣīkāṃ dhairyyeṇa | taṃ vidyāccukramamṛtaṃ taṃ vidyāccukramamṛtamiti ‖*)
+(Kaṭha. 6-17)
+
+This Puruṣa, of the measure of a thumb, is always established in the heart of people. As one draws an arrow out of a reed, so one should make this Self come out of the body; that is, one should take care with courage that the impurity of his body does not cling to him. One should know the nature of this Supreme Self, who is pure and eternal.
+
+This Supreme Self is not only established in the heart of individual persons; he himself pervades the entire orb of luminaries and shines with exceeding brightness.
+
+य एषोऽंतरादि ै हिरण्मयः पुरुषो दृश्यते हिरण्मय श्मश्रुर्हिरण्यकेश आप्रणखात्सर्व एव सुवर्णः ॥ (*ya eṣo 'ṃtarādi ai hiraṇmayaḥ puruṣo dṛśyate hiraṇmaya śmaśrurhiraṇyakeśa āpraṇakhātsarva eva suvarṇaḥ ‖*)
+(Bhā. Tā. 1-6-6) **NOTE**
+
+For the Supreme Puruṣa who is within Ādityā, the eye of the world, the beard and the hair are golden. From the nails onward all his limbs are of the nature of light. Moreover, that which has the form of Brahman, true and eternal, is called by the name Supreme Puruṣa. The water, because of which Puruṣa is called by the name Nārāyaṇa, since it was the ayana of the Supreme Puruṣa, is the source of the primal principle of the form of truth; and that principle is famous by names such as Supreme Puruṣa, Prajāpati and Nārāyaṇa. How? Thus:
+
+आप एवेदमग्र आसुस्ता आपः सत्यमसृजंत सत्यं ब्रह्म ब्रह्म प्रजापतिं प्रजापतिर्देवांस्ते देवाः सत्यमेवोपासते तदेतत्त्र्यक्षरं सत्यमिति स इत्येकमक्षरं तित्येकमक्षरं यमित्येकमक्षरं प्रथमोत्तमे अक्षरे सत्यं मध्यतोऽनृतं तदेतदनृतमुभयतः सत्येन परिगृहीतं सत्यभूयमेव भवति नैवं विद्वांसमनृतं हिनस्ति ॥ (*āpa evedamagra āsustā āpaḥ satyamasṛjaṃta satyaṃ brahma brahma prajāpatiṃ prajāpatirdevāṃste devāḥ satyamevopāsate tadetattryakṣaraṃ satyamiti sa ityekamakṣaraṃ tityekamakṣaraṃ yamityekamakṣaraṃ prathamottame akṣare satyaṃ madhyato 'nṛtaṃ tadetadanṛtamubhayataḥ satyena parigṛhītaṃ satyabhūyameva bhavati naivaṃ vidvāṃsamanṛtaṃ hinasti ‖*)
+(Bṛ. U. 5-5-1)
+
+Before creation there was only water. From that water Brahman, of the nature of truth, came forth, and from that Brahman Prajāpati came into being. From Prajāpati the gods came into being. Afterwards the gods worshipped truth, the source of the whole universe. This truth has three syllables: sa, t and ya are those three syllables. Among them, sa and ya reflect the eternal and ultimate principle; t reflects the principle of the world, which is non-eternal and not ultimate. The non-eternal world is enclosed on both sides by the eternal, permanent reality. One who knows this principle is not harmed by what is non-eternal and untrue.
+
+### Printed p. 697
+
+तद्यत्तत्सत्यमसौ स आदित्यो य एष एतस्मिन्मंडले पुरुषो यश्चायं दक्षिणेऽक्षन् पुरुषस्तावेतावन्योस्मिन्प्रतिष्ठितौ रश्मिभिरेषोऽस्मिन् प्रतिष्ठितः प्राणैरयममुष्मिन् स यदोत्क्रमिष्यन् भवति शुद्धमेवैतन्मंडलं पश्यति नैनमेते रश्मयः प्रत्यायंति ॥ (*tadyattatsatyamasau sa ādityo ya eṣa etasminmaṃḍale puruṣo yaścāyaṃ dakṣiṇe 'kṣan puruṣastāvetāvanyosminpratiṣṭhitau raśmibhireṣo 'smin pratiṣṭhitaḥ prāṇairayamamuṣmin sa yadotkramiṣyan bhavati śuddhamevaitanmaṃḍalaṃ paśyati nainamete raśmayaḥ pratyāyaṃti ‖*) (Bṛ. U. 5-5-2)
+
+The Ādityā who shines in the heavenly world reflects that truth. The Puruṣa within the orb of Ādityā and the Puruṣa who shines here in the right eye are supported by each other. By the rays of that Puruṣa this Puruṣa is endowed with vitality, and by the breath of this one that Puruṣa. At the time of death there arises the knowledge that these two elements are principles belonging to one and the same Puruṣa.
+
+य एष एतस्मिन्मंडले पुरुषस्तस्य भूरिति शिर एकं शिर एकमेतदक्षरं भुव इति बाहू द्वा बाहू द्वे एते अक्षरे स्वरिति प्रतिष्ठा द्वे प्रतिष्ठे द्वे एते अक्षरे तस्योपनिषदहरिति हंति साप्मानं जहाति च य एवं वेद । (*ya eṣa etasminmaṃḍale puruṣastasya bhūriti śira ekaṃ śira ekametadakṣaraṃ bhuva iti bāhū dvā bāhū dve ete akṣare svariti pratiṣṭhā dve pratiṣṭhe dve ete akṣare tasyopaniṣadahariti haṃti sāpmānaṃ jahāti ca ya evaṃ veda |*)
+(Bṛ. U. 5-3) (Bṛ. Tā. 5-2-3) **NOTE**
+
+The head of the Puruṣa within the orb of Ādityā is the principle indicated by the one syllable bhūḥ. The two syllables of bhuvaḥ are the two arms; svar, consisting of two syllables, reflects the two feet. The Upaniṣad principle reflects ahas. One who knows this principle becomes free from sin. This is the description of the nature of the Puruṣa within the orb of Ādityā. Is it not so?
+
+योऽयं दक्षिणेऽक्षन्नुरुषस्तस्य भूरिति शिर एकं शिर एकमेतदक्षरं भुव इति बाहू द्वा बाहू द्वे एते अक्षरे स्वरिति प्रतिष्ठा द्वे प्रतिष्ठे द्वे एते अक्षरे तस्योपनिषदहमिति हंति पाप्मानं जहाति च य एवं वेद ॥ (*yo 'yaṃ dakṣiṇe 'kṣannuruṣastasya bhūriti śira ekaṃ śira ekametadakṣaraṃ bhuva iti bāhū dvā bāhū dve ete akṣare svariti pratiṣṭhā dve pratiṣṭhe dve ete akṣare tasyopaniṣadahamiti haṃti pāpmānaṃ jahāti ca ya evaṃ veda ‖*)
+(Bṛ. U. 5-5-4) (Bṛ. 5-5-4)
+
+The head of the Puruṣa in the right eye is reflected by the syllable bhūḥ. One syllable stands for one head; the two syllables bhuvaḥ for the two arms; the two syllables svar reflect the two feet. The mysterious principle called Upaniṣad indicates the notion of "I". One who knows this principle becomes free from sin.
+
+मनोमयोऽयं पुरुषो भाः सत्यस्तस्मिन्नंतर्हृदये यथा व्रीहिर्वा यवो ना स एष सर्वस्येशानः सर्वस्याधिपतिः सर्वमिदं प्रशास्ति. यदिदं किंच ॥ (*manomayo 'yaṃ puruṣo bhāḥ satyastasminnaṃtarhṛdaye yathā vrīhirvā yavo nā sa eṣa sarvasyeśānaḥ sarvasyādhipatiḥ sarvamidaṃ praśāsti. yadidaṃ kiṃca ‖*) (Bṛ. U. 5-5-5)
+
+### Printed p. 698
+
+This Puruṣa in the interior of the heart is made of mind and is of the form of light; he exists in the form of a grain of rice and in the form of a grain of barley. He is the lord of all the worlds. He rules this entire universe. Everything is subject to his will. In such terms the divine nature of the Supreme Puruṣa is described.
+
+In the present context, what the chief elements of the Puruṣa described in this sūkta of the Ṛk Saṃhitā are can be examined in outline. It has been stated before that all the deities described and praised in the Ṛk Saṃhitā are particular manifestations of this Supreme Puruṣa. Even so, if one examines, among the deities such as Agni who reflect the individual aspects of this Puruṣa, the chief natures of which deity are described in the Puruṣa to whom this sūkta is addressed, it can be said that the natures of the three deities Agni, Sūrya and Viṣṇu are all manifested in Puruṣa and show the great glory of Puruṣa.
+
+1. He is the womb of all moving and unmoving things; the lord of the plants and of the waters; the chief representative of the sacrifice; the same special qualities that are seen in Agni are described in Puruṣa.
+
+2. The greatness that is in Sūrya, established by surpassing all the worlds and occupying the upper region, is stated to be in Puruṣa too.
+
+3. The extraordinary quality of Viṣṇu, who pervades all the worlds such as heaven and earth and the atmosphere, is the very special quality of Puruṣa. How? Thus:
+
+The word सहस्र (*sahasra*), expressing a quality, is used with reference to Agni on many occasions. For example:
+
+सहस्राक्षो विचर्षणिरग्नी रक्षांसि सेधति । होता गृणीत उक्त्र्यः ॥ (*sahasrākṣo vicarṣaṇiragnī rakṣāṃsi sedhati | hotā gṛṇīta uktryaḥ ‖*)
+(Ṛ. Saṃ. 7-29-12)
+
+Just as the epithets सहस्राक्षः सहस्रपात् (*sahasrākṣaḥ sahasrapāt*) describe the countless eyes and the pervading feet of Puruṣa, so in this Ṛk the countless spread of the light of Agni is stated. It can be said that these epithets used of Agni in Ṛk-s such as तस्मै सहस्रमक्षिभिर्वि चक्षे (*tasmai sahasramakṣibhirvi cakṣe*) (10.79-5) are a description of Puruṣa, who is of the form of Agni. Likewise:
+
+उक्षा समुद्रो अरुषः सुपर्णः पूर्वस्य योनिं पितुरा विवेश । मध्ये दिवो निहितः पृश्निरश्मा वि चक्रमे रजसस्पात्यंतौ ॥ (*ukṣā samudro aruṣaḥ suparṇaḥ pūrvasya yoniṃ piturā viveśa | madhye divo nihitaḥ pṛśniraśmā vi cakrame rajasaspātyaṃtau ‖*)
+(Ṛ. Saṃ. 5-47-3)
+
+### Printed p. 699
+
+Sūrya, the showerer of desires, of attractive form, has entered the atmosphere, the producer of water. Afterwards he has entered the heavenly world and pervades everywhere. When the greatness of Sūrya is stated, that he pervades the heavenly world and the atmosphere and moves everywhere, it is the pervading quality of Puruṣa that is described. Moreover:
+
+विभ्राजङ्ज्यतिषा स्वरंगच्छो रोचनं दिवः । येनेमा विश्वा भुवनान्याभृता विश्वकर्मणा विश्वदेव्यावता ॥ (*vibhrājaṅjyatiṣā svaraṃgaccho rocanaṃ divaḥ | yenemā viśvā bhuvanānyābhṛtā viśvakarmaṇā viśvadevyāvatā ‖*)
+(Ṛ. Saṃ. 10-12-4)
+
+O Ādityā, by your divine radiance you illumine the whole world. You have taken refuge in the most excellent divine world. Spreading your divine radiance, which is the cause of all sacrifices and gratifying to all the gods, you nourish all the worlds. Such a description is the very description of the Supreme Lord who is of the form of Ādityā.
+
+This Supreme Puruṣa within Ādityā is the impeller and controller, the nourisher and protector, of all these activities.
+
+पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मिन् समूह । तेजो यत्ते रूपं कल्याणतमं तत्ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥ (*pūṣannekarṣe yama sūrya prājāpatya vyūha raśmin samūha | tejo yatte rūpaṃ kalyāṇatamaṃ tatte paśyāmi yo 'sāvasau puruṣaḥ so 'hamasmi ‖*)
+(Ī 6) **NOTE**
+
+O Ādityā, who are of the form of Prajāpati, you are the nourisher of the world. You alone have the power of sight that beholds all the worlds. You alone are the controller of the world. Spread your rays for the illumination of the world. Spread your radiance. Your divine form is visible to me. The Supreme Puruṣa, who dwells in the divine world, is within the interior of my heart as well.
+
+The chief subject of the Puruṣasūkta is to describe and praise the divine glory of the Supreme Puruṣa, who is praised in many ways in such terms. The chief purport of the mantras in this sūkta is explained according to one's understanding. Since the exposition of a spiritual principle is involved, many omissions and faults are natural in this context. Even so, the purport of the mantras is explained taking the Śruti passages themselves as the basis.
+
+On the use (viniyoga), the fruit as stated (phalaśruti), the greatness (māhātmya) and similar matters of this sūkta, the great sage Śaunaka has said as follows in his work called the Ṛgvidhāna:
+
+### Printed p. 700
+
+शुक्लपक्षे शुभे वारे सुनक्षत्रे सुगोचरे । द्वादश्यां पुत्रकामाय चरुं कुर्वीत वैष्णवं ॥ दंपत्योरुपवासः स्यादेकादश्यां सुरालये । ऋग्भिः पोडशभिः सम्यगर्चयित्वा जनार्दनं । चरुं पुरुषसूक्तेन श्रपयेत्पुत्रकाम्याया । प्राप्नुयाद्वैष्णवं पुत्रमचिरात्संततिक्षमं ॥ (*śuklapakṣe śubhe vāre sunakṣatre sugocare | dvādaśyāṃ putrakāmāya caruṃ kurvīta vaiṣṇavaṃ ‖ daṃpatyorupavāsaḥ syādekādaśyāṃ surālaye | ṛgbhiḥ poḍaśabhiḥ samyagarcayitvā janārdanaṃ | caruṃ puruṣasūktena śrapayetputrakāmyāyā | prāpnuyādvaiṣṇavaṃ putramacirātsaṃtatikṣamaṃ ‖*)
+
+A man who desires a good son should, together with his wife, keep a fast with discipline on the Ekādaśī tithi, and in the bright fortnight, on the Dvādaśī tithi with an auspicious day and star, recite the sixteen Ṛk-s of this Puruṣasūkta, worship the deity Viṣṇu by the procedure stated in the Kalpa, and then offer the homa; then he will soon obtain a son who will advance the family and bring offspring.
+
+त्वादश द्वादशीः सम्यक् पयसा निर्वपेच्चरुं । यः करोति सहस्रं स्याद्याति विष्णोः परं पदं ॥ (*tvādaśa dvādaśīḥ samyak payasā nirvapeccaruṃ | yaḥ karoti sahasraṃ syādyāti viṣṇoḥ paraṃ padaṃ ‖*)
+
+In this way, the man who on twelve Dvādaśī days offers homa a thousand times with parameśanna prepared with milk and with caru (cooked rice) obtains, after death, the excellent state that is called the supreme abode of Viṣṇu.
+
+हुत्वाग्निं विधिवत्सम्यगृग्भिः षोडशभिर्द्विजः । कृतांजलिपुटो भूत्वा स्तवं ताभिः प्रयोजयेत् ॥ (*hutvāgniṃ vidhivatsamyagṛgbhiḥ ṣoḍaśabhirdvijaḥ | kṛtāṃjalipuṭo bhūtvā stavaṃ tābhiḥ prayojayet ‖*)
+
+The twice-born man, having duly established the fire and offered homa with the sixteen Ṛk-s of this Puruṣasūkta, should then, with folded hands, praise by reciting those same sixteen mantras.
+
+केशवं मार्गशीर्षे तु पौषे नारायणं स्मृतं । माधवं माघमासे तु गोविंदं फाल्गुने तथा ॥ चैत्रे चैव तथा विष्णुं वैशाखे मधुसूदनं । ज्येष्ठे त्रिविक्रमं विद्यादाषाधे वामनं विदुः ॥ श्रावणे श्रीधरं विद्यादृषीकेशं ततः परे । आश्विने पद्मनाभं तु दामोदरं च कार्तिके ॥ द्वादशैतानि नामानि ऋष्यशृंगोऽब्रवीन्मुनिः ! पूजयेन्वासनामभिः सर्वान्नामान्समश्नुते ॥ (*keśavaṃ mārgaśīrṣe tu pauṣe nārāyaṇaṃ smṛtaṃ | mādhavaṃ māghamāse tu goviṃdaṃ phālgune tathā ‖ caitre caiva tathā viṣṇuṃ vaiśākhe madhusūdanaṃ | jyeṣṭhe trivikramaṃ vidyādāṣādhe vāmanaṃ viduḥ ‖ śrāvaṇe śrīdharaṃ vidyādṛṣīkeśaṃ tataḥ pare | āśvine padmanābhaṃ tu dāmodaraṃ ca kārtike ‖ dvādaśaitāni nāmāni ṛṣyaśṛṃgo 'bravīnmuniḥ ! pūjayenvāsanāmabhiḥ sarvānnāmānsamaśnute ‖*)
+
+In the procedure of worship and homa stated above, one should perform the worship and the rest reciting the names of a different form of Viṣṇu in each month. How? In the month Mārgaśīrṣa, Keśava; in the month Puṣya
+
+### Printed p. 701
+
+Nārāyaṇa; in the month Māgha, Mādhava; in the month Phālguṇa, Govinda; in the month Caitra, Viṣṇu; in the month Vaiśākha, Madhusūdana; in the month Jyeṣṭha, Trivikrama; in the month Āṣāḍha, Vāmana; in the month Śrāvaṇa, Śrīdhara; in the month Bhādrapada, Hṛṣīkeśa; in the month Āśvayuja, Padmanābha; in the month Kārtika, Dāmodara. In this way the twelve different forms are to be worshipped in the twelve months. The sage named Ṛṣyaśṛṅga has stated this order. The man who worships in this prescribed order obtains all his desires and is happy.
+
+आयुष्मंतं सुतं सूते यशोमेधासमन्वितं । धनवंतं प्रजावंतं धार्मिकं सात्विकं तथा ॥ (*āyuṣmaṃtaṃ sutaṃ sūte yaśomedhāsamanvitaṃ | dhanavaṃtaṃ prajāvaṃtaṃ dhārmikaṃ sātvikaṃ tathā ‖*)
+
+The man who performs the worship and the rest by the procedures stated above will obtain a good son. That son, endowed with long life, fame, intelligence, wealth, offspring and a bent towards dharma, will be known as a good son.
+
+समिधोऽश्वत्थवृक्षस्य हुत्वाग्निं जुहुयात्पुनः । उपस्थानं हुताशस्य ध्यात्वार्च्य मधुसूदनं ॥ हविर्होमं ततः कुर्यात्प्रत्यृचं वाग्यतः शुचिः । सूक्तेन जुहुयादाज्यमादावंते च पूर्ववत् ॥ हविश्लेषं नमस्कृत्वा नारी नारायणं पतिं । भक्षयित्वा हविश्लेषं लब्धाशीः संविशेत् क्षपां ॥ ततस्तु कर्म कृत्वेदं कर्तव्यं द्विजतर्पणं । द्वितीया स्त्री निवर्तेत यावद्गर्भं न विंदति ॥ अपुत्रा मृतपुत्रा वा या च कन्यां प्रसूयते । क्षिप्रं सा जनयेत्पुत्रमृष्यशृंगो यथाब्रवीत् ॥ (*samidho 'śvatthavṛkṣasya hutvāgniṃ juhuyātpunaḥ | upasthānaṃ hutāśasya dhyātvārcya madhusūdanaṃ ‖ havirhomaṃ tataḥ kuryātpratyṛcaṃ vāgyataḥ śuciḥ | sūktena juhuyādājyamādāvaṃte ca pūrvavat ‖ haviśleṣaṃ namaskṛtvā nārī nārāyaṇaṃ patiṃ | bhakṣayitvā haviśleṣaṃ labdhāśīḥ saṃviśet kṣapāṃ ‖ tatastu karma kṛtvedaṃ kartavyaṃ dvijatarpaṇaṃ | dvitīyā strī nivarteta yāvadgarbhaṃ na viṃdati ‖ aputrā mṛtaputrā vā yā ca kanyāṃ prasūyate | kṣipraṃ sā janayetputramṛṣyaśṛṃgo yathābravīt ‖*)
+
+Now the procedure of the homa will be explained. Having duly established the fire, one should offer homa in it with kindling sticks of the aśvattha tree. After the homa, meditating on the form of Madhusūdana, one should pray to the fire. Then one should again offer the oblation in the fire with each mantra. While offering the homa one should be pure and, without speaking much, recite only the mantras. When offering homa with the mantras of this sūkta, one should offer homa with ājya (ghee) at the beginning and at the end. Afterwards the wife of that man should bow to the remains of the oblation, to Nārāyaṇa and to her husband, eat the remains of the oblation, receive the blessing of the Brāhmaṇas, and join her husband in the night.
+
 ---
 
-**Progress note:** Done through printed p. 694. pp. 689-694 Puruṣasūkta introduction: Nārāyaṇa, Puruṣa etymologies
+**Progress note:** Done through printed p. 701. pp. 695-701 Puruṣasūkta introduction: Upaniṣad descriptions, Agni/Sūrya/Viṣṇu, Ṛgvidhāna use
