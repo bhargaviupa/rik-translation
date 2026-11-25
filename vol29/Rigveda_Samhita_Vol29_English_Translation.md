@@ -23353,6 +23353,156 @@ Therefore the seers who saw the hymn beginning नासदासीत् (*nā
 
 After creation **NOTE** the mind wished to shine itself also in manifest form. It wished also to become visible in embodied form. It performed austerity. As a result of it, it acquired density
 
+### Printed p. 840
+
+(solidity). Immediately it saw the sacred fire-altars, thirty-six thousand in number, which reflected itself. All of them were made by the mind alone. They were set up on the sacrificial altar by the mind alone. The Soma vessels also were made ready by the mind alone; the mantras were all recited by the mind alone. Whatever sacrificial rites had to be performed were all performed by the mind alone. On that sacrificial pit, made by the mind alone, fire was installed by the mind alone, and all worship and all oblations were offered by the mind alone. Thus, since creation, the source of creation and the works of creation are all of the nature of mind, identity between Prajāpati and the mind has been declared.
+
+तस्मान्मनसा प्रजापतये जुह्वति मन इव हि प्रजापतिः (*tasmānmanasā prajāpataye juhvati mana iva hi prajāpatiḥ*)
+
+(Tai. Saṃ. 2-53-11-25)
+
+Just as Prajāpati pervades the whole world, so the mind also pervades it; therefore the oblation is to be offered to Prajāpati in the form of a mental resolve alone. Thus the nature of the mind and of the mental resolve is explained. The descriptions found in many contexts, that mental resolves under the influence of the worldly body become causes of bondage, are not contrary to this view. What is meant here is the principle of mind that reflects the Supreme Brahman. The mental resolve of the primal principle itself is of the form of sacrifice.
+
+मनो वै यज्ञस्य ब्रह्मा तद्यदिदं मनः सोऽसौ चंद्रः स ब्रह्मा स मुक्तिः सातिमुक्तित्यतिमोक्षा अथ संपदः ॥ (*mano vai yajñasya brahmā tadyadidaṃ manaḥ so 'sau caṃdraḥ sa brahmā sa muktiḥ sātimuktityatimokṣā atha saṃpadaḥ ‖*)
+
+(Bṛ. U. 3-1-6)
+
+The mind is the Brahman, the chief of the sacrifice; the moon that shines in the world above and Brahman are of the form of mind. The mind alone is the final cause of liberation.
+
+मनोमयोऽयं पुरुषो भाःसत्यस्तस्मिन्नंतर्हृदये यथा व्रीहिर्वा यवो वा स एष सर्वस्येशानः सर्वस्याधिपतिः सर्वमिदं प्रशास्ति यदिदं किंच ॥ (*manomayo 'yaṃ puruṣo bhāḥsatyastasminnaṃtarhṛdaye yathā vrīhirvā yavo vā sa eṣa sarvasyeśānaḥ sarvasyādhipatiḥ sarvamidaṃ praśāsti yadidaṃ kiṃca ‖*)
+
+(Bṛ. U. 5-6-1)
+
+This Supreme Person is made of mind, a being of perfect radiance. By his mere resolve he is the lord and the ruler of the whole world.
+
+मनो ह्यात्मा मनो हि लोको मनो हि ब्रह्म मन उपास्वेति (*mano hyātmā mano hi loko mano hi brahma mana upāsveti*)
+
+(Chā. U. 7-3)
+
+### Printed p. 841
+
+The Supreme Self, who contains the whole world, is himself of the form of mind. Since this form belongs both to the source of creation and to the work of creation, Sāyaṇa has stated the purport of पुरुषेण हविषा (*puruṣeṇa haviṣā*) in the present Ṛk as पुरुषस्वरूपमेव मनसा संकल्प मानुषं यज्ञमतन्वत (*puruṣasvarūpameva manasā saṃkalpa mānuṣaṃ yajñamatanvata*).
+
+देवाः (*devāḥ*) has been explained as the organs of the same Person, Prajāpati. The purport of the sentence सृष्टिकामः प्रजापतिरेव प्राणादिवृत्तिभेदेनोच्यते (*sṛṣṭikāmaḥ prajāpatireva prāṇādivṛttibhedenocyate*) is explained thus: Prajāpati himself, desirous of creation, is spoken of in this manner. (Bhā. Bhā.) **NOTE** Or, since the organs of the body reflect the gods such as Āditya, देवाः (*devāḥ*) may also be explained as "the gods". How? —
+
+गताः कलाः पंचदश प्रतिष्ठा देवाश्च सर्वे प्रतिदेवतासु । कर्माणि विज्ञानमयश्च आत्मा परेऽव्यये सर्व एकीभवंति । (*gatāḥ kalāḥ paṃcadaśa pratiṣṭhā devāśca sarve pratidevatāsu | karmāṇi vijñānamayaśca ātmā pare 'vyaye sarva ekībhavaṃti |*)
+
+(Mu. U. 3-2-7) **NOTE**
+
+Here it is taught that all the parts contained in the body, after death, go and unite with their own places. देवाश्च सर्वे प्रतिदेवतासु (*devāśca sarve pratidevatāsu*) means that the organs such as the eye go and are merged in their own seats, Āditya and the others. While they are within the body they are the organs; when they shine in the outer world they are the gods such as Āditya. Therefore, just as it is said here that the gods performed the sacrifice of mental resolve, so if it is said that the organs of Prajāpati performed it, the purport is the same.
+
+Thus creation has two great divisions, the earlier creation and the later creation. The intermediate creations are included in these. Prajāpati performed the sacrifice and created Indra and the others; in return, Indra and the others performed the sacrifice and satisfied their father Prajāpati. As a result, the various parts of the world came into being. In this way creation is the sacrifice and the fruit of the sacrifice. The Śatapatha Brāhmaṇa describes this matter as follows.
+
+It was stated above that in the waters that existed before creation a golden egg appeared, and from it Prajāpati came into being (became manifest) in the form of a Person. In the present context, the details of the sacrifice of Prajāpati for the creation of the world, and of the sacrifice performed by Indra and the others created by him, are gathered and stated only briefly.
+
+ततः संवत्सरे पुरुषः समभवत् । स प्रजापतिः । (संवत्सरो वै यज्ञः प्रजापतिः ११-१-१.१)...................सोऽर्चञ्छाम्यंश्चचार प्रजाकामः । स आत्मन्येवप्रजापतिमधत्त स आस्येनैष देवानसृजत ते देवादिवमभिपद्या- (*tataḥ saṃvatsare puruṣaḥ samabhavat | sa prajāpatiḥ | (saṃvatsaro vai yajñaḥ prajāpatiḥ 11-1-1.1)...................so 'rcañchāmyaṃścacāra prajākāmaḥ | sa ātmanyevaprajāpatimadhatta sa āsyenaiṣa devānasṛjata te devādivamabhipadyā-*)
+
+### Printed p. 842
+
+सृज्यंत तद्देवानां देवत्वं यद्दिवमभिपद्यासृज्यंत तस्मै ससृजानाय दिवेवास तद्देव देवानां देवत्वं यदस्मै ससृजानाय दिवेवास ॥ (*sṛjyaṃta taddevānāṃ devatvaṃ yaddivamabhipadyāsṛjyaṃta tasmai sasṛjānāya divevāsa taddeva devānāṃ devatvaṃ yadasmai sasṛjānāya divevāsa ‖*)
+
+(Śa. Brā. 11-1-6-2)
+
+After a year, Prajāpati came into being from the egg that floated in the waters. This Prajāpati is of the form of the year and of the form of sacrifice. (That Prajāpati is the form of sacrifice was stated earlier in the explanation of the Viśvakarman sūktas.) This Prajāpati, of the form of sacrifice, moved about chanting hymns of praise and performing austerity. Desiring offspring, he created from the breath of his mouth (from the vital breath) the gods, the germ that brings forth beings. The gods were created as those who enter the heaven. Because they enter the shining heaven and themselves shine, the name "gods" became established. Only after the birth of the shining gods did it seem to Prajāpati that the light of day had come.
+
+ता ना एताः । प्रजापतेरधिदेवता अस्यज्यंताग्निरिंद्रः सोमः परमेष्ठि प्राजापत्यः ॥ (*tā nā etāḥ | prajāpateradhidevatā asyajyaṃtāgniriṃdraḥ somaḥ parameṣṭhi prājāpatyaḥ ‖*)
+
+(Śa. Cā. 11-12-14) **NOTE**
+
+Agni, Indra, Soma and Parameṣṭhin Prājāpatya are the gods first born from Prajāpati. After they were born,
+
+ताः सहस्रायुषो जज्जीरॆ । ता यथा नद्यै पारं परापश्येदेवग्ं स्वस्यायुषः पारं पराचख्युः ॥ (*tāḥ sahasrāyuṣo jajjīrè | tā yathā nadyai pāraṃ parāpaśyedevagṃ svasyāyuṣaḥ pāraṃ parācakhyuḥ ‖*)
+
+(Ke. Cā.) 11-1-9-15) **NOTE**
+
+they became possessed of a life of a thousand years only. Just as one standing far off can look from one bank of a river to the other, so these gods also became able to see the last part of the limit of their own lives.
+
+ता अर्चंत्यः श्राम्यंत्यश्चेरुः । तत एनं परमेष्ठी प्राजापत्यो यज्ञमपश्यद्यद्दर्श पूर्णमासौ ताभ्यामयजत ताभ्यामिष्ट्वाकामयताहमेवेदग्० सर्वग्० स्यामिति स आपोऽभवदापो ना इदग्० सर्वं ता यत्परमे स्थाने तिष्यंति यो हीहाभिखनेदप एवाभिविंदेत्परमाद्वा एतत्सा नाद्दर्षति यद्दिवस्तस्मात्परमेष्ठी नाम ॥ (*tā arcaṃtyaḥ śrāmyaṃtyaśceruḥ | tata enaṃ parameṣṭhī prājāpatyo yajñamapaśyadyaddarśa pūrṇamāsau tābhyāmayajata tābhyāmiṣṭvākāmayatāhamevedag0 sarvag0 syāmiti sa āpo 'bhavadāpo nā idag0 sarvaṃ tā yatparame sthāne tiṣyaṃti yo hīhābhikhanedapa evābhiviṃdetparamādvā etatsā nāddarṣati yaddivastasmātparameṣṭhī nāma ‖*)
+
+(Śa. Brā. 11-1-6-16)
+
+These gods also moved about reciting and chanting hymns of praise and performing austerity. Among them Parameṣṭhin Prājāpatya realised the principle of the new-moon and full-moon sacrifices, and by performing them he
+
+### Printed p. 843
+
+offered worship. Then he wished: "May I myself become all-pervading." Since water possessed all-pervading power, he too became of the form of water. Since the state of water is on the earth, rain falls also from the atmosphere, the highest region. That is the greatness of Parameṣṭhin.
+
+स परमेष्ठी प्रजापतिं पितरमब्रवीत् । कामप्रं वा अहं यज्ञमदर्शं तेन त्वा याजयानीति तथेति तमयाजयत्स इष्टा कामयताहमेवेदग्ं सर्वग्ं स्यामिति स प्राणोऽभवत्प्राणो वा इदग्ं सर्वमयं वै प्राणो योऽयं पवते स प्रजापतिस्तस्य दृष्टिर्यदेव वेदेत्थाद्वातीति यद्यै किं च प्राणि स प्रजापतिः स यो हैवमेतां प्रजापतेर्दृष्टिं वेदाविरिव हैव भवति ॥ (*sa parameṣṭhī prajāpatiṃ pitaramabravīt | kāmapraṃ vā ahaṃ yajñamadarśaṃ tena tvā yājayānīti tatheti tamayājayatsa iṣṭā kāmayatāhamevedagṃ sarvagṃ syāmiti sa prāṇo 'bhavatprāṇo vā idagṃ sarvamayaṃ vai prāṇo yo 'yaṃ pavate sa prajāpatistasya dṛṣṭiryadeva vedetthādvātīti yadyai kiṃ ca prāṇi sa prajāpatiḥ sa yo haivametāṃ prajāpaterdṛṣṭiṃ vedāviriva haiva bhavati ‖*)
+
+(Ca. Patra. 11-12-67) **NOTE**
+
+Parameṣṭhin Prājāpatya said to the eternal Prajāpati: "I have realised a principle of sacrifice that can satisfy all desires. I shall perform that sacrifice to satisfy you." "Let it be so," Prajāpati answered. Accordingly the sacrifice was performed. As soon as the sacrifice was performed, Prajāpati wished: "May I become all-pervading." In accordance with that wish he became the all-pervading form of breath. He who blows everywhere in the form of wind is Prajāpati and no other. To know this principle is itself the power of vision of Prajāpati. Everything that has breath (wind) is a part of Prajāpati. One who knows this principle obtains that same power of vision.
+
+स प्रजापतिरिंद्रं पुत्रमब्रवीत् । अनेन त्वा कामप्रेण यज्ञेन याजयानि तेन मामिदं परमष्ठयियायजदिति तथेति तमयाजयत्स इष्ट्वाकामयताहमेवेदग्ं सर्वग्ं स्यामिति स वागभवद्वाग्वा इदग्ं सर्वं तस्मादाहुरिंद्रो वागिति । ( (*sa prajāpatiriṃdraṃ putramabravīt | anena tvā kāmapreṇa yajñena yājayāni tena māmidaṃ paramaṣṭhayiyāyajaditi tatheti tamayājayatsa iṣṭvākāmayatāhamevedagṃ sarvagṃ syāmiti sa vāgabhavadvāgvā idagṃ sarvaṃ tasmādāhuriṃdro vāgiti | (*)
+
+(Pa. Brā. 11-1-6-18) **NOTE**
+
+Prajāpati said to his son Indra: "By performing this wish-fulfilling sacrifice that Parameṣṭhin performed for my satisfaction, I too shall give you joy." "Let it be so," Indra agreed. As soon as Prajāpati had performed that sacrifice, Indra wished to become all-pervading himself. Then he attained the all-pervading form of speech. For that very reason identity between Indra and speech is declared.
+
+स इंद्रोग्निषोमौ भ्रातरावब्रवीत् । अनेन वां कामप्रेण यज्ञेन याजयानि येन मामिदं पिता प्रजापतिरयीयजदिति तथेति तावया_ (*sa iṃdrogniṣomau bhrātarāvabravīt | anena vāṃ kāmapreṇa yajñena yājayāni yena māmidaṃ pitā prajāpatirayīyajaditi tatheti tāvayā_*)
+
+### Printed p. 844
+
+जयत्ता विष्ट्वा कामयेतामावमेवेदग्ं सर्वग्ं स्यावेति तयोरन्नाद एवान्यतरोऽभवदन्न मन्यतरोऽन्नाद एवाग्नि रभवदन्नग्ं सोमोऽन्नावश्च ना इदग्ं सर्वमन्नं च ॥ (*jayattā viṣṭvā kāmayetāmāvamevedagṃ sarvagṃ syāveti tayorannāda evānyataro 'bhavadanna manyataro 'nnāda evāgni rabhavadannagṃ somo 'nnāvaśca nā idagṃ sarvamannaṃ ca ‖*)
+
+(Ke- Ca. 11-1-6-19) **NOTE**
+
+Indra, satisfied by the sacrifice of Prajāpati, said to his brothers, the deities Agni and Soma: "By the same performance of sacrifice by which our father Prajāpati performed the sacrifice and satisfied me, I shall satisfy you also." They agreed. As soon as Indra had performed that wish-fulfilling sacrifice, Agni and Soma both wished to become all-pervading themselves. In accordance with that wish Agni became the eater of food and Soma became of the form of food. By food and the eaters of food, by these two, the whole world is pervaded. They are of the forms of Soma and Agni.
+
+ता ना एताः । पंच देवता एतेन कामप्रेण यज्ञेनायजंत ता यत्कामा अयजंत स अभ्यः कामः समार्ध्यत यत्कामो ह वा एतेन यज्ञेन यजते सोऽस्मै कामः समृध्यते । (*tā nā etāḥ | paṃca devatā etena kāmapreṇa yajñenāyajaṃta tā yatkāmā ayajaṃta sa abhyaḥ kāmaḥ samārdhyata yatkāmo ha vā etena yajñena yajate so 'smai kāmaḥ samṛdhyate |*)
+
+(Śa. Brā. 11-16-20)
+
+These five deities, assembled together, then performed this sacrifice. Whatever wishes they held and performed the sacrifice to obtain, all those wishes were fulfilled. In the same way, whoever performs this sacrifice has his desired object fulfilled. Which worlds were produced by the performance of the sacrifice named Kāmapra? These:
+
+ता इष्टा प्राचीं दिशमपश्यन् । तां प्राचीमेवाकुर्वत सेयं प्राच्येव दिक्तस्मादिमाः प्रजाः प्राच्यः सर्पंति प्राचीग्‌ हैतामकुर्वतोपैनामितः कुर्वीमहीति तामूर्जमकुर्वतेमां खलूर्जं पश्यमेति सासौ द्यौरभवत् । (*tā iṣṭā prācīṃ diśamapaśyan | tāṃ prācīmevākurvata seyaṃ prācyeva diktasmādimāḥ prajāḥ prācyaḥ sarpaṃti prācīg haitāmakurvatopaināmitaḥ kurvīmahīti tāmūrjamakurvatemāṃ khalūrjaṃ paśyameti sāsau dyaurabhavat |*)
+
+(Śa. Brā. 11-1.6.21)
+
+As a result of the performance of the Kāmapra sacrifice, Prajāpati and the gods Indra and the others born from him first realised the form of the eastern direction. Afterwards they established it as the front direction. Since the gods established this direction as the front direction, all the people here move forward in the same manner (as progressive beings). The gods wished to improve the form of this direction still further and made it powerful. As soon as they wished: "May we obtain the sight of it,"
+
+### Printed p. 845
+
+that principle of power moved upward and approached the gods. That became the heaven.
+
+अथ दक्षिणां दिशमपश्यन् । तां दक्षिणामेवाकुर्वत सेयं दक्षिणैव दिक्तस्मादु दक्षिणत एव दक्षिणा उपतिष्ठंते दक्षिणतोऽभ्यवाजंति दक्षिणाग् हैतामकुर्वतोपैनामितः कुर्विमहीति तं लोकमकुर्वतेमं खलु लोकं पश्येमेति तदिदमंतरिक्षमभवदेष वै लोकः सा यथा हैवेयं प्रतिष्ठाविरस्किंल्लोके पृथिव्येवमु हैवेषा प्रतिष्ठाविरमुष्मिंल्लोक इदमंतरिक्षग्ं स यदिह सन्नमुं लोकं न पश्यति तस्मादाहुः परोक्षमसौ लोक इति ॥ (*atha dakṣiṇāṃ diśamapaśyan | tāṃ dakṣiṇāmevākurvata seyaṃ dakṣiṇaiva diktasmādu dakṣiṇata eva dakṣiṇā upatiṣṭhaṃte dakṣiṇato 'bhyavājaṃti dakṣiṇāg haitāmakurvatopaināmitaḥ kurvimahīti taṃ lokamakurvatemaṃ khalu lokaṃ paśyemeti tadidamaṃtarikṣamabhavadeṣa vai lokaḥ sā yathā haiveyaṃ pratiṣṭhāviraskiṃlloke pṛthivyevamu haiveṣā pratiṣṭhāviramuṣmiṃlloka idamaṃtarikṣagṃ sa yadiha sannamuṃ lokaṃ na paśyati tasmādāhuḥ parokṣamasau loka iti ‖*)
+
+(Pa. Patra. 11.1.6-22) **NOTE**
+
+Then the southern direction was seen. They established it as the right-hand direction. For that reason the sacrificial fee (cows) is placed on the right of the sacrificial altar. They wished: "Let us make this better." As a result of that wish it was transformed into the atmosphere. It also took the form of wind. Just as here the earth is the support for everything to be established, so in the atmosphere the wind is the support of establishment. But when one stands on the earth the atmosphere is not visible. For that very reason people say that the atmosphere is invisible.
+
+अथ प्रतीचीं दिशमपश्यन् । तामाशामकुर्वत तस्माद्यप्राज्‌सृत्वाविंदत एतामेव तेन दिशमेत्याशाग् हैतामकुर्वतोपैनामितः कुर्विमहीति ताग् श्रियमकुर्वतेमां खलु श्रियं पश्येमेति सेयं पृथिव्यभवच्छीर्वा इयं तस्माद्योऽस्यॆ भूयिष्ठं विंदते स एव श्रेष्ठो भवति ॥ (*atha pratīcīṃ diśamapaśyan | tāmāśāmakurvata tasmādyaprājsṛtvāviṃdata etāmeva tena diśametyāśāg haitāmakurvatopaināmitaḥ kurvimahīti tāg śriyamakurvatemāṃ khalu śriyaṃ paśyemeti seyaṃ pṛthivyabhavacchīrvā iyaṃ tasmādyo 'syè bhūyiṣṭhaṃ viṃdate sa eva śreṣṭho bhavati ‖*)
+
+(Śa. Cā. 11-10-6-23) **NOTE**
+
+Then Prajāpati and the gods Indra and the others attained the sight of the western direction. They made it the representative of hope. For that reason, when one goes facing east and then returns facing west, then hope is fulfilled. The gods wished: "Let us make this better also." As a result of that wish they transformed it into the form of wealth. After they desired: "May we attain the sight of the form of that wealth," it changed into the form of the earth. One who has the support and the favour of this earth obtains the best wealth.
+
+अथोदीचीं दिशमपश्यन् । तामपोऽकुर्वतोपैनामितः कुर्विमहीति तं धर्ममकुर्वत धर्मो वा आपस्तस्माद्यवेमं लोकमाप आगच्छंति (*athodīcīṃ diśamapaśyan | tāmapo 'kurvatopaināmitaḥ kurvimahīti taṃ dharmamakurvata dharmo vā āpastasmādyavemaṃ lokamāpa āgacchaṃti*)
+
+### Printed p. 846
+
+सर्वमेवेदं यथाधर्मं भवत्यथ यदावृष्टि र्भवति बलियानेव तर्ह्यबलीयस आदत्ते धर्मो ह्यापः ॥ (*sarvamevedaṃ yathādharmaṃ bhavatyatha yadāvṛṣṭi rbhavati baliyāneva tarhyabalīyasa ādatte dharmo hyāpaḥ ‖*)
+
+(Śa. Brā. 11.1.6.24)
+
+Then they realised the northern direction. They transformed it into the form of water. They wished: "Let us make this better." Since water is of the form of dharma, they made it the representative of dharma. Therefore, whenever water flows to the earth, it comes in accordance with the respective dharma. If a drought without water occurs, then, because water is lost, dharma also is lost. In the time of absence of dharma, adharma spreads, and those possessed of bodily strength oppress those who have bodily weakness and display their injustice. There is no peace for the body. (This is what is called the law of the fish.)
+
+ता ना एताः । एकादशदेवताः । पंच प्रयाजाः । द्वानाज्यभागौ स्विष्टकृत्र्ययोऽनुयाजाः । (*tā nā etāḥ | ekādaśadevatāḥ | paṃca prayājāḥ | dvānājyabhāgau sviṣṭakṛtryayo 'nuyājāḥ |*)
+
+(Pra. Bra. 11-1-65) **NOTE**
+
+Five Prayājas, two Ājyabhāgas, the Sviṣṭakṛt, three Anuyājas. These eleven parts of the sacrifice are declared to be the eleven deities; thus the identity of the parts of the sacrifice and the deities is stated. It is therefore taught that sacrifice is the means of creation and the absence of sacrifice is the means of destruction. How? —
+
+देवाश्च ना असुराश्च । उपये प्राजापत्याः पस्पृधिरे । ततोऽसुरा अतिमानेनैव कस्मिन्नु वयं जुहुयामेति स्वेस्वेवास्येषु जुह्वतश्चेरु स्तेऽतिमानेनैव पराबभूवुस्तस्मान्नातिमन्येत पराभवस्य हैतन्मुखं यदतिमानः ॥ (*devāśca nā asurāśca | upaye prājāpatyāḥ paspṛdhire | tato 'surā atimānenaiva kasminnu vayaṃ juhuyāmeti svesvevāsyeṣu juhvataśceru ste 'timānenaiva parābabhūvustasmānnātimanyeta parābhavasya haitanmukhaṃ yadatimānaḥ ‖*)
+
+(Śa. Bra. 11-1-8-1) **NOTE**
+
+The gods and the asuras, both these groups, were born from Prajāpati, who is of the form of sacrifice. The asuras, filled with self-conceit, said: "To whom shall we offer the oblation?" and rejecting the true sacrifice, offered the oblation into their own mouths. By their own arrogance they became useless. Selfishness and arrogance are the means of destruction.
+
+अथ देवाः । अथैतमात्मनः प्रतिमानसृजत यद्यज्ञं तस्मादाहुः प्रजापतेर्यज्ञ इत्यात्मनो ह्येतं प्रतिमानसृजत ॥ (*atha devāḥ | athaitamātmanaḥ pratimānasṛjata yadyajñaṃ tasmādāhuḥ prajāpateryajña ityātmano hyetaṃ pratimānasṛjata ‖*)
+
+(Pa. Bā. 11-1-8-2) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 839. Rk 6 special topics: Bhattabhaskara, Dasahotr, Prajapati as sacrifice, mind before creation
+**Progress note:** Done through printed p. 846. Special Topics: mind and Prajapati sacrifice, creation of gods and directions (Sat. Br. 11), pp. 840-846
