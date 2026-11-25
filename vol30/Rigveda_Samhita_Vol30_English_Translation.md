@@ -13532,6 +13532,134 @@ In the beginning, Vṛtra, lord of the demons, had taken into himself all of the
 
 Then Indra said to Viṣṇu: "I intend to hurl the thunderbolt at Vṛtra in order to gather the Ṛks and the rest. You too help in this." Then Viṣṇu said: "So be it. I shall help in this work. Strike Vṛtra with the thunderbolt." On that assurance, when Indra hurled the thunderbolt at Vṛtra, Vṛtra was frightened. And he said to Indra as follows.
 
+### Printed p. 392
+
+Then Indra said to Viṣṇu, "I intend to hurl the vajra at Vṛtra in order to gather the Ṛk and the other Vedas. You too help in this." Viṣṇu said, "So be it. I shall help in this task. Strike Vṛtra with the vajra." On that assurance Indra hurled the vajra at Vṛtra, and Vṛtra was frightened. He told Indra as follows:
+
+स होवाच । अस्ति वा इदं वीर्यं तन्नु ते प्रयच्छानि मा तु मे प्रहार्षीरिति तस्मै यजूग्ंषि प्रायच्छत्तस्मै द्वितीयमुद्ययाम ॥ (*sa hovāca | asti vā idaṃ vīryaṃ tannu te prayacchāni mā tu me prahārṣīriti tasmai yajūgṃṣi prāyacchattasmai dvitīyamudyayāma ‖*) (5-5-5-3)
+
+"This power is lodged in me. I shall give it to you. Do not strike me." So saying, he handed the Yajus over to Indra. Indra, not content with that, and wishing to snatch away what remained, raised the vajra over him to strike a second time.
+
+स होवाच । अस्ति वा इदं वीर्यं तन्नु ते प्रयच्छानि मा तु मे प्रहार्षीरिति तस्मा ऋचः प्रायच्छत्तस्यै तृतीयमुद्ययाम ॥ (*sa hovāca | asti vā idaṃ vīryaṃ tannu te prayacchāni mā tu me prahārṣīriti tasmā ṛcaḥ prāyacchattasyai tṛtīyamudyayāma ‖*) (5-21-5-4)
+
+"I have power in yet another form. That too I shall give you. Do not strike me." So saying, he handed all the Ṛks over to Indra. Indra, not content even with that, and wishing to seize what remained, raised the vajra over him to strike a third time.
+
+स होवाच । अस्ति पा इदं वीर्यं तन्नु ते प्रयच्छानि मा तु मे प्रहार्षीरिति तस्मै सामानि प्रायच्छत् तस्मादप्येतर्ह्येव मेवैतैर्वेदैर्यज्ञं तन्नते यजुर्भिरेवाग्रेऽथर्भि रथ सामभिरेवग्ग्यस्मा एतत्पायच्छत् ॥ (*sa hovāca | asti pā idaṃ vīryaṃ tannu te prayacchāni mā tu me prahārṣīriti tasmai sāmāni prāyacchat tasmādapyetarhyeva mevaitairvedairyajñaṃ tannate yajurbhirevāgre 'tharbhi ratha sāmabhirevaggyasmā etatpāyacchat ‖*) (Śa. Brā. 5-21.5-5)
+
+"O Indra, in me there is yet another kind of instrument of strength. That too I offer you. Please do not strike me." So saying, he offered the Sāmans also to Indra.
+
+इंद्रो हि वज्रमुद्यच्छद्विष्णुरस्वतिष्ठत । (*iṃdro hi vajramudyacchadviṣṇurasvatiṣṭhata |*) (5-5-5-2)
+
+Even so, when Indra raised the vajra and tried to strike, Viṣṇu too stood by him, it is said.
+
+The same kind of story is told in the Taittirīya Saṃhitā. But there it is stated that, in return for the powers in the form of Ṛk, Yajus and Sāman, Vṛtra gave Indra three kinds of Uktha, one each time; and since Viṣṇu too helped Indra, Viṣṇu also has a share in it. (Tai. Saṃ. 6-5-1-1) In Ṛ. Saṃ. 1-109-5, 7, 8; 3-12-4, 6; 10-65-2 and similar places it is stated that Agni, the destroyer of Vṛtra, who is of dense form, killed Vṛtra together with Indra.
+
+### Printed p. 393
+
+"O Indra and Agni, I have heard that at the time of distributing wealth to all the worshippers you two, standing face to face, proved supremely capable in the work of destroying the asura Vṛtra." (1-109-5)
+
+Epithets such as "vajra-armed" and "fort-destroyer" are common to both. In one or two contexts it is stated that Varuṇa too helped Indra.
+
+"O Indra and Varuṇa, against this Vṛtra of unequalled power, you two together hurled the shining and mighty vajra." (4-41.4)
+
+These asuras, the causes of famines, are known by many names: Vṛtra, Ahi, Śuṣṇa, Namuci, Pipu, Śambara, Uraṇa and others. (1-121-9, 10; 2-14.4; 8.32-2, 3)
+
+If we take as examples some passages that speak of them and describe their destruction and the like, their deformed nature becomes known. In some places all their names are mentioned together. All of them are Dānavas; Danu is their mother. It is stated that she too sometimes takes part in the fight to protect her sons. For example:
+
+"At the time of the slaying of the asura Vṛtra, his mother came to protect her son from the blow of the vajra. Then Indra weakened her strength and struck her hard on the lower part of her body. After she was struck with the vajra, the mother came to lie on top. The son was caught beneath and lay there. As a cow lies with her calf, the Dānavī, the mother, lay dead together with her son Vṛtra." (1-3-9)
+
+तद्वै एष एव इंद्रो य एष तपति । अथ एष एव वृत्रो यच्चंद्रमाः ॥ (*tadvai eṣa eva iṃdro ya eṣa tapati | atha eṣa eva vṛtro yaccaṃdramāḥ ‖*) (Śa. Brā. 1-6-4-18)
+
+The one who shines in the sky is the Sun. The Moon is the asura Vṛtra, as is stated in the passage of the Śatapatha Brāhmaṇa. It is stated in the Ṛk Saṃhitā too that Indra himself is of the form of the Sun. All these asuras take up their various weapons and make ready for battle. (1-3-2)
+
+But their attempt to resist the gods proves merely a delusion. Vṛtra, covered in the form of a cloud, resisted Indra; that attempt came to nothing and he was defeated by Indra,
+
+### Printed p. 394
+
+and this is clearly stated. (2-30-3) When Indra roars, even heaven and earth tremble with fear. (1-80-11, 14; 2-11-9, 10; 4.17-9)
+
+Though Tvaṣṭā is the maker of the vajra, and though he created it for Indra himself, yet when Indra, bearing the vajra, faces his enemies, roars and shows his wrath, the same Tvaṣṭā too is afraid. (त्वष्टा चित्तव मान्यव इंद्र विविज्यते भिया (*tvaṣṭā cittava mānyava iṃdra vivijyate bhiyā*)) (1.80-14)
+
+As soon as this steel weapon of Indra is hurled, it pierces the vital parts of the enemies and scatters them all completely. (1-32.5; 1.57.6; 1-60.80; 2-19-3; 10-89.7; 6-27.4; 8.6-13)
+
+As soon as Indra by his prowess releases the waters held back by the asuras, they, filled with abundant water in the form of floods, descend from the atmosphere to the earth, fill all the rivers, flow on and join the ocean. (1-32.5; 1-32-1; 1, 57.6; 1-61-10 **NOTE**; 1-103-2; 2.11-2; 2-12-1; 2.14.2; 2-15.3; 2.19-3; 3-32.6; 4.17-1; 5-32-1; 6-30-4; 8.65.3; 10-135.2)
+
+As soon as Indra shows his prowess and resolves, all the clouds in the atmosphere scatter and the darkness is destroyed. The Sun too, regaining his natural state, spreads everywhere the radiance that gives light to the whole world. (1-32-4; 1-51.4; 1-51.8; 2-19-3)
+
+Regarding the matter described in mantra 1-51-4, Sāyaṇa gives his opinion as follows. The original is:
+
+वृत्रं यदिंद्र शवसावधीरहिमादित्सूर्यं दिव्यारोहयो दृशे । (*vṛtraṃ yadiṃdra śavasāvadhīrahimāditsūryaṃ divyārohayo dṛśe |*)
+
+Explaining its purport, Sāyaṇa says:
+
+वृत्रेणावृतं सूर्यं तस्माद्वृत्तात् अमूमुच इत्यर्थः ॥ (*vṛtreṇāvṛtaṃ sūryaṃ tasmādvṛttāt amūmuca ityarthaḥ ‖*)
+
+that is, the purport is that Indra caused the Sun, enveloped by Vṛtra, to be freed. But if the original sentence is examined, it gives the meaning that after slaying Vṛtra he established the Sun in the atmosphere. On the whole, its purport is that Indra became the cause of the destruction of darkness.
+
+### Printed p. 395
+
+Such a battle with Vṛtra, who is of the nature of darkness, is described in many places in the Ṛk Saṃhitā. The aim of the battle is to destroy the darkness and spread light. (1-4.8; 1.32.1; 1-52.2; 1-54.4; 1-80-1; 1-103-2; 2-11.5; 5-32.1; 1.89-7; 10.103-6)
+
+And this description is poetic, full of various metaphors. Because clouds take most wondrous shapes, they are described in many ways: sometimes as mountains, at other times as strongholds of the asuras, and as dense cities of the asuras. (2-14-6; 8-17-14; 8-87-6)
+
+These masses of clouds, which move and obstruct the light, are described as made of ayas (steel) and as made of stone. It is also stated that these are the cities of the asuras, and that Indra destroyed these very cities, which give shelter to the asuras of the atmosphere, by hurling the vajra. (1-51-5; 1-63-7: 1-103 3; 1-130-7; 1-174-8; 2-19-6; 2-20-7; 3-12-6; 4-20-3; 4-30-13; 8-82-2; 10-89-7)
+
+Indra picks out all the asuras sleeping in the mountains of the atmosphere, beats them down, and rolls them all down from the atmosphere. (1-32-2; 1-130-7; 2-12-11; 4-30-14; 6-26-5)
+
+And when they wish to occupy the whole atmosphere, he drives them all back. (2-12-12; 8-14-14)
+
+One of those asuras he treads down under his foot, and he torments with frost. (1-5-6; 8-32-26)
+
+He strikes the head of Namuci with the foam of water. (8-14-13)
+
+(8-14-13)
+
+Of the asuras who are Indra's enemies, one named Uraṇa has ninety-nine arms and is a monster; his deformed form is described. Another is said to have had three heads and six eyes. (2-14-4) (10-99-6)
+
+Such forms and imaginative descriptions are also fitting for natural events. It is natural that people scorched by the burning heat of the summer season look for rain as soon as summer ends. But there are also many occasions when dense clouds spread over the whole atmosphere and yet do not pour rain.
+
+### Printed p. 396
+
+On such occasions it is natural that the belief arises that some asuric power is obstructing the rain. It is likewise natural that a kind of faith arises in the divine power that destroys this asuric power. The appearance of thunder and lightning is described as the clash, in the atmosphere, of two powers, the divine and the asuric.
+
+Indra is the presiding deity who reflects this divine power. This power of Indra, beneficent to devotees and destroyer of enemies, supplies wealth to the sacrificer and others and spares them the affliction of the asuras. The masses of clouds moving in the atmosphere are described as chariots, as chariot-horses, and as Indra's conveyances.
+
+This Indra is understood to be a deity of a nature different from Parjanya. Since there are passages that compare Indra and Parjanya, there is full scope to say that they are separate deities of distinct nature. Many hymns addressed to Parjanya too show that he is a deity distinct from Indra. (8-6-1)
+
+But there are also many passages that state the identity of Indra and the Sun.
+
+Description of Indra's greatness
+
+It may be said that, throughout the Ṛk Saṃhitā, the epithets showing the highest position among the gods are applied to Indra most of all. They also show Indra's universal lordship. Only some of them are selected here, and their purport is given.
+
+In the first maṇḍala:
+
+Indra has established the Sun in the atmosphere so that he can be seen even from very far. (1-2-3)
+
+O Indra, you bear in your arms the vajra made of steel, and you have established the Sun in the atmosphere. (8.25.8)
+
+Dwelling on the farther shore of the atmosphere, displaying your divine power, and standing here on this earth too for the benefit of us humans, you have pervaded the heavenly world also through the ocean of the atmosphere, and spread your influence in all three worlds. (Printed reference unclear: "C.-53-12")
+
+### Printed p. 397
+
+O Indra, you are the representative of this earth. You are the lord of the atmosphere. And by your greatness you have pervaded the whole heavenly world. Among gods, men and the rest there is no one at all with greatness equal to yours. (1-52-13)
+
+Neither the earth nor the heavenly world has reached your superiority. The ocean of the atmosphere too has not reached your extent. In all three worlds, everything is firmly established in its fixed place by you. (1-52-14; 1-55-1; 1-60-9)
+
+As soon as Indra was born, the immovable mountain and heaven and earth trembled, fearing to appear before him. (1-61-14)
+
+"Indra has pervaded the whole earth. In the atmosphere he has established all the orbs of light. O Indra, none of divine qualities like yours has been born till now, nor will be born hereafter. You stand beyond the whole universe." (1-81.5)
+
+This same Indra is the sovereign of heaven and earth. Neither gods, nor men, nor Yakṣas and Gandharvas, nor the deities have attained the greatness of this Indra, nor can they attain it. (Printed reference unclear: "C-C00-C") (1-100-1)
+
+Indra is the master of the whole world, whatever world there is, made of the immovable and the moving, and endowed with life. (1-101.5)
+
+O Indra, the three worlds and the masses of light of the three worlds are your representatives. Standing beyond the three worlds, you, free of enemies, the lord of the universe, have made your sovereignty shine everywhere. (1-802-8)
+
+Indra established the earth and spread it out. He struck with his vajra and made the water flow. He slew Ahi (Vṛtra). (Printed reference unclear: "C-C.03.9")
+
+Indra is a support for the atmosphere like a prop. And for four-footed animals and for two-footed men and the rest he has held the atmosphere and kept it from falling down. (1-12-2)
+
 ---
 
-**Progress note:** Done through printed p. 391. pp. 386-391 (batch API)
+**Progress note:** Done through printed p. 397. pp. 392-397 (batch API)
