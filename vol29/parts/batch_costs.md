@@ -16,3 +16,4 @@
 | 14 | through p. 272 (three windows in one agent: pp. 251–272) | sonnet | 17 | 225856 | 6.7 |
 | 15 | through p. 291 (three windows in one agent: pp. 273–291) | sonnet | 14 | 193893 | 5.2 |
 | 16 | through p. 309 (three windows in one agent: pp. 292–309) | sonnet | 18 | 190375 | 5.1 |
+| 17 | through p. 324 (windows w0310 and w0317 by the agent; w0317 finished by the dispatcher after the displaced-page decision; the third window was not started) | sonnet | 26 | 209670 | 6.9 |
