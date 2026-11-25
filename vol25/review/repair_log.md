@@ -33,3 +33,4 @@
 - scan_heads.py --apply: 6 running heads with [?] (Maṇḍala/Adhyāya/Sūkta) settled by the unmarked heads before and after them (list: review/heads_applied.tsv); 86 heads left marked.
 
 - scan_wordfix.py --apply: 69 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'corrected': 19, 'confirmed': 50}; list: review/wordfix_applied.tsv).
+- Nov 25 2026: front matter (PDF pp. 1–12: cover, title, portrait, ಪೀಠಿಕೆ, contents) read by two agents into p0001–p0012.md and assembled before `<!-- page 1 -->` (scan_assemble.py --body-from 13). The contents agent wrote some unreadable sūkta numbers/titles of the contents 'by their position in the sequence' (its own report): to be checked.
