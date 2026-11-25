@@ -3016,6 +3016,293 @@ The word आत्मा (*ātmā*) is derived either from the root आत् (*
 > यस्य । ओषधीः । प्रसर्पथ । अंगं5अंगं । परुः5परुः ।  
 > ततः । यक्ष्यं । वि । बाधद्वे । उग्रः । मध्यमशी5इव ॥ १२ ॥
 
+### Printed p. 86
+#### Ṛk 12 (continuing)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधीरोषधयः यस्य रुग्णस्यांगमंगं यद्यदंगं परुःपरुर्यद्यत्पर्व प्रसर्पथ प्रकर्षेणाश्रयथ ततोऽंगात्पर्वणश्च यक्ष्यं व्याधिं वि बाधद्वे ।
+> उग्र उद्धूर्णबलो मध्यमशीर्मध्यमस्थाने वर्तमानो राजा यथोपद्रवकारिणः समनंतरं शत्रुवेदेपदे विबाधते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+"O plants, in whatever sick man's every limb and every joint you creep, you enter it thoroughly; from that limb and joint drive away the disease. Like a mighty king, of great strength, stationed in the middle, who drives away troublemakers when enemies come close, so drive it out."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधीः (*oṣadhīḥ*)—O plants
+- उग्रः (*ugraḥ*)—mighty
+- मध्यमशीः इव (*madhyamaśīḥ iva*)—as a king standing and fighting in the middle of his army destroys all his enemies
+- यूयं (*yūyaṃ*)—you
+- यस्य (*yasya*)—of whatever sick man
+- अंगंअंगं (*aṃgaṃaṃgaṃ*)—of every limb
+- परुः परुः (*paruḥ paruḥ*)—all the joint (junction) regions
+- प्रसर्पथ (*prasarpatha*)—when you enter and spread
+- ततः (*tataḥ*)—from all those regions
+- यक्ष्यं (*yakṣyaṃ*)—the disease
+- वि बाधद्वे (*vi bādhadve*)—destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O plants, just as a mighty king, fighting in the midst of his army, destroys all his enemies, so, in whatever sick man you enter and spread into all the regions of every limb, from all those regions destroy his disease completely.
+
+##### English translation
+From him, oh plants, in whom you creep from limb to limb, from joint to joint you drive away disease like a mighty (prince) stationed in the midst of his host.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒कं य॑क्ष्म॒ प्र प॑त॒ चाषे॑ण किकिदी॒विना॑ ।  
+> सा॒कं वात॑स्य॒ ध्राज्या॑ सा॒कं न॑श्य नि॒हाक॑या ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साकं । यक्ष्य । प्र । पत । चाषेण । किकिदीविना ।  
+> साकं । वातस्य । ध्राज्या । साकं । नश्य । निहाकया ॥ १३ ॥
+
+### Printed p. 87
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीयस्य पुरुषस्य शरीराधिष्ठायिन्नृष्म व्याधे त्वं साकं सहैव प्र
+> पत । प्रकर्षेण शीघ्रं गच्छ । केन साकमिति उच्यते । चाषेणातिशीघ्रं पतता
+> चाषाख्येन पक्षिणा सह । तथा किकिदीविना पक्षिणा च सह । तथा वातस्य शीघ्रं गच्छतो
+> वायोर्ध्राज्या ॥ ध्रज गत् ॥ गतिवेगेन सह गच्छ । तथा निहाकया गोधिकया
+> साकं नश्य । नाशं प्राप्नुहि ॥
+
+##### Gist of the bhāṣya
+
+"O disease abiding in the body of our man, go forth quickly together with something: with what? With the bird called Cāṣa, which flies very swiftly; likewise with the bird Kikidīvi; likewise go with the speed of the swiftly moving wind (ध्रज गत् (*dhraja gat*) is the root of ध्राज्या (*dhrājyā*), speed of motion). Likewise perish along with the निहाकया (*nihākayā*), the Godhikā (iguana); attain destruction."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यक्ष्म (*yakṣma*)—O disease
+- साकं (*sākaṃ*)—at one time
+- प्रपत (*prapata*)—be ruined and go
+- चाषेण (*cāṣeṇa*)—with the speed of the Cāṣa bird
+- किकिदीविना साकं (*kikidīvinā sākaṃ*)—go off also with the Kikidīvi bird
+- वातस्य (*vātasya*)—of the wind
+- ध्राज्या (*dhrājyā*)—with the speed
+- निहाकयो साकं (*nihākayo sākaṃ*)—with the storm as well
+- नश्य (*naśya*)—vanish
+
+##### भावार्थ (Bhāvārtha)
+
+O disease, go off with the swiftly flying Cāṣa bird; go off with the Kikidivi bird; vanish with the speed of the wind and with the storm.
+
+##### English translation
+Fly forth, sickness, with the jay, with the blue jay, with the velocity of the wind, persh along with the iguana.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्या वो॑ अ॒न्याम॑वत्व॒न्यान्यस्या॒ उपा॑वत ।  
+> ताः सर्वाः॑ संविदा॒ना इ॒दं मे॒ प्राव॑ता॒ वचः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्या । वः । अन्यां । अवतु । अन्या । अन्यस्याः । उप । अवत ।  
+> ताः । सर्वाः । संविदानाः । इदं । मे । प्र । अवत । वचः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ओषधयः वो युष्माकं मध्येऽन्यौषधिरन्यामोषधिमवतु । प्राप्नोतु ।
+> अवतिरत्र गत्यर्थः । तथान्यान्यस्याः समीपमुपावत । उपगच्छत । एवं याः संति
+
+##### Gist of the bhāṣya
+
+"O plants, among you let one plant 'protect' another, that is, reach it; अवति (*avati*) here has the sense of going. Likewise let each go to the vicinity of another. So all the plants that are on earth, being संविदानाः (*saṃvidānāḥ*)—
+### Printed p. 88
+agreed with one another in unanimity—protect this speech of mine, this speech in the form of a prayer."
+
+> क्षित्यामोषधयः ताः सर्वाः संविदानाः परस्परमैकमत्यं प्राप्ताः सत्य इदं मे
+> मदीयं वचः प्रार्थनालक्षणं वचनं प्रावत । प्ररक्षत ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—among you (O plants)
+- अन्या (*anyā*)—one plant
+- अन्यां (*anyāṃ*)—another
+- अवतु (*avatu*)—let it approach
+- अन्यान्यस्याः (*anyānyasyāḥ*)—mutually, one in the vicinity of another
+- उपावत (*upāvata*)—go and join
+- ताः सर्वाः (*tāḥ sarvāḥ*)—all the plants thus
+- संविदानाः (*saṃvidānāḥ*)—joining together with one another
+- मे (*me*)—my
+- इदं वचः (*idaṃ vacaḥ*)—this prayer-utterance
+- प्रावत (*prāvata*)—heed
+
+##### भावार्थ (Bhāvārtha)
+
+O plants, let one plant among you approach another. All of you, joining together, heed this prayer of mine.
+
+##### English translation
+Let each of you, plants, go to the other, approach the one (to the vicinity) of the other; thus being all mutually joined together, attend to this my speeeeh.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याः फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ ।  
+> बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुंचं॒त्वंह॑सः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । फलिनीः । याः । अफलाः । अपुष्पाः । याः । च । पुष्पिणीः ।  
+> बृहस्पतिप्रसूताः । ताः । नः । मुंचंतु । अंहसः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> याः फलिनीः फलवत्यो या अफलाः फलवर्जिता या अपुष्पाः पुष्परहिता
+> याश्च पुष्टिणीः पुष्पवत्यो बृहस्पतिप्रसूताः । बृहस्पतिर्मंत्राभिमानी देवः ।
+> तेनानुज्ञाताः । ता नोऽस्मानंहसो मुंचंतु । मोचयंतु ॥
+
+##### Gist of the bhāṣya
+
+"Those that are fruit-bearing, those without fruit, those without flowers and those with flowers are बृहस्पतिप्रसूताः (*bṛhaspatiprasūtāḥ*): Bṛhaspati is the god presiding over the mantra, and they are permitted by him. May they release us from sin (अंहसः (*aṃhasaḥ*))."**NOTE**
+
+### Printed p. 89
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिप्रसूताः (*bṛhaspatiprasūtāḥ*)—among the plants that are the objects of Bṛhaspati's favour
+- याः (*yāḥ*)—which
+- फलिनीः (*phalinīḥ*)—are fruit-bearing
+- याः (*yāḥ*)—which
+- अफलाः (*aphalāḥ*)—are fruitless
+- अपुष्पाः (*apuṣpāḥ*)—which are flowerless
+- याश्च (*yāśca*)—and which
+- पुष्पिणीः (*puṣpiṇīḥ*)—possess flowers
+- ताः (*tāḥ*)—all of them
+- नः (*naḥ*)—us
+- अंहसः (*aṃhasaḥ*)—from sin in the form of disease
+- मुंचंतु (*muṃcaṃtu*)—let them release
+
+##### भावार्थ (Bhāvārtha)
+
+Among the plants that are the objects of Bṛhaspati's favour, those which bear fruit, those which are fruitless, those which are flowerless and those which have flowers—may all of them release us from sin in the form of disease.
+
+##### English translation
+Whether bearing fruit or barren, whether flowering or flowerless, may they, the progeny of Brihaspathi, liberate us from sin.
+
+##### विशेषविषयगळु (Special Topics)
+
+फलिनीः अफलाः पुष्पिणीः अपुष्पाः (*phalinīḥ aphalāḥ puṣpiṇīḥ apuṣpāḥ*)—It is well known that there are many kinds of plants. In some kinds fruit is borne; in some kinds there are no fruits. Likewise in some kinds there are flowers; in some kinds there are no flowers either. This is the meaning.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मुं॒चंतु॑ मा शप॒थ्या॒३॒॑सिदथो॑ वरु॒ण्य॑दु॒त ।  
+> अथो॑ य॒मस्य॒ पद्मी॑शा॒त्सर्व॑स्माद्देवकिल्बि॒षात् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुंचंतु । मा । शपथ्यात् । अथो इति । वरुण्यात् । उत ।  
+> अथो इति । यमस्य । पड्बीशात् । सर्वस्मात् । देवकिल्पिषात् ॥ १६ ॥
+
+### Printed p. 90
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मा मानोषधयः शपथ्याच्छपथसंजातादेनसः सकाशान्मुंचंतु । अथो
+> अपि च वरुण्याद्वरुणसंभवान्मां मुंचंतु । वरुणोऽपि स्वपाशेन जातमात्रं
+> पुरुषं बध्नाति । उतेति पूरणः । अथो अपि च यमस्य पद्मीशात्पादबंधनान्निगडान्मुंचंतु । न केवलं वरुणादेः पापात् किंतु सर्वस्त्यादेवकिल्पिषाद्देवैः
+> कृतात्पापान्मुंचंतु ॥
+
+##### Gist of the bhāṣya
+
+"May the plants release me from the sin born of a curse (शपथ्यात् (*śapathyāt*)); and also from that arising from Varuṇa, for Varuṇa binds a man with his noose as soon as he is born. उत (*uta*) is a filler. And also may they release me from Yama's पद्मीशात् (*padmīśāt*), the fetter binding the feet. Not only from the sin of Varuṇa and others, but from all देवकिल्पिषात् (*devakilpiṣāt*), sin committed by the gods, may they release me."**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधयः (*oṣadhayaḥ*)—the plants
+- मा (*mā*)—me
+- शपथ्यात् (*śapathyāt*)—from sin arising from a curse
+- मुंचंतु (*muṃcaṃtu*)—let them release
+- वरुण्यात् (*varuṇyāt*)—from the trouble (noose) arising from Varuṇa
+- मां (*māṃ*)—me, let them release
+- अथो (*atho*)—moreover
+- यमस्यॆ (*yamasyè*)—of Yama
+- पड्बीशात् (*paḍbīśāt*)—from the noose that binds the feet, let them release
+- सर्वस्मात् (*sarvasmāt*)—from all
+- देवकिल्बिसात् (*devakilbisāt*)—from the fault connected with the gods, let them release
+
+##### भावार्थ (Bhāvārtha)
+
+May the plants make me free from the sin arising from a curse. May they release me from Varuṇa's noose. May they release me from Yama's noose that binds the feet. May they release me also from every fault connected with the gods.
+
+##### English translation
+May they liberate me from the sin produced by curse, from the sin caused by Varuna, from the fetters of Yama, from all guilt caused by the gods.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒व॒पतं॑तीरवदन्नि॒व ओष॑धय॒स्सरि॑ ।  
+> यं जी॒वम॒श्नवा॑मुहै॒ न स रि॑ष्याति॒ पूरु॑षः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवपतंतीः । अवदन् । दिवः । ओषधयः । परि ।  
+> यं । जीवं । अश्वनामहै । न । सः । रिष्याति । पुरुषः ॥ १७ ॥
+
+### Printed p. 91
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकादवपतंतीरवपतंत्य ओषधय इत्थं पर्यवदन् । किमिति
+> उच्यते । यं जीवं जीवंतमत्नवामहै व्याप्नुमो न स पूरुषः पुरुषो
+> रिष्याति । रिष्यति । विनश्यति ॥
+
+##### Gist of the bhāṣya
+
+"The plants, descending from heaven, the world of light, spoke thus. What? 'The living man whom we pervade — that man does not suffer harm; रिष्याति (*riṣyāti*) is रिष्यति (*riṣyati*), he perishes.'"**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—from the heavenly world
+- अवपतंतीः (*avapataṃtīḥ*)—descending to earth
+- ओषधयः (*oṣadhayaḥ*)—the plants
+- पर्यवदन् (*paryavadan*)—have spoken thus
+- जीवं (*jīvaṃ*)—living
+- यं (*yaṃ*)—whichever man
+- अश्वनामहै (*aśvanāmahai*)—we enter
+- सः पूरुषः (*saḥ pūruṣaḥ*)—that man
+- न रिष्याति (*na riṣyāti*)—does not meet destruction
+
+##### भावार्थ (Bhāvārtha)
+
+The plants descending from heaven to earth have given this assurance: "Whatever living man we enter, for him there is certainly no destruction."
+
+##### English translation
+The plants, falling from heaven, said, " The man whom living we pervade, will not perish."
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ओष॑धीः॒ सोम॑राज्ञीर्ब॒ह्वीः श॒तवि॑चक्षणाः ।  
+> तासां॒ त्वम॑स्युत्त॒मारं॒ कामा॑य॒ शं हृ॒दे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । ओषधीः । सोमराज्ञीः । बह्वीः । शतविचक्षणाः ।  
+> तासां । त्वं । असि । उत्तमा । अरं । कामाय । शं । हृदे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या ओषधीरोषधयः सोमराज्ञे सोमो राजा स्वामी यासां
+> तास्तथोक्ता बह्वीरसंख्याताः शतविचक्षणा बहुदर्शना हे सोमाख्य ओषदे
+> तासामोषधीनां त्वमुत्तमासि । यस्मादेवं तस्मादरमलमत्यर्थं कामय
+> कांताय हृदे हृदयाय शं सुखकरी भवेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"The plants whose king (lord) is Soma, those that are many, innumerable, शतविचक्षणा (*śatavicakṣaṇā*), of many appearances: O plant called Soma, you are the best of those plants. Since this is so, be अरं (*araṃ*), abundantly, pleasant to the beloved heart (कामाय (*kāmāya*) read as काम (*kāma*), कांताय हृदे (*kāṃtāya hṛde*)), is the word to be supplied: 'be happiness-giving'."**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 85. pp. 80-85 (batch API)
+**Progress note:** Done through printed p. 91. pp. 86-91 (batch API)
