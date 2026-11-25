@@ -9071,6 +9071,152 @@ Sāvitrī and Sūryā, these two are both wives of Vivasvān. This same Sūryā 
 
 In this Ṛk: "O Aśvins, when you came in your three-wheeled chariot to take the hand of Sūryā, all the gods also approved your marriage, and your son Pūṣan chose you as father." In it the very words वहतुं सूर्यायाः (*vahatuṃ sūryāyāḥ*) that are used in the present Ṛk are used. Besides this,
 
+### Printed p. 343
+
+स्तोमा आसन्प्रतिधयः कुरीरं छंद ओपशः । सूराया अश्विना वराग्निरासीत्पुरोगवः ॥ (*stomā āsanpratidhayaḥ kurīraṃ chaṃda opaśaḥ | sūrāyā aśvinā varāgnirāsītpurogavaḥ ‖*) (Ṛ. Saṃ. 10.85-8) **GLOSS**
+
+यदयातं शुभस्पती वरेयं सूर्यामुप । क्वैकं चक्रं नामासीत्कृदेष्ट्राय तस्थथुः ॥ (*yadayātaṃ śubhaspatī vareyaṃ sūryāmupa | kvaikaṃ cakraṃ nāmāsītkṛdeṣṭrāya tasthathuḥ ‖*) (Ṛ. Saṃ. 10-85.15) **GLOSS**
+
+In these Ṛks also there is a description. Besides this,
+
+अधि श्रिये दुहिता सूर्यस्य रथं तस्थौ पुरुभुजा शतोतिं । प्र मायाभिर्मायिना भूतमत्र नरा नृतू जनिमन्यज्जियानां ॥ (*adhi śriye duhitā sūryasya rathaṃ tasthau purubhujā śatotiṃ | pra māyābhirmāyinā bhūtamatra narā nṛtū janimanyajjiyānāṃ ‖*) (Ṛ. Saṃ. 6-63-5) **GLOSS**
+
+ओ त्यमह्व आ रथमद्या दंसिष्ठ मूतये । यमश्विना सुहवा रुद्रवर्तनी आ सूर्यायै तस्थथुः ॥ (*o tyamahva ā rathamadyā daṃsiṣṭha mūtaye | yamaśvinā suhavā rudravartanī ā sūryāyai tasthathuḥ ‖*) (Ṛ. Saṃ. 8-22-1) **GLOSS**
+
+को मृळाति कतम आगमिष्ठो देवानामु कतमः शंभविष्यः । रथं कमाहुर्द्रवदश्वमाशुं यं सूर्यस्य दुहितावृणीत ॥ (*ko mṛḷāti katama āgamiṣṭho devānāmu katamaḥ śaṃbhaviṣyaḥ | rathaṃ kamāhurdravadaśvamāśuṃ yaṃ sūryasya duhitāvṛṇīta ‖*) (Mi. Saṃ, 4-43-2) **NOTE** **GLOSS**
+
+In all such contexts it is well known that Sūryā chose the Aśvins in a svayaṃvara. In the Ṛk 6-53-5 cited above, it is said that the Aśvins, seated in their three-wheeled chariot, won the victory in the contest that had been arranged for the gods. **NOTE**
+
+But in the Ṛk 10-85-15, cited above from the sūkta's mantras, it is described that when they set out to approach Sūryā, one of their chariot wheels became invisible. Explaining what this means, the English scholar Maryla Falk has stated her opinion in this manner.
+
+The substance of this opinion is as follows. **NOTE**
+
+यो वां परिज्मा सुवृदश्विना रथो दोषामुषासो हव्यो हविष्मता । शश्वत्तमासस्तमु वामिदं वयं पितुर्न नाम सुहवं हवामहे ॥ (*yo vāṃ parijmā suvṛdaśvinā ratho doṣāmuṣāso havyo haviṣmatā | śaśvattamāsastamu vāmidaṃ vayaṃ piturna nāma suhavaṃ havāmahe ‖*) (Ṛ. Saṃ. 10-29-1) **GLOSS**
+
+In Ṛks such as this it is stated that the Aśvins are invoked at the time of dawn and also at the time of evening twilight. Not only that,
+
+### Printed p. 344
+
+उता यातं संगवे प्रातरहो मध्यंदिन उदिता सूर्यस्य । दिवा नक्तमवसा शंतमेन नेदानीं पीतिरश्पिना ततान (*utā yātaṃ saṃgave prātaraho madhyaṃdina uditā sūryasya | divā naktamavasā śaṃtamena nedānīṃ pītiraśpinā tatāna*) (Ṛ. Saṃ. 5.76-3) **GLOSS**
+
+By such mantras they are invited to the midday libation also. In this way, the authors of the Nirukta have made clear that the real nature of the Aśvins, who hold a prominent place in all three libations, cannot be stated precisely, and that each person gives a different opinion. (Ni. 12-1)
+
+And,
+
+नाना जातावरेपसा समस्मे बंधुमेयथुः (*nānā jātāvarepasā samasme baṃdhumeyathuḥ*) (Ṛ. Saṃ. 5-73-4) **GLOSS**
+
+In such places their separate birth and growth are shown by नाना जात्! पृथगेव समृद्धौ (*nānā jāt! pṛthageva samṛddhau*). In some places it is also stated that the two names Nāsatya and Dasra are separate individual forms of the pair of Aśvins (Journal of Oriental Research, Madras Vol XV). It is understood that they are deities that shine in the morning and in the evening. Therefore the twilight-red colour of their chariot and of their chariot wheel is described in हिरण्ययाः वां पवयः (*hiraṇyayāḥ vāṃ pavayaḥ*) (1-180-1) and similar passages. The Aśvins, of such a nature,
+
+युवोः श्रियं परियोषावृणीत सूरो दुहिता परितक्क्यायां । यद्देवयंतमवथः शचीभिः परि फ्रंसमोमाना वां वयो गात् ॥ (*yuvoḥ śriyaṃ pariyoṣāvṛṇīta sūro duhitā paritakkyāyāṃ | yaddevayaṃtamavathaḥ śacībhiḥ pari phraṃsamomānā vāṃ vayo gāt ‖*) (Ṛ. Saṃ. 7-69-4) **GLOSS**
+
+are praised thus in this verse: "O Aśvins, Sūrya's daughter, ever devoted to the service of your beauty, joins you at the time of the libation and pervades you." Besides this description, in some places it is also stated that this same daughter of Sūrya overtakes the Aśvins and joins them when they are in the middle of the sun's path in the atmosphere. At such times,
+
+ईर्मान्यद्वपुषे वपुश्चक्रं रथस्य येमधुः । पर्यन्या नाहुषा युगा मह्ना रजांसि दीयथः ॥ (*īrmānyadvapuṣe vapuścakraṃ rathasya yemadhuḥ | paryanyā nāhuṣā yugā mahnā rajāṃsi dīyathaḥ ‖*) (Ṛ. Saṃ. 5.73-3) **GLOSS**
+
+by such mantras the third wheel of the Aśvins' chariot and its radiance are described. That Sūryā joins the Aśvins who have such a chariot wheel is praised in
+
+आ यद्वां सूर‍्या रथं तिष्ठद्रघुष्यदं सदा (*ā yadvāṃ sūryā rathaṃ tiṣṭhadraghuṣyadaṃ sadā*) (Ṛ. Saṃ. 5-73-5) **GLOSS**
+
+and similar places. And in this same mantra, that as soon as Sūryā mounted the chariot of the Aśvins their chariot was filled with the golden rays of the sun is praised by the sentence
+
+### Printed p. 345
+
+परि वामरुषा वयो फृणावरंत आतपः (*pari vāmaruṣā vayo phṛṇāvaraṃta ātapaḥ*) **GLOSS**
+
+That is, the meaning is that Sūryā's radiance made their chariot wheel disappear.
+
+Some of the opinions of the scholar Maryla Falk cited above are critical and are explanations in accordance with tradition. But some other explanations in that article are merely imaginary. How they are opposed to tradition will be explained in detail later, when the Sūryā-sūkta is expounded. In the present context, one should note one or two points of apparent contradiction, visible to a superficial view, in the matter of Sūryā's marriage; after that, one has to consider who the remaining deities are who are described as identified with Sūryā and what their nature is. And what kind of harmony there is in these contradictions visible to a superficial view will be explained later.
+
+अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजहादु द्वा मिथुना सरण्यूः ॥ (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajahādu dvā mithunā saraṇyūḥ ‖*) (Ṛ. Saṃ. 10.17-2)
+
+In this Ṛk there is the description that the gods gave Saraṇyū to Vivasvān in marriage, and that she, in the form of a mare, bore the Aśvins. That is, it is understood from this that the Aśvins are the sons of Vivasvān. But from the statement of the Bṛhaddevatā cited above,
+
+सावित्रि चैव सूर्या च सैवपत्नी विशेषतः (*sāvitri caiva sūryā ca saivapatnī viśeṣataḥ*) (Bṛ. De- 7-119) **GLOSS**
+
+it is understood that Sūryā is the wife of Vivasvān. What is the meaning of the Aśvins having chosen her? In the same way,
+
+सोमो वधूयुरभवदश्विनास्तामुभा वरा । सूर्यां यत्पत्ये शंसंतीं मनसा सविताददात् ॥ (*somo vadhūyurabhavadaśvināstāmubhā varā | sūryāṃ yatpatye śaṃsaṃtīṃ manasā savitādadāt ‖*) (Ṛ. Saṃ. 10-85-9)
+
+here it is said that Savitṛ gave his daughter Sūryā in marriage to Soma; that the Aśvins were then merely onlookers; and that after the marriage Sūryā went to the house of her husband Soma and joined him. How the meaning is to be stated here and so on will be explained in detail in the exposition of the Sūryā-sūkta, and harmony will be shown for these contradictions.
+
+In the Ṛk-saṃhitā, in the description of Sūryā and her marriage set forth in the Sūryā-sūkta, a profound
+
+### Printed p. 346
+
+spiritual principle lies hidden. Some mantras of the Sūryā-sūkta convey this point. The principle described in the Upaniṣadic statements is conveyed by these mantras. For example—
+
+मनो अस्या अन आसीद्भौरासीदुत च्छदिः । शुक्रावनड्वाहावास्तां यदयात्सूर्या गृहं ॥ ऋक्सामाभ्यामभिहितौ गानौ ते सामनावितः । श्रोत्रं ते चक्रे आस्तां दिवि पंथाश्चराचरः ॥ (*mano asyā ana āsīdbhaurāsīduta cchadiḥ | śukrāvanaḍvāhāvāstāṃ yadayātsūryā gṛhaṃ ‖ ṛksāmābhyāmabhihitau gānau te sāmanāvitaḥ | śrotraṃ te cakre āstāṃ divi paṃthāścarācaraḥ ‖*) (Pu. Saṃ, 10.85.10,11) **NOTE** **GLOSS**
+
+In Ṛks such as these there is not merely a description of Sūryā's purely material body; there is a description that gives the meaning that Sūryā is a power that reflects the principle of the universe. According to this description, the mind is her chariot; the atmosphere is the covering above; the two luminous orbs shining in the atmosphere are her draught animals. Those draught animals, yoked by the Ṛk and by the Sāman, carried Sūryā. Those chariot wheels are her ears. The path on which she travelled was in the atmosphere. It is said that when the Aśvins came to choose Sūryā, adorned with such wedding accessories, all the gods approved.
+
+Further, from some other descriptions it is understood that Sūryā is stated to be identical with Vāk, the word-Brahman in essence. Explaining this very point in the Bṛhaddevatā,
+
+यदा तु वाग्भवत्येषा सूर्यामुं लोकमाश्रिता । तथा सूक्तमुषा भूत्वा सूर्या च भजतेऽखिलं ॥ (*yadā tu vāgbhavatyeṣā sūryāmuṃ lokamāśritā | tathā sūktamuṣā bhūtvā sūryā ca bhajate 'khilaṃ ‖*) (Bṛ. De. 2-79) **GLOSS**
+
+सूर्यामेव सतीमेतां गौरीं वाचं सरस्वतीं पश्यामो वैश्वदेवेषु निपातेनैव केवलाः ॥ (*sūryāmeva satīmetāṃ gaurīṃ vācaṃ sarasvatīṃ paśyāmo vaiśvadeveṣu nipātenaiva kevalāḥ ‖*) (Bṛ. De- 2-80) **GLOSS**
+
+by these verses it is described that Vāk, which is of the nature of the word-Brahman, abides in the atmosphere in the form of Sūryā. This very one is Sūryā, this very one is the goddess Uṣas, Gaurī and Sarasvatī. The greatness of this Vāk has been explained in detail earlier, in the Special Topics of the Ṛk 1-164-41. Because identity with Vāk has been stated in this way, the conjugal relation between Sūryā and the Gandharvas also becomes intelligible. How Sūryā came to be obtained by the Gandharva who had received Soma is described in the last Ṛks of the Sūryā-sūkta in this manner.
+
+### Printed p. 347
+
+तुभ्यमग्रे परवहन्सूर्यां वहतुना सह । पुनः पतिभ्यो जायां दा अग्ने प्रजया सह ॥ पुनः पत्निमग्निरदादायुषा सह वर्चसा । दीर्घायुरस्या यः पतिर्जिवाति शरदः शतं ॥ सोमः प्रथमो विविदे गंधर्वो विविद उत्तरः । तृतीयो अग्निष्टे पतिस्तुरीयस्ते मनुष्यजाः ॥ सोमोऽददद्दंधर्वाय गंधर्वोऽदददग्नये । रयिं च पुत्रांश्चादाग्निर्मह्यमथो इमां ॥ (*tubhyamagre paravahansūryāṃ vahatunā saha | punaḥ patibhyo jāyāṃ dā agne prajayā saha ‖ punaḥ patnimagniradādāyuṣā saha varcasā | dīrghāyurasyā yaḥ patirjivāti śaradaḥ śataṃ ‖ somaḥ prathamo vivide gaṃdharvo vivida uttaraḥ | tṛtīyo agniṣṭe patisturīyaste manuṣyajāḥ ‖ somo 'dadaddaṃdharvāya gaṃdharvo 'dadadagnaye | rayiṃ ca putrāṃścādāgnirmahyamatho imāṃ ‖*) (Ṛ. Saṃ. 10-85.38 to 41)
+
+In these Ṛks it is stated that Sūryā was first given to Agni, and afterwards passed from Agni to Soma, from Soma to the Gandharva, and from the Gandharva again to Agni. The relation between this Gandharva and Soma is stated elsewhere. The story of Soma having handed over the goddess of speech to the Gandharva is told in the Aitareya Brāhmaṇa in this manner.
+
+सोमो वै राजा गंधर्वेष्वासीत्तं देवाश्च ऋषयश्चाभ्यध्यायन्कथमयमस्मान्सोमो राजागच्छेदिति सा वागब्रवीत् स्त्रीकामा वै गंधर्वा मयैव स्त्रिया भूतया पणध्वमिति नेति देवा अब्रुवन्कथं वयं त्वदृते स्यामेति साब्रवीत्क्रीणीतैव यर्हि वाव वो मयार्थो भविता तर्ह्येव वोऽहं पुनरागंतास्मीति तथेति तया महानग्न्याभूतया सोमुं राजानमक्रीणन् ॥ (*somo vai rājā gaṃdharveṣvāsīttaṃ devāśca ṛṣayaścābhyadhyāyankathamayamasmānsomo rājāgacchediti sā vāgabravīt strīkāmā vai gaṃdharvā mayaiva striyā bhūtayā paṇadhvamiti neti devā abruvankathaṃ vayaṃ tvadṛte syāmeti sābravītkrīṇītaiva yarhi vāva vo mayārtho bhavitā tarhyeva vo 'haṃ punarāgaṃtāsmīti tatheti tayā mahānagnyābhūtayā somuṃ rājānamakrīṇan ‖*) (Ai. Brā. 5-2)
+
+King Soma was among the Gandharvas. The gods and the seers were also thinking how they might obtain him. Then the goddess of speech, knowing the Gandharvas' infatuation with women, said that she would become a beautiful woman and that, by offering her to the Gandharvas, Soma could be obtained. Then the gods did not wish to remain without her. Then, when she gave the assurance that she would rejoin them whenever she was desired again, they changed her into a naked woman, handed her over to the Gandharvas, and obtained Soma. Such is the story. What is this world of the Gandharvas? What is the meaning of Sūryā, in the form of Vāk, having joined this world? This also is explained in the sūkta 10-85. The scholar Eggeling has stated this relation of Sūryā and the Gandharvas in this manner—
+
+The Rigvedic Gandharva was primarily wedded to the hypercosmic Sūryā—original immortal abode of Soma—and the wedding of king Soma
+
+### Printed p. 348
+
+who was derived from the Gandharva to Sūryā—in other words, the return of the moon to the hypercosmic sphere of the nocturnal Sun—is the happy ending of the Gandharva's drama so tragically started. Soma's dying is not a death, for he is actually re-born through his union with Sūryā.
+
+In this manner the relation of Sūryā has been stated: as wife of Soma, as wife of the Gandharva, and, as explained above, at times as wife of Sūrya. It is said that the Aśvins themselves are the sun and the moon. In Ṛ. Saṃ. 1-184-3, by सूर‍्यां वहतुं (*sūryāṃ vahatuṃ*) the matter of the Aśvins seating Sūryā in their three-wheeled chariot is stated.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्तमेऽनुवाके षट् सूक्तानि । तत्र सत्येनेति सप्तचत्वारिंशदृचं प्रथमं
+> सूक्तं सवितृसुतायाः सूर्याया आर्षं । नवोनव इति तिस्रोऽनृक्षरा इति द्वे
+> गृभ्नामीति द्वे यदश्विना पृच्छमानावित्येषा पूषा त्वेतो नयत्तित्येकाघोरचक्षुरिति चैवमेता दशर्चस्त्रिष्टुभः । तृष्टमेतदित्येषोरोबृहत्यष्टकद्वादशद्वृष्टकवती।
+> पूर्वापरं चरत इह प्रियं प्रजया नः प्रजां जनयत्वित्येतास्ति सो जगत्यः ।
+> शिष्टास्त्रयस्त्रिंशदनुष्टुभः । आदितः पंचानामृचां सोमो देवता । तत एकादशभिः सूर्या स्वविवाहं स्तुतवती । अतस्तत्र योऽर्थः प्रतिपाद्यते स एव देवतात्वेन
+> विज्ञेयः। या तेनोच्यते सा देवतीति न्यायात् । सप्तदश्या देवा देवता। अप्पादश्याः सोमार्कौ । एकोनविंशाश्चंद्रमाः । सुकिंशुकमित्याद्या नवर्चो विवाहमंत्रा आशिषः प्रतिपादकाः । अतस्तत्र तत्र प्रतिपाद्योऽर्थो देवता । परा देह्यश्रीरा तनूरिति द्वे वध्वा विवाहकाले परिहितस्य वाससः संस्पर्शनिंदयित्र्यौ । ये
+> वध्वश्चंद्रमिति दंपत्योः क्षयरोगस्य नाशिनी । अतस्तद्देवताका । परिशिष्टानां
+> षोडशानां सूर्या देवता । तथा चानुक्रांतं । सत्येन सप्तचत्वारिंशत् सर्वमनुक्रांतं ॥ सूक्तविनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+In the seventh anuvāka there are six sūktas. Of these, the first, सत्येनेति (*satyeneti*), of forty-seven Ṛks, is the seer-hymn of Sūryā, the daughter of Savitṛ. Of its Ṛks, three beginning नवोनव (*navonava*), two beginning अनृक्षरा (*anṛkṣarā*), two beginning गृभ्नामीति (*gṛbhnāmīti*), one यदश्विना (*yadaśvinā*), one पूषा (*pūṣā*) and one more, ten in all, are Triṣṭubh. One Ṛk is Urobṛhatī, with eight, twelve, eight and eight syllables. Three Ṛks, whose openings he gives, are Jagatī, and the remaining thirty-three are Anuṣṭubh. For the first five Ṛks Soma is the deity. In the next eleven Sūryā praises her own marriage; by the principle that the deity is that very subject which is set forth in the Ṛk, the subject set forth there is the deity. The seventeenth has the gods as deity, the eighteenth Soma and Arka, the nineteenth the moon. The nine Ṛks beginning सुकिंशुकमित्याद्या (*sukiṃśukamityādyā*) are marriage mantras that convey blessings, so the matter set forth in each place is the deity. Two Ṛks censure the touching of the garment worn by the bride at the time of marriage. One Ṛk, beginning with ये (*ye*), destroys consumption in the couple, so that is its deity. For the remaining sixteen Ṛks Sūryā is the deity. So the Anukramaṇī also records: forty-seven Ṛks from सत्येन (*satyena*) onwards, everything recorded. The ritual use of the sūkta is Laiṅgika. **NOTE**
+
+The Anuvāda: In the seventh anuvāka of the tenth maṇḍala of the Ṛgveda-saṃhitā there are six sūktas. Among them, सत्येनोत्तभिता भूमिः (*satyenottabhitā bhūmiḥ*) is the first sūkta; it has forty-seven Ṛks. The seer of this sūkta is the woman named Sūryā, the daughter of Savitṛ. Among the Ṛks of this sūkta, the three Ṛks beginning नवोनवः (*navonavaḥ*) (19-21), the two Ṛks beginning अनृक्षरा (*anṛkṣarā*) (23-24), the two Ṛks beginning गृभ्णामि ते (*gṛbhṇāmi te*) (36-37), the one Ṛk यदश्विना (*yadaśvinā*) (14), the one Ṛk पूषा त्वेतो नयतु (*pūṣā tveto nayatu*) (26), and the one Ṛk आघोर चक्षुः (*āghora cakṣuḥ*) (44), ten Ṛks in all, are in the Triṣṭubh metre; the Ṛk तृष्णमे (*tṛṣṇame*)
+
+### Printed p. 349
+
+तत् (*tat*) (34) is of the metre called Urobṛhatī. In this metre there are four pādas: the first pāda has eight syllables, the second twelve syllables, and the third and fourth eight syllables each. The three Ṛks पूर्वापरं चरतः (*pūrvāparaṃ carataḥ*) (18), इह प्रियं प्रजया (*iha priyaṃ prajayā*) (27) and आ नः प्रजां जनयतु (*ā naḥ prajāṃ janayatu*) (43) are in the Jagatī metre; the remaining thirty-three Ṛks are in the Anuṣṭubh metre. In this sūkta, Soma is the deity of the first five Ṛks. In the following 11 Ṛks (6-16), Sūryā has included the matter of her own marriage. By the rule that the subject expounded in the Ṛks is the deity of those Ṛks, the mention of Sūryā's marriage is the deity of those 11 Ṛks; for the seventeenth Ṛk the gods are the deity; for the eighteenth Ṛk Soma and Arka are the deity; for the nineteenth Ṛk the moon is the deity. Since in the nine Ṛks beginning सुकिंशुकं (*sukiṃśukaṃ*) (20-28) the blessings used in marriage mantras are stated, the blessings themselves are the deity of these Ṛks. Since in the two Ṛks परा देहि (*parā dehi*) and अश्रीरा तनूः (*aśrīrā tanūḥ*) (29-30) the censure of touching the bride's garment at the time of marriage is stated, that same is the deity of these Ṛks. Since in the Ṛk ये वध्वश्चंद्रं (*ye vadhvaścaṃdraṃ*) (31) the destruction of consumption in the couple is stated, that same is the deity of that Ṛk. For the remaining sixteen Ṛks (32-47) the goddess Sūryā herself is the deity. In the Anukramaṇī it is stated: सत्येन (*satyena*) forty-seven. The ritual use of the sūkta is Laiṅgika. **NOTE**
+
+Sūkta 85
+
+Maṇḍala 10. Anuvāka 7. Sūkta 85.
+
+Aṣṭaka 8. Adhyāya 3. Varga 20, 21, 22, 23, 24, 25, 26, 27, 28.
+
+Number of Ṛks in the sūkta: 47.
+
+Ṛṣi: सूर्या सावित्रि (*sūryā sāvitri*).
+
+Devatā: 1-5. सोमः (*somaḥ*). 6-16. सूर्याविवाहः (*sūryāvivāhaḥ*). 17. देवाः (*devāḥ*). 18. सोमार्कौ (*somārkau*). 19. चंद्रमाः (*caṃdramāḥ*). 20-28. नृणां विवाहमंत्रा आशीप्रायाः (*nṛṇāṃ vivāhamaṃtrā āśīprāyāḥ*). 29-30. वधूवाषसंस्पर्शनिंदा (*vadhūvāṣasaṃsparśaniṃdā*). 31. यक्षसाशिनी दंपत्योः (*yakṣasāśinī daṃpatyoḥ*). 32-47. सूर्या (*sūryā*). **NOTE**
+
+Chandas: 1-13, 15-17, 22, 25, 28-33, 35, 38-42, 45-47. अनुष्टुप् (*anuṣṭup*). 14, 19-21, 23-24, 26, 36-37, 44. त्रिष्टुप् (*triṣṭup*). 18, 27, 43. जगती (*jagatī*). 34. उरोबृहति (*urobṛhati*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्येनोत्त॑भिता॒ भूमिः॒ सूर्ये॒णोत्त॑भिता॒ द्यौः ।  
+> ऋ॒तेना॑दि॒त्यास्ति॑ष्ठंति दि॒वि सोमो॒ अधि॑ श्रि॒त ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 342. Manyu-sukta 84 Rks 6-7; sukta 85 introduction (Surya marriage) pp. 337-342
+**Progress note:** Done through printed p. 349. Introduction to Sūryā-sūkta (pp. 343-348), Sūkta 85 intro, Ṛk 1 Saṃhitā
