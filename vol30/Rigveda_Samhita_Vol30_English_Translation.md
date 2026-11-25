@@ -1848,6 +1848,276 @@ That thunderbolt of Indra which is green in colour, exceedingly attractive and m
 ##### English translation
 That is his thunderbolt, yellow, made of iron, the destroyer (of foes) desirable, it is in his hands; (he is) possessed of riches handsome-jawed, possessed of a shaft and anger which destroys (his foes)-many golden-tinted forms are mixed in Indra.
 
+### Printed p. 56
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वि न के॒तुरधि॑ धायि हर्य॒तो वि॒व्यच॒द्वज्रो॒ हरि॑तो॒ न  ॑
+> रंह्या ।  
+> तु॒ददहिं॒ हरि॑शिप्रो॒ य आ॑य॒सः स॒हस्र॑शोका अभवद्धरिंभ॒रः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवि । न । केतुः । अधि । धायि । हर्यतः । विव्यचत् । वज्रः । हरितः । न । रंह्या ।  
+> तुदत् । अहिं । हरिशिप्रः । यः । आयसः । सहस्रशोकाः । अभवत् । हरिंभरः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिव्यंतरिक्षे केतुः प्रकाशेन सर्वस्य प्रज्ञापक आदित्य इव स यथाधि निहितः
+> एवमयमिंद्रोऽधि धायि । अध्यधायि । स्तोतृभिरधि निहितः । किंचेंद्रस्य वज्रो
+> हर्यतः स्पृहणीयः सन् विव्यचत्। व्याप्नोति वाप्तव्यं शत्रुसंघं । तत्र दृष्टांतः।
+> हरितो न हरितवर्णा अध्वाहर्तारो वाश्वा आदित्यसंबंधिनः । ते यथा रंह्या
+> रंहणेन वेगेन व्याप्पुवंति व्याप्तव्यं । योऽस्य वज्र आयसोऽयोविकारोऽहिं
+> वृत्रं मेघं वा तुदत् हिनस्ति । योऽयं महानुभावो हरिशिप्रः सोमपानरभसेन हरितवर्णनासिकस्तद्वर्णहनुर्वा हरिंभरो हर्योर्भर्तेंद्रः सहस्रशोका
+> अभवत् ॥ शुच दीप्तौ li अपरिमितदीप्तिर्भवति ॥
+
+##### Gist of the bhāṣya
+
+Like the sun, which is a केतुः (*ketuḥ*) (a banner), making everything known by its light, set in the sky, so Indra has been set up, placed by his worshippers. Further, Indra's thunderbolt, being desirable (हर्यतः (*haryataḥ*)), pervades, that is, reaches, the host of foes it is to reach. The illustration: as the green-tinted horses that carry the sun along the road traverse by their speed what is to be traversed, so the bolt does. The bolt of iron, a product of iron, strikes Ahi, that is, Vṛtra or the cloud. This great Indra, हरिशिप्रः (*hariśipraḥ*), has either a green-tinted nose from the exhilaration of drinking Soma, or green-tinted jaws; he is हरिंभरः (*hariṃbharaḥ*), the bearer (lord) of the two bay horses, and he became सहस्रशोकाः (*sahasraśokāḥ*): he is of boundless splendour.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवि (*divi*)—in the sky
+- केतुः न (*ketuḥ na*)—like the sun, who is a banner
+- अधि धायि (*adhi dhāyi*)—Indra too has been established
+- रंह्या (*raṃhyā*)—by their speed
+- हरितो न (*harito na*)—as the sun's horses reach their goal
+- हर्यतः (*haryataḥ*)—attractive
+- वज्रः (*vajraḥ*)—the thunderbolt
+- विव्यचत् (*vivyacat*)—approaches the host of foes
+- यः (*yaḥ*)—of which Indra
+- आयसः (*āyasaḥ*)—the thunderbolt made of steel
+- अहिं (*ahiṃ*)—the enemy
+- तुदत् (*tudat*)—strikes, such
+- हरिशिप्रः (*hariśipraḥ*)—having cheeks green from drinking Soma
+- हरिंभरः (*hariṃbharaḥ*)—the lord of horses, Indra
+- सहस्रशोकाः (*sahasraśokāḥ*)—possessing lustre of many kinds
+- अभवत् (*abhavat*)—has become
+
+### Printed p. 57
+
+##### भावार्थ (Bhāvārtha)
+
+As the sun, the banner-like illuminator of the world, is established in the sky, so Indra too is established. As the sun's horses reach their goal by their speed, the attractive thunderbolt approaches the host of foes. Indra, whose steel thunderbolt strikes the enemy, who has cheeks green from Soma-drinking and is the lord of horses, has become possessed of lustre of many kinds.
+
+##### English translation
+He has been placed (by his worshippers) in the sky, like the banner
+(of light, the sun). His desirable bolt reaches (the foe) as bay horses (of the
+sun reach their aim) through speed. The iron (thunderbolt), of indra with
+yellow jaws, which smote Ahi, (he Indra), lord of horses, shone with a
+thousand lustres.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वंत्व॑महर्यथा॒ उप॑स्तुतः॒ पूर्वे॑भिरिंद्र हरिकेश॒ यज्ज॑भिः ।  
+> त्वं ह॑र्यसि॒ तव॒ विश्व॑मु॒क्क्य१॒॑गमसा॑मि॒ राधो॑ हरिजात  ॒
+> हर्यतं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वंत्वं । अहर्यथाः । उपस्तुतः । पूर्वेभिः । इंद्र । हरिजीश । यज्वभिः ।  
+> त्वं । हर्यसि । तव । विश्वं । उक्त्यं । असामि । राधः । हरिजात । हर्यतं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हे हरिकेश हरितरोमवदश्व त्वंत्वं त्वमेव सर्वत्र यज्ञेऽहर्यथाः । अकामयथाः स्तोत्रं हविर्वा । कीदृशस्त्वं । पूर्वभिः पूर्वतनैर्यज्वभिर्यजमानैरुपस्तुतः सन् । हे हरिजात हरितवर्णः सन्प्रादुर्भूत हारकप्रादुर्भाव वा । शत्रुवधार्थं प्रादुर्भूतेत्यर्थः । हे तादृशेंद्र त्वं तव । स्वभूतमिति
+> शेषः । विश्वं व्याप्तं सोमचरुपुरोडाशादिरूपं सर्वं ना । यद्वा! यत्र यानि
+> यानि हवींषि दीयंते तत्सर्वं वा । तथोक्थ्यं प्रशस्यमसाम्यसाधारणमनमं
+> कृत्सं हर्यतं कांतं राधोऽन्नं हविर्लक्षणं हर्यसि । कामयसे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, O हरिकेश (*harikeśa*) (horse with green-tinted hair), you alone, in every sacrifice, have desired the praise-song or the oblation, praised as you are by the ancient sacrificers. O हरिजात (*harijāta*), who have appeared in a green-tinted form, or whose appearance is that of one who carries off (the foe), that is, who have appeared for the slaying of enemies: you desire your own whole offering, pervading all, in the form of Soma, cooked offerings, cakes and the like; or else whatever offerings are given at a sacrifice, all of that. Likewise you desire the praiseworthy, unequalled, undiminished, delightful food (राधः (*rādhaḥ*)), whose nature is the oblation.
+
+### Printed p. 58
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिकेश (*harikeśa*)—having horses with golden hair
+- इंद्र (*iṃdra*)—O Indra
+- पूर्वेभिः (*pūrvebhiḥ*)—ancient
+- यज्विभिः (*yajvibhiḥ*)—by the sacrificers
+- उपस्तुतः (*upastutaḥ*)—praised
+- त्वं त्वं (*tvaṃ tvaṃ*)—you alone
+- आहर्यथाः (*āharyathāḥ*)—you desire the oblation in every sacrifice **NOTE**
+- हरिजात (*harijāta*)—O Indra, who have appeared in a golden form
+- त्वं (*tvaṃ*)—you
+- तव (*tava*)—to be offered to you
+- विश्वं (*viśvaṃ*)—all
+- उक्थ्यं (*ukthyaṃ*)—the praise-song
+- असामि (*asāmi*)—unequalled
+- हरतं (*harataṃ*)—and attractive **NOTE**
+- राधः (*rādhaḥ*)—the oblation-food
+- हरसि (*harasi*)—you desire **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of horses with golden hair, praised by the sacrificers, you alone desire the oblation in every sacrifice. O Indra, who have appeared in a golden form, you desire all the praises that are to be offered to you, and all the unequalled and attractive oblations.
+
+##### English translation
+Indra, with horses of yellow locks, when praised by ancient
+worshippers, you desired the oblation; you who are manifested of a golden hue
+desire your universal praise, your peculiar and delightful (sacrificial) food.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता व॒ज्रीणं॑ मं॒दिनं॒ स्तोम्यं॒ मद॒ इद्रं॒ रथे॑ वहतो ॒ ॑
+> हर्य॒ता हरी॑ ।  
+> पु॒रूण्य॑स्मै॒ सव॑नानि॒ हर्य॑त॒ इंद्रा॑य॒ सोमा॒ हर॑यो  
+> दधन्विरे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ता । वज्रेणं । मंदिनं । स्तोम्यं । मदे । इंद्रं । रथे । वहतः । हर्यता । हरी  
+> इति ।  
+> पुरूणि । अस्मै । सवनानि । हर्यते । इंद्राय । सोमाः । हरयः । दधन्विरे ॥ ६ ॥
+
+### Printed p. 59
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ता तौ प्रसिद्धौ हर्यता हर्यतौ गंतारौ कांतौ वा हरी हरितवर्णावश्नौ
+> मुंदिनं मोदमानं स्तोम्यं स्तुत्यर्हं वज्रीणमिंद्रं मदे निमित्ते रथे वहतः ।
+> धारयतः । यज्ञमस्मदीयं प्रापयतः । अस्मै हर्यते कांतायेंद्राय पुरूणि
+> बहूनि सवनानि प्रातरादीनि हरयो हरितवर्णाः सोमा दधन्विरे । निधीयंते ॥
+
+##### Gist of the bhāṣya
+
+Those well-known, desirable (going or lovely) two bay horses, green-tinted, carry in the chariot Indra, the rejoicing one, worthy of praise, the wielder of the thunderbolt, for the exhilaration (मदे (*made*)); that is, they bear him and bring our sacrifice to him. For this lovely Indra many libations, the morning and the other ones, and green-tinted Soma-juices are stored up, deposited.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ता (*tā*)—those well-known
+- हर्यता (*haryatā*)—attractive
+- हरी (*harī*)—green-tinted horses
+- मंदिनं (*maṃdinaṃ*)—the joyful
+- स्तोम्यं (*stomyaṃ*)—the praiseworthy
+- वज्रिणं (*vajriṇaṃ*)—the wielder of the thunderbolt
+- इंद्रं (*iṃdraṃ*)—Indra
+- मदे (*made*)—for joy
+- रथे (*rathe*)—in the chariot
+- वहतः (*vahataḥ*)—bring
+- हर ते (*hara te*)—having an attractive form **NOTE**
+- अस्मै इंद्राय (*asmai iṃdrāya*)—for this Indra
+- पुरूणि (*purūṇi*)—abundant
+- हरयः (*harayaḥ*)—green-tinted
+- सवनानि (*savanāni*)—fit for the sacrifice
+- सोमाः (*somāḥ*)—Soma-juices
+- दधन्विरे (*dadhanvire*)—are stored up
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known, attractive, green-tinted horses carry Indra, the joyful, praiseworthy wielder of the thunderbolt, in the chariot for joy. For Indra of attractive form, abundant, green-tinted Soma-juices fit for the sacrifice are stored up.
+
+##### English translation
+These two delightful bay horses bring the thunderer, the rejoicing and laudable Indra, in his car to the exhilaration (of the soma); for him the beloved one, many libations of the yellow-tinted Soma-juices are stored up.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अरं॒ कामा॑य॒ हर॑यो दधन्विरे स्थि॒राय॑ हिन्व॒न्हर॑यो॒ हरी॑  ॒
+> तुरा ।  
+> अर्व॑द्भि॒र्यो हरि॑भि॒र्जोष॒मीय॑ते॒ सो अ॑स्य॒ कामं॒ हरि॑वंतमानशे ॥ ७ ॥
+
+### Printed p. 60
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरं । कामाय । हरयः । दधन्विरे । स्थिराय । हिन्वन् । हरयः । हरी इति । तुरा।  
+> अर्वत्भिः । यः । हरिभिः । जोषं । ईयते । सः । अस्य । कामं । हरिवंतं  
+> आनशे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरमलं पर्याप्तं कामायेंद्रकामनाय हरयो हरितवर्णाः सोमा
+> दधन्विरे । ते च हरयः स्थिराय युद्धेऽपलयितायेंद्राय तुरा तुरौ त्वरमाणौ
+> हरी अश्वा हिन्वन् । प्रेरयंति । योऽर्वद्भिररणकुशलैर्हरिभिरश्वैर्जोषं शूरैः
+> सेव्यं संग्राममीयते गच्छति स रथोऽस्येंद्रस्य स्वभूतं कामं कमनीयं
+> हरिवंतं सोमवंतं यज्ञमानशे । व्याप्प्नोति ॥
+
+##### Gist of the bhāṣya
+
+Green-tinted Soma-juices are stored up in plenty for Indra's desire, that is, to satisfy him. Those green-tinted juices urge on the two swift horses for Indra, who is steadfast and does not flee in battle. The chariot that goes with spirited green-tinted horses to the battle, to which brave men resort (जोषं (*joṣaṃ*)), that same chariot reaches Indra's own desirable sacrifice, the one furnished with Soma (हरिवंतं (*harivaṃtaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरं (*araṃ*)—complete
+- कामाय (*kāmāya*)—for (Indra's) satisfaction
+- हरयः (*harayaḥ*)—green-tinted Soma-juices
+- दधन्विरे (*dadhanvire*)—are stored up
+- हरयः (*harayaḥ*)—those same Soma-juices
+- स्थिराय (*sthirāya*)—to carry Indra, who stands firm in battle
+- तुरा (*turā*)—swift
+- हरी (*harī*)—the horses
+- हिन्सन् (*hinsan*)—urge on **NOTE**
+- यः (*yaḥ*)—whose chariot of Indra
+- अर्वद्भिः (*arvadbhiḥ*)—swift
+- हरिभिः (*haribhiḥ*)—together with horses
+- जोषं (*joṣaṃ*)—to the battle frequented by heroes
+- ईयते (*īyate*)—goes
+- सः (*saḥ*)—that same chariot
+- अस्य (*asya*)—to Indra
+- कामं (*kāmaṃ*)—the desired
+- हरिवंतं (*harivaṃtaṃ*)—furnished with Soma, sacrifice
+- आनशे (*ānaśe*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+For Indra's complete satisfaction green-tinted Soma-juices are stored up. Those same juices urge the horses to carry Indra, who is steadfast in battle. The chariot of Indra that goes with swift horses to the battle frequented by heroes, that same chariot enters also the sacrifice desired by Indra and furnished with Soma.
+
+##### English translation
+Yellow-tinted (Soma-juices) are stored up sufficient for his desire, the yellow-tinted juices urge his two swift bay horses for the stalwart (Indra). His (chariot) which rushes with spirited bay horses to the conflict, has reached his desire (the sacrifice) in which the Soma is presented.
+
+### Printed p. 61
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरि॑श्मशारु॒र्हरि॑केश आय॒सस्तु॑र॒स्सेये॒ यो ह॑रि॒पा अव॑र्धत ।  
+> अर्व॑द्भि॒र्यो हरि॑भिर्वा॒जिनी॑वसु॒रति॒ विश्वा॑ दुरि॒ता षारि॑ष॒द्धरी॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरिश्मशारुः । हरिःकेशः । आयसः । तुरःपेये । यः । हरिपाः । अवर्ध त ।  
+> अर्वत्भिः । यः । हरिभिः । वाजनीवसुः । अति । विश्वा । दुःइता । पारिषत् ।  
+> हरी इति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिश्मशारुर्हरितवर्णश्मश्रुर्हरिकेशो हरितवर्णकेश अयसोऽयोमयहृदयः । शत्रूणां घातक इत्यर्थः । एतादृशो य इंद्रस्तुरस्सेये तूर्णं पातन्ये
+> सोमे हरिपा हरितवर्णसोमपा अवर्धत वर्धते यश्चार्वद्भिर्गृंतृभिर्हरिभिरश्वैः
+> सोमैर्वा वाजिनीवसुः । वाजिनमन्नं हविर्लक्षणं । तदस्या अस्तित्वि वाजिनी क्रिया ।
+> सैव वसु धनं यस्य स तथोक्तः । यज्ञधन इत्यर्थः । यद्वा । वाजिनमेव वाजिनी ।
+> तदेव धनं यस्य । स एवमुक्तलक्षण इंद्रो हरी रथे योजयित्वा विश्वा विश्वानि
+> सर्वाणि दुरितास्माकं दुरितानि पारिषत् । पारयतु ॥ पारयतेर्लॆटि सिप्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+Indra has green-tinted beard and green-tinted hair, and a heart of iron, that is, he is the slayer of enemies. This Indra grows strong at the swift drinking (तुरस्सेये (*turasseye*)) of Soma, drinking the green-tinted Soma. He is also वाजिनीवसुः (*vājinīvasuḥ*), through the praisers, the horses or the Soma-juices. *vājinaṃ* is food, the oblation; the action possessing it is वाजिनी (*vājinī*); that is his wealth: his wealth is the sacrifice. Or else *vājinaṃ* itself is वाजिनी (*vājinī*), and that itself is his wealth. Such an Indra, having yoked his two bay horses to the chariot, is to carry us across all our troubles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयसः (*āyasaḥ*)—having a heart hard towards enemies **NOTE**
+- हरिश्मशारुः (*hariśmaśāruḥ*)—having golden facial hair
+- हरिकेशः (*harikeśaḥ*)—having golden hair
+- यः (*yaḥ*)—which Indra
+- तुरस्सेये (*turasseye*)—at the time of drinking Soma swiftly
+- हरिपाः (*haripāḥ*)—drinking the green-tinted Soma
+- अवर्धत (*avardhata*)—grows strong
+- यः (*yaḥ*)—who
+- अर्वद्भिः (*arvadbhiḥ*)—swift
+- हरिभिः (*haribhiḥ*)—with the help of horses
+- वाजिनीवसुः (*vājinīvasuḥ*)—who has wealth in the form of the oblation, that Indra
+- हरी (*harī*)—having yoked his horses to the chariot
+- विश्वा दुरिता (*viśvā duritā*)—all paths of sorrow
+- पारिषत् (*pāriṣat*)—may he carry (us) across
+
 ---
 
-**Progress note:** Done through printed p. 55. pp. 50-55 (batch API)
+**Progress note:** Done through printed p. 61. pp. 56-61 (batch API)
