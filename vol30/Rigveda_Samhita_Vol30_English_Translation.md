@@ -39635,6 +39635,266 @@ Let the radiant (Surya) drink much sweet Soma juice, bestowing un-broken life up
 > अर्पितं ।  
 > अमित्रहा । वृत्रहा । दस्युहन्तमं । ज्योतिः । जज्ञे । असुरहा । सपत्नहा ।
 
+### Printed p. 1155
+#### Ṛk 2 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विभ्राड्विभ्राजमानं बृहत्प्रौढं सुभृतं सुपुष्टं वाजसातमं वाजस्यान्नस्य
+> बलस्य ना दातृतमं धर्मनर्मणि वायुना धारयितव्ये दिवो द्युलोकस्य धरुणे
+> धारके सूर्यमंडलेर्पितं निक्षिप्तं सत्यमविनश्वरममित्रहामित्राणामप्रियाणां
+> हंतृ वृत्रहा वृत्राणामावृण्वतां हंतृ दस्युहंतमं दस्यूनामुपक्षयित्यणां
+> हंतृतममसुरहासुराणां क्षेप्तृणां घातकं सपत्नहा सपत्नानां सहजशत्रूणामपि घातकमीदृग्भूतं ज्योतिः सौरं तेजो जज्ञे । प्रादुर्भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the words of the verse. The light is विभ्राट् (*vibhrāṭ*), shining; बृहत् (*bṛhat*), mighty; सुभृतं (*subhṛtaṃ*), well nourished; वाजसातमं (*vājasātamaṃ*), the best giver of food or strength. It is to be held up in the atmosphere by the wind (धर्मन् (*dharman*)), and it is placed (अर्पितं (*arpitaṃ*)) in the solar orb, the sustainer (धरुणे (*dharuṇe*)) of the sky. It is सत्यं (*satyaṃ*), imperishable. It slays enemies (अमित्रहा (*amitrahā*)), the Vṛtras, who are covering ones (वृत्रहा (*vṛtrahā*)), and the Dasyus, who are dwellers-near (दस्युहंतमं (*dasyuhaṃtamaṃ*), the best slayer of them). It slays the Asuras, who are hurlers (असुरहा (*asurahā*)), and rivals (सपत्नहा (*sapatnahā*)), even natural foes. Such a light, the solar radiance, is born, that is, appears.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभ्राट् (*vibhrāṭ*)—that which shines
+- बृहत् (*bṛhat*)—that which is mighty
+- सुभृतं (*subhṛtaṃ*)—that which produces good nourishment
+- वाजसातमं (*vājasātamaṃ*)—that which gives food or strength in abundance
+- धर्मन् (*dharman*)—that which is held by the wind in the atmosphere
+- दिवः (*divaḥ*)—of the heavenly world
+- धरुणे (*dharuṇe*)—in the sustaining solar orb
+- अर्पितं (*arpitaṃ*)—that which is placed
+- सत्यं (*satyaṃ*)—that which is imperishable
+- अमित्रहा (*amitrahā*)—that which destroys enemies
+- असुरहा (*asurahā*)—that which slays the Asuras
+- सपत्नहा (*sapatnahā*)—that which destroys competitors
+- ज्योतिः (*jyotiḥ*)—the light or radiance of the sun
+- जज्ञॆ (*jajñè*)—is rising
+
+##### भावार्थ (Bhāvārtha)
+
+The radiance of the sun is rising: very bright and mighty; the bestower in abundance of good nourishment, food or strength; held up by the wind in the atmosphere; placed in the solar orb of heaven; imperishable; destroying enemies; slaying the Asuras and rivals.
+
+##### English translation
+The radiant light is born mighty, well-cheriihed, the abundant bestower of food, eternal, deposited in the supporting sustainer of the sky, the slayer of adversaries, the slayer of the Vitras, abundantly slaying the Dasyus, the slayer of the Asuras, the slayer of rivals
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं श्रेष्ठं॒ ज्योति॑षां॒ ज्योति॑रुत्त॒मं वि॑श्व॒जिद्द॑न॒जिदु॑च्यते  ॒
+> बृ॒हत् ।
+
+### Printed p. 1156
+
+> विश्वभ्राड्भाजो महि सूर्यो दृश उरु पप्रथे सह ओजो  
+> अच्युतं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । श्रेष्ठं । ज्योतिषां । ज्योतिः । उत्तमं । विश्वजित् । धनजित् । उच्यते।  
+> बृहत् ।  
+> विश्वभ्राट् । भ्राजः । महि । सूर्यः । दृशे । उरु । पप्रथे । सहः । ओजः । अच्युतं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं सौरं तेजः श्रेष्ठं प्रशस्यतमं ज्योतिषामन्येषां ग्रहनक्षत्रादीनामपि
+> ज्योतिः प्रकाशकं अत एवोत्तममुत्कृष्टं विश्वजिद्विश्वस्य सर्वस्य जेतृ धनजिद्दनस्य
+> च जेतृ बृहत्प्रभूतमुच्यते । एवं गुणविशिष्टमिति सर्वैरभिधीयते । अपि च विश्वभ्राड्विश्वस्य प्रकाशयिता भ्राजो भ्राजमानो महि महान्सूर्यो दृशे दर्शनायोरु
+> विस्तीर्णं सहस्तमसोऽभिभवित्रच्युतं च्युतिरहितमविनाशमोजस्तेजोरूपं बलं
+> पप्रथे । विस्तारयति ॥
+
+##### Gist of the bhāṣya
+
+This solar radiance is the best (श्रेष्ठं (*śreṣṭhaṃ*)), the most praiseworthy; it is the light that illumines even the other lights, planets, stars and the like; hence it is the highest. It is the conqueror of all (विश्वजित् (*viśvajit*)) and conqueror of wealth (धनजित् (*dhanajit*)), and is called mighty (बृहत् (*bṛhat*)), abundant: so all describe it as endowed with these qualities. Moreover, the all-illuminating (विश्वभ्राट् (*viśvabhrāṭ*)), radiant, great Sūrya spreads out, to be seen, a vast power (सहः (*sahaḥ*), the overcomer of darkness), imperishable (अच्युतं (*acyutaṃ*)), of the nature of lustre (ओजः (*ojaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इदं (*idaṃ*)—this sun's radiance
+- ज्योतिषां (*jyotiṣāṃ*)—than the radiances of the other planets, stars, etc.
+- श्रेष्ठं ज्योतिः (*śreṣṭhaṃ jyotiḥ*)—the light of much greater brilliance
+- उत्तमं (*uttamaṃ*)—that which is excellent
+- विश्वजित् (*viśvajit*)—that which conquers everything
+- धनजित् (*dhanajit*)—that which wins wealth and gives it
+- बृहत् (*bṛhat*)—that which is abundant
+- उच्यते (*ucyate*)—is said (to be); and
+- विश्वभ्राट् (*viśvabhrāṭ*)—illumining the whole world
+- भ्राजः (*bhrājaḥ*)—radiant
+- महि (*mahi*)—great
+- सूर्यः (*sūryaḥ*)—Sūrya
+- दृशे (*dṛśe*)—for the sight of all people
+- उरु (*uru*)—vast
+- सहः (*sahaḥ*)—that which dispels darkness
+- अच्युतं (*acyutaṃ*)—and imperishable
+- ओजः (*ojaḥ*)—the strength of the nature of lustre
+- पप्रथे (*paprathe*)—spreads
+
+##### भावार्थ (Bhāvārtha)
+
+This radiance of the sun is said to be far brighter than all other lights such as planets and stars, and excellent; to obtain for one everything, wealth and the rest; and to pervade everywhere in abundance. This radiant sun, who illumines the whole world, spreads everywhere his own strength, of the nature of lustre, imperishable, destroying the darkness that is spread wide for all people to see.
+
+### Printed p. 1157
+
+##### English translation
+This light, the best of lights, the most excellent, is called the conquerror of all, the conqueror of wealth, mighty; all illumining, radiant, mighty Surya displays to view his vast power, his unfailing lustre.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भ्राज॒इत्योति॑षा॒ स्व१॒ं॑ रग॑च्छो रोच॒नं दि॒वः ।  
+> येने॒मा विश्वा॒ भुव॑ना॒न्याभृ॑ता वि॒श्वक॑र्मणा वि॒श्वदे॑व्यावता ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभ्राजन् । ज्योतिषा । स्वः । अगच्छः । रोचनं । दिवः ।  
+> येन । इमा । विश्वा । भुवनानि । आभृता । विश्वकर्मणा । विश्वदेव्यवता ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य ज्योतिषा तेजसा स्वः सर्वं जगद्विभ्राजन्विभ्राजयन्दिवः संबंधि
+> रोचनं स्थानमगच्छः । प्राप्णोः । विश्वकर्मणा सर्वव्यापारहेतुना विश्वदेव्यावता ।
+> विश्वेषां देवानां हितो यागादिर्विश्वदेव्यः । तद्वता येन सौरेण तेजसेमेमानि
+> परिदृश्यमानानि विश्वा सर्वाणि भुवनान्युदकानि भौमान्याभृता घर्मकाल आभृतानि
+> भवंति । यद्वा । सर्वाणि भूतजातान्याभृता समंताद्भृतानि पोषितानि भवंति । तेन
+> ज्योतिषेत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, illumining the whole world with your light, you have reached the luminous region (रोचनं (*rocanaṃ*)) of heaven. विश्वकर्मणा (*viśvakarmaṇā*) means "the cause of all activity". विश्वदेव्यावता (*viśvadevyāvatā*): the sacrifice and the like beneficial to all the gods is विश्वदेव्यः (*viśvadevyaḥ*), and the light is endowed with it. By that solar radiance all these visible worlds (भुवनानि (*bhuvanāni*)), the terrestrial waters, are drawn up (आभृता (*ābhṛtā*)) in the hot season. Or else: all beings are fully (आभृता (*ābhṛtā*)) nourished. The construction is with "by that light".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Sūrya) विश्वकर्मणा (*viśvakarmaṇā*)—which is the cause of all activities
+- विश्वदेव्यावता (*viśvadevyāvatā*)—which kindles the sacrifices and the like beneficial to all the gods
+- येन (*yena*)—by which solar radiance
+- इमा (*imā*)—visible here to our eyes
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—the waters on the earth
+- अभृता (*abhṛtā*)—are drawn up and held in the summer; [or इमा (*imā*)—those before our eyes; विश्वा भुवनानि (*viśvā bhuvanāni*)—all living beings; अभृता (*abhṛtā*)—are nourished, by which]
+- ज्योतिषा (*jyotiṣā*)—by your radiance
+- स्वः (*svaḥ*)—the whole world
+- विभ्राजन् (*vibhrājan*)—illumining
+- दिवः (*divaḥ*)—belonging to the heavenly world
+- रोचनं (*rocanaṃ*)—to the luminous place
+- अगच्छः (*agacchaḥ*)—you have gone and reached
+
+### Printed p. 1158
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, by your radiance, which is the cause of all activities and sustains the sacrifices and other rites beneficial to all the gods, and by which all the earthly waters before us are drawn up and held in the form of clouds, or all living beings are nourished, by that divine radiance of yours you illumine the whole world and have gone to your luminous place in the heavenly world.
+
+##### English translation
+Illumining the whole (world) with your radiance, you have attained (Surya) the luminous region of heaven, by which (radiance) animating all pious acts and addressed to the universal gods, all living beings are cherished
+
+## Sūkta 171 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं त्यमिति चतुर्यचं विंशं सूक्तं भृगुपुत्रस्येटस्यार्षं गायत्रमैंद्रं ।
+> अनुक्रांतं च । त्व त्यमिटो भार्गवो गायत्रमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta त्वं त्यं (*tvaṃ tyaṃ*), of four Ṛks, the twentieth in this anuvāka, has as seer Iṭa, son of Bhṛgu; the deity is Indra and the metre Gāyatrī. The Anukramaṇī says: त्व त्यमिटो भार्गवो गायत्रमिति (*tva tyamiṭo bhārgavo gāyatramiti*). The viniyoga has been stated already.
+
+##### Anuvāda
+
+This sūkta त्वं त्यं (*tvaṃ tyaṃ*) is the twentieth sūkta in the twelfth anuvāka. It has four Ṛks. Its seer is Iṭa, son of the sage Bhṛgu. The deity is Indra. The metre is Gāyatrī. In the Anukramaṇī it is said: त्वं त्यमिटो भार्गवो गायत्रं (*tvaṃ tyamiṭo bhārgavo gāyatraṃ*). The viniyoga has been stated earlier.
+
+Maṇḍala 10; Anuvāka 12; Sūkta 171. Aṣṭaka 8; Adhyāya 8; Varga 29. Number of Ṛks in the sūkta: 4. Ṛṣi: Iṭa Bhārgava. Devatā: Indra. Chandas: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं त्यमि॒टितो॒ रथ॒मिंद्र॒ प्रावः॑ सु॒तान॑तः ।
+
+### Printed p. 1159
+
+> अशृणोः सोमिनो हवं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । त्यं । इटतः । रथं । इंद । प्र । आवः । सुतवतः ।  
+> अशृणोः । सोमिनः । हवं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र सुतावतः सुतेनाभिषुतेन सोमेन युक्तस्यॆटत इटस्य ॥ सुपां
+> सुलुगिति जसस्तस् ॥ एतत्संज्ञस्यर्षेस्त्यं तं प्रसिद्धं रथं प्रावः । प्रारक्षः । सोमिनः
+> सोमयुक्तस्य मम हवमाह्वानमशृणोः । शृणु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you have protected (प्रावः (*prāvaḥ*), "protected") the well-known chariot of the seer named Iṭa, who is furnished with pressed Soma (सुतावतः (*sutāvataḥ*)). Hear (अशृणोः (*aśṛṇoḥ*)) the invocation of me, who am furnished with Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सुतावतः (*sutāvataḥ*)—who has prepared Soma juice to offer to you
+- इटतः (*iṭataḥ*)—of the seer named Iṭa (of me)
+- त्यं (*tyaṃ*)—the well-known
+- रथं (*rathaṃ*)—chariot
+- प्रावः (*prāvaḥ*)—you have protected
+- सोमिनः (*sominaḥ*)—of me, who have prepared Soma juice
+- हवं (*havaṃ*)—the invocation
+- अशृणोः (*aśṛṇoḥ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have protected the well-known chariot of me, Iṭa, who have kept Soma juice prepared to offer to you. Hear the invocation of me, who have the Soma juice.
+
+##### English translation
+You have protected, Indra. this chariot of Ita, who offered libations; hear the invocation of the presenter of the Snma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं म॒ुखस्य॒ दोध॑तः॒ शिरोऽव॑ त्व॒चो भ॑रः ।  
+> अग॑च्छः सो॒मिनो॑ गृ॒हं ॥ २ ॥
+
+### Printed p. 1160
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । मुखस्य । दोधतः । शिरः । अव । त्वचः । भरः ।  
+> अगच्छः । सोमिनः । गृहं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं मखस्य यज्ञस्य दोधतः कंपमानस्य देवेभ्यः पलायमानस्य
+> शिरः प्रवर्ग्यरूपं त्वचस्त्वगुपलक्षिताच्छरीरादव भरः । अवयुत्य पृथक्कृत्य हृतवानसि।
+> देवेभ्यो निष्क्रांतस्य पुरुषाकारस्य धन्विनो यज्ञस्य शिर इंद्रो वम्रिरूपेण
+> ज्याघातनद्वारा पुरा चिच्छेद । तदभिप्रायेणेदमुक्तं । श्रूयते हि । तस्येंद्रो
+> वम्रिरूपेण धनुर्ज्यामच्चिनद्रुद्रस्य त्वेव धनुरार्त्निः शिर उत्पिपेष स प्रवर्ग्योऽभवदिति । स त्वं सोमिनः सोमवतो मम गृहमगच्छः । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you carried off (भरः (*bharaḥ*)) the head of the trembling (दोधतः (*dodhataḥ*)) sacrifice (मखस्य (*makhasya*)), fleeing from the gods, in the form of the Pravargya, separating it from the body, marked by the skin (त्वचः (*tvacaḥ*)). Indra, in the form of an ant (वम्रि (*vamri*)), formerly cut the bowstring of the sacrifice that had gone out from the gods in human form, bearing a bow, by gnawing it; the verse is said with that in view. For it is heard: तस्येंद्रो वम्रिरूपेण धनुर्ज्यामच्चिनद्रुद्रस्य त्वेव धनुरार्त्निः शिर उत्पिपेष स प्रवर्ग्योऽभवदिति । (*tasyeṃdro vamrirūpeṇa dhanurjyāmaccinadrudrasya tveva dhanurārtniḥ śira utpipeṣa sa pravargyo 'bhavaditi |*). Such as you, come to my house (गृहं (*gṛhaṃ*)), I who have Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वं (*tvaṃ*)—you
+- दोधतः (*dodhataḥ*)—who, abandoning the gods, is fleeing trembling
+- मखस्य (*makhasya*)—of the sacrifice
+- शिरः (*śiraḥ*)—the sacrifice in the form of the Pravargya
+- त्वचः (*tvacaḥ*)—from the skin, that is, from the body
+- अव भरः (*ava bharaḥ*)—you have separated and brought (such as you)
+- सोमिनः (*sominaḥ*)—of me who have Soma juice
+- गृहं (*gṛhaṃ*)—to the house
+- अगच्छः (*agacchaḥ*)—deign to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, from the body of the sacrifice, which, abandoning the gods, was fleeing trembling, you separated and tore out the sacrifice called Pravargya, which is its head. Such as you, deign to come to my house, where Soma juice has been prepared and kept.
+
+##### English translation
+You have carried off the head of the trembling sacrifice from his skin; come to the dwelling of the presenter of the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Formerly the sacrifice, for some reason, abandoned the gods and went away, taking the form of a man. This sacrifice itself is called Rudra. Near this sacrifice, or Rudra, there was a bow. Indra, in the form of the termites, cut the bowstring (jyā) of that bow, that is, the cord. The bow, whose two ends had been joined and tightened with the cord, sprang up with a jerk, because the cord had been cut, and its
+
 ---
 
-**Progress note:** Done through printed p. 1154. pp. 1149-1154 (batch API)
+**Progress note:** Done through printed p. 1160. pp. 1155-1160 (batch API)
