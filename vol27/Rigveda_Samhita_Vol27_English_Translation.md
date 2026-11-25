@@ -15912,6 +15912,148 @@ By such sentences the greatness of the seers belonging to the groups of pitṛs,
 
 With whichever rays of Āditya our pitṛs, doers of excellent deeds, attained union, and with those rays reached the world of Brahmā, may those rays favour us. Those who gave fees generously in the sacrificial rite have reached the excellent world. Those who gave the gift of a horse have reached the world of the sun. Those who have done such excellent deeds are able to protect even Āditya. "O Yama, take the ascetic seers to such an excellent world"—thus it is prayed, and so on.
 
+### Printed p. 435
+
+> पृथिव्याः सदस्ये अंगिरस्त्वत्पेचुस्ताभिरेवैनामेतत्पचति तानि ह तानि नक्षत्राण्येव नक्षत्राणि वै जनयो ये हि जनाः पुण्यकृतः स्वर्गं लोकं यंति
+> तेषामेतानि ज्योतिग्ंषि नक्षत्रैरेवैनामेतत्पचति ॥
+
+(Śa. Brā. 6-54-8)**NOTE**
+
+Those divine women, like the Aṅgirases, cooked in the lap of the earth. With their help he too now cooks. The divine women who in former times honoured the gods through their excellent works are the very ones who now shine in the form of stars. The fathers who in former times attained divinity and reached the atmosphere are the ones who now shine as stars. It is praised that those very stars are helping this sacrificer also.
+
+On the whole, the description of these fathers who attained divinity is the most abundant. Their world may, from a gross point of view, be called the world of Yama. (But, by showing the identity of Yama and Āditya in many contexts, it was stated earlier, when Yama was being explained, that the world of Āditya is itself the world of Yama.) This lower world of theirs consists of the worlds of the fathers who performed ordinary good works. But the other two worlds are the ones that are praised more. The description and praise of these most excellent worlds is as follows.
+
+> यत्र ज्योतिरजस्रं यस्मिल्लोके स्पर्धितं ।
+
+(Ṛ. Saṃ. 9-113.7)
+
+> यत्र राजा वैवस्वतो यत्रावरोधनं दिवः ।
+> यत्रामूरह्वतीरापस्तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥
+> यत्रानुकामं चरणं त्रिनाके त्रिदिवे दिवः ।
+> लोका यत्र ज्योतिष्मंतस्तत्र मामृतं कृधींद्रायेंदो परि स्रव ॥
+> यत्र कामा निकामाश्च यत्र ब्रध्नस्य विष्टपं ।
+> स्वधा च यत्र तृप्तिश्च तत्र मामृतं कृधींद्रायेंदो परि स्रव ॥
+> यत्रानंदाश्च मोदाश्च मुदः प्रमुद आसते ।
+> कामस्य यत्राप्राः कामास्तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥
+> कामस्य यत्राप्राः कामास्तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥
+
+(Ṛ. Saṃ. 8. 113 8-11)**NOTE**
+
+In the world where Āditya is established and the divine light shines eternally; where Yama, son of Vivasvat, is the lord; where there is the inner dwelling of Āditya; where there are eternal streams of water; in the third region, the heaven-world, where Āditya moves about as he wishes; where there is eternal bliss; where there is well-being and the satisfaction of desires and eternal bliss, there make me immortal — thus the prayer is made.
+
+### Printed p. 436
+
+This place, a bliss-giving abode for the Aṅgirases, the Ṛbhus and others, is the most excellent supreme place. Those who dwell here are the ones indicated by the word परासः (*parāsaḥ*). As soon as they leave the body that rests on the earth they obtain divine light and go to that world either in a chariot or by means of wings. (A. Ve. 11. 1. 37)**NOTE** Sometimes the Maruts too carry such beings. (A. Ve. 18. 2. 21-6)**NOTE** Passages such as सं गच्छस्व पितृभिः (*saṃ gacchasva pitṛbhiḥ*) (Ṛ. Saṃ. 10-14-8) show that the world of Yama, king of the fathers, is the destined place of these dead.
+
+> अनतिप्रश्नां मा देवतामत्यप्राक्षीः पुरेतिथ्यै मरिष्यसि न तेस्थीनि चन
+> गृहान् प्राप्स्यंतीति .... ....
+
+(Ca. Brā. 11. 6. 3. 11)**NOTE**
+
+Passages such as this show the connection between the burning of the dead body and the going of the departed spirits to the divine world of Yama. These accounts apply only to beings who performed the most excellent good works. But what is the course of the other beings? What paths do they travel after death? These matters too must now be examined.
+
+When the dead go to the world of Yama, they have to cross there the Sārameyas (dogs), which have four eyes and long noses and are terrible. The departed is instructed to cross those terrible Sārameyas and quickly reach the presence of Yama. It is also stated that those same dogs protect the departed who have gone to Yama and joined him. यमसंबुधिनौ श्वानौ प्रेतस्य बाधकौ तौ परित्यज्य समीचीनेन मार्गेण प्रेतं नय (*yamasaṃbudhinau śvānau pretasya bādhakau tau parityajya samīcīnena mārgeṇa pretaṃ naya*): Agni is prayed to lead the departed to Yama, taking him across the dogs of Yama that harm the departed. (Ṛ. Saṃ. 10-14-10). And ताभ्यामेनं परि देहि (*tābhyāmenaṃ pari dehi*) (10-14-11): Yama is prayed to hand this departed one over to those dogs for his protection. Moreover, उरूणसावसुतृपा उदंबलौ यमस्य दूतौ चरतो जना अनु (*urūṇasāvasutṛpā udaṃbalau yamasya dūtau carato janā anu*) (10-14-12): the description that those dogs, fattened by sucking the blood of living beings, always move about with their eyes on living beings, also shows their terrible form. Since these two points are stated, the purport may be that they protect doers of good works and harm doers of bad works. (What the true nature of those Sārameyas may be has been stated earlier.)
+
+But the matter of precedence for doers of good and punishment for doers of evil is nowhere stated precisely in the Ṛksaṃhitā.
+
+### Printed p. 437
+
+Only in places such as यद्दक्षिणो वेद्यंतः स यत्साधु करोति तदंतर्वेद्यथ यदसाधु (*yaddakṣiṇo vedyaṃtaḥ sa yatsādhu karoti tadaṃtarvedyatha yadasādhu*) (Śa. Brā. 11-2-7-33) is this difference clearly stated. What good state is attained by the righteous and what happiness they have there has been explained above. The unrighteous do not have this status. As to what fruit they obtain: it is arrival in hell. The Ṛksaṃhitā does not describe the nature of hell as the Purāṇas and other works do. Even so, situations are described in which they have no good state and are to be thrust into a dark nether world. Only a few of these are cited here.
+
+> अभ्रातरो न योषणो व्यंतः पतिरिपो न जनयो दुरेवाः ।
+> पापासः संतो अनृता असत्या इदं पदमजनता गभीरं ॥
+
+(Ṛ. Saṃ. 4-5-5)
+
+In this verse the world obtained by the most sinful is declared to be a deep, dark world. The suffering that befalls along with it is also described. May the greatest suffering come upon people who are of false mind, untruthful, and who have practised other kinds of sin. Like a helpless woman without protectors, and like a woman hated by her husband, may these sinful beings wander without refuge in this darkness.
+
+> इंद्रा सोमा दुष्कृतो वव्रे अंतरनारंभणे तमसि प्र विध्यतं ।
+> यथा नातः पुनरेकश्चनोदयत्तद्वामस्तु सहसे मन्युमच्छवः ॥
+
+(Ṛ. Saṃ. 7. 104. 3)
+
+O Indra and Soma, thrust the wicked rākṣasas, who led an evil life, into the bottomless dark world. May not one of them rise up again, and so on. Although in such prayers there is the idea of hell, it is not clear that this is the fixed place for the departed dead.
+
+As described in the Ṛksaṃhitā passages, the sinful are all those who do not perform sacrificial rites.
+
+*adevayuḥ* — those who do not perform worship of the gods and the like as prescribed.
+ब्रह्मद्विषः (*brahmadviṣaḥ*) — those who revile hymns of praise and those who praise.
+अव्रताः (*avratāḥ*) — those without sacrificial and other rites.
+असुन्वतः (*asunvataḥ*), अप्पणतः (*appaṇataḥ*), अशसः (*aśasaḥ*) — those who do not offer oblations such as Soma; those who do not recite hymns of praise.**NOTE**
+
+All these are regarded as the most sinful. They may belong to the group of humans or to the group of asuras and the like. For all of them many
+
+### Printed p. 438
+
+kinds of punishments are prescribed. "O Agni, do not favour those without rites, and punish such people" — thus Agni and all the other gods are prayed to. (1. 150. 2; 3. 18. 2; 10. 38. 3 etc.). Just as freedom, which brings happiness, is described for doers of meritorious works, so for the most sinful bondage, which brings suffering, is described in the same manner. The words पाश (*pāśa*), रज्जु (*rajju*), प्रसति (*prasati*), बंध (*baṃdha*) and the like denote such bondage. Just as happiness and freedom are possible in worlds such as heaven, so this bondage must be experienced in a world corresponding to it. The words वव्र (*vavra*), गाध (*gādha*), तमः (*tamaḥ*) and the like indicate the nature of this world. The use of the words वव्र (*vavra*) and गभीर (*gabhīra*) and their purport are shown in the mantras cited above. (Ṛ. Saṃ. 4. 5. 5; 7. 104. 3). These indicate only a world full of darkness. That which is the opposite of the heaven-world is the hell-world — this is stated precisely only in the Atharvaveda. (A. Ve. 12. 4. 36).**NOTE** The description of this hell-world is also clear in a Ṛksaṃhitā passage.
+
+> वि न इंद्र मृधो जहि नीचा यच्छ हृतन्यतः ।
+> यो अस्मा अभिधासत्यधरं गमया तमः ॥
+
+(10. 152. 4)
+
+O Indra, destroy those who harm us. Thrust downward those who wish to fight us. Send whichever enemy attacks us most fiercely to the lowest, deepest pit of darkness, and so on. But there is no description of terrible fire connected with hell, nor any account of other tortures.
+
+Some Western scholars, explaining this point, say that the word वीची (*vīcī*) is a synonym of hell.
+
+> बृहन्मित्रस्य वरुणस्य धाम कदु ब्रव आहनो वीच्या न्हान् ।
+
+(10-10-6)
+
+Here Sāyaṇa too has explained वीच्या (*vīcyā*) as meaning नरकेण (*narakeṇa*). The tortures of hell are described clearly in the Śatapatha Brāhmaṇa.
+
+Bhṛgu, following the direction of his father Varuṇa, travels in the four directions, observing the departed spirits who undergo experiences according to their works, and sees extremely horrible sights: men cutting men to pieces, tearing and eating one another, and similar scenes are described. All these are the torments of hell. In the Jaiminīya Brāhmaṇa
+
+### Printed p. 439
+
+three kinds of heavens and three kinds of hells are set out. (Jai. Brā. 1-42-43-44).**NOTE** The Śatapatha Brāhmaṇa makes clear that good reward for good works and bad experience for bad works are assured in heaven and hell. (Śa. Brā. 6-2-2-27 and 10-6-3-1 etc.).
+
+For reaching heaven and the other worlds, the man's own action alone is not the means. The rite performed on the dead body is also one of these means.
+
+> स एवंविदा दह्यमानः सहैव धूमेन स्वर्गलोकमेतीति विज्ञायते ।
+
+(Āśvalāyana Gṛhya Sūtra 4-4-7)
+
+It is said that only if he is burnt as prescribed does the person within that body go to heaven; but in the Ṛksaṃhitā no such rule is laid down anywhere. It is described that all of them, whether burnt by fire or not burnt by fire, sit in heaven and are satisfied with svadhā (Ṛ. Saṃ. 10-15-14). The view that the earth is the support of the dead man's body is also stated in many places.
+
+> पितृणाग्ं सदनमसीति बर्हिरव स्तृणाति पितृदेवत्या २ ग्ग् हैतद्यन्निखातं
+
+(Tai. Saṃ. 6-3-4-2)
+
+> शुंधंतां लोकाः पितृषदना इति पितृदेवत्यो वै कूपः खातस्तमेवैतन्मेध्यं करोति ॥
+
+(Śa. Brā. 3-6-1-13)
+
+The pit dug near the sacrificial altar for the rite is most excellent. This pit is the dwelling place of the fathers, and so on; it is described thus in many places. The rice-balls and other offerings made to the departed are not offered in fire to be carried to heaven. In many contexts the earth is dug and they are put into the pit. But there is a difference between the balls offered at the śrāddha and those offered immediately after death. A man does not go to heaven and join the world of the fathers immediately upon dying. The śrāddha to be performed up to one year after death, and its resolve, are different. It also differs from the balls offered to father, grandfather, great-grandfather and the like. There is a belief that for one year the spirit of the dead remains near the earth. But the Ṛksaṃhitā does not state this distinction. As soon as he dies the man certainly joins the former fathers. Even if there is a difference between a father and the state of a departed spirit, there is no support for the idea that the dead man has come to the earth in the form of a bhūta (piśāca) for the fulfilment of his desires; it is only described that the fathers come to the earth to receive śrāddha and the like.
+
+### Printed p. 440
+
+> इदं पितृभ्यो नमो अस्त्वद्य ये पूर्वासो य उपरास ईयुः ।
+> ये पार्थिवे रजस्या निषत्ता ये वा नूनं सुवृजनासु विक्षु ॥
+
+(Ṛ. Saṃ. 10. 15. 2)
+
+May our homage be offered to the fathers who have gone and joined the world of the fathers. Whether they were older than we by birth, or younger than we, after death, having joined the world of the fathers, they are venerable to us all. May our homage be offered to such fathers, and to the fathers who have come to the earthly world at the time of our śrāddha — thus the fathers who have come to the earth are indicated.
+
+Moreover, if certain sinful acts are committed, there is no attainment of the world of the fathers for a fixed time. For example:
+
+> इति योऽपगुरातै शतेन यातयाद्यो निहनत्सहस्रेण यातयाद्यो
+> लोहितं शरवद्यावतः प्रस्कद्य पाग्ं सून्त्यंगृह्णात्तावतस्संवत्सरान् पितृ
+> लोकं न प्रजानादिति ॥
+
+(Kṛ. Saṃ. 2. 6. 10. 2).**NOTE**
+
+Those who strike, hurt and fell venerable persons: if such people die, they do not at once attain the excellent world. For as many years as the number of grains of sand moistened by the drops of blood that fall to the ground, the spirits of those dead cannot reach the world of the fathers; they must wander in the earthly world itself. But they cannot be called piśācas as described in the Purāṇas and elsewhere. Even though the word पैशाच (*paiśāca*) occurs in Vedic passages, it should be understood as an evil power belonging to the group of rākṣasas and the like.
+
+3. Rebirth and transmigration
+
+According to some scholars there is no basis in the Ṛksaṃhitā for the view that a man who has died takes an earthly body again and is born on the earth. Others argue that there are passages indicating that rebirth is self-evident. Along with the directions that his spirit must reach heaven or hell according to his works, whether there are passages in the Saṃhitās prescribing that he be born again on the earth according to each one's works is the matter to be examined in the present context.
+
+> सं गच्छस्व पितृभिः सं यमेनेष्टापूर्तेन परमे व्योमन् ।
+> हित्वायावद्यं पुनरस्तमेहि संगच्छस्व तन्वा सुवर्चाः ॥
+
+(Ṛ. Saṃ. 10-14-8)
+
 ---
 
-**Progress note:** Done through printed p. 434. pp. 429-434 (batch API)
+**Progress note:** Done through printed p. 440. pp. 435-440 (batch API)
