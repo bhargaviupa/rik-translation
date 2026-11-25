@@ -1814,6 +1814,284 @@ Indra desiring to bestow (wealth) is attracted by the inhabitants of heaven and 
 > हवः । एषां । असुरः । नक्षत । द्यां । श्रवस्यता । मनसा । निंसत । क्षां ।  
 > चक्षाणाः । यत्र । सुविताय । देवाः । द्यौः । न । वारेभिः । कृणवंत । स्वैः ॥ २॥
 
+### Printed p. 77
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषामनुष्ठात्कृणामंगिरसां हव आह्वानशब्दोऽसुर इंद्रस्य प्रेरको द्यां
+> दिवं नक्षत । व्याप्नोत् । तत्रत्या इंद्रसंबंधिनो देवाः श्रवस्यतान्नमिच्छता मनसा
+> क्षां पृथिवीं निंसत । प्राप्तवंतः । यत्र यस्यां पृथिव्यां चक्षाणाः पणिभिरपहृता
+> गाः पश्यंतो देवाः सुविताय सुष्टु हिताय स्मात्मनोऽभ्युदयाय दौर्नादित्य
+> इव वारेभिर्वर्णनीयैः स्वैस्तेजोभिः कृणवंत प्रकाशमकुर्वन् । गवां प्रदानायांधकारमपनेतुमिति शेषः । अथवा । एषां यज्विनामपहृतानां गवां
+> हवोऽसुर इंद्रस्य प्रेरयिता सन्नक्षत । इंद्रप्रेरिता अंगिरसः श्रवस्यतान्नं कीर्तिं
+> वेच्छता मनसा क्षां भूमिं निंसत । अनुष्ठात्कृणां गाः प्रदर्शयितुमित्यर्थः ।
+> इतरत्समानं ॥
+
+##### Gist of the bhāṣya
+
+The call (हव (*hava*)) of these performers, the Aṅgirasas, which impels Indra, pervades (नक्षत (*nakṣata*)) heaven, that is, spreads through it. The gods there, who belong to Indra, with a mind desiring food (श्रवस्यता (*śravasyatā*)) have reached (निंसत (*niṃsata*)) the earth. On that earth the gods, seeing the cows carried off by the Paṇis, for their own good and for their advancement, like the sun, with their own splendours worthy of choice, made light (कृणवंत (*kṛṇavaṃta*)); what is to be supplied is: in order to give back the cows and to drive away the darkness. Or else: the call of these sacrificers, whose cows have been carried off, being the impeller of Indra, pervades; the Aṅgirasas, impelled by Indra, with a mind desiring food or fame, have reached the earth; the meaning is: in order to show the cows of the performers. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—of these Aṅgirasas
+- असुरः (*asuraḥ*)—impelling Indra
+- हवः (*havaḥ*)—this invocation
+- द्यां (*dyāṃ*)—the world of the gods
+- नक्षत (*nakṣata*)—pervades
+- देवाः (*devāḥ*)—the gods
+- श्रवस्यता (*śravasyatā*)—endowed with the wish for food
+- मनसा (*manasā*)—with the mind
+- क्षां (*kṣāṃ*)—the earth
+- निंसत (*niṃsata*)—have approached
+- यत्र (*yatra*)—on which earth
+- चक्षाणाः (*cakṣāṇāḥ*)—those very gods who look upon the cows carried off by the Paṇis
+- सुविताय (*suvitāya*)—for their own and the world's prosperity
+- द्यौः न (*dyauḥ na*)—like the sun
+- वारेभिः (*vārebhiḥ*)—attractive
+- स्वैः (*svaiḥ*)—with their own splendours
+- कृणवंत (*kṛṇavaṃta*)—have caused light
+
+##### भावार्थ (Bhāvārtha)
+
+The invocation of the Aṅgirasas, which impels Indra, pervades the world of the gods. The gods have approached the earth with a mind desirous of food. On the earth where they look upon the cows carried off by the Paṇis, those same gods, for their own and the world's prosperity, have caused light with their own attractive splendours, like the sun.
+
+##### English translation
+The animating invocation of these (Angirasas) pervaded heaven ; (the gods) with minds desirous of food kissed the earth : and there beholding (the lost cattle), the gods for their own benefit made (illumination) like the sun by their own glorious radiance.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यमे॑षाम॒मृता॑नां॒ गीः स॒र्वता॑ता॒ ये कृ॒पणं॑त॒ रत्नं॑,
+
+### Printed p. 78
+
+> धियं च यज्ञं च साधंतस्ते नो धांतु वसव्यगमसामि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । एषां । अमृतानां । गीः । सर्वताता । ये । कृपणंत । रत्नं ।  
+> धियं । च । यज्ञं । च साधंतः । ते । नः । धांतु । वसव्यं । असामि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयमेषाममृतानां यष्टव्यानां देवानां गीः स्तुतिः क्रियत इति शेषः ।
+> ये देवाः सर्वताता सर्वतात् यज्ञे कृपणंत प्रयच्छंति याच्यंते वा रत्नं
+> रमणीयं धनं । धियं चास्मदीयां स्तुतिं च यज्ञं साधंतः साधयंतस्ते
+> नोऽस्मभ्यं वसव्यं वसुसमूहमसाम्यनल्पमसाधारणं वा धांतु । प्रयच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+This praise (गीः (*gīḥ*)) is made of these immortal gods, who are to be worshipped; "is made" is what is to be supplied. The gods who in the sacrifice (सर्वताता (*sarvatātā*)) give (कृपणंत (*kṛpaṇaṃta*)), or are asked for, delightful wealth (रत्नं (*ratnaṃ*)), while they accomplish our praise and our sacrifice, may those gods give (धांतु (*dhāṃtu*)) to us a mass of wealth (वसव्यं (*vasavyaṃ*)) that is abundant or incomparable (असामि (*asāmi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां अमृतानां (*eṣāṃ amṛtānāṃ*)—addressed to these gods
+- इयं गीः (*iyaṃ gīḥ*)—this praise is offered
+- ये (*ye*)—which gods
+- सर्वताता (*sarvatātā*)—in the sacrifice
+- धियं (*dhiyaṃ*)—our praise
+- यज्ञं च (*yajñaṃ ca*)—and the rite
+- साधंतः (*sādhaṃtaḥ*)—making fruitful
+- रत्नं (*ratnaṃ*)—delightful wealth
+- कृपणंत (*kṛpaṇaṃta*)—give
+- ते (*te*)—they
+- नः (*naḥ*)—to us
+- वसव्यं (*vasavyaṃ*)—a mass of wealth
+- असामि (*asāmi*)—in great abundance
+- धांतु (*dhāṃtu*)—may they provide
+
+##### भावार्थ (Bhāvārtha)
+
+This praise is offered to the gods. May those gods who give delightful wealth in the sacrifice, making our praise and our rite fruitful, give us a mass of wealth in great abundance.
+
+##### English translation
+This (is) the praise of these immortal (gods), who bestow wealth at the sacrifice ; perfecting our praise and sacrifice, may they bestow upon us unequalled riches.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तत्त॑ इंद्रा॒यवः॑ पनंता॒भि य ऊ॒र्वं गोमं॑तं॒ तितृ॑त्सान् ।
+
+### Printed p. 79
+
+> सकृत्स्वं १ ये पुरुपुत्रां महीं सहस्रधारां बृहतीं  
+> दुदुक्षन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तत् । ते । इंद्र । आयवः । पनंत । अभि । ये । ऊर्वं । गोमंतं । तित्य  
+> त्सान् ।  
+> सकृत्स्वं । ये । पुरुपुत्रां । महीं । सहस्रधारां । बृहतीं । दुधुक्सन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवायवो मनुष्या अंगिरसस्तत्तदा पनंत । आ सर्वतः पनंत ।
+> सूयंते । येंगिरसो गोमंतमूर्वं संघं सणिभिरपहृतं प्राप्तं तितृत्सान्
+> हिंसितुमैच्छन् ॥ तृदेर्हिंसार्थस्य सनंतस्य लेट्याडागमः । यद्योगादनिघातः ।
+> अभ्यस्तस्वरः ॥ ये चांगिरसः सकृत्त्वं । या सकृत्सूते सा सकृत्वूः । तां
+> सकृत्पजातां पुरुपुत्रां बहोषधिवनस्पतिरूपपुत्रां सहस्रधारां बहुलकामाना.
+> मुत्पादयित्रिं बृहतीं विस्त्रतां महीं भूमिं । यद्वा । पुरुपुत्रां बहोषधिवनस्पतिरूपपुत्रां सहस्रधारां बहुकामवर्षित्रिं महीं महतीं पूज्यां वा
+> बृहतीं परिमाणरहितां दिवं । दुधुक्षन् दुदुहुः । ते पनंतेति संबंधः सकृद्द
+> द्यौरजायतेत्याद्युक्तं । ऋ. ६-४८-२२ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, your men, the Aṅgirasas, then praise (पनंत (*panaṃta*)) on every side; he glosses it as सूयंते (*sūyaṃte*). **NOTE** They are the Aṅgirasas who wished (तितृत्सान् (*titṛtsān*)) to strike (हिंसितुमैच्छन् (*hiṃsitumaicchan*)) the herd (संघं (*saṃghaṃ*)) full of cows (गोमंतमूर्वं (*gomaṃtamūrvaṃ*)) that had been carried off by the Paṇis and reached. And they are also the Aṅgirasas who milked (दुधुक्षन् (*dudhukṣan*), glossed दुदुहुः (*duduhuḥ*)) the earth: the one that bears only once is the once-bearing one (सकृत्वूः (*sakṛtvūḥ*)); her, who has many sons (पुरुपुत्रां (*puruputrāṃ*)) in the form of many herbs and trees, who is a producer of many desires (सहस्रधारां (*sahasradhārāṃ*)), vast (बृहतीं (*bṛhatīṃ*)), the great earth (महीं (*mahīṃ*)). **NOTE** Or else: she who has many sons in the form of many herbs and trees, who showers many desires, the great or worshipful earth, or the heaven, vast, without measure; they milked her. The connection is: those men praise. He adds that this has been stated in सकृद्द द्यौरजायतेत्याद्युक्तं (*sakṛdda dyaurajāyatetyādyuktaṃ*) (Ṛ. 6-48-22) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ये (*ye*)—which Aṅgirasas
+- गोमंतं (*gomaṃtaṃ*)—full of cattle
+- ऊर्वं (*ūrvaṃ*)—the herd (into the cow-pen)
+- तितृत्सान् (*titṛtsān*)—those who wished to rush in and enter
+- ये (*ye*)—which same Aṅgirasas
+- सकृत्त्वं (*sakṛttvaṃ*)—that which came into being only once
+- पुरुपुत्रां (*puruputrāṃ*)—that has sons of many forms
+- सहस्रधारां (*sahasradhārāṃ*)—that furnishes desired things of many kinds
+- बृहतीं (*bṛhatīṃ*)—that is very extensive
+- महीं (*mahīṃ*)—the earth
+- दुधुक्सन् (*dudhuksan*)—those who milked
+- ते (*te*)—and who belong to you
+- ते आयवः (*te āyavaḥ*)—those same human Aṅgirasas
+- तत् (*tat*)—at that time
+- आ (*ā*)—everywhere
+- पनंत (*panaṃta*)—praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Aṅgirasas who wished to rush into the cow-pen full of cattle and enter it, and those same Aṅgirasas who milked the earth, which came into being only once, which has a progeny of herbs and the like of many forms, which furnishes desired things of many kinds and is very extensive, and who belong to you, those same Aṅgirasas
+### Printed p. 80
+praise you everywhere at the time of worship.
+
+##### English translation
+Your men praised (you) then, Indra, (those) who wished to break into the vast (stall) full of cattle; who milked the extensive once-generating earth, mother of many children, the showerer of thousands (of blessings).
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शची॑व॒ इंद्र॒मव॑से कृणुद्व॒मना॑नतं द॒मयं॑तं पृत॒न्यून् ।  
+> ऋ॒भु॒क्षणं॑ म॒घवा॑नं सुवृ॒क्तिं भर्ता॒ यो वज्रं॒ नर्यं॑  ॒
+> पुरुक्षुः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शचीऽवः । इंद्रं ! अवसे । कृणुध्वं । अनानतं । दमयंतं । पृतन्यून् ॥  
+> ऋभुक्षणं । मघवानं । सुवृक्तिं । भर्ता । यः । वज्रं । नर्यं । पुरुक्षुः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शचीवः कर्मवंतो यजमानाः ॥ व्यत्ययेनैकवचनं ॥ इंद्रमवसे
+> रक्षणाय कृणुध्वं । कुरुध्वं। कीदृशमिंद्रं । अनानतं कदाचिदपि परेषामनवनतं
+> पृतन्यून्पतना इच्छतः शत्रून्दमयंतं वशं प्रापयंतं ऋभुक्षणं महांतं
+> मघवानं धनवंतं सुवृक्तिं सुष्टुतिं । यः पुरुक्षुर्बहुशब्द इंद्रो नर्यं
+> नरेभ्यो हितं । असुरविघातित्वात् । तादृशं वज्रं भर्ता बिभर्ति तमिंद्रमवसे
+> कृणुध्वमिति ॥
+
+##### Gist of the bhāṣya
+
+O men of ritual action (शचीवः (*śacīvaḥ*)), sacrificers, make Indra your protection (अवसे (*avase*)). What sort of Indra: one who has never bowed to others (अनानतं (*anānataṃ*)), who brings under his control (दमयंतं (*damayaṃtaṃ*)) enemies who desire battle (पृतन्यून् (*pṛtanyūn*)) **NOTE**, great (ऋभुक्षणं (*ṛbhukṣaṇaṃ*)), wealthy (मघवानं (*maghavānaṃ*)), well praised (सुवृक्तिं (*suvṛktiṃ*)); that Indra who is much sounding (पुरुक्षुः (*purukṣuḥ*), glossed as having many words) and bears the thunderbolt (वज्रं (*vajraṃ*)), which is beneficial to men (नर्यं (*naryaṃ*)) because it destroys the asuras; make that Indra your protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शचीवः (*śacīvaḥ*)—O sacrificers, men of ritual action
+- अनानतं (*anānataṃ*)—who bows to no one
+- पृतन्यून् (*pṛtanyūn*)—enemies
+- दमयंतं (*damayaṃtaṃ*)—who subdues
+- ऋभुक्षणं (*ṛbhukṣaṇaṃ*)—the great one
+- मघवंतं (*maghavaṃtaṃ*)—the wealthy one
+- सुवृक्तिं (*suvṛktiṃ*)—who has excellent praise (and)
+- यः (*yaḥ*)—who
+- पुरुक्षुः (*purukṣuḥ*)—who has much sound
+- वज्रं (*vajraṃ*)—the thunderbolt
+- भर्ता (*bhartā*)—who bears it
+### Printed p. 81
+- नर्यं (*naryaṃ*)—and who is beneficial to men
+- इंद्रं (*iṃdraṃ*)—Indra
+- अवसे (*avase*)—for protection
+- कृणुद्वं (*kṛṇudvaṃ*)—make (him) yours
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, men of ritual action, make Indra your own for your protection: Indra, who bows to no one, who subdues enemies, the great one, the wealthy one, who has excellent praise, who has much sound, who bears the thunderbolt, and who is beneficial to men.
+
+##### English translation
+Celebrators of holy rites, select for your protection Indra the unsubdued, the tamer of hostile hosts; mighty, opulent, much glorified, who, loud-shouting, is the bearer of the thunderbolt, which is friendly to man.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॒वान॑ पुरु॒तमं॑ पुरा॒षाळा वृ॑त्र॒हेंद्रो॒ नामा॑न्यप्राः।  
+> अचे॑ति प्रा॒सह॒स्पति॒स्तुवि॑ष्मा॒न्यदी॑मु॒श्मसि॒ कर्त॑वे॒ कर॒त्तत् ॥ ६ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ववान । पुरुतमं । पुराषाट् । आ । वृत्रहा । इंद्रः । नामानि । अप्राः ।  
+> अचेति । प्रसहः । पतिः । तुविष्टान् । यत् । ईं । उश्मसि । कर्तवे । करत् । तत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निष्केवल्ये यद्वावानेत्येषा धाय्या । सूत्रितं च । यद्वावानेति धाय्या
+> पिबा सुतस्य रसिन इति सामप्रगाथः । आ. ५-१५ । इति ॥ महाव्रतेऽप्येषा । तथैव
+> पंचमारण्यके सूत्रितं च । यद्वावानेति धाय्या सूददोहाः । ऐ.आ. ५-२-२ । इति॥
+> यद्यदा पुरुतममत्यंतं प्रवृद्धतमं वृत्रं ववान हंति पुराषाट्
+> शत्रुपुराणामभिभवितेंद्रः तदानीमानंतरमेव वृत्र हेंद्रो नामान्युदकान्यप्राः ।
+> पूरयति ॥ व्यत्ययेन मध्यमः ॥ सोऽयमिंद्रः प्रासहः शत्रुवाणां प्रकर्षेणाभिभविता पतिः सर्वस्य स्वामी तुविष्टान् । तुवीति बहुनाम तत्सामर्थ्याद्धनं
+> परिगृह्यते । बहुधन इत्यर्थः । ईदृशः सन्नचेति । सर्वैः प्रज्ञातः । स महानिंद्रो
+> यदीं यदेतत्कर्मोश्मसि वयं कामयामहे तत्करत् । करोत्येव । इदं
+> भवत्विदं भवत्विति यत्कामयामहे तत्तदानीमेव करोत्येव नोदास्त इत्यर्थः ।
+> सैतदेव प्रत्यपद्यत यद्वावान पुरुतमं पुराषाळित्यादिकं ब्राह्मणमत्र द्रष्टव्यं ।
+> ऐ. ब्रा- ३-२२ ॥
+> xxix 6
+
+##### Gist of the bhāṣya
+
+In the Niṣkevalya this Ṛk is the dhāyyā. It is laid down in the sūtra: यद्वावानेति धाय्या (*yadvāvāneti dhāyyā*), पिबा सुतस्य रसिन इति सामप्रगाथः (*pibā sutasya rasina iti sāmapragāthaḥ*) (Ā. 5-15). This Ṛk is used also in the Mahāvrata; likewise it is laid down in the fifth Āraṇyaka: यद्वावानेति धाय्या सूददोहाः (*yadvāvāneti dhāyyā sūdadohāḥ*) (Ai. Ā. 5-2-2). When (यत् (*yat*)) Indra, the overcomer of the cities of enemies (पुराषाट् (*purāṣāṭ*)), slays (ववान (*vavāna*)) Vṛtra, the greatest and most grown (पुरुतमं (*purutamaṃ*)), then straightway Indra the Vṛtra-slayer fills (अप्राः (*aprāḥ*)) the waters (नामानि (*nāmāni*), glossed as "waters"). This Indra, the overcomer of enemies in a high degree (प्रासहः (*prāsahaḥ*)), the lord of all, is possessed of much (तुविष्टान् (*tuviṣṭān*)); तुवि (*tuvi*) is a word for "much", and by its force wealth is understood, so the meaning is: possessed of much wealth. Being such, he is known (अचेति (*aceti*)) by all. That great Indra does (करत् (*karat*)) whatever act we desire (उश्मसि (*uśmasi*)): whatever we wish, saying "let this be, let this be", that he does at that very time; he does not neglect it. The Brāhmaṇa beginning सैतदेव प्रत्यपद्यत (*saitadeva pratyapadyata*) is to be seen here (Ai. Brā. 3-22). **GLOSS**
+### Printed p. 82
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुराषाट् (*purāṣāṭ*)—Indra, who destroys the cities of enemies
+- यत् (*yat*)—when
+- पुरुतमं (*purutamaṃ*)—the exceedingly strong Vṛtra
+- ववान (*vavāna*)—he destroyed
+- आ (*ā*)—immediately after that
+- वृत्रहा (*vṛtrahā*)—the destroyer of Vṛtra
+- इंद्रः (*iṃdraḥ*)—Indra
+- नामानि (*nāmāni*)—the waters
+- अप्रा: (*aprā:*)—filled
+- प्रासहः (*prāsahaḥ*)—who defeats enemies
+- पतिः (*patiḥ*)—the lord of all
+- तुविष्मान् (*tuviṣmān*)—Indra, who has abundant wealth
+- अचेति (*aceti*)—is known by all
+- यदीं (*yadīṃ*)—which fruit
+- उश्मसि (*uśmasi*)—we desire
+- तत् (*tat*)—that
+- करत् (*karat*)—Indra accomplishes
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who destroys the cities of enemies, when he destroyed the exceedingly strong Vṛtra, immediately after that, he, the destroyer of Vṛtra, filled the waters. Indra, who defeats enemies, the lord of all, who has abundant wealth, is known by all. May Indra accomplish whatever fruit we desire.
+
+##### English translation
+When Indra, the destroyer of cities, had slain the most mighty (Vritra), then he the Vritra-slayer filled the waters; he was manifest (to all), the subduer of enemies, the lord of all, the most opulent ; may he do that which we desire to have done.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk beginning यद्वावान (*yadvāvāna*) is to be recited as the yājyā mantra among the mantras of the Niṣkevalya-śastra is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra यद्वावानेति धाय्या पिबा सुतस्य रसिन इति साम प्रगाथः (*yadvāvāneti dhāyyā pibā sutasya rasina iti sāma pragāthaḥ*) (Ā. 5-15). That this Ṛk has a use also in the Mahāvrata-iṣṭi is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence यद्वावानेति धाय्या सूददोहाः (*yadvāvāneti dhāyyā sūdadohāḥ*) (Ai. Ā. 5-2-2).
+## Sūkta 75 (Maṇḍala 10)
+**Introduction**
+Introduction to the seventy-fifth sūkta. In this sūkta some rivers, beginning with the river Sindhu, are praised. What rivers are is generally known to everyone. Yāska has explained the derivation of the word nadī in this way—
+नद्यः कस्मान्नदना भवंति शब्दवत्यः (*nadyaḥ kasmānnadanā bhavaṃti śabdavatyaḥ*)
+### Printed p. 83
+नद्यः (*nadyaḥ*) means नदनाः (*nadanāḥ*): because they make a gurgling sound as they flow, they have received the name नद्यः (*nadyaḥ*); so he has said.
+बहुलमासां नैघुंटुकं वृत्तमाश्चर्यमिव प्राधान्येन तत्रेतिहासमाचक्षते । विश्वामित्र ऋषिः सुदासः पैजवनस्य पुरोहितो बभूव ! विश्वामित्रः । सर्वमित्रः । सर्व० संस्कृतं । सुदाः कल्याणदानः । पैजवनः पिजवनस्य पुत्रः । पिजवनः पुनः स्पर्धनीयजवो वामिश्रीभावगतिर्वा । स वित्तं गृहीत्वा विपाट्छुतुद्रोः संभेदमाययौ। अनुययुरितरे! स विश्वामित्रो नदीस्तुष्टाव । गाधा भवत इति । अपि द्विवदपि बहुवत् तद्यद्विपदुपरिष्कात्तद्व्याख्यास्यामः ॥ (*bahulamāsāṃ naighuṃṭukaṃ vṛttamāścaryamiva prādhānyena tatretihāsamācakṣate | viśvāmitra ṛṣiḥ sudāsaḥ paijavanasya purohito babhūva ! viśvāmitraḥ | sarvamitraḥ | sarva0 saṃskṛtaṃ | sudāḥ kalyāṇadānaḥ | paijavanaḥ pijavanasya putraḥ | pijavanaḥ punaḥ spardhanīyajavo vāmiśrībhāvagatirvā | sa vittaṃ gṛhītvā vipāṭchutudroḥ saṃbhedamāyayau| anuyayuritare! sa viśvāmitro nadīstuṣṭāva | gādhā bhavata iti | api dvivadapi bahuvat tadyadvipadupariṣkāttadvyākhyāsyāmaḥ ‖*) (Ni. 9-24) **NOTE**
+Having said that there is a wonderful ancient history concerning the rivers, he describes how the seer Viśvāmitra praised the rivers Vipāś and Śutudrī and obtained their favour. This history, and the conversation that took place between the seer Viśvāmitra and these rivers, we have explained at length in the later part of this introduction.
+Yāska has given the names of the thirty-seven words in the Ṛgveda that denote a river, thus—
+अवनयः । यह्व्यः । खाः । सीराः । स्रोत्याः । एन्यः । धुनयः । रुजानाः । वक्षणाः । खादो अर्णाः । रोधचक्राः । हरितः । सरितः । अग्रुवः । नभन्वः । वध्वः । हिरण्यवर्णाः । रोहितः । सुसुरुतः । अर्णाः । सिंधवः । कुल्याः । वर्याः । उर्व्यः । इरावत्यः । पार्वत्यः । स्रवंत्यः । ऊर्जस्वत्यः । पयस्वत्यः । सरस्वत्यः । तरस्वत्यः । हरस्वत्यः । रोधस्वत्यः । भास्वत्यः । अजिराः । मातरः । नद्यः ॥ (*avanayaḥ | yahvyaḥ | khāḥ | sīrāḥ | srotyāḥ | enyaḥ | dhunayaḥ | rujānāḥ | vakṣaṇāḥ | khādo arṇāḥ | rodhacakrāḥ | haritaḥ | saritaḥ | agruvaḥ | nabhanvaḥ | vadhvaḥ | hiraṇyavarṇāḥ | rohitaḥ | susurutaḥ | arṇāḥ | siṃdhavaḥ | kulyāḥ | varyāḥ | urvyaḥ | irāvatyaḥ | pārvatyaḥ | sravaṃtyaḥ | ūrjasvatyaḥ | payasvatyaḥ | sarasvatyaḥ | tarasvatyaḥ | harasvatyaḥ | rodhasvatyaḥ | bhāsvatyaḥ | ajirāḥ | mātaraḥ | nadyaḥ ‖*) (Ni. 2-24)
+All these are plural words denoting river-names. Their derivation and the meanings of their parts we shall explain when we write the work on the Nirukta.
+Although it is said that all the rivers are praised in this sūkta, the praise of the river Sindhu is the chief part of it. Although the names of many rivers are indicated in the Ṛgveda, the names of the rivers Sindhu and Sarasvatī are recited most often. Sarasvatī has a twofold personality, as a river and as the goddess of speech belonging to the middle region (the atmosphere). In the present sūkta not all the names of the rivers indicated in the Ṛgveda are given. There are more than twenty-one names. Among them are Sindhu, Sarayu
+
 ---
 
-**Progress note:** Done through printed p. 76. Mandala 10, Sukta 73 Rks 9-11, Sukta 74 Rks 1-2 start (pp. 70-76)
+**Progress note:** Done through printed p. 83. Mandala 10 Sukta 74 Rks 2-6 (pp. 77-82); Sukta 75 introduction begins (p. 83)
