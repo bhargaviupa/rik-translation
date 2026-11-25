@@ -10575,6 +10575,204 @@ I offer this adarotation to Surya, to the gods, to Mitra and Varuna, (and to all
 > विश्वानि । अन्यः । भुवना । अभिचष्टे । ऋतून् । अन्यः । विदधत् । जायते ।  
 > पुनरिति ॥ १८ ॥
 
+### Printed p. 395
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कश्चित्तूर्वं गच्छति सूर्यः । अन्यस्तमनुचरति चंद्रमाः । एवं पूर्वापरं
+> पूर्वापर्येण मायया स्वप्रज्ञानेनैतावादित्यचंद्रौ चरतः । गच्छतो दिवि ।
+> तौ शिशू : शिशुवद्भ्रमणाज्जायमानत्वाद्वा शिशू इत्युच्येते । शिशू संतौ क्रीळंतावंतरिक्षे विहरंतावध्वरु परि यातः । यज्ञं प्रति गच्छतः । तयोरन्य आदित्यो
+> विश्वानि भुवनान्यभिचष्टे । अभिपश्यति । ऋतून्वसंतादीनन्यश्चंद्रमा विदधत्कुर्वन्मासानर्धमासांश्च कुर्वन्नर्जायते । यद्युभयोरपि पुनर्जातिरस्ति तथापि
+> सूर्यस्य सर्वदा प्रवृद्धेरुदयो नाभिप्रेतः । चंद्रस्य तु ह्रासवृद्धिसद्भावात्पुनः
+> पुनर्जायत इत्युक्तियुक्ता । चंद्रमा वै जायते पुनः । तै. ब्रा. ३-९.५-४ ।
+> इत्यादिश्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+One goes first, the Sun, and another follows him, the Moon. Thus, in the order of before and after, these two, the Sun and the Moon, move through the sky by māyā, that is, by their own knowledge. They are called children (शिशू (*śiśū*)) either because they move about like children or because they are born again and again. Being children, sporting and wandering in the atmosphere, they go round towards the sacrifice. Of the two, one, the Sun, looks over all the worlds. The other, the Moon, makes the seasons beginning with spring, and also the months and the half-months, and is born. Although both have rebirth, a rising of the Sun by constant growth is not what is meant; but for the Moon, because there is waning and waxing, "born again and again" is fitting. For there is the Vedic text "The moon is born again" (Tai. Brā. 3-9.5-4), and so on. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिशू (*śiśū*)—who are infants
+- एतौ (*etau*)—these Sun and Moon
+- पूर्वापर (*pūrvāpara*)—in turn (one after the other)
+- मायया (*māyayā*)—endowed with their extraordinary knowledge
+- चरतः (*carataḥ*)—move about
+- क्रीळंतौ (*krīḷaṃtau*)—roaming in the atmosphere
+- अध्वरं परि (*adhvaraṃ pari*)—towards the sacrifice
+- यातः (*yātaḥ*)—come
+- अन्यः (*anyaḥ*)—one of the two, the Āditya (Sun)
+- विश्वानि भुवना (*viśvāni bhuvanā*)—all the worlds
+- अभिचष्टे (*abhicaṣṭe*)—looks at
+- अन्यः (*anyaḥ*)—the other, the Moon
+- ऋतून् (*ṛtūn*)—the seasons beginning with spring
+- विदधत् (*vidadhat*)—regulating
+- पुनः (*punaḥ*)—again
+- जायते (*jāyate*)—is born
+
+##### भावार्थ (Bhāvārtha)
+
+These infant Sun and Moon, endowed with their extraordinary knowledge, move about in turn. Roaming in the atmosphere, they come towards the sacrifice. Of them, the Āditya, one of the two, looks at all the worlds. The other, the Moon, regulating the seasons beginning with spring, is born again and again.
+
+##### English translation
+These two (the sun and moon) wandering in thought one after the other, youthful, sportive, approach the sacrifice; one (of them) looks over all worlds, the other regulating the seasons is born repeatedly.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नवो॑नवो भवति॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒त्यग्रं॑ ।
+
+### Printed p. 396
+
+> भागं देवेभ्यो वि दधात्यायन्प्र चंद्रमास्तिरते दीर्घमायुः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नवः नवः । भवति । जायमानः । अह्नां । केतुः । उषसां । एति । अग्रं ।  
+> भागं । देवेभ्यः । वि । दधाति । आयन् । प्र । चंद्रमाः । तिरते । दीर्घं । आयुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतिमूर्तिनाम्न्येकाहे शुक्लपक्षे चांद्रमसीष्टिः । तत्र नवोनव इत्येषा
+> याज्या । सूत्रितं च । नवोनवो भवति जायमानस्तरणिर्विश्वदर्शतः । आ. ९-८ ॥ इति॥
+> अयं चंद्रमा जायमानः प्रतिदिनं जायमान एकैककलाधिक्येनोत्पद्यमानः सन्नवोनवो भवति । प्रतिदिनं नूतन एव भवति । एतत्पूर्वपक्षाद्यभिप्रायं ।
+> तथाह्नां दिवसानां केतुः प्रज्ञापकः प्रतिपदादीनां तिथीनां चंद्रकलाह्रासवृद्धधीनत्वात् । तादृशश्चंद्रमा उषसां प्रभातीनामग्रमेति । एतत्कृष्ण पक्षांताभिप्रायं । केचनैतं पादमादित्यदैवत्यमाहुः । तन्निन्पक्षेह्नां केतुत्वमुषसामग्रगतिश्च प्रसिद्धे । देवेभ्यो भागं हविर्भागं वि दधाति । करोति । उभयपक्षांते ।
+> किं कुर्वन् । आयन् प्रतिदिनं ह्रासवृद्ध्या पक्षांतमभिगच्छन् । एतदर्धमासाभिप्रायं । चंद्रमा उक्तलक्षणो देवो दीर्घमायुस्तिरते । वर्धयति ॥
+
+##### Gist of the bhāṣya
+
+In the one-day rite called Atimūrti, in the bright fortnight, there is the Cāndramasī offering; in it this verse, नवोनव (*navonava*), is the yājyā. And it is stated in the sūtra: नवोनवो भवति जायमानस्तरणिर्विश्वदर्शतः (*navonavo bhavati jāyamānastaraṇirviśvadarśataḥ*) (Ā. 9-8). This moon, being born, that is, rising day by day with the addition of one digit each, becomes ever new, new every day; this is meant for the bright fortnight and the rest. Likewise he is the banner of the days, their indicator, since the tithis beginning with pratipad depend on the waning and waxing of the moon's digits. Such a moon goes at the head of the dawns; this is meant for the end of the dark fortnight. Some say that this pāda is addressed to the Āditya: on that view it is well known that, in the fortnight, the sun is the banner of the days and goes at the head of the dawns. He apportions the share, the share of the oblation, to the gods, at the end of both fortnights. Doing what? Coming, going towards the end of the fortnight each day by waning and waxing: this is meant for the half-month. The moon, the god so characterised, prolongs a long life, that is, makes it grow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चंद्रमाः (*caṃdramāḥ*)—the moon
+- जायमानः (*jāyamānaḥ*)—being born every day
+- नवो नवो भवति (*navo navo bhavati*)—appears ever new
+- अह्नां (*ahnāṃ*)—of the days beginning with the first day of the fortnight
+- केतुः (*ketuḥ*)—the moon, the indicator
+- उषसां अग्रं (*uṣasāṃ agraṃ*)—in front of the dawns
+- एति (*eti*)—goes
+- आयन् (*āyan*)—appearing in his own course
+- देवेभ्यः (*devebhyaḥ*)—to the deities
+- भागं (*bhāgaṃ*)—the share of the sacrifice
+- वि दधाति (*vi dadhāti*)—assigns
+- दीर्घं आयुः (*dīrghaṃ āyuḥ*)—a long life
+- तिरते (*tirate*)—makes grow
+
+##### भावार्थ (Bhāvārtha)
+
+The moon, being born every day, appears new every day. The moon, the indicator of the days beginning with the first day of the fortnight, goes in front of the dawns. Appearing in his daily course, he assigns the share of the sacrifice to the deities. He makes a long life grow.
+
+### Printed p. 397
+
+##### English translation
+New every day (the moon) is born ; the manifester of days he goes in front of the Dawns! he distributes their portion to the gods as he goes ; the moon protracts a long existence.
+
+##### विशेषविषयगळु (Special Topics)
+
+The one-day offering called Atimūrti, when it is performed in the bright fortnight, is named the Cāndramasī offering. That in that offering the Ṛk नवोनवः (*navonavaḥ*) is to be recited as the yājyā mantra is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, नवोनवो भवति जायमानस्तरणिर्विश्वदर्शतः (*navonavo bhavati jāyamānastaraṇirviśvadarśataḥ*) (Ā. 9-8). Yāska has given the Nirukta for this Ṛk:
+
+नवोनवो भवति जायमान इति पूर्वपक्षादिमभिप्रेत्य । अह्नां केतुरुषसामेत्यग्रं इत्यपरपक्षांतमभिप्रेत्य । आदित्यदैवतो द्वितीयः पाद इत्येके । भागं देवेभ्यो विदधात्यायन् इत्यर्धमासेज्यामभिप्रेत्य । प्रवर्धयते चंद्रमा दीर्घमायुः ॥ (*navonavo bhavati jāyamāna iti pūrvapakṣādimabhipretya | ahnāṃ keturuṣasāmetyagraṃ ityaparapakṣāṃtamabhipretya | ādityadaivato dvitīyaḥ pāda ityeke | bhāgaṃ devebhyo vidadhātyāyan ityardhamāsejyāmabhipretya | pravardhayate caṃdramā dīrghamāyuḥ ‖*) (Ni. 11-6)
+
+In a month there are two fortnights, the earlier (waxing) and the later (waning). In each fortnight there are fifteen days. When the moon rises in the days of the earlier fortnight, he rises increased from day to day; that is, the form of the second day is a little larger than the form in which he rose on the first day. In the same way, increasing a little each day, on the fifteenth day, that is, the day of the full moon, he rises as the full moon. The moon who thus rises every day of the earlier fortnight in a different (slightly larger) form is described in this Ṛk by नवो नवो भवति जायमानः (*navo navo bhavati jāyamānaḥ*): he is born every day in a new form. This sentence indicates the course of the moon in the earlier fortnight. Next, the sentence अह्नां केतुरुषसामेत्यग्रं (*ahnāṃ keturuṣasāmetyagraṃ*) indicates the course of the moon in the later fortnight. In the later fortnight the moon's course is contrary to the course in the earlier fortnight: in the later fortnight the form of the moon grows smaller from day to day, and on the last day of the fortnight, the new moon, the moon is not seen at all and stays set. Besides, in the later fortnight the moon does not rise every day in the evening; he rises later each day by two ghaṭikās, rises after sunrise and sets. For this reason it is said here अह्नां केतुरुषसामेतृग्रं (*ahnāṃ keturuṣasāmetṛgraṃ*): after the time of dawn he is seen in the day like a banner. That is, after sunrise
+
+### Printed p. 398
+
+the moon too, though visible, does not shine. Some are of the opinion that this second pāda indicates the Āditya; for at the time of dawn the sun appears first as the banner of the day (at its beginning); that is, the meaning is that the sun rises after the time of dawn as the banner of the day.
+
+Next, for the third pāda, the sentence भागं देवेभ्यो विदधात्यायन् (*bhāgaṃ devebhyo vidadhātyāyan*): the moon distributes to the deities the portions of oblation due to each of them. That is, the moon is the cause of the divisions of time, the earlier and the later fortnight, in every month. In connection with these two fortnights people perform at the end of the fortnight the Darśa (new moon) and Paurṇamāsa offerings. In those offerings the sacrificers offer oblations and the like to the deities. Therefore, as the maker of the divisions of time, and as the moon is the cause of supplying oblations to the deities when the offerings are performed at those times, it is explained here that भागं देवेभ्यो विदधाति (*bhāgaṃ devebhyo vidadhāti*), he distributes the shares of oblation to the deities.
+
+Next, in the fourth pāda, the sentence प्र चंद्रमास्तिरते दीर्घमायुः (*pra caṃdramāstirate dīrghamāyuḥ*), the wish is stated that the moon, possessed of the qualities mentioned above, may give long life also to the sacrificers who perform the sacrifice.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒किं॒शु॒कं श॑ल्म॒लिं वि॒श्वरू॑पं॒ हिर॑ण्यवर्णं सु॒वृतं॑ सुच॒क्रं ।  
+> आ रो॑ह सूर्ये अ॒मृत॑स्य लो॒कं स्को॒नं पत्ये॑ वह॒तुं  ॑
+> कृणुष्ट ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुकिंशुकं । शल्मलिं । विश्वरूपं । हिरण्यवर्णं । सुवृतं । सुचक्रं ।  
+> आ । रोह । सूर्ये । अमृतस्य । लोकं । स्कोनं । पत्ये । वहतुं । कृणुष्ट ॥२०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुकिंशुकं शोभनकिंशुकवृक्षनिर्मितं तथा शल्मलिं शल्मलिवृक्षनिर्मितं
+> विश्वरूपं नानारूपं हिरण्यवर्णं हितरमणीयवर्णं हिरण्यालंकारयुक्तं वा
+> सुवृतं सुष्णुवर्तनं सुचक्रं शोभनचक्रोपेतं रथं हे सूर्य आ रोह ।
+
+##### Gist of the bhāṣya
+
+O Sūryā, ascend the chariot that is made of the excellent kiṃśuka tree and made of the śalmali tree, of many forms, of beautiful colour or provided with golden ornaments, well-turning, and furnished with good wheels.
+
+### Printed p. 399
+
+> अमृतस्य लोकं स्थानं स्कोनं सुखकरं पत्ये सोमाय वहतुं वहसमात्मनः
+> प्रापणं कृणुष्ट । कुरुष्ट । अत्र निरुक्तं । १२-८ । द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+Make the place of the immortal, a comfortable and happy one; for your husband Soma make the vahatu, that is, the means of conveying yourself to him. He says "make" in the sense of "do". On this the Nirukta (12-8) is to be seen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरै (*sūrai*)—O goddess Sūryā
+- सुकिंशुकं (*sukiṃśukaṃ*)—made of the excellent kiṃśuka tree
+- शल्मलिं (*śalmaliṃ*)—made of the śalmali tree
+- विश्वरूपं (*viśvarūpaṃ*)—having many forms
+- हिरण्यवर्णं (*hiraṇyavarṇaṃ*)—having ornaments of gold
+- सुवृतं (*suvṛtaṃ*)—having an excellent covering
+- सुचक्रं (*sucakraṃ*)—having excellent wheels
+- आ रोह (*ā roha*)—the chariot, ascend and sit
+- पत्ये (*patye*)—to your husband
+- वहतुं (*vahatuṃ*)—as you go
+- अमृतस्य (*amṛtasya*)—deathless
+- लोकं (*lokaṃ*)—the world of the gods
+- स्योनं (*syonaṃ*)—agreeable
+- कृणुष्ट्व (*kṛṇuṣṭva*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sūryā, ascend and sit in the chariot made of the excellent kiṃśuka and śalmali trees, having many forms, golden ornaments, an excellent covering and excellent wheels. As you go to your husband, make the deathless world of the gods agreeable.
+
+##### English translation
+Ascend, Surya; the chariot made of good kimshuka wood and of shalmali, multiform, decorated with gold, well-covered, well-wheeled; prepare the happy world of the immortals, yonr marriage procession to your husband.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the Nirukta for this Ṛk:
+
+सुकाशनं शन्नमलं सर्वरूपं । अपि वोपमार्थे स्यात् । सुकिंशुकमिव शल्मलिमिति । किंशुकं क्रंशतेः । प्रकाशयतिकर्मणः । शल्मलिः सुशरो भवति। शरवान्वा । आरोह सूर्ये अमृतस्य लोकमुदकस्य सुखु पत्ये वहतुं कुरुष्ट । सविता सूर्यं प्रायच्छत् सोमाय राजे प्रजापतये वा इति च ब्राह्मणं ॥ (*sukāśanaṃ śannamalaṃ sarvarūpaṃ | api vopamārthe syāt | sukiṃśukamiva śalmalimiti | kiṃśukaṃ kraṃśateḥ | prakāśayatikarmaṇaḥ | śalmaliḥ suśaro bhavati| śaravānvā | āroha sūrye amṛtasya lokamudakasya sukhu patye vahatuṃ kuruṣṭa | savitā sūryaṃ prāyacchat somāya rāje prajāpataye vā iti ca brāhmaṇaṃ ‖*) (Ni. 12-8)
+
+When describing the chariot in which the goddess Sūryā is to ascend and sit, the seer describes it with words such as सुकिंशुकं (*sukiṃśukaṃ*).
+
+### Printed p. 400
+
+सुकिंशुकं (*sukiṃśukaṃ*)—सुष्टु काशनं दीपनं लोकानां । (*suṣṭu kāśanaṃ dīpanaṃ lokānāṃ |*) Shining well, exceedingly resplendent.
+
+शल्मलिं (*śalmaliṃ*)—शन्नमलं व्यपगतमलं । (*śannamalaṃ vyapagatamalaṃ |*) Free from stain, without dirt, pure, clean.
+
+विश्वरूपं (*viśvarūpaṃ*)—सर्वरूपं । (*sarvarūpaṃ |*) Of many kinds, that is, having variegated forms, having various ornaments.
+
+Or the words सुकिंशुकं शल्मलिं (*sukiṃśukaṃ śalmaliṃ*) may be explained also as a comparison. शल्मलि (*śalmali*) means the पालाश (*pālāśa*) tree. किंशुक (*kiṃśuka*) means a flower that has just sprouted. Therefore, for the words सकिंशुकं शल्मलिं (*sakiṃśukaṃ śalmaliṃ*) a comparison is given for the chariot: a chariot that looks like a पालाश (*pālāśa*) tree shining thickly with many red flowers. In this sense the word किंशुक (*kiṃśuka*) is derived from the root क्रंशति (*kraṃśati*), meaning "to shine, to look brilliant", क्रंशकेः प्रकाशयतिकर्मणः । (*kraṃśakeḥ prakāśayatikarmaṇaḥ |*) The word शल्मलि (*śalmali*) is derived from the root शृ (*śṛ*) (हिंसायां (*hiṃsāyāṃ*)), meaning "to injure", शल्मलिः सुशरो भवति शरवान्वा (*śalmaliḥ suśaro bhavati śaravānvā*); it is understood as a tree with thorns.
+
+The meaning of the Ṛk is: O goddess Sūryā, ascending and sitting in such an excellent and comfortable chariot, depart towards the heaven, the world of water (the atmosphere). The author of the Nirukta has quoted the Brāhmaṇa sentence सविता सूर्यां प्रायच्छत् सॊमाय राजे प्रजापतये वा (*savitā sūryāṃ prāyacchat sòmāya rāje prajāpataye vā*). According to this, in the Nirukta view it is expressed that जोत्स्नां सोमाय ददाति (*jotsnāṃ somāya dadāti*), he gave light (moonlight) to Soma (the moon); and in the historical view that उषसं वा मध्यस्थानाय प्रजापतये ददाति (*uṣasaṃ vā madhyasthānāya prajāpataye dadāti*), he gave the goddess Uṣas to Prajāpati (the Sun), the deity of the middle region.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॒र्ष्वातः॒ पति॑वती॒ ह्ये॒३॒॑षा वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिरी॑ळे।  
+> अ॒न्यामि॑च्छ पितृ॒षदं॒ व्य॑क्तां॒ स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईर्ष्व । अतः । पतिवती । हि । एषा । विश्ववसुं । नमसा । गीर्भिः । ईळे ।  
+> अन्यां । इच्छ । पितृसदं । विअक्तां । सः । ते । भागः । जनुषा । तस्य । विद्दि ॥ २१ ॥
+
 ---
 
-**Progress note:** Done through printed p. 394. Ṛk 14 end, Ṛk 15-18 (Saṃhitā, Pada) of Sūkta 85, pp. 388-394
+**Progress note:** Done through printed p. 400. Ṛk 18 Sāyaṇa to Ṛk 21 (Saṃhitā, Pada) of Sūkta 85, pp. 395-400
