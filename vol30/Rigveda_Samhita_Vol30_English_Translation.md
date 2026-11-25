@@ -42172,6 +42172,265 @@ The pāda मृगो न भीमः कुचरो गिरिष्ठा
 
 गिरिः पर्वतः समुद्गीर्णो भवति (*giriḥ parvataḥ samudgīrṇo bhavati*); पर्ववान् पर्वतः (*parvavān parvataḥ*); पर्व पुनःपृणातेः प्रीणातीर्वा (*parva punaḥpṛṇāteḥ prīṇātīrvā*). Giri means a mountain. Because it is higher (samudgīrṇa) than the surrounding regions, the mountain is called giri. Parvata, "पर्ववान् पर्वतः (*parvavān parvataḥ*)", means that which is made up of clusters or heaps. Because stones and rocks lie gathered in many heaps in one place on a mountain, it is called parvata. The word parvata in the sense of cloud has a similar meaning: because clouds are in clusters in the atmosphere, the cloud is called parvata. पर्व पुनः पृणातेः प्रीणातेर्वा अर्धमासपर्व (*parva punaḥ pṛṇāteḥ prīṇātervā ardhamāsaparva*)—देवानस्मिन् प्रीणंतीति (*devānasmin prīṇaṃtīti*); तत् प्रकृतीतरत्संधिसामान्यात् (*tat prakṛtītaratsaṃdhisāmānyāt*); मेघस्थायी (*meghasthāyī*); मेघोऽपि गिरिरेतस्मादेव (*megho 'pi giriretasmādeva*). The word parva is from the root pṛṇāti, meaning "to fill", or from the root prīṇāti, meaning "to please" (the sentence is cut off here).
 
+### Printed p. 1228
+
+because the sandhis (joints) are present, it is called *parvata*. The word *parvata*, in the sense of cloud, has the same explanation: since clouds gather in clusters in the atmosphere, a cloud is called *parvata*. The word पर्व (*parva*) is formed either from the root पृणाति (*pṛṇāti*), meaning "to fill", or from the root प्रीणाति (*prīṇāti*), meaning "to gladden". In mountains, boulders are packed together; in clouds, waters are packed together. Therefore the meaning is that *parvata*, possessing such *parvas*, is formed from the root *pṛṇāti*. For the word *parva* formed from the root *prīṇāti*, the meaning is the half-month (fifteen days). Once in fifteen days the full moon or the new moon comes; this juncture-time is called *parva*. Since at this time the gods are gratified by sacrifices such as the Darśa and Pūrṇamāsa, it can be said that the word *parva* is formed from the root *prīṇāti*, which has this meaning. In both meanings the joint (the *parva*) is common: in one there is the joint of the rocks (boulders), in the other the joint of time (the span of 15 days); so this word *parva*, which denotes a joint, is a common word for both meanings. The cloud too is spoken of by the word *giri*. For just as a *giri* (hill) spreads high in the atmosphere, the cloud too spreads very high in the atmosphere; this is the intention of the etymology.
+
+When the oblation called Vaimṛdha is offered, this Ṛk मृगो न (*mṛgo na*) is to be recited as the Yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra वि नृइंद्र मृधो जहि मृगो न भीमः कुचरो गिरिष्ठाः (*vi nṛiṃdra mṛdho jahi mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*) (Ā. 2-10).
+
+#### Ṛk 3
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ क्ष॒त्रम॒भि वा॒मनोजोऽजा॑यथा वृषभ चर्षणी॒नां ।  
+> अपा॑नुदो॒ जन॑ममित्र॒यंत॑मु॒रुं दे॒वेभ्यो॑ अकृणोरुलो॒कं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । क्षत्रं । अभि । नामं । ओजः । अजायथाः । वृषभ । चर्षणीनां ।  
+> अप । अनुदः । जनं । अमित्रयंतं । उरुं । देवेभ्यः । अकृणोः । ऊं इति ।  
+> लोकं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र क्षत्रं क्षत्रात्रायकं वामं वननीयमोजो बलमभिलक्ष्याजायथाः । उत्पन्नोऽसि । हे वृषभ कामानां वर्षितः चर्षणीनां मनुष्याणामस्माकं॥
+> नामन्यतरस्यामिति नाम उदात्तत्वं ॥ अमित्रयंतं । अमित्रः शत्रुः । स इवाचरंतं
+> जनमपानुदः । अपागमयः । देवेभ्यश्चोरुं विस्तीर्णं लोकं स्वर्गाख्यमकृणोः । अकार्षिः । उशब्दः समुच्चये ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you were born having in view (*abhilakṣya*) a desirable (*vananīyaṃ*) might (ओजः (*ojaḥ*)) that is *kṣatra*, the protector against injury. O Vṛṣabha, rainer of desires, of us men (चर्षणीनां (*carṣaṇīnāṃ*)). The word नाम (*nāma*) has its udātta accent by a rule. अमित्रयंतं (*amitrayaṃtaṃ*): *amitra* is an enemy; the man who behaves like him you drove away (अपानुदो (*apānudo*), "you made him go away"). And for the gods you made a wide (उरुं (*uruṃ*)) world (लोकं (*lokaṃ*)) called heaven (अकृणोः (*akṛṇoḥ*), "you made"). The word ऊ (*ū*) is for combining (*samuccaya*).
+
+### Printed p. 1229
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- क्षत्रं (*kṣatraṃ*)—that protects all
+- वामं (*vāmaṃ*)—and is desired
+- ओजः (*ojaḥ*)—having obtained might
+- अजायथाः (*ajāyathāḥ*)—you have been born
+- चर्षणीनां (*carṣaṇīnāṃ*)—to us, men
+- वृषभ (*vṛṣabha*)—O Indra, giver of what is wished
+- अमित्रयंतं (*amitrayaṃtaṃ*)—who is like an enemy to us
+- जनं (*janaṃ*)—the people
+- अप अनुदः (*apa anudaḥ*)—you have driven away
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- उरु (*uru*)—wide
+- लोकं (*lokaṃ*)—the world of heaven
+- अकृणोः (*akṛṇoḥ*)—you have made
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have been born endowed with a might that is capable of protecting all and is wanted by all. O Indra, who provide us men with all our desired ends, you have driven away the people who are like enemies to us. And you have made the world of heaven for the gods to dwell in.
+
+##### English translation
+You have been born, Indra, endowed with protecting and desirable
+vigour; benefactor of mankind, you drove away the man who was unfriendly
+(to us), you prepared a spacious region for the gods.
+
+## Sūkta 181 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथ इति तृचं त्रिंशं सूक्तं वैश्वदेवं त्रैष्टुभं । वासिष्ठः प्रथसंज्ञ ऋषिः
+> प्रथमायाः । भारद्वाजः सप्रथाख्य ऋषिर्द्वितीयायाः । सूर्यपुत्रो घर्म
+> ऋषिस्कृतीयायाः । तथा चानुक्रांतं । प्रथश्चैकर्चाः प्रथो वासिष्ठः सप्रथो
+> भारद्वाजो घर्मः सौर्यो वैश्वदेवमिति ॥ प्रवर्ग्येऽभिष्टव एतत्तूक्तं । सूत्रितं च ।
+> गणानां त्वा प्रथश्च यस्य । अ. ४-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्रथ इति (*pratha iti*) is a *tṛca* (three Ṛks), the thirtieth sūkta, addressed to the Viśve Devāḥ, in the Triṣṭubh metre. The seer of the first Ṛk is Pratha, of the Vasiṣṭha lineage; of the second, Saprathas, of the Bharadvāja lineage; of the third, Gharma, son of Sūrya. So the Anukramaṇī says: प्रथश्चैकर्चाः प्रथो वासिष्ठः सप्रथो भारद्वाजो घर्मः सौर्यो वैश्वदेवमिति ॥ (*prathaścaikarcāḥ pratho vāsiṣṭhaḥ sapratho bhāradvājo gharmaḥ sauryo vaiśvadevamiti ‖*). This sūkta is used in the Abhiṣṭava of the Pravargya. It is also given in the sūtra: गणानां त्वा प्रथश्च यस्य (*gaṇānāṃ tvā prathaśca yasya*) (Ā. 4-6) **NOTE**.
+
+##### Anuvāda
+
+This sūkta, प्रथः (*prathaḥ*), is the thirtieth sūkta in the twelfth anuvāka. It has three Ṛks. For the first Ṛk of this sūkta the seer is Pratha, of the Vasiṣṭha lineage; for the second Ṛk the seer is Saprathas, of the Bharadvāja lineage; for the third Ṛk the seer is Gharma, son of Sūrya; the deity is the Viśve Devāḥ; the metre is Triṣṭubh. In the Anukramaṇī it is said: Pratha, one-Ṛk (is the first); Pratha Vāsiṣṭha, Saprathas Bhāradvāja, Gharma Saurya; Vaiśvadeva. It is laid down in the Āśvalāyana Śrauta Sūtra, in the sūtra गणानां त्वा प्रथश्च यस्य (*gaṇānāṃ tvā prathaśca yasya*) (Ā. 4-6), that this sūkta is to be recited at the Abhiṣṭava of the Pravargya rite.
+
+### Printed p. 1230
+
+Sūkta 181
+Maṇḍala 10; Anuvāka 12; Sūkta 181; Aṣṭaka 8; Adhyāya 8; Varga 39.
+Number of Ṛks in the sūkta: 3.
+Ṛṣi: 1. Pratha Vāsiṣṭha; 2. Saprathas Bhāradvāja; 7. Gharma Saurya **NOTE**.
+Deity: Viśve Devāḥ.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रथ॑श्च॒ यस्य॑ स॒प्रथ॑श्च॒ नामानु॑ष्टुभस्य ह॒विषो॑ ह॒विर्यत् ।  
+> धा॒तुद्युर्त्या॑नात्सवि॒तुश्च॒ विष्णो॑ रथंत॒रमा ज॑भारा॒ वसि॑ष्ठः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रथः । च । यस्य । सप्रथः । च । नाम । आनुस्तुभस्य । हविषः । हविः । यत् ।  
+> धातुः । द्युतानात् । सवितुः । च । विष्णोः । रथंतरं । आ । जभार । वसिष्ठः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य वसिष्ठस्य प्रथो नाम पुत्रो यस्य भरद्वाजस्य सप्रथो नाम पुत्रः तयोर्मध्ये वसिष्ठ आनुष्टुभस्यानुष्टुप्पंदसा युक्तस्य हविषो घर्माख्यस्य यद्धनिर्हविष्ट्वापादाकं रथंतरं । रथरंहःसाधनं साम तद्रथंतरं । धातुर्धातृसंज्ञाद्देवाद्दुतानाद्योतमानात्सवितुश्च विष्णोश्चा जभार । अजहार । हृतवान् ॥
+> हृग्रहोर्भ इति भत्वं । रथशब्दोपपदात्तरतेः संज्ञायां भृत्यवृजीति खच् ।
+> अरुर्द्विषदजंतस्यॆति मुमागमः ॥
+
+##### Gist of the bhāṣya
+
+Vasiṣṭha, whose son is called Pratha, and Bharadvāja, whose son is called Saprathas: among them, Vasiṣṭha carried off (आ जभार (*ā jabhāra*), अजहार (*ajahāra*), "took away") the रथंतरं (*rathaṃtaraṃ*) of the oblation called Gharma, which is joined to the Anuṣṭubh metre **NOTE**. The Rathantara is the sāman that is the means of the speed (*raṃhas*) of the chariot (*ratha*). He carried it off from the god named Dhātṛ, from the radiant Savitṛ, and from Viṣṇu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Vasiṣṭha-ṛṣi
+- प्रथः नाम (*prathaḥ nāma*)—the one who has a son named Pratha, he
+- सप्रथः (*saprathaḥ*)—and the one named Saprathas, son of Bharadvāja
+- अदन्नु (*adannu*)—
+- वसिष्ठः (*vasiṣṭhaḥ*)—and also the ṛṣi Vasiṣṭha
+- आनुष्टुभस्य (*ānuṣṭubhasya*)—joined to the Anuṣṭubh metre
+- हविषः (*haviṣaḥ*)—of the oblation called Gharma
+- रथंतरं (*rathaṃtaraṃ*)—known by the name Rathantara
+- यत् हविः (*yat haviḥ*)—whatever portion of the oblation there is, that
+- धातुः (*dhātuḥ*)—from the god Dhātṛ
+- द्युतानात् (*dyutānāt*)—radiant
+- सवितुः च (*savituḥ ca*)—and from the god Savitṛ
+- विष्णोः (*viṣṇoḥ*)—from Viṣṇu
+- आ जभार (*ā jabhāra*)—they obtained and brought
+
+### Printed p. 1231
+
+##### भावार्थ (Bhāvārtha)
+
+Pratha, son of Vasiṣṭha, Saprathas, son of Bharadvāja, and the ṛṣi Vasiṣṭha as well, obtained and brought that portion of the oblation which is joined to the Anuṣṭubh metre and known by the name Rathantara, from the god named Dhātṛ, from the radiant god Savitṛ, and from Viṣṇu.
+
+##### English translation
+Vasishtha, whose (son) is Pratha by name, and whose (son) is Sapratha, has (with them) borne away from Dhatri, and from the radiant Savitri, and from Vishnu, the rathanatara portion of the oblation which if offered with the Anushatubh verse.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अविं॑द॒न्ने अति॑हितं॒ यदासी॑द्य॒ज्ञस्य॒ धाम॑ पर॒मं गुहा॒ यत् ।  
+> धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॑र्भ॒रद्वा॑जो बृ॒हदा च॑क्रे  ॒
+> अग्नेः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अविंदन् । ते । अतिहितं । यत् । आसीत् । यज्ञस्य । धाम । परमं । गुहा । यत् ।  
+> धातुः । द्युतानात् । सवितुः । च । विष्णोः । भरत् ऽवाजः । बृहत् । आ । चक्रे । अग्नेः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे धात्रादयस्तदविंदन् अलभंत यद्बृहत्सामाख्यं घर्मस्य हविषः
+> संस्कारकमतिहितं तिरोहितमासीत् । यच्च बृहत्साम यज्ञस्य ज्योतिष्टोमादेः
+> परममुत्कृष्टं धाम धारकं शरीरभूतं वा गुहा गुहायामस्मदादिविषये
+> निहितमासीत् तत्ते धात्रादयोऽलभंत । तेभोग्योऽश्च सकाशात्तद्बृहत्साम भरद्वाज
+> ऋषिरा चक्रे । अभिमुख्येन कृतवान् । आहृतवानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Dhātṛ and the rest, you found (अविंदन् (*aviṃdan*), "obtained") that sāman called Bṛhat, the refiner of the oblation Gharma, which had been hidden (अतिहितं (*atihitaṃ*), "concealed"). And the Bṛhat sāman which is the supreme (excellent) धाम (*dhāma*) of the sacrifice, the Jyotiṣṭoma and the rest—either its supporter or its body—which had been placed in the cave (गुहा (*guhā*)), in the realm of us and others: that Dhātṛ and the rest obtained. From them the seer Bharadvāja brought (आ चक्रे (*ā cakre*), "made it come towards him"), that is, he fetched that Bṛhat sāman.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which portion of the oblation
+- अतिहितं (*atihitaṃ*)—concealed, unknown to anyone
+- आसीत् (*āsīt*)—was
+- यत् (*yat*)—which oblation-portion
+- यज्ञस्य (*yajñasya*)—for the sacrifice, Jyotiṣṭoma and the rest
+- परमं (*paramaṃ*)—excellent
+- धाम (*dhāma*)—is the supporter: that portion of the Gharma oblation called Bṛhat sāman
+
+### Printed p. 1232
+
+- गुहा (*guhā*)—had been hidden; that
+- ते (*te*)—those gods Dhātṛ and the rest
+- अविंदन् (*aviṃdan*)—found out
+- धातुः (*dhātuḥ*)—from the god Dhātṛ
+- द्युतानात् (*dyutānāt*)—radiant
+- सवितुः (*savituḥ*)—from the god Savitṛ
+- विष्णो (*viṣṇo*)—from Viṣṇu
+- अग्नेः च (*agneḥ ca*)—and from Agni too
+- बृहत् (*bṛhat*)—that portion of the oblation called Bṛhat sāman
+- भरद्वाजः (*bharadvājaḥ*)—the seer Bharadvāja
+- आ चक्रे (*ā cakre*)—obtained and brought
+
+##### भावार्थ (Bhāvārtha)
+
+The portion of the Gharma oblation called Bṛhat sāman, which supports sacrifices such as the Jyotiṣṭoma and is quite indispensable, had been hidden in a secret place so that no one knew it. The gods Dhātṛ and the rest found it. Afterwards the seer Bharadvāja took that portion of the oblation, the Bṛhat sāman, which was with Dhātṛ, the radiant Savitṛ, Viṣṇu and Agni, and brought it from them.
+
+##### English translation
+They discovered (the Brihat) which had been put away, the most excellent substance of the sacrifice which was hidden ; Bharadwaja took the Brihat from Dhatri, the radiant Shvitri, Vishnu, and Agni.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते॑ऽविंद॒न्मन॑सा॒ दीध्या॑ना॒ यजुः॑ ष्क॒न्नं प्र॑थ॒मं दे॑व॒यानं॑ ।  
+> धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॒रा सूर्या॑दभरन्घ॒र्ममे॒ते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । अविंदन् । मनसा । दीध्यानाः । यजुः । ष्कन्नं । प्रथमं । देवयानं ।  
+> धातुः । द्युतानात् । सवितुः । च । विष्णोः । आ । सूर्यात् । अभरन् । घर्मं । एते॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते धात्रादयो दीध्याना दीप्यमानाः संतो मनसा बुद्ध्याविंदन् ।
+> अलभंत । किं तत् । यजुर्यागसाधनं स्कन्नं स्कंदनीयमासेचनीयं प्रवृंजनसाधनं प्रथमं मुख्यं देवयानं देवानां प्ताप्ति साधनं घर्मं । एवं
+> धात्रादिभिः प्रथममुपलब्धं तं घर्मं धातुद्र्योतमानात्सवितुर्विष्णोः सूर्याच्चैत ऋत्विज आभरन् । आहरन् । आनीतवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Those, Dhātṛ and the rest, shining (दीध्यानाः (*dīdhyānāḥ*), "blazing"), found (अविंदन् (*aviṃdan*), "obtained") with the mind (मनसा (*manasā*)), that is, with the intellect. What was it? The यजुः (*yajuḥ*), the means of the sacrifice; स्कन्नं (*skannaṃ*), what is to be poured out, the means of the *pravṛñjana*; प्रथमं (*prathamaṃ*), the principal; देवयानं (*devayānaṃ*), the means of reaching the gods: the Gharma. Thus the Gharma, first obtained by Dhātṛ and the rest, these priests brought (आभरन् (*ābharan*), "fetched") from Dhātṛ, the radiant Savitṛ, Viṣṇu and Sūrya.
+
+### Printed p. 1233
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—those gods Dhātṛ and the rest
+- दीध्यानाः (*dīdhyānāḥ*)—shining brilliantly
+- यजुः (*yajuḥ*)—the means of sacrifice
+- स्कन्नं (*skannaṃ*)—existing in liquid form
+- प्रथमं (*prathamaṃ*)—principal
+- देवयानं (*devayānaṃ*)—and being the means of going to the gods: that Gharma oblation
+- मनसा (*manasā*)—by their power of intellect
+- अविंदन् (*aviṃdan*)—obtained (afterwards)
+- एते (*ete*)—these priests
+- घर्मां (*gharmāṃ*)—that oblation called Gharma
+- धातुः (*dhātuḥ*)—from the god Dhātṛ
+- द्युतानात् (*dyutānāt*)—radiant
+- सवितुः (*savituḥ*)—from the god Savitṛ
+- विष्णोः (*viṣṇoḥ*)—from Viṣṇu
+- सूर्यात् च (*sūryāt ca*)—and from Sūrya too
+- आ अभरन् (*ā abharan*)—obtained and brought
+
+##### भावार्थ (Bhāvārtha)
+
+Those gods Dhātṛ and the rest, shining brilliantly, obtained by their power of intellect that Gharma oblation, which is the means of sacrifice, exists in liquid form, is most principal, and is the cause of reaching the gods. Afterwards the priests obtained and brought that Gharma oblation from the gods named Dhātṛ, the radiant Savitṛ, Viṣṇu and Sūrya.
+
+##### English translation
+Those brilliant deities discovered by their intelligence the principle means of sacrifice which has to be effused, which leads to the gods ; these (priests) have taken the Gharma from Dhatri, the radiant Savitri and Vishnu.
+
+## Sūkta 182 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पतिरिति तृचमेकत्रिंशं सूक्तं बृहस्पतिदेवत्यं त्रैष्टुभं । बृहस्पतिपुत्रस्तपुर्मूर्धा नामर्षिः । तथाचानुक्रांतं । बृहस्पतिस्तपुर्मूर्धा बार्हस्पत्यो
+> बार्हस्पत्यमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta बृहस्पतिरिति (*bṛhaspatiriti*) is a *tṛca* (three Ṛks), the thirty-first sūkta, addressed to Bṛhaspati, in the Triṣṭubh metre. The seer is named Tapurmūrdhā, son of Bṛhaspati. So the Anukramaṇī says: बृहस्पतिस्तपुर्मूर्धा बार्हस्पत्यो बार्हस्पत्यमिति ॥ (*bṛhaspatistapurmūrdhā bārhaspatyo bārhaspatyamiti ‖*). The viniyoga has been given.
+
+##### Anuvāda
+
+This sūkta, बृहस्पतिः (*bṛhaspatiḥ*), is the thirty-first sūkta in the twelfth anuvāka. It has three Ṛks. For this sūkta the seer is Tapurmūrdhā, son of Bṛhaspati; Bṛhaspati is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is said: Bṛhaspati, Tapurmūrdhā Bārhaspatya, Bārhaspatya **NOTE**. The viniyoga has already been stated earlier.
+
 ---
 
-**Progress note:** Done through printed p. 1227. pp. 1222-1227 (batch API)
+**Progress note:** Done through printed p. 1233. pp. 1228-1233 (batch API)
