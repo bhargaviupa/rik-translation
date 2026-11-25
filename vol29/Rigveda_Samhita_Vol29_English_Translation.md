@@ -25931,6 +25931,261 @@ The plants bear that same Agni, who is the embryo, arrived in the season. The wa
 - जनयंत (*janayaṃta*)—produce
 - वनिनः (*vaninaḥ*)—
 
+### Printed p. 955
+
+  the forest trees.
+- समानं (*samānaṃ*)—those that take on their own form
+- तं इत् (*taṃ it*)—produce that same Agni
+- अंतर्वतीः (*aṃtarvatīḥ*)—those that hold Agni in the form of an embryo
+- वीरुधः च (*vīrudhaḥ ca*)—and the plants
+- विश्वहा (*viśvahā*)—always
+- सुवते (*suvate*)—produce Agni
+
+##### भावार्थ (Bhāvārtha)
+
+The plants bear Agni, who appears in the seasons beginning with spring and who is of the form of an embryo. The waters, who are of the form of mothers, produce that same Agni. The forest trees produce that same Agni, who takes on their own form. The plants that hold Agni in the form of an embryo always produce Agni.
+
+##### English translation
+The plants bear him as the embryo (conceived) in due season; the maternal waters bring forth Agni; the trees and the pregnant creepers bring him forth daily like to themselves.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वातो॑पधूत इषि॒तो वशा॒ अनु॑ तृ॒षु यदन्ना॒ वेवि॑षद्वि॒तिष्ठ॑से ।  
+> आ ते॑ यतंते र॒थ्यो॒३॒॑३यथा॒ पृथ॒क्छर्धां॑स्यग्ने अ॒जिरा॑णि॒  ॑
+> धक्षतः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातउपधूतः । इषितः । वशान् । अनु । तृषु । यत् । अन्ना । वेविषत् ।  
+> वितिष्ठसे ।  
+> आ । ते । यतंते । रथ्यः । यथा । पृथक् । शर्धांसि । आग्ने । अजराणि । धक्षतः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यद्यदा त्वं वातोपधूतो वायुना कंपितो वशान्कांतान्वनस्पतीननु प्रति तृषु क्षिप्रमिषितः प्रेरितश्च सन्नन्नान्यदनीयानि वनस्पत्यादीनि स्थावराणि
+
+##### Gist of the bhāṣya
+
+O Agni, when you, shaken by the wind and swiftly impelled towards the beloved trees, the forest trees, go to and fro, pervading the immovable things fit for eating, trees and the like,
+
+### Printed p. 956
+
+> वेविषद्वाप्नुवन्नितिष्ठसे इतस्ततो गच्छसि तदानीं धक्षतः काननानि दहतस्ते तवाजराणि
+> जर्ारहितानि शर्धांसि तेजांसि यथा रथ्यो रथिनस्तद्वत्पृथगा यतंते । गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+then, as you burn the forests, your ageless energies, that is, your splendours, move forth, each separately, like chariot-riders.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- त्वं (*tvaṃ*)—you (supplied)
+- वातोपधूतः (*vātopadhūtaḥ*)—moved by the wind
+- वशान् अनु (*vaśān anu*)—entering the attractive trees
+- तृषु (*tṛṣu*)—swiftly
+- इषितः (*iṣitaḥ*)—advancing
+- अन्ना (*annā*)—the foods in the form of trees
+- वेविषत् (*veviṣat*)—pervading
+- वितिस्थसे (*vitisthase*)—you move about everywhere, then
+- धक्षतः (*dhakṣataḥ*)—of you who burn trees and the like
+- ते (*te*)—your
+- अजराणि (*ajarāṇi*)—imperishable
+- शर्धांसि (*śardhāṃsi*)—energies
+- यथा रथ्यः (*yathā rathyaḥ*)—like charioteers
+- पृथक् (*pṛthak*)—separately
+- आ यतंते (*ā yataṃte*)—go forward and forward
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you, impelled by the wind, enter the attractive forest trees, advance, and move about everywhere, pervading the foods in the form of trees, then your imperishable energies, which burn trees and the like, go forward and forward, each separately, like charioteers.
+
+##### English translation
+When, agitated by the wind and quickly moving through the beloved (trees), you spread about devouring the food, the imperishable energies of you, Agni, the devourer, rush forth like charioteers.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मे॒धा॒का॒रं वि॒दथ॑स्य प्र॒साध॑नम॒ग्निं होता॑रं परि॒भूत॑मं  ॒
+> मतिं ।  
+> तमिदर्भे॑ ह॒विष्या स॑मा॒नमित्तमिन्म॒हे वृ॑णते॒ नान्यं त्वत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मेधाकारं । विदथस्य । प्रसाधनं । अग्निं । होतारं । परिभूतमं । मतिं ।  
+> तं । इत् । अर्भे । हविषि । आ । समानं । इत् । तं । इत् । महे । वृणते । न ।  
+> अन्यं । त्वत् ॥ ८ ॥
+
+### Printed p. 957
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मेधाकारं प्रज्ञायाः कर्तारं विदथस्य यज्ञस्य प्रसाधनं प्रकर्षेण
+> साधकं होतारं देवानामाह्वातारं परिभूतममतिशयेन शत्रूणां परिभवितारं
+> मतिं मंतारं यं त्वामग्निं वृणीमह इति शेषः । तमित्तमेवाग्निमर्भेऽल्पे
+> हविषि च पुरोडाशादिके हविषि समानमित्सहैवर्त्विज आ वृणते ! प्रार्थयंते ।
+> महे महति सोमात्मके हविष्यपि तमित्तमेवाग्निं वृणते त्वत्त्वत्तोऽन्यमतिरिक्तं
+> देवं न वृणते ॥
+
+##### Gist of the bhāṣya
+
+You, Agni, are the maker of intelligence, the one who accomplishes the sacrifice in an excellent manner, the Hotṛ, the caller of the gods, the one who greatly overcomes enemies, the thinker; we choose you (this is to be supplied). That same Agni, in a small oblation, that is, an oblation such as the cake (puroḍāśa), the priests together choose, that is, pray to; and in the great oblation also, of the nature of Soma, they choose that same Agni. They do not choose any other god than you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मेधाकारं (*medhākāraṃ*)—(O Agni) the one who provides intelligence
+- विदथस्य (*vidathasya*)—for the sacrifice
+- प्रसाधनं (*prasādhanaṃ*)—the one who brings it to completion (like an ornament)
+- होतारं (*hotāraṃ*)—of the form of the Hotṛ
+- परिभूतमं (*paribhūtamaṃ*)—the one who completely defeats enemies
+- मतिं अग्निं (*matiṃ agniṃ*)—and endowed with intelligence, you (we worship)
+- तमित् (*tamit*)—that same you
+- अर्भे हविसि (*arbhe havisi*)—even in small sacrifices in which caru, cake and the like are offered
+- समानं इत् (*samānaṃ it*)—in the same manner
+- आ वृणते (*ā vṛṇate*)—the priests pray
+- महे (*mahe*)—even in great sacrifices in which Soma and other oblations are offered
+- तं इत् (*taṃ it*)—that same you
+- वृणते (*vṛṇate*)—they pray and call
+- त्वत् अन्यं (*tvat anyaṃ*)—other than you, anyone
+- न (*na*)—certainly they do not call
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, we worship you, who are endowed with intelligence, who provide intelligence to the sacrificers and others, who are like an ornament to the sacrifice, who are of the form of the Hotṛ, and who completely defeat enemies. In the small sacrifices in which caru, cake and the like are offered, and in the great sacrifices in which Soma and other oblations are offered, the priests pray to you alone and call you. They call none other than you.
+
+##### English translation
+(The priest) selects you, (Agni), the giver of intelligence, the accomplisher of the sacrifice, the invoker of the gods, the chief overcomer of foes, the councillor, alike verily at the lesser and at the greater oblation, and none other than you.
+
+### Printed p. 958
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिदत्र॑ वृणते त्वा॒यवो॒ होता॑रमग्ने वि॒दथे॑षु वे॒धसः॑।  
+> यद्दे॑व॒यंतो॒ दध॑ति॒ प्रयां॑सि ते ह॒विष्मं॑तो॒ मन॑वो  ॒॑
+> वृक्तबर्हिषः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । इत् । अत्र । वृणते । त्वायवः । होतारं : अग्ने । विदथेषु । वेधसः ।  
+> यत् । देवयंतः । दधति । प्रयांसि । ते । हविष्मंतः । मनवः । वृक्तबर्हिषः ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने होतारं देवानां ह्वातारमग्निं त्वामित्तामेव त्वायवस्त्वत्कामा वेधसः कर्मणां कर्तार ऋत्विजोऽत्रास्मिल्लोके विदथेषु यज्ञेषु
+> वृणते । प्रार्थयंते । कदेत्यत्राह । यद्यदा देवयंतो देवान्यष्टुं स्तोतुं
+> वेच्छंतो व्यक्तबर्हिषश्चिन्नबर्हिषो हविष्मंतः संस्कृतहविष्का मनवो मनुष्या
+> ऋत्विजस्ते तुभ्यं प्रयांसि हवींषि दधति धारयंति । प्रयच्छंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you, the Hotṛ, the caller of the gods, only you do the priests, who desire you and are the makers of rites (vedhasaḥ), choose here, in this world, at the sacrifices; that is, they pray to you. When? When men, the priests, desiring the gods, wishing to worship or praise the gods, having cut the sacred grass and prepared the oblations, offer you the food-offerings (prayāṃsi), that is, the oblations: they hold them out; the meaning is that they present them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- देवयंतः (*devayaṃtaḥ*)—those who desire the gods
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—those who have cut the sacred grass
+- हविष्मंतः (*haviṣmaṃtaḥ*)—those who have oblations
+- मनवः (*manavaḥ*)—the sacrificers
+- ते (*te*)—towards you
+- प्रयांसि (*prayāṃsi*)—oblations
+- दधति (*dadhati*)—when they hold them, then
+- त्वायवः (*tvāyavaḥ*)—those who desire you alone
+- वेधसः (*vedhasaḥ*)—the priests, the performers of rites
+- अत्र विदथेषु (*atra vidatheṣu*)—at these sacrifices
+- होतारं (*hotāraṃ*)—of the form of the Hotṛ
+- त्वां इत् (*tvāṃ it*)—you alone
+- वृणते (*vṛṇate*)—they pray
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when the sacrificers, who desire the gods, who have the prepared sacred grass and who have oblations, stand holding out oblations towards you, then the priests, who desire you alone and are the performers of rites, pray and call at these sacrifices to you alone, who are of the form of the Hotṛ.
+
+### Printed p. 959
+
+##### English translation
+The performers of sacred rites, devoted, Agni, to you, select you as the ministrant priest at sacrifices in the world, when the devout worshippers bearing oblations and strewing the clipt sacred grass offer you food.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवा॑ग्ने हो॒त्रं तव॑ पो॒त्रमृ॒त्तियं॒ तव॑ ने॒ष्ट्रं त्वम॒ग्निदृ॑ताय॒तः ।  
+> तव॑ प्रशा॒स्त्रं त्वम॑ध्वरीयसि ब्र॒ह्मा चासि॑ गृ॒हप॑तिश्च नो॒  ॑
+> दमे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । अग्ने । होत्रं । तव । पोत्रं । ऋत्वियं । तव । नेष्ट्रं । त्वं । अग्नित् ।  
+> ऋत्ययतः ।  
+> तव । प्रशास्त्रं । त्वं । अध्वरियसि । ब्रह्मा । च । असि । गृहपतिः । च । नः । दमे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने तव होत्रं होतृकर्म त्वया विना तस्याभावात् । किंच
+> तवैवर्त्वियमृतौ भवं प्राप्तानुष्ठानकालं पोत्रं पोतृकर्म त्वया विना
+> तस्याप्यभावात् । किंच तनैव नेष्ट्रं नेष्ट्रकर्म । किंचर्तायत ऋतं यज्ञं
+> कर्तुमिच्छतो यजमानस्य त्वमेवाग्निन्नान्यः कश्चित् । किंच तनैव प्रशास्त्रं प्रशास्त्रृकर्म । किंच हे अग्ने त्वमेवाध्वरीयसि । अध्वरं यज्ञं कर्तुमिच्छसि । तव
+> हेतुत्वात्त्वर्त्कृत्त्वं । किंच त्वमेव ब्रह्मासि त्वया विना तस्याभावात् । किंच
+> नोऽस्माकं दमे गृहे गृहपतिर्यजमानोऽसि त्वया विनास्माकं यजमानत्वाभावात् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the Hotṛ's work is yours, for without you it does not exist. Moreover the Potṛ's work, which belongs to the season, that is, is occasioned when its time of performance has come, is yours alone, for without you that too does not exist. Moreover the Neṣṭṛ's work is yours alone. Moreover, of the sacrificer who desires to perform the sacrifice, you alone are the Agnīdh, none other. Moreover the Praśāstṛ's work is yours alone. Moreover, O Agni, you alone desire the sacrifice, that is, you wish to perform the sacrifice; since you are its cause, you are its performer. Moreover you alone are the Brahman, for without you it does not exist. Moreover in our house you are the lord of the house, that is, the sacrificer, since without you we have no state of being sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- होत्रं (*hotraṃ*)—the work of the Hotṛ
+- तव (*tava*)—is yours
+- ऋत्वियं (*ṛtviyaṃ*)—performed in accordance with the respective times
+- पोत्रं (*potraṃ*)—and the work of the Potṛ
+- तव (*tava*)—is yours indeed
+
+### Printed p. 960
+
+- नेष्ट्रं (*neṣṭraṃ*)—and the work of the Neṣṭṛ
+- तव (*tava*)—is yours indeed
+- ऋतायतः (*ṛtāyataḥ*)—for the sacrificer who wishes to perform the sacrifice
+- त्वं (*tvaṃ*)—you yourself
+- अग्नित् (*agnit*)—you are the Āgnīdhra
+- प्रशास्त्रं (*praśāstraṃ*)—and the work of the Praśāstṛ
+- तव (*tava*)—is yours indeed
+- त्वं (*tvaṃ*)—you yourself
+- अध्वरीयसि (*adhvarīyasi*)—the Adhvaryu who desires to perform the sacrifice
+- ब्रह्मा च असि (*brahmā ca asi*)—you yourself are the priest of the form of the Brahman
+- नः (*naḥ*)—our
+- दमे (*dame*)—in this sacrificial house
+- गृहपतिः (*gṛhapatiḥ*)—you yourself are the guardian of the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the Hotṛ's work is yours. The work of the Potṛ and the Neṣṭṛ, performed in accordance with the respective times, is yours alone. For the sacrificer who wishes to perform the sacrifice you are the excellent Āgnīdhra. The work of the Praśāstṛ is yours alone. You yourself are the priest of the form of the Brahman, the Adhvaryu who desires to perform the sacrifice, and the guardian of the sacrifice in the sacrificial house.
+
+##### English translation
+Yours, Agni, is the Hotri, yours, the duly-performed function of the Potri, yours, the function of the Neshtri, you are the Agni of the sacrificer, yours, is the office of the Prashastri, you act as Adhwaryu, and you are the Brahman and the lord of the mansion in our abode.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्तुभ्य॑मग्ने अ॒मृता॑य॒ मर्त्यः॑ स॒मिधा॒ दाश॑दु॒त वा॑  ॒॑
+> ह॒विष्कृ॑ति ।  
+> तस्य॒ होता॑ भवसि॒ यासि॑ दू॒त्य१॒ं॑मुप॑ ब्रूषे॒ यज॑स्यध्वरी॒यसि॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । तुभ्यं । अग्ने । अमृताय । मर्त्यः । संइधा । दाशत् । उत । वा ।  
+> हविःकृति ।  
+> तस्य । होता । भवसि । यासि । दूत्यं । उप । ब्रूषे । यजसि । अध्वरियसि ॥११॥
+
 ---
 
-**Progress note:** Done through printed p. 954. Sūkta 91 Ṛk 1 (end) to Ṛk 6 (begun)
+**Progress note:** Done through printed p. 960. Sūkta 91 Ṛk 6 (end) to Ṛk 11 (begun)
