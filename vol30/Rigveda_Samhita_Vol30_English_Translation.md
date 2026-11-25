@@ -9364,6 +9364,167 @@ O Aśvins, both of you now desire the oblation or the praise offered by us. As t
 ##### English translation
 You both demand the oblation (Aswins), you spread out the ceremonials as two weavers (stretch) cloths; (the institutor of the rite) praised you
 
+### Printed p. 247
+associated together to attain (his desires); like two fortunate days you bestow food.
+
+##### विशेषविषयगळु (Special Topics)
+
+वि तन्वाथे धियो वस्त्रापसेव (*vi tanvāthe dhiyo vastrāpaseva*)—As weavers weave a cloth, it is small at the beginning and grows larger as the weaving proceeds. In the same way you carry forward in the proper manner the sacrificial rites that we perform; that is, by your help and favour the sacrificial rites are completed in full. This is the meaning. The word धियः (*dhiyaḥ*) is the accusative plural of the word धीः (*dhīḥ*). The word धीः (*dhīḥ*) is read among the twenty-six names of action, beginning with अपः (*apaḥ*) and अप्पः (*appaḥ*) (Ni. 3-1).
+
+सुदिनेव पृक्ष आ तंसयोथे (*sudineva pṛkṣa ā taṃsayothe*)—The word पृक्ष (*pṛkṣa*) is read among the twenty-eight names of food, beginning with अंधः (*aṃdhaḥ*) and वाजः (*vājaḥ*) (Ni. 3-9). पृक्षः (*pṛkṣaḥ*) means food, nourishment. The day on which we get abundant food is a good day (सुदिन (*sudina*)). Therefore you favour us so that we obtain food on a good day. Or else, as to सुदिन (*sudina*): सुदिना सुदिन् । अहोरात्रयोः प्रवर्तकत्वेन तद्वंतौ सूर्याचंद्रमसौ स्वरश्मिभिर्यथान्यलंकुरुतः । (*sudinā sudin | ahorātrayoḥ pravartakatvena tadvaṃtau sūryācaṃdramasau svaraśmibhiryathānyalaṃkurutaḥ |*). The Sun and Moon are the causes of day and night. By their rays and by acts such as rain they make food and other nourishment available to people. In the same way you (the Aśvin deities) favour us by providing food and the like. This is the meaning.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ष्टारे॑व॒ फर्व॑रेषु श्रयेथे प्रायो॒गेव॒ श्वात्रा॒ शासु॒रेथः॑ ।  
+> दू॒तेव॒ हि ष्ठो य॒शसा॒ जने॑षु॒ माप॑ स्थातं महि॒षेवा॑न॒पाना॑त् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उष्टारा इव । फर्वरेषु । श्रयेथे इति । प्रायोगा इव । श्वात्रा । शासुः । आ ।  
+> इथः ।  
+> दूता इव । हि । स्थः । यशसा । जनेषु । मा । अप । स्थातं । महिषा इव । अव  
+> पानात् ॥ २ ॥
+
+### Printed p. 248
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उष्टारेव । उष्टः कामयेते गंतव्यं देशमित्युष्टारौ प्रासंगस्य वोढारावनड्वाहाविव ॥ वश कांतावित्यस्मात्तृचि च्छांदसं संप्रसारणमिडभावश्च ॥ तौ यथा
+> संपूर्णघासेषु संचरतः तद्वत्पर्वरेषु स्तुतिभिर्हविर्भिश्च पूरयितृषु जनेषु
+> श्रयेथे । तत्स्वीकरणार्थमाश्रयथः ॥ फर्वतिः पूर्णार्थः । अस्मादौणादिको
+> रन्मत्तयः ॥ प्रायोगेव प्रयोक्तव्यावनड्वाहाविव ॥ प्रपूर्वाद्युजेः कर्मणि
+> घइ्युपसर्गस्य दीर्घः ॥ थाथादिस्वरेणांतोदात्तः ॥ तौ यथा श्वात्रा श्वात्रौ ।
+> शु क्षिप्रमतनं श्वात्रं । तत्र साधू भवतः तद्वत् । यद्वा । युद्धार्थ० प्रयोक्तव्यावश्वानिव श्वात्रौ । श्वात्रमिति धननाम । तत्र भवौ । धनस्य साधकावित्यर्थः । तौ
+> युवां शासुः शंसितुः स्तोतुः स्तुतिं प्रत्येथः । आगच्छथः ॥ इण् गतौ आदादिकः ॥
+> दूतेव दूताविन यथा राज्यः प्रियतमौ दूतौ जनपदेषु यशस्विनौ भवतः
+> तद्वज्जनेषु स्तोतृषु यशसा यशस्विनौ स्थो हि । भवथः खलु ॥ अस्तेर्लटि रूपं ।
+> हियोगादनिघातः ॥ महिषेव महिषाविन यथा श्रांतौ महिषाववपानात् । पीयतेऽस्मिन्निति पानं ह्रदादि ॥ अधिकरणे ल्युट् ॥ पानमेवावपानं । संनिकृष्टात्पानादपगच्छतः तद्विद्युवामस्मदीयाद्दविषः स्तोत्राच्च माप स्थातं । मापक्रम्य तिष्ठतं ॥
+> तिष्ठतेर्लुजि गातिस्थेति सिचो लुक् । न माज्योग इत्यडभावः ॥
+
+##### Gist of the bhāṣya
+
+"Like two camels": the two that desire (कामयेते (*kāmayete*)) to go to the place to be reached are उष्टारा (*uṣṭārā*), like two oxen that carry a cart. The root is वश कांत् (*vaśa kāṃt*). As those two roam among fully grown grass, so you resort to the people who fill you (फर्वरेषु (*pharvareṣu*)) with praises and oblations; you go to them in order to accept their offering. फर्वतिः (*pharvatiḥ*) means "to fill". प्रायोगा (*prāyogā*) are oxen to be yoked to a cart. श्वात्रा (*śvātrā*): शु (*śu*) is "quick"; श्वात्रं (*śvātraṃ*) is "swift going", and the two are good at that. Or else: like two horses to be employed for battle, श्वात्रौ (*śvātrau*); श्वात्रं (*śvātraṃ*) is a name for wealth, and those that are good for it, that is, that procure wealth. You two come (इथः (*ithaḥ*), from इण् गतौ (*iṇ gatau*)) to the praise of the praiser (शासुः (*śāsuḥ*)). "Like messengers": as the dearest messengers of a king become renowned in the countries, so you are indeed renowned among the people who praise you. "Like two buffaloes": as two buffaloes, wearied, do not leave the drinking-place (अवपानात् (*avapānāt*); पानं (*pānaṃ*) is the place where one drinks, a pool and the like), so you two do not leave off from our oblation and praise nearby; do not move away and stay apart.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उष्टारेव (*uṣṭāreva*)—like two bulls that go to a pasture to graze (you)
+- फर्वरेषु (*pharvareṣu*)—among the people who satisfy you by offering praises and oblations
+- श्रयेथे (*śrayethe*)—you take refuge, that is, you go to them
+- प्रायोगेव (*prāyogeva*)—like oxen yoked to carts
+- श्वात्र्यौ (*śvātryau*)—being of swift going
+- शासुः (*śāsuḥ*)—to the sacrificer who praises you
+- आ इथः (*ā ithaḥ*)—you come [or: श्वात्र्यौ (*śvātryau*)—like swift horses that take part in battle, or like horses that are the means of winning wealth in battle; शासुः (*śāsuḥ*)—towards the praise of the sacrificer who praises you; आ इथः (*ā ithaḥ*)—you come]
+- दूतेव (*dūteva*)—as messengers appointed by the king, that is, royal servants or royal officers trusted by the king, win the confidence of the people in the kingdom (you)
+- जनेषु (*janeṣu*)—among the people who praise you
+- यशसा (*yaśasā*)—being renowned, that is, having won approval
+- स्थः हि (*sthaḥ hi*)—you are indeed, are you not? (and moreover)
+- महिषेव (*mahiṣeva*)—as buffaloes wearied by the sun
+- अवपानात् (*avapānāt*)—do not rise up from the pool where there is water
+- मा अप स्थातं (*mā apa sthātaṃ*)—(you) do not leave our oblation, or our praise, and go away
+
+### Printed p. 249
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities! As bulls go of their own accord, with no one's urging, to a pasture to graze, so you go to the sacrificer who satisfies you with oblations and praises. As oxen yoked to a cart go quickly, or as horses employed in battle press forward and go swiftly, or as horses go swiftly to win and bring wealth in battle, so you come with exceeding speed towards the praise of the sacrificer, that is, quickly, to hear his praise. And as royal officers, trusted by the king's affection, win the trust and confidence of the people of the realm, so you win the regard and confidence of the people who praise you. Moreover, as buffaloes, wearied by the heat of the sun, lie in a pool of water and rid themselves of fatigue and do not rise from the water quickly, so you do not turn back without partaking of the sacrificer's oblation or praise.
+
+##### English translation
+Like two longing oxen (to the pastures), you have recourse to those_e who fill you (with oblations); you approach like two horses prepared for the fray, employed to bring treasure : you are like two (royal) messengers re-nowned among the people; turn not away (from our) oblation) like two buffaloes from the drinking-trough.
+
+##### विशेषविषयगळु (Special Topics)
+
+उष्टारेव (*uṣṭāreva*)— उष्टः कामयेते गंतव्यं देशमित्युष्टार् प्रासंगस्य वोढारावनड्डाहाविव । (*uṣṭaḥ kāmayete gaṃtavyaṃ deśamityuṣṭār prāsaṃgasya voḍhārāvanaḍḍāhāviva |*) तौ यथा संपूर्णघासेषु संचरतः तद्वत् ॥ (*tau yathā saṃpūrṇaghāseṣu saṃcarataḥ tadvat ‖*) The word उष्टृ (*uṣṭṛ*) is derived from the root वश कांत् (*vaśa kāṃt*), "to desire". उष्टारा (*uṣṭārā*) means two creatures that desire. Desire what? In the present context, the meaning is: desire to go to a pasture full of grass in order to graze the grass there. Therefore, as bulls go searching for a place with grass in order to graze, you Aśvin deities go searching for the people who praise you and go to them.
+
+फर्वरेषु (*pharvareṣu*) - फर्वतिः पूरणार्थः । (*pharvatiḥ pūraṇārthaḥ |*) स्तुतिभिः हर्विर्भिश्च पूरयितृषु जनेषु । (*stutibhiḥ harvirbhiśca pūrayitṛṣu janeṣu |*) The root फर्वति (*pharvati*) means "to fill, to satisfy". The word फर्वरेषु (*pharvareṣu*), formed from that root, here means among the people who satisfy you with praises and with oblations. श्रयथे (*śrayathe*)—you take refuge, that is, you go to them.
+
+### Printed p. 250
+प्रायोगेव श्वात्रा शासुः आ इथः (*prāyogeva śvātrā śāsuḥ ā ithaḥ*)— प्रायोगा (*prāyogā*) means प्रयोक्तव्यावनड्वाहौ (*prayoktavyāvanaḍvāhau*), oxen to be yoked to a cart. Or युद्धार्थवागि प्रयोक्तावश्वा (*yuddhārthavāgi prayoktāvaśvā*): horses employed for battle. श्वात्रा (*śvātrā*)—शु क्षिप्रमतनं (*śu kṣipramatanaṃ*): the meaning is "of swift going"; horses that press forward swiftly in battle. Or श्वात्र (*śvātra*) is also a name for wealth (Ni. 3-9); horses that are the means of winning and bringing wealth in battle are also called श्वात्रौ (*śvātrau*). Being of swift going like such horses or like oxen, you come towards the praise of the sacrificer who praises you, that is, to hear his praise.
+
+दूतेव हि स्थः यशसा जनेषु (*dūteva hi sthaḥ yaśasā janeṣu*)— As royal officers who enjoy the king's trust also become objects of the regard and confidence of the people of the country, so you have won the approval of the people who praise you.
+
+मा अप स्थातं महिषेव अवपानात् (*mā apa sthātaṃ mahiṣeva avapānāt*)—पीयतेऽस्मिन्निति पानं ह्रदादि । (*pīyate 'sminniti pānaṃ hradādi |*) पानमेव्ना वपानं । (*pānamevnā vapānaṃ |*) A pool containing drinking water is called पान (*pāna*). अवपान (*avapāna*) has the same meaning. Or अवपान (*avapāna*) may also be taken to mean a pool of dirty water not fit for drinking. It is known to everyone that buffaloes lie in such a pool to get rid of the heat of the sun. These buffaloes do not rise quickly from that water and go; they stay in it a long time, relieve their fatigue, and only then go. In the same way, you Aśvin deities do not quickly go away from the people who have offered you praise or oblation. You go only after accepting their praise. This is the meaning.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒कं॒युजा॑ शकु॒नस्ये॑व प॒क्षा प॒श्वेव॑ चि॒त्रा यजु॒रा ग॑मिष्टं ।  
+> अ॒ग्निरि॑व देव॒योर्दि॑दि॒वांसा॒ परि॑ज्ञानेव यजथः पुरु॒त्रा ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साकंयुजा । शकुनस्य इव । पक्षा । पश्वा इव । चित्रा । यजुः । आ । गमिष्टं ।  
+> अग्निः इव । देवयोः । दीदिवांसा । परिज्ञाना इव । यजथः । पुरुत्रा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शकुनस्येव पक्षिण इव यथा पक्षिणः पक्षा पक्ष संहत्य वर्तमान् तद्वत्साकंयुजा साकंयुजौ सहावियुज्य वर्तमान् भवधः ॥ युजेः सत्तूद्विषेत्यादिना
+
+##### Gist of the bhāṣya
+
+"Like a bird": as the two wings of a bird exist joined together, so you two exist as साकंयुजा (*sākaṃyujā*), never separated from one another. "Like two animals": as two beasts to be gathered (चायनीयौ (*cāyanīyau*)), so चित्रा (*citrā*), worthy of being gathered or admired.
+
+### Printed p. 251
+
+> क्विप् ॥ पश्वेव पशू इव ॥ सुप आकारः ॥ तौ यथा चायनीयौ तद्वच्चित्रा चित्वा
+> चायनीयौ युवां यजुर्यजनावस्मदीयावा गमिष्टं । आगच्छतं ॥ यजेरौणादिको भाव उसिन्प्रत्ययः । गमिष्टं । गमेर्लॆटि सिब्बहुलं लेटीति सिप् ॥ सिप
+> आर्धधातुकत्वाद्यमेरिट् परस्मैपदेषु । सा. ७-२-५८ । इतीडागमः ॥ देवयोर्देवानिच्छतो यजमानस्य यज्ञेग्निरिवाग्निर्यथा हविर्भिः स्तुतिभिश्च दीप्यते
+> तद्वद्दिदिवांसा दीदिवांसौ स्तुतिभिर्दिप्त भवथः ॥ दीव्यतेः क्वसौ वस्वेकाजादिति
+> नियमादिडभावः । वलि लोपे तुजादित्वादभ्यासस्य दीर्घः ॥ परिज्ञानेव परिज्ञानाविव
+> परितोऽजतो गच्छतः कर्मकरणार्थमिति परिज्ञानावध्वर्यू इव स्थितौ युवां
+> पुरुत्रा बहुषु देशेषु यजथः । देवान्पूजयथः । अश्विनौ हि देवानामध्वर्यू
+> इत्याम्मानात् । ऐ. ब्रा. १-१८ । यद्वा । परिज्ञानेव परितो गंतार् पुरो वा
+> पश्चाद्वा तौ यथा बहुषु देशेषु यजथः संगच्छमान् भवथः ॥ यज देवपूजासंगतिकरणदानेषु । पुरुत्रा । देवमनुष्येत्यादिना त्राप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+You two come to our sacrifice (यजुः (*yajuḥ*), "worship"; आ गमिष्टं (*ā gamiṣṭaṃ*), "come"). As Agni blazes with oblations and praises in the sacrifice of a sacrificer who desires the gods (देवयोः (*devayoḥ*)), so you two become radiant (दीदिवांसा (*dīdivāṃsā*)) through praises. परिज्ञाना (*parijñānā*): those who go (*ajataḥ*) all around for the performance of the rite, that is, you stand like two Adhvaryu priests; you worship (यजथः (*yajathaḥ*)) the gods in many places (पुरुत्रा (*purutrā*)), for it is handed down that the Aśvins are the Adhvaryus of the gods (Ai. Brā. 1-18). Or else: as two who go around, in front or behind, so you come together in many places. यज (*yaja*) is in the sense of worship of gods, association and giving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities!) शकुनस्य (*śakunasya*)—of a bird
+- पक्षा इव (*pakṣā iva*)—as two wings are joined together
+- साकंयुजा (*sākaṃyujā*)—you who are joined together
+- पश्वॆव (*paśvèva*)—like two animals
+- चित्रा (*citrā*)—attractive
+- यजुः (*yajuḥ*)—to the place of sacrifice
+- आ गमिष्टं (*ā gamiṣṭaṃ*)—you come
+- देवयोः (*devayoḥ*)—in the sacrifice of the sacrificer
+- अग्निरिव (*agniriva*)—as Agni shines
+- दीदिवांसा (*dīdivāṃsā*)—you who shine
+- परिज्ञानेव (*parijñāneva*)—like Adhvaryus who go about for the rite
+- पुरुत्रा (*purutrā*)—in many places
+- यजथः (*yajathaḥ*)—you worship the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities! You who are joined together like the two wings of a bird come attractively to the place of sacrifice like two animals. Shining as Agni shines in the sacrificer's sacrifice, you worship the gods in many places, like Adhvaryus who go about for the rite.
+
+##### English translation
+Connected together like the two wings of a bird, you come to the sacrifice like two choice animals; radiant as Agni (at the offering) of the devout (worshipper), like two perambulating priests yon celebrate worship in many places.
+
+### Printed p. 252
+
+##### विशेषविषयगळु (Special Topics)
+
+शकुनस्येव पक्षा साकंयुजा (*śakunasyeva pakṣā sākaṃyujā*) - दक्षिणः पक्षाविव सहावियुज्य वर्तमानौ ॥ (*dakṣiṇaḥ pakṣāviva sahāviyujya vartamānau ‖*) As the left and right wings of a bird are attached to the bird in one and the same way and equally, so you Aśvin deities are of one and the same form and shape, and are always together, never separating from one another.
+
+पश्वेव चित्रा (*paśveva citrā*)— As two well-grown, sturdy animals look beautiful to see, so you two appear attractive.
+
+अग्निरिव देवयोनेः दीदिवांसा (*agniriva devayoneḥ dīdivāṃsā*)- देवानिच्छतो यजमानस्य यज्ञे (*devānicchato yajamānasya yajñe*) अग्निर्यथा हविर्भिः स्तुतिभिश्च दीप्यते तद्वत् स्तुतिभिर्दिप्ता भवतः ॥ (*agniryathā havirbhiḥ stutibhiśca dīpyate tadvat stutibhirdiptā bhavataḥ ‖*) As Agni, installed in the sacrificial house of the sacrificer who desires to worship the gods, blazes and shines with oblations such as ghee and with praises, so you, gratified by the praises of the sacrificers, shine on the sacrificial altar.
+
+परिज्ञानेव यजथः पुरुत्रा (*parijñāneva yajathaḥ purutrā*)—परिज्ञाना ऎंदरॆ परितो अजतो गच्छतः । (*parijñānā èṃdarè parito ajato gacchataḥ |*) The meaning is: those who move about here and there on the sacrificial altar to carry out the work. Among the priests, the Hotṛ, Udgātṛ, Brahman and others sit in one fixed place of the altar and recite the mantras they have to recite according to the occasion. This is their duty. But the Adhvaryu's duty is not done sitting in one place. Because he must take part in all the work connected with the sacrifice and oversee it, he has to move about here and there. He has to go about on all sides to see whether the sacrificer and the other priests are performing their tasks properly and at the right times. Therefore the word परिज्मा (*parijmā*) applies to the Adhvaryu. Here the Aśvin deities too—अश्विन् हि देवानामध्वयू अस्तां (*aśvin hi devānāmadhvayū astāṃ*) (Ai. Brā. 1-18)—since they are the Adhvaryus of the gods, they too, like human Adhvaryus, move about all round and carry out their duty. **NOTE**. Therefore the idea suggested here is that in many countries they go to the sacrifices performed by many sacrificers and are helpers in carrying out those sacrifices.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒पी वो॑ अ॒स्मे पि॒तरे॑व पु॒त्रोग्रेव॑ रु॒चा नृ॒पती॑व तु॒र्य्यै ।  
+> इर्ये॑व पु॒ष्ट्यै कि॒रणे॑व भु॒ज्यै श्रु॑ष्टी॒वाने॑व॒ हव॒मा  ॑
+> गमिष्टं ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 246. pp. 239-246 (batch API)
+**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
