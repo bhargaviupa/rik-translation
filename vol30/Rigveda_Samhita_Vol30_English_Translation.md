@@ -23416,6 +23416,287 @@ Neither sin nor sorrow, O gods, affect the man whom Aryaman Mitra, and Varuna, b
 
 हि (*hi*) is for emphasis: that very protection we choose, we pray for. (The rest of)
 
+### Printed p. 706
+
+> अर्यमन् येन रक्षणेन मर्त्यं स्तोतारमंहसः पापाद्यूयं निः पाथ निशेषेण रक्षथ ॥ पा रक्षणॆ आदादिकः । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः ॥ येन
+> च रक्षणेन मर्त्यं मनुष्यं स्तोतारं द्विषोऽति नेथ अतीत्य नयथ अभीष्टं प्रापयथ तद्वृणीमह इत्यन्वयः ॥ नयतेश्छांदसः शपो लुक् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the previous verse: "O Varuṇa, Mitra, Aryaman, by whatever protection you wholly guard the mortal, your worshipper, from sin (अंहसः (*aṃhasaḥ*)), and by which protection you lead him beyond his enemies and bring him what he desires, that very protection we ask for." पा (*pā*) is the root for protecting, of the ādādika class. The यद्वृत्तान्नित्यमिति (*yadvṛttānnityamiti*) rule prevents nighāta (loss of accent). नयतेश्छांदसः शपो लुक् (*nayateśchāṃdasaḥ śapo luk*) is added as a grammatical note on नेथ (*netha*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- मित्र (*mitra*)—Mitra
+- अर्यमन् (*aryaman*)—Aryaman
+- यूयं (*yūyaṃ*)—you
+- येन (*yena*)—by which protection of yours
+- मर्त्यं (*martyaṃ*)—the human being who praises
+- अंहसः (*aṃhasaḥ*)—from sin
+- निः पाथ (*niḥ pātha*)—you protect completely
+- द्विषः (*dviṣaḥ*)—his enemies
+- अति नेथ (*ati netha*)—you drive away from him
+- तत् हि (*tat hi*)—that very protection
+- वयं (*vayaṃ*)—we
+- वृणीमहे (*vṛṇīmahe*)—we pray for
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa, Mitra, Aryaman, by whatever protection of yours you protect from sin the man who praises you, and drive his enemies far away from him, that very protection we ask of you.
+
+##### English translation
+We implore that (protection) of yours Varuna, Mitra, andAryaman whereby you preserve a man from sin, and lead him beyond (the reach of) his enemies.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नू॒नं नो॒ऽयमू॒तये॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> नयि॑ष्ठा उ नो ने॒षणि॒ पर्षि॑ष्ठा उ नः प॒र्षण्यति॒ द्विषः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नूनं । नः । अयं । ऊतये । वरुणः । मित्रः । अर्यमा ।  
+> नयिष्ठाः । ऊं इति । नः । नेषणि । पर्षिष्ठाः । ऊं इति । नः । पर्षणि । अति । द्विषः॥
+
+### Printed p. 707
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वरुणो मित्रश्चार्यमा च देवा नोऽस्माकमूतये रक्षणाय
+> नूनमवश्यं भवंतु । नेषणि नेतव्ये विषये हे वरुणादयः यूयं नोऽस्मान्नयिष्ठाः । नयत ॥ वचनव्यत्ययः । यद्वा । प्रत्येकाभिप्रायेणैकवचनं । छांदसो
+> लुज् ॥ उशब्दः समुच्चये पदपूरणार्थो वा । पर्षणि पारयितव्ये विषये
+> नोऽस्मान्द्विषोऽति पर्षिष्ठाः । अतिपारयथ ॥ नयिष्ठा इतिवत्प्रक्रिया ॥
+
+##### Gist of the bhāṣya
+
+May this Varuṇa, Mitra and Aryaman surely be for our protection (ऊतये (*ūtaye*)). In the matter to which we are to be led (नेषणि (*neṣaṇi*)), O Varuṇa and the rest, lead us (नयिष्ठाः (*nayiṣṭhāḥ*) = नयत (*nayata*)); the number is altered, or else the singular is used with each deity separately in view; the lun-type aorist is Vedic. The word उ (*u*) is for combining, or is a filler. In the matter to be crossed over (पर्षणि (*parṣaṇi*)), take us across, beyond our enemies (पर्षिष्ठाः (*parṣiṣṭhāḥ*) = अतिपारयथ (*atipārayatha*)). The derivation is like that of नयिष्ठा (*nayiṣṭhā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं वरुणः (*ayaṃ varuṇaḥ*)—this Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- आर्यमा (*āryamā*)—Aryaman
+- ते (*te*)—these three
+- नः (*naḥ*)—our
+- ऊतये (*ūtaye*)—for protection
+- नूनं (*nūnaṃ*)—let them be surely (O Varuṇa and the rest) you
+- नेषणि (*neṣaṇi*)—to the region we must go and reach
+- नः (*naḥ*)—us
+- नयिष्ठाः (*nayiṣṭhāḥ*)—lead
+- उ (*u*)—and
+- पर्षणि (*parṣaṇi*)—to the region we must cross over to
+- नः (*naḥ*)—us
+- द्विषः अति (*dviṣaḥ ati*)—far from enemies
+- पर्पिष्ठाः (*parpiṣṭhāḥ*)—carry across
+
+##### भावार्थ (Bhāvārtha)
+
+May these three deities, Varuṇa, Mitra and Aryaman, be for our protection. O Varuṇa and the rest, lead us to the region we must go and reach, and take us across to the region we must cross over to, carrying us so that we are far from our enemies.
+
+##### English translation
+May this Varuna and Mitra and Aryaman be our protection, may they lead us to the spot to which we should be led, and make us cross over to the spot to which we should cross over beyond (the reach of) our enemies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं विश्वं॒ परि॑ पाथ॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> यु॒ष्माकं॒ शर्म॑णि प्रि॒ये स्याम॑ सुप्रणीत॒योऽति॒ द्विषः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । विश्वं । परि । पाथ । वरुणः । मित्रः । अर्यमा ।  
+> युष्माकं । शर्मणि । प्रिये । स्याम । सुप्रनीतयः । अति । द्विषः ॥ ४ ॥
+
+### Printed p. 708
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वरुणादयः यूयं विश्वं सर्वं जगत्परि पाथ । परितो रक्षथ । हे
+> सुप्रणीतयः शोभनप्रणयना मित्रादयः युष्माकं युष्मदीये युष्माभिर्दत्ते प्रियेऽनुकूले वेद्ये शर्मणि सुखे वयं स्याम । भवेम । द्विषो
+> द्वेष्टांश्चाति क्रामेम ॥
+
+##### Gist of the bhāṣya
+
+O gods, Varuṇa and the rest, you protect the whole world (विश्वं (*viśvaṃ*)) on all sides. O सुप्रणीतयः (*supraṇītayaḥ*), Mitra and the rest, excellent leaders, may we be (स्याम (*syāma*)) in your dear, favourable, ordained happiness, given by you; and may we overcome those who hate us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Varuṇa and the other gods) यूयं (*yūyaṃ*)—you
+- विश्वं (*viśvaṃ*)—the whole world
+- परि (*pari*)—all around
+- पाथ (*pātha*)—protect
+- सुप्रणीतयः (*supraṇītayaḥ*)—O Mitra and the rest, excellent guides
+- युष्माकं (*yuṣmākaṃ*)—your, or to you
+- प्रिये (*priye*)—favourable
+- शर्मणि (*śarmaṇi*)—in happiness
+- स्याम (*syāma*)—may we be
+- द्विषः (*dviṣaḥ*)—hating enemies
+- अति (*ati*)—may we overcome (subdue)
+
+##### भावार्थ (Bhāvārtha)
+
+O Varuṇa and the other gods, protect the whole world well on every side. O Mitra and the rest, excellent guides, may we be in the happiness that is dear to you; that is, by your grace may we be happy, and may we subdue the enemies who hate us.
+
+##### English translation
+You, Varuna, Mitra, Aryaman, protect the universe; may we abide in your blessed felicity, O excellent leaders, beyond (the reach of) our enemies.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्यासो॒ अति॒ स्त्रिधो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> उ॒ग्रं म॒रुद्भी॑ रु॒द्रं हु॑वे॒मेंद्र॑म॒ग्निं स्व॒स्तयेऽति॒ द्विषः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्यासः । अति । स्रिधः । वरुणः । मित्रः । अर्यमा ।  
+> उग्रं । मरुत्भिः । रुद्रं । हुवेम । इंद्रं । अग्निं । स्वस्तये । अति । द्विषः ॥ ५ ॥
+
+### Printed p. 709
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यासोऽदितेः पुत्रा वरुणादयो देवाः स्त्रिधो हिंसकाञ्त्यत्रूनस्मानति
+> नयंतु । मरुद्भिः पुत्रैः सहितमुग्रमुद्दूर्णतेजसं रुद्रमिंद्रमग्निं च स्वस्तये
+> क्षेमाय हुवेम । आह्वयेमहि ॥ ह्वयतेराशीर्लिजि बहुलं छंदसीति संप्रसारणं।
+> लिज्याशिष्यज् ॥ आहूतास्तेऽस्मान्द्विषो, द्वेष्ट नति नयंतु ॥
+
+##### Gist of the bhāṣya
+
+May the Ādityas, sons of Aditi, the gods Varuṇa and the rest, lead us beyond (अति (*ati*)) our hostile foes (स्त्रिधः (*stridhaḥ*)). For our welfare (स्वस्तये (*svastaye*)) we invoke (हुवेम (*huvema*) = आह्वयेमहि (*āhvayemahi*)) the fierce (उग्रं (*ugraṃ*), of raised-up splendour) Rudra, together with the Maruts, his sons, and Indra and Agni. Having been invoked, may they lead us beyond our enemies. The remaining sentences give the grammar of हुवेम (*huvema*) (samprasāraṇa in the benedictive lin, and so on).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्यासः (*ādityāsaḥ*)—the sons of Aditi
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman, these three
+- स्त्रिधः (*stridhaḥ*)—hostile enemies
+- अति (*ati*)—passing beyond (far from them) (नयंतु (*nayaṃtu*)—let them carry us)
+- मरुद्भिः (*marudbhiḥ*)—accompanied by the Maruts, his sons
+- उग्रं (*ugraṃ*)—of great splendour
+- रुद्रं (*rudraṃ*)—Rudra
+- इंद्रं (*iṃdraṃ*)—Indra
+- अग्निं (*agniṃ*)—Agni
+- स्वस्तये (*svastaye*)—for our welfare
+- हुवेम (*huvema*)—we pray and call
+- द्विषः (*dviṣaḥ*)—our enemies
+- अति (*ati*)—passing beyond (नयंतु (*nayaṃtu*)—let them carry us)
+
+##### भावार्थ (Bhāvārtha)
+
+May these gods, Mitra, Varuṇa and Aryaman, sons of Aditi, carry us far away so that we do not fall into the hands of our enemies. We pray and call, for our welfare, Rudra, who is accompanied by the Maruts, his sons, and endowed with exceeding splendour, and also Indra and Agni. May they carry us far from our enemies.
+
+##### English translation
+May the Adityas, Varuna, Mitra, Aryaman, (lead us) beyond (the reach of) the malignant; let us invoke the fierce Rudra with the Maruts, and Indra and Agni for our welfare, that they may place us) beyond (the reach of) our enemies.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नेता॑र ऊ॒ षु ण॑स्ति॒रो वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> अति॒ विश्वा॑नि दुरि॒ता राजा॑नश्चर्यणी॒नामति॒ द्विषः॑ ॥ ६ ॥
+
+### Printed p. 710
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नेतारः । ऊं इति । सु । नः । तिरः । वरुणः । मित्रः । आर्यमा ।  
+> अति । विश्वानि । दुःइता । राजानः । चर्षणीनां । अति । द्विषः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नेतारो नयनकुशलाः ॥ नयतेः साधुकारिणि तृन् ॥ वरुणादयो देवा
+> नोऽस्माकं पापानि सु सुष्टु तिरस्तिरोधानमदर्शनं नयंतु । उ इति पूरणः ।
+> चर्षणीनां मनुष्याणां राजानः स्वामिनो वरुणादयो देवा विश्वानि सर्वाणि
+> दुरिता दुरितानि दुर्गमनानि पापफलरूपाण्यस्मानति नयंतु । द्विषो द्वेष्टात्रूंश्चाति नयंतु ॥ नामन्यतरस्यामिति चर्षणिशब्दात्परस्यॆ नाम उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+नेतारः (*netāraḥ*) are those skilled in leading. May the gods Varuṇa and the rest lead our sins (पापानि (*pāpāni*)) well (सु (*su*)) into disappearance (तिरः (*tiraḥ*)), out of sight; उ (*u*) is a filler. May Varuṇa and the rest, the gods who are lords (राजानः (*rājānaḥ*)) of men (चर्षणीनां (*carṣaṇīnāṃ*)), lead us beyond all (विश्वानि (*viśvāni*)) hardships (दुरिता (*duritā*)), that is, the difficult-to-traverse results of sin, and lead us beyond our enemies. The last sentence is an accent note.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नेतारः (*netāraḥ*)—good guides
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman
+- नः (*naḥ*)—our sins
+- सु (*su*)—well
+- तिरः (*tiraḥ*)—let them remove out of sight
+- उ (*u*)—and
+- चर्षणीनां (*carṣaṇīnāṃ*)—for humans
+- राजानः (*rājānaḥ*)—the gods Varuṇa and the rest, who are lords
+- विश्वानि (*viśvāni*)—all
+- दुरितानि (*duritāni*)—sorrows
+- अति (*ati*)—let them drive away
+- द्विषः (*dviṣaḥ*)—enemies
+- अति (*ati*)—let them drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+May these gods Varuṇa, Mitra and Aryaman, who lead humans on the good path, remove our sins completely; may these gods, Varuṇa and the rest, lords of humans, remove all our sorrows and drive our enemies far away.
+
+##### English translation
+May the leaders Varuna, Mitra, Aryaman, (lead) us apart (from wickedness), may the kings of men lead us beyond all calamities, beyond (the reach of) of our enemies.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नम॒स्मभ्य॑मू॒तये॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+> शर्म॑ यच्छंतु स॒प्रथ॑ आदि॒त्यासो॒ यदीम॑हे॒ अति॒ द्विषः॑ ॥ ७ ॥
+
+### Printed p. 711
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । अस्मभ्यं । ऊतये । वरुणः । मित्रः । आर्यमा ।  
+> शर्म । यच्छंतु । सप्रथः । आदित्यासः । यत् । ईमहे । अति । द्विषः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वरुणादयो देवा ऊतये रक्षायै शुनं सुखमस्मभ्यं स्तोतृभ्यः
+> प्रयच्छंतु । तथादित्यासोऽदितेः पुत्रास्ते सप्रथः सर्वतः पृथु विस्तीर्णं शर्म
+> सुखं च यच्छंतु । अस्मभ्यं ददतु । यच्छर्म वयमीमहे याचामहे । द्विषश्चाति नयंतु ॥
+
+##### Gist of the bhāṣya
+
+May Varuṇa and the other gods give happiness (शुनं (*śunaṃ*)) to us, the worshippers, for our protection (ऊतये (*ūtaye*)). Likewise may the Ādityas, sons of Aditi, give widely extended (सप्रथः (*saprathaḥ*)) happiness (शर्म (*śarma*)), the happiness that we ask for (ईमहे (*īmahe*)); and may they lead us beyond our enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman, these three
+- ऊतये (*ūtaye*)—for our protection
+- शुनं (*śunaṃ*)—happiness
+- अस्मभ्यं (*asmabhyaṃ*)—let them give to us who are praising
+- आदित्यासः (*ādityāsaḥ*)—these Varuṇa and the rest, sons of Aditi
+- सप्रथः (*saprathaḥ*)—in all the extended regions
+- यत् (*yat*)—whatever happiness
+- ईमहे (*īmahe*)—we ask for, such
+- शर्म (*śarma*)—happiness
+- यच्छंतु (*yacchaṃtu*)—let them give us
+- द्विषः (*dviṣaḥ*)—our enemies
+- अति (*ati*)—let them drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+May these gods Varuṇa, Mitra and Aryaman give happiness to us who praise them, for our protection. May these Varuṇa and the rest, sons of Aditi, give us, in all these extended regions, whatever kind of happiness we ask for. May they drive our enemies far away.
+
+##### English translation
+May Varuna, Mitra, Aryaman (bestow) upon us felicity for our protection; may the Adityas grant us that adundant happiness which we solicit, (and lead us) beyond (the reach of) our enemies.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथा॑ ह॒ त्यद्व॑सवो गौ॒र्यं॑ चित्प॒दि षि॒ताममुं॑चता यजत्राः ।
+
 ---
 
-**Progress note:** Done through printed p. 705. pp. 700-705 (batch API)
+**Progress note:** Done through printed p. 711. pp. 706-711 (batch API)
