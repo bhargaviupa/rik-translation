@@ -7491,6 +7491,322 @@ O Bṛhaspati, protector of the great, O god, go about (परि दीय (*pa
 
 O Bṛhaspati, go about with your chariot. As slayer of Rākṣasas by battle, harassing enemies, destroying them, gaining victory everywhere, be the protector of our chariots.
 
+### Printed p. 201
+Come with your chariot, Brihaspathi, who are the slayer of Rakshasas
+discomfiting your enemies, crushing (hostile) hosts and demolishing (them)
+victorious in battle, be the defender of our chariots.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः ।  
+> अ॒भिवी॑रो अ॒भिस॑त्वा सहो॒जा जैत्र॑मिंद्र॒ रथ॒मा ति॑ष्ठ गो॒वित्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बलविज्ञायः । स्थविरः । प्रवीरः । सहस्वान् । वाजी । सहमानः । उग्रः ।  
+> अभिवीरः । अभिसत्वा । सहजाः । जैत्रं । इंद्र । रथं । आ । तिष्ठ । गोवित् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सर्वस्य भूतस्य बलं विजानातीति बलविज्ञायः । यद्वा । बलं ममायमिति
+> सर्वैर्बलत्वेन विज्ञायत इति बलविज्ञायः । सर्वस्य बलभूत इत्यर्थः । स्थविरो
+> महान् प्रवीरः प्रकर्षण वीरः सहस्वान् पराभिभवसामर्थ्यवान् वाजी वेजनवान्
+> अन्नवान्वा सहमानः शत्रूणामभिभवितोग्र उद्यूर्णबलोऽभिवीरः । अभिगता वीरा
+> वीर्यवंतोऽनुचरा यस्यॆ स तथोक्तः । अभिसत्वाभिगतसत्वा सहोजाः सहसो
+> बलाज्जातः एवंमहानुभावस्त्वं हे इंद्र जैत्रं जयशीलं रथमा तिष्ठ । अस्मत्सहायार्थमारोढुमर्हसि । त्वं च गोविदुदकस्य स्तुतीर्वा लब्धा वेदिता ना ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains बलविज्ञायः (*balavijñāyaḥ*) as one who knows the strength of every being; or else, as one known by all as "this is my strength", that is, the strength of all. स्थविरः (*sthaviraḥ*) is great. प्रवीरः (*pravīraḥ*) is eminently heroic. सहस्वान् (*sahasvān*) is one with the power to overcome others. वाजी (*vājī*) is one possessed of speed, or of food. सहमानः (*sahamānaḥ*) is one who overcomes enemies. उग्रः (*ugraḥ*) is one of upraised strength. अभिवीरः (*abhivīraḥ*) is one whose followers are heroic and mighty. अभिसत्वा (*abhisatvā*) is one of present, approaching might. सहोजाः (*sahojāḥ*) is born of strength. Being of such majesty, Indra is asked to mount the victorious chariot, to help us. And he is गोवित् (*govit*), the finder of water, or the one who obtains (or knows) our praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- बलविज्ञायः (*balavijñāyaḥ*)—one who knows his own greatness through his strength
+- स्थविरः (*sthaviraḥ*)—the great one
+- प्रवीरः (*pravīraḥ*)—the excellent hero
+- सहस्वान् (*sahasvān*)—one who defeats enemies
+- वाजी (*vājī*)—the possessor of food
+- सहमानः (*sahamānaḥ*)—one who confronts enemies
+- उग्रः (*ugraḥ*)—the terrible one
+- अभिवीरः (*abhivīraḥ*)—one accompanied by heroes
+- अभिसत्वा (*abhisatvā*)—one who is of the nature of power
+- सहोजाः (*sahojāḥ*)—the son of power
+- इंद्र (*iṃdra*)—O Indra
+- जैत्रं (*jaitraṃ*)—that wins victory
+- रथं (*rathaṃ*)—the chariot
+- आ तिष्ठ (*ā tiṣṭha*)—mount and sit
+- गोवित् (*govit*)—listen to the praise
+
+### Printed p. 202
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is one who knows his own greatness through his strength, a great hero (the Kannada has "great Śūdra"), an excellent hero, a defeater of enemies, possessor of food, one who confronts enemies, terrible, accompanied by heroes, the son of power. O Indra, mount the victorious chariot and sit. Listen to our praise. **NOTE**
+
+##### English translation
+Known by his strength, mighty, heroic, over-powering, vigorous, enduring, fierce, attendeded by heroes, attended by mighty men, the offspring of strength, the possessor of water, do you, Indra. ascend your triumphant chariot.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गो॒त्र॒भिदं॑ गो॒विदं॒ वज्र॑बाहुं॒ जयं॑त॒मज्म॑ प्रमृ॒णंत॒मोज॑सा ।  
+> इ॒मं स॑जाता॒ अनु॑ वीरयध्व॒मिंद्रं॑ सखायो॒ अनु॒ सं  ॑
+> रभध्वं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोत्रभिदं । गोविदं । वज्रबाहुं । जयंतं । अज्म । प्रमृणंतं । ओजसा ।  
+> इमं । सजाताः । अनु । वीरयध्वं । इंद्रं । सखायः । अनु । सं । रभध्वं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गोत्रभिदं । गा उदकानि त्रायंत इति गोत्रा मेघाः । यद्वा! गौर्भूमिः ।
+> शां त्रायंत इति गोत्राः पर्वताः । तेषां भेत्तारं गोविदमुदकस्य लब्धारं
+> वज्रबाहुं वज्रहस्तं ॥ प्रहरणार्थेभ्यः । पा. २-२-३६-४ । इति परनिपातः ॥ जयंतं
+> शत्रुनभिभवंतं जयनशीलमज्म गमनशीलं तत्रुबलमोजसा बलेन जयंतं
+> यद्वाज्माजिं जयंतमोजसा बलेन प्रमृणंतं शत्रुनभिभवंतं ईदृशं महानुभावमिममिंद्रं हे सजाताः सहोत्पन्ना योद्धारः यूयमनु वीरयध्वं ।
+> एनमग्रतः कृत्वानु पश्चाद्वीरयध्वं । वीरकर्म युद्धं कुरुध्वं ॥ शूर वीर
+
+##### Gist of the bhāṣya
+
+गोत्रभिदं (*gotrabhidaṃ*): the गोत्राः (*gotrāḥ*) are clouds, which protect waters; or else, *gauḥ* is the earth, and the गोत्राः (*gotrāḥ*) are mountains, which protect it. Indra is their breaker, गोविदं (*govidaṃ*) the finder of water, वज्रबाहुं (*vajrabāhuṃ*) the one with the thunderbolt in his hand (the compound has the later member placed first by Pā. 2-2-36 (printed २-२-३६-४ (*2-2-36-4*))). जयंतं (*jayaṃtaṃ*) is one who overcomes enemies, victorious; अज्म (*ajma*) is the moving enemy force, which he conquers by might; or else अज्म (*ajma*) is the battle that he wins. He crushes (प्रमृणंतं (*pramṛṇaṃtaṃ*)) enemies by might. O kindred warriors (सजाताः (*sajātāḥ*)), born together, put him in front and fight behind him, perform heroic deeds. The root is शूर वीर विक्रांतौ (*śūra vīra vikrāṃtau*) (continuing on the next page).
+
+### Printed p. 203
+
+> विक्रांतौ । वीरशब्दात्तत्करोति तदाचष्ट इति णिच् ॥ हे सखायः परस्परं सखिभूताः
+> यूयमिमिंद्रं संरभमाणमनु सं रभध्वं ॥
+
+##### Gist of the bhāṣya
+
+From the word वीर (*vīra*) the verb is formed with ṇic, in the sense "he does that" or "he declares that". O friends (सखायः (*sakhāyaḥ*)), mutually allied, follow this Indra as he sets about (the fight), सं रभध्वं (*saṃ rabhadhvaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सजाताः (*sajātāḥ*)—O warriors, who are kinsmen
+- गोत्रभिदं (*gotrabhidaṃ*)—the splitter of clouds
+- गोविदं (*govidaṃ*)—the obtainer of water
+- वज्रबाहुं (*vajrabāhuṃ*)—the holder of the thunderbolt weapon
+- जयंतं (*jayaṃtaṃ*)—the victorious
+- ओजसा (*ojasā*)—with strength
+- अज्म (*ajma*)—who rushes upon the enemy army
+- प्रमृणंतं (*pramṛṇaṃtaṃ*)—who destroys the enemy armies
+- इमं (*imaṃ*)—this Indra
+- अनु वीरयध्वं (*anu vīrayadhvaṃ*)—follow and fight
+- सखायः (*sakhāyaḥ*)—O friends
+- इंद्रं (*iṃdraṃ*)—Indra
+- अनु सं रभध्वं (*anu saṃ rabhadhvaṃ*)—follow
+
+##### भावार्थ (Bhāvārtha)
+
+O warriors who are kinsmen, follow and fight behind Indra, who splits the clouds, obtains water, holds the thunderbolt, is victorious, and with his strength rushes upon the enemy army and destroys the enemy armies. O friends, follow Indra.
+
+##### English translation
+Imitate in heroism, you kindred warriors, follow, friends, in prowess
+this Indra, who is the breaker of mountains, the acquirer of water, armed
+with the thunderbolt, conquering the swift (foe), destroying (the enemy)
+by his might.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोद॒यो वी॒रः श॒तम॑न्यु॒रिंद्रः॑।  
+> दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । गोत्राणि । सहसा । गाहमानः । अदयः । वीरः । शतमन्युः । इंद्रः ।  
+> दुःच्यवनः । पृतनाषाट् । अयुध्यः । अस्माकं । सेनाः । अवतु । प्र । युत्सु ॥७॥
+
+### Printed p. 204
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो गोत्राण्यभ्राणि मेघान् सहसा बलेनाभि गाहमानः प्रविशन्नरयो निर्दयो वीरो विक्रांतः शतमन्युर्बहुयज्ञो बहुक्रोधो ना दुश्चवनोऽन्यैरचाल्यः ॥ स्वयं पृतनाषाट् शत्रुसेनानामभिभविता ॥ छंदसि सह इति ण्वैः ।
+> सहेः साडः स इति मूर्धन्यादेशः ॥ अयुध्यः संप्रहर्तुमशक्यः ॥ युध संप्रहारे।
+> छांडसः क्यप् ॥ ईदृगिंद्रोऽस्माकं सेना युत्सु संग्रामेषु प्रावतु । प्रकर्षण
+> रक्षतु ॥
+
+##### Gist of the bhāṣya
+
+This Indra, entering by force (सहसा (*sahasā*)) the गोत्राणि (*gotrāṇi*), that is the clouds, is अदयः (*adayaḥ*) (pitiless to enemies), वीरः (*vīraḥ*) valiant, शतमन्युः (*śatamanyuḥ*) one of many sacrifices or of much wrath, दुश्च्यवनः (*duścyavanaḥ*) not to be moved by others, himself पृतनाषाट् (*pṛtanāṣāṭ*), the overcomer of enemy armies (the ṣ-substitution is explained by a grammatical rule), अयुध्यः (*ayudhyaḥ*) one with whom none can do battle. Such an Indra, in battles (युत्सु (*yutsu*)), is to protect (प्रावतु (*prāvatu*)) our armies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदयः (*ādayaḥ*)—pitiless towards enemies **NOTE**
+- वीरः (*vīraḥ*)—the valiant
+- शतमन्युः (*śatamanyuḥ*)—praiseworthy in many sacrifices
+- दुश्च्यवनः (*duścyavanaḥ*)—one not to be moved by others
+- पृतनाषाट् (*pṛtanāṣāṭ*)—the defeater of enemy armies
+- अयुध्यः (*ayudhyaḥ*)—the unopposed one
+- इंद्रः (*iṃdraḥ*)—Indra
+- गोत्राणि (*gotrāṇi*)—the clouds
+- सहसा (*sahasā*)—with strength
+- अभिगाहमानः (*abhigāhamānaḥ*)—entering
+- अस्माकं (*asmākaṃ*)—our
+- सेनाः (*senāḥ*)—armies
+- युत्सु (*yutsu*)—in battles
+- प्रावतु (*prāvatu*)—may he protect
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, pitiless towards enemies, valiant, praiseworthy in many kinds of sacrifices, unmoved by others, the defeater of enemy armies, unopposed, entering the clouds with his strength, protect our armies in battles.
+
+##### English translation
+May Indra, bursting open the clouds with force; pitiless, heroic, with hundredfold anger, invincible, the overthrower of armies, irresistible, protect our armies in battles.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ आसां ने॒ता बृह॒स्पति॒र्दक्षि॑णा य॒ज्ञः पु॒र ए॑तु॒ सोमः॑ ।  
+> दे॒व॒से॒नाना॑मभिभंजती॒नां जयं॑तीनां म॒रुतो॑ यं॒त्वग्रं॑ ॥ ८ ॥
+
+### Printed p. 205
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । आसां । नेता । बृहस्पतिः । दक्षिणा । यज्ञः । पुरः । एतु । सोमः ।  
+> देवसेनानां । अभिभंजतीनां । जयंतीनां । मरुतः । यंतु । अग्रं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आसामस्मत्सहायार्थमागतानामयमिंद्रो नेता नायकोऽस्तु । तथा तस्य
+> बृहस्पतिः पुर एतु । एवं दक्षिणा यज्ञः सोमश्च पुर एत्विति प्रत्येकं संबंध॥ । तथा
+> देवसेनानामभिभजंतीनामस्मदमित्रानाभिमुख्येन मर्दयंतीनां जयंतीनां ॥
+> छंदसीति नाम उदात्तत्वं जयंतीनामित्यत्र बहुलवचनान्न भवति । पा. ६-१-१७८ ॥
+> तासामग्रं मरुतो यंतु । गच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+Of these (hosts), who have come to help us, may this Indra be the leader. May Brihaspathi go before him; so also Dakṣiṇā, Yajña and Soma, each separately connected with "go before". Of the divine armies that crush (अभिभंजतीनां (*abhibhaṃjatīnāṃ*)) our enemies by confronting them and are victorious, may the Maruts go in the front. The acute accent on the noun-ending that the rule on the Veda would give does not occur in जयंतीनां (*jayaṃtīnāṃ*), because of the "variously" rule (Pā. 6-1-178).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसां (*āsāṃ*)—to these armies
+- इंद्रः (*iṃdraḥ*)—may Indra
+- नेता (*netā*)—be the leader
+- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspathi
+- पुर एतु (*pura etu*)—let him go in front
+- दक्षिणा (*dakṣiṇā*)—Dakshina
+- यज्ञः (*yajñaḥ*)—Yajna
+- सोमः (*somaḥ*)—and Soma (let them go before the army)
+- अभिभंजतीनां (*abhibhaṃjatīnāṃ*)—that destroy enemies
+- जयंतीनां (*jayaṃtīnāṃ*)—and are victorious
+- देवसेनानां (*devasenānāṃ*)—of these armies of the gods
+- अग्रं (*agraṃ*)—in front
+- मरुतः (*marutaḥ*)—the Maruts
+- यंतु (*yaṃtu*)—let them go
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra be the chief leader of these armies. May Brihaspathi, Dakshina, Yajna and Soma go in the front part of this army. May the Maruts too go as leaders of these armies of the gods, who destroy enemies and are victorious.
+
+##### English translation
+May Indra be the leader of these (hosts), may Brihaspathi, Dakshina, Yajna, and Soma go before, let the Maruts march in the van of the destroying and victorious armies of the gods.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य॒ वृष्णो॒ वरु॑णस्य॒ राज्ञ॑ आदि॒त्यानां॑ म॒रुतां॒ शर्ध॑  ॒
+> उग्रं ।
+
+### Printed p. 206
+
+> महामनसां भुवनच्यवानां घोषो देवानां जयतामुदस्थात् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । वृष्णः । वरुणस्य । राज्ञः । आदित्यानां । मरुतां । शर्धः । उग्रं ।  
+> महामनसां । भुवनच्यवानां । घोषः । देवानां । जयतां । उत् । अस्थात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृष्णो वर्षकस्येंद्रस्य राज्यो वरुणस्यादित्यानां मरुतां चोग्रमुद्गूर्णं शर्धो बलमस्माकं भवत्त्विति शेषः । किंच महामनसामुदारमनसां
+> भुवनच्यवानां चावयित्यणां देवानां घोषो जयशब्द उदस्थात् । उत्तिष्ठति ॥
+> अनूर्ध्वकर्मत्वादात्मनेपदाभावः ॥ पा. १-३-३४ ॥
+
+##### Gist of the bhāṣya
+
+May the mighty, upraised force (शर्धः (*śardhaḥ*)) of Indra the showerer, of royal Varuṇa, of the Ādityas and of the Maruts be ours (this is the supplied remainder). Moreover, the shout, the cry of victory, of the magnanimous gods, the shakers of the worlds, has arisen (उदस्थात् (*udasthāt*)). Because the verb is not in the sense of upward action, the ātmanepada does not occur (Pā. 1-3-34).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्णः (*vṛṣṇaḥ*)—of the bestower of desires
+- इंद्रस्य (*iṃdrasya*)—Indra
+- राज्ञः (*rājñaḥ*)—the lord
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- आदित्यानां (*ādityānāṃ*)—of the Ādityas
+- मरुतां (*marutāṃ*)—of the Maruts
+- उग्रं (*ugraṃ*)—the mighty
+- शर्धः (*śardhaḥ*)—force (may it be helpful to us)
+- महामनसां (*mahāmanasāṃ*)—of the very generous
+- भुवनच्यवानां (*bhuvanacyavānāṃ*)—who shake the very world
+- देवानां (*devānāṃ*)—of the gods
+- घोषः (*ghoṣaḥ*)—the shout of victory
+- उदस्थात् (*udasthāt*)—has risen
+
+##### भावार्थ (Bhāvārtha)
+
+May the force of Indra the bestower of desires, and the force of lord Varuṇa, of the Ādityas and of the Maruts be helpful to us. The shout of victory of the very generous gods, who shake the very world, has risen.
+
+##### English translation
+(May) the mighty force of the showerer Indra, of the royal Varuna,
+of the Adityas and Maruts (be ours). The shout of the magnanimous and
+victorious deities, the subverters of worlds, has arisen.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्ध॑र्षय मघव॒न्नायु॑धा॒न्युत्सत्व॑नां माम॒कानां॒ मनां॑सि।  
+> उद्वृ॑त्रहन्वा॒जिनां॒ वाजि॑ना॒न्युद्रथा॑नां॒ जय॑तां यंतु॒  ॑
+> घोषाः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । हर्षय । मघवन् । आयुधानि । उत् । सत्वनां । मामकानां । मनांसि ।  
+> उत् । वृत्रेहन् । वाजिनां । वाजिनानि । उत् । रथानां । जयतां । यंतु ।  
+> घोषाः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्निंद्र अस्मदीयान्यायुधान्युद्दर्षय । उत्कृष्टं हर्षय ।
+> प्रहरणेषूद्युक्तानि भवंतित्यर्थः । मामकानामस्मदीयानां सत्वनां प्राणिनां
+> सेवकानां मनांसि चोद्कर्षय । हे वृत्रहन्निंद्र वाजिनामश्वानां वाजिनानि वेगा
+> उद्यंतु । तभा जयतां रथानां घोषा उद्यंतु ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan Indra, rouse up our weapons (उद्धर्षय (*uddharṣaya*)), make them eager in the attacks. Rouse also the minds of my (मामकानां (*māmakānāṃ*)) सत्वनां (*satvanāṃ*), our living beings, our servants. O Vṛtrahan Indra, let the speeds of our horses rise up; and let the sounds of our victorious chariots rise up.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, the wealthy
+- आयुधानि (*āyudhāni*)—our weapons
+- उद्धर्षय (*uddharṣaya*)—stimulate
+- मामकानां (*māmakānāṃ*)—my
+- सत्वानां (*satvānāṃ*)—of the soldiers
+- मनांसि (*manāṃsi*)—the minds
+- उत् (हर्षय) (*ut (harṣaya)*)—make them full of enthusiasm
+- वृत्रहन् (*vṛtrahan*)—O Indra, destroyer of enemies
+- वाजिनां (*vājināṃ*)—of our horses
+- वाजिनानि (*vājināni*)—the speeds
+- उद्यंतु (*udyaṃtu*)—let them appear in abundance
+- जयतां (*jayatāṃ*)—victorious
+- रथानां (*rathānāṃ*)—of our chariots
+- घोषाः (*ghoṣāḥ*)—the sounds
+- उत् (*ut*)—let them appear
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, stimulate our weapons. Make the minds of our soldiers full of enthusiasm. O Indra, destroyer of enemies, let the speeds of our horses and the sounds of our chariots rise up and appear.
+
 ---
 
-**Progress note:** Done through printed p. 200. pp. 195-200 (batch API)
+**Progress note:** Done through printed p. 206. pp. 201-206 (batch API)
