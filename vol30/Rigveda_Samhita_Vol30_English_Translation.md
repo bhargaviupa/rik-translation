@@ -34858,6 +34858,181 @@ You, Indra, are the slayer of Vritra, you have spread out the firmament; you hav
 > त्वं । इंद्र । सजोषसं । अर्कं । बिभर्षि । बाह्वोः ।  
 > वज्रं । शिशानः । ओजसा ॥ ४ ॥
 
+### Printed p. 1031
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं सजोषसं सह प्रीयमाणमर्कं स्तुत्यं वज्रमात्मीयमायुधनोजसा बलेन शिशानो निश्यंस्तीक्ष्णीकुर्वनाह्वर्हस्तयोर्बिभर्षि ।
+> धारयसि शत्रूणां वधार्थं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you hold in your two hands your own weapon, the thunderbolt, which is dear to you and praiseworthy, sharpening it with might, for the slaying of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- सजोषसं (*sajoṣasaṃ*)—dear to you, and
+- अर्कं (*arkaṃ*)—praiseworthy
+- वज्रं (*vajraṃ*)—your thunderbolt
+- ओजसा (*ojasā*)—with the application of strength
+- शिशानः (*śiśānaḥ*)—having sharpened it
+- बाह्वोः (*bāhvoḥ*)—in your hands
+- बिभर्षि (*bibharṣi*)—you hold it for the slaying of enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you hold in your hands, for the slaying of enemies, your thunderbolt, dear to you and praiseworthy, having rubbed it hard and sharpened it.
+
+##### English translation
+You, Indra, bear your well-beloved and adorable thunderbolt in your arms, sharpening it with your might.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्राभि॒भूर॑सि॒ विश्वा॑ जा॒तान्योज॑सा ।  
+> स विश्वा॒ भुव॒ आभ॑वः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । इंद्र । अभिभूः । असि । विश्वा । जातानि । ओजसा ।  
+> सः । विश्वा ॥ । भुवः । आ । अभवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं विश्वा सर्वाणि जातानि जनिमंति भूतान्नोजसा बलेनाभिभूरभिभविता भवसि । तथा स तादृशस्त्वं विश्वा भुवः सर्वा भूमिः प्राप्तव्यानि सर्वाण्यपि
+> स्थानान्याभवः । अभितः प्राप्नोः ॥ भू प्राप्तौ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the overcomer of all born beings by your might. Such as you, you pervade all the earths, that is, all places that are to be reached; आभवः (*ābhavaḥ*) means you reach on every side (root भू (*bhū*) in the sense of reaching).
+
+### Printed p. 1032
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- विश्वा (*viśvā*)—all
+- जातानि (*jātāni*)—born creatures
+- ओजसा (*ojasā*)—by your power
+- अभिभूः असि (*abhibhūḥ asi*)—you have defeated; likewise
+- सः (*saḥ*)—such a you
+- विश्वा (*viśvā*)—all
+- भुवः (*bhuvaḥ*)—the earths, that is, the worlds
+- आ अभवः (*ā abhavaḥ*)—you pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your power and might you defeat all who are born, and you pervade all the worlds by your capacity.
+
+##### English translation
+You, Indra, overpower all beings by your might, you have reached all worlds.
+
+## Sūkta 154 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोम इति पंचर्चं तृतीयं सूक्तमानुष्टुभं । विवस्वतो दुहिता
+> यम्यृषिः । म्रियमाणानां यजमानादीनां वर्तनमत्र प्रतिपाद्यते । अतस्तद्देवताकमिदं । तथा चानुक्रांतं । सोमो यमी भाववृत्तमानुष्टुभं त्विति ॥
+> प्रेतोपस्थान एतत्तूक्तं । सूत्रितं च । सोम एकेभ्य उरूणसावसुतृपा उदुंबल् । आ. ६-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the third sūkta, of five Ṛks, in Anuṣṭubh metre. The seer is Yamī, daughter of Vivasvat. The conduct (state) of dying sacrificers and others is set forth here, so that is its deity. The Anukramaṇī says: सोमो यमी भाववृत्तमानुष्टुभं त्विति॥ (*somo yamī bhāvavṛttamānuṣṭubhaṃ tviti‖*) The sūkta is used at the approach to the departed (preta-upasthāna), as stated in the sūtra सोम एकेभ्य उरूणसावसुतृपा उदुंबल् (*soma ekebhya urūṇasāvasutṛpā uduṃbal*) (Ā. 6-10).
+
+##### Anuvāda
+
+The sūkta "Soma…" is the third sūkta in the twelfth anuvāka. It has five Ṛks, in Anuṣṭubh metre. Its seer is the woman Yamī, daughter of Vivasvān. The nature of sacrificers and others who die is set forth in this sūkta; therefore that conduct is its deity. The Anukramaṇī statement सोमो यमी भाववृत्तमानुष्टुभं तु (*somo yamī bhāvavṛttamānuṣṭubhaṃ tu*) and the use of this sūkta for the approach to the departed are explained by the Āśvalāyana Śrauta Sūtra, सोम एकेभ्य उरूणसावसुतृपा उदुंबल् (*soma ekebhya urūṇasāvasutṛpā uduṃbal*) (Ā. 6-10).
+
+### Printed p. 1033
+Maṇḍala 10; Anuvāka 12; Sūkta 154; Aṣṭaka 8; Adhyāya 8; Varga 12; number of Ṛks in the sūkta: 5; Seer: Yamī; Deity: Bhāvavṛtta; Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॒ एके॑भ्यः पवते घृ॒तमेक॒ उपा॑सते ।  
+> येभ्यो॒ मधु॑ प्र॒धाव॑ति॒ तांश्चि॑दे॒वापि॑ गच्छतात् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । एकेभ्यः । पवते । धृतं । एके । उप । आसते ।  
+> येभ्यः । मधु । प्रधावति । तान् । चित् । एव । अपि । गच्छतात् । १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकेभ्यः केभ्यश्चित्पितृभ्यः सोमः पवते । उपभोगाय कुल्यारूपेण प्रवहति । एषां गोत्रजाः सामानि ब्रह्मयज्ञसमयेऽधीयते । श्रूयते हि । यत्सामानि सोम एभ्यः पवत इति । एकेऽन्ये पितरो धृतमाज्यमुपासते । उपगच्छंति ।
+> उपभुंजत इत्यर्थः । एषां पुत्रादयो यजूंषि ब्रह्मयज्ञकालेऽधीयते ।
+> श्रुतिश्च भवति । यद्यजूंषि धृतस्य कुल्या इति । येभ्यः पितृभ्यः । तादर्थ्ये चतुर्थी ।
+> उपभोगार्थं मधु क्षौद्रं प्रधानति प्रवाहरूपेण शीघ्रं गच्छति । य आथर्वणान्मंत्रान्ब्रह्मयज्ञार्थमधीयते तेषां पित्यन्मधुकुल्या प्रवहति । तथा चाम्नायते । यदाथर्वणांगिरसो मधोः कुल्या इति । तांश्चिदेव तान्पूर्वोक्तान्सर्वानेव हे प्रेत त्वं प्रत्यपि गच्छतात् । अपिगच्छ । प्राप्नुहि ॥
+
+##### Gist of the bhāṣya
+
+For some Pitṛs Soma flows; it runs as a stream for their enjoyment. Those born in their lineage recite Sāmans at the time of the Brahmayajña. For it is heard: यत्सामानि सोम एभ्यः पवत (*yatsāmāni soma ebhyaḥ pavata*). Others, other Pitṛs, partake of ghee (ājya), that is, enjoy it; their sons and others recite Yajus at the Brahmayajña, and the Śruti says: यद्यजूंषि धृतस्य कुल्या (*yadyajūṃṣi dhṛtasya kulyā*). येभ्यः (*yebhyaḥ*) ("for whom"): the dative is in the sense of purpose. For their enjoyment honey (kṣaudra) runs swiftly as a stream. For those who recite Atharvan mantras for the Brahmayajña, a stream of honey flows to the Pitṛs; so it is declared: यदाथर्वणांगिरसो मधोः कुल्या (*yadātharvaṇāṃgiraso madhoḥ kulyā*). "To those very ones" mentioned above, O departed one, go to all of them; गच्छतात् (*gacchatāt*) means go, reach.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एकेभ्यः (*ekebhyaḥ*)—for the enjoyment of some Pitṛs
+- सोमः (*somaḥ*)—Soma juice
+- पवते (*pavate*)—flows as a stream
+- एके (*eke*)—some others, Pitṛs
+- धृतं (*dhṛtaṃ*)—ghee
+- उपासते (*upāsate*)—
+
+### Printed p. 1034
+desire or enjoy
+- येभ्यः (*yebhyaḥ*)—for the enjoyment of still other Pitṛs
+- मधु (*madhu*)—honey
+- प्रधावति (*pradhāvati*)—runs swiftly as a stream (O departed one)
+- तान् चित् एव (*tān cit eva*)—to the deities mentioned above (you)
+- अपि गच्छतात् (*api gacchatāt*)—go
+
+##### भावार्थ (Bhāvārtha)
+
+For the enjoyment of some Pitṛs the Soma juice flows as a stream. Some other Pitṛs partake of ghee. For the enjoyment of still others honey runs swiftly as a stream. O departed one, go to all these kinds of Pitṛs and join them.
+
+##### English translation
+Soma is filtered for some (of the Pitris), others accept clarified butter; go (O dead one) to those to whom the honey flows.
+
+##### विशेषविषयगळु (Special Topics)
+
+What does it mean that Soma and other juices flow for the enjoyment of the Pitṛs, and why do they flow? This is stated in the Taittirīya Āraṇyaka, in the account of the Brahmayajña rite:
+यत्स्वाध्यायमधीयितैकामप्यृचं यजुः साम ना तद्ब्रह्मयज्ञः संतिष्ठते । (*yatsvādhyāyamadhīyitaikāmapyṛcaṃ yajuḥ sāma nā tadbrahmayajñaḥ saṃtiṣṭhate |*) (Tai. Ā. 2-10)
+The Brahmayajña is a rite a Brāhmaṇa must perform every day. It chiefly consists of svādhyāya, that is, the practice of reciting the Veda.
+पंच वा एते महायज्ञाः सतति प्रतायंते सतति संतिष्ठंते देवयज्ञः पितृयज्ञो भूतयज्ञो मनुष्ययज्ञो ब्रह्मयज्ञ इति ॥ (*paṃca vā ete mahāyajñāḥ satati pratāyaṃte satati saṃtiṣṭhaṃte devayajñaḥ pitṛyajño bhūtayajño manuṣyayajño brahmayajña iti ‖*) (Tai. Ā. 2-18)
+The Brahmayajña is one of the five great sacrifices. These five must be performed every day, begun and finished on the same day. What is the nature of these five, and how are they performed?
+(1) Deva-yajña: यदग्नौ जुहोत्यपि समिधं तद्देवयज्ञः संतिष्ठते । (*yadagnau juhotyapi samidhaṃ taddevayajñaḥ saṃtiṣṭhate |*) If oblations such as puroḍāśa are not possible, then if even a single piece of fuel (samidh) is offered in the fire to the deities, it counts as the deva-yajña. It is completed by this one offering.
+
+### Printed p. 1035
+(2) Pitṛ-yajña: यत्पितृभ्यः स्वधा करोत्यप्यपस्तत्पितृयज्ञः संतिष्ठते ॥ (*yatpitṛbhyaḥ svadhā karotyapyapastatpitṛyajñaḥ saṃtiṣṭhate ‖*) If balls (piṇḍa) and the like cannot be given to the Pitṛs, then offering libation of water alone, saying पितृभ्यः स्वधास्तु (*pitṛbhyaḥ svadhāstu*), counts as the pitṛ-yajña.
+(3) Bhūta-yajña: यद्भूतेभ्यो बलिग्ं हरति तद्भूतयज्ञः संतिष्ठते ॥ (*yadbhūtebhyo baligṃ harati tadbhūtayajñaḥ saṃtiṣṭhate ‖*) After the Vaiśvadeva rite, at midday, putting a bali, that is a little food, for crows and other creatures counts as the bhūta-yajña.
+(4) Manuṣya-yajña: यद्ब्राह्मणेभ्योऽन्नं ददाति तन्ननुष्ययज्ञः संतिष्ठते ॥ (*yadbrāhmaṇebhyo 'nnaṃ dadāti tannanuṣyayajñaḥ saṃtiṣṭhate ‖*) After the Vaiśvadeva rite, giving food to a guest, such as a Brāhmaṇa, that is, feeding him, counts as the manuṣya-yajña.
+(5) Brahma-yajña: यत्साध्यायमधीयातैकामष्यचं यजुः साम वा तदृह्मयज्ञः संतिष्ठते ॥ (*yatsādhyāyamadhīyātaikāmaṣyacaṃ yajuḥ sāma vā tadṛhmayajñaḥ saṃtiṣṭhate ‖*) Svādhyāya is the study of the Veda received by tradition from elders such as father and grandfather. If one recites without fail every day at least a little of this, that is, one Ṛk of the Ṛgveda, one sentence of the Yajurveda, one mantra of the Sāmaveda, it counts as the brahma-yajña. These five great sacrifices must be observed every day.
+The fruit produced by such study is described here more fully:
+यदृचोऽधीते पयसः कूल्या अस्य पित्यन्तस्विधा अभिवहंति, यद्यजूग्ंषि घृतस्य कूल्या, यत्सामानि सोम एभ्यः पवते, यदथर्वांगिरसो मधोः कूल्या, यद्ब्राह्मणानीः हासान्पुराणानि कल्पान्गाथा नाराशग्‌ंसीर्मेदसः कूल्या अस्य पित्यन्तस्विधा अभिवहंति (*yadṛco 'dhīte payasaḥ kūlyā asya pityantasvidhā abhivahaṃti, yadyajūgṃṣi ghṛtasya kūlyā, yatsāmāni soma ebhyaḥ pavate, yadatharvāṃgiraso madhoḥ kūlyā, yadbrāhmaṇānīḥ hāsānpurāṇāni kalpāngāthā nārāśagṃsīrmedasaḥ kūlyā asya pityantasvidhā abhivahaṃti*) (Tai. Ā. 2-10)
+If a man studies the Ṛgveda with discipline, a river of milk flows as a stream to his Pitṛs in the world of the Pitṛs and satisfies them. By study of the Yajurveda, ghee flows as a river and satisfies the Pitṛs. By study of the Sāmaveda, Soma juice flows as a stream and satisfies the Pitṛs. By study of the Atharvaveda, honey flows as a stream and gives the Pitṛs delight. By study of the Brāhmaṇas, Itihāsa and Purāṇas, Kalpa sūtras, Gāthās and Nārāśaṃsī mantras, a stream together with flesh (meat) arises and satisfies the Pitṛs.
+
+### Printed p. 1036
+यदृचोऽधीते पय आहुतिभिरेव तद्देवाग्स्तरपयति, यद्यजूग्ंषि धृता हुतिभिर्यत्सामानि सोमाहुतिभिर्यदथर्वांगिरसो मध्वाहुतिभिर्यद्भा ह्मणानीतिहासान्पुराणानि कल्पान्गाधा नाराशग्‌ंसीर्मेदाहुतिभिरेव तद्दे वाग्‌स्तर्पयति त एनं तृप्ता आयुषा तेजसा वर्चसा श्रिया यशसा ब्रह्मवर्चसेनान्नाद्येन च तर्पयंति ॥ (*yadṛco 'dhīte paya āhutibhireva taddevāgstarapayati, yadyajūgṃṣi dhṛtā hutibhiryatsāmāni somāhutibhiryadatharvāṃgiraso madhvāhutibhiryadbhā hmaṇānītihāsānpurāṇāni kalpāngādhā nārāśagṃsīrmedāhutibhireva tadde vāgstarpayati ta enaṃ tṛptā āyuṣā tejasā varcasā śriyā yaśasā brahmavarcasenānnādyena ca tarpayaṃti ‖*) (Tai. Ā. 2-10)
+Study of the Ṛgveda satisfies the deities like an offering of milk. Likewise study of the Yajurveda is like an offering of ghee, of the Sāmaveda like an offering of Soma, of the Atharvaveda like an offering of honey, and study of the Brāhmaṇas and the rest like offerings of fat (meat). By such offerings the deities are satisfied and favour the men who have studied, granting them long life, brilliance, vigour, wealth, fame, Brahmanical radiance and food and the like; this is the meaning.
+In the present Ṛk only the offerings of Soma, ghee and honey are mentioned; the milk offering is not spoken of. Even so it must be supplied here by ellipsis.
+In this Ṛk and in the following ones the jīva that is in the body of the departed is addressed as "O departed one". After death, when the earthly body is gone, the jīva, assuming a subtle form, must go to heavenly and other worlds to experience the fruit of its deeds. It cannot go to those worlds immediately after death; for some time it must remain in a subtle body. A being in such a state is customarily called preta. The jīva that has come out of the earthly body after death may be called preta.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तप॑सा॒ ये अ॑नाधृ॒ष्यास्तप॑सा॒ ये स्व॑र्य॒युः ।  
+> तपो॒ ये च॑क्रि॒रे मह॒स्तांश्चि॑दे॒वापि॑ गच्छतात् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तपसा । ये । अनाधृष्याः । तपसा । ये । स्वः । ययुः ।  
+> तपः । ये । चक्रिरे । महः । तान् । चित् । एव । अपि । गच्छतात् ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 1030. pp. 1025-1030 (batch API)
+**Progress note:** Done through printed p. 1036. pp. 1031-1036 (batch API)
