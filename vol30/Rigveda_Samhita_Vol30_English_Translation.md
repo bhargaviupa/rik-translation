@@ -14804,6 +14804,286 @@ Indra, the counterpart of heaven and earth, has known all sacrificial rites. He 
 ##### English translation
 Indra, the counterpart of heaven and earth, is cognizant of all sacrifices he is the slayer of Shushna; he spread out the spacious heaven with the sun (to light it up); best of proppers, he propped up (the heaven) with a prop.
 
+### Printed p. 458
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वज्रे॑ण॒ हि वृ॑त्र॒हा वृ॒त्रमस्त॒रदे॑वस्य॒ शूशु॑वानस्य मा॒याः ।  
+> विधृ॑ष्णो॒ अत्र॑ दृष॒ता जं॑घं॒थाथा॑भवो मघवन्ना॒ह्वो॑जाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वज्रेण । हि । वृत्रहा । वृत्रं । अस्तः । आदेवस्य । शूशुवानस्य । मायाः ।  
+> वि । धृष्टो इति । अत्र । धृषता । जघंथ । अथ । अभवः । मघवन् । बाहुओजाः ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृत्रहा वृत्रस्य हंता वज्रेण वृत्रमस्तः । अस्त्रणाः । अवधीः ॥
+> स्त्वणातेर्लज' बहुलं !छंदसीति विकरणस्य लुक् । सिपि गुणः । हियोगादनिघातः ॥
+> अनंतरं हे धृष्णो धर्षणशील त्वमदेवस्याद्योतमानस्य शूशुवानस्य स्वबलेन
+> वर्धमानस्य तस्य माया धृषता समर्थेन वज्रेणात्रास्मिन्काल एव वि जघंथ ।
+> विनाशितवानसि ॥ हंतेर्लिटि थल्यभ्यासाच्चेति कुत्वं ॥ अथ हे मघवन्मनवन्निंद्र
+> बाह्वोजा भुजबलवानभवः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, slayer of Vṛtra, you have struck down Vṛtra with the thunderbolt." Next, "O bold one, who are of daring nature, you have destroyed at this very time the deceits of that godless (अदेवस्य (*adevasya*), non-shining) Vṛtra, who grows by his own strength (शूशुवानस्य (*śūśuvānasya*)), with the capable thunderbolt." Then, "O Maghavan, possessor of wealth, Indra, you became strong-armed."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—you, the slayer of enemies (O Indra)
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura
+- अस्तः (*astaḥ*)—have slain
+- धृष्टो (*dhṛṣṭo*)—you, the assailant of enemies
+- अदेवस्य (*adevasya*)—of the one who is not a worshipper of the gods
+- शूशुवानस्य (*śūśuvānasya*)—and who was growing by his own strength, of that Vṛtra
+- मायाः (*māyāḥ*)—the deceitful powers
+- धृषता (*dhṛṣatā*)—with the powerful thunderbolt
+- वि जघंथ (*vi jaghaṃtha*)—have destroyed
+- अथ (*atha*)—thereafter
+- मघवन् (*maghavan*)—O Indra, possessor of wealth
+- बाह्वोजाः (*bāhvojāḥ*)—possessed of exceedingly great strength of arm
+- अभवः (*abhavaḥ*)—have become
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the slayer of enemies, have slain Vṛtra the Asura with the thunderbolt. You, the assailant of enemies, have destroyed with your powerful thunderbolt the deceitful powers of that Asura, who is not a worshipper of the gods and who was growing by his own strength. Thereafter, O wealthy Indra, you became possessed of exceedingly great strength of arm.
+
+### Printed p. 459
+
+##### English translation
+The slayer of Vritra, you have laid him low with the thunderbolt ; resolute Indra, you have now overcome by your powerful (bolt), the devices of the impious (Asura). confiding in his own strength ; you, Maghavan, wast strong-armed.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सचं॑त॒ यदु॒षसः॒ सूर्ये॑ण चि॒त्राम॑स्य के॒तवो॒ राम॑विंदन् ।  
+> आ यन्नक्ष॑त्रं॒ ददृ॑शे दि॒वो न पुन॑र्य॒तो नकि॑र॒द्धा नु वे॑द ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सचंत । यत् । उषसः । सूर्येण । चित्रां । अस्य । केतवः । रां । अविंदन् ।  
+> आ । यत् । नक्षत्रं । वदृशे । दिवः । न । पुनः । यतः । नकिः । अद्या । नु । वेद ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदोषस उषःकालाः सूर्येण सूर्यात्मकेनेंद्रेण सचंत संगच्छंते ॥ सच समवाये भौवादिकः ॥ तदानीमस्य स्वभूताः केतवः सर्वस्य प्रज्ञापका
+> रश्मयश्चित्रां नानावर्णां रां रायं श्रियमविंदन् । अलभंत । पुनरुदयानंतरं
+> यद्यदा दिवो नक्षत्रं न ददृशे न दृश्यते ॥ दृशेः कर्मणि लिट् । यद्योगादनिघातः ॥ तदानीं यतः ॥ इणः शत्रंतस्य शसि शतुरनुनो नद्यजादी इति विभक्तेरुदात्तत्वं ॥ सर्वत्र गच्छतोऽस्य रश्मीन्नकिर्न कश्चिन्नु वेद । जानाति । एतदद्धा सत्यमेव ॥
+
+##### Gist of the bhāṣya
+
+When the dawns (the times of dawn) unite with the sun, that is, with Indra in the form of the sun, then his own rays (केतवः (*ketavaḥ*), the makers of knowledge of all things) obtain variegated, many-coloured splendour (रां (*rāṃ*), wealth). Again, after the rising, when the star of heaven is not seen, then no one knows these rays of his as he goes everywhere. This is indeed true (अद्धा (*addhā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- उषसः (*uṣasaḥ*)—the parts of the goddess Uṣas
+- सूर्येण (*sūryeṇa*)—with the sun
+- सचंत (*sacaṃta*)—unite, then
+- अस्य (*asya*)—of the sun
+- केतवः (*ketavaḥ*)—the rays
+- चित्रां (*citrāṃ*)—of many colours
+- रां (*rāṃ*)—the wealth of beauty
+- अविंदन् (*aviṃdan*)—obtain
+- पुनः (*punaḥ*)—after the rising
+- यत् (*yat*)—when
+- दिवः (*divaḥ*)—of the heaven
+- नक्षत्रं (*nakṣatraṃ*)—the star
+- न ददृशे (*na dadṛśe*)—is not seen, then
+- यतः (*yataḥ*)—the rays of this sun that moves everywhere
+- नकिः नु वेद (*nakiḥ nu veda*)—no one can know
+- अद्धा (*addhā*)—this is true
+
+### Printed p. 460
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of sunrise, when the parts of the goddess Uṣas unite with the sun, the sun's rays obtain the wealth of beauty of many colours. After the rising, when the star of heaven is not seen, no one can know the rays of this sun, which moves everywhere. This is true.
+
+##### English translation
+When the dawns are associated with the sun, his rays acquire wonderful beauty ; but when the constellation of heaven is not seen, no one really knows (his rays) as he moves.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दू॒रं किल॑ प्रथ॒मा ज॑ग्मुरासा॒मिंद्र॑स्य॒ याः प्र॑स॒वे स॒सुरापः॑ ।  
+> क्व॑ स्वि॒दग्रं॒ क्व॑ बु॒द्ध आ॑सा॒मापो॒ मध्यं॒ क्व॑ वो नू॒नमंतः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दूरं । किल । प्रथमाः । जग्मुः । आसां । इंद्रस्य । याः । प्रसवे । सस्रुः । आपः ।  
+> क्व । स्वित् । अग्रं । क्व । बुध्नः । आसां । आपः । मध्यं । क्व । वः । नूनं । अंतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आसामपां मध्ये प्रथमाः प्रथमगामिन्यस्ता आपो दूरं किल जग्मुः ।
+> दूरमेव गताः । या अप इंद्रस्य प्रसवे प्रेरणे ॥ षू प्रेरणे । जवसन् चेति
+> वक्तव्यं । पा. ३-३-५६-४ । इत्यबपवादेऽच् । थाथघञ्काजबित्रकाणामितुक्तरपदांतोदात्तत्वं ॥ तस्याज्ञायां सस्रुः । सरंति । गच्छंति खलु । अथ प्रत्यक्षकृतः ।
+> हे आपः आसां युष्माकमग्रं क्व स्वित् । कुत्र वर्तते । बुध्नो मूलं च क्व । तथा
+> वो युष्माकं मध्यं च क्व नूनमिदानीं युष्माकमंतोऽवसानं च क्व । सर्वगतश्वादनिर्ज्ञायमानगमना आसन्नित्यर्थः ॥ क्व । किंशद्वात् सप्तम्यर्थे किमोऽदित्यप्रत्ययः । क्वातीति क्वादेशः । तित्स्वरितः । अंतः । अमेर्गत्यर्थस्यासिहसीत्यादिना
+> तत्पत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Among these waters, those that go first went very far indeed: the waters that flow at Indra's impulsion (प्रसवे (*prasave*), in sending). He derives प्रसवे (*prasave*) from the root षू (*ṣū*) in the sense of impelling, and says सस्रुः (*sasruḥ*) means they flow, they go. Then, addressing them as if before his eyes: "O waters, where is your front? Where is your root (बुध्नः (*budhnaḥ*))? Where is your middle? Where now is your end?" The meaning is that, being all-pervading, their going was not known. He also remarks on क्व (*kva*) (the ending in the sense of the locative) and on अंतः (*aṃtaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः (*yāḥ*)—the waters which
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- प्रसवे (*prasave*)—at the impulsion
+- सस्रुः (*sasruḥ*)—flow
+- आसां (*āsāṃ*)—among those streams of water
+- प्रथमाः (*prathamāḥ*)—the first streams
+- दूरं किल (*dūraṃ kila*)—very far
+- जग्मुः (*jagmuḥ*)—go
+- आपः (*āpaḥ*)—O waters
+- आसां (*āsāṃ*)—your
+- अग्रं (*agraṃ*)—beginning
+- क्व स्वित् (*kva svit*)—where is it
+- बुध्नः (*budhnaḥ*)—root
+- क्व (*kva*)—where
+- वः (*vaḥ*)—your
+- मध्यं (*madhyaṃ*)—middle part
+- क्व (*kva*)—where
+- अंतः (*aṃtaḥ*)—end
+- क्व (*kva*)—where is it
+
+### Printed p. 461
+
+##### भावार्थ (Bhāvārtha)
+
+Of the streams of water that flow at Indra's impulsion, the first streams go very far. O waters, what is your beginning, what your root? What is your middle? What is your end?
+
+##### English translation
+The first of those waters, which issued forth at Indra's sending, went very far. Where, waters, is your beginning, where your root, where is your centre, where indeed is your termination ?
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सृ॒जः सिंधू॒रहि॑ना जग्रसा॒ना आदिदे॒ताः प्र वि॑विज्रे ज॒वेन॑ ।  
+> मुमु॑क्षमाणा उ॒त या मु॑मु॒च्रेऽधेदे॒ता न र॑मंते॒  ॑
+> नितिक्ताः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सृजः । सिंधून् । अहिना । जग्रसानान् । आत् । इत् । एताः । प्र । विविज्रे । जवेन ।  
+> मुमुक्षमाणाः । उते । याः । मुमुच्रॆ । अध । इत् । एताः । न । रमंते । नितिक्ताः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अहिनाहंतव्येन वृत्रेण मेघेन वा जग्रसानान् ॥ ग्रस अदने ।
+> अनुदात्तेत् । छंदसि लिटः कानच् ॥ ग्रस्ताः सिंधून् स्यंदमाना अपः सृजः । असृजः ।
+
+##### Gist of the bhāṣya
+
+"O Indra, you have released the streams (सिंधून् (*siṃdhūn*)), the flowing waters, that had been swallowed (जग्रसानान् (*jagrasānān*), from the root ग्रस (*grasa*) in the sense of eating) by Ahi, that is, by Vṛtra who was to be slain, or by the cloud."
+
+##### Gist of the bhāṣya
+
+(continued in the next block)
+
+### Printed p. 462
+
+> निरगमयः । आदित् । इदवधारणे ! अनंतरमेवैता आपो जवेन वेगेन प्र विविज्रे ।
+> सर्वत्रात्यंतं चलिता बभूवुः ॥ ओविजी भयचलनयोः । उदात्तेत् । लिटीरयो
+> रे । पा. ६-४-७६ । इतीरयो रेआदेशः ॥ उतापि च मुमुक्षमाणा इंद्रेण
+> मोचयितुमिष्यमाणा या आपो मुमुचे इंद्रेण मोचिता अभूवन् ॥ मुचे
+> कर्मणि लिट् ॥ अधेदनंतरमेव नितिक्ता नितरां शुद्धा आपो न रमंते । एकत्र न
+> क्रीडंते । किंतु सर्वत्र गमनशीला इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+आदित् (*ādit*): इत् (*it*) is in the sense of restriction; immediately afterwards these waters rushed forth with speed, becoming greatly agitated everywhere (from the root ओविजी (*ovijī*) in the sense of fear and moving). Further, the waters that desired to be released by Indra were released by Indra (मुमुच्रॆ (*mumucrè*), perfect passive of *muclṛ*). Immediately afterwards, नितिक्ताः (*nitiktāḥ*), the thoroughly pure waters, do not delight (न रमंते (*na ramaṃte*)) in one place: they do not sport in one place, but are given to going everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहिना (*ahinā*)—by Vṛtra in the form of a cloud (O Indra)
+- जग्रसानान् (*jagrasānān*)—swallowed
+- सिंधून् (*siṃdhūn*)—the streams of water
+- सृजः (*sṛjaḥ*)—you have released
+- आदित् (*ādit*)—immediately upon that
+- एताः (*etāḥ*)—these waters
+- जवेन (*javena*)—with speed
+- प्र विविज्रे (*pra vivijre*)—have rushed forward and flowed
+- उत (*uta*)—and
+- मुमुक्षमाणाः (*mumukṣamāṇāḥ*)—possessed of the desire to be released by Indra
+- याः (*yāḥ*)—which waters
+- मुमुच्रॆ (*mumucrè*)—were released from the Asura
+- अधेत् (*adhet*)—right after that
+- नितिक्ताः (*nitiktāḥ*)—the thoroughly pure waters
+- न रमंते (*na ramaṃte*)—do not sport in one place (they flow everywhere)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have released the streams of water swallowed by Vṛtra in the form of a cloud. Immediately upon that, these waters have rushed forward and flowed with speed. The waters, possessed of the desire to be released by Indra, that were released from the Asura, being thoroughly pure, do not stay in one place but flow everywhere.
+
+##### English translation
+Yon have set at liberty the streams which had been swallowed by Ahi ; they rushed forth with rapidity ; the waters which longed to be liberated were set free, and now the pure (streams) never stop.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒ध्रीचीः॒ सिंधु॑मुश॒तीरि॑वायन्त॒नाज्जा॒र आ॑रि॒तः पू॒र्भिदा॑सां ।  
+> अस्त॒मा ते॒ पार्थि॑वा॒ वसू॑न्य॒स्मे ज॑ग्मुः सू॒नृता॑ इंद्र  ॒
+> पूर्विः ॥ १० ॥
+
+### Printed p. 463
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सध्रीचीः । सिंधुं । उशतीः इव । आयन् । सनात् । जारः । आरितः । पूभित् । आसां ।  
+> अस्तं । आ । ते । पार्थिवा । वसूनि । अस्मे इति । जग्मुः । सूनृताः । इंद्र । पूर्वीः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सध्रीचीः ॥ सहस्य सध्रिरिति सध्रीत्यादेशः । अंचतेश्चोपसंख्यानमिति जीप्।
+> अलोपदीर्घौ । वा छंदसीति पूर्वसवर्णदीर्घः ॥ सहांचनाः सहगमना आपः
+> सिंधुं समुद्रं भर्तारमायन् । आगच्छन् । तत्र दृष्टांतः । उशतीरिव यथा
+> कामयमानाः स्त्रियः स्वपतिमभिगच्छंति तद्वत् । जारः शत्रूणां जारयिता पूर्भिदिंद्रः सॆनाच्चिरादेवासामपामारितः प्रेरकत्वेन स्वामी भवति । हे इंद्र अस्मे
+> अस्माकं स्वभूतानि पार्थिवा पार्थिवानि वसूनि धनवस्त्रीणयित्यणि हवींषि पूर्विर्बह्व्यः सून्यता वाचः स्तुतिलक्षणाश्च ते त्वदीयमस्तं गृहमा जग्मुः । आगच्छंतु ।
+> यद्वा! अस्मदीयाः स्तुतयस्ते गृहं गच्छंतु । अस्माकं गृहं त्वदीयानि पार्थिवानि
+> धनान्यभिगच्छंतु ॥ गमेश्वंदसि सार्वकालिको लिट् ॥
+
+##### Gist of the bhāṣya
+
+सध्रीचीः (*sadhrīcīḥ*) (the form is explained by the substitution of सध्रि (*sadhri*) for सह (*saha*) and by the addition of the affix जीप् (*jīp*)): the waters, going together, came to the ocean (सिंधुं (*siṃdhuṃ*)), their lord. The illustration: as women who are full of desire go to their own husband, so do they. जारः (*jāraḥ*) is the destroyer of enemies; Indra, the breaker of cities (पूभित् (*pūbhit*)), has from long ago (सनात् (*sanāt*)) been lord of these waters as their impeller (आरितः (*āritaḥ*)). "O Indra, our earthly (पार्थिवा (*pārthivā*)) possessions (वसूनि (*vasūni*)), the oblations, and many true words (सूनृताः (*sūnṛtāḥ*)) in the form of praise, let them come to your house (अस्तं (*astaṃ*))." Or else: let our praises go to your house; and let your earthly riches come to our house. जग्मुः (*jagmuḥ*) is the perfect used in the sense of all times in the Veda.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उशतीरिव (*uśatīriva*)—as women who long for union with their husband go to their husband and join him
+- सध्रीचीः (*sadhrīcīḥ*)—the rivers that flow joined together
+- सिंधुं (*siṃdhuṃ*)—the ocean
+- आयन् (*āyan*)—go and join
+- जारः (*jāraḥ*)—the destroyer of enemies
+- पूर्वित् (*pūrvit*)—and the splitter of enemy cities, Indra
+- सनात् (*sanāt*)—from long ago
+- आसां (*āsāṃ*)—of these waters
+- आरितः (*āritaḥ*)—has been the lord, the impeller
+- इंद्र (*iṃdra*)—O Indra
+- अस्मे (*asme*)—our
+- पार्थिवा (*pārthivā*)—earth-born
+- वसूनि (*vasūni*)—riches in the form of oblations
+- पूर्विः (*pūrviḥ*)—abundant
+- सूनृताः (*sūnṛtāḥ*)—praises
+- ते (*te*)—your
+- अस्तं (*astaṃ*)—house
+- आजग्मुः (*ājagmuḥ*)—let them go and reach
+
+##### भावार्थ (Bhāvārtha)
+
+As women who long for union with their husband go to their husband and join him, the rivers, flowing joined together, go and join the ocean. Indra, the destroyer of enemies and the splitter of enemy cities, has from long ago been the lord and impeller of these waters. O Indra, let our earth-born riches in the form of oblations, and our abundant praises, go and reach your house (go to you).
+
+##### English translation
+They hasten associated together to the ocean, like loving wives (to a husband); (Indra), the witherer of foes, the demolisher of cities, is their
+
 ---
 
-**Progress note:** Done through printed p. 457. pp. 452-457 (batch API)
+**Progress note:** Done through printed p. 463. pp. 458-463 (batch API)
