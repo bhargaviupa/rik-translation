@@ -2,7 +2,7 @@
 *Made by `python3 tools/rv/sp_report.py 6` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-25. Format: `docs/SECOND_PASS_REPORT.md`.*
 
 ## 1. State
-- **Stage:** S3–S6 done; S2 reading complete
+- **Stage:** S2 reading in page batches
 - **Pages read:** 618 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–599, 600–619)
 - **Findings:** 1188 — applied 871, kept/not applied 317 (English kept: misprints and doubts settled by rule; see part 5); edits ok 878, failed 0
 - **Reader tokens (batches so far):** 5301k; per page 8.6k
@@ -91,4 +91,4 @@ Settled by rule, no reading needed: 260 Kannada misprints where the English is k
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
 
 ## 7. Next
-editor: open items; scholar sample of decided_by_default.tsv
+the next page batch; then S3 totals (re-run the S0 checks), S4 coverage, S5 pictures, S6 records

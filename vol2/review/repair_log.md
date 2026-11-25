@@ -18,3 +18,122 @@
 - Nov 17 2026, kind `asprinted2` (user: remove `[as printed…]`): every bracket `[…as printed…]` without Devanagari, `*`, `[sic]` or a leading `?` removed in 69 lines (81 places, including `[as printed, for 8-1-72]`: the standard number named there is in removed_remarks.tsv). 22 brackets with Sanskrit or `[sic]` stay.
 - Nov 17 2026, merge into main: main had meanwhile replaced 160 labelled glosses by `**GLOSS**` (`gloss_marker.py`) in the same file, so the two versions of the English file conflicted in 93 places. Resolution: main's file taken as the base and the whole clean-up re-run on it by the same scripts, in the same order (oldnotes, notes, clauses, tentative, asprinted, firstperson, asprinted2, 42 `[accent ?]` tags, accent_replace of the 93 Ṛks). Result: `[?]` 413, `[sic]` 142, tentative 23 (the rest of the glosses having gone to GLOSS), 176 of 176 Ṛks equal to the reference. `removed_remarks.tsv`, `open_readings.tsv`, `refs_marked.tsv` regenerated for the merged text; `verse_corrections.tsv` rewritten by the same run.
 - 2026-11-18: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 1852, en latin 2990, en latin-twin 622; every change is a row of review/refs_applied.tsv.
+
+## Second pass: accent doubts (tag ACCENT)
+- The verses of the volume are the accented verses of the reference (and agree with Wikisource apart from its conventions): the doubts about the accents of the old reading are settled; 93 end marks and 23 remark lines removed (`tools/rv/qmark_cleanup.py 2 accent`). Rows: old line numbers of the file before this edit.
+  - line 514: end mark: `tā́ nā́satyā vṛktábarhiṣaḥ |* [accent ?]` → `vā́kavaḥ sutā́ nā́satyā vṛktábarhiṣaḥ |*`
+  - line 517: remark deleted: `*(Accents read from the better scan. [accent ?]: the print has the svarita stroke over स्रा of दस्रा with a do` → ``
+  - line 910: end mark: `ṣitó víprajūtaḥ sutā́vataḥ |* [accent ?]` → ` yāhi dhiyéṣitó víprajūtaḥ sutā́vataḥ |*`
+  - line 913: remark deleted: `*(Accents read from the better scan. [accent ?]: the print has a further small mark above व of सुताव॑तः, not i` → ``
+  - line 2967: end mark: `ā́ntsupāráḥ sunvatáḥ sákhā |* [accent ?]` → `yo3vánirmahā́ntsupāráḥ sunvatáḥ sákhā |*`
+  - line 2968: end mark: `*tasmā íṃdrāya gāyata ||10||* [accent ?]` → `> *tasmā íṃdrāya gāyata ||10||*`
+  - line 2970: remark deleted: `*(Accents read from the better scan; [accent ?]: on this page the print shows through from the back, and the m` → ``
+  - line 5244: remark deleted: `*(In the second line the svarita strokes stand over "sa" and "gi" in the print; their placement is doubtful, h` → ``
+  - line 5252: end mark: `*samasminnṛṃjate giraḥ ||9||* [accent ?]` → `> *samasminnṛṃjate giraḥ ||9||*`
+  - line 5486: remark deleted: `*(In the first line the print has, over "gā" of "gāthinaḥ," a svarita stroke as well as the anudātta bar; only` → ``
+  - line 5493: end mark: `ád índram arkébhir arkíṇaḥ |* [accent ?]` → `gāthíno bṛhád índram arkébhir arkíṇaḥ |*`
+  - line 5718: remark deleted: `*(The print sets the svarita stroke over "sū" (not over "ryaṃ"), and over "bhi" of "gobhir" both a stroke and ` → ``
+  - line 5725: end mark: `asa ā́ sūryaṃ rohayad diví |* [accent ?]` → `ghā́ya cákṣasa ā́ sūryaṃ rohayad diví |*`
+  - line 5726: end mark: `í góbhir ádrim airayat ||3||* [accent ?]` → `> *ví góbhir ádrim airayat ||3||*`
+  - line 6199: remark deleted: `*(Saṃhitā accents as printed (p. 295); Pada unaccented. In "kṣitīnām" only the bar under "kṣi" is printed; the` → ``
+  - line 6207: end mark: `índraḥ páñca kṣitī́nām ||9||* [accent ?]` → `> *índraḥ páñca kṣitī́nām ||9||*`
+  - line 6417: remark deleted: `*(In the second line the print sets a svarita stroke over "va" of "varṣiṣṭham" (not expected after "saham"), h` → ``
+  - line 6425: end mark: `varṣiṣṭham ūtáye bhara ||1||* [accent ?]` → `> *varṣiṣṭham ūtáye bhara ||1||*`
+  - line 6674: remark deleted: `*(Line 1: the strokes stand over "ma" of "mahitvam" and over "tva…"; line 2: a stroke over "dyau," and over "ś` → ``
+  - line 6681: end mark: `a nú mahitvám astu vajríṇe |* [accent ?]` → `raḥ paráś ca nú mahitvám astu vajríṇe |*`
+  - line 6682: end mark: `aúr ná prathinā́ śávaḥ ||5||* [accent ?]` → `> *dyaúr ná prathinā́ śávaḥ ||5||*`
+  - line 6771: remark deleted: `*(The bar under "sya" of "tokasya" is faint, hence [accent ?].)*` → ``
+  - line 6778: end mark: `śata náras tokásya sánitau |* [accent ?]` → `hé vā yá ā́śata náras tokásya sánitau |*`
+  - line 6996: remark deleted: `*(Saṃhitā marks as read from the print; Pada unaccented. On this page several strokes seem to stand one syllab` → ``
+  - line 7003: end mark: `hūtaya ūtaya indra mā́vate |* [accent ?]` → `́ hi te víbhūtaya ūtaya indra mā́vate |*`
+  - line 7004: end mark: `adyaś cít santi dāśuṣe ||9||* [accent ?]` → `> *sadyaś cít santi dāśuṣe ||9||*`
+  - line 7067: remark deleted: `*(In the second line strokes stand over "drā," "ma" and the final "ye"; placement doubtful, hence [accent ?].)` → ``
+  - line 7075: end mark: `> *índrāya sómapītáye ||10||* [accent ?]` → `> *índrāya sómapītáye ||10||*`
+  - line 8050: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke in यूथेन stands between थे and न; read as on` → ``
+  - line 8058: end mark: `i yūthéna vṛṣṇír ejati ||2||* [accent ?]` → `rthaṃ cetati yūthéna vṛṣṇír ejati ||2||*`
+  - line 8188: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke in सचेन्द्र stands between चे and न्द्र; rea` → ``
+  - line 8196: end mark: `dra yajñáṃ ca vardhaya ||4||* [accent ?]` → ` vaso sácendra yajñáṃ ca vardhaya ||4||*`
+  - line 8276: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke in सुतेषु stands between ते and षु; read as ` → ``
+  - line 8284: end mark: `ṇo rāráṇat sakhyéṣu ca ||5||* [accent ?]` → `thā sutéṣu ṇo rāráṇat sakhyéṣu ca ||5||*`
+  - line 8713: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 2: a stroke over स of सहस्र followed by a bar under ह, as ` → ``
+  - line 8721: end mark: `dhī́ sahasrásā́m ṛṣim ||11||* [accent ?]` → `sū́ tira kṛdhī́ sahasrásā́m ṛṣim ||11||*`
+  - line 8803: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 1: the stroke at the start stands over the right edge of प` → ``
+  - line 8810: end mark: `íra imā́ bhavantu viśvátaḥ |* [accent ?]` → `ā girvaṇo gíra imā́ bhavantu viśvátaḥ |*`
+  - line 8811: end mark: `ṣṭā bhavantu júṣṭayaḥ ||12||* [accent ?]` → `ṛ́ddhayo júṣṭā bhavantu júṣṭayaḥ ||12||*`
+  - line 9182: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 1: a second bar stands low under स्य of वलस्य, below the s` → ``
+  - line 9189: end mark: `gómató 'pāvar adrivo bílaṃ |* [accent ?]` → `aṃ valásya gómató 'pāvar adrivo bílaṃ |*`
+  - line 9346: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 2: a bar under वां and a stroke over स्यु of श्रवांस्युत्त` → ``
+  - line 9354: end mark: `téṣāṃ śrávāṃsy ut tira ||7||* [accent ?]` → `a médhirās téṣāṃ śrávāṃsy ut tira ||7||*`
+  - line 9862: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 2: a stroke is printed over र of रक्षस्विनः as well as ove` → ``
+  - line 9870: end mark: `*agne tváṃ rakṣasvinaḥ ||5||* [accent ?]` → `> *agne tváṃ rakṣasvinaḥ ||5||*`
+  - line 10671: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 1: bars under रा, मि and म, none visible under प्रि; line ` → ``
+  - line 10678: end mark: `iyam asmín yajñá úpa hvaye |* [accent ?]` → `ṃsam ihá priyam asmín yajñá úpa hvaye |*`
+  - line 10679: end mark: `ádhujihvaṃ haviṣkṛ́tam ||3||* [accent ?]` → `> *mádhujihvaṃ haviṣkṛ́tam ||3||*`
+  - line 11028: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 1: the bars are crowded under नक्तो and सास्मि — [accent ?` → ``
+  - line 11035: end mark: `péśasāsmín yajñá úpa hvaye |* [accent ?]` → `ktoṣā́sā supéśasāsmín yajñá úpa hvaye |*`
+  - line 11132: remark deleted: `*(Saṃhitā accents as printed; Pada unaccented. Line 1: the first stroke stands over सु, not over ता — [accent ` → ``
+  - line 11139: end mark: ` hvaye hótārā dáivyā kavī́ |* [accent ?]` → `ujihvā́ úpa hvaye hótārā dáivyā kavī́ |*`
+  - line 12088: end mark: `*havíṣmanto araṃkṛ́taḥ ||5||* [accent ?]` → `> *havíṣmanto araṃkṛ́taḥ ||5||*`
+  - line 12281: end mark: `́dho 'gne pátnīvatas kṛdhi |* [accent ?]` → `trām̐ ṛtāvṛ́dho 'gne pátnīvatas kṛdhi |*`
+  - line 12282: end mark: `mádhvaḥ sujihva pāyaya ||7||* [accent ?]` → `> *mádhvaḥ sujihva pāyaya ||7||*`
+  - line 12365: end mark: `ḍyās té te pibantu jihváyā |* [accent ?]` → `ájatrā yá īḍyās té te pibantu jihváyā |*`
+  - line 12440: end mark: ` *vipro hótehá vakṣati ||9||* [accent ?]` → `> *vipro hótehá vakṣati ||9||*`
+  - line 12526: end mark: `ā mitrásya dhā́mabhiḥ ||10||* [accent ?]` → `> *píbā mitrásya dhā́mabhiḥ ||10||*`
+  - line 12604: end mark: `emáṃ no adhvaráṃ yaja ||11||* [accent ?]` → `> *semáṃ no adhvaráṃ yaja ||11||*`
+  - line 12799: end mark: `ṛtúnā́ tvā viśántv índavaḥ |* [accent ?]` → `sómaṃ píba ṛtúnā́ tvā viśántv índavaḥ |*`
+  - line 12872: end mark: `yáṃ hi ṣṭhā́ sudānavaḥ ||2||* [accent ?]` → `> *yūyáṃ hi ṣṭhā́ sudānavaḥ ||2||*`
+  - line 13111: end mark: `́ vaha sādáyā yóniṣu triṣú |* [accent ?]` → `devā́m̐ ihā́ vaha sādáyā yóniṣu triṣú |*`
+  - line 13192: end mark: `ed dhi sakhyám astṛtam ||5||* [accent ?]` → `> *táved dhi sakhyám astṛtam ||5||*`
+  - line 13407: end mark: `ṇaso grā́vahastāso adhvaré |* [accent ?]` → `ṇodā́ dráviṇaso grā́vahastāso adhvaré |*`
+  - line 13626: end mark: `eṣṭrā́d ṛtúbhir iṣyata ||9||* [accent ?]` → `> *neṣṭrā́d ṛtúbhir iṣyata ||9||*`
+  - line 13707: end mark: `ṛtúbhir dráviṇodo yájāmahe |* [accent ?]` → `ā turī́yam ṛtúbhir dráviṇodo yájāmahe |*`
+  - line 13775: end mark: ` mádhu dī́dyagnī śucivratā |* [accent ?]` → `inā píbataṃ mádhu dī́dyagnī śucivratā |*`
+  - line 13873: end mark: `santya ṛtúnā yajñanī́r asi |* [accent ?]` → `rhapatyena santya ṛtúnā yajñanī́r asi |*`
+  - line 13874: end mark: `*devā́n devayaté yaja ||12||* [accent ?]` → `> *devā́n devayaté yaja ||12||*`
+  - line 14136: end mark: `aha índraṃ prayaty adhvaré |* [accent ?]` → `rātár havāmaha índraṃ prayaty adhvaré |*`
+  - line 14208: end mark: `hi háribhir indra keśíbhiḥ |* [accent ?]` → `sutám ā́ gahi háribhir indra keśíbhiḥ |*`
+  - line 14209: end mark: ` *suté hi tvā hávāmahe ||4||* [accent ?]` → `> *suté hi tvā hávāmahe ||4||*`
+  - line 14271: end mark: `*gauró ná tṛṣitáḥ piba ||5||* [accent ?]` → `> *gauró ná tṛṣitáḥ piba ||5||*`
+  - line 14351: end mark: `ā́m̐ indra sáhase piba ||6||* [accent ?]` → `> *tā́m̐ indra sáhase piba ||6||*`
+  - line 15118: end mark: `ayethām índrāvaruṇa rāyá ā |* [accent ?]` → `ukāmáṃ tarpayethām índrāvaruṇa rāyá ā |*`
+  - line 15472: end mark: `vayáṃ sanéma ní ca dhīmahi |* [accent ?]` → `r íd ávasā vayáṃ sanéma ní ca dhīmahi |*`
+  - line 15473: end mark: `> *syād utá prarécanam ||6||* [accent ?]` → `> *syād utá prarécanam ||6||*`
+  - line 15556: end mark: `aháṃ huvé citrā́ya rādhase |* [accent ?]` → `varuṇa vām aháṃ huvé citrā́ya rādhase |*`
+  - line 15650: end mark: `nu vāṃ síṣāsantīṣu dhīṣvā́ |* [accent ?]` → `varuṇa nū́ nu vāṃ síṣāsantīṣu dhīṣvā́ |*`
+  - line 15651: end mark: `ábhyaṃ śárma yacchatam ||8||* [accent ?]` → `> *asmábhyaṃ śárma yacchatam ||8||*`
+  - line 15750: end mark: `utír índrāvaruṇa yā́ṃ huvé |* [accent ?]` → `aśnotu suṣṭutír índrāvaruṇa yā́ṃ huvé |*`
+  - line 15751: end mark: `m ṛdhā́the sadhástutim ||9||* [accent ?]` → `> *yā́m ṛdhā́the sadhástutim ||9||*`
+  - line 15998: end mark: `hā́ vasuvít puṣṭivárdhanaḥ |* [accent ?]` → `́n yó amīvahā́ vasuvít puṣṭivárdhanaḥ |*`
+  - line 15999: end mark: ` naḥ siṣaktu yás turáḥ ||2||* [accent ?]` → `> *sá naḥ siṣaktu yás turáḥ ||2||*`
+  - line 16110: end mark: `o dhūrtíḥ praṇaṅ mártyasya |* [accent ?]` → `áṃso áraruṣo dhūrtíḥ praṇaṅ mártyasya |*`
+  - line 16111: end mark: `rakṣā ṇo brahmaṇaspate ||3||* [accent ?]` → `> *rakṣā ṇo brahmaṇaspate ||3||*`
+  - line 16210: end mark: `i yám indro bráhmaṇaspátiḥ |* [accent ?]` → `ó ná riṣyati yám indro bráhmaṇaspátiḥ |*`
+  - line 16211: end mark: `> *somo hinóti mártyam ||4||* [accent ?]` → `> *somo hinóti mártyam ||4||*`
+  - line 16282: end mark: `até soma índraś ca mártyam |* [accent ?]` → ` brahmaṇaspaté soma índraś ca mártyam |*`
+  - line 16283: end mark: ` *dakṣiṇā pātv áṃhasaḥ ||5||* [accent ?]` → `> *dakṣiṇā pātv áṃhasaḥ ||5||*`
+  - line 16376: end mark: `aṃ priyám índrasya kā́myam |* [accent ?]` → `átim ádbhutaṃ priyám índrasya kā́myam |*`
+  - line 16377: end mark: `saníṃ medhā́m ayāsiṣam ||6||* [accent ?]` → `> *saníṃ medhā́m ayāsiṣam ||6||*`
+  - line 16464: end mark: `yati yajñó vipaścítaś caná |* [accent ?]` → `ṛté na sidhyati yajñó vipaścítaś caná |*`
+  - line 16465: end mark: `a dhīnā́ṃ yógam invati ||7||* [accent ?]` → `> *sa dhīnā́ṃ yógam invati ||7||*`
+  - line 16530: end mark: `ṃ prā́ñcaṃ kṛṇoty adhvarám |* [accent ?]` → `i havíṣkṛtiṃ prā́ñcaṃ kṛṇoty adhvarám |*`
+  - line 16531: end mark: `*hótrā devéṣu gacchati ||8||* [accent ?]` → `> *hótrā devéṣu gacchati ||8||*`
+  - line 16634: end mark: `mam ápaśyaṃ sapráthastamam |* [accent ?]` → `ṃ sudhṛ́ṣṭamam ápaśyaṃ sapráthastamam |*`
+  - line 16635: end mark: `*divó na sádmamakhasam ||9||* [accent ?]` → `> *divó na sádmamakhasam ||9||*`
+  - line 16774: end mark: `aráṃ gopīthā́ya prá hūyase |* [accent ?]` → `cā́rum adhvaráṃ gopīthā́ya prá hūyase |*`
+  - line 16775: end mark: `marúdbhir agna ā́ gahi ||1||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||1||*`
+  - line 16874: end mark: `yo mahás tava krátuṃ paráḥ |* [accent ?]` → `evó na mártyo mahás tava krátuṃ paráḥ |*`
+  - line 16875: end mark: `marúdbhir agna ā́ gahi ||2||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||2||*`
+  - line 16948: end mark: `idúr víśve devā́so adrúhaḥ |* [accent ?]` → `hó rájaso vidúr víśve devā́so adrúhaḥ |*`
+  - line 16949: end mark: `marúdbhir agna ā́ gahi ||3||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||3||*`
+  - line 17050: end mark: `m ānṛcúr ánādhṛṣṭāsa ójasā |* [accent ?]` → ` ugrā́ arkám ānṛcúr ánādhṛṣṭāsa ójasā |*`
+  - line 17051: end mark: `marúdbhir agna ā́ gahi ||4||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||4||*`
+  - line 17154: end mark: `saḥ sukṣatrā́so riśā́dasaḥ |* [accent ?]` → ` ghorávarpasaḥ sukṣatrā́so riśā́dasaḥ |*`
+  - line 17155: end mark: `marúdbhir agna ā́ gahi ||5||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||5||*`
+  - line 17238: end mark: `rocané diví devā́sa ā́sate |* [accent ?]` → `ākasyā́dhi rocané diví devā́sa ā́sate |*`
+  - line 17239: end mark: `marúdbhir agna ā́ gahi ||6||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||6||*`
+  - line 17316: end mark: `tān tiráḥ samudrám arṇavám |* [accent ?]` → `yanti párvatān tiráḥ samudrám arṇavám |*`
+  - line 17317: end mark: `marúdbhir agna ā́ gahi ||7||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||7||*`
+  - line 17380: end mark: `íbhis tiráḥ samudrám ójasā |* [accent ?]` → `nvánti raśmíbhis tiráḥ samudrám ójasā |*`
+  - line 17381: end mark: `marúdbhir agna ā́ gahi ||8||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||8||*`
+  - line 17440: end mark: `ītaye sṛjā́mi somyáṃ mádhu |* [accent ?]` → `tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |*`
+  - line 17441: end mark: `marúdbhir agna ā́ gahi ||9||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||9||*`

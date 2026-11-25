@@ -20,17 +20,9 @@ try:
     src = os.path.join(ROOT, c[0].split('@')[0]) if isinstance(c, list) else None
 except Exception: pass
 if not src or not os.path.exists(src):
-    mds = sorted(f for f in os.listdir(H) if f.endswith('.md')); assert mds, 'no .md in ' + H
-    srcs = [os.path.join(H, f) for f in mds]; src = srcs[0]          # several supplied files: all are read, in name order
+    mds = sorted(f for f in os.listdir(H) if f.endswith('.md'))
+    srcs = [os.path.join(H, f) for f in mds]       # several supplied files (legacy volumes): all of them, in file-name order
 else: srcs = [src]
-SRC = []
-for sp in srcs:
-    try: pg = html_pages.load(sp)
-    except ValueError: pg = {}
-    wh = {}
-    for p, t in pg.items():
-        for m in re.finditer(r'\[figure: ([^\]]+)\]', t): wh[m.group(1)] = p
-    SRC.append((sp, open(sp, encoding='utf8', errors='replace').read().split('\n'), wh))
 VERSE = ('ಸಂಹಿತಾಪಾ', 'ಪದಪಾ', 'ಪದಸಾ', '॥', '||', '|')
 def classify(cap, before):
     c = cap.strip()
@@ -38,21 +30,27 @@ def classify(cap, before):
     if re.search(r'contains no text|decorative|illustration|portrait|photograph|emblem', c, re.I): return 'decorative picture'
     if any(x in before for x in ('ಸಂಹಿತಾಪಾ', 'ಪದಪಾ', 'ಸಂಹಿತಾಪಾರ')) or '||' in c or '॥' in c or '।' in c: return 'verse (Saṃhitā / Pada) or quotation'
     return 'other text'
-items = []
-for src, lines, where in SRC:
-  for i, l in enumerate(lines):
-      m = re.fullmatch(r'\[figure: ([^\]]+)\]', l.strip())
-      if not m: continue
-      path = m.group(1); b = i - 1
-      while b >= 0 and not lines[b].strip(): b -= 1
-      before = lines[b].strip() if b >= 0 else ''
-      cap = []; k = i + 1
-      while k < len(lines) and not lines[k].strip(): k += 1
-      while k < len(lines) and lines[k].strip() and not lines[k].startswith('[figure:') and len(cap) < 14: cap.append(lines[k]); k += 1
-      cap = '\n'.join(cap)
-      try: w, h = Image.open(os.path.join(ROOT, path)).size
-      except Exception: w = h = 0
-      items.append(dict(n=len(items) + 1, path=path, line=i + 1, page=where.get(path), file=os.path.basename(src), before=before, cap=cap, cls=classify(cap, before), w=w, h=h))
+items = []; seen = set()
+for src in srcs:
+    lines = open(src, encoding='utf8', errors='replace').read().split('\n')
+    pg = html_pages.load(src); where = {}
+    for p, t in pg.items():
+        for m in re.finditer(r'\[figure: ([^\]]+)\]', t): where[m.group(1)] = p
+    for i, l in enumerate(lines):
+        m = re.fullmatch(r'\[figure: ([^\]]+)\]', l.strip())
+        if not m or m.group(1) in seen: continue
+        seen.add(m.group(1))
+        path = m.group(1); b = i - 1
+        while b >= 0 and not lines[b].strip(): b -= 1
+        before = lines[b].strip() if b >= 0 else ''
+        cap = []; k = i + 1
+        while k < len(lines) and not lines[k].strip(): k += 1
+        while k < len(lines) and lines[k].strip() and not lines[k].startswith('[figure:') and len(cap) < 14: cap.append(lines[k]); k += 1
+        cap = '\n'.join(cap)
+        try: w, h = Image.open(os.path.join(ROOT, path)).size
+        except Exception: w = h = 0
+        items.append(dict(n=len(items) + 1, path=path, line=i + 1, page=where.get(path), before=before, cap=cap, cls=classify(cap, before), w=w, h=h, file=os.path.basename(src)))
+src = srcs[0] if len(srcs) == 1 else H
 out = os.path.join(V, 'review'); os.makedirs(out, exist_ok=True)
 from collections import Counter
 cnt = Counter(x['cls'] for x in items)
