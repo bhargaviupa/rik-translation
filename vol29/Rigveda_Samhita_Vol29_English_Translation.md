@@ -5676,6 +5676,134 @@ In this Ṛk the great nature of Viśvakarman (Parameśvara) is described. The i
 
 An ordinary man sees with his eyes. Without eyes he cannot see. In the same way he performs work with his arms and movement with his feet. But in the case of the Supreme Self this rule does not apply. He is without parts; he has no need of parts. Since all the things and beings in the world are parts of the Supreme Self and the consciousness of the Supreme Self fills them, and since there is no thing that the Supreme Self does not pervade, there is no thing that the Supreme Self does not see or does not know. Moreover, since all kinds of powers, such as the power of seeing and the power of moving, are parts of the consciousness of the Supreme Self, the Supreme Self does not have to use his eyes to see, as others do, nor to use his arms to work, nor to use his feet to move; that is, this Supreme Self has no need of eyes, face, arms and feet. Without these he can do any work. For he is consciousness itself, and whatever work is to be done, there must be the impulse of consciousness; otherwise it does not happen. Since the Supreme Self is the source of all the consciousness that is manifested in beings in the world, there is nothing that he does not know. The words eye, face, arm and foot mentioned here, the respective
 
+### Printed p. 207
+
+senses are used here to indicate the works that the senses perform. The works that these senses have to carry out the Supreme Self can do without the help of the senses. Therefore, "he has eyes everywhere" means that, since the Supreme Self pervades all places (is all-pervading), he is able to see and know everything: such is the intention. The word चक्षुः (*cakṣuḥ*), eyes, is only for description. The Supreme Self has no need of separate organs called eyes, as we have. Likewise with the arms and the rest. If that is so, what need is there to name these limbs here? The likeness of the senses is stated only in order to explain clearly, so that the mind may grasp it, the unfathomable power of the Supreme Self. This very matter is explained clearly by an example in the second half of this Ṛk.
+
+बाहुभ्यां पतत्रैः सं धमति द्यावाभूमिा (*bāhubhyāṃ patatraiḥ saṃ dhamati dyāvābhūmiā*): the arms of this Parameśvara set the atmosphere or heaven in motion. His feet pervade the earth and set it in motion. This statement is made in order to show that there is a very great distance between the earth and the heaven and atmosphere, and that, even so, Parameśvara by his great power pervades at one and the same time the three worlds, which lie at such distances, and sets them in motion. Besides, how great these heaven and earth are, how immense the distance between them is, and that in spite of this he pervades and sets them in motion at one time by his power: all this indicates the exceeding power and capacity of this Parameśvara. Therefore the intention is that Parameśvara, who has such unlimited power and capacity, creates and maintains the whole world by his extraordinary greatness alone, even without the help of any implements such as original material and instruments.
+
+देव एकः (*deva ekaḥ*): so far it has been said that Parameśvara can create the world by his great power alone, without any material causes, that is, without any instruments. But in this work of creation did this Parameśvara have any helpers? Was there the help of instruments? The words देव एकः (*deva ekaḥ*) are used to state that there was none. This Supreme Self, being alone, without any kind of help or instruments, carried out this whole work of creation by himself alone by his greatness. In this matter:
+
+इदग्ं सर्वमसृजत । यदिदं किंच । तत्सृष्टाव तदेवानु प्राविशत् । तदनु प्रविश्य । सच्च त्यच्चाभवत् । (*idagṃ sarvamasṛjata | yadidaṃ kiṃca | tatsṛṣṭāva tadevānu prāviśat | tadanu praviśya | sacca tyaccābhavat |*) (Trai. U. 8-6)**NOTE**
+
+Upaniṣadic sentences of this kind state how the Supreme Self made the creation of the world. The Supreme Self, who was in an unmanifest form (non-being), created this world and entered it as the inner controller. By doing so, the Supreme Lord, who had been of unmanifest form, became of manifest form
+
+### Printed p. 208
+
+that is, he became both unmanifest and manifest. The one Self-principle was transformed into many kinds of moving and unmoving things. The consciousness that was concentrated in the Supreme Self became manifest in small parts in all beings. The chief intention is that the Supreme Self carried out all these works without anyone's help, by his own greatness alone.
+
+It has been stated above that there is no room for the objection how the creation of the world is possible without adhiṣṭhāna and ārambhaṇa. The praise अणोरणीयान् महतो महीयान् (*aṇoraṇīyān mahato mahīyān*) tells the greatness of Īśvara. This Īśvara is the adhiṣṭhāna, and he is the ārambhaṇa and the material cause; since the whole world consists of his particular states, there is no material cause other than him. By the words "बाहुभ्यां धमति ; पतत्रैः धमति (*bāhubhyāṃ dhamati ; patatraiḥ dhamati*)" the efficient cause has been stated. By विश्वतश्चक्षुः (*viśvataścakṣuḥ*) and the rest the all-pervadingness is stated. Just as pots and the like are transformed from clay into other forms, so Īśvara, who was without a second, takes other forms and manifests in many ways. Agni, Vāyu and Āditya are all transformations of him. This Ṛk is quoted in the Śvetāśvatara Upaniṣad. The same mantra is recited also in the Taittirīya Saṃhitā (Tai. Saṃ. 4-6-2-4) and in the Taittirīya Āraṇyaka (Nā. U. 10-1-3)**NOTE**. In some places बाहुभ्यां (*bāhubhyāṃ*) is explained as the two arms called dharma and adharma. Śaṅkarācārya has explained धमति (*dhamati*) as संयोजयति (*saṃyojayati*). The purport is that he joins men with arms and birds with wings. There are still other differences of purport of this kind. On the whole the purport is that all the activities of the whole world are impelled by Īśvara. How? Thus:
+
+य एको जालवानीशत ईशनीभिः सर्वाल्लोकानीशत ईशनीभिः । य विवैक उद्भवे संभवे च एतद्विदुरमृतास्ते भवंति ॥ (*ya eko jālavānīśata īśanībhiḥ sarvāllokānīśata īśanībhiḥ | ya vivaika udbhave saṃbhave ca etadviduramṛtāste bhavaṃti ‖*) (Kveṃ. U. 3-1)**NOTE**
+
+The Supreme Person who spreads the net that is the form of his power, who by his majesty is the lord of the whole world, he is eternal. He attains unity with the world that has been created and has attained its state of continuance.
+
+रूपं रूपं प्रतिरूपो बभूव तदस्य रूपं प्रति चक्षणाय । इंद्रो मायाभिः पुरुरूप ईयते युक्ता ह्यस्य हरयः शता दश ॥ (*rūpaṃ rūpaṃ pratirūpo babhūva tadasya rūpaṃ prati cakṣaṇāya | iṃdro māyābhiḥ pururūpa īyate yuktā hyasya harayaḥ śatā daśa ‖*) (Ṛ. Saṃ. 6-47-18)
+
+In passages of this kind, as explained before, Īśvara by his power of lordship is of the form of the universe. This is explained still more clearly in the Kaṭha Upaniṣad in this way.
+
+### Printed p. 209
+
+अग्निर्यथैको भुवनं प्रविष्टो रूपं रूपं प्रतिरूपो बभूव । एकस्तथा सर्वभूतांतरात्मा रूपं रूपं प्रतिरूपो बहिश्च ॥ (*agniryathaiko bhuvanaṃ praviṣṭo rūpaṃ rūpaṃ pratirūpo babhūva | ekastathā sarvabhūtāṃtarātmā rūpaṃ rūpaṃ pratirūpo bahiśca ‖*) (Kaṭh. 2-2-11)**NOTE**
+
+Just as fire, pervading the earth, becomes fire in whatever thing it takes hold of, so this Supreme Self takes on the very form of whatever thing he creates. Likewise,
+
+वायुर्यथैको भुवनं प्रविष्टः रूपं रूपं प्रतिरूपो बभूव । (*vāyuryathaiko bhuvanaṃ praviṣṭaḥ rūpaṃ rūpaṃ pratirūpo babhūva |*) (Ka. 2-2-12)**NOTE**
+
+Just as the wind, moving about in the world, takes on the form of whatever thing it enters, so this Supreme Self too takes on all forms.
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖*) (Praśna. 1-8)**NOTE**
+
+Āditya rises, he who has all forms, who is of golden form, all-knowing, the final refuge of the whole world, with a thousand rays, existing in thousands of forms, the life of the whole world. This is the Supreme Self.
+
+एषोग्निस्तपत्येष सूर्य एष पर्जन्यो मघवानेष वायुः । एष पृथिवी रयिर्देवः सदसच्चामृतं च यत् ॥ (*eṣognistapatyeṣa sūrya eṣa parjanyo maghavāneṣa vāyuḥ | eṣa pṛthivī rayirdevaḥ sadasaccāmṛtaṃ ca yat ‖*) (Praśna. 25)**NOTE**
+
+In the form of fire he burns. In the form of Āditya he shines. He is Parjanya, who abundantly pours down rain. He is the wind. He is the earth. He is the one of the form of being and the one of the form of non-being. Immortality too is he.
+
+अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । ऋचो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ (*arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | ṛco yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ‖*) (Praśna. 2-6)
+
+Just as all the spokes of a wheel are joined to the central region that is the nave, so every thing in the world depends on this universal life-breath. The Ṛgveda, the Yajurveda, the Sāmaveda, sacrifice, the warrior power and wisdom all rest on it.
+
+### Printed p. 210
+
+इंद्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता । त्वमंतरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः ॥ (*iṃdrastvaṃ prāṇa tejasā rudro 'si parirakṣitā | tvamaṃtarikṣe carasi sūryastvaṃ jyotiṣāṃ patiḥ ‖*) (Praśna. 2-9)
+
+O life-breath, who art the support of the whole world and of the form of the Supreme Self, by thy extraordinary power thou art Indra. Because thou art the protector, thou art Rudra. In the atmosphere too thou movest in the form of the sun. Thou art the lord of the whole sphere of lights. By sentences of this kind the Supreme Self's having faces everywhere and eyes everywhere is described and praised. This section will be explained later in the Special Topics of the Puruṣa-sūkta (10-90).**NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्कृत॒क्षुः ।  
+> मनीषिणो मनसा पृच्छतेदु तद्यदध्यतिष्ठद्भुवनानि धारयन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । स्मित् । वनं । कः । ऊं इति । सः । वृक्षः । आस । यतः । द्यावापृधिवी इति । नि 5-  
+> ततक्षुः ।  
+> मनीषिणः । मनसा । पृच्छत । इत् । ऊं इति । तत् । यत् । अधिs अतिष्ठत् । भुवनानि । द्वारयन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वस्यामृच्युक्तं ब्रह्मैव भूम्यादिकारणमिति । तदेवानया प्रश्नकथनव्याजेनोच्यते । लोके हि प्रौढं प्रासादं निर्मिमाणः कस्मिंश्चित्प्रौढे वने कंचिन्महांतं वृक्षं भित्त्वा तक्षणादिना स्तंबादिकं संपादयति । इह तु परमेश्वरप्रेरिता
+> जगत्सृष्टारो यतो यस्माद्वनाद्यं वृक्षमादाय द्यावापृथिवी निष्टतक्षुः तक्षणेन
+> द्यावापृथिव्यौ निष्पादितवंतः तद्वनं किं स्वित् किं नाम स्यात् । तथा क उ स वृक्ष
+> आस । कस्तादृशो महान्वृकोऽभूत् । हे मनीषिणो मनस ईश्वराः तदुभयं
+> मनसा जिज्ञासायुक्तन पृच्छतेदु । पृच्छतैव । किंचेश्वरो भुवनानि धारयन्य-
+
+### Printed p. 211
+
+> त्स्थानमध्यतिष्ठत् तवपि पृच्छत । एतस्य सर्वस्याप्युत्तरं ब्रह्म स वृक्ष आसीदित्यादिकमुत्तरं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that in the previous Ṛk it was stated that Brahman alone is the cause of the earth and the rest, and that this very matter is now stated under the guise of a question. In the world, one who is building a great palace takes a great tree in some great forest, cuts it by hewing and the like, and prepares posts and the like. Here, however, those who create the world, impelled by Parameśvara, have taken a tree from a forest and, by hewing, have fashioned heaven and earth out of it: निष्टतक्षुः (*niṣṭatakṣuḥ*). What was that forest, किं स्वित् (*kiṃ svit*), what could it be called? And what was that tree, what great tree was it? He addresses the wise, the lords of the mind: ask both of these with your mind, with a longing to know. Moreover, ask also on what position Īśvara stood, holding the worlds. The answer to all this is Brahman: "he was that tree", and so on; that is the reply.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतः (*yataḥ*)—from which forest-tree and the like
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- निष्पतक्षुः (*niṣpatakṣuḥ*)—did the world-makers fashion
+- वनं (*vanaṃ*)—that forest
+- किं स्वित् (*kiṃ svit*)—which is it?
+- सः वृक्षः (*saḥ vṛkṣaḥ*)—that tree
+- क उ आस (*ka u āsa*)—which is it?
+- मनीषिणिः (*manīṣiṇiḥ*)—O wise ones
+- मनसा (*manasā*)—in the form of meditation
+- पृच्छतेदु (*pṛcchatedu*)—inquire into and understand that matter
+- यत् (*yat*)—which truth
+- भुवनानि (*bhuvanāni*)—all the worlds
+- धारयन् (*dhārayan*)—holding
+- अध्यतिष्ठत् (*adhyatiṣṭhat*)—was stationed
+- तत् (*tat*)—inquire into and understand that matter also
+
+##### भावार्थ (Bhāvārtha)
+
+From which forest-tree and the like did the world-makers fashion heaven and earth? Which is that forest? Which is that tree? O wise ones, inquire into that matter in meditation and understand it. Inquire into that being which stood holding all the worlds.
+
+##### English translation
+Which was the forest, which the tree, from which they fabricated heaven and earth ? Inquire, sages, in your minds what (place) he was stationed in when holding the worlds.
+
+##### विशेषविषयगळु (Special Topics)
+
+What was the tree that Viśvakarman (or the deities beginning with Indra) used for the construction of heaven and earth? From what forest did they bring that tree and use it? This is the question in the present Ṛk. Just as trees and the like are absolutely necessary for the building of a house, so the notion that they are absolutely necessary also for the building of the house called heaven and earth arises naturally. A metaphor of this kind (comparing the construction of heaven and earth to the building of a house, and calling the materials needed for it trees and the like) can be seen in many contexts in the Vedic sentences. They must be there also at the time of house-building. First, cutting down trees and preparing them; measuring the site and setting it right; planting four posts at the four corners with a good support, and constructing two great doors in the front; obtaining cross-beams, roof, rafters and the like: all these stages can be examined in the Saṃhitā sentences, where they are described in the work of creating the universe.
+
+### Printed p. 212
+
+Although the non-duality of Īśvara before creation is stated in many places, beginning with आत्मा वा इदमेक एवाग्र आसीत् । नान्यत् किंचन मिषत् (*ātmā vā idameka evāgra āsīt | nānyat kiṃcana miṣat*), and although Vedic sentences stating that the world of the form of being had no absolute non-existence and that the form of being cannot arise from the form of non-being were quoted above, and it was stated that for the world of the form of being the material causes of the form of being are the origin, yet, even while believing in the existence of material causes of the form of being, the seers in many places expressed their longing to know what the nature of these causal things is, and what the regions are where they are found, and the like.
+
+पाकः पृच्छामि मनसा विजानन्देवानामेना निहिता पदानि । वत्से बष्कयेऽधि सप्त तंतून्वि तत्निरे कवय ओतवा उ ॥ (*pākaḥ pṛcchāmi manasā vijānandevānāmenā nihitā padāni | vatse baṣkaye 'dhi sapta taṃtūnvi tatnire kavaya otavā u ‖*) (Ṛ. Saṃ. 1-164-5)
+
+In Āditya, who is the abode of the whole universe, the poets have spread seven threads in order to weave the warp and weft that is the form of the world. What are they? Even the deities cannot know the truth of the highest meaning. Therefore I, of small understanding, of unripe intellect, unable to know the secret principles, wish to know these.
+
+किं स्विध्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्पतक्षुः । संतस्थाने अजरे इतऊती अहानि पूर्विरुषसो जरंत ॥ (*kiṃ svidhvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣpatakṣuḥ | saṃtasthāne ajare itaūtī ahāni pūrviruṣaso jaraṃta ‖*) (Ṛ. Saṃ. 10-31-7)
+
+What is the nature of the tree from which the deities fashioned heaven and earth? What is the forest in which that tree is found? For such a creation of the universe the praisers are grateful to the deities and praise them always. And they wish also to know these original principles. Sentences of this kind, full of longing (curiosity to know), are abundant. The act of measuring heaven and earth, the ancient dwelling places, is also described.
+
+इमामू ष्वासुरस्य श्रुतस्य महीं मायां वरुणस्य प्र वोचं । मानेनेव तस्थिवा अंतरिक्षे वि यो ममे पृथिवीं सूर्येण ॥ (*imāmū ṣvāsurasya śrutasya mahīṃ māyāṃ varuṇasya pra vocaṃ | māneneva tasthivā aṃtarikṣe vi yo mame pṛthivīṃ sūryeṇa ‖*) (Ṛ. Saṃ. 5-85-5)
+
+"We praise the exceeding wisdom of that Varuṇa who, standing in the atmosphere, measures out and separates heaven and the earth with the sun, which is like a measuring rod." Sentences of this kind state the act of Varuṇa and the others of fixing measures for the worlds that they create.
+
 ---
 
-**Progress note:** Done through printed p. 206. Ṛk 2 commentary (abhāva, Chāndogya), Ṛk 3 text, bhāṣya, commentary
+**Progress note:** Done through printed p. 212. Ṛk 3 commentary end, Ṛk 4 text, bhāṣya, commentary
