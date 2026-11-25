@@ -3312,6 +3312,300 @@ O Soma, for the देववीतये (*devavītaye*) (printed देवन�
 - देववीतये (*devavītaye*)—for the drinking of the gods
 - अर्णसा (*arṇasā*)—with the waters called *vasatīvarī* …  **NOTE**
 
+### Printed p. 73
+#### Ṛk 12 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गूडि (*gūḍi*)—together with
+- प्र पिप्ये (*pra pipye*)—you grow
+- मदिरो न (*madiro na*)—like intoxicating liquors and the like
+- जागृविः (*jāgṛviḥ*)—you, the vigilant one
+- अंशोः (*aṃśoḥ*)—of the plant
+- पयसा (*payasā*)—with the juice
+- मधुश्चुतं (*madhuścutaṃ*)—that drips sweet juice
+- कोशं अच्छ (*kośaṃ accha*)—you go to the Droṇa-vessel and join it
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, as a river grows with its waters, you grow for the gods' drinking, joined with the waters of the vasatīvarī and the like. Vigilant like intoxicating liquors and the like, you go, with the juice of your plant, to the Droṇa-vessel that drips sweet juice, and join it.
+
+##### English translation
+You are fed with water, Soma, like a river, for the banquet of the gods ; with the juice of your fi'ament you go to honey-dropping receptacle, exhilarating, vigilant-
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ह॑र्य॒तो अर्जु॑ने॒ अत्के॑ अव्यत प्रि॒यः सू॒नुर्न मर्ज्यः॑ ।  
+> तमीं॑ हिन्वंत्य॒पसो॒ यथा॒ रथं॑ न॒दीष्टा गभ॑स्तोः ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । हर्यतः । अर्जुने । अत्के । अव्यत । प्रियः । सूनुः । न । मर्ज्यः ।  
+> तं । ईं । हिन्वंति । अपसः । यथा । रथं । नदीषु ! आ । गभस्तोः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हर्यतः स्पृहणीयः प्रियः प्रीणयिता सूनुर्न सूनुरिव मर्जो
+> मार्जनीयः सोमोर्जुनेजुनवर्णॆत्क रूपे पवित्र आवृत । अवृणोति ।
+> तमीमेनं सोममंगुलयो नदीषु नदमानासु वसतीवरीषु गभस्त्योर्बाहोराभिमुख्येन हिन्वंति । प्रेरयंति । तत्र दृष्टांतः । अपसो यथा वेगवंतो
+> जना रथं संग्रामेषु प्रेरयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Harya­taḥ means desirable; priyaḥ, one who pleases. Like a son, Soma, who is to be cleansed (मर्ज्यः (*marjyaḥ*)), is covered in the pavitra, in the bright (अर्जुने (*arjune*)) form (अत्के (*atke*)). The *aṃgulayaḥ* (fingers) urge this Soma forward with the arms, towards the front, into the streams, that is, the roaring vasatīvarī waters. The illustration: as swift men urge a chariot forward in battles, so they do.
+
+### Printed p. 74
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरतः (*harataḥ*)—attractive
+- प्रियः (*priyaḥ*)—pleasing
+- सूनुः न (*sūnuḥ na*)—like a son
+- मर्ज्यः (*marjyaḥ*)—Soma, who is fit to be purified
+- अर्जुने (*arjune*)—of bright colour
+- अत्के (*atke*)—with cloth (the wool of the pavitra)
+- आ अव्यत (*ā avyata*)—is covered and adorned
+- अपसः (*apasaḥ*)—the powerful
+- रथं यथा (*rathaṃ yathā*)—as they urge their chariots to battle
+- तमीं (*tamīṃ*)—this very Soma
+- नदीषु (*nadīṣu*)—into the vasatīvarī waters and the like
+- गभस्तोः (*gabhastoḥ*)—with their arms
+- आ हिन्वंति (*ā hinvaṃti*)—they urge and send
+
+##### भावार्थ (Bhāvārtha)
+
+Like an attractive and pleasing son, Soma, fit to be purified, is covered and adorned with a bright cloth (the wool of the ten-fold pavitra). As the powerful urge their chariots to battle, they urge this same Soma with their arms into the vasatīvarī waters and the like.
+
+##### English translation
+Agreeable affectionate like a son about to be decorated, the Soma is clad in a shining robe ; they send him with their arms into the streams as active (warriors send their) chariot into (battle).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि सोमा॑स आ॒यवः॒ पवं॑ते॒ मद्यं॒ मदं॑ ।  
+> स॒मु॒द्रस्याधि॑ वि॒ष्टपि॑ मनी॒षिणो॑ मत्स॒रासः॑ स्व॒र्विदः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सोमासः । आयवः । पवंते । मद्यं । मॆदं ।  
+> समुद्रस्य । अधि । विष्टपि । मनीषिणः । मत्सरासः ' स्वःविद? ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयवो गमनशीला सोमासः सोमा मद्यं मदकरं मदमात्मीयं
+> रसमभि पवंते । अभितो निर्गमयंति । कुत्रेति उच्यते । समुद्रस्यांतरिक्षस्याधि
+> विष्टप्यधिकं समुच्छ्रिते पवित्रे । यद्वा । समुद्रस्य । समुद्रवंत्यस्माद्रसाः । तस्य
+
+##### Gist of the bhāṣya
+
+The Somas, आयवः (*āyavaḥ*) (swift-going), send forth their own intoxicating juice on every side. Where? Upon the विष्टपि (*viṣṭapi*), the raised pavitra, of the समुद्रस्य (*samudrasya*), the firmament. Or else: समुद्रस्य (*samudrasya*) means of that from which the juices flow together, namely the vessel; they send them forth upon its upper place, the pavitra.
+
+### Printed p. 75
+
+> कलशस्याध्युपरि विष्टपि स्थाने पवित्रे निर्गमयंति । कीदृशाः । मनीषिणो मनस
+> ई शितारो मत्सरासो मदकराः स्वर्विदः सर्वस्य लंभकाः ॥
+
+##### Gist of the bhāṣya
+
+Of what kind are they? मनीषिणः (*manīṣiṇaḥ*), rulers of the mind; मत्सरासः (*matsarāsaḥ*), intoxicating; स्वर्विदः (*svarvidaḥ*), obtainers of everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनीषिणि (*manīṣiṇi*)—having excellent resolve
+- मत्सरासः (*matsarāsaḥ*)—gladdening
+- स्वर्विदः (*svarvidaḥ*)—bringing everything within reach
+- आयवः (*āyavaḥ*)—swift-going
+- सोमाः (*somāḥ*)—the Somas
+- मद्यं (*madyaṃ*)—beneficial
+- मदं (*madaṃ*)—their juice
+- समुद्रस्य अधि (*samudrasya adhi*)—above the firmament
+- विष्टपि (*viṣṭapi*)—in the elevated region
+- अभि पवंते (*abhi pavaṃte*)—they cause to flow
+
+##### भावार्थ (Bhāvārtha)
+
+The swift Somas, having excellent resolve, gladdening, bringing everything within reach, cause their beneficial juice to flow in the elevated region above the firmament.
+
+##### English translation
+The swift Somas send forth their inebriating juice upon the uplifted (filter) of the firmament, intelligent, exhilarating, all-acquiring.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तर॑त्समु॒द्रं पव॑मान ऊ॒र्मिणा॒ राजा॑ दे॒व ऋ॒तं बृ॒हत् ।  
+> अर्ष॑न्मि॒त्रस्य॒ वरु॑णस्य॒ धर्म॑णा॒ प्र हि॑न्वा॒न ऋ॒तं बृ॒हत् ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तरत् । समुद्रं । पवमानः । ऊर्मिणा । राजा । देवः । ऋतं । बृहत् ।  
+> अर्षत् । मित्रस्य । वरुणस्य । धर्मणा । प्र । हिन्वानः । ऋतं । बृहत् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः । पूयमानो देवो द्योतमानो बृहदत्यंतमृतं सत्यभूतो
+> राजा सोमः समुद्रमंतरिक्षं कलशं वोर्मिणा धारया तरत् । तरति । हिन्वानः
+> प्रेर्यमाण ऋतं बृहदत्यंतं सत्यभूतः स सोमो मित्रस्य वरुणस्य मित्रावरुणयोर्धर्मणा धारणार्थं प्रार्षत् । प्रगच्छति ॥
+
+##### Gist of the bhāṣya
+
+Soma, being purified, shining, exceedingly great, true by nature, a king, crosses the समुद्रं (*samudraṃ*), the firmament or the vessel, with his stream (ऊर्मिणा (*ūrmiṇā*)). Being urged forward, great and true, that Soma goes forth for the support of Mitra and Varuṇa, that is, of the pair Mitra-Varuṇa.
+
+### Printed p. 76
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—he who is purified
+- देवः (*devaḥ*)—shining
+- बृहत् (*bṛhat*)—exceedingly great
+- ऋतं (*ṛtaṃ*)—true by nature
+- राजा (*rājā*)—Soma, the lord
+- समुद्रं (*samudraṃ*)—the firmament
+- ऊर्मिणा (*ūrmiṇā*)—with his stream
+- तरत् (*tarat*)—crosses
+- हिन्वानः (*hinvānaḥ*)—urged by the priests
+- बृहत् ऋतं (*bṛhat ṛtaṃ*)—Soma, exceedingly of the nature of truth
+- मित्रस्य (*mitrasya*)—for Mitra
+- वरुणस्य (*varuṇasya*)—for Varuṇa
+- धर्मणा (*dharmaṇā*)—for support
+- प्रार्षत् (*prārṣat*)—flows forth
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the purified, shining, exceedingly great, true by nature, the lord, crosses the firmament with his stream. Urged by the priests, exceedingly of the nature of truth, he flows forth for the support of Mitra and Varuṇa.
+
+##### English translation
+The divine royal (Soma) vast and true, undergoing purification traverses the firmament in a stream ; vast and true, being sent forth he flows for the support of Mitra and Varuna.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृभि॑र्येमा॒नो ह॑र्य॒तो वि॑चक्ष॒णो राजा॑ दे॒वः स॑मु॒द्रियः॑ ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृभिः । येमानः । हर्यतः । विचक्षणः । राजा । देवः । समुद्रियः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृभिः कर्मनेतृभिर्येमानो नियम्यमानो हर्यतः स्पृहणीयो
+> विचक्षणो विद्रष्टा देवो दीप्यमानः समुद्रियोऽंतरिक्षे भवो राजा सोम
+> इंद्रार्थं पवत इत्युत्तरेण संबंधः ॥ समुद्राभ्राद्धः इति भवार्थे घप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+Regulated by the नृभिः (*nṛbhiḥ*), the leaders of the rite; हर्यतः (*haryataḥ*), desirable; विचक्षणः (*vicakṣaṇaḥ*), the far-seeing; देवः (*devaḥ*), shining; समुद्रियः (*samudriyaḥ*), born in the firmament; the king Soma flows for Indra. The connection is with the following verse. The affix घ (*gha*) is in the sense of "born in" (भवार्थे (*bhavārthe*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृभिः (*nṛbhiḥ*)—by the priests
+- येमानः (*yemānaḥ*)—regulated
+- हरतः (*harataḥ*)—of attractive form
+- विचक्षणः (*vicakṣaṇaḥ*)—of subtle sight
+- देवः (*devaḥ*)—shining
+- समुद्रियः (*samudriyaḥ*)—born in the firmament
+- राजा (*rājā*)—Soma, the lord, flows
+
+### Printed p. 77
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, regulated by the priests, of attractive form, of subtle sight, shining, born in the firmament, the lord, flows.
+
+##### English translation
+Regulated by the priests, the divine royal Soma, agreeable, intelli-
+gent, abiding in the firmament—
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य पवते॒ मदः॒ सोमो॑ म॒रुत्व॑ते सु॒तः ।  
+> स॒हस्र॑धारो॒ अत्यव्य॑मर्षति॒ तमीं॑ मृजंत्या॒यवः॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । शवते । मदः । सोमः । मरुत्वते । सुतः ।  
+> सहस्रधारः । अति । अव्यं । अर्षति । तं । ईमिति । मृजंति । आयवः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदो मादकः सुतोऽभिषुतः सोमो मरुत्वते मरुद्धिस्तद्वत इंद्रायेंद्रार्थं पवते । क्षरति । ततः सहस्रधारो बहुधारोपेतः सोमोऽव्यमविमयं पवित्रमत्यर्षति । अतिगच्छति । तमिमं सोममायवो मनुष्या ऋत्विजो
+> मृजंति , शोधयंति ॥
+
+##### Gist of the bhāṣya
+
+Soma, मदः (*madaḥ*) (intoxicating) and सुतः (*sutaḥ*) (pressed), flows, that is, streams, for Indra, who is मरुत्वते (*marutvate*), accompanied by the Maruts. Then Soma, सहस्रधारः (*sahasradhāraḥ*) (with many streams), passes over the अव्यं (*avyaṃ*), the pavitra made of wool. The आयवः (*āyavaḥ*), men, that is the priests, cleanse this Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदः (*madaḥ*)—gladdening
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—Soma
+- मरुत्वते (*marutvate*)—accompanied by the Maruts
+- इंद्राय (*iṃdrāya*)—for Indra
+- पवते (*pavate*)—flows
+- सहस्रधारः (*sahasradhāraḥ*)—Soma with many streams
+- अव्यं (*avyaṃ*)—the ten-fold pavitra of wool
+- अत्यर्षति (*atyarṣati*)—crosses
+- तं (*taṃ*)—this Soma
+- आयवः (*āyavaḥ*)—men
+- मृजंति (*mṛjaṃti*)—cleanse
+
+### Printed p. 78
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, gladdening and pressed, flows for the drinking of Indra, who is accompanied by the Maruts. Soma, with streams of many kinds, crosses the ten-fold pavitra of wool. Men cleanse this Soma.
+
+##### English translation
+Exhilarating, flows when effused, for Indra attended by the Maruts .
+thousand-streamed he passes through the fleece ; men cleanse him.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नश्च॒मू ज॒नय॑न्म॒तिं क॒विः सोमो॑ दे॒वेषु॑ रण्यति ।  
+> अ॒पो वसा॑नः॒ परि॒ गोभि॒रुत्त॑रः॒ सीद॒न्वने॑ष्टव्यत ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । चमू इति । जनयन् । मतिं । कविं । सोमः । देवेषु । रण्यति ।  
+> अपः । वसानः । परि । गोभिः । उत्तरः । सीदन् । वनेषु । अव्यत ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चमू ॥ सप्तम्याः पूर्वसवर्णदीर्घः ॥ चन्नोरधिषवणफलकयोः पुनानति
+> पूयमानोऽभिषूयमाणो मतिं स्तुतिं जनयन्नुत्पादयन् कविः क्रांतप्रज्ञः
+> एतादृशः सोमो देवेष्ट्विंद्रादिषु रण्यति । किंचापो वसतीवरीर्वसान आच्छादयन् वनेषु काष्ठेषु पात्रेषु सीदन् सोमो गोभिगोर्विकारैः क्षीरादिभिः
+> पर्यव्यत । परिदीयते आच्छाद्यते ॥
+
+##### Gist of the bhāṣya
+
+चमू (*camū*) is the locative dual, with lengthening of the preceding vowel by the rule on the homogeneous vowel; it means the two pressing-boards. Being purified, being pressed on them, producing praise (मतिं (*matiṃ*)), a कविः (*kaviḥ*), one of surpassing wisdom, such a Soma delights among the gods, Indra and the others. Moreover, clothing the waters, the vasatīvarī, and settling in the वनेषु (*vaneṣu*), the wooden vessels, Soma is surrounded (पर्यव्यत (*paryavyata*)), that is, covered, with गोभिः (*gobhiḥ*), products of the cow, milk and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चमू (*camū*)—on the pressing-boards
+- पुनानः (*punānaḥ*)—being pressed
+- मतिं (*matiṃ*)—praise
+- जनयन् (*janayan*)—producing
+- कविः (*kaviḥ*)—of surpassing wisdom
+- सोमः (*somaḥ*)—Soma
+- देवेषु (*deveṣu*)—among the gods, Indra and the others
+- रण्यति (*raṇyati*)—delights
+- अपः (*apaḥ*)—the vasatīvarī waters
+- वसानः (*vasānaḥ*)—clothing himself
+- वनेषु (*vaneṣu*)—in the vessels
+- उत्तरः सीदन् (*uttaraḥ sīdan*)—Soma, who has taken his place as the supreme
+- गोभिः (*gobhiḥ*)—with milk and the like
+- परि अव्यत (*pari avyata*)—joins
+
 ---
 
-**Progress note:** Done through printed p. 72. pp. 67-72 (batch API)
+**Progress note:** Done through printed p. 78. pp. 73-78 (batch API)
