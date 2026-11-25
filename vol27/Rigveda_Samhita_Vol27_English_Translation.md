@@ -24014,6 +24014,253 @@ Drink, Indra, this most sweet Soma, expressed by the planks (of the Soma-press),
 
 O Indra, worshipping you with sacrifices and the like, with śastra-mantras and with oblations, we ask for what we desire. O Indra, protector of rites, you are the lord of all rites. When very great joy has arisen in you, place in us wealth that is excellent and desired. You are a great one.
 
+### Printed p. 686
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्पति॒र्वार्या॑णणा॒मसि॑ र॒ध्रस्य॑ चोदि॒ता ॥  
+> इंद्र॑ स्तोत्थ॒णाम॑वि॒ता वि वो॒ मदे॑ द्वि॒षो नः॑ पा॒ह्यंह॑सो॒  ॑
+> विवक्षसे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । पतिः । वार्याणां । असि । रध्रस्य । चोदिता ॥  
+> इंद्र । स्तोत्थाणां । अविता । वि । वः । मदे । द्विषः । नः । पाहि । अंहसः । विवक्षसे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्त्वं वायाणां वरणीयानां धनानां पतिरसि स्वामी भवसि ।
+> रध्रस्य राधकस्य स्तोतुश्च चोदिता धनदानेन कर्मसु नियोक्ता च भवसि । किं च
+> हे इंद्र यस्त्वं स्तोत्कृणामविता रक्षकोऽसि । स त्वं वि वो मदे तव विविधे
+> सोमजन्यमदे सति द्विषो द्वेष्टुः सकाशान्नोऽस्मान्पाहि । रक्ष । अंहसः पापाच्च
+> रक्ष । कस्मादेवमुच्यसे । यस्मात्त्वं विवक्षसे महान्भवसि ।
+
+##### Gist of the bhāṣya
+
+O Indra, you who are the lord of choice (वरणीयानां (*varaṇīyānāṃ*)) riches, and who are the impeller of the liberal worshipper (रध्रस्य (*radhrasya*)) and of the praiser, setting him to his tasks by the gift of wealth. Further, you who are the protector of the praisers: in your manifold Soma-born exhilaration, protect us from the hater, and protect us from sin. Why are you so addressed? Because you are mighty (विवक्षसे (*vivakṣase*) = महान्भवसि (*mahānbhavasi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यः (*yaḥ*)—you who
+- वाराणां (*vārāṇāṃ*)—of all desired riches
+- पतिः (*patiḥ*)—lord
+- असि (*asi*)—you are
+- रध्रस्य (*radhrasya*)—of the praiser
+- चोदिता (*coditā*)—you are the impeller
+- स्तोत्यणां (*stotyaṇāṃ*)—of the praisers
+- अविता (*avitā*)—you are the protector; such a you
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—in the time of exceeding exhilaration
+- नः (*naḥ*)—us
+- द्विषः (*dviṣaḥ*)—from enemies
+- पाहि (*pāhi*)—protect
+- अंहसः (*aṃhasaḥ*)—protect also from sin
+- विवक्षसे (*vivakṣase*)—you are mighty
+### Printed p. 687
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are lord of all desired riches, impeller of the praiser and protector of them: in the time of your exceeding exhilaration protect us from enemies. Protect us also from sin. You are mighty.
+
+##### English translation
+Indra, who are the lord of desirable (riches), the encourager of the worshipper, the protector of the eulogisıs, defend us, in your exhilaration from adversaries ; (guard us) from sin, you are mighty.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं श॑क्रा माया॒विना॑ समी॒ची निर॑मंथतं ॥  
+> वि॒म॒देन॒ यदी॑ळि॒ता नास॑त्या नि॒रमं॑थतं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । शक्रा । मायाविना । समीची इति संईची । निः । अमंथतं ॥  
+> विमदेन । यत् । ईळिता । नासत्या । निः अमंथतं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्रा शक्रौ शत्रुवधादिकर्मसु समर्थौ हे आश्विनौ मायाविना मायाविनौ प्रज्ञावंतौ शत्रुवंचनकुशलौ ना युवं युवां समीची परस्परं संगतौ
+> निरमंथतं । अग्निं निरमथ्नीतं । अश्विनावध्वयू । ऐ. ब्रा. १-१८ । इति ब्राह्मणोक्तत्वादग्निमंथसमप्यश्विनोरुपपन्नमिति । कदाश्विनौ निर्मथितवंतौ उच्यते । यद्यदा
+> नासत्या नासत्या युवां विमदेन मयेळितौ स्तुता निरमंथतं निरमथ्नीतं तदानीं
+> युवां परस्परं संगतौ निर्मथितवंतौ स्थ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Śakras, the two Aśvins, able in deeds such as slaying enemies; O māyāvins, the wise, skilled in deceiving enemies: you two, joined together, churned (निरमंथतं (*niramaṃthataṃ*)) the fire. Since the Brāhmaṇa says अश्विनावध्वयू । ऐ. ब्रा. १-१८ । (*aśvināvadhvayū | ai. brā. 1-18 |*) (Ai. Brā. 1-18), the Aśvins' fire-churning is fitting. When did they churn? When, O Nāsatyas, you were praised by me, Vimada, then, joined together, you churned it forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्रा (*śakrā*)—O able Aśvin deities
+- मायाविना (*māyāvinā*)—O wise ones
+- युवं (*yuvaṃ*)—you
+- समीची (*samīcī*)—being united
+- निरमंथतं (*niramaṃthataṃ*)—churned the fire and made it blaze
+### Printed p. 688
+- नासत्या (*nāsatyā*)—O Aśvin deities, of true nature
+- यत् (*yat*)—when
+- विमदेन (*vimadena*)—by me, named Vimada
+- ईळिता (*īḷitā*)—you were praised
+- निरमंथतं (*niramaṃthataṃ*)—you churned the fire
+
+##### भावार्थ (Bhāvārtha)
+
+O able Aśvin deities, wise as you are, you joined together and churned the fire. O Aśvin deities of true nature, when you were praised by me, named Vimada, you churned the fire and made it blaze.
+
+##### English translation
+Powerful and sagacious (Aswins) mutually associated, you have churned forth (the fire): when you, Nasatyas, glorified by Vimada, have churned it forth.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वा अ॑कृपंत समि॒च्योर्नि॒ष्पतं॑त्योः ॥  
+> नास॑त्यावब्रुवन्दे॒वाः पुन॒रा व॑हता॒दिति॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । अकृपंत । संईच्योः । निःसतंत्योः ॥  
+> नासत्यौ । अब्रुवन् । देवाः । पुनः । आ । वहतात् । इति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवाभ्यामग्निमंथनकाले प्रेर्यमाणयोः समीच्योः
+> परस्परेण संयुक्तयोररण्योर्निष्पतंत्र्योर्विस्फुलिंगान्निर्गमयंत्योः सत्योर्विश्वे सर्व इंद्रादयो देवा अकृपंत । युवामस्तुवन् । किंच । देवा
+> नासत्यावश्विनौ युवामब्रुवन् । अवोचन् । किमिति । पुनरा वहतादिति । पुनःपुनरीदृशानि जगत्स्थितिहेतुभूतानि कर्माणि युवामाभिमुख्येन स्थित्वावहतं ! यद्वा ।
+> युवाभ्यामुत्पाद्यमानः पुनश्चायमग्निरस्मदीयानि हवींष्यावहत्वति देवा
+> नासत्यावब्रुवन् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, at the time of your fire-churning, while the two fire-sticks, joined with each other and driven by you, were sending out sparks, all the gods, Indra and the rest, were gracious (अकृपंत (*akṛpaṃta*); he glosses: they praised you). Further, the gods said to you, the Nāsatyas: पुनरा वहतादिति (*punarā vahatāditi*)—again and again stand facing us and carry out such acts as sustain the world. Or else: the gods said to the Nāsatyas that this fire, produced by you, should again bear our oblations.
+### Printed p. 689
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) समिच्योः (*samicyoḥ*)—you who are united
+- निष्पतंत्योः (*niṣpataṃtyoḥ*)—who send forth sparks of fire; you
+- विश्वे देवाः (*viśve devāḥ*)—all the gods, Indra and the others
+- अकृपंत (*akṛpaṃta*)—have praised
+- पुनः (*punaḥ*)—again
+- आ वहतात् (*ā vahatāt*)—carry out the sacrificial act
+- इति (*iti*)—thus
+- देवाः (*devāḥ*)—the gods
+- नासत्या (*nāsatyā*)—you of true nature
+- अब्रुवन् (*abruvan*)—have said (have prayed)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, all the gods, Indra and the rest, have praised you, who are united and who send forth sparks and make the fire blaze. "Again carry out the sacrificial act that sustains the world," the gods have prayed to you of true nature.
+
+##### English translation
+All the gods praised you as you were mutually associated, and caused (the sparks) to fly up: the gods have said to the two Nasatyas, "let the fire again bear (us oblations)".
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मधु॑मन्ने प॒राय॑णं॒ मधु॑म॒त्पुन॒राय॑नं ।  
+> ता नो॑ देवा दे॒वत॑या यु॒वं मधु॑मतस्कृतं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मधुमत् । मे । परा अयनं । मधुमत् । पुनः । आ अयनं ।  
+> ता । नः । देवा । देवतया । युवं । मधुमतः । कृतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् मे मदीयं परायणं गृहात्परागमनं मधुमत् । अत्र
+> रसविशेषवाचिना मधुशब्देन तद्गता प्रीतिर्लक्ष्यते । युवयोः प्रसादात्प्रीतियुक्तं
+> भवत्विति शेषः । पुनरायनं गृहं प्रत्यागमनं मधुमत् प्रीतियुक्तं भवतु । आपि
+> xxvii 44
+
+##### Gist of the bhāṣya
+
+O Aśvins, may my going away from the house be मधुमत् (*madhumat*). Here the word मधु (*madhu*), denoting a particular flavour, indicates the pleasure in it: by your grace may it be joyful. May my coming back to the house also be मधुमत् (*madhumat*), joyful. And
+### Printed p. 690
+
+> च हे देवा देवौ द्योतमानौ ता तौ युवं युवां नोऽस्मान्मधुमतः प्रीतियुक्तान्यतं । कुरुतं । केनेति उच्यते । देवतॆया देवत्वेन । अणिमादिदेवतैश्वर्ययोगेनेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O shining ones, you two, make us मधुमतः (*madhumataḥ*), endowed with pleasure. By what? By देवतॆया (*devatèyā*), divinity, that is, by possession of the divine powers beginning with aṇimā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvin deities) मे (*me*)—my
+- परायणं (*parāyaṇaṃ*)—going out of the house
+- मधुमत् (*madhumat*)—may it be beneficial
+- पुनः (*punaḥ*)—again
+- आयनं (*āyanaṃ*)—returning to the house
+- मधुमत् (*madhumat*)—may it bring benefit
+- देवा (*devā*)—O Aśvin deities, divine in nature
+- ता (*tā*)—you two, the renowned
+- युवं (*yuvaṃ*)—you both
+- देवतया (*devatayā*)—by your divine power
+- नः (*naḥ*)—us
+- मधुमतः (*madhumataḥ*)—as endowed with sweetness
+- कृतं (*kṛtaṃ*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, may my going out of the house and my coming back home from outside give me a sweet experience. O Aśvin deities, divine in nature, you two, the renowned, by your divine power make us endowed with sweetness.
+
+##### English translation
+May my going forth be pleasant, may my coming back be pleasant, you two divine Aswins, render us, through your divine power possessed of pleasure.
+## Sūkta 25 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रमित्येकादशर्चं नवमं सूक्तं । तुह्यादिपरिभाषयेदमप्यास्तारपांक्तं।
+> सोमदेवताकं । ऋषिश्चान्यस्मादिति परिभाषया प्राजापत्य ऐंद्रो ना विमदो
+> वा वासुक्रो वसुकृद्वर्षिः । तथा चानुक्रांतं । भद्रमेकादश सौम्यमिति । गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, भद्रं (*bhadraṃ*), of eleven Ṛks. By the rule beginning तुह्यादि (*tuhyādi*) it is also in the Āstārapaṅkti metre; its deity is Soma. By the rule ऋषिश्चान्यस्मादिति (*ṛṣiścānyasmāditi*) the seer is Vimada, Aindra or Prājāpatya, or Vasukṛt, or Vāsukra. So the Anukramaṇī: भद्रमेकादश सौम्यमिति (*bhadramekādaśa saumyamiti*). The viniyoga has been stated.
+
+##### Anuvāda
+
+The sūkta भद्रं (*bhadraṃ*) is the ninth sūkta in the second anuvāka. It has eleven Ṛks. As for the preceding sūkta, its seer is the one called प्राजापत्य ऐंद्रो वा विमदो वा वासुक्रो वसुकृत् (*prājāpatya aiṃdro vā vimado vā vāsukro vasukṛt*). Soma is the deity; the metre is Āstārapaṅkti. The Anukramaṇī says भद्रमेकादश सौम्यं (*bhadramekādaśa saumyaṃ*). The viniyoga was stated earlier.
+### Printed p. 691
+Sūkta 25. Maṇḍala 10; Anuvāka 2; Sūkta 25. Aṣṭaka 7; Adhyāya 7; Vargas 11, 12. Number of Ṛks in the sūkta: 11. Ṛṣi: Vimada Aindra, or Prājāpatya, or Vasukṛt, or Vāsukra. Deity: Soma. Metre: Āstārapaṅkti.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रं नो॒ अपि॑ वातय॒ मनो॒ दक्ष॑मु॒त क्रतुं॑ ॥  
+> अधा॑ ते स॒ख्ये अंध॑सो॒ वि वो॒ मदे॒ रण॒न्गावो॒ न यव॑से॒  ॑
+> विवक्षसे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं । नः । अपि । वातय । मनः । दक्षं । उत । क्रतुं ।  
+> अध । ते । सख्ये । अंधसः । वि । वः । मदे । रणन् । गावः । न । यवसे । विवक्षसे ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नोऽस्मदीयं मनो भद्रं कल्याणं वातय । गमय ।
+> अस्माकं मनः शुभसंकल्पं कुर्वित्यर्थः । तथा दक्षमुत दक्षमपि ॥ दक्ष वृद्धौ ॥ वृद्धं
+> सर्वव्यापिनमंतरात्मानमपि भद्रं शुभकारित्वलक्षणं प्रापय । अस्माकमंतरात्मानं
+> शुभकारिणं कुर्वित्यर्थः । उतापि च क्रतुं प्रज्ञानं भद्रं शुभाध्यवसायलक्षणं
+> प्रापय । शुभाध्यवसायिनं कुर्वित्यर्थः । आधाध स्तोतारस्ते तव सख्यॆ स्तुत्यस्तोतृत्वेज्ययष्टृत्वलक्षणे सखिकर्मणि रणन् । रमंतां । तत्र दृष्टांतः । गावो न
+> यवसे यथा धेनवो घासे रमंते प्रीतिं कुर्वंति तद्वत् । कस्मिन्सति । अंधसः
+> सोमाख्यस्यान्नस्य संबंधिनि वस्तव विमदे विविधसोमजन्यमदनिमित्ते सति । कस्मादेवं । यस्माद्विवक्षसे । महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, make our mind भद्रं (*bhadraṃ*), auspicious (वातय (*vātaya*) = गमय (*gamaya*)): make our mind form good resolves. Likewise bring दक्षं (*dakṣaṃ*) (root दक्ष (*dakṣa*) in the sense of growth), the grown, all-pervading inner self, to the state of doing good: make our inner self a doer of good. And bring our क्रतुं (*kratuṃ*), understanding, to the state of good resolve: make it resolve on good. Then your praisers, in your friendship, a friendly relation consisting of the praiser-and-praised and sacrificer-and-sacrificed, would delight (रणन् (*raṇan*) = रमंतां (*ramaṃtāṃ*)). The example: as cows delight in fodder (गावो न यवसे (*gāvo na yavase*)), as they take pleasure in grass. On what occasion? When there is exhilaration (विमदे (*vimade*)), arising in various ways from the food called Soma (अंधसः (*aṃdhasaḥ*)). Why so? Because you are mighty (विवक्षसे (*vivakṣase*) = महान्भवसि (*mahānbhavasi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma deva) नः (*naḥ*)—our
+- मनः (*manaḥ*)—mind
+- दक्षं (*dakṣaṃ*)—strength
+- उत (*uta*)—and
+- क्रतुं (*kratuṃ*)—act
+- भद्रं (*bhadraṃ*)—as auspicious
+- वातय (*vātaya*)—impel
+
 ---
 
-**Progress note:** Done through printed p. 685. pp. 680-685 (batch API)
+**Progress note:** Done through printed p. 691. pp. 686-691 (batch API)
