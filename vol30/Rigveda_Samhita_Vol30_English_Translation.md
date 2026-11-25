@@ -9525,6 +9525,228 @@ Connected together like the two wings of a bird, you come to the sacrifice like 
 > इर्ये॑व पु॒ष्ट्यै कि॒रणे॑व भु॒ज्यै श्रु॑ष्टी॒वाने॑व॒ हव॒मा  ॑
 > गमिष्टं ॥ ४ ॥
 
+### Printed p. 253
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपी इति । वः । अस्मे इति । पितरा इव । पुत्रा । उग्रा इव । रुचा । नृपती इवेति  
+> नृपती इव । तुर्य्यै ।  
+> इर्याऽइव । पुष्टै । किरणाऽइव । भुज्यै । श्रुष्टीपानाऽइव । हवं । आ । गमिष्ठं ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मे अस्माकं वो युवां । पूजायां बहुवचनं । आपी प्राप्तौ बंधुभूत् भवथः । पितरेव पितराविव यथात्र पितर् प्रति पुत्रा पुत्रौ बंधुभूतौ भवतः
+> तद्वत् । यद्वा । पुत्रा ॥ षष्ठ्या आकारः ॥ पुत्राणां पितर् बंधू । तथोग्रेवोग्राविव यथोग् स्वतेजसोद्रोणावग्न्यादित् यथा रोचमान् भवतः तद्वद्रुचा
+> दीप्त्या युक्ता ॥ रोचतेर्भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वं ॥ यद्वा।
+> रुचा रोचमान् भवथः ॥ रोचतेरिगुपधलक्षण, कः । सुप आकारः ॥ नृपतीव
+> यथा नृणां पालयितार् राजान् संभ्रमयुक्ताय्कॆ सेनाय्कॆ रक्षकत्वेन भवतः
+> तद्वत्तुर्यैकर्मार्थं त्वरमाणाय्कॆ संभ्रमवश्य जनताय्कॆ युवामभीष्टदातृत्वेन
+> भवथः ॥ तुर त्वर्णे । इगुपधात्कित् । उ. ४-११९ । इतीन्प्रत्ययः । कृदिकारादक्तिनः ।
+> पा. ४-१-४५ । इति जीष् । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वं ॥
+> इर्येवेर्याविव । इरान्नं । तत्र भवौ ॥ भावार्थे यत् ॥ अन्नवंतानाढ्य
+> स्वजनवरितोषणाय भवतः । तप्पद्युवां पुष्य धनादिदानेनास्माकं परितोषणाय
+> भवथः । किरणेद किरणाविव यथाग्न्यादित्यकिरण सर्वॆषां प्रकाशनादिद्वारेण
+> भोगाय भवतः तद्वद्बुज्यॆ स्तोत्कृणां परिभोगाय भवथः । श्रुष्टिवानेव
+> श्रुष्टिवंताविव । श्रुष्टिति क्षिप्रनाम ॥ मत्त्वर्थीयो वनिप् ॥ तद्वंतावश् यथा
+> लक्ष्यं देशं प्रति शीघ्रं गच्छतः तद्वत् । यद्वा । श्रुष्टिवानेव । श्रुष्टिति सुखनाम ।
+> तद्वंतौ पुरुष यथा क्रीडार्थवागच्छतः तद्विद्युवां हवमस्मदीयमाह्वानं प्रत्या
+> गमिष्टं । आगच्छतं ॥ हवं । भावेनुपसर्गस्येति हैयतेरप् संप्रसारणं च ॥
+
+##### Gist of the bhāṣya
+
+"You two" (वो (*vo*), plural used in reverence) are "kinsmen" (आपी (*āpī*)) to us, as two sons are kinsmen to a father, or as fathers are to sons. Alternatively, पुत्रा (*putrā*) carries the ā-ending of the genitive, "of the sons, the fathers (are) kinsmen". Like two fierce ones (उग्रेव (*ugreva*)), that is, Agni and Āditya, who shine by their own brilliance, so you shine with lustre (रुचा (*rucā*)), meaning splendour. Alternatively, रुचा (*rucā*) means "you shine". Like two kings who are protectors of an agitated army, so for a worshipper who hastens (तुर्यै (*turyai*)) towards the rite you are givers of what is wished for. Like इर्येव (*iryeva*), two who are born of इरा (*irā*) (food), you are for the nourishing (पुष्टै (*puṣṭai*)) of your wealthy kinsfolk. So you are for our satisfaction, by giving wealth and the like. Like two rays of fire and of the sun, which serve the enjoyment of all by lighting and the like, so you are for the enjoyment (भुज्यै (*bhujyai*)) of the worshippers. श्रुष्टिवानेव (*śruṣṭivāneva*): like two possessed of श्रुष्टि (*śruṣṭi*), a word for "swift", as two who go quickly to the goal. Alternatively, श्रुष्टि (*śruṣṭi*) means "happiness", and the two are like two happy men who come for sport. So come (आगमिष्टं (*āgamiṣṭaṃ*)) to our invocation (हवं (*havaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins)
+- पुत्रा (*putrā*)—with regard to their sons
+- पितरेव (*pitareva*)—as fathers are dear
+- अस्मे (*asme*)—with regard to us
+- वः (*vaḥ*)—you
+- आपी (*āpī*)—you are kinsmen
+- उग्रेव (*ugreva*)—like Agni and Āditya, of fierce radiance
+- रुजा (*rujā*)—and radiant
+- नृपशीव (*nṛpaśīva*)—
+
+### Printed p. 254
+
+- (continuing) like kings anxious to protect their army
+- तुर्यै (*turyai*)—and anxious to be givers of desired objects to your worshippers
+- इर्येव (*iryeva*)—as wealthy men are nourishers of their households
+- पुष्टै (*puṣṭai*)—you are givers of nourishment to your worshippers
+- किरणेव (*kiraṇeva*)—as the rays of fire or of the sun are desired by all
+- भुज्यै (*bhujyai*)—you are fit to be enjoyed by all
+- श्रुष्टिवानेव (*śruṣṭivāneva*)—you, like swift-going horses
+- हवं (*havaṃ*)—heeding our invocation
+- आगमिष्टं (*āgamiṣṭaṃ*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as fathers are dear to their sons, so you are kinsmen to us. Like Agni and Āditya of fierce radiance you are brilliant. Like kings anxious to protect their army, you are eager to grant their wishes to your worshippers. As wealthy men are nourishers of their households, you are givers of nourishment to your worshippers. As the rays of fire or of the sun are desired by all, you are fit to be enjoyed by all. You who are like swift horses, heed our invocation and come.
+
+##### English translation
+You are kinsmen to us, like parents (to) sons, like two fierce, shining
+fires, like two princes hastening (to give protection), like two bestowers of
+food are you for the nourisment (of men), like two luminaries for the enjoy-
+ment (of your worshippers), like two quick (horses) you came to our
+invocation.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वंस॑गेव पूष॒र्या॑ शिं॒बाता॑ मि॒त्रेव॑ ऋ॒ता श॒तरा॒ शात॑संता ।  
+> वाजे॑वो॒च्चा वय॑सा घर्म्ये॒ष्णा मेषे॑वे॒षा स॑प॒र्या॒३॒॑३  ॑
+> पुरीषा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वंसगाइव । पूषर्या । शिंबाता । मित्राइव । ऋता । शतरा । शातपंता ।  
+> वाजाइव । उच्चा । वयसा । घर्म्येस्था । मेषाइव । इषा । सपर्या । पुरीषा॥
+
+### Printed p. 255
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वंसगेव वंसगाविन वननीयगमौ वृषभाविव तौ यथा पूषर्या पूषर्यौ
+> पूषणे भवौ । पुष्पावयवानित्यर्थः । तद्विद्युवां स्त्रीतांगावयन् ॥ पुष पुष्टौ।
+> अस्मादौणादिको भावेऽरन्मत्तयः । तदंताद्भावे छंदसीति यत् । तित्सरितं ॥ तथा
+> शिंबाता शिंबात् । सुखनामैतत् । शिंबेन दुःखानां तनूकरणेन हेतुनातितं
+> प्राप्तमिति ॥ शिञ् निशाने । अस्माच्चिंबमिति बाहुलकाद्दप्रत्ययो मुक्च निपात्यते ।
+> अततेः कर्मणि घञ् । सुप आलादेशः॥ सुखकर् भवथः। मित्रेव मित्राविव। मित्रशब्देन
+> वरुणोऽप्युपलक्ष्यते । सहावस्थितमित्रावरुणाविवर्तर्त् सत्यभूत् तद्विद्यथार्थदर्शिन् भवथः ॥ तथा शतरा शतं शतसंख्या कानि बहूनि रायो धनानि ययोः संति तौ
+> तथोक्तौ ॥ सुपो डादेशः ॥ यद्वा । शतमनेकमिंद्रियप्रसादादि राति ददातीति
+> शतरा सुखं ! तेन तद्वंतौ । शातपंता शातपंत् तीक्ष्णस्तुतिकौ ॥ शातं तीक्ष्णं ।
+> पंतं । पंतेर्बाहुलकात्तन् । उ- ३-८६ ॥ यद्वा । शातपंता शातेन दुःखानां
+> तनूकरणेन पन्यते सूयत इति शातपंतं सुखं ॥ शो तनूकरणे । निष्ठा । पनतेस्तन् ॥ तेन युवां सुखवंतौ भवथः ॥ यद्यपि शिंबाता शतरा शातपंतेति त्रीण्यपि
+> सुखनामानि तथापि कालत्रयेऽप्यश्निनोः सुखकरत्वस्य विवक्षितत्वेन विषयभेदादपौनरुक्त्यं । वाजीव वाजाविन यथाश्च घासादिनोन्नतौ संपूर्णावयन् तद्वद्वयसा
+> हवीरूपेणान्नेन :हेतुनोच्चोच्चैर्वर्तमान् । पुष्टावित्यर्थः ॥ उच्चा! उच्चैः
+> शब्दात्तुपो डादेशः । टित्त्वाट्टिलोपः ॥ घर्म्यॆष्ठा घर्मस्थौ । घर्म० दीप्तमंतरिक्षं । तत्संबंधिनि देशे सूर्याचंद्रमसो रूपेणावस्थित् भवथः सूर्याचंद्रमसाविति यास्कृ । २. १२-१ । यद्वा । घर्मे प्रवर्गॆ भवं घर्म्यं हविः । तत्र
+> देवतात्वेनावस्थित् भवथः ॥ तिष्ठतेरन्येभ्योऽपि दृश्यंत इति विच् । तत्पुरुषे कृति
+> बहुलमिति पूर्वपदस्य सप्तम्या अलुक् ॥ मेषेव मेषाविव । तौ यथान्नेन परिचरणीयौ तद्विद्युवामिषा हवीरूपेणान्नेन सपर्या सपर्यौ परिचरणीयौ भवथः॥
+> सपरशब्दः कंड्वादिः । सपर्यतिः परिचरणकर्मा ॥ पुरीषा पुरीषौ धनादिदानेन
+> स्तोतृणां पोषयितारौ यद्वा हविर्भिः पोषणीयौ भवथः । पुरीषं पुष्णातेः
+> पोषयतेर्वॆति यास्कृ ॥
+
+##### Gist of the bhāṣya
+
+वंसगेव (*vaṃsageva*): like two bulls of lovely gait. As such, you are पूषर्या (*pūṣaryā*), belonging to nourishment, that is, you have well-nourished limbs. शिंबाता (*śiṃbātā*) (a word for happiness): you are brought (*atitaṃ*) to happiness by the thinning out of sorrows, and you make happiness. मित्रेव (*mitreva*): like Mitra, the word "Mitra" also standing for Varuṇa, you are like Mitra and Varuṇa abiding together, truthful (ऋता (*ṛtā*)) and seeing things as they are. शतरा (*śatarā*): those who have a hundred, that is many, riches (रायः (*rāyaḥ*)). Alternatively, शतरा (*śatarā*) is happiness, which gives (राति (*rāti*)) many things such as the clearness of the senses, and the two possess it. शातपंता (*śātapaṃtā*): those of sharp praise; शातं (*śātaṃ*) is "sharp", पंतं (*paṃtaṃ*) praise (Uṇ. 3-86). Alternatively, शातपंतं (*śātapaṃtaṃ*) is the happiness that is praised through the thinning out of sorrows, and by it you are happy. Though शिंबाता (*śiṃbātā*), शतरा (*śatarā*) and शातपंता (*śātapaṃtā*) are all names of happiness, there is no repetition, since the Aśvins' making of happiness in all three times is meant and the scope differs. वाजीव (*vājīva*): like two horses that stand tall, filled out by fodder and the like, you stand high (उच्चा (*uccā*)), that is nourished, through food (वयसा (*vayasā*)) in the form of oblation. घर्म्येष्ठा (*gharmyeṣṭhā*): abiding in घर्म (*gharma*), the bright mid-region; you abide in the region connected with it in the form of the sun and the moon, as Yāska says (printed reference यास्कृ । २. १२-१ (*yāskṛ | 2. 12-1*))**NOTE**. Alternatively, घर्म्यं (*gharmyaṃ*) is the oblation in the घर्म (*gharma*) (pravargya), and you abide there as deities. मेषेव (*meṣeva*): like two rams, which are to be tended with food, you are tended (सपर्या (*saparyā*)) with food (इषा (*iṣā*)) in the form of oblation. सपर्यतिः (*saparyatiḥ*) is a verb of service. पुरीषा (*purīṣā*): nourishers of the worshippers by gifts of wealth and the like, or you are to be nourished with oblations; Yāska is cited.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins)
+- वंसगेव (*vaṃsageva*)—like bulls of attractive gait
+- पूषर्या (*pūṣaryā*)—with well-nourished limbs
+- शिंबाता (*śiṃbātā*)—you are makers of happiness
+- मित्रेव (*mitreva*)—like Mitra and Varuṇa
+- ऋता (*ṛtā*)—truthful
+- शतरा (*śatarā*)—possessed of abundant wealth
+- शातपंता (*śātapaṃtā*)—
+
+### Printed p. 256
+
+- (continuing) fit for abundant praise
+- वाजीव (*vājīva*)—like well-fed horses
+- वयसा (*vayasā*)—by the food in the form of oblation
+- उच्चा (*uccā*)—being nourished
+- घर्म्येष्ठा (*gharmyeṣṭhā*)—you abide in the mid-region
+- मेषेव (*meṣeva*)—like rams
+- इषा (*iṣā*)—with food
+- सपर्या (*saparyā*)—you are those who are tended
+- पुरीषा (*purīṣā*)—you nourish the worshippers by gifts of wealth and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, like bulls of attractive gait you are makers of happiness, with well-nourished limbs. Like Mitra and Varuṇa you are truthful, possessed of abundant wealth and fit for abundant praise. Like well-fed horses you are nourished by the food in the form of oblation and abide in the mid-region. Like rams you are tended with food. You nourish the worshippers by gifts of wealth and the like.
+
+##### English translation
+You are like two pleasantly moving well-fed (hills) like Mitra and
+Varuna, the rwo bestowers of felicity. veracious, possessors of infinate wealth,
+happy, like two horses plump with fodder, abiding in the firmament, like
+two rams (are you) to be nourished with sacrificial food, to be cherished
+(with oblations).**NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+शतरा -- शतं शतसंख्याकानि बहूनि रायो धनानि ययोः संति तौ । (*śatarā -- śataṃ śatasaṃkhyākāni bahūni rāyo dhanāni yayoḥ saṃti tau |*) "शत (*śata*)" means many; "रायः (*rāyaḥ*)" means wealth. The meaning is: those who are endowed with manifold wealth. Or: शमनेकनिंद्रियप्रसादादि राति ददातीति शतरा सुखं तेन तद्वंतौ (*śamanekaniṃdriyaprasādādi rāti dadātīti śatarā sukhaṃ tena tadvaṃtau*). Since it causes delight to many senses, inner and outer, "शतर (*śatara*)" is happiness; the meaning is: those who have such happiness, or who give happiness.
+
+शातपन्ता (*śātapantā*) -- शातपंता तीक्ष्ण स्तुतिकौ । (*śātapaṃtā tīkṣṇa stutikau |*) "शत (*śata*)" means sharp, "panta" praise: those who are fit for abundant praise. Or शातेन दुःखानां तनूकरणेन पन्यते स्तूयत इति शातपन्तं सुखं । (*śātena duḥkhānāṃ tanūkaraṇena panyate stūyata iti śātapantaṃ sukhaṃ |*) तेन युवां सुखवन् भवथः । (*tena yuvāṃ sukhavan bhavathaḥ |*) Because you lessen the sorrows of your worshippers, you are praised; that is, you create happiness for them. Therefore the meaning is that you are givers of happiness. Although the three words शिंबाता (*śiṃbātā*), शतरा (*śatarā*) and शातपन्ता (*śātapantā*) convey, more or less, the one meaning "bringing happiness", it should be understood that, since the Aśvins create happiness for their worshippers in all three times, this epithet is used here three times and there is no repetition.
+
+### Printed p. 257
+
+वाजीव उच्चा वयसा (*vājīva uccā vayasā*)—As horses are attractive through bodies filled out by eating grass and the like, so you shine, well nourished by the food in the form of oblation offered to you in sacrifices and the like.
+
+घर्म्येस्था (*gharmyesthā*)—घर्म (*gharma*) means the shining mid-region. In that region you shine like the sun and moon. Or the oblation offered in the pravargya sacrifice called घर्म (*gharma*): it may also be understood that you come to that sacrifice like deities and accept that oblation.
+
+मेषेव इषा सपर्या पुरीषा (*meṣeva iṣā saparyā purīṣā*)—सपर्यतिः परिचरणकर्मा । (*saparyatiḥ paricaraṇakarmā |*) "सपर्या (*saparyā*)" means tending and worshipping. As to पुरीषा (*purīṣā*): धनादिदानेन स्तोतृणां पोषयितारौ अथवा हविर्भिः पोषणीयौ भवथः । (*dhanādidānena stotṛṇāṃ poṣayitārau athavā havirbhiḥ poṣaṇīyau bhavathaḥ |*) Those who give wealth and the like to the worshippers and nourish them, or those who are nourished by the food in the form of oblation. As people feed and rear two rams, giving them food and the like, so people offer food in the form of oblation to these Aśvins and make them well nourished with love and respect. Or the chief intention of this sentence is that these Aśvins nourish the worshippers who praise them by giving wealth and the like.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सृ॒ण्ये॑व ज॒र्भरी॑ तु॒र्फरी॑तू नैतो॒शेव॑ तु॒र्फरी॑ पर्फ॒रीका॑ ।  
+> उ॒द॒न्य॒जीव॒ जेम॑ना मदे॒रू ता मे॑ ज॒राय्व॒जरं॑ म॒रायु॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सृण्या इव । जर्भरी इति । तुर्फरीतू इति । नैतोशा इव । तुर्फरी इति । पर्फरीका ॥  
+> उदन्यजा इव । जेमना । मदेरू इति । ता । मे । जरायु । अजरं । मरायु ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सृण्येव सृण्याविव । सृणिरंकुशः ॥ तत्र साधुरिति यत् ॥ अंकुशार्हौ मत्तगजाविन जर्भरी गात्रविनामं कुर्वंत् ॥ जभ जृभि गात्र विनामे । अस्मादौणादिको
+> रिप्रत्ययः ॥ यद्वा । सृण्येव । सृणिर्द्विविधा । मत्तगजस्यैकत्रावस्थापयित्र्येका ।
+> अपरा बाधयित्रि ॥ सर्तॆः किच्च । उ. ४-४९-१०४ । इत्यौणादिको निप्रत्ययः ।
+> 17
+
+##### Gist of the bhāṣya
+
+सृण्येव (*sṛṇyeva*): like two rutting elephants fit for the goad (सृणि (*sṛṇi*)), you are जर्भरी (*jarbharī*), making the body bend (Uṇ. 4-49-104 is cited for the affix). Alternatively, the goad is of two kinds: one that makes a rutting elephant stand in one place, the other that checks it. You two are like those, holders who keep (the worshipper) in one place. And you are तुर्फरीतू (*turpharītū*), smiters of enemies. Nirukta (printed reference नि. १३-५ (*ni. 13-5*)): द्विविधा सृणिर्भवति भर्ता च हंता च तथाश्विन् चापि भर्तारौ जर्भरी भर्तारावित्यर्थस्तुर्फरीतू हंतारावित्यादि । (*dvividhā sṛṇirbhavati bhartā ca haṃtā ca tathāśvin cāpi bhartārau jarbharī bhartārāvityarthasturpharītū haṃtārāvityādi |*) नैतोशेव (*naitośeva*): नितोशति (*nitośati*) is a verb of killing; नितोश (*nitośa*) is one who kills; his offspring is नैतोश (*naitośa*). Like those two you are तुर्फरी (*turpharī*), smiters of enemies. पर्फरीका (*parpharīkā*): splitters of enemies; or fillers of the worshippers with wealth and the like.
+
+### Printed p. 258
+
+> कित्वादगुणः । कृदिकारादक्तिन इति जीष् । सुप आकारः । उदात्तस्वरितयोर्यण
+> इति स्वरितः ॥ तादृश्यौ सृण्यानिव जर्भरी भर्तार वेकत्रैवावस्थापकौ । तथा तुर्फरीतू
+> तर्फितारौ शत्रोणां हंतारौ ॥ जर्भरी । भरतेयज्लुगंतादौणादिक इप्रत्ययः ।
+> अभ्यासस्य जकारश्चांदसः । तृफ तृंफ हिंसायां । अस्मात्तृजंतस्य तुर्फरीतारावित्यस्य
+> पृषोदरादित्वाद्वर्णविकारः । यद्वा । अस्माद्बाहुलकादौणादिकोऽरीतुप्रत्यय
+> उत्वं च । अत्र निरुक्तं । द्विविधा सृणिर्भवति भर्ता च हंता च तथाश्विन् चापि भर्तारौ
+> जर्भरी भर्तारावित्यर्थस्तुर्फरीतू हंतारावित्यादि । नि. १३-५ ॥ नैतोशेव । नितोशतिर्वधकर्मा । नितोशयतीति नितोशः । तस्यापत्यं नैतोशः । ताविव तुर्फरी
+> शत्रोणां हंतारौ ॥ तृफतिर्हिंसार्थः । अस्मादौणादिको रिप्रत्यय उत्वं च ॥
+> पर्फरीका पर्फरीकौ शत्रोणां विदारयितार् ॥ इफला विशरणे । अस्मात्पर्फरीकादयश्च । उ. ४-२० । इतीकप्रत्ययांतो निपात्यते ॥ यद्वा । स्तोतृजनानां धनादिदानेन पूरयितार् ॥ प्य पालनपूरणयोः । अस्मादीकनि पूर्ववत्सर्वं निपात्यते ।
+> फर्वतेः पूरणार्थाद्वा ॥ उपन्यजीव उपन्यजे इव । उवके भवमुदन्यं ॥
+> पद्दन्नोमास् । पा. ६-१-६३ : इत्यादिनारस्मृतिष्टप्युदन्नादेशं ॥ तत्र जाते रत्ने
+> इव निर्मल् कांतियुक्तावित्यर्थः । जेमना जेमन् जयशील् ॥ जयतेरन्येभ्योऽपि दृश्यंत इति मनिन् । दीर्घाभावश्चांवसं ॥ मदेरू बलातिशयेन मत्तौ
+> स्तुत्या वा । ता तौ पूर्वोक्तगुणावश्विन् युवां मे मदीयं जरायु जरायुजं
+> आत एव मरायु मरणशीलं शरीरमजरु जरारहितं मरणधर्मरहितं कुरुतं ॥
+> नञ्चो जरमरुक्रमृता इति नञ उत्तरस्य जरशब्दस्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+(continuing) पर्फरीका (*parpharīkā*) is explained from the root फर्व (*pharva*), "to fill", as well. उदन्यजीव (*udanyajīva*): like two jewels born in water (उदन्य (*udanya*)), that is, pure and radiant. जेमना (*jemanā*): victorious by nature. मदेरू (*maderū*): exceedingly intoxicated with strength, or fit for praise. ता (*tā*): you two, of the qualities stated, make my body (जरायु (*jarāyu*), born of the membrane, hence मरायु (*marāyu*), subject to death) ageless (अजरं (*ajaraṃ*)), free from old age and from the nature of death.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins)
+- सृण्येव (*sṛṇyeva*)—like rutting elephants
+- जर्भरी (*jarbharī*)—of a bent body
+- तुर्फरीतू (*turpharītū*)—and destroyers of enemies
+- नैतोशेव (*naitośeva*)—like the sons of Nitośa
+- तुर्फरी (*turpharī*)—and destroyers of enemies
+- पर्फरीका (*parpharīkā*)—splitters of enemy folk, or givers of fruit to the worshippers
+- उदन्यजीव (*udanyajīva*)—shining like jewels born in water
+- जेमना (*jemanā*)—victorious
+- मदेरू (*maderū*)—full of joy, or fit for praise
+- ता (*tā*)—you
+- जरायु (*jarāyu*)—which is attended by old age
+- मरायु (*marāyu*)—and for that very reason inclined to death
+- मे (*me*)—my body
+- अजरं (*ajaraṃ*)—make free from old age
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you who are of bent body like rutting elephants or like goads, and destroyers of enemies, who are, like the sons of Sitośa**NOTE**, destroyers of enemies, and givers of fruit to your worshippers, and lovers of praise, and
+
 ---
 
-**Progress note:** Done through printed p. 252. pp. 247-252 (batch API)
+**Progress note:** Done through printed p. 258. pp. 253-258 (batch API)
