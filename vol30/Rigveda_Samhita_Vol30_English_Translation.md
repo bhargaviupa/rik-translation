@@ -2118,6 +2118,257 @@ Indra has green-tinted beard and green-tinted hair, and a heart of iron, that is
 - विश्वा दुरिता (*viśvā duritā*)—all paths of sorrow
 - पारिषत् (*pāriṣat*)—may he carry (us) across
 
+### Printed p. 62
+#### Ṛk 9 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, whose heart is hard toward his enemies, who has a golden-brown beard and golden-brown hair, who grows strong while drinking the green-hued Soma at the time of the quickly drunk Soma, and who is rich in wealth in the form of oblations through his swift horses: may that Indra yoke his horses to the chariot and carry us across our paths of sorrow.
+
+##### English translation
+The yellow-bearded, the yellow-haired, iron-hearted Indra, the drinker of the yellow (Soma-juice), who has been invigorated by the Soma which has to be quickly quaffed, who is rich in sacrificial food through his swift bay horses, may he drive his two bay horses safe through all difficulties.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्रुवे॑व॒ यस्य॒ हरि॑णी विपे॒ततुः॒ शिप्रे॒ वाजा॑य॒ हरि॑णी॒ दवि॑ध्वतः ।  
+> प्र यत्कृ॒ते च॑म॒से मर्मृ॑ज॒द्धरी॑ पी॒त्वा मद॑स्य हर्य॒तस्यांध॑सः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्रुवाइव । यस्य । हरिणी इति । विपेततुः । शिप्रे इति । वाजाय । हरिणी इति ।  
+> दविध्वतः ।  
+> प्र । यत् । कृते । चमसे । मर्मृजत् । हरी इति । पीत्वा । मदस्य । हर्यतस ।  
+> अंधसः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्येंद्रस्य हरिणी हरितवर्णावश्वा विपेततुः रथ इंद्रमारोप्य विपततो
+> यज्ञमस्मदीयं । यद्वा। यस्य हरिणी हरितवर्णॆ कनीनिके विपेततुः सोमं प्रति
+> विपततः । तत्र दृष्टांतः । स्रुवेव । यथा स्रुवा स्रुनौ हविषा पूर्ण पात्रविशेषौ
+> होमार्थं विपततः तद्वत् । तथा यस्य च हरिणी हरितवर्णॆ शिप्रे हनू वाजाय
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: the two bay (green-hued) horses of Indra "fly forth", that is, they set Indra on the chariot and speed to our sacrifice. Or else: his two green-hued eye-pupils dart toward the Soma. An illustration is given: as the two ladles (sruva), vessels filled with oblation, are poured out for the offering, so his two golden jaws shake for the food, the Soma, the offering made to him.
+
+### Printed p. 63
+
+> सोमलक्षणायान्नाय दविध्वतः कंपयतः पुरतः प्रत्तस्य सोमस्य प्रीत्या चलतः ।
+> तथा यद्यदा कृते संस्कृते चमसे वर्तमानं मदस्य मदकरं हर्यतस्य
+> कांतमंधसोऽन्नं सोमं पीत्वा हरी अश्नौ प्र मर्मृजत् प्रमार्ष्टि । तदानीं
+> स्तुत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The jaws tremble for the food in the form of Soma, moving with pleasure at the Soma offered before him. And when, from the Soma that is in the well-prepared cup, the intoxicating, desirable food, he has drunk, he strokes his two horses. At that time, the meaning is, he is praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्रुवेव (*sruveva*)—as vessels full of oblation are poured out in haste to offer the oblation
+- यस्य (*yasya*)—of which Indra
+- हरिणी (*hariṇī*)—the green-hued horses
+- विपेततुः (*vipetatuḥ*)—run toward the sacrifice
+- (यस्य (*yasya*)—of which Indra)
+- हरिणी (*hariṇī*)—golden
+- शिप्रे (*śipre*)—jaws
+- वाजाय (*vājāya*)—to eat the oblation
+- दविध्वतः (*davidhvataḥ*)—tremble; that Indra
+- यत् (*yat*)—when
+- कृते (*kṛte*)—well prepared
+- चमसे (*camase*)—in the cup (camasa)
+- मदस्य (*madasya*)—intoxicating
+- हरतस्य (*haratasya*)—attractive
+- अंधसः (*aṃdhasaḥ*)—the food (Soma)
+- पीत्वा (*pītvā*)—having drunk
+- हरी (*harī*)—his horses
+- प्र मर्मृजत् (*pra marmṛjat*)—strokes; then (he is praised)
+
+##### भावार्थ (Bhāvārtha)
+
+As vessels full of oblation are poured out in haste to offer the oblation, so the green-hued horses of Indra run toward the sacrifice, and his golden jaws tremble to eat the oblation. That Indra, having drunk the food (Soma), which is in the well-prepared camasa cup, intoxicating and attractive, and being satisfied, is praised as he strokes his horses.
+
+##### English translation
+He whose bay horses alight (upon the soma) like two ladles, whose yellow jaws tremble (with eagerness) for the sacrificial food. (is praised) when having drunk of the delicious exhilarating beverage in the prepared cup. he rubs down his bay horses.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त स्म॒ सद्म॑ हर्य॒तस्य॑ प॒स्तो॒३॒॑ऽतिरत्यो॒ न वाजं॒ हरि॑वा अचिक्रदत् ।  
+> म॒ही चि॒द्दि धि॒षणाह॑र्य॒दोज॑सा बृ॒हद्वयो॑ दधिषे हर्य॒तश्चि॒दा ॥ १० ॥
+
+### Printed p. 64
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । स्म । सद्म । हर्यतस्य । पस्तोः । अत्यः । न । वाजं । हरिवान् । अचिक्रदत् ।  
+> मही । चित् । हि । धिषणा । अहर्यत् । ओजसा । बृहत् । वयः । दधिषे । हर्यतः ।  
+> चित् । आ ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हर्यतस्य कमनीयस्येंद्रस्य सद्म सदनं पस्त्योर्द्यावापृथिव्योः
+> संबंधि । सोऽयमत्तो नाश्व इव वाजं संग्रामं हरिवानश्ववानचिक्रदत् । गच्छति ।
+> तथा हि यस्माद्दे इंद्र त्वां मही महती धिषणा स्तुतिरोजसा बलेन युक्तमिंद्रमहर्यत् कामयते । चिदिति पूरणः । अतो वाजमचिक्रदत् । तथा सति हर्यतः
+> कामयमानस्य यजमानस्य बृहन्महद्वयोऽन्नमा दधिषे । धारयसि । आप्रयच्छसि ।
+> चिदिति पूरणः ॥
+
+##### Gist of the bhāṣya
+
+And the dwelling of the desirable Indra belongs to heaven and earth. That same Indra, owning horses, goes to battle (वाजं (*vājaṃ*)) like a horse. For, Indra, the great praise (धिषणा (*dhiṣaṇā*)) desires you, endowed with might and strength; चित् (*cit*) is a filler. Therefore he goes वाजं (*vājaṃ*) roaring. That being so, you bestow great food on the sacrificer who desires you; here too चित् (*cit*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- हर्यतस्य (*haryatasya*)—of Indra of attractive form
+- सद्म (*sadma*)—the dwelling
+- पस्योः (*pasyoḥ*)—belongs to both heaven and earth
+- हरिवान् (*harivān*)—that same Indra, owning horses
+- अत्यो न (*atyo na*)—like a horse
+- वाजं (*vājaṃ*)—to battle
+- अचिक्रदत् (*acikradat*)—rushes forward
+- मही (*mahī*)—full of greatness
+- धिषणा (*dhiṣaṇā*)—praise
+- ओजसा (*ojasā*)—Indra endowed with strength
+- अहर्यत् (*aharyat*)—desires
+- (O Indra) हर्यतः (*haryataḥ*)—to the sacrificer, your devotee
+- बृहत् (*bṛhat*)—great
+- वयः (*vayaḥ*)—food
+- आ दधिषे (*ā dadhiṣe*)—you provide
+
+##### भावार्थ (Bhāvārtha)
+
+The dwelling of Indra of attractive form belongs to both heaven and earth. That same Indra, owning horses, rushes to battle like a horse. Praise full of greatness desires the mighty Indra. O Indra, you provide great food to the sacrificer, your devotee.
+
+##### English translation
+The dwelling of the gracious (Indra) is in heaven and earth; exhilarated by the Soma he rushes impetuously as a charger to battle. The earnest prayer desires (Indra endowed) with might; you bestow ample food on the devout (worshippcr).
+
+### Printed p. 65
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ रोद॑सी॒ हर्य॑माणो महि॒त्वा नव्यं॑नव्यं हर्यसि॒ मन्म॒ नु  ॒
+> प्रियं ।  
+> प्र प॒स्य॑मसुर हर्य॒तं गोरा॒विष्कृ॑धि॒ हर॑ये॒ सूर्या॑य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । रोदसी इति । हर्यमाणः । महित्वा । नव्यंनव्यं । हर्यसि । मन्म । नु ।  
+> प्रियं ।  
+> प्र । पस्यं । असुर । हर्यतं । गोः । अविः । कृधि । हरये । सूर्याय ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हर्यमाणः कामयमानो महित्वा महत्वेन रोदसी द्यावापृथिव्यावा । पूरयसीति शेषः । तथा नव्यंनव्यं नवतरं प्रियं प्रियकरं मन्म
+> मननीयं स्तोत्रं नु क्षिप्रं हर्यसि । कामयसे । हे असुर बलवन्। असुः प्राणः।
+> तद्वन् ॥ मत्वर्थीयो रः ॥ तादृशींद्र गोः । जात्येकवचनं । गवां हर्यतं
+> स्पृहणीयं पस्त्यं गृहं गोरुदकस्योक्तगुणकं स्थानं वा हरय उदकस्य
+> हर्त्रॆ सूर्याय प्र प्रकर्षेणाविष्कृधि । प्रकटीकुरु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, desiring, you fill by your greatness the two worlds, heaven and earth ("fill" is to be supplied). You also quickly desire ever newer, pleasing praise worthy of reflection (मन्म (*manma*)). O असुर (*asura*), mighty one: असुः (*asuḥ*) is breath, and the one having it; the affix रः (*raḥ*) is in the sense of possession. Such an Indra: गोः (*goḥ*) is a singular of the class, "of the waters"; make manifest abundantly the desirable dwelling or the place, of the waters possessing the stated qualities, to the sun, the taker of water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) हर्यमाणः (*haryamāṇaḥ*)—you of attractive form
+- महित्वा (*mahitvā*)—by your greatness
+- रोदसी (*rodasī*)—both heaven and earth
+- आ (पूरयसि) (*ā (pūrayasi)*)—you fill
+- नु (*nu*)—always
+- नव्यं नव्यं (*navyaṃ navyaṃ*)—ever new
+- प्रियं (*priyaṃ*)—beneficial
+- मन्म (*manma*)—praise
+- हरसि (*harasi*)—you desire
+- असुर (*asura*)—O mighty Indra
+- हरये (*haraye*)—to the water-drinking
+- सूर्याय (*sūryāya*)—sun
+- गोः (*goḥ*)—of the waters
+- हरतं (*harataṃ*)—attractive
+- पस्यं (*pasyaṃ*)—dwelling (or place)
+- प्र (*pra*)—greatly
+- अविष्कृधि (*aviṣkṛdhi*)—make manifest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you of attractive form fill both heaven and earth by your greatness. You always desire praise that is ever new and beneficial.
+
+### Printed p. 66
+O mighty Indra, make manifest to the water-drinking sun the attractive dwelling, or the place, of the waters.
+
+##### English translation
+You (Indra) who are the object of desire (fill) heaven and earth with your greatness, you desire greatful praise new and new ; O powerful one, make manifest the desirable dwelling of the water to the water-seizing sun.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑ ह॒र्यंतं॑ प्र॒युजो॒ जना॑नां॒ रथे॑ वहंतु॒ हरि॑शिप्रमिंद्र ।  
+> पिबा॒ यथा॒ प्रति॑भृतस्य॒ मध्यो॒ हर्य॑न्य॒ज्ञं स॑ध॒मादे॒  ॑
+> दशोणिं ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । हर्यंतं । प्रयुजः । जनानां । रथे । वहंतु । हरिशिप्रं । इंद्र ।  
+> पिब । यथा । प्रतिभृतस्य । मध्वः । हर्यन् । यज्ञं । सधर्मादे । दशओणिं ॥१२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हरिशिप्रं हरितवर्णशिप्रं त्वा त्वां हर्यंतं यज्ञं कामयमानं
+> प्रयुजो रथे प्रयुक्ता अश्वा रथे स्थापयित्वा जनानामृत्विग्यजमानानामंतिकं
+> वहंतु । प्रापयंतु । प्रवहंति । यथा येन प्रकारेण प्रतिभृतस्य ग्रहादिषु
+> संभृतं मध्वो मधु सोमरसं यज्ञं यागसाधनं दशोणिं । ओणयोऽंगुलयः । दशभिरंगुलिभिः संपादितं सोमं हर्यन् कामयमानः सन् पिब पिबसि
+> सधमादे संग्रामे जयार्थं तथावहंत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you of green-hued jaws (हरिशिप्रं (*hariśipraṃ*)), desiring the sacrifice: let the horses yoked to the chariot (प्रयुजः (*prayujaḥ*)), having placed you on the chariot, carry you to the sacrificers, the priests and patrons (जनानां (*janānāṃ*)). In the manner in which, desiring the sweet Soma juice collected in the cups and so on, the sacrificial means, prepared by the ten fingers (दशोणिं (*daśoṇiṃ*); *oṇayaḥ* are the fingers), you drink, so let them carry you to the battle (सधमादे (*sadhamāde*)) for victory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हरिशिप्रं (*hariśipraṃ*)—having golden cheeks
+- हर्यतं (*haryataṃ*)—desiring the sacrifice
+- त्वा (*tvā*)—you
+- रथे (*rathe*)—having seated on the chariot
+- प्रयुजः (*prayujaḥ*)—the horses yoked to the chariot
+
+### Printed p. 67
+- जनानां (*janānāṃ*)—to the sacrificers
+- वहंतु (*vahaṃtu*)—let them bring
+- दशोणिं (*daśoṇiṃ*)—prepared with the ten fingers
+- प्रतिभृतस्य (*pratibhṛtasya*)—collected in the vessels
+- मध्वः (*madhvaḥ*)—sweet
+- यज्ञं (*yajñaṃ*)—the Soma juice, the accomplisher of the sacrifice
+- हर्यन् (*haryan*)—desiring
+- यथा (*yathā*)—in what manner
+- पिब (*piba*)—you drink, so
+- सधमाधे (*sadhamādhe*)—for victory in battle let the horses bring you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you of golden cheeks, desiring the sacrifice: let the horses yoked to the chariot, having seated you on the chariot, bring you to the sacrificers. As you drink, desiring, the Soma juice prepared by the ten fingers, collected in the vessels, sweet and the accomplisher of the sacrifice, so (then) let the horses bring you for victory in battle.
+
+##### English translation
+Let your horses yoked to the chariot bring you, Indra, the yellow-jawed, desiring (the sacrifice), to (the vicinity) of the worshippers; when you desiring the sacrifice, prepared by the ten fingers, drink of the collected sweet-flavoured Soma, (Let them bring you) to the battle.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपाः॒ पूर्वे॑षां हरिवः सु॒ताना॒मथो॑ इ॒दं सव॑नं॒ केव॑लं ते ।  
+> म॒म॒द्धि सोमं॒ मधु॑मंतमिंद्र स॒त्रा वृ॑षञ्ज॒ठर॒ आ  ॑
+> वृषस्व ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपाः । पूर्वेषां । हरवः । सुतानां । अथोइति । इदं । सवनं । केवलं । ते ।  
+> ममद्धि । सोमं । मधुमंतं । इंद्र । सत्रा । वृषन् । जठरे । आ । वृषस्व ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 61. pp. 56-61 (batch API)
+**Progress note:** Done through printed p. 67. pp. 62-67 (batch API)
