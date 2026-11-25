@@ -98,7 +98,7 @@ The credits of the original edition are either marked clearly as taken from the 
 9. **Transliteration in English prose** writes *ch* for *c* (Pañchikās, not Pañcikās) and *chh* for *ch*; the IAST of the Sanskrit lines is not changed.
 10. **Lists with numbering and arrangement** (the Śākhā lists of Vol 1 pp. 74–75 of the PDF) are built from the Kannada's own order and numbers; the draft's numbering was wrong.
 11. **Sūtras** (Vol 1 PDF p. 58) are set as Sanskrit lines (rule 5), not run into prose.
-12. *Question for the build, answered by the check in the build log:* the abbreviations page of Vol 1's PDF (p. 39) is **not** the one list of all volumes (`rv/references.tsv`, B3.7) unless the build reads that list: the build must print the uniform list.
+12. **The abbreviations page of Vol 1's PDF (p. 39, "Key to Abbreviations") is the old table written by hand into the Vol 1 draft, not the uniform list** (`rv/references.tsv`, B3.7; answer to the user's question of Nov 25 2026): the print must read the one list for every volume.
 
 ### A5. Kannada book
 The text of the original, page by page, with its Sanskrit in Kannada script. Nothing of ours stands in it beyond what is needed to find a page, a sūkta or a Ṛk. (F9) **The changes of Parts C, K and O (the bhāṣya as a reference, the Sāyaṇa book, the dictionary, the tags) concern the English translation only; the Kannada book remains similar to the original and keeps the bhāṣya as the original has it** (user, Nov 22 2026); its text is corrected only as B1.6 and B5.4 say.
