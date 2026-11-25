@@ -26278,6 +26278,237 @@ Associated with praises, accompanied by metres invested, having authority, the s
 
 सहप्रमाः (*sahapramāḥ*)—यज्ञस्येयत्तापरिज्ञानं (*yajñasyeyattāparijñānaṃ*). The intention is: the seers who knew that such a sacrifice must be performed for so many days, and who knew the order of performing the sacrifice.
 
+### Printed p. 802
+daivyāḥ—the Sādhyas, the earlier gods who are the vital breath of Prajāpati, the god of gods. Or else:
+
+ṛṣayaḥ sapta—Bharadvāja, Kaśyapa, Gotama, Atri, Viśvāmitra, Jamadagni and Vasiṣṭha are called the seven ṛṣis. Or else they are the priests, the Hotṛ and the others, who perform the seven vaṣaṭkāras.
+
+rathyo na raśmīn—as a charioteer who drives a chariot takes the reins of the horses in his hand in order to drive it, and sets about driving the chariot, so the seven ṛṣis followed the very path of sacrificial performance that the earlier gods or the Aṅgirasa ṛṣis had followed, and themselves set about performing sacrifices. This is the main purport.
+
+## Sūkta 131 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप प्राच इति सप्तर्चं तृतीयं सूक्तं कक्षीवतः पुत्रस्य सुकीर्तरार्षं ।
+> चतुर्थ्यनुष्टुप् शिष्टाः षट् त्रिष्टुभः । चतुर्थीपंचम्यावश्विदेवत्ये शिष्टा ऐंद्रः ।
+> तथा चानुक्रांतं । अप प्राचः सुकीर्तिः काक्षीवतो मध्यॆऽनुष्टुप्पोत्तरा चाश्विन्याविति ॥ षष्ठेऽहनि ब्राह्मणाच्छंसिन उक्धशस्त्र एतत्तूक्तं । सूत्रितं च । सुकीर्तिं
+> ब्राह्मणाच्छंसी वृषाकपिं च पंक्तिशंसं । आ. ८-४ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिने
+> सवने मैत्रावरुणस्याप प्राच इत्येषारंभणीया कद्वत्पगाथानंतरं शंसनीया ।
+> सूत्रितं च । कद्वंतः प्रगाथा अप प्राच इंद्र विश्वा अमित्रान् । आ. ७-४ । इति ॥
+> अहर्गणेष्टपि द्वितीयादिष्टहःसु तस्यैव तस्मिन्नेव शस्त्र आरंभणीया । सूत्रितं च ।
+> आरंभणीयाः पर्यासान्कद्वतोऽहरहः शस्यानीति होत्रका द्वितीयादिष्टेव ।
+> आ. ७-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the third sūkta of the series, of seven ṛks, seen by Sukīrti, son of Kakṣīvat. The fourth ṛk is in anuṣṭubh and the remaining six are in triṣṭubh. The fourth and fifth ṛks have the Aśvins as deity, and the rest are addressed to Indra. Sāyaṇa quotes the Anukramaṇī: अप प्राचः सुकीर्तिः काक्षीवतो मध्यॆऽनुष्टुप्पोत्तरा चाश्विन्याविति॥ (*apa prācaḥ sukīrtiḥ kākṣīvato madhyè 'nuṣṭuppottarā cāśvinyāviti‖*) Use: on the sixth day, in the ukthya śastra of the Brāhmaṇācchaṃsin, this sūkta is recited. The sūtra says सुकीर्तिं ब्राह्मणाच्छंसी वृषाकपिं च पंक्तिशंसं । आ. ८-४ । इति॥ (*sukīrtiṃ brāhmaṇācchaṃsī vṛṣākapiṃ ca paṃktiśaṃsaṃ | ā. 8-4 | iti‖*) (Ā. 8-4). On the Cāturviṃśika day, at the midday pressing, the verse अप प्राच (*apa prāca*) is the ārambhaṇīyā of the Maitrāvaruṇa, to be recited after the Kadvat pragāthas. The sūtra says कद्वंतः प्रगाथा अप प्राच इंद्र विश्वा अमित्रान् । आ. ७-४ । इति॥ (*kadvaṃtaḥ pragāthā apa prāca iṃdra viśvā amitrān | ā. 7-4 | iti‖*) (Ā. 7-4). In the ahargaṇa rites too, from the second day onward, it is the ārambhaṇīyā in that same śastra. The sūtra says आरंभणीयाः पर्यासान्कद्वतोऽहरहः शस्यानीति होत्रका द्वितीयादिष्टेव । आ. ७-१ । इति॥ (*āraṃbhaṇīyāḥ paryāsānkadvato 'harahaḥ śasyānīti hotrakā dvitīyādiṣṭeva | ā. 7-1 | iti‖*) (Ā. 7-1).
+
+##### Anuvāda
+
+This sūkta, अप प्राच (*apa prāca*), is the third sūkta in the eleventh anuvāka. It has seven ṛks. Its ṛṣi is Sukīrti, son of the ṛṣi Kakṣīvān. In this sūkta the fourth ṛk is in the anuṣṭubh metre. The other six ṛks are in the triṣṭubh metre. The deities of the fourth and fifth ṛks are the Aśvins; the other ṛks have Indra as deity. In the Anukramaṇī it is said: अप प्राचः सुकीर्तिः काक्षीवतो मध्यॆऽनुष्टुप्पोत्तरा चाश्विन् (*apa prācaḥ sukīrtiḥ kākṣīvato madhyè 'nuṣṭuppottarā cāśvin*). On the sixth day of the sacrifice this sūkta is used as ukthaśastra mantras to be recited by the priest called Brāhmaṇācchaṃsin; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, सुकीर्तिं ब्राह्मणाच्छंसी वृषाकपिं च पंक्तिशंसं (*sukīrtiṃ brāhmaṇācchaṃsī vṛṣākapiṃ ca paṃktiśaṃsaṃ*)
+
+### Printed p. 803
+(Ā. 8-4). At the midday pressing on the day called Cāturviṃśika, the priest called Maitrāvaruṇa is to recite this ṛk अप प्राचः (*apa prācaḥ*) after the Kadvat pragāthas; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, कद्वंतः प्रगाथा अप प्राच इंद्र विश्वा अमित्रान् (*kadvaṃtaḥ pragāthā apa prāca iṃdra viśvā amitrān*) (Ā. 7-8). **NOTE** In the ahargaṇa rites also, on the second day and the following days, the Maitrāvaruṇa is to recite it as the opening ṛk among the śastra mantras at the midday pressing; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, आरंभणीयाः पर्यासान् कद्वतोs हरहः शस्यानीति होत्रका द्वितीयादिष्टेव (*āraṃbhaṇīyāḥ paryāsān kadvatos harahaḥ śasyānīti hotrakā dvitīyādiṣṭeva*) (Ā. 7-1).
+
+Sūkta 131. Maṇḍala 10; Anuvāka 11; Sūkta 131. Aṣṭaka 8; Adhyāya 7; Varga 19. Number of ṛks in the sūkta: 7. Ṛṣi: Sukīrti Kākṣīvata. Deity: 1–3, 6, 7 Indra; 4, 5 the Aśvins. Metre: 1–3, 5–7 triṣṭubh; 4 anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ प्राच॑ इंद्र॒ विश्वा॑ अ॒मित्रा॒नपापा॑चो अभिभूते नुदस्व ।  
+> अपोदे॑चो॒ अप॑ शूराध॒राच॑ उ॒रौ यथा॒ तव॒ शर्म॒न्मदे॑म॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । प्राचः । इंद्र । विश्वान् । अमित्रान् । अप । अपाचः । अभिभूते । नुदस्व ।  
+> अप । उदीचः । अप । शूर । अधराचः । उर् । यथा । तव । शर्मन् । मदेम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्राचः प्रमुखमंचतः प्राग्देशे वर्तमानान्। अस्मत्तः पूर्वभागे
+> वर्तमानानित्यर्थः ॥ प्रपूर्वादंचतेर्युत्विगित्यादिना क्विन् । अनिदितामित्विनलोपः ।
+> शस्य च इत्यकारलोपे चाविति दीर्घत्वं । अनिगंतोऽंचतौ वप्रत्यये । पा. ६-२-५२।
+> इति गतेः प्रकृतिस्वरत्वं ॥ तादृशान्विश्वान्सर्वानमित्रा ञ्यत्रूनप नुदस्व । अस्मत्तोऽपगमय। तथा हे अभिभूते शत्रूणामभिभवितरिंद्र अपाचोऽपमुखमंचतः पृष्ठभागे
+
+##### Gist of the bhāṣya
+
+"O Indra, drive away from us all the enemies who are प्राचः (*prācaḥ*)", that is, who dwell in the eastern region, in the part before us. Likewise, O Indra, vanquisher of enemies (अभिभूते (*abhibhūte*)), drive away all the enemies who are अपाचः (*apācaḥ*), that is, who face away and are placed at the back.
+
+### Printed p. 804
+
+> वर्तमानान्सर्वाञ्त्यूनप नुदस्व । अपि चोदीच ऊर्ध्वमंचत उपरिवर्तमानान् ॥
+> उत्तूर्वादंचतेः पूर्ववत्क्विन्युद ईदित्यंचतेरकारस्येकारः । पूर्ववत्स्वरः ॥ तथाविधानपि शत्रूनप नुदस्व । तथा हे शूर शौर्यवन्निंद्र अधराचोऽधरदेशमधोभागमंचतश्चाधस्तनानपि शत्रूनप नुदस्व ॥ अधरशब्दोपपदादंचतेः शसि पूर्ववत्प्रक्रिया । चानिति पूर्वपदस्यांतोदात्तः ॥ उरौ विस्तीर्णे तव संबंधिनि त्वया दत्ते
+> शर्मञ्त्यर्माणि गृहे सुखे वा यथा वयं मदेम निरुपद्रवाः संतो हृष्येम
+> तथा त्वं सर्वत्र वर्तमानानस्मदीयाञ्त्यून्विनाशयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Also drive away the enemies who are उदीचः (*udīcaḥ*), those dwelling above, in the upper direction. Drive away such enemies too. Likewise, O heroic Indra (शूर (*śūra*)), drive away the enemies who are अधराचः (*adharācaḥ*), those dwelling in the lower region, below. उरौ (*urau*) means "wide"; "in your wide शर्मन् (*śarman*)", that is, in the house or happiness given by you. The sense is: destroy our enemies wherever they are, so that, free from danger, we may rejoice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- प्राचः (*prācaḥ*)—those who are in the eastern direction (who are in front of us)
+- विश्वान् (*viśvān*)—all
+- अमित्रान् (*amitrān*)—enemies
+- अप नुदस्व (*apa nudasva*)—drive away from us
+- अभिभूते (*abhibhūte*)—O Indra, who overcomes the enemies
+- अपाचः (*apācaḥ*)—all the enemies who are behind us
+- अप नुदस्व (*apa nudasva*)—drive away
+- उदीचः (*udīcaḥ*)—the enemies who are in the upper part
+- अप (*apa*)—drive away
+- शूर (*śūra*)—O heroic Indra
+- अधराचः (*adharācaḥ*)—the enemies who are in the lower part
+- अप (*apa*)—drive away
+- तव (*tava*)—your
+- उरौ (*urau*)—wide
+- शर्मन् (*śarman*)—in the house or in happiness
+- यथा (*yathā*)—in the way that
+- मदेम (*madema*)—we may be joyful; in that way drive away all our enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, so that we may live happily in the house granted by your favour, strike and drive away all the enemies there may be in front of us, behind us, above and below.
+
+##### English translation
+Victorious Indra, drive off all our foes, those who dwell in the east, and those who dwell in the west, (drive) off, O hero, those who dwell in the north, those who dwell in the south, that we may rejoice in your exceeding felicity.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विदं॒ग यव॑मंतो॒ यवं॑ चि॒द्यथा॒ दांत्य॑नुपू॒र्वं  ॒॑
+> वियूय ।
+
+### Printed p. 805
+
+> इहेहैषां कृणुहि भोजनानि ये बर्हिषो नमोवृक्तिं न  
+> जग्मुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । अंग । यवमंतः । यवं । चित् । यथा । दांति । अनुपूर्वं । वियूय ।  
+> इहइह । एषां । कृणुहि । भोजनानि । ये । बर्हिषः । नमःवृक्तिं । न । जग्मुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंग हे इंद्र यवमंतो यवादिधान्ययुक्ताः कर्षका यवं चित् ।
+> उपलक्षणमेतत् । यवगोधूमादीननुपूर्वं यो यो धान्यविशेषः प्रथमं
+> पच्यते तेनानुपूर्व्येण विययू पृथक्कृत्य यथा कुविद्दहुलं दांति लुनंति ॥
+> दाप् लवने आदादिकः । विपूर्वाद्यौतेर्ल्यपि युप्लु वोर्दिर्घश्चंदसि । पा. ६-४-५८ ।
+> इति दीर्घः ॥ एवमिहेहास्मिन्नस्मिन्देशे सर्वस्मिन्नेषां यजमानानां भोजनानि ।
+> धननामैतत् । भोगसाधनानि धनानि कृणुहि । कुरु । यस्मिन्यस्मिन्देशे यद्ध नमपेक्षितं
+> तदनुगुणं प्रयच्छेत्यर्थः ॥ उतश्च प्रत्ययाच्छंदसि वावचनं । पा. ६-४-१०६-१ ।
+> इति हेर्लुगभावः ॥ एषामित्युक्तं के पुनरिम इत्यत आह । ये यजमाना बर्हिषो
+> यज्ञस्य नमोवृक्तिं नमसो हविर्लक्षणस्यान्नस्य नमस्कारात्मकस्य स्तोत्रस्य वा
+> वर्जनमकरणं न जग्मुः न प्राप्पुवंति किंतु सर्वदा हविर्भिर्यजंति स्तुतिभिः स्तुवंति
+> च । एषां कृणुहीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+"Dear Indra (अंग (*aṃga*)), as farmers (यवमंतः (*yavamaṃtaḥ*)) who possess barley and other grains cut (दांति (*dāṃti*)) the barley in abundance (कुवित् (*kuvit*)), separating it in due order, grain by grain as each ripens first; and यवं चित् (*yavaṃ cit*) is only an illustration, standing for barley, wheat and the rest, so here and there, in every place, make (कृणुहि (*kṛṇuhi*)) means of enjoyment (भोजनानि (*bhojanāni*)) for these sacrificers." भोजनानि (*bhojanāni*) is a name for wealth: wealth that is the means of enjoyment. The sense is: in whatever place whatever is wanted, give accordingly. Asked who "these" are, he answers: the sacrificers who have not come (न जग्मुः (*na jagmuḥ*)) to the neglect or non-performance of the बर्हिषः (*barhiṣaḥ*), the sacrifice, of the नमः (*namaḥ*), that is, food in the form of oblation, or praise consisting of homage; rather, they always sacrifice with oblations and praise with hymns. The construction is "make for these".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंग (*aṃga*)—O Indra
+- यवमंतः (*yavamaṃtaḥ*)—farmers who grow barley and other grains
+- यवं चित् (*yavaṃ cit*)—barley and other grains
+- अनुपूर्वं (*anupūrvaṃ*)—as they grow strong and ripen
+- वियूय (*viyūya*)—separating them
+- यथा (*yathā*)—in the way that
+- कुवित् (*kuvit*)—abundantly
+- दांति (*dāṃti*)—separate from the crop and cut, in the way that
+- ये (*ye*)—those sacrificers who perform the sacrifice
+- बर्हिषः (*barhiṣaḥ*)—to be offered in the sacrifice
+- नमोवृक्तिं (*namovṛktiṃ*)—the oblation or the hymn
+- न जग्मुः (*na jagmuḥ*)—do not abandon
+- एषां (*eṣāṃ*)—for such sacrificers
+- इहेह (*iheha*)—in the several places where they perform the sacrifice
+- भोजनानि (*bhojanāni*)—wealth that is the means of enjoyment
+- कृणुहि (*kṛṇuhi*)—provide
+
+### Printed p. 806
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as farmers who grow grains separate the grains that have ripened and are ready for cutting, and cut them from the crop, so you provide wealth, the means of enjoyment, to the sacrificers who do not forget the oblation or the hymn to be offered in the sacrifice, wherever they may be.
+
+##### English translation
+As the growers of barley often cut the barley, separating it in due order, so do you, (O Indra), bestow here and there nourishment upon those who have not neglected the performance of the sacrifice.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि स्फूर्यृ॑तु॒था या॒तमस्ति॒ नोत श्रवो॑ विविदे संग॒मेषु॑।  
+> ग॒व्यंत॒ इंद्रं॑ स॒ख्याय॒ विप्रा॑ अश्वा॒यंतो॒ वृष॑णं वा॒जयं॑तः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । स्थूरि । ऋतुथा । यातं । अस्ति । न । उत । श्रवः । विविदे । संगमेषु ।  
+> गव्यंतः । इंद्रं । सख्याय । विप्राः । अश्वयंतः । वृषणं । वाजयंतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकेन धुर्येण युक्तमनः स्फूरीत्युच्यते । ऋतुथर्त् यद्यस्मिन्काले
+> प्राप्तव्यं तद्योग्यकाले स्फूर्यनो यातं तं देशं प्राप्तं नह्यस्ति । न हि भवति ।
+> एकेन धुर्येण युक्तः शकटः शीघ्रं गंतव्यं न प्राप्नोतीत्यर्थः । उतापि च
+> संगमेषु संप्रामेषु श्रवोऽन्नं यशो वा न विविदे । न लभते । इंद्रस्तूक्तविलक्षणः । वृषणं वर्षितारं तमिंद्रं गव्यंतो गा इच्छंतो विप्रा मेधाविनो
+> वयं सख्याय सखिकर्मण आह्वयाम इति शेषः कथं भूताः । अश्वायंतोऽश्वानप्यात्मन इच्छंतः वाजयंतोऽन्नकामा बलकामाश्च ॥
+
+##### Gist of the bhāṣya
+
+A cart yoked with a single draught animal is called स्फूरी (*sphūrī*). What is to be reached at a particular time is not reached by it in due season: it does not reach that place. **NOTE** A cart yoked to a single beast of burden does not reach where it must go quickly. And in संगमेषु (*saṃgameṣu*) one does not obtain (न विविदे (*na vivide*)) श्रवः (*śravaḥ*), food or fame. Indra is different from what has been said. We, the wise (विप्राः (*viprāḥ*)), desiring cattle (गव्यंतः (*gavyaṃtaḥ*)), call upon that showerer (वृषणं (*vṛṣaṇaṃ*)) Indra for friendship (सख्याय (*sakhyāya*)); the verb "we call" is understood. How are we? Desiring horses for ourselves (अश्वायंतः (*aśvāyaṃtaḥ*)), and desiring food and strength (वाजयंतः (*vājayaṃtaḥ*)).
+
+### Printed p. 807
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतुधा (*ṛtudhā*)—that should come in the right season
+- स्थूरि (*sthūri*)—a single-yoke cart
+- यातं (*yātaṃ*)—to the place where it must go
+- नहि अस्ति (*nahi asti*)—does not go and arrive
+- उत (*uta*)—and
+- संगमेषु (*saṃgameṣu*)—in battles
+- श्रवः (*śravaḥ*)—food or fame
+- न विविदे (*na vivide*)—does not obtain (but)
+- वृषणं (*vṛṣaṇaṃ*)—who bestows what is desired
+- इंद्रं (*iṃdraṃ*)—Indra
+- गव्यंतः (*gavyaṃtaḥ*)—desiring to worship
+- विप्राः (*viprāḥ*)—we, the wise
+- अश्वायंतः (*aśvāyaṃtaḥ*)—desiring horses
+- वाजंयंतः (*vājaṃyaṃtaḥ*)—desiring food or strength
+- सख्याय (*sakhyāya*)—for Indra's friendship; we pray to him and call him
+
+##### भावार्थ (Bhāvārtha)
+
+A cart with only a single yoke, that is, a cart drawn by one ox, does not quickly reach the place where it must go; and with the help of such a cart one cannot win victory in battle and obtain food and the like. But Indra, who bestows what is desired, is one alone, and we, the wise, desiring horses, food and the like and wishing to worship him, seek Indra's friendship and call him with prayer.
+
+##### English translation
+The cart has not arrived in due season, nor does he acquire fame in battles; (let us), the sages, desiring cattle, desiring horses, desiring food, (solicit) Indra, the showerer, for his friendship.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं सु॒राम॑मश्विना॒ नमु॑चावासु॒रे सचा॑ ।  
+> वि॒पि॒पा॒ना शु॑भस्पती॒ इंद्रं॒ कर्म॑स्वावतं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । सुरामं । अश्विना । नमुचौ । आसुरे । सचा ।  
+> विपिपाना । शुभः । पती इति । इंद्रं । कर्मऽसु । आवतं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सौत्रामण्यां सुराग्रहाणां पुरोनुवाक्या युवमित्येषा । सूत्रितं च ।
+> युवं सुराममश्विनेति ग्रहाणां पुरोनुवाक्या । आ. ३-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the Sautrāmaṇī, the verse युवं (*yuvaṃ*) is the puronuvākyā for the surā-grahas. The sūtra says: युवं सुराममश्विनेति ग्रहाणां पुरोनुवाक्या । आ. ३-९ । इति॥ (*yuvaṃ surāmamaśvineti grahāṇāṃ puronuvākyā | ā. 3-9 | iti‖*) (Ā. 3-9).
+
 ---
 
-**Progress note:** Done through printed p. 801. pp. 796-801 (batch API)
+**Progress note:** Done through printed p. 807. pp. 802-807 (batch API)
