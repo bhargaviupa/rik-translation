@@ -16348,6 +16348,224 @@ The sacrificers worship, by offering oblations, the deities Agni, Vāyu and Ādi
 ##### English translation
 The three Nirritis do obeisance for the gifts (of oblations), for (the gods), the far-famed sustainers (of the universe), know (their obeisance); the
 
+### Printed p. 494
+
+##### English translation
+wise have ascertained the primary cause of these (divinities) who (exist) in the conspicuous (or) in the hidden observances.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चतु॑ष्कपर्दा युव॒तिः सु॒पेशा॑ घृ॒तप्र॑तीका व॒युना॑नि वस्ते ।  
+> तस्यां॑ सुप॒र्णा वृष॑णा॒ नि षे॑दतु॒र्यत्र॑ दे॒वा द॑धि॒रे भा॑ग॒धेयं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चतुःकपर्दा । युवतिः । सुपेशाः । धृतप्रतीका । वयुनानि । वस्ते ।  
+> तस्यां । सुपर्णा । वृषणा । नि । सेदतुः । यत्र । देवाः । दधिरे । भागधेयं ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतुष्कपर्दा चतुष्कोणा युवतिः स्त्रीरूपा सुपेशाः शोभनालंकारा धृतप्रतीका धृतप्रमुखहविश्कृतादृशी वेदिर्वयुनानि ज्ञातव्यानि पदार्थजातानि कर्माणि
+> स्तोत्राणि वा वस्ते । आच्छादयति । तस्यां वेद्यां वृषणा वृषण् हविषां वर्षितारौ
+> सुपर्णा सुपर्णौ सुपतन् जायापती यजमानब्रह्माण् ना निषेदतुः । निषण्ण
+> भवतः । यत्र यस्यां वेद्यां देवा अग्न्यादयो भागधेयं । स्वार्थिको धेयप्रत्ययः । स्वस्वभागं हविर्दधिरे । धारयंति ॥ यद्वा! चतुष्कपर्दा नामाख्यातोपसर्गनिपाताश्चत्वारः कपर्दस्थानीया यस्याः सा युवतिस्तरुणी नित्या धृतप्रतीका
+> दीप्यमानवर्णावयवैषपनिषदी वाग्वयुनानि ज्ञानानि वस्ते । आच्छादयति । तस्यां
+> वाचि सुपर्णा सुपर्णौ जीवपरमात्मान् निषण्ण भवतः । यत्र ॥ इतराभ्योऽपि
+> दृश्यंत इति तृतीयार्थे त्रल्पत्ययः ॥ यया वाचा देवा भागं धारयंति ॥
+
+##### Gist of the bhāṣya
+
+चतुष्कपर्दा (*catuṣkapardā*) is "four-cornered"; युवतिः (*yuvatiḥ*) is "of woman's form"; सुपेशाः (*supeśāḥ*) is "well adorned"; धृतप्रतीका (*dhṛtapratīkā*) is the altar (vedi) marked with ghee and the oblations that come first.**NOTE** वयुनानि (*vayunāni*) are things to be known, rites or praises; वस्ते (*vaste*) means "covers". On that altar the two वृषणा (*vṛṣaṇā*), showerers of oblations, the two सुपर्णा (*suparṇā*), who fly well, husband and wife, the sacrificer and … **NOTE**, sit down. यत्र (*yatra*) means "on which altar" the gods, Agni and the rest, hold their own share of the oblation; भागधेयं (*bhāgadheyaṃ*) has the redundant suffix dheya.
+
+Alternatively: the "four hair-knots" are the four classes of words, noun, verb, preposition and particle. She is the young, ever-youthful Speech (Vāc), bright with shining letters, of Upaniṣadic character. वयुनानि (*vayunāni*) are forms of knowledge that she covers. In that Speech the two सुपर्णा (*suparṇā*), the individual self and the supreme self, are seated. The suffix tral in यत्र (*yatra*) is in the sense of the instrumental ("by which Speech the gods hold their share").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चशुष्कपर्दा (*caśuṣkapardā*)—that which has four corners
+- युवतिः (*yuvatiḥ*)—that which has a woman's form
+- सुपेशा (*supeśā*)—that which is finely adorned
+- धृतप्रतीका (*dhṛtapratīkā*)—that which shines with ghee; the sacrificial altar
+- वयुनानि (*vayunāni*)—by excellent rites
+- वस्ते (*vaste*)—is thickly covered**NOTE**
+- यत्र (*yatra*)—on which altar
+- देवाः (*devāḥ*)—the gods, Agni and the others
+- भागधेयं (*bhāgadheyaṃ*)—their respective shares of the sacrifice
+- दधिरे (*dadhire*)—they hold
+
+### Printed p. 495
+- तस्यां (*tasyāṃ*)—on that same sacrificial altar
+- वृषणा (*vṛṣaṇā*)—the two bestowers of desired objects
+- सुपर्णा (*suparṇā*)—the sacrificer and his wife, of excellent going
+- नि षेदतुः (*ni ṣedatuḥ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificial altar, which is four-cornered, of woman's form, finely adorned and shining with ghee, is pervaded by excellent rites. On that altar where Agni and the other gods receive their respective shares of the sacrifice, the sacrificer and his wife, bestowers of desired objects and, like birds, of excellent going, sit down.
+
+##### English translation
+The quadrangular (altar) youthful, handsomely decorated, bright with
+ablations, clothes herself in pious rites; the two birds, the showerers of
+oblations, have sat down thereon where the gods receive their share.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एकः॑ सुप॒र्णः स स॑मु॒द्रमा वि॑वेश॒ स इ॒दं विश्वं॒ भुव॑नं॒ वि  ॑
+> चष्टे ।  
+> तं पाके॑न॒ मन॑सापश्य॒मंति॑त॒स्तं मा॒ता रे॑ळ्ळि॒ स उ॑ रेळ्ळि मा॒तरं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकः । सुपर्णः । सः । समुद्रं । आ । विवेश । सः । इदं । विश्वं । भुवनं । वि । चष्टे ।  
+> तं । पाकेन । मनसा । अपश्यं । अंतितः । तं । माता । रेळ्ळि । सः । ऊं इति । रेळ्ळि ।  
+> मातरं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकः सर्वकार्येष्टसहायः सुपर्णः सुपतनो मध्यमस्थानो देवः
+> समुद्रमंतरिक्षमा विवेश । आविशति । आविश्य च स इदं विश्वं सर्वं भुवनं भूजातं वि
+> चष्टे । अनुग्राह्यतयाभिपश्यति । तमेवं रूपं देवं पाकेन परिपक्षेन मनसांतितः
+> समीपेऽहमपश्यं । आदर्शं । किंच मातोदकानां निर्मात्री माध्यमिका नाक् तां
+
+##### Gist of the bhāṣya
+
+एकः (*ekaḥ*): alone, without help in all works. सुपर्णः (*suparṇaḥ*): the well-flying deity of the middle region. He enters समुद्रं (*samudraṃ*), the atmosphere (antarikṣa). Having entered, he surveys all this world, all that is born, looking on it so as to favour it. I saw him, this deity, near at hand with a ripe mind. Further, माता (*mātā*) is the maker of the waters, the middle-region Speech; she licks, that is, tastes him. Only sustenance is meant here. And he too licks Mother Speech, that is, he lives by her alone. (The text continues on the next page.)
+
+### Printed p. 496
+
+> रेळ्हि । आस्वादयति । उपजीवनमात्रमत्र लक्ष्यते । स उ स खुलु मातरं वाचं रेळ्हि
+> लेढि । तामेवोपजीवति ॥ लिह आस्वादने ॥ यद्वा । सुपर्णः पक्षवान्निराधारसंचार्येकः प्राणवायुः परमात्मा ना समुद्रं । समुद्रवंत्यापोऽस्मादिति समुद्रमंतरिक्षं । यद्वा । समुद्रवं सर्वतो गमनं । तच्छीलं प्रपंचजातमाविष्टवान्।
+> सृष्ट्वा तदेवानुप्राविशत् । त्वै. आ. ८-६ । इति श्रुतेः । वायुपक्षे वाय्वादिरूपेणाविवेश । स इदं विश्वं सर्व० लोकं वि चष्टे । विशेषेण ख्यापयति । सति हि प्राणे
+> परमात्मनि वा जीवंतः पुरुषा लोकं विख्यातं कुर्वंति । तं देवमुपासकोऽहं
+> पाकेन परिपक्वज्ञानेन मनसांतितः ॥ अंतिकशब्दात्तसिः । अंतिकस्य तसि कादिलोपो
+> भवत्याद्युदात्तत्वं च ॥ पा. ६-४-१४९-८ । इति कादिलोपः ॥ अंतिके समीपे स्वहृदयेऽपश्यं । तं प्राणं माता नाग्रेळ्ळि । नाक् प्राणेऽंतर्भवतीत्यर्थः । स्वापे हि
+> वाग्व्यापारो न दृश्यते प्राणव्यापारस्तु दृश्यत इति ॥
+
+##### Gist of the bhāṣya
+
+Root लिह (*liha*) is in the sense of tasting. Alternatively: सुपर्णः (*suparṇaḥ*) is the winged one, moving without support, the one prāṇa-vāyu or the supreme self. समुद्रं (*samudraṃ*) is the atmosphere, from which the waters flow; or else the going everywhere, the creation whose nature it is to go. He has entered it, as the śruti says: सृष्ट्वा तदेवानुप्राविशत् (*sṛṣṭvā tadevānuprāviśat*) (Tai. Ā. 8-6).**NOTE** On the wind interpretation he entered in the form of wind and the rest. He वि चष्टे (*vi caṣṭe*), makes known especially this whole world: when prāṇa or the supreme self is present, living persons make the world known. I, the worshipper, saw that deity near, in my own heart, with ripened knowledge. माता (*mātā*) is Speech; she licks that prāṇa, meaning that Speech is contained within prāṇa. For in sleep the activity of speech is not seen, but the activity of prāṇa is seen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एकः (*ekaḥ*)—he who needs no one's help in any work
+- सुपर्णः (*suparṇaḥ*)—the deity of the middle region called Suparṇa, who moves (travels) everywhere
+- समुद्रं (*samudraṃ*)—the atmosphere
+- आ विवेश (*ā viveśa*)—enters (and after entering)
+- सः (*saḥ*)—that deity
+- इदं विश्वं भुवनं (*idaṃ viśvaṃ bhuvanaṃ*)—this whole class of beings
+- वि चष्टे (*vi caṣṭe*)—looks on with a mind to favour
+- तं (*taṃ*)—such a deity
+- पाकेनमनसा (*pākenamanasā*)—with a ripened mind
+- अंतितः (*aṃtitaḥ*)—near
+- अपश्यं (*apaśyaṃ*)—I saw
+- माता (*mātā*)—Speech, the middle-region deity, maker of the waters
+- तं (*taṃ*)—the deity called Suparṇa
+- रेळ्ळि (*reḷḷi*)—she tastes
+- सः उ (*saḥ u*)—that Suparṇa deity also
+- मातरं (*mātaraṃ*)—the goddess Speech
+- रेळ्ळि (*reḷḷi*)—he tastes
+
+Or else:
+- सुपर्णः (*suparṇaḥ*)—the unsupported one who moves about
+- एकः (*ekaḥ*)—prāṇa-vāyu or the supreme self
+- समुद्रं (*samudraṃ*)—the atmosphere, or the class of beings whose nature is to move
+- आ विवेश (*ā viveśa*)—enters in the form of wind
+- सः (*saḥ*)—that supreme self
+- इदं विश्वं सर्वं (*idaṃ viśvaṃ sarvaṃ*)—this whole world
+- वि चष्टे (*vi caṣṭe*)—makes famous, that is, makes endowed with consciousness
+- (अहं (*ahaṃ*)—I, who worship that deity)
+- तं (*taṃ*)—that deity
+- पाकेन (*pākena*)—ripened, that is, purified by sacrifices and other good rites and by austerities
+- मनसा (*manasā*)—with the mind
+- अंतितः (*aṃtitaḥ*)—near, that is, in my heart
+- अपश्यं (*apaśyaṃ*)—I saw
+- तं (*taṃ*)—that prāṇa
+- माता (*mātā*)—speech
+- रेळ्ळि (*reḷḷi*)—tastes
+- स उ (*sa u*)—that prāṇa also
+- मातरं (*mātaraṃ*)—speech
+- रेळ्ळि (*reḷḷi*)—tastes
+
+### Printed p. 497
+
+##### भावार्थ (Bhāvārtha)
+
+The deity called Suparṇa, who does all works without any help and can move everywhere, enters the atmosphere and moves about there, and looks on the whole class of beings with a mind to favour them. I saw such a deity close at hand with a ripened (that is, devout) mind. The goddess Speech, maker of the waters and a deity of the middle region, and that Suparṇa deity dwell in the atmosphere, each resting on the other.
+
+Or else: the prāṇa-vāyu or the supreme self, unsupported and given to moving, that is, pervading everywhere, enters in the form of wind the atmosphere or the class of beings whose nature is to move (prāṇa). After entering the bodies of beings, that supreme self makes this whole world, that is, all the classes of beings, endowed with consciousness. I saw that supreme self, so described, very near, that is, abiding within my own heart, with a pure and ripened mind, that is, with the help of the mind. Speech, the power of speaking, remains in a living being as long as there is prāṇa. The activity of prāṇa too always remains mingled with the activity of speech; as long as prāṇa lasts, speech co-operates with the body. In the time of sleep there is no activity of speech; only the activity of prāṇa is seen.
+
+##### English translation
+One of the birds has entered the firmament; he contemplates this whole world : with mind mature I beheld him nigh at hand ; him the mother licks, he licks the mother.
+
+##### विशेषविषयगळु (Special Topics)
+
+On this Ṛk Yāska has given the Nirukta: एकः सुपर्णः स समुद्रमाविशति स इमानि सर्वाणि भूतान्यभिविपश्यति तं पाकेन मनसापश्यमंतित इत्यृषेर्दृष्टार्थस्य प्रीतिर्भवत्याख्यानसंयुक्ता तं माता रेढि वागेषा माध्यमिका स उ मातरं रेढि ॥ (*ekaḥ suparṇaḥ sa samudramāviśati sa imāni sarvāṇi bhūtānyabhivipaśyati taṃ pākena manasāpaśyamaṃtita ityṛṣerdṛṣṭārthasya prītirbhavatyākhyānasaṃyuktā taṃ mātā reḍhi vāgeṣā mādhyamikā sa u mātaraṃ reḍhi ‖*) (Ni. 10-46).
+
+Here एकः (*ekaḥ*) means the unequalled one: there is none with power like his; it means one of extraordinary strength and ability. सुपर्णः (*suparṇaḥ*) is one of excellent going, always moving by nature; there is no other so given to going as he. (Continued on the next page.)
+
+### Printed p. 498
+This wind (or prāṇa-vāyu, or the supreme self) enters the atmosphere or the class of beings. After entering he sees those beings, or makes them see, that is, he makes them endowed with consciousness and impels them to their respective activities. This deity, distinguished by such qualities, I saw with a ripe mind full of knowledge, near me, in the space of my heart (so the seer says to another person beside him). The main sense is that this wind or supreme self, pervading the atmosphere, acts together with the classes of beings it has entered, in mutual dependence.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒प॒र्णं विप्रा॑ क॒वयो॒ वचो॑भि॒रेकं॒ संतं॑ बहु॒धा क॑ल्पयंति ।  
+> छंदां॑सि च॒ दध॑तो अध्व॒रेषु॒ ग्रहा॒न्सोम॑स्य मिमते॒द्वाद॑श ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुपर्णं । विप्राः । कवयः । वचभिः । एकं । संतं । बहुधा । कल्पयंति ।  
+> छंदांसि । च । दधतः । अध्वरेषु । ग्रहान् । सोमस्य । मिमते । द्वादश ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रा मेधाविनः कवयः क्रांतप्रज्ञा मनुष्याः सुपर्णं सुपतनमेकं संतं
+> परमात्मानं वचोभिः स्तुतिलक्षणैर्वचनैर्बहुधा बहुप्रकारं कल्पयंति । कुर्वंति ।
+> किंच त एव कवयोऽध्वरेषु यज्ञेषु च्छंदांसि गायत्र्यादीनि सप्त च्छंदांसि दधतः
+> स्तोत्रशस्त्रादिना धारयंतो द्वादशसंख्याकान्सोमस्य ग्रहान् ग्रहणसाधनानि
+> पात्राण्युपांश्वंतर्यामादीनि मिमते । निर्मिमते ॥ ग्रहान्! गृह्यत एभिरिति ग्रहाः ।
+> ग्रहवृदृनिश्चिगमश्चेति करणेऽप्पत्ययः । सोमस्येति कर्मणि षष्ठि । द्वादशेत्यत्र
+> संख्या । पा. ६-२-३५ । इति पूर्वपदप्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+The विप्राः (*viprāḥ*) (the intelligent) and कवयः (*kavayaḥ*) (men of far-reaching wisdom) fashion, कल्पयंति (*kalpayaṃti*), the one सुपर्णं (*suparṇaṃ*), the supreme self, in many ways by words of praise. Further, those same seers, at the sacrifices, hold the seven metres beginning with Gāyatrī by means of stotra, śastra and the rest, and मिमते (*mimate*), make, the twelve Soma ग्रहान् (*grahān*), the vessels for taking up (the Soma), the upāṃśu, antaryāma and the others. ग्रहाः (*grahāḥ*) are "that by which (Soma) is taken up"; the affix ap is in the instrumental sense. सोमस्य (*somasya*) is a genitive of the object. In द्वादश (*dvādaśa*) the accent is that of the first member.
+
+### Printed p. 499
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—the intelligent
+- कवयः (*kavayaḥ*)—the seers of far-reaching wisdom
+- सुपर्णं (*suparṇaṃ*)—the supreme self
+- एकं संतं (*ekaṃ saṃtaṃ*)—though he is one only
+- वजोभिः (*vajobhiḥ*)—by their praises
+- बहुधा (*bahudhā*)—in many ways
+- कल्पयंति (*kalpayaṃti*)—they describe (the same seers)
+- अध्वरेषु (*adhvareṣu*)—at the sacrifices
+- छंदांसि (*chaṃdāṃsi*)—the metres such as Gāyatrī
+- दधतः (*dadhataḥ*)—possessing (reciting)
+- सोमस्य (*somasya*)—of Soma
+- द्वादश ग्रहान् (*dvādaśa grahān*)—the twelve vessels, antaryāma and the rest
+- मिमते (*mimate*)—they make
+
+##### भावार्थ (Bhāvārtha)
+
+Though the supreme self is one, the intelligent seers of far-reaching wisdom describe him in many ways by their praises, as having different forms. The same seers, reciting the metres such as Gāyatrī at the sacrifices, have made the twelve vessels of Soma, antaryāma and the rest. (They prepare the twelve graha vessels.)
+
+##### English translation
+The wise seers through their praise make into many forms the bird which is only one; and holding the (seven) metres at the sacrifices, they measure twelve bowls of Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+छंदासि च दधतः आध्वरेषु- यज्ञेषु गायत्र्यादीनि सप्त छंदांसि स्तोत्रशस्त्रादिना धारयंतः । (*chaṃdāsi ca dadhataḥ ādhvareṣu- yajñeṣu gāyatryādīni sapta chaṃdāṃsi stotraśastrādinā dhārayaṃtaḥ |*). Here "metres" means the seven chief kinds, Gāyatrī, Triṣṭubh, Jagatī and the rest. Although metres are of many kinds, it is the custom in the Prātaranuvāka and in the śastra mantras to recite only certain mantras composed in the seven metres beginning with Gāyatrī. The meaning is "reciting the mantras of such metres".
+
+ग्रहान् सोमस्य मिमते द्वादश-ग्रहणसाधनानि पात्राण्युपांश्वंतर्यामादीनि निर्मिमाते । (*grahān somasya mimate dvādaśa-grahaṇasādhanāni pātrāṇyupāṃśvaṃtaryāmādīni nirmimāte |*). गृह्यत विभिरिति ग्रहाः (*gṛhyata vibhiriti grahāḥ*).**NOTE** "Graha" means the vessel from which the gods drink Soma; because that vessel is held in the hand at the time of drinking Soma (गृह्यते (*gṛhyate*), it is held), the Soma-drinking vessel is called graha. These have various names, the upāṃśu vessel, the antaryāma vessel and so on. This Ṛk says that twelve such vessels are filled with Soma juice, consecrated and made ready for the drinking of the gods.
+
 ---
 
-**Progress note:** Done through printed p. 493. pp. 488-493 (batch API)
+**Progress note:** Done through printed p. 499. pp. 494-499 (batch API)
