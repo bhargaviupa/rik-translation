@@ -19880,6 +19880,319 @@ May your unbroken weapon, Indra, proceed (against your foes) like the banner of 
 > अनु । अह । मासाः । अनु । इत् । वनानि । अनु । ओषधीः । अनु । पर्वतासः ।  
 > अनु । इंद्रं । रोदसी इति । वावशाने इति । अनु । आपः । अजिहत । जायमानं ।
 
+### Printed p. 676
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जायमानं प्रादुर्भवंतमिंद्रं मासाश्चैत्रादयोऽन्वजिहत । अनुगच्छंति ।
+> अहेति पूरणः । वनान्यरण्यान्यपींद्रमन्वजिहत । इदिति पूरणः । ओषधीरोषध्योऽपींद्रमनुगच्छंति । पर्वतासः पर्वता अपींद्रमनुगच्छंति । वावशाने
+> कामयमाने रोदसी द्यावापृथिव्यावपींद्रमनुगच्छतः । आप उदकान्यपींद्रमनुगच्छंति । मासाद्यधिष्ठातृदेवताः प्रादुर्भवंतमिंद्रमनुगच्छंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+As Indra is born, that is, manifests himself, the months beginning with Caitra follow him; the particle "aha" is only a filler. The forests also follow Indra; the particle "it" is only a filler. The plants follow Indra, and the mountains follow him. Heaven and earth, which are desirous, follow Indra, and the waters follow Indra. The meaning is that the presiding deities of the months and the rest follow Indra as he manifests himself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जायमानं इंद्रं (*jāyamānaṃ iṃdraṃ*)—as soon as Indra is born
+- मासाः (*māsāḥ*)—the months beginning with Caitra
+- अन्वजिहत (*anvajihata*)—follow him
+- वनानि (*vanāni*)—the forest trees
+- अनु (*anu*)—obey his command
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- अनु (*anu*)—are obedient to Indra's command
+- पर्वतासे (*parvatāse*)—the mountains
+- अनु (*anu*)—bow their heads to Indra
+- नावशाने (*nāvaśāne*)—loving each other
+- रोदसी (*rodasī*)—heaven and earth
+- इंद्रं (*iṃdraṃ*)—follow Indra
+- आर्प (*ārpa*)—the waters
+- अनु (*anu*)—obey Indra's command
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as Indra is born, the months beginning with Caitra follow him. The forest trees obey his command. The herbs are obedient to Indra's command. The mountains bow their heads to Indra. Heaven and earth, which love each other, and the waters obey Indra's command.
+
+##### English translation
+The months attend upon Indra as soon as born, the forests attend upon him, the plants, the mountains, the affectionate heaven and earth and the waters (attend upon) him.
+
+#### Ṛk 14
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कर्हि॑ स्वि॒त्सा त॑ इंद्र चे॒त्यास॑द॒घस्य॒ यद्भि॒नदो॒ रक्ष॒ एष॑त् ।  
+> मि॒त्र॒क्रुवो॒ यच्छस॑ने॒ न गावः॑ पृथि॒व्या आ॒पृग॑मु॒या शयं॑ते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कर्हि । स्वित् । सा । ते । इंद्र । चेत्या । असत् । अघस्य । यत् । भिनदः । रक्षः ।  
+> आईषत् ।
+
+### Printed p. 677
+
+> मित्त्यक्रुवः । यत् । शसने । न । गावः । पृथिव्याः । आपृक् । अमुया । शयंते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव सा हेतिरिषुर्वा चेत्या चेतयितव्या शत्रुषु क्षेप्तव्या कर्हि
+> स्वित् कदा वासत् । भविष्यति । यद्यदा हेत्या त्वमघस्य । द्वितीयार्थे षष्ठी ।
+> अहतमेषद्युद्धार्थनागच्छद्रक्षो भिनदः अभिनत् । यद्यदा च शक्त्या मित्रक्रुवो
+> मित्राणां क्रूरस्य कर्मणः कर्तारो जनाः पृथिव्याः संबंधिनि शसने विशसनस्थाने
+> गावो न पशव इवापृगापर्चनाहताः संतोऽमुयानया पृथिव्या संगता युद्धे
+> शयंते शेरते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when, or where, will that weapon or arrow of yours be, which is to be directed and hurled against the enemies, when with your weapon you split the demon who comes eager for battle, **NOTE** and when those who betray their friends and do cruel deeds, belonging to the earth, struck down, like cattle at the place of slaughter, lie united with this earth in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- अघस्य (*aghasya*)—sinful in deed
+- एषत् (*eṣat*)—and eager for battle
+- रक्षः (*rakṣaḥ*)—the demon
+- भिनदः (*bhinadaḥ*)—you split
+- यत् (*yat*)—when
+- पृथिव्याः (*pṛthivyāḥ*)—belonging to the earth
+- मित्रक्रुवः (*mitrakruvaḥ*)—the wicked who betray their friends
+- शसने (*śasane*)—at the time of cutting
+- गावो न (*gāvo na*)—as cattle fall and writhe on the ground
+- आपृक् (*āpṛk*)—when struck with the thunderbolt
+- आमुया (*āmuyā*)—joined with the earth
+- शयंते (*śayaṃte*)—they roll about, then
+- ते (*te*)—your
+- साचेत्या (*sācetyā*)—the weapon that is to be hurled against the enemies
+- कर्हि स्वित् (*karhi svit*)—in what place
+- आसत् (*āsat*)—will it be?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you split the demon who is sinful in deed and eager for battle, and when the wicked who belong to the earth and betray their friends are struck down by your thunderbolt and roll about on the ground as cattle roll about at the time of their cutting, then where will your weapon be, which is to be hurled against those enemies?
+
+##### English translation
+Where was your (shaft), Indra, (which ought) to be hurled (against your enemies) when you clove the Rakshasas hastening to war, and when the Mitrakrus lay on the ground there in confusion like cattle at the place of immolation ?
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒त्रु॒यंतो॑ अ॒भि ये न॑स्तत॒स्रे महि॒ प्राधं॑त ओग॒णास॑ इंद्र।
+
+### Printed p. 678
+
+> अंधेनामित्रास्तमसा सचंतां सुज्योतिषो अक्तवस्ता अभि  
+> ष्युः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शत्रुयंतः । अभि । ये । नः । ततस्रे । महि । व्राधंतः । ओगणासः । इंद्र ।  
+> अंधेन । अमित्राः । तमसा । सचंतां । सुज्योतिषः । अक्तवः । तान् । अभि ।  
+> स्युरितिस्सुः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र शत्रूयंतो मह्यत्यंतं व्राधंतोऽस्मान्बाधमानाः ओगणासः
+> संघीभूता ये शत्रवो नोऽस्मानभि ततस्रे निक्षिपंति तेऽमित्राः शत्रवोऽंधेन
+> तमसा महतांधकारेण सचंतां । संगच्छंतां । किंच तानमित्रान् सुज्योतिषो
+> दिवसा अक्तवो रात्रयश्चाभि ष्युः । अभिभवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, those enemies who desire to be our foes, who exceedingly oppress us, and who, assembled in a mass, cast themselves upon us: let those enemies be joined with blind, that is, great darkness. Further, may the bright days and the nights overpower those enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शत्रूयंतः (*śatrūyaṃtaḥ*)—those who wish us harm
+- महि (*mahi*)—exceedingly
+- प्राधंतः (*prādhaṃtaḥ*)—who injure
+- ओगणासः (*ogaṇāsaḥ*)—who have gathered together in a band
+- ये (*ye*)—those of our enemies who
+- नः (*naḥ*)—us
+- अभि ततस्रे (*abhi tatasre*)—fall upon and injure
+- ते अमित्राः (*te amitrāḥ*)—those enemies
+- अंधेन तमसा (*aṃdhena tamasā*)—with intense pitch darkness
+- सचंतां (*sacaṃtāṃ*)—let them be covered
+- तान् (*tān*)—those enemies
+- सुज्योतिषः (*sujyotiṣaḥ*)—the shining days
+- अक्तवः (*aktavaḥ*)—and the nights
+- अभि ष्युः (*abhi ṣyuḥ*)—let them bring down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those of our enemies who wish us harm, who injure us exceedingly, and who have gathered together in a band and fall upon us and injure us: let those enemies be covered with intense pitch darkness. Let the shining days and the nights bring those enemies down.
+
+##### English translation
+May those adversaries, Indra, who press upon us, fiercely opposing us, and assembled in numbers, be overwhelmed with thick darkness, and may the bright (days) and nights overpower them.
+
+### Printed p. 679
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रूणि॒ हि त्वा॒ सव॑ना॒ जना॑नां॒ ब्रह्मा॑णि॒ मंद॑न्गृण॒ताम्यषी॑णां ।  
+> इ॒मामा॒घोष॒न्नव॑सा॒ सहू॑तिं ति॒रो विश्वा॒ अर्च॑तो  ॒
+> याह्यर्वाज् ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरूणि । हि । त्वा । सवना । जनानां । ब्रह्माणि । मंदन् । गृणतां । ऋषीणां ।  
+> इमां । आघोषन् । अवसा । सहूतिं । तिरः । विश्वान् । अर्चतः । याहि ।  
+> अर्वाज् । १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां जनानां संबंधीनि पुरूणि बहूनि सवना सवनानि ब्रह्माणि
+> स्तोत्राणि च मंदन् । स्तुवंति मोदयंति वा । गृणतां स्तुवतामृषीणामिमां
+> सहूतिं स्तुतिं त्वमाघोषन् महती शब्दवती चेयं स्तुतिरिति वदन्नर्चतः
+> स्तुवतोऽन्यान्विश्वानर्वानपि तिरस्ति रस्कृत्यावसा रक्षणेन सहार्वाजस्मदभिमुखं
+> याहि । गच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the many soma-pressings of the people and their hymns of praise praise you or gladden you. You, hearing this invocation, the praise of the praising seers, saying "Great and sonorous is this praise", and disregarding all other worshippers who praise, come toward us with your protection. The meaning is: go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you (O Indra)
+- जनानां (*janānāṃ*)—offered by the people
+- पुरूणि (*purūṇi*)—and abundant
+- सवना (*savanā*)—the sacrificial oblations
+- ब्रह्माणि (*brahmāṇi*)—and the hymns of praise
+- मंदन् (*maṃdan*)—gladden
+- गृणतां (*gṛṇatāṃ*)—who praise you
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers
+- इमां सहूतिं (*imāṃ sahūtiṃ*)—these praises
+- आघोषन् (*āghoṣan*)—proclaiming loudly
+- अर्चतः (*arcataḥ*)—who worship you
+- विश्वान् (*viśvān*)—all the others
+- तिरः (*tiraḥ*)—disregarding
+- अवसा (*avasā*)—with your protection
+- अर्वाज् (*arvāj*)—turned toward us
+- याहि (*yāhi*)—be gracious
+
+### Printed p. 680
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the many oblations offered by the sacrificers and the hymns of praise gladden you. Proclaiming loudly the praises of these seers, and disregarding all others who worship you, be gracious to us, turned toward us, with your protection.
+
+##### English translation
+Many oblations and praises of men exhilarate you; praising this invocation of this Rishis, who hymn you, and disregarding all other worshippers, come to us with your protection.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ते॑ व॒यमिं॑द्र भुंजती॒नां वि॒द्याम॑ सुमती॒नां  ॑
+> नवानां ।  
+> वि॒द्याम॒ वस्तो॒रव॑सा गृ॒णंतो॑ वि॒श्वामि॑त्रा उ॒त त॑ इंद्र  ॒
+> नूनं ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । ते । वयं । इंद्र । भुंजतीनां । विद्याम । सुमतीनां । नवानां ।  
+> विद्याम । वस्तोः । अवसा । गृणंतः । विश्वामित्राः । उत । ते । इंद्र । नूनं ॥१७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवैव भुंजतीनां रक्षंतीः प्रिया वयं वित्वामित्रपुत्रा
+> रेणवो विद्याम । लभेमहि । उतापि च हे इंद्र ते तव नवानां नूतनाः
+> सुमतीनामनुग्रहबुद्धीर्वस्तोरहन्यवसा रक्षणार्थं गृणंतो नूनं त्वां स्तुवंत
+> एव विश्वामित्रा विश्वामित्रपुत्रा वयं विद्याम । लभेम ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we, dear to you, **NOTE** may obtain the protecting favours of you. And further, O Indra, may we, the sons of Viśvāmitra, praising you indeed for protection by day, obtain your new gracious dispositions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विश्वामित्राः (*viśvāmitrāḥ*)—the sons of Viśvāmitra
+- वयं (*vayaṃ*)—we
+- ते (*te*)—your
+- भुंजतीनां (*bhuṃjatīnāṃ*)—protecting favours
+- विद्याम (*vidyāma*)—may we obtain
+- उत (*uta*)—and
+- इंद्र (*iṃdra*)—O Indra
+- वस्तोः (*vastoḥ*)—by day
+- अवसा (*avasā*)—for protection
+- गृणंतः (*gṛṇaṃtaḥ*)—we who praise you
+- ते (*te*)—your
+- नवानां (*navānāṃ*)—new
+- सुमतीनां (*sumatīnāṃ*)—to the gracious disposition
+- विद्याम (*vidyāma*)—may we become worthy
+
+### Printed p. 681
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may we, the sons of Viśvāmitra, obtain your favour that protects us. O Indra, may we who praise you by day for protection become worthy of your new gracious disposition.
+
+##### English translation
+May we, the descendants of Vishwamitra. sincerely praising you, Indra, by day for your protection, obtain your protecting (favours). may we obtain your recent (favours).
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं दु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्भरे॒ नृत॑मं॒ वाज॑सात् ।  
+> शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒  ॑
+> धनानां ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । हुवेम । मघ्नवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।  
+> शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन्भरे संग्रामे शुनं वृद्धं मघवानं धनवंतं शृण्वंतमस्मदीयस्याह्वानस्य श्रोतारमुग्रमुद्गूर्णं समत्सु संग्रामेषु वृत्राणि शत्रुन्घंतं
+> मारयंतं धनानां शत्रुधनानां संजितं सम्यगेव जेतारमिंद्रं वाजसातावन्नस्य
+> लाभायोतये रक्षणाय च हुवेम । आह्वयेम ॥
+
+##### Gist of the bhāṣya
+
+In this battle we invoke Indra, the grown one, the wealthy, who hears our call, the fierce, the uplifted, who in battles slays the enemies, causing their death, and who thoroughly wins the wealth of the enemies: we invoke him for the gain of food and for protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मिन् भरे (*asmin bhare*)—in this battle
+- शुनं (*śunaṃ*)—the mighty
+- मघवानं (*maghavānaṃ*)—the wealthy
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—who hears our praises
+- उग्रं (*ugraṃ*)—the terrible
+- समत्सु (*samatsu*)—in battles
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- घ्नंतं (*ghnaṃtaṃ*)—who slays
+- धनानां (*dhanānāṃ*)—the wealth of enemies
+- संजितं (*saṃjitaṃ*)—who wins
+- इंद्रं (*iṃdraṃ*)—Indra
+- वाजसातौ (*vājasātau*)—for gaining food
+- ऊतये (*ūtaye*)—and for protection
+- हुवेम (*huvema*)—we pray and call
+
+### Printed p. 682
+
+##### भावार्थ (Bhāvārtha)
+
+We pray and call Indra, who is mighty in this battle, wealthy, who hears our praises, terrible, who slays enemies in battles and wins the wealth of enemies, for the gain of food and for protection.
+
+##### English translation
+We invoke in this conflict for our protection the pure, the opulent Indra, the most heroic in the fight, hearing (our prayers), fierce, slaying the Vritras in battles, the despoiler of their wealth.
+
+## Sūkta 90 (Maṇḍala 10)
+
+**Introduction**
+
+Apart from the गायत्रीमंत्र (*gāyatrīmaṃtra*), it is the पुरुषसूक्त (*puruṣasūkta*) that is most used in the ऋग्वेद (*ṛgveda*). In its excellence and in its treatment of its subject, since the doctrines set out in it are very profound, and since weighty matters are contained in it, such as the nature of the Supreme Person (the Supreme Brahman), his power and capacity, the account of creation, the origin of the Vedas and the rest, and the nature of sacrifice, this पुरुषसूक्त (*puruṣasūkta*) has exceptional importance. With slight differences this पुरुषसूक्त (*puruṣasūkta*) is recited also in the Taittirīya Āraṇyaka of the कृष्णयजुर्वेद (*kṛṣṇayajurveda*) (Tai. Ā. 3-12, 13), in the Vājasaneyi Saṃhitā of the शुक्लयजुर्वेद (*śuklayajurveda*) (Vā. Saṃ. 31-1 to 16), and in the अथर्ववेद (*atharvaveda*) (अथर्ववेद (*atharvaveda*) 19-6). Besides this, an explanation of some parts of this sūkta is found in works such as the शतपथब्राह्मण (*śatapathabrāhmaṇa*), the तैत्तिरीयब्राह्मण (*taittirīyabrāhmaṇa*), the तैत्तिरीय आरण्यक (*taittirīya āraṇyaka*), the निरुक्त (*nirukta*), the श्वेताश्वतरोपनिषत्तु (*śvetāśvataropaniṣattu*) and the बृहदारण्यकोपनिषत्तु (*bṛhadāraṇyakopaniṣattu*).
+
+Even among English scholars there are various differences of opinion about the antiquity of this sūkta. Because this sūkta describes the order of origin of the four castes beginning with the Brāhmaṇa, it is the opinion of scholars such as Max Muller that this kind of division of castes did not exist in very ancient times, and that therefore this sūkta cannot be regarded as very ancient. Scholars such as Dr. Haug hold that, since words such as ब्राह्मण (*brāhmaṇa*) are found in other mantras of the ऋग्वेद (*ṛgveda*), since its language is not modern, and since the question of the human sacrifice is stated in it, it is proper that this sūkta should belong to the group of ancient sūktas. We shall examine this matter on another occasion.
+
 ---
 
-**Progress note:** Done through printed p. 675. Mandala 10 Sukta 89 Rks 6-13 (pp. 667-675)
+**Progress note:** Done through printed p. 682. Mandala 10 Sukta 89 Rks 13-18, start of Sukta 90 introduction (pp. 676-682)
