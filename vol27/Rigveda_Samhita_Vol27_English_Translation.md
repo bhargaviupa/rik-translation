@@ -14558,6 +14558,252 @@ Agni, son of strength, the mortal who obtains your fovaur is widely celebrated: 
 > रत्ना॑ च॒ यद्वि॒भजा॑सि स्वधावो भा॒गं नो॒ अत्र॒ वसु॑मंतं  
 > वीतात् ॥ ८ ॥
 
+### Printed p. 393
+#### Ṛk 8 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अग्ने । एषा । संइतिः । भवाति । देवी । देवेषु । यजता । यजत्र ।  
+> रत्ना । च । यत् । विभजासि । स्वधावः । भागं । नः । अत्र । वसुमंतं । वीतात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महाव्रते संस्थिते मरुत्वतीये यदग्न एषेत्यनया चतुर्गृहीतमाज्यं
+> जुहुयात् । तथैव वंचमारण्यके सूत्रितं । यदग्न एषा समितिर्भवाति ॥
+> ऐ. आ. ५.१-१ । इति ॥
+> ने यजत्र यष्टव्याग्ने यद्यदैषा समितिरस्मत्कर्तृका स्तुतिसंहतिर्यजता
+> यजतेषु यष्टव्येषु देवेषु मध्यॆ देवी द्योतमाना भवाति । यष्टव्या देवा
+> अस्माभिः स्तूयंत इज्यंते चेत्यर्थः । हे स्वधावो हविर्लक्षणान्नवन्नग्ने त्वं
+> यद्यदा रत्ना च रत्नानि रमणीयानि धनानि स्तोतृभ्यो यष्टृभ्यश्च विभजासि विभजसि
+> अत्र तदानीं तथा नोऽस्मान्प्रति वसुमंतं धनवंतं नानाधनावयवभूतं भागमंशं नीतात् ॥ वी गत्यादिषु । स्तुह्योस्तातज्ञाशिष्यन्यतरस्यां । पा-७-१-३५ । इति
+> हे स्थाने तातज् । अंतर्णीतण्यर्थश्चात्र द्रष्टव्यः ॥ वयय । आगमय । अस्मभ्यं
+> प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāvrata, when the Marutvatīya has been completed, one should offer ghee drawn four times with this verse, यदग्न एषा (*yadagna eṣā*); so it is laid down in the Fifth Āraṇyaka: यदग्न एषा समितिर्भवाति (*yadagna eṣā samitirbhavāti*) (Ai. Ā. 5.1-1). Sāyaṇa's gloss: O adorable Agni, when this united body of praise, composed by us, shines as a goddess among the gods who are to be worshipped (we praise and worship the gods to be worshipped), and when you, O owner of oblation-food, distribute lovely treasures to the singers and to the sacrificers, then at that time bring us also a share made up of wealth, a portion consisting of various parts of riches. The root वी (*vī*) is used in the sense of going and the like; by Pā. Sū. 7-1-35 tātaṅ replaces the ending hi. A causative sense is to be understood within it: cause to go, bring, give to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वधावः (*svadhāvaḥ*)—O you who have food in the form of oblation
+- यजत्र (*yajatra*)—O worshipful one
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- *eṣā samitiḥ*—this multitude of our praises
+- यजता (*yajatā*)—by those worthy of worship
+- देवेषु (*deveṣu*)—joining the gods
+- देवी (*devī*)—shining
+- भवाति (*bhavāti*)—becomes
+- यत् (*yat*)—when
+- रत्ना च (*ratnā ca*)—lovely treasures
+- विभजासि (*vibhajāsi*)—you apportion to the singers
+- अत्र (*atra*)—at that time
+- नः (*naḥ*)—to us also
+- भागं (*bhāgaṃ*)—a share
+- वसुमंतं (*vasumaṃtaṃ*)—endowed with wealth
+- वीशात् (*vīśāt*)—grant
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who have food in the form of oblation and are worshipful: when this multitude of our praises, joining the worshipful gods, shines forth, and when you apportion lovely treasures to the singers, then at that time grant us also a share endowed with wealth.
+
+### Printed p. 394
+
+##### English translation
+When, adorable Agni, this united praise is resplendent amongst the adorable gods, and when you, bearer of the oblation, apportion the precious (treasures), then allot to us a valuable share
+
+##### विशेषविषयगळु (Special Topics)
+
+While the Mahāvrata rite is being performed, in the Marutvatīya śastra mantras, ghee is to be taken four times with this Ṛk beginning यदग्न एषा (*yadagna eṣā*), placed in the sruk-ladle and offered as a homa. This is laid down in the Aitareya Āraṇyaka, in the fifth Āraṇyaka, by the sentence यदग्न एषा समितिर्भवाति (*yadagna eṣā samitirbhavāti*).
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒धी नो॑ अग्ने॒ सद॑ने स॒धस्थे॑ यु॒क्त्वा रथ॑म॒मृत॑स्य द्रवि॒त्नुं।  
+> आ नो॑ वह॒ रोद॑सी दे॒वपु॑त्रे॒ माकि॑र्दे॒वाना॒मप॑ भूरि॒ह  ॑
+> स्याः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुधि । नः । अग्ने । सदने । सधस्थे । युक्षव रथं । अमृतस्य । द्रवित्नुं ।  
+> आ । नः । वह । रोदसी इति । देवपुत्रे इति देवपुत्रे । माकिः । देवानां । अप ।  
+> भूः । इह । स्याः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने सधस्थे सहस्थाने सर्वदेवतासाधारणे सदने यज्ञगृहे स्थितः सन्नोऽस्मदीयं वचनं श्रुधि । शृणु । किं तद्वचनं उच्यते । अमृतस्य देवपानस्य मधुनो द्रवित्नुं द्रावकं रथमात्मीयं युक्ष्व । आह्वानार्थं देवान्प्रति गमनायाश्वै: संयुक्ष्व । संयुक्तेन रथेन गत्वा नोऽस्माकं यज्ञं प्रति देवपुत्रे
+> देवस्य प्रजापतेर्दुहितरौ यद्वा देवाः पुत्रा ययोस्ते रोदसी द्यावापृथिव्यावा वह । प्रापय । देवानां मध्यॆ कश्चिद्देवोऽप भूरपभवितास्मद्यज्जादपगंता
+> माकिः स्यात् । त्वं चेहास्मिन्यज्ञे स्याः । संनिहितो भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, being in the house of sacrifice, the common seat of all deities, hear our word. What is it? Yoke your own chariot, which makes flow the ambrosia, the divine drink of honey; yoke it with horses to go to the gods and invite them. Having gone by the yoked chariot, bring to our sacrifice the two daughters of the god Prajāpati, or else the two whose sons are gods, heaven and earth. Let no god among the gods be one who stays away from our sacrifice; and may you yourself be here in this sacrifice, be present.
+
+### Printed p. 395
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सधस्थे (*sadhasthe*)—where all the gods assemble
+- सदने (*sadane*)—being in the house of sacrifice
+- नः (*naḥ*)—our praise
+- श्रुधि (*śrudhi*)—hear
+- अमृतस्य (*amṛtasya*)—ambrosia
+- द्रवित्नुं (*dravitnuṃ*)—that makes flow
+- रथं (*rathaṃ*)—chariot
+- युक्ष्य (*yukṣya*)—yoke
+- नः (*naḥ*)—to our sacrifice
+- देवपुत्रे (*devaputre*)—the daughters of Prajāpati
+- रोदसी (*rodasī*)—heaven and earth
+- आ वह (*ā vaha*)—bring
+- देवानां (*devānāṃ*)—among the gods
+- माकिः अप भूः (*mākiḥ apa bhūḥ*)—let no one stay away
+- इह (*iha*)—in our sacrifice
+- स्याः (*syāḥ*)—you also be near
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, being in the house of sacrifice where all the gods assemble, hear our praise. Yoke your chariot that pours out ambrosia. Bring to our sacrifice heaven and earth, the daughters of Prajāpati. Let none among the gods stay away from our sacrifice. You also be near us.
+
+##### English translation
+Agni, present in the dwelling common (to the deities) hear us : harness your swift chariot of ambrosia: bring to us the heaven and earth, the daughters of the divine (Prajapati), let none of the gods be absent, and you yourself be present.
+## Sūkta 12 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावेति नवर्चं द्वादशं सूक्तमांगेर्हविर्धानस्यार्षं त्रैष्टुभमाग्नेयं । द्यावेत्यनुक्रांतं ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, of nine verses, beginning द्यावा (*dyāvā*); the seer is Havirdhāna Āṅgi, the deity Agni, the metre Triṣṭubh. So the Anukramaṇī records: द्यावेत्यनुक्रांतं (*dyāvetyanukrāṃtaṃ*). The ritual application has been given.
+
+##### Anuvāda
+
+This sūkta beginning द्यावा (*dyāvā*) is the twelfth sūkta in the first anuvāka. It has nine ṛks. Its seer is Havirdhāna Āṅgi; its deity is Agni; its metre is Triṣṭubh. The application of the sūkta has been stated earlier.
+
+### Printed p. 396
+Maṇḍala 10; Anuvāka 1; Sūkta 12; Aṣṭaka 7; Adhyāya 6; Varga 11, 12; number of ṛks in the sūkta: 9. Seer: Havirdhāna Āṅgi. Deity: Agni. Metre: Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यावा॑ ह॒ क्षामा॑ प्रथ॒मे ऋ॒तेना॑भिश्रा॒वे भ॑वतः सत्य॒वाचा॑ ।  
+> दे॒वो यन्मर्ता॑न्य॒जथा॑य कृ॒ण्वन् सीद॒द्धोता॑ प्र॒त्यज्॒  
+> स्वमसुं यन् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यावा । ह । क्षामा । प्रथमे इति । ऋतेन । अभिश्रावे । भवतः । सत्यवाचा ।  
+> देवः । यत् । मर्तान् । यजथाय । कृण्वन् । सीदत् । होता । प्रत्यज् । स्वं ।  
+> असुं । यन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्यवाचा सत्यवाचौ सत्यवादिन्यौ प्रथमे प्रधानभूते द्यावा क्षामाद्युक्षामे
+> द्यावापृथिव्यावृतेन सत्यभूतेन देवयजनेन सहाभिश्रावे । अभिमुख्येन श्रूयत
+> इत्यभिश्राव आह्वानं । तस्मिन्नस्यद्यज्ञनिमित्तेऽग्नेः संबंधिन्याह्वाने भवतः ॥ लोडर्थे
+> लट् ॥ भवतां । यद्यदा देवो द्योतमानोऽग्निर्यजथाय यज्ञाय मर्तान्मनुष्यान् क्वण्वन्रेरयन् प्रत्यजाह्वानार्थं देवानां प्रत्यंचिता स्वमसुमात्मीयं ज्वालालक्षणं प्राणं यन् प्राप्नुवन् होता देवानामाह्वाता सीदत् वेद्यां
+> निषेदति । तदास्मद्यजनकाले द्यावापृथिवी प्रमुखोऽग्निराह्वयत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Heaven and earth, truthful in speech, the two foremost, are present together with the true rite of divine worship at the invocation, अभिश्रावे (*abhiśrāve*): what is heard face to face is the *abhiśrāva*, the call. At that call connected with Agni and occasioned by this sacrifice they are present (the present tense is used in the sense of the imperative: let them be). When the shining god Agni, urging mortals to sacrifice, moves facing the gods to invite them, attaining his own life-breath in the form of flame, and sits on the altar as the Hotṛ, the caller of the gods, then, at our sacrifice, may Agni, with heaven and earth foremost, call the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- देवः (*devaḥ*)—the shining Agni
+- यजथाय (*yajathāya*)—for sacrifice
+- मर्तान् (*martān*)—men
+- कृण्वन् (*kṛṇvan*)—urging
+- प्रत्यज् (*pratyaj*)—in front of them
+
+### Printed p. 397
+- असुं (*asuṃ*)—his flame
+- यन् (*yan*)—attaining
+- होता (*hotā*)—in the form of Hotṛ
+- सीदत् (*sīdat*)—sits down, then
+- सत्यवाचा (*satyavācā*)—those whose speech is true
+- प्रथमे (*prathame*)—the foremost
+- द्यावा क्षामा (*dyāvā kṣāmā*)—heaven and earth
+- ऋतेन (*ṛtena*)—with the divine people who are of the nature of truth
+- अभिश्रावे (*abhiśrāve*)—becoming fit for Agni's invocation
+- भवतः (*bhavataḥ*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+When the shining Agni, urging men to sacrifice and spreading his flame before them, sits in the place of the Hotṛ, then may heaven and earth, true in speech and foremost, together with the divine people who are of the nature of truth, accept Agni's invocation.
+
+##### English translation
+Haven and earth, declarers of truth, principal (of things), be present at the invocation, associated with the rite, when the divine (Agni), exciting mortals to sacrifice, sits down in their presence as the invoker (of the gods) putting forth his flame.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वो दे॒वान्प॑रि॒भूर्य॒तेन॒ वहा॑ नो ह॒व्यं प्र॑थ॒मश्ति॑कि॒त्वान् ।  
+> धू॒मके॑तुः स॒मिधा॒ भाऋ॑जीको मं॒द्रो होता॒ नित्यो॑ ॒ ॑
+> वाचा यजीयान् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवः । देवान् । परिभूः । ऋतेन । वह । नः । हव्यं । प्रथमः । चिकित्वान् ।  
+> धूमकेतुः । संइधा । भाऋजीकः । मंद्रः । होता । नित्यः । वाचा । यजीयान् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो द्योतमानोऽग्निस्त्वंदेवानिंड्रादीन्परिभूराह्वानहविर्नयनद्वारेण परिभूः परिगृह्णन्मृतेन यज्ञेन सह नोऽस्माकं हव्यं हनिर्वह । प्रापय ।
+
+##### Gist of the bhāṣya
+
+The shining Agni, you, surrounding the gods, Indra and the others, by way of calling them and carrying the oblation, grasping them, carry our oblation, together with the sacrifice, to them; bring it.
+
+### Printed p. 398
+
+> कीदृशत्त्वं । प्रथमो देवानां मुख्यः चिकित्वान् सर्वं जानन् धूमकेतुर्धूमस्य
+> कर्ता वा धूमध्वजो वा धूमप्रज्ञानो वा समिधा समिंधनेन दीपनेन भायुजीक ऋजुदीप्तिः । ऊर्ध्वज्वलन इत्यर्थः । मंद्रः स्तुत्यः होताह्वाता नित्यो
+> ध्रुवो वाचा यजीयानतिशयेन यष्टा च ।
+
+##### Gist of the bhāṣya
+
+What manner of being are you? The first, the chief of the gods; चिकित्वान् (*cikitvān*), knowing all; धूमकेतुः (*dhūmaketuḥ*), maker of smoke, or having smoke as banner, or having smoke as his mark; by समिधा (*samidhā*), kindling, he is भायुजीकः (*bhāyujīkaḥ*), of straight radiance, that is, flaming upward; मंद्रः (*maṃdraḥ*), praiseworthy; the Hotṛ, the caller; नित्यः (*nityaḥ*), constant; and by speech the best of sacrificers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) प्रथमः (*prathamaḥ*)—chief among all the gods
+- चिकित्वान् (*cikitvān*)—knower of everything
+- धूमकेतुः (*dhūmaketuḥ*)—having a banner in the form of smoke
+- समिधा (*samidhā*)—by the act of kindling
+- भायुजीकः (*bhāyujīkaḥ*)—having an upward-turned flame
+- मंद्रः (*maṃdraḥ*)—worthy of praise
+- होता (*hotā*)—in the form of Hotṛ
+- नित्यः (*nityaḥ*)—eternal
+- वाचा (*vācā*)—with praise
+- यजीयान् (*yajīyān*)—worshipper of the gods
+- देवः (*devaḥ*)—shining
+- देवान् (*devān*)—the gods, Indra and others
+- परिभूः (*paribhūḥ*)—encompassing
+- ऋतेन (*ṛtena*)—with sacrifice
+- नः (*naḥ*)—our
+- हव्यं (*havyaṃ*)—oblation
+- वह (*vaha*)—convey to them
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, chief among all the gods, knower of everything, having a banner in the form of smoke, having by the act of kindling an upward-turned flame, worthy of praise, shining: encompassing the gods, Indra and the others, convey our oblation to them with the sacrifice.
+
+##### English translation
+You, bright (Agni), surrounding the gods, carry our oblation with due rites; you, who are the chief (of the deities), the wise, the smoke-bannered, fuel-kindled, straight-flaming, adorable, the invoker, the constant sacrificer with prayer. -
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk, for the word भायजीकः (*bhāyajīkaḥ*) Yāska gives the explanation: भायजीक प्रसिद्धभाः (*bhāyajīka prasiddhabhāḥ*) ! धूमकेतुः समिधा भायजीकः इत्यपि निगमो भवति (*dhūmaketuḥ samidhā bhāyajīkaḥ ityapi nigamo bhavati*) (Ni. 6-4). That is, the word भायजीकः (*bhāyajīkaḥ*) means "having a well-known radiance". In this matter he says that the sentence of the present Ṛk, धूमकेतुः समिधा भायजीकः (*dhūmaketuḥ samidhā bhāyajīkaḥ*), is itself the scriptural illustration.
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वावृ॑ग्दे॒वस्या॒मृतं॒ यदी॒ गोरतो॑ जा॒तासो॑ धारयंत  ॒
+> उ॒र्वी ।
+
 ---
 
-**Progress note:** Done through printed p. 392. pp. 387-392 (batch API)
+**Progress note:** Done through printed p. 398. pp. 393-398 (batch API)
