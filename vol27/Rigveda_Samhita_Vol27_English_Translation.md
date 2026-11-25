@@ -11624,6 +11624,108 @@ At that time a bodiless voice was heard. Addressing Indra it said: "O Indra, you
 (Bṛ. De. chapter 6)
 To remove this sin, Indra besought Sindhudvīpa, the seer of the next sūkta, and that seer, by reciting the sūkta of nine Ṛks beginning आपोहिष्ठा (*āpohiṣṭhā*) (Ṛ. Saṃ. 10-9th sūkta), water **NOTE**
 
+### Printed p. 301
+
+…took water, consecrated it with mantras and bathed Indra with it. By that Indra's sin was removed, as has been said. In the Taittirīya Saṃhitā this matter is told somewhat differently; we shall explain that too further on.
+
+In this sūkta the seer praises Indra, saying that he slew the son of Tvaṣṭṛ, Viśvarūpa, for the sake of the royal sage Trita. Who this Trita is, what his story is, and many other matters concerning him, we have already explained at length earlier, that is, in this same volume at p. 187, and in Vol. 8 at pp. 443 and 473, and elsewhere. Although the word Trita occurs in many Ṛks, nothing more about him can be learnt from them. Or rather, even in the Veda the word Trita is used in five or six places, but nothing is learnt there either. Only his association with Indra is found in many places. As said everywhere, all that is known is that Trita is a deity dwelling very far away, and that sin or bad dreams are sent to him. (A. Ve. 1-131-1, 3; 19-55-4) **NOTE** In the Taittirīya Saṃhitā he is said to be the giver of long life (Tai. Saṃ. 1-8-10-2). He is the preparer of the Soma juice that confers immortality. Trita is one of three brothers, Ekata, Dvita and Trita. All three are sons of Agni; that Trita arose from water is said in Brāhmaṇas such as Śa. Brā. 1-2-3-1, 2 and Tai. Brā. 3-2-8-10, 11.
+
+As said in the Ṛgveda, in three or four contexts Indra and Trita have done the same deed (the slaying of a demon). Once Indra is the instigator of Trita; in another place it is said that Indra himself is encouraged by Trita. Twice Indra has worked for Trita. As said in the present sūkta, Indra slew for Trita one called Viśvarūpa. Trita seeks Agni; he kindles Agni in heaven; he dwells in the houses of men in place of Agni; his dwelling is hidden far away; Soma is there too. Indra drinks Soma, but Trita prepares Soma. This is the difference between Indra and Trita.
+
+From the points stated above, Trita may be called a lightning deity, that is, the atmospheric form of Agni; like the deities Agni, Vāyu, Indra and Sūrya, he is a deity of the middle region. But since all this deity's deeds are done by Indra, he is a subordinate deity in the Ṛgveda. It may be that the connection of Trita with Soma is stated because, in the form of lightning, he brought Soma from heaven to the earth. Since the evidence is slight, each scholar has formed a different opinion about him.
+
+### Printed p. 302
+
+To mention only a few: the scholar Roth (Roth) says he is a deity of water and wind; Hillbratnd (Hillbratnd) a deity of the kindled sky; Perry (Perry) a deity of the storm. Another scholar, Pischel (Pischel), says that he was first a deity of the sea and water, then a physician among men, and afterwards attained godhood. Hardy (Hardy) says he is a moon deity. In the present sūkta, since Trita has the relation of friendship with Indra, it is said that for his sake Indra killed the son of Tvaṣṭṛ called Viśvarūpa.
+
+The slaying of Viśvarūpa by Indra is told at the beginning of the fifth prapāṭhaka of the second kāṇḍa of the Taittirīya Saṃhitā. In the Ṛgveda too, on this matter, in the Ṛk
+
+> भूरीदिंद्र उदिनक्षंतमोजोऽवाभिनत्सत्पतिर्मन्यमानं ।
+> त्वाष्टस्य चिद्विश्वरूपस्य गोनामाचक्राणस्त्रीणि शीर्षा परा वर्क् ॥
+
+(Ṛ. Saṃ. 10-8-9)
+
+it is said that Indra cut off the three heads of Viśvarūpa, the son of Tvaṣṭṛ. That Indra did this deed for Trita, and that Trita helped Indra in it, is said in the 7th Ṛk of the same sūkta—
+
+> अस्य त्रितः क्रतुना वव्रे अंतरिच्छन् धीतिं पितुरेवैः परस्य ।
+> सचस्यमानः पित्रोरुपस्थे जामि ब्रुवाण आयुधानि वेति ।
+> स पित्राण्यायुधानि विद्वानिंद्रॆषित आप्त्यो अभ्ययुध्यत् ।
+> त्रिशीर्षाणं सप्तरश्मिं जघन्वान् त्वाष्टस्य चिन्निः सस्यजे त्रितो गाः ॥
+
+(Ṛ. Saṃ. 10-8-7, 8)
+
+In the bhāṣya on these Ṛks Sāyaṇa has also told a narrative: Indra asked Trita's help in killing Viśvarūpa, the son of Tvaṣṭṛ, who had three heads. To increase his own strength Trita asked as a boon that he be given a share of the offering in sacrifices. Indra agreed, and gave him water for washing the hands and a share in the sacrifice. Then Trita, equipped with the weapons that belonged to his father and impelled by Indra, fought with Viśvarūpa, the son of Tvaṣṭṛ, struck him hard with his weapons and made him faint. Afterwards Indra cut off the three heads of that Viśvarūpa. This is what is said in the Ṛks above.
+
+### Printed p. 303
+
+This same matter is told at length in the Taittirīya Saṃhitā (Tai. Saṃ. 2-5-1-1); it is explained here with its meaning—
+
+> विश्वरूपो वै त्वाष्ट्रः पुरोहितो देवनामासीत् स्वस्रियॊसुराणां तस
+> त्रीणि शीर्षाण्यासन्तोमपानग्ं सुरापानमन्नादनग्ं स प्रत्यक्षं देवेभ्यो भागमवदत् परोक्षमसुरेभ्यः ॥
+
+In former times Viśvarūpa, the son of Tvaṣṭṛ, was the family priest of the gods. Since he was the son of the asuras' younger sister, he also had a fondness for the asuras. This Viśvarūpa had three heads (śiras). With one of the three heads he drank Soma, with another he drank surā (liquor), with the third he ate food and the like. Meanwhile this Viśvarūpa told everyone openly that he would obtain for the gods their share of the offering in the sacrifice. But inwardly, unknown to anyone, he was helping the asuras.
+
+> सर्वस्मै वै प्रत्यक्षं भागं वदंति यस्मा एव परोक्षं वदंति तस्य भाग उदितस्तस्मादिंद्रोऽबिभेदीदृज्ञै राष्ट्रं विपर्यावर्तयतीति तस्य वज्रमादाय शीर्षाण्यच्छिनत् ॥
+
+People promise a share to everyone openly, in front of all. But those who fulfil the promise so given are very rare. If they promise secretly (in private) that they will give the share, in a way that inspires trust, they surely keep that word. Therefore Indra, seeing Viśvarūpa's secret dealing, was afraid; fearing that he would betray him and bring the kingdom under the control of others (the asuras), he took his vajra weapon and cut off all three heads of that Viśvarūpa.
+
+> यत्सोमपानमासीत्स कपिंजलोऽभवद्यत्सुरापानग्ं स कलविंको यदन्नादनग्ं स तित्तिरिस्तस्यांजलिना ब्रह्महत्यामुपागृह्णात्ताग्ं संवत्सरमबिभस्तं भूतान्यभ्यक्रोशन् ब्रह्महन्निति ॥
+
+Then, of the three heads cut off by Indra, the head that used to drink Soma became a bird called kapiñjala (hazecock); the second head, that drank surā, became a kalaviṅka, that is, a sparrow; the third head, that ate food, became a bird called tittiri (partridge). Then, since Indra had killed the brahmin Viśvarūpa, the sin of brahmin-slaying fell upon him and he had to accept it with his own hand. So he bore the sin of brahmin-slaying for a full year.
+
+### Printed p. 304
+
+All the creatures, seeing him (Indra), cried out, "O Indra, you are a killer of a brahmin."
+
+> स पृथिवीमुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृहाणेति साब्रवीद्वरं
+> वृणै खातात्पराभविष्यंती मन्ये ततो मा पराभूवमिति पुरा ते संवत्सरादसिरोहादित्यब्रवीत्तस्मात्पुरा संवत्सरात्पृथिव्यै खातामपिरोहति वारेवृतग्घ्नस्यै तृतीयं ब्रह्महत्यायै प्रत्यगृह्णात्तत्त्वकृतमिरिणमभवत्तस्मादाहिताग्निः शद्धादेवः स्वकृत इरिणे नावस्येद्ब्रह्महत्यायै हेष वर्णः ॥
+
+Seeing this, Indra (ashamed), for the removal of the sin of brahmin-slaying, went to Pṛthivī (the Earth) and said, "O Earth, take one third of this brahmin-slaying that has come upon me." The Earth replied, "Then I shall ask a boon: people dig the earth and make pits, and by that I am dishonoured. Grant me a boon that this may not happen." Indra said, "So be it. Let a pit so dug close up of itself, without any effort, within a year, and let the earth become level as before," and gave the boon. Therefore pits and the like dug in the earth close up of themselves before a year has passed. This is the boon the Earth asked for. Having obtained such a boon, the Earth took one third of Indra's sin of brahmin-slaying. From then on it became natural to the Earth. Therefore a man who has kept the Agnihotra or performed sacrifices and the like, and has faith and devotion toward the gods, should not choose a part of the earth that has been dug into a pit as the sacrificial altar for performing a sacrifice. For such a dug pit-place is the sign (varṇa) of the brahmin-slaying which the Earth took upon herself.
+
+> स वनस्पतीनुपासीददस्यॆ ब्रह्महत्यायै तृतीयं पतिगृह्चितेति तेऽब्रुवन्
+> वरं वृणामहै वृक्षात्पराभविष्यंतो मन्यामहे ततो मा पराभूमेत्याव्रश्चनाद्यो भूयाग्‌ंस उत्तिष्टानित्यब्रवीत्तस्मादाव्रश्चनाद्वृक्षाणां
+> भूयाग्ंस उत्तिष्यंति वारेवृतग् हैषां तृतीयं ब्रह्महत्यायै प्रत्यगृहन्स् निर्यासोऽभवत्तस्मान्निर्यासस्य नाश्यं ब्रह्महत्यायै ह्येष
+
+Then Indra went near the trees and said, "O trees, take one third of my sin of brahmin-slaying." The trees said, "Then we shall wish for a boon—
+
+### Printed p. 305
+
+people cut the branches and the like of a tree; by that we are overcome. Grant a boon that it may not be so." Indra said, "Good; when it is cut, let more shoots sprout around the cut part," and gave the boon. Therefore, as the boon the trees asked for, when branches are cut, more shoots sprout in that place. Then the trees, as they had said, accepted one third of Indra's brahmin-slaying. The sap that comes out when a tree is cut is the sign of this brahmin-slaying. Therefore no one should drink the sap that flows out when the tree is cut, for it is the colour of brahmin-slaying. Or else: if the sap that flows from the cutting of a tree is red, it should not be drunk; if it is not so, one may drink it if one wishes.
+
+> नाश्यं काममन्यस्य ।
+
+Then Indra went to the company of women and said to them, "O women, take the remaining third of my sin of brahmin-slaying." The women said, "Then we shall wish for a boon: after our monthly course (after the ritual bath) we should bear children; and until childbirth we should be able, if we wish, to find satisfaction of desire through intercourse." Indra said, "So be it." Therefore women, after their monthly course, obtain offspring, and until childbirth they have intercourse whenever they wish. For this is the boon they asked for. Then those women took upon themselves the third part of Indra's sin of brahmin-slaying. The blood that flows when women have their course is the sign of this brahmin-slaying. At the time when the blood flows (during the course) women are impure (unclean).
+
+> स स्त्रीषग्‌ंसादमुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृह्णीतेति ता
+> अब्रुवन्वरं वृणामहा ऋत्वियात् प्रजां निंदामहै काममाविजनितोः
+> संभवामेति तस्मादृत्वियात् स्त्रियः प्रजां निंदंते काममा विजनितोः
+> संभवंति वारेवृतग् ह्यासां तृतीयं ब्रह्महत्यायै प्रत्यगृह्णन्ता मलवद्वासा अभवत् ॥
+
+Therefore one should not speak with a woman who has her course, should not sit with her, and should not eat food given by her or touched by her; for she is discharging the impure menstrual fluid, the sign of the sin of brahmin-slaying.
+
+### Printed p. 306
+
+During the time of the course she should not apply oil to the body and the like; or, at that time no one should accept food and the like from her (touched by her).
+
+> तस्मान्मलवद्वाससा न संवदेत न सहासीत नास्या अन्नमद्याद्ब्रह्महत्यायै
+> हैषा वर्णं प्रतिमुच्यास्तेऽथो खल्वाहुरध्यंजनं वाव स्त्रिया अन्नमभ्यंजनमेव न प्रतिगृह्यं काममन्यदिति ॥
+
+**NOTE**
+
+> यां मलवद्वाससग्‌रि संभवंति यस्ततो जायते सोऽभिशस्तो यामरण्ये
+> तस्यै स्तेनो यां पराचीं तस्यै ह्रीतमुख्यपगॆल्लो या स्नाति तस्या
+> अप्पु मारुको याभ्यंक्ते तस्यै दुश्चर्मा या प्रलिखते तस्यै खलतिरपमारी यांक्ते तस्यै काणो या दतो धावते तस्यै श्यावदन् या नखानि
+> निकृतंते तस्यै कुनखी या कृणत्ति तस्यै क्लीबो या रज्जुग्ं सृजति
+> तस्या उद्बंधुको या पर्णॆन पिबति तस्या उन्मादुको या खर्वॆण
+> पिबति तस्यै खर्वस्तिस्रो रात्रीव्रतं चरेदंजलिना वा पिबेदखर्वेण
+> वा पात्रेण प्रजाय्कॆ गोपीथाय ॥
+
+(Tai. Saṃ. 2-5-1-1 to 7)
+
+If one has intercourse during the time of the course, the son born of it becomes cursed. If a woman in her course has intercourse in the forest, the son born to her becomes a thief. If she has intercourse with the face covered or turned elsewhere, the son born becomes a timid fellow who from shame cannot speak properly with anyone. The son of a woman who bathes at the time of her course dies by drowning in water. The son of a woman who anoints herself with oil is afflicted with skin disease (leprosy, white patches). The son of a woman who combs her head becomes bald, with no hair on the head, and becomes without strength. The son of a woman who applies collyrium to the eyes becomes blind; the son of a woman who cleans her teeth at that time will have dirty teeth. The son of a woman who cuts her nails will have ugly, bad nails, repulsive to look at. The son of a woman who plaits (mats and the like) at that time becomes a eunuch. The son of a woman who twists a rope dies by suicide. The son of a woman who drinks water from leaves (lotus leaves and the like) becomes a drunkard. A woman who drinks water from a broken or cracked vessel will have a son deficient in limbs or deformed in limbs. Therefore women should observe the vrata (the rule) very strictly until three nights have passed during the course. For the attainment of good offspring, when women drink water at that time, they should drink only from the cupped hands or from a good, unbroken vessel.
+
+Of the matters stated above, the slaying of Viśvarūpa by Indra, the sin of brahmin-slaying that came upon Indra from that slaying, and the deeds Indra performed for the removal of that sin…
+
 ---
 
-**Progress note:** Done through printed p. 300. pp. 295-300 (batch API)
+**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
