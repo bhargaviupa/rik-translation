@@ -2943,6 +2943,274 @@ O Grāvans, press that very excellent, praiseworthy Soma. Then he speaks of one 
 - सोतरि (*sotari*)—at the time when the adhvaryu presses the Soma
 - अद्रिः (*adriḥ*)—the pressing stone
 
+### Printed p. 123
+
+- हस्तयितः (*hastayitaḥ*)—held by the hands
+- अत्योन (*atyona*)—appears like a horse
+- महे (*mahe*)—great
+- राये चित् (*rāye cit*)—for wealth
+- यत् (*yat*)—the stone which
+- अर्वतः (*arvataḥ*)—horses
+- तरुते (*tarute*)—provides (by that)
+- अर्यः (*aryaḥ*)—the sacrificer who is the impeller
+- अभिभूति (*abhibhūti*)—able to defeat enemies
+- पौंस्यं (*pauṃsyaṃ*)—strength
+- विदद्धि (*vidaddhi*)—obtains
+
+##### भावार्थ (Bhāvārtha)
+
+O Grāvas, press the excellent Soma. At the time when the adhvaryu presses the Soma, the pressing stone, held by the hands, appears like a horse. By the stone that provides horses for great wealth, the impelling sacrificer obtains strength able to defeat his enemies.
+
+##### English translation
+Pour forth this excellent libation; the stone grasped by the hand is like a horse when the grinder (effuses the Soma); the animating (worshipper) acquires virile strength overpowering (his foes) when (the stone) bestows horses for the sake of great wealth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिद्द॑स्य॒ सव॑नं वि॒वेर॒पो यथा॑ पु॒रा मन॑वे गा॒तुमश्रे॑त् ।  
+> गोअ॑र्णसि त्वा॒ष्टे अश्व॑निर्णिजि॒ प्रेम॑ध्व॒रेष्व॑ध्व॒रा अ॑तिश्रयुः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । हि । अस्य । सवनं । विवेः । अपः । यथा । पुरा । मनवे । गातुं । आश्रेत् ।  
+> गोऽर्णसि । त्वाष्टे । अश्वनिर्निजि । प्र । ईं । अध्वरेषु । अध्वरान् । अशिश्रयुः॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदिति पूरणः । अस्य ग्राव्यस्तत्सवनमभिषवोपेशमस्मदीयं सोमयागाख्यमपः कर्म विवेः । व्याप्पोतु ॥ विपूर्वस्य वेतेर्लज्यदादित्वाच्छपो लुक् ।
+> वेतेर्विपूर्वस्य वा छांदसे श्ला वापररूपमिति संदेहादनवग्रहः । समासस्वरः ॥
+> यथा पुरा मनवे राजे गातुं गमनमश्रेत् आजगाम तद्वद्व्याप्नोतु । किंच
+
+##### Gist of the bhāṣya
+
+The word इत् (*it*) is a filler. May that pressing of this stone-deity, our rite called the Soma sacrifice, pervade (विवेः (*viveḥ*)), just as it went formerly to Manu the king; that is, as गातुं (*gātuṃ*) (going) came to him, so may it pervade. Further:
+
+### Printed p. 124
+
+> गोअर्णसि गोरूपेऽपहृतैर्गोभिः परिवृते तथाश्वनिर्णिजि । निर्णिगिति रूपनाम ।
+> अश्वरूपे । अपहृतैरश्वैर्वृत इत्यर्थः । ईदृशे त्वाष्टे त्वष्टुः पुत्रे हंतव्ये
+> सतीति शेषः । ईमेतानध्वरानसुरैरहिंस्यानध्वरसाधकान्नोपलानध्वरेश्वशिश्रयुः ।
+> आश्रयंति पूर्वे यजमानाः ॥
+
+##### Gist of the bhāṣya
+
+When the son of Tvaṣṭṛ was to be slain, being surrounded by abducted cows in the form of a cow, and likewise अश्वनिर्णिजि (*aśvanirṇiji*), in the form of a horse (a word meaning form), that is, surrounded by abducted horses: at that time the former sacrificers resorted, in the sacrifices, to these stones, which the asuras cannot injure and which accomplish the sacrifice. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- पुरा (*purā*)—formerly
+- मनवे (*manave*)—to Manu
+- गातुं (*gātuṃ*)—going
+- अश्रेत् (*aśret*)—it reached, in that manner
+- अस्य (*asya*)—of this stone
+- सवनं (*savanaṃ*)—in the form of the pressing of Soma
+- अपः (*apaḥ*)—the rite
+- विवेः (*viveḥ*)—may it pervade
+- गोआर्णसि (*goārṇasi*)—surrounded by abducted cows
+- अश्वनिर्णिजि (*aśvanirṇiji*)—who has assumed the form of a horse
+- त्वाष्टे (*tvāṣṭe*)—at the time when the son of Tvaṣṭṛ is slain
+- ईं अध्वरान् (*īṃ adhvarān*)—these stones that accomplish the sacrifice
+- अध्वरेषु (*adhvareṣu*)—in the sacrifices
+- प्र आशिश्रयुः (*pra āśiśrayuḥ*)—the sacrificers took hold of
+
+##### भावार्थ (Bhāvārtha)
+
+As formerly its rite spread and went to Manu, so may this rite of this stone, in the form of the pressing of Soma, pervade. When the son of Tvaṣṭṛ, surrounded by abducted cows and having assumed the form of a horse, was to be slain, the sacrificers took hold, in the sacrifices, of these stones that accomplish the sacrifice, for the pressing of Soma.
+
+##### English translation
+May this (sacrificial) work of this grinding-stone, the effusion of the Soma, spread as it went formerly along the path to Manu: when the son of Twashtri, hidden by the (stolen) cows, and assuming the form of a horse, (was to be slain), the worshippers had recourse at the sacrifices to the inviolable (upper grinding-stones).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is mention of the slaying of the son of Tvaṣṭṛ by Indra. We have explained that matter in Part 14, pages 626-631.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॑ हत र॒क्षसो॑ भंगु॒राव॑तः स्कभा॒यत॒ निर्ऋ॑तिं॒ सेध॒ताम॑तिं।  
+> आ नो॑ र॒यिं सर्व॑वीरं सुनोतन देवा॒व्यं॑ भरत॒ श्लोक॑मद्रयः ॥ ४ ॥
+
+### Printed p. 125
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । हत । रक्षसः । भंगुरवतः । स्कभायत । निःऋतिं । सेधत । अमतिं ।  
+> आ नः । रयिं । सर्ववीरं । सुनोतन । देव्यअव्यं । भरत । श्लोकं । अद्रयः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रयः यूयमप हत विनाशयत रक्षसो राक्षसान् । कीदृशान् ।
+> भंगुरावतो भंजकेन कर्मणा तद्वतः । तथा स्कभायत दूरे परिहरत निर्ऋतिं
+> पापदेवतां । यथामुं यज्ञं नागच्छति तथा । किंच सेधत निषेधतामतिं
+> हिंसामतिं रक्षः प्रकृतिं । किंच नोऽस्माकं सर्ववीरं बहुपुत्राद्युपेतं रयिं धनमा
+> सुनोतन । अभिषवेन पुत्रधनादीनां लाभादेवमुक्तं । किंच देवाव्यं देवप्रीणनं
+> श्लोकं भरत । संपादयत ॥
+
+##### Gist of the bhāṣya
+
+O stones, destroy the Rākṣasas, those who possess a rite that breaks (the sacrifice). Likewise drive far away निर्ऋतिं (*nirṛtiṃ*), the goddess of sin, so that she does not come to this sacrifice. Further, keep off अमतिं (*amatiṃ*), the intention to harm, the Rākṣasa nature. Further, bring forth for us wealth that has all heroes, that is, endowed with many sons and the like; this is said because sons, wealth and the like are obtained by pressing. Further, bring praise that gladdens the gods; procure it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आद्रयः (*ādrayaḥ*)—O stones
+- भंगुरावतः (*bhaṃgurāvataḥ*)—who cause obstruction to the rite
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas
+- अप हत (*apa hata*)—destroy
+- निर्ऋतिं (*nirṛtiṃ*)—the destructive goddess of sin
+- स्कभायत (*skabhāyata*)—drive far away
+- अनुतिं (*anutiṃ*)—those of evil intention **NOTE**
+- सेधत (*sedhata*)—check
+- नः (*naḥ*)—for us
+- सर्ववीरं (*sarvavīraṃ*)—endowed with many sons and the like
+- रयिं (*rayiṃ*)—wealth
+- आ सुनोतन (*ā sunotana*)—provide
+- देवाव्यं (*devāvyaṃ*)—that gives satisfaction to the gods
+- श्लोकं (*ślokaṃ*)—praise
+- भरत (*bharata*)—procure
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, destroy the Rākṣasas who cause obstruction to the rite. Drive far away the destructive goddess of sin. Check those of evil intention. Provide for us wealth endowed with many sons and the like. Procure praise that gives satisfaction to the gods.
+
+##### English translation
+Drive away the disturbing Rakshasas; keep off Nirriti; prohibit all malignity; effuse for us riches with male progeny; bear, stones, the praise that delights the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वश्चि॒दा वोऽम॑वत्तरेभ्यो वि॒भ्वना॑ चिदा॒श्व॑पस्तरेभ्यः ।  
+> वा॒योश्चि॒दा सोम॑रभस्तरेभ्यो॒ऽग्नेश्चि॑तदर्च पितु॒कृत्त॑रेभ्यः ॥
+
+### Printed p. 126
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । चित् । आ । वः । अमवत्तरेभ्यः । विभ्वना । चित् । अश्वपतरेभ्यः ।  
+> वायोः । चित् । आ । सोमरभःतरेभ्यः । अग्नेः । चित् । अर्च । पितुकृत्तरेभ्यः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवश्चिदादित्यादप्यमवत्तरेभ्योऽत्यंतं बलवद्भो वो युष्मभ्यमार्च ।
+> अस्तौ दध्वर्युः । यद्वा । हे अध्वय्यादयः वो यूयमुच्यमानलक्षणेभ्यो
+> ग्रावभ्य आ सर्वतोऽर्च । अर्चतेत्येवं प्रतिवाक्यं योज्यं । विभ्वना चित् । विभ्वा
+> सुधन्वनः पुत्रः । तेनाप्याश्वपस्तरेभ्यः । शीघ्रकर्मभ्य इत्यर्थः । विभ्वादीनां
+> त्रयाणां चमसादिशीघ्रकर्म प्रसिद्धं । वायोश्चिद्वायोरपि सोमरभस्तरेभ्य।
+> सोमाभिषवार्थेनात्यंतेन वेगेन युक्तेभ्यः । वायोरपि ग्रावाणो वेगवंतो
+> भवंति सोमाभिषवार्थं । अग्नेश्चितगेरपि पितुकृत्तरेभ्योऽत्यंतमन्नसाधकेभ्यः :
+> ईदृशेभ्यो ग्रावभ्यः प्रीणनाय यूयमर्चतेति ॥
+
+##### Gist of the bhāṣya
+
+To you, O stones, who are exceedingly strong, stronger even than the sun (heaven), the adhvaryu offers praise. **NOTE** Or else: O adhvaryus and others, praise on all sides these stones, which have the characteristics now stated; the word "praise" is to be joined with every clause. Than Vibhvan also, who is the son of Sudhanvan, they are swifter in work, that is, quick in action; the quick work with the cup and the like of the three, Vibhvan and the others, is well known. Than Vāyu too they are swifter in pressing Soma, being endowed with exceeding speed for the pressing of Soma; the stones become speedier even than Vāyu for the pressing of Soma. Than Agni too they are exceedingly accomplishers of food. For the gratification of stones of such kind, praise them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवश्चित् (*divaścit*)—than the sun
+- अमवत्तरेभ्यः (*amavattarebhyaḥ*)—to those exceedingly strong
+- विभ्वना चित् (*vibhvanā cit*)—than Vibhvan
+- अश्वपस्तरेभ्यः (*aśvapastarebhyaḥ*)—to those who work swiftly
+- वायोश्चित् (*vāyościt*)—than Vāyu
+- सोमरभस्तरेभ्यः (*somarabhastarebhyaḥ*)—to those who press Soma more swiftly
+- अग्नेश्चित् (*agneścit*)—more than Agni
+- पितुकृत्तरेभ्यः (*pitukṛttarebhyaḥ*)—to those who are accomplishers of food
+- व (*va*)—addressing you **NOTE**
+- आ अर्च (*ā arca*)—the adhvaryu praises
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, the adhvaryu praises you, who are stronger even than the sun, swifter in work than Vibhvan, swifter than Vāyu in pressing Soma, and more than Agni accomplishers of food.
+
+##### English translation
+(The Adhwaryu) praises you who are stronger even than heaven, quicker in work than Vibhwan, more diffusive of the Soma than Vayu, more bountiful of food than Agni.
+
+### Printed p. 127
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भु॒रंतु॑ नो य॒शसः॒ सोत्त्वंध॑सो॒ ग्रावा॑णो वा॒चा दि॒विता॑  ॒॑
+> दि॒वित्म॑ता ।  
+> नरो॒ यत्र॑ दुह॒ते काम्यं॒ मध्वा॑घो॒षयं॑तो अ॒भितो॑  ॒॑
+> मिथस्तुरः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुरंतु । नः । यशसः । सोतु । अंधसः । ग्रावाणः । वाचा । दिविता । दिवित्मता ।  
+> नरः । यत्र । दुहते । काम्यं । मधु । आघोषयंतः । अभितः । मिथस्तुरः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यशसो यशस्विनो ग्रावाणो नोऽस्मभ्यं सोतु सुतमंधसः सोमस्य
+> रसं भुरंतु । भरंतु ! संपादयंतु ॥ उकारश्कांदसः ॥ किंच दिवित्मत्ता दीप्तिमत्या !!
+> लिंगव्यत्ययः ॥ वाचा स्तुतिवाचा दिविता दिवितायां दीप्तिमत्तायां वास्मान्कुर्वंतु । सोमयागे स्थापयंतित्यर्थः । क्वैषा दीप्तिमत्तेति उच्यते । नरो
+> नेतार ऋत्विजो यत्र यागे काम्यं कमनीयं मधु सोमरसं दुहते ।
+> किं कुर्वंतः । अघोषयंतः सर्वतोऽभिषवशब्दं स्तोत्रशस्त्रादिरूपं ना शब्दं
+> कुर्वंतः । अभितः सर्वतो मिथस्तुरस्वरमाणाः । सा दीप्तिमत्तेति ॥
+
+##### Gist of the bhāṣya
+
+May the renowned stones bring for us the pressed juice of Soma; भुरंतु (*bhuraṃtu*) means "may they bring, may they procure". Further, may they place us in brilliant praise-speech, that is, may they establish us in the Soma sacrifice endowed with brilliance. Where is this brilliance said to be? The leading priests, the officiants, where in the sacrifice they milk the desirable honey, the Soma juice. Doing what? Making the sound of pressing on all sides, in the form of stotra and śastra and so on, and hastening one another all around. That is the brilliance. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यशसः (*yaśasaḥ*)—endowed with fame
+- ग्रावाणः (*grāvāṇaḥ*)—the stones
+- नः (*naḥ*)—for us
+- सोतु (*sotu*)—the pressed
+- अंधसः (*aṃdhasaḥ*)—Soma juice
+- भुरंतु (*bhuraṃtu*)—may they procure
+- नरः (*naraḥ*)—the priests who lead the rite
+- यत्र (*yatra*)—in which sacrifice
+- आघोषयंतः (*āghoṣayaṃtaḥ*)—making the sound of praise
+- अभितः (*abhitaḥ*)—all around
+- मिथस्तुरः (*mithasturaḥ*)—and being intent on the rite
+- काम्यं (*kāmyaṃ*)—attractive
+- मधु (*madhu*)—the Soma juice
+- दुहते (*duhate*)—they milk, such
+- दिविता (*divitā*)—in the radiant house of sacrifice
+- दिवित्मता (*divitmatā*)—radiant
+- वाचा (*vācā*)—may they make us endowed with a word of praise
+
+### Printed p. 128
+
+##### भावार्थ (Bhāvārtha)
+
+May the stones endowed with fame procure for us the pressed Soma juice. May they make us endowed with radiant praise-speech in that radiant house of sacrifice in which the priests who lead the rite, making the sound of praise and being everywhere intent on the rite, milk the attractive Soma juice.
+
+##### English translation
+May the renowned stones bring us the effused (juice) of the Soma, (may they establish us) with brilliant praise in the brilliant (Soma-sacrifice), where the priests milk forth the desirable Soma-juice, crying out all around, and racing each other.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒न्वंति॒ सोमं॑ रथि॒रासो॒ अद्र॑यो॒ निर॑स्य॒ रसं॑ ग॒विषो॑ ॒ 
+> दुहंति ते ।  
+> दु॒हंतूध॑रुप॒सेच॑नाय॒ कं नरो॑ ह॒व्या न म॑र्जयंत  ॒॑
+> आसभिः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुन्वंति । सोमं । रथिरासः । अद्रयः । निः । अस्य । रसं । गोऽइषः । दुहंति । ते ।  
+> दुहंति । ऊधः । उपसेचनाय । कं । नरः । हव्या । न । मर्जयंते 8 आसभिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रथिरासो रथवंतो रंहणवंतोऽद्रयो ग्रावाणः सोमं सुन्वंति ।
+> ग्रावाणोऽस्य सोमस्य रसं निर्दुहंति । निःशेषेण दुहंति गविषः स्तुतिवाचमिच्छंतः
+> संतः । दुहंतूधा रसं सोमसंबंधिनं । किमर्थं । उपसेचनायाग्नेः । कमिति
+> पादपूरणः । नरो नेतारोऽभिषवकर्तार ऋत्विजो हव्या हवींषि जाग्युपसेचनानंतरमासभीः स्वास्मैर्मर्जयंते। शोधयंति। शेषभक्षणेन शुद्धीकुर्वंति ।
+> यद्वा । अग्नौ होतुर्दशापवित्रात्पुरासभिरास्योपलक्षितैः स्तोत्रैर्मर्जयंते ॥
+
+##### Gist of the bhāṣya
+
+The stones, endowed with speed, press Soma. The stones milk out completely the juice of this Soma, wishing, as they are, for the praise-speech. May they milk the juice belonging to Soma, for what purpose? For the sprinkling of the fire; कं (*kaṃ*) is a filler. The leading priests, the pressers and officiants, after the sprinkling purify the oblations with their mouths, cleanse them, making them pure by eating the remainder. Or else: in the fire, before the Hotṛ's ten-fold strainer, they purify with praises marked by the mouth. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 122. Soma-preparation notes pp.116-119, Sukta 76 intro, Rk 1, Rk 2 begun
+**Progress note:** Done through printed p. 128. Rks 2 (end) to 7 (bhashya)
