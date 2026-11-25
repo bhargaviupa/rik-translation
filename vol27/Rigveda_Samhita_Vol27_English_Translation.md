@@ -8339,6 +8339,237 @@ When born, you, O Agni, are the embryo of heaven and earth, beautiful, borne abo
 
 ओषधीषु ओषधिविकारेष्वर्णेषु विशेषेण मथितः । यद्वा आहवनीयाद्यात्मना विविधं ह्रियमाण ओषधीषु वर्तमानः । (*oṣadhīṣu oṣadhivikāreṣvarṇeṣu viśeṣeṇa mathitaḥ | yadvā āhavanīyādyātmanā vividhaṃ hriyamāṇa oṣadhīṣu vartamānaḥ |*). Oṣadhis here means the aranis made from large grown trees and the like. In these aranis, in a special manner, that is, in the manner prescribed by the rule (विध्युक्तरीति (*vidhyuktarīti*)
 
+### Printed p. 202
+
+churned in the prescribed manner, Agni is born. Or, established by the priests in the Āhavanīya and other fire-pits and fed by the herbs, that is, by wood and the like, he blazes up. Both meanings can be given.
+
+गर्भः असि रोदस्योः (*garbhaḥ asi rodasyoḥ*)—O Agni, you are established as an embryo in heaven and earth. That is, on earth you shine in the form of terrestrial fire or sacrificial fire, and in heaven in the form of the sun. This is the intention.
+
+चित्रः शिशुः (*citraḥ śiśuḥ*)—Of variegated colour, having many forms through the seven tongues चित्रवर्णः काली कराळी च मनोजवा इत्यादि सप्तजिह्वाभिः नानारूपः । (*citravarṇaḥ kālī karāḷī ca manojavā ityādi saptajihvābhiḥ nānārūpaḥ |*). Or चित्रश्चायनीयः ओषधीनां शिशुरग्निः (*citraścāyanīyaḥ oṣadhīnāṃ śiśuragniḥ*). That Agni has seven tongues is well known:
+
+काली कराली च मनोजना च सुलोहिता या च सुधूम्रवर्णा । स्पुलिंगिनी विश्वरुची च देवी लेलायमाना इति सप्त जिह्वाः ॥ (*kālī karālī ca manojanā ca sulohitā yā ca sudhūmravarṇā | spuliṃginī viśvarucī ca devī lelāyamānā iti sapta jihvāḥ ‖*) (Muṃ. U. 1-2-4) **NOTE**
+
+So it is said in the Muṇḍaka Upaniṣad. Agni is the one of variegated colour who shines with the seven tongues or flames, Kālī, Karālī, Manojavā, Sulohitā, Sudhūmravarṇā, Sphuliṅginī and Viśvaruchī. Or, because he is born in plants and the like (trees, forest trees), Agni may also be called the child of the herbs. Thus two kinds of meaning are explained.
+
+तमांसि अक्तून् (*tamāṃsi aktūn*)—Black like night, and enemies too. Agni destroys the darkness; or he destroys the enemies, the Dasyus and others, who are black like night.
+
+प्र मातृभ्यः अधि कनिक्रदत् गाः (*pra mātṛbhyaḥ adhi kanikradat gāḥ*)—Here मातृभ्यः (*mātṛbhyaḥ*) means from the herbs that are mothers to him, that is, from the pieces of wood. The intention is that as you burn them you blaze up, making a crackling sound.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विष्णु॑रि॒त्था प॑र॒मम॑स्य वि॒द्वाञ्चा॒तो बृ॒हन्न॒भि पा॑ति तृ॒तीयं॑ ।  
+> आ॒सा यद॑स्य॒ पयो॒ अक्र॑त॒ स्वं सचे॑तसो अ॒भ्य॑र्चं॒त्यत्र॑ ॥ ३ ॥
+
+### Printed p. 203
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विष्णुः । इत्था । परमं । अस्य । विद्वान् । जातः । बृहन् । अभि । पाति । तृतीयं ।  
+> आसा । यत् । अस्य । पयः । अक्रत । स्वं । सचेतसः । अभि । अर्चंति । अत्र ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विद्वाञ्ज्ञानानो जातः प्रादुर्भूतो बृहन्महान् विष्णुरिद्धेत्थमनेन प्रकारेण विष्णुर्व्यापनशीलो ज्ञानादिगुणयुक्तोऽग्निरस्य मे तृतीयं त्रयाणां
+> पूरकं त्रितं मामभि पाति । अभिरक्षतु । इति त्रयो बभूवुः ।
+> नि. ४.६ । इति यास्केनोक्तं । किंचास्याग्नेः स्वमात्मीयं पय उदकमासास्येन
+> यद्यदाक्रत कुर्वंति यजमाना याचंते तदानीमतास्मिल्लोके स्थिताः स्तोतारः
+> सचेतसः समानमनस्का भूत्वे नमभ्यर्चंति । अभिष्टु वंति ॥
+
+##### Gist of the bhāṣya
+
+Viṣṇu is the knowing one, born, manifested, great. *itthaṃ*: in this manner. Viṣṇu is the pervading one, Agni endowed with knowledge and other qualities. Let him protect me, the third, that is, the completer of the three, Trita. Yāska has said, "so the three came to be" (Ni. 4.6). Further, when the sacrificers ask with the mouth for this Agni's own water, then the worshippers standing in this world, being of one mind, praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विद्वान् (*vidvān*)—the all-knowing one
+- जातः (*jātaḥ*)—born for the sacrifice
+- बृहन् (*bṛhan*)—of great form
+- इत्था परनुं (*itthā paranuṃ*)—thus, in a special way
+- विष्णुः (*viṣṇuḥ*)—Agni, the pervader
+- अस्य तृतीयं (*asya tṛtīyaṃ*)—me, who am called Trita
+- अभि पाति (*abhi pāti*)—let him protect
+- अस्य (*asya*)—this Agni's
+- स्वं (*svaṃ*)—own
+- पयः (*payaḥ*)—water
+- आसा (*āsā*)—with the mouth (asking)
+- यत् (*yat*)—when
+- अक्रत (*akrata*)—they ask; then
+- अत्र (*atra*)—the worshippers of this world
+- सचेतसः (*sacetasaḥ*)—being of one mind
+- अभ्यर्चंति (*abhyarcaṃti*)—praise Agni
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni, the all-knowing, born for the sacrifice and pervading in a special way, protect me, who am called Trita. When the sacrificers open their mouths and ask for this Agni's own water, all the worshippers of this world praise Agni with one mind.
+
+##### English translation
+May he, who as soon as manifested is vast and wise, and thus (universally) pervading, defend (me), his third (manifestation); and when (the worshippers) ask with their mouths for his own water, animated by one purpose, they praise him in this world.
+
+### Printed p. 204
+
+##### विशेषविषयगळु (Special Topics)
+
+तृतीयं अभि पाति (*tṛtīyaṃ abhi pāti*)—तृतीयं त्रयाणां पूरकं मां अभिरक्षतु (*tṛtīyaṃ trayāṇāṃ pūrakaṃ māṃ abhirakṣatu*). It was said earlier that Ekata, Dvita and Trita are three brothers, that Trita is the last of them, and that he is the seer of this sūkta. Therefore the prayer is made here that Agni protect me, the third (the last) among the brothers.
+
+आसा यत् अस्य पयः अक्रत स्वं (*āsā yat asya payaḥ akrata svaṃ*)—The intention is that the priests who chant praises beg this Agni for rain-water with their mouths, that is, with the hymns and the like that they recite with their mouths.
+
+सचेतसः अभ्यर्चंति (*sacetasaḥ abhyarcaṃti*)—समानमनस्का भूत्त्वैनं अधिष्टुवंति (*samānamanaskā bhūttvainaṃ adhiṣṭuvaṃti*). These priests, being of one mind, that is, with one and the same desire that rain-water should come to them, praise Agni.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आत॑ उ त्वा सितु॒भृतो॒ जनि॑त्रीरन्ना॒वृधं॒ प्रति॑ चरं॒त्यन्नैः॑ ।  
+> ता ईं॒ प्रत्ये॑षि॒ पुन॑र॒न्यरू॑पा॒ असि॒ त्वं वि॒क्षु मानु॑षीषु॒  ॑
+> होता ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आतः । ऊं इति ; त्वा । पितुभृतः । जनित्रीः । अन्नवृधं । प्रति । चरंति । अन्नैः ।  
+> ताः । ईं । प्रति । एषि । पुनः ! अन्यरूपाः । असि । त्वं । विक्षु । मानुषीषु  
+> होता ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अतः । उ इत्यवधारणे । अस्मादेव कारणात् पितुभृतः पितुनान्नेन
+> सर्वस्य जतो धारयित्र्यः पोषयित्र्यो वा जनित्रीर्जनयित्र्य ओषधयोऽन्नावृधमन्नस्य वर्धकं त्वा त्वामन्नॆर्हेतुभिः प्रति चरंति । परिचरंति । अभिगच्छंति । ततस्तमीमेनास्ता ओषधीः प्रत्येषि । प्रतिगच्छसि । पुनरप्यन्यरूपा जीर्णा ओषधीर्दावभूतस्त्वं गच्छसि । किंच मानुषीषु मनुष्यजातिषु विक्षु प्रजासु । यद्वा । विश्वग्नि-
+
+##### Gist of the bhāṣya
+
+O Agni, अतः (*ataḥ*); उ (*u*) is in the sense of emphasis. For this very reason the herbs, which are पितुभृतः (*pitubhṛtaḥ*), that is, supporters or nourishers of all with food (पितु (*pitu*) being food), and जनित्रीः (*janitrīḥ*), producers, attend you who increase food, *annairhetubhiḥ*, by way of foods. Then you go back to those same herbs. Again you go, having other forms, as the fire that consumes the withered herbs. Further, among the human clans, the विक्षु (*vikṣu*) (peoples); or else among the human races that engage in actions such as Agnihotra, as
+
+### Printed p. 205
+
+> होत्रादिक्रियास्वभिनिविशंतीषु मानुषीषु मनुष्यजातिषु । होता देवानामाह्वाता होमनिष्पादको वासि । भवसि । मनुष्येषु स्थित इत्यर्थे ब्राह्मणं देवो
+> ह्येष मर्त्येष्टिति ॥
+
+##### Gist of the bhāṣya
+
+...you are the Hotṛ, the invoker of the gods, or the accomplisher of the oblation. The meaning is that he abides among men. For this the Brāhmaṇa is cited: देवो ह्येष मर्त्येष्टिति (*devo hyeṣa martyeṣṭiti*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अतः (*ataḥ*)—therefore (O Agni)
+- पितुभृतः (*pitubhṛtaḥ*)—those that nourish the whole world with food
+- जनित्रीः (*janitrīḥ*)—and are the producers of fire, the herbs
+- अन्नावृधं (*annāvṛdhaṃ*)—the increaser of food
+- त्वा (*tvā*)—you
+- अन्नैः (*annaiḥ*)—for the sake of food
+- प्रति चरंति (*prati caraṃti*)—serve
+- अन्यरूपाः (*anyarūpāḥ*)—having taken other forms
+- ईं ताः (*īṃ tāḥ*)—those same herbs
+- प्रत्येषि (*pratyeṣi*)—you go again and join
+- मानुषीषु (*mānuṣīṣu*)—among the human
+- विक्षु (*vikṣu*)—peoples
+- होता असि (*hotā asi*)—you are of the form of the Hotṛ
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the herbs, which nourish the whole world with food and are the producers of fire, serve you, the increaser of food, for the sake of food. You go again and join those same herbs after they have taken other forms. Among the peoples belonging to men you are of the form of the Hotṛ.
+
+##### English translation
+Therefore the genetrices (of all things, the herbs), the cherishers (of all) with food, wait on you who are the augmenter of food, with (sactificial) viands; you visit them again, when they have assumed other forms, you are amongst human beings the invoker (of the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+अन्यरूपाः (*anyarūpāḥ*)—There are two kinds of herbs. The growing forest trees serve Agni for the sake of food; that is, they attend upon Agni to obtain rain-water, which is of the nature of food for them. This is one meaning. The second meaning is that you, Agni, burn the dried wood and the like among the herbs and grow strong. Thus two kinds of meaning are suggested here.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> होता॑रं चि॒त्रर॑थमध्व॒रस्य॑ य॒ज्ञस्य॑यज्ञस्य के॒तुं रुशं॑तं ।  
+> प्रत्य॑र्धि० दे॒वस्य॑देवस्य म॒हा श्रि॒या त्व१॒॑ग्निमति॑थिं॒ जना॑नां ॥
+
+### Printed p. 206
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> होतारं । चित्ररथं । अध्वरस्य । यज्ञस्ययज्ञस्य । केतुं । रुशंतं ।  
+> प्रतिऽअर्धिं । देवस्यदेवस्य । मह्ना । श्रिया । तु । अग्निं । अतिथिं । जनानां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आतिथ्यायां स्विष्टकृतोऽनुवाक्या होतारमित्येषा । सूत्रितं च । होतारं
+> चित्ररथमध्वरस्य प्रप्रायमग्निर्भरतस्य शृण्व इति संयाज्ये । आ. ४-५ । इति ॥
+> अध्वरस्य यज्ञस्य होतारमेतन्नामानमृत्विजं यद्वा होतारं देवानामाह्वातारं चित्ररथं नानारूपरथमध्वरस्य रक्षोभिरहिंसितस्य यज्ञस्य सर्वस्य
+> यज्ञस्य केतुं प्रज्ञापकं पताकास्थानीयं वा रुशंतं श्वेतवर्णं मह्ना स्वमहत्वेन देवस्य देवस्य सर्वॆषां देवानामर्धिमिंद्रं प्रति भवंतं । यत्सर्वेषामर्धिमिंद्रं प्रतीति ब्राह्मणं । तादृशं जनानां यजमानानामतिधिवत्तूज्यमग्निं तु क्षिप्रं श्रिया श्रियोर्थं वयं स्तुमः ॥
+
+##### Gist of the bhāṣya
+
+In the Ātithyā (iṣṭi) this Ṛk, होतारं (*hotāraṃ*), is the anuvākyā of the Sviṣṭakṛt. It is laid down in the sūtra (Ā. 4-5), which ends with the words प्रप्रायमग्निर्भरतस्य शृण्व इति संयाज्ये (*praprāyamagnirbharatasya śṛṇva iti saṃyājye*). होतारं (*hotāraṃ*) is the priest of this name, of the sacrifice (अध्वर (*adhvara*)). Or the Hotṛ is the invoker of the gods. चित्ररथं (*citrarathaṃ*) is he who has a chariot of many forms. अध्वर (*adhvara*) is the sacrifice unharmed by the Rakṣas. यज्ञस्य यज्ञस्य (*yajñasya yajñasya*) means of every sacrifice. केतुं (*ketuṃ*) is the indicator, or what stands in the place of a banner. रुशंतं (*ruśaṃtaṃ*) is white in colour. मह्ना (*mahnā*) is by his own greatness. He is *ardhimiṃdraṃ prati bhavaṃtaṃ*, surpassing of all the gods; the Brāhmaṇa says यत्सर्वेषामर्धिमिंद्रं प्रतीति ब्राह्मणं (*yatsarveṣāmardhimiṃdraṃ pratīti brāhmaṇaṃ*). Such is the Agni, to be honoured like a guest by the sacrificers (जनानां (*janānāṃ*)); we praise him quickly, for the sake of prosperity (श्रिया (*śriyā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरस्य (*adhvarasya*)—for the sacrifice
+- होतारं (*hotāraṃ*)—of the form of the Hotṛ
+- चित्ररथं (*citrarathaṃ*)—having a chariot of many forms
+- यज्ञस्ययज्ञस्य (*yajñasyayajñasya*)—for all sacrifices
+- केतुं (*ketuṃ*)—the indicator
+- रुशंतं (*ruśaṃtaṃ*)—of white colour
+- मह्ना (*mahnā*)—by his own greatness
+- देवस्यदेवस्य (*devasyadevasya*)—to all the gods
+- प्रति अर्धिं (*prati ardhiṃ*)—of surpassing might
+- जनानां (*janānāṃ*)—for the sacrificers
+- अतिथिं (*atithiṃ*)—worthy of honour
+- अग्निं (*agniṃ*)—Agni
+- तु (*tu*)—quickly
+- श्रिया (*śriyā*)—for the sake of wealth we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We quickly praise, for the sake of wealth, Agni, who is the Hotṛ for the sacrifice, has a chariot of many forms, is the indicator of the sacrifice, is of white colour, has by his own greatness a might surpassing that of all the gods, and is worthy of honour for the sacrificers.
+
+##### English translation
+(We worship) Agni for prosperity, you, who are the invoker of the gods, the many-coloured conveyance of the sacrifice, the brilliant banner of every offering, the surpasser of every other deity in might, the guest of men.
+
+### Printed p. 207
+
+##### विशेषविषयगळु (Special Topics)
+
+When the Sviṣṭakṛt offering is made in the Ātithya iṣṭi, this Ṛk beginning होतारं (*hotāraṃ*) is to be recited as the anuvākyā mantra. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra होतारं चित्ररथमध्वरस्य प्रप्रायमग्निर्भरतस्य शृण्व इति संयाज्ये (*hotāraṃ citrarathamadhvarasya praprāyamagnirbharatasya śṛṇva iti saṃyājye*) (Ā. 4-5).
+
+यज्ञस्य यज्ञस्य, देवस्यदेवस्य (*yajñasya yajñasya, devasyadevasya*)—Such repeated words (words uttered twice) carry the meaning "each" or "all". The words above mean for every sacrifice or for all sacrifices, and for all the gods. Many other examples can be given, like दिवेदिने (*divedine*) and अहरहः (*aharahaḥ*).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तु वस्त्रा॒ण्यध॒ पेश॑नानि॒ वसा॑नोः अ॒ग्निर्नाभा॑ पृथि॒व्याः ।  
+> अ॒रु॒षो जा॒तः प॒द इळा॑याः पु॒रोहि॑तो राजन्यक्षी॒ह  ॒
+> देवान् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तु । वस्त्राणि । अध । पेशनानि । वसानः । अग्निः । नाभा । पृथिव्याः ।  
+> अरुषः । जातः । पदे । इळायाः । पुरःसहितः । राजन् । यक्षि । इह । देवान् ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन्वीप्यमानाग्ने वस्त्राण्याच्छादकानि तेजांसि अधापि च पेशनानि
+> तेषां तेजसां कार्षण्यशौक्ल्यादीनि रूपाणि । यद्वा । अधानंतरं पेशनानि ।
+> पेश इति हिरण्यनाम । हिरण्यवद्धिरण्यसदृशानि भास्वराणि तेजांसि । वसान आच्छादयन्
+> पृथिव्या नाभा नाभौ नाभिस्थानीय इळायास्पद उत्तरवेद्यां । एतद्वा इळायास्पदं
+> यदुत्तरवेदीनाभिः ऐ. ब्रा. १-२८ । इत्याम्नानात् । तस्यां जातः समुत्पन्नोऽरुष
+> आरोचमानो योग्निरेवंविधोऽसि स त्वं पुरोहितः पुरतो निहितः पूर्वस्यां
+> दिश्याहवनीयायतने स्थापितः सन्निहास्मिन्यज्ञे देवानिंद्रादीन्यक्षि । यज । पूजय ॥
+
+##### Gist of the bhāṣya
+
+O king, blazing Agni, वस्त्राणि (*vastrāṇi*) are the covering lights, and अध (*adha*) means "and also". पेशनानि (*peśanāni*) are the forms of those lights, such as blackness and whiteness. Or else, अध (*adha*) means "thereafter", and पेश (*peśa*) is a name of gold: bright lights like gold, resembling gold. Covering yourself with these, at the navel of the earth, in the navel-like place, the place of Iḷā, that is, the Uttaravedi (the Brāhmaṇa says एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः (*etadvā iḷāyāspadaṃ yaduttaravedīnābhiḥ*), Ai. Brā. 1-28), you who are born there, अरुष (*aruṣa*), shining, such as you are, being पुरोहित (*purohita*), placed in front, established in the Āhavanīya's site in the eastern direction, worship (यज (*yaja*), honour) here in this sacrifice the gods, Indra and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—and
+- राजन् (*rājan*)—O Agni, the lord
+- वस्त्राणि (*vastrāṇi*)—covering for you
+- पेशनानि (*peśanāni*)—the forms of light
+- वसानः (*vasānaḥ*)—having put on
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- नाभा (*nābhā*)—
+
 ---
 
-**Progress note:** Done through printed p. 201. pp. 196-201 (batch API)
+**Progress note:** Done through printed p. 207. pp. 202-207 (batch API)
