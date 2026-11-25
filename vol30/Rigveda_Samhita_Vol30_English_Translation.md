@@ -33906,6 +33906,235 @@ O Agni, bearer of oblations (हव्यवाहन (*havyavāhana*)), althoug
 - सं इध्यसे (*saṃ idhyase*)—you are kindled again by the priests; such as you
 - आदित्यैः (*ādityaiḥ*)—the twelve Ādityas
 
+### Printed p. 1007
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गळिंदलू (*gaḷiṃdalū*)—(continuing) by the twelve Ādityas
+- रुद्रैः (*rudraiḥ*)—by the eleven Rudras
+- वसुभिः (*vasubhiḥ*)—by the eight Vasus
+- नः (*naḥ*)—to our presence
+- आ गहि (*ā gahi*)—deign to come
+- नः (*naḥ*)—our
+- मृळीकाय (*mṛḷīkāya*)—for happiness, or for the favour of me, who am named Mṛḷīka
+- आ गहि (*ā gahi*)—deign to come to my presence
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, bearer of oblations to the gods! Although you have been well kindled and are blazing, you have now been kindled again in this sacrifice by the priests, to blaze brightly for the gods' delight. Such as you are, come to us for the sacrifice together with the gods, who belong to the three groups called Vasus, Rudras and Ādityas, and come to us also to bring us happiness, or to show favour to me, who am named Mṛḷīka.
+
+##### English translation
+Berrer of oblations, being kindled you burn for the gods; come to us with the Adityas, the Rudras, the Vasus; come for our felicity.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं य॒ज्ञमि॒दं वचो॑ जुजुषा॒ण उ॒पाग॑हि ।  
+> मर्तासस्त्वा सविधान हवामहे मृळीकाय हवामहे ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । यज्ञं । इदं । वचः । जुजुषाणः । उपआगहि ।  
+> मर्तासः । त्वा । संइधान । हवामहे । मृळीकाय । हवामहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने इममस्माभिः क्रियमाणं पुरोवर्तिनं यज्ञमिदं वचः स्तोत्रं
+> च जुजुषाणः सेवमान उपागहि । उपागच्छ । हे समिधान समिध्यमान मर्तासो
+> मार्ता मनुष्यास्त्वा त्वां हवामहे । आह्वयामहे । मृळीकाय सुखाय्तत्संज्ञाय वर्षये त्वामेवाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Agni, come to this sacrifice, performed by us and set before you, enjoying (जुजुषाणः (*jujuṣāṇaḥ*)) it and this praise (वचः (*vacaḥ*)). O kindled (समिधान (*samidhāna*)) Agni, we mortals, that is human beings, invoke you. We call you alone for मृळीकाय (*mṛḷīkāya*), that is for happiness, or for the seer who bears that name.
+
+### Printed p. 1008
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इमं (*imaṃ*)—this (sacrifice) that we are performing
+- यज्ञं (*yajñaṃ*)—this sacrifice
+- इदं वचः (*idaṃ vacaḥ*)—this praise
+- जुजुषाणः (*jujuṣāṇaḥ*)—enjoying (accepting)
+- उपागहि (*upāgahi*)—deign to come near us
+- सॆमिधान (*sèmidhāna*)—O kindled Agni
+- मर्ताशः (*martāśaḥ*)—we who are human
+- त्वा (*tvā*)—you
+- हवामहे (*havāmahe*)—we call with prayer
+- मृळीकाय (*mṛḷīkāya*)—for happiness, or to bring happiness to me, who am Mṛḷīka
+- हवामहे (*havāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, come to us, wishing to enjoy the sacrifice that we are now performing. O kindled Agni, we, who are human, call you with prayer. We call you with prayer to bring happiness to me, who am named Mṛḷīka.
+
+##### English translation
+Being gratified by this sacrifice, this praise, approach; we mortals invoke you, blazing (Agni), we invoke you for felicity.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामु जातवेदसं विश्ववारं गृणे धिया ।  
+> अग्ने देवा आ वह नः प्रियव्रतान्नृळीकाय प्रियव्रतान्॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । ऊं इति । जातवेदसं । विश्ववारं । गृणे । धिया ।  
+> अग्ने । देवान् । आ । वह । नः । प्रियव्रतान् । मृळीकाय । प्रियव्रतान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विश्ववारं विश्वैः सर्वैर्वर्णीयं जातवेदसं जातानां वेदितारं
+> जातप्रज्ञं जातधनं ना त्वामु त्वामेव धिया स्तुत्या गृणे । सौमि ॥ गृ शब्दे ।
+> क्रैयादिकः । प्वादित्वाद्ध्रस्वः ॥ प्रियव्रतान् प्रियाणि व्रतानि कर्माणि येषां
+> तादृशान्देवान्नोऽस्मदर्थमा वह । आनय । अस्मद्यज्ञं प्रापय । मृळीकाय
+> सुखार्थमेतत्संज्ञाय ना मह्यं प्रियव्रतांस्तानेवावह ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are chosen by all (विश्ववारं (*viśvavāraṃ*)) and are जातवेदसं (*jātavedasaṃ*): the knower of all that is born, one whose wisdom or wealth has arisen. You alone I praise with my hymn. Bring to us the gods whose acts (व्रतानि (*vratāni*)) are dear (प्रियव्रतान् (*priyavratān*)), that is, bring them to our sacrifice. For मृळीकाय (*mṛḷīkāya*), that is for happiness, or for the seer of that name, bring to me those same gods of dear acts.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- विश्ववारं (*viśvavāraṃ*)—you who are desired by all
+- जातवेदसं (*jātavedasaṃ*)—who know everything that has arisen, or who possess wealth
+- त्वां उ (*tvāṃ u*)—you alone
+- धिया (*dhiyā*)—with praise
+- गृणे (*gṛṇe*)—I praise
+- प्रियव्रतान् (*priyavratān*)—who perform deeds beneficial to men
+- देवान् (*devān*)—the gods
+- नः (*naḥ*)—for us
+- आ वह (*ā vaha*)—bring here
+- मृळीकाय (*mṛḷīkāya*)—for our happiness
+- प्रियव्रतान् (*priyavratān*)—bring the gods who are beneficial to us
+
+### Printed p. 1009
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are wanted by all, and you have excellent wisdom, or know everything. You alone I praise with a hymn. Bring to this sacrificial ground of ours, for our sake, the gods who perform deeds beneficial to men. Bring them here also in order to give us happiness.
+
+##### English translation
+I glorify with my praise you, Jatavedas, desired by all; bring hither, Agni, to us the gods who are gratified by offerings, (bring) those gratified by offerings for our felicity.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्निर्देवो देवानामभवत्पुरोहितोऽग्निं मनुष्या ३-  
+> ऋषयः समाधिरे ।  
+> अग्निं महो धनसातावहं हुवे मृळीकं धनसातये ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । देवः । देवानां । अभवत् । पुरःऽहितः । अग्निं । मनुष्याः । ऋषयः । सं ।  
+> ईधिरे ।  
+> अग्निं । महः । धनससात् । अहं । हुवे । मृळीकं । धनससातये ।  
+> 64
+
+### Printed p. 1010
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो दानादिगुणयुक्तोऽग्निर्देवानामन्येषां पुरोहितः पुरस्ताद्धृतोऽभवत् । यद्वा । पुरोहितवद्धितकार्यभवत् । यत एवमतः कारणात्तमेवाग्निमृषयोऽतींद्रियार्थदर्शिनो मनुष्या मानवा यजमानाः समाधिरे । संदीपयंति । अपि च तमग्निं महो महतो धनसात् धनस्य संभजने निमित्तभूतेऽहं
+> हुवे । आह्वये ॥ विशेषणसापेक्षस्यापि धनशब्दस्य छांदसः समासः ॥ यद्वा । महतो
+> यागस्य कर्तारमग्निमित्यर्थः । धनस्य सातॆये धनलाभार्थं मृळीकं सुखमेतत्संज्ञं
+> ना मां सोऽग्निः करोत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Agni, the god endowed with qualities such as generosity, became the purohita of the other gods, that is, one placed in front. Or else: he became beneficial like a purohita. Because this is so, the ṛṣis (seers of what is beyond the senses), who are men, that is, the human sacrificers, kindle that same Agni. And I invoke that Agni महतो धनसात् (*mahato dhanasāt*), as the cause of sharing in great wealth; the compound with धन (*dhana*) is Vedic. Or else: the meaning is that Agni is the performer of the great sacrifice. For the gaining of wealth (धनसातये (*dhanasātaye*)) may he make me happy, मृळीकं (*mṛḷīkaṃ*), that is, may that Agni bring me happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—the shining one, or the one endowed with qualities such as generosity
+- अग्निः (*agniḥ*)—Agni
+- देवानां (*devānāṃ*)—than the other gods
+- पुरोहितः (*purohitaḥ*)—established in front
+- अभवत् (*abhavat*)—is, or becomes beneficial to the gods like a purohita
+- and
+- ऋषयः (*ṛṣayaḥ*)—the ṛṣis, seers of what is beyond the senses
+- मनुष्याः (*manuṣyāḥ*)—the human sacrificers
+- अग्निं (*agniṃ*)—this Agni
+- सं ईधिरे (*saṃ īdhire*)—kindle and make blaze
+- अग्निं (*agniṃ*)—such an Agni
+- महः (*mahaḥ*)—great
+- धनसात् (*dhanasāt*)—for the obtaining of wealth
+- अहं (*ahaṃ*)—I
+- हुवे (*huve*)—call with prayer
+- धनसातये (*dhanasātaye*)—for the gaining of wealth, (me)
+- मृळीकं (*mṛḷīkaṃ*)—may Agni make (me) happy
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is endowed with qualities such as generosity, is established before all the gods, or in front of everyone. The ṛṣis, who know what is beyond the senses, and the human sacrificers also kindle this Agni so that he blazes well. Such an Agni I call with prayer for the gaining of wealth. I call him also so that happiness may come to me through the gain of wealth.
+
+##### English translation
+The divine Agni, was the purohita of the gods; the Rishis, the descendents of Manu, kindled Agni. I invoke Agni for the acquisition of abundant wealth, (may he make me) happy for the acquisition of wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्निगत्रिं भरद्वाजं गविष्ठिरं प्रावन्नः कण्णं त्रसदस्युमाहवे ।
+
+### Printed p. 1011
+
+> अग्निं वसिष्ठो हवते पुरोहितो मृळीकाय पुरोहितः॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । अत्रिं । भरत् ऽवाजं । गविष्ठिरं । प्र । आवत् । नः । कण्वं । त्रसदस्युं । आहवे।  
+> अग्निं । वसिष्ठः । हवते । पुरःहितः । मृळीकाय । पुरःहितः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रिं भरद्वाजं गविष्ठिरं कण्वं त्रसदस्युं च नोऽस्मानाहवे संग्रामेऽयमग्निः प्रावत् । प्ररक्षतु । पुरोहितः पुरोहितवद्धितकारी मम पिता वसिष्ठ ऋषिरग्निं
+> हवते । स्तुतिभिराह्वयति । स चाहूतो मृळीकाय सुखार्थमेतत्संज्ञाय वा
+> मह्यं पुरोहितः पुरोधा देवानां पुरः स्थापयिता भवतु ॥
+
+##### Gist of the bhāṣya
+
+May this Agni protect in battle (आहवे (*āhave*)) Atri, Bharadvāja, Gaviṣṭhira, Kaṇva and Trasadasyu, and us. My father, the ṛṣi Vasiṣṭha, who is beneficial like a purohita, calls Agni with praises. And may Agni, so called, be a purohita for me, for मृळीकाय (*mṛḷīkāya*), that is for happiness, or for the seer of that name; that is, one who sets the gods before him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—this Agni
+- अत्रिं (*atriṃ*)—the ṛṣi Atri
+- भरद्वाजं (*bharadvājaṃ*)—the ṛṣi Bharadvāja
+- गविष्ठिरं (*gaviṣṭhiraṃ*)—the ṛṣi named Gaviṣṭhira
+- कण्वं (*kaṇvaṃ*)—the ṛṣi Kaṇva
+- त्रसदस्युं (*trasadasyuṃ*)—Trasadasyu
+- नः (*naḥ*)—and us
+- आहवे (*āhave*)—in battle
+- प्र आवत् (*pra āvat*)—may he protect
+- पुरोहितः (*purohitaḥ*)—beneficial like a purohita
+- वसिष्ठः (*vasiṣṭhaḥ*)—the ṛṣi Vasiṣṭha, my father
+- अग्निं (*agniṃ*)—Agni
+- हवते (*havate*)—praises and invokes with hymns
+- मृळीकाय (*mṛḷīkāya*)—for happiness, or to show favour to me, who am named Mṛḷīka
+- पुरोहितः (*purohitaḥ*)—may this Agni be established in front of the gods
+
+##### भावार्थ (Bhāvārtha)
+
+May this Agni protect in battle Atri, Bharadvāja, Gaviṣṭhira, Kaṇva and Trasadasyu, and us. My father, the ṛṣi Vasiṣṭha, who is beneficial like a purohita, praises and invokes Agni with hymns. For my happiness may this Agni be established in front of the gods.
+
+##### English translation
+May Agni protect in war Atri, Bharadwaja, Gavishthira, ourselves, Kanwa and Trasadasyu; Vasishtha as the Purohita invokes Agni. the purohitha for our felicity.
+
+### Printed p. 1012
+## Sūkta 151 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+The deity of this sūkta is Śraddhā. Śraddhā means the great regard that one shows when performing an act. This attitude itself is regarded as the deity and is praised in this sūkta. There are many sūktas in the Ṛgveda praising such deities of attitude. We have explained this matter at length in Ṛ. Saṃ. Part 29, pp. 310-319. The introduction written for the 83rd sūkta of this maṇḍala applies to this sūkta also. Regarding the use (viniyoga) of this sūkta, the work called Ṛgvidhāna says as follows:
+
+श्रद्धासूक्तं जपेन्नित्यं श्रद्धाकामः समाहितः ॥ ७१ ॥ सर्वत्र लभते श्रद्धां मेधासूक्तं तथैव च । ब्राह्मीमासाद्य सूक्ते द्वे जपेत नियतव्रतः ॥ ७२ ॥ तां पिबेत्तु यथाशक्त्या त्र्यहात्सिद्दिं नियच्छति । शंखपुष्पीं तु पयसा ब्राह्मीपुष्पाणि सर्पिषा ॥ ७३ ॥ शतावरीं तु पयसा वचामद्भिर्घृतेन च । सूक्ताभ्यामनुमंत्राभ्यामेकैकां तु त्र्यहं पिबेत् ॥ ७४ ॥ श्रद्धां मेधां स्मृतिं पुष्टिं बलं लक्ष्मीं च विंदति । सिद्धिं प्राप्नोति च परां दीर्घं चायुः समश्नुते ॥ ७५ ।' अथवा मनसा ध्यायेत्तूक्ते सिद्धिं नियच्छति । (*śraddhāsūktaṃ japennityaṃ śraddhākāmaḥ samāhitaḥ ‖ 71 ‖ sarvatra labhate śraddhāṃ medhāsūktaṃ tathaiva ca | brāhmīmāsādya sūkte dve japeta niyatavrataḥ ‖ 72 ‖ tāṃ pibettu yathāśaktyā tryahātsiddiṃ niyacchati | śaṃkhapuṣpīṃ tu payasā brāhmīpuṣpāṇi sarpiṣā ‖ 73 ‖ śatāvarīṃ tu payasā vacāmadbhirghṛtena ca | sūktābhyāmanumaṃtrābhyāmekaikāṃ tu tryahaṃ pibet ‖ 74 ‖ śraddhāṃ medhāṃ smṛtiṃ puṣṭiṃ balaṃ lakṣmīṃ ca viṃdati | siddhiṃ prāpnoti ca parāṃ dīrghaṃ cāyuḥ samaśnute ‖ 75 | ' athavā manasā dhyāyettūkte siddhiṃ niyacchati |*) (Ṛgvidhāna, Adhyāya 4, Ślo. 71-75)
+
+A man who desires the favour of the deity Śraddhā should recite this Śraddhā-sūkta every day with self-control, and likewise the Medhā-sūkta (the khila-sūkta beginning मेधां मह्यमंगिरसः (*medhāṃ mahyamaṃgirasaḥ*)). If he does so, that man attains success in all undertakings. Moreover, if he brings the flower of the herb called Brāhmī, mixes it in water, consecrates it by reciting these two sūktas, and drinks it, then the work he has taken up will be accomplished within three days. Furthermore, if he mixes the śaṅkhapuṣpa in milk, the Brāhmī flower in ghee, the śatāvarī in milk, and the vacā in water or ghee, consecrates each with the recitation of these two sūktas, and drinks each for three days, that man obtains Śraddhā (interest in all undertakings), Medhā (intelligence), Smṛti (memory
+
 ---
 
-**Progress note:** Done through printed p. 1006. pp. 1001-1006 (batch API)
+**Progress note:** Done through printed p. 1012. pp. 1007-1012 (batch API)
