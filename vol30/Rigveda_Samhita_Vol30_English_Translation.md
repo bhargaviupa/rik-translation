@@ -8584,6 +8584,244 @@ Indra is the chief of heroes, the doer of great deeds, to whom praise is well of
 
 "O Indra, वाजसात् (*vājasāt*): he in whom there is gain (सातिः (*sātiḥ*)) of food (वाज (*vāja*)) is वाजसातिः (*vājasātiḥ*). In this भरे (*bhare*)", the battle, so called because warriors bear (बिभ्रति (*bibhrati*)) the fortune of victory by it; in that battle शुनं (*śunaṃ*) is "swollen", grown through zeal. Or शुनं (*śunaṃ*) is a name for happiness, so "happiness-giving". Sāyaṇa takes the verse to say: we call you, Indra, who are wealthy (मघवानं (*maghavānaṃ*)), endowed with unsurpassed lordship, and the best leader (नृतमं (*nṛtamaṃ*)) of the whole world. We Kuśikas call you for the sacrifice. Likewise we call you who hear (शृण्वंतं (*śṛṇvaṃtaṃ*)) the praise made by us, who are fierce (उग्रं (*ugraṃ*)), terrifying to enemies, who in battles (समत्सु (*samatsu*)) slay (घ्नंतं (*ghnaṃtaṃ*)) all the Vṛtras, the Rākṣasas marked by Vṛtra's nature, and who are the complete winner (संजितं (*saṃjitaṃ*)) of the enemies' wealth (धनानां (*dhanānāṃ*)). We call you for our protection (ऊतये (*ūtaye*)). The remainder of the block is grammatical and is cut off at the end of the page.
 
+### Printed p. 226
+
+> संग्रामाः कृदुत्तरपदस्वरः । घ्नंतं । हन हिंसागत्योरित्यस्य शतरि गमहनेत्यादिनोपधालोपः । हो हंतेरिति घत्वं संजितं । जि जये । क्विप् ॥
+
+##### Gist of the bhāṣya
+
+This block is the grammatical tail of the bhāṣya on the preceding Ṛk. It gives the derivations of घ्नंतं (*ghnaṃtaṃ*) and संजितं (*saṃjitaṃ*) and the accent of the compound संग्रामाः (*saṃgrāmāḥ*). It has no other content.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतमं (*nṛtamaṃ*)—the best among leaders
+- अस्मिन् भरे (*asmin bhare*)—in this battle
+- शुनं (*śunaṃ*)—the bringer of happiness
+- मघवानं (*maghavānaṃ*)—the wealthy one
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—the one who hears our praises
+- उग्रं (*ugraṃ*)—the one of exceeding power
+- समत्सु (*samatsu*)—in battles
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- घ्नंतं (*ghnaṃtaṃ*)—the destroyer
+- धनानां (*dhanānāṃ*)—of the enemies' wealth
+- संजितं (*saṃjitaṃ*)—the conqueror
+- इंद्रं (*iṃdraṃ*)—Indra
+- वाजसातौ (*vājasātau*)—for the sake of food
+- ऊतये (*ūtaye*)—for protection
+- हुवेम (*huvema*)—we call upon (him) with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+We call upon Indra, who is the best among leaders, the bringer of happiness in this battle, wealthy, hearing our praises, of exceeding power, the destroyer of enemies in battles, the conqueror of the enemies' wealth — we call upon him with prayer, for food and for protection.
+
+##### English translation
+We invoke for our protection the opulent Indra, distinguished in this combat; the leader in the food-bestowing strife, hearing (our praises), terrible in battles, the destroyer of foes, the conqueror of wealth.
+
+## Sūkta 105 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कदेत्येकादशर्चं षष्ठं सूक्तं । ऐंद्रकुत्सपुत्रो नाम्मा दुर्मित्रो
+> गुणतः सुमित्रः यद्वा नाम्मा सुमित्रो गुणतो दुर्मित्र ऋषिः । हरी यस्य
+> सुयुजा वज्रं यश्चक्र इति द्वे पिपीलिकमध्ये एकादशषट्कैकादशके उष्णिहौ! अंत्या
+> त्रिष्टुप् । आद्या गायत्री वा । अक्षरव्यूहेन पक्षांतर उष्णिक् । शिष्टाभिः सर्वाभिः
+> सप्तोष्णिहः । तथा चानुक्रांतं । कदा कौत्सो दुमिः श्रो नाम्मा सुमित्रो गुणतः
+> सुमित्रो वा ना नाम्मा दुर्मित्रो गुणत औष्णिहं हरी वज्रं पिपीलिकमध्ये त्रिष्टुबं
+> श्याद्या गायत्री वेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning कदा (*kadā*) has eleven Ṛks and is the sixth sūkta. Its seer is Durmitra, son of Kutsa, who is Durmitra by name and Sumitra by quality; or else Sumitra by name and Durmitra by quality. The deity is Indra. The second Ṛk (हरी यस्य सुयुजा (*harī yasya suyujā*)) and the Ṛk *iti dve vajraṃ yaścakra* are in the Pipīlikamadhyā metre, which has three pādas of 11, 6 and 11 syllables, and both are Uṣṇih. The last Ṛk is a Triṣṭubh. The first is a Gāyatrī, or, by the arrangement of its syllables, according to another view an Uṣṇih. All the remaining seven are Uṣṇih. The Anukramaṇī is quoted: कदा कौत्सो दुमिः श्रो नाम्मा सुमित्रो गुणतः सुमित्रो वा ना नाम्मा दुर्मित्रो गुणत औष्णिहं हरी वज्रं पिपीलिकमध्ये त्रिष्टुबं श्याद्या गायत्री वेति ॥ (*kadā kautso dumiḥ śro nāmmā sumitro guṇataḥ sumitro vā nā nāmmā durmitro guṇata auṣṇihaṃ harī vajraṃ pipīlikamadhye triṣṭubaṃ śyādyā gāyatrī veti ‖*). He adds that the viniyoga has been stated.**NOTE**
+
+##### Anuvāda
+
+This sūkta beginning "कदा (*kadā*)" is the sixth sūkta in the ninth anuvāka. It has eleven Ṛks. The seer of this sūkta is Durmitra, the son of the seer Kutsa, or Sumitra from the point of view of quality;
+
+### Printed p. 227
+
+or else his name may be Sumitra and, if one looks at it from the point of view of quality, he may be Durmitra. The second Ṛk of this sūkta, "हरी यस्य सुयुजा (*harī yasya suyujā*)", and the seventh Ṛk, "वज्रं यश्चक्रे (*vajraṃ yaścakre*)", are in the metre called Pipīlikamadhyā. In a Ṛk of this metre there are three pādas, having 1, 6 and 11 syllables respectively. The last Ṛk is in the Triṣṭup metre; the first Ṛk may be in the Gāyatrī metre, and by the order of arrangement of the syllables may also be in the Uṣṇik metre. The remaining seven Ṛks are in the Uṣṇik metre. In the Anukramaṇī it is said: कदा कौत्सो (*kadā kautso*) … गायत्री वेति (*gāyatrī veti*) **NOTE**. The viniyoga has been stated earlier.
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 9; Sūkta 105. Aṣṭaka 8; Adhyāya 5; Varga 26, 27. Number of Ṛks in the sūkta: 11.
+Ṛṣi: कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः (*kautso durmitro nāmnā durmitro guṇato vā nāmnā durmitro guṇataḥ*).
+Deity: Indra.
+Metre: 1. Uṣṇig-Gāyatrī or. 2, 7. Pipīlikamadhyā. 3–6, 8–10. Uṣṇik. 11. Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒दा व॑सो स्तो॒त्रं हर्य॑त॒ आव॑ श्म॒शा रु॑ध॒द्वाः ।  
+> दी॒र्घं सु॒तं वा॒ताप्या॑य ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कदा । वसो इति । स्तोत्रं । हर्यते । आ । अव । श्मशा । रुधत् । वारिति वाः ।  
+> दीर्घं । सुतं । वाताप्याय ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो वासयितरिंद्र स्तोत्रमस्मत्कर्तृकं हर्यते कामयमानाय
+> कामयमानं त्वां ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थी ॥
+
+##### Gist of the bhāṣya
+
+"O Vasu", that is, Indra who causes (men) to dwell: our praise is addressed to you who desire it. हर्यते (*haryate*) means "to you, the desiring one". Because of the rule that the verbal action must be taken into account, the object is a recipient (संप्रदान (*saṃpradāna*)), and so the dative is used.
+
+### Printed p. 228
+
+> कदा कस्मिन्कालेव रुधत् । अवरोत्सृति । अवरुध्य च कदा वाः । वारयिष्यति ।
+> तादृशः कालः कदास्माकं संभविष्यतीत्याशास्त्रे ॥ रुधेर्लुर्जरितो वेति चेरजादेशः । वारिति वृणोतेर्न्यंताल्लजि च्छांदसः शपो लुक् ॥ छंदस्युभयथेति तिप
+> अर्धधातुकत्वाण्णीरनिटीति लोपे हल्ख्याभ्य इति तिलोपः । तत्र दृष्टांतः ॥ अश्नुते
+> क्षेत्रमिति स्मशा कुल्या । लुप्तोपममेतत् । यथा कुल्येशस्तत उदकान्यवरुणद्धि
+> अवरुध्य च वारयति तथेत्यर्थः । किमुद्दिश्यावरोध इति तत्राह । दीर्घ० सवनत्रयरूपेणायतं सुतमभिषुतं सोमं प्रति । किमर्थमिति तदाह । वाताप्याय ।
+> वातेनाप्यतेऽधस्तान्निपात्यत इति वाताप्यमुदकं । तस्य प्रदानायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+कदा (*kadā*) means "at what time". "When will he obstruct, and having obstructed, when will he release (वाः (*vāḥ*))?" Such a time, he says, is hoped for by us — when will it come? The word स्मशा (*smaśā*) means a channel, because it reaches (अश्नुते (*aśnute*)) the field. The comparison is one with the particle of comparison dropped: as the lord of a channel holds back the water from it and, having held it back, lets it go, so it is meant here. For what purpose is the holding back? For the सुतं (*sutaṃ*), the Soma pressed, दीर्घं (*dīrghaṃ*) stretched out in the form of the three pressings. For what end? वाताप्याय (*vātāpyāya*): वाताप्य (*vātāpya*) is water, which is brought down by the wind; so the meaning is "for the giving of that water".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O Indra, giver of dwelling
+- स्तोत्रं (*stotraṃ*)—the praise composed by us
+- हर्यते (*haryate*)—to you who desire it
+- दीर्घं (*dīrghaṃ*)—prepared in the three pressings
+- सुतं (*sutaṃ*)—for the drinking of the Soma juice
+- वाताप्याय (*vātāpyāya*)—for the giving of rain
+- श्मशा (*śmaśā*)—as the banks of a river hold back the water
+- कदा (*kadā*)—when
+- अव रुधत् (*ava rudhat*)—holds back (and, having held back)
+- वाः (*vāḥ*)—when does it release?
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of dwelling: the praise offered by us desires you — for the drinking of the Soma juice prepared in the three pressings, and for giving us rain — when will it hold you back, as the banks of a river hold back the water? And when, having held you back, will it release you?
+
+##### English translation
+When, Vasu, (will our) praise (reach) you desiring it? (when) will he (like) a dam, obstruct and let those the long-protracted libation for the sake of wind-driven (rain)?
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning that Sāyaṇa has given for this Ṛk does not fit well. The explanation of the Nirukta given by Yāska for this Ṛk appears more suitable:
+श्मशा । श्मशा शु अश्नुत इति ना श्माश्नुत इति वा । अव श्मशा रुधद्वाः । अनारुधच्छ्मशा वारिति ॥ (*śmaśā | śmaśā śu aśnuta iti nā śmāśnuta iti vā | ava śmaśā rudhadvāḥ | anārudhacchmaśā vāriti ‖*) (Ni. 5-13)
+
+### Printed p. 229
+
+Śmāśinī or Śvāśinī means a river. Śvāśinī is "शु अशिनी (*śu aśinī*)": because it flows swiftly, the river has the name Śvāśinī; or Śmāśinī is "श्मा अशिनी (*śmā aśinī*)": because it keeps cutting away its bank little by little, the river is also called Śmāśinī. Accordingly, the word स्मशा (*smaśā*) here, as "शु अश्नुत इति ना (*śu aśnuta iti nā*)", means "flowing swiftly", or, as "श्माश्नुत इति ना (*śmāśnuta iti nā*)", means the nāḍī, that which pervades the body. The meaning that Durgācārya, the commentator on the Nirukta, has given for this Ṛk is meaningful and acceptable:
+हे वसो वसुमन् इंद्र । कदा कस्मिन्काले स्तोत्रं एतन्मयोदीरितं अस्य यजमानस्य हर्यतः कामयतः कामान् प्रार्थयतः त्वां रुधत् उपरोत्सृति । स्मशा इव कुल्येवोदकं विसर्पमाणं नाडीव वा अथवा आध्यात्मिकी नाडी शरीराश्रितं रसं ! आह-कतमत् स्तोत्रं ? इति । उज्यतॆ-यदेतत् दीर्घं सुतं सोमं सत्राख्यं सुतमभिषुतं प्रवर्तते वाताप्याय उदकार्थं । एवमेतस्मिन् स्मशा इत्येतत् नाड्यभिधानं कुल्याभिधानं वाः शब्दोपपत्तेश्च इति ॥ (*he vaso vasuman iṃdra | kadā kasminkāle stotraṃ etanmayodīritaṃ asya yajamānasya haryataḥ kāmayataḥ kāmān prārthayataḥ tvāṃ rudhat uparotsṛti | smaśā iva kulyevodakaṃ visarpamāṇaṃ nāḍīva vā athavā ādhyātmikī nāḍī śarīrāśritaṃ rasaṃ ! āha-katamat stotraṃ ? iti | ujyatè-yadetat dīrghaṃ sutaṃ somaṃ satrākhyaṃ sutamabhiṣutaṃ pravartate vātāpyāya udakārthaṃ | evametasmin smaśā ityetat nāḍyabhidhānaṃ kulyābhidhānaṃ vāḥ śabdopapatteśca iti ‖*) (Simukta-Durgā-vyākhyā 5-13)**NOTE**
+The meaning stated following this commentary is as follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसो (*vaso*)—O wealthy Indra
+- कदा (*kadā*)—when
+- स्तोत्रं (*stotraṃ*)—the praise that I offer
+- दीर्घं सुतं (*dīrghaṃ sutaṃ*)—for the drinking of the Soma juice pressed in the sattra sacrifices that are performed over a long time
+- वाताप्याय (*vātāpyāya*)—for the sake of rain
+- हर्यतः (*haryataḥ*)—you who go to the sacrificer who desires his wishes
+- वाः (*vāḥ*)—the water of the river
+- श्मशा (*śmaśā*)—as the banks hold it back [or: वाः (*vāḥ*)—the juices (rasa) in the body; श्मशा (*śmaśā*)—as the nāḍīs hold them back]
+- (त्वां (*tvāṃ*)—you)
+- आ अव रुधत् (*ā ava rudhat*)—will it hold back?
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra: for the drinking of the Soma juice pressed and prepared for you in the sattra sacrifices that are performed for many days, and for the sake of rain, the praise that I offer — to you who are going to the sacrificers who desire their wishes — when will it hold you back (so that you do not go elsewhere), as the banks of a river hold back the water of the river?
+
+### Printed p. 230
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरी॒ यस्य॑ सु॒युजा॒ विव्र॑ता॒ वेरर्वं॒तानु॒ शेषा॑ ।  
+> उ॒भा र॒जी न के॒शिना॒ पति॒र्दन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरी इति । यस्य । सुयुजा । विव्रता । वेः । अर्वंता । अनु । शेषा ।  
+> उभा । रजी इति । न । केशिना । पतिः । दन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्येंद्रस्य हरी हरितवर्णावश्च सुयुजा सुष्टु नियोज्यौ । सुशिक्षितानित्यर्थः । विव्रता । व्रतमिति कर्मनाम । विशिष्टकर्माणावर्वंतावरणकुशलौ शेपा
+> शेषवंत् । मत्त्वर्थो लुप्यते । प्रशस्तपुंस्त्वावित्यर्थः । उभोभौ रजी न रजसी
+> द्यावापृथिव्याविव यद्वा महांतौ रंजकौ सूर्याचंद्रमसाविन केशिन् प्रकाशमानौ
+> केशवंत् वा ईदृशावश्च हे इंद्र यस्य ते तव स्वभूत् तयोः पतिः स्वामिा त्वं
+> दन् धनानि प्रयच्छन्ननु नेः । स्तुतशस्त्रादीन्यनुकामयस्व ॥ दन्निति ददातेः शतरि
+> च्छंदस्युभयथेत्यार्थधातुकत्वादातो लोप इट चेत्याकारलोपः । अत एव
+> श्लभावश्च ॥
+
+##### Gist of the bhāṣya
+
+Indra's two bay (green-hued) horses are सुयुजा (*suyujā*), well to be yoked, that is, well trained. विव्रता (*vivratā*): *vrataṃ* is a name for action; so, of distinguished action, skilled in carrying. शेपा (*śepā*) means "having शेप (*śepa*)"; the suffix of possession is dropped; the meaning is "excellent males". उभा रजी न (*ubhā rajī na*): both, like two रजसी (*rajasī*), heaven and earth; or else like the sun and moon, which are great and delightful. केशिना (*keśinā*): shining, or having manes. Of such horses, O Indra, which are yours, you are the lord; giving riches, desire (अनु वेः (*anu veḥ*)) our praises, recitations and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—to you, whose (O Indra)
+- सुयुजा (*suyujā*)—well trained
+- विव्रता (*vivratā*)—of excellent action
+- अर्वंता (*arvaṃtā*)—swift-going
+- शेषा (*śeṣā*)—possessing vigour
+- रजी न (*rajī na*)—like heaven and earth
+- केशिना (*keśinā*)—and shining
+- उभा हरी (*ubhā harī*)—the two bay-coloured horses are your bearers, to them
+- पतिः (*patiḥ*)—you, who are the lord
+- दन् (*dan*)—giving us riches
+- अनु वेः (*anu veḥ*)—look with favour upon our praises and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra: you who have two bay-coloured horses as your bearers, well trained, of excellent action, swift-going, possessing vigour, and shining like heaven and earth — you who are the lord of them, giving us riches, look with favour upon our praises and the rest.
+
+### Printed p. 231
+
+##### English translation
+(O Indra), to whom belong the two bay horses, well-trained, active, swift, courageous. brilliant as the two worlds; you who are lord (of bay horses), bestowing (wealth upon us), desire (our praises).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ योरिंद्रः॒ पाप॑ज॒ आ मर्तो॒ न श॑श्रमा॒णो बि॑भी॒वान् ।  
+> शु॒भे यद्यु॑यु॒जे तनि॑षीवान् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । योः ! इंद्रः । पापजे । आ । मर्तः । न । शश्रमाणः । बिभीवान् ।  
+> शुभे । यत् । युयुजे । तविषीऽवान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रः पापजे । आ इत्यनर्थकः । पापाज्जायत इति पापजो वृत्रः ।
+> तस्मिन्मर्तो न मनुष्य इव शश्रमाणस्तेन सह युद्धे श्राम्यन् बिभीवान् बिभ्यच्च
+> भवति ॥ श्राम्यतेश्चंदसि लिट् । तस्य व्यत्ययेन कानच् ॥ स इंद्रो यद्यदा
+> तविषीवान् मरुद्भिर्बलैर्बलवान्युयुजे युज्यते संपद्यते शुभे शोभार्थं
+> तदा नीमपयोः । तस्य वृत्रस्यापयोरपयोजिता भवति ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is पापजे (*pāpaje*) — the particle आ (*ā*) has no meaning — that is, Vṛtra, who is born of sin (पापाज्जायत (*pāpājjāyata*)): against him, like a mortal man (मर्तो न (*marto na*)), wearying (शश्रमाणः (*śaśramāṇaḥ*)) in battle with him, he becomes afraid (बिभीवान् (*bibhīvān*)). When Indra, who is तविषीवान् (*taviṣīvān*), strong with the forces of the Maruts, is joined (युयुजे (*yuyuje*)), that is, becomes endowed, शुभे (*śubhe*) for splendour, then he becomes the one who drives away (*apayojitā*) that Vṛtra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- पापजे (*pāpaje*)—with Vṛtra, born as the fruit of sin
+- शश्रमाणः (*śaśramāṇaḥ*)—fighting in battle
+- मर्तो न (*marto na*)—like a man
+- बिभीवान् (*bibhīvān*)—became afraid
+- यत् (*yat*)—when
+- तविषीवान् (*taviṣīvān*)—with the Maruts
+- शुभे (*śubhe*)—for strength (for welfare)
+- युयुजे (*yuyuje*)—he joined and shone, then
+- अप योः (*apa yoḥ*)—he became able to drive Vṛtra away
+
+##### भावार्थ (Bhāvārtha)
+
+While fighting in battle with Vṛtra, who was born as the fruit of sin, Indra became afraid like a man. But when, for the accomplishment of his task, he joined with the Maruts, who are endowed with strength, then he became able to drive Vṛtra away.
+
 ---
 
-**Progress note:** Done through printed p. 225. pp. 220-225 (batch API)
+**Progress note:** Done through printed p. 231. pp. 226-231 (batch API)
