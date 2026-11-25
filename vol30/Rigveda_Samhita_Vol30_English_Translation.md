@@ -4970,6 +4970,246 @@ Concluding the praise with this verse, Vamraka makes his request. O mighty Asura
 
 O mighty Indra, in this way Vamraka approaches you, the lord, with his feet, to obtain a great oblation. May Indra, thus approached, bring welfare to Vamraka. May he provide him with all food, sap and an excellent dwelling-place.
 
+### Printed p. 134
+In this manner, O mighty (Indra), Vamraka approached Indra on foot, to bring an ample oblation. May he, being approached, grant us prosperity, may he bring us food, drink, a secure dwelling and all (good things).
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Sāyaṇa has explained the word पद्भिः (*padbhiḥ*) as पादैः (*pādaiḥ*), "with the feet". But Yāska says:
+पद्भिः । वम्रकः पद्भिरुपसर्पदिंद्रं । पानैरिति ना स्पाशनैरिति वा (स्पशनैरिति वा (*padbhiḥ | vamrakaḥ padbhirupasarpadiṃdraṃ | pānairiti nā spāśanairiti vā (spaśanairiti vā*) (Ni. 5-3).
+That is, the sage approaches Indra with drinks such as Soma juice, or with praises; the meaning is that he prays to Indra and invites him. Since Indra is a deity not visible to the eye, to say that he approaches Indra on foot does not seem quite reasonable. Yāska's view, that he prays to and invites Indra with Soma juice fit for drinking or with praises, is the more acceptable.
+
+## Sūkta 100 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नवमेऽनुवाके त्रयोदश सूक्तानि । तत्रेंद्र दृह्येति द्वादशर्चं प्रथमं
+> सूक्तं वंदनपुत्रस्य दुवस्कोरार्षं वैश्वदेवं । द्वादशी त्रिष्टुप् । शिष्टा जगत्यः ।
+> तथा चानुक्रांतं । इंद्र दुवस्युर्वांदनो वैश्वदेवं त्वंत्या त्रिष्टुबिति ॥ गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth anuvāka contains thirteen sūktas. Of them the first, beginning इंद्र दृह्य (*iṃdra dṛhya*), has twelve Ṛks; its seer is Duvasyu, son of Vandana, and its deity the Viśvedevas. The twelfth verse is in Triṣṭubh, the rest in Jagatī. He cites the Anukramaṇī: इंद्र दुवस्युर्वांदनो वैश्वदेवं त्वंत्या त्रिष्टुबिति (*iṃdra duvasyurvāṃdano vaiśvadevaṃ tvaṃtyā triṣṭubiti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+The tenth Maṇḍala's ninth anuvāka contains thirteen sūktas. Among them this sūkta beginning "Indra dṛhya" is the first; it has twelve Ṛks. Its seer is Duvasyu, son of the sage Vandana; its deity is the Viśvedevas. The twelfth Ṛk is in the Triṣṭubh metre, the remaining Ṛks in Jagatī. The Anukramaṇī says इंद्र दुवस्युर्वांदनो वैश्वदैवं त्वंत्या त्रिष्टुप् (*iṃdra duvasyurvāṃdano vaiśvadaivaṃ tvaṃtyā triṣṭup*). The viniyoga was stated earlier.
+
+### Printed p. 135
+Maṇḍala 10; Anuvāka 9; Sūkta 100. Aṣṭaka 8; Adhyāya 5; Varga 16, 17. Number of Ṛks in the sūkta: 12. Seer: Duvasyu Vāndana. Deity: Viśvedevas. Metre: 1–11 Jagatī; 12 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ दृह्य॑ मघव॒न्ता व॒दिद्भु॒ज इ॒ह स्तु॒तः सु॑त॒पा बो॑धि नो  ॒
+> वृधे ।  
+> दे॒वेभि॑र्नः सवि॒ता प्राव॑तु श्रु॒तमा स॒र्वता॑ति॒मदि॑तिं वृणीमहे॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । दृह्य । मघवन् । श्वावत् । इत् । भुजे । इह । स्तुतः । सुतपाः । बोधि ।  
+> नः । वृधे ।  
+> देवेभिः । नः । सविता । प्र । अवतु । श्रुतं । आ । सर्वतातिं । अदितिं । वृणीमहे ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मघवन्थनवन् त्वं त्वावदित् त्वत्सदृशमेव शत्रुबलं दृह्य मारय ।
+> किमर्थ० । भुजेऽस्माकं भोगाय । तदर्थमिहास्मिन्यज्ञे स्तुतः सन् सुतपाः
+> सुतस्याभिषुतस्य सोमस्य पाता बोधि । बुध्यस्व! भवेत्यर्थः । किमर्थ० । नोऽस्माकं
+> वृधे वर्धनाय । किंच देवेभिर्देवैः सह नोऽस्माकं श्रुतं विश्रुतं यज्ञं सविता
+> सर्वस्य स्वस्वकर्मसु प्रेरको देवः प्रावतु । प्ररक्षतु । किंच सर्वतातिं ॥ स्वार्थिकस्तातिल् ॥ सर्वा० सर्वात्मिकां । यद्वा । सवर्ण कायंतेऽस्यामिति सर्तातिः ॥
+> छांदसो दीर्घः ॥ तादृशीमदितिमखंडनीयां देवमातरमा वृणीमहे ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, Maghavan (wealthy one), destroy the enemy's strength that is like your own, for our enjoyment. Being praised here in this sacrifice, be the drinker of the pressed Soma, for our increase." Further: may Savitṛ, the god who impels all to their own works, together with the gods protect our renowned sacrifice. And we long for सर्वतातिं (*sarvatātiṃ*) (the affix tāti is svārthika), the all-embracing; or else, because all are desired in her, सर्तातिः (*sartātiḥ*) with a Vedic lengthening; such an Aditi, the indivisible mother of the gods, we long for.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- त्वावदित् (*tvāvadit*)—an enemy as mighty as you
+- भुजे (*bhuje*)—for our happiness
+- दृह्य (*dṛhya*)—destroy
+- इह (*iha*)—in this sacrifice
+- स्तुतः (*stutaḥ*)—you who are praised
+- सुतर्पा (*sutarpā*)—as protector of Soma
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for growth
+- बोधि (*bodhi*)—know (be mindful)
+- सविता (*savitā*)—Savitṛ
+- देवेभिः (*devebhiḥ*)—with the other gods
+- नः (*naḥ*)—our
+- श्रुतं (*śrutaṃ*)—renowned sacrifice
+- प्रावतु (*prāvatu*)—may he protect
+- सर्वतातिं (*sarvatātiṃ*)—all-pervading
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we respectfully desire and pray to
+
+### Printed p. 136
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, destroy for our happiness the enemy who is as mighty as you. Praised in this sacrifice, be mindful, as protector of Soma, for our growth. May Savitṛ, together with the other gods, protect our renowned sacrifice. We pray to and call upon the all-pervading Aditi.
+
+##### English translation
+Consume, affluent Indra, (the foe that is) like you (in might); praised on this occasion, do you who are the drinker of the libation be favourable to our advancement. May Savitri, with the gods, defend our sacrifice; we long for the universal Aditi.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भरा॑य॒ सु भ॑रत भा॒गमृ॒त्तियं॒ प्र वा॒यवे॑ शुचि॒पे क्रं॒ददि॑ष्टये ।  
+> गौ॒रस्य॒ यः पय॑सः प्री॒तिमा॑न॒श आ स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भराय । सु । भरत । भागं । ऋत्वियं । प्र । वायवे । शुचिपे । क्रंदत् ऽइष्टये ।  
+> गौरस्य । यः । पयसः । प्रीतिं । आनशे । आ । सर्वतातिं । अदितिं । वृणीमहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भराय संग्रामकारिणे सर्वेषां पोषकाय वेंद्रायर्त्वियं काले
+> जातं प्राप्तकालं भागं सु भरत । सुष्टु संपादयत हे ऋत्विजः । तथा शुचिपे
+> शुद्धस्य सोमस्य पात्रे क्रंददिष्टये शब्दितगमनाय । वायोः शीघ्रगमने हि शब्दः
+> प्रत्यक्षः । तादृशाय वायवे देवाय प्र भरत भागमिति शेषः । यो देवो गौरस्य
+> गौरवर्णस्य पशोः पयसः पीतिं पानमानशे प्राप्नोति तस्मै वायवे । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+"O priests, bring well the seasonable share, the portion that has come in due time, to Bhara, the battle-doer and nourisher of all, that is Indra. Likewise to Vāyu, the drinker (शुचिपे (*śucipe*)) of the pure Soma in the cup, क्रंददिष्टये (*kraṃdadiṣṭaye*), whose going is noisy; for the sound of Vāyu's swift going is plain to the eye. Bring the share to such a god Vāyu, who obtains the drinking of the milk of a white-coloured animal." The rest is as already said.
+
+### Printed p. 137
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भराय (*bharāya*)—to Indra, nourisher of all
+- ऋत्वियं (*ṛtviyaṃ*)—suited to each season
+- भागं (*bhāgaṃ*)—the share of the sacrifice
+- सु (*su*)—abundantly
+- भरत (*bharata*)—procure and offer
+- यः (*yaḥ*)—which Vāyu
+- गौरस्य (*gaurasya*)—of the white cow
+- पयसः (*payasaḥ*)—of the milk
+- पितिं (*pitiṃ*)—the drinking
+- आनशे (*ānaśe*)—obtains, such a one
+- शुचिपे (*śucipe*)—the drinker of pure Soma
+- देवायॆ (*devāyè*)—the divine one
+- क्रंददिष्टये (*kraṃdadiṣṭaye*)—whose going makes a noise
+- वायवे (*vāyave*)—to Vāyu
+- प्र (भरत) (*pra (bharata)*)—offer the share of the sacrifice
+- सर्वतातिं (*sarvatātiṃ*)—the all-pervading
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we desire and call
+
+##### भावार्थ (Bhāvārtha)
+
+Offer abundantly to Indra, nourisher of all, the sacrificial share suited to each season. To Vāyu, who desires the drinking of the milk of a white cow, the drinker of pure Soma, divine, whose going makes a noise, offer the sacrificial share. We desire and call the all-pervading Aditi.
+
+##### English translation
+Offer to (Indra) the cherisher (all) the share suited to the season; (offer it) to Vayu, the drinker of the pure (Soma), who clamours as he travels, who obtains a draught of white milk; we long for the universal Aditi.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दे॒वः स॑वि॒ता सा॑विष॒द्वय॑ ऋजूय॒ते यज॑मानाय  ॒
+> सुन्वते ।  
+> यथा॑ दे॒वान्प्र॑ति॒भूषे॑म पाक॒वदा स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥ ३ ॥
+
+### Printed p. 138
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । देवः । सविता । साविषत् । वयः । ऋजुऽयते । यजमानाय । सुन्वते ।  
+> यथा । देवान् । प्रतिऽभूषेम । पाकvत् । आ । सर्वऽतातिं । अदितिं । वृणीमहे॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता सर्वस्य प्रेरकः सूर्यो नोऽस्माकं संबंधिन ऋजूयत ऋजुकामाय सुन्वतेऽभिषवं कुर्वते यजमानाय वयोऽन्नं पाकवत् पाकोपेतं ।
+> व्यवहितमप्येतदत्र संबध्यते । आ साविषत् । अभिमुख्येन प्रसौति ॥ सौतेर्ण्यंताल्लेटि
+> रूपं ॥ यथा येन प्रकारेण देवान्प्रतिभूषेम प्रतिभवेम ॥ भवतेर्लिजि सिष्यप् ।
+> द्विविकरणता ॥ यद्वा ॥ भूष अलंकारे । भौवादिकः ॥ भूषयेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impeller of all, the Sun, is to bring वयः (*vayaḥ*), food, पाकवत् (*pākavat*), cooked, to our sacrificer who desires uprightness and presses Soma; though separated in the verse, this is construed here. आ साविषत् (*ā sāviṣat*): he impels toward us (the form is a leṭ from sū with the causative). यथा (*yathā*): in such manner that we may प्रतिभूषेम (*pratibhūṣema*), come to be in favour with the gods. Or else, from भूष (*bhūṣa*), to adorn, of the bhū class: "that we may adorn".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in what manner
+- देवान् (*devān*)—the gods
+- प्रतिभूषेम (*pratibhūṣema*)—as we adorn (or become worthy of their grace)
+- देवाः (*devāḥ*)—the divine
+- सविता (*savitā*)—god Savitṛ
+- ऋजूयते (*ṛjūyate*)—of upright conduct
+- सुन्वते (*sunvate*)—who presses Soma
+- नः (*naḥ*)—belonging to us
+- यजमानाय (*yajamānāya*)—to the sacrificer
+- पाकवत् (*pākavat*)—cooked (adorned with juices and so on)
+- वयः (*vayaḥ*)—food
+- आ साविषत् (*ā sāviṣat*)—may he supply
+- सर्वतातिं (*sarvatātiṃ*)—the all-embracing
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we desire and pray to
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner that we become worthy of the gods' favour, may the divine Savitṛ supply cooked food, adorned with juices and so on (prepared), to our sacrificer, who is of upright conduct and presses Soma. We desire and pray to the all-embracing Aditi.
+
+##### English translation
+May the divine Savitri generate well-dressed food for our sincere yajamana as he offers the libation, so that we may be in good favour with the gods; we long for the universal Aditi.
+
+### Printed p. 139
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ अ॒स्मे सु॒मना॑ अस्तु वि॒श्वहा॒ राजा॒ सोमः॑ सुवि॒तस्याध्ये॑तु नः ।  
+> यथा॑यथा मि॒त्रधि॑तानि संद॒धुरा स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । अस्मे इति । सुमनाः । अस्तु । विश्वहा । राजा । सोमः । सुवितस्य । अधि ।  
+> एतु । नः ।  
+> यथायथा । मित्रधितानि । संदधुः । आ । सर्वतातिं । अदितिं । वृणीमहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो देवोऽस्मे अस्माकं सुमनाः सुमनस्कोऽनुग्रहचेता अस्तु । भवतु ।
+> विश्वहा सर्वेष्टप्यहःसु । राजा सोमश्च नोऽस्माकं सुवितस्य सुवितं स्तोत्रमध्येतु
+> अधिगच्छतु । यथायथा येन येन प्रकारेणास्माकं मित्रधितानि मित्रनिहितानि धनानि
+> संदधुः तथाधिगच्छतु सोमः । तथेंद्रोऽपि सुमना अस्तित्वि समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+May the god Indra be well-minded toward us, of gracious mind, on all days. And King Soma also: may he अध्येतु (*adhyetu*), take up, our सुवित (*suvita*), praise. In whatever manner मित्रधितानि (*mitradhitāni*), wealth laid up by friends, they bestow upon us, so may Soma take up our praise; so also may Indra be well-minded: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथायथा (*yathāyathā*)—in whatever manner (the gods)
+- मित्रधितानि (*mitradhitāni*)—wealth beneficial like friends
+- संदधुः (*saṃdadhuḥ*)—they provide
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्मे (*asme*)—toward us
+- विश्वहा (*viśvahā*)—on all days
+- सुमनाः (*sumanāḥ*)—of gracious mind
+- अस्तु (*astu*)—let him be
+- राजा (*rājā*)—the lord
+- सोमः (*somaḥ*)—Soma
+- नः (*naḥ*)—our
+- सुवितस्य (*suvitasya*)—praise
+- अध्येतु (*adhyetu*)—let him accept
+- सर्वतातिं (*sarvatātiṃ*)—the all-embracing
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we desire
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner that Indra and Soma bestow on us wealth beneficial like friends, so may Indra be of gracious mind toward us on all days. May Soma, the lord, accept our praise. We desire the all-embracing Aditi.
+
 ---
 
-**Progress note:** Done through printed p. 133. pp. 128-133 (batch API)
+**Progress note:** Done through printed p. 139. pp. 134-139 (batch API)
