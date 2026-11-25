@@ -5423,6 +5423,121 @@ In this sūkta there is a description of the creation, preservation and dissolut
 
 य इमा विश्वा भुवनानि जुह्वत् .... स अवरान् आ विवेश (*ya imā viśvā bhuvanāni juhvat .... sa avarān ā viveśa*): it was stated earlier that the deity of this sūkta is Viśvakarman. Who is this Viśvakarman? What is his nature? It is necessary to examine this closely. As Yāska says, विश्वकर्माविश्वस्य कर्ता (*viśvakarmāviśvasya kartā*), that is, the meaning may be given as: he who has made the universe itself. By universe is meant everything, that is, the whole host of worlds and cosmic eggs, beginning with the world in which we live. This universe
 
+### Printed p. 194
+
+is endless, there is no limit to it. He who has created all this by his wonderful great power is called Viśvakarman. He may be called by any word, such as Parabrahman, Sarveśvara, Paramātmā and so on. For the power to create a universe does not belong to the other ordinary deities. Since it is the Supreme Lord, who is greater than all and all-pervading, who is able to do this work, there is no doubt at all that this Parameśvara is Viśvakarman. It is from this point of view that this sūkta and the following sūktas must be examined and their meaning fitted together. Now, in the sentence य इमा विश्वा भुवनानि जुह्वत् ऋषिर्होता (*ya imā viśvā bhuvanāni juhvat ṛṣirhotā*) it is said that this Sarveśvara made a sacrifice of this whole universe, that is, of the hosts of cosmic eggs, or offered it as an oblation. जुह्वत् (*juhvat*), "made a sacrifice", means here "destroyed". Just as the ghee and other substances offered in the fire merge into the fire itself and are no longer to be found as they were, so the thing that has been offered does not come back. That is, that thing loses its former state and attains a different state. This does not mean that complete destruction takes place; the thing attains an altered condition. That is, the ghee offered in the fire is not destroyed. It is transformed into the form of brilliance. The ghee that was visible to our eyes attains a changed state that is called light or heat. In the same way, when it is said that Viśvakarman sacrificed this universe, that is, the many worlds and all the moving and unmoving things in them, all those worlds are destroyed, that is, they no longer remain in the state in which they are now, but attain another form. That is, in a subtle form they become one with the Supreme Self itself. For all the worlds that arise from the Supreme Self are dissolved in the Supreme Self itself. At the time of creation they arise again from that same Supreme Self.
+
+नि असीदत् पिता नः (*ni asīdat pitā naḥ*)—the words पिता नः (*pitā naḥ*) indicate Viśvakarman, or Sarveśvara, who is our protector and the cause of our origin. After he had sacrificed all the worlds, as said in the sentence above, that is, after he had dissolved (destroyed) them, that Sarveśvara नि असीदत् (*ni asīdat*) remained hidden, himself unperceived by anyone. That is, just as he offered the worlds, he also offered himself. Giving up visibility to the senses, he remained formless, in a subtle state. At that time there were no distinctions of any kind, such as who the Supreme Self is and which are the worlds. Everything was without name and form, and only the Brahman-nature existed. This state of Parabrahman may be called non-being (asat). Non-being does not mean an empty void in which there is nothing; it is the subtle state of the Self (the Supreme Self), which is without name and form, that is, changeless, and all-pervading. Again, at the time of creation, from this changeless Brahman called non-being, the worlds provided with name and form, called being (sat), come into manifestation.
+
+### Printed p. 195
+
+Here the commentator has said: आत्मकृतेन कर्मणा देहोत्पत्तेः । न चैकस्य जन्यजनकभावो विरुध्यते तपोबलेन शरीरद्वयस्वीकारात् । (*ātmakṛtena karmaṇā dehotpatteḥ | na caikasya janyajanakabhāvo virudhyate tapobalena śarīradvayasvīkārāt |*). That is, according to the actions that each performs, the bodies of the respective beings arise. Here Sarveśvara creates, and he himself destroys. And how can he himself be both the cause of the origin of a thing and the thing that has originated? Is this not mutually contradictory? To this the answer is given that by the power of austerity the relation of originator and originated is possible, and that it is possible to take two bodies at the same time by the power of austerity. In the Chāndogya Upaniṣad there is the statement स एकधा भवति (*sa ekadhā bhavati*) (Chā. U. 7-26-2): that Supreme Self, who was in many kinds of forms, becomes one who has a single form. And in the Taittirīya Upaniṣad there is the utterance of the Supreme Self बहु स्यां प्रजायेयेति (*bahu syāṃ prajāyeyeti*): "I wish to become many forms." That is, the meaning contained in these Upaniṣadic sentences is that at the time of creation that Supreme Self itself is in many kinds of forms, and at the time of dissolution becomes one. For all the moving and unmoving things and beings seen in the world are forms of Parabrahman. Apart from Brahman there is no other thing. Therefore that Brahman itself exists in many forms at the time of creation and in a single form at the time of dissolution. This Brahman in the state of dissolution is described by the sentence नि आसीदत् पिता नः (*ni āsīdat pitā naḥ*). In this sentence there is a description of the state that exists after the dissolution and before creation. The state that existed at that time is well described by the 129th sūkta of the tenth maṇḍala of the Ṛg-veda-saṃhitā.
+
+नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् । किमावरीवः कुह कस्य शर्मन्नंभः किमासीद्गहनं गभीरं । न मृत्युरासीदमृतं न तर्हि न रात्रा अह्न आसीत्पकेतः । आनीदवातं स्वधया तदेकं तस्माद्दान्यन्न परः किंचनास । तम आसीत्तमसा गूळ्वमग्रेऽप्रकेतं सलिलं सर्वमा इदं ॥ (*nāsadāsīnno sadāsīttadānīṃ nāsīdrajo no vyomā paro yat | kimāvarīvaḥ kuha kasya śarmannaṃbhaḥ kimāsīdgahanaṃ gabhīraṃ | na mṛtyurāsīdamṛtaṃ na tarhi na rātrā ahna āsītpaketaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmāddānyanna paraḥ kiṃcanāsa | tama āsīttamasā gūḷvamagre 'praketaṃ salilaṃ sarvamā idaṃ ‖*) (Ṛ. Saṃ. 10-129-1,2,3)
+
+Before creation there was none of the manifest and unmanifest things that are called being and non-being. There were neither worlds nor space, nor any other thing that could be identified. There was no other thing that could cover it. There were neither pleasure and pain and the like, nor beings fit to experience them. What else was there? Was there water filling everything, boundless and like an ocean? That too was not there. Since the beings themselves were not there, death too was not there, and there was no enjoyable substance called nectar (amṛta). There was neither day nor night. When the sun and the moon themselves were not there, whence could there be night and day? Therefore there was neither night and day nor any division of time. Then what else was there? Brahman alone was there. Other than that Parabrahman substance, nothing else was there. It was not there in a manifest form.
+
+### Printed p. 196
+
+Just as darkness is not seen, so that Brahman was beyond the reach of sight and, like water, all-pervading. Such is the description. We shall explain this matter in detail in that context.
+
+स आशिषा द्रविणं इच्छमानः प्रथमच्छत् अवरान् आ विवेश (*sa āśiṣā draviṇaṃ icchamānaḥ prathamacchat avarān ā viveśa*)—as explained before, is the state that existed before creation always present? If it is not, how did the creation of this world and the rest, which we now see, come about? This matter is explained by the sentence स आशिषा (*sa āśiṣā*), the second half of this Ṛk. Has it not been said before that in the state before creation only Parabrahman, in an unmanifest form, existed and that nothing else existed? As described in the śruti sentences आत्मावा इदमेक एवाग्रआसीत् । सदेव सोम्येदमग्र आसीत् । (*ātmāvā idameka evāgraāsīt | sadeva somyedamagra āsīt |*), at that time only the thing called Brahman or the Self existed; nothing else existed. After some time there arose in that Brahman the wish to create. Then that Self, or Parameśvara, desired बहु स्यां प्रजायेय (*bahu syāṃ prajāyeya*), "to take many forms", that is, he wished to create worlds and the rest in many varieties. This is explained in the Taittirīya Upaniṣad in this way:
+
+सोकामयत । बहु स्यां प्रजायेयेति। स तपोऽतप्यत । स तपस्तप्ता । इदग्ं सर्वमसृजत । यदिदं किंच । तत्सृष्टा । तदेवानुप्राविशत् । (*sokāmayata | bahu syāṃ prajāyeyeti| sa tapo 'tapyata | sa tapastaptā | idagṃ sarvamasṛjata | yadidaṃ kiṃca | tatsṛṣṭā | tadevānuprāviśat |*) (Tai. U. 8.6)**NOTE**.
+
+Then Parameśvara wished to attain many forms. For that he performed austerity and created this world. After creating it he entered all the moving and unmoving things and beings of the world; that is, the Self (Brahman) itself became manifest, or was transformed, in various forms: this is the meaning. He entered the things he had created, that is, he filled all things with consciousness. There is no thing in this world that is without the consciousness that is a part of the Supreme Self; it is not even possible for there to be one. When the Supreme Self itself became manifest in many forms (that is, when the world was created), it is quite natural that this whole world, which consists of parts of the Supreme Self, is endowed with the consciousness of that Self.
+
+The main summary is this. In this Ṛk the Parameśvara (called here Viśvakarman) withdrew (destroyed) all these worlds that are visible to the eye; this is the dissolution. After that, for a long time only the Self, or the Brahman substance, in an unmanifest form existed. Nothing else existed. Then there arose in Brahman the wish to create, that is, the wish to become manifest himself in many forms. Accordingly, he created the world and the various kinds of moving and unmoving things and the beings in it, and entered them as the inner controller. This matter is set forth in this Ṛk.
+
+### Printed p. 197
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किं स्वि॑दासीदधि॒ष्ठान॑मा॒रंभ॑णं कत॒मत्स्वि॑त्क॒थासी॑त् ।  
+> यतो॒ भूमिं॑ ज॒नय॑न्वि॒श्वक॑र्मा॒ वि द्यामौर्णो॑न्महि॒ना  ॒॑
+> विश्वचक्षाः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । स्वित् । आसीत् । अधिस्थानं । आरंभणं । कतमत् । स्वित् । कथा । आसीत् ।  
+> यतः । भूमिं । जनयन् । विश्वकर्मा । वि । द्यां । और्णोत् । महिना । विश्वचक्षाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैश्वदेवस्य पशोर्वपाया अनुवाक्का किं स्विदित्येषा । सूत्रितं च । किं
+> स्विदासीदधिष्ठानं यो नः पिता जनिता । आ. ३-८ । इति ॥
+> पूर्वमंत्रे जगत्पलयकाले संहृत्य पश्चात्सिसृक्षायां सर्वं सृष्ट्वा तत्र
+> प्रविष्ट इत्युक्तं । तत्र तस्य द्वितीयस्याधिष्ठानजगदुपादानकारणाद्यसंभवात्सृष्टिरनुषपन्नेत्याक्षिपति । लोके हि घटं चिकीर्षुः कुलालो गृहादिकं किंचित्सा नमधिष्ठाय
+> मृद्रूपेण रंभद्रव्येण चक्रादिरूपैरुपकरणैर्घटं निष्पादयति । तद्वदीश्वरस्य
+> जगदाश्रयद्यावापृथिव्योरुत्पादनवेलायामधिष्ठानं किं स्विदासीत् । किं नामाभूत् । न किंचिदित्यर्थः । तथा तयोरारंभणं कतमत्स्मित् । आरभ्यतेऽनेनेत्यारंभणमुपादानकारणं । तदपि कतमद्भवेत् । तदपि नेत्यर्थः । यद्यपि संभवेदारंभणं
+> कथासीत् । कथमभूत् । किं स्वयं सदसद्वा भवेदित्यर्थः । उभयमपि
+> नोपपद्यते । सच्चेत् अद्वैतभंगप्रसंगः । असच्चेत् सदात्मकयोर्द्यावापृथिव्यो:-
+> रुपादानानर्हत्वात् । नान्यत्किंचन मिषत् । ऐ. आ. २-४.१ । इति श्रुतेश्चेत्यभिप्रायः ।
+> यतो यस्मादधिष्ठानादारंभणाच्च विश्वचक्षाः सर्वद्रष्टा विश्वकर्मा परमेश्वरो
+> भूमिं जनयन्वर्तते तथा द्यां दिवं व्यौर्णोत् व्यवृणोत् सृष्टवान् महिना
+> स्वमहत्त्वेन । किं स्विदासीदिति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk, beginning किं स्वित् (*kiṃ svit*), is the anuvākyā for the offering of the omentum (vapā) of the animal belonging to the Viśvedevas. It is also stated in the sūtra: किं स्विदासीदधिष्ठानं यो नः पिता जनिता (*kiṃ svidāsīdadhiṣṭhānaṃ yo naḥ pitā janitā*) (Ā. 3-8).
+
+Sāyaṇa says that in the previous mantra it was stated that at the time of dissolution the Lord withdrew the world, and afterwards, when the desire to create arose, created everything and entered it. Here an objection is raised: since for him, who is without a second, there could be no support, no material cause of the world and the like, creation is not possible. In the world, a potter who wishes to make a pot takes his stand on some place such as a house, and with earth as the material and with implements such as the wheel produces the pot. In the same way, for Īśvara, at the time of producing heaven and earth, which are the support of the world, what was the support? What was there? Nothing, is the meaning. Likewise, what was the आरंभणं (*āraṃbhaṇaṃ*) of those two, that is, that by which a thing is begun, the material cause? What could that be? That also was not, is the meaning. Even if it were possible, how was it? Would it itself be being or non-being? Neither is tenable. If it were being, there would be a breach of non-duality. If it were non-being, it could not be the material of heaven and earth, which consist of being. The scripture too says that nothing else existed (Ai. Ā. 2-4.1): such is the intention. Out of which support and which material the all-seeing Viśvakarman, the Supreme Lord, has been producing the earth, and likewise disclosed (made) heaven, by his own greatness: that is the question; what was it?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतः (*yataḥ*)—from which support and original cause
+- विश्वचक्षा (*viśvacakṣā*)—all-seeing
+- विश्वकर्मा (*viśvakarmā*)—the Lord of the worlds
+- भूमिं (*bhūmiṃ*)—the earth
+- जनयन् (*janayan*)—producing
+- महिना (*mahinā*)—by his greatness
+- द्यां (*dyāṃ*)—the whole heaven-world
+- व्यार्णोत् (*vyārṇot*)—did he create
+
+### Printed p. 198
+
+- अधिष्ठानं (*adhiṣṭhānaṃ*)—the support for the creation of this world
+- किं स्वित् आसीत् (*kiṃ svit āsīt*)—what was there
+- आरंभणं (*āraṃbhaṇaṃ*)—the original cause for the production
+- कतमत् स्वित् (*katamat svit*)—what was it
+- कथा आसीत् (*kathā āsīt*)—in what manner was it
+
+##### भावार्थ (Bhāvārtha)
+
+The all-seeing Lord of the worlds, producing the earth and creating the whole heaven-world by his greatness: from what support and original cause did he do so? What was the support for the creation of this world? What was the original cause of its production? What was its manner? What was its nature?
+
+##### English translation
+What was the station ? what was the material ? how was (it done) ?
+so that the beholder of all, Vishwakarman (was) generating and disclosed
+
+##### विशेषविषयगळु (Special Topics)
+
+When the offering of the omentum in the animal sacrifice made for the Viśvedevas is performed, this Ṛk beginning किं स्वित् (*kiṃ svit*) is to be recited as the anuvākyā mantra; this is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra किं स्विदासीदधिष्ठानं यो नः पिता जनिता । (*kiṃ svidāsīdadhiṣṭhānaṃ yo naḥ pitā janitā |*) (Ā. 3-8).
+
+In the previous Ṛk the nature of the dissolution of the world was stated; after some time the Supreme Lord wished to create again, created accordingly, and afterwards it was said that the Supreme Self entered all the moving and unmoving things that had been created. It has also been stated that before creation only the Brahman substance existed and that nothing else existed. It is known to everyone in worldly practice that, if a thing is to be made, three things are absolutely necessary: the place in which to make it, the original material, and the person who makes it. Since at the time of dissolution the Supreme Lord alone existed and no other thing existed, this Ṛk states how this creation could be possible.
+
+If an example is given, it will be easier to understand the matter well. Suppose a potter makes a pot. A place is needed for making the pot. The original material needed for the pot, that is, clay, is needed. The instruments, the wheel, water and a stick, are needed. The maker, that is, the potter, who can make the pot by using all these with his intelligence, is needed. Only if all this exists is it possible to make the pot; otherwise it is not. Now at the time of dissolution the Supreme Self, who is the maker for creation, was indeed there. But where was the place? Where were the original material (Raw Materials) needed for the creation of the world, and the instruments? There was none of them. Yet the Supreme Self created the world. The seer examines this in this Ṛk by way of question and answer and explains how creation took place.
+
+### Printed p. 199
+
+अधिष्ठानं किं स्वित् आसीत् (*adhiṣṭhānaṃ kiṃ svit āsīt*)—at the time of the creation of the world, what was the support for the creation of this world? Since the heaven and earth that we now see, that is, the three worlds, earth, atmosphere and heaven, did not exist then, standing where, and how, did the Supreme Self make these worlds? That is, there was then no support at all for the creation of the worlds.
+
+आरंभणं कतमत्स्वित् (*āraṃbhaṇaṃ katamatsvit*)—besides this, what was the original material (Raw Materials) needed for it at the beginning of making a thing? There was none. By original material is meant that, for making a pot, clay is the original material; for making cloth, cotton is the original material; for making vessels, metal is the original material; for making tables, chairs, cots and the like, wood (the tree) is the original material, and so on. This being so, what original material was there at that time for making this heaven and earth? There was none.
+
+कथा आसीत् (*kathā āsīt*)—as said above, when neither place nor original material existed, the seer asks how this work of creation came about. In the Upaniṣads and other works it is said: असद्वा इदमग्र आसीत् । ततो वै सदजायत (*asadvā idamagra āsīt | tato vai sadajāyata*). That is, before creation there was non-being (asat), that which is nothing; from it being (sat), existence or the state, came into being, it is said. If a thing called being existed before creation and the world was created from it (from that original material), then the Supreme Self and being would be two things. If there are two things, where is non-duality? Therefore that is not right. Well, if non-being alone existed, how is it possible for heaven and earth, which are called being, to arise from non-being (from the void)? That is, the question naturally arises: how is it possible to create a new thing when there is nothing? According to what modern scientists say, "Nothing can be lost or nothing can be created": no thing can be completely destroyed, and likewise no new thing can be made without the help of an original material. This statement is a point to be noted especially in the principles of the Vedānta. On the basis of this very statement the nature of the creation, continuance and dissolution of the world is explained with discussion in the Vedānta principles, that is, in the Upaniṣads and the like. We shall explain all those in another context. Therefore it is stated here that neither being nor non-being was of help to the Supreme Self in the work of creation.
+
+If so, यतो भूमिं जनयन् विश्वकर्मा विद्यामौर्णोत् (*yato bhūmiṃ janayan viśvakarmā vidyāmaurṇot*): how did Viśvakarman, the Supreme Lord, produce this heaven and earth? Thus the seer asks. In answer to this,
+
+### Printed p. 200
+
+महिना विश्वचक्षाः (*mahinā viśvacakṣāḥ*), the last sentence, he says there itself. That is, Viśvakarman has created this world by his great majesty. Here the word विश्वचक्षाः (*viśvacakṣāḥ*) is a qualifying word describing the unfathomable majesty of Viśvakarman. This Supreme Lord is one who can see, that is, can know, everything. Because he himself has been transformed into all moving and unmoving things, or because he has entered all created things as the inner controller and is the impeller of the movements of beings, there is nothing that is not seen or not known to this Supreme Lord, that is, to Viśvakarman. Therefore it should be understood that here the qualifying words विश्वचक्षाः (*viśvacakṣāḥ*) and महिना (*mahinā*), describing the unfathomable majesty of Viśvakarman, have been used. What would be understood of the nature of his majesty merely by saying "the great majesty of Viśvakarman"? What is the nature of that majesty? Is it possible for that majesty to be in others also? The seer has described these matters in detail in the next Ṛk.
+
+If the creation of the world made by Īśvara is examined from the worldly point of view, a question naturally arises. The instruments and materials needed for worldly creation are not found here. For example, a potter who wishes to make a pot (ghaṭa) must have such instruments and materials as अधिष्ठान (*adhiṣṭhāna*) and आरंभण (*āraṃbhaṇa*). Adhiṣṭhāna means a place necessary for the making of the pot. Ārambhaṇa means the material cause (upādāna-kāraṇa). For the making of a pot, clay is the material cause (the potter is the efficient cause, nimitta-kāraṇa). Just as a pot is not possible without clay, so the creation of the world is not possible without a material cause. Īśvara (Prajāpati, Viśvakarman: it has been stated above that all these are synonyms), at the time of dissolution, as the performer of the sacrifice in the form of withdrawal, offers the whole world as an oblation in this sacrifice, and after the complete dissolution he alone remains. While he remains without a second, the wish to create (sisṛkṣā) arises in him. Then there is neither a support in the form of a place (adhiṣṭhāna) needed for creation nor a material cause. The objection how the creation of the world is possible is natural here. Therefore in this Ṛk the question is asked in this way.
+
+From which adhiṣṭhāna and ārambhaṇa has Īśvara (Viśvakarman) created heaven and earth? What is the nature of this material cause? That is the question. If there were any material cause at all, what would its nature be? Apart from Īśvara there was no other existing substance. For the making of a world that consists of being, an ārambhaṇa that consists of being is absolutely necessary. From a thing of the form of non-being it is not possible to make a world of the form of being.
+
 ---
 
-**Progress note:** Done through printed p. 193. Sūkta 81 Ṛk 1: Special Topics pp. 188-193
+**Progress note:** Done through printed p. 200. Viśvakarman sūkta: commentary on Ṛk 1 (dissolution), Ṛk 2 text, bhāṣya, commentary
