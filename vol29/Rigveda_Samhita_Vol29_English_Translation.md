@@ -7526,6 +7526,147 @@ Aditi, of undivided nature, is the producer of the whole universe. She is the mo
 
 अग्निर्मूर्धा चक्षुषी चंद्रसूर्यौ दिशः श्रोत्रे वाग्विवृताश्च देवाः । वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभृतांतरात्मा ॥ (*agnirmūrdhā cakṣuṣī caṃdrasūryau diśaḥ śrotre vāgvivṛtāśca devāḥ | vāyuḥ prāṇo hṛdayaṃ viśvamasya padbhyāṃ pṛthivī hyeṣa sarvabhṛtāṃtarātmā ‖*) (Kara. 2-1-10) **NOTE**
 
+### Printed p. 292
+
+Fire is the head of this universal Self. The sun and the moon are his eyes. The quarters are his ears. His speech is the Vedas. The wind is his breath. The whole world is his heart. From his feet this earth, which spreads out, has come into being. He is also the inner Self of all beings. Thus the description of the endlessness of this Self is given in the special topics of the Puruṣa-sūkta.
+
+This verse also states that water is the first supporting abode of this embryo of the universe. In many places water is called Brahman, and the two are declared to be identical. As the world is pervaded by Brahman, so it is pervaded by water. How? Thus—
+
+आप एनेमा मूर्ता येयं पृथिवी यदंतरिक्षं यद्भौरत्यर्वता यद्देवमनुष्या यत्पशवश्च वयांसि च तृणवनस्पतयः श्वापदान्याकीटपतंगपिपीलिकमाप एनेमा मूर्ता अप उपास्वेति ॥ (*āpa enemā mūrtā yeyaṃ pṛthivī yadaṃtarikṣaṃ yadbhauratyarvatā yaddevamanuṣyā yatpaśavaśca vayāṃsi ca tṛṇavanaspatayaḥ śvāpadānyākīṭapataṃgapipīlikamāpa enemā mūrtā apa upāsveti ‖*) (Chā. U. 7-10-1)
+
+Water that pervades the universe takes on all the embodied forms of the universe: the earth, the atmosphere, the heavenly world, the mountains, the gods, men, cattle, birds, grass, trees, beasts of prey, worms, insects, ants. All things, from those of great extent down to those of the smallest size, are only transformations of water. Water itself has taken all these forms. Therefore meditate on water.
+
+योऽपो ब्रह्मत्युपास्त आप्नोति सर्वकामांस्कृप्ति मान्भवति । (*yo 'po brahmatyupāsta āpnoti sarvakāmāṃskṛpti mānbhavati |*) (Chā. U. 7-10-2)
+
+Those who meditate upon this water as Brahman, with contemplation, obtain all desired ends and attain contentment. The order in which the whole world arose from this water, and its details, is stated in the Bṛhadāraṇyaka as follows.
+
+आप एवेदमग्र आसुस्ता अपः सत्यमसृजंत सत्यं ब्रह्म ब्रह्म प्रजापतिं प्रजापतिर्देवांस्ते देवाः सत्यमेवोपासते तदेतत्क्षरं सत्यं ॥ (*āpa evedamagra āsustā apaḥ satyamasṛjaṃta satyaṃ brahma brahma prajāpatiṃ prajāpatirdevāṃste devāḥ satyamevopāsate tadetatkṣaraṃ satyaṃ ‖*) (Bṛ. U. 5-5-1)
+
+Before the creation of the world, water alone pervaded everywhere at first. From the water, truth appeared. From truth came Brahmā, from Brahmā Prajāpati, and from Prajāpati all the gods. The gods worship this truth alone. This truth, which has the three syllables स, ति, यं (*sa, ti, yaṃ*), is the universal Self. How these three syllables reflect the universe will be told later. The purport is that water is also the support of truth, which is the support of the world.
+
+### Printed p. 293
+
+अप एवैनदभ्यवहरामापो वा अस्य सर्वस्य प्रतिष्ठा तद्यत्रास्य सर्वस्य प्रतिष्ठा तदेनप्रतिष्ठाप्य यदत्राग्नेयं तदद्भोऽधि जनयिष्याम ॥ (*apa evainadabhyavaharāmāpo vā asya sarvasya pratiṣṭhā tadyatrāsya sarvasya pratiṣṭhā tadenapratiṣṭhāpya yadatrāgneyaṃ tadadbho 'dhi janayiṣyāma ‖*) (Śa. Brā. 6-8-2-2)
+
+Water is the root and the support of the whole universe. By placing this ash in it, the true form of fire is, as it were, established in water.
+
+तद्यत्तत्सत्यं । आप एव तदापो हि वै सत्यं तस्माद्येनापो यंति तत्सत्यस्य रूपमित्याहुरप एव तस्य सर्वसाग्रमकुर्वंस्तस्माद्यदैवापो यन्त्यथेदग्ं सर्वं जायते यदिदं किंच ॥ (*tadyattatsatyaṃ | āpa eva tadāpo hi vai satyaṃ tasmādyenāpo yaṃti tatsatyasya rūpamityāhurapa eva tasya sarvasāgramakurvaṃstasmādyadaivāpo yantyathedagṃ sarvaṃ jāyate yadidaṃ kiṃca ‖*) (Śa. Cā. 7-4-1.-6) **NOTE**
+
+What was said above in the Bṛhadāraṇyaka Upaniṣad, that water, the chief cause of the whole world, is of the nature of all truth, is here explained still more fully. The meaning is that wherever water flows, there flow also a part and a form of truth. Before the creation of the world there was water. From it creation spread, and as its result all things came into being. How was that? What was the order? How did it hold the embryo of the form of Viśvakarman? What is meant by saying that all the gods are contained here? The explanation is as follows—
+
+आपो ह वा इदमग्रे सलिलमेवास । ता अकामयंत कथं नु प्रजायेमहीति ता आश्राम्यंस्तास्तपोऽतप्यंत तासु तपस्तप्यमानासु हिरण्मयमांडग्ं संबभूवाजातो ह तर्हि संवत्सर आस तदिदग्ं हिरण्मयमांडं यावत्संवत्सरस्य वेला तावत्पर्यप्लवत । (*āpo ha vā idamagre salilamevāsa | tā akāmayaṃta kathaṃ nu prajāyemahīti tā āśrāmyaṃstāstapo 'tapyaṃta tāsu tapastapyamānāsu hiraṇmayamāṃḍagṃ saṃbabhūvājāto ha tarhi saṃvatsara āsa tadidagṃ hiraṇmayamāṃḍaṃ yāvatsaṃvatsarasya velā tāvatparyaplavata |*) (Pa. Prā. 11-1-6-1) **NOTE**
+
+Before creation there was nothing else but water. Then those waters, desiring their own increase, thought: "How may we multiply and grow?" They exerted themselves and practised austerity. As the fruit of that austerity a golden egg came into being. At that time the division of time called the year did not exist. This golden egg floated on the water for the length of a year.
+
+ततः संवत्सरे पुरुषस्समभवत् । स प्रजापतिस्तस्मादु संवत्सर एव स्त्री वा गौर्वा वडबा वा विज्ञायते संवत्सरे हि प्रजापतिरजायत स इदग्ं हिरण्यमांडं व्यरुजन्नाह तर्हि काचन प्रतिष्ठास तदेनमिदमेव हिरण्मयमांडं यावत्संपत्सरस्य वेलासीत्तावद्भिभ्रत्पर्यप्लवत । (*tataḥ saṃvatsare puruṣassamabhavat | sa prajāpatistasmādu saṃvatsara eva strī vā gaurvā vaḍabā vā vijñāyate saṃvatsare hi prajāpatirajāyata sa idagṃ hiraṇyamāṃḍaṃ vyarujannāha tarhi kācana pratiṣṭhāsa tadenamidameva hiraṇmayamāṃḍaṃ yāvatsaṃpatsarasya velāsīttāvadbhibhratparyaplavata |*) (Śa. Brā. 11-1-62) **NOTE**
+
+### Printed p. 294
+
+After a year the Puruṣa, in the form of Prajāpati, came into being. [By this rule, woman, cow and mare also bring forth after the span of a year.] Prajāpati, who arose after the year, split this golden egg. As there was then no support, whether in the form of earth or in any other form, this golden egg itself carried Prajāpati for the length of a year.
+
+चतुरक्षरः संवत्सरश्चतुरक्षरः प्रजापतिस्तेनो हैवास्येष प्रतिमा ॥ (*caturakṣaraḥ saṃvatsaraścaturakṣaraḥ prajāpatisteno haivāsyeṣa pratimā ‖*) (Śa. Brā. 11-1-6-13)
+
+Prajāpati and the year are each of four syllables. Therefore the year is like an image of Prajāpati. Moreover—
+
+ता वा एताः । प्रजापतेरधिदेवता असृज्यंताग्निरिंद्रः सोमः परमेष्ठी प्राजापत्यः ॥ ताः सहस्रायुषो जज्जिरे ॥ (*tā vā etāḥ | prajāpateradhidevatā asṛjyaṃtāgniriṃdraḥ somaḥ parameṣṭhī prājāpatyaḥ ‖ tāḥ sahasrāyuṣo jajjire ‖*) (Śa. Brā. 11-1-6-14)
+
+Indra, Agni, Soma and Parameṣṭhin Prājāpatya, these four deities, arose from Prajāpati and reflect the four syllables of the name Prajāpati; so it is explained. Moreover, the explanation of the passage यत्र देवाः समगच्छंत विश्वे (*yatra devāḥ samagacchaṃta viśve*) is given in the Bṛhadāraṇyaka as follows. (All the gods are united in Brahman and have become of the form of Brahman.)
+
+अथ हैनं विदग्धः शाकल्यः पप्रच्छ कति देवा याज्ञवल्कॆति स हैतयेव निविदा प्रतिपेदे यावंतो वैश्वदेवस्य निविद्युच्यंते त्रयश्च त्रि च शता श्रयश्च श्री च सहस्रेत्योमिति होवाच॥ कत्येव देवा याज्ञवल्कॆति त्रयस्त्रिंशदित्योमिति होवाच कत्येव देवा याज्ञवल्कॆति षडित्योमिति होवाच कत्येव देवा याज्ञवल्कॆति त्रय इत्योमिति होवाच कत्येव देवा याज्ञवल्कॆति द्वावित्योमिति होवाच कत्येव देवा याज्ञवल्कॆत्यर्थमित्यों इति होवाच कत्येव देवा याज्ञवल्कॆत्येक इत्योमिति होवाच कतमे ते त्रयश्च त्रि च शता त्रयश्च त्रि च सहस्रेति ॥ (*atha hainaṃ vidagdhaḥ śākalyaḥ papraccha kati devā yājñavalkèti sa haitayeva nividā pratipede yāvaṃto vaiśvadevasya nividyucyaṃte trayaśca tri ca śatā śrayaśca śrī ca sahasretyomiti hovāca‖ katyeva devā yājñavalkèti trayastriṃśadityomiti hovāca katyeva devā yājñavalkèti ṣaḍityomiti hovāca katyeva devā yājñavalkèti traya ityomiti hovāca katyeva devā yājñavalkèti dvāvityomiti hovāca katyeva devā yājñavalkètyarthamityoṃ iti hovāca katyeva devā yājñavalkètyeka ityomiti hovāca katame te trayaśca tri ca śatā trayaśca tri ca sahasreti ‖*) (Bṛ. U. 3-9-1)
+
+Vidagdha Śākalya questions Yājñavalkya: "O Yājñavalkya, how many are the gods?" The answer: "As many as are stated in the Nivid-mantras recited to the Viśvedevas, that is, three hundred and three, and three thousand and three."
+
+"That is so. How many are the gods?" he keeps asking. In answer Yājñavalkya shows the number step by step in this manner.
+
+### Printed p. 295
+
+To the second question he answered that the number is thirty-three, to the third, six, the fourth time, three, to the fifth question, two, then one and a half, and at last just one.
+
+Then Śākalya asks: "You said three hundred and three and three thousand and three; who and who are they?" As an answer to that:
+
+स होवाच महिमान एवैषामेते त्रयस्त्रिंशत्त्वेव देवा इति कतमे ते त्रयस्त्रिंशदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिंद्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति ॥ (*sa hovāca mahimāna evaiṣāmete trayastriṃśattveva devā iti katame te trayastriṃśadityaṣṭau vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadiṃdraścaiva prajāpatiśca trayastriṃśāviti ‖*) (Bṛ. U. 3-9-2)
+
+When Yājñavalkya said that all those three hundred and three and three thousand and three are only special glories of the thirty-three chief gods, Śākalya asked: "Who are those thirty-three gods?" Then Yājñavalkya said: "The eight Vasus, the eleven Rudras and the twelve Ādityas make thirty-one. With Indra and Prajāpati they make thirty-three."
+
+कतमे ते वसव इत्यग्निश्च पृथिवी च वायुश्चांतरिक्षं चादित्यश्च द्यौश्च चंद्रमाश्च नक्षत्राणि चैते वसव एतेषु हीदं सर्वं हितमिति तस्माद्वसव इति (*katame te vasava ityagniśca pṛthivī ca vāyuścāṃtarikṣaṃ cādityaśca dyauśca caṃdramāśca nakṣatrāṇi caite vasava eteṣu hīdaṃ sarvaṃ hitamiti tasmādvasava iti*) (Bṛ. U. 3-9-3)
+
+Who are the Vasus? Fire, earth, wind, atmosphere, the sun, the heavenly world, the moon and the stars: these are the Vasus. Because all beings are placed in these to dwell, all these are called Vasus.
+
+कतमे रुद्रा इति दशेमे पुरुषे प्राणा आत्मैकादशस्ते यदाऽस्माच्छरीरान्मर्त्याद्तुत्क्रामन्यथ रोदयंति तद्यद्रोदयंति तस्माद्रुद्रा इति ॥ (*katame rudrā iti daśeme puruṣe prāṇā ātmaikādaśaste yadā 'smāccharīrānmartyādtutkrāmanyatha rodayaṃti tadyadrodayaṃti tasmādrudrā iti ‖*) (Bṛ. U. 3-9-4)
+
+Who are the Rudras? The ten vital breaths in a man together with the mind (the Self) make the eleven Rudras. When they leave the body they make (the relatives) weep. Therefore they bear the name Rudra.
+
+कतम आदित्या इति द्वादश वै मासाः सुवत्सरस्यैत आदित्या एते हीदं सर्वमाददाना यंति ते यदिदं सर्वमावदाना यंति तस्मादादित्या इति ॥ (*katama ādityā iti dvādaśa vai māsāḥ suvatsarasyaita ādityā ete hīdaṃ sarvamādadānā yaṃti te yadidaṃ sarvamāvadānā yaṃti tasmādādityā iti ‖*) (3-9-25) **NOTE**
+
+### Printed p. 296
+
+Who are the Ādityas? The twelve months of the year are known as the twelve Ādityas. Because they move along taking everything into themselves, they bear the name Āditya, he said.
+
+कतम इंद्रः कतमः प्रजापतिरिति स्तनयित्नुरेवेंद्रो यज्ञः प्रजापतिरिति कतमः स्तनयित्नुरित्यशनिरिति कतमो यज्ञ इति पशव इति ॥ (*katama iṃdraḥ katamaḥ prajāpatiriti stanayitnureveṃdro yajñaḥ prajāpatiriti katamaḥ stanayitnurityaśaniriti katamo yajña iti paśava iti ‖*) (Bṛ. U. 3-9-6)
+
+Who is Indra? Who is Prajāpati? The thundering cloud is Indra. The sacrifice is Prajāpati. What is the thundering of the cloud? The thunderbolt. What is the sacrifice? The cattle.
+
+कतमे षडित्यग्निश्च पृथिवी च वायुश्चांतरिक्षं चादित्यश्च द्यौश्चैते षडेते हीदं सर्वं षडिति ॥ (*katame ṣaḍityagniśca pṛthivī ca vāyuścāṃtarikṣaṃ cādityaśca dyauścaite ṣaḍete hīdaṃ sarvaṃ ṣaḍiti ‖*) (Bṛ. U. 3-9-7)
+
+Whom does the number six indicate? Fire, earth, wind, atmosphere, the sun and the heavenly world: these are the six.
+
+कतमे ते त्रयो देवा इतीम एव त्रयो लोका विषु हीमे सर्वे देवा इति कतमौ तौ द्वा देवावित्यन्नं चैव प्राणश्चेति कतमोऽध्यर्ध इति योऽयं पवत इति ॥ (*katame te trayo devā itīma eva trayo lokā viṣu hīme sarve devā iti katamau tau dvā devāvityannaṃ caiva prāṇaśceti katamo 'dhyardha iti yo 'yaṃ pavata iti ‖*) (Bṛ. U. 3.9-8)
+
+Who are the three gods? The three worlds, in which all the gods dwell, are the three gods. Who are the two? Food and breath. Who is the one and a half? The wind that blows here.
+
+तदाहुर्यदयमेक इवैव पवतेऽथ कथमध्यर्ध इति यस्मिन्निदं सर्वमध्याध्नोत्तेनाध्यर्ध इति कतम एको देव इति प्राण इति सब्रह्म सदित्याचक्षते॥ (*tadāhuryadayameka ivaiva pavate 'tha kathamadhyardha iti yasminnidaṃ sarvamadhyādhnottenādhyardha iti katama eko deva iti prāṇa iti sabrahma sadityācakṣate‖*) (Bṛ. U. 3-9-9)
+
+The wind that blows here is the one god indicated by a single number. Because everything grew while it blew, the number one and a half came to designate it. Who is the god indicated by the number one? Breath. That is Brahman, that is of the nature of truth. Thus, because all the gods are contained in Brahman, it is declared that all are gathered together in Brahman, who is of the form of Viśvakarman.
+
+### Printed p. 297
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिद्दर्भं॑ प्रथ॒मं द॑ध्र॒ आपो॒ यत्र॑ दे॒वाः स॒मग॑च्छंत॒ विश्वे॑ ।  
+> अ॒जस्य॒ नाभा॒वध्येक॒मर्पि॑तं॒ यस्मि॒न्विश्वा॑नि॒ भुव॑नानि त॒स्थुः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । इत् । गर्भं । प्रथमं । दध्रे । अपः । यत्र । देवाः । सं अगच्छंत । विश्वे ।  
+> अजस्य । नाभौ । अधि । एकं । अर्पितं । यस्मिन् । विश्वानि । भुवनानि । तस्थुः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया पूर्वमंत्रोक्तस्य प्रश्नस्कोत्तरमभिधीयते । तमित्तमेव विश्वकर्माणं गर्भं गर्भस्थानीयं प्रथममितरसृष्टेः पूर्वमापो दध्रे । दृतवत्यः ।
+> यत्र गर्भे विश्वे सर्वे देवा इंद्रादयः समगच्छंत संगता भवंति । तस्याजस्य
+> नाभावधि नाभौ ! अधीति सप्तम्यर्थानुवादी । एकमर्पितमित्यंडाभिप्रायेणोक्तं ।
+> अंडं हि प्राक्सर्गानाभिस्थाने तिष्ठति । यस्मिन्नंडे विश्वानि भुवनानि सर्वाणि
+> भूतजातानि तस्तुः तिष्ठंति । अथवाजस्य जन्मरहितस्य ब्रह्मणः स्वसृष्टे जले शयानस्य
+> नाभौ सर्वजगद्बंधक उदक एकं ब्रह्मांडमर्पितं स्थापितं । शिष्टं समानं ।
+> अफास्मिन्नर्थे स्मृतिः । अप एव ससर्जाद् तासु वीर्यमवाकरत् । तदंडमभवद्धैमं सूर्यकोटसमप्रभमिति ॥
+
+##### Gist of the bhāṣya
+
+With this verse the answer to the question stated in the preceding mantra is given. Those very waters first, before the creation of anything else, held that Viśvakarman as the embryo, the womb-like form; दध्रे (*dadhre*) means they held. यत्र (*yatra*), in which embryo, all the gods, Indra and the rest, came together. अधि (*adhi*) in नाभावधि (*nābhāvadhi*) merely repeats the sense of the locative: on the navel of that Unborn. The words "one is placed" are said with the egg in view, for before creation the egg stands in the place of the navel. In that egg all beings stand. Or else: in the navel of the Unborn, that is, of Brahman free from birth, who lies in the water created by himself, in the water that binds the whole world, one Brahma-egg is placed, established. The rest is the same. On this meaning there is a smṛti: अप एव ससर्जाद् तासु वीर्यमवाकरत् । तदंडमभवद्धैमं सूर्यकोटसमप्रभमिति ॥ (*apa eva sasarjād tāsu vīryamavākarat | tadaṃḍamabhavaddhaimaṃ sūryakoṭasamaprabhamiti ‖*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—in which womb
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- समगच्छंत (*samagacchaṃta*)—have gathered together
+- तमित् (*tamit*)—such
+- गर्भं (*garbhaṃ*)—the womb, of the form of Viśvakarman
+- आपः (*āpaḥ*)—the waters
+- प्रथमं (*prathamaṃ*)—before creation
+- दध्रे (*dadhre*)—held
+- यस्मिन् (*yasmin*)—in which golden egg
+- विश्वानि भुवनानि (*viśvāni bhuvanāni*)—all beings
+- तस्थुः (*tasthuḥ*)—are established, such
+- एकं (*ekaṃ*)—this unique Brahma-egg
+- अजस्य नाभौ (*ajasya nābhau*)—in the navel of the unborn primal principle
+- अर्पितं (*arpitaṃ*)—is placed (is established)
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, before creation, held that womb of the form of Viśvakarman, in which all the gods have gathered together. In this golden egg, in which all beings
+
 ---
 
-**Progress note:** Done through printed p. 291. Ṛk 4 special topics (Chāndogya madhu-vidyā), Ṛk 5 (hiraṇya-garbha question) with Kaṭha quotations
+**Progress note:** Done through printed p. 297. Sūkta 82 end of Special Topics (Ṛk 5), Ṛk 6 begins
