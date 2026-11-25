@@ -16761,6 +16761,192 @@ a thousand places; as Brahma is variably developed, so is speech.
 सहस्रधा— सहस्रसंख्याकेषु ब्रह्मादिस्तंबपर्यतेषु देहेषु । (*sahasradhā— sahasrasaṃkhyākeṣu brahmādistaṃbaparyateṣu deheṣu |*) Here "thousand" is not only the number one thousand; it means in the bodies of many, or manifold, kinds of living beings.
 पंचदशानि—चक्षुःश्रोत्रं मनो वाक् प्राण इत्येतानि पंच । तदाधारत्तेन मातापितोः सकाशादागतानि पृथिव्यप्तेजोवाय्वाकाशरूपाणि भूतानि मिलितानि दश । (*paṃcadaśāni—cakṣuḥśrotraṃ mano vāk prāṇa ityetāni paṃca | tadādhārattena mātāpitoḥ sakāśādāgatāni pṛthivyaptejovāyvākāśarūpāṇi bhūtāni militāni daśa |*) "Fifteen" means bodies made up of fifteen parts or portions. They are as follows. In the body of every living being there are five organs of knowledge: eye, ear, mind, speech (the power of speaking or making sound) and breath. There are also outer limbs that serve as their support. That is to say, although acts such as seeing belong to the organs of knowledge, there are also the outer organs that are the means of producing such knowledge. To see and know an object, the eye, an outer limb, and the mind, an inner organ, are the chief means. The other limbs are likewise. The inner organs, mind and the rest, follow the past and present condition of the particular living being. The outer limbs alone follow the bodily constitution of the father and mother, who are the cause of the origin of that being's body. If the parents are strong in body, the children too will be strong like them. Therefore the five elements, earth, water, fire, air and space, which are the cause of the outer body (the bodies formed of the five elements), arise from the bodily constitution of the parents. So the five elements connected with the father and the five connected with the mother together make ten kinds of substance, and with the five organs, eye and the rest, mentioned before, the body of every living being is made up of fifteen kinds of substance in all. That is the purport.
 
+### Printed p. 506
+"Just as the heaven and earth, so far as they extend, are made of the manifold substances composed of the subtle and gross five elements, this body too is constructed in just that way." That is, the things or substances seen in heaven and earth are present also in the bodies of living beings; this is the sense.
+
+[[b-note-none]]
+
+The Kannada explains: "A thousand-fold is the greatness; as far as a thousand the Brahman is spread out, so far extends speech" (the Sanskrit is quoted in the Kannada as: सहस्रधा महिमानः सहस्रं यावत् ब्रह्म विस्थितं तावती वाक् (*sahasradhā mahimānaḥ sahasraṃ yāvat brahma visthitaṃ tāvatī vāk*)). Here too the word "thousand" means many, manifold, countless. The Brahman, the root of all and the cause of the world, takes on the bodies of countless and manifold living beings and is dealt with under manifold forms and shapes. Likewise speech is dealt with by just as many designations by name. How? Every living being and thing in the world is a transformation of the Brahman-substance. As they have forms, so every thing has a name. As many things as there are, so many names. Hence it is described here that speech (names) corresponds in measure to things. To support this the commentator cites the following passages of the Taittirīya and Aitareya Āraṇyakas, whose purport is the same as explained above:
+
+सर्वाणि रूपाणि विचिंत्य धीरो नामानि कृत्वाभिवदन्यदास्ते ॥ (*sarvāṇi rūpāṇi viciṃtya dhīro nāmāni kṛtvābhivadanyadāste ‖*) (Tai. Ā. 3-12-7)
+
+सहस्रधा पंचदशान्न्युक्थेति पंच हि दशतो भवंति ॥ (*sahasradhā paṃcadaśānnyuktheti paṃca hi daśato bhavaṃti ‖*) (Ai. Ā. 1-3-8) **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कश्चंद॑सां॒ योग॒मा वे॑द॒ धीरः॒ को धिष्ण्यां॒ प्रति॒ वाचं॑  
+> कम॒त्विजा॑मष्ट॒मं शूर॑माहु॒र्हरी॒ इंद्र॑स्य॒ नि चि॑काय॒ कः  ॑
+> स्मित् ॥ ९ ॥
+
+### Printed p. 507
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । छंदसां । योगं । आ । वेद । धीरः । कः । धिष्ण्यां । प्रति । वाचं । पपाद ।  
+> कं । ऋत्विजां । अष्टमं । शूरं । आहुः । हरी इति । इंद्रस्य । नि । चिकाय । कः ।  
+> स्मित् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीरो धीमान् को मानुषश्चंदसां गायत्र्यादीनां योगं स्तुतशस्त्रात्मना नियोगमा वेद । आजानाति । को ना धिष्ण्यां । धिष्ण्यानि होत्रादीनां सप्त
+> स्थानानि । तदर्हां वाचं प्रति पपाद । प्रतिपादयति । करोति । किंचर्त्विजां होत्रादीनां सप्ता नामष्टममष्टसंख्यापूरकं शूरं स्वतंत्रं कमाहुः । वदंति । कः स्मित्
+> कः खल्विंद्रस्य हरी ऋक्सामरूपौ द्वावश्वा । ऋक्सामे ना इंद्रस्य हरी इत्याम्नायते । तादृशौ हरी नि चिकाय । नितरां पूजयति । जानाति । वेदिता प्रतिपादयिताष्टसंख्यापूरकस्य देवस्य ज्ञाता ना परमात्मनोऽन्यो नास्तीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Who among men, wise (dhīra), knows the application (yoga) of the metres Gāyatrī and the rest, i.e. their assignment as stuta and śastra? Who sets forth the speech fitting the dhiṣṇyas, the seven stations of the Hotṛ and the other priests? Further, whom do they call the eighth of the seven priests, the Hotṛ and the rest — the one who completes the number eight, the independent (śūra)? Who, indeed, has honoured (ni cikāya: worships, knows) the two bay horses of Indra, the Ṛk and the Sāman? It is traditionally said ऋक्सामे ना इंद्रस्य हरी (*ṛksāme nā iṃdrasya harī*). The sense: no one other than the Supreme Self is knower and expounder of the god who completes the number eight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः धीरः (*kaḥ dhīraḥ*)—which wise man
+- छंदसां (*chaṃdasāṃ*)—of the metres Gāyatrī etc.
+- योगं (*yogaṃ*)—the application
+- आ वेद (*ā veda*)—knows
+- धिष्ण्यां (*dhiṣṇyāṃ*)—the seven stations of the Hotṛ etc.
+- वाचं (*vācaṃ*)—in the form of praise
+- कः (*kaḥ*)—who indeed
+- प्रति पपाद (*prati papāda*)—explains and describes
+- ऋत्विजां (*ṛtvijāṃ*)—among the priests
+- अष्टमं (*aṣṭamaṃ*)—the eighth
+- शूरं (*śūraṃ*)—the independent
+- कं (*kaṃ*)—whom
+- आहुः (*āhuḥ*)—they describe
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- हरी (*harī*)—the Ṛk and Sāman mantras, famed as horses
+- कः स्मित् (*kaḥ smit*)—who indeed
+- नि चिकाय (*ni cikāya*)—can know?
+
+##### भावार्थ (Bhāvārtha)
+
+Which wise man knows the application of the metres Gāyatrī and the rest? Who indeed explains and describes, in the form of praise, the seven stations of the Hotṛ and the others? Whom do they describe as the eighth among the priests, the independent one? Who indeed can know the horses of Indra (the Ṛk and Sāman mantras)?
+
+##### English translation
+What grave person knows the application of the metres? Who utters the words appropriate to the functions (of the) different priests? Whom do
+
+### Printed p. 508
+
+##### English translation
+they call the eighth of the priests, the independent ? Who has done honour to the two bay horses of Indra ?
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer asks who is the wise man who can know the greatness of the metres such as Gāyatrī used in sacrifices, of the seven Hotṛs, of the mantras they recite, of the god set forth in those mantras, and of the Ṛk and Sāman mantras famed as Indra's horses.
+
+कः छंदसां योगं आ वेद धीरः (*kaḥ chaṃdasāṃ yogaṃ ā veda dhīraḥ*) etc.: Among the metres there are many kinds, Gāyatrī and others. There is a rule that particular rites are to be done only with mantras of particular metres. Even in reciting the Prātaranuvāka and similar mantras there is a rule that separate mantras of the seven metres, Gāyatrī and others, are to be recited. Therefore, which man, however wise, can know the use of the metres as occasion requires in reciting the śastra mantras (Ṛgveda mantras) and in singing the stotra mantras (Sāmaveda mantras), and their greatness? (The sense: no one is able to know it fully.)
+
+कः धिष्ण्यां प्रति वाचं पपाद (*kaḥ dhiṣṇyāṃ prati vācaṃ papāda*): Dhiṣṇyā means station, rank. The dhiṣṇyā of the Hotṛ means the position and standing of the priest called Hotṛ, the mantras he must recite in the sacrifice, the duties he must perform, and so on. Likewise the other priests have their positions. Which man can fully know the positions of the Hotṛ and the rest in sacrifices, their duties and the mantras they must recite?
+
+कं ऋत्विजां अष्टमं शूरं आहुः (*kaṃ ṛtvijāṃ aṣṭamaṃ śūraṃ āhuḥ*): In the sacrifice there are seven chief priests, the seven Hotṛs. But who is the eighth? No one is able to say this. The eighth is the very god worshipped in the sacrifice. Who is he, what is his nature, what his greatness? Only the omniscient Supreme Self can know and tell this; no one else can know. This is the sense.
+
+हरी इंद्रस्य नि चिकाय कः स्वित् (*harī iṃdrasya ni cikāya kaḥ svit*): Who indeed honours, knows, Indra's Ṛk and Sāman horses? The Ṛk and Sāman mantras famed as Indra's horses, and their true
+
+### Printed p. 509
+meaning — what man can know them rightly? Except the all-powerful Supreme Self there is no one else who knows this; this is the sense.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूम्या॒ अंतं॒ पर्येके॑ चरंति॒ रथ॑स्य धू॒र्षु यु॒क्तासो॑  
+> अस्थुः ।  
+> श्रम॑स्य दा॒यं वि भ॑जंत्येभ्यो य॒दा य॒मो भव॑ति ह॒र्म्ये  ॒
+> हितः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भूम्याः । अंतं । परि । एके । चरंति । रथस्य । धूःऽसु । युक्तासः । अस्तुः ।  
+> श्रमस्य । दायं । वि । भजंति । एभ्यः । यदा । यमः । भवति । हर्म्ये । हितः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एके केचनाश्वा भूम्याः पृथिव्याः । अनेन द्युलोकोऽप्युपलक्ष्यते ।
+> द्युलोकस्य चांतं पर्यंतं परि चरंति । तदानीं सर्वत आगच्छंति । तदा च
+> तेऽश्वा रथस्य धूर्षु युगादिभारेषु युक्तासो युक्ताः संतोऽस्थुः । तिष्ठंति ।
+> विभ्योऽश्वेभ्यः श्रमस्य दायं ॥ दो अवखंडने । घञ् । कर्षात्वत इत्यंतोदात्तत्वं ॥ श्रमस्य नाशकं घासादिकं वि भजंति । देवाः प्रयच्छंति । यदा यस्मिन्काले
+> यमो नियंता सूर्यो हर्म्यॆ हर्म्यस्थानीये रथे हितो निहितो भवति ।
+> तदैते भजंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Some horses, from the earth (and by this the heaven is also indicated), range to the end of heaven; then they come from all sides, and at that time stand harnessed to the yoke-loads of the chariot. The gods apportion (vi bhajanti) to these horses the share of fatigue-relief (śramasya dāya), fodder and the like. When the Yama, the controller, i.e. Sūrya, is placed in the chariot, which stands for the हर्म्य (*harmya*) (mansion), then they apportion it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एके (*eke*)—some horses, i.e. the seven horses of Sūrya
+- भूम्याः (*bhūmyāḥ*)—of the earth
+- अंतं (*aṃtaṃ*)—in the farthest regions
+- परि चरंति (*pari caraṃti*)—range about (at that time those same horses)
+- रथस्य (*rathasya*)—of the chariot
+- धूर्षु (*dhūrṣu*)—at the yokes
+- युक्तासः (*yuktāsaḥ*)—harnessed
+- अस्थुः (*asthuḥ*)—stand
+- यदा (*yadā*)—when
+- यमः (*yamaḥ*)—Sūrya, who controls these seven horses
+- हर्म्ये (*harmye*)—in his chariot
+- हितः (*hitaḥ*)—placed
+
+### Printed p. 510
+- भवति (*bhavati*)—becomes, then
+- विभ्यः (*vibhyaḥ*)—to these horses
+- श्रमस्य दायं (*śramasya dāyaṃ*)—food materials such as grass that remove fatigue
+- वि भजंति (*vi bhajaṃti*)—the gods give
+
+##### भावार्थ (Bhāvārtha)
+
+Some horses (Sūrya's seven horses) range right to the extremities of heaven and earth. Then those same horses stand harnessed at the yokes of the chariot. When Sūrya, who controls these seven horses, seats himself in his chariot, the gods give these horses fatigue-removing food such as grass, and tend them.
+
+##### English translation
+Some (horses) proceed to the limit of the earth; they stand still harnessed to the yoke of the chariot; (the gods) apportion among them the alleviation of fatigue, when the charioteer is placed (ready to drive them) to their dwelling.
+
+## Sūkta 115 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चित्र इति नवर्चं तृतीयं सूक्तमाग्नेयं । उपस्तुतो नाम वृष्टिहव्यपुत्र
+> ऋषिः । अष्टमी त्रिष्टुप् । नवमी शक्वरी । आदितः सप्त जगत्यः । तथा चानुक्रांतं ।
+> चित्र इन्नव वार्ष्टिहव्य उपस्तुत आग्नेयं जागतं त्रिष्टुप्यक्वर्यंतमिति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छंदसीदं सूक्तं । सूत्रितं च । चित्र इच्छिशोर्वसुं न
+> चित्रमहसमिति जागतं । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The third sūkta, चित्र इति (*citra iti*), of nine Ṛks, is addressed to Agni. The seer is Upastuta, son of Vṛṣṭihavya. The eighth Ṛk is Triṣṭubh, the ninth Śakvarī, the first seven Jagatī. The Anukramaṇī says: चित्र इन्नव वार्ष्टिहव्य उपस्तुत आग्नेयं जागतं त्रिष्टुप्यक्वर्यंतमिति (*citra innava vārṣṭihavya upastuta āgneyaṃ jāgataṃ triṣṭupyakvaryaṃtamiti*). The sūkta is used in the Prātaranuvāka and in the Aśvina-śastra for the Jagatī metre; it is prescribed by the sūtra चित्र इच्छिशोर्वसुं न चित्रमहसमिति जागतं (*citra icchiśorvasuṃ na citramahasamiti jāgataṃ*) (Ā. Sū. 4-13).
+
+##### Anuvāda
+
+This sūkta, चित्रः (*citraḥ*), is the third sūkta in the tenth anuvāka. It has nine Ṛks. Its seer is Upastuta, son of Vṛṣṭihavya; the deity is Agni; its eighth Ṛk is in Triṣṭubh, the ninth in Śakvarī, the first seven in Jagatī. The Anukramaṇī states: चित्र इन्नव वार्षिहव्य उपस्तुत आग्नेयं जागतं त्रिष्टुप्‌शक्वर्यंतं (*citra innava vārṣihavya upastuta āgneyaṃ jāgataṃ triṣṭupśakvaryaṃtaṃ*). When the Aśvina-śastra mantras are recited at the time of the Prātaranuvāka, this sūkta is applied for the Ṛks in Jagatī metre, as explained by the Āśvalāyana Śrauta Sūtra, चित्र इच्छिशोर्वसुं न चित्रमहसमिति जागतं (*citra icchiśorvasuṃ na citramahasamiti jāgataṃ*) (Ā. 4-13).
+
+### Printed p. 511
+Sūkta 115. Maṇḍala 10; Anuvāka 10; Sūkta 115. Aṣṭaka 8; Adhyāya 6; Vargas 18, 19. Number of Ṛks in the sūkta: 9. Seer: Upastuta Vārṣṭihavya. Deity: Agni. Metre: 1–7 Jagatī; 8 Triṣṭubh; 9 Śakvarī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒त्र इच्छिशो॒स्तरु॑णस्य व॒क्षथो॒ न यो मा॒तरा॑व॒प्येति॒ धात॑वे ।  
+> अ॒नू॒धा यदि॒ जीज॑न॒दधा॑ च॒ नु न॒वक्ष॑ स॒द्यो महि॑ दू॒त्यं१॒॑ १-  ॑
+> चरन् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्रः । इत् । शिशोः । तरुणस्य । वक्षथः । न । यः । मातरौ । अपिएति । धातवे ।  
+> अनूधाः । यदि । जीजनत् । अध । च । नु । ववक्ष । सद्यः । महि । दूत्यं । चरन् ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शिशोः शिशुभूतस्य अत एव तरुणस्यॆ नूतनस्याग्नेर्वक्षथः ॥ वक्षेरौणादिकोऽथप्रत्ययः ॥ हनिर्वहनं चित्र इदाश्चर्यभूतमेव यो जातोऽग्निर्मातरौ सर्वस्य
+> निर्मात्र्य मातृपितृभूते द्यावापृथिव्यावरण्यौ वा धातवे नाप्येति ॥ धेट् पाने ।
+> तुमर्थे तवेन्प्रत्ययः ॥ पानायापि न गच्छति ॥ इण् गतौ । लट्युपसर्गेण समासः ।
+> तिजि चोदात्तवतीति गतेर्निघातः ॥ अनूधाः ॥ नञ्हुव्रीहिः । समासांतस्यानजः
+> स्त्रियामिष्टत्वादत्रानजभावः । पा. ५-४-१३१ । प्रत्येकविवक्षय्यैकवचनं ॥ ऊधोरहितोऽयं लोकोऽसौ लोकश्चैनमग्निं यदि जीजनत् अजीजनत् अजनयत् । तर्हि
+> स्तनपानाय न गच्छतीति युक्तं । तथा न भवति । किंतु द्यावापृथिव्यौ सर्वेषां
+> कामदुघे खलु । तथापि न याति । तस्मादस्य हनिर्वहनं चित्रं । अध चोत्पत्यनंतर-
+
+##### Gist of the bhāṣya
+
+The carrying of the oblation (हनिर्वहनं (*hanirvahanaṃ*)) by the child, the young, new Agni is indeed a wonder (चित्रः । इत् (*citraḥ | it*)): he who is born does not go to his two parents — the makers of all, i.e. heaven and earth as mother and father, or the two kindling-sticks — to drink. Here धातवे (*dhātave*) is from the root धेट् (*dheṭ*) in the sense of drinking; he does not go even to drink. अनूधाः (*anūdhāḥ*): if this world and that world, being without udders, bore Agni, it would be proper that he not go to suck; that is not so; rather, heaven and earth are indeed the wish-fulfilling cows of all, yet he does not go. Therefore his carrying of the oblation is a wonder; and after birth ….
+
 ---
 
-**Progress note:** Done through printed p. 505. pp. 500-505 (batch API)
+**Progress note:** Done through printed p. 511. pp. 506-511 (batch API)
