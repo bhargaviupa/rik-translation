@@ -22732,6 +22732,230 @@ Those rains mentioned before follow, that is, partake of and bear, the foremost,
 - ताः (*tāḥ*)—these waters
 - ईं (*īṃ*)—this Varuna, their husband.
 
+### Printed p. 688
+Pratipadārtha (continued from the previous page):
+- वृणानाः (*vṛṇānāḥ*)—approaching
+- बीभत्सवः (*bībhatsavaḥ*)—trembling with fear, or, being enveloped by Vṛtra, terrified
+- वृत्रात् (*vṛtrāt*)—from Vṛtra
+- अप अतिष्ठन् (*apa atiṣṭhan*)—went away, fled far off
+
+##### भावार्थ (Bhāvārtha)
+
+The rain-waters spoken of before (being also his wives) sustain the most excellent energy of this Varuṇa. Varuṇa approaches those waters, which are gratified with the food that is the oblation. Those waters too, as subjects approach their lord the king with fear and devotion, approach Varuṇa their husband, and trembling with fear they flee far from Vṛtra, who envelops them.
+
+##### English translation
+They sustain his most excellent energy, he approaches them delighting him with (sacrificial) food; like subjects choosing a king, they smitten with fear, fled from Vritra.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बी॒भ॒त्तूनां॑ स॒युजं॑ हं॒समा॑हुर॒पां दि॒व्यानां॑ स॒ख्ये  ॑
+> चरंतं ।  
+> अ॒नु॒ष्टुभ॒मनु॑ चर्चू॒र्यमा॑ण॒मिंद्रं॒ नि चि॑क्कुः क॒वयो॑  ॒
+> मनीषा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बीभत्तूनां । सयुजं । हंसं । आहुः । अपां । दिव्यानां । सख्ये । चरंतं ।  
+> अनुस्तुभं । अनु । चर्चूर्यमाणं । इंद्रं । नि । चिक्कुः । कवयः । मनीषा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बीभत्सूनां कंपमानावयवानां यद्वा मेघेन बद्धानां । हंति गच्छतीति
+> हंसः सूर्यः । तं सयुजं सखायमाहुः । ब्रह्मवादिनः कथयंति । एतदेवाह ।
+> दिव्यानां दिवि भवानामांतरिक्षाणामपां सख्ये सखित्वे चरंतं वर्तमानं । अनुष्टुभमनुष्टोभनीयं स्तोतव्यं । यद्वा । अनुष्टुप्यब्बेन तत्संबद्धो यागः
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains बीभत्सूनां (*bībhatsūnāṃ*) as "of those whose limbs tremble", or "of those bound by the cloud". हंसः (*haṃsaḥ*) is the sun, because he goes (हंति गच्छतीति (*haṃti gacchatīti*)). The Brahmavādins call him the friend (सयुजं (*sayujaṃ*)). He explains: the sun abides in friendship with the waters of heaven, i.e. those of the atmosphere. अनुष्टुभं (*anuṣṭubhaṃ*) means "to be praised". Or else the word अनुष्टुप् (*anuṣṭup*) signifies the sacrifice connected with it, or praise.
+
+### Printed p. 689
+
+> स्तुतिर्वा लक्ष्यते । अनुष्टुप्संबद्धं यागमनुष्टुप्संदसा युक्तं स्तुतिविशेषं वा ।
+> अनुलक्ष्य, चर्चूर्यमाणं पुनःपुनश्चरंतं गच्छंतं ॥ चरतेर्यज्युत्परस्यातः ।
+> पा. ७-४-८८ । इत्यभ्यासादुत्तरस्याकारस्योत्वं । चरफलोश्च । पा. ७-४-८७ । इति नुकि
+> प्राप्ते व्यत्ययेनाभ्यासस्य रुगागमः ॥ एवंगुणविशिष्टमिंद्रं कवयः क्रांतदर्शिन
+> ऋषयो मनीषा मनीषया स्तुत्या नि चिक्क्युः । पूजयंति । यद्वा । मनीषा
+> बुद्धा नि चिक्क्युः । जानंति ॥ मनीषाशब्दात्तृतीयायाः सुपां सुलुगिति लुक् ।
+> चायै पूजानिशामनयोरित्यस्माच्चांदसे लिटि चायः की । पा. ६-१-३५ । इति
+> प्रकृतेः कीभावः । एरनेकाच इति यण् ॥
+
+##### Gist of the bhāṣya
+
+(continuing) अनुष्टुभं (*anuṣṭubhaṃ*) also means the sacrifice connected with the Anuṣṭubh, or a special praise in Anuṣṭubh metre. चर्चूर्यमाणं (*carcūryamāṇaṃ*) means moving about again and again. Indra, endowed with these qualities, is honoured by the Kavis, the far-seeing seers, with praise (मनीषा (*manīṣā*)); or else they know him by understanding (बुद्धा (*buddhā*)). The rest of the block is grammatical.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बीभत्सूनां (*bībhatsūnāṃ*)—of those trembling with fear
+- हंसं (*haṃsaṃ*)—the sun
+- सयुजं (*sayujaṃ*)—as a friend
+- आहुः (*āhuḥ*)—(the Brahmavādins) say
+- दिव्यानां (*divyānāṃ*)—in the atmosphere (in the form of cloud)
+- अपां (*apāṃ*)—of the waters
+- सख्यॆ (*sakhyè*)—in friendship
+- चरंतं (*caraṃtaṃ*)—who abides
+- अनुष्टुभं (*anuṣṭubhaṃ*)—worthy of praise, or praised by mantras in Anuṣṭubh metre
+- अनु (*anu*)—having regard to the praise
+- चर्चूर्यमाणं (*carcūryamāṇaṃ*)—who moves about again and again
+- इंद्रं (*iṃdraṃ*)—Indra
+- कवयिः (*kavayiḥ*)—the seers of far-reaching wisdom
+- मनीषा (*manīṣā*)—by praise (by understanding)
+- नि चिक्कुः (*ni cikkuḥ*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+The Brahmavādins say that the sun is the friend of those who tremble with fear. Indra, who abides in friendship with the waters of the atmosphere (of the cloud), who is praised by all, or praised by mantras in Anuṣṭubh metre, and who, having regard to the praise, comes again and again to the worshippers, is known by the seers of far-reaching wisdom through their understanding (or praise).
+
+##### English translation
+The sages called the sun the ally of those who are affrighted, abiding in the friendship of the waters of heaven ; the wise have honoured with their praise Indra, who ceaselessly moves after the Anushtubh.
+
+## Sūkta 125 (Maṇḍala 10)
+**Introduction**
+Formerly there was a great seer named Ambhṛṇa. He had a daughter named Vāk, accomplished in the knowledge of Brahman. Worshipping the supreme Brahman, who is of the nature of being, consciousness and bliss and pervades all things in the form of the whole world, she came to think herself united (identical) with him, and in this hymn praises herself.
+
+### Printed p. 690
+That is, with the sense of identity that she is the all-pervading Supreme Self of the nature of being, consciousness and bliss, she expresses the idea that she herself can perform the immense deeds which the Supreme Self of infinite power can perform, and in this hymn describes herself, that is the Supreme Self, as capable of any work.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमित्यष्टर्चं त्रयोदशं सूक्तं । अंभृणस्य महर्षेर्दुहिता वाज्ञामिन्
+> ब्रह्मविदुषी स्वात्मानमस्तौत् । अतः सर्षिः । सच्चित्सुखात्मकः सर्वगतः परमात्मा
+> देवता । तेन ह्येषा तादात्म्यमनुभवंती सर्वजगद्रूपेण सर्वस्याधिष्ठानत्वेन
+> चाहमेव सर्वं भवामीति स्वात्मानं स्तौति । द्वितीया जगती शिष्टाः सप्त त्रिष्टुभः ।
+> तथा चानुक्रांतं । अहमष्टौ वागांभृणी तुष्टावात्मानं द्वितीया जगतीति ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The hymn अहं (*ahaṃ*) has eight Ṛks and is the thirteenth sūkta. Vāk, daughter of the great seer Ambhṛṇa, knower of Brahman, praised her own Self; therefore she is the seer. The deity is the all-pervading Supreme Self of the nature of being, consciousness and bliss. Experiencing identity with him, she praises herself as the form of the whole world and as the substrate of all: "I alone become everything." The second verse is Jagatī, the other seven Triṣṭubh. So the Anukramaṇī says: अहमष्टौ वागांभृणी तुष्टावात्मानं द्वितीया जगती (*ahamaṣṭau vāgāṃbhṛṇī tuṣṭāvātmānaṃ dvitīyā jagatī*). The application has been stated.
+
+##### Anuvāda
+
+This hymn अहं (*ahaṃ*) is the thirteenth sūkta in the tenth anuvāka, with eight Ṛks. In it Vāk, the Brahman-knower, daughter of the seer Ambhṛṇa, praises herself. She is therefore the seer; the deity is the Supreme Self, all-pervading, of the nature of being, consciousness and bliss. Experiencing identity with him, the seer's daughter thinks herself, in the form of the whole world, the doer of all deeds, and praises herself in this hymn. The second Ṛk is in Jagatī metre; the remaining Ṛks are Triṣṭubh. The Anukramaṇī says: अहमष्टौ वागांभृणी तुष्टावात्मानं द्वितीया जगती (*ahamaṣṭau vāgāṃbhṛṇī tuṣṭāvātmānaṃ dvitīyā jagatī*). The application has been stated earlier.
+
+##### Particulars
+
+Sūkta 125. Maṇḍala 10, Anuvāka 10, Sūkta 125. Aṣṭaka 8, Adhyāya 7, Vargas 11, 12. Number of Ṛks in the sūkta: 8. Seer: Vāgāmbhṛṇī. Deity: Vāgāmbhṛṇī. Metre: 1, 3–8 Triṣṭubh; 2 Jagatī.
+
+### Printed p. 691
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं रु॒द्रेभि॒र्वसु॑भिश्चराम्य॒हमा॑दि॒त्यैरु॒त वि॒श्वेदे॑वैः ।  
+> अ॒हं मि॒त्रावरु॑णो॒भा बि॑भर्म्य॒हमिं॑द्रा॒ग्नी अ॒हम॒श्विनो॒भा॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । रुद्रेभिः । वसुभिः । चरामि । अहं । आदित्यैः । उत । विश्वदेवैः ।  
+> अहं । मित्रावरुणा । उभा । बिभर्मि । अहं । इंद्राग्नी इति । अहं । अश्विना । उभा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं सूक्तस्य द्रष्ट्री वागांभृणी यद्ब्रह्म जगत्कारणं तद्रूपा भवंती
+> रुद्रेभी रुद्रैरेकादशभिः । इत्थंभावे तृतीया । तदात्मना चरामि । एवं वसुभिरित्यादौ तत्तदात्मना चरामिति योज्यं । तथा मित्रावरुणा मित्रं च वरुणं च ॥
+> सुपां सुलुगिति द्वितीयाया आकारः ॥ उभोभावहमेव ब्रह्मीभूता बिभर्मि ।
+> धारयामि । इंद्राग्नी अप्यहमेव धारयामि । उभोभावश्विनाश्विनावप्यहमेव
+> धारयामि । मयि हि सर्वं जगच्चुक्तौ रजतमिवाध्यस्तं सद्दृश्यते । माया च
+> जगदाकारेण विवर्तते । तादृश्या मायया आधारत्वेनासंगस्यापि ब्रह्मण उक्तस्य
+> सर्वस्योत्पत्तिः ॥
+
+##### Gist of the bhāṣya
+
+I, Vāk Āmbhṛṇī, the seer of the hymn, being of the form of Brahman, the cause of the world, move (चरामि (*carāmi*)) with the eleven Rudras (रुद्रेभिः (*rudrebhiḥ*), instrumental of state). Likewise with the Vasus and the rest: "I move as each of them." Mitra and Varuṇa, both, I, become Brahman, bear (बिभर्मि (*bibharmi*)); Indra and Agni I bear; the two Aśvins I bear. In me the whole world appears superimposed, like silver on mother-of-pearl, and Māyā evolves in the form of the world; by such Māyā the origin of all is stated even of Brahman, who is unattached, as the support.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, the seer of this hymn, daughter of Ambhṛṇa, of the form of the supreme Brahman, cause of the world
+- रुद्रेभिः (*rudrebhiḥ*)—in the form of the eleven Rudras
+- चरामि (*carāmi*)—I move
+- वसुभिः (*vasubhiḥ*)—with the eight Vasus
+- आदित्यैः (*ādityaiḥ*)—with the twelve Ādityas
+- विश्वदेवैः (*viśvadevaiḥ*)—with the forms of all the gods
+- (चरामि (*carāmi*)—I move)
+- उभौ मित्रा वरुणा (*ubhau mitrā varuṇā*)—the two gods Mitra and Varuṇa
+- अहं (*ahaṃ*)—I myself
+- बिभर्मि (*bibharmi*)—bear
+- इंद्राग्नी (*iṃdrāgnī*)—the two gods Indra and Agni
+- अहं (*ahaṃ*)—I myself bear
+- उभौ (*ubhau*)—both
+- अश्विना (*aśvinā*)—the Aśvin gods
+- अहं (*ahaṃ*)—I myself bear and nourish
+
+##### भावार्थ (Bhāvārtha)
+
+I, the seer of this hymn, daughter of the seer Ambhṛṇa, who have attained identity with the supreme Brahman of the nature of being, consciousness and bliss, move in the form of the eleven Rudras, the eight Vasus, the twelve
+
+### Printed p. 692
+Ādityas and of all the other gods. That is, being in the form of these gods, I myself carry out their proper duties. Moreover I myself bear and nourish the paired gods Mitra and Varuṇa, Indra and Agni, and the Aśvins. By my support all these gods, relying on me, become able to perform their duties.
+
+##### English translation
+I proceed with the Rudras, with the Vasns, with the Adityas, and with Vishwadevas; I support both Mitra and Varuna, Agni and Indra, and the two Ashwins.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं सोम॑माह॒नसं॑ बिभम्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒  ॑
+> भगं ।  
+> अ॒हं द॑धामि॒ द्रवि॑णं ह॒विष्म॑ते सुप्रा॒व्ये॒३॒॑ ३ यज॑मानाय  ॒
+> सुन्वते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । सोमं । अहनसं । बिभर्मि । अहं । त्वष्टारं । उत । पूषणं । भगं ।  
+> अहं । दधामि । द्रविणं । हविष्मते । सुप्र अव्ये । यजमानाय । सुन्वते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आहनसमाहंतव्यमभिषोतव्यं सोमं यद्वा शत्रूणामाहंतारं दिवि
+> वर्तमानं देवतात्मानं सोममहमेव बिभर्मि । तथा तृष्णारमुतापि च पूषणं
+> भगं चाहमेव बिभर्मि । तथा हविष्मते हविर्भियुक्ताय सुप्ताव्ये शोभनं
+> हनिर्दॆवानां प्रापयित्रे तर्पयित्रे ॥ अवतेस्तर्पणार्थादवित्यस्तंत्रिभ्य ईः ।
+> उ. ३-१५८ । इतीकारप्रत्ययः । चतुर्थैकवचने यण्युदात्तस्वॆरितयोर्यणः
+> स्वरितोऽनुदात्तस्यॆति सुपः स्वरितत्वं ॥ सुन्वते सोमाभिषवं कुर्वते ॥ शतुरनुम
+> इति चतुर्थ्या उदःतत्वं ॥ ईदृशाय यजमानाय द्रविणं धनं यागफलरूपमहमेव धारयामि । एतच्च ब्रह्मणः फलदातृत्वं फलमत उपपत्तेः । ३-२-३८ । इत्यधिकरणे भगवता भाष्यकारेण समर्थितं ॥
+
+##### Gist of the bhāṣya
+
+आहनसं (*āhanasaṃ*) is Soma who is to be struck (pressed), or the striker of enemies, existing in heaven as a deity; I alone bear him. Likewise I alone bear Tvaṣṭṛ, and Pūṣan and Bhaga. Likewise to the sacrificer हविष्मते (*haviṣmate*), furnished with oblations, सुप्राव्ये (*suprāvye*), who conveys good oblation to the gods and satisfies them, सुन्वते (*sunvate*), who presses Soma: to such a sacrificer I alone bear (give) wealth (द्रविणं (*draviṇaṃ*)), the fruit of the sacrifice. That Brahman is the giver of fruit is established by the revered Bhāṣyakāra in the adhikaraṇa फलमत उपपत्तेः । ३-२-३८ (*phalamata upapatteḥ | 3-2-38*). The rest is grammatical.
+
+### Printed p. 693
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आहनसं (*āhanasaṃ*)—who, existing in the form of the creeper, is struck with stones and pressed for his juice; or the slayer of enemies
+- सोमं (*somaṃ*)—Soma, the deity existing in heaven
+- अहं (*ahaṃ*)—I myself
+- बिभर्मि (*bibharmi*)—bear and nourish
+- त्वष्टारं (*tvaṣṭāraṃ*)—the god Tvaṣṭṛ
+- उत (*uta*)—and
+- पूषणं (*pūṣaṇaṃ*)—the deity Pūṣan
+- भगं (*bhagaṃ*)—the deity Bhaga
+- अहं (*ahaṃ*)—I myself bear and nourish
+- हविष्मते (*haviṣmate*)—who has prepared the oblation to offer to the gods
+- सुप्राव्ये (*suprāvye*)—who offers the oblation to the gods
+- सुन्वते (*sunvate*)—who has pressed the Soma juice for the gods
+- यजमानाय (*yajamānāya*)—for the sacrificer who performs the sacrifice
+- द्रविणं (*draviṇaṃ*)—wealth
+- अहं (*ahaṃ*)—I
+- दधामि (*dadhāmi*)—bear, that is, give
+
+##### भावार्थ (Bhāvārtha)
+
+I myself bear and nourish Soma, who is pressed after being beaten in the form of the creeper, or Soma who is the slayer of enemies, in heaven, of divine nature. Likewise I myself bear and nourish the gods Tvaṣṭṛ, Pūṣan and Bhaga. And to the sacrificer who prepares the oblation and offers it to the gods, and who presses and offers Soma juice to please the gods, I myself give wealth.
+
+##### English translation
+I support the foe-destroying Soma, Twashtri, Pushan and Bhaga; I bestow wealth upon the institutor of the rite offering the oblation, deserving of careful protection, pouring forth the libation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नां ।  
+> तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शयं॑तीं ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 687. pp. 682-687 (batch API)
+**Progress note:** Done through printed p. 693. pp. 688-693 (batch API)
