@@ -5210,6 +5210,274 @@ May the god Indra be well-minded toward us, of gracious mind, on all days. And K
 
 In the manner that Indra and Soma bestow on us wealth beneficial like friends, so may Indra be of gracious mind toward us on all days. May Soma, the lord, accept our praise. We desire the all-embracing Aditi.
 
+### Printed p. 140
+#### Ṛk 4 (continued)
+
+##### English translation
+May Indra be favourably disposed towards us every day, may the royal Soma accept our praise, so that they may bestow upon us friendly trea-sures; we long for the universal Aditi.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ उ॒क्तेन॒ शव॑सा॒ परु॑र्दधे॒ बृह॑स्पते प्रतरी॒तास्यायु॑षः ।  
+> य॒ज्ञो मनुः॒ प्रम॑तिर्नः पि॒ता हि क॒मा स॒र्वता॑ति॒मदि॑तिं  
+> वृणीमहे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । उक्तेन । शवसा । परुः । दधे । बृहस्पते । प्रतरीता । असि । आयुषः ।  
+> यज्ञः । मनुः । प्रमतिः । नः । पिता । हि । कं । अ । सर्वतातिं । अदितिं । वृणीमहे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्र उक्तेन शवसा स्तुत्येन बलेन परुः पर्व यज्ञियमस्मदीयं
+> वा दधे । धारयति । हे बृहस्पते आयुषो ममायुष्यस्य प्रतरीता प्रवर्धयितासि।
+> भव । तथा यज्ञो मनुर्मंता प्रमतिः प्रकृष्टा मतिर्यस्य स नः पिता पालकः सन्
+> कं सुखं प्रयच्छतु । यद्वा! यज्ञो मंत्रो बुद्धिश्च प्रत्येकं सुखं प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+This Indra, by his praised strength (उक्तेन शवसा (*uktena śavasā*) = स्तुत्येन बलेन (*stutyena balena*)), holds (दधे (*dadhe*) = धारयति (*dhārayati*)) the joint (परुः (*paruḥ*) = पर्व (*parva*)), either the sacrificial joint or ours. O Bṛhaspati, you are the one who prolongs, that is, increases, my life; so be it. Likewise let the sacrifice, Manu the thinker, and Pramati (he whose mind is excellent), being our protector, grant happiness. Or else: let the sacrifice, the mantra and the intellect each grant happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- उक्तेन (*uktena*)—with praiseworthy
+- शवसा (*śavasā*)—strength
+- परुः (*paruḥ*)—all my limbs
+- दधे (*dadhe*)—has supported
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- आयुषः (*āyuṣaḥ*)—of my life
+- प्रतरीता (*pratarītā*)—as the one who increases
+- असि (*asi*)—be
+- यज्ञः (*yajñaḥ*)—the sacrifice
+- मनुः (*manuḥ*)—Manu
+- प्रमतिः (*pramatiḥ*)—the excellent intellect
+- नः (*naḥ*)—our
+- पिता (*pitā*)—being protectors
+- कं (*kaṃ*)—let them grant happiness
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we pray and invoke
+
+### Printed p. 141
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has filled all my limbs with strength by his praiseworthy might. O Bṛhaspati, be the one who increases my life. May the sacrifice, Manu and the excellent intellect, being our protectors, grant us happiness. We pray to and invoke Aditi, who is the all-embracing one.
+
+##### English translation
+By his laudable strength Indra supports my limb; you, Brihaspati, are the prolonger of my life. May the sacrifice, the sage Manu, (being) our protector, grant us happiness. We long for the Universal Aditi.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑स्य॒ नु सुकृ॑तं॒ दैन्यं॒ सहो॒ग्निगृ॒हे ज॑रि॒ता मेधि॑रः क॒विः।  
+> य॒ज्ञश्च॑ भूद्वि॒दथे॒ चारु॒रंत॑म॒ आ स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । नु । सुकृतं । दैव्यं । सहः । अग्निः । गृहे । जरिता । मेधिरः । कविः ।  
+> यज्ञः । च । भूत् । विदथे । चारुः । अंतमः । आ । सर्वतातिं । अदितिं । वृणीमहे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दैव्यं देवानां हितं सहो बलं यदस्ति तदिंद्रस्य सुकृतं । इंद्रेण खलु
+> सुष्टु संपादितं । यद्वा । यत्सुकृतं दैव्यं सहो बलं मरुत्संज्ञकमस्ति तदिंद्रस्य
+> नु । इंद्रस्य संबंधि खलु । अथवा । इंद्रस्य नु संबंधि सुकृतं दैव्यं सहो
+> देवार्हं बलमग्निर्गृहेऽस्मदीये यागगृहे वर्तत इति शेषः । इंद्रस्य संबंधी
+> सुष्टु संपादितो देवानां बलभूतोऽग्निर्गार्हपत्यः सॆन् वर्तत इत्यर्थः । स
+> चाग्निर्जरिता देवानां स्तोता मेधिरः । मेधो यज्ञो हविर्वा । तद्वान् कविः
+> क्रांतप्रज्ञो यज्ञो यष्टव्यश्च भूत् । भवति । कुत्र । विदथे यज्ञे । किंचॆ
+> सोऽग्निश्चारुश्चरणेयोऽंतनोऽस्माकमंतिकतमश्च ॥
+
+##### Gist of the bhāṣya
+
+The divine strength (दैव्यं (*daivyaṃ*), beneficial to the gods, सहः (*sahaḥ*) = strength) that exists is Indra's, well made (सुकृतं (*sukṛtaṃ*)), that is, well produced by Indra. Or else: the well-made divine strength called Marut is Indra's, belonging to Indra. Or else: the well-made divine strength of Indra, fit for the gods, namely Agni, is present in our house, that is, in our sacrificial house (the verb to be supplied is "is present"). The sense is that Agni Gārhapatya, well produced by Indra and being the strength of the gods, is present. That Agni is the praiser (जरिता (*jaritā*)) of the gods and मेधिरः (*medhiraḥ*): मेध (*medha*) is the sacrifice or the oblation, and he possesses it. He is कविः (*kaviḥ*), of far-reaching wisdom, and has become (भूत् (*bhūt*)) the sacrifice, to be worshipped. Where? In the विदथे (*vidathe*), the sacrifice. Moreover that Agni is चारुः (*cāruḥ*), glossed *caraṇeyaḥ*, and अंतमः (*aṃtamaḥ*), glossed *aṃtanaḥ* and "nearest to us". **NOTE**
+
+### Printed p. 142
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दैव्यं (*daivyaṃ*)—beneficial to the gods
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सहः (*sahaḥ*)—the strength
+- सुकृतं (*sukṛtaṃ*)—is excellently obtained
+- जरिता (*jaritā*)—the praiser of the gods
+- मेधिरः (*medhiraḥ*)—the wise one
+- कविः (*kaviḥ*)—the sagacious one
+- यज्ञः (*yajñaḥ*)—the one worthy of worship **NOTE**
+- चारुः (*cāruḥ*)—the one of attractive form
+- अंतमः (*aṃtamaḥ*)—the one nearest to us
+- अग्निः (*agniḥ*)—Agni
+- गृहे (*gṛhe*)—in our house
+- विदथे (*vidathe*)—in the sacrificial place
+- भूत् (*bhūt*)—has been established
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—I respectfully long for and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+The strength of Indra, beneficial to the gods, is excellently obtained. Agni, the praiser of the gods, the wise, the sagacious, the one worthy of worship, of attractive form and nearest to us, is established in our house, in the sacrificial place. We respectfully long for and invoke Aditi, who is the all-embracing one.
+
+##### English translation
+The divine force of Indra is well constructed; Agni (abides) in ou dwelling, the praiser of the gods, the reciever of oblations, the sage, and is worthy of sacrifice at the altar, beautiful, and most nigh (to us). We long for the universal Aditi.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वो॒ गुहा॑ चक्रम॒ भूरि॑ दुष्कृ॒तं नाविष्ट्यं॑ वसवो देव॒हेळ॑नं॥  
+> माकि॑र्नो देवा॒ अनृ॑तस्य॒ वर्ष॑स॒ आ स॒र्वता॑ति॒मदि॑तिंवृणीमहे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वः । गुहा । चक्रम । भूरि । दुःकृतं । न । अवित्यं । वसवः । देवहेळनं ।  
+> माकिः । नः । देवाः । अनृतस्य । वर्पसः । आ । सर्वतातिं । अदितिं । वृणीमहे ॥ ७ ॥
+
+### Printed p. 143
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः वो युष्माकं गुहा गुहायां प्रच्छन्ने देशे भूरि प्रभूतं
+> दुष्कृतं पापं । द्रोहमित्यर्थः । न चक्रम । तथाविष्ट्यमाविः संभूतं देवहेळनं देवानां क्रोधनं तन्निमित्तं द्रोहं न चक्रम हे वसवो वासका देवाः ।
+> किंच हे देवाः नोऽस्माकमनृतस्य वर्पसो रूपस्य प्राप्तिर्माकिः । मा भूत् ।
+> इतः परं मानुषं रूपं मा भूदित्यर्थः । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+O gods, we have not done abundant (भूरि (*bhūri*)) evil (दुष्कृतं (*duṣkṛtaṃ*)), that is, treachery, toward you in a hidden place (गुहा (*guhā*)). Likewise, O Vasus, dwelling-givers among the gods, we have not done any treachery that is manifest and causes the anger of the gods (देवहेळनं (*devaheḷanaṃ*)). Moreover, O gods, let there be no (माकिः (*mākiḥ*) = मा भूत् (*mā bhūt*)) attainment for us of an unreal (अनृतस्य (*anṛtasya*)) form (वर्पसः (*varpasaḥ*) = रूपस्य (*rūpasya*)); the sense is that from now on there should be no human form. The rest has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—givers of wealth
+- देवाः (*devāḥ*)—O gods
+- वः (*vaḥ*)—in regard to you
+- गुहा (*guhā*)—in secret
+- भूरि (*bhūri*)—abundant
+- दुष्कृतं (*duṣkṛtaṃ*)—sin
+- न चक्रम (*na cakrama*)—we have not committed
+- देवहेळनं (*devaheḷanaṃ*)—so as to incur the anger of the gods
+- आविष्ट्यं (*āviṣṭyaṃ*)—openly also
+- न (*na*)—we do no wrong at all
+- नः (*naḥ*)—to us
+- अनृतस्य (*anṛtasya*)—of an unreal nature
+- वर्पसः (*varpasaḥ*)—of a form
+- माकिः (*mākiḥ*)—let there be no attainment
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we respectfully long for and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, givers of wealth, we have not done any hidden wrong to you in abundance. We have not done any wrong openly either, so as to incur your anger. May the attainment of an unreal form not befall us. We respectfully pray to and invoke Aditi, who is the all-embracing one.
+
+##### English translation
+We have not done any great evil in secret from you, nor any open
+(action) causing the anger of the gods O you givers of wealth; let not, O
+gods, (the possession) of an unreal form be our (lot). We long for the univer-
+sal Aditi.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपामी॑वानां सवि॒ता सा॑विष॒न्य१॒॑ १ ग्वरी॑य॒ इदस॑ सेधं॒त्वद्र॑यः ॥  
+> ग्रावा॒ यत्र॑ मधु॒षुदु॒च्यते॑ बृ॒हदा स॒र्वता॑ति॒मदि॑तिं  
+> वृणीमहे ॥ ८ ॥
+
+### Printed p. 144
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । अमीवां । सविता । साविषत् । न्यक् । वरीयः । इत् । अप । सेधंतु । अद्रयः ॥  
+> ग्रावा । यत्र । मधुसुत् । उच्यते । बृहत् । आ । सर्वतातिं । अदितिं । वृणीमहे॥८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता सर्वस्य प्रेरकः सवितृदेवतास्माकं संबंधिनममीवां रोगमप साविषत् । अपप्रेरयतु । अपगमयत्वित्यर्थः । तथा वरीय इदुरुतरमपि पापं
+> न्यग्नीचीनमप सेधंत्वद्रयः पर्वताभिमानिनो देवा अभिषवाश्मानो वा । एतत्सर्वं कुत्र भवत्विति चेत् उच्यते । यत्र यस्मिन्प्रदेशे यस्मिन्यागे वा मधुरस्य
+> सोमस्य सोता ग्रावा बृहत्प्रवृद्धमुच्यते स्सूयते तत्र ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impeller of all, is to drive away (अप साविषत् (*apa sāviṣat*) = अपप्रेरयतु (*apaprerayatu*), *apagamayatu*) the disease (अमीवां (*amīvāṃ*)) that is ours. Likewise let the अद्रयः (*adrayaḥ*), the gods who preside over mountains, or the pressing-stones, drive downward (न्यक् (*nyak*) = न्यग्नीचीनमप (*nyagnīcīnamapa*)) even the greater (वरीयः (*varīyaḥ*)) sin. If it is asked where all this is to take place, the answer is: in the place or at the sacrifice where the stone (ग्रावा (*grāvā*)) that presses the sweet Soma is greatly (बृहत् (*bṛhat*)) praised, that is, pressed (उच्यते (*ucyate*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—the god Savitṛ
+- अमीवां (*amīvāṃ*)—our disease
+- अप साविषत् (*apa sāviṣat*)—let him destroy
+- यत्र (*yatra*)—in which sacrificial place
+- मधुसुत् (*madhusut*)—that presses the sweet Soma
+- ग्रावा (*grāvā*)—the stone
+- बृहत् (*bṛhat*)—greatly
+- उच्यते (*ucyate*)—is praised (there)
+- अद्रयः (*adrayaḥ*)—the mountain-presiding deities
+- न्यक् (*nyak*)—our sin
+- वरीय इत् (*varīya it*)—even though it is great
+- अप सेधंतु (*apa sedhaṃtu*)—let them drive far away and destroy
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we respectfully pray and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ destroy our disease. In whatever sacrificial place the stone that presses the sweet Soma is greatly praised, there may the mountain-presiding deities destroy our abundant and despicable sin. We respectfully pray to and invoke Aditi, who is all-pervading.
+
+##### English translation
+May Savitri drive away our disease, may the mountains keep off our
+most heinous (sin), where the stone (the effuser) of the sweet juice is abun-
+dantly praised. We long for the universal Aditi.
+
+### Printed p. 145
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊ॒र्ध्वो ग्रावा॑ वसवोऽस्तु सो॒तरि॒ विश्वा॒ द्वेषां॑सिसनु॒तर्यु॑योत ॥  
+> स नो॑ दे॒वः स॑वि॒ता पा॒युरीड्य॒ आ स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्ध्वः । ग्रावा । वसवः । अस्तु । सोतरि । विश्वा । द्वेषांसि । सनुतः । युयोत ।  
+> सः । नः । देवः । सविता । पायुः । ईड्यः । आ । सर्वतातिं । अदितिं । वृणीमहे ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसवो देवाः सोतरि सोमाभिषवकर्तरि मयि ग्रावोर्ध्व उन्नतोऽस्तु ।
+> तेनोच्छ्रितेन विश्वा द्वेषांसि सर्वानपि द्वेष्ट्यन्सनुतर्निगूढान्युयोत । पृथक्कुरुत । स सविता देवो नोऽस्माकं पायुः पालयिता ॥ कृवापाजीत्यादिनोण् ।
+> प्रत्ययस्वरः ॥ स ईड्यः स्तोतव्यश्च ।
+
+##### Gist of the bhāṣya
+
+O Vasus, gods, in me, the one who presses Soma (सोतरि (*sotari*)), let the pressing-stone be raised up (ऊर्ध्वः (*ūrdhvaḥ*), *unnataḥ*). By that raised stone separate out (युयोत (*yuyota*) = पृथक्कुरुत (*pṛthakkuruta*)) all hatreds, that is, all hateful ones, hidden (सनुतः (*sanutaḥ*) = निगूढान् (*nigūḍhān*)). That god Savitṛ is our protector (पायुः (*pāyuḥ*) = पालयिता (*pālayitā*)), and is to be praised (ईड्यः (*īḍyaḥ*) = *stotavyaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसवः (*vasavaḥ*)—O gods, givers of dwelling
+- सोतरि (*sotari*)—when I press Soma
+- ग्रावा (*grāvā*)—the pressing-stone
+- ऊर्ध्वः अस्तु (*ūrdhvaḥ astu*)—let it rise upward
+- सनुतः (*sanutaḥ*)—hidden in secret
+- विश्वा द्वेषांसि (*viśvā dveṣāṃsi*)—all our enemies
+- युयोत (*yuyota*)—destroy
+- सः (*saḥ*)—the famous
+- सविता देवः (*savitā devaḥ*)—the god Savitṛ
+- नः (*naḥ*)—our
+- पायुः (*pāyuḥ*)—protector
+- ईड्यः (*īḍyaḥ*)—worthy of worship
+- सर्वतातिं (*sarvatātiṃ*)—the universal
+- अदितिं (*aditiṃ*)—Aditi
+- आ वृणीमहे (*ā vṛṇīmahe*)—we respectfully pray and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, givers of dwelling, when I press Soma, let the crushing stone rise upward. Destroy our enemies who lie hidden in secret. The famous god Savitṛ is both our protector and worthy of worship. We respectfully pray to and invoke Aditi, who is the all-embracing one.
+
 ---
 
-**Progress note:** Done through printed p. 139. pp. 134-139 (batch API)
+**Progress note:** Done through printed p. 145. pp. 140-145 (batch API)
