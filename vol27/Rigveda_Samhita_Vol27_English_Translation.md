@@ -7558,6 +7558,119 @@ Seven (are) the quarters of the world with different suns, seven (are) the minis
 
 सप्त दिशो नानासूर्याः (*sapta diśo nānāsūryāḥ*)—Here the four directions and the four intermediate directions together make eight quarters. सोमो यस्यां दिशि वर्तते दद्व्यतिरिक्ता सप्त भवंति (*somo yasyāṃ diśi vartate dadvyatiriktā sapta bhavaṃti*): apart from the quarter in which Soma or the deity Soma is, the remaining ones are seven quarters; therefore it is said here "seven quarters". In these quarters there are various seasons presided over by various kinds of suns. On this point the commentator has cited the Śruti sentence नानालिंगत्वावृतूनां नानासूर्यत्वं (*nānāliṃgatvāvṛtūnāṃ nānāsūryatvaṃ*). Though the sun is one, according to the nature of the seasons the sun
 
+### Printed p. 165
+
+Since they are present in those (directions), that is, since they are endowed with various qualities according to the seasons, the plural "various suns" is used here.
+
+देवा आदित्या ये सप्त (*devā ādityā ye sapta*): further, if the word sūrya is taken in the sense of Āditya (son of Aditi), then Aditi has six, seven or eight sons. Who they are can be cited from the Ṛk अष्टौ पुत्रासो आदितेः (*aṣṭau putrāso āditeḥ*) (Ṛ. Saṃ. 18-72.-8) **NOTE** and from other Vedic passages. On this question, how many sons of Aditi, or Ādityas, there are, some explanation is necessary.
+
+It is necessary to discuss closely here what the numerical limit of the deities called Ādityas is. In the Ṛk इमा गिर आदित्येभ्यः (*imā gira ādityebhyaḥ*) (Ṛ. Saṃ. 2-26-1) which Yāska gives as an example, six deities are named: Mitra, Aryamā, Bhaga, Varuṇa, Dakṣa and Aṃśa; these are said to be the Ādityas. But for the word tuvijāta the Nirukta-author explains बहुजातश्च धाता (*bahujātaśca dhātā*) (Ni. 12.-26), "धाता (*dhātā*)". How? तुवीति बहुनाम । सर्वविधातृत्वाद्वहुजन्मा धाता यावदधिकारं जन्मेति । (*tuvīti bahunāma | sarvavidhātṛtvādvahujanmā dhātā yāvadadhikāraṃ janmeti |*), the Nirukta-author has explained. The word tuvi means "many". Janman means "office"; tuvijāta means Dhātā, the maker of all, with many kinds of offices. Since the word tuvijāta is thus explained, one must say that in this Ṛk there are seven Ādityas, counting Dhātā. And in the mantra सप्त दिशो नाना सूराः (*sapta diśo nānā sūrāḥ*) the number of Ādityas is given as seven (Ṛ. Saṃ. 9-114-3), but the names are not given; only देवा आदित्या ये सप्त (*devā ādityā ye sapta*) is stated. Earlier, when speaking of Aditi, the mantras 10.27-8, 9 were cited, and it was explained that Aditi had eight sons, that she offered seven of them to the gods, and that she kept the eighth, Mārtāṇḍa, for herself and nourished him. Here too, apart from Mārtāṇḍa, the others are not named. In the mantra (Ai. Ve. 8-9-21) **NOTE** it is said that Aditi has eight sons. In explaining the purport of the mantra 2-27-1, Sāyaṇa quoted a sentence of the Taittirīya Āraṇyaka to state their number: अष्टौ पुत्रासो आदिते (*aṣṭau putrāso ādite*) ... and ताननुक्रमि स्वामः मित्रश्च वरुणश्च ! धाता चारमा च । अग्‌ंशश्च भगश्च । इंद्रश्च विवस्वाग्ंक्षेते (*tānanukrami svāmaḥ mitraśca varuṇaśca ! dhātā cāramā ca | agṃśaśca bhagaśca | iṃdraśca vivasvāgṃkṣete*) (Tai. Ā. 1-13.3); as is there, the eight sons of Aditi are named.
+
+In places such as उदगादयमादित्यः (*udagādayamādityaḥ*) (Ṛ. Saṃ. 1-50-12) and उदपप्तदसौ सूर्यः (*udapaptadasau sūryaḥ*) (Ṛ. Saṃ. 1-191-1), the identity of Sūrya and Āditya is stated. It is also described that Agni, the son of Aditi, was established in the sky by the gods in the form of the sun: यदेदेनमदधुर्यज्ञि यासो दिवि देवाः सूर्यमादितेयं (*yadedenamadadhuryajñi yāso divi devāḥ sūryamāditeyaṃ*) (Ṛ. Saṃ. 11-88-11) **NOTE**. आनर्वाणो हैषां पंथा आदित्यानां (*ānarvāṇo haiṣāṃ paṃthā ādityānāṃ*) (Ṛ. Saṃ. 8-18-2): thus the nature of the path of the Ādityas is stated, and
+
+### Printed p. 166
+
+then, तत्सु नः सविता भगो वरुणो मित्रो अर्यमा (*tatsu naḥ savitā bhago varuṇo mitro aryamā*) (Ṛ. Saṃ. 8-18-3): here the name of Savitṛ is joined with the four Ādityas. In some places the deity Sūra or Savitṛ is assigned the seventh place among the Ādityas (Atha. Ve. 8-2-9 : 37) **NOTE**. In some places Indra, along with Varuṇa, is counted as an Āditya (Ṛ. Saṃ. 7-85-4).
+
+In places such as शत्रु त्वादित्या रक्ष्यतां सूर्याचंद्रमसावुभौ (*śatru tvādityā rakṣyatāṃ sūryācaṃdramasāvubhau*) (Atha. Ve. 8-2-15), both Sūrya and Candra are included in the group of Ādityas.
+
+मात्यादित्यानां दुहिता वसूनां . . . हिरण्यवर्णा मधुकशा (*mātyādityānāṃ duhitā vasūnāṃ . . . hiraṇyavarṇā madhukaśā*) (Atha. Ve. 9-1-4): the golden-hued Madhukaśā is called the mother of the Ādityas and the daughter of the Vasus. Thus in each context the relation between Aditi and the Ādityas is stated in a different way. Their relation is explained in the Taittirīya Brāhmaṇa as follows.
+
+अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मादनमपचत् । तस्या उच्छे षणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्मै धाता चार्यमा चा जायेतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् ॥ सा रेतोऽधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या अगंंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्पाश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विवस्वाग्श्चाजायेतां ॥ (*aditiḥ putrakāmā | sādhyebhyo devebhyo brahmādanamapacat | tasyā ucche ṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasmai dhātā cāryamā cā jāyetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt ‖ sā reto 'dhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā agaṃṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatpāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivasvāgścājāyetāṃ ‖*) (Śai. Brā. 1-1-9-1,2,3) **NOTE**.
+
+Aditi, desiring sons, cooked for the gods and the Sādhyas a oblation of the form of brahmaudana. They themselves ate that oblation and gave her the remainder. When she ate it, by its power two sons were born, Dhātā and Aryamā. When the same procedure was performed a second time, Mitra and Varuṇa were produced; the third time, Aṃśa and Bhaga; the fourth time, Indra and Vivasvat. The Taittirīya Brāhmaṇa describes these as the Ādityas.
+
+Explaining the same matter, the Śatapatha Brāhmaṇa says as follows.
+
+स मनसा एव वाचं मिथुनं समभवत्स द्वादशद्रप्सान्गर्भ्यभवत् । ते द्वादश आदित्या अस्यज्यंत तान् दिक्षूपादधत् ॥ (*sa manasā eva vācaṃ mithunaṃ samabhavatsa dvādaśadrapsāngarbhyabhavat | te dvādaśa ādityā asyajyaṃta tān dikṣūpādadhat ‖*) (Śa. Brā. 6:1-2-8)
+
+### Printed p. 167
+
+(Prajāpati) entered into a mental union with Vāk. Then he conceived a womb consisting of twelve drops. Its fruit was the appearance of the twelve Ādityas. Then he placed them as the guardians of the directions. So it is said. In the same way one may examine other Vedic passages that speak of the Ādityas.
+
+कतम आदित्या इति । द्वादश वै मासाः । संवत्सरस्यैत आदित्या एते हीदं सर्वमाददाना यंति ते यदिदं सर्वमाददाना यंति तस्मादादित्या इति ॥ (*katama ādityā iti | dvādaśa vai māsāḥ | saṃvatsarasyaita ādityā ete hīdaṃ sarvamādadānā yaṃti te yadidaṃ sarvamādadānā yaṃti tasmādādityā iti ‖*) (Śa. Brā. 11-6-3-8)
+
+How many Ādityas are there? The Ādityas are twelve in number. In a year there are twelve months. These are the Ādityas. Because those months go on taking hold of everything, they are called Ādityas. So it is said. The story concerning these Ādityas is told in the Taittirīya Brāhmaṇa as follows:
+
+आदित्याश्चांगिरसश्च सुवर्गे लोकेऽस्पर्धंतः तेऽंगिरस आदित्येभ्यः। अमुमादित्यमश्वग्न् श्वेतं भूतं दक्षिणामनयन् । तेऽब्रुवन् । यन्नोऽवेष्ट । स वरोऽभूदिति। तस्मादश्वग्न् सवर्येत्याह्वयंति। तस्माद्यज्ञे वरो दीयते॥ (*ādityāścāṃgirasaśca suvarge loke 'spardhaṃtaḥ te 'ṃgirasa ādityebhyaḥ| amumādityamaśvagn śvetaṃ bhūtaṃ dakṣiṇāmanayan | te 'bruvan | yanno 'veṣṭa | sa varo 'bhūditi| tasmādaśvagn savaryetyāhvayaṃti| tasmādyajñe varo dīyate‖*)
+
+यत्प्रजापतिरालब्दोऽश्वोऽभवत् । तस्मादश्वो नाम । यच्छ्वयदरुरासीत् । तस्मादर्वानाम । यत्सद्यो वाजस्थमजयत् । तस्माद्वाजी नाम । यदसुसाराणां लोकानादत्त । तस्मादादित्यो नाम ॥ (*yatprajāpatirālabdo 'śvo 'bhavat | tasmādaśvo nāma | yacchvayadarurāsīt | tasmādarvānāma | yatsadyo vājasthamajayat | tasmādvājī nāma | yadasusārāṇāṃ lokānādatta | tasmādādityo nāma ‖*) (Tai. Brā. 3-9-21-1,2) **NOTE**
+
+In heaven the Ādityas and the Aṅgirases competed with one another. The Aṅgirases offered to the Ādityas, as sacrificial fee, that Āditya who had the form of a white horse. Then the Ādityas said to the Aṅgirases: "This Āditya that you have brought is of a most excellent form." Because the Ādityas said of the horse-formed Āditya "स वरः (*sa varaḥ*)" (he is the best), the horse too came to be called savara in the world. Therefore a boon (vara) is given in the sacrifice. Prajāpati, offered in the sacrifice, is famous as *aśva* because he is all-pervading; as "arvan" because he experienced a pain of the eyes **NOTE**; as "वाजि (*vāji*)" because he brought all wealth under his control; and as "आदित्य (*āditya*)" because he seized (ādatta) all the worlds from the Asuras. In this way the derivation of the word Āditya is given. Explaining the same derivation, the Taittirīya Āraṇyaka says:
+
+योऽसौ तपन्नुदेति । स सर्वेषां भूतानां प्राणानादायोदेति । (*yo 'sau tapannudeti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyodeti |*) (Tai. Ā. 1.14-1) **NOTE**
+
+This sun who rises, he rises after seizing (ā + dā) the vital breaths of all beings. Therefore he is Āditya. Thus two kinds of context are described: that they are Ādityas because they are sons of Aditi, or that they are Ādityas because they are characterised by the act of seizing (ādāna). The Nirukta-author has explained this word as follows.
+
+### Printed p. 168
+
+आदित्यः कस्मात् । आदत्ते रसान् । आदत्ते भासं ज्योतिषां । आदीपो भासेति वा अदितेः पुत्र इति वा । ...... ...... .....सूरमादितेयं । एवमन्यासामपि देवतानामादित्यप्रवादाः स्तुतयो भवंति । तद्यथैतत् । मित्रस्य वरुणस्यार्यन्नो दक्षस्य भगस्यांशस्येति ॥ (*ādityaḥ kasmāt | ādatte rasān | ādatte bhāsaṃ jyotiṣāṃ | ādīpo bhāseti vā aditeḥ putra iti vā | ...... ...... .....sūramāditeyaṃ | evamanyāsāmapi devatānāmādityapravādāḥ stutayo bhavaṃti | tadyathaitat | mitrasya varuṇasyāryanno dakṣasya bhagasyāṃśasyeti ‖*) (Ni. 2.13)
+
+As it is described in सहस्रगुणमुत्सृष्टमादत्ते हि रसं रविः (*sahasraguṇamutsṛṣṭamādatte hi rasaṃ raviḥ*) and so on, the name Āditya is famous because he seizes the sap. Not only the sap; he seizes all brilliance. The name is famous either because he blazes with light or because he is the son of Aditi. But in the Ṛk-Saṃhitā Sūra is called a son of Aditi only in a place or two. In places such as दिवि देवाः सूर आदितेयं (*divi devāḥ sūra āditeyaṃ*) (Ṛ. Saṃ. 10-88-11) there is this explanatory description. Besides Sūra, Mitra, Varuṇa, Aryaman, Dakṣa, Bhaga and Aṃśa are also designated as Ādityas. Thus, if the purport of the word Āditya is the description of one's own quality, it applies only to Sūra. If it shows being a son of Aditi, it applies also to Mitra, Varuṇa and the rest. If the second meaning is given, then how many sons of Aditi there are becomes a matter to be determined exactly. Numbers are stated as six, eight, twelve and so on. Some Vedic passages showing this number have been cited above.
+
+सप्त होतार ऋत्विजः (*sapta hotāra ṛtvijaḥ*): the seven hotṛs here are seven officiating priests: Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsin, Potṛ, Neṣṭṛ, Acchāvāka and Āgnīdhra. These priests, in all three savanas, the morning savana, the midday savana and the third savana (the rite of pressing out the Soma juice and offering it in the fire according to rule is called a savana), each offer Soma in the fire with one Ṛk, with the vaṣaṭ-call, that is, adding the word vauṣaṭ at the end of the mantra. The rule is that at the morning savana the offering is made with Ṛks in the Gāyatrī metre, at the midday savana with Ṛks in the Triṣṭubh metre, and at the third savana with mantras in the Jagatī metre. These mantras, recited by the respective priests at the respective savanas, are called prasthita-yājyā mantras or sapta-hotra mantras. They are set out here in detail:
+
+**The morning savana**
+
+At this savana all seven priests must recite Ṛks in the Gāyatrī metre.
+
+1. The mantra to be recited by the Hotṛ:
+इदं ते सोम्यं मध्वधक्षन्नद्रिभिर्नरः । जुषाण इंद्र तत्पिब ॥ (*idaṃ te somyaṃ madhvadhakṣannadribhirnaraḥ | juṣāṇa iṃdra tatpiba ‖*) (Ṛ. Saṃ. 8-65-8)
+
+### Printed p. 169
+
+2. The mantra to be recited by the priest called Brāhmaṇācchaṃsin:
+इंद्र त्वा वृषभं वयं सुते सोमे हवामहे । स पाहि मध्यो अंधसः ॥ (*iṃdra tvā vṛṣabhaṃ vayaṃ sute some havāmahe | sa pāhi madhyo aṃdhasaḥ ‖*) (Ṛ. Saṃ. 3-40-1)
+
+3. The mantra to be recited by the priest called Mitrāvaruṇa:
+मित्रं वयं हवामहे वरुणं सोमपीतये । जज्ञाना पूतदक्षसा ॥ (*mitraṃ vayaṃ havāmahe varuṇaṃ somapītaye | jajñānā pūtadakṣasā ‖*) (Ṛ. Saṃ. 1-23-4)
+
+4. The mantra to be recited by the priest called Potṛ:
+नुरुतो यस्य हि क्षये पाथा दिवो विमहसः । स सुगोपातमो जनः ॥ (*nuruto yasya hi kṣaye pāthā divo vimahasaḥ | sa sugopātamo janaḥ ‖*) (Ṛ. Saṃ. 1-86-1)
+
+5. The mantra to be recited by the priest called Neṣṭṛ:
+अग्ने पत्निरिहा वह देवानामुशतीरुव । त्वष्टारं सोमपीतये ॥ (*agne patnirihā vaha devānāmuśatīruva | tvaṣṭāraṃ somapītaye ‖*) (Ṛ. Saṃ. 1-22-9)
+
+6. The mantra to be recited by the priest called Āgnīdhra:
+उक्षान्नाय वशान्नाय सोमपृष्टाय वेधसे । स्तोमैर्विधेमाग्नये ॥ (*ukṣānnāya vaśānnāya somapṛṣṭāya vedhase | stomairvidhemāgnaye ‖*) (Ṛ. Saṃ. 8-43-11)
+
+7. The mantra to be recited by the priest called Ājñāvāka **NOTE**:
+प्रातर्यावभिरा गतं देवेभिर्जेन्यावसू ! इंद्राग्नी सोमपीतये ॥ (*prātaryāvabhirā gataṃ devebhirjenyāvasū ! iṃdrāgnī somapītaye ‖*) (Ṛ. Saṃ. 8-38-7)
+
+**The midday savana**
+
+At this savana only mantras in the Triṣṭubh metre are to be recited. Among them:
+
+8. The mantra to be recited by the Hotṛ:
+पिबा सोममभि यमुग्र तर्द ऊर्वं गव्यं महि गृणान वि यो धृष्टो वधिषो वज्रहस्त विश्वा वृक्रममित्रिया शव (*pibā somamabhi yamugra tarda ūrvaṃ gavyaṃ mahi gṛṇāna vi yo dhṛṣṭo vadhiṣo vajrahasta viśvā vṛkramamitriyā śava*)
+
+### Printed p. 170
+
+2. Maitrāvaruṇa:
+स ई पाहि य ऋजीषी तरुत्तो यः शिप्रवान् वृषभो यो मतीनां । यो गोत्रभिद्दज्रभिद्यो हरिष्ठाः स इंद्र चित्रा मभि त्वंधि वाजान् ॥ (*sa ī pāhi ya ṛjīṣī tarutto yaḥ śipravān vṛṣabho yo matīnāṃ | yo gotrabhiddajrabhidyo hariṣṭhāḥ sa iṃdra citrā mabhi tvaṃdhi vājān ‖*) (Ṛ. Saṃ. 6-17-2)
+
+3. Brāhmaṇācchaṃsin:
+एवा पाहि प्रत्नथा मंदतु त्वा श्रुधि ब्रह्म नावृधस्वत गीर्भिः । आविः सूर्यं कृणुहि पीपिहीषो जहि शत्रुरभि गा इंद्र तृंधि ॥ (*evā pāhi pratnathā maṃdatu tvā śrudhi brahma nāvṛdhasvata gīrbhiḥ | āviḥ sūryaṃ kṛṇuhi pīpihīṣo jahi śatrurabhi gā iṃdra tṛṃdhi ‖*) (Ṛ. Saṃ. 6-17-2) **NOTE**
+
+4. Potṛ:
+अर्वाजीहि सोमकामं त्वाहुरयं सुतस्तस्य पिबा मदाय । उरुव्यचा जठर आ वृषस्व पितेव नः शृणुहि हूयमानः ॥ (*arvājīhi somakāmaṃ tvāhurayaṃ sutastasya pibā madāya | uruvyacā jaṭhara ā vṛṣasva piteva naḥ śṛṇuhi hūyamānaḥ ‖*) (Ṛ. Saṃ. 1-104-9)
+
+5. Neṣṭṛ:
+तवायं सोमस्त्वमेह्यर्वाज् शश्वत्तमं सुमना अस्य पाहि । अस्मिन् यज्ञॆ बर्हिष्या निषद्या दधिष्टेमं जठर इंदुमिंद्र ॥ (*tavāyaṃ somastvamehyarvāj śaśvattamaṃ sumanā asya pāhi | asmin yajñè barhiṣyā niṣadyā dadhiṣṭemaṃ jaṭhara iṃdumiṃdra ‖*) (Ṛ. Saṃ. 3-35-6)
+
+6. Acchāvāka:
+इंद्राय सोमाः प्रदिवो विदाना ऋभुर्येभिर्वषपर्वा विहायाः प्रयम्यमानान् प्रति षू गृथायेंद्र पिब वृषधूतस्य वृषः ॥ (*iṃdrāya somāḥ pradivo vidānā ṛbhuryebhirvaṣaparvā vihāyāḥ prayamyamānān prati ṣū gṛthāyeṃdra piba vṛṣadhūtasya vṛṣaḥ ‖*) (Ṛ. Saṃ. 3-36-2)
+
+7. Āgnīdhra:
+आपूर्णो अस्य कलशः स्वाहा सेक्तेव कोशं सिसिचे पिबध्यै । समु प्रिया आववृत्रन् मदाय प्रदक्षिणिदभि सोमास इंद्रं । (*āpūrṇo asya kalaśaḥ svāhā sekteva kośaṃ sisice pibadhyai | samu priyā āvavṛtran madāya pradakṣiṇidabhi somāsa iṃdraṃ |*) (Ṛ. Saṃ. 3-36-15)
+
+**The third savana**
+
+All the mantras to be recited at this savana are in the Jagatī metre.
+
+1. The Hotṛ:
+इंद्र ऋभुभिर्वाजवद्भि: समुक्षितं सुतं सोममा वृषस्वा गभस्तोः । धियेषितो मघवन्माशुषो गृहे सौधन्वनेभिः सह मत्साव्नृभिः ॥ (*iṃdra ṛbhubhirvājavadbhi: samukṣitaṃ sutaṃ somamā vṛṣasvā gabhastoḥ | dhiyeṣito maghavanmāśuṣo gṛhe saudhanvanebhiḥ saha matsāvnṛbhiḥ ‖*) (Ṛ. Saṃ. 3-60-5)
+
 ---
 
-**Progress note:** Done through printed p. 164. pp. 159-164 (batch API)
+**Progress note:** Done through printed p. 170. pp. 165-170 (batch API)
