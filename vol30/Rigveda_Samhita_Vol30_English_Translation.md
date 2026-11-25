@@ -37250,6 +37250,228 @@ In this sūkta the gods are prayed to that there be no miscarriage (abortion) be
 तृतीये गर्भमासे तु मणिमेतं समासजेत् ॥ ९३ ॥ (*tṛtīye garbhamāse tu maṇimetaṃ samāsajet ‖ 93 ‖*)
 पुष्प्यंती शरदं नारी गौः सवत्सा वसेद्यथा । (*puṣpyaṃtī śaradaṃ nārī gauḥ savatsā vasedyathā |*)
 
+### Printed p. 1093
+
+[[Ṛgvidhāna, Adhyāya 4, verses 92–98 continue; the verse lines at the head of this page are part of the quotation begun on the previous page]]
+
+##### विशेषविषयगळु (Special Topics)
+
+When a woman is known to be pregnant, it is good to perform certain expiatory and similar rites so that the embryo may not miscarry and so that it may be protected. On such an occasion one should offer an oblation of ghee in the fire with recitation of the mantras of this sūkta beginning ब्रह्मणाग्निः (*brahmaṇāgniḥ*). The pregnant woman should drink the ghee left over from the oblation and anoint her body with it. If this is done, the child to be born will be born alive. For the protection of the embryo the following procedure may also be followed. After offering the oblation with the mantras of this sūkta, a jewel (or ornament) should be placed in the ghee remaining from the oblation, and the jewel should be bound with a thread of three strands. Along with the jewel a tender fruit of the banyan tree is wrapped in cloth; both that and the jewel are consecrated with the mantras of this sūkta and with ten thousand recitations of the Gāyatrī. The jewel, purified by Brāhmaṇas with svastivācana, japa, homa and so on, is to be worn on her head by the pregnant woman. This is to be done in the third month of pregnancy. If it is done, the woman will bear a male child. The newborn child is to be anointed with the remaining ghee. After the year is complete, japa, homa and the rest are to be performed as before by Brāhmaṇas, preceded by svastivācana. Before the child is given the breast, the Śraddhā-sūkta श्रद्धयाग्निः समिध्यते (*śraddhayāgniḥ samidhyate*) (Ṛ. Saṃ. 10-151) is to be recited and then the child is nursed. And with the recitation of the Medhā-sūkta मेभां मह्यं (*mebhāṃ mahyaṃ*) (a khila sūkta), flour or cooked rice mixed with honey is to be fed to the child. By so doing the child grows well and later becomes very medhāvin, that is, very intelligent; and he is full-lived: he does not die before the hundred years are complete. This is the main purport.
+
+### Printed p. 1094
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मणाग्निरिति षडृचमेकादशं सूक्तमानुष्टुभं । ब्रह्मपुत्रो रक्षोहा
+> नामर्षिः । अपप्रसवसमाधानरूपस्य गर्भरक्षणस्य प्रतिपाद्यत्वात्तद्देवताकमिदं ।
+> अनुक्रांतं च । ब्रह्मणा षट् ब्राह्मो रक्षोहा गर्भसंस्रावे प्रायश्चित्तमानुष्टुभं
+> हीति ॥ विनियोगो लिंगादवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+This sūkta ब्रह्मणाग्निः (*brahmaṇāgniḥ*) has six Ṛks, is the eleventh sūkta of its anuvāka, and is in the Anuṣṭubh metre. The seer is Rakṣohā, son of Brahmā. Since the sūkta teaches the protection of the embryo, in the form of preventing miscarriage, that is its deity. The Anukramaṇī is quoted: ब्रह्मणा षट् ब्राह्मो रक्षोहा गर्भसंस्रावे प्रायश्चित्तमानुष्टुभं हीति (*brahmaṇā ṣaṭ brāhmo rakṣohā garbhasaṃsrāve prāyaścittamānuṣṭubhaṃ hīti*). The viniyoga is to be understood from the indication of the mantras themselves.
+
+##### Anuvāda
+
+This sūkta beginning ब्रह्मणाग्निः (*brahmaṇāgniḥ*) is the eleventh sūkta in the twelfth anuvāka. It has six Ṛks. Its seer is Rakṣohā, a son of Brahmā. Because the means of protecting the embryo so that there is no miscarriage is set forth in this sūkta, that subject is its deity. The metre is Anuṣṭubh. In the Anukramaṇī it is said: ब्रह्मणा षड् ब्राह्मो रक्षोहा गर्भ संस्रावे प्रायश्चित्तमानुष्टुभं (*brahmaṇā ṣaḍ brāhmo rakṣohā garbha saṃsrāve prāyaścittamānuṣṭubhaṃ*). The viniyoga is to be understood according to the meaning of the mantras.
+
+Maṇḍala 10, Anuvāka 12, Sūkta 162. Aṣṭaka 8, Adhyāya 8, Varga 20.
+Number of Ṛks in the sūkta: 6.
+Ṛṣi: Rakṣohā Brāhma. Devatā: expiation in miscarriage. Chandas: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॑णा॒ग्निः सं॑विदा॒नो र॑क्षो॒हा बा॑धतामि॒तः ।  
+> अमी॑वा॒ यस्ते॒ गर्भं॑ दु॒र्णामा॒ योनि॑मा॒शये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्मणा । अग्निः । संविदानः । रक्षःहा । बाधतां । इतः ।  
+> अमीनावा । यः । ते । गर्भं । दुःनामा । योनिं । आशये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मणा मंत्रेण सह संविदान ऐकमत्यं प्राप्तो रक्षोहा रक्षसां हंताग्नि
+> रितोऽस्मात्स्थानाद्राक्षसादिकं बाधतां । हिनस्तु । यो राक्षसोऽमीवा रोगरूपः
+
+##### Gist of the bhāṣya
+
+Agni, the slayer of Rakṣases, having come to agreement (संविदान (*saṃvidāna*)) with the mantra (ब्रह्मणा (*brahmaṇā*)), is asked to drive away from this place the Rākṣasa and the like. The Rākṣasa who, in the form of disease (अमीवा (*amīvā*)), ... (continues on the next page).
+
+### Printed p. 1095
+
+> संस्थे तव गर्भमाशये आशेते ॥ लोपस्त आत्मनेपदेष्टिति तलोपः ॥ हंतुं
+> प्राप्नोति । दुर्नामार्श अख्यो रोगः । तद्रूपः सन् यश्च ते तव योनिं रेतस
+> आधानं गर्भस्थानमाशेते तं बाधतामित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+... lies in your womb (आशये (*āśaye*) = आशेते (*āśete*), with loss of the ending ta) and tries to destroy it; and who, taking the form of the disease named दुर्नामार्श (*durnāmārśa*), lies in your yoni, the receptacle of semen and the place of the embryo: him let Agni drive away. Such is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Rākṣasa (O woman)
+- अमीवा (*amīvā*)—being in the form of disease
+- ते (*te*)—your
+- गर्भं (*garbhaṃ*)—in the womb
+- आशये (*āśaye*)—has settled; and
+- दुर्नामा (*durnāmā*)—in the form of the disease called arśas
+- योनिं (*yoniṃ*)—dwells in your yoni: that Rākṣasa or disease
+- ब्रह्मणा (*brahmaṇā*)—by the mantra
+- संविदानः (*saṃvidānaḥ*)—having come to agreement
+- रक्षोहा अग्निः (*rakṣohā agniḥ*)—Agni the destroyer of Rākṣasas
+- इतः (*itaḥ*)—from this place
+- बाधतां (*bādhatāṃ*)—let him smite
+
+##### भावार्थ (Bhāvārtha)
+
+O woman, whatever Rākṣasa in the form of disease, or whatever disease, has settled in the womb, or whatever disease called arśas has enveloped your yoni, all that disease let Agni the Rakṣohan, joined with the mantra, smite and drive away from here.
+
+##### English translation
+May Agni, the destroyer of the Rakshasas, consenting to our prayer. drive hence (the evil spirit) who (in the form of) sickness assails your embryo, who. as the disease durnaman, assaults your womb.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ गर्भ॒ममी॑वा दु॒र्णामा॒ योनि॑मा॒शये॑ ।  
+> अ॒ग्निष्टं ब्रह्म॑णा स॒ह निष्क॒व्याद॑मनीनशत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । गर्भं । अमीना । दुःसनामा । योनिं । आशये ।  
+> अग्निः । तं । ब्रह्मणा । सह । निः । क्रव्यअदं । अनीनशत् ॥ २ ॥
+
+### Printed p. 1096
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गतः पूर्वोऽर्धर्चः । तं क्रव्यादं मांसाशिनं राक्षसादिकं ब्रह्मणा सहितोऽग्निर्निःशेषेणानीनशत् । नाशयतु ॥
+
+##### Gist of the bhāṣya
+
+The first half-verse has already been explained. That flesh-eater (क्रव्यादं (*kravyādaṃ*)), the Rākṣasa or the like, Agni together with the mantra (ब्रह्मणा (*brahmaṇā*)) has destroyed utterly (अनीनशत् (*anīnaśat*)); let him destroy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः अमीना (*yaḥ amīnā*)—which Rākṣasa in the form of disease, or which disease (O woman)
+- ते (*te*)—your
+- गर्भं (*garbhaṃ*)—in the womb
+- आशये (*āśaye*)—has settled (and)
+- दुर्णामा (*durṇāmā*)—the disease called arśas
+- योनिं (*yoniṃ*)—has enveloped the region of your yoni
+- क्रव्यादं (*kravyādaṃ*)—eating the flesh (of the body)
+- तं (*taṃ*)—that disease or Rākṣasa
+- ब्रह्मणा सह (*brahmaṇā saha*)—joined with the mantra
+- अग्निः (*agniḥ*)—Agni Rakṣohan
+- निः अनीनशत् (*niḥ anīnaśat*)—let him destroy completely
+
+##### भावार्थ (Bhāvārtha)
+
+O woman, that disease which has settled and enveloped your womb and the region of your yoni and eats flesh, let Agni Rakṣohan, joined with the mantra, destroy completely.
+
+##### English translation
+May Agni, concurring in our prayer, destroy the cannibal who, as sickness, assails your embryo, who, as the disease durnaman, assaults your womb.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska gives an etymology to explain the words अमीना (*amīnā*) and दुर्णामा (*durṇāmā*) in this Ṛk:
+अमीना । यस्ते गर्भममीना दुर्णामा योनिमाशये । अमीनाभ्यमनेन व्याख्यातः । दुर्णामा क्रिमिर्भवति पापनामा । कृमिः क्रव्ये मेद्यति क्रमतेर्वा स्यात्सरणकर्मणः क्रामतेर्वा ॥ (*amīnā | yaste garbhamamīnā durṇāmā yonimāśaye | amīnābhyamanena vyākhyātaḥ | durṇāmā krimirbhavati pāpanāmā | kṛmiḥ kravye medyati kramatervā syātsaraṇakarmaṇaḥ krāmatervā ‖*) (Ni. 6-12)
+अमीवा (*amīvā*) means अमवान् (*amavān*), अभ्यमनवान् (*abhyamanavān*), that is परेभ्यो भयदाता यायात् (*parebhyo bhayadātā yāyāt*): that which causes fear to others, i.e. disease. दुर्णामा (*durṇāmā*) means a kind of worm (germ) named "evil". A कृमि (*kṛmi*) is, according to क्रव्ये मेद्यति (*kravye medyati*), a worm that lives in flesh and grows by eating it. Or the word क्रिमि (*krimi*) may be derived from the root क्रम् (*kram*) meaning "to move slowly", or from the root क्रम् (*kram*) meaning "to crawl".
+
+### Printed p. 1097
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ हंति॑ प॒तयं॑तं निष॒त्सु ० यः स॑रीसृ॒पं ।  
+> जा॒तं यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । हंति । पतयंतं । निसत्सुं । यः । सरीसृपं ।  
+> जातं । यः । ते । जिघांसति । तं । इतः । नाशयामसि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे योषित् ते तव गर्भाशये पतयंतं पतंतं रेतोरूपेण गच्छंतं
+> तदनंतरं तत्र निषत्सुं निषीदंतं च गर्भं यो राक्षसादिर्हंति हिनस्ति ततो मासत्रयादूर्ध्वं प्राप्तसर्वावयवं सरीसृपं सर्पणशीलं च गर्भं यो हंति जातं
+> दशसु मासेषूत्पन्नं ते तव शिशुं यो राक्षसादिर्जिघांसति हंतुमिच्छति तमितः
+> स्थानानाशयामसि । नाशयामः ॥
+
+##### Gist of the bhāṣya
+
+O woman, whatever Rākṣasa or the like kills your embryo as it falls (पतयंतं (*patayaṃtaṃ*)) into the womb in the form of semen and then settles (निषत्सुं (*niṣatsuṃ*)) there; whoever, after the three months, kills the embryo that has gained all its limbs and moves about (सरीसृपं (*sarīsṛpaṃ*)); whatever Rākṣasa or the like wishes to kill (जिघांसति (*jighāṃsati*)) your child, born after ten months: him we destroy (नाशयामसि (*nāśayāmasi*)) from this place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O woman) ते (*te*)—in your womb
+- पतयंतं (*patayaṃtaṃ*)—having fallen in the form of semen
+- निषत्सुं (*niṣatsuṃ*)—the embryo-mass that stays there
+- यः (*yaḥ*)—which Rākṣasa or disease
+- हंति (*haṃti*)—harms (then, after three months)
+- सरीसृपं (*sarīsṛpaṃ*)—the child moving in the womb
+- यः (*yaḥ*)—which disease
+- हंति (*haṃti*)—harms (afterwards)
+- जातं (*jātaṃ*)—born after ten months
+- ते (*te*)—your child
+- यः (*yaḥ*)—which Rākṣasa or disease
+- जिघांसति (*jighāṃsati*)—wishes to kill
+- तं (*taṃ*)—that disease
+- इतः (*itaḥ*)—from this place
+- नाशयामसि (*nāśayāmasi*)—may we drive away and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O woman, whatever disease (or Rākṣasa, evil spirit, in the form of disease) destroys the embryo-mass that has fallen in the form of semen into your womb and stays there; then, after three months, whatever disease harms the child that moves in the womb;
+
+### Printed p. 1098
+
+then, after ten months, whatever disease wishes to harm and kill the child that is born: may we drive that disease away from here and destroy it.
+
+##### English translation
+May we exterminate from hence (the evil spirit) who destroys the impregnating energy, the germ as it settles, the moving embryo, who seeks to destroy (the babe) when born.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्त॑ ऊ॒रू वि॒हर॑त्यंत॒रा दंप॑ती॒ शये॑ ।  
+> योनिं॒ यो अं॒तरा॒रेळ्ळि॒ तमि॒तो ना॑शयामसि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । ऊरू इति । विहरति । अंतरा । दंपती इति दंपती । शये ।  
+> योनिं । यः । अंतः । आरेळ्हि । तं । इतः । नाशयामसि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे योषित् तवोरू पादमूलौ यो राक्षसादिर्निहरति गर्भघाताय निश्लिष्टौ
+> करोति दंपती अंतरा जायापत्योर्मध्यॆ गर्भहननार्थं यश्च शये शेते यश्च
+> योनिमंतः प्रविश्यारेळि निषिक्तं रेतो , जिह्वयास्वादयति । भक्षयतीत्यर्थः ॥ लिह
+> आस्वानने आदादिकः । कपिलकादित्वाल्लत्वविकल्पः ॥ तं सर्वमितो नाशयामः ॥
+
+##### Gist of the bhāṣya
+
+O woman, whatever Rākṣasa or the like moves (विहरति (*viharati*)) between your thighs, at their roots, pressing them together to destroy the embryo; whoever lies (शये (*śaye*)) between the husband and wife (दंपती (*daṃpatī*)), between the two, to kill the embryo; and whoever, entering within the yoni, licks (आरेळ्हि (*āreḷhi*)) with the tongue the semen deposited there, that is, devours it: all that we destroy from here. आरेळि (*āreḷi*) is from लिह (*liha*) in the sense of tasting, of the Adādi class.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O woman) ते (*te*)—your
+- ऊरू (*ūrū*)—in the thighs
+- यः (*yaḥ*)—the Rākṣasa in the form of disease (or the disease)
+- विहरति (*viharati*)—clings in order to destroy the embryo
+- दंपती अंतरा (*daṃpatī aṃtarā*)—between husband and wife, to destroy the embryo
+- शये (*śaye*)—which disease has enveloped and settled
+- योनिं अंतः (*yoniṃ aṃtaḥ*)—having entered the yoni
+- आरेळि (*āreḷi*)—which disease licks the semen there
+- तं (*taṃ*)—that disease
+- इतः (*itaḥ*)—from this place
+- नाशयामसि (*nāśayāmasi*)—may we destroy
+
 ---
 
-**Progress note:** Done through printed p. 1092. pp. 1087-1092 (batch API)
+**Progress note:** Done through printed p. 1098. pp. 1093-1098 (batch API)
