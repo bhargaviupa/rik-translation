@@ -62,6 +62,155 @@ Editor & Translator
 and
 Member of the Vedavimarśana Vidvanmaṇḍali.
 
+### Printed p. 1
+Śrī 9. Salutation to Śrī Mahāgaṇādhipati.
+
+> नागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्या स्युस्तं समामि गजाननं ॥
+> यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+> अथाष्टमाष्टकेऽध्यायश्चतुर्थः संप्रदर्शितः ।
+> धीमता सायणार्येण पंचमोऽथ प्रदर्शते ॥
+
+Sāyaṇa's Bhāṣya together with the Ṛgveda Saṃhitā, Part 30.
+
+The Fifth Adhyāya of the Eighth Aṣṭaka
+
+The fifth adhyāya in the eighth aṣṭaka: the sūktas of the tenth maṇḍala.
+
+## Sūkta 95 (Maṇḍala 10)
+
+Introduction.
+
+Urvaśī and Purūravas.
+
+This episode, in the form of a dialogue between Urvaśī and Purūravas, is one of the narratives that set forth a supramundane truth by presenting worldly love and separation. Citing an itihāsa, Sāyaṇa has described the occasion of this story in the following way.
+
+### Printed p. 2
+
+> ऐळोर्वशीतिहासोऽत्र वैशद्याय प्रवर्ण्यते ।
+> इत्युवर्श्यैळसंवादमिममेषोऽप्यसूचयदिति ॥
+> इत्युर्वश्यैळसंवादमिममेषोऽप्यसूचयदिति ॥
+
+(Sāyaṇabhāṣyapīṭhikā. Ṛ. Saṃ. 10-95)
+
+Mitra and Varuṇa were infatuated by Urvaśī's beauty, and through the emission of their seed they became the cause of Agastya's birth; yet they did not fail to curse her. They cursed her, the divine maiden, saying that she should be born on the earth and be united with a mortal.
+
+At the time when a king named Iḷa, together with the sons of Manu, was roaming in a forest for hunting, he entered the place where Umā, the daughter of the mountain-king, who worshipped Śiva with undivided devotion, was dwelling. As the result of that offence he was at once changed into a woman. Then, when he prayed to Śiva, Śiva told him that only Pārvatī had the authority to forgive that offence; thereupon Iḷa took refuge with Pārvatī. As the fruit of his repentance he obtained Pārvatī's forgiveness, and she granted that in every year he should remain a woman for six months, and only during the other six months might he have his own proper form. While he had the form of a woman, Budha, the son of Soma, was infatuated with her and consorted with her. As a result a son was born. He became famous as Purūravas, king of the city Pratiṣṭhāna.
+
+Urvaśī, cursed by Mitra and Varuṇa, descended to the earth as a result of that curse, and while she was roaming she saw Purūravas. Purūravas too, astonished at her beauty, fell in love with her. When he desired union with her, she consented on a condition. "Only when Purūravas is in bed may Urvaśī see him naked and bear it. If she sees him in a state of nakedness at any other time, she will at once go back to her own abode: this is the first rule. Secondly, Purūravas must keep in his charge and protect the two lambs that belong to her": this is the second rule. Purūravas agreed to the condition.
+
+The two lived together and enjoyed a happy life for four years. After four years, one night the bleating of the lambs was suddenly heard. Purūravas rose and looked, and saw that the gods were carrying them off. As he ran in pursuit of them, a flash of lightning appeared at once. Then the naked body of the naked Purūravas became visible to Urvaśī. Instantly she left him and went her way. Purūravas
+
+### Printed p. 3
+
+felt that he had been caught in a fault, and set out searching for her. Wandering with a distraught mind, he saw her sporting with her companions. When he begged her to return and join him, she used harsh words and rejected his prayer. Sāyaṇa states that this conversation between the two is the present narrative occasion. The same episode is told in the Bṛhaddevatā in this way:
+
+> पुरूरवसि राजर्षावप्सरास्तूर्वशी पुरा ।
+> न्यवसत्संविदं कृत्वा तस्मिन् धर्मं चचार च ॥
+
+(Bṛ. De. 7-147)
+
+Formerly Urvaśī cultivated love for Purūravas, made an agreement (condition) with him, and lived happily with him. (What that agreement was is not stated. The account here differs from what was said above.)
+
+> तया तस्य च संवासमसूयन् पाकशासनः ।
+> पैतामहं चानुरागमिंद्रवच्चापि तस्य तु ॥
+
+(Bṛ. De. 7-148)
+
+Indra could not bear that Purūravas, a mortal, should enjoy happiness with Urvaśī, a divine maiden. Seeing Purūravas occupying Indra's position and enjoying the rank that Indra ought to enjoy, he became jealous and wished to put an obstacle in its way.
+
+> स तयोस्तु वियोगार्थं पार्श्वस्थं वज्रमब्रवीत् ।
+> प्रीतिं भिंधि तयोर्वज्र मम चेदिच्छसि प्रियं ॥
+
+(Bṛ. De. 7-149)
+
+Then Indra addressed the thunderbolt that was near him: "O thunderbolt, if you have regard for me and wish to be of benefit to me, use your power and bring about a breach in the love of Urvaśī and Purūravas."**NOTE**
+
+> तथेत्युत्वा तयोः प्रीतिं वज्रोऽभिनस्त्वमायया ।
+> ततस्तया विहीनस्तु चचारोन्मत्तवन्नपः ॥
+
+(Bṛ. De. 7-150)
+
+The thunderbolt gave Indra its word that it would obey his command, and by its extraordinary power brought about a breach in the love of Urvaśī and Purūravas. Purūravas, estranged from Urvaśī, wandered about like a madman.
+
+### Printed p. 4
+
+> चरन् सरसि सोऽपश्यदभिरूपामिवोर्वशीं ।
+> सखीभिरभिरूपाभिः पंचभिः पार्श्वतो वृतां ॥
+
+(Bṛ. De. 7-151)
+
+As he wandered thus, he saw Urvaśī sporting in a lake. She was sporting together with five female friends whose bodily endowment matched her divine beauty, and so Urvaśī's form shone even more brightly and she was captivating to the mind.
+
+> तामाह पुनरेहीति दुःखात्सा त्वब्रवीन्नृपं ।
+> अप्राप्याहं त्वयाद्येह स्वर्गे प्राप्स्यसि मां पुनः ॥
+
+(Bṛ. De. 7-152)
+
+As soon as he saw her, Purūravas addressed her and asked her to come back to him and give him the happiness of union. Unable to accept his call, she spoke thus, in great sorrow: "O Purūravas, you cannot get me back now. When we two meet again in heaven, let us enjoy happiness."
+
+> आह्वानं प्रति चाख्यानमितरेतरयोरिदं ।
+> संवादं मन्यते यास्क इतिहासं तु शौनकः ॥
+
+(Bṛ. De. 7-153)
+
+Yāska calls this narrative, which ends in the conversation of Urvaśī and Purūravas, a dialogue (saṃvāda); Śaunaka calls the same episode an itihāsa (story).
+
+The author of the Nirukta, explaining the derivation of the word Purūravas, says:
+
+> पुरूरवाः बहुधा रोरूयते । तस्यैषा भवति ।
+
+(Ni. 10-46)
+
+Because he cried out making a great noise, he became known by the name "Purūravas," one who makes much noise. Having explained this, he cites Ṛk 10. 95. 7 from the Ṛksaṃhitā and speaks about Purūravas. Since this episode conveys more than merely a story, the purport of the mantra cited by the Nirukta author will be given later. Sāyaṇa has briefly told the story of the Śatapatha Brāhmaṇa and shown the connection between that story and the present episode. Before learning the details of that story, it is necessary first to know in which places the story of Urvaśī and Purūravas is told.
+
+Apart from the Ṛksaṃhitā, this story is told in eight different contexts. Those eight occasions are as follows:
+
+### Printed p. 5
+
+1. Śatapatha Brāhmaṇa 11-5-1-15.
+2. Kāṭhaka (Yajurveda) 8-10-3.
+3. In the commentary of Ṣaḍguruśiṣya on the Sarvānukramaṇī.
+4. The story part of the Harivaṃśa, which follows the order of the Vāyu Purāṇa.
+5. Viṣṇu Purāṇa 4-6-19.
+6. Bṛhaddevatā (this account is given above).
+7. Mahābhārata, Ādiparvan (69.21-27).
+8. Kathāsaritsāgara 17-4.
+
+Among these, the accounts in the Mahābhārata, the Śatapatha Brāhmaṇa and the Bṛhaddevatā chiefly relate to the present story. The Mahābhārata story is somewhat different. Its details are as follows:
+
+> पुरूरवस्ततो विद्वानिलायां समपद्यत ।
+> सा वै तस्याभवन्माता पिता चैवेति नः श्रुतं ॥
+> त्रयोदश समुद्रस्य द्वीपानश्नन्नुरूरनाः ।
+> अमानुषैर्वृतः सत्वैर्मानुषः सन्महायशाः ॥
+> विप्रैः स विग्रहं चक्रे वीर्योन्मत्तः पुरूरवाः ।
+> जहार च स विप्राणां रत्नान्युत्तोशतामपि ॥
+> सनत्कुमारस्तं राजन्ब्रह्मलोकादुपेत्य ह ।
+> अनुदर्शं ततश्चक्रे प्रत्यगृह्णान्नचाप्यसौ ॥
+> ततो महर्षिभिः क्रुद्धैः सद्यः शप्पो व्यनश्यत ।
+> लोभान्वितो बलमदान्नष्टसंज्ञो नराधिपः ।
+> स हि गंधर्वलोकस्थानुर्वश्या सहितो-विराट् ।
+> आनिनाय क्रियार्थेऽग्नीन्यथावद्विहितांस्त्रिदा ॥
+> षट्‌सुता जज्जिरे चैलादायुर्धीमानमावसुः ।
+> दृढायुक्त वनायुश्च शतायुश्चोर्वशीसुताः ॥
+
+(Mahābhārata, Ādiparvan, Adhyāya 69. 21-27)
+
+Purūravas was born in the womb of Iḷā. Iḷā herself stood to him in the form of father and mother; as far as we know, it is said that both parents of Purūravas were in the form of Iḷā.**NOTE** Purūravas, born of her who had such an extraordinary form, ruled as lord of thirteen islands in the midst of the sea. Since he always gained victory
+
+### Printed p. 6
+
+divine beings, pleased with his valour, surrounded this mortal and served him. Grown proud through the power of his valour, he lived in splendour. Out of that very pride he disregarded holy men and persecuted them. Though they resisted many times, he crushed them and seized all their possessions. To put a stop to this ravage, Sanatkumāra once came from the divine world and gave him counsel. But Purūravas did not change his course. Since he went on persecuting holy men in this way, they became angry and cursed him severely. All his power was destroyed, and he became bereft of consciousness. Even so, he brought fire from the world of the Gandharvas for sacrifice and worshipped it. Together with this fire, which is threefold, he brought Urvaśī from the world of the Gandharvas. By her he had six children: 1 Āyu, 2 Dhīrmā, 3 Amāvasu, 4 Dṛḍhāyu, 5 Vanāyu and 6 Śrutāyu — these are the six sons.
+
+Thus the names Āyu, Dṛḍhāyu, Vanāyu and Śrutāyu show that all those of the group called "आयु (*āyu*)" who were born after this progeny are descendants born of Urvaśī and Purūravas. The Vāyu Purāṇa too, like this, describes the wickedness of Purūravas and tells that as its result his destruction came about. The account of the Brahmāṇḍa Purāṇa also follows this. The account is as follows.
+
+"Purūravas's greed for wealth was exceedingly great. However much wealth he gained, he was never satisfied. Once, as he was roaming for hunting, he entered the Naimiṣa forest. In an hermitage in that forest sages were practising austerity. For their sacrifice Viśvakarman had built a sacrificial altar of gold. Purūravas saw that golden altar, and the desire arose in him to seize it. Then the enraged sages struck him with their bundles of darbha grass. That was as severe as the stroke of a thunderbolt, and he collapsed and died." This episode too shows the wickedness of Purūravas. But this wickedness is nowhere described in the Vedic parts. Of all these passages, the account of the Śatapatha Brāhmaṇa shows a direct connection with the story part of the Ṛksaṃhitā. Sāyaṇa has cited the original of the Brāhmaṇa in the introduction (pīṭhikā) to his Bhāṣya. Its purport is given here.
+
+Urvaśī, an Apsaras woman, fell in love with Purūravas, the son of Iḍā. Then she chose him and said, "O Purūravas, you may embrace me three times a day. But you must not lie with me without my consent. Only before me you must appear naked"
+
 ---
 
-**Progress note:** Done through printed p. 0; nothing translated yet.
+**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
