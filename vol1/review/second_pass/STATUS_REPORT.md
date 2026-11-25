@@ -5,7 +5,7 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 459 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459)
 - **Findings:** 1419 — applied 1203, questions 216; edits ok 1208, failed 0
-- **Reader tokens (batches so far):** 4364k; per page 9.5k
+- **Reader tokens (batches so far):** 4612k; per page 10.0k
 - **Last commit:** 844066c
 
 ## 2. Batches
@@ -26,7 +26,7 @@
 | 13 | 331–359 | 65 | 60 | 60 / 0 | 5 | 280k | f576c52 | 60 edits (about 24 S14, 12 S13, 9 S16, 4 S15, 3 S17, 3 S1, 2 S7 inline); Bhāṣya-bhūmikā opening on p. 344 had roles reversed (Bukka ordered Mādhava, Mādhava named Sāyaṇa) and now follows the Kannada; broken page breaks 340/341 and 337/338 mended; p. 345 not in the supplied text; p. 351 RV 1-164-86 impossible, kept as printed (open.tsv) |
 | 14 | 370–399 | 18 | 16 | 16 / 0 | 2 | 264k | 19d3a27 | 16 edits (5 S14, 4 S13, S1, S2, S3, S15, S16, S17); Bhāṣya-bhūmikā pages, mostly Sanskrit passages that are not edited; Śābara's view reversed on p. 386 and the number of priests on p. 379 corrected; English has no section for printed pp. 372–373 (open.tsv: needs a translation); 23 kn_misprints rows |
 | 15 | 400–429 | 20 | 17 | 17 / 0 | 3 | 207k | 6c37c14 | 17 edits (11 S13 names/terms, S1, S14, S15, 2 S16, S17); mostly Sanskrit blocks with the Kannada's anuvāda, little English prose to correct; pp. 409, 422, 428 have no mark in the Kannada book but their text and the English sections line up; a Kannada paragraph on p. 422 (Pūrva-Mīmāṃsā 10-8) is missing from the English (not added) |
-| 16 | 430–459 | 29 | 21 | 21 / 0 | 8 | TOK15 | 844066c | 21 edits (9 S13 names/terms, 5 numbers S1/S3, roles reversed on p. 439, 2 S16, 2 inline S7); English has no section for printed p. 447 (Aditi example, Tai. Saṃ. 6-1-5): not added (open.tsv); stray numbers 58/59/60 at the end of Kannada pp. 437, 445, 453; Tai. Brā. '1-14' on p. 449 applied as printed |
+| 16 | 430–459 | 29 | 21 | 21 / 0 | 8 | 248k | 844066c | 21 edits (9 S13 names/terms, 5 numbers S1/S3, roles reversed on p. 439, 2 S16, 2 inline S7); English has no section for printed p. 447 (Aditi example, Tai. Saṃ. 6-1-5): not added (open.tsv); stray numbers 58/59/60 at the end of Kannada pp. 437, 445, 453; Tai. Brā. '1-14' on p. 449 applied as printed |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
