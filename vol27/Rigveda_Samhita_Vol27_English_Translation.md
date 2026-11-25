@@ -10510,6 +10510,182 @@ The ancient celebrators of the rite desiring (boons) wait on (Agni) rightly born
 > स॒प्त स्वस्व॒ररु॑षीर्वावशा॒नो वि॒द्वान्मध्व॒ उज्ज॑भारा दृ॒शे कं ॥  
 > अं॒तर्ये॑मे अं॒तरि॑क्षे पुरा॒जा इ॒च्छन्व॒विम॑विदत्तूष॒णस्य॑ ॥
 
+### Printed p. 270
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । स्वस्थाः । अरुषीः । वावशानः । विद्वान् । मध्वः । उत् । जभार । दृश्ये । कं ॥  
+> अंतः । येमे । अंतरिक्षे । पुराजाः । इच्छन् । वव्रिं । अविदत् । पूषणस्य ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नावशानः कामयमानो वाक्यमानः स्तोतृभिः स्तूयमानो वा विद्वान्
+> सर्वं जानानः सोऽग्निररुषीरारोचमानाः सप्त सप्त संख्याकाः स्वस्थः स्वयंसारिणीः
+> काली कराली चेत्यादिकाः सप्त जिह्वा मध्वो मदकराद्यज्ञादुज्जभार ! उज्जहार ।
+> ऊर्ध्वं हृतवान् । यज्ञे स्वतेजसा प्रादुर्भूत इत्यर्थः । किमर्थं कं सुखेन
+> वृशे सर्वर्षामेव पदार्थानां दर्शनार्थं ! किंच पुराजाः पुराजातः सोऽग्निर्दावापृथिव्योरंतर्मध्यॆऽंतरिक्षे स्थितस्ता जिह्वा येमे । नियमितवान् । सर्वत्र
+> तेजोयुक्तो वर्तत इत्यर्थः । अपि चेच्छन्यजमानान्कामयमानोऽग्निः पूषणस्य । पूषेति पृथिवीनाम । पार्थिवस्य लोकस्य वन्रिं रूपं पृश्निवर्णमविदत् ।
+> प्रायच्छत् । यद्वा मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ! ऋ. १-८-६ । इति मंत्रांतरे दर्शनादादित्यात्माग्निः स्तूयते । कामयमानः सूर्यात्माग्निः सप्तसंख्याकान् स्वस्व रश्मीन् मध्वः समुद्रोदकादुद्धृतवान् । प्राप्तः : अंतरिक्षे विद्युदात्मना स्थित्वा वृष्टिलक्षणं रूपं पृथिव्याः प्रयच्छति॥
+
+##### Gist of the bhāṣya
+
+Agni is वावशानः (*vāvaśānaḥ*), either desiring (the sacrificers) or praised by the worshippers, and विद्वान् (*vidvān*), knowing everything. He has lifted up (उज्जभार (*ujjabhāra*), "carried upward") from the intoxicating sacrifice (मध्वः (*madhvaḥ*)) the seven radiant (अरुषीः (*aruṣīḥ*)) flames, which are स्वस्थाः (*svasthāḥ*), "self-moving"; these are the seven tongues, Kālī, Karālī and the rest. The meaning is that he has appeared in the sacrifice by his own brilliance. The purpose is कं (*kaṃ*), "happily", and दृशे (*dṛśe*), so that all things may be seen.
+
+Further, Agni, born of old (पुराजाः (*purājāḥ*)), stands within, in the middle region between heaven and earth, and has restrained (येमे (*yeme*)) those tongues. That is, he is present everywhere endowed with brilliance. Moreover, desiring the sacrificers, Agni gave (अविदत् (*avidat*) is glossed प्रायच्छत् (*prāyacchat*)) to Pūṣan, that is, to the earth (*Pūṣā* being a name of the earth), the form of the earthly world, the dappled colour.
+
+Alternatively, because another mantra shows it (Ṛ. Saṃ. 1-8-6, मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् (*mūrdhā bhuvo bhavati naktamagnistataḥ sūryo jāyate prātarudyan*)), the Agni who is the sun is praised here. Desiring, the sun-Agni drew up his own seven rays from the water of the sea. Standing in the middle region as lightning, he gives the earth the form that consists of rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नावशानः (*nāvaśānaḥ*)—praised by the worshippers
+- विद्वान् (*vidvān*)—Agni, who knows everything
+- अरुषीः (*aruṣīḥ*)—attractive ones
+- सप्त (*sapta*)—seven in number
+- स्वस्यः (*svasyaḥ*)—self-spreading; of these flames
+- मध्वः (*madhvaḥ*)—from the sacrificial hall
+- कं (*kaṃ*)—happily
+- दृशे (*dṛśe*)—so as to be visible to all
+- उज्जभार (*ujjabhāra*)—has raised aloft and spread
+- पुराजाः (*purājāḥ*)—Agni, born before
+- अंतः (*aṃtaḥ*)—the middle of heaven and earth
+- अंतरिक्षे (*aṃtarikṣe*)—abiding in the atmosphere
+- येमे (*yeme*)—has restrained his flames
+- इच्चन् (*iccan*)—desiring to favour the sacrificers
+- पूषणस्य (*pūṣaṇasya*)—to the earthly world
+- वप्रिं (*vapriṃ*)—the form of dappled colour
+- अविदत् (*avidat*)—has given
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is praised by the worshippers and knows everything, has raised up and spread from the sacrificial hall the seven attractive, self-spreading flames, so that they may be seen happily by all.
+
+### Printed p. 271
+He, born before, abides in the atmosphere, the middle region of heaven and earth, and has restrained his flames. Desiring to favour the sacrificers, he has given the earthly world the form of dappled (many-coloured) colour.
+
+##### English translation
+The wise Agni glorified (by his worshippers) has from the sacrifice raised aloft, for the ready manifestation of (all things), the seven radiant sisters (flames) ; which when formealy engendered he restrained in thr firma ment, until desirous of (adorers) he bestowed form upon the region of the earth.
+
+##### विशेषविषयगळु (Special Topics)
+
+नावशानः (*nāvaśānaḥ*)—For this word Yāska gives the etymology: नावशानो वष्टेर्वा वाश्यतेर्वा सप्त स्वस्था रारुषीर्वावशानः इत्यपि निगमो भवति (*nāvaśāno vaṣṭervā vāśyatervā sapta svasthā rāruṣīrvāvaśānaḥ ityapi nigamo bhavati*) (Ni. 5-1). The word वावशानः (*vāvaśānaḥ*) may be formed either from the root वर् (*var*), meaning "to desire", or from the root वाश् (*vāś*), meaning "to sound loudly". Therefore the word नावशानः (*nāvaśānaḥ*) means "desiring" or "sounding".
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त म॒र्यादाः॑ क॒वय॑स्ततक्षु॒स्तासा॒मेका॒मिद॒भ्यं॑हु॒रोगा॑त् ॥  
+> आ॒योर्ह॑ स्कं॒भ उ॑प॒मस्य॑ नी॒ळे प॒थां वि॑स॒र्गे ध॒रुणे॑षु  
+> तस्थौ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त : मर्यादाः । कवयः । ततक्षुः । तासां । एकां ! इत् । अभि । अहुरःगात् ॥  
+> अयोः । ह । स्कंभः । उपमस्य । नीळे । पथां । विसर्गे । धरुणेषु । तस्मा ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कवयो मेधाविन ऋषयः सप्त मर्यादाः : कामजेभ्यः क्रोधजेभ्यश्लोद्धृताः पानमक्षाः स्त्रियो मृगया दंडः पारुष्यमन्यदूषणमिति सप्त
+> मर्यादाः । यद्वा । स्तेयं गुरुतल्पारोहणं ब्रह्महत्यां सुरापानं दुष्कृत-
+
+##### Gist of the bhāṣya
+
+The कवयः (*kavayaḥ*) are the wise seers. They made seven limits (मर्यादाः (*maryādāḥ*)), which are held back from the sins born of desire and born of anger. These are: drinking, dice, women, hunting, punishment (दंडः (*daṃḍaḥ*)), harshness of speech, and slandering others. Alternatively, the seven limits are those set out in the Nirukta (Ni. 6-27): theft, ascending the teacher's bed, brahmin-killing, drinking of surā, and the repeated practice of an evil deed. The list continues on the next page.
+
+### Printed p. 272
+
+> कर्मणः पुनःपुनःसेवां पातकेऽनृतोद्यं । नि. ६-२७ । इति निरुक्ते निर्दिष्टाः
+> सत्त मर्यादाः । अवस्थितास्ततः । तक्षतिः करोटिकर्मा । सुष्टु लंघनीयाश्चक्रुः ।
+> वृत्तवंत इत्यर्थः । शासां मर्यादानामेकामिदेकामेवांहुरः पापवान्
+> पुरुषोऽभि गात् अभिगच्छति । यस्त्वेवं करोति स पापवान्भवतीत्यर्थः । किंचायोस्तस्य मनुष्यस्य स्कंभः स्कंभयिता निरोधकोऽग्निरुपमस्य समीपभूतस्यायोर्नीळे स्थाने पथामादित्यरूपस्य स्वस्य रश्मीनां विसर्गे विसर्जनस्थानेऽंतरिक्षमध्ये
+> वर्तमानेषु धरुणेषूदकेषु तस्थौ । विद्युदात्मना शिष्ठति । अनेन लोकत्रयवर्तित्वमिति ॥
+
+##### Gist of the bhāṣya
+
+(Continuing the Nirukta list, Ni. 6-27:) the seventh is speaking untruth in the matter of a sin (पातकेऽनृतोद्यं (*pātake 'nṛtodyaṃ*)). These are the seven limits that stand fixed. The verb तक्षति (*takṣati*) has the sense of "doing"; the seers made them well to be crossed (*suṣṭu laṃghanīyāḥ*), that is, they established them.**NOTE**. Of these limits, a sinful man comes to (transgresses) even one. The meaning is that whoever acts so becomes a sinner.
+
+Moreover, Agni is the obstructor (स्कंभः (*skaṃbhaḥ*)) of that man. He stands in the place of the near man (उपमस्य (*upamasya*)), in the place of release of the rays of his own form as the sun, in the middle of the atmosphere, among the waters (धरुणेषु (*dharuṇeṣu*)) that are present there. He stands as lightning. By this his presence in the three worlds is shown.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवयः (*kavayaḥ*)—the wise seers
+- सप्त मर्यादाः (*sapta maryādāḥ*)—seven kinds of rules of conduct
+- वतक्षु: (*vatakṣu:*)—have established (having shown the seven kinds of sins, they have restrained them)
+- तासां (*tāsāṃ*)—among them
+- एकं इत् (*ekaṃ it*)—even if only one is practised
+- अंहुरः (*aṃhuraḥ*)—the man, becoming a sinner
+- अभि गात् (*abhi gāt*)—he becomes
+- आयोः (*āyoḥ*)—for man
+- स्कंभः (*skaṃbhaḥ*)—Agni, the obstructor of that sin
+- उपमस्य (*upamasya*)—near
+- नीळे (*nīḷe*)—in the place
+- पथां (*pathāṃ*)—for the rays of the sun
+- विसर्गे (*visarge*)—in the atmosphere, the place of spreading
+- धरुणेषु (*dharuṇeṣu*)—in the waters
+- तस्थौ (*tasthau*)—he is established
+
+##### भावार्थ (Bhāvārtha)
+
+The wise seers have pointed out the seven kinds of sins, drinking, dice and the like, and have established the rules of conduct that restrain them. If a man practises even one of them, he becomes a sinner. Agni, the restrainer of that sin, abides for man in the place near him and in the atmosphere, the place of spreading for the sun's rays.
+
+##### English translation
+The wise have established seven rules of conduct ; he is a sinner who deviates from any one of them Agni is the obstructor of (that) man, he abides in the dwelling of his neighbour, in the region of the scattering of the rays, and in the recipient (waters).
+
+##### विशेषविषयगळु (Special Topics)
+
+सप्तमर्यादाः (*saptamaryādāḥ*)—In this mantra the nature of the sin that man may commit and its kinds are told, and there is praise of Agni who holds back such sin. It indicates the relation between spiritual principle and the moral life of man. It describes Agni, the basis of the whole universe of being and non-being, as prior to creation, and the creation of the world as from that basic principle, and all the variety of the world as only a manifestation of that principle. The present mantra praises Agni's quality of restraining sin, in that this basic principle, being in the form of Agni, prevents man from committing sin.
+
+### Printed p. 273
+By सप्त मर्यादाः (*sapta maryādāḥ*) the kinds of sin are told. मर्यादाः (*maryādāḥ*) is explained here as "sin". In ordinary usage the word मर्यादा (*maryādā*) commonly means a boundary (limit); its meaning is a rule of conduct or a limit. If it is explained here as "sin", the sense is "mar-ya + ada", that which eats man.
+
+This sin is said to be sevenfold. They are:
+1. 1) Pāna—the drinking of liquor and other forbidden things.
+2) Akṣāḥ—gambling such as dice, and the cheating that belongs to it.
+3) Striyaḥ—addiction to women and its consequences.
+4) Mṛgayā—hunting and harming the wild animals of the forest.
+5) Daṇḍaḥ—punishing others unjustly (not the king's punishment).
+6) Pāruṣyaṁ—cruel speech and conduct that distress the minds of others.
+7) Anyadūṣaṇaṁ—slandering others unjustly.
+
+They are called the seven limits. In explaining these numbers Sāyaṇa has also cited the Nirukta author's statement made in this connection. The enumeration there is slightly different. According to the Nirukta passage the kinds of sin are as follows:
+सप्तैव मर्यादाः कवयश्चक्रुस्तासामेकामप्यभिगच्छन्नंहस्वान् भवति । स्तेयंतल्पा रोहणं ब्रह्महत्यां भ्रूणहत्यां सुरापानं दुष्कृ तस्य कर्मणः पुनःपुनःसेवां पातकेऽनृतोद्यमिति ॥ (*saptaiva maryādāḥ kavayaścakrustāsāmekāmapyabhigacchannaṃhasvān bhavati | steyaṃtalpā rohaṇaṃ brahmahatyāṃ bhrūṇahatyāṃ surāpānaṃ duṣkṛ tasya karmaṇaḥ punaḥpunaḥsevāṃ pātake 'nṛtodyamiti ‖*) (Ni. 6-27).
+1. 1) Steya—committing theft.
+2) Talpārohaṇa—lusting after the teacher's wife and trespassing on her bed.
+3) Brahmahatyā—killing a brahmin.
+4) Bhrūṇahatyā—destroying the embryo.
+5) Surāpāna—consuming liquor and other forbidden things.
+
+### Printed p. 274
+6) Duṣkṛtasya karmaṇaḥ punaḥ punaḥ sevā—resorting to an evil action and doing it again and again.
+7) Anṛtodya—telling a lie to justify a sinful act.
+
+According to the Nirukta authors, these seven are called the limits. If a man commits only one of these sins, he is considered a great sinner.
+
+In the Chāndogya and other texts the grave sins are stated to be of five kinds. They are: स्तॆनो हिरण्यस्य सुरां पिबंश्च गुरोस्तल्पमावसन् ब्रह्महा (चैते पतंति चत्वारः) पंचमश्चाचरंस्तैः इति । (*stèno hiraṇyasya surāṃ pibaṃśca gurostalpamāvasan brahmahā (caite pataṃti catvāraḥ) paṃcamaścācaraṃstaiḥ iti |*) (Bhā. U. 5-10-9).**NOTE**
+1) stealing gold, 2) drinking surā, 3) trespassing on the bed of the teacher's wife, 4) brahmin-killing: those who do these four deeds are fallen. Fifth, 5) constantly keeping company with the fallen who do these four deeds. It is stated that these five are sinners.
+
+In general these five kinds are also the well-known ones in the Dharmaśāstras and the like. It cannot be improper in the present context to state the order of enumeration in the Dharmaśāstras and the like.
+
+The grave sins are counted as sevenfold in some places and as fivefold in others. Sāyaṇa's statement indicates that among them there are two kinds, born of desire and born of anger. These two kinds are also clearly stated in the Dharmaśāstras and the like. Examining which is born of desire and which of anger, the Yājñavalkya Smṛti says as follows.**NOTE**
+
+As said above, though the Nirukta and the Chāndogya and other Upaniṣads say that the principal sinful acts are seven, the Veda-puruṣa himself says in the Pariśiṣṭa mantras the following. There are many kinds of sins. If a man who has sinned regularly studies from the teacher's mouth the 610 ṛks praising the deity Pavamāna Soma (that is, sūktas 1-67 at the beginning of the 9th Maṇḍala of the Ṛgveda Saṃhitā, in Gāyatrī metre, containing 610 ṛks), the Veda-puruṣa says "I will remove the various sins of such a man and make him pure." They are set out here.
+यषयस्तु तपस्तेपुः सर्वे स्वर्गजिगीषवः । तपंतस्तपसोग्रेण पावमानीर्यचोऽब्रुवन् (*yaṣayastu tapastepuḥ sarve svargajigīṣavaḥ | tapaṃtastapasogreṇa pāvamānīryaco 'bruvan*)
+(Pariśiṣṭa 18-6)
+
+### Printed p. 275
+In former times all the seers, desiring to obtain heaven, performed fierce austerity, studied these Pāvamānī ṛks, and praised them thus as removers of sin.
+यन्ने गर्भे वसतः पापमुग्रं यज्जायमानस्य च किंचिदन्यत् । जातस्य च यच्चापि च वर्धतो मे तत्पावमानीभिरहं पुनामि ॥ (*yanne garbhe vasataḥ pāpamugraṃ yajjāyamānasya ca kiṃcidanyat | jātasya ca yaccāpi ca vardhato me tatpāvamānībhirahaṃ punāmi ‖*)
+(Sari. 18-7)**NOTE**
+The Veda-puruṣa, the Lord of all, says thus: the man who has done extremely fierce sin while dwelling in the womb, then at birth, and after birth while growing, if he studies the Pāvamānī mantras, I will destroy all such sins and make him pure.
+मातापित्रोर्यन्न कृतं वचो मे यत्स्थावरं जंगममाबभूव । विश्वस्य तत्पृहृषितं वचो मे तत्पावमानीभिरहं पुनामि ॥ (*mātāpitroryanna kṛtaṃ vaco me yatsthāvaraṃ jaṃgamamābabhūva | viśvasya tatpṛhṛṣitaṃ vaco me tatpāvamānībhirahaṃ punāmi ‖*)
+(Sari. 18-8)**NOTE**
+The sin of disobeying the word of father and mother, and the sin that arises from speech spoken wishing harm to any creature of this world, moving or unmoving, such sin I will remove and make him pure.
+गोघ्नात् तस्करत्वात् स्त्रीवधाद्यच्च किल्बिषं । पापकं च चरणेभ्यस्तत्पावमानीभिरहं पुनामि ॥ (*goghnāt taskaratvāt strīvadhādyacca kilbiṣaṃ | pāpakaṃ ca caraṇebhyastatpāvamānībhirahaṃ punāmi ‖*)
+(Pari. 18-9)**NOTE**
+The sin that may arise from cow-killing, theft, killing of a woman, and the deed of trampling and harming creatures with the feet, I will remove and make him pure.
+ब्रह्मवधात्सुरापानात्स्वर्णस्तेयाद्वृषलिगमनमैथुनसंगमात् । गुरोर्दाराधिगमनाच्च तत्पावमानीभिरहं पुनामि ॥ (*brahmavadhātsurāpānātsvarṇasteyādvṛṣaligamanamaithunasaṃgamāt | gurordārādhigamanācca tatpāvamānībhirahaṃ punāmi ‖*)
+(Pari. 18-10)**NOTE**
+Brahmin-killing, drinking liquor, stealing gold, the sin of having intercourse with a woman called vṛṣalī (one unmarried while her younger sister is married), and the sin of intercourse with the teacher's wife, all these I will remove and make him pure.
+
 ---
 
-**Progress note:** Done through printed p. 269. pp. 264-269 (batch API)
+**Progress note:** Done through printed p. 275. pp. 270-275 (batch API)
