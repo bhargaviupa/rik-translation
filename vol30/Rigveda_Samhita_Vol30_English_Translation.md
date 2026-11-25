@@ -33685,6 +33685,227 @@ How is Savitṛ related to the Agni of the middle region? As stated in आदि
 
 This other deity, different from Savitṛ, पश्चा (*paścā*) (afterwards; पश्च पश्चा च छंदसि (*paśca paścā ca chaṃdasi*), Pā. 5-3-33, is the sūtra for this formation), became worthy of worship only after Savitṛ's impulsion. By what means? By भूना (*bhūnā*), that is, by Soma, which has come to be and arisen in heaven, the world called heaven that belongs to the deathless world. Alternatively: this other deity, belonging to the deathless world, became worthy of worship endowed with भूना (*bhūnā*), that is, plenitude. Why? He answers: O अंग (*aṃga*), praiser, the सुपर्णः (*suparṇaḥ*), the beautifully flying गरुत्मान् (*garutmān*), Tārkṣya, the carrier-off of Soma, of Savitṛ the impeller….
 
+### Printed p. 1001
+
+> कादस्माद्देवात्पूर्वः प्रथमभावी सञ्चातः । अतो हेतोः सुपर्णो गरुत्मानस्य
+> सवितुर्धर्म धारणमनुसृत्य वर्तते । सवितृप्रेरणाधीनत्वात्सर्वगतीनां सोमाहरणमपि तदधीनमिति सवितृप्रेरणानंतरमेव सर्वे सोमयागाः प्रवर्तंत इत्यर्थः ।
+> उ इति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his explanation of the verse. The deity (Soma) is "prior", that is, first-born, in relation to Savitṛ. For this reason Suparṇa, that is Garutmān, follows this Savitṛ's dharma, his upholding. All movements depend on Savitṛ's impulsion, so the bringing of Soma depends on it too. Hence all Soma sacrifices proceed only after Savitṛ's impulsion. The particle उ (*u*) is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अन्यत् (*anyat*)—other than Savitṛ
+- इदं (*idaṃ*)—this other deity
+- पश्चा (*paścā*)—afterwards
+- अमर्त्यस्य (*amartyasya*)—of the deathless
+- भुवनस्य (*bhuvanasya*)—of the world of heaven
+- भूना (*bhūnā*)—connected with it, that is, with the Soma born in heaven
+- यजत्रं (*yajatraṃ*)—worthy of sacrifice
+- अभवत् (*abhavat*)—became
+- अंग (*aṃga*)—O worshipper
+- सुपर्णः (*suparṇaḥ*)—of swift flight
+- गरुत्मान् (*garutmān*)—Tārkṣya (the Śyena bird), who brought Soma from heaven
+- सवितुः (*savituḥ*)—by the impulsion of this Savitṛ
+- पूर्वः (*pūrvaḥ*)—first
+- जातः (*jātaḥ*)—was born; therefore
+- सः (*saḥ*)—this Tārkṣya
+- अस्य (*asya*)—of this Savitṛ
+- धर्म अनु (*dharma anu*)—follows his upholding
+- उ (*u*)—certainly
+
+##### भावार्थ (Bhāvārtha)
+
+Soma is a deity other than Savitṛ. Since it was in heaven, where the deathless dwell, Tārkṣya (the Śyena bird) brought it to the earth by Savitṛ's impulsion. This Tārkṣya, born from Savitṛ, brought Soma from heaven only by his impulsion. For this reason Soma became worthy of sacrifice, and Tārkṣya too remains subject to Savitṛ and follows him.
+
+##### English translation
+Afterwards arose this other adorable (deity), together with the host of the immortal world, the bright-winged Garutmat, born before Savitri obeyed his law.
+
+##### विशेषविषयगळु (Special Topics)
+
+Everything is born by the impulsion of Savitṛ, and all activity goes on by his impulsion only. Therefore Tārkṣya, who brought Soma from heaven to the earth, was born from Savitṛ himself, and he brought Soma from heaven to the earth by Savitṛ's impulsion alone. Soma, brought in this way, became worthy of worship in sacrifices and the like; that is, it gained an honoured place and a claim to praise in sacrifices. The chief purport is that the performance of Soma sacrifices continues only by the impulsion of the god Savitṛ.
+
+### Printed p. 1002
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गाव॑ इव॒ ग्रामं॒ यूयु॑धिरि॒वाश्वा॑न्वा॒श्रेव॑ व॒त्सं सु॒मना॒  ॑
+> दुहाना ।  
+> पति॑रिव जा॒याम॒भि नो॒ नै॑तु ध॒र्ता दि॒वः स॑वि॒ता वि॒श्ववा॑रः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गावःइव । ग्रामं । युयुधिःइव । अश्वान् । वाश्राइव । वत्सं । सुमनाः ।  
+> दुहाना ।  
+> पतिःइव । जायां । अभि । नः । नि । एतु । धर्ता । दिवः । सविता । विश्ववारः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गाव इव यथारण्ये संचरंतो गावो ग्रामं शीघ्रमभिगच्छंति । युयुधिरिव यथा च युद्धार्थमश्वानभिगच्छति ॥ युध संप्रहारे । आद्यगमहनजनेत्यत्रोत्सर्गश्चंदसि । पा. ३-२-१७१-२ । इति वचनात्किन्मत्तयः । छांदसं सांहितिकमभ्यासदीर्घत्वं ॥ सुमनाः शोभनमनस्का दुहाना दोग्री बहुपयस्का वाश्रेव हंभारवात्मकं शब्दं कुर्वती गौर्यथात्मीयं वत्समभिगच्छति । पतिरिव यथा भर्ता जायां
+> स्वभार्यां शीघ्रमभिगच्छति एवमेव सविता नोऽस्मान्नभ्येतु । नितरामभिगच्छतु ।
+> कीदृशः । दिवो द्युलोकस्य धर्ता धारयितावस्थापयिता ना अत एव विश्वावारः
+> सर्वैवर्णनीयः ॥
+
+##### Gist of the bhāṣya
+
+"Like cows": as cows roaming in the forest go quickly to the village. "Like a Yuyudhi": as a warrior goes to his horses for battle. Sāyaṇa derives the word from the root युध (*yudha*) "to fight". The reduplicative lengthening is Vedic and belongs to the Saṃhitā. सुमनाः (*sumanāḥ*) means good-minded, दुहाना (*duhānā*) a good milker with much milk, वाश्रेव (*vāśreva*) a cow uttering the sound *hambhā* (lowing). As such a cow goes to her own calf, and as a husband goes quickly to his wife, so may Savitṛ come to us and approach us closely. He is the upholder of the sky (दिवः (*divaḥ*), the world of heaven), the sustainer, the establisher; therefore he is विश्ववारः (*viśvavāraḥ*), to be chosen by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावइव (*gāvaiva*)—as cows that went to graze in the forest
+- ग्रामं (*grāmaṃ*)—return to the village
+- युयुधिरिव (*yuyudhiriva*)—as a warrior who has set out for battle
+- अश्वान् (*aśvān*)—goes to his horses
+- सुमनाः (*sumanāḥ*)—well-disposed
+- दुहाना (*duhānā*)—giving much milk
+- वाश्रेव (*vāśreva*)—and lowing, the cow
+- वत्सं (*vatsaṃ*)—as she goes lowing to her calf
+- पतिरिव (*patiriva*)—as the husband
+- जायां (*jāyāṃ*)—goes quickly to his wife
+- दिवः (*divaḥ*)—of the sky-world
+- धर्ता (*dhartā*)—the upholder
+- विश्ववारः (*viśvavāraḥ*)—therefore desired by all
+- सविता (*savitā*)—this god Savitṛ
+- नः (*naḥ*)—us
+- नि अभि एतु (*ni abhi etu*)—(with great regard) draw near
+
+### Printed p. 1003
+
+#### Ṛk 4 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+As cows that went to graze in the forest return quickly to the village in the evening; as a warrior who has set out for battle goes to his horses; as a cow that is well-disposed, gives much milk and lows eagerly for her calf goes eagerly to her calf; as a man goes lovingly to his dear wife: so may this god Savitṛ, the upholder (nourisher) of the sky and desired by all, come to us quickly, or in order to show favour.
+
+##### English translation
+As cattle hasten to the village, as the warrior to his horses, as affectionate milk-giving cows to the calf, as a husband to his wife, so may Savitri, the upholder of the sky, the desired of all. hasten to us
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हिर॑ण्यस्तूपः सवित॒र्यथा॑ त्वांगिर॒सो जु॒ह्वे वाजे॑ अ॒स्मिन् ।  
+> ए॒वा त्वार्च॒न्नव॑से॒ वंद॑मानः॒ सोम॑स्येवां॒शुं प्रति॑ जागरा॒हं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिरण्यस्तूपः । सवितः । यथा । त्वा । अंगिरसः । जुह्वे । वाजे । अस्मिन् ।  
+> एव । त्वा । अर्चन् । अवसे । वंदमानः । सोमस्यइव । अंशुं । प्रति । जागर ।  
+> अहं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः प्रेरक त्वा त्वामांगिरसोऽंगिरसः पुत्रो हिरण्यस्तूपो मम
+> पितास्मिन्वाजेऽन्ने निमित्तभूते सति यथा जुह्वे आहूतवान् एवैवमर्चन्नेतत्संज्योऽहं त्वा त्वामवसेऽवनाय रक्षणार्थं वंदमानः स्तुवन् आह्वयामीति शेषः।
+> आहूय च सोमस्येवांशुं यथा सोमलतां प्रति यजमाना जाग्रति यागपर्यंतं तद्रक्षणे प्रबुद्धा वर्तंते तथाहं त्वत्परिचर्यां प्रति जागर । जागर्मि ॥
+> जागर्तीर्णल्युत्तमैकवचने रूपं ॥ अत्र निरुक्तं । हिरण्यस्तूपो हिरण्यमयस्टोपो
+
+##### Gist of the bhāṣya
+
+"O Savitṛ, impeller: as Hiraṇyastūpa, son of Aṅgiras, my father, called you to this food (वाजे (*vāje*), the occasion being food), so I, named Arcan, praising you for protection, call you." The verb "I call" is to be supplied. Having called, "as sacrificers keep watch over the Soma plant until the sacrifice is complete and stay awake to guard it, so I stay awake in attendance on you." जागर (*jāgara*) stands for the first person singular, "I wake". Here the Nirukta says: हिरण्यस्तूपो हिरण्यमयस्टोपो (*hiraṇyastūpo hiraṇyamayasṭopo*) …
+
+### Printed p. 1004
+
+> हिरण्यमयः स्तूपोऽस्येति वा । स्तूपः स्त्यायतेः संघातः । सवितर्यथा त्वांगिरसो
+> जुह्वे वाजेऽन्नेऽस्मिन्नेवं त्वार्चन्नवनाय वंदमानः सोमस्यॆवांशुं प्रतिजागर्म्यहं । नि. १०-३३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Nirukta continues: *hiraṇyamayaḥ stūpo 'syeti vā* **NOTE** "or he has a golden stūpa". स्तूपः (*stūpaḥ*) is a mass, from the root स्त्यायतेः (*styāyateḥ*). The verse is then paraphrased in the order of the words: "As Hiraṇyastūpa the Aṅgirasa called you to this food, so I, Arcan, praising you for help, keep watch like one before the filament of Soma." The reference is Ni. 10-33.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O Savitṛ, impeller of all
+- आंगिरसः (*āṃgirasaḥ*)—the son of the sage Aṅgiras
+- हिरण्यस्तूपः (*hiraṇyastūpaḥ*)—my father named Hiraṇyastūpa
+- अस्मिन् वाजे (*asmin vāje*)—for the sake of food and the like
+- यथा (*yathā*)—as
+- त्वां (*tvāṃ*)—you
+- जुह्वे (*juhve*)—he prayed to and called
+- एव (*eva*)—in the same way
+- अर्चन् (*arcan*)—I, known by the name Arcan
+- त्वा (*tvā*)—you
+- अवसे (*avase*)—for protection
+- वंदमानः (*vaṃdamānaḥ*)—praising you, I call you (after the call)
+- सोमस्येव अंशुं (*somasyeva aṃśuṃ*)—as sacrificers carefully look after the Soma plants needed in the sacrifice, so
+- अहं (*ahaṃ*)—I
+- प्रति (*prati*)—in regard to service to you
+- जागर (*jāgara*)—I remain watchful
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitṛ, impeller of all, as my father Hiraṇyastūpa, son of the sage Aṅgiras, prayed to you and called you for the sake of food and the like, so I too pray to you and call you for my protection. As sacrificers guard the Soma plants in the sacrifice with great vigilance, so I too remain very watchful in regard to your service (praise).
+
+##### English translation
+As Hiranyastupa, the Angirasa, Summoned you to this food, so I, praising you for your protection, watch before you as (worshippers) watch before the filament of the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+The sage Arcan, seer of this sūkta, is the son of the sage Hiraṇyastūpa, himself the son of the well-known sage Aṅgiras; that is, Arcan is the grandson of Aṅgiras. In the present Ṛk this sage mentions that his father, the sage Hiraṇyastūpa, praised the deity Savitṛ in the 35th sūkta of the 1st maṇḍala of the Ṛgveda Saṃhitā. The family of the sage Aṅgiras is very large and famous. There are 44 members of his line who are seers of sūktas in the Ṛgveda. Hiraṇyastūpa, father of Arcan, seer of the present sūkta, is one of them. The sūktas seen by the sage Hiraṇyastūpa are: in the 1st maṇḍala sūktas 31-35 (71 ṛks); in the 9th maṇḍala the 4th sūkta (10 ṛks) and the 69th sūkta (10 ṛks); in all 7 sūktas (91 ṛks) in total. The only sūkta seen by the sage Arcan is this one, that is, the 149th sūkta of the 10th maṇḍala, of 5 ṛks.
+
+### Printed p. 1005
+
+For this Ṛk Yāska gives a Nirukta: हिरण्यस्तूपो हिरण्मयस्तूपो हिरण्मयः स्तूपॊस्ये ति वा। स्तूपः स्त्यायतेः संघातः । सवितर्यथा त्वांगिरसो जुह्वे वाजे अस्मिन्नेवं त्वार्चन्नवनाय वंदमानः सोमस्येवांशुं प्रति जागर्म्यहं ॥ (*hiraṇyastūpo hiraṇmayastūpo hiraṇmayaḥ stūpòsye ti vā| stūpaḥ styāyateḥ saṃghātaḥ | savitaryathā tvāṃgiraso juhve vāje asminnevaṃ tvārcannavanāya vaṃdamānaḥ somasyevāṃśuṃ prati jāgarmyahaṃ ‖*) (Ni. 10-33). *Hiraṇya* means golden, or shining like gold; *stūpa* means a mass of hair, a topknot. The word *stūpa* is formed from the root *stā* meaning "to gather into one". The hair on the head gathered together and tied in a knot is called a topknot; *stūpa* means topknot. Because the topknot of this sage was shining like gold, he got this name. "O Savitṛ, now I pray to you and call you to accept the oblation prepared in this sacrifice. When performing a sacrifice, the sacrificers look after the Soma plants with great care. Likewise I am very watchful in praying to you and praising you for protection." So the sage says here.
+
+## Sūkta 150 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्ध इति पंचर्चं द्वाविंशं सूक्तं वसिष्ठपुत्रस्य मृळीकस्यार्षमाग्नेयं ।
+> चतुर्थीपंचम्यावुपरिष्टाज्योतिषी त्रिद्वादशाष्टकवत्यौ । अक्षरव्यूहेन चतुर्थी
+> जगती वा । शिष्टा बृहत्यः । तथा चानुक्रांतं । समिद्धो मृळीको वासिष्ठ आग्नेयं
+> बार्हतमंत्ये उपरिष्टाज्योतिषी जगत्युपांत्या वेति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta समिद्ध (*samiddha*) is of five ṛks, the twenty-second sūkta, composed by Mṛḷīka, son of Vasiṣṭha. Its deity is Agni. The fourth and fifth ṛks are उपरिष्टाज्योतिषी (*upariṣṭājyotiṣī*), with twelve syllables in the first three pādas and eight in the last (त्रिद्वादशाष्टकवत्यौ (*tridvādaśāṣṭakavatyau*)). By the arrangement of syllables the fourth is either Jagatī or उपरिष्टाज्योतिः (*upariṣṭājyotiḥ*); the remaining ṛks are Bṛhatīs. He cites the Anukramaṇī: समिद्धो मृळीको वासिष्ठ आग्नेयं बार्हतमंत्ये उपरिष्टाज्योतिषी जगत्युपांत्या वेति ॥ (*samiddho mṛḷīko vāsiṣṭha āgneyaṃ bārhatamaṃtye upariṣṭājyotiṣī jagatyupāṃtyā veti ‖*) The use in ritual has been given already.
+
+##### Anuvāda
+
+This sūkta beginning समिद्धः (*samiddhaḥ*) is the twenty-second sūkta in the eleventh anuvāka, and it contains five ṛks. Its seer is Mṛḷīka, son of the sage Vasiṣṭha; its deity is Agni. The fourth and fifth ṛks of this sūkta are in the metre called Upariṣṭājjyotis. In the ṛks of this metre there are four pādas; the first three have twelve syllables each and the last has eight. By the count of syllables the fourth ṛk of this sūkta may also be in the Jagatī metre; the other ṛks are in the Bṛhatī metre. The Anukramaṇikā says
+
+### Printed p. 1006
+
+समिद्धो मृळीको वसिष्ठ आग्नेयं बार्हतमंत्ये उपरिष्टाज्योतिषी जगत्युपांत्या (*samiddho mṛḷīko vasiṣṭha āgneyaṃ bārhatamaṃtye upariṣṭājyotiṣī jagatyupāṃtyā*) and so on. The use in ritual has been given earlier.
+
+Sūkta 150. Maṇḍala 10. Anuvāka 11. Sūkta 150. Aṣṭaka 8. Adhyāya 8. Varga 8. Number of ṛks in the sūkta: 5.
+Seer: Mṛḷīka Vāsiṣṭha. Deity: Agni. Metre: 1-3 Bṛhatī; 4 Upariṣṭājjyotir-Jagatī or; 5 Upariṣṭājjyotis.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्धश्चि॒त्समि॑ध्यसे दे॒वेभ्यो॑ हव्यवाहन ।  
+> आ॒दि॒त्यै रु॒द्रैवसु॑भिर्न॒ आ ग॑हि मृळी॒काय॑ न॒ आ ग॑हि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संइद्धः । चित् । सं । इध्यसे । देवेभ्यः । हव्यवाहन ।  
+> आदित्यैः । रुद्रैः । वसुभिः । नः । आ । गहि । मृळीकाय । नः । आ । गहि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हव्यवाहन हव्यानां हविषां वोढरग्ने समिद्धश्चित् संदीप्तोऽपि
+> देवेभ्यो यागार्थं समिध्यसे । पुनरपृत्विग्भिः समिद्धिः संदीप्यसे । स त्वमादित्यैरादित्यादिभिस्त्रिभिर्गणैः सार्धं नोऽस्माना गहि । आगच्छ । तथा नोऽस्माकं मृळीकाय
+> सुखाय तदर्थमप्या गहि । यद्वा । मृळीकाय्तत्संज्ञाय नो मह्यमृषये
+> श्रेयांसि कर्तुमागच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, bearer of oblations (हव्यवाहन (*havyavāhana*)), although you are already kindled, you are kindled again for the gods, for the sacrifice, by the officiating priests with their fuel-sticks. Come to us with the three groups, the Ādityas and the rest, and also come for our Mṛḷīka, that is, for happiness, for that purpose. Or else: मृळीकाय (*mṛḷīkāya*) means for me, the sage of that name, come to do good things.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हव्यवाहन (*havyavāhana*)—O Agni, who carry the oblation to the gods
+- समिद्धः चित् (*samiddhaḥ cit*)—although you are well kindled
+- देवेभ्यः (*devebhyaḥ*)—for the benefit of the gods in the sacrifice
+- सं इध्यसे (*saṃ idhyase*)—you are kindled again by the priests; such as you
+- आदित्यैः (*ādityaiḥ*)—the twelve Ādityas
+
 ---
 
-**Progress note:** Done through printed p. 1000. pp. 995-1000 (batch API)
+**Progress note:** Done through printed p. 1006. pp. 1001-1006 (batch API)
