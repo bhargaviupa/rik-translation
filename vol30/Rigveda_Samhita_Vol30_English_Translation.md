@@ -19942,6 +19942,102 @@ Passages describing the nature of Brahman are especially numerous in the various
 
 Brahman, that is Parabrahman, produced the gods. Not only that: this whole universe is itself of the nature of Brahman. The Kṣatriya class was created by Brahman. The Brāhmaṇa is himself of the nature of Brahman. In this Brahman all the worlds, this whole world, are contained. This Brahman is the chief, the most praiseworthy, the beginning, of the five great elements beginning with earth and of all living beings. Who is able to compete with such a Brahman in power and ability? As is said in the Śvetāśvatara Upaniṣad, न तत्समश्चाभ्यधिकश्च दृश्यते (*na tatsamaścābhyadhikaśca dṛśyate*): none is seen equal to or greater than this Brahman. This Brahman
 
+### Printed p. 604
+
+…in that very Brahman the thirty-three gods are hidden. Indra and Prajāpati too are contained within Brahman. All beings likewise dwell in this Brahman, as people gathered in one place in a boat when crossing a river.
+
+In the Taittirīya Upaniṣad:
+
+यतो वा इमानि भूतानि जायंते । येन जातानि जीवंति । यत्प्रयंत्यभिसंविशंति । तद्विजिज्ञासस्व । तद्ब्रह्मेति ॥ (*yato vā imāni bhūtāni jāyaṃte | yena jātāni jīvaṃti | yatprayaṃtyabhisaṃviśaṃti | tadvijijñāsasva | tadbrahmeti ‖*) (Tai. U. 3-1)
+
+That supreme-of-the-supreme reality from which all these beings are born, by whose power the born beings live, and into which at the end they merge and perish: that is Brahman. In the sentence यो देवानां प्रथमं पुरस्तात् (*yo devānāṃ prathamaṃ purastāt*) (Tai. U. 4-12-3) it is said that this Brahman is the foremost and the first of all the gods. In another place of the same Upaniṣad:
+
+यतो वाचो निवर्तंते । अप्राप्य मनसा सह। आनंदं ब्रह्मणो विद्वान् । न बिभेति कदाचनेति ॥ (*yato vāco nivartaṃte | aprāpya manasā saha| ānaṃdaṃ brahmaṇo vidvān | na bibheti kadācaneti ‖*) (Tai. U. 2-4)
+
+This Supreme Brahman cannot be described in words, nor contemplated by the mind; it lies beyond speech and mind. The discerning person who obtains the bliss that arises from knowing this nature of Brahman has no fear, affliction or sorrow of any kind. So it is said.
+
+And in the Kena Upaniṣad**NOTE**:
+
+केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः । केनेषितां वाचमिमां वदंति चक्षुः श्रोत्रं क उ देवो युनक्ति ॥ (*keneṣitaṃ patati preṣitaṃ manaḥ kena prāṇaḥ prathamaḥ praiti yuktaḥ | keneṣitāṃ vācamimāṃ vadaṃti cakṣuḥ śrotraṃ ka u devo yunakti ‖*) (Kena. U. 1-1)
+
+By whose wish, by whose impulsion does this mind engage in its object? By whose command does the breath first begin its work? By whose wish do people speak? Who is the deity that commands the eyes and ears? The answer to these questions is given there itself:
+
+शोत्रस्य शोत्रं मनसो मनो यद्वाचो ह वाचं स उ प्राणस्य प्राणश्चक्षुषश्चक्षुरतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवंति ॥ (*śotrasya śotraṃ manaso mano yadvāco ha vācaṃ sa u prāṇasya prāṇaścakṣuṣaścakṣuratimucya dhīrāḥ pretyāsmāllokādamṛtā bhavaṃti ‖*) (Kesa. U. 1-2)**NOTE**
+
+That which is the ear of the ear, the mind of the mind, the speech of speech, is the breath of the breath and the eye of the eye. The wise go beyond these, that is, pass beyond these organs; and after departing from this world they attain the state of immortality (the deathless state of liberation).
+
+### Printed p. 605
+
+न तत्र चक्षुर्गच्छति न वाग्गच्छति नो मनो न विद्यो न विजानीमो यथैतदनुशिष्यादन्यदेव तद्विदितादधो अविदितादधि । इति शुश्रुम पूर्वेषां ये नस्तद्वाचक्षिरे ॥ (*na tatra cakṣurgacchati na vāggacchati no mano na vidyo na vijānīmo yathaitadanuśiṣyādanyadeva tadviditādadho aviditādadhi | iti śuśruma pūrveṣāṃ ye nastadvācakṣire ‖*) (Kesa. U. 1-3)
+
+Our sight cannot go to where That, that is, that Brahman, is. Our power of speech cannot reach it. Our mind cannot go and touch it that far. We do not know it. We do not know it so completely that we could instruct disciples and make it known to them. It is beyond what is known and what is not known. Thus we have heard from the forebears who taught us that knowledge.
+
+यद्वाचानभ्युदितं येनवागभ्युद्यते । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ यन्मनसा न मनुते येनाहुर्मनो मतं । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते । यच्चक्षुषा न पश्यति येन चक्षूंषि पश्यति । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ यच्छोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतं । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते । तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥ (*yadvācānabhyuditaṃ yenavāgabhyudyate | tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ‖ yanmanasā na manute yenāhurmano mataṃ | tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate | yaccakṣuṣā na paśyati yena cakṣūṃṣi paśyati | tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ‖ yacchotreṇa na śṛṇoti yena śrotramidaṃ śrutaṃ | tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ‖ yatprāṇena na prāṇiti yena prāṇaḥ praṇīyate | tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ‖*) (Kena. U. 1-4-8)
+
+Know that to be Brahman which cannot be described by the power of speech, by whose power speech (the power of speaking) is manifested. What people worship as Brahman is not Brahman. Know that to be Brahman which cannot be reasoned about with the help of the mind, but of which the mind itself is the object of reflection. Know that to be Brahman which cannot be seen with the eyes (cannot be seen), but which can see the eyes themselves. Know that to be Brahman which cannot be heard and known by the ears, but which hears the ears themselves. Know that to be Brahman which does not breathe by the help of breath, but which makes the vital breath itself breathe. What people are worshipping as Brahman is not Brahman.
+
+In the Taittirīya Upaniṣad:
+
+सत्यं ज्ञानमनंतं ब्रह्म । यो वेद निहितं गुहायां परमे व्योमन् सोऽश्नुते सर्वान्कामान् सह । ब्रह्मणा विपश्चितेति ॥ (*satyaṃ jñānamanaṃtaṃ brahma | yo veda nihitaṃ guhāyāṃ parame vyoman so 'śnute sarvānkāmān saha | brahmaṇā vipaściteti ‖*) (Tai. U. 2-1)
+
+### Printed p. 606
+
+What is Brahman? Brahman is of the nature of truth. Merely because it is subtle and not perceptible to the outer eye, one cannot say that it does not exist or that its existence is not true. That it exists is certain; because our power of sight has a limit, we cannot see it with our eyes. ज्ञानं (*jñānaṃ*) means understanding, consciousness. Granting that Brahman exists, though in a subtle state, what power has it? Is it not an inert thing like a mountain? No: it is endowed with consciousness and has the power of knowing everything. Not only that; it is the source of all the consciousness and knowledge in the universe. From it, as its parts, come the consciousness and knowledge of all beings. Now what is the meaning of the word अनंतं (*anaṃtaṃ*)? Does that Brahman, which through the two qualities just stated (being always existent, and consisting of consciousness or knowledge) exists only somewhere in one place? No. It is pervasive everywhere; it has neither end nor beginning. There is no place, time or thing where it is not. अंत (*aṃta*) means end; अनंत (*anaṃta*) means that which has no end. One cannot say, "The Brahman-reality ends here; this is its end; beyond this it is not." It has neither end nor beginning; it has no limitation of place, time or thing; it was in the past, it is now, it will be in the future. In all times, in all regions, in all things, it is pervasive. The main sense is this: the person who knows this Brahman, of the nature of being-consciousness-bliss and infinite, to be established in the most secret region, his heart, and worships it, becomes one with that omniscient Brahman, obtains all his desires, and experiences unsurpassed bliss.
+
+In another place of the Taittirīya Upaniṣad (Tai. U. 4-1) the nature of this Supreme Brahman is described at length and very well. Only its essence is set out here:
+
+अंभस्य पारे भुवनस्य मध्यॆ नाकस्य पृष्ठे महतो महीयान् । शुक्रेण ज्योतीग्ंषि समनुप्रविष्टः प्रजापतिश्चरति गर्भे अंतः । (*aṃbhasya pāre bhuvanasya madhyè nākasya pṛṣṭhe mahato mahīyān | śukreṇa jyotīgṃṣi samanupraviṣṭaḥ prajāpatiścarati garbhe aṃtaḥ |*) (Tai. U. 4-1)
+
+This Brahman is greater than all the great things there are in the Lokāloka regions at the farthest end of the many oceans, in the middle region of the worlds beginning with the earth, and on the upper part of heaven. With its shining divine light it enters the heart-lights of all beings, and, being in those beings in the form of the soul (in the form of consciousness), governs their movements.
+
+यस्मिन्निदग्ं सं च वि चैति सर्वं यस्मिन्देवा अधि विश्वे निषेदुः । तदेव भूतं तदु भव्यमा इदं तदक्षरे परमे व्योमन् ॥ (*yasminnidagṃ saṃ ca vi caiti sarvaṃ yasmindevā adhi viśve niṣeduḥ | tadeva bhūtaṃ tadu bhavyamā idaṃ tadakṣare parame vyoman ‖*)
+
+### Printed p. 607
+
+In that Supreme Brahman the whole world is contained; that is, at the time of creation it appears in manifest form; at the time of dissolution, unmanifest (in subtle form), it is absorbed and contained in Brahman itself. In that Brahman all the gods are contained. From that Brahman of unmanifest nature the origin of all the gods took place. At the end they all become one in Brahman. That Brahman itself is the support of the whole world that was, is, and will be created. In this imperishable Supreme Brahman, which like the sky is in the unmanifest state in subtle form, the whole universe is contained.
+
+येनावृतं खं च दिवं महीं च येनादित्यस्तपति तेजसा भ्राजसा च । यमंतःसमुद्रे कवयो वयंति तदक्षरे परमे प्रजाः ॥ (*yenāvṛtaṃ khaṃ ca divaṃ mahīṃ ca yenādityastapati tejasā bhrājasā ca | yamaṃtaḥsamudre kavayo vayaṃti tadakṣare parame prajāḥ ‖*)
+
+The sky, heaven and this vast earth are all enveloped by this Brahman; that is, Brahman pervades these worlds within and without. The shining sun too, by the power of this Brahman, is able to spread his rays and shine. Whatever moving and unmoving things and beings the poets (seers) have described in this whole world together with its seas, all of them are contained in this imperishable Supreme Brahman.
+
+यतः प्रसूता जगतः प्रसूती तोयेन जीवान्वचसर्ज भूम्यां । यदोषधीभिः पुरुषान्पशूग्‌श्च विवेश भूतानि चराचराणि ॥ (*yataḥ prasūtā jagataḥ prasūtī toyena jīvānvacasarja bhūmyāṃ | yadoṣadhībhiḥ puruṣānpaśūgśca viveśa bhūtāni carācarāṇi ‖*)
+
+From Brahman the creation of this world came about; and from the five elements beginning with water the beings on earth came into being. Through food (nourishment) produced by plants and trees (vegetation), that Brahman entered human beings and other beings and nourished them. Nourishing by water and the like the moving and unmoving things such as trees, and being within them, he made them grow.
+
+अतःपरं नान्यदणीयसग्ं हि परात्परं यन्महतो महांतं । यदेकमव्यक्तमनंतरूपं विश्वं पुराणं तमसः परस्तात् ॥ (*ataḥparaṃ nānyadaṇīyasagṃ hi parātparaṃ yanmahato mahāṃtaṃ | yadekamavyaktamanaṃtarūpaṃ viśvaṃ purāṇaṃ tamasaḥ parastāt ‖*)
+
+There is no thing more excellent or greater than this Supreme Brahman. There is nothing smaller or subtler than this, nor anything larger than this. This Brahman shines of itself, without a second, that is, with nothing equal to it. It is in the unmanifest (subtle) state, imperceptible to the senses. It is infinite, without limitation by place, time or thing. It comprises the whole universe. It shines luminous, distinct from tamas, that is, darkness or ignorance. It is also beginningless.
+
+### Printed p. 608
+
+तदेवर्तं तदु सत्यमाहुस्तदेव ब्रह्म परमं कवीनां । इष्टापूर्तं बहुधा जातं जायमानं विश्वं बिभर्ति भुवनस्य नाभिः ॥ (*tadevartaṃ tadu satyamāhustadeva brahma paramaṃ kavīnāṃ | iṣṭāpūrtaṃ bahudhā jātaṃ jāyamānaṃ viśvaṃ bibharti bhuvanasya nābhiḥ ‖*)
+
+Whether contemplated in the mind or described in words, that Brahman-reality is truth itself, say those who know. The poets have called this the supreme Brahman. The sacrifice-form too is this Brahman. All the worlds created in former kalpas and all the worlds now created are this Brahman. This Brahman, which is like the navel of the world, that is, which has entered the worlds in the form of consciousness and dwells there, upholds and nourishes the whole world by its power.
+
+तदेवाग्निस्तद्वायुस्तत्सूर्यस्तदु चंद्रमाः । तदेव शुक्रममृतं तद्ब्रह्म तदासः स प्रजापतिः ॥ (*tadevāgnistadvāyustatsūryastadu caṃdramāḥ | tadeva śukramamṛtaṃ tadbrahma tadāsaḥ sa prajāpatiḥ ‖*)
+
+Agni too is of the nature of that Brahman. Likewise the wind, the sun and the moon, the shining starry sphere, the five elements beginning with water, and Prajāpati in the form of Virāṭ: all these are that Brahman itself.
+
+सर्वे निमेषा जज्जिरे विद्युतः पुरुषादधि । कला मुहूर्ताः काष्ठाश्च होरात्राश्च सर्वशः ॥ अर्धमासा मासा ऋतवः संवत्सरश्च कल्पंतां । स आपः प्रदुघे उभे इमे अंतरिक्षमथो सवः ॥ (*sarve nimeṣā jajjire vidyutaḥ puruṣādadhi | kalā muhūrtāḥ kāṣṭhāśca horātrāśca sarvaśaḥ ‖ ardhamāsā māsā ṛtavaḥ saṃvatsaraśca kalpaṃtāṃ | sa āpaḥ pradughe ubhe ime aṃtarikṣamatho savaḥ ‖*)
+
+From that self-luminous Brahman the divisions of time arose, that is, nimeṣa (the time of closing and opening the eyelid), kāṣṭhā, kalā, muhūrta, day, night, fortnight (fifteen days, or half-month), month, seasons, year; all these divisions of time, having come into being, are of the nature of this Supreme Brahman. This Brahman, who is of the nature of time, created the earth together with the five elements beginning with water, the atmosphere and heaven.
+
+नैनमूर्ध्वं न तिर्यंचं न मध्ये परिजग्रभत् । न तस्येशे कश्चन तस्य नाम महद्यशः । (*nainamūrdhvaṃ na tiryaṃcaṃ na madhye parijagrabhat | na tasyeśe kaścana tasya nāma mahadyaśaḥ |*)
+
+Since this Brahman is all-pervading, it has none of the divisions called upper part, lower part, breadth, length, height, middle. It is not under anyone's control; that is, there is no one who exercises authority over it. Because it is thus entirely independent, its glory, that is, its greatness, is immeasurable.
+
+न संदृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनं । हृदा मनीषा मनसाभिक्ल्प्नो य एनं विदुरमृतास्ते भवंति ॥ (*na saṃdṛśe tiṣṭhati rūpamasya na cakṣuṣā paśyati kaścanainaṃ | hṛdā manīṣā manasābhiklpno ya enaṃ viduramṛtāste bhavaṃti ‖*)
+
+### Printed p. 609
+
+This Brahman is not a thing that is visible to anyone. No person is able to see its form with the eye. Those who, meditating with the mind on this Supreme Brahman dwelling in the lotus of the heart, realise and know it, become deathless and obtain the eternal supreme state. (Trai. U. 4-1)**NOTE**
+
+Besides these, there are many mantras and sentences in the Vedas and Upaniṣads that try to convey the nature of Brahman. Since explaining this Supreme Brahman in one way or another is the purpose of all the Upaniṣads, it is not possible to set out all of them here. Therefore this account is stopped here and the explanation of the present Ṛk will be continued.
+
+यतो जज्ञ उग्र स्वेषनृष्णः (*yato jajña ugra sveṣanṛṣṇaḥ*)—from which Brahman Indra, उद्धूर्णः (*uddhūrṇaḥ*) (of kindled strength), of the nature of the sun, was born. From this Supreme Brahman Indra came into being, most brilliant, powerful and of the nature of the sun. In the mantras quoted above it is said that Agni, Indra and the Sun arose from Brahman. Besides, in the mantra चक्षोः सूर्यो अजायत्त (*cakṣoḥ sūryo ajāyatta*) (Ṛ. Saṃ. 10-90-13) it is said that the sun was born from the eye of this Brahman, that is, of the Supreme Person. And in the mantra सूर्याचंद्रमसौ धाता यथा पूर्वमकल्पयत् (*sūryācaṃdramasau dhātā yathā pūrvamakalpayat*) (Ṛ. Saṃ. 10-190-3)**NOTE**, it is said that this Brahman created the sun and moon in this kalpa too, as in the former kalpa. Here identity of the sun and Indra is stated. Indra and the Sun are both parts of that Brahman. And in many places they are described as lords of the world and as themselves of the nature of Brahman. The Śruti sentence असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) (this Āditya who is visible to our eyes is none other than Brahman) supports this.
+
+सद्यः जज्ञानः नि रिणाति शत्रून् (*sadyaḥ jajñānaḥ ni riṇāti śatrūn*)—as soon as he was born, this Indra destroyed his enemies. Other people become able to fight enemies and kill them only many years after birth, that is, after passing childhood and boyhood and reaching youth. But the case of Indra is not so. As soon as he was born, he was able to slay enemies with his extraordinary strength and power. In the case of the Sun too, as soon as the Sun is born he destroys the enemies of the form of darkness and makes light for the whole world; that is, as soon as the Sun rises the darkness goes and light arises. Or else, in accordance with the Aitareya Āraṇyaka sentence सद्यो ह्येष जातः पाप्मानमपाहत (*sadyo hyeṣa jātaḥ pāpmānamapāhata*) (Ai. Ā. 1-3-4), as soon as the Sun rises he removes the sins of the people who worship him, or destroys the Mandeha and other Rākṣasas. On this subject a legend is told in the Taittirīya Āraṇyaka—
+
 ---
 
-**Progress note:** Done through printed p. 603. pp. 596-603 (batch API)
+**Progress note:** Done through printed p. 609. pp. 604-609 (batch API)
