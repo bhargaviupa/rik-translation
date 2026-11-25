@@ -16947,6 +16947,222 @@ Sūkta 115. Maṇḍala 10; Anuvāka 10; Sūkta 115. Aṣṭaka 8; Adhyāya 6; V
 
 The carrying of the oblation (हनिर्वहनं (*hanirvahanaṃ*)) by the child, the young, new Agni is indeed a wonder (चित्रः । इत् (*citraḥ | it*)): he who is born does not go to his two parents — the makers of all, i.e. heaven and earth as mother and father, or the two kindling-sticks — to drink. Here धातवे (*dhātave*) is from the root धेट् (*dheṭ*) in the sense of drinking; he does not go even to drink. अनूधाः (*anūdhāḥ*): if this world and that world, being without udders, bore Agni, it would be proper that he not go to suck; that is not so; rather, heaven and earth are indeed the wish-fulfilling cows of all, yet he does not go. Therefore his carrying of the oblation is a wonder; and after birth ….
 
+### Printed p. 512
+
+> मेव नृद्यास्मिन्निने सद्यस्तदानीमेव शीघ्रं महि महद्दूत्यं ॥ दूतस्य भागकर्मणी
+> इति कर्मणि यत्कृत्ययः ॥ दूतकर्म चरन् ववक्ष । देवान्प्रति हवींषि वहति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues his gloss of the last words of the verse. In this passage the text is damaged and begins in the middle of a sentence: the Agni, once born, on that very day and at that very moment, swiftly performs the great office of messenger. He explains दूत्यं (*dūtyaṃ*) (office of the messenger) with the rule दूतस्य भागकर्मणी (*dūtasya bhāgakarmaṇī*) (the affix yat in the sense of the action). Performing the messenger's work, ववक्ष (*vavakṣa*): he carries the oblations to the gods. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- मातरौ (*mātarau*)—to Heaven and Earth, the makers of the world, who stand in the place of mother and father
+- धातवे (*dhātave*)—for suckling
+- न अस्येति (*na asyeti*)—does not go
+- शिशोः (*śiśoḥ*)—who is of the form of an infant
+- तरुणस्य (*taruṇasya*)—and a youth, of Agni
+- वक्षथः (*vakṣathaḥ*)—the work of carrying the oblation
+- चित्रइत् (*citrait*)—is indeed wonderful
+- अनूधाः (*anūdhāḥ*)—the mother who has no udder
+- यदि (*yadi*)—by what greatness
+- जीजनत् (*jījanat*)—she gave birth to Agni (therefore he has no suckling)
+- अध च (*adha ca*)—as soon as he is born
+- सद्यः (*sadyaḥ*)—swiftly
+- महि (*mahi*)—great
+- दूत्यं (*dūtyaṃ*)—the work of the gods' messenger
+- चरन् (*caran*)—performing
+- ववक्ष (*vavakṣa*)—he carries the oblation to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+The work of carrying the oblation, performed by that Agni who is an infant and a youth, and who does not go for suckling to Heaven and Earth, the makers of the world, who stand in the place of mother and father, is indeed wonderful. The mother who has no udder gave birth to Agni by her greatness; therefore he has no suckling. As soon as he is born, swiftly performing the great work of the gods' messenger, Agni carries the oblation to the gods.
+
+##### English translation
+Wonderful is the conveyance of (the oblation by) the tender infant, who does not come to his parents to drink, although the underless (world) gave him birth : he immediately bears (the oblation to the gods) fulfilling the important office of their messenger.
+
+##### विशेषविषयगळु (Special Topics)
+
+यः धातये मातरौ न अस्येति (तस्य) शिशोः तरुणस्य वक्षथः चित्र इत् (*yaḥ dhātaye mātarau na asyeti (tasya) śiśoḥ taruṇasya vakṣathaḥ citra it*)—Heaven and Earth are not merely the makers of the world; they are the mother and father of all in the world. For all living beings are born within the space between Heaven and Earth, and from a portion of Heaven and Earth (that is, from the five elements). Therefore Heaven and Earth are the mother and father of Agni too. In worldly practice a newborn child, for some time, relies on its mother for suckling. But Agni does not rely, for suckling, on his mother and father Heaven and Earth, or on the fire-sticks (araṇi), the place of his birth.
+
+### Printed p. 513
+
+अनूधाः यदि जीजनत् ऊधो रहितोऽयं लोकश्चैनमग्निं यदि अजनयत् तर्हि स्तनपानाय न गच्छतीति युक्तं । तथा न भवति । किंतु द्यावापृथिव्यौ सर्वेषां कामदुघे खलु । तथापि न याति । तस्मादस्य हविवहनं चित्रं ॥ (*anūdhāḥ yadi jījanat ūdho rahito 'yaṃ lokaścainamagniṃ yadi ajanayat tarhi stanapānāya na gacchatīti yuktaṃ | tathā na bhavati | kiṃtu dyāvāpṛthivyau sarveṣāṃ kāmadughe khalu | tathāpi na yāti | tasmādasya havivahanaṃ citraṃ ‖*) It has been said that the Heaven and Earth spoken of above stand in the place of father and mother to Agni. As in worldly practice, a mother naturally ought to have breasts for the suckling of her children. If it is said that Agni did not rely on them for suckling because Heaven and Earth have no such breasts, that is not right. For it is well known that Heaven and Earth nourish all beings, supplying to each the food and the like that is dear to him. Even so Agni did not rely on Heaven and Earth for suckling, that is, for his nourishment. Yet that this Agni is capable in the work of carrying the oblation is wonderful indeed, so the seer describes.
+अथ च नु ववक्ष सद्यः महि दूत्यं चरन्—उत्पत्त्यनंतरमेव अस्मिन् दिने तदानीमेव शीघ्रं महद्दूत्यकर्म चरन् देवान् प्रति हवींषि वहति ॥ (*atha ca nu vavakṣa sadyaḥ mahi dūtyaṃ caran—utpattyanaṃtarameva asmin dine tadānīmeva śīghraṃ mahaddūtyakarma caran devān prati havīṃṣi vahati ‖*) As soon as this Agni is born (in the fire-sticks), immediately and swiftly he undertakes the messenger's work, which is great in nature and hard to accomplish, and carries the oblations to the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्ह॒ नाम॑ धायि॒ दन्न॒पस्त॑मः॒ सं यो वना॑ यु॒वते॒ ॑ ॒
+> भस्म॑ना द॒ता ।  
+> अ॒भि॒प्र॒मुरा॑ जु॒ह्वा॑ स्वध्व॒र इ॒नो न प्रोथ॑मानो॒ यव॑से॒  ॑
+> वृषा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ह । नाम । धायि । दन् । अपःतमः । सं । यः । वना । युवते । भस्मना ।  
+> दता ।  
+> अभिप्रमुरा । जुह्वा । सुअश्वरः । इनः । न । प्रोथमानः । यवसे । वृषा ॥ २ ॥
+
+### Printed p. 514
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपस्तमः ॥ अपःशब्दस्यांतोदात्तत्वेन मत्वर्थो लुप्त इति ज्ञायते ।
+> अन्यथापः कर्माख्यायामित्यसुनि कृत आद्युदात्तत्वमेव स्यात् ॥ अपस्वितमः कर्मवत्तमोग्निर्नाम ॥ तृतीयाया लुक् ॥ नाम्ना नमयितृणा हविषा स्तोत्रेण वा
+> धायि ! यजमानैर्धायते खलु ! यतो दन् यष्टाणां धनदाता ॥ डुदाञ्
+> दाने । हेतौ छंदस्युभयथेति शतुरार्धधातुकत्वेनाकारलोपः । अत एव शपोऽसंभवः ॥ योग्निर्भस्मना भासकेन प्रकाशकेन तेजसा दता दंतेन च वना वनान्यरण्यानि सं युवते संयुनक्ति । संदहतीति यावत् ॥ यु मिश्रणामिश्रणयोः ।
+> व्यत्ययेन शः । आत्मनेपदं च । दता । दंतशब्दस्य पद्दन्नित्यादिना दद्भावः! ऊडिदमिति
+> विभक्तेराद्युदात्तत्वं ॥ किंचाभिप्रमुरा ॥ मूर्छा मोहसमुच्छाययोः ।
+> अस्मात् क्विपि राल्लोप इति छकारलोपः । मुर संवेष्टन इत्यस्माद्वा क्विप्। कृदुत्तरपदप्रकृतिस्वरत्वं॥ अभितः समुच्च्रतेनोद्यतेन यद्वा सर्वतो हविर्भिः संवेष्टितेन
+> जुह्वैतन्नामकेन पात्रविशेषेण स्वध्वरः शोभनयज्ञोग्निर्दनीये हविषि चरतीति
+> शेषः । तत्र दृष्टांतः । इनो न समर्थः प्रोथमानः पर्याप्तः पुष्टांगो वृषा
+> यवसे न यथा वृषभो घासादिषु चरति ॥
+
+##### Gist of the bhāṣya
+
+Apastamaḥ: because the word अपः (*apaḥ*) has final acute accent, it is known that the matvartha affix is dropped (otherwise, by the rule on *apaḥ karmākhyāyāṃ*, the affix asun would give an initial acute). Meaning: Agni, "the one most full of action (karma)"; the instrumental ending is dropped. नाम्ना (*nāmnā*): by the bowing, that is by the oblation, or by praise. धायि (*dhāyi*): he is indeed held (nourished) by the sacrificers, since दन् (*dan*) he is the giver of wealth to those who sacrifice (root डुदाञ् (*ḍudāñ*), to give). The Agni who, with भस्मना (*bhasmanā*), that is with shining, illuminating splendour, and with दता (*datā*) (tooth), joins वना (*vanā*), the forests, that is burns them completely. Further, अभिप्रमुरा (*abhipramurā*): with the ladle called juhū, raised on all sides or else enveloped on all sides with oblations; स्वध्वरः (*svadhvaraḥ*), Agni of the good sacrifice, moves in the oblation fit for offering (the verb is to be supplied). The illustration: like a इनः (*inaḥ*), a capable, प्रोथमानः (*prothamānaḥ*), sufficient, strong-limbed bull, as a bull moves in grass and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- भस्मना (*bhasmanā*)—by his shining splendour
+- दता (*datā*)—and by his teeth of the form of flames
+- वना (*vanā*)—the forests (trees)
+- संयुवते (*saṃyuvate*)—who burns together
+- अपस्तमति (*apastamati*)—who is intent on the best action
+- दन् (*dan*)—giver of wealth to the sacrificers
+- अग्निः (*agniḥ*)—Agni
+- नाम (*nāma*)—by the oblation
+- धायि (*dhāyi*)—is held (is nourished)
+- इनः (*inaḥ*)—capable
+- प्रोथमानः (*prothamānaḥ*)—having strong limbs
+- वृषा (*vṛṣā*)—a bull
+- यवसे न (*yavase na*)—as it feeds and is satisfied in the pasture
+- अभिप्रमुरा (*abhipramurā*)—with a full supply of oblation
+- जुह्वा (*juhvā*)—with the ladle
+- स्वध्वरः (*svadhvaraḥ*)—Agni who has received the good sacrificial offering (is satisfied in the sacrificial place)
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who burns the forests together with his shining splendour and his teeth of flame, who is intent on the best action and a giver of wealth to the sacrificers, is nourished with the oblation. As a capable, strong-limbed bull feeds and is satisfied in the pasture, so Agni, receiving the good sacrificial offering from the ladle full of oblation, is satisfied in the sacrificial place.
+
+### Printed p. 515
+
+##### English translation
+The most active Agni, the giver of wealth, is nourished with ghi (by the worshippers), he who with flaming tooth devours the forests; devoutly worshipped with the uplifted goblet (he is nourished) like a lordly well-fed bull amidst (fresh) pasture.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वो॒ विं न द्रु॒षदं॑ दे॒वमंध॑स॒ इंदुं॒ प्रोथं॑तं प्र॒वपं॑तमर्ण॒वं ।  
+> आ॒सा वह्निं॒ न शो॒चिषा॑ विर॒प्यनं॒ महि॑व्रतं॒ न स॒रजं॑त॒मध्व॑नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वः । विं । न । द्रुसदं । देवं । अंधसः । इंदुं । प्रोथंतं । प्रवपंतं ।  
+> अर्णवं ।  
+> आसा । वह्निं । न । शोचिषा । विरप्यनं । महिव्रतं । न । सरजंतं । अध्वनः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतारः वो यूयं तमग्निमभिष्टुत । कीदृशं । विं न दक्षिणमिव
+> द्रुषदं । द्रुवृक्षः । अरणिलक्षणे वृक्षे सीदंतं देवं द्योतमानं अंधस इंदुं
+> स्तोतृणामन्नस्य क्लेदयितारं प्रापयितारं ॥ उंदेरिच्चादेः । उ. १-१३ । इत्युप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वं ॥ प्रोथंतं शब्दायमानं प्रवपंतमत्यर्थं
+> वनानां दाहकं अर्णवं ॥ अर्णसः सलोपश्चति मत्त्वर्थीयो वः ॥ अग्नौ प्रास्ताहुतिरित्यादिक्रमेणोदकवं० आसा ॥ आस्यॆशब्दस्य पद्दन्नित्यादिनासन्नादेशः । वर्णलोपश्कांदसः ॥ आसैन वह्निं हविषां वोढारं । यद्वा । आसा । अंतिकनामैतत् ।
+> देवानां समीपे हविषां प्रापकं । वहने दृष्टांतः । वह्निं न । वह्निर्वा अनड्वान् ।
+> तै. ब्रा. १-८-२-५ । इति श्रवणादनड्वाहमिव वहने समर्थं शोचिषा स्वदीप्ता
+> विरप्पिनं । महन्नामैतत् । महांतं महिव्रतं न महाकर्माणमादित्यमिनाध्वनः
+
+##### Gist of the bhāṣya
+
+O praisers, praise that Agni. What is he like? विं न (*viṃ na*), like a bird; द्रुषदं (*druṣadaṃ*): dru is a tree, one sitting in the tree that is the fire-stick; देवं (*devaṃ*), shining; अंधस इंदुं (*aṃdhasa iṃduṃ*), the one who moistens, who brings forward, the food of the praisers (the affix u by Uṇ. Sū. 1-13, with initial acute). प्रोथंतं (*prothaṃtaṃ*), sounding; प्रवपंतं (*pravapaṃtaṃ*), greatly burning the forests; अर्णवं (*arṇavaṃ*), possessing water, in the order beginning "the offering cast into the fire …". आसा (*āsā*): by the mouth, the carrier of oblations. Or else आसा (*āsā*) is a word for "near": he brings oblations near the gods. The illustration for carrying: वह्निं न (*vahniṃ na*), since it is heard in वह्निर्वा अनड्वान् (*vahnirvā anaḍvān*) (Tai. Brā. 1-8-2-5), he is capable of carrying like an ox. शोचिषा (*śociṣā*), by his own light, विरप्पिनं (*virappinaṃ*) (virapśin: "mahat" is the meaning), great; like Āditya, of great action (महिव्रतं न (*mahivrataṃ na*)), *adhvanaḥ sarajaṃtaṃ* (continues on the next page).
+
+### Printed p. 516
+
+> सरजंतं । मार्गान्सह युगपदेव रंजयंतं । एवंगुणमग्निमभिष्टुत ॥ सरजंतं ।
+> रन्ज रागे । रंजेः शतरि रंजेश्च । पा. ६-४-२६ । इति नलोपे सहस्य सभावे च कृते
+> रूपं ॥ यद्वा । सरतीति सरः । सरस्कोदकस्य जनयितारं ॥ जनेस्तप्रत्यये कृते
+> रूपमिति वा । व्युत्पत्त्यनवधारणादनवग्रहः ॥
+
+##### Gist of the bhāṣya
+
+He colours the paths at once together: praise Agni of such qualities. Sarajantam: from the root रन्ज (*ranja*) (to colour), by the rule रंजेः शतरि रंजेश्च (*raṃjeḥ śatari raṃjeśca*) (Pā. Sū. 6-4-26) the nasal is dropped and सह (*saha*) becomes स (*sa*). Or else, sara is "that which moves", that is water, so "the producer of water"; the form arises from the root जन (*jana*) with the affix ta. The derivation not being fixed, there is no determination.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O praises)
+- विं न (*viṃ na*)—as birds sit on a tree
+- द्रुसदं (*drusadaṃ*)—who is in the fire-sticks made of wood (having been born there)
+- देवं (*devaṃ*)—shining
+- अंधसः इंदुं (*aṃdhasaḥ iṃduṃ*)—who carries to the gods the oblations and the like offered by the praisers
+- प्रोथंतं (*prothaṃtaṃ*)—with sound, that is making a crackling sound
+- प्रवपंतं (*pravapaṃtaṃ*)—who burns the forest trees
+- अर्णवं (*arṇavaṃ*)—who is the cause of the rain water
+- आसा वह्निं (*āsā vahniṃ*)—who carries the oblation near to the gods; or else: वह्निं न (*vahniṃ na*)—like a bull (ox) bearing a burden; आसा (*āsā*)—with his mouth, that is with his flame, carrying the oblation to the gods
+- शोचिषा (*śociṣā*)—with his radiance
+- विरष्यिनं न (*viraṣyinaṃ na*)—like Āditya of great majesty
+- अध्वनः (*adhvanaḥ*)—the paths
+- सरजंतं (*sarajaṃtaṃ*)—who shines, or who sheds rain
+- तं (*taṃ*)—that famous Agni (praise him)
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, praise that Agni: who, as birds sit on trees, is in the fire-sticks made of wood; who is shining; who carries to the gods the oblations of the praisers; who with a crackling sound burns the forest trees; who is the cause of the rain water; who like an ox bearing a burden carries the oblation to the gods with his flames; and who, like the sun shining with great majesty by his radiance, lights up the paths.
+
+##### English translation
+(Glorify) him, (worshippers), the divine, like a bird seated upon a tree, demanding sacrificial food, clamorous, wood-consuming, water shedding, like one bearing (the obation) in his mouth, mighty with radiance, simultaneously illuminating the paths, like the great functionary (the sun).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि यस्य॑ ते ज्रयसा॒नस्या॑जर॒ धक्षो॒र्न वाताः॒ परि॒ संत्यच्यु॑ताः।
+
+### Printed p. 517
+
+> आ रण्वासो युयुधयो न सत्वनं त्रितं नशंत प्र शिषंत  
+> इष्टये ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यस्य । ते । ज्रयसानस्य । अजर । धक्षोः । न । वातः । परि । संति । अच्युताः ।  
+> आ । रण्वासः । युयुधयः । न । सत्वनं । त्रितं । नशंत । प्र । शिषंतः । इष्टये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अजर जरारहिताग्ने ज्रयसानस्य ॥ ज्रयतिर्गत्यर्थः । बाहुलकादस्मादप्यसानच् प्रत्ययः ॥ गमनशीलस्य धक्षोः ॥ दहेः सन् । द्विर्वचनप्रकरणे छंदसि वेति
+> वक्तव्यं । का. ६-१-८-१ । इति द्विर्वचनाभावः । तदंतादुप्रत्ययः । अरण्यदहनेच्छोर्यस्य ते तव स्वभूता अच्युताः शत्रुभिरच्यवनीयाः प्रभावा वाता न वायुव
+> इव वि परि संति सर्वतो विशेषेण वर्तंते ॥ संति । अस्तेर्लट् । यद्योगादनिघातः ॥ युयुधयो न ॥ युधेः किन्मत्तयः ॥ योद्धार इव रण्वासः शीघ्रं
+> गंतारः शब्दायमाना वर्त्विज इष्टये यागाय प्र शिषंतः प्रकर्षेण सिषंतः
+> सिषासंतः संभक्तुमिच्छंतः सत्वनं बलवंतं त्रितं त्रिष्वाहवनीयादिषु स्थानेषु
+> ततं विस्तृतं त्वामा नशंत । स्तुतिभिर्हविर्भिश्च व्याप्नुवंति । आज् पूर्वो नशिर्व्याप्तिकर्मा । आक्षण आनडिति व्याप्तिकर्मसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+O ageless Agni, who art without old age: ज्रयसानस्य (*jrayasānasya*), of one inclined to going (the root ज्रय (*jraya*) has the sense of going; the affix asāna is added to it through variety of usage); धक्षोः (*dhakṣoḥ*), of one desiring to burn (from दह (*daha*) with san; the doubling is absent by the rule cited, द्विर्वचनप्रकरणे छंदसि वेति वक्तव्यं (*dvirvacanaprakaraṇe chaṃdasi veti vaktavyaṃ*), and the affix u follows). Of thee who desirest to burn the forest, thy own unfailing powers, which enemies cannot dislodge, वाता न (*vātā na*) like winds, spread round on every side, वि परि संति (*vi pari saṃti*). युयुधयो न (*yuyudhayo na*): like warriors, the रण्वासः (*raṇvāsaḥ*), quick-going, sounding priests, desiring प्र शिषंतः (*pra śiṣaṃtaḥ*) (siṣāsantaḥ: wishing to attain) for the sacrifice (इष्टये (*iṣṭaye*)), pervade thee, mighty and spread in the three places such as the Āhavanīya (त्रितं (*tritaṃ*)), आ नशंत (*ā naśaṃta*), with praises and with oblations. The root *naś* preceded by आज् (*āj*) has the sense of pervading, as it is read among roots of the sense of pervading in the list beginning आक्षण आनडिति (*ākṣaṇa ānaḍiti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजर (*ajara*)—O Agni, free from old age, that is ever young
+- जयसानस्य (*jayasānasya*)—of one inclined to going
+- धक्षोः (*dhakṣoḥ*)—of one who burns the forest
+- यस्य ते (*yasya te*)—of thee, whose
+- अच्युताः (*acyutāḥ*)—powers not obstructed by enemies
+- वाता न (*vātā na*)—like the wind
+- वि परि संति (*vi pari saṃti*)—surround thee on all sides
+- युयुधो न (*yuyudho na*)—like warriors
+- रण्वासः (*raṇvāsaḥ*)—priests who move swiftly or who make the sound of reciting mantras
+- इष्टये (*iṣṭaye*)—the sacrifice
+- प्र शिषंतः (*pra śiṣaṃtaḥ*)—desiring to carry it out
+- सत्वनं (*satvanaṃ*)—possessed of strength
+- त्रितं (*tritaṃ*)—who dwellest in the three places such as the Āhavanīya
+- आ नशंत (*ā naśaṃta*)—approach thee with praises and the like and with the oblation
+
 ---
 
-**Progress note:** Done through printed p. 511. pp. 506-511 (batch API)
+**Progress note:** Done through printed p. 517. pp. 512-517 (batch API)
