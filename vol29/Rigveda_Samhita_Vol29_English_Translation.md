@@ -4594,6 +4594,343 @@ Agni, born in the forest, yokes the horses that go everywhere, held by reins tha
 ##### English translation
 Born in the woods, he has harnessed his steeds which move everywhere held in by straight-guiding reins ; friendly and augmented by rays, he has distributed (wealth); he grows in strength nourished with logs of wood.
 
+### Printed p. 161
+
+## Sūkta 80 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निः सप्तिमिति सप्तर्चं द्वादशं सूक्तं सौचीकस्य वैश्वानरस्याग्नेरार्षं
+> त्रैष्टुभमाग्नेयं ॥ अग्निः सप्तिमित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अग्निः सप्तिं (*agniḥ saptiṃ*) has seven Ṛks and is the twelfth sūkta. Its seer is Agni Saucīka Vaiśvānara; its deity is Agni; its metre is Triṣṭubh. The Anukramaṇī records it with the words अग्निः सप्तिमित्यनुक्रांतं ॥ (*agniḥ saptimityanukrāṃtaṃ ‖*) Its use at the Prātaranuvāka and at the Āśvinaśastra has been stated before.
+
+##### Anuvāda
+
+This sūkta beginning अग्निः सप्तिं (*agniḥ saptiṃ*) is the twelfth sūkta in the sixth anuvāka. It has seven Ṛks. As for the preceding sūkta, the seer of this sūkta is Agni Saucīka, or Agni Vaiśvānara, or Sapti, the son of Vājaṃbhara; Agni is the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said अग्निः सप्तिं (*agniḥ saptiṃ*). It has been stated before that this sūkta is used for the Prātaranuvāka and for the mantras of the Āśvinaśastra.
+
+Maṇḍala 10; Anuvāka 6; Sūkta 80. Aṣṭaka 8; Adhyāya 3; Varga 15. Number of Ṛks in the sūkta: 7. Seer: अग्निः सौचिको वैश्वानरो वा (*agniḥ sauciko vaiśvānaro vā*). **NOTE** Deity: अग्निः (*agniḥ*). Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निः सप्तिं॑ वाजंभ॒रं द॑दात्य॒ग्निर्वी॒रं श्रुत्यं॑ कर्मनि॒ष्ठां ।  
+> अ॒ग्नी रोद॑सी॒ वि च॑रत्समं॒जन्न॒ग्निर्नारीं॑ वी॒रकु॑क्षिं॒ पुरं॑धिं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । सप्तिं । वाजंभरं । ददाति. अग्निः । वीरं । श्रुत्यं । कर्मनिःस्थां ।  
+> अग्निः । रोदसी इति । वि । चरत् । सं अंजन् । अग्निः । नारीं । वीरकुक्षिं पुरंधिं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः सप्तिं सर्पणस्वभावमश्वं वाजंभरं युद्धे शत्रूञ्जित्वान्न
+> संपादकं ददाति स्तोतृभ्यः । तथाग्निर्वीरं वीर्यवंतं पुत्रं श्रुत्यं पितृव्यपदेशकं
+> xxix 11
+> xxix 11
+
+##### Gist of the bhāṣya
+
+This Agni gives to the singers a horse (सप्तिं (*saptiṃ*)), of a creeping nature, one that brings food in battle by conquering the enemies (वाजंभरं (*vājaṃbharaṃ*)). Likewise Agni gives a hero, a son full of valour, renowned (श्रुत्यं (*śrutyaṃ*)), one who makes his father known,
+
+### Printed p. 162
+
+> कर्मनिःष्ठां यागेऽनन्यचित्तं ददाति । अग्नी रोदसी द्यावापृथिव्यौ समंजन्
+> सम्यगंजयन्वि चरत् । विविधं चरति । अयमग्निर्नारीं योषितं वीरकुक्षिं
+> वीरप्रसवकुक्षिं पुरंथिं च करोति ॥
+
+##### Gist of the bhāṣya
+
+a son intent on ritual, with an undistracted mind in the sacrifice; he gives. Agni, travelling variously (वि चरत् (*vi carat*)), makes the two worlds, heaven and earth, shine well (समंजन् (*samaṃjan*)). **NOTE** This Agni makes a woman have a womb that bears heroes, and makes her endowed with understanding (पुरंधिं (*puraṃdhiṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- वाजंभरं (*vājaṃbharaṃ*)—that brings food in battle
+- सप्तिं (*saptiṃ*)—a horse
+- ददाति (*dadāti*)—gives to the sacrificer
+- अग्निः (*agniḥ*)—Agni
+- वीरं (*vīraṃ*)—valiant
+- श्रुत्यं (*śrutyaṃ*)—renowned
+- कर्मनिष्ठां (*karmaniṣṭhāṃ*)—intensely devoted to ritual; he gives such a son
+- अग्निः (*agniḥ*)—Agni
+- रोदसी (*rodasī*)—the two, heaven and earth
+- समंजन् (*samaṃjan*)—pervading
+- विचरत् (*vicarat*)—he travels in many ways
+- अग्निः (*agniḥ*)—Agni
+- नारीं (*nārīṃ*)—a noble woman
+- वीरकुक्षिं (*vīrakukṣiṃ*)—so that she bears a hero as son
+- पुरंधिं (*puraṃdhiṃ*)—and endowed with understanding, he makes her
+
+##### भावार्थ (Bhāvārtha)
+
+Agni gives to the sacrificer a horse that brings food in battle. Agni gives a son who is valiant, renowned and intensely devoted to ritual. Agni pervades heaven and earth and travels in many ways. Agni makes a noble woman bear a hero as son and makes her endowed with understanding.
+
+##### English translation
+Agni gives (his worshipper) a food-acquiring steed, Agni gives (him) a valiant son, renowned,lassiduous in pious works ; Agni travels beautifying heaven and earth; Agni (makes) a woman the bearer of male off-spring (and) intelligent. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नेरप्प॑सः स॒मिद॑स्तु भ॒द्राग्निर्म॒ही रोद॑सी॒ आ वि॑वेश ।  
+> अ॒ग्निरेकं॑ चोदयत्स॒मत्स्त्व॒ग्निर्वृ॒त्राणि॑ दयते पु॒रूणि॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नेः । अप्पसः । संइत् । अस्तु । भद्रा । अग्निः । मही इति । रोदसी इति । आ ।  
+> विवेश ।  
+> अग्निः । एकं । चोदयत् । समत्सु । अग्निः । वृत्राणि । दयते । पुरूणि ॥ २ ॥
+
+### Printed p. 163
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्नसः कर्मवतोऽग्नेः समिधद्रास्तु । अयमग्निर्मही महत्यौ रोदसी
+> द्यावापृथिव्याना विवेश । आविष्टवान्स्वतेजसा । तथायमग्निरेकमसहायमेव
+> चोदयत् चोदयति प्रेरयति समत्तु संग्रामेषु । युद्धे स्वभक्तं स्वयं
+> सहायः सञ्वयिनं करोतीत्यर्थः । तथाग्निर्वृत्राणि पुरूणि बहूञ्यत्रून्दयते । हंति ॥
+
+##### Gist of the bhāṣya
+
+May the fuel-stick of Agni, the doer of rites (अप्नसः (*apnasaḥ*)), be auspicious. This Agni has entered the two great worlds, heaven and earth, with his own brilliance. Likewise this Agni urges on the one, the unassisted, in battles: he makes his own devotee victorious in war, himself becoming his helper; such is the meaning. Likewise Agni slays the many enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्नसः (*apnasaḥ*)—of the doer of rites
+- अग्नेः (*agneḥ*)—of Agni
+- समित् (*samit*)—the fuel-stick
+- भद्रा (*bhadrā*)—auspicious
+- अस्तु (*astu*)—may it be
+- अग्निः (*agniḥ*)—Agni
+- मही (*mahī*)—the great
+- रोदसी (*rodasī*)—heaven and earth
+- आ विवेश (*ā viveśa*)—he has entered
+- अग्निः (*agniḥ*)—Agni
+- एकं (*ekaṃ*)—as one without a second **NOTE**
+- चोदयत् (*codayat*)—he urges on
+- समत्सु (*samatsu*)—in battles
+- अग्निः (*agniḥ*)—Agni
+- पुरूणि (*purūṇi*)—very many
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- दयते (*dayate*)—he slays
+
+##### भावार्थ (Bhāvārtha)
+
+May the fuel-stick of Agni, the doer of rites, be auspicious. Agni has entered the great heaven and earth. Agni, without a second, urges on the sacrificer; in battles Agni slays very many enemies.
+
+##### English translation
+May the fuel of the efficient Agni be auspicious; Agni has penetrated the vast heaven and earth; Agni animates (the worshipper) alone in battles; Agni destroys numerous enemies.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्ह॒ त्यं जर॑तः॒ कर्ण॑मावा॒ग्निर॒द्भ्यो निर॑दह॒ज्जरू॑थं ।  
+> अ॒ग्निरत्रिं॑ घ॒र्म उ॑रुष्यदं॒तर॒ग्निर्नृ॒मेधं॑ प्र॒जया॑सृज॒त्सं ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ह । त्यं । जरतः । कर्णं । आव । अग्निः । अत् ऽभ्यः । निः । अदहत् । जरूथं ।  
+> अग्निः । अत्रिं । घर्मे । उरुष्यत् । अंतः । अग्निः । नृमेधं। प्रजया । असृजत्  
+> सं ॥ ३ ॥
+
+### Printed p. 164
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्हायमग्निः खलु त्यं तं प्रसिद्धं जरतः कर्णं जरत्कर्णनामानमृषिमाव । ररक्ष । तथायमग्निरद्भो जरूधमेतन्नामानमसुरं निरदहत् । निर्दग्धवान् । तथाग्निरत्रिं महर्षीं घर्मेंतर्ऋबीसेवस्थितमुरुष्यत् । ररक्ष ।
+> तथायमग्निर्नृमेधमेतन्नामकमृषिं प्रजया पुत्रादिलक्षणया समसृजत् ।
+> संयुयोज ॥
+
+##### Gist of the bhāṣya
+
+This Agni, indeed, protected that well-known sage named Jaratkarṇa. Likewise this Agni burnt out the asura named Jarūtha. **NOTE** Likewise Agni protected the great sage Atri, who was staying in the hot pit; **NOTE** Likewise this Agni joined the sage named Nṛmedha with progeny, which consists of sons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- त्यं (*tyaṃ*)—the well-known
+- जरतः कर्णं (*jarataḥ karṇaṃ*)—the sage called Jaratkarṇa
+- आव (*āva*)—has protected
+- अग्निः (*agniḥ*)—Agni
+- अद्भ्यः (*adbhyaḥ*)—with flames
+- जरूथं (*jarūthaṃ*)—the asura called Jarūtha
+- निरदहत् (*niradahat*)—has burnt
+- अग्निः (*agniḥ*)—Agni
+- अत्रिं (*atriṃ*)—the great sage Atri
+- घर्मे अंतः (*gharme aṃtaḥ*)—from the burning pit
+- उरुष्यत् (*uruṣyat*)—he protected
+- अग्निः (*agniḥ*)—Agni
+- नृमेधं (*nṛmedhaṃ*)—the sage called Nṛmedha
+- प्रजया (*prajayā*)—with offspring
+- समसृजत् (*samasṛjat*)—he joined
+
+##### भावार्थ (Bhāvārtha)
+
+Agni has protected the well-known sage called Jaratkarṇa. Agni has burnt with his flames the asura called Jarūtha. He has protected the great sage Atri from the burning fire-pit. He has caused the sage called Nṛmedha to obtain offspring.
+
+##### English translation
+Agni verily has protected Jaratkarna; he has consumed Jarutha with his flames; Agni rescued Atri in the hot fissure; Agni furnished Nrimedha with progeny.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्दा॒द्द्रवि॑णं वी॒रपे॑शा अ॒ग्निर्यषिं॒ यः स॒हस्रा॑ स॒नोति॑ ।  
+> अ॒ग्निर्दि॒वि ह॒व्यमा त॑ताना॒ग्नेर्धामा॑नि॒ विभृ॑ता पुरु॒त्रा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । दात् । द्रविणं । वीरपेशाः । अग्निः । ऋषिं । यः । सहस्रा । सनोति ।  
+> अग्निः । दिवि । हव्यं । आ । ततान । अग्नेः । धामानि । विभृता । पुरुत्था ॥ ४ ॥
+
+### Printed p. 165
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निर्वीरपेशाः प्रेरकज्वालारूपो द्रविणं धनं दात् । ददाति ।
+> तथाग्निर्ऋषिं मंत्रद्रष्टारं पुत्रं प्रयच्छतीति शेषः । ऋषिर्विशेष्यते । य ऋषिः
+> सहस्रा गवां सहस्राणि सनोति भजते दक्षिणात्वेन तम्मृषिं ददातीति । तथाग्निर्दिवि
+> द्युलोके हव्यं यजमानैर्हुतमा ततान । देवेषु विस्तारयति । तथाग्नेर्धामानि
+> शरीराणि विभृता विभृतानि पुरुत्रा बहुषु स्थानेष्वाहवनीयधिष्णादिषु
+> क्षित्यादिसु ना ॥
+
+##### Gist of the bhāṣya
+
+This Agni, whose form is impelling flames (वीरपेशाः (*vīrapeśāḥ*)), gives wealth. Likewise Agni gives a seer, a seer of mantras, as a son; "he gives" is to be supplied. The seer is qualified: the seer who obtains a thousand cows as sacrificial fee, that seer he gives. **NOTE** Likewise Agni has spread the oblation offered by the sacrificers in the heavenly world; he extends it among the gods. Likewise the bodies of Agni are distributed in many places, in the Āhavanīya, the dhiṣṇya hearths and the like, on earth and elsewhere. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- वीरपेशाः (*vīrapeśāḥ*)—with spreading flames
+- द्रविणं (*draviṇaṃ*)—wealth
+- दात् (*dāt*)—gives
+- यः (*yaḥ*)—which seer
+- सहस्र (*sahasra*)—a thousand in number, cows
+- सनोति (*sanoti*)—is fit to obtain
+- ऋषिं (*ṛṣiṃ*)—to such a seer
+- अग्निः (*agniḥ*)—Agni gives sons and the like
+- अग्निः (*agniḥ*)—Agni
+- दिवि (*divi*)—in the heavenly world
+- हव्यं (*havyaṃ*)—the oblation
+- आ ततान (*ā tatāna*)—has made to spread
+- अग्नेः (*agneḥ*)—of Agni
+- धामानि (*dhāmāni*)—the bodies
+- पुरुत्रा (*purutrā*)—in many places
+- विभृता (*vibhṛtā*)—become manifest
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, with spreading flames, gives wealth. To the seer who is fit to obtain a thousand cows Agni gives sons and the like. Agni has made the oblation spread in the heavenly world. The bodies of Agni become manifest in many places.
+
+##### English translation
+Agni sending forth flames bestows wealth ; Agni (gives a son to) the Rishi who acquires a thousand cows; Agni spreads the oblation through heaven, the forms of Agni are manifested in many places.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्मु॒र्क्षैर्ऋष॑यो॒ वि ह्व॑यंते॒ऽग्निं नरो॒ याम॑नि  
+> बाधि॒तासः॑ ।  
+> अ॒ग्निं वयो॑ अं॒तरि॑क्षे॒ पतं॑तो॒ऽग्निः स॒हस्रा॒ परि॑ याति॒ गोनां॑॥
+
+### Printed p. 166
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । उक्षैः । ऋषयः । वि । ह्वयंते । अग्निं । नरः । यामनि । बाधितासः ।  
+> अग्निं । वयः । अंतरिक्षे । पतंतः । अग्निः । सहस्रा । परि । याति । गोनां ॥ ५ ५
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निमुक्थैः शस्त्रैर्ऋषयः पूर्वे वि ह्वयंते । विविधमाह्वयंति यज्ञे
+> स्वीये । अग्निं नरो मनुष्या यामनि संग्रामे । यातिर्वधकर्मसु पठितः ।
+> बाधितासः शत्रुभ्यो बाधिताः प्राप्नुवंति जयार्थं । तथाग्निं वयः पक्षिणोऽतरिक्षे
+> पतंतः पश्यंति रात्रिषु । तस्मादिमां वयांसि नक्तं नाध्यासते । तै. सं. ५-६-४-४ ।
+> इति ब्राह्मणं । यद्वा । दावभूतमग्निमंतरिक्षगा वयः पतंति । तथाग्निर्गोनां
+> सहस्रा सहस्राणि परि परितो याति । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+The ancient seers invoke Agni variously with uktha-hymns, the śastras, at their own sacrifice. Men invoke Agni in battle (यामनि (*yāmani*)); the word याति (*yāti*) is read among the words for killing. Those who are hard pressed by their enemies approach him for victory. Likewise the birds flying in the atmosphere see Agni in the nights; तस्मादिमां वयांसि नक्तं नाध्यासते । (*tasmādimāṃ vayāṃsi naktaṃ nādhyāsate |*) (Tai. Saṃ. 5-6-4-4) इति ब्राह्मणं (*iti brāhmaṇaṃ*) **GLOSS** Or else: birds flying in the atmosphere fly towards Agni, who has become a forest-fire. Likewise Agni goes all around the thousands of cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषयः (*ṛṣayaḥ*)—the seers
+- अग्निं (*agniṃ*)—Agni
+- उक्षैः (*ukṣaiḥ*)—with śastra-mantras
+- वि ह्वयंते (*vi hvayaṃte*)—they call in many ways
+- यामनि (*yāmani*)—in battle
+- बाधितासः (*bādhitāsaḥ*)—when greatly harmed
+- नरः (*naraḥ*)—men
+- अग्निं (*agniṃ*)—they call Agni
+- अंतरिक्षे (*aṃtarikṣe*)—in the sky
+- पतंतः (*pataṃtaḥ*)—flying
+- वयः (*vayaḥ*)—the birds
+- अग्निं (*agniṃ*)—call Agni
+- अग्निः (*agniḥ*)—Agni
+- गोनां सहस्रा (*gonāṃ sahasrā*)—cows in great number
+- परि याति (*pari yāti*)—surrounds
+
+##### भावार्थ (Bhāvārtha)
+
+The seers call Agni in many ways with śastra-mantras. When men are greatly harmed in battle, they call Agni. The birds flying in the sky call Agni. Agni surrounds cows in great number.
+
+##### English translation
+The Rishis variously invoke Agni with hymns; men when hard pressed in battle (invoke) Agni; the birds flying in mid-heaven (invoke) Agni; Agni circumambulates thousands of cattle.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निं विश॑ ईळते॒ मानु॑षी॒र्या अ॒ग्निं मानु॑षो॒ नहु॑षो॒ वि  ॒
+> जाताः ।  
+> अ॒ग्निर्गांध॑र्वीं प॒थ्या॑मृ॒तस्या॒ग्नेर्गव्यू॑तिर्घृ॒त आ निष॑त्ता ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । विशः । ईळते । मानुषीः । याः । अग्निं । मनुषः । नहुषः । वि । जाताः ।  
+> अग्निं । गांधर्विं । पथ्यां । ऋतस्य । अग्नेः । गव्योतिः । धृते । आ । निसत्ता ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निं विशः प्रजा ऋत्विग्यजमानलक्षणा ईळते । स्तुवंति । या मानुषीर्मानुष्यो मनुष्याज्जाताः ता ईळते । तथाग्निं मनुषो मनुष्या नहुषो
+> राज्ञः सकाशाज्जाताः प्रजा विविधं स्तुवंतीति । अग्निर्गांधर्वीं । वाज्नामैतत् ।
+> वाचु शृणोति । कीदृशीं गांधर्वीं ! ऋतस्य यज्ञस्य पथ्यां पथि हितां ।
+> अग्नेर्महात्मनो गव्यूतिर्मार्गो धृत आज्य आ निषत्ता सर्वतो निषण्णो भवति ॥
+
+##### Gist of the bhāṣya
+
+The subjects (विशः (*viśaḥ*)), the people made up of priests and sacrificers, praise Agni; those who are human, born of men, praise him. Likewise men, the subjects born of a king, of Nahuṣa, variously praise Agni. Agni hears the Gāndharvī: this is a name of speech. Of what kind? That which is favourable on the path of the ṛta, the sacrifice. The path of the great Agni is established, seated on all sides, in the ghee.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः (*yāḥ*)—who
+- मानुषीः (*mānuṣīḥ*)—are human
+- विशः (*viśaḥ*)—such subjects
+- अग्निं (*agniṃ*)—Agni
+- ईळते (*īḷate*)—they praise
+- नहुषः राज्ञः (*nahuṣaḥ rājñaḥ*)—by king Nahuṣa
+- जाताः (*jātāḥ*)—born, the subjects also
+- अग्निं (*agniṃ*)—they praise Agni
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- पथ्यां (*pathyāṃ*)—beneficial
+- गांधर्वीं (*gāṃdharvīṃ*)—the speech of praise
+- अग्निः (*agniḥ*)—Agni hears
+- अग्नेः (*agneḥ*)—of Agni
+- गव्यूतिः (*gavyūtiḥ*)—the path
+- धृते (*dhṛte*)—in ghee
+- आ निषत्वा (*ā niṣatvā*)—is established
+
+##### भावार्थ (Bhāvārtha)
+
+All the human subjects praise Agni. All the subjects born of Nahuṣa praise Agni. Agni hears the speech of praise that is beneficial to the sacrifice. The path of Agni is established in the ghee.
+
 ---
 
-**Progress note:** Done through printed p. 160. Mandala 10 sukta 79 verses 3 (end) to 7, pp. 155-160
+**Progress note:** Done through printed p. 166. Mandala 10 sukta 80 verses 1-6, pp. 161-166
