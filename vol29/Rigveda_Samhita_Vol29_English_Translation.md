@@ -12474,6 +12474,225 @@ he has explained the purport of the word वृषाकपि (*vṛṣākapi*)
 
 O Vṛṣākapi, you are the destroyer of dreams; that is, since at your rising in the morning the sleep of all is destroyed, you are the Sun. In accordance with your duty you must rise again. After your rising again, let us both together perform the auspicious rite. Addressing the Sun, who has the form of Indra, they say this same praise; thus it is declared that Vṛṣākapi and Indra are both special manifestations of the Sun. The authors of the Bṛhaddevatā too have indicated Vṛṣākapi as a deity belonging to the world of the Sun.
 
+### Printed p. 450
+
+वृषाकपायीं सूर्यस्य तामेवाहुस्तु निम्रुचि । (*vṛṣākapāyīṃ sūryasya tāmevāhustu nimruci |*)
+
+तस्याश्रये सरण्यूश्च भगः पूषा वृषाकपिः ॥ (*tasyāśraye saraṇyūśca bhagaḥ pūṣā vṛṣākapiḥ ‖*) (Bṛ. De. 2-10)
+
+Vṛṣākapāyī, Sūryā and Uṣas are the wives of the Sun. At sunset the relation between the Sun and Vṛṣākapāyī is the closer. The passage gives details that confirm the purport of the author of the Nirukta, that Saraṇyū, Bhaga, Pūṣan and Vṛṣākapi all belong to the Sun's shelter. Then the etymology of this word runs as follows.
+
+वृषैव कपिलो भूत्वा यन्नाकमधिरोहति । (*vṛṣaiva kapilo bhūtvā yannākamadhirohati |*)
+
+वृषाकपिरसौ तेन विश्वस्मादिंद्र उत्तरः । (*vṛṣākapirasau tena viśvasmādiṃdra uttaraḥ |*)
+
+रश्मिभिः कंपयन्नेति वृषा वर्षिष्ठ एव सः ॥ (*raśmibhiḥ kaṃpayanneti vṛṣā varṣiṣṭha eva saḥ ‖*) (Bṛ. De. 2-67)
+
+Because the bull of tawny colour climbs up to the firmament (नाक (*nāka*)), it is called Vṛṣākapi. Therefore the Vṛṣākapi described in the sūkta that contains the sentence विश्वस्मादिंद्र उत्तरः (*viśvasmādiṃdra uttaraḥ*) must be the Sun himself, who makes things tremble.
+
+सायाह्नकाले भूतानि स्वापयन्नस्तमेति यत् । (*sāyāhnakāle bhūtāni svāpayannastameti yat |*)
+
+वृषाकपिरितो वा स्यादिति मंत्रेषु दृश्यते ॥ (*vṛṣākapirito vā syāditi maṃtreṣu dṛśyate ‖*) (Bṛ. De 2.68)
+
+Moreover, at evening he sets, having made all beings sleep. From the mantra धन्व च यत्कृंतत्रं (*dhanva ca yatkṛṃtatraṃ*) up to the mantra यदुदंचो वृषाकपे (*yadudaṃco vṛṣākape*) (20-22) there is a precise indication of Indra with regard to Vṛṣākapi. Thus it is understood from the above details that Vṛṣākapi is a deity who belongs to the world of the Sun and reflects a part of the Sun.
+
+According to some, Vṛṣākapi belongs to the class of animals, from the word मृग (*mṛga*) in sentences such as चकार हरितो मृगः (*cakāra harito mṛgaḥ*) (Ṛ. Saṃ. 10-86-3). But the word मृग (*mṛga*) also has been explained as referring to the Sun. The author of the Nirukta makes this matter clear by citing the Ṛk of the Ṛk-saṃhitā
+
+यदुदंचो वृषाकपे गृहमिंद्राजगंतन । (*yadudaṃco vṛṣākape gṛhamiṃdrājagaṃtana |*)
+
+क्वंस्य पुल्वघो मृगः कमगंजनयोपनो विश्वस्मादिंद्र उत्तरः ॥ (*kvaṃsya pulvagho mṛgaḥ kamagaṃjanayopano viśvasmādiṃdra uttaraḥ ‖*) (Ṛ. Saṃ. 10-86-22)
+
+and, with त एतद्वः ब्रूम आदित्यं (*ta etadvaḥ brūma ādityaṃ*) (Ni. 13-3), he has explained it here also as referring to the Sun. Durgācārya, explaining the word मृग (*mṛga*) here
+
+### Printed p. 451
+
+(Ni. 13-2), explains the qualifying word पुल्वघः (*pulvaghaḥ*) in order to show how a meaning referring to the Sun is possible for this word. The author of the Nirukta himself has said that पुल्वघः (*pulvaghaḥ*) means one who eats much (बह्वादी (*bahvādī*)), that is, one who devours abundantly. How is that? बह्वसौ अत्ति सर्पप्राणिष्टवस्थितः— (*bahvasau atti sarpaprāṇiṣṭavasthitaḥ—*)सूर्य आत्मा जगतस्तस्थुषश्च ॥ (*sūrya ātmā jagatastasthuṣaśca ‖*) (Ṛ. Saṃ. 1-115-1). Since, as described in this sentence, the Sun himself pervades the self of all living beings, and since Upaniṣadic sentences such as अद्यतेऽत्ति च भूतानि (*adyate 'tti ca bhūtāni*) explain the devouring nature of the supreme Brahman who is in the form of the Sun, here also पुल्वघः मृगः (*pulvaghaḥ mṛgaḥ*) has been explained as the Sun.
+
+It has already been said that in this sūkta a dialogue of Indra, Indrāṇī and Vṛṣākapi, the son of Indra, is told. That dialogue itself is briefly set out here—
+
+(1) Indra—I am the greatest of the whole world, higher than all. Yet the priests, commanded by me, praised in the Soma sacrifice they performed my son Vṛṣākapi alone. In that sacrifice he gained satisfaction from drinking Soma. In that sacrifice the Soma juice was not pressed and prepared for me, and I was not praised.
+
+(2) Indrāṇī (the wife of Indra)—O Indra, your mind, in its distress, always runs towards Vṛṣākapi. You never go anywhere else to drink Soma.
+
+(3) O Indra, what helpful service has that Vṛṣākapi, who is just like a beast, done for you? Even if he does nothing, you generously provide him with wealth and food, do you not?
+
+(4) O Indra, may a hunting dog seize and devour this Vṛṣākapi, your son, whom you wish to protect with so much love, as a hunting dog bites a wild boar by the ear, kills it and eats it.
+
+(5) This wicked monkey has spoiled and ruined the oblation mixed with ghee that the sacrificers had prepared for me in the sacrifice. I shall cut off its head. I never wish to bring happiness to those who do evil.
+
+(6) There is no other woman more fortunate than I. There is no woman other than I who has good sons. There is no woman other than I who follows her husband, agrees with him and fulfils his wishes.
+
+### Printed p. 452
+
+(7) Vṛṣākapi—O mother, let everything be fulfilled quickly just as you have said. May my father Indra gain happiness through your company. When you are with your husband may he be happy. Like the song of the cuckoo and other birds, may my father experience delight through your loving words.
+
+(8) Indra (addressing Indrāṇī)—O fair-limbed one, you are the wife of a hero, your arms are tender, your fingers are beautiful. Your masses of hair are long and black. Your hips are broad. Why do you, being such, become angry with our son Vṛṣākapi?
+
+(9) Indrāṇī—This wicked beast speaks with contempt, considering me as one who has no protection of men. For me the hero Indra is the husband, for me there are heroic sons. The heroic Maruts too are my friends.
+
+(10) This Indrāṇī (I), the maker of truth, who has heroic sons, the wife of the heroic Indra, being prayed to by the singers and in order to favour them, goes to the battle they wage or to the sacrificial ground.
+
+(11) Indra (addressing Indrāṇī)—I have heard that among fortunate women this Indrāṇī is the most fortunate. For Indra, the husband of this Indrāṇī, is the greatest of all. Unlike ordinary people he does not fall under the power of death through old age.
+
+(12) O Indrāṇī, if my son Vṛṣākapi, who is like a friend to me, is not with me, I have no joy. The pure oblation prepared by that Vṛṣākapi and refined with water is most dear to the gods.
+
+(13) Vṛṣākapi—O Vṛṣākapāyī (Indrāṇī), who are the mother (of me, Vṛṣākapi), you are rich, you have excellent sons and good daughters-in-law. May you eat the animals (the flesh of animals), the oblation which you offer lovingly for your husband Indra and which is dear to Indra.
+
+(14) Indra—The sacrificers, impelled by my wife Indrāṇī, cook for my satisfaction fifteen or twenty bulls (ox or bull), that is, their flesh. I eat them and grow strong. They fill both sides of my belly, and the sacrificers fill my belly with Soma juice. **NOTE**
+
+### Printed p. 453
+
+(15) Indrāṇī—O Indra, as a bull with sharp horns rejoices, bellowing in a herd of cows, so may the Soma juice that I press and prepare for your delight satisfy you and be a giver of joy.
+
+(16) O Indra, the man whose organ of generation hangs between the two thighs, only in a sleeping state and powerless, such a man is not able to perform the act of union with a woman, that is, to enjoy a woman. But the man whose organ of generation is able to stand straight in the state of excitement, such a man alone is capable of performing the act of love with a woman.
+
+(17) Indra—O Indrāṇī, what you say is not right. The man whose male organ, lying in the sleeping state, stands upright in the state of excitement is not able to enjoy a woman; the man whose organ of generation hangs powerless between the two thighs, such a man alone is capable of union with a woman.
+
+(18) Indrāṇī—Let this Vṛṣākapi take a dead animal that is not his own. Let him get ready a sharp knife to cut it, a ladle to cook it, a new pan, and a cartload of firewood to boil it.
+
+(19) Indra—O Indrāṇī, I shall come there watching the sacrificial rite of the sacrificers who are performing the sacrifice. I shall learn which of them are Dāsas (Dasyus, the dark-coloured people) and which are Āryas. I shall drink only the Soma of those who prepare Soma juice for me with a good mind. And I shall look with a gracious mind upon the excellent sacrificer.
+
+(20) O Vṛṣākapi, between our house and this place there is a forest and a barren region. How far does it extend? There may be enemies in it. Therefore set out from here, go to our house and go near the sacrificial house there.
+
+(21) O Vṛṣākapi, come back to our house. I and Indrāṇī intend to do only what is good for you. Therefore you, who are in the form of the Sun, who by his rising disturbs the sleep of living beings, come home by the straight path.
+
+(22) Indrāṇī—O Vṛṣākapi, O Indra, rise, come home. Where has that ruinous wretched beast gone?
+
+### Printed p. 454
+
+(23) Vṛṣākapi—O arrow released by Indra, the daughter of Manu, the girl named पर्शु (*parśu*), bore twenty children at one time. May there be good fortune to that woman who bore twenty children at one time in her womb.
+
+On the use of this sūkta, the Ṛgvidhāna, a work spoken by Śaunaka, says as follows.
+
+इंद्राण्याः कृतसंवादं स्नाने सूक्तं प्रयोजयेत् । (*iṃdrāṇyāḥ kṛtasaṃvādaṃ snāne sūktaṃ prayojayet |*)
+
+नववर्गोत्तमयुतं पतिसौभाग्यपुत्रदं ॥ (*navavargottamayutaṃ patisaubhāgyaputradaṃ ‖*)
+
+जलपुष्पोत्करयुते चित्रकुंभसमावृते । (*jalapuṣpotkarayute citrakuṃbhasamāvṛte |*)
+
+कर्तव्योऽत्र तथा यागः सोमगंधर्ववह्निनां ॥ (*kartavyo 'tra tathā yāgaḥ somagaṃdharvavahnināṃ ‖*)
+
+भगायाप्सरसां चैव यक्षाधिपतयेऽपि च । (*bhagāyāpsarasāṃ caiva yakṣādhipataye 'pi ca |*)
+
+इंद्राण्यै देवपत्नीनां रतिप्रद्युम्नयोस्तथा ॥ (*iṃdrāṇyai devapatnīnāṃ ratipradyumnayostathā ‖*)
+
+नदीसलिलसंपूर्णैः पंचगव्यसमावृतैः । (*nadīsalilasaṃpūrṇaiḥ paṃcagavyasamāvṛtaiḥ |*)
+
+हुत्वाग्निं स्नापयेत्कन्यां स्थितां देशे तु दक्षिणे ॥ (*hutvāgniṃ snāpayetkanyāṃ sthitāṃ deśe tu dakṣiṇe ‖*)
+
+प्रियंगुवटनागानां कषायोद्धृष्टकेसरं । (*priyaṃguvaṭanāgānāṃ kaṣāyoddhṛṣṭakesaraṃ |*)
+
+संपाताभिहुतं कृत्वा सर्वौषधिसमन्वितं ॥ (*saṃpātābhihutaṃ kṛtvā sarvauṣadhisamanvitaṃ ‖*)
+
+अभिमंत्र्येह सूक्तांते नवभिस्तु वि हीति वै । (*abhimaṃtryeha sūktāṃte navabhistu vi hīti vai |*)
+
+स्थेयाभिरद्भिः पूर्णेन अभिषिंचेदुपोषितां ॥ (*stheyābhiradbhiḥ pūrṇena abhiṣiṃcedupoṣitāṃ ‖*)
+
+याः पतिघ्न्यस्सि यस्तन्वः शाम्यंते तास्त्वनेन वै । (*yāḥ patighnyassi yastanvaḥ śāmyaṃte tāstvanena vai |*)
+
+स्नापयेदाहनस्याभिर्विद्याद्यां विप्रवाजिनीं ॥ (*snāpayedāhanasyābhirvidyādyāṃ vipravājinīṃ ‖*)
+
+सूक्तामपोद्धरेदेनं न सेश इति तु दृचं । (*sūktāmapoddharedenaṃ na seśa iti tu dṛcaṃ |*)
+
+उपदिष्टोऽयमेकेषां पुंसः कर्मणि पौरुषे ॥ (*upadiṣṭo 'yamekeṣāṃ puṃsaḥ karmaṇi pauruṣe ‖*) (Mugvidhāna. A. 3-120 to 127) **NOTE**
+
+This sūkta, which contains the dialogue that took place with Indra and Indrāṇī, should be recited at the time of bathing. By this women obtain good fortune, a husband, sons and the like. One should set up a variegated pot, fill it with water, put in sprouts, leaves and flowers, invoke Soma and the other deities in it, and perform a sacrifice. In that offering, one should make oblations in the fire addressed to Soma, Gandharva, Agni, Bhaga, the Apsarases, the lord of the Yakṣas, Indrāṇī, the wives of the gods, Rati and Pradyumna. One should consecrate the pañcagavya together with river water. After the oblation in the fire, one should seat the girl in the southern direction and have her bathed with the water of the pot. With the juice prepared from priyaṅgu and other herbs one should sprinkle the girl while reciting the mantras of this sūkta, and after the recitation of the sūkta have her bathed with the water of the pot. If this is done, the spirits and other beings and the diseases that have entered the woman's body
+
+### Printed p. 455
+
+are removed, and long life and health increase. If men, on instruction, mutter the two Ṛks of this sūkta, the 16th and the 17th, beginning with न सेशे (*na seśe*), the lost manhood will be regained.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अष्टमाष्टकस्य चतुर्थोऽध्याय आरभ्यते । तत्र वि हीति त्रयोविंशत्यृचं
+> द्वितीयं सूक्तं । वृषाकपिर्नामेंद्रस्य पुत्रः । स चेंद्राणींद्रश्चैते त्रयः
+> संहताः संविवादं कृशवंतः ! तत्र विहि सोतोरसृक्षत किं सुबाहो स्वंगुर
+> इंद्राणीमासु नारिष्टिति द्वे उक्षो हि मेऽयमेमीति चतस्र इत्येता नवर्च
+> इंद्रवाक्यानि । अतस्तासामिंद्र ऋषिः । परा हींद्रेति पंचावीरामिति द्वे वृषभो
+> न तिग्मशृंग इत्याद्याश्चतस्र इत्येकादशर्च इंद्राण्या वाक्यानि । अतस्तासामिंद्राण्यृषिः ।
+> उवे अंब वृषाकपायि रेवति पर्शुर्ह नामोति तिस्रो वृषाकपेर्वाक्यानि ।
+> आतस्तासां वृषाकपिर्यषिः । सर्व० सूक्तमैंद्रं पंचपदापंक्तिच्छंदस्कं । तथा
+> चानुक्रांतं । वि हि त्र्यधिकॆंद्रो वृषाकपिरिंद्राणींद्रश्च समूदिरे सांकृतमिति ॥
+> षष्ठेऽहनि ब्राह्मणाच्छंसिन उक्तशस्त्र एतसूक्तं ! सूक्तं च । अथ वृषाकपिं
+> शंसेद्यथा होताज्याद्यां चतुर्थे : आ. ८-३ । इति ॥ यदि षष्ठेऽहन्युक्थस्तोत्राणि
+> द्विपदासु न स्तुवीरन्नामगा यदि वेदमहरग्निष्टोमः स्यात्तदानीं ब्राह्मणाच्छंसी
+> माध्यंदिने सवन आरंभणीयाभ्य ऊर्ध्वमेतसूक्तं शंसेद्विश्वजित्यपि । तथा च
+> सूत्रितं । सुकीर्तिं ब्राह्मणाच्छंसी वृषाकपिं च पंक्तिशंसं । आ. ८-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The fourth chapter of the eighth Aṣṭaka begins. In it the second sūkta, वि हि (*vi hi*), has twenty-three Ṛks. Vṛṣākapi is the son of Indra. He, Indrāṇī and Indra, these three, together carry on a dispute. Of these, वि हि सोतोरसृक्षत (*vi hi sotorasṛkṣata*) (1), किं सुबाहो स्वंगुरे (*kiṃ subāho svaṃgure*) (8), the two Ṛks इंद्राणीमासु नारिषु (*iṃdrāṇīmāsu nāriṣu*), the four beginning उक्ष्णो हि मे (*ukṣṇo hi me*) and आयमेमि (*āyamemi*) (14, 19-22), these nine Ṛks are speeches of Indra; therefore Indra is their seer. The five beginning परा हींद्र (*parā hīṃdra*), the two beginning अवीरां (*avīrāṃ*), and the four beginning वृषभो न तिग्मशृंगः (*vṛṣabho na tigmaśṛṃgaḥ*), these eleven Ṛks are speeches of Indrāṇī; therefore Indrāṇī is their seer. उवे अंब (*uve aṃba*), वृषाकपायि रेवति (*vṛṣākapāyi revati*) and पर्शुर्ह नाम (*parśurha nāma*) are speeches of Vṛṣākapi; therefore Vṛṣākapi is their seer. The whole sūkta is addressed to Indra and is in the metre पंचपदापंक्ति (*paṃcapadāpaṃkti*). So the Anukramaṇī says: वि हि त्र्यधिकेंद्रो वृषाकपिरिंद्राणींद्रश्च समूदिरे (*vi hi tryadhikeṃdro vṛṣākapiriṃdrāṇīṃdraśca samūdire*). On the sixth day (of the sacrifice) the Brāhmaṇācchaṃsin recites this sūkta in the ukthya śastra. A sūtra says: let him recite the Vṛṣākapi sūkta as the Hotṛ does, the first Ṛk and so on in the fourth (Ā. 8-3). If on the sixth day the uktha-stotras are not sung on dvipadā Ṛks, or if the Sāman singers have recited इदमहः (*idamahaḥ*) (the Agniṣṭoma being the Viśvajit day), then the Brāhmaṇācchaṃsin recites this sūkta after the Ārambhaṇīyā Ṛks at the midday pressing. So it is formulated in the sūtra: the Brāhmaṇācchaṃsin recites the Sukīrti and the Vṛṣākapi, a Paṅkti recitation (Ā. 8-4).
+
+Translation: In the Ṛgveda-saṃhitā the explanation of the fourth chapter of the eighth Aṣṭaka is now begun. The sūkta वि हि (*vi hi*), with which this chapter begins, is the second sūkta in the seventh Anuvāka. It has twenty-three Ṛks. The seer of this sūkta is Vṛṣākapi, the son of Indra. In this sūkta a dialogue of three, Vṛṣākapi, Indra and Indrāṇī, is contained. In this sūkta, वि हि सोतोरसृक्षत (*vi hi sotorasṛkṣata*) (1), किं सुबाहो स्वंगुरे (*kiṃ subāho svaṃgure*) (8), the two Ṛks इंद्राणीमासु नारिषु (*iṃdrāṇīmāsu nāriṣu*) (11-12), उक्ष्णो हि मे (*ukṣṇo hi me*) (14), and the four Ṛks आयमेमि (*āyamemi*) (19-22), in all nine Ṛks, contain the speeches of Indra. Therefore Indra himself is the seer of these Ṛks; the five Ṛks परा हींद्र (*parā hīṃdra*) (2.6), the two Ṛks अवीरां (*avīrāṃ*) (9.10), and the four Ṛks वृषभो न तिग्मशृंगः (*vṛṣabho na tigmaśṛṃgaḥ*) (15-18), in all eleven Ṛks, are the speeches of Indrāṇī; therefore Indrāṇī is the seer of these. The Ṛks उवे अंब (*uve aṃba*) (7), वृषाकपायि रेवति (*vṛṣākapāyi revati*) (13) and पर्शुहर्नाम (*parśuharnāma*) (23) are speeches of Vṛṣākapi. Therefore Vṛṣākapi himself is the seer of these Ṛks. For the whole sūkta Indra is the deity. The Ṛks of the sūkta are in the metre called पंचपदापंक्तिः (*paṃcapadāpaṃktiḥ*). In the Anukramaṇī it is said: वि हि त्र्यधिकेंद्रो वृषाकपिरिंद्राणींद्रश्च समूदिरे (*vi hi tryadhikeṃdro vṛṣākapiriṃdrāṇīṃdraśca samūdire*) पांक्तं (*pāṃktaṃ*)
+
+### Printed p. 456
+
+as it says. The use of this sūkta for the ukthya-śastra mantras to be recited on the sixth day of the sacrifice by the priest called Brāhmaṇācchaṃsin is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अथ वृषाकपिं शंसेद्यथा होताज्याद्यां चतुर्थे (*atha vṛṣākapiṃ śaṃsedyathā hotājyādyāṃ caturthe*) (Ā. 8-3). If on the sixth day the uktha-stotras are not praised with Ṛks of the dvipadā metre, or if the Sāman singers recite the mantra इदमहः (*idamahaḥ*) on the day called विश्वजित् (*viśvajit*) of the Agniṣṭoma sacrifice, then the priest called Brāhmaṇācchaṃsin should recite this sūkta at the time of the midday pressing after the opening mantras. This is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, सुकीर्ति० ब्राह्मणाच्छंसी वृषाकपिं च पंक्तिशंसं (*sukīrti0 brāhmaṇācchaṃsī vṛṣākapiṃ ca paṃktiśaṃsaṃ*) (A. 8-4). **NOTE**
+
+Maṇḍala 10; Anuvāka 7; Sūkta 86. Aṣṭaka 8; Adhyāya 4; Vargas 1, 2, 3, 4. Number of Ṛks in the sūkta: 23. Seer: वृषाकपिरैंद्र इंद्राणींद्रश्च समूदिरे (*vṛṣākapiraiṃdra iṃdrāṇīṃdraśca samūdire*); Ṛks 1, 8, 11-12, 14, 19-22: Indra; 2-6, 9-10, 15-18: Indrāṇī; 7, 13, 23: Vṛṣākapi. Deity: Indra. Metre: Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि हि सोतो॒रसृ॑क्षत॒ नेंद्रं॑ दे॒वम॑मंसत ।  
+> यत्राम॑दद्वृ॒षाक॑पिर॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । हि । सोतोः । असृक्षत । न । इंद्रं । देवं । अमंसत ।  
+> यत्र । अमदत् । वृषाकपिः । अर्यः । पुष्टेषु । मत्त्सखा । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोतोः सोमाभिषवं कर्तुं व्यसृक्षत । यागं प्रति मया विसृष्टा
+> अनुज्ञाताः स्तोतारो वृषाकपेय्यष्टारः । हीति पूरणः । तत्र देवं द्योतमान-
+
+##### Gist of the bhāṣya
+
+सोतोः (*sotoḥ*) means: to perform the pressing of Soma. The praisers, who are the sacrificers of Vṛṣākapi, were sent forth and permitted by me for the sacrifice (व्यसृक्षत (*vyasṛkṣata*)); हि (*hi*) is a filler. There देवं (*devaṃ*) means shining
+
+### Printed p. 457
+
+> मिंद्रं मां नामंसत । मया प्रेरिताः संतोऽपि ते स्तोतारो न स्तुतवंतः ।
+> किंतु मनु पुत्रं वृषाकपिमेव स्तुतवंतः । यत्र येषु पुष्टेषु सोमेन
+> प्रवृद्धेषु यागेऽवर्यः स्वामी वृषाकपिर्मम पुत्रो मत्सखा मनु सखिभूतः
+> सन्नमदत् सोमपानेन हृष्टोऽभूत् । यद्यस्येवं तथापींद्रोऽहं विश्वस्मात्सर्वस्माज्जगत उत्तरः । उत्कृष्टतरः ॥ माधवभट्टास्तु वि हि सोतोरित्येषर्गिंद्राण्या
+> वाक्यमिति मन्यंते । तथा च तद्वचनं । इंद्राणै कल्पितं हविः कश्चिन्मगोऽदूदुषदिंद्रपुत्रस्य वृषाकपीर्विषये वर्तमानः । तत्रेंद्रमिंद्राणी वदति तस्मिन्पक्षे
+> त्वस्या ऋचोऽयमर्थः । सोतोः सोमाभिषवं कर्तुं वि ह्यसृक्षत । उपरतसोमाभिषवा आसन्यजमाना इत्यर्थः । किंच मम पतिमिंद्रं देवं नामंसत ।
+> स्तोतारो न स्तुवंति । कुत्रेति अत्राह । यत्र यस्मिन्वेशे पुष्टेषु प्रवृद्धेषु
+> धनेऽवर्यः स्वामी वृषाकपिरमदत् । मत्सखा मत्तियश्चेंद्रो विश्वस्मात्सर्वस्माज्जगत उत्तरः । उत्कृष्टतरः ॥
+
+##### Gist of the bhāṣya
+
+इंद्रं (*iṃdraṃ*) is me. They did not praise me. Although sent forth by me, those praisers did not praise me, but praised my son Vṛṣākapi alone **NOTE**. यत्र (*yatra*): in those sacrifices that were fortified with Soma, the lord Vṛṣākapi, my son, my friend, being as it were a companion, rejoiced, that is, was delighted by drinking Soma. Although this is so, I, Indra, am above the whole world, more excellent. The followers of Mādhavabhaṭṭa, however, think that this Ṛk वि हि सोतोः (*vi hi sotoḥ*) is the speech of Indrāṇī; and they cite his statement: some animal, being in the sphere of Vṛṣākapi, the son of Indra, spoiled the oblation prepared for Indrāṇī; there Indrāṇī speaks to Indra. According to that view the meaning of this Ṛk is as follows. The sacrificers have left off pressing Soma, that is, they have stopped the Soma-pressing. Moreover, they do not praise my husband, the god Indra. Where? Where, in which place, when the wealth was increased, the lord Vṛṣākapi rejoiced. And Indra, the friend, is above the whole world, more excellent. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुष्टेषु (*puṣṭeṣu*)—those that have grown by Soma juice
+- यत्र (*yatra*)—in which sacrifices
+- मत्सखा (*matsakhā*)—my friend
+- अर्यः (*aryaḥ*)—and lord
+- वृषाकपिः (*vṛṣākapiḥ*)—Vṛṣākapi (my son)
+- अमदत् (*amadat*)—rejoiced; there
+- सोतोः (*sotoḥ*)—to press Soma for the sacrifice
+- व्यसृक्षत (*vyasṛkṣata*)—the priests were appointed by me myself
+- देवं (*devaṃ*)—the shining one
+- इंद्रं (*iṃdraṃ*)—and the lord, me alone
+- न अमंसत (*na amaṃsata*)—(although) they did not praise
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+In those sacrifices enriched by Soma, in which Vṛṣākapi, my friend, lord and son, rejoiced, the priests were appointed by me myself to press Soma for the sacrifice. Yet they did not praise me alone, the shining one and the lord. Even so, Indra is greater than the whole world.
+
+##### English translation
+[ Indra speaks : ] They have neglected the pressing of the Soma, they have not praised the divine Indra at the cherished (sacrifices), at which the noble Vrishakapi becoming my friend rejoiced: (still) I, Indra, am above all (the world).
+
 ---
 
-**Progress note:** Done through printed p. 449. pp. 443-449: Matarisvan special topics, end of adhyaya 3, start of sukta 86 introduction
+**Progress note:** Done through printed p. 457. pp. 450-457: Vrishakapi special topics, sukta 86 intro and Rk 1
