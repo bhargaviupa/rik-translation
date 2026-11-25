@@ -24472,6 +24472,255 @@ in body and blessed with male offspring.
 > मह्यं॑ यजंतु॒ मम॒ यानि॑ ह॒व्याकू॑तिः स॒त्या मन॑सो मे  
 > अस्तु ।
 
+### Printed p. 736
+#### Ṛk 4 (continued)
+
+> एनो मा नि गां कतमच्चनाहं विश्वे देवासो अधि वोचता
+> नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मह्यं । यजंतु । मम । यानि । हव्या । आकूतिः । सत्या । मनसः । मे । अस्तु ।  
+> एनः । मा । नि । गां । कतमत् । चन । अहं । विश्वे । देवासः । अधि । वोचत । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मह्यं मदर्थं यजंतु । ऋत्विजो देवान्हविर्भिर्यजंतु । यद्वा ।
+> षष्यर्थे चतुर्थी । मह्यं मदीया ऋत्विज इत्यर्थः । मम स्वभूतानि हव्यानि
+> यानि हवींषि चरुपुरोडाशादीनि संति तैर्हविर्भिरित्यर्थः । तथा मे मनस आकूतिः
+> संकल्पनमभीष्टस्य प्रार्थनं सत्या यथार्थमस्तु । अपि चाहं कतमच्चन किमप्येनः
+> पापं मा नि गां ! मा नियतं निकृष्णतरं वा गच्छेयं । पापं मा कार्षमित्यर्थः ॥
+> एतेर्माजि लुजेणो गा लुजेति गादेशः । गातिस्थेति सिचो लुक् ॥ अपि च हे
+> विश्वे सर्वॆ देवासो देवाः यूयं नोऽस्माकमधि वोचत । विवादेषु पक्षपातेन
+> ब्रूत ॥ वक्तेर्लोटि व्यत्ययेनाट् । वच उमित्युमागमः ॥
+
+##### Gist of the bhāṣya
+
+मह्यं (*mahyaṃ*) means "for me": let the priests worship the gods with oblations. Alternatively the dative stands for the genitive, so that "mine" means my priests. हव्या (*havyā*) are the oblations that belong to me, such as the caru and the puroḍāśa; the priests are to offer with these. May the resolve (ākūti) of my mind, that is, its formed intention and the prayer for what is desired, be true, that is, come to fulfilment. And may I not go to any sin at all. मा नि गां (*mā ni gāṃ*) means "may I not go down or to anything lowly", that is, "may I not commit sin". Further, "O all gods (विश्वे देवासः (*viśve devāsaḥ*)), speak for us (अधि वोचत— (*adhi vocata—*))", that is, speak with partiality for us in disputes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मम (*mama*)—my
+- यानि हव्यानि (*yāni havyāni*)—whatever oblations there are, caru, puroḍāśa and so on
+- मह्यं (*mahyaṃ*)—for me, or my priests
+- यजंतु (*yajaṃtu*)—let them offer to the gods
+- मे (*me*)—my
+- मनसः (*manasaḥ*)—of the mind
+- आकूतिः (*ākūtiḥ*)—the prayer for what is desired
+- सत्या (*satyā*)—truly
+- अस्तु (*astu*)—be fulfilled
+- अहं (*ahaṃ*)—I
+- कतमच्चन (*katamaccana*)—of whatever kind
+- एनः (*enaḥ*)—sin
+- मा नि गां (*mā ni gāṃ*)—may I not incur
+- विश्वे देवासः (*viśve devāsaḥ*)—O all gods
+- नः (*naḥ*)—to us
+- अधि वोचत (*adhi vocata*)—speak so that it may be well, that is, bless us
+
+##### भावार्थ (Bhāvārtha)
+
+May my priests offer to the gods, for me, these oblations that I have prepared. May the wish in my mind be fulfilled. May no sin of any kind befall me. O all gods, bless us that it may be well with us.
+
+### Printed p. 737
+
+##### English translation
+May my priests) offer for me whatever oblations of mine (there may be); may the purpose of my mind be sincere; may I not fall into any kind of sin ; universal gods, bless us.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देवीः॑ षळुर्वीरु॒रु नः॑ कृणोत॒ विश्वे॑ देवास इ॒ह वी॑रयध्वं।  
+> मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म  
+> राजन् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवीः । षट् । उर्वीः । उरु । नः । कृणोत । विश्वे । देवासः । इह । वीरयध्वं ।  
+> मा । हास्महि । प्रजया । मा । तनूभिः । मा । रधाम । द्विषते । सोम । राजन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे षडुर्विः षट्संख्याका उव्यः । एताश्चान्यत्राम्नायंते । षण्मोर्विरंहसः पांतु द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधयश्चति । ईदृश्यो हे देवीर्देव्यः ॥ जसि वा छंदसीति पूर्वसवर्णदीर्घः । नामंत्रिते समानाधिकरणे सामान्यवचनमित्यस्याविद्यमानत्वनिषेधेन षळुर्विरित्यनयोरामंत्रितयोः पदात्परत्वादाष्टमिकमामंत्रितानुदात्तत्वं ॥ ता यूयमुरु विस्तीर्णं धनं नोऽसाक्कं
+> कृणोत । कुरुत ॥ कृवि हिंसाकरणयोः । धिन्विकृण्वोरच्चेत्युप्रत्ययः । तप्तनप्तनथनाश्चति तस्य तबादेशः ॥ हे विश्वे सर्वॆ देवासो देवाः यूयं चेहास्मिन्धने
+> प्राप्तव्ये विषये वीरयध्वं । विक्रामयत । तथा वयं तद्धनं लभेमहि ।
+> तथा वीर्यवंतो यूयं प्रयच्छध्वमित्यर्थः ॥ वीर विक्रांतौ !! अपि च प्रजया
+> पुत्रादिरूपया मा हास्महि । वयं मा परित्यज्येमहि । मा च तनूभिः शरीरैस्त्यज्येमहि । आस्मान्कदाचिदपि पुत्रादयः शरीराणि च मा परित्याक्षुरित्यर्थः ॥ ओ
+> हाक् त्यागे । आस्मात्मर्मणि लुजि चिण्णद्भावाभावे रूपमेतत् ॥ तथा हे राजन्राजमान यद्वास्माकं स्वामिन् हे सोम द्विषतेऽप्रीतिं कुर्वते ॥ द्विषेः शतर्या-
+> 47
+
+##### Gist of the bhāṣya
+
+"O six wide ones": six in number, the wide ones (*urvyaḥ*). They are recited elsewhere: षण्मोर्विरंहसः पांतु द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधयश्चति । (*ṣaṇmorviraṃhasaḥ pāṃtu dyauśca pṛthivī cāhaśca rātriścāpaścauṣadhayaścati |*). Being such, O goddesses (देवीः (*devīḥ*)), you, make for us (नः कृणोत (*naḥ kṛṇota*)) wide, that is, ample wealth (उरु (*uru*)). "O all gods (विश्वे देवासः (*viśve devāsaḥ*)), exert your prowess (वीरयध्वं (*vīrayadhvaṃ*)) here (इह (*iha*)), in this matter of the wealth to be obtained", that is, show valour, so that we may obtain that wealth. The sense is: "grant it, being so valiant". Further, may we not be deserted (मा हास्महि (*mā hāsmahi*)) by offspring, sons and the like, nor deserted by our bodies; that is, may sons and the rest, and our bodies, never forsake us. Then, "O king (राजन् (*rājan*)), shining one, or else our lord, O Soma, may we not रधाम (*radhāma*) to the one who hates (द्विषते (*dviṣate*)), who acts without love", where the dative stands for the genitive; the sense is "may we not fall into the power of the hating enemy, so act". Yāska says रध्यति (*radhyati*) means "going into subjection" (Ni. 6-32 is not cited here; the text of this block continues on p. 738).
+
+### Printed p. 738
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दादित्वाच्चपो लुक् । शतुरनुम इति विभक्तेरुदात्तत्वं । षष्ठ्यर्थे चतुर्थी वक्तव्येति
+> चतुर्थी ॥ द्विषतः शत्रोर्मा रधाम । मा वशं प्राप्नुयाम! तथा त्वं कुर्वित्यर्थः।
+> रध्यतिर्वशगमन इति यास्कः । नि. ६-३२ । यद्वा । द्विषते शत्रवे तदर्थं मा रधाम ।
+> परिपक्वा हननार्हा मा भूम । रथ हिंसासंराध्योः । संराध्धिः पाक इति तद्वृत्तिः ।
+> माजि लुजि पुषादित्वाच्चेरजादेशः ॥
+
+##### Gist of the bhāṣya
+
+The block gives the Nirukta citation रध्यतिर्वशगमन इति यास्कः । नि. ६-३२ (*radhyatirvaśagamana iti yāskaḥ | ni. 6-32*) (Ni. 6-32): to "fall into the power of the enemy". Alternatively: for the hater, the enemy, may we not be रधाम (*radhāma*), that is, may we not become ripened, fit to be slain for him. The root रथ (*ratha*) is in the senses of killing and of perfecting (saṃrādhi), and "saṃrādhi is cooking" is the gloss on the latter sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- षट् उर्वीः (*ṣaṭ urvīḥ*)—six in number and of great majesty
+- देवीः (*devīḥ*)—O goddesses, you
+- नः (*naḥ*)—to us
+- उरु (*uru*)—abundant wealth
+- कृणोत (*kṛṇota*)—provide
+- इह (*iha*)—in this matter of obtaining wealth
+- विश्वे देवासः (*viśve devāsaḥ*)—O Viśvedevas, you
+- वीरयध्वं (*vīrayadhvaṃ*)—make effort (and we)
+- प्रजया (*prajayā*)—by sons and the like
+- मा हास्महि (*mā hāsmahi*)—may we not be left without them
+- तनूभिः (*tanūbhiḥ*)—by bodies also
+- मा (*mā*)—may we not be forsaken
+- राजन् (*rājan*)—lord, or shining one
+- सोम (*soma*)—O Soma
+- द्विषते (*dviṣate*)—to the enemies who hate us
+- मा रथाम (*mā rathāma*)—may we not fall into their power
+
+##### भावार्थ (Bhāvārtha)
+
+O six goddesses of great majesty, provide us with abundant wealth. In this matter let the Viśvedevas also strive to help us. May we not be without sons, that is, may we not lack sons and the rest, and may separation from the body, that is, death, not befall us. O Soma, our lord, may we not be put under the power of the enemies who hate us and be destroyed.
+
+##### English translation
+You, six mighty goddesses, bestow upon us ample (wealth); universal gods, display prowess here; let us not be bereft of our offspring, or be harmed in our bodies, may we not become subject to our enemy, royal Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here, by "six wide goddesses" the Bhāṣyakāra means the six goddesses who are the presiding deities of heaven (dyau), earth, the days, the night, the waters, and the herbs and trees, and he has cited in that connection the above śruti passage षण्मोर्वी रंहसः पांतु द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधयश्च (*ṣaṇmorvī raṃhasaḥ pāṃtu dyauśca pṛthivī cāhaśca rātriścāpaścauṣadhayaśca*).
+
+### Printed p. 739
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ म॒न्युं प्र॑तिनु॒दन्परे॑षा॒मद॑ब्बो गो॒पाः परि॑ पाहि  ॒
+> नस्यं ।  
+> प्र॒त्यंचो॑ यंतु नि॒गुतः॒ पुन॒स्ते॒३॒॑ ३ मैषां॑ चि॒त्तं प्र॒बुधां॒ वि  ॑
+> नेशत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । मन्युं । प्रतिनुदन् । परेषां । अवब्धः । गोपाः । परि । पाहि । नः । त्वं ।  
+> प्रत्यंचः । यंतु । निगुतः । पुनरिति । ते । अमा । एषां । चित्तं । प्रबुधां । वि ।  
+> नेशत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने परेषां शत्रूणां मन्युं क्रोधं प्रतिनुदन् प्रतिमुखं प्रेरयंस्तिरस्कुर्वनदब्धः केनाप्यहिंसितो गोपा गोपायिता ॥ गुपू रक्षण इत्यस्मादायप्रत्ययांतात्किपि वेरपृक्तस्य लोपात्पूर्वं वलि लोपे रूपमेतत् ॥ ईदृशस्त्वं
+> नोऽस्मान्परि पाहि । परितः सर्वतो रक्ष । ते शत्रवः प्रत्यंचः प्रत्यंचंतः प्रतिनिवर्तमाना निगुतः ॥ गुज् अव्यक्ते शब्दे । आस्मात्किपि तुक् ॥ भयेन गद्गदरूपमव्यक्तं
+> शब्दं नितरां कुर्वंतः पुनर्यंतु । स्वकीयं स्थानं पुनर्गच्छंतु । अपि च प्रबुधां
+> प्रबुध्यमानानामेतेषां शत्रूणां चित्तं ज्ञानसाधनं मनोऽमा सह युगपदेव
+> वि नेशत् । विनश्यतु ॥ प्रत्येकाभिप्रायेणैकवचनं । णश आदर्शन इत्यस्माच्चांदसो
+> लुज् । पुषादित्वाच्चॆरजादेशः । नशिमन्योरलिट्यत्वं वक्तव्यं । सा. ६-४-१२०-५ ॥
+> इत्यकारस्यॆत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, driving back (प्रतिनुदन् (*pratinudan*)) the wrath of the enemies, that is, repelling it face to face and putting it down; unharmed (अदब्धः (*adabdhaḥ*)) by anyone; protector (गोपाः (*gopāḥ*)), guardian: such as you are, protect us on all sides (परि पाहि (*pari pāhi*)). May those enemies of yours turn back (प्रत्यंचः (*pratyaṃcaḥ*)), retreating, and, from fear, making a faltering, indistinct sound (निगुतः (*nigutaḥ*)), go again (पुनर्यंतु (*punaryaṃtu*)) to their own place. Further, may the mind (चित्तं (*cittaṃ*)), the instrument of knowing, of these enemies who are awake (प्रबुधां (*prabudhāṃ*)), perish (वि नेशत् (*vi neśat*)) at the same moment (अमा (*amā*)); the singular is used with reference to each one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- परेषां (*pareṣāṃ*)—of the enemies
+- मन्युं (*manyuṃ*)—the wrath
+- प्रतिनुदन् (*pratinudan*)—who spurns
+- अदब्धः (*adabdhaḥ*)—who is subject to no one's harm
+- गोपाः (*gopāḥ*)—who protects the singers of praise
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- परि (*pari*)—all round
+- पाहि (*pāhi*)—protect
+- प्रत्यंचः (*pratyaṃcaḥ*)—returning defeated
+- ते (*te*)—your enemies
+- निगुतः (*nigutaḥ*)—muttering from fear
+- पुनः यंतु (*punaḥ yaṃtu*)—let them go back again to their own places
+
+### Printed p. 740
+- प्रबुधां (*prabudhāṃ*)—who are alert
+- एषां (*eṣāṃ*)—of these enemies
+- चित्तं (*cittaṃ*)—the mind (or discriminating knowledge)
+- अमा (*amā*)—at once
+- वि नेशत् (*vi neśat*)—let it perish
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who spurn the anger of the enemies without regard, and who are subject to no one's harm, protect us everywhere. May the enemies who return defeated go back to their places muttering from fear, or speaking in stammering words. May the mind, that is, the power of discernment, of these enemies who are ever on the alert be destroyed at once.
+
+##### English translation
+Agni you are an invincible protector, defend us, baffling the wrath of our enemies ; let them return grumbling to their homes, may the intelligence of those watchful (foes) be at once destroyed.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> धा॒ता धा॑तृ॒णां भुव॑नस्य॒ यस्पति॑र्दे॒वं त्रा॒तार॑मभिमातिषा॒हं ।  
+> इ॒मं य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाः पां॑तु॒ यज॑मानं  ॒
+> न्यर्थात् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> धाता । धातृणां । भुवनस्य । यः । पतिः । देवं । त्रातारं । अभिमातिसहं ।  
+> इमं । यज्ञं । अश्विना । उभा । बृहस्पतिः । देवाः । पांतु । यजमानं । निअर्थात् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धातृणां स्रष्टाणामपि धाता स्रष्टा भुवनस्य कृत्स्नस्य भूतजातस्य य इंद्रः
+> सविता वा पतिः पालयिता तं देवं देवनशीलं त्रातारं सर्वेभ्यो भयेभ्यः पालयितारमभिमातिषाहमभिमातीनां शत्रोणां सोढारमभिभवितारं एवंगुणविशिष्टमिंद्रं सवितारं वा स्तौमीति शेषः ॥ षह अभिभवे । छंदसि सह इति णिप्रत्ययः ।
+> छांदसं विभक्तुदात्तत्वं ॥ उभोभावश्विन् बृहस्पतिश्चैतत्पमुखाः सर्वे देवा इमं
+
+##### Gist of the bhāṣya
+
+He who, as the creator (धाता (*dhātā*)) even of creators (धातृणां (*dhātṛṇāṃ*)), is the lord (पतिः (*patiḥ*)), the protector, of the whole universe (भुवनस्य (*bhuvanasya*)), that is, Indra or Savitṛ: that god (देवं (*devaṃ*)), of shining nature, the saviour (त्रातारं (*trātāraṃ*)) who guards from all fears, the vanquisher (अभिमातिषाहं (*abhimātiṣāhaṃ*)) who overcomes hostile enemies, Indra or Savitṛ, endowed with such qualities, I praise; "I praise" is to be supplied. Both Aśvins, Bṛhaspati, and all the gods headed by them protect this sacrifice that is being performed, and the sacrificer, from न्यर्थात् (*nyarthāt*).
+
+### Printed p. 741
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञमनुष्ठीयुमानं यजमानं च न्यर्थान्निकृष्णादर्थात्पापात् । यद्वा । अर्थस्य
+> प्रयोजनस्याभावो न्यर्थं । तस्मात्पांतु । रक्षंतु । सफलं कुर्वंतित्यर्थः ॥ नेरनिधाने । पा ६-२-१९२ । इत्युत्तरपदांतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+न्यर्थात् (*nyarthāt*) means from a low or mean object, that is, from sin. Or else: न्यर्थं (*nyarthaṃ*) is the absence of an object (artha), of purpose; from that let them protect, that is, make it fruitful. For न्यर्थात् (*nyarthāt*) the accent is on the final of the latter member, by Pā. 6-2-192.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the god who
+- धातृणां (*dhātṛṇāṃ*)—of creators
+- धाता (*dhātā*)—is the creator
+- भुवनस्य (*bhuvanasya*)—of the whole world of living beings
+- पतिः (*patiḥ*)—who is the protector: such
+- देवं (*devaṃ*)—shining
+- त्रातारं (*trātāraṃ*)—who saves from fears
+- अभिमातिषाहं (*abhimātiṣāhaṃ*)—who conquers enemies: Indra or the god Savitṛ I praise
+- उभा अश्विनौ (*ubhā aśvinau*)—both Aśvins
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- देवाः (*devāḥ*)—all the gods headed by them
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice that is going on
+- यजमानं (*yajamānaṃ*)—this sacrificer who sacrifices
+- न्यर्थात् (*nyarthāt*)—from sin
+- पांतु (*pāṃtu*)—let them protect
+
+##### भावार्थ (Bhāvārtha)
+
+I praise Indra or the god Savitṛ, who is the creator even of the gods who are creators, who is the protector of the whole world of living beings, who is shining, who saves from all kinds of fear, and who defeats enemies. May the two Aśvins, Bṛhaspati and all the gods headed by them protect this sacrifice now going on, and the sacrificer, so that no sin befalls.
+
+##### English translation
+The creator of creators, he who is the protector of the universe, (him I praise), the divine defender, the destroyer of enemies; may the two Ashwins, Brihaspathi, and the gods, protect this sacrifice from disappoint- ment.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk the Bhāṣyakāra gives the meaning "I praise Indra or the god Savitṛ, endowed with the qualities beginning with धाता धातृणां (*dhātā dhātṛṇāṃ*)". Although this meaning is appropriate, the same sūkta, with slight changes, is recited in the Taittirīya Saṃhitā (Tai. Saṃ. 4-7-14), and there the word सवितारं (*savitāraṃ*) is used in place of त्रातारं (*trātāraṃ*) in this Ṛk. It therefore appears that the deity intended here may be Savitṛ.
+
 ---
 
-**Progress note:** Done through printed p. 735. pp. 730-735 (batch API)
+**Progress note:** Done through printed p. 741. pp. 736-741 (batch API)
