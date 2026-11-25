@@ -211,6 +211,77 @@ Thus the names Āyu, Dṛḍhāyu, Vanāyu and Śrutāyu show that all those of 
 
 Urvaśī, an Apsaras woman, fell in love with Purūravas, the son of Iḍā. Then she chose him and said, "O Purūravas, you may embrace me three times a day. But you must not lie with me without my consent. Only before me you must appear naked"
 
+### Printed p. 7
+
+…must not (appear). To appear that way is not proper for the dignity of women." With these words she laid down the condition.
+(Śa. Brā. 11-5-1-1)
+In that same manner she lived with him for a long time, and while living with him she also bore a child. Because she stayed with him so long, the Gandharvas became anxious about her. They thought: "Urvaśī has remained among humans for a very long time. We must find some means of making her come back to us from there." They then brought a ewe with two lambs and tied it to the foot of her bed. After that they carried off one of the lambs.
+(Śa. Brā. 11-5-1-2.)
+Then Urvaśī, grieved, cried out: "Someone is carrying off my beloved lamb. Is there no hero to protect my lamb? Is this a place without a master?" Meanwhile they seized the second lamb and ran off. Again she cried out in the same piteous way and begged for help.
+(Śa. Brā. 11-5-1-3.)
+As soon as he heard this cry of distress, Purūravas rose and said: "While I am in this land, how can it be a place without a master? Am I not a hero?" In his haste he leapt out just as he was, naked. Thinking that putting on his clothes would take time, he did not put any on. The Gandharvas, who had been waiting for exactly that moment, produced a flash of lightning. The light, which shone like daylight, appeared, and at once Urvaśī saw Purūravas naked. She instantly vanished. Before Purūravas could say, "Here I have come too," she had gone far away, out of sight. Purūravas, tormented with grief, wandered all around Kurukṣetra. As he wandered, he roamed on the bank of the lake called Anyataḥplakṣa. In that same lake, full of lotus flowers, Urvaśī and her companions were sporting in the form of swans.
+(Śa. Brā. 11-5-1-4)
+Then Urvaśī recognised him and told her companions, "This is Purūravas." After they had decided, "Let us show ourselves to him," Urvaśī appeared to Purūravas together with her companions.
+(Śa. Brā. 11-5-1-5)
+
+### Printed p. 8
+
+This is the introduction to the section of the Ṛk-saṃhitā. The dialogue of the Ṛk-saṃhitā begins at this very point. The same Ṛk-saṃhitā sentences are also recited in the Śatapatha-brāhmaṇa, which carries their conversation forward. But the Brāhmaṇa sentences give only certain parts; the dialogue stated in mantras 1, 2, 14, 15 and 16 of this sūkta of the Ṛk-saṃhitā. Therefore the gist of the dialogue in the Ṛk-saṃhitā is given here briefly.
+
+Because she had suddenly left him and gone away, Purūravas addresses Urvaśī as "O fierce one (O cruel-hearted one)" and wishes to enjoy the pleasure of conversation with her for a little while. In answer she too, displaying her own hardness, says: "O Purūravas, what do you need from this conversation? Like the Uṣas that arose first, I have moved far away from you. I am not to be had by you. Return home." Again Purūravas describes his mental anguish: without Urvaśī's company all his valour has wasted away, he has no strength even to shoot an arrow at his enemies, and he cannot even frighten them. Thus showing his weakness, he pleads again for her company.
+
+She rebukes him: "O Purūravas, you lived freely with me and enjoyed every pleasure. You were born to protect the earth, and you have placed your virility in me. Knowing the future, I told you at the time what your duty was. But you did not heed my well-meant words. Having transgressed my word, why do you now cry out?"
+
+The Ṛk-saṃhitā text has it that after some further exchange of replies she assures him that he will obtain her company in heaven and then disappears. But the Śatapatha-brāhmaṇa states still more:
+सा होवाच, संवत्सरतमीग्ं रात्रिमागच्छतात्तन्म एकाग्ं रात्रिमंते शयितासे जात उ तेऽयं तर्हि पुत्रो भवितेति स ह संवत्सरतमीग्ं रात्रिमाजगामेद्धिरण्यविमितानि ततो हैनमेकमूचुरेतत्प्रपद्यस्वेति तद्दास्मै तामुपप्रजिघ्युः॥ (*sā hovāca, saṃvatsaratamīgṃ rātrimāgacchatāttanma ekāgṃ rātrimaṃte śayitāse jāta u te 'yaṃ tarhi putro bhaviteti sa ha saṃvatsaratamīgṃ rātrimājagāmeddhiraṇyavimitāni tato hainamekamūcuretatprapadyasveti taddāsmai tāmupaprajighyuḥ‖*)
+(Śa. Brā. 11-5-1-11)
+Seeing Purūravas' wretchedness, Urvaśī's heart melted and she speaks thus: "O Purūravas, on the last day of the year come to me and join me; you may be with me for one night only.
+
+### Printed p. 9
+
+A son will be born to you from me." Accordingly he went to her place on the appointed day. While he was seated there on a golden seat, Urvaśī's companions came, sent him up, and sent Urvaśī to him.
+सा होवाच । गंधर्वा वै ते प्रातर्वरं दातारस्तं वृणासा इति तं वै मे त्वमेव वृणीष्टेति युष्माकमेवैकोऽसानीति (*sā hovāca | gaṃdharvā vai te prātarvaraṃ dātārastaṃ vṛṇāsā iti taṃ vai me tvameva vṛṇīṣṭeti yuṣmākamevaiko 'sānīti*)
+(Śa. Brā. 11-5-1-12)
+Urvaśī came to Purūravas and said: "The Gandharvas will grant you a boon in the morning. Accept it, and ask for a boon of your own choice." When Purūravas asked, "Tell me yourself what the boon should be," she said: "Ask them: 'Grant that I too may be a Gandharva together with you.'" Accordingly, the next morning the Gandharvas came and granted Purūravas a boon, and he begged: "Give me the boon that I too may be a Gandharva with you."
+ते होचुः ! न वै सा मनुष्येष्टग्नेरज्ञिया तनूरस्ति ययेष्टास्माकमेकः स्यादिति तस्मै ह स्थाल्यामोप्याग्निं प्रददुरनेनेष्टास्माकमेको भविष्यसीति तं च ह कुमारं चादायावप्राज सोऽरण्य एवाग्निं निधाय कुमारेणैव ग्राममेयाय पुनरैमीत्येत्तिरोभूतं योऽग्निरश्वत्थं तं या स्थाली शमिां ताग्ं स ह पुनर्गंधर्वानेयाय (*te hocuḥ ! na vai sā manuṣyeṣṭagnerajñiyā tanūrasti yayeṣṭāsmākamekaḥ syāditi tasmai ha sthālyāmopyāgniṃ pradaduraneneṣṭāsmākameko bhaviṣyasīti taṃ ca ha kumāraṃ cādāyāvaprāja so 'raṇya evāgniṃ nidhāya kumāreṇaiva grāmameyāya punaraimītyettirobhūtaṃ yo 'gniraśvatthaṃ taṃ yā sthālī śamiāṃ tāgṃ sa ha punargaṃdharvāneyāya*)
+(Śa. Brā. 11-5-1-13)
+"O Purūravas, the principle of sacrifice by which one worships the gods and attains the highest divinity is not yet known to humans. Therefore, unless you obtain that knowledge, you cannot join our company. So we shall teach you this principle of sacrifice." Thus they taught it to him. Having obtained that knowledge, Purūravas attained divinity and joined them. This is the story of the Brāhmaṇa.
+
+In this sūkta no deity is praised. In the sūktas of the Ṛgveda, for the most part, it is prayer praising some deity that is chiefly found. Yet here and there there are other descriptions too: the creation of the world, exposition of principles, praises of kings' gifts, and exposition of other matters. Along with these there are some, such as dialogues relating to the love-play of women and men. Among these the chief are the dialogue of Yama and Yamī, the dialogue of Agastya and Lopāmudrā, the account of Svanaya, and the mutual dialogue of Purūravas and Urvaśī. For love-play
+
+### Printed p. 10
+
+dialogues such as these to have found their place among sūktas that contain only praise of deities is indeed a surprising matter. These mantras may have a hidden meaning other than the one that appears on the surface, or they may have been included here in order to teach a particular moral principle. In very ancient times, that is, when the sūktas of the Ṛgveda had not been divided as they now are, such sūktas and many other kinds of sūkta (with and without praise of deities) may have been current. When the sūktas of the Ṛgveda were arranged in a fixed order, its compilers may have left out many such sūktas, not including them in the Ṛgveda (on the ground that they were not required). Many grounds can therefore be given for the view that not all the sūktas in use at that time are included in the present Ṛgveda; since we shall examine this matter in another context, no explanation on it is needed here. We shall explain briefly, in the form of a dialogue and just as it stands, what is said in the present sūkta.
+
+1. Purūravas—O hard-hearted wife, stay here a little while, showing a mind that indicates mutual love between us. For let us express the feelings in our minds through conversation with each other. If we do not speak with open minds and our longings remain as they are, they will not bring us happiness to the very end.
+2. Urvaśī—O Purūravas, what use is there in our talking with each other? Just as the dawn that has passed after sunrise cannot be got back, I have moved far away from you; return to your home. Just as it is impossible to hold the wind in the hand, so I am not to be had by you.
+3. Purūravas—O Urvaśī, (I am wasted and wilted by the pain of separation from you; my strength has shrunk.) When I fight for victory, I cannot hurl an arrow with my pressing force. I, who used to rush swiftly upon enemies in battle, am unable to win and bring back the enemies' cattle. I am unable to win the enemies' wealth and the like; in the other royal tasks that I carry out, too, my strength and capacity do not shine, that is, do not stand out. My warriors, who can make enemies tremble with fear in battles, pay no heed to the sound of my command.
+4. Urvaśī—(Speaking her own thoughts to the goddess Uṣas) O goddess Uṣas, formerly I lived in the house of my father-in-law, the father of Purūravas, serving him and providing clothing, food and the like. When I longed for my husband,
+
+### Printed p. 11
+
+I would leave my father-in-law's dining hall and go to my husband's quarters. There my husband, embracing me lovingly day and night, would strike me with his male organ so as to please me.
+**NOTE**
+1. (Addressing Purūravas) O Purūravas, formerly (when I was in your house) you used to delight me three times a day with embraces and the like and with the striking of the male organ. And there I had no trouble from co-wives, that is, rival wives. In this way I lived happily in your house. O hero, at that time you were the lord of my body and of my pleasures and so on, were you not?
+6. Purūravas—O Urvaśī, six Apsaras women, named Sujūrṇi, Śreṇi, Summāpi, Pradecakṣu, Granthinī and Caraṇyu, adorned with all ornaments and shining with the golden lustre of their bodies, have come with you. They do not run away as before, and they do not cry out as newly calved cows cry out for shelter.
+**NOTE**
+7. Urvaśī—As soon as this Purūravas was born, the Apsaras women, or divine women, surrounded and nourished him. Rivers flowing of themselves strengthened him with food and the like. O Purūravas, the gods raised, fed and protected you so that you might fight enemies and, in that battle, destroy the Dasyu people.
+8. Purūravas—(Addressing Urvaśī and the other Apsaras women) When this human Purūravas (I) showed his human form before these Apsaras women of divine form, that is, approached them, all those women ran far away from me, like horses yoked to a chariot running swiftly off.
+9. When Purūravas, a human, wishes to build contact with these immortal (free from mortality) Apsaras women through suitable words and other acts, those women do not let their forms (bodies) be seen, and they run away like horses roaming and grazing on grass, which, not under the charioteer's control, run off wherever they please.
+10. (Addressing Urvaśī alone) This Urvaśī, shining like lightning, descends from the atmosphere and brings the waters that all need. A son, devoted to rites, beneficial to humans and of excellent birth, is born from her. Urvaśī increases my life so that I may live long.
+
+### Printed p. 12
+
+1. Urvaśī—O Purūravas, you were born in the form of a son in order to protect the earth. That is, you have placed your virility, in the form of a son, in my womb. I told you beforehand what is to be done in the future. Yet you did not listen to my word. Since you did not follow my well-meant words, why are you speaking with me?
+**NOTE**
+12. Purūravas—O Urvaśī, when will the son born in your womb come to me, calling me father? And when will he weep, recognising me as father, to come near? Besides, which son will make the like-minded couple, that is, husband and wife, mutually loving (father and mother), that is, me and you, part? When will the child in your womb, of the nature of radiance (born as a son), delight (your) parents-in-law?
+13. Urvaśī—O Purūravas, I shall tell you the answer to the question you asked. As soon as the right time comes, your son will come to you shedding tears and calling you father. I shall send you the child placed in me. Return to your home. O fool, you cannot get me back.
+14. Purūravas—(Lamenting in sorrow) Let your husband (I, the husband), who has until now played with you, fall down right here (overcome by a swoon). Or let him go off to a distant land from which he never returns; or let him lie in the lap of Nirṛti, the goddess of evil (of death), that is, let him die; or let wolves rushing swiftly for food devour him.
+15. Urvaśī—O Purūravas, (why do you lament in this way?) Do not fall down, do not die; let the terrible wolves not devour you. With women there is no friendship (affection, love) at all; the hearts of those women are, like the hearts of jackals, wholly full of self-interest.
+16. O Purūravas, leaving my own true divine form, I lived with you, a human, in human form, roaming at night for four years and dwelling with you. In that time I took a little ghee as food only once. By that alone I was satisfied. Now I have left you and come away.
+**NOTE**
+17. Purūravas—Urvaśī, who fills and illumines the whole atmosphere with her radiance and is the maker of water, I, the best among the people living on earth, to my side
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
+**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
