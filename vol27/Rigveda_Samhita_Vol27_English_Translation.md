@@ -273,6 +273,286 @@ On the sixth day of the Pṛṣṭha (Ṣaḍaha), in the Brāhmaṇācchaṃsin
 
 The Soma juices, endowed with the utmost sweetness, gladdening and pressed, stand in the ten-fringed strainer and flow for Indra's drinking. O gladdening Soma juices, flow facing the gods.
 
+### Printed p. 7
+
+##### English translation
+The sweet-flavoured exhilarating Soma juices effused (and) filtered flow for Indra ; you exhilarating (juices), proceed to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the Śastra mantras recited on the sixth day of the sacrifice called Pṛṣṭha by the priest called Brāhmaṇācchaṃsin, three Ṛks of this sūkta (4–6), beginning with सुतासः (*sutāsaḥ*), are to be recited together. This is set out by the Āśvalāyana Śrauta Sūtra (Ā. 8-3) in the sūtra दधिक्रावोऽकारिसमित्यनुष्टुप् सुतासो मधुमत्तमा इति च तिस्त्रः (*dadhikrāvo 'kārisamityanuṣṭup sutāso madhumattamā iti ca tistraḥ*).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॒रिंद्रा॑य पवत॒ इति॑ दे॒वासो॑ अब्रुवन् ।  
+> वा॒चस्पति॑र्मखस्यते॒ विश्व॒स्येशा॑न॒ ओज॑सा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । इंद्राय । पवते । इति । देवासः । अब्रुवन् ।  
+> वाचः । पतिः । मखस्यते । विश्वस्य । ईशानः । ओजसा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः सोम इंद्रायेंद्रार्थं पवते कलशे क्षरतीति देवासः स्तुतिकारिणः
+> स्तोतारोऽब्रुवन् । वदंति । यदा स्तोतार एनं वदंति तदानीं वाचः स्तुतेः
+> पतिः पालयिता ! यद्वा । शब्दस्य स्वाम्यत्यंतं शब्दायमान इत्यर्थः । तादृशः
+> सोमो मखस्यते । स्तुतिभिः पूजामिच्छति ॥ लालसायां सुगागमः ॥ कीदृशः ।
+> ओजसा बलेन विश्वस्य सर्वस्येशानः प्रभुः ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is Soma, flows for Indra, that is, streams into the vessel for Indra's sake. The देवासः (*devāsaḥ*), the praisers, the singers, "say" this. When the singers speak of him thus, he is the lord, the protector, of वाचः (*vācaḥ*), praise. Or else: he is the master of sound, that is, he makes much sound. Such a Soma मखस्यते (*makhasyate*): he desires worship through praises. Of what sort is he? Through his might (ओजसा (*ojasā*)) he is the ruler, the lord, of all (विश्वस्य (*viśvasya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—Soma, the god
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- पवते (*pavate*)—flows
+- इति (*iti*)—thus
+- देवासः (*devāsaḥ*)—the praisers
+- अब्रुवन् (*abruvan*)—extol
+- ओजसा (*ojasā*)—by his own power
+- विश्वस्य (*viśvasya*)—of the whole world
+- ईशानः (*īśānaḥ*)—the lord
+- वाचः (*vācaḥ*)—of praise
+- पतिः (*patiḥ*)—the protector; Soma the god
+- मखस्यते (*makhasyate*)—desires our worship
+
+### Printed p. 8
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers extol: "Soma the god flows for Indra's drinking." Soma, who by his own power is the lord of the whole world and the protector of all praises, desires our worship.
+
+##### English translation
+The devout (worshippers) say "Indu flows forth for Indra ": the lord of speech (Soma) sovereign of all by his might desires (our) worship.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑धारः पवते समु॒द्रो वा॑चमींख॒यः ।  
+> सोमः॒ पती॑ रयी॒णां सखेंद्र॑स्य दि॒वेदि॑वे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रधारः । पवते । समुद्रः । वाचंईंखयः ।  
+> सोमः । पतिः । रयीणां । सखा । इंद्रस्य । दिवेदिवे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रधारो बहुविधधारोपेतः सोमः पवते । क्षरति । कीदृशः । समुद्रः ।
+> यस्मात्समुद्ध्रवंति रसाः । सरःस्थानीयः नांचमींखयः ॥ ईंखतेर्ण्यंतस्य
+> सुप्युपपदे खच् प्रत्ययः ॥ स्तुतीनां प्रेरयिता रयाणां धनानां पतिः प्रभुः ।
+> यद्वा । रयाणां हविषो दात्कृणां यजमानानां पतिः पालयिता । दिवेदिवे
+> प्रत्यहमिंद्रस्य सखा मित्रभूतः सोमः पवते ॥
+
+##### Gist of the bhāṣya
+
+Soma, with many kinds of streams (सहस्रधारः (*sahasradhāraḥ*)), flows, that is, streams. He is समुद्रः (*samudraḥ*), because the juices flow from him; he stands in the place of a lake. वाचमींखयः (*vācamīṃkhayaḥ*) is one who sets praises in motion. He is the lord of riches (रयीणां (*rayīṇāṃ*)). Or else: of रयीणां (*rayīṇāṃ*), the givers of oblations, the sacrificers, he is the lord, the protector. Day by day, as Indra's friend, Soma flows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रधारः (*sahasradhāraḥ*)—he who has streams of many forms
+- समुद्रः (*samudraḥ*)—the abode of the juices
+- वाचमींखयः (*vācamīṃkhayaḥ*)—the impeller of praises
+- रयीणां (*rayīṇāṃ*)—of riches
+- पतिः (*patiḥ*)—the lord
+- इंद्रस्य (*iṃdrasya*)—to Indra
+- सखा (*sakhā*)—the friend
+- सोमः (*somaḥ*)—Soma the god
+- दिवेदिने (*divedine*)—every day
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma the god, who has streams of many forms, is the abode of the juices, the impeller of praises, the lord of riches and Indra's friend, and he flows every day.
+
+### Printed p. 9
+
+##### English translation
+The thousand-streamed ocean, Soma the simulator of praise, the lord of riches, the friend of Indra flows day by day.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒यं पू॒षा र॒यिर्भगः॒ सोमः॑ पुना॒नो अ॑र्षति ।  
+> पति॒र्विश्व॑स्य॒ भूम॑नो॒ व्य॑ख्य॒द्रोद॑सी उ॒भे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । पूषा । रयिः । भगः । सोमः । पुनानः । अर्षति ।  
+> पतिः । विश्वस्य भूमनः । वि । अख्यत् । रोदसी इति । उभे इति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूषा पोषकः सर्वेषां भगो भजनीयो रयिर्धनहेतुरयं सोमः
+> पुनानः पवित्रेण पूयमानः सन्नर्षति । कलशमभिगच्छति । तथा विश्वस्य सर्वस्य
+> भूमनो भूतजातस्य पतिः पालयिता सोम उभे रोदसी द्यावापृथिव्या
+> व्यख्यत् । स्वतेजसा प्रकाशयति । अनेन लोकद्वयवर्तित्वं सूचितं ॥
+
+##### Gist of the bhāṣya
+
+This Soma is पूषा (*pūṣā*), the nourisher of all; भगः (*bhagaḥ*), to be worshipped; रयिः (*rayiḥ*), the cause of wealth. Being purified by the filter, he अर्षति (*arṣati*), goes to the vessel. Likewise Soma, the lord, the protector, of all beings (भूमनः (*bhūmanaḥ*)), has made both रोदसी (*rodasī*), heaven and earth, shine by his own splendour. By this his presence in both worlds is indicated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूषा (*pūṣā*)—the nourisher of all
+- भगः (*bhagaḥ*)—the worshipful
+- रयिः (*rayiḥ*)—the giver of wealth
+- अयंसोमः (*ayaṃsomaḥ*)—this Soma the god
+- पुनानः (*punānaḥ*)—purified in the ten-fold filter
+- अर्षति (*arṣati*)—flows toward the vessel
+- विश्वस्य (*viśvasya*)—of all
+- भूमनः (*bhūmanaḥ*)—beings
+- पतिः (*patiḥ*)—the protector, Soma
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- व्यख्यत् (*vyakhyat*)—has caused to shine
+
+##### भावार्थ (Bhāvārtha)
+
+Soma the god, nourisher of all, worshipful, giver of wealth, is purified in the ten-fold filter and flows toward the vessel. Soma, the protector of all beings, has made heaven and earth both shine.
+
+### Printed p. 10
+
+##### English translation
+This Soma being purified hastens (to the pitcher) fostering, wealth-giving, to be enjoyed (by all) ; the lord of all beings, he has illuminated both heaven and earth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑ प्रि॒या अ॑नूषत॒ गावो॒ मदा॑य॒ घृष्ट॑यः ।  
+> सोमा॑सः कृण्वते प॒थः पव॑मानास॒ इंद॑वः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ऊं इति । प्रियाः । अनूषत । गावः । मदाय । फृष्टयः ।  
+> सोमासः । कृण्वते । पथः । पवमानासः । इंदवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रियाः प्रियतमा घृष्टयोऽत्यंतं दीप्ताः । यद्वा अहं प्रथमतः सौमि
+> अहं पुरस्तात्माति परस्परं स्पर्धमानाः । गावः स्तुतिलक्षणा वाचः सोमस्य
+> मधार्थं समनूषत । संस्तुवंति । उः प्रसिद्धौ । यद्वा । गावो धेनवः सोमस्य
+> मदाय शब्दायते । ततः पवमानासः पूयमाना इंदवो दीप्ताः सोमासः
+> सोमाः पथो मार्गान्मण्वते । क्षरणार्थं कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+प्रियाः (*priyāḥ*) means most dear; घृष्टयः (*ghṛṣṭayaḥ*) means very bright. Or else: they vie with one another, saying "I shall press first", "I shall go before". The गावः (*gāvaḥ*), the speeches in the form of praise, समनूषत (*samanūṣata*), praise together, for Soma's exhilaration; उ (*u*) is in the sense of what is well known. Or else: the गावः (*gāvaḥ*), the cows, make sound for Soma's exhilaration. Thereupon the पवमानासः (*pavamānāsaḥ*), the being-purified, the bright इंदवः (*iṃdavaḥ*), the Somas, make paths for their flowing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियाः (*priyāḥ*)—affectionate
+- पृष्टयः (*pṛṣṭayaḥ*)—brilliant
+- गावः (*gāvaḥ*)—praises
+- समनूषत (*samanūṣata*)—extol Soma
+- पवमानासः (*pavamānāsaḥ*)—those that are purified
+- इंदवः (*iṃdavaḥ*)—those that flow
+- सोमासः (*somāsaḥ*)—the Soma juices
+- पथः (*pathaḥ*)—paths for their flow
+- कृण्वते (*kṛṇvate*)—make for themselves
+
+##### भावार्थ (Bhāvārtha)
+
+Affectionate and brilliant words of praise extol Soma; the Soma juices, being purified and flowing, make for themselves paths suited to their flow.
+
+### Printed p. 11
+
+##### English translation
+The affectionate emulous cows celebrate (Soma) for his exhilaration; the brilliant filtered (Soma) juices make paths (for themselves to flow).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य ओजि॑ष्ठ॒स्तमा भ॑र॒ पव॑मान श्र॒वाय्यं॑ ।  
+> यः पंच॑ चर्ष॒णीर॒भि र॒यिं येन॒ वना॑महै ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ओजिष्ठः । तं । आ । भर । पवमान । श्रवाय्यं ।  
+> यः : पंच । चर्षणीः । अभि । रयिं । येन । वनामहै ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान सोम ओजिष्ठ ओजस्वितमो यस्त्वदीयो रसोऽस्ति
+> तं श्रवाय्यं श्रवणीयं रसमा भर । अस्मभ्यमाहर । किं च यो रसः पंच चर्षणीः
+> पंच जनान्निषादपंचमांश्चतुरो वर्णानभि तिष्ठति। अपि च येन रसेन वयं रयिं
+> धनं च वनामहै संभजामकै । यद्वा ! येन त्वां रयिं याचामहै तमा भर ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, ओजिष्ठ (*ojiṣṭha*), most mighty is that juice of yours; bring (आ भर (*ā bhara*)) that श्रवाय्यं (*śravāyyaṃ*), famed, juice to us. Further, the juice that rules over the पंच चर्षणीः (*paṃca carṣaṇīḥ*), the five peoples, that is, the four castes with the Niṣādas as fifth, and by which juice we may obtain wealth (रयिं (*rayiṃ*)) — bring that. Or else: bring that by which we ask wealth of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifying Soma the god
+- यः (*yaḥ*)—which juice of yours
+- ओजिष्ठः (*ojiṣṭhaḥ*)—is most vigorous
+- यः (*yaḥ*)—which juice
+- पंच चर्षणीः (*paṃca carṣaṇīḥ*)—the five peoples beginning with the Niṣādas
+- अभि (*abhi*)—upholds
+- येन (*yena*)—by the power of which juice
+- रयिं (*rayiṃ*)—wealth
+- वनामहै (*vanāmahai*)—we may obtain
+- तं (*taṃ*)—such
+- श्रवाय्यं (*śravāyyaṃ*)—famed juice
+- आ भर (*ā bhara*)—supply to us
+
+##### भावार्थ (Bhāvārtha)
+
+O purifying Soma, whichever juice of yours is most vigorous, which upholds the five peoples beginning with the Niṣādas, and by whose power we may obtain wealth — such a famed juice, supply to us.
+
+### Printed p. 12
+
+##### English translation
+Bring to us, filtered (Soma), that celebrated (liquor) which is most potent, which (waits) upon the five orders of beings and by which we may obtain riches.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमाः॑ पवंत॒ इंद॑वो॒ऽस्मभ्यं॑ गातु॒वित्त॑माः ।  
+> मि॒त्राः सु॑वा॒ना अ॑रे॒पसः॑ स्वा॒ध्यः॑ स्व॒र्विदः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमाः । पवंते । इंदवः । अस्मभ्यं । गातुवित्त्वा तमाः ।  
+> मित्राः । सुवानाः । अरेपसः । सुआध्यः । स्वैविदः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गातुवित्तमा अतिशयेन मार्गस्य लंभका इंदवो दीप्ताः सोमाः पवंतेऽस्मभ्यमस्मदर्थं क्षरंत्यागच्छंति ना । कीदृशाः । मित्रा देवानां सखिभूताः सुवाना
+> अभिषूयमाणा अरेपसः पापरहिताः अत एव स्वाध्यः शोभनध्यानाः स्वर्विद;
+> सर्वज्ञाः सर्वप्रापका वा ॥
+
+##### Gist of the bhāṣya
+
+The गातुवित्तमाः (*gātuvittamāḥ*), those who most of all find the way, the bright इंदवः (*iṃdavaḥ*), the Somas, flow for us, stream toward us. Of what sort? मित्राः (*mitrāḥ*), friends of the gods; सुवानाः (*suvānāḥ*), being pressed; अरेपसः (*arepasaḥ*), free from sin; therefore स्वाध्यः (*svādhyaḥ*), of good thought; स्वर्विदः (*svarvidaḥ*), all-knowing or all-obtaining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गातुवित्तमाः (*gātuvittamāḥ*)—those who know the best paths
+- इंदवः (*iṃdavaḥ*)—the shining
+- मित्राः (*mitrāḥ*)—friends of the gods
+- सुवानाः (*suvānāḥ*)—those to be pressed
+- अरेपसः (*arepasaḥ*)—sinless
+- स्वाध्यः (*svādhyaḥ*)—of excellent thought
+- स्वर्विदः (*svarvidaḥ*)—those that bring heaven
+- सोमाः (*somāḥ*)—the Soma juices
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- पवंते (*pavaṃte*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, which know the best paths, are shining, friends of the gods, to be pressed, sinless, of excellent thought and bringers of heaven, flow for us.
+
 ---
 
-**Progress note:** Done through printed p. 6. pp. 1-6 (batch API)
+**Progress note:** Done through printed p. 12. pp. 7-12 (batch API)
