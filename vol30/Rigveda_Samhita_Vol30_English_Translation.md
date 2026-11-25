@@ -18591,6 +18591,170 @@ Therefore "let the giver be a kinsman to the miser who does not give": the seer 
 > एकपात् । भूयः। द्विपदः । वि । चक्रमे । द्विपात् । त्रिपादं । अभि । एति । पश्चात् ।  
 > चतुःपात् । एति । द्विपदां । अभिस्वरे । संपश्यन् । पंक्तिः । उपतिष्ठमानः ॥ ८ ॥
 
+### Printed p. 566
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र पादशब्दो भागवचनः । एकपादेकभागधनः पुरुषो द्विपदो द्विगुणधनस्य मार्गं भूयः ॥ तृतीयायाः सुः ॥ भूयसा कालेन वि चक्रमे । विविधं
+> गच्छति ॥ वेः पादविहरणे । पा. १-३-४१ । इत्यात्मनेपदं ॥ तथा द्विपात्पुरुषस्त्रिपादं
+> त्रिभागधनं पुरुषं पश्चादभ्येति । अभिगच्छति । चतुष्पाच्चतुर्भागधनस्तु द्विपदां ।
+> बहुवचनादेकपादादय उपलक्ष्यंते । एकपादधनादीनां पंक्तीरभिस्वरेऽभिगमने
+> संपश्यन् सम्यगीक्षमाणः सन्नुपतिष्ठमान एति । गच्छमानो भवति । अन्नोन्यापेक्षया
+> सर्व उत्तमाधमाः । तस्मात्त्वमहमेव धनवानिति न मन्ये किंत्वतिथिभ्यो धनानि
+> ददस्वेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Here the word पाद (*pāda*) means "part". A man who has one part of wealth takes a longer time to cover the path of the man who has a two-fold wealth, and moves along it in various ways. In the same way the man of two parts comes up after the man who has three parts of wealth, and the man of four parts of wealth goes towards those who have fewer. By the plural in द्विपदां (*dvipadāṃ*) those with one foot and so on are also indicated. At the approach he goes on, looking properly at the ranks of those who have one part of wealth and so on, and proceeding to them. All are higher or lower in relation to one another. Therefore one should not think "I alone am wealthy", but should give wealth to guests. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एकपात् (*ekapāt*)—one who has only one foot
+- द्विपदः (*dvipadaḥ*)—than a man who has two feet (in covering a road, that is, when walking)
+- भूयः (*bhūyaḥ*)—a longer time
+- वि चक्रमे (*vi cakrame*)—he walks (and likewise)
+- द्विपात् (*dvipāt*)—one who has two feet
+- त्रिपादं (*tripādaṃ*)—one who has three feet
+- पश्चात् (*paścāt*)—afterwards, that is, still more slowly
+- अभि एति (*abhi eti*)—approaches
+- चतुष्पात् (*catuṣpāt*)—one who has four feet
+- अभिस्वरे (*abhisvare*)—at the time of travelling
+- द्विपदां (*dvipadāṃ*)—also those who have one and two feet
+- संपश्यन् (*saṃpaśyan*)—looking, that is, drawing near
+- उपतिष्ठमानः (*upatiṣṭhamānaḥ*)—overtaking them
+- एति (*eti*)—goes ahead
+
+##### भावार्थ (Bhāvārtha)
+
+In covering a road, that is, in walking, one who has only one foot cannot keep pace with one who has two feet, and needs more time to reach a given place. In the same way one who has two feet needs more time than one who has three. But one who has four feet leaves behind those who have one, two or three feet, and goes ahead of everyone in travelling.
+
+##### English translation
+He who has but one foot takes a longer time on a journey than he who has two ; he who has two feet comes after him who has three; he who has four feet comes up overtaking two-footed (and three-fooied), beholding their traces as he passes by.
+
+### Printed p. 567
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next, as in the previous Ṛk, the seer describes through illustrations the difference between the giver and the miser. Here Sāyaṇa explains the word पाद (*pāda*) as "part". Accordingly, one who has two shares of wealth is superior to one who has one share; or one who gives two parts in gift is superior to a man who gives one part. In the same way one who gives three parts is superior to one who gives two parts. One who gives four shares goes ahead of all these, that is, he is superior to all. That is the meaning.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मौ चि॒द्धस्तौ॒ न स॒मं वि॑विष्टः संमा॒तरा॑ चि॒न्नस॒मं दु॑हाते ।  
+> य॒मयो॑श्चि॒न्न स॒मा वी॒र्या॑णि ज्ञा॒ती चि॒त्संतौ॒ न स॒मं  ॑
+> पृणीतः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समौ । चित् । हस्तौ । न । समं । विविष्टः । संमातरा । चित् । न । समं । दुहाते इति ।  
+> यमयोः । चित् । न । समा । वीर्याणि । ज्ञाती इति । चित् । संतौ । न । समं ।  
+> पृणीतः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतिथिभ्यो धनमप्रयच्छन्नपि मम भ्राता दास्यतीति चेत् तत्र हेतुमाह ।
+> समौ चिद्दस्तौ समावपि समं समानं न विविष्टः । कार्यं न व्याप्नुतः ॥ विष्णु
+> व्याप्तौ जौहोत्यादिकः । संज्ञापूर्वकस्य विधेरनित्यत्वादभ्यासस्य गुणाभावः ॥ तथा
+> संमातरा वत्सस्य मातर्ौ धेनू समे अपि समं समानं पयो न दुहाते । यम.
+> योश्चित् सहजातयोः पुत्रयोरपि समा समानि वीर्याणि न संति । तस्माज्जाती
+> चिदेकस्मिन्कुले संतौ जातावपि समं न पृणीतः । न प्रयच्छतः । तस्माद्यस्य धनमस्ति
+> स एव दद्यादित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Suppose one says: "Even if I give no wealth to guests, my brother will give." Sāyaṇa gives the reason against this. The two hands, though equal, do not accomplish equal work. Two cows that are mothers of calves, though alike, do not yield equal milk. Of twins, born together, the powers are not equal. Therefore two kinsmen born in one family do not give equally. So only the man who has wealth should give. That is the meaning.
+
+### Printed p. 568
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हस्तौ (*hastau*)—the two hands
+- समौ चित् (*samau cit*)—though alike (in shape and form)
+- समं (*samaṃ*)—equal work
+- न विविष्टः (*na viviṣṭaḥ*)—do not perform
+- सं मातरा चित् (*saṃ mātarā cit*)—though two cows, mothers of calves, are of one kind
+- समं (*samaṃ*)—equally
+- न दुहाते (*na duhāte*)—do not yield milk
+- यमयोश्चित् (*yamayościt*)—even in twin children born of one mother at one time
+- समा (*samā*)—equal
+- वीर्याणि (न) (*vīryāṇi (na)*)—there are no equal strength and capacity (likewise)
+- ज्ञाती चित् संतौ (*jñātī cit saṃtau*)—kinsmen or brothers born in one family, that is, in one house, or of the same father and mother
+- समं (*samaṃ*)—equally
+- न पृणीतः (*na pṛṇītaḥ*)—do not give
+
+##### भावार्थ (Bhāvārtha)
+
+Though the two hands are alike, their works are not alike; cows that have calved, though alike, do not both yield milk equally; twin children do not have the same kind of strength and capacity; kinsmen or those born in one family are not equal in giving.
+
+##### English translation
+The two hands are alike, but they do not perform the same work; two cows calving at the same time do not yield the same milk; two twins have not the same strength; two persons of the same family do not display equal liberality.
+
+##### विशेषविषयगळु (Special Topics)
+
+A man has two hands. To look at, they are alike in shape and form. But in work they do not have equal strength. The strength that the right hand has, the left hand does not have.
+
+Two cows of like shape and like age do not give milk equally. One cow gives much milk, the other gives only a little. Though no difference is seen to the eye, cows give milk according to their nature.
+
+Twin children born of one mother are alike to look at, with no difference in shape or form. But a difference is seen in their strength, capacity and intelligence.
+
+### Printed p. 569
+
+In the same way, among sons born to the same father and mother in one house, and among other relatives, the same kind of quality is not found. So too among brothers. One is a generous giver, another is a miser and covetous.
+
+In the work called Ṛgvidhāna, said to have been composed by the great sage Śaunaka, the use (viniyoga) of this sūkta is stated thus:
+
+न वा उ देवा इत्येतज्जपेत नियतव्रतः । अन्नं विंदति सर्वत्र यत्र यत्रोपतिष्ठति ॥ पाप्मोपहतमात्मानं यो मन्येत विचक्षणः । स जपेन्नियतो भूत्वा लघु मन्येत पाप्मना । वाचं प्रपद्येद्याक्कामो जुह्वदाशु जपन्निमाः । (*na vā u devā ityetajjapeta niyatavrataḥ | annaṃ viṃdati sarvatra yatra yatropatiṣṭhati ‖ pāpmopahatamātmānaṃ yo manyeta vicakṣaṇaḥ | sa japenniyato bhūtvā laghu manyeta pāpmanā | vācaṃ prapadyedyākkāmo juhvadāśu japannimāḥ |*) (Ṛgvidhāna, Adhyāya 4, Śloka 16-18)
+
+If a man tormented by hunger, having become pure, mutters this sūkta beginning न वा उ देवाः (*na vā u devāḥ*), he obtains food and other nourishment in all places. A man who doubts that he has committed some sin, if he mutters this sūkta with restraint, becomes free from sin. A man who desires wealth of speech, if he recites the mantras of this sūkta and offers oblations in the fire, quickly obtains success.
+
+## Sūkta 118 (Maṇḍala 10)
+
+**Introduction**
+The deity of this sūkta is Rakṣohā Agni. Though the matter of Rakṣohā Agni occurs here and there in many Ṛks, the sūktas that praise this deity chiefly are three: कृणुष्पपाजः (*kṛṇuṣpapājaḥ*) (Ṛ. Saṃ. 4-4), रक्षोहणं वाजिनं (*rakṣohaṇaṃ vājinaṃ*) (Ṛ. Saṃ. 10-87) and अग्ने हंसि न्यगत्रिणं (*agne haṃsi nyagatriṇaṃ*) (Ṛ. Saṃ. 10-118). For these three sūktas Rakṣohā Agni is the deity. It is the custom to recite the sūktas that praise Rakṣohā Agni, so that the molestation of the hosts of Rākṣasas may not occur in sacrifices and the like. The Aitareya Brāhmaṇa, in the context of the churning of fire, says that if at the time of churning fire is not produced from the araṇis, one should consider the molestation of the Rākṣasa hosts to be the cause, and should recite the Rākṣasa-destroying sūkta अग्ने हंसि (*agne haṃsi*), which is in the Gāyatrī metre. We have said this in describing the rite of fire-churning.
+
+In Ṛ. Saṃ. 7-124, Indra, Soma and others are called destroyers of Rākṣasas, and that sūkta too is called a Rākṣasa-destroying sūkta. The epithet रक्षोहाः (*rakṣohāḥ*) sometimes applies also to Soma, as in रक्षोहा विश्वचर्षणिः (*rakṣohā viśvacarṣaṇiḥ*) (9-1-2) and the like. In the present sūkta
+
+### Printed p. 570
+
+there are matters concerning Jātavedas in the form of Agni, Rakṣohā Agni, the Rākṣasa hosts, bhūtas, piśācas and yātudhānas; hence a fuller account of them is necessary.
+
+Jātavedas: The Nirukta-writers have explained this word thus: जातानि वेद, जातानि नैनं विदुः जाते जाते विद्यत इति वा, जातविद्यो जातधनः जातविद्यो जातप्रज्ञानः यत्तज्जातः पशूनविंदतेति तज्जातवेदसो जातवेदस्त्वं (*jātāni veda, jātāni nainaṃ viduḥ jāte jāte vidyata iti vā, jātavidyo jātadhanaḥ jātavidyo jātaprajñānaḥ yattajjātaḥ paśūnaviṃdateti tajjātavedaso jātavedastvaṃ*) इति ब्राह्मणं (*iti brāhmaṇaṃ*).
+The nature of Jātavedas is stated in the Bṛhaddevatā thus:
+
+इहाग्निभूतस्तृषिभिर्लोके स्तुतिभिरीळितः। जातवेदाः स्तुतो मध्यॆ स्तुतो वैश्वानरो दिवि ॥ (*ihāgnibhūtastṛṣibhirloke stutibhirīḷitaḥ| jātavedāḥ stuto madhyè stuto vaiśvānaro divi ‖*) (Bṛ. De. 1-67)
+
+This verse says that the seers call the Agni that is on the earth Jātavedas, and the Agni that is in the heavenly world Vaiśvānara. Continuing the same explanation:
+
+वैश्वानरं श्रितोह्यग्निरग्निं वैश्वानरः श्रितः । अनयोर्जातवेदास्तु तथैते जातवेदसि ॥ (*vaiśvānaraṃ śritohyagniragniṃ vaiśvānaraḥ śritaḥ | anayorjātavedāstu tathaite jātavedasi ‖*) (Bṛ. De. 1-97)
+
+It is explained that Agni is contained in Vaiśvānara and Vaiśvānara in Agni, and Jātavedas is contained in both these forms; and that these two forms are different parts of Jātavedas. Having thus stated the places of Jātavedas in the first chapter, the Bṛhaddevatā in the second chapter gives the derivation of the nature of Jātavedas thus:
+
+भूतानि वेद यज्ञातो जातवेदाथ कथ्यते । यच्चैष जातविद्योs भूत् वित्तं जातोऽधिवेत्ति वा ॥ (*bhūtāni veda yajñāto jātavedātha kathyate | yaccaiṣa jātavidyos bhūt vittaṃ jāto 'dhivetti vā ‖*) (Bṛ. De. 2-30)
+विद्यते सर्वभूतैर्हि यद्वा जातः पुनःपुनः । तेन्नैष मध्यभागेंद्रो जातवेदा इति स्तुतः ॥ (*vidyate sarvabhūtairhi yadvā jātaḥ punaḥpunaḥ | tennaiṣa madhyabhāgeṃdro jātavedā iti stutaḥ ‖*) (Bṛ. De. 2-31)
+
+The Bṛhaddevatā derives it thus: Agni is praised as Jātavedas, like Indra who dwells in the middle world, because he knows everything at the moment he is born; or because knowledge arose in him; or because at the moment of birth he knows and possesses all wealth; or because, each time he is born again, he is known by all beings. In accordance with this, the Śatapatha Brāhmaṇa too explains the nature of this Agni thus:
+
+### Printed p. 571
+
+यः संवत्सरं जातः स्यात्पाणो वा अग्निस्तमेतद्विभर्त्यथ ह वै रेतः सिक्तं प्राणोऽन्ववरोहति तद्विंदते तद्यज्जातं जातं विंदते तस्माज्जातवेदाः ॥ (*yaḥ saṃvatsaraṃ jātaḥ syātpāṇo vā agnistametadvibhartyatha ha vai retaḥ siktaṃ prāṇo 'nvavarohati tadviṃdate tadyajjātaṃ jātaṃ viṃdate tasmājjātavedāḥ ‖*) (Śa. Brā. 9-5-16-8)
+
+It says that Agni, in the form of the vital breath, pervades by his power all the beings that are born, and therefore is called Jātavedas. The Upaniṣads describe this Jātavedas, who is to be worshipped in the sacrificial house, as Brahman, the Self of the universe:
+
+विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं (*viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ*) (Pra. U. 1-8) **NOTE**
+
+The Praśna Upaniṣad says that the sun rises, he who has the form of the universe, has a thousand rays, is all-knowing, is the refuge of the whole world, is known by the wise, and is the inner self of all beings. And:
+
+अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः । दिवे दिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः । (*araṇyornihito jātavedā garbha iva subhṛto garbhiṇībhiḥ | dive diva īḍyo jāgṛvadbhirhaviṣmadbhirmanuṣyebhiragniḥ |*) (Ka. U. 1-4-8) **NOTE**
+
+The Kaṭha Upaniṣad describes that Jātavedas who, abiding between the araṇis at the adhiyajña, enjoys all oblations; whom yogis, as pregnant women with affection nourish and rear their unborn child, hold in their hearts and meditate upon as the Supreme Person; and towards whom, as the worshipful Agni, sacrificers offer oblations, as Parabrahman, the Self of the universe. In the same sequence, the Kaṭha text states the very matter described in Ṛ. Saṃ. 3-29-2. Thus all the śrutis praise him as being called Jātavedas because he is all-knowing, all-pervading, the support of all and the most excellent of all.
+
+The deity of this sūkta is Agni Rakṣohā; that is, Agni who destroys the hosts of Rākṣasas, who obstruct sacrifices, such as bhūtas and piśācas. Yāska, explaining the word रक्षः (*rakṣaḥ*), has given the derivation:
+
+रक्षो रक्षितव्यमस्मात् । रहसि क्षणोतीति वा । रात्रौ नक्षत इति ना ॥ (*rakṣo rakṣitavyamasmāt | rahasi kṣaṇotīti vā | rātrau nakṣata iti nā ‖*) (Ni. 4-18)
+
+That is: the host of beings called Rakṣas devours men; our body must be protected from it, and because it must be protected it is called रक्षः (*rakṣaḥ*). Or, because it harms men in a lonely place where no one is, or in the dark, it is called रक्षः (*rakṣaḥ*). Or, because it moves about at night, it is called रक्षः (*rakṣaḥ*). Thus three kinds
+
 ---
 
-**Progress note:** Done through printed p. 565. pp. 560-565 (batch API)
+**Progress note:** Done through printed p. 571. pp. 566-571 (batch API)
