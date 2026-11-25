@@ -25121,6 +25121,202 @@ On many occasions priests of the Brāhmaṇa varṇa went with their kings in ti
 
 Purity of the Āryas—In the age of the Vedas, as a rule the Brāhmaṇas (the seers and others) and the kings formed marriage relations only within the Ārya people, and so there was no likelihood of the lineage of these two varṇas becoming mixed with people of other races. In the course of time the kings began to form relations with the kings of other countries (even though they were not of the Ārya race). Therefore the purity of the Āryas gradually decreased among them. But the seers and the Brāhmaṇas, their descendants, have wholly given up marriage and other relations with races other than the Āryas, and have preserved up to now the purity of their own, that is, the Ārya race. In the Vaiśya and Śūdra varṇas, many divisions and sub-divisions (sub-sects) arose according to their respective occupations and became the cause of various groups. Even so, the greater part of the Vaiśyas have preserved the purity of the Ārya race. Many of the groups now called Śūdras
 
+### Printed p. 928
+
+are indeed of the Ārya race, yet because from very early times they gave up interest in sacrifices and the like, being engaged chiefly in occupations such as agriculture, the notion that they are unfit for sacrifices and the like took root, and in course of time it became the custom that they were unfit, and that they should be engaged in serving the other three varṇas and in their own occupations such as agriculture. Since among the people of this group there was also a sufficient admixture of others who were not of the Ārya race, this too became one cause of the notion that they were unfit for sacrifices and the like.
+
+The Niṣādas, the Caṇḍālas, the untouchables, and so on—When the Āryas were gradually occupying this country, war was always going on between the Āryas and the earlier inhabitants of this land. The Āryas called these earlier inhabitants Dāsa, Dasyu, and Kṛṣṇa (black) varṇa. They did not worship the gods of the Ārya race, Indra and the others, by performing sacrifices and the like. They had no reverence for those gods. They believed in spirits, ghosts and the like. Moreover, they used to cause obstacles and trouble to the sacrifices and the like performed by the Āryas. Among them Śambara, Śuṣṇa, Pipru and others were the chiefs. They were also called Asuras. Although in course of time the Āryas conquered these earlier inhabitants completely, many of them did not keep up dealings and contact with the Ārya people. They did not respect the gods of the Āryas. Only some of them joined the lower classes of the Āryas and became one with them. The rest remained separate and lived by their former occupation. They had not much interest in agriculture, and did not follow it. Because these people had no habit of hard work, and because they did not depend on any occupation, the Āryas came to look on them with contempt. Hunting animals was their chief livelihood. Thus the earlier inhabitants who remained separate became a separate community by themselves. They had no strength to face the Āryas in battle. The Āryas did not wish to take them into their own company for social dealings. Since these people were spread everywhere, in every village they had to live separately outside the town. It is still so even now.
+
+When the Āryas came to this country they were fair, like the Europeans of the present day. The earlier inhabitants of this country were dark. Varṇa means colour. By degrees the notion that varṇa means caste came into use. Therefore many among the Westerners hold the opinion that the difference in the colour (hue) of the people was the original cause of the first division of varṇas and of caste.
+
+### Printed p. 929
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चं॒द्रमा॒ मन॑सो जा॒तश्चक्षोः॒ सूर्यो॑ अजायत ।  
+> मुखा॒दिंद्र॑श्चा॒ग्निश्च॑ प्रा॒णाद्वा॒युर॑जायत ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चंद्रमाः । मनसः । जातः । चक्षोः । सूर्यः । अजायत ।  
+> मुखात् । इंद्रः । च । अग्निः । च । प्राणात् । वायुः । आजायत ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा दध्याज्यादिद्रव्याणि गवादयः पशव ऋगादिवेदा ब्राह्मणादयो
+> मनुष्याश्च तस्मादुत्पन्ना एवं चंद्रादयो देवा आपि तस्मादेवोत्पन्ना इत्याह ।
+> प्रजापतेर्मनसः सकाशाच्चंद्रमा जातः । चक्षोश्च चक्षुषः सूर्योऽप्यजायत ।
+> अस्य मुखादिंद्रश्चाग्निश्च देवावुत्पन्नौ । अस्य प्राणाद्वायुरजायत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that just as the curds, ghee and other substances, the cattle such as cows, the Vedas beginning with the Ṛk, and men such as the Brāhmaṇas were born from that Puruṣa, so the gods such as the moon were also born from him alone. From the mind of Prajāpati the moon was born, and from his eye the sun was born. From his mouth the two gods Indra and Agni arose. From his breath Vāyu was born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसः (*manasaḥ*)—from the mind
+- चंद्रमाः (*caṃdramāḥ*)—the moon
+- जातः (*jātaḥ*)—was born
+- चक्षोः (*cakṣoḥ*)—from the eye
+- सूर्यः (*sūryaḥ*)—the sun
+- अजायत (*ajāyata*)—was born
+- मुखात् (*mukhāt*)—from the mouth
+- इंद्रश्च अग्निश्च (*iṃdraśca agniśca*)—Indra and Agni were born
+- प्राणात् (*prāṇāt*)—from the breath
+- वायुः (*vāyuḥ*)—Vāyu
+- अजायत (*ajāyata*)—was born
+
+##### भावार्थ (Bhāvārtha)
+
+From the mind of this Virāṭ Puruṣa the moon was born, from his eye the sun, from his mouth Indra and Agni, and from his breath Vāyu.
+
+##### English translation
+The moon was born from his mind ; the sun was born from his eye ; Indra and Agni were born from his mouth, Vayu from his breath.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the preceding Ṛks it has been said that substances such as curds and ghee, animals beginning with cows, the Vedas beginning with the Ṛg-veda, and men of the classes beginning with the Brāhmaṇas came into being. In the same way, it is said in this Ṛk and in the next Ṛk that the gods beginning with the moon also came into being.
+
+### Printed p. 930
+
+चंद्रमा मनसो जातः (*caṃdramā manaso jātaḥ*)—Two kinds of derivation can be given for the word चंद्र (*caṃdra*). चदि (*cadi*) means to gladden: चंदतीति चंद्रः (*caṃdatīti caṃdraḥ*). The word चंद्र (*caṃdra*) is formed from the root चदि (*cadi*), which means to give delight to the mind. The meaning is that he gives delight to the people who look at him. Since delight always has its effect upon the mind, it is said that the moon was born from the mind of the Supreme Puruṣa. Or चंद्रा आह्लादरूपा मा लक्ष्मीः शोभा यस्य स तथाविधः । (*caṃdrā āhlādarūpā mā lakṣmīḥ śobhā yasya sa tathāvidhaḥ |*): चंद्रा (*caṃdrā*) means delightful; मा (*mā*) means luminous; that is, one who shines delightfully. Or चंद्रेण जगदाह्लादनाप्यायलक्षणेन मीयत इति वा चंद्रमाः । (*caṃdreṇa jagadāhlādanāpyāyalakṣaṇena mīyata iti vā caṃdramāḥ |*): since he is by nature one who gives delight to the world, he is named Candra. Concerning the derivation of this word Yāska says—
+
+चंद्रमाश्चायन् द्रमति, चंद्रो माता, चांद्रं मानमस्येति वा । चंद्रश्चंदतेः कांतिकर्मणः । चंदनमित्यप्यस्य भवति । चारु द्रमति । चिरं द्रमति । चमेर्वा पूर्वं । चारु रुचेर्वा विपरीतस्य ॥ (*caṃdramāścāyan dramati, caṃdro mātā, cāṃdraṃ mānamasyeti vā | caṃdraścaṃdateḥ kāṃtikarmaṇaḥ | caṃdanamityapyasya bhavati | cāru dramati | ciraṃ dramati | camervā pūrvaṃ | cāru rucervā viparītasya ‖*) (Si. 11-5) **NOTE**
+
+He is called Candra because he moves shining, or because his course sheds light. The word चंद्र (*caṃdra*) is formed from the root चंद् (*caṃd*), which means to shine. From this same root the word चंदन (*caṃdana*) (sandal, fragrance) is also derived; it is called चंदन (*caṃdana*) because it produces fragrance for a long time, or because it spreads an excellent fragrance all around. The explanation of the etymology is that the word चारु (*cāru*) is produced by reversing the letters of the word रुचि (*ruci*).
+
+चक्षोः सूर्यः अजायत (*cakṣoḥ sūryaḥ ajāyata*)—From the eye of the Supreme Puruṣa the sun was born. The eye and light are related; without light the eye is of no use. Therefore it is reasonable to say that the sun, who produces light, was born from the eye. For the word सूर्य (*sūrya*) Yāska says—सूर्यः सर्तॆर्वा सुवतेर्वा स्वीर्यतेर्वा (*sūryaḥ sartèrvā suvatervā svīryatervā*) (Ni. 12-14). That is, he is named Sūrya because he moves in the atmosphere; or because he brings forth all beings, that is, is the cause of their birth; or because he impels all. Thus a threefold explanation of the meaning has been given.
+
+मुखादिंद्रश्चाग्निश्च (*mukhādiṃdraścāgniśca*)—From the mouth of the Supreme Puruṣa the gods called Indra and Agni arose. Among the limbs of the body the mouth (head) has pre-eminence. Therefore it is natural that these gods, born from the mouth, have pre-eminence among the gods. In this matter scriptural passages such as अग्निरग्रे प्रथमो देवतानां, अग्निर्मूर्धा दिवः, अग्निर्वै देवानामवमः (*agniragre prathamo devatānāṃ, agnirmūrdhā divaḥ, agnirvai devānāmavamaḥ*) praise the pre-eminence of Agni,
+
+### Printed p. 931
+
+and passages such as इंद्रो यातोऽवसितस्य राजा (*iṃdro yāto 'vasitasya rājā*) praise the greatness of Indra.
+
+प्राणाद्वायुरजायत (*prāṇādvāyurajāyata*)—From the breath of the Supreme Puruṣa the birth of Vāyu took place. That the breath is of the form of wind is well known: शरीरान्तःसंचार्यसुस्तस्माद्वातीति वायु र्बहिर्वर्ति मातरिश्वा । (*śarīrāntaḥsaṃcāryasustasmādvātīti vāyu rbahirvarti mātariśvā |*). The wind that moves inside the body is called prāṇa, and the wind that blows outside is called vāyu. For the word वायु (*vāyu*) Yāska says—वायुर्वातेर्वा स्याद्दतिकर्मणः। एतेरिति स्थौलाष्ठिवि: । अनर्थको वकारः (*vāyurvātervā syāddatikarmaṇaḥ| eteriti sthaulāṣṭhivi: | anarthako vakāraḥ*) (Ni. 10-1). The word वायु (*vāyu*) is formed from the root वा गतिगंधनयोः (*vā gatigaṃdhanayoḥ*), which indicates movement; the meaning is that which is always moving (blowing). Or, it is the opinion of the teacher Sthaulāṣṭhīvi that it is formed from the root इण् गत् (*iṇ gat*). In this case the letter va in the word वायु (*vāyu*) has no meaning. Scriptural passages such as नमस्ते वायो । त्वमेव प्रत्यक्षं ब्रह्मासि । प्राणो ब्रह्मेति व्यजानात् । प्राणे सर्वं प्रतिष्ठितं (*namaste vāyo | tvameva pratyakṣaṃ brahmāsi | prāṇo brahmeti vyajānāt | prāṇe sarvaṃ pratiṣṭhitaṃ*) make known the greatness of Vāyu, and also praise the identity of Vāyu and prāṇa.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नाभ्या॑ आसीदं॒तरि॑क्षं शी॒र्ष्णो द्यौः सम॑वर्तत ।  
+> प॒द्भ्यां भूमि॒र्दिशः॒ श्रोत्रा॒त्तथा॑ लो॒का अ॑कल्पयन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नाभ्याः । आसीत् । अंतरिक्षं । शीर्ष्णः । द्यौः । सं । अवर्तत ।  
+> पत् ऽभ्यां । भूमिः । दिशः । श्रोत्रात् । तथा । लोकान् । अकल्पयन् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा चंद्रादीन्प्रजापतेर्मनःप्रभृतिभ्योऽकल्पयन् तथांतरिक्षादींल्लोकान्प्रजापतेर्नाभ्यादिभ्यो देवा अकल्पयन् । उद्वादितवंतः । एतदेव
+> दर्शयति । नाभ्याः प्रजापतेर्नाभेरंतरिक्षमासीत् । शीर्ष्णः शिरसो द्यौः समवर्तत ।
+> उत्पन्ना । अस्य पद्भ्यां पादाभ्यां भूमिरुत्पन्ना । अस्य श्रोत्राद्दिश उत्पन्नाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that just as the gods fashioned the moon and the others out of the mind and other parts of Prajāpati, so the gods fashioned the worlds beginning with the atmosphere out of Prajāpati's navel and other parts; they brought them into being. He shows this: from the navel of Prajāpati the atmosphere came to be; from his head the heaven was produced; from his feet the earth was produced; from his ear the quarters of space were produced.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नाभ्या (*nābhyā*)—from the navel of the Puruṣa
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- आसीत् (*āsīt*)—came into being
+- शीर्ष्णः (*śīrṣṇaḥ*)—from the head
+- द्यौः (*dyauḥ*)—the heaven-world
+- समवर्तत (*samavartata*)—came forth
+- पद्भ्यां (*padbhyāṃ*)—from the
+
+### Printed p. 932
+
+  feet
+- भूमिः (*bhūmiḥ*)—the earth
+- श्रोत्रात् (*śrotrāt*)—from the ear
+- दिशः (*diśaḥ*)—the quarters of space came into being
+- तथा (*tathā*)—in the same way
+- लोकान् (*lokān*)—all the worlds
+- अकल्पयन् (*akalpayan*)—the gods fashioned (from the body of the Puruṣa)
+
+##### भावार्थ (Bhāvārtha)
+
+From the navel of the Puruṣa the atmosphere came into being. From the head the heaven-world came forth; from the feet the earth, and from the ears the quarters of space came into being. In the same way the gods fashioned all the worlds from the body of the Puruṣa.
+
+##### English translation
+From his navel came the firmament, from his head the heaven was produced, the earth from his feet, the quarters of space from his ear, so they constituted the world.
+
+##### विशेषविषयगळु (Special Topics)
+
+नाभ्या आसीदंतरिक्षं (*nābhyā āsīdaṃtarikṣaṃ*)—नहनमेव नाभिः (*nahanameva nābhiḥ*) (Ni. 4-21). The central place that binds all the limbs together is called the navel. The chief ganglia and channels of the body are gathered together in the navel in the form of a wheel. Therefore the word नाभि (*nābhi*) means the middle region (of the body). For the word अंतरिक्ष (*aṃtarikṣa*) Yāska has given the etymology: अंतरिक्षं कस्मादंतरा क्षांतं भवत्यंतरेमे इति वा शरीरेष्टंतरक्षयमिति वा (*aṃtarikṣaṃ kasmādaṃtarā kṣāṃtaṃ bhavatyaṃtareme iti vā śarīreṣṭaṃtarakṣayamiti vā*) (Ni. 2-10). That is, it is called antarikṣa because it is in the middle region between heaven and earth. Or because it is at the end, that is, at the edge, of the earth (kṣā). Or because heaven and earth rest in the antarikṣa (space). Or because the space within the body does not perish after death like the other limbs (akṣaya); thus many kinds of meaning have been given for the word antarikṣa.
+
+Just as in the body the navel is the middle region, so the atmosphere, which was born from that navel, is also the middle region between heaven and earth. In the same way, as stated in the following lines of this Ṛk, from the head, which is in the upper part of the body, the heaven (svarga) world, which is uppermost of all, came into being. From the feet, in the lower part, the earth, which is in the lower part, was produced. Since the ears are able to hear all distant sounds, all the distant quarters were produced from the ear. And as to the statement that the other worlds were also produced, the explanation of the matter with its reason is clear.
+
+### Printed p. 933
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्तास्या॑सन्परि॒धय॒स्त्रिः स॒प्त स॒मिधः॑ कृ॒ताः ।  
+> दे॒वा यद्य॒ज्ञं त॑न्वा॒ना अब॑ध्न॒न्पुरु॑षं प॒शुं ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । अस्य । आसन् । परिधयः । त्रिः । सप्त । संइधः । कृताः ॥  
+> देवाः । यत् । यज्ञं । तन्वानाः । अबध्नन् । पुरुषं । पशुं ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सांकल्पिकयज्ञस्य गायत्रादीनि सप्त च्छंदांसि परिधय आसन् ।
+> ऐष्टिकस्याहवनीयस्य त्रयः परिधय उत्तरवेदिकास्त्रय आदित्यश्च सप्तमः परिधिप्रतिनिधिरूपः । अत एवाम्नायते । न पुरस्तात्परिदध्यादादिदित्यो ह्येवोद्यन्नुरस्ताद्रक्षांस्यपहंतीति । तत एत आदित्यसहिताः सप्त परिधयोऽत्र सप्त च्छंदोरूपाः ।
+> तथा समिधस्त्रिः सप्त त्रिगुणीकृतसप्तसंख्याका एकविंशतिः कृताः । द्वादश मासाः
+> पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः । तै. सं. ५.१-१०-३ । इति श्रुताः
+> पदार्था एकविंशतिदारुयुक्तेंधनत्वेन भाविताः । यद्यः पुरुषो वैराजोऽस्ति
+> तं पुरुषं देवाः प्रजापतिप्राणेंद्रियरूपा यज्ञं तन्नाना मानसं यज्ञं
+> तन्नानाः कुर्वाणाः पशुमबधन् । विराट् पुरुषमेव पशुत्वेन भावितवंतः ।
+> एतदेवाभिप्रेत्य पूर्वत्र यत्पुरुषेण हविषेत्युक्तं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that for this sacrifice, which existed only in thought, the seven metres, Gāyatrī and the rest, were the enclosing sticks (paridhi). For the ordinary Āhavanīya fire of an iṣṭi there are three paridhis; three are on the uttaravedī; and the seventh is the sun, a substitute for a paridhi. Hence it is taught that one should not lay a paridhi on the east side, for the sun, rising in the east, destroys the rākṣasas. So these seven paridhis, together with the sun, are here the seven metres. Likewise the kindling sticks, thrice seven, that is twenty-one, were made: the twelve months, the five seasons, these three worlds, and that sun as the twenty-first (Tai. Saṃ. 5.1-10-3). These things, known from scripture, were conceived as the twenty-one pieces of fuel. The gods, being in the form of the vital breath and the organs of Prajāpati, performing a sacrifice of the mind, bound as the victim the Puruṣa who is Virāṭ; they conceived the Virāṭ Puruṣa himself as the sacrificial animal. With this in view it was said earlier यत्पुरुषेण हविषे (*yatpuruṣeṇa haviṣe*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—for this sacrifice
+- सप्त (*sapta*)—the seven metres
+- परिधयः (*paridhayaḥ*)—became the paridhis (enclosing sticks)
+- आसन् (*āsan*)—became
+- त्रिः सप्त (*triḥ sapta*)—twenty-one principles
+- समिथः (*samithaḥ*)—as kindling sticks
+- कृताः (*kṛtāḥ*)—were designated
+- देवाः (*devāḥ*)—the gods
+- यत् (*yat*)—which Puruṣa
+- यज्ञं (*yajñaṃ*)—as the means of the sacrifice
+- तन्वानाः (*tanvānāḥ*)—desiring to make
+- पुरुषं (*puruṣaṃ*)—that very Puruṣa
+- पशुं (*paśuṃ*)—in the place of the victim
+- अबध्नन् (*abadhnan*)—bound
+
+##### भावार्थ (Bhāvārtha)
+
+For this sacrifice the seven metres became the paridhis. The twenty-one principles were designated as the kindling sticks. The gods bound to the sacrificial post this Puruṣa, the means of the sacrifice.
+
+##### English translation
+Seven were the enclosures of the sacrifice, thrice seven logs of fuel were prepared, when the gods, celebrating the rite. bound Purusha as the victim.
+
+### Printed p. 934
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is considered what the substances serving the sacrifice, such as the paridhis and the kindling sticks, were in the mental sacrifice performed by the gods.
+
+सप्तास्यासन् परिधयः (*saptāsyāsan paridhayaḥ*)—A paridhi is a kindling stick or darbha grass laid round the fire-pit in a sacrifice, that is, on the four sides around the fire. These paridhis are laid, as a sign of warding off the rākṣasas, so that the rākṣasas and the like may not come and cause obstruction in the sacrifice. The meaning of the word परिधि (*paridhi*) is: परि (*pari*), around; धि (*dhi*), to place. Paridhis are laid only in three directions, south, west and north. In the east, since the sun that rises in the eastern quarter itself destroys the rākṣasas and the like, it is said that a paridhi is not necessary for that quarter. This matter is stated in scriptural passages such as न पुरस्तात्परिदधात्यादित्यो ह्येवोद्यन् पुरस्ताद्रक्षाग्‌स्यपहंति (*na purastātparidadhātyādityo hyevodyan purastādrakṣāgsyapahaṃti*) (Tai. Saṃ. 2-6-6-3). Therefore the seven paridhis together with the sun are as follows: the seven (principal) metres beginning with Gāyatrī. The meaning is that these metres themselves became the paridhis in the mental sacrifice of the gods.
+
+त्रिःसप्त समिधः कृताः (*triḥsapta samidhaḥ kṛtāḥ*)—त्रिःसप्त (*triḥsapta*) means 3 x 7 = 21, twenty-one kindling sticks. Kindling sticks are the pieces of wood used for making the oblation. They are the tips, with the pointed top, at the ends of the branches of certain trees such as the aśvattha. They must be well dried. The word samit means to blaze. By putting these sticks into the fire and making the oblation, the fire blazes well. There were twenty-one such kindling sticks in the sacrifice performed by those gods. As to which these twenty-one kindling sticks are: द्वादश मासाः पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः (*dvādaśa māsāḥ paṃcartavastraya ime lokā asāvāditya ekaviṃśaḥ*). Twelve months, five seasons, three worlds, and the Āditya: twenty-one in all. That is, the twelve months beginning with Caitra; the five seasons, Vasanta, Grīṣma, Varṣā, Śarad and Hemanta-Śiśira (here the two seasons Hemanta and Śiśira are counted as one season); the three worlds, Pṛthivī, Antarikṣa and Dyaus; and Āditya. All these together make the number twenty-one. It is said here that the gods conceived these very things as the twenty-one kindling sticks. Or, according to some, the five organs of knowledge, the five organs of action, the mind, the five great elements beginning with earth, and the five vital airs beginning with prāṇa together make the twenty-one kindling sticks.
+
+देवा यद्यज्ञं तन्वाना अबध्नन् पुरुषं पशुं (*devā yadyajñaṃ tanvānā abadhnan puruṣaṃ paśuṃ*)—In a sacrifice the animal is a very important requisite. It is needed when the animal oblation is made. Without an animal there is no sacrifice; that is, the sacrifice is not possible. Therefore there is an injunction that, even before the churning of the fire, the sacrificial animal must be brought and bound to the sacrificial post planted in the altar. Therefore, when the gods performed the mental sacrifice, they conceived the Virāṭ Puruṣa himself as the animal and bound him to the sacrificial post; the meaning is that they conceived it as if they had bound him.
+
 ---
 
-**Progress note:** Done through printed p. 927. pp. 921-927: varna discussion, Brahmana/Upanishad passages, caste and marriage
+**Progress note:** Done through printed p. 934. pp. 928-934: end of varna discussion; Sukta 90 Rks 13-15
