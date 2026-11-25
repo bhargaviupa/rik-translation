@@ -10110,6 +10110,225 @@ On the use of this hymn in ritual, the Ṛgvidhāna says as follows: भूत�
 
 If a man who desires offspring recites this hymn, उभा उ नूनं (*ubhā u nūnaṃ*), seen by the seer Bhūtāṃśa, while he is ritually pure, he obtains a worthy, excellent son. There is no doubt in this matter. The Aśvins are to be invoked according to rule; then, by the method of the sthālīpāka, offerings are made in the fire of milk-rice, meat, cooked rice, flour mixed with curds, various fruits and the like. Afterwards they are worshipped with various perfumes, garlands and the like, and various foods to eat are made ready. From sunrise until sunset (the hymn of) this Bhūtāṃśa-seen (seer) ….
 
+### Printed p. 271
+…(the sūktas) recited by a person who has become pure and keeps this Bhūtāṃśa sūkta in mind. If, after midnight has passed, he makes an offering to the Aśvin deities, he obtains a son endowed with long life, good form and radiance. It is said that if this Bhūtāṃśa sūkta is recited daily, that man becomes handsome and obtains all his desired objects.
+
+## Sūkta 107 (Maṇḍala 10)
+
+**Introduction.**
+This sūkta praises the dakṣiṇā given to the ṛtviks (officiating priests) in sacrifices, or else the sacrificers who give that dakṣiṇā. About this sūkta the Bṛhaddevatā says as follows:
+सूक्तेन तु परेणात्र स्वयमाविरभूदिति । आत्मानमेव तुष्टाव प्राजापत्याथ दक्षिणा ॥ दात्यनत्र स्तुतानेके दक्षिणानां वदंति तु । दातृत्वाद्दक्षिणानां च भोज्याश्च तसृभिः स्तुताः ॥ (*sūktena tu pareṇātra svayamāvirabhūditi | ātmānameva tuṣṭāva prājāpatyātha dakṣiṇā ‖ dātyanatra stutāneke dakṣiṇānāṃ vadaṃti tu | dātṛtvāddakṣiṇānāṃ ca bhojyāśca tasṛbhiḥ stutāḥ ‖*) (Bṛ. De. 8-22, 23)
+
+In this sūkta 107, beginning आविरभूत् (*āvirabhūt*), the deity praised is Dakṣiṇā Prājāpatyā. Although Divya of the Aṅgirasa line is the seer of this sūkta, Dakṣiṇā Prājāpatyā, the daughter of Prajāpati, is also said to be a seer of it along with him. It may be noted that this deity Dakṣiṇā Prājāpatyā has praised herself in this sūkta. Some say that this sūkta praises the donors (sacrificers) who are to give the dakṣiṇā in sacrifices and similar rites; others say that the dakṣiṇā itself is praised. Since the generous givers called भोजाः (*bhojāḥ*) are also included in these acts of giving, these generous donors, the भोजाः (*bhojāḥ*), are praised in the last four ṛks (8–11).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आविरित्येकादशर्चमष्टमं सूक्तं । दिव्यो नामांगिरस ऋषिः । प्रजापतेः
+> सुता दक्षिणा सा वर्षिका । शतधारं वायुमिति चतुर्थी जगती शिष्टा दश त्रिष्टुभः ।
+> अनेन सूक्तेनर्त्विग्यो दीयमाना दक्षिणा तद्दातारो यजमाना वा स्तूयंते ।
+> अतः सैव देवता । तथा चानुक्रांतं । आविर्दिव्यो दक्षिणा वा प्राजापत्या दक्षिणां
+> तद्दात्वान्स्चतुर्थी जगतीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+This is the eighth sūkta, of eleven ṛks. The seer is Divya of the Aṅgirasa line; Dakṣiṇā, the daughter of Prajāpati, is also a seer. The fourth ṛk, *śatadhāraṃ vāyuṃ*, is in Jagatī; the remaining ten are in Triṣṭubh. By this sūkta the dakṣiṇā given to the ṛtviks, or the sacrificers who give it, are praised; hence that same dakṣiṇā is the deity. He quotes the Anukramaṇī to this effect: आविर्दिव्यो दक्षिणा वा प्राजापत्या दक्षिणां तद्दात्वान्स्चतुर्थी जगतीति ॥ (*āvirdivyo dakṣiṇā vā prājāpatyā dakṣiṇāṃ taddātvānscaturthī jagatīti ‖*) The viniyoga (ritual application) has been stated.
+
+### Printed p. 272
+Anuvāda: This sūkta beginning आविः (*āviḥ*) is the eighth sūkta in the ninth anuvāka. It has eleven ṛks. Its seer is Divya of the Aṅgirasa line; or else the woman Dakṣiṇā, the daughter of Prajāpati, may also be the seer. In this sūkta the fourth ṛk, शतधारं (*śatadhāraṃ*), is in the Jagatī metre; the remaining ten ṛks are all in Triṣṭubh. In this sūkta the dakṣiṇā that is to be given to the ṛtviks, and the sacrificers who give it, are praised. Therefore the deity of this sūkta is the dakṣiṇā or the sacrificers; in the Anukramaṇī it is said: आविर्दिव्यो दक्षिणा वा प्राजापत्या दक्षिणां तद्दात्नास्तौच्चतुर्थि जगती (*āvirdivyo dakṣiṇā vā prājāpatyā dakṣiṇāṃ taddātnāstauccaturthi jagatī*). The viniyoga was stated earlier.
+
+Sūkta 107
+Maṇḍala 10 ‖ Anuvāka 9 ‖ Sūkta 107 ‖
+Aṣṭaka 8 ‖ Adhyāya 6 ‖ Varga 3, 4 ‖
+Number of ṛks in the sūkta: 11 ‖
+Ṛṣi: Dimma (Divya?) **NOTE** or Dakṣiṇā Prājāpatyā ‖
+Deity: Dakṣiṇā or her givers ‖
+Metre: 1–3, 5–11 Triṣṭubh ‖ 4 Jagatī ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒विर॑भू॒न्महि॒ माघो॑नमेषां॒ विश्वं॑ जी॒वं तम॑सो॒ निर॑मोचि ।  
+> महि॒ ज्योतिः॑ पि॒तृभि॑र्द॒त्तमागा॑दु॒रुः पंथा॒ दक्षि॑णाया अदर्शि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आविः । अभूत् । महि । माघोनं । एषां । विश्वं । जीवं । तमसः । निः । अमोचि ।  
+> महि । ज्योतिः । पितृभिः । दत्तं । आ । अगात् । उरुः । पंथाः । दक्षिणायाः । अदर्शि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं सूक्तं दक्षिणाया ना तद्दात्यणां ना स्तावकं । दक्षिणा तु यागांगं
+> यागस्तु सायंकाले न क्रियते । न सायमस्ति देवया अजुष्टं । ऋ. ५-७७-२ ।
+> इत्यादिश्रवणात् । तस्मादह्नेव कर्तव्यः । अहश्च सूर्योदयात्पश्चाद्भवतीति
+
+##### Gist of the bhāṣya
+
+This sūkta praises dakṣiṇā or those who give it. Dakṣiṇā is a part of the sacrifice, and the sacrifice is not performed in the evening, since it is heard (in the Veda): न सायमस्ति देवया अजुष्टं (*na sāyamasti devayā ajuṣṭaṃ*) (Ṛ. 5-77-2) and the like. Therefore it must be done by day, and day comes after sunrise; hence sunrise is spoken of at the beginning of the sūkta.
+
+### Printed p. 273
+
+> सूक्तादौ सूर्योदयोऽभिधीयते । माघोनं । मघवेंद्रः । इंद्रश्च सूर्यचैत्रमासे तयोरिंद्र इति स्मरणात् । तस्य संबंधि ॥ तस्येदमित्यण् । आतद्धिते
+> प्रत्यये संप्रसारणमभिहितं । पा. ६-४-१३३ । सर्वविधीनां छंदसि विकल्पितत्वादत्र
+> तद्धितेऽपि संप्रसारणं ॥ सूर्यात्मकस्येंद्रस्य स्वभूतं महि महत्तेज एषां
+> यजमानानां यागसिद्ध्यर्थमाविरभूत् । प्रकाशितमुद्धतमभूत् । तत्र विश्वं सर्वं
+> जीवं स्थावरजंगमात्मकं जगत्तमसः सकाशान्निरमोचि । निर्मुक्तमभूत् ॥
+> मुंचतेः कर्मलुजि चिणि रूपं ॥ अथानंतरं पितृभिर्यत्पितृभिर्देवैर्दत्तं नो
+> हविषामागमनाय तन्महि महज्योतिः सूर्याख्यमागात् । आगच्छति । पश्चाद्दक्षिणाया यागांगभूताया उरुर्महान् पंथा मार्गोऽदर्शि । सर्वैर्यजमानैर्दृष्टोऽभूत् । सर्वे यागं कृत्वर्त्विग्भो दक्षिणां दत्तवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+माघोनं (*māghonaṃ*): Maghavan is Indra, and Indra is Sūrya, since it is recalled that in the month of Caitra "of the two (Sūrya and Indra) it is Indra" **NOTE**. The word means "belonging to him". The great splendour belonging to Indra in the form of Sūrya has become manifest, risen up, for the success of the sacrifice of these sacrificers. Thereupon the whole living world, moving and unmoving, has been freed from darkness. Next, the great light called Sūrya, bestowed by the Pitṛs (the divine fathers) for the coming of our oblations, has arrived. Afterwards a broad path of the dakṣiṇā, which is part of the sacrifice, has been seen by all the sacrificers; the meaning is that all, having performed the sacrifice, gave dakṣiṇā to the ṛtviks.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- माघोनं (*māghonaṃ*)—belonging to Indra
+- महि (*mahi*)—wonderful splendour
+- एषां (*eṣāṃ*)—of these sacrificers, for the success of the sacrifice
+- आविरभूत् (*āvirabhūt*)—has become manifest
+- विश्वं जीवं (*viśvaṃ jīvaṃ*)—the whole world, moving and unmoving
+- तमसः (*tamasaḥ*)—from darkness
+- निरमोचि (*niramoci*)—has been freed
+- पितृभिः (*pitṛbhiḥ*)—by the Pitṛ deities
+- दत्तं (*dattaṃ*)—offered
+- महि (*mahi*)—great
+- ज्योतिः (*jyotiḥ*)—this light, called Sūrya
+- आगात् (*āgāt*)—is approaching
+- दक्षिणायाः (*dakṣiṇāyāḥ*)—of the sacrificial ground
+- उरुः पंथाः (*uruḥ paṃthāḥ*)—the broad path
+- अदर्शि (*adarśi*)—is becoming visible
+
+##### भावार्थ (Bhāvārtha)
+
+The wonderful splendour of Indra (Sūrya) has become manifest for the success of the sacrificer's sacrifice. The whole world, moving and unmoving, is freed from darkness. This light called Sūrya, offered by the Pitṛ deities and great, is approaching. The broad path of the sacrificial ground is becoming visible; that is, the sacrificial rite has begun.
+
+##### English translation
+The great (splendour) of Maghavan has become manifest (for the rites) of these (worshippers); all life has been extricated from darkness; the vast light bestowed by the progenirors has arrived, a spacious path for the dakshina has been displayed.
+
+### Printed p. 274
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒च्चा दि॒वि दक्षि॑णावंतो अस्थु॒र्ये अ॑श्व॒दाः स॒ह ते  ॑
+> सूर्येण ।  
+> हि॒र॒ण्य॒दा अ॑मृत॒त्वं भ॑जंते वासो॒दाः सो॑म॒ प्र ति॑रंत॒  ॑
+> आयुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उच्चा । दिवि । दक्षिणावंतः । अस्तुः । ये । अश्वदाः । सह । ते । सूर्येण ।  
+> हिरण्यदाः । अमृतत्वं । भजंते । वासदाः । सोम । प्र । तिरंते । आयुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दक्षिणावंतो दक्षिणाया देयत्वेन तद्वंतो दक्षिणां दत्तवंतो यजमाना
+> उच्चोच्चैः स्थानैः स्थिते दिवि द्युलोकेऽस्कुः । तिष्ठंति । सामान्येनोक्त्वा दातृविशेषाणां फलविशेषमाह अश्वदा अश्वानां दातारो ये यजमानाः ते सूर्येण
+> सर्वस्य स्वस्वकर्मणि प्रेरकेणादित्येन सह तिष्ठंति । ये हिरण्यदा हिरण्यदात्रारः
+> तेऽमृतत्वममरणधर्मत्वं देवत्वं भजंते । अमृतं वै हिरण्यमित्याम्नानात् ।
+> तथा सौम्यं वै वास इति श्रवणात्सोम एव संबोध्यते । हे सोम वासोदास्त्वद्देवत्यवस्त्राणां दातारो ये संति ते त्वया सह तिष्ठंतीति शेषः । एते सर्व
+> आयुर्जीवनं प्रतिरंते । प्रवर्धयंति । प्रपूर्वस्तिरतिर्वृद्ध्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The दक्षिणावंतः (*dakṣiṇāvaṃtaḥ*) are the sacrificers who have given dakṣiṇā, as something to be given; they stand in heaven, in the high places. Having said this generally, he states the particular fruit for particular givers: those sacrificers who are givers of horses stay together with Sūrya, the impeller of all to their own works, that is Āditya. Those who give gold obtain immortality, the state of not dying, godhood, since it is handed down that "gold is immortality". Likewise, since it is heard that "raiment belongs to Soma", Soma himself is addressed: O Soma, those who are givers of garments dedicated to you stay with you (this is to be supplied). All these prolong, increase, their life; the verb तिरति (*tirati*) with the prefix प्र (*pra*) has the sense of growth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्षिणावंतः (*dakṣiṇāvaṃtaḥ*)—sacrificers who gave dakṣiṇā
+- उच्चा (*uccā*)—high
+- दिवि (*divi*)—in the heavenly world
+- अस्थुः (*asthuḥ*)—are established
+- ये (*ye*)—which sacrificers
+- अश्वदाः (*aśvadāḥ*)—gave a horse
+- ते (*te*)—they
+- सूर्येण सह (*sūryeṇa saha*)—are united with Āditya
+- हिरण्यदाः (*hiraṇyadāḥ*)—those who gave gold
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death (godhood)
+- भजंते (*bhajaṃte*)—have attained
+- सोम (*soma*)—O Soma
+- वासोदाः (*vāsodāḥ*)—those who gave garments
+- आयुः (*āyuḥ*)—their life
+- प्रति तिरंते (*prati tiraṃte*)—increase
+
+### Printed p. 275
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers who distributed dakṣiṇā are established in heaven, the high region. The sacrificers who gave horses are united with Āditya. Those who gave gold have attained immortality (godhood). O Soma, those who gave garments increase their life.
+
+##### English translation
+The donors of the dakshina have mounted high in heaven; those who are givers of horses dwell with the sun ; the givers of gold obtain immortality the givers of raiment, O Soma, prolong their life.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दैवी॑ पू॒र्तिर्दक्षि॑णा देवय॒ज्या न क॑वा॒रिभ्यो॑ न॒हि ते पृ॒णंति॑ ।  
+> अथा॒ नरः॒ प्रय॑तदक्षिणासोऽवद्यभि॒या ब॒हवः॑ पृणंति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दैवी । पूर्तिः । दक्षिणा । देवयज्या । न । कव अरिभ्यः । नहि । ते । पृणंति ।  
+> अथ । नरः । प्रयतदक्षिणासः । अवद्यभिया । बहवः । पृणंति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दैवी देवसंबंधिनी ॥ देवाद्यञञौ । पा. ४-१-८५-३ । इत्यञ् ॥ तादृशी
+> पूर्तिः पालिनी तत्साध्या देवयज्या ॥ छंदसि निष्कर्क्यति निपातितः ॥ देवयागः ।
+> तदंगभूता दक्षिणा न कवारिभ्यः ॥ ऋ गतानित्यस्याच इः । उ ४-१३८ । इतीप्रत्ययः ॥
+> कुत्सितगंतृभ्योऽयष्टृभ्यः । एतेभ्यो न भवति । यद्वा! देवानां स्वभूता पूर्तिः
+> पूरयित्रि स्तुतिभिर्हविर्भिश्च तादृशी देवयज्या दक्षिणा च तेभ्यो न भवतः । तत्र
+> हेतुरुच्यते । हि यस्मात्ते कुत्सितगंतारो नहि पृणंति देवान्सुतिभिर्हविर्भिवा न
+> प्रीणयंति ॥ पृण प्रीणने तौदादिकः ॥ अथेति प्रश्ने । यष्टृणां देवयागादि
+> कथं भवति । उच्यते । नरः कर्मणां नेतारः अत एव प्रयतदक्षिणासो दत्तदक्षिणा
+
+##### Gist of the bhāṣya
+
+दैवी (*daivī*) means "belonging to the gods"; such a पूर्तिः (*pūrtiḥ*) is a protector (pālinī); the देवयज्या (*devayajyā*) accomplished by it is the sacrifice to the gods, and the dakṣiṇā that is part of it is not for the कवारिभ्यः (*kavāribhyaḥ*), those who go badly, who are non-sacrificers. Alternatively: the gods' own पूर्तिः (*pūrtiḥ*) is that which fills (them) with praises and oblations; such sacrifice to the gods and dakṣiṇā do not belong to those people. The reason is given: because those who go badly do not please the gods with praises or oblations. Then, as a question: how do the sacrificers come to have the sacrifice to the gods and the rest? The answer: the नरः (*naraḥ*) are the leaders of rites, and therefore those who have given dakṣiṇā, many sacrificers…
+
+### Printed p. 276
+
+> बहवो यजमाना अवद्यभिया ॥ अवद्यपण्यवर्या गर्हैति । पा. ३-१-१०१ ।
+> यत्पत्ययांतत्वेन निपातितः ॥ पापभिया । विहिताननुष्ठाने दुरितानि भवंति खलु ।
+> तस्मात्तद्भीत्या पृणंति । देवान्प्रीणयंति । तस्माद्यष्टृणां देवपालनयागदक्षिणा
+> भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+…many sacrificers, अवद्यभिया (*avadyabhiyā*), through fear of sin, please the gods. For failure to perform what is ordained brings sins; therefore, fearing that, they gratify, they please the gods. The meaning is that the sacrificers' dakṣiṇā of the sacrifice, the protection of the gods, comes about.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्तिः (*pūrtiḥ*)—that which protects the sacrificer
+- देवयज्या (*devayajyā*)—that which is part of the sacrifice to the gods
+- दैवी (*daivī*)—belonging to the deities
+- दक्षिणा (*dakṣiṇā*)—the dakṣiṇā
+- कवारिभ्यः (*kavāribhyaḥ*)—for the wicked (those who are not performers of sacrifice)
+- न (*na*)—is not to go
+- ते (*te*)—they
+- नहि पृणंति (*nahi pṛṇaṃti*)—do not worship the deities with sacrifices etc. and satisfy them
+- अथ (*atha*)—but
+- अवद्यभिया (*avadyabhiyā*)—through fear of sin
+- बहवः नरः (*bahavaḥ naraḥ*)—many sacrificers
+- प्रयतदक्षिणासः (*prayatadakṣiṇāsaḥ*)—having distributed dakṣiṇā in the sacrifice
+- पृणंति (*pṛṇaṃti*)—satisfy the deities
+
+##### भावार्थ (Bhāvārtha)
+
+The dakṣiṇā, which protects the sacrificer, is part of the sacrifice to the gods and belongs to the deities, is not for the wicked who are not performers of sacrifice. They do not worship and satisfy the deities by sacrifices etc. But many sacrificers, through fear of sin, give dakṣiṇā in the sacrifice and satisfy the deities.
+
+##### English translation
+The divine nourishing dakshina, which is part of the sacrifice to the gods, is not for those who go wrong, for they do not gratify (the gods with worship), but many men through fear of incurring sin liberally extending the dakshina gratify the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तधा॑रं वा॒युम॒र्कं स्व॒र्विदं॑ नृ॒चक्ष॑स॒स्ते अ॒भि च॑क्षते ह॒विः ।  
+> ये पृ॒णंति॒ प्र च॒ यच्छं॑ति संग॒मे ते दक्षि॑णां दुहते  ॒॑
+> सप्तमातरं ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 270. pp. 265-270 (batch API)
+**Progress note:** Done through printed p. 276. pp. 271-276 (batch API)
