@@ -6092,6 +6092,99 @@ In the animal offering to Viśvakarman, two anuvākyā verses are used in order 
 - सूरिः (*sūriḥ*)—as the impeller to heaven and the rest
 - अस्तु (*astu*)—let him be
 
+### Printed p. 225
+
+##### भावार्थ (Bhāvārtha)
+
+O Viśvakarman, increased by our oblation, do you yourself worship heaven and earth. Let the other people, who are devoid of rites, be overcome everywhere by delusion. May Viśvakarman, the possessor of wealth, be in this sacrifice of ours the impeller of us to heaven.
+
+##### English translation
+Vishwakarman, magnified by the oblation, do you of yourself worship earth and heaven; let other men (who offer no oblations) be everywhere confounded; may he, rich in oblations, be the granter of heaven at this our (sacrifice).
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given the following explanation:
+
+विश्वकर्मन् हविषा वर्धयमानः स्वयं यजस्व पृथिवीं च दिवं च मुह्यंत्वन्ये अभितो जनाः सपत्ना इहास्माकं मघवा सूरिरस्तु प्रज्ञाता॥ (*viśvakarman haviṣā vardhayamānaḥ svayaṃ yajasva pṛthivīṃ ca divaṃ ca muhyaṃtvanye abhito janāḥ sapatnā ihāsmākaṃ maghavā sūrirastu prajñātā‖*) (Ni. 10-27)
+
+In this Ṛk the action performed by Viśvakarman and the fruit obtained by it are praised. O Viśvakarman, you who grow by the oblation offered in the sacrifice called Sarvamedha, offer the earth and heaven in the sacrifice; that is, yourself pervade and abide in heaven and earth. Let the other people, that is, all your rivals who do not worship you, be without discernment and be overcome by delusion. Thereafter may the Lord of all (Viśvakarman), the master of all wealth and endowed with unobstructed knowledge, be the impeller of us in this sacrificial rite, or in the rite that is the worship of Viśvakarman.
+
+सपत्नाः (*sapatnāḥ*): ये समानं पतित्वमिच्छंति ते सपत्नाः (*ye samānaṃ patitvamicchaṃti te sapatnāḥ*). Those who each wish for lordship for themselves, that is, those who fight for equal authority, rivals, enemies: this is the meaning.
+
+In the animal offering made to the deity Viśvakarman, when the vapā and the cake are offered, this Ṛk and the next Ṛk are to be recited as anuvākyā mantras; this is explained by the Āśvalāyana Śrauta Sūtra in the sūtra विश्वकर्मन् हविषा नावृधान इति द्वे विश्वकर्मा विमना अद्विहायाः (*viśvakarman haviṣā nāvṛdhāna iti dve viśvakarmā vimanā advihāyāḥ*) (Ā. 3-8), and
+
+### Printed p. 226
+
+in the Sākamedha offerings too, the Āśvalāyana Śrauta Sūtra sentence which says that this Ṛk is to be recited as the anuvākyā mantra on behalf of the deity Viśvakarman has been cited earlier.
+
+The praise of Viśvakarman, who is made of sacrifice and is the root of sacrifice, is the special subject of this sūkta. Viśvakarman is the performer of the sacrifice and the enjoyer of the sacrifice. Before creation he himself is the place of sacrifice; after creation the universe itself is the place of sacrifice. Creation is the manifestation of the subtle Viśvakarman in gross form. For this creation too, sacrifice is the root. In this sacrifice the oblation is Viśvakarman and the enjoyer of the oblation is also he. The expansive manifestation of himself in the form of the universe is the fruit of the sacrifice. That is what is stated in the present Ṛk as हविषा वावृधानः (*haviṣā vāvṛdhānaḥ*).
+
+This is a very profound matter. It contains spiritual and divine principles. The creation, preservation and dissolution of the universe are all in the form of a cycle. All are only particular states of the Lord. All of this is made of sacrifice. Sacrifice is the root of everything; everything is of the form of sacrifice. The sacrifice of the form of creation, preservation and dissolution must go on continuously. These are particular states that are of the nature of motion. This point is understood from the very etymology of the word yajña.
+
+अथ यस्माद्यज्ञो नाम । स्तंति वा एनमेतद्यदभिषुण्वंति तद्यदेनं तन्नते तदेनं जनयंति स तायमानो जायते स यन् जायते तस्माद्यज्ञो यंजो ह वै नामैतद्यद्यज्ञ इति ॥ (*atha yasmādyajño nāma | staṃti vā enametadyadabhiṣuṇvaṃti tadyadenaṃ tannate tadenaṃ janayaṃti sa tāyamāno jāyate sa yan jāyate tasmādyajño yaṃjo ha vai nāmaitadyadyajña iti ‖*) (Śa. Brā. 3-9-4-3)
+
+When the Soma is pressed in the sacrifice, it is as if the sacrifice is killed.**NOTE** When they make the sacrifice spread out, then there is its birth again. Because there is thus an expansion and a contraction of the nature of motion, (यन् जायते (*yan jāyate*)) it is called yajña. Yajña is yajña.
+
+सर्वेषां वा एष भूतानाग्ं सर्वेषां देवानामात्मा यद्यज्ञस्तस्य समृद्धिमनु यजमानः प्रजया पशुभिर्युध्यते ॥ (*sarveṣāṃ vā eṣa bhūtānāgṃ sarveṣāṃ devānāmātmā yadyajñastasya samṛddhimanu yajamānaḥ prajayā paśubhiryudhyate ‖*) (Śa. Brā. 14-3-2-1)
+
+For all the gods and men and the rest this sacrifice is the self. The sacrificer who performs this sacrifice obtains all prosperity and increase: thus the special excellence of the sacrifice is praised. Just as Viśvakarman is the self of all the gods and men and the rest, so the sacrifice too is of the nature of all. The two are not different: Viśvakarman is the sacrifice, and the sacrifice is of the nature of Viśvakarman. The sacrifice is the reflection of Prajāpati, who is of the form of Viśvakarman.
+
+### Printed p. 227
+
+स देवेभ्य आत्मानं प्रदाय । अथैतमात्मनः प्रतिमामसृजत (*sa devebhya ātmānaṃ pradāya | athaitamātmanaḥ pratimāmasṛjata*) (Śa. Brā. 11-1-8-3)
+
+After Prajāpati had offered himself to the gods, he created the reflection of himself in the form of the sacrifice. "Because he created a reflection of himself in the form of the sacrifice, the knowers say that Prajāpati is of the form of the sacrifice": such is the sentence that teaches identity. As Prajāpati (or Viśvakarman) is described in the Ṛks above in this same sūkta as being of the nature of the universe, in the same way the sacrifice, which is the reflection of Prajāpati, is also so. In the section on हविषा वावृधानः (*haviṣā vāvṛdhānaḥ*) the aspect of the growth of Prajāpati has been indicated. It was explained above that Prajāpati, in the form of Viśvakarman, is expanded in the forms of heaven, earth and atmosphere, and in the forms of Agni, Vāyu and the sun. The sacrifice, which is his reflection, is also of the nature of the universe. After the identity of Agni and the sacrifice has been stated, it is shown that the sacrificial altar, which reflects the sacrifice, pervades the universe, and that all the masses of light in the universe and the other beings, moving and unmoving, are its limbs.
+
+अयं वाव लोक एषोग्निश्चितः । तस्याप एव परिश्रितो मनुष्या यजुष्मत्यः ॥ अंतरिक्षग्ं ह त्वैवैषोऽग्निश्चितः । तस्य द्यावापृथिव्योरेव संधिः............ परिश्रितः परेण हांतरिक्षं........ ॥ दौर्ह त्वेवैषोग्निश्चितः । तस्याप एव परिश्रितो यथा ह वा इदं कोशः समुच्चित एवमिमे लोका अप्स्वंतः.................. ॥ (*ayaṃ vāva loka eṣogniścitaḥ | tasyāpa eva pariśrito manuṣyā yajuṣmatyaḥ ‖ aṃtarikṣagṃ ha tvaivaiṣo 'gniścitaḥ | tasya dyāvāpṛthivyoreva saṃdhiḥ............ pariśritaḥ pareṇa hāṃtarikṣaṃ........ ‖ daurha tvevaiṣogniścitaḥ | tasyāpa eva pariśrito yathā ha vā idaṃ kośaḥ samuccita evamime lokā apsvaṃtaḥ.................. ‖*) (Śa. Brā. 10-5-4-1-3)
+
+This sacrificial altar, which reflects the sacrifice, is the terrestrial world. The bricks that surround it are the oceans. The yajuṣmatī bricks are men, the sandoha bricks are the animals. The lokaṃpṛṇā is Agni. One who knows this principle obtains lordship over the worlds.
+
+This sacrificial altar, which reflects the sacrifice, is the atmosphere. Since the junction of heaven and earth lies in the region beyond the atmosphere, this altar is surrounded; the junction of heaven and earth is in the yajuṣmatī bricks, which are the birds. The clay between the bricks is the rays. The oblations are the fuel sticks; the lokaṃpṛṇā is Vāyu. One who knows this principle attains identity with Agni.
+
+### Printed p. 228
+
+This sacrificial altar is the heavenly world. The surrounding bricks are the oceans that encircle this world. The bricks called yajuṣmatī are the gods. The sūdadoha bricks are the food of this world. The clay between the bricks is the stars.
+
+आदित्यो ह त्वैवैषोऽग्निश्चितः । तस्य दिश एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति षष्टिश्च ह वै त्रीणि च शतान्यादित्यं दिशः समंतं परियंति ............ ॥ नक्षत्राणि ह त्वैवैषोऽग्निश्चितः । तानि वा एतानि सप्तविग्ंशतिर्नक्षत्राणि........ ॥ सर्वाणि ह त्वेव भूतानि । सर्वे देवा एषोऽग्निश्चित आपो वै सर्वे देवाः सर्वाणि भूतानि ता हैता अप एवैषोऽग्निश्चितः......... आत्मायमेव सोऽयं हिरण्मयः पुरुषः ॥ (*ādityo ha tvaivaiṣo 'gniścitaḥ | tasya diśa eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti ṣaṣṭiśca ha vai trīṇi ca śatānyādityaṃ diśaḥ samaṃtaṃ pariyaṃti ............ ‖ nakṣatrāṇi ha tvaivaiṣo 'gniścitaḥ | tāni vā etāni saptavigṃśatirnakṣatrāṇi........ ‖ sarvāṇi ha tveva bhūtāni | sarve devā eṣo 'gniścita āpo vai sarve devāḥ sarvāṇi bhūtāni tā haitā apa evaiṣo 'gniścitaḥ......... ātmāyameva so 'yaṃ hiraṇmayaḥ puruṣaḥ ‖*) (Śa. Brā. 10-5-4-6 to 14)
+
+This sacrificial altar, the reflection of the sacrifice, is the sun. Three hundred and sixty directions and intermediate directions surround the sun. The three hundred and sixty yajuṣmatī bricks are the three hundred and sixty rays of the sun. The sūdadoha bricks are the special principles that stand between the rays of the sun and the directions. This sacrificial altar is all the stars. The seven metres. This is the year, and this is all beings. Just as three hundred and sixty boats in the form of rays surround the sun, so around this altar the gods, men and the rest, in the form of the yajuṣmatī bricks, stand around. The body of this altar is the golden person who is within the sun. Thus it is shown that Viśvakarman (or Prajāpati), who is of the nature of the universe, and the sacrifice are the doer and the deed, reflecting one and the same principle. How attractive and how great is the nature of this golden person, who is the body of the sacrificial altar? It is this:
+
+तस्यैते प्रतिष्ठे । रुक्ष्मश्च पुष्करणपर्णं चापश्चादित्यमंडलं च स्रुचौ बाहू ताविंद्राग्नी द्वे स्वयमातृण्णे इयं चांतरिक्षं च तिस्रो विश्वज्योतिष एता देवता अग्निर्वायुरादित्य एता ह्येव देवता विश्वं ज्योतिः................। (*tasyaite pratiṣṭhe | rukṣmaśca puṣkaraṇaparṇaṃ cāpaścādityamaṃḍalaṃ ca srucau bāhū tāviṃdrāgnī dve svayamātṛṇṇe iyaṃ cāṃtarikṣaṃ ca tisro viśvajyotiṣa etā devatā agnirvāyurāditya etā hyeva devatā viśvaṃ jyotiḥ................|*) (Śa. Brā. 18-5-42)
+
+The golden vessel and the lotus leaf are the two feet of this golden person who is within the sun. The two ladles on the sacrificial altar are his arms. They are Indra and Agni. These two bricks, naturally perforated, are the earth and the atmosphere. The bricks in the form of the light of the universe are all the deities. Their number is three. These three reflect Agni, Vāyu and the sun.
+
+### Printed p. 229
+
+The body of this altar is the end of all. This golden person within the sun, who is of the form of the altar, having obtained all desires, is free from desire and perfectly satisfied. In this way identity is shown between Prajāpati, who is the self of the universe and Viśvakarman, and the sacrifice, which pervades the whole universe and sustains it. This Prajāpati, offering himself as the oblation in his own sacrifice, resolves on the work of creation and expands the world.
+
+य आत्मदा बलदा यस्य विश्व उपासते प्रशिषं यस्य देवाः । यस्य छायामृतं यस्य मृत्युः कस्मै देवाय हविषा विधाम ॥ (*ya ātmadā baladā yasya viśva upāsate praśiṣaṃ yasya devāḥ | yasya chāyāmṛtaṃ yasya mṛtyuḥ kasmai devāya haviṣā vidhāma ‖*) (Ṛ. Saṃ. 10.121-2)
+
+It is described that this Prajāpati, called Ka, at the time of creation is the giver of life to all beings (or the one who offers himself in the form of the oblation), the giver of strength, and that the gods too obey his command, and so on. The meaning is that this Prajāpati offered himself in his own universal sacrifice and brought the work of creation to fulfilment.
+
+Just as Viśvakarman, who pervades the universe, is the cause of creation, preservation and dissolution, so the sacrifice, which is his action following his resolve and pervades the universe, is also the root cause of creation, preservation and dissolution.
+
+Earlier, in explaining the purport of the Ṛk यज्ञेन यज्ञमयजंत देवाः (*yajñena yajñamayajaṃta devāḥ*) (1-164-50), it was stated that this sacrifice is the root of all the worldly laws. The laws of this sacrifice, established in the atmosphere, keep the gods who dwell in the heavenly world in their respective places. Through the sacrifice all beings created by Prajāpati obtain the food and strength that are the cause of their continuance.
+
+The prayer in the form of a wish, इहास्माकं मघवा सूरिरस्तु (*ihāsmākaṃ maghavā sūrirastu*), shows the need for prosperity both worldly and of the other world. Whatever means and resources are indispensable and desired for attaining excellent growth in the period of preservation after creation, all that is prayed for here. After creation, the first thing needed is food. For obtaining this food the sacrifice is the main means.
+
+प्रजापतिः प्रजा असृजत तास्सृष्टाः क्षुधं न्यायन्त्स एतं नवरात्रमपश्यत्तमाहरत्तेनायजत ततो पै प्रजाभ्योकल्पत यर्हि प्रजाः क्षुधं निगच्छेयुस्तर्हि नवरात्रेण यजतेमे हि ना एतासां लोका अक्षृप्ता अथैकाः क्षुधं निगच्छंति ॥ (*prajāpatiḥ prajā asṛjata tāssṛṣṭāḥ kṣudhaṃ nyāyantsa etaṃ navarātramapaśyattamāharattenāyajata tato pai prajābhyokalpata yarhi prajāḥ kṣudhaṃ nigaccheyustarhi navarātreṇa yajateme hi nā etāsāṃ lokā akṣṛptā athaikāḥ kṣudhaṃ nigacchaṃti ‖*) (Tai. Saṃ. 7-2-4-1)
+
+### Printed p. 230
+
+All the creatures produced by Prajāpati, the cause of the world, were filled with hunger. Then, to remove the hunger, he thought of the sacrifice of the form of Navarātra and performed the sacrifice by it. It removed the hunger of the creatures. Therefore the sacrifice is the root for removing hunger.
+
+This same sacrifice keeps the three worlds in one state and under law. Just as a cloth is made by joining thread with thread in warp and woof, so the sacrifice became the root for preventing looseness, for producing one power of the form of a single connection for the whole universe, and for the three worlds being in their ordained state.
+
+But the activity of the universe does not end here. As soon as Viśvakarman had produced the creation rooted in sacrifice, the principle that was in unity attained plurality. This plurality too must attain growth. Just as Viśvakarman, who is of the form of Prajāpati, performed sacrifice for his own growth, so these many produced beings too must perform sacrifice for their growth. They must follow the same path that Viśvakarman showed. Just as he worshipped himself in the form of his sacrifice, so every creature must worship that same Viśvakarman through the sacrifice, which is the reflection of Viśvakarman. If the growth of the produced universe is desired, then as long as one is in the period of preservation, the performance of sacrifice must be the chief aim of life. Sacrifice is the duty of the man who is born.
+
+ऋणग्ं ह वै जायते योऽस्ति स जायमान एव देवेभ्य ऋषिभ्यः पित्ृभ्यो मनुष्येभ्यः ॥ (*ṛṇagṃ ha vai jāyate yo 'sti sa jāyamāna eva devebhya ṛṣibhyaḥ pitṛbhyo manuṣyebhyaḥ ‖*) (Śa. Brā. 1-7-2-1)
+
+Quoting such sentences, the matter of man's threefold debt has been explained earlier. In order that the creature, freed from this debt, may keep up his existence so as to take part in the continuance of the universe, every individual must perform this sacrifice, which is the reflection of Viśvakarman.
+
+What is the nature of the growth of Viśvakarman in the sentence हविषा वर्धमानः (*haviṣā vardhamānaḥ*), and what is its course? This is to be examined here.
+
+प्रजापतिः प्रजा असृजत । तास्सृष्टास्समश्लिष्यन् । ता रूपेणानु प्राविशत् । तस्मादाहुः । रूपं वै प्रजापतिरिति । ता नाम्नानुप्राविशत् । तस्मादाहुः । नाम वै प्रजापतिरिति ॥ (*prajāpatiḥ prajā asṛjata | tāssṛṣṭāssamaśliṣyan | tā rūpeṇānu prāviśat | tasmādāhuḥ | rūpaṃ vai prajāpatiriti | tā nāmnānuprāviśat | tasmādāhuḥ | nāma vai prajāpatiriti ‖*) (Tai. Brā. 2-2-7-1)
+
 ---
 
-**Progress note:** Done through printed p. 224. pp. 219-224: Rk 10-81-5 and start of 6, Special Topics
+**Progress note:** Done through printed p. 230. pp. 225-230: end of Rk 10-81-6 and Special Topics (yajna, Prajapati)
