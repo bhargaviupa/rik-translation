@@ -27701,6 +27701,256 @@ O Indra, what sort of exhilaration is satisfying to you? You, who are of great p
 ##### English translation
 What sort of exhilaration, Indra, is agreeable to you? You who are powerful hasten to the doors (of the sacrificial chamber) to our praises : when will the Soma be present ? (when will) intelligence (come) to me ? when, having propitiated you, may I acquire wealth and food ?
 
+### Printed p. 777
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कदु॑ द्यु॒म्नमिं॑द्र॒ त्वाव॑तो॒ न्यन्कया॑ धि॒या क॑रसे॒ कन्न॒ आग॑न्।  
+> मि॒त्रो न स॒त्य उ॑रुगाय भृ॒त्या अन्ने॑ समस्य॒ यदस॑न्मनी॒षाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् ऊं इति । द्युम्नं । इंद्र । त्वावतः । न्यान् । कया । धिया । करसे । कत् ।  
+> नः । आ । अगन् ।  
+> मित्रः । न । सत्यः । उरुगाय । भृत्यै । अन्ने । समस्य । यत् । आसन् । मनीषाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं कदु कदा ना द्युम्नं हविर्लक्षणमस्मदीयमन्नं भुक्तेति
+> शेषः । कया धिया केन कर्मणा नन्नेत्यनस्मांस्तावतत्त्वदृशान्यरसे । करिष्यसि ।
+> कत् कदा नोऽस्मान्त्यागन् । आगमिष्यसि । सत्यः । अनवद्य इत्यर्थः । मित्रो न सखेव
+> तथा । हे उरुगाय बहुकीर्त इंद्र त्वं भृत्यै भरणाय पोषणाय भवसीति
+> शेषः । यद्यदा समस्यास्मदादिकस्य सर्वस्य जगतोऽन्ने जगत्स्थितिनिमित्त आहारे
+> मनीषा अन्नाभिलक्षणा बुद्धयोऽसन् भवेयुः । तदा सर्वस्य पोषणाय त्वं
+> भवसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, when will you eat our oblation-food (the word द्युम्नं (*dyumnaṃ*) is explained as the oblation, our food; "having eaten" is supplied)? By what rite will you make us, the worshippers, like yourself (त्वावतः (*tvāvataḥ*))? When will you come to us? You are true (सत्यः (*satyaḥ*)), faultless, like a friend. O widely renowned Indra, you are there for the nourishment and support of all. When the minds (मनीषाः (*manīṣāḥ*)) of the whole world, ours and others, are directed towards food, the means of the world's continuance, then you exist for the nourishment of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- कदु (*kadu*)—when
+- द्युम्नं (*dyumnaṃ*)—having eaten the oblation
+- कया धिया (*kayā dhiyā*)—by what kind of rite
+- नृन् (*nṛn*)—us, the sacrificers
+- त्वावतः (*tvāvataḥ*)—equal to you
+- करसे (*karase*)—will you make
+- नः (*naḥ*)—to us
+- कत् (*kat*)—when
+- आगन् (*āgan*)—will you come
+- उरुगाय (*urugāya*)—O Indra, praised in many ways
+- यत् (*yat*)—when
+- समस्यॆ (*samasyè*)—of the entire world
+- अन्ने (*anne*)—for the sake of food
+- मनीषाः (*manīṣāḥ*)—our praises
+- आसन् (*āsan*)—approach you, then
+- सत्यः (*satyaḥ*)—pure
+- मित्रो न (*mitro na*)—like a friend
+- भृत्यै (*bhṛtyai*)—you are ready for the nourishment of all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when, having eaten the oblation, and by what kind of rite will you make us, the sacrificers, equal to yourself? When will you come to us? O Indra, praised in many ways, when our praises approach you for the sake of the food of the whole world, then, like a pure friend, you are ready for the nourishment of all.
+
+### Printed p. 778
+
+##### English translation
+When, Indra, (having partaken of) our oblation, and by what sacred rite, will you render men resembling you? when will you bring them to us? you, who are widely renowned, are to us like a true friend, (attentive) for our support, when the minds of all were (anxious) for food.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेर॑य॒ सूरो॒ अर्थं॒ न पा॒रं ये अ॑स्य॒ कामं॑ जनि॒धा इ॑व॒  
+> ग्मन् ।  
+> गिर॑श्च॒ ये ते॑ तुविजात पू॒र्विर्नर॑ इंद्र प्रति॒शिक्षं॒त्यन्नैः॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ईरय । सूरः । अर्थं । न । पारं । ये । अस्य । कामं । जनिधाः इव । ग्मन् ।  
+> गिरः । च । ये । ते । तुविजात । पूर्वि । नरः । इंद्र । प्रतिशिक्षंति । आन्नैः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूरः सूर्योऽर्थं न यथार्तारं गंतारं योगिनमनुगृह्णन् पारं
+> संसारस्यांतमपवर्गं गमयति तथा हे इंद्र त्वं यजमानान्संसारस्यांतं
+> प्रेरय । गमय। येऽस्मदादयो यजमाना अस्य तवेंद्रस्य कामं सोमपाने
+> च्छां ग्मन । गमिरत्र विपूर्वोऽंतर्भावितण्यर्थश्च द्रष्टव्यः । विगमयंति महता
+> सोमपानेनापनयंति । तत्र दृष्टांतः । जनिधा इव जनीनां जायानां संभोगकाले शय्यासु धारयितारः पतयो यथा प्रभूतसंभोगप्रदानेन मैथुनेच्छामपनयंति तद्वत् । किंच नरो नेतारोऽस्मदादयो ये यजमाना हे तुविजात
+> बहुरूप । रूपंरूपं प्रतिरूपो बभूव । ऋ. ६-४७-१८ । इति वचनात् ।
+> सर्वात्मन्निंद्र ते तुभ्यं पूर्वीरनादिकालप्रवृत्ता गिरश्च स्तुतिलक्षणा वाचश्चान्नॆ
+> पुरोडाशादिहविभिः सह प्रतिशिक्षंति प्रतिकालं प्रयच्छंति तानस्मदीयान्यजमानान्सारं
+> गमयेति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+As the sun (सूरः (*sūraḥ*)), favouring the traveller, the yogin, takes him across to the far shore (पारं (*pāraṃ*)), the end of saṃsāra, liberation, so, O Indra, send the sacrificers to the end of saṃsāra. Those sacrificers, we and others, who fulfil (ग्मन् (*gman*)) this Indra's desire for Soma-drinking — the verb गमि (*gami*) is to be understood here with the prefix vi and a causative sense: they remove it by great Soma-drinking. The example: like जनिधा इव (*janidhā iva*), husbands who hold their wives on the bed at the time of union and remove their desire for intercourse by giving abundant enjoyment. Further, the leaders (नरः (*naraḥ*)), we and others, the sacrificers, O तुविजात (*tuvijāta*), multiform one — by the statement रूपंरूपं प्रतिरूपो बभूव । ऋ. ६-४७-१८ । (*rūpaṃrūpaṃ pratirūpo babhūva | ṛ. 6-47-18 |*) — O Indra, soul of all, offer to you in every season the ancient (beginningless) praises, speeches of eulogy, together with food-oblations such as the cake: bring those our sacrificers across; this connects with the first part.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जनिधा इव (*janidhā iva*)—as husbands fulfil their wives' wishes
+- ये (*ye*)—which sacrificers
+- अस्य (*asya*)—your
+- कामं (*kāmaṃ*)—desire for Soma-drinking
+- ग्मन् (*gman*)—fulfil; those sacrificers
+- सूरः अर्थं न (*sūraḥ arthaṃ na*)—as the sun takes yogins across saṃsāra
+- पारं (*pāraṃ*)—to the far shore of saṃsāra
+- प्रेरय (*preraya*)—bring
+- तुविजात (*tuvijāta*)—born in many kinds of form
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—addressing you
+- नरः (*naraḥ*)—the leaders
+- ये (*ye*)—which sacrificers
+- पूर्वीः (*pūrvīḥ*)—handed down from of old
+- गिरः च (*giraḥ ca*)—praises
+- अन्नॆ: (*annè:*)—with oblations
+- प्रतिशिक्षंति (*pratiśikṣaṃti*)—offer; carry those across saṃsāra
+
+### Printed p. 779
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those sacrificers who fulfil your desire for Soma-drinking as husbands fulfil their wives' wishes — as the sun takes yogins across saṃsāra, so you also bring them to the farther shore of saṃsāra. O Indra, born in many forms, those sacrificers, leaders, who offer to you the praises handed down from of old with oblations — carry them across saṃsāra.
+
+##### English translation
+As the sun (brings) the ascetic, you bring to the end (of existence) (your worshippers), who satisfy your desire (for the Soma), as husbands (the desire of their wives); and who (being) leaders of rites, multiform Indra, offer to you ancient praises with (sacrificial) viands.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मात्रे॒ नु ते॒ सुमि॑ते इंद्र पू॒र्वी द्यौर्म॒ज्मना॑ पृथि॒वी  ॑
+> काव्येन ।  
+> वरा॑य ते घृ॒तवं॑तः सु॒तासः॒ स्वाद्म॑न्भवंतु पी॒तये॒  ॑
+> मधूनि ॥ ६ ॥
+
+### Printed p. 780
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मात्रेऽइति । नु । ते । सुमिते इति सुमिते । इंद्र । पूर्वि इति । द्यौः । मज्मना ।  
+> पृथिवी । काव्येन ।  
+> वराय । ते । धृतवंतः ! सुतासः । स्वाद्मन् । भवंतु । पीतये । मधूनि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव स्वभूतेन मज्जना शत्रोणां मज्जकेन काव्येन कर्मणा
+> द्याः पृथिवी द्यावापृथिव्या नु क्षिप्रं सुमिते । निर्मिते । कीदृश्या मात्रे निर्मात्र्यौ
+> पूर्वी पूर्व्य महत्यौ । यस्मादीदृशेन महत्वेन युक्तः तस्माद्कृतवंतोऽग्निमुखत्वात् त्वां क्षरंतो दीप्तिमंतो वा सुसंस्कृतत्वात् यद्वाज्यासंयुक्ताः
+> सुतासोऽभिषुताः सोमा वराय श्रेष्ठाय तुभ्यमिंद्राय स्वादन् भवंतु ।
+> आस्वादिताः संतु । किमर्थं । पीतये पानाय । मधूनि मधुररसात्मकानि पुरोडाशादीन्न्यन्नानि हवींषि भक्षणार्थं दत्तानि भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by your own crushing action (मज्मना (*majmanā*), that which crushes enemies), your poetic deed (काव्येन (*kāvyena*)), heaven and earth, the two measurers, great and ancient (पूर्वी (*pūrvī*)), have quickly been fashioned (सुमिते (*sumite*)). Since you possess such greatness, the Soma-pressings (सुतासः (*sutāsaḥ*)), either ghee-bearing because they are well prepared with the fire as their mouth, or mixed with ghee, shining, be sweet (स्वाद्मन् भवंतु (*svādman bhavaṃtu*)) to you, the most excellent, for drinking. And may sweet (मधूनि (*madhūni*)) oblations, cakes and other foods of sweet flavour, be given to be eaten.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- मज्मना (*majmanā*)—endowed with power
+- काव्येन (*kāvyena*)—by the deed
+- मात्रे (*mātre*)—the makers of the world
+- पूर्वी (*pūrvī*)—possessing great form
+- द्यौः पृथिवी (*dyauḥ pṛthivī*)—heaven and earth, both
+- नु (*nu*)—quickly
+- सुमिते (*sumite*)—have been fashioned
+- घृतवंतः (*ghṛtavaṃtaḥ*)—mixed with ghee
+- सुतासः (*sutāsaḥ*)—pressed Soma juices
+- वराय ते (*varāya te*)—to you, the most excellent
+- पीतये (*pītaye*)—for drinking
+- स्वाद्मन् भवंतु (*svādman bhavaṃtu*)—let them be offered, tasty
+- मधूनि (*madhūni*)—let sweet oblations also be offered
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your powerful deed heaven and earth, the makers of the world and of great form, have quickly been fashioned. May the Soma juices, mixed with ghee and pressed, be offered tasty to you, the most excellent, for drinking. May sweet oblations also be offered.
+
+##### English translation
+By your overwhelming energy, Indra, the vast heaven and earth, the measurers (of all), have been quickly constructed: may the Soma-
+
+### Printed p. 781
+libations mixed wiht ghee be acceptable to (you) who are most excellent : (may the oblations be) sweet for your drinking.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मध्यो॑ अस्मा असिच॒न्नम॑त्र॒मिंद्रा॑य पू॒र्णं स हि स॒त्यरा॑धाः ।  
+> स वा॑वृधे॒ वरि॑म॒न्ना पृ॑थि॒व्या अ॒भि क्रत्वा॒ नर्यः॒ पौंस्यै॑श्च ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मध्यः । अस्मै । असिचन् । अमत्रं । इंद्राय ! पूर्णं । सः । हि । सत्यराधाः ।  
+> सः । ववृधे । वरिमन् । आ । पृथिव्याः । अभि । क्रत्वा । नर्यः । पौंस्यैः । च ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आस्मा इंद्रायेंद्रार्थं मध्वो मधुररसस्य सोमस्य पूर्णममत्रं
+> ग्रहचमसादिकं पात्रमासिचन् । अभिमुख्येन स्थित्वा परया भक्त्यास्मदीया ऋत्विजः
+> सिक्तवंतः । अग्नौ प्रक्षिप्तवंतः । हि यस्मात्कारणात्स इंद्रः सत्यराधाः सत्यधनः । यजमानेभ्यो दातव्यत्वेनाविसंवादिधन इत्यर्थः। तस्मादसिचन्निति संबंधः। अग्नावासिकेन
+> तेन पात्रेण तृप्तः स इंद्रः पृथिव्या अंतरिक्षस्य वरिमन्नतिशयेन विस्तीर्णे स्थान
+> आगत्याभि ववृधे। अभिवर्धते। कीदृश इंद्रः। नर्यो नृभ्यो हितः । क्रत्वा वृत्रवधादिकर्मणा प्रज्ञानेन वा पौंस्यैश्च युक्त इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Our priests, standing before him with supreme devotion, have poured (*āsican*), that is, cast into the fire, for this Indra a vessel (अमत्रं (*amatraṃ*): a cup such as the graha or camasa) full of sweet Soma. Because that Indra is सत्यराधाः (*satyarādhāḥ*), of true wealth — wealth that, as something to be given to the sacrificers, does not fail — therefore they poured; this is the connection. Satisfied by that vessel poured into the fire, Indra comes to the exceedingly wide space of the earth, that is, the atmosphere (पृथिव्याः (*pṛthivyāḥ*)), and grows (ववृधे (*vavṛdhe*)). What kind of Indra? नर्यः (*naryaḥ*), beneficial to men, endowed with his act (क्रत्वा (*kratvā*): Vṛtra-slaying and other deeds, or wisdom) and with manly powers (पौंस्यैः (*pauṃsyaiḥ*)); "endowed" is supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हि (*hi*)—by what power
+- सः (*saḥ*)—Indra
+- सत्यराधाः (*satyarādhāḥ*)—because he possesses true wealth
+- अस्मै इंद्राय (*asmai iṃdrāya*)—for this Indra
+- मध्वः (*madhvaḥ*)—with sweet Soma juice
+- पूर्णं (*pūrṇaṃ*)—filled
+- अमत्रं (*amatraṃ*)—the vessel
+- असिचन् (*asican*)—they offer
+- नरैः (*naraiḥ*)—beneficial to men
+- क्रत्वा (*kratvā*)—and by excellent action
+- पौंसैश्च (*pauṃsaiśca*)—and by valour
+- सः (*saḥ*)—Indra, so endowed
+- आ पृथिव्याः (*ā pṛthivyāḥ*)—of the atmosphere
+- वरिमन् (*variman*)—in the wide region
+- अभि ववृधे (*abhi vavṛdhe*)—grows
+
+### Printed p. 782
+
+##### भावार्थ (Bhāvārtha)
+
+By the power through which Indra is possessor of true wealth, therefore they offer to this Indra a vessel full of sweet Soma juice. Indra, beneficial to men and endowed with excellent action and valour, grows in the wide region of the atmosphere.
+
+##### English translation
+(The worshipper) have poured out the vessel full of the sweet (Soma) (into the fire) for that Indra, for he is true (to his promises) of wealth : Indra, the friend of man, (distinguished) by his actions, and his prowess, is magnified throughout the expanse of the firmament.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्या॑न॒ळिंद्रः॒ पृत॑नाः॒ स्तोजा॒ आस्मै॑ यतंते स॒ख्याय॑ पू॒र्वीः।  
+> आ स्मा॒ रथं॒ न पृत॑नासु तिष्ठ॒यं भ॒द्रया॑ सुम॒त्या चो॒दया॑से ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । आनट् । इंद्रः । पृतनाः ! सुओजाः । आ । अस्मै । यतंते । सख्याय । पूर्वीः ।  
+> आ । स्म । रथं । न । पृतनासु । तिष्ठ । यं । भद्रया । सुमत्या । चोदयासे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्टोजा शोभनबल इंद्रः पृतनाः शत्रुसेना व्यानट् । व्याप्तोति । स इंद्रः
+> संग्रामेषु केनाप्यप्रतिहन्यमानः सङ्ज्यत्रूञ्चयतीत्यर्थः । किंच पूर्वीः । अत्र
+> पूर्वशब्द उत्कृष्टवाची । उत्कृष्टाः शत्रुसेना अप्रभवंत्यः सत्योऽस्मा अस्येंद्रस्य
+> सख्याय संधित्वलक्षणाय सखित्वाया यतंते । संधिं कर्तुमिच्छंतीत्यर्थः ।
+> अपरोऽर्धर्चः प्रत्यक्षकृतत्वाद्दिन्नं वाक्यं । हे इंद्र त्वं यं स्वीयं रथं भद्रया
+> कल्याण्या सुमत्या शोभनया परानुग्रहया बुद्ध्या चोदयासे यज्ञानृति
+
+##### Gist of the bhāṣya
+
+Indra, of fine strength, pervades (व्यानट् (*vyānaṭ*)) the enemy armies (पृतनाः (*pṛtanāḥ*)): unopposed by anyone in battles he conquers the enemies. Further पूर्वीः (*pūrvīḥ*): here the word पूर्व (*pūrva*) means excellent; the excellent enemy armies, though powerless, strive (यतंते (*yataṃte*)) for friendship with this Indra, that is, for alliance; they wish to make peace. The latter half of the verse is a separate sentence, being addressed directly: O Indra, the chariot of your own which you drive with auspicious, fine, others-favouring thought, in the sacrifices ….
+
 ---
 
-**Progress note:** Done through printed p. 776. pp. 770-776 (batch API)
+**Progress note:** Done through printed p. 782. pp. 777-782 (batch API)
