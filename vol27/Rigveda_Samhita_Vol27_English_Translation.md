@@ -18232,6 +18232,317 @@ Those who have studied the Veda in the prescribed manner can become free of the 
 Hell
 Since the good attain the fruit of heaven and so on in the next world, there must be a separate place for the most sinful, even if punishments are not prescribed for them. In the Atharvaveda and the Kaṭha Upaniṣad it is clearly said that such persons experience in hell the fruit of their sinful deeds. As the counterpart to the world of heaven (A. Ve. 12-4-36) there is the world of hell (the nether world) where female piśācas and the like dwell (A. Ve. 2-14-3; 5-19-3); in this very world the murderer suffers punishment (Vā. Saṃ. 30-5). This world is described as darkness (तमस्सु (*tamassu*)) in the lowest region (A. Ve. 8-8-24; etc.), darkness enveloped in gloom (A. Ve. 5-30-11), blind darkness (अंधंतमस्सु (*aṃdhaṃtamassu*), A. Ve. 18-3-3), and so on. The sufferings of hell are described in A. Ve. 5-19 and still more fully in Śa. Brā. 11.6-1. The same Brāhmaṇa says: after the death of everyone he is born again;
 
+### Printed p. 513
+
+…he weighs his deeds in the balance, and according to his good and evil deeds experiences happiness and sorrow (compare Śa. Brā. 11-2-7-33; 12-9-1-1). Yet the Ṛgveda too is not without a basis for the existence of such a place of suffering. (This is *gabhīraṃ padam*:) "This deep place has been created for the most sinful, the speakers of untruth and the untruthful" (4-5-5). Indra and Soma are entreated to hurl the sinful into the nether world, into bottomless darkness, so that not one of them rises up again (7-104-3). Let the rākṣasī too, who roams like an owl so that no one sees her, fall into the darkness (7-104-12). Let the hater and the robber fall beneath the three earths (7-104-11). These sentences tell only that there is, beneath the earth, a region covered in darkness. The happiness of the world of the earth is the chief aim; happiness and sorrow after death are not so important. In the Brāhmaṇas it is said that those who did good deeds and those who did evil deeds are born again in another world and experience the fruits of their respective deeds (Śa. Brā. 6-2-2-27; 10-6-3-1); but the length of time of this reward or punishment is not stated. There is also a belief that those who do not rightly know the procedure of the sacrificial rites and do not perform them depart from the world of the earth to another world before the time fixed for them (Śa. Brā. 11-2-7-33).
+
+It may be said that the Vedas give no basis for the belief that after death each person undergoes a judgement, as good or bad, according to his own deeds. The one or two sentences quoted above are not clear. In the Taittirīya Āraṇyaka (Tai. Ā. 6-5-13) it is said that Yama separates those who walk the good path from those who walk the bad path; it is not said that he is the supreme authority for making this decision.
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मैनमिति चतुर्दशर्चं षोडशं सूक्तं । यमपुत्रस्य दमनस्यार्षं ।
+> आदितो दश त्रिष्टुभः ततश्चतस्रोऽनुष्टुभः । अग्निर्देवता । तथा चानुक्रांतं ।
+> मैनं दमन आग्नेयं चतुरनुष्टुबंतमिति ॥ दीक्षितमरण आद्याः षडृचः शंसनीयाः ।
+> सूत्रिशं च । मैनमग्ने वि दहो माभि शोच इति षट् पूषा त्वेतश्वावयतु प्र
+> विद्वान् । आ. ६-१०- । इति ॥ दह्यमानस्य प्रेतस्कोपस्थानेऽप्येताः शंसनीयाः ॥
+
+##### Gist of the bhāṣya
+
+This is the sixteenth sūkta, "मैनं (*mainaṃ*)", of fourteen Ṛks. Its seer is Damana, son of Yama. The first ten Ṛks are in triṣṭubh, the following four in anuṣṭubh; the deity is Agni. He quotes the Anukramaṇī: मैनं दमन आग्नेयं चतुरनुष्टुबंतमिति (*mainaṃ damana āgneyaṃ caturanuṣṭubaṃtamiti*). When one who has undergone the dīkṣā dies (dīkṣitamaraṇa), the first six Ṛks are to be recited (śaṃsanīya), and the Sūtra (Ā. 6-10) says: मैनमग्ने वि दहो माभि शोच इति षट् (*mainamagne vi daho mābhi śoca iti ṣaṭ*) and so on. These six are also to be recited when the body of the dead man is being burnt, at the Agni-upasthāna.
+
+##### Anuvāda (Kannada)
+
+This sūkta "Mainam" is the sixteenth sūkta in the first anuvāka. It has fourteen Ṛks. Its seer is Damana, son of Yama. 
+
+### Printed p. 514
+
+The first ten Ṛks of this sūkta are in the triṣṭubh metre; the next four are in the anuṣṭubh metre; Agni is the deity. In the Anukramaṇī it is said: Mainam, Damana, Āgneya, with four anuṣṭubh at the end. If the sacrificer who is performing a sacrifice has taken the sacrificial consecration and dies before the sacrifice is completed, then the first six Ṛks of this sūkta are to be recited; this is explained by the Sūtra of the Āśvalāyana Śrautasūtra, "Mainamagne vidaho mābhi śoca iti ṣaṭ pūṣā śvetaś cāvayatu pra vidvān" (Ā. 6-10). In the funeral rite, while the dead body is being burnt, these six Ṛks are recited and Agni is to be approached (upasthāna).
+
+Sūkta 16
+Maṇḍala 10; Anuvāka 1; Sūkta 16.
+Aṣṭaka 7; Adhyāya 6; Varga 20, 21, 22.
+Number of Ṛks in the sūkta: 14.
+Ṛṣi: Damana Yāmāyana.
+Devatā: Agni.
+Metre: 1-10 triṣṭubh; 11-14 anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मैन॑मग्ने॒ वि द॑हो॒ माभि शो॑चो॒ मास्य॒ त्वचं॑ चिक्षिपो॒ मा  ॑
+> शरीरं ।  
+> य॒दा शृ॒तं कृ॒णवो॑ जातवे॒दोऽथे॑मेनं॒ प्र हि॑णुतात्पि॒तृभ्यः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । एनं । अग्ने । वि । दहः । मा । अभि । शोचः । मा । अस्य । त्वचं । चिक्षिपः ।  
+> मा । शरीरं ।  
+> यदा । शृतं । कृणवः । जातवेदः । अथ । ईं । एनं । प्र । हिणुतात् । पितृभ्यः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने एनं प्रेतं मा वि दहः । विशेषेण दग्धं भस्मीभूतं मा कुरु ।
+> माभि शोचः । अभितः शोकेन संतापेन युक्तं मा कुरु । अस्य त्वचं मा चिक्षिपः ।
+
+##### Gist of the bhāṣya
+
+"O Agni, do not burn this dead man utterly (vi dahaḥ): do not make him wholly burnt to ashes. Do not afflict him (mā abhi śocaḥ): do not make him joined with grief, with scorching, on all sides. Do not scatter (mā cikṣipaḥ) his skin: do not make it flung here and there; and do not scatter the body either."
+
+### Printed p. 515
+
+> इतस्ततो विक्षिस्तं मा कुरु । शरीरमपि विक्षिप्तं मा कुरु । हे जातवेदोऽग्ने
+> यदा त्वं शृतं पक्वं सुदग्धं कृणवः करिष्यसि अथ तदानीमीमेनं प्रेतं पितृभ्यः
+> प्र हिणुतात् । पितृसमीपे प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+"O Jātavedas Agni, when you make him cooked (śṛtam), that is, well burnt, then send (pra hiṇutāt) this dead man to the Pitṛs: dispatch him to the Pitṛs' presence."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एनं (*enaṃ*)—this dead man
+- मा वि दहः (*mā vi dahaḥ*)—do not burn completely
+- अस्य (*asya*)—of this dead man
+- त्वचं (*tvacaṃ*)—the skin
+- मा चिक्षिपः (*mā cikṣipaḥ*)—do not scatter
+- शरीरं (*śarīraṃ*)—the body also
+- मा (*mā*)—do not scatter
+- जातवेदः (*jātavedaḥ*)—O Agni
+- यदा (*yadā*)—when
+- शृतं (*śṛtaṃ*)—so as to be cooked
+- कृणवः (*kṛṇavaḥ*)—you make
+- अथ (*atha*)—immediately then
+- ईं (*īṃ*)—this dead man
+- पितृभ्यः (*pitṛbhyaḥ*)—to the Pitṛs
+- प्रहिणुतात् (*prahiṇutāt*)—send away
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, do not burn this dead man completely. Do not torment him greatly either. Do not scatter either the skin or the body of this dead man. O Agni, when you have made it cooked, immediately send it to the world of the Pitṛs.
+
+##### English translation
+Agni, consume him not entirely ; afflict him not ; scatter not (here and there) his skin nor his body ; when Jatavedas, you have rendered him mature, then send him to the Pitris
+
+##### विशेषविषयगळु (Special Topics)
+
+It is said that the particle (indeclinable) आ (*ā*) also has the sense of combination ("and"), and in support of this the very sentence of this Ṛk, देवेभ्यश्च पितृभ्य आ (*devebhyaśca pitṛbhya ā*), is given as an example. The word आ (*ā*) in this sentence has the meaning "and" (च (*ca*)).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒तं य॒दा कर॑सि जातवे॒दोऽथे॑मेनं॒ परि॑ दत्तात्पि॒तृभ्यः॑ ।  
+> य॒दा गच्छा॒त्यसु॑नीतिमे॒तामथा॑ दे॒वानां॑ वश॒नीर्भ॑वाति ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृतं । यदा । करसि । जातवेदः । अथ । ईं । एनं । परि । दत्तात् । पितृभ्यः ।  
+> यदा । गच्छति । आसुनीतिं । एतां । अथ । देवानां । वश्यनीः । भवाति ॥ २ ॥
+
+### Printed p. 516
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदः यदा प्रेतशरीरं शृतं पक्वं करसि करिष्यसि अथें तदानीमेवैनं प्रेतं पितृभ्यः परि दत्तात् । प्रयच्छ । यदायं प्रेत एतामग्निना
+> कृतामसुनीतिं प्राणस्य नयनं प्राणप्रेरणं गच्छाति प्राप्नोति अथ तदानीमेव
+> देवानां वशनीर्दॆवानां वशं प्रापितो भवति ॥
+
+##### Gist of the bhāṣya
+
+"O Jātavedas, when you make (karasi, for 'will make') the dead man's body cooked, then at that very time give him over (pari dattāt) to the Pitṛs: hand him over. When this dead man reaches this asunīti made by Agni, the leading (nayana) of the breath, the impelling of the breath, then at that very time he is brought under the control of the gods (devānāṃ vaśanīḥ)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni
+- यदा (*yadā*)—when
+- शृतं करसि (*śṛtaṃ karasi*)—you make this body cooked
+- अथ ईं (*atha īṃ*)—immediately then
+- एनं (*enaṃ*)—this (this dead man)
+- पितृभ्यः (*pitṛbhyaḥ*)—into the control of the Pitṛs
+- परि दत्तात् (*pari dattāt*)—send away
+- यदा (*yadā*)—when
+- एतां असुनीतिं (*etāṃ asunītiṃ*)—this bodiless state of a Pitṛ **NOTE**
+- गच्छाति (*gacchāti*)—he reaches
+- अध (*adha*)—immediately then
+- देवानां (*devānāṃ*)—to the gods
+- वशनीः (*vaśanīḥ*)—subject
+- भवाति (*bhavāti*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, when you make this dead man cooked, then send him to the presence of the Pitṛs. As soon as he attains the bodiless state of a Pitṛ, he becomes subject to the gods.
+
+##### English translation
+When you have rendered him mature, then give him up, Jatavedas, to the Pitris; when he proceeds to that world of spirits, then he becomes subject to the will of the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर्यं॒ चक्षु॑र्गच्छतु॒ वात॑मा॒त्मा द्यां च॑ गच्छ पृथि॒वीं च॒  ॑
+> धर्मणा ।  
+> अ॒पो वा॑ गच्छ॒ यदि॒ तत्र॑ ते हि॒तमोष॑धीषु॒ प्रति॑ तिष्ठा॒  ॑
+> शरीरैः ॥ ३ ॥
+
+### Printed p. 517
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यं । चक्षुः । गच्चतु । वातं । आत्मा । द्यां । च । गच्छ । पृथिवीं । च । धर्मणा ।  
+> अपः । वा । गच्छ । यदि । तत्र । ते । हितं । ओषधीषु । प्रति । तिष्ठ । शरीरैः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे प्रेत ते त्वदीयं चक्षुरिंद्रियं सूर्यं गच्छतु । प्राप्नोतु । आत्मा
+> प्राणो वातं वाह्यं वायुं गच्छतु ! अपि च त्वमपि धर्मणा सुकृतेन तत्पलं
+> भोक्तुं द्यां च । अत्र चशब्दो विकल्पार्थे । द्युलोकं वा पृथिवीं च पृथिवीं
+> वा गच्छ । प्राप्नुहि । अपो वांतरिक्षलोकं गच्छ । प्राप्नुहि । तत्रांतरिक्षे हितं
+> स्थापितं ते तव कर्मफलमोषधीषु शरीरैः शरीरावयवै प्रति तिष्ठ ।
+
+##### Gist of the bhāṣya
+
+"O dead man, let your eye, the organ of sight, go to the sun: let it reach it. Let your self (ātmā), the breath, go to the wind (vāta), the external air. Further, you also, by dharma, by your meritorious deed, to enjoy its fruit, go to heaven (dyām) and to the earth; here the word च (*ca*) has the sense of option: go to the heaven-world or reach the earth. Or go to the waters (apaḥ), the world of the atmosphere: reach it. There, in the atmosphere, whatever is placed (hitam) as the fruit of your deed, abide (prati tiṣṭha) in the plants (oṣadhīṣu) with your limbs (śarīraiḥ), the parts of the body."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चक्षुः (*cakṣuḥ*)—(O dead man) your organ of sight
+- सूर्यं (*sūryaṃ*)—to the sun **NOTE**
+- गच्छतु (*gacchatu*)—let it go and join
+- अत्मा (*atmā*)—your breath
+- वातं (*vātaṃ*)—let it join the wind
+- धर्मणा (*dharmaṇā*)—according to your deed
+- द्यां च (*dyāṃ ca*)—whether to the heaven-world
+- पृथिवीं च (*pṛthivīṃ ca*)—or to the earth-world
+- गच्छ (*gaccha*)—go and join
+- यदि (*yadi*)—if
+- तत्र (*tatra*)—there
+- ते (*te*)—to you
+- हितं (*hitaṃ*)—it is favourable
+- अपो वा (*apo vā*)—or to the world of the atmosphere
+- गच्छ (*gaccha*)—go and join
+- शरीरैः (*śarīraiḥ*)—with the parts of your body
+- ओषधीषु (*oṣadhīṣu*)—in the plants
+- प्रति तिष्ठ (*prati tiṣṭha*)—be established
+
+##### भावार्थ (Bhāvārtha)
+
+O dead man, let your organ of sight go to the sun and join it. Let your breath join the wind. According to your deed, let it go and join either the heaven-world or the earth-world. If it is favourable to you, be established in the atmosphere; let the parts of your body be established in the plants.
+
+##### English translation
+Let the eye repair to the sun; the breath to the wind; go you to the heaven or to the earth, according to your merit; or go to the waters if it suits you (to be) there, or abide with your members in the plants.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒जो भा॒गस्तप॑सा॒ तं त॑पस्व॒ तं ते॑ शो॒चिस्त॑पतु॒ तं ते॑ अ॒र्चिः।  
+> यास्ते॑ शि॒वास्त॒न्वो॑ जातवेद॒स्टाभि॑र्वहैनं सु॒कृता॑मु लो॒कं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> 519	సకలభాష్యము	। మం. १५ २. १. ३७. ४  
+> १ चन्नबसवण्णन  
+> “जः । भागः । तपसा । तः तपस्त्युं ते शोचॆः । तपतु । तं । शे ' अर्चः ।  
+> याः । ते । शिवा । तन्न । जात्रवेदः । ताभिः । वह । एनं । सुकृतां । ऊं इति ।  
+> लोकं ॥ ४
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अजो जननरहितः शरीरेंद्रियादिभागव्यतिरिक्तोऽंतरपुरुषलक्षणो यो
+> भागोऽस्ति हे अग्ने ते त्वदीयेन तपसा तापनेन तं तादृशं भागं तपस्व . तप्तं
+> कुरु । कथा ते तव शोचिः शोकहेतुज्वालाविशेषस्तं भागं तपतु । संस्करोतु ।
+> अपि च ते तवार्चिर्भासको ज्वालाविशेषस्तं भागं तपतु : संस्करोतु । तपःशोचि.
+> रचीशब्दानां संतापतारतम्येन भेदः । हे जातवेदः ते तव यास्तन्वो मूर्तयः
+> शिवा सुखहेतवो न तु तापप्रदाः ताभिरेनं तनूभिः प्रेतं सुकृतां शोभनकर्मकारिणां लोकं स्थानं वह । प्रापय । उशब्दः पूरणः ॥
+
+##### Gist of the bhāṣya
+
+"The portion (bhāga) that is unborn (ajaḥ), without birth, distinct from the parts such as body and organs, of the nature of the inner person: O Agni, with your heat (tapasā), your scorching, heat that portion (tapasva). Let your śociḥ, a special flame that is a cause of burning grief, heat it, that is, purify it (saṃskarotu). And let your arciḥ, a shining special flame, heat it, purify it. The words tapas, śociḥ and arciḥ differ by degrees of heat. O Jātavedas, those bodies (tanvaḥ), forms, of yours that are auspicious (śivā), causes of happiness and not givers of heat: with those bodies carry (vaha) this dead man to the world, the place, of those who did good deeds (sukṛtām). The word उ (*u*) is a filler."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजः (*ajaḥ*)—that which is not born
+- भागः (*bhāgaḥ*)—whatever portion there is
+- तं (*taṃ*)—that portion
+- तपसा (*tapasā*)—with your flame
+- तपस्व (*tapasva*)—burn
+- ते (*te*)—your
+- शोचिः (*śociḥ*)—special flame
+- तं (*taṃ*)—that portion
+- तपतु (*tapatu*)—let it purify
+- ते (*te*)—your
+- अर्चिः (*arciḥ*)—the shining flame let it purify
+- जातवेदः (*jātavedaḥ*)—O Agni
+- याः तन्वः (*yāḥ tanvaḥ*)—whichever parts of your body
+- शिवाः (*śivāḥ*)—are auspicious
+- ताभिः (*tābhiḥ*)—with them
+- एनं (*enaṃ*)—this dead man
+- सुकृतां (*sukṛtāṃ*)—of the doers of good deeds
+- लोकं (*lokaṃ*)—to the place
+- वह (*vaha*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, burn with your flame whatever portion there is that is not born. Let your śociḥ and arciḥ (special flames) purify that portion. O Agni, with whichever parts of your body are auspicious, carry this dead man to the place of those who did good deeds.
+
+##### English translation
+The unborn portion ; burn that, Agni, with your heat ; let your flame, your splendour, consume it ; with those glorious members which you have given him, Jatavedas, bear him to the world (of the virtuous).
+
+### Printed p. 519
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धाभिः॑ ।  
+> आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेषः॒ सं ग॑च्चतां त॒न्वा॑ जातवेदः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । सृज । पुनः । अग्ने । पितृभ्यः । यः । ते । आहुतः । चरति । स्वधाभिः ।  
+> आयुः । वसानः । उप । वेतु । शेषः । सं । गच्छतां । तन्वा । जातवेदः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने य प्रेतः पुमानाहुतश्चितौ मंत्रेण समर्पितः सन् स्वधाभिः स्वधाकारसमर्पितैरुदकादिभिः सह चरति तं प्रेतं पितृभ्यः पितृप्राप्त्यर्थं पुनरव सृज ।
+> भूयः प्रेरय । अयं प्रेत आयुर्जीवनं वसान आच्छादयन् । आयुषा युक्त
+> इत्यर्थः । शेषः शिष्यमाणमस्थिलक्षणं यजनीयं शरीरमुप वेतु । उपगच्छतु ।
+> हे जातवेदः तव प्रसादात्तन्वा शरीरेण सं गच्छतां । संगतो भवतु ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the dead man who, offered (āhutaḥ) on the pyre with a mantra, moves with the svadhās, the water and the like offered with the svadhā-cry: send that dead man again (punaḥ ava sṛja) to the Pitṛs, in order to reach the Pitṛs; impel him once more. Let this dead man, clothing himself in life (āyuḥ vasānaḥ), that is, joined with life, let the remainder (śeṣaḥ), the remaining bony body fit for sacrifice, come up (upa vetu), approach. O Jātavedas, by your grace let him be united (saṃ gacchatām) with a body (tanvā), become joined."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who knows all that is born
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the dead man who
+- ते (*te*)—your
+- आहुतः (*āhutaḥ*)—offered on the pyre
+- स्वधाभिः (*svadhābhiḥ*)—with water and the like in the form of svadhā
+- चरति (*carati*)—moves; that dead man
+- पितृभ्यः (*pitṛbhyaḥ*)—to the presence of the Pitṛs
+- पुनः (*punaḥ*)—again
+- अव सृज (*ava sṛja*)—send away
+- आयुः (*āyuḥ*)—the life of the world of the Pitṛs
+- वसानः (*vasānaḥ*)—having attained
+- शेषः (*śeṣaḥ*)—the portion remaining after burning
+- उपवेतु (*upavetu*)—let it approach the world of the Pitṛs
+- तन्ना (*tannā*)—with that body
+- सं गच्छतां (*saṃ gacchatāṃ*)—let it be united
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are Jātavedas, send again to the presence of the Pitṛs the dead man who, offered on your pyre, moves with the water and the like in the form of svadhā. Let him attain the life of the world of the Pitṛs, and, as the remainder of what was burnt, approach the world of the Pitṛs. Let him be united with that body.
+
+##### English translation
+Dismiss again to the Pitris, Agni him who, offered on you, comes with the Swadhas : putting on (celestial) life, let the remains (of bodily life) depart : let him, Jatavedas, be associated with a body.
+
 ---
 
-**Progress note:** Done through printed p. 512. pp. 507-512 (batch API)
+**Progress note:** Done through printed p. 519. pp. 513-519 (batch API)
