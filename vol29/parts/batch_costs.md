@@ -28,3 +28,4 @@
 | 26 | through p. 484 (three windows in one agent: pp. 465–484) | sonnet | 22 | 207579 | 7.4 |
 | 27 | through p. 504 (three windows in one agent: pp. 485–504) | sonnet | 20 | 223714 | 7.6 |
 | 28 | through p. 523 (three windows in one agent: pp. 505–523) | sonnet | 14 | 171887 | 4.5 |
+| 29 | through p. 543 (three windows in one agent: pp. 524–543) | sonnet | 27 | 241669 | 7.0 |
