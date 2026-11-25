@@ -740,3 +740,169 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 150 | `patnīgṛhya eṣo 'gnir bhavati` → `patnigṛhya eṣognir bhavati` | SECOND-PASS S7: Kannada p.150 ಪತ್ನಿಗೃಹ್ಯ ಏಷೋಗ್ನಿರ್ಭವತಿ (IAST partner) |
 | 150 | `इन्द्रस्य त्रिशतं` → `ऐंद्रस्य त्रिशतं` | SECOND-PASS S7: Kannada p.150 ಐಂದ್ರಸ್ಯ ತ್ರಿಶತಂ (Devanagari) |
 | 150 | `indrasya triśataṃ` → `aiṃdrasya triśataṃ` | SECOND-PASS S7: Kannada p.150 ಐಂದ್ರಸ್ಯ ತ್ರಿಶತಂ (IAST partner) |
+
+### 2026-11-25 second pass, batch e151-180.tsv
+| page | old → new | why |
+|---|---|---|
+| 151 | `95 more mantras` → `959 more mantras` | SECOND-PASS S1: Kannada p.151 ೯೫೯ ಮಂತ್ರಗಳು ಹೆಚ್ಚಾಗಿರುವವು (959) |
+| 153 | `"[20?]"` → `"[90]"` | SECOND-PASS S1: Kannada p.153 stray line prints [ 90 ] |
+| 153 | `## 10. Kālabavins` → `## 12. Kālabavins` | SECOND-PASS S1: Kannada p.153 heading ೧೨. ಕಾಲಬವಿನಃ |
+| 154 | `## 12. Raurukins` → `## 2. Raurukins` | SECOND-PASS S1: Kannada p.154 heading ೨. ರೌರಿಕಿಣಃ (applied as printed) |
+| 154 | `## 15. Keradviṣas` → `## 15. Karadviṣas` | SECOND-PASS S13: Kannada p.154 heading ೧೫. ಕರದ್ವಿಷಃ |
+| 156 | `(2-35-71 and 72)` → `(2-35-71 and 2)` | SECOND-PASS S1: Kannada p.156 ಬ್ರಹ್ಮಾಂಡಪುರಾಣದಲ್ಲಿಯೂ (೨-೩೫-೭೧ ಮತ್ತು ೨) |
+| 158 | `12th and 23rd chapters` → `12th and 20th chapters` | SECOND-PASS S1: Kannada p.158 ಹನ್ನೆರಡನೆಯ ಮತ್ತು ಇಪ್ಪತ್ತನೆಯ ಅಧ್ಯಾಯಗಳಲ್ಲಿ |
+| 159 | `house of Patañjala Kāpya` → `house of Patañjali Kāpya` | SECOND-PASS S13: Kannada p.159 ಪತಂಜಲಿಕಾಪ್ಯರ ಮನೆಯಲ್ಲಿ |
+| 160 | `which was with Roth until 1876` → `which was with Roth until 1875` | SECOND-PASS S1: Kannada p.160 ೧೮೭೫ರವರೆಗೂ ರಾತ್‌ರವರಲ್ಲೇ |
+| 160 | `[No. 6662]` → `[No. 662]` | SECOND-PASS S1: Kannada p.160 [೬೬೨ನೆಯ ನಂಬರು] |
+| 160 | `Sukeśa and Bhāradvāja` → `Sukeśa and Bharadvāja` | SECOND-PASS S13: Kannada p.160 ಸುಕೇಶಾ, ಭರದ್ವಾಜ |
+| 161 | `"[20?]"` → `"[20]"` | SECOND-PASS S1: Kannada p.161 stray line prints [೨೦] |
+| 161 | `पिप्पलादद्दृष्टः` → `पिप्पलाददृष्टः` | SECOND-PASS S7: Kannada p.161 ಪಿಪ್ಪಲಾದದೃಷ್ಟಃ (the English IAST pippalādadṛṣṭaḥ was right; Devanagari had द्दृ) |
+| 164 | `[in 1932]` → `[in 1921]` | SECOND-PASS S1: Kannada p.164 [ಕ್ರಿ. ಶ. ೧೯೨೧] |
+| 164 | `*Daṃtyoṣṭhya-vidhi*` → `*Daṃtoṣṭha-vidhi*` | SECOND-PASS S13: Kannada p.164 “ದಂತೋಷ್ಠವಿಧಿ” (title as printed; remark [as printed] follows) |
+| 165 | `Atharva-pariśiṣṭa [3rd khaṇḍa]` → `Atharva-pariśiṣṭa [2nd khaṇḍa]` | SECOND-PASS S1: Kannada p.165 [೨ನೆಯ ಖಂಡ] |
+| 165 | `## 7. Brahmavadas` → `## 2. Brahmavadas` | SECOND-PASS S1: Kannada p.165 heading ೨. ಬ್ರಹ್ಮವದಾಃ (applied as printed) |
+| 165 | `देवदर्शेर्जाजल्यैरुरुमात्रिका` → `देवदर्शैर्जाजलैरुरुमात्रिका` | SECOND-PASS S7: Kannada p.165 ಬಾಹುಮಾತ್ರಾ ದೇವದರ್ಶೈರ್ಜಾಜಲೈರುರುಮಾತ್ರಿಕಾ: ದೇವದರ್ಶೇರ್ಜಾಜಲ್ಯೈ→ದೇವದರ್ಶೈರ್ಜಾಜಲೈ |
+| 165 | `devadarśer jājalyair urumātrikā` → `devadarśair jājalair urumātrikā` | SECOND-PASS S7: IAST partner of the Devanagari edit |
+| 165 | `yasya mauda vā` → `yasya maudo vā` | SECOND-PASS S7: Kannada p.165 ಮೌದೋ ವಾ; Devanagari मौदो वा already right, IAST had mauda |
+| 165 | `एतदेनं समाख्यातं` → `एतदेवं समाख्यातं` | SECOND-PASS S7: Kannada p.165 ಏತದೇವಂ ಸಮಾಖ್ಯಾತಂ (evaṃ, not enaṃ) |
+| 165 | `etad enaṃ samākhyātaṃ` → `etad evaṃ samākhyātaṃ` | SECOND-PASS S7: IAST partner of the Devanagari edit |
+| 166 | `स्यादाथर्वणवेदस्य` → `स्यादथर्ववेदस्य` | SECOND-PASS S7: Kannada p.166 ಏತದ್ವೇದರಹಸ್ಯಂ ಸ್ಯಾದಥರ್ವವೇದಸ್ಯ ವಿಸ್ತರಃ |
+| 166 | `syād ātharvaṇavedasya` → `syād atharvavedasya` | SECOND-PASS S7: IAST partner |
+| 166 | `मंत्राणां चामुक्तं` → `मंत्राणामृचामुक्तं` | SECOND-PASS S7: Kannada p.166 ಸಹಸ್ರಮೇಕಂ ಮಂತ್ರಾಣಾಮೃಚಾಮುಕ್ತಂ ಪ್ರಮಾಣತಃ |
+| 166 | `maṃtrāṇāṃ cāmuktaṃ` → `maṃtrāṇāmṛcāmuktaṃ` | SECOND-PASS S7: IAST partner |
+| 166 | `एतावदृगुविस्तारमन्यच्चाथर्विकं` → `एतावद्भृगुविस्तारमन्यच्चाधर्विकं` | SECOND-PASS S7: Kannada p.166 ಏತಾವದ್ಭೃಗುವಿಸ್ತಾರಮನ್ಯಚ್ಚಾಧರ್ವಿಕಂ (as printed; IAST already bhṛgu) |
+| 166 | `etāvad bhṛguvistāram anyac cātharvikaṃ` → `etāvad bhṛguvistāram anyac cādharvikaṃ` | SECOND-PASS S7: IAST partner (as printed) |
+| 166 | `(एतावान्यच्च विस्तारो` → `(एतावानृचि विस्तारो` | SECOND-PASS S7: Kannada p.166 (ಏತಾವಾನೃಚಿ ವಿಸ್ತಾರೋ ಹ್ಯನ್ಯಃ) |
+| 166 | `(etāvān yac ca vistāro` → `(etāvānṛci vistāro` | SECOND-PASS S7: IAST partner |
+| 167 | `In the 7th verse of the Vāyu` → `In the 72nd verse of the Vāyu` | SECOND-PASS S1: Kannada p.167 ವಾಯುಪುರಾಣದ ೭೨ನೆಯ ಶ್ಲೋಕದಲ್ಲಿ |
+| 167 | `(एतदंगिरसम्)` → `(एतदंगिरसां)` | SECOND-PASS S7: Kannada p.167 (ಏತದಂಗಿರಸಾಂ) |
+| 167 | `(etad aṃgirasam)` → `(etad aṃgirasāṃ)` | SECOND-PASS S7: IAST partner |
+| 168 | `Taittiriya Brahmana (2-5-1)` → `Taittiriya Brahmana (1-7-1)` | SECOND-PASS S1: Kannada p.168 ತೈತ್ತಿರೀಯಬ್ರಾಹ್ಮಣದಲ್ಲಿ (೧-೭-೧) |
+| 168 | `(part 3, ch. 72)` → `(part 3, ch. 17)` | SECOND-PASS S1: Kannada p.168 ಮೂರನೆಯಖಂಡ ೧೭ನೆಯ ಅಧ್ಯಾಯದಲ್ಲಿ |
+| 168 | `(ch. 42)` → `(ch. 16)` | SECOND-PASS S1: Kannada p.168 ಉದ್ಯೋಗಪರ್ವ ೧೬ನೆಯ ಅಧ್ಯಾಯದಲ್ಲಿ |
+| 168 | `स्वार्थं ब्राह्मणं स्मृतम् । कल्पना च तथा कल्प्यः कल्प्यं ब्राह्मणस्तथा` → `तदर्थं ब्राह्मणं स्मृतं । कल्पना च तथा कल्पाः कल्पश्च ब्राह्मणस्तथा` | SECOND-PASS S7: Kannada p.168 ತದರ್ಥಂ ಬ್ರಾಹ್ಮಣಂ ಸ್ಮೃತಂ । ಕಲ್ಪನಾ ಚ ತಥಾ ಕಲ್ಪಾಃ ಕಲ್ಪಶ್ಚ ಬ್ರಾಹ್ಮಣಸ್ತಥಾ |
+| 168 | `for its own [distinct] purpose` → `for that purpose` | SECOND-PASS S7: Kannada p.168 ತದರ್ಥಂ |
+| 168 | `एषे प्रमाणं भवत` → `एते प्रमाणं भवत` | SECOND-PASS S7: Kannada p.168 ಏತೇ ಪ್ರಮಾಣಂ ಭವತ |
+| 169 | `इतिहासश्च पुराणं च` → `तमितिहासश्च पुराणं च` | SECOND-PASS S7: Kannada pp.168-169 ತಮಿತಿಹಾಸಶ್ಚ ಪುರಾಣಂ ಚ |
+| 169 | `मन्त्रस्य अविनक्तार्थस्य तु` → `मंत्रस्य अविवक्षितार्थत्वे तु` | SECOND-PASS S7: Kannada p.169 ಮಂತ್ರಸ್ಯ ಅವಿವಕ್ಷಿತಾರ್ಥತ್ವೇ ತು |
+| 169 | `तस्म्योक्तं` → `तस्योक्तं` | SECOND-PASS S7: Kannada p.169 ತಸ್ಯೋಕ್ತಂ ಬ್ರಾಹ್ಮಣಂ |
+| 169 | `यदेन दूरोहणां स असौ वै` → `यदेव दूरोहणां ३ असौ वै` | SECOND-PASS S7: Kannada p.169 ಯದೇವ ದೂರೋಹಣಾಂ ೩ ಅಸೌ ವೈ |
+| 169 | `रोहत्येतस्मैव तद्रोहति` → `रोहत्येतमेव तद्रोहति` | SECOND-PASS S7: Kannada p.169 ರೋಹತ್ಯೇತಮೇವ ತದ್ರೋಹತಿ |
+| 169 | `हंसनत्वा रोहति` → `हंसवत्यारोहति` | SECOND-PASS S7: Kannada p.169 ಹಂಸವತ್ಯಾರೋಹತಿ |
+| 169 | `शुचिषद्विश्व वै हंसः शुचिषक्` → `शुचिषदित्येष वै हंसः शुचिषत्` | SECOND-PASS S7: Kannada p.169 ಹಂಸಃ ಶುಚಿಷದಿತ್ಯೇಷ ವೈ ಹಂಸಃ ಶುಚಿಷತ್ |
+| 170 | `यद्गौरिवीतं तस्म्योक्तं` → `यद्गौरवीतं तस्योक्तं` | SECOND-PASS S7: Kannada p.170 ಯದ್ಗೌರವೀತಂ ತಸ್ಯೋಕ್ತಂ ಬ್ರಾಹ್ಮಣಂ |
+| 170 | `ब्रह्मवर्चस्कामस्त्येजो` → `ब्रह्मवर्चस्कामस्तेजो` | SECOND-PASS S7: Kannada p.170 ಬ್ರಹ್ಮವರ್ಚಸ್ಕಾಮಸ್ತೇಜೋ |
+| 170 | `अथास्य चैदुम्बरीमासन्दीं` → `अथास्मा औदुम्बरीमासन्दीं` | SECOND-PASS S7: Kannada p.170 ಅಥಾಸ್ಮಾ ಔದುಂಬರೀಮಾಸಂದೀಂ |
+| 170 | `for "Chaidumbari"` → `for "Audumbari"` | SECOND-PASS S13: Kannada p.170 ಔದುಂಬರೀ |
+| 170 | `gather for him a Chaidumbari seat` → `gather for him an Audumbari seat` | SECOND-PASS S13: Kannada p.170 ಔದುಂಬರೀಮಾಸಂದೀಂ |
+| 170 | `take hold of the Chaidumbari together` → `take hold of the Audumbari together` | SECOND-PASS S13: Kannada p.170 ಔದುಂಬರೀಂ ಸಮನ್ವಾರಭಂತ |
+| 170 | `चैदुम्बरीं समन्यारभन्त` → `औदुम्बरीं समन्वारभन्त` | SECOND-PASS S7: Kannada p.170 ಔದುಂಬರೀಂ ಸಮನ್ವಾರಭಂತ |
+| 170 | `इत्युद्गार्व अन्नाद्यमुदुम्बरो` → `इत्यूर्व्वा अन्नाद्यमुदुंबरो` | SECOND-PASS S7: Kannada p.170 ಇತ್ಯೂರ್ವ್ವಾ ಅನ್ನಾದ್ಯಮ್ |
+| 170 | `समभवत्स्याश्च त्रिः` → `समभवत्तस्मात्स त्रिः` | SECOND-PASS S7: Kannada p.170 ತತ ಉದುಂಬರಃ ಸಮಭವತ್ತಸ್ಮಾತ್ಸ ತ್ರಿಃ |
+| 171 | `consists of five Panchikas` → `consists of eight Panchikas` | SECOND-PASS S1: Kannada p.171 ಪಂಚಿಕೆಗಳೆಂಬ ಎಂಟು ಭಾಗಗಳಿವೆ (8 x 5 = 40) |
+| 171 | `smaller Brahmana texts other than the Tandya-Brahmana` → `the remaining seven Brahmanas other than the Tandya-Brahmana` | SECOND-PASS S17: Kannada p.171 ತಾಂಡ್ಯಬ್ರಾಹ್ಮಣವನ್ನು ಬಿಟ್ಟು ಉಳಿದ ಏಳು ಬ್ರಾಹ್ಮಣಗಳೂ |
+| 171 | `अश्वा वेतानि हविर्गोंशि` → `अष्टावेतानि हवीगांषि` | SECOND-PASS S7: Kannada p.171 ಅಷ್ಟಾವೇತಾನಿ ಹವೀಗಾಂಷಿ ಭವಂತಿ |
+| 171 | `अश्वा वेतानि हविर्-गोम्शि` → `अष्टावेतानि हवीगांषि` | SECOND-PASS S7: split form of the same |
+| 171 | `aśvā vetāni havir-gomśi` → `aṣṭāvetāni havīgāṃṣi` | SECOND-PASS S7: IAST partner |
+| 171 | `These become the horse-related oblation materials` → `These become eight oblations` | SECOND-PASS S7: Kannada p.171 ಅಷ್ಟಾವೇತಾನಿ ಹವೀಗಾಂಷಿ ಭವಂತಿ |
+| 171 | `anubrāhmaṇaṃ ca bhavanti` → `anubrāhmaṇaṃ ca bhavati` | SECOND-PASS S7: Kannada p.171 ಅನುಬ್ರಾಹ್ಮಣಂ ಚ ಭವತಿ |
+| 172 | `unloved by the rest` → `not loved by the sage` | SECOND-PASS S14: Kannada p.172 ಇವಳಲ್ಲಿ ಆ ಋಷಿಗೆ ಪ್ರೀತಿ ಇರಲಿಲ್ಲ |
+| 172 | `a throne surpassing heaven itself` → `a divine throne` | SECOND-PASS S16: Kannada p.172 ದಿವ್ಯವಾದ ಒಂದು ಸಿಂಹಾಸನ |
+| 172 | `(third Kandika)` → `(second Kandika)` | SECOND-PASS S1: Kannada p.172 ಚರಣವ್ಯೂಹದ ೨ನೆಯ ಕಂಡಿಕೆಯ ಟೀಕೆಯಲ್ಲಿ |
+| 172 | `बह्वृचाश्चैवशालायनी` → `बह्वचश्चाश्वलायनी` | SECOND-PASS S7: Kannada p.172 ಬಹ್ವಚಶ್ಚಾಶ್ವಲಾಯನೀ |
+| 172 | `बह्वृचाश् चैव-शालायनी` → `बह्वचश् चाश्वलायनी` | SECOND-PASS S7: split form |
+| 172 | `bahvṛcāś caiva-śālāyanī` → `bahvacaś cāśvalāyanī` | SECOND-PASS S7: IAST partner |
+| 172 | `named Mahisabana` → `named Mahisadasa` | SECOND-PASS S13: Kannada p.172 ಮಹಿಸಾದಾಸರೆಂಬುವರು |
+| 172 | `देशे वेदो ब्रह्म च ईरितः । कौषीतकब्राह्मणं` → `देशे वेदो बह्वृ च ईरितः । कौषीतकिब्राह्मणं` | SECOND-PASS S7: Kannada p.172 ವೇದೋ ಬಹ್ವೃ ಚ ಈರಿತಃ । ಕೌಷೀತಕಿಬ್ರಾಹ್ಮಣಂ |
+| 172 | `वेदो ब्रह्म च ईरितः, कौषीतक-ब्राह्मणं` → `वेदो बह्वृ च ईरितः, कौषीतकि-ब्राह्मणं` | SECOND-PASS S7: split form |
+| 172 | `vedo brahma ca īritaḥ, kauṣītaka-brāhmaṇaṃ` → `vedo bahvṛ ca īritaḥ, kauṣītaki-brāhmaṇaṃ` | SECOND-PASS S7: IAST partner |
+| 172 | `the Veda and Brahman are proclaimed` → `the Bahvricha Veda is proclaimed` | SECOND-PASS S7: Kannada p.172 ವೇದೋ ಬಹ್ವೃ ಚ ಈರಿತಃ |
+| 172 | `matānusāre` → `matānusārī` | SECOND-PASS S7: Kannada p.172 ಕೌಷೀತಕೀಮತಾನುಸಾರೀ ಶಾಂಖಾಯನಬ್ರಾಹ್ಮಣಂ |
+| 173 | `Shakala (or Bashkala) shakha` → `Shakala (or Bahvricha) shakha` | SECOND-PASS S14: Kannada p.173 ಶಾಕಲಶಾಖೆಗೆ (ಅಥವಾ ಬಹ್ವೃಚ) |
+| 173 | `follows the Sankhyayana shakha` → `follows the Bashkala shakha` | SECOND-PASS S14: Kannada p.173 ಬಾಷ್ಕಲಶಾಖೆಗೆ ಅನುಸಾರವಾಗಿ ಕೌಷೀತಕೀಬ್ರಾಹ್ಮಣ |
+| 173 | `meant specifically for Brahmins, called Aranyakas` → `attached to the Brahmanas, called Aranyakas` | SECOND-PASS S14: Kannada p.173 ಬ್ರಾಹ್ಮಣಗಳಿಗೆ ಸೇರಿದಂತೆ ಕೆಲವು ಗ್ರಂಥಗಳಿವೆ |
+| 174 | `composed the first two Aranyakas; Ashvalayana composed the third; and Shaunaka composed th` → `composed the first three Aranyakas; Ashvalayana composed the fourth; and Shaunaka composed` | SECOND-PASS S14: Kannada p.174 ಮೊದಲ ೩ ಆರಣ್ಯಕಗಳನ್ನೂ, ೪ನೆಯ ಆರಣ್ಯಕವನ್ನು ಆಶ್ವಲಾಯನರೂ ೫ನೆಯ ಆರಣ್ಯಕವನ್ನು ಶೌನಕರೂ |
+| 174 | `The Rikvarnanukramanike records` → `Shadgurushishya, in the introduction to the Rik-sarvanukramanika, records` | SECOND-PASS S15: Kannada p.174 ಋಕ್ಸರ್ವಾನುಕ್ರಮಣಿಕೆಯ ಭೂಮಿಕೆಯಲ್ಲಿ ಷಡ್ಗುರುಶಿಷ್ಯರೆಂಬುವರು |
+| 174 | `ग्रन्थास्ते ऋग्वेदगुप्स्रये । अष्टानुक्रमणीत्याद्या छन्दस्सी दैवती` → `ग्रंथास्तदा ऋग्वेदगुप्तये । आर्ष्यानुक्रमणीत्याद्या छांदसी दैवती` | SECOND-PASS S7: Kannada p.174 ಗ್ರಂಥಾಸ್ತದಾ ಋಗ್ವೇದಗುಪ್ತಯೇ । ಆರ್ಷ್ಯಾನುಕ್ರಮಣೀತ್ಯಾದ್ಯಾ ಛಾಂದಸೀ ದೈವತೀ |
+| 174 | `ग्रन्थास् ते ऋग्वेद-गुप्स्रये । अष्टानुक्रमणीत्याद्या छन्दस्सी दैवती` → `ग्रंथास् तदा ऋग्वेद-गुप्तये । आर्ष्यानुक्रमणीत्याद्या छांदसी दैवती` | SECOND-PASS S7: split form |
+| 174 | `granthās te ṛgveda-gupsraye | aṣṭānukramaṇītyādyā chandassī daivatī` → `granthās tadā ṛgveda-guptaye | ārṣyānukramaṇītyādyā chāṃdasī daivatī` | SECOND-PASS S7: IAST partner |
+| 174 | `अनुवाकानुक्रमणे सूक्तानुक्रमणे तथा । ऋक्सादयोर्विद्वांश्च बार्हद्दैवतमेव च ॥ प्रातिशाख्यं ` → `अनुवाकानुक्रमणी सूक्तानुक्रमणी तथा । ऋक्पादयोर्विधाने च बार्हद्दैवतमेव च ॥ प्रातिशाख्यं शौ` | SECOND-PASS S7: Kannada p.174 ಅನುವಾಕಾನುಕ್ರಮಣೀ ಸೂಕ್ತಾನುಕ್ರಮಣೀ ತಥಾ । ಋಕ್ಪಾದಯೋರ್ವಿಧಾನೇ ಚ ಬಾರ್ಹದ್ದೈವತಮೇವ ಚ ॥ ಪ್ರಾತಿಶಾಖ್ಯಂ ಶೌನಕೀಯಂ ಸ್ಮಾರ್ತಂ ದಶಮಮುಚ್ಯತೇ |
+| 174 | `अनुवाकानुक्रमणे सूक्तानुक्रमणे तथा । ऋक्सादयोर् विद्वांश् च बार्हद्दैवतम् एव च ॥ प्रातिशाख` → `अनुवाकानुक्रमणी सूक्तानुक्रमणी तथा । ऋक्पादयोर् विधाने च बार्हद्दैवतम् एव च ॥ प्रातिशाख्यं` | SECOND-PASS S7: split form |
+| 174 | `anuvākānukramaṇe sūktānukramaṇe tathā | ṛksādayor vidvāṃś ca bārhaddaivatam eva ca || prāt` → `anuvākānukramaṇī sūktānukramaṇī tathā | ṛkpādayor vidhāne ca bārhaddaivatam eva ca || prāt` | SECOND-PASS S7: IAST partner |
+| 174 | `the Ashtaka-anukramani and similar works` → `the Arshya-anukramani and similar works` | SECOND-PASS S7: Kannada p.174 ಆರ್ಷ್ಯಾನುಕ್ರಮಣೀತ್ಯಾದ್ಯಾ |
+| 174 | `[a work] on the words of the Rik and related matters` → `[works] on the rules (vidhana) of the Rik and the Pada` | SECOND-PASS S7: Kannada p.174 ಋಕ್ಪಾದಯೋರ್ವಿಧಾನೇ ಚ |
+| 174 | `the Pratishakhya composed by Shaunaka is called the tenth, for its own purpose` → `the Pratishakhya of Shaunaka and the Smarta [work] is called the tenth` | SECOND-PASS S7: Kannada p.174 ಪ್ರಾತಿಶಾಖ್ಯಂ ಶೌನಕೀಯಂ ಸ್ಮಾರ್ತಂ ದಶಮಮುಚ್ಯತೇ |
+| 174 | `द्वादशाध्यायकं सूक्तं चतुःसद्गृह्यमेव च` → `द्वादशाध्यायकं सूत्रं चतुष्कगृह्यमेव च` | SECOND-PASS S7: Kannada p.174 ದ್ವಾದಶಾಧ್ಯಾಯಕಂ ಸೂತ್ರಂ ಚತುಷ್ಕಗೃಹ್ಯಮೇವ ಚ |
+| 174 | `द्वादशाध्यायकं सूक्तं चतुः-सद्-गृह्यम् एव च` → `द्वादशाध्यायकं सूत्रं चतुष्क-गृह्यम् एव च` | SECOND-PASS S7: split form |
+| 174 | `dvādaśādhyāyakaṃ sūktaṃ catuḥ-sad-gṛhyam eva ca` → `dvādaśādhyāyakaṃ sūtraṃ catuṣka-gṛhyam eva ca` | SECOND-PASS S7: IAST partner |
+| 174 | `the twelve-chapter Sukta[-related Shrautasutra]` → `the twelve-chapter Sutra` | SECOND-PASS S7: Kannada p.174 ಹನ್ನೆರಡು ಅಧ್ಯಾಯಗಳಿಂದ ಕೂಡಿದ ಶ್ರೌತಸೂತ್ರ |
+| 174 | `आत एव पञ्चमे शौनकेनोदाहृताः । (१-४-१)` → `अत एव पञ्चमे शौनकेनोदाहृताः । (१-४-१)` | SECOND-PASS S7: Kannada p.174 ಅತ ಏವ ಪಂಚಮೇ ಶೌನಕೇನೋದಾಹೃತಾಃ |
+| 174 | `आत एव पञ्चमे शौनकेनोदाहृताः` → `अत एव पञ्चमे शौनकेनोदाहृताः` | SECOND-PASS S7: split form |
+| 174 | `āta eva pañcame` → `ata eva pañcame` | SECOND-PASS S7: IAST partner |
+| 175 | `गुणाख्याश्चांबायनादस्माभिरधीतम्` → `गुणाख्याच्छांखायनादस्माभिरधीतं` | SECOND-PASS S7: Kannada p.175 ಗುಣಾಖ್ಯಾಚ್ಛಾಂಖಾಯನಾದಸ್ಮಾಭಿರಧೀತಂ |
+| 175 | `गुणाख्याश् चाम्बायनाद् अस्माभिर् अधीतम्` → `गुणाख्याच् छांखायनाद् अस्माभिर् अधीतं` | SECOND-PASS S7: split form |
+| 175 | `guṇākhyāś cāmbāyanād asmābhir adhītam` → `guṇākhyāc chāṃkhāyanād asmābhir adhītaṃ` | SECOND-PASS S7: IAST partner |
+| 177 | `not fewer than twelve times` → `fewer than twelve times` | SECOND-PASS S14: Kannada p.177 ಹನ್ನೆರಡಕ್ಕಿಂತ ಕಡಿಮೆ ಸಲ ಅಧ್ಯಯನಮಾಡಿ |
+| 178 | `while the 8th Mandala's rishis` → `while the 10th Mandala's rishis` | SECOND-PASS S1: Kannada p.178 ೧೦ನೆಯ ಮಂಡಲದ ಋಷಿಗಳಿಗೆ ಕ್ಷುದ್ರಸೂಕ್ತ ಮತ್ತು ಮಹಾಸೂಕ್ತ |
+| 178 | `called "Shatarshina."` → `called "Shatarchina."` | SECOND-PASS S13: Kannada p.178 ಶತರ್ಚಿನರೆಂದು |
+| 178 | `Now, the rishis: Shatarshina, Madhyama` → `Now, the rishis: Shatarchina, Madhyama` | SECOND-PASS S13: Kannada p.178 ಶತರ್ಚಿನೋ |
+| 178 | `commentary on the Charaka-sutra states four kinds` → `commentary on the Charaka-sutra (sutra 1-7) states four kinds` | SECOND-PASS S3: Kannada p.178 ಚರಕಸೂತ್ರವ್ಯಾಖ್ಯಾನದಲ್ಲಿ (೧-೭ನೆಯ ಸೂತ್ರ) |
+| 178 | `ऋषयः शतर्षिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर्भरद्वाजो वसिष्ठः प्रगाथाः पावमान` → `ऋषयः शतर्चिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर्भरद्वाजो वसिष्ठः प्रगाथाः पावमान` | SECOND-PASS S7: Kannada p.178 ಶತರ್ಚಿನೋ … ಪ್ರಗಾಥಾಃ ಪಾವಮಾನ್ಯಃ |
+| 178 | `ऋषयः शतर्षिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर् भरद्वाजो वसिष्ठः प्रगाथाः पावमा` → `ऋषयः शतर्चिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर् भरद्वाजो वसिष्ठः प्रगाथाः पावमा` | SECOND-PASS S7: split form |
+| 178 | `atha ṛṣayaḥ śatarṣino` → `atha ṛṣayaḥ śatarcino` | SECOND-PASS S7: IAST partner |
+| 178 | `pragāthāḥ pāvamānyāḥ` → `pragāthāḥ pāvamānyaḥ` | SECOND-PASS S7: IAST partner |
+| 178 | `भृगुर्मरीचिश्चात्रिश्च ह्यंगिराः` → `भृगुर्मरीचिरत्रिश्च ह्यंगिराः` | SECOND-PASS S7: Kannada p.178 ಭೃಗುರ್ಮರೀಚಿರತ್ರಿಶ್ಚ ಹ್ಯಂಗಿರಾಃ |
+| 178 | `भृगुर् मरीचिश् चात्रिश् च ह्य् अङ्गिराः` → `भृगुर् मरीचिर् अत्रिश् च ह्य् अङ्गिराः` | SECOND-PASS S7: split form |
+| 178 | `bhṛgur marīciś cātriś ca` → `bhṛgur marīcir atriś ca` | SECOND-PASS S7: IAST partner |
+| 178 | `ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयमुच्चराः । सप्तैवर्षयो यस्मात् सृतास् स्यान्महर्षयः` → `ब्रह्मणो मानसा ह्येते उद्यूताः स्वयमीश्वराः । परत्वेनर्षयो यस्मात् स्मृतास्तस्मान्महर्षयः` | SECOND-PASS S7: Kannada p.178 ಬ್ರಹ್ಮಣೋ ಮಾನಸಾ ಹ್ಯೇತೇ ಉದ್ಯೂತಾಃ ಸ್ವಯಮೀಶ್ವರಾಃ । ಪರತ್ವೇನರ್ಷಯೋ ಯಸ್ಮಾತ್ ಸ್ಮೃತಾಸ್ತಸ್ಮಾನ್ಮಹರ್ಷಯಃ |
+| 178 | `ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयम् उच्चराः । सप्तैव ऋषयो यस्मात् सृतास् स्यान् महर्षयः` → `ब्रह्मणो मानसा ह्येते उद्यूताः स्वयम् ईश्वराः । परत्वेनर्षयो यस्मात् स्मृतास्तस्मान् महर्ष` | SECOND-PASS S7: split form |
+| 178 | `brahmaṇo mānasāḥ sṛṣṭā udgāthāḥ svayam uccarāḥ | saptaiva ṛṣayo yasmāt sṛtās syān maharṣay` → `brahmaṇo mānasā hyete udyūtāḥ svayam īśvarāḥ | paratvena ṛṣayo yasmāt smṛtās tasmān maharṣ` | SECOND-PASS S7: IAST partner |
+| 178 | `Created from Brahma's mind, self-proclaiming... From whom the seven [great] rishis arose —` → `These are indeed mind-born of Brahma, ... lords themselves; since by supremacy they are re` | SECOND-PASS S7: Kannada p.178 verse 97 and the prose after it |
+| 179 | `ऋषयस्स्वान्निबोधत` → `ऋषयस्तान्निबोधत` | SECOND-PASS S7: Kannada p.179 ಈಶ್ವರಾಣಾಂ ಸುತಾ ಹ್ಯೇತೇ ಋಷಯಸ್ತಾನ್ನಿಬೋಧತ |
+| 179 | `कश्यपश्च्यवनस्थ` → `कश्यपश्च्यवनस्तथा` | SECOND-PASS S7: Kannada p.179 ಕಶ್ಯಪಶ್ಚ್ಯವನಸ್ತಥಾ |
+| 179 | `चैषिजस्थ` → `चौशिजस्तथा` | SECOND-PASS S7: Kannada p.179 ಅಗಸ್ಯಶ್ಚೌಶಿಜಸ್ತಥಾ |
+| 179 | `शक्त्या वाल्मीक्यस्थावर्तकः` → `शक्तिर्वाखिल्यास्तथार्वतः` | SECOND-PASS S7: Kannada p.179 ಶಕ್ತಿರ್ವಾಖಿಲ್ಯಾಸ್ತಥಾರ್ವತಃ |
+| 179 | `प्रोक्तास्सपसा चर्षितां` → `प्रोक्तास्तपसा चर्षितां` | SECOND-PASS S7: Kannada p.179 ಪ್ರೋಕ್ತಾಸ್ತಪಸಾ ಚರ್ಷಿತಾಂ |
+| 179 | `ṛṣayas svān nibodhata` → `ṛṣayas tān nibodhata` | SECOND-PASS S7: IAST partner |
+| 179 | `kaśyapaś cyavanasya` → `kaśyapaś cyavanas tathā` | SECOND-PASS S7: IAST partner |
+| 179 | `caiṣijasya` → `cauśijas tathā` | SECOND-PASS S7: IAST partner |
+| 179 | `śaktyā vālmīkyas tāvartakaḥ` → `śaktir vākhilyās tathārvataḥ` | SECOND-PASS S7: IAST partner |
+| 179 | `proktās sapasā` → `proktās tapasā` | SECOND-PASS S7: IAST partner |
+| 179 | `and, by his power, Valmiki...` → `Shakti, the Valakhilyas and Arvata` | SECOND-PASS S7: Kannada p.179 ಶಕ್ತಿರ್ವಾಖಿಲ್ಯಾಸ್ತಥಾರ್ವತಃ |
+| 179 | `Shakti, Valmika, and Arvata` → `Shakti, Valakhilya, and Arvata` | SECOND-PASS S13: Kannada p.179 ಶಕ್ತಿ, ವಾಲಖಿಲ್ಯ ಮತ್ತು ಅರ್ವತ |
+| 179 | `ऋषिपुत्रास्त्वृषीकांस्तु` → `ऋषिपुत्रानृषीकांस्तु` | SECOND-PASS S7: Kannada p.179 ಋಷಿಪುತ್ರಾನೃಷೀಕಾಂಸ್ತು ಗರ್ಭೋತ್ಪನ್ನಾನ್ನಿಬೋಧತ |
+| 179 | `नग्नहश्चैव भरद्वाजश्चैव च` → `नग्नहूश्चैव भरद्वाजस्तथैव च` | SECOND-PASS S7: Kannada p.179 ನಗ್ನಹೂಶ್ಚೈವ ಭರದ್ವಾಜಸ್ತಥೈವ ಚ |
+| 179 | `शरद्वते` → `शरद्वतः` | SECOND-PASS S7: Kannada p.179 ಶರದ್ವತಃ |
+| 179 | `सुविप्रश्च वश्याश्च` → `सुवित्तश्च वश्याश्वश्च` | SECOND-PASS S7: Kannada p.179 ಸುವಿತ್ತಶ್ಚ ವಶ್ಯಾಶ್ವಶ್ಚ ಪರಾಶರಃ |
+| 179 | `दधीच शंशपाश्चैव रांका वैश्रवणस्थ` → `दधीचः शंशपाश्चैव राजा वैश्रवणस्तथा` | SECOND-PASS S7: Kannada p.179 ದಧೀಚಃ ಶಂಶಪಾಶ್ಚೈವ ರಾಜಾ ವೈಶ್ರವಣಸ್ತಥಾ |
+| 179 | `प्रोक्तास्स्वे सत्या ऋषितां` → `प्रोक्तास्ते सत्यादृषितां` | SECOND-PASS S7: Kannada p.179 ಪ್ರೋಕ್ತಾಸ್ತೇ ಸತ್ಯಾದೃಷಿತಾಂ ಗತಾಃ |
+| 179 | `ṛṣiputrās tv ṛṣīkāṃs tu` → `ṛṣiputrān ṛṣīkāṃs tu` | SECOND-PASS S7: IAST partner |
+| 179 | `nagnahaś caiva bharadvājaś caiva ca` → `nagnahūś caiva bharadvājas tathaiva ca` | SECOND-PASS S7: IAST partner |
+| 179 | `śaradvate` → `śaradvataḥ` | SECOND-PASS S7: IAST partner |
+| 179 | `suvipraś ca vaśyāś ca` → `suvittaś ca vaśyāśvaś ca` | SECOND-PASS S7: IAST partner |
+| 179 | `dadhīca śaṃśapāś caiva rāṅkā vaiśravaṇasya` → `dadhīcaḥ śaṃśapāś caiva rājā vaiśravaṇas tathā` | SECOND-PASS S7: IAST partner |
+| 179 | `proktās sve satyā ṛṣitāṃ` → `proktās te satyād ṛṣitāṃ` | SECOND-PASS S7: IAST partner |
+| 179 | `Vajashrava, Suvipra, Parashara` → `Vajashrava, Suvitta, Vashyashva, Parashara` | SECOND-PASS S17: Kannada p.179 ವಾಜಶ್ರವಸ್, ಸುವಿತ್ತ, ವಶ್ಯಾಶ್ವ, ಪರಾಶರ |
+| 179 | `Shamshapa, Ranka, and Vaishravana are called` → `Shamshapa, and Vaishravana are called` | SECOND-PASS S16: Kannada p.179 ಶಂಶಪಾಃ, ವೈಶ್ರವಣ (no Ranka) |
+| 179 | `Vajashrava, Suvipra, Vashya, and Parashara` → `Vajashrava, Suvitta, Vashyashva, and Parashara` | SECOND-PASS S13: Kannada p.179 ಸುವಿತ್ತಶ್ಚ ವಶ್ಯಾಶ್ವಶ್ಚ ಪರಾಶರಃ |
+| 179 | `Shamshapa, Ranka, Vaishravana` → `Shamshapa, King Vaishravana` | SECOND-PASS S13: Kannada p.179 ಶಂಶಪಾಶ್ಚೈವ ರಾಜಾ ವೈಶ್ರವಣಸ್ತಥಾ |
+| 179 | `वित्ते मन्त्रकृतः सर्वे कृत्स्नशास्त्रान्निबोधत` → `एते मंत्रकृतः सर्वे कृत्स्नशस्तान्निबोधत` | SECOND-PASS S7: Kannada p.179 ಏತೇ ಮಂತ್ರಕೃತಃ ಸರ್ವೇ ಕೃತ್ಸ್ನಶಸ್ತಾನ್ನಿಬೋಧತ |
+| 179 | `दधीचो ह्यास्स्वानसः` → `दधीचो ह्याप्नवानपि` | SECOND-PASS S7: Kannada p.179 ದಧೀಚೋ ಹ್ಯಾಪ್ನವಾನಪಿ |
+| 179 | `चैवर्षिश्चथ जमदग्निश्च विदः सारस्वतस्थ` → `और्वोऽथ जमदग्निश्च विदः सारस्वतस्तथा` | SECOND-PASS S7: Kannada p.179 ಔರ್ವೋಽಥ ಜಮದಗ್ನಿಶ್ಚ ವಿದಃ ಸಾರಸ್ವತಸ್ತಥಾ |
+| 179 | `आश्मर्षीश्च्यवनश्च वीतहव्यः सुमेधसः` → `आर्ष्टिषेणश्च वनश्च नीतहव्यः सुमेधसः` | SECOND-PASS S7: Kannada p.179 ಆರ್ಷ್ಟಿಷೇಣಶ್ಚ ವನಶ್ಚ ನೀತಹವ್ಯಃ ಸುಮೇಧಸಃ (as printed) |
+| 179 | `वाध्र्यश्वो गृत्सशौनकाः` → `नाध्र्यश्वो गृत्सशौनकौ` | SECOND-PASS S7: Kannada p.179 ನಾಧ್ರ್ಯಶ್ವೋ ಗೃತ್ಸಶೌನಕೌ (as printed) |
+| 179 | `विकोनविंशतिश्चैते` → `एकोनविंशतिर्हैते` | SECOND-PASS S7: Kannada p.179 ಏಕೋನವಿಂಶತಿರ್ಹೈತೇ ಭೃಗವೋ ಮಂತ್ರವಾದಿನಃ |
+| 179 | `vitte mantrakṛtaḥ sarve kṛtsna-śāstrān nibodhata` → `ete maṃtrakṛtaḥ sarve kṛtsna-śastān nibodhata` | SECOND-PASS S7: IAST partner |
+| 179 | `dadhīco hy āsvānasaḥ` → `dadhīco hy āpnavān api` | SECOND-PASS S7: IAST partner |
+| 179 | `caivarṣiś catha jamadagniś ca vidaḥ sārasvatasya` → `aurvo 'tha jamadagniś ca vidaḥ sārasvatas tathā` | SECOND-PASS S7: IAST partner |
+| 179 | `āśmarṣīś cyavanaś ca vītahavyaḥ sumedhasaḥ` → `ārṣṭiṣeṇaś ca vanaś ca nītahavyaḥ sumedhasaḥ` | SECOND-PASS S7: IAST partner |
+| 179 | `vādhryaśvo gṛtsaśaunakāḥ` → `nādhryaśvo gṛtsaśaunakau` | SECOND-PASS S7: IAST partner |
+| 179 | `vikonaviṃśatiś caite` → `ekonaviṃśatir haite` | SECOND-PASS S7: IAST partner |
+| 180 | `| 5 | Ashvavan |` → `| 5 | Apnavan |` | SECOND-PASS S13: Kannada p.180 ೫ ಆಪ್ನವಾನ್ |
+| 180 | `| 6 | Chaiva (Rishika) |` → `| 6 | Aurva (Richika) |` | SECOND-PASS S13: Kannada p.180 ೬ ಔರ್ವ (ಋಚೀಕ) |
+| 180 | `| 10 | Ashmarshena |` → `| 10 | Arshtishena |` | SECOND-PASS S13: Kannada p.180 ೧೦ ಆರ್ಷ್ಟಿಷೇಣ |
+| 180 | `**Rishika**` → `**Richika**` | SECOND-PASS S13: Kannada p.180 ಋಚೀಕ |
+| 180 | `"vikonaviṃśati"` → `"ekonaviṃśati"` | SECOND-PASS S13: Kannada p.180 ಏಕೋನವಿಂಶತಿಃ |
+| 180 | `"Vaidya" and "Vrighu"` → `"Vainya" and "Prithu"` | SECOND-PASS S13: Kannada p.180 ವೈನ್ಯ ಮತ್ತು ಪೃಥು |
+| 180 | `"Vena's son Vrighu"` → `"Vena's son Prithu"` | SECOND-PASS S13: Kannada p.180 ವೇನನ ಮಗ ಪೃಥು |
+| 180 | `"Vaidya Vrighu."` → `"Vainya Prithu."` | SECOND-PASS S13: Kannada p.180 ವೈನ್ಯ ಪೃಥು |

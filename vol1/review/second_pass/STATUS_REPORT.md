@@ -1,12 +1,12 @@
 # Vol 1 second pass — status report
-*Made by `python3 tools/rv/sp_report.py 1` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-24. Format: `docs/SECOND_PASS_REPORT.md`.*
+*Made by `python3 tools/rv/sp_report.py 1` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-25. Format: `docs/SECOND_PASS_REPORT.md`.*
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 160 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150)
-- **Findings:** 715 — applied 603, questions 112; edits ok 607, failed 0
-- **Reader tokens (batches so far):** 1832k; per page 11.4k
-- **Last commit:** a98e5a2
+- **Pages read:** 190 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180)
+- **Findings:** 893 — applied 765, questions 128; edits ok 769, failed 0
+- **Reader tokens (batches so far):** 1832k; per page 9.6k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -17,22 +17,23 @@
 | 4 | 61–90 | 143 | 131 | 131 / 0 | 12 | 320k | 7fae0cb | 131 edits (45 S7 via sp_sanskrit, ~86 R1: names, senses, numbers, omissions); English sections not aligned (p. 73 text under Page 72; Māṇḍūkeya section starts at Page 79 vs Kannada 80–82); some longer rewrites where the English sentence was wrong (pp. 69, 74, 75, 83); 4 odd printed numbers in open.tsv |
 | 5 | 91–120 | 138 | 121 | 121 / 0 | 17 | 297k | 96c32e1 | 121 edits (55 S7, 22 S1 + 7 S3 numbers incl. table digits on p. 113); pp. 91–94 in the main English file, 95–120 in the Gaps file; several Kannada numerals contradict the Kannada's own totals (p. 113, 114, 117; p. 100 Kāṇva list): applied as printed, 4 rows in open.tsv; the English italic remark on p. 113 that column sums agree is now untrue (legacy remark kept) |
 | 6 | 121–150 | 93 | 71 | 96 / 0 | 22 | 353k | a98e5a2 | 96 edits (25 Devanagari/IAST pairs via sp_sanskrit, 25 number repairs); Kannada table numerals applied as printed even where they contradict the Kannada's own totals (pp. 121, 138, 139, 142, 150: 6 rows in open.tsv; English rows without a Kannada counterpart blanked/dashed on pp. 138–139); legacy remarks contradicted by the edits left (pp. 138, 150, 123–124) |
+| 7 | 151–180 | 178 | 162 | 162 / 0 | 16 | TOK6 | @C@ | 162 edits (96 Devanagari/IAST repairs via sp_sanskrit, 22 S1 + 1 S3, 28 S13 names); where the Kannada word is a plausible misprint and the English had another reading the Kannada was followed as printed and flagged as a question (pp. 166, 178); pp. 151–167 in the Gaps file, 168–180 in the main file; 7 open.tsv rows (Kannada totals/branch numbers that do not fit) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
-| S7 | 240 | 19 | 259 |
-| S13 | 105 | 1 | 106 |
-| S14 | 86 | 0 | 86 |
-| H29 | 0 | 85 | 85 |
-| S1 | 77 | 0 | 77 |
-| S16 | 24 | 3 | 27 |
-| S3 | 23 | 0 | 23 |
-| S17 | 14 | 4 | 18 |
-| S15 | 18 | 0 | 18 |
+| S7 | 350 | 19 | 369 |
+| S13 | 126 | 1 | 127 |
+| H29 | 0 | 101 | 101 |
+| S1 | 96 | 0 | 96 |
+| S14 | 92 | 0 | 92 |
+| S16 | 26 | 3 | 29 |
+| S3 | 24 | 0 | 24 |
+| S17 | 16 | 4 | 20 |
+| S15 | 19 | 0 | 19 |
 | S2 | 16 | 0 | 16 |
 
-By reader: R1 313, R3 249, R6 153
+By reader: R1 365, R3 359, R6 169
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -55,9 +56,16 @@ By reader: R1 313, R3 249, R6 153
 - **other** (pages 139): Kannada p.139 prints 44+6+4+25=82 (the sum is 79); first-kanda adhyāya 8 prints ೧೧ ೬೭ against the printed totals 78 and 499 (the rows then sum to 79 and 529); third-kanda last row has no adhyāya number and no anuvāka count (English had 12 and 9); applied as printed; the English note about the third kanda and the sum 784 is unchanged
 - **other** (pages 142): Kannada p.142 prints ೩೨ for both the Vaimānika (Vaikhānasa) and the Bāṇḍikīya (Khāṇḍikīya) headings, then ೩೩-೩೭, ೩೮; the English had 31 for the first; applied as printed (32)
 - **other** (pages 150): Kannada p.150 prints the Kauthuma total ಒಟ್ಟು ೨೨೨ and Caland's number ೧೮೯ (rows 1197+294+1026+205 sum to 2722; the English had 2722 and 1869); applied as printed
+- **other** (pages 151): Kannada p.151 prints 959 more mantras for the Jaiminīya branch and 3681 in all, 182 fewer for Caland's 1687; the Kauthuma figures do not fit both (3681-959=2722, the p.150 total); English had 95; applied as printed (959)
+- **other** (pages 153-154): Kannada pp.153-154 print the branch numbers ೧೨ (Kālabavinaḥ, after ೯), ೧೧ (Śāṭkāyaninaḥ), ೨ (Rauriki, before ೧೩), ೧೫, ೧೬; the English had 10 and 12; applied as printed (12 and 2)
+- **other** (pages 156): Kannada p.156 prints the Brahmāṇḍa Purāṇa reference as (೨-೩೫-೭೧ ಮತ್ತು ೨), the English had 71 and 72; applied as printed (71 and 2)
+- **other** (pages 164): English p.164 note 'The figures are not reproduced because their digits are unreadable' stands beside the figures 4627 and 4432, which agree with Kannada ೪೬೨೭ and ೪೪೩೨; remark left, the digits can now be read
+- **other** (pages 165): Kannada p.165 numbers the branch heading ೨. ಬ್ರಹ್ಮವದಾಃ after ೬. ಜಲದಾಶಿ and before ೮; English had 7; applied as printed (2)
+- **other** (pages 166): Kannada p.166 prints ೬೦೨೦ ಋಕ್ಕುಗಳು for the Cāraṇavaidya saṃhitā while its quoted verse says six thousand and twenty-six (ṣaṭsahasram … ṣaḍviṃśatiḥ); the English prose 6020 stands as printed
+- **other** (pages 173): Kannada p.173 says the Kauṣītakī-brāhmaṇa follows the Bāṣkala branch although p.172 equates the Kauṣītakī brāhmaṇa with the Śāṅkhāyana branch; English changed to Bashkala as printed
 
 ## 5. Questions for the editor
-102 rows in `questions.tsv`; by kind: H29 85, S13 1, S16 3, S17 4, S7 19
+118 rows in `questions.tsv`; by kind: H29 101, S13 1, S16 3, S17 4, S7 19
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

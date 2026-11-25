@@ -2155,21 +2155,21 @@ The Vyakarana-Mahabhashya states the Rigveda has 21 shakhas, yet the list just c
 
 ### Page 168 — Explaining the Meaning of the Word "Brahmana"
 
-Although "Brahmana" is grammatically a masculine-form word, it is used, when referring to this class of text, in the **neuter** gender. A "Brahmana" text consists of the sentences within the Samhita tradition that explain context, ritual application (viniyoga), and precedent/history (purva-itihasa) — matters necessary for understanding the Samhita's mantras — composed after those mantras themselves were already established and known. This neuter usage is consistent across the Taittiriya Samhita, Brahmana, Sutra, and Nirukta literature; the Taittiriya Brahmana (2-5-1) offers a clear example. The lexicon *Medini* distinguishes the word's senses directly:
+Although "Brahmana" is grammatically a masculine-form word, it is used, when referring to this class of text, in the **neuter** gender. A "Brahmana" text consists of the sentences within the Samhita tradition that explain context, ritual application (viniyoga), and precedent/history (purva-itihasa) — matters necessary for understanding the Samhita's mantras — composed after those mantras themselves were already established and known. This neuter usage is consistent across the Taittiriya Samhita, Brahmana, Sutra, and Nirukta literature; the Taittiriya Brahmana (1-7-1) offers a clear example. The lexicon *Medini* distinguishes the word's senses directly:
 
 > ब्राह्मणं ब्रह्मसंघाते वेदभागे नपुंसकम् ॥ ६७ ॥
 >
 > "'Brahmanam,' in the sense of 'an assembly of Brahmins' or 'a portion of the Veda,' is neuter."
 
-The Vishnudharmottara Purana (part 3, ch. 72) offers a related but more ambiguous usage:
+The Vishnudharmottara Purana (part 3, ch. 17) offers a related but more ambiguous usage:
 
-> मन्त्राः सब्राह्मणाः प्रोक्ताः स्वार्थं ब्राह्मणं स्मृतम् । कल्पना च तथा कल्प्यः कल्प्यं ब्राह्मणस्तथा ॥
+> मन्त्राः सब्राह्मणाः प्रोक्ताः तदर्थं ब्राह्मणं स्मृतं । कल्पना च तथा कल्पाः कल्पश्च ब्राह्मणस्तथा ॥
 >
-> "The mantras together with the Brahmana are declared; the Brahmana is remembered for its own [distinct] purpose. Likewise, prescribed/ordained material (kalpana) is also [called] Brahmana."
+> "The mantras together with the Brahmana are declared; the Brahmana is remembered for that purpose. Likewise, prescribed/ordained material (kalpana) is also [called] Brahmana."
 
-The final occurrence of "Brahmana" in this verse is genuinely ambiguous — reading it as referring to the Brahmin caste doesn't fit well either, leaving open whether this is a rare masculine usage or simply a corrupted reading. The Mahabharata's Udyoga-parva (ch. 42) provides a clearer case of masculine usage:
+The final occurrence of "Brahmana" in this verse is genuinely ambiguous — reading it as referring to the Brahmin caste doesn't fit well either, leaving open whether this is a rare masculine usage or simply a corrupted reading. The Mahabharata's Udyoga-parva (ch. 16) provides a clearer case of masculine usage:
 
-> य इमे ब्राह्मणाः प्रोक्ता मन्त्रा वै प्रोक्षणे गवाम् । एषे प्रमाणं भवत उताहो नेति वासव ॥
+> य इमे ब्राह्मणाः प्रोक्ता मन्त्रा वै प्रोक्षणे गवाम् । एते प्रमाणं भवत उताहो नेति वासव ॥
 >
 > "These Brahmanas that are declared, and the mantras for the sprinkling of cows — is this authoritative for you, or not, O Vasava [Indra]?"
 
@@ -2178,7 +2178,7 @@ Here "Brahmana" is unambiguously masculine; some scholars simply treat such inst
 
 ### Page 169
 
-> इतिहासश्च पुराणं च गाथाश्च नाराशंसीश्चानुव्यचलन् । (Atharvaveda 15-6-11)
+> तमितिहासश्च पुराणं च गाथाश्च नाराशंसीश्चानुव्यचलन् । (Atharvaveda 15-6-11)
 >
 > "And Itihasa (legend), Purana, Gathas (ballads), and Narashamsi (praise-verses of men) followed along."
 
@@ -2188,7 +2188,7 @@ That is: a collection of Itihasa, Purana, Gatha, and Narashamsi material is foun
 
 Grammarians, commentators, glossators, and lexicographers all explain "Brahmana" somewhat differently. Sayanacharya, in the foundational introduction to his Rigveda commentary, writes:
 
-> मन्त्रस्य अविनक्तार्थस्य तु विनियोगबोधनाय ब्राह्मणवाक्यमुपयुक्तम् ॥
+> मंत्रस्य अविवक्षितार्थत्वे तु विनियोगबोधनाय ब्राह्मणवाक्यमुपयुक्तम् ॥
 >
 > "The Brahmana statement serves the purpose of explaining the ritual application (viniyoga) of a mantra whose meaning is not directly stated."
 
@@ -2196,13 +2196,13 @@ That is: Brahmana-statements help clarify both Vedic meaning and a mantra's ritu
 
 "Brahmana" is also explained in relation to yajna-duties — where the Brahmana texts explain ritual acts connected with a yajna, that explanation itself is what "Brahmana" means. As an example:
 
-> **दूरोहणं रोहति तस्म्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 6-25)
+> **दूरोहणं रोहति तस्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 6-25)
 >
 > "'He ascends the Durohana [rite]' — this is the Brahmana stated for it."
 
 This "Durohana Brahmana" is explained as follows:
 
-> दूरोहणं रोहति । स्वर्गो वै लोको दूरोहणम् । स्वर्गमेव तं लोकं रोहति य एवं वेद । यदेन दूरोहणां स असौ वै दूरोहो योऽसौ तपति । कश्चिद्वा अत्र गच्छति । स यद्दुरोहणं रोहत्येतस्मैव तद्रोहति । हंसनत्वा रोहति । हंसः शुचिषद्विश्व वै हंसः शुचिषक् ॥ इत्यादि ॥
+> दूरोहणं रोहति । स्वर्गो वै लोको दूरोहणम् । स्वर्गमेव तं लोकं रोहति य एवं वेद । यदेव दूरोहणां ३ असौ वै दूरोहो योऽसौ तपति । कश्चिद्वा अत्र गच्छति । स यद्दुरोहणं रोहत्येतमेव तद्रोहति । हंसवत्यारोहति । हंसः शुचिषदित्येष वै हंसः शुचिषत् ॥ इत्यादि ॥
 >
 > "He ascends the Durohana. Heaven indeed is the world called Durohana ['difficult to ascend']. He who knows this thus indeed ascends to that heavenly world. Since it is difficult [to ascend], that indeed is 'Duroha' — that [sun] which burns/shines. Does anyone go there? When he ascends the Durohana, he ascends for that very [heaven]. He ascends by means of the swan (hamsa) — 'the swan dwelling in purity...' and so on."
 
@@ -2211,25 +2211,25 @@ From this, it's clear that the "Durohana-Brahmana" explains the meaning of the w
 
 ### Page 170
 
-> **यद्गौरिवीतं तस्म्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 8-2)
+> **यद्गौरवीतं तस्योक्तं ब्राह्मणम् ॥** (Aitareya Brahmana 8-2)
 >
 > "'That which is Gaurivita' — the Brahmana stated for it."
 
 Explained as:
 
-> गौरिवीतं षोडशि साम कुर्वीत तेजस्कामो ब्रह्मवर्चस्कामस्त्येजो वै ब्रह्मवर्चसं गौरिवीतम् । तेजस्वी ब्रह्मवर्चसी भवति य एवं विद्वान् गौरिवीतं षोडशि साम कुरुते । नानदं षोडशि साम कर्तव्यमित्याहुः ॥
+> गौरिवीतं षोडशि साम कुर्वीत तेजस्कामो ब्रह्मवर्चस्कामस्तेजो वै ब्रह्मवर्चसं गौरिवीतम् । तेजस्वी ब्रह्मवर्चसी भवति य एवं विद्वान् गौरिवीतं षोडशि साम कुरुते । नानदं षोडशि साम कर्तव्यमित्याहुः ॥
 >
 > "One desiring vitality (tejas) and Brahmic radiance (brahmavarcas) should perform the Gaurivita Shodashi chant — tejas is indeed Brahmavarcas, [and this is] Gaurivita. He who, knowing this, performs the Gaurivita Shodashi chant becomes vital and radiant. It is said the Shodashi chant should not be performed without proper accompaniment."
 
-This Gaurivita-Brahmana explains the word "Gaurivita" itself. Similarly, for "Chaidumbari":
+This Gaurivita-Brahmana explains the word "Gaurivita" itself. Similarly, for "Audumbari":
 
-> **अथास्य चैदुम्बरीमासन्दीं संभरन्ति । तस्य उक्तं ब्राह्मणम्** (Aitareya Brahmana 8-17)
+> **अथास्मा औदुम्बरीमासन्दीं संभरन्ति । तस्य उक्तं ब्राह्मणम्** (Aitareya Brahmana 8-17)
 >
-> "'Now they gather for him a Chaidumbari seat.' Its Brahmana is stated:"
+> "'Now they gather for him an Audumbari seat.' Its Brahmana is stated:"
 
-> चैदुम्बरीं समन्यारभन्त इषमूर्जमन्वारभ इत्युद्गार्व अन्नाद्यमुदुम्बरो यद्वै तद्देवा इषमूर्जं व्यभजन्त तत उदुम्बरः समभवत्स्याश्च त्रिः संवत्सरस्य पच्यते ॥ (5-24)
+> औदुम्बरीं समन्वारभन्त इषमूर्जमन्वारभ इत्यूर्व्वा अन्नाद्यमुदुंबरो यद्वै तद्देवा इषमूर्जं व्यभजन्त तत उदुम्बरः समभवत्तस्मात्स त्रिः संवत्सरस्य पच्यते ॥ (5-24)
 >
-> "They take hold of the Chaidumbari together with vigor and nourishing strength — the Udumbara (fig tree) is food itself. Since the gods once divided vigor and nourishing strength between them, from that the Udumbara came into being, and it ripens three times a year."
+> "They take hold of the Audumbari together with vigor and nourishing strength — the Udumbara (fig tree) is food itself. Since the gods once divided vigor and nourishing strength between them, from that the Udumbara came into being, and it ripens three times a year."
 
 From these examples, statements in the Brahmanas that explain a word's meaning were evidently themselves understood as expositions "of Brahman" — hence such explanations came to be called "Brahmanas."
 
@@ -2248,16 +2248,16 @@ That is: the **Karma-Brahmana** explains the procedure for rites and the ritual 
 
 ### Page 171 — "Anubrahmana"
 
-Commentators generally gloss this as "brahmana-sadrsham anubrahmanam" — "that which resembles a Brahmana is called Anubrahmana" — i.e., not a Brahmana proper, but a text resembling one. Some apply the term to small individual Brahmana-portions within the Samaveda; the sage Satyavrata and others apply it to smaller Brahmana texts other than the Tandya-Brahmana. The Nidana-sutra cites several such passages under this name. Bhatta Bhaskara's Taittiriya-Samhita commentary (1-8-1, on the Brahmana portion 1-6-11-1) glosses a passage:
+Commentators generally gloss this as "brahmana-sadrsham anubrahmanam" — "that which resembles a Brahmana is called Anubrahmana" — i.e., not a Brahmana proper, but a text resembling one. Some apply the term to small individual Brahmana-portions within the Samaveda; the sage Satyavrata and others apply it to the remaining seven Brahmanas other than the Tandya-Brahmana. The Nidana-sutra cites several such passages under this name. Bhatta Bhaskara's Taittiriya-Samhita commentary (1-8-1, on the Brahmana portion 1-6-11-1) glosses a passage:
 
-> अश्वा वेतानि हविर्गोंशि भवन्ति ॥
+> अष्टावेतानि हवीगांषि भवन्ति ॥
 >
-> अश्वा वेतानि हविर्-गोम्शि भवन्ति
-> *aśvā vetāni havir-gomśi bhavanti*
+> अष्टावेतानि हवीगांषि भवन्ति
+> *aṣṭāvetāni havīgāṃṣi bhavanti*
 >
-> "These become the horse-related oblation materials..."
+> "These become eight oblations..."
 
-as "anubrāhmaṇaṃ ca bhavanti" — "and these become Anubrahmana." Madhava's Taittiriya Brahmana commentary (1-6-1) similarly opens a passage:
+as "anubrāhmaṇaṃ ca bhavati" — "and these become Anubrahmana." Madhava's Taittiriya Brahmana commentary (1-6-1) similarly opens a passage:
 
 > अथ राजसूयस्यानुब्राह्मणम् ॥
 >
@@ -2272,7 +2272,7 @@ Together these confirm that certain internal sub-portions of a Brahmana are spec
 
 ### 1. The Aitareya Brahmana
 
-The Rigveda has two Brahmanas: the **Aitareya** and the **Kaushitaki** (also called the Sankhyayana-Brahmana). The Aitareya Brahmana consists of five Panchikas (groups), each with five chapters (adhyayas) — 40 chapters in total. Its subject matter runs roughly as follows:
+The Rigveda has two Brahmanas: the **Aitareya** and the **Kaushitaki** (also called the Sankhyayana-Brahmana). The Aitareya Brahmana consists of eight Panchikas (groups), each with five chapters (adhyayas) — 40 chapters in total. Its subject matter runs roughly as follows:
 
 - **Adhyayas 1–13:** the rules and procedure to be followed in Soma-yagas such as the Jyotishtoma — the sequence of the sacrifice.
 - **Adhyaya 14:** the Agnishtoma yaga and other matters.
@@ -2290,16 +2290,16 @@ The Rigveda has two Brahmanas: the **Aitareya** and the **Kaushitaki** (also cal
 - **Chapters 26–30:** descriptions of the duties of other Ritvij priests.
 - **Chapters 31–40:** the yajnas a Kshatriya must perform, and the royal coronation (Rajyabhisheka) ceremony.
 
-**Why is it called "Aitareya"?** Sayanacharya's own commentary preserves the story: a certain sage had several wives, one named **Itara**, unloved by the rest. Her son was accordingly called "Itareya" (son of Itara) by others, though his given name was **Mahidasa**. When the father performed yajnas, he favored his other sons over Itara's son. In her distress at this neglect, Itara prayed to the goddess Bhumidevi (Earth), who — pleased with her devotion — granted the boy a throne surpassing heaven itself and blessed him with mastery of the Rigveda's Brahmana, Aranyaka, and Upanishad. Because Mahidasa, son of Itara, composed these very texts, they became known as the **Aitareya Brahmana, Aitareya Aranyaka,** and **Aitareya Upanishad.**
+**Why is it called "Aitareya"?** Sayanacharya's own commentary preserves the story: a certain sage had several wives, one named **Itara**, not loved by the sage. Her son was accordingly called "Itareya" (son of Itara) by others, though his given name was **Mahidasa**. When the father performed yajnas, he favored his other sons over Itara's son. In her distress at this neglect, Itara prayed to the goddess Bhumidevi (Earth), who — pleased with her devotion — granted the boy a divine throne and blessed him with mastery of the Rigveda's Brahmana, Aranyaka, and Upanishad. Because Mahidasa, son of Itara, composed these very texts, they became known as the **Aitareya Brahmana, Aitareya Aranyaka,** and **Aitareya Upanishad.**
 
 ### Where the Aitareya Brahmana Circulated
 
-The Charanavyuha (third Kandika) quotes a verse from the *Mahanarnava*:
+The Charanavyuha (second Kandika) quotes a verse from the *Mahanarnava*:
 
-> तुंगा कृष्णा तथा गोदा सह्याद्रिशिखरावधि । आ आंध्रदेशपर्यंतं बह्वृचाश्चैवशालायनी ॥
+> तुंगा कृष्णा तथा गोदा सह्याद्रिशिखरावधि । आ आंध्रदेशपर्यंतं बह्वचश्चाश्वलायनी ॥
 >
-> तुङ्गा कृष्णा तथा गोदा सह्याद्रि-शिखरावधि, आ आन्ध्र-देश-पर्यन्तं बह्वृचाश् चैव-शालायनी
-> *tuṅgā kṛṣṇā tathā godā sahyādri-śikharāvadhi, ā āndhra-deśa-paryantaṃ bahvṛcāś caiva-śālāyanī*
+> तुङ्गा कृष्णा तथा गोदा सह्याद्रि-शिखरावधि, आ आन्ध्र-देश-पर्यन्तं बह्वचश् चाश्वलायनी
+> *tuṅgā kṛṣṇā tathā godā sahyādri-śikharāvadhi, ā āndhra-deśa-paryantaṃ bahvacaś cāśvalāyanī*
 >
 > "From the Tunga, Krishna, and Godavari [rivers], up to the peaks of the Sahyadri mountains, extending as far as the Andhra region — there the Bahvricha [tradition], via the Ashvalayana line, [is established]."
 
@@ -2307,14 +2307,14 @@ That is: the Aitareya Brahmana (belonging to the Bahvricha/Ashvalayana shakhas) 
 
 ### 2. The Kaushitaki Brahmana
 
-The Brahmana of the Sankhyayana shakha is called the Kaushitaki-Brahmana (some instead call it the Sankhyayana-Brahmana). A manuscript held at the Bodleian confirms this dual naming, closing with: *"kauṣītakī-matānusāre śāṅkhāyana-brāhmaṇam"* ("the Sankhyayana-Brahmana, following the Kaushitaki tradition"). A commentator named Mahisabana, glossing the Charanavyuha's second Kandika, cites a further verse locating the tradition geographically:
+The Brahmana of the Sankhyayana shakha is called the Kaushitaki-Brahmana (some instead call it the Sankhyayana-Brahmana). A manuscript held at the Bodleian confirms this dual naming, closing with: *"kauṣītakī-matānusārī śāṅkhāyana-brāhmaṇam"* ("the Sankhyayana-Brahmana, following the Kaushitaki tradition"). A commentator named Mahisadasa, glossing the Charanavyuha's second Kandika, cites a further verse locating the tradition geographically:
 
-> उत्तरे गुर्जरे देशे वेदो ब्रह्म च ईरितः । कौषीतकब्राह्मणं च शाखा शांखायनी स्थिता ॥
+> उत्तरे गुर्जरे देशे वेदो बह्वृ च ईरितः । कौषीतकिब्राह्मणं च शाखा शांखायनी स्थिता ॥
 >
-> उत्तरे गुर्जरे देशे वेदो ब्रह्म च ईरितः, कौषीतक-ब्राह्मणं च शाखा शाङ्खायनी स्थिता
-> *uttare gurjare deśe vedo brahma ca īritaḥ, kauṣītaka-brāhmaṇaṃ ca śākhā śāṅkhāyanī sthitā*
+> उत्तरे गुर्जरे देशे वेदो बह्वृ च ईरितः, कौषीतकि-ब्राह्मणं च शाखा शाङ्खायनी स्थिता
+> *uttare gurjare deśe vedo bahvṛ ca īritaḥ, kauṣītaki-brāhmaṇaṃ ca śākhā śāṅkhāyanī sthitā*
 >
-> "In the northern Gujarat region, the Veda and Brahman are proclaimed; there, the Kaushitaki-Brahmana and the Sankhyayana shakha are established."
+> "In the northern Gujarat region, the Bahvricha Veda is proclaimed; there, the Kaushitaki-Brahmana and the Sankhyayana shakha are established."
 
 
 ### Page 173
@@ -2323,11 +2323,11 @@ According to this verse, the Brahmana belonging to the Sankhyayana shakha shares
 
 The text's actual author cannot be determined with certainty, but calling it either "Kaushitaki" or "Sankhyayana" is equally acceptable — the Sankhyayana Aranyaka itself (15-1) records that Uddalaka gave his teaching to Kahola-Kaushitaki, who was in turn Sankhyayana's own teacher; hence either name applies to this Brahmana.
 
-The text runs to 30 chapters. Most of its subject matter matches the Aitareya Brahmana, though a few topics — notably the description of the Somayaga — are treated in greater detail here. Broadly: the Aitareya Brahmana follows the Rigveda's Shakala (or Bashkala) shakha, while the Kaushitaki-Brahmana follows the Sankhyayana shakha.
+The text runs to 30 chapters. Most of its subject matter matches the Aitareya Brahmana, though a few topics — notably the description of the Somayaga — are treated in greater detail here. Broadly: the Aitareya Brahmana follows the Rigveda's Shakala (or Bahvricha) shakha, while the Kaushitaki-Brahmana follows the Bashkala shakha.
 
 ### The Aitareya Aranyaka
 
-Certain texts are meant specifically for Brahmins, called Aranyakas, generally regarded as belonging to the concluding portion of the Brahmanas, treating subject matter similar to the Brahmanas themselves — but since they were prescribed to be studied only in the forest, they came to be called "Aranyakas." Sayanacharya's Taittiriya Aranyaka commentary states:
+Certain texts are attached to the Brahmanas, called Aranyakas, generally regarded as belonging to the concluding portion of the Brahmanas, treating subject matter similar to the Brahmanas themselves — but since they were prescribed to be studied only in the forest, they came to be called "Aranyakas." Sayanacharya's Taittiriya Aranyaka commentary states:
 
 > अरण्याध्ययनादेतदारण्यकमितीर्यते । अरण्ये तदधीयीतेत्येवं वाक्यं प्रचक्ष्यते ॥
 >
@@ -2349,31 +2349,31 @@ The second Aranyaka has two parts: chapters 1–3 explain ritual meaning, while 
 
 ### Compilation
 
-Tradition holds that Mahidasa (promulgator of the Aitareya Brahmana) composed the first two Aranyakas; Ashvalayana composed the third; and Shaunaka composed the remaining portion. The Rikvarnanukramanike records the following account of the many texts in this lineage:
+Tradition holds that Mahidasa (promulgator of the Aitareya Brahmana) composed the first three Aranyakas; Ashvalayana composed the fourth; and Shaunaka composed the fifth. Shadgurushishya, in the introduction to the Rik-sarvanukramanika, records the following account of the many texts in this lineage:
 
-> शौनकीया दश ग्रन्थास्ते ऋग्वेदगुप्स्रये । अष्टानुक्रमणीत्याद्या छन्दस्सी दैवती तथा ॥ अनुवाकानुक्रमणे सूक्तानुक्रमणे तथा । ऋक्सादयोर्विद्वांश्च बार्हद्दैवतमेव च ॥ प्रातिशाख्यं शौनकीयं स्वार्थं दशमनुच्यते ।
+> शौनकीया दश ग्रंथास्तदा ऋग्वेदगुप्तये । आर्ष्यानुक्रमणीत्याद्या छांदसी दैवती तथा ॥ अनुवाकानुक्रमणी सूक्तानुक्रमणी तथा । ऋक्पादयोर्विधाने च बार्हद्दैवतमेव च ॥ प्रातिशाख्यं शौनकीयं स्मार्तं दशममुच्यते ।
 >
-> शौनकीया दश ग्रन्थास् ते ऋग्वेद-गुप्स्रये । अष्टानुक्रमणीत्याद्या छन्दस्सी दैवती तथा ॥ अनुवाकानुक्रमणे सूक्तानुक्रमणे तथा । ऋक्सादयोर् विद्वांश् च बार्हद्दैवतम् एव च ॥ प्रातिशाख्यं शौनकीयं स्वार्थं दशम् अनुच्यते ।
-> *śaunakīyā daśa granthās te ṛgveda-gupsraye | aṣṭānukramaṇītyādyā chandassī daivatī tathā || anuvākānukramaṇe sūktānukramaṇe tathā | ṛksādayor vidvāṃś ca bārhaddaivatam eva ca || prātiśākhyaṃ śaunakīyaṃ svārthaṃ daśam anucyate |*
+> शौनकीया दश ग्रंथास् तदा ऋग्वेद-गुप्तये । आर्ष्यानुक्रमणीत्याद्या छांदसी दैवती तथा ॥ अनुवाकानुक्रमणी सूक्तानुक्रमणी तथा । ऋक्पादयोर् विधाने च बार्हद्दैवतम् एव च ॥ प्रातिशाख्यं शौनकीयं स्मार्तं दशमम् उच्यते ।
+> *śaunakīyā daśa granthās tadā ṛgveda-guptaye | ārṣyānukramaṇītyādyā chāṃdasī daivatī tathā || anuvākānukramaṇī sūktānukramaṇī tathā | ṛkpādayor vidhāne ca bārhaddaivatam eva ca || prātiśākhyaṃ śaunakīyaṃ smārtaṃ daśamam ucyate |*
 >
-> "These are Shaunaka's ten texts for the protection of the Rigveda: the Ashtaka-anukramani and similar works, the Chandas[-anukramani], and likewise the Daivata[-anukramani]; the Anuvaka-anukramani, and likewise the Sukta-anukramani; [a work] on the words of the Rik and related matters, and the Brihaddaivata itself; and the Pratishakhya composed by Shaunaka is called the tenth, for its own purpose."
+> "These are Shaunaka's ten texts for the protection of the Rigveda: the Arshya-anukramani and similar works, the Chandas[-anukramani], and likewise the Daivata[-anukramani]; the Anuvaka-anukramani, and likewise the Sukta-anukramani; [works] on the rules (vidhana) of the Rik and the Pada, and the Brihaddaivata itself; and the Pratishakhya of Shaunaka and the Smarta [work] is called the tenth."
 
 And further:
 
-> शौनकीयं च दशकं तच्छिष्यस्य त्रिकं तथा । द्वादशाध्यायकं सूक्तं चतुःसद्गृह्यमेव च ॥ चतुर्थारण्यकं चेति ह्याश्वलायनसूत्रकम् ॥
+> शौनकीयं च दशकं तच्छिष्यस्य त्रिकं तथा । द्वादशाध्यायकं सूत्रं चतुष्कगृह्यमेव च ॥ चतुर्थारण्यकं चेति ह्याश्वलायनसूत्रकम् ॥
 >
-> शौनकीयं च दशकं तच्-छिष्यस्य त्रिकं तथा । द्वादशाध्यायकं सूक्तं चतुः-सद्-गृह्यम् एव च ॥ चतुर्थारण्यकं चेति ह्य् आश्वलायन-सूत्रकम् ॥
-> *śaunakīyaṃ ca daśakaṃ tac-chiṣyasya trikaṃ tathā | dvādaśādhyāyakaṃ sūktaṃ catuḥ-sad-gṛhyam eva ca || caturthāraṇyakaṃ ceti hy āśvalāyana-sūtrakam ||*
+> शौनकीयं च दशकं तच्-छिष्यस्य त्रिकं तथा । द्वादशाध्यायकं सूत्रं चतुष्क-गृह्यम् एव च ॥ चतुर्थारण्यकं चेति ह्य् आश्वलायन-सूत्रकम् ॥
+> *śaunakīyaṃ ca daśakaṃ tac-chiṣyasya trikaṃ tathā | dvādaśādhyāyakaṃ sūtraṃ catuṣka-gṛhyam eva ca || caturthāraṇyakaṃ ceti hy āśvalāyana-sūtrakam ||*
 >
-> "Thus Shaunaka's ten [texts]; and likewise his disciple's [Ashvalayana's] three: the twelve-chapter Sukta[-related Shrautasutra], the four-part Grihyasutra, and the fourth being the Aranyaka — these together constitute the Ashvalayana-sutra corpus."
+> "Thus Shaunaka's ten [texts]; and likewise his disciple's [Ashvalayana's] three: the twelve-chapter Sutra, the four-part Grihyasutra, and the fourth being the Aranyaka — these together constitute the Ashvalayana-sutra corpus."
 
 That is: Shaunaka wrote ten Rigveda-related texts — (1) Arshanukramani, (2) Chandonukramani, (3) Devatanukramani, (4) Anuvakanukramani, (5) Suktanukramani, (6) Rigvidhana, (7) Padavidhana, (8) Brihaddaivata, (9) Pratishakhya, and (10) Shaunaka-smriti. His disciple Ashvalayana composed the twelve-chapter Shrautasutra, the four-chapter Grihyasutra, and the fourth Aranyaka within the Aitareya Aranyaka. Shaunaka himself compiled the fifth Aranyaka. Sayana's Aitareya Aranyaka commentary states:
 
-> आत एव पञ्चमे शौनकेनोदाहृताः । (१-४-१)
+> अत एव पञ्चमे शौनकेनोदाहृताः । (१-४-१)
 > ताश्च पञ्चमे शौनकेन शाखान्तरमाश्रित्य पठिताः । (१-४-१)
 >
-> आत एव पञ्चमे शौनकेनोदाहृताः ।
-> *āta eva pañcame śaunakenodāhṛtāḥ | (1-4-1)*
+> अत एव पञ्चमे शौनकेनोदाहृताः ।
+> *ata eva pañcame śaunakenodāhṛtāḥ | (1-4-1)*
 > ताश् च पञ्चमे शौनकेन शाखान्तरम् आश्रित्य पठिताः ।
 > *tāś ca pañcame śaunakena śākhāntaram āśritya paṭhitāḥ | (1-4-1)*
 >
@@ -2406,10 +2406,10 @@ This Aranyaka resembles the Aitareya Aranyaka in every respect — its descripti
 
 At the end of this Aranyaka appears a closing statement:
 
-> गुणाख्याश्चांबायनादस्माभिरधीतम् ॥ १५ ॥
+> गुणाख्याच्छांखायनादस्माभिरधीतं ॥ १५ ॥
 >
-> गुणाख्याश् चाम्बायनाद् अस्माभिर् अधीतम् ॥
-> *guṇākhyāś cāmbāyanād asmābhir adhītam ||*
+> गुणाख्याच् छांखायनाद् अस्माभिर् अधीतं ॥
+> *guṇākhyāc chāṃkhāyanād asmābhir adhītaṃ ||*
 >
 > "This has been learned by us from Gunakhya-Sankhyayana."
 
@@ -2481,7 +2481,7 @@ Whoever, without prior study, perceives the mantras through divine grace alone i
 >
 > "Even having studied it fewer than twelve repetitions, he is a ṛṣi." "Thus he who, having studied it fewer than twelve times, still grasps it — he too is a ṛṣi." *(Verse pair re-read from the better scan in the [?] pass.)*
 
-Those who have studied the mantras and made them their own may also be counted as rishis; but they must have studied and mastered the mantra not fewer than twelve times. Thus rishi-hood may apply not only to the first seers but to others too.
+Those who have studied the mantras and made them their own may also be counted as rishis; but they must have studied and mastered the mantra fewer than twelve times. Thus rishi-hood may apply not only to the first seers but to others too.
 
 The matter of the rishis is described in some detail in the Vāyu, Brahmāṇḍa and Matsya Purāṇas. The verse numbers given here follow the Brahmāṇḍa Purāṇa, but the readings of all three Purāṇas have been compared and as correct a reading as possible is given.
 
@@ -2502,18 +2502,18 @@ That is: in this and the earlier Manvantaras the rishis practised hard austerity
 
 ### Page 178
 
-The rishis of the first Mandala begin with Madhuchchandas and others; those who saw a hundred mantras are called "Shatarshina." The rishis of Mandalas 2–7 — Gritsamada, Vishvamitra, Vamadeva-Gautama, Atri, Bharadvaja, Vasishtha, Pavamanya, and others — are termed "Madhyama," while the 8th Mandala's rishis are called "Kshudrasukta" and "Mahasukta." The Ashvalayana Grihyasutra confirms this:
+The rishis of the first Mandala begin with Madhuchchandas and others; those who saw a hundred mantras are called "Shatarchina." The rishis of Mandalas 2–7 — Gritsamada, Vishvamitra, Vamadeva-Gautama, Atri, Bharadvaja, Vasishtha, Pavamanya, and others — are termed "Madhyama," while the 10th Mandala's rishis are called "Kshudrasukta" and "Mahasukta." The Ashvalayana Grihyasutra confirms this:
 
-> अथ ऋषयः शतर्षिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर्भरद्वाजो वसिष्ठः प्रगाथाः पावमान्याः क्षुद्रसूक्ता महासूक्ता इति ॥
+> अथ ऋषयः शतर्चिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर्भरद्वाजो वसिष्ठः प्रगाथाः पावमान्यः क्षुद्रसूक्ता महासूक्ता इति ॥
 >
-> अथ ऋषयः शतर्षिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर् भरद्वाजो वसिष्ठः प्रगाथाः पावमान्याः क्षुद्रसूक्ता महासूक्ता इति ॥
-> *atha ṛṣayaḥ śatarṣino mādhyamā gṛtsamado viśvāmitro vāmadevo'trir bharadvājo vasiṣṭhaḥ pragāthāḥ pāvamānyāḥ kṣudrasūktā mahāsūktā iti ||*
+> अथ ऋषयः शतर्चिनो माध्यमा गृत्समदो विश्वामित्रो वामदेवोऽत्रिर् भरद्वाजो वसिष्ठः प्रगाथाः पावमान्यः क्षुद्रसूक्ता महासूक्ता इति ॥
+> *atha ṛṣayaḥ śatarcino mādhyamā gṛtsamado viśvāmitro vāmadevo'trir bharadvājo vasiṣṭhaḥ pragāthāḥ pāvamānyaḥ kṣudrasūktā mahāsūktā iti ||*
 >
-> "Now, the rishis: Shatarshina, Madhyama, Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha, the Pragathas, the Pavamanyas, the Kshudrasuktas, and the Mahasuktas — thus."
+> "Now, the rishis: Shatarchina, Madhyama, Gritsamada, Vishvamitra, Vamadeva, Atri, Bharadvaja, Vasishtha, the Pragathas, the Pavamanyas, the Kshudrasuktas, and the Mahasuktas — thus."
 
 ### These Are the Rishi-Classifications
 
-Among the rishis, there are said to be several classes — Maharshi, Rishi, Rishika, Rishiputra, and Shrutarshi. Harishchandra's commentary on the Charaka-sutra states four kinds:
+Among the rishis, there are said to be several classes — Maharshi, Rishi, Rishika, Rishiputra, and Shrutarshi. Harishchandra's commentary on the Charaka-sutra (sutra 1-7) states four kinds:
 
 > मुनीनां चतुर्विधो भेदः । ऋषयः, ऋषिकाः, ऋषिपुत्राः महर्षयश्च ।
 >
@@ -2532,35 +2532,35 @@ According to Harishchandra, excluding Shrutarshi, there are only these four divi
 
 ### 1. Maharshi = Ishvara (the Divine Ones)
 
-> भृगुर्मरीचिश्चात्रिश्च ह्यंगिराः पुलहः कृतुः । मनुर्दक्षो वसिष्ठश्च पुलस्त्यश्चेति ते दश ॥ ९६ ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयमुच्चराः । सप्तैवर्षयो यस्मात् सृतास् स्यान्महर्षयः ॥ ९७ ॥
+> भृगुर्मरीचिरत्रिश्च ह्यंगिराः पुलहः कृतुः । मनुर्दक्षो वसिष्ठश्च पुलस्त्यश्चेति ते दश ॥ ९६ ॥ ब्रह्मणो मानसा ह्येते उद्यूताः स्वयमीश्वराः । परत्वेनर्षयो यस्मात् स्मृतास्तस्मान्महर्षयः ॥ ९७ ॥
 >
-> भृगुर् मरीचिश् चात्रिश् च ह्य् अङ्गिराः पुलहः क्रतुः । मनुर् दक्षो वसिष्ठश् च पुलस्त्यश् चेति ते दश ॥ ब्रह्मणो मानसाः सृष्टा उद्गाथाः स्वयम् उच्चराः । सप्तैव ऋषयो यस्मात् सृतास् स्यान् महर्षयः ॥
-> *bhṛgur marīciś cātriś ca hy aṅgirāḥ pulahaḥ kratuḥ | manur dakṣo vasiṣṭhaś ca pulastyaś ceti te daśa || brahmaṇo mānasāḥ sṛṣṭā udgāthāḥ svayam uccarāḥ | saptaiva ṛṣayo yasmāt sṛtās syān maharṣayaḥ ||*
+> भृगुर् मरीचिर् अत्रिश् च ह्य् अङ्गिराः पुलहः क्रतुः । मनुर् दक्षो वसिष्ठश् च पुलस्त्यश् चेति ते दश ॥ ब्रह्मणो मानसा ह्येते उद्यूताः स्वयम् ईश्वराः । परत्वेनर्षयो यस्मात् स्मृतास्तस्मान् महर्षयः ॥
+> *bhṛgur marīcir atriś ca hy aṅgirāḥ pulahaḥ kratuḥ | manur dakṣo vasiṣṭhaś ca pulastyaś ceti te daśa || brahmaṇo mānasā hyete udyūtāḥ svayam īśvarāḥ | paratvena ṛṣayo yasmāt smṛtās tasmān maharṣayaḥ ||*
 >
-> "Bhrigu, Marichi, and Atri, and likewise Angiras, Pulaha, Kratu, Manu, Daksha, Vasishtha, and Pulastya — these are the ten. Created from Brahma's mind, self-proclaiming... From whom the seven [great] rishis arose — these are the Maharshis."
+> "Bhrigu, Marichi, and Atri, and likewise Angiras, Pulaha, Kratu, Manu, Daksha, Vasishtha, and Pulastya — these are the ten. These are indeed mind-born of Brahma, ... lords themselves; since by supremacy they are remembered as rishis, therefore they are Maharshis."
 
 Among the rishis, the first rank belongs to the Maharshis. Bhrigu, Marichi, Atri, Angiras, Pulaha, Kratu, Manu, Daksha, Vasishtha, and Pulastya — these ten are the mind-born sons of Brahma, called "Ishvara" (divine lords). Being the foremost among all rishis, they are given the designation "Maharshi."
 
 
 ### Page 179 — 2. Rishi
 
-> ईश्वराणां सुता ह्येते ऋषयस्स्वान्निबोधत । काव्यो बृहस्पतिश्चैव कश्यपश्च्यवनस्थ ॥ ९८ ॥ उतथ्यो वामदेवश्च अगस्त्यश्चैषिजस्थ । कर्दमो विश्रवाश्च शक्त्या वाल्मीक्यस्थावर्तकः ॥ ९९ ॥ इत्येते ऋषयः प्रोक्तास्सपसा चर्षितां गताः ।
+> ईश्वराणां सुता ह्येते ऋषयस्तान्निबोधत । काव्यो बृहस्पतिश्चैव कश्यपश्च्यवनस्तथा ॥ ९८ ॥ उतथ्यो वामदेवश्च अगस्त्यश्चौशिजस्तथा । कर्दमो विश्रवाश्च शक्तिर्वाखिल्यास्तथार्वतः ॥ ९९ ॥ इत्येते ऋषयः प्रोक्तास्तपसा चर्षितां गताः ।
 >
-> *īśvarāṇāṃ sutā hy ete ṛṣayas svān nibodhata | kāvyo bṛhaspatiś caiva kaśyapaś cyavanasya ॥ utathyo vāmadevaś ca agastyaś caiṣijasya | kardamo viśravāś ca śaktyā vālmīkyas tāvartakaḥ ॥ ityete ṛṣayaḥ proktās sapasā carṣitāṃ gatāḥ |*
+> *īśvarāṇāṃ sutā hy ete ṛṣayas tān nibodhata | kāvyo bṛhaspatiś caiva kaśyapaś cyavanas tathā ॥ utathyo vāmadevaś ca agastyaś cauśijas tathā | kardamo viśravāś ca śaktir vākhilyās tathārvataḥ ॥ ityete ṛṣayaḥ proktās tapasā carṣitāṃ gatāḥ |*
 >
-> "Know these to be the sons of the Ishvaras [Maharshis] — the rishis: Kavya (Ushanas), and likewise Brihaspati, Kashyapa, and Chyavana; Utathya, Vamadeva, and Agastya... Kardama, Vishravas, and, by his power, Valmiki... — these are declared rishis, who attained excellence through toil/austerity."
+> "Know these to be the sons of the Ishvaras [Maharshis] — the rishis: Kavya (Ushanas), and likewise Brihaspati, Kashyapa, and Chyavana; Utathya, Vamadeva, and Agastya... Kardama, Vishravas, Shakti, the Valakhilyas and Arvata — these are declared rishis, who attained excellence through toil/austerity."
 
-That is: Ushana-Kavya, Brihaspati, Kashyapa, Chyavana, Utathya, Vamadeva, Agastya, Ushik, Kardama, Vishravas, Shakti, Valmika, and Arvata form the second class of rishis — sons of the Maharshis (Bhrigu and others), who attained the rank of "rishi" through austerity (tapas).
+That is: Ushana-Kavya, Brihaspati, Kashyapa, Chyavana, Utathya, Vamadeva, Agastya, Ushik, Kardama, Vishravas, Shakti, Valakhilya, and Arvata form the second class of rishis — sons of the Maharshis (Bhrigu and others), who attained the rank of "rishi" through austerity (tapas).
 
 ### 3. Rishiputra — Rishika
 
-> ऋषिपुत्रास्त्वृषीकांस्तु गर्भोत्पन्नान्निबोधत ॥ १०० ॥ वत्सरो नग्नहश्चैव भरद्वाजश्चैव च । ऋषिदीर्घतमाश्चैव बृहदुक्थः शरद्वते ॥ १०१ ॥ वाजश्रवा सुविप्रश्च वश्याश्च पराशरः । दधीच शंशपाश्चैव रांका वैश्रवणस्थ ॥ १०२ ॥ इत्येते ऋषिकाः प्रोक्तास्स्वे सत्या ऋषितां गताः ।
+> ऋषिपुत्रानृषीकांस्तु गर्भोत्पन्नान्निबोधत ॥ १०० ॥ वत्सरो नग्नहूश्चैव भरद्वाजस्तथैव च । ऋषिदीर्घतमाश्चैव बृहदुक्थः शरद्वतः ॥ १०१ ॥ वाजश्रवा सुवित्तश्च वश्याश्वश्च पराशरः । दधीचः शंशपाश्चैव राजा वैश्रवणस्तथा ॥ १०२ ॥ इत्येते ऋषिकाः प्रोक्तास्ते सत्यादृषितां गताः ।
 >
-> *ṛṣiputrās tv ṛṣīkāṃs tu garbhotpannān nibodhata ॥ vatsaro nagnahaś caiva bharadvājaś caiva ca | ṛṣi-dīrghatamāś caiva bṛhaduktaḥ śaradvate ॥ vājaśravā suvipraś ca vaśyāś ca parāśaraḥ | dadhīca śaṃśapāś caiva rāṅkā vaiśravaṇasya ॥ ityete ṛṣikāḥ proktās sve satyā ṛṣitāṃ gatāḥ |*
+> *ṛṣiputrān ṛṣīkāṃs tu garbhotpannān nibodhata ॥ vatsaro nagnahūś caiva bharadvājas tathaiva ca | ṛṣi-dīrghatamāś caiva bṛhaduktaḥ śaradvataḥ ॥ vājaśravā suvittaś ca vaśyāśvaś ca parāśaraḥ | dadhīcaḥ śaṃśapāś caiva rājā vaiśravaṇas tathā ॥ ityete ṛṣikāḥ proktās te satyād ṛṣitāṃ gatāḥ |*
 >
-> "Know that the Rishiputras, or Rishikas, are born of [ordinary] lineage. Vatsara, and likewise Nagnaha, and Bharadvaja; Rishi-Dirghatama, and likewise Brihaduktha, Sharadvata; Vajashrava, Suvipra, Vashya, and Parashara; Dadhicha, and likewise Shamshapa, Ranka, Vaishravana — these are declared the Rishikas, who, true to their own nature, attained rishihood."
+> "Know that the Rishiputras, or Rishikas, are born of [ordinary] lineage. Vatsara, and likewise Nagnaha, and Bharadvaja; Rishi-Dirghatama, and likewise Brihaduktha, Sharadvata; Vajashrava, Suvitta, Vashyashva, and Parashara; Dadhicha, and likewise Shamshapa, King Vaishravana — these are declared the Rishikas, who, true to their own nature, attained rishihood."
 
-That is: Vatsara, Nagnaha, Bharadvaja, Dirghatama, Brihaduktha, Sharadvata, Vajashrava, Suvipra, Parashara, Dadhicha, Shamshapa, Ranka, and Vaishravana are called "Rishika" — the legitimate (aurasa) sons of the [second-class] rishis.
+That is: Vatsara, Nagnaha, Bharadvaja, Dirghatama, Brihaduktha, Sharadvata, Vajashrava, Suvitta, Vashyashva, Parashara, Dadhicha, Shamshapa, and Vaishravana are called "Rishika" — the legitimate (aurasa) sons of the [second-class] rishis.
 
 A disputed point: where rishis are elsewhere classed into "five kinds," Rishiputra and Rishika are treated as distinct categories, whereas here they are counted as one and the same — such differences of opinion recur across the Puranas, and a description of the remaining two categories has not yet been located.
 
@@ -2568,9 +2568,9 @@ A disputed point: where rishis are elsewhere classed into "five kinds," Rishiput
 
 The Puranas state there are 19 rishis of the Bhrigu lineage, named as follows:
 
-> वित्ते मन्त्रकृतः सर्वे कृत्स्नशास्त्रान्निबोधत । भृगुः काव्यः प्रचेताश्च दधीचो ह्यास्स्वानसः ॥ १०४ ॥ चैवर्षिश्चथ जमदग्निश्च विदः सारस्वतस्थ । आश्मर्षीश्च्यवनश्च वीतहव्यः सुमेधसः ॥ १०५ ॥ वैन्यः पृथुर्दिवोदासो वाध्र्यश्वो गृत्सशौनकाः । विकोनविंशतिश्चैते भृगवो मन्त्रवादिनः ॥ १०६ ॥
+> एते मंत्रकृतः सर्वे कृत्स्नशस्तान्निबोधत । भृगुः काव्यः प्रचेताश्च दधीचो ह्याप्नवानपि ॥ १०४ ॥ और्वोऽथ जमदग्निश्च विदः सारस्वतस्तथा । आर्ष्टिषेणश्च वनश्च नीतहव्यः सुमेधसः ॥ १०५ ॥ वैन्यः पृथुर्दिवोदासो नाध्र्यश्वो गृत्सशौनकौ । एकोनविंशतिर्हैते भृगवो मन्त्रवादिनः ॥ १०६ ॥
 >
-> *vitte mantrakṛtaḥ sarve kṛtsna-śāstrān nibodhata | bhṛguḥ kāvyaḥ pracetāś ca dadhīco hy āsvānasaḥ ॥ caivarṣiś catha jamadagniś ca vidaḥ sārasvatasya | āśmarṣīś cyavanaś ca vītahavyaḥ sumedhasaḥ ॥ vainyaḥ pṛthur divodāso vādhryaśvo gṛtsaśaunakāḥ | vikonaviṃśatiś caite bhṛgavo mantravādinaḥ ||*
+> *ete maṃtrakṛtaḥ sarve kṛtsna-śastān nibodhata | bhṛguḥ kāvyaḥ pracetāś ca dadhīco hy āpnavān api ॥ aurvo 'tha jamadagniś ca vidaḥ sārasvatas tathā | ārṣṭiṣeṇaś ca vanaś ca nītahavyaḥ sumedhasaḥ ॥ vainyaḥ pṛthur divodāso nādhryaśvo gṛtsaśaunakau | ekonaviṃśatir haite bhṛgavo mantravādinaḥ ||*
 >
 > (A list of the Bhrigu-lineage rishi-composers: Bhrigu, Kavya, Pracheta, Dadhicha, [and others including] Jamadagni, Chyavana, Vitahavya, Sumedhas, Pṛthu Vainya, Divodasa, Vadhryashva, and Gritsa-Shaunaka — nineteen in total, all reciters of mantras.)
 
@@ -2586,11 +2586,11 @@ The mantra-seeing rishis of the Bhrigu lineage, numbered in the verse above:
 | 1 | Bhrigu | 7 | Jamadagni | 13 | Sumedhas |
 | 2 | Kavya (Ushanas=Shukra) | 8 | Vida | 14 | Vainya Prithu |
 | 3 | Pracheta | 9 | Sarasvata | 15 | Divodasa |
-| 4 | Dadhyaj (Atharvana) | 10 | Ashmarshena | 16 | Vadhryashva |
-| 5 | Ashvavan | 11 | Chyavana | 17 | Gritsa(mada) |
-| 6 | Chaiva (Rishika) | 12 | Vitahavya | 18 | Shaunaka |
+| 4 | Dadhyaj (Atharvana) | 10 | Arshtishena | 16 | Vadhryashva |
+| 5 | Apnavan | 11 | Chyavana | 17 | Gritsa(mada) |
+| 6 | Aurva (Richika) | 12 | Vitahavya | 18 | Shaunaka |
 
-The verse states "vikonaviṃśati" (nineteen), but this list gives only eighteen names — perhaps because "Vaidya" and "Vrighu" were meant to be counted separately, though Vedic texts treat "Vena's son Vrighu" as a single figure, "Vaidya Vrighu." Some one name has evidently dropped out of this particular list.
+The verse states "ekonaviṃśati" (nineteen), but this list gives only eighteen names — perhaps because "Vainya" and "Prithu" were meant to be counted separately, though Vedic texts treat "Vena's son Prithu" as a single figure, "Vainya Prithu." Some one name has evidently dropped out of this particular list.
 
 The genealogical tree of these rishis varies across different Puranas. The Mahabharata's Adiparva (60–40 [as printed]) gives it thus:
 
@@ -2598,7 +2598,7 @@ The genealogical tree of these rishis varies across different Puranas. The Mahab
 - **Kavi** (Shukra, teacher of the Daityas)
 - **Chyavana**
   - **Aurva**
-    - **Rishika**
+    - **Richika**
       - **Jamadagni**
 
 The Mahabharata treats this lineage only this briefly before moving to other rishi-lineages. Other Puranas add that Chyavana had two sons by his wife Sukanya — Apnavan and Dadhyarcha; Apnavan's son Aurva lived in the Madhyadesha and held a rivalry with Kartavirya-Arjuna over territorial matters. Vitahavya was originally a Kshatriya who became a Brahmin through the teaching of a Bhrigu-lineage rishi; Gritsamada and Shaunaka were both born within his lineage.
