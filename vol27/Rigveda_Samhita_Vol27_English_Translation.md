@@ -11726,6 +11726,292 @@ If one has intercourse during the time of the course, the son born of it becomes
 
 Of the matters stated above, the slaying of Viśvarūpa by Indra, the sin of brahmin-slaying that came upon Indra from that slaying, and the deeds Indra performed for the removal of that sin…
 
+### Printed p. 307
+
+(The Kannada text continues:) As a consequence of this, the rule is also stated that women must observe restraint while they are in their courses. In the present context only the account of Viśvarūpa's slaying is to be taken. Yet other matters connected with it, and found in the same anuvāka, are also mentioned here. For in the Purāṇas and similar works it is said that Indra incurred the guilt of brahmin-slaying through the slaying of Vṛtra, and that he made the efforts described above to remove it. So this explanation became necessary in order to show how the Veda differs from the Purāṇas and similar works in these details.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र केतुनेति नवर्चमष्टमं सूक्तं त्रैष्टुभं । त्वष्टपुत्रस्त्रिशिरा नामर्षिः ।
+> आदितः षडाग्नेय्यस्ततस्ति स्र ऐंद्रः । तथा चानुक्रांतं । प्र केतुना नव त्रिशिरास्त्वाष्ट्रश्चोऽंत्य ऐंद्र इति ॥ आदितः षण्णां प्रातरनुवाकाश्विनशस्त्रयोराग्नेयक्रतावुक्तो विनियोगः ।
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, प्र केतुना (*pra ketunā*), has nine Ṛks and is in the Triṣṭubh metre. Its seer is Triśiras, son of Tvaṣṭṛ. The first six verses are addressed to Agni, and the last three to Indra. Sāyaṇa quotes the Anukramaṇī to this effect: प्र केतुना नव त्रिशिरास्त्वाष्ट्रश्चोऽंत्य ऐंद्र इति (*pra ketunā nava triśirāstvāṣṭraśco 'ṃtya aiṃdra iti*). As to use, the first six verses have already had their application stated: they serve the Āgneya-kratu in the Prātaranuvāka and in the Āśvina-śastra.
+
+The Kannada Anuvāda: This sūkta, प्र केतुना (*pra ketunā*), is the eighth sūkta in the first anuvāka. It is said to contain eight Ṛks. **NOTE** Its seer is Triśiras, son of Tvaṣṭṛ. Agni is the deity of the first six Ṛks and Indra of the last three. The Anukramaṇī says: प्र केतुना नव त्रिशिरास्ताष्टस्यचोऽन्त्य ऐंद्रः (*pra ketunā nava triśirāstāṣṭasyaco 'ntya aiṃdraḥ*). It was already stated earlier that the first six Ṛks of this sūkta are applied to the Triṣṭubh mantras connected with the Āgneya-kratu in the Prātaranuvāka and the Āśvina-śastra mantras.
+
+Particulars: Maṇḍala 10; Anuvāka 1; Sūkta 8. Aṣṭaka 7; Adhyāya 6; Varga 3, 4. Number of Ṛks in the sūkta: 9. Seer: Triśiras Tvāṣṭra. Deity: 1–6 Agni; 7–9 Indra. Metre: Triṣṭubh.
+
+### Printed p. 308
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र के॒तुना॑ बृह॒ता या॑त्य॒ग्निरा रोद॑सी वृष॒भो रो॑रवीति ।  
+> दि॒वश्चि॒दंता॑ उप॒मा उदा॑नळ॒गामु॒पस्थे॑ महि॒षो न॑वर्ध ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । केतुना । बृहता । याति । अग्निः । आ । रोदसी इति । वृषभः । रोरवीति ।  
+> दिवः । चित् । अंतान् । उप्यमान् । उत् । आनट् । अपां । उपस्थे । महिषः ।  
+> ववर्ध ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्बृहता महता केतुना प्रज्ञानेन युक्तः सन्नेदानीं रोदसी द्यावापृथिव्यौ प्र याति । प्रकर्षेण गच्छति । किंच देवानामाह्वानकाले वृषभ इव रोरवीति । अत्यर्थं शब्दं करोति । दिवश्चिद्भुलोकस्याप्यंतानवसानानुपमान् समिपांश्च प्रदेशान् ज्वलनात्मनादित्यात्मना वा स्थित उदानट् । ऊर्ध्वं व्याप्न्नोति ।
+> अपां वृष्टिलक्षणानामुदकानामुपस्थ उपस्थाने०तरिक्षे वैद्युतात्मना महिषो
+> महान्ववर्ध । वर्धते ॥
+
+##### Gist of the bhāṣya
+
+Agni, endowed with a great banner (केतुना (*ketunā*), meaning knowledge or insight), now goes forth through heaven and earth (रोदसी (*rodasī*)), that is, moves on with force. When the gods are being invoked he bellows like a bull, that is, he makes a great sound. He pervades upward the farthest and the nearest regions even of the sky, abiding in the form of fire or of the sun. In the lap of the waters, that is, in the atmosphere, which is the abode of the waters in the form of rain, the mighty one grows in the form of lightning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- बृहता (*bṛhatā*)—great
+- केतुना (*ketunā*)—with a sign that makes known
+- आ (*ā*)—now
+- रोदसी (*rodasī*)—throughout heaven and earth
+- प्र याति (*pra yāti*)—moves exceedingly
+- वृषभः (*vṛṣabhaḥ*)—like a bull
+- रोरवीति (*roravīti*)—roars
+- दिवश्चित् (*divaścit*)—of the region of the sky
+- अंतान् (*aṃtān*)—the farthest regions
+- उपमान् (*upamān*)—the nearest regions
+- उदानट् (*udānaṭ*)—overruns and pervades
+- अपां (*apāṃ*)—of the waters in the form of rain
+- उपस्थे (*upasthe*)—in the atmosphere, their place of resort
+- महिषः (*mahiṣaḥ*)—Agni, the great one
+- ववर्ध (*vavardha*)—grows in the form of lightning
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, endowed with a great sign that makes him known, now moves exceedingly throughout heaven and earth. He roars like a bull. He overruns and pervades the farthest parts of the sky-region and the regions near by. In the atmosphere, the place of resort of the waters in the form of rain, the mighty Agni grows in the form of lightning.
+
+### Printed p. 309
+
+##### English translation
+Agni traverses heaven and earth with a vast banner ; he roars (like) a bull ; he spreads aloft over the remote and proximate (regions) of the sky ; mighty, he increases in the lap of the water.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मु॒मोद॒ गर्भो॑ वृष॒भः क॒कुद्मा॑नस्रे॒मा व॒त्सः शिमी॑ना  
+> अरावीत् ।  
+> स दे॒वता॒त्युद्य॑तानि कृ॒ण्वन्तैषु॒ क्षये॑षु प्रथ॒मो जि॑गाति ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुमोद । गर्भः । वृषभः । ककुत्मान् । अस्त्रेमा । वत्सः । शिमीवान् । आरावीत् ।  
+> सः । देवताति । उत्यतानि । कृण्वन् । स्वेषु । क्षयेषु । प्रथमः । जिगाति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गर्भो द्यावापृथिव्योरंतर्गतो वृषभः कामानां वर्षिताग्निः ककुद्मानुन्नततेजस्को मुमोद : मोदते । किंचास्रेमा । प्रशस्यनामैतत् ' प्रशस्तो वत्सो
+> नक्तोषसोर्वत्सभूतः सायंप्रातराहुत्युपजीवनात् शिमीवान् हविर्वहनदेवाह्वानादिकर्मवानग्निररावीत् । देवाह्वानादिशब्दं करोति । सोऽग्निर्देवताति
+> यज्ञ उद्यतान्युद्यमान्युत्साहकर्माणि कृण्वन् कुर्वन् स्वेषु क्षयेष्वात्मीयेष्णाहवनीयादिस्थानेषु स्थितः प्रथमो देवानां स्थानेषु मुख्यो जिगाति । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Agni, the embryo within heaven and earth, the showerer of desires, of lofty radiance, rejoices. अस्रेमा (*asremā*) is a word meaning "praiseworthy". He is the excellent calf, in the form of a child, of night and dawn, since he lives on the evening and morning oblations. शिमीवान् (*śimīvān*) is the Agni who is engaged in carrying the oblation, in calling the gods and the like, and he cries out, making the sound that calls the gods. That same Agni, performing zealous rites (उद्यतानि (*udyatāni*)) in the sacrifice (देवताति (*devatāti*)), and abiding in his own abodes (क्षयेषु (*kṣayeṣu*)), the Āhavanīya and the other places, goes first, that is, as chief among the places of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गर्भ: (*garbha:*)—who is the embryo of heaven and earth
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- ककुद्मान् (*kakudmān*)—Agni, who has lofty radiance
+- मुमोद (*mumoda*)—rejoices
+- अस्रेमा (*asremā*)—worthy of praise
+
+### Printed p. 310
+
+- वत्सः (*vatsaḥ*)—in the form of a son of day and night
+- शिमीवान् (*śimīvān*)—Agni, who has the work of taking up the oblation
+- अरावीत् (*arāvīt*)—makes a sound
+- सः (*saḥ*)—that same Agni
+- देवताति (*devatāti*)—in the sacrifice that worships the gods
+- उद्यतानि (*udyatāni*)—zealous rites
+- कृण्वन् (*kṛṇvan*)—performing
+- स्वेषु (*sveṣu*)—in his very own
+- क्षयेषु (*kṣayeṣu*)—being in the places such as the Āhavanīya
+- प्रथमः (*prathamaḥ*)—as chief among all the gods
+- जिगाति (*jigāti*)—moves about
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is the embryo of heaven and earth, the showerer of desires, one of lofty radiance, rejoices. He, worthy of praise, in the form of a son of day and night, engaged in taking up the oblation, makes a sound. That same Agni, performing zealous rites in the sacrifice that worships the gods, and abiding in his own places such as the Āhavanīya, moves about as chief among all the gods.
+
+##### English translation
+The embryo (of heaven and earth), the showerer (of benefits), the glorious, rejoices ; the excellent child (of morn and eve), the celebrator of holy rites calls aloud : assiduous in exertions at the worship of the gods, he moves chief in his own abodes.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यो मू॒र्धानं॑ पि॒त्रोरर॑ब्ध॒ न्य॑ध्व॒रे द॑धिरे॒ सूरो॒ अर्णः॑ ।  
+> अस्य॒ पत्म॒नरु॑षी॒रश्व॑बुध्ना ऋ॒तस्य॒ योन्॑ त॒न्वो॑ जुषंत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । मूर्धानं । पित्रोः । अरब्ध । नि । अध्वरे । दधिरे । सूरः । अर्णः ।  
+> अस्य । पत्मन् । अरुषीः । अश्वबुध्नाः । ऋतस्य । योन् । तन्वः । जुषंत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽग्निः पित्रोर्मातापितृभूतयोर्दार्वानापृथिव्योर्मूर्धानमारु
+> स्वतेजोभिरारभते । यद्वा । मातापितृभूतयोररण्योर्मूर्धानं शिरोनत्पु-
+
+##### Gist of the bhāṣya
+
+The Agni who with his own radiance lays hold of (आरब्ध (*ārabdha*)) the head of his parents, that is, of heaven and earth, who stand as mother and father. Or else: he seizes the head, that is, the top, of the two aranis, which are as mother and father, the churning place.
+
+### Printed p. 311
+
+> धानभूतं मंथनप्रदेशं । आ जीषदर्थे । आरब्ध ईषद्धिनस्ति । निर्मथनकालेऽपि
+> दाहेन दग्गुं समर्थः । सूरः सुवीर्यस्याग्नेरणो गमनशीलं तेजोऽध्वरे
+> यज्ञे नि दधिरे । यष्टारो नियमेन धारयंति । अस्याग्नेः पत्मनतनेऽरुषीरारोचमाना ऋतस्य यज्ञस्य योन् स्थानेऽश्वबुध्ना व्याप्तमूला अशनबंधना वा ।
+> हविराहारान्विता इत्यर्थः तन्नस्तदीयास्तनूर्जुषंत । कवयः सेवंते ॥
+
+##### Gist of the bhāṣya
+
+(continuing) आ (*ā*) has the sense of "slightly". आरब्ध (*ārabdha*) means he slightly harms; even at the time of churning he is able to burn with his burning. Of the valiant Agni, the moving (अर्णः (*arṇaḥ*)) radiance the sacrificers set firmly in the sacrifice (अध्वरे (*adhvare*)). Of this Agni, the shining (अरुषीः (*aruṣīḥ*)) flames in his course, in the place (योन् (*yon*)) of the sacrifice, अश्वबुध्ना (*aśvabudhnā*), that is, with their roots pervading, or having food as their bond, meaning endowed with the carrying of the oblation: these bodies of his the sages serve. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- पित्रोः (*pitroḥ*)—of his parents, heaven and earth
+- मूर्धानं (*mūrdhānaṃ*)—the lofty region
+- आ अरब्ध (*ā arabdha*)—has overrun with his radiance
+- सूरः (*sūraḥ*)—of that same valiant Agni
+- अर्णः (*arṇaḥ*)—the moving radiance
+- अध्वरे (*adhvare*)—in the sacrifice
+- नि दधिरे (*ni dadhire*)—the priests have established
+- अस्य (*asya*)—of Agni
+- पत्मन् (*patman*)—in the time of moving
+- अरुषीः (*aruṣīḥ*)—attractive
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योन्सौ (*yonsau*)—in the place
+- अश्वबुध्नाः (*aśvabudhnāḥ*)—and covering the whole root-region
+- तन्वः (*tanvaḥ*)—the body of Agni, in the form of radiance
+- जुषंत (*juṣaṃta*)—they serve
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who has overrun with his radiance the lofty region of his parents, heaven and earth: of that same valiant Agni the moving radiance the priests have established in the sacrifice, binding it by rule. They serve the body in the form of radiance of that Agni, which is attractive in the time of his moving and covers the whole root-region in the place of sacrifice.
+
+##### English translation
+They have placed in the sacrifice the radiance of the powerful Agni, who seizes hold of the forehead of his parents, gratifying his cherished, radiant, and expanding limbs, in their course, in their chamber of sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒षउ॑षो॒ हि व॑सो॒ अग्र॒मेषि॒ त्वं य॒मयो॑रभवो  ॒॑
+> विभावा ।  
+> ऋ॒ताय॑ स॒प्त द॑धिषे प॒दानि॑ ज॒नय॑न्मि॒त्रं त॒न्वे॒३॒॑ ३ स्वाय्यै॑ ॥ ४ ॥
+
+### Printed p. 312
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषःs उषः । हि । वसो इति । अग्रं । एषि । त्वं । यमयोः । अभवः । विभावा ।  
+> ऋताय । सप्त । दधिषे । पदानि । जनयन् । मित्रं । तन्वे । स्वाय्कॆ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वसो स्वेन तेजसा सर्वस्याच्छादयितर्वसुमन्वा प्रशस्य वाग्ने त्वमुष
+> उषः सर्वस्या एवोषसोऽग्रं पूर्वमेषि । प्राप्नोषि । अपि च यमयोर्युग्मयोः परस्परमवियुक्तयोरहोरात्रयोर्विभावा दीप्तिमानभवः । भवसि । तन्ने
+> स्वाया आत्मीयाच्छरीरान्मित्रमादित्यं जनयन्नुत्पायन् सप्त पदानि सप्तसंख्याकानि
+> धिष्ण्यादिस्थानान्यृताय यज्ञार्थं दधिषे । धारयसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, वसो (*vaso*): one who covers all with his own radiance, or one possessed of wealth, or one who is praiseworthy. You go first before every dawn, that is, you reach it. And you are the illuminator (विभावा (*vibhāvā*)) of the twins (यमयोः (*yamayoḥ*)), day and night, which are a pair never parted from each other. Producing Mitra, the sun, from your own body, you hold seven places, the dhiṣṇya hearths and the like, for the sacrifice (ऋताय (*ṛtāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यमयोः (*yamayoḥ*) is rendered below.
+- वसो (*vaso*)—O Agni, who pervade everything with your radiance
+- त्वं (*tvaṃ*)—you
+- उषउषः (*uṣauṣaḥ*)—in every dawn-time
+- अग्रं (*agraṃ*)—the foremost place
+- एषि (*eṣi*)—you obtain
+- यमयोः (*yamayoḥ*)—of both day and night
+- विभावा (*vibhāvā*)—as the one who illumines
+- अभवः (*abhavaḥ*)—you have become
+- स्वाय्कॆ (*svāykè*)—your
+- तन्ने (*tanne*)—from the body
+- मित्रं (*mitraṃ*)—the sun
+- जनयन् (*janayan*)—producing
+- सप्त पदानि (*sapta padāni*)—the seven places
+- ऋताय (*ṛtāya*)—for the sacrifice
+- दधिषे (*dadhiṣe*)—you have held
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who pervade everything with your own radiance, you obtain the foremost place in every dawn-time. You have become the illuminator of both day and night. Producing the sun from your own body, you have held the seven places for the sacrifice.
+
+##### English translation
+Opulent Agni, you precede dawn after dawn. You are the illuminator of the twin (day and night) : engendering Mitra from your own person, you retain seven places for sacrifice
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुव॒श्चक्षु॑र्म॒ह ऋ॒तस्य॑ गो॒पा भुवो॒ वरु॑णो॒ यदृ॒ताय॒  ॑
+> वेषि ।
+
+### Printed p. 313
+
+> भुवो अपां नपाज्जातवेदो भुवो दूतो यस्य हव्यं  
+> जुजोषः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवः । चक्षुः । महः । ऋतस्य । गोपाः । भुवः । वरुणः । यत् । ऋताय । वेषि ।  
+> भुवः । अपां । नसात् । जातवेदः । भुवः । दूतः । यस्य । हव्यं । जुजोषः ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महो महत ऋतस्य यज्ञस्य हे अग्ने त्वं चक्षुरिव प्रकाशको भुवः । भवसि ।
+> गोपा यज्ञस्य रक्षकस्त्वमेव भवसि । यद्यदर्ताय सोमरसलक्षणस्योदकस्यादानार्थं वरुण आदित्यो वेषि गच्छिसि तदा त्वमेव भुवः । भवसि । हे जातवेदो
+> जातप्रज्ञाग्ने अपां वृष्टिलक्षणानामुदकानां नपात् पौत्रस्त्वमेव भुवः । भवसि !
+> अद्भ्यो हि मेघो जायते मेघादग्निर्विद्युद्रूपो जायत इत्यपां पौत्रस्त्वमुच्यते । यस्य यजमानस्य हव्यं हविर्जुषोषः सेवसे तस्य दूतो भुवः । भवसि #
+
+##### Gist of the bhāṣya
+
+O Agni, you become, like an eye, the illuminator of the great sacrifice (ऋतस्य (*ṛtasya*)). You alone are its guardian (गोपा (*gopā*)), its protector. When, for the taking up of the water in the form of Soma juice, Varuṇa, that is, the Āditya, goes, then it is you alone who become him. **NOTE** O Jātavedas, Agni of born wisdom, you alone become the "grandson" (नपात् (*napāt*)) of the waters, which are the waters in the form of rain. For from the waters the cloud is born, and from the cloud Agni in the form of lightning is born; for this reason you are called the grandson of the waters. Of whichever sacrificer you enjoy the oblation, you become the messenger.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni, you) महः (*mahaḥ*)—great
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- चक्षुः (*cakṣuḥ*)—as the illuminator
+- भुवः (*bhuvaḥ*)—you have become
+- गोपाः (*gopāḥ*)—you are the guardian of the sacrifice
+- यत् (*yat*)—when
+- ऋताय (*ṛtāya*)—for water (for the sacrifice)
+- वेषि (*veṣi*)—you go, then
+- वरुणः (*varuṇaḥ*)—in the form of Varuṇa
+- भुवः (*bhuvaḥ*)—you become
+- जातवेदः (*jātavedaḥ*)—O Agni, of born wisdom
+- अपां (*apāṃ*)—of the waters of rain
+- नपात् (*napāt*)—in the form of a grandson
+- भुवः (*bhuvaḥ*)—you have become
+- यस्य (*yasya*)—of whichever sacrificer
+- हव्यं (*havyaṃ*)—the oblation
+- जुजोषः (*jujoṣaḥ*)—you enjoy
+- दूतः (*dūtaḥ*)—to him as messenger
+- भुवः (*bhuvaḥ*)—you have become
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you are the illuminator of the sacrifice. You are its guardian. When you go for the sacrifice, then you are in the form of Varuṇa. O Agni of born wisdom, you are in the form of a grandson to the waters of rain. Of whichever sacrificer you enjoy the oblation, to him you are the messenger.
+
 ---
 
-**Progress note:** Done through printed p. 306. pp. 301-306 (batch API)
+**Progress note:** Done through printed p. 313. pp. 307-313 (batch API)
