@@ -1,4 +1,4 @@
-# Vol 22 — missing pages (by matching every text page to the source PDF)
+# Vol 22 — page coverage (every text page matched to the source PDF; the 127 gaps then transcribed)
 
 Updated 2026-11-25. Method: `Rig_Vol22.pdf` (626 pages; PDF page = printed page + 26) was OCR'd page by page (Tesseract, Kannada);
 every transcribed page from all 20 uploads was matched to its PDF page by character-n-gram similarity (cosine, threshold 0.30),
@@ -39,3 +39,12 @@ Caveats: a page counts as missing when no transcribed page reaches similarity 0.
 "missing" (isolated single pages 71, 125, 161, 184–185, 193–194, 330, 416, 439, 494 are the likeliest). Front matter: PDF 1–5 have no text.
 Which copy of a page is kept: the longest among those within 0.05 of the best similarity. Pages the user's labels placed wrongly are now in
 their true place (e.g. labels 64–66 are printed 54–56).
+
+## Update (2026-11-25, later): the 127 gaps have been transcribed
+
+All 127 missing printed pages were transcribed by Claude agents from the PDF page images (files `vol22/html/transcribed/pdfN.md`, N = PDF page)
+and inserted into `vol22/html/rig_22_ordered.md`, which now has all 600 printed pages (printed 1–600 = PDF 27–626).
+Limits of these 127 pages (from the agents' own reports): Vedic accent marks were left out almost everywhere; 19 `[?]` marks on 13 pages
+(66, 182, 219, 245, 249, 293, 294, 295, 332, 442, 459, 483, 493); many Sanskrit words and the running-head numbers are best readings without a mark;
+pages 293–295 and 484–497 come from low-resolution scans; the agents of groups 5 and 7 flagged few doubts but said so. A proofread against the scan is needed
+(PDF page = printed + 26). The other 473 pages are the earlier machine transcriptions, placed by matching to the PDF.
