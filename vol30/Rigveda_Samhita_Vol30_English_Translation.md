@@ -18913,6 +18913,280 @@ You spring up when piously invoked, you delight in the oblation when the ladles 
 
 *Āhuta* means offered facing (him). By speech (gir), that is, by the voice that consists of praise, he who is to be praised (īḷenya), Agni, shines forth: he blazes exceedingly. Likewise his front (pratīka), the foremost of all the gods, is anointed (ajyate), that is, sprinkled, by the ladle with ghee.
 
+### Printed p. 578
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आहुतः (*āhutaḥ*)—he who is offered oblations facing him
+- गिरा (*girā*)—by speech in the form of praise
+- ईळेन्यः (*īḷenyaḥ*)—he who is praised
+- सः अग्निः (*saḥ agniḥ*)—that Agni
+- वि रोचते (*vi rocate*)—shines exceedingly
+- प्रतीकं (*pratīkaṃ*)—(before all the gods) in the first place
+- स्रुचा (*srucā*)—with the ladle filled with ghee
+- अज्यते (*ajyate*)—is sprinkled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, to whom the oblation is offered facing him, and who is praised with speech in the form of praise, is sprinkled for the homa with the ladle filled with ghee before all the gods.
+
+##### English translation
+Agni, who is to be glorified with the voice (of praise), blazes up when invoked, he is sprinkled with the ladle before (the other goods).
+
+##### विशेषविषयगळु (Special Topics)
+
+In performing homa, the offering is made to Agni first, before all the other deities, with the ladle filled with ghee. Only after the homa with ghee has been made to Agni are the oblations offered to the other deities, through Agni himself.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तेना॒ग्निः सम॑ज्यते॒ मधु॑प्रतीक॒ आहु॑तः ।  
+> रोच॑मानो वि॒भाव॑सुः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतेन । अग्निः । सं । अज्यते । मधुप्रतीकः । आहुतः ।  
+> रोचमानः । विभावसुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्घृतेन हविषा समज्यते । सम्यक् सिक्तो भवति । कीदृशः । मधुप्रतीको
+> घृतप्रयुक्तावयवः आहुतः स्तुतिभिर्हविर्भिर्वा रोचमानो दीप्यमानः विभावसुः
+> स्वदीप्त्या सर्वमाच्छादयन् । यद्वा । दीप्तिरेव धनं यस्य सः ॥
+
+##### Gist of the bhāṣya
+
+Agni is well sprinkled with ghee, the oblation. He is मधुप्रतीकः (*madhupratīkaḥ*), one whose limbs are charged with ghee; आहुतः (*āhutaḥ*), invoked with praises or with oblations; रोचमानः (*rocamānaḥ*), shining; विभावसुः (*vibhāvasuḥ*), covering everything with his own radiance. Or else, he whose wealth is radiance itself.
+
+### Printed p. 579
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुप्रतीकः (*madhupratīkaḥ*)—he whose limbs are drenched with ghee
+- आहुतः (*āhutaḥ*)—he who is called by prayer with praises and oblations
+- रोचमानः (*rocamānaḥ*)—he who shines with brilliance
+- विभावसुः (*vibhāvasuḥ*)—he who covers everything with his own light, or he whose wealth is radiance
+- अग्निः (*agniḥ*)—Agni
+- धृतेन (*dhṛtena*)—with ghee (clarified butter)
+- सं अज्यते (*saṃ ajyate*)—is well sprinkled
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, whose limbs are drenched with ghee, who is called with praises and oblations, who shines with divine brilliance and covers everything with his own light, is well sprinkled with ghee.
+
+##### English translation
+Agni is anointed with butter, having a face of honey, invoked, radiant irradiating all.
+
+##### विशेषविषयगळु (Special Topics)
+
+Since homa is made in Agni with ghee, the limbs of Agni, that is, Agni, are drenched with ghee. As the ghee offered in the fire falls and most of Agni is drenched, he is here called one whose limbs are drenched with ghee. विभावसुः (*vibhāvasuḥ*) means one who covers everything with his own light; or, since radiance is the chief quality of Agni, he is here described by the epithet विभावसुः (*vibhāvasuḥ*), one whose wealth is radiance. धृतेन समज्यते (*dhṛtena samajyate*) means that at the time of homa much ghee is poured into Agni as an oblation and Agni is drenched with ghee.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जर॑माणः॒ समि॑ध्यसे दे॒वेभ्यो॑ हव्यवाहन ।  
+> तं त्वा॑ हवंत॒ मर्त्याः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जरमाणः । सं । इध्यसे । देवेभ्यः । हव्यवाहन ।  
+> तं । त्वा । हवंत । मर्त्याः ॥ ५ ॥
+
+### Printed p. 580
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्पोर्यामे होतुरतिरिक्तोक्ष्ये जरमाणः समिध्यस इत्यनुरूपस्तृचः ।
+> सूत्रितं च । जराबोध तद्विविद्धि जरमाणः समिध्यसे । अ. ९-११ । इति ॥
+> हे हव्यवाहन हव्यानां प्रापयितः ॥ हव्येऽनंतः पादं । पा. ३-२-६६ । इति
+> इ्युट् ॥ जरमाणः स्तोतृभिः स्तूयमानः । जरतिः स्तुतिकर्मा । स त्वं देवेभ्यो
+> देवार्थं समिध्यसे । हविर्भिः सम्यग्गीप्यसे । तं तादृशं त्वा त्वां मर्त्या मनुष्येषु साधवो यजमाना हवंत । आह्वयंति ॥ ह्वयतेर्लजि बहुलं छंदसीति
+> संप्रसारणं ॥
+
+##### Gist of the bhāṣya
+
+In the Āprī-type recitation (अप्पोर्यामे (*apporyāme*)) the verse जरमाणः समिध्यसे (*jaramāṇaḥ samidhyase*) is the anurūpa of a triplet, in the Hotṛ's supplementary recitation; and it is prescribed in the sūtra: जराबोध तद्विविद्धि जरमाणः समिध्यसे । अ. ९-११ । (*jarābodha tadvividdhi jaramāṇaḥ samidhyase | a. 9-11 |*) (Ā. Sū. 9-11).
+O Havyavāhana, conveyer of oblations! Praised by the worshippers (जरतिः (*jaratiḥ*) is a root meaning praise), you are kindled for the gods, that is, for their sake; you are well lit with oblations. Such as you, the mortals, the pious sacrificers among men, invoke.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हव्यवाहन (*havyavāhana*)—O Agni, bearer of oblations (to the gods)
+- जरमाणः (*jaramāṇaḥ*)—you who are praised by the worshippers
+- देवेभ्यः (*devebhyaḥ*)—for the gods (for divine rites)
+- सं इध्यसे (*saṃ idhyase*)—you are well kindled with oblations and the like
+- तं (*taṃ*)—you, endowed with such qualities
+- मर्त्याः (*martyāḥ*)—mortals, that is, the sacrificers who perform sacrifice
+- हवंत (*havaṃta*)—call by prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who carry the oblation to the gods, you who are praised by the worshippers are made to blaze with oblations and the like for the gods, that is, for the sake of divine rites (made to burn fiercely). Such as you, men, that is, the sacrificers, call by prayer.
+
+##### English translation
+Bearer of oblations, glorified by the worshippers, you are kindled for the gods; as such mortals invoke you.
+
+##### विशेषविषयगळु (Special Topics)
+
+It is explained that in the Aptoryāma sacrifice, in the supplementary (atiriktokta) mantra recited by the Hotṛ, three Ṛks beginning जरमाणः समिध्यसे (*jaramāṇaḥ samidhyase*) (Ṛks 5–7 of this sūkta) are to be recited, according to the Āśvalāyana Śrauta Sūtra, in the sūtra जराबोध तद्विविड्डि जरमाणः समिध्यसे (*jarābodha tadviviḍḍi jaramāṇaḥ samidhyase*) (Ā. 9-11).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं म॑र्ता॒ अम॑ूर्त्यं घृ॒तेना॒ग्निं स॑पर्यत ।  
+> अदा॑भ्यं गृ॒हप॑तिं ॥ ६ ॥
+
+### Printed p. 581
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । मर्ताः । अमर्त्यं । धृतेन । अग्निं । सपर्यश ।  
+> ।  
+> अदाभ्यं । गृहपतिं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मर्ता ऋत्विजः अमत्यर्त्यं मनुष्यधर्मरहितमग्निं धृतेन हविषा
+> सपर्य्यत । परिचरत ॥ सपरशब्दः कंड्वादिः ॥ कीदृशं । अदाभ्यं कैश्चिदप्यहिंस्यं ॥
+> दभेश्चेति वक्तव्यं । पा. ३-१-१२४-३ । इति ण्यत् ॥ गृहपतिं गृहस्य स्वामिनं
+> यजमानरूपं ॥ पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरः ॥
+
+##### Gist of the bhāṣya
+
+O mortals, priests! Serve Agni, free of human nature, with ghee, the oblation. सपर्य्यत (*saparyyata*) means "attend upon". What sort of Agni? अदाभ्यं (*adābhyaṃ*), one who cannot be harmed by anyone; गृहपतिं (*gṛhapatiṃ*), the master of the house, in the form of the sacrificer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्ताः (*martāḥ*)—O priests who are men
+- अमर्त्यं (*amartyaṃ*)—him who is free of human nature (deathless)
+- अदाभ्यं (*adābhyaṃ*)—him who cannot be harmed by anyone
+- गृहपतिं (*gṛhapatiṃ*)—him who is the master of the house
+- अग्निं (*agniṃ*)—Agni
+- धृतेन (*dhṛtena*)—with ghee (oblation)
+- सपर्यत (*saparyata*)—serve
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, who are men, serve with oblation mixed with ghee Agni, who is free of mortality, whom no hindrance affects, and who is lord of the house like a master.
+
+##### English translation
+Mortals, worship with ghi the immortal agni, the indestructible, the master of the mansion.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अदा॑भ्येन शो॒चिसाग्ने॒ रक्ष॒स्त्वं द॑ह ।  
+> गो॒पा ऋ॒तस्य॑ दीदिहि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदाभ्येन । शोचिषा । अग्ने । रक्षः । त्वं । दह ।  
+> गोपाः । ऋतस्य । दीदिहि ॥ ७ ॥
+
+### Printed p. 582
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमादाभ्येनाहिंस्येन शोचिषा तेजसा रक्षः । जातावेकवचनं ।
+> सर्वान्नाक्षसान्दह । विनाशय । किंचर्तस्य यज्ञस्य गोपा गोपायिता सन् दीदिहि ।
+> दीप्यस्व ॥
+
+##### Gist of the bhāṣya
+
+O Agni, with your unharmable flame, your brilliance, burn the रक्षः (*rakṣaḥ*) (a singular used in the generic sense), all the rākṣasas; destroy them. And as the guardian of the sacrifice (ऋतस्य (*ṛtasya*)), shine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- अदाभ्येन (*adābhyena*)—with unobstructed
+- शोचिषा (*śociṣā*)—(your) brilliance
+- रक्षः (*rakṣaḥ*)—all the rākṣasas
+- दह (*daha*)—burn to ashes
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- गोपाः (*gopāḥ*)—as protector
+- दीदिहि (*dīdihi*)—shine exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, with your unobstructed brilliance, that is, brilliance that none can endure, burn all hosts of rākṣasas; shine as the protector of the sacrifice.
+
+##### English translation
+Wito your indestructible flame, agni, consume the rakshasas; shine, the defender of the sacrifice.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्वम॑ग्ने॒ प्रती॑केन॒ प्रत्यो॑ष यातुधा॒न्यः॑ ।  
+> उ॒रु॒क्षये॑षु॒ दीद्य॑त् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सॆः । त्वं । अग्ने । प्रतीकेन । प्रति । ओष । यातुऽधान्यः ।  
+> उरुक्षयेषु । दीद्यत् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स त्वं प्रतीकेन त्वदवयवभूतेन तेजसा यातुधानो यातुधानी
+> राक्षसीः प्रत्योष । प्रतिकूलं दह ॥ उष दाहे भौवादिकः । लोटि हेर्लुक् ।
+> जातेरस्त्रीविषयात् । पा. ४-१-६३ । इति यातुधानशब्दस्य जीष् । उदात्तस्वरितयोर्यण इति स्वरितत्वं ॥ किं कुर्वन् । उरुक्षयेषु विस्तीर्णेषु निवासेष्वाहवनीयादिषु दीद्यद्दीप्यमानः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, such as you, with your प्रतीकेन (*pratīkena*), the brilliance that is part of your body, burn up प्रत्योष (*pratyoṣa*) the यातुधानी (*yātudhānī*), the female rākṣasas, hostilely. What are you doing? Shining दीद्यत् (*dīdyat*) in the उरुक्षयेषु (*urukṣayeṣu*), the wide dwellings, the Āhavanīya and other fires.
+
+### Printed p. 583
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सः त्वं (*saḥ tvaṃ*)—such as you
+- प्रतीकेन (*pratīkena*)—with your brilliance, which is part of your body
+- उरुक्षयेषु (*urukṣayeṣu*)—in the wide (or many) fire-pits, Āhavanīya and others
+- दीद्यत् (*dīdyat*)—shining
+- यातुधान्यः (*yātudhānyaḥ*)—the hosts of female rākṣasas called Yātudhānīs
+- प्रति ओष (*prati oṣa*)—burn so that they are reduced to ashes
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, shining brilliantly in the wide sacrificial pits such as the Āhavanīya, with your brilliance which is like your limb, burn well the female rākṣasas called Yātudhānīs.
+
+##### English translation
+Do you, Agni with your brightness, consume the female fiends, shining in your outspread dwellings.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matter of the Yātudhānas and Yātudhānīs is explained in the introduction to this sūkta.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ गी॒र्भिरु॑रु॒क्षया॑ हव्य॒वाहं॒ समा॑धिरे ।  
+> यजि॑ष्ठं॒ मानु॑षे॒ जने॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । त्वा । गीःभिः । उरुक्षयाः । हव्यवाहं । सं । ईधिरे ।  
+> यजिष्ठं । मानुषे । जने ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने उरुक्षया बहुनिवासा यजमाना हव्यवाहं हविषां वोढारं
+> मानुषे मनुष्यसंबंधिनि जने जनमध्ये यजिष्ठं यष्टृतमं तं त्वा त्वां गीर्भिः
+> स्तुतिभिस्तत्सहितैर्हविर्भिः समाधिरे । सम्यगदीदिपन् ॥ इंथेर्लिटींधिभवतिभ्यां चेति
+> कित्वे नलोपः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the sacrificers, उरुक्षया (*urukṣayā*), having many dwellings, have kindled you well, with praises and with the oblations that go with them: you, bearer of oblations, यजिष्ठं (*yajiṣṭhaṃ*), the best sacrificer, among the people connected with men.
+
 ---
 
-**Progress note:** Done through printed p. 577. pp. 572-577 (batch API)
+**Progress note:** Done through printed p. 583. pp. 578-583 (batch API)
