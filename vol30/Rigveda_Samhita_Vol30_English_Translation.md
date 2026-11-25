@@ -18391,6 +18391,209 @@ Where there are two friends, giving to one another, accepting what is given, tel
 > पृ॒णी॒यादिन्ना ध॑मानाय॒ तव्या॒न्द्राघी॑यांस॒मनु॑ पश्येत॒  ॑
 > पंथां ।
 
+### Printed p. 560
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ हि वर्तं॑ते॒ रथ्ये॑व च॒क्रान्यम॑न्य॒मुप॑ तिष्ठंत॒ रायः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पृणीयात् । इत् । ; धमानाय । तव्यान् । द्राघीयांसं । अनु । पश्येत । पंथां।  
+> ओ इति । हि । वर्तंते । रथ्याऽइव । चक्रा । अन्यंऽअन्यं । उप । तिष्ठंत । राय॥ ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धनवंतं पुरुषं दाने प्रेरयति । तव्यांस्तवीयान्धनैरतिशयेन प्रवृद्धः
+> पुरुषो नाधमानाय याचमानायातिथये पृणीयादित् । धनानि दद्यादेव ॥
+> पै पालनपूरणयोः क्र्यादिः । प्वादीनां ह्रस्वः ॥ यदि दद्यात् द्राघीयांसं ॥
+> दीर्घशब्दादीयसुनि प्रियस्थिरेत्यादिना द्राघीत्यादेशः ॥ दीर्घतमं पंथां पंथानं
+> सुकृतमार्गमनु पश्येत । अनुपश्येत् ॥ व्यत्ययेनात्मनेपदं । तत्र कारणमाह ।
+> रायो धनान्यो हि । आ उ । आवर्तंते खलु। एकत्र न तिष्ठंतीत्यर्थः। तत्र दृष्टांतः।
+> रथ्येव यथा रथ्यानि ॥ रथाद्यत् । पा. ४-३-१२१ । इति तस्येदमित्यर्थे यत् ॥ रथसंबंधीनि चक्राण्युपर्यधोभावेनावर्तंते तद्वदावृत्तिमेव दर्शयति । अन्यमन्यं
+> पुरुषं धनान्युप तिष्ठंत । उपतिष्ठंते । समवेतानि भवंति ॥ उपाद्देवपूजासंगतिकरणेति । का. १-३-२५-१ । आत्मनेपदं ॥ तस्माद्भनानि देयानीति भावः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the verse urges a wealthy man to give. A man greatly grown in wealth should not fail to satisfy a petitioning guest; he should certainly give his riches. If he gives, he will look forward to the longest path, that is, the path of good deeds. The reason is that riches turn from one to another and do not stay in one place. The illustration: as the wheels belonging to a chariot turn, one above and then below, so riches keep recurring, going to one man after another and attending him. Therefore, he concludes, wealth should be given.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तव्यान् (*tavyān*)—the man grown great in wealth
+- नाधमानाय (*nādhamānāya*)—to the guest (or beggar) who is asking
+- पृणीयात् इत् (*pṛṇīyāt it*)—must give wealth and the like (if he gives thus, that man)
+- द्राघीयांसं (*drāghīyāṃsaṃ*)—long
+- पंथां (*paṃthāṃ*)—the best path, that is, progressive increase
+- अनु पश्यत (*anu paśyata*)—will surely look forward to (because)
+- रायः (*rāyaḥ*)—riches, wealth and the like
+- रथ्येव चक्रा (*rathyeva cakrā*)—like the wheels of a chariot
+- ओ हि वर्तंते (*o hi vartaṃte*)—keep moving (those riches)
+- अन्यमन्यं (*anyamanyaṃ*)—from one man to another
+- उप तिष्ठंत (*upa tiṣṭhaṃta*)—go and settle
+
+##### भावार्थ (Bhāvārtha)
+
+A rich man endowed with wealth must give wealth and the like to the guest who asks him. If he gives thus, his riches will increase further and further. For riches, like a chariot wheel, do not stand fixed in one place but pass from one man to another and settle there.
+
+### Printed p. 561
+
+##### English translation
+Let the very rich man satisfy his suitor, let him look forward to a more protracted route, for riches revolve from one man to another, as the wheels of a chariot turn round.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the seer explains why a wealthy man should give, what benefit comes from giving, and what is lost by not giving. When a man is rich and in favourable circumstances, it is the duty of every person to help with wealth and the like a poor man who asks him, in order to relieve his distress. As to the benefit of giving: by helping the deserving with wealth, the rich man's wealth is not lost, that is, it does not diminish. It will increase even more than it is now, and he will attain a still better state. If he does not give, what is the loss? Riches are not permanent. The wealth that is with him today goes tomorrow to another. A man in favourable circumstances today may fall into a low state tomorrow, and likewise a man in a low state may rise to a better one. As, when a chariot wheel turns, the lower part comes up and at once the upper part comes down, so wealth too does not stay always with one man but settles among different people. The destitute becomes rich; the rich becomes destitute. Hence the main sense is that when in favourable circumstances the rich man does well to help the poor with wealth and gain merit and welfare.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मोघ॒मन्नं॑ विंदते॒ अप्र॑चेताः स॒त्यं ब्र॑वीमि व॒ध इत्स तस्य॑ ।  
+> नार्य॒मणं॒ पुष्य॑ति॒ नो सखा॑यं॒ केव॑लाघो भवति केवला॒दी ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मोघं । अन्नं । विंदते । अप्रचेताः । सत्यं । ब्रवीमि वधः । इत् । सः । तस्य ।  
+> न । आर्यमणं । पुष्यति । नो इति । सखायं । केवलअघः । भवति । केवलआदी ॥  
+> 35
+
+### Printed p. 562
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अदातारं दूषयति । अप्रचेता अप्रकृष्टज्ञानः दाने चेतो मनो यस्य
+> न भवति स मोघं व्यर्थमेवान्नं विंदते । लभते ॥ विद्ल लाभे तौदादिकः । शे
+> मुचादीनामिति नुमागमः ॥ इदं सत्यं यथार्थमेवेति ब्रवीमि । ऋषिरहं
+> वदामि । न केवलं व्यर्थं किंतु तस्य पुरुषस्य स वध इद्वध एवान्नं परामृशतः ॥
+> तच्छब्दस्य वधसामानाधिकरण्यात्पल्लिंगता । यथा णेरणावित्यत्र । पा. १-३-६७ ।
+> यत्कर्म स एव कर्तॆति ॥ अथवा स निरर्थको वध एव यः पुरुषोऽर्यमणं ।
+> उपलक्षणमिदं । सर्वान्देवानर्यमादीन्न पुष्यति हविष्ट्रदानेन न पोषयति नो
+> नापि सखायं समानख्यानमभ्यागतमतिथिं मित्रवर्गं च न पोषयति ॥ पुष पुष्पौ
+> दैवादिकः । यच्छब्दाध्याहारादनिघातः ॥ अत एव केवलादी ॥ अदेः सुप्यजातौ ।
+> पा. ३-२-७८ । इति णिनिः । आत उपधालक्षणावृद्धिः ॥ केवलमसाक्षिकमन्नं भुंजानः स
+> केवलाघो भवति । केवलपापवान्भवति । अघमेव केवलं तस्य शिष्यते । ऐहिकामुष्मिकमिति । तस्माद्यथाकथंचिद्दातव्यमित्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa censures the non-giver. The man who is अप्रचेताः (*apracetāḥ*), of undeveloped understanding, whose mind is not set on giving, obtains food in vain. The seer says: "I speak this as true." It is not merely useless; for that man it is his very slaying, वध इत् (*vadha it*), the word "that" (स (*sa*)) referring to the food and taking the masculine gender by agreement with वध (*vadha*). Alternatively: he is a worthless slaying who does not nourish Aryaman. This is indicative: he does not nourish with offerings all the gods beginning with Aryaman, nor a friend, that is, a guest who has come, nor the circle of his friends. Hence he is केवलादी (*kevalādī*), one who eats alone. Eating food without a witness, he becomes केवलाघः (*kevalāghaḥ*), wholly sinful; only sin remains to him, nothing of this world or the next. The intention is that one must give in whatever way one can.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्रचेताः (*apracetāḥ*)—the unintelligent one who has no mind for giving food
+- सः (*saḥ*)—that man
+- मोघं (*moghaṃ*)—vain
+- अन्नं (*annaṃ*)—food
+- विंदते (*viṃdate*)—has obtained
+- सत्यं (*satyaṃ*)—that this is true
+- ब्रवीमि (*bravīmi*)—I say
+- तस्य (*tasya*)—of that man (the food)
+- स वध इत् (*sa vadha it*)—is for him like death itself
+- यः (*yaḥ*)—the man who
+- अर्यमणं (*aryamaṇaṃ*)—Aryaman and all the gods
+- न पुष्यति (*na puṣyati*)—does not nourish with offerings and the like
+- सखायं (*sakhāyaṃ*)—his friend and his circle of friends
+- नो (*no*)—does not nourish with gifts of food and the like (and) the man who
+- केवलादी (*kevalādī*)—sits and eats by himself with no companion
+- केवलाघः (*kevalāghaḥ*)—becomes very sinful
+
+##### भावार्थ (Bhāvārtha)
+
+The food of a man who has no mind to give food is in vain. I say this truly. The food that such a man has is itself death-like for him. The man who does not honour and nourish Aryaman and the other gods with offerings and the like, who does not nourish his friend with gifts of food, who at his meal takes no one as companion but eats alone, becomes very sinful.
+
+### Printed p. 563
+
+##### English translation
+The inhospitable man acquires food in vain. I speak the truth—it verily is his death. He cherishes not Aryaman nor a friend; he who eats alone is nothing but a sinner.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the section that Ṛks have various kinds according to sense, Yāska, as an example of a Ṛk that points to censure, gives the explanation of the phrase केवलाघो भवति केवलादी (*kevalāgho bhavati kevalādī*) of this Ṛk (Ni. 7-3). There is a householder's rule that at meals he should welcome and honour guests and visitors and eat only after they have eaten. Here a guest may be any man or animal tormented by hunger. In giving food there is no distinction of woman and man, nor of caste such as Brahmin. The Purāṇas and other works say that any man or animal oppressed by hunger is fit to receive food, and that among gifts the gift of food is the best. Therefore the seer explains in this Ṛk that one should not sit and eat alone, and that if one does so, great sin arises.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒षन्नित्फल॒ आशि॑तं कृणोति॒ यन्नध्वा॑न॒मप॑ वृंक्ते च॒रित्रॆः॑ ।  
+> वद॑न्ब्र॒ह्माव॑दतो॒ वनी॑यान्पृ॒णन्ना॒ पिरपृ॑णंतम॒भि ष्या॑त् ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृषन् । इत् । फालः । आशितं । कृणोति । यन् । अध्वानं । अप । वृंक्ते । चरित्रैः।  
+> वदन् । ब्रह्मा । अवदतः । वनीयान् । पृणन् । आपिः । अप्पणंतं । अभि । स्यात् ॥ ७ ॥
+
+### Printed p. 563 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृषन् कृषिं कुर्वन्फाल आशितं कर्षकं भोक्तारं कृणोति । करोति । तथाध्वानं मार्गं यन् ॥ इणः शतरि नुमागमः ॥ गच्छन्पुरुषश्चरित्रैरात्मीयैर्गमनैरप
+> वृंक्ते । स्वामिनो धनमावर्जयति ॥ वृजी वर्जने आदादिकः । अनुदात्तेत् ॥
+
+##### Gist of the bhāṣya
+
+The ploughshare, furrowing, makes the cultivator an eater of food, आशितं (*āśitaṃ*). Likewise a man travelling the road, going, by his goings (चरित्रैः (*caritraiḥ*)) wins away wealth for his master, अप वृंक्ते (*apa vṛṃkte*).
+
+### Printed p. 564
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वदञ्ञास्त्रार्थं ब्रुवाणो ब्रह्मा ब्राह्मणोऽवदतः शास्त्रार्थमब्रुवानाज्जनाद्वनीयान् । संभक्तृतमः प्रियकरो भवति ॥ वनतेस्तृजंतस्येयसुनि तुरिष्ठेमेयः
+> स्थिति तृचो लोपः ॥ ते यथा स्वकर्मणि प्रवर्तमानाः परेषामुपकारकाः तथा
+> पृणन् दाता पुरुषोऽपृणंतमदातारं जनमभ्यभिलक्ष्यापिः स्यात् । बंधुर्भवेत् ॥
+
+##### Gist of the bhāṣya
+
+The Brahmin who speaks, expounding the meaning of the śāstra, is more worthy of service (वनीयान् (*vanīyān*)), more beloved, than the person who does not expound the meaning of the śāstra. As these, acting in their own work, are helpful to others, so the giver, पृणन् (*pṛṇan*), looking towards the non-giver, the person who does not give, should be a kinsman (आपिः (*āpiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृषन् (*kṛṣan*)—doing cultivation (agriculture), that is, ploughing the earth
+- फालः (*phālaḥ*)—the plough
+- आशितं (*āśitaṃ*)—makes the cultivating farmer eat food
+- कृणोति (*kṛṇoti*)—makes (likewise)
+- अध्वानं (*adhvānaṃ*)—the road
+- यन् (*yan*)—the man who goes, passing over it
+- चरित्रॆः (*caritrèḥ*)—by his travelling
+- अप वृंक्ते (*apa vṛṃkte*)—earns and gives wealth to his master
+- वदन् (*vadan*)—who knows and tells the meaning of the śāstra (the Veda)
+- ब्रह्मा (*brahmā*)—the Brahmin
+- अवदतः (*avadataḥ*)—than a Brahmin who does not know the meaning of the śāstra (the Veda)
+- वनीयान् (*vanīyān*)—is held better
+- पृणन् (*pṛṇan*)—the giver, that is, one who helps others
+- अप्पणंतं अभि (*appaṇaṃtaṃ abhi*)—towards the miser who does not give
+- आपि स्यात् (*āpi syāt*)—let him be a kinsman
+
+##### भावार्थ (Bhāvārtha)
+
+For the cultivating farmer his plough provides food. The servant who travels for his master's work helps his lord to gain wealth. The Brahmin who knows the meaning of the Veda and tells it to others is better than a Brahmin who does not know it. Let the benefactor-giver be a kinsman to the miser who does not give; that is, let the non-giving miser take on the giver's quality and become like him.
+
+##### English translation
+The ploughshare furrowing (the field) provides food (for the plough-man); a man travelling along a road aquires (wealth for his master) by his movements; a Brahman expounding (the Veda) is better than one not expounding it; (so) let the man who gives become a kinsman to the man who gives not.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matters in this Ṛk are described by the seer through some illustrations: that the giver is better than the miser who does not give, and that the miser should take on the giver's quality and do good to others as he does. But those illustrations or comparisons do not fit the context. Even so, they indicate a kind of moral, that a good thing is better than a bad one.
+
+### Printed p. 565
+The plough, the instrument of cultivation, provides food for the cultivator; this is known in the world. The lazy man who does not cultivate suffers without food. So the cultivator is better than the non-cultivator. In the same way the giver is better than the miser who does not give. The man who goes where he must go for his master's work and toils for him becomes the cause of his master's prosperity; that is, the one who toils gets the fruit of it. The one who does not toil gets no gain. So the toiling man is better than the idle one who does no work. In the same way the giving man is better than the miser who does not give.
+
+The Brahmin who has the ability to know and tell the meaning of the Vedas and śāstras is better than a man who knows nothing, that is, an unlearned man. In the same way the giver is better than the miser who does not give.
+
+Therefore "let the giver be a kinsman to the miser who does not give": the seer expresses the assurance that the giver's good qualities may come to the miser too, so that he also may give gifts and the like to others, help them, and be devoted to doing good to others.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एक॑पा॒द्भूयो॑ द्वि॒पदो॒ वि च॑क्रमे द्वि॒पात्रि॒पाद॑म॒भ्ये॑ति  ॒
+> पश्चात् ।  
+> चतु॑ष्पादेति द्वि॒पदा॑मभिस्व॒रे सं॒पश्य॑न्पं॒क्तिरु॑प॒तिष्ठ॑मानः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकपात् । भूयः। द्विपदः । वि । चक्रमे । द्विपात् । त्रिपादं । अभि । एति । पश्चात् ।  
+> चतुःपात् । एति । द्विपदां । अभिस्वरे । संपश्यन् । पंक्तिः । उपतिष्ठमानः ॥ ८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 559. pp. 554-559 (batch API)
+**Progress note:** Done through printed p. 565. pp. 560-565 (batch API)
