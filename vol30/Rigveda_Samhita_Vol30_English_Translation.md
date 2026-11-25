@@ -13660,6 +13660,131 @@ Indra established the earth and spread it out. He struck with his vajra and made
 
 Indra is a support for the atmosphere like a prop. And for four-footed animals and for two-footed men and the rest he has held the atmosphere and kept it from falling down. (1-12-2)
 
+### Printed p. 398
+O Indra, there is nothing that you do not conquer. Not even among the gods is anyone equal to you. No one who could rival you has been born so far, and no such person will be born in future. O god, whatever you resolve, you surely accomplish.
+(1-165-9; 4-1-8-4)
+Because Indra is greater than all beings, even if heaven and earth were both joined together, they would not match his girth.
+(1-23-6)
+In the second Maṇḍala:—
+O men, the god who, immediately on being born, by his greatness overcame all the gods, and who made heaven and earth tremble, he is renowned by his power as Indra.
+(2-12-10; Ni. 10-10)
+He who made the shaking earth stand firm, who measured out the wide atmosphere, and who held up the heavenly world so that it does not fall, he is Indra.
+(2-12-2)
+This Indra alone is the representative of the whole universe. Heaven and earth too bow to him in humility.
+(3-2-9)
+I praise Indra's wondrous prowess and the true nature of this one whose self is truth. With three vessels Indra drank the soma, and filled with the joy that is its fruit he slew the serpent.
+(2-15-1)
+By the power of the soma-drinking Indra set up the atmosphere in the empty region, and having established the earth he spread it out.
+(9-15-9 **NOTE**)
+Indra by his power made the most ancient mountains stand unshaken. He made the waters flow along their natural course. He made the earth, the sustainer of the whole world, abundant. He kept the heavenly world from falling down.
+(9-12-5)
+In the third Maṇḍala:—
+O Indra, when you held in your hand these two boundless worlds, they became only as large as your grasp.
+(3-30-5)
+
+### Printed p. 399
+We worship and praise Indra, of boundless power, of great form, ageless and ever young. Even if heaven and earth were both joined together, they could not fully measure the greatness of the venerable Indra.
+(3-2-7)
+The extraordinary deeds done by Indra are immeasurable. No god can obstruct Indra's command. The lordship of this Indra, who has set Uṣas and the Sun to their task of ordering the world, is not to be transgressed.
+(3-3-8)
+O Indra, from the moment of your birth, gladdened by soma-drinking, neither months, nor seasons, nor years can transgress your command.
+(3-32-9)
+O Indra, you alone are the leader and guide of all, gods and men. In battle this Indra has won the wealth that the gods need.
+(3-5-9, 6)
+The radiant Indra has surpassed all kinds of limits. Among the gods no one is like him.
+(3-46-3)
+In the fourth Maṇḍala:—
+Although Indra pervades the three worlds, his power surpasses the three worlds.
+(4-16-5)
+"O Indra, as soon as you were born, the heavenly world, the atmosphere and the earth trembled in fear of your wrath."
+(4-17-2)
+In the fifth Maṇḍala:—
+When you, the most excellent and greatest, were born, even the gods were afraid on hearing your name, which was famed and spread to the ends of all quarters.
+(5-30-5)
+Let us praise the great deeds of Indra, who sports with the Maruts, whose power is unobstructed, who is victorious and ageless. Neither among the ancients nor among the moderns has anyone attained Indra's pre-eminence.
+(5-42-6)
+
+### Printed p. 400
+In the sixth Maṇḍala:—
+O Indra, cause of the creation and the establishment of heaven and earth, all the ancient gods, the fathers, foremost in all pure sacrificial works, are your subjects.
+(6-17-2)
+Indra, praised and worshipped by us, does not bow to one who is urged on by the Dasyus. Be he powerful, or firm in purpose, or proud, he shows no deference to such an enemy. Though mountains rise very high, in Indra's sight they look like level plains. Even in the unfathomable ocean and the like, Indra can touch the bottom (or the shore).
+(6-24-8)
+To Indra, who pervades beyond heaven and earth, these two worlds are only a half.
+(6-20-1)
+O Indra, it alone is true that no one among gods and men is greater than you or like you.
+(6-30-4)
+O Indra, at one and the same time you created the Sun, the heavenly world and Uṣas, and as the supreme lord of all moving beings and of men and the rest, you rule all the worlds.
+(6-30-5)
+O Indra, most ancient and imperishable, I have praised you with the most excellent hymns and sūktas.
+(6 ac.a)**NOTE**
+In the seventh Maṇḍala:—
+O Indra, not by your form alone, you have also caused your great deeds to be spread everywhere. You are most wonderful.
+(7-20-4)
+O Indra, you are the lord even of the smallest wealth; you are the lord of the most excellent wealth; you are the lord of the middling wealth. Your lordship over cattle too is unhindered.
+(7-32-6)
+
+### Printed p. 401
+O heroic Indra, lord of all things, moving and unmoving, we approach you, like cows not called, together with our hymns.
+(7-32-22)
+Apart from you we have no other protector, either on earth or in the atmosphere.
+(7-3-2)**NOTE**
+O Indra, in battle you fought the enemies and won freedom together with the gods. Therefore you pervade the very wide atmosphere.
+(7-98-3)
+In the eighth Maṇḍala:—
+Indra of wondrous form is the cause of the forgetting (?) and the pervasion of all the worlds. He has provided light to the Sun. The protection of all the worlds belongs to Indra alone.
+(A. 3-6)**NOTE**
+"Nothing in the three worlds equals the prowess of Indra, who roars with might."
+(8-6-15)
+O Indra, as soon as you set the radiant Sun in the atmosphere, all the worlds bowed to you in gratitude.
+(8-9-20 **NOTE**)
+All the masses of light shining in the atmosphere and elsewhere were established by Indra. Once ordained, the ordinances of that Indra do not slacken. Therefore the lights shine steadily and undimmed.
+(8-14-9)
+By this greatness of Indra the mountains, the plains, the seas, in short all the worlds, are firm.
+(La-15-2)**NOTE**
+O Indra, by reason of power and by count of heroes, all the gods bow to you.
+(8-51-7)
+O Indra, the thousands of atmospheres and earths and the like, beyond man's sight, are subject to your control. Even a thousand suns together could not surpass your radiance. No created thing can equal you.
+(8-25-5)
+
+### Printed p. 402
+Indra is invincible, powerful, unobstructed. He can hear all, can see all, is all-knowing, all-powerful.
+(8-67-39)
+O Indra, you alone are the true warrior. These hymns made by the Gotamas urge you on, increase your strength, and gain the capacity to protect us. By your own will you have gained your growth. You have nothing of an earthly form, and among heaven, earth and the rest there is no one who could control you and rule over you.
+(5-22-9, 51)**NOTE**
+O Indra, therefore all the gods seek your friendship.
+(8-78-3)
+O Indra, when you were born for the slaying of Vṛtra and spread out heaven and earth, then you brought the principle of sacrifice into being. Then the hymns and recited mantras addressed to you were composed. Praised by those hymns, you obtained excellent power, and you possess greatness surpassing all beings that are born, and are to be born, in past, future and present.
+(ਤ-੨੩-੩੩)**NOTE**
+O Indra, the confidence you have, "I have no death, I have no decay," is indeed true.
+(9-82-5)
+Among gods and men no one is able, or has the courage, to withstand your command and your sovereignty.
+(8-82-11)
+O Indra, I praise you exceedingly as the most venerable of the venerable, as the one who throws down even an unmoving enemy, as greater than all living beings.
+(8-83-4)
+Let us praise this Indra who made all these worlds. All created things are inferior to him.
+(8-829-6)**NOTE**
+The Asuras are weaponless; therefore they are not gods. Destroy them with your wheel. As fire burns dry forest and uproots it, Indra destroys the wicked Rākṣasas and
+
+### Printed p. 403
+makes things convenient for sacrificial works and the like, as stated in 6-18-10, and so it is indicated here as well).
+(8-85-9)
+All the gods and men together made Indra, destroyer of foes, of surpassing strength, terrible, heroic and swift, the lord of the kingdom. It was for this very purpose that they brought the heroic Indra into being.
+(A-Ā-I)**NOTE**
+In the tenth Maṇḍala:—
+When Indra gathered from the Sun all the materials of rain, he seems like a gambler who holds together all his winnings in the game. No one, ancient or modern, can possess this power.
+(10-43-5)
+Indra made the shaking mountains and the foothill regions stand firm. The atmosphere resounded at the time of this poem; he made the atmosphere tremble.
+(10-44-8)
+"Tvaṣṭṛ made for me a thunderbolt of iron. The gods filled me with vigour. My brilliance, like the brilliance of Āditya, is unrivalled. For the wonderful deeds I have done and for the wonderful deeds I may yet accomplish, all gods and men praise me exceedingly and worship me."
+(10-48-3)
+O wealthy Indra, your pre-eminence is that all things, afraid of you, worship you. You set the gods free.
+(10-54-1)
+As you move among men, growing in your own form and displaying your surpassing valour, they praise your power. Neither now nor before is there any enemy of yours who can withstand your valour.
+(10-54-2)
+O Indra, who among these sages before us knows the limit of your greatness? That you produced earth and atmosphere, the mother and father of the world, from your own body is your power. The world knows it.
+(10-54-3 **NOTE**)
+
 ---
 
-**Progress note:** Done through printed p. 397. pp. 392-397 (batch API)
+**Progress note:** Done through printed p. 403. pp. 398-403 (batch API)
