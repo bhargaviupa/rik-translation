@@ -6868,6 +6868,151 @@ In giving the meaning referring to Āditya, Durgācārya has explained these epi
 
 विधाता (*vidhātā*)—he who produces, in accordance with each place and time, the other things useful for the life of beings.
 
+### Printed p. 265
+
+परमोत संदृक् (*paramota saṃdṛk*)—he who examines and watches the dealings of all beings, and so on. All these great qualities of Āditya have been explained and stated earlier. The explanation of the seven seers as seven rays has to be set out in detail in the present context. In such contexts the word "seven" has a still wider meaning. For example, the course (ayana), season, month, fortnight, day, night and muhūrta can be the seven limbs of Āditya. Likewise—
+
+सप्तविधमभिसंपद्यत एकशतधा वासावादित्यो विहितः सप्तसु देवलोकेषु प्रतिष्ठितः सप्त वै देवलोकाश्च तस्रो दिशस्त्रय इमे लोका एते वै सप्त देवलोकास्तेष्टेव प्रतिष्ठितः ॥ (*saptavidhamabhisaṃpadyata ekaśatadhā vāsāvādityo vihitaḥ saptasu devalokeṣu pratiṣṭhitaḥ sapta vai devalokāśca tasro diśastraya ime lokā ete vai sapta devalokāsteṣṭeva pratiṣṭhitaḥ ‖*) (Śa. Brā. 10-2-4-4)
+
+The rays of Āditya are of a hundred kinds. If his divine form is added, the number becomes a hundred and one. All these can be included in a group of seven kinds. How? Āditya is established in this universe, which has seven divisions. The four quarters and the three worlds, earth, atmosphere and heaven, together make seven divisions. In the midst of this sevenfold universe Āditya shines. One meaning can be that the seven rays also resort to him and enjoy the joy of their gathering of sap. Or—
+
+सप्तविधमभिसंपद्यत एकशतधा वा असावादित्यो विहिशः सप्तस्वशुषु सप्तसु स्तोमेषु सप्तसु पृष्ठेषु सप्तसु च्छंदस्सु सप्तसु प्राणेषु सप्तसु दिक्षु प्रतिष्ठितः ॥ (*saptavidhamabhisaṃpadyata ekaśatadhā vā asāvādityo vihiśaḥ saptasvaśuṣu saptasu stomeṣu saptasu pṛṣṭheṣu saptasu cchaṃdassu saptasu prāṇeṣu saptasu dikṣu pratiṣṭhitaḥ ‖*) (Śa. Brā. 10-2-4-5)
+
+In this universe of seven kinds Āditya is established in seven ways. These are the seven seasons (if the intercalary month is counted as a season, there are seven seasons). The seven stomas, the seven pṛṣṭhas, the seven metres, the seven breaths and the seven quarters all rest on Āditya and stand surrounding him. Moreover—
+
+सप्तविधमभिसंपद्यत एकशतधा वा असावादित्यो विहितः सप्ताक्षरे ब्रह्मन् प्रतिष्ठितः सप्ताक्षरं वै ब्रह्मर्गित्येकमक्षरं यजुरिति द्वे सामेति द्वैथ यदतोऽन्यद्ब्रह्मैव तद्व्यक्षरं वै ब्रह्म तदेत्सर्वसप्ताक्षरं ब्रह्म तदेत्सर्वसप्ताक्षरं ब्रह्म तस्मिन्नेष प्रतिष्ठितः ॥ (*saptavidhamabhisaṃpadyata ekaśatadhā vā asāvādityo vihitaḥ saptākṣare brahman pratiṣṭhitaḥ saptākṣaraṃ vai brahmargityekamakṣaraṃ yajuriti dve sāmeti dvaitha yadato 'nyadbrahmaiva tadvyakṣaraṃ vai brahma tadetsarvasaptākṣaraṃ brahma tadetsarvasaptākṣaraṃ brahma tasminneṣa pratiṣṭhitaḥ ‖*) (Śa. Brā. 10-2-4-6) **NOTE**
+
+Āditya, who has a hundred and one forms, is established in Brahman, who has seven syllables. Brahman is itself of the nature of seven syllables. One is of the form of the Ṛk, two are of the form of the Yajus, two of the Sāman, and the one that is of the nature of Brahman itself
+
+### Printed p. 266
+
+is two. Thus Brahman, whose nature is seven syllables in all, is the universe. In this Brahman who pervades the universe, Āditya is established; thus the seven kinds are described. The seven rays, in seven ways, squeeze out the essence of the world and join Āditya.
+
+This is the purport of the sentence इष्टानि समिषा मदंति (*iṣṭāni samiṣā madaṃti*). The word इष (*iṣa*) has been explained as water. The rays of Āditya, issuing from his excellent place, spread in many directions and distribute water to the whole world. Again they gather the same water and are satisfied. The meaning is that Āditya is established in the midst of these rays full of water. The same matter is described in the Śatapatha Brāhmaṇa in this way. If the sap is what is agreeable to each ray, then it need not be taken here as mere water; the meaning is that the rays, having gathered the water that is sap, are satisfied. How? Thus—
+
+तस्य ये प्रांचो रश्मयस्ता एवास्य प्राज्यो मधुनाड्यः । यच एव मधुकृत ऋग्वेद एव पुष्पं ता अमृता आपस्ता वा एता ऋचः । एतमृग्वेदमभ्यतपंस्तस्याभितप्तस्य यशस्सेज इंद्रियं वीर्यमन्नाद्यं रसोऽजायत । तद्व्यक्षरत्तदादित्यमभितोऽश्रयत् ॥ (*tasya ye prāṃco raśmayastā evāsya prājyo madhunāḍyaḥ | yaca eva madhukṛta ṛgveda eva puṣpaṃ tā amṛtā āpastā vā etā ṛcaḥ | etamṛgvedamabhyatapaṃstasyābhitaptasya yaśasseja iṃdriyaṃ vīryamannādyaṃ raso 'jāyata | tadvyakṣarattadādityamabhito 'śrayat ‖*) (Cha. U. 3-1) **NOTE**
+
+The rays of Āditya that spread to the east are the honey-channels of the eastern quarter. The Ṛks are the bees. The Ṛgveda is the flower. The offerings of ghee and milk made in the sacrifice are the drops of nectar. After the Ṛk mantras ripened, fame, brilliance, sense-power, virility and strength, and sap arose from the sacrifices and other rites. Afterwards all these fruits in the form of sap and the rest spread toward Āditya and joined him. The rays of Āditya enjoy the delight of this tasting of sap. The description of the various spreadings of the rays of Āditya, of the various kinds of gathering of sap and of the enjoyment of delight has been given earlier in the Ṛgveda-saṃhitā, Part 12, pp. 333-334.
+
+This tasting of sap is what the verse under discussion states by तेषामिष्टानि समिषा मदंति (*teṣāmiṣṭāni samiṣā madaṃti*). These saps are what the rays of Āditya like, approve, desire and hold dear. Moreover, in explaining the epithet पुरीषी (*purīṣī*) of Āditya in the part (12) mentioned above, the relation between the rays of Āditya and water has also been stated.
+
+That the rays of Āditya obtain this tasting of sap is the purport in the adhidaivata sense. This is the meaning referring to Āditya.
+
+The purport stated in the adhyātma view refers to the Supreme Self. विमनाः विभूतमनाः सर्वप्रज्ञानः सर्वतोमुखाभिः विशेषविज्ञानशक्तिभिः । (*vimanāḥ vibhūtamanāḥ sarvaprajñānaḥ sarvatomukhābhiḥ viśeṣavijñānaśaktibhiḥ |*) He who can know everything and is endowed with an all-sided
+
+### Printed p. 267
+
+special power of knowledge. The meaning is that he is described by epithets such as प्रज्ञेत्येनमुपासीत (*prajñetyenamupāsīta*) (Bṛ. U. 4-3-2) and प्रज्ञानघनः (*prajñānaghanaḥ*). Moreover, this Supreme Self is described as—
+
+स ना एष महानात्मा, अन्यादो वसुदानः ॥ (*sa nā eṣa mahānātmā, anyādo vasudānaḥ ‖*) (Bṛ. U. 4-4-24)
+
+This Supreme Self is the one who himself eats all food and the giver of food to the world. It is because he has these two powers that he is a great being,
+
+महान् भवति प्रजया पशुभिर्ब्रह्मवर्चसेन । महान् कीर्त्या ॥ (*mahān bhavati prajayā paśubhirbrahmavarcasena | mahān kīrtyā ‖*) (Tai. U. 3-6-1)
+
+he is possessed of food, an eater of food; because he has cattle and offspring he is a great being. Because he is endowed with brilliance and with the splendour of Brahman he is a great being. He is a great being also through fame. The Supreme Self who is praised thus in the Upaniṣads and elsewhere is praised in the present verse by the epithet विहायाः (*vihāyāḥ*).
+
+धाता (*dhātā*) and विधाता (*vidhātā*) show the power of creation and the variety of creation.
+
+A special meaning is stated only for तेषामिष्टानि समिषा मदंति; (*teṣāmiṣṭāni samiṣā madaṃti;*) यत्रा सप्तर्षीन् पर एकमाहुः (*yatrā saptarṣīn para ekamāhuḥ*). The seven seers are the seven senses. These senses, united with their dear food (their objects), enjoy delight. The meaning is an experience in the form of knowledge of the Supreme Self. The Supreme Self is the object of these senses. And this Supreme Self is distinct from that whole group of senses. In this connection the explanation of Durgācārya is as follows.
+
+न यतः परतरमस्ति तस्मिन् परतरे विश्वकर्मणि यदन्नं शक्तिमात्रं यदुपविष्टंभात् परमात्मा नित्यतृप्तः तेनान्नेन परमात्मनि तद्विज्ञानोपासनात् तेन सहभूता मोदंते । यथा च अनुपक्षीणस्तधाशक्ति निततृप्तं सर्वभावपरं तत्परं ब्रह्म यदात्मविदः प्रतिपद्यंते— (*na yataḥ parataramasti tasmin paratare viśvakarmaṇi yadannaṃ śaktimātraṃ yadupaviṣṭaṃbhāt paramātmā nityatṛptaḥ tenānnena paramātmani tadvijñānopāsanāt tena sahabhūtā modaṃte | yathā ca anupakṣīṇastadhāśakti nitatṛptaṃ sarvabhāvaparaṃ tatparaṃ brahma yadātmavidaḥ pratipadyaṃte—*) (Si. Vai. 10-26) **NOTE**
+
+In that Viśvakarman, who is the highest and than whom there is nothing higher, the food, which is mere power, and by whose support the Supreme Self is ever satisfied; with that food in the Supreme Self, through the knowledge and worship of him, the beings rejoice together with him. In that Supreme Self, than whom there is no other or higher principle, the senses are satisfied by that same excellent food with which he is satisfied, that is, by making him their object and worshipping him. It is said that the Supreme Self, who has imperishable wealth, who possesses food, who is ever satisfied and without any other beyond him, is the subject of the description here. Durgācārya has set forth the mantra quoted below as describing this same Supreme Principle in the Ṛk-saṃhitā also.
+
+### Printed p. 268
+
+न मृत्युरासीदमृतं न तर्हि न रात्रा अह्न आसीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माद्दान्यन्न परः किं चनास ॥ (*na mṛtyurāsīdamṛtaṃ na tarhi na rātrā ahna āsītpraketaḥ | ānīdavātaṃ svadhayā tadekaṃ tasmāddānyanna paraḥ kiṃ canāsa ‖*) (Ṛ. Saṃ. 1-129-2) **NOTE**
+
+It is stated that the very subject set forth here is the Supreme Principle that the Ṛk mantras praise, namely that which is beyond death, not subject to the restriction of day and night, established by its own greatness, and beyond which there is no other principle. In the present context it must be examined how the seers can have the meaning of senses; what is meant by their obtaining their desire and being satisfied; and what is the purport of the Supreme Self being distinct from them. It is also a matter to be understood how the Supreme Self can be the object of those very senses that are well known as obstructions to the vision of the Supreme Self. The account of the seven seers, who reflect the seven senses, is stated clearly in the Bṛhadāraṇyaka. First one should examine that and afterwards the exact meaning of it can be understood.
+
+यो ह वै शिशुं साधानं सप्रत्याधानं सस्थूणं सदामं वेद सप्त ह द्विषतो भ्रातृव्यानवरुणद्धि । अयं नाव शिशुर्योऽयं मध्यमः प्राणस्तस्येदमेवाधानमिदं प्रत्याधानं प्राणः स्थूणान्नं धाम ॥ (*yo ha vai śiśuṃ sādhānaṃ sapratyādhānaṃ sasthūṇaṃ sadāmaṃ veda sapta ha dviṣato bhrātṛvyānavaruṇaddhi | ayaṃ nāva śiśuryo 'yaṃ madhyamaḥ prāṇastasyedamevādhānamidaṃ pratyādhānaṃ prāṇaḥ sthūṇānnaṃ dhāma ‖*) (Bṛ. U. 2-2-1)
+
+Here the life of man is likened to a child nourished from the highest limb (the head). This child has an excellent dwelling, a good covering, a post (pillar) fit to lean on, and a good rope. He who knows this truth keeps his seven enemies far away.
+
+The breath established in the middle of the body is this child. The body is its house. The head is the covering. The breath is the supporting pillar. Food is the binding rope. Here it is said that the breath, or the man, has seven enemies. Who are these seven enemies? They are—
+
+परांचि खानि व्यतृणत्स्वयंभूस्तस्मात्पराज् पश्यति नांतरात्मन् । कश्चिद्धीरः प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन् ॥ (*parāṃci khāni vyatṛṇatsvayaṃbhūstasmātparāj paśyati nāṃtarātman | kaściddhīraḥ pratyagātmānamaikṣadāvṛttacakṣuramṛtatvamicchan ‖*) (Kara. 4-1) **NOTE**
+
+Man must go beyond the senses, free himself from their grip, and know the Supreme Principle that is distinct from them. The Supreme Principle is not to be obtained with the help of the senses. The senses are obstructions to this knowledge
+
+### Printed p. 269
+
+and therefore the wise man does not take the senses as helps to the realisation of the Self; thus the obstructive nature of the senses is indicated. It is a matter to be understood whether the senses that are obstructive are the very ones called here the seven bhrātṛvyas, that is, seven enemies. In this context the explanation of Śrī Śaṅkarācārya is as follows—
+
+सप्त ये शीर्षण्याः प्राणा विषयोपलब्धिद्वाराणि तत्प्रभवा विषयरागाः सहजत्वात् भ्रातृव्याः । ते ह्यस्य स्वात्मस्थां दृष्टिं विषयविषयां कुर्वंति । तेन ते द्वेष्टारो भ्रातृव्याः । प्रत्यगात्मेक्षणप्रतिषेधकरत्वात् ॥ (*sapta ye śīrṣaṇyāḥ prāṇā viṣayopalabdhidvārāṇi tatprabhavā viṣayarāgāḥ sahajatvāt bhrātṛvyāḥ | te hyasya svātmasthāṃ dṛṣṭiṃ viṣayaviṣayāṃ kurvaṃti | tena te dveṣṭāro bhrātṛvyāḥ | pratyagātmekṣaṇapratiṣedhakaratvāt ‖*) (Bṛ. U. Śaṃ. Bhā. 2-2-1) **NOTE**
+
+The senses, the eye and the others, become the causes of the arising of passion and obstructions to the realisation of the Supreme Self. They make the vision of man impure; they give no room to divine vision. Therefore they are to be understood as hostile; thus the nature of the seven senses is described. Therefore what is spoken of in the present context is not those gross senses. What are they? **NOTE**
+
+तमेताः सप्ताक्षितय उपतिष्ठंते तद्या इमा अक्षन्‌लोहिन्यो राजयस्ताभिरेनं रुद्रोऽन्वायत्तोऽथ या अक्षन्नापस्ताभिः पर्जन्यो या कनीनका तयादित्यो यत्कृष्टं तेनाग्निर्यच्चुक्लं तेनेंद्रोऽधरय्यनं वर्तन्या पृथिव्यन्वायत्ता दौरुत्तरया नास्यान्नं क्षीयते य एवं वेद ॥ (*tametāḥ saptākṣitaya upatiṣṭhaṃte tadyā imā akṣanlohinyo rājayastābhirenaṃ rudro 'nvāyatto 'tha yā akṣannāpastābhiḥ parjanyo yā kanīnakā tayādityo yatkṛṣṭaṃ tenāgniryaccuklaṃ teneṃdro 'dharayyanaṃ vartanyā pṛthivyanvāyattā dauruttarayā nāsyānnaṃ kṣīyate ya evaṃ veda ‖*) (Bṛ. U. 2-2-2)
+
+The seven subtle instruments that supply food to the subtle body serve this Puruṣa (the breath). The red lines in the eye show the relation between this Puruṣa, who is of the nature of breath, and Rudra. The water principle in the same eye shows the relation of the Puruṣa to Parjanya. Its pupil shows the relation of the Puruṣa to Āditya. **NOTE** In the same way the black region of the eye shows the relation to Agni, the white region the unity with Indra, the lower eyelid the relation to the earth, and the upper eyelid the relation to the atmosphere. Since all these are imperishable subtle principles, he who knows them obtains imperishable food. This passage is described in this way by a mantra of the seers.
+
+तदष्टे श्लोको भवति । अर्वाग्बिलश्चमस ऊर्ध्वबुध्नस्तस्मिन्यशो निहितं विश्वरूपं । तस्यासत ऋषयः सप्त तीरे वागष्टमी ब्रह्मणा संविदाना । इति । (*tadaṣṭe śloko bhavati | arvāgbilaścamasa ūrdhvabudhnastasminyaśo nihitaṃ viśvarūpaṃ | tasyāsata ṛṣayaḥ sapta tīre vāgaṣṭamī brahmaṇā saṃvidānā | iti |*)
+
+### Printed p. 270
+
+There is a bowl (camasa) with its head-part turned downward and its bottom turned upward (the head). In this the fame of the all-formed is also placed. Around its rim the seven seers are established. The eighth, the principle of speech, is united with the mantra in the form of Brahman. The purport of this mantra, with this meaning, is explained in the Upaniṣad also, in this way.
+
+आर्वाग्बिलश्चमस ऊर्ध्वबुध्न इतीदं शच्चिर एष आर्वाग्बिलश्चमस ऊर्ध्वबुध्नस्तस्मिन् यशो निहितं विश्वरूपमिति प्राणा वै यशो विश्वरूपं प्राणानेतदाह तस्यासत ऋषयः सप्ततीर इति प्राणा ना ऋषयः प्राणानेतदाह वागष्टमी ब्रह्मणा संविदानेति वागृष्टमी ब्रह्मणा संवित्ते ॥ (*ārvāgbilaścamasa ūrdhvabudhna itīdaṃ śaccira eṣa ārvāgbilaścamasa ūrdhvabudhnastasmin yaśo nihitaṃ viśvarūpamiti prāṇā vai yaśo viśvarūpaṃ prāṇānetadāha tasyāsata ṛṣayaḥ saptatīra iti prāṇā nā ṛṣayaḥ prāṇānetadāha vāgaṣṭamī brahmaṇā saṃvidāneti vāgṛṣṭamī brahmaṇā saṃvitte ‖*) (Bṛ. U. 2-2-3)
+
+The camasa bowl with its head turned downward and its bottom turned upward is the head of man. This description is given because the fame of the all-formed is established in the breaths, and because this breath is established in the head. The seven breaths are called the seven seers. The eighth, speech, is united with Brahman in the form of mantra. Who are these seven breaths called seers, or who are these seven seers of the nature of breath? They are—
+
+इमावेव गोतमभरद्वाजावयमेव गोतमोऽयं भरद्वाज इमावेव विश्वामित्रजमदग्नी आयमेव विश्वामित्रोऽयं जमदग्निरिमावेव वसिष्ठकश्यपावयमेव वसिष्टोऽयं कश्यपो वागेवात्रिर्वाचा ह्यन्नमद्यतेऽक्तिर्ह वै नामैतद्यदत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवतिय एवं वेद । (*imāveva gotamabharadvājāvayameva gotamo 'yaṃ bharadvāja imāveva viśvāmitrajamadagnī āyameva viśvāmitro 'yaṃ jamadagnirimāveva vasiṣṭhakaśyapāvayameva vasiṣṭo 'yaṃ kaśyapo vāgevātrirvācā hyannamadyate 'ktirha vai nāmaitadyadatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavatiya evaṃ veda |*) (Bṛ. U. 9-2-4) **NOTE**
+
+Of these two ears one is Gotama and the other Bharadvāja; of these two eyes one is Viśvāmitra and the other Jamadagni; of these two nostrils (parts of the nose) one is Vasiṣṭha and the other Kaśyapa; because it eats food, the tongue (speech) is the seer Atri. He who knows these truths becomes an enjoyer of the wealth of food and ... **NOTE**
+
+In sum, that the principle of breath is chief and that the other senses have taken shelter in it was stated in the special topics of the preceding Ṛk. And resorting to this very breath they experience their enjoyments. That the Lord of the world is himself of this form of breath was stated earlier. The purport is that, having obtained the shelter of this breath, all the senses obtain their respective objects and also the experience of pleasure that results from them. Moreover,
+
+### Printed p. 271
+
+तास्यस्मिन्नेकं भवंतीत्यात्मगतिमाचष्टे । (*tāsyasminnekaṃ bhavaṃtītyātmagatimācaṣṭe |*) (Ni. 80-96) **NOTE**
+
+All these senses become one in the Self, who is of the nature of breath. This declares the course of the Self; this is the purport of the author of the Nirukta.
+
+What is the purport of saying that all the seers, who are of the form of senses, become one in the Self, who is of the form of breath? How is this Self, in the form of the senses, the nourisher of the body that is endowed with the senses? These and similar points are stated in the Itareya-āraṇyaka in this way.
+
+एष इमं लोकमभ्यार्चत्पुरुषरूपेण य एष तपति प्राणो वाव तदभ्यार्चत्प्राणो ह्येष य एष तपति । तं शतं वर्षाण्यभ्यार्चत्तस्माच्छतं वर्षाणि पुरुषायुषो भवंति तं यच्छतं वर्षाण्यभ्यार्चत् तस्माच्छर्चिनः इत्याचक्षते । (*eṣa imaṃ lokamabhyārcatpuruṣarūpeṇa ya eṣa tapati prāṇo vāva tadabhyārcatprāṇo hyeṣa ya eṣa tapati | taṃ śataṃ varṣāṇyabhyārcattasmācchataṃ varṣāṇi puruṣāyuṣo bhavaṃti taṃ yacchataṃ varṣāṇyabhyārcat tasmāccharcinaḥ ityācakṣate |*) (Ja. Ā. 9-2.1) **NOTE**
+
+The shining Universal Self entered the world in the form of a Puruṣa. He is of the nature of breath. As breath he shines here also. Because he shines for a hundred years, a hundred years of life are fixed for man. That is why the name Śatarcin (the one of a hundred rays) is well known for the breath.
+
+य इदं संतं मध्यतो दधे यदिद्दं किंच स यदिदं सर्वं मध्यतो दधॆः यदिदं किंच तस्मान्माध्यमास्तस्मान्माध्यमा इत्याचक्षत एतमेव संतं । प्राणो वै गृत्सः अपानो मदः..................तस्माद्गृत्समद इत्याचक्षतेश ॥ (*ya idaṃ saṃtaṃ madhyato dadhe yadiddaṃ kiṃca sa yadidaṃ sarvaṃ madhyato dadhèḥ yadidaṃ kiṃca tasmānmādhyamāstasmānmādhyamā ityācakṣata etameva saṃtaṃ | prāṇo vai gṛtsaḥ apāno madaḥ..................tasmādgṛtsamada ityācakṣateśa ‖*) (Ai. Ā. 2.2-1)
+
+This Self, who is of the nature of breath, was established in the middle of the man's body. That is why he is called Madhyama. As breath he swallows everything. As apāna he is the cause of delight (mada). Therefore those who know the truth also call him Gṛtsamada, who is in the form of prāṇa and apāna.
+
+तस्येदं विश्वं मित्रमासीद्यदिदं किंच.... ....तस्माद्विश्वामित्र इत्याचक्षते ॥ (*tasyedaṃ viśvaṃ mitramāsīdyadidaṃ kiṃca.... ....tasmādviśvāmitra ityācakṣate ‖*)
+
+Everything in the world is friendly to this breath. That is why the name Viśvāmitra is well known for him.
+
+तं देवा अब्रुवन्नयं वै नः सर्वेषां वा इति तं यद्देवा........तस्माद्वामदेव इत्याचक्षते ॥ (*taṃ devā abruvannayaṃ vai naḥ sarveṣāṃ vā iti taṃ yaddevā........tasmādvāmadeva ityācakṣate ‖*)
+
+### Printed p. 272
+
+The gods wished that he should be the one who brings dear things to all of us. Since he became dear (vāma) to all of them, he is well known as Vāmadeva.
+
+य इदं सर्पं पाप्यनोऽत्रायत यदिदं किंच......... तस्मादत्रय इत्याचक्षत एतमेव संतं ॥ (*ya idaṃ sarpaṃ pāpyano 'trāyata yadidaṃ kiṃca......... tasmādatraya ityācakṣata etameva saṃtaṃ ‖*)
+
+Because this Self, who is of the nature of breath, protected (trāṇa) everything from evil, he has the name Atri. The prāṇas, apānas and the rest are well known as Atrayaḥ.
+
+एष उ एव बिभ्रद्वाजः प्रजा वै वाजः ता एष बिभर्ति यद्बिभर्ति तस्माद्भरद्वाजः । (*eṣa u eva bibhradvājaḥ prajā vai vājaḥ tā eṣa bibharti yadbibharti tasmādbharadvājaḥ |*)
+
+Offspring (progeny) are called vāja (food). Since this Self, who is of the nature of breath, bears and nourishes these vājas, he is Bharadvāja.
+
+तं देवा अब्रुवन्नयं वै नः सर्वेषां वसिष्ठ इति........तस्माद्वसिष्ठ इत्याचक्षत एतमेव संतं । (*taṃ devā abruvannayaṃ vai naḥ sarveṣāṃ vasiṣṭha iti........tasmādvasiṣṭha ityācakṣata etameva saṃtaṃ |*)
+
+The gods wished that he should be the best among us all and endowed with exceeding wealth. Since he is the most excellent (vasiṣṭha) among them all, he became well known as Vasiṣṭha. Thus the meaning of the word ṛṣi is explained. The purport is that the Self, who is of the nature of breath, is the lord of all these senses, and that the senses, nourished by this lord and serving him, experience happiness.
+
+The purport of the sentence तेषां इष्टानि समिषा मदंति (*teṣāṃ iṣṭāni samiṣā madaṃti*) is explained at length in the Chāndogya and other Upaniṣads. The performance of the sacrifice by the seers, who are of the form of senses, and the satisfaction of Prajāpati, who is of the form of breath, by that sacrifice, will all be stated in the special topics of the 4th Ṛk of this same sūkta.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नः॑ पि॒ता ज॑नि॒ता यो वि॑धा॒ता धामा॑नि॒ वेद॒ भुव॑नानि॒  ॑
+> विश्वा॑ ।  
+> यो दे॒वानां॑ साम॒धा एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना  ॒
+> यंत्यन्या ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 264. Vol 29 pp. 258-264: end of chakshusha pita commentary; Sukta 82 Rk viśvakarmā vimanā with bhāṣya, Nirukta explanations
+**Progress note:** Done through printed p. 272. Vol 29 pp. 265-272: Sukta 82 Rk 2 special topics (seven rishis as senses, prana), Rk 3 Samhita
