@@ -39406,6 +39406,235 @@ The cows that are of like form, those of different forms, those of a single colo
 - विरूपाः (*virūpāḥ*)—which cows are of different forms
 - एकरूपाः (*ekarūpāḥ*)—which cows are of a single kind of colour
 
+### Printed p. 1149
+*Pratipadārtha (continued)*
+- द्दागिरुववो (*ddāgiruvavo*)—(those cows) that are of one colour
+- यासां (*yāsāṃ*)—of which cows
+- नामानि (*nāmāni*)—the names
+- इष्ट्या (*iṣṭyā*)—by means of the sacrifice
+- अग्निः (*agniḥ*)—Agni
+- वेद (*veda*)—knows
+- याः (*yāḥ*)—which cows
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgiras seers
+- तपसा (*tapasā*)—by austerity in the form of the Citrā sacrifice and the like
+- इह (*iha*)—in this world
+- चक्रुः (*cakruḥ*)—created
+- ताभ्यः (*tābhyaḥ*)—for such cows
+- पर्जन्य (*parjanya*)—O god Parjanya
+- महि (*mahi*)—great
+- शर्म (*śarma*)—happiness
+- यच्छ (*yaccha*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+Some cows are of similar shape. Some cows are of different shapes, that is, some are large and some small. Or some are of one colour, some of another colour, and some again are of a single colour. That is, Agni, by the power of his sacrifice, can know the names of the cows that are of various forms, in shape and in colour, and of similar form. And the Aṅgiras seers, by the power of their austerity and by the conduct of the sacrifice, created cows in this world. May the god Parjanya bring happiness to all these kinds of cows.
+
+##### English translation
+Grant great felicity, Parjanya, to those cows who are of similar forms, of different forms, or of single forms. whose names Agni knows through the sacrifice, or those whom the Angirasas created in this world by penance.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या दे॒वेषु॑ त॒न्व१॒ं॑ मैर॑यंत॒ यासां॒ सोमो॒ विश्वा॑ ॒॒ ॑
+> रू॒पाणि॒ वेद॑ ।  
+> ता अ॒स्मभ्यं॒ पय॑सा॒ पिन्न॑मानाः प्र॒जाव॑तीरिंद्र गो॒ष्ठे रि॑रीहि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । देवेषु । तन्वं । ऐरयंत । यासां । सोमः । विश्वा । रूपाणि । वेद ।  
+> ताः । अस्मभ्यं । पयसा । पिन्नमानाः । प्रजावतीः । इंद्र । गोस्थे । रिरीहि ॥ ३ ॥
+
+### Printed p. 1150
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वाभ्यां सायं गृहमागच्छंतीर्गा अनुमंत्रयेत । सूत्र्यते हि । या
+> देवेषु तन्नमैरयंतेति च सूक्तशेषं । आगावीयमेके । आ. गृ. २-१०-६, ७ । इति ॥
+> या गावो देवेषु यष्टव्येषु शन्वमात्मीयं शरीरमैरयंत हवीरूपेण
+> प्रेरयंति यासां च गवां विश्वा सर्वाणि रूपाणि रूप्यमाणानि क्षीरादीनि श्रयणद्रव्याणि सोमो वेद जानाति अस्मभ्यमस्मदर्थं पयसा क्षीरेण पिन्वमाना वर्धमानाः
+> अत एव प्रजावतीः प्रजाभिर्वत्सैरुपेतास्ता गा हे इंद्र गोष्ठेऽस्मदीये रिरीहि ।
+> गमय ॥ री गतिरेषणयोः । छांदसो विकरणस्य श्लु ः ॥
+
+##### Gist of the bhāṣya
+
+Viniyoga: with these two verses one should address the cows coming home in the evening; this is set out in the Āśvalāyana Gṛhya Sūtra: या देवेषु तन्नमैरयंतेति च सूक्तशेषं । आगावीयमेके (*yā deveṣu tannamairayaṃteti ca sūktaśeṣaṃ | āgāvīyameke*) (Ā. Gṛ. 2-10-6, 7). The cows that send forth their own bodies, as oblation, among the gods to be worshipped; and Soma knows all the forms of these cows, that is, the milk and other mixing substances that are shaped from them. Swelling with milk for us, and therefore accompanied by offspring, calves, those cows, O Indra, bring into our cow-pen (रिरीहि (*rirīhi*) = make go; the root री (*rī*) in the sense of going and approaching, with the Vedic श्लु (*ślu*) in place of the vikaraṇa).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः (*yāḥ*)—which cows
+- देवेषु (*deveṣu*)—among the gods fit for sacrifice, that is, for the gods
+- तन्नं (*tannaṃ*)—their body (the milk within the body)
+- ऐरयंत (*airayaṃta*)—send forth and offer
+- यासां (*yāsāṃ*)—of which cows
+- विश्वा (*viśvā*)—all
+- रूपाणि (*rūpāṇi*)—the mixing substances, milk and the like
+- सोमः (*somaḥ*)—Soma
+- वेद (*veda*)—knows
+- अस्मभ्यं (*asmabhyaṃ*)—for us
+- पयसा (*payasā*)—with milk
+- पिन्वमानाः (*pinvamānāḥ*)—swelling (full)
+- प्रजावतीः (*prajāvatīḥ*)—accompanied by (calves)
+- ताः (*tāḥ*)—those cows
+- इंद्र (*iṃdra*)—O Indra
+- गोष्ठे (*goṣṭhe*)—in our cow-pen
+- रिरीहि (*rirīhi*)—bring and gather
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The cows that offer their bodies, that is, the milk and other things produced by the body, for the gods fit for sacrifice; the cows whose entire milk, curds and ghee, the mixing substances of manifold forms, the god Soma knows: those cows, full of milk and accompanied by calves, O Indra, bring and gather in our cow-pen.
+
+##### English translation
+Bring, Indra, to the cow-house (the cows) who offer their bodies to the gods, those of whom Soma knows all the properties, those that nourish us with their milk, and those that have calves.
+
+##### विशेषविषयगळु (Special Topics)
+
+That the cows coming home in the evening are to be addressed with the two verses beginning या देवेषु (*yā deveṣu*) is set out by the Āśvalāyana Gṛhya Sūtra: या देवेषु तन्नमैरयंतेति च सूक्तशेषं आगावीयमेके (*yā deveṣu tannamairayaṃteti ca sūktaśeṣaṃ āgāvīyameke*) (Ā. Gṛ. 2-10-6, 7).
+
+### Printed p. 1151
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒जाप॑ति॒र्मह्य॑मे॒ता ररा॑णो॒ विश्वै॑र्दे॒वैः पि॒तृभिः॑ संविदा॒नः।  
+> शि॒वाः स॒तीरुप॑ नो गो॒ष्ठमाक॒स्तासां॑ व॒यं प्र॒जया॒ सं  ॑
+> सदेम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रजापतिः । मह्यं । एताः । रराणः । विश्वैः । देवैः । पितृभिः । संविदानः ।  
+> शिवाः । सतीः । उपे । नः । गोस्थं । आ । अकरित्यकः । तासां । वयं । प्रजया ।  
+> सं । सदेम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रजापतिर्विधाता मह्यं स्तोत्र एता गा रराणः प्रयच्छन् ॥ रातेर्व्यत्ययेन
+> शानच् । छांदसः शपः श्लुः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ विश्वैः सर्वैर्देवैः
+> पितृभिश्च संविदान ऐकमत्यं गतः सन् शिवाः सतीः कल्याणीर्भवंतीर्गा नोऽस्माकं
+> गोष्ठं व्रजमुप गोष्ठसमीपेऽकः । करोतु । तासां गवां प्रजया संतानेन
+> वयं सं सदेम । संगच्छेमहि ॥ सदेराशिषि लिजि लिज्याशिष्यज् ॥
+
+##### Gist of the bhāṣya
+
+Prajāpati, the creator, giving these cows to me the praiser, being in accord with all the gods and the fathers, let him make these cows, being auspicious, come to our cow-pen, to the neighbourhood of the cow-pen. By the offspring of those cows may we be united. रराणः (*rarāṇaḥ*) is from the root रा (*rā*) with शानच् (*śānac*) by inversion, the Vedic श्लु (*ślu*) replacing *śap*; सदेम (*sadema*) = may we be united.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रजापतिः (*prajāpatiḥ*)—the creator
+- मह्यं (*mahyaṃ*)—for me, the praiser
+- एताः (*etāḥ*)—these cows
+- रराणः (*rarāṇaḥ*)—giving
+- विश्वैः (*viśvaiḥ*)—all
+- देवैः (*devaiḥ*)—by the gods
+- पितृभिः (*pitṛbhiḥ*)—and by the fathers
+- संविदानः (*saṃvidānaḥ*)—having obtained consent
+- शिवाः सतीः (*śivāḥ satīḥ*)—those auspicious cows
+- नः (*naḥ*)—our
+- गोष्ठं उप (*goṣṭhaṃ upa*)—to the neighbourhood of the cow-pen
+- अकः (*akaḥ*)—let him bring and gather
+- तासां (*tāsāṃ*)—of those cows
+- प्रजया (*prajayā*)—by the offspring
+- वयं (*vayaṃ*)—we
+- सं सदेम (*saṃ sadema*)—may we be (happy)
+
+##### भावार्थ (Bhāvārtha)
+
+May Prajāpati, the creator, with the consent of all the gods and the fathers, not only give me, the praiser, those auspicious cows but bring them to the neighbourhood of our cow-pen. By the offspring of those cows may we be happy.
+
+### Printed p. 1152
+
+##### English translation
+May Prajapati bestowing these (cows) upon me, concurring with the universal gods and the Pitris, bring the auspicious cattle to our cow-pen, may we be in possession of their progeny.
+
+## Sūkta 170 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विभ्राडिति चतुर्यचमेकोनविंशं सूक्तं सूर्यपुत्रस्य विभ्राट्संज्ञकस्यार्षं
+> सूर्यदेवत्यं । आदौ तिस्रो जगत्यः । द्वष्टकद्विद्वादशकवत्यास्तारपंक्तिश्च तुर्थि ।
+> तथा चानुक्रांतं । विभ्राड्विभ्राट् सौर्यः सौर्यं जागतमास्तारपंक्त्यंतमिति ॥
+> विषुवति निष्केवल्य आद्यस्तृचः स्तोत्रियः । सूत्रितं च । विभ्राड्बृहत्पिबतु सोम्यं
+> मधु नमो मित्रस्य वरुणस्य चक्षस इति स्तोत्रियानुरूपौ । आ. ८-६ । इति ॥ वाजपेयेऽतिरिक्कोक्षस्य विभ्राडित्येषा शस्त्रे याज्या । सूत्र्यते हि । विभ्राड्बृहत्पिबतु
+> सोम्यं मध्विति याज्या तस्य गवां शतानां । आ. ९-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta विभ्राट् (*vibhrāṭ*), of four verses, is the nineteenth sūkta of the twelfth anuvāka. Its seer is Vibhrāṭ, son of Sūrya; its deity is Sūrya. The first three verses are Jagatī; the fourth is Āstārapaṅkti, with four pādas, the first two of eight syllables and the last two of twelve. The Anukramaṇī: विभ्राड्विभ्राट् सौर्यः सौर्यं जागतमास्तारपंक्त्यंतमिति (*vibhrāḍvibhrāṭ sauryaḥ sauryaṃ jāgatamāstārapaṃktyaṃtamiti*). At the Viṣuvat day, in the Niṣkevalya recitation, the first tṛca is the Stotriya; the sūtra: विभ्राड्बृहत्पिबतु सोम्यं मधु नमो मित्रस्य वरुणस्य चक्षस इति स्तोत्रियानुरूपौ । (*vibhrāḍbṛhatpibatu somyaṃ madhu namo mitrasya varuṇasya cakṣasa iti stotriyānurūpau |*) (Ā. 8-6). In the Vājapeya, in the Atirikta-ukthya, this verse is the Yājyā in the śastra: विभ्राड्बृहत्पिबतु सोम्यं मध्विति याज्या तस्य गवां शतानां (*vibhrāḍbṛhatpibatu somyaṃ madhviti yājyā tasya gavāṃ śatānāṃ*) (Ā. 9-9).
+
+##### विशेषविषयगळु (Special Topics)
+
+This sūkta विभ्राट् (*vibhrāṭ*) is the nineteenth sūkta in the twelfth anuvāka, with four ṛks. Vibhrāṭ, son of Sūrya, is the seer; Sūrya the deity; the first three ṛks are in Jagatī, the fourth in Āstārapaṅkti. The Anukramaṇī says: विभ्राट् विभ्राट् सौर्यः सौर्य० जागतमास्तारपंत्यंतं (*vibhrāṭ vibhrāṭ sauryaḥ saurya0 jāgatamāstārapaṃtyaṃtaṃ*). At the Viṣuvat sacrifice, in the recitation of the Niṣkevalya śastra mantras, the first three ṛks are to be recited as the Stotriya tṛca, as set out by the Āśvalāyana Śrauta Sūtra: विभ्राड्बृहत्तिबतु सोम्यं मधु नमो मित्रस्य वरुणस्य चक्षस इति स्तोत्रियानुरूप् (*vibhrāḍbṛhattibatu somyaṃ madhu namo mitrasya varuṇasya cakṣasa iti stotriyānurūp*) (Ā. 8-6). And in the Vājapeya sacrifice, in the recitation of the Atirikta-ukthya mantras, this ṛk विभ्राट् (*vibhrāṭ*) is to be recited among the śastra mantras as Yājyā, as set out by the same: विभ्राड्बृहत्तिबतु सोम्यं मध्विति याज्या तस्य गवां शतानां (*vibhrāḍbṛhattibatu somyaṃ madhviti yājyā tasya gavāṃ śatānāṃ*) (Ā. 9-9).
+**NOTE**
+
+### Printed p. 1153
+Maṇḍala 10; Anuvāka 12; Sūkta 170. Aṣṭaka 8; Adhyāya 8; Varga 28. Number of ṛks in the sūkta: 4. Seer: Vibhrāṭ Saurya. Deity: Sūrya. Metre: 1–3 Jagatī; 4 Āstārapaṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भ्राड्‌बृ॒हत्पि॑बतु सो॒म्यं मध्वायु॒र्दध॑द्य॒ज्ञप॑ता॒ववि॑ह्रुतं ।  
+> वात॑जूतो॒ यो अ॑भि॒रक्ष॑ति॒ त्मना॑ प्र॒जाः पु॑पोष पुरु॒धा  ॑
+> वि राजति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभ्राट् । बृहत् । पिबतु । सोम्यं । मधु । आयुः । दधत् । यज्ञपतौ । अविह्रुतं ।  
+> वातजूतः । यः । अभिरक्षति । त्मना । प्रजाः । पुपोष । पुरुधा । वि । राजति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विभ्राड्विभ्राजमानो विशेषेण दीप्यमानः सूर्यो बृहन्महत्परिवृढं सोम्यं
+> सोममयं मधु पिबतु । किं कुर्वन् । यज्ञपत् यजमानेऽविह्नुतमकुटिलमायुर्दधत् कुर्वन् । यः सूर्यो वातजूतो वातेन महावायुना प्रेर्यमाणः संस्त्मनात्मना स्वयमेवाभिरक्षति सर्वं जगदभिपश्यन्पालयति । राशिचक्रस्य
+> वायुप्रेय्र्यात्वात्सूर्यस्यापि तत्रेर्यत्वं । स सूर्यः प्रजाः पुपोष । वृष्टादिप्रदानेन पोषयति । पुरुधा बहुधा वि राजति । विशेषेण दीप्यते च ॥
+
+##### Gist of the bhāṣya
+
+Vibhrāṭ, the shining one, Sūrya radiant in a special way, let him drink the great, encompassing, Soma-made honey. Doing what? Bestowing unbroken, straight life upon the lord of the sacrifice, the sacrificer. The Sūrya who, impelled by the wind, the great Vāyu, himself of his own accord protects the whole world, watching over and guarding it. Since the zodiac is moved by the wind, Sūrya too is moved in it. That Sūrya nourishes the creatures, nourishes them by giving rain and the like; in many ways he shines forth in a special manner.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभ्राट् (*vibhrāṭ*)—Sūrya, shining radiantly
+- यज्ञपतौ (*yajñapatau*)—in respect of the sacrificer
+- अविह्रुतं (*avihrutaṃ*)—unbroken
+- आयुः (*āyuḥ*)—life
+- दधत् (*dadhat*)—bestowing
+
+### Printed p. 1154
+- बृहत् (*bṛhat*)—great
+- सोम्यं (*somyaṃ*)—Soma-made
+- मधु (*madhu*)—sweet drink
+- पिबतु (*pibatu*)—let him drink
+- यः (*yaḥ*)—the Sūrya who
+- वातजूतः (*vātajūtaḥ*)—impelled by the wind
+- त्मना (*tmanā*)—of his own accord
+- अभिरक्षति (*abhirakṣati*)—protects the whole world; that Sūrya
+- प्रजाः (*prajāḥ*)—the creatures (people)
+- पुपोष (*pupoṣa*)—nourishes with rain and the like
+- पुरुधा (*purudhā*)—greatly
+- वि राजति (*vi rājati*)—shines in a special manner
+
+##### भावार्थ (Bhāvārtha)
+
+May Sūrya, shining most brilliantly, bestowing unbroken life on the sacrificers who perform the sacrifice, drink the great and delicious Soma juice. The Sūrya who, impelled by the wind, of his own accord protects the whole world, nourishes the creatures by granting rain and the like, and shines in a special manner.
+
+##### English translation
+Let the radiant (Surya) drink much sweet Soma juice, bestowing un-broken life upon the lord of the sacrifice; (Surya), who impelled by the wind protects his people of his own accord, nourishes them and shines in various places.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भ्राड्बृ॒हत्सुभृ॑तं वाज॒सात॑मं॒ धर्म॑न्दि॒वो ध॒रुणे॑ स॒त्यमर्पि॑तं ।  
+> अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हंत॑मं॒ ज्योति॑र्जज्ञे असुर॒हा स॑पत्न॒हा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभ्राट् । बृहत् । सुभृतं । वाजसातमं । धर्मन् । दिवः । धरुणे । सत्यं  
+> अर्पितं ।  
+> अमित्रहा । वृत्रहा । दस्युहन्तमं । ज्योतिः । जज्ञे । असुरहा । सपत्नहा ।
+
 ---
 
-**Progress note:** Done through printed p. 1148. pp. 1143-1148 (batch API)
+**Progress note:** Done through printed p. 1154. pp. 1149-1154 (batch API)

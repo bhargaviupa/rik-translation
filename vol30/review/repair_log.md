@@ -10,3 +10,4 @@
 - 2026-11-25: fix_split_samhita.py (windows): the second line of a Saṃhitā at the top of a window had its own Ṛk heading and Saṃhitā sub-heading; removed at: w0560, w0953 (no text changed).
 - 2026-11-25: w1001: the model glued the p. 1004 heading to a quotation ('… *### Printed p. 1004') and typed a Nirukta quotation in Latin letters inside ⟦ ⟧ (quotation not in kn.md): heading restored on its own line; the quotation given in italic transliteration only (the NOTE already says it is not in the supplied text).
 - 2026-11-25: w1013: remark '—as printed' removed from a word-list entry (en.md).
+- 2026-11-25: w1149: a '[figure: …]' line in kn.md was a printed ornament (a divider, looked at the picture): line removed (kn.md; no text).
