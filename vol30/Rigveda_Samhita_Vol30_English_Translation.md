@@ -26981,6 +26981,225 @@ O Mitra, remover of darkness, the heavenly world brought you forth, one of Mitra
 
 The ṛṣi named Śākapūta says: the sin (एनः (*enaḥ*)) that stands in this Śākapūta, the weapon that is the sinful instrument against enemies, when Mitra the god is kindly disposed and intent on doing good, strikes down well the heroes of the enemy, his sons and others, who are certain to go down to be killed. **NOTE**
 
+### Printed p. 820
+
+> दुःखं जनयतीत्यर्थः ॥ निगतान् । निपूर्दाद्गमेः कर्मणि निष्ठा । गतिरनंतर इति
+> गतेः प्रकृतिस्वरत्वं ॥ कदेत्यत आह । अवोर्हविर्भिस्तर्पयितुः ॥ अवतेर्‌णादिक
+> उप्रत्ययः ॥ तस्य यजमानस्य यज्ञियासु यज्ञार्हासु क्रियासु तनूषु शरीरेष्टर्वाभिगंता मित्रो वरुणो वा यद्यदावो रक्षणं धात् दधाति निडधाति स्थापयति।
+> यद्वा । यदार्वाभिगंता स ऋषिरवितू रक्षितुर्मित्रस्य वरुणस्य वा यागार्हासु
+> प्रियासु तनूषु शरीरेष्टवो हविर्लक्षणमन्नं धात् धारयति । तदानीं मित्रे
+> वरुणे चानुकूले सति तदेनो वीरान्हंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The verse is the sixth in a sequence on Mitra and Varuṇa; this block completes the bhāṣya on Ṛk 5. Sāyaṇa says that this sin, the weapon that works harm for enemies, lodged in this Śakapūta, causes suffering. He glosses निगतान् (*nigatān*) as the verbal participle of नि (*ni*) with the root *gam* in the passive sense. To the question "when?" he answers that it is when the approaching one, Mitra or Varuṇa, establishes protection, अवः (*avaḥ*), in the bodies, तनूषु (*tanūṣu*), that is, the sacrificial actions of the sacrificer who gratifies them with oblations. Alternatively, when the approaching ṛṣi sets down food in the form of oblation in the dear sacrificial bodies of the protector, Mitra or Varuṇa, then, with Mitra and Varuṇa favourable, this weapon kills the heroes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवोः (*avoḥ*)—of the sacrificer who offers oblations
+- यज्ञियासु (*yajñiyāsu*)—in those fit for sacrifice
+- प्रियासु तनूषु (*priyāsu tanūṣu*)—in the auspicious rites
+- अर्वा (*arvā*)—Mitra or Varuṇa, who comes to the sacrifice
+- यत् (*yat*)—when
+- अवः (*avaḥ*)—protection
+- धात् (*dhāt*)—he establishes. Or else: अर्वा (*arvā*)—the sacrificing seer Śakapūta; अवोः (*avoḥ*)—to Mitra or Varuṇa, the protector; प्रियासु (*priyāsu*)—dear; यज्ञियासु तनूषु (*yajñiyāsu tanūṣu*)—in the sacrificial rites; अवः (*avaḥ*)—the food in the form of oblation; धात् (*dhāt*)—he holds, that is, prepares and offers it; then
+- मित्रे (*mitre*)—the god Mitra
+- हिते (*hite*)—being favourable to Śakapūta, the seer of this hymn
+- अस्मिन् शकपूते (*asmin śakapūte*)—in this seer Śakapūta
+- एतत् (*etat*)—this
+- एनः (*enaḥ*)—the weapon that harms enemies
+- निगतान् (*nigatān*)—who rush forward
+- वीरान् (*vīrān*)—the enemy heroes or their sons
+- सु (*su*)—well
+- हंति (*haṃti*)—kills
+
+##### भावार्थ (Bhāvārtha)
+
+When, in the pleasing sacrificial rites that the sacrificer performs for Mitra and Varuṇa, Mitra and Varuṇa grant him protection; or when, in the rites dear to Mitra and Varuṇa, the seer Śakapūta offers them oblations, Mitra, being gracious toward that seer, the weapon in him kills the enemy heroes.
+
+##### English translation
+This iniquity (found) in this Shakaputha, when Mitra is propitious, destroys opposing heroes, when the approaching (Rishi) places food in the dear adorable bodies of the protector (Mitra).
+
+### Printed p. 821
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वोर्हि मा॒तादि॑तिर्विचेतसा॒ द्यौर्न भूमिः॒ पय॑सा पुपू॒तनि॑ ।  
+> अव॑ प्रि॒या दि॑दिष्णन॒ सूरो॑ निनिक्त र॒श्मिभिः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । हि । माता । अदितिः । विचेतसा । द्यौः । न । भूमिः । पयसा । पुपूतनि ।  
+> अव । प्रिया । दिदिष्टन । सूरः । निनिक्त । रश्मिभिः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचेतसा विशिष्टज्ञानौ मित्रावरुणौ युवोर्हि युवयो॥ खलु माता
+> जनन्यदितिरदीनाखंडनीया ना भवति । सैव भूमिः । इयं वा अदितिरिति श्रुतेः ।
+> द्यौर्न यथा द्युलोकः पयसा वृष्ट्युदकेन सर्वं जगत्पुनाति एवमेषा सा भूमिः
+> पयसात्मीयेन रसेन हविरात्मना परिणतेन पुपूतानि परिपवने यजमानानां पापस्य
+> शोधने हेतुर्भवतीत्यर्थः ॥ पूतशब्दादाचारे क्विबंतादौणादिकः कनिप्रत्ययः ।
+> छांदसं द्विर्वचनं ॥ तौ युनामतिदिश्य यूयं प्रिया प्रियाणि धनान्यव दिदिष्णन ।
+> अवाङ्मुखमस्मदभिमुखं दिशत । दत्त ॥ दिश अतिसर्जने । अस्माल्लोटि च्छांदसः शपः
+> श्लुः । तप्तनप्तनथनाश्चेति तशब्दस्य तनादेशः ॥ अपि च सूरः सूर्यस्य रश्मिभिः किरणैर्निनिक्त । अस्माइध्योधयत पोषयत वा ॥ णिजिर् शौचपोषणयोः जौहोत्यादिकः ।
+> संज्ञापूर्वको विधिरनित्यः इति निजां त्रयाणां । पा. ७-४-७५ । इत्यभ्यासस्य गुणो
+> न क्रियते ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, of distinguished knowledge, your mother is Aditi, the undiminished and unbreakable, who is none other than the earth; the Śruti says इयं वा अदितिरिति (*iyaṃ vā aditiriti*). As the heaven purifies the whole world with its water, the rain, so this earth, with her own sap transformed into oblation, is the cause of purifying the sacrificers and cleansing their sin. Addressing the two, he says: bring to us dear goods; दिदिष्णन (*didiṣṇana*) means "direct them toward us, give". Also cleanse or nourish us with the sun's rays, निनिक्त (*ninikta*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचेतसा (*vicetasā*)—O Mitra and Varuṇa, endowed with distinguished knowledge
+- द्यौः (*dyauḥ*)—the heaven (the atmosphere)
+- पयसा न (*payasā na*)—as it purifies the whole world with rain-water
+- युवोः हि (*yuvoḥ hi*)—your
+- माता (*mātā*)—mother
+- अदितिः (*aditiḥ*)—the undiminished (unbroken)
+- भूमिः (*bhūmiḥ*)—the earth goddess
+- पयसा (*payasā*)—with oblations and the like
+- पुपूतनि (*pupūtani*)—removes the sins of the sacrificers and makes them pure
+- प्रिया (*priyā*)—dear wealth
+- अव दिदिष्टन (*ava didiṣṭana*)—bring and give before us
+- सूरः (*sūraḥ*)—of the sun
+- रश्मिभिः (*raśmibhiḥ*)—with the rays
+- निनिक्त (*ninikta*)—make us pure
+
+### Printed p. 822
+
+##### भावार्थ (Bhāvārtha)
+
+O all-knowing Mitra and Varuṇa, as the atmosphere purifies the whole world with its rain-water, so this unbroken earth, with the oblations obtained from the herbs and trees born in her, removes the sins of the sacrificers and makes them wholly pure. O Mitra and Varuṇa, bring us dear wealth, and purify us with the rays of the sun.
+
+##### English translation
+O (Mitra and Varuna), endowed with various wisdom, your mother Aditi, the earth, (is) for the purification (of all things) by its libation, as the heaven (purifies by its rain); you display before us precious (treasures), and wash us with the sun's rays.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह्य॑प्न॒राजा॒वसी॑दतं॒ तिष्ठ॒द्रथं॒ न धू॒र्षदं॑ वन॒र्षदं॑ ।  
+> ता नः॑ कणूक॒यंती॑र्नृ॒मेध॑स्तत्रे॒ अंह॑सः सु॒मेध॑स्तत्रे॒  ॑
+> अंहसः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । हि । अप्नराजौ । असीदतं । तिष्ठत् । रथं । न । धूःसदं । वन्सदं ।  
+> ताः । नः । कणूकयंतीः । नृमेधः । तत्रे । अंहसः । सुमेधः । तत्रे । अंहसः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवं हि युवा खल्वप्न राजावप्पसा कर्मणा प्रवर्षणप्रकाशनादिना राजमानौ दीप्यमानौ संतावसीदतं । स्वकीये स्थाने निषीदथः ।
+> आसाथे ॥ अप्प इति कर्मनाम । कर्माख्यायां ह्रस्वो नुट्ट वा । उ. ४-२०७ ।
+> इत्याप्नोतेरसुन् तस्य नुडागमो धातोर्ह्रस्वश्च । तस्मिन्नुपपदे राजतेः सत्सूद्विषेत्यादिना क्विप् । पीवोपवसनादीनां छंदसि लोपो व्यक्तव्यः । म. ६-३-१०९-६ ।
+> इत्यप्नसः सकारलोपः ॥ तौ मित्रावरुण् कणूकयंतीः । कणतिः शब्दार्थः ।
+> कणनमाक्रोशरूपं शब्दनमिच्छंतीस्ताः प्रसिद्धाः शात्रवीः प्रजा अभिभवितुं । न
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, you, shining through your work (अप्प (*appa*) is a name for work, such as sending rain and giving light), sat down, that is, sit in your own place. The two are made to desire a shout, a clamour, in order to overcome those well-known enemy peoples who clamour. संप्रति (*saṃprati*): now, the chariot…
+
+### Printed p. 823
+
+> संप्रत्यर्थे । संप्रति रथं तिष्ठत् । अभितिष्ठतां ॥ तिष्ठतेर्लॆट्ट्यडागमः । इतश्च लोप
+> इतीकारलोपः । प्रत्येकाभिप्रायेणैकवचनं ॥ कीदृशं रथं । धूर्षदं धर्यश्वयोर्वहनदेशे सीदंतं वनर्षदं वनेषूद्यानेषु क्रीडार्थं निषीदंतं । यद्वा ।
+> वनमित्युदकनाम । समुद्रमध्यॆ हि वरुणो निवसति । वने समुद्रोदके निषीदंतं॥
+> उभयत्रापि पूर्ववत् क्विप् । वनसदमित्यत्र च्छांदसः सांहितिको रेफोपजनः ॥
+> हे मित्रावरुणौ युवाभ्यां नृमेधो मम पितांहसः पापात्तत्रे । ररक्षे । रक्षितो
+> बभूव ॥ त्रैज् पालन इत्यस्मात्मर्मणि लिट् । यद्वा । उपचाराज्जन्ये जनकशब्दः ।
+> नृमेधस्य पुत्रः शकपूतोऽहं पापाद्युवाभ्यां तत्रे । रक्षितोऽस्मि । सुमेधोऽन्नोऽपि सुयज्ञो यजमानोऽ०हसः पापात्तत्रे । युवाभ्यामेवारक्ष्यत ॥
+> भीत्रार्थानां । पा. १-४-२५ । इत्यंहसोऽपादानसंज्ञा ॥
+
+##### Gist of the bhāṣya
+
+…तिष्ठत् (*tiṣṭhat*): "let each mount the chariot". What kind of chariot? धूर्षदं (*dhūrṣadaṃ*): sitting at the place of the yoke-horses' draught; वनर्षदं (*vanarṣadaṃ*): sitting in the groves, for sport. Or else, वन (*vana*) is a name of water: Varuṇa dwells in the middle of the sea, so it means sitting in the sea-water. O Mitra and Varuṇa, by you my father Nṛmedha was protected from sin, तत्रे (*tatre*) meaning "was guarded". Or else, "father" is used figuratively of a descendant: I, Śakapūta, son of Nṛmedha, am protected from sin by you. Sumedha too, the good sacrificer, was protected from sin by you alone. Sin takes the ablative designation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं हि (*yuvaṃ hi*)—you (O Mitra and Varuṇa)
+- अप्प राजौ (*appa rājau*)—shining through the work of rain and light
+- असीदतं (*asīdataṃ*)—sit in your own place
+- कणूकयंतीः (*kaṇūkayaṃtīḥ*)—who make an uproar for battle
+- ताः नः (*tāḥ naḥ*)—our enemy peoples, to defeat them
+- न (*na*)—now
+- धूर्षदं (*dhūrṣadaṃ*)—with horses yoked to the yoke
+- वनर्षदं (*vanarṣadaṃ*)—standing in the forest or the sea
+- रथं (*rathaṃ*)—your chariot
+- तिष्ठत् (*tiṣṭhat*)—mount and sit
+- नृमेधः (*nṛmedhaḥ*)—our father, the ṛṣi Nṛmedha
+- अंहसः (*aṃhasaḥ*)—from sin
+- तत्रे (*tatre*)—was protected by you
+- सुमेधः (*sumedhaḥ*)—the sacrificer who performs the sacrifice (I too)
+- अंहसः (*aṃhasaḥ*)—from sin
+- तत्रे (*tatre*)—was protected
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, you sit in your own place, performing your works of rain and light. To defeat our enemies, who raise an uproar for battle, mount now your chariot, with its horses yoked to the yoke and standing in the forest or amid the sea-water. Our father the ṛṣi Nṛmedha was freed from sin by your grace. The sacrificer who performs the sacrifice (I too) was protected from sin.
+
+##### English translation
+For you, brilliant through your functions, have sat down; now mount (each of you, his) chariot, which rests on the yoke, which abides in the forests, (to overcome) those (people) who clamour against us; Nrimedha was preserved (by you) from sin, the pious worshipper was preserved from sin.
+
+### Printed p. 824
+## Sūkta 133 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रो ष्विति सप्तर्चं पंचमं सूक्तं पिजवनपुत्रस्य सुदास आर्षमैंद्रं ।
+> आद्यस्तृचः शाक्वरः । षट्पंचाशदक्षरी शक्वरी । द्वितीयस्तृचो महापांक्तः ।
+> षळष्टका महापंक्तिः । सप्तमी त्रिष्टुप् । तथा चानुक्रांतं । प्रो షు सुदाः पैजवनः
+> शाक्वरमहापांक्तावाद्यौ तृचावंत्या त्रिष्टुबिति ॥ षोळशिशस्त्र आद्यस्तृचः शंसनीयः ।
+> सूत्रितं च । त्रिकद्रुकेषु महिषो यवाशिरं प्रो ष्वस्मै पुरोरथमिति तृचावातिच्छंदसौ । आ. ६-२ । इति ॥ महाव्रते माध्यंदिनसवने ब्रह्मशस्त्रेऽनुरूपतृचस्य प्रो
+> ष्वस्मा इत्येका । तथैव पंचमारण्यके सूत्रितं च । प्रो ष्वस्मै पुरोरथमित्यतोऽनुरूपः । ऐ. आ. ५-१-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+प्रो षु (*pro ṣu*) is the fifth hymn of seven Ṛks, with Sudās, son of Pijavana, as seer and Indra as deity. The first triplet is Śākvara, शक्वरी (*śakvarī*) of fifty-six syllables; the second triplet is Mahāpāṅkta, महापंक्ति (*mahāpaṃkti*) of six octosyllabic pādas; the seventh is Triṣṭubh. The Anukramaṇī is quoted: प्रो षु सुदाः (*pro ṣu sudāḥ*) … त्रिष्टुबिति (*triṣṭubiti*) **NOTE**. In the Ṣoḍaśin śastra the first triplet is to be recited. The sūtra is quoted: त्रिकद्रुकेषु महिषो यवाशिरं प्रो ष्वस्मै पुरोरथमिति तृचावातिच्छंदसौ । (*trikadrukeṣu mahiṣo yavāśiraṃ pro ṣvasmai purorathamiti tṛcāvāticchaṃdasau |*) (Ā. Sū. 6-2). In the Mahāvrata, at the midday pressing, in the Brahmaśastra, one Ṛk, प्रो ष्वस्मा (*pro ṣvasmā*), serves for the Anurūpa triplet. In the Fifth Āraṇyaka likewise: प्रो ष्वस्मै पुरोरथमित्यतोऽनुरूपः (*pro ṣvasmai purorathamityato 'nurūpaḥ*) (Ai. Ā. 5-1-1).
+
+##### Anuvāda
+
+This hymn प्रो षु (*pro ṣu*) is the fifth hymn in the eleventh Anuvāka. It has seven Ṛks. The seer of this hymn is Sudās, son of Pijavana; the deity is Indra. The first three Ṛks of the hymn are in the Śakvarī metre; the Śakvarī Ṛk has fifty-six syllables. The three Ṛks from the fourth to the sixth are in the Mahāpaṅkti metre, whose Ṛk has six pādas of eight syllables each. The seventh Ṛk is in Triṣṭubh. In the Anukramaṇī it is said: प्रो षु सुदाः पैजवनः शाक्वरमहापांक्तानाद्यौ तृचावंत्या त्रिष्टुप् (*pro ṣu sudāḥ paijavanaḥ śākvaramahāpāṃktānādyau tṛcāvaṃtyā triṣṭup*). In the sacrifice called Ṣoḍaśin the first three Ṛks are to be recited for the śastra mantras, as explained by the Āśvalāyana Śrauta Sūtra: त्रिकद्रुकेषु महिषो यवाशिरं प्रो ष्टस्मै पुरोरथमिति तृचावातिच्छंदसौ (*trikadrukeṣu mahiṣo yavāśiraṃ pro ṣṭasmai purorathamiti tṛcāvāticchaṃdasau*) (Ā. 9-2). In the Mahāvrata rite, at the midday pressing, among the śastra mantras to be recited by the priest called Brahman, one Ṛk, प्रो ष्टस्मै (*pro ṣṭasmai*), is employed for the Anurūpa triplet, as indicated in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by प्रो ष्टस्मै पुरोरथमित्यतोऽनुरूपः (*pro ṣṭasmai purorathamityato 'nurūpaḥ*) (Ai. Ā. 5-1-1).
+
+Sūkta 133. Maṇḍala 10, Anuvāka 11, Sūkta 133. Aṣṭaka 8, Adhyāya 7, Varga 21. Number of Ṛks in the hymn: 7. Seer: Sudās Paijavana. Deity: Indra. Metre: 1-3 Śakvarī; 4-6 Mahāpaṅkti; 7 Triṣṭubh.
+
+### Printed p. 825
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो ष्ट॑स्मै पुरोर॒थमिंद्रा॑य शू॒षम॑र्चत ।  
+> अ॒भीके॑ चिदु लोक॒कृत्सं॒गे स॒मत्तु॑ वृत्र॒हास्माकं॑ बोधि  
+> चोदि॒ता नभं॑तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रो इति । सु । अस्मै । पुरःरथं । इंद्राय । शूषं । अर्चत ।  
+> अभीके । चित् । ऊं इति । लोककृत् । संगे । समत्सु । वृत्रहा । अस्माकं।  
+> बोधि । चोदिता । नभंतां । अन्यकेषां । ज्याकाः । अधि । धन्वसु ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मा इंद्राय । षष्ठ्यर्थे चतुर्थी । अस्येंद्रस्य पुरोरथं रथस्य पुरः
+> पुरतः ॥ पुरोऽव्ययमिति गतित्वाद्दतिसमासः ॥ रथस्याग्रतो वर्तमानं शूषं बलं
+> सु प्रो अर्चत । हे स्तोतारः सुष्टु प्रपूजयत । प्र उ इति निपातसमुदायः
+> प्रो इति ॥ ओदिति प्रगृह्य संज्ञं ॥ इंद्रो विशेष्यते । समत्तु । समानं माद्यंत्यत्रेति
+> समदः संग्रामाः ॥ औणादिकोऽधिकरणे क्विप् । समानस्य च्छंदसीति सभावः ॥ समत्तु
+> संग्रामेषु संगे संगमनीये शत्रुबले ॥ डोऽन्यत्रापि दृश्यते । पा- ३-२-४८ ।
+> इति गमेर्डः ॥ अभीके चिदभ्यर्ण्येऽपि निकटं प्राप्तेऽपि केशाकेश्यवस्थायामपि
+> लोककृत्स्थितिकृन्न पलायिता स्थित्वा वृत्रहा वृत्राणामावरकाणां हंता एवंविधः स
+> इंद्रोऽस्माकं स्तोतृणां चोदिता धनानां प्रेरिता सन्मोधि । अस्माभिः कृतानि
+> परिचरणानि बुध्यतां ॥ बुधेश्पांदसे लुजि दीपजनबुधेत्यादिना कर्तरि चेश्चिणादेशः।
+> बहुलं छंदस्यमाज्योगेऽपीत्यडभावः ॥ अपि चान्यकेषां कुत्सितानामन्येषां
+> शत्रूणामधि धन्वसु धनुःष्टधिरोपिता ज्याकाः कुत्सिता ज्या नभंतां । हिंस्यंतां ।
+> नश्यंतु ॥ ज्याशब्दात्कुत्सायां प्रागिवात्कः । पा. ५-३-७०-७४ । नभ तुभ हिंसायां
+> क्रैयादिकः । व्यत्ययेन शप् ॥
+
+##### Gist of the bhāṣya
+
+अस्मा इंद्राय (*asmā iṃdrāya*): the dative stands for the genitive, "of this Indra". पुरोरथं (*purorathaṃ*) is "in front of the chariot"; the compound arises because पुरः (*puraḥ*) is an indeclinable. O praisers, worship well the strength, शूषं (*śūṣaṃ*), that goes before the chariot; प्रो (*pro*) is a combination of the particles प्र (*pra*) and उ (*u*). Indra is further qualified: समत्सु (*samatsu*), in battles, where men rejoice together; संगे (*saṃge*), in the enemy force to be encountered. Even when the enemy is close, even at grappling, he is लोककृत् (*lokakṛt*), one who makes a stand and does not flee, the slayer of the Vṛtras, the obstructers. Such an Indra, becoming the impeller of wealth for us his praisers, बोधि (*bodhi*), let him take note of the services done by us. Also, let the bowstrings, ज्याकाः (*jyākāḥ*), bad ones, strung on the bows of other, contemptible enemies, be destroyed: नभंतां (*nabhaṃtāṃ*) means "let them be harmed, let them perish".
+
 ---
 
-**Progress note:** Done through printed p. 819. pp. 814-819 (batch API)
+**Progress note:** Done through printed p. 825. pp. 820-825 (batch API)
