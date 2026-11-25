@@ -32715,6 +32715,257 @@ When the chichchika replies to the crying vrisharava, Aranyani is exalted, reson
 
 > उत । गावःइव । अदंति । उत । वेश्मइव । दृश्यते ।
 
+### Printed p. 977
+
+> उतो इति । अरण्यानिः । सायं । शकटीः इव । सर्जति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च गाव इव गवयाद्या मृगा अस्यामरण्यान्यामदंति । तृणादिकं
+> भक्षयंति । उतापि च लतागुल्मादिकं वेश्मेव गृहमिव दृश्यते । उतो अपि चारण्यानिरियमरण्यानी सायं सायंकाले । इवः संप्रत्यर्थे । संप्रति शकटीः शकटान्
+> दार्वाद्याहरणायागतान्सर्जति । विसर्जयति । यद्वा । शकटीः सर्जतीव दृश्यते ।
+> अहनि महदरण्यं शकटीभिः प्राप्य सर्वे जना अरण्ये क्षतं काष्ठादिकं शकटीस्वध्यारोप्य सायंकाले तस्मान्निर्गच्छंति । तदभिप्रायेणेदं वचनं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that wild animals such as the gavaya (wild ox) graze in this forest like cows, eating grass and the like. Creepers and thickets look like a house. At evening this forest, as it were, looks like one that "lets loose" the carts that have come to fetch timber and the like. Or else: it looks as if it were unyoking carts. During the day all people reach the great forest with their carts, load the wood and other things they have cut onto the carts, and leave it at evening. This statement is made with that in view. He glosses इवः (*ivaḥ*) as having the sense "just now" (sampratyartha).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- गाव इव (*gāva iva*)—like gentle animals such as cows (the wild beasts in the forest)
+- अदंति (*adaṃti*)—graze
+- उत (*uta*)—and (creepers, thickets and the like)
+- वेश्मेव (*veśmeva*)—like a house
+- दृश्यते (*dṛśyate*)—appears
+- उतो (*uto*)—and moreover
+- अरण्यानिः (*araṇyāniḥ*)—this forest
+- सायं (*sāyaṃ*)—in the evening
+- शकटीरिव (*śakaṭīriva*)—the carts loaded with wood and the like from the forest
+- सर्जति (*sarjati*)—appears as if it has unyoked and let them go
+
+##### भावार्थ (Bhāvārtha)
+
+(In this Ṛk the seer describes the forest by comparing it to a village.) When one sees wild beasts such as deer grazing in the forest, it looks as if cows, horses and other gentle animals were grazing in the village pastures; and thickets dense with small plants and creepers look like houses. At evening, when carts loaded with wood and the like leave the forest, this forest looks like a village in which people have unyoked the oxen of the carts that brought their loads and set them standing before their houses.
+
+##### English translation
+It is as if cows were grazing, and it looks like a dwelling, and Arayani at eventide, as it were, dismissed the waggons.
+
+### Printed p. 978
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गामं॒गैष आ ह्व॑यति॒ दार्वं॒गैषो अपा॑वधीत् ।  
+> 62  
+> वस॑न्न रण्या॒न्यां सा॒युमक्रु॑क्ष॒दिति॑ मन्यते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गां । अंग । एषः । आ । ह्वयति । दारु । अंग । एषः । अप । अवधीत् ।  
+> वसन् । अरण्यान्यां । सायं । अक्रुक्षत् । इति । मन्यते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंग हे अरण्यानि एष त्वदधिष्ठिते महारण्ये संप्रति वर्तमानो गामा ह्वयति ।
+> एष चान्यो दारु काष्ठमपावधीत् । अपहंति । तथा सायं सायंकाले रात्रावरण्यान्यां महारण्ये निवसन्मनुष्यो नानाविधं पक्षिमृगादिकं शब्दं शृण्वन् अक्रुक्षत्
+> कश्चित्तस्करादिराक्रोशतीति भीतः सन्मन्यते । बुध्यते ॥
+
+##### Gist of the bhāṣya
+
+"Dear Araṇyāni, in this great forest under your care, one man now calls his cow, and another cuts timber (kāṣṭha)." Likewise at evening, that is at night, a man dwelling in the great forest hears the various sounds of birds, beasts and the like. Being afraid, he thinks "some thief or other is shouting" (अक्रुक्षत् (*akrukṣat*)); मन्यते (*manyate*) is glossed "he understands".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंग (*aṃga*)—O deity presiding over the forest
+- एषः (*eṣaḥ*)—a man in this forest
+- गां (*gāṃ*)—his cow (grazing far away)
+- आ ह्वयति (*ā hvayati*)—calls out to her to come to him
+- अंग (*aṃga*)—O deity
+- एषः (*eṣaḥ*)—another man
+- दारु (*dāru*)—a tree, for firewood and the like
+- अप अवधीत् (*apa avadhīt*)—cuts down. Likewise
+- सायं (*sāyaṃ*)—in the evening, that is at night
+- अरण्यान्यां (*araṇyānyāṃ*)—in this great forest
+- वसन् (*vasan*)—the man who dwells (hearing there the fearful sounds of the wild beasts)
+- अक्रुक्षत् इति (*akrukṣat iti*)—that a thief is shouting
+- मन्यते (*manyate*)—thinks
+
+##### भावार्थ (Bhāvārtha)
+
+O deity presiding over the forest, people in this forest are engaged in all kinds of work. One loudly calls his cow, grazing far off, to drive her home. Another cuts a tree for firewood. In the evening, after dark, if anyone staying in this great forest hears wicked beasts roaring, he is deluded into thinking a thief is shouting to frighten travellers.
+
+##### English translation
+This man calls his cow, another cuts down the timber; tarrying in the forest at eventide, one thinks there is a cry.
+
+### Printed p. 979
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वा अ॑रण्या॒निर्हं॑त्य॒न्यश्चेन्नाभि॒गच्छ॑ति ।  
+> स्वा॒दोः फल॑स्य ज॒ग्त्वा॑ यथा॒कामं॒ नि प॑द्यते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वै । अरण्यानिः । हंति । अन्यः । च । इत् । न । अभिगच्छति ।  
+> स्वादोः । फलस्य । जग्ध्वाय । यथाकामं । नि । पद्यते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न वै न खल्वरण्यानिररण्यानी हंति । तत्र निवसंतं हिनस्ति । यद्यन्नो व्याघ्रचौरादिर्नाभिगच्छति । तर्हि स्वादो रसवत आम्रादेः फलस्य ॥ द्वितीयार्थे षष्ठी । फलं
+> जग्द्वाय भक्षयित्वा तत्र निवसन्पुरुषो यथाकामं यथेच्छं नि पद्यते । निगच्छति ।
+> वर्तते ॥ क्त्वाप्रत्ययेऽदो जग्धिल्यप्ति किति । पा. २-४-३६ । इति जग्धादेशः । क्वो
+> यत् । पा. ७-१-४७ । इति । यक् ॥
+
+##### Gist of the bhāṣya
+
+The forest does not injure; it does not harm the one who dwells there. If no tiger, thief or the like approaches, then the man dwelling there, having eaten the sweet, juicy fruit of the mango and the like (the genitive फलस्य (*phalasya*) stands for the accusative), "settles" (नि पद्यते (*ni padyate*): goes, lives) as he wishes. The substitution जग्ध (*jagdha*) before the kvā affix and the form जग्ध्वाय (*jagdhvāya*) are noted with sūtra references (Pā. Sū. 2-4-36 and 7-1-47).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरण्यानिः (*araṇyāniḥ*)—the forest
+- न वै हंति (*na vai haṃti*)—harms no one
+- अन्यः च (*anyaḥ ca*)—whether a wicked creature such as a tiger, or a thief
+- न अभिगच्चंति इत् (*na abhigaccaṃti it*)—does not come near him (the man there); that man
+- स्वादोः (*svādoḥ*)—tasty
+- फलस्य (*phalasya*)—the fruit on the forest trees
+- जग्ध्वाय (*jagdhvāya*)—eating
+- यथाकामं (*yathākāmaṃ*)—as he pleases
+- नि पद्यते (*ni padyate*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+This great forest harms no one and troubles no one; no wicked beast such as a tiger, and no thief, comes near the man there. Not only that, but eating the tasty fruits of this forest's trees, that man can go wherever he likes, as he pleases.
+
+##### English translation
+But Aryanyani injures no one unless some other assail him; feeding upon the sweet fruit, he penetrates at will.
+
+### Printed p. 980
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आंज॑नगंधिं सुर॒भिं ब॑ह्व॒न्नामकृ॑षीवलां ।  
+> प्राहं मृ॒गाणां॑ मा॒तर॑मरण्या॒निम॑शंसिषं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आंजनगंधिं । सुरभिं । बहुअन्नां । अकृषिवलां ।  
+> प्र । अहं । मृगाणां । मातरं । अरण्यानिं । अशंसिषं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आंजनगंधिं । अंजनस्येदमांजनं कस्तूर्यादि । तस्य गंध इव गंधो
+> यस्यास्तादृशी ॥ उपमानाच्च । पा. ५-४-१३७ । इति गंधस्येदंतादेशः ॥ अत एव
+> सुरभिं सौरभ्योपेतां बह्वन्नां बहुभिरन्नॆरदनीयैः फलमूलादिभिरुपेतामकृषीवलां । कृषिरेषामस्तीति कृषीवलाः कर्षकाः ॥ रजः कृषीत्यादिना । पा.
+> ५-२-११२ । वलच् । वले । पा. ६-३-११८ । इति दीर्घः ॥ तैर्वियुक्तां तादृशीं
+> मृगाणां मातरं जनयित्रिमरण्यानिमरण्यानीमहं प्राशंसिषं । उक्तेन प्रकारेण
+> स्तुतवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+आंजनगंधिं (*āṃjanagaṃdhiṃ*): *āṃjanaṃ* is what belongs to अंजन (*aṃjana*), musk and the like; she whose scent is like its scent is such. By Pā. Sū. 5-4-137 गंध (*gaṃdha*) takes the substitute इ (*i*) at its end, after a standard of comparison. For this very reason she is सुरभिं (*surabhiṃ*), endowed with fragrance. बह्वन्नां (*bahvannāṃ*): endowed with much food, that is edible fruits, roots and the like. अकृषीवलां (*akṛṣīvalāṃ*): those who have कृषि (*kṛṣi*) (tillage) are कृषीवलाः (*kṛṣīvalāḥ*), farmers; the affix वलच् (*valac*) comes by Pā. Sū. 5-2-112 and the long vowel by Pā. Sū. 6-3-118. She is without them. Such is the mother of the beasts, their begetter; "I have praised Araṇyāni" in the manner stated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आंजनगंधिं (*āṃjanagaṃdhiṃ*)—that which gives off a fragrance of musk and other perfumes
+- सुरभिं (*surabhiṃ*)—that which is redolent with the fragrance of flowers
+- अकृषीवलां (*akṛṣīvalāṃ*)—that which, though without cultivation such as ploughing by a farmer
+- बह्वन्नां (*bahvannāṃ*)—is full of many kinds of edible fruits, roots and the like
+- मृगाणां (*mṛgāṇāṃ*)—for the wild beasts
+- मातरं (*mātaraṃ*)—that is like a mother
+- अरण्यानिं (*araṇyāniṃ*)—this great forest (the deity presiding over the forest)
+- अहं (*ahaṃ*)—I
+- प्र अशंसिषं (*pra aśaṃsiṣaṃ*)—am praising
+
+##### भावार्थ (Bhāvārtha)
+
+I praise this great forest: it is endowed with the divine scent of musk and the like, redolent with the fragrance of flowers, free of farming work, full of many kinds of edible fruits and roots, and like a mother to the wild beasts.
+
+### Printed p. 981
+
+##### English translation
+I praise the musk-sented, fragrant, fertile, uncultivated Aranyani, the mother of wild animals.
+
+## Sūkta 147 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रत्त इति पंचर्चमेकोनविंशं सूक्तं शिरीषपुत्रस्य सुवेदस आर्षं पंचमी
+> त्रिष्टुप् शिष्टा जगत्यः । इंद्रो देवता । अनुक्रम्यते हि । श्रत्ते पंच सुवेदाः
+> शैरीषिस्त्रिष्टुबंतमिति ॥ तृतीये रात्रिपर्याये प्रशास्तुः शस्त्र इदं सूक्तं । सूत्रितं
+> च । श्रत्ते दधामिदं त्यत्पात्रमिंद्रपानमिति याज्या । आ. ६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the nineteenth sūkta, of five Ṛks, of Suvedas, son of Śirīṣa. Its fifth verse is Triṣṭubh, the rest Jagatī; the deity is Indra. The Anukramaṇī says: श्रत्ते पंच सुवेदाः शैरीषिस्त्रिष्टुबंतं (*śratte paṃca suvedāḥ śairīṣistriṣṭubaṃtaṃ*). The sūkta is used in the Śastra of the Praśāstṛ in the third night-round. It is prescribed in the sūtra श्रत्ते दधामिदं त्यत्पात्रमिंद्रपानमिति याज्या (*śratte dadhāmidaṃ tyatpātramiṃdrapānamiti yājyā*) (Ā. 6-4).
+
+##### Anuvāda
+
+This sūkta beginning श्रत्ते (*śratte*) is the nineteenth sūkta in the eleventh anuvāka. It has five Ṛks. Its seer is Suvedas, son of Śirīṣa; the deity is Indra; the fifth Ṛk is in the Triṣṭubh metre and the remaining Ṛks in Jagatī. The Anukramaṇī says: श्रत्ते पंच सुवेदाः शैरीषिस्त्रिष्टुबंतं (*śratte paṃca suvedāḥ śairīṣistriṣṭubaṃtaṃ*). The sūkta is used for the Śastra mantras to be recited by the priest called Praśāstṛ in the third night-round of the sacrifice, as set out in Āśvalāyana's Śrauta Sūtra, श्रत्ते दधामिदं त्यत्पात्रमिंद्रपानमिति याज्या (*śratte dadhāmidaṃ tyatpātramiṃdrapānamiti yājyā*) (Ā. 6-4).
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 11; Sūkta 147. Aṣṭaka 8; Adhyāya 8; Varga 5. Number of Ṛks in the sūkta: 5. Seer: Suvedas Śairīṣa. Deity: Indra. Metre: 1–4 Jagatī; 5 Triṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रत्ते॑ दधामि प्रथ॒माय॑ म॒न्यवेऽह॒न्यद्वृ॒त्रं नर्यं॑ वि॒वेर॒पः।  
+> उ॒भे यत्त्वा॒ भव॑तो॒ रोद॑सी॒ अनु॒ रेज॑ते॒ शुष्मा॑त्पृथि॒वी  ॑
+> चिदद्रिवः ॥ १ ॥
+
+### Printed p. 982
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रत् । ते । दधामि । प्रथमाय । मन्यवे । अहन् । यत् । वृत्रं । नर्यं । विवेः ।  
+> अपः ।  
+> उभे इति । यत् । त्वा । भवतः । रोदसी इति । अनु । रेजते । शुष्मात् । पृथवी ।  
+> चित् । अद्रिवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव मन्यवे कोपाय तेजसे ना प्रथमाय मुख्याय श्रद्धधामि । श्रद्धा नामादरातिशयः । तद्विषयं करोमि । यद्येन मन्युना त्वं वृत्रमावरकमसुरं मेघं वा नर्यं नेतव्यमहन् अवधीः । हत्वा च तेनावृता अप उदकानि
+> च विवेः इमं लोकं प्रत्यागमयः । तस्मै मन्यव इत्यन्वयः । यद्यदोभे
+> रोदसी द्यावापृथिव्यौ त्वा त्वामनुसृत्य भवतः वर्तेते । त्वदधीने अभूतामित्यर्थः ।
+> तदानीं पृथिवी चित् । पृथिवीत्यंतरिक्षनाम । प्रथितं विस्तीर्णमंतरिक्षमपि हे अद्रिवो
+> वज्रवन्निंद्र शुष्मात्त्वदीयाद्बलाद्रेजते । कंपते ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, I hold श्रत् (*śrat*) (faith) towards your foremost, principal मन्यु (*manyu*), wrath or splendour." Faith (śraddhā) means excess of reverence; I direct it at that. It is the wrath with which you slew Vṛtra, the enveloping asura or the cloud, the one नर्य (*narya*) (to be led), and having slain him you brought back to this world the waters he had enclosed; so construe it with that wrath. When both heaven and earth follow you and exist, that is, became dependent on you, then even पृथिवी (*pṛthivī*), which here is a name of the atmosphere (the broad, extended space), O thunderbolt-bearer (अद्रिवः (*adrivaḥ*)) Indra, trembles from your might शुष्म (*śuṣma*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—by which wrath of yours you (O Indra)
+- वृत्रं (*vṛtraṃ*)—the cloud, or Vṛtra who had enveloped the cloud
+- नर्यं (*naryaṃ*)—to do good to men
+- अहन् (*ahan*)—destroyed, and afterwards
+- अप (*apa*)—the waters he had enclosed
+- विवेः (*viveḥ*)—made to fall upon the earth, that
+- प्रथमाय (*prathamāya*)—principal
+- ते (*te*)—your
+- मन्यवे (*manyave*)—for the wrath (with regard to the wrath)
+- श्रत् (*śrat*)—faith, that is respect
+- दधामि (*dadhāmi*)—I hold
+- यत् (*yat*)—when
+- उभे रोदसी (*ubhe rodasī*)—heaven and earth, both
+- त्वा (*tvā*)—following you
+- भवतः (*bhavataḥ*)—exist, then
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- पृथिवी चित् (*pṛthivī cit*)—even the broad atmosphere
+- शुष्मात् (*śuṣmāt*)—for your might (seeing your might)
+- रेजते (*rejate*)—trembles
+
+##### भावार्थ (Bhāvārtha)
+
+In the matter of the wrath you showed when, to do good to men, you slew Vṛtra, who had enveloped the cloud, and made the waters he had held back fall upon the earth, I show above all excess of reverence; that is, I have great reverence for your wrath. O Indra, bearer of the thunderbolt, when heaven and earth are both under your sway, even the broad atmosphere trembles on seeing your unfathomable might.
+
 ---
 
-**Progress note:** Done through printed p. 976. pp. 971-976 (batch API)
+**Progress note:** Done through printed p. 982. pp. 977-982 (batch API)
