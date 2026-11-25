@@ -5908,6 +5908,190 @@ In that tree, which is of the form of the Supreme Self, the bird-like senses, ea
 
 धर्ता दिवो विभाति तपसस्पृथिव्यामिति । धर्ता ह्येष दिवो विभाति तपसस्पृथिव्यां धर्ता देवो देवानाममर्त्यस्तपोज्णा ॥ (*dhartā divo vibhāti tapasaspṛthivyāmiti | dhartā hyeṣa divo vibhāti tapasaspṛthivyāṃ dhartā devo devānāmamartyastapojṇā ‖*) (Śa. Brā. 14-1-4-7) **GLOSS**
 
+### Printed p. 219
+
+This same sun is the supporter of all the worlds and the giver of fruit to all the worlds. The fruit of this tree in the form of the sun is both nourishing and full of sap. (पिप्पलं स्वादु (*pippalaṃ svādu*)) Who is the cause that this tree supports the worlds and gives excellent fruit? It is:
+
+अहं वृक्षस्य रेरिवा । कीर्तिः पृष्ठं गिरेरिव । ऊर्ध्वपवित्रो वाजिनीवस्वमृतमस्मि । द्रविणग्ं सवर्चसं । सुमेधा अमृतोक्षितः । (*ahaṃ vṛkṣasya rerivā | kīrtiḥ pṛṣṭhaṃ gireriva | ūrdhvapavitro vājinīvasvamṛtamasmi | draviṇagṃ savarcasaṃ | sumedhā amṛtokṣitaḥ |*) (Tai. U. 1.10-1)**NOTE**
+
+I myself am the impeller of this tree. My fame is renowned like the peak of a mountain. The eternal sun is a treasure of radiance, and so on: thus the Supreme Self, of the form of the sun, proclaims. (This is the statement of Triśaṅku, who had realised the Supreme Self.) I am also of the form of the tree. The description of its nature is this:
+
+ऊर्ध्वमूलोऽवाक्‌शाख एषोऽश्वत्थस्सनातनः । तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ॥ तस्मिन् लोकाः श्रितास्सर्वॆ तदु नात्येति कश्चन । एतद्वै तत् । (*ūrdhvamūlo 'vākśākha eṣo 'śvatthassanātanaḥ | tadeva śukraṃ tadbrahma tadevāmṛtamucyate ‖ tasmin lokāḥ śritāssarvè tadu nātyeti kaścana | etadvai tat |*) (Kaṭha. 32. 6 1)**NOTE**
+
+The root of this ancient Aśvattha tree is above. Its branches spread downwards. It is utterly pure. This itself is the Supreme Brahman. It is immortal. In it alone all the worlds are established. Nothing goes beyond it. This is the truth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या ते॒ धामा॑नि पर॒माणि॒ याव॒ना या म॑ध्य॒मा वि॑श्वकर्मन्नु॒तेमा ।  
+> शिक्षा॒ सखि॑भ्यो ह॒विषि॑ स्वधावः स्व॒यं य॑जस्व त॒न्वं॑ वृधा॒नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । ते । धामानि । परमाणि । या । अवमा । या । मध्यमा । विश्वकर्मन् ।  
+> उत । इमा ।  
+> शिक्ष । सखभ्य । हविषि । स्वधावः । स्वयं । यजस्व । तन्वं । वृधानः ॥ ५ ॥
+
+### Printed p. 220
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साकमेधेषु वैश्वकर्मण एककपालस्य या ते धामानीत्येषा याज्या ।
+> सूत्रितं च । विश्वकर्मन्हविषा वावृधानो या ते धामानि परमाणि यावमा ।
+> आ. २-१८ । इति ॥ पूर्वोक्तस्य पशोर्हविष एष्येव याज्या । सूत्रितं च । या ते
+> धामानि परमाणि यावमा य इमे द्यावापृथिवी जनित्री । आ. ३-८ । इति ॥
+> अनया भौवनो विश्वकर्मा जगत्कारणं विश्वकर्मदेवं स्तौति । हे विश्वकर्मन् या यानि ते तव परमाणि धामानि शरीराणि संति या यानि च मध्यमानि
+> शरीराणि संति उतापि च या यान्यवमावमानि धामानि शरीराणि संति उतापि च
+> तानीमानि सर्वाणि शरीराणि सखिभ्योऽस्मभ्यं यष्टुं हविषि मयि हविर्भूते सति
+> शक्ष ! देहि । हे स्वधावो हनिर्लक्षणान्नवन् स्वयमेव त्वं तन्नं स्वकीयं
+> पूर्वोक्तं त्रिविधं शरीरं वृधानो हविषा वर्धमानः सन् । अनेन धामत्रैविध्योपन्यासेनोत्तमभूतानि देवादिशरीराणि मध्यमभूतानि मनुष्यादिशरीराणि
+> निकृष्टभूतानि कृमिकीतादिशरीराणि च परिगृहीतानि । किं बहुना सर्वं जगदुपात्तं
+> भवति । उक्तव्यतिरेकेण निरवयवस्य परमेश्वरस्य विग्रहाभावात् तदैक्षत बहुः स्यां
+> प्रजायेय । छां. उ. ६-२-३ । इत्यादिश्रुतिभ्यः परमेश्वरस्यॆव देवादिभेदेन
+> बहुभावावगमात् ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is the yājyā verse for the one-potsherd cake of Viśvakarman in the Sākamedha offerings. He cites the sūtra (Ā. 2-18), which has the Ṛk's opening as the yājyā. Of the animal offering mentioned before, the same Ṛk is the yājyā of the oblation, and a second sūtra (Ā. 3-8) is cited for that. By this Ṛk Viśvakarman, the Lord of the worlds, the cause of the world, is praised. O Viśvakarman, whatever supreme, whatever middle and whatever lowest bodies are yours, all these bodies give to us, your friends, to offer sacrifice, when the oblation is made. O possessor of the oblation in the form of food, yourself, increasing your own threefold body already mentioned through the oblation, offer worship. By this statement of the threefold abodes, the bodies of the gods and others are taken as the highest, the bodies of men and others as the middle, and the bodies of worms, insects and the like as the lowest. In short, the whole world is included, since the Supreme Lord, who is without parts, has no form apart from what is stated. This follows from Śruti passages such as तदैक्षत बहु स्यां प्रजायेय (*tadaikṣata bahu syāṃ prajāyeya*) (Chā. U. 6-2-3), which show that the one Lord himself becomes many through the distinctions of gods and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वकर्मन् (*viśvakarman*)—O Viśvakarman
+- ते (*te*)—your
+- या (*yā*)—which
+- परमाणि धामानि (*paramāṇi dhāmāni*)—most excellent bodies there are
+- या (*yā*)—which
+- मध्यमा (*madhyamā*)—those of middle form
+- उत (*uta*)—and
+- या (*yā*)—which
+- अवमा (*avamā*)—those that are the lowest
+- ता इमा (*tā imā*)—all those various bodily forms
+- हविषि (*haviṣi*)—at the time of offering the oblation
+- सखिभ्यः (*sakhibhyaḥ*)—to us, your friends
+- शिक्ष (*śikṣa*)—give
+- स्वधावः (*svadhāvaḥ*)—O Viśvakarman, possessor of food
+- स्वयं (*svayaṃ*)—you yourself also
+- तन्नं (*tannaṃ*)—this body of yours in all its forms
+- वृधानः (*vṛdhānaḥ*)—nourishing
+- यजस्व (*yajasva*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Viśvakarman, possessor of food in the form of the oblation, whatever excellent, middle and lowest varieties of body are yours, all these various bodily forms, at the time of offering the oblation, give to us your friends. O Viśvakarman, possessor of food, do you yourself also, nourishing this body of yours in all its forms, offer worship.
+
+##### English translation
+Grant to your friends, Vishwakarman, at the oblation, your best, your worst and your intermediate forms, and to these do you yourself,
+
+### Printed p. 221
+
+possessor of the oblation, becoming augmented in person (by oblations), offer worship.
+
+##### विशेषविषयगळु (Special Topics)
+
+The extension of Viśvakarman's body, which is of the form of the universe, is indicated in the present Ṛk. In this extension there are three varieties: supreme, middle and lowest. These may be the heavenly world, the atmosphere and the earth. Or they may be threefold as of the form of gods, the form of men, and the form of worms, insects and the like. That is, the purport is that everything in the universe, all that is sentient and insentient, is a special manifestation of the divine glory of the Lord. This extension in the form of the universe is the fruit of the sacrifice. How this extension takes place is explained in the present Ṛk; what the nature of the sacrifice of the Self is, and how all-pervasiveness results from it, will be stated in the Special Topics of the next Ṛk.
+
+तदैक्षत बहु स्यां प्रजायेय (*tadaikṣata bahu syāṃ prajāyeya*) (Chā. U. 6-2-3)
+
+As soon as the Lord, the one without a second, wished "I must be extended in many forms", he attained manyness. This principle, which was in a subtle form, took on a threefold body, created the three worlds, and expanded in all three worlds. How is that?
+
+हिरण्यमांडं व्यरुजन्नाह तर्हि का चन प्रतिष्ठास तदेनमिदमेव हिरण्मयमांडं यावत्संवत्सरस्य वेलासी तावद्भिभ्रत्पर्यप्लवत । (*hiraṇyamāṃḍaṃ vyarujannāha tarhi kā cana pratiṣṭhāsa tadenamidameva hiraṇmayamāṃḍaṃ yāvatsaṃvatsarasya velāsī tāvadbhibhratparyaplavata |*) (Śa. Brā. 11-1-6-2)
+
+The golden egg floated on the water for a year. After a year Prajāpati appeared. At that time Prajāpati had no resting place. He too, for a year, depended on the egg in the form of the golden womb, and afterwards uttered speech. How is that?
+
+स भूरिति व्याहरत्सेयं पृथिव्यभवद्भुव इति तदिदमंतरिक्षमभवत्स्वरिति सासौ दौरभवत्तस्मादु................ (*sa bhūriti vyāharatseyaṃ pṛthivyabhavadbhuva iti tadidamaṃtarikṣamabhavatsvariti sāsau daurabhavattasmādu................*) (Śa. Brā. 11-1-6-3)
+
+After a year Prajāpati uttered भूः (*bhūḥ*). This became the earthly world (the earth). The word he uttered, भुवः (*bhuvaḥ*), became the atmosphere. And the word he uttered, स्वः (*svaḥ*), became the heavenly world. The Lord is he who pervades these three worlds and is beyond them. These three worlds are three bodies. They became an extension in the form of space. In the other forms too, the pervasion of this threefold extension is possible, and over and above the three, a still further greatness; thus it is praised in the Taittirīya and other texts in this manner.
+
+### Printed p. 222
+
+भूर्भुवस्सुवरिति वा एतास्तिस्रो व्याहृतयः । तासामुहस्मैतां चतुर्थीं । माहाच मस्यः प्रवेदयते । मह इति । तद् ब्रह्म । स आत्मा । अंगान्यन्या देवताः ॥ (*bhūrbhuvassuvariti vā etāstisro vyāhṛtayaḥ | tāsāmuhasmaitāṃ caturthīṃ | māhāca masyaḥ pravedayate | maha iti | tad brahma | sa ātmā | aṃgānyanyā devatāḥ ‖*)
+
+भूरिति ना अयं लोकः । भुव इत्यंतरिक्षं । सुवरित्यसौ लोकः । मह इत्यादित्यः । आदित्येन वाव सर्वॆ लोका महीयंते ॥ (*bhūriti nā ayaṃ lokaḥ | bhuva ityaṃtarikṣaṃ | suvarityasau lokaḥ | maha ityādityaḥ | ādityena vāva sarvè lokā mahīyaṃte ‖*) (Tai. U. 1-5-1, 2)**NOTE**
+
+भूः (*bhūḥ*), भुवः (*bhuvaḥ*), सुवः (*suvaḥ*) are the three vyāhṛtis manifested by Prajāpati. These are within the range of the worlds. The fourth principle, the great, which goes beyond them, was realised by Māhācamasya, who knew its greatness; that is the divine Self. All the other deities are its transformations. This is the Supreme Brahman.
+
+भूः (*bhūḥ*) is this earthly world. भुवः (*bhuvaḥ*) is the atmosphere. सुवः (*suvaḥ*) is the heavenly world. महः (*mahaḥ*) is the sun. Through the sun these three worlds attained greatness. In what other forms, apart from the forms of the worlds भूः (*bhūḥ*) and the rest, the divine body of Prajāpati is extended, is this:
+
+भूरिति वा अग्निः । भुव इति वायुः । सुवरित्यादित्यः । मह इति चंद्रमाः । चंद्रमसा वाव सर्वाणि ज्योतीगंषि महीयंते । (*bhūriti vā agniḥ | bhuva iti vāyuḥ | suvarityādityaḥ | maha iti caṃdramāḥ | caṃdramasā vāva sarvāṇi jyotīgaṃṣi mahīyaṃte |*) (Tai. U. 1-5-2)
+
+भूः (*bhūḥ*) is Agni. भुवः (*bhuvaḥ*) is Vāyu. सुवः (*suvaḥ*) is the sun. महः (*mahaḥ*) is the moon. By the power of the moon all the luminous bodies attain greatness.
+
+भूरिति वा ऋचः । भुव इति सामानि । सुवरिति यजूग्ंषि । मह इति ब्रह्म । ब्रह्मणा वाव सर्वे वेदा महीयंते (*bhūriti vā ṛcaḥ | bhuva iti sāmāni | suvariti yajūgṃṣi | maha iti brahma | brahmaṇā vāva sarve vedā mahīyaṃte*) (Tai. U. 1-5-2)
+
+भूः (*bhūḥ*) is the Ṛgveda. भुवः (*bhuvaḥ*) is the Sāman. सुवः (*suvaḥ*) is the Yajurveda. महः (*mahaḥ*) is Brahman. Through Brahman all the Vedas attain greatness.
+
+भूरिति वै प्राणः । भुव इत्यपानः । सुवरिति व्यानः । मह इत्यन्नं । अन्नेन वाव सर्वे प्राणा महीयंते । (*bhūriti vai prāṇaḥ | bhuva ityapānaḥ | suvariti vyānaḥ | maha ityannaṃ | annena vāva sarve prāṇā mahīyaṃte |*) (Tai. U. 1-5-4)
+
+भूः (*bhūḥ*) is prāṇa. भुवः (*bhuvaḥ*) is apāna. सुवर्ण (*suvarṇa*)**NOTE** is vyāna. महः (*mahaḥ*) is food. Through food all the vital breaths attain greatness. In this way the three vyāhṛtis are praised as the three varieties of body of the Lord, and the fourth as the greatness that is beyond them. What are the three kinds of principles produced from these three worlds? How do these reflect the Lord? It is as follows.
+
+### Printed p. 223
+
+प्रजापतिर्लोकानभ्यतपत्तेषां तप्यमानानां रसान् प्रावृहदग्निं पृथिव्या वायुमंतरिक्षादादित्यं दिवः ॥ (*prajāpatirlokānabhyatapatteṣāṃ tapyamānānāṃ rasān prāvṛhadagniṃ pṛthivyā vāyumaṃtarikṣādādityaṃ divaḥ ‖*) (Chā. U. 4-17-1)
+
+Prajāpati performed meditative austerity directed to the worlds, to obtain their essence. Then he caused Agni from the earth, Vāyu from the atmosphere and the sun from the heavenly world to be manifested outward and shine.
+
+स एतास्ति स्रो देवता अभ्यतपत्तासां तप्यमानानां रसान् प्रावृहदग्नेर्यचो वायोर्यजूग्ंषि सामान्यादित्यात् । (*sa etāsti sro devatā abhyatapattāsāṃ tapyamānānāṃ rasān prāvṛhadagneryaco vāyoryajūgṃṣi sāmānyādityāt |*) (Chā. U. 4-17-2)
+
+He performed austerity directed to these three deities. Then he pressed out the essence of those deities. From Agni came the Ṛks, from Vāyu the Yajus formulas, from the sun the Sāman chants.
+
+स एतां त्रयीं विद्यामभ्यतपत्तस्यास्तप्यमानाया रसान् प्रावृहद्भूरिश्यृग्भो भुवरिति यजुभ्यः स्वरिति सामभ्यः ॥ (*sa etāṃ trayīṃ vidyāmabhyatapattasyāstapyamānāyā rasān prāvṛhadbhūriśyṛgbho bhuvariti yajubhyaḥ svariti sāmabhyaḥ ‖*) (Bhā. U. 4-17-3)**NOTE**
+
+When he performed austerity directed to this threefold knowledge, he made भूः (*bhūḥ*) shine forth by the Ṛk mantras, भुवः (*bhuvaḥ*) by the Yajus mantras, and स्वः (*svaḥ*) by the Sāmans. All the manifestations of new principles described in this way are the extension of the body of Prajāpati. This extension and this pervasion are also the fruit of the sacrifice that is austerity. For that very reason it is stated in the next Ṛk: हविषा तन्नं वावृधानः (*haviṣā tannaṃ vāvṛdhānaḥ*)**NOTE**. How the sacrifice is thus the root cause of the extension of Prajāpati's body will be stated in the Special Topics of the next Ṛk.
+
+Regarding the use: in the single-potsherd offering made to the deity Viśvakarman in the Sākamedha sacrifices, this Ṛk, या ते धामानि (*yā te dhāmāni*), is to be recited as the yājyā mantra; this is explained in the Āśvalāyana Śrauta Sūtra by the sūtra विश्वकर्मन्हविषा वावृधानो या ते धामानि परमाणि यावमा (*viśvakarmanhaviṣā vāvṛdhāno yā te dhāmāni paramāṇi yāvamā*) (Ā. 2-18). And in the animal offering in the same sacrifice, when the oblation is offered, this same Ṛk is to be recited as the yājyā mantra; this is explained in the Āśvalāyana Śrauta Sūtra by the sūtra या ते धामानि परमाणि यावमा य इमे ध्यावापृथिवी जनित्रि (*yā te dhāmāni paramāṇi yāvamā ya ime dhyāvāpṛthivī janitri*) (Ā. 3-8).
+
+### Printed p. 224
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नः स्व॒यं य॑जस्व पृथि॒वीमु॒त द्यां ।  
+> मुह्यं॑त्व॒न्ये अ॒भितो॒ जना॑स इ॒हास्माकं॑ म॒घवा॑ सू॒रिर॑स्तु ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वकर्मन् । हविषा । ववृधानः । स्वयं । यजस्व । पृथिवीं । उत । द्यां ।  
+> मुह्यंतु । अन्ये । अभितः । जनासः । इह । अस्माकं । मघवा । सूरिः । अस्तु ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्मिन्नेव वैश्वकर्मणपशौ वपापुरोडाशयोर्विश्वकर्मन्हविषेति क्रमेण
+> द्वे अनुवाक्ये । सूत्रितं च । विश्वकर्मन्हविषा नावृधान इति द्वे विश्वकर्मा विमना
+> आद्विहायाः । आ. ३-८ । इति ॥ साकमेधेषु वैश्वकर्मणस्य विश्वकर्मन्हविषेत्येष्टैवानुवाक्या । सूत्रं तु पूर्वमुदाहृतं ॥
+> हे विश्वकर्मन्विश्वविषयकर्मन्नेतन्नामक परमेश्वर हविषा हविर्भूतेन
+> मया विश्वकर्मणा मया दत्तेन वा हविषा ववृधानो वर्धमानः । विश्वकर्मा
+> सर्वाणि भूतानि जुहवांचकार स आत्मानमप्यंततो जुहवांचकारेति हि निरुक्तं
+> पूर्वमुदाहृतं । स्वयमेव पृथिवीमुतापि च द्यां दिवं च स्वसृष्टे द्यावापृथिव्यौ स्वयं प्रवृद्धः सन्यजस्व । पूजय । अन्ये मत्तोऽन्ये जनासो जना
+> अयष्टारोऽस्मद्यागनिरोधिनो वा मुह्यंतु मुग्धा भवंत्वभितः सर्वतः । अथ
+> परोक्षकृतः। इहास्मिन्यागेऽस्माकं मघवास्मत्पत्तेन हविर्लक्षणेन धनेन धनवान् स
+> सूरिः स्वर्गादिफलस्य प्रेरकोऽस्तु । भवतु । अत्र विश्वकर्मन्हविषा वर्धमान इत्यादि
+> निरुक्तमनुसंधेयं । १०-२७ ॥
+
+##### Gist of the bhāṣya
+
+In the animal offering to Viśvakarman, two anuvākyā verses are used in order for the vapā and the cake, beginning with this Ṛk; the sūtra (Ā. 3-8) is cited. In the Sākamedha offerings this Ṛk alone is the anuvākyā, and the sūtra has been cited before. O Viśvakarman, Supreme Lord of that name, whose work is the universe, increased by the oblation, whether by the oblation that is myself or by the oblation given by me, worship by yourself the earth and the heaven, your own creations, grown great. Let other people, who do not sacrifice or who obstruct our sacrifice, be bewildered on every side. Then, in the indirect form: in this sacrifice may Maghavan, made rich by the wealth in the form of the oblation provided by us, be the impeller to the fruit of heaven and the rest. Here the Nirukta is to be considered: विश्वकर्मा सर्वाणि भूतानि जुहवांचकार स आत्मानमप्यंततो जुहवांचकार (*viśvakarmā sarvāṇi bhūtāni juhavāṃcakāra sa ātmānamapyaṃtato juhavāṃcakāra*), cited earlier (10-27).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वकर्मन् (*viśvakarman*)—O Viśvakarman
+- हविषा (*haviṣā*)—with the oblation
+- ववृधानः (*vavṛdhānaḥ*)—having grown
+- स्वयं (*svayaṃ*)—yourself
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heavenly world
+- यजस्व (*yajasva*)—worship
+- अन्ये जनासः (*anye janāsaḥ*)—the other people, devoid of rites
+- अभितः (*abhitaḥ*)—everywhere
+- मुह्यंतु (*muhyaṃtu*)—let them be overcome by delusion
+- मघवा (*maghavā*)—the Lord, the possessor of wealth
+- इह (*iha*)—in this our sacrifice
+- अस्माकं (*asmākaṃ*)—for us
+- सूरिः (*sūriḥ*)—as the impeller to heaven and the rest
+- अस्तु (*astu*)—let him be
+
 ---
 
-**Progress note:** Done through printed p. 218. pp. 213-218: house of the universe, Brahman as tree, Special Topics of Sukta 10-81
+**Progress note:** Done through printed p. 224. pp. 219-224: Rk 10-81-5 and start of 6, Special Topics
