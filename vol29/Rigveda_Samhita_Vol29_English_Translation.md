@@ -24545,6 +24545,220 @@ By Ṛks is meant a Vedic sentence that is bound in metre and contains praise of
 
 There is a rule that the padas of each metre should have so many syllables. In the padas of the Gāyatrī metre there are eight syllables each. In the padas of the Triṣṭubh metre there are eleven syllables, and in the padas of the Jagatī metre twelve syllables. There is no rule that all the padas in the Ṛks of each metre should have an equal number of syllables. There may be different numbers of syllables in the padas of one and the same Ṛk, for instance 12 syllables in the first pada and 8 syllables in the second. Ṛks that contain many padas with such varying numbers of syllables have different names. We have explained all these in detail in the part called Chandonukramaṇikā, on page 222 and the following pages of the first part of the Ṛ. Saṃ. Here only the names of the chief metres, with the total number of padas and syllables in them, are given:
 
+### Printed p. 902
+
+| Metre | Padas–syllables | Metre | Padas–syllables |
+|---|---|---|---|
+| Gāyatrī | 3 padas, 24 syllables | Skandhogrīvī | 4-36 |
+| Padasaṃkṣiḥ | 5-26 | Upariṣṭādṛhatī | 4-36 |
+| ,, | 5-25 | Viṣṭārabṛhatī | 4-36 |
+| Uṣṇiggarbhā | 3-24 | Ūrdhvabṛhatī | 4-36 |
+| Pādanicṛt | 3-21 | Pipīlikamadhyā | 4-34 |
+| Atinicṛt | 3-20 | Viṣamapadā | 4-36 |
+| Yavamadhyā | 3-24 | Bṛhatī | 4-36 |
+| Vardhamānā | 3-21 | Paṅktiḥ | 5-40 |
+| Pratiṣṭhā | 3-21 | Virāṭ | 4-40 |
+| Hrasīyasī | 3-19 | Satobṛhatī | 4-40 |
+| Viparītā Hrasīyasī | 3-19 | Viparītā | 4-40 |
+| Uṣṇik | 3-28 | Prastārapaṅktiḥ | 4-40 |
+| Pura-uṣṇik | 3-28 | Āstārapaṅktiḥ | 4-40 |
+| Kakup | 3-28 | Saṃstārapaṅktiḥ | 4-40 |
+| Kakupnyaṅkuśikā | 3-27 | Viṣṭārapaṅktiḥ | 4-40 |
+| Tanuśirā | 3-28 | Triṣṭup | 4-44 |
+| Pipīlikamadhyā | 3-28 | Jagatī | 4-46 |
+| Anuṣṭup Garbhā | 4-29 | Triṣṭup | 4-46 |
+| Uṣṇikgarbhā | 4-28 | Abhisāriṇī | 4-44 |
+| Anuṣṭup | 4-32 | ,, | 4-39 |
+| Mahāpadapaṅktiḥ | 6-31 | Vairājatriṣṭup | 4-39 |
+| Kṛtiḥ | 3-32 | Virāṭ Sthānā | 4-40 |
+| Pipīlikamadhyā | 3-32 | Viparītā Virāḍrūpā | 4-41 |
+| Tānirāṭ | 3-30 | Virāḍrūpā | 4-41 |
+| Naṣṭarūpī | 3-32 | Jotiṣmatī | 4-44 |
+| Virāṭ | 3-30 | Jyotiḥ | 4-44 |
+| Virāṭ | 3-33 | Mahābṛhatī | 5-44 |
+| Bṛhatī | 4-36 | Yavanamadhyā | 5-44 |
+| Purastādbṛhatī | 4-36 | Pañcyuttarā | 5-44 |
+| Nyaṅkusāriṇī | 4-36 | Jagatī | 4-48 |
+| Urobbṛhatī | 4-36 | Mahāsatobṛhatī | 5-48 |
+
+### Printed p. 903
+
+| Metre | Padas–syllables | Metre | Padas–syllables |
+|---|---|---|---|
+| Mahāpaṅkti | 6—48 | Ānuṣṭubhaḥ Pragāthaḥ | 4—32 |
+| | 6—48 | | 3—24 |
+| Bārhataḥ Pragāthaḥ | 4—36 | | 3—24 |
+| | 4—40 | Atijagatī | 5—52 |
+| Kākubhaḥ Pragāthaḥ | 3—28 | Śakvarī | 7—56 |
+| | 4—40 | Atiśakvarī | 5—60 |
+| Mahābārhataḥ Pragāthaḥ | 5—44 | Aṣṭiḥ | 5—64 |
+| | 5—48 | Atyaṣṭiḥ | 7—68 |
+| Viparītottaraḥ | 4—36 | Dhṛtiḥ | 7—72 |
+| | 4—40 | Atidhṛtiḥ | 8—72 |
+| Pragāthaḥ | 4—36 | | |
+| | 4—40 | | |
+| | 3—24 | | |
+
+These are the chief metres. Their detailed description may be seen in the Chandonukramaṇikā. Sentences that are bound by such rules of metre and have padas of fixed numbers of syllables are called Ṛks. The collection of these Ṛks is the Ṛgveda. Here, to say that the Ṛks were produced means that the Ṛgveda was produced. In sacrifices and the like, the three Vedas, the Ṛgveda, the Yajurveda and the Sāmaveda, are all employed. If even one of them is lacking, the sacrifice does not become complete; that is, it is not accomplished at all. This Ṛgveda is the chief Veda of the priest called the Hotṛ. That is, the Hotṛ must study the Ṛgveda completely and recite its mantras as the occasion requires in sacrifices and other rites.
+
+सामानि जज्जिरे (*sāmāni jajjire*)—A large part of the Sāmaveda consists of Ṛks of the Ṛgveda itself. There is another part as well. This is sung in the seven notes in the sacrifice by the priest called the Udgātṛ and his assistant priests. The Sāmaveda has the same eminence as the Ṛgveda.
+
+छंदांसि जज्जिरे (*chaṃdāṃsi jajjire*)—We have already spoken of the subject of metre in the special topics of this Ṛk.
+
+यजुस्तस्मादजायत (*yajustasmādajāyata*)—In the Yajurveda mantras there are the method of performing the sacrifice and a detailed account of which priests should perform which rites, in what manner and at what times. These mantras are not subject to the rules of metre. There are sentences in prose and their explanations, and here and there examples from the Ṛgveda mantras. This Veda belongs to the priest called the Adhvaryu and to the priests of his class.
+
+It is said in this Ṛk that these three kinds of Vedas were produced from the sacrifice called सर्वहुत् (*sarvahut*).
+
+### Printed p. 904
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॒दश्वा॑ अजायंत॒ ये के चो॑भ॒याद॑तः ।  
+> गावो॑ ह जज्ञरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मात् । अश्वाः । अजायंत । ये । के । च । उभयादतः ।  
+> गावः । ह । जज्जिरे । तस्मात् । तस्मात् । जाताः । अजावयः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तस्मात्पूर्वोक्ताद्यज्ञादश्वा अजायंत । उत्पन्नाः । तथा। ये के चाश्वव्यतिरिक्ता गर्दभा अश्वतराश्चोभयादत ऊर्ध्वाधोभागयोरुभयोर्दंतयुक्ता:
+> संति तेऽष्यजायंत । तथा । तस्माद्यज्ञाद्गावश्च जज्जिरे । किंच तस्माद्यज्ञादजावयश्च
+> जाताः ॥
+
+##### Gist of the bhāṣya
+
+From that sacrifice spoken of before, horses were born, that is, produced. Likewise, whatever others there are besides horses, namely donkeys and mules, that have teeth in both the upper and the lower part, those too were born. Likewise, from that sacrifice cows were born. And moreover, from that sacrifice goats and sheep were born.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तस्मात् (*tasmāt*)—from that universal sacrifice
+- अश्वाः (*aśvāḥ*)—horses
+- अजायंत (*ajāyaṃta*)—were produced
+- च (*ca*)—and
+- उभयादतः (*ubhayādataḥ*)—others with two rows of teeth
+- ये के (*ye ke*)—whatever animals there are, they too were produced
+- तस्मात् (*tasmāt*)—from that very sacrifice
+- गावो ह (*gāvo ha*)—cows too
+- जज्जिरे (*jajjire*)—were born
+- तस्मात् (*tasmāt*)—from that very sacrifice
+- अजावयः (*ajāvayaḥ*)—goats, sheep and the like
+- जाताः (*jātāḥ*)—were born
+
+##### भावार्थ (Bhāvārtha)
+
+After the Virāṭ-puruṣa had been offered as the oblation, there were produced from that sacrifice horses, which have two rows of teeth, and other animals besides horses; from it too the cows; and goats, sheep and other animals of that kind.
+
+##### English translation
+From him were born horses and whatsoever animals have two rows of teeth ; cows were born from him; from him were born goats and sheep.
+
+##### विशेषविषयगळु (Special Topics)
+
+By तस्मादत्वा अजायंत (*tasmādatvā ajāyaṃta*) the animals produced by Prajāpati, who has the form of the sacrifice, as the fruit of his sacrifice of himself, are declared here. First the horses, and the donkeys and the like. उभयादत्य (*ubhayādatya*)**NOTE**
+
+### Printed p. 905
+
+means animals that bite and eat on both sides (having two rows of teeth). Since it is joined with horses, it is taken here to mean donkeys and the like. It was told in the previous Ṛk that Prajāpati entered the water together with the three Vedas. As the result of that, the embryo came into being. Because it was produced first of all (in front of all), it was called Agni (Śa. Brā. 6-1-1-10, 11). From a part of this principle, which has the form of Agni, all living beings, horses and the rest, were produced. For how the name aśva (horse) came about there is this sentence in the form of an etymology. And this sentence also tells us that horses and the rest were produced from Prajāpati, the root of the sacrifice, or from Prajāpati who has the form of Agni. How? Thus:
+
+अथ यदश्रु संक्षरितमासीत्सोश्रुरभवदश्रुर्ह वै तमश्व इत्याचक्षते........ अथ यदरसदिव स रासभोऽभवदथ यः कपाले रसो लिप्त आसीत् सोऽजोऽभवत् ॥ (*atha yadaśru saṃkṣaritamāsītsośrurabhavadaśrurha vai tamaśva ityācakṣate........ atha yadarasadiva sa rāsabho 'bhavadatha yaḥ kapāle raso lipta āsīt so 'jo 'bhavat ‖*) (Śa. Brā. 6-1-1-11)
+
+The tear connected with the embryo of this Prajāpati, who has the form of the sacrifice, became famous by the name aśva. The form that was making a sound (a noise) became famous by the name rāsabha (donkey). And the smear that clung to the shell of Prajāpati's embryo became the goat. The order in which these animals were produced directly from the sacrifice is also told in this way:
+
+एष वै प्रजापतिः । य एष यज्ञस्तायते यस्मादिमाः प्रजाः प्रजाता एतम्वेवाप्येतर्ह्यंतु प्रजायंते ॥ (*eṣa vai prajāpatiḥ | ya eṣa yajñastāyate yasmādimāḥ prajāḥ prajātā etamvevāpyetarhyaṃtu prajāyaṃte ‖*) (Śa. Brā. 4-5-5-1)
+
+The sacrifice that is being performed here is itself the Prajāpati, in the form of the sacrifice, that was performed before the creation of the world. Just as all beings were produced from the sacrifice performed in the beginning, so now too beings are produced as the result of the sacrifice that is performed.
+
+उपाग्ंशुपात्रमेवान्वजाः प्रजायंते । तद्वै तत्पुनरज्ञे प्रयुज्यते तस्मादिमाः प्रजाः पुनरभ्यावर्तं प्रजायंते ॥ (*upāgṃśupātramevānvajāḥ prajāyaṃte | tadvai tatpunarajñe prayujyate tasmādimāḥ prajāḥ punarabhyāvartaṃ prajāyaṃte ‖*) (Śa. Brā. 4-5-5-2)
+
+The goats were produced following the upāṃśu cup of the sacrifice. The same cup is used again now. Therefore beings, as the result of it, are produced even now again and again, as before, following that cup.
+
+### Printed p. 906
+
+अंतर्यामपात्रमेवान्ववयः प्रजायंते । .... ...... ..... अथ यदेतयोरुभयोः । सह सतोरुपागंशुं पूर्वं जुहोति तस्मादु सह ततोऽजाविकस्योभयस्यॆवाजाः पूर्वा यंत्यनूच्योऽवयः ॥ (*aṃtaryāmapātramevānvavayaḥ prajāyaṃte | .... ...... ..... atha yadetayorubhayoḥ | saha satorupāgaṃśuṃ pūrvaṃ juhoti tasmādu saha tato 'jāvikasyobhayasyèvājāḥ pūrvā yaṃtyanūcyo 'vayaḥ ‖*) (Śa. Brā. 4-5-5-2, 8) (Śa. Brā. 4-5-5-3, 4)**NOTE**
+
+The avis (that is, sheep) were produced following the antaryāma cup. Because the one is offered after the other, the upāṃśu cup and the antaryāma cup, first the aja (goat) and then the avi (sheep) follow in order.
+
+शुक्रपात्रमेवानु मनुष्याः प्रजायंते । .... .... .... एष वै शुक्रो य एष तपत्येष उ एवेंद्रः पुरुषो वै पशूनामैंद्र स्तस्मात्पशूनामीष्टे ॥ (*śukrapātramevānu manuṣyāḥ prajāyaṃte | .... .... .... eṣa vai śukro ya eṣa tapatyeṣa u eveṃdraḥ puruṣo vai paśūnāmaiṃdra stasmātpaśūnāmīṣṭe ‖*) (Śa. Brā. 4-5-5.7)
+
+Man was produced following the śukra cup. The śukra cup used in the sacrifice on earth is radiant like the sun in the middle region of the sky. Therefore it becomes like Indra. Man, produced by its power, exercises lordship over the other animals like Indra. In the same way the production of other animals is also described. The likeness between the metres, which the previous Ṛk said were produced from the sacrifice, and the animals produced from the sacrifice is told in this way:
+
+पशवो वै देवानां छंदाग्ंसि । तद्द्येदं पशवो युक्ता मनुष्येभ्यो वहंत्येवं छंदाग्ंसि युक्तानि देवेभ्यो यज्ञं वहंति तद्यत्र छंदाग्ंसि देवान्त्ममतर्पयन्नथ छंदाग्ंसि देवाः समतर्पयंस्तदतस्तत्पागभूद्यच्छंदाग्ंसि युक्तानि देवेभ्यो यज्ञववाक्षुर्यदेनान्त्ममतीतृपन् ॥ (*paśavo vai devānāṃ chaṃdāgṃsi | taddyedaṃ paśavo yuktā manuṣyebhyo vahaṃtyevaṃ chaṃdāgṃsi yuktāni devebhyo yajñaṃ vahaṃti tadyatra chaṃdāgṃsi devāntmamatarpayannatha chaṃdāgṃsi devāḥ samatarpayaṃstadatastatpāgabhūdyacchaṃdāgṃsi yuktāni devebhyo yajñavavākṣuryadenāntmamatītṛpan ‖*) (Śa. Brā. 4-4-3-1)
+
+The metres are the animals of the gods. Just as the animals on earth are a means of the sacrifice for men, so these metres are a means of bringing the fruit of the sacrifice to the gods. On whatever occasions the metres gave satisfaction to the gods, on those same occasions the gods also nourished the metres; and in this way the power of the metres, animals and the rest produced from the sacrifice is told.
+
+**Main purport**
+
+Earlier, in the eighth Ṛk of this same sūkta, it was said in general terms, with अरण्यान् ग्राम्यान् पशून् (*araṇyān grāmyān paśūn*), that the animals were produced in the sacrifice. On that subject, that is, on the subject of the domestic animals,
+
+### Printed p. 907
+
+a somewhat fuller account is given in this Ṛk. That is, there is a somewhat more detailed account of which animals were produced.
+
+तस्मादश्वा अजायंत ये के च उभयादतः (*tasmādaśvā ajāyaṃta ye ke ca ubhayādataḥ*)—From that sacrifice the horses were produced. As to aśva: श्वानो न भवतीत्यश्वाः (*śvāno na bhavatītyaśvāḥ*). Śvāna means the dog. The animal that has a form somewhat resembling the dog but is not a dog is the aśva, the horse: this is the derivation of the form of the word aśva. The word उभयादतः (*ubhayādataḥ*) is an attribute of this word aśva. ऊर्ध्वाधो दशनानि येषां ते (*ūrdhvādho daśanāni yeṣāṃ te*)—those among these animals, that is, among animals of the horse kind, that have teeth in both the upper and the lower jaws. The meaning is that such horses and the like were produced.
+
+गावो ह जज्जिरे (*gāvo ha jajjire*)—After that, the cows were produced. These cows have only the upper row of teeth. They do not have the lower row of teeth.
+
+तस्माज्जाता अजावयः (*tasmājjātā ajāvayaḥ*)—अजाः अवयश्च जाताः (*ajāḥ avayaśca jātāḥ*). And from that sacrifice goats and sheep were produced. The horses, cows, goats and sheep spoken of above are all animals absolutely necessary for the performance of the sacrifice. The use of the milk, curds and ghee obtained from the cow is special in sacrifices and the like. Without the ghee and the other substances for the homa the sacrifice cannot be performed. Therefore cows are animals necessary for the sacrifice. In the same way, horses, goats and sheep are also needed as sacrificial animals. Therefore it is explained here in detail that these animals, or the domestic animals, were produced.
+
+#### Ṛk 11**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य॑कल्पयन् ।  
+> मुखं॒ किम॑स्य॒ कौ बा॒हू का ऊ॒रू पादा॑ उच्येते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । पुरुषं । वि । अदधुः । कतिधा । वि । अकल्पियन् ।  
+> मुखं । किं । अस्य । कौ । बाहू इति । कौ । ऊरू इति । पादौ । उच्येते इति ॥
+
+### Printed p. 908
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रश्नोत्तररूपेण ब्राह्मणादिसृष्टिं वक्तुं ब्रह्मवादिनां प्रश्ना उच्यंते ।
+> प्रजापतेः प्राणरूपा देवा यद्यदा पुरुषं विराड्रूपं व्यदधुः संकल्पेनोत्पादितवंतः तदानीं कतिधा कतिभिः प्रकारैर्व्यकल्पयन् । विविधं कल्पितवंतः । अस्य
+> पुरुषस्य मुखं किमासीत् । कौबाहू अभूतां । का ऊरू । कौ च पादावुच्येते ।
+> प्रथमं सामान्यरूपः प्रश्नॆः पश्चान्मुखं किमित्यादिना विशेषविषयाः प्रश्नाः ॥
+
+##### Gist of the bhāṣya
+
+To tell the creation of the brāhmaṇa and the rest in the form of question and answer, the questions of the expounders of Brahman are stated. When the gods, who are the vital breaths of Prajāpati, arranged Puruṣa, who has the form of Virāṭ, that is, produced him by resolve, then in how many ways did they divide him, that is, how did they variously fashion him? What was the mouth of this Puruṣa? Which two became his arms? Which are the thighs? And which two are called the feet? First comes a question of a general kind, and afterwards, beginning with what the mouth was, the questions that deal with particulars.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पुरुषं (*puruṣaṃ*)—the Virāṭ-puruṣa
+- व्यदधुः (*vyadadhuḥ*)—when they resolved to make him the sacrificial oblation, then
+- कतिधा (*katidhā*)—in how many ways
+- व्यकल्पयन् (*vyakalpayan*)—did they divide him
+- अस्य (*asya*)—of this Puruṣa
+- मुखं (*mukhaṃ*)—the mouth
+- किं (*kiṃ*)—which was it
+- अस्य (*asya*)—of this one
+- बाहू (*bāhū*)—the arms
+- का (*kā*)—which are they
+- ऊरू (*ūrū*)—the thighs
+- पादौ (*pādau*)—and the feet
+- कौ (*kau*)—which are they
+- उच्येते (*ucyete*)—are known
+
+##### भावार्थ (Bhāvārtha)
+
+When they resolved to offer this Virāṭ-puruṣa in the form of the sacrificial oblation, in how many ways did they divide him? Which was the mouth of this Puruṣa? Which are his arms? Which are his thighs and his feet?
+
+##### English translation
+When they immolated Purusha, into how many portions did they divide him ? What was his mouth called, what his arms, what his thighs what were his feet called ?
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next, the order of creation is set out in the form of question and answer. Earlier, in the second half of the fourth Ṛk of this sūkta, ततो विश्वज् व्यक्रामत् (*tato viśvaj vyakrāmat*) was said: he pervaded, being manifold in the forms of gods, men, animals and the rest. It was said that many kinds of beings were produced, that is, that the Supreme Self himself appeared through many kinds of bodies. So far the production of the gods and of the animals has been told. In the present Ṛk the question how the production of men came about is suggested, and as the answer to it the order of production of the four castes, the brāhmaṇa and the rest, is set out in the next Ṛk.
+
+यत्पुरुषं व्यदधुः कतिधा व्यकल्पयन् (*yatpuruṣaṃ vyadadhuḥ katidhā vyakalpayan*)—After the production of the Virāṭ-puruṣa, the question in what way, or in how many ways, the creation of the human class then took place is here
+
 ---
 
-**Progress note:** Done through printed p. 901. Ṛk 8 commentary end (cattle, Pṛṣadājya), Ṛk 9 with special topics on Veda/sacrifice identity, metres (pp. 895-901)
+**Progress note:** Done through printed p. 908. pp. 902-908: metre tables, Sūkta 90 Ṛk 10, start of Ṛk 11
