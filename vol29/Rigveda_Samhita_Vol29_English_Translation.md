@@ -7013,6 +7013,132 @@ The purport of the sentence तेषां इष्टानि समिष�
 > यो दे॒वानां॑ साम॒धा एक॑ ए॒व तं सं॑प्र॒श्नं भुव॑ना  ॒
 > यंत्यन्या ॥ ३ ॥
 
+### Printed p. 273
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । पिता । जनिता । यः । विधाता । धामानि । वेद । भुवनानि । विश्वा ।  
+> यः । देवानां । नामधाः । एकः । एव । तं । संप्रश्नं । भुवना । यंति । अन्या ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव पशौ पुरोडाशस्य यो नः पितेत्येषा याज्या । सूत्रितं च ।
+> यो नः पिता जनिता यो विधाता या ते धामानि परमाणि यावमा । आ. ३-८ ॥ इति॥
+> यो विश्वकर्मा नोऽस्माकं पिता पालयिता । न केवलं पालकः किंतु
+> जनितोत्पादकः । किमनेनास्माकमुत्पादक इति संकोचेन । यो विधाता सर्वस्य
+> जगत उत्पादको यो विश्वकर्मा नोऽस्माकमुत्पन्नानि धामानि देवानां तेजः
+> स्थानानि वेद वेत्ति । किं बहुना । विश्वा विश्वानि भुवना भूतजातानि वेद वेत्ति ।
+> यश्च देवानामग्निवाय्वादीनां नामधा नाम्नां धाता इंद्रादीन्निर्माय
+> तेषामिंद्रादि नाम कृत्वा तत्रत्यदेवेषु स्थापयिता एक एव । तं देवमन्यान्यानि
+> भुवना भूतजातानि प्रश्नं कः परमेश्वर इति पृच्छां यंति । प्राप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk beginning यो नः पिता (*yo naḥ pitā*) is the yājyā verse for the purodāśa offering in the animal sacrifice mentioned before; the sūtra says: यो नः पिता जनिता यो विधाता या ते धामानि परमाणि यावमा (*yo naḥ pitā janitā yo vidhātā yā te dhāmāni paramāṇi yāvamā*) (Ā. 3-8). Viśvakarman is our father, that is, our protector; and not merely protector, but also begetter, our producer. Sāyaṇa anticipates the doubt "how is he our producer?" and answers it with a hesitant concession. He who is the ordainer is the producer of the whole world. He, Viśvakarman, knows the abodes of the gods that have been brought forth for us, that is, their places of radiance. What more need be said: he knows all beings, all that is born. He who is the name-giver of the gods, Agni, Vāyu and the others, that is, the one who sets down their names, having fashioned Indra and the rest and having given them the names Indra and so on, establishes them among the gods; he alone is one. To that god the other beings come with the question "Who is the supreme Lord?"; that is, they approach him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which god
+- नः (*naḥ*)—to us
+- पिता (*pitā*)—who is the protector
+- जनिता (*janitā*)—and the producer
+- यः (*yaḥ*)—who
+- विधाता (*vidhātā*)—is the maker of the whole world
+- धामानि (*dhāmāni*)—all the places of radiance
+- वेद (*veda*)—knows
+- विश्वा भुवना (*viśvā bhuvanā*)—knows the whole world
+- यः (*yaḥ*)—who
+- देवानां (*devānāṃ*)—to the gods Agni and the rest
+- नामधाः (*nāmadhāḥ*)—is the one who assigns the names, that god
+- एक एव (*eka eva*)—is without a second
+- तं (*taṃ*)—that Viśvakarman
+- अन्या भुवना (*anyā bhuvanā*)—the other beings
+- प्रश्नं (*praśnaṃ*)—with the question to know the nature of the Lord
+- यंति (*yaṃti*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+The god who is our protector and producer, who is the maker of the whole world, who knows all the places of radiance, who gives the names to the gods Agni and the rest, that god is without a second. All the other beings approach him with the question to know the nature of the Lord.
+
+##### English translation
+He who is our preserver, our parent, the creator (of all), who knows our abodes (and knows) all beings, who is the name-giver of the gods—he is one ; other beings come to him to inquire.
+
+### Printed p. 274
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice of the animal offering to Viśvakarman spoken of earlier, in the offering of the purodāśa, this Ṛk beginning योनः पिता (*yonaḥ pitā*) is to be recited as the yājyā mantra; this is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra, यो नः पिता जनिता यो विधाता या ते धामानि परमाणि यावमा (*yo naḥ pitā janitā yo vidhātā yā te dhāmāni paramāṇi yāvamā*) (Ā. 3-8).
+
+असूर्ते सूर्ते रजसि निषत्ते ये भूतानि समकृण्वन्निमानि (*asūrte sūrte rajasi niṣatte ye bhūtāni samakṛṇvannimāni*)—here the commentator has explained the words असूर्ते (*asūrte*) and सूर्ते (*sūrte*) in one way and Yāska in another. According to the commentator's explanation: असूर्ते सरणवर्जिते सूर्ते सरणसहिते स्थावरजंगमात्मक रजसि लोके । (*asūrte saraṇavarjite sūrte saraṇasahite sthāvarajaṃgamātmaka rajasi loke |*). That is, in this world, which is made up of moving and unmoving things, both together: of living beings that have the nature of moving about, and of mountains and the like that do not move (that is, are motionless).
+
+But Yāska says: असूर्ते सूर्ते । असुसमीरिताः सुसमीरिते वातसमीरिता माध्यमका देवगणास्ते रसेन पृथिवीं तर्पयंतो भूतानि च कुर्वंति त आयुजंतेत्यतिक्रांतं प्रतिवचनं ॥ ( (*asūrte sūrte | asusamīritāḥ susamīrite vātasamīritā mādhyamakā devagaṇāste rasena pṛthivīṃ tarpayaṃto bhūtāni ca kurvaṃti ta āyujaṃtetyatikrāṃtaṃ prativacanaṃ ‖ (*) (Ni. 6-15). The groups of gods of the middle region, impelled by the breath, the vital air, or impelled by the wind (the gods of the atmosphere, the Maruts and others), dwelling in the atmosphere that is stirred by the wind, wet the earth with moisture and gratify the beings upon it, that is, the living creatures. The seer addresses the sacrificers: "Worship those gods."
+
+In the present reasoning there are two main points. First: (1) Viśvakarman, the cause of all origin and subsistence, the one without a second, alone is the maker of all the gods and the one who assigns their names; likewise he is the possessor of the different kinds of names. (2) Second: since he is distinct from the whole created world, his nature is beyond grasp. Because his nature surpasses even the knowledge of the gods, all ask in order to learn what his nature is, but there is none who has known him.
+
+### Printed p. 275
+
+The Lord named Viśvakarman is all-pervading; the sun, the moon and all the planets, and all the gods, are contained in him alone. All are subject to his rule.
+
+तस्याच्च देवा बहुदा संप्रसूताः साध्या मनुष्याः पशवो वयांसि । प्राणापानौ व्रीहियवौ तपश्च श्रद्धा सत्यं ब्रह्मचर्यं विधिश्च ॥ (*tasyācca devā bahudā saṃprasūtāḥ sādhyā manuṣyāḥ paśavo vayāṃsi | prāṇāpānau vrīhiyavau tapaśca śraddhā satyaṃ brahmacaryaṃ vidhiśca ‖*) (Mu. U. 2-1-7) **NOTE**
+
+From this Supreme Person alone come the gods, the Sādhyas, men, animals, birds and the rest, austerity, faith, truth and chastity; all these have been produced. Moreover, in answer to the question what देवानां नामधा एक एव (*devānāṃ nāmadhā eka eva*) means, there is the following:
+
+एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्याचंद्रमसौ विधृतौ तिष्ठत एतस्य वा अक्षरस्य प्रकाशने गार्गि द्यावापृथिव्यौ विधृते तिष्ठत एतस्य वा अक्षरस्य प्रकाशने गार्गि निमेषा मुहूर्ता अहोरात्राण्यर्धमासा मासा ऋतवः संवत्सरा इति विधृतास्तिष्ठंत्येतस्य वा अक्षरस्य प्रशासने गार्गि प्राज्योऽन्या नद्यः स्यंदंते श्वेतेभ्यः पर्वतेभ्यः प्रतीच्योन्या ॥ (*etasya vā akṣarasya praśāsane gārgi sūryācaṃdramasau vidhṛtau tiṣṭhata etasya vā akṣarasya prakāśane gārgi dyāvāpṛthivyau vidhṛte tiṣṭhata etasya vā akṣarasya prakāśane gārgi nimeṣā muhūrtā ahorātrāṇyardhamāsā māsā ṛtavaḥ saṃvatsarā iti vidhṛtāstiṣṭhaṃtyetasya vā akṣarasya praśāsane gārgi prājyo 'nyā nadyaḥ syaṃdaṃte śvetebhyaḥ parvatebhyaḥ pratīcyonyā ‖*)
+
+Subject to the command of this Lord (Viśvakarman), the imperishable, the one without a second, the sun and the moon have received their appointed designations and keep their steady movements. According to this command the heaven and the earth too stand firm in their own appointed places. By his rule alone all the divisions of time carry on their going and coming in due order. Therefore this Lord is the cause of all dealings between gods and men.
+
+Moreover, since the whole luminous world is a part of the Lord, the names of all the gods, Indra and the rest, are only other names of his. According to each action, he is dealt with under the respective designations. The many epithets such as पिता (*pitā*), जनिता (*janitā*) and विधाता (*vidhātā*) declare his actions that benefit the world.
+
+यादृगेव ददृशे तादृगुच्यते सं छायया दधिरे सिध्रयाप्सा । महीमस्मभ्यमुरुषामुरु ज्रयो बृहत्सु वीरमनपच्युतं सहः ॥ (*yādṛgeva dadṛśe tādṛgucyate saṃ chāyayā dadhire sidhrayāpsā | mahīmasmabhyamuruṣāmuru jrayo bṛhatsu vīramanapacyutaṃ sahaḥ ‖*) (Ṛ. Saṃ. 5-44-6)
+
+The Lord is one, but he has the form of the universe. Whatever form he assumes, he is spoken of by the designation suited to it. Because of his power, the gods too, who are his other forms,
+
+### Printed p. 276
+
+provide the world with the wealth suited to their respective natures. But the individual gods are not independent. All follow his rule. His resolve is the root; the others are its followers. The epithets according to the respective actions are as follows:
+
+यजुरित्येष हीदग्ं सर्वं युनक्ति समिति छंदोगा एतस्मिन् हीदग्ं सर्वं समानमुक्थमिति बृहच्छा एष हीदग्ं सर्वमुत्थापयति यूतुरिति यातुविद एतेन हीदग्ं सर्वं यतं विषमिति सर्पाः सर्प इति सर्पविद ऊर्गिति देवा रयिरिति मनुष्या मायेत्यसुराः स्वधेति पितरो देवजन इति देवजनविदो रूपमिति गंधर्वा गंध इत्यप्सरसस्तं यथायथोपासते तदेव भवति ॥ (*yajurityeṣa hīdagṃ sarvaṃ yunakti samiti chaṃdogā etasmin hīdagṃ sarvaṃ samānamukthamiti bṛhacchā eṣa hīdagṃ sarvamutthāpayati yūturiti yātuvida etena hīdagṃ sarvaṃ yataṃ viṣamiti sarpāḥ sarpa iti sarpavida ūrgiti devā rayiriti manuṣyā māyetyasurāḥ svadheti pitaro devajana iti devajanavido rūpamiti gaṃdharvā gaṃdha ityapsarasastaṃ yathāyathopāsate tadeva bhavati ‖*) (Śa. Brā. 10-5-2-20)
+
+The Adhvaryus designate him as यजुः (*yajuḥ*). Because he joins the whole universe into one, he has this name. Because everything is contained in him and all things of the universe have an equal state, the Sāma-singers designate him as सामन् (*sāman*). Because he causes everything to come into being, the Bahvṛcas call him उक्त (*ukta*). Because he holds every single thing in this world in an ordered bond, the sorcerers (the knowers of sorcery) call him यातु (*yātu*). Among serpents he is renowned as poison, among the catchers of serpents as the serpent, among the company of the gods as ऊर्ज (*ūrja*), among men as wealth, among the Asuras as illusion, among the fathers as स्वधॆ (*svadhè*). The Gandharvas call him beautiful in form, and the Apsarases call him fragrance. Therefore he is designated in many ways, according to the kinds of forms and actions that exist and also according to the power of knowledge of the respective persons. This same universal form was described in the preceding Ṛk by the epithets विश्वकर्मा विमनाः आद्विहायाः परमोतसंदृक् (*viśvakarmā vimanāḥ ādvihāyāḥ paramotasaṃdṛk*) and so on.
+
+Just as he assigned names to the gods Indra and the others, and to all the remaining beings, the Yakṣas, Gandharvas, men and the rest, in the same way the beings in turn, according to their station and according to their nature, have also assigned names to Viśvakarman, the Lord of all. Thus, whether individual names are given to Indra and the others fashioned by Viśvakarman, or whether gods, men and the rest, according to their power of knowledge, give different names to one and the same principle, this diversity is merely a matter of everyday usage and not truth. How? Thus:
+
+यथा सोम्यकेन मृत्पिंडेन सर्वं मन्मयं विज्ञातं स्याद्वाचारंभणं विकारो नामधेयं मृत्तिकेत्येव सत्यं ॥ (*yathā somyakena mṛtpiṃḍena sarvaṃ manmayaṃ vijñātaṃ syādvācāraṃbhaṇaṃ vikāro nāmadheyaṃ mṛttiketyeva satyaṃ ‖*) (Bhā U. 6-1-4) **NOTE**
+
+### Printed p. 277
+
+O Śvetaketu, just as, though many kinds of vessels such as pots are made from one lump of clay, the dealings in pots and the like are only a matter of name, and the original cause, the clay, alone is true, and for the rest there is a truth of everyday usage; so too the persons of the world produced from the Lord have a truth of everyday usage through difference of name. The Lord alone, the original cause, is without a second, eternal, of the nature of truth. Many more examples of this can be given, thus:
+
+यथा सोम्यकेन लोहमणिना सर्वं लोहमयं विज्ञातं स्याद्वाचारंभणं विकारो नामधेयं लोहमित्येव सत्यं ॥ (*yathā somyakena lohamaṇinā sarvaṃ lohamayaṃ vijñātaṃ syādvācāraṃbhaṇaṃ vikāro nāmadheyaṃ lohamityeva satyaṃ ‖*) (Chā. U. 6-8-5)
+
+O dear son, just as many kinds of ornaments may be made from one lump of gold, and though they appear different, the gold, which is the original form, alone is true; so all the gods and the rest produced from the Lord are different through the assigning of names. In reality the Lord alone is true. Thus it is explained. The idea contained in यो देवानां नामधा एक एव (*yo devānāṃ nāmadhā eka eva*) is described in the Śvetāśvatara Upaniṣad in this way.
+
+एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतांतरात्मा । कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश्च ॥ (*eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāṃtarātmā | karmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaśca ‖*) (Kveṃ. U. 6-11) **NOTE**
+
+The Lord is one, but he is hidden in all beings. He pervades every region. He is the inner Self of all beings. He is the overseer of all actions. All beings dwell in him. He alone is the witness of all dealings. He alone is the sole one. He is free from the qualities sattva, rajas and tamas.
+
+एको वशी निष्क्रियाणां बहुनामेकं बीजं बहुधा यः करोति । तमात्मस्थं येऽनुपश्यंति धीरास्तेषां सुखं शाश्वतं नेतरेषां ॥ (*eko vaśī niṣkriyāṇāṃ bahunāmekaṃ bījaṃ bahudhā yaḥ karoti | tamātmasthaṃ ye 'nupaśyaṃti dhīrāsteṣāṃ sukhaṃ śāśvataṃ netareṣāṃ ‖*) (Śve. U. 6-12) **NOTE**
+
+He alone is the controller of all beings. He causes the one seed to be transformed into many forms. Eternal happiness comes to those great seers who realise directly this Supreme Self dwelling in their own self; not to others.
+
+नित्यो नित्यानां चेतनश्चेतनानां एको बहूनां यो विदधाति कामान् । तत्कारणं सांख्ययोगाधिगम्यं ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥ (*nityo nityānāṃ cetanaścetanānāṃ eko bahūnāṃ yo vidadhāti kāmān | tatkāraṇaṃ sāṃkhyayogādhigamyaṃ jñātvā devaṃ mucyate sarvapāśaiḥ ‖*) (Śve. U. 6-13)
+
+### Printed p. 278
+
+This Lord, whose permanence is greater than that of eternal things, and whose intelligence is greater than that of all the intelligent, is the one master who fulfils the wishes of all. If he is known through discriminating experience and through disciplined meditation, all bonds are destroyed. In this manner and so on the Lord's oneness without a second is described. In the Śvetāśvatara the supreme person (Viśvakarman), who is described by the epithets यो नः पिता जनिता (*yo naḥ pitā janitā*) and so on, is described in this way.
+
+स विश्वकृद्विश्वविदात्मयोनिर्ज्ञः कालकालो गुणी सर्वविद्यः । प्रधानक्षेत्रज्ञपतिर्गुणेशः संसारमोक्षस्थितिबंधहेतुः । (*sa viśvakṛdviśvavidātmayonirjñaḥ kālakālo guṇī sarvavidyaḥ | pradhānakṣetrajñapatirguṇeśaḥ saṃsāramokṣasthitibaṃdhahetuḥ |*) (Prai. U. 6-16) **NOTE**
+
+This Supreme Self is the maker of all. He is the knower of all. He causes time (at the time of realisation) to perish. He is the master of all the scriptures and the mine of good qualities. He is the controller of Prakṛti and Puruṣa. He is the master of the three qualities (sattva, rajas and tamas). His resolves are the cause of release from saṃsāra and also of being bound again. The nature of such a Supreme Lord, without a second, is not easily understood. Therefore it is stated that तं संप्रश्नं भुवना यंति (*taṃ saṃpraśnaṃ bhuvanā yaṃti*), that is, all beings ask what his nature is. There is a story in the Kena Upaniṣad to show that even Agni and the other gods did not know exactly what his nature is. This has been stated earlier. Moreover, किं स्विदासीदधिष्ठानं (*kiṃ svidāsīdadhiṣṭhānaṃ*) and so on (10-8-12). Besides the gods, there are many occasions on which many seers also asked this question. For example:
+
+भगवन्नेतस्मिन् पुरुषे कानि स्वपंति कान्यस्मिञ्जाग्रति कतर एष देवः स्वप्नान् पश्यति कस्यैतत्सुखं भवति कस्मिन्नु सर्वॆ संप्रतिष्ठिता भवंतीति ॥ (*bhagavannetasmin puruṣe kāni svapaṃti kānyasmiñjāgrati katara eṣa devaḥ svapnān paśyati kasyaitatsukhaṃ bhavati kasminnu sarvè saṃpratiṣṭhitā bhavaṃtīti ‖*) (Praśna. 4-1.)
+
+O revered one, who sleep in this Person? Who inside him are awake? And who (the gods) is it that sees dreams? Whose is this happiness? In whom are all these established? When Gārgya, the grandson of Sūra, asked Pippalāda thus, Pippalāda addressed him lovingly as यथा गार्ग्य (*yathā gārgya*), "O Gārgya", and gave the answer suited to the occasion. Moreover, the occasion on which Gārgī, who wished to gain knowledge of Brahman, questioned Yājñavalkya shows the greatness of her question and of his answer. Those questions and answers are as follows:
+
+अथ कैनं गार्गी वाचक्कवी पप्रट्ट (*atha kainaṃ gārgī vācakkavī papraṭṭa*)
+
+Question: यदिदं सर्वमप्स्वेतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्च (*yadidaṃ sarvamapsvetaṃ ca protaṃ ca kasminnu khalvāpa otāśca protāśca*) that is, if everything is woven like warp and woof in the water, in what is the water woven?
+
 ---
 
-**Progress note:** Done through printed p. 272. Vol 29 pp. 265-272: Sukta 82 Rk 2 special topics (seven rishis as senses, prana), Rk 3 Samhita
+**Progress note:** Done through printed p. 278. Ṛk 3 Pada, bhāṣya, Kannada, special topics on Viśvakarman (Upaniṣad quotations)
