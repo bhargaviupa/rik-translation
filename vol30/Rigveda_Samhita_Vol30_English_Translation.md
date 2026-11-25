@@ -686,6 +686,258 @@ With this Ṛk Pururavas tells her of his own distress born of separation. Iṣu
 - क्रत्ौ (*kratau*)—in my works
 - न वि दविद्युतत् (*na vi davidyutat*)—my capacity
 
+### Printed p. 25
+
+**Pratipadārtha** (continued)
+- (…) it does not shine at all.
+- धुनयः (*dhunayaḥ*)—my warriors, who make my enemies tremble
+- उरा (*urā*)—in the wide battle
+- मायुम् (*māyum*)—my voice, which is my command
+- न चितयंत (*na citayaṃta*)—they do not understand
+
+##### भावार्थ (Bhāvārtha)
+
+Pururavas: it is quite impossible for me to shoot an arrow from my quiver to win victory. I cannot rush forward to take the enemy's cattle. Their many riches cannot be won. In my deeds, drained of strength, my capacity does not shine at all. My warriors, who make my enemies tremble, do not understand my voice of command (my order) in the wide battle.
+
+##### English translation
+(Pururavas:) The arrow is not to be cast from the quiver for glory, I am no longer the Impetuous despoiler of the cattle (of the enemy), nor of their hundred fold (riches). My prowess having lost its strength, (my might) no longer flashes forth; (my warriors) the terrifiers (of the foe) hear not my shout in battle.
+
+##### विशेषविषयगळु (Special Topics)
+
+Main purport: this is Pururavas' speech. Scorched with grief at separation from Urvashi, he describes here his helpless state, in which he is unable to do any work. To conquer enemies in battle and carry off their wealth, he cannot take the arrows from his quiver and use them, because his mind is not steady. He has no wish to rush forward to win the cattle that the enemies hold. In the other affairs of state that must be done in counsel with his brave soldiers, his mind does not stay steady either, and he has no capacity to do those tasks. His warriors, able to make the enemy tremble, have no chance to hear the lion-roar of their leader. The reason for all this is that his mind has no enthusiasm, and that mind of his is utterly afflicted by separation from her.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा वसु॒ दध॑ती॒ श्वशु॑राय॒ वय॒ उषो॒ यदि॒ वष्ट्यंति॑गृहात् ।  
+> अस्तं॑ ननक्षे॒ यस्मि॑ञ्चा॒कन्दिवा॒ नक्तं॑ शृथि॒ता वै॑त॒सेन॑ ॥ ४ ॥
+
+### Printed p. 26
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । वसु । दधती । श्वशुराय । वयः । उषः । यदि । वष्टि । अंतिगृहात् ।  
+> अस्तं । ननक्षे । यस्मिन् । चाकन् । दिना । नक्तं । श्नथिता । वैतसेन ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमुत्तरं चोर्वशीवाक्यं । आद्येन पुरात्मना कृतमुषसे निवेदयति । हे
+> उषः सेयमुर्वशी वसु वासकं वयोऽन्नं श्वशुराय भर्तुः पुरूरवसः पित्रे
+> दधती प्रयच्छंती तत्र गृहे स्थिता यदि पतिं वष्टि कामयते तदांतिगृहात् ।
+> स्वभर्तृभोगगृहांतिके यच्छ्वरस्य भोजनगृहं तदंतिगृहं । तस्माद्गृहात्सोर्वश्यस्तं पतिगृहं ननक्षे । व्याप्नोति । यस्मिन्गृहे चाकन् कामयत उर्वशी । सा
+> चोर्वशी दिवा नक्तमहनि रात्र्य च वैतसेन । शेपो वैतस इति पुंस्रजननस्यॆति
+> निरुक्तं । ३-२१ । पुंस्रजननेन शृथिता ताडिता च भवति । एवमुर्वश्यात्मानं
+> परोक्षेण निर्विदेश ॥
+
+##### Gist of the bhāṣya
+
+This and what follows is Urvaśī's speech. By the first verse she tells Uṣas what was done by "the former one" (पुरात्मना (*purātmanā*)).**NOTE** "O Uṣas, this Urvaśī, giving wealth (वसु (*vasu*), 'dwelling') and food to her father-in-law, the father of her husband Purūravas, and living in that house, if she desires her husband, then from the अंतिगृह (*aṃtigṛha*)", that is, the dining-house of the father-in-law, which stands near her husband's house of enjoyment, "she reaches that husband's house. In whichever house she desired (him), there Urvaśī, by day and night, is beaten (शृथिता (*śṛthitā*)) with the वैतस (*vaitasa*)." Sāyaṇa cites Nirukta 3-21: शेपो वैतस (*śepo vaitasa*) is the male generative organ; she is struck with the male organ. Thus Urvaśī spoke of herself in the third person.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषः (*uṣaḥ*)—O goddess Uṣas
+- सा (*sā*)—Urvashi
+- वसु (*vasu*)—wealth
+- वयः (*vayaḥ*)—and food
+- श्वशुरायॆ (*śvaśurāyè*)—to her husband's father
+- दधती (*dadhatī*)—giving
+- यदि (*yadi*)—if
+- वष्टि (*vaṣṭi*)—she desires her husband, then
+- अंतिगृहात् (*aṃtigṛhāt*)—from the nearby house of the father-in-law
+- अस्तं (*astaṃ*)—the husband's house
+- ननक्षे (*nanakṣe*)—she enters
+- यस्मिन् (*yasmin*)—in whichever house
+- चाकन् (*cākan*)—where she longs for her husband
+- दिवा नक्तं (*divā naktaṃ*)—day and night
+- वैतसेन (*vaitasena*)—by the male organ
+- शृथिता (*śṛthitā*)—she is beaten for the attainment of pleasure. [वैतसेन शृथिता (*vaitasena śṛthitā*) means: he strikes me with the organ of generation and gives me delight; this is the purport.]
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvashi:) O goddess Uṣas, Urvashi, wishing to be with her husband, gives food and other desired things to her husband's father; and if she then desires union with her husband, she enters her husband's house from the nearby house of the father-in-law. In whichever house she longs for her husband, there, night and day, struck with her husband's male organ, she enjoys pleasure.
+
+##### English translation
+(Urvashi :) If, Ushas, this Urvashi, offering food and wealth to her father-iu-law, loves (her husband), she has repaired from the neighbouring house to her husband's home, where she loved (her lord), being delighted night and day by his embraces.
+
+### Printed p. 27
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk and the next are Urvashi's words. In this Ṛk Urvashi tells the goddess Uṣas how she behaved when she lived with Pururavas in his father's house. O goddess Uṣas, when Urvashi (she herself) formerly lived in her husband's house, she served her father-in-law and her husband Pururavas, bringing them food and other meals, and clothes and the like, from time to time. When she wanted the pleasure of love, she would leave the father-in-law's house, come to her husband's house, which was close by, and there with Pururavas, without distinction of day or night, at all times, enjoyed the pleasure she wanted through the touch of her husband's male organ and the like.
+For श्नथिता वैतसेन (*śnathitā vaitasena*), see the Special Topics of the next Ṛk for an explanation of these words.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिः स्म॒ माह्नः॑ श्णथयो वैत॒सेनो॒त स्म॒ मेऽव्य॑त्यै पृणासि ।  
+> पुरू॑र॒वोऽनु॑ ते॒ केत॑मायं॒ राजा॑ मे वीर त॒न्नग१॒॑स्तदा॑सीः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । स्म । मा । अह्नः । श्नथयः । नैतसेन । उत । स्म । मे । अव्यत्यै । पृणासि ।  
+> पुरूरवः । अनु । ते । केतं । आयं । राजा । मे । वीर । तन्नः । तत् । आसीः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनेन पुरूरवसमेव संबोध्योक्तवती । हे पुरूरवः त्वं मा मामहोऽहनि वैतसेन दंडेन पुंव्यंजनेन त्रिस्तिवारं ॥ द्वित्रिचतुर्भ्यः सुच् ।
+> पा. ५-४-१८ ॥ शृथयः स्म । अश्नथयः । अताडयः ॥ कृत्तोर्थप्रयोगे । पा. २-३-
+> ६४ । इति कालवाचिनोऽहशब्दादधिकरणे षष्ठि ॥ उतापि च । स्मेति पूर्णाः । अव्यत्येक
+> सपत्नीभिः सह पर्यायेण पतिमागच्छति सा व्यती । न तादृश्यव्यती । तस्यॆ मे
+> मह्यं पृणासि । पूरयसि । एवं बुद्ध्या हे पुरूरवः ते तव केतं गृहमताय
+> अन्वगमं पूर्वं । हे वीर राजा त्वं च मे मम तन्नः शरीरस्य तत्तदासीः ।
+
+##### Gist of the bhāṣya
+
+By this verse she speaks, addressing Purūravas himself. "O Purūravas, you struck me three times a day (अह्नः (*ahnaḥ*), a genitive of time in the sense of the locative, 'in the day') with the staff, the male organ (वैतसेन (*vaitasena*)); शृथयः स्म (*śṛthayaḥ sma*) means you beat me." उत (*uta*) means "and also"; स्म (*sma*) is a filler. She who goes to her husband in turn with co-wives is व्यती (*vyatī*); one not so is व्यती (*vyatī*); to such a one, me, you give fulfilment. With this thought, O Purūravas, I formerly followed to your house (केतं (*ketaṃ*)). "And you, O hero, king, were (the lord) of my body."
+
+### Printed p. 28
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Pururavas) मा (*mā*)—me
+- अह्नः (*ahnaḥ*)—in days
+- त्रिः (*triḥ*)—three times
+- वैतसेन (*vaitasena*)—with your organ of generation
+- शृथयः स्म (*śṛthayaḥ sma*)—you have struck me and given me delight
+- उत (*uta*)—moreover
+- अव्यत्यै (*avyatyai*)—who am without a co-wife
+- मे (*me*)—to me
+- पृणासि (*pṛṇāsi*)—you have given satisfaction
+- पुरूरवः (*purūravaḥ*)—O Pururavas
+- ते (*te*)—your
+- केतं (*ketaṃ*)—to the house
+- अन्वायं (*anvāyaṃ*)—I came following you
+- वीर (*vīra*)—O hero
+- तत् (*tat*)—then
+- त्वं (*tvaṃ*)—you
+- मे मम तन्नः (*me mama tannaḥ*)—of my body
+- आसीः (*āsīḥ*)—you were lord and giver of pleasure
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvashi:) O Pururavas, hero, formerly you embraced me three times a day and gave me pleasure by the striking of the male organ. You gave satisfaction to me, who was without a co-wife. I followed you and came to your house. Then you were my lord and the giver of my pleasure.
+
+##### English translation
+Thirce a day, Pururavas, have you embraced me, you have loved me without a rival ; I have followed (you) to your dwelling, you, hero, have been the sovereign of my person.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Urvashi addresses Pururavas himself: त्रिः स्म माह्नः शृथयो वैतसेन (*triḥ sma māhnaḥ śṛthayo vaitasena*)—O Pururavas, when I lived with you formerly, did you not strike me, that is, my yoni region, with your male organ three times a day?
+To explain the word वैतस (*vaitasa*) here, Yāska has given an etymology. When listing words of one meaning in pairs (Ni. 3-20), among pairs of words such as प्रपित्वे (*prapitve*)–अभीकॆ (*abhīkè*) and दभ्रं (*dabhraṃ*)–अर्भकं (*arbhakaṃ*), he has given the two words *śepaḥ*–वैतसः (*vaitasaḥ*). These two words have, more or less, one meaning.
+शेपो वैतस इति पुंस्रजननस्य । शेषः शपतेः स्पृशतिकर्मणः । वैतसो वितस्तं भवति । यस्यामुशंतः प्रहराम शेषं । त्रिः स्म माह्नः श्नथयो वैतसेन इत्यपि निगमौ भवतः ॥ (*śepo vaitasa iti puṃsrajananasya | śeṣaḥ śapateḥ spṛśatikarmaṇaḥ | vaitaso vitastaṃ bhavati | yasyāmuśaṃtaḥ praharāma śeṣaṃ | triḥ sma māhnaḥ śnathayo vaitasena ityapi nigamau bhavataḥ ‖*)
+(Ni. 3-21)
+
+### Printed p. 29
+
+The portion of the male organ that is like a staff (penis) is called शेप (*śepa*) or वैतस (*vaitasa*). The word शेप (*śepa*) is formed from the root शप् (*śap*), "to touch". In sexual union, because the woman's yoni is touched by this male organ, the organ has come to be called शेप (*śepa*). The word वैतस (*vaitasa*) has this meaning in the sense of "being a span long", "being in a weakened state". Because this male member is in a weakened state before touching a woman, it is called वैतस (*vaitasa*). During union with a woman this organ is in an aroused state; at other times it is in the span-long state, that is, in a weakened state. Therefore this staff-like male organ is called वैतस (*vaitasa*); so Yāska has explained the meaning. As examples he has given two Vedic sentences: यस्यामुशंतः प्रहराम शेषं (*yasyāmuśaṃtaḥ praharāma śeṣaṃ*) (Ṛ. Saṃ. 10-85-37) and त्रिः स्म माह्नः श्नथयो वैतसेन (*triḥ sma māhnaḥ śnathayo vaitasena*) (Ṛ. Saṃ. 10-95-5).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या सु॑जू॒र्णिः श्रेणिः॑ सु॒म्म आ॑पिर्र्॒दे च॑क्षु॒र्न ग्रं॒थिनी॑  ॒
+> चरण्युः ।  
+> ता अं॒जयो॑ऽरु॒णयो॒ न स॑स్రుः श्रि॒ये गावो॒न धे॒नवो॑ऽनवंत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । सुजूर्णिः । श्रेणिः । सुम्मेऽआपिः । प्रदेऽचक्षुः । न । ग्रंथिनी । चरण्युः ।  
+> ताः । अंजयः । अरुणयः । न । सस్రుः । श्रिये । गावः । न । धेनवः । अनवंत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरूरवसो वाक्यं । या सुजूर्णिः सुजवैतन्नामिकास्ति तथा या श्रेणियार्
+> सुम्मआपिर्या प्रदेचक्षुः । नकारः समुच्छये । ताभिश्चतसृभिरालीभूताभिर्मानिनीभिः
+> सहिता ग्रंथिनी ग्रंथनवती संदर्भवती चरण्युश्चरणशीलोर्वश्या जगाम । यद्वा ।
+> ग्रंथिनीत्येतत्सखिभूताप्सरोनामधेयं । या सुजूर्णिः सुजवोर्वशी सा ताभिः
+> सह जगाम । ता अप्सरसोऽंजय आभरणोपेता अरुणयोऽरुणवर्णा न सस्रुः ।
+> पूर्ववन्नगच्छंति । श्रिये श्रयणाय धेनवो नवप्रसूता गावो न गाव इव ।
+> आश्रयार्थं यथा गावोऽनवंत शब्दायंते तथा न शब्दयंतीति व्यतिरेके
+> दृष्टांतः ॥
+
+##### Gist of the bhāṣya
+
+This is Purūravas' speech. She who is सुजूर्णिः (*sujūrṇiḥ*) is a companion of that name (the text reads सुजवैतन्नामिका (*sujavaitannāmikā*))**NOTE**; likewise she who is श्रेणिः (*śreṇiḥ*), she who is सुम्मआपिः (*summaāpiḥ*), she who is प्रदेचक्षुः (*pradecakṣuḥ*). The particle न (*na*) is in the sense of "and". Together with these four proud companions, Granthinī (she who has composition, संदर्भवती (*saṃdarbhavatī*)) and the roving Urvaśī went. Or else: ग्रंथिनी (*graṃthinī*) is likewise the name of a companion apsaras; Urvaśī, who is सुजूर्णिः (*sujūrṇiḥ*) ("swift"), went with them. Those apsarases, adorned with ornaments and red-hued, do not go as before. "For refuge (श्रिये (*śriye*)) they do not sound like (न (*na*)) cows (धेनवः (*dhenavaḥ*)), newly calved ones": as cows low for the sake of refuge, so these do not sound; the simile is by way of contrast.
+
+### Printed p. 30
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या सुजूर्णिः (*yā sujūrṇiḥ*)—with the companion who is named Sujūrṇi
+- श्रेणिः (*śreṇiḥ*)—and with Śreṇi
+- सुम्म आपिः (*summa āpiḥ*)—and with her called Sumna-api
+- प्रदेचक्षुः (*pradecakṣuḥ*)—and with her called Pradecakṣus
+- ग्रंथिनी (*graṃthinī*)—and with her called Granthinī
+- चरण्युः (*caraṇyuḥ*)—Urvashi, of excellent roving, has come
+- ताः (*tāḥ*)—all those apsara women
+- अंजयः (*aṃjayaḥ*)—being adorned with ornaments
+- अरुणयः (*aruṇayaḥ*)—and of attractive golden colour
+- न सस्रुः (*na sasruḥ*)—do not run away as before
+- धेनवः (*dhenavaḥ*)—newly calved
+- गावो न (*gāvo na*)—like cows
+- श्रिये (*śriye*)—for refuge
+- अनवंत (*anavaṃta*)—they make sound
+
+##### भावार्थ (Bhāvārtha)
+
+(Pururavas:) Urvashi, of excellent roving, has come with all these companions, Sujurni, Shreni, Sumna-api, Pradechakshus and Granthini. All those apsara women, adorned with ornaments and of attractive golden colour, do not run away as before. Like newly calved cows they make sound for refuge.
+
+##### English translation
+(Pururavas) Sujurni, Shreni, Sumna-api, Hradechakshus, Granthini and the swift-moving (Urvashi who arrived) they, decorated and purple-tinted did not go first, they lowed like milch-cows for protection.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sāyaṇa says that what stands in this Ṛk is Pururavas' speech. Here the names of six apsara women are indicated: सुजूर्णिः श्रेणिः सुम्म आपिः प्रदेचक्षुः ग्रंथिनी चरण्णुः (*sujūrṇiḥ śreṇiḥ summa āpiḥ pradecakṣuḥ graṃthinī caraṇṇuḥ*). All of them are adorned with ornaments and shine with a ruddy colour (red). But they do not run away as before. Among these six Urvashi is included, or else these six are together with Urvashi. They do not sound loudly, that is, they do not speak. An illustration is given for this. It is natural for newly calved cows to low for protection; as they do, these do not make sound, that is, they do not cry out loudly but speak softly; this is the purport.
+The meaning of this Ṛk is not clear. It is difficult to understand what connection the names of the six apsara women mentioned here have with their going away or making sound, or with the conversation in the sūkta. But the commentator, in his commentary on the next Ṛk, says
+
+### Printed p. 31
+
+अनय्यताभिः सह संसर्गस्तयानुभूत इत्युर्वशी वदति (*anayyatābhiḥ saha saṃsargastayānubhūta ityurvaśī vadati*): in this Ṛk (the second Ṛk) Urvashi tells what kind of relation Pururavas had with these divine women spoken of before. Or else he explains the meaning thus: जायमाने यज्ञार्थं प्रवर्धमाने सति ग्ना देवपत्न्योऽपि समासत समभवन् (*jāyamāne yajñārthaṃ pravardhamāne sati gnā devapatnyo 'pi samāsata samabhavan*), that is, one may also say that these divine women all gathered together here for the sake of the sacrifice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॑स्मि॒ञ्ञाय॑मान आसत॒ ग्ना उ॒तेम॑वर्धन्न॒द्य१॒ं॑ः स्वगू॑र्ताः ।  
+> म॒हे यत्त्वा॑ पुरूरवो॒ रणा॒याव॑र्धयन्दस्यु॒हत्या॑य  ॒
+> देवाः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अस्मिन् । जायमाने । आसत । ग्नाः । उत । ईं । अवर्धन् । नद्यः । स्वगूर्ताः।  
+> महे । यत् । त्वा । पुरूरवः । रणाय । अवर्धयन् । दस्युहत्याय । देवाः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयैताभिः सह संसर्गस्त्वयानुभूत इत्युवर्षी वदति । अस्मिन्सुरूरवसि
+> जायमाने सति ग्ना अप्सरसो देववेश्या अपि समासत । संगता अभवन् ! अथवा
+> जायमाने यज्ञार्थं प्रवर्धमाने सति ग्ना देवपत्योऽपि समासत । समभवन्।
+> उतापि चेमेनं पुरूरवसं स्वगूर्ताः स्वयंगामिन्नो नद्यस्तासामाश्रयभूता
+> अवर्धयन् ! किंच हे पुरूरवः यद्यस्मात्वा त्वां महे महते रणाय
+> रमणीयाय संग्रामाय दस्युहत्याय दस्युहननाय देवास्वामवर्धयन् ॥
+
+##### Gist of the bhāṣya
+
+Urvaśī says: "A union with these (women) was experienced by you." When this Purūravas was born, the ग्नाः (*gnāḥ*), the apsarases, the courtesans of the gods, gathered together. Or else, when he was growing for the sake of the sacrifice, the wives of the gods also came together. Moreover the self-moving rivers, whose support (he was), made this Purūravas grow. And further, O Purūravas, since the gods made you grow for great, delightful battle, for the slaying of the dasyus (the final clause is cut off at the break of the block in the print order, the sense being "therefore…").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मिन् (*asmin*)—this Pururavas
+- जायमाने (*jāyamāne*)—as soon as he was born
+- ग्नाः (*gnāḥ*)—the divine women
+- समासत (*samāsata*)—surrounded him
+- उत (*uta*)—and
+- ईं (*īṃ*)—him
+- स्वगूर्ताः (*svagūrtāḥ*)—self-moving
+- नद्यः (*nadyaḥ*)—rivers
+- अवर्धन् (*avardhan*)—made grow
+- पुरूरवः (*purūravaḥ*)—O Pururavas
+- यत् (*yat*)—for the very reason (that)
+- महे (*mahe*)—great
+- रणाय (*raṇāya*)—for
+
 ---
 
-**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
+**Progress note:** Done through printed p. 31. pp. 25-31 (batch API)
