@@ -486,6 +486,102 @@ And Soma gives the priests and the sacrificer keenness of the senses, vigour and
 
 आगस्त्येव इत्यन्वाह (*āgastyeva ityanvāha*) **NOTE**
 
+### Printed p. 31
+
+Now the Ṛk beginning **NOTE**
+
+आगन्नेव ऋतुभिर्वर्धतु क्षयं दधातु नः सविता सुप्रजामिषं । स नः क्षपाभिरहभिश्च जिन्वतु प्रजावंतं रयिमस्मे समिन्वतु ॥ (*āganneva ṛtubhirvardhatu kṣayaṃ dadhātu naḥ savitā suprajāmiṣaṃ | sa naḥ kṣapābhirahabhiśca jinvatu prajāvaṃtaṃ rayimasme saminvatu ‖*) (Ṛ. Saṃ. 4-53-7)
+
+He recites this Ṛk. This mantra is in the Ṛgveda Saṃhitā itself. Its main purport is this: May this god Soma graciously come to our sacrificial ground; having come here, accompanied by the seasons, may he increase our dwelling; and may this god Soma, as our impeller, provide us with good offspring, sons, grandsons and the rest, and with food; and may that god delight us through days and nights; may he obtain for us progeny (sons and the rest) and wealth.
+
+आगतो हि स तर्हि भवति ऋतुभिर्वर्धतु क्षयमित्यृतवो वै सोमस्य राज्यो राजभ्रातरो यथा मनुष्यस्यतैरेवैनं तत्सहागमयति । (*āgato hi sa tarhi bhavati ṛtubhirvardhatu kṣayamityṛtavo vai somasya rājyo rājabhrātaro yathā manuṣyasyatairevainaṃ tatsahāgamayati |*)
+
+The meaning of the first quarter-verse of this Ṛk is explained: the word आगन् (*āgan*) at the beginning of this Ṛk indicates that after the purchase of the Soma, Soma has come to the sacrificial ground. In worldly life, just as men have brothers with them, so kings also have brothers. Here Soma is the king. The seasons are his brothers. This King Soma has graciously come here together with these brothers, the seasons. The Hotṛ recites the first quarter-verse, which has this meaning, and so wishes a welcome to King Soma together with his brothers.
+
+दधातु नः सविता सुप्रजामिषमित्याशिषमाशास्ते । स नः क्षपाभिरहभिश्च जिन्वत्वित्यहानि वा अहानि रात्रयः क्षपा अहोरात्तैरेवास्मा एतामाशिषमाशास्ते प्रजावंतं रयिमस्मे समिन्वत्वित्याशिषमेवाशास्ते । प (*dadhātu naḥ savitā suprajāmiṣamityāśiṣamāśāste | sa naḥ kṣapābhirahabhiśca jinvatvityahāni vā ahāni rātrayaḥ kṣapā ahorāttairevāsmā etāmāśiṣamāśāste prajāvaṃtaṃ rayimasme saminvatvityāśiṣamevāśāste | pa*)
+
+Having explained the first quarter-verse, they explain the meaning of the following quarter-verses. May this god Soma, the impeller of all, protect us by giving us good sons and food. And may that god, delighting us through days and nights, protect us by giving us the line of offspring, sons, grandsons and the rest, and wealth. Such is the wish that is expressed.
+
+(The Ṛk beginning आगन् (*āgan*) quoted above has Savitṛ as its deity. This whole sūkta of seven Ṛks, seen by the seer Vāmadeva, is addressed to the deity Savitṛ. Nevertheless it has been interpreted and used there with reference to the deity Soma. Since the matters stated in this Ṛk are appropriate to the occasion of bringing the Soma, it is natural that this Ṛk is used with reference to the deity Soma. In sacrificial rites and the like,
+
+### Printed p. 32
+
+एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति (*etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati*) (Ai. Brā. 3-13)
+
+according to this Śruti text it is said that in each rite the Ṛks that set forth the matters of that rite and explain the meaning appropriate to the occasion should be used; and since here, at the time of bringing the Soma, all the matters in which the priests and the sacrificer pray to the deity Soma are found in this Ṛk, this Ṛk, though it belongs to another deity, has been recited here in the belief that it is in favour of the deity Soma. No fault is seen in this.)
+
+After that the Hotṛ recites the seventh Ṛk in this rite.
+
+या ते धामानि हविषा यजंतीत्यन्नाह (*yā te dhāmāni haviṣā yajaṃtītyannāha*)
+
+The seventh Ṛk that the Hotṛ recites is in the Ṛgveda Saṃhitā itself:
+
+या ते धामानि हविषा यजंति ता ते विश्वा परिभूरस्तु यज्ञं । गयस्थानः प्रतरणः सुवीरोऽवीरहा प्रचरा सोम दुर्यान् ॥ (*yā te dhāmāni haviṣā yajaṃti tā te viśvā paribhūrastu yajñaṃ | gayasthānaḥ prataraṇaḥ suvīro 'vīrahā pracarā soma duryān ‖*) (Ṛ. Saṃ. 1-91-4)
+
+The main purport of this Ṛk is: O Soma, the sacrificers who perform the sacrifice worship your places, the Uttaravedi and the rest, with oblations and the like. Since those places of yours pervade all places, you dwell surrounding the sacrificial ground; and you are the one who nourishes and increases our cattle; the one who brings us across all troubles; the one who gives us good sons, grandsons and the rest; and moreover, O god Soma, you are not a slayer of the excellent heroes among us. Such as you are, now graciously turn towards our house.
+
+ता ते विश्वा परिभूरस्तु यज्ञं गयस्थानः प्रतरणः सुवीर इति गवां नत स्थावयिता प्रतारयित्यैधीत्येव तदाह ॥ (*tā te viśvā paribhūrastu yajñaṃ gayasthānaḥ prataraṇaḥ suvīra iti gavāṃ nata sthāvayitā pratārayityaidhītyeva tadāha ‖*)
+
+Since the meaning of the first quarter-verse is clear, the second and third quarter-verses are explained. Since their meaning too has been stated above, there is no need to say it again.
+
+अवीरहा प्रचरा सोम दुर्यानिति गृहा वै मर्या बिभ्यति वै सोमाद्राज्ञ आयतो यजमानस्य गृहाः स यदेतामन्वाह शांत्यैवैनं तच्छमयति सोऽस्य शांतो न प्रजां न पशून् हिनस्ति । (*avīrahā pracarā soma duryāniti gṛhā vai maryā bibhyati vai somādrājña āyato yajamānasya gṛhāḥ sa yadetāmanvāha śāṃtyaivainaṃ tacchamayati so 'sya śāṃto na prajāṃ na paśūn hinasti |*)
+
+Now the meaning of the fourth quarter-verse is explained: seeing this King Soma coming towards the sacrificer's house, the heroic men in the sacrificer's house, thinking that through excess or deficiency in the service we render to this King Soma
+
+### Printed p. 33
+
+this god will become angry, the heroic men and the others in the house are afraid. Then the Hotṛ, in order to remove that fear, recites the fourth quarter-verse, which has the word अवीरहा (*avīrahā*), that is, this god Soma is not a slayer of heroes, and thus pacifies King Soma with words of peace. King Soma too, satisfied by those words of peace, does not harm the sacrificer's sons and the rest, his cattle and his household.
+
+इमां धियं शिक्षमाणस्य देवेति नारुण्या परिदधाति (*imāṃ dhiyaṃ śikṣamāṇasya deveti nāruṇyā paridadhāti*)
+
+Now the Hotṛ recites the eighth Ṛk, इमां धियं (*imāṃ dhiyaṃ*), which has Varuṇa as its deity, and so brings this rite called Somapravāhaṇa to its close.
+
+इमां धियं शिक्षमाणस्य देव क्रतुं दक्षं वरुण संशिशाधि । ययाति विश्वा दुरिता तरेम सुतर्माणमधि नावं रुहेम ॥ (*imāṃ dhiyaṃ śikṣamāṇasya deva kratuṃ dakṣaṃ varuṇa saṃśiśādhi | yayāti viśvā duritā tarema sutarmāṇamadhi nāvaṃ ruhema ‖*) (Ṛ. Saṃ. 8-42-3)
+
+This Ṛk too is in the Ṛgveda Saṃhitā itself. The main purport of this Ṛk is: O god Varuṇa, to this sacrificer, who is devoted to the intention set on the performance of this sacrifice (that is, who wishes to perform the sacrifice in the prescribed manner), teach well the capacity, skill and knowledge relating to the sacrifice. Climbing into the boat of instruction, which is your speech, may we cross over all misfortunes and sins and be saved.
+
+वरुणदेवत्यो ना एष तावद्यावदुपनद्धो यावत्परिश्रितानि प्रपद्यते स्वय्यैवैनं तद्देवतया स्वेन छंदसा समर्धयति । (*varuṇadevatyo nā eṣa tāvadyāvadupanaddho yāvatpariśritāni prapadyate svayyaivainaṃ taddevatayā svena chaṃdasā samardhayati |*)
+
+The reason is stated why a Ṛk addressed to Varuṇa should be recited to bring this Somapravāhaṇa rite to a close. Until now the Soma that was bought and brought was tied with bonds such as rope, covered with cloth and the like, and brought to places such as the prāgvaṃśa. Whatever object it may be, the bond that ties it or the covering of cloth and the like laid over it is subject to the noose of the god Varuṇa. By the rule that a Ṛk praying to Varuṇa must be recited in order to untie it, the Hotṛ recites the mantra that has Varuṇa as its deity. Earlier, when Soma was prayed to, he was praised with Ṛks in the Gāyatrī metre, which is dear to the god Soma or his own. Now the mantra to Varuṇa, which is recited at the time of the completion of the rite, is in the Triṣṭubh metre. That too is Soma's own metre. How? There is an earlier history in this matter. Formerly the Soma was in the world of the gods. The gods thought that it must be brought to the earth, and when they considered who was able to bring it, it was decided that the metres, the Gāyatrī and the others, were capable of bringing the Soma.
+
+### Printed p. 34
+
+जगत्युदपतच्चतुर्दशाक्षरा सती साप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमीयेताग्ं सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगती छंदसां पशव्यतमा तस्मात्पशुमंतं दीक्षोपनमति त्रिष्टुगुदपतत्रयोदशाक्षरा सती साप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमीयेताग्ं सा दक्षिणाभिश्च तपसा जागच्छत्तस्मात्रिष्टुभो लोके माध्यंदिने सवने दक्षिणा नीयंत एतत्पलु वाव शप (*jagatyudapataccaturdaśākṣarā satī sāprāpya nyavartata tasyai dve akṣare amīyetāgṃ sā paśubhiśca dīkṣayā cāgacchattasmājjagatī chaṃdasāṃ paśavyatamā tasmātpaśumaṃtaṃ dīkṣopanamati triṣṭugudapatatrayodaśākṣarā satī sāprāpya nyavartata tasyai dve akṣare amīyetāgṃ sā dakṣiṇābhiśca tapasā jāgacchattasmātriṣṭubho loke mādhyaṃdine savane dakṣiṇā nīyaṃta etatpalu vāva śapa*)
+
+इत्याहुर्यः स्वं ददातीति गायत्र्युदपतच्चतुरक्षरा सत्यजया ज्योतिषा तमस्या अजाभ्यरुंधत तदजाया अजत्वग्ं सा सोमं चाहरच्चत्वरि चाक्षराणि साष्टाक्षरा समपद्यत ब्रह्मवादिनो वदंति कस्मात्सत्याद्गायश्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्यैत्तस्मात्तेजस्विनीतमा पद्व्यां द्वे सवने समगृह्णान्मुखेनैकं यन्मुखेन समगृह्णात्तदधयुत्तस्माद्वे सवने शुक्रवती प्रातःसवनं च माध्यदिनं च तस्मात्तृतीयसवनमृजीषमभिषुण्णंति धीतमिव हि मन्यंते आशिरमवनयति सशुक्रत्वायाथो संभरत्येवैनत् । (*ityāhuryaḥ svaṃ dadātīti gāyatryudapataccaturakṣarā satyajayā jyotiṣā tamasyā ajābhyaruṃdhata tadajāyā ajatvagṃ sā somaṃ cāharaccatvari cākṣarāṇi sāṣṭākṣarā samapadyata brahmavādino vadaṃti kasmātsatyādgāyaśrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryaittasmāttejasvinītamā padvyāṃ dve savane samagṛhṇānmukhenaikaṃ yanmukhena samagṛhṇāttadadhayuttasmādve savane śukravatī prātaḥsavanaṃ ca mādhyadinaṃ ca tasmāttṛtīyasavanamṛjīṣamabhiṣuṇṇaṃti dhītamiva hi manyaṃte āśiramavanayati saśukratvāyātho saṃbharatyevainat |*) (Tai. Saṃ. 6-1-6-2, 3, 4, 5)
+
+Then first the Jagatī metre set out, saying that it would bring the Soma, and leapt into the atmosphere. At that time each quarter of the Jagatī metre had fourteen syllables. But unable to bring the Soma, it grew weary and came back exhausted. Then it lost two syllables of the fourteen; but on its return it brought with it the sacrificial animals that were there and the order of consecration (the rule of undertaking the consecration in a sacrifice). Therefore in the world the Jagatī metre became famous as rich in cattle. And the consecration follows a sacrificer who is endowed with the wealth of cattle. Then the Triṣṭubh metre, saying that it would bring the Soma, leapt into the atmosphere. At that time each quarter of the Triṣṭubh metre had thirteen syllables. The Triṣṭubh metre too, unable to bring the Soma, grew weary and spent, lost two of its thirteen syllables and came back. On its return it brought with it the sacrificial fee and austerity; therefore, when a sacrifice is performed, fees are brought and given at the midday pressing (to the priest). The giving away of what one has is called austerity. Then the Gāyatrī metre, saying that it would bring the Soma, set out and flew into the atmosphere in the form of a falcon. At that time each quarter of the Gāyatrī had four syllables. When setting out, the Gāyatrī took with it, to be its companion and help, a shining she-goat. This goat helped the Gāyatrī when it brought the Soma. Therefore the goat became famous by the name अजा (*ajā*). Then the Gāyatrī brought back the Soma that was in heaven and the four syllables that the Jagatī and Triṣṭubh metres had lost.
+
+### Printed p. 35
+
+The four syllables it brought back and the four syllables it had before joined, and so each quarter of the Gāyatrī came to have eight syllables. (The Jagatī metre came to have twelve syllables and the Triṣṭubh metre eleven syllables.) As the Brahmavādins say, a doubt arises here: although the Gāyatrī metre is much smaller than all the metres, how did it obtain prominence in the sacrifice? The answer: this Gāyatrī brought the Soma; therefore the Gāyatrī has come to have precedence in sacrificial rites, and it also shines with great brilliance. When this Gāyatrī brought the Soma from heaven, it took the form of a falcon and brought the two kinds of pressing, the morning pressing and the midday pressing, holding them with its two feet (of the three quarters of eight syllables of the Gāyatrī, two are said to be the feet and the third the mouth), and the third, the third pressing, holding it in its mouth (its beak). Because the morning and midday pressings held in the feet remained just as they were without any alteration, in both those pressings the Soma plants are crushed and the bright, pure juice is pressed out. But since it is thought that, in bringing the third pressing in its beak, it bit the Soma plant a little, pressed out the juice and drank it, at the time of the third pressing fresh Soma plants are not used; the juice is pressed out once at the morning and midday pressings, and from the crushed plants that remain, like husks (the Ṛjīṣa), the remaining juice is pressed out well once more. Since the juice drawn out in this way is not abundant, āśira substances (milk, curds, flour) are added to it to make it fit for drinking.
+
+As told in this history, the Triṣṭubh metre too made an effort to bring the Soma from heaven. Therefore here the Triṣṭubh metre too is said to be Soma's own.
+
+शिक्षमाणस्य देवेति शिक्षते ना एष यो यजते क्रतुं दक्षं वरुण संशिशाधीति वीर्यं प्रज्ञानं वरुण संशिशाधीत्येव तदाह । (*śikṣamāṇasya deveti śikṣate nā eṣa yo yajate kratuṃ dakṣaṃ varuṇa saṃśiśādhīti vīryaṃ prajñānaṃ varuṇa saṃśiśādhītyeva tadāha |*)
+
+As long as the Soma plants are tied with rope and covered with cloth, they are considered to be in the possession of Varuṇa. Now Varuṇa is prayed to, in order to remove the bond and take off the cloth. In so praying, the Hotṛ, by reciting this mantra, prays to Varuṇa: O Varuṇa, give right understanding to the sacrificer who is performing this sacrifice; give keenness of the senses, the capacity to perform the sacrifice, and knowledge.
+
+ययाति विश्वा दुरिता तरेम सुतर्माणमधि नावं रुहेमेति यज्ञो वै सुतर्मा नौः कृष्णाजिनं वै सुतर्मा नौर्वाग्वै सुतर्मा नार्वाचमेव तदारुह्य तया स्वर्गं लोकमभि संतरति । (*yayāti viśvā duritā tarema sutarmāṇamadhi nāvaṃ ruhemeti yajño vai sutarmā nauḥ kṛṣṇājinaṃ vai sutarmā naurvāgvai sutarmā nārvācameva tadāruhya tayā svargaṃ lokamabhi saṃtarati |*)
+
+### Printed p. 36
+
+Here the boat means the sacrifice; the black antelope skin used in the sacrifice for the consecration is the boat; the sentences in the form of mantras are the boat. The meaning is: climbing into such a boat, that is, beginning the sacrifice, receiving the consecration in it, reciting the mantras suited to the time and performing the sacrifice, may we shed all sins and obtain the heavenly world. By reciting a Ṛk with such a meaning the sacrificer who performs the sacrifice will obtain heaven.
+
+ता एता अष्टावन्नाह रूपसमृद्धा एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति ॥ (*tā etā aṣṭāvannāha rūpasamṛddhā etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati ‖*)
+
+These eight Ṛks together complete the rite called Somapravāhaṇa. By reciting Ṛks that bring the rite to completion, the sacrifice is as if performed with all its parts; and it is by reciting Ṛks that relate to the rite concerned and contain that very meaning that the respective rites are completed and the sacrifice is properly accomplished.
+
+तासां त्रिः प्रथमामन्वाह त्रिरुत्तमां ता द्वादश संपद्यंते द्वादश नै मासाः संवत्सरः संवत्सरः प्रजापतिः । प्रजापत्यायतनाभिरेवाभी राध्योति य एवं वेद । त्रिः प्रथमां त्रिरुत्तमामन्वाह यज्ञस्यैव तद्वर्सौ नह्यति स्थेन्ने बलायाविस्रंसाय ॥ (*tāsāṃ triḥ prathamāmanvāha triruttamāṃ tā dvādaśa saṃpadyaṃte dvādaśa nai māsāḥ saṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ | prajāpatyāyatanābhirevābhī rādhyoti ya evaṃ veda | triḥ prathamāṃ triruttamāmanvāha yajñasyaiva tadvarsau nahyati sthenne balāyāvisraṃsāya ‖*) (Ai. Brā. 3-14)
+
+In reciting these eight Ṛks, he recites the first Ṛk and the last Ṛk three times each. Thus twelve Ṛks in all are recited. There are twelve months in a year. The year is of the nature of Prajāpati. The Ṛks mentioned above also rest in Prajāpati. One who knows this becomes victorious in the respective undertakings through reciting these Ṛks. By reciting the first and last Ṛks three times each at the beginning and at the end of the rite, the rite called the sacrifice is firmly bound with ropes in the form of mantras and becomes firm, so that it does not slip away.
+
+Here the rite called Somapravāhaṇa ends.
+
+**The Subsequent Introduction**
+
+So far the Ṛks connected with the Somapravāhaṇa have been explained; now the procedure to be followed on the occasion of unloading the Soma from the cart is explained.
+
 ---
 
-**Progress note:** Done through printed p. 30. Somapravahana preliminaries, Tai. Saṃ./Ai. Brā. quotations, Soma-kraya mantras, pp. 25-30
+**Progress note:** Done through printed p. 36. Somapravahana Rks 6-8, Tai. Saṃ./Ai. Brā. quotations, pp. 31-36
