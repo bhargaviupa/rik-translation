@@ -28069,6 +28069,227 @@ This I proclaim in the presence of Duhsima, Prithavana, Vena. the mighty Rama, a
 > अधि । इत् । नु । अत्र । सप्ततिं । च । सप्त । च ।  
 > सद्यः । दिदिष्ट । तान्वः । सद्यः । दिदिष्ट । पार्थ्यः । सद्यः । दिदिष्ट । मायवः ॥ १५ ॥
 
+### Printed p. 1003
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रैषु राजसु तान्वो नामर्षिगर्वां सप्त च सप्ततिं च नु क्षिप्रं सद्य इत्
+> सद्य एवाधि दिदिष्ट । अधिपूर्वो दिशिर्याचनार्थः । ययाचे ! किंच पार्थो नाम
+> युवनाश्वनामकस्य कुले पृथोः पुत्रः कशि त्सद्य एव गवां सप्तसप्ततिमधि दिदिष्ट ।
+> किंच मायवोऽपि सद्य एवाधि दिदिष्ट ॥
+
+##### Gist of the bhāṣya
+
+Among these kings, the seer named Tānva promptly demanded seventy-seven cows; the root meaning "to ask" is used with the prefix, so that the sense is "he begged". Further, a certain Pārtha, a son of Pṛthu in the family of the one named Yuvanāśva, also promptly demanded seventy-seven cows. And Māyava too promptly demanded them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्र (*atra*)—among these kings
+- तान्वः (*tānvaḥ*)—the royal seer named Tānva
+- सप्त च सप्ततिं च (*sapta ca saptatiṃ ca*)—seventy-seven horses **NOTE**
+- सद्य इत् (*sadya it*)—at once
+- अधि दिदिष्ट (*adhi didiṣṭa*)—he begged
+- पार्थ्यः (*pārthyaḥ*)—the son of Pṛthu
+- सद्यः (*sadyaḥ*)—at once
+- दिदिष्ट (*didiṣṭa*)—begged for the same number of horses
+- मायवः (*māyavaḥ*)—Māyava also
+- सद्यः (*sadyaḥ*)—at once
+- दिदिष्ट (*didiṣṭa*)—begged for the same
+
+##### भावार्थ (Bhāvārtha)
+
+From the kings spoken of above, the royal seer named Tānva begged seventy-seven horses. Pārtha and Māyava also begged for the same.
+
+##### English translation
+Amongst them Tanwa promptly demanded seven-and-seventy (cows), Parthya demanded promptly, Mayava demanded promptly.
+
+## Sūkta 94 (Maṇḍala 10)
+
+**Introduction**
+
+The deity of this sūkta is the Grāvāṇaḥ. The ग्रावाणः (*grāvāṇaḥ*) are the stones that are used for crushing the Soma plants and pressing out the juice. They have another name also, अद्रि (*adri*). These stones are praised not only in this sūkta but also in sūktas 94 and 175 of this same maṇḍala. **NOTE** The stones are the deity of these three sūktas. In many other mantras too there is a description of the praise of the stones. They were regarded with great reverence; and there are many kinds of description saying that the sound produced when the Soma plant is crushed with these stones is very sweet, that the sound is pleasing to Indra, and that Indra never failed to come where that sound was. In Ṛ. Saṃ. 1-28 the method of placing the Soma plant on the stone, crushing it and pressing out the juice is minutely described. Therefore it cannot be irrelevant to mention here the method of pressing the juice out of the Soma plants and the other matters connected with it.
+
+### Printed p. 1004
+
+In the sacrifice they lift a stone, which has a broad base and is long, so as to be convenient to hold in the hand, and with it they pound and press the Soma plant that lies in the mortar and take out the juice.
+
+We shall describe here briefly the procedure to be followed when the Soma juice is prepared. In the Soma sacrifices it is the custom that, for the drinking of Soma, the Soma plant is crushed and pressed, strained through cloth, mixed as occasion requires with curds, milk and flour, and offered to the gods, and then the sacrificer and the priests drink it themselves. This preparation of the Soma juice takes place on the chief day of the sacrifice, in the morning, at midday and in the evening. It is called अभिवषण (*abhivaṣaṇa*) or सवन (*savana*). The rite of the morning is called प्रातःसवन (*prātaḥsavana*), the सवन (*savana*) performed at midday माध्यंदिनसवन (*mādhyaṃdinasavana*), and the सवन (*savana*) performed in the evening तृतीयसवन (*tṛtīyasavana*).
+
+The Soma plant is not to be found in the present age. In earlier times it grew on river banks and on mountains. They used to bring it with great effort, or buy it from those who had brought it, and use it in sacrifices. Even now the rite called सोमविक्रयण (*somavikrayaṇa*) is performed in sacrifices. To give the Soma juice a taste they mix in certain substances. This mixture is called आशिरद्रव्य (*āśiradravya*). Soma juice mixed with milk is called गवाशिर (*gavāśira*), that mixed with curds दध्याशिर (*dadhyāśira*), and that mixed with flour यवाशिर (*yavāśira*). Sometimes the Soma juice is said to be तीव्र (*tīvra*); it should then be understood that it has a sharp smell or taste (pungent flavour). The skin-like part that remains after the Soma juice is taken out is called ऋजीष (*ṛjīṣa*).
+
+The method of crushing the Soma plant and preparing the Soma juice is nowhere described in detail in the Ṛgveda. It can be guessed from a few sentences stated here and there. The stones that crush the Soma plants have the names ग्रावा (*grāvā*) or अद्रि (*adri*). In some cases wooden boards, famous by the name अधिषवण (*adhiṣavaṇa*), are also used. If the plant is fresh, much juice comes out. If it is not, that is, if some days have passed since it was cut and brought, they soak it in water and afterwards place it on a skin. Then they crush it with stones and take out the juice. Since the juice thus taken out has the skins, bits and the like of the plant mixed in it, they strain the juice either through the gaps between the fingers, or through a sieve or cloth called पवित्र (*pavitra*), or through sheep's wool. **NOTE** The juice strained in this way is clear, without impurities. It has the names शुक्र (*śukra*) and शुचि (*śuci*). To look at, this juice is of a dull red colour or a red colour mixed with yellow.
+
+### Printed p. 1005
+
+It is the custom to offer to Indra and to Vāyu the pure Soma juice, that is, Soma juice without a mixture of the आशिरद्रव्य (*āśiradravya*). For the other gods they sometimes use it mixed with milk, curds and the flour of grain. The Soma juice mixed with these is called, in order, गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रैत इति चतुर्दशर्चं चतुर्थं सूक्तं । कद्वाः पुत्रस्य सर्पस्याबुदस्यार्षं
+> पंचमी सप्तमी चतुर्दशी त्रिष्टुभः शिष्टा एकादश जगत्यः । सोमाभिषवार्था ग्रावाणोऽत्र देवता । तथा चानुक्रांतं । प्रैते षळूना सर्पोऽबर्बुदः काद्रवेयो
+> ग्राव्योऽस्तांचम्यंत्ये त्रिष्टुभौ सप्तमी चेति ॥ ग्रावस्तोत्र एतत्तूक्तं । सूत्रितं
+> च । प्रैते वदंतित्यर्बुदं प्रागुत्थमाया आ व ऋंजसे प्र वो ग्रावाण इति
+> सूक्तयोः । अ. ५-१२ । इति । यद्वा । इदमेकमेव सूक्तं ग्रावस्तोत्रं ।
+> सूत्रितं च । अर्बुदमेवेत्येके प्र वो ग्रावाण इत्येके । अ. ५-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning with प्रैत (*praita*) has fourteen Ṛks and is the fourth sūkta. Its seer is Arbuda Sarpa, son of Kadrū. The fifth, seventh and fourteenth Ṛks are Triṣṭubh; the remaining eleven are Jagatī. Its deity is the Grāvāṇaḥ, the stones used for pressing Soma. Sāyaṇa cites the Anukramaṇī to this effect. This is a hymn of praise to the pressing stones, and he cites the sūtra of Āśvalāyana (A. 5-12 **NOTE**): the two sūktas beginning प्रैते वदंति (*praite vadaṃti*) and प्र वो ग्रावाण (*pra vo grāvāṇa*) (the sūtra has the Arbuda sūkta and, up to the Uttamā verse, the verse आ व ऋंजसे (*ā va ṛṃjase*)). Or else this one sūkta alone is the hymn to the stones; and the sūtra says: "the Arbuda alone, say some; प्र वो ग्रावाण (*pra vo grāvāṇa*), say others".
+
+##### Anuvāda
+
+This sūkta, beginning with प्रैते (*praite*), is the fourth sūkta in the eighth anuvāka. It has fourteen Ṛks. The seer of this sūkta is Arbuda Sarpa, the son of Kadrū; the deity is the stones used for pressing Soma. The fifth, seventh and fourteenth Ṛks of this sūkta are in the Triṣṭubh metre. The remaining eleven Ṛks are in the Jagatī metre. In the Anukramaṇī it is said: प्रैते षळूना सर्पोऽबर्बुदः काद्रवेयो ग्राव्योऽस्तांचम्यंत्ये त्रिष्टुभौ सप्तमी च (*praite ṣaḷūnā sarpo 'barbudaḥ kādraveyo grāvyo 'stāṃcamyaṃtye triṣṭubhau saptamī ca*). In this sūkta the stones used for pressing Soma are praised. This matter is explained by the sūtra of the Āśvalāyana-śrautasūtra प्रैते वदंत्यित्यर्बुदं, प्रागुत्तमाया आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोः (*praite vadaṃtyityarbudaṃ, prāguttamāyā ā va ṛṃjase pra vo grāvāṇa iti sūktayoḥ*) (Ā. 5-2); or that this sūkta alone is the principal praise of the stones is explained by the sūtra of the Āśvalāyana-śrautasūtra आर्बुदमेवेत्येके प्र वो ग्रावाण इत्येके (*ārbudamevetyeke pra vo grāvāṇa ityeke*) (Ā. 5-12). **NOTE**
+
+##### Particulars
+
+- Sūkta 94
+- Maṇḍala 10; Anuvāka 8; Sūkta 94
+- Aṣṭaka 8; Adhyāya 4; Varga 29, 30, 31
+- Number of Ṛks in the sūkta: 14
+- Ṛṣi: आर्बुदः काद्रवेयः सर्पः (*ārbudaḥ kādraveyaḥ sarpaḥ*)
+- Devatā: ग्रावाणः (*grāvāṇaḥ*)
+- Chandas: Ṛks 1-4, 6, 8-13: जगती (*jagatī*); Ṛks 5, 7, 14: त्रिष्टुप् (*triṣṭup*)
+
+### Printed p. 1006
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रैते व॑दंतु॒ प्र व॒यं व॑दाम॒ ग्राव॑भ्यो॒ वाचं॑ वदता॒  ॑
+> वद॑द्भ्यः ।  
+> यद॑द्रयः पर्वताः सा॒कमा॒शवः॒ श्लोकं॒ घोषं॒ भर॒थेंद्रा॑य सो॒मिनः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । एते । वदंतु । प्र । वयं । वदाम । ग्रावभ्यः । वाचं । वदत । वदत् 5भ्यः ।  
+> यत् । अद्रयः । पर्वताः । साकं । आशवः । श्लोकं । घोषं । भरथ । इंद्राय ।  
+> सोमिनः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते ग्रावाण उपलाः प्र वदंतु । अभिषवशब्दं कुर्वंतु । वयं यजमाना
+> वदद्योऽभिषवशब्दं कुर्वद्यो ग्रावभ्यो ग्राव्यामर्थाय वाचं प्र वदाम ।
+> किंच हे ऋत्विजः यूयमपि स्तुतिलक्षणां वाचं वदत । पठत । यद्यदाद्रय
+> आदरणीया दृढा आशवः सोमाभिषवार्थं क्षिप्रकारिणः पर्वता ग्रावाणः सर्वे
+> यूयं साकं सहेंद्रायेंद्रार्थं श्लोकं श्रोतव्यं घोषमभिषवशब्दं भरथ
+> पोषयथ तदानीं सोमिनः सोमवंतः सोमेन तृप्ता भवथ ॥
+
+##### Gist of the bhāṣya
+
+Let these stones, the pressing stones, speak, that is, make the sound of pressing. We, the sacrificers, speak a prayer for the sake of the stones that make this sound. Further, O priests, you also speak, that is, recite, words of praise. When, O firm and swift stones, mountains, held in regard and quick in their work for the pressing of Soma, all of you together make for Indra the audible sound of pressing, then you become possessed of Soma, satisfied with Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते (*ete*)—these pressing stones
+- प्र वदंतु (*pra vadaṃtu*)—let them make the sound of pressing
+- वयं (*vayaṃ*)—we also
+- वदद्भ्यः (*vadadbhyaḥ*)—that make a sound
+- ग्रावभ्यः (*grāvabhyaḥ*)—for the pressing stones
+- वाचं (*vācaṃ*)—the speech of prayer
+- प्र वदाम (*pra vadāma*)—let us recite (O priests)
+- वदत (*vadata*)—you also recite the word of praise
+- अद्रयः (*adrayaḥ*)—of firm nature
+- आशवः (*āśavaḥ*)—and eager to press the Soma
+- पर्वताः (*parvatāḥ*)—O stones
+- यत् (*yat*)—when
+- साकं (*sākaṃ*)—you, gathered together
+- इंद्राय (*iṃdrāya*)—for Indra
+- श्लोकं (*ślokaṃ*)—pleasant to hear
+- घोषं (*ghoṣaṃ*)—the sound
+- भरथ (*bharatha*)—you are making, then
+- सोमिनः (*sominaḥ*)—you press the Soma juice
+
+### Printed p. 1007
+
+##### भावार्थ (Bhāvārtha)
+
+Let these pressing stones make the sound of pressing the Soma. Let us also, in answer, recite words of praise. O priests, you also recite words of praise. O stones, of firm nature and eager to press the Soma, when you gather together and make for Indra a sound that is pleasant to hear, then you press the Soma.
+
+##### English translation
+Let these (stones) speak ; let us reply to the speaking stones, and do you (priests) utter (praise); when, solid, quick-moving stones, you utter the noise of praise together to Indra, (then you become) full of the Soma juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+ग्रावभ्यः (*grāvabhyaḥ*)—In stating the derivation of the word ग्रावाणः (*grāvāṇaḥ*), Yāska has given a Nirukta for this Ṛk: ग्रा,वाणो हंतेर्ना, गृह्णातेर्वा । (*grā,vāṇo haṃternā, gṛhṇātervā |*) (Ni. 9-9). That is, the word ग्रावन् (*grāvan*) is formed either from the root हन हिंसागत्योः (*hana hiṃsāgatyoḥ*), which has the sense "kill", or from the root गृ (*gṛ*), which has the sense "praise". When the Soma juice is pressed, the crushing of the plants with stones amounts to injuring and killing the plants. Because the stones do this work, the stones that are useful in the work of pressing Soma are called ग्रावाणः (*grāvāṇaḥ*). And because these stones are praised at the time of pressing Soma, they have the name ग्रावाणः (*grāvāṇaḥ*); or the word ग्रावाणः (*grāvāṇaḥ*) may be formed from the root ग्रह् (*grah*), which has the sense "hold in the hand". Because these stones are held in the hand when the Soma plants are crushed, they are called ग्रावाणः (*grāvāṇaḥ*).
+
+प्रवदंत्येते प्रवदाम वयं ग्रावभ्यो वाचं वदत वदद्भ्यो यदद्रयः पर्वता आदरणीयाः सह सोममाशवः । क्षिप्रकारिणः, श्लोकः शृणोतेः, घोषो घुष्यतेः । सोमिनो यूयं स्थेति वा सोमिनो गृहेष्टितवा ॥ (*pravadaṃtyete pravadāma vayaṃ grāvabhyo vācaṃ vadata vadadbhyo yadadrayaḥ parvatā ādaraṇīyāḥ saha somamāśavaḥ | kṣiprakāriṇaḥ, ślokaḥ śṛṇoteḥ, ghoṣo ghuṣyateḥ | somino yūyaṃ stheti vā somino gṛheṣṭitavā ‖*) (Ni. 9-9)
+
+May these stones that press the Soma juice make a sound while crushing the plants. Let us too (the priests) recite praise addressed to these stones. O priests, Adhvaryu and the rest, you also
+
+### Printed p. 1008
+
+praise these stones that are making a sound. These big stones must be held with respect, and, joined with the Soma plants, they appear, by contact with them, to consume (drink) the Soma juice. O stones, you who are engaged in pressing Soma, or in pressing Soma in the sacrificial house of the sacrificer, make quickly, for the Soma-drinking of Indra, a sound that is pleasing and resounds loudly (while crushing the plants): this is the purport of the Nirukta. The word श्लोक (*śloka*) is formed from the root शृ (*śṛ*), which has the sense "hear". The meaning is: pleasant to hear, audible. The word घोषः (*ghoṣaḥ*) is formed from the root घुष् (*ghuṣ*), which has the sense "sound loudly". The meaning is: a loud sound.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते व॑दंति श॒तव॑त्स॒हस्र॑वद॒भि क्रं॑दंति॒ हरि॑तेभिरा॒सभः॑ ।  
+> वि॒ष्ट्वी ग्रावा॑णः सु॒कृतः॑ सुकृ॒त्यया॒ होत॑श्चि॒त्पूर्वे॑ हवि॒रद्य॑माशत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । वदंति । शतवत् । सहस्रवत् । अभि । क्रंदंति । हरितेभिः । आसभिः ।  
+> विष्ट्वी । ग्रावाणः । सुकृतः । सुकृत्यया । होतुः । चित् । पूर्वे । हविःअद्यं ।  
+> आशत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शतवत्सहस्रवत् यथा शतं मनुष्याः सहस्रवदपरिमिता मनुष्याश्च वदंति
+> तद्वदेते ग्रावाणो वदंति । शब्दं कुर्वंति । किंच हरितेभिः सोमसंसर्गाद्धरितवर्णैरासभिरास्यैरभि क्रंदंति । [सोममभिलक्ष्य देवानाह्वयंतीत्यर्थः । किंच
+> सुकृतः शोभनकर्माणोः ग्रावाणो विष्ट्वी यज्ञं प्राप्य होतुर्देवानामाह्वा
+> तुरग्नेः पूर्णे चित् पूर्वमेवाद्यं भक्षणीयं हविराशत । प्राप्नुवंति ॥
+
+##### Gist of the bhāṣya
+
+As a hundred men, and as a thousand, countless men, speak, so these stones speak, that is, make a sound. Further, with mouths of green colour, because of contact with Soma, they cry aloud, calling the gods with reference to Soma, is the meaning. Further, the stones, doing good work, having reached the sacrifice, obtain the edible oblation, even before Agni, the one who invokes the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतवत् सहस्रवत् (*śatavat sahasravat*)—as thousands of people gathered together make a sound
+- एते (*ete*)—these pressing stones
+- वदंति (*vadaṃti*)—make a sound
+- हरितेभिः (*haritebhiḥ*)—of green colour
+- आसभिः (*āsabhiḥ*)—with mouths
+- अभि क्रंदंति (*abhi kraṃdaṃti*)—they sound loudly
+- सुकृतः (*sukṛtaḥ*)—having excellent work
+- ग्रावाणः (*grāvāṇaḥ*)—
+
+### Printed p. 1009
+
+  the pressing stones
+- विष्ट् (*viṣṭ*)—approaching the sacrifice
+- होतुः पूर्वे चित् (*hotuḥ pūrve cit*)—even before Agni, who is of the form of the Hotṛ
+- अद्यं (*adyaṃ*)—fit to be eaten
+- हविः (*haviḥ*)—the oblation
+- आशत (*āśata*)—they obtain (eat)
+
+##### भावार्थ (Bhāvārtha)
+
+As thousands of people gathered together make a sound, so these pressing stones make a sound. They sound loudly with mouths of green colour. The pressing stones, having excellent work, approach the sacrifice and obtain the oblation fit to be eaten, even before Agni, who is of the form of the Hotṛ. (They drink.)
+
+##### English translation
+They roar like a hundred, like a thousand (men); they cry aloud with green-tinted faces; obtaining the sacrifice, the pious stones through their piety partake of the sacrificial food, even before (Agni), the invoker (of the gods).
+
+##### विशेषविषयगळु (Special Topics)
+
+The sound produced when the Soma plants are crushed with stones is compared to the sound made by thousands of people gathered together; that is, they sound very loud.
+
+हरितेभिः आसभिः (*haritebhiḥ āsabhiḥ*)—with mouths of green colour; the Soma plants and the juice that flows out from them are pale green, that is, green in colour. Because the green Soma juice sticks to the stones that crush the plants, it is described here in another way that those stones sound with mouths of green colour.
+
+होतुः चित् पूर्व आद्यं हविः आतत (*hotuḥ cit pūrva ādyaṃ haviḥ ātata*)—Because the juice sticks to the stones while the Soma plants are being crushed, the seer describes in another way that the stones have, as it were, drunk the Soma before everyone, that is, before the Hotṛ or Agni. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते व॑दं॒त्यवि॑दन्न॒ना मधु॒ न्यूं॑खयंते॒ अधि॑ प॒क्व आमि॑षि ।  
+> वृ॒क्षस्य॒ शाखा॑मरु॒णस्य॒ बप्स॑त॒स्ते सूभ॑र्वा वृष्॒णभाः प्रेम॑  
+> राविषुः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
 ---
 
-**Progress note:** Done through printed p. 1002. Sukta 93 Rk 9 (cont.) to 14, Samhita and Pada of Rk 15 (pp. 996-1002)
+**Progress note:** Done through printed p. 1009. Sukta 93 Rk 15 end; Sukta 94 introduction, Rk 1-2, Samhita of Rk 3 (pp. 1003-1009)
