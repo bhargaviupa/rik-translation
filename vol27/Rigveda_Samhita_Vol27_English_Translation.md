@@ -7671,6 +7671,160 @@ All the mantras to be recited at this savana are in the Jagatī metre.
 1. The Hotṛ:
 इंद्र ऋभुभिर्वाजवद्भि: समुक्षितं सुतं सोममा वृषस्वा गभस्तोः । धियेषितो मघवन्माशुषो गृहे सौधन्वनेभिः सह मत्साव्नृभिः ॥ (*iṃdra ṛbhubhirvājavadbhi: samukṣitaṃ sutaṃ somamā vṛṣasvā gabhastoḥ | dhiyeṣito maghavanmāśuṣo gṛhe saudhanvanebhiḥ saha matsāvnṛbhiḥ ‖*) (Ṛ. Saṃ. 3-60-5)
 
+### Printed p. 171
+2. For the Maitrāvaruṇa priest: इंद्रावरुणा सुतपाविमं सुतं सोमं पिबतं मद्यं धृतव्रता । युवो रथो अध्वरं देवीतये प्रति स्वसरमुप याति तये ॥ (*iṃdrāvaruṇā sutapāvimaṃ sutaṃ somaṃ pibataṃ madyaṃ dhṛtavratā | yuvo ratho adhvaraṃ devītaye prati svasaramupa yāti taye ‖*) (Ṛ. Saṃ. 6-68-10)
+
+3. For the Brāhmaṇācchaṃsin: इंद्रश्च सोमं पिबतं बृहस्पतेऽस्मिन्यज्ञॆ मंदसाना वृषण्वसू । आ वां विशंत्विंदवः स्वाभुवोऽस्मे रयिं सर्ववीरं नि यच्चतं ॥ (*iṃdraśca somaṃ pibataṃ bṛhaspate 'sminyajñè maṃdasānā vṛṣaṇvasū | ā vāṃ viśaṃtviṃdavaḥ svābhuvo 'sme rayiṃ sarvavīraṃ ni yaccataṃ ‖*) (Ṛ. Saṃ. 4-10-50)
+
+4. For the Potṛ: आ वो वहंतु सप्तयो रघुष्यदो रघुपत्वानः प्रजिगात बाहुभिः । सीदता बर्हिरुरु वः सदस्यतं मादयध्वं मरुतो मध्यो अंधसः ॥ (*ā vo vahaṃtu saptayo raghuṣyado raghupatvānaḥ prajigāta bāhubhiḥ | sīdatā barhiruru vaḥ sadasyataṃ mādayadhvaṃ maruto madhyo aṃdhasaḥ ‖*) (Ṛ. Saṃ. 1-85-6)
+
+5. For the Neṣṭṛ: अमेव नः सहवा आ हि गंतन नि बर्हिषि सदतना रणिष्टन । अथा मंदस्व जुजुषाणो अंधसस्त्वर्देवेर्भिर्जनिभिः सुमद्गणः ॥ (*ameva naḥ sahavā ā hi gaṃtana ni barhiṣi sadatanā raṇiṣṭana | athā maṃdasva jujuṣāṇo aṃdhasastvardeverbhirjanibhiḥ sumadgaṇaḥ ‖*) (Ṛ. Saṃ. 2-36-3)
+
+6. For the Acchāvāka: इंद्राविष्णू पिबतं मध्यो अस्य सोमस्य दस्रा जठरं पृणेथां । आ वामंधांसि मदिराण्यग्मन्नुप ब्रह्माणि शृणुतं हवं मे ॥ (*iṃdrāviṣṇū pibataṃ madhyo asya somasya dasrā jaṭharaṃ pṛṇethāṃ | ā vāmaṃdhāṃsi madirāṇyagmannupa brahmāṇi śṛṇutaṃ havaṃ me ‖*) (Ṛ. Saṃ. 6-69-7)
+
+7. For the Āgnīdhra: इमं स्तोममर्हते जातवेदसे रथमिव सं महेमा मनीषया । भद्रा हि नः प्रमतिरस्य संसद्यन्ने सख्ये मा रिषामा वयं तव ॥ (*imaṃ stomamarhate jātavedase rathamiva saṃ mahemā manīṣayā | bhadrā hi naḥ pramatirasya saṃsadyanne sakhye mā riṣāmā vayaṃ tava ‖*) (Ṛ. Saṃ. 1-44-1) (Ṛ. Saṃ. 1-94-1)
+
+In this way, at every savana, each of these seven officiating priests recites one Ṛk apiece, seven Ṛks in all, and makes the offering. As said before, the offerings are made with mantras in the Gāyatrī metre at the morning savana, with mantras in the Triṣṭubh metre at the midday savana, and with mantras in the Jagatī metre at the third savana. This is the account of the mantras to be recited at the times of the savanas.
+
+For the sūktas to be recited in the unnīyamāna rite connected with this subject, for the mantras to be recited by the respective priests at the morning savana, the midday savana and the third savana, and for further detailed explanations, see Ṛ. Saṃ. Part 15, pages 697-715, where they are set out according to the Aitareya Brāhmaṇa.
+
+### Printed p. 172
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ राजञ्चि॒तं ह॒विस्तेन॑ सोमा॒भि र॑क्ष नः ।  
+> अ॒रा॒ती॒वा मा न॑स्तारीं॒नो च॑ नः॒ किं च॒नाम॑नु॒दिंद्रा॑येंदो॒ परि॑ स्रव ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । राजन् । शृतं । हविः । तेन । सोम । अभि । रक्ष । नः ।  
+> अरातिवा । मा । नः । तारीत् । मो इति । च । नः । किं । चन । अममत् ।  
+> इंद्राय । इंदो इति । परि । स्रव ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उपाकरणोत्सर्जनयोर्मंडलाद्यंतहोमे यत्ते राजन्नित्येषा । सूत्रितं
+> च । यत्ते राजञ्कृतं हविरिति द्वृचाः समानी व आकूतिरित्येका : आ. गृ- ३-५-७ ।
+> इति ॥
+> हे राजन् सर्वेषां कर्मसाधनत्वेन स्वामिन् हे सोम ते त्वदर्थं
+> कृतं पक्वं यद्धविरस्ति ॥ शृतं पाके । पा. ६-१.२७ । इति निष्ठायां निसातित. ॥ तेन
+> हविषा नोऽस्मानभि रक्ष । अभिपालय तस्मात्त्वदभिरक्षितानस्मानरातीवारातिवाणि तु
+> र्नोऽस्मान्मा तारीत् । मा वधीत् । किं च नोस्माकं किं चन किंचदपि धनादिकं
+> शत्रुर्मो आनुमत् । मा हिंसीत् । यदेतदेत्यैः सूक्तैरुक्तं तद्यथास्माकं भवति
+> तथा हे इंदो इंद्राय परि स्रव ' एवं स्वादिष्टयेत्यादिभिरेतदंतैः सूक्तैर्बहुविधं सोममाहात्म्यमभ्यधायि । तस्मादैहिकामुष्मिकफलसिद्धये सोमयाग:
+> करणीय इत्युक्तं भवति ॥
+
+##### Gist of the bhāṣya
+
+The verse यत्ते राजन् (*yatte rājan*) is used in the concluding offering at the end of the maṇḍala, in the upākaraṇa and utsarjana rites. The sūtra says: यत्ते राजञ्कृतं हविरिति द्वृचाः समानी व आकूतिरित्येका (*yatte rājañkṛtaṃ haviriti dvṛcāḥ samānī va ākūtirityekā*) (Ā. Gṛ. 3-5-7). Sāyaṇa explains: O king, i.e. lord of all, since you are the means of all rites; O Soma, whatever oblation is cooked for you, with that oblation protect us, guard us on every side. Therefore, protected by you, let the enemy not harm us, let no enemy destroy us; and let no enemy injure anything of ours, any wealth or the like. Just as what has been said in these sūktas may come to pass for us, so, O Indu, flow for Indra. Thus, in the sūktas ending with this one, beginning with स्वादिष्टयेत्यादिभि (*svādiṣṭayetyādibhi*), the greatness of Soma has been declared in many ways. Hence it is implied that the Soma sacrifice should be performed for the accomplishment of fruits in this world and the next.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lord of all
+- सोम (*soma*)—O Soma
+- ते (*te*)—for you
+- शृतं (*śṛtaṃ*)—cooked
+- यत् हविः (*yat haviḥ*)—whatever oblation there is
+- तेन (*tena*)—with that
+- नः (*naḥ*)—us
+- अभि रक्ष (*abhi rakṣa*)—protect fully
+- अरातीना (*arātīnā*)—our enemies **NOTE**
+- नः (*naḥ*)—us
+
+### Printed p. 173
+- मा तारीत् (*mā tārīt*)—let them not harm
+- नः (*naḥ*)—our wealth also
+- किं चन (*kiṃ cana*)—any enemy
+- मो आममत् (*mo āmamat*)—let him not harm
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, lord of all, with whatever oblation has been cooked for you, protect us fully. Let our enemies not harm us. Let no enemy carry off our wealth. O Soma, flow for Indra's drinking.
+
+##### English translation
+Protect us, royal Soma, with the oblation which has been cooked for you; let no enemy assail us, or harm anything of ours; flow, Indu, for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+The use of this Ṛk यत्ते राजन् (*yatte rājan*) is for the concluding Ṛks of the maṇḍala, in the principal offering of the upākaraṇa and utsarjana rites; this is set out by the sūtra of the Āśvalāyana Gṛhyasūtra, यत्ते राजञ्चितं हविरिति द्वृचाः समानी व आकूतिरित्येका (*yatte rājañcitaṃ haviriti dvṛcāḥ samānī va ākūtirityekā*) (A. Gṛ. 3-5-7) **NOTE**.
+
+इति सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे दाशतय्या नवमे मंडले सप्तमोऽनुवाकः समाप्तं च नवमं मंडलं (*iti sāyaṇācāryaviracite mādhavīye vedārthaprakāśe dāśatayyā navame maṃḍale saptamo 'nuvākaḥ samāptaṃ ca navamaṃ maṃḍalaṃ*)
+
+Here the ninth maṇḍala of the Ṛgveda Saṃhitā, with the Bhāṣya of Śrī Sāyaṇa and with the Kannada translation, is concluded.
+
+ओं तत्सत् (*oṃ tatsat*)
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*)
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) हरिहर (*harihara*)
+
+### Printed p. 174
+Supplementary mantras of the Ninth Maṇḍala. Mantras to be recited at the end of Sūkta 27—
+
+Mantras to be recited at the end of the sūkta—
+
+1. पावमानीः स्वस्त्ययनीः सुदुघा हि धृतश्चुतः । ऋषिभिः संभ्रतो रसो ब्राह्मणेष्टमृतं हितं ॥ (*pāvamānīḥ svastyayanīḥ sudughā hi dhṛtaścutaḥ | ṛṣibhiḥ saṃbhrato raso brāhmaṇeṣṭamṛtaṃ hitaṃ ‖*)
+2. पावमानिर्दिशंतु न इमं लोकमथो अमुं । कामान्समर्थयंतु नो देवीर्देवैः समाहिताः ॥ (*pāvamānirdiśaṃtu na imaṃ lokamatho amuṃ | kāmānsamarthayaṃtu no devīrdevaiḥ samāhitāḥ ‖*)
+3. येन देवाः पवित्रेणात्मानं पुनते सदा । तेन सहस्रधारेण पावमान्यः पुनंतु मां ॥ (*yena devāḥ pavitreṇātmānaṃ punate sadā | tena sahasradhāreṇa pāvamānyaḥ punaṃtu māṃ ‖*)
+4. प्राजापत्यं पवित्रं शतोद्यामं हिरण्मयं । तेन ब्रह्मविदो वयं पूतं ब्रह्म पुनीमहे ॥ (*prājāpatyaṃ pavitraṃ śatodyāmaṃ hiraṇmayaṃ | tena brahmavido vayaṃ pūtaṃ brahma punīmahe ‖*)
+5. इंद्रः पुनीति सह मा पुरातु सोमः स्वस्ता वरुणः समिच्या । यमो राजा प्रमृणाभिः पुनातु मा जातवेदा मूर्जयंत्या पुनातु ॥ (*iṃdraḥ punīti saha mā purātu somaḥ svastā varuṇaḥ samicyā | yamo rājā pramṛṇābhiḥ punātu mā jātavedā mūrjayaṃtyā punātu ‖*)
+6. ऋषयस्तु तपस्तेपुः सर्वॆ स्वर्गजिगीषवः । तपंतस्तपसोग्रेण पावमानीर्यचोऽब्रुवन् ॥ (*ṛṣayastu tapastepuḥ sarvè svargajigīṣavaḥ | tapaṃtastapasogreṇa pāvamānīryaco 'bruvan ‖*)
+7. यन्ने गर्भे वसतः पापमुग्रं यज्जायमानस्य च किंचिदन्यत् । जातस्य च यच्चापि च वर्धतो मे तत्पावमानीभिरहं पुनामि ॥ (*yanne garbhe vasataḥ pāpamugraṃ yajjāyamānasya ca kiṃcidanyat | jātasya ca yaccāpi ca vardhato me tatpāvamānībhirahaṃ punāmi ‖*)
+8. माता पित्रोर्यन्न कृतं वचो मे यत्सावरं जंगममाबभूव । विश्वस्य तत्प्रहृषितं वचो मे तत्पावमानीभिरहं पुनामि ॥ (*mātā pitroryanna kṛtaṃ vaco me yatsāvaraṃ jaṃgamamābabhūva | viśvasya tatprahṛṣitaṃ vaco me tatpāvamānībhirahaṃ punāmi ‖*)
+9. गोघ्नात्तस्वरत्वात् स्त्रीवधाद्यच्च किल्पिषं । पापकं च चरणेभ्यस्तापमानीभिरहं पुनामि ॥ ९ ॥ ब्रह्मवधात्सुरापानात्सर्णस्तेयाद्वृषलिगमनमैथुनसंगमात् । गुरोर्दाराधिगमनाच्च तत्पावमानीभिरहं पुनामि ॥ १० ॥ बालघ्नान्मातृपितृवधाद्दूमितस्करात्सर्ववर्णगमनमैथुनसंगमात् । पापेभ्यश्च प्रतिग्रहात्सद्यः प्रहरति सर्वदुष्कृतं तत्पावमानीभिरहं पुनामि ! क्रयविक्रयाद्योनिदोषाद्दक्षाद्योज्यात्मतिग्रहात् असंभोजनाच्छापि नृशंसं तत्पावमानीभिरहं पुनामि । १२ ॥ दुर्यष्टं दुरधीतं पापं यच्चाज्ञानतो कृतं । अयाजिताश्च संयाज्यास्तत्पावमानीभिरहं पुनामि ॥ १३ ॥ अमंत्रमन्नं यत्किंचिद्दूयते च हुताशने । संवत्सरकृतं पापं तत्पावमानीभिरहं पुनामि ॥ (*goghnāttasvaratvāt strīvadhādyacca kilpiṣaṃ | pāpakaṃ ca caraṇebhyastāpamānībhirahaṃ punāmi ‖ 9 ‖ brahmavadhātsurāpānātsarṇasteyādvṛṣaligamanamaithunasaṃgamāt | gurordārādhigamanācca tatpāvamānībhirahaṃ punāmi ‖ 10 ‖ bālaghnānmātṛpitṛvadhāddūmitaskarātsarvavarṇagamanamaithunasaṃgamāt | pāpebhyaśca pratigrahātsadyaḥ praharati sarvaduṣkṛtaṃ tatpāvamānībhirahaṃ punāmi ! krayavikrayādyonidoṣāddakṣādyojyātmatigrahāt asaṃbhojanācchāpi nṛśaṃsaṃ tatpāvamānībhirahaṃ punāmi | 12 ‖ duryaṣṭaṃ duradhītaṃ pāpaṃ yaccājñānato kṛtaṃ | ayājitāśca saṃyājyāstatpāvamānībhirahaṃ punāmi ‖ 13 ‖ amaṃtramannaṃ yatkiṃciddūyate ca hutāśane | saṃvatsarakṛtaṃ pāpaṃ tatpāvamānībhirahaṃ punāmi ‖*)
+10. ब्रह्मवधात्सुरापानात्सर्णस्तेयाद्वृषलिगमनमैथुनसंगमात् । गुरोर्दाराधिगमनाच्च तत्पावमानीभिरहं पुनामि ॥ (*brahmavadhātsurāpānātsarṇasteyādvṛṣaligamanamaithunasaṃgamāt | gurordārādhigamanācca tatpāvamānībhirahaṃ punāmi ‖*)
+11. बालघ्नान्मातृपितृवधाद्दूमितस्करात्सर्ववर्णगमनमैथुनसंगमात् । पापेभ्यश्च प्रतिग्रहात्सद्यः प्रहरति सर्वदुष्कृतं तत्पावमानीभिरहं पुनामि (*bālaghnānmātṛpitṛvadhāddūmitaskarātsarvavarṇagamanamaithunasaṃgamāt | pāpebhyaśca pratigrahātsadyaḥ praharati sarvaduṣkṛtaṃ tatpāvamānībhirahaṃ punāmi*)
+12. क्रयविक्रयाद्योनिदोषाद्दक्षाद्योज्यात्मतिग्रहात् असंभोजनाच्छापि नृशंसं तत्पावमानीभिरहं पुनामि । (*krayavikrayādyonidoṣāddakṣādyojyātmatigrahāt asaṃbhojanācchāpi nṛśaṃsaṃ tatpāvamānībhirahaṃ punāmi |*)
+
+### Printed p. 175
+13. दुर्यष्टं दुरधीतं पापं यच्चाज्ञानतो कृतं । अयाजिताश्च संयाज्यास्तत्पावमानीभिरहं पुनामि ॥ (*duryaṣṭaṃ duradhītaṃ pāpaṃ yaccājñānato kṛtaṃ | ayājitāśca saṃyājyāstatpāvamānībhirahaṃ punāmi ‖*)
+14. अमंत्रमन्नं यत्किंचिद्दूयते च हुताशने । संवत्सरकृतं पापं तत्पावमानीभिरहं पुनामि ॥ (*amaṃtramannaṃ yatkiṃciddūyate ca hutāśane | saṃvatsarakṛtaṃ pāpaṃ tatpāvamānībhirahaṃ punāmi ‖*)
+15. ऋतस्य योनयोऽमृतस्य धाम विश्वा देवेभ्यः पुण्यगंधाः । ता न आपः प्रवहंतु पापं शुद्धागच्छामि सुकृतामु लोकं तत्सावमानीभिरहं पुनामि । (*ṛtasya yonayo 'mṛtasya dhāma viśvā devebhyaḥ puṇyagaṃdhāḥ | tā na āpaḥ pravahaṃtu pāpaṃ śuddhāgacchāmi sukṛtāmu lokaṃ tatsāvamānībhirahaṃ punāmi |*)
+16. पावमानीः स्वस्त्ययनीयाभिर्गच्छति नांदनं । पुण्यांश्च भक्षान्भक्षयत्यमृतत्वं च गच्छति ॥ (*pāvamānīḥ svastyayanīyābhirgacchati nāṃdanaṃ | puṇyāṃśca bhakṣānbhakṣayatyamṛtatvaṃ ca gacchati ‖*)
+17. पावमानीः पित्थान्देवानाध्यायेद्यश्च सरस्वतीं । पित्थांस्तस्योप वर्तेत क्षीरं सर्पिर्मधूदकं ॥ (*pāvamānīḥ pitthāndevānādhyāyedyaśca sarasvatīṃ | pitthāṃstasyopa varteta kṣīraṃ sarpirmadhūdakaṃ ‖*)
+18. पावमानं परं ब्रह्म शुक्रं ज्योतिः सनातनं । ऋषींस्तस्योप तिष्ठेत क्षीरं सर्पिर्मधूदकं ॥ (*pāvamānaṃ paraṃ brahma śukraṃ jyotiḥ sanātanaṃ | ṛṣīṃstasyopa tiṣṭheta kṣīraṃ sarpirmadhūdakaṃ ‖*)
+19. पावमानं परं ब्रह्म ये पठंति मनीषिणः । सप्त जन्म भवेद्विप्रो धनाढ्यो वेदपारगः ॥ (*pāvamānaṃ paraṃ brahma ye paṭhaṃti manīṣiṇaḥ | sapta janma bhavedvipro dhanāḍhyo vedapāragaḥ ‖*)
+20. दशोत्तराण्यचांश्चैव पावमानीः शतानि षट् । एतज्जु ह्वन्जपेन्मंत्रं घोरमृत्युधयं हरेत् ॥ (*daśottarāṇyacāṃścaiva pāvamānīḥ śatāni ṣaṭ | etajju hvanjapenmaṃtraṃ ghoramṛtyudhayaṃ haret ‖*)
+21. एतत्सुण्यं पापहरं रोगमृत्युभयापहं । पठतां शृण्वतां चैव ददाति परमां गतिं ॥ (*etatsuṇyaṃ pāpaharaṃ rogamṛtyubhayāpahaṃ | paṭhatāṃ śṛṇvatāṃ caiva dadāti paramāṃ gatiṃ ‖*)
+
+Supplementary mantra to be recited at the end of the 5th Ṛk of the 3rd sūkta—
+
+1. इळ्ळैव वामनु वस्तां धृतेन यस्याः पदे पुनते देवयंतः । धृतपदी शक्वरी सोमपृष्ठोप यज्ञमस्थित वैश्वदेवी ॥ (*iḷḷaiva vāmanu vastāṃ dhṛtena yasyāḥ pade punate devayaṃtaḥ | dhṛtapadī śakvarī somapṛṣṭhopa yajñamasthita vaiśvadevī ‖*)
+2. वैश्वदेवी पुनती देव्यागाद्यस्यामिमा बह्वस्तन्वो वीतपृष्ठाः । तया मदंतः सधमादेषु वयं स्याम पतयो रयाणां ॥ (*vaiśvadevī punatī devyāgādyasyāmimā bahvastanvo vītapṛṣṭhāḥ | tayā madaṃtaḥ sadhamādeṣu vayaṃ syāma patayo rayāṇāṃ ‖*)
+
+Supplementary mantras to be recited at the end of the ninth maṇḍala, that is, at the end of the 114th sūkta—
+
+1. यत्र तत्सरमं पदं विष्णोर्लोके महीयते । देवैः सुकृतकर्मभिस्तत्र नाममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra tatsaramaṃ padaṃ viṣṇorloke mahīyate | devaiḥ sukṛtakarmabhistatra nāmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+
+### Printed p. 176
+2. यत्र तत्परमाप्यं भूतानामधिपतिं । भावभावी च योगीश्च तत्र मामृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra tatparamāpyaṃ bhūtānāmadhipatiṃ | bhāvabhāvī ca yogīśca tatra māmṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+3. यत्र लोकास्तनूत्यजः श्रद्धया तपसा जिताः । तेजश्च यत्र ब्रह्म च तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra lokāstanūtyajaḥ śraddhayā tapasā jitāḥ | tejaśca yatra brahma ca tatra māmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+4. यत्र देवा महात्मानः सेंद्राश्च समरुद्धणाः । ब्रह्मा च यत्र विष्णुश्च तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra devā mahātmānaḥ seṃdrāśca samaruddhaṇāḥ | brahmā ca yatra viṣṇuśca tatra māmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+5. यत्र गंगा च यमुना च यत्र प्राची सरस्वती । यत्र सोमेश्वरो देवस्तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra gaṃgā ca yamunā ca yatra prācī sarasvatī | yatra someśvaro devastatra māmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+6. यत्र तद्विष्णुर्महीयते नराणामधिपतिं । यत्र शंखचक्रगदादरस्मरणं मुक्तिश्च तत्र माममृतं कृधींद्रायेंदो परि स्रव ॥ (*yatra tadviṣṇurmahīyate narāṇāmadhipatiṃ | yatra śaṃkhacakragadādarasmaraṇaṃ muktiśca tatra māmamṛtaṃ kṛdhīṃdrāyeṃdo pari srava ‖*)
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+Here the ninth book is concluded.
+
+शुभं भूयात् (*śubhaṃ bhūyāt*) मंगळं (*maṃgaḷaṃ*) श्री (*śrī*) श्री महागणाधिपतये नमः (*śrī mahāgaṇādhipataye namaḥ*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुकप्रमे । यं नत्वा कृतकृत्या स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmukaprame | yaṃ natvā kṛtakṛtyā syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्यसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśyasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda Saṃhitā with the Bhāṣya of Sāyaṇa. The Tenth Maṇḍala.
+
+Introduction.
+
+It has already been said that the Ṛgveda has ten maṇḍalas in all. The first maṇḍala and the last, the tenth, resemble each other in many respects. In both these maṇḍalas there are many different seers. Therefore, since the seers of the first maṇḍala are the seers of about a hundred or more Ṛks each, the seers of that maṇḍala are well known as śatarcins. In this tenth maṇḍala there are long sūktas at the beginning and after, and small sūktas at the end, so it is well known as the maṇḍala of great sūktas and small sūktas. In both maṇḍalas the number of sūktas is 191. In both, various deities are praised. In these and similar matters the two maṇḍalas resemble each other. But in this tenth maṇḍala, besides many sūktas useful for śrauta and smārta rites, there are also many sūktas that set forth profound philosophical reflection. Such sūktas
+
 ---
 
-**Progress note:** Done through printed p. 170. pp. 165-170 (batch API)
+**Progress note:** Done through printed p. 176. pp. 171-176 (batch API)
