@@ -9542,6 +9542,220 @@ Concealed by means of coverings, protected by the Barhats, O Soma, you abide lis
 
 बार्हतैः सोम रक्षितः (*bārhataiḥ soma rakṣitaḥ*)—Soma, who was in heaven, was guarded by seven Gandharvas. They are called the Soma-guardians. Snāna, Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu are those seven Soma-guardians. When Gāyatrī, in the form of a hawk, was bringing Soma to the earth, Kṛśānu, one of the Soma-guardians mentioned above, became angry and took aim and struck with an arrow the hawk that was carrying Soma away. By this a part of the hawk's wing was cut off and wounded. In some places it is said that the nail (claw) of this bird's left foot was cut off. It changed into the form of a porcupine and turned into the form of a quill. The blood that poured from it
 
+### Printed p. 363
+
+became a cow, and the skeleton turned into the form of a serpent. But it did not become one that spits poison and bites. In the same way the wing became a bat and the sinew an earthworm, and the form of the arrow came to be of this kind. **NOTE**
+
+आच्छद्विधानैः गुपितः (*ācchadvidhānaiḥ gupitaḥ*)—by means of coverings; concealed by coverings such as cloths. When the Soma creepers are brought from the mountains and other places to the sacrificial ground, those creepers are tied with a rope, put on carts called havirdhāna, covered with a covering (a cloth) called chadi so that they are hidden, and brought to the sacrificial ground. In this matter—
+
+शिक्षमाणस्य देवेति शिक्षते वा एष यो यजते क्रतुं दक्षं वरुण सग्ंशिशाधि वीर्यं प्रज्ञानं वरुण सग्ंशिशाधीत्येव तदाह ॥ (*śikṣamāṇasya deveti śikṣate vā eṣa yo yajate kratuṃ dakṣaṃ varuṇa sagṃśiśādhi vīryaṃ prajñānaṃ varuṇa sagṃśiśādhītyeva tadāha ‖*)
+
+—such a Vedic sentence exists. As long as the Soma creepers are tied with a rope and covered with a cloth, they are regarded as being in the possession of Varuṇa. Varuṇa is prayed to for removing this binding and taking off the cloth. The matter of the covering cloth is spoken of in the present Ṛk by the words अच्छद्विधानैः गुपितः (*acchadvidhānaiḥ gupitaḥ*).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्त्वा॑ देव प्र॒पिबं॑ति॒ तत॒ आ प्या॑यसे॒ पुनः॑ ।  
+> वा॒युः सोम॑स्य रक्षि॒ता समा॑नां॒ मास॒ आकृ॑तिः॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । त्वा । देव । प्रपिबंति । ततः । आ । प्यायसे । पुनरिति ।  
+> वायुः । सोमस्य । रक्षिता । समानां । मासः । आकृतिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव सोम यद्यदा त्वा त्वां प्रपिबंत्योषधिरूपं त्रिष्टपि सवनेषु
+> ततोऽनंतरमेव पुनरा प्यायसे । आ प्यायस्व सं । ऋ. १-९१-१६ । इति प्रातःसवने
+> सं ते पयांसि । ऋ. १-९१-१८ । इत्युत्तरयोः सवनयोराप्यायसे । किंच
+> वायुस्तव सोमस्य रक्षिता । यथा न शुष्यति तथा । वायुः शोषकः प्रसिद्धो
+> लोके । किंच मासः । परिमीयत इति मासः सोमः । स च समानां संवत्सराणामाकृतिराकर्ता व्यवच्छेदको भवति । संवत्सरे संवत्सरे वसंतादिकालॆःष्टनु-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O divine Soma, when they drink you, in the form of the plant, at the pressings, immediately afterwards you swell up again. For this he cites Ṛ. 1-91-16, आ प्यायस्व सं (*ā pyāyasva saṃ*), for the morning pressing, and Ṛ. 1-91-18, सं ते पयांसि (*saṃ te payāṃsi*), for the two later pressings, as the places where this swelling is stated. Further, Vāyu is your protector, in the sense that you do not dry up; for it is well known in the world that the wind is what dries things. Further, māsa means that which is measured, and that is Soma. He is the maker, the divider, of the years: since in every year the rites that belong to the seasons beginning with spring are carried out **NOTE**
+
+### Printed p. 364
+
+> ष्ठीयमानत्वाद्वसंते वसंते ज्योतिषा यजेतेति श्रुतेः । यद्वा । सोमाधारवनस्पतिविकारग्रहद्वारेण वायुः सोमरसस्य रक्षिता भवति । वायुगोपा वसस्पतय
+> इति श्रुतेः । एवं वल्लीरूपसोमपक्षे योजना ॥ चंद्रपक्षे तु हे देव सोम
+> यद्यदा त्वा त्वां प्रपिबंति रश्मयोऽपरपक्षे ततोऽनंतरमेव पूर्वपक्षे पुनरा
+> प्यायसे । वायुश्च सोमस्य तव रक्षिता । वाय्वधीनत्वाच्चंद्रगतेः । किंच समानां
+> संवत्सराणां मासः ॥ षष्ठैकवचनमेतत् ॥ मासस्याकृतिश्च कर्ता त्वं चासि ।
+> एकैककलाक्षयसंवृद्धिभ्यां हि मासः पूर्यते तैः संवत्सर इति ॥
+
+##### Gist of the bhāṣya
+
+(The sentence continues.) ...in accordance with the śruti that one should sacrifice with the Jyotis in each spring. Or else: through the vessels (grahas) that are modifications of the wood that holds Soma, Vāyu becomes the protector of the Soma juice, according to the śruti that the lords of the forest have Vāyu as their protector. This is the construction for the Soma that is a creeper. On the view that Soma is the moon: O divine Soma, when the rays drink you in the dark fortnight, immediately afterwards you swell up again in the bright fortnight. And Vāyu is your protector, since the course of the moon depends on Vāyu. Further, you are the maker of the form of the month of the years; for the month is completed by the loss and gain of one digit after another, and by those the year.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O divine Soma
+- यत् (*yat*)—when
+- त्वा (*tvā*)—you
+- प्र पिबंति (*pra pibaṃti*)—the gods drink
+- ततः (*tataḥ*)—immediately after that
+- पुनः (*punaḥ*)—again
+- आ प्यायसे (*ā pyāyase*)—you regain vigour
+- वायुः (*vāyuḥ*)—the wind
+- सोमस्य (*somasya*)—of Soma
+- रक्षिता (*rakṣitā*)—is the protector
+- मासः (*māsaḥ*)—Soma
+- समानां (*samānāṃ*)—for the years
+- आकृतिः (*ākṛtiḥ*)—is the one who brings about the ordering of time
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, when the gods drink you, immediately afterwards you regain vigour again. The wind is the protector of Soma. Soma is the one who brings about the ordering of time for the years.
+
+##### English translation
+When, O god, they quaff you, then you renew yourself again ;
+Vayu is the guardian of Soma, the maker of years and months.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given a nirvacana, in order to explain the two kinds of meaning, one referring to the plant and the other to the moon—
+
+यत्त्वा देव प्रपिबंति तत आप्यायसे पुनरिति नाराशंसानभिप्रेत्य पूर्वपक्षापरपक्षाविति वा वायुः सोमस्य रक्षिता वायुमस्य रक्षितारमाह साहचयाद्रसहरणाद्वा । समानां संवत्सराणां मास आकृतिः सोमो रूपविशेषैरोषधिश्चंद्रमा वा ॥ (*yattvā deva prapibaṃti tata āpyāyase punariti nārāśaṃsānabhipretya pūrvapakṣāparapakṣāviti vā vāyuḥ somasya rakṣitā vāyumasya rakṣitāramāha sāhacayādrasaharaṇādvā | samānāṃ saṃvatsarāṇāṃ māsa ākṛtiḥ somo rūpaviśeṣairoṣadhiścaṃdramā vā ‖*)
+
+(Ni. 11-5)
+
+### Printed p. 365
+
+O Soma, the priests, the sacrificer and others drink the Soma juice at all three pressings. Yet you gain growth and make those who have drunk you satisfied. This matter—
+
+आ प्यायस्व समेतु ते विश्वतः सोम वृष्ट्यं । भवा वाजस्य संगथे ॥ (*ā pyāyasva sametu te viśvataḥ soma vṛṣṭyaṃ | bhavā vājasya saṃgathe ‖*)
+
+(Ṛ. Saṃ. 1-91-1)
+
+सं ते पयांसि समु यंतु वाजाः सं वृष्णान्यभिमातिषाहः । आप्यायमानो अमृताय सोम दिवि श्रवांस्युत्तमानि धिष्ट ॥ (*saṃ te payāṃsi samu yaṃtu vājāḥ saṃ vṛṣṇānyabhimātiṣāhaḥ | āpyāyamāno amṛtāya soma divi śravāṃsyuttamāni dhiṣṭa ‖*)
+
+(Ṛ. Saṃ. 1-91-18)
+
+—is clearly stated in these Ṛks. It is said in many places that by drinking Soma delight arises in the mind and there is satisfaction. As to the statement that Vāyu is the protector of Soma: Vāyu, always blowing near the Soma creeper, is its companion, that is, he stays close by. Further, although the nature of the wind is to dry up (parch) the juice, it does not do so in the case of Soma; therefore Vāyu is said to be the protector of Soma. Now as to the phrase समानां मास आकृति (*samānāṃ māsa ākṛti*): in herbs, creepers and the like, at certain times some changes occur in the form (ākṛti) or shapes of the herbs and creepers. Since this change occurs only once a year, it should be understood that this rule follows the measure of the year. This is the explanation of the meaning with reference to the herb (the Soma creeper).
+
+Now in the meaning with reference to the moon: since the gods drink the moon (the nectar) through the rays in the dark fortnight, the moon, though it wanes, goes on growing again in the bright fortnight. Since in the atmosphere the moon and the wind are companions, the wind is said to be the protector of the moon. And from the growth and waning of the moon the bright and dark fortnights arise, and that period is called a month (māsa). This month is only a part of the year; twelve such months together make up the form (ākṛti) or shape of one year, and so that period is called a year (saṃvatsara). This is the explanation of the meaning with reference to the moon.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रैभ्या॑सीदनु॒देयि॑ नाराशं॒सी न्यूच॑नी ।  
+> सू॒र्याया॑ भ॒द्रमिद्वासो॒ गाथ॑य्यति॒ परि॑ष्कृतं ॥६॥
+
+### Printed p. 366
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रैभी । आसीत् । अनुदेयिा । नाराशंसी । निओचनी ।  
+> सूर्यायाः । भद्रं । इत् । वासः । गाथया । एति । परिकृतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आभि: सूर्या स्वविवाहमस्तौदित्युक्तं । सूर्या सावित्री ब्रूते । रैभी ।
+> रैभ्यः काश्चनर्चः । रैभीः शंसति रेभंतो वै देवाश्चर्ययश्च स्वर्गं लोकमायन्नित्यादिब्राह्मणविहिता रैभ्यः । ऐ. ब्रा. ६-३२ । सा रैभ्यनुदेय्यासीत् । दीयमानवधूविनोदनायानुदीयमाना वयस्सासीत् । तथा नाराशंसी । प्राता रत्नं ।
+> ऋ. १-१२५-१ । इत्यादिका मनुष्याणां स्तुतयो नाराशंस्यः । सा नाराशंसी
+> न्योचनी । उचतिः सेवाकर्मा । सा वधूशुश्रूषार्थं दीयमाना दास्यभवत् ।
+> सूर्याया मम भद्रं वासो विचित्रं दुकूलादिकमाच्छादनयोग्यं वस्त्रं
+> गाथया परिष्कृतमलंकृतमेति । गाथा गीयत इत्यादिब्राह्मणोक्ता गाथा । तया
+> गाथया यत्परिष्कृतमस्ति तद्वासोऽभवदिति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that by these verses Sūryā praised her own wedding; Sūryā Sāvitrī speaks. Raibhī: the Raibhīs are certain Ṛks, those enjoined by the Brāhmaṇa in the passage that begins "one recites the Raibhī verses; the gods and the seers, uttering the sound rebha, went to the world of heaven" (Ai. Brā. 6-32). That Raibhī was anudeyī: as an entertainment for the bride who was being given away, she was the girl companion given along with her. Likewise Nārāśaṃsī: the praises of men, beginning with "prātā ratnam" (Ṛ. 1-125-1) and the like, are Nārāśaṃsīs. That Nārāśaṃsī was nyocanī; the root uc means service. Given for the service of the bride, she became a maidservant. Of me, Sūryā, the lovely garment, a variegated silk cloth or the like, a cloth fit for covering, is adorned (parikṛta) by the gāthā. The gāthā is the gāthā described in the Brāhmaṇa as "that which is sung"; that which is adorned by that gāthā became the garment.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रैभी (*raibhī*)—(at the time of my wedding) the hymns called Raibhī
+- अनुदेयी (*anudeyī*)—as a companion to me
+- आसीत् (*āsīt*)—was
+- नाराशंसी (*nārāśaṃsī*)—the mantras called Nārāśaṃsī
+- न्नोचनी (*nnocanī*)—was my servant
+- सूरायाः (*sūrāyāḥ*)—of me, who bear the name Sūryā
+- भद्रं (*bhadraṃ*)—auspicious
+- वासः (*vāsaḥ*)—the garment
+- गाथया (*gāthayā*)—by the gāthā (the Sāma chant)
+- परिष्कृतं एति (*pariṣkṛtaṃ eti*)—is adorned
+
+##### भावार्थ (Bhāvārtha)
+
+(At the time of my wedding) the hymns called Raibhī were my companion. The mantra called Nārāśaṃsī was my servant. My auspicious garment, I who bear the name Sūryā, is adorned by the gāthā (the Sāma chant).
+
+##### English translation
+Raibhi was her companion; Narashamsi her slave; Surya's lovely dress was adorned by Gatha.
+
+##### विशेषविषयगळु (Special Topics)
+
+Sūryā Devī, describing her own wedding herself, has said of herself that the hymn called Raibhī is her companion, that the mantra called Nārāśaṃsī is her servant, and that the Sāma-chant mantra called Gāthā is her garment,
+
+### Printed p. 367
+
+and so on. The nature of the mantras Raibhī and Nārāśaṃsī is described in the Aitareya Brāhmaṇa as follows—
+
+रैभीः शंसति । रेभंतो वै देवाश्च ऋषयश्च स्वर्गं लोकमायंस्तथैवैतद्यजमाना रेभंत एव स्वर्गं लोकं यंति ॥ (*raibhīḥ śaṃsati | rebhaṃto vai devāśca ṛṣayaśca svargaṃ lokamāyaṃstathaivaitadyajamānā rebhaṃta eva svargaṃ lokaṃ yaṃti ‖*)
+
+(Ai. Brā. 30-32)
+
+The mantras that contain the word rebha are called Raibhīḥ. The three Ṛks in the Atharvaveda that begin वचस्व रेभ वचस्व (*vacasva rebha vacasva*) (Atharva. 20-127-4, 5, 6) are called Raibhī mantras. **NOTE** In former times, when the gods and the seers performed the sacrifice, they went to the world of heaven reciting these Raibhī mantras loudly. Therefore the sacrificers who recite the Raibhī mantras loudly go to the world of heaven. In the sacrifice called Pṛṣṭha-ṣaḍaha, when the priest called Brāhmaṇācchaṃsin has to recite the Śilpa-śastra mantras, he must recite certain mantras, the Nārāśaṃsīḥ and Raibhīḥ, that stand in the khila-sūktas named Kuntāpa. In the present Ṛk two mantras, Raibhīḥ and Nārāśaṃsīḥ, are indicated. Sūryā Devī has said of herself that these three mantras called Raibhī are her companion. In the same way—
+
+नाराशंसीः शंसति प्रजा वै नरो वाक्यंसः प्रजास्वेव तद्वाचं ददाति तस्मादिमाः प्रजा वदत्यो जायंते य एवं वेद यदेव नाराशंसी३ः शंसंतो वै देवाश्च ऋषयश्च स्वर्गं लोकमायंस्तथैवैतद्यजमानाः शंसंत एव स्वर्गं लोकं यंति ॥ (*nārāśaṃsīḥ śaṃsati prajā vai naro vākyaṃsaḥ prajāsveva tadvācaṃ dadāti tasmādimāḥ prajā vadatyo jāyaṃte ya evaṃ veda yadeva nārāśaṃsī3ḥ śaṃsaṃto vai devāśca ṛṣayaśca svargaṃ lokamāyaṃstathaivaitadyajamānāḥ śaṃsaṃta eva svargaṃ lokaṃ yaṃti ‖*)
+
+(Ai. Brā. 30.32)
+
+The three Ṛks in the Atharvaveda that begin इदं जना उपश्रुत (*idaṃ janā upaśruta*) (Atha. 20-127-1, 2, 3) are called Nārāśaṃsī mantras. **NOTE** Because this contains the praise of the deity Narāśaṃsa, the mantra has received this name. Here narā means (men) children, and śaṃsaḥ means speech. By placing speech in the children, the children become able to speak. To the man who knows this, children who are well skilled in speaking are born. In former times the gods and the seers, when they performed the sacrifice, went to the world of heaven reciting these mantras called Nārāśaṃsī. Therefore it is said that the sacrificers who recite these Nārāśaṃsī Ṛks go to heaven. In the present Ṛk Sūryā Devī has said of herself that these Nārāśaṃsī mantras are her servant. At the time of the wedding the bride must have a female friend; that friend is the mantra called Raibhī. Likewise the maidservant who is sent along with the bride for her service is this mantra called Nārāśaṃsī,
+
+### Printed p. 368
+
+and the Sāma mantra called Gāthā is the silk-bordered cloth for the adornment of the bride (herself): these three matters Sūryā Devī herself has stated in the present Ṛk.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चित्ति॑रा उप॒बर्ह॑णं॒ चक्षु॑रा अ॒भ्यंज॑नं ।  
+> दौर्भूमिः॒ कोश॑ आसी॒द्यदया॑त्सू॒र्या पतिं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चित्तिः । आः । उपबर्हणं । चक्षुः । आः । अभिअंजनं ।  
+> द्याः । भूमिः । कोशः । आसीत् । यत् । अयात् । सूर्या । पतिं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चित्तिर्देवतोपबर्हणमाः । आसीत् । चक्षुरभ्यंजनमाः । आसीत् । तथा हि ।
+> वृत्रस्य कनीनिका पराशतत्रिककुन्नामपर्वते । तेन त्रैककुदेनांजनसजातीयेन
+> चक्षुषी आंजते । तच्चक्षुरेवांजनमासीदिति । द्यौश्च भूमिश्च कोश आसीत् ।
+> कोशस्थानीये अभूतां । यद्यदा सूर्या पतिं स्वकीयं नवभर्तारं सोम.
+> मयात् अगच्छत् तद्वैवमुपकरणान्यासन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the deity Citti was the pillow; the word āḥ (was). The eye was the collyrium. This is so because Vṛtra's eye-pupil fell away at the mountain named Trikakut, and with that Traikakuda collyrium, which is of the same kind as ordinary collyrium, people anoint the eyes; that very eye was the collyrium. Heaven and earth were the box (kośa); the two became what stands in the place of a box. When Sūryā went to her own new husband, Soma, these things were the accessories. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- सूर्या (*sūryā*)—Sūryā
+- पतिं (*patiṃ*)—to her husband Soma
+- अयात् (*ayāt*)—went, then
+- चित्तिः (*cittiḥ*)—the deity called Citti (the mind)
+- उपबर्हणं (*upabarhaṇaṃ*)—as a pillow
+- आः (*āḥ*)—became
+- चक्षुः (*cakṣuḥ*)—the eye
+- अभ्यजनं (*abhyajanaṃ*)—as the collyrium of the eye
+- आः (*āḥ*)—became
+- द्यौः भूमिः (*dyauḥ bhūmiḥ*)—heaven and earth
+- कोशः (*kośaḥ*)—as a box
+- आसीत् (*āsīt*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+When Sūryā went newly to her husband, the deity called Citti (the mind) became the pillow. The eye became the collyrium (black, kohl). Heaven and earth became the box.
+
+##### English translation
+Chitti (mind) was the pillow, the Eye was the collyriaum : heaven and earth were the box when Surya went to her husband.
+
 ---
 
-**Progress note:** Done through printed p. 362. Ṛks 2-4 (pp. 356-362): Pada, bhāṣya, commentary, Special Topics on nakṣatras and Soma
+**Progress note:** Done through printed p. 368. Sukta 85 Rks 5-7, bhashya, special topics (Yaska, Aitareya Brahmana)
