@@ -26336,6 +26336,237 @@ They (the Angirasas) go in all directions calling (upon Prajapati), half of them
 
 > अप॑श्यं॒ ग्रामं॒ वह॑मानमा॒राद॑च॒क्रया॑ स्व॒धया॒ वर्त॑मानं ।
 
+### Printed p. 740
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिष॑क्त्य॒र्यः प्र यु॒गा जना॑नां स॒द्यः शि॒श्ना प्र॑मिना॒नो नवी॑यान् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपश्यं । ग्रामं । वहमानं । आरात् । अचक्रया । स्वधया । वर्तमानं ।  
+> सिसक्ति । अर्यः । प्र । युगा । जनानां । सद्यः । शिश्ना । प्रमिनानः । नवीयान् । १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपश्यं । वसुक्रोऽहं प्रजापतिरूपमिंद्रं सम्यग्ज्ञानेन दृष्टवानस्मि ।
+> कीदृशं । ग्रामं ग्रामभूतं संघं वहमानं वाहयंतं । सृजंतमित्यर्थः ।
+> कुतः । आराद्दूरात् । उपादानकारणात्पकृतित इत्यर्थः । अचक्रया चक्रवर्जितया
+> रथहीनया स्वधया स्वयमात्मानं धारयंत्या सेनया वर्तमानवागच्छंतं ।
+> एवंभूतमपश्यमित्यर्थः । किंचार्यः सर्वस्य स्वामींद्रो जनानां यजमानानां
+> कार्यत्वेन संबंधिनो युगा युगानि यज्ञकालविशेषान् सिषक्ति । प्रकर्षण
+> सेवते । कीदृशः । सद्यस्तदानीमेव शिश्ना शिश्नानि । शिश्नं श्नथतेरिति निर्वचनात् ।
+> नि. ४-१९ । श्नथित्कृणि ताडयित्कृणि राक्षसादिवृंदानि प्रमिनानः प्रकर्षण हिंसन्नवीयाञ्यारीरेण च बलपौरुषनयनादिभिश्च नवतरः ॥
+
+##### Gist of the bhāṣya
+
+Vasukra says: "I have seen Indra, who has the form of Prajāpati, with right knowledge." Of what kind is he? He is ग्रामं (*grāmaṃ*), the host (saṃgha) that is like a village, and he is वहमानं (*vahamānaṃ*), causing it to move, that is, creating it. From where? आरात् (*ārāt*) means from afar, that is, from the material cause, from Prakṛti. He is moving अचक्रया (*acakrayā*), with a wheelless, chariotless army that sustains itself by itself (स्वधया (*svadhayā*)). "I saw such a one" is the meaning. Further, अर्यः (*aryaḥ*), Indra, the lord of all, attaches to the people (जनानां (*janānāṃ*)), the sacrificers, the युगा (*yugā*), the yugas, that is, particular times for sacrifice, which relate to them as what is to be performed; he सिषक्ति (*siṣakti*), he serves them forth. सद्यः (*sadyaḥ*) means at that very moment. शिश्ना (*śiśnā*) means śiśnas; "शिश्ना (*śiśnā*)" is from the root śnath, according to the Nirukta (Ni. 4-19), so the hosts of Rākṣasas and the like that pierce and strike; प्रमिनानः (*praminānaḥ*) is destroying them greatly. नवीयान् (*navīyān*) means newer, by body and also by strength, valour, leading and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रामं (*grāmaṃ*)—the whole host of beings
+- वहमानं (*vahamānaṃ*)—the one who produces
+- अचक्रया (*acakrayā*)—that which is without wheels
+- स्वधया (*svadhayā*)—with an army that can carry all of them
+- वर्तमानं (*vartamānaṃ*)—Indra, who is
+- आरात् (*ārāt*)—from afar
+- अपश्यं (*apaśyaṃ*)—I saw
+- सद्यः (*sadyaḥ*)—at once
+- शिश्ना (*śiśnā*)—Rākṣasas and the like
+- प्रमिनानः (*praminānaḥ*)—the one who greatly destroys
+- नवीयान् (*navīyān*)—of new form
+- अर्यः (*aryaḥ*)—Indra, the lord
+- जनानां (*janānāṃ*)—for the sacrificers
+- युगा (*yugā*)—the sacrificial times such as the solstices
+- प्र सिषक्ति (*pra siṣakti*)—he ordains
+
+##### भावार्थ (Bhāvārtha)
+
+I saw from afar Indra, who produces the whole host of beings and who is with an army that is wheelless and able to carry all of them. At once Indra, who greatly destroys Rākṣasas and the like, who is of new form and the lord, ordains for the sacrificers the sacrificial times such as the solstices.
+
+### Printed p. 741
+
+##### English translation
+I beheld the crowd coming from afar, moving of themselves without wheels : the lord of all, (Indra), regulates the seasons (for the worship of men), younger in vigour, destroying at once the herds of evil beings.
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तौ मे॒ गावौ॑ प्रम॒रस्य॑ यु॒क्तौ मो षु प्र से॑धी॒र्मुहु॒रिन्मं॑धि ।  
+> आप॑श्चिदस्य॒ वि न॑शं॒त्यर्थं॒ सूर॑श्च म॒र्क उप॑रो बभू॒वान् ॥२०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतौ । मे । गावौ । प्रमरस्य । युक्तौ । मो इति । सु । प्र । सेधीः । मुहुः ।  
+> इत् । ममंधि ।  
+> आपः । चित् । अस्य । वि । नशंति । अर्थं । सूरः । च । मर्कः । उपरः । बभूवान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कार्यकारणयोरुपचारादात्मा वै पुत्रनामासीति वचनाच्चेंद्ररूपेणावस्थितस्य प्रमरस्य प्रकर्षण शत्रूणां मारयितुर्मे मम स्वभूतावेतावेतादृशौ
+> युक्तौ सुष्टु पूजितौ गावौ शत्रून्यज्ञानंश्च प्रति गंतारौ हरी मो प्र सेधीः ।
+> स्तुत्युपसंहारकरणेनास्मद्यज्ञानापगमय । किं तर्हि मुडुरिन्मुहुर्मुहुर्ममंधि । पुनःपुनः स्तुहि ममात्मन्नित्यर्थः । आपश्चिद्वृष्टिलक्षणान्युदकान्यप्यसेंद्रस्यार्थं गतिं वि नशंति । विनशतिर्वाप्तिकर्मा । व्याप्नुवंति । तथा सूरश्च सूर्यश्च
+> व्याप्नोति । कीदृशः । मर्कॊ मर्जयिता सर्वस्य शोधयितोपरो मेघसदृतो
+> बभूवान् भवन् । मेघवच्छिघ्रगतिः सन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+By the figurative transfer between cause and effect, and by the statement *ātmā vai putranāmāsīti*, the speaker is Pramara, who stands in the form of Indra and is the great slayer of enemies. "These two, my own, yoked and well worshipped, my गावौ (*gāvau*) (the two bay horses, which go towards enemies and towards the sacrifice): do not turn them back (मो प्र सेधीः (*mo pra sedhīḥ*)) by ending the praise or by driving them away from our sacrifice. What then? Praise again and again, my self." Even the waters, in the form of rain, reach the goal (अर्थं (*arthaṃ*), movement) of this Indra; विनशति (*vinaśati*) is a root of reaching, so वि नशंति (*vi naśaṃti*) means they pervade. So too the sun pervades. Of what kind is he? मर्कः (*markaḥ*) is the purifier of all; उपरः (*uparaḥ*) means like a cloud, "being" (बभूवान् (*babhūvān*)), that is, swift in motion like a cloud.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रमरस्य (*pramarasya*)—of the one who greatly destroys enemies
+- मे (*me*)—belonging to me
+- युक्ता (*yuktā*)—yoked to the chariot
+- सु (*su*)—greatly worshipped
+- गावौ (*gāvau*)—going towards the sacrifice
+### Printed p. 742
+- एतौ (*etau*)—these horses (of mine)
+- मो प्र सेधीः (*mo pra sedhīḥ*)—do not make them turn back from the sacrifice
+- मुहुरित् (*muhurit*)—many times
+- ममंधि (*mamaṃdhi*)—praise
+- आपश्चित् (*āpaścit*)—the waters
+- अस्य (*asya*)—of Indra
+- अर्थं (*arthaṃ*)—the purpose
+- वि नशंति (*vi naśaṃti*)—they cause to be fulfilled
+- मर्कः (*markaḥ*)—the purifier
+- उपरः (*uparaḥ*)—like a cloud
+- बभूवान् (*babhūvān*)—swift-going
+- सूरः च (*sūraḥ ca*)—the sun also causes Indra's purpose to be fulfilled
+
+##### भावार्थ (Bhāvārtha)
+
+Do not make these horses of mine, who am the destroyer of enemies (Indra), yoked to the chariot, greatly worshipped and going towards the sacrifice, turn back from the sacrifice. And praise those horses again and again. The waters cause Indra's purpose to be fulfilled. The sun also, the purifier, swift-going like a cloud, causes Indra's purpose to be fulfilled.
+
+##### English translation
+Turn not back, but repeatedly praise these two yoked (steeds) of me the destroyer, which advance (to the foe and to the sacrifice); the waters fulfil Indra's purpose, and (so does) the all-cleansing sun, being (swift as) a cloud.
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं यो वज्रः॑ पुरु॒धा विवृ॑त्तो॒ऽवः सूर्य॑स्य बृह॒तः  ॑
+> पुरी॑षात् ।  
+> श्रव॒ इदे॒ना प॒रो अ॒न्यद॑स्ति॒ तद॑व्य॒थी ज॑रि॒माण॑स्तरंति ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । यः । वज्रः । पुरुदा । विवृत्तः । अवः । सूर्यस्य । बृहतः । पुरीषात् ।  
+> श्रवः । इत् । एना । परः । अन्यत् । अस्ति । तत् । अव्यथी । जरिमाणः । तरंति ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽयं वज्र इंद्रस्य स्वभूतः सूर्यस्यादित्यस्य बृहतो महतः पुरीषात्पूरकान्मंडलादवोऽवस्तादधोभागे स्थितेषु विवृत्तो वृष्ट्यर्थं प्रवृत्तः पतितः ।
+
+##### Gist of the bhāṣya
+
+This thunderbolt (वज्र (*vajra*)), Indra's own, has been turned about (विवृत्तः (*vivṛttaḥ*)) for the sake of rain: it has been sent forth and has fallen below (अवः (*avaḥ*)) the vast (बृहतः (*bṛhataḥ*)) filling orb (पुरीषात् (*purīṣāt*)) of the sun, Āditya, on those (clouds) that stand in the lower part.
+### Printed p. 743
+
+> इच्छब्दोऽप्यर्थे । तच्छब्दश्रुतेर्यच्चज्योऽध्याहार्यः । परः परस्तादंतरिक्षलोकस्कोपरि स्थिते सूर्यमंडले स्थितमेनैतत् । श्रव इत्यन्ननाम । तद्धेतुत्पादकं
+> श्रव इत्युच्यते । यदप्युदकं मेघोदरगतादुवकादन्यदप्यस्ति अव्यथी वृथारहिता
+> जरिमाणः स्तोतारो मरुदादयस्तत्तादृशमुदकं तरंति । अंतरिक्षलोकं
+> प्रत्यवतारयंति ॥
+
+##### Gist of the bhāṣya
+
+The word इत् (*it*) is in the sense of *api* ("also"). Because the word तत् (*tat*) is heard, यत् (*yat*) is to be supplied. परः (*paraḥ*) means beyond, above the world of the firmament, in the orb of the sun, there stands this (एना (*enā*)). श्रवः (*śravaḥ*) is a name for food; what produces that is called श्रवः (*śravaḥ*). This is the water that is also other than the water inside the cloud's belly. The जरिमाणः (*jarimāṇaḥ*), the praisers, the Maruts and others, who are अव्यथी (*avyathī*), free from distress, तरंति (*taraṃti*) bring such water down towards the world of the firmament.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which
+- सूर्यस्य (*sūryasya*)—of the sun
+- बृहतः (*bṛhataḥ*)—great
+- पुरीषात् (*purīṣāt*)—than the filling orb
+- अवः (*avaḥ*)—on the clouds in the lower part
+- पुरुधा (*purudhā*)—many times
+- विवृत्तः (*vivṛttaḥ*)—is employed
+- अयं (*ayaṃ*)—this
+- वज्रः (*vajraḥ*)—Indra's thunderbolt
+- परः (*paraḥ*)—that which is in the orb of the sun
+- अन्यत् (*anyat*)—that which is different from the water in the clouds
+- एना श्रवः (*enā śravaḥ*)—this water which
+- अस्ति (*asti*)—exists
+- तत् (*tat*)—that
+- अव्यथी (*avyathī*)—free from toil
+- जरिमाणः (*jarimāṇaḥ*)—the Maruts and others
+- तरंति (*taraṃti*)—they cause to fall towards the firmament
+
+##### भावार्थ (Bhāvārtha)
+
+This is the thunderbolt, the weapon of Indra, which is employed many times on the clouds in the part below the great orb of the sun. The Maruts and others, free from toil, cause to fall towards the firmament the water that is in the orb of the sun and is different from the water in the clouds.
+
+##### English translation
+This is the thunderbolt which repeatedly falls (on those who are) below the orb of the vast sun; the worshippers easily cause this water (in the sun's orb) above which is different from that (in the clouds) to pass through (the firmament).
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒क्षेवृ॑क्षे॒ निय॑ता मीमय॒द्गौस्ततो॒ वयः॒ प्र प॑तान्पूरु॒षादः॑ ।  
+> अथे॒दं विश्वं॒ भुव॑नं भयात॒ इंद्रा॑य सु॒न्वदृष॑ये च॒  ॑
+> शिक्षत् ॥ २२ ॥
+
+### Printed p. 744
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृक्षेऽवृक्षे । नियता । मीमयत् । गौः । ततः । वयः । प्र । पतान् । पुरुषआदः ।  
+> अथ । इदं । विश्वं । भुवनं । भयाते । इंद्राय । सुन्वत् । ऋषये । च । शिक्षत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृक्षे वृक्षे सर्वस्मिन्वृक्षमये धनुषि नियता संबद्धा गौर्गोसंबंधिनी
+> स्नायुमती मौर्वि मीमयत् । मीमयतिः शब्दकर्मा। अकृष्यमाणा सती शब्दं
+> करोति । ततस्तस्माद्दनुषः पुरुषादः शत्रुजनानामत्तारः । मारयितार इत्यर्थः ।
+> वयः पक्षिसदृशा गंतारो वाणाः प्र पतान् । शत्रूनृति प्रपतंति । अथ तदानीमिंद्रायेंद्रार्थं सुन्वत्सोमयागं कुर्वदृषये च शिक्षत्कर्मणां द्रष्ट
+> ऋत्विजे च संपूर्णां दक्षिणां दददपीदमीदृशं विश्वं समस्तं भुवनं भूतजातं
+> भयाते । इंद्राद्भिभेति । अन्यत्किमुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+वृक्षे वृक्षे (*vṛkṣe vṛkṣe*) means on every bow made of wood; the string (गौः (*gauḥ*)), connected with the cow, made of sinew and fixed (नियता (*niyatā*)) to it, मीमयत् (*mīmayat*); the root मीमयति (*mīmayati*) means sound, so when it is not drawn it makes a sound. Then from that bow the पुरुषादः (*puruṣādaḥ*), the devourers of enemy men, that is, the killers, the वयः (*vayaḥ*), the arrows, going like birds, प्र पतान् (*pra patān*), fall upon the enemies. Then at that moment the whole world, every being, even one that performs a Soma sacrifice (सुन्वत् (*sunvat*)) for Indra and gives the full dakṣiṇā to the ṛtvij (ऋषये (*ṛṣaye*), the seer of rites, शिक्षत् (*śikṣat*)), fears (भयाते (*bhayāte*)) Indra. What then of others? That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृक्षेवृक्षे (*vṛkṣevṛkṣe*)—in all bows made of wood
+- नियता (*niyatā*)—that which is fixed
+- गौः (*gauḥ*)—that which is made of the sinew of a cow
+- मौर्वी (*maurvī*)—the bowstring
+- मीमयत् (*mīmayat*)—makes a sound
+- ततः (*tataḥ*)—afterwards
+- पुरुषादः (*puruṣādaḥ*)—those that devour enemies
+- वयः (*vayaḥ*)—the arrows, which are like birds
+- प्र पतान् (*pra patān*)—fall on the enemies
+- अथ (*atha*)—immediately after that
+- इंद्राय (*iṃdrāya*)—with Indra in view
+- सुन्वत् (*sunvat*)—that which performs the Soma sacrifice
+- ऋषये च (*ṛṣaye ca*)—to the ṛtvijs and others
+- शिक्षत् (*śikṣat*)—that which gives the dakṣiṇā
+- इदं विश्वं भुवनं (*idaṃ viśvaṃ bhuvanaṃ*)—this whole world
+- भयाते (*bhayāte*)—is afraid of Indra
+
+##### भावार्थ (Bhāvārtha)
+
+The bowstring, fixed in all bows made of wood and made of the sinew of a cow, makes a sound. Afterwards the arrows, which devour enemies and are like birds, leave the strings and fall upon the enemies. Immediately after that, this whole world, which performs the Soma sacrifice with Indra in view and gives the dakṣiṇā to the ṛtvijs and others, sees Indra's power and is afraid.
+
+### Printed p. 745
+
+##### English translation
+The bowstring fixed to each bow clangs loudly; then the man-destroying (shafts like) birds fall upon (the foes): and the whole of this world is alarmed, presenting libations to Indra, and donations to the Rishi.
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the various meanings of the word गौः (*gauḥ*), Yāska has taken the present Ṛk as an example and has given for it the meaning of the sinew used for a bowstring. It is necessary to set out here the various meanings that Yāska gives for the word गौः (*gauḥ*).
+
+1. (1) गौरिति वृथिव्या नामधेयं । यत् दूरंगता भवति । यच्चास्यां भूतानि गच्छंति । गौतेर्वकारो नामकरणः ॥ (*gauriti vṛthivyā nāmadheyaṃ | yat dūraṃgatā bhavati | yaccāsyāṃ bhūtāni gacchaṃti | gautervakāro nāmakaraṇaḥ ‖*) (Ni. 2-5)
+The word गौः (*gauḥ*) denotes the earth, because it extends to a very great distance, or because living beings move about on it. Therefore गौः (*gauḥ*) means the earth; formed from the root गाज्-गतौ (*gāj-gatau*), having the sense "go", with the letter ओ (*o*) added as an affix, it has become the word गौः (*gauḥ*).
+
+(2) अथापि पशुनामेह भवत्येतस्मादेव । (*athāpi paśunāmeha bhavatyetasmādeva |*)
+Besides, the word गौः (*gauḥ*), formed from that same root गाज् गतौ (*gāj gatau*) mentioned above, is also a name for a beast (paśu).
+
+(3) अथाप्यस्यां ताद्वितेन कृत्सवन्निगमा भवंति । गोभिः श्रीणीत मत्सरं इति पयसः । मत्सरः सोमो मंदतेस्तृप्तिकर्मणः । मत्सर इति लोभनामाभिमत्त एनेन धनं भवति । पयः पिबतेर्वा । क्षीरं क्षरतेः । घसेर्वेरो नामकरण उशीरमिति यथा ॥ (*athāpyasyāṃ tādvitena kṛtsavannigamā bhavaṃti | gobhiḥ śrīṇīta matsaraṃ iti payasaḥ | matsaraḥ somo maṃdatestṛptikarmaṇaḥ | matsara iti lobhanāmābhimatta enena dhanaṃ bhavati | payaḥ pibatervā | kṣīraṃ kṣarateḥ | ghaservero nāmakaraṇa uśīramiti yathā ‖*)
+In the above sense of paśu, substances such as milk produced from the beast are denoted by the word गो (*go*). For instance, in the Vedic sentence गोभिः श्रीणीत मत्सरं (*gobhiḥ śrīṇīta matsaraṃ*) the meaning is "mix the Soma juice with milk, which is a product of the cow". गोभिः (*gobhiḥ*) means products of the cow, that is, substances produced from the cow such as milk and curds. मत्सरं (*matsaraṃ*) means Soma. From the root मंद् (*maṃd*), meaning "give satisfaction by drinking", the word मत्सरः (*matsaraḥ*) is formed and denotes the Soma juice. For the word मत्सर (*matsara*), greed, desire
+
 ---
 
-**Progress note:** Done through printed p. 739. pp. 734-739 (batch API)
+**Progress note:** Done through printed p. 745. pp. 740-745 (batch API)
