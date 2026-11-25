@@ -36287,6 +36287,273 @@ May we look upon you, Surya, the bright beholder (of all), may we look into the 
 
 This sūkta उदसौ (*udasau*) is the eighth sūkta in the twelfth anuvāka. It has six Ṛks. In this sūkta the woman Śacī, daughter of Pulomā, has praised herself. Therefore Śacī Paulomī is both ṛṣi and deity of this sūkta. The metre is Anuṣṭubh. In the Anukramaṇikā it is said: उदसौ षट् पौलोमी शच्यात्मानं तुष्टावानुष्टुभं (*udasau ṣaṭ paulomī śacyātmānaṃ tuṣṭāvānuṣṭubhaṃ*). The use is to be understood from the matters stated in the sūkta. The great ṛṣi Āpastamba, in the Āpastamba Gṛhya Sūtra, (explains that) this sūkta is used for the upasthāna mantras in the rite performed for removing the affliction caused by a sapatnī (co-wife), in the sūtra एतेन्वॆव कामे (*etenvèva kāme*)
 
+### Printed p. 1068
+by the sūtra नोत्तरेणानुवाकेन सदादित्यमुपतिष्ठते (*nottareṇānuvākena sadādityamupatiṣṭhate*) (Āpa. Gṛ. 9-9). From this it may be understood that the removal of co-wives is set forth in this sūkta.
+
+Maṇḍala 10 · Anuvāka 12 · Sūkta 159
+Aṣṭaka 8 · Adhyāya 8 · Varga 17
+Number of Ṛks in the sūkta: 6
+Ṛṣi: Śacī Paulomī
+Devatā: Śacī Paulomī
+Chandas: Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद॒सौ सूर्यो॑ अगा॒दुद॒यं मा॑म॒को भगः॑ ।  
+> अ॒हं तद्वि॑द्व॒ला पति॑म॒भ्य॑साक्षि विषास॒हिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । आसौ । सूर्यः । अगात् । उत् । आयं । मामकः । भगः ।  
+> अहं । तत् । विद्वला । पतिं । अभि । असाक्षि । विससहिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असौ द्युलोकस्थः सूर्य उदगात् । उदयं प्राप्तवान् । मामको
+> मदीयो भगो भजनीयोऽयमिंद्रश्च सूर्यात्मनोदगात् । यद्वा । मामको
+> भगो मदीयमिदं सौभाग्यमुदगात् । तदुद्यतं सूर्यस्य तेजो विद्वला ज्ञातवती यद्वा पतिं भर्तारं विद्वला लब्धवत्यहं विषासहिर्विशेषेणाभिभवित्रि सत्यभ्यसाक्षि । अभ्यभूवं । सपत्नीरिति शेषः ॥ सहतेरभिभवार्थस्य लुज्येतद्रूपं ॥ यद्वा ।
+> विषासहिः सपत्नीनामभिभवित्रि सती पतिमभ्यसाक्षि । भर्तारमप्यभूवं । यथा
+> मय्येव वशीकृतश्चिरं वर्तते तथाकार्षमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This sun in the heavens has risen. "Mine" (मामको (*māmako*)) means "my own"; the "bhaga", the adorable Indra, has risen in the form of the sun. Or else: this good fortune of mine has risen. Having known the risen splendour of the sun, or having obtained my husband, I, the specially overpowering one (विषासहिः (*viṣāsahiḥ*)), have overcome (*abhyasākṣi*) — "the co-wives" is to be supplied. The form is a luṅ of the root meaning "to overcome". Or else: being the overcomer of the co-wives, I have also overcome my husband, that is, I have so acted that he remains long subject to me alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असौ (*asau*)—this one shining in the sky
+- सूर्यः (*sūryaḥ*)—the sun
+- उत् अगात् (*ut agāt*)—has risen
+
+### Printed p. 1069
+- मामकः (*māmakaḥ*)—related to me
+- भगः (*bhagaḥ*)—venerable to me
+- अयं (*ayaṃ*)—this Indra of the sun's nature has risen. [Or मामको भगः (*māmako bhagaḥ*)—my good fortune; उत् अगात् (*ut agāt*)—has risen, that is, has been obtained]
+- तत् (*tat*)—the splendour of the risen sun, or my husband
+- विद्वला (*vidvalā*)—having obtained
+- अहं (*ahaṃ*)—I
+- विषासहिः (*viṣāsahiḥ*)—specially defeating
+- अभि असाक्षि (*abhi asākṣi*)—I have vanquished my co-wives
+
+##### भावार्थ (Bhāvārtha)
+
+Now the sun has risen in the sky. My good fortune too has risen. Having obtained my husband, I have vanquished my co-wives.
+Or: Indra, my husband, has himself risen in this form of the sun. I have known his splendour. Having obtained my husband, I have defeated my co-wives.
+
+##### English translation
+The sun has risen; my good fortune has dawned; I, knowing this, have obtained my husband triumphing (over my rivals).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं के॒तुर॒हं मू॒र्धाहमु॒ग्रा वि॒वाच॑नी ।  
+> ममेदनु॒ क्रतुं॒ पतिः॑ सेहा॒नाया॑ उ॒पाच॑रेत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । केतुः । अहं । मूर्धा । अहं । उग्रा । विवाचनी ।  
+> मम । इत् । अनु । क्रतुं । पतिः । सेहानायाः । उपआचरेत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं केतुः केतयित्री सर्वस्य ज्ञात्रि भवामि । अहं मूर्धा सर्वेष्टवयवेषु शिर इव प्रधानभूता च भवामि । अहमुग्रोद्धूर्णा सती विवाचनी विशेषेण
+> पतिं वाचयित्री भवामि । क्रोधाविष्टमपि पतिं मयि सर्वदा प्रियवचनयुक्तं
+> करोमीत्यर्थः । सेहानायाः सपत्नीनामभिभवित्र्या ममेन्ममैव क्रतुं कर्म बुद्धिं
+> वानुलक्ष्य पतिः पालयिता भर्तोपाचरेत् । उपागच्छेत् । नान्यासां पत्निीनां ॥
+
+##### Gist of the bhāṣya
+
+I am the "ketu", the one who makes known, the knower of all. I am the head, chief like the head among all the limbs. I am "उग्रा (*ugrā*)" (fierce, exalted), and a "विवाचनी (*vivācanī*)", one who specially makes her husband speak: even a husband filled with anger I make full of affectionate speech to me. The husband, the protector, following the will or intelligence (क्रतुं (*kratuṃ*)) of me, the overcomer (सेहानायाः (*sehānāyāḥ*)) of the co-wives, should come to me — not to the other wives.
+
+### Printed p. 1070
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- केतुः (*ketuḥ*)—I am one who knows everything
+- अहं (*ahaṃ*)—I
+- मूर्धा (*mūrdhā*)—I am chief like the head
+- अहं (*ahaṃ*)—I
+- उग्रा (*ugrā*)—am bold
+- विवाचनी (*vivācanī*)—and one who soothes my husband
+- सेहानायाः (*sehānāyāḥ*)—of me who overcomes the co-wives
+- मम इत् (*mama it*)—my
+- क्रतुं (*kratuṃ*)—following the mind itself
+- पतिः (*patiḥ*)—my husband
+- उपाचरेत् (*upācaret*)—let him come near me
+
+##### भावार्थ (Bhāvārtha)
+
+I know everything. I am chief like the head. By my boldness I have soothed my husband and made him speak affectionate words concerning me. Following the mind of me who have defeated my co-wives, that is, devoted to me alone and not going to the co-wives, let him come to me alone.
+
+##### English translation
+I am the banner, I am the head, I am exalted, soothing (my lord); my husband must conform to my will, as I am victorious over my rivals.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनु॑ पु॒त्राः श॑त्रु॒हणोऽथो॑ मे दुहि॒ता वि॒राट् ।  
+> उ॒ताहम॑स्मि संज॒या सत्यौ॑ मे॒ श्लोक॑ उत्त॒मः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मम । पुत्राः । शत्रुहनः । अथो इति । मे । दुहिता । विराट् ।  
+> उत । अहं । अस्मि । संजया । पत्यौ । मे । श्लोकः । उत्तमः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ममैव पुत्रास्तनयाः शत्रुहणः शत्रूणां सपत्नानां हंतारो भवंति । अथो
+> अपि च मे मदीया दुहिता पुत्रि विराड्विशेषेण राजमाना भवति । उतापि चाहं
+> संजया सम्यग्जेत्री सपत्नीनामस्मि । ता अभिभवामि । अतो हेतोः पत्यौ भर्तरींद्रे
+> मे मम श्लोक उपश्लोकनीयं यश उत्तम उद्गततममतिशयेनोत्कृष्टं
+> विद्यते ॥
+
+##### Gist of the bhāṣya
+
+My sons are slayers of enemies, that is, of the co-wives' side. Moreover my daughter is a "विराट् (*virāṭ*)", shining specially. And I am a "संजया (*saṃjayā*)", a complete conqueror of the co-wives; I overcome them. For this reason, in my husband Indra, my "श्लोक (*śloka*)", my praiseworthy renown, is highest, exceedingly excellent.
+
+### Printed p. 1071
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मम (*mama*)—my
+- पुत्राः (*putrāḥ*)—sons
+- शत्रुहणः (*śatruhaṇaḥ*)—are destroyers of enemies
+- अथो (*atho*)—besides
+- मे (*me*)—my
+- दुहिता (*duhitā*)—daughter
+- विराट् (*virāṭ*)—shines as an empress
+- उत (*uta*)—and
+- अहं (*ahaṃ*)—I
+- संजया (*saṃjayā*)—have conquered my co-wives
+- अस्मि (*asmi*)—am
+- पत्यौ (*patyau*)—in my husband Indra
+- मे (*me*)—my
+- श्लोकः (*ślokaḥ*)—fame
+- उत्तमः (*uttamaḥ*)—is excellent
+
+##### भावार्थ (Bhāvārtha)
+
+My sons are destroyers of enemies; my daughter shines as an empress. And I have defeated all my co-wives. My renown (pre-eminence) is supreme in my husband, that is, my fame gives joy to my husband.
+
+##### English translation
+My sons are the destroyers of my enemies, my daughter is an empress; and I am victorious. my fame is most precious to my husband.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येनेंद्रो॑ ह॒विषा॑ कृ॒त्त्वभ॑वद्दु॒म्यु॑त्त॒मः ।  
+> इ॒दं तद॑क्रि देवा असप॒त्ना किला॑भुवं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । इंद्रः । हविषा । कृत्वी । अभवत् । द्युम्ना । उत्तमः ।  
+> इदं । तत् । अक्रि । देवाः । असपत्ना । किल । अभुवं ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येन हविषेंद्रो मम भर्ता कृत्वी कर्मणां कर्ताभवत् भवति। तथा द्युम्ना ।
+> द्युम्नं द्योतमानं यशोऽन्नं वा । तद्वानुत्तम उत्कृष्टतमश्च येन हविषा
+> भवति । हे देवाः स्तोतार ऋत्विजः तदिदं हविरक्रि । अकारि । जयाथिर्भर्भिवद्धिः
+> क्रियतां । यद्वा । हे यष्टव्या देवाः तदिदं हविरक्रह्मपि ॥ करोतेर्लुजट
+> मंत्रे घसेति चेर्लुक् ॥ अत एव कारणादहमसपत्ना किल शत्रुरहिता खल्वभुवं ।
+> अभूवं ॥ छांदसो ह्रस्वः ॥
+
+##### Gist of the bhāṣya
+
+By which oblation Indra, my husband, becomes "कृत्वी (*kṛtvī*)", a doer of deeds; and "dyumna" means shining fame, or food; by which oblation he becomes possessed of it and "uttama", most excellent: that oblation has been made (अक्रि (*akri*) stands for अकारि (*akāri*)). O gods — the praisers, the priests — let it be made by you. Or else: O gods who are to be worshipped, I too have made this oblation. For this very reason I have become "असपत्ना (*asapatnā*)", truly free from enemies (अभुवं (*abhuvaṃ*) for अभूवं (*abhūvaṃ*)).
+
+### Printed p. 1072
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- येन हविषा (*yena haviṣā*)—by which oblation
+- इंद्रः (*iṃdraḥ*)—Indra, my husband
+- कृत्वी (*kṛtvī*)—becomes a doer of bold deeds
+- अभवत् (*abhavat*)—becomes
+- म्यम्मि (*myammi*)—renowned
+- उत्तमः (*uttamaḥ*)—and becomes the best among all
+- तत् इदं (*tat idaṃ*)—such this oblation
+- अक्रि (*akri*)—let it be prepared by you. [Or देवाः (*devāḥ*)—O gods; तत् इदं (*tat idaṃ*)—such an oblation; अक्रि (*akri*)—let it be well prepared by me. Therefore I
+- असपत्ना किल (*asapatnā kila*)—freed from the affliction of the co-wives who are enemies
+- अभुवं (*abhuvaṃ*)—have become.
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, partaking of which oblation Indra, my husband, does bold deeds and becomes renowned and esteemed, prepare such an oblation — or I shall prepare it. Thereby I have become freed from the torment of my co-wives.
+
+##### English translation
+That oblation, O gods. has been offered by which Indra offering it has become renowned and most powerful; I freed myself from my rival wives.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स॒प॒त्ना स॑सत्न॒घ्नी जयं॑त्यभि॒भूव॑री ।  
+> आवृ॑क्षम॒न्यासां॒ वर्चो॒ राधो॒ अस्थे॑यसामिव ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असॆपत्ना । सपत्नघ्नी । जयंती । अभिभूवरी ।  
+> आ । अवृक्षं । अन्यासां । वर्चः । राधः । अस्थेयसांइव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असपत्नाशत्रुका भवामि । कुत इत्यत आह । सपत्नघ्नी शत्रूणां हंत्री अत
+> एव जयंती जयं प्राप्नुवत्यभिभूवर्यभिभवित्रि ॥ भवतेरन्येभ्योऽपि दृश्यंत इति
+> क्वनिप् । वनो र चेति जीब्रेफौ ॥ ईदृश्यहमन्यासां सपत्नीनां वर्चस्तेजो राधो
+> धनं चावृक्षं । आ समंतादवृक्षं । अवृश्चिषं । अच्छिदं ॥ व्रश्चेर्लुज्युदित्त्वादिदभावे
+
+##### Gist of the bhāṣya
+
+I become without rival. Why? She says: I am "सपत्नघ्नी (*sapatnaghnī*)", slayer of enemies, and therefore *jayantī*, winning victory, "अभिभूवरी (*abhibhūvarī*)", overpowering. Being such, I have cut off (अवृक्षं (*avṛkṣaṃ*), completely cut off) the splendour and wealth of the other co-wives.
+
+### Printed p. 1073
+
+> संयोगादिलोपे छांदसं संप्रसारणं ॥ तत्र दृष्टांतः । अस्थेयसामिवास्थिरतराणां शत्रूणां यथा धनमप्रयत्नेन वृश्चते तथेत्यर्थः ॥ स्थिरशब्दादीयसुनि
+> प्रियस्थिरेत्यादिना स्थादेशः ॥
+
+##### Gist of the bhāṣya
+
+The illustration: as the wealth of enemies who are less steady (अस्थेयसामिव (*astheyasāmiva*)) is cut off without effort, so is it here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (I) सपत्नघ्नी (*sapatnaghnī*)—have destroyed my co-wives, the enemies
+- जयंती (*jayaṃtī*)—am victorious
+- अभिभूवरी (*abhibhūvarī*)—have defeated those co-wives. And therefore
+- असपत्ना (*asapatnā*)—I take pride that I am without enemies, or without the torment of co-wives. Being such, I
+- अन्यासां (*anyāsāṃ*)—of my other co-wives
+- वर्चः (*varcaḥ*)—the splendour
+- राधः (*rādhaḥ*)—and the wealth
+- अस्थेयसामिव (*astheyasāmiva*)—as the wealth of enemies who cannot stand firm is carried off
+- अवृक्षं (*avṛkṣaṃ*)—have cut off (destroyed)
+
+##### भावार्थ (Bhāvārtha)
+
+Having destroyed my co-wives, the enemies, I am victorious. I have defeated them in many ways. Therefore I am free from the torment of my co-wives who were enemies. Being such, I have cut off, that is, destroyed, the splendour and wealth of my other co-wives, as the wealth of enemies who cannot stand firm in battle is destroyed.
+
+##### English translation
+Free from rivals, the destructress of rivals, victorious, triumphant, I cut up the brilliance and wealth of the other (wives of Indra) as if it were the wealth of (enemies) who do not endure long.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॑जैषमि॒मा अ॒हं स॒पत्नी॑रभि॒भूव॑री ।  
+> यथा॒हम॒स्य वी॒रस्य॑ वि॒राजा॑नि॒ जन॑स्य च ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अजैषं । इमाः । अहं । सपत्नीः । अभिभूवरी ।  
+> यथा । अहं । अस्य । वीरस्य । विराजानि । जनस्य । च ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 1067. pp. 1062-1067 (batch API)
+**Progress note:** Done through printed p. 1073. pp. 1068-1073 (batch API)
