@@ -19238,6 +19238,190 @@ This history told above has been explained by Yāska in his Nirukta (Ni. 12-11).
 
 पूषेति पादौ पौष्ण द्वावाग्नेयावुत्तरा तु यौ । स्यातृतीयोऽपि ना पौष्णं तिस्रश्चान्याः परास्तु याः ॥ (*pūṣeti pādau pauṣṇa dvāvāgneyāvuttarā tu yau | syātṛtīyo 'pi nā pauṣṇaṃ tisraścānyāḥ parāstu yāḥ ‖*)
 
+### Printed p. 544
+
+The editor's Kannada continues: of the third Ṛk of the sūkta त्वष्टा दुहित्रे (*tvaṣṭā duhitre*) mentioned above, the first two pādas of the first half have Pūṣan as deity, and the two pādas of the latter half have Agni as deity. Or else Pūṣan alone may be the deity of the third pāda. The three Ṛks that follow it (Ṛks 4–6) also have Pūṣan as deity.
+
+The Bṛhaddevatā says: अपां स्तुतिस्तृगत्रैका तृचात्सारस्वतात्परा । स्तुतः परोक्षः सोमस्तु द्रप्स इत्युत्तरे तृचे ॥ ९ ॥ अब्देवताशीर्वादो ना पयस्वत्युत्तरा तु या । (*apāṃ stutistṛgatraikā tṛcātsārasvatātparā | stutaḥ parokṣaḥ somastu drapsa ityuttare tṛce ‖ 9 ‖ abdevatāśīrvādo nā payasvatyuttarā tu yā |*) (Bṛ. De. Adhyā. 7-1 to 9).
+
+The three Ṛks that follow (Ṛks 7–9) have Sarasvatī as deity; after them the 10th Ṛk is addressed to the Waters. In the three Ṛks after that (Ṛks 11–13) there is praise of the Waters, yet indirectly the deity Soma is praised. In the last Ṛk, the fourteenth, पयस्वतीः (*payasvatīḥ*), a blessing on the Waters is stated. This is the explanation.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयेऽनुवाके त्रयोदश सूक्तानि । तत्र त्वष्टा दुहित्र इत्येतच्छतुर्दशर्चं
+> प्रथमं सूक्तं । यमपुत्रो देवश्रवा नामर्षिः । आदितो द्वादश त्रिष्टुभः । त्रयोदशीचतुर्दश्यावनुष्टुभौ । यद्वा त्रयोगशी पुरस्ताद्बृहती । आदितो द्वयोः
+> सरण्यर्देवता । पूषा त्वेत इत्याद्याश्चतस्रः पूषदेवत्याः । सरस्वतीं देवयंत
+> इत्याद्यास्ति स्रः सरस्वतीदेवताकाः । आपो अस्मानित्याद्याः पंचर्चोऽब्देवताकाः ।
+> तत्र द्रप्सक्कंदेत्याद्यास्ति स्रः सोमदेवत्या ना । अथ चानुक्रांतं । त्वष्टा देवश्रवा द्वे सरण्यदेवते पौष्ट्यश्चतस्रः सारस्वत्यस्ति स्रः पंचाप्यो द्रप्सस्ति स्रः सौम्यो
+> वांत्ये अनुष्टुभावप्रांत्या पुरस्ताद्बृहती वेति : गतः सूक्तविनियोगः ॥ अत्रेतिहासमाचक्षते । त्वष्टनामकस्य देवस्य सरण्यस्त्रीशिराश्चति स्त्रीपुंसात्मकमपत्यद्वयमभूत् । ततस्त्वष्टा सरण्यनामिकां पुत्रीं विवस्वते प्रायच्छत् । ततस्तस्यां विविस्वतः
+> सकाशाद्यमयम् विजज्ञाते । ततः कदाचिदात्मसदृश्या देवजनितायाः स्त्रियः
+> समीपे तदपत्यद्वयं निधाय स्वयमाश्वं रूपं कृत्तोत्तरान्कुरून्प्रतिजगाम ।
+> अथ विवस्वानेतां स्त्रियं सरण्यमिति मत्वा तामरंसीत् । तल्यां मनुर्नाम राजर्षिरजायत । ततो विवस्वानेषा सरण्यर्न भवतीति विज्ञाय स्वयमष्यश्लो भूत्वा
+> तामश्वरूपिणीं प्रायासीत् ; ततः संक्रीडमानयोस्तयोः स्वभूतं रेतः पृथिव्यां
+> पपात ! अथ सा गर्भकामनया तत्पतितं रेत अजघ्नौ । ततस्तस्याः सकाशान्नासत्यो
+> दस्रश्चेत्युभावश्विनावजायेतामिति ॥
+
+##### Gist of the bhāṣya
+
+The second anuvāka contains thirteen sūktas, of which the first is this sūkta of fourteen Ṛks, त्वष्टा दुहित्रे (*tvaṣṭā duhitre*). Its seer is Devaśravas, son of Yama. The first twelve Ṛks are triṣṭubh; the thirteenth and fourteenth are anuṣṭubh; or else the thirteenth is purastād-bṛhatī. The deity of the first two Ṛks is Saraṇyū. The four beginning पूषा त्वेत (*pūṣā tveta*) have Pūṣan as deity; the three beginning सरस्वतीं देवयंत (*sarasvatīṃ devayaṃta*) have Sarasvatī; the five Ṛks beginning आपो अस्मान् (*āpo asmān*) have the Waters, among which the three beginning द्रप्सक्कंद (*drapsakkaṃda*) have Soma as deity. He then quotes the Anukramaṇī: त्वष्टा देवश्रवा द्वे सरण्यदेवते पौष्ट्यश्चतस्रः सारस्वत्यस्ति स्रः पंचाप्यो द्रप्सस्ति स्रः सौम्यो वांत्ये अनुष्टुभावप्रांत्या पुरस्ताद्बृहती वेति : (*tvaṣṭā devaśravā dve saraṇyadevate pauṣṭyaścatasraḥ sārasvatyasti sraḥ paṃcāpyo drapsasti sraḥ saumyo vāṃtye anuṣṭubhāvaprāṃtyā purastādbṛhatī veti :*). The use of the sūkta in ritual has been stated already.
+
+Here they relate an itihāsa. The god named Tvaṣṭṛ had two children, Saraṇyū and Triśiras (a daughter and a son). Tvaṣṭṛ gave his daughter Saraṇyū to Vivasvat, and from Vivasvat she bore the twins Yama and Yamī. Then once she placed the two children beside a woman born of the gods who resembled herself, took the form of a mare and went to the Uttarakurus. Vivasvat, taking that woman to be Saraṇyū, took his pleasure with her, and from her was born the royal sage named Manu. Then Vivasvat, realising that this was not Saraṇyū, himself became a stallion and went after her in her mare's form. While they sported, his semen fell on the earth; she, desiring offspring, sniffed the fallen semen, and from her were born the two Aśvins, Nāsatya and Dasra.
+
+### Printed p. 545
+
+##### Anuvāda (Kannada)
+
+The second anuvāka of the tenth maṇḍala contains thirteen sūktas; of them this sūkta त्वष्टा दुहित्रे (*tvaṣṭā duhitre*) is the first. It has fourteen Ṛks. The seer of this sūkta is Devaśravas, son of Yama. Its first twelve Ṛks are in the triṣṭubh metre; the thirteenth and fourteenth Ṛks are in the anuṣṭubh metre; or else the thirteenth Ṛk is in the purastād-bṛhatī metre. The deity of the first two Ṛks of this sūkta is the woman Saraṇyū. The four Ṛks from the Ṛk पूषा श्वेतः (*pūṣā śvetaḥ*) onward (Ṛks 3–6) have Pūṣan as deity; the next three Ṛks beginning सरस्वती देवयंतः (*sarasvatī devayaṃtaḥ*) (Ṛks 7–9) have Sarasvatī as deity; the next five Ṛks beginning आपो अस्मान् (*āpo asmān*) (Ṛks 10–14) have the Waters as deity. Of these, the three Ṛks beginning द्रप्पश्चस्कंद (*drappaścaskaṃda*) (Ṛks 11–13) have the Waters, or else Soma, as deity. In the Anukramaṇī it is said: त्वष्टा. देवश्रवा द्वे सरण्यदेवते पौश्यश्चतस्रः सारस्वत्यस्ति स्रः पंचाप्यो द्रप्पस्ति स्रः सौम्यो वांत्ये अनुष्टुभावुषांत्या पुरस्तादृहती वा (*tvaṣṭā. devaśravā dve saraṇyadevate pauśyaścatasraḥ sārasvatyasti sraḥ paṃcāpyo drappasti sraḥ saumyo vāṃtye anuṣṭubhāvuṣāṃtyā purastādṛhatī vā*). The use of the sūkta in ritual has been stated earlier.
+
+There is an itihāsa concerning this sūkta. The god named Tvaṣṭṛ had two children, a daughter Saraṇyū and a son Triśiras. Tvaṣṭṛ gave his daughter Saraṇyū in marriage to Vivasvat. To this couple, Saraṇyū and Vivasvat, twins were born, the son Yama and the daughter Yamī. Then one day Saraṇyū set the twins beside a goddess-woman who resembled herself, took the form of a mare and departed for the country of the Uttarakurus. Thereupon Vivasvat, thinking that woman to be his wife the goddess Saraṇyū, took his pleasure with her; and in that woman was born the royal sage named Manu. Afterwards Vivasvat learned that this woman was not his wife Saraṇyū. Then Vivasvat took the form of a horse and went to Saraṇyū, who was likewise in mare's form. While the two, in horse form, were absorbed in love-play, Vivasvat's semen fell on the ground. Then the woman in mare's form, desiring children, sniffed the semen that had fallen; from it the two Aśvin deities, Nāsatya and Dasra, were born in her. This is the story the bhāṣyakāra tells in this context.
+
+**Sūkta particulars**
+
+Sūkta 17. Maṇḍala 10; Anuvāka 2; Sūkta 17. Aṣṭaka 7; Adhyāya 6; Vargas 23, 25, 25 **NOTE**. Number of Ṛks in the sūkta: 14. Ṛṣi: Devaśravas Yāmāyana. Deity: 1, 2 Saraṇyū; 3–6 Pūṣan; 7–9 Sarasvatī; 10–14 Āpaḥ **NOTE**; 11–13 the Waters or Soma. Metre: 1–12 triṣṭubh; 13 anuṣṭubh or purastād-bṛhatī; 14 anuṣṭubh.
+
+### Printed p. 546
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं कृ॑णो॒तीती॒दं विश्वं॒ भुव॑नं॒ समे॑ति ।  
+> य॒मस्य॑ मा॒ता प॑र्यु॒ह्यमा॑ना म॒हो जा॒या विव॑स्वतो  
+> ननाश ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वष्टा । दुहित्रे । वहतुं । कृणोति । इति । इदं । विश्वं । भुवनं । सं । एति ।  
+> यमस्य । माता । परिउह्यमाना । महः । जाया । विवस्वतः । ननाश ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वष्टैतन्नामको देवो दुहित्रे । षष्ठ्यर्थे चतुर्थी । दुहितुः सरण्यूनामिकाया वहतुं वहनं विवाहं ॥ एधिवहोश्चतुः । उ. १-७९ । इति वहेश्चतुप्रत्ययः ॥ तं कृणोति । करोति । इत्येतेन हेतुनेदं वित्वं सर्वं भुवनं
+> भूतजातं समेति । तं विवाहं समागमत् । पर्युह्यमाना विवस्वतोद्वोढव्या
+> यमस्य यम्याश्च माता महो मह 'रो विवस्वतो जाया भार्या सरणूर्ननाश।
+> उत्तरान्कुरून्प्रति नष्टा । अगच्छदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The god named Tvaṣṭṛ, for his daughter (the dative stands in the sense of the genitive), Saraṇyū by name, makes the वहतुं (*vahatuṃ*), that is, the carrying away, the marriage. For this reason the whole world, all beings, come together to that marriage. Saraṇyū, who was to be led away in marriage by Vivasvat, the mother of Yama and Yamī, the wife of the great Vivasvat, "was lost": she went away towards the Uttarakurus.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टा (*tvaṣṭā*)—the god named Tvaṣṭṛ
+- दुहित्रे (*duhitre*)—for his daughter Saraṇyū
+- वहतुं (*vahatuṃ*)—the marriage
+- कृणोति (*kṛṇoti*)—performs
+- इति (*iti*)—for that reason
+- इदं विश्वं भुवनं (*idaṃ viśvaṃ bhuvanaṃ*)—this whole assemblage of beings
+- समेति (*sameti*)—come together
+- पर्युह्यमाना (*paryuhyamānā*)—she who is to be given by Vivasvat
+- यमस्य (*yamasya*)—of Yama
+- माता (*mātā*)—the mother
+- महः (*mahaḥ*)—of the great
+- विवस्वतः (*vivasvataḥ*)—Vivasvat
+- जाया (*jāyā*)—the wife, Saraṇyū
+- ननाश (*nanāśa*)—became invisible
+
+##### भावार्थ (Bhāvārtha)
+
+Hearing the news that the god named Tvaṣṭṛ was performing the marriage of his daughter Saraṇyū, all beings assembled. But Saraṇyū, who was to be made ready for the marriage, the mother of Yama and the wife of the great Vivasvat, became invisible.
+
+### Printed p. 547
+
+##### English translation
+Twashtri celebrates the marriage of his daughter : therefore the whole world is assembled ; but the mother of Yama, the newly-married-wife of the mighty Vivaswat, disappeared.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has stated the Nirukta for this verse **NOTE**—
+
+त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति । यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ॥ (*tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti | yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa ‖*) (Ṛ. Saṃ. 10-17-1)
+
+त्वष्टा दुहितुर्वहनं करोतीदं विश्वं भुवनं समेतीमानि च सर्वाणि भूतान्यभिसमागच्छंति यमस्य माता पर्युह्यमाना महतो जाया विवस्वतो ननाश । रात्रिरादित्यस्यादित्योदयेऽन्तर्धीयते ॥ ( (*tvaṣṭā duhiturvahanaṃ karotīdaṃ viśvaṃ bhuvanaṃ sametīmāni ca sarvāṇi bhūtānyabhisamāgacchaṃti yamasya mātā paryuhyamānā mahato jāyā vivasvato nanāśa | rātrirādityasyādityodaye 'ntardhīyate ‖ (*) (Ni. 12-11)
+
+For this Ṛk Yāska has given two kinds of explanation, according to the Tvaṣṭṛ view and according to the Āditya view.
+
+On the Tvaṣṭṛ view: here Tvaṣṭṛ is said to be Viśvakarman, who creates everything, Prajāpati. When this Tvaṣṭṛ-Prajāpati set about giving his daughter, the goddess Saraṇyū, in marriage to Vivasvat, all the beings of this world (gods, men, animals and all others) gathered in one place, that is, in the marriage pavilion, to see that marriage. At a wedding it is natural for kinsmen and others to gather together for joy. Then, that is, after the marriage, the goddess Saraṇyū, mother of Yama and wife of the venerable Vivasvat, disappeared somewhere; that is, she made a goddess-woman in her own place instead of herself, put her there, took the form of a mare and went away. This is the sense.
+
+On the Nairukta or Āditya view: below we give the bhāṣya and explanation that Durgācārya, commentator on the Nirukta, wrote for this Ṛk in the Āditya sense—
+
+त्वष्टा मध्यमः तमोभागस्य उषसः दुहित्रे दुहितुः दूरे हितायाः प्रकाशरूपायाः वहतुं वहनं विवस्वतः करोति । इदं विश्वं भुवनं समेति । प्रभातमिति मत्वा सर्वाणि भूतानि स्वासु स्वास्त्विति कर्तव्यतासु अभिसमागच्छंति । यमस्य माता पर्युह्यमाना-यमस्य मध्यमस्य माता देवधर्मेण अथवा द्युस्थानस्य यैव जाया सा मातेति । जायतेऽस्यां पुत्रत्वेन पतिः जाया भार्या। महतो विवस्वतः प्रकाशेन प्रोत्सार्यमाणा ननाश नश्यति । संक्षेपतो भाष्यकारोऽर्थं निराहरात्रिरादित्यस्य । उषा जाया सा आदित्यस्कोदयेऽन्तर्धीयते इति ॥ (*tvaṣṭā madhyamaḥ tamobhāgasya uṣasaḥ duhitre duhituḥ dūre hitāyāḥ prakāśarūpāyāḥ vahatuṃ vahanaṃ vivasvataḥ karoti | idaṃ viśvaṃ bhuvanaṃ sameti | prabhātamiti matvā sarvāṇi bhūtāni svāsu svāstviti kartavyatāsu abhisamāgacchaṃti | yamasya mātā paryuhyamānā-yamasya madhyamasya mātā devadharmeṇa athavā dyusthānasya yaiva jāyā sā māteti | jāyate 'syāṃ putratvena patiḥ jāyā bhāryā| mahato vivasvataḥ prakāśena protsāryamāṇā nanāśa naśyati | saṃkṣepato bhāṣyakāro 'rthaṃ nirāharātrirādityasya | uṣā jāyā sā ādityaskodaye 'ntardhīyate iti ‖*) (2. Kṛtya) **NOTE**
+
+### Printed p. 548
+
+That is: here Tvaṣṭṛ is the deity of the middle region, the sun or Āditya. दुहित्रे वहतुं (*duhitre vahatuṃ*) means: for the far-off (sun) to bear light, or to spread it around. At the end of the night, when the dawn-time begins, all the creatures of the world see the sun rising in the distance to drive away the darkness, and knowing that the darkness has been destroyed and morning has come, they engage in their several occupations. यमस्य माता पर्युह्यमाना (*yamasya mātā paryuhyamānā*): the mother of Yama, the middle deity, Āditya, is the heaven-world (the atmosphere); or else, as stated in the śruti sentence आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*), because the husband himself is born, in the form of a portion of himself, as son in his wife, the wife is called जाया (*jāyā*). Hence night, or Uṣas, is the wife of the sun. Since after that night (when the night has passed) the sun is born in the form of a portion, night becomes the sun's wife; that is, night or the goddess Uṣas is said to be the sun's wife. जाया विवस्वतो ननाश (*jāyā vivasvato nanāśa*) means रात्रिरादित्यस्यादित्योदयेऽन्तर्धीयते (*rātrirādityasyādityodaye 'ntardhīyate*): the sun's wife, night or Uṣas, perishes after sunrise, that is, becomes invisible. This is the main intent of the Āditya view.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपा॑गूहन्न॒मृतां॒ मर्त्ये॑भ्यः कृ॒त्वी सव॑र्णामददु॒र्विव॑स्वते।  
+> उ॒ताश्चिना॑वभर॒दत्तदासी॒दज॑हादु॒ द्वा मि॑थु॒ना स॑र॒णन्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । अगूहन् । अमृतां । मर्त्येभ्यः । कृत्वी । सवर्णां । अददुः । विवस्वते ।  
+> उत । अश्विनौ । अभरत् । यत् । तत् । असीत् । अजहात् । ऊं इति । द्वा । मिधुना।  
+> सरण्यूः ॥ २ ॥
+
+### Printed p. 549
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अमृतां मरणधर्मरहितामेतां सरण्यूं मर्त्येभ्यो मनुष्येभ्यस्तदुत्पत्यर्थमपागूहन् । अपगूहितवंतः । संवृतवंतः । देवा उपनीतवंतः इत्यर्थः ।
+> किंच सवर्णां सरण्यूसदृशीमन्यां स्त्रीयुं कृत्वा तस्मै विवस्वते देवा अददुः।
+> प्रायच्छन् । उतापि च साश्वरूपिणी सरण्यूस्तदाश्विनावभरत् । स्वोदरे गर्भभूतौ
+> धारितवती । यद्यदा तज्जायापतिभ्यामश्वरूपात्मना संभोगकाले रेतः पतितमासीत् तदाश्विन् जनयामासेत्यर्थः । तथा सरण्यूः सरणवत्येतन्नामिका द्वा मिथुना
+> द्वा मिथुनौ यमयम्यावजहात् । त्यक्तवती । जनितवतीत्यर्थः । यद्वा ! सरण्यूरेतन्नामिका मध्यमस्थाना देवता मध्यममग्निं माध्यमिकां वाचं चोत्पादितवती॥
+
+##### Gist of the bhāṣya
+
+The gods hid this immortal Saraṇyū, free from the nature of death, from mortals (men), for the sake of begetting offspring: अपागूहन् (*apāgūhan*) means they concealed, covered, took her away. Moreover, having made another woman like Saraṇyū, सवर्णां (*savarṇāṃ*), the gods gave her to Vivasvat. And that Saraṇyū, in mare's form, bore the two Aśvins in her own womb as embryos: when, in union in horse form, the semen of the wife and husband fell, then she begot the Aśvins. Likewise Saraṇyū, so named, abandoned, that is, bore, the two twins, Yama and Yamī. Or else Saraṇyū, a deity of the middle region, produced the middle Agni and the speech of the middle region.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृतां (*amṛtāṃ*)—Saraṇyū, free from the nature of death
+- मर्त्येभ्यः (*martyebhyaḥ*)—from men
+- अपागूहन् (*apāgūhan*)—hiding
+- सवर्णां (*savarṇāṃ*)—another woman of the same form
+- कृश्वी (*kṛśvī*)—having made
+- विवस्वते (*vivasvate*)—to Vivasvat
+- अददुः (*adaduḥ*)—the gods gave
+- उत (*uta*)—and
+- यत् (*yat*)—when
+- तत् आसीत् (*tat āsīt*)—when the horse-formed fall of semen occurred, then
+- अश्विनौ (*aśvinau*)—the two Aśvin deities
+- अभरत् (*abharat*)—that woman obtained
+- सरण्यः (*saraṇyaḥ*)—Saraṇyū
+- द्वा मिथुना (*dvā mithunā*)—Yama and Yamī
+- अजहात् (*ajahāt*)—gave birth to
+
+##### भावार्थ (Bhāvārtha)
+
+Having hidden the deathless Saraṇyū from men and made another woman of the same form, the gods gave her to Vivasvat. And when the horse-formed fall of semen occurred, that woman obtained the Aśvin deities. Saraṇyū obtained Yama and Yamī.
+
+##### English translation
+The Gods concealing the immortal (Saranyu) for the sake of mortals
+and having formed a woman resembling her, gave her to Vivaswat. She
+bore the two Ashwins when this had happened, and then Saranyu gave birth
+to two twins.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska, in explaining the derivation of the word सरण्यः (*saraṇyaḥ*), states the Nirukta on this Ṛk and relates an itihāsa concerning Saraṇyū.
+
+सरण्यः । सरण्यः सरणात् । तस्यैषा भवति । (*saraṇyaḥ | saraṇyaḥ saraṇāt | tasyaiṣā bhavati |*) अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते । उताश्विनावभरदत्तदासीदजहादु द्वा (*apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate | utāśvināvabharadattadāsīdajahādu dvā*)
+
+### Printed p. 550
+
+मिथुना सरण्यः ॥ (*mithunā saraṇyaḥ ‖*) (Ṛ. Saṃ. 10-17.2). अप्पगूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वतेऽप्यश्विनावभरदत्तदासीदजहाद्वा मिथुनौ सरण्यर्मध्यमं च माध्यमिकां च वाचमिति नैरुक्ताः । यमं च यमीं चैत्यैतिहासिकाः ॥ (*appagūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate 'pyaśvināvabharadattadāsīdajahādvā mithunau saraṇyarmadhyamaṃ ca mādhyamikāṃ ca vācamiti nairuktāḥ | yamaṃ ca yamīṃ caityaitihāsikāḥ ‖*)
+
+तत्रेतिहासमाचक्षते-त्वाष्ट्री सरण्यूर्निवस्वत आदित्याद्यमौ मिथुनौ जनयांचकार । सा सवर्णामन्यां प्रतिनिधायाश्वं रूपं कृत्वा प्रदुद्राव । स विवस्वानादित्य अश्वमेव रूपं कृत्वा तामनुसृत्य संबभूव । ततोऽश्विन् जज्ञाते सवर्णायां मनुः ॥ (*tatretihāsamācakṣate-tvāṣṭrī saraṇyūrnivasvata ādityādyamau mithunau janayāṃcakāra | sā savarṇāmanyāṃ pratinidhāyāśvaṃ rūpaṃ kṛtvā pradudrāva | sa vivasvānāditya aśvameva rūpaṃ kṛtvā tāmanusṛtya saṃbabhūva | tato 'śvin jajñāte savarṇāyāṃ manuḥ ‖*) (Ni. 12-10 **NOTE**)
+
+The word सरण्य (*saraṇya*) is formed from the root सृ (*sṛ*), meaning "to move". The literal sense of the word is: she who goes forward and forward, she who is in motion. The nirvacana of the Ṛk अपागूहन् (*apāgūhan*), in which this word is used, is as follows: the gods hid that goddess Saraṇyū, who is without death, that is, imperishable, so that she was invisible to the eyes of men, and put her away; and having made another woman of the same form and shape, they gave her to Āditya. At this time, that is, when the goddess Saraṇyū was invisible (when, having taken a mare's form, she was in another region, as the fruit of the union with Āditya (Vivasvat), who had taken a horse's form), she obtained the Aśvin deities, and she abandoned the twin children Yama and Yamī whom she had obtained before. Here the word मिथुनौ (*mithunau*) has been explained in two ways: the middle region, that is, Indra of the atmosphere, and the speech-deity of the atmosphere, according to the Nirukta authors; Yama and Yamī, according to the itihāsa authors.
+
+There is an itihāsa on this point: the goddess Saraṇyū, Tvaṣṭṛ's daughter, obtained from Āditya (Vivasvat) two twin children, Yama and Yamī. Afterwards she set another goddess-woman like herself beside Āditya as her substitute, and herself ran away in mare's form. (This goddess-woman of the same form is customarily called by the name Chāyā. And in this woman Manu was born from Āditya. Afterwards Āditya, learning that this woman was not his wife Saraṇyū,) then himself took a horse's form, followed the mare-formed Saraṇyū, and stayed near her. Then, as the fruit of the mutual union of these two, the Aśvin deities were born, and in the woman of the same form Manu was born. This is the intent of the Nirukta statement.
+
 ---
 
-**Progress note:** Done through printed p. 543. pp. 538-543 (batch API)
+**Progress note:** Done through printed p. 550. pp. 544-550 (batch API)
