@@ -15382,6 +15382,110 @@ In the Ṛgveda and in the Yajurveda it is said in many places that Mitra is the
 
 Sūrya is the son of the world of heaven: दिवस्पुत्राय सूर्याय शंसत (*divasputrāya sūryāya śaṃsata*) (10.37-1). In some places Sūrya is also regarded as the son of Aditi: सूर्यमादितेयं (*sūryamāditeyaṃ*) (10 88-1). Sūrya sits on a chariot. One horse or many horses draw his chariot. Ordinarily seven horses bear his chariot: सप्ताश्वा हरितः सूर्यस्य (*saptāśvā haritaḥ sūryasya*) (1-115-3, 4). Sūrya is the self of the whole world; that is, as the inner self in the bodies of living beings he regulates their movements. Sūrya is the cause also of the movement of inanimate things: सूर्या आत्मा जगतस्तस्थुषश्च (*sūryā ātmā jagatastasthuṣaśca*) (1.115-1). Impelled by the power of Sūrya, people become able to do their several works: नूसं जनाः सूर्येण प्रसूता अयन्नर्थांसि कृणवन्नपांसि (*nūsaṃ janāḥ sūryeṇa prasūtā ayannarthāṃsi kṛṇavannapāṃsi*)
 
+### Printed p. 524
+
+He sees everything, even what is very far away; he sees all the good and bad deeds that men do (1-50-2, 7; 7-61-1; 7-63-1, 4, etc.).
+
+Explaining the meaning of the word Sūrya, Yāska says:
+
+सूर्यः सर्वेर्, सुवर्तेर्वा स्वीयतेर्वा ॥ (*sūryaḥ sarver, suvartervā svīyatervā ‖*) (Ni. 12-14)
+
+That is, the word Sūrya may be formed from the root सृ (*sṛ*), "to move", or from the root पूज् (*pūj*) "to produce" **NOTE**, or from सु+ईरयति (*su+īrayati*), which means "to impel". In the morning Sūrya rises in the east, moves in the sky without a break, and towards evening reaches the west and sets. His movement is therefore unbroken. All living beings in the world, and plants and the like, come into being by the power of Sūrya. The air, heated by Sūrya's rays, becomes by its movements the cause of manifold changes in the world. By the heat of Sūrya's rays the water of the seas and other reservoirs turns to vapour, pours down as rain from the clouds in the sky, and becomes the cause of the growth of plants and the like. From plants, animals and men are produced: अद्भ, ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः ॥ (*adbha, oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ ‖*) (Tai. U. 2.1-1). The movements of inanimate things too arise from the heat of Sūrya. How? As is said in सूर्य आत्मा जगतस्तस्थु षश्च (*sūrya ātmā jagatastasthu ṣaśca*), Sūrya, a mass of radiance, though he stands in the middle of his orb, pervades everything with his heat, and so, as the inner controller of all, impels each thing to act in accordance with its time. Therefore he is the cause of the production of the whole group of effects among moving things (living beings and the like) and stationary things (inanimate objects). As soon as Sūrya has risen, he rouses the living beings who during the night lay as if dead, without knowledge or power to do any work, and makes them engage in their several tasks; this power belongs to Sūrya alone.
+
+योऽसौ तपन्नुदेति । स सर्वेषां भूतानां प्राणानादायोदेति।......... (*yo 'sau tapannudeti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyodeti|.........*)
+
+आसौ योऽस्तमेति । स सर्वेषां भूतानां प्राणानादायास्तमेति । ..... (*āsau yo 'stameti | sa sarveṣāṃ bhūtānāṃ prāṇānādāyāstameti | .....*)
+
+असौ य अपूर्यति । स सर्वेषां भूतानां प्राणैरापूर्यति । (*asau ya apūryati | sa sarveṣāṃ bhūtānāṃ prāṇairāpūryati |*)
+
+(Tai. Ā. 1-14-1)
+
+As these Vedic sentences say, when Sūrya sets he takes away with him the vital powers of all living beings, that is, their powers of movement and the like and their activity of knowing. Therefore at night living beings, unable to do any work, fall asleep.
+
+### Printed p. 525
+
+Again in the morning, when Sūrya rises, he brings back with him the vital powers of all those beings, that is, the powers to perform works and the activity of knowing, and rises. Then he fills those beings with the power that is his own energy: so it is said. Because Sūrya gives knowledge and the power of action to the whole world, and by his rising and setting makes it conscious or unconscious, his greatness is described here: he is the self and the life-self of all things, moving and unmoving.
+
+Moreover, according to the science of today (Scientific view) too, Sūrya is the cause of the movements of all things in this world. From Sūrya we obtain every kind of energy. Sūrya, or the rays of Sūrya, are the cause of the movements that go on among living beings, of the movement of the air in the sky, the formation of clouds, the falling of rain and the like, and of all kinds of activity on the earth, such as the ceaseless growth of plants and the flowing movement of rivers. Without the light of Sūrya deep darkness would cover this world, and not even the movement of a blade of grass would take place. Therefore it is proper to give as the meaning of the sentence सूर्य आत्मा जगतस्तस्थु षश्च (*sūrya ātmā jagatastasthu ṣaśca*): The sun is the source of all the energies, for as this world (earth) is concerned **NOTE**.
+
+In the Purāṇas and elsewhere Sūrya is called by words such as Āditya, Pūṣan, Mitra and Savitṛ. But in the Vedas, and especially in the Ṛgveda, the distinctive character of Sūrya is one thing, that of Āditya another, and that of deities such as Pūṣan, Mitra and Savitṛ yet another. Although the qualities of Sūrya are found in the twelve Ādityas beginning with Mitra, yet in sacrifices and the like, where Sūrya is praised, Āditya is not praised. All these are regarded as different deities. Not only that: in the Vedas, when one deity has a particular quality of his own, the deity together with that quality is regarded as a different one. For example, when Indra is called मरुत्वानिंद्रः (*marutvāniṃdraḥ*) or महानिंद्रः (*mahāniṃdraḥ*), Indra is one, Marutvān Indra (Indra together with the Marut deities) is another, and Mahān Indra (Indra of great form) is another, and they are worshipped each according to the occasion. In the same way such distinctions as अग्निः (*agniḥ*) and अग्निःपावकः (*agniḥpāvakaḥ*) are found among other deities too.
+
+**A brief introduction to Vaiśvānara Agni**
+
+वैश्वानरः ! इति त्रीणि पदानि । वैश्वानरः कस्माद्विश्वान्नरान्नयति! विश्व एनं नरा नयंतीति वा । अपि वा विश्वानर एव स्यात् प्रत्युतः सर्वाणि भूतानि तस्य वैश्वानरः ॥ (*vaiśvānaraḥ ! iti trīṇi padāni | vaiśvānaraḥ kasmādviśvānnarānnayati! viśva enaṃ narā nayaṃtīti vā | api vā viśvānara eva syāt pratyutaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ ‖*) (Ni. 7-2-)
+
+### Printed p. 526
+
+Now we shall explain the word Vaiśvānara. This word Vaiśvānara denotes a deity containing the meaning of the three words विश्वान् नरान् नयति (*viśvān narān nayati*). If it is asked why Vaiśvānara has this name: this deity विश्वान् नरान् नयति (*viśvān narān nayati*), leads all people along the good path; that is, he is the guide of all people on the good path. Therefore this deity is called Vaiśvānara. Or विश्वं एनं नरा नयंतीति वा (*viśvaṃ enaṃ narā nayaṃtīti vā*): or all men carry this deity to the northern altar in the sacrifices they perform; that is, when the rite called agnipraṇayana is performed in sacrifices, they take the fire, kindled by friction, from the place where it was produced, in the prescribed manner to the neighbourhood of the northern altar and establish it there; or all people carry fire to their own houses and establish it in places such as the kitchen for cooking. Therefore this Agni is called Vaiśvānara. Or else विश्वानर (*viśvānara*) himself is Vaiśvānara. This विश्वानर (*viśvānara*), pervading the bodies of all living beings in the form of the digestive fire, digests the food and other things the living beings eat. Therefore the विश्वानर (*viśvānara*) who is in the bodies of all beings is the fire Vaiśvānara.
+
+वैश्वानरस्य सुमतौ स्याम राजा हिकं भुवनानामभि श्रीः । इतो जातो विश्वमिदं विचष्टे वैश्वानरो यतते सूर्येण ॥ (*vaiśvānarasya sumatau syāma rājā hikaṃ bhuvanānāmabhi śrīḥ | ito jāto viśvamidaṃ vicaṣṭe vaiśvānaro yatate sūryeṇa ‖*) (Ṛ. Saṃ. 1-98-1)
+
+This Ṛk praises the fire Vaiśvānara. May we become worthy of the gracious favour of the fire Vaiśvānara. For this Vaiśvānara is a king, and a king is the support of all the worlds. Born in this world, he surveys the whole universe. Together with Sūrya he pervades everything: this is the chief meaning of the Ṛk.
+
+**Who is Vaiśvānara Agni? Is he a deity of the middle region?**
+
+इतो जातः सर्वमिदमभिविपश्यति वैश्वानरः संयतते सूर्येण राजा यः सर्वेषां भूतानामभिश्रयणीयस्तस्य वयं वैश्वानरस्य कल्याणां मत् स्यामेति । तत्को वैश्वानरः । मध्यम इत्याचार्याः ॥ (*ito jātaḥ sarvamidamabhivipaśyati vaiśvānaraḥ saṃyatate sūryeṇa rājā yaḥ sarveṣāṃ bhūtānāmabhiśrayaṇīyastasya vayaṃ vaiśvānarasya kalyāṇāṃ mat syāmeti | tatko vaiśvānaraḥ | madhyama ityācāryāḥ ‖*) (Ni. 7-22)
+
+This is the explanation of the Ṛk. This fire Vaiśvānara, born in this very world, is able to see the whole universe. Together with Sūrya he pervades the whole universe. May we become worthy of the best mind, that is, the favour, of such a Vaiśvānara. He is the king and the support of all created living beings. But who is this Vaiśvānara? What is his nature? Some teachers say that this Vaiśvānara is a deity who dwells in the middle region (the sky),
+
+### Printed p. 527
+
+because it is their view that this Vaiśvānara is the cause of rain. Therefore the Ṛk that describes the part played by this Vaiśvānara in the work of rain is quoted here.
+
+प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचंते । वैश्वानरो दस्युमग्निर्जघन्वा अधूनोत्काष्ठा अव शंबरं भेत् ॥ (*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacaṃte | vaiśvānaro dasyumagnirjaghanvā adhūnotkāṣṭhā ava śaṃbaraṃ bhet ‖*) (Ṛ. Saṃ. 1-59-6)
+
+I shall describe in a special way the greatness of this fire Vaiśvānara, the giver of desired things. Many people serve with devotion this fire Vaiśvānara, the slayer of Vṛtra. This fire Vaiśvānara slew Vṛtra, the dasyu. He split Śambara (the cloud) and killed it, and made the waters stored in the clouds fall on the earth as rain: this is the chief meaning of the Ṛk.
+
+The explanation of this Ṛk is:
+
+प्रब्रवीमि तन्महित्वं महाभाग्यं वृषभस्य वर्षितुरपां यं पूरवः पूरयितव्या मनुष्या वृत्रहणं मेघहनं सचंते सेवंते वर्षकामाः । दस्युर्दस्यते क्षयार्थादुपदस्यंत्यस्मिन्नसा उपदासयति कर्माणि तमग्निर्वृश्वानरो घ्नन्नवाधूनोदपः काष्ठा अभिनच्छंबरं मेघं ॥ (*prabravīmi tanmahitvaṃ mahābhāgyaṃ vṛṣabhasya varṣiturapāṃ yaṃ pūravaḥ pūrayitavyā manuṣyā vṛtrahaṇaṃ meghahanaṃ sacaṃte sevaṃte varṣakāmāḥ | dasyurdasyate kṣayārthādupadasyaṃtyasminnasā upadāsayati karmāṇi tamagnirvṛśvānaro ghnannavādhūnodapaḥ kāṣṭhā abhinacchaṃbaraṃ meghaṃ ‖*) (Ni. 7-23)
+
+So it stands. I shall describe in a special way the great greatness (the surpassing power) of this fire Vaiśvānara, who pours down rain. People who desire what they wish, and who desire rain, serve with reverence, with praises and the like, this Vaiśvānara, who destroys the demon Vṛtra (the cloud). The word dasyu is formed from the root दस् (*das*), "to destroy", and means an evil one who prevents the water from falling on the earth and destroys it. The fire Vaiśvānara struck such a dasyu, Śambara (the cloud; the word Śambara is read among the names of the cloud), scattered the waters that had gathered in the cloud, and made them fall on the earth as rain: this is the chief meaning.
+
+**The view of the earlier ritualists: Vaiśvānara is Āditya**
+
+(Objections and answers on this subject)
+
+अथासावादित्य इति पूर्वे याज्ञिकाः । एषां लोकानां रोहेण सवनाना रोह आम्मातो रोहात् प्रत्यवरोहश्चिकीर्षितस्तामनुकृतिं होताग्नि- (*athāsāvāditya iti pūrve yājñikāḥ | eṣāṃ lokānāṃ roheṇa savanānā roha āmmāto rohāt pratyavarohaścikīrṣitastāmanukṛtiṃ hotāgni-*)
+
+### Printed p. 528
+
+मारुते शस्त्रे वैश्वानरीयेण सूक्तेन प्रतिपद्यते सोऽपि न स्तोत्रियमाद्रियेताग्नेयो हि भवति । तत अगच्छति मध्यस्थाना देवता रुद्रं च मरुतश्च ततोऽग्निमिहस्थानमत्रवै स्तोत्रियं शंसति ॥ (*mārute śastre vaiśvānarīyeṇa sūktena pratipadyate so 'pi na stotriyamādriyetāgneyo hi bhavati | tata agacchati madhyasthānā devatā rudraṃ ca marutaśca tato 'gnimihasthānamatravai stotriyaṃ śaṃsati ‖*) (Ni. 7-23)
+
+Some ancient teachers, skilled in the performance of sacrifices, say that this Āditya who is seen by our eyes is Vaiśvānara. They give this reason: in sacrificial rites such as the morning pressing there is an order of ascent and descent, that is, of going up and coming down. The same is so in the worlds: the earth (the lower region), the sky (the middle region) and heaven (the region of heaven); and likewise among the pressings there are three, the morning pressing, the midday pressing and the third pressing. In sacrifices and the like the Hotṛ at the morning pressing invokes and praises the deities of the earth, at the midday pressing the deities of the middle region, and at the third pressing the deities of the region of heaven. This is the order of ascent. After the ascent comes the order of descent: first the deities of the region of heaven, then the deities of the middle region, then the deities of the earth are praised in order. This is the order of descent. In the order of descent he first praises the fire Vaiśvānara with the sūkta वैश्वानराय पृथुपाजसे (*vaiśvānarāya pṛthupājase*) (Ṛ. Saṃ. 3-3-1); then the deities of the middle region, Rudra and the Maruts, with the sūkta आते पितर्मरुतां (*āte pitarmarutāṃ*) (Ṛ. Saṃ. 2-23-1); then the fire Agni, the deity of the earth, with the sūkta यज्ञायज्ञावो अग्नये (*yajñāyajñāvo agnaye*) (Ṛ. Saṃ. 6-48-1). Since in the order of descent the praise of the fire Vaiśvānara comes first, and since this Āditya is a deity of the region of heaven, this fire Vaiśvānara is Āditya: this is the line of their argument.
+
+अथापि वैश्वानरीयो द्वादशकपालो भवत्येतस्य हि द्वादशविधं कर्म । (*athāpi vaiśvānarīyo dvādaśakapālo bhavatyetasya hi dvādaśavidhaṃ karma |*)
+
+Moreover, to the fire Vaiśvānara an oblation on twelve potsherds is always offered. Just as for Āditya an offering on twelve potsherds is prescribed in आदित्यं द्वादशकपालं (*ādityaṃ dvādaśakapālaṃ*), an offering in twelve divisions, pointing to the twelve months, is prescribed for Āditya, so it is prescribed for the fire Vaiśvānara also. Therefore this fire Vaiśvānara is Āditya.
+
+अथापि ब्राह्मणं भवत्यसौ वा आदित्योऽग्निर्वैश्वानरः ॥ (*athāpi brāhmaṇaṃ bhavatyasau vā ādityo 'gnirvaiśvānaraḥ ‖*)
+
+Moreover, there is also a Brāhmaṇa sentence: this Āditya is the fire Vaiśvānara.
+
+आथापि निवित् सौर्यवैश्वानरी भवत्या यो द्यां भात्या पृथिवीमित्येष हि द्यावापृथिव्यावाभासयति । (*āthāpi nivit sauryavaiśvānarī bhavatyā yo dyāṃ bhātyā pṛthivīmityeṣa hi dyāvāpṛthivyāvābhāsayati |*)
+
+### Printed p. 529
+
+A nivid mantra is a particular mantra that praises one deity and, in the midst of the śastra mantras, praises the distinctive quality of that deity. It is a separate mantra inserted and recited in the middle of the śastra mantras. Here, when the nivid mantras addressed to Āditya are recited, the mantra addressed to Sūrya and Vaiśvānara is recited; that is, that nivid mantra praises Sūrya and the fire Vaiśvānara (it sings the qualities of those deities). That mantra begins आ यो द्यां भात्र्या पृथिवीं (*ā yo dyāṃ bhātryā pṛthivīṃ*) **NOTE** and means "who illumines heaven and earth with his own light". It is Āditya who illumines heaven and earth with his own light; therefore the fire Vaiśvānara taught by this mantra is Āditya.
+
+अथापि छांदोमिकं सूक्तं सौर्यवैश्वानरं भवति दिव पृष्टो आरोचत इत्येष हि दिवि पृष्टो आरोचतेति ॥ (*athāpi chāṃdomikaṃ sūktaṃ sauryavaiśvānaraṃ bhavati diva pṛṣṭo ārocata ityeṣa hi divi pṛṣṭo ārocateti ‖*)
+
+And the chandomika sūkta दिवि पृष्ठो अरोचित (*divi pṛṣṭho arocita*) (Vā. Saṃ. 33-92) has Sūrya and Vaiśvānara as its deity. It says that he shines on the back (the lower part) of heaven. One who shines in heaven is Āditya. Since Vaiśvānara is praised by this very sūkta, this fire Vaiśvānara is Āditya.
+
+अथापि हविष्वांतीयं सूक्तं सौर्यवैश्वानरं भवति । (*athāpi haviṣvāṃtīyaṃ sūktaṃ sauryavaiśvānaraṃ bhavati |*)
+
+And the sūkta हविष्वांतमजरं (*haviṣvāṃtamajaraṃ*) (Ṛ. Saṃ. 10-88), the haviṣvāntīya sūkta (the sūkta recited at the time of drinking the oblation), has Sūrya and the fire Vaiśvānara as its deity; that is, this sūkta is addressed to Sūrya and the fire Vaiśvānara. In the Ṛk of this sūkta
+
+विश्वस्मा अग्निं भुवनाय देवा वैश्वानरं केतुमह्नामकृण्वन् । (*viśvasmā agniṃ bhuvanāya devā vaiśvānaraṃ ketumahnāmakṛṇvan |*) (Ṛ. Saṃ. 10-88-2)
+
+it is said that the gods appointed this fire Vaiśvānara to make days (daytimes), in order to produce light for the whole world. Because it is Sūrya who makes days, and because this fire Vaiśvānara too has the power to make days, this fire Vaiśvānara and Āditya are one person; that is, this fire Vaiśvānara is Āditya. All this is the view of the earlier teachers, the ritualists.
+
+**The view of Śākapūṇi: Vaiśvānara is the terrestrial fire (not Āditya)**
+
+(Objections and answers on this subject)
+
+अयमेवाग्निर्वैश्वानर इति शाकपूणिः । विश्वासरावेते उत्तरे ज्योतिषी वैश्वानरोऽयं यत्ताभ्यां जायते । कथं न्वयामॆताभ्यां जायत इति (*ayamevāgnirvaiśvānara iti śākapūṇiḥ | viśvāsarāvete uttare jyotiṣī vaiśvānaro 'yaṃ yattābhyāṃ jāyate | kathaṃ nvayāmètābhyāṃ jāyata iti*)
+
 ---
 
-**Progress note:** Done through printed p. 523. Mandala 10 sukta 87 verses 20-25; start of sukta 88 introduction
+**Progress note:** Done through printed p. 529. Mandala 10 sukta 88 introduction: Surya, Vaisvanara views
