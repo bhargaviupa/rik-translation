@@ -4931,6 +4931,132 @@ The subjects (विशः (*viśaḥ*)), the people made up of priests and sacr
 
 All the human subjects praise Agni. All the subjects born of Nahuṣa praise Agni. Agni hears the speech of praise that is beneficial to the sacrifice. The path of Agni is established in the ghee.
 
+### Printed p. 168
+
+##### English translation
+The races who are of human birth praise Agni, so do the men descended from king Nahush ; Agni, (hears) the voice which is fit for the path of sacrifice ; Agni's path lies everywhere in ghi.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नये॒ ब्रह्म॑ ऋ॒भव॑स्ततक्षुर॒ग्निं म॒हाम॑वोचामा सुवृ॒क्तिं।  
+> अग्ने॒ प्राव॑ जरि॒तारं॑ यवि॒ष्ठाग्ने॒ महि॒ द्रवि॑ण॒मा य॑जस्व ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नये । ब्रह्म । ऋभवः । ततक्षुः । अग्निं । महां । अवोचाम । सुवृक्तिं ।  
+> अग्ने । प्र । अव । जरितारं । यविष्ठ । अग्ने । महि । द्रविणं । आ । यजस्व ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नये ब्रह्म स्तोत्रमृभवो मेधाविनस्ततक्षुः । अकुर्वन् । वयं च
+> महां महांतमग्निं प्रति सुवृक्तिं स्तुतिमवोचाम । हे यविष्ठ युवतमाग्ने
+> जरितारं स्तोतारं प्राव । प्ररक्ष । हे अग्ने महि महद्द्रविणं धनमा यजस्व ।
+> प्रयच्छेत्यर्थः । अत्र प्रतिवाक्यमग्न्यभिधानं तस्य स्तुत्यत्वप्रदर्शनार्थं ॥
+
+##### Gist of the bhāṣya
+
+The Ṛbhus, the wise, fashioned a hymn of praise (ब्रह्म (*brahma*)) for Agni; and we have recited a good praise to the great Agni. O youngest Agni, protect the singer, the praiser. O Agni, grant great wealth. Here the name of Agni is repeated in every sentence in order to show that he is the one to be praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—the wise Ṛbhus
+- अग्नये (*agnaye*)—addressed to Agni
+- ब्रह्म (*brahma*)—a hymn of praise
+- ततक्षुः (*tatakṣuḥ*)—have fashioned
+- महां (*mahāṃ*)—great
+- अग्निं (*agniṃ*)—addressed to Agni
+- सुवृक्तिं (*suvṛktiṃ*)—an excellent praise
+- आवोचाम (*āvocāma*)—we have recited
+- यविष्ठ (*yaviṣṭha*)—exceedingly young
+- अग्ने (*agne*)—O Agni
+- जरितारं (*jaritāraṃ*)—your praiser
+- प्राव (*prāva*)—protect
+- अग्ने (*agne*)—O Agni
+- महि (*mahi*)—great
+- द्रविणं (*draviṇaṃ*)—wealth
+- आ यजस्व (*ā yajasva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Ṛbhus have fashioned a hymn of praise addressed to Agni. We have recited an excellent praise addressed to the great Agni. O Agni, exceedingly young, protect your praiser. O Agni, provide great wealth.
+
+### Printed p. 169
+
+##### English translation
+The Ribhus have fabricated praise for Agni; we have recited pious praise to the mighty Agni; Agni, youngest (of the gods), protect your worshipper; Agni, bestow (on him) abundant wealth.
+
+## Sūkta 81 (Maṇḍala 10)
+
+**Introduction**
+
+Sūktas 81 and 82 of the tenth maṇḍala, composed by the seer Viśvakarman, contain praise of the deity named Viśvakarman. Sāyaṇa and others have explained the mantras of these sūktas with reference to the sacrifice and also with reference to the self. The sūktas composed by seers such as Aghamarṣaṇa, Prajāpati, Parameṣṭhin, Brahmaṇaspati, Dīrghatamas and Hiraṇyagarbha all give an account of the creation, the maintenance and the rest of the world. But these sūktas do not all convey one and the same view. Concerning the maker of the world, or the nature of his resolve, or the primal cause of the world, not all the seers hold one view. In each sūkta there is a different kind of account; only in some of the main matters are they alike. The account तमिद्दर्भं प्रथमं दध्र अपः (*tamiddarbhaṃ prathamaṃ dadhra apaḥ*) (Śu. Saṃ. 10-82-6) **GLOSS** **NOTE** makes known the view of the seer Viśvakarman. The account of creation and of its order will be given in the Special Topics of the respective Ṛks. First, what the nature of Viśvakarman is, what the relation is between him and the created world, and such matters have to be examined here.
+
+विश्वकर्मा सर्वस्य कर्ता (*viśvakarmā sarvasya kartā*) (Ni. 10-25). The etymologists of the Nirukta explain that he is named Viśvakarman because he makes and perfects everything, that is, because he has created everything. Durgācārya, explaining this, says: यदिदं किंचिद्भूतं भविष्यमाणं, क्रियमाणं च तस्य सर्वस्य कर्ता । (*yadidaṃ kiṃcidbhūtaṃ bhaviṣyamāṇaṃ, kriyamāṇaṃ ca tasya sarvasya kartā |*) (Ni. Bhā. 10-25) **NOTE** That is to say, he has this name because he produces and
+
+### Printed p. 170
+
+refines all that existed before, all that will come to be, and all that is yet to be made. The Bṛhaddevatā also says this and explains the derivation of the word:
+
+निदाघमासातिगमे यदृतेनावति क्षितिं । विश्वस्य जनयन्कर्म विश्वकर्मृष तेन सः ॥ (*nidāghamāsātigame yadṛtenāvati kṣitiṃ | viśvasya janayankarma viśvakarmṛṣa tena saḥ ‖*) (Bṛ. De. 2-50)
+
+After the hot season (nidāgha) has passed, he makes the earth fertile with water and causes every kind of work to be begun in the world. Therefore the name is Viśvakarman. Viśvakarman also has the epithet Bhauvana. Some take it to mean the son of Bhuvana. If the spiritual sense is examined, this meaning does not result.
+
+विश्वकर्मा भुवनानां भूतानामात्मनि होता भूतेषु चात्मानं ; तथा हि विज्ञायते ; हुताहं भूतेश्वात्मानं जुहवानि भूतानि चात्मनि । (*viśvakarmā bhuvanānāṃ bhūtānāmātmani hotā bhūteṣu cātmānaṃ ; tathā hi vijñāyate ; hutāhaṃ bhūteśvātmānaṃ juhavāni bhūtāni cātmani |*) (Śa. Brā. 13-7-1-1)
+
+The sentence of the Śatapatha Brāhmaṇa tells the meaning of this epithet: because he has himself entered all worlds and all classes of beings and has absorbed all of them in himself, the epithet Bhauvana is well known for Viśvakarman. As he is the lord of all the worlds, he is Indra; as he pervades the three worlds, he is Agni; such praises too are many. That Indra himself fulfilled his task in the form of Viśvakarman is shown by an historical occasion told in the Aitareya Brāhmaṇa. On this occasion the identity of Prajāpati, the creator of the whole world, with Viśvakarman is shown. How? Thus:
+
+इंद्रो वै वृत्रं हत्वा विश्वकर्माभवत्प्रजापतिः प्रजाः सृष्ट्वा विश्वकर्माभवत्संवत्सरो विश्वकर्मेंद्रमेव तदात्मानं प्रजापतिं संवत्सरं विश्वकर्माणमाप्नुवंतींद्र एव तदात्मनि प्रजापतौ संवत्सरे विश्वकर्मण्यं ततः प्रतितिष्ठंति .... .... ॥ (*iṃdro vai vṛtraṃ hatvā viśvakarmābhavatprajāpatiḥ prajāḥ sṛṣṭvā viśvakarmābhavatsaṃvatsaro viśvakarmeṃdrameva tadātmānaṃ prajāpatiṃ saṃvatsaraṃ viśvakarmāṇamāpnuvaṃtīṃdra eva tadātmani prajāpatau saṃvatsare viśvakarmaṇyaṃ tataḥ pratitiṣṭhaṃti .... .... ‖*) (Ai. Brā. 4-22)
+
+Indra killed Vṛtra and obtained the form of Viśvakarman. Prajāpati, having created the creatures, became Viśvakarman. Viśvakarman is of the nature of the year. Indra too is of the nature of the year. Therefore, by contemplation of Indra, the realisation of the year, Prajāpati and Viśvakarman is obtained. In the end, the refuge of these protects the sacrificer. It is declared that one who knows this principle has a firm refuge without doubt. This Viśvakarman is Prajāpati himself, the source of the whole world.
+
+### Printed p. 171
+
+रसो ना ऊर्मिर्विश्वकर्मा त ऋषिरिति प्रजापतिर्वै विश्वकर्मा प्रजापतिसृष्टासि (*raso nā ūrmirviśvakarmā ta ṛṣiriti prajāpatirvai viśvakarmā prajāpatisṛṣṭāsi*) (Śa. Brā. 8 2-1-10) **GLOSS** **NOTE**
+
+विष्टंभो वय इति । प्रजापतिर्वै विष्टंभः स वयोऽभवदधिपतिश्चंद इति प्रजापतिर्वा अधिपतिः प्रजापतिरेवच्छंदोऽभवत् । विश्वकर्मा वय इति । प्रजापतिर्वै विश्वकर्मा स वयोऽभवत् ॥ (*viṣṭaṃbho vaya iti | prajāpatirvai viṣṭaṃbhaḥ sa vayo 'bhavadadhipatiścaṃda iti prajāpatirvā adhipatiḥ prajāpatirevacchaṃdo 'bhavat | viśvakarmā vaya iti | prajāpatirvai viśvakarmā sa vayo 'bhavat ‖*) (Śa. Brā. 8-2-3-12) **GLOSS**
+
+प्रजापतिर्नै विश्वकर्मेति । प्रजापतिर्नै विश्वकर्मा । स हीदग्ं सर्वमकरोन्मनो गंधर्वस्तस्य ऋक्सामान्यप्सरसः................ (*prajāpatirnai viśvakarmeti | prajāpatirnai viśvakarmā | sa hīdagṃ sarvamakaronmano gaṃdharvastasya ṛksāmānyapsarasaḥ................*) (Śa. Brā. 9-4-1-12) **GLOSS**
+
+In these and similar sentences the identity of Prajāpati and Viśvakarman is shown. The sacrifice, which is the navel of the world, has Prajāpati in the form of Viśvakarman as its support (refuge). So it comes to this: Viśvakarman is the refuge of the sacrifice, which is the basis of the world's activity. This support is itself of the nature of power (śakti). (Without power there is no support.) Therefore Prajāpati, the support of the principle of sacrifice, is himself this power. Because Prajāpati makes everything, he has the name Viśvakarman. In this way the nature of Viśvakarman is praised. The natures of those deities whom the Taittirīya Brāhmaṇa describes as विश्वसृजः (*viśvasṛjaḥ*) are all contained in Viśvakarman (Tai. Brā. 3-12-9). This account will be given in the Special Topics of the Ṛk beginning विश्वतश्चक्षुः (*viśvataścakṣuḥ*).
+
+The principle of speech, which is the root of all the activities of the world, is manifested by Prajāpati and stands as the support of the world in the very form of Prajāpati. (This matter will be explained in the Special Topics of the Ṛk Ṛ. Saṃ. 10-81-7.) Viśvakarman, who is praised as the lord of speech, has also created the world on the basis of speech, and he is also of the form of Agni.
+
+अग्निर्वा एषोऽग्नेरध्यजायत । शोकात्पृथिव्या उत वा दिवस्परीति यद्वै प्रजापतेः शोकादजायत तद्दिवश्च पृथिव्यै च शोकादजायत येन प्रजा विश्वकर्मा जजानेति वाग्वा अजो वाचो वै प्रजा विश्वकर्मा जजान तमग्ने हेडः परि ते वृणक्तु ॥ (*agnirvā eṣo 'gneradhyajāyata | śokātpṛthivyā uta vā divasparīti yadvai prajāpateḥ śokādajāyata taddivaśca pṛthivyai ca śokādajāyata yena prajā viśvakarmā jajāneti vāgvā ajo vāco vai prajā viśvakarmā jajāna tamagne heḍaḥ pari te vṛṇaktu ‖*) (Śa. Brā. 7-5-2-21)
+
+Agni is one born of Agni. Everything that is produced as the result of Prajāpati's austerity has to be said to be produced as the result of the sorrow (austerity) of heaven and earth. Therefore Agni was born as the result of the sorrow (austerity) of heaven and earth. This is the very basis of Viśvakarman's creation. By the basis of that principle of speech which is without birth,
+
+### Printed p. 172
+
+named Aja, Prajāpati in the form of Viśvakarman created the world. Here the root of creation is of the nature of Agni, and what has been created is of the nature of Agni. Everything is pervaded by the brilliance of Agni. Therefore it is explained that it is said "the birth of Agni from Agni".
+
+विश्वकर्मा ऋषिरिति । वाग्वै विश्वकर्मर्षिर्वाचा हीदग्ं सर्वं कृतं तस्माद्वाग्विश्वकर्मर्षिः प्रजापतिगृहीतया त्वयेति प्रजापतिसृष्टया त्वयेत्येतद्वाचं गृह्णामि प्रजाभ्य इति........ (*viśvakarmā ṛṣiriti | vāgvai viśvakarmarṣirvācā hīdagṃ sarvaṃ kṛtaṃ tasmādvāgviśvakarmarṣiḥ prajāpatigṛhītayā tvayeti prajāpatisṛṣṭayā tvayetyetadvācaṃ gṛhṇāmi prajābhya iti........*) (Śa. Bhā. 8-1-2-9) (Śa. Brā. 8-1-2-9) **NOTE**
+
+Viśvakarman, the maker of everything, is himself the seer. Because speech is the root of all the activity of all created beings, Viśvakarman is of the form of speech. "To you, created by Prajāpati in the form of Viśvakarman, and to your offspring, I provide speech": in contexts where such descriptions occur, speech and Viśvakarman are identical. It was said above that the world was made by Viśvakarman on the basis of this speech. The sacrifice is the basis of the creation of the world made by him; the dissolution too is in the form of sacrifice. Therefore Viśvakarman is present in the form of the sacrificial fire. There is no sacrifice without husband and wife together. Therefore Agni and his wife together take part in this sacrificial act. How? Thus:
+
+अथाहात्पात्नवतस्य यजेति । वृषा वा अग्नीद्योषा पत्नि मिथुनमेवैतत्पजननं क्रियते स जुहोत्यग्ना ३ पत्निवन्निति वृषा वा अग्निर्योषा पत्नि मिथुनमेवैतत्प जननं कुरुते ।........एतदंततो यज्ञस्य मिथुनात्पजननात्प जनयति ॥ (*athāhātpātnavatasya yajeti | vṛṣā vā agnīdyoṣā patni mithunamevaitatpajananaṃ kriyate sa juhotyagnā 3 patnivanniti vṛṣā vā agniryoṣā patni mithunamevaitatpa jananaṃ kurute |........etadaṃtato yajñasya mithunātpajananātpa janayati ‖*) (Śa. Brā. 4-4-2-8)
+
+The rule is: offer the sacrificial oblation addressed to him who has a wife. The principle named Āgnīdha is the male form; the wife is the female form. From the union of this husband and wife comes the birth of offspring. One must offer the oblation addressing "O Agni who has a wife". Agni is the male; the wife is the female (the sentence अग्ने वाक् पत्नि (*agne vāk patni*) stands in this same context in the Kāṇva recension of the Śatapatha Brāhmaṇa). In this way, from the union of Agni, in the form of the husband, with the female in the form of the wife (speech), the birth of offspring is described. This Agni, the sacrificial person, is the one called Viśvakarman. The Agni whom it names as lord of speech, and by whose sacrificial act it says the world was produced, that Agni is of the form of Viśvakarman. This matter has been stated precisely in this way:
+
+प्रत्येत्य वैश्वकर्माणि जुहोति । विश्वानि कर्माण्ययमग्निस्तान्यस्मात्र सर्वाणि कर्माणि कृतानि भवंति तान्येतत्प्रीणाति तानि हविषा देवतां (*pratyetya vaiśvakarmāṇi juhoti | viśvāni karmāṇyayamagnistānyasmātra sarvāṇi karmāṇi kṛtāni bhavaṃti tānyetatprīṇāti tāni haviṣā devatāṃ*)
+
+### Printed p. 173
+
+करोति ...... .... .... सा देवता न सा यस्यै न गृह्यतेऽथो विश्वकर्माय मग्निस्तमेवैतत्प्रीणाति ॥ (*karoti ...... .... .... sā devatā na sā yasyai na gṛhyate 'tho viśvakarmāya magnistamevaitatprīṇāti ‖*) (Śa. Brā. 9-5-1-42)
+
+The fire-altar (agnicayana) prescribed here includes all rites. Because it includes all rites, there is here the rule of offering the oblation to Viśvakarman, since Agni is Viśvakarman. An oblation offered in Agni is as if offered to all the deities.
+
+यद्दत्तं यत्परादानं । यत्पूर्तं याश्च दक्षिणाः । तदग्निर्वैश्वकर्मणः स्वर्देवेषु नो दधदिति यच्चैव संप्रति दद्यो यच्चासंप्रति तन्नोऽयमग्निर्वैश्वकर्मणः स्वर्गे लोके दधात्वित्येतत् ॥ (*yaddattaṃ yatparādānaṃ | yatpūrtaṃ yāśca dakṣiṇāḥ | tadagnirvaiśvakarmaṇaḥ svardeveṣu no dadhaditi yaccaiva saṃprati dadyo yaccāsaṃprati tanno 'yamagnirvaiśvakarmaṇaḥ svarge loke dadhātvityetat ‖*) (Śa. Batra, 9-5-1-49) **NOTE**
+
+Whatever gift is given by us addressed to Agni, whatever resolve is fulfilled, whatever oblations and the like are offered, all that Agni in the form of Viśvakarman establishes among the gods. Whatever we offer, whether in the prescribed seasons or at other times, all that he establishes in the world of the gods.
+
+यत्र धारा अनपेताः । मधोर्घृतस्य च याः तदग्निर्वैश्वकर्मणः स्वर्देवेषु नो दधदिति यथैव यजस्तथा बंधुः ॥ (*yatra dhārā anapetāḥ | madhorghṛtasya ca yāḥ tadagnirvaiśvakarmaṇaḥ svardeveṣu no dadhaditi yathaiva yajastathā baṃdhuḥ ‖*) (Śa. Cā. 9-5-1250) **NOTE**
+
+In the world of the gods where, without interruption, uninterrupted streams of honey and streams of ghee flow, in that world may Agni in the form of Viśvakarman establish us. May he cause the fruit suited to our prescribed rite to be obtained. In this way, showing the identity of Agni and Viśvakarman, it is praised that every oblation offered in Agni (in the fire-altar) gives satisfaction to Agni in the form of Viśvakarman and gives its fruit.
+
+The word Viśvakarman, according to the context, is an epithet praising the nature of Indra and of Āditya. It means the power that makes everything. The names Agni, Indra and Āditya are names suited to the respective world and the respective rite, and they do not show a difference in the root principle; this was stated earlier, when the three kinds of forms of Agni were described at the time of the praise of Agni. Therefore, if Agni is Viśvakarman, there is no impropriety in Indra and Āditya also being designated by the same name. Describing Indra by the same epithet, the Ṛk Saṃhitā says thus—
+
 ---
 
-**Progress note:** Done through printed p. 166. Mandala 10 sukta 80 verses 1-6, pp. 161-166
+**Progress note:** Done through printed p. 173. Mandala 10 sukta 80 verse 7; sukta 81 introduction, pp. 168-173
