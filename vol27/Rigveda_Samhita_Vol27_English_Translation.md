@@ -15581,6 +15581,229 @@ Sūkta 13. Maṇḍala 10; Anuvāka 1; Sūkta 13. Aṣṭaka 7; Adhyāya 6; Varg
 
 O carts, addressing you and reciting an ancient hymn of praise, I fill you with oblations. As the seer's praise resorts to the various directions and joins the gods, so may your sound go and reach all the gods. May all the gods, those who occupy the places belonging to the heavenly world and who are the sons of Prajāpati, who is free of the nature of death, hear your sounds.
 
+### Printed p. 423
+
+##### English translation
+I load you two with sacred offerings, repeating an ancient prayer ; may the sound (of your approach) reach (the gods) like the path of the worshipper, may all the sons of the immortal (Prajapati) who inhabit the celestial regions hear (the sound).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒मे इ॑व॒ यत॑माने॒ यदैतं॒ प्र वां॑ भर॒न्मानु॑षा देव॒यंतः॑ ।  
+> आ सी॑दतं॒ स्वमु॑ लो॒कं विदा॑ने स्वास्॒थे भ॑वत॒मिंद॑वे नः ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यमे इवेति यमेऽइव । यतमाने इति । ऋत् । ऐतं । प्र । वां । भरत्  
+> मानुषाः । देवयंतः ।  
+> आ । सीदतं । स्वं । ऊं इति । लोकं । विदाने इति । स्वास्थे इति सुआस्थे । भवतं  
+> इंदवे । नः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रैव हविर्धानप्रवर्तने यमे इव इत्येषा । सूत्रितं च । यमे इव
+> यतमाने यदैतमधिद्वयोरदधा उक्थ्यं वच इत्यर्धर्च अरमेत् । आ. ४-९ । इति॥
+> यमे इव यथा सहोत्पन्ने अपत्ये संचरतः तथा यतमाने गमनहविर्धारणादिस्वाधिकारकर्मणि प्रवर्तमाने हविर्धानशकटे युवां यद्यदैतं हविर्धानस्थानं प्रतिगच्छतः तदा देवयंतो देवकामा मानुषा यजमाना वां
+> युवां प्र भरन् ! प्रभरंति । किंच युवां स्वमु लोकमात्मीयमेव हविर्धानाख्यं स्थानं विदाने जानती आ सीदतं । ततो नोऽस्माकमिंदवे सोमार्थं
+> स्नानस्थे शोभननिवासस्थाने भवतं ॥
+
+##### Gist of the bhāṣya
+
+The verse यमे इव (*yame iva*) is used in the rite of setting the Havirdhāna carts in motion. The sūtra says: यमे इव यतमाने यदैतमधिद्वयोरदधा उक्थ्यं वच इत्यर्धर्च अरमेत् (*yame iva yatamāne yadaitamadhidvayoradadhā ukthyaṃ vaca ityardharca aramet*) (Ā. 4-9): he is to begin with the half-verse. Like twins born together who move about together, the two Havirdhāna carts are busy in their own task of going and carrying the oblations. When you two reach the place of the Havirdhāna, the sacrificers, desiring the gods, bring you forward. Knowing your own place, called Havirdhāna, settle in it. Then, for our Soma, be a good, pleasant dwelling-place.
+
+### Printed p. 424
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यमे इव (*yame iva*)—like twins born together
+- यतमाने (*yatamāne*)—O carts, engaged together in the work of the gods
+- यत् (*yat*)—when
+- ऐतं (*aitaṃ*)—you come to the place of the Havirdhāna, then
+- देवयंतः (*devayaṃtaḥ*)—devoted to the worship of the gods
+- मानुषाः (*mānuṣāḥ*)—the sacrificers
+- वां (*vāṃ*)—you
+- प्र भरन् (*pra bharan*)—receive abundantly
+- स्व मु लोकं (*sva mu lokaṃ*)—your own Havirdhāna place
+- विदाने (*vidāne*)—making for yourselves
+- आ सीदतं (*ā sīdataṃ*)—settle in it
+- नः (*naḥ*)—our
+- इंदवे (*iṃdave*)—for the Soma
+- स्वासस्थॆ (*svāsasthè*)—a good dwelling-place
+- भवतं (*bhavataṃ*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O carts, engaged together in the work of the gods like twins born together: when you come to the place of the Havirdhāna, the sacrificers, devoted to the worship of the gods, welcome you abundantly. Settle in your own Havirdhāna place. Be makers of a good dwelling-place for your Soma.
+
+##### English translation
+When you two came, like twins, busily engaged, then devout worshippers brought you forward: knowing your place there abide and be fair storehouses for our Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+That this verse, यमे इव (*yame iva*), is to be recited in the rite called Havirdhāna-pravartana is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, यमे इव यतमाने यदैतमधिद्वयोरदधा उक्तं वच इत्यर्धर्च आरमेत् (*yame iva yatamāne yadaitamadhidvayoradadhā uktaṃ vaca ityardharca āramet*) (Ā. 4-9).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पंच॑ प॒दानि॑ रु॒पो अन्व॑रोहं॒ चतु॑ष्पदी॒मन्वे॑मि व्र॒तेन॑ ।  
+> अ॒क्षरे॑ण॒ प्रति॑ मिम ए॒तामृ॒तस्य॒ नाभा॒वधि॒ सं पु॑नामि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पंच । पदानि । रुषः । अनु । अरोहं । चतुःपदीं । अनु । एमि । व्रतेन ।  
+> अक्षरेण । प्रति । मिमे । एतां । ऋतस्य । नाधौ । अधि । सं । पुनामि ॥ ३ ॥
+
+### Printed p. 425
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रुपो यष्टृणां स्वर्गमारोपयितुर्यज्ञस्यांगत्वेन संबंधीनि पंचसंख्याकानि धानासोमपशुपुरोडाशाज्याख्यानि पदानि वृष्टिहेतुत्वेन देवान्प्रति
+> गंत्यणि हवींप्यन्वरोहं । अनुरोहामि । शकटयोः स्थापनवहनानंतरं करणं
+> करोमीत्यर्थः । किंच चतुष्पदीं चतुर्भिः पादैर्युक्तां त्रिष्टुबादिच्छंदसं
+> क्रियां व्रतेन प्रयोगकर्मणान्वेमि। अनुगच्छामि । यथाकालं प्रयुनज्मीत्यर्थः ।
+> अक्षरेण प्रणवाख्येनैतामुपस्थितां प्रतिगरक्रियां प्रति मिमे । निर्ममे । अपि
+> चर्तस्य यज्ञस्य । अधीति सप्तम्यर्थ्यानुवादी । नाभौ नाभिभूते वेद्याख्ये स्थाने सं
+> पुनामि । संशोधयामि । दशापवित्रेण सोमं संस्करोमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The five oblations connected with the sacrifice, which raise the sacrificer to heaven — grain, Soma, animal, cake and ghee — I make ascend, i.e. I make them be carried, to the gods as a cause of rain; the meaning is that after the carts have been set up and made to carry, I perform the act. Further, I follow with the observance, i.e. the rite of application, the four-footed (Triṣṭubh and other metre) act; I employ it at the proper time. With the syllable called praṇava I fashion this present act called pratigara. And in the navel of the sacrifice, the place called the Vedi, I purify, i.e. I prepare the Soma with the ten-strand filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O carts) रुपः (*rupaḥ*)—the sacrificial
+- पंच पदानि (*paṃca padāni*)—five kinds of oblation: grain, Soma, animal, cake, ghee
+- अन्वरोहम् (*anvaroham*)—I make them be carried by you
+- चतुष्पदीं (*catuṣpadīṃ*)—praises furnished with four feet (in metre)
+- व्रतेन (*vratena*)—with the prescribed rites
+- अन्वेमि (*anvemi*)—I employ at the proper time
+- अक्षरेण (*akṣareṇa*)—with the syllable of the form of praṇava
+- एतां (*etāṃ*)—this act called pratigara
+- प्रति मिमे (*prati mime*)—I fashion
+- ऋतस (*ṛtasa*) आधि (*ādhi*)—in the sacrifice
+- नाभौ (*nābhau*)—in the Vedi, which is of the form of a navel
+- सं पुनामि (*saṃ punāmi*)—I prepare the Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O carts, I make you carry the five kinds of oblation connected with the sacrifice — grain, Soma, animal, cake and ghee. I employ four-footed (metrical) praises with the prescribed rites at the proper time. With the syllable of the form of praṇava I fashion this act called pratigara. In the sacrifice, on the Vedi which is of the form of a navel, I prepare the Soma.
+
+##### English translation
+I make the five stages of the sacrifice ascend ; I take four steps by pious observances; with the sacred syllable, I perfect this (adoration); I purify (the Soma) on the navel of the sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वेभ्यः॒ कम॑वृणीत मृ॒त्युं प्र॒जायै॒ कम॒मृतं॒ नावृ॑णीत ।  
+> बृह॒स्पतिं॑ य॒ज्ञम॑कृण्वत॒ ऋषिं॑ प्रि॒यां य॒मस्त॒न्वं१॒॑ १ प्रारि॑रेचीत् ॥ ४ ॥
+
+### Printed p. 426
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवेभ्यः । कं । अवृणीत । मृत्युं । प्रजायै । कं । अमृतं । न । अवृणीत ।  
+> बृहस्पतिं । यज्ञं । अकृण्वत । ऋषिं । प्रियां । यमः । तन्वं । प्र । अरिरेचीत् ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवेभ्यो देवानां मृत्युं मारयितारं कं स्वपुरुषमवृणीत । प्रार्थयते । प्रयुंक्ते । किंच प्रजायै देवव्यतिरिक्ताया मनुष्यादिकायाः प्रजाया
+> अमृतममारकमनिनाशकं कं वा स्वपुरुषं नावृणीत । न प्रयुंक्ते । हविर्धारणक्रियायां प्रवृत्तायां सत्यां पूर्वोक्तानां सर्वेषां स्थितेरवश्यंभावित्वान्न
+> कंचिदपि विनाशकं स्वपुरुषं यमो निरूपयतीत्यर्थः । अपि च बृहस्पतिं बृहतां
+> देवानां हविर्धारणे पालकं बृहतां मंत्राणां स्वामिनं वर्षिं सर्वस्य दृष्टादृष्टफलस्य द्रष्टारं यज्ञमकृण्वत । ऋत्विग्यजमानाः कुर्वंति । अपि च यमः
+> प्रियां तन्वमस्मदीयमिष्टं शरीरं प्रारिरेचीत् ! धातूनामनेकार्थत्वाद्रिचिरत्र
+> परिहारार्थ वर्तते । प्ररेचयति । मृत्योऽसकाशात्परिहरति । कर्मवैगुण्यजनितदोषभावादस्माकं जीवितं नापहरतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+For the gods, Yama has chosen (appointed, employed) some man of his own as a slayer, मृत्युं (*mṛtyuṃ*). And for the progeny other than the gods — men and the rest — he has not chosen any man of his as immortal, i.e. non-slaying, non-destroying. The meaning is that, once the act of carrying the oblations is under way, since the continued existence of all those mentioned before is certain, Yama appoints no destroyer at all. Further, the priests and sacrificers have made Bṛhaspati — protector of the great gods in carrying the oblations, lord of the great mantras, the seer, beholder of all visible and invisible fruit — into the sacrifice. And Yama has प्रारिरेचीत् (*prārirecīt*) our dear body: since roots have many meanings, the root ric here has the sense of avoiding; he turns it away from death. The meaning is that because no fault arises from any defect in the rite, he does not take away our life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेभ्यः (*devebhyaḥ*)—to the gods
+- मृत्युं (*mṛtyuṃ*)—as slayer
+- कं (*kaṃ*)—which man
+- अवृणीत (*avṛṇīta*)—(Yama) has appointed
+- प्रजाय्कॆ (*prajāykè*)—to mankind
+- अमृतं (*amṛtaṃ*)—one who is not a destroyer
+- कं (*kaṃ*) (वा (*vā*))—whom indeed
+- नावृणीत (*nāvṛṇīta*)—has he not appointed
+- बृहस्पतिं (*bṛhaspatiṃ*)—called Bṛhaspati
+- ऋषिं (*ṛṣiṃ*)—the seer
+- यज्ञं (*yajñaṃ*)—as the sacrifice
+- अकृण्वत (*akṛṇvata*)—the priests and sacrificers have made
+- यमः (*yamaḥ*)—the god Yama
+- प्रियां (*priyāṃ*)—dear
+- तन्नं (*tannaṃ*)—our body
+- प्रारिरेचीत् (*prārirecīt*)—has kept safe
+
+##### भावार्थ (Bhāvārtha)
+
+Which man, a slayer for the gods, has Yama appointed? Whom, one who is not a destroyer, has he not appointed for mankind? The priests and sacrificers have made the seer called Bṛhaspati into the sacrifice. The god Yama has kept our dear body safe.
+
+##### English translation
+Whom has he selected as the slayer of the gods? Whom has he not selected as non-slayer of the human race? They have made the Rishi Brihaspati the sacrifice, Yama preserves our loved bodies.
+
+#### Ṛk 5
+### Printed p. 427
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्त क्ष॑रंति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अस्य॑वीवतन्नृ॒तं।  
+> उ॒भे इद॑स्यो॒भय॑स्य राजत उ॒भे य॑तेते उ॒भय॑स्य  
+> पुष्यतः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्त । क्षरंति । शिशवे । मरुत्वते । पित्रे । पुत्रासः । अपि । अवीवतन् । ऋतं ।  
+> उभे इति । इत् । अस्य । उभयस्य । राजतः । उभे इति । यतेते इति । उभयस्य ।  
+> पुष्यतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्वते । मरुतः स्तोतारः । स्तुतिद्वारेण तद्वते पितृ ऋत्विजां पितृभूताय शिशवे शंसनीयाय हविर्धानशकटयोः सुखासीनभूताय सोमाय सप्त
+> च्छंदांसि क्षरंति । स्तुतित्वेन गच्छंति । अपि च पुत्रासोऽपि सोमस्य पुत्रभूता ऋत्विजोऽप्यतं सत्यभूतं स्तोत्रमवीवतन् । संगमयंति । सद्गुणग्राहिणीं स्तुतिं
+> कुर्वंतीत्यर्थः । उभे इद्दे एव हविर्धानशकटे अस्योभयस्य देवजातस्य मनुष्यजातस्य च राजतः । ईशाते । उभे एव शकटे यतेते । कर्मानुषा ने प्रयत्नं
+> कुरुतः । उभयस्य देवजातस्य मनुष्यजातस्य च पुस्कृतः । हविर्धारणद्यारेण पुष्टिं
+> कुरुत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+मरुत्वते (*marutvate*): the Maruts are the praisers; by way of praise, he who has them. To the child, the one to be praised, who is the father of the priests and is seated at ease on the two Havirdhāna carts — to Soma — the seven metres flow, i.e. go as praise. And the sons also, the priests who are sons of Soma, अवीवतन् (*avīvatan*) the true praise, i.e. bring it together; the meaning is that they make praise that seizes good qualities. Both carts rule over both, what is born of the gods and what is born of men. Both carts exert themselves, making effort for the rite. They nourish both, what is born of gods and of men; the meaning is that they bring about nourishment by carrying the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वते (*marutvate*)—one furnished with praise
+- पित्रे (*pitre*)—father to the priests
+- शिशवे (*śiśave*)—of the form of a son to the carts; toward Soma
+- सप्त (*sapta*)—the seven metres
+- क्षरंति (*kṣaraṃti*)—flow in the form of praise
+- पुत्रासः अपि (*putrāsaḥ api*)—the priests, sons of Soma
+- ऋतं (*ṛtaṃ*)—praise of the nature of truth
+- अवीवतन् (*avīvatan*)—offer
+- उभे इत् (*ubhe it*)—both these carts
+- अस्य उभयस्य (*asya ubhayasya*)—of all, gods, men and others
+- राजतः (*rājataḥ*)—are lords
+- उभे (*ubhe*)—both these carts
+- यतेते (*yatete*)—exert themselves for the rite
+- उभयस्य (*ubhayasya*)—for all, gods, men and others
+- पुष्यतः (*puṣyataḥ*)—you are nourishers
+
+##### भावार्थ (Bhāvārtha)
+
+Toward Soma, who is furnished with praise, father to the priests and of the form of a son to the carts, the seven metres flow in the form of praise. The priests, sons of Soma, offer praise of the nature of truth.
+
+### Printed p. 428
+Both these carts are lords of all, gods, men and others. Both these carts exert themselves for the rite. O carts, you are nourishers of all, gods, men and others.
+
+##### English translation
+The seven (metres) offer laudation to the glorious, the adorable parent (the Soma), his sons (the priests) utter his true (praise); you both are lords of both (men and gods), you both exert yourselves and are the nourishers of both (men and gods¹.
+
+## Sūkta 14 (Maṇḍala 10)
+In this sūkta and in some following sūktas there are descriptions explaining the Pitṛs, the divisions and subdivisions among them, and the regions or worlds where they dwell. First one must understand what is meant by Pitṛs, who they are and what their nature is. After men who live on earth have died, their earthly body is dissolved and its various parts merge into the five elements, earth and the rest. The five elements are earth, water, air, fire and space. That is, the solid substances in the body, such as bones, merge in time into the earth; the liquid ones, such as blood, into water; the vital airs into air; the fire in the body in the form of heat into fire; and the remainder into space. But there is a vital power that does not dissolve into these five elements. By it all the functions of the body go on while a person lives. It does not perish with the body. Remaining in a subtle form, it stays for a long time experiencing pleasure, pain and the like in the subtle worlds such as heaven, according to the fruit of the deeds it has done. This vital power the Ṛgveda describes by the words ātman, jīva, manas and jyotis. After this ātman is separated from the dead body, it stays for some time in the preta-body and afterwards goes to heaven and the like. It is customary to call the souls of the dead who are in heaven and the like Pitṛs. That is, persons in subtle form, who were our elders, who lived on this earth in the past, before we were born, and who after death still enjoy happiness and delight in the good worlds such as heaven, are called Pitṛs.
+
 ---
 
-**Progress note:** Done through printed p. 422. pp. 417-422 (batch API)
+**Progress note:** Done through printed p. 428. pp. 423-428 (batch API)
