@@ -28662,6 +28662,174 @@ Keśāḥ means hairs, body-hair. Keśa is also a name for rays, because hairs a
 कृत्वा सायं पृथग्याति भूतेभ्यस्तमसोऽत्यये । प्रकाशं किरणैः कुर्वंस्तेनैनं केशिनं विदुः ॥ (*kṛtvā sāyaṃ pṛthagyāti bhūtebhyastamaso 'tyaye | prakāśaṃ kiraṇaiḥ kurvaṃstenainaṃ keśinaṃ viduḥ ‖*) (Bṛ. De. 2-65)
 Explanation of the word Keśin: in the evening he sets and darkness comes; when in due course that darkness has passed and it is light, he makes light with his rays for the benefit of all living beings; therefore they call this god (the sun) Keśin.
 
+### Printed p. 868
+
+Further, in the 44th Ṛk of the 164th sūkta of the first maṇḍala it is said: त्रयः केशिनः (*trayaḥ keśinaḥ*), "the three Keśins, possessed of excellent rays that stand in the place of hair". The word केशिनः (*keśinaḥ*) applies to the three deities Agni, Vāyu and Sūrya, as having excellent rays in place of hair. The Bṛhaddevatā describes the same thing and states the particular nature of Agni, Vāyu and Āditya:
+
+अर्चिभिः केश्ययं त्वग्निर्विद्युद्भिश्चैव मध्यमः । निपातमात्रे कथ्यंते तथाग्नेयानि कानिचित् ॥ (*arcibhiḥ keśyayaṃ tvagnirvidyudbhiścaiva madhyamaḥ | nipātamātre kathyaṃte tathāgneyāni kānicit ‖*) (Bṛ. De. 1-94)
+
+The flame of the earthly Agni is like hair, so Agni is named Keśin. Vāyu, who dwells in the atmosphere, is Keśin through his lightning-like radiances, and Āditya, who dwells in the heavenly world, through his rays. Each is so called through his own … **NOTE**.
+
+एतेषां तु पृथक्त्वेन त्रयाणां केशिनामिह । संलक्ष्यंते प्रक्रियासु त्रयः केशिन इत्यैचि ॥ (*eteṣāṃ tu pṛthaktvena trayāṇāṃ keśināmiha | saṃlakṣyaṃte prakriyāsu trayaḥ keśina ityaici ‖*) (Bṛ. De. 1-95)
+
+Since the natures of these three kinds of Keśins are different, their actions too are different; this is what is said in the Ṛk त्रयः केशिनः (*trayaḥ keśinaḥ*) (1-164-44). But it is not possible to divide up their actions and their extent and to say exactly that this is so and not otherwise. Since all are all-pervading, a division of places is also not possible.
+
+न चैवैषां प्रसूतिर्वा विभूतिस्थानजन्म वा । निर्वक्तुं शक्यमेतैर्हि कृत्स्नं व्याप्तमिदं जगत् ॥ (*na caivaiṣāṃ prasūtirvā vibhūtisthānajanma vā | nirvaktuṃ śakyametairhi kṛtsnaṃ vyāptamidaṃ jagat ‖*) (Bṛ. De. 1-96)
+
+It is not possible to say separately of these their origin, their power or their place. The whole world is pervaded by them. Their power and their actions are limited neither by place nor by time.
+
+It must be examined whether these three deities—who under the names Agni, Vāyu and Āditya carry out their duties in the three worlds in three ways, according to time—are of different natures, or are three different forms of one principle. In the 164th sūkta, from its beginning, it is seen that the main aim is the teaching of the one principle that pervades the whole universe. In some Ṛks it is described as the Supreme Brahman, in other places as the Supreme Person, golden in form, who dwells within Āditya. Although the present Ṛk seems to describe deities of different natures, it is described in many places that the basic principle of all of them is one, and that all of them are different forms of that basic principle. In some places that basic principle is called Āditya, in others Agni.
+
+### Printed p. 869
+
+भवद्भूतस्य भव्यस्य जंगमस्थावरस्य च । अस्यैके सूर्यमेवैकं प्रभवं प्रलयं विदुः ॥ (*bhavadbhūtasya bhavyasya jaṃgamasthāvarasya ca | asyaike sūryamevaikaṃ prabhavaṃ pralayaṃ viduḥ ‖*)
+
+असतत्त्व सतश्चैव योनिरेषा प्रजापतिः । यदक्षरं च वाच्यं च यथैतद्ब्रह्म शाश्वतं ॥ (*asatattva sataścaiva yonireṣā prajāpatiḥ | yadakṣaraṃ ca vācyaṃ ca yathaitadbrahma śāśvataṃ ‖*)
+
+कृत्वैष हि त्रिधात्मानं एष लोकेषु तिष्ठति । देवान्यथायथं सर्वान् निवेश्य स्वेषु रश्मिषु ॥ (*kṛtvaiṣa hi tridhātmānaṃ eṣa lokeṣu tiṣṭhati | devānyathāyathaṃ sarvān niveśya sveṣu raśmiṣu ‖*)
+
+एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा । ऋषयो गीर्भिरर्चंति होत्रायां व्यक्तबर्हिषः ॥ (*etadbhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā | ṛṣayo gīrbhirarcaṃti hotrāyāṃ vyaktabarhiṣaḥ ‖*) (Bṛ. De. 1-61 to 64)
+
+For the continuance and the dissolution (destruction) of the whole moving and unmoving world in the present, past and future, Sūrya (Prajāpati) alone is the chief cause. Prajāpati is the source of the principles (states) called asat and sat, which have an unmanifest and a manifest nature; that is, the manifest and unmanifest forms come into being from Prajāpati himself. This Prajāpati is the one denoted by the word Parabrahman, imperishable and eternal. This Prajāpati, or Sūrya, having divided his own nature into three parts, stands established in this world. He has placed all the deities in his rays, that is, in the bond of his own power. This Prajāpati or Sūrya himself is established in these worlds in three ways: he shines in three ways, like Agni on earth, like lightning in the atmosphere, and like Sūrya in heaven. The seers praise and worship him with Vedic words and with Sāman chants. He is the basic principle of the three deities described in the present Ṛk in the three forms Agni, Vāyu and Āditya; all of them are his different forms.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> केशीति सप्तर्चमष्टमं सूक्तमग्निसूर्यवायुदेवताकं । वातरशनपुता
+> जूतिवातजूतिप्रभृतयः प्रत्यृचं क्रमेणर्षयः । तथा चानुक्रांतं । केशी
+> मुनयो वातरशना जूतिर्वातजूतिर्विप्रजूतिर्वृषाणकः करिक्रत एतश ऋष्यशृंगश्चैकर्चाः कैशिनमिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, beginning केशी (*keśī*), has seven Ṛks, and its deities are Agni, Sūrya and Vāyu. The seers, one for each Ṛk in order, are the sons of Vātarasana: Jūti, Vātajūti, and so on. He quotes the Anukramaṇī: केशी मुनयो वातरशना जूतिर्वातजूतिर्विप्रजूतिर्वृषाणकः करिक्रत एतश ऋष्यशृंगश्चैकर्चाः कैशिनमिति (*keśī munayo vātaraśanā jūtirvātajūtirviprajūtirvṛṣāṇakaḥ karikrata etaśa ṛṣyaśṛṃgaścaikarcāḥ kaiśinamiti*). The ritual use (viniyoga) has been stated already.
+
+##### Anuvāda
+
+This sūkta, केशी (*keśī*), is the eighth sūkta in the eleventh anuvāka. It has seven Ṛks. Its deities are Agni, Sūrya and Vāyu; seven seers, sons of the seer Vātarasana—Jūti, Vātajūti, Viprajūti, Vṛṣāṇaka, Karikrata, Etaśa and Ṛṣyaśṛṅga—are the seers of its Ṛks, one for each Ṛk in order. In the Anukramaṇī: *keśī munayo
+
+### Printed p. 870
+
+vātaraśanā jūtirvātajūtirviprajūtirvṛṣāṇakaḥ karikrata etèśa ṛṣyaśṛṃgaścaikarcāḥ kaiśinaṃ* is what is said. The viniyoga has been stated before.
+
+Sūkta 136
+Maṇḍala 10; Anuvāka 11; Sūkta 136; Aṣṭaka 8; Adhyāya 7; Varga 24.
+Number of Ṛks in the sūkta: 7.
+Seers: the Munis, sons of Vātarasana: 1. Jūti; 2. Vātajūti; 3. Viprajūti; 4. Vṛṣāṇaka; 5. Karikrata; 6. Etaśa; 7. Ṛṣyaśṛṅga.
+Deity: the Keśins.
+Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> के॒श्य१॒॑ग्निं के॒शी वि॒षं के॒शी बि॑भर्ति॒ रोद॑सी ।  
+> के॒शी विश्वं॒ स्व॑र्दृ॒शे के॒शीदं ज्योति॑रुच्यते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> केशी । अग्निं । केशी । विषं । केशी । बिभर्ति । रोदसी इति ।  
+> केशी । विश्वं । स्वः । दृशे । केशी । इदं । ज्योतिः । उच्यते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> केशाः केशस्थानीया रश्मयः । तद्वंतः केशिनोऽग्निर्वायुः सूर्यश्च । एते
+> त्रयः स्तूयंते । केशी रश्मिभिर्युक्तः प्रकाशमानो ना सूर्योऽग्निं बिभर्ति ।
+> हविर्भिः पोषयति । धारयति वा । कालविशेषे ह्यग्नेः पोषणाय होमः । स च
+> कालविशेषः सूर्यगत्यधीन इति सूर्य एव बिभर्तित्युच्यते । तथा विषं । उदकनामैतत् । उदकं रश्मिभिर्घर्मसमय आह्ृतमयमेव केशी बिभर्ति विस्रष्टुं । तथा
+> रोदसी द्यावापृथिव्यावश्ययमेव बिभर्ति । आपि च विश्वं व्याप्तं स्वः सर्वं जगद्दृशे
+> दर्शनायायमेव केशी करोति । प्रकाशयतीत्यर्थः । इत्थंमहानुभावः केशी को
+> नामेत्यत अह । इदं दृश्यमानं मंडलस्थं यज्योतिरिदमेव केशीत्युच्यते ।
+> नान्य इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+केशाः (*keśāḥ*) are the rays standing in the place of hair; those who possess them are केशिनः (*keśinaḥ*): Agni, Vāyu and Sūrya. These three are praised. The radiant Keśin, Sūrya, joined with rays, "bears" Agni: he nourishes him with oblations, or he sustains him. For the homa that nourishes Agni takes place at a particular time, and that particular time depends on the course of Sūrya; therefore it is said that Sūrya alone bears him. Likewise विषं (*viṣaṃ*) is a name for water; the Keśin bears the water drawn up by his rays in the hot season, in order to release it. Likewise he bears heaven and earth (रोदसी (*rodasī*)) necessarily. Moreover the Keśin makes the whole pervaded world visible, for seeing; that is, he illumines it. Who then is this Keśin of such greatness? He answers: this visible light in the orb, this alone is called the Keśin, and no other.
+
+### Printed p. 871
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- केशी (*keśī*)—Sūrya, joined with rays or radiant
+- अग्निं (*agniṃ*)—Agni
+- बिभर्ति (*bibharti*)—nourishes (with oblations)
+- केशी (*keśī*)—Sūrya
+- विषं (*viṣaṃ*)—bears the water
+- केशी (*keśī*)—Sūrya
+- रोदसी (*rodasī*)—heaven and earth
+- बिभर्ति (*bibharti*)—bears
+- केशी (*keśī*)—Sūrya
+- विश्वं (*viśvaṃ*)—pervaded
+- स्वः (*svaḥ*)—the heavenly world
+- दृशे (*dṛśe*)—makes visible to all
+- इदं (*idaṃ*)—this visible
+- ज्योतिः (*jyotiḥ*)—the radiant orb of the sun
+- केशी (*keśī*)—as Sūrya
+- उच्यते (*ucyate*)—is called
+
+##### भावार्थ (Bhāvārtha)
+
+The radiant Sūrya, joined with rays, nourishes Agni with oblations. The same Sūrya draws up water and bears it; he bears heaven and earth. He makes the heavenly world shine so that all can see it. This orb of light that we see with our eyes is Sūrya.
+
+##### English translation
+The radiant (Sun supports) Agni, the radiant one (supports) water, the
+the radiant one supports the heaven and earth, the radiant one is for the
+visibility of the whole diffused (universe)—the light is called the radiant one.
+
+##### विशेषविषयगळु (Special Topics)
+
+केशी अग्निं केशी विषं (बिभर्ति) (*keśī agniṃ keśī viṣaṃ (bibharti)*)—केशः (*keśaḥ*) means rays. Those who possess those rays are called केशिनः (*keśinaḥ*). In the present Ṛk Agni, Vāyu and Sūrya are called केशिनः (*keśinaḥ*). In this sentence it is said that Sūrya bears Agni. Whether one has to make an offering in Agni or to perform sacrifices and the like, one does so at certain fixed times. When performing sacrifices one must take account of divisions of time: month, fortnight, lunar day, constellation, full moon, new moon, morning, midday, evening, night, and so on. There is a rule that such rites are to be done at such times. Since these divisions of time arise from the course of Sūrya, and since he is their lord, the help of Sūrya is needed for the homas and the like performed at those times. Therefore, since Agni is nourished by the homas and the like carried out with the help of Sūrya, it is said here that Sūrya nourishes and bears Agni.
+
+The word विषं (*viṣaṃ*) is read among the names of water. In the hot season Sūrya draws up with his rays the water in seas and other reservoirs, and causes it to be changed, in the form of vapour, into clouds in the rainy season. Therefore it is said here that Sūrya bears the water for the sake of rain.
+
+### Printed p. 872
+
+केशी बिभर्ति रोदसी (*keśī bibharti rodasī*)—Sūrya bears and nourishes heaven and earth. He lights up earth and atmosphere with his radiance, and by his rays draws up water and makes that water fall on the earth as rain, and thereby makes plants and the like grow on the earth. Since he thus supplies light, rain-water and plants and the like as food, it is said that Sūrya bears and nourishes heaven and earth.
+
+केशी विश्वं स्वः दृशे केशी इदं ज्योतिः उच्यते (*keśī viśvaṃ svaḥ dṛśe keśī idaṃ jyotiḥ ucyate*)—Sūrya sheds his light everywhere so that all the people in the world can see other things with their eyes. Without the light of Sūrya no creature could see anything or do any work. The light of Sūrya is indispensable to all. This orb of light that appears before our eyes is Sūrya.
+
+Yāska has given a derivation for this Ṛk:
+
+केश्यग्निं च विषं च । विषमित्युदकनाम। विष्णातेर्विपूर्वस्य स्नातेः शुद्ध्यर्थस्य विपूर्वस्य वा सचतेः । द्यावापृथिव्यौ च धारयति केशीदं सर्वमिदमभिविपश्यति, केशीदं ज्योतिरुच्यत इत्यादित्यमाह ॥ अथाप्येते इतरे ज्योतिषी केशिनी उच्येते । धूमेनाग्नी रजसा च मध्यमः ॥ (*keśyagniṃ ca viṣaṃ ca | viṣamityudakanāma| viṣṇātervipūrvasya snāteḥ śuddhyarthasya vipūrvasya vā sacateḥ | dyāvāpṛthivyau ca dhārayati keśīdaṃ sarvamidamabhivipaśyati, keśīdaṃ jyotirucyata ityādityamāha ‖ athāpyete itare jyotiṣī keśinī ucyete | dhūmenāgnī rajasā ca madhyamaḥ ‖*) (Ni. 1-36)
+
+This Keśin (Āditya) bears Agni and water. विषं (*viṣaṃ*) is a name for water. The word विषं (*viṣaṃ*) is derived from the root स्ना (*snā*) with the prefix वि (*vi*), in the sense of purifying; or the word विष (*viṣa*) may be derived from the root सच् (*sac*), in the sense of following or being together. This Keśin (Āditya) bears and nourishes heaven and earth, and looks upon this whole world (pervades it with his rays); "this orb of light that we see is Āditya", they say. Moreover there are two other kinds of lights; they too are called Keśin. These are the well-known Agni on earth, whose smoke is like hair, so that Agni too is called Keśin; and Vāyu, the deity of the middle region, who is joined with lightning fire. In the atmosphere Vāyu is joined with mist, and this mist is hair-like; therefore Vāyu too may be called Keśin. There is another Ṛk praising these deities named केशिनः (*keśinaḥ*):
+
+त्रयः केशिन ऋतुथा वि चक्षते संवत्सरे वपत एक एषां । विश्वमेको अभि चष्टे शचीभिर्ध्र्राजिरेकस्य ददृशे न रूपं ॥ (*trayaḥ keśina ṛtuthā vi cakṣate saṃvatsare vapata eka eṣāṃ | viśvameko abhi caṣṭe śacībhirdhrrājirekasya dadṛśe na rūpaṃ ‖*) (Ṛ. Saṃ. 1-164-44)
+
+### Printed p. 873
+
+त्रयः केशिन ऋतुथा विचक्षते कालेकालेऽभिविपश्यंति संवत्सरे वपत एक एषामित्यग्निः पृथिवीं दहति सर्वमेकोऽभिविपश्यति कर्मभिरादित्यो गतिरेकस्य दृश्यते न रूपं मध्यमस्य ॥ (*trayaḥ keśina ṛtuthā vicakṣate kālekāle 'bhivipaśyaṃti saṃvatsare vapata eka eṣāmityagniḥ pṛthivīṃ dahati sarvameko 'bhivipaśyati karmabhirādityo gatirekasya dṛśyate na rūpaṃ madhyamasya ‖*) (Ni. 12-27)
+
+The three deities (Agni, Sūrya, Vāyu) who are called by the name केशिनः (*keśinaḥ*) perform their tasks at their respective times. Of them one burns on earth; this is Agni. Another looks upon the whole world with a mind of grace, by his actions such as rain and illumination; this is Āditya. Of another only the movement is seen, the form is not seen; this is Vāyu. That is, we can know that the wind blows, but cannot see its form with the eye. This is the intention of the derivation.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मुन॑यो॒ वात॑रशनाः पि॒शंगा॑ वसते॒ मला॑ ।  
+> वात॒स्यानु॒ ध्राजिं॑ यंति॒ यद्दे॒वासो॒ अवि॑क्षत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुनयः । वातरशनाः । पिशंगा । वसते । मला ।  
+> वातस्य । अनु । ध्राजिं । यंति । यत् । देवासः । अविक्षत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातरशना वातरशनस्य पुत्रा मुनयोऽतींद्रियार्थदर्शिनो जूतिवातजूतिप्रभृतयः पिशंगा पिशंगानि कपिलवर्णानि मला मलिनानि वल्कलरूपाणि वासांसि वसते।
+> आच्छादयंति ॥ वसॆ आच्छादने आदादिकः ॥ ईदृशास्ते यद्यदा देवासो देवास्तपसो
+> महिम्ना दीप्यमानाः संतोऽविकृत देवतास्वरूपं प्राविशन् ॥ विशेर्लुजि शल
+> इगुपधादनिटः क्सः । व्यत्ययेनात्मनेपदं ॥ तदा ते वातस्य वायोर्ध्राजिं गतिमनु
+> यंति । अनुगच्छंति । प्राणोपासनया प्राणरूपिणो वायुभावं प्रपन्ना इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The sons of Vātarasana, the Munis who see things beyond the senses, Jūti, Vātajūti and the others, wear (वसते (*vasate*) means "cover") garments that are tawny (पिशंगा (*piśaṃgā*), of tawny colour) and dirty (मला (*malā*), soiled), of the nature of bark. When such as they, shining by the greatness of their austerity, entered the divine nature, then they follow the course (ध्राजिं (*dhrājiṃ*)) of Vāta, that is, of Vāyu: by meditation on Prāṇa they have attained the state of Vāyu, taking the form of Prāṇa. The verbal forms are explained by grammatical remarks, which are left out here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातरशनाः (*vātaraśanāḥ*)—sons of the seer called Vātarasana
+- मुनयः (*munayaḥ*)—the seers Jūti, Vātajūti and others, who see things beyond the senses
+- पिशंगाः (*piśaṃgāḥ*)—of tawny colour
+
 ---
 
-**Progress note:** Done through printed p. 867. pp. 862-867 (batch API)
+**Progress note:** Done through printed p. 873. pp. 868-873 (batch API)
