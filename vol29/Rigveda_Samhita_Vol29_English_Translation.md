@@ -24759,6 +24759,158 @@ In this Ṛk and in the next, the order of creation is set out in the form of qu
 
 यत्पुरुषं व्यदधुः कतिधा व्यकल्पयन् (*yatpuruṣaṃ vyadadhuḥ katidhā vyakalpayan*)—After the production of the Virāṭ-puruṣa, the question in what way, or in how many ways, the creation of the human class then took place is here
 
+### Printed p. 909
+
+stated. Here कतिधा (*katidhā*) means "in how many ways"; that is, the meaning is: what distinctions arose among men, how many, and how. The same thing is asked, somewhat more fully, in the form of questions in the second half of this Ṛk.
+
+मुखं किमस्य, कौ बाहौ, कौ ऊरू, कौ पादौ (*mukhaṃ kimasya, kau bāhau, kau ūrū, kau pādau*)—What was produced from the mouth of this Supreme Puruṣa? Who were produced from the arms? Who were produced from the ūrū, that is, from the thighs? Who were produced from the feet? The answers to these four questions are set out in order in the four padas of the next Ṛk.
+
+#### Ṛk 12**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रा॒ह्म॒णो॑ऽस्य॒ मुख॑मासीद्बा॒हू रा॑ज॒न्यः॑ कृ॒तः ।  
+> ऊ॒रू तद॑स्य॒ यद्वैश्यः॑ प॒द्भ्यां शू॒द्रो अ॑जायत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्राह्मणः । अस्य । मुखं । आसीत् । बाहू इति । राजन्यः । कृतः ।  
+> ऊरू इति । तत् । अस्य । यत् । वैश्यः । पत्स्‌भ्यां । शूद्रः । आजायत ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदानीं पूर्वोक्तानां प्रश्नानामुत्तराणि दर्शयति । अस्य प्रजापतेर्ब्राह्मणो ब्राह्मणत्वजातिविशिष्टः पुरुषो मुखमासीत् । मुखादुत्पन्न इत्यर्थः।
+> योऽयं राजन्यः क्षत्रियत्वजातिमान्पुरुषः स बाहू कृतः । बाहुत्वेन निष्पादितः।
+> बाहुभ्यामुत्पादित इत्यर्थः । तत्तदानीमस्य प्रजापतेर्यदूरू तद्रूपो वैश्वः
+> संपन्नः । ऊरूभ्यामुत्पन्न इत्यर्थः । तथास्य पध्वां पादाभ्यां शूद्रः शूद्रत्वजातिमान्पुरुषोऽजायत । इयं च मुखादिभ्यो ब्राह्मणादीनामुत्पत्तिर्यजुःसंहितायां . सप्तमकांडे स मुखतस्त्रिवृतं निरमिमिता । तै. सं. ७-१-१-४ ।
+> इत्यादौ विस्पष्टमाम्नाता । आतः प्रश्नोत्तरे उभे अपि तत्परतैव योजनीये ॥
+
+##### Gist of the bhāṣya
+
+Now he shows the answers to the questions stated before. The Brāhmaṇa, the person distinguished by the class of brāhmaṇahood, became the mouth of this Prajāpati; the meaning is that he was produced from the mouth. The one who is the Rājanya, the person possessing the class of kṣatriyahood, was made the arms, that is, was brought about as the arms; the meaning is that he was produced from the arms. Then that which was the thighs of this Prajāpati became the Vaiśya; the meaning is that he was produced from the thighs. So too from his feet the Śūdra, the person possessing the class of śūdrahood, was born. This production of the Brāhmaṇa and the others from the mouth and the rest is plainly handed down in the Yajus-saṃhitā, in the seventh kāṇḍa, in स मुखतस्त्रिवृतं निरमिमिता (*sa mukhatastrivṛtaṃ niramimitā*) (Tai. Saṃ. 7-1-1-4) and the like. Therefore both the question and the answer should be construed as directed to that.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्राह्मणः (*brāhmaṇaḥ*)—the Brāhmaṇa himself
+- अस्य (*asya*)—of this Puruṣa
+- मुखं (*mukhaṃ*)—as the mouth
+- असीत् (*asīt*)—became (the Brāhmaṇa was produced from his mouth)
+- बाहू (*bāhū*)—the arms
+- राजन्यः (*rājanyaḥ*)—in the form of the Kṣatriya
+
+### Printed p. 910
+
+- कृतः (*kṛtaḥ*)—were made (the Kṣatriyas were produced from the arms)
+- तत् (*tat*)—then
+- अस्य (*asya*)—of this Puruṣa
+- ऊरू (*ūrū*)—the thighs
+- वैश्यः (*vaiśyaḥ*)—were transformed into the form of the Vaiśya
+- पद्भ्यां (*padbhyāṃ*)—from the feet
+- शूद्रः (*śūdraḥ*)—the Śūdra
+- अजायत (*ajāyata*)—was produced
+
+##### भावार्थ (Bhāvārtha)
+
+From the mouth of this Puruṣa the Brāhmaṇa, and from the arms the Kṣatriyas, were produced in answer to the questions. From his thighs the Vaiśyas, and from the feet the Śūdras, were produced.
+
+##### English translation
+His mouth became the Brahmins, his arms became the Rajanya, his thighs became the Vaisyas ; the Sudra was born from his feet.
+
+##### विशेषविषयगळु (Special Topics)
+
+This mantra is the answer to the questions in the previous Ṛk, beginning with मुखं किमस्य कौ बाहू (*mukhaṃ kimasya kau bāhū*) and so on.
+
+(1) Question—मुखं किं (*mukhaṃ kiṃ*)? Which is the mouth of this Puruṣa? Answer—ब्राह्मणोऽस्य मुखमासीत् (*brāhmaṇo 'sya mukhamāsīt*): the Brāhmaṇa is the mouth of this Puruṣa. That is, the meaning is that he was produced from the mouth.
+
+(2) Question—कौ बाहू (*kau bāhū*)? Which are the arms of this Puruṣa? Answer—बाहू राजन्यः कृतः (*bāhū rājanyaḥ kṛtaḥ*): the Kṣatriya is reckoned as the arms; that is, the meaning is that the Kṣatriya was produced from the arms of the Puruṣa.
+
+(3) Question—कौ ऊरू (*kau ūrū*)? Which are the thighs of this Puruṣa? Answer—ऊरू तदस्ययद्वैश्यः (*ūrū tadasyayadvaiśyaḥ*): the Vaiśya is the thighs of the Supreme Puruṣa. That is, the purport is that he was produced from his thighs.
+
+(4) Question—कौ पादौ (*kau pādau*)? Which are the feet of the Puruṣa? Answer—पद्भां शूद्रो अजायत (*padbhāṃ śūdro ajāyata*): from his feet the Śūdra was produced.**NOTE**
+
+The same subject is told in this way in the Taittirīya Saṃhitā.
+
+### Printed p. 911
+
+प्रजापतिर्वाव ज्येष्ठस्स हैतेनाग्रेयजत प्रजापतिरकामयत प्र जाये येति स मुखतस्त्रिवृतं निरमिमित तमग्निर्देवताऽन्वसृज्यत गायत्रीच्छंदो रथंतरग्ं साम ब्राह्मणो मनुष्याणामजः पशूनां तस्मात्ते मुख्या मुखतो हृस्यज्यंत ॥ (*prajāpatirvāva jyeṣṭhassa haitenāgreyajata prajāpatirakāmayata pra jāye yeti sa mukhatastrivṛtaṃ niramimita tamagnirdevatā 'nvasṛjyata gāyatrīcchaṃdo rathaṃtaragṃ sāma brāhmaṇo manuṣyāṇāmajaḥ paśūnāṃ tasmātte mukhyā mukhato hṛsyajyaṃta ‖*) (Trai. Saṃ. 7-1-1-4)**NOTE**
+
+Having performed the most excellent sacrifice, Prajāpati became desirous of offspring. He fashioned the Trivṛt stoma. Then there were created, among the deities Agni, among the metres the Gāyatrī, among the sāmans the Rathantara, among men the Brāhmaṇa, and among animals the goat. Because they were produced from the mouth, they have the foremost place.
+
+उरसो बाहुभ्यां पंचदशं निरमिमात तमिंद्रो देवतान्नसृज्यत त्रिष्टुप्च्छंदो बृहत्साम राजन्यो मनष्याणामविः पशूनां तस्मात्ते वीर्यावंतो वीर्याद्यसृज्यंत ॥ (*uraso bāhubhyāṃ paṃcadaśaṃ niramimāta tamiṃdro devatānnasṛjyata triṣṭupcchaṃdo bṛhatsāma rājanyo manaṣyāṇāmaviḥ paśūnāṃ tasmātte vīryāvaṃto vīryādyasṛjyaṃta ‖*) (Śrī. Saṃ. 7-1-4, 5)**NOTE**
+
+From the uras (breast) and the arms he fashioned the Pañcadaśa stoma. Then there were produced, among the deities Indra, among the metres the Triṣṭubh, among the sāmans the Bṛhat, among men the Rājanya, and among animals the sheep. Because they were produced from vigour, they are all possessed of vigour.
+
+मध्यतस्सस्तदशं निरमिमात तं विश्वे देवा देवता अन्वसृज्यंत जगतीच्छंदो वैरूपग्ं साम वैश्यो मनुष्याणां गावः पशूनां तस्मात्त आद्या अन्नधानादृसृज्यंत तस्माद्भूयाग्ंसोऽन्येभ्यो भूयिष्ठा हि देवता अन्वसृज्यंत ॥ (*madhyatassastadaśaṃ niramimāta taṃ viśve devā devatā anvasṛjyaṃta jagatīcchaṃdo vairūpagṃ sāma vaiśyo manuṣyāṇāṃ gāvaḥ paśūnāṃ tasmātta ādyā annadhānādṛsṛjyaṃta tasmādbhūyāgṃso 'nyebhyo bhūyiṣṭhā hi devatā anvasṛjyaṃta ‖*) (Tai. Saṃ. 7-1-1-5)
+
+From the middle region of the body (the belly) he fashioned the Saptadaśa stoma. Then there were produced the Viśvedevas, among the metres the Jagatī, among the sāmans the Vairūpa, among men the Vaiśyas, and among animals the cows. Because they were produced from the belly, they all became fit to be food. Because they were produced in dependence on many deities, the Vaiśyas and the like are more numerous than the others.
+
+पत्त एकविग्ंशं निरमिमात तमनुष्टुप्छंदः अन्वसृज्यत वैराजग्ं साम शूद्रो मनुष्याणामश्वः पशूनां तस्मात्ता भूतसंक्रामिणावश्वश्च शूद्रश्च तस्माच्छूद्रो यज्ञेनवक्लृप्ताः न हि देवता अन्वसृज्यत तस्मात्पादावुपजीवतः पत्तो ह्यसृज्येतां ॥ (*patta ekavigṃśaṃ niramimāta tamanuṣṭupchaṃdaḥ anvasṛjyata vairājagṃ sāma śūdro manuṣyāṇāmaśvaḥ paśūnāṃ tasmāttā bhūtasaṃkrāmiṇāvaśvaśca śūdraśca tasmācchūdro yajñenavaklṛptāḥ na hi devatā anvasṛjyata tasmātpādāvupajīvataḥ patto hyasṛjyetāṃ ‖*) (Tai. Saṃ. 7-1-1-5, 6)
+
+### Printed p. 912
+
+From the feet Prajāpati fashioned the Ekaviṃśa stoma. Then there were produced, among the metres the Anuṣṭubh, among the sāmans the Vairāja, among men the Śūdras, and among animals the horse. For that very reason the Śūdra and the horse are under the control of others. The Śūdra was not produced in dependence on the deities. For that very reason he has no right to the sacrifice. Because they were produced from the feet, the horse and the Śūdra must live depending on their own legs.
+
+Since the division of the castes is stated so exactly in the Ṛk-saṃhitā and in the Taittirīya Saṃhitā, some English commentators, and some Indians who follow them, say that there is no mention of the division of the castes in the Ṛk-saṃhitā, and, interpreting it in a way that suits their own argument, they have put forward some opinions contrary to tradition. First, it is necessary now to examine whether the opinions they put forward are reasoned, that is, whether they rest on sound grounds.
+
+Although the order of the division of the castes is stated clearly in the Puruṣa-sūkta (Ṛ. Saṃ. 10-90), they say that this sūkta does not belong to the ancient portions of the Ṛk-saṃhitā. Their chief view is that since it is very recent, the opinions stated here cannot be called the opinion of the Ṛk-saṃhitā; this opinion of theirs is not so correct.**NOTE** None of the proofs that the English commentators have shown for dividing the parts of the Veda into some ancient and others recent is correct. To say that the Puruṣa-sūkta is recent and that it is an interpolated part of the Ṛgveda-saṃhitā is not only contrary to tradition; there is no room for saying so either from the point of view of meaning or from the point of view of language. It is certainly not possible to determine the nature of the Veda by the standards by which modern poems are measured. Therefore none of the reasons they have shown for calling the Puruṣa-sūkta an interpolated part is sound. Moreover:
+
+The system of the castes is stated clearly, in many contexts, in the parts of the Ṛk-saṃhitā in other places also, besides the Puruṣa-sūkta. Before illustrating those passages and making this subject clear, it is necessary to state the opinions of some of those who are reckoned chief among the English scholars.
+
+The opinion of the scholars who say that the system of the castes is not indicated in the Ṛk-saṃhitā (that there are no divisions of four castes)—
+
+The word varṇa in the Ṛk-saṃhitā denotes the difference between two groups, the Ārya and the Dāsa. For example—
+
+### Printed p. 913
+
+येनेमा विश्वा च्यवना कृतानि यो दासं वर्णमधरं गुहाकः । श्वघ्नीव यो जिगीवां लक्षमाददरैः पुष्टानि स जनास इंद्रः ॥ (*yenemā viśvā cyavanā kṛtāni yo dāsaṃ varṇamadharaṃ guhākaḥ | śvaghnīva yo jigīvāṃ lakṣamādadaraiḥ puṣṭāni sa janāsa iṃdraḥ ‖*) (Ṛ. Saṃ. 2-12-4)
+
+in this Ṛk, by दासं वर्ण० (*dāsaṃ varṇa0*) a group called the dasyus, who gave torments to the Āryas performing excellent sacrifices and other rites, is indicated; and
+
+ससानात्या उत सूर्यं ससानेंद्रः ससान पुरुभोजसं गां । हिरण्ययमुत भोगं ससान हत्वी दस्यून् प्रार्यं वर्णमावत् ॥ (*sasānātyā uta sūryaṃ sasāneṃdraḥ sasāna purubhojasaṃ gāṃ | hiraṇyayamuta bhogaṃ sasāna hatvī dasyūn prāryaṃ varṇamāvat ‖*) (Ṛ. Saṃ. 3-34-9)
+
+here it is said that Indra, having destroyed the dasyu, protected the Āryas, who are of the excellent varṇa. From these examples two divisions are understood, the dasyu varṇa and the Ārya varṇa. But this shows only the division by varṇa (colour of the body) of the respective groups; the system of the four castes is not established by it.
+
+Although the four divisions of varṇa, Brāhmaṇa, Rājanya, Vaiśya and Śūdra, are stated clearly in the Puruṣa-sūkta, this division of varṇa is not stated anywhere in the ancient parts of the Ṛk-saṃhitā. That is, Max Müller, Weber, Muir and other scholars have given the opinion that the Puruṣa-sūkta is much more recent than the time of the Ṛk-saṃhitā and was interpolated into the saṃhitā after a very long time.
+
+Max Muller—Ancient Sanskrit Literature— p. 570 f.
+Muir—Original Sanskrit Texts. Vol. I. p. 7-15
+Colebrooke- Essays. Vol. I. p. 309
+Arnold—Vedic Metre. p. 167
+
+Some of these opinions are collected and cited.
+
+" As compared with by far the largest part of the hymns of the Rig-veda, the Purusha Sukta has every character of modernness both in its diction and ideas "
+
+(Muir. O. S. T. Vol. I. p. 12)
+
+" That remarkable hymn (the Purusha Sukta) is in langnage and Metre and style, very different from the rest of the prayers with which it is associated. It has a decidedly more modern tone "
+
+(Colebrooke Misc. Essays. I. 309)
+
+### Printed p. 914
+
+" There can be little doubt for instance, that the nineth hymn of the tenth book .... .... is modern both is its character and in its dicton "
+
+(Max Muller. A. S. L. p. 570)
+
+Except in the Purusha Sukta there is no distinct reference in the hymns to any recognised system of four castes.
+
+(Muir O. S. T. Vol. I. p. 358)
+
+From statements of this kind the following points are clearly understood.
+
+(1) Apart from the Puruṣa-sūkta, the system of the four castes, Brāhmaṇa and the rest, is not stated in any other part of the saṃhitā. It is not even indicated.
+
+(2) Although the word varṇa is used (as shown in the examples above), it denotes only the colour of the body of two groups.
+
+(3) The use of the words Brāhmaṇa and Kṣatriya, which show caste, occurs only in a few places here and there. The word Rājanya is not used anywhere else than in the Puruṣa-sūkta. The words Vaiśya and Śūdra also are nowhere else than here.
+
+(4) The word Brāhmaṇa is used only in the senses of the seer of a sūkta, the composer of a mantra, a purohita and the like. It does not denote a caste.
+
+(5) The word Brāhmaṇa does not show a hereditary social position. It shows the fitness of the nature of the individual. This is the opinion of one Muir (C. S. T. Vol. I).
+
+The above opinions stated by the scholar Muir have been approved by other scholars also. Zimmer, who approves the same, has given the opinion that for political reasons the caste system was made in a time much more recent than the Ṛk-saṃhitā. The need of a purohita for sacrifices and other rites also did not exist in earlier times. The Kṣatriya himself performed this work. Devāpi Ārṣṭiṣeṇa is the example of this (the explanation of the Nirukta-writers on the sūkta Ṛ. Saṃ. 10-98 makes this clear). There are also some scholars who argue in this way. But some English scholars themselves have refuted these opinions, saying that their arguments are not supported by proof. These have defended their argument by citing proofs that the sentences of the Ṛk-saṃhitā themselves state the system of the castes definitely.
+
 ---
 
-**Progress note:** Done through printed p. 908. pp. 902-908: metre tables, Sūkta 90 Ṛk 10, start of Ṛk 11
+**Progress note:** Done through printed p. 914. pp. 909-914: Ṛk 12 (varṇa), Taittirīya parallels, views on Puruṣa-sūkta
