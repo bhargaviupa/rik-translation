@@ -1145,6 +1145,252 @@ The cows have milked the intoxicating draught for Indra, the thunderer, when he 
 
 उद्यद्ब्रध्नस्य (*udyadbradhnasya*) is the last ṛk of the Ṣoḍaśin śastra. It is laid down in the sūtra: उद्यद्ब्रध्नस्य विष्टपमित्येषा परिधानीया (*udyadbradhnasya viṣṭapamityeṣā paridhānīyā*) (Āśv. Śrau. 6. 2) **NOTE**. When Indra and I, both of us, go up to the home, the place of the sun (ब्रध्नस्य विष्टपं सूर्यस्य स्थानं (*bradhnasya viṣṭapaṃ sūryasya sthānaṃ*)), then, having drunk the sweet Soma juice, we two shall be united. Where? In the place of the friend of all, Āditya. By त्रिः सप्त (*triḥ sapta*) is meant the twenty-first place, the highest of the worlds of the gods, since Āditya is the twenty-first. So the Brāhmaṇa says: द्वादश मासाः पंचर्तवस्त्रय इमे लोका असावादित्य एकविंशः (*dvādaśa māsāḥ paṃcartavastraya ime lokā asāvāditya ekaviṃśaḥ*) (Ai. Brā. 1. 30). In such a twenty-first place we two shall be united.
 
+### Printed p. 31
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- ब्रध्नस्य (*bradhnasya*)—of the sun
+- विष्टपं (*viṣṭapaṃ*)—the place
+- गृहं (*gṛhaṃ*)—the sky
+- इंप्रश्च (*iṃpraśca*) **NOTE**—Indra and I, both of us together
+- उत् गस्वहि (*ut gasvahi*) **NOTE**—when we two climb up and reach
+- मध्वः (*madhvaḥ*)—the sweet Soma juice
+- पीत्वा (*pītvā*)—having drunk
+- सख्याः (*sakhyāḥ*) **NOTE**—of Āditya, the friend of the whole world
+- त्रिः सप्त (*triḥ sapta*)—called the twenty-first, the highest (**NOTE**)
+- पदे (*pade*)—in the place
+- सचेवहि (*sacevahi*)—we two shall be united together
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra and I, both of us, climb up to the sky that is the place of the sun and reach it, then, having drunk the sweet Soma juice, we two shall be united together in the highest place, called the twenty-first, of Āditya, the friend of the whole world.
+
+##### English translation
+When Indra and I ascend to our home, the world of the sun, then, having drunk the sweet (Soma), let us be united in the twenty-first sphere of the (universal) friend.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the reciting of the Ṣoḍaśin śastra mantras, this ṛk उद्यद्ब्रध्नस्य (*udyadbradhnasya*) is to be recited as the last ṛk, as is explained by the sūtra of the Āśvalāyana-Śrauta-Sūtra उद्यद्ब्रध्नस्य विष्टपमित्येषा परिधानीया (*udyadbradhnasya viṣṭapamityeṣā paridhānīyā*) (Ā. 6–2). **NOTE**
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर्च॑त॒ प्रार्च॑त॒ प्रिय॑मेधासो॒ अर्च॑त ।  
+> अर्चं॑तु पुत्र॒का उ॒त पुरं॒ न धृ॒ष्ण्व॑र्चत ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्चत । प्र । अर्चत । प्रियऽमेधासः । अर्चत ।  
+> अर्चंतु । पुत्रकाः । उत । पुरम् । न । धृष्णु । अर्चत ॥८
+
+### Printed p. 32
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वोक्त एव शस्त्रे  ‘ अर्चत' इति द्वितीय आनुष्टुभस्तृचः । सूत्रितं च -- ‘ प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत ' ( आश्व. श्रौ. ६. २) इति ॥
+> हे अध्वर्य्वादयः यूयमिंद्रम् अर्चत पूजयत स्तुत्या। प्रार्चत प्रकर्षेणार्चतेंद्रमेव । हे प्रियमेधासः प्रियमेधसंबंधिनस्तद्गोत्रा यूयम् अर्चत इंद्रम् । पुत्रकाः पुत्रा अपि अर्चंतु इंद्रम् । उत अपि च पुरं न धृष्णु यथा पुरं धर्षणशीलमर्चंति तादृशमिंद्रम् अर्चत ।।
+
+##### Gist of the bhāṣya
+
+In the same śastra as mentioned before, अर्चत (*arcata*) is the second tṛca, in Anuṣṭubh metre. It is laid down in the sūtra प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत (*prapra vastriṣṭubhamiṣamarcata prārcata*) (Āśv. Śrau. 6. 2) **NOTE**. O Adhvaryu and the others, worship Indra with praise; प्रार्चत (*prārcata*) means worship Indra excellently. O प्रियमेधासः (*priyamedhāsaḥ*), you who belong to Priyamedha and his family, worship Indra. Let your sons too worship Indra. And worship Indra such as people worship a bold city (पुरं न धृष्णु (*puraṃ na dhṛṣṇu*), a city given to assailing).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) अर्चत (*arcata*)—worship Indra
+- प्रार्चत (*prārcata*)—worship him most excellently
+- प्रियमेधासः (*priyamedhāsaḥ*)—O sages, all of you belonging to the line of Priyamedha
+- अर्चत (*arcata*)—worship Indra
+- पुत्रकाः (*putrakāḥ*)—your sons also
+- अर्चंतु (*arcaṃtu*)—let them worship Indra
+- उत (*uta*)—and
+- पुरं न (*puraṃ na*)—like a city
+- धृष्णु (*dhṛṣṇu*)—Indra of firm body
+- अर्चत (*arcata*)—worship
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, worship Indra. Worship him most excellently. O sages of the line of Priyamedha, worship Indra. Let your sons also worship Indra. And worship Indra, who is of firm body like a city.
+
+##### English translation
+Worship Indra, worship him pre-eminently, worship him, you of the family of Priyamedha ; let your sons also wosiship him ; worship him as a strong city.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the śastra mantras mentioned before, the three ṛks beginning with अर्चतॆ (*arcatè*) **NOTE** are to be recited as the second tṛca of the Anuṣṭubh metre, as is explained by the sūtra of the Āśvalāyana-Śrauta-Sūtra प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चतॆ (*prapra vastriṣṭubhamiṣamarcata prārcatè*) **NOTE** (Ā. 6–2).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॑ स्वराति॒ गर्ग॑रो गो॒धा परि॑ सनिष्वणत् ।  
+> पिंगा॒ परि॑ चनिष्कद॒दिंद्रा॑य॒ ब्रह्मोद्य॑तम् ॥९॥
+
+### Printed p. 33
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । स्वराति । गर्गरः । गोधा । परि । सनिस्वनत् ।  
+> पिंगा । परि । चनिस्कदत् । इंद्राय । ब्रह्म । उत्ऽयतम् ॥९
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गर्गरः गर्गरध्वनियुक्तो वाद्यविशेषो युद्धे अव स्वराति भयं शब्दयति । गोधा हस्तघ्नः परि परितः सनिष्वणत् स्वनति भृशम् । पिंगा पिंगवर्णा ज्यापि परि चनिष्कदत् परिस्कंदते । यस्मादेवं युद्धः संनद्धोऽत इंद्राय ब्रह्म परिवृढं कर्म स्तुतिलक्षणम् उद्यतं भवत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The गर्गरः (*gargaraḥ*), a special instrument having a rattling sound, sounds fear in battle (अव स्वराति (*ava svarāti*)). The गोधा (*godhā*), an arm-guard (हस्तघ्नः (*hastaghnaḥ*)), resounds greatly all around. The tawny bowstring also leaps about. Since the battle is thus prepared, let a hymn (ब्रह्म (*brahma*)), an act of the nature of praise that is the surrounding rite, be raised up for Indra; this is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गर्गरः (*gargaraḥ*)—the drum that makes the rattling sound
+- अव स्वराति (*ava svarāti*)—makes a fearful sound on the battlefield
+- गोधा (*godhā*)—the kettle-drum called Godhā **NOTE**
+- परि (*pari*)—all around
+- सनिस्वणत् (*sanisvaṇat*) **NOTE**—sounds loudly
+- पिंगा (*piṃgā*)—the tawny bowstring also
+- परि (*pari*)—all around
+- परि चनिष्कदत् (*pari caniṣkadat*)—makes the twang
+- इंद्राय (*iṃdrāya*)—directed to Indra
+- ब्रह्म (*brahma*)—the excellent hymn
+- उद्यतं (*udyataṃ*)—let it be recited
+
+##### भावार्थ (Bhāvārtha)
+
+The drum that makes the rattling sound makes a fearful sound on the battlefield. The kettle-drum called Godhā sounds loudly all around. The tawny string of the bow also makes the twang all around. At such a time of battle, let the excellent hymn directed to Indra be recited.
+
+##### English translation
+The drum utters its sound, the leathern guard twangs, the tawny bowstring leaps to and fro ; let the hymn be raised to Indra.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यत्पतं॑त्ये॒न्यः॑ सु॒दुघा॒ अन॑पस्फुरः ।  
+> अ॒प॒स्फुरं॑ गृभायत॒ सोम॒मिंद्रा॑य॒ पात॑वे ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 34
+
+> आ । यत् । पतंति । एन्यः । सुऽदुघाः । अनपऽस्फुरः ।  
+> अपऽस्फुरम् । गृभायत । सोमम् । इंद्राय । पातवे ॥१०
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा एन्यः एतवर्णाः शुभ्रवर्णा नद्यः आ पतंति आगच्छंति सर्वतः प्रवहंति । कीदृश्यः। सुदुघाः सुदोहाः अनपस्फुरः। अपस्फुरोऽपस्फुरा अप्रवृद्धाः। अतादृश्योऽनपस्फुरः । अत्यंतं प्रवृद्धा इत्यर्थः । यद्वा । सुदुघाः प्रवृद्धा एतवर्णा गावो यदा पयआद्यर्थाय आ पतंति तदा अपस्फुरम् । अत्रापशब्दो धात्वर्थानुवादी । अत्यंतप्रवृद्धं सोममिंद्राय पातवे पातुं गृभायत ग्रहणं कुरुत । अथवानपस्फुर इत्यत्राप्यपशब्दोऽनुवादी धात्वर्थस्य । तथा सत्ययमर्थः । यदा एन्यो नद्योऽनपस्फुरोऽप्रवृद्धोदका पतंति वृष्टिरल्पा यदा भवति तदा सोममिंद्रार्थं संपादयतेति ॥ ।।६।।
+
+##### Gist of the bhāṣya
+
+When the एन्यः (*enyaḥ*), the rivers of white, bright colour, come and flow from all sides, what sort are they? सुदुघाः (*sudughāḥ*), easy to milk; अनपस्फुरः (*anapasphuraḥ*) means, taking अपस्फुर (*apasphura*) as not grown, the ones not like that, that is, exceedingly swollen. Or else: when the swollen white cows, easy to milk, come for milk and the like, then take up Soma for Indra to drink, Soma exceedingly abundant (अपस्फुरम् (*apasphuram*)), the word अप (*apa*) here merely restating the meaning of the root. Or else, in अनपस्फुरः (*anapasphuraḥ*) too the word अप (*apa*) merely restates the root meaning, and the meaning is this: when the white rivers flow with water not swollen, that is, when the rain is little, then prepare Soma for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- एन्यः (*enyaḥ*)—bright-coloured
+- सुदुघाः (*sudughāḥ*)—easy to milk
+- अनपस्फुरे (*anapasphure*) **NOTE**—and very swollen, the cows (or rivers)
+- आ पतंति (*ā pataṃti*)—come towards us, then
+- अप (*apa*)—exceedingly abundantly
+- सोमं (*somaṃ*)—the Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- पातवे (*pātave*)—to drink
+- गृभायत (*gṛbhāyata*)—lift up and hold
+
+##### भावार्थ (Bhāvārtha)
+
+When the bright-coloured, easily milked and very swollen cows (or rivers) come towards us, then lift up and hold the Soma, exceedingly abundant, for Indra to drink.
+
+##### English translation
+When the bright fertilizing rivers flow with diminished waters, then take the overflowing Soma for Indra to drink.
+
+### Printed p. 35
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपा॒दिंद्रो॒ अपा॑द॒ग्निर्विश्वे॑ दे॒वा अ॑मत्सत ।  
+> वरु॑ण॒ इदि॒ह क्ष॑य॒त्तमापो॑ अ॒भ्य॑नूषत व॒त्सं सं॒शिश्व॑रीरिव ॥११॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपात् । इंद्रः । अपात् । अग्निः । विश्वे । देवाः । अमत्सत ।  
+> वरुणः । इत् । इह । क्षयत् । तम् । आपः । अभि । अनूषत । वत्सम् । संशिश्वरीःऽइव ॥११
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः अपात् अपिबत् सोमम् । अग्निः अप्यपिबत् । विश्वे देवाः अपि अमत्सत तृप्ता अभवन् सोमपानेन । वरुण इत् वरुणोऽपि इह अस्मिन् यागगृहे क्षयत् निवसतु सोमपानार्थम् । निवसंतं तम् आपः अपि अभ्यनूषत । उदकान्यापनशीला स्तुतयो वाभ्यष्टुवन् । किमिव । वत्सं स्वीयं संशिश्वरीः संशिश्वर्यः संगच्छमाना गावः इव । ता यथा धावंत्यो हंभारवं कुर्वंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Indra drank the Soma; Agni drank it too; all the gods were gladdened, satisfied by the drinking of Soma. Let Varuna also dwell here, in this house of the sacrifice, for the drinking of Soma. As he dwells, the waters or the praises, which are of a pervading nature, praised him, like (संशिश्वरीः (*saṃśiśvarīḥ*)) cows hastening to their own calf; as they run they make the lowing sound, so it is here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अपात् (*apāt*)—has drunk the Soma
+- अग्निः (*agniḥ*)—Agni has drunk too
+- विश्वे देवाः (*viśve devāḥ*)—the All-gods
+- अमुत्सत (*amutsata*) **NOTE**—have been gladdened
+- वरुण इत् (*varuṇa it*)—Varuṇa too
+- इह (*iha*)—in our house of sacrifice
+- क्षयत् (*kṣayat*)—let him dwell
+- वत्सं (*vatsaṃ*)—to the calf
+- संशिश्वरीः इव (*saṃśiśvarīḥ iva*)—as a cow that runs eagerly makes a sound
+- आपः (*āpaḥ*)—the waters
+- तं (*taṃ*)—that Varuṇa
+- अभ्यनूषत (*abhyanūṣata*)—praise loudly
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has drunk the Soma. Agni too has drunk. The All-gods are glad at heart. Let Varuṇa too dwell in our house of sacrifice. As a cow that runs eagerly to its calf makes a sound, the waters praise that Varuṇa loudly.
+
+### Printed p. 36
+
+##### English translation
+Indra drank (the Soma), Agni drank it, the Vishwe Devah were gladdened ; let Varuna fix his dwelling here ; the waters have praised him as cows (low) meeting their calves.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒दे॒वो अ॑सि वरुण॒ यस्य॑ ते स॒प्त सिंध॑वः ।  
+> अ॒नु॒क्षरं॑ति का॒कुदं॑ सू॒र्म्यं॑ सुषि॒रामि॑व ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽदेवः । असि । वरुण । यस्य । ते । सप्त । सिंधवः ।  
+> अनुऽक्षरंति । काकुदम् । सूर्म्यम् । सुषिराम्ऽइव ॥१२
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वरुण जलाभिमानिन् देव त्वं सुदेवोऽसि यस्य सुदेवस्य ते तव काकुदं तालु समुद्राख्यं सप्त सिंधवः गंगाद्याः सप्त नद्यः अनुक्षरंति जिह्वायां सर्वदा स्रवंति ।।
+
+##### Gist of the bhāṣya
+
+O Varuṇa, god presiding over the waters, you are a good god, of whom, the good god, the palate (काकुदं (*kākudaṃ*)), called the ocean, the seven rivers, Gaṅgā and the others, continually flow along on the tongue.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O god Varuṇa
+- यस्य (*yasya*)—of what greatness
+- ते (*te*)—your
+- काकुदं (*kākudaṃ*)—to the root of the tongue
+- सूर्म्यं (*sūrmyaṃ*)—a stream
+- सुषिरां इव (*suṣirāṃ iva*)—as it falls into a hollow like the netherworld
+- सप्त सिंधवः (*sapta siṃdhavaḥ*)—the seven rivers, Gaṅgā and the others
+- अनुक्षरंति (*anukṣaraṃti*)—flow, such a one as you
+- सुदेवः असि (*sudevaḥ asi*)—you are an excellent god
+
+##### भावार्थ (Bhāvārtha)
+
+O god Varuṇa, you are an excellent god, of such greatness that to the root of your tongue the seven rivers, Gaṅgā and the others, flow like a stream falling into a hollow like the netherworld.
+
+##### English translation
+You are a glorious god, Varuna, across whose palate the seven rivers keep pouring as a fair-flowing (stream) into an abyss.
+
 ---
 
-**Progress note:** Done through printed p. 30. Sukta 69 (Mandala 8) Rks 2 end-7, pp. 25-30
+**Progress note:** Done through printed p. 36. Rks 7 end-12 of Sukta 69, pp. 31-36
