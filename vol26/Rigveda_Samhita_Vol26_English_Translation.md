@@ -1088,6 +1088,100 @@ At the beginning of the third savana, as soon as the Adhvaryu has directed the M
 
 Is not the presence of a connection with the Ṛbhus at the time of the third savana open to objection? And the Sāma singers at the sacrifice do not, at the third savana, combine Ṛks having the Ṛbhus as their deity and praise the Ṛbhus with the Pavamāna stotra; they praise with mantras that have other deities than the Ṛbhus, beginning स्वादिष्टया मदिष्टया (*svādiṣṭayā madiṣṭayā*). Therefore how the Pavamāna stotra comes to have the Ārbhava nature, that is, a connection with the Ṛbhus, is also strange. To this he gives the answer.
 
+### Printed p. 63
+
+प्रजापतिर्वै पित ऋभून्मर्त्यान्सतोऽमर्त्यान्पृत्वा तृतीयसवन आभजत्तस्मान्नार्भवीषु स्तुवतेऽथार्भवः पवमान इत्याचक्षते । (*prajāpatirvai pita ṛbhūnmartyānsato 'martyānpṛtvā tṛtīyasavana ābhajattasmānnārbhavīṣu stuvate 'thārbhavaḥ pavamāna ityācakṣate |*)
+
+Why is the Pavamāna stotra recited at the time of the third savana called Ārbhava (accompanied by the Ṛbhus)? The Ṛks of this stotra are not mantras having the Ṛbhus as their deity. To this there is an ancient story. Formerly Prajāpati, the father of all, made the Ṛbhus, who had been human, into deathless deities (we have explained this matter earlier in the Ṛbhu sūktas), and granted them the right to drink Soma at the third savana. Therefore the Ṛbhus are entitled to a share of Soma at the third savana only, and for this reason it is said here आर्भवं शंसति (*ārbhavaṃ śaṃsati*) (the Ṛbhus are praised). Since this is so, and since the Ṛbhus are not deities in the stotras, the Ṛtvijs who sing the sāmans, the Udgātṛ and the others, do not praise the Ṛbhus in the Pavamāna stotras; yet the Pavamāna sūkta that praises another deity (Pavamāna Soma) is called the Ārbhava Pavamāna sūkta.
+
+अथाह यद्यथाच्छंदसं पूर्वयोः सवनयोरन्वाह गायत्रीः प्रातःसवने. त्रिष्टुभो माध्यंदिनेऽथ कस्माज्जागते सति तृतीयसवने त्रिष्टुभोऽन्वाहेति । (*athāha yadyathācchaṃdasaṃ pūrvayoḥ savanayoranvāha gāyatrīḥ prātaḥsavane. triṣṭubho mādhyaṃdine 'tha kasmājjāgate sati tṛtīyasavane triṣṭubho 'nvāheti |*)
+
+The connection of the Ṛbhus with Soma-drinking at the third savana has been stated. Now he examines a strange circumstance concerning the metre of the Unnīyamāna sūkta recited at the third savana. It has been stated earlier that the rule is that mantras in the Gāyatrī metre are to be recited at the Prātaḥsavana, mantras in the Triṣṭubh metre at the Mādhyandina-savana, and mantras in the Jagatī metre at the third savana. Accordingly it is proper that the Unnīyamāna sūkta be recited with Ṛks in the Gāyatrī metre at the Prātaḥsavana and with Ṛks in the Triṣṭubh metre at the Mādhyandina-savana. But in the Unnīyamāna sūkta recited at the third savana, इहोप यात (*ihopa yāta*) (Ṛ. Saṃ. 4-35), there are no Ṛks in the Jagatī metre; there are only Ṛks in the Triṣṭubh metre. Is it not strange that, transgressing the Śruti sentence जागतं तृतीयसवनं (*jāgataṃ tṛtīyasavanaṃ*), this Unnīyamāna sūkta इहोप यात (*ihopa yāta*) in the Triṣṭubh metre is recited? To this he gives the answer.
+
+धीतरसं वै तृतीयसवनमथैतदधीतरसं शुक्रियं छंदो यत्रिष्टुप्सवनस्य. सरसताया इति ब्रूयादथो इंद्रमेवैतत्सवनेऽन्वाभजतीति । (*dhītarasaṃ vai tṛtīyasavanamathaitadadhītarasaṃ śukriyaṃ chaṃdo yatriṣṭupsavanasya. sarasatāyā iti brūyādatho iṃdramevaitatsavane 'nvābhajatīti |*)
+
+Unlike the Prātaḥsavana and the Mādhyandina-savana, the Soma plants pounded at the third savana have no sap in them. Their sap was drunk long ago by Gāyatrī in the form of a falcon, and so it
+
+### Printed p. 64
+
+is sapless. How? Formerly Soma was in heaven. The gods thought that it must be brought to the earth for use in sacrifices, and devised a means. The metres such as Gāyatrī have the power to go to heaven and bring Soma. Therefore the gods begged the metres, Gāyatrī and the others, to bring Soma to the earth. Accepting the request, Gāyatrī and the other metres agreed to go to heaven. There is a narrative on this matter, which the commentator cites here:
+
+जगत्युदपतच्चतुर्दशाक्षरासती साप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमीयेताग्ं सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगतीछंदसां पशव्यतमा तस्मात्पशुमंतं दीक्षोपनमति (*jagatyudapataccaturdaśākṣarāsatī sāprāpya nyavartata tasyai dve akṣare amīyetāgṃ sā paśubhiśca dīkṣayā cāgacchattasmājjagatīchaṃdasāṃ paśavyatamā tasmātpaśumaṃtaṃ dīkṣopanamati*)
+
+त्रिष्टुगुदपतत्रयोदशाक्षरासती साप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमीयेताग्ं सा दक्षिणाभिश्च तपसा चागच्छत्तस्मात्रिष्टुभो लोके माध्यंदिने सवने दक्षिणानीयंत एतत्खलु वाव तप इत्याहुर्यः स्वं ददातीति (*triṣṭugudapatatrayodaśākṣarāsatī sāprāpya nyavartata tasyai dve akṣare amīyetāgṃ sā dakṣiṇābhiśca tapasā cāgacchattasmātriṣṭubho loke mādhyaṃdine savane dakṣiṇānīyaṃta etatkhalu vāva tapa ityāhuryaḥ svaṃ dadātīti*)
+
+गायत्र्युदपतच्चतुरक्षरा सत्यजया ज्योतिषा तमस्या अजाभ्यरुंधत तदजाया अजत्वग्ं सा सोमं चाहरच्चत्वरि चाक्षराणि साष्टाक्षरा समपद्यत ब्रह्मवादिनो वदंति कस्मात्सत्याद्दायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परीयायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्यैत्तस्मात्तेजस्विनीतमा पद्भ्यां द्वे सवने समगृह्णान्मुखेनैकं (*gāyatryudapataccaturakṣarā satyajayā jyotiṣā tamasyā ajābhyaruṃdhata tadajāyā ajatvagṃ sā somaṃ cāharaccatvari cākṣarāṇi sāṣṭākṣarā samapadyata brahmavādino vadaṃti kasmātsatyāddāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ parīyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryaittasmāttejasvinītamā padbhyāṃ dve savane samagṛhṇānmukhenaikaṃ*)
+
+यन्मुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवती प्रातःसवनं च माध्यंदिनं च तस्मात्तृतीयसवनऋजीषमभिषुण्वंति धीशमिव हि मन्यंते । (*yanmukhena samagṛhṇāttadadhayattasmādve savane śukravatī prātaḥsavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtīyasavanaṛjīṣamabhiṣuṇvaṃti dhīśamiva hi manyaṃte |*)
+
+(Kai. Saṃ. 6-1-6-2, 3, 4) **NOTE**
+
+First the Jagatī metre said that it would go and leaped into the atmosphere. But before it had gone far its strength failed, and having no power to go further it had to turn back. Thereby the Jagatī metre lost two of the fourteen syllables it had had in each pāda. Therefore each pāda of the Jagatī metre now has only twelve syllables. While returning in this way, unable to go further, that Jagatī metre brought with it the animals, which are a means of sacrifice, and the dīkṣā **NOTE**.
+
+Therefore the Jagatī metre has the power to give animals. If the sacrificer who performs the sacrifice desires wealth in animals, then, when he is prepared in the sacrifice by the dīkṣā, he is prepared with mantras in the Jagatī metre. Then the Triṣṭubh metre said that it would go and leaped into the atmosphere. Before it had gone far it too grew weary and had to turn back. Then
+
+### Printed p. 65
+
+since the Triṣṭubh metre lost two of the thirteen syllables in its pāda, a pāda of the Triṣṭubh metre now has only eleven syllables. When returning, this Triṣṭubh metre brought with it from heaven the dakṣiṇā and the tapas, which are means of the sacrifice. Therefore even now, in the custom of the world, when a sacrifice is performed, the dakṣiṇā is given to the Ṛtvijs at the time of the Mādhyandina-savana. The giving away of wealth earned by oneself in this way is called tapas. Then the Gāyatrī said that it would go, and in the form of a falcon leaped up and flew into the atmosphere. While going it took with it, for help, a she-goat. When it went, the pādas of the Gāyatrī metre had only four syllables. Although among all the metres Gāyatrī is small in the measure of its syllables, by its own power it reached heaven, overcame the guards there and brought Soma. While bringing the Soma juice it brought back the two syllables each that the Jagatī and Triṣṭubh metres had lost. Those four syllables joined the four syllables that the Gāyatrī metre had before, and each pāda of the Gāyatrī became eight syllables. Because it brought Soma from heaven, Gāyatrī, though small in size, gained greater excellence. While bringing Soma to the earth, Gāyatrī in the form of the falcon held the Soma in its two feet and brought another portion gripped in its beak. The portion of Soma plants held in the two feet became the Prātaḥsavana and the Mādhyandina-savana. The portion brought gripped in the beak became the third savana. While bringing it in the beak the falcon bit the Soma plant and sucked out the juice, and so the Soma juice in those plants was not abundant and they became sapless. That is why it is said here that the third savana is not full of sap but sapless. Even now, at the third savana the Soma plants are not freshly pounded and pressed; rather, the husk-like plants left after the juice was pressed out at the time of the Mādhyandina-savana are soaked in water and the juice is pressed out again. Since there is not much juice in these husks, they make a connection with the Mādhyandina in order to increase its juice; that is, the mantras in the Triṣṭubh metre used at the Mādhyandina-savana are recited also at the third savana, in the Unnīyamāna sūkta. How? Just as a fire that has gone out, or is going out, is made to burn well by putting fresh pieces of wood on it, so, in order that the juice may come out more abundantly in the husks used for juice at the third savana, Ṛks in the Triṣṭubh metre are recited at the third savana as at the Mādhyandina-savana, and a connection with the Mādhyandina is established for it. This establishing of a connection is called शुक्रियं (*śukriyaṃ*); that is, it means rekindling what has gone out. Thus, for rekindling at the third savana, and so that the juice may come out more abundantly in the husks, and because the Triṣṭubh metre is dear to Indra, so as to do good to Indra and to establish a connection with Indra also at the third savana, the Unnīyamāna sūkta, which consists of Ṛks in the Triṣṭubh metre,
+
+### Printed p. 66
+
+is recited at the third savana. This is the reason for not using Ṛks in the Jagatī metre.
+
+अथाह यदैंद्रार्भवं वै तृतीयसवनमथ कस्मादेष एव तृतीयसवने प्रस्थितानां प्रत्यक्षाद्यैंद्रार्भव्या यजतींद्र ऋभुभिर्वाजवद्भिः सुमुक्षितमिति होतैव नानादेवत्याभिरितरे कथं तेषामैंद्रार्भवो भवंतीति । (*athāha yadaiṃdrārbhavaṃ vai tṛtīyasavanamatha kasmādeṣa eva tṛtīyasavane prasthitānāṃ pratyakṣādyaiṃdrārbhavyā yajatīṃdra ṛbhubhirvājavadbhiḥ sumukṣitamiti hotaiva nānādevatyābhiritare kathaṃ teṣāmaiṃdrārbhavo bhavaṃtīti |*)
+
+Having so far answered the objection concerning the use of mantras in the Triṣṭubh metre in place of the Jagatī metre in the Unnīyamāna sūkta recited for the third savana, he now answers the doubts and the like that arise concerning the prasthita yājyā Ṛks. It was said before that, after the recitation of the Unnīyamāna sūkta, at the third savana the seven Ṛtvijs, the Hotṛ and the others, recite the prasthita yājyā mantras in Aindrārbhava form, that is, with Ṛks having Indra and the Ṛbhus as their deities. But at the time of reciting the prasthita yājyā mantras the Ṛtvij called Hotṛ recites the yājyā mantra इंद्र ऋभुभिर्वाजवद्भिः (*iṃdra ṛbhubhirvājavadbhiḥ*) (Ṛ. Saṃ. 3-60-5), which contains the words Indra and Ṛbhu and has Indra and the Ṛbhus as its deities. For in the yājyā mantra recited by the Hotṛ the words इंद्रऋभुभिः (*iṃdraṛbhubhiḥ*) are used. The Hotṛ alone recites and offers with such a mantra of two deities. But the other six Ṛtvijs do not do so; they recite and offer with mantras of various deities. Therefore how can the yājyā mantras recited by these six Ṛtvijs become Aindrārbhava mantras? Since Indra and the Ṛbhus are not mentioned in their mantras, how will their yājyā mantras praise Indra and the Ṛbhus, the chief deities at the third savana? Is this not strange?
+
+इंद्रावरुणा सुतपाविमं सुतमिति मैत्रावरुणो यजति युवो रथो अध्वरं देवनीतॆय इति बहूनि वाह तदृभूणां रूपं । (*iṃdrāvaruṇā sutapāvimaṃ sutamiti maitrāvaruṇo yajati yuvo ratho adhvaraṃ devanītèya iti bahūni vāha tadṛbhūṇāṃ rūpaṃ |*)
+
+It was said before that the Hotṛ recites the yājyā mantra इंद्र ऋभुभिर्वाजवद्भिः (*iṃdra ṛbhubhirvājavadbhiḥ*), which has Indra and the Ṛbhus as its deities. Now he explains the presence of the Aindrārbhava nature, that is, praise of Indra and the Ṛbhus, in the yājyā mantras recited by the other Ṛtvijs. First, the Maitrāvaruṇa recites as his yājyā mantra the Ṛk इंद्रावरुणा सुतपाविमं (*iṃdrāvaruṇā sutapāvimaṃ*) (Ṛ. Saṃ. 6-68-10). In the third pāda of this Ṛk, युवो रथो अध्वरं देववीतये (*yuvo ratho adhvaraṃ devavītaye*), there is the word देववीतये (*devavītaye*). In the compounding of this word:
+
+देवानां वीतिः प्राप्तिर्देववीतिरिति तस्य समासः । तस्य समासे षष्ठिबहुवचनत्वेन शब्देन बहून्येव रूपाणि प्रतीयंते । तत्र बहुत्वमृभूणां स्वरूपं । (*devānāṃ vītiḥ prāptirdevavītiriti tasya samāsaḥ | tasya samāse ṣaṣṭhibahuvacanatvena śabdena bahūnyeva rūpāṇi pratīyaṃte | tatra bahutvamṛbhūṇāṃ svarūpaṃ |*)
+
+Since this is said, this word means "for the attainment of the gods". The word "of the gods" is the genitive plural. Since in this Ṛk the word Indra is directly present, the word "of the gods", conveyed by the plural word, applies to the Ṛbhus, who are three in number
+
+### Printed p. 67
+
+Therefore it must be understood that in this Ṛk both Indra and the Ṛbhus are praised.
+
+इंद्रश्च सोमं पिबतं बृहस्पत इति ब्राह्मणाच्छंसी यजत्या नां विशंत्विंदवः स्वाभुव इति बहूनि वाह तदृभूणां रूपं । (*iṃdraśca somaṃ pibataṃ bṛhaspata iti brāhmaṇācchaṃsī yajatyā nāṃ viśaṃtviṃdavaḥ svābhuva iti bahūni vāha tadṛbhūṇāṃ rūpaṃ |*)
+
+The Brāhmaṇācchaṃsī recites the Ṛk इंद्रश्च सोमं पिबतं बृहस्पते (*iṃdraśca somaṃ pibataṃ bṛhaspate*) (Ṛ. Saṃ. 4-50-10). In this Ṛk too the word Indra is used. In the third pāda of this Ṛk, आ वां विशंत्विंदवः स्वाभुवः (*ā vāṃ viśaṃtviṃdavaḥ svābhuvaḥ*), the plural word इंदवः (*iṃdavaḥ*) applies to the Ṛbhus, and so in this Ṛk too the Aindrārbhava nature is present.
+
+आ वो वहंतु सप्तयो रघुष्यद इति पोता यजति रघुपत्वानः प्र जिगात बाहुभिरिति बहूनि वाह तदृभूणां रूपं । (*ā vo vahaṃtu saptayo raghuṣyada iti potā yajati raghupatvānaḥ pra jigāta bāhubhiriti bahūni vāha tadṛbhūṇāṃ rūpaṃ |*)
+
+The Ṛtvij called Potṛ recites the Ṛk आ वो वहंतु सप्तयो रघुष्यदः (*ā vo vahaṃtu saptayo raghuṣyadaḥ*) (Ṛ. Saṃ. 1-85-6). In the second pāda of this Ṛk there is the plural-ending word रघुपत्वानः (*raghupatvānaḥ*), and there are also other plural-ending words, so it must be understood that the use of plural words indicates the Ṛbhus too.
+
+अमेव नः सुहवा आ हि गंतनेति नेष्टा यजति गंतनेति बहूनि वाह तदृभूणां रूपं । (*ameva naḥ suhavā ā hi gaṃtaneti neṣṭā yajati gaṃtaneti bahūni vāha tadṛbhūṇāṃ rūpaṃ |*)
+
+The Ṛtvij called Neṣṭṛ recites and offers the Ṛk अमेव नः सुहवा आ हि गंतन (*ameva naḥ suhavā ā hi gaṃtana*) (Ṛ. Saṃ. 2-36-3). In this yājyā mantra too, since there is the word गंतन (*gaṃtana*), a second-person plural word **NOTE**, it must be understood that in this Ṛk too the Aindrārbhava exposition is present.
+
+इंद्राविष्णू पिबतं मध्वो अस्येत्यच्छावाको यजत्यानामंधांसि मदिराण्यग्मन्निति बहूनि वाह तदृभूणां रूपं । (*iṃdrāviṣṇū pibataṃ madhvo asyetyacchāvāko yajatyānāmaṃdhāṃsi madirāṇyagmanniti bahūni vāha tadṛbhūṇāṃ rūpaṃ |*)
+
+The Ṛtvij called Acchāvāka recites and offers the yājyā mantra इंद्राविष्णू पिबतं मध्वो अस्य (*iṃdrāviṣṇū pibataṃ madhvo asya*) (Ṛ. Saṃ. 6-70-7). Since in the third pāda of this Ṛk there are used plural-ending words such as अंधांसि (*aṃdhāṃsi*), here too the plural indicates the Ṛbhus.
+
+इमं स्तोममर्हते जातवेदस इत्याग्नीध्रो यजति रथमिव सं महेमा मनीषयेति बहूनि वाह तदृभूणां रूपं । (*imaṃ stomamarhate jātavedasa ityāgnīdhro yajati rathamiva saṃ mahemā manīṣayeti bahūni vāha tadṛbhūṇāṃ rūpaṃ |*)
+
+### Printed p. 68
+
+The Ṛtvij called Āgnīdhra recites and offers the Ṛk इमं स्तोममर्हते जातवेदसे (*imaṃ stomamarhate jātavedase*) (Ṛ. Saṃ. 1-94-1). Since in the second pāda of this Ṛk there are plural-ending words such as महेम (*mahema*), it must be understood that this mantra sets forth the nature of the Ṛbhus.
+
+एवमु हैता ऐंद्रार्भव्यो भवंति यन्नानादेवात्यास्तेनान्या देवताः प्रीणाति । (*evamu haitā aiṃdrārbhavyo bhavaṃti yannānādevātyāstenānyā devatāḥ prīṇāti |*)
+
+In this way the seven yājyā mantras spoken of before not only set forth the deities Indra and the Ṛbhus but, being of various deities, also please the various deities.
+
+यदु जगत्प्रासहा जागतं वै तृतीयसवनं तृतीयसवनस्यैव समृध्यॆ ॥ (*yadu jagatprāsahā jāgataṃ vai tṛtīyasavanaṃ tṛtīyasavanasyaiva samṛdhyè ‖*)
+
+(Ai. Brā. 28-12)
+
+Here jagat means the Jagatī metre. The word प्रासहा (*prāsahā*) indicates plurality. Therefore जगत्प्रासहा (*jagatprāsahā*) means a sūkta or mantras that have the Jagatī metre and plural-ending words. Since mantras of this kind are present both in the Unnīyamāna sūkta of the third savana and in the yājyā mantras, it is said जागतं वै तृतीयसवनं (*jāgataṃ vai tṛtīyasavanaṃ*): the third savana is of the nature of the Jagatī metre. The rite of the third savana, carried out with such a sūkta and such Ṛks, brings prosperity to the sacrificer who performs the sacrifice.
+
+Here the third savana ends.
+
+**Discussion of the Soma Plant**
+
+We have given extensive explanations of Soma many times before. Yet it is now necessary to give a more careful explanation of it. In the Veda there are many mantras concerning Soma. The whole ninth maṇḍala is praise of Soma. When many deities are invoked, they are called to come to this sacrifice for the drinking of Soma. There are many sacrifices connected with Soma. Among them the Agniṣṭoma sacrifice is the chief. In this sacrifice, with the recitation of mantras such as the stotra and the śastra, Soma is extracted according to rule at all three savanas (morning, noon and evening), prepared, and drunk by the sacrificer and the Ṛtvijs. In the other Soma sacrifices too this same order is followed, with some differences. Now we must examine what Soma is. Soma is a particular kind of creeper. This Soma plant is not found anywhere in India now. It grows especially on plains, on river banks and on mountains. The higher it grows, the more
+
 ---
 
-**Progress note:** Done through printed p. 62. Seven Hotr prasthita yajya mantras at three savanas (pp. 57-62)
+**Progress note:** Done through printed p. 68. Third savana: Arbhava Pavamana, Gayatri-falcon story, Aindrarbhava yajya mantras, start of Soma plant discussion (pp. 63-68)
