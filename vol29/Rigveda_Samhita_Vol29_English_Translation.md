@@ -2758,6 +2758,191 @@ In the sacrifice, a stone with a broad base, used for crushing and pressing the 
 We shall describe briefly here the procedure to be followed when the Soma juice is prepared. In the Soma sacrifices, for the drinking of Soma, the Soma plant is crushed and pressed, strained through a cloth, mixed according to the occasion with curds, milk and flour, offered to the gods, and then the institutor of the rite and the priests drink it themselves; this is the custom. This preparation of the Soma juice takes place on the principal day of the sacrifice in the morning, at midday and in the evening. It is called अभिवषण (*abhivaṣaṇa*) or सवन (*savana*). The rite of the morning is called प्रातःसवन (*prātaḥsavana*), the सवन (*savana*) performed at midday is called माध्यंदिनसवन (*mādhyaṃdinasavana*), and the सवन (*savana*) performed in the evening is called तृतीयसवन (*tṛtīyasavana*).
 The Soma plant is not obtainable in the present day. Formerly it grew on the banks of rivers and on the mountains. It was brought with great effort, or bought from those who brought it, and used in the sacrifices; even now a rite called सोमविक्रयण (*somavikrayaṇa*) is performed in the sacrifices. The Soma plant (creeper) is of a बभ्रु (*babhru*) colour, आरुण (*āruṇa*) (dull red), or a red mixed with yellow. Since it is said that the creeper that grows very high on the mountains is the best and that more juice can be taken from it, in cases where it is possible the Soma plant was taken from the mountains themselves
 
+### Printed p. 116
+
+brought. Among such mountains the mountain called मूजवंत (*mūjavaṃta*) was famous. The shoot of this Soma plant is called by the name अंस (*aṃsa*) (Ṛ. Saṃ. 1-168-3; 3-48-2 and others); the shoot provided with sprouts is called वक्षणा (*vakṣaṇā*) (Ṛ. Saṃ. 8-1-17) and वाण (*vāṇa*) (Ṛ. Saṃ. 4-24-9; 9-50-1); the Soma juice is called अंधः (*aṃdhaḥ*) (Ṛ. Saṃ. 1-28-7; 3-48-1; 4-16-1); and the stalk (creeper) of the Soma plant is called पर्वन् (*parvan*) (Ṛ. Saṃ. 1-9-1). Such is the usage.
+
+The method of preparing the Soma juice is this: the leaves on the Soma plant, or on the creeper, are removed, the plant is put in a mortar and pounded with a stone. If the plant is not fresh, it is soaked in water for a day or two, and when it has become soft the juice is taken out. The mortar in which the Soma plant is pounded is called उलूखल (*ulūkhala*). It is generally made of stone; one made of wood also occurs. The stone that is put into the mortar and used to pound from above has the names ग्रावा (*grāvā*) (Ṛ. Saṃ. 1-83-6; 1-135-7) and आद्रि (*ādri*) (Ṛ. Saṃ. 1-130-2; 1-135-5; 1-137-1). It may be supposed that the उलूखल (*ulūkhala*) was not like the mortar we use today, but only a slight hollow in the middle of a stone. This mortar called उलूखल (*ulūkhala*) was also used for pounding grain with the pestle (मुसल (*musala*)).
+
+The vessel in which Soma is placed to be offered to the gods is called चमू (*camū*). The vessels that the officiating priests use for drinking Soma are called कलश (*kalaśa*) and चमस (*camasa*). In some contexts the word चमू (*camū*) is also used to denote the उलूखल (*ulūkhala*) and ग्रावा (*grāvā*) (the mortar and the pounding stone, mortar and pestle) (Ṛ. Saṃ. 1-28-9; 4-18-3; 6-57-2).
+
+When the Soma plants are pounded, it is the usual practice to place them on hides. This hide is called त्वक् (*tvak*). A cow-hide was used for this (Ṛ. Saṃ. 10-94-9; 10-116-4). The vessels in which Soma is stored have names such as कोश (*kośa*) (Ṛ. Saṃ. 7-181-4; 8-20-8), सदस्य (*sadasya*) (Ṛ. Saṃ. 3-62-15; 9-1-2; 9-17-8), द्रु (*dru*) (Ṛ. Saṃ. 9-1-2; 9-65-6; 9-98-2), वन (*vana*) (Ṛ. Saṃ. 2-14-9; 9-66-9), द्रोण (*droṇa*) (Ṛ. Saṃ. 9-15-7; 9-33-2) and so on. स्रुव (*sruva*) means a ladle (Ṛ. Saṃ. 1-116-24). The cloth or sieve with which the Soma juice is strained is called पवित्र (*pavitra*). In some cases Soma was also strained through the gaps between the fingers.
+
+The Soma juice used without any admixture of other substances is called शुक्र (*śukra*) (Ṛ. Saṃ. 1-137-1; 3-32-2; 8-2-10) or शुचि (*śuci*) (Ṛ. Saṃ. 1-5-5; 1-30-2; 8-2-9).
+
+### Printed p. 117
+
+The colour of this juice is described in various ways: it is said to be of various colours such as बभ्रु (*babhru*) (Ṛ. Saṃ. 9-33-2; 9-63-4 and 6), हरित (*harita*) (Ṛ. Saṃ. 9-3-9; 9-65-8), अरुण (*aruṇa*) (Ṛ. Saṃ. 9-40-2; 9-45-3), अरुष (*aruṣa*) (Ṛ. Saṃ. 9-61-21) and शोण (*śoṇa*) (Ṛ. Saṃ. 9-97-13), and to be fragrant (Ṛ. Saṃ. 9-97.9; 9-107-2).
+
+Certain substances are mixed with the Soma juice to give it taste. This mixture is called the आतिरद्रव्य (*ātiradravya*) substances. Soma juice mixed with milk is called गवाशिर (*gavāśira*), that mixed with curds दध्याशिर (*dadhyāśira*), and that mixed with flour यवाशिर (*yavāśira*). The Soma juice is sometimes said to be sharp; it is then to be understood as having a pungent smell or taste (pungent flavour). The husk-like part that remains after the Soma juice has been extracted is called ऋजीष (*ṛjīṣa*).
+
+ग्रावा (*grāvā*)—the stone with which the Soma juice is pounded. As the word पृथुबुद्धः (*pṛthubuddhaḥ*) in this Ṛk explains, this stone is a round stone, broad at the bottom and like a handle at the top; a stone shaped like the grinding stone of a grinding-slab. In the Ṛgveda the stones used for pounding the Soma plant are generally called by the words ग्रावा (*grāvā*) and अद्रि (*adri*).
+
+पृथुबुद्ध्न (*pṛthubuddhna*)—स्तुलमूल ऊर्ध्व उन्नतः (*stulamūla ūrdhva unnataḥ*). A long stone whose base is broad; the round stone that grinds on the slab. **NOTE**
+
+ऊर्ध्वोभवति सोतवे (*ūrdhvobhavati sotave*)—for pounding the Soma plant the stone is lifted up with the hand. What is stated here is that, when the plant lying in the stone or in the mortar is to be pounded, another stone is held in the hand, lifted up and used for pounding.
+
+उलूखलसुतानां (*ulūkhalasutānāṃ*)—उलूखल (*ulūkhala*) means a stone with a hollow in the middle, that is, a mortar. The stone has a hollow in the middle so that the juice does not run away when the Soma plant is pounded and the juice extracted. It is like a mortar. The Soma plants are put into this hollow part and pounded with another stone called ग्रावा (*grāvā*), and the juice is taken out. After the plant has been pounded, the juice stands in the hollow of the stone, just as the oil stands in the oil-press after sesame has been pressed. On the word उलूखल (*ulūkhala*) Yāska says:
+
+उलूखलमुरुकरु वोर्ध्वखं वोर्क्करं वोरु मे कुर्वित्य ब्रवीत्तदुलूखलमभवत् । उरुकरं वैतत्तदुलूखलमित्याचक्षते परोक्षेणेति ब्राह्मणं ॥ (*ulūkhalamurukaru vordhvakhaṃ vorkkaraṃ voru me kurvitya bravīttadulūkhalamabhavat | urukaraṃ vaitattadulūkhalamityācakṣate parokṣeṇeti brāhmaṇaṃ ‖*) (Ni. 9.20). **NOTE**
+
+### Printed p. 118
+
+That is to say, in the word उलूखल (*ulūkhala*) one should put the letter ra in place of the letter la (since there is no distinction between la and ra); it then becomes उरुखरं (*urukharaṃ*) or उरुकरं (*urukaraṃ*). Now उरुकरं (*urukaraṃ*)—उरु बहु अथवा बह्वन्नं करोति उरुकरं (*uru bahu athavā bahvannaṃ karoti urukaraṃ*): (from pounding grain and the like in it) abundant food (nourishment) comes into being; because it produces what is abundant, it is called उरुकरं (*urukaraṃ*). Or ऊर्ध्व (*ūrdhva*) + खं (*khaṃ*) = ऊर्ध्वखं (*ūrdhvakhaṃ*) = उरुकरं (*urukaraṃ*); that is, because the grain is put into it and pounded by lifting the pestle upwards (from the root खन् (*khan*)), it is called उरुकर (*urukara*). Or ऊर्करं (*ūrkaraṃ*) = उरुकरं (*urukaraṃ*); ऊर्क् (*ūrk*) means juice, and because it produces that (the Soma juice), that is, because in it the Soma plant is pounded and the Soma juice taken out, it is called ऊर्करं (*ūrkaraṃ*) or उरुकर (*urukara*). Or, when the sentence उरु मे कुरु इत्यब्रवीत् (*uru me kuru ityabravīt*) is uttered, it is called उरुकरु (*urukaru*) in accordance with its meaning.
+
+Why must उरुकरं (*urukaraṃ*) be said to mean उलूखल (*ulūkhala*)? On this point there is the Brāhmaṇa sentence उरुकरं वैतत्तदुलूखलमित्याचक्षते (*urukaraṃ vaitattadulūkhalamityācakṣate*) परोक्षेणेति च ब्राह्मणं (*parokṣeṇeti ca brāhmaṇaṃ*), that is, that उरुकर (*urukara*) is the उलूखल (*ulūkhala*); this is cited here. In the present context the word उलूखलसुतानां (*ulūkhalasutānāṃ*) means: the portion of the Soma juice pounded in the mortar that is called उलूखल (*ulūkhala*). This उलूखल (*ulūkhala*) is one of the objects of sacrifice said to be the ten sacrificial weapons. On this matter:
+
+यो वै दत यज्ञायुधानि वेद मुखतोऽस्य यज्ञः कल्पते स्पृश्च कपालानि चाग्निहोत्रहवणी च शूर्पं च कृष्णाजिनं च शम्या चोलूखलं च मुसलं च दृष्टच्चोपला चैतानि वै दश यज्ञायुधानि य एवं वेव मुजतोऽस्य यज्ञः कल्पते ॥ (*yo vai data yajñāyudhāni veda mukhato 'sya yajñaḥ kalpate spṛśca kapālāni cāgnihotrahavaṇī ca śūrpaṃ ca kṛṣṇājinaṃ ca śamyā colūkhalaṃ ca musalaṃ ca dṛṣṭaccopalā caitāni vai daśa yajñāyudhāni ya evaṃ veva mujato 'sya yajñaḥ kalpate ‖*) (Tai. Saṃ. 1-6-8)
+
+This is a passage of the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda; that is, the chief implements used in the sacrifice are ten:
+
+- (1) स्पृः (*spṛḥ*)—च्छेदनाधिकृत् (*cchedanādhikṛt*). A knife used for cutting darbha grass and the like.
+- (2) कपालानि (*kapālāni*)—हविरधिश्रयणार्थानि (*haviradhiśrayaṇārthāni*). The clay pans on which the oblation, that is, the oblation called पुरोडाश (*puroḍāśa*), is placed over the fire and cooked.
+- (3) अग्निहोत्रहवणी (*agnihotrahavaṇī*)—a wooden vessel, like a ladle, used for pouring the oblation into the fire.
+- (4) तूर्प (*tūrpa*)—a wooden implement used for winnowing grain.
+
+### Printed p. 119
+
+- (5) कृष्णाजिनं (*kṛṣṇājinaṃ*)—the skin of the antelope called कृष्णाजिन (*kṛṣṇājina*), used near the mortar.
+- (6) शम्या (*śamyā*)—a weapon used in the sacrifice for killing the animal.
+- (7) उलूखलं (*ulūkhalaṃ*)—the mortar used for pounding grain and for pounding the Soma juice.
+- (8) मुसलं (*musalaṃ*)—the pestle for pounding grain.
+- (9) दृष्ट् (*dṛṣṭ*)—the stone used at the bottom when Soma juice is pounded, or the grinding-slab. It is also called ग्रावा (*grāvā*).
+- (10) उपला (*upalā*)—the round stone used for grinding what is placed on the stone called दृष्ट् (*dṛṣṭ*) mentioned above. It is also called ग्रावा (*grāvā*) or अद्रि (*adri*).
+
+**NOTE**
+
+Among these ten sacrificial implements is included the stone called ग्रावा (*grāvā*) with which Soma is pounded.
+
+The method of pounding the Soma plant and preparing the Soma juice is nowhere described at length in the Ṛgveda. The method can be inferred from some sentences stated here and there. The stones with which the Soma plants are pounded have the names ग्रावा (*grāvā*) and अद्रि (*adri*). In some contexts wooden boards, well known by the name अधिषवण (*adhiṣavaṇa*), are also used. If the plant is fresh, much juice comes out. If not, that is, if some days have passed since it was cut and brought, it is soaked in water and then placed upon the hide. Then it is pounded with stones and the juice taken out. Since the juice so taken has the husks, fragments and the like of the plant mixed with it, it is strained either through the gaps between the fingers of the hands, or through the sieve or cloth called पवित्र (*pavitra*), or through the fleece of a sheep. The juice strained in this way is free from impurities and clear. It has the names शुक्र (*śukra*) and शुचि (*śuci*). To look at, this juice is of a dull red, or of a red mixed with yellow. It is the custom to offer to Indra and to Vāyu pure Soma juice, that is, Soma juice without any admixture of the आशिर (*āśira*) substances. For the other deities it is used mixed with milk, curds and the flour of grain. The Soma juice mixed with these has respectively the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*).
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ व इत्यष्टर्चमष्टमं सूक्तं । इरावतः पुत्रस्य सर्पजातेर्जरत्कर्णनाम
+> आर्ष० । जागतं । सोमाभिषवार्था ये ग्रावाणस्तद्देवत्यं । तथा चानुक्रांतं ।
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, beginning आ व (*ā va*), has eight Ṛks. Its seer is Jaratkarṇa, a serpent by birth, son of Irāvat; its metre is Jagatī; its deity is the Grāvans, the stones used for pressing Soma. Sāyaṇa then begins to cite the Anukramaṇī.
+
+### Printed p. 120
+
+> आ वोऽष्टौ सर्प ऐरावतो जरत्कर्णो ग्राव्णोऽस्तादिति॥ ग्रावस्तोत्र एतत्तूक्तं ।
+> सूत्रितं च । आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोरंतरोपरिष्पात्पुरस्ताद्वा ।
+> आ. ५-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Anukramaṇī records the eight Ṛks beginning आ व (*ā va*) as of the serpent Jaratkarṇa Airāvata, addressed to the stones (grāvan). This sūkta is a praise of the stones. It is also laid down in the sūtra (Ā. 5-12) that the two sūktas आ व ऋंजसे (*ā va ṛṃjase*) and प्र वो ग्रावाण (*pra vo grāvāṇa*) are to be recited between, after or before. **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning आ वः (*ā vaḥ*) is the eighth sūkta in the sixth anuvāka; it has eight Ṛks. The seer of this sūkta is Jaratkarṇa, of the serpent kind, the son of Irāvata; its deity is the stones called ग्रावाणः (*grāvāṇaḥ*) that are used at the time of pressing Soma; the metre is Jagatī. In the Anukramaṇī it is said आवोष्टौ सर्प ऐरावतो जरत्कर्णो ग्राव्योऽसौत् (*āvoṣṭau sarpa airāvato jaratkarṇo grāvyo 'saut*). Therefore in this sūkta there is a praise of the stones. In the Āśvalāyana Śrauta Sūtra it is said आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोरंतरोपरिष्टात्सुरस्ताद्वा (*ā va ṛṃjase pra vo grāvāṇa iti sūktayoraṃtaropariṣṭātsurastādvā*) (Ā. 5.12).
+
+Sūkta 76. Maṇḍala 10; Anuvāka 6; Sūkta 76. Aṣṭaka 8; Adhyāya 3; Varga 8, 9. Number of Ṛks in the sūkta: 8. Seer: जरत्कर्ण ऐरावतः सर्पः (*jaratkarṇa airāvataḥ sarpaḥ*). Deity: ग्रावाणः (*grāvāṇaḥ*). Metre: जगती (*jagatī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ व॑ ऋंजस ऊ॒र्जां व्यु॑ष्टि॒स्विंद्रं॑ म॒रुतो॒ रोद॑सी अनक्तन ।  
+> उ॒भे यथा॑ नो॒ अह॑नी सचा॒भुवा॒ सदः॑सदो वरिव॒स्त्यात॑  ॒॑
+> उद्भिदा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वः । ऋंजसे । ऊर्जां । विउष्टिषु । इंद्रं । मरुतः । रोदसी इति । अनक्तन ।  
+> उभे इति । यथा । नः । अहनी इति । सचाभुवा । सदःसदः । परिवस्यातः ।  
+> उत्भिदा ॥ १ ॥
+
+### Printed p. 121
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ग्रावाणः वो युष्मानूर्जां सारभूतानामन्नवतीनां पोषसां
+> व्युष्टिषु विभातेषु सत्स्वा ऋंजसे । आप्रसाधयामि । यूयं सोमेनेंद्रं
+> मरुतो रोदसी द्यावापृथिव्यौ चानक्तन । व्यंजयत । नोऽस्मानुभे सचाभुवा
+> सहोत्पन्ने अहनी द्यावापृथिव्यौ सदःसदः सर्वेषु यागगृहेषु वरिवस्यातः ।
+> परिचरतः ॥ उद्भि दोद्भेदकेन धनेन पूरयतामिति ॥
+
+##### Gist of the bhāṣya
+
+O Grāvans, I accomplish (worship) you at the dawnings of the dawns, which are the essence of food and rich in food. You manifest with Soma Indra, the Maruts, and heaven and earth. Both heaven and earth, born together, serve us in all the sacrificial houses. May they fill us with wealth that breaks forth abundantly. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O Grāvas that press the Soma)
+- ऊर्जां (*ūrjāṃ*)—of the dawns provided with food
+- व्युष्टिषु (*vyuṣṭiṣu*)—at the time of manifestation
+- आ यंजसे (*ā yaṃjase*)—I worship **NOTE**
+- इंद्रं (*iṃdraṃ*)—Indra
+- मरुतः (*marutaḥ*)—the Maruts
+- रोदसी (*rodasī*)—heaven and earth
+- अनक्तन (*anaktana*)—you illuminate
+- नः (*naḥ*)—us
+- सचाभुवा (*sacābhuvā*)—born together
+- उभे अहनी (*ubhe ahanī*)—both heaven and earth
+- सदःसदः (*sadaḥsadaḥ*)—in all the chambers of sacrifice
+- वरिवस्मातः (*varivasmātaḥ*)—they attend **NOTE**
+- उद्भिदा (*udbhidā*)—may they make us rich in possessions with abundant wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Grāvas that press the Soma, I worship you at the time of the manifestation of the dawns that possess food. You illuminate Indra, the Maruts, and heaven and earth. Heaven and earth, born together, attend on us in all the chambers of sacrifice. May they make us rich in possessions with abundant wealth.
+
+##### English translation
+I propitiate you at the commencement of the food-possessing (dawns); you reveal Indra, the Maruts, heaven and earth; both heaven and earth being united attend on us in all the chambers of sacrifice; (may they fill us) with wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this sūkta the Grāvas (stones), which are lifeless things, are conceived of as deities and praised. For Yāska's explanation of this matter and for the detailed description, see pages 100-102 of this same part.
+
+When explaining the meaning of the word मुंजसे (*muṃjase*) in this Ṛk, Yāska says:
+
+### Printed p. 122
+
+ऋंजतिः प्रसाधनकर्मा । आ व ऋंजसे ऊर्जां व्युष्टिषु इत्यपि निगमो भवति । (*ṛṃjatiḥ prasādhanakarmā | ā va ṛṃjase ūrjāṃ vyuṣṭiṣu ityapi nigamo bhavati |*)
+
+Thus he has given the etymology. ऋंजतिः (*ṛṃjatiḥ*) means "to adorn", that is, the idea is to praise especially by singing of the qualities. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदु॒ श्रेष्ठं॒ सव॑नं सुनोत॒नात्यो॒ न हस्त॑यतो॒ अद्रिः॑  ॒॑
+> सोतरि ।  
+> वि॒दद्धग१्॒॑यो अ॒भिभू॑ति॒ पौंस्यं॑ म॒हो रा॒ये चि॑त्तरुते॒  ॑
+> यदर्वतः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । ऊं इति । श्रेष्ठं । सवनं । सुनोतन । अत्यः । न । हस्तयतः । अद्रिः ।  
+> सोतरि ।  
+> विदत् । हि । अर्यः । अभिभूति । पौंस्यं । महः । राये । चित् । तरुते । यत् '  
+> अर्वतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ग्रावाणः यूयं तदु तमेव श्रेष्ठं प्रशस्यं सवनं सोमं सुनोतन ।
+> अभिषुणुत । अथैकवदाह । अद्रिरभिषवग्रावा हस्तयतो हस्ताभ्यां गृहीतः सन्नत्यो
+> न धृतोऽश्व इव भवति सोतर्यभिषवकर्तर्यध्वर्यौ । स यथा हस्ताभ्यां
+> दृढगृहीतोऽपि बलवान् तद्वत् । अर्यो ग्राव्णामभिषवाय प्रेरको यजमानोऽभिभूति शत्रूणामभिभावुकं पौंस्यं बलं विदद्धि । लभते खलु देवेभ्यः ।
+> यद्वा । अभिषवायाध्वय्दादेः प्रेरितो ग्रावाभिभूति पौंस्यं विदद्यजमानार्थं ।
+> किंच महे महते राये चिद्दनायापि यद्यो ग्रावार्वतोऽश्वांस्तरुते तनुते
+> प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Grāvans, press that very excellent, praiseworthy Soma. Then he speaks of one stone: the pressing stone, held in the two hands, becomes, in the presser, the adhvaryu who performs the pressing, like a restrained horse; just as that horse, though held firmly with the two hands, is strong, so is the stone. The sacrificer, who impels the Grāvans to press, obtains manly strength that overcomes enemies; he obtains it indeed from the gods. Or else: the stone, impelled by the adhvaryu and others for the pressing, obtains manly strength for the sacrificer. Further, for great wealth and also for giving, he who, as the stone, extends and bestows horses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रेष्ठं (*śreṣṭhaṃ*)—excellent (O Grāvas)
+- तदु सवनं (*tadu savanaṃ*)—that very Soma
+- सुनोतन (*sunotana*)—press
+- सोतरि (*sotari*)—at the time when the adhvaryu presses the Soma
+- अद्रिः (*adriḥ*)—the pressing stone
+
 ---
 
-**Progress note:** Done through printed p. 115. Sūkta 75 Ṛks 6-9 (tributaries, Sindhu's chariot); introduction to Sūkta 76 begun
+**Progress note:** Done through printed p. 122. Soma-preparation notes pp.116-119, Sukta 76 intro, Rk 1, Rk 2 begun
