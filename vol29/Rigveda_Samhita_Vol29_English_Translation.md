@@ -231,6 +231,217 @@ Maitreya said:
 
 The measure of time is of two kinds, subtle and gross. For the extremely subtle, the usage is "atom" (paramāṇu); for the gross, "the supremely great" (parama-mahat).
 
+### Printed p. 13
+
+The exact measure of time follows the motion of the sun. Its divisions are as follows.
+
+- 1 आणु (*āṇu*): an extremely small thing that cannot be divided
+- 2 atoms (paramāṇu) = 1 द्वणुक (*dvaṇuka*)
+- 3 ditto = 1 त्रसरेणु (*trasareṇu*)
+- 3 त्रसरेणु (*trasareṇu*) = 1 त्रुटि (*truṭi*)
+- 100 त्रुटि (*truṭi*) = 1 वेध (*vedha*)
+- 3 वेध (*vedha*) = 1 लव (*lava*)
+- 3 अवगळु (*avagaḷu*) = 1 निमेष (*nimeṣa*) **NOTE**
+- 3 निमेष (*nimeṣa*) = 1 क्षण (*kṣaṇa*)
+- 5 क्षण (*kṣaṇa*) = 1 काष्ठ (*kāṣṭha*)
+- 15 काष्ठ (*kāṣṭha*) = 1 लघु (*laghu*)
+- 15 लघु (*laghu*) = 1 नाडिका (*nāḍikā*)
+- 2 नाडिका (*nāḍikā*) = 1 मुहूर्त (*muhūrta*)
+- 6 or 7 नाडिका (*nāḍikā*) = 1 याम (*yāma*) or प्रहर (*prahara*) **NOTE**
+- 8 याम (*yāma*) = 1 अहोरात्र (*ahorātra*)
+- 15 अहोरात्र (*ahorātra*) = 1 पक्ष (*pakṣa*)
+- 1 bright and 1 dark पक्ष (*pakṣa*) = 1 मास (*māsa*)
+- 2 मास (*māsa*) = 1 ऋतु (*ṛtu*)
+- 6 ditto = 1 अयन (*ayana*)
+- 2 अयन (*ayana*) = 1 वत्सर (*vatsara*)
+- 12 मास (*māsa*) = 1 संवत्सर (*saṃvatsara*)
+
+(The varieties वत्सर (*vatsara*), संवत्सर (*saṃvatsara*), परिवत्सर (*parivatsara*), इडावत्सर (*iḍāvatsara*), अनुवत्सर (*anuvatsara*) and the rest follow the motions of the sun, the moon and the other planets.) One hundred संवत्सर (*saṃvatsara*) is the utmost limit of a man's life.
+
+Satya (Kṛta), Tretā, Dvāpara and Kali are one cycle of the four yugas. That is, after the four yugas beginning with Kṛta have passed, the Kṛta yuga begins again. This order goes on, one following another. Together with their sandhyā and sandhyāṃśa they make 12000 years of the measure of the gods.
+
+The beginning of a yuga is called sandhyā and the end of a yuga sandhyāṃśa. These are not included in the measures of the yugas. The measure of all of these together is as follows.
+
+### Printed p. 14
+
+The sandhyā of the Satya yuga is 400 years of the measure of the gods.
+
+- Satya yuga: 4000 (years of the measure of the gods)
+- its sandhyāṃśa: 400
+- sandhyā of the Tretā yuga: 300
+- Tretā yuga: 3000
+- its sandhyāṃśa: 300
+- sandhyā of the Dvāpara yuga: 200
+- Dvāpara yuga: 2000
+- its sandhyāṃśa: 200
+- sandhyā of the Kali yuga: 100
+- Kali yuga: 1000
+- its sandhyāṃśa: 100
+
+The total of the four yugas: .... .... 12000 years of the measure of the gods.
+
+In the time that lies between the sandhyā and the sandhyāṃśa of a yuga, the practice of dharma is fixed. This dharma has 4 feet in the Satya yuga, 3 feet in the Tretā yuga, 2 feet in the Dvāpara, and 1 foot in the Kali.
+
+Such a cycle of 1,000 yugas becomes one day of Brahmā. It may also be called a kalpa. That is, 12000 × 1000 = 1,20,00,000 years of the measure of the gods is the length of one day of Brahmā. So much time is the night of Brahmā. That is, a total of 24000000 years of the measure of the gods is one अहोरात्र (*ahorātra*) of Brahmā. In this one day 14 Manus wield their lordship. 1000/14 = 71 3/4: about 71 cycles of yugas. For 1 manvantara the total is 12000 × 1000/14 = 857146/7 years of the measure of the gods. **NOTE**
+
+### Printed p. 15
+
+In the creation of Brahmā, living beings, men, ancestors and gods are born according to their respective deeds.
+
+In the manvantaras the Lord protects this world with the principle of sattva, both in person and, through Manu and the others, in the form of representatives. At the time of dissolution He gathers His power into Himself. The three worlds are burnt by the fire from the mouth of Saṅkarṣaṇa. The whole world is covered by water. In that water Hari, reclining on the coils of Ananta, remains in meditation.
+
+The limit of the life of Brahmā too is 100 years. The half of this life is known as a parārdha. Now the first parārdha has passed and the second parārdha has begun. Each day of Brahmā is called a kalpa. The first part of this first parārdha is called Brahma-kalpa and its last part Padma-kalpa. The first part of the second parārdha, which is now going on, is called Varāha-kalpa. In this very kalpa the Varāha incarnation took place.
+
+These two parārdhas of Brahmā taken together are for the Lord a mere nimeṣa (the time of the twinkling of an eye). He is not one who is measured by time. He is beyond time.
+
+कालोऽयं द्विपरार्धाख्यो निमेष उपपद्यते । अव्याकृतस्यानंतस्य अनादेर्जगदात्मनः ॥ (*kālo 'yaṃ dviparārdhākhyo nimeṣa upapadyate | avyākṛtasyānaṃtasya anāderjagadātmanaḥ ‖*)
+(Śrī. Bhā. 3-11-37)
+
+In the Viṣṇu Purāṇa too the reckoning of the yugas beginning with Kṛta is the same as is explained in the Śrīmad Bhāgavata. But the measure of the manvantaras is stated somewhat more fully.
+
+चतुरुगानां संख्याता साधिका ह्येकसप्ततिः (*caturugānāṃ saṃkhyātā sādhikā hyekasaptatiḥ*). In this manvantara there is a time that exceeds by seventy-one times the number of years in the four yugas. Besides, a slightly greater number is also added to it. In other Purāṇas too this additional number is indicated. But nowhere is it said how much its measure is.
+
+In the Ṛgveda there is no explanation of any kind about the great divisions of time such as yuga, manvantara and kalpa mentioned above. But the use of this word is seen in the meanings (1) a pair, (2) one of the four divisions of time, Kṛta, Tretā and the rest, (3) a period of five years, (4) a yoke, (5) a measure or instrument of measuring, (6) a kind of plant used for medicine. For example—
+
+### Printed p. 16
+
+यद्वश्चित्रं युगेयुगे नव्यं घोषादमर्त्यं । (*yadvaścitraṃ yugeyuge navyaṃ ghoṣādamartyaṃ |*)
+(Ṛ. Saṃ. 1-139-8) **GLOSS**
+
+अश्वो न क्रंदञ्निभिः समिध्यते वैश्वानरः कुशिकेभिर्युगेयुगे । (*aśvo na kraṃdañnibhiḥ samidhyate vaiśvānaraḥ kuśikebhiryugeyuge |*)
+(Ṛ. Saṃ. 3-26-3) **GLOSS**
+
+युगेयुगे विदथ्यं गृणद्योऽग्ने रयिं यशसं धेहि नव्यसीं । (*yugeyuge vidathyaṃ gṛṇadyo 'gne rayiṃ yaśasaṃ dhehi navyasīṃ |*)
+(Ṛ. Saṃ. 6-8-5) **GLOSS**
+
+त्वां दूतमग्ने अमृतं युगेयुगे हव्यवाहं दधिरे पायुमीड्यं । (*tvāṃ dūtamagne amṛtaṃ yugeyuge havyavāhaṃ dadhire pāyumīḍyaṃ |*)
+(Ṛ. Saṃ. 6-15-8) **GLOSS**
+
+असो यथा नः शवसा चकानो युगेयुगे वयसा चेकितानः । (*aso yathā naḥ śavasā cakāno yugeyuge vayasā cekitānaḥ |*)
+(Ṛ. Saṃ. 6-36-5) **GLOSS**
+
+ध्रुवा एव वः पितरो युगेयुगे क्षेमकामासः सदसो न युंजते । (*dhruvā eva vaḥ pitaro yugeyuge kṣemakāmāsaḥ sadaso na yuṃjate |*)
+(Ṛ. Saṃ. 10-94-12) **GLOSS**
+
+For the words युगेयुगे (*yugeyuge*) in these Ṛks the bhāṣyakāra has explained the meaning as प्रतिदिनं (*pratidinaṃ*), कालेकाले (*kālekāle*), सर्वॆषु युगेषु (*sarvèṣu yugeṣu*): on every day, at every time, in all the yugas.
+
+एतद्वचो जरितर्मापि मृष्टा आ यत्ते घोषानुत्तरा युगानि । (*etadvaco jaritarmāpi mṛṣṭā ā yatte ghoṣānuttarā yugāni |*)
+(Ṛ. Saṃ. 3-33.8) **GLOSS**
+
+आ घा ता गच्छानुत्तरा युगानि यत्र जामयः कृणवन्नजामि । (*ā ghā tā gacchānuttarā yugāni yatra jāmayaḥ kṛṇavannajāmi |*)
+(Ṛ. Saṃ. 10-10-10) **GLOSS**
+
+In these Ṛks the words उत्तरा युगानि (*uttarā yugāni*) have the meaning of the coming times, times that are to come (the future).
+
+उक्तेषु शस्यमानेषु यः पश्यादुत्तरे युगे । (*ukteṣu śasyamāneṣu yaḥ paśyāduttare yuge |*)
+(Ṛ. Saṃ. 10-72-1)
+
+In this Ṛk the words उत्तरे युगे (*uttare yuge*) mean in the later yugas, that is, in the later yuga or time that comes after the earlier yuga has passed away.
+
+पुरूणि रत्ना दधता न्यंस्मे अनु पूर्वाणि चख्यथुर्युगानि । (*purūṇi ratnā dadhatā nyaṃsme anu pūrvāṇi cakhyathuryugāni |*)
+(Ṛ. Saṃ. 7-20-4) **GLOSS**
+
+In this Ṛk the words पूर्वाणि युगानि (*pūrvāṇi yugāni*) mean in the yugas or times that have passed away in the past.
+
+### Printed p. 17
+
+वच्यंते वां ककुहा अप्पु जाता युगा जूर्णेव वरुणस्य भूरेः । (*vacyaṃte vāṃ kakuhā appu jātā yugā jūrṇeva varuṇasya bhūreḥ |*)
+(Ṛ. Saṃ. 1-184-3) **GLOSS**
+
+In this Ṛk the words युगा जूर्णॆ (*yugā jūrṇè*) mean the former or past time.
+
+प्रमिनती मनुष्या युगानि योषा जारस्य चक्षसा वि भाति । (*praminatī manuṣyā yugāni yoṣā jārasya cakṣasā vi bhāti |*)
+(Ṛ. Saṃ. 1-92-11) **GLOSS**
+
+तदूचुषे मानुषेमा युगानि कीर्तेन्यं मघना नाम बिभ्रत् । (*tadūcuṣe mānuṣemā yugāni kīrtenyaṃ maghanā nāma bibhrat |*)
+(Ṛ. Sa. 1-103-4) **NOTE** **GLOSS**
+
+यत्रा नरो देवयंतो युगानि वितन्वते प्रति भद्राय भद्रं । (*yatrā naro devayaṃto yugāni vitanvate prati bhadrāya bhadraṃ |*)
+(Ṛ. Saṃ. 1-115-2) **GLOSS**
+
+अमिनती दैव्यानि व्रतानि प्रमिनती मनुष्या युगानि । (*aminatī daivyāni vratāni praminatī manuṣyā yugāni |*)
+(Ṛ. Saṃ. 1-124-2) **GLOSS**
+
+In these Ṛks, and in the Ṛks Ṛ. Saṃ. 1-144-4; 2-2-2; 5-52-4; 6-16-23; 7-9-4; 8-46-12; 8-51-9; 9-12-7; 10-27-19; 10-140-6, since the word मनुष्य (*manuṣya*) stands as an attribute of the words युगानि (*yugāni*), the meaning in all these Ṛks is the lifetime of men. That is, the limit of the life of men is indicated by the words मानुषा युगानि (*mānuṣā yugāni*).
+
+In the Ṛk Ṛ. Saṃ. 5-73-3 also, the words नाहुषा युगा (*nāhuṣā yugā*) mean the lifetime of man. But—
+
+दीर्घशतमा मामतेयो जुजुर्वान् दशमे युगे । (*dīrghaśatamā māmateyo jujurvān daśame yuge |*)
+(Ṛ. Saṃ. 115-6) **NOTE** **GLOSS**
+
+In explaining this Ṛk, Sāyaṇa has stated the view that the seer called Dīrghatamas, the son of the woman named Mamatā, by the grace of the Aśvin gods lived happily for ten yugas (दशयुगपर्यंतं (*daśayugaparyaṃtaṃ*)) with his wife, sons and others, and afterwards, that is after the ten yugas had passed, became old, with a worn-out body. Since it is not possible for a man to live for ten yugas, some Western scholars hold that the word yuga in this Ṛk may indicate a fixed period of five or ten years. According to this, it is natural that after ten yugas, that is after a hundred years, a man should be extremely old and have worn-out limbs; so runs their argument. However that may be, there is no difference of opinion here that the word yuga means a fixed time. In another sūkta of the Ṛgveda—
+
+### Printed p. 18
+
+या हिषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरा । (*yā hiṣadhīḥ pūrvā jātā devebhyastriyugaṃ purā |*)
+(Ṛ. Saṃ. 10-97-1) **GLOSS**
+
+in this Ṛk it is said that the herbs and trees, that is the vegetable kingdom, were created three yugas before the creation of the gods. Here the word yuga may well be said to have the meaning of the greatest division of time. For since the vegetable kingdom is the chief food of the other moving creatures, of the gods and of men, it is reasonable to say that the vegetable kingdom was created long before the gods. Modern science too supports this.
+
+As we have said before, the names of the four yugas, Kṛta, Tretā, Dvāpara and Kali, as set out in that order, are not found anywhere in the Ṛgveda. But in the Aitareya Brāhmaṇa, in one place only,
+
+कलिः शयानो भवति संजिहानस्तु द्वापरः । उत्तिष्ठंस्त्रेता भवति कृतं संपद्यदे चरंश्चरैवेति ॥ (*kaliḥ śayāno bhavati saṃjihānastu dvāparaḥ | uttiṣṭhaṃstretā bhavati kṛtaṃ saṃpadyade caraṃścaraiveti ‖*)
+(Ai. Brā. 33-15)
+
+the names of the four yugas, Kali, Dvāpara, Tretā and Kṛta, are indicated. These four names are compared to the four states of a man. It is said that when a man lies asleep he is in the state called Kali, when awake in Dvāpara, when he has risen and stands in Tretā, and when he moves about in the state called Kṛta; therefore the yugas Kali, Dvāpara, Tretā and Kṛta are each in order better than the one before. Some think that the words Kali and the rest denote the movements of the dice used in the game of dice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॑ण॒स्पति॑रे॒ता सं क॒र्मार॑ इवाधमत् ।  
+> दे॒वानां॑ पू॒र्व्ये यु॒गेऽस॑तः॒ सद॑जायत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्मणः । पतिः । एता । सं । कर्मारः इव । अधमत् ।  
+> देवानां । पूर्व्ये । युगे । असतः । सत् । आजायत ॥ २ ॥
+
+### Printed p. 19
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मणोऽन्नस्य पतिरदितिरेतैतानि देवानां जन्मानि कर्मार इव स यथा
+> भस्त्रयाग्निमुपधमिति प्रज्वलनार्थमेवं समधमत् । उदपादयदित्यर्थः । देवानां
+> पूर्व्य युगे । आदिसृष्टावित्यर्थः । तेषामुपादानकारणादसतो नामरूपवर्जितत्वेनासत्समानाद्ब्रह्मणः सकाशात्सन्नामरूपविशिष्टं देवादिकमजायत । प्रादुरभूत् । असद्वा इदमग्र आसीत्ततो वै सदजायत । तै.उ. २-७ । इति हि श्रुतिः । न
+> सदात्मकस्य प्रपंचस्यासत्कारणत्वं युक्तमिति वाच्यं छंदोगैः कथमसतः सज्जायेतेत्यसत्कारणत्वमाक्षिप्त्य सत्येव सोम्येदमग्र आसीदित्यवधारितत्वात् । छां.उ.
+> ६-२-२ । तर्ह्यसत्कारणप्रतिपादकवाक्यानां का गतिरिति चेत् तेषामव्याकृतत्वाभिप्रायत्वात् तद्धेदं तर्ह्यव्याकृतमासीत् । शत. १४-४-२-१५ । इति श्रुतेः । यद्येवं
+> तर्ह्यदितेः सकाशात्कथं देवाद्युत्पत्तिः । वायोरग्निरित्यादिवत् अधिष्ठानसकाशादुत्पत्तेः । यद्वा । देवानां कारणभूतं सदसतो ब्रह्मणः सकाशादुत्पन्नमिति योज
+> नादुक्तन्यायोऽस्मिन्पक्षेऽपि समान एव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Brahmaṇaspati is Aditi, the lord of food (ब्रह्मणः (*brahmaṇaḥ*) being food). As a smith blows up a fire with his bellows to make it blaze, so she blew together, that is, brought forth, these births of the gods. देवानां पूर्व्य युगे (*devānāṃ pūrvya yuge*) means in the first creation. From their material cause, the asat, that is Brahman, which because it is without name and form is like non-being, the sat, the gods and the rest endowed with name and form, was born, appeared. For the Śruti says असद्वा इदमग्र आसीत्ततो वै सदजायत (*asadvā idamagra āsīttato vai sadajāyata*) (Tai. U. 2-7). It is not to be objected that it is unfitting for a world of the nature of sat to have asat as its cause, for the followers of the Chāndogya, after raising the objection कथमसतः सज्जायेत (*kathamasataḥ sajjāyeta*) and thus questioning asat as cause, settle the matter by सत्येव सोम्येदमग्र आसीत् (*satyeva somyedamagra āsīt*) (Chā. U. 6-2-2). If it is asked what then is the way of the sentences that teach asat as cause, the answer is that they intend the unmanifest state, as the Śruti says तद्धेदं तर्ह्यव्याकृतमासीत् (*taddhedaṃ tarhyavyākṛtamāsīt*) (Śata. 14-4-2-15). **NOTE** If so, how is there origin of the gods and the rest from Aditi? Because, as in वायोरग्निः (*vāyoragniḥ*) and the like, origin is from the substratum. Or else: it is to be construed that what is the cause of the gods arose from Brahman, who is both sat and asat; the reasoning stated above holds equally on this view.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कर्मार इव (*karmāra iva*)—as a blacksmith presses his bellows and makes the fire grow
+- ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati (Aditi, the lord of food)
+- एता (*etā*)—these gods
+- समधमत् (*samadhamat*)—filled with vitality and made grow
+- देवानां (*devānāṃ*)—the gods
+- पूर्वे युगे (*pūrve yuge*)—in the time that precedes their coming to be
+- असतः (*asataḥ*)—from the principle that is without name and form, unembodied
+- सत् (*sat*)—the gods and the rest endowed with names and forms
+- अजायत (*ajāyata*)—were born
+
+##### भावार्थ (Bhāvārtha)
+
+As a blacksmith presses his bellows and makes the fire grow, Brahmaṇaspati filled these gods with vitality and made them grow. In the time that precedes the coming to be of the gods, the gods and the rest, endowed with names and forms, were born from the unembodied principle that is without name and form.
+
+##### English translation
+Brahmanaspati filled these (generations of the gods) with breath as a blacksmith (his bellows); in the first age of the gods the existent was born of the nonexistent.
+
+### Printed p. 20
+
+##### विशेषविषयगळु (Special Topics)
+
+Two kinds of meaning may be given here for the word Brahmaṇaspati. Brahmaṇaspati means Prajāpati, the protector of food, or the Lord of all (Sarveśvara), or Aditi. Aditi also means the power that governs the universe. We shall explain this matter at length in the Special Topics of the fourth Ṛk of this sūkta.
+
+ब्रह्मणस्पतिः एताः कर्मार इव अधमत् (*brahmaṇaspatiḥ etāḥ karmāra iva adhamat*)—As a blacksmith, who works in iron, to heat the iron presses the fire (the live coals) with his bellows, makes much air come, and so makes the fire blaze, so the Lord of all filled the gods with His unobstructed power and made them endowed with vitality. All kinds of powers are in the Lord of all. The idea is that He established a part of those powers in the gods and made them possessed of vitality. The vitality that is in the Supreme Self is like an ocean. As the ocean is the original source of all the bodies of water on the earth, rivers, wells, tanks and the rest, so all the vitality that is in the gods and in other living beings is to be understood as a part of the vitality of that Supreme Self or Lord of all. Therefore the main idea of this sentence is that at the time of creation the Lord of all filled a part of the vitality that is His own portion into the gods and the rest, and made them gods who are not inert, who can move about, can think, and have the power of action.
+
+देवानां पूर्वे युगॆ असतः सत् अजायत (*devānāṃ pūrve yugè asataḥ sat ajāyata*)—Here देवानां पूर्वे युगे (*devānāṃ pūrve yuge*) means before Prajāpati (or the Lord of all) created the gods, in the first creation. At that time, that is before creation, there were no things at all endowed with names and forms (that is, mountains, rivers, trees, animals, men and the like). There was only the unmanifest form. That is, the Supreme Self, by Himself alone, endowed with His infinite power that is beyond the reach of the senses, pervaded everywhere. This form of the Supreme Self has names such as unmanifest, without qualities and asat. That is what is indicated here by the word असत् (*asat*). In this sentence the seer describes the order of creation: from this unmanifest form, sat, that is, mountains and the rest and living beings and the like that are perceptible to the senses, came into being. This matter is supported at length by the Śruti sentence आसद्वा इदमग्र आसीत् । ततो वै सदजायत (*āsadvā idamagra āsīt | tato vai sadajāyata*) (Tai. U. 2-7) (the Taittirīya Upaniṣad), by the Chāndogya Upaniṣad sentences कथमसतः सज्जायेत। (*kathamasataḥ sajjāyeta|*) and सत्येव सोम्येदमग्र आसीत् (*satyeva somyedamagra āsīt*) (Chā. U. 6-2-2), by the Śatapatha Brāhmaṇa sentence तद्देदं तर्हव्याकृतमासीत् (*taddedaṃ tarhavyākṛtamāsīt*) (Śa. Brā. 14-2-15), by the Taittirīya Āraṇyaka sentence वायोरग्निः (*vāyoragniḥ*) (Tai. Ā. 8-1), and by the Ṛgveda sentence नासदासीन्नो सदासीत् (*nāsadāsīnno sadāsīt*) (10-129-1). This last sentence in the Ṛgveda we shall explain at length later, in its own context.
+
 ---
 
-**Progress note:** Done through printed p. 12. Vol 29 pp. 7-12: Bhagavata passage on time and yuga (Special Topics of 10.72.1)
+**Progress note:** Done through printed p. 20. Vol 29 pp. 13-20: yuga reckoning, uses of yuga in the Rigveda, Rk 2 with special topics
