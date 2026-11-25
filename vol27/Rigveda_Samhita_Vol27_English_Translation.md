@@ -3606,6 +3606,285 @@ thousand-streamed he passes through the fleece ; men cleanse him.
 - गोभिः (*gobhiḥ*)—with milk and the like
 - परि अव्यत (*pari avyata*)—joins
 
+### Printed p. 79
+
+##### भावार्थ (Bhāvārtha)
+
+Purified in the pressing boards, and producing praise, the wise Soma rejoices with Indra and the other gods. Joined with the Vasatīvarī waters and having taken his excellent abode in the vessels, Soma unites with milk and the other admixtures.
+
+##### English translation
+Purified in the cups, exciting laudation, the sage Soma rejoices amongst the gods ; clothed with the waters sitting in the wooden bowls, he is surrounded with the curds and milk.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवा॒हं सो॑म रारण स॒ख्य इं॑दो दि॒वेदि॑ने ।  
+> पु॒रूणि॑ बभ्रो॒ नि च॑रंति॒ मामन॑ परि॒धीरिति॒ ता इ॑हि ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । अहं । सोम । ररण । सख्ये । इंदो इति । दिवेदिवे ।  
+> पुरूणि । बभ्रो इति । नि । चरंति । मां । अव । परिधीन् । अति । तान् । इहि ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो हे सोम तव सख्ये सखिकर्मण्यहं दिनेदिनेऽन्वहं रारण ॥
+> रणेर्लिट्युत्तमे णलि रूपं ॥ हे बभ्रो बभ्रुवर्ण सोम पुरूणि बहूनि रक्षांसि
+> मां तव सख्ये स्थितं न्यव चरंति । नीचीनं चरंति । बाधंते । ये मां बाधंते
+> तान्नरिधीन्राक्षसांस्त्वमतीहि । अतीत्य गच्छ । जहीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+"O Indu, O Soma, in your friendship (sakhya) I rejoice day after day." The form रारण (*rāraṇa*) is the first person perfect (liṭ) of the root रण (*raṇa*). "O Babhru, golden-hued Soma, many (puruṇi = bahūni) Rakṣas-demons move about me, who stand in your friendship, and press upon me": न्यव चरंति (*nyava caraṃti*) means they go about lowly, that is, they oppress. "Those encircling Rākṣasas who oppress me — overcome them, go past them", that is, destroy them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O flowing one
+- सोम (*soma*)—O Soma
+- तव (*tava*)—your
+- सख्ये (*sakhye*)—in friendship
+- अहं (*ahaṃ*)—I
+- दिवेदिवे (*divedive*)—every day
+- रारण (*rāraṇa*)—I experience delight
+- बभ्रो (*babhro*)—O golden-hued Soma
+- मां (*māṃ*)—me
+- पुरूणि (*purūṇi*)—numerous Asuras
+- नि अव चरंति (*ni ava caraṃti*)—surround and harm
+- तान् परिधीन् (*tān paridhīn*)—all those Asuras
+- अति इहि (*ati ihi*)—confront and destroy
+
+### Printed p. 80
+
+##### भावार्थ (Bhāvārtha)
+
+O flowing Soma, I who stand in your friendship experience delight every day. O golden-hued Soma, numerous Asuras surround me and harm me.
+
+##### English translation
+In your friendship, Indu Soma, I have rejoiced day by day ; many (Rakshasas) assail me. tawny-coloured (Soma) ; overcome these who surround me.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒ताहं नक्त॑मु॒त सो॑म ते॒ दिवा॑ स॒ख्याय॑ बभ्र॒ ऊध॑नि ।  
+> घृ॒णा तपं॑त॒मति॒ सूर्यं॑ प॒रः श॑कु॒ना इ॑व पस्तिम ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । अहं । नक्तं । उत । सोम । ते । दिवा । सख्याय । बभ्रो इति । ऊधनि ।  
+> घृणा । तपंतं । अति । सूर्यं । परः । शकुनाःइव । पप्तिम । २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बभ्रो बभ्रुवर्ण हे सोम उतापि च नक्तमुतापि च दिनाहोरात्रयोः
+> सख्याय सख्यार्थं तवोधनि समीपेऽहं रम इति शेषः । ते वयं फृणा दीप्त्या
+> तपंतं ज्वलंतं परः परमस्थानस्थितं सूर्यं तदात्मकं त्वामति पप्तिम । तत्र
+> स्थितं त्वां प्राप्तमतिपेतिम । कथमिव । शकुना इव यथा सुपर्णादयः पक्षिणः
+> सूर्यमतिगच्छंति तद्वत् ॥ पत्लृगतौ । अस्माच्चांदसे लिटि तनिपत्योश्चंदसीत्युपधालोपः ॥
+
+##### Gist of the bhāṣya
+
+"O Babhru, golden-hued Soma, both by night and by day, for friendship, near you I delight" (रम (*rama*) is to be supplied). "We, by ghṛṇā (radiance), leap (पप्तिम (*paptima*)) beyond the blazing Sun who stands in the supreme station — you, who are of his nature; having reached you who are established there, may we go beyond." How? As birds such as eagles pass beyond the sun, so.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बभ्रो (*babhro*)—golden-hued
+- सोम (*soma*)—O Soma
+- उत (*uta*)—and
+- नक्तं (*naktaṃ*)—by night
+- उत (*uta*)—and
+- दिवा (*divā*)—by day
+- ते सख्याय (*te sakhyāya*)—for friendship with you
+- ऊधनि (*ūdhani*)—near you
+- अहं (*ahaṃ*)—I delight
+- शकुनाः इव (*śakunāḥ iva*)—as birds fly up to the sun-world
+- सृणा (*sṛṇā*)—by your own radiance
+- तपंतं (*tapaṃtaṃ*)—blazing
+- परः (*paraḥ*)—standing in the supreme station
+- सूर‍्यं (*sūryaṃ*)—and of the nature of the Sun, to your presence
+- अति पप्तिम (*ati paptima*)—may we fly to you
+
+### Printed p. 81
+
+##### भावार्थ (Bhāvārtha)
+
+O golden-hued Soma, night and day, for friendship with you, I delight in your very nearness. As birds fly up to the sun-world, may we fly to your presence, blazing with your own radiance, standing in the supreme station, and of the nature of the Sun.
+
+##### English translation
+I (delight) in your presence, tawny-coloured Soma, both day and night, for the sake of your friendship may we soar like birds far beyond the sun blazing with your light.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒ज्यमा॑नः सुहस्त्य समु॒द्रे वाच॑मिन्वसि ।  
+> र॒यिं पि॒शंगं॑ बहु॒लं पु॑रु॒स्पृहं॒ पव॑माना॒भ्य॑र्षसि ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृज्यमानः । सुहस्त्य । समुद्रे । वाचं । इन्वसि ।  
+> रयिं । पिशंगं । बहुलं . पुरुस्सृहं । पवमान । अभि । अर्षसि ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रावस्तोत्रेऽभिरूपकरणे सोमे मृज्यमान एकस्तृचः । तत्र मृज्यमान
+> इत्येषा तृतीया । सूत्रितं च । मृज्यमानः सुहस्त्वा दशभिर्विवस्वतः । आ. ५-१२
+> इति ॥
+> हे सुहस्त्य । हस्ते भवा हस्ता अंगुलयः । शोभनांगुलिक सोम मृज्यमानः शोध्यमानस्त्वं समुद्रेऽन्तरिक्षे कलशे वा वाचं शब्दमिन्वसि । प्रेरयसि ।
+> किंच हे पवमान पूयमान सोम पिशंगं हिरण्यैः पिशंगवर्णं बहुलं प्रभूतं
+> पुरुस्पृहं बहुभिः स्पृहणीयं रयिं धनमभ्यर्षसि । स्तोत्कणामभिक्षरसि ।
+> प्रयच्छसि ॥
+> xxv 6
+
+##### Gist of the bhāṣya
+
+In the Grāvastotra, at the abhiṣava (pressing) of Soma, "मृज्यमान (*mṛjyamāna*)" is one tṛca; of it this verse beginning मृज्यमान (*mṛjyamāna*) is the third. It is also prescribed in the sūtra: मृज्यमानः सुहस्त्वा दशभिर्विवस्वतः (*mṛjyamānaḥ suhastvā daśabhirvivasvataḥ*) (Ā. 5-12).
+"O Suhastya" — हस्ता (*hastā*) are the fingers that are in the hand; so, O Soma of beautiful fingers, being purified, you utter a sound (इन्वसि (*invasi*) = you send forth) in the samudra, that is, in the atmosphere or in the vessel. Further, O Pavamāna, Soma who are being purified, you bring (*abhyarṣasi*) wealth that is golden-hued (पिशंगं (*piśaṃgaṃ*), tawny with gold), ample (बहुलं (*bahulaṃ*) = abundant), and desired by many (पुरुस्पृहं (*puruspṛhaṃ*)); you pour it out for the singers and give it.
+
+### Printed p. 82
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुहस्त्य (*suhastya*)—O Soma with excellent fingers
+- मृज्यमानः (*mṛjyamānaḥ*)—you who are being purified
+- समुद्रे (*samudre*)—in the atmosphere
+- वाचं (*vācaṃ*)—a sound
+- इन्वसि (*invasi*)—you send forth
+- पवमान (*pavamāna*)—O Soma, the purifier
+- पिशंगं (*piśaṃgaṃ*)—of golden form
+- बहुलं (*bahulaṃ*)—abundant
+- पुरुस्पृहं (*puruspṛhaṃ*)—desired by many
+- रयिं (*rayiṃ*)—wealth
+- अभ्यर्षिसि (*abhyarṣisi*)—you give to the singers
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, pressed by excellent fingers, you who are being purified send forth a sound in the atmosphere. O Soma, the purifier, you give to the singers wealth that is of golden form, abundant, and desired by many.
+
+##### English translation
+Fair-fingered (Soma) being cleansed you utter a sound in the pitcher ; you bring, Pavamana, ample golden-hued much-coveted wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of the praise of the Grāvas (the stones used for pressing Soma), while the Soma is being crushed and pressed, three Ṛks are to be recited. Of these, this Ṛk beginning मृज्यमानः (*mṛjyamānaḥ*) is the third. This matter is set forth by the sūtra of the Āśvalāyana Śrauta Sūtra, मृज्यमानः सुहस्त्या दशभिर्विवस्वतः (*mṛjyamānaḥ suhastyā daśabhirvivasvataḥ*) (Ā. 5-12).
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒जा॒नो वारे॒ पव॑मानो अ॒व्यये॒ वृषाव॑ चक्रदो॒ वने॑ ।  
+> दे॒वानां॑ सोम पवमान निष्कृ॒तं गोभि॑रंजा॒नो अ॑र्षसि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृजानः । वारे : पवमानः। अव्यये । वृषा : अव । चक्रदः । वने ।  
+> देवानां । सोम । पवमान । निःकृतं । गोभिः । अंजानः । अर्षसि ॥ २२ ॥
+
+### Printed p. 83
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वृषा वर्षिता त्वं मृजानो वसतीवरीभिर्मृज्यमानोऽलंक्रिय.
+> माणोऽव्ययेऽविमये वारे वाले पवित्रे पवमानः पूयमानः सन् वने वननीय उदके काष्ठे कलशे वाव चक्रदः । अवक्रंदसि । शब्दायसे । ततो हे सोम
+> हे पवमान त्वं गोभिर्गवैः क्षीरादिभिरंजानोऽज्यमानः सन्निष्कृतं संस्कृतं
+> देवानां स्थानमर्षसि । गच्छसि ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, you the showerer (वृषा (*vṛṣā*) = one who rains), being cleansed (मृजानः (*mṛjānaḥ*)) by the Vasatīvarī waters, that is, being adorned, being purified in the sheep's-wool strainer (वारे (*vāre*) = in the hair, the purifier; अव्यये (*avyaye*) = made of sheep's wool), you cry aloud (अव चक्रदः (*ava cakradaḥ*), you make sound) in the वने (*vane*), that is, in the water, the wood, or the vessel. Then, O Soma, O Pavamāna, anointed (अंजानः (*aṃjānaḥ*)) with the gavas (milk and the like), you go to the prepared, refined station of the gods."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (सोम (*soma*)—O Soma)
+- वृषा (*vṛṣā*)—you, the showerer of desires
+- मृजानः (*mṛjānaḥ*)—being well refined
+- अव्यये (*avyaye*)—of wool
+- वारे (*vāre*)—in the ten-fold strainer with its fibres
+- पवमानः (*pavamānaḥ*)—being purified
+- वने (*vane*)—in the vessel
+- अव चक्रदः (*ava cakradaḥ*)—you make a sound
+- पवमान (*pavamāna*)—you who are called Pavamāna
+- सोम (*soma*)—O Soma
+- गोभिः (*gobhiḥ*)—with milk and the like
+- अंजानः (*aṃjānaḥ*)—joined
+- निष्कृतं (*niṣkṛtaṃ*)—the prepared
+- देवानां (*devānāṃ*)—of the gods, the station
+- अर्षसि (*arṣasi*)—you approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you the showerer of desires, being well refined, being purified in the ten-fold strainer of woollen fibres, make a sound in the vessel. O Soma called Pavamāna, joined with milk and the like, you approach the prepared station of the gods.
+
+##### English translation
+The showerer of benefits, cleansed and filtered in the woollen fleece. you cry aloud in the water ; Soma Pavamana, mixed with the curds and milk, you go to the prepared (station) of the gods.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व॒ वाज॑सातये॒ऽभि विश्वा॑नि॒ काव्या॑ ।  
+> त्वं स॑मु॒द्रं प्र॑थ॒मो वि धा॑रयो दे॒वेभ्यः॑ सोम  ॒
+> मत्सरः ॥ २३ ॥
+
+### Printed p. 84
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । वाजसातये । अभि । विश्वानि । काव्या ।  
+> त्वं । समुद्रं । प्रथमः । वि । धारयः । देवेभ्यः । सोम । मत्सरः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं । समुद्रं । प्रथमः । वि । धारयः । देवेभ्यः । सोम । मत्सरः ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+The block repeats the Pada text of the verse (त्वं समुद्रं प्रथमो वि धारयो देवेभ्यः सोम मत्सरः ॥ २३ ॥ (*tvaṃ samudraṃ prathamo vi dhārayo devebhyaḥ soma matsaraḥ ‖ 23 ‖*)), so there is no commentary in it.**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम विश्वानि सर्वाणि काव्या कविकर्माणि स्तोत्राण्यभिलक्ष्य वाजसातयेऽन्नलाभाय पवस्व । क्षर । हे सोम देवेभ्यो देवानां मत्सरो मदकरः
+> प्रथमः सर्वदेवानां मुख्यस्त्वं समुद्रमंतरिक्षं कलशं ना वि धारयः । विशेषेण धारयसि ॥
+
+##### Gist of the bhāṣya
+
+"O Soma, looking to all the compositions of the poets (काव्या (*kāvyā*) = the praises, the works of sages), flow (पवस्व (*pavasva*) = stream) for the winning of food (वाजसातये (*vājasātaye*)). O Soma, you who are the exhilarator (मत्सरः (*matsaraḥ*) = intoxicator) of the gods, the first (प्रथमः (*prathamaḥ*)), the chief of all the gods, sustain (वि धारयः (*vi dhārayaḥ*) = you uphold specially) the samudra, the atmosphere or the vessel."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- विश्वानि (*viśvāni*)—all
+- काव्या अभि (*kāvyā abhi*)—having regard to the praises
+- वाजसातये (*vājasātaye*)—for the winning of food
+- पवस्व (*pavasva*)—flow
+- सोम (*soma*)—O Soma
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- मत्सरः (*matsaraḥ*)—the giver of joy
+- प्रथमः (*prathamaḥ*)—the most excellent
+- त्वं (*tvaṃ*)—you
+- समुद्रं (*samudraṃ*)—the atmosphere
+- वि धारयः (*vi dhārayaḥ*)—you have supported exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, facing all the praises, flow for the winning of food. O Soma, you who are the giver of joy to the gods and the most excellent, support the atmosphere exceedingly.
+
+##### English translation
+Flow, Soma, to all praises to procure food (for us) ; you, the exhilarator of the gods, are the chief supporter of the firmament.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स तू प॑वस्व॒ परि॒ पार्थि॑वं॒ रजो॑ दि॒व्या च॑ सोम॒ धर्म॑भिः ।  
+> त्वां विप्रा॑सो म॒तिभि॑र्विचक्षण शु॒भ्रं हि॑न्वंति धी॒तिभिः॑ ॥२४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । तु । पवस्व परि । पार्थिवं । रजः । दिव्या च । सोम । धर्मभिः ।  
+> त्वां । विप्रासः । मतिभिः । विचक्षण । शुभ्रं । हिन्वंति । धीतिभिः ॥ २४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 78. pp. 73-78 (batch API)
+**Progress note:** Done through printed p. 84. pp. 79-84 (batch API)
