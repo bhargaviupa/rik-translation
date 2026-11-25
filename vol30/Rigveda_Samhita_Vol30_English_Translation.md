@@ -18192,6 +18192,205 @@ When the gods created human beings, they did not ordain that they should suffer 
 ##### English translation
 The gods have not assigned hunger as (the cause of) death, for deaths approach the man who has eaten; the riches of one who gives do not diminish, he who gives not finds no consoler.
 
+### Printed p. 554
+
+##### विशेषविषयगळु (Special Topics)
+
+When the gods created human beings, they laid down the rule that however long people may live, each must die one day in the end. But they did not ordain that anyone should die for lack of food and the like. For even a man who is never short of food, who always eats as much as he likes and lives in comfort, must still fall under the power of death by some other cause. It is true that one dies if there is no food, but this is not a divine ordinance. By some means or other a man can earn his food and live. So if a man dies without food, it is not divinely appointed; the cause is that he was unable to earn his food. Death shows no partiality, saying "this man is fasting without food, while that one eats as he wishes." Whether there is food or not, all must fall under the power of death. Therefore, so as not to fall under death's power, a man must earn his food by his own effort. He must give up the foolish belief that death caused by lack of food is divinely ordained, and earn his own food himself.
+
+If a man, for some reason, is unable to earn his own food (grain), he may obtain it by begging from others. In that case, does the giver not lose by giving food or wealth to the one who begs? Certainly not. For in return for the small part he gives, immense merit accrues to him. By this meritorious act he becomes worthy of the gods' favour and obtains wealth many times what he gave. Besides, through the help he gives he gains many friends and well-wishers. But as for the miser who never gives anyone any kind of gift or food, no one wishes him well. He has no friends. How could others help, in his time of trouble, one who has never helped another with food, gifts and the like? Therefore, for his own benefit, welfare and acquisition of merit, one must help (with food and the like) another who is in distress; this is the view the seer has expressed.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य आ॒ध्राय॑ चकमा॒नाय॑ पि॒त्वोऽन्न॑वा॒न्तन्नर॑फि॒तायो॑पज॒ग्मुषे॑ ।
+
+### Printed p. 555
+
+> स्थिरं मनः कृणुते सेवते पुरोतो चित्स मर्डितारं न  
+> विंदते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । आध्राय । चकमानाय । पित्वः । अन्नवान् । सन् । रफिताय । उपजग्मुषे ।  
+> स्थिरं । मनः । कृणुते । सेवते । पुरा । उतो इति । चित् । सः । मर्डितारं । न ।  
+> विंदते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः पुरुषः स्वयमन्नवानप्याध्राय । अधार्यतेऽसावित्याध्रो दुर्बलः ।
+> तस्मै पित्वः पितूनन्नानिचकमानाय । चकमानः कांतिकर्मा । रफिताय । रफतिर्हिंसार्थः । दारिद्रॆण हिंसितायोपजग्मुषे गृहं प्रत्यागतायातिशयेन मन आत्मीयमंतःकरणमदाने स्थिरं कृणुते कुरुते । मनःस्थैर्यकरणेन तं क्लेशयतीत्यर्थः ॥ कृणुते । कृवि हिंसाकरणयोः। धिन्विकृण्वोरच्चेत्युप्रत्ययः । करोतीर्वा
+> व्यत्ययेन श्नुः । विकरणस्वरः सति शिष्टोपि लसार्वधातुकस्वरं न बाधते । म. ६-१-
+> १५८-११ । इति लसार्वधातुकस्वरः । न केवलं क्लेशकरणं अपि तु पुरा तस्य पुरस्तादेव
+> सेवते भोगान् । सोऽपि मर्डितारमात्मनः सुखयितारं न विंदते । न कुत्रापि
+> लभते ॥
+
+##### Gist of the bhāṣya
+
+The man who, though himself possessed of food, hardens his mind against one who is weak (आध्र (*ādhra*), "feeble", from अधार्यते (*adhāryate*)) and desires food (पित्वः (*pitvaḥ*), foods), who is afflicted (रफित (*raphita*), from रफति (*raphati*), to harm) by poverty and has come to his house — that is, he fixes his mind firmly on not giving; thereby he torments the beggar. Nor is that all: पुरा (*purā*), before him, he enjoys his own food. Such a man finds no one who gladdens him (मर्डितारं (*marḍitāraṃ*)) — he gets none anywhere. The rest of the block gives the derivation of कृणुते (*kṛṇute*) and its accent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- अन्नवान् सन् (*annavān san*)—though himself possessed of food
+- आध्राय (*ādhrāya*)—to the feeble one who deserves help
+- पित्वः (*pitvaḥ*)—food
+- चकमानाय (*cakamānāya*)—to one who is begging
+- रफिताय (*raphitāya*)—to one who is afflicted by the burning of poverty
+- उपजग्मुषे (*upajagmuṣe*)—to the guest who has come to his house, that is, in the matter of the guest
+- मनः (*manaḥ*)—his mind, (resolving) "nothing must be given to this man"
+- स्थिरं कुरुते (*sthiraṃ kurute*)—makes firm
+- उतो (*uto*)—and
+- पुरा चित् (*purā cit*)—even before giving to the guest, or in front of him
+- सेवते (*sevate*)—he himself eats the food
+- नः (*naḥ*)—that man
+- मर्डितारं (*marḍitāraṃ*)—one who brings him happiness
+- न विंदते (*na viṃdate*)—does not find
+
+##### भावार्थ (Bhāvārtha)
+
+The man who, though he has as much food as he needs, hardens his heart without pity towards a guest who is helpless, worn out by poverty and has come to his house begging for food, firmly resolving to give him nothing, and who eats before giving food
+
+### Printed p. 556
+
+to the man who begs of him — for that man no one shows compassion. No one wishes that he may be happy.
+
+##### English translation
+He who, possessed of food, hardens his heart against the feeble man craving nourishment, against the sufferer comming to him (for help), and pursues (his own enjoyment even) before him, that man finds no consoler.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the nature of the miser who gives no food (or wealth) is described. The meaning is clear, so no further explanation is needed. The main point is this: no one wishes welfare or happiness for such a miser — the man who, though he has food enough to eat his fill and to give to others, gives to no one; who eats without giving food to a guest or visitor who has come to him, or eats before they have eaten; who, though a man worn out by poverty and hunger comes begging at his door, gives him nothing.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इद्भो॒जो यो गृ॒हवे॒ ददा॒त्यन्न॑ कामाय॒ चर॑ते कृ॒शाय॑।  
+> अर॑मस्मै भवति॒ याम॑हूता उ॒ताप॒रीषु॑ कृणुते॒ सखा॑यं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । भोजः । यः । गृहवे । ददाति । अन्नकामाय । चरते । कृशाय ।  
+> अरं । अस्मै । भवति । यामहूता । उत । अपरीषु । कृणुते । सखायं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अन्वयमुखेन प्रशंसति । स इत् स एव भोजो दाता खलु यो गृहवे ॥
+> ग्रहेर्मृगय्यादित्वात् । उ. १-३८ । कुप्रत्ययः ॥ प्रतिग्रहीत्रेऽन्नकामायान्नं
+> याचमानाय चरते गृहमागतवते कृशाय दारिद्रॆणैतादृशायातिथयेऽन्नं
+> ददाति प्रयच्छति ॥ अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ यामहूत् । यामा गंतारो
+
+##### Gist of the bhāṣya
+
+He praises by the positive way. He alone is भोजः (*bhojaḥ*), a liberal giver, who gives to the गृहवे (*gṛhave*) (the word is formed with the affix ku, from *graheḥ*, by the rule मृगय्यादित्वात् (*mṛgayyāditvāt*), Uṇ. Sū. 1-38), that is, to the recipient, who desires food (अन्नकामाय (*annakāmāya*)), asking for food, who has come about to his house (चरते (*carate*)), who is lean (कृशाय (*kṛśāya*)) through poverty — to such a guest he gives food. The accent of ददाति (*dadāti*) is initial-acute by the rule on reduplicated forms. यामहूत् (*yāmahūt*):
+
+### Printed p. 557
+
+यामा (*yāmā*) are the gods who come; here the affix man is added by the Uṇādi rule beginning यातेरर्तिस्तुसुहुसृ (*yāterartistusuhusṛ*) (Uṇ. Sū. 1-139). यामहूति (*yāmahūti*) is the sacrifice, where they are invoked. In it, for this giver, the fruit is अरं (*araṃ*), ample, sufficient; that is, his desires are fulfilled. उतापि चापरीषु (*utāpi cāparīṣu*): the form is made with जीप् (*jīp*) (Pā. Sū. 4-1-30 **NOTE**); among others, among hostile armies, he makes a friend; that is, he behaves like one. All are his friends, none are enemies.
+
+> देवाः ॥ अत्र यातेरर्तिस्तुसुहुसृ । उ. १-१३९ । इत्यादिना मन्प्रत्ययः ॥ त आहूयंतेऽत्रेति यामहूतिर्यज्ञः । तस्मिन्नस्मै दात्रे फलमरमलं पर्याप्तं भवति ।
+> कामप्रदानं भवतीत्यर्थः । उतापि चापरीषु ॥ केवलमामकेति जीप् । पा. ४-१-
+> ३० ॥ अन्यासु शास्त्रवीषु सेनासु सखायं कृणुते । तद्वदाचरतीत्यर्थः । तस्य सर्वे
+> सखाय एव न शत्रव इत्यर्थः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- अन्न कामाय (*anna kāmāya*)—to one who begs for food
+- गृहवे (*gṛhave*)—who accepts it if given
+- चरते (*carate*)—who has come near his house
+- कृशाय (*kṛśāya*)—to the guest (a man or a beggar) who is lean through poverty and lack of food
+- ददाति (*dadāti*)—gives food
+- स इत् (*sa it*)—that man alone
+- भोजः (*bhojaḥ*)—is called a giver of food
+- यामहूत् (*yāmahūt*)—in the sacrifice
+- अस्मै (*asmai*)—for this giver of food, the fruit of performing the sacrifice
+- अरं (*araṃ*)—quickly
+- भवति (*bhavati*)—is obtained
+- उत (*uta*)—moreover
+- अपरीषु (*aparīṣu*)—even among enemy folk, that giver of food
+- सखायं (*sakhāyaṃ*)—a friend
+- कृणुतॆ (*kṛṇutè*)—makes for himself
+
+##### भावार्थ (Bhāvārtha)
+
+(In this Ṛk the giver of food is praised.) The man who gives food to a poor guest or beggar who has come to his house, lean for want of food and asking for it, is the true giver of food. In the sacrifice, such a giver of food quickly obtains the fruit of performing the sacrifice. In the case of this giver of food, even his enemies become friends. He has no enemies; all are his friends.
+
+##### English translation
+He is liberal who gives to the suppliant desiring food, wandering about distressed ; to him there is an ample (recompense), and he contracts friendship with his adversaries.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न स सखा॒ यो न ददा॑ति॒ सख्ये॑ सचा॒भुवे॒ सच॑मानाय पि॒त्वः ।  
+> अपा॑स्मा॒त्प्रेया॒न्न तदोको॑ अस्ति पृ॒णंत॑म॒न्यमर॑णं चिदिच्छेत् ॥ ४ ॥
+
+### Printed p. 558
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । सः । सखा । यः । न । ददाति । सख्ये । सचाऽभुवे । सचमानाय । पित्त्वः ।  
+> अप । आस्मात् । प्र । इयात् । न । तत् । ओकः । अस्ति । पृणंतं । अन्यं । अरणं । चित् ।  
+> इच्छेत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> व्यतिरेकेण निंदामाह । स पुरुषः सखा न भवति यः पुरुषः सचाभुवे
+> सर्वदा सहभवनशीलाय सचमानाय सेवमानायोपसर्जनीभूताय सख्ये
+> सखिजनाय पित्वः पितूनन्नानि न ददाति न प्रयच्छति । स सुहृन्न भवतीत्यर्थः । अस्माददातुः सख्युः सोऽप प्रेयात् । अपगच्छेत् । यद्येनं परित्यज्य गच्छेत् ॥ इण्
+> गतौ । लिजि यासुट् ॥ तर्हि तदोको निवासः सदनं नास्ति । न भवति । सदनं हि
+> बंधुभिः परिवृतं । स गतः पुरुषः पृणंतमन्नादिकं प्रयच्छंतमन्यमरणं चिदर्थं
+> स्वामिनमेवेच्छेत् । कामयेत ॥
+
+##### Gist of the bhāṣya
+
+He states the censure by the negative way. That man is no friend who does not give food (पित्वः (*pitvaḥ*), foods) to a friend (सख्ये (*sakhye*)) who is सचाभुवे (*sacābhuve*), always accompanying him, सचमानाय (*sacamānāya*), serving him, subordinate to him. He is no true friend. From this non-giving friend one should go away (अप प्रेयात् (*apa preyāt*)), if one leaves him and goes (root इण् (*iṇ*) in the sense of going; यासुट् (*yāsuṭ*) in the optative). Then तदोकः (*tadokaḥ*), that dwelling, is not a dwelling: a dwelling is one surrounded by kinsmen. The one who has gone should seek (इच्छेत् (*icchet*), should desire) another master, अरणं चित् (*araṇaṃ cit*), who gives food and the like (पृणंतं (*pṛṇaṃtaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which man
+- सचाभुवे (*sacābhuve*)—who is always with him
+- सचमानाय (*sacamānāya*)—who follows him, or is his well-wisher
+- सख्यॆ (*sakhyè*)—to his friend
+- पित्वः (*pitvaḥ*)—food
+- न ददाति (*na dadāti*)—does not give
+- सः (*saḥ*)—that man
+- न सखा (*na sakhā*)—is no friend at all
+- अस्मात् (*asmāt*)—from such a man who gives no food (one who merely pretends to be a friend in name)
+- अप प्रेयात् (*apa preyāt*)—one must go far away
+- तदोकः (*tadokaḥ*)—the house of such a man
+- न अस्ति (*na asti*)—does not count as a house (therefore the one who begs for food)
+- पृणंतं (*pṛṇaṃtaṃ*)—who gives food and the like
+- अन्यं अरणं (*anyaṃ araṇaṃ*)—another master
+- इच्छेत् (*icchet*)—must go and seek
+
+##### भावार्थ (Bhāvārtha)
+
+The man who does not give food to a friend who is always with him, follows him and wishes only his good, is not a true friend at all. One who needs food should leave such a man and go to another man who gives food.
+
+### Printed p. 559
+
+##### English translation
+He is not a friend who gives not food to a friend, to an associate, to
+a companion ; let him turn away from him, that is not a (fitting) dwelling;
+let him seek another more liberal lord.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the censure of the man who gives no food, and the duty and qualities of a friend, are described. A friend is one who wishes one's good. For the word सखायः (*sakhāyaḥ*), which means friends, Yāska gives the etymology सहमदनं समानख्यानाः (*sahamadanaṃ samānakhyānāḥ*) (Ni. 7-30). That is: friends are those who rejoice together, the joy of one being the joy of the other, who are mutually glad; and समानख्यानाः (*samānakhyānāḥ*) means those who speak in one way — those whose views agree with one another in the same manner are called friends. In worldly usage too the marks of friends are stated thus:
+ददाति प्रतिगृह्णाति गुह्यमाख्याति पृच्छति । भुंक्ते च भोजयत्येव षड्विधं मित्रलक्षणं ॥ (*dadāti pratigṛhṇāti guhyamākhyāti pṛcchati | bhuṃkte ca bhojayatyeva ṣaḍvidhaṃ mitralakṣaṇaṃ ‖*)
+Where there are two friends, giving to one another, accepting what is given, telling and asking one another secrets (matters kept hidden), eating in one another's house, and one who has eaten making the other eat as well — these six are said to be the marks of friends. Taking the matter of food in the present context, mutual eating and feeding are said to be a mark of friendship. Without dealings in food there is no friendship. That is, if a man, for some reason, is without food and tormented by hunger, and his friend, though he has food, does not give it to him, that friendship is not true friendship; it is feigned and self-interested. However much friends may differ in opinion in other matters, when one is hungry without food, the one who is called his friend must help. This is the true duty of friendship. Therefore the seer describes that one should leave the man who gives no food to a friend in time of trouble, who merely pretends to be a friend, who is a miser, and take refuge in another man who is worthy, a giver of food, and a helper in time of trouble.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पृ॒णी॒यादिन्ना ध॑मानाय॒ तव्या॒न्द्राघी॑यांस॒मनु॑ पश्येत॒  ॑
+> पंथां ।
+
 ---
 
-**Progress note:** Done through printed p. 553. pp. 548-553 (batch API)
+**Progress note:** Done through printed p. 559. pp. 554-559 (batch API)
