@@ -33501,6 +33501,190 @@ O hero Indra, hear the call (हवं (*havaṃ*)) of me, Pṛthu the seer (प
 
 O valiant Indra, hear the call of me, named Pṛthu. The one who praises your abode filled with water, or who, having come to the sacrificial house full of oblations such as ghee, praises you there—of me, the son of Vena, with whose mantras you are praised.
 
+### Printed p. 995
+…he is praised by the mantras of me, the son of Vena, who praise your dwelling-place filled with water, or who go to the sacrificial house filled with oblations such as ghee and praise you there. Other praisers also approach you quickly with praises, like swiftly flowing water on a sloping, low-lying ground.
+
+##### English translation
+Hear, hero Indra, the invocation of Prithu; you are glorified by the praises of the son of Vena, who celebrated your hall of sacrifice, full of ghi; your praisers rush to you like a torrent through precipitous banks.
+
+## Sūkta 149 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता यंत्रैरिति पंचर्चमेकविंशं सूक्तं हिरण्यस्तूपपुत्रस्यार्चत आर्षं
+> त्रैष्टुभं सवितृदेवत्यं । अनुक्रांतं च । सवितार्चन्हैरण्यस्तूपः सावित्रमिति । गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta सविता यंत्रैः (*savitā yaṃtraiḥ*) has five Ṛks and is the twenty-first sūkta. Its seer is Arcan, son of Hiraṇyastūpa; the deity is Savitṛ; the metre is Triṣṭubh. He cites the Anukramaṇī: सवितार्चन्हैरण्यस्तूपः सावित्रमिति (*savitārcanhairaṇyastūpaḥ sāvitramiti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta, सविता यंत्रैः (*savitā yaṃtraiḥ*), is the twenty-first sūkta in the eleventh anuvāka. It has five Ṛks. Its seer is Arcan, son of the sage Hiraṇyastūpa; the deity is Savitṛ; the metre is Triṣṭubh. The Anukramaṇī says: सवितार्चन् हैरण्यस्तूपः सावित्रं (*savitārcan hairaṇyastūpaḥ sāvitraṃ*). The viniyoga was stated earlier.
+
+Sūkta 149; Maṇḍala 10; Anuvāka 11; Aṣṭaka 8, Adhyāya 8, Varga 7. Number of Ṛks in the sūkta: 5. Seer: Arcan Hairaṇyastūpa. Deity: Savitā. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒वि॒ता यं॒त्रैः पृ॑थि॒वीम॑रण्णादस्कंभ॒ने स॑वि॒ता द्याम॑दृंहत् ।  
+> अश्व॑मिवाधुक्ष॒द्दु नि॑मं॒तरि॑क्षम॒तूर्ते॑ ब॒द्धं स॑वि॒ता स॑मु॒द्रं॥१॥
+
+### Printed p. 996
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सविता । यंत्रैः । पृथिवीं । अरम्यात् । अस्कंभने । सविता । द्यां । अदृंहन् ।  
+> अश्वं इव । अधुक्षत् । धुनिं । अंतरिक्षं । अतूर्ते । बद्धं । सविता । समुद्रं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता सर्वस्य प्रसविता प्रेरको मध्यमस्थानो देवः सोऽयं यंत्रैर्यमनसाधनैर्वृष्टिप्रदानादिभिरुपाय्कॆ र्वायवीय्यैः पाशैर्वा पृथिवीं प्रथितां
+> भूमिमरम्मात् । अरमयत् । सुखेनावस्थापयति । तथा स एव सवितास्कंभने ।
+> पतनप्रतिबंधकमालंबनं स्कंभनं । तद्रहिते स्थले द्यां द्युलोकमप्यदृंहत् ।
+> दृढीकृतवान् । यथाधो न पतति तथात्मीयैरेवोपाय्कॆ रवस्थापितवानित्यर्थः ।
+> अश्वमिव धुनिं कंपयितव्यं कंपयितारं वांतरिक्षमंतरा क्षांतं मध्यमस्थानगतमतूर्ते केनाप्यहिंसितेऽत्वरमाणे ना नभसि वायवीय्यैः पाशैर्बद्धं समुद्रं
+> मेघमयमेव सविताधुक्षत् । उदकानि दोग्धि । यद्वा । अंतरिक्षमिति सप्तम्यर्थे
+> प्रथमा । अतूर्तेऽंतरिक्षे बद्धं समुदितारं धुनिं कंपनीयं मेघमश्वमिनाधुक्षत् । सविता क्लेशयति ॥ धुक्ष संदीपनक्लेशनजीवनेषु ॥ यथा शिक्षकोऽश्वं क्लेशयत्येवं वर्षणाय मेघं क्लेशयतीत्यर्थः । अथ निरुक्तं । सविता यंत्रैः पृथिवीमरमयदनारंभणेऽंतरिक्षे सविता द्यामद्यंहदश्वमिनाधुक्षद्दु निमंतरिक्षे मेघं
+> बद्धमतूर्ते बद्धमतूर्ण इति वात्वरमाण इति वा सविता समुदितारं । नि. १०-३२ ।
+> इति !!
+
+##### Gist of the bhāṣya
+
+Savitṛ, the impeller of all, the god of the middle region, has established the broad earth comfortably by his means of restraint (यंत्रैः (*yaṃtraiḥ*)), namely the bestowal of rain and the like, or the bonds that belong to the winds. In the same way he made the heaven firm in a place without support (अस्कंभने (*askaṃbhane*), where there is no prop to prevent falling), so that it does not fall downward; he set it up by his own means. Like a horse, he milked (अधुक्षत् (*adhukṣat*)) the shaking cloud (धुनिं (*dhuniṃ*)), bound by the winds' bonds in the unobstructed sky and unhurrying, the cloud called समुद्रं (*samudraṃ*), that is, he draws out its waters. Alternatively, अंतरिक्षं (*aṃtarikṣaṃ*) is nominative in the sense of the locative: he milked the trembling cloud bound in the unobstructed firmament as a trainer troubles a horse; that is, he troubles the cloud to make it rain. (The root धुक्ष (*dhukṣa*) is taken in the senses of kindling, troubling, living.) He then quotes the Nirukta, सविता यंत्रैः पृथिवीमरमयत् (*savitā yaṃtraiḥ pṛthivīmaramayat*) and the rest, with the glosses of अतूर्ते (*atūrte*) as bound, "unhurried" or "hurrying" (Ni. 10-32).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—this god Savitṛ, who produces all things or impels all, a god of the middle region
+- यंत्रैः (*yaṃtraiḥ*)—by means such as the bestowal of rain, or by the bonds called winds
+- पृथिवीं (*pṛthivīṃ*)—this broad earth
+- अरम्यात् (*aramyāt*)—has firmly established
+- सविता (*savitā*)—that same Savitṛ
+- अस्कंभने (*askaṃbhane*)—in the supportless firmament
+- *dhyāṃ*—the world of Dyu (heaven)
+- अदृंहत् (*adṛṃhat*)—has made firm so that it does not fall down
+- धुनिं (*dhuniṃ*)—trembling
+- अश्वमिव (*aśvamiva*)—like a horse
+- अतूर्ते (*atūrte*)—unobstructed
+- अंतरिक्षं (*aṃtarikṣaṃ*)—in the firmament
+- बद्धं (*baddhaṃ*)—bound by the rope that is the wind
+- समुद्रं (*samudraṃ*)—the cloud (from the cloud)
+- सविता (*savitā*)—this god Savitṛ
+- अधुक्षत् (*adhukṣat*)—milked out the waters (as one milks)
+
+### Printed p. 997
+
+##### भावार्थ (Bhāvārtha)
+
+This god Savitṛ, who impels or produces all beings, has bound this broad earth firmly with the bonds called winds (or with means such as the bestowal of rain) and established it so that it does not shake. In the firmament, which has no support at all, he has made the world of heaven stand so that it does not fall. From the cloud, which stands in the unobstructed sky, bound by the rope of the wind, without any support, like a trembling horse, this god Savitṛ milks the rain-water so that it falls on the earth.
+
+##### English translation
+Savitri has fixed the earth with fetters; Savitri has made the heaven firm in a place where there was no support; Savitri has milked the cloud of the firmament bound to the indestructible (ether) like a trembling horse.
+
+##### विशेषविषयगळु (Special Topics)
+
+Giving the derivation of the word Savitṛ, Yāska has given an explanation of this Ṛk: सविता । सविता सर्वस्य प्रसविता ॥ (*savitā | savitā sarvasya prasavitā ‖*) (Ni. 10-31). Savitā means the god who produces everything, or who is the cause of the production of all beings.
+तस्यैषा भवति ॥ सविता यंत्रैः पृथिवीमरमयदनारंभणेऽन्तरीक्षे सविता द्यामदृंहदश्वमिनादुक्षद्दुनिमंतरिक्षे मेघं बद्धमतूर्ते बद्धमत्तूर्ण इति वात्वरमाण इति ना सविता समुदितारमिति ॥ (*tasyaiṣā bhavati ‖ savitā yaṃtraiḥ pṛthivīmaramayadanāraṃbhaṇe 'ntarīkṣe savitā dyāmadṛṃhadaśvaminādukṣaddunimaṃtarikṣe meghaṃ baddhamatūrte baddhamattūrṇa iti vātvaramāṇa iti nā savitā samuditāramiti ‖*) (Ni. 10-32)
+The present Ṛk सविता यंत्रैः (*savitā yaṃtraiḥ*) praises this deity Savitṛ. Here the word यंत्र (*yaṃtra*) is formed from the root यम् (*yam*), which means to regulate, to keep under control. यंत्र (*yaṃtra*) means regulation, control, subjection.
+सविता यंत्रैः पृथिवीं अरम्णात्-सविता यंत्रैः पृथिवीमरमयत् । (*savitā yaṃtraiḥ pṛthivīṃ aramṇāt-savitā yaṃtraiḥ pṛthivīmaramayat |*) This deity Savitṛ keeps this earth under his control by certain means and has established it firmly. What are the means? The bestowal of rain, illumination and so on. Without light and rain the beings on earth cannot live. Since the work of rain is subject to the rays of the sun, the earth, which depends on rain, also came under Savitṛ's control. That Savitṛ himself has made such an earth stand unshaking, that is, steady.
+
+### Printed p. 998
+अनारंभणेऽन्तरिक्षे सविताद्यामद्यंहत् (*anāraṃbhaṇe 'ntarikṣe savitādyāmadyaṃhat*)—This Savitṛ established the world of heaven firmly in the sky, which has no support. Nothing can be placed in the sky: if a blade of grass is thrown into the sky it does not stay there but falls at once. That being so, this Savitṛ has established so great a heaven firmly in the sky, without any support, so that it does not fall.
+अश्वमिवाधुक्षद्दुनिमंतरिक्षे मेघं बद्धमतूर्ते बद्धमतूर्ण इति वात्वरमाण इति ना सविता समुदितारमिति (*aśvamivādhukṣaddunimaṃtarikṣe meghaṃ baddhamatūrte baddhamatūrṇa iti vātvaramāṇa iti nā savitā samuditāramiti*)—आतूर्ते (*ātūrte*) means unharmed, in an unobstructed place. In the sky anything may move without obstruction; nothing there stops it. When an animal moves on earth, mountains, trees, rivers and the like met across its path can block its going; but when birds and the like move in the sky, nothing there blocks them. Therefore आतूर्ते (*ātūrte*) means unharmed, unobstructed, without hindrance. In such a sky Savitṛ milks, in the form of rain, the water in the clouds bound by the wind. An illustration is given here: अश्वमिव (*aśvamiva*), like a horse. A horse makes the dust on its body fall down by shaking (shaking its body). In the same way Savitṛ makes the waters in the clouds fall on the earth as raindrops; this is the intention.
+कमन्यं मध्यमादेवमवक्ष्यत् । आदित्योऽपि सवितोच्यते । तथा च हैरण्यस्तूपे स्तुतोर्चन् हिरण्यस्तूपऋषिरिदं सूक्तं प्रोवाच ॥ (*kamanyaṃ madhyamādevamavakṣyat | ādityo 'pi savitocyate | tathā ca hairaṇyastūpe stutorcan hiraṇyastūpaṛṣiridaṃ sūktaṃ provāca ‖*) (Ni. 10-32)
+Whom else but this Savitṛ, a deity of the middle region, could the seer have praised in this sūkta? The Āditya too is called Savitṛ. The seer Hiraṇyastūpa, praising the god Savitṛ, said just what is in this sūkta. The matter is touched upon in the next Ṛk (the 5th Ṛk of this sūkta).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रा॑ समु॒द्रः स्क॑भि॒तो व्यौन॒दपां॑ नपात्सवि॒ता तस्य॑ वेद ।  
+> अतो॒ भारत॑ आ॒ उत्थि॑तं॒ रजोऽतो॒ द्यावा॑पृथि॒वी अ॑प्रथेतां॥
+
+### Printed p. 999
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । समुद्रः । स्कभितः । वि । औनत् । अपां । नपात् । सविता । तस्य । वेद ।  
+> अतः । भूः । अतः । आः । उत्तितं । रजः । अतः । द्यावापृथिवी इति । अप्रथेतां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्नंतरिक्षे समुद्रः समुंदनशीलो मेघः स्कभितः स्तंभितो
+> वायुपाशैर्बद्धः सन् व्यौनत् विशेषेण भूमिमुनत्ति उदकैः क्लेदयति ॥ उंदी
+> क्वेदने । अस्माच्छांदसे लज् रूपमेतत् ॥ हे अपां नपान्मध्यमस्थान वैद्युताग्ने
+> तव संबंधी सविता प्रेरको देवस्तस्य तत्स्थानं वेद । वेत्ति । जानाति । अतोऽस्मादेव
+> सवितुर्भूर्भूमिरासीत् । आत एवोत्तितमूर्ध्वमेव स्थितं रजोऽंतरिक्षमाः ।
+> आसीत् । अजायत ॥ अस्त्रेLर्लुजि बहुलं छंदसीतीडभावः । हल् ज्याब्ब इति लोपः ॥
+> अतोऽस्मादेव सवितुर्द्व्यानापृथिवी द्यावापृथिव्यावप्रथेतां । विस्तीर्णे अप्यभूतां॥
+
+##### Gist of the bhāṣya
+
+Where, in which firmament, the cloud called समुद्रः (*samudraḥ*) (that which wets), held fast and bound by the bonds of the wind, व्यौनत् (*vyaunat*), wets the earth specially with waters. (The root उंदी (*uṃdī*) is in the sense of wetting; this is a Vedic लज् (*laj*) form.) O अपां नपात् (*apāṃ napāt*), Vaidyuta Agni of the middle region, your related Savitṛ, the impelling god, knows (वेद (*veda*) = वेत्ति (*vetti*), जानाति (*jānāti*)) that place. From this same Savitṛ the earth came to be (भूः (*bhūḥ*)); from him too the raised, upward-standing रजः (*rajaḥ*), the firmament, was born (आः (*āḥ*) = आसीत् (*āsīt*), अजायत (*ajāyata*)). From him too heaven and earth became extended (अप्रथेतां (*aprathetāṃ*)), that is, became wide.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां नपात् (*apāṃ napāt*)—O Agni, god of the middle region, your relative
+- सविता (*savitā*)—Savitṛ, the impeller of all
+- यत्र (*yatra*)—in which firmament
+- समुद्रः (*samudraḥ*)—the cloud
+- स्कभितः (*skabhitaḥ*)—standing firm on the support of the wind
+- व्यौनत् (*vyaunat*)—wets (the earth with rain)
+- तस्य (*tasya*)—such a (firmament) place
+- वेद (*veda*)—can know
+- अतः (*ataḥ*)—from that Savitṛ
+- भूः (*bhūḥ*)—the earth came into being
+- अतः (*ataḥ*)—from this Savitṛ
+- उत्तितं (*uttitaṃ*)—lofty
+- रजः (*rajaḥ*)—the world of the firmament
+- आः (*āḥ*)—came about
+- अतः (*ataḥ*)—from this Savitṛ
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth (the worlds of heaven and earth)
+- अप्रथेतां (*aprathetāṃ*)—(having come into being) spread out widely
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, god of the middle region, your relative Savitṛ knows the nature of that firmament in which the cloud, held there by the help of the wind, wets the earth with rain. Savitṛ is also the cause of the origin of these widely spread heaven and earth.
+
+##### English translation
+Where the cloud thus arrested shed moisture (on the earth) Savitri, O grandson of the waters, knew that (place); from thence proceeded the
+
+### Printed p. 1000
+earth, thence arose the firmament, thence the heaven and earth were spread out.
+
+##### विशेषविषयगळु (Special Topics)
+
+How is Savitṛ related to the Agni of the middle region? As stated in आदित्योऽपि सवितोच्यते (*ādityo 'pi savitocyate*) (Ni. 10-32), this Savitṛ is Āditya. There is not much difference between Āditya and Savitṛ. The rising Āditya is called Savitṛ. Agni is known in three forms: on earth as Agni (terrestrial fire), in the firmament as Vaidyuta Agni (lightning), in heaven as Āditya. Therefore Āditya, or Savitṛ, is here said to be related to Agni. That the earth and the other worlds are said here to have originated from the sun accords with modern science.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒श्चेदम॒न्यद॑भव॒द्यज॑त्र॒मम॑र्त्यस्य॒ भुव॑नस्य भू॒ना ।  
+> सु॒प॒र्णो अं॒ग स॑वि॒तुर्ग॒रुत्मा॒न्पूर्वो॑ जा॒तः स उ॑ अ॒स्यानु॒  ॑
+> धर्म ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पश्चा । इदं । अन्यत् । अभवत् । यजत्रं । अमर्त्यस्य । भुवनस्य । भूना ।  
+> सुपर्णः । अंग । सवितुः । गुरुत्मान् । पूर्वः । जातः । सः । ऊं इति । अस्य । अनु।  
+> धर्म ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अन्यत्सवितृव्यतिरिक्तमिदं देवतांतरं पश्चा पश्चात् ॥ पश्च पश्चा च छंदसि ।
+> पा. ५-३-३३ । इति निपात्यते ॥ सवितृप्रेरणानंतरमेव यजत्रं यष्टव्यमभवत् । केन
+> साधनेन । अमर्त्यस्य मरणरहितस्य भुवनस्य लोकस्य स्वर्गाख्यस्य संबंधिना भूना
+> भूतेन स्वर्ग उत्पन्नेन सोमेनेत्यर्थः । यद्वा । अमर्त्यस्य भुवनस्य संबंधीदं
+> देवतांतरं भूना भूम्ना बहुत्वेन युक्तं यष्टव्यमभवत् । कुत इत्यत आह । हे
+> अंग स्तोतः सुपर्णः शोभनपतनो गरुत्मान्नोमस्यापहर्तार् ताक्ष्यः सवितुः प्रेर-
+
+##### Gist of the bhāṣya
+
+This other deity, different from Savitṛ, पश्चा (*paścā*) (afterwards; पश्च पश्चा च छंदसि (*paśca paścā ca chaṃdasi*), Pā. 5-3-33, is the sūtra for this formation), became worthy of worship only after Savitṛ's impulsion. By what means? By भूना (*bhūnā*), that is, by Soma, which has come to be and arisen in heaven, the world called heaven that belongs to the deathless world. Alternatively: this other deity, belonging to the deathless world, became worthy of worship endowed with भूना (*bhūnā*), that is, plenitude. Why? He answers: O अंग (*aṃga*), praiser, the सुपर्णः (*suparṇaḥ*), the beautifully flying गरुत्मान् (*garutmān*), Tārkṣya, the carrier-off of Soma, of Savitṛ the impeller….
+
 ---
 
-**Progress note:** Done through printed p. 994. pp. 989-994 (batch API)
+**Progress note:** Done through printed p. 1000. pp. 995-1000 (batch API)
