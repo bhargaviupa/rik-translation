@@ -11727,6 +11727,202 @@ O Pūṣan, god of that name, the nourisher, send, urge on from all sides her, t
 - शिवतमां तां (*śivatamāṃ tāṃ*)—her, who brings good fortune
 - एरयस्व (*erayasva*)—urge her to love us
 
+### Printed p. 425
+
+##### भावार्थ (Bhāvārtha)
+
+O god Pūṣan, urge her to love us: her in whom men establish the seed in the form of semen, who desires our union and receives us, and in whom we, wishing for sons, shall establish the seed that produces sons (the male organ).
+
+##### English translation
+Pushan, inspire her who is most aaspicious, in whom men may sow seed, who most affectionate may be devoted to us, and in whom animated by desire we may beget progeny.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the word शेषं (*śeṣaṃ*) in the sentence यस्यामुशंतः प्रहराम शेषं (*yasyāmuśaṃtaḥ praharāma śeṣaṃ*), which is the last pāda of this Ṛk, Yāska has stated the explanation in this way:
+
+शेपो वैतस इति पुंस्प्रजननस्य । शेषः शपतॆः स्मृशतिकर्मणः वैतसो वितस्तं भवति । यस्मामुशंतः प्रहराम शेषं । त्रिः स्म माह्नः श्नथयो वैतसेन इत्यपि निगमौ भवतः ॥ (*śepo vaitasa iti puṃsprajananasya | śeṣaḥ śapatèḥ smṛśatikarmaṇaḥ vaitaso vitastaṃ bhavati | yasmāmuśaṃtaḥ praharāma śeṣaṃ | triḥ sma māhnaḥ śnathayo vaitasena ityapi nigamau bhavataḥ ‖*) (Ni. 3-21) **NOTE**
+
+The two words शेपः (*śepaḥ*) and वैतसः (*vaitasaḥ*) both denote the organ of generation of the man, that is, the male member. The word शेपः (*śepaḥ*) is formed from the root meaning to touch, to feel; for with this organ the man touches the woman (the woman's yoni). वैतस (*vaitasa*) means the part of the male member that is like a rod (penis); for when there is no contact with a woman it is वितस्तं (*vitastaṃ*), that is, it lies in a dormant state without excitement. Therefore it is called वैतस (*vaitasa*). Yāska has given as examples two Śruti sentences in which these words are used.
+
+यस्यामुशंतः प्रहराम शेषं । (*yasyāmuśaṃtaḥ praharāma śeṣaṃ |*) (Ṛ. Saṃ. 10.85.37)
+
+This sentence stands in the last pāda of the present Ṛk. The chief meaning of this sentence is: O Pūṣan, urge to love us that woman we love, in whom (or in whose yoni) we place our male member.
+
+त्रिः स्म माह्नः श्नथयो वैतसेन (*triḥ sma māhnaḥ śnathayo vaitasena*) (Ṛ. Saṃ. 10-95-5)
+
+In this sentence Urvaśī, addressing Purūravas, speaks thus: O Purūravas, on three days you have beaten me (the region of my yoni) with the rod of your male member. This is the chief meaning of this sentence. वैतस (*vaitasa*) means the part of the male member that is like a rod.
+
+### Printed p. 426
+
+#### Ṛk 38
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्य॒मग्रे॒ पर्य॑वहन्सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
+> पुनः॒ पति॑भ्यो जा॒यां दा अ॑ग्ने प्र॒जया॑ स॒ह ॥ ३८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यं । अग्रे । परि । अवहन् । सूर्यां । वहतुना । सह ।  
+> पुनरिति । पतिभ्यः । जायां । दाः । अग्ने । प्रजया । सह ॥ ३८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गंधर्वा हे अग्ने तुभ्यमग्रे पर्यवहन् । प्रायच्छन्नित्यर्थः । कां ।
+> सूर्यां । केन सह । वहतुना सह। वहतुना सह । त्वं च तां सूर्यां वहतुना
+> सह सोमाय प्रायच्छः । तद्वदिदानीमपि हे अग्ने पुनः पतिभ्योऽस्मभ्यं जायां
+> प्रजया सह दाः । देहि ॥
+
+##### Gist of the bhāṣya
+
+The Gandharvas, O Agni, offered to you first, that is, gave. Whom? Sūryā. With what? With the वहतुना (*vahatunā*). And you gave that Sūryā with the वहतुना (*vahatunā*) to Soma **NOTE**. As then, so now also, O Agni, give back to us, the husbands, the wife together with offspring.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अग्रे (*agre*)—first
+- तुभ्यं (*tubhyaṃ*)—to you
+- सूर्यां (*sūryāṃ*)—Sūryā
+- वहतुना सह (*vahatunā saha*)—together with ornaments
+- पर्यवहन् (*paryavahan*)—the Gandharvas gave
+- पुनः (*punaḥ*)—now
+- पतिभ्यः (*patibhyaḥ*)—to us, who are men
+- जायां (*jāyāṃ*)—the wife
+- प्रजया सह (*prajayā saha*)—together with offspring
+- दाः (*dāḥ*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, first the Gandharvas gave Sūryā to you together with ornaments. Now give to us, who are of human form, a wife fit for offspring.
+
+##### English translation
+(The Gandharvas) gave Surya to you, Agni, with her bridal ornaments ; do you, Agni, give (us) husbands our wife back again with male offspring.
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुनः॒ पत्नि॑म॒ग्निर॑ददा॒दायु॑षा स॒ह वर्च॑सा ।
+
+### Printed p. 427
+
+> दीर्घायुरस्या यः पति जीवाति शरदः शतं ॥ ३९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनरिति । पत्नीं । अग्निः । अदात् । आयुषा । सह । वर्चसा ।  
+> दीर्घआयुः । अस्त्याः । यः । पतिः । जीवाति । शरदः । शतं ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनः स्वगृहीतां पत्निमग्निरायुषा सह वर्चसा सहादात् । प्रायच्छत् ।
+> अस्या अग्निदत्ताया यः पतिः पुमान् स दीर्घायुः सञ्वरदः शतं शतसंवत्सरं
+> जीवाति । जीवतु ॥
+
+##### Gist of the bhāṣya
+
+Agni gave back the wife whom he had taken, together with life and lustre. Of her, given by Agni, whoever is the husband, the man, let him live a hundred years, long-lived.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनः (*punaḥ*)—after obtaining the wife
+- पत्निं (*patniṃ*)—her
+- अग्निः (*agniḥ*)—Agni
+- आयुषा सह (*āyuṣā saha*)—together with long life
+- वर्चसा (*varcasā*)—and with lustre
+- अदात् (*adāt*)—gave (to the man)
+- अस्याः (*asyāḥ*)—of her
+- यः (*yaḥ*)—who
+- पतिः (*patiḥ*)—becomes the husband, he
+- दीर्घायुः (*dīrghāyuḥ*)—being long-lived
+- शरदः शतं (*śaradaḥ śataṃ*)—for a hundred years
+- जीवाति (*jīvāti*)—lives
+
+##### भावार्थ (Bhāvārtha)
+
+After obtaining the wife, Agni gave to the man the wife together with long life and lustre. He who becomes her husband, being long-lived, lives a hundred years (may he live).
+
+##### English translation
+Agni gave the wife back agaia with life and splendour : may he who is her husband enjoying long-life live a hundred years.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is said पुनः पत्नीं अग्निः अदात् (*punaḥ patnīṃ agniḥ adāt*): after the marriage Agni gave the wife again to the bridegroom. What is the propriety of the use of the word पुनः (*punaḥ*) here? It is this. As is said in the Ṛk
+
+सोमोददद्दंधर्वाय गंधर्वोऽददग्नये । रयिं च पुत्रांश्चादग्निर्मह्यमथो इमां ॥ (*somodadaddaṃdharvāya gaṃdharvo 'dadagnaye | rayiṃ ca putrāṃścādagnirmahyamatho imāṃ ‖*) (Ṛ. Saṃ. 10-55.41 **NOTE**)
+
+### Printed p. 428
+
+Soma gave the maiden who was in his power to the Gandharva. The Gandharva gave that bride to Agni. Afterwards Agni gave the maiden whom he had received again to the bridegroom, a man **NOTE**. Because the maiden is thus given from one to another, that is, because she is given more than once, पुनः (*punaḥ*) is said here.
+
+Besides, when Soma gives the maiden into the power of the Gandharva, and when the Gandharva gives her into the power of Agni, only the maiden (without any other things) is given from one to another. But Agni does not give back to the man the maiden who has come into his power in that same state. He gives her joined with long life and lustre. Therefore in the present Ṛk it is said आयुषा सह वर्चसा (*āyuṣā saha varcasā*). The words आयुषा (*āyuṣā*) and वर्चसा (*varcasā*) may apply both to the maiden and to her husband. But in the latter half of this Ṛk the matter of long life applies to the bridegroom only. In the sentence दीर्घायुरस्या यः पतिर्जिवाति शरदः शतं (*dīrghāyurasyā yaḥ patirjivāti śaradaḥ śataṃ*) there is the assurance that the bridegroom who is the husband of this bride, that is, of this bride who at the time of marriage has been consecrated with Agni first, may live a hundred years, and Agni delivers the bride into the power of the bridegroom together with long life. This very matter is set forth in the present Ṛk by the sentence पुनः पत्निमग्नि रदात् (*punaḥ patnimagni radāt*).
+
+For the words शरदः शतं (*śaradaḥ śataṃ*) in this Ṛk Yāska has stated the explanation शरच्छता अस्यानोषधयो भवंति । शीर्णा आप इति वा (*śaracchatā asyānoṣadhayo bhavaṃti | śīrṇā āpa iti vā*) (Ni. 4-25). In the autumn season, after the creepers, trees, herbs and plants, the whole vegetable kingdom, have dropped their fruits and the like, the leaves and the like also fall; or, because fruits ripen in this season, the season has the name śarat; or, in this season the water in rivers and other reservoirs becomes less. As there is no rain of the rainy season, the water of the reservoirs dries up and only a little water remains. Therefore this season has the name śarat. शरद्दि दुर्जिवा रोगभूयस्त्वात् : आत एवमाशास्त्रते शरच्छतं जीवत्विति । (*śaraddi durjivā rogabhūyastvāt : āta evamāśāstrate śaracchataṃ jīvatviti |*) In the autumn, because of the change of the atmosphere, many kinds of diseases and ailments befall men. Therefore it is hard to pass through this autumn season. If one autumn is passed, one can be happy for a year. And since the autumn comes only once in a year, it is the custom in the Vedas to use the word śarat to indicate the measure of a year. जीवाति शरदः शतं (*jīvāti śaradaḥ śataṃ*) means: he lives for a hundred years.
+
+For the words शरदः शतं (*śaradaḥ śataṃ*) in the sense 'a hundred years', many examples of sentences can be given, such as
+
+पश्येम शरदः शतं जीवेम शरदः शतं नंदाम शरदः शतं मोदाम शरदः शतं भवाम शरदः शतग्ं शृणवाम शरदः शतं प्रब्रवाम शरदः शतं अजीतास्स्याम शरदः शतं ॥ (*paśyema śaradaḥ śataṃ jīvema śaradaḥ śataṃ naṃdāma śaradaḥ śataṃ modāma śaradaḥ śataṃ bhavāma śaradaḥ śatagṃ śṛṇavāma śaradaḥ śataṃ prabravāma śaradaḥ śataṃ ajītāssyāma śaradaḥ śataṃ ‖*) (Tai. Ā. 4-41-6) **GLOSS**
+
+### Printed p. 429
+
+#### Ṛk 40
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमः॑ प्रथ॒मो वि॑विदे गंध॒र्वो वि॑विद॒ उत्त॑रः ।  
+> तृ॒तीयोः॑ अ॒ग्निष्टे॒ पति॑स्तु॒रीय॑स्ते मनुष्य॒जाः ॥ ४० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । प्रथमः । विविदे । गंधर्वः । विविदे । उत्तरः ।  
+> तृतीयः । अग्निः । ते । पतिः । तुरीयः । ते । मनुष्यजाः ॥ ४० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातां कन्यां सोमः प्रथमभावी सन् विविदे । लब्धवान् । गंधर्व
+> उत्तरः सन् विविदे । लब्धवान् । अग्निस्तृतीयः पतिस्ते तव । पश्चान्मनुष्यजाः
+> पतिस्तुरीयश्चतुर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma, being the first, obtained, won, the maiden once born. The Gandharva, being the next, obtained her. Agni is your third husband; afterwards the husband born of man is the fourth, the turīya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—the god Soma
+- प्रथमः (*prathamaḥ*)—first
+- विविदे (*vivide*)—obtained the maiden
+- उत्तरः (*uttaraḥ*)—afterwards
+- गंधर्वः (*gaṃdharvaḥ*)—the Gandharva
+- विविदे (*vivide*)—obtained (O maiden)
+- ते (*te*)—to you
+- अग्निः (*agniḥ*)—Agni
+- तृतीयः पतिः (*tṛtīyaḥ patiḥ*)—the third husband
+- ते (*te*)—to you (afterwards)
+- मनुष्यजाः (*manuṣyajāḥ*)—the husband born among men
+- तुरीयः (*turīyaḥ*)—the fourth
+
+##### भावार्थ (Bhāvārtha)
+
+O maiden, Soma obtained you first. Afterwards the Gandharva obtained you. Agni is your third husband. The husband who is a man is the fourth.
+
+##### English translation
+Soma first obtained the bride; the Gandharva obtained her next ; Agni was your third husband ; your fourth (husband) is born of man.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the sentence तृतीयो आगिष्टे पतिः (*tṛtīyo āgiṣṭe patiḥ*) in this Ṛk, Yāska has stated the Nirukta explanation.
+
+### Printed p. 430
+
+सेनेव सृष्टामं दधात्यस्तुर्न दिद्युत्वेषप्रतीका । यनो ह जातो यमो जनित्वं जारः कनीनां पतिर्जनीनां ॥ (*seneva sṛṣṭāmaṃ dadhātyasturna didyutveṣapratīkā | yano ha jāto yamo janitvaṃ jāraḥ kanīnāṃ patirjanīnāṃ ‖*) (Ṛ. Saṃ. 1-66-4) **GLOSS**
+
+When giving the Nirukta explanation of this Ṛk, he explains the relation between Agni and the maiden. There, for the sentence जारः कनीनां पतिर्जनीनां (*jāraḥ kanīnāṃ patirjanīnāṃ*) he has said जारः कनीनां जरयिता कन्यानां पतिर्जनीनां पालयिता जायानां । तत्पधाना हि यज्ञसंयोगेन भवंति ॥ (*jāraḥ kanīnāṃ jarayitā kanyānāṃ patirjanīnāṃ pālayitā jāyānāṃ | tatpadhānā hi yajñasaṃyogena bhavaṃti ‖*) Agni is the beloved of maidens and the one who changes their condition, that is, who brings them from the state of maidenhood to the state of a mature woman. How? Before marriage the maiden is ordinarily in childhood. After marriage, by the rites in the presence of Agni (homa and the like), she is regarded as a mature woman and as fit for the enjoyment of her husband. Since in this way she passes from one state to another, the age of the maiden is passed over; the age of maturity is greater than the age of maidenhood. That Agni is the cause of this passing over of age is described by जरयिता कन्यानां (*jarayitā kanyānāṃ*): one who makes the age of the maiden wear out, that is, pass away. Besides, for the words पतिर्जनीनां (*patirjanīnāṃ*) he has said पालयिता जायानां (*pālayitā jāyānāṃ*), the protector of wives. What is meant by Agni being the protector of wives? After marriage the wife, together with her husband, has to perform in the fire the aupāsana and other rites, vows and the like, and the attendance on the fire. The author of the Nirukta has made this clear by the explanation
+
+तं वश्चराथा चरंत्या पश्वाहुत्या वसत्या च निवसंत्यौषधाहुत्यास्तं यथा गाव आप्नुवंति तथाप्यनुयामेद्धं समिद्धं भोगैः ॥ (*taṃ vaścarāthā caraṃtyā paśvāhutyā vasatyā ca nivasaṃtyauṣadhāhutyāstaṃ yathā gāva āpnuvaṃti tathāpyanuyāmeddhaṃ samiddhaṃ bhogaiḥ ‖*) (Ni. 10-21)
+
+That is: in order to perform the acts of attendance, such as offering moving things such as animals into the fire (sacrificial rites and the like) and offering with kindling sticks and the like of the unmoving herbs and trees, one should approach the blazing fire, as cows approach their house (the cowshed), and serve it with ghee and other substances that are means of enjoyment. By such attendance on the fire, Agni, pleased, becomes the giver of enjoyment and the like to the wife and also to the husband. Because there is such a relation, that is, because he is the bestower of favour, Agni is called the protector of the wife. That such an Agni, O bride, is your husband, that is, your protector, is the chief meaning of the sentence तृतीयो अग्निष्टे पतिः (*tṛtīyo agniṣṭe patiḥ*) in the third pāda of the present Ṛk.
+
 ---
 
-**Progress note:** Done through printed p. 424. Vol 29 pp. 419-424, Ṛk 32 end to Ṛk 37 (Maṇḍala 10 Sūkta 85)
+**Progress note:** Done through printed p. 430. Vol 29 pp. 425-430, Ṛk 37 end to Ṛk 40 (Maṇḍala 10 Sūkta 85)
