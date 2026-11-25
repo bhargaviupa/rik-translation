@@ -18,9 +18,17 @@ Translated by `api_front.py 27 2 72 preface` ($0.035, checks PASS, 0 NOTE), inst
 ## Plan and batch
 Full plan: 163 windows, 991 pages, 3,698,515 input tokens (estimate $3.70 + output $9.25–22.19). The user has about $8 of API budget (Nov 25 2026), so the batch is cut to the FIRST 120 windows (pp. 1–about 732, 2,739,105 input tokens; expected real cost $6.7–7.1 from Vols 23 and 30: $2.4–2.6 per million input tokens). The remaining 43 windows (about pp. 733–992, about $2.4) wait for more budget: `api_batch.py plan 27 --windows 60` continues after the last committed page.
 
-## Batch
-Submitted Nov 25 2026 (user: go ahead, about $8 budget): ONE batch of 120 windows (pp. 1–733), id msgbatch_01EVr5raKLLpp8KBdApuFYD2 in `vol27/work/api_batch.json`. Next: `status 27`, dry-run sweep, `collect 27`.
+## Status
+Done through printed p. 733 (windows 1–120 of 163; one API batch of 120 windows submitted and collected Nov 25 2026; `batch.py audit 27` passes; `check_labels.py 27`: 1412 English blocks, 1412 Kannada, 0 not matched; `rkheads 27 --dry-run`: nothing to change). Sūktas present in order: Maṇḍala 9 Sūktas 101–114 and Maṇḍala 10 Sūktas 1–27 (41 headings). Preface translated and installed. **Real cost $6.95 for the batch + $0.035 preface = $6.99 of the user's $8** (estimate 2.74M input tokens: $2.5 per million). 304 `**NOTE**` marks, 383 rows in `review/notes.tsv`.
+
+## Repairs (in `review/repair_log.md`)
+10 windows stopped or failed after the commit: page mark of p. 148 (garbled head), a page heading glued into another heading (w0326), remarks (w0338, w0593), a wrongly numbered quoted verse (w0363), a glued word-list entry (w0393), garbled Pada labels (w0495, w0644), an inline quotation off from kn.md (w0611), a chapter-level `## Special Topics` heading (w0320), a second line of a Saṃhitā with its own headings (w0399).
+
+## Not done: the last 43 windows (printed pp. 734–992, Maṇḍala 10 Sūktas 27–40 and the colophon)
+They need about $2.4 more (the plan above: 163 windows). When the user has the budget: `python3 tools/rv/api_batch.py plan 27 --windows 50` (free), show the estimate, `submit 27`, then the dry-run sweep and `collect 27`. The supplied text is complete (the colophon stands on p. 992).
 
 ## Open items
-1. (user) API budget for the last 43 windows (about $2.5).
-2. (dispatcher) `collect 27`, repair stops, then the rest, then the finishing checklist.
+1. (user) about $2.5 of API budget for the last 43 windows.
+2. (user) 383 `**NOTE**` questions in `review/notes.tsv`; 36 `fix-certain` word-meaning rows left and the `near`/`absent` rows (`review/pratipada_check_source.tsv`).
+3. 17 printed numbers have no page of their own (see above).
+4. After the last page: finishing checklist (HANDBOOK §11).
