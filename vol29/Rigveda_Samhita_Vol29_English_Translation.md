@@ -3211,6 +3211,327 @@ May the renowned stones bring us the effused (juice) of the Soma, (may they esta
 
 The stones, endowed with speed, press Soma. The stones milk out completely the juice of this Soma, wishing, as they are, for the praise-speech. May they milk the juice belonging to Soma, for what purpose? For the sprinkling of the fire; कं (*kaṃ*) is a filler. The leading priests, the pressers and officiants, after the sprinkling purify the oblations with their mouths, cleanse them, making them pure by eating the remainder. Or else: in the fire, before the Hotṛ's ten-fold strainer, they purify with praises marked by the mouth. **NOTE**
 
+### Printed p. 129
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथिरासः (*rathirāsaḥ*)—swift-moving
+- ते अद्रयः (*te adrayaḥ*)—those stones
+- सोमं (*somaṃ*)—Soma
+- सुन्वंति (*sunvaṃti*)—they press
+- अस्य (*asya*)—of this Soma
+- रसं (*rasaṃ*)—the juice
+- निः दुहंति (*niḥ duhaṃti*)—they milk completely
+- गविषः (*gaviṣaḥ*)—desiring praises
+- उपसेचनाय (*upasecanāya*)—for sprinkling on the fire
+- ऊधः (*ūdhaḥ*)—the juice
+- दुहंति (*duhaṃti*)—they milk
+- नरः (*naraḥ*)—the priests
+- हव्या न (*havyā na*)—the oblations
+- आसभिः (*āsabhiḥ*)—with their mouths
+- मर्जयंते (*marjayaṃte*)—they purify
+
+##### भावार्थ (Bhāvārtha)
+
+The swift-moving stones press the Soma. They milk out completely the juice of this Soma. Desiring praises, they milk out the juice for sprinkling on the fire. The priests purify the oblations with their mouths (by the recitation of hymns).
+
+##### English translation
+The swiftly-moving grinding-stones effuse the Soma; desiring praise, they milk forth its juice; they milk forth the juice for the sprinkling (of Agni); the leaders (of rites) purify the oblations with their mouths.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते न॑रः॒ स्वप॑सो अभूतन॒ य इंद्रा॑य सुनु॒थ सोम॑मद्रयः ।  
+> वा॒मुंवा॑मं वो दि॒व्याय॒ धाम्ने॒ हसु॑वसु वः॒ पार्थि॑वाय  ॒
+> सुन्वते ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । नरः । सुअपसः । अभूतन । ये । इंद्राय । सुनुथ । सोमं । अद्रयः ।  
+> वामंवामु । वः । दिव्याय । धान्ने । वसुवसु । वः । पार्थिवाय । सुन्वते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरो नेतारो हे अद्रयः एते यूयं स्वपसोऽभूतन । शोभनाभिसवकर्माणो भवत । ये यूयमिंद्राय सोमं सुनुथ वो यूयं
+> xxix 9
+> xxix 9
+
+##### Gist of the bhāṣya
+
+O leaders, O stones, be you those who do the pressing well, you who press Soma for Indra. Whatever
+
+### Printed p. 130
+
+> वामंवामं यद्यद्वननीयं धनमस्ति तत्तद्दिव्याय धान्ने तेजसे कुरुत । तथा
+> वसुवसु यद्यद्वासयोग्यं धनमस्ति तद्वो यूयं पार्थिनाय सुन्वते
+> यजमानाय कुरुत !!
+
+##### Gist of the bhāṣya
+
+desirable wealth there is, make that for divine splendour; and likewise whatever wealth is fit for dwelling, make that for the earthly sacrificer who presses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—leaders of the rite
+- अद्रयः (*adrayaḥ*)—O stones
+- एते (*ete*)—you
+- स्वपसः अभूतन (*svapasaḥ abhūtana*)—you are those who do excellent work
+- ये (*ye*)—you who
+- इंद्राय (*iṃdrāya*)—for Indra
+- सोमं (*somaṃ*)—Soma
+- सुनुथ (*sunutha*)—you milk, such
+- वः (*vaḥ*)—you
+- वामंवामं (*vāmaṃvāmaṃ*)—very attractive wealth
+- दिव्याय (*divyāya*)—of the world of the gods
+- धान्ने (*dhānne*)—for splendour make it arise
+- वः (*vaḥ*)—you
+- पार्थिवाय (*pārthivāya*)—born on the earth
+- सुन्वते (*sunvate*)—to the sacrificer who presses Soma
+- वसुवसु (*vasuvasu*)—give all wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, leaders of the rite, you are excellent leaders of the rite. You who milk Soma for Indra, make very attractive wealth arise for the splendour of the world of the gods. Give all wealth to the sacrificer who presses Soma on the earth.
+
+##### English translation
+You stones, leaders (of rites), you are the doers of good work; you who express the Soma for Indra, (make) all desirable wealth for the glory of heaven; you (give) all treasures to the earthly effuser.
+
+## Sūkta 77 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्रपुष इत्यष्टर्चं नवमं सूक्तं भृगुगोत्रस्य स्यूमरश्मेरार्षं
+> मरुद्देवताकं । पंचमी जगती शिष्टाः सप्त त्रिष्टुभः । तथा चानुक्रांतं । अभ्रपुषः
+> स्युमरश्मिर्भार्गवो मारुतं तु पंचमी जगतीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, beginning अभ्रपुष (*abhrapuṣa*), has eight Ṛks. Its seer is Syūmaraśmi of the Bhṛgu lineage; its deity is the Maruts. The fifth Ṛk is in Jagatī, the remaining seven are in Triṣṭubh. So the Anukramaṇī records: the sūkta अभ्रपुषः (*abhrapuṣaḥ*), Syūmaraśmi Bhārgava, addressed to the Maruts, the fifth Ṛk being Jagatī. The ritual application has already been given.
+
+##### Anuvāda
+
+This sūkta beginning अभ्रपुषः (*abhrapuṣaḥ*) is the ninth sūkta in the sixth anuvāka. It has eight Ṛks. Its seer is Syūmaraśmi of the Bhṛgu lineage; the Maruts are the deity; the fifth Ṛk of this sūkta is in the Jagatī metre; the remaining seven Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said अभ्रपुषः स्यूमरश्मिर्भार्गवो मारुतं तु पंचमी जगती (*abhrapuṣaḥ syūmaraśmirbhārgavo mārutaṃ tu paṃcamī jagatī*). The ritual application has been stated earlier.
+
+### Printed p. 131
+
+Maṇḍala 10; Anuvāka 6; Sūkta 77. Aṣṭaka 8; Adhyāya 3; Varga 10, 11. Number of Ṛks in the sūkta: 8. Seer: स्युमरश्मिर्भार्गवः (*syumaraśmirbhārgavaḥ*). Deity: मरुतः (*marutaḥ*). Metre: Ṛks 1-4 and 6 onward Triṣṭubh; Ṛk 5 Jagatī. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्र॒पुषो॒ न वा॒चा पु॑षा॒ वसु॑ ह॒विष्मं॑तो॒ न य॒ज्ञा  ॒॑॑
+> वि॑जा॒नुषः॑ ।  
+> सु॒मारु॑तं॒ न ब्र॒ह्माण॑म॒र्हसे॑ ग॒णम॑स्तोष्येषां॒ न शो॒भसे॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभ्रपुषः । न । वाचा । पुषः । वसु । हविष्मंतः । न । यज्ञाः । विजानुषः ।  
+> सुमारुतं । न । ब्रह्माणं । अर्हसे । गणं । अस्तोषि । एषां । न । शोभसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभ्रपुषो न मेघान्निर्गच्छंत उदकबिंदव इव वाचा स्तुत्या प्रीता
+> मरुतो वसु धनं पुष । सिंचंति ॥ व्यत्ययेन बहुवचनं ॥ किंच हविष्मंतो न
+> यॆज्ञा हविर्भियुक्ता यागा इव विजानुषो जगतो विजनयितारो भवंति । अथ
+> समुदायेनाह । तेषामेषां सुमारुतं शोभमानानां मरुतां ब्रह्माणं
+> महांतं गणमर्हसे पूजार्थं नास्तोषि । नास्तोषं । न स्तुतवानस्मितः पूर्वं ।
+> तथा शोभसे शोभार्थमपि मारुतं गणं नास्तौषि । अत इदानीं नूतनेन
+> स्तोत्रेण सौमात्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, pleased with praise, shower wealth like drops of water coming out of the clouds (the plural verb is used by a change of number). Further, like sacrifices endowed with oblations, they become the generators of the world. Then he speaks of the whole company: I did not formerly praise the great band of these shining Maruts for worship, nor, likewise, did I praise the band of the Maruts for glory; therefore now with a new hymn. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाचा (*vācā*)—the Maruts, pleased by our praise
+- अभ्रपुषो न (*abhrapuṣo na*)—like the rain that a cloud pours
+- वसु (*vasu*)—wealth
+- पुष (*puṣa*)—they pour
+- हविष्मंतः (*haviṣmaṃtaḥ*)—filled with oblations
+- यज्ञाः न (*yajñāḥ na*)—like sacrifices
+- विजानुषः (*vijānuṣaḥ*)—they become producers for the world
+- एषां सुमारुतं (*eṣāṃ sumārutaṃ*)—of the excellent Maruts
+
+### Printed p. 132
+
+- ब्रह्माणं (*brahmāṇaṃ*)—endowed with greatness
+- गणं (*gaṇaṃ*)—the host
+- अर्हसे (*arhase*)—in accordance with their worthiness
+- न अस्तोषि (*na astoṣi*)—I have not praised
+- शोभसे (*śobhase*)—in keeping with their dignity
+- न (*na*)—I have not praised
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, pleased with our praise, shower wealth like rain that a cloud pours. Like sacrifices filled with oblations, they become producers for the world. I have not praised the host of the excellent Maruts, endowed with greatness, in accordance with their worthiness. I have not praised them in keeping with their dignity.
+
+##### English translation
+(The Maruts), pleased with our praise like waterdrops sent down by clouds, shower wealth; they are the generators (of the world) like sacrifices abounding with oblations ; I have not praised the mighty band of Maruts (adequately) for their honour or for their glory.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒ये मर्या॑सो अं॒जीर॑कृण्वत सु॒मारु॑तं॒ न पू॒र्वीरति॒  ॑
+> क्षपः ।  
+> दि॒वस्पु॒त्रास॒ एता॒ न ये॑तिर आदि॒त्यास॒स्ते अ॒क्रा न वा॑वृधुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिये । मर्यासः । अंजीन् । अकृण्वत । सुमारुतं । न । पूर्वीः । अति । क्षपः ।  
+> दिवः । पुत्रासः । एताः । न । येतिरे । आदित्यासः । ते । अक्राः । न । ववृधुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रिये शोभार्थं मर्यासो मारका मनुष्यरूपा ना मरुतः । पूर्वं
+> मनुष्याः संतः पश्चात्सुकृतविशेषेण ह्यमरा आसन् । तेंजीनंजकान्याभरणान्यकृण्वत। कुर्वंति । किमर्थं। श्रिये स्वशरीरशोभनार्थं । सुमारुतं शोभमानानां
+> मरुतां गणं पूर्वीर्बह्वः क्षपः क्षपयित्र्यः सेना नाति । न पराभावयंतीति
+
+##### Gist of the bhāṣya
+
+The Maruts, the slayers, in human form, for splendour, that is, for the beauty of their own bodies, make ornaments (अंजीन् (*aṃjīn*)), adorning themselves. They were formerly men, and afterwards, by special merit, became immortal. Many destroying armies do not overcome the shining band of the Maruts; this is what is to be supplied.
+
+### Printed p. 133
+
+> शेषः । किंच दिवो द्युदेवतायाः पुत्रासः पुत्रा एता गंतारो न येतिरे !
+> निर्गच्छंति । त आदित्यासोऽदितेः पुत्रा अक्रा आक्रमणशीला मरुतो न वावृधुः ।
+> न वर्धं ९ । यतोऽस्माभिर्न स्तुता आत इति भावः ॥
+
+##### Gist of the bhāṣya
+
+Further, the sons of heaven, the deity of the sky, do not go out, that is, do not set forth; those Ādityas, the sons of Aditi, the aggressive Maruts, did not grow, because they were not praised by us; this is the meaning. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्यासः (*maryāsaḥ*)—the Maruts in human form
+- अंजीन् (*aṃjīn*)—ornaments
+- श्रिये (*śriye*)—for the decoration of their bodies
+- अकृण्वत (*akṛṇvata*)—they make for themselves
+- सुमारुतं (*sumārutaṃ*)—the band of the excellent Maruts
+- पूर्वीः (*pūrvīḥ*)—very numerous
+- क्षपः (*kṣapaḥ*)—an army
+- न अति (*na ati*)—cannot defeat
+- दिवः पुत्रासः (*divaḥ putrāsaḥ*)—sons of the world of heaven
+- एताः (*etāḥ*)—these Maruts
+- न येतिरे (*na yetire*)—do not set out (without our praise)
+- आदित्यासः (*ādityāsaḥ*)—sons of Aditi
+- अक्राः (*akrāḥ*)—pervasive
+- ते (*te*)—they
+- न वावृधुः (*na vāvṛdhuḥ*)—do not even gain strength (without our praise)
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts in human form make ornaments for the decoration of their bodies. Even a very numerous army cannot defeat the band of the excellent Maruts. These Maruts, the sons of the world of heaven, do not set out without our praise. These sons of Aditi, who are pervasive, do not even gain strength without our praise.
+
+##### English translation
+The destructive (Maruts) made ornaments for their decoration: many hostile hosts cannot overcome the band of Maruts; the moving sons of heaven do not issue forth, the swift-going sons of Aditi do not increase (in glory).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये दि॒वः पृ॑थि॒व्या न ब॒र्हणा॒ त्मना॑ रिरि॒चे अ॒भ्रान्न सूर्यः॑।  
+> पाज॑स्वंतो॒ न वी॒राः प॑न॒स्यवो॑ रि॒शाद॑सो॒ न मर्या॑ अ॒भिद्य॑वः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । दिवः । पृथिव्याः । न । बर्हणा । त्मना । रिरिचे । अभ्रात् । न । सूर्यः ।  
+> पाजस्वंतः । न । वीराः ! पनस्यवः । रिशादसः । न । मर्याः । अभिद्यव ॥ ३ ॥
+
+### Printed p. 134
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतो दिवः पृथिव्या न पृथिव्याश्च । नेति चार्थे । बर्हणा महत्वेन
+> त्तनात्मनैव रिरिचे अतिरिक्ता अभवन्स्वशरीरेण अभ्रान्नाभ्रादिव सूर्यः । किंच
+> पाजस्वंतो न वीरा बलवंतो वीरा इव पनस्यवः स्तुतिकामा भवंति । किंच रिशादसो
+> न मर्या रिशतामसितारो मनुष्या इवाभिद्यवोऽभिगतदीप्तयो भवंति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, by greatness, from heaven and from earth, by their own selves became surpassing, in their own bodies, like the sun from a cloud. Further, like mighty heroes they become desirous of praise. Further, like men who cast down their enemies, they become radiant. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभ्रात् (*abhrāt*)—coming out of the cloud
+- सूर्यः न (*sūryaḥ na*)—like the sun
+- ये (*ye*)—which Maruts
+- दिवः (*divaḥ*)—from the world of heaven
+- पृथिव्याः न (*pṛthivyāḥ na*)—and from the earth
+- बर्हणा (*barhaṇā*)—possessing greatness
+- त्मना (*tmanā*)—and self-impelled
+- प्र रिरिच्रे (*pra riricre*)—who have become manifest
+- पाजस्वंतः (*pājasvaṃtaḥ*)—endowed with strength
+- वीराः न (*vīrāḥ na*)—like heroes
+- पनस्यवः (*panasyavaḥ*)—they become desirous of praise
+- रिशादसः (*riśādasaḥ*)—destroyers of enemies
+- मर्याः न (*maryāḥ na*)—like heroic men
+- अभिद्यवः (*abhidyavaḥ*)—they become radiant
+
+##### भावार्थ (Bhāvārtha)
+
+Those Maruts who, possessing greatness and self-impelled, become manifest from the world of heaven and from the earth, as the sun comes out shining from a cloud, desire praise like heroes endowed with strength. They become radiant like heroic men who destroy their enemies.
+
+##### English translation
+(The Maruts), who through the might of heaven and earth have emerged from their own persons as the sun emerges from the cloud, (are) desirous of praise like powerful heroes, and radiant like men who overpower their enemies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒ष्माकं॑ बु॒द्धे अ॒पां न याम॑नि विधु॒र्यति॒ न म॒ही  
+> श्र॑थ॒र्यति॑ ।  
+> वि॒श्वप्सु॑र्य॒ज्ञो अ॒र्वाग॒यं सु वः॒ प्रय॑स्वंतो॒ न स॒त्राच॒  ॑
+> आ गत ॥ ४ ॥
+
+### Printed p. 135
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युष्माकं । बुद्धे । अपां । न । यामनि विदुर्यति । न । मही । श्रथर्यति ।  
+> विश्वप्सुः । यज्ञः अर्वाक् । अयं । सु । वः । प्रयस्वंतः । न । सत्राचः । आ ।  
+> गत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः युष्माकं बुद्धे परस्परसंघातेऽपां न यामनि प्रवृद्धानामुदकानां गमन इव मही महती भूर्न विधुर्यति । न व्यथते । नापि श्रथर्यति ।
+> न विशीर्णा भवति । शीघ्रगतयोऽपि यूयमेनां न पीडयध्वमित्यर्थः ।
+> विश्वप्सुर्विश्वरूपोऽयं यज्ञो यागसाधनं हविर्वो युष्माकमर्वागभिमुखं
+> सु सुष्टु गच्छति । प्रयस्वंतो नान्नवंतः परिष्कर्तार इव सुखप्रदाः संतः सत्राचः
+> सहांचना आ गत । आगच्छत । संघाकारेणागच्छतेत्यर्थः । सप्तगणा वै मरुतः ।
+> तै सं. २-२-५-७ । इति श्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, in your mutual collision, as at the going of swollen waters, the great earth does not tremble, nor is it shattered; that is, though you move swiftly you do not oppress it. This manifold sacrifice, the oblation, the means of sacrifice, goes well towards you. Come, giving pleasure like those who have food, together; that is, come in the form of a host, for there is the Vedic text सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) (Tai. Saṃ. 2-2-5-7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपां (*apāṃ*)—of masses of water
+- यामनि न (*yāmani na*)—as at the time of a flood (O Maruts)
+- युष्माकं (*yuṣmākaṃ*)—your
+- बुध्ने (*budhne*)—even when the host moves
+- मही (*mahī*)—the great earth
+- न विधुरति (*na vidhurati*)—does not move
+- न श्रथरति (*na śratharati*)—does not become blunted
+- विश्वप्सुः (*viśvapsuḥ*)—having many kinds of forms
+- अयं यज्ञः (*ayaṃ yajñaḥ*)—this sacrifice
+- अर्वाक् (*arvāk*)—towards you
+- सु (*su*)—comes exceedingly
+- प्रयस्वंतो न (*prayasvaṃto na*)—like men filled with food (giving pleasure)
+- सत्राचः (*satrācaḥ*)—gathered together
+- आ गत (*ā gata*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, as, even when masses of water flow, the earth neither moves nor is shattered, so, though your host moves, the earth does not tremble. This sacrifice, which has many forms, approaches you. Come together, giving pleasure like men filled with food.
+
+##### English translation
+In your collision, as in the transit of waters, the earth is not shaken, is not shattered; this manifold sacrifice comes towards you; approach united as if laden with food.
+
 ---
 
-**Progress note:** Done through printed p. 128. Rks 2 (end) to 7 (bhashya)
+**Progress note:** Done through printed p. 135. end of Rk 7-8 of Sukta 76, Sukta 77 Rks 1-4
