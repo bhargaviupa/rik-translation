@@ -8,7 +8,7 @@ To publish in simple Kannada, together with a critical translation, such a Ṛgv
 
 Mysore
 
-Śrī Jaya year, Saṃ. Mārgaśira kṛṣṇa trayodaśī, Wednesday
+Śrī Jaya year, Saṃ.**NOTE** Mārgaśira kṛṣṇa trayodaśī, Wednesday
 
 Date 22-12-1954.
 
