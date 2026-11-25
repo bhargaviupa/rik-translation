@@ -28440,6 +28440,228 @@ In the first half of this Ṛk the embodied man's engagement in worldly life is 
 
 Or else: the seer called Kumāra, realising his identity with all, shows with the word "who," which conveys rejection, that anything other than himself is impossible. "Who, a father, begot me, Kumāra?" No one. I am of the form stated by the Śruti: अजो नित्यः शाश्वतः (*ajo nityaḥ śāśvataḥ*) (Ka. U. 2-18). And who makes the body-chariot go forth? None, since there is no maker other than I, and likewise no other thing to be made. ()
 
+### Printed p. 862
+
+> अद्यास्मिन्नाले सर्वात्म्यानुभवदशायां तं तं प्रकारं कः स्वित्को नाम नोऽस्माकं
+> ब्रूयात् यथा येन प्रकारेणानुदेय्यनुदातव्या मद्व्यतिरिक्तान्यपदार्थसत्ताभवत् भवति । स प्रकारोऽपि दुर्वचन इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the sentence. In this present state of experiencing everything as the Self, who, what person indeed, would tell us the manner in which (यथा (*yathā*)) the existence of anything other than myself, the अनुदेय्य (*anudeyya*), comes to be? That manner too is hard to state.
+
+**Pratipadārtha** (Yama version)
+- कः (*kaḥ*)—which man
+- कुमारं (*kumāraṃ*)—this boy (in order to send him to Yama)
+- अजनयत् (*ajanayat*)—begets
+- कः (*kaḥ*)—which man (in order to send the boy to Yama's presence)
+- रथं (*rathaṃ*)—a chariot
+- निः अवर्तयत् (*niḥ avartayat*)—prepares
+- यथा (*yathā*)—in what manner
+- अनुदेयिा (*anudeyiā*)—the boy, as one to be handed over to Yama
+- अभवत् (*abhavat*)—becomes (and afterwards, to come back from there)
+- तत् (*tat*)—the corresponding means
+- अद्य (*adya*)—now
+- नः (*naḥ*)—to us
+- कः स्वित् (*kaḥ svit*)—which man, pray
+- ब्रूयात् (*brūyāt*)—would tell
+
+##### भावार्थ (Bhāvārtha)
+
+In the affairs of the world, what man would beget a son in order to hand him over to the power of death? What man would seat the son he has begotten in a chariot and send him to Yama's presence? And after sending him to Yama, what man would teach him the means by which his son may come back?
+
+##### English translation
+Who has begotton the youth? Who has driven the chariot of? Who can tell us how restitution was made ?
+
+##### विशेषविषयगळु (Special Topics)
+
+Is there in the world a man who hands over to the power of death his own son, whom he himself has begotten? Is there in the world a father who himself tells his son to go to Yama's house, prepares a chariot for his going, teaches him the means of returning from there, and so sends him to Yama? If there were one, he would be a pure fool. A man who acts against justice and the practice of the world is not wise but a pure fool; this is the purport.
+
+(Āditya version) The seer named Kumāra, knowing that he is a part of the Supreme Self, that he is identical with the Supreme Self, that nothing else exists apart from the Supreme Self, and that everything is the Supreme Self's own, refutes in this Ṛk the view opposed to that.
+
+### Printed p. 863
+**Pratipadārtha** (Āditya version)
+- कुमारं (*kumāraṃ*)—me, bearing the name Kumāra
+- कः (*kaḥ*)—which father
+- अजनयत् (*ajanayat*)—begot (none did)
+- कः (*kaḥ*)—who
+- रथं (*rathaṃ*)—as if placed in the chariot that is the body
+- निरवर्तयत् (*niravartayat*)—makes
+- अद्य (*adya*)—now
+- यधा (*yadhā*)—in what manner
+- अनुदेयिा (*anudeyiā*)—a thing other than me (the Self)
+- अभवत् (*abhavat*)—exists
+- कः स्वित् (*kaḥ svit*)—which man
+- नः (*naḥ*)—to us
+- ब्रूयात् (*brūyāt*)—would tell
+- तत् (*tat*)—that statement is a false statement indeed (for apart from the Self there is no other thing)
+
+##### भावार्थ (Bhāvārtha)
+
+Which father begot me, who am called Kumāra? Since the world, the things in the world, all men and living beings, everything, are of the nature of the Supreme Self and nothing exists apart from the Supreme Self, who is the son and who the father? What is it, then, for a father to beget a son? All this is mere delusion. Our body is a chariot; in it I (the seer Kumāra), a part of the Supreme Self, dwell. Who has made it to be so? None other than the Supreme Self. What man says that in the world there is a thing apart from the Self (the Supreme Self)? One who says so is a fool, and his statement is utterly false, because apart from the Self there is no other thing. This is the main purport.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथाभ॑वदनु॒देयिा॒ ततो॒ अग्र॑मजायत ।  
+> पु॒रस्ता॑द्बु॒द्न आत॑तः प॒श्चान्नि॒रय॑णं कृ॒तं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । अभवत् । अनुदेयिा । ततः । अग्रं । अजायत ।  
+> पुरस्तात् । बुध्नः । आततः । पश्चात् । निःऽअयनं । कृतं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनुदेय्यनुदातव्यो यथा येन प्रकारेण पितरमनुलक्ष्यायं कुमारो
+> यमेन दत्तोऽभवत् भवति तथा ततस्तस्माद्वाजश्रवसात्पितुरग्रं यमसमीपं गच्छेति
+> वचनस्याग्रतो वर्तमानं नचिकेतसा यमेन सह वदितव्यं तं वै प्रवसंतं गंतासीति
+
+##### Gist of the bhāṣya
+
+अनुदेय्य (*anudeyya*) means "to be given back". In the manner in which this boy, following his father, comes to be given by Yama, so from that father, Vājaśravasa, there stood in front (अग्रं (*agraṃ*)) of the command "Go to Yama's presence" a matter on which Naciketas was to speak with Yama. The Brāhmaṇa text, तं वै प्रवसंतं गंतासीति होवाचेत्यादिकं । (*taṃ vai pravasaṃtaṃ gaṃtāsīti hovācetyādikaṃ |*) (Tai. Brā. 3-11-8-2), is cited at the page's end (continued in the next block).
+
+### Printed p. 864
+
+> होवाचेत्यादिकं । तै. ब्रा. ३-११-८-२ । ब्राह्मणांतरोक्तमजायत । प्रादुरभवत्।
+> पितोपदिष्टवानित्यर्थः । पुरस्तात्ततः पूर्वं बुद्ध उक्तस्याग्रस्य मूलभूतं यमस्य
+> गृहं प्रतिगच्छेति वचनमाततः । अतिविस्त्रतमासीत् । अतस्तदशक्यपरिहारमिति पश्चात्क्रोधं परित्यज्य निरयणं तस्माद्यमान्निर्गमनोपायं कृतं । पित्राचरितं।
+> यद्वा । अनुदेय्यात्मानमनु दातव्यात्मस्वरूपव्यतिरिक्तान्यपदार्थसत्ता यथाभवत्
+> भवति तदनुगुणं ततस्तस्मान्मायाविशिष्टादात्मनोऽग्रं स्रष्टव्यस्य विकारजातस्याद्यं
+> मनस्तत्त्वं सिसृक्षाकारणमजायत। उदपद्यत। पुरस्तात्सृष्टेः प्रागवस्थायां बुध्नो
+> मूलमव्याकृतं मायात्मकं कारणमेवाततः । आ समंतात्ततं विस्तृतमासीत् ।
+> पश्चात्तमस उत्पत्यनंतरं निरयणं तद्दतानां कार्याणां तस्मात्कारणान्निर्गमनं
+> घटपटादिभेदेन स्वरूपालंभनं कृतं । ब्रह्मणा निर्मितं । तथा मृद्विकारो घटादिर्मृदोऽन्नो न भवति । आदित्यानुग्रहाद्ब्रह्मभावं प्राप्तस्य मम विकारः प्रपंचो
+> मदन्यो न भवतीति व्यतिरिक्तस्य पित्रादेराक्षेपः पूर्वोक्तः समर्थितः ॥
+
+##### Gist of the bhāṣya
+
+That is what the other Brāhmaṇa says. अजायत (*ajāyata*) means "appeared": the father gave the instruction. पुरस्तात् (*purastāt*): before that, बुद्ध (*buddha*) (the printed form of बुध्नः (*budhnaḥ*)), the root of the stated अग्र (*agra*), that is, the command "Go to Yama's house", was आततः (*ātataḥ*), very widely spread. Since it could not be undone, afterwards the father, giving up his anger, made निरयणं (*nirayaṇaṃ*), a means of going out from Yama, done by the father.
+
+Alternatively (Āditya): अनुदेय्य (*anudeyya*) is the thought of the existence of things other than the nature of the Self, which is to be given after the Self. In whatever manner that comes to be, accordingly from the Self endowed with māyā, first of all, the foremost principle of what was to be created, the mind-principle, the cause of the desire to create, arose. Before creation, in the state prior to it, the root (बुध्नः (*budhnaḥ*)), the unmanifest māyā-natured cause alone, was spread out everywhere. Afterwards, after the arising out of darkness, निरयणं (*nirayaṇaṃ*), the going out of the effects contained in it from that cause, the taking on of their own form as pot, cloth and so on, was made by Brahman. Just as a pot and the like, a modification of clay, is not other than the clay, so for me, who by the grace of Āditya have attained the state of Brahman, the world, my modification, is not other than me. Thus the earlier-stated rejection of something separate, such as a father, is justified.
+
+**Pratipadārtha** (Yama version)
+- अनुदेयि (*anudeyi*)—this boy (Naciketas), one who is to be sent back by Yama to his father
+- यथा (*yathā*)—in what manner
+- अभवत् (*abhavat*)—he comes to be, in that manner
+- ततः (*tataḥ*)—from Vājaśravas, Naciketas's father
+- अग्रं (*agraṃ*)—beforehand, that is, before saying "Go to Yama"
+- अजायत (*ajāyata*)—the thought arose in the mind
+- पुरस्तात् (*purastāt*)—before that
+- बुध्नः (*budhnaḥ*)—the root-like sentence "Go to Yama's house"
+- आततः (*ātataḥ*)—was spread in the mind (was fixed)
+- पश्चात् (*paścāt*)—afterwards (when the anger had been given up)
+- निरयणं (*nirayaṇaṃ*)—the means of coming back again from Yama's house
+- कृतं (*kṛtaṃ*)—was decided upon by the father
+
+##### भावार्थ (Bhāvārtha)
+
+Before the father Vājaśravas told his son Naciketas to go to Yama's house, the means for Naciketas to come back from Yama's house had occurred to his mind. Therefore, before telling him to go to Yama's house, the father had settled the means of the son's return.
+
+##### English translation
+How restitution was made appeared from the (command given) at first; before that the depth was outstretched, afterwards a means of returning (from Yama) was provided.
+
+### Printed p. 865
+
+##### विशेषविषयगळु (Special Topics)
+
+The father told his son Naciketas to go to Yama's house. But before saying so, he had thought out the means by which the son should come back from there to him, and only then spoke. Though in a surge of anger he said "Go to Yama's house", afterwards he gave up his anger and with a calm mind made the suitable means for his son to come back from Yama's house. This is the main purport.
+
+(Āditya version)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनुदेयि (*anudeyi*)—the false notion that there is a thing other than the nature of the Self
+- यथा (*yathā*)—in what manner
+- अभवत् (*abhavat*)—it arises
+- ततः (*tataḥ*)—prior to that intellect endowed with māyā
+- अग्रं (*agraṃ*)—first
+- अजायत (*ajāyata*)—the mind-principle was created
+- पुरस्तात् (*purastāt*)—in the state existing before creation
+- बुद्धिः (*buddhiḥ*)—the māyā-natured cause that was in the unmanifest state
+- आततः (*ātataḥ*)—was spread everywhere
+- पश्चात् (*paścāt*)—afterwards, that is, after the cause had begun to take the form of effect
+- निरयणं (*nirayaṇaṃ*)—so that from the unmanifest, of the nature of cause, the manifest, of the nature of effect, that is, the world and the rest, should appear
+- कृतं (*kṛtaṃ*)—was made (was created)
+
+##### भावार्थ (Bhāvārtha)
+
+It merely appears in the minds of ordinary men that a thing other than the Self exists in this world. Before such a false notion arose in the mind, the mind-principle (that is, the mind of living beings) was created. Only after the mind is created do the mind's activities go on. Therefore the mind-principle was created first. Afterwards the mind's activity of thinking, that is, the false notion that things other than the Self exist, arose. Before creation, when Brahman was in the unmanifest state, the world and the rest existed in that unmanifest state in the form of cause. Afterwards, when the unmanifest came into the manifest state, the world and the rest (pots, cloths and other things) passed from the causal state to the state of effect. All this is Brahman's creation. For example, things that are modifications of clay, such as the pot, though they appear in many shapes such as pot and tile, have one and the same original substance, clay. In the same way, though the things seen in this world are of many kinds, Brahman alone is the original cause of them all. Therefore the seer describes that I, who by Āditya's grace have attained the state of Brahman, have come to the knowledge that no thing other than myself exists in this world.
+
+### Printed p. 866
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं य॒मस्य॒ साद॑नं देवमा॒नं यदु॒च्यते॑ ।  
+> इ॒यम॑स्य धम्यते ना॒ळीर॒यं गी॒र्भिः परि॑ष्कृतः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । यमस्य । सदनं । देवमानं । यत् । उच्यते ।  
+> इयं । अस्य । धम्यते । नाळीः । आयं । गीभिः । परिकृतः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदं यमस्य नियंतुरादित्यस्य वैवस्वतस्य वा सदनं स्थानं ॥ छांदसः सांहितिको दीर्घः ॥ यत्सदनं देवमानं देवैर्निर्मितमित्युच्यते सर्वत्राभिधीयते ।
+> यद्वा । देवानां रश्मीनां निर्माणसाधनमिति गीयते । अस्य यमस्य प्रीणनायेयं नाळीर्वाद्यविशेषो वेणुर्धम्यते । वाद्यते । यद्वा । नाळीति वाज्ञाम । इयं
+> स्तुतिरूपा वागस्य प्रीणनाय धम्यते । उच्चार्यते । एवं सत्ययं यमो गीर्भिः
+> स्तुतिभिः परिष्कृतः । अलंकृतोऽभूत् ॥ संपर्युपेभ्य इति सुडागमः । परिनिविभ्य
+> इति षत्वं । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥
+
+##### Gist of the bhāṣya
+
+This is the सदनं (*sadanaṃ*), the place, of Yama, the controller, or of Āditya Vaivasvata; that dwelling which is said (उच्यते (*ucyate*)), spoken of everywhere, to be देवमानं (*devamānaṃ*), made by the gods. Or else it is sung of as the means of making the rays of the gods. To please this Yama this नाळीः (*nāḷīḥ*), a particular instrument, the flute, is blown (धम्यते (*dhamyate*), played). Or else नाळी (*nāḷī*) is a name of speech: this speech in the form of praise is uttered (धम्यते (*dhamyate*)) to please him. This being so, this Yama is adorned (परिष्कृतः (*pariṣkṛtaḥ*)) by praises (गीर्भिः (*gīrbhiḥ*)).
+
+**Pratipadārtha** (Yama version)
+- यत् (*yat*)—which world
+- देवमानं (*devamānaṃ*)—as made by the gods
+- उच्यते (*ucyate*)—is said, such
+- इदं (*idaṃ*)—this world of Yama
+- यमस्य (*yamasya*)—of Yama
+- सदनं (*sadanaṃ*)—is the abode
+- अस्य (*asya*)—for the pleasure of this Yama
+- इयं नाळीः (*iyaṃ nāḷīḥ*)—this particular instrument called the flute
+- धम्यते (*dhamyate*)—is blown
+- आयं (*āyaṃ*)—this Yama
+- गीर्भिः (*gīrbhiḥ*)—with words in the form of praise
+- परिष्कृतः (*pariṣkṛtaḥ*)—is adorned (is praised)
+
+##### भावार्थ (Bhāvārtha)
+
+This (Yama's) world, made by the gods, is renowned as Yama's dwelling-place. For the pleasure of this Yama they blow the instrument called the flute, and this Yama is praised with words in the form of praise.
+
+##### English translation
+This is the dwelling of Yama, which is called the fabric of the gods; this pipe is sounded for his (gratification) he is propitiated by hymns.
+
+### Printed p. 867
+**Pratipadārtha** (Āditya version)
+- यत् (*yat*)—which (sun's) orb
+- देवमानं (*devamānaṃ*)—as made by shining rays or by the gods
+- उच्यते (*ucyate*)—is said
+- इदं (*idaṃ*)—that orb of the sun
+- यमस्य (*yamasya*)—of Āditya the controller
+- सदनं (*sadanaṃ*)—is the place
+- अस्य (*asya*)—for the pleasure of this Āditya
+- नाळीः (*nāḷīḥ*)—speech in the form of praise
+- धम्यते (*dhamyate*)—is uttered
+- अयं (*ayaṃ*)—this Āditya
+- गीर्भिः (*gīrbhiḥ*)—with hymns of praise
+- षरिष्कृतः (*ṣariṣkṛtaḥ*)—is adorned (is praised)
+
+##### भावार्थ (Bhāvārtha)
+
+The place that has been made by the gods or by shining rays is renowned as the orb of Āditya. That orb of Āditya is Āditya's place. For the pleasure of this Āditya, people praise him, reciting words in the form of praise, with hymns and the like.
+
+## Sūkta 136 (Maṇḍala 10)
+**Introduction**
+The deities of this sūkta are the Keśins. Yāska, explaining the meaning of the word Keśin, says:
+केशी केशा रश्मयस्तैस्तद्वान् भवति । काशनाद्वा प्रकाशनद्वा ॥ (*keśī keśā raśmayastaistadvān bhavati | kāśanādvā prakāśanadvā ‖*) (Ni. 12-25)
+Keśāḥ means hairs, body-hair. Keśa is also a name for rays, because hairs are fine and long; since rays are like them, it is customary to call rays keśāḥ too. One who has such hairs or rays is called Keśin. One who has rays may be the sun, fire or wind. Therefore it is said that the deities of this sūkta are Agni, Sūrya and Vāyu. Chiefly the deity of this sūkta is Sūrya. The word keśa is derived from the root kāś, "to shine"; keśāḥ means shining or radiant rays. In the Bṛhaddevatā the meaning of the word Keśin is explained thus:
+कृत्वा सायं पृथग्याति भूतेभ्यस्तमसोऽत्यये । प्रकाशं किरणैः कुर्वंस्तेनैनं केशिनं विदुः ॥ (*kṛtvā sāyaṃ pṛthagyāti bhūtebhyastamaso 'tyaye | prakāśaṃ kiraṇaiḥ kurvaṃstenainaṃ keśinaṃ viduḥ ‖*) (Bṛ. De. 2-65)
+Explanation of the word Keśin: in the evening he sets and darkness comes; when in due course that darkness has passed and it is light, he makes light with his rays for the benefit of all living beings; therefore they call this god (the sun) Keśin.
+
 ---
 
-**Progress note:** Done through printed p. 861. pp. 856-861 (batch API)
+**Progress note:** Done through printed p. 867. pp. 862-867 (batch API)
