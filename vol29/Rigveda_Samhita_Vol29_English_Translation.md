@@ -7139,6 +7139,258 @@ O revered one, who sleep in this Person? Who inside him are awake? And who (the 
 
 Question: यदिदं सर्वमप्स्वेतं च प्रोतं च कस्मिन्नु खल्वाप ओताश्च प्रोताश्च (*yadidaṃ sarvamapsvetaṃ ca protaṃ ca kasminnu khalvāpa otāśca protāśca*) that is, if everything is woven like warp and woof in the water, in what is the water woven?
 
+### Printed p. 279
+
+Answer: पायौ गार्गि (*pāyau gārgi*)—O Gārgī, in the wind.
+
+Question: कस्मिन्नु खलु वायुरोतश्च प्रोतश्च (*kasminnu khalu vāyurotaśca protaśca*)—in what is the wind woven like warp and woof?
+
+Answer: अंतरिक्षलोकेषु (*aṃtarikṣalokeṣu*)—in the worlds of the atmosphere.
+
+Question: कस्मिन्नु खलु अंतरिक्षलोका ओताश्च प्रोताश्च (*kasminnu khalu aṃtarikṣalokā otāśca protāśca*)—in what are the worlds of the atmosphere contained (joined together)?
+
+Answer: गंधर्वलोकेषु (*gaṃdharvalokeṣu*)—in the worlds of the Gandharvas.
+
+Question: कस्मिन्नु खलु गंधर्वलोका ओताश्च प्रोताश्च (*kasminnu khalu gaṃdharvalokā otāśca protāśca*)—in what are the worlds of the Gandharvas joined together?
+
+Answer: आदित्यलोकेषु (*ādityalokeṣu*)—in the worlds of the Ādityas.
+
+Question: कस्मिन्नु खल्वादित्यलोका ओताश्च प्रोताश्च (*kasminnu khalvādityalokā otāśca protāśca*)—in what are the worlds of the Ādityas joined together?
+
+Answer: चंद्रलोकेषु (*caṃdralokeṣu*)—in the worlds of the moon.
+
+Question: कस्मिन्नु खलु चंद्रलोका ओताश्च प्रोताश्च (*kasminnu khalu caṃdralokā otāśca protāśca*)—in what are the worlds of the moon joined together?
+
+Answer: नक्षत्रलोकेषु (*nakṣatralokeṣu*)—in the worlds of the stars.
+
+Question: कस्मिन्नु खलु नक्षत्रलोका ओताश्च प्रोताश्च (*kasminnu khalu nakṣatralokā otāśca protāśca*)—where are the worlds of the stars joined together?
+
+Answer: देवलोकेषु (*devalokeṣu*)—in the worlds of the gods.
+
+Question: कस्मिन्नु खलु देवलोका ओताश्च प्रोताश्च (*kasminnu khalu devalokā otāśca protāśca*)—in what are the worlds of the gods joined together?
+
+Answer: इंद्रलोकेषु (*iṃdralokeṣu*)—in the worlds of Indra.
+
+Question: कस्मिन्नु खलु इंद्रलोका ओताश्च प्रोताश्च (*kasminnu khalu iṃdralokā otāśca protāśca*)—where are the worlds of Indra joined together like warp and woof?
+
+Answer: प्रजापतिलोकेषु (*prajāpatilokeṣu*)—in the worlds of Prajāpati. **NOTE**
+
+Question: कस्मिन्नु खलु प्रजापतिलोका ओताश्च प्रोताश्च (*kasminnu khalu prajāpatilokā otāśca protāśca*)—in what are the worlds of Prajāpati contained?
+
+Answer: ब्रह्मलोकेषु (*brahmalokeṣu*)—in the worlds of Brahmā.
+
+Question: कस्मिन्नु खलु ब्रह्मलोका ओताश्च प्रोताश्च (*kasminnu khalu brahmalokā otāśca protāśca*)—in what are the worlds of Brahmā joined together like warp and woof?
+
+Answer: गार्गि मातिप्राक्षीः मा ते मूर्धा व्यपप्तदनतिप्रश्न्यां वै देवतामतिपृच्छसि (*gārgi mātiprākṣīḥ mā te mūrdhā vyapaptadanatipraśnyāṃ vai devatāmatipṛcchasi*) (Ba. U. 3-6) (Bṛ. U. 3-6) **NOTE**
+
+### Printed p. 280
+
+To the last question there is no solution. Even questions about Brahman have a limit. What can be known through mere discussion can be known by question and answer. But as for यतो वाचो निवर्तंते अप्राप्यमनसा सह (*yato vāco nivartaṃte aprāpyamanasā saha*), it cannot be determined by speech. The nature of this Self is not known by the mind either. It passes beyond the limits of both. It is to be known only through meditation. To show that it passes beyond the limits of question and answer, Yājñavalkya gives Gārgī this answer: "O Gārgī, enough of your question, stop. If you put a question beyond this, your head will split."
+
+Just as there was this conversation in the form of question and answer between Gārgī and Yājñavalkya, so there is a similar conversation in the form of question and answer between Yājñavalkya and Śākalya. That too concerns the supreme Brahman. It concerns the directions pervaded by Viśvakarman and the deities of the directions.
+
+Question: यदिदं कुरुपंचालानां ब्राह्मणानामत्यवादीः किं ब्रह्म विद्वान् (*yadidaṃ kurupaṃcālānāṃ brāhmaṇānāmatyavādīḥ kiṃ brahma vidvān*)—O Yājñavalkya, what is the nature of Brahman that you explained to the Kurupāñcālas?
+
+Answer: दिशो वेद सदेवाः सप्रतिष्ठा (*diśo veda sadevāḥ sapratiṣṭhā*)—the directions with their gods, of firm standing.
+
+Question: किं देवतोऽस्यां प्राच्यां दिश्यसि (*kiṃ devato 'syāṃ prācyāṃ diśyasi*)—what is the deity of the eastern direction?
+
+Answer: स आदित्यः (*sa ādityaḥ*)—he is Āditya.
+
+Question: कस्मिन् प्रतिष्ठितः (*kasmin pratiṣṭhitaḥ*)—in what is Āditya established?
+
+Answer: चक्षुसि (*cakṣusi*)—in the eyes.
+
+Question: कस्मिन्नु चक्षुः प्रतिष्ठितं (*kasminnu cakṣuḥ pratiṣṭhitaṃ*)—in what is the eye established?
+
+Answer: रूपेषु (*rūpeṣu*)—(in forms). चक्षुषा हि रूपाणि पश्यति (*cakṣuṣā hi rūpāṇi paśyati*)—it is with the eyes that we see forms.
+
+Question: कस्मिन्नु रूपाणि प्रतिष्ठितानि (*kasminnu rūpāṇi pratiṣṭhitāni*)—in what are forms established?
+
+Answer: हृदय इति होवाच हृदयेन हि रूपाणि जानाति (*hṛdaya iti hovāca hṛdayena hi rūpāṇi jānāti*)—since forms are known by the heart alone, they are established in the heart. (Bṛ. A. 2.9-19-20) **NOTE**
+
+Question: किं देवतोऽस्यां दक्षिणायां दिश्यसि (*kiṃ devato 'syāṃ dakṣiṇāyāṃ diśyasi*)—what is the deity of the southern direction?
+
+Answer: यमदेवत इति (*yamadevata iti*)—it is the deity named Yama.
+
+### Printed p. 281
+
+Question: स यमः कस्मिन् प्रतिष्ठितः (*sa yamaḥ kasmin pratiṣṭhitaḥ*)—in what is that Yama established?
+
+Answer: यज्ञे (*yajñe*)—in the sacrifice.
+
+Question: कस्मिन्नु यज्ञः प्रतिष्ठितः (*kasminnu yajñaḥ pratiṣṭhitaḥ*)—in what is the sacrifice established?
+
+Answer: दक्षणायां (*dakṣaṇāyāṃ*)—in the sacrificial fee.
+
+Question: कस्मिन्नु दक्षिणा प्रतिष्ठिता (*kasminnu dakṣiṇā pratiṣṭhitā*)—in what is the sacrificial fee established?
+
+Answer: श्रद्धायां (*śraddhāyāṃ*)—in faith.
+
+Question: कस्मिन्नु श्रद्धा प्रतिष्ठिता (*kasminnu śraddhā pratiṣṭhitā*)—in what is faith established?
+
+Answer: हृदये हृदयेन हि श्रद्धां जानाति (*hṛdaye hṛdayena hi śraddhāṃ jānāti*)—since faith is known by the heart alone, it is established in the heart.
+
+Question: किं देवतोऽस्यां प्रतीच्यां दिश्यसि (*kiṃ devato 'syāṃ pratīcyāṃ diśyasi*)—what is the deity of the western direction?
+
+Answer: वरुणदेवत इति (*varuṇadevata iti*)—the deity of the western direction is Varuṇa.
+
+Question: स वरुणः कस्मिन् प्रतिष्ठितः (*sa varuṇaḥ kasmin pratiṣṭhitaḥ*)—in what is Varuṇa established?
+
+Answer: अप्पु (*appu*)—in the waters.
+
+Question: कस्मिन्नापः प्रतिष्ठितासः (*kasminnāpaḥ pratiṣṭhitāsaḥ*)—what is the standing of the waters?
+
+Answer: रेतसि (*retasi*)—in seed.
+
+Question: किं देवतोऽस्यामुदीच्यां दिश्यसीति (*kiṃ devato 'syāmudīcyāṃ diśyasīti*)—what is the deity of the northern direction?
+
+Answer: सोमदेवत इति (*somadevata iti*)—the deity Soma.
+
+Question: स सोमः कस्मिन् प्रतिष्ठितः (*sa somaḥ kasmin pratiṣṭhitaḥ*)—what is the place of Soma's establishment?
+
+Answer: दीक्षायां (*dīkṣāyāṃ*)—in the consecration.
+
+Question: कस्मिन्नु दीक्षा प्रतिष्ठिता (*kasminnu dīkṣā pratiṣṭhitā*)—in what is the consecration established?
+
+Answer: in truth.
+
+Question: कस्मिन्नु खलु सत्यं प्रतिष्ठितं (*kasminnu khalu satyaṃ pratiṣṭhitaṃ*)—in what is truth established?
+
+Answer: हृदये (*hṛdaye*)—in the heart.
+
+हृदयेन हि सत्यं जानाति हृदये ह्येव सत्यं प्रतिष्ठितं । (*hṛdayena hi satyaṃ jānāti hṛdaye hyeva satyaṃ pratiṣṭhitaṃ |*) Only the heart can know truth. Therefore truth is established in the heart. **NOTE**
+
+Question: किं देवतोऽस्यां ध्रुवायां दिश्यसि (*kiṃ devato 'syāṃ dhruvāyāṃ diśyasi*)—what is the deity of the fixed direction?
+
+Answer: अग्नि देवतॆ इति (*agni devatè iti*)—Agni is the deity of this direction.
+
+### Printed p. 282
+
+Question: सोऽग्निः कस्मिन् प्रतिष्ठितः (*so 'gniḥ kasmin pratiṣṭhitaḥ*)—in what is Agni established?
+
+Answer: वाचि (*vāci*)—in speech.
+
+Question: कस्मिन्नु वाक्प्रतिष्ठिता (*kasminnu vākpratiṣṭhitā*)—in what is speech established?
+
+Answer: हृदये (*hṛdaye*)—in the heart.
+
+Question: कस्मिन्नु त्वं चात्मा च प्रतिष्ठिता (*kasminnu tvaṃ cātmā ca pratiṣṭhitā*)—in what are you, that is, your body and your self, both established?
+
+Answer: पाणे (*pāṇe*)—in breath.
+
+Question: कस्मिन्नु प्राणः प्रतिष्ठितः (*kasminnu prāṇaḥ pratiṣṭhitaḥ*)—in what is breath established?
+
+Answer: अपान इति (*apāna iti*)—in the downward breath.
+
+Question: कस्मिन्वपानः (*kasminvapānaḥ*)—in what is the downward breath?
+
+Answer: व्याने (*vyāne*)—in the diffused breath.
+
+Question: कस्मिन्नु व्यानः (*kasminnu vyānaḥ*)—in what is the diffused breath?
+
+Answer: उदाने (*udāne*)—in the upward breath.
+
+Question: कस्मिन्नुदानः (*kasminnudānaḥ*)—in what is the upward breath?
+
+Answer: समाने (*samāne*)—in the equalising breath.
+
+Then is this the Self? It is not. This is not the Self.
+
+स एष नेति नेत्यात्मागृह्यो न हि गृह्यते आशीर्यो न हि शीरतेऽसंगो न हि सज्यतेऽसितो न व्यथते न रिष्यति । (*sa eṣa neti netyātmāgṛhyo na hi gṛhyate āśīryo na hi śīrate 'saṃgo na hi sajyate 'sito na vyathate na riṣyati |*) (Bṛ. U. 3-9)
+
+This Self is none of these. It is beyond the range of the senses. It is not an object of direct perception. It is without destruction. It is without attachment. It is free from attachment to objects. It is free from bonds and in the state of release. For it there is no sorrow at all. If it is not known, the head falls off: thus is the supreme Self, beyond the range of the senses, extolled.
+
+नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन । यमेवैष वृणुते तेन लभ्यस्तस्येष आत्मा विवृणुते तनूग्स्वां ॥ (*nāyamātmā pravacanena labhyo na medhayā na bahunā śrutena | yamevaiṣa vṛṇute tena labhyastasyeṣa ātmā vivṛṇute tanūgsvāṃ ‖*) (Kaṭha. 1-2-23) **NOTE**
+
+The matter stated in the present mantra, तं संप्रश्नं भुवना यांत्यन्या । (*taṃ saṃpraśnaṃ bhuvanā yāṃtyanyā |*), has been illustrated above with some examples. It is clear from the examples above that although many kinds of questions are asked, a precise answer to them is not possible. Therefore—
+
+### Printed p. 283
+
+This Self is not known by teachings, by the power of intellect, or by hearing its description. It is known only by those who seek this Self with meditation. To him it shows its own form: thus the futility of questions and the like has been declared.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त आय॑जंत॒ द्रवि॑णं॒ सम॑स्मा॒ ऋष॑यः॒ पूर्वे॑ जरि॒तारो॒  ॒
+> न भूना ।  
+> अ॒सूर्ते॒ सूर्ते॒ रज॑सि निष॒त्ते ये भू॒तानि॑ स॒मकृ॑ण्वन्नि॒मानि॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । आ । आयजंत । द्रविणं । सं । अस्मै । ऋषयः । पूर्वे । जरितारः । न । भूना ।  
+> असूर्ते । सूर्ते । रजसि । निसत्ते । ये । भूतानि । संअकृण्वन् । इमानि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते पूर्व ऋषयोऽस्मै विश्वकर्मणे द्रविणं चरुपुरोडाशादिलक्षणं धनं
+> सं सम्यगायजंत । सर्वतो यजंते । जरितारो न भूना स्तोतारो यथा
+> भूम्ना महता स्तोत्रेण यजंति तद्वत् । ये महर्षयोऽस्मूर्ते सरणवर्जिते
+> सूर्ते सरणसहिते स्थावरजंगमात्मके रजसि लोके निषत्ते निषण्णे निश्चलमवस्थित
+> इमानि भूतानि भुवनानि । प्राणिन इत्यर्थः । समकृण्वन् सम्यग्धनादिनापूजयन् ।
+> अथवायमर्थः । ये स्थावरजंगमात्मके जगति वर्तमानानेतान्नाणिनस्तेजसा
+> समकृण्वन् ते पूर्व ऋषयो द्रष्टारो रश्मयोऽस्मा आदित्यात्मकाय विश्वकर्मणे
+> द्रविणं तेज आयजंत ॥
+
+##### Gist of the bhāṣya
+
+Those ancient seers worshipped Viśvakarman with wealth, that is, with riches such as the cooked offering and the sacrificial cake (चरुपुरोडाशादिलक्षणं (*carupuroḍāśādilakṣaṇaṃ*)), on all sides and completely; they worship as praisers worship with great praise (भूम्ना महता स्तोत्रेण (*bhūmnā mahatā stotreṇa*)). Those great seers who, in the world that is without motion and with motion, of the nature of the unmoving and the moving, seated and settled motionless, honoured these beings, that is, living creatures, completely with wealth and the like, they are the ancient seers who made the offering. Or else the meaning is this: those who with brilliance perfected these living creatures existing in the world of the unmoving and the moving, those ancient seers, the seers (the rays), offered brilliance (द्रविणं (*draviṇaṃ*) is तेज (*teja*)) to him, Viśvakarman, who is of the nature of the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which great seers
+- असूर्ते (*asūrte*)—in what is without consciousness
+- सूर्ते (*sūrte*)—and what is endowed with consciousness
+- रजसि (*rajasi*)—in the world
+- निषत्ते (*niṣatte*)—existing
+- इमानि भूतानि (*imāni bhūtāni*)—all these beings
+- समकृण्वन् (*samakṛṇvan*)—refined
+- ते (*te*)—such
+- पूर्वे ऋषयः (*pūrve ṛṣayaḥ*)—ancient seers
+- भूना (*bhūnā*)—with abundant praise
+- जरितारो न (*jaritāro na*)—as praisers worship
+- अस्मै (*asmai*)—with reference to Viśvakarman
+- द्रविणं (*draviṇaṃ*)—with the cooked offering, the sacrificial cake and the like
+- समयजंत (*samayajaṃta*)—worship everywhere
+
+### Printed p. 284
+
+##### भावार्थ (Bhāvārtha)
+
+The ancient seers who refined all the beings existing in the world that is without consciousness and endowed with consciousness worship Viśvakarman everywhere with the cooked offering, the sacrificial cake and the like, as praisers worship with abundant praise.
+
+##### English translation
+Those ancient Rishis who adorned with light these beings in the animate and inanimate world, offer to him wealth (of sacrifice) as praisers with abundant (laudation).
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the purport of the 2nd Ṛk above in this same sūkta, it was stated how the seers, who are of the form of senses, served Prajāpati, who is of the form of breath, and how, as the fruit of that service, they themselves attained and attain satisfaction; and it was said that its explanation would be given in the special topics of this Ṛk. The manner in which the seers, who are of the form of senses, perform sacrifice, the satisfaction obtained from it, its nature and so on, are explained in the Chāndogya and other Upaniṣads.
+
+One meaning is that when the seers performed service in the form of sacrifice, Prajāpati, who is of the form of Viśvakarman, became satisfied. Or else the other meaning is that by the service of the senses designated seers, the Self, who is of the form of breath, is satisfied. How the satisfaction that is the fruit of sacrifice arises, and how complete satisfaction comes to the Self, who is of the form of breath and pervades the whole world, is stated in the Chāndogya in this way.
+
+In the present Ṛk the word द्रविण (*draviṇa*) has been explained as the sacrificial cake of the cooked offering and the like.
+
+तद्यद्भक्तं प्रथममागच्छेत्तद्धोमियं स यां प्रथमामाहुतिं जुहुयाप्राणाय स्वाहेति प्राणस्तृप्यति । (*tadyadbhaktaṃ prathamamāgacchettaddhomiyaṃ sa yāṃ prathamāmāhutiṃ juhuyāprāṇāya svāheti prāṇastṛpyati |*) (Chā. U. 5-19-1)
+
+The food-oblation in the form of the cooked offering, the sacrificial cake and the like, which the present Ṛk calls द्रविण (*draviṇa*), is the very oblation that is offered first, and it is to be offered to breath. Then breath is satisfied. Breath here does not mean the satisfaction of one individual breath only. It means satisfaction for breath and for the other things of the universe connected with breath. How is that? Thus:
+
+प्राणे तृप्यति चक्षुस्तृप्यति चक्षुषि तृप्यत्यादित्यस्तृप्यत्यादित्ये तृप्यति दौस्तुप्यति दिवि तृप्यंत्यां यत्किंच दौश्चादित्यश्चाधितिष्ठतस्ततृप्यति तस्यानु तृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति ॥ (*prāṇe tṛpyati cakṣustṛpyati cakṣuṣi tṛpyatyādityastṛpyatyāditye tṛpyati daustupyati divi tṛpyaṃtyāṃ yatkiṃca dauścādityaścādhitiṣṭhatastatṛpyati tasyānu tṛptiṃ tṛpyati prajayā paśubhirannādyena tejasā brahmavarcaseneti ‖*) (Bhā. U. 5-19-2) **NOTE**
+
+### Printed p. 285
+
+If breath is satisfied, the eye is satisfied. As the result of the eye's satisfaction, Āditya is satisfied. Because Āditya is satisfied, the world of heaven is gratified. Then all the things that stand in the support of the world of heaven and in the support of Āditya attain contentment. Together with these, the Self, who is of the form of breath, also gains increase along with offspring, cattle and wealth, and further gains excellent knowledge.
+
+अथ यां द्वितीयां जुहुयात्तां जुहुयाद्वानाय स्वाहेति व्यानस्त्रृप्यति । व्याने तृप्यति शोत्रं तृप्यति शोत्रे तृप्यति चंद्रमास्तृप्यति चंद्रमसि तृप्यति दिशस्त्रप्यंति दिक्षु तृप्यंतीषु यत्किंच दिशश्च चंद्रमाश्चाधितिष्ठंति तत्तृप्यति तस्यानुतृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति । (*atha yāṃ dvitīyāṃ juhuyāttāṃ juhuyādvānāya svāheti vyānastrṛpyati | vyāne tṛpyati śotraṃ tṛpyati śotre tṛpyati caṃdramāstṛpyati caṃdramasi tṛpyati diśastrapyaṃti dikṣu tṛpyaṃtīṣu yatkiṃca diśaśca caṃdramāścādhitiṣṭhaṃti tattṛpyati tasyānutṛptiṃ tṛpyati prajayā paśubhirannādyena tejasā brahmavarcaseneti |*) (Cha. U. 5-21) **NOTE**
+
+The second oblation is to be offered to the diffused breath. Because there is a close connection between the diffused breath and the organ of hearing, the organ of hearing is satisfied. As the result of that, the moon is satisfied. Because the moon is delighted, all the directions are gratified. As the result of the satisfaction of the directions, all things that rest on the moon and on the directions attain satisfaction. As the result of that, the Self who makes the oblation gains increase of wealth such as cattle and sons, and the gain of excellent knowledge.
+
+अथ यां तृतीयां जुहुयात्तां जुहुयादपानाय स्वाहेत्यपानस्तृप्यति । आपाने तृप्यति वाक् तृप्यति वाचि त्यप्यंतामग्निस्तृप्यत्यग्नौ तृप्यति पृथिवी तृप्यति पृथिव्यां तृप्यंतां यत्किंच पृथिवी चाग्निश्चाधितिष्ठतस्तत्तृप्यति तस्यानु तृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेनेति ॥ (*atha yāṃ tṛtīyāṃ juhuyāttāṃ juhuyādapānāya svāhetyapānastṛpyati | āpāne tṛpyati vāk tṛpyati vāci tyapyaṃtāmagnistṛpyatyagnau tṛpyati pṛthivī tṛpyati pṛthivyāṃ tṛpyaṃtāṃ yatkiṃca pṛthivī cāgniścādhitiṣṭhatastattṛpyati tasyānu tṛptiṃ tṛpyati prajayā paśubhirannādyena tejasā brahmavarcaseneti ‖*) (Chā. U. 5-2-) **NOTE**
+
+The third oblation is to be offered to the downward breath. By it the downward breath is satisfied. Because the downward breath is satisfied, contentment comes to speech. As the result of the satisfaction of speech, satisfaction comes to Agni. Then satisfaction comes to the earth. As the result of that, the Self who makes the oblation gains increase of wealth in the form of cattle and sons, and increase of excellent knowledge.
+
+अथ यां चतुर्थी जुहुयात्तां जुहुयात्समानाय स्वाहेति समानस्यप्यति । समाने तृप्यति मनसि तृप्यति पर्जन्यस्यप्यति पर्जन्ये तृप्यति विद्युत्तृप्यति विद्युति तृप्यंत्यां यत्किंच विद्युच्च पर्जन्यश्चाधितिष्ठतस्तत्तृप्यति तस्यानु तृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजना ब्रह्मवर्चसेनेति ॥ (*atha yāṃ caturthī juhuyāttāṃ juhuyātsamānāya svāheti samānasyapyati | samāne tṛpyati manasi tṛpyati parjanyasyapyati parjanye tṛpyati vidyuttṛpyati vidyuti tṛpyaṃtyāṃ yatkiṃca vidyucca parjanyaścādhitiṣṭhatastattṛpyati tasyānu tṛptiṃ tṛpyati prajayā paśubhirannādyena tejanā brahmavarcaseneti ‖*) (Bhā. U. 5-21)
+
 ---
 
-**Progress note:** Done through printed p. 278. Ṛk 3 Pada, bhāṣya, Kannada, special topics on Viśvakarman (Upaniṣad quotations)
+**Progress note:** Done through printed p. 285. Viśvakarman sūkta Special Topics Q&A (Bṛ. U.), Ṛk 4 with Chāndogya quotations
