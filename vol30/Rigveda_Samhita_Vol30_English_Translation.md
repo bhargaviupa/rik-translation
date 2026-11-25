@@ -30250,6 +30250,196 @@ May the celestial Gandharva Viswavasu, the measurer of the water, declare to us 
 
 सस्निं (*sasniṃ*) is the cloud, purified by waters, the one who firmly establishes the whole world (root स्ना (*snā*) in the sense of purity). Indra found (अविंदत् (*aviṃdat*)) it in the चरणे (*caraṇe*), the place of movement, the firmament, of the sounding waters, the rivers (नदीनां (*nadīnāṃ*)). Having found it, he opened (अवृणोत् (*avṛṇot*)) the doors (दुरः (*duraḥ*)), the places of exit from the cloud, of the waters that go there: अश्वव्रजानां (*aśvavrajānāṃ*) is explained as "of those that move in the अश्मा (*aśmā*), the cloud", or else "of waters whose व्रज (*vraja*), stall or dwelling, is the cloud". Another explanation: while the rivers such as the Gaṅgā and Yamunā, going over stones (अश्मसु (*aśmasu*)) or moving far-reaching, are in motion for flowing, Indra for that purpose found the cloud and opened the doors of the cloud, the means of exit of the waters in it. Further, Indra, existing in the form of the Gandharva, the bearer of the गो (*go*) and vajra, declares (प्र वोचत् (*pra vocat*)) the immortal waters of these rivers, those that cause deathlessness; he permits them to flow forth. Likewise दक्षं (*dakṣaṃ*) ….
 
+### Printed p. 910
+
+> दक्षो वर्षणसमर्थो मेघः । तादृशं मेघमहीनां मेघानां मध्यॆ परि
+> जानात् । परितः सर्वतो जानाति ॥ ज्ञा अवबोधने । लेट्यडागमः । ज्ञाजनोर्जेति जादेशः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the gloss. *dakṣaḥ* is the cloud able to cause rain. Indra knows such a cloud completely among the clouds (अहीनां (*ahīnāṃ*)). परि जानात् (*pari jānāt*) means "knows on every side"; it comes from the root ज्ञा (*jñā*) in the sense of knowing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सस्निं (*sasniṃ*)—the cloud that drenches everything with streams of water (the cloud)
+- नदीनां (*nadīnāṃ*)—of the sounding waters
+- चरणे (*caraṇe*)—what is in the atmosphere, the place of their movement
+- अविंदत् (*aviṃdat*)—Indra found (came to know)
+- अश्वव्रजानां (*aśvavrajānāṃ*)—of the waters in the multitudes of clouds
+- दुरः (*duraḥ*)—the doors through which they come out
+- अप अवृणोत् (*apa avṛṇot*)—he unfastened and opened
+- आसां (*āsāṃ*)—of these rivers
+- अमृतानि (*amṛtāni*)—the waters like ambrosia
+- गंधर्वः (*gaṃdharvaḥ*)—in the form of the Gandharva Viśvāvasu
+- इंद्रः (*iṃdraḥ*)—Indra
+- प्र वोचत् (*pra vocat*)—he has known how to bring them flowing
+- अहीनां (*ahīnāṃ*)—among the clouds
+- दक्षं (*dakṣaṃ*)—which cloud can pour rain
+- परि जानात् (*pari jānāt*)—Indra knows
+
+##### भावार्थ (Bhāvārtha)
+
+Among the waters that make sounds such as lightning and thunder and move in the atmosphere, Indra found the cloud able to pour rain and drench everything. He opened doors so that the waters in those clouds might come down. Indra, in the form of the Gandharva Viśvāvasu, has known how to make these ambrosial rain-waters flow as rivers. He has known which cloud, among the many clouds in the atmosphere, is full of water and able to pour rain.
+
+##### English translation
+(Indra) discovered the cloud in the region of the rivers, he set open the portals of (the waters) whose dwelling is in the clouds; Indra, (in the form of) the Gandharva (Viswavasu), proclaimed the ambrosial (waters), he knew the strength of the dragons.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the phrase in this Ṛk, सस्निमविंदच्चरणे नदीनां (*sasnimaviṃdaccaraṇe nadīnāṃ*), Yāska gives the Nirukta: सस्निमविंदच्चरणे नदीनां । सस्निं संस्नातं मेघं (*sasnimaviṃdaccaraṇe nadīnāṃ | sasniṃ saṃsnātaṃ meghaṃ*) (Ni. 5-1). The word सस्नि (*sasni*) means "bathed, drenched" with waters. Or the cloud is called सस्नि (*sasni*) because it can drench everything with streams of water. That power of drenching belongs also to reservoirs such as rivers. But here प्रकरणसामर्थ्याच्छब्दोऽप्यर्थांतरं भजते (*prakaraṇasāmarthyācchabdo 'pyarthāṃtaraṃ bhajate*): according to context a word can be given many kinds of meaning. Therefore सस्नि (*sasni*) is here explained as the cloud.
+
+### Printed p. 911
+In सस्निं अंविदत् चरणे नदीनां (*sasniṃ aṃvidat caraṇe nadīnāṃ*) the commentator says that the word नदीनां (*nadīnāṃ*) is derived from the root नद (*nada*) (to sound). The waters in the atmosphere in the form of clouds make sounds called lightning and thunder, so "sounding waters" is said here. सस्नि (*sasni*) means having the power to drench, that is, full of water. Though there are many cloud-masses in the atmosphere, not all can pour rain; only some, full of water (looking dark), have the power of pouring rain. The chief sense of the sentence is that Indra knows which cloud has that power.
+
+In अपावृणोत् दुरो अश्वव्रजानां (*apāvṛṇot duro aśvavrajānāṃ*) the words अश्व (*aśva*) and व्रज (*vraja*) are read among the names of the cloud. So अश्व (*aśva*) may be taken as cloud and व्रज (*vraja*) as multitude: "of the multitudes of clouds". The waters in clouds do not always fall as rain; they may stay in the clouds a long time. So Indra made an opening in the lower part of the clouds, and opened it wide, so that the waters might fall downward on the earth.
+
+In प्र आसां गंधर्वो अमृतानि वोचत् (*pra āsāṃ gaṃdharvo amṛtāni vocat*) the word गंधर्व (*gaṃdharva*) is explained as Indra, or Indra in the form of a Gandharva. इंद्रो गंधर्वः तस्य मरुतोऽप्सरसः (*iṃdro gaṃdharvaḥ tasya maruto 'psarasaḥ*): it is well known that Gandharvas are always accompanied by Apsarases. Here, if Indra is a Gandharva, the Marut deities are with him, so they are taken as the Apsarases, and Indra is described by the word गंधर्व (*gaṃdharva*). The word अमृत (*amṛta*) means waters, sweet waters like ambrosia; अमृत (*amṛta*) is also read among the names of water. प्र वोचत् (*pra vocat*), "Indra said", means: आसां प्रजानां जीवध्वमेभिरुदुकैरस्सद्दत्तैरिति (*āsāṃ prajānāṃ jīvadhvamebhirudukairassaddattairiti*), "O creatures, live by these waters given through our (Indra's) grace."
+
+In इंद्रो दक्षं परि जानादहीनां (*iṃdro dakṣaṃ pari jānādahīnāṃ*): of the clouds in the atmosphere some cannot pour rain, some full of water can. So the sense of this sentence is that Indra can know which cloud among the many can pour rain. The word दक्ष (*dakṣa*) means the cloud having the power of pouring rain.
+
+### Printed p. 912
+## Sūkta 140 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने तवेति षड्यचं द्वादशं सूक्तं । पावकगुणविशिष्टोऽग्नि र्यषिः । शुद्धाग्निर्देवता। आद्या विष्णारपंक्तिरष्टकद्विद्वादशाष्टकवती । अथ तिस्रः सतोबृहत्योऽयुजौ
+> जागत् । अनु ८-४ । इति लक्षणोपेताः । पंचम्युपरिष्वाज्योतिः । षष्ठि त्रिष्टुप् ।
+> तथा चानुक्रांतं । अग्ने तवाग्नि । पावक अग्नेयं विष्णारपंक्तिस्तिस्त्रः सतोबृहत्य उपरिष्टाज्योतिरिति ॥ महाव्रत आग्निमारुतशस्त्र इदं सूक्तं स्तोत्रियानुरूपार्थं ।
+> तथैव पंचमारण्यके सूत्रितं ॥ ऐ. आ. ५-३-२ ।
+
+##### Gist of the bhāṣya
+
+This sūkta, अग्ने तव (*agne tava*), has six Ṛks and is the twelfth sūkta. The seer is Agni, endowed with the quality of purifying (पावक (*pāvaka*)); the deity is Agni, the pure fire. The first Ṛk is विष्णारपंक्ति (*viṣṇārapaṃkti*) with the pattern 8, 12, 12, 8. The next three are सतोबृहती (*satobṛhatī*), defined by अयुजौ जागत् (*ayujau jāgat*) (Anu. 8-4). The fifth is उपरिष्टाज्योतिः (*upariṣṭājyotiḥ*); the sixth is त्रिष्टुप् (*triṣṭup*). He cites the Anukramaṇī. Use: in the Mahāvrata, in the Āgnimāruta śastra, for the स्तोत्रियानुरूप (*stotriyānurūpa*) verses, as laid down in the fifth Āraṇyaka (Ai. Ā. 5-3-2).
+
+**Printed Kannada Anuvāda**
+This sūkta अग्ने तव (*agne tava*) is the twelfth sūkta in the eleventh Anuvāka, with six Ṛks. Its seer is Agni, the purifier. The deity is Agni. The first Ṛk is in the metre विष्टारपंक्ति (*viṣṭārapaṃkti*): four pāda-s, the first of eight syllables, the second and third of twelve each, the last of eight. The next three Ṛks, 2–4, are सतोबृहती (*satobṛhatī*), whose rule is अयुजौ जागत् (*ayujau jāgat*) (Anu. 8-4): the odd pādas (1 and 3) are like the jagatī. The fifth is उपरिष्टाज्योतिः (*upariṣṭājyotiḥ*), the sixth त्रिष्टुप् (*triṣṭup*). The Anukramaṇī says: अग्ने तवाग्निः पावकआग्नेयं विष्टारपंक्ति स्त्रिसः सतोबृहत्य उपरिष्टाज्योतिः (*agne tavāgniḥ pāvakaāgneyaṃ viṣṭārapaṃkti strisaḥ satobṛhatya upariṣṭājyotiḥ*). In the Mahāvrata rite, at the recitation of the Āgnimāruta śastra, this sūkta is used for the स्तोत्रियानुरूप (*stotriyānurūpa*) mantras, as indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka (Ai. Ā. 5-3-2).
+
+Maṇḍala 10; Anuvāka 11; Sūkta 140; Aṣṭaka 8; Adhyāya 7; Varga 28. Number of Ṛks in the sūkta: 6. Ṛṣi: Agni Pāvaka. Deity: Agni. Metre: 1 Viṣṭārapaṅkti; 2–4 Satobṛhatī; 5 Upariṣṭājjyotiḥ; 6 Triṣṭup.
+
+### Printed p. 913
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ तव॒ श्रवो॒ वयो॒ महि॑ भ्राजंते अ॒र्चयो॑ विभावसो ।  
+> बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थं१॒॑ १ दधा॑सि दा॒शुषे॑ कवे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । तव । श्रवः । वयः । महि । भ्राजंते । अर्चयः । विभावसो इति विभावसो ।  
+> बृहद्भानो इति बृहत् ऽभानो । शवसा । वाजं । उक्ष्यं । दधासि । दाशुषे । कवे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आग्ने तव वयोऽन्नं श्रवः श्रवणीयं प्रशस्यं । हविरात्मकस्य तस्य मंत्रसंस्कृतत्वेन प्रशस्तत्वात् । अन्नेषु मध्यॆ तवैवान्नं श्रेष्ठमित्यर्थः । हे विभावसो ।
+> विशिष्टा दीप्तिर्विभा । सैव वसुर्धनं यस्य तादृशाग्ने अर्चयो दीप्तयो महि
+> महद्बहुलं भ्राजंते ! दीप्यंते ॥ भाज्य दीप्तौ । अनुदात्तेत् । भौवादिकः ॥ हे
+> बृहद्भानो प्रौढदीप्ते कवे क्रांतदर्शिन्नग्ने एवं महानुभावस्त्वं शवसा
+> बलेनोपेतमुक्थ्यं प्रशस्यं । यद्वा । उक्थो यज्ञः । तद्योग्यं वाजमन्नं
+> दाशुषे हवींषि दत्तवते यजमानाय दधासि । ददासि । प्रयच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, your food (वयः (*vayaḥ*)) is श्रवः (*śravaḥ*), praiseworthy, since the oblation, being consecrated by mantra, is praised; of all foods yours is the best. O विभावसो (*vibhāvaso*), whose wealth is special radiance (विभा (*vibhā*)), your flames blaze greatly (महि (*mahi*)); भ्राजंते (*bhrājaṃte*) means "shine", from भाज्य दीप्तौ (*bhājya dīptau*), first class. O बृहद्भानो (*bṛhadbhāno*) of mature radiance, O कवे (*kave*) far-seeing Agni, being so great you give (दधासि (*dadhāsi*) = ददासि (*dadāsi*), प्रयच्छसि (*prayacchasi*)) to the sacrificer (दाशुषे (*dāśuṣe*)) who has given oblations food (वाजं (*vājaṃ*)) endowed with strength (शवसा (*śavasā*)) and praiseworthy (उक्ष्यं (*ukṣyaṃ*)). Or else उक्थ (*uktha*) is sacrifice, and the food is fit for it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- तव (*tava*)—your (the oblation-food offered to you)
+- वयः (*vayaḥ*)—food
+- श्रवः (*śravaḥ*)—praiseworthy
+- विभावसो (*vibhāvaso*)—O Agni whose wealth is radiance
+- अर्चयः (*arcayaḥ*)—your flames
+- महि (*mahi*)—greatly
+- भ्राजंते (*bhrājaṃte*)—shine
+- बृहद्भानो (*bṛhadbhāno*)—you who shine with surpassing brilliance
+- कवे (*kave*)—O far-seeing Agni, you
+- शवसा (*śavasā*)—endowed with strength (nourishing)
+- उक्ष्यं (*ukṣyaṃ*)—and praiseworthy
+- वाजं (*vājaṃ*)—food
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblation to you
+- दधासि (*dadhāsi*)—you give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the oblation-food offered to you is praiseworthy. O Agni whose wealth is radiance, your flames shine abundantly. O Agni, shining with surpassing brilliance and far-seeing, you give nourishing and praiseworthy food (or sacrifice) to the sacrificer who offers oblation to you.
+
+### Printed p. 914
+
+##### English translation
+Yours, Agni, is the most excellent sacrificial food; your flames, O opulent in radiance, blaze fiercely; wise and widely luminous (Agni), you bestow upon the donor (of the oblation) the choicest food with strength.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒व॒कव॑र्चाः शु॒क्रव॑र्चा॒ अनू॑नवर्चा॒ उदि॑यर्षिभा॒नुना॑ ।  
+> पु॒त्रो मा॒तरा॑ वि॒चर॒न्नु पा॑वसि पृ॒णक्षि॒ रोद॑सी उ॒भे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पावकवर्चाः । शुक्रवर्चाः । अनूनवर्चाः । उत् । इयर्षि । भानुना ।  
+> पुत्रः । मातरा । विचरन् । उप । अवसि । पृणक्षि । रोदसी इति । उभे इति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पावकवर्चाः शोधकदीप्तिः शुक्रवर्चा निर्मलतेजस्कोऽनूनवर्चाः संपूर्णतेजस्कः । हे अग्ने ईदृशस्त्वं भानुना तेजसोदियर्षि । उद्धच्छसि ॥ ऋ सृ गतौ
+> जौहोत्यादिकः । अर्तिपिपर्त्योश्चेत्यभ्यासस्यॆत्वं ॥ स त्वं पुत्रः सन् मातरा मातृभूते अरण्य विचरन् यागावसाने विशेषेण प्राप्पुवन्नु पावसि । उपगतान्यजमानान्रक्षसि । तथोभे रोदसी द्यावापृथिव्यौ पृणक्षि । संयोजयसि । हविषा
+> द्युलोकं वृष्ट्येमं लोकं च पूरयसीत्यर्थः ॥ पृची संपर्के । रौधादिकः ॥
+
+##### Gist of the bhāṣya
+
+पावकवर्चाः (*pāvakavarcāḥ*) has purifying lustre, शुक्रवर्चाः (*śukravarcāḥ*) spotless lustre, अनूनवर्चाः (*anūnavarcāḥ*) full lustre. O Agni, being such, you rise up (उदियर्षि (*udiyarṣi*), "you go up", from ऋ सृ गतौ (*ṛ sṛ gatau*), juhotyādi) with splendour (भानुना (*bhānunā*)). As a son, ranging between your two mothers, the forest-born fire-sticks, at the end of the sacrifice you reach them specially and protect (अवसि (*avasi*)) the sacrificers who have come near. Also you fill (पृणक्षि (*pṛṇakṣi*), "unite", from पृची संपर्के (*pṛcī saṃparke*), rudhādi) both heaven and earth (रोदसी (*rodasī*)): the world of heaven with the oblation, this world with rain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पावकवर्चाः (*pāvakavarcāḥ*)—having purifying radiance
+- शुक्रवर्चाः (*śukravarcāḥ*)—shining with spotless brilliance
+- अनूनवर्चाः (*anūnavarcāḥ*)—shining with full (undiminished) light; O Agni, you
+- भानुना (*bhānunā*)—together with splendour
+- उदियर्षि (*udiyarṣi*)—you become manifest (rise from the fire-sticks)
+- पुत्रः (*putraḥ*)—you, in the place of a son
+- मातरा (*mātarā*)—in the fire-sticks that are like mothers to you
+- विचरन् (*vicaran*)—going (at the end of the sacrifice) and joining
+- उप अवसि (*upa avasi*)—you protect the sacrificers near you, and
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- पृणक्षि (*pṛṇakṣi*)—you fill the world of heaven with oblation, and the earth with rain
+
+### Printed p. 915
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of purifying radiance, shining with spotless brilliance and full light, you are born from the fire-sticks together with your splendour. You, who are in the place of a son to the fire-sticks, at the end of the sacrifice go and join them, your mothers, and protect the sacrificer. You fill both heaven and earth: you unite and nourish the world of heaven (the gods) with oblation and the earth with rain.
+
+##### English translation
+Agni you are of purifying radiance, of unsoiled Instre, of full brightness, you issue forth with splendour; visiting your parents (like) a son, you protect (the worshippers). you unite both heaven and earth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऊर्जो॑ नपाज्जातवेदः सुश॒स्तिभि॒र्मंद॑स्व धी॒तिभि॑र्हि॒तः ।  
+> त्वे इषः॒ सं द॑धु॒र्भूरि॑वर्पसश्चि॒त्रोत॑यो वा॒मजा॑ताः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऊर्जः । नपात् । जातवेदः । सुशस्तिभिः । मंदस्व । धीतिभिः । हितः ।  
+> त्वे इति । इषः । सं । दधुः । भूरिवर्पसः । चित्रऊतयः । वामजाताः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऊर्जो नपादूर्जोऽन्नस्य पार्थिवस्यारण्यादेः पुत्र हे जातवेदो
+> जातानां वेदितरग्ने सुशस्तिभिरस्माभिः क्रियमाणैर्मंदस्व । मोदस्व । तथा धीतिभिः
+> कर्मभिरस्माभिः क्रियमाणैरग्निहोत्रादिभिः कर्मभिर्हितः सुहितस्तृप्तो भव । अपि च
+> भूरिवर्पसः । वर्ष इति रूपनाम । बहुविधरूपाश्चित्रोतयः चित्रा विचित्रोतिस्तृप्तिर्यासां तास्त्रथोक्ता वामजाताः वामं वननीयं जातं जन्म यासां
+> तादृशीरिषोऽन्नानि हविर्लक्षणानि त्वे त्वय्येव सं दधुः । संदधति । सम्यग्हुश्वति
+> यजमानाः । यद्वा । भूरिवर्पस इत्यादिकं कर्तृविशेषणं । तदानीं चित्रोतय
+> इत्यस्य विचित्ररक्षा इति योज्यं ॥
+
+##### Gist of the bhāṣya
+
+O ऊर्जः । नपात् (*ūrjaḥ | napāt*), son of earthly food (ऊर्जः (*ūrjaḥ*)) such as the forest wood, O जातवेदः (*jātavedaḥ*), knower of all born things, Agni: rejoice (मंदस्व (*maṃdasva*) = मोदस्व (*modasva*)) in the praises (सुशस्तिभिः (*suśastibhiḥ*)) we make, and be well pleased and satisfied (हितः (*hitaḥ*)) with the rites (धीतिभिः (*dhītibhiḥ*)) such as the Agnihotra performed by us. Moreover the foods (इषः (*iṣaḥ*)) in the form of oblations, which are of many forms (भूरिवर्पसः (*bhūrivarpasaḥ*); वर्ष (*varṣa*) is a name for form), of wonderful satisfaction (चित्रोतयः (*citrotayaḥ*)), and of lovely birth (वामजाताः (*vāmajātāḥ*)), the sacrificers place together in you alone (त्वे (*tve*) = *tvayi*; सं दधुः (*saṃ dadhuḥ*) = संदधति (*saṃdadhati*)). Or else भूरिवर्पसः (*bhūrivarpasaḥ*) and so on is an epithet of the agent, and then चित्रोतयः (*citrotayaḥ*) is to be construed as "of wonderful protection".
+
 ---
 
-**Progress note:** Done through printed p. 909. pp. 904-909 (batch API)
+**Progress note:** Done through printed p. 915. pp. 910-915 (batch API)
