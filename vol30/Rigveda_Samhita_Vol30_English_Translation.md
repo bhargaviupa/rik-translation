@@ -938,6 +938,200 @@ Urvaśī says: "A union with these (women) was experienced by you." When this Pu
 - महे (*mahe*)—great
 - रणाय (*raṇāya*)—for
 
+### Printed p. 32
+(Urvaśī:) As soon as he was born, the wives of the gods surrounded him, and the spontaneously flowing rivers nourished him. O Pururavas, for a great battle, and for the destruction of the Dasyus, the gods made you grow strong.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यद्धार्थवागियू (*yaddhārthavāgiyū*)—for the sake of battle
+- दस्युहत्याय (*dasyuhatyāya*)—for the destruction of the Dasyus
+- त्वा (*tvā*)—you
+- देवाः (*devāḥ*)—the gods
+- अवर्धन् (*avardhan*)—made you grow strong and thrive
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvaśī:) As soon as this Pururavas was born, the wives of the gods surrounded him. The spontaneously flowing rivers nourished him. O Pururavas, for a great battle and for the destruction of the Dasyu people, the gods made you grow strong.
+
+##### English translation
+(Urvashi :) As soon as he was born the wives (of the gods) surrounded him, the spontaneously flowing rivers nourished him, for the gods reared you, Pururavas, for a mighty conflict, for the slaughter of the Dasyus.
+
+##### विशेषविषयगळु (Special Topics)
+
+As an example of a Ṛk in which the word पुरूरवाः (*purūravāḥ*) is used, Yāska gives an etymology on this Ṛk:
+समासतास्मिञ्चायमाने ग्ना गमनादापः । देवपत्न्यो वापि चैनमवर्धयन्नद्यः स्वगूर्ताः स्वयंगामिन्यो वहते च यत्त्वा पुरूरवो रणाय रमणीयाय संग्रामायावर्धयन् दस्युहत्याय च देना देवाः ॥ (*samāsatāsmiñcāyamāne gnā gamanādāpaḥ | devapatnyo vāpi cainamavardhayannadyaḥ svagūrtāḥ svayaṃgāminyo vahate ca yattvā purūravo raṇāya ramaṇīyāya saṃgrāmāyāvardhayan dasyuhatyāya ca denā devāḥ ‖*) (Ni. 10-47)
+Here it is said that as soon as this Pururavas was born, all the wives of the gods gathered together at one place and made him grow; or else, since waters have the nature of flowing, ग्ना (*gnā*) is the name for waters (above it was explained as "wives of the gods"); the rivers, full of such waters and flowing of themselves, made this Pururavas grow. In this context the word Pururavas must be explained as the thunderbolt that makes much noise, that is, the middle Agni. The meaning can be given that the rivers, that is, the waters (नदना आपः (*nadanā āpaḥ*)), made this middle Agni grow in the rainy season.
+In the latter half too, two kinds of meaning can be given. One meaning: the wives of the gods, the rivers and the gods nourished and reared this newly born Pururavas to fight enemies in delightful battles and to slay the Dasyu people.
+Another meaning: taking Pururavas as the thunderbolt or lightning (middle Agni) that makes much noise, the gods made it grow so as to roar and fight with the clouds, and for the slaying of the cloud (Dasyu).
+
+### Printed p. 33
+The main purport is this: in this Ṛk the word Pururavas is given two kinds of meaning, the king named Pururavas and the lightning in the atmosphere, or middle Agni. Because this middle Agni (thunderbolt) makes much noise, it is called here by the name Pururavas: puru, "much", rava, "noisy".
+In the sense of Pururavas the king: as soon as this king was born, the wives of the gods and the deities presiding over the rivers, all gathering together, nourished and reared him so that, becoming king, he might be able to conquer enemies in battle and slay the Dasyu people.
+In the sense of Pururavas as middle Agni: in the rainy season the waters in the form of clouds (ग्नाः (*gnāḥ*) and नद्यः (*nadyaḥ*)) made this middle Agni grow, which roars much and strikes the clouds. That is, the lightning or middle Agni appearing amid the clouds in the rainy season grows, roaring from time to time and striking the clouds (fighting).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सचा॒ यदा॑सु॒ जह॑ती॒ष्वत्क॒ममा॑नुषेषु॒ मानु॑षो नि॒षेवे॑ ।  
+> अप॑ स्म॒ मत्त॒रसं॑ती॒ न भु॒ज्युस्ता अ॑त्रसन्नथ॒स्पृशो॒ नाश्वाः॑ ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सचा । यत् । आसु । जहतीषु । अत्कं । अमानुषेषु । मानुषः । निसेवे ।  
+> अप । स्म । मत् । तरसंती । न । भुज्युः । ताः । अत्रसन् । रथस्पृशः । न । अश्वाः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादित्रीण्यैळवाक्यानि । तत्रादितो द्वाभ्यामुर्वशीमन्याश्च सह स्तौति ।
+> यद्यदा सचा सहायभूतः पुरूरवा अत्कं स्वकीयं रूपं । अत्क इति रूपनाम ।
+> जहतीषु परित्यजंतीष्वमानुषीषु देवताभूतास्वप्सरःसु मानुषः सन्निषेवे
+> अभिमुखं गच्छति तदानीं ता अप्सरसो मन्मत्तोऽपापसृत्यात्रसन् । त्रसतिर्गतिकर्मा।
+> 3
+
+##### Gist of the bhāṣya
+
+This and the next two Ṛks are the speeches of Aiḷa (Pururavas). Of these, the first two praise Urvaśī and the others together. When Pururavas, as companion, a mortal, comes face to face with these non-human nymphs, divine beings, who are abandoning their own form (अत्क (*atka*) is a name for form), those Apsarases flee away from him. त्रसति (*trasati*) has the sense of going.
+### Printed p. 34
+
+> गच्छंति । पलायने दृष्टांतः । तरसंती भुज्युर्न । तरसन्नाम मृगः । तस्य स्त्री
+> भुज्युर्भोगसाधनभूता स्त्री मृगी । सा यथा व्याधाद्भीता पलायते । किंच
+> रथस्पृशो नाश्वा रथे नियुक्ता अश्वा इव । यथा ते पलायंते तद्वत्पलायंत
+> इति । उर्वश्यानेकाभिरस्माभिः सह भोगमनुभुक्तवानसीत्युक्तः प्रत्याचष्टे ॥
+
+##### Gist of the bhāṣya
+
+An illustration of the flight is given: like a female तरसन् (*tarasan*), a kind of deer; भुज्युः (*bhujyuḥ*) is the woman who serves for enjoyment, here the doe. As she flees in fear of the hunter, so they flee; and like horses yoked to a chariot, as those run away, so they ran. Being told by Urvaśī, "You have enjoyed pleasure with us, many as we are," he replies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- मानुषः (*mānuṣaḥ*)—Pururavas, in human form
+- अत्कं (*atkaṃ*)—their own form
+- जहतीषु (*jahatīṣu*)—who had abandoned (it)
+- आसु अमानुषेषु (*āsu amānuṣeṣu*)—with these divine women
+- सचा (*sacā*)—joining
+- निषेवे (*niṣeve*)—became face to face with them; then
+- ताः (*tāḥ*)—those divine women
+- मत् (*mat*)—leaving me
+- तरसंति भुज्युः न (*tarasaṃti bhujyuḥ na*)—like a frightened doe
+- रथस्पृशः अश्वाः न (*rathaspṛśaḥ aśvāḥ na*)—like horses harnessed to a chariot
+- अप अत्रसन् (*apa atrasan*)—fled in fright
+
+##### भावार्थ (Bhāvārtha)
+
+(Pururavas:) When Pururavas, in human form, joined these divine women who had abandoned their bodies and came face to face with them, those divine women left me and fled in fright, like a frightened doe and like horses harnessed to a chariot.
+
+##### English translation
+(Pururavas:) When, becoming there companion, (Pururavas) the mortal associated with these immortal (nymphs) who had abandoned their bodies, they fled from me like a timid doe, like horses harnessed to a chariot.
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk and the next two are the words of Pururavas, son of Iḷā. In the first two Ṛks (Ṛks 8–9) Pururavas speaks of Urvaśī and the other Apsaras women.
+While all those divine women, that is, those born of the gods, who are not human, were together, I, a human (Pururavas), went towards them showing them my own body; then all those Apsaras women moved away from me and fled. How did they flee? As a doe of the kind called तरसत् (*tarasat*), seeing a hunter, flees in fear, or as horses yoked to a chariot (urged by the charioteer) run swiftly, so
+### Printed p. 35
+these Apsaras women also left me, moved far off and fled. Pururavas says that on seeing me, a human, these Apsaras women, born of divine bodies, quickly ran away from there.
+अत्कं (*atkaṃ*)—अत्कं इति रूपनाम । (*atkaṃ iti rūpanāma |*) अत्क (*atka*) means form, shape. Here it means the bodies of the divine women.
+आसु जहतीषु अमानुषीषु (*āsu jahatīṣu amānuṣīṣu*)—the purport is that these non-human Apsaras women, seeing the man (Pururavas) coming towards them (मानुषो निषेवे (*mānuṣo niṣeve*)), abandoned the place and went away.
+तरसंती न भुज्युः (*tarasaṃtī na bhujyuḥ*)—भुज्युर्भोगसाधनभूता स्त्रीमृगी (*bhujyurbhogasādhanabhūtā strīmṛgī*): भुज्यु (*bhujyu*) means the woman who serves for enjoyment; here, the doe of the kind तरसंती (*tarasaṃtī*). As this doe, on seeing the hunter, runs away in fear that he will kill her, so, the seer describes by illustration, these Apsaras women ran away on seeing the human Pururavas.
+रथस्पृशो न अश्वाः (*rathaspṛśo na aśvāḥ*)—a further illustration of running away is given here. As horses yoked to a chariot, urged by the stroke of the charioteer's whip, run swiftly, so these Apsaras women also ran away from Pururavas's presence.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदा॑सु॒ मर्तो॑ अ॒मृता॑सु नि॒स्पृक्सं क्षो॒णीभिः॒ क्रतु॑भि॒र्न  ॒
+> प्रंक्ते ।  
+> ता आ॒तयो॒ न त॒न्वः॑ शुंभत॒ स्वा अश्वा॑सो॒ न क्री॒ळयो॒ दंद॑शानाः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । आसु । मर्तः । अमृतासु । निस्पृक् । क्षोणीभिः । क्रतुभिः । न । पृंक्ते ।  
+> ताः । आतयः । न । तन्वः । शुंभत । स्वाः । अश्वासः । न ! क्रीळयः । दंदशानाः ॥ ९ ॥
+
+### Printed p. 36
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदास्वमृतास्वप्सरःसु मर्तो मनुष्यः पुरूरवा निस्पृक् निःशेषेण
+> स्पृशन् क्षोणीभिर्वाग्निः क्रतुभिर्न कर्मभिश्च सं पृंक्ते संपर्कं करोति । नकारः
+> समुच्चयार्थः । ता अप्सरस आतय आतिभूतास्तदानीं स्वास्तन्व आत्मीयानि रूपाणि न
+> शुंभत । न प्रकाशयंति । अश्वासो नाश्वा इव क्रीळयः संक्रीडमाना दंदशाना
+> दंदशूका जिह्वाभिरात्मीयाः सृक्वा भक्षयंतः । ते यथा चापल्येन धावंतः
+> स्वरूपं न प्रयच्छंति रथिकाय तद्वदिति दुःखाद्ब्रूते ॥
+
+##### Gist of the bhāṣya
+
+When a mortal, the human Pururavas, in close touch with these immortal Apsarases, comes into contact with them by speech (क्षोणीभिः (*kṣoṇībhiḥ*), taken as *vāgbhiḥ*) and by actions (क्रतुभिः (*kratubhiḥ*)), the particle न (*na*) having the sense of conjunction, then those Apsarases, having become आति (*āti*) birds, do not display their own bodies, their own forms. Like horses playing, दंदशानाः (*daṃdaśānāḥ*), biting, devouring with their tongues, which run in wantonness and do not give their own form to the charioteer, so they do. Thus he speaks out of grief.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- अमृतासु (*amṛtāsu*)—who are free from mortality
+- आसु (*āsu*)—with these Apsaras women
+- मर्तः (*martaḥ*)—the human Pururavas
+- निस्पृक् (*nispṛk*)—joining
+- क्षोणीभिः (*kṣoṇībhiḥ*)—by words
+- ऋतुभिः न (*ṛtubhiḥ na*)—and also by actions
+- सं पृंक्ते (*saṃ pṛṃkte*)—comes into contact; then
+- ताः (*tāḥ*)—these same Apsaras women
+- आतयः (*ātayaḥ*)—in the form of water-fowl
+- स्वाः तन्नः (*svāḥ tannaḥ*)—their own bodies
+- क्रीळयः (*krīḷayaḥ*)—playing
+- दंदशानाः (*daṃdaśānāḥ*)—grazing with grass held in their jaws
+- अश्वासो न (*aśvāso na*)—like horses that escape the master's grasp and run away
+- न शुंभत (*na śuṃbhata*)—run away without showing their form
+
+##### भावार्थ (Bhāvārtha)
+
+(Pururavas:) When the human Pururavas, joining these Apsaras women who are free from mortality, wishes to come into contact with them by words and by his actions, then these same Apsaras women, in the form of water-fowl, hiding their own forms, run away like horses that play, grazing, and escape the master's grasp.
+
+##### English translation
+When a mortal mixing with these immortal nymphs has converse with
+them with words and actions, they (becoming) ducks do not show their bodies
+like playful horses champing (the bit).
+
+##### विशेषविषयगळु (Special Topics)
+
+Pururavas explains the matter stated in the previous Ṛk in another manner and with another comparison. Here मर्तः (*martaḥ*) means the human Pururavas; अमृतासु (*amṛtāsu*) means the Apsaras women of the divine class, free from death. The human Pururavas, wishing for contact with the deathless Apsaras women
+### Printed p. 37
+and trying to win them over with words and with actions (gestures), they did not let him see their bodies; that is, not attached to him and not falling into his hands, they took the form of ducks or swans and fled. How did they flee? As thoroughbred horses, of a restless nature, wanting to run off biting the bit, do not act according to the mind of the charioteer but run where they like, so these Apsaras women also ran away. So Pururavas laments, afflicted with grief.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्युन्न या पतं॑ती॒ दवि॑द्यो॒द्भरं॑ती मे॒ अप्या॒ काम्या॑नि ।  
+> जनि॑ष्टो अ॒पो नर्यः॒ सुजा॑तः॒ प्रोर्वशी॑ तिरत दी॒र्घमायुः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्युत् । न । या । पतंती । दविद्योत् । भरंती । मे । अप्या । काम्यानि ।  
+> जनिष्टो इति । अपः । नर्यः । सुजातः । प्र । उर्वशी । तिरत । दीर्घं । आयुः॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयोर्वशीं स्तौति । योर्वशी विद्युन्न विद्युदिव पतंती गच्छंती
+> दविद्योत् द्योतते । किं कुर्वती । अप्या । अप इत्यंतरिक्षनाम । तत्संबंधीनि
+> व्याप्तानि ना काम्यान्यस्मदभिमतान्युदकानि ना मे मह्यं भरंती संपादयंती ।
+> यदागतायास्तस्याः सकाशादपो व्याप्तः कर्मसु नर्यो नरेभ्यो हितः सुजातः
+> सुजननः पुत्रो जनिष्टो अजनिष्ट उत्पद्यते तदानीं मनोर्वशी दीर्घमायुः
+> प्र तिरत । प्रवर्धयति । प्रजामनु प्रजायसे तदु ते मर्त्यामृतं । तै. ब्रा. १-५-५-६
+> इति हि मंत्रः ॥
+
+##### Gist of the bhāṣya
+
+With these two Ṛks he praises Urvaśī. Urvaśī, falling like lightning (विद्युन्न (*vidyunna*)), shone (दविद्योत् (*davidyot*)). Doing what? अप्या (*apyā*): अप (*apa*) is a name for the atmosphere; bringing (भरंती (*bharaṃtī*)) to me the pervading, desired waters connected with it. When, from her who has come, a son is born, pervading in rites (अपः (*apaḥ*)), beneficial to men (नर्यः (*naryaḥ*)), well-born (सुजातः (*sujātaḥ*)), then Urvaśī prolongs (प्र तिरत (*pra tirata*), प्रवर्धयति (*pravardhayati*)) a long life. He cites the mantra प्रजामनु प्रजायसे तदु ते मर्त्यामृतं । (*prajāmanu prajāyase tadu te martyāmṛtaṃ |*) (Tai. Brā. 1-5-5-6).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या (*yā*)—the Urvaśī who
+- अप्या (*apyā*)—belonging to the atmosphere
+- काम्यानि (*kāmyāni*)—and desired waters
+- मे (*me*)—to me
+- भरंती (*bharaṃtī*)—brings; she; or else, या (*yā*)—the Urvaśī who, अप्या (*apyā*)—desired by me or needed by me, मे (*me*)—my, काम्यानि (*kāmyāni*)—
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 31. pp. 25-31 (batch API)
+**Progress note:** Done through printed p. 37. pp. 32-37 (batch API)
