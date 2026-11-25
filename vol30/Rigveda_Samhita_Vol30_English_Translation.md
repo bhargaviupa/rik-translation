@@ -11871,6 +11871,175 @@ Juhū speaks indirectly: "My husband obtained me thus." O gods, formerly he, bei
 
 O gods, Bṛhaspati formerly went about as a celibate, that is, without a wife. Since for performing a sacrifice the sacrificer and his wife are both necessary, the two of them
 
+### Printed p. 319
+two principal limbs of a sacrifice. Since Bṛhaspati was without a wife, even though he worshipped the gods in the sacrifices with praises and with oblations, that became only one limb of the sacrifice. Because there was no wife, it was as if the two limbs had not been performed. Therefore, in the sacrifice, with the very purpose that the gods might receive the offering made by Bṛhaspati, Bṛhaspati obtained, as before, his wife whom Soma had brought and handed over.
+
+##### English translation
+He leads the life of a Brahmacharin, even adoring all the gods; he becomes a portion of the gods; therefore Brihaspati obtained his wife (formerly) brought him by Soma, as the gods receive an offering.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk Juhū, the wife of Bṛhaspati, addressing the gods, speaks thus: "O gods, after my husband Bṛhaspati abandoned me, he wanders as a brahmacārin, that is, alone, without a wife. In the sacrifices he performs, since he has no wife, the sacrifice is not complete. Husband and wife are the two principal limbs of the sacrificial rite. The sacrifice that Bṛhaspati performs without a wife becomes only one limb and so is not complete. The gods do not accept oblations and the like in that incomplete sacrifice. Therefore, just as at the time of the marriage of me and Bṛhaspati he accepted me, whom Soma had brought and handed over, so now too he has obtained me again, free of fault, handed over by the gods." This is the chief purport.
+The commentator here cites the Ṛk Ṛ. Saṃ. 10-85-41 beginning सोमो ददद्गंधर्वाय (*somo dadadgaṃdharvāya*):
+सोमो ददद्गंधर्वाय ऎंब ऋ. सं. १०-८५-४१ ऋक्कन्नु उदाहरिसिद्दारॆ— सोमो ददद्गंधर्वाय गंधर्वो दददग्नये । रयिं च पुत्रांश्चादाग्निर्मह्यमथो इमां ॥ (*somo dadadgaṃdharvāya èṃba ṛ. saṃ. 10-85-41 ṛkkannu udāharisiddārè— somo dadadgaṃdharvāya gaṃdharvo dadadagnaye | rayiṃ ca putrāṃścādāgnirmahyamatho imāṃ ‖*)
+(Ṛ. Saṃ. 10-85-4)
+**NOTE**
+To understand the meaning of this Ṛk one must know the Ṛk before it, stated in the same place:
+सोमः प्रथमो विविदे गंधर्वो विविद उत्तरः । तृतीयो अग्निष्टे पतिस्तुरीयस्ते मनुष्यजाः ॥ (*somaḥ prathamo vivide gaṃdharvo vivida uttaraḥ | tṛtīyo agniṣṭe patisturīyaste manuṣyajāḥ ‖*)
+(Ṛ. Saṃ. 10-85-40)
+Before marriage, while the girl is in childhood, Soma is said to be her husband, that is, her protector; afterwards, in the age of adolescence, the Gandharva is her protector; then, in the stage of maturity, that is, when she has reached marriageable age and is in youth,
+
+### Printed p. 320
+Agni is said to be the husband or protector of the girl. Therefore the girl's coming from childhood to adolescence and from there to youth is stated by the Ṛk सोमो ददद्गंधर्वाय (*somo dadadgaṃdharvāya*). Soma gives this girl into the hands of the Gandharva, the Gandharva gives her into the hands of Agni, and Agni hands her over to the human husband, her natural husband; so it is described. In the present Ṛk, "Soma handed Juhū over to Bṛhaspati" means: since at the time of the marriage, in accordance with the rule of the śāstra, the passing in order from Soma to the Gandharva and from the Gandharva to Agni had Soma as its first cause, Soma alone is mentioned here.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॒र्वै दे॒वा अ॑ददुः॒ पुन॑र्मनु॒ष्या॑ उ॒त ।  
+> राजा॑नः स॒त्यं कृ॑ण्वा॒ना ब्र॑ह्मजा॒यां पुन॑र्ददुः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । वै । देवाः । अददुः । पुनः । मनुष्याः । उत ।  
+> राजानः । सत्यं । कृष्णानाः । ब्रह्मजायां । पुनः । ददुः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> लाभहेतुमाह । देवा ब्रह्मजायां जुहूं बृहस्पतये पुनरददुः । वैशब्दः प्रसिद्धवाची । उताप्यर्थे । मनुष्या अपि पुनरददुः । एवं देवमनुष्यैः कृतं
+> दानं सत्यं यथार्थं कृष्णानाः कुर्वाणाः राजानोऽपि पुनस्तस्मै ददुः । एवमव्यवहार्यनिमित्तं पापमपि व्यनाशयन्निति भावः ॥
+
+##### Gist of the bhāṣya
+
+He states the reason for the obtaining. The gods gave back Brahmajāyā, that is Juhū, to Bṛhaspati. The word वै (*vai*) denotes what is well known; उत (*uta*) is in the sense of "also": men too gave her back. Thus, the gift made by gods and men being made true, i.e. real, the kings also gave her back to him. The sense is that in this way they destroyed even the sin that came from her having been unfit for intercourse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods
+- ब्रह्मजायां (*brahmajāyāṃ*)—Juhū, the wife of Brahma
+- पुनः (*punaḥ*)—again
+- आददुः (*ādaduḥ*)—gave to Bṛhaspati
+- मनुष्याः (*manuṣyāḥ*)—men also gave
+- सत्यं कृष्णानः (*satyaṃ kṛṣṇānaḥ*)—observing truth
+- राजानः (*rājānaḥ*)—kings
+- पुनः (*punaḥ*)—again
+- ददुः (*daduḥ*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+The gods gave Juhū, the wife of Brahma, again to Bṛhaspati. Men also gave. The kings who observe truth also gave again. That is, men and kings approved what the gods had given.
+
+### Printed p. 321
+
+##### English translation
+The gods gave her back again, men also gave her back, and kings confirming (the gift) gave Brahme's wife back again.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒न॒र्दाय॑ ब्रह्मजा॒यां कृ॒त्वी दे॒वैर्नि॑किल्बि॒षं ।  
+> ऊर्जं॑ पृथि॒व्या भ॒क्त्वा यो॑रुगा॒यमुपा॑सते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनःदाय । ब्रह्मजायां । कृत्वी । देवैः । निकिल्बिषं ।  
+> ऊर्जं । पृथिव्याः । भक्त्याय । उरुगायं । उप । आसते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवैः ॥ सुपां सुपो भवंतीति जसस्तृतीयादेशः ॥ देवा निकिल्पिषं ॥ अर्थाभावेऽव्ययिभावः । समासस्वरः ॥ तस्याः किल्बिषाभावं कृत्वी ॥ स्नात्वादयश्चेति
+> निपातितः ॥ कृत्वा ब्रह्मजायां ब्रह्मणो बृहस्पतेर्भार्यां पुनर्दाय पुनर्दत्वा ॥
+> पुनश्चनसोश्चंदसि गतिसंज्ञा वक्तव्येति । पा. १-४-६०-२ । पुनःशब्दस्य गतिसंज्ञायां
+> समासल्यप् । न ल्यपि । पा. ६-४-६९ : इतीत्वप्रतिषेधः ! कृदुत्तरपदप्रकृतिस्वरत्वं ॥
+> पृथिव्याऊर्जं रसभूतमन्नं हवीरूपं भक्त्याय। क्वो यक्! पा. ७-१-४७ । इति
+> यगागमः ॥ भक्त्वा विभज्योरुगायं बहुकीर्तिं बहुभिः स्तोतव्यं ना बार्हस्पत्यं
+> यज्ञमुपासते । सेवंते ॥
+
+##### Gist of the bhāṣya
+
+देवैः (*devaiḥ*): the third-case ending is substituted for *jas*. निकिल्पिषं (*nikilpiṣaṃ*): the gods, having made her free of fault, कृत्वी (*kṛtvī*) (the form is irregularly given), having made Brahmajāyā, the wife of Brahma, that is Bṛhaspati, and having given her back again, having divided the sap-like food of the earth, in the form of oblation, they worship, that is serve, the much-renowned one, praised by many, the sacrifice belonging to Bṛhaspati.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवैः (*devaiḥ*)—the gods
+- ब्रह्मजायां (*brahmajāyāṃ*)—Juhū, the wife of Brahma
+- निकिल्पिषं (*nikilpiṣaṃ*)—as one free of fault
+- कृत्वी (*kṛtvī*)—having made
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- ऊर्जं (*ūrjaṃ*)—the sap-like oblation
+- भक्त्याय (*bhaktyāya*)—having divided
+- उरुगायं (*urugāyaṃ*)—Bṛhaspati, worthy of praise
+- उपासते (*upāsate*)—they serve
+
+##### Grammar
+
+- देवैः — सुपां सुपो भवंतीति जसस्तृतीयादेशः ।
+- निकिल्पिषं — अर्थाभावेऽव्ययिभावः । समासस्वरः । तस्याः किल्बिषाभावं कृत्वी ।
+- कृत्वी — स्नात्वादयश्चेति निपातितः ।
+- पुनर्दाय — पुनश्चनसोश्चंदसि गतिसंज्ञा वक्तव्येति । पा. १-४-६०-२ । पुनःशब्दस्य गतिसंज्ञायां समासल्यप् । न ल्यपि । पा. ६-४-६९ । इतीत्वप्रतिषेधः । कृदुत्तरपदप्रकृतिस्वरत्वं ।
+- भक्त्याय — क्वो यक् । पा. ७-१-४७ । इति यगागमः ।
+
+### Printed p. 322
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, having made Juhū, the wife of Brahma, free of fault, and having divided the sap-like oblation of the earth, serve Bṛhaspati, who is worthy of praise.
+
+##### English translation
+The gods having given back Brahma's wife, and made her free from sin, having partaken of the food of the earth, sat down to (the sacrifice of) the widely-hymned Brihaspati.
+
+##### विशेषविषयगळु (Special Topics)
+
+While Bṛhaspati was without his wife Juhū, the gods were unable to accept the oblations and the like that he offered in the sacrifices he performed. But after Juhū, made free of fault, rejoined Bṛhaspati, the gods were able to accept oblations and the like in the sacrifices that Bṛhaspati performed together with his wife. Therefore this Ṛk says that after handing the wife over to Bṛhaspati the gods began to share the oblation among themselves and partake of it.
+
+## Sūkta 110 (Maṇḍala 10)
+Introduction.
+In the Saṃhitā of the Ṛgveda there are ten Āprī-sūktas in all. Of these the present sūkta is the last (tenth) Āprī-sūkta. These Āprī-sūktas are as follows:
+
+| No. | Beginning of the Āprī-sūkta | Maṇḍala | Sūkta | Ṛṣi | Ṛ. | Saṃ. part | Page |
+|---|---|---|---|---|---|---|---|
+| 1 | सुसमिद्धो न आ वह (*susamiddho na ā vaha*) | १ (*1*) | १३ (*13*) | मेधातिथिः (*medhātithiḥ*) काण्वः (*kāṇvaḥ*) | | २ (*2*) | 525 |
+| 2 | समिद्धो अग्न आ वह (*samiddho agna ā vaha*) | १ (*1*) | १४२ (*142*) | दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*) | ११ (*11*) | | 221 |
+| 3 | समिद्धो अद्य राजसि (*samiddho adya rājasi*) | १ (*1*) | १८८ (*188*) | आगस्त्यो मैत्रावरुणिः (*āgastyo maitrāvaruṇiḥ*) | १४ (*14*) | | 216 |
+| 4 | समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*) | २ (*2*) | ३ (*3*) | गृत्समदः (*gṛtsamadaḥ*) | १४ (*14*) | | 454 |
+| 5 | समित्समित्सुमना (*samitsamitsumanā*) | ३ (*3*) | ४ (*4*) | गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*) | १५ (*15*) | | 665 |
+| 6 | सुसमिद्धाय शोचिषे (*susamiddhāya śociṣe*) | ५ (*5*) | ५ (*5*) | वसुश्रुत आत्रेयः (*vasuśruta ātreyaḥ*) | १८ (*18*) | | 805 |
+| 7 | जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*) | ७ (*7*) | २ (*2*) | मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇirvasiṣṭhaḥ*) | २१ (*21*) | | 647 |
+| 8 | समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*) | ९ (*9*) | ५ (*5*) | काश्यपोऽसितोदेव लो वा (*kāśyapo 'sitodeva lo vā*) | २५ (*25*) | | 612 |
+| 9 | इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*) | १० (*10*) | ७० (*70*) | सुमित्रो वाध्रश्वः (*sumitro vādhraśvaḥ*) | २८ (*28*) | | 602 |
+| 10 | समिद्धो अद्य मनुषः (*samiddho adya manuṣaḥ*) | १० (*10*) | ११० (*110*) | जमदग्निर्भार्गवः (*jamadagnirbhārgavaḥ*) | ३० (*30*) | | 322 |
+
+### Printed p. 323
+Among these there are mantras with the deities इध्वः (*idhvaḥ*) (समिद्भोग्निर्वा (*samidbhognirvā*)), नराशंसः (*narāśaṃsaḥ*), तनूनपात् (*tanūnapāt*), इळः (*iḷaḥ*), बर्हिः (*barhiḥ*), देवीर्द्वारः (*devīrdvāraḥ*), उषासानक्ता (*uṣāsānaktā*), दैवौ होतारौ प्रचेतसौ (*daivau hotārau pracetasau*), तिस्रो देव्यः सरस्वतीळाभारत्यः (*tisro devyaḥ sarasvatīḷābhāratyaḥ*), त्वष्टा (*tvaṣṭā*), वनस्पतिः (*vanaspatiḥ*), स्वाहाकृतयः (*svāhākṛtayaḥ*). But as to the deities Narāśaṃsa and Tanūnapāt, in some sūktas the one deity Narāśaṃsa alone is praised, in others the one deity Tanūnapāt alone, and in others both deities Narāśaṃsa and Tanūnapāt. According to this, these Āprī-sūktas are divided in three ways. The Āprī-sūktas composed by the ṛṣis Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada, that is:
+1. जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*)—Ṛ. Saṃ. 7-2 (मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇirvasiṣṭhaḥ*))
+2. सुसमिद्धाय शोचिषे (*susamiddhāya śociṣe*)—Ṛ. Saṃ. 5-5 (वसुश्रुत अत्रेयः (*vasuśruta atreyaḥ*))
+3. इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*)—Ṛ. Saṃ. 10-70 (सुमित्रो वाध्यश्वः (*sumitro vādhyaśvaḥ*))
+4. समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*)—Ṛ. Saṃ. 2-3 (गृत्समदः (*gṛtsamadaḥ*))
+These four sūktas belong to one group. In them there are single Ṛks with Narāśaṃsa as deity. Therefore these four sūktas are called नराशंसवंति सूक्तानि (*narāśaṃsavaṃti sūktāni*)—Āprī-sūktas that praise only the deity Narāśaṃsa.
+1. सुसमिद्दो न आ वह (*susamiddo na ā vaha*)—Ṛ. Saṃ. 1-13 (मेधातिथिः काण्वः (*medhātithiḥ kāṇvaḥ*))
+2. समिद्धो अग्न आ वह (*samiddho agna ā vaha*)—Ṛ. Saṃ. 1-142 (दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*))
+These two Āprī-sūktas belong to the second group. In them there are single Ṛks on behalf of both deities, Narāśaṃsa and Tanūnapāt. Therefore, since both deities are present in these Āprī-sūktas, in sūkta 1-142, leaving out Indra, there come to be twelve homas in place of the eleven Prayāja homas.
+1. समिद्धो अद्य राजसि (*samiddho adya rājasi*)—Ṛ. Saṃ. 1-188 (आगस्तो मैत्रावरुणः (*āgasto maitrāvaruṇaḥ*))
+2. समित्समित्सुमना (*samitsamitsumanā*)—Ṛ. Saṃ. 3-4 (गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*))
+3. समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*)—Ṛ. Saṃ. 9-5 (काश्यपेऽसितो देवलो वा (*kāśyape 'sito devalo vā*))
+4. समिद्धो अद्य मनुषो (*samiddho adya manuṣo*)—Ṛ. Saṃ. 10-110 (जमदग्नि र्भार्गवः (*jamadagni rbhārgavaḥ*))
+These sūktas belong to the third group. In them there are only Ṛks with Tanūnapāt as deity (there are no Ṛks with Narāśaṃsa as deity). Therefore they are called तनूनपात्वंति सूक्तानि (*tanūnapātvaṃti sūktāni*), that is, Āprī-sūktas containing mantras with the deity Tanūnapāt.
+
+### Printed p. 324
+All matters concerning the Āprī-sūktas we have set out in detail in the introductions and Special Topics of some of the Āprī-sūktas above. Now what is said about these sūktas in the Bṛhaddevatā, and Yāska's Nirukta, will be given. In chapters 2 and 3 of the Bṛhaddevatā it is said thus:
+प्रथमायां स्तुतश्चेध्मो द्वितीयायां तनूनपात् । नराशंसस्कृतीयायां चतुर्थ्यां स्तूयते त्विळः ॥ (*prathamāyāṃ stutaścedhmo dvitīyāyāṃ tanūnapāt | narāśaṃsaskṛtīyāyāṃ caturthyāṃ stūyate tviḷaḥ ‖*) (147)
+147. In the first Ṛk Idhma (the kindled fire) is praised, in the second the deity Tanūnapāt, in the third the deity Narāśaṃsa, in the fourth the deity Iḷaḥ.
+बर्हिरेव तु पंचम्यां द्वारो देव्यस्ततोऽन्यया । नक्तोषासा तु सप्तम्यामष्टम्यां संस्तुतौ सह ॥ (*barhireva tu paṃcamyāṃ dvāro devyastato 'nyayā | naktoṣāsā tu saptamyāmaṣṭamyāṃ saṃstutau saha ‖*) (148)
+148. In the fifth Ṛk the deity Barhis (the cut darbha grass), in the next Ṛk the deities Dvāro Devyaḥ, the deities presiding over the doors, in the seventh Ṛk the deities Naktoṣāsā (the deities presiding over night and dawn), in the eighth Ṛk
+दैव्याविति तु होतार् नवम्यामृचि संस्तुताः । तिस्रो देव्यो दशम्यां तु ज्ञेयस्त्वष्टैव तु स्तुतः ॥ (*daivyāviti tu hotār navamyāmṛci saṃstutāḥ | tisro devyo daśamyāṃ tu jñeyastvaṣṭaiva tu stutaḥ ‖*) (149)
+149. the deities Daivya Hotārau; in the ninth Ṛk the three goddesses Tisro Devyaḥ (Sarasvatī, Iḷā, Bhāratī); in the tenth Ṛk Tvaṣṭā;
+एकादश्यां तु सूक्तस्य स्तुतं विद्याद्वनस्पतिं । द्वादश्यां तु स्तुता देवीर्विद्यात्वाहाकृतीरिति ॥ (*ekādaśyāṃ tu sūktasya stutaṃ vidyādvanaspatiṃ | dvādaśyāṃ tu stutā devīrvidyātvāhākṛtīriti ‖*) (150)
+150. in the eleventh Ṛk the deity Vanaspati, in the twelfth Ṛk the deity Svāhākṛti are praised.
+सूक्तेऽस्मिन्प्रत्यचं यास्तु देवताः परिकीर्तिताः । ता एव सर्वास्वाप्रीषु द्वितीया तु विकल्पते ॥ (*sūkte 'sminpratyacaṃ yāstu devatāḥ parikīrtitāḥ | tā eva sarvāsvāprīṣu dvitīyā tu vikalpate ‖*) (151)
+151. Whichever deities are praised in each Ṛk of this sūkta, all of them are praised in this same order in all (ten) Āprī-sūktas. In the matter of the second deity (Tanūnapāt or Narāśaṃsa) there is a slight difference.
+प्रैपैः सहाप्रीसूक्तानि तानेकादश संति च । यजूंषि प्रैषसूक्तं वा दशैतानीतराणि तु ॥ (*praipaiḥ sahāprīsūktāni tānekādaśa saṃti ca | yajūṃṣi praiṣasūktaṃ vā daśaitānītarāṇi tu ‖*) (152)
+
 ---
 
-**Progress note:** Done through printed p. 318. pp. 313-318 (batch API)
+**Progress note:** Done through printed p. 324. pp. 319-324 (batch API)
