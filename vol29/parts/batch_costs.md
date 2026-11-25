@@ -5,3 +5,4 @@
 | 3 | through p. 57 (three windows in one agent: pp. 40–57) | sonnet | 19 | 195779 | 6.0 |
 | 4 | through p. 76 (three windows in one agent: pp. 58–76) | sonnet | 19 | 178793 | 5.1 |
 | 5 | through p. 96 (three windows in one agent: pp. 77–96) | sonnet | 21 | 224094 | 6.7 |
+| 6 | through p. 115 (three windows in one agent: pp. 97–115) | sonnet | 27 | 212615 | 7.3 |
