@@ -28830,6 +28830,247 @@ The sons of Vātarasana, the Munis who see things beyond the senses, Jūti, Vāt
 - मुनयः (*munayaḥ*)—the seers Jūti, Vātajūti and others, who see things beyond the senses
 - पिशंगाः (*piśaṃgāḥ*)—of tawny colour
 
+### Printed p. 874
+#### Ṛk 2 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- …soiled, that is dirty, garments
+- वसते (*vasate*)—they wear (these sages)
+- यत् (*yat*)—when
+- देवासः (*devāsaḥ*)—shining by their austerity and their greatness
+- अविक्षत (*avikṣata*)—when they enter the divine nature
+- वातस्यॆ (*vātasyè*)—of the wind
+- ध्राजिं (*dhrājiṃ*)—the course
+- अनुयंति (*anuyaṃti*)—they follow
+
+##### भावार्थ (Bhāvārtha)
+
+The sages Jūti and the others, who see beyond the senses and are sons of the sage Vātaraśana, wear dirty bark garments of a dull yellowish colour. But when, through the greatness of their austerity, they attain the divine nature, they follow the course of the wind.
+
+##### English translation
+The Munis, the sons of Vatarashana, wear the yellow dirty (vestments of bark), they follow the course of the wind, when they have assumed the (power of) gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+Jūti and the other sages, sons of the sage Vātaraśana, who saw this sūkta, live in their hermitage in the forest. They therefore cannot wear clean and costly garments like townspeople, and so wear only dull-coloured bark cloths. In earlier times, in places where cloth was not to be had, forest people used to pound the barks of certain trees, make them supple, and use them as clothing. Even now forest people in many countries use such tree-bark, or certain kinds of grass, instead of cloth. But the greatness of the austerity of Jūti and the other sages is unfathomable. By their austerity they have mastered the vital breath through prāṇāyāma and the like and have obtained the wind-state, that is, a subtle divine form. That they follow the course of the wind means that the course of the wind, which is invisible to other ordinary men, becomes visible to them. The meaning is that what others cannot do becomes possible for them, who possess a divine form.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उन्म॑दिता॒ मौने॑येन॒ वाता॒ आ त॑स्थिमा व॒यं ।  
+> शरी॒रेद॒स्माकं॑ यू॒यं मर्ता॑सो अ॒भि प॑श्यथ ॥ ३ ॥
+
+### Printed p. 875
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत्मदिताः । मौनेयेन । वातान् । आ । तस्थिम । वयं ।  
+> शरीरा । इत् । अस्माकं । यूयं । मर्तासः । अभि । पश्यथ ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मौनेयेन मुनिभावेन लौकिकसर्वव्यवहारविसर्जनेनोन्मदिता उन्मत्ता
+> उन्मत्तवदाचरंतः । यद्वा । उत्कृष्टं मदं हर्षं प्राप्ताः । वयं वातान्वायूनस्माभिरुपास्यमानाना तस्थिम । आस्थितवंतः । हे मर्तासो मनुष्याः अस्माकं
+> शरीरेच्छरीराण्येव यूयं केवलमभि पश्यथ । नास्मान् । यतो वयं नीरूपेण
+> वायुना सायुज्यं प्राप्ताः ॥
+
+##### Gist of the bhāṣya
+
+"By the mauneya", that is, by the state of a sage, by giving up all worldly dealings, they are उन्मदिता (*unmaditā*), "maddened", behaving like madmen; or else they have attained excellent joy (mada). "We have mounted the winds", the winds that are worshipped by us. "O mortals, men, you look only at our bodies, not at us", because we have attained union (sāyujya) with the formless wind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मौनेयेन (*mauneyena*)—having given up worldly dealings, in the state of a sage
+- उन्मदिताः (*unmaditāḥ*)—like madmen, or experiencing excellent joy
+- वयं (*vayaṃ*)—we
+- वातान् (*vātān*)—the winds (which we worship)
+- आ तस्थिम (*ā tasthima*)—have mounted and are seated
+- मर्तासः (*martāsaḥ*)—O men
+- अस्माकं (*asmākaṃ*)—our
+- शरीरा इत् (*śarīrā it*)—bodies
+- यूयं (*yūyaṃ*)—you
+- पश्यथ (*paśyatha*)—behold
+
+##### भावार्थ (Bhāvārtha)
+
+Having given up worldly dealings, living in the state of a sage and cheerful in mind, we are seated mounted upon the wind which we worship. O men, behold our bodies.
+
+##### English translation
+Exhilarated by the sanctity of the Muni we have mounted upon the winds ; behold, mortals, (in them) our forms !
+
+##### विशेषविषयगळु (Special Topics)
+
+उन्मदिताः-उन्मत्ता उन्मत्तवदाचरंतः यद्वा उत्कृष्टं मदं हर्षं प्राप्ताः । (*unmaditāḥ-unmattā unmattavadācaraṃtaḥ yadvā utkṛṣṭaṃ madaṃ harṣaṃ prāptāḥ |*) — Those who look like madmen (lunatics) because of the dirty garments they wear; or, mada means joy: those who are cheerful in mind.
+वातान् आ तस्थिम वयं (*vātān ā tasthima vayaṃ*)—What is meant by being seated mounted upon the wind? The meaning is that these sages, worshipping the wind, have obtained the wind-nature and have become inwardly merged in the wind in a subtle form. By the greatness of his austerity an ascetic can assume a form however subtle. These sages, by the greatness of their austerity, have assumed forms as subtle as the wind. That is perhaps what is described here as being seated upon the wind.
+
+### Printed p. 876
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒तरि॑क्षेण पतति॒ विश्वा॑ रू॒पाव॒चाक॑शत् ।  
+> मुनि॑र्दे॒वस्य॑देवस्य॒ सौकृ॑त्याय॒ सखा॑ हि॒तः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतरिक्षेण । पतति । विश्वा । रूपा । अवचाकशत् ।  
+> मुनिः । देवस्यदेवस्य । सौकृत्याय । सखा । हितः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मुनिरस्यर्चो द्रष्टा वृषाणक ऋषिर्वातरूपतां सूर्यात्मतां ना तत्तदुपासनय्याप्राप्तः सन्नंतरिक्षेणाकाशेन पतति । गच्छति । किं कुर्वन् । विश्वा विश्वानि
+> सर्वाणि रूपाणि रूप्यमाणानि पदार्थजातान्यवचाकशदभिपश्यन् स्वतेजसा दर्शयन् ।
+> तथा देवस्यदेवस्य ॥ नित्यवीप्सयोरिति द्विर्वचनं । अनुदात्तं चेति परस्याम्रेडितस्यानुदात्तत्वं ॥ सर्वस्यापि देवस्य सखा सखिभूतः अत एव सौकृत्याय । सुष्टु देवानु -
+> द्दिश्य क्रियमाणं यागात्मकं कर्म सुकृतं । तस्य भावाय सम्यगनुष्ठापनाय
+> हितः । सहितः स्थापितो भवति ॥
+
+##### Gist of the bhāṣya
+
+The muni, the seer of this ṛk, the sage Vṛṣāṇaka, having attained the nature of the wind and of the sun by worship of each, moves through the antarikṣa, the sky. Doing what? Looking at all forms, that is, all things that can be perceived, or showing them by his own radiance. Likewise "of every god" (देवस्यदेवस्य (*devasyadevasya*)), the doubling being made by rule. He is the friend of every god, and for that very reason is placed (hita), set in position, for सौकृत्याय (*saukṛtyāya*), for the good performance of the sacrificial rite that is well done (sukṛta) when directed to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मुनिः (*muniḥ*)—the sage Vṛṣāṇaka, the seer of this ṛk (having become one with the wind or the sun)
+- विशः (*viśaḥ*)—all **NOTE**
+- रूपा (*rūpā*)—things possessing forms
+- अवचाकशन् (*avacākaśan*)—looking at
+- अंतरिक्षेण (*aṃtarikṣeṇa*)—along the path of the sky
+- पतति (*patati*)—moves about
+- देवस्य (*devasya*)—of every single deity (word repeated)
+- सखा (*sakhā*)—as friend
+- सौकृत्याय (*saukṛtyāya*)—for the carrying out of good rites such as sacrifices
+- हितः (*hitaḥ*)—is established
+
+##### भावार्थ (Bhāvārtha)
+
+The sage Vṛṣāṇaka, the seer of this ṛk, by the power of his worship attains identity with the sun or the wind, and moves along the path of the sky, looking at the forms of all things.
+
+### Printed p. 877
+Likewise he behaves with friendliness towards every deity, and is appointed for the carrying out of sacrifices and other rites.
+
+##### English translation
+The Muni flies through the firmament, illumining all objects, the friend of each deity, appointed for pious works.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वात॒स्याश्वो॑ वा॒योः सखाथो॑ दे॒वेषि॑तो॒ मुनिः॑ ।  
+> उ॒भौ स॑मु॒द्रावा क्षे॑ति॒ यश्च॒ पूर्व॑ उ॒ताप॑रः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वातस्य । अश्वः । वायोः । सखा । अथो इति । देव इषितः । मुनिः ।  
+> उभौ । समुद्रौ । आ । क्षेति । यः । च । पूर्वः । उत । अपरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातस्य वायोर्गतिरिवाश्च व्याप्तः । यद्वा । वायोरशिता भोक्ता।
+> वायुरेव तस्याहार इत्यर्थः । अत एव वायोः सखा मित्रभूतः अथो अपि च देवेषितो देवेन द्योतमानेन वायुना सूर्योण वेषितः प्राप्तः ॥ तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं ॥ ईदृशो मुनिः करिक्रताख्य ऋषिरुक्तप्रकारेण वायुरूपः सूर्यरूपो वा सन्नुभौ समुद्रावुदधी आ क्षेति । अभिगच्छति॥ क्षि निवासगत्योः।
+> छांदसो विकरणस्य लुक् ॥ कौ तौ समुद्रौ। यश्च पूर्वः समुद्रः । उतशब्दश्चार्थे ।
+> यत्थापरः समुद्रः ॥
+
+##### Gist of the bhāṣya
+
+वातस्याश्वो (*vātasyāśvo*): he is pervasive (aśva), like the course of the wind; or else he is an eater, an enjoyer, of the wind: the wind itself is his food. For that reason he is the friend of the wind, and also (अथो (*atho*)) देवेषितः (*deveṣitaḥ*), reached (iṣita) by the shining deity, the wind or the sun. Such a muni, the sage called Karikrata, being in the form of the wind or of the sun as stated, goes to both oceans (आ क्षेति (*ā kṣeti*) = approaches). Which are those two oceans? The one that is the eastern ocean, and (उत (*uta*) is in the sense of "and") the one that is the western ocean.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातस्य (*vātasya*)—like the course of the wind
+- अश्वः (*aśvaḥ*)—all-pervading; (or) [of the wind itself—having as food] therefore
+- वायोः (*vāyoḥ*)—to the wind
+- सखा (*sakhā*)—friend
+- अथो (*atho*)—and
+- देवेषितः (*deveṣitaḥ*)—come from the shining sun or from the wind
+- मुनिः (*muniḥ*)—the muni Karikrata, the seer of this ṛk
+- यः च पूर्वः (*yaḥ ca pūrvaḥ*)—the ocean that lies in the eastern direction
+- उत (*uta*)—and
+- अपरः (*aparaḥ*)—in the other direction, that is, in the western direction
+- उभौ समुद्रौ (*ubhau samudrau*)—these two oceans
+- आ क्षेति (*ā kṣeti*)—approaches and goes
+
+### Printed p. 878
+
+##### भावार्थ (Bhāvārtha)
+
+The sage Karikrata, the seer of this ṛk, who is all-pervading like the wind, or has the wind itself as his food, who is a friend of the wind, and who has attained identity with the shining sun or with the wind, goes to both oceans, the eastern and the western.
+
+##### English translation
+The steed of the wind, the friend of Vayu, the Muui, who is instigated by the deity, repairs to both oceans, the eastern and the western.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्स॒रसां॑ गंध॒र्वाणां॑ मृ॒गाणां॒ चर॑णे॒ चर॑न् ।  
+> के॒शी केत॑स्य वि॒द्वान्त्सखा॑ स्वा॒दुर्म॒दिंत॑मः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्सरसां । गंधर्वाणां । मृगाणां । चरणे । चरः ।  
+> केशी । केतस्य । विद्वान् । सखा । स्वादुः । मदिन्तमः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्सरसां देवस्त्रीणां गंधर्वाणां चरणे संचारभूते दिव्यंतरिक्षे च तथा
+> मृगाणां सिंहादीनां संचारस्थले पृथिव्यां चरन् व्याप्य संचरन्नेश्यग्निर्वायुः
+> सूर्यो वा केतस्य ज्ञातव्यस्य सर्वस्यार्थजातस्य विद्वान् यद्वा ज्ञातव्यस्यास्यर्षेरेतशस्य सखा विद्वानविशेषात्सर्वं जानन् स्वादुः स्वादयिता रसयिता सर्वस्य रसस्कोत्पादकः अत एव मदिंतमो मादयितृतमो भवति ॥ नाद्भस्यॆति नुडागमः ॥
+
+##### Gist of the bhāṣya
+
+"Of the Apsarases", the divine women, "and of the Gandharvas", in their चरणे (*caraṇe*), their place of roaming, that is, the divine sky; and likewise in the roaming-place of beasts (mṛga) such as lions, the earth: moving, that is, pervading and ranging, is Keśī, Agni, Vāyu or Sūrya. He is knower of केतस्य (*ketasya*), of everything that is to be known, all the things that exist; or else he is the friend of this sage Etaśa, who is to be known, and knows all without exception. He is स्वादुः (*svāduḥ*), one who gives savour, the producer of the savour of everything; for that very reason he is मदिंतमः (*madiṃtamaḥ*), the greatest gladdener. The augment nuṭ is by rule.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अप्सरसां (*apsarasāṃ*)—of the Apsara women, and
+- गंधर्वाणां (*gaṃdharvāṇāṃ*)—of the Gandharvas
+- चरणे (*caraṇe*)—in the sky, their region of roaming
+- मृगाणां (*mṛgāṇāṃ*)—on the earth where beasts such as lions roam
+- चरन् (*caran*)—pervading and roaming
+- केतस्य (*ketasya*)—all matters that are to be known
+- विद्वान् (*vidvān*)—one who knows
+- सखा (*sakhā*)—and friend of the sage Etaśa, the seer of this ṛk
+- केशी (*keśī*)—Agni, Vāyu or Sūrya
+
+### Printed p. 879
+- स्वादुः (*svāduḥ*)—producing all sweet savours
+- मदिंतमः (*madiṃtamaḥ*)—becomes the one who causes joy
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, Vāyu or the Sun, who pervades and roams both the sky where the Apsara women and the Gandharvas move and the regions of the earth where beasts such as lions roam, who knows everything, and who is a friend of the sage Etaśa, the seer of this ṛk, is a beneficial friend of this sage Etaśa and a friend who produces delight.
+
+##### English translation
+Wandering in the track of the Apsarasas and the Ghanharvas, and the wild beasts, the radiant (Sun), cognizant of all that is knowable, (is my) sweet and most delightful friend.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒युर॑स्मा॒ उपा॑मंथत्नि॒नष्टि॑ स्मा कुनंन॒मा ।  
+> के॒शी वि॒षस्य॒ पात्रे॑ण॒ यद्रु॒द्रेणापि॑बत्स॒ह ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वायुः । अस्मै । उप । अमंथत् । पिनष्टि । स्म । कुनंनमा ।  
+> केशी । विषस्य । पात्रेण । यत् । रुद्रेण । अपिबत् । सह ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> केशी रश्मिभिर्युक्तः सूर्यो रुद्रेण रुद्रपुत्रेण मरुद्धणेन । यद्वा ।
+> रुद्रो वा एष यदग्निः । तै. सं. ५-४-३-१ । इति श्रवणाद्रुद्रो वैद्युताग्निः । तेन
+> सह वर्तमानो विषस्य । उदकनामैतत् ॥ क्रियाग्रहणं कर्तव्यमिति कर्मणः
+> संप्रदानत्वाच्च तुर्थर्थ्यर्थ्य षष्ठि ॥ विषमुदकं पात्रेण पानसाधनेन रश्मिजालेन यद्यदापिबत् पिबति तदास्कै केशिने वायुरूपामंथत् । भूगतं सर्वं रसमुपमथ्याति ।
+> यद्वा । यदापिबत् पीतवान्भवति तदा सूर्यमंडले घनीभूतमस्य तदुदकं
+> वायुरुपमथ्याति । मंथनेन वैद्युताग्निनालोडयति । तथा कुनंनमा कुत्सितमपि
+> भृशं नमयित्रि स्वयं नमयितुमशक्या स्वतंत्रा माध्यमिका वाक् पिनष्टि स्म ।
+
+##### Gist of the bhāṣya
+
+Keśī, the sun endowed with rays, is with Rudra, a son of Rudra, the host of the Maruts. Or else, from the text रुद्रो वा एष यदग्निः (*rudro vā eṣa yadagniḥ*) (Tai. Saṃ. 5-4-3-1), Rudra is the lightning fire; being together with him, विषस्य (*viṣasya*) (viṣa is a name for water; the genitive stands for the accusative, by the rule that a verb is to be supplied and that the object has the sense of recipient) — when he drinks the water with the पात्रेण (*pātreṇa*), the vessel, the means of drinking, that is the net of rays, then the wind churns (उपामंथत् (*upāmaṃthat*)) for this Keśī: it churns up all the sap that is in the earth. Or else, when he has drunk, the wind churns that water, condensed in the solar orb, and stirs it with the churning lightning fire. Likewise कुनंनमा (*kunaṃnamā*): the one who bends greatly even what is crooked, and who herself cannot be made to bend, the independent speech of the middle region, grinds (पिनष्टि स्म (*pinaṣṭi sma*)).
+
 ---
 
-**Progress note:** Done through printed p. 873. pp. 868-873 (batch API)
+**Progress note:** Done through printed p. 879. pp. 874-879 (batch API)
