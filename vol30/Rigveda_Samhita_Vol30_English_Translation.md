@@ -36037,6 +36037,256 @@ The sūkta सूर्य (*sūrya*) is the seventh sūkta, of five ṛks. Its 
 
 This sūkta सूर्यः (*sūryaḥ*) is the seventh sūkta in the twelfth anuvāka. It has five ṛks. Its seer is Cakṣus, son of Sūrya; Sūrya is
 
+### Printed p. 1062
+
+The deity is Sūrya, the son of the Sun; the metre is Gāyatrī. In the Anukramaṇikā it is said: सूर्यो नश्चक्षुः सौर्यः सौर्यं गायत्रं (*sūryo naścakṣuḥ sauryaḥ sauryaṃ gāyatraṃ*). The Āśvalāyana Śrauta Sūtra, in the sūtra सूर्यो नो दिव उदु त्यं जातवेदसमिति नव (*sūryo no diva udu tyaṃ jātavedasamiti nava*) (Ā. 6-5), explains that this sūkta is used for the Saurya-kāṇḍa mantras, which are recited after sunrise when the mantras of the Āśvina-śastra are recited. Further, the Āśvalāyana Śrauta Sūtra, in the sūtra सूर्यो नो दिवस्पातु नमो महद्यो नमो अभर्केभ्यः (*sūryo no divaspātu namo mahadyo namo abharkebhyaḥ*) (Ā. 1-4), explains that in the japa performed before the taking up of the sruc in the Darśa-pūrṇamāsa oblations, the first Ṛk of this sūkta, सूर्यो नः (*sūryo naḥ*), is to be recited.
+
+Maṇḍala 10; Anuvāka 12; Sūkta 158. Aṣṭaka 8; Adhyāya 8; Varga 16. Number of Ṛks in the sūkta: 5.
+Ṛṣi: Cakṣus Saurya. Deity: Sūrya. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सूर्यो॑ नो दि॒वस्पा॑तु॒ वातो॑ अं॒तरि॑क्षात् ।  
+> अ॒ग्निर्नः॒ पार्थि॑वेभ्यः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यः । नः । दिवः । पातु । वातः । अंतरिक्षात् ।  
+> अग्निः । नः । पार्थिवेभ्यः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यः सर्वस्य प्रेरकः शोभनीयो वा देवो दिवो द्युलोकाद्दुलोकवर्तिनो जदान्नोऽस्मान्नातु । रक्षतु । वातो वायुश्चांतरिक्षान्मध्यमस्थानगताद्बाधकादस्मान्नक्षतु । तथा पृथिवीस्थानोऽग्निश्च पार्थिवेभ्यः पृथिव्यां वर्तमानेभ्यः
+> शत्रुभ्यो नोऽस्मान्नक्षतु ॥
+
+##### Gist of the bhāṣya
+
+Sūrya, the impeller of all, or the radiant god, is asked to protect us from (enemies) of the heaven-world, who dwell in heaven. Vāta, the wind, is asked to protect us from the harmful ones belonging to the middle region, the atmosphere. Likewise Agni, whose station is the earth, is asked to protect us from earthly foes, those who live on the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यः (*sūryaḥ*)—Sūrya, who impels all
+- दिवः (*divaḥ*)—from the enemy folk who are in the heaven-world
+- नः (*naḥ*)—us
+- पातु (*pātu*)—may he protect
+- वातः (*vātaḥ*)—the wind
+- अंतरिक्षात् (*aṃtarikṣāt*)—from the enemies who may be in the atmosphere, the middle region; (continued on the next page)
+
+### Printed p. 1063
+
+(…) may he protect us from them; and
+- अग्निः (*agniḥ*)—the earthly Agni
+- नः (*naḥ*)—us
+- पार्थिवेभ्यः (*pārthivebhyaḥ*)—may he protect from the enemies who are on the earth
+
+##### भावार्थ (Bhāvārtha)
+
+May Sūrya, who impels all, protect us so that no harm comes to us from the dwellers of the heaven-world. Likewise may the wind protect us from the enemies in the atmosphere, the middle region, and the earthly Agni from the enemies on the earth.
+
+##### English translation
+May Surya protect us from (foes dwelling in) heaven, Vayu from (those dwelling in) the firmament, and Agni from those upon earth.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जोषा॑ सवित॒र्यस्य॑ ते॒ हरः॑ श॒तं स॒वा अर्ह॑ति ।  
+> पा॒हि नो॑ दि॒द्युतः॒ पतं॑त्याः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जोष । सवितः ] यस्य । ते । हरः । शतं । सवान् । अर्हति ।  
+> पाहि । नः । दिद्युतः । पतंत्याः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः सर्वस्य प्रेरक सूर्य जोष । अस्मत्सुत्यादिकं सेवस्व । यस्य ते
+> तव हरो रसहरणशीलं तेजः शतं सवान्बहून्यज्ञान्रत्यर्हति योग्यं भवति । यद्वा ।
+> प्रकाशनादिद्वारा पूजयति । स त्वं नोऽस्मान्पतंत्या निपतंत्याः शत्रुभिरस्मासु क्षिप्यमाणाया दिद्युतः । वज्रनामैतत् । द्योतमानायाः शक्तेरायुधात्पाहि । रक्ष ॥
+
+##### Gist of the bhāṣya
+
+O Savitṛ, impeller of all, Sūrya: accept (जोष (*joṣa*)) our soma-pressing and the like. Your radiance, which has the nature of drawing up the sap (हरः (*haraḥ*)), is worthy of a hundred sacrifices, that is, many; or else, it honours (them) by illuminating and so on. Such as you are, protect us from the दिद्युतः (*didyutaḥ*) that falls on us, hurled by enemies; this is a name of the thunderbolt; protect us from the shining weapon of power.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O Sūrya, impeller of all
+- जोष (*joṣa*)—accept our praises
+- यस्य ते (*yasya te*)—you, whose
+- हरः (*haraḥ*)—radiance, which draws up the sap
+- शतं (*śataṃ*)—many
+- सवान् अर्हति (*savān arhati*)—is worthy of praise in the sacrifices; such as you are
+- पतंत्याः (*pataṃtyāḥ*)—which is hurled at us by enemies
+- दिद्युतः (*didyutaḥ*)—from shining weapons
+- नः (*naḥ*)—us
+- पाहि (*pāhi*)—protect
+
+### Printed p. 1064
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, impeller of all, accept our praises, that is, receive them. Your abundant and sharp radiance, which has the nature of drawing up the sap (liquid), is praised in the sacrifices; such as you are, protect us from the shining weapons that enemies hurl (cause to fall) upon us.
+
+##### English translation
+Savitri, whose radiance merits a hundred acknowledgments, be propitiated (by our praises); protect us from the falling bolts (of uur enemies.)
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चक्षु॑र्नो दे॒वः स॑वि॒ता चक्षु॑र्न उ॒त पर्व॑तः ।  
+> चक्षु॑र्धा॒ता द॑धातु नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चक्षुः । नः । देवः ॥ सविता । चक्षुः । नः । उत । पर्वतः ।  
+> चक्षुः । धाता । दधातु । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सविता प्रेरको देवो नोऽस्माकं चक्षुः प्रकाशकमिंद्रियमिंद्रियानुग्राहकं तेजो ना दधातु । उतापि च पर्वत इंद्रसहचरः पर्वताख्योऽपि देवो
+> नोऽस्माकं चक्षुर्दधातु । धाता सर्वस्य विधातादित्यानामन्यतमश्च नोऽस्माकं
+> चक्षुर्विदधातु ॥
+
+##### Gist of the bhāṣya
+
+May the impelling god Savitṛ grant us चक्षुः (*cakṣuḥ*), the illuminating faculty, the radiance that favours the sense-organ. And also (उत (*uta*)) may the god named Parvata, the companion of Indra, grant us sight. And may Dhātṛ, the disposer of all, one of the Ādityas, grant us sight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता देवः (*savitā devaḥ*)—this god Sūrya, impeller of all
+- नः (*naḥ*)—to us
+- चक्षुः (*cakṣuḥ*)—the eye, sight, or the power to see
+- दधातु (*dadhātu*)—may he give
+- उत (*uta*)—and
+- पर्वतः (*parvataḥ*)—the god named Parvata, the companion (friend) of Indra
+- नः (*naḥ*)—to us
+- चक्षुः (*cakṣuḥ*)—may he favour us with sight
+- धाता (*dhātā*)—the creator
+- नः (*naḥ*)—to us
+- चक्षुः (*cakṣuḥ*)—sight
+- दधातु (*dadhātu*)—may he give
+
+### Printed p. 1065
+
+##### भावार्थ (Bhāvārtha)
+
+May this god Sūrya, impeller of all, the god called Parvata, companion of Indra, and Dhātṛ, the creator, grant us the eye, that is, the capacity to see.
+
+##### English translation
+May the divine Savitri grant us sight, may Parvata (grant) us sight; may Dhatri (grant) us sight.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चक्पु॑र्नो धेहि॒ चक्पु॑षे॒ चक्पु॑र्वि॒ख्यै त॒नूभ्यः॑ ।  
+> सं चे॒दं वि च॑ पश्येम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चक्षुः । नः । धेहि । चक्षुषे । चक्षुः । विख्या । तनूभ्यः ।  
+> सं । च । इदं । वि । च । पश्येम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं चक्षुषे रूपोपलब्धिकारणायेंद्रियाय चक्षुः प्रकाशकं
+> तदानुग्राहकं तेजो हे सूर्य धेहि । विधेहि । कुरु । यद्वा ॥ न इति व्यत्ययेन
+> बहुवचनं ॥ चक्षुषे चक्षुःसंज्ञाय नो मह्यं चक्षुरिंद्रियं ना तेजो वा हे
+> सूर्य धेहि । प्रयच्छ । तनूभ्योऽस्माकं शरीरेभ्यस्तनयेभ्यो वा विख्यॆ विख्यानाय प्रकाशनाय चक्षुस्त्वदीयं प्रकाशं विधेहि । यत एवं तस्मात्कारणात्त्वदीयेन तेजसा वयं चेदं सर्वं जगत्सं पश्येम । सम्यग्द्रष्टारो भवेम । वि
+> पश्येम च । विविधं च सविशेषं द्रष्टारो भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, grant (धेहि (*dhehi*), make) for our eye, the organ that is the cause of perceiving form, चक्षुः (*cakṣuḥ*), the illuminating radiance that favours it. Or else: नः (*naḥ*) is a plural put for the singular by exchange (व्यत्यय (*vyatyaya*)); to me, named Cakṣus, give the eye-organ or radiance, O Sūrya. For our bodies, or our offspring, for विख्यै (*vikhyai*), for illumination, spread your own light. Since it is so, by your radiance may we see this whole world well, becoming right seers; and may we see (वि पश्येम (*vi paśyema*)) in various ways, with particulars, becoming seers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Sūrya) नः (*naḥ*)—to us
+- चक्षुषे (*cakṣuṣe*)—for the eye, which is the means of seeing the forms of things
+- चक्षुः (*cakṣuḥ*)—light or sight
+- धेहि (*dhehi*)—produce. [Or: चक्षुषे (*cakṣuṣe*)—named Cakṣus; नः (*naḥ*)—to me; चक्षुः (*cakṣuḥ*)—sight or radiance; धेहि (*dhehi*)—give]
+- तनूभ्यः (*tanūbhyaḥ*)—for the protection of our bodies
+- विख्यॆ (*vikhyè*)—and for illumination
+- चक्षुः (*cakṣuḥ*)—your
+
+### Printed p. 1066
+
+light spread all around; by it we
+- इदं च (*idaṃ ca*)—this whole world
+- सं पश्येम (*saṃ paśyema*)—may we see well
+- वि पश्येम (*vi paśyema*)—may we see things of various kinds
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, give us the eye-organ, the means of seeing the forms of things, and produce your light so that it helps us to see them. Or else: to me, who am named Cakṣus, the seer of this sūkta, give your radiance and sight. For the protection of our bodies and for seeing, spread your radiance all around. By it may we see well the various things in this whole world.
+
+##### English translation
+Give sight, Surya, to our eyes, (bestow) sight for the illumination of our bodies, so that we may look upon and into this (world).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒सं॒दृशं॑ त्वा व॒यं प्रति॑ पश्येम सूर्य ।  
+> वि प॑श्येम नृ॒चक्ष॑सः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुसंदृशं । त्वा । वयं । प्रति । पश्येम । सूर्य ।  
+> वि । पश्येम । नृचक्षसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य सुसंदृशं सुष्टु संदृष्टारं त्वा त्वां वयं प्रति पश्येम । प्रत्येकं
+> द्रष्टारो भूयास्म । तथा नृचक्षसो नृभिर्मनुष्यैरस्माभिर्दृष्टव्यान्पदार्थान्वि
+> पश्येम । विद्रष्टारो भवेम । यद्वा । नृचक्षसो नृणां शत्रुमनुष्याणां हिंसकाः
+> संतो वयं विशिष्टज्ञाना भवेम ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, you who see all well (सुसंदृशं (*susaṃdṛśaṃ*)), may we look at you, each one of us becoming a beholder. Likewise नृचक्षसः (*nṛcakṣasaḥ*): may we look into (वि पश्येम (*vi paśyema*)), becoming discerning seers of, the things to be seen by men, by us humans. Or else: नृचक्षसः (*nṛcakṣasaḥ*), being destroyers of hostile men, may we become possessed of distinguished knowledge.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sūrya
+- सुसंदृशं (*susaṃdṛśaṃ*)—you who can see everything well
+- त्वा (*tvā*)—you
+- वयं (*vayaṃ*)—we
+- प्रति पश्येम (*prati paśyema*)—may we see individually; and
+- नृचक्षसः (*nṛcakṣasaḥ*)—by men
+
+### Printed p. 1067
+
+all the things that can be seen
+- वि पश्येम (*vi paśyema*)—may we see in particular. [Or: नृचक्षसः (*nṛcakṣasaḥ*)—we, causing harm to enemy folk; विपश्येम (*vipaśyema*)—let us become possessed of distinguished knowledge.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, may we see individually you who see all. May we see all the things that can be seen by men; or else, may we, harming enemy folk, be endowed with special knowledge.
+
+##### English translation
+May we look upon you, Surya, the bright beholder (of all), may we look into the things which are visible to mankind.
+
+## Sūkta 159 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदसाविति षडृचमष्टमं सूक्तमानुष्टुभं । पुलोमतनया शची स्वात्मानमनेनास्त् । अतः सैवर्षिः सैव देवता । तथा चानुक्रांतं । उदसौ षट्
+> पौलोमी शच्यात्मानं तुष्टावानुष्टुभमिति ॥ विनियोगो लिंगादवगंतव्यः ॥ आपस्तंबस्तु सपत्नीनाशने सूर्योपस्थान इदं सूक्तं विनियुक्तवान् । सूत्र्यते हि ।
+> एतेनैव कामेनोत्तरेणानुवाकेन सदादित्यमुपतिष्ठते । आप. गृ ९-९ । इति ।
+> अत्रैतेनेति प्रकृतं सपत्निबाधनं परामृश्यते ॥
+
+##### Gist of the bhāṣya
+
+उदसौ (*udasau*) is the eighth sūkta, of six Ṛks, in the Anuṣṭubh metre. Śacī, the daughter of Pulomā, praised herself with it; hence she is both ṛṣi and deity. So the Anukramaṇikā says: उदसौ षट् पौलोमी शच्यात्मानं तुष्टावानुष्टुभमिति (*udasau ṣaṭ paulomī śacyātmānaṃ tuṣṭāvānuṣṭubhamiti*). The use is to be understood from the indication (लिंग (*liṃga*)) of the text. But Āpastamba applied this sūkta in the worship of Sūrya for the destruction of a co-wife; for it is stated in a sūtra: एतेनैव कामेनोत्तरेणानुवाकेन सदादित्यमुपतिष्ठते (*etenaiva kāmenottareṇānuvākena sadādityamupatiṣṭhate*) (Āpa. Gṛ. 9-9). Here एतेन (*etena*) refers back to the harming of a co-wife, which is the matter under discussion.
+
+##### Anuvāda
+
+This sūkta उदसौ (*udasau*) is the eighth sūkta in the twelfth anuvāka. It has six Ṛks. In this sūkta the woman Śacī, daughter of Pulomā, has praised herself. Therefore Śacī Paulomī is both ṛṣi and deity of this sūkta. The metre is Anuṣṭubh. In the Anukramaṇikā it is said: उदसौ षट् पौलोमी शच्यात्मानं तुष्टावानुष्टुभं (*udasau ṣaṭ paulomī śacyātmānaṃ tuṣṭāvānuṣṭubhaṃ*). The use is to be understood from the matters stated in the sūkta. The great ṛṣi Āpastamba, in the Āpastamba Gṛhya Sūtra, (explains that) this sūkta is used for the upasthāna mantras in the rite performed for removing the affliction caused by a sapatnī (co-wife), in the sūtra एतेन्वॆव कामे (*etenvèva kāme*)
+
 ---
 
-**Progress note:** Done through printed p. 1061. pp. 1055-1061 (batch API)
+**Progress note:** Done through printed p. 1067. pp. 1062-1067 (batch API)
