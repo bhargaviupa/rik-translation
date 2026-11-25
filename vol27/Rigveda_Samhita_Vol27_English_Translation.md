@@ -28057,6 +28057,141 @@ There is a special order in reciting the mantras of the sūkta प्रदे�
 
 Here it is necessary to explain the order of performance in detail. On the Sutyā-day-before, that is, the day before the pressing of the Soma, after the Agnīṣomīya ceremony the waters called Vasatīvarī must be established on the sacrificial altar for use at the time of the Soma pressing. After midnight has passed, one gives up sleep and rises, touches the Āgnīdhra, Dhiṣṇya fires and the rest with the proper mantras, sets out the vessels needed for the Soma pressing, and directs the Hotṛ with the Praiṣa mantra to recite the Prātaranuvāka mantras. After the recitation of the Prātaranuvāka, one offers an oblation with the mantra शृणोत्वग्निः (*śṛṇotvagniḥ*), and, as the men go to fetch water in the Ekadhanā vessels, one directs the Hotṛ, for the recitation of the Aponaprīya sūkta, with the Praiṣa mantra एकधना अप आनय (*ekadhanā apa ānaya*). All these steps are described in the Adhvaryu's procedure. In this matter the great ṛṣi Āpastamba has laid down the course of action in sūtra sentences such as यित्राभिजानात्यभूदुषा (*yitrābhijānātyabhūduṣā*) and so on. The great ṛṣi Āśvalāyana too, regarding the recitation of the mantras and the rest belonging to the Hotṛ, has laid down the order in sentences such as परिहितेऽप इष्ट होतः (*parihite 'pa iṣṭa hotaḥ*). After the recitation of the ten ṛks of the sūkta (9-11), when the men who went to fetch water in the Ekadhanā vessels fill their vessels and return from the river, the Hotṛ recites the tenth ṛk of the sūkta, आवर्वृतशरीरध (*āvarvṛtaśarīradha*) (10-30-10).
 
+### Printed p. 789
+The first lines complete the Āśvalāyana rule quoted before: प्रति यदापो अदृश्रमायतीरिति प्रतिदृश्यमानासु । आ धेनवः पयसा तूर्णर्था इत्युपायतीषु । समन्या यंत्युप यंत्यन्या इति समायतीषु । (*prati yadāpo adṛśramāyatīriti pratidṛśyamānāsu | ā dhenavaḥ payasā tūrṇarthā ityupāyatīṣu | samanyā yaṃtyupa yaṃtyanyā iti samāyatīṣu |*)
+
+When the men have filled the ekadhanā vessels with water and are coming back from the river bank, the Hotṛ sees them carrying the water-filled ekadhanā vessels and recites the mantra Prati yadāpaḥ (10-30-13). He recites the mantra Ā dhenavaḥ payasā (5.43-3) when the waters in those ekadhanā vessels reach the Cātvāla (a pit or hollow in the sacrificial ground). **NOTE**
+
+An explanation is necessary here. As soon as the Adhvaryu has directed, by the Praiṣa mantra उन्नेतर्होतृचमसेन वसतीवरीभिश्व चात्वालं प्रत्यास्व (*unnetarhotṛcamasena vasatīvarībhiśva cātvālaṃ pratyāsva*), the priest called Unnetṛ carries to the neighbourhood of the Cātvāla the water that was placed the day before in the vessel called vasatīvarī, in the Hotṛ's cup (camasa). Then, according to the Praiṣa mantra मैत्रावरुणस्य चमसाध्वर्यवाद्रव (*maitrāvaruṇasya camasādhvaryavādrava*), the Camasādhvaryu, the attendant of the priest Maitrāvaruṇa, brings the Maitrāvaruṇa cup also to the Cātvāla. Here "the Hotṛ's cup" is to be understood as the water in the vasatīvarī vessel, and "the Maitrāvaruṇa cup" as the water in the ekadhanā vessels. Then the Adhvaryu pours the waters of the ekadhanā vessels in the Maitrāvaruṇa cups into the Hotṛ's cup that holds the vasatīvarī water, mixing one with the other. While he mixes, the Hotṛ recites the Ṛk Samanyā yantyupa (2.35-3). The sage Āpastamba has explained this clearly in the sūtra beginning होतृ चमसेन वसतीवरीभ्यो (*hotṛ camasena vasatīvarībhyo*).
+
+There is an ancient story about these Ṛks, which is given here.
+
+आपो वा अस्पर्धंत वयं पूर्वं यज्ञं वक्ष्यामो वयमिति याश्चेमाः पूर्वेद्युर्वसतीवर्योगृह्यंते याश्च प्रातरेकधनास्ता भृगुरपश्यदापो वै स्पर्धंत इति ता एतयर्चा समज्ञपयत्समन्या यंत्युप यंत्यन्या इति ताः समजानत संजानाना हास्यापो यज्ञं वहंति य एवं वेद ॥ (*āpo vā aspardhaṃta vayaṃ pūrvaṃ yajñaṃ vakṣyāmo vayamiti yāścemāḥ pūrvedyurvasatīvaryogṛhyaṃte yāśca prātarekadhanāstā bhṛgurapaśyadāpo vai spardhaṃta iti tā etayarcā samajñapayatsamanyā yaṃtyupa yaṃtyanyā iti tāḥ samajānata saṃjānānā hāsyāpo yajñaṃ vahaṃti ya evaṃ veda ‖*)
+
+The water brought the day before the Soma-pressing is stored in the vessel called vasatīvarī. On the very day of the pressing, that is, in the morning of that day, freshly drawn water from the river is brought and placed in the vessels called ekadhanā. The waters in these two kinds of vessels once competed with one another, with jealousy, over the carrying out of the sacrifice. That is, the vasatīvarī waters (or the deities presiding over water) said "we are able to carry out the sacrifice", and the waters in the ekadhanā vessels said "we have greater power", and they struggled in rivalry. The sage Bhṛgu saw this
+
+### Printed p. 790
+and recited the Ṛk Samanyā yanti (2-35-3). He removed the mutual discord of the two kinds of waters, pacified them with conciliatory words and brought them to agreement. By the power of that mantra both kinds of water put their quarrels aside and began to act in harmony in carrying out the sacrifice. The sacrificer who knows this becomes able to complete his sacrificial acts without quarrel, in mutual agreement and without obstacle.
+
+आपो न देवीरुपयंति होत्रियमिति होतृचमसे समवनीयमानास्वन्वाह वसतीवरीष्टेकधनासु च । (*āpo na devīrupayaṃti hotriyamiti hotṛcamase samavanīyamānāsvanvāha vasatīvarīṣṭekadhanāsu ca |*)
+
+After the two kinds of water from the vasatīvarī and ekadhanā vessels have been poured into the Hotṛ's cup, the Hotṛ recites the mantra Āpo na devīrupayanti (1-83-2).
+
+अवेरपोऽध्वर्या ३ उ इति होताध्वर्युं पृच्छति । आपो वै यज्ञोऽ विदो यज्ञा ३ मित्येव तदाह । उतेमनन्नमुरित्यध्वर्युः प्रत्याह । उतेमाः पश्येत्येव तदाह । (*averapo 'dhvaryā 3 u iti hotādhvaryuṃ pṛcchati | āpo vai yajño ' vido yajñā 3 mityeva tadāha | utemanannamurityadhvaryuḥ pratyāha | utemāḥ paśyetyeva tadāha |*)
+
+Then the Hotṛ recites a Yajus mantra and asks the Adhvaryu: "O Adhvaryu, you have now obtained the two kinds of water, have you not?" The two kinds of water are, as said before, the waters in the vasatīvarī and ekadhanā vessels. These waters are used at the time of the Soma-pressing for carrying out the sacrifice; therefore the sacrifice is said to be of the nature of water. To that question the Adhvaryu replies: "O Hotṛ, I have obtained for the carrying out of the sacrifice the two kinds of water you asked about. Look."
+
+तास्वध्वयो इंद्राय सोमं सोता मधुमंतं वृष्टिवनिं तीव्रांतं बहुरमध्यं वसुमते रुद्रवत आदित्यवत ऋभुमते विभुमते वाजवते बृहस्पतिवते विश्वदेव्यावते । यस्येंद्रः पीत्वा वृत्राणि जंघनत्प स जन्यानि तारिषो ३ मिति प्रत्युत्तिष्ठति ॥ (*tāsvadhvayo iṃdrāya somaṃ sotā madhumaṃtaṃ vṛṣṭivaniṃ tīvrāṃtaṃ bahuramadhyaṃ vasumate rudravata ādityavata ṛbhumate vibhumate vājavate bṛhaspativate viśvadevyāvate | yasyeṃdraḥ pītvā vṛtrāṇi jaṃghanatpa sa janyāni tāriṣo 3 miti pratyuttiṣṭhati ‖*)
+
+Having recited this mantra, the Hotṛ must perform the rising (pratyutthāna) addressed to the deities presiding over the waters, that is, he must stand up and pray: "O Adhvaryu, with the help of the two kinds of water you have obtained, the vasatīvarī and the ekadhanā, perform the Soma-pressing, that is, crush the Soma plants, take out the juice, press it and prepare it for Indra to drink." What the Soma juice must be like: sweet, endowed with sweet juice, causing rain (vṛṣṭi), giving its fruit quickly, and accompanied by many kinds of ritual subsidiary acts. Here for the word madhumantaṃ
+
+### Printed p. 791
+the sense is that the Soma juice must be sweet like honey, or pleasant to the taste. Vṛṣṭivanim means "giving rain": Indra, satisfied by drinking this Soma, in his joy splits the clouds and makes the rain fall. Tīvrāntaṃ: the sacrifice is completed without obstacle and its fruit is obtained quickly. Bahura(la)madhyaṃ: there are many kinds of subsidiary acts in the sacrifice; from the choosing of the priests up to the completion there are many kinds of ritual acts. Therefore the intention is: prepare for Indra, by pressing it, a Soma juice with these qualities, which is the means of carrying out these many acts. This Soma juice is not for Indra alone; it is for the drinking of Indra and of the other deities who are with Indra. Who those deities are: वसुमते रुद्रवते आदित्यवते विश्वदेव्यावते । (*vasumate rudravate ādityavate viśvadevyāvate |*) That is, the eight Vasus, the eleven Rudras, the twelve Ādityas, the three Ṛbhus called Ṛbhu, Vibhu and Vāja, Bṛhaspati, the Viśvedevas and others. The intention is: press and prepare the Soma juice for the drinking of Indra together with these deities. Having drunk such Soma juice, Indra becomes able to destroy the enemies and the sins of the sacrificing sacrificer. The meaning of the mantra is: "O Adhvaryu, prepare such Soma juice." Having recited this mantra, and at its end the praṇava mantra Om, the Hotṛ stands up and prays.
+
+प्रत्युत्थेया वा आपः प्रति वै श्रेयांसमायंतमुत्तिष्ठंति तस्मात्पृत्युत्थेयाः । अनु पर्यावृत्याः अनु वै श्रेयांसं पर्यावर्तंते तस्मादनु.. पर्यावृत्या अनुब्रुवतैवानुप्रपत्तव्यं । (*pratyuttheyā vā āpaḥ prati vai śreyāṃsamāyaṃtamuttiṣṭhaṃti tasmātpṛtyuttheyāḥ | anu paryāvṛtyāḥ anu vai śreyāṃsaṃ paryāvartaṃte tasmādanu.. paryāvṛtyā anubruvataivānuprapattavyaṃ |*)
+
+One must stand up to show respect to these two kinds of water. In worldly custom, when some great person comes, that is, a teacher, an elder, a father and the like, it is the practice for pupils, sons and others to stand up to show respect. In the same way here, the priests and others must stand up to show respect to these two kinds of water, which are indispensable for the sacrificial acts worthy of worship. Not only that: when those worthy of respect move about, it is natural to follow them and honour them humbly from behind. The intention is that the same is to be done here.
+
+ईश्वरो ह यद्यप्यन्नो यजेताथ;होतारं यशोर्तोस्तस्मादनुब्रुवतैवानुप्रपत्तव्यं । (*īśvaro ha yadyapyanno yajetātha;hotāraṃ yaśortostasmādanubruvataivānuprapattavyaṃ |*)
+
+Even if the Hotṛ is not one who takes part in the sacrifice, if the Hotṛ who recites the mantras shows respect to these waters and follows them, fame and eminence come to him.
+
+### Printed p. 792
+Therefore those who recite the mantras must necessarily follow those waters. While following them thus, one must recite the mantra not yet recited in this rite,
+
+अंबयो यंत्यध्वभिरित्येतामनुब्रुवन्ननु प्रपद्येत । (*aṃbayo yaṃtyadhvabhirityetāmanubruvannanu prapadyeta |*)
+
+namely Ambayo yanti (1-23-16).
+
+जामयो अध्वरीयतां । पृंचतीर्मधुना पयॆ इति योऽमधव्यो यशोऽर्तोर्बुभूषेत् । (*jāmayo adhvarīyatāṃ | pṛṃcatīrmadhunā payè iti yo 'madhavyo yaśo 'rtorbubhūṣet |*)
+
+The meaning of this Ṛk is explained: the word amba is a word for "mother" that shows respect. Ambayaḥ means these waters, who are to be honoured like mothers. These two kinds of water, equal to mothers, go by various paths. For the sacrificer who wishes to carry out the sacrifice they are bhaginī, that is, like sisters, wishing his good; and they satisfy everyone with their own sweet water. The man who has not so far known the taste of Soma juice and who wishes to gain fame by performing the Soma sacrifice, if he recites the mantra, shows respect to these waters and follows them, obtains his desired aim.
+
+अमूर्या उप सूर्ये याभिर्वा सूर्यः सहेति तेजस्कामो ब्रह्मवर्चसकामः । (*amūryā upa sūrye yābhirvā sūryaḥ saheti tejaskāmo brahmavarcasakāmaḥ |*)
+
+In the next Ṛk other fruits are stated: if one recites the Ṛk Amūryā upa sūrye (1-23-17), one becomes radiant and full of brahmic splendour through the wealth of learning.
+
+अपो देवीरुपह्वये यत्र गावः पिबंति न इति पशुकामः ॥ (*apo devīrupahvaye yatra gāvaḥ pibaṃti na iti paśukāmaḥ ‖*)
+
+The man who desires wealth of cattle should recite the Ṛk Apo devīrupa hvaye (11-23-18). **NOTE**
+
+ता एताः सर्वा एवानुब्रुवन्ननुप्रपद्येतैतेषां कामानामवरुध्यॆ । एतान्यामानवरुंधे य एवं वेद ॥ (*tā etāḥ sarvā evānubruvannanuprapadyetaiteṣāṃ kāmānāmavarudhyè | etānyāmānavaruṃdhe ya evaṃ veda ‖*)
+
+One who wishes to obtain all his desired aims should recite all three Ṛks mentioned above. The man who knows this obtains all his desired aims and is happy.
+
+एमा अग्नस्रेवतीर्जीवधन्या इति साद्यमानास्वन्वाह वसतीवरीष्वेकधनासु च । आग्मन्नाप उशतीर्बर्हिरेदमिति सन्नासु स एतया परिदधाति ॥ (*emā agnasrevatīrjīvadhanyā iti sādyamānāsvanvāha vasatīvarīṣvekadhanāsu ca | āgmannāpa uśatīrbarhiredamiti sannāsu sa etayā paridadhāti ‖*) (Ai. Brā. 8-20)
+
+### Printed p. 793
+When the two kinds of water mentioned above, that is, the waters of the vasatīvarī and ekadhanā vessels, are being carried to the neighbourhood of the Uttaravedi, the Hotṛ must recite the Ṛk Emā agmanrevatīḥ (10-30-14). After those two kinds of water have been placed on the vedi, the Hotṛ must recite the Ṛk Agmannāpa (10-30-15) as the last Ṛk of this Apo-naptrīya rite and bring the rite to completion.
+
+Here the description of the rite called Aponaptrīya is complete.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयेऽनुवाके त्रयोदश सूक्तानि । तत्र प्र देवत्रेति पंचदशर्चं
+> प्रथमं सूक्तं । इलूषपुत्रस्य कवषस्यार्षं त्रैष्टुभमद्देवत्यमपांनपाद्देवताकं
+> वा । तथा चानुक्रांतं । प्र देवत्रा पंचोना कवष ऐलूष अपमपोनप्रीयं
+> वेति॥ अपयिष्य होतरित्युक्तः सन् होता प्र देवत्रेत्याद्या नवर्चोऽनुब्रूयात्।
+> सूत्रितं च । प्र देवत्रा ब्रह्मणे गातुरेत्विति नव हिनोता नो अध्वरं देवयज्येति
+> दशमीं । आ. ५-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+In the third anuvāka there are thirteen sūktas. Of these the first is the fifteen-Ṛk sūkta Pra devatrā. Its seer is Kavaṣa, son of Ilūṣa. Its deity is the Waters, or else Apāṃnapāt; its metre is Triṣṭubh. Sāyaṇa cites the Anukramaṇī: प्र देवत्रा पंचोना कवष ऐलूष अपमपोनप्रीयं वेति॥ (*pra devatrā paṃconā kavaṣa ailūṣa apamaponaprīyaṃ veti‖*) Use: when the Adhvaryu has said "Hotṛ, [offer] the waters" (*apayiṣya hotaḥ*), the Hotṛ should recite the first nine Ṛks beginning Pra devatrā. He states this is laid down in the sūtra: प्र देवत्रा ब्रह्मणे गातुरेत्विति नव हिनोता नो अध्वरं देवयज्येति दशमीं । आ. ५-१ । (*pra devatrā brahmaṇe gāturetviti nava hinotā no adhvaraṃ devayajyeti daśamīṃ | ā. 5-1 |*) i.e. Ā. 5-1. **NOTE**
+
+##### Anuvāda
+
+In the third anuvāka of the tenth maṇḍala there are thirteen sūktas. Of these this sūkta, Pra devatrā, is the first; it has fifteen Ṛks. Its seer is Kavaṣa, son of Ilūṣa; its deity is the Waters or Apāṃnapāt; its metre is Triṣṭubh. In the Anukramaṇī it is said: Pra devatrā paṃcona Kavaṣa Ailūṣa Āpamaponastrīyaṃ vā. As soon as the Adhvaryu, addressing the Hotṛ, has recited the Praiṣa mantra "अप इष्ट्य होतः (*apa iṣṭya hotaḥ*)", the Hotṛ must recite the first nine Ṛks of this sūkta beginning Pra devatrā; this is explained by the Āśvalāyana Śrauta Sūtra (Ā. 5-1): "Pra devatrā brahmaṇe gāturetvi, nine; Hinotā no adhvaraṃ devayajyā, the tenth."
+
+Sūkta 30. Maṇḍala 10; Anuvāka 3; Sūkta 30. Aṣṭaka 7; Adhyāya 7; Vargas 24, 25, 26. Number of Ṛks in the sūkta: 15. Seer: Kavaṣa Ailūṣa. Deity: Āpaḥ or Apāṃnapāt. Metre: Triṣṭubh.
+
+### Printed p. 794
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र दे॑व॒त्रा ब्रह्म॑णे गा॒तुरे॑त्व॒पो अच्छा॒ मन॑सो॒ न प्रयु॑क्ति ।  
+> म॒हीं मि॒त्रस्य॒ वरु॑णस्य धा॒सिं पृ॑थु॒ज्रय॑से रीरधा सुवृ॒क्तिं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । देवत्रा । ब्रह्मणे । गातुः । एतु । अपः । अच्छ । मनसः । न । प्रयुक्ति ।  
+> महीं । मित्रस्य । वरुणस्य । धासिं । पृथुज्रयसे । रीरध । सुवृक्तिं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मणे । तृतीयार्थे चतुर्थी । ब्रह्मणा स्तोत्रेण । स्सूयमान इति शेषः।
+> गातुर्देवानपो वा प्रतिगमनशीलः सोमो देवत्रा देवीर्दोतमाना अपो
+> वसतीवर्येकधनालक्षणान्वयुदकान्यच्छाभि प्रैतु । प्रकर्षेण गच्छतु । तत्र दृष्टांतः ।
+> मनसो न प्रयुक्ति यथा मनसः प्रयुक्तिः प्रयोग उद्योगः शीघ्रं गच्छति
+> तद्वत् । एवं सोमेऽपः प्रतिगते सति हे मदीयात्मन् अध्वर्यो ना महीं
+> धासिं महत्सोमलक्षणमन्नं मित्रस्य वरुणस्य चार्थाय पृथुज्रयसे विस्तीर्णजवाय । महागतेरिंद्रस्य चार्थायेत्यर्थः । रीरध । संसाधय । संस्कुरु । दानयोग्यं कुरु । सुवृक्तिं सुष्टु दोषैर्वर्जितां स्तुतिं च कुरु ॥
+
+##### Gist of the bhāṣya
+
+ब्रह्मणे (*brahmaṇe*): the fourth case is used in the sense of the third; "by brahman", that is, by a stotra, "being praised" is to be supplied. गातुः (*gātuḥ*) is Soma, whose nature is to go to the gods or to the waters. Let him go forth towards (*acchābhi praitu*) the shining (देवत्रा (*devatrā*)) waters, namely the waters of the vasatīvarī and ekadhanā kind; let him advance. An example: मनसो न प्रयुक्ति (*manaso na prayukti*), as the prayoga, the impulse, of the mind goes swiftly, so. When Soma has thus gone to the waters, "O Adhvaryu, my own self" (हे मदीयात्मन् अध्वर्यो ना (*he madīyātman adhvaryo nā*)), bring to completion (रीरध (*rīradha*): perfect, prepare, make fit for giving) the great food (महीं धासिं (*mahīṃ dhāsiṃ*)), whose nature is Soma, for Mitra and Varuṇa, and for पृथुज्रयसे (*pṛthujrayase*), one of wide speed, that is, for Indra of great motion. And make (सुवृक्तिं (*suvṛktiṃ*)) a praise well free from faults.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनसः (*manasaḥ*)—of the mind
+- प्रयुक्ति न (*prayukti na*)—swiftly, like the activity
+- ब्रह्मणे (*brahmaṇe*)—praised with praise
+- गातुः (*gātuḥ*)—going, Soma that has the nature of going
+- देवत्रा (*devatrā*)—shining
+- अपः अच्छ (*apaḥ accha*)—towards the waters of the vasatīvarī and other vessels
+- प्र एतु (*pra etu*)—let it flow
+- मित्रस्य (*mitrasya*)—for Mitra
+- वरुणस्य (*varuṇasya*)—for Varuṇa
+- पृथुज्रयसे (*pṛthujrayase*)—for Indra, who has great speed
+- महीं (*mahīṃ*)—great
+- धासिं (*dhāsiṃ*)—the food in the form of Soma
+- रीरध (*rīradha*)—prepare and offer
+- सुवृक्तिं (*suvṛktiṃ*)—offer also a praise free from faults
+
+##### भावार्थ (Bhāvārtha)
+
+Let Soma, praised with praise and given to going, flow swiftly, like the activity of the mind, towards the shining waters of the vasatīvarī and other vessels. Prepare and offer the great food in the form of Soma to Mitra and Varuṇa and to Indra of great speed. Offer a praise free from faults.
+
 ---
 
-**Progress note:** Done through printed p. 788. pp. 783-788 (batch API)
+**Progress note:** Done through printed p. 794. pp. 789-794 (batch API)
