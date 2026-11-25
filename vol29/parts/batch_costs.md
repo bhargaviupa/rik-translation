@@ -30,3 +30,4 @@
 | 28 | through p. 523 (three windows in one agent: pp. 505–523) | sonnet | 14 | 171887 | 4.5 |
 | 29 | through p. 543 (three windows in one agent: pp. 524–543) | sonnet | 27 | 241669 | 7.0 |
 | 30 | through p. 556 (two windows in one agent: pp. 544–556; the third not started after a VERIFY FAIL, repaired by the dispatcher) | sonnet | 21 | 164911 | 5.0 |
+| 31 | through p. 576 (three windows in one agent: pp. 557–576) | sonnet | 19 | 217764 | 6.8 |
