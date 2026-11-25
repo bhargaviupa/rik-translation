@@ -8334,6 +8334,256 @@ O Harivat Indra, for the drinking of the pressed Soma, come to our ब्रह�
 
 O Indra, who possess horses, come graciously with your horses towards the extended praises, for the drinking of the pressed Soma. O Indra, the Soma sacrifice approaches you, who are patient. You, who know the nature of the sacrifice, are the giver of the fruit of the rite.
 
+### Printed p. 220
+#### Ṛk 6 (continued)
+
+##### English translation
+Lord of bay horses, come with your two bays to our adorations to drink of the effused Soma-juice; the sacrifice Indra, reaches to you who are enduring; cognizant of the sacrifice, thou are the donor of the reward.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑वाजमभिमाति॒षाहं॑ सु॒तेर॑णं म॒घवा॑नं सुवृ॒क्तिं ।  
+> उप॑ भूषंति॒ गिरो॒ अप्र॑तीत॒मिंद्रं॑ नम॒स्या ज॑रि॒तुः प॑नंत॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रवाजं । अभिमाति सहं । सुतेरणं । मघवानं । सुवृक्तिं ।  
+> उप । भूषंति । गिरः । अप्रतिइतं । इंद्रं । नमस्याः । जरितुः । पनंत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रवाजमपरिमितान्नमपरिमितबलं वाभिमातिषाहमभिमातीनां सर्वतो
+> हिंसकानां शत्रूणामभिभवितारं सुतेरणमभिषुते सोमे रममाणं मघवानं
+> धनवंतं सुवृक्तिं शोभनस्तुतिकमप्रतीतं युद्धेऽन्यैरप्रतिगतमिंद्रं गिरः स्तुतिरूपा वाच उप भूषंति । अलंकुर्वंति । तदेवाह । जरितुः स्तोतुर्नमस्याः
+> स्तुतयः पनंत । स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses सहस्रवाजं (*sahasravājaṃ*) as the one with limitless food or limitless strength. अभिमातिषाहं (*abhimātiṣāhaṃ*) is the overcomer of the enemies who harm from every side. सुतेरणं (*suteraṇaṃ*) is the one who delights in the pressed Soma. मघवानं (*maghavānaṃ*) is the wealthy one. सुवृक्तिं (*suvṛktiṃ*) is the one of good praise. अप्रतीतं (*apratītaṃ*) is the one whom no others can withstand in battle. The praise-words (गिरः (*giraḥ*)) adorn (उप भूषंति (*upa bhūṣaṃti*)) this Indra. He then says the same thing again: the praises (नमस्याः (*namasyāḥ*)) of the worshipper praise (पनंत (*panaṃta*)) him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रवाजं (*sahasravājaṃ*)—one of limitless strength
+- अभिमातिषाहं (*abhimātiṣāhaṃ*)—destroyer of harming enemies
+- सुतेरणं (*suteraṇaṃ*)—one who finds satisfaction in the pressed Soma
+- मघवानं (*maghavānaṃ*)—the wealthy one
+- सुवृक्तिं (*suvṛktiṃ*)—one possessed of excellent praise
+- अप्रतीतं (*apratītaṃ*)—unassailed in battle
+- इंद्रं (*iṃdraṃ*)—Indra
+- गिरः (*giraḥ*)—words in the form of praise
+- उपभूषंति (*upabhūṣaṃti*)—adorn
+- जरितुः (*jarituḥ*)—of the praiser
+- नमस्याः (*namasyāḥ*)—praises
+- पनंत (*panaṃta*)—extol Indra
+
+### Printed p. 221
+
+##### भावार्थ (Bhāvārtha)
+
+Words in the form of praise adorn Indra, who is of limitless strength, destroyer of harming enemies, finds satisfaction in the pressed Soma, is wealthy, possessed of excellent praise, and unassailed in battle. The praises of the worshipper extol Indra.
+
+##### English translation
+Our praises celebrate the irresistible Indra, the dispenser of abundant food, overcomer of enemies, the delighter in the libation, the possessor of opulence, the well-praised; the adorations of the worshipper glorify (him).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒प्तापो॑ दे॒वीः सु॒रणा॒ अमृ॑क्ता॒ याभिः॒ सिंधु॒मत॑र इंद्र  ॒
+> पूर्भित् ।  
+> न॒व॒तिं स्रो॒त्या नव॑ च॒ स्रवं॑तीर्दे॒वेभ्यो॑ गा॒तुं मनु॑षे च  
+> विंदः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सप्त । आपः । देवीः । सुरणाः । अमृक्ताः । याभिः । सिंधुं । अतरः । इंद्र । पूःभित् ।  
+> नवतिं । स्रोत्याः । नव । च । स्रवंतीः । देवेभ्यः । गातुं । मनुषे । च । विंदः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वदाज्ञया सप्तैतत्संख्याका आपोऽब्रूपा देवीर्देव्यो
+> गंगाद्याः सुरणाः सुष्टु रममाणाः शोभनशब्दा ना ॥ रणिः शब्दार्थः । वशरण्योरुपसंख्यानं । पा. ३-३-५८-३ । इति भावेऽप् । बहुव्रीहावाद्युदात्तं द्व्यच्छंदसीत्युत्तरपदाद्युदात्तत्वं ॥ अमृक्ता अहिंसिताः प्रवहंतीति शेषः । हे इंद्र पूर्भित्
+> पुरां भेत्ता त्वं याभिर्गंगादिभिः सप्तनदीभिः सिंधुं समुद्रमतरः । प्रावर्धय
+> इत्यर्थः । यद्वा । सप्त सर्पणस्वभावा उक्तलक्षणा आपो देव्यस्त्वया सृष्टाः
+
+##### Gist of the bhāṣya
+
+"O Indra, by your command the seven waters, divine rivers such as the Gaṅgā, flow well and with fair sound (सुरणाः (*suraṇāḥ*)), unharmed (अमृक्ताः (*amṛktāḥ*)); 'they flow' is to be supplied. O Indra, breaker of cities, by these seven rivers, the Gaṅgā and the rest, you crossed the ocean (सिंधुं (*siṃdhuṃ*))", that is, you made it swell. Alternatively: the seven divine waters, of winding nature, were created by you and flow; by them you crossed the river Sindhu. (The sentence continues on the next page.)
+
+### Printed p. 222
+
+> प्रवहंति याभिः सिंधुं नदीमतरः । किंच त्वं नवतिं नव च नवोत्तरनवतिसंख्याकाः
+> स्रवंतीः प्रवहंतीः स्रोत्याः । नदीनामैतत् । नदीर्देवेभ्यो हविरर्थं मनुषे
+> मनुष्याय भोगार्थं च गातुं गंतव्यं तासां मार्गं च विंदः । अलभथाः ॥
+
+##### Gist of the bhāṣya
+
+Further, you found the ninety-and-nine flowing rivers (स्रोत्याः (*srotyāḥ*) is a name for rivers) and their path to be travelled, for the gods, for the oblation, and for man, for enjoyment.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- पूर्भित् (*pūrbhit*)—you who split the enemy cities
+- याभिः (*yābhiḥ*)—by which rivers, the Gaṅgā and others
+- सिंधुं (*siṃdhuṃ*)—the ocean
+- अतरः (*ataraḥ*)—you made vast; such
+- देवीः (*devīḥ*)—divine in nature
+- सुरणाः (*suraṇāḥ*)—having a gladdening sound
+- सप्त आपः (*sapta āpaḥ*)—the seven rivers, the Gaṅgā and others
+- अमृक्ताः (*amṛktāḥ*)—flow unharmed
+- (त्वं (*tvaṃ*)—you)
+- नवतिं नव (*navatiṃ nava*)—numbering ninety-nine
+- स्रवंतीः (*sravaṃtīḥ*)—flowing
+- स्क्रोत्याः (*skrotyāḥ*)—of the rivers
+- गातुं (*gātuṃ*)—the path
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- मनुषे (*manuṣe*)—for men
+- विंदः (*viṃdaḥ*)—you have found
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who split the enemy cities: the seven divine rivers, the Gaṅgā and the rest, with gladdening sound, by which you made the ocean vast, flow unharmed. You have found the paths of the ninety-nine rivers for the gods and for men.
+
+##### English translation
+The seven divine meandering rivers with which you, Indra, the destroyer of cities, replenished the ocean, flow unimpeded; you discovered the nine-and-ninety flowing rivers (and their) path for gods and men.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒पो म॒हीर॒भिश॑स्तेरमुं॒चोजा॑गरा॒स्वधि॑ दे॒व एकः॑ ।  
+> इंद्र॒ यास्त्वं वृ॑त्र॒तूर्ये॑ च॒कर्थ॒ ताभि॑र्वि॒श्वायु॑स्त॒न्वं॑  
+> पुपुष्याः ॥ ९ ॥
+
+### Printed p. 223
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपः । महीः । अभिशस्तेः । अमुंचः । अजागः । आसु । अधि । देवः । एकः ।  
+> इंद्र । याः । त्वं । वृत्रतूर्ये । चकर्थ । ताभिः । विश्वआयुः । तन्वं । पुपुष्याः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महीर्महतीरप उदकान्यभिशस्तेरभिशंसकाद्वृत्रादमुंचः । आसु
+> मुक्तास्वप्नु देवस्त्वमेक एक एवासहायः सन्नध्यजागः । अप्रमत्तो भवसि ।
+> यद्वा । अधीति सप्तम्यर्थानुवादी । हे इंद्र त्वं या अपो वृत्रतूर्ये
+> वृत्रहत्यायां चकर्थ करोषि ताभिरद्विर्विश्वाभिः सर्वाभिस्तं तनुं स्वकीयं शरीरं
+> पुपुष्याः । पोषयेः ॥ पुष पुष्पावित्यस्य व्यत्ययेन श्लुः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you released the great waters from the abuser (अभिशस्तेः (*abhiśasteḥ*)), that is, from Vṛtra the afflicter. Over these released waters you, the one god, alone and without helper, kept watch (अजागः (*ajāgaḥ*)), that is, you are unheedless of nothing. Alternatively, अधि (*adhi*) merely restates the sense of the locative. O Indra, with those waters, all of them, which you made in the slaying of Vṛtra, may you nourish (पुपुष्याः (*pupuṣyāḥ*)) your own body.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- महीः (*mahīḥ*)—of great nature
+- अपः (*apaḥ*)—the waters
+- अभिशस्त्रेः (*abhiśastreḥ*)—from the grip of the wicked Asura
+- अमुंचः (*amuṃcaḥ*)—you released
+- आसु (*āsu*)—in regard to these released waters
+- देवः (*devaḥ*)—you, the revered one
+- एकः (*ekaḥ*)—alone, without helper (without a second)
+- अधि अजागः (*adhi ajāgaḥ*)—you have been watchful
+- त्वं (*tvaṃ*)—you
+- याः (*yāḥ*)—which waters
+- वृत्रतूरै (*vṛtratūrai*)—for the destruction of Vṛtra
+- चकर्थ (*cakartha*)—you made the means
+- ताभिः विश्वाभिः (*tābhiḥ viśvābhiḥ*)—with all those waters
+- तनुं (*tanuṃ*)—your body
+- पुपुष्याः (*pupuṣyāḥ*)—make it grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you released the waters of great nature from the grip of the wicked Asura. In regard to these released waters you alone, without any other's help, remain watchful. With all those waters which you made the means for the destruction of Vṛtra, make your body grow.
+
+##### English translation
+You released the great waters from the malingnant (obstructer), you were the only god who watched over them; with those waters wich you have employed for the destruction of Vritra, may you, all vivifying Indra, cherish your own person.
+
+### Printed p. 224
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वी॒रेण्यः॒ क्रतु॒रिंद्रः॑ सुश॒स्तिरु॒तापि॒ धेना॑ पुरुहू॒तमी॑ट्टे ।  
+> आर्द॑यद्वृ॒त्रमकृ॑णोदु लो॒कं स॑सा॒हे श॒क्रः पृत॑ना अभि॒ष्टिः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीरेण्यः । क्रतुः । इंद्रः । सुशस्तिः । उत । अपि । धेना । पुरुहूतं । ईट्टे ।  
+> आर्दयत् । वृत्रं । अकृणोत् । ऊं इति । लोकं । ससहे । शक्रः । पृतनाः ।  
+> अभिष्टिः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो वीरेण्यो वीरैर्गंतव्योऽतिशयेन वीरो वा क्रतुः कर्मवान्
+> सुशस्तिः शोभनस्तुतिकः । उतापि च । अपीत्यनर्थकः । अपि च धेना । वाग्नामैतत् ।
+> प्रीणयित्री स्तुतिवाक् पुरुहूतमिंद्रमाट्टे । स्तौति पूजयति ना । यत उक्तलक्षणः
+> अतः स्तौतीत्यर्थः । किंचायं वृत्रमावरकमेतन्नामकमसुरमार्दयत् । हतवानित्यर्थः । उ अपि च लोकं । लोक्यत इति लोकः प्रकाशः । तमकृणोत् ।
+> अकरोत्॥ अवरकमसुरं हत्वा प्रकाशं कृतवानित्यर्थः । न केवलं तमेकमेव अपि
+> तु शक्र इंद्रोऽभिष्ठिः शत्रूणामभिगंता पृतनाः शत्रुसेनाः ससाहे । अभ्यभवत् ॥
+
+##### Gist of the bhāṣya
+
+Indra is वीरेण्यः (*vīreṇyaḥ*), one to be approached by heroes, or exceedingly heroic; क्रतुः (*kratuḥ*), a doer of deeds; सुशस्तिः (*suśastiḥ*), one of fair praise. उत (*uta*) and अपि (*api*) mean "and also" (अपि (*api*) is without sense here). धेना (*dhenā*) is a name of speech: the gratifying word of praise extols (ईट्टे (*īṭṭe*)) Indra, the much-invoked (पुरुहूतं (*puruhūtaṃ*)); that is, since he is such as described, it praises him. Further, he slew (आर्दयत् (*ārdayat*)) Vṛtra, the Asura of that name, the obstructer. And he made लोकं (*lokaṃ*), light ("that which is seen"); that is, having slain the obstructing Asura he made light. Not only him: Śakra Indra, अभिष्टिः (*abhiṣṭiḥ*), the one who advances against enemies, overcame (ससाहे (*sasāhe*)) the hostile armies (पृतनाः (*pṛtanāḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- वीरेण्यः (*vīreṇyaḥ*)—foremost among heroes
+- क्रतुः (*kratuḥ*)—one of extraordinary deeds
+- सुशस्तिः (*suśastiḥ*)—one of excellent praise
+- धेना (*dhenā*)—praise
+- पुरुहूतं (*puruhūtaṃ*)—Indra, worthy of the invocation of many
+- ईट्टे (*īṭṭe*)—praises
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- आर्दयत् (*ārdayat*)—Indra has destroyed
+- लोकं (*lokaṃ*)—light
+- अकृणोत् (*akṛṇot*)—has produced
+- अभिष्टिः (*abhiṣṭiḥ*)—the one who confronts enemies
+- शक्रः (*śakraḥ*)—the able Indra
+- पृतनाः (*pṛtanāḥ*)—enemy armies
+- ससाहे (*sasāhe*)—has conquered
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is foremost among heroes, a doer of extraordinary deeds, possessed of excellent praise. Praise extols Indra, who is worthy of the invocation of many. Indra has produced light. Indra, who confronts enemies and is able, has conquered the enemy armies.
+
+### Printed p. 225
+
+##### English translation
+Indra is the chief of heroes, the doer of great deeds, to whom praise is well offered; and the voice of praise lauds him the invoked of many. He slew Vritra, he created light; Shakra, the conqueror, has overcome (hostile) hosts.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒नं हु॑वेम म॒घवा॑न॒मिंद्र॑म॒स्मिन्फरे॒ नृत॑मं॒ वाज॑सात् ।  
+> शृ॒ण्वंत॑मु॒ग्रमू॒तये॑ स॒मत्तु॒ घ्नंतं॑ वृ॒त्राणि॑ सं॒जितं॒ धना॑नां ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुनं । हुवेम । मघ्नवानं । इंद्रं । अस्मिन् । भरे । नृतमं । वाजसात् ।  
+> शृण्वंतं । उग्रं । ऊतये । समत्सु । घ्नंतं । वृत्राणि । संजितं । धनानां॥११॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वाजसात् । वाजस्यान्नस्य सातिर्लाभो यस्मिन् सोऽयं वाजसातिः।
+> अस्मिन्भरे । बिभ्रति जयलक्ष्मीमनेन योद्धार इति भरः संग्रामः । तस्मिन्संग्रामे
+> शुनं शूनमुत्साहेन प्रवृद्धं । यद्वा शुनमिति सुखनाम । सुखकरं मघवानं धनवंतं अत एवेंद्रं निरतिशयैश्वर्यसंपन्नं नृतमं सर्वस्य जगतोऽतिशयेन नेतारं त्वां हुवेम । कुशिका वयं यज्ञार्थमाह्वयेम । तथा शृण्वंतमस्माभिः क्रियमाणां स्तुतिं शृण्वंतमुग्रं शत्रूणां भयंकरं समत्तु संग्रामेषु वृत्राणि वृत्रोपलक्षितानि सर्वाणि रक्षांसि घ्नंतं हिंसंतं धनानां शत्रुसंबंधिनां संजितं सम्यग्वेतारं त्वामूतये रक्षणाय वयमाह्वयेम ॥ शुनं । टुओश्वि गतिवृद्ध्योरित्यस्य
+> निष्ठायां यस्य विभाषेतीट् प्रतिषेधः । यजादित्वात्संप्रसारणं । दीर्घाभावश्चांदसः
+> प्रत्ययस्वरः । हुवेम । ह्वयतेर्बहुलं छंदसीति संप्रसारणे कृते शपो लुकि कृते
+> च लिज् रूपं । निघातः । भरे । भृञ् भरणे । घः । वृषादित्वादाद्युदात्तः ; वाजसात्!
+> षणु दाने । भावे क्तिन् । जनसनेत्यादिनानुनासिकस्यात्वं । बहुव्रीहौ पूर्वपदस्वरः ।
+> समत्सु । आद भक्षणे । संपूर्वात् क्विप् । संभक्षयंति योद्धर्णामायूंषीति समदः
+> 15
+
+##### Gist of the bhāṣya
+
+"O Indra, वाजसात् (*vājasāt*): he in whom there is gain (सातिः (*sātiḥ*)) of food (वाज (*vāja*)) is वाजसातिः (*vājasātiḥ*). In this भरे (*bhare*)", the battle, so called because warriors bear (बिभ्रति (*bibhrati*)) the fortune of victory by it; in that battle शुनं (*śunaṃ*) is "swollen", grown through zeal. Or शुनं (*śunaṃ*) is a name for happiness, so "happiness-giving". Sāyaṇa takes the verse to say: we call you, Indra, who are wealthy (मघवानं (*maghavānaṃ*)), endowed with unsurpassed lordship, and the best leader (नृतमं (*nṛtamaṃ*)) of the whole world. We Kuśikas call you for the sacrifice. Likewise we call you who hear (शृण्वंतं (*śṛṇvaṃtaṃ*)) the praise made by us, who are fierce (उग्रं (*ugraṃ*)), terrifying to enemies, who in battles (समत्सु (*samatsu*)) slay (घ्नंतं (*ghnaṃtaṃ*)) all the Vṛtras, the Rākṣasas marked by Vṛtra's nature, and who are the complete winner (संजितं (*saṃjitaṃ*)) of the enemies' wealth (धनानां (*dhanānāṃ*)). We call you for our protection (ऊतये (*ūtaye*)). The remainder of the block is grammatical and is cut off at the end of the page.
+
 ---
 
-**Progress note:** Done through printed p. 219. pp. 214-219 (batch API)
+**Progress note:** Done through printed p. 225. pp. 220-225 (batch API)
