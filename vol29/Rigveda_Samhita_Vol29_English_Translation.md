@@ -10773,6 +10773,184 @@ The meaning of the Ṛk is: O goddess Sūryā, ascending and sitting in such an 
 > उत् । ईर्ष्व । अतः । पतिवती । हि । एषा । विश्ववसुं । नमसा । गीर्भिः । ईळे ।  
 > अन्यां । इच्छ । पितृसदं । विअक्तां । सः । ते । भागः । जनुषा । तस्य । विद्दि ॥ २१ ॥
 
+### Printed p. 401
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिनृणां विवाहः स्तूयते । हे विश्वावसो अतः स्थानात्कन्यासमीपादुदीर्ष्ट । उत्तिष्ठ । एषा कन्या पतिवती हि संजाता । आत उदीर्ष्टेति वातः शब्दो
+> योज्यः । विश्वावसुमेतन्नामानं गंधर्वं नमसा नमस्कारेण गीर्भिः स्तुतिभिश्चेळे ।
+> सौमि । तर्ह्येनां विहाय कां स्वीकरोमीति यदि ब्रूषे तर्ह्यन्यां पितृषदु
+> पितृकुले स्थितां व्यक्तामनूढेति परिस्फुटां निगतांजनां वा । स्तनोद्गमादिराहित्येनाप्रौढामित्यर्थः । स तादृशः पदार्थस्ते तव भागः कल्पितः । तस्य तं भागं
+> विद्दि जानीहि जनुषा जन्मना । लभस्वेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The marriage of men is praised here. O Viśvāvasu, rise from this place, from beside the maiden, for this maiden has now become one who has a husband. The word "wind" is to be connected with "rise" **NOTE**. I praise Viśvāvasu, the Gandharva of this name, with homage and with hymns. **NOTE**. If you ask, "Leaving her, whom shall I take?", then take another maiden, one who stays in her father's family, who is plainly unmarried, or one without collyrium; the meaning is one not yet mature, without the signs such as the budding of the breasts. Such a thing is your allotted portion; know it by birth, that is, obtain it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अतः (*ataḥ*)—from this place
+- उदीर्घ (*udīrgha*)—rise up
+- एषा (*eṣā*)—this maiden
+- पतिवती हि (*pativatī hi*)—(because) she has a husband
+- विश्वावसुं (*viśvāvasuṃ*)—the Gandharva named Viśvāvasu
+- नमसा (*namasā*)—with reverence
+- गीर्भि: (*gīrbhi:*)—with hymns
+- ईळे (*īḷe*)—I praise (I pray)
+- पितृषदं (*pitṛṣadaṃ*)—one who dwells in her father's house
+- व्यक्तां (*vyaktāṃ*)—one who is plainly shown not to be married
+- अन्यां (*anyāṃ*)—another maiden
+- इच्छॆ (*icchè*)—desire
+- सः (*saḥ*)—such a thing
+- ते भागः (*te bhāgaḥ*)—is the thing allotted to you
+- तस्य (*tasya*)—that thing
+- जनुषा (*januṣā*)—by nature
+- विद्दि (*viddi*)—know it to be yours
+
+##### भावार्थ (Bhāvārtha)
+
+"O Viśvāvasu, this maiden has been married and has her husband. Therefore leave this place and rise up." Thus I pray, praising with reverence and with hymns the Gandharva named Viśvāvasu. Know that only the maiden who is unmarried in her father's house is the portion that belongs to you.
+
+##### English translation
+Rise up from hence, for this (damsel) has a husband; I worship Vishwavasu with reverence and with hymns; O Viswavasu, seek for another maiden still dwelling in her father's house, decorated with ornaments ; that is your portion, know this (to be your portion, take it) from your birth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next, the Gandharva named Viśvāvasu is prayed to go away from the neighbourhood of the newly married bride. In this same sūkta, in the Ṛk
+
+### Printed p. 402
+
+सोमः प्रथमो विविदे गंधर्वो विविद उत्तरः । तृतीयो अग्निष्टे पतिस्तुरीयस्ते मनुष्यजाः ॥ (*somaḥ prathamo vivide gaṃdharvo vivida uttaraḥ | tṛtīyo agniṣṭe patisturīyaste manuṣyajāḥ ‖*) (Ṛ. Saṃ. 10-85-40)
+
+it is said thus: For the maiden who lives in her father's house in the state of maidenhood, Soma is first the lord, then the Gandharva, then Agni, and last the human being, that is, the bridegroom who marries her. All of these, one after another, are her lord; that is, the maiden is regarded as subject to them. At the beginning, that is, when the girl is very small, she is under Soma's authority. Then, when she approaches marriageable age, she is under the Gandharvas' authority. At the time of the marriage she is under Agni's control. After the marriage she is under the control of the human being (the bridegroom). Therefore here, after the marriage, the Gandharva named Viśvāvasu is addressed: O Gandharva Viśvāvasu, until now this maiden was under your authority. Now that this maiden has been married and has to go to her husband's house, go away from her side to another place, that is, to the other maidens who are in their father's house and not yet married. Such maidens are the ones who should come to your share; so the prayer is made.
+
+Formerly, when the Śyena bird was bringing the Soma plants from heaven, the Gandharva named Viśvāvasu barred the way, seized those plants and kept them with himself. Then, while the gods were thinking how to bring those Soma plants back from him, the goddess Vāk spoke to them: "Why do you worry about this?" स्त्रीकामा वै गंधर्वाः स्त्रिया निष्क्रिणामेति ते वाचग्स् स्त्रियमेकहायिनीं कृत्वा तया निरक्रीणन् । (*strīkāmā vai gaṃdharvāḥ striyā niṣkriṇāmeti te vācags striyamekahāyinīṃ kṛtvā tayā nirakrīṇan |*) — To be attached to women, that is, to have desire for women, is the very nature of the Gandharvas. They have a great longing for women. Therefore I shall become a beautiful woman. Sell me to that Gandharva and in exchange buy the Soma plants that he has stolen. When she said this, the gods did so. Afterwards the goddess Vāk, in the form of a red doe, escaped from the Gandharva and ran to the gods. This story is told in the Taittirīya Saṃhitā (Tai. Saṃ. 6-1).
+
+A little explanation concerning the Gandharvas is necessary.
+
+As already stated, in connection with the Apsarases there is a male, Gandharva, or a male race, the Gandharvas. In the Ṛgveda, of the twenty places where it occurs, only three times is it in the plural. In the Atharvaveda, of the thirty-two, half are in the plural. From this it appears that at first there was only one, and that gradually the number increased. In the other Vedas the Gandharvas, like the gods, the Pitṛs and the Asuras, are a class (A. Ve. 11-5-2 **NOTE**; Tai. Saṃ. 7-8-25-2). In the Yajurveda their number is twenty-seven; in the Atharvaveda it becomes about 6333 (A. Ve. 11-5-2). From the beginning their character and nature
+
+### Printed p. 403
+
+are not determined; no support for it is found in the Ṛgveda. In this connection it is also an important matter in which maṇḍalas these expressions are found. In maṇḍalas two to seven it occurs altogether only once, and in the eighth twice, in opposition to Indra. Or it appears that this word may be taken as an epithet. Sometimes it is used together with the word Viśvāvasu (9-86-36; 10-139-4,5; A. Ve. 2.2.4; Vā. Saṃ. 2-3). In one passage the word Viśvāvasu is used to indicate the Gandharva (10-85-21,22; compare 10-85 40, 41). In the other Saṃhitās, the Brāhmaṇas and the Purāṇas and the like, Viśvāvasu is the name of a Gandharva.
+
+According to the Ṛgveda the Gandharva dwells in the atmosphere, or in the highest region of the sky. He is the measurer in the sky (10-139.5); he dwells in the unfathomable regions of the atmosphere (8-66-5); he is of divine nature and stands erect in the middle region (10-123-7). It is on him that the Apsaras smiles (10-123-5). His dwelling is in heaven (A. Ve. 2-2.1.2), and the virtuous live with the Gandharvas (A. Ve. 4.34.3). In some passages it is said that the Gandharvas have some connection with heavenly light. He is associated with the sun, Varuṇa's messenger with golden wings (10-123.6), with the sun-bird (10-177-2), with the sun-horse (1-163.2), and with Soma, who is like the sun (9-85-12). Moreover, a connection is assumed with the twenty-seven constellations on the moon's path (Vā. Saṃ. 9-7), and especially with the constellation Rohiṇī (A. Ve. 13.1-23). In the Vājasaneyi Saṃhitā (Vā. Saṃ. 18.38) the Gandharva is regarded as a deity together with Agni, the sun, the moon and the wind. In the Purāṇas and the like, gandharvanagara (the city of the Gandharvas) is a name of the mirage.
+
+The name of the Gandharvas is mentioned especially in the ninth maṇḍala, together with Soma. They guard the place of Soma and the lineage of the gods (9-83-4; compare 1-22-14). They stand in the firmament, watching all the states of the Soma juice (9.85.12). Together with Parjanya and the daughter of the sun, the Gandharvas increase the Soma juice (9-113.3). It is from the mouth of the Gandharva that the gods drink Soma (A. Ve. 7,73-3). It is said that the Gandharvas guarded the Soma for the gods, but allowed it to be stolen, and that as a punishment the drinking of Soma was forbidden to the Gandharvas (Mai. Saṃ. 3-8.10). In connection with this Soma juice it is said that the Gandharvas know the plants (A. Ve. 4-4-1). The Gandharva who was devoted to guarding the Soma incurs Indra's displeasure and is pierced by him in the atmosphere
+
+### Printed p. 404
+
+(8-66 5). And for this very reason the hymns praise Indra, asking him to defeat him (8-1 11). In another place (Tai. Saṃ. 1-2.9-1) Soma is also told to come in the form of a Śyena, in order to escape from the Gandharva Viśvāvasu. It is said that the Soma juice was in the midst of the Gandharvas, or was stolen by the Gandharva Viśvāvasu; that the gods gave the goddess Vāk as the price to the Gandharvas, who were fond of women, and obtained the Soma from the Gandharvas (Ai. Brā. 1-27; Tai. Saṃ. 6-1-6-5; Mai. Saṃ. 3-7-3). Kṛśānu, who shoots an arrow at the Śyena that is carrying off the Soma, must also be a Gandharva. In the Taittirīya Āraṇyaka (Tai. Ā. 1-9-3) it is stated clearly that Kṛśānu too is a Gandharva.
+
+The Gandharvas have a connection with water. The Gandharva in the water and the Apsaras of watery form are said to be the parents of Yama and Yamī (10-10-4). The Soma juice poured into water is called the Gandharva of the water (9-86-36). The Gandharvas, who are united with the Apsarases, also live in the water (A. Ve. 2.2-3; 4-37-12).
+
+The union of the Gandharva and the Apsaras is suggestive of marriage. Therefore a connection is assumed between the Gandharvas and the marriage ceremony. The unmarried maiden belongs to the Gandharva, Soma and Agni (10-85-40,41). In the first days of the marriage, Viśvāvasu is a rival to the bridegroom (10-85-22). The Gandharva's love for women is well known in the other Vedas (Mai. Saṃ. 3-7-3). The Gandharvas and the Apsarases are the presiding deities of fertility, and those who desire offspring praise them (Saṃ. Brā. 19-3-2 **NOTE**).
+
+That the Gandharvas are celestial singers has become famous in the Purāṇas and the like, but there is no support for it anywhere in the Ṛgveda (compare 10-177-2; 10-11-2).
+
+Only in one or two places is there a reference to their bodies and the like. For them the wind is the hair (3-38-6), and they have shining weapons (10-123-7). In this matter the Atharvaveda is clearer (A. Ve. 4-3-7; 8-6-1 especially). Here it is said that they are hairy, that they have bodies like half-animals, and that they are harmful to human beings in many ways; in other places again it is said that they are beautiful (Śa. Brā. 13-4-4-7,8). In the Ṛgveda it is said that the Gandharvas wear fragrant garments (10-123-7), and in the Atharvaveda that fragrance from the earth reaches the Gandharvas (A. Ve. 12-1-23).
+
+From this it may be said that the word gandharva is derived from gandha (fragrance). Even if this is the correct derivation, the nature or characteristics of the Gandharva are not thereby understood. From the descriptions seen above, the Gandharva is a radiant divine person who lives in the water with his companion, the Apsaras
+
+### Printed p. 405
+
+— this much alone can be said with certainty. Various scholars have expressed various opinions on this matter: that they are abstract persons belonging to the wind, the rainbow, the moon, Soma, the rising sun, or a deity presiding over the clouds, and so on.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॒ष्वातो॑ विश्वावसो॒ नम॑सेळामहे त्वा ।  
+> अ॒न्यामि॑च्छ प्रफ॒र्व्यं१॒॑१ सं जा॒यां पत्या॑ सृज ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईर्ष्व । अतः । विश्वावसो इति विश्ववसो । नमसा । ईळामहे । त्वा ।  
+> अन्यां । इच्छ । प्रफर्व्यं । सं । जायां । पत्या । सृज ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अतोऽस्माच्छयनाद्धे विश्वावसो कन्यास्वामिन्गंधर्व उदीर्ष्व । उद्दच्छ ॥
+> ईर गत् आदादिकः । अनुदात्तेत् । तस्य लोटि रूपं ॥ विश्वावसुर्नाम गंधर्वः
+> कन्यानामधिपतिर्यतः । लभामि तेन कन्यामिति हि मंत्रः । स तादृश देव त्वां
+> नमसा नमस्कारेणेळामहे । स्तुमः । स त्वमन्यां प्रफर्व्यं बृहन्नितंबां
+> कन्यामिच्छ । जायां मां पत्या सह पुनः सं सृज ॥
+
+##### Gist of the bhāṣya
+
+From this couch, O Viśvāvasu, Gandharva, lord of the maiden, rise up; go away. Viśvāvasu is a Gandharva, the overlord of maidens; hence there is the mantra, "By him I obtain a maiden." O god of such a kind, we praise you with homage, with reverence. You, then, desire another maiden, one with large hips. Unite me, the wife, again with my husband.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वावसो (*viśvāvaso*)—O Viśvāvasu
+- नमसा (*namasā*)—with reverence
+- ईळामहे (*īḷāmahe*)—we praise and pray to you
+- अतः (*ataḥ*)—from this place
+- उदीर्ष्व (*udīrṣva*)—rise up
+- प्रफर्व्यं (*prapharvyaṃ*)—one with fully developed hips
+- अन्यां (*anyāṃ*)—another maiden
+- इच्छ (*iccha*)—desire
+- जायां (*jāyāṃ*)—me, who am the wife of another
+- पत्या (*patyā*)—to be with my husband
+- सं सृज (*saṃ sṛja*)—give up
+
+##### भावार्थ (Bhāvārtha)
+
+O Viśvāvasu, with reverence we praise you and pray to you. Rise up from this place. Desire another maiden with fully developed hips. Give me, the wife of another, up to be with my husband.
+
+### Printed p. 406
+
+##### English translation
+Rise up from hence, Vishwavasu; we worship you with reverence. seek another maiden, one with large hips; leave the bride with her husband
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न्य॒क्ष॒रा ऋ॒जवः॑ संतु॒ पंथा॒ येभिः॒ सखा॑यो॒ यंति॑ नो  ॒
+> वरेयं ।  
+> सम॑र्य॒मा सं भगो॑ नो निनीया॒त्सं जा॑स्प॒त्यं सु॒यम॑मस्तु देवाः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अन्यक्षराः । ऋजवः । संतु । पंथाः । येभिः । सखायः । यंति । नः । वरेयं ।  
+> सं । अर्यमा । सं । भगः । नः । निनीयात् । सं । जाःपत्यं । सुयमं । अस्तु ।  
+> देवाः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः पंथाः पंथानो मार्गा अनृक्षराः । ऋक्षरः कंटक उच्यते ।
+> कंटकरहिता यजवोऽकुटिलाश्च संतु येभिर्यैः पथिभिनोस्माकं सखायो
+> वरप्रेषिता वरेयं वरैर्याचितव्यं पितरु प्रति यंति गच्छंति ते पंथा इति ।
+> किंचार्यमा देवो नोऽस्मान् सं निनीयात् । सम्यक् प्रापयेत् । तथा भगो
+> देवः सं निनीयात् । हे देवाः आसंगतमस्तु पतिकुलमिति शेषः तथेदं जास्पत्यं
+> जायापत्योर्युगलं सुयममस्तु । सुमिथुनमस्तु ॥
+
+##### Gist of the bhāṣya
+
+O gods, may the paths, the roads, be free of thorns and not crooked, by which our friends, sent by the suitors, go to the father to ask for the bride. Further, may the god Aryaman lead us rightly, that is, bring us well to our goal; and likewise may the god Bhaga lead us. O gods, may the husband's family be well joined to us (this is the word to be supplied). So may this pair, the wife and the husband, be well yoked, that is, may they be a good couple.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येभिः (*yebhiḥ*)—by which paths
+- नः (*naḥ*)—our
+- सखायः (*sakhāyaḥ*)—friends
+- वरेयं (*vareyaṃ*)—to the father of the maiden, who is asked for by suitors
+- यंति (*yaṃti*)—go, such
+- पंथाः (*paṃthāḥ*)—paths
+- अनृक्षराः (*anṛkṣarāḥ*)—free of thorns
+- ऋजवः (*ṛjavaḥ*)—and without crookedness
+- संतु (*saṃtu*)—may they be
+- अर्यमा (*aryamā*)—the god Aryaman
+- नः (*naḥ*)—us
+- सं निनीयात् (*saṃ ninīyāt*)—may he lead rightly
+- भगः (*bhagaḥ*)—Bhaga
+- सं (*saṃ*)—may he show the way rightly
+- देवाः (*devāḥ*)—O gods
+- जास्पत्यं (*jāspatyaṃ*)—the mutual relation of the married pair
+- सुयमं (*suyamaṃ*)—having an excellent bond
+- अस्तु (*astu*)—may it be
+
 ---
 
-**Progress note:** Done through printed p. 400. Ṛk 18 Sāyaṇa to Ṛk 21 (Saṃhitā, Pada) of Sūkta 85, pp. 395-400
+**Progress note:** Done through printed p. 406. Ṛk 21 end, Special Topics on Gandharvas, Ṛk 22-23 (Sūkta 85)
