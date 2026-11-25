@@ -19466,6 +19466,420 @@ To explain the meaning of the word आपांतमन्युः (*āpāṃt
 
 Here अपातितमन्युः आपादितदीप्तिः उत्पादितमन्युर्वा शत्रुभिः संग्रामे । (*apātitamanyuḥ āpāditadīptiḥ utpāditamanyurvā śatrubhiḥ saṃgrāme |*): the meaning is a man heated with anger, a man in whom wrath is welling up, one who in fighting with enemies, seized by anger, rushes forward against the enemies, or one who strikes the enemies even while rushing forward in anger. तृप्रप्रहारी क्षिप्रप्रहारी सोमो वेंद्रो वा (*tṛpraprahārī kṣipraprahārī somo veṃdro vā*): Tṛpalaprabharmā means one who strikes enemies swiftly or quickly. These words apply either to the deity Soma or to Indra; both have this kind of strength and capacity. The word धुनिः (*dhuniḥ*) is formed from the root धुनोति (*dhunoti*), which means to shake, to make tremble; the meaning is one who makes the enemies tremble with fear. शिमि (*śimi*) means action, work. शिमीवान् (*śimīvān*) means one who does deeds of daring or work full of valour. Or the word शिमि (*śimi*) may be formed from the root शक्कोति (*śakkoti*); in that case शिमीवान् (*śimīvān*) means one who has strength and capacity. शरुमान् (*śarumān*) means हिंसावान् (*hiṃsāvān*), one who does violence to enemies. Two meanings can be given for the word ऋजीषी (*ṛjīṣī*). The husk that remains after the Soma plants have been crushed and the juice taken out is called ऋजीष (*ṛjīṣa*); ऋजीष (*ṛjīṣa*) means a substance thrown away because it is useless. From that husk, at the time of the third pressing, a little juice is pressed out once more, and they add to it milk, curds or flour, any one of these, so as to make it fit for drinking (palatable). This kind of Soma juice is called ऋजीषी (*ṛjīṣī*), or Indra, who drinks this kind of Soma juice, is also called ऋजीषी (*ṛjīṣī*).
 
+### Printed p. 667
+
+In this matter the scriptural sentence ऋजीषी वज्री (*ṛjīṣī vajrī*) (Ṛ. Saṃ. 5-40-4) supports this meaning. This ऋजीष (*ṛjīṣa*) also, mixed with grain and the like, is used as food for Indra's horse. The word धानाः (*dhānāḥ*) (grains) means what has been pounded in a mortar or what has been placed on boards. This grain and the ऋजीष (*ṛjīṣa*) together become the food of Indra's horses. In this matter there is the scriptural authority: बब्बां ते हरीधाना उप ऋजीषं जिघ्रतां (*babbāṃ te harīdhānā upa ṛjīṣaṃ jighratāṃ*). Here the word बब्बां (*babbāṃ*) is formed from the root बभस्ति (*babhasti*), which means "eat, devour". The word बब्बा (*babbā*): in the root भस् (*bhas*), "to devour", the letter bha is read with abhyāsa, that is, with reduplication, and the final letter sa is dropped; thus it becomes बब् (*bab*), and since the prefix धा (*dhā*) is joined to it, it has become बब्बां (*babbāṃ*).
+
+Next, for the sentence सोमः सर्वाण्यतसा वनानि नार्वागिंद्रं प्रतिमानानि देभुः (*somaḥ sarvāṇyatasā vanāni nārvāgiṃdraṃ pratimānāni debhuḥ*) the meaning is this: Soma, surpassing all creepers and trees by his greatness, pervades everything. **NOTE** But all such greatness, or strength and capacity, is of no use before Indra. None of them can even come near Indra, or they perish before they approach.
+
+Some say that in this Ṛk Indra is the principal one praised, and that the mention of the god Soma is not so important. Others again say that in this Ṛk two deities, Indra and Soma, are praised.
+
+According to some, the first three pādas of this Ṛk are addressed to the deity Soma, and only the last pāda is on behalf of Indra. However great the glory and the daring deeds of other deities may be, they cannot equal the daring deeds and valour of Indra. According to some, the description of the strength and capacity of the deity Soma is here in order to describe Indra as the most glorious of all.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यस्य॒ द्यावा॑पृथि॒वी न धन्व॒ नांतरि॑क्षं॒ नाद्र॑यः॒ सोमो॑  
+> अक्षाः ।  
+> यद॑स्य म॒न्युर॑धिनी॒यमा॑नः शृ॒णाति॑ वी॒ळु रु॒जति॑ स्थि॒राणि॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यस्य । द्यावापृथिवी इति । न । धन्व । न । अंतरिक्षं । न । अद्रयः । सोमः ।  
+> अक्षारिते ।  
+> यत् । अस्य । मन्युः । अधिनीयमानः । गृणाति । वीळु । रुजति । स्थिराणि ॥ ६ ॥
+
+### Printed p. 668
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावापृथिवी द्यावापृथिव्यौ यस्येंद्रस्य प्रतिमानभूते न भवतः । न धन्व ।
+> उदकमपि प्रतिमानभूतं न भवति । नांतरिक्षं । अंतरिक्षमपि प्रतिमानभूतं न भवति ।
+> नाद्रयः । पर्वताश्च प्रतिमानभूता न भवंति । तस्येंद्रस्य सोमोऽक्षाः । क्षरति ।
+> किंच यद्यदास्येंद्रस्य मन्युः क्रोधोऽधिनीयमानः शत्रूणामुपरि प्राप्यमाणो भवति तदानीमयमिंद्रो वीळु दृढं शृणाति । हिनस्ति । स्थिराणि रुजति ।
+> भिनत्ति च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that heaven and earth are not a match for Indra, and neither is the water, neither the atmosphere, nor the mountains; none of them is a counterpart to him. For such an Indra the Soma flows. Further, when Indra's wrath is directed against the enemies, then this Indra firmly shatters them, and breaks what is strong.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—for which Indra
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- न (*na*)—cannot be equal
+- धन्व (*dhanva*)—the waters
+- न (*na*)—cannot be equal
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere also
+- न (*na*)—cannot stand against him
+- अद्रयः (*adrayaḥ*)—the mountains
+- न (*na*)—cannot be equal; for such an Indra
+- सोमः (*somaḥ*)—Soma
+- अक्षाः (*akṣāḥ*)—flows
+- यत् (*yat*)—when
+- अस्य (*asya*)—Indra's
+- मन्युः (*manyuḥ*)—wrath
+- अधिनीयमानः (*adhinīyamānaḥ*)—is directed upon the enemies, then Indra
+- वीळु (*vīḷu*)—the firm enemies
+- शृणाति (*śṛṇāti*)—destroys
+- स्थिराणि (*sthirāṇi*)—the secure strongholds of the enemies
+- रुजति (*rujati*)—splits
+
+##### भावार्थ (Bhāvārtha)
+
+For that Indra to whom heaven and earth cannot be equal, nor the waters, nor the atmosphere, nor the mountains, for that Indra the Soma flows. When Indra's wrath is directed upon the enemies, then Indra destroys even the firm enemies and splits their secure strongholds.
+
+##### English translation
+Of whom neither heaven and earth, nor the water, nor the firmament, nor the mountains (are the obstructions) for him both the Soma exude, when his wrath reaching his enemies destroys the strong and breaks the firm.
+
+#### Ṛk 7
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ज॒घान॑ वृ॒त्रं स्वधि॑ति॒र्वने॑व रु॒रोज॒ पुरो॒ अर॑द॒न्न सिंधू॑न् ।  
+> बि॒भेद॑ गि॒रिं नव॒मिन्न कुं॒भमा गा इंद्रो॑ अकृणुत स्व॒युग्भिः॑॥
+
+### Printed p. 669
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जघान । वृत्रं । स्वधितिः । वनाइव । रुरोज पुरः । अरदत् । न । सिंधून् ।  
+> विभेद । गिरिं । नवं । इत् । न । कुंभं । आ । गाति । इंद्रः । अकृणुत । स्वयुक्भिः।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो वृत्रमसुरं जघान । हतवान् । अपि च स्वधितिः पररुर्वनेव वनानीव
+> पुरः शत्रुनगरी रुरोज । रुजति । भिनत्ति ! शत्रुनगरीर्भित्वा च सिंधून्नदीररदत् ।
+> वृष्टु दकेनालिखत् । नेति संप्रत्यर्थे । किंच गिरिं मेघं नवं न नवमिव कुंभं
+> कलशं बिभेदेत् । भिनत्तैव । किंचेंद्रः स्वयुग्भिः स्वयं युज्यमानैर्मरुद्भिर्गा
+> उदकान्याकृणुत । अस्मदभिमुखं करोति ॥
+
+##### Gist of the bhāṣya
+
+Indra slew the asura Vṛtra. Like an axe cutting down forests, he breaks the enemy cities; having broken the enemy cities, he scored the rivers, having rained with water. **NOTE** The word for "like" is used here in the sense of "now". Further, he shatters the cloud as one shatters a new pitcher; he does indeed break it. And Indra, with the Maruts who yoke themselves of their own accord, has turned the waters toward us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- वृत्रं (*vṛtraṃ*)—the enemy
+- जघान (*jaghāna*)—has destroyed
+- स्वधितिः (*svadhitiḥ*)—an axe
+- वनेव (*vaneva*)—as it splits the forest trees
+- पुरः (*puraḥ*)—the enemy cities
+- रुरोज (*ruroja*)—he splits
+- सिंथून् (*siṃthūn*)—the rivers
+- अरदत् (*aradat*)—he made channels so that they might flow
+- नवं सुंभः न (*navaṃ suṃbhaḥ na*)—as one breaks a new earthen vessel filled with water **NOTE**
+- गिरिं (*giriṃ*)—the cloud
+- बिभेद इत् (*bibheda it*)—he split
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्वयग्भिः (*svayagbhiḥ*)—together with the Maruts who are united with him
+- गाः (*gāḥ*)—the waters
+- अकृणुत (*akṛṇuta*)—made to flow toward us
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has destroyed the asura Vṛtra. As an axe cuts down forest trees, he splits the enemy cities. To make the rivers flow he has split open and set right their courses. As one breaks a new earthen vessel filled with water, he has split the cloud. Together with the Maruts who are united with him, he has made the waters flow toward us.
+
+##### English translation
+(Indra) slew Vritra as an axe (cuts down) a tree ; he demolished the cities (of the foes), he dug out the rivers ; he shattered the cloud like a new pitcher ; with his allies (the Maruts) he recovered the cattle.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्चं ह॒ त्यदृ॑ण॒या इं॑द्र॒ धीरो॒ऽसिर्न पर्व॑ वृजि॒ना शृ॑णासि ।
+
+### Printed p. 670
+
+> प्र ये मित्रस्य वरुणस्य धाम युजं न जना मिनंति मित्रं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । ह । त्यत् । ऋणयाः । इंद्र । धीरः । असिः । न । पर्व । वृजिना । शृणासि ।  
+> प्र । ये । मित्रस्य । वरुणस्य । धाम । युजं । न । जनाः । मिनंति । मित्रं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र धीरः प्राज्ञस्त्वं ह त्वं खलु त्यत्तदृणयाः स्तोतृविषयाणामृणानां
+> प्रापयितासि । किंच त्वमसिर्न शस्त्रमिव पर्व पशूनां पर्वाणि
+> वृजिना वृजिनानि स्तोत्थणामुपद्रवाणि शृणासि । हंसि । किंच मित्रस्य वरुणस्य
+> मित्रावरुणयोध्राम धारकं कर्म युजं न युक्तमिन मित्रं येऽज्ञा नृशंसा
+> जनाः प्र मिनंति प्रकर्षेण हिंसंति तानपि शृणासीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra, you who are wise, are the one who brings about the debts that concern the worshippers. **NOTE** Further, like a sword cutting the joints of animals, you break the troubles of the worshippers, that is, their afflictions. **NOTE** And as for the supporting rite of Mitra and Varuṇa, which is as it were a yoked friend, the unknowing, cruel people who injure it, severely harm it: you break even them. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- धीरः (*dhīraḥ*)—wise one
+- त्वं ह (*tvaṃ ha*)—you
+- त्यत् (*tyat*)—as is known to all
+- ऋणयाः (*ṛṇayāḥ*)—you are one who expects from the sacrificers the oblations that should be offered to you
+- असिः (*asiḥ*)—a sword
+- पर्व न (*parva na*)—as it cuts the joints of animals
+- वृजिना (*vṛjinā*)—the sins of the worshippers
+- शृणासि (*śṛṇāsi*)—you destroy
+- मित्रं न (*mitraṃ na*)—like a friend
+- युजं (*yujaṃ*)—closely united
+- मित्रस्य वरुणस्य (*mitrasya varuṇasya*)—of Mitra and Varuṇa
+- धाम (*dhāma*)—the rite that sustains the world
+- ये जनाः (*ye janāḥ*)—those unwise people who
+- प्र मिनंति (*pra minaṃti*)—injure it, even them you destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are wise, as is known to all, expect from the sacrificers the oblations that should be offered to you. As a sword cuts the joints of dead animals, you also destroy the sins of the worshippers. You destroy even the unwise who injure the world-sustaining rite of Mitra and Varuṇa, who are united like friends.
+
+##### English translation
+You, Indra, who are wise, punish the guilt (of worshippers : you cut off their sins as a sword (cuts off) the limbs (of victims); (you
+
+### Printed p. 671
+
+cut off) the people who (ignorantly) injure the supporting (function) of Trita and Varuna, (which is) as it were their close friend. **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये मि॒त्रं प्रार्य॒मणं॑ दु॒रेवाः॒ प्र सं॒गिरः॒ प्र वरु॑णं  ॒॑
+> मिनंति ।  
+> न्य१॒॑१ मित्रे॑षु व॒धमिं॑द्र॒ तुम्रं॒ वृष॒न्वृषा॑णमरु॒षं शि॑शीहि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । मित्रं । प्र । आर्यमणं । दु-5एवाः । प्र । संगिरः । प्र । वरुणं ।  
+> मिनंति  
+> सि । अमित्रेषु । वधं । इंद्र । तुम्रं । वृषन् । वृषाणं । अरुषं । शिशीहि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये दुरेवा दुष गमना जना मित्रं देवं प्र मिनंति प्रहिंसंति आर्यमणं च देवं प्र मिनंति संगिरः समीचीनस्तुतिमतो मरुतश्च प्र मिनंति वरुणं
+> च देवं प्र मिनंति तेष्टमित्रेषु शत्रुषु । तानुद्धिश्येत्यर्थः । हे वृषन् कामानां
+> वर्षकेंद्र त्वं तुम्रं गमनशीलं वृषाणं कामानां वर्षकमरुषमारोचमानं
+> वधु वज्रं । वधो वज्र इति वज्रनामसु पाठात् । नि तिशीहि । तीक्ष्णीकुरु ॥
+
+##### Gist of the bhāṣya
+
+The evil-going people who injure the god Mitra, and the god Aryaman, and the Maruts who are well praised, and the god Varuṇa: against those enemies, that is, aiming at them, O Indra, showerer of desires, sharpen your swift, showering, radiant bolt. The word for "bolt" is a name of the thunderbolt, as the reading among the names of the thunderbolt shows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—showerer of desires
+- इंद्र (*iṃdra*)—O Indra
+- ये दुरेवाः (*ye durevāḥ*)—those wicked people who
+- मित्रं (*mitraṃ*)—the god Mitra
+- अर्यमणं (*aryamaṇaṃ*)—Aryaman, injure
+- संगिरः (*saṃgiraḥ*)—the Maruts who are possessed of excellent praise
+- प्र (*pra*)—who injure
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- प्र (*pra*)—who injure
+- आमित्रेषु (*āmitreṣu*)—to be used against such enemies
+- तुम्रं (*tumraṃ*)—swift
+- वृषाणं (*vṛṣāṇaṃ*)—granter of desired ends
+- अरुषं (*aruṣaṃ*)—golden-hued
+- वधं (*vadhaṃ*)—destroyer of enemies, that thunderbolt
+- नि शिशीहि (*ni śiśīhi*)—sharpen
+
+### Printed p. 672
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, against those wicked people who injure the god Mitra, Aryaman, Varuṇa and the Maruts who are possessed of excellent praise, against such enemies sharpen your swift, golden-hued thunderbolt that destroys enemies.
+
+##### English translation
+Against those who sinfully offend against Mitra, Aryaman, your companions (the Maruts) and Varuna, against these your enemies sharpen, Indra, showerer (of benefits), your rapid showering radiant thunderbolt.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ दि॒व इंद्र॑ ईशे पृथि॒व्या इंद्रो॑ अ॒पामिंद्र॒ इत्सर्व॑तानां ।  
+> इंद्रो॑ वृ॒धामिंद्र॒ इन्मेधि॑राणा॒मिंद्रः॒ क्षेमे॒ योगे॒ ॒ ॑
+> हव्य इंद्रः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । दिवः । इंद्रः । ईशे । पृथिव्याः । इंद्रः । अपां । इंद्रः । इत् । पर्वतानां  
+> इंद्रः । वृधां । इंद्रः । इत् । मेधिराणां । इंद्रः । क्षेमे । योगे । हव्यः ।  
+> इंद्रः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो द्युलोकस्येंद्र ईशे । ईष्टे। पृथिवा भूमेरपींद्र ईशे। ईश्वरो
+> भवति । अपामुदकानामपींद्र ईश्वरो भवति । पर्वतानां मेघानामपींद्र
+> ईश्वरो भवति । वृधां वृद्धानामपींद्र एवेश्वरः । मेधिराणां प्राज्ञानमपींद्र
+> एवेश्वरो भवति । किंचेंद्रः क्षेमे लब्धस्य धनस्य परिपालने हव्यो ह्वातव्यो
+> योगेऽलब्धस्य धनस्य लाभेऽपींद्र एव ह्वातव्यो भवति ॥
+
+##### Gist of the bhāṣya
+
+Indra is lord of the heavenly world; of the earth also Indra is lord; of the waters also Indra is lord; of the mountains, that is, the clouds, Indra is lord; of the grown, that is, the aged, Indra alone is lord; of the wise also Indra alone is lord. Further, Indra is to be invoked in kṣema, the protection of wealth already obtained, and also in yoga, the gaining of wealth not yet obtained; Indra alone is to be invoked.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- दिवः (*divaḥ*)—of the heavenly world
+- ईशे (*īśe*)—is lord
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth also
+- इंद्रः (*iṃdraḥ*)—Indra is lord
+- इंद्रः (*iṃdraḥ*)—Indra
+- अपां (*apāṃ*)—of the waters also is lord
+
+### Printed p. 673
+
+- पर्वतानां इत् (*parvatānāṃ it*)—of the clouds also
+- इंद्रः (*iṃdraḥ*)—Indra is lord
+- वृधां (*vṛdhāṃ*)—of the aged also
+- इंद्रः (*iṃdraḥ*)—Indra is lord
+- मेधिराणां (*medhirāṇāṃ*)—of the wise also
+- इंद्रः (*iṃdraḥ*)—Indra is lord
+- क्षेमे (*kṣeme*)—for protecting wealth that has been gained
+- इंद्रः (*iṃdraḥ*)—Indra
+- हव्यः (*havyaḥ*)—is prayed to
+- योगे (*yoge*)—also for gaining wealth that one does not have
+- इंद्रः (*iṃdraḥ*)—Indra is prayed to
+
+##### भावार्थ (Bhāvārtha)
+
+Indra is lord of heaven and earth altogether. Indra is lord of the waters and of the clouds. Indra is lord of the aged and also of the wise. Indra alone should be praised and prayed to, both for protecting the wealth gained and for obtaining the wealth that has to be gained.
+
+##### English translation
+Indra rules over heaven, Indra rules over earth, over the waters, and over the clouds ; Indra rules over the great and over the wise ; Indra, is to be invoked for the acquirement and preservation (of wealth).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्राक्तुभ्य॒ इंद्रः॒ प वृ॒धो अह॑भ्यः॒ प्रांतरि॑क्षा॒त्प स॑मु॒द्रस्य॑  ॒
+> धासेः ।  
+> प्र वात॑स्य॒ प्रथ॑सः॒ प्र ज्यो अंता॒त्प सिंधु॑भ्यो रिरिचे॒ प्र  ॒॑
+> क्षितिभ्यः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अक्तुभ्यः । इंद्रः । प्र । वृधः । अहभ्यः । प्र । अंतरिक्षात् । प्र । समुद्रस्य ।  
+> धासेः ।  
+> प्र । वातस्य । प्रथसः । प्र । ज्मः । अंतात् । प्र । सिंधुभ्यः । रिरिचे । प्र । क्षितिभ्यः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोऽकुभ्यो रात्रिभ्यः प्र वृधः । प्रवृद्धः । अहभ्यो दिवसेभ्योऽपि प्र
+> वृधः । अधिकः । अंतरिक्षादपि प्रवृद्धः । समुद्रस्याच्छेर्धासेर्धारकात्सान्नादपि
+
+##### Gist of the bhāṣya
+
+Indra has grown beyond the nights; he has grown beyond the days also, and beyond the atmosphere. He has grown beyond the ocean, the sustainer. **NOTE**
+
+### Printed p. 674
+
+> प्रवृद्धः' वातस्य वायोः प्रथसः प्रथिन्नोऽपि प्रवृद्धः । ज्ञः पृथिव्या अंतात्पर्यंतादपि प्रवृद्धः । सिंधुभ्यो नदीभ्यश्च प्र रिरिचे । अतिरिच्यते । महान्भवतीत्यर्थः
+> क्षितिभ्यो मनुष्येभ्योऽपि प्र रिरिचे ॥
+
+##### Gist of the bhāṣya
+
+He has grown beyond the wind, beyond what is wide and extensive; beyond the earth, up to its limit; and he exceeds the rivers; that is, he is great. He exceeds human beings also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अक्तुभ्यः (*aktubhyaḥ*)—more than the nights
+- प्र वृधः (*pra vṛdhaḥ*)—has grown, surpassing them in excess
+- अहभ्यः (*ahabhyaḥ*)—more than the days
+- प्र (*pra*)—has grown, surpassing them
+- अंतरिक्षात् (*aṃtarikṣāt*)—more than the atmosphere
+- प्र (*pra*)—has surpassed it
+- समुद्रस्य (*samudrasya*)—than the oceans
+- धासेः (*dhāseḥ*)—than the places that sustain them
+- प्र (*pra*)—has grown, surpassing them
+- वातस्य (*vātasya*)—than the wind
+- प्रथसः (*prathasaḥ*)—than the extensive horizons
+- प्र (*pra*)—has surpassed them
+- ज्मः (*jmaḥ*)—of the earth
+- अंतात् (*aṃtāt*)—he is greater than its end
+- सिंधुभ्यः (*siṃdhubhyaḥ*)—than the rivers
+- प्र रिरिचे (*pra ririce*)—has grown in excess
+- क्षितिभ्यः (*kṣitibhyaḥ*)—than human beings
+- प्र (*pra*)—has grown, becoming greater
+
+##### भावार्थ (Bhāvārtha)
+
+Indra has grown beyond day and night. He has surpassed the atmosphere and the oceans, the waters' seas. He is greater than the winds, greater than the earth, and he has surpassed the horizons. He is greater than the rivers, and he has surpassed human beings.
+
+##### English translation
+Indra is vaster than the nights, vaster than the days, vaster than the firmament or the receptacle of the ocean, vaster than the wind, or space or the ends of the earth; Indra exceeds the rivers and mankind.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र शोशु॑चत्या उ॒षसो॒ न के॒तुर॑सि॒न्वा ते॑ वर्ततामिंद्र  ॒
+> हेतिः ।  
+> अश्मे॑व विध्य दि॒व आ सृ॑जा॒नस्तपि॑ष्ठेन॒ हेष॑सा॒ द्रोघ॑मित्रान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । शोशुचत्याः । उषसः । न । केतुः । असिन्वा । ते । वर्ततां । इंद्र । हेतिः ।  
+> अश्माइव । विध्य । दिवः । आ । सृजानः । तपिष्टेन । हेषसा । द्रोघमित्रान् ॥ १२ ॥
+
+### Printed p. 675
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तवासिन्वा भेदनरहितं हेतिर्वज्राख्यमायुधं शोशुचत्या
+> ज्वलंत्या उषसो न यथोषसः केतुः पताकस्थानीयो रश्मिस्तद्वच्छत्रुषु प्र
+> वर्ततां । किंच तपिष्ठेनातिशयेन शत्रूणां तापयित्र्या हेषसा शब्दकारिण्या हेत्या
+> द्रोघमित्रान् द्रुग्धानि मित्राणि येषां ते द्रोघमित्राः । ताञ्यत्रून्विध्य ।
+> ताडय तत्र । दृष्टांतः । दिव आ सृजानः सृज्यमानोऽश्मेव । यथाशनिर्वृक्षान्विध्यति
+> तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, let your unbroken weapon, the one called the thunderbolt, go forth against the enemies, like the banner-like ray of the blazing dawn. Further, with your most burning, roaring weapon, strike the enemies, those who have wronged their friends; smite them there. The illustration: like a stone hurled from heaven, as the thunderbolt strikes trees; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- शोशुचत्याः (*śośucatyāḥ*)—of the shining
+- उषसः (*uṣasaḥ*)—dawn
+- केतुःन (*ketuḥna*)—like the ray that is like a banner
+- असिन्वा (*asinvā*)—unbroken
+- ते हेतिः (*te hetiḥ*)—your thunderbolt
+- प्र वर्ततां (*pra vartatāṃ*)—let it be hurled upon the enemies
+- दिवः (*divaḥ*)—from the atmosphere
+- आ सृजानः (*ā sṛjānaḥ*)—swiftly hurled
+- आश्मेव (*āśmeva*)—like a thunderbolt
+- तपिष्ठेन (*tapiṣṭhena*)—burning
+- हेषसा (*heṣasā*)—and roaring, with your weapon
+- द्रोघमित्रान् (*droghamitrān*)—the enemies who wish harm
+- विध्य (*vidhya*)—strike
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let your unbroken thunderbolt, like the banner-like ray of the shining dawn, be hurled upon the enemies. Swiftly hurled from the atmosphere, strike the enemies who wish harm with your weapon that burns and roars like the thunderbolt.
+
+##### English translation
+May your unbroken weapon, Indra, proceed (against your foes) like the banner of the shining dawn, like a stone cast down from heaven pierce those whose friendship is deceitful with your consuming loud-sounding (weapon).
+
+#### Ṛk 13
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन्वह॒ मासा॒ अन्विद्वना॒न्यन्नोष॑धी॒रनु॒ पर्व॑तासः ।  
+> अन्विंद्रं॒ रोद॑सी वावशा॒ने अन्वापो॑ अजिहत॒ जाय॑मानं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । अह । मासाः । अनु । इत् । वनानि । अनु । ओषधीः । अनु । पर्वतासः ।  
+> अनु । इंद्रं । रोदसी इति । वावशाने इति । अनु । आपः । अजिहत । जायमानं ।
+
 ---
 
-**Progress note:** Done through printed p. 666. pp. 660-666: Sukta 89 Rks 1-5 with Yaska on rjishi
+**Progress note:** Done through printed p. 675. Mandala 10 Sukta 89 Rks 6-13 (pp. 667-675)
