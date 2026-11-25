@@ -1664,6 +1664,287 @@ to Varuna.
 > अ॒स्मभ्यं॑ त्वा वसु॒विद॑म॒भि वाणी॑रनूषत ।  
 > गोभि॑ष्टे॒ वर्ण॑म॒भि वा॑सयामसि ॥ ४ ॥
 
+### Printed p. 37
+#### Ṛk 4 (continued)
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मभ्यं । त्वा । वसुऽविदं । अभि । वाणीः । अनूषत ।  
+> गोभिः । ते । वर्णं । अभि । वासयामसि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वसुविदं धनस्य दातारं त्वा त्वामस्मभ्यं धनादिप्रदानार्थं वाणीरस्कृदीया वाचोऽभ्यनूषत । अभिष्टुपंति ॥ नू स्तवने ॥ वयं ते तव वर्णमावरकं रसं गोभिर्गॊविकारैः क्षिरादिभिरभि वासयामसि । अभिवासयामः । अभित
+> आच्छादयामः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, giver of wealth: for the sake of bestowing wealth and the like on us, our hymns praise you; अभ्यनूषत (*abhyanūṣata*) means "they praise", from the root नू (*nū*) (to praise). We cover your वर्णं (*varṇaṃ*), the covering juice, with गोभिः (*gobhiḥ*), the products of the cow such as milk. अभि वासयामसि (*abhi vāsayāmasi*) means "we cover all around".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वसुविदं (*vasuvidaṃ*)—the one who brings wealth
+- त्वा (*tvā*)—you
+- अस्मभ्यं (*asmabhyaṃ*)—for our riches
+- वाणीः (*vāṇīḥ*)—our hymns
+- अभ्यनूषत (*abhyanūṣata*)—praise
+- ते (*te*)—your
+- वर्णं (*varṇaṃ*)—juice
+- गोभिः (*gobhiḥ*)—with milk and the like
+- अभि वासयामसि (*abhi vāsayāmasi*)—we cause to be covered
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, bringer of wealth, our hymns praise you for the sake of our riches. We mix your juice with milk and the like.
+
+##### English translation
+For us the hymns glorify you the giver of wealth; we clothe your form with the (products of the cows).
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ मदानां पत॒ इंदो॑ दे॒वप्स॑रा असि ।  
+> सखे॑व॒ सख्ये॑ गातु॒वित्त॑मो भव ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सः । मदानां । पते। इंदो इति । देवप्पराः । असि ।  
+> सखाइव । सख्ये । गातुवित् 5 तमः । भव ॥ ५ ॥
+
+### Printed p. 38
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मदादीनां मदानां मदकानां पते स्वामिन् हे इंदो सोम स
+> त्वं देवप्परा असि । प्सर इति रूपनाम । दीप्तरूपो भवसि । स त्वं सखेव यथा
+> सखा सुहृत् सख्ये मित्राय सत्यं मार्गं ज्ञापयति तद्वदस्माकमपि गातुवित्तमोऽत्यंतं मार्गस्य लंभको भव । ज्ञापको भव ॥
+
+##### Gist of the bhāṣya
+
+O lord of our intoxicating drinks, O Indu, Soma, you are देवप्परा (*devapparā*); प्सर (*psara*) is a word for form, so you are of shining form. As a friend shows the true path to a friend, so be for us too the best finder of the path, the one who makes it known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- मदानां (*madānāṃ*)—for joys
+- पते (*pate*)—lord
+- इंदो (*iṃdo*)—O Soma
+- सः (*saḥ*)—you, the famous one
+- देवप्परा (*devapparā*)—having a shining form
+- असि (*asi*)—you are
+- सख्ये (*sakhye*)—to a friend
+- सखेव (*sakheva*)—as a friend is a guide
+- गातुवित्तमः (*gātuvittamaḥ*)—becoming the best guide for us
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, lord of our joys, you, the famous one, are of shining form. As a friend is a guide to a friend, be for us an excellent guide.
+
+##### English translation
+Lord of our exhilaration, Indu, you are of the brilliant form ; be our true gnide as a friend is to a friend.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सने॑मि कृ॒ध्य१॒॑गस्मदा र॒क्षसं॒ कं चि॑द॒त्रिणं॑ ।  
+> अपादे॑वं द्व॒युमंहो॑ युयोधि नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनेमि ! कृधि । अस्मत् । आ । रक्षसं । कं । चित् । अत्रिणं ।  
+> आप । अदेवं । द्वयुं । अंहः । युयोधि । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अस्मदस्मासु सनेमि । पुराणनामैतत् । पुराणं सख्यं कृधि । कुरु।
+> आ अपि चात्रिणमदनशीलं कं चिद्रक्षसमपयुध्यस्व । कीदृशं । आदेवमदेवनशीलं
+
+##### Gist of the bhāṣya
+
+O Soma, सनेमि (*sanemi*) is a word meaning "old": make (कृधि (*kṛdhi*), do) the old friendship with us. And fight off some devouring Rakṣas, one who is godless, द्वयुं (*dvayuṃ*), that is possessed of a twofold nature, joined with truth and untruth, or possessed of outer and inner illusion.
+### Printed p. 39
+
+> द्वयुं द्वयवंतं सत्यानृतयुक्तं बाह्याभ्यंतरमायायुक्तं वा । किं च नोऽस्माकमंहः पापं चाप युयोधि । संप्रहर ॥ युध्यतेर्बहुलं छंदसीति शपः
+> श्नुः । वा छंदसीति हेर्णत्वाभावाद्गुणः । धलोपश्रांदसः । यौतीर्वा श्ला
+> पूर्णवद्रूपं :
+
+##### Gist of the bhāṣya
+
+Further, drive away also our sin (अंहः (*aṃhaḥ*)). The remainder of this block is grammatical (the form युयोधि (*yuyodhi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्मत् (*asmat*)—in us
+- सनेमि (*sanemi*)—the ancient friendship
+- कृधि (*kṛdhi*)—continue
+- आ (*ā*)—and
+- अत्रिणं (*atriṇaṃ*)—all-devouring
+- कं चित् रक्षसं (*kaṃ cit rakṣasaṃ*)—whatever Rākṣasa there may be
+- अदेनं (*adenaṃ*)—one who is not devoted to the gods
+- द्वयुं (*dvayuṃ*)—and a "fivefold" one **NOTE**
+- अप युयोधि (*apa yuyodhi*)—destroy
+- नः (*naḥ*)—our
+- *aṃhar*—sins
+- अप (युयोधि) (*apa (yuyodhi)*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, continue the ancient friendship with us. Destroy whatever all-devouring Rākṣasa there may be, the one without devotion to the gods, the "fivefold" one. Destroy our sins.
+
+##### English translation
+Show us (your) ancient (friendship); (drive off) the voracious Rakshasa, the impious, the double dealer—drive away our sin.
+## Sūkta 105 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं व इति षडृचं द्वितीयं सूक्तं । पर्वतनारदयोरार्षं । अन्यत्पूर्ववत् ।
+> तं व इत्यनुक्रांतं ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+तं व (*taṃ va*) is a hymn of six Ṛks, the second hymn. Its seer is Parvata and Nārada; the rest is as before. It is listed in the Anukramaṇī as तं व (*taṃ va*). The use of the hymn has been stated.
+
+##### Anuvāda
+
+This hymn beginning तं वः (*taṃ vaḥ*) is the second hymn in the seventh anuvāka. It has six Ṛks. As for the preceding hymn, the two seers are Parvata and Nārada. The seer, deity and metre are as in the previous hymn. In the Anukramaṇī it is given as तं वः (*taṃ vaḥ*). The viniyoga was stated earlier.
+
+Hymn 105. Maṇḍala 9; Anuvāka 7; Sūkta 105. Aṣṭaka 7; Adhyāya 5; Varga 8. Number of Ṛks in the hymn: 6. Seers: Parvata and Nārada. Deity: Pavamāna Soma. Metre: Uṣṇih.
+### Printed p. 40
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वः॑ सखायो॒ मदा॑य पुना॒नम॒भि गा॑यत ।  
+> शिशुं॒ न य॒ज्ञैः स्व॑दयंत गू॒र्तिभिः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं ! वः । सखायः । मदाय । पुनानं । अभि । गायत ।  
+> शिशुं । न : यज्ञैः । स्वदयंत । गूर्तिबिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखाय ऋत्विजः वो यूयं मदाय देवानां मदार्थं पुनानं
+> पूयमानं तं सोममभि गायत । अभिष्टुत । तमिमं सोमं शिशुं न शिशुमिवालंकारैः क्षीरादिभिश्च यथा स्वादूकुर्वंति शद्वद्यज्ञैर्हविर्भिर्मिश्रणैर्गूर्तिभिः
+> स्तुतिभिश्च स्वदयंत । स्वादूकुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+O friends, priests: you, for the exhilaration of the gods, sing to that Soma who is being purified. Just as people sweeten a child with ornaments and with milk and the like, so sweeten him (स्वदयंत (*svadayaṃta*), make him sweet) with sacrifices, that is with oblations and mixings, and with praises (गूर्तिभिः (*gūrtibhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O priests who are friends
+- वः (*vaḥ*)—you
+- मदाय (*madāya*)—for the joy of the gods
+- पुनानं (*punānaṃ*)—who has been purified
+- तं (*taṃ*)—Soma
+- अभिगायत (*abhigāyata*)—praise in song
+- शिशुं न (*śiśuṃ na*)—as mothers adorn their children
+- यज्ञैः (*yajñaiḥ*)—with oblations and the like, the means of sacrifice
+- गूर्तिभिः (*gūrtibhiḥ*)—with praises
+- स्वदयंत (*svadayaṃta*)—adorn
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, friends, sing in praise of the purified Soma for the joy of the gods. As mothers adorn their children, adorn him with oblations and the like, the means of sacrifice, and with praises.
+
+##### English translation
+Hymn, friends, the Soma purified for the exhilaration (of the gods) gratify him with oblations and praises as (men gratify) a child (with ornaments).
+### Printed p. 41
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ५० वत्स इव मातृभिःमूर्तिन्वानो अज्यते ।  
+> दे॒वा॒वीर्मदो॑ म॒तिभिः॒ परि॑ष्कृतः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं, वत्स्य इव मातृभिः इंदु, हिन्वानः । अज्यते  
+> देव्य अवीः मदः मतिभिः : परिकृतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रवर्गेऽभिष्टवे सं वत्स इव मातृभिरित्येका । सूत्रं च समि वत्समित्यनया
+> सहोक्तं ॥
+> हिन्वानः प्रेर्यमाणः इंदुः सोमो वसतीवरीभिः समज्यते । सम्यक्
+> सिक्तो भवति । तत्र दृष्टांतः । वत्स इव वत्सो यथा मातृभिगर्गोभिः समक्तो
+> भवति तद्वत् । कीदृशः । देवानीर्देवानां रक्षको मदो मदकरो मतिभिः
+> स्तुतिभिः परिष्कृतोऽलंकृतः ॥ भूषणार्थे संपर्युपेभ्य इति सुडागमः । परिनिविभ्यः ।
+> पा. ८-३-७० । इति सुटः षत्वं ॥
+
+##### Gist of the bhāṣya
+
+In the Pravargya, in the Abhiṣṭava, one Ṛk is सं वत्स इव मातृभिः (*saṃ vatsa iva mātṛbhiḥ*). The Sūtra gives it together with the Ṛk समि वत्सं (*sami vatsaṃ*). Indu, Soma, being impelled, is anointed together with the waters (वसतीवरीभिः (*vasatīvarībhiḥ*)), that is, is well sprinkled. The illustration: as a calf is anointed by its mothers, the cows. Of what kind is he? Protector of the gods, intoxicating, adorned (परिष्कृतः (*pariṣkṛtaḥ*)) by praises. The rest of the block is grammatical (the augment suṭ).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातृभिः (*mātṛbhiḥ*)—by the cows, the mothers
+- वत्स इव (*vatsa iva*)—as calves are cherished and nourished
+- हिन्वानः (*hinvānaḥ*)—the pressed one
+- देवावीः (*devāvīḥ*)—protector of the gods
+- मदः (*madaḥ*)—the joy-giver
+- मतिभिः (*matibhiḥ*)—by praises
+- परिष्कृतः (*pariṣkṛtaḥ*)—adorned
+- इंदुः (*iṃduḥ*)—Soma
+- समज्यते (*samajyate*)—is made well refined
+
+##### भावार्थ (Bhāvārtha)
+
+As calves are cherished and licked by their mothers the cows, so Soma, the pressed one, protector of the gods, the one who causes pride **NOTE**, adorned by praises, is made well refined.
+
+##### English translation
+Indu being sent forth is sprinkled (with waters) as a calf (is nourished) by its mother—the protector of the deities, the exhilarator, graced by praises.
+### Printed p. 42
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhiṣṭava of the sacrifice called Pravargya this Ṛk, सं वत्स इव मातृभिः (*saṃ vatsa iva mātṛbhiḥ*), has its viniyoga; this was stated where the viniyoga of the Ṛk समि वत्सं (*sami vatsaṃ*) was given (9-104-2).
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं दक्षा॑य॒ साध॑नो॒ऽयं शर्धा॑य वी॒तये॑ ।  
+> अ॒यं दे॒वेभ्यो॒ मधु॑मत्तमः सु॒तः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं दक्षाय साधनः । अयं । शर्धाय वीतये ।  
+> अयं देवेभ्यः । मधुमत् 5 तमः सुतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमो दक्षाय बलाय वर्धनाय ना साधनः साधयिता भवति ।
+> तथायं सोमः शर्धाय वेगार्थं वीतये देवानां भक्षणार्थं च भवति ।
+> सुतोऽभिषुतोऽयं सोमो देवेभ्य इंद्रादिभ्यो मधुमत्तमोऽतिशयेन
+> माधुर्ययुक्तो भवति । अत्यंतं मदकरो भवतीति वा ॥
+
+##### Gist of the bhāṣya
+
+This Soma becomes the accomplisher for दक्षाय (*dakṣāya*), strength, that is for increase. Likewise he is for शर्धाय (*śardhāya*), speed, and वीतये (*vītaye*), for the gods' eating. Pressed, this Soma is for the gods, Indra and the others, मधुमत्तमः (*madhumattamaḥ*), exceedingly endowed with sweetness; or else, he is exceedingly intoxicating.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—that Soma
+- दक्षाय (*dakṣāya*)—for strength
+- साधनः (*sādhanaḥ*)—becomes the accomplisher
+- अयं (*ayaṃ*)—this Soma
+- शर्धाय (*śardhāya*)—for speed
+- वीतये (*vītaye*)—is fit for the drinking of the gods
+- सुतः (*sutaḥ*)—pressed
+- अयं (*ayaṃ*)—this Soma
+- देवेभ्यः (*devebhyaḥ*)—to the gods, Indra and others
+- मधुमत्तमः (*madhumattamaḥ*)—is the greatest joy-giver
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma is an accomplisher of strength. This Soma is fit for exceeding speed and for the drinking of the gods. This pressed Soma is the greatest joy-giver to the gods, Indra and others.
+
+##### English translation
+This (Soma) is an instrument for invigoration; he (is useful) for speed (and) for the banquet of your gods ; he is effused most sweet-flavoured for the gods-
+
 ---
 
-**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
+**Progress note:** Done through printed p. 42. pp. 37-42 (batch API)
