@@ -25731,6 +25731,180 @@ Maṇḍala 10; Anuvāka 11; Sūkta 130. Aṣṭaka 8; Adhyāya 7; Varga 18. Num
 
 The sacrifice (yajña) of the nature of creation, which is spread on every side by threads, that is, by the expanding elements beginning with space. *Ekaśata* is one and a hundred, that is, a hundred and one: because Brahmā lives for a hundred of his own years, it is called a hundred and one together with Prajāpati who lives them, as in शतायुर्नै पुरुषः शतवीर्य आत्मैकशत इति (*śatāyurnai puruṣaḥ śatavīrya ātmaikaśata iti*); the accusative expresses continuous connection. It is extended, lengthened, by acts done by enjoyers for the gods through Brahmā's hundred years, and lasts so long. The fathers, protectors, the world-creating gods who are Prajāpati's vital powers, weave, that is, fashion; the gods who "came" pervaded all that was to be created by weaving. And "pra vaya, apa vaya": pravāṇa is the creation of the excellent, conscious world of enjoyers; apavāna is the creation of the inferior, insentient world of things enjoyed. The root वेञ् (*veñ*) is in the sense of weaving threads; the imperative by समुच्चयेऽन्यतरस्यां (*samuccaye 'nyatarasyāṃ*) (Pā. 3-4-3). So, weaving, they make pravāṇa and apavāna. Being thus, those world-creators abide in the extended Satyaloka, worshipping Prajāpati in the form of the vital breath. Or else the sacrifice such as Jyotiṣṭoma is described under this figure as a loom: its threads are the forms such as Agniṣṭoma, or the seven metres. **NOTE**
 
+### Printed p. 784
+
+> स्ततो विस्तृतः । तथैकशतं । तृतीयार्थे प्रथमा । एकाधिकेनाग्निचयनेन युक्तैर्देवकर्मेभिर्गनामयनप्रभृतिकैर्विश्वसृजामयनांतैरेकाहादिसत्त्रात्मकैर्वायतो दीर्घीभूत एवमायतो विस्तारवान्यज्ञात्मकोऽयं पटः प्रजापतिना सृष्टः ।
+> तं पटं पितरोऽस्माकं पितृभूता इमेऽंगिरसो वयंति । तस्य पटस्य प्राचीनतंतुस्थानीयानि स्तुतशस्त्राणि प्र वय त्वं कुरु अप वय तिरश्चीनतंतुस्थानीयानि यजूंपि
+> त्वं कुर्वित्येवं परस्परं नियुंजाना आसते । नियुंजंति ॥ एवं विस्त्रतस्य यज्ञस्य
+> प्रजापतेः सकाशादुत्पत्तिरुत्तरया प्रतिपाद्यते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the explanation of the sacrifice as a woven cloth. The cloth is stretched out by the hundred and one divine rites, from the Gavāmayana to the Viśvasṛjām Ayana, which are of the nature of Ekāha and Sattra rites; this sacrificial cloth was created by Prajāpati. Our fathers, these Aṅgirases, weave it. They urge one another in turn: "Weave forth: make the stotras and śastras, which correspond to the lengthwise threads. Weave across: make the Yajus formulas, which correspond to the crosswise threads." The origin of the extended sacrifice from Prajāpati is set forth in the following verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the creative sacrifice which
+- यज्ञः (*yajñaḥ*)—sacrifice
+- तंतुभिः (*taṃtubhiḥ*)—by threads in the form of ether and the other elements
+- विश्वतः (*viśvataḥ*)—on all sides
+- ततः (*tataḥ*)—is spread out
+- देवकर्मेभिः (*devakarmebhiḥ*)—by the rites people perform for the gods
+- एकशतं (*ekaśataṃ*)—for a hundred and one years
+- आयतः (*āyataḥ*)—the sacrifice that is performed at length
+- इमे (*ime*)—these
+- पितरः (*pitaraḥ*)—the gods who are Prajāpati's vital breaths and who create the universe
+- वयंति (*vayaṃti*)—weave and make
+- ये देवाः (*ye devāḥ*)—which gods
+- प्र वय (*pra vaya*)—the creation of the excellent, sentient enjoyer
+- अप वय (*apa vaya*)—and the creation of the inferior, insentient world of objects of enjoyment
+- आययुः (*āyayuḥ*)—pervaded through the work of creation
+- तते (*tate*)—in the vast Satyaloka
+- आसते (*āsate*)—worship Prajāpati in the form of vital breaths
+
+##### भावार्थ (Bhāvārtha)
+
+The creative sacrifice is spread everywhere by threads that are the five elements beginning with ether, and is carried on for a hundred years by rites directed to the gods. The gods, who are Prajāpati's vital breaths and who carry creation forward, make this sacrifice as one weaves cloth. And those gods who create the excellent, sentient enjoyer and the inferior, insentient objects of enjoyment worship Prajāpati in the vast Satyaloka through meditation and the like.
+
+##### English translation
+The sacrifice which is extended on every side by the threads (of created things) spread out by the worship of the gods for a hundred and one (years), these our progeniotors, who have preceded us, weave it, weaving forwards, weaving backwards, rhey worship (Prajapati) when (the world) is woven.
+
+### Printed p. 785
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the order of creation is described by comparison with a sacrifice and with cloth. Creating is itself a sacrifice. As cloth is woven from threads, the gods carry out creation through many kinds of sacrificial rites. Prajāpati first created this world, made of the five elements. Then he created the gods and made them carry forward the further creation still to be done. This is what is said here.
+
+यः यज्ञः विश्वतः तंतुभिः ततः (*yaḥ yajñaḥ viśvataḥ taṃtubhiḥ tataḥ*)—Here creation is described as a sacrifice, and that sacrifice is compared to the making of cloth. The sacrifice that spread in all directions of the universe is like cloth woven of threads, which grows broader as it is woven: creation, composed of the five elements beginning with ether, spread everywhere. Here the five elements are the threads. As threads are necessary for making cloth and cloth is woven by joining them, so the creation of the world is made from the five elements.
+
+एकशतं देवकर्मेभिः आयतः (*ekaśataṃ devakarmebhiḥ āyataḥ*)—Prajāpati's lifespan is here said to be a hundred and one years. That is, it is well known in the Purāṇas and elsewhere that the four-faced Brahmā lives a hundred years by his own (divine) reckoning. Instead of taking एकशतं (*ekaśataṃ*) to mean "for a hundred and one years", one may take it to mean Brahmā's span of life, or a very long time. In a sacrifice there are many subsidiary rites such as kindling the fire by friction, bringing the Soma, and invoking the deities. Likewise in the work of creation, once the world is made, plants, trees, sentient and insentient beings and so on must be created; as a sacrifice has its many rites directed to the gods, so creation has the creation of many kinds of things. The meaning is that creation, together with such subsidiary creations, is very extensive, that is, vast.
+
+इमे वयंति पितरः (*ime vayaṃti pitaraḥ*)—Here the word पितरः (*pitaraḥ*) is explained as पालकाः प्रजापतेः प्राणभूताः विश्वसृजो देवाः (*pālakāḥ prajāpateḥ prāṇabhūtāḥ viśvasṛjo devāḥ*): the gods who are protectors and portions of Prajāpati. After Prajāpati has made the creation in the form of the world beginning with ether, the gods, as said above, make, that is, carry forward, the further creation.
+
+ये आययुः प्र वय अप वय इति आसते ते (*ye āyayuḥ pra vaya apa vaya iti āsate te*)—Here प्रवय (*pravaya*) means प्रवाणं नाम प्रकृष्टस्य चेतनस्य भोक्तृप्रपंचस्य सर्जनं (*pravāṇaṃ nāma prakṛṣṭasya cetanasya bhoktṛprapaṃcasya sarjanaṃ*): the creation of the excellent, sentient enjoyer (the living being). Likewise अप वय (*apa vaya*) means अपवानं नाम अपकृष्णस्य 50 निकृष्टस्य अचेतनस्य भोग्यप्रपंचस्य सर्जनं (*apavānaṃ nāma apakṛṣṇasya 50 nikṛṣṭasya acetanasya bhogyaprapaṃcasya sarjanaṃ*)
+
+### Printed p. 786
+the creation of the other things, inferior and insentient, that serve as means of enjoyment. The commentator explains that the gods who make these two kinds of creation keep worshipping Brahmā in the vast Satyaloka.
+
+The commentator gives another meaning for this Ṛk, comparing the sacrifice to the making of cloth: he explains the Jyotiṣṭoma and other sacrifices by comparison with the work of making cloth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः यज्ञः (*yaḥ yajñaḥ*)—the cloth called the Jyotiṣṭoma and other sacrifices
+- तंतुभिः (*taṃtubhiḥ*)—by threads in the form of the many varieties such as Agniṣṭoma and Atyagniṣṭoma, or by threads that are the seven metres
+- विश्वतः ततः (*viśvataḥ tataḥ*)—is spread out, that is, woven
+- एकशतं (*ekaśataṃ*)—beginning with the Agnicayana
+- देवकर्मभिः (*devakarmabhiḥ*)—by the sacrifices from the Gavāmayana up to the Viśvasṛjām Ayana, or by the Ekāha and other Sattra sacrifices
+- आयतः (*āyataḥ*)—this cloth called the sacrifice has been woven and made by Prajāpati (this cloth called the sacrifice)
+- इमे पितरः (*ime pitaraḥ*)—the Aṅgiras sages, who are our fathers
+- वयंति (*vayaṃti*)—weave (that is, perform the sacrifice)
+- ये (*ye*)—which Aṅgiras sages
+- आययुः (*āyayuḥ*)—performed the sacrifice; to that cloth in the form of the sacrifice
+- प्र वय (*pra vaya*)—the long threads (the warp) that are the stotra and śastra mantras
+- अप वय (*apa vaya*)—joining the crosswise threads (the weft) that are the Yajurveda mantras
+- तते (*tate*)—so that it is extended
+- आसते (*āsate*)—they weave (that is, they perform the sacrifice)
+
+##### भावार्थ (Bhāvārtha)
+
+Here a likeness between the sacrifice and the making of cloth is stated. In making cloth, threads are used; in performing a sacrifice, many kinds of sacrifices such as Agniṣṭoma and Atyagniṣṭoma are performed. As threads are many, so are sacrifices and metres (mantras). As cloth is woven large, so the sacrifice is carried on for a long time. In weaving cloth the long and the crosswise threads, warp and weft, are used; in the sacrifice the Ṛgveda and Yajurveda mantras are used to accomplish the sacrifice. Weavers make the cloth; sages such as the Aṅgirases accomplish the sacrifice. In this way every part of cloth-making is explained and described by way of illustration of the various rites of the sacrifice. The main point is that creation was first compared to a sacrifice, and then that sacrifice was compared to the making of cloth. It should be understood that the seer describes the order of creation through these two illustrations.
+
+### Printed p. 787
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुमा॑ एनं तनुत॒ उत्कृ॑णत्ति॒ पुमा॒न्वि त॑त्ने॒ अधि॒ नाके॑ अ॒स्मिन् ।  
+> इ॒मे म॒यूखा॒ उप॑ सेदुरू॒ सदः॒ सामा॑नि चक्रु॒स्तस॑रा॒ण्योत॑वे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुमान् । एनं । तनुते । उत् । कृणत्ति । पुमान् । वि । तत्ने । अधि । नाके । अस्मिन् ।  
+> इमे । मयूखाः । उप । सेदुः । ऊं इति । सदः । सामानि । चक्रुः । तसराणि ।  
+> ओतवे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुमान् पुरुष आदिपुरुषः प्रजापतिरेनं यज्ञं तनुते । विस्तारयति ।
+> सृष्टवानित्यर्थः । तथा च ब्राह्मणं । स प्रजापतिर्यज्ञमतनुत तमाहरत्तेनायजतेति ।
+> प्रजापतिर्यज्ञमसृजत यज्ञं सृष्टमनु ब्रह्मक्षत्रे असृज्येतामिति च । ऐ. ब्रा:
+> ५-३२-७-१९ । स एव पुमान् सृष्टं तं यज्ञमुत्कृणत्ति । उद्वेष्टयति ॥ कृति
+> वेष्टने रौधादिकः ॥ स एव पुमान् प्रजापतिरस्मिन्भूलोके नाके । अकं दुःख
+> नास्त्यस्मिन्निति नाकः स्वर्गलोकः ॥ नभ्राण्नपादित्यादिना नञः प्रकृतिभावः ॥ तत्र च नि
+> तत्ने । इमं यज्ञं विस्तारयति । अधिः सप्तम्यर्थानुवादी ॥ तनोतेर्लिटि तनिपः
+> त्योश्चंदसीत्युपधालोपः । तस्य स्थानिवद्भावाद्विर्वचनं ॥ मयूखा रश्मिभूतास्त्य
+> प्रजापतेः प्राणात्मका इमे विश्वसृजो देवाः सदः सदनं देवयजनस्थानमुष
+> सेदुः । विश्वसर्जनहेतुभूतं विश्वसृजामयनाख्यं यज्ञं कर्तुमुपसीदंति ।
+> उपसद्य च सामानि रथंतरादीन्वोतवे वयनाय यज्ञाख्यं वस्त्रमोतुं तसराणि
+> तिर्यक्सराणि तिरश्चीनसूत्राणि चक्रुः ॥
+
+##### Gist of the bhāṣya
+
+पुमान् (*pumān*) is the first person, Prajāpati; he spreads out, that is, has created, this sacrifice. The Brāhmaṇa says: स प्रजापतिर्यज्ञमतनुत तमाहरत्तेनायजतेति (*sa prajāpatiryajñamatanuta tamāharattenāyajateti*), and प्रजापतिर्यज्ञमसृजत यज्ञं सृष्टमनु ब्रह्मक्षत्रे असृज्येतामिति च (*prajāpatiryajñamasṛjata yajñaṃ sṛṣṭamanu brahmakṣatre asṛjyetāmiti ca*) (Ai. Brā. 5-32-7-19). The same person rolls up, that is, winds up, the created sacrifice; कृति (*kṛti*) is a root of the Rudhādi class meaning "to wind". The same Prajāpati spreads it out in this world, in नाके (*nāke*), the heaven-world, where there is no pain (अकं (*akaṃ*)). अधि (*adhi*) merely repeats the sense of the locative. मयूखाः (*mayūkhāḥ*) are rays, these gods, creators of the universe, who are Prajāpati's vital breaths. They approached the सदः (*sadaḥ*), the place of the divine sacrifice, in order to perform the sacrifice called Viśvasṛjām Ayana, the cause of the creation of the universe. Having approached it, they made the Sāmans, Rathantara and the rest, into तसराणि (*tasarāṇi*), crosswise threads, for weaving the cloth that is the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुमान् (*pumān*)—Prajāpati, the first person
+- एनं (*enaṃ*)—this sacrifice
+- तनुते (*tanute*)—has created (that same Prajāpati)
+- उत्कृणत्ति (*utkṛṇatti*)—winds up that sacrifice (brings it to completion)
+- पुमान् (*pumān*)—that Prajāpati
+- अस्मिन् (*asmin*)—in this world of earth
+
+### Printed p. 788
+- अधि नाके (*adhi nāke*)—and in the world of heaven
+- वि तत्ने (*vi tatne*)—spreads out (makes it flourish)
+- इमे (*ime*)—these
+- मयूखाः (*mayūkhāḥ*)—the gods, rays and vital breaths of Prajāpati, engaged in the creation of the universe
+- सदः उ (*sadaḥ u*)—the sacrificial house that the gods worship
+- उप सेदुः (*upa seduḥ*)—approached in order to perform the sacrifice called Viśvasṛjām Ayana, which is the creation of the universe, and sat down there (after sitting down)
+- ओतवे (*otave*)—in order to weave the cloth that is the sacrifice
+- सामानि (*sāmāni*)—the Sāma mantras, Rathantara and the rest
+- तसराणि (*tasarāṇi*)—as the threads (weft) joined crosswise in weaving
+- चक्रुः (*cakruḥ*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+पुमान् एनं तनुते उत् कृणत्ति (*pumān enaṃ tanute ut kṛṇatti*)—Here पुमान् (*pumān*) is Prajāpati, the first person; तनुते (*tanute*) means he extends, spreads; उत्कृणत्ति (*utkṛṇatti*) means he winds up or brings to completion. A weaver, when weaving cloth, spreads it broad and weaves by joining the long and crosswise threads, warp and weft. When the cloth is finished, he rolls it up and puts it away. In the same way Prajāpati first creates the sacrifice and makes it widely known so that everyone may perform it. After the sacrifice has been performed, he brings it to completion.
+
+##### English translation
+The first man spreads out this (web), the first man rolls it up, he spreads it above in this heaven; these his rays have sat down on the seat (of sacrifice), they have made the prayers serve as shuttles for weaving.
+
+##### विशेषविषयगळु (Special Topics)
+
+पुमान् वि तत्ने अधि नाके अस्मिन् (*pumān vi tatne adhi nāke asmin*)—That Prajāpati makes it spread both on earth and in the world of heaven. On this point two Śruti sentences are cited as examples: स प्रजापतिर्यज्ञमतनुत तमाहरत्तेनायजत (*sa prajāpatiryajñamatanuta tamāharattenāyajata*) (Ai. Brā. 5-32) and प्रजापतिर्यज्ञमसृजत यज्ञं सृष्टमनु ब्रह्मक्षत्रे असृज्येतां (*prajāpatiryajñamasṛjata yajñaṃ sṛṣṭamanu brahmakṣatre asṛjyetāṃ*) (Ai. Brā. 7-19). That is, Prajāpati first created the sacrifice and then himself performed it; Prajāpati first created the sacrifice and then created Brāhmaṇas and Kṣatriyas.
+
+इमे मयूखा उप सेदुः सदः (*ime mayūkhā upa seduḥ sadaḥ*)—Here मयूखाः (*mayūkhāḥ*) means rays. Which rays? The gods created by Prajāpati, his vital breaths. As rays arise from the sun, so the gods, endowed with a part of his vitality, arise from Prajāpati.
+
+### Printed p. 789
+सदः (*sadaḥ*) means the sacrificial house. These gods, Prajāpati's vital breaths, engaged in the work of creation, came and sat down in the sacrificial house to perform the sacrifice of the creation of the universe.
+
+सामानि चक्रुः तसराणि ओतवे (*sāmāni cakruḥ tasarāṇi otave*)—What did they do after coming and sitting in the sacrificial house? Cloth-weavers, in order to weave cloth, first spread the long threads evenly side by side; these are called warp threads. Then they weave by adding other threads crosswise, one by one, between those threads; these crosswise threads are called weft threads. In making cloth both warp and weft are necessary. Likewise, in carrying out the sacrifice, the gods recited the Sāma mantras, Rathantara and the rest, along with the Ṛk mantras. The Ṛk mantras became the warp threads; the Sāma mantras became the weft threads. The main point is that the five elements beginning with ether, and the world and the rest, first created by Prajāpati, became the warp threads; the other classes of things created by the gods became the weft threads. As both warp and weft are necessary for making cloth, so for the work of creation both Prajāpati's creations and those of the gods are necessary.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कासी॑त्प्र॒मा प्र॑ति॒मा किं नि॒दान॒माज्यं॒ किमा॑सीत्परि॒धिः क आ॑सीत् ।  
+> छंदः॒ किमा॑सी॒त्पउ॑गं॒ किमु॒क्थं यद्दे॒वा दे॒वमय॑जंत॒  ॑
+> विश्वे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> का । आसीत् । प्रमा । प्रतिमा । किं । निदानं । आज्यं । किं । आसीत् । परिधिः । कः।  
+> आसीत् ।  
+> छंदः । किं । आसीत् । प्रउगं । किं । उकथं । यत् । देवाः । देवं । अयजंत ।  
+> विश्वे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वसर्जनोपायत्वेन प्रजापतिना सृष्टे यज्ञे विश्वस्य स्रष्टारो विश्वसृजो
+> देवा विश्वसर्जनाय तं यज्ञमन्वतिष्ठत् । तस्मिन्समये जगतोऽनुत्सत्तेर्जगदंतः-
+
+##### Gist of the bhāṣya
+
+When the sacrifice had been created by Prajāpati as the means of creating the universe, the gods who create the universe, the Viśvasṛjas, performed that sacrifice for the creation of the universe. At that time, since the world had not yet come into being, the world within….
+
 ---
 
-**Progress note:** Done through printed p. 783. pp. 778-783 (batch API)
+**Progress note:** Done through printed p. 789. pp. 784-789 (batch API)
