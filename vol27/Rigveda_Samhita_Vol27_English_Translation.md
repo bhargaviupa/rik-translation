@@ -15804,6 +15804,114 @@ The seven (metres) offer laudation to the glorious, the adorable parent (the Som
 ## Sūkta 14 (Maṇḍala 10)
 In this sūkta and in some following sūktas there are descriptions explaining the Pitṛs, the divisions and subdivisions among them, and the regions or worlds where they dwell. First one must understand what is meant by Pitṛs, who they are and what their nature is. After men who live on earth have died, their earthly body is dissolved and its various parts merge into the five elements, earth and the rest. The five elements are earth, water, air, fire and space. That is, the solid substances in the body, such as bones, merge in time into the earth; the liquid ones, such as blood, into water; the vital airs into air; the fire in the body in the form of heat into fire; and the remainder into space. But there is a vital power that does not dissolve into these five elements. By it all the functions of the body go on while a person lives. It does not perish with the body. Remaining in a subtle form, it stays for a long time experiencing pleasure, pain and the like in the subtle worlds such as heaven, according to the fruit of the deeds it has done. This vital power the Ṛgveda describes by the words ātman, jīva, manas and jyotis. After this ātman is separated from the dead body, it stays for some time in the preta-body and afterwards goes to heaven and the like. It is customary to call the souls of the dead who are in heaven and the like Pitṛs. That is, persons in subtle form, who were our elders, who lived on this earth in the past, before we were born, and who after death still enjoy happiness and delight in the good worlds such as heaven, are called Pitṛs.
 
+### Printed p. 429
+
+##### विशेषविषयगळु (Special Topics)
+
+Pitṛs, Pitṛlokas and the worship of the Pitṛs.
+
+As the fruit of performing good rites such as sacrifices, a man obtains the status of a pitṛ after death. He is then carried by Yama, the king, to the world that corresponds to his rite. The sentences of the Vedic Saṃhitā praise the pitṛs and Yama in this way:
+
+परेयिवांसं प्रवतो महीरनु बहुभ्यः पंथामनुपस्पशानं । वैवस्वतं संगमनं जनानां यमं राजानं हविषा दुवस्य ॥ (*pareyivāṃsaṃ pravato mahīranu bahubhyaḥ paṃthāmanupaspaśānaṃ | vaivasvataṃ saṃgamanaṃ janānāṃ yamaṃ rājānaṃ haviṣā duvasya ‖*) (Ṛ. Saṃ. 10-14-1)
+
+There are many such mantras. They say: "Worship Yama, the lord who leads good people, who performed excellent rites, to the worlds that grant enjoyments corresponding to each one's rites." Such mantras convey many points of doctrine. It is stated:
+1) After death, when the body has perished, the part that is different from the body and is not perishable goes to and reaches the world fixed for it according to its earthly deeds.
+2) Such worlds are three in number and are called the Pitṛlokas.
+3) Yama, the king of all the pitṛs, is the lord of all these worlds, and the best of them is exceedingly radiant.
+4) The pitṛs who dwell in these worlds also, like the gods, bestow their favour on their living sons and others, and accept the oblation in the form of "स्वधा (*svadhā*)" offered by them.
+
+There are many discussions on the question whether the eternal principle that is praised as आत्मा (*ātmā*) in the Upaniṣads and the like, and the power of the self that is described as capable of attaining eternal union (sāyujya), is the same self stated in the Ṛksaṃhitā in the same technical terms, or whether the two descriptions differ. There is no room for that discussion here; its course will be given later, as the context requires and if necessary. In the present context the following matters must necessarily be discussed. When does the qualification to be called a pitṛ arise? For whom? What are their natures? By what kind of rite is the body released after death? How is the part that remains after the body described? What is its final abode? Does the impression of dharma follow after the body? This section may be divided as stated below, and each point examined on the basis of Vedic sentences.
+
+### Printed p. 430
+1) The principle (the self) different from the earthly body.
+2) The groups of pitṛs and the Pitṛlokas.
+3) Rebirth and other births.
+4) The rite for the departed (preta).
+5) Pitṛ-śrāddha.
+
+1) The principle different from the earthly body and its nature.
+The words आत्मन् (*ātman*), अजोभाग (*ajobhāga*), जीव (*jīva*), प्राण (*prāṇa*), मनस् (*manas*), सुवर्ण (*suvarṇa*), असु (*asu*) and ज्योति (*jyoti*) are words denoting the part of the person that is different from the body and not perishable. How this part, which lies beyond the body, is described in the Ṛksaṃhitā and in other Vedic sentences, and how these words reflect that eternal thing, are matters to be examined for now.
+
+The word आत्मन् (*ātman*) is formed from the root आन् (*ān*), which gives meanings such as "to live, to breathe". This word आत्मन् (*ātman*) is used in the Ṛksaṃhitā on many occasions, in altered forms. Usages such as आत्मदाः (*ātmadāḥ*), आत्मवत् (*ātmavat*), आत्मन्वतीभिः (*ātmanvatībhiḥ*), आत्माइव (*ātmāiva*), आत्मनवंतं (*ātmanavaṃtaṃ*), शतात्मा (*śatātmā*) and शतात्मानं (*śatātmānaṃ*) denote the part beyond the body. Its precise meaning cannot be stated as "this, thus". In the commentaries one meaning is given in one place and another elsewhere. For example:
+
+को ददर्श प्रथमं जायमानमस्थन्वंतं यदनस्था बिभर्ति । भूम्या असुरसृगात्मा क्व स्वित्को विद्वांसमुप गात्पष्टुमेतत् ॥ (*ko dadarśa prathamaṃ jāyamānamasthanvaṃtaṃ yadanasthā bibharti | bhūmyā asurasṛgātmā kva svitko vidvāṃsamupa gātpaṣṭumetat ‖*) (Ṛ. Saṃ. 1-164-4)
+
+Here both words असुः (*asuḥ*) and आत्मा (*ātmā*) are used. By भूम्याः असुरसृक् (*bhūmyāḥ asurasṛk*) the earthly gross body is described. Sāyaṇa has explained: असुः प्राणः तदुपलक्षितं सूक्ष्मशरीरं असृक् शोणितं (*asuḥ prāṇaḥ tadupalakṣitaṃ sūkṣmaśarīraṃ asṛk śoṇitaṃ*). Even though the vital breath is of the nature of consciousness, it too is earthly. Within the material body two divisions are made, gross and subtle: the vital breath is classed as the subtle body, and blood and the like as the gross body. Sāyaṇa's explanation also shows that the consciousness in the form of breath differs from the consciousness in the form of the self. When the self is described as पंचभूतात्मक शरीरसंबद्ध चेतनः (*paṃcabhūtātmaka śarīrasaṃbaddha cetanaḥ*), the difference between the material body and the self is shown. The word is also used in the sense of a power that governs the functions of the body. In contexts such as आत्मा ते वातः (*ātmā te vātaḥ*) (7-86-2) it means the power that governs the world. This is beyond the body. Pointing to this very part—
+
+### Printed p. 431
+अजो भागस्तपसा तं तपस्व तं ते शोचिस्तपतु तं ते अर्चिः । यास्ते शिवास्तन्वो जातवेदस्ताभिर्वहैनं सुकृतामु लोकं ॥ (*ajo bhāgastapasā taṃ tapasva taṃ te śocistapatu taṃ te arciḥ | yāste śivāstanvo jātavedastābhirvahainaṃ sukṛtāmu lokaṃ ‖*) (Ṛ. Saṃ. 10-16-4)
+
+Here Sāyaṇa, explaining the meaning of the word अज (*aja*), says: अजः जननरहितः शरीरेंद्रियभागव्यतिरिक्तः अंतरपुरुषलक्षणो यो भागोऽस्ति (*ajaḥ jananarahitaḥ śarīreṃdriyabhāgavyatiriktaḥ aṃtarapuruṣalakṣaṇo yo bhāgo 'sti*). It means the part that is without birth, different from the body and the senses, and hidden within the body of the person. In the mantra above, Agni is prayed not to burn this part, not to let it perish, and to make it reach an everlasting place.
+
+The word जीव (*jīva*) is used in the same way. This word is used in many places, but it is not given the same meaning in all contexts. It is used in the sense of a distinct self in two places only:
+
+उदीर्ध्वं जीवो असुर्न आगादप प्रागात्तम आ ज्योतिरेति ॥ (*udīrdhvaṃ jīvo asurna āgādapa prāgāttama ā jyotireti ‖*) (Ṛ. Saṃ. 1-113-16)
+
+जीवो मृतस्य चरति स्वधाभिरमर्त्यो मर्त्येना सयोनिः ॥ (*jīvo mṛtasya carati svadhābhiramartyo martyenā sayoniḥ ‖*) (Ṛ. Saṃ. 1-164-30)
+
+Only in these two passages has Sāyaṇa given the word जीव (*jīva*) the meaning "the individual self (jīvātman)". He states its nature as connected with the body that dies, and as having the same abode as the living being that is liable to death. Quoting the Upaniṣad sentence जीवापेतं वाव किलेदं म्रियते, न जीवो म्रियते (*jīvāpetaṃ vāva kiledaṃ mriyate, na jīvo mriyate*) (Bhā. U. 6-11-3) **NOTE**, he explains the difference between the self and the body. In the same way the words प्राण (*prāṇa*) and मनस् (*manas*) are also used in the sense of consciousness. Moreover,
+
+द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परि षष्वजाते । (*dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pari ṣaṣvajāte |*) (1-164-20)
+
+Here he states that the word सुपर्ण (*suparṇa*) is a synonym of the individual self. Thus the use of various words conveys the eternal principle that is distinct from the body. On the whole, the seers who saw the sūktas, in the sentences of the Ṛksaṃhitā, state their views on the self thus:
+1) In a person there is a part of consciousness that differs from the insentient.
+2) It is beyond the body. It remains even after the body has perished.
+
+### Printed p. 432
+3) It is without birth and death, and everlasting.
+4) In earthly life it is the vital essence of the body and the governor of the body's functions.
+5) Whatever action it performs while in contact with the body in earthly life, it experiences the fruit of that action even after it is separated from the body. These and similar points they have made clear.
+
+For a dead person there are three paths on which to go according to his own deeds: devayāna, pitṛyāna and narakayāna. (In the Ṛksaṃhitā the first two paths are clearly described; the third, narakayāna, is only hinted at by some descriptions.) Of these, the difference between the two paths devayāna and pitṛyāna was stated briefly earlier. What is to be understood in the present context is only this: which is the pitṛyāna, for whom is the state of pitṛ, and what is the nature of the Pitṛloka.
+
+2) The groups of pitṛs; the Pitṛlokas
+
+उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः । असुं य ईयुरवृका ऋतज्ञास्ते नोऽवंतु पितरो हवेषु ॥ (*udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyuravṛkā ṛtajñāste no 'vaṃtu pitaro haveṣu ‖*) (Ṛ. Saṃ. 10-15-1)
+
+In this mantra the Pitṛlokas are specified. त्रिविधाः पितर. उत्तमा मधमा अधमाश्चेति । (*trividhāḥ pitara. uttamā madhamā adhamāśceti |*) There are three kinds of groups of pitṛs: the highest, the middle and the lowest. All of them are described as knowers of ṛta (*ṛtajñāḥ*), and are prayed to protect all out of compassion. But how their pitṛhood arises is hard to state precisely. Did they all first take human birth on earth and then, as the fruit of their good rites, reach the Pitṛloka after death? Or have they been in these worlds from beginningless time? Do they also have a divine element? And so on. Many are described as having attained divinity and as dwelling in the highest divine world. Besides this, dividing the three kinds of groups of pitṛs, the Śatapatha indicates these groups as follows:
+
+तद्ये सोमेनीजानाः। ते पितरो सोमवंतोथ ये दत्तेन पक्वेन लोकं जयंति ते पितरो बर्हिषदोथ ये ततो नान्यतरश्चन यानग्निरेव दहन्स्‌द्वयति ते पितरोग्निष्वात्ता एत उ ये ते पितरः ॥ (*tadye somenījānāḥ| te pitaro somavaṃtotha ye dattena pakvena lokaṃ jayaṃti te pitaro barhiṣadotha ye tato nānyataraścana yānagnireva dahansdvayati te pitarogniṣvāttā eta u ye te pitaraḥ ‖*) (Śa. Brā. 2.6-1-7)
+
+The pitṛs who performed the sacrifice offering soma are the Somavantas. Those who won the world of the gods by cooked offerings such as the puroḍāśa are the Barhiṣads. Those who have neither of these, and were burned by fire alone,
+
+### Printed p. 433
+are the Agniṣvāttas. Thus the pitṛs are specified in three divisions. These names accord with their rites. So the scheme of dividing the groups of pitṛs is of two kinds. If the above division in the śrāddha section is examined, the pitṛs described as परासः (*parāsaḥ*) possess an exceedingly divine nature.
+
+अंगिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः ॥ (*aṃgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ ‖*) (Ṛ. Saṃ. 10-14.6)
+
+The Ṛbhus, Maruts, Aṅgirases, Virūpas, Navagvas, Daśagvas, Atharvans, Bhṛgus and Kuśikas all belong to this group. All of them obtained divinity by their excellent deeds, became immortal, and like the gods are worthy of worship.
+
+इंद्रस्य सख्यमृभवः समानशुर्मनोर्नपातो अपसो दधन्विरे । सौधन्वनासो अमृतत्वमेरिरे विष्ट्वी शमीभिः सुकृतः सुकृत्यया ॥ (*iṃdrasya sakhyamṛbhavaḥ samānaśurmanornapāto apaso dadhanvire | saudhanvanāso amṛtatvamerire viṣṭvī śamībhiḥ sukṛtaḥ sukṛtyayā ‖*) (Ṛ. Saṃ. 3-60-3)
+
+The Ṛbhus, who belonged to the group of men and were sons of Sudhanvan, performed excellent sacrificial rites and attained friendship with Indra. The praise that the Ṛbhus, sons of Sudhanvan, obtained divinity and freedom from death by their excellent deeds is repeated in many places in different forms (4-35-8 and others).
+
+तेवर्धंत स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः । विष्णुर्यद्धावद्वृषणं मदच्युतं वयो न सीदन्नधि बर्हिषि प्रिये ॥ (*tevardhaṃta svatavaso mahitvanā nākaṃ tasthururu cakrire sadaḥ | viṣṇuryaddhāvadvṛṣaṇaṃ madacyutaṃ vayo na sīdannadhi barhiṣi priye ‖*) (Ṛ. Saṃ. 1-85-7)
+
+The Maruts, who move by their own power and have exceeding greatness, have climbed to the heavenly world and obtained the right to dwell there. May such Maruts favour us.
+
+ये यज्ञेन दक्षिणया समक्ता इंद्रस्य सख्यममृतत्वमानश । तेभ्यो भद्रमंगिरसो वो अस्तु प्रति गृभीत मानवं सुमेधसः ॥ (*ye yajñena dakṣiṇayā samaktā iṃdrasya sakhyamamṛtatvamānaśa | tebhyo bhadramaṃgiraso vo astu prati gṛbhīta mānavaṃ sumedhasaḥ ‖*) (Ṛ. Saṃ. 10.62.1)
+
+O Aṅgirases, who, joined with sacrificial oblations and with fees (dakṣiṇā), worshipped the gods: by your good deeds you obtained Indra's friendship. For that very reason freedom from death came to you also. O Aṅgirases, doers of good deeds and attainers of a good destination, favour us. Thus the occasions on which the Ṛbhus, Maruts and Aṅgirases also attained divinity are stated. In the same way,
+xxvii 28
+
+### Printed p. 434
+मक्षू कनायाः सख्यं नवग्वा ऋतं वदंत ऋतयुक्तिमग्मन् । (*makṣū kanāyāḥ sakhyaṃ navagvā ṛtaṃ vadaṃta ṛtayuktimagman |*) (10-61-10)
+
+By such sentences the greatness of the seers belonging to the groups of pitṛs, the Navagvas, Daśagvas, Bhṛgus and others, is praised. It is probably described that all of these possess the divine radiance of Āditya and are protected by deities such as Pūṣan, who are connected with the sun. Pūṣan is also prayed to be the protector of the departed who go to and reach that world.
+
+आयुर्विश्वायुः परि पासति त्वा पूषा त्वा पातु प्रपथे पुरस्तात् । यत्रासते सुकृतो यत्र ते ययुस्तत्र त्वा देवः सविता दधातु ॥ (*āyurviśvāyuḥ pari pāsati tvā pūṣā tvā pātu prapathe purastāt | yatrāsate sukṛto yatra te yayustatra tvā devaḥ savitā dadhātu ‖*) (Ṛ. Saṃ. 10-17-4)
+
+"May Vāyu, the inner controller of all, protect you. May the god Pūṣan protect you as you go on the excellent path of heaven. Where the excellent pitṛs are, who earlier obtained the excellent world by their divine deeds, there may Savitṛ place you." Thus the connection of the sun with the excellent world of these pitṛs is stated. Some mantras quoted below show the connection between the pitṛs belonging to the highest group and Āditya, who dwells in the highest, radiant world.
+
+आ भरतं शिक्षतं वज्रबाहू अस्मा इंद्राग्नी अवतं शचीभिः । इमे सु ते रश्मयः सूर्यस्य येभिः सपित्वं पितरो न आसन् ॥ (*ā bharataṃ śikṣataṃ vajrabāhū asmā iṃdrāgnī avataṃ śacībhiḥ | ime su te raśmayaḥ sūryasya yebhiḥ sapitvaṃ pitaro na āsan ‖*) (Ṛ. Saṃ. 1-10) **NOTE**
+(Ṛ. Saṃ. 1-109-7)
+
+उच्चा दिवि दक्षिणावंतो अस्थुर्यै अश्वदाः सह ते सूर्येण । हिरण्यदा अमृतत्वं भजंते वासोदाः सोम प्रतिरंतु आयुः ॥ (*uccā divi dakṣiṇāvaṃto asthuryai aśvadāḥ saha te sūryeṇa | hiraṇyadā amṛtatvaṃ bhajaṃte vāsodāḥ soma pratiraṃtu āyuḥ ‖*) (10-107-2)
+
+सहस्रणीथाः कवयो ये गोपायंति सूर्यं । ऋषीन् तपस्वतो यम तपोजा अपि गच्छतात् ॥ (*sahasraṇīthāḥ kavayo ye gopāyaṃti sūryaṃ | ṛṣīn tapasvato yama tapojā api gacchatāt ‖*) (10-154-29)
+
+With whichever rays of Āditya our pitṛs, doers of excellent deeds, attained union, and with those rays reached the world of Brahmā, may those rays favour us. Those who gave fees generously in the sacrificial rite have reached the excellent world. Those who gave the gift of a horse have reached the world of the sun. Those who have done such excellent deeds are able to protect even Āditya. "O Yama, take the ascetic seers to such an excellent world"—thus it is prayed, and so on.
+
 ---
 
-**Progress note:** Done through printed p. 428. pp. 423-428 (batch API)
+**Progress note:** Done through printed p. 434. pp. 429-434 (batch API)
