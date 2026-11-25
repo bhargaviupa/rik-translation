@@ -9921,6 +9921,228 @@ Yāska, explaining the word वाहिष्ठः (*vāhiṣṭhaḥ*), gives
 
 गावः उष्णमिव व्रजं (संचरंति) (*gāvaḥ uṣṇamiva vrajaṃ (saṃcaraṃti)*)—In the previous Ṛk Agni was compared to a reservoir in the desert; in this Ṛk to the cattle-pen where cows are tied. As in winter cattle grazing outside, bitten by frost, enter in the evening with joy the warm pens, covered and free from the touch of cold wind, so people serve you, Agni, for happiness. This is the purport of the illustration.
 
+### Printed p. 252
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिशुं॒ न त्वा॒ जेन्यं॑ व॒र्धयं॑ती मा॒ता बि॑भर्ति सचन॒स्यमा॑ना ॥  
+> धनो॒रधि॑ प्र॒वता॑ यासि॒ हर्य॒ञ्ङ्गी॑षसे प॒शुरि॒वाव॑सृष्टः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिशुं । न । त्वा । जेन्यं । वर्धयंती । माता । बिभर्ति । सचनस्यमाना ।  
+> धनोः । अधि । प्रवता । यासि । हर्यन् । जिगीषसे । पशुः इव । अवसृष्टः ॥ ३ .
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने जेन्यं जयशीलं त्वा त्वां शिशुं न पुत्रमिव वर्धयंती पोषयंती
+> माता पृथिवी सचनस्यमाना संपर्कमिच्छंती सती बिभर्ति । धारयति । सत्वं
+> हर्यन् कामयमानस्तस्मैल्लोके धनोरधि । अधिः सप्तम्यर्थद्योतकः । अंतरिक्षात्पवता प्रवणेन मार्गेण यासि । यज्ञं प्रत्यागच्छसि । किंच त्वमवसृष्टो
+> यष्टृभिर्हविरादाय जिगीषसे । देवास्पृति गंतुमिच्छसि । कथमिव । पशुरिव यथा
+> विमुक्तः पशुर्गॊष्ठं प्रत्यागच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are victorious. The Earth is your mother. She nourishes you as a mother nourishes a child, wishes to be in contact with you, and so bears you. Desiring this world, you come to the sacrifice from the sky by a sloping path; अधि (*adhi*) here only marks the locative sense. Further, when the sacrificers have taken the oblation and released you, you wish to go to the gods. The comparison is with an animal that, once set free, returns to its stall.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जेन्यं (*jenyaṃ*)—the victorious one
+- त्वा (*tvā*)—you
+- शिशुं न वर्धयंती (*śiśuṃ na vardhayaṃtī*)—nourishing like a son (as one nourishes a son)
+- माता (*mātā*)—the Earth
+- सचनस्यमाना (*sacanasyamānā*)—desiring contact with you
+- बिभर्ति (*bibharti*)—bears you
+- हरन् (*haran*)—you, desirous of the sacrifice
+- धनोरधि (*dhanoradhi*)—from the sky
+- प्रवता (*pravatā*)—by a path that comes downward
+- यासि (*yāsi*)—you come toward the sacrifice
+- अवसृष्टः (*avasṛṣṭaḥ*)—after receiving your oblation
+- पशुः इव (*paśuḥ iva*)—as an animal that has grazed on grass goes back to its stall
+- जिगीषसे (*jigīṣase*)—you again desire to join the gods
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as a mother nourishes her son, the Earth, desiring contact with you, the victorious, bears you. You, desirous of the sacrifice, come from the sky by a downward path toward the sacrifice. After receiving your oblation, as an animal that has grazed on grass goes back to its stall, you again desire to join the gods.
+
+### Printed p. 253
+
+##### English translation
+Cherishing you, (Agni), the victorious, like a child, your mother (earth) desirous of your contact sustains you. You come, eager from above the firmament, by a downward path, and when released,(after the oblation is offered), you desire to go back like cattle (to their stall).
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मू॒रा अ॑मूर॒ न व॒यं चि॑कित्सो महि॒त्वम॑ग्ने॒ त्वमं॒ग  ॑
+> वित्से ॥  
+> शये॑ व॒व्रिश्चर॑ति जि॒ह्वया॒दनरे॑रि॒ह्यते॑ युव॒तिं वि॒श्वतिः॒ सन् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मूराः । अमूर । न । वयं । चिकित्सः । महित्वं । अग्ने । त्वं । अंग । वित्से ॥  
+> शये । वव्रिः । चरति । जिह्वया । अदन् । रेरिह्यते । युवतिं । विश्वतिः । सन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमूरामूढ अत एव चिकित्सश्चेतनवन् हे अग्ने मूरा मूढा वयं
+> तव महात्म्यं न जानीमः । किंतु हे अग्ने त्वमंग । अंगेति निपात निवार्थे ।
+> त्वमेव तव महित्वं माहात्म्यं वित्से । जानासि ! त्वत्तः कोऽन्नो वेदितुमर्हति ।
+> किंच वन्रिर्जीर्ण ओषधीसंगः शये । शेते । तिष्ठति । यद्वा । वन्रिरिति रूपनाम
+> सामर्थ्याच्चांतर्णीतमत्र्थं द्रष्टव्यं । आहवनीयाख्येन रूपेण रूपवाख्याये ।
+> चरति! अथ जॆह्वया ज्वालाख्ययादन्नवींषि भक्षयंश्चरति ॥ वाक्यभेदादनिघातः ॥ किंच
+> विश्वतिर्विशां स्वामी सन्नग्नियुवतिमात्मनो मिश्रयित्रिमाहुतिं दीर्घप्रसृतया
+> ज्वालया जिह्वया रेरिह्यते । अत्यर्थं लेढि । आस्वादयति ॥ लिह आस्वादने । यजि
+> रूपं ॥ यद्वा सोऽग्नियुवतिं तरुणीं जीर्णौषधिकां पृथिवीमास्वादयति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you are unperplexed and therefore intelligent. We, perplexed, do not know your greatness; you alone know it, for who else could know it? अंग (*aṃga*) is a particle used in the sense of निवार्थे (*nivārthe*). Further, Agni, the old herbs' ... वव्रिः (*vavriḥ*) lies, that is, stays: either it means the aged union with the herbs, or वव्रि (*vavri*) is a word for form, and by implication the sense "having a form" is to be understood, so that he is established in the form called Āhavanīya. And he moves about devouring the oblations with his tongue, the flame. Being lord of the people, Agni licks the युवति (*yuvati*), the oblation that mixes with him, with his far-extending flame-tongue. रेरिह्यते (*rerihyate*) means "licks intensely", "tastes", from the root लिह (*liha*) "to taste". Or else he tastes the Earth, the "young woman" whose herbs are old.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमूर (*amūra*)—O Agni, free from folly
+- चिकित्सः (*cikitsaḥ*)—possessed of excellent knowledge
+- मूराः (*mūrāḥ*)—foolish
+- वयं (*vayaṃ*)—we
+- न (*na*)—do not know your greatness
+- अग्ने (*agne*)—O Agni
+
+### Printed p. 254
+- त्वं अंग (*tvaṃ aṃga*)—you alone
+- महित्वं (*mahitvaṃ*)—your greatness
+- वित्से (*vitse*)—you know
+- वव्रिः (*vavriḥ*)—wearing the form of the Āhavanīya fire
+- शये (*śaye*)—you are established
+- जिह्वया (*jihvayā*)—with the tongue
+- अदन् (*adan*)—devouring the oblation
+- चरति (*carati*)—Agni moves about
+- विश्वतिः सन् (*viśvatiḥ san*)—being protector of the people
+- युवतिं (*yuvatiṃ*)—the oblation that mixes with him
+- रेरिह्यते (*rerihyate*)—licks and tastes
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, free from folly and possessed of excellent knowledge, we, being foolish, cannot know your greatness. You alone know it. Agni moves about devouring the oblation with his tongue. Being protector of the people, he licks and tastes the oblation that mixes with him.
+
+##### English translation
+We, who are perplexed, know not, O unperplexed, intelligent one, your greatness : but you, Agni, verily know it. Wearing a form he reposes ; he moves about devouring (the offering) with his tongue (of flame) ; being lord of men, he licks up the mixed oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the meaning of the word अमूर (*amūra*), Yāska explains the sentence of the verse (we the foolish do not know, O Agni, your greatness; you alone know it) thus: अमूरः! मूढा वयं स्मोऽमूढस्त्वमसि न वयं विद्मो महत्त्वमग्ने त्वं तु वेत्थ । (*amūraḥ! mūḍhā vayaṃ smo 'mūḍhastvamasi na vayaṃ vidmo mahattvamagne tvaṃ tu vettha |*) (Ni. 6-8). मूर (*mūra*) means foolish; अमूर (*amūra*) means one who is not foolish, discerning, intelligent. In the present sentence the sense is: O Agni, discerning one, we who are foolish, that is, without the power of discernment, cannot understand your greatness, but you alone know it. This is the intention of the explanation.
+जिह्वया अदन् रेरिह्यते युवतिं विश्वतिः सन् (*jihvayā adan rerihyate yuvatiṃ viśvatiḥ san*)—In this sentence the tongue of Agni is the flame. In the word रेरिह्यते (*rerihyate*) the letter ra comes as a substitute for la, that is, it becomes लेलिह्यते (*lelihyate*); the meaning is "licks". In the Ṛgveda there is a custom in many places of using ra in place of la; for example the word रघु (*raghu*) is used in place of लघु (*laghu*). As for the word युवति (*yuvati*): the root यु (*yu*) means "to mix"; hence the word युवति (*yuvati*) formed from that root means an oblation mixed with ghee and similar things. The sentence therefore suggests: O Agni, you, lord of all, devour, licking, with the flame that is like your tongue, the oblation mixed with ghee.
+
+### Printed p. 255
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कूचि॑ज्जायते॒ सन॑यासु॒ नव्यो॒ वने॑ तस्थौ पलि॒तो धू॒मके॑तुः ॥  
+> अ॒स्ना॒तापो॑ वृष॒भो न प्र वे॑ति॒ सचे॑तसो॒ यं प्र॒णयं॑त॒  ॑
+> मर्ताः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आचित् । जायते । सनयासु । नव्यः । वने । तस्थौ । पलितः । धूमकेतुः ॥  
+> अस्नाता । अपः । वृषभः । न । प्र । वेति । सचेतसः । यं । प्रनयंत । मर्ताः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नव्यो नवतरः स्तुत्यो वाग्निः कूचित् क्वचित्पदेशे जायते । कुत्र ।
+> सनयासु पुराणीषु जीर्णास्वोषधीष्वरण्योः । तथा पलितः पालयिता श्वेतवर्णो
+> धूमकेतुर्धूमप्रज्ञानोग्निर्वने सर्वस्मिन्नरण्ये तस्थौ । तिष्ठति । यद्वा । वन
+> उदके मेघगते विद्युदात्मना तिष्ठति च । अस्नाता स्नानमकुर्वन्ननपेक्षितस्नानः सर्व
+> दाशुद्धः सोग्निरापः ॥ सुब्बत्ययः ॥ अप उदकानि शांत्यर्थं प्र वेति । प्रगच्छति ।
+> तत्र दृष्टांतः । वृषभो ! न यथा वृषभस्तृ ष्टोपशमनार्थमरण्यमध्यस्थान्युदकानि प्रगच्छति तद्वत् । मर्ता मनुष्या ऋत्विजः सचेतसः समानमनस्काः समानप्रज्ञानाः संतो यमग्निं प्रणयंत हविर्भिः प्रीणयंति ॥
+
+##### Gist of the bhāṣya
+
+Agni, who is new (or praiseworthy), is born somewhere. Where? In the old, aged herbs, the two kindling-woods. Likewise, grey (the protector, white in colour) and smoke-bannered (known by his smoke), Agni stands in the whole forest. Or else वन (*vana*) means water: he stands in the water in the cloud, in the form of lightning. Not bathing, needing no bath, always pure, that Agni goes to the waters, that is, to the water, for cooling. The comparison: as a bull goes to waters standing in the forest to quench his thirst. The mortals, the priests, being of one mind and one knowledge, propitiate that Agni with oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नव्यः (*navyaḥ*)—the new Agni
+- कूचित् (*kūcit*)—in what place
+- जायते (*jāyate*)—is he born?
+- वने (*vane*)—in the forest
+- सनयासु (*sanayāsu*)—between the kindling-woods (araṇis)
+- पलितः (*palitaḥ*)—the one of white colour
+- धूमकेतुः (*dhūmaketuḥ*)—the one whose banner is smoke, Agni
+- तस्थौ (*tasthau*)—stands
+- अस्नाता (*asnātā*)—not needing a bath (being pure)
+- वृषभो आपः न (*vṛṣabho āpaḥ na*)—as a bull resorts to water
+- प्र वेति (*pra veti*)—Agni also resorts to water
+- मर्ताः (*martāḥ*)—priests
+- सचेतसः (*sacetasaḥ*)—being of one mind
+- यं (*yaṃ*)—that same Agni
+- प्रणयंत (*praṇayaṃta*)—they please
+
+### Printed p. 256
+
+##### भावार्थ (Bhāvārtha)
+
+In what place is the new Agni born? In the forest, between the kindling-woods, Agni, white in colour and having smoke as his banner, stands. Though perfectly pure, as a bull resorts to water, Agni also resorts to water. The priests, being of one mind, please Agni.
+
+##### English translation
+Where is the new (Agni) born ? he is present in the old.(plants) and in the wood, grey-haired, smoke-bannered : though not needing ablution,he hastens to the water like a (thirsty) bull, he whom men with one consent propitiate.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the seer asks, "In what place is Agni born?" and himself gives the answer. How? Agni is born in the forest, from old, dried trees, that is, by churning in the kindling-woods (araṇis) made of wood. Likewise in the forest also he is born, from the friction of trees, in the form of forest fire. Besides, since the word वन (*vana*) also means water, he is born also in the waters in the middle of the clouds, in the form of lightning. Thus the seer describes the three kinds of origin of Agni.
+अस्नाता आपः वृषभो न (*asnātā āpaḥ vṛṣabho na*)—Since this Agni is always pure, he has no need of a bath for the removal of impurity. Not only that, this Agni purifies other things, such as metals, by his touch. Yet it is commonly held that Agni dwells in the water. The seer describes it thus: as a rutting bull in the forest, even though it has no need of a bath, enters water to relieve the heat of the sun, so Agni, though he needs no bath and is pure by nature, enters the water when he likes and stays there.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त॒नू॒त्यजी॑व॒ तस्क॑रा वन॒गू र॑श॒नाभि॑र्द॒शभि॑र॒भ्य॑धीतां ॥  
+> इ॒यं ते॑ अग्ने॒ नव्य॑सी मनी॒षा यु॒क्षा रथं॒ न शु॒चय॑द्भि॒रंग्यः॑ ॥ ६ ॥
+
+### Printed p. 257
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तसूत्यजा इव । तस्करा । वनर्गू इति । रशनाभि । दशभि अभि । अधीतां ॥  
+> इयं । ते । अग्ने । नव्यसी । मनीषा । युक्त्व । रथं । न । शुचयत्भिः । अंगैः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने वनर्गू वनगामिनौ तनूत्यजा चौर्ये मर्तुं कृतनिश्चयौ दृष्ट्वा
+> तस्करा तस्करौ यथा पथिकं मोषणार्थं रज्ञा बद्धाकृष्य च क्वचित्प्रदेशे स्थापयतः
+> तद्वत् । तथा यास्कः । तनूत्यक् तनूत्यक्ता वनर्गू वनगामिनावग्निमंथनौ बाहू
+> तस्कराभ्यामुपमिमिते । नि. ३-१४ । इत्यादि । अधीतां । दधातेर्लुण सिचो लुकि
+> छंदस्युभयथेति तस अर्थधातुकत्वेन जित्वाद्दुमास्थेतीकारः ॥ ततो हे अग्ने ते
+> त्वदर्थं नव्यसी नवतरेयं मनीषा स्तुतिर्मया क्रियते । एतज्जाण्वा शुचयद्दि
+> सर्वं प्रकाशयद्भिरात्मीयैरंगैस्तेजोभिरात्मानं मदीयं यज्ञं प्रति युक्त्व ।
+> योजये ! कथमिव ! रथं न यथा रथमश्वैः संयोजयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Agni, as two thieves who go in the forest and are resolved to die in the robbery seize a traveller in order to rob him, bind him with cords and drag him to some place, so वनर्गू (*vanargū*) and तनूत्यजा (*tanūtyajā*) ... the two arms (do likewise to the kindling-wood). Yāska says: the two arms, going to the forest (that is, the two that churn the fire), abandoning the body, are compared to two thieves (Ni. 3-14), and so on. अधीतां (*adhītāṃ*) is explained from the root *dadhāti*. Then, O Agni, for you this newer praise is made by me. Yoke yourself to my sacrifice with your own limbs, your radiances, that illuminate everything. How? As men yoke a chariot with horses.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वनर्गू (*vanargū*)—those who roam in the forest
+- तनूत्यजा (*tanūtyajā*)—those with the daring to give up their own body
+- तस्करा (*taskarā*)—two robbers
+- रशनाभिः (*raśanābhiḥ*)—as they seize people with cords
+- दशभिः (*daśabhiḥ*)—with the ten fingers
+- अभ्यधीतां (*abhyadhītāṃ*)—the arms seize you (your kindling-wood)
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—addressed to you
+- *navyasī iyaṃ manīṣā*—this new praise is composed
+- रथं न (*rathaṃ na*)—as a chariot joins with horses
+- शुचयद्भिः (*śucayadbhiḥ*)—illuminating
+- अंगैः (*aṃgaiḥ*)—with your radiances
+- यक्ष्व (*yakṣva*)—join
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as robbers who roam in the forest and are ready to give up their very life seize people with cords and bind them, so the arms with the ten fingers seize your kindling-wood (the araṇi). O Agni, this new praise is composed addressed to you. As a chariot joins with horses, join with your radiances that illuminate the world.
+
+##### English translation
+As two daring robbers lurking in a forest seize (upon a traveller) with cords, (so the two hands seize upon the touchwood, with the ten
+
 ---
 
-**Progress note:** Done through printed p. 251. pp. 246-251 (batch API)
+**Progress note:** Done through printed p. 257. pp. 252-257 (batch API)
