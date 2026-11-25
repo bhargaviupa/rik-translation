@@ -36814,6 +36814,240 @@ This Indra becomes *anuspaṣṭa*, visible to the eye, to that sacrificer who, 
 - मघवा (*maghavā*)—Indra, the wealthy
 - तं (*taṃ*)—
 
+### Printed p. 1080
+
+**Pratipadārtha** (continued)
+- (tam, continued)—that yajamāna
+- अरत्ना (*aratnā*)—in the hand
+- निः दधाति (*niḥ dadhāti*)—holds, removing fear with affection and regard (and thereafter)
+- अननुदिष्टः (*ananudiṣṭaḥ*)—even though not solicited by him
+- ब्रह्मद्विषः (*brahmadviṣaḥ*)—his enemies who hate Brahmins
+- हंति (*haṃti*)—kills
+
+##### भावार्थ (Bhāvārtha)
+
+Indra becomes visible to that wealthy yajamāna who presses and offers Soma-juice to him; that is, he shows him favour. That wealthy Indra removes the fear of such a yajamāna and, with trust, holds him in his hand; that is, he protects and nourishes him with attachment, and destroys his enemies who hate Brahmins.
+
+##### English translation
+He is mindful of him who, as a rich man, offers Soma to him; possessed of riches (Indra) holds him in his hand, and unsolicited destroys (his enemies) who hate the Brahmin.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्वा॒यंतो॑ ग॒व्यंतो॑ वा॒जयं॑तो॒ हवा॑महे॒ त्वोप॑गंत॒वा उ॑ ।  
+> आ॒भूषं॑तस्ते सुम॒तौ नवा॑यां व॒यमिं॑द्र त्वा शु॒नं  ॑
+> हुवेम ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वयंतः । गव्यंतः । वाजयंतः । हवामहे । त्वा । उपगंतवै । ऊं इति ।  
+> आभूषंतः । ते । सुमतौ । नवायां । वयं । इंद्र । त्वा । शुनं । हुवेम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुनासीरीये पर्वणींद्राय शुनासीराय पुरोडाशं द्वादशकपालमित्यस्याश्वायंत इत्येषा याज्या । इंद्रो देवा शुन इति वैकल्पिकस्यापि हविष इयमेव
+> अ. ८. अ. ८. व. १८.] ऋग्वेदसंहिता 108i
+> याज्या । सूत्रितं च । अश्वायंतो गव्यंतो वाजयंतः शुनं हुवेम मघवानमिंद्रं । आ. २-२० । इति ॥
+> अश्वायंतोऽश्वानिच्छंतः ॥ क्यच्यश्वाघस्यात् । पा. ७-४-३७ । इत्यात्वं ॥
+> गव्यंतो गा आत्मन इच्छंतः ॥ वांतो यि प्रत्यय इत्यवादेशः ॥ वाजयंतोs
+> ग्नीन्वाजनेन शूर्पादिना प्रज्वलयंतः ॥ ना गतिगंधनयोः । णिचि वो विधूनने ।
+> पा. ७-३ ३८ । इति जगागमः । अस्माच्चतर्यदुपदेशालसार्वधातुकस्वरेणानुदात्तत्वे
+> शपश्च पित्त्वादनुदात्तत्वे ततो णिच एव स्वरः शिष्यते ॥ अपर आह । वाजमन्नमात्मन
+> इच्छंत इति । तदानीमवग्रहाभावस्वर् छांदसौ द्रष्टव्यौ । एवंभूता वयं हे
+> इंद्र त्वामुपगंतवा उपगंतुं प्राप्तुं हवामहे । आह्वयामहे ॥ गमेस्तुमर्थे सेसेनिति तवैप्रत्ययः । गतिसमासे तवै चांतश्च युगपदिति गतेः प्रकृतिस्वरत्वमुत्तरपदस्यांतोदात्तत्वं ॥ उ इति पूरकः । हे इंद्र ते तव नवायामभिनवायां
+> प्रशस्तायां सुमतौ शोभनबुद्धावाभूषंत आ समंताद्भवंतो वर्तमानाः ।
+> यद्वा । आ समंताद्भूषयंतोऽलंकुर्वंतस्तवानुग्रहबुद्धौ वर्तमाना वयं
+> शुनं सुखकरं त्वां हुवेम । आह्वयेम ॥
+
+##### Gist of the bhāṣya
+
+At the Śunāsīrīya parvan, the twelve-potsherd cake offered to Indra Śunāsīra has this verse, अश्वायंत (*aśvāyaṃta*), as its yājyā. For the optional offering as well (इंद्रो देवा शुन (*iṃdro devā śuna*)) this very verse is the yājyā. It is also taught in the sūtra: अश्वायंतो गव्यंतो वाजयंतः शुनं हुवेम मघवानमिंद्रं (*aśvāyaṃto gavyaṃto vājayaṃtaḥ śunaṃ huvema maghavānamiṃdraṃ*) (Ā. 2-20).
+अश्वायंतः (*aśvāyaṃtaḥ*) means those who desire horses. गव्यंतः (*gavyaṃtaḥ*) means those who desire cows for themselves. ग्नीन्वाजनेन (*gnīnvājanena*) he explains वाजयंतः (*vājayaṃtaḥ*) as those kindling the fires by fanning them with a winnowing-basket and the like. Another (explainer) says it means those who desire food (वाज (*vāja*)) for themselves. Such as we, O Indra, call you, to come to us (उपगंतवै (*upagaṃtavai*), an infinitive); उ (*u*) is an expletive. O Indra, being in your new, excellent, gracious mind (सुमतौ (*sumatau*)), आभूषंतः (*ābhūṣaṃtaḥ*) means abiding there; or else adorning ourselves, abiding in your favourable thought, we invoke you, the giver of happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्वायंतः (*aśvāyaṃtaḥ*)—those who desire horses
+- गव्यंतः (*gavyaṃtaḥ*)—those who desire cows
+- वाजयंतः (*vājayaṃtaḥ*)—we who desire food, or who make the sacrificial fire blaze by fanning it
+- त्वा (*tvā*)—you
+- उपगंतवै उ (*upagaṃtavai u*)—so that you may come near us
+- हवामहे (*havāmahe*)—we call, praying
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- नवायां (*navāyāṃ*)—excellent
+- सुमतौ (*sumatau*)—in the good, or gracious, mind
+- आभूषंतः (*ābhūṣaṃtaḥ*)—being (as if adorned)
+- वयं (*vayaṃ*)—we
+- शुनं (*śunaṃ*)—you, the giver of happiness
+- हुवेम (*huvema*)—we call, praying
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who desire horses, cows and food pray to you and call you to come near us. O Indra, we are as if adorned in your excellent, gracious mind; that is, we have become worthy of your favour. We pray to you, the giver of happiness, and call you.
+
+##### English translation
+Wishing for horses, for cattle, for food, we invoke you, Indra, that you may come; abiding within your new favour we invoke you, Indra, the giver of happiness.
+
+### Printed p. 1082
+
+## Sūkta 161 (Maṇḍala 10)
+**Introduction**
+In this hymn a prayer is made to destroy the heart-disease called rājayakṣma, or consumption (Consumption). It is said that this disease is allayed by japa, homa and the like with this hymn. The Ṛgvidhāna also states the application of this hymn thus:
+मुंचामि त्वा हविषेति यक्ष्या णमपकर्षति ॥ ८२ ॥ (*muṃcāmi tvā haviṣeti yakṣyā ṇamapakarṣati ‖ 82 ‖*)
+समिद्दमग्निं जुहुयादाज्येनैव यथाविधि । संपातमाज्ये निनयेत्संपातैश्च पयः पिबेत् ॥ (*samiddamagniṃ juhuyādājyenaiva yathāvidhi | saṃpātamājye ninayetsaṃpātaiśca payaḥ pibet ‖*)
+संपातभाजने सर्पिश्चूर्णं तत्र निधापयेत् । तत्रास्य भोजनीयं स्यात्पानीयं चानुमंत्रितं ॥ (*saṃpātabhājane sarpiścūrṇaṃ tatra nidhāpayet | tatrāsya bhojanīyaṃ syātpānīyaṃ cānumaṃtritaṃ ‖*)
+बादिराणि तु काष्ठानि चूर्णं कृत्वा सहांबुभिः । खादिराणि तु काष्ठानि चूर्णं कृत्वा सहांबुभिः । साधयीत रसं चैषां मध्वाज्याभ्यां पिबेत्सह ॥ (*bādirāṇi tu kāṣṭhāni cūrṇaṃ kṛtvā sahāṃbubhiḥ | khādirāṇi tu kāṣṭhāni cūrṇaṃ kṛtvā sahāṃbubhiḥ | sādhayīta rasaṃ caiṣāṃ madhvājyābhyāṃ pibetsaha ‖*)
+मुंचामि त्वा हविषेति तत्र तत्र प्रयोजयेत् । यक्ष्माणमपकर्षति शरीरात्तेन कर्मणा ॥ (*muṃcāmi tvā haviṣeti tatra tatra prayojayet | yakṣmāṇamapakarṣati śarīrāttena karmaṇā ‖*)
+(Ṛgvidhāna, Adhyāya 4, Śloka 82-86)
+If one offers homa in the fire, in the prescribed manner, with this hymn beginning मुंचामि त्वा हविषा (*muṃcāmi tvā haviṣā*), together with samit and ājya, the yakṣa-disease (consumption) is cured. One should mix milk with the ājya remaining from the homa and drink it. One should put ghee-powder into the vessel holding the ājya remaining from the homa, mix water with it, consecrate it with the mantras of this hymn and drink it. And one should bring splinters of the khadira tree, grind them in water, mix that juice with honey and ājya, and drink it preceded by the mantra beginning मुंचामि त्वा हविषा (*muṃcāmi tvā haviṣā*). If this is done, the yakṣa-disease that has taken root in the body is destroyed. The 63rd hymn of this same Maṇḍala, beginning अक्षीभ्यां ते (*akṣībhyāṃ te*), likewise removes the yakṣa-disease, as this hymn does.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मुंचामीति पंचर्चं दशमं सूक्तं प्रजापतिपुत्रस्य यक्षनाशनाख्यस्यार्षं।
+> अंत्यानुष्टुप् शिष्टास्त्रिष्टुभः । अनादेशे त्विंद्रो देवता । तथा चानुक्रांतं ।
+> मुंचामि प्राजापत्यो यक्षनाशनो राजयक्षघ्नमंत्यानुष्टुबिति ॥ हृदयरोग-
+
+### Printed p. 1083
+
+> प्रमुखस्य व्याधिजातसोपशमनार्थमनेन सूक्तेन होतव्यं । सूत्र्यते हि ।
+> व्याधितस्यातुरस्य यक्ष्मगृहीतस्य ना षळाहुतिश्चरुर्मुंचामि त्वा हविषा जीवनाय
+> कमित्येतेन । आ. गृ- ३-६-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+(introduction, concluding) This hymn is to be offered in homa to allay the group of diseases beginning with heart-disease. It is taught in the sūtra: व्याधितस्यातुरस्य यक्ष्मगृहीतस्य ना षळाहुतिश्चरुर्मुंचामि त्वा हविषा जीवनाय कमित्येतेन । (*vyādhitasyāturasya yakṣmagṛhītasya nā ṣaḷāhutiścarurmuṃcāmi tvā haviṣā jīvanāya kamityetena |*) (Ā. Gṛ. 3-6-4).
+*Gist (of the whole introduction, b4 and b5):* The hymn मुंचामि (*muṃcāmi*) has five Ṛks and is the tenth hymn. Its seer is Yakṣanāśana, son of Prajāpati. The last Ṛk is anuṣṭubh, the rest triṣṭubh; where no deity is assigned, Indra is the deity. So the Anukramaṇī: मुंचामि प्राजापत्यो यक्षनाशनो राजयक्षघ्नमंत्यानुष्टुबिति (*muṃcāmi prājāpatyo yakṣanāśano rājayakṣaghnamaṃtyānuṣṭubiti*).
+
+##### Anuvāda
+
+This hymn मुंचामि (*muṃcāmi*) is the tenth hymn in the twelfth anuvāka. It contains five Ṛks. Its seer is Yakṣanāśana, son of Prajāpati; since the Anukramaṇī names no deity, Indra may be taken as the deity. The last Ṛk of the hymn is in anuṣṭubh metre; the other Ṛks are in triṣṭubh. The Anukramaṇī's statement मुंचामि प्राजापत्यो यक्षनाशनो राजयक्षघ्नमंत्यानुष्टुप् (*muṃcāmi prājāpatyo yakṣanāśano rājayakṣaghnamaṃtyānuṣṭup*) is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, व्याधितस्यातुरस्य यक्षगृहीतस्य वा षळाहुतिश्चरुर्मुंचामि त्वा हविषा जीवनाय कमित्येतेन (*vyādhitasyāturasya yakṣagṛhītasya vā ṣaḷāhutiścarurmuṃcāmi tvā haviṣā jīvanāya kamityetena*) (Ā. Gṛ. 3-6-4, 5), which says that for the relief of a man afflicted with heart-disease, homa is to be offered with the mantras of this hymn.
+
+##### Particulars
+
+- Sūkta 161
+- Maṇḍala 10; Anuvāka 12; Sūkta 161
+- Aṣṭaka 8; Adhyāya 8; Varga 19
+- Number of Ṛks in the hymn: 5
+- Ṛṣi: Yakṣanāśana Prājāpatya
+- Devatā: Rājayakṣmaghna
+- Chandas: 1-4 triṣṭubh; 5 anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मुं॒चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा॑जय॒क्ष्मात् ।  
+> ग्राहि॑र्ज॒ग्राह॒ यदि॑ वै॒तदे॑नं॒ तस्या॑ इंद्राग्नी॒ प्र मु॑मुकमेनं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मुंचामि । त्वा । हविषा । जीवनाय । कं । अज्ञातयक्ष्मात् । उत । राजयक्ष्मात् ।
+
+### Printed p. 1084
+
+> ग्राहिः । जग्राह । यदि । वा । एतत् । एनं । तस्याः । इंद्राग्नी इति । प्र । मुमुक्तं ।  
+> एनं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यक्ष्माभिभूत हविषानेन चरुणा साधनेन होमेन त्वा त्वामज्ञातयक्ष्मात् । अयमेतत्संज्ञ इत्यप्रज्ञातः शरीरगतो रोगोऽज्ञातयक्ष्मः । तादृशाद्रोगान्मुंचामि । विश्लेषयामि । किमर्थं । जीवनाय कं जीवनार्थं । इह
+> लोके चिरकालावस्थानार्थमित्यर्थः । कमिति पूरकः । उतापि च राजयक्ष्मात् ।
+> यक्ष्माणां राजा यक्षरोगो राजयक्ष्मः ॥ राजदंतादित्वादुपसर्जनस्य परनिपातः ।
+> पा. २-२-३१ ॥ तस्मादपि त्वां मुंचामि । यदि वा । यदि चैतदेतस्मिन्समय एनं
+> व्याधितं पुरुषं ग्राहिर्गृहणशीला ग्रहरूपा देवता जग्राह गृहीतवती तस्या देवतायाः सकाशाद्भे इंद्राग्नी एनं प्र मुमुक्तं । प्रमोचयतं ॥
+
+##### Gist of the bhāṣya
+
+O you who are overcome by yakṣma, I free you from अज्ञातयक्ष्मात् (*ajñātayakṣmāt*) with this oblation, the caru, as the means of homa. अज्ञातयक्ष्म (*ajñātayakṣma*) is the disease in the body that is not recognised, of which it is not known "this is it". I release you from such a disease. For what purpose? जीवनाय कं (*jīvanāya kaṃ*), for living; that is, to remain long in this world; कं (*kaṃ*) is an expletive. उत (*uta*), and also from राजयक्ष्मात् (*rājayakṣmāt*): the king of yakṣmas, the yakṣa-disease called rājayakṣma; I free you from that too. Or else: if at this time the seizer (ग्राहिः (*grāhiḥ*)), a deity of seizing nature in the form of a seizure, has seized this afflicted man, then, O Indra and Agni, free him from that deity.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविषा (*haviṣā*)—by the homa made with the oblation-materials such as caru
+- त्वा (*tvā*)—you
+- जीवनाय कं (*jīvanāya kaṃ*)—in order to live long in happiness
+- अज्ञातयक्ष्मात् (*ajñātayakṣmāt*)—from the yakṣa-disease (consumption) that has not yet spread much in the body
+- मुंचामि (*muṃcāmi*)—I make free (I rescue)
+- उत (*uta*)—and
+- राजयक्ष्मात् (*rājayakṣmāt*)—I rescue also from the severe yakṣa-disease
+- यदि वा (*yadi vā*)—if perchance
+- एतत् (*etat*)—at this time
+- एनं (*enaṃ*)—this man afflicted with the disease
+- ग्राहिः (*grāhiḥ*)—this disease-deity, of seizing nature
+- जग्राह (*jagrāha*)—has seized firmly
+- इंद्राग्नी (*iṃdrāgnī*)—O Indra and Agni
+- तस्याः (*tasyāḥ*)—from the grip of that disease
+- एनं (*enaṃ*)—this man
+- प्र मुमुक्तं (*pra mumuktaṃ*)—may you release
+
+##### भावार्थ (Bhāvārtha)
+
+O you afflicted with the yakṣa (consumptive) disease, in order that you may live long in happiness, I make you free of disease by offering homa in the fire with this oblation, so as to free you from the yakṣa-disease that has not yet spread much in your body, or, though spread, is not seen, and from the more severe disease called rājayakṣma. If the disease is strong, then may Indra and Agni release this man from the grip of that disease.
+
+### Printed p. 1085
+
+##### English translation
+By means of the oblation I set you free to live safe from undeveloped cnsumption and from royal consumption; and if the seizer have already seized him, then do you, Indra and Agni, set him free.
+
+##### विशेषविषयगळु (Special Topics)
+
+अज्ञातयक्ष्मात् (*ajñātayakṣmāt*)—When consumption has spread through the body, it is not known at once. Gradually, when the disease becomes aggravated, it becomes known. Therefore, since it is not known in the early stages of the disease, it is here designated अज्ञातयक्ष (*ajñātayakṣa*) for the beginning period of this disease. In such early stages it can be cured easily. When the disease has grown strong and reached the aggravated state, curing it is hard to accomplish; in some cases it is not cured at all. Since the disease of a man in such a grave condition lies beyond human efforts, Indra and Agni are here prayed to remove it by their favour. It is noteworthy that a proper modern medical treatment for this consumption has not yet been discovered.
+राजयक्ष्मात् (*rājayakṣmāt*)—Extremely terrible consumption; that is, the stage in which the disease, having passed the early stages, has spread well in the body and become acute. Or else, there are various kinds of yakṣa-disease, and one particular kind of them is called rājayakṣma. Since this yakṣa-disease is mentioned in many places in the Ṛgveda and the Yajurveda, it may be inferred that the ravage of this disease was especially great in that age.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे॑तो॒ यदि॑ मृ॒त्यूरं॑ति॒कं नी॑त  ॒
+> एव ।  
+> तमा ह॑रामि॒ निर्ऋ॑तेरु॒पस्था॒दस्पा॑र्षमेनं श॒तशा॑रदाय ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदि । क्षितऽआयुः । यदि । वा । पराऽइतः । यदि । मृत्योऽः । अंतिकं । निऽइतः । एव।  
+> तं । आ । हरामि । निऽऋतेs । उपऽस्थात् । अस्पार्ष० । एनं । शतऽशारदाय " ९ ॥
+
+### Printed p. 1086
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदि स रोगग्रस्तः क्षितायुः क्षीणायुर्भवति यदि वा परेतोऽस्माल्लोकात्परागतो भवति यदि च मृत्योर्नैवस्वतस्यांतिकं निकटं नीतो नितरां प्राप्त एव
+> भवति एवंभूतमपि तं पुरुषं निर्ऋतेः पापदेवताया आयुषः क्षयकारिण्या
+> उपस्थादुपस्थानादा हरामि । अनाययामि । आवर्तयामि । आह्ृत्य चैनं शतशारदाय शतसंवत्सरजीवनार्थमस्पार्षं । प्रबलं करोमि ॥ स्पृ प्रीतिबलनयोः ॥
+
+##### Gist of the bhāṣya
+
+If that man seized by disease has become क्षितायुः (*kṣitāyuḥ*), one of wasted life; or if he has gone away from this world (परेतः (*paretaḥ*)); or if he has been brought near to Death, Vaivasvata, and has reached him fully — even such a man I bring back from the lap (उपस्थात् (*upasthāt*)) of Nirṛti, the evil deity who causes the waning of life; आ हरामि (*ā harāmi*) means I bring, I turn back. Having brought him back, I make him strong, अस्पार्षं (*aspārṣaṃ*), for a hundred autumns (शतशारदाय (*śataśāradāya*)), that is, to live a hundred years. The root स्पृ (*spṛ*) is in the sense of pleasing and strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदि (*yadi*)—if (that man afflicted by disease)
+- क्षितायुः (*kṣitāyuḥ*)—even though in the state of dying, wasted**NOTE**
+- यदि वा (*yadi vā*)—or
+- परेतः (*paretaḥ*)—even though dead and gone from this world
+- यदि च (*yadi ca*)—or
+- मृत्योः (*mṛtyoḥ*)—of Death
+- अंतिकं (*aṃtikaṃ*)—to the vicinity
+- नीतः एव (*nītaḥ eva*)—even though carried
+- तं (*taṃ*)—such a man
+- निर्ऋतेः (*nirṛteḥ*)—of the evil deity called nirṛti**NOTE**, who wastes the life
+- उपस्थात् (*upasthāt*)—from the vicinity (the lap)
+- आ हरामि (*ā harāmi*)—I bring back (and thereafter)
+- एनं (*enaṃ*)—that man seized by disease
+- शतशारदाय (*śataśāradāya*)—in order to live for a hundred years
+- अस्पार्षं (*aspārṣaṃ*)—I make strong
+
+##### भावार्थ (Bhāvārtha)
+
+Even if the life of that man afflicted with consumption has been wasting away and, his body emaciated, he is in a dying state, or has died and gone away from this world, or has come near to Death, I bring such a man back from the lap of Nirṛti, the evil deity who causes the waning of life, and I make that man strong so that he lives for a hundred years.
+
+##### English translation
+If he be of wasted life, or already dead, or be come to the verge of death, I bring him back from the lap of Nirriti; I have made him strong enough to live for a hundred years.
+
+##### विशेषविषयगळु (Special Topics)
+
+निर्ऋतेः उपस्थात् (*nirṛteḥ upasthāt*)—Nirṛti means the evil deity. This deity has a close connection with Death; "the lap of Nirṛti" means the deathbed. The mention of this Nirṛti in the 59th hymn of this Maṇḍala may be seen in the Special Topics of that hymn. And for an explanation of the meaning of the word nirṛti, see Ṛ. Saṃ. Part 3, page 272.
+
 ---
 
-**Progress note:** Done through printed p. 1079. pp. 1074-1079 (batch API)
+**Progress note:** Done through printed p. 1086. pp. 1080-1086 (batch API)
