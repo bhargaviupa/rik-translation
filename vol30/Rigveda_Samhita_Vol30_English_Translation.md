@@ -3710,6 +3710,215 @@ Repair, Brihaspathi, on my behalf to the gods, whether you are Mitra, or Varuna,
 
 A certain god, a messenger, swift (going by nature) and intelligent, sent by you from your presence, O Devāpi, should come to me. O Bṛhaspati, turn towards us, facing us; come to me. For your sake I place in our mouth a radiant speech, in the form of praise.
 
+### Printed p. 104
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवापे (*devāpe*)—O Devāpi
+- अजिरः (*ajiraḥ*)—swift-going
+- चिकित्वान् (*cikitvān*)—wise
+- देवः दूतः (*devaḥ dūtaḥ*)—some divine messenger
+- त्वत् (*tvat*)—sent by you
+- मां (*māṃ*)—to me
+- अभ्यागच्छत् (*abhyāgacchat*)—let him come. (O Bṛhaspati)
+- प्रतीचीनः (*pratīcīnaḥ*)—turning towards me
+- मां प्रति (*māṃ prati*)—to me
+- आ ववृत्स्य (*ā vavṛtsya*)—turn back and come
+- ते (*te*)—addressing you
+- द्युमतीं (*dyumatīṃ*)—radiant
+- वाचं (*vācaṃ*)—praise
+- आसन् (*āsan*)—in the mouth
+- दधामि (*dadhāmi*)—I hold
+
+##### भावार्थ (Bhāvārtha)
+
+O Devāpi, let some divine messenger, swift-going and wise, sent by you, come to me. O Bṛhaspati, turn towards me and come back to me; addressing you, I recite with my mouth a radiant praise.
+
+##### English translation
+Let a divine messenger quick and intelligent sent, Devapi, by you come to me. Come, Brihaspati, to me, turning towards me; I have in my mouth a brilliant eulogium for you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे धे॑हि द्यु॒मतीं॒ वाच॑मा॒सन्बृह॑स्पते अनमी॒वामि॑षि॒रां।  
+> यया॑ वृ॒ष्टिं शंत॑नवे॒ वना॑व दि॒वो द्र॒प्सो मधु॑मा॒ आ  ॑
+> विवेश ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । धेहि । द्युमतीं । वाचं । आसन् । बृहस्पते । अनमीवां । इषिरां ।  
+> यया । वृष्टिं । शंतनवे । वनव । दिवः । द्रप्सः । मधुमान् । आ । विवेश ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहस्पते त्वमस्मे अस्मासु द्युमतीं दीप्तिमतीं वाचं स्तोत्रात्मिकामासन्नास्येऽस्मदीये धेहि । स्थापय । कीदृशीं वाचं । अनमीवाममीवानारहितां ।
+
+##### Gist of the bhāṣya
+
+O Bṛhaspati, you place in us, in our mouth, a radiant speech consisting of praise. What kind of speech? One that is अनमीवां (*anamīvāṃ*), free from *amīvā*.
+
+### Printed p. 105
+
+> वाचोऽमीना नाम गद्गदादिदोषः । तथेषिरां गमनशीलां । यया वाचा
+> स्तुत्यात्मिकया देवानिष्ट्वा शंतनवे वृष्टिकामाय वनाव संभजेवहि वृष्टिं त्वं
+> चाहं च दिवो द्युलोकात् । त्वयाधिष्ठितो द्रप्स उदकस्यंदो मधुमान् माधुर्योपेत आ विवेश । अविशति वाचमिति समन्वयः !!
+
+##### Gist of the bhāṣya
+
+*amīvā* here is a fault of speech such as stammering. Likewise the speech is इषिरां (*iṣirāṃ*), "going swiftly". By the speech of praise with which, having worshipped the gods, you and I may share वनाव (*vanāva*) rain from heaven for Śantanu, who desires rain, the honeyed stream of water, presided over by you and endowed with sweetness, has entered. The construction is: it enters the speech.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- यया (*yayā*)—by which praise
+- शंतनवे (*śaṃtanave*)—for Śantanu
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- वनाव (*vanāva*)—we desire (as the result of which)
+- मधुमान् (*madhumān*)—sweet
+- द्रप्सः (*drapsaḥ*)—the stream of water
+- दिवः (*divaḥ*)—flowing from the heavenly world
+- आ विवेश (*ā viveśa*)—enters (into us), such
+- अनमीवां (*anamīvāṃ*)—faultless
+- इषिरां (*iṣirāṃ*)—going swiftly among the gods
+- द्युमतीं (*dyumatīṃ*)—radiant
+- वाचं (*vācaṃ*)—praise
+- अस्मे (*asme*)—our
+- आसन् (*āsan*)—in the mouth
+- धेहि (*dhehi*)—place
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, place in our mouth (teach us) such a praise, faultless, swift in going to the gods and radiant, by which we desire rain for Śantanu, as the result of which a sweet stream of water flows from the heavenly world and enters into us.
+
+##### English translation
+Put, Brihaspati, in my mouth a brilliant eulogium, prompt and free from defect, by which we two may obtain rain from heaven for Shantanu' the sweet drop (sent by you) has entered (our voice).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ द्र॒प्सा मधु॑मंतो विशं॒त्विंद्र॑ दे॒ह्यधि॑रथं स॒हस्रं॑ ।  
+> नि षी॑द हो॒त्रमृ॑तु॒था य॑जस्व दे॒वान्दे॑वापे ह॒विषा॑ सपर्य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । द्रप्साः । मधुमंतः । विशंतु । इंद्र । देहि । अधिरथं । सहस्रं ।  
+> नि । सीद । होत्रं । ऋतुथा । यजस्व । देवान् । देवआपे । हविषा । सपर्य ॥४॥
+
+### Printed p. 106
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्मान्द्रप्सा वृष्टिसंस्कृया मधुमंतो माधुर्योपेता आ विशंतु ।
+> हे इंद्र परमेश्वर बृहस्पते अधिरथं रथस्याध्युपरि वर्तमानं सहस्रं सहस्रसंख्याकं
+> धनं देहि । धेहि । यद्वा । रथमधिकं यस्य सहस्रस्य तादृशं गोसहस्रं । हे
+> देवापे नि षीद होत्रं । आर्त्विज्ये निषीद । निषण्णश्च त्वमृतुथा काले काले यजस्व
+> यष्टव्यान्देवान् स्तुत्या हविषा च सपर्य । परिचर ॥
+
+##### Gist of the bhāṣya
+
+May the sweet streams, formed by rain, enter us. O Indra, that is, the Lord Bṛhaspati, give a thousand, a thousand-fold wealth, lying upon the chariot. Or else: a thousand cows, a chariot-load more than the thousand. O Devāpi, sit down at the Hotṛ's office, that is, sit down for the Ṛtvij's work. Seated, sacrifice at the proper season to the gods to be worshipped, and serve them with praise and with oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुमंतः (*madhumaṃtaḥ*)—endowed with sweetness
+- द्रप्साः (*drapsāḥ*)—streams of water (drops)
+- नः (*naḥ*)—us
+- आ विशंतु (*ā viśaṃtu*)—let them enter
+- इंद्र (*iṃdra*)—O Bṛhaspati, the Lord
+- अधिरथं (*adhirathaṃ*)—lying upon the chariot
+- सहस्रं (*sahasraṃ*)—wealth of a thousand
+- धेहि (*dhehi*)—place in us
+- देवापे (*devāpe*)—O Devāpi
+- होत्रं (*hotraṃ*)—in the Hotṛ's place
+- नि षीद (*ni ṣīda*)—sit down
+- ऋतुथा (*ṛtuthā*)—according to the respective seasons
+- देवान् (*devān*)—the gods
+- यजस्व (*yajasva*)—worship
+- हविषा (*haviṣā*)—with oblations
+- सपर्य (*saparya*)—serve
+
+##### भावार्थ (Bhāvārtha)
+
+Let streams of water endowed with sweetness come and enter us. O Bṛhaspati, the Lord, place in us the thousand-fold wealth lying upon the chariot. O Devāsi **NOTE**, sit down in the Hotṛ's place. Worship the gods according to the respective seasons. Serve them with oblations.
+
+##### English translation
+May the sweet drops of rain fall upon us : grant us, Indra, a thousand chariot-loads. Sit down, Devapi, to your duties as Hotri ; in due season sacrifice to the gods, worship them with oblations.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒र्ष्टि॒षे॒णो हो॒त्रमृषि॑र्नि॒षीद॑न्दे॒वापि॑र्देवसुम॒तिं चि॑कि॒त्वान् ।  
+> स उत्त॑रस्मा॒दध॑रं समु॒द्रम॒पो दि॒व्या अ॑सृद्व॒र्ष्या॑ अ॒भि ॥ ५ ॥
+
+### Printed p. 107
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आर्ष्टिषेणः । होत्रं । ऋषिः । निसीदन् । देवआपिः । देवसुमतिं । चिकित्वान् ।  
+> सः । उत्तरस्मात् । अधरं । समुद्रं । अपः । दिव्याः । असृजत् । वर्ष्याः । अभि ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आर्ष्टिषेण ऋष्टिषेणस्य पुत्रो देवापिर्यषिर्देवसुमतिं देवानां
+> कल्याणीं मतिं स्तुतिं चिकित्वाञ्ज्ञानन् होत्रं होतृकर्म कर्तुं निषीदन् निषण्णो
+> भवति । स उत्तरस्मादुपरि वर्तमानादंतरिक्षाख्यात्समुद्रादधरमधो वर्तमानं
+> पार्थिवं समुद्रमभि दिव्या दिवि भवा वर्ष्या वर्षभवा अपोऽसृजत् । सृजतु ।
+> अत्रार्ष्टिषेण ऋष्टिषेणस्य पुत्र इत्यादि निरुक्तं । २-११ । द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+Ārṣṭiṣeṇa, the son of Ṛṣṭiṣeṇa, the seer Devāpi, knowing देवसुमतिं (*devasumatiṃ*), the gracious thought, the praise, of the gods, has sat down to perform the Hotṛ's work. May he, from the upper ocean, called the atmosphere, send down to the lower ocean, the terrestrial one, the waters born in heaven, born of rain. Here the Nirukta (2-11), beginning with "Ārṣṭiṣeṇa, the son of Ṛṣṭiṣeṇa", is to be consulted.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आर्ष्टिषेणः (*ārṣṭiṣeṇaḥ*)—the son of Ṛṣṭiṣeṇa
+- देवापिः (*devāpiḥ*)—named Devāpi
+- ऋषिः (*ṛṣiḥ*)—the seer
+- देवसुमतिं (*devasumatiṃ*)—the praise that brings about the favour of the gods
+- चिकित्वान् (*cikitvān*)—having known
+- होत्रं (*hotraṃ*)—in the Hotṛ's place (to praise)
+- निषीदन् (*niṣīdan*)—is seated
+- सः (*saḥ*)—he
+- उत्तरस्मात् (*uttarasmāt*)—from the ocean in the atmosphere
+- अधरं समुद्रं अभि (*adharaṃ samudraṃ abhi*)—to the ocean on the earth
+- दिव्याः (*divyāḥ*)—born of the heavenly world
+- वर्ष्याः (*varṣyāḥ*)—born of rain
+- अपः (*apaḥ*)—waters
+- असृजत् (*asṛjat*)—let him pour down
+
+##### भावार्थ (Bhāvārtha)
+
+The seer named Devāpi, the son of Ṛṣṭiṣeṇa **NOTE**, knowing the praise that brings about the favour of the gods, is seated in the Hotṛ's place to praise. May he pour down, from the ocean in the atmosphere, that is, from the cloud-region, to the ocean on the earth, the waters born of the heavenly world and of rain **NOTE**.
+
+##### English translation
+The Rishi Devapi, the son of Rishtishena, knowing how to propitate the gods has sat down to his functions as Hotri. He has brought down from the upper to the lower ocean the rain waters of heaven.
+
+### Printed p. 108
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given a Nirukta and the derivation of the forms of some words: आर्ष्टिषेणो होत्रमृषिर्निषीदन्नेवापिर्देवसुमतिं चिकित्वान् । (*ārṣṭiṣeṇo hotramṛṣirniṣīdannevāpirdevasumatiṃ cikitvān |*) स उत्तरस्मा दधरं समुद्रमपो दिव्या अस्यजद्वर्ष्या अभि ॥ (*sa uttarasmā dadharaṃ samudramapo divyā asyajadvarṣyā abhi ‖*) आर्ष्टिषेण ऋष्टिषेणस्य पुत्र इषितसेनस्येति वा । (*ārṣṭiṣeṇa ṛṣṭiṣeṇasya putra iṣitasenasyeti vā |*) सेना सेश्वरा समानगतिर्वा । (*senā seśvarā samānagatirvā |*) पुत्रः पुरु त्रायते निपरणाद्वा पुन्नरकं ततस्तायत इति वा । (*putraḥ puru trāyate niparaṇādvā punnarakaṃ tatastāyata iti vā |*) होतृमृषिर्निषीदन् । (*hotṛmṛṣirniṣīdan |*) ऋषिर्दर्शनात् स्तोमान् ददर्शेत्यौपमन्यवः तद्यदेनांस्तपस्यमानान् ब्रह्म स्वयंभ्यभ्यानर्षत्त ऋषयोऽभवंस्तदृषीणामृषित्वमिति विज्ञायते । द (*ṛṣirdarśanāt stomān dadarśetyaupamanyavaḥ tadyadenāṃstapasyamānān brahma svayaṃbhyabhyānarṣatta ṛṣayo 'bhavaṃstadṛṣīṇāmṛṣitvamiti vijñāyate | da*) देवापिर्देवानामाप्ता स्तुत्या च प्रदानेन च । (*devāpirdevānāmāptā stutyā ca pradānena ca |*) देवसुमतिं देवानां कल्याणीं मतिं । (*devasumatiṃ devānāṃ kalyāṇīṃ matiṃ |*) चिकित्ांश्चेतनावान् । (*cikitāṃścetanāvān |*) स उत्तरस्मादधरं समुद्रं उत्तर उद्धततरो भवति। (*sa uttarasmādadharaṃ samudraṃ uttara uddhatataro bhavati|*) अधरोऽधोरः । (*adharo 'dhoraḥ |*) अधो न धावतीतूर्ध्वगतिः प्रतिषिद्दा॥ (*adho na dhāvatītūrdhvagatiḥ pratiṣiddā‖*) (Ni. 2-11)
+
+Ārṣṭiṣeṇa: the son of one named Ṛṣṭiṣeṇa is called Ārṣṭiṣeṇa. Ṛṣṭiṣeṇa: ṛṣṭi is a special weapon like a spear. One who is accompanied by an army having many such spears is called Ṛṣṭiṣeṇa. Or इषितसेनो वा (*iṣitaseno vā*): because he constantly sends forth his armies against enemies, so that they always rush upon the foe, he has the name Iṣitasena or Ṛṣṭiṣeṇa.
+
+सेना सेश्वरा समानगतिर्वा (*senā seśvarā samānagatirvā*): the meaning of the word senā is this: ina means īśvara, master. Senā is a host of warriors together with a master or lord; that is, a host of warriors with a commander is called senā. Or समानगतिर्वा (*samānagatirvā*): those who go with one kind of motion (marching in formation); that is, when the warriors of an army march, a host of warriors who walk evenly in rows, four or five to a line, or who go with the one aim of winning victory, is called senā.
+
+पुत्रः पुरु त्रायते निपरणाद्वा । पुन्नरकं तशस्त्रायत इति वा (*putraḥ puru trāyate niparaṇādvā | punnarakaṃ taśastrāyata iti vā*) **NOTE**—how did the son get the name putra? Because he offers piṇḍa and the like to the forefathers (at the śrāddha) he is called putra; or put is the name of a hell. A son, by the piṇḍa-offering and other rites he performs for his forefathers and by other good deeds, त्रायते (*trāyate*) protects his forefathers so that they do not fall into that hell called put; therefore he is called putra. By the good deeds the son performs, the father's attaining of hells such as put is averted and a good state is attained. Therefore he who protects the father from the hell put is called putra.
+
+### Printed p. 109
+होत्रमृषिर्निषीदन् (*hotramṛṣirniṣīdan*): this Devāpi, in order to have a rain-giving sacrifice performed for Śantanu, sits on the sacrificial altar as Hotṛ, that is, as Ṛtvij, to do the Hotṛ's work; this is the meaning.
+
+ऋषिर्दर्शनात् स्तोमान् ददर्शेत्यौपमन्यवः तद्यदेनांस्तपस्यमानान् ब्रह्म स्वयंभ्वभ्यानर्षत्त ऋषयोऽभवस्तदृषीणामृषित्वमिति विज्ञायते (*ṛṣirdarśanāt stomān dadarśetyaupamanyavaḥ tadyadenāṃstapasyamānān brahma svayaṃbhvabhyānarṣatta ṛṣayo 'bhavastadṛṣīṇāmṛṣitvamiti vijñāyate*)—the derivation and formation of the word ṛṣi is given. A ṛṣi is one who can see, that is, one who by his supersensory knowledge can see and know past and future things that are not perceptible to ordinary men; he is called ṛṣi. The view of the teacher Aupamanyava is that the name ṛṣi came because he sees stomas or stotras (mantras) by his supersensory knowledge. On this matter Yāska has cited the Brāhmaṇa (Śruti) sentence तद्यदेनांस्तपस्यमानान् ब्रह्म स्वयंभ्वभ्यावर्षत्त ऋषयोऽभवस्तदृषीणामृषित्वमिति विज्ञायते (*tadyadenāṃstapasyamānān brahma svayaṃbhvabhyāvarṣatta ṛṣayo 'bhavastadṛṣīṇāmṛṣitvamiti vijñāyate*); it is understood from the Śruti sentence that to the seers who were practising austerity the self-existent Brahman itself, that is, the Vedic mantra, not of human origin, came near and became perceptible. Even though the seers do not study their mantras, they realise them directly by the power of their austerity. Therefore this derivation has arisen for the word ṛṣi.
+
+देवापिर्देवानामाप्त्या स्तुत्या च प्रदानेन च (*devāpirdevānāmāptyā stutyā ca pradānena ca*)—Devāpi means: देवानामाप्त्या स हि स्तुतिभिः हविःसंप्रदाने च देवानाप्नोति । (*devānāmāptyā sa hi stutibhiḥ haviḥsaṃpradāne ca devānāpnoti |*) Because he obtains the gods (āptyā) by stotras and the like and by offering oblations and the like, that is, because he brings them, he is called Devāpi.
+
+देवसुमतिं देवानां कल्याणीं मतिं (*devasumatiṃ devānāṃ kalyāṇīṃ matiṃ*)—the excellent or auspicious thought of the gods; one who knows how to acquire the thought of the gods that consists in their favour. चिकित्वान्—चेतनावान् । (*cikitvān—cetanāvān |*) one who knows.
+
+स उत्तरस्मादधरं समुद्रं । उत्तर उद्धततरो भवति । अधरोऽधोरः । अधो न धावतीतूर्ध्वगतिः प्रतिषिद्दा ॥ (*sa uttarasmādadharaṃ samudraṃ | uttara uddhatataro bhavati | adharo 'dhoraḥ | adho na dhāvatītūrdhvagatiḥ pratiṣiddā ‖*) From the upper ocean to the lower ocean; since the word samudra also means atmosphere, the meaning is: from the atmosphere above to the ocean below. When rain falls, the waters in the clouds of the atmosphere above fall upon the earth below and
+
 ---
 
-**Progress note:** Done through printed p. 103. pp. 98-103 (batch API)
+**Progress note:** Done through printed p. 109. pp. 104-109 (batch API)
