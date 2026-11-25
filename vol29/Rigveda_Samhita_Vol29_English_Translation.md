@@ -4082,6 +4082,246 @@ May those Maruts be gracious who, like clouds that impel water, are makers of ri
 ##### English translation
 Having streams for mothers like the grinding-stones which send forth moisture; ever destroying (enemies) like destructive thunderbolts: having tender mothers like sportive infants; (endowed) with splendour like a great crowd of men in a procession.
 
+### Printed p. 149
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒षसां॒ न के॒तवो॑ऽध्वर॒त्रियः॑ शुभं॒यवो॒ नांजिभि॒र्व्य॑श्वितन् ।  
+> सिंध॑वो॒ न य॒यियो॒ भ्राज॑दृष्टयः परा॒वतो॒ न योज॑नानि ममिरे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषसां । न । केतवः । अध्वरश्रियः । शुभंयवः । न । अंजिभिः । वि । अश्वितन् ।  
+> सिंधवः । न । ययियः । भ्राजत् ऽयष्टयः । परावतः । न । योजनानि । ममिरे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुत उषसां न केतव उषसां रश्मय इवाध्वरश्रियो यज्ञस्या
+> श्रयितारो भवंति । तथा शुभंयवो न कल्याणकामा वरा इवांजिभिराभरणैर्व्यश्वितन् दीप्यंते ॥ श्विता वर्णे । लजु रूपं ॥ तथा सिंधवो न नद्य इव ययियो
+> गमनशीला भ्राजदृष्टयो दीप्यमानायुधा: परावतो न दूराध्वनीना वडवा
+> इव योजनानि दूरदेशान्मिरे । परिच्छिंदंति । तेऽस्मद्यज्ञमागच्छंत्विति ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who, like the rays of the dawns, become supporters of the sacrifice. Likewise, like bridegrooms desiring welfare, they shine with their ornaments. Likewise, like rivers they are given to movement and have shining weapons; like horses of far journeys they measure out leagues, that is, they cut across distant regions. May they come to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसां (*uṣasāṃ*)—of the dawns
+- केतव न (*ketava na*)—like rays
+- अध्वरश्रियः (*adhvaraśriyaḥ*)—the Maruts who have the splendour of the sacrifice
+- शुभंयवो न (*śubhaṃyavo na*)—like bridegrooms of auspicious nature
+- अंजिभिः (*aṃjibhiḥ*)—with ornaments
+- व्यश्वितन् (*vyaśvitan*)—they shine
+- सिंधवो न (*siṃdhavo na*)—like rivers
+- ययियः (*yayiyaḥ*)—given to movement
+- भ्राजदृष्टयः (*bhrājadṛṣṭayaḥ*)—having shining weapons, the Maruts
+- परावतो न (*parāvato na*)—like horses fit for long journeys
+- योजनानि (*yojanāni*)—very distant regions
+- ममिरे (*mamire*)—they traverse
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, who have the splendour of the sacrifice like the rays of the dawns, shine with ornaments like bridegrooms of auspicious nature. The Maruts, who are given to movement like rivers and have shining weapons, traverse very distant regions like horses fit for long journeys.
+
+### Printed p. 150
+
+##### English translation
+Who, radiant in sacrifices like the rays of the dawn, shine with their ornaments like those expectant of good fortune, (who) swift-moving like rivers, having bright weapons, have traversed leagues like mares who have journeyed from far, (may they come to our sacrifice).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒भा॒गान्नो॑ देवाः कृणुता सु॒रत्ना॑न॒स्मान्त्सो॒त्थन्म॑रुतो  
+> नावृधा॒नाः ।  
+> अधि॑ स्तो॒त्रस्य॑ स॒ख्यस्य॑ गात स॒नाद्धि वो॑ रत्न॒धेया॑नि॒ संति॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुभागान् । नः । देवाः । कृणुत । सुरत्नान् । अस्मान् । स्तोत्थन् । मरुतः ।  
+> नावृधानाः ।  
+> अधि । स्तोतृस्य । सख्यस्य । गात । सनात् । हि । वः । रत्नधेयानि । संति ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरति । हे मरुतो देवाः ववृधानाः स्तुत्या वर्धमाना
+> योयं स्तोत्थन्नोऽस्मान्सुभागान्सुधनान्कृणुत । कुरुत । तथा सुरत्नाइत्योभनरत्नान्कृणुत । यद्वा । सुरत्ना इत्योभनरमणीयस्तोत्रानस्मानिति संबंधनीयं ।
+> किंच यूयं सख्यस्य स्तोत्रस्य सखिभूतं स्तोमधि गात । अधिगच्छत । वो युष्माकं
+> रत्नधेयानि रत्नदानान्यस्मद्विषयाणि सनाद्भि चिरकालादारभ्य खलु संति ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he concludes the praise. O Maruts, gods, you who are increased by praise, make us, the praisers, well-fortuned, that is, of good wealth. Likewise make us possessors of good jewels; or else, construe it as: us, who have good and delightful stotras. Further, you approach the praise, the stoma that has become a friend of the friendly stotra. Your gifts of jewels directed to us have indeed existed from long ago.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—divine
+- मरुतः (*marutaḥ*)—O Maruts
+- ववृधानाः (*vavṛdhānāḥ*)—you who thrive by praise
+- स्तोत्कन् (*stotkan*)—praisers
+- नः (*naḥ*)—us
+- सुभगान् (*subhagān*)—possessors of excellent wealth
+- कृणुत (*kṛṇuta*)—make
+- अस्मान् सुरत्नान् (*asmān suratnān*)—make us possessors of excellent jewels
+- सख्यस्य (*sakhyasya*)—dear to you
+- स्तोत्रस्य (*stotrasya*)—towards our praise
+- अधि गात (*adhi gāta*)—come
+
+### Printed p. 151
+
+- वः (*vaḥ*)—in you
+- रत्नधेयानि (*ratnadheyāni*)—riches that are to be given to us
+- सनाद्धि संति (*sanāddhi saṃti*)—have existed for many ages
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Maruts, you who thrive by praise, make us, the praisers, possessors of excellent wealth. Come towards our praise, which is dear to you. The riches that you are to give us have existed for many ages.
+
+##### English translation
+Divine Maruts, magnified (by our praise), render us, your praisers, prosperous and opulent; come this friendly laudation, for your precious bounties have been long (bestowed upon us).
+
+## Sūkta 79 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऎप्पत्तॊंभत्तनॆय सूक्तवु
+> अपश्यमिति सप्तर्चमेकादशं सूक्तमाग्नेयं त्रैष्टुभं । सौचीकगुणोऽग्निऋषिर्वैश्वानरगुणो वाथवा सप्तिर्नाम वाजंभरपुत्रः । तथाचानुक्रांतं ।
+> अपश्यं सप्त सौचीकोऽग्निर्वैश्वानरो वा सप्तिर्वा वाजंभर आग्नेयं त्विति ॥
+> प्रातरनुवाकाश्विनशस्त्रयोस्ट्रैष्टुभे छंदसीदमादिके द्वे सूक्ते । सूत्रितं च ।
+> अपश्यमस्य महत इति सूक्ते । आ. ४-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अपश्यमिति (*apaśyamiti*) has seven Ṛks; it is the eleventh sūkta, addressed to Agni, in Triṣṭubh. Its seer is Agni endowed with the quality of Saucīka, or Agni endowed with the quality of Vaiśvānara, or else Sapti by name, the son of Vājaṃbhara. So the Anukramaṇī records अपश्यं सप्त सौचीकोऽग्निर्वैश्वानरो वा सप्तिर्वा वाजंभर आग्नेयं त्विति ॥ (*apaśyaṃ sapta saucīko 'gnirvaiśvānaro vā saptirvā vājaṃbhara āgneyaṃ tviti ‖*). At the Prātaranuvāka and the Āśvinaśastra, in the Triṣṭubh metre, two sūktas beginning with this one are used. It is also formulated in the sūtra अपश्यमस्य महत इति सूक्ते (*apaśyamasya mahata iti sūkte*) (Ā. Sū. 4-13).
+
+##### Anuvāda
+
+This sūkta beginning अपश्यं (*apaśyaṃ*) is the eleventh sūkta in the sixth anuvāka. It has seven Ṛks. For this sūkta Agni endowed with the quality of Saucīka is the seer; or Agni endowed with the quality of Vaiśvānara is the seer; or Sapti, the son of the sage Vājaṃbhara, is the seer; Agni is the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said अपश्यं सप्त सौचिकोऽग्निर्वैश्वानरो ना सप्तिर्वा वाजंभर आग्नेयं तु (*apaśyaṃ sapta sauciko 'gnirvaiśvānaro nā saptirvā vājaṃbhara āgneyaṃ tu*). That this sūkta and the next sūkta are applied for the Triṣṭubh mantras at the time of reciting the Prātaranuvāka and the Āśvinaśastra is set out by the sūtra अपश्यमस्य महत इति सूक्ते (*apaśyamasya mahata iti sūkte*) of the Āśvalāyana Śrauta-sūtra (Ā. Sū. 4-13).
+
+### Printed p. 152
+
+Maṇḍala 10; Anuvāka 6; Sūkta 79. Aṣṭaka 8; Adhyāya 3; Varga 14. Number of Ṛks in the sūkta: 7. Seer: अग्निः सौचिको वैश्वानतो ना सप्तिर्वा वाजंभरः (*agniḥ sauciko vaiśvānato nā saptirvā vājaṃbharaḥ*). Deity: अग्निः (*agniḥ*). Metre: Triṣṭubh. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॑श्यमस्य मह॒तो म॑हि॒त्वमम॑र्त्यस्य॒ मर्त्या॑सु वि॒क्षु ।  
+> नाना॒ हनू॒ विभृ॑ते॒ सं भ॑रेते॒ असि॑न्वती॒ बप्स॑ती॒ भूर्य॑त्तः ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपश्यं । अस्य । महतः । महित्वं । अमर्त्यस्य । मर्त्यासु । विक्षु ।  
+> नाना । हनू इति । विभृते इति विभृते । सं । भरेते इति । असिन्वती इति । बप्सती इति ।  
+> भूरि । अत्तः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याग्नेर्महतो मंहनीयस्य महित्त्वं महत्त्वमपश्यं। पश्यामि। कीदृशस्यास्य । मर्त्यासु विक्षु मनुष्यरूपासु प्रजासु तासां हृदयेऽमर्त्यस्यामरणस्वभावस्य वैश्वानररूपेण वर्तमानस्य । यद्वा। मर्त्यासु विश्वत्विग्यजमानरूपासु
+> प्रजास्वमर्त्यस्य सर्वदा जागरितस्य । अथ दावाग्निरूपोऽग्निरुच्यते । अस्याग्नेर्हनू
+> शिप्रे नाना विभृते विभिन्ने सं भरेते । संभरतो दंतैः । तथा कृत्वासिन्वती
+> असंखादंत्यौ स्तोतारं बप्पती भक्षयंत्यौ भूरि प्रभूतं काष्ठमरण्ये वर्तमानमत्तः । भक्षयतः ।
+
+##### Gist of the bhāṣya
+
+I behold the greatness of this great, adorable Agni. Of what sort is he? He is immortal, of undying nature, existing in the form of Vaiśvānara in the hearts of the mortal peoples, the subjects in human form. Or else: immortal, ever awake in the peoples who are in the form of priests and sacrificers. Now the form of Agni as forest-fire is described: the two jaws of this Agni, parted in different ways, come together with the teeth. So doing, not chewing, devouring, they eat much wood that stands in the forest. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्यासु (*martyāsu*)—among mortal
+- विक्षु (*vikṣu*)—peoples, abiding in their hearts
+- अमर्त्यस्य (*amartyasya*)—deathless
+- महतः (*mahataḥ*)—venerable
+- अस्य (*asya*)—of this Agni
+- महित्वं (*mahitvaṃ*)—the greatness
+- अपश्यं (*apaśyaṃ*)—I see
+- नाना (*nānā*)—in many ways
+- विभृते (*vibhṛte*)—divided
+- हनू (*hanū*)—the two jaws of Agni
+
+### Printed p. 153
+
+- संभरेते (*saṃbharete*)—are borne by the teeth
+- असिन्वती (*asinvatī*)—without harming the praiser
+- बप्सती (*bapsatī*)—devouring the oblation
+- भूरि (*bhūri*)—abundant
+- अत्तः (*attaḥ*)—they devour the wood
+
+##### भावार्थ (Bhāvārtha)
+
+I behold the greatness of the venerable, deathless Agni, who dwells in the hearts of the mortal peoples. The two jaws of Agni, divided in many ways, are borne by the teeth. Without harming the praiser, devouring the oblation, they devour abundant wood.
+
+##### English translation
+I have beheld might of the adorable (Agni) immortal in (the hearts of) mortal beings ; his two jaws, divided asunder, shut together ; devouring without masticating consume much (fuel).
+
+##### विशेषविषयगळु (Special Topics)
+
+For the word असिन्वती (*asinvatī*), Yāska gives the explanation असिन्वती असंखादंत्यौ (*asinvatī asaṃkhādaṃtyau*) and असिन्वती बप्सती भूर्यत्तः इत्यपि निगमो भवति (*asinvatī bapsatī bhūryattaḥ ityapi nigamo bhavati*) (Ni. 6-4). That is, they devour in great quantities and in haste, without chewing well, very quickly; the idea is that they swallow quickly and simply, without chewing slowly and eating. In the next Ṛk also the words असिन्वन् (*asinvan*) and अत्ति (*atti*) are used, and the meaning there is the same.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गुहा॒ शिरो॒ निहि॑त॒मृध॑ग॒क्षी असि॑न्वन्नत्ति जि॒ह्वया॒ वना॑नि ।  
+> अत्रा॑ण्यस्मै प॒द्भिः सं भ॑रंत्युत्ता॒नह॑स्ता॒ नम॒साधि॑ वि॒क्षु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गुहा । शिरः । निहितं । ऋधक् । अक्षी इति । असिन्वन् । अत्ति । जिह्वया । वनानि ।  
+> अत्राणि । अस्मै । पट्भिः । सं । भरंति । उत्तानहस्ताः । नमसा । अधि । विक्षु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्याग्नेः शिरो मूर्धा गुहायां निहितं मनुष्योवरेषु वर्तते ।
+> अस्याक्षी अक्षिणी ऋधक् पृथग्निहितं निहिते चंद्रसूर्यात्मना । तावेवाक्षिणी इत्यर्थः ॥
+
+### Printed p. 154
+
+> ईदृशो योऽग्निरसिन्वन्दंतैरसंखादञ्चह्वया वनान्यत्ति काष्ठानि भक्षयति दाहभूतः
+> अस्मा अग्नयेऽध्वर्याद्दयः पद्भिः पादैरभिगत्यात्राणि सं भरंति । संपादयंति
+> हवींषि । कथंभूता । उत्तानहस्ताः पात्रधारणार्थमुन्नतकरा नमसा नमस्कारेण
+> युक्ताः । कुत्र । अधि विक्षु प्रजास्त्वत्विक्षु मध्यॆ ॥
+
+##### Gist of the bhāṣya
+
+The head of this Agni is placed in a cave and exists among men. **NOTE** His two eyes are separately placed, in the form of the moon and the sun; these two are his eyes. This Agni, not chewing with the teeth, devours with his tongue the woods, that is, eats the timber, being the burning. To this Agni the adhvaryu and the others, going near on foot, bring oblations, that is, prepare them. How are they? With raised hands, to hold the vessels, and accompanied by obeisance. Where? Among the peoples, among the priests.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिरः (*śiraḥ*)—the head of this Agni
+- गुहा (*guhā*)—in the belly of men
+- निहितं (*nihitaṃ*)—is placed
+- अक्षी (*akṣī*)—the eyes of Agni
+- ऋधक् (*ṛdhak*)—separate, in the form of the moon and the sun
+- असिन्वन् (*asinvan*)—without chewing with the teeth
+- जिह्वया (*jihvayā*)—by the tongue in the form of flame
+- वनानि (*vanāni*)—the woods
+- अत्ति (*atti*)—he devours
+- उत्तानहस्ताः (*uttānahastāḥ*)—those with raised hands
+- नमसा (*namasā*)—and accompanied by obeisances, the priests
+- विक्षु अधि (*vikṣu adhi*)—among men
+- अस्मै (*asmai*)—to this Agni
+- पड्भिः (*paḍbhiḥ*)—going on foot
+- अत्राणि (*atrāṇi*)—the oblations
+- संभरंति (*saṃbharaṃti*)—they offer
+
+##### भावार्थ (Bhāvārtha)
+
+The head of this Agni is placed in the belly of men. The eyes of Agni are separate, in the form of the moon and the sun. This Agni devours the woods without chewing with the teeth, by his tongue in the form of flame alone. The priests, with raised hands and accompanied by obeisances, go on foot, approach Agni, and offer oblations to this Agni among men.
+
+##### English translation
+His head is deposited in a cavern; his eyes are vide apart; with his tongue he devours the wood without masticating ; (the priests) approaching on foot reverently offer him oblations among the people with uplifted hands.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मा॒तुः प्र॑त॒रं गुह्य॑मि॒च्चन्कु॑मा॒रो न वी॒रुधः॑ सर्पदु॒र्वीः ।  
+> स॒सं न प॒क्वम॑विदच्चु॒चंतं॑ रिरि॒ह्वांसं॑ रि॒प उ॒पस्थे॑ अं॒तः ॥ ३॥
+
 ---
 
-**Progress note:** Done through printed p. 148. Mandala 10 Sukta 78 Rks 2-6 (pp. 143-148)
+**Progress note:** Done through printed p. 154. Mandala 10 Sukta 78 Rks 7-8; Sukta 79 Rks 1-2 and start of Rk 3 (pp. 149-154)
