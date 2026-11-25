@@ -17813,6 +17813,276 @@ Seated in the proximity of the radiant (flames of the altar), bestow riches on t
 - उशद्भिः (*uśadbhiḥ*)—(desiring connection with Yama) with the Fathers
 - रराणः (*rarāṇaḥ*)—he who takes delight
 
+### Printed p. 501
+
+#### Ṛk 8 (continued)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- *naḥ*—our (your)
+- *somyāsaḥ*—those who offered the Soma according to rule
+- *vasiṣṭhāḥ*—the most excellent
+- *pūrve*—the ancestors
+- ये पितरो (*ye pitaro*)—which Pitṛs
+- *somapīthaṃ*—the drinking of Soma
+- *anūhire*—caused the gods to partake
+- *tebhiḥ*—with such
+- *uśadbhiḥ*—Pitṛs who desire (connection with Yama)
+- *rarāṇaḥ*—he who rejoices
+- उशन् (*uśan*)—he who desires our oblations
+- यमः (*yamaḥ*)—Yama
+- हवींषि (*havīṃṣi*)—the oblations offered by us
+- प्रतिकामं (*pratikāmaṃ*)—as he wishes
+- अत्तु (*attu*)—let him accept
+
+##### भावार्थ (Bhāvārtha)
+
+Let Yama, who rejoices in the company of those Pitṛs, and who desires our oblations, accept as he wishes the oblations offered by us, together with those Pitṛs who offered their Soma according to rule, who are most excellent and are our ancestors, who caused the gods to partake of the Soma-drinking, and who desire connection with Yama.
+
+##### English translation
+May yama, being propitiated, desirous (of the offering), partake at pleasure of the oblations along with those our ancient progenitors the Saumyas, the possessors of great wealth, who also desire it, and who conve-yed the Soma beverage (to the gods and to the Pitris) in order.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ता॑तृ॒षुर्दे॑व॒त्रा जेह॑माना होत्रा॒विदः॒ स्तोम॑तष्टासो अ॒र्कैः ।  
+> आग्ने॑ याहि सुवि॒दत्रे॑भिर॒र्वाज् स॒त्यैः क॒वैः पि॒तृभि॑र्घर्म॒सद्भिः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ततृषुः । देवत्रा । जेहमानाः । होत्राविदः । स्तोमतष्टासः । अर्क्यैः ।  
+> आ । अग्ने । याहि । सुविदत्रेभिः । अर्वाज् । सत्यैः । कव्यैः । पितृभिः । घर्मसत्भिः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञेऽग्नेः कव्यवाहनस्य ये तातृषुरित्येषा प्रथमानुवाक्या ।
+> सूत्रितं च । ये तातृषुर्देवत्रा जेहमानास्त्वदग्ने काव्या त्वन्मनीषाः । आ. २.१९ ।
+> इति ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, for Agni Kavyavāhana, this Ṛk ये तातृषुः (*ye tātṛṣuḥ*) is the first anuvākyā. It is prescribed in the sūtra: ये तातृषुर्देवत्रा जेहमानास्त्वदग्ने काव्या त्वन्मनीषाः (*ye tātṛṣurdevatrā jehamānāstvadagne kāvyā tvanmanīṣāḥ*) (Ā. 2.19).
+
+### Printed p. 502
+
+> देवत्रा देवाइच्छीहमानाः क्रमेण गच्छंतः । क्रमेण देवत्वं प्राप्ता
+> इत्यर्थः । हॊत्राविदो यज्ञान्सम्यक्कर्तुं वेदितारोऽर्कैरर्चनीयैः स्तोत्रैः
+> स्तोमतष्टासः स्तोमानां च सम्यक्कर्तारो ये पितरस्तातृषुः तृष्यंति हे अग्ने
+> त्वं तैः पितृभिरर्वाजिस्मदभिमुख आ याहि । आगच्छ । कीदृशैः । सुविदत्रेभिः सुविदत्रैः
+> सत्यैरविसंवादिभिः कव्यैः । कव्यं नाम पितृदेवत्यं हविः । तत्संबंधिभिः । यद्वा ।
+> कव्यैः कविभिर्मेधाविभिः ॥ स्वार्थिको यत् ॥ घर्मसद्धिर्यज्ञसादिभिः ॥
+
+##### Gist of the bhāṣya
+
+देवत्रा (*devatrā*): going in due order, wishing for the gods; that is, having attained godhood in due order. होत्राविदः (*hotrāvidaḥ*): those who know how to perform sacrifices properly. अर्कैः (*arkaiḥ*): with praise-songs worthy of worship. स्तोमतष्टासः (*stomataṣṭāsaḥ*): those who duly fashion the stomas. The Pitṛs who thus thirst (तातृषुः (*tātṛṣuḥ*))—O Agni, come toward us with those Pitṛs. Of what kind are they? सुविदत्रेभिः (*suvidatrebhiḥ*) (सुविदत्रैः (*suvidatraiḥ*)), true (not contradicting one another), कव्यैः (*kavyaiḥ*): kavya is the oblation that has the Pitṛs as its deity, so, connected with it; or else कव्यैः (*kavyaiḥ*) means kavis, the wise (the affix yat is used without change of sense). घर्मसद्भिः (*gharmasadbhiḥ*): those who sit at the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवत्रा (*devatrā*)—godhood
+- जेहमानाः (*jehamānāḥ*)—those who have attained it in due order
+- होत्राविदः (*hotrāvidaḥ*)—those who know the order of the sacrifice
+- अर्कॆः (*arkèḥ*)—with praises
+- स्तोमतष्टासः (*stomataṣṭāsaḥ*)—those who refine the stomas
+- ये (*ye*)—which Pitṛs
+- ततृषुः (*tatṛṣuḥ*)—who desire connection with the gods; such
+- घर्मसद्भिः (*gharmasadbhiḥ*)—performers of the sacrifice
+- सुविदत्रेभिः (*suvidatrebhiḥ*)—those of excellent knowledge
+- सत्यैः (*satyaiḥ*)—of truthful nature
+- कव्यैः (*kavyaiḥ*)—the wise
+- पितृभिः (*pitṛbhiḥ*)—with the Pitṛs
+- अर्वाज् (*arvāj*)—facing us
+- आ याहि (*ā yāhi*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, graciously come, facing us, with those Pitṛs who have attained godhood in due order, who know the order of the sacrifice, and who refine the stomas with praises, such Pitṛs as desire connection with the gods—performers of the sacrifice, of excellent knowledge, of truthful nature, and wise.
+
+##### English translation
+Come, Agni, to our presence with the Pitris, who are possessed of knowledge, who having attained a seat amongst the gods, thirst (for the Soma), skilled in sacrifices, reciters of praises with hymns, truth-speaking, seers, frequenters of sacrifices.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña, in the homa made to Agni Kavyavāhana, this Ṛk ये तातृषुः (*ye tātṛṣuḥ*) is to be recited as the first anuvākyā mantra. This is set out by the sūtra of the Āśvalāyana Śrautasūtra: ये तातृषुर्देवत्रा जेहमानास्त्वदग्ने काव्या त्वन्मनीषाः (*ye tātṛṣurdevatrā jehamānāstvadagne kāvyā tvanmanīṣāḥ*) (Ā. 2-19).
+
+### Printed p. 503
+
+सुविदत्रेभिः (*suvidatrebhiḥ*)—for this word Yāska has given the explanation: सुविदत्रः कल्याणविद्यः आग्नेयाहि सुविदत्रेभिरर्वाज् इत्यपि निगमो भवति (*suvidatraḥ kalyāṇavidyaḥ āgneyāhi suvidatrebhirarvāj ityapi nigamo bhavati*). सुविदत्रः (*suvidatraḥ*) means a benevolent mind or a generous mind, generosity. The Vedic passage quoted above is itself the example in this matter.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये स॒त्यासो॑ हवि॒रदो॑ हवि॒ष्पा इंद्रे॑ण दे॒वैः स॒रथं॒  ॑
+> दधानाः ।  
+> आग्ने॑ याहि स॒हस्रं॑ देववं॒दैः परैः॒ पूर्वैः॑ पि॒तृभि॑र्घर्म॒सद्भिः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । सत्यासः । हविःs अदः । हविःऽपाः । इंद्रेण । देवैः । सरथं । दधानाः ।  
+> आ । अग्ने । याहि । सहस्रं । देववंदैः । परैः । पूर्वैः । पितृभिः । घर्मसत्भिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्यासः सत्या ये पितरो हविरदो भक्षणयोग्यस्य हविषोत्तारो भक्षयितारो हविष्पाः पानयोग्यस्य हविषः पातार इंद्रेण देवैः सरथं समानमेकं
+> तुल्यं वा रथं दधानाः ॥ लडर्थे शानच् ॥ गमनाय सदा धारयंति हे अग्ने तैः
+> पितृभिः सहा याहि । आगच्छ । कीदृशः । सहस्रं । तृतीयार्थे प्रथमा । सहस्रेण ।
+> बहुभिरित्यर्थः । देववंद्यर्देवसंबंधिभिः स्तोत्रैर्युक्तः । परैः परकालीनैः
+> पूर्वैः पूर्वकालीनैर्घर्मसद्धिर्यज्ञसादिभिर्महावीरसादिभिरादित्यसादिभिर्वा ॥
+
+##### Gist of the bhāṣya
+
+सत्यासः (*satyāsaḥ*): the true Pitṛs; हविरदः (*haviradaḥ*): eaters of the oblation fit for eating; हविष्पाः (*haviṣpāḥ*): drinkers of the oblation fit for drinking; इंद्रेण देवैः सरथं (*iṃdreṇa devaiḥ sarathaṃ*): holding always, for going, a chariot common to them, one or equal, with Indra and the gods. O Agni, come with those Pitṛs. Of what kind? सहस्रं (*sahasraṃ*) stands in the first case for the third: with a thousand, that is, with many; देववंदैः (*devavaṃdaiḥ*): accompanied by praises connected with the gods; परैः (*paraiḥ*): those of later time; पूर्वैः (*pūrvaiḥ*): those of earlier time; घर्मसद्भिः (*gharmasadbhiḥ*): sitters at the sacrifice, sitters at the Mahāvīra, or sitters at the Āditya (vessel).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- सत्यासः (*satyāsaḥ*)—of truthful nature
+- ये (*ye*)—which Pitṛs
+- हविरदः (*haviradaḥ*)—who are eaters of the oblation
+- हविष्पाः (*haviṣpāḥ*)—who are drinkers of the oblations such as Soma
+- इंद्रेण (*iṃdreṇa*)—with Indra and others
+- देवैः (*devaiḥ*)—with the gods
+- सरथं (*sarathaṃ*)—equality
+- दधानाः (*dadhānāḥ*)—who have attained; such
+- सहस्रं (*sahasraṃ*)—thousands in number
+- देववंद्यॆ (*devavaṃdyè*)—those united with the gods
+- परैः (*paraiḥ*)—those belonging to later time
+- पूर्वैः (*pūrvaiḥ*)—those belonging to former time
+- घर्मगद्भिः (*gharmagadbhiḥ*)—performers of the sacrifice
+- पितृभिः (*pitṛbhiḥ*)—with the Pitṛs
+- आ याहि (*ā yāhi*)—graciously come
+
+### Printed p. 504
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, graciously come with those Pitṛs, of truthful nature, who are eaters of the oblation, drinkers of oblations such as Soma, and who have attained equality with Indra and the other gods—thousands in number, united with the gods, belonging to later and earlier time, performers of the sacrifice.
+
+##### English translation
+Come, Agni, with thousands of Pitris, of both past and future (time), frequenters of sacrifices, eulogists of the gods ; those who are true, who feed on oblations, and drink oblations, possessing equality with Indra and the gods.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्नि॑ष्वात्ताः पितर॒ एह ग॑च्छत॒ सदः॑सदः सदत सुप्रणीतयः ।  
+> अ॒त्ता ह॒वींषि॒ प्रय॑तानि ब॒र्हिष्यथा॑ र॒यिं सर्व॑वीरं दधातन ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निस्वात्ताः । पितरः । आ । इह । गच्छत । सदःसदः । सदत । सुप्रनीतयः ।  
+> अत्त । हवींषि । प्रयतानि । बर्हिषि । अथ । रयिं । सर्ववीरं । दधातन ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे पितरोऽग्निष्वात्ता इत्यस्याग्निष्वात्ताः पितर इत्येषा प्रथमानुवाक्या । सूत्रितं च । अग्निष्वात्ताः पितर एह गच्छत ये चेह पितरो ये च नेह ।
+> अ-२-१९ । इति ॥
+> अग्निष्टात्ता अग्निना स्वादिता एतन्नामका पितरः यूयमिहास्मिन्पितृकर्मण्या
+> गच्छत । आगत्य च हे सुप्रणीतयोऽभिपूजितप्रणयनाः यूयं सदः सदस्तत्तत्स्थानं
+> सदत । सीदत । तत्र तत्र स्थाने यथेष्टमुपविशतेत्यर्थः । उपविश्य च बर्हिष्यासादितानि
+> प्रयतानि स्रुचि हवींष्यत्त । भक्षयत । अथानंतरं सर्ववीरु सर्वैर्विरैः पुत्रपौत्रैरुपेतं रयिं धनं वधातन । अस्मभ्यं दत्त ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, for the Pitṛs, this Ṛk अग्निष्वात्ताः पितर (*agniṣvāttāḥ pitara*) is the first anuvākyā. It is prescribed in the sūtra: अग्निष्वात्ताः पितर एह गच्छत ये चेह पितरो ये च नेह (*agniṣvāttāḥ pitara eha gacchata ye ceha pitaro ye ca neha*) (A-2-19).**NOTE**
+अग्निष्टात्ता (*agniṣṭāttā*): the Pitṛs of this name, "savoured by Agni". You come here, to this rite for the Pitṛs. Having come, O सुप्रणीतयः (*supraṇītayaḥ*), you whose guidance is honoured, sit in each place (सदः सदः (*sadaḥ sadaḥ*)), that is, take your seats as you wish in each place. Having sat, eat the oblations that are set in the ladle, placed on the sacred grass. Then grant us wealth (रयिं (*rayiṃ*)) accompanied by all heroes, that is, by sons and grandsons.
+
+### Printed p. 505
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निष्वात्ताः (*agniṣvāttāḥ*)—those called Agniṣvātta
+- पितरः (*pitaraḥ*)—O Pitṛs
+- इह (*iha*)—to this our sacrificial rite
+- आ गच्छत (*ā gacchata*)—come
+- सुप्रणीतयः (*supraṇītayaḥ*)—you who are excellent guides
+- सदः सदः (*sadaḥ sadaḥ*)—in the several places
+- सदत (*sadata*)—sit down
+- बर्हिषि (*barhiṣi*)—on the seats of darbha grass
+- प्रयतानि (*prayatāni*)—that are placed
+- हवींषि (*havīṃṣi*)—the oblations
+- अत्त (*atta*)—eat
+- अथ (*atha*)—afterwards
+- सर्ववीरं (*sarvavīraṃ*)—accompanied by sons, grandsons and so on
+- रयिं (*rayiṃ*)—wealth
+- दधातन (*dadhātana*)—give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Pitṛs called Agniṣvātta, come to this our sacrificial rite. You who are excellent guides, sit down in the several places. Eat the pure oblations placed on the seats of darbha grass. Afterwards give us wealth accompanied by sons, grandsons and so on.
+
+##### English translation
+Agnishwatta Pitris, come to this solemnity; sit down, directors in the right way, in your appropriate places: eat the oblations spread on the sacred grass and grant us riches and male posterity.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña, in the homa made for the Pitṛs called पितरोऽग्निष्वात्वाः (*pitaro 'gniṣvātvāḥ*), this Ṛk अग्निष्टात्ताः पितरः (*agniṣṭāttāḥ pitaraḥ*) is to be recited as the first anuvākyā mantra. This is set out by the sūtra of the Āśvalāyana Śrautasūtra: अग्निष्वात्ताः पितर एह गच्छत ये चेह पितरो ये च नेह (*agniṣvāttāḥ pitara eha gacchata ye ceha pitaro ye ca neha*) (Ā. 2-19).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्न ईळि॒तो जा॑तवे॒दोऽवा॑ड्ड॒व्यानि॑ सुर॒भीणि॑ कृ॒त्वी ।  
+> प्रादाः॑ पि॒तृभ्यः॑ स्व॒धया॒ ते अ॑क्षन्न॒द्धि त्वं दे॑व॒ प्रय॑ता  ॒॑
+> हवींषि ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । अग्ने । ईळितः । जातवेदः । अवाट् । हव्यानि । सुरभीणि । कृत्वी :  
+> प्र । अदाः । पितृभ्यः । स्वधया । ते । अक्सन् । अद्धि । त्वं । देव । प्रयता । हवींषि ॥
+
+### Printed p. 506
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महापितृयज्ञे वषट्कारक्रियायां त्वमग्न ईळित इत्येषास्विष्टकृतो याज्या ।
+> सूत्रितं च । योऽग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेद इति संयाज्ये । आ-२-१९ ।
+> इति ॥
+> हे जातवेदः । जातं सर्वं जगद्वेत्तीति जातवेदाः । तथाविध हे अग्ने
+> ईळितोऽस्माभिः स्तुतस्त्वं हव्यान्यस्मदीयानि हवींषि सुरभीणि सुगंधीनि कृत्वि
+> कृत्वावाट् । वहनं कृतवानसि । कृत्वा च पितृभ्यः प्रादाः । ते च पितरः स्वधया स्वधा.
+> कारेण दत्तं हविरक्षन् । आदंतु । हे देव त्वमपि प्रयता । प्रयत्नसंपादितानि
+> हवींष्यद्धि । भक्षय ॥
+
+##### Gist of the bhāṣya
+
+In the Mahāpitṛyajña, in the act of the vaṣaṭkāra, this Ṛk त्वमग्न ईळितः (*tvamagna īḷitaḥ*) is the yājyā of the Sviṣṭakṛt. It is prescribed in the sūtra: योऽग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेद इति संयाज्ये (*yo 'gniḥ kavyavāhanastvamagna īḷito jātaveda iti saṃyājye*) (Ā. 2-19).
+O जातवेदः (*jātavedaḥ*): he who knows all that is born, the whole world, is Jātavedas. O Agni, thus described, praised by us, you have made our oblations fragrant and have borne them; having done so you gave them to the Pitṛs. And let those Pitṛs eat the oblation given with the svadhā-call. O god, you too eat the oblations prepared by effort.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—in the form of Jātavedas
+- अग्ने (*agne*)—O Agni
+- ईळितः (*īḷitaḥ*)—praised by us
+- त्वं (*tvaṃ*)—you
+- हव्यानि (*havyāni*)—our oblations
+- सुरभीणि (*surabhīṇi*)—fragrant
+- कृत्वी (*kṛtvī*)—having made
+- अवाट् (*avāṭ*)—you have borne
+- पितृभ्यः (*pitṛbhyaḥ*)—to the Pitṛs
+- प्रादाः (*prādāḥ*)—you have offered
+- ते (*te*)—those Pitṛs
+- स्वधया (*svadhayā*)—the oblations offered with svadhā
+- अक्षन् (*akṣan*)—let them eat
+- देव (*deva*)—O Agni
+- त्वं (*tvaṃ*)—you also
+- प्रयता (*prayatā*)—well procured
+- हवींषि (*havīṃṣi*)—the oblations
+- अद्धि (*addhi*)—eat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in the form of Jātavedas, praised by us, you have made our oblations fragrant and borne them for the Pitṛs. You have offered them to them. Let those Pitṛs eat the oblations offered with svadhā. O Agni, you too eat the oblations well procured.
+
+##### English translation
+Agni Jatavedas, who are glorified (by us), having made our oblations fragrant, you have borne them off, and have presented them to the Pitris: may they partake of them with the Swadha; and you also, divine Agni feed upon the offered oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Mahāpitṛyajña, in the homa of the vaṣaṭkāra act, this Ṛk त्वमग्न ईळितः (*tvamagna īḷitaḥ*) is to be recited as the yājyā mantra of the Sviṣṭakṛt homa. This is set out by the sūtra of the Āśvalāyana Śrautasūtra: योऽग्निः कव्यवाहनस्त्वमग्न ईळितो जातवेद इति संयाज्ये (*yo 'gniḥ kavyavāhanastvamagna īḷito jātaveda iti saṃyājye*) (Ā. 2-19).
+
 ---
 
-**Progress note:** Done through printed p. 500. pp. 495-500 (batch API)
+**Progress note:** Done through printed p. 506. pp. 501-506 (batch API)
