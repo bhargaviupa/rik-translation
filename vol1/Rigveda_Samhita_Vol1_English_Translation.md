@@ -9852,7 +9852,7 @@ occurs within the Yajurveda Samhita, among other Yajurveda mantras — yet it's 
 
 ### Page 490
 
-The great sage Jaimini establishes this threefold mantra-classification through three sutras: "teṣāṃ pṛthag-artha-vaśena pādavyavasthā" (Jaimini Sutra 2-1-35), "gītiṣ sāmākhyā" (Jaimini Sutra 2-1-36), "śeṣe yajuḥ-śabdaḥ" (Jaimini Sutra 2-1-37). Distinguishing these sub-classifications within Vedic mantras as Rigveda, Yajurveda, and Samaveda appropriately yields the term "traividhya" (threefold-ness).
+The great sage Jaimini establishes this threefold mantra-classification through three sutras: "teṣāṃ pṛthag-artha-vaśena pādavyavasthā" (Jaimini Sutra 2-1-35), "gītiṣ sāmākhyā" (Jaimini Sutra 2-1-36), "śeṣe yajuḥ-śabdaḥ" (Jaimini Sutra 2-1-37). Distinguishing these sub-classifications within Vedic mantras as Rigveda, Yajurveda, and Samaveda, it became customary to call this threefold division of the three Vedas "traividhya" (threefold-ness).
 
 ### A Discussion, with Consideration of Fruit, Establishing Vedic Study as an Obligatory Duty
 

@@ -1412,3 +1412,8 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 485 | `...as stated in the Bhashya (2-1-33). Disciples familiar with the tradition call` → `...as stated in the Shabara-bhashya on the Mimamsa-sutra (2-1-6). The learned, familiar wi` | SECOND-PASS S13: Kannada p.485: ಮೀಮಾಂಸಾಸೂತ್ರದ ಶಾಬರಭಾಷ್ಯದಲ್ಲಿ(೨-೧-೬); ಸಂಪ್ರದಾಯವನ್ನು ತಿಳಿದ ಶಿಷ್ಟರು |
 | 488 | `five for Saptanta` → `five for Pankti` | SECOND-PASS S13: Kannada p.488: ಪಂಕ್ತಿ ಛಂದಸ್ಸಿಗೆ ಐದು ಪಾದಗಳು |
 | 472 | `(Jaimini-nyaya-mala 1-1-8)` → `(Jaimini-nyaya-mala 11-8)` | SECOND-PASS S1: Kannada p.472: (ಜೈ ನ್ಯಾ. ೧೧-೮); applied as printed |
+
+### 2026-11-25 second pass, batch e490-519.tsv
+| page | old → new | why |
+|---|---|---|
+| 490 | `as Rigveda, Yajurveda, and Samaveda appropriately yields the term "traividhya" (threefold-` → `as Rigveda, Yajurveda, and Samaveda, it became customary to call this threefold division o` | SECOND-PASS S14: Kannada p.490: ವೇದಗಳನ್ನು ... ವಿಂಗಡಿಸಿ ಹೇಳುವುದರಿಂದ ... ತ್ರೈವಿಧ್ಯವೆಂದು ಹೇಳುವುದು ರೂಢಿಯಾಯಿತು (it became customary); English "appropriately yields" is not in the Kan |
