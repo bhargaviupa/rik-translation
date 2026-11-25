@@ -31631,6 +31631,240 @@ O Aśvins, that Atri who was thrown by the Asuras into a torture-house with a hu
 - अत्रिं (*atriṃ*)—the seer Atri, the seer of this sūkta
 - अश्वं न (*aśvaṃ na*)—like a horse that was tied up
 
+### Printed p. 947
+(The Pratipadārtha continues from the previous page.) As a horse that has been untied runs off, so, to go to the place where he should go, you freed him from the Asuras. And as a craftsman repairs a broken chariot, you made Kakṣīvān, the dull-witted ṛṣi, new again, that is, a newly wise man.
+
+##### भावार्थ (Bhāvārtha)
+
+As a horse whose rope is loosed goes where it will, you always praised only your own selves; you freed the famous Atri, grown old in body, from the bondage of the Asuras and made him go to his own place. As a craftsman repairs a worn-out chariot and makes it new, you made Kakṣīvān, the dull-witted ṛṣi, a wise, new ṛṣi.
+
+##### English translation
+You made this Atri, ever diligent in worship, (swift) to run to the goal like a horse, and you renewed Kakshivat as (a wheelwright renews) a car.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Asuras' troubling of the ṛṣi Atri is told in the Ṛks Ṛ. Saṃ. 1-112-7; 1-116-8, 1-117-3, 1-118-7, 1-119-6, 5-78-4, 5, 6; 7-71-5, 8-62-3, 7, 8, 9; 10-39-9, and others. But who is this Atri? Opinions differ on whether he is the ṛṣi Atri Bhauma, the seer of the 5th Maṇḍala, or the Atri son of the ṛṣi Sāṃkhya who is the seer of the present sūkta. In the 5th Maṇḍala the ṛṣi Atri nowhere says this of himself. Only the ṛṣi Saptavadhri of the Atri family describes this matter, in Ṛks 4, 5, 6 of Sūkta 78 of the 5th Maṇḍala. In other places there are many descriptions of it, but in all of them only "the ṛṣi Atri" is said, so it is not clear which Atri is meant. Still, since the ṛṣi of the present sūkta, Atri Sāṃkhya, himself tells the matter, one may guess that this ṛṣi is the one meant here.
+
+In this Ṛk the matter is set forth through one illustration in the first half and one in the second. As a horse tied with a rope runs off freely as soon as it is untied, so the ṛṣi Atri, bound with ropes, thrown into a house of torture and suffering many kinds of cruel torment from the Asuras, was set free by the Aśvin deities, who came to him. Thereby the ṛṣi Atri became free from bondage and had the opportunity to go to any place he wished.
+
+### Printed p. 948
+The second half mentions the ṛṣi Kakṣīvān. This ṛṣi was a son of the famous ṛṣi Dīrghatamas. He was dull-witted. As a craftsman repairs a broken chariot and makes it new, so the Aśvin deities made the ṛṣi Kakṣīvān, who was devoid of understanding, that is, of little intelligence, a man of wisdom (intelligent).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं चि॒दश्वं॒ न वा॒जिन॑मरे॒णवो॒ यमत्न॑त ।  
+> दृ॒ढं ग्रं॒थिं न वि ष्य॑त॒मत्रिं॒ यवि॑ष्ठ॒मा रजः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यं । चित् । अश्वं । न । वाजिनं । अरेणवः । यं । अत्यत ।  
+> दृढं । ग्रंथिं । न । वि । स्यतं । अत्रिं । युविष्ठं । आ । रजः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरेणवोऽहिंस्यमानाः प्रबला असुरा वाजिनं वेगवंतमश्वं नाश्वमिव
+> यमत्रिमत्नत अतन्वत बद्धमकृषत ॥ तनोतेर्लुजि तनिपत्योश्चंदसीत्युपधालोपः॥
+> त्यं चित्तं चात्रिं यविष्ठं युवतमं स्तुतेर्मिश्रयितृतमं वा रजः ॥ रजंत्यस्मिञ्चना
+> इति रजो भूलोकः ॥ रज इमं लोकमाभि हे अश्विन् वि ष्यतं । व्यमुंचतं ।
+> दृढं स्थिरतरं ग्रंथिं न ग्रंथिमिव । यथा कश्चित्ताद्यशं ग्रंथिमयत्नेन विमुंचति तथा
+> युवां तम्मषिमसुरकृताद्बंधनान्नोचितवंतावित्यर्थः ॥ स्यतमिति षोऽंतकर्मणीत्यस्माल्लजि श्यन्योतः श्यनीत्योकारलोपे रूपं । छांदसोऽडभावः ॥ यद्वा ।
+> अत्रिं मां बंदाद्वि ष्यतं विमुंचतमित्यृषिरसुरैर्बद्धः सन्नश्विनौ प्रार्थयते ॥
+
+##### Gist of the bhāṣya
+
+The unharmed, that is, mighty Asuras bound the Atri whom they had bound, as one binds a swift, speedy horse; अतन्वत (*atanvata*) means "they stretched out", that is, made him bound. That same Atri, the youngest or most youthful, or the one who mingles most closely with praise, to this world (rajas). The word अरेणवः (*areṇavaḥ*) and the "rajas" are explained: रजंत्यस्मिञ्चना इति (*rajaṃtyasmiñcanā iti*), so rajas is the earthly world. O Aśvins, you loosed him; दृढं ग्रंथिं न (*dṛḍhaṃ graṃthiṃ na*): as someone looses a knot of such a kind, firm and fixed, without effort, so you two released that ṛṣi from the bondage made by the Asuras. Or else: the ṛṣi, bound by the Asuras, begs the Aśvins, "Release me, Atri, from the bond."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनं (*vājinaṃ*)—swift-going
+- अश्वं न (*aśvaṃ na*)—as one ties a horse with a rope
+- अरेणवः (*areṇavaḥ*)—the mighty Asuras
+- यं (*yaṃ*)—which Atri ṛṣi
+- अत्यत (*atyata*)—they had bound with ropes
+- त्यं चित् (*tyaṃ cit*)—the famous, and
+- यविष्ठं (*yaviṣṭhaṃ*)—the very young
+- अत्रिं (*atriṃ*)—Atri
+- आ रजः (*ā rajaḥ*)—as moving freely over the earth
+- दृढं (*dṛḍhaṃ*)—firmly tied
+- ग्रंथिं न (*graṃthiṃ na*)—as one unties a knot
+- भविष्यत (*bhaviṣyata*)—you released **NOTE**
+
+### Printed p. 949
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, as one ties a swift horse with a rope so that it does not run away, so the mighty Asuras had bound the youthful ṛṣi Atri with ropes. O Aśvin deities, you loosed the strong knots of the rope that bound that ṛṣi Atri and made him free of bondage.
+
+##### English translation
+This Atri, whom the irresistible (Asuras) dragged bound like a swift horse, you unloosed like a strong knot, (setting him) the youngest born upon the earth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नरा॒ दंसि॑ष्ठा॒ पत्र॑ये॒ शुभ्रा॒ सिषा॑सतं॒ धियः॑ ।  
+> अथा॒ हि वां॑ दि॒वो न॑रा॒ पुनः॒ स्तोमो॒ न वि॒शसे॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नरा । दंसिष्ठा । अत्रये । शुभ्रा । सिसासतं । धियः ।  
+> अथ । हि । वां । धिवः । नरा । पुनरिति । स्तोमः । न । विशसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नर नेतारौ हे दंसिष्टौ दर्शनीयतमौ शुभ्रा शोभमानौ ईदृशौ
+> हे अश्विन् आत्रय ऋषये मह्यं धियः कर्माणि बुद्धीर्वा सिषासतं । दातुमिच्छतं ॥
+> षणु दाने ॥ यद्वा। आत्रय इति षष्ठ्यर्थे चतुर्थी । अत्रेर्मम धियः स्तुतीः
+> कर्माणि वा सिषासतं । संभक्तुमिच्छतं । सेवेथामित्यर्थः ॥ वन षण संभक्तौ ।
+> अस्मात्सनतेः सनोतेर्वा सनि सनीवंतर्धोति विकल्पनादिडभावे जनसनखनामित्यात्वं ।
+> शुभ्रेत्यस्यामंत्रितस्यामंत्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्वेन पदादपरत्वेन पादादित्वात्तिज्ञतिज इति निघाताभावः । अदुपदेशालसार्वधातुकानुदात्तत्वे
+> सनो नित्वादाद्युदात्तत्वं ॥ अथा ह्यनंतरमेव दिवः । दीव्यतीति स्तूतीति द्यौः
+> स्तोता । तस्य मम स्तोमो न । नशब्दश्चार्थे । स्तोत्रं च हे नरा नेतारावश्विनौ
+> वां युवां पुनर्विशसे । पुनरेवाद्यापि विशेषेण शंसितुं प्रभवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O leaders, most beautiful and radiant ones, such as you are, O Aśvins, you desired to give me, the ṛṣi Ātreya, धियः (*dhiyaḥ*), that is, rites or understandings; सिषासतं (*siṣāsataṃ*) means "wish to give", from the root षणु दाने (*ṣaṇu dāne*). Or else: आत्रय (*ātraya*) is a dative in the sense of a genitive; you wished to share in, that is, to attend to, the praises or rites of me, Atri; the root is वन षण संभक्तौ (*vana ṣaṇa saṃbhaktau*). Then, immediately after, दिवः (*divaḥ*): one who praises is द्यौः (*dyauḥ*), the praiser; of that me, the praise too, O leader Aśvins, is able to praise you again, in particular, even now; "is able" is to be supplied.
+
+### Printed p. 950
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—leaders of rites
+- दंसिष्ठौ (*daṃsiṣṭhau*)—of attractive form
+- शुभ्रा (*śubhrā*)—shining with pure radiance; O Aśvin deities, you
+- अत्रये (*atraye*)—to me, named Atri
+- धियः (*dhiyaḥ*)—understandings (salutary counsels)
+- सिषासतं (*siṣāsataṃ*)—wished to give [or: अत्रेः (*atreḥ*)—of me, Atri; धियः (*dhiyaḥ*)—praises or rites; सिषासतं (*siṣāsataṃ*)—wished to attend to]
+- अथ हि (*atha hi*)—afterwards
+- दिवः (*divaḥ*)—of me who am praising
+- स्तोमः न (*stomaḥ na*)—the praise too
+- नरा (*narā*)—you who are leaders
+- वां (*vāṃ*)—you
+- पुनः (*punaḥ*)—again
+- विशसे (*viśase*)—praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders of rites, of attractive form, shining with divine radiance, you wished to give me, the ṛṣi Atri, counsels, that is, discernment; or you wished to listen to my praises. Afterwards my praise, as I praise you, also praises you, the leaders.
+
+##### English translation
+Leaders (of rites), of goodly aspect and radiant, deign to accept Atri's praises, and so the praise of your worshipper (is) to be sung again to you leaders (of rites).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चि॒ते तद्वां॑ सुराधसा रा॒तिः सु॑म॒तिर॑श्विना ।  
+> आ यन्नः॒ सद॑ने पृ॒थौ सम॑ने॒ पर्ष॑थो नरा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चिते । तत् । नां । सुराधसा । रातिः । सुमतिः । अश्विना ।  
+> चि । यत् नः । सदने । पृथौ । समने । पर्षथः । नरा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुराधसा शोभनदानावश्विना हे अश्विन् सुमतिः शोभना स्तुतिरस्मदीया
+> रातिर्हनिर्दानं च तत्तस्मात्कारणाद्दां युवयोश्चित्ते ज्ञानाय भवति ॥ चिती
+
+##### Gist of the bhāṣya
+
+O Aśvins, givers of good gifts, our good praise and our offering and gift are, for that reason, for your चिते (*cite*), that is, for knowledge; the word चिती (*citī*) is explained on the next page.
+
+### Printed p. 951
+
+> संज्ञाने । अस्मात्संपदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वं ॥
+> यद्यस्मात्कारणात्सदने यज्ञगृहे पृथौ विस्तीर्णे समने यज्ञे नोऽस्मान् हे
+> नरा नेतारावा पर्षथः आपूरयथः अभितो रक्षथो वा तस्माद्युवामस्मदीयं
+> परिचरणं ज्ञातवंतावित्यनुमीमहे ॥ पृ पालनपूरणयोरित्यस्माल्लेटि सिब्बहुलमिति.
+> सिप् । ततः शप् ॥
+
+##### Gist of the bhāṣya
+
+चिती संज्ञाने (*citī saṃjñāne*): from this root, kvip in the sense of the action. Because, O leader Aśvins, you fill up or protect us in the broad sacrificial house and at the sacrifice, therefore we infer that you have taken note of our service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुराधसा (*surādhasā*)—givers of excellent wealth
+- नरा (*narā*)—leaders
+- अश्विना (*aśvinā*)—O Aśvin deities
+- यत् (*yat*)—for which reason
+- पृथौ (*pṛthau*)—spacious
+- सदने (*sadane*)—in the sacrificial house
+- समने (*samane*)—in the sacrifice being performed there
+- नः (*naḥ*)—us
+- आ पर्षथः (*ā parṣathaḥ*)—you protect
+- तत् (*tat*)—for that reason
+- वां (*vāṃ*)—to you
+- चिते (*cite*)—there is understanding in our matter
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, givers of excellent wealth and leaders of rites, you have understanding (or a mind of favour) in our matter. For in our spacious sacrificial house and in the sacrificial rites you protect us so that no hindrance befalls us.
+
+##### English translation
+Munificent Ashwins, my offering and praise (is) for your recognition because, leaders (of rites), you protect us at the sacrifice in the spacious sacrificial hall.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं भु॒ज्यं स॑मु॒द्र आ रज॑सः पा॒र ईं॑खि॒तं ।  
+> या॒तमच्छा॑ पत॒त्रिभि॒र्नास॑त्या सा॒तये॑ कृतं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । भुज्यं । समुद्रे । आ । रजसः । पारे । ईंखितं ।  
+> यातं । अच्च । पतत्रिभिः । नासत्या । सातये । कृतं ॥ ५ ॥
+
+### Printed p. 952
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवं युवां समुद्र उदधौ निमग्नं रजस उदकस्य पारे
+> प्रांते तरंगसमूह ईंखितं डोलायितं एवंभूतं भुज्युं तुग्रपुत्रमच्छाभि
+> पतत्रिभिः पक्षोपेतैर्नौर्विशेषैः सहा यातं । आगतवंतौ स्थः । अगत्य च हे नासत्या
+> सत्यस्य नेतारौ सत्यस्वभावौ वा हे अश्विनौ सातये युवयोः संभजनाय समर्थं
+> कृतं । पुनर्युवानं कुरुतं ॥ करोतेर्लजि छांदसो विकरणस्य लुक्! अडभावश्च ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you came to Bhujyu, son of Tugra, who was sunk in the ocean, at the edge (end) of the water, tossed in the mass of waves, with winged ships, that is, special boats with wings; having come, O Nāsatyas, leaders of truth or of true nature, you made him fit for your service, you made him young again. For कृतं (*kṛtaṃ*) Sāyaṇa notes a Vedic form of the root *karoti* in the lṛṭ-substitute लजि (*laji*) with dropping of the vikaraṇa and absence of aṭ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवं (*yuvaṃ*)—you
+- समुद्रे (*samudre*)—in the sea
+- रजसः पारे (*rajasaḥ pāre*)—at the edge of the waters, that is, fallen amid the waves
+- ईंखितं (*īṃkhitaṃ*)—struggling
+- भुज्युं (*bhujyuṃ*)—Bhujyu, son of Tugra
+- अच्छ (*accha*)—coming to face him
+- पतत्रिभिः (*patatribhiḥ*)—by your boats that are like wings
+- आ यातं (*ā yātaṃ*)—you brought him; then
+- नासत्या (*nāsatyā*)—O Aśvin deities, of true nature
+- सातये (*sātaye*)—so that he be able to praise you
+- कृतं (*kṛtaṃ*)—you made that Bhujyu
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, Bhujyu, son of Tugra, had fallen amid the waves in the sea and was struggling; with the help of your boats that are like wings you rescued him and brought him from there, and you made that Bhujyu able to praise you.
+
+##### English translation
+You came with winged (steeds) to Bhujyu (immersed) in the ocean, at the world's end, perturbed ; and, leaders of truth, you restored him to your worship.
+
+##### विशेषविषयगळु (Special Topics)
+
+The matter of the Aśvin deities saving Bhujyu from the middle of the sea we have explained in the introduction to this sūkta and in other places. This matter is also told in the following Ṛks: Ṛ. Saṃ. 1-116-3, 4, 5; 1-117-14, 15; 1-182-5, 6, 7; 7-68-7; 1-112-6, 20; 1-118-6; 1-119-4; 1-158-3; 6-62-6; 7-69-7; 8-5-22; 10-39-4; 10-47-7; 10-65-12; 10-143-5.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॑ सु॒मैः शं॒यू इ॑व॒ मंहि॑ष्ठा॒ विश्व॑वेदसा ।
+
 ---
 
-**Progress note:** Done through printed p. 946. pp. 940-946 (batch API)
+**Progress note:** Done through printed p. 952. pp. 947-952 (batch API)
