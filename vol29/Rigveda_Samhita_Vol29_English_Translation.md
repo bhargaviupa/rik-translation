@@ -12693,6 +12693,253 @@ In those sacrifices enriched by Soma, in which Vṛṣākapi, my friend, lord an
 ##### English translation
 [ Indra speaks : ] They have neglected the pressing of the Soma, they have not praised the divine Indra at the cherished (sacrifices), at which the noble Vrishakapi becoming my friend rejoiced: (still) I, Indra, am above all (the world).
 
+### Printed p. 458
+
+##### विशेषविषयगळु (Special Topics)
+
+वि हि सोतोः अस्पृक्षत न इंद्रं देवं अमंसत (*vi hi sotoḥ aspṛkṣata na iṃdraṃ devaṃ amaṃsata*)—this is the speech of Indra.
+
+वृषाकपेय्र्यष्टारो स्तोतारो मया अनुज्ञाताः संतोऽपि तद्यज्ञे देवं इंद्रं मां न अमंसत । मया प्रेरिताः संतोऽपि ते स्तोतारो न स्तुतवंतः । किंतु मम पुत्रं वृषाकपिमेव स्तुतवंतः ॥ (*vṛṣākapeyryaṣṭāro stotāro mayā anujñātāḥ saṃto 'pi tadyajñe devaṃ iṃdraṃ māṃ na amaṃsata | mayā preritāḥ saṃto 'pi te stotāro na stutavaṃtaḥ | kiṃtu mama putraṃ vṛṣākapimeva stutavaṃtaḥ ‖*) Vṛṣākapi is my son. The priests who took part in the sacrifice he was performing were commanded by me myself to press the Soma juice. Yet they did not praise me, who am the chief leader of the sacrifice and the god. Instead of that they praised my son Vṛṣākapi alone.
+
+यत्र पुष्टेषु अर्यः वृषाकपि मत्सखा अमदत् इंद्रः विश्वस्मात् उत्तरःसोमेन प्रवृद्धेषु येषु यागेषु स्वामी वृषाकपि सखिभूतः मम पुत्रः सोमपानेन हृष्टोऽभूत् यद्यस्येवं तथापि इंद्रः अहं सर्वस्माज्जगतः उत्कृष्टतरः ॥ (*yatra puṣṭeṣu aryaḥ vṛṣākapi matsakhā amadat iṃdraḥ viśvasmāt uttaraḥsomena pravṛddheṣu yeṣu yāgeṣu svāmī vṛṣākapi sakhibhūtaḥ mama putraḥ somapānena hṛṣṭo 'bhūt yadyasyevaṃ tathāpi iṃdraḥ ahaṃ sarvasmājjagataḥ utkṛṣṭataraḥ ‖*) In the sacrifice performed by Vṛṣākapi the pressing of the Soma went on as much as desired. My son Vṛṣākapi, who is like a friend to me, drank Soma abundantly in that sacrifice and became delighted. Even so, I, Indra, am greater than the whole world.
+
+The main purport is this: I, Indra, am greater than the whole world; there is no one who surpasses me. Yet when the priests, commanded by me myself, performed the pressing of the Soma in the sacrifice that my son Vṛṣākapi was performing, they did not praise me, the chief leader of the sacrifice; they praised Vṛṣākapi alone. Indra has expressed his sorrow that this is highly improper.
+
+One called Mādhavabhaṭṭa (Peṅkaṭamādhava **NOTE**, who lived before Sāyaṇa and who also wrote a commentary on the Ṛgveda) has indicated his opinion that the statement made in this Ṛk is not made by Indra but is the speech of Indrāṇī, in the following way—
+
+इंद्राण्यै कल्पितं हविः कश्चिन्मृगोऽदूदुषदिंद्रस्य वृषाकपेर्विषये वर्तमानः । तत्रेंद्रमिंद्राणी वदति । तस्मिन्पक्षे त्वस्या ऋचोऽयमर्थः । सोतोः सोमाभिषवं कर्तुं वि ह्यसृक्षत । उपरतसोमाभिषवा आसन् यजमाना इत्यर्थः । किंच मम पतिमिंद्रं देवं नामंसत स्तोतारो न स्तुवंति । कुत्रॆति अत्राह । यत्र यस्मिन् जनपदे पुष्टेषु प्रवृद्धेषु धनेष्वर्यः स्वामी वृषाकपिरमदत् । मत्सखा मत्र्ययश्चेंद्रो विश्वस्मात्सर्वस्माज्जगत उत्तरः उत्कृष्टतरः ॥ (*iṃdrāṇyai kalpitaṃ haviḥ kaścinmṛgo 'dūduṣadiṃdrasya vṛṣākaperviṣaye vartamānaḥ | tatreṃdramiṃdrāṇī vadati | tasminpakṣe tvasyā ṛco 'yamarthaḥ | sotoḥ somābhiṣavaṃ kartuṃ vi hyasṛkṣata | uparatasomābhiṣavā āsan yajamānā ityarthaḥ | kiṃca mama patimiṃdraṃ devaṃ nāmaṃsata stotāro na stuvaṃti | kutrèti atrāha | yatra yasmin janapade puṣṭeṣu pravṛddheṣu dhaneṣvaryaḥ svāmī vṛṣākapiramadat | matsakhā matryayaśceṃdro viśvasmātsarvasmājjagata uttaraḥ utkṛṣṭataraḥ ‖*)
+
+### Printed p. 459
+
+Formerly, at one time, an animal living in the realm of Vṛṣākapi, the son of Indra, spoiled and ruined the oblation prepared for the goddess Indrāṇī. What Indrāṇī said to Indra on that occasion is stated in this Ṛk. The sacrificers who had engaged in the work of pressing Soma juice in the sacrifice were resting after pressing the Soma juice. At that time a wicked animal spoiled the Soma juice that had been pressed. And in that sacrifice the priests and sacrificers did not praise my husband Indra at all. All this took place in the realm of Vṛṣākapi, which was abundant in every kind of wealth. Vṛṣākapi was the lord of such a country and lived there happily. Indra, who is like a friend to me and is dear to me, is no ordinary person. He is greater than the whole world. The main purport is that there is none greater or more excellent than he.
+
+For this Ṛk Yāska, in the Pariśiṣṭa chapter, having said अथेमा अतिस्तुतय इत्याचक्षते (*athemā atistutaya ityācakṣate*), that is, "we shall explain some mantras that indicate a meaning different from the ordinary meaning", has given an etymological explanation of this Ṛk. It refers to the Sun. Therefore I shall explain it here—
+
+व्यसृक्षत हि प्रसवाय न चेंद्रं देवममंसत यत्रा माद्यत् वृषाकपिरर्य ईश्वरः पुष्टेषु पोषेषु मत्सखा मनु सखा मदनसखा ये नः सखायस्मै सहेति ना सर्वस्माद्य इंद्र उत्तरस्तमेतद्दूम आदित्यं ॥ (*vyasṛkṣata hi prasavāya na ceṃdraṃ devamamaṃsata yatrā mādyat vṛṣākapirarya īśvaraḥ puṣṭeṣu poṣeṣu matsakhā manu sakhā madanasakhā ye naḥ sakhāyasmai saheti nā sarvasmādya iṃdra uttarastametaddūma ādityaṃ ‖*) (Ni. 13-4)
+
+We shall first set out the commentary written on this by Durgācārya, the commentator of the Nirukta, and then give the meaning in translation—
+
+व्यसृक्षत यदादित्यो रश्मीनहन्यहनि सोतोः सर्वभूतप्रसवाय, अभ्यनुज्ञानाय, तत्प्रकाशितलोकस्य सर्वकर्मोपपत्तेः । तदा किं ? इति । तदा ते रश्मयः सर्वकर्मण्यनुगमनात् नेंद्रं देवममंसत तमेवेंद्रमादित्यं येन विसृष्टाः तमेतमात्मनो दीपयितारं न मन्यंते स्वमहिम्मेव दीप्यामह इति मन्यंते । (*vyasṛkṣata yadādityo raśmīnahanyahani sotoḥ sarvabhūtaprasavāya, abhyanujñānāya, tatprakāśitalokasya sarvakarmopapatteḥ | tadā kiṃ ? iti | tadā te raśmayaḥ sarvakarmaṇyanugamanāt neṃdraṃ devamamaṃsata tameveṃdramādityaṃ yena visṛṣṭāḥ tametamātmano dīpayitāraṃ na manyaṃte svamahimmeva dīpyāmaha iti manyaṃte |*)
+
+कदा ? यत्र यदा अमदत् वृषाकपिः अर्यः स्वामिा रश्मिपोषं पुष्यति पुष्टेषु एकीभूतेषु मध्यंदिने । मत्सखा मम सखा इति मंत्रदृगाह। अथवा सर्व एव मन्यते ममायं सखा ममायं सखा इति । अथवा मदनसखा हर्षसखेत्यर्थः । अथवा ये नः सखायः रश्मयः तै सहेति । विश्वस्मात् इति उक्तार्थः । (*kadā ? yatra yadā amadat vṛṣākapiḥ aryaḥ svāmiā raśmipoṣaṃ puṣyati puṣṭeṣu ekībhūteṣu madhyaṃdine | matsakhā mama sakhā iti maṃtradṛgāha| athavā sarva eva manyate mamāyaṃ sakhā mamāyaṃ sakhā iti | athavā madanasakhā harṣasakhetyarthaḥ | athavā ye naḥ sakhāyaḥ raśmayaḥ tai saheti | viśvasmāt iti uktārthaḥ |*) (Niru. Bhā. 13.4) **NOTE**
+
+In this Ṛk the meaning referring to the rays of the Sun is explained. Here the Sun, who is the cause of the act of raining, is called Vṛṣākapi. वि हि सोतोरसृक्षत (*vi hi sotorasṛkṣata*)—that is, the one who is the cause of the birth of all living beings
+
+### Printed p. 460
+
+is the Sun. Such a Sun sent forth his rays, that is, spread them, scattered them over the whole world, for the birth of all living beings, or for the activities of the whole world illumined by him to go on. But although those rays, or beams, went out from the Sun, they did not know him, who is their cause and lord (the Sun himself). That is, forgetting that they shine by the greatness of the Sun, they fell into the delusion that they shine by their own greatness. When is this? अमदत् (*amadat*) वृषाकपि (*vṛṣākapi*) आर्यः पुष्टेषु (*āryaḥ puṣṭeṣu*)—when this Sun, the lord of the whole world, shines concentrating all his power, that is, at midday. At midday the light of the Sun is very intense. Here the meaning of the word मत्सखा (*matsakhā*) is this: the seer who saw the sūkta has called the Sun मत्सखा (*matsakhā*), "my friend", in the highest affection; or मत्सखा (*matsakhā*) means मदनसखा (*madanasakhā*), a friend who produces joy. Or ये नः सखायः तै सहेति (*ye naḥ sakhāyaḥ tai saheti*): it can also be said that the meaning is the Sun accompanied by those rays that are beneficial to me like friends. The purport of the etymology is that such a Sun shines unequalled (supreme) in the whole world.
+
+In the last quarter of every Ṛk of this sūkta the qualifying sentence विश्वस्मादिंद्र उत्तरः (*viśvasmādiṃdra uttaraḥ*), praising Indra, is recited again and again like a refrain.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परा॒ हीं॑द्र॒ धाव॑सि वृ॒षाक॑पे॒रति॒ व्यथिः॑ ।  
+> नो अह॒ प्र विं॑दस्य॒न्यत्र॒ सोम॑पीतये॒ विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परा । हि । इंद्र । धावसि । वृषाकपेः । अति । व्यथिः ।  
+> नो इति । अह । प्र । विंदसि । अन्यत्र । सोमपीतये । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमत्यत्यंतं व्यथिश्चलितो वृषाकपेवृषाकपिं परा धावसि ।
+> प्रतिगच्छसि । अन्यत्र सोमपीतये सोमपानाय नो अह नैव च प्र विंदसि ।
+> प्रगच्छसीत्यर्थः । सोऽयमिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, greatly agitated (व्यथिः (*vyathiḥ*), moved), run towards Vṛṣākapi, that is, go to him. And you do not at all go to another place to drink Soma (सोमपीतये (*somapītaye*), for Soma-drinking); the meaning of प्र विंदसि (*pra viṃdasi*) is that you go forth. This Indra is above all.
+
+### Printed p. 461
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अति व्यथि (*ati vyathi*)—very distressed in mind
+- वृषाकपेः परा (*vṛṣākapeḥ parā*)—towards Vṛṣākapi
+- धावसि (*dhāvasi*)—you run
+- सोमपीतये (*somapītaye*)—for drinking Soma
+- अन्यत्र (*anyatra*)—to another place
+- नो अह प्र विंदसि (*no aha pra viṃdasi*)—you certainly do not go at all
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, greatly distressed in mind, you run towards Vṛṣākapi. You do not go to another place to drink Soma. Indra is greater than the whole world.
+
+##### English translation
+[ Indrani speaks: ] You, Indra, much annoyed, hasten towards Vrishakapi; and yet you find no other place to drink the Soma; Indra is above all (the world).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किम॒यं त्वां वृ॒षाक॑पिश्च॒कार॒ हरि॑तो मृ॒गः ।  
+> यस्मा॑ इर॒स्यसीदु॒ नृ १ १॒॑र्यो वा॑ पुष्टि॒मद्वसु॒ विश्व॑स्मा॒द्रिंद्र॒  ॑
+> उत्तरः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किं । अयं । त्वां । वृषाकपिः । चकार । हरितः । मृगः ।  
+> यस्मै । अरस्यसि । इत् । ऊं इति । नु ! अर्यः । वा । पुष्टिमत् । वसु । विश्वस्यात् ।  
+> इंद्रः । उत्तरः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वां प्रति हरितो हरितवर्णो मृगो मृगभूतोऽयं वृषाकपिः ।
+> मृगजातिर्हि वृषाकपिः । किं प्रियं चकार । अकार्षित् । यस्मै वृषाकपये
+> पुष्टिमत्पोषयुक्तं वसु धनमर्यो वोदार इव स त्वं नु क्षिप्रमिरस्य सीत्
+> प्रयच्छस्येव । य इंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Vṛṣākapi, the green (हरित (*harita*)) animal, has become an animal in relation to you; for Vṛṣākapi belongs to the class of animals. What pleasing thing has he done, did he do? To that Vṛṣākapi you give nourishing wealth as a generous lord would; you quickly give it. This Indra is above all.
+
+### Printed p. 462
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यस्मै (*yasmai*)—to which Vṛṣākapi
+- पुष्टिमत् (*puṣṭimat*)—that which is a means of nourishment
+- वसु (*vasu*)—wealth
+- अर्यो न (*aryo na*)—like a generous giver
+- नु (*nu*)—quickly
+- इरस्यसीत् (*irasyasīt*)—you gave; to such
+- हरितः (*haritaḥ*)—the green-coloured
+- मृगः (*mṛgaḥ*)—the one of animal form
+- आयं वृषाकपिः (*āyaṃ vṛṣākapiḥ*)—this Vṛṣākapi
+- त्वां (*tvāṃ*)—to you
+- किं (*kiṃ*)—what pleasing thing
+- चकार (*cakāra*)—did he do
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is most excellent
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, what good has that green-coloured Vṛṣākapi, of animal form, to whom you gave nourishing wealth like a generous giver, done to you? Indra is more excellent than the whole world.
+
+##### English translation
+What (favour) has this tawny dear Vrishakapi done to you that you should, like a liberal (banefactor), bestow upon him wealth and nourish ment ? Indra is above all (the world).
+
+##### विशेषविषयगळु (Special Topics)
+
+O Indra, what service has that green-coloured animal Vṛṣākapi done to you? Why do you give him wealth and nourishing food like a generous giver? This is the main purport.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमि॒नं त्वं वृ॒षाक॑सिं प्रि॒यमिं॑द्राभि॒रक्ष॑सि ।  
+> श्वा न्व॑स्य जंभिष॒दपि॒ कर्णे॑ वराह॒युर्विश्व॑स्मा॒दिंद्र॒ उत्त॑रः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । इमं । त्वं । वृषाकपिं । प्रियं । इंद्र । अभिरक्षसि ।  
+> श्वा । नु । अस्य । जंभिषत् । अपि । कर्णे । वराहयुः । विश्वस्मात् । इंद्रः।  
+> उत्तरः ॥ ४ ॥
+
+### Printed p. 463
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं प्रियमिष्टं पुत्रं यमिमं वृषाकपिमभिरक्षसि परिपालयसि
+> अस्यैनं वृषाकपिं । द्वितीयार्थे षष्ठी । वराहयुर्वराहमिच्छञ्वा नु क्षिप्रं
+> उंभिषत् । भक्षयतु । अपि च कर्णे गृह्ण्णात्विति शेषः । श्वानो हि वराहमिच्छंति ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this Vṛṣākapi, your dear, beloved son, whom you protect and cherish: अस्य (*asya*) stands for the sixth case in the sense of the second, that is, this Vṛṣākapi. May a dog that desires a boar (वराहयुः (*varāhayuḥ*)) quickly devour (उंभिषत् (*uṃbhiṣat*)) him, that is, eat him; "and let it seize him by the ear" is to be supplied. For dogs desire a boar. The rest is established. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- प्रियं (*priyaṃ*)—dear to you
+- यं (*yaṃ*)—whom
+- इमं वृषाकपिं (*imaṃ vṛṣākapiṃ*)—this Vṛṣākapi
+- अभिरक्षसि (*abhirakṣasi*)—you protect
+- अस्य (*asya*)—such this Vṛṣākapi
+- वराहयुः (*varāhayuḥ*)—desirous of catching a boar
+- श्वा (*śvā*)—a dog
+- नु (*nu*)—quickly
+- कर्णे (*karṇe*)—seizing by the ear
+- जंभिषत् (*jaṃbhiṣat*)—may it swallow
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may a dog desirous of catching a boar quickly seize by the ear this Vṛṣākapi, dear to you, whom you protect, and swallow him. Indra is greater than the whole world.
+
+##### English translation
+This Vrishakapi whom you, Indra, cherish as your dear (son)—may the dog which chases the boar (seize) him by the ear (and) devour him ; Indra is above all (the world).
+
+##### विशेषविषयगळु (Special Topics)
+
+Indrāṇī, disgusted with regard to Vṛṣākapi, speaks thus: O Indra, I cannot bear to see this Vṛṣākapi whom you protect with so much pride. As a hunting dog chases a wild boar and brings it, holding it by the ear, so may a dog quickly bite this Vṛṣākapi and eat him up.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रि॒या त॒ष्टानि॑ मे क॒पिव्य॑क्ता॒ व्य॑दूदुषत् ।  
+> शिरो॒ न्व॑स्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिंद्र॒  ॑
+> उत्तरः ॥ ५ ॥
+
+### Printed p. 464
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रिया । तष्टानि । मे । कपिः । विअक्ता । वि । अदूदुषत् ।  
+> शिरः । नु । अस्य । राविषं । न । सुगं । दुःकृते । भुवं । विश्वस्मात् । इंद्रः ।  
+> उत्तरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मह्यमिंद्राण्यै तष्टानि यजमानैः कल्पितानि प्रिया प्रियाणि व्यक्ता
+> व्यक्तान्याज्यैर्विशेषेणाक्तानि हवींषि कश्चिद्वृषाकपीर्विषये वर्तमानः कपिर्व्यदूदुषत् । दूषयामास । ततोऽहमस्य तत्कपिस्वामिनो वृषाकपेः शिरो नु क्षिप्रं
+> राविषं। लुनीयां । दुष्कृते दुष्टस्यकर्मणः कर्त्रे वृषाकपयेऽस्मै सुगं सुखं
+> न भुवं । अहं न भवेयं । आस्मै सुखप्रदात्रि न भवामीत्यर्थः । अस्या मम
+> पतिरिंद्रो विश्वस्मादुत्तरः ॥
+
+##### Gist of the bhāṣya
+
+मे (*me*): for me, Indrāṇī, the oblations (तष्टानि (*taṣṭāni*)) prepared by the sacrificers, dear (प्रिया (*priyā*)) and specially anointed (व्यक्ता (*vyaktā*)) with ghee: some ape (कपिः (*kapiḥ*)) living in the realm of Vṛṣākapi has spoiled them (व्यदूदुषत् (*vyadūduṣat*)), that is, defiled them. Therefore I shall quickly cut off (राविषं (*rāviṣaṃ*)) the head of Vṛṣākapi, the master of that ape. To this Vṛṣākapi, the doer of an evil deed, I shall not be (न भुवं (*na bhuvaṃ*)) a giver of happiness (सुगं (*sugaṃ*)). My husband Indra is above all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—addressed to me (Indrāṇī)
+- तप्पानि (*tappāni*)—prepared by the sacrificers
+- प्रिया (*priyā*)—beneficial
+- व्यक्ता (*vyaktā*)—filled with ghee, the oblation
+- कपिः (*kapiḥ*)—this wicked ape in the country of this Vṛṣākapi
+- व्यदूदुषत् (*vyadūduṣat*)—has spoiled (therefore)
+- अस्य (*asya*)—of Vṛṣākapi, the master of this wicked ape
+- शिरो नु (*śiro nu*)—the head
+- राविषं (*rāviṣaṃ*)—I shall cut off
+- दुष्क, ते (*duṣka, te*)—to one who does an evil deed
+- सुगं (*sugaṃ*)—happiness
+- न भुवं (*na bhuvaṃ*)—I shall not give the opportunity to be produced
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्मात् (*viśvasmāt*)—than the whole world
+- उत्तरः (*uttaraḥ*)—is greater
+
+##### भावार्थ (Bhāvārtha)
+
+This ape has spoiled the oblation, prepared by the sacrificers for me, Indrāṇī, beneficial to me and filled with ghee. I shall cut off its head. I shall not give an opportunity for happiness to one who does an evil deed. Indra is greater than the whole world.
+
+##### English translation
+The ape has spoiled the beloved ghi-adorned (oblations) made to me (by worshippers); let me quickly cut off his head, let me not be the giver of happiness to one who works evil; Indra is above all (the world).
+
 ---
 
-**Progress note:** Done through printed p. 457. pp. 450-457: Vrishakapi special topics, sukta 86 intro and Rk 1
+**Progress note:** Done through printed p. 464. pp. 458-464: Rk 1 special topics, Rks 2-5 of sukta 86
