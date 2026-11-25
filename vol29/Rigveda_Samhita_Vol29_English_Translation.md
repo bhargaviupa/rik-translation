@@ -16570,6 +16570,208 @@ If devayāna is thus taken as the path along which the gods come for the oblatio
 
 Of these Ṛks, the devayāna described in the first half of the first Ṛk has two attributes. First it is amardhantaḥ (not injuring), and second vasubhiḥ iṣkṛtāsaḥ (prepared by splendours). By these two attributes the nature of the devayāna is described. These attributes tell that it is a path that is not injured and that it is full of splendour. In the second half of the second mantra, when Agni questions Mitra and Varuṇa, who among the gods has known the endless form of Agni, which is full of splendour and which has the form of the devayāna
 
+### Printed p. 564
+
+he asks; and in the third mantra Agni is prayed to make the devayāna, which carries the oblation to the gods, full of splendour.
+
+On these grounds the devayāna described in the Ṛk-saṃhitā is not merely a path for travelling. It may be said to be a path that is also fit to be travelled. The path of the Pitṛs is that which lacks these qualities and is opposed to it; this is known from the sentences of the Upaniṣads. Another question is whether the point stated in the Upaniṣads, that the ātman which has obtained fitness to travel by this devayāna does not, after reaching the world of Brahman, undergo return and come back to the earth, is also indicated in the sentences of the Ṛk-saṃhitā. That point can be understood clearly from the descriptions in the mantras cited below.
+
+परं मृत्यो अनु परेहि पंथां यस्ते स्व इततो देवयानात् । चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् ॥ (*paraṃ mṛtyo anu parehi paṃthāṃ yaste sva itato devayānāt | cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān ‖*)
+
+(Ṛ. Saṃ. 10-18-1)
+
+एतान्यग्ने नवतिं सहस्रा सं प्र यच्छ वृष्ण इंद्राय भागं । विद्वान् पथ ऋतुशो देवयानानप्यौलानं दिवि देवेषु धेहि ॥ (*etānyagne navatiṃ sahasrā saṃ pra yaccha vṛṣṇa iṃdrāya bhāgaṃ | vidvān patha ṛtuśo devayānānapyaulānaṃ divi deveṣu dhehi ‖*)
+
+(Ṛ. Saṃ. 10-98-11)
+
+विद्वा अग्ने वयुनानि क्षितीनां न्यानुषक्भुरुधो जीवसे धाः । अंतर्विद्वा अध्वनो देवयानानतंद्रो दूतो अभवो हविर्वाट् ॥ (*vidvā agne vayunāni kṣitīnāṃ nyānuṣakbhurudho jīvase dhāḥ | aṃtarvidvā adhvano devayānānataṃdro dūto abhavo havirvāṭ ‖*)
+
+(Ṛ. Saṃ. 1-2-7)
+
+Of these mantras, the first is a prayer addressed to Death. It is clear here that the path of Death is one thing and the path of devayāna another. By the sentence यः त्वे स्वः देवयानात् इतरः (*yaḥ tve svaḥ devayānāt itaraḥ*) it is described that the path of Death is different from devayāna. Therefore, since devayāna and Death are opposed, the meaning is suggested that all who travel by devayāna become free from death and reach the eternal world of Brahman.
+
+In the second mantra, addressing the Agni who knows the nature of devayāna, it is prayed that the man called Aulāna Śantanu be brought to the gods. The idea described elsewhere, that after death the ātman, entering within the flame of Agni, reaches the world of the gods, is indicated here. In the third mantra too this same point is clearly indicated.
+
+On these grounds it is understood that devayāna and pitṛyāṇa are different paths that carry the ātman after death. If these ideas are to be understood still more clearly, they can be understood in the respective contexts when the import of the words गातु (*gātu*),
+
+### Printed p. 565
+
+रजस् (*rajas*) and स्रुती (*srutī*) is explained. For example:
+
+द्वे स्तुती अशृणवं पित्यणामहु देवनामुत मर्त्यानां । ताभ्यामिदं विश्वमेजत्समेति यदंतरा पितरं मातरं च ॥ (*dve stutī aśṛṇavaṃ pityaṇāmahu devanāmuta martyānāṃ | tābhyāmidaṃ viśvamejatsameti yadaṃtarā pitaraṃ mātaraṃ ca ‖*)
+
+(Ṛ. Saṃ. 10-88-15)
+
+आ कृष्णेण रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च । हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् ॥ (*ā kṛṣṇeṇa rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca | hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan ‖*)
+
+(Ṛ. Saṃ. 1-35.-2)
+
+In mantras of this kind the difference between the two paths is shown. This matter will be explained still more clearly later, in the respective contexts. This same devayāna is also called in the Upaniṣads the path beginning with light. That for the virtuous who have reached the world of Brahman by this path after death there is no return, as is described in the sentences of the Bṛhadāraṇyaka Upaniṣad cited above, this point is stated in other Upaniṣads also.
+
+तत्पुरुषोऽमानवः स एनाब्रह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तंते ॥ (*tatpuruṣo 'mānavaḥ sa enābrahma gamayatyeṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavamāvartaṃ nāvartaṃte ‖*)
+
+(Chā. U. 4-15-5)
+
+सूर्यद्वारेण ते विरजाः प्रयांति यत्रामृतः सः पुरुषोऽह्यव्ययात्मा ॥ (*sūryadvāreṇa te virajāḥ prayāṃti yatrāmṛtaḥ saḥ puruṣo 'hyavyayātmā ‖*)
+
+(Mu. U. 2-11) **NOTE**
+
+Sentences of this kind, describing the door of the sun, praise the greatness of devayāna.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वे स॑मी॒चि बि॑भृत॒श्चरं॑तं शीर्ष॒तो जा॒तं मन॑सा॒ विमृ॑ष्टं।  
+> स प्र॒त्यज्वा॒ भुव॑नानि तस्था॒वप्र॑युच्छन्त॒रणि॒भ्राज॑मानः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वे इति । सविमाची इति संईची । बिभृतः । चरंतं । शीर्षतः । जातं । मनसा ।  
+> विमृष्टं ।  
+> सः । प्रतज् । विश्वा । भुवनानि । तस्थौ । अप्रयुच्छन् । त्ररणिः । भ्राजमानः ॥ १६ ॥
+
+### Printed p. 566
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समाची संगते द्वे द्यावापृथिव्यौ चरंतं गच्छंतं शीर्षतः शिरसो
+> जातमुत्पन्नं । तथा च निगमांतरं । उत मन्येऽहमेनमनयोर्हि शिरस्तोऽयं
+> प्रातर्जायत इति । यद्वा । सर्वशिरोभूतादादित्याज्ञातमित्यर्थः । मनसा ।
+> मन्यतिरर्चतिकर्मा । अर्चनीयया स्तुत्या विमृष्टं शोधितं संस्कृतमग्निं
+> बिभृतः । धारयतः । सोऽप्रयुच्छन्नप्रमाद्यंस्तरणिः क्षिप्रकारी भ्राजमानो दीप्यमानोऽग्निर्विश्वानि भुवनानि प्रत्यज्जभिमुखस्थौ । तिष्ठति । तथा च श्रूयते ।
+> तस्मात्सर्व एव मन्यंते मां प्रत्युदगादिति ॥
+
+##### Gist of the bhāṣya
+
+The two, heaven and earth, joined together, bear Agni, who moves and is born from the head. Another Nigama passage says: "I think this one is born from the head of these two, in the morning." Or else the sense is that he is born from the Āditya, who is the head of all. The word मनसा (*manasā*) comes from the root meaning worship: Agni is purified and refined by praise that is worthy of worship. Heaven and earth bear him. That Agni, unremitting, not neglectful, swift in action, shining, stands facing all the worlds. And so it is heard: "therefore all think that he has risen towards me."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समीची (*samīcī*)—joined together
+- द्वे (*dve*)—heaven and earth
+- चरंतं (*caraṃtaṃ*)—him whose nature is movement
+- शीर्षतः (*śīrṣataḥ*)—from the head
+- जातं (*jātaṃ*)—born
+- मनसा (*manasā*)—by praise
+- विमृष्टं (*vimṛṣṭaṃ*)—and refined, Agni
+- विभृतः (*vibhṛtaḥ*)—bear
+- सः (*saḥ*)—that same Agni
+- अप्रयुच्छन् (*aprayucchan*)—without sloth
+- तरणिः (*taraṇiḥ*)—swift-going
+- भ्राजमानः (*bhrājamānaḥ*)—shining
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—to all the worlds
+- प्रत्यज् (*pratyaj*)—facing
+- तस्थौ (*tasthau*)—has been established
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth, in mutual union, bear Agni, who is of the nature of movement, born from the head and refined by praise. That same Agni, without sloth in his work, swift-going and shining, is established facing all the worlds.
+
+##### English translation
+The associated two (heaven and earth) support (Agni) moving, born from the head, sanctified by praise; diligent, rapid, radiant, he appears in the presence of all beings.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्रा॒ वदे॑ते॒ अव॑रः॒ पर॑श्च यज॒न्योः॑ कत॒रो नौ॒ वि वे॑द ।  
+> आ शे॑कडा॒त्स॑ध॒मादं॒ सखा॑यो॒ नक्षं॑त य॒ज्ञं क इ॒दं वि  ॑
+> वोचत् ॥ १७ ॥
+
+### Printed p. 567
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत्र । वदेते इति । अवरः । परः । च । यज्ञस्योः । कतरः । नौ । वि । वेद ।  
+> आ । शेकुः । इत् । सध्वमादं । सखायः । नक्षंत । यज्ञं । कः । इदं । पि । वोचत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्र यस्मिन्कालेवरु पार्थिवोग्निर्दैव्यो होता परश्च मध्यमोः
+> वायुश्चोभौ वदेते विवादं कुर्वाते यज्ञन्योर्यज्ञस्य नेत्रोर्नावावयोर्मध्यॆ कतरो भूयिष्ठं यज्ञं वि वेद वेत्ति तत्र सखायः समानख्याना ऋत्विज
+> सधमादं यज्ञमा शेकुः । कर्तुं शक्नुवंति । तथा यज्ञं नक्षंत अश्नुवतेऽनुतिष्ठंति
+> च ये तेषां विदुषां : यज्ञमश्नुवानानां मध्यॆ को विद्वाननुष्ठाता वेदमस्य
+> विवादस्य निर्णयरूपं वाक्यं वि वोचत् । ब्रवीति । माध्यमिकमिममग्निं ब्रवीति ॥
+> तथा च यास्कः । यत्र विवदेते देव्या होतारावयं चाग्निरसौ च मध्यमः कतरो
+> नौ यज्ञे भूयो वेदेत्याशक्नुवंति तत्सहमदनं समानख्याना ऋत्विजस्तेषां
+> यज्ञं समश्नुवानानां को न इदं विनक्ष्यति । नि. ७-३० । इति ॥
+
+##### Gist of the bhāṣya
+
+When the terrestrial Agni, the divine hotṛ, who is the lower, and the one in the middle, Vāyu, who is the upper, both dispute, that is, quarrel, as to which of the two of us, the leaders of the sacrifice, knows the sacrifice more; then the friends, the priests of the same renown, are able to accomplish the sacrifice that is a common delight, and they attain it and carry it out. Among these learned ones who attain the sacrifice, which learned performer will pronounce the sentence that settles this dispute? He declares it of this Agni of the middle region. Yāska says accordingly (Ni. 7-30): where the two divine hotṛs dispute, this Agni and that middle one, which of the two of us knows more in the sacrifice; the priests of the same renown are able to accomplish that common delight; which of those who attain the sacrifice will declare this to us?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञन्नोः (*yajñannoḥ*)—of the two leaders of the sacrifice
+- नौ (*nau*)—among us
+- कतरः (*kataraḥ*)—who
+- वि वेद (*vi veda*)—is the greater knower, thus
+- यत्र (*yatra*)—when
+- अवरः (*avaraḥ*)—the terrestrial Agni
+- परश्च (*paraśca*)—and Vāyu of the middle region
+- वदेते (*vadete*)—speak in the form of a question, then
+- सखायः (*sakhāyaḥ*)—their friends, the priests
+- सधमादं (*sadhamādaṃ*)—the sacrifice
+- आ शेकुः (*ā śekuḥ*)—are able to carry out
+- यज्ञं नक्षंत (*yajñaṃ nakṣaṃta*)—also carry out the sacrifice (at the time of this sacrifice)
+- कः (*kaḥ*)—who
+- इदं (*idaṃ*)—the settlement of this dispute
+- विवोचत् (*vivocat*)—can declare, having known it
+
+##### भावार्थ (Bhāvārtha)
+
+When a dispute arose between the terrestrial Agni and the Agni of the middle region in the form of Vāyu, "Among us, the leaders of the sacrifice, who is the greater knower?", his friends, the priests, carry out the sacrifice with ability. At the time of this sacrifice, who can know and declare the settlement of this dispute?
+
+##### English translation
+When the lower and upper (fire) disputed " which of us twin leaders of sacrifice knows the work best ? " then the friends (the priests) were
+
+### Printed p. 568
+
+competent (to offer) sacrifice, they came to the sacrifice; who declares this ?
+
+##### विशेषविषयगळु (Special Topics)
+
+यत्र विवदेते देव्यौ होतारावयं चाग्निरसौ च मध्यमः कतरो नौ यज्ञे भूयो वेदेत्याशक्नुवंति सत्सहमदनं समानख्याना ऋत्विजस्तेषां यज्ञं समश्नुवानानां को न इदं विवक्ष्यतीति ॥ (*yatra vivadete devyau hotārāvayaṃ cāgnirasau ca madhyamaḥ kataro nau yajñe bhūyo vedetyāśaknuvaṃti satsahamadanaṃ samānakhyānā ṛtvijasteṣāṃ yajñaṃ samaśnuvānānāṃ ko na idaṃ vivakṣyatīti ‖*)
+
+(Ni. 7-30)
+
+The seer has praised with this Ṛk, accepting this Vaiśvānara Agni as the terrestrial Agni. Of the lower and the upper fires who know the matter of the sacrifice, who knows more? Who is capable of deciding and settling this matter?
+
+दैवौ होतारौ (*daivau hotārau*) means hotṛs who are of the nature of deities, the Agni named Hotṛ who invokes the gods in the sacrifice. Since the word होतारौ (*hotārau*) is here in the dual, the two deities are the terrestrial Agni (the sacrificial fire) established on the earth, and Vāyu or the lightning fire that stands in the middle region. Since both are only different forms of Agni, they are addressed by the dual word होतारौ (*hotārau*). अवरः परश्च (*avaraḥ paraśca*) means the lower and the upper. The lower is to be understood as the terrestrial Agni in the region of the earth, and परः (*paraḥ*) as the Agni (lightning) in the region of the middle. Which of these two has the greater understanding? Among the priests who take equal shares, that is the chief parts, in rites such as the sacrifice and who know the matter of the sacrifice well, which priest is capable of deciding this matter?
+
+दैव्या होतारा—देवसंबंधिनौ होतारौ। आयं च मध्यमस्थानश्च इत्युभौ (*daivyā hotārā—devasaṃbaṃdhinau hotārau| āyaṃ ca madhyamasthānaśca ityubhau*) **NOTE** Sāyaṇa has explained this as the two forms of Agni, the terrestrial Agni and the Agni of the atmosphere, both related to the gods and both hotṛs. Some modern scholars have given different meanings and have shown differences of opinion among themselves. The scholar Geldner has explained them as the hotṛ who is the sacrificer and his Agni, Haug as the hotṛ and the adhvaryu, Oldenberg as the hotṛ and his assistant Maitrāvaruṇa. None of these is reasonable.
+
+That the chief duty of these hotṛs is to perform the sacrifice is said in the Ṛks 1-13-8 and 1-188-7 by यज्ञं नो यक्षतामिमं (*yajñaṃ no yakṣatāmimaṃ*) and in the Ṛk 2-3-7 by देवान्यजंतावृतुथा (*devānyajaṃtāvṛtuthā*). This statement of duty must apply to the human hotṛ, and Agni is addressed figuratively.
+
+### Printed p. 569
+
+The explanation of Yāska concerning the word दैव होतारा (*daiva hotārā*) is:
+
+दैन्व्या होतारा दैव्या होतारावयं चाग्निरसौ च मध्यमः (*dainvyā hotārā daivyā hotārāvayaṃ cāgnirasau ca madhyamaḥ*)
+
+That is, this word indicates Agni. Since Agni invokes the gods, Agni is the mediator between the gods and men; an example has been given on this matter.
+
+दैन्व्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै । प्रचोदयंता विधथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशंता ॥ (*dainvyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai | pracodayaṃtā vidhatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśaṃtā ‖*)
+
+(Ṛ. Saṃ. 10-110-7)
+
+The commentary composed by Durgācārya on this is:
+
+यावेत् दैवौ होतारौ । देवेषु भवौ देव्यौ देवानेव देव्यौ । स्वार्थे एव तद्धितः । मनुष्यहोतारौ अपेक्ष्य । दैवौ होतारौ होतृमैत्तावरुणौ इति विशेषणं। होतारा होतारौ आह्वातारौ देवानां वाय्वग्नी। प्रथमा प्रथमौ मुख्यौ मनुष्यहोतारावपेक्ष्य । सुवाचा । सुवाचौ । प्रशस्तवाचौ । सुस्तुतौ । मिमाना यज्ञं यज्ञनिर्मातारौ नित्यं। मनुषः मनुष्यस्य यजध्यै यजनाय । प्रचोदयंता प्रचोदयमानौ । विदधेषु यज्ञेषु । कारू कर्तारौ । (*yāvet daivau hotārau | deveṣu bhavau devyau devāneva devyau | svārthe eva taddhitaḥ | manuṣyahotārau apekṣya | daivau hotārau hotṛmaittāvaruṇau iti viśeṣaṇaṃ| hotārā hotārau āhvātārau devānāṃ vāyvagnī| prathamā prathamau mukhyau manuṣyahotārāvapekṣya | suvācā | suvācau | praśastavācau | sustutau | mimānā yajñaṃ yajñanirmātārau nityaṃ| manuṣaḥ manuṣyasya yajadhyai yajanāya | pracodayaṃtā pracodayamānau | vidadheṣu yajñeṣu | kārū kartārau |*) इत्यादि (*ityādi*)
+
+The main meaning of this is: for the gods, Agni and Vāyu are well known as the hotṛs, and for men the priests called Hotṛ and Maitrāvaruṇa are the hotṛs. Since Agni, or Agni and Vāyu, standing between the gods and men, establish a connection between them, Agni is said to be the middle one. The name of the deities दैव्या होतारा (*daivyā hotārā*) is read, apart from the Āprī hymns, in only two Ṛks:
+
+त्वष्टारं वायुमृभवो य ओहते दैव्या होतारा उषसं स्वस्तये । (*tvaṣṭāraṃ vāyumṛbhavo ya ohate daivyā hotārā uṣasaṃ svastaye |*)
+
+(Ṛ. Saṃ. 10-65-10)
+
+दैव्या होतारा प्रथमा पुरोहित ऋतस्य पंथामन्वेमि साधुया । (*daivyā hotārā prathamā purohita ṛtasya paṃthāmanvemi sādhuyā |*)
+
+(Ṛ. Saṃ. 10-66-13)
+
+In the Ṛk 7-2-7 they are called जातावेदसा (*jātāvedasā*) and in the Ṛk 10-70-7 पुरोहितौ (*purohitau*). And since the words मिमाना यज्ञं मनुषो यजध्यै (*mimānā yajñaṃ manuṣo yajadhyai*), यज्ञेषु मानुषेसु कारू (*yajñeṣu mānuṣesu kārū*) and प्रचोदयंता विदथेषु कारू (*pracodayaṃtā vidatheṣu kārū*) in the Ṛks mentioned above say that these deities conduct the sacrifices that men perform, it is natural that they are called purohitas.
+
 ---
 
-**Progress note:** Done through printed p. 563. Sukta 88 Rk 12 bhasya to Rk 15, Special Topics on devayana/pitryana, pp. 557-563
+**Progress note:** Done through printed p. 569. Sukta 88 Special Topics devayana end, Rk 16-17, Special Topics on daivya hotarau, pp. 564-569
