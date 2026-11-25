@@ -10143,6 +10143,175 @@ O Agni, as robbers who roam in the forest and are ready to give up their very li
 ##### English translation
 As two daring robbers lurking in a forest seize (upon a traveller) with cords, (so the two hands seize upon the touchwood, with the ten
 
+### Printed p. 258
+fingers). This new praise, Agni, is addressed to you: attach yourself (to my sacrifice) with your radiant members, as they harness horses to a car.
+
+##### विशेषविषयगळु (Special Topics)
+
+Where he explains a simile, and in particular compares a lesser thing with a greater one, Yāska gives the first half of this Ṛk as an example and states its etymological explanation:
+अथापि कनीयसा ज्यायांसं । तनूत्यजीव तस्करा वनर्गूरशनाभिर्दशभिरभ्यधीतां । तनूत्यक् तनूत्यत्ता । वनर्गू वनगामिनौ । अग्निमंथनौ बाहू तस्कराभ्यामुपमिमाते । तस्करस्तत्करो भवति । करोति यत्पापकमिति नैरुक्ताः i तनोतीर्वा स्यात् संततकर्मा भवति । अहोरात्रकर्मा वा । रशनाभिर्दशभिरभ्यधीतां इति अभ्यधातां । ज्यायांस्तत्र गुणोऽभिप्रेतः ॥ (*athāpi kanīyasā jyāyāṃsaṃ | tanūtyajīva taskarā vanargūraśanābhirdaśabhirabhyadhītāṃ | tanūtyak tanūtyattā | vanargū vanagāminau | agnimaṃthanau bāhū taskarābhyāmupamimāte | taskarastatkaro bhavati | karoti yatpāpakamiti nairuktāḥ i tanotīrvā syāt saṃtatakarmā bhavati | ahorātrakarmā vā | raśanābhirdaśabhirabhyadhītāṃ iti abhyadhātāṃ | jyāyāṃstatra guṇo 'bhipretaḥ ‖*) (Ni. 3-14)
+In this passage the two hands of the officiating priests, at the time of churning the fire, are compared to two robbers who commit theft. The robbers who steal here should not be understood as the usual thieves who enter a house unseen at night and carry off wealth and the like. Some thieves of that kind exist. But since the word वनर्गू (*vanargū*) is used here, these are thieves of another kind. Such thieves live in the forest and trouble travellers going from village to village, that is, they bind them with ropes and rob them of all they possess. Such thieves, when they face a band of travellers stronger than themselves, often risk their lives. Therefore तनूत्यजा (*tanūtyajā*) is used here, to indicate that while stealing they fight with no regard even for their lives. And the word वनर्गू (*vanargū*) denotes those who lie in wait in the midst of the road in the forest, wayfarers. Since the words तनूत्यजा (*tanūtyajā*) and वनर्गू (*vanargū*) here are dual forms, two robbers are meant. The word रशनाभिः (*raśanābhiḥ*) has two meanings, "with ropes" and "with fingers". For the robbers it must be taken as "with ropes", and for the officiating priests as "fingers". So the main purport of the explanation is this: as two thieves who, careless of their lives, lie in wait in the forest to rob travellers of their wealth bind the travellers with ropes and with their fingers to seize the wealth, so in the sacrificial rite the two arms of the Adhvaryu, binding the upper churning-stick with a rope, churn with the ten fingers of his hands and produce Agni.
+
+### Printed p. 259
+Here, as to तस्कर (*taskara*): तत्करः करोति यत्पापकमिति नैरुक्ताः । (*tatkaraḥ karoti yatpāpakamiti nairuktāḥ |*) The meaning of the word तस्कर (*taskara*) for the etymologists is "one who does just that which is a sinful act". Or the word तस्कर (*taskara*) may be derived from the root तनु विस्तारे (*tanu vistāre*). In that case the word can be explained as one who steals always, that is, at night and by day. Yāska explains that in this illustration the noble act of churning fire is compared with the base act of the thief, and the meaning is thereby made clear.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॑ च ते जातवेदो॒ नम॑श्चे॒यं च॒ गीर् सद॒मिद्वर्ध॑निः  
+> भूत् ॥  
+> रक्षा॑ णो अग्ने॒ तन॑यानि तो॒का रक्षो॒त न॑ स्त॒न्वो॒३॒॑ ३ अप्र॑युच्छन् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्म । च । ते । जातवेदः । नमः । च । इयं । च । गीर् । सदं । इत् । वर्धनी । भूत् ।  
+> रक्ष । नः । अग्नेः । तनयानि तोका । रक्ष । उत । नः । तन्नः । अप्रयुच्छन् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीरामचंद्राय नमः ॥
+> उखासंभरणीयेष्टावग्नेर्ब्रह्मण्वतो याज्या ब्रह्म च त इत्येषा । सूत्रितं
+> च । ब्रह्म च ते जातवेदो नमश्च पुरूण्यग्ने पुरुधा त्वाया : आ. ४.१ । इति ॥
+> हे जातवेदो जातप्रज्ञाग्ने ते त्वदर्थं ब्रह्मास्माभिर्दीयमानं हवीरूपमन्नं वर्धनी वर्धनं भूत् । भवतु । तथा नमो नमस्कारश्च किंचेयमिदानींक्रियमाणैषा स्तुतिः सदमित् सद्येव वर्धनी वर्धयित्रि भूत् । भवतु । तस्माद्दे
+> अग्ने नोऽस्माकं तनयानि पुत्रांस्तोका पौत्रांश्च रक्ष । पालय । उतापि चाप्रयुच्छन्नप्रमाद्यंत्वं नोऽस्माकं तन्नोऽंगानि रक्ष ।
+> , प्रपदार्थ .
+> जातवेदः - जातवेदोरूपनाद ऎलै अग्निये ; ते-निन्नन्नुद्देशिसिद । ब्रह्म चहविस्सु । वर्धनी भूत्-पुष्टिसाधकवागलि । नमः-नमस्कारवू । इयं च-ई
+> स्तुतियू सदमित्-सर्वदा ! वर्धनी भूत्-पुष्टिसाधकवागलि । अग्ने-ऎलै अग्निये ।
+
+##### Gist of the bhāṣya
+
+In the Ukhāsambharaṇī offering, this is the yājyā verse for Agni Brahmaṇvat; he cites the sūtra ब्रह्म च ते जातवेदो नमश्च पुरूण्यग्ने पुरुधा त्वाया (*brahma ca te jātavedo namaśca purūṇyagne purudhā tvāyā*) (Ā. 4.1). O Jātavedas, Agni of born wisdom, may the "brahma", the food in the form of oblation given by us for you, be a means of strengthening. So also reverence; and this praise now being recited, may it at once be a strengthener. Therefore, Agni, protect our sons and grandsons; and unremiss, protect our bodies, our limbs.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who are Jātavedas
+- ते (*te*)—addressed to you
+- ब्रह्म च (*brahma ca*)—the oblation
+- वर्धनी भूत् (*vardhanī bhūt*)—may it be a means of nourishment
+- नमः (*namaḥ*)—the reverence
+- इयं च (*iyaṃ ca*)—and this praise
+- सदमित् (*sadamit*)—always
+- वर्धनी भूत् (*vardhanī bhūt*)—may it be a means of nourishment
+- अग्ने (*agne*)—O Agni
+
+### Printed p. 260
+- नः (*naḥ*)—our
+- तनयानि (*tanayāni*)—sons
+- तोका (*tokā*)—grandsons
+- रक्षिसु (*rakṣisu*)—protect
+- अंत (*aṃta*)—and
+- अप्रयुच्छन् (*aprayucchan*)—you who are ever watchful
+- नः (*naḥ*)—our
+- तन्न (*tanna*)—bodies
+- रक्षिसु (*rakṣisu*)—protect
+
+> नः—नम्म । तनयानि—पुत्ररन्नू । तोका—पौत्ररन्नू । रक्षिसु—रक्षिसु । अंत—मत्तु ।
+> अप्रयुच्छन्—सर्वदा जागरूकनाद नीनु । नः—नम्म । तन्न—शरीरगळन्नू । रक्षिसु.
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are Jātavedas, may the oblation offered to you be a means of nourishment. May our reverence and this praise always be a means of nourishment. O Agni, protect our sons and grandsons. Ever watchful, protect our bodies.
+
+##### English translation
+May this oblation, Jatavedas, this reverence, this praise, ever magnify you. Protect, Agni, our sons, our grandsons, and diligently defend our persons.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Ukhāsambharaṇa offering, in the homa made to the deity Agni Brahmaṇvat, this Ṛk ब्रह्म च ते (*brahma ca te*) is to be recited as the yājyā mantra; this is explained by the Āśvalāyana Śrauta Sūtra: ब्रह्म च ते जातवेदो नमश्च पुरुण्याग्ने पुरुधा त्वाया (*brahma ca te jātavedo namaśca puruṇyāgne purudhā tvāyā*) (Ā. 4-1).
+In this last Ṛk, which is the conclusion of the sūkta, praise is offered to Agni and he is prayed to cause our nourishment and to protect our sons, grandsons and ourselves.
+
+## Sūkta 5 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एकः समुद्र इति सप्तर्चं पंचमं सूक्तं । ऋष्याद्याः पूर्ववत् । विनियोगश्च । एक इत्यनुक्रांतं ॥
+
+##### Gist of the bhāṣya
+
+The fifth sūkta, एकः समुद्र (*ekaḥ samudra*), has seven Ṛks. Seer and the rest as before; the viniyoga too. It is cited in the Anukramaṇī as एक (*eka*).
+
+Anuvāda: this sūkta एकः समुद्रः (*ekaḥ samudraḥ*) is the fifth sūkta in the first anuvāka. It has seven Ṛks. Seer, deity and metre are the same as in the previous sūkta. The viniyoga is also as before. In the Anukramaṇī it is given as beginning with एकः (*ekaḥ*).
+
+### Printed p. 261
+Sūkta 5.
+Maṇḍala 10; Anuvāka 1; Sūkta 5.
+Aṣṭaka 7; Adhyāya 5; Varga 33.
+Number of Ṛks in the sūkta: 7.
+Ṛṣi: Trita Āptya.
+Deity: Agni.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एकः॑ समु॒द्रो ध॒रुणो॑ रयी॒णाम॒स्मद्धृ॒दो भूरि॑जन्मा॒ वि  ॑
+> चष्टे ॥  
+> सिष॒क्तूध॑र्नि॒ण्योरु॒पस्थ॒ उत्स॑स्य॒ मध्ये॒ निहि॑तं प॒दं वेः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकः । समुद्रः । धरुणः । रयाणां । अस्मत् । हृदः । भूरिजन्मा । वि । चष्टे ॥  
+> सिसक्ति । ऊधः । निण्योः । उपस्थे । उत्सस्य । मध्ये । निहितं । पदं । वेरिति वेः ॥ १॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रः यस्माद्दनास्युदकानि ना समुद्धवंतीति तादृशो रयाणां
+> धनानां धरुणो धारयितैकोऽसहायो भूरिजन्मा बहुविधजननो नानायज्ञॆष्वाहवनीयादिभावेन बहुजननः सोग्निरस्कत् ॥ सुपां सुलुगिति षष्ठ्या
+> लुक् ॥ अस्माकं हृदो हृदयान्यभिलषितानि वि चष्टे । विपश्यति । जानाति । उक्तं च ।
+> मनो वै देवा मनुष्यस्य जानंतीति । किंच निण्योः । अंतर्हितनामैतत् । अंतर्हितयोज्योतिस्तमोभ्यामाच्छादितयोः प्रातःसायंकालयोरुपस्थ उपस्थाने
+> समीपे वर्तमानमूधो रात्रिं सिषक्ति । सेवते उपजीवति । यद्वा । निण्योरंत.
+> र्हितस्यांतरिक्षस्य समीपे वर्तमानमूधो मेघं सेवते । अथ प्रत्यक्षः । हे अग्ने
+> उत्सस्योदकधारकस्य लोकस्य मध्यॆ पदमपां स्थानं निहितं । तन्नाध्यमिकां वाचं
+> वेः । गच्छ । यद्वा । उत्सस्य मेघस्य मध्यॆ निहितं पदं विद्युदाख्यं तत् स्वात्मतया
+> गच्छ ॥ वेः । वी गत्यादिसु । लजि सिपि रूपं । वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+The ocean (samudra) is so called because waters flow together to it; such is Agni, the sole supporter of riches, unaided, of many births, since he has many births in the various sacrifices as Āhavanīya and so on. He sees our hearts, our desires, knows them; as it is said, मनो वै देवा मनुष्यस्य जानंतीति (*mano vai devā manuṣyasya jānaṃtīti*). Further, निण्योः (*niṇyoḥ*) is a name for "hidden": of the morning and evening, hidden by light and darkness, he enjoys the night (ऊधः (*ūdhaḥ*)) lying near. Or, he enjoys the cloud lying near the hidden atmosphere. Now, in the direct address: O Agni, to the place of the waters, set in the midst of the उत्स (*utsa*), the water-holding world, go, reaching the middle-region speech. Or: go, as your own self, to the place called lightning, set in the midst of the cloud.
+
+### Printed p. 262
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रः (*samudraḥ*)—like the ocean
+- रयीणां (*rayīṇāṃ*)—for our riches
+- एकः धरुणः (*ekaḥ dharuṇaḥ*)—the unique supporter
+- भूरिजन्मा (*bhūrijanmā*)—Agni, who has many kinds of birth
+- अस्मत् (*asmat*)—our
+- हृदः (*hṛdaḥ*)—the desires in the heart
+- वि चष्टे (*vi caṣṭe*)—knows fully
+- निश्योः (*niśyoḥ*)—of morning and evening, covered by darkness
+- उपस्थे (*upasthe*)—lying near
+- ऊधः (*ūdhaḥ*)—the night
+- सिषक्ति (*siṣakti*)—enjoys
+- उत्सस्य (*utsasya*)—of the world that holds water
+- मध्यॆ (*madhyè*)—in the middle
+- निहितं (*nihitaṃ*)—established
+- पदं (*padaṃ*)—to the place
+- वेः (*veḥ*)—go
+
+##### भावार्थ (Bhāvārtha)
+
+Like the ocean, the support of wealth, Agni, the unique supporter of our riches, of many kinds of birth, fully knows the desires in our hearts. He enjoys the night, which lies near the morning and evening that are covered by darkness. O Agni, go to the place established in the midst of the water-holding world.
+
+##### English translation
+Agni, the sole capacious ocean of riches, who is of many births,, beholds our hearts; he waits on the cloud in the neighbourhood of the hidden (firmament); go, Agni, to your appointed place in the midst of the waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+समुद्रः—यस्माद्दनान्युदकानि ना समुद्रवंतीति तादृशः । (*samudraḥ—yasmāddanānyudakāni nā samudravaṃtīti tādṛśaḥ |*) Here it is explained that it is called "samudra" because it flows (is poured forth) with wealth or with water. As to how the ocean is related to wealth: according to the meaning of the lexicon रत्नाकरो जलनिधिः (*ratnākaro jalanidhiḥ*), the ocean is famed as the abode of many kinds of jewels.
+Since the word samudra is used in the Ṛgveda Saṃhitā in different senses, the Nirukta-kāras have included the word among the names of the atmosphere (Ni. 2-10). Afterwards they showed the difference between the terrestrial ocean and the ocean that is a synonym of the atmosphere. Concerning those who explain without knowing the difference between these two and so give room for doubt, he says:
+तत्र समुद्र इत्येत्पार्थिवेन समुद्रेण संदिह्यते । (*tatra samudra ityetpārthivena samudreṇa saṃdihyate |*) Many mistake the samudra that is a synonym of the atmosphere for the terrestrial ocean and so explain it (that is not right). Thus he shows the etymology of the word samudra.
+
+### Printed p. 263
+समुद्रः कस्मात्समुद्ध्रवंत्यस्मादापः समभिद्रवंत्येनमापः संमोदंतेs स्मिन् भूतानि समुदको भवति समुनत्तीति वा । (*samudraḥ kasmātsamuddhravaṃtyasmādāpaḥ samabhidravaṃtyenamāpaḥ saṃmodaṃtes smin bhūtāni samudako bhavati samunattīti vā |*) (Ni. 2-10)
+First, the root द्रु (*dru*), meaning "to move", together with the two prefixes सम् (*sam*) and उद् (*ud*), gives the sense "it flows welling upward"; or second, the same root द्रु (*dru*) with the prefixes सम् (*sam*) and अभि (*abhi*) gives the sense that the waters (of rivers) flow towards it; or the root मुद् (*mud*), meaning "to rejoice", with the prefix सम् (*sam*) gives the sense that aquatic creatures rejoice in it; or because it is a store of water; or the root उद् (*ud*), meaning "to wet", with the prefix सम् (*sam*) gives the sense "it makes wet". In these ways the word samudra is formed, and the etymology of the word is shown (Ni. 2-10). In this connection, to show the difference between the word samudra as a synonym of the atmosphere and the terrestrial ocean, he cites also a story.
+(Ni. 2.11)
+तयोर्विभागस्तत्रेतिहासमाचक्षते । देवापिश्चार्ष्टषेणः शंतनुश्च कौरव्या भ्रातरा बभूवतुः । स शंतनुः कनीयानभिषेजचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो जेष्ठंभ्रातरमंतरित्याभिषॆचितं तस्मा त्ते देवो न वर्षतीति । स शंतनुदेवापिं शिशिक्ष राज्येन । तमुनाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति तस्यैतद्वर्षकामसूक्तंतस्येषा भवति ॥ (*tayorvibhāgastatretihāsamācakṣate | devāpiścārṣṭaṣeṇaḥ śaṃtanuśca kauravyā bhrātarā babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣejacayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jeṣṭhaṃbhrātaramaṃtarityābhiṣècitaṃ tasmā tte devo na varṣatīti | sa śaṃtanudevāpiṃ śiśikṣa rājyena | tamunāca devāpiḥ purohitaste 'sāni yājayāni ca tveti tasyaitadvarṣakāmasūktaṃtasyeṣā bhavati ‖*)
+Of Devāpi and Śantanu, the two Kuru-line sons of Ṛṣṭiṣeṇa, the younger, Śantanu, had himself consecrated and became king of that realm. Devāpi went to the forest to practise austerities. Thereafter, for twelve years no rain fell in Śantanu's kingdom. The Brāhmaṇas then said to Śantanu: "Having sent your elder brother to the forest and become king yourself, you have committed a sinful act. Therefore the rain-god does not rain in your kingdom." Then, when Śantanu tried to have Devāpi consecrated king, Devāpi said, "I shall be your priest and perform the sacrifice for you," and he had the sacrifice performed for rain. Afterwards rain fell from the ocean in the upper region into the ocean in the lower region; thus showing the difference between the two oceans,
+
 ---
 
-**Progress note:** Done through printed p. 257. pp. 252-257 (batch API)
+**Progress note:** Done through printed p. 263. pp. 258-263 (batch API)
