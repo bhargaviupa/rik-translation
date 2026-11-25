@@ -14457,6 +14457,96 @@ In the past all the gods together wished to drink soma, and a dispute arose as t
 
 सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्जयावेति स नेत्यब्रवीदहमेवोर्ज्जेष्यामीति तृतीयं मेऽथोज्जयावेति (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojjayāveti sa netyabravīdahamevorjjeṣyāmīti tṛtīyaṃ me 'thojjayāveti*)
 
+### Printed p. 446
+
+सेति हैवाब्रवीदहमेवोज्जॆष्यामीशि तुरीयं मेऽथोज्ययावेति तथेशि तं तुरीयेऽत्यार्जत शत्रुरीयभागिंद्रोऽभवत्ति भाग्वायु: (*seti haivābravīdahamevojjèṣyāmīśi turīyaṃ me 'thojyayāveti tatheśi taṃ turīye 'tyārjata śatrurīyabhāgiṃdro 'bhavatti bhāgvāyu:*)
+
+Indra saw Vāyu running swiftly ahead of him and decided: "This Vāyu will run ahead of everyone and win. Somehow I too must run along with him and win." He used all his strength and ran close to Vāyu. Yet no sign appeared that he would leave Vāyu behind and go ahead. Then Indra said to Vāyu: "O Vāyu, the two of us are ahead of everyone. So let us regard ourselves both as having won, and let us share the first Soma-drinking between us: half for me, half for you. Thus let us work together and secure the victory." Hearing this, Vāyu said: "O Indra, I am at least a little ahead of you. So I alone will be the winner. The whole of the first Soma-drinking must come to me. I cannot give you half." Then Indra said: "Very well. Then I do not want half. Take two of the three parts, and give me only one part." Vāyu did not agree even to that, and said: "Whatever happens, I shall win. All of it will come to me; I am not willing to give you one part in three." Then Indra again entreated Vāyu: "I do not want even one part in three. Still less will do: if you give me one part in four, that is enough. Please agree to that." Vāyu said, "So be it," and agreed. Therefore in the Aindravāyava-graha (that is, when Indra and Vāyu drink Soma together) it was arranged that Indra should have one part and Vāyu three parts.
+
+शौ सहैवेंद्रवायू उदजयतां सह मित्रावरुण् सहार्श्विनौ त विषामेशे यथोज्जितं भक्त्वा इंद्रवाय्योः प्रथमोऽत मित्रामरुणयोरथाश्विषो॥ (*śau sahaiveṃdravāyū udajayatāṃ saha mitrāvaruṇ sahārśvinau ta viṣāmeśe yathojjitaṃ bhaktvā iṃdravāyyoḥ prathamo 'ta mitrāmaruṇayorathāśviṣo‖*)
+स एष इंद्रतुरियो ग्रहो गृह्यते यद्यंद्रवायवः ॥ (*sa eṣa iṃdraturiyo graho gṛhyate yadyaṃdravāyavaḥ ‖*)
+
+In this way Indra and Vāyu, working together, won the contest and were the first to reach the appointed place. Behind them Mitra and Varuṇa came and arrived. Behind them came the Aśvin deities. Therefore, among these deities, they became entitled to the Soma-drinking in the order of the places each obtained in the contest: first Indra and Vāyu, after them Mitra and Varuṇa, after them the Aśvins. Thus the order in which the deities drink Soma together came into use. Therefore in the Aindravāyava-graha Indra has only one part in four of the Soma-drinking.
+
+### Printed p. 447
+
+तदेतदृषिः पश्यन्नभ्यनूनाच नियुत्वा इंद्रसारथिरिति (*tadetadṛṣiḥ paśyannabhyanūnāca niyutvā iṃdrasārathiriti*)
+
+The seer, knowing by divine vision that Indra has one part in four in the Aindravāyava-graha, expressed this matter in the following Ṛk, that is in शतेना नो अभिष्टिभिर्नियुत्वा इंद्रसारथिः (*śatenā no abhiṣṭibhirniyutvā iṃdrasārathiḥ*) (Ṛ. Saṃ. 4.46-2), by the sentence नियुत्वा इंद्रसारथिः (*niyutvā iṃdrasārathiḥ*). Here, as in the Nirukta statement नियुतो वायोः (*niyuto vāyoḥ*) (Ni. 2-28), the horses called niyuta are well known as the vehicle of the god Vāyu. Therefore the word niyutvat points to a connection with Vāyu. In the Ṛk above, the word नियुत्वान् (*niyutvān*) indicates Indra together with Vāyu. Mantras such as अधा न युं नियुतः सश्चितस्वाः (*adhā na yuṃ niyutaḥ saścitasvāḥ*) (Tai. Brā. 2-8.1-1) support this. The word इंद्रसारथिः (*iṃdrasārathiḥ*) means Indra, who is the charioteer of Vāyu. From Indra's standing in the place of Vāyu's charioteer, it is indicated that Indra has only a fourth part in the first Soma-drinking.
+
+तस्माद्दाप्येतर्हि भरताः सत्वनां वित्तिं प्रयंति तुरिये हैव संग्रहीतारो वदंतेऽमुनैवानूकाशेन यदद इंद्रः सारथिरिव भूत्वो दजयत् ॥ (*tasmāddāpyetarhi bharatāḥ satvanāṃ vittiṃ prayaṃti turiye haiva saṃgrahītāro vadaṃte 'munaivānūkāśena yadada iṃdraḥ sārathiriva bhūtvo dajayat ‖*) (I. Bo, 9-25) **NOTE**
+
+The matter stated above is made clear by an example from worldly practice. Warriors in battle sit in chariots, win with the help of their charioteers, and seize the wealth and the like of their enemies. When they have seized it, they give one part of that wealth, that is, one part in four, to the charioteers who helped them. This practice is current in worldly dealings. In the same way, in this contest arranged by the deities, Indra was Vāyu's charioteer and Vāyu was the winner; so a fourth part of the first Soma-drinking obtained in the contest became Indra's share. The chief point is that Indra earned his fourth part as Vāyu's charioteer.
+
+**Indra's slaying of the Asura Varāha**
+
+There is an account that there was an Asura named Varāha and that Indra killed him. Viṣṇu also has a part in it. The history told in the Caraka-brāhmaṇa on this matter is set out here.
+
+विष्णुयज्ञः । स देवेभ्य आत्मानमंतरधात् । तमन्यदेवता नाविंदन्निंद्रस्ववेत् । स इंद्रमब्रवीत्को भवानिति । तमिंद्रः प्रत्यब्रवीदह (*viṣṇuyajñaḥ | sa devebhya ātmānamaṃtaradhāt | tamanyadevatā nāviṃdanniṃdrasvavet | sa iṃdramabravītko bhavāniti | tamiṃdraḥ pratyabravīdaha*)
+
+### Printed p. 448
+
+दुर्गाणामसुराणां च हंता भवांस्तु क इति । सोऽब्रवीदहं दुर्गादाहर्ता त्वं तु यदि दुर्गाणामसुराणां हंता ततोऽयं वराहोवाममुष एकविंश्याः पुरां पारेऽत्ममयानां वसति ततस्मिन्नसुराणां वसु वाममस्ति तमिमं जहीति ॥ तस्येंद्रस्ताः पुरो भित्वा हृदयमविध्यत् अधि तत्र यदासीत्तद्विष्णुराहरदिति । सोऽयमितिहासः ॥ (*durgāṇāmasurāṇāṃ ca haṃtā bhavāṃstu ka iti | so 'bravīdahaṃ durgādāhartā tvaṃ tu yadi durgāṇāmasurāṇāṃ haṃtā tato 'yaṃ varāhovāmamuṣa ekaviṃśyāḥ purāṃ pāre 'tmamayānāṃ vasati tatasminnasurāṇāṃ vasu vāmamasti tamimaṃ jahīti ‖ tasyeṃdrastāḥ puro bhitvā hṛdayamavidhyat adhi tatra yadāsīttadviṣṇurāharaditi | so 'yamitihāsaḥ ‖*)
+
+The chief sense of this is as follows. Viṣṇu is the sacrifice. That Viṣṇu, in the form of the sacrifice, once left the deities and stayed in a hidden place. The other deities did not know this; only Indra knew. When Indra went to the place where Viṣṇu was, Viṣṇu asked Indra who he was. In answer Indra said: "I am the destroyer of strongholds and of Asuras. But who are you?" Viṣṇu said: "I am the one who carries off from strongholds the wealth and the like belonging to the Asuras. Who are you? What work do you do?" he asked again, and then Viṣṇu said: "If you are, as you say, the destroyer of the strongholds and the Asuras, then there is an Asura named Varāha who has carried off wealth and the like and hidden it in himself. He lives beyond twenty-one forts, in a fort firmly built of stones. The Asuras have much wealth with him. So kill that Asura." Hearing this, Indra destroyed those cities of the Asuras and pierced the heart of the Asura Varāha. Then Viṣṇu brought from there all the wealth that the Asura had. This is the chief sense of this history. The commentator says that this matter is stated in the Ṛk mentioned above and also in the Ṛk
+
+अस्येदु मातुः सवनेषु सद्यो महः पितुं पपिवाञ्चार्वन्ना । मुषायद्विष्णुः पचतं सहीयान्विध्यद्वराहं तिरो अद्रिमस्ता (*asyedu mātuḥ savaneṣu sadyo mahaḥ pituṃ papivāñcārvannā | muṣāyadviṣṇuḥ pacataṃ sahīyānvidhyadvarāhaṃ tiro adrimastā*) (Ṛ. Saṃ. 1.6.7-2),
+
+and he explains the meaning by fitting the words of the present Ṛk, and of the quoted words, to the history above.
+
+अस्येदु मातुः इत्यत्र विष्णुना हे इंद्र त्वं दुर्गाणां हंतेत्यात्मानंकथॆयसि तर्हि वाममुषं वराहमसुरं जहीत्युक्तार्थो विध्यद्वराहुं इति पादेन प्रतिपादितः ॥ (*asyedu mātuḥ ityatra viṣṇunā he iṃdra tvaṃ durgāṇāṃ haṃtetyātmānaṃkathèyasi tarhi vāmamuṣaṃ varāhamasuraṃ jahītyuktārtho vidhyadvarāhuṃ iti pādena pratipāditaḥ ‖*)
+
+The statement made by Viṣṇu in the history above — "O Indra, you claim to be the destroyer of strongholds and of Asuras. Then kill the Asura named Varāha, who has carried off wealth and the like and hidden it in himself" — is stated in the last pāda of the Ṛk quoted above, अस्येदु मातुः (*asyedu mātuḥ*), in the words विद्यद्वराहं शिरो अद्रिमस्ता (*vidyadvarāhaṃ śiro adrimastā*).
+
+### Printed p. 449
+
+इंद्रेण च विष्णो त्वं दुर्गादाहर्तेति ब्रूषे मया पुराणि जितान्यसुरश्च घातितस्तस्य वामं वस्वानयेत्युक्तो विष्णुमूर्तिस्तस्य वराहासुरस्य धनं मुमोष । सोऽर्थं मुषायुद्विष्णुः पचतं सहीयान् इति पादेन सूचितं ॥ (*iṃdreṇa ca viṣṇo tvaṃ durgādāharteti brūṣe mayā purāṇi jitānyasuraśca ghātitastasya vāmaṃ vasvānayetyukto viṣṇumūrtistasya varāhāsurasya dhanaṃ mumoṣa | so 'rthaṃ muṣāyudviṣṇuḥ pacataṃ sahīyān iti pādena sūcitaṃ ‖*)
+
+And Indra said to Viṣṇu: "O Viṣṇu, you claimed to be the one who brings the wealth and the like of the Asuras from their strongholds. Now I have conquered many enemy cities and killed the Asura. Bring the wealth that is with that Asura." Viṣṇu agreed to this and carried off and brought the wealth that was with the Asura Varāha. This account is made plain by the pāda of the quoted Ṛk, मुषायुद्विष्णुः पचतं सहीयान् (*muṣāyudviṣṇuḥ pacataṃ sahīyān*).
+
+स किं पुनर्मुषितवानिति तदत्रोच्यते । विश्वेत्ता इति । हे इंद्र त्वेषितस्त्वया प्रेरितो विष्णुर्यज्ञरूपी । त्वेषितस्त्वं दुर्गादाहार्ता किल तर्हि त्वं तस्य धनान्याहरेति त्वया प्रेरितः सन्नुरुक्रमो भूत्वा विश्वेत्ता यानि च तत्र स्थितानि तानि सर्वाण्याभरत् । अभरत् । कानि तानीति । शतं महिषानपरिमितान् प्रशस्तान् पदार्थान् तेषां वाहनरूपान् महिषान्वा क्षीरपाक मोदनं च पक्वमात्रमेवौदनं चाभरत् ॥ (*sa kiṃ punarmuṣitavāniti tadatrocyate | viśvettā iti | he iṃdra tveṣitastvayā prerito viṣṇuryajñarūpī | tveṣitastvaṃ durgādāhārtā kila tarhi tvaṃ tasya dhanānyāhareti tvayā preritaḥ sannurukramo bhūtvā viśvettā yāni ca tatra sthitāni tāni sarvāṇyābharat | abharat | kāni tānīti | śataṃ mahiṣānaparimitān praśastān padārthān teṣāṃ vāhanarūpān mahiṣānvā kṣīrapāka modanaṃ ca pakvamātramevaudanaṃ cābharat ‖*)
+
+It has been said that Viṣṇu again carried off many more things. The details of this are set out fully in the present Ṛk, विश्वेत्ता (*viśvettā*). O Indra, you said to Viṣṇu, who is the sacrifice: "O Viṣṇu, you claimed to be the one who carries off wealth and the like from the strongholds of the Asuras. Then bring the wealth and the like that is with this Asura Varāha." As soon as he was urged by you (Indra), Viṣṇu agreed, "So be it," went quickly to the city of the Asura, and carried off and brought all the wealth and the like that was with the Asura, that is, whatever things he had been told to bring. What were those things that Viṣṇu brought? The most excellent and countless things such as wealth, the buffaloes and other animals that carry them, and cooked foods such as rice boiled in milk: all of these he carried off and brought, as Indra had said. This detail is clearly indicated in the present Ṛk.
+
+विध्यद्वराहं इत्यत्रोक्तोऽर्थश्च चरमपादेनोच्यते । इंद्रस्तु वराहारं स्वीकृतासुरसर्वस्वं वराहरूपिणं वैमुषमेमुषनामानमथवैमुषं धनानामामोषकं वराहमसुरं हृदयेऽविध्यदिति शेषः ॥ (*vidhyadvarāhaṃ ityatrokto 'rthaśca caramapādenocyate | iṃdrastu varāhāraṃ svīkṛtāsurasarvasvaṃ varāharūpiṇaṃ vaimuṣamemuṣanāmānamathavaimuṣaṃ dhanānāmāmoṣakaṃ varāhamasuraṃ hṛdaye 'vidhyaditi śeṣaḥ ‖*)
+
+### Printed p. 450
+
+Now he explains the meaning of the last pāda of the present Ṛk, विध्यद्वराहमिंद्र एमुषं (*vidhyadvarāhamiṃdra emuṣaṃ*). This Asura named Varāha, being in the form of a varāha (boar), had carried off and kept much wealth from many. So it is customary to call him एमुषं (*emuṣaṃ*), that is धनानामामोषकं (*dhanānāmāmoṣakaṃ*), "the one who carries off wealth." Indra, with his own power and might, pierced the chest of such an Asura, Ēmuṣa in the form of a boar, and killed him. This is the sense set out in the last pāda of the present Ṛk.
+
+The account of this matter is given in the same way in the Taittirīya-saṃhitā of the Kṛṣṇa Yajurveda:
+
+यज्ञो देवेभ्यो निलायत विष्णू रूपं कृत्वा स पृथिवीं प्राविशत्तं देवा हस्तान्त्सग्ं रभ्यैच्छन्तमिंद्र उपर्युपर्यत्य क्रामत्सोऽब्रवीत्कोमायमुपर्युपर्यत्यक्रमादित्यहं दुर्गे हंतेत्यथ कस्य मित्यहं दुर्गादाहर्तेति सोऽब्रवीद्दुर्गे वै हंतावोचथावरादोऽयं नाममोषः सप्तानां गिरीणां परस्ताद्वित्तं वेद्यमसुराणां बिभर्ति तं जहि यदि दुर्गे हंतासीति सदर्भपुंजीलमुदृह्य सप्तगिरीन् भित्वा तमहन्सोऽब्रवीद्दुर्गाद्वा आहर्ता वोचथा एतमाहरेति तमेभ्यो यज्ञ एव यज्ञमाहरदत्तद्वित्तं वेध्यमसुराणामविदंत तदेकं वेद्यै वेदित्वं ॥ (*yajño devebhyo nilāyata viṣṇū rūpaṃ kṛtvā sa pṛthivīṃ prāviśattaṃ devā hastāntsagṃ rabhyaicchantamiṃdra uparyuparyatya krāmatso 'bravītkomāyamuparyuparyatyakramādityahaṃ durge haṃtetyatha kasya mityahaṃ durgādāharteti so 'bravīddurge vai haṃtāvocathāvarādo 'yaṃ nāmamoṣaḥ saptānāṃ girīṇāṃ parastādvittaṃ vedyamasurāṇāṃ bibharti taṃ jahi yadi durge haṃtāsīti sadarbhapuṃjīlamudṛhya saptagirīn bhitvā tamahanso 'bravīddurgādvā āhartā vocathā etamāhareti tamebhyo yajña eva yajñamāharadattadvittaṃ vedhyamasurāṇāmavidaṃta tadekaṃ vedyai veditvaṃ ‖*) (Tai. Saṃ. 6-2-4,23)
+
+A history is told in the Yajurveda to explain how the sacrificial altar came to be called vedi.
+
+In former times, for some reason, the sacrifice took the form of Viṣṇu, left the deities and went away. Then that Viṣṇu, in the form of the sacrifice, entered the earth and hid himself so that no one knew. The deities, not seeing him, held one another's hands and searched everywhere, but did not find the place where Viṣṇu was. Then Indra was passing over the region where Viṣṇu was hidden, and Viṣṇu below said: "Who is it that passes over this place where I am?" Hearing this, Indra asked: "I am the hero who strikes and destroys the strongholds of the Asuras. But who are you?" To this Viṣṇu replied: "I am the one who brings the wealth and the like that is there, after the strongholds and so on of the Asuras are destroyed." And addressing Indra, he said: "O man, if you are, as you claim, the destroyer of enemy cities,
+
+### Printed p. 451
+
+then from here, beyond seven mountains, there is an Asura named Varāha. He has carried off the wealth and the like of the Asuras and keeps it inside his strong fort. If you have, as you claim, the power to destroy the strongholds of the Asuras, strike and destroy that Asura Varāha. Only then will your power be known." Hearing this, Indra took a bunch of darbha grass that was near, made it his weapon, split the seven impenetrable mountains, and struck and killed the Asura Varāha. Then he said to Viṣṇu: "O man, as you said, I have split the seven mountains and killed the Asura who was there. By this my strength and capacity have become clear. You said that you are the one who brings the wealth and the like from the strongholds of the Asuras destroyed before. Now, as you claimed, bring the wealth and the things that are there; then your power will be manifest." Viṣṇu said, "So be it," and in the very form of the sacrifice carried off the wealth and the things that were with that Asura and brought them near the deities. Because in this way the deities obtained the Asuras' wealth through the sacrifice, the place where the sacrifice is performed came to be named vedi. This is the chief sense of this history.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनीषिण इति दशर्चं द्वादशं सूक्तं वैरूपस्याष्ट्रादंष्ट्रस्यार्षं त्रैष्टुभमैंद्रं । तथा चानुक्रम्यते । मनीषिणो दशाष्ट्रादंष्ट्र इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the sūkta मनीषिणः (*manīṣiṇaḥ*) is a twelfth sūkta of ten Ṛks. Its seer is Aṣṭrādaṃṣṭra of the Vairūpa lineage, its deity is Indra, and its metre is Triṣṭubh. He cites the Anukramaṇī: मनीषिणो दशाष्ट्रादंष्ट्र इति (*manīṣiṇo daśāṣṭrādaṃṣṭra iti*). The viniyoga has already been stated.
+
+##### Anuvāda
+
+This sūkta मनीषिणः (*manīṣiṇaḥ*) is the twelfth sūkta in the ninth anuvāka. It has ten Ṛks. Its seer is Aṣṭrādaṃṣṭra of the lineage of the sage Virūpa; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇī says मनीषिणो दशाष्ट्रादंष्ट्रः (*manīṣiṇo daśāṣṭrādaṃṣṭraḥ*). The viniyoga has already been stated.
+
+Sūkta 111. Maṇḍala 10; Anuvāka 9; Sūkta 111. Aṣṭaka 8; Adhyāya 6; Vargas 10, 11. Number of Ṛks in the sūkta: 10. Seer: Aṣṭādaṃṣṭra. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनी॑षिणः॒ प्र भ॑रध्वं मनी॒षां यथा॑यथा म॒तयः॒ संति॑  ॒
+> नृणां ।
+
 ---
 
-**Progress note:** Done through printed p. 445. pp. 440-445 (batch API)
+**Progress note:** Done through printed p. 451. pp. 446-451 (batch API)
