@@ -10354,6 +10354,227 @@ O Aśvins, when you went to ask Savitṛ, by what means did you go? That is stat
 - पृच्छमानौ (*pṛcchamānau*)—for the sake of asking
 - त्रिचक्रेण (*tricakreṇa*)—with three wheels
 
+### Printed p. 388
+
+in a chariot that has them.
+
+- अयातं (*ayātaṃ*)—you went
+- तत् (*tat*)—then
+- वां (*vāṃ*)—your wish
+- विश्वे देवाः (*viśve devāḥ*)—all the deities
+- अन्वजानन् (*anvajānan*)—approved
+- पुत्रः (*putraḥ*)—your son
+- पूषा (*pūṣā*)—the god Pūṣan
+- पितरौ (*pitarau*)—as parents
+- अवृणीत (*avṛṇīta*)—chose you
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, when you went in the chariot with three wheels to ask for the marriage of Sūryā, then all the deities approved your wish. Your son, the god Pūṣan, chose you as his parents.
+
+##### English translation
+W e n, Aswins, you came in your three-wheeled car soliciting the marriage of Surya, then all the gods assented, and Pushan (your) son chose (you as) his parents.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk also there is a description of the chariot of the Aśvin deities. The import of epithets such as त्रिचक्रः (*tricakraḥ*), त्रिवंधुरः (*trivaṃdhuraḥ*) and मनसः जवीयन् (*manasaḥ javīyan*) has been explained earlier. Here it must be examined in what way the epithets त्रिचक्रः (*tricakraḥ*) and त्रिवंधुरः (*trivaṃdhuraḥ*) show the all-pervading nature of the Aśvin deities. Just as the pervasiveness of Viṣṇu is known from sentences such as त्रिषु विक्रमणेषु (*triṣu vikramaṇeṣu*), and the all-pervading nature of Agni from sentences such as त्रीणि जाना परिभूषंति (*trīṇi jānā paribhūṣaṃti*), so the nature of the Aśvin deities is known from epithets such as त्रिचक्रः (*tricakraḥ*). It is noteworthy that the descriptions of Agni, Viṣṇu, Savitṛ and the Aśvin deities all set out one and the same principle, and in all contexts set out a feature common to all these deities. The English scholar Hopkins, explaining this point, has stated as follows:
+
+A comparison with the abodes of other Vedic Deities who are said to traverse the whole Universe like Vishnu conforms the same view. One of these deities is सवितृ (*savitṛ*). The second deity that traverses or measures the Universc is अग्नि (*agni*). He has three stations. His light is spoken of as three-fold. Although these three stations do not seem to be always conceived alike, yet, one of them at any rate can be clearly identified with the third step of Vishnu. Agni sometimes represents the Sun in the Rig-Veda and Vishnu is also the same
+### Printed p. 389
+
+Sun under a different name and the third or the hidden abode of Agni can therefore, be easily recognised as identical in character. The third Deity that traverses the Universe is the Aswins to whom the epithet परिज्मन् (*parijman*) is applied several times in the Rig-Veda. The Aswins are said to have three stations and their chariot which is to go over both the worlds alike has three wheels one of which is represented as deposited in a cave or a secret place like the third step of Vishnu which is beyond the ken of mortals. This coincidence between the third stations of three different world traversing Gods cannot be treated as accidental. (J. A. O. S. Vol. 15. p. CXLIX to CL.)
+
+Two points are clearly understood from the above sentences. First: 1. The three worlds, the earth, the heaven and the atmosphere, are the abodes of Agni, Viṣṇu and the Aśvin deities. Second: 2. All these three deities have three steps, and the third step of every one of these deities spans a world that lies beyond the reach of man. Both these points are noteworthy. If only some of the sentences that describe the first point are examined:
+
+प्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्टाः । यस्कोरुषु त्रिषु विक्रमणेष्वधिक्षियंति भुवनानि विश्वा ॥ (*pra tadviṣṇuḥ stavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭāḥ | yaskoruṣu triṣu vikramaṇeṣvadhikṣiyaṃti bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 1-154-2)
+
+यस्य त्री पूर्णा मधुना पदान्मक्षीयमाणा स्वधया मदंति । य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा ॥ (*yasya trī pūrṇā madhunā padānmakṣīyamāṇā svadhayā madaṃti | ya u tridhātu pṛthivīmuta dyāmeko dādhāra bhuvanāni viśvā ‖*) (Ṛ. Saṃ. 1-154-4)
+
+श्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्पु । पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्टु ॥ (*śrīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamappu | pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭu ‖*) (Ṛ. Saṃ. 1.95.3)
+
+अग्निस्त्रीणि त्रिधातून्या क्षेति विदथा कविः । स त्रेरेकादशा इह यक्षच्च पिप्रयच्चि नो विप्रो दूतः परिष्कृते नभंतामन्यके समे ॥ (*agnistrīṇi tridhātūnyā kṣeti vidathā kaviḥ | sa trerekādaśā iha yakṣacca piprayacci no vipro dūtaḥ pariṣkṛte nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8 39-9)
+
+### Printed p. 390
+
+श्रीणि पदान्यश्विनोराविः सांति गुहा परः । (*śrīṇi padānyaśvinorāviḥ sāṃti guhā paraḥ |*) (Ṛ. Saṃ. 8 la-23) **NOTE**
+
+कवी ऋतस्य पत्मभिरर्वाग्जीवेभ्यस्परि ॥ (*kavī ṛtasya patmabhirarvāgjīvebhyaspari ‖*) (Ṛ. Saṃ. 8 8-23)
+
+Of these Ṛks, the first two describe the pervasiveness of Viṣṇu. Accordingly, in the casts of Viṣṇu's steps, which are exceedingly wide and three in number, all created beings abide and stand. The three step-casts of Viṣṇu, filled with sweet nectar and imperishable, delight the people who depend on them with the gift of pure food. And the same Viṣṇu is described, in the account of the pervasiveness of his three steps, as holding up all the fourteen worlds, the seven below and the seven above, as though joined with the three elements, earth, water and fire. In the third and fourth Ṛks the nature of Agni is stated. Agni has three birthplaces: one in the sea in the form of the submarine fire, one in the heaven in the form of the Sun, and one in the atmosphere in the form of lightning; and it is described that this same Agni has overspread the three elements, that is, that Agni pervades the three worlds. In the same way, in the fifth Ṛk there is a description of the three steps of the Aśvin deities, and, just as the abodes of Viṣṇu and Agni are described,
+
+इदं हि वां प्रदिवि स्थानमोक इमे गृहा अश्विनेदं दुरोणं । आ नो दिवो बृहतः वर्वतादाद्भ्यो यातमिषमूर्जं वहंता ॥ (*idaṃ hi vāṃ pradivi sthānamoka ime gṛhā aśvinedaṃ duroṇaṃ | ā no divo bṛhataḥ varvatādādbhyo yātamiṣamūrjaṃ vahaṃtā ‖*) (Ṛ. Saṃ. 5-76-4)
+
+here too the three worlds, the earth, the atmosphere and the heaven, are described as abodes of the Aśvin deities as well. One more point must also be noticed in these descriptions. In the Ṛk 1-154-4 that describes the steps of Viṣṇu, in the Ṛk 8-39.9 that describes the pervasiveness of Agni, and in the present Ṛk (1-183-1) that describes the passage of the chariot of the Aśvin deities, the word त्रिधातु (*tridhātu*) is a word that indicates the common nature of these three deities. Secondly, the description that the third step (or station) of all of them lies in a secret place beyond reach shows the common nature that belongs to all.
+
+विष्णुरित्था परममस्य विद्वाञ्चातो बृहन्नभि पाति तृतीयं । आसा यदस्य पयो अक्रत स्वं सचेतसो आभ्यर्चंत्यत्र ॥ (*viṣṇuritthā paramamasya vidvāñcāto bṛhannabhi pāti tṛtīyaṃ | āsā yadasya payo akrata svaṃ sacetaso ābhyarcaṃtyatra ‖*) (Ṛ. Saṃ. 10-1-3)
+
+क इमं वो निण्यमा चिकेश वत्सो मात्वर्जनयत स्वधाभिः । (*ka imaṃ vo niṇyamā cikeśa vatso mātvarjanayata svadhābhiḥ |*) (Ṛ. Saṃ. 1-95-4)
+
+### Printed p. 391
+
+द्वे इदस्य क्रमणे स्वर्दृशोऽभिख्याय मर्त्यो भुरण्यति । तृतीयमस्य नकिरा दधर्षति वयश्चन पतयंतः पतत्रिणः ॥ (*dve idasya kramaṇe svardṛśo 'bhikhyāya martyo bhuraṇyati | tṛtīyamasya nakirā dadharṣati vayaścana patayaṃtaḥ patatriṇaḥ ‖*) (Ṛ. Saṃ. 1-155-5)
+
+In these Ṛks and others it is stated that the third station of Agni and the encompassing by the third step of Viṣṇu cannot be known by any man. As it is said, "Man knows, by praising them, only the earth and the atmosphere, the two worlds on which Viṣṇu, who gazes at the heaven, sets his two steps. No man can ever know the world on which this Viṣṇu sets his third step," so also the motion of the three-wheeled chariot of the Aśvin deities, and its movement beyond reach, are stated.
+
+यदयातं शुभस्पती वरेयं सूर्यामुप । कैकं चक्रं वामासीत्त्व देष्ट्राय तस्थथुः ॥ द्वे ते चक्रे सूर्ये ब्रह्माण ऋतथा विदुः । अथैकं चक्रं यद्दुहा तदद्धातय इद्दिदुः ॥ (*yadayātaṃ śubhaspatī vareyaṃ sūryāmupa | kaikaṃ cakraṃ vāmāsīttva deṣṭrāya tasthathuḥ ‖ dve te cakre sūrye brahmāṇa ṛtathā viduḥ | athaikaṃ cakraṃ yadduhā tadaddhātaya iddiduḥ ‖*) (Ṛ. Saṃ. 10-15-85, 16) **NOTE**
+
+Here it is described that of the three wheels of the chariot of the Aśvin deities one is visible to no one and is known only to the seers who have the power of vision. In this way, in the description of their extraordinary nature, a common character of the three deities is shown in two main points. It has been stated all along before that the three deities are also of the nature of the Āditya, the Sun. In the epithets त्रिचक्रः (*tricakraḥ*), त्रिबर्हिः (*tribarhiḥ*), त्रिषधस्थः (*triṣadhasthaḥ*), त्रिवंधुरः (*trivaṃdhuraḥ*), त्रिविक्रमः (*trivikramaḥ*) and so on, a symbolic meaning is indicated. The same matter is stated in the present Ṛk too. And since, as said above, their all-pervading nature is conveyed by the word त्रिचक्र (*tricakra*), the meaning of the word त्रिचक्र (*tricakra*) is to be understood.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदया॑शं शुभस्पती वरे॒यं सू॒र्यमुप॑ ।  
+> क्वैकं॑ च॒क्रं ना॑मासी॒त्त्व॑ दे॒ष्टाय॑ तस्थथुः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अयातं । शुभः । पती इति । वरेऽयं । सूर्यां । उप ।  
+> क्व । एकं । चक्रं । नां । आसीत् । क्व । देष्ट्राय । तस्थथुः ॥ १५ ॥
+
+### Printed p. 392
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुभस्पती उदकस्य स्वामिनौ यद्यावयातं अगच्छतं । कं प्रति । वरेयं
+> वरणीयायाः सूर्यायाः संबंधिनं वरैर्या९चितव्यं वा । सवितारमित्यर्थः ।
+> किमर्थ० । सूर्यामुप गंतुं । वां भवतोः संप्रति दृश्यमानविदमेकं चक्रं
+> क्वासीत्पुरा । क्व वां युवां देष्ट्राय दानाय प्रवृत्तौ तस्थथुरित्यश्विन् नोर्निवासं
+> पृच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Śubhaspatī, lords of water, when you went, to whom did you go? To the one to be chosen, that is, to the one who is the relative of Sūryā, the desirable bride, and who is to be approached by suitors with requests: that is, to Savitṛ. For what purpose? To go to Sūryā. Where was this one wheel of yours, which is seen now, formerly? And where did you two stand, engaged in giving, that is, in the gift? Thus the Aśvins' abode is asked.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभस्पती (*śubhaspatī*)—O Aśvin deities, protectors of water
+- यत् (*yat*)—when
+- सूर्यां उप (*sūryāṃ upa*)—to obtain Sūryā
+- वरेयं (*vareyaṃ*)—to Savitṛ, who gives her away
+- आयातं (*āyātaṃ*)—you went, then
+- वां (*vāṃ*)—of your chariot
+- एकं चक्रं (*ekaṃ cakraṃ*)—the one wheel that is seen now
+- क्व आसीत् (*kva āsīt*)—where was it
+- देष्ट्राय (*deṣṭrāya*)—you who were engaged in giving
+- क्व (*kva*)—where
+- तस्थथु (*tasthathu*)—were you standing
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, protectors of water, when you went to Savitṛ, who gives away Sūryā, to obtain her, where was the wheel of your chariot that is now seen? Where were you standing, engaged in giving?
+
+##### English translation
+When, lords of water, you came to the giver-away (to get) Surya, where was the one wheel of your car, where did you stand to make the gift ?
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्वे ते॑ च॒क्रे सू॑र्ये ब्र॒ह्माण॑ ऋतु॒था वि॑दुः ।  
+> अथैकं॑ च॒क्रं यद्गुहा॒ तद॑द्धा॒तय॒ इद्दि॑दुः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्वे इति । ते । चक्रे इति । सूर्ये । ब्रह्माणः । ऋतुथा । विदुः ।  
+> अथ । एकं । चक्रं । यत् । गुहा । तत् । अद्धातयः । इत् । विदुः ॥ १६ ॥
+
+### Printed p. 393
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ स्वयमेव स्मात्मानं प्रति सूर्या वदति । हे सूर्ये ते तव द्वे चक्रे
+> प्रज्ञाते पुरा दृष्टे द्वे एव चंद्रसूर्यात्मके ऋतुधर्तुषु विनिर्दिष्टे चक्रे
+> ब्रह्माणो ब्राह्मणा विदुः । अथैकं चक्रं तृतीयं संवत्सरात्मकं गुहा गुहायां
+> निहितं यदस्ति तदद्धातय इत् । एतन्मेधाविनामसु पठितं । मेधाविन एव विदुः ।
+> ज्ञानंति ॥
+
+##### Gist of the bhāṣya
+
+Now Sūryā herself speaks, addressing herself **NOTE**. O Sūryā, your two wheels, known and seen before, being only two, of the nature of the moon and the sun, specified with regard to the seasons, the Brāhmaṇas know. Then the one wheel, the third, of the nature of the year, which lies hidden in a cave: that wheel only the अद्धातयः (*addhātayaḥ*) know. This word is read among the names of the wise; only the wise know it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्ये (*sūrye*)—O goddess Sūryā
+- ते (*te*)—of your chariot
+- द्वे चक्रे (*dve cakre*)—the two wheels
+- ऋतुथा (*ṛtuthā*)—in the respective specified seasons
+- ब्रह्माणः (*brahmāṇaḥ*)—the knowers of the mantras
+- विदुः (*viduḥ*)—have known
+- अथ (*atha*)—and moreover
+- यत् एकं चक्रं (*yat ekaṃ cakraṃ*)—the one wheel which
+- गुहा (*guhā*)—is secret
+- तत् (*tat*)—that
+- अद्धातय इत् (*addhātaya it*)—only the wise
+- विदुः (*viduḥ*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Sūryā, the knowers of the mantras have known the two wheels of your chariot in the respective specified seasons. And the nature of your one wheel, which lies hidden in secret, only the wise know.
+
+##### English translation
+Surya, the Brahmans know your two chariot wheels in their season ; the single wheel that is concealed, the sages know it also.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सू॒र्यायै॑ दे॒वेभ्यो॑ मि॒त्राय॒ वरु॑णाय च ।  
+> ये भू॒तस्य॒ प्रचे॑तस इ॒दं तेभ्यो॑ऽकरं॒ नमः॑ ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूर्यायै । देवेभ्यः । मित्राय । वरुणाय । च ।  
+> ये ! भूतस्य । प्रचेतसः । इदं । तेभ्यः । अकरं । नमः ॥ १७ ॥
+
+### Printed p. 394
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यायै सूर्यस्य पत्नै देवेभ्योऽग्न्यादिभ्यो मित्राय वरुणाय
+> च ये च भूतस्य भूशजातस्य प्रचेतसः सुमतयोऽभिमतप्रदा भवंति तेभ्यः
+> सर्वेभ्य इदं नमो नमस्कारमकरं । करोमि ॥
+
+##### Gist of the bhāṣya
+
+To Sūryā, the wife of Sūrya; to the gods, Agni and the others; to Mitra and to Varuṇa; and to all those who are प्रचेतसः (*pracetasaḥ*) towards created beings, that is, well-disposed, granters of what is desired: to all of these I offer this homage, that is, I make it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूराय्यै (*sūrāyyai*)—to the wife of Sūrya
+- देवेभ्यः (*devebhyaḥ*)—to the deities
+- मित्राय (*mitrāya*)—to Mitra
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- च (*ca*)—and
+- ये (*ye*)—those deities who
+- भूतस्य (*bhūtasya*)—among all created beings
+- प्रचेतसः (*pracetasaḥ*)—are possessed of an excellent mind of favour
+- तेभ्यः (*tebhyaḥ*)—to all of them
+- इदं नमः (*idaṃ namaḥ*)—this homage
+- अकरं (*akaraṃ*)—I offer
+
+##### भावार्थ (Bhāvārtha)
+
+I offer this homage to the goddess Sūryā, to Mitra, Varuṇa and the other deities, and to the other deities who have a mind of favour towards the beings of the world.
+
+##### English translation
+I offer this adarotation to Surya, to the gods, to Mitra and Varuna, (and to all those) who are considerate to created beings. **NOTE**
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पू॒र्वा॒प॒रं च॑रतो मा॒यय्यै॒त् शिशू॒ क्रीळं॑तौ॒ परि॑ यातो  ॒
+> अध्वरं ।  
+> विश्वा॑न्य॒न्नो भुव॑नाभि॒चष्ट॑ ऋ॒तूर॒न्नो वि॒दध॑ज्जायते॒ पुनः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पूर्वऽअपरं । चरतः । मायया । एतौ । शिशू इति । क्रीळंतौ । परि । यातः ।  
+> अध्वरं ।  
+> विश्वानि । अन्यः । भुवना । अभिचष्टे । ऋतून् । अन्यः । विदधत् । जायते ।  
+> पुनरिति ॥ १८ ॥
+
 ---
 
-**Progress note:** Done through printed p. 387. Ṛk 9-14 of Sūkta 85 (Sūryā's wedding), pp. 381-387
+**Progress note:** Done through printed p. 394. Ṛk 14 end, Ṛk 15-18 (Saṃhitā, Pada) of Sūkta 85, pp. 388-394
