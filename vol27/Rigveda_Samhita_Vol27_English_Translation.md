@@ -12242,6 +12242,225 @@ Indra, the protector of the virtuous, crushed the arrogant (foe), attaining vast
 The ninth sūkta. In this sūkta the presiding deities of water, the *advaitègaḷu***NOTE**, are praised. The seer of this sūkta is Triśiras, the son of Tvaṣṭṛ, called त्रिशिरास्त्वाष्ट्रः (*triśirāstvāṣṭraḥ*), or Sindhudvīpa Āmbarīṣa. The sixth Ṛk of this sūkta is read as the twentieth Ṛk of the twenty-third sūkta of the first maṇḍala. But the Ṛk there, अप्पु मे सोमः (*appu me somaḥ*), has four pādas and is in the Anuṣṭubh metre, whereas the sixth Ṛk of the present sūkta has only three pādas and is a mantra in the Gāyatrī metre: the last pāda, आपश्च विश्वभेषजीः (*āpaśca viśvabheṣajīḥ*), is not there. The seer of the twenty-third sūkta of the first maṇḍala is Medhātithi, son of Kaṇva. The seer of the present sūkta, as said above, is Triśiras Tvāṣṭra or Sindhudvīpa. Likewise the 7th, 8th and 9th Ṛks of the present sūkta are read, without any difference, as the 21st, 22nd and 23rd Ṛks of the twenty-third sūkta. For this reason, that is, because these four Ṛks, the 6th, 7th, 8th and 9th of the present sūkta, were already read earlier as the 20th, 21st, 22nd and 23rd Ṛks of the twenty-third sūkta of the first maṇḍala, the bhāṣyakāra has not written the bhāṣya of these Ṛks again nor explained their meaning. Nevertheless I have written again the bhāṣya and the explanation made earlier.
 This sūkta, which praises the presiding deities of water called आपः (*āpaḥ*), has special importance. By the waters consecrated by the recitation of this sūkta, the seer Sindhudvīpa removed the guilt of brahmin-slaying that had come upon Indra because he had killed his own priest, called Viśvarūpa, and made him pure…
 
+### Printed p. 320
+## Special Topics
+
+The text continues: it is also stated in the Bṛhaddevatā and in the Ṛgvidhāna that Sindhudvīpa made him pure. Moreover, the twice-born recite this sūkta every day, at dusk and at dawn, in the Sandhyāvandana and similar rites performed for the removal of sin, and sprinkle themselves with the water consecrated by it. The greatness of this sūkta and its power to remove sin, as set out in the work called Ṛgvidhāna, is stated here:
+
+आपो हि स्थेति नियतः प्रयुंजीत सदा द्विजः । (*āpo hi stheti niyataḥ prayuṃjīta sadā dvijaḥ |*)
+स्नानार्थं शुद्धिकामस्तु जपेत त्रिः समाहितः ॥ (*snānārthaṃ śuddhikāmastu japeta triḥ samāhitaḥ ‖*)
+(Ṛgvidhāna, adhyāya 3, śloka 20)
+
+A twice-born man who desires purity of body should, while bathing, recite this sūkta beginning आपो हि ष्ठा (*āpo hi ṣṭhā*) three times with a pure mind.
+
+अप्पु चैव निमज्जित्वा त्रिः पठेत् सुसमाहितः ॥२१॥ (*appu caiva nimajjitvā triḥ paṭhet susamāhitaḥ ‖21‖*)
+ब्रह्महा तु कपालेन खट्वांगी चीरसंवृतः । (*brahmahā tu kapālena khaṭvāṃgī cīrasaṃvṛtaḥ |*)
+चरेद्द्वादश वर्षाणि स्वकर्म परिकीर्तयन् ॥२२॥ (*careddvādaśa varṣāṇi svakarma parikīrtayan ‖22‖*)
+अजपन् मनसैनैतदापो हि स्थेति संस्करेत् । (*ajapan manasainaitadāpo hi stheti saṃskaret |*)
+ऊर्ध्वं तु पंचमाद्वर्षाज्जपेदेव सहस्रशः ॥२३॥ (*ūrdhvaṃ tu paṃcamādvarṣājjapedeva sahasraśaḥ ‖23‖*)
+अपरस्तु त्रिसाहस्रो जपः स्यात्कृत्यहं सदा । (*aparastu trisāhasro japaḥ syātkṛtyahaṃ sadā |*)
+पूर्णे तु द्वादशे वर्षे ब्रह्महा विप्रमुच्यते ॥२४॥ (*pūrṇe tu dvādaśe varṣe brahmahā vipramucyate ‖24‖*)
+
+The manner of reciting this mantra is as follows: one should go down into water up to the waist, stand there, and with an undistracted mind recite this sūkta. The man who has killed a Brāhmaṇa, for the removal of his sin, should dress in a garment of bark-fibre, carry a skull and a khaṭvāṅga (staff) in his hands, and wander for twelve years, announcing here and there to people the sinful deed he has done. Every day at the time of bathing he should bathe while uttering this sūkta aloud or reciting it in his mind. From the fifth year onward he should recite this sūkta a thousand times a day; towards the end, three thousand times every day. If he recites this sūkta in this way for twelve years, that man's guilt of Brahmahatyā is removed and he becomes pure.
+
+समेत्य ब्राह्मणान् ब्रूयुरथ तं चरितव्रतं । (*sametya brāhmaṇān brūyuratha taṃ caritavrataṃ |*)
+अचरितं भवेत्किंचिनिथ्यावादी पतेत्पुनः ॥२५॥ (*acaritaṃ bhavetkiṃcinithyāvādī patetpunaḥ ‖25‖*)
+दशावरान् दश परान् हन्यास्तमन्यतं वदन् । (*daśāvarān daśa parān hanyāstamanyataṃ vadan |*)
+ओं भो इति वदेद्विप्रैरनुज्ञातः शुचिर्जपेत् ॥२६॥ (*oṃ bho iti vadedviprairanujñātaḥ śucirjapet ‖26‖*)
+
+### Printed p. 321
+
+स्थालीपाकं च कुर्वीत सोऽग्नये व्रतचारिणे । (*sthālīpākaṃ ca kurvīta so 'gnaye vratacāriṇe |*)
+एवं स मुच्च्यते पापात्सावित्रीं प्रतिपद्य च ॥२७॥ (*evaṃ sa muccyate pāpātsāvitrīṃ pratipadya ca ‖27‖*)
+
+After reciting in this way for twelve years, he should gather the Brāhmaṇas in an assembly and, with folded hands, say: "O Brāhmaṇas, I have now performed the vow for twelve years. If, perhaps, I have not performed the vow and have spoken falsely, let me be punished again. For having spoken falsely, may there come upon me the sin of having slain ten of the elders of my line before me and ten after me." Having taken this oath and received the permission of the Brāhmaṇas, purified, he should recite the mantra once more. Then, to offer a homa addressed to Agni with अग्ने व्रतपते (*agne vratapate*), he should offer the oblation into the fire in the sthālīpāka manner and recite the Gāyatrī mantra. If he does so, the sin of Brahmahatyā he committed is removed and he becomes pure.
+
+ब्रह्महा तु पुरा शक्रस्ताष्टं हत्वा त्वषिं प्रभुं । (*brahmahā tu purā śakrastāṣṭaṃ hatvā tvaṣiṃ prabhuṃ |*)
+सिंधुद्वीपस्तमेताभिरभिषिच्य व्यमोचयत् ॥२८॥ (*siṃdhudvīpastametābhirabhiṣicya vyamocayat ‖28‖*)
+
+Formerly Indra killed Viśvarūpa, son of Tvaṣṭṛ, who was his own priest, and so incurred the guilt of Brahmahatyā. Then Sindhudvīpa, the seer of this sūkta, recited the mantras of this sūkta, bathed Indra with the water sanctified by the mantras, and released him from the sin of Brahmahatyā.
+
+ब्रह्मस्वं च गुरोर्द्रव्यं स्तेयं कृत्वा जपन्निमाः । (*brahmasvaṃ ca gurordravyaṃ steyaṃ kṛtvā japannimāḥ |*)
+अनेनैव विधानेन षड्भिवर्षैः प्रमुच्यते ॥२९॥ (*anenaiva vidhānena ṣaḍbhivarṣaiḥ pramucyate ‖29‖*)
+ब्रह्महा च सुरापश्च नियमेन जपन्निमाः । (*brahmahā ca surāpaśca niyamena japannimāḥ |*)
+अनेनैवोपचारेण ब्रह्मघ्न इव मुच्यते ॥३०॥ (*anenaivopacāreṇa brahmaghna iva mucyate ‖30‖*)
+
+The great sin that arises from stealing a Brāhmaṇa's property, or from robbing a teacher of his wealth, is removed if this sūkta is recited for six years in the manner described before, and the man becomes pure. Moreover, one who has killed a Brāhmaṇa, or one who has drunk liquor, is likewise freed from the sins he has committed if he recites this sūkta in the manner stated above.
+
+प्रातरुत्थाय सततं कुर्यान्नार्जनमात्मनः । (*prātarutthāya satataṃ kuryānnārjanamātmanaḥ |*)
+रात्रौ कृतस्य पापस्य अविज्ञातस्य निष्कृतिः ॥३३॥ (*rātrau kṛtasya pāpasya avijñātasya niṣkṛtiḥ ‖33‖*)
+सायं च नित्यमेताभिः कुर्यान्मार्जनमात्मनः । (*sāyaṃ ca nityametābhiḥ kuryānmārjanamātmanaḥ |*)
+दिवा कृतस्य पापस्य अविज्ञातस्य निष्कृतिः ॥३४॥ (*divā kṛtasya pāpasya avijñātasya niṣkṛtiḥ ‖34‖*)
+**NOTE**
+
+### Printed p. 322
+
+Rising in the morning, purified by bathing and so on, one should sprinkle one's body with water while reciting the mantras of this sūkta. By this sprinkling done in the morning, the sin committed unknowingly during the night is removed. In the same way, by sprinkling oneself in the evening, the sins committed unknowingly during the day are removed. Thus the power of this sūkta to remove sin is praised.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपो ही ति नवर्चं नवमं सूक्तं । अंबरीषस्य राज्यः पुत्रः सिंधुद्वीप
+> ऋषिस्त्वष्टपुत्रस्तिशिरा वा । इदमाप इत्यादिके द्वे अनुष्टुभौ । ईशाना इति
+> वर्धमाना । अपः पृणीतेति प्रतिष्ठा । शिष्टा गायत्र्यः । अपो देवता । तथा
+> चानुक्रांतं । आपो हि सिंधुद्वीपो वांबरीष अपं गायत्र्यं द्व्यनुष्टुबंतं
+> पंचमी वर्धमाना सप्तमी प्रतिष्ठॆति ॥ गतः सूक्तविनियोगः ॥ आग्निमारुत आपो
+> हि श्रेत्याद्यास्तिस्रः । सूत्रितं च । अपो हि श्रेति तिस्रो वियशमप उपस्पृशन्
+> आ-५-२८ । इति ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आपो ही (*āpo hī*) has nine Ṛks and is the ninth sūkta. Its seer is Sindhudvīpa, son of Ambarīṣa the king, or else Triśiras, son of Tvaṣṭṛ. The two Ṛks beginning इदमाप (*idamāpa*) are in anuṣṭubh; the Ṛk ईशाना (*īśānā*) is vardhamānā; the Ṛk अपः पृणीत (*apaḥ pṛṇīta*) is pratiṣṭhā; the remaining Ṛks are gāyatrī. The deity is the Waters. So the Anukramaṇī says, quoted in full: आपो हि सिंधुद्वीपो वांबरीष अपं गायत्र्यं द्व्यनुष्टुबंतं पंचमी वर्धमाना सप्तमी प्रतिष्ठॆति (*āpo hi siṃdhudvīpo vāṃbarīṣa apaṃ gāyatryaṃ dvyanuṣṭubaṃtaṃ paṃcamī vardhamānā saptamī pratiṣṭhèti*). The use of the whole sūkta has been given. In the Āgnimāruta recitation the first three Ṛks, beginning आपो हि श्रेत्याद्यास्तिस्रः (*āpo hi śretyādyāstisraḥ*), are used. It is also stated in the sūtra: अपो हि श्रेति तिस्रो वियशमप उपस्पृशन् (*apo hi śreti tisro viyaśamapa upaspṛśan*) (Ā. 5-28). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning आपो हि ष्ठा (*āpo hi ṣṭhā*) is the ninth sūkta in the first anuvāka. It has nine Ṛks. Its seer is Sindhudvīpa, son of the king Ambarīṣa, or Triśiras, son of Tvaṣṭṛ. The two Ṛks of this sūkta beginning इवमापः (*ivamāpaḥ*) (Ṛks 8–9) are in the anuṣṭubh metre. The fifth Ṛk, ईशाना (*īśānā*), is in the metre called vardhamānā. The seventh Ṛk, आपः पृणीत (*āpaḥ pṛṇīta*), is in the metre called pratiṣṭhā. The other Ṛks are in gāyatrī. The deity is the Waters (āpaḥ). In the Anukramaṇī it is said: आपो हि सिंधुद्विपो वांबरीष अपं गायत्रं द्वनुष्टु बंतं पंचमी वर्धमाना सप्तमी प्रतिष्ठा (*āpo hi siṃdhudvipo vāṃbarīṣa apaṃ gāyatraṃ dvanuṣṭu baṃtaṃ paṃcamī vardhamānā saptamī pratiṣṭhā*). The use of the sūkta has been stated earlier. That the first three Ṛks of this sūkta, आपो हि ष्ठा (*āpo hi ṣṭhā*), are to be recited among the mantras of the Āgnimāruta śastra is made clear by the sūtra of the Āśvalāyana Śrauta-sūtra आपो हि ष्ठेति तिस्रो वियतमप उपस्पृशन् (*āpo hi ṣṭheti tisro viyatamapa upaspṛśan*) (Ā. 5-20).
+
+Sūkta 9
+Maṇḍala 10; Anuvāka 1; Sūkta 9. Aṣṭaka 7; Adhyāya 6; Varga 5. Number of Ṛks in the sūkta: 9.
+Seer: Triśiras, son of Tvaṣṭṛ, or Sindhudvīpa, son of Ambarīṣa.
+Deity: the Waters.
+Metre: 1–4, 6 gāyatrī; 5 vardhamānā; 7 pratiṣṭhā; 8–9 anuṣṭubh.
+
+### Printed p. 323
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॒ हि स्था म॑यो॒भुव॒स्ता न॑ ऊ॒र्जे द॑धातन ।  
+> म॒हे रणा॑य॒ चक्ष॑से ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । हि । स्थ । मयःऽभुवः । ताः । नः । ऊर्जॆ । दधातन ।  
+> महे । रणाय । चक्षसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हि यस्मात्कारणादापो या यूयं मयोभुवः सुखस्य भावयित्र्यः स्थ
+> भवथ तास्तादृश्यो यूयं नोऽस्मानूर्जॆऽन्नाय दधातन । धत्त । अन्नप्राप्तियोग्यानस्मान् कुरुत । अन्नमस्मभ्यं दत्तेत्यर्थः । महे महते रणाय रमणीयाय चक्षसे दर्शनाय सम्यग्ज्ञानाय च धत्त । अस्मान् सम्यग्ज्ञानं प्रति
+> योग्यान्कुरुतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Since you, Waters, are the producers of happiness, such as you are, grant us (दधातन (*dadhātana*), from धत्त (*dhatta*)) food (ऊर्जॆ (*ūrjè*)): make us fit to obtain food; that is, give us food. Grant also what is great (महे (*mahe*)), delightful (रणाय (*raṇāya*), रमणीयाय (*ramaṇīyāya*)) and for sight or right knowledge (चक्षसे (*cakṣase*): दर्शनाय सम्यग्ज्ञानाय च (*darśanāya samyagjñānāya ca*)): make us fit for right knowledge.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O water-deities
+- हि (*hi*)—by whose greatness
+- मयोभुवः (*mayobhuvaḥ*)—givers of happiness
+- स्थ (*stha*)—you are
+- ताः (*tāḥ*)—you, possessing such greatness
+- नः (*naḥ*)—us
+- ऊर्जे (*ūrje*)—as worthy of food
+- दधातन (*dadhātana*)—make
+- महे (*mahe*)—great
+- रणाय (*raṇāya*)—delightful
+- चक्षसे (*cakṣase*)—also for sight, make us fit
+
+##### भावार्थ (Bhāvārtha)
+
+O water-deities, by whose greatness you are givers of happiness, such as you are, make us worthy of food. Make us fit also for sight that is great and delightful.
+
+##### English translation
+Since, Waters, you are the sources of happiness, grant to us to enjoy abundance, and great and delightful perception.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has written an explanation (nirvacana) for this usage as follows:
+आपः । आप आप्नोतेः । तासामेषा भवति । आपो हि ष्ठा मयोभुवस्ता न ऊर्जे दधातन । महे रणाय चक्षसे ॥ आपो हि स्थ सुखभुवस्ता नोS न्याय धत्त महते च नो रणाय रमणीयाय च दर्शनाय ॥ (*āpaḥ | āpa āpnoteḥ | tāsāmeṣā bhavati | āpo hi ṣṭhā mayobhuvastā na ūrje dadhātana | mahe raṇāya cakṣase ‖ āpo hi stha sukhabhuvastā noS nyāya dhatta mahate ca no raṇāya ramaṇīyāya ca darśanāya ‖*)
+(Ni. 9-27)
+
+### Printed p. 324
+
+The word आपः (*āpaḥ*) is formed from the root आप्ल व्याप्त (*āpla vyāpta*); the root means "to pervade, to cause to obtain". आपः (*āpaḥ*) means the waters, which are of spreading nature, that is, pervade everywhere, and which cause happiness, health and the like to be obtained; this is the meaning of the word आपः (*āpaḥ*). To explain this meaning he took the present Ṛk itself as the example: O deities presiding over water, you cause happiness to all; such as you are, provide us with food and other nourishment, and bless us that we may see a state of happiness that is excellent and delightful. This is the intent of the explanation.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नः॑ शि॒वत॑मो॒ रस॒स्तस्य॑ भाजयते॒ह नः॑ ।  
+> उ॒श॒तीर॑व मा॒तरः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वः । शिवतमः । रसः । तस्य । भाजयत । इह । नः ।  
+> उशतीः इव । मातरः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आपः वो युष्माकं स्वभूतो यो रसः शिवतमः सुखतम इहास्मिल्लोके
+> तस्य तं रसं नोऽस्मान् भाजयत । सेवयत । उपयोजयतेत्यर्थः । तत्र
+> दृष्टांतः । उशतीरिवोतत्य इव पुत्रसमृद्धिं कामयमाना मातरः स्तन्यं रसं
+> यथा भाजयंति प्रापयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Waters, the sap that is your own and most auspicious (शिवतमः (*śivatamaḥ*), most pleasant) in this world, make us share in it (भाजयत (*bhājayata*): cause us to partake, to use it). The illustration: as mothers (मातरः (*mātaraḥ*)) desirous (उशतीः (*uśatīḥ*)) of the thriving of their sons cause the milk-sap to be shared, to reach their children, so you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O water-deities) वः (*vaḥ*)—your
+- यः (*yaḥ*)—which
+- रसः (*rasaḥ*)—sap
+- शिवतमः (*śivatamaḥ*)—is most pleasant
+- तस्य (*tasya*)—that sap
+- उशतीः इव (*uśatīḥ iva*)—like those who desire the thriving of a son
+- मातरः (*mātaraḥ*)—mothers
+- नः (*naḥ*)—to us
+- इह (*iha*)—in this world
+- भाजयत (*bhājayata*)—cause to be drunk
+
+### Printed p. 325
+
+##### भावार्थ (Bhāvārtha)
+
+O water-deities, whatever sap of yours is most pleasant, make us drink that sap, as mothers who desire the thriving of their sons let their children suckle.
+
+##### English translation
+Give us to partake in this world of your most auspicious juice, like affectionate mothers.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मा॒ अरं॑ गमाम वो॒ यस्य॒ क्षया॑य॒ जिन्न॑थ ।  
+> आसो॑ ज॒नय॑था च नः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मै । अरं । गमाम । वः । यस्य । क्षयाय । जिन्वथ ।  
+> आपः । जनयथ । च । नः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आपः यूयं यस्य पापस्य क्षयाय विनाशायास्माञ्जनथ प्रीणयथ
+> तस्मै तादृशाय पापक्षयायारं क्षिप्रं वो युष्मान् गमाम । गमयाम ।
+> वयं शिरसि प्रक्षिपामेत्यर्थः । यद्वा । यस्यान्नस्य क्षयाय निवासार्थं यूयमोषधीर्जिन्वथ तर्पयथ तस्मै तदन्नमुद्दिश्य वयमरमलं पर्याप्तं यथा
+> भवति तथा वो युष्मान्गमाम । गच्छाम । किंच हे आपः नोऽस्माञ्जनयथ च ।
+> पुत्रपौत्रादिजनने प्रयोजयतेत्यर्थ्यः ॥
+
+##### Gist of the bhāṣya
+
+O Waters, for the destruction (क्षयाय (*kṣayāya*)) of whatever sin you gratify us (जिन्वथ (*jinvatha*), प्रीणयथ (*prīṇayatha*)), to that destruction of sin we swiftly (अरं (*araṃ*)) go to you (गमाम (*gamāma*), "make go"): that is, we cast you on our heads. Or else: for the abode (क्षयाय (*kṣayāya*), निवासार्थं (*nivāsārthaṃ*)) of whatever food you satisfy the plants, with regard to that food we go to you so that it may be sufficient (वयमरमलं पर्याप्तं (*vayamaramalaṃ paryāptaṃ*)). Further, O Waters, cause us to be born (जनयथ (*janayatha*)): employ yourselves in the begetting of sons, grandsons and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O water-deities) यस्य (*yasya*)—of which sin
+- क्षयाय (*kṣayāya*)—for the destruction
+- जिन्वथ (*jinvatha*)—you make us pleased
+- तस्मै (*tasmai*)—for that
+- वः (*vaḥ*)—you
+- आरं (*āraṃ*)—swiftly
+- गमाम (*gamāma*)—we shall approach and take refuge
+- आपः (*āpaḥ*)—O water-deities
+- नः (*naḥ*)—to us
+- जनयथ च (*janayatha ca*)—and bless that sons, grandsons and the like be born
+
+##### भावार्थ (Bhāvārtha)
+
+O water-deities, for the destruction of whatever sin you make us pleased, for that we shall swiftly approach and take refuge in you; make sons, grandsons and the like be born to us.
+
 ---
 
-**Progress note:** Done through printed p. 319. pp. 314-319 (batch API)
+**Progress note:** Done through printed p. 325. pp. 320-325 (batch API)
