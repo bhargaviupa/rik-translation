@@ -1347,6 +1347,252 @@ This is Urvaśī's speech. "O Purūravas, I shall answer you. Your offspring wil
 - मा (*mā*)—me
 - नहि आप्य (*nahi āpya*)—you cannot approach
 
+### Printed p. 44
+#### Ṛk 13 (continued)
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvaśī's words) O Pururavas, I will answer your question. As soon as the proper and auspicious time draws near, your son will come to you shedding tears and addressing you as father. The child lying in my womb I will send to you as soon as he is born. Return to your house. O fool, you cannot approach me.
+
+##### English translation
+(Urvashi :) Let me reply. (Your son) will shed tears, crying out and calling aloud when the expected auspicious time arrives; I will send you that (child) which is yours in me, depart to your house, you cannot, simpleton, detain me.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒दे॒वो अ॒द्य प्र॒पते॒दना॑वृत्परा॒वतं॑ पर॒मां गंत॒वा उ॑ ।  
+> अधा॒ शयी॑त॒ निर्ऋ॑तेरु॒पस्थेdधै॑नं॒ वृका॑ रभ॒सासो॑ अ॒द्युः॥१४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुदेवः । अद्य । प्रपतेत् । अनावृत् । परावतं । परमां । गंतवै ।  
+> ऊं इति ।  
+> अध । शयीत । निःऋतेः । उपस्थे । अध । एनं । वृकाः । रभसासः । अद्युः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ परिदूनः पुरूरवा उवाच । सुदेवस्त्वया सह सुक्रीडः पतिरद्य
+> प्रपतेत् । अत्रैव प्रपततु । अथवानावृदनावृत्तः सन् परमां परावतं दूरादपि
+> दूरदेशं गंतवै गंतुं महाप्रस्थानगमनं कुर्यात् । अधाथवा यत्रकुत्रापि
+> गंतुं समर्थो निर्ऋतेः पृथिव्या उपस्थे शयीत । शयनं कुर्यात् । यद्वा ।
+> निर्ऋतिः पापदेवता । तस्या उपस्थ उत्संगे संनिधौ म्रियतामित्यर्थः । अधाथवैनं
+> वृका आरण्याः श्वानो रभसासो वेगवंतोऽद्युः । भक्षयंतु । अत्र वाजसनेयकं ।
+> सुदेवोऽद्योद्या बद्धीत प्र ना पतेत्तदेनं वृका वा श्वानो वाद्युरिति हैव
+> तदुवाच । शत. ११-५-१-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+Then Pururavas, distressed, spoke. Let your husband, who sported well with you, fall down right here today; or, never turning back, let him make the great departure to the farthest distance; or, able to go anywhere, let him lie in the lap of the earth (निर्ऋति (*nirṛti*) as the earth). Alternatively, निर्ऋतिः (*nirṛtiḥ*) is the goddess of sin: let him die in her lap, that is, in her presence. Or let wolves, wild dogs, swift and eager, devour him. Sāyaṇa cites the Vājasaneyaka: सुदेवोऽद्योद्या बद्धीत प्र ना पतेत्तदेनं वृका वा श्वानो वाद्युरिति हैव तदुवाच । (*sudevo 'dyodyā baddhīta pra nā patettadenaṃ vṛkā vā śvāno vādyuriti haiva taduvāca |*) Śa. Brā. 11-5-1-8.
+
+### Printed p. 45
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदेवः (*sudevaḥ*)—your husband who sported with you
+- अद्य (*adya*)—right now
+- प्रपतेत् (*prapatet*)—let him fall down on the ground (or)
+- अनावृत् (*anāvṛt*)—without returning
+- परमां परावतं (*paramāṃ parāvataṃ*)—to the farthest distant region
+- गंत वै (*gaṃta vai*)—let him go out of sight (or let him depart from worldly life)
+- अध (*adha*)—or
+- निर्ऋतेः (*nirṛteḥ*)—of the goddess of sin named Nirṛti
+- उपस्थे (*upasthe*)—on the lap
+- शयीत (*śayīta*)—let him lie down
+- अथ (*atha*)—or
+- एनं (*enaṃ*)—him
+- रभसासः (*rabhasāsaḥ*)—swift-moving
+- वृकाः (*vṛkāḥ*)—wolves
+- अद्युः (*adyuḥ*)—let them devour
+
+##### भावार्थ (Bhāvārtha)
+
+(Pururavas's words) O Urvaśī, let your husband who sported with you fall on the ground right now; or let him go, never to return, to the farthest distance (leaving worldly life and vanishing); or let him lie on the lap of the goddess of sin named Nirṛti; or let swift-moving wolves devour him.
+
+##### English translation
+(Pururavas :) (Your husband) who sports with you may now depart) never to return (depart) to proceed to a distant region. Either let him sleep upon the lap of Nirriti, or let the swift-moving wolves devour him.
+
+##### विशेषविषयगळु (Special Topics)
+
+Unable to bear the grief of separation from Urvaśī, Pururavas suggests that it is better to give up life, subjected to manifold afflictions, than to live consumed by sorrow, and he expresses his despair in various laments. This the Ṛk says movingly. Yāska cites this Ṛk as an example of a Ṛk expressing despair or sorrow (Ni. 7-3).
+The main sense of the Ṛk: O Urvaśī, how can I, who sported with you till now, live tormented by the pain of separation from you? Should this body of mine not fall lifeless on the ground? Or should I not go to the farthest region, as written earlier? Or lie on a deathbed and be subject to death? Or should wolves not eat me? To Pururavas lamenting thus, Urvaśī in the next Ṛk will reply with words of the same kind and console him.
+
+### Printed p. 46
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुरू॑रवो॒ मा मृ॑था॒ मा प्र प॑स्तो॒ मा त्वा॒ वृका॑सो॒ अति॑वास उ क्षन् ।  
+> न वै स्रैणा॑नि स॒ख्यानि॑ संति सालावृ॒काणां॒ हृद॑यान्ये॒ता ॥१५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरूरवः । मा । मृथाः । मा । प्र । पप्तः । मा । त्वा । वृकासः । अशिवासः । ऊं इति ।  
+> क्षन् ।  
+> न । वै । सृणानि । सख्यानि । सॆंति । सालावृकाणां । हृदयानि । एता ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तमितरा प्रत्युवाच । हे पुरूरवः त्वं मा मृथाः । मृतिं मा प्राप्पुहि ॥
+> म्रियतेर्लुजि थासि ह्रस्वादंगादिति सिचो लोपः ॥ तथा मा प्र पप्तः । अत्रैव
+> पतनं मा कार्षिः ॥ पतेर्लुजि ल्गदित्वात्पुषादीत्यादिना चेरज् । पतः पुमिति
+> पुम्॥ तथा त्वा त्वामशिवासोऽशुभा वृकासो वृका मा उ क्षन्। उ इत्येवकारार्थे!
+> अक्षन् । माभ्यवहारयंतु ! किमित्येवमस्मदुपर्याग्रहं करोषि । मा कार्षिरित्यर्थः ॥ अदेर्लुजि लुज्‌सनोर्घस्ल । पा. २-४-३७ । इति घस्ला देशः । मंत्रे
+> घसेति चेर्लुक् । गमहनेत्यादिनोपधालोपः । शासिवसीत्यादिना षत्वं । खरि चेति
+> चर्त्वं । बाहुलकावडभावः ॥ अथ स्वस्नेहस्यासारतामाह । स्रैनानि स्त्रीणां कृतानि
+> सख्यानि न वै संति । न संति खलु । अभावे कारणमाह । एतानि सख्यानि सालावृकाणां
+> हृदयानि यथा वत्सादीनां विश्वासापन्नानां घातुकानि तद्वत् । अत्र वाजसनेयकं।
+> मैतदादृथा न वै स्रैनग्ं सख्यमस्ति पुनर्गृहानिहीति हैवैनं तदुवाच । शत. ११-५-
+> १९ । इति ॥
+
+##### Gist of the bhāṣya
+
+The other (Urvaśī) replied to him. O Pururavas, do not die; do not meet death. Likewise do not fall forth; do not fall right here. Likewise let inauspicious wolves not devour you; the particle उ (*u*) is used in the sense of "indeed". Why do you press upon us so? Do not do so. Then she speaks of the unreliability of such affection: friendships made with women do not exist, they are not lasting. The reason: these friendships are like the hearts of jackals (सालावृकाणां (*sālāvṛkāṇāṃ*)), which kill, as one kills calves and the like that have come to trust. On this the Vājasaneyaka: मैतदादृथा न वै स्रैनग्ं सख्यमस्ति पुनर्गृहानिहीति हैवैनं तदुवाच । (*maitadādṛthā na vai srainagṃ sakhyamasti punargṛhānihīti haivainaṃ taduvāca |*) Śa. Brā. 11-5-19 **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरूरवः (*purūravaḥ*)—O Pururavas
+- मा मृधाः (*mā mṛdhāḥ*)—do not die
+- मा प्र पप्तः (*mā pra paptaḥ*)—do not fall down either
+- त्वा (*tvā*)—you
+- अशिवासः (*aśivāsaḥ*)—inauspicious
+- वृकासः (*vṛkāsaḥ*)—wolves
+- मा उक्षन् (*mā ukṣan*)—let them not devour
+- सृणानि (*sṛṇāni*)—made with women
+- सख्यानि (*sakhyāni*)—friendships
+- न वै संति (*na vai saṃti*)—are not lasting
+- एता (*etā*)—these
+- सालावृकाणां (*sālāvṛkāṇāṃ*)—of the animals called sālāvṛka
+- हृदयानि (*hṛdayāni*)—cruel like their hearts (not worthy of trust)
+
+### Printed p. 47
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvaśī's words) O Pururavas, do not die and do not fall down. Let inauspicious wolves not devour you. Friendship with women is not lasting. These are cruel and unworthy of trust, like the hearts of the animals called sālāvṛka (jackals).
+
+##### English translation
+(Uruashi:) Die not, Pururavas, fall not, let not the hideous wolves devour you. Female friendships do not exist, their hearts are the hearts of jackals.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्विरू॒पाच॑रं॒ मर्त्ये॒ष्वव॑सं॒ रात्रिः॑ श॒रद॒श्चत॑स्रः ।  
+> घृ॒तस्य॑ स्तो॒कं स॒कृदह्न॑ आश्नां॒ तादे॒वेदं ता॑तृपा॒णा च॑रामि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । विरूपा । अचरं । मर्त्येषु । अवसं । रात्रीः । शरदः । चतस्रः ।  
+> घृतस्य । स्तोकं । सकृत् । अह्नः । आश्नां । तात् । एव । इदं । ततृपाणा । चरामि ॥१६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा विरूपा मनुष्यसंपर्काद्विगतसहजभूतदेवरूपापत्यानुकूल्येन
+> नानारूपा वा मर्त्येषु मनुष्येष्टचरं तदानीं रात्रिः पूरयित्रिश्चतस्रः
+> शरदोऽवसं । न्यवसं ॥ अत्यंतसंयोगे द्वितीया ॥ तदानीं धृतस्य स्तोकं
+> सकृदह्न आश्नां । तादेव तेनैव स्तोकेनाहमिदं संप्रति तातृपाणा तृप्ता सती
+> चरामि ॥
+
+##### Gist of the bhāṣya
+
+When I, विरूपा (*virūpā*), having left my natural divine form through contact with men, or in various forms suited to my offspring, moved among mortals, men, then I lived four nights-and-autumns (the nights fulfilling), अवसं (*avasaṃ*) = न्यवसं (*nyavasaṃ*); the accusative expresses continuous duration. Then I ate once a day a small drop of ghee; with just that I now move about satisfied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- विरूपा (*virūpā*)—I, leaving my natural divine form
+- मर्त्येषु (*martyeṣu*)—among humans
+- आ चरं (*ā caraṃ*)—moved about, then
+- रात्रिः (*rātriḥ*)—delight-giving
+- चतस्रः (*catasraḥ*)—four
+
+### Printed p. 48
+- शरदः (*śaradaḥ*)—years
+- अवसं (*avasaṃ*)—I spent with you
+- सकृत् अह्नः (*sakṛt ahnaḥ*)—only once in a day
+- घृतस्य स्तोकं (*ghṛtasya stokaṃ*)—a small portion of ghee
+- आश्नां (*āśnāṃ*)—I ate
+- तादेव (*tādeva*)—by that alone
+- तातृपाणा (*tātṛpāṇā*)—satisfied
+- इदं (*idaṃ*)—now
+- चरामि (*carāmi*)—I move
+
+##### भावार्थ (Bhāvārtha)
+
+(Urvaśī's words) Leaving my natural divine form, I spent among humans four years that gave me joy. Once a day I ate only a small portion of ghee. Satisfied with that alone, I now depart.
+
+##### English translation
+When changed in form I wandered amongst mortals, I dwelt (with them) four delightful years. I ate once a day a small quantity of butter; satisfied with that I now depart.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒त॒रि॒क्ष॒प्रां रज॑सो वि॒मानी॒मुप॑ शिक्षाम्यु॒र्वशीं॒ वसि॑ष्ठः ।  
+> उप॑ त्वा रा॒तिः सु॑कृ॒तस्य॒ तिष्ठा॒न्नि व॑र्तस्व॒ हृद॑यं तप्यते मे ॥  
+> ॥ पवनाति ॥  
+> अंतरिक्षप्रां । रजसः । विमानीं । उप । शिक्षामि । उर्वशीं । वसिष्ठः ।  
+> उप॑ । त्वा । रा॒तिः । सु॑कृ॒तस्य॒ । तिष्ठा॒त् । नि । व॑र्तस्व॒ । हृद॑यं । तप्यते । मे ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंतरिक्षप्रां स्वतेजसांतरिक्षस्य पूरयित्रीं तथा रजसो रंजकस्योदकस्य
+> विमानीं निर्मात्रिमुर्वशीं वसिष्ठः समानानां मध्येऽतिशयेन वासयिताहमुप
+> शिक्षामि । वशं नयामि । सुकृतस्य शोभनकर्मणो रातिर्दाता पुरूरवास्त्वा त्वामुप
+> शिष्ठात् । उपतिष्ठतु । मे हृदयं तप्यते । अतो नि वर्तस्व । एवं राजोवाच ॥
+
+##### Gist of the bhāṣya
+
+I, Vasiṣṭha, the one who most causes my companions to dwell well among them, उप शिक्षामि (*upa śikṣāmi*): bring under my control Urvaśī, who fills the atmosphere with her own radiance and is the maker (विमानीं (*vimānīṃ*)) of the colouring रजसः (*rajasaḥ*), water. Let Pururavas, the giver (रातिः (*rātiḥ*)) of good rites, सुकृतस्य (*sukṛtasya*), stand near you. My heart burns; therefore turn back. So the king spoke.
+
+### Printed p. 49
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंतरिक्षप्रां (*aṃtarikṣaprāṃ*)—she who fills the whole atmosphere with her radiance
+- रजसः (*rajasaḥ*)—for water
+- विमानीं (*vimānīṃ*)—maker
+- उर्वशीं (*urvaśīṃ*)—Urvaśī
+- वसिष्ठः (*vasiṣṭhaḥ*)—I, the best of men (or: I, who have an excellent life together with companions)
+- उप शिक्षामि (*upa śikṣāmi*)—I take under my control
+- सुकृतस्य (*sukṛtasya*)—of excellent rite
+- रातिः (*rātiḥ*)—the giver (performer of the rite)
+- त्वा (*tvā*)—you
+- उपतिष्ठात् (*upatiṣṭhāt*)—let him approach and sit with you
+- मे (*me*)—my
+- हृदयं (*hṛdayaṃ*)—heart
+- तप्यते (*tapyate*)—is burning (therefore, O Urvaśī)
+- नि वर्तस्व (*ni vartasva*)—turn back
+
+##### भावार्थ (Bhāvārtha)
+
+(Pururavas's words) I, the best of men, take under my control Urvaśī, who fills the whole atmosphere with her radiance and is the maker of water (I will make her subject to me). Let Pururavas, the performer of excellent rites, approach you and enjoy happiness with you. My heart burns from separation from you. Turn back.
+
+##### English translation
+(Pururavas:) I, Vasistha, bring under subjection Urvashi who fills the firmament (with lustre) and measures out the rain. May (Pururavas), the bestower of the auspicious rite, abide near you; come back—my heart is burning.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इति॑ त्वा दे॒वा इ॒म आ॑हुरैळ॒ यथे॑मे॒तद्भव॑सि मृ॒त्युबं॑धुः ।  
+> प्र॒जा ते॑ दे॒वान्ह॒ विष्णा॑ यजाति स्व॒र्ग उ॒ त्वमपि॑ मादयासे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इति । त्वा । देवाः । इमे । आहुः । ऐळ । यथा । ईं । एतत् । भवसि । मृत्युबंधुः।  
+> प्रजा । ते । देवान् । हविषा । यजाति । स्वःगे । ऊं इति । त्वं । अपि । मादयासे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऐळ पुरूरवः त्वा त्वामिमे देवा इत्याहुः । मृत्युबंधुर्मृत्योर्बंधको मृत्योर्बंधुभूतो ना मृत्युवशमप्राप्नु वंस्त्वं यथें यथैत-
+> 4
+
+##### Gist of the bhāṣya
+
+O Aiḷa Pururavas, these gods say this to you: you are मृत्युबंधुः (*mṛtyubaṃdhuḥ*), a binder of death, a kinsman of death, a man who has not come under death's power, as ….
+
 ---
 
-**Progress note:** Done through printed p. 43. pp. 38-43 (batch API)
+**Progress note:** Done through printed p. 49. pp. 44-49 (batch API)
