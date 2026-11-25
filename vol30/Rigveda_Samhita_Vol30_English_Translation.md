@@ -15084,6 +15084,258 @@ As women who long for union with their husband go to their husband and join him,
 ##### English translation
 They hasten associated together to the ocean, like loving wives (to a husband); (Indra), the witherer of foes, the demolisher of cities, is their
 
+### Printed p. 464
+## Sūkta 112 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र पिबेति दशर्चं त्रयोदशं सूक्तं त्रैष्टुभमैंद्रं नभःप्रभेदनो
+> नाम विरूपगोत्र ऋषिः । तथा चानुक्रम्यते । इंद्र पिब नभःप्रभेदेन इति ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्र पिब (*iṃdra piba*) has ten Ṛks (the thirteenth sūkta), is in the Triṣṭubh metre, and is addressed to Indra. Its seer is Nabhaḥprabhedana, of the Virūpa gotra. The Anukramaṇī says: इंद्र पिब नभःप्रभेदेन इति (*iṃdra piba nabhaḥprabhedena iti*). The viniyoga (ritual use) has already been stated.
+
+The Kannada Anuvāda says: This sūkta, Indra pibā, is the thirteenth sūkta in the ninth anuvāka and has ten Ṛks. Its seer is Nabhaḥprabhedana of the Virūpa gotra; the deity is Indra; the metre is Triṣṭup. The Anukramaṇī says "Indra piba nabhaḥprabhedanaḥ". The viniyoga was stated earlier.
+
+Maṇḍala 10, Anuvāka 9, Sūkta 112. Aṣṭaka 8, Adhyāya 6, Vargas 12, 13. Number of Ṛks in the sūkta: 10. Seer: Nabhaḥprabhedana Vairūpa. Deity: Indra. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ पिब॑ प्रतिका॒मं सु॒तस्य॑ प्रातःसा॒वस्तव॒ हि पू॒र्वपी॑तिः ।  
+> हर्ष॑स्व॒ हंत॑वे शूर॒ शत्रू॑नु॒क्छेभि॑ष्टे वी॒र्या॒३॒॑३प्र ब्र॑वाम ॥१॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । पिब । प्रतिकामं । सुतस्य । प्रातःसावः । तव । हि । पूर्वपीतिः ।  
+> हर्षस्व । हंतवे । शूर । शत्रून् । उक्षेभिः । ते । वीर्या । प्र । ब्रवाम ॥ १ ॥
+
+### Printed p. 465
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं प्रतिकामं ये ये कामास्तांस्तान्नृति ॥ अव्ययीभावसमासः ।
+> तस्य स्वरः ॥ यथेच्छं सुतस्याभिषुतस्य यो भागस्तुभ्यं दातव्यस्तं पिब ॥ आमंत्रित.
+> स्याविद्यमानत्वेन पादादित्वादनिघातः ॥ प्रातःसावः प्रातःसवनेऽभिषूयमाणः
+> सोमस्तव हि । तृतीयार्थे षष्ठि । त्वयैव पूर्वपीतिः प्रथमत एव पातव्यः ।
+> यद्वा । प्रातःसावः । सप्तम्याः सुः । प्रातःसवने तनैव प्रथमपानं खलु । ऐंद्रवायवग्रहे ह्यादित एवेंद्रः पिबति ॥ तत्पुरुषे दासीभारादित्वात्तूर्वपदांतोदात्तत्वं । यद्वा। बहुव्रीहिः ॥ ततो हे शूर समर्थ त्वं शत्रोन्हंतवे हंतुं हर्षस्व ।
+> हृष्टो भव । अथ ते त्वदीयानि वीर्या वृत्रहननादिलक्षणानि वीर्याणुक्थॆभिरुक्थैः
+> शस्त्रैः प्र ब्रवाम । प्रकर्षण वदाम ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, drink, at will, the share of the pressed Soma that is to be given to you." प्रतिकामं (*pratikāmaṃ*) is an avyayībhāva compound meaning "each desire, whatever the desires". The Soma pressed at the morning pressing is yours; the genitive तव (*tava*) is used in the sense of the instrumental, so it is to be drunk first, by you alone (पूर्वपीतिः (*pūrvapītiḥ*)). Alternatively प्रातःसावः (*prātaḥsāvaḥ*) has the locative ending dropped: at the morning pressing yours is the first drinking, for in the Aindravāyava graha Indra drinks first. Then, "O hero, capable one, rejoice to slay your foes, be glad. And we shall proclaim your heroic deeds, such as the slaying of Vṛtra, with the uktha-hymns, the recitations (śastras)."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- प्रतिकामं (*pratikāmaṃ*)—as much as you desire
+- सुतस्य (*sutasya*)—of the pressed Soma
+- पिब (*piba*)—drink
+- प्रातःसावः (*prātaḥsāvaḥ*)—the Soma pressed at the morning pressing
+- तव हि (*tava hi*)—by you indeed
+- पूर्वपीतिः (*pūrvapītiḥ*)—to be drunk first
+- शूर (*śūra*)—O capable Indra
+- शत्रून् (*śatrūn*)—foes
+- हंतवे (*haṃtave*)—to slay
+- हर्षस्व (*harṣasva*)—be encouraged
+- ते (*te*)—your
+- वीर्या (*vīryā*)—heroic deeds
+- उक्षेभिः (*ukṣebhiḥ*)—with the śastra-mantras
+- प्र ब्रवाम (*pra bravāma*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, drink as much as you wish of the Soma pressed here. The Soma pressed at the morning pressing is to be drunk first by you. O capable Indra, take the encouragement fit for slaying foes. We praise your heroic deeds with the śastra-mantras.
+
+##### English translation
+Drink, Indra, at will of the effused libation, for it is poured out at the morning sacrifice, and is first drunk by you; exult, hero, in slaying your foes, we will glorify your heroic exploits with hymns.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॒ रथो॒ मन॑सो॒ जवी॑या॒नेंद्र॒ तेन॑ सोम॒पेया॑य  
+> याहि ।  
+> 30
+
+### Printed p. 466
+
+> तूयमा ते हरयः प्र द्रवंतु येभिर्यासि वृषभिर्मंदमानः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । रथः । मनसः । जवीयान् । आ । इंद्र । तेन । सोमपेयाय । याहि।  
+> तूयं । आ । ते । हरयः । प्र । द्रवंतु । येभिः । यासि । वृषभिः । मंदमानः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मनसोऽपि जवीयानतिशयेन गंता ते त्वदीयो यो रथोऽस्ति
+> तेन रथेन सोमपेयायास्मदीयं सोमं पातुमा याहि । आगच्छ ॥ पा पाने ।
+> भावेऽचो यत् । ईद्यतीतीत्वं । अर्धधातुकलक्षणो गुणः । कृदुत्तरपदप्रकृतिस्वरत्वं ॥ तथा ते त्वदीया हरयो रथे संयुक्ता अश्वास्तूयं क्षिप्रमाभिमुख्येन
+> प्र द्रवंतु । प्रगच्छंतु । वृषभिः सेक्तृभिर्यॆभिर्यैरश्वैर्मंदमानो नोदमानः
+> सन् यासि गच्छसि । हरी इंद्रस्येति वचनादिंद्रस्य द्वानेवाश्वाविति न चोदनीयं आ
+> त्वा सहस्रमा शतमित्यादिनिगमांतरे दर्शनात् । ऋ. ८-१-२४ ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, come with that chariot of yours, swifter even than the mind, to drink our Soma." May your horses (हरयः (*harayaḥ*)) yoked to the chariot run swiftly towards us, the vigorous (showering) steeds with which you come rejoicing. Because the text says "the two bays of Indra", one need not object that Indra has only two horses, since other passages show otherwise: *ā tvā sahasramā śataṃ* etc. (Ṛ. Saṃ. 8-1-24).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- मनसः (*manasaḥ*)—than the mind
+- जवीयान् (*javīyān*)—swifter
+- ते (*te*)—your
+- यः रथः (*yaḥ rathaḥ*)—the chariot which is
+- तेन (*tena*)—with it
+- सोमपेयाय (*somapeyāya*)—for drinking Soma
+- आ याहि (*ā yāhi*)—deign to come
+- वृषभिः (*vṛṣabhiḥ*)—powerful
+- येभिः (*yebhiḥ*)—with which steeds
+- मंदमानः (*maṃdamānaḥ*)—rejoicing
+- यासि (*yāsi*)—you come
+- ते हरयः (*te harayaḥ*)—your horses
+- तूयं (*tūyaṃ*)—swiftly
+- आ प्र द्रवंतु (*ā pra dravaṃtu*)—let them run hither
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with your chariot that is swifter than the mind, deign to come for the drinking of Soma. May those powerful horses of yours, with which you come rejoicing, run hither swiftly.
+
+##### English translation
+Come, Indra, to the Soma-drinking with your chariot, which is swifter than thought; let you bays, the vigorous steeds with which you go along rejoicing quickly, hasten hither.
+
+### Printed p. 467
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरि॑त्वता॒ वर्च॑सा॒ सूर्य॑स्य॒ श्रेष्ठै॑ रू॒पैस्त॒न्वं॑ स्पर्शयस्व ।  
+> अ॒स्माभि॑रिंद्र॒ सखि॑भिर्हुवा॒नः स॑ध्रीची॒नो मा॑दयस्वा नि॒षद्य॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरित्वता । वर्चसा । सूर्यस्य । श्रेष्ठैः । रूपैः । तन्वं । स्पर्शयस्व ।  
+> अस्माभिः । इंद्र । सखिभिः । हुवानः । सध्रीचीनः । मादयस्व । निसद्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हरित्वता ॥ हरिच्छब्दान्मतुपो झय इति वत्वं ॥ हरिद्वर्णयुक्तेन
+> सूर्यस्यॆ वर्चसा तेजसा तत्सदृशैः श्रेष्ठैः प्रशस्य तम्मिरात्मीयै रूपैस्तन्वमात्मीयं
+> शरीरं मदीयं ना । यद्वा! तायत इति तनूर्यज्ञः । तं स्पर्शयस्व । तेजोयुक्तं कुरु । किंच सध्रीचीनः ॥ विभाषांचेरदिक्स्त्रियामिति खप्रत्ययः ॥ मरुद्भिः
+> सहांचनस्त्वं सखिभिः सखिभूतैरस्माभिर्हुवान आहूयमानः सन्निषद्य यज्ञे
+> निषण्णो भूत्वा मादयस्व । सोमपानेन हृष्टो भव ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, with the golden-hued radiance (हरित्वता (*haritvatā*)) of the sun, and with excellent forms like it, make your body touch (be adorned)." Alternatively *tanūḥ* is the sacrifice (from तायत (*tāyata*)): make it radiant. Further, सध्रीचीनः (*sadhrīcīnaḥ*): being accompanied by the Maruts, invoked by us who are your friends, sit down in the sacrifice and be exhilarated; be glad with the drinking of Soma.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- हरित्वता (*haritvatā*)—golden-hued
+- सूर्यस्य (*sūryasya*)—of the sun
+- वर्चसा (*varcasā*)—equal to the radiance
+- श्रेष्ठैः (*śreṣṭhaiḥ*)—excellent
+- रूपैः (*rūpaiḥ*)—with forms
+- तन्वं (*tanvaṃ*)—your body
+- स्पर्शयस्व (*sparśayasva*)—adorn
+- सखिभिः (*sakhibhiḥ*)—your friends
+- अस्माभिः (*asmābhiḥ*)—by us
+- हुवानः (*huvānaḥ*)—one who is called
+- सध्रीचीनः (*sadhrīcīnaḥ*)—you, who are joined with the Maruts
+- निषद्य (*niṣadya*)—sitting in the sacrifice
+- मादयस्व (*mādayasva*)—rejoice
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, adorn your body with excellent forms equal to the golden radiance of the sun. Called by us, your friends, and accompanied by the Maruts, sit in the sacrifice and rejoice.
+
+### Printed p. 468
+
+##### English translation
+Decorate your person with most beautiful forms with the golden radiance of the sun; invoked by us your friends, Indra, sit down and be exhilarated, accompanied by the Maruts.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ त्यत्ते॑ महि॒मानं॒ मदे॑ष्टि॒मे म॒ेहि रोद॑सी॒ नावि॑विकां ।  
+> तदोक॒ आ हरि॑भिरिंद्र यु॒क्तैः प्रि॒येभि॑र्याहि प्रि॒यमन्न॒मच्छ॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्यत् । ते । महिमानं । मदेषु । इमे इति । मही इति । रोदसी इति न ।  
+> अविविक्तां ।  
+> तत् । ओकः । आ । हरिभिः । इंद्र । युक्तैः । प्रियेभिः । याहि । प्रियं । अन्नं ।  
+> अच्छ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इमे मही महत्यौ रोदसी द्यावापृथिव्यै यस्य ते शव सोमपानेन जनितेषु मदेषु संभूतं त्यत्तं महिमानं नाविविक्तां न पृथक्कुरुतः किंतु
+> यस्य महिम्मेव तिष्ठत ॥ विचिर् पृथग्भावे चौहोत्यादिकः । लजि संज्ञापूर्वको
+> विधिरनित्य इत्यभ्यासस्य गुणाभावः । यद्योगादनिघातः ॥ प्रियेभिः प्रियतमै रथे
+> युक्तैर्हरिभिरश्चैः प्रियं प्रीणनकरमन्नं सोमलक्षणमच्छाभिलक्ष्य तदोकोऽस्म
+> दीयं यज्ञसदनमा याहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, these two great ones, heaven and earth, do not separate (नाविविक्तां (*nāviviktāṃ*)) the greatness of you, which arose in the exhilarations produced by Soma-drinking, but remain within your greatness." With your most dear bay horses yoked to the chariot, come towards the pleasing food, namely Soma, to our sacrificial dwelling (तदोकः (*tadokaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यस्य ते (*yasya te*)—of you, produced by Soma-drinking
+- मदेषु (*madeṣu*)—in the times of exhilaration, manifested
+- त्यत् महिमानं (*tyat mahimānaṃ*)—that famous greatness
+- मही (*mahī*)—of great nature
+- इमे रोदसी (*ime rodasī*)—these heaven and earth
+- न अविविक्तां (*na aviviktāṃ*)—do not separate
+
+### Printed p. 469
+- युक्तैः (*yuktaiḥ*)—yoked to the chariot
+- प्रियेभिः (*priyebhiḥ*)—dear to you
+- हरिभिः (*haribhiḥ*)—with horses
+- प्रियं (*priyaṃ*)—gladdening
+- अन्नं अच्छ (*annaṃ accha*)—towards our oblation in the form of Soma
+- तदोकः (*tadokaḥ*)—to our sacrificial house
+- आ याहि (*ā yāhi*)—deign to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the great heaven and earth do not separate the famous greatness you manifested in the exhilaration arising from your Soma-drinking. With your beloved horses yoked to the chariot, deign to come to our sacrificial house, towards our gladdening oblation of Soma.
+
+##### English translation
+You whose greatness (manifested) in your exhilarations the vast heaven and earth, do not seperate; come, Indra, with your beloved bay horses harnessed to your chariot, come to our dwelling to (partake of) the (sacri-ficial) food that is agreeable to you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॒ शश्व॑त्पपि॒वा इं॑द्र॒ शत्रू॑ननानुकृ॒त्या रण्या॑ च॒कर्थ॑ ।  
+> स ते॒ पुरं॑धिं॒ तवि॑षीमियर्ति॒ स ते॒ मदा॑य सु॒त इं॑द्र॒  ॑
+> सोमः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । शश्वत् । पपिवान् । इंद्र । शत्रून् । अननुकृत्या । रण्या । चकर्थ ।  
+> सः । ते । पुरंधिं । तविषीं । इयर्ति । सः । ते । मदाय । सुतः । इंद्र । सोमः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पपिवान् ॥ पिबतेः क्वसौ वस्येकाजाद्भसामितीडागमः ॥ सोमं
+> पीतवांस्त्वमनानुकृत्यानुकरणरहितेन सकृत्प्रहारेण शत्रुहननसमर्थेन रण्या
+> सांयुगीनेनायुधेन ॥ रणशब्दात्साध्वर्थे प्राग्नित्तीयो यत् ॥ यस्य यजमानस्य
+> शत्रुञ्चश्वद्भुरुवारं चकर्थ हतवानसि ॥ कृञ् हिंसायां । लिट थलि यद्योगाद-
+
+##### Gist of the bhāṣya
+
+"O Indra, having drunk (पपिवान् (*papivān*)) the Soma, you have slain for whichever sacrificer the foes, continually, with a weapon fit for battle (रण्या (*raṇyā*)), one that needs no repetition (अननुकृत्या (*ananukṛtyā*)), able to kill the foe with a single blow."
+
 ---
 
-**Progress note:** Done through printed p. 463. pp. 458-463 (batch API)
+**Progress note:** Done through printed p. 469. pp. 464-469 (batch API)
