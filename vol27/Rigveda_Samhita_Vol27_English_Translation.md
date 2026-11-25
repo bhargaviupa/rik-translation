@@ -1945,6 +1945,280 @@ This Soma is an accomplisher of strength. This Soma is fit for exceeding speed a
 ##### English translation
 This (Soma) is an instrument for invigoration; he (is useful) for speed (and) for the banquet of your gods ; he is effused most sweet-flavoured for the gods-
 
+### Printed p. 43
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोम॑न्न इंदो॒ अश्व॑वत्सु॒तः सु॑दक्ष धन्व ।  
+> शुचिं॑ ते॒ वर्ण॒मधि॒ गोषु॑ दीधरं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽमत् । नः । इंदो इति । अश्ववत् । सुतः । सुदक्ष । धन्व ।  
+> शुचिं । ते । वर्णं । अधि । गोषु । दीधरु ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुदक्ष सुबल हे इंदो सोम सुतोऽभिषुतस्त्वं नोऽस्माकं
+> गोमद्यज्ञसाधनगोयुक्तमश्ववदश्वयुक्तं धनं धन्व । गमय ॥ धविर्गत्यर्थो
+> भूवादिः॥ ततोऽहं शुचिं पूतं दीप्यमानं वा ते तव वर्णं रसं गोषु गव्येषु
+> क्षीरादिष्वधि धीधरं । अधिधारयामि । मिश्रयामि ॥
+
+##### Gist of the bhāṣya
+
+O Sudakṣa, mighty Indu (Soma), being pressed out, grant us wealth that has cattle (the cattle that serve as means of the sacrifice) and horses; धन्व (*dhanva*) means "cause to go", from the root धवि (*dhavi*) meaning motion, of the first (bhū) class. Then I mix your pure or shining colour (juice) with the cows' products, milk and the like (*adhi dhīdharaṃ*, "I hold over, I mix").
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुदक्ष (*sudakṣa*)—one of exceeding strength
+- इंदो (*iṃdo*)—O Soma-deva
+- सुतः (*sutaḥ*)—you who are pressed
+- नः (*naḥ*)—to us
+- गोमत् (*gomat*)—that which has cattle
+- अश्ववत् (*aśvavat*)—that which has horses
+- धन्व (*dhanva*)—provide
+- शुचिं (*śuciṃ*)—shining
+- ते (*te*)—your
+- वर्णं (*varṇaṃ*)—juice
+- गोषु अधि (*goṣu adhi*)—with milk and the like
+- दीधरं (*dīdharaṃ*)—I mix
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, of exceeding strength, being pressed, provide us wealth consisting of cattle and horses. I myself mix your shining juice with milk and the like.
+
+##### English translation
+Powerful Indu who are effused, pour upon us ( wealth ) comprising cattle and horses ; I mix the pure juice with the curds and milk.
+
+### Printed p. 44
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ हरीणां पत॒ इंदो॑ दे॒वप्स॑रस्तमः ।  
+> सखे॑व॒ सख्ये॒ नर्यो॑ रु॒चे भ॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । हरीणां । पते । इंदो इति । देवप्सरःतमः ।  
+> सखाऽइव । सख्ये । नर्यः । रुचे । भव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरीणां पते नोऽस्मदीयानां हरितवर्णानां पशूनां स्वामिन् हे
+> इंदो सोम देवप्सरस्तमोऽतिशयेन दीप्तरूपोपेतः स त्वं नर्यः कर्मनेतृभ्य
+> ऋत्विग्भो हितः स त्वं नोऽस्माकं रुचे भव । दीप्तिकरो भव । किमिव । सखेव
+> यथा सखा सख्ये मित्राय दीप्तिकरो भवति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O lord of our green-coloured cattle, O Indu Soma, of a form exceedingly bright, being beneficial (नर्यः (*naryaḥ*)) to the priests who lead the rites, be for our brightness; make us shine. How? As a friend becomes a bringer of brightness to a friend, so you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- हरीणां (*harīṇāṃ*)—of the green-coloured cattle
+- पते (*pate*)—O lord
+- इंदो (*iṃdo*)—O Soma-deva
+- देवप्सरस्तमः (*devapsarastamaḥ*)—having a form endowed with exceeding brilliance
+- सः (*saḥ*)—you
+- नरः (*naraḥ*)—being beneficial to us
+- सख्ये (*sakhye*)—to one who is a friend
+- सखेव (*sakheva*)—as a friend becomes a helper
+- (नः (*naḥ*)—our)
+- रुचे (*ruce*)—as a helper for a bright life
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, lord of all our green-coloured cattle, you who have a form endowed with exceeding brilliance, being beneficial to us, be a helper to our bright life, as a friend is a helper to a friend.
+
+##### English translation
+Lord of our bay-coloured (cattle), Indu, who have a most brilliant form, you who are kind to the priests be for a light to us as a friend (gives light) to a friend.
+
+### Printed p. 45
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सने॑मि॒ त्वम॒स्मदा अदे॑वं॒ कं चि॑द॒त्रिणं॑ ।  
+> सा॒ह्वा इं॑दो॒ परि॒ बाधो॒ अप॑ द्व॒युं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनेमि ' त्वं ' अस्मत् । आ । अदेवं । कं । चित् । अत्रिणं ।  
+> सहवान् । इंदो इति । परि । बाधः । अप । द्वयुं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं सनेमि पुराणं सख्यमस्मदस्मासु कुरु । आ अपि चादेवमदेवनशीलं कं चिदपृत्रिणमदनशीलं राक्षसमस्मदस्मत्तोऽपगमय। किं च हे इंदो
+> साह्वाङ्छत्रूनभिभवन् बाधो बाधमानाप्परि जहि । तथा द्वयुं द्वयवंतं सत्यानृतयुक्तं बाह्याभ्यंतरमायाद्वयोपेतं वा राक्षसमस्मत्तोऽपगमय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, establish your ancient friendship (सनेमि (*sanemi*)) in us. Also drive away from us any Rākṣasa who is godless, not devoted to the gods, and devouring. Further, O Indu, overcoming enemies, strike down those who oppress us; and drive away from us the "double" (द्वयुं (*dvayuṃ*)) Rākṣasa, either one who is possessed of both truth and falsehood, or one possessed of two kinds of deceit, outer and inner.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) त्वं (*tvaṃ*)—you
+- सनेमि (*sanemi*)—the ancient friendship
+- अस्मत् (*asmat*)—in us, foster
+- आ (*ā*)—and
+- अदेवं (*adevaṃ*)—not a worshipper of the gods
+- कं चित् (*kaṃ cit*)—whoever
+- अत्रिणं (*atriṇaṃ*)—even if there be an Asura devouring all
+- अप (*apa*)—destroy him
+- इंदो (*iṃdo*)—O Soma-deva
+- साह्वान् (*sāhvān*)—conquering enemies
+- बाधः (*bādhaḥ*)—the oppressors
+- द्वयुं (*dvayuṃ*)—the double-dealers
+- परि (*pari*) (जहि (*jahi*))—defeat and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, foster with us your ancient friendship. And whatever Asura there be who is not a worshipper of the gods and who devours all, destroy him. O Soma, being possessed of power to conquer our enemies, defeat and destroy our oppressors and double-dealers.
+
+##### English translation
+Do you (show) us your ancient (fiendship), drive away the impious voracious (Rakshasa); Indu who are victorious overcome those who oppress us, (drive) off the double-dealing (Rakshasa).
+
+### Printed p. 46
+## Sūkta 106 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रमच्छेति चतुर्दशर्चं तृतीयं सूक्तमौष्ठिहं पवमादसोमदेवताकं । प्रथमस्य तृचस्य चक्षुराख्यपुत्रोऽग्निर्ऋषिः । द्वितीयस्य मनुपुत्रश्चक्षुर्नामा । अप्पुनाम्नः पुत्रो मनुस्तृतीयस्य । एवं नवर्चो गताः । शिष्टानामपि पंचानां चाक्षुषोऽग्निः । तथा चानुक्रम्यते । इंद्रमच्छ षळूनाग्निश्चाक्सुर्मानवो मनुराप्सव इति तृचाः पंचाग्निरिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The hymn इंद्रमच्छ (*iṃdramaccha*) has fourteen Ṛks and is the third hymn, addressed to Pavamāna Soma; the metre is Uṣṇih. For the first triplet the seer is Agni, son of Cakṣus; for the second, Cakṣus, son of Manu; for the third, Manu, son of Apsu. Thus nine verses are gone; for the remaining five the seer is Agni Cākṣuṣa. The Anukramaṇī is quoted accordingly: इंद्रमच्छ षळूनाग्निश्चाक्सुर्मानवो मनुराप्सव इति तृचाः पंचाग्निरिति (*iṃdramaccha ṣaḷūnāgniścāksurmānavo manurāpsava iti tṛcāḥ paṃcāgniriti*). The viniyoga has already been given.
+
+##### Anuvāda
+
+This hymn "Indramaccha" is the third hymn in the seventh anuvāka. It has fourteen Ṛks. The deity is Pavamāna Soma; the metre is Uṣṇik. For the first three Ṛks (1–3) the seer is Agni, son of the seer named Cakṣus. For Ṛks 4–6 the seer is Cakṣus, son of Manu; for Ṛks 7–9 the seer is Manu, son of Apsu. After these nine Ṛks, for the remaining five the seer is Agni, son of the seer Cakṣus. In the Anukramaṇī it is said: इंद्रमच्च षळूनाग्निश्चाक्षुपश्चक्षुर्मानवो मनुराप्सव इति तृचाः पंचाग्निः (*iṃdramacca ṣaḷūnāgniścākṣupaścakṣurmānavo manurāpsava iti tṛcāḥ paṃcāgniḥ*). The viniyoga has been stated earlier.
+
+Sūkta 106. Maṇḍala 9; Anuvāka 7; Sūkta 106; Aṣṭaka 7; Adhyāya 5; Vargas 9, 10, 11. Number of Ṛks in the sūkta: 14.
+Seer: 1–3 Agni Cākṣuṣa; 4–6 Cakṣur Mānava; 7–9 Manu Āpsava; 10–14 Agni.
+Deity: Pavamāna Soma.
+Metre: Uṣṇik.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒मच्छ॑ सु॒ता इ॒मे वृष॑णं यंतु॒ हर॑यः ।  
+> श्रु॒ष्टी जा॒तास॒ इंद॑वः स्व॒र्विदः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रं ' अच्च । सुता । इमे । वृषणं । यंतु । हरयः !  
+> श्रुष्टी, जातासः । इंदवः । स्वःविदः ॥ १ ॥
+
+### Printed p. 47
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रुष्टी । श्रुष्टीति क्षिप्रनाम । क्षिप्रं जातासो जाता इंदवः पात्रेषु
+> क्षरंतः स्वर्विदः सर्वज्ञा हरयो हरितवर्णाः सुता अभिषुता इमे सोमा वृषणं
+> कामानां सेक्तारमिंद्रमच्छ यंतु । अभिगच्छंतु ॥
+
+##### Gist of the bhāṣya
+
+श्रुष्टी (*śruṣṭī*) is a name for "quickly". These Soma juices (इंदवः (*iṃdavaḥ*)), quickly born, flowing in the vessels, all-knowing, green-coloured, pressed out, should go towards Indra, the showerer, the sprinkler of desires.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रुष्टी (*śruṣṭī*)—quickly
+- जातासः (*jātāsaḥ*)—that are produced
+- इंदवः (*iṃdavaḥ*)—that flow in the vessels
+- स्वर्विदः (*svarvidaḥ*)—that possess all knowledge
+- हरयः (*harayaḥ*)—that are green-coloured
+- सुताः (*sutāḥ*)—that are pressed
+- इमे (*ime*)—these Soma juices
+- वृषणं (*vṛṣaṇaṃ*)—the granter of wishes
+- इंद्रं अच्छ (*iṃdraṃ accha*)—towards Indra
+- यंतु (*yaṃtu*)—let them flow
+
+##### भावार्थ (Bhāvārtha)
+
+May these Soma juices, quickly produced, flowing in the vessels, possessing all knowledge, green-coloured and pressed out, flow towards Indra, the granter of wishes.
+
+##### English translation
+May these effused green-tinted Soma juiees quickly generated, all-knowing, proceed to Indra the showerer (of benefits).
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं भरा॑य सान॒सिरिंद्रा॑य पवते सु॒तः ।  
+> सोमो॒ जैत्र॑स्य चेतति॒ यथा॑ वि॒दे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं भराय । सानसिः इंद्राय पवते सुतः !  
+> सोमः । जैत्रस्य चेतति यथा विदे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भराय संग्रामाय तदर्थं सानसिर्भजनीयः सुतोऽभिसुतोऽयं सोम
+> इंद्रायेंद्रार्थं पवते । ग्रहादिषु क्षरति । ततः सोमो जैत्रस्य ॥ क्रियाग्रहणं
+
+##### Gist of the bhāṣya
+
+For the battle (भराय (*bharāya*)), for that purpose, this pressed Soma, सानसिः (*sānasiḥ*) ("to be served"), flows for Indra, into the cups and the like. Then Soma जैत्रस्य (*jaitrasya*): as the act of seizing is to be done, the object receives the designation sampradāna, and by "in the sense of the dative the genitive occurs variously" the sixth case is used.
+
+### Printed p. 48
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कर्तव्यमिति कर्मणः संप्रदानसंज्ञा चतुर्थ्यर्थे बहुलमिति षष्ठी ॥ जयशीलमिंद्रं
+> चेतति । जानाति । यथेंद्रो विदे लोकैर्ज्ञायते तथा जानाति ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) जैत्रस्य (*jaitrasya*) is the victorious Indra; चेतति (*cetati*) means "knows". As Indra is known by the people (विदे (*vide*)), so he knows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भराय (*bharāya*)—for the battle
+- सुतः (*sutaḥ*)—pressed
+- सानसिः (*sānasiḥ*)—venerable
+- अयं (*ayaṃ*)—this Soma-deva
+- इंद्राय (*iṃdrāya*)—for Indra
+- पवते (*pavate*)—flows in the vessels
+- यथा (*yathā*)—in the way that
+- विदे (*vide*)—Indra is known by the people of the world, so
+- जैत्रस्य (*jaitrasya*)—the victorious Indra
+- सोमः (*somaḥ*)—Soma-deva
+- चेतति (*cetati*)—knows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, pressed for the battle and venerable, flows in the vessels for Indra. As Indra is known by all the people of the world, so Soma-deva too knows Indra's victoriousness.
+
+##### English translation
+This effused Soma adorable for battle, is filtered for Indra ; Soma thinks of the victorious (Indra) as he is known (in the world).
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्येदिंद्रो॒ मदे॒ष्वा ग्रा॒भं गृ॑भ्णीत सान॒सिं ।  
+> वज्रं॑ च॒ वृष॑णं भर॒त्सम॑प्सु॒जित् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । इत् । इंद्रः । मदेसु आ । ग्राभं । गृभ्नीत । सानसिं ।  
+> वज्रं । च : वृषणं । भरत् । सं । अप्पुऽजित् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ अनंतरमिंद्रोऽस्येदस्य सोमस्यैव मदेषु संजातेषु सानसिं सर्वैः
+> संभजनीयं ग्राभं ग्राहं ग्रहीतव्यं धनुर्गृभ्नित । गृह्णाति ॥ हृग्रहोर्भ इति
+> भत्वं ॥ किंचाप्सुजिदुदकार्थं वृत्रस्य जेता । यद्वा । आप इत्यंतरिक्षनाम । अंतरिक्षेऽहिनामकस्य जेता । इंद्रो वृषणं वर्षितारं वज्रं च सु भरत् । सुबिभर्तु ॥
+> बिभर्तेर्लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+Thereafter Indra, in the exhilarations (मदेषु (*madeṣu*)) arisen from this very Soma, takes the bow (ग्राभं (*grābhaṃ*), that which is to be taken), to be shared in by all (सानसिं (*sānasiṃ*)). Moreover *apsujit* is the conqueror of Vṛtra for the sake of water. Or else: *āpaḥ* is a name of the atmosphere; he is the conqueror of the one named Ahi in the atmosphere. Indra bears the showerer, the rain-giver, and the thunderbolt.
+
 ---
 
-**Progress note:** Done through printed p. 42. pp. 37-42 (batch API)
+**Progress note:** Done through printed p. 48. pp. 43-48 (batch API)
