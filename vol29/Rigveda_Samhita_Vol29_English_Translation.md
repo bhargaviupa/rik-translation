@@ -8241,8 +8241,6 @@ This (garment) is inflaming , it is pungent; it is like stale Soma ; it is like 
 
 **Verse 35**
 
-#### Ṛk 2
-
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > आ शसनं विशसनमथो अधिविकर्तनं ।  

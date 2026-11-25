@@ -127,6 +127,9 @@ def rk_headings(t):
             k-=1
         if k<0 or L[k].startswith('## '): prev=None                     # first Ṛk of a sūkta (or of the text)
         if k>=0 and L[k].startswith('## Sūkta') and n is None: n=1
+        vk=i-1
+        while vk>=0 and not L[vk].strip(): vk-=1
+        if h is None and vk>=0 and re.match(r'\*\*Verse \d+\*\*\s*$',L[vk]): continue              # a displaced verse headed by a bold `**Verse N**` line (Vol 29 p. 321): no Ṛk heading is made for it
         if h is None:
             if prev and n and n!=prev+1: ch.append(('number',f'added heading: block number {n} -> {prev+1} (misprint or cut line in the supplied text; the sequence wins)')); n=prev+1
             n=n or (prev+1 if prev else None); ins[i]='#### Ṛk'+(f' {n}' if n else ''); ch.append(('added',n))
