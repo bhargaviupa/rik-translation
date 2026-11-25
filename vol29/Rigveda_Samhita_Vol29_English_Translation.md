@@ -5057,6 +5057,123 @@ In the world of the gods where, without interruption, uninterrupted streams of h
 
 The word Viśvakarman, according to the context, is an epithet praising the nature of Indra and of Āditya. It means the power that makes everything. The names Agni, Indra and Āditya are names suited to the respective world and the respective rite, and they do not show a difference in the root principle; this was stated earlier, when the three kinds of forms of Agni were described at the time of the praise of Agni. Therefore, if Agni is Viśvakarman, there is no impropriety in Indra and Āditya also being designated by the same name. Describing Indra by the same epithet, the Ṛk Saṃhitā says thus—
 
+### Printed p. 174
+
+त्वमिंद्राभिभूरसि त्वं सूर्यमरोचयः । विश्वकर्मा विश्वदेवो महा असि ॥ (*tvamiṃdrābhibhūrasi tvaṃ sūryamarocayaḥ | viśvakarmā viśvadevo mahā asi ‖*) (Ṛ. Saṃ. 89-2) **NOTE**
+
+O Indra, you are the conqueror of all enemies. You have made Āditya radiant. Doing all works (you alone doing the work of all the deities) you are designated by the name of each deity. In this way, in the context of praising Indra's character as Viśvakarman, this epithet describes his greatness.
+
+विभ्राजइत्योतिषा स्वंगरच्छो रोचनं दिवः । येनेमा विश्वा भुवनान्याभृता विश्वकर्मणा विश्वदेव्यावत ॥ (*vibhrājaityotiṣā svaṃgaraccho rocanaṃ divaḥ | yenemā viśvā bhuvanānyābhṛtā viśvakarmaṇā viśvadevyāvata ‖*) (Ṛ. Saṃ. 10-170-4)
+
+O Āditya, making the whole world shine with your radiance, you have your place in the heaven-world. With the help of your radiances you are able to carry on all activities. For that very reason you are Viśvakarman. And you draw up with your radiance the water, the means of the sacrifice that benefits all the deities, and spread it over the world. For that very reason Āditya is praised as all-powerful, skilled in all works, and so on.
+
+In this way, in the forms of Agni, Indra and Āditya, pervading the three worlds, one and the same principle, which is the cause, the support and the refuge of the whole world, is spoken of as Viśvakarman. Durgācārya, explaining this very matter in his commentary on the Nirukta, says thus.
+
+सार्थिवाप्य धातू तेजसा परिपच्यमानौ वायुः व्यूहेन वि चरन् सर्वभावानुप्रवेशं सर्वमिदमत्यद्भुतमचिंत्यमकृतात्मभिर्जगत् करोतीति स मध्यमः । विश्वकरणाद्विश्वकर्मा । (*sārthivāpya dhātū tejasā paripacyamānau vāyuḥ vyūhena vi caran sarvabhāvānupraveśaṃ sarvamidamatyadbhutamaciṃtyamakṛtātmabhirjagat karotīti sa madhyamaḥ | viśvakaraṇādviśvakarmā |*) (Ni. Bhā. 10-25) **NOTE**
+
+He divides the elements of earth and atmosphere, which have been ripened by radiance, spreads them out according to the occasion, enters into them himself, and creates the world, which is full of variety and wonderful. Because he creates everything by his own power, he has the name Viśvakarman. The Śruti passages also praise this very thing. For example—
+
+आथैष वैश्वकर्मणो विश्वानि मे कर्माणि कृतान्यासन्निति विश्वकर्मा हि सोऽभवत्॥ (*āthaiṣa vaiśvakarmaṇo viśvāni me karmāṇi kṛtānyāsanniti viśvakarmā hi so 'bhavat‖*) (Mai. Saṃ. 1-10-16) **GLOSS**
+
+Such explanations praise the Viśvakarman-nature of the primal principle.
+
+### Printed p. 175
+
+Viśvakarman, thus described, resolved to create the world and created the world by his own act in the form of a sacrifice. This matter is stated in some places in the form of a narrative.
+
+तेन हौतेन विश्वकर्मा भौवन ईजे । तेनेष्ट्वात्यतिष्ठत्सर्वाणि भूतानीदग्ं सर्वमभवदतितिष्ठति सर्वाणि भूतानीदग्ं सर्वं भवति य एवं विद्वान्तर्वमेधेन यजते योवैतदेवं वेद ॥ (*tena hautena viśvakarmā bhauvana īje | teneṣṭvātyatiṣṭhatsarvāṇi bhūtānīdagṃ sarvamabhavadatitiṣṭhati sarvāṇi bhūtānīdagṃ sarvaṃ bhavati ya evaṃ vidvāntarvamedhena yajate yovaitadevaṃ veda ‖*) (Ka. Patra, 13-7-194) **NOTE**
+
+Viśvakarman Bhauvana performed this Sarvamedha sacrifice. As its fruit he attained the position that surpasses all beings, and he himself took all forms. Whoever performs this Sarvamedha sacrifice, he too, by the grace of Viśvakarman, attains in the same way the position that surpasses all beings and obtains the forms of them all; so it is said.
+
+In this context another passage is stated, but its purport cannot be given with certainty.
+
+तग्ं ह कश्यपो याजयांचकार। तदपि भूमिः श्लोकं जगौ न मा मर्त्यः कश्चन दातुर्महति विश्वकर्मन् भौवन मंद आसिथ उपमंघ्यति स्या सलिलास्य मध्ये मृषैष ते संगः ते कश्यपायेति ॥ (*tagṃ ha kaśyapo yājayāṃcakāra| tadapi bhūmiḥ ślokaṃ jagau na mā martyaḥ kaścana dāturmahati viśvakarman bhauvana maṃda āsitha upamaṃghyati syā salilāsya madhye mṛṣaiṣa te saṃgaḥ te kaśyapāyeti ‖*) (Pa. Brā. 13-7-1-15) **NOTE**
+
+In this sacrifice Kaśyapa helped Viśvakarman. Then the Earth speaks this word: O Viśvakarman Bhauvana, no mortal is able to give me away as a gift. This resolve of yours shows your presumption. This Earth sinks into the midst of the waters. The promise you have made to Kaśyapa is vain and will bear no fruit. The occasion for saying this is not so clear in the original passages. Therefore Sāyaṇa has made it clear in his commentary.
+
+अस्मै च विश्वकर्मा भूमिं दातुमियेष। तत्र च काले भूमिरपीमं श्लोकं गीतवती ॥ (*asmai ca viśvakarmā bhūmiṃ dātumiyeṣa| tatra ca kāle bhūmirapīmaṃ ślokaṃ gītavatī ‖*) (Śa. Brā. 13-7-1-15)
+
+Viśvakarman wished to give the Earth itself as a gift to Kaśyapa, who had helped him in his sacrificial work. Then the Earth, not tolerating it, spoke to Viśvakarman in this way. Thus Sāyaṇa has given the occasion for this speech of the Earth. The same matter is also told in the Aitareya Brāhmaṇa:
+
+### Printed p. 176
+
+एतेन ह वा ऐंद्रेण महाभिषेकेण कश्यपो विश्वकर्माणं भौवनमभिषिषेच तस्मादु विश्वकर्माभौवनः समंतं सर्वतः पृथिवीं जयन् परीयायाश्वेन च मेध्येनेजे भूमिर्ह जगावित्युदाहरंति न मा मर्त्यः कश्चन सातुमर्हति................। (*etena ha vā aiṃdreṇa mahābhiṣekeṇa kaśyapo viśvakarmāṇaṃ bhauvanamabhiṣiṣeca tasmādu viśvakarmābhauvanaḥ samaṃtaṃ sarvataḥ pṛthivīṃ jayan parīyāyāśvena ca medhyeneje bhūmirha jagāvityudāharaṃti na mā martyaḥ kaścana sātumarhati................|*) (Ai. Brā. 8-21)
+
+By the Aindra Mahābhiṣeka praised above (Ai. Brā. 8-21) Kaśyapa consecrated Viśvakarman Bhauvana. As its result Viśvakarman Bhauvana attained universal sovereignty, travelled over and conquered the whole Earth, and performed the horse sacrifice. Then the Earth (addressing Viśvakarman, who was giving her away to Kaśyapa) said: "O Viśvakarman, no one can give me away", and so on. Thus this matter is told in a somewhat different way.
+
+विश्वकर्मा ऋषिरिति । वाग्वै विश्वकर्मा ऋषिरि......... ॥ (*viśvakarmā ṛṣiriti | vāgvai viśvakarmā ṛṣiri......... ‖*) (Śa. Brā. 8-1-2-9)
+
+In this passage quoted above, and in other contexts also, Viśvakarman himself is said to be a seer. The word ṛṣi here means the all-knowing. The divine Viśvakarman, who is all-knowing, all-powerful, all-pervading and skilled in all works, is the seer Viśvakarman. The seer who composed the present sūktas (10-81, 82) is also a follower of Viśvakarman **NOTE**. According to the doctrine of this great seer, what the world is can here be examined in detail.
+
+According to the doctrine of this great seer, water is the original support of the whole world: तमिद्दर्भंप्रथमं दध्र आपः ॥ (*tamiddarbhaṃprathamaṃ dadhra āpaḥ ‖*) (10-82-6). But since this water too is a produced thing, the question what its source is arises naturally. For that very reason there is also the question कंस्विद्धर्भं प्रथमं दध्र आपः (*kaṃsviddharbhaṃ prathamaṃ dadhra āpaḥ*) (10-82-5). The first cause of the whole world is Īśvara. He is described by such epithets as विश्वतश्चक्षुः (*viśvataścakṣuḥ*). He alone is the god: जनयन् देव एकः (*janayan deva ekaḥ*); he is the producer of everything. योनः पिता (*yonaḥ pitā*): he is the refuge of all the deities: यत्र देवाः समपश्यंत विश्वे (*yatra devāḥ samapaśyaṃta viśve*).
+
+Thus Īśvara, who is all-knowing, all-powerful and all-pervading, cannot be seen with the worldly eye: न तं विदाथ य इमा जजानान्यद्युष्माकमंतरु बभूव (*na taṃ vidātha ya imā jajānānyadyuṣmākamaṃtaru babhūva*). His form is different from the other forms of the world. Covered by ignorance, we cannot see him. Yet the sight of him is utterly necessary.
+
+### Printed p. 177
+
+Both the power of performing the sacrifice and the power of creation are united in this Viśvakarman. The harmony of these two powers united in Agni has been examined earlier. In the same way these elements are present also in Hiraṇyagarbha, another form of Āditya, as will be explained later in the Hiraṇyagarbha sūkta. The same powers that are in harmony in Agni and in Hiraṇyagarbha are in harmony also in Viśvakarman. The element of performing the sacrifice, स्वयं यजस्व तन्वं (*svayaṃ yajasva tanvaṃ*) (10-81-5), alone shows the distinctive character of Agni. Epithets such as विश्वतश्चक्षुः (*viśvataścakṣuḥ*) show the distinctive character of Āditya. Ṛks 5 and 6 of sūkta 82 state the matters explained in Ṛks 7 and 8 of the Hiraṇyagarbha sūkta. Both these contexts too praise the primal principle in the form of Āditya.
+
+The same kind of explanation is found also in the Taittirīya Saṃhitā. The main points are all as in the Ṛk Saṃhitā; but only the explanation that is not in the Ṛk Saṃhitā is quoted and explained here.
+
+विश्वकर्माह्यजनिष्ट देव आदिद्दंधर्वो अभवद्वितीयः । तृतीयः पिता जनितौषधीनामपां गर्भं व्यदधात् पुरुत्रा ॥ (*viśvakarmāhyajaniṣṭa deva ādiddaṃdharvo abhavadvitīyaḥ | tṛtīyaḥ pitā janitauṣadhīnāmapāṃ garbhaṃ vyadadhāt purutrā ‖*) (Tai. Saṃ. 4-6-2-3)
+
+The god Viśvakarman was born first. Second the Gandharva, and third the father, the producer of the plants, were born. And in many places the germ in the form of water was established. This account tells of the birth of Viśvakarman. Moreover,
+
+विश्वकर्मन् हविषा वर्धनेन त्रातारमिंद्रमकृणोरवध्यं । तस्मै विशः समनमंत पूर्वीरयमुग्रो विहव्यो यथासत् ॥ (*viśvakarman haviṣā vardhanena trātāramiṃdramakṛṇoravadhyaṃ | tasmai viśaḥ samanamaṃta pūrvīrayamugro vihavyo yathāsat ‖*) (Tai. Saṃ. 4-6-3)
+
+O Viśvakarman, being inspired by the strength-giving oblation, you saved Indra, the protector of the world, from harm. All the ancient seers offered him their devout salutations. Everyone showed him devotion and made him worthy of invocation. All that is your power: this shows the exceeding power of Viśvakarman. For that very reason,
+
+समुद्राय वयुनाय सिंधूनां पतये नमः । नदीनाग्ं सर्वासां पित्रे जुहुता विश्वकर्मणे विश्वाहामर्त्यग्ं हविः ॥ (*samudrāya vayunāya siṃdhūnāṃ pataye namaḥ | nadīnāgṃ sarvāsāṃ pitre juhutā viśvakarmaṇe viśvāhāmartyagṃ haviḥ ‖*) (Tai. Saṃ. 4-6-2-6)
+
+### Printed p. 178
+
+Salutation to the ocean, the lord of the rivers and of movement; make a constant offering to Viśvakarman, the lord of the rivers; thus worship befitting the greatness of Viśvakarman is enjoined. Certain special features of Viśvakarman that are not described in the Ṛk Saṃhitā are known from these passages recited in the Taittirīya Saṃhitā.
+
+Prajāpati, in the form of Viśvakarman, withdraws the universe in the form of a sacrifice; desires to extend again the universe offered into himself in the form of an oblation; and pervades together with all the things of the extended universe. These matters are described in the first Ṛk (10-81-1). To examine these points first is the matter in hand. These matters will be explained in the special topics of the first Ṛk.
+
+Some deities are of the nature of conceptions, that is, the term deity is used for certain conceptions of the mind. All these actions belong to the one supreme god. Viśvakarman is one of such names. In the tenth maṇḍala alone this name occurs only five times, and there are two sūktas praising this deity (10-81; 10-82). The same word Viśvakarman is used once as an epithet of Indra (4-87-2) and once (10-170-4) as an epithet of Sūra, who creates everything. In the other Vedas its use as an epithet is common. It is an epithet of Prajāpati also (Vā. Saṃ. 12-61). In the two sūktas of the Ṛgveda Viśvakarman is described in this way. He is all-seeing; he has eyes on all sides, one face, arms and feet. According to this description Viśvakarman resembles Brahmā, who has four faces and four arms. He has wings also. He is a seer, a priest and a father. He is lord of speech; swift as thought; benevolent; the source of every kind of prosperity. All regions and all beings are known to him; he it is who tells all the deities their names. Wise and able; the supreme among superhuman persons. The support of everything, and terrible; he created the earth and brought the sky into light. Probably this word was at first used mainly as an epithet of Sūra, and later came to be regarded as a separate deity. Architecture is the special feature of this deity. In the Brāhmaṇas Viśvakarman and Prajāpati are clearly said to be one (compare Śa. Brā. 8-2-1-10; 8-2-2-13; Ai. Brā. 4-22). In the Purāṇas and elsewhere there are accounts that Viśvakarman is the carpenter of the gods.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इमेति सप्तर्चं त्रयोदशं सूक्तं भुवनपुत्रस्य विश्वकर्मण आर्षं
+> त्रैष्टुभं विश्वकर्मदैवत्यं । कथा चानुक्रांतं । य इमा विश्वकर्मा भौवनो
+
+### Printed p. 179
+
+> वैश्वकर्मणं त्विति ॥ गतः सूक्तविनियोगः ॥ अत्र वाजसनेयकं । ब्रह्मा वै स्वयंभूस्तपोऽतप्यत । तदैक्षत न वै तपस्यानंत्यमस्ति हंताहं भूतेष्वात्मानं जुहवानि
+> भूतानि चात्मनीति तत्सर्वेषु भूतेष्वात्मानं हुत्वेत्यादि । शत. १३-७-१ ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning य इम (*ya ima*) has seven Ṛks and is the thirteenth sūkta. Its seer is Viśvakarman, the son of Bhuvana; its metre is Triṣṭubh; its deity is Viśvakarman. The Anukramaṇī records it thus: य इमा विश्वकर्मा भौवनो वैश्वकर्मणं त्विति ॥ (*ya imā viśvakarmā bhauvano vaiśvakarmaṇaṃ tviti ‖*). The use of the sūkta has been stated. Here is the Vājasaneyaka passage: Brahmā Svayambhū practised austerity. He reflected: there is no endlessness in austerity; let me offer myself in the beings and the beings in myself. Having offered himself in all beings, and so on (Śat. 13-7-1).
+
+##### Anuvāda
+
+This sūkta beginning य इमा (*ya imā*) is the thirteenth sūkta in the sixth anuvāka. It has seven Ṛks. The seer of this sūkta is Viśvakarman, son of Bhuvana; Viśvakarman is the deity; Triṣṭubh is the metre. In the Anukramaṇī it is said य इमा भौवनो वैश्व कर्मणं तु (*ya imā bhauvano vaiśva karmaṇaṃ tu*) **NOTE**. The use of the sūkta has been stated before. In the Śatapatha Brāhmaṇa of the Vājasaneya Śruti it is said: ब्रह्म वै स्वयंभु तपोऽतप्यत । तदैक्षत न वै तपस्यानंत्य. मस्ति हंताहं भूतेष्वात्मानं जुहवानि भूतानि चात्मनीति तत्सर्वेषु भूतेष्वात्मानं हुत्वा (*brahma vai svayaṃbhu tapo 'tapyata | tadaikṣata na vai tapasyānaṃtya. masti haṃtāhaṃ bhūteṣvātmānaṃ juhavāni bhūtāni cātmanīti tatsarveṣu bhūteṣvātmānaṃ hutvā*) (Śa. Brā. 13-7-1), and so on.
+
+Maṇḍala 10; Anuvāka 6; Sūkta 81. Aṣṭaka 8; Adhyāya 3; Varga 16. Number of Ṛks in the sūkta: 7. Seer: विश्वकर्मा भौवनः (*viśvakarmā bhauvanaḥ*). Deity: विश्वकर्मा (*viśvakarmā*). Metre: त्रिष्टुप् (*triṣṭup*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मा विश्वा॒ भुव॑नानि॒ जुह्व॒दृषि॒र्होता॒ न्यसी॑दत्पि॒ता नः॑ ।  
+> स आ॒शिषा॒ द्रवि॑णमि॒च्छमा॑नः प्रथम॒च्छदव॑रा॒ आ वि॑वेश ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इमा । विश्वा । भुवनानि । जुह्वत् । ऋषिः । होता । नि । असीदत् । पिता । नः ।  
+> सः । आशिषा । द्रविणं । इच्छमानः । प्रथमछत् । अवरान् । आ । विवेश ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र निरुक्तं । विश्वकर्मा सर्वमेधे सर्वाणि भूतानि जुहवांचकार
+> स आत्मानमप्यंततो जुहवांचकार । तदभिवादिन्येषर्घर्वति य इमा विश्वा भुवनानि
+
+##### Gist of the bhāṣya
+
+Here the Nirukta says: Viśvakarman at the Sarvamedha offered all beings, and in the end he offered himself also. About this the following Ṛk speaks: य इमा विश्वा भुवनानि (*ya imā viśvā bhuvanāni*) (the quotation breaks off at the end of the window).
+
 ---
 
-**Progress note:** Done through printed p. 173. Mandala 10 sukta 80 verse 7; sukta 81 introduction, pp. 168-173
+**Progress note:** Done through printed p. 179. Sūkta 81 introduction pp. 174-178; sūkta 81 bhāṣya, Ṛk 1 start
