@@ -12040,6 +12040,178 @@ All matters concerning the Āprī-sūktas we have set out in detail in the intro
 151. Whichever deities are praised in each Ṛk of this sūkta, all of them are praised in this same order in all (ten) Āprī-sūktas. In the matter of the second deity (Tanūnapāt or Narāśaṃsa) there is a slight difference.
 प्रैपैः सहाप्रीसूक्तानि तानेकादश संति च । यजूंषि प्रैषसूक्तं वा दशैतानीतराणि तु ॥ (*praipaiḥ sahāprīsūktāni tānekādaśa saṃti ca | yajūṃṣi praiṣasūktaṃ vā daśaitānītarāṇi tu ‖*) (152)
 
+### Printed p. 325
+
+Three groups or varieties of the Āprī hymns.
+
+152. Counting the Praiṣa hymn as well, there are eleven Āprī hymns in all. Since the Praiṣa hymn belongs mainly to the Yajurveda and indicates its mantras, if it is left out there are ten Āprī hymns in all in the Ṛgveda.
+
+> सौत्रामणानि तु त्रीणि प्राजापत्याश्वमेधिके ।
+> पुरुषस्य तु यन्मेधे यजुःस्वेव तु तानि षट् ॥ १५३ ॥
+
+153. Besides these, three Āprī hymns belong to the sacrifice called Sautrāmaṇī, and one Āprī hymn each belongs to the sacrifices called Prājāpatya, Aśvamedha and Puruṣamedha. These six Āprī hymns in all belong to the Yajurveda.
+
+> अत्रैव प्रैषसूक्तं स्यान्न यजुःष्वाद्रियेत तत् ।
+> तेषां प्रैषगतं सूक्तं यच्च दीर्घतमा जगौ ॥ १५४ ॥
+
+154. Of these six Āprī hymns, only the Praiṣa mantras numbered 29 to 40 in the Vājasaneyi Saṃhitā of the Śukla Yajurveda need be examined. There is no need to consider the remaining five hymns. The seer named Dīrghatamas recited the 11 mantras of the Praiṣa hymn mentioned above.
+
+> मेधातिथौ यदुक्तं च त्रीण्येवोभयवंति तु ।
+> ऋषौ गृत्समदे यच्च वाध्यश्वे च यदुच्यते
+> ॥ १५५ ॥
+
+155. Of the above 10 Āprī hymns, in the hymn seen by the seer Medhātithi (hymn 13 of Maṇḍala 1) and in the hymn seen by the seer Dīrghatamas, beginning समिद्धो अग्न आ वह (*samiddho agna ā vaha*) (hymn 142 of Maṇḍala 1), two deities, Tanūnapāt and Narāśaṃsa, stand in the place of the second deity. Therefore these 2 hymns are named "Ubhayavanti hymns" (those having both). There are three more Āprī hymns in which, as in this hymn, Narāśaṃsa is the deity in the place of the second deity. They are: the hymn seen by the seer Gṛtsamada (hymn 3 of Maṇḍala 2), the hymn beginning समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*); the hymn beginning इमां मे अग्ने (*imāṃ me agne*) seen by the seer Vādhryaśva (hymn 70 of Maṇḍala 10); the fifth hymn of the fifth Maṇḍala, beginning सुसमिद्दायॆ (*susamiddāyè*), seen by Vasuśruta Ātreya; and the second hymn of the seventh Maṇḍala, beginning जुषस्व नः (*juṣasva naḥ*), seen by Vasiṣṭha. Since in these four hymns the second deity is Narāśaṃsa, these four Āprī hymns are named "Narāśaṃsavanti hymns".
+
+### Printed p. 326
+
+> नराशंसवदत्रेश्च ददर्श च यदौर्वशः ।
+> तनूनपादगस्त्यश्च जमदग्निश्च यज्जगौ
+> विश्वामित्र ऋषियर्च जगौ वै काश्यपोऽसितः ।
+> मेधातिथेर्यचां यास्तु प्रोक्ता द्वादश देवताः
+> ॥ १५६ ॥
+> ॥ १५७ ॥
+
+156-157. In the 188th hymn of the first Maṇḍala beginning समिद्धो अद्य मनुषो (*samiddho adya manuṣo*), seen by the seer Agastya; in the 110th hymn of the 10th Maṇḍala beginning समिद्धो अद्य मनुषो (*samiddho adya manuṣo*), seen by the seer Jamadagni; in the fourth hymn of the third Maṇḍala beginning समित्समित्सुमना (*samitsamitsumanā*), seen by the seer Viśvāmitra; and in the 5th hymn of the 9th Maṇḍala beginning समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*), seen by the seer Asita (or Devala), son of Kaśyapa, Tanūnapāt is the second deity. Therefore these 4 hymns are named "Tanūnapātvanti hymns". In the 13th hymn of the 1st Maṇḍala, seen by the seer Medhātithi, twelve deities in all are praised.
+
+> संपद्यंते यथाग्निं ताः संपदं तां निबोधत ।
+> इध्मो यः सर्वमेवाग्निरयं हीध्मः समिध्यते
+> ध्मातेर्नैतत्कृतं रूपं ध्मातो हीध्मः समिध्यते
+> ॥ १५८ ॥
+
+158. I shall tell how these deities reflect Agni; listen. In all these Āprī hymns the word इध्मः (*idhmaḥ*) in the first Ṛk indicates Agni. For the word समिध्यते (*samidhyate*) means "is kindled and made to blaze", and the word *dhmāti* means "blows (with a blow-pipe) and makes it burn". Since Agni is concerned in these two acts (kindling, and blowing it into flame), the words समिद्धः (*samiddhaḥ*) and the like found in the first Ṛk indicate Agni himself. Therefore the deity of the first Ṛk of an Āprī hymn is Agni (the blazing one).
+
+Here the second chapter of the work called Bṛhaddevatā ends.
+
+The third chapter
+
+> तनूनपादयं त्वेव नाम्ना यच्छत्यसौ तनुं ।
+> नपादिति प्रजामाहुरमुतोऽस्य च संभवं
+> ॥ ० ॥
+
+Tanūnapāt, Narāśaṃsa, Iḷā, Barhis — these deities.
+
+1. Tanūnapāt— This Agni has the name Tanūnapāt. "नपात् (*napāt*)" means offspring, progeny. Because the celestial Agni extends his body (tanū), and because the terrestrial Agni arises from it, the terrestrial Agni is named Tanūnapāt.
+
+### Printed p. 327
+
+> नराशंसमिहैके तु यज्ञमाहुरथेतरे ।
+> नराः शंसंति सर्वेऽस्मिन्नासीना इति नाध्वरे
+> ॥ २ ॥
+
+2. Narāśaṃsaḥ— Some say that this deity Narāśaṃsa is the sacrifice. Or else, because all people (narāḥ) sit in the sacrifice and praise (śaṃsa) this deity, this deity has come by the name Narāśaṃsa.
+
+> एतमेवाहुरन्येग्निं नराशंसोऽध्वरे ह्ययं ।
+> नरैः प्रशस्य आसीनैराहुश्चवर्त्विजो नरः ॥ ३ ॥
+
+3. Others again say that this deity (Narāśaṃsa) is Agni. For Agni, this deity, is praised by the men (people) seated in the sacrifice. The officiating priests also say the same.
+
+> इळस्त्वषिकृतं रूपमाडेश्व स्तुतिकर्मणः ।
+> इळावांस्तेन वोक्तोऽग्निरिडिना वृद्धि कर्मणा ॥ ४ ॥
+
+4. The seers say that the word इळॆ (*iḷè*) is derived from the root ईळॆ (*īḷè*) stut (to praise). Agni is also named Iḷāvān. This word is derived either from the root īḍ, to praise, or from the root id, to grow.
+
+> बर्हिरेवायमग्निस्तु सर्वं हि परिबृंहितं ।
+> अनेन यद्दु तो ना सन्निध्मन परिबृंहितः ॥ ५ ॥
+
+5. Barhiḥ— Agni himself is also called by the name Barhiḥ. For Agni, nourished by food in the form of the oblation, or by the kindling wood, grows (paribṛṃhitaḥ).
+
+> द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां तास्तु पत्नयः ।
+> अग्नायामनुर्वंते तथाग्नाय्गिमेव च ॥ ६ ॥
+
+Devīr dvāraḥ and Uṣāsānaktā — these deities.
+
+6. Dvāraḥ devyaḥ— The wives of all the deities (that is, the divine wives) are called by this name. All of them follow the goddess named Agnāyī, the wife of Agni. This Agnāyī follows Agni.
+
+> आग्नौ ध्रुवं स्थितास्तास्तु संस्तूयंतेऽग्निना सह ।
+> प्राधान्यं तासु जैवाग्ने स्तुतिष्टेव हविषु च ॥ ७ ॥
+
+### Printed p. 328
+
+7. These deities are firmly established in Agni, and are praised together with Agni. In the praises offered to them and in the oblations, Agni holds the primacy.
+
+> नक्तोषासौ च ये देव्यावाग्नॆयामेव ते स्मृते ।
+> श्याव्यााग्नॆयि हि कालस्य तस्यॆवोषाः कलेव तु ॥ ८ ॥
+
+8. Naktoṣāsau or Uṣāsānaktā (that is, the deity Uṣas and the deity presiding over night)— it is said that these two deities too belong to Agni. For since Agni removes darkness, Agni and darkness (Śyāvī) are, as it were, related in a certain way. Uṣas also is said to be one kalā (one part in sixteen) of that night-time.
+
+> तम उच्छत्युषा नक्तानक्तिमां हिमबिंदुभिः ।
+> अपि वाव्यक्तवर्णेति नञ्चूर्वाइच्चीरिदं भवेत् ॥ ९ ॥
+
+9. Tamaḥ ucchatīty uṣāḥ— because she drives away darkness, this deity is named Uṣāḥ. Imāṃ (rātriṃ) anakti himabindubhir ati naktā— because she moistens this night-time with drops of frost (dew), night is named Naktā; or the word naktā may be derived from na-añcati. Since in this night-time nothing is seen clearly, she is also named Naktā— Avyaktavarṇā ("of indistinct colour").
+
+> सा हि दोषा भवत्याद् निशीथे सा तमस्वती ।
+> नाम्मा भवत्युषाश्चैव सैषा प्रागुदयाद्रवेः ॥ १० ॥
+
+10. This night deity has three kinds of names according to the time. At the beginning of the night she is named Doṣā, at midnight Tamasvatī, and at the end of the night, that is, before sunrise, Uṣā.
+
+> दैव्याविति तु होतारानाग्नी पार्थिवमध्यम् ।
+> दिव्यादग्निर्हि जज्ञाते दैव्या तेनेह जन्मना ॥ ११ ॥
+
+Daivyā hotārā, tisro devyaḥ, Tvaṣṭā.
+
+11. Daivyā hotārā means the terrestrial Agni and the middle (atmospheric) Agni. These two forms of Agni have arisen from the celestial Agni (divyād agneḥ); therefore these two forms of Agni are called by the name Daivyā (belonging to heaven).
+
+> तिस्रस्तु देव्यो याः प्रोक्तास्त्रिस्थानैवेह सा तु वाक् !
+> त्रिविधेनोच्यते नाम्मा ज्योतिःषु त्रिषु वर्तनी ॥ १२ ॥
+
+### Printed p. 329
+
+12. Tisro devyaḥ— the deities called tisraḥ devyaḥ (three goddesses) reflect Vāk, or the goddess of speech, who is in the three places. Because this goddess of speech is in three places, she is said to have three kinds of forms and is called by three different names.
+
+> अग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती ।
+> अमुं स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ १३ ॥
+
+13. Following the terrestrial Agni, the goddess of speech in this world is named Iḷā. The Vāk in the middle (atmospheric) world is named Sarasvatī, and the goddess of speech in the heavenly world is named Bhāratī. (One deity has three different names according to difference of place.)
+
+> सैषा शु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च ।
+> व्यस्ता चैव समस्ता च भजत्यग्नीमानपि ॥ १४ ॥
+
+14. Though this goddess of speech is one, she exists by three kinds of names in the three places, earth, atmosphere and heaven. Whether in one form or in separate forms, this deity is united with the Agni of the respective place (with the threefold Agni in earth, atmosphere and heaven).
+
+> त्वष्टा तु यस्त्वयमेव पार्थिवोऽग्निरिति स्तुतिः ।
+> पार्थिवस्यास्य वर्चसि स्युः कस्याप्यक् चार्तवेषु च ॥ १५ ॥
+
+15. The deity called Tvaṣṭā is praised as the terrestrial Agni itself (or its transformation); or there are Ṛks that praise this deity as a terrestrial deity (belonging to the place of the earth). And among the Ṛks that praise the seasons there is one Ṛk that praises this deity Tvaṣṭā as a transformation of Agni (Kaśyapa).
+
+> त्वषितस्त्वक्षतेर्वा स्यात्तूर्णमश्नुत एव ना ।
+> कर्मसूत्तारणो वेति तेन नामृतदश्नुते ॥ १६ ॥
+
+The celestial deity Tvaṣṭā; the story of the seer Dadhīca; the middle-region Tvaṣṭā.
+
+16. Etymology of the word Tvaṣṭā— The word may be derived from the root tviṣ (to shine) or from the root takṣ. Or this god has come by the name Tvaṣṭā because he obtains quickly (tūrṇa), or because he helps in rites.
+
+> यः सहस्रतमो रश्मी रवेश्वंद्रमुपाश्रितः ।
+> सोऽपि त्वष्टारमेवाग्निं परं चेह च यन्मधु ॥ १७ ॥
+
+### Printed p. 330
+
+17. The thousandth ray of the sun has taken refuge in the moon. That ray pervades Tvaṣṭā, a transformation of Agni existing in the earth and in the atmosphere, and the Madhu-vidyā (the knowledge that revives the dead), and has taken refuge there.
+
+> प्रादाद्ब्रह्मापि सुप्रीतः सुताय तदथर्वणः ।
+> स चाभवदृष्टेन ब्रह्मणा दीप्तिमत्तरः ॥ १८ ॥
+
+18. At one time Indra, pleased with the seer Dadhyañc, the son of Atharvan, taught him the Madhu-vidyā (Brahma-knowledge). By the power of that knowledge the seer Dadhīci shone with exceeding brilliance (varcas).
+
+> तम्मृषिं निषिषेधेंद्रो मैवं वोचः क्वचिन्मधु ।
+> न हि प्रोक्ते मधुन्यस्मिज्जीवंतं त्वोत्सजाम्यहं ॥ १९ ॥
+
+19. While teaching this Madhu-vidyā, Indra said to the seer: "You must not teach this (this Madhu-vidyā) to anyone. If, transgressing my word, you tell it to anyone, then I shall not leave you alive."
+
+> तम्मृषिं त्वश्चिन् देवौ निविक्ते मध्वयाचतां ।
+> स च ताभ्यां तदाचष्टे यदुवाच शबीपतिः ॥ २० ॥
+
+20. While matters stood so, at one time the Aśvin deities came to the seer Dadhīci and secretly begged him to teach them that Madhu-vidyā. Hearing this, the seer told them what Śacīpati (Indra) had said, that he should not tell this knowledge to anyone.
+
+> तमब्रूतां तु नासत्यावाश्वेन शिरसा भवान् ।
+> मध्वाशु ग्राहयत्वानां मेंद्रश्च त्वा वधीत्ततः ॥ २१ ॥
+
+21. Hearing it, the Aśvin deities said: "Then put on the head of a horse, and in that form teach us the Madhu-vidyā. Indra will not kill you."
+
+> आश्वेन शिरसा तौ तु दध्यज्जाह यदश्विन् ।
+> तदस्येंद्रोऽहरत्सं तन्न धत्तामस्य यच्चिरः ॥ २२ ॥
+
+22. Thereupon the seer Dadhyañc taught the Aśvin deities that Madhu-vidyā. Enraged at this, Indra cut off the horse's head of the seer Dadhīci. Afterwards the Aśvin deities joined to his body again the head that he had before.
+
 ---
 
-**Progress note:** Done through printed p. 324. pp. 319-324 (batch API)
+**Progress note:** Done through printed p. 330. pp. 325-330 (batch API)
