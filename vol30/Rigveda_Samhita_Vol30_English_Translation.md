@@ -37048,6 +37048,208 @@ If he be of wasted life, or already dead, or be come to the verge of death, I br
 
 निर्ऋतेः उपस्थात् (*nirṛteḥ upasthāt*)—Nirṛti means the evil deity. This deity has a close connection with Death; "the lap of Nirṛti" means the deathbed. The mention of this Nirṛti in the 59th hymn of this Maṇḍala may be seen in the Special Topics of that hymn. And for an explanation of the meaning of the word nirṛti, see Ṛ. Saṃ. Part 3, page 272.
 
+### Printed p. 1087
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒ह॒स्रा॒क्षेण॑ श॒तशा॑रदेन श॒तायु॑षा ह॒विषाहा॑र्षमेनं ।  
+> श॒तं यथे॒मं श॒रदो॒ नया॒तींद्रो॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रअक्षेण । शतशारदेन । शतआयुषा । हविषा । आ । अहार्षं । एनं ।  
+> शतं । यथा । इमं । शरदः । नयाति । इंद्रः । विश्वस्य । दुःइतस्य । पारं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रमिति बहुनाम । सहस्रमक्षीणि चक्षूंषि यस्य हविषः फलत्वेन विद्यंते
+> तत्सहस्राक्षं ॥ बहुव्रीहौ सत्यक्षोरिति षट् समासांतः ॥ शरदः संबंधी शारदः
+> संवत्सरः । शतं शारदा यस्य तत्तथोक्तं ॥ बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥ अत
+> एव शतायुषा शतसंवत्सरपरिमितमायुर्जीवनं फलभूतं यस्य तादृशेन हविषा ।
+> यद्वा । सहस्राक्ष इंद्रः । तेन शतशारदेन शरदां संवत्सराणां शतस्य दातृत्वेन
+> संबंधिना कर्त्रा शतायुषा हविषा करणभूतेन एनं यक्ष्मगृहीतमाहार्षं ।
+> रोगादनैषं । यथा येन प्रकारेणेमं पुरुषं शतं शरदः संवत्सरान् ॥ अत्यंतसंयोगे द्वितीया ॥ एतावंतं कालमिंद्रो विश्वस्य सर्वस्य दुरितस्य दुःखस्य
+> पारमवसानं दुःखराहित्यं नयाति नयेत् तथाहार्षमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes सहस्र (*sahasra*) to be a word for "many". An oblation whose fruits are a thousand imperishable "eyes" is सहस्राक्षं (*sahasrākṣaṃ*) (a bahuvrīhi, with the samāsānta ṣac). शारदः (*śāradaḥ*) is that which belongs to the autumn, that is, the year. That which has a hundred autumns is *śataśāradaṃ*, and its accent is that of the first member of the compound. For the same reason शतायुषा (*śatāyuṣā*) means an oblation whose fruit is life, living, measured as a hundred years.
+
+Alternatively: सहस्राक्ष (*sahasrākṣa*) is Indra. By him, the giver of a hundred autumns (years), as the agent, and by the oblation of a hundred years of life as the instrument, "I have brought back" (आहार्षं (*āhārṣaṃ*)) this man seized by yakṣma, that is, I have wished him away from the disease. यथा (*yathā*) means "in the manner in which". शतं शरदः (*śataṃ śaradaḥ*) means a hundred years (the accusative expresses continuous duration). For so long may Indra lead (नयाति (*nayāti*) = नयेत् (*nayet*)) this man to the far end, the termination, the freedom from sorrow, of all (विश्वस्य (*viśvasya*)) sorrow (दुरितस्य (*duritasya*)); so I have brought him back. That is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in whatever manner
+- इमं (*imaṃ*)—this man seized by disease
+- शरदः शतं (*śaradaḥ śataṃ*)—for a hundred years
+- इंद्रः (*iṃdraḥ*)—Indra
+- विश्वस्य (*viśvasya*)—of all
+- दुरितस्य (*duritasya*)—of sorrow
+- पारं (*pāraṃ*)—to the end, that is, finally
+- नयाति (*nayāti*)—may lead; in that manner
+- सहस्राक्षेण (*sahasrākṣeṇa*)—by Indra (by Indra's favour); or, having thousands of fruits called eyes
+- शतशारदेन (*śataśāradena*)—having a span of a hundred years
+- शतायुषा (*śatāyuṣā*)—having a life-span of a hundred years
+- हविषा (*haviṣā*)—by this oblation
+- एनं (*enaṃ*)—this man afflicted with the yakṣma (consumption) disease
+- आहार्षं (*āhārṣaṃ*)—I have made free from the disease
+
+### Printed p. 1088
+
+##### भावार्थ (Bhāvārtha)
+
+In the manner in which Indra makes the afflicted man free from sorrow for a hundred years, in that manner, with this oblation, which can give thousands of kinds of fruits such as health, can keep him free from disease, that is, healthy, for a hundred years, and can increase his life-span to a hundred years, I have made this man, afflicted by the yakṣma disease, free from disease.
+
+##### English translation
+I have rescued him with an oblation having a thousand eyes, conferring a hundred years, giving life for a century, so that Indra may condnct him beyond all harm for a hundred years.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्राक्षेण (*sahasrākṣeṇa*)—Here सहस्र (*sahasra*) means many, unlimited; अक्षि (*akṣi*) means eyes. "Eyes" means excellent fruits. An oblation with thousands of eyes means that by offering this oblation thousands of excellent fruits are obtained. And,
+
+शतशारदेन (*śataśāradena*), शतायुषा (*śatāyuṣā*)—these two words indicate one and the same meaning. The intention is that this oblation has the power to increase the life-span to a hundred years. शरत् (*śarat*) means the autumn season or the cold season. Since the autumn comes only once in a year, there is a custom in many contexts of using the word शरत् (*śarat*) itself to denote the meaning "year". Therefore शरदः शतं (*śaradaḥ śataṃ*) means a hundred years.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं जी॑व श॒रदो॒ वर्ध॑मानः श॒तं हे॑मं॒ताञ्चि॒तमु॑ वसं॒तान् ।  
+> श॒तमिं॑द्रा॒ग्नी स॑वि॒ता बृह॒स्पतिः॑ श॒तायु॑षा ह॒विषे॒मं पुन॑र्दुः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । जीव । शरदः । वर्धमानः । शतं । हेमंतान् । शतं । ऊं इति । वसंतान् ।  
+> शतं । इंद्राग्नी इति । सविता । बृहस्पतिः । शतआयुषा । हविषा । इमं । पुनः । दुः ॥
+
+### Printed p. 1089
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यक्ष्माद्विमुक्त वर्धमानोऽहरहरभिवृद्धिं प्राप्नुवंस्त्वं शतं शरदः
+> शतसंख्याकाञ्यरदृतूञ्जीव । प्राणान्धारय ॥ पूर्ववदत्यंतसंयोगे द्वितीया ॥
+> शतं हेमंतान् हेमंतर्तूंश्च जीव शतं वसंतांश्च । उशब्दः समुच्चये । अपि
+> चेंद्राग्नी इंद्रश्चाग्निश्च सविता प्रेरको देवश्च बृहस्पतिर्बृहतां देवानां पालयिता देवश्च शतायुषा शतसंवत्सरपरिमितस्यायुषो हेतुभूतेन हविषा तर्प्यमाणाः संत इमं जनं पुनर्दुः । पुनरस्सभ्यं प्रादुः ॥
+
+##### Gist of the bhāṣya
+
+"O you who are freed from yakṣma, growing (वर्धमानः (*vardhamānaḥ*)) from day to day, attaining increase, live (जीव (*jīva*), bear the breaths) a hundred autumns, that is, a hundred autumn seasons" (as before, the accusative expresses continuous duration). "Live a hundred winters (हेमंतान् (*hemaṃtān*)), the winter seasons, and a hundred springs (वसंतान् (*vasaṃtān*))." The word उ (*u*) is in the sense of "and" (samuccaya). Moreover Indra and Agni, Savitṛ, the impelling god, and Bṛhaspati, the god who protects the great gods, being gratified by the oblation (हविषा (*haviṣā*)) that is the cause of a life-span measured as a hundred years (शतायुषा (*śatāyuṣā*)), "gave this man back" (पुनर्दुः (*punarduḥ*)): they gave him again to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O man freed from the consumption disease, you) 
+- वर्धमानः (*vardhamānaḥ*)—growing from day to day, that is, gradually regaining health of body
+- शतं शरदः (*śataṃ śaradaḥ*)—for a hundred autumn seasons (a hundred years)
+- जीव (*jīva*)—live
+- शतं हेमंतान् (*śataṃ hemaṃtān*)—live until a hundred winter seasons have passed
+- शतं वसंतान् (*śataṃ vasaṃtān*)—live until a hundred spring seasons have passed (and)
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- सविता (*savitā*)—the god Savitṛ, the impeller of all
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati also
+- शतायुषा (*śatāyuṣā*)—having the power to increase the life-span so that one lives a hundred years
+- हविषा (*haviṣā*)—gratified by this oblation
+- इमं (*imaṃ*)—this man just now freed from the consumption disease
+- पुनर्दुः (*punarduḥ*)—gave back to us, that is, granted that he live in our midst
+
+##### भावार्थ (Bhāvārtha)
+
+O man freed from the consumption disease, growing from day to day, that is, gradually regaining health of body, live until a hundred autumn seasons have passed, that is, for a hundred years. In the same way live until a hundred winter seasons and a hundred spring seasons have passed, that is, for a hundred years. And Indra, Agni, Savitṛ and Bṛhaspati, all these gods, gratified by this oblation, which has the power to increase the life-span so that one lives a hundred years, have granted that this man, who had fallen ill and has recovered from it, live again in our midst.
+
+##### English translation
+Regaining your strength, live for a hundred autumns, a hundred winters, a hundred springs; may Indra, Agni, Savitri, and Brihaspati, (propitiated) by this century-yielding oblation, give this man back (to us) for a hundred years.
+
+### Printed p. 1090
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the span of time is stated as शतं शरदः (*śataṃ śaradaḥ*), शतं हेमंतान् (*śataṃ hemaṃtān*), शतं वसंतान् (*śataṃ vasaṃtān*). Since in one year the autumn, the winter or the spring season comes only once, there is a custom of saying "the time in which a hundred autumn seasons pass" in order to denote the span of years; and the words शरदः शतं (*śaradaḥ śataṃ*) are used in this sense in many places in the Ṛgveda. But in this Ṛk, along with the words शरदः शतं (*śaradaḥ śataṃ*), the expressions शतं हेमंतान् (*śataṃ hemaṃtān*) and शतं वसंतान् (*śataṃ vasaṃtān*) are also used. The meaning stated for the words शरदः शतं (*śaradaḥ śataṃ*) applies to these words too. The span of a man's life is reckoned as a hundred years, and that is regarded as the full life; so in all contexts where one wishes to live to the full life, it is natural to pray for a hundred years of life. In the present Ṛk the words शरदः शतं (*śaradaḥ śataṃ*) alone already indicate this meaning, so that much would have sufficed. Nevertheless, with the intention of stressing here the span of a hundred years, the seer has described it by adducing two more expressions, शतं हेमांतान् (*śataṃ hemāṃtān*) and शतं वसंतान् (*śataṃ vasaṃtān*).
+
+For this reasoning an explanation is given in the Nirukta Pariśiṣṭa as follows—
+
+शतं जीव शरदो वर्धमानः शतं हेमंतान् शतमु वसंतान् । (*śataṃ jīva śarado vardhamānaḥ śataṃ hemaṃtān śatamu vasaṃtān |*)
+शतमिंद्राग्नी सविता बृहस्पतिः शतायुषा हविषेमं पुनर्दुः ॥ (*śatamiṃdrāgnī savitā bṛhaspatiḥ śatāyuṣā haviṣemaṃ punarduḥ ‖*)
+शतं जीव शरदो वर्धमान इत्यपि निगमो भवति शतमिति शतं दीर्घमायुर्मरुत एना वर्धयंति शतमेनमेव शतात्मानं भवति शतमनंतं भवति शत मैश्वर्यं भवति शतमिति शतं दीर्घमायुः ॥ (*śataṃ jīva śarado vardhamāna ityapi nigamo bhavati śatamiti śataṃ dīrghamāyurmaruta enā vardhayaṃti śatamenameva śatātmānaṃ bhavati śatamanaṃtaṃ bhavati śata maiśvaryaṃ bhavati śatamiti śataṃ dīrghamāyuḥ ‖*)
+(Nirukta Pariśiṣṭa 14-36)
+
+Here the word शतं (*śataṃ*) has many meanings. Among them "long life" is the chief one. मरुत एना वर्धयंति (*maruta enā vardhayaṃti*)—those who increase are the Maruts. As long as men or animals live, inhalation and exhalation must go on without interruption. Wind (air) is necessary for these. Therefore the Maruts (the winds), helping these inhalations and exhalations, thereby increase life. शतं (*śataṃ*) means "in many ways": to the man afflicted by disease, शतमात्मानं (*śatamātmānaṃ*)—nourishment of the body or health of the body; अनंतं (*anaṃtaṃ*)—other unlimited advantages; शत ऐश्वर्यं (*śata aiśvaryaṃ*)—unlimited wealth; शतमिति शतं दीर्घमायुः (*śatamiti śataṃ dīrghamāyuḥ*)—above all, long life—may the gods grant these. That is the chief intention of the explanation.
+
+### Printed p. 1091
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आहा॑र्षं॒ त्वावि॑दं त्वा॒ पुन॒रागाः॑ पुनर्नव ।  
+> सर्वां॑ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च तेविदं ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अहार्षं । त्वा । अविदं । त्वा । पुनः । आ । अगाः । पुनःनव ।  
+> सर्वऽअंग । सर्वं । ते । चक्षुः । सर्वं । आयुः । च । ते । अविदं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे व्याधिगृहीत त्वा त्वामाहार्षं । मृत्योः सकाशादाहृतवानस्मि । अत एव
+> त्वा त्वामविदं । अलप्सि । हे पुनर्नव पुनरभिनव पुनरागाः । पुनरस्मत्समीपमागच्छ । हे
+> सर्वांग सर्वैरविकलैरंगैरुपेत ते तव सर्वं चक्षुः । उपलक्षणमेतत् । इंद्रियवर्गं सकलमविदं । लब्धवानस्मि । ते तवायुर्जीवनं च सर्वं संपूर्णमविदं ॥
+
+##### Gist of the bhāṣya
+
+"O you seized by disease, I have brought you back (आहार्षं (*āhārṣaṃ*)): I have fetched you from the presence of death. For that very reason I have found (अविदं (*avidaṃ*), अलप्सि (*alapsi*)) you. O you who are young again (पुनर्नव (*punarnava*), newly renewed), come again (पुनरागाः (*punarāgāḥ*)), come to us once more. O you who are furnished with all limbs (सर्वांग (*sarvāṃga*)), with no limb deficient, I have found all your eye." This is an indication (upalakṣaṇa): the whole group of senses, I have obtained. "And your life, your living, I have found entire."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O man afflicted by disease)
+- त्वा (*tvā*)—you
+- आहार्षं (*āhārṣaṃ*)—I have fetched, freeing you from death (therefore)
+- त्वा (*tvā*)—you
+- अविदं (*avidaṃ*)—I have obtained again
+- पुनर्नव (*punarnava*)—O man, who, having recovered from the disease, are like a new man
+- पुनः अगाः (*punaḥ agāḥ*)—come again into our presence
+- सर्वांग (*sarvāṃga*)—O man, who are strong in all limbs, with no defective limb
+- ते (*te*)—your
+- सर्वं चक्षुः (*sarvaṃ cakṣuḥ*)—all the senses beginning with the eye
+- अविदं (*avidaṃ*)—I have obtained
+- ते (*te*)—your
+- आयुः च (*āyuḥ ca*)—life-time, or life-span
+- सर्वं (*sarvaṃ*)—that which is entire
+- अविदं (*avidaṃ*)—I have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O man afflicted by disease, I have fetched you out of the mouth of death. Therefore it is as if you were born again. Having recovered from the disease, come to us as a new man, that is, strong with health. I have made you sound and strong in all limbs without deficiency, with no defect or fault in all the senses beginning with the eye, and with your life-span complete.
+
+### Printed p. 1092
+
+##### English translation
+I have rescued you, I have found you; come back again, you who are young again ; sound in body, I have obtained for you all your senses, your whole life.
+
+##### विशेषविषयगळु (Special Topics)
+
+The khila mantra to be recited at the end of this sūkta—
+
+ऊर्ध्वरेखा प्र दहंते विष्णुरिममिंद्राग्नी अमृतं जुषेथां । (*ūrdhvarekhā pra dahaṃte viṣṇurimamiṃdrāgnī amṛtaṃ juṣethāṃ |*)
+मह्यं दधाना उप दीर्घमायुरस्मे धत्तं पुरुभुजा पुरंधिः ॥ १५ ॥ (*mahyaṃ dadhānā upa dīrghamāyurasme dhattaṃ purubhujā puraṃdhiḥ ‖ 15 ‖*)
+
+## Sūkta 162 (Maṇḍala 10)
+**Introduction**
+In this sūkta the gods are prayed to that there be no miscarriage (abortion) before the time of birth. As an expiation to prevent miscarriage, certain rites such as an oblation in the fire are to be performed, as stated in some works such as the Ṛgvidhāna—
+
+यस्याः गर्भः प्रमायेत तत्राग्नौ जुहुयाद्भविः । (*yasyāḥ garbhaḥ pramāyeta tatrāgnau juhuyādbhaviḥ |*)
+ब्रह्मणाग्निः संविदान इत्याज्येन यथाविधि ॥ ८७ ॥ (*brahmaṇāgniḥ saṃvidāna ityājyena yathāvidhi ‖ 87 ‖*)
+आज्यशेषेण चाभ्यज्य गर्भिणी प्रसवेत्ततः । (*ājyaśeṣeṇa cābhyajya garbhiṇī prasavettataḥ |*)
+पिबेदेवाज्यशेषं तु जीवंस्तस्याः प्रजायते ॥ ८८ ॥ (*pibedevājyaśeṣaṃ tu jīvaṃstasyāḥ prajāyate ‖ 88 ‖*)
+जातानि चेत्प्रमायेरन्नाज्यं कृत्वानुमंत्रितं । (*jātāni cetpramāyerannājyaṃ kṛtvānumaṃtritaṃ |*)
+ब्रह्मणाग्निरिति हुत्वा संपातान्निनयेन्मण् ॥ ८९ ॥ (*brahmaṇāgniriti hutvā saṃpātānninayenmaṇ ‖ 89 ‖*)
+मणिं तु त्रिवृति सूत्रे वासयेद्वाससा सह । (*maṇiṃ tu trivṛti sūtre vāsayedvāsasā saha |*)
+न्यग्रोधशुंगया तत्र शुक्ललोहितनेष्टितं ॥ ९० ॥ (*nyagrodhaśuṃgayā tatra śuklalohitaneṣṭitaṃ ‖ 90 ‖*)
+तं सावित्र्ययुतेनाथ अनुमंत्र्य यथाविधि । (*taṃ sāvitryayutenātha anumaṃtrya yathāvidhi |*)
+संपातैरयुतेनैव ब्रह्मणेति च संस्तुतं ॥ ९१ ॥ (*saṃpātairayutenaiva brahmaṇeti ca saṃstutaṃ ‖ 91 ‖*)
+उपरिष्टाच्च सावित्रा तावदेनानुमंत्रणं । (*upariṣṭācca sāvitrā tāvadenānumaṃtraṇaṃ |*)
+सर्वॆः स्वस्त्ययनैश्च तज्जपेदभिहुतं मणिं ॥ ९२ ॥ (*sarvèḥ svastyayanaiśca tajjapedabhihutaṃ maṇiṃ ‖ 92 ‖*)
+शिरसा धारयेन्नारी प्रयता गर्भिणी सती । (*śirasā dhārayennārī prayatā garbhiṇī satī |*)
+तृतीये गर्भमासे तु मणिमेतं समासजेत् ॥ ९३ ॥ (*tṛtīye garbhamāse tu maṇimetaṃ samāsajet ‖ 93 ‖*)
+पुष्प्यंती शरदं नारी गौः सवत्सा वसेद्यथा । (*puṣpyaṃtī śaradaṃ nārī gauḥ savatsā vasedyathā |*)
+
 ---
 
-**Progress note:** Done through printed p. 1086. pp. 1080-1086 (batch API)
+**Progress note:** Done through printed p. 1092. pp. 1087-1092 (batch API)
