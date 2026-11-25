@@ -18069,6 +18069,129 @@ He who gives no food to a friend, to his companion, to one near him, is no frien
 (Kṛ. U. 3-9)
 Food should be made plentiful; one should regard doing so as a vow. Earth is food. Space eats food; that is, plants, grains and the like grown on earth are eaten, as oblations, by the gods dwelling in the atmosphere (heaven). In earth space is established; in space earth is established. Both (earth and space) are established in food. That food is established in food (in Brahman in the form of food). One who knows that food is established in food
 
+### Printed p. 548
+…knows this is established, or lives with honour. He becomes rich in food and an enjoyer of food. He also becomes endowed with sons, grandsons and other progeny, possessed of cattle, and, together with Brahma-radiance and fame, gains esteem among men. And further: न कंचन वसतौ (*na kaṃcana vasatau*) … य एवं वेद । इत्युपनिषत् (*ya evaṃ veda | ityupaniṣat*) **NOTE** (Kṛ. U. 3-10) **NOTE**
+
+These sentences quoted above were spoken by the Veda-Puruṣa himself. One must not turn anyone away by saying there is no room in the house; that very thing is to be regarded as the vow. Therefore, by whatever means, one must obtain plenty of food. It is said, "Prepare food for him (the guest)." This is the preparation of food with the utmost respect. Parameśvara himself has said that in preparing food and giving it to a worthy recipient there are three kinds: sāttvika, rājasa and tāmasa.
+
+दातव्यमिति यद्दानं दीयतेनुपकारिणे । देशे काले च पात्रे च तद्दानं सात्विकं स्मृतं ॥ (*dātavyamiti yaddānaṃ dīyatenupakāriṇe | deśe kāle ca pātre ca taddānaṃ sātvikaṃ smṛtaṃ ‖*)
+
+### Printed p. 549
+
+यदन्नं संपादितमस्येतदेवान्नं मुखतो राद्धं भवति । मुख्ये देशे तीर्थक्षेत्रविशेषे मुख्यकाले संक्रांत्यमावास्यादिरूपे मुख्यायाभ्यागताय वेदशास्त्र तदध्ययनानुष्ठानपराय मुख्यया वृत्ता श्रद्धाप्रणिपातसत्कारादिपरया मुख्येन दात्रा सात्विकेन दत्तमित्यर्थः । यः पुमानेवं सात्विकं दानप्रकारं वेद विदित्वानुतिष्ठति अस्मै जन्मांतरे मुख्यक्रमेणैवान्नं संपद्यते । (*yadannaṃ saṃpāditamasyetadevānnaṃ mukhato rāddhaṃ bhavati | mukhye deśe tīrthakṣetraviśeṣe mukhyakāle saṃkrāṃtyamāvāsyādirūpe mukhyāyābhyāgatāya vedaśāstra tadadhyayanānuṣṭhānaparāya mukhyayā vṛttā śraddhāpraṇipātasatkārādiparayā mukhyena dātrā sātvikena dattamityarthaḥ | yaḥ pumānevaṃ sātvikaṃ dānaprakāraṃ veda viditvānutiṣṭhati asmai janmāṃtare mukhyakrameṇaivānnaṃ saṃpadyate |*)
+
+Sāttvika gift means this: while giving, the giver must not hold any hope that the receiver will do him some return service later on. A gift given in a spirit of sincere devotion, with no hope of any return service, after considering place and time and the worthy or unworthy recipient, is called a sāttvika gift. That is, one should give food at holy places such as sacred bathing-places and sacred fields, on principal days such as Saṅkrānti and Amāvāsyā, to a guest or visitor who comes whether invited or of his own accord. If that guest is accomplished in the study of the Veda and the śāstras, practises them, and is endowed with good conduct, that is better still; one should honour such a man with faith, attend on him with respect and the like, and give him food. If food is given to any man afflicted by hunger, and especially to guests and visitors with the qualities mentioned above, it is not only a sāttvika gift but the giver, in other births, enjoys happiness amply provided with wealth of food. This is set out here in the sentences एतद्वै मुखतोऽन्नग्ं राद्धं । मुखतोऽस्मा अन्नग्ं राज्यते (*etadvai mukhato 'nnagṃ rāddhaṃ | mukhato 'smā annagṃ rājyate*) **NOTE**. Now the second and third kinds, rājasa and tāmasa gifts, are as follows:
+
+यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः । दीयते च परिक्लिष्टं तद्राजसमुदाहृतं ॥ (*yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ | dīyate ca parikliṣṭaṃ tadrājasamudāhṛtaṃ ‖*)
+ं ॥ अदेशकाले यद्दानमपात्रेभ्यश्च दीयते । असत्कृतमवज्ञातं तत्तामसमुदाहृतं ॥ (*ṃ ‖ adeśakāle yaddānamapātrebhyaśca dīyate | asatkṛtamavajñātaṃ tattāmasamudāhṛtaṃ ‖*)
+
+The gift made by a man who gives in expectation of a return service is called a rājasa gift. For example: "If today I give food to this man, then tomorrow, or some day hereafter, he too will honour me in the same way"; a gift made with such a thought is called rājasa. Such a gift is set out here in the sentences एतद्वै मध्यतोऽन्नग्ं राद्धं । मध्यतोऽस्मा अन्नग्ं राज्यते (*etadvai madhyato 'nnagṃ rāddhaṃ | madhyato 'smā annagṃ rājyate*).
+
+Further, a gift made without regard to place, time, or the worthy or unworthy recipient, without proper honour, merely for self-praise, is called tāmasa; that is, at a place of one's own whim, that is, at a censured place,
+
+### Printed p. 550
+
+at an improper time, that is, at an unseasonable time such as midnight, to an unworthy recipient, that is, one who is not troubled by hunger, has eaten up to his throat and has no need of any food, a hospitality or gift made out of vanity, so that another may see one's hospitality to guests and admire it, is called tāmasa. This is set out here in the sentences एतद्वा अंततोन्नग्ं राद्धं । अंततोऽस्या अन्नग्ं राज्यते (*etadvā aṃtatonnagṃ rāddhaṃ | aṃtato 'syā annagṃ rājyate*). Therefore, knowing all these matters well, one should give food at the right time to a fit and worthy recipient.
+
+It is explained that a man who regards food as the form of the supreme Brahma and worships it with a certain thought obtains its fruit according to his thought. Thus: तत्प्रतिष्ठेत्युपासीत! प्रतिष्ठावान्भवति (*tatpratiṣṭhetyupāsīta! pratiṣṭhāvānbhavati*). If one worships it, thinking of it as pratiṣṭhā (support), one becomes endowed with the means of comfort such as food and clothing and possessed of standing. One who worships it as radiance (mahaḥ) becomes prosperous in wealth and the like, endowed with the qualities of greatness, and worthy of honour. One who worships it as manaḥ (mind) becomes possessed of mental power. One who worships it as namaḥ (worthy of salutation) is saluted by all and brings all under his sway. For him all desires, that is, all his wishes, come under control, that is, are fulfilled. One who worships it as Brahma comes to know the Vedas and the secrets of the truth of the Vedic meaning. For one who worships it as तद्ब्रह्मणः परिमर (*tadbrahmaṇaḥ parimara*), the enemies and afflictions around him are all destroyed. All enemies, haters and disliked persons perish completely. The one who is in this person and the one who is in the sun are Brahma alone. One who has such knowledge departs from this world, passes beyond the states of the self called annamaya, prāṇamaya, manomaya, vijñānamaya and ānandamaya, becomes a vidyādhara (that is, a deity with the power to assume whatever forms he wishes), and, enjoying his desires, roams here and there singing these (following) sāman verses. What a marvel this is! "I am food; I am the eater of food; I am the praiser; I was born before the truth (ṛta); before the gods, in the navel of immortality (in the middle), I was born. Whoever offers (food) to me becomes just like me. I am food. I eat the one who eats food. I overcome this whole world, this universe. One who knows this becomes like golden light." In this way there are many descriptions of food, or of the deity (Brahma) who is the lord of food. There are many more mantras in the Vedas containing matters concerning food; for fear of the extent of the book they cannot all be set out here.
+
+### Printed p. 551
+
+In this sūkta wealth and food are praised. The seer has described it in another way (by contrast). He has described, so as to touch the heart, the experience and sufferings of a beggar who, without food, famished and emaciated, wanders from door to door for alms. For describing it thus, there are sufficient grounds to guess that the seer of the sūkta himself must have undergone such an experience. Likewise, the seer Kavaṣa, son of Iluṣa, is not a Brāhmaṇa. He belonged to the Śūdra caste engaged in farming (agriculture). He used to gamble with dice, counters and the like. Having lost a great deal of property in gambling, he fell into distress without food and other provisions. His parents, relatives and brothers drove him away without admitting him to the house. The seer has described all this very well in his sūkta (the 34th sūkta of the 10th Maṇḍala). He has also described well the thoughts that arise in the minds of players as the dice roll in the game, "Shall I win or lose?"; how those who are not gamblers work hard, earn wealth and live happily; and how one engaged in farming lives happily on the crop he has grown. Once, when the seer Agastya was walking on grass, suspecting that a snake might have bitten him, he described snakes, their wicked nature, the method of removing poison and other related matters in the 191st sūkta of the 1st Maṇḍala. All these are matters described from one's own experience.
+
+It is noteworthy that in some sūktas the name of the deity praised is also the name of the seer of that sūkta. An example is that the seer of the sūkta praising the deity Manyu (Ṛ. Saṃ. 10th Maṇḍala, sūktas 83 and 84) is a seer named Manyu, and the seer of the sūktas praising Viśvakarman (10th Maṇḍala, sūktas 81 and 82) is a seer named Viśvakarman. There are many such sūktas. Therefore it can be guessed that Bhikṣu of the Aṅgirasa line, the seer of the present sūkta, once begged alms for food, and it seems that for this very reason the name Bhikṣu came into use for him. Even if he had another name, it is not well known.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> न वा इति नवर्चंपंचमं:सूक्तं। भिक्षुर्नामांगिरस ऋषिः । प्रथमाद्वितीये
+> जगत्या शिष्टाः सप्त त्रिष्टुभः । अत्र धनस्यान्नस्य च दानं स्तूयते । अतस्तद्दैवत्यमिदं । तथा चानुक्रांतं । न वा उ भिक्षुर्धनान्नदानप्रशंसाद्ये जगत्याविति ॥ गतो
+> विनियोगः ॥
+> கெட்டது நல்லது
+
+##### Gist of the bhāṣya
+
+This is the fifth sūkta, of nine verses. The seer is Bhikṣu of the Aṅgirasa line. The first two verses are in Jagatī; the remaining seven are in Triṣṭubh. Here the giving of wealth and of food is praised, so this sūkta has that as its deity. He cites the Anukramaṇī accordingly: न वा उ भिक्षुर्धनान्नदानप्रशंसाद्ये जगत्याविति (*na vā u bhikṣurdhanānnadānapraśaṃsādye jagatyāviti*). The viniyoga has already been given.
+
+### Printed p. 552
+
+##### Anuvāda
+
+This sūkta beginning "न वा (*na vā*)" is the fifth sūkta in the tenth anuvāka. It has nine ṛks. The seer of this sūkta is Bhikṣu of the Aṅgirasa gotra; its first two ṛks are in the Jagatī metre; the remaining ṛks are in the Triṣṭup metre. In this sūkta the praise of the giving of wealth and food is stated. Therefore the praise of the giving of wealth and food is the deity of this sūkta. In the Anukramaṇī it is said: न वा उ भिक्षुर्धनान्नदानप्रशंसाद्ये जगत्यौ (*na vā u bhikṣurdhanānnadānapraśaṃsādye jagatyau*). The viniyoga has been stated earlier.
+
+Sūkta—117
+Maṇḍala—10 ‖ Anuvāka—10 ‖ Sūkta—117 ‖
+Aṣṭaka—8 ‖ Adhyāya—6 ‖ Varga—22, 23 ‖
+Number of ṛks in the sūkta—9
+Ṛṣi—Bhikṣu Aṅgirasa
+Deity—praise of the giving of wealth and food
+Metre—1-2 Jagatī; 3-9 Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न वा उ॑ दे॒वाः क्षुध॒मिद्व॒धं द॑दुरु॒ताशि॑त॒मुप॑ गच्छंति  ॒॑
+> मृत्यवः ।  
+> उ॒तो र॒यिः पृ॑ण॒तो नोप॑ दस्यत्यु॒तापृ॑णन्मर्डि॒तारं॒ न  ॑
+> विंदते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । वै । ऊं इति । देवाः । क्षुधं । इत् । वधं । दमः । उत । आशितं । उप ।  
+> गच्छंति । मृत्यवः ।  
+> उतो इति । रयिः । पृणतः । न । उप । दस्यति । उत । अपृणन् । मर्डितारं । न ।  
+> विंदते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भिक्षुः प्रथमं व्यतिरेकमुखेनान्नदानं प्रशंसति । देवा वै देवाः खलु
+> सर्वेषां क्षुधं न ददुः । न प्रायच्छन् । किंतु वधमिद्वधमेव दत्तवंतः । एतादृशीं
+
+##### Gist of the bhāṣya
+
+Bhikṣu first praises the giving of food by way of contrast. The gods, indeed, did not give hunger to all; they did not bestow it, but gave only death (वधमिद्वधमेव (*vadhamidvadhameva*)).
+
+### Printed p. 553
+
+> वधरूपां क्षुधमन्नदानेन यः शमयति स दाता खलु । उ इति पूरणः । योऽदत्ता
+> भुंक्ते तमाशितं भुंजानं पुरुषमपि मृत्यवो मरणान्युप गच्छंति । समापे
+> यांति ॥ अशितः कर्ता! पा. ६-१-२०७ । इत्याद्युदात्तत्वं ॥ क्षुधार्तानां भोक्त्वाणां
+> च मरणं समानं । किं दानेन धननाशरूपेण । अत आह । उतो । उतशब्दोऽप्यर्थे । पृणतः प्रयच्छतः पुरुषस्य रयिर्धनं नोप दस्यति । नोपक्षीयते ॥ दसु
+> उपक्षये दैवादिकः । पृण दाने तौदादिकः । तस्य शत्रंतस्य शतुरनुमो नद्यजादी
+> इति विभक्तेराद्युदात्तत्वं ॥ दानप्रसंगेनादातारं दूषयति । अपृणन्न प्रयच्छन्
+> पुरुषस्तु मर्डितारमात्मनः सुखयितारं न विंदते । न कुत्रापि लभते । इह
+> बंधवोऽप्रदानान्न सुखयंति देवा अपि हविष्पदानाभावात् ॥
+
+##### Gist of the bhāṣya
+
+He who allays this hunger, which is of the nature of death, by the giving of food is truly a giver. उ (*u*) is an expletive. Deaths approach even the man who has eaten (आशितं (*āśitaṃ*)), who enjoys without giving. The death of those afflicted by hunger and of those who only eat is alike; what is the use of giving, which amounts to loss of wealth? Hence he says उतो (*uto*): the word उत (*uta*) is in the sense of "also". The wealth (रयिः (*rayiḥ*)) of a man who fills (पृणतः (*pṛṇataḥ*)), that is, gives, does not waste away (नोप दस्यति (*nopa dasyati*), does not diminish). Incidentally to the matter of giving, he censures the non-giver: the man who does not fill, that is, does not give, does not find one who makes him happy (मर्डितारं (*marḍitāraṃ*)); he gets him nowhere. Here relatives do not make him happy because of his non-giving, and the gods too, for lack of the gift of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः वै (*devāḥ vai*)—the gods (to all)
+- क्षुधं (*kṣudhaṃ*)—hunger (the affliction of hunger)
+- न ददुः (*na daduḥ*)—did not give; but,
+- वधं इत् (*vadhaṃ it*)—gave only death
+- उत (*uta*)—and
+- आशितं (*āśitaṃ*)—even the man who has eaten food
+- मृत्यवः (*mṛtyavaḥ*)—deaths
+- उप गच्छंति (*upa gacchaṃti*)—approach
+- उतो (*uto*)—moreover
+- पृणतः (*pṛṇataḥ*)—of the man who gives
+- रयिः (*rayiḥ*)—wealth
+- न उप दस्यति (*na upa dasyati*)—does not diminish
+- उत (*uta*)—and
+- अपृणन् (*apṛṇan*)—the man who gives nothing to anyone
+- मर्डितारं (*marḍitāraṃ*)—another man who would bring him happiness (or good)
+- न विंदते (*na viṃdate*)—does not obtain
+
+##### भावार्थ (Bhāvārtha)
+
+When the gods created human beings, they did not ordain that they should suffer from hunger, or the affliction of hunger, and that as a result of that affliction they should meet death. Even a man who, not knowing what the burning of hunger is, is always eating food well becomes subject to death. Moreover, for a man who gives wealth or food his wealth does not diminish. But for a miserly man who never gives anything to anyone, neither happiness nor help is obtained from anyone.
+
+##### English translation
+The gods have not assigned hunger as (the cause of) death, for deaths approach the man who has eaten; the riches of one who gives do not diminish, he who gives not finds no consoler.
+
 ---
 
-**Progress note:** Done through printed p. 547. pp. 542-547 (batch API)
+**Progress note:** Done through printed p. 553. pp. 548-553 (batch API)
