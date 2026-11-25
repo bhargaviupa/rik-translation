@@ -18,7 +18,7 @@ def main():
     a=sys.argv[1:]
     if not a: sys.exit(__doc__)
     vol=a[0]; d=f'vol{vol}/review/second_pass'; opt=lambda k,df=None:(a[a.index(k)+1] if k in a else df)
-    os.makedirs(d,exist_ok=True); bp=f'{d}/batches.tsv'; F=rd(f'{d}/findings.tsv'); Q=rd(f'{d}/questions.tsv'); B=rd(bp); O=rd(f'{d}/open.tsv')
+    os.makedirs(d,exist_ok=True); bp=f'{d}/batches.tsv'; F=rd(f'{d}/findings.tsv'); Q=rd(f'{d}/questions.tsv'); MIS=rd(f'{d}/kn_misprints.tsv'); DEF=rd(f'{d}/decided_by_default.tsv'); B=rd(bp); O=rd(f'{d}/open.tsv')
     cols='batch first last rows applied edits_ok edits_failed questions tokens commit date note'.split()
     if '--add-batch' in a:
         i=a.index('--add-batch'); lo,hi=int(a[i+1]),int(a[i+2])
@@ -48,7 +48,8 @@ def main():
     for k,n in sorted(kind.items(),key=lambda x:-x[1]): L.append(f'| {k} | {kapp[k]} | {n-kapp[k]} | {n} |')
     L+=['',f'By reader: '+', '.join(f'{k} {v}' for k,v in sorted(rdr.items())),'','## 4. Open items (not findings)']
     L+= [f"- **{o['kind']}** (pages {o['pages']}): {o['text']}" for o in O] or ['- none recorded']
-    L+=['','## 5. Questions for the editor',f'{len(Q)} rows in `questions.tsv`'+('; by kind: '+', '.join(f'{k} {sum(1 for r in qs if r["kind"]==k)}' for k in sorted({r["kind"] for r in qs})) if qs else ''),'',
+    L+=['','## 5. Questions for the editor',f'**{len(Q)} open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).','',
+        f'Settled by rule, no reading needed: {len(MIS)} Kannada misprints where the English is kept (`kn_misprints.tsv`); {len(DEF)} places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.','',
         '## 6. Files',f'`{d}/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)','',
         '## 7. Next',opt('--next','the next page batch; then S3 totals (re-run the S0 checks), S4 coverage, S5 pictures, S6 records')]
     open(f'{d}/STATUS_REPORT.md','w',encoding='utf8').write('\n'.join(L)+'\n'); print(f'{d}/STATUS_REPORT.md written: {len(B)} batches, {len(F)} findings, {len(Q)} questions')

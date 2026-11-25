@@ -65,7 +65,9 @@ By reader: R1 365, R3 359, R6 169
 - **other** (pages 173): Kannada p.173 says the Kauṣītakī-brāhmaṇa follows the Bāṣkala branch although p.172 equates the Kauṣītakī brāhmaṇa with the Śāṅkhāyana branch; English changed to Bashkala as printed
 
 ## 5. Questions for the editor
-118 rows in `questions.tsv`; by kind: H29 101, S13 1, S16 3, S17 4, S7 19
+**0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
+
+Settled by rule, no reading needed: 101 Kannada misprints where the English is kept (`kn_misprints.tsv`); 17 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

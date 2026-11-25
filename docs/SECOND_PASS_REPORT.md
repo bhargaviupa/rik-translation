@@ -11,7 +11,8 @@ python3 tools/rv/sp_report.py N --add-batch FIRST LAST --tokens 272k --commit ab
 | File | Columns | Written by |
 |---|---|---|
 | `findings.tsv` | page, kind (a code of `docs/ERROR_KINDS.md`), reader (R1\|R3\|R6), place, as_found, proposed, basis, decision (applied\|question), log | the batch reader, append only |
-| `questions.tsv` | page, place, as_found, question, why_not_settled | the batch reader, one row per `question` finding |
+| `questions.tsv` | page, place, as_found, question, why_not_settled | normally empty: only what the rules cannot settle (user, Nov 25 2026: no long question lists) |
+| `kn_misprints.tsv`, `decided_by_default.tsv` | page, place, as_found, question, why_not_settled, decision | the batch reader: Kannada misprints with the English kept; other doubts with the English kept (for the scholar sample) |
 | `batches.tsv` | batch, first, last, rows, applied, edits_ok, edits_failed, questions, tokens, commit, date, note | `sp_report.py --add-batch` |
 | `open.tsv` | kind (page-absent\|boundary-shifted\|marker\|block-not-read\|tool\|findings-row-stale\|other), pages, text | the dispatcher: things the editor must know that are not findings |
 | `edits/eA-B.tsv` + `.result.tsv` | page, target (en\|kn), old, new, kind, basis; result: status | the reader; `tools/rv/sp_apply.py` |
@@ -21,7 +22,7 @@ python3 tools/rv/sp_report.py N --add-batch FIRST LAST --tokens 272k --commit ab
 2. **Batches** — one row each: batch, pages, findings, applied, edits ok / failed, questions, tokens, commit, note (the note is one line: what was unusual).
 3. **Findings by kind** — kind, applied, questions, total; then the count by reader.
 4. **Open items (not findings)** — absent pages, shifted page boundaries, wrong page markers, blocks the pass does not read, tool problems, stale rows. Each with its pages.
-5. **Questions for the editor** — the count and the kinds; the rows are in `questions.tsv`.
+5. **Questions for the editor** — the open count (normally 0) and the number of places settled by rule.
 6. **Files** — where everything is, including `repair_log.md` and `data/source_fixes.tsv`.
 7. **Next** — what is done next.
 

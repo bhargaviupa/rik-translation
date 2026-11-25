@@ -1,8 +1,8 @@
 # Vol 6 second pass — status report
-*Made by `python3 tools/rv/sp_report.py 6` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-24. Format: `docs/SECOND_PASS_REPORT.md`.*
+*Made by `python3 tools/rv/sp_report.py 6` from `findings.tsv`, `questions.tsv`, `batches.tsv`, `open.tsv`; updated 2026-11-25. Format: `docs/SECOND_PASS_REPORT.md`.*
 
 ## 1. State
-- **Stage:** S3–S6 done; S2 reading complete
+- **Stage:** S2 reading in page batches
 - **Pages read:** 618 of 618 (300–309, 2–31, 32–61, 62–91, 92–121, 122–151, 152–181, 182–211, 212–241, 242–271, 272–299, 310–339, 340–369, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–599, 600–619)
 - **Findings:** 1188 — applied 871, questions 317; edits ok 878, failed 0
 - **Reader tokens (batches so far):** 5301k; per page 8.6k
@@ -83,10 +83,12 @@ By reader: R1 736, R3 274, R6 178
 - **boundary-shifted** (pages 570-571): English p. 570 (jaghantha entry) carries the first lines of the Kannada p. 571 text (inside the Kannada p. 570 block, head 571 missing); English p. 571 starts at arcan
 
 ## 5. Questions for the editor
-314 rows in `questions.tsv`; by kind: H29 277, R3 4, S1 3, S13 8, S14 7, S16 3, S17 1, S2 1, S7 13
+**0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
+
+Settled by rule, no reading needed: 260 Kannada misprints where the English is kept (`kn_misprints.tsv`); 54 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol6/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
 
 ## 7. Next
-editor: the questions (reclassify the misprint rows in bulk), the open items; S7 not part of this pass
+the next page batch; then S3 totals (re-run the S0 checks), S4 coverage, S5 pictures, S6 records
