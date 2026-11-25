@@ -5320,6 +5320,337 @@ They cleanse the new-born infant, the green-tinted shining Soma, on the filter f
 
 Indu, fair in form (चारुः (*cāruḥ*)) and a seer (कविः (*kaviḥ*), of far-reaching wisdom), flows in the lap of the waters, in the atmosphere or on the filter, for exhilaration and for भगाय (*bhagāya*), desirable wealth. **NOTE**
 
+### Printed p. 115
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चारुः (*cāruḥ*)—one of attractive form
+- कविः (*kaviḥ*)—one of far-reaching wisdom
+- इंदुः (*iṃduḥ*)—the god Soma
+- अपां (*apāṃ*)—of the waters
+- उपस्थे (*upasthe*)—in the atmosphere, their support
+- मदाय (*madāya*)—for exhilaration
+- भगाय (*bhagāya*)—for venerable wealth
+- पविष्ट (*paviṣṭa*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, of attractive form and far-reaching wisdom, flows in the atmosphere, the support of the waters, for exhilaration and for venerable wealth.
+
+##### English translation
+The auspicious sage Indu flows upon the lap of the waters for exhilaration and for wealth.
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बिभ॑र्ति॒ चार्विंद्र॑स्य॒ नाम॒ येन॒ विश्वा॑नि वृ॒त्रा ज॒घान॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बभर्ति । चारु । इंद्रस्य । नाम । येन । विश्वानि । वृत्रा । जघान ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमश्चारु कल्याणमिंद्रस्य नाम शरीरं बिभर्ति । धारयति । पोषयति ।
+> येन शरीरेणेंद्रो विश्वानि सर्वाणि वृत्राणि पापरूपाणि रक्षांसि जघान हतवान् ॥
+
+##### Gist of the bhāṣya
+
+That Soma bears Indra's lovely (चारु (*cāru*), auspicious) इंद्रस्य नाम (*iṃdrasya nāma*), that is, his body; he holds and nourishes it. By this body Indra slew all (विश्वानि (*viśvāni*)) वृत्राणि (*vṛtrāṇi*), that is, the demons (रक्षांसि (*rakṣāṃsi*)) of the nature of sin.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—the god Soma
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- चारु (*cāru*)—attractive
+- नाम (*nāma*)—body
+- बिभर्ति (*bibharti*)—bears
+- येन (*yena*)—by which Soma-filled body
+- विश्वानि (*viśvāni*)—all
+- वृत्रा (*vṛtrā*)—enemies
+- जघान (*jaghāna*)—Indra destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma bears Indra's attractive body. By that very Soma-filled body Indra destroyed all enemies.
+
+##### English translation
+The auspicious (Soma) sustains Indra's body by which he has slain all Rakshasas.
+
+### Printed p. 116
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबं॑त्यस्य॒ विश्वे॑ दे॒वासो॒ गोभिः॑ स्री॒तस्य॒ नृभिः॑ सु॒तस्य॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिबंति । अस्य । विश्वे । देवासः । गोभिः । श्रीतस्य । नृभिः । सुतस्य ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे सर्वॆ देवासो देवा गोभिर्गॊविकारैः श्रीतस्य मिश्रितं नृभिः कर्मनेतृभिर्युत्विग्भिः सुतास्याभिषुतमस्यामुं सोमं पिबंति । द्वितीयार्थे षष्ठ्यः ॥
+
+##### Gist of the bhāṣya
+
+All the gods drink this Soma, mixed (श्रीतस्य (*śrītasya*)) with cow-products (गोविकारैः (*govikāraiḥ*)) and pressed by the priests, the leaders of the rite. The genitives are used in the sense of the accusative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे (*viśve*)—all
+- देवासः (*devāsaḥ*)—the gods
+- गोभिः (*gobhiḥ*)—with milk and the like
+- श्रीतस्य (*śrītasya*)—mixed
+- नृभिः (*nṛbhiḥ*)—by the priests
+- सुतस्य (*sutasya*)—pressed
+- अस्य (*asya*)—this Soma
+- पिबंति (*pibaṃti*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+All the gods drink this Soma, mixed with milk and the like and pressed by the priests.
+
+##### English translation
+The universal gods drink of it, effused by the priests, mixed with the milk and curds.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु॑वा॒नो अ॑क्षाः स॒हस्र॑धारास्ति॒रः प॒वित्रं॒ वि वार॒मव्यं॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सुवासः । अक्षारिति । सहस्रधारः । तिरः । पवित्रं । वि । वारं । अव्यं ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानोऽभिषूयमाणः अत एव सहस्रधारो बहुधारायुक्तः सोमोऽव्यमविभवं वारं वालं पवित्रं तिरो व्यवधायकं कुर्वन् प्राक्षाः । विविधं प्रक्षरति ॥
+> क्षरतेर्लुजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Soma, being pressed and therefore possessed of a thousand streams (many streams), makes the sheep's wool (*avyaṃ vāraṃ*) filter a screen (तिरः (*tiraḥ*)) and flows (प्राक्षाः (*prākṣāḥ*)) in manifold ways. अक्षाः (*akṣāḥ*) is the form of the root क्षर (*kṣara*) in the aorist with luk.
+
+### Printed p. 117
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानः (*suvānaḥ*)—pressed
+- सहस्रधारः (*sahasradhāraḥ*)—having many kinds of streams; Soma
+- अव्यं (*avyaṃ*)—of wool
+- वारं (*vāraṃ*)—having threads
+- पवित्रं (*pavitraṃ*)—the ten-fringed filter
+- तिरः (*tiraḥ*)—crossing
+- वि प्र अक्षाः (*vi pra akṣāḥ*)—flows in various forms
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, pressed and with many kinds of streams, crosses the ten-fringed filter of woollen thread and flows in various forms (in many streams).
+
+##### English translation
+Being effused the The Soma in a thousand streams flows through the sheep's-hair filter.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वा॒ज्य॑क्षाः स॒हस्र॑रेता अ॒द्भिर्मृ॑जा॒नो गोभिः॑ श्रीणा॒नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वाजी । अक्षारिति । सहस्ररेताः आर्‍भीः । मृजानः । गोभिः । श्रीणानः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजी वेगवान्बलवान्वा स सोमोऽक्षाः । क्षरति । कीदृशः । सहस्ररेता बहुरेतस्नो बहूदकोऽद्भिर्वसतीवरीभिर्मृजानो मृज्यमानो गोभिगोर्गोविकारैः
+> क्षेरादिभिः श्रीणानः श्रीयमाणः ॥
+
+##### Gist of the bhāṣya
+
+The vigorous (swift or strong) Soma flows. Of what kind? सहस्ररेता (*sahasraretā*): of abundant juice, with much water; cleansed (मृजानः (*mṛjānaḥ*)) with the waters, the वसतीवरी (*vasatīvarī*) waters; and mixed (श्रीणानः (*śrīṇānaḥ*)) with cow-products, milk and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्ररेताः (*sahasraretāḥ*)—of abundant juice
+- अद्भिः (*adbhiḥ*)—with the Vasatīvarī waters and the like
+- मृजानः (*mṛjānaḥ*)—undergoing purification
+- गोभिः (*gobhiḥ*)—with milk and the like
+- श्रीणानः (*śrīṇānaḥ*)—undergoing mixture
+- वाजी (*vājī*)—swift
+- सः (*saḥ*)—that same Soma
+- अक्षाः (*akṣāḥ*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+That same god Soma, of abundant juice, purified with the Vasatīvarī waters and the like, mixed with milk and the like, and swift, flows.
+
+##### English translation
+The vigorous Soma flows in a thousand streams cleansed by the waters and mixing with the curds and milk,
+
+### Printed p. 118
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सो॑म या॒हींद्र॑स्य कु॒क्षा नृभि॑र्येमा॒नो अद्रि॑भिः  ॒
+> सुतः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोम । याहि । इंद्रस्य । कुक्षा । नृभिः । येमानः । अद्रिभिः । सुतः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नृभिर्ऋग्विघ्र्येमानो नियम्यमानोऽद्रिभिर्गावभिः सुतोऽभिसुतस्त्वमिंद्रस्य कुक्षा ॥ सप्तम्या डादेशः ॥ कुक्षावुदरभूते कलशे वा प्र याहि ।
+> प्रकर्षण गच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, restrained (येमानः (*yemānaḥ*)) by the priests and pressed with the stones (अद्रिभिः (*adribhiḥ*), the pressing stones), go forth into Indra's belly (कुक्षा (*kukṣā*), with डा (*ḍā*) substituted for the locative) or into the vessel that is like a belly; go forward.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- नृभिः (*nṛbhiḥ*)—by the priests
+- येमानः (*yemānaḥ*)—restrained
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुतः (*sutaḥ*)—pressed; you
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- कुक्षा (*kukṣā*)—into the belly
+- प्र याहि (*pra yāhi*)—enter and go
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, restrained by the priests and crushed and pressed with the pressing stones, enter and go into Indra's belly.
+
+##### English translation
+Guided by the priests and eflused with the stones go, Soma, to Indra's belly.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑र्जि वा॒जी ति॒रः प॒वित्र॒मिंद्रा॑य॒ सोमः॑ स॒हस्र॑धारः ॥१९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आसर्जि । वाजी तिरः । पवित्रं । इंद्राय ! सोमः । सहस्रधातु ॥ १९ ॥
+
+### Printed p. 119
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजी बलवान्वेगवान्ना पवित्रं तिरस्कुर्वन् सहस्रधारो बहुधारः सोम
+> इंद्रायेंद्रार्थमसर्जि । सृज्यते ॥
+
+##### Gist of the bhāṣya
+
+Soma, vigorous (strong or swift), passing the filter, with a thousand (many) streams, has been sent forth (असर्जि (*asarji*), is released) for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजी (*vājī*)—endowed with strength
+- पवित्रं तिरः (*pavitraṃ tiraḥ*)—crossing the ten-fringed filter
+- सहस्रधारः (*sahasradhāraḥ*)—flowing in many streams
+- सोमः (*somaḥ*)—the god Soma
+- इंद्राय (*iṃdrāya*)—for Indra (is released)
+- अस्पृजि (*aspṛji*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, endowed with strength, crossing the ten-fringed filter and flowing in many streams, flows for Indra's drinking.
+
+##### English translation
+The vigorous thousand-streamed Soma has been sent through the filter for Indra.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒जंत्ये॑नं॒ मध्वो॒ रसे॒नेंद्रा॑य॒ वृष्ण॒ इंदुं॒ मदा॑य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंजंति, एनं मध्व । रसेन । इंद्राय वृष्णे । इंदुं मदाय ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृष्टे कामानां वर्षित्र इंद्रायेंद्रस्य मदाय मदार्थं मध्यो
+> मधुनो रसेन गव्येनैनमिंदं सोममृत्विजो०जंति । संयोजयंति ॥
+
+##### Gist of the bhāṣya
+
+For the exhilaration of Indra, the showerer (वृष्णे (*vṛṣṇe*)) of desires, the priests anoint (अंजंति (*aṃjaṃti*)), that is, join together, this Soma with the juice (रसेन (*rasena*)) of the sweet (मध्वः (*madhvaḥ*)), the juice made from the cow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्णे (*vṛṣṇe*)—the granter of desired things
+- इंद्राय (*iṃdrāya*)—of Indra
+- मदाय (*madāya*)—for exhilaration
+- मध्वः (*madhvaḥ*)—sweet
+- रसेन (*rasena*)—with the juice
+- एनं इंदुं (*enaṃ iṃduṃ*)—this Soma
+- अंजंति (*aṃjaṃti*)—the priests mix
+
+##### भावार्थ (Bhāvārtha)
+
+For the exhilaration of Indra, the granter of desired things, the priests mix this Soma with sweet juice.
+
+### Printed p. 120
+
+##### English translation
+They mix the Soma with the liquid of the sweet (milk) for Indra, the showerer (of benefits) for his exhilaration.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वेभ्य॑स्ता॒ वृथा॒ पाज॑से॒ऽपो वसा॑नं॒ हरिं॑ मृजंति ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवेभ्यः । त्वा । वृथा । पाजसे । अपः । वसानं । हरिं । मृजंति ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अप उदकानि वसानमाच्छादयंतं हरिं हरितवर्णं त्वा त्वां
+> वृथानायासेनर्विजो मृजंति । शोधयंति । किमर्थं । देवेभ्यो देवानां
+> पानार्थं पाजसे तेषां बलार्थं ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who clothe (वसानं (*vasānaṃ*), cover) yourself with the waters, green (हरिं (*hariṃ*)) in colour: the priests cleanse (मृजंति (*mṛjaṃti*)) you readily (वृथा (*vṛthā*), without effort). For what purpose? For the gods, for their drinking (पाजसे (*pājase*)), for their strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपः (*apaḥ*)—the waters
+- वसानं (*vasānaṃ*)—one who is clothed in
+- हरिं (*hariṃ*)—one of green colour
+- त्वा (*tvā*)—you
+- वृथा (*vṛthā*)—without effort
+- देवेभ्यः (*devebhyaḥ*)—of the gods
+- पाजसे (*pājase*)—for strength
+- मृजंति (*mṛjaṃti*)—the priests cleanse
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you who are clothed in the waters (mixed with them) and are green in colour: the priests cleanse you without effort for the strengthening of the gods.
+
+##### English translation
+They cleanse you readily, clothed with water, green-tinted, for the invigoration of the gods.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॒रिंद्रा॑य तोषते॒ नि तो॑षते श्री॒णन्नु॒ग्रो रि॒णन्न॒पः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । इंद्राय । तोशते । नि । तोशते । त्रीणन् । उग्रः । रिणन् । आपः ॥ २२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 114. pp. 109-114 (batch API)
+**Progress note:** Done through printed p. 120. pp. 115-120 (batch API)
