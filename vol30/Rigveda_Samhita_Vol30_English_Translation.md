@@ -3566,6 +3566,150 @@ Concerning this sūkta, Yāska, the author of the Nirukta, has told an ancient s
 
 In former times, in the Kuru line, a king named Ṛṣṭiṣeṇa had two sons, Devāpi and Śantanu. Of these, Devāpi was the elder and Śantanu the younger. After their father Ṛṣṭiṣeṇa died, his elder son Devāpi wished to become king. But his younger brother Śantanu, giving him no opportunity, desired to be the ruler of the kingdom himself, drove out his elder brother Devāpi and began to rule the kingdom himself. The elder brother Devāpi, distressed, went to the forest and passed his time performing austerities. While matters stood so, no rain fell in Śantanu's country for twelve years and a great famine arose. Then King Śantanu considered what should be done about it and asked the advice of the brāhmaṇas. The brāhmaṇas said to the king: "According to the Dharmaśāstra, the king's eldest son alone is entitled to the kingdom. Therefore the rule of the kingdom should have been exercised by your elder brother Devāpi. But you gave him no opportunity, drove him out and seized the kingdom. Since you are thus practising unrighteousness, the god of rain does not send rain in your kingdom." King Śantanu repented of the wrong he had done, summoned his elder brother Devāpi, who was performing austerities in the forest, and handed the kingdom over to him. But Devāpi said that he did not want the kingdom, that he would remain in the forest performing austerities and follow the path of withdrawal (निवृत्ति (*nivṛtti*)); and that, for the removal of the drought that had arisen in the kingdom, Śantanu should perform a sacrifice, in which he himself would take the office of priest and help bring about the rain. The king agreed, and Devāpi took the part of the priest called hotṛ in his sacrifice.
 
+### Printed p. 98
+
+Brihaspati became the Brahman priest in that sacrifice, performed for the sake of the fall of rain. The Hotṛ priest Devāpi addressed him, the Brahman Bṛhaspati: "O Bṛhaspati, you have great influence over the minds of the gods. Therefore teach me the mantras that win them over." Thus he prayed. Bṛhaspati agreed, and taught Devāpi, the Hotṛ, mantras containing the prayers to the gods needed for bringing rain. When offerings were made to the gods with those mantras, rain fell abundantly, it is said. Therefore this sūkta is also called the Vṛṣṭikāma-sūkta. With some variations this matter is also told in the Purāṇic works: Viṣṇu Purāṇa 4-20-7, the Mahābhārata Ādiparva, Bhāgavata Purāṇa 9-22-14 to 17, and others. In the work Bṛhaddevatā too the sage Śaunaka has said as follows about this sūkta:
+
+आर्ष्विषेणस्तु देवापिः कौरव्यश्चैव शंतनुः (*ārṣviṣeṇastu devāpiḥ kauravyaścaiva śaṃtanuḥ*) …
+(155) In former times Ṛṣṭiṣeṇa of the Kuru line had a son named Devāpi. Among the kings of the Kuru line there was a prince named Śantanu. These two princes of the Kuru line were brothers. Of them,
+
+(156) Devāpi was the elder and Śantanu the younger. Devāpi, the son of Ṛṣṭiṣeṇa, had a skin disease.
+
+(157) After his father died, the people of that country entrusted the kingdom to Devāpi. Having reflected for a moment, Devāpi spoke to his subjects thus.
+
+Here ends the seventh chapter.
+
+The eighth chapter
+
+### Printed p. 99
+
+(1) "O subjects, since I am afflicted with a skin disease, I am not fit to rule the kingdom. Therefore let Śantanu be your king." So he said. Saying "So be it," the subjects consecrated Śantanu as king.
+
+(2) After Śantanu of the Kuru line was consecrated, Devāpi went to the forest to practise austerity. Then, in Śantanu's kingdom, Parjanya did not send rain for twelve years.
+
+(3) Therefore King Śantanu set out with his subjects and came to the forest where Devāpi was performing austerity. He showed repentance for having become king by transgressing dharma (that is, by becoming king himself without giving the kingdom to his elder brother), and pacified him in many ways.
+
+(4) Then Śantanu, together with his subjects, offered the kingdom to his elder brother Devāpi. Seeing Śantanu standing before him with folded hands, humble, Devāpi spoke thus.
+
+(5) "O king, since I am suffering from a skin disease, I am not fit to rule. But so that your kingdom may have plenty through the fall of rain, I myself will stand by (taking up the office of priest) and have you perform the sacrifice." So he said.
+
+(6) Then King Śantanu agreed, saying "So be it," and requested Devāpi to take up the office of priest in the sacrifice he was to perform, and made him chief priest. Devāpi, having taken the priestly office, duly carried out the rites to be performed for causing rain.
+
+### Printed p. 100
+
+(7) Afterwards Devāpi worshipped Bṛhaspati with three Ṛks (1-3) of the 98th sūkta beginning बृहस्पते प्रति (*bṛhaspate prati*). In the second Ṛk of this sūkta Jātavedas Agni, addressing Devāpi, said—
+
+(8) "O Devāpi, I place in your mouth a very brilliant speech (a mantra of exceeding power) — that is, I shall teach it to you. With it praise the gods." Bṛhaspati, pleased, granted Devāpi mantras effective for bringing rain. By the power of those mantras,
+
+(9) Devāpi prayed to the gods with four Ṛks (Ṛks 4-7 of the 98th sūkta) for the fall of rain, and in the remaining later Ṛks of the sūkta (8-12) he praised Agni, it is said. Wilson, the Western scholar, writes as follows—
+
+##### English translation
+The origin of this Sukta is a legend quoted by Sayana from the Nirukata (II. 10.) Devapi and Shantanu were sons of Rishtishena of the Kuru family : the younger Shantanu became Raja, Devapi having made choice of a life of penance. In Shantanu's kingdom there was no rain for twelve years—the consequence, according to the Brahmans who were consulted, of Shantanu's having improperly assumed the government while his elder brother, the more legitimate Raja, was living. He was desirous of resigning his authority, but Devapi declined to accept the throne, saying " Let me be your Purohita, and conduct your religious rites." The story is told in the Vishnu Purana, iv. 20. 7; Wilson, pp. 457, 458; in the Mahabharata (Adi Parva, 3750); in Bhagavata Purana, IX. 22. 14—17; and other Puranas, sometimes with the addition that Devapi had disqualified himself from ascending the throne by the adaption of doctrines contrary to the Vedas, and consequently Shantanu remained Raja. According to the Bhagavata and
+
+### Printed p. 101
+
+Matsya Puranas, Devapi is still alive at a place called Kalapagrama. This Sukta is remarkable as representing one of two brothers, both of the Kshatriya caste, becoming the Purohita, or family priest, and Hotri or sacrificing priest, of the other who is the Raja. (See Muir's Sanskrit Texts, vol, ii. pp. 143-150. Muir gives a translation of this hymn, verses 1—9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पते प्रतीति द्वादशर्चमष्टमं सूक्तं त्रैष्टुभं बृहस्पतिमित्रादिसर्वदेवताकं । ऋष्टिषेणपुत्रो देवापिर्नामर्षः । तथा चानुक्रांतं । बृहस्पते द्वादशार्श्विषेणो देवापिर्वृष्टिकामो देवांस्तुष्टाव ॥ गतः सूक्तविनियोगः ॥ अस्य
+> सूक्तस्याख्यानं निरुक्तकारः प्रदर्शयति । देवापिश्चार्ष्विषेणः शंतनुश्च कौरव्यौ
+> भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे देवापिस्तपः प्रतिपेदे ।
+> ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स
+> शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च
+> त्वेति । तस्यैतद्वर्षकामसूक्तं । नि. २-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta बृहस्पते प्रति (*bṛhaspate prati*) is the eighth sūkta, of twelve Ṛks, in Triṣṭubh metre, with Bṛhaspati, Mitra and all the gods as deity. Its seer is Devāpi, son of Ṛṣṭiṣeṇa. The Anukramaṇī is quoted: बृहस्पते द्वादशार्श्विषेणो देवापिर्वृष्टिकामो देवांस्तुष्टाव (*bṛhaspate dvādaśārśviṣeṇo devāpirvṛṣṭikāmo devāṃstuṣṭāva*). The use of the sūkta has been stated. The author of the Nirukta shows the story: Devāpi and Śantanu, of the Kuru line, were brothers; Śantanu, the younger, had himself consecrated, and Devāpi took to austerity. Then in Śantanu's kingdom the god did not rain for twelve years. The Brāhmaṇas told him: "You have done unrighteousness, in having yourself consecrated passing over your elder brother; therefore the god does not rain for you." Śantanu pressed the kingdom on Devāpi. Devāpi said: "I shall be your priest and perform the sacrifice for you." This is his rain-seeking sūkta (Ni. 2-10).
+
+##### Anuvāda
+
+This sūkta बृहस्पते प्रति (*bṛhaspate prati*) is the eighth sūkta in the eighth anuvāka; it has twelve Ṛks. Its seer is Devāpi, son of Ṛṣṭiṣeṇa; its deities are Bṛhaspati, Mitra and others. The Anukramaṇī says as quoted above. The use of the sūkta was stated earlier. Regarding this sūkta, Yāska, the author of the Nirukta, has told a story. Ṛṣṭiṣeṇa, a king of the Kuru line, had two sons, Devāpi and Śantanu. Devāpi was the elder, Śantanu the younger. But the younger Śantanu was consecrated and began to rule. The elder Devāpi went to the forest and practised austerity. In Śantanu's kingdom Parjanya sent no rain for twelve years. The Brāhmaṇas, understanding the cause, said to King Śantanu: "O king, without giving the kingdom to your elder brother Devāpi, you, the younger, rule as a consecrated king. This is unrighteousness. Because such unrighteousness has been done by you, there was no rain in your kingdom." Then Śantanu went to Devāpi in the forest and begged him to accept the kingdom. But Devāpi, not agreeing, said: "I do not want the kingdom. But so that rain may fall in your kingdom, I myself shall take the office of priest and have you perform the sacrifice." Therefore this sūkta came to be called the Varṣakāma-sūkta (Ni. 2-10).
+
+### Printed p. 102
+
+Maṇḍala 10; Anuvāka 8; Sūkta 98; Aṣṭaka 8; Adhyāya 5; Varga 12, 13. Number of Ṛks in the sūkta: 12.
+Ṛṣi: Devāpi Ārṣṭiṣeṇa. Devatā: the Devas. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते॒ प्रति॑ मे दे॒वता॑मिहि मि॒त्रो वा॒ यद्वरु॑णो॒ वासि॑  ॒
+> पूषा ।  
+> आ॒दि॒त्यैर्वा॒ यद्वसु॑भिर्म॒रुत्वा॒न्न प॒र्जन्यं॒ शंत॑नवे  
+> वृषाय ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । प्रति । मे । देवतां । इहि । मित्रः । वा । यत् । वरुणः । वा । असि । पूषा ।  
+> आदित्यैः । वा । यत् । वसुभिः । मरुत्वान् । सः । पर्जन्यं । शंततनवे । वृषय ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र ब्रह्मत्वे प्रवृत्तो बृहस्पतिमनुधावति । हे बृहस्पते मे मम वृष्ट्यर्थं
+> प्रति देवतां प्रतीहि । प्रतिगच्छ । यष्टव्या देवताः प्रतिगच्छ । यदि त्वं मित्रो वासि
+> अथवा वरुणोऽसि यद्वा पूषासि अथवादित्यैर्द्वादशादित्यैररुणादिभिर्वसुभिर्वासकैरष्टवसुभिर्धरध्रुवादिभिः सह मरुत्वान् । मरुतो देवाः । तद्वानसि । स त्वं
+> पर्जन्यं तर्पयितारं मेघं शंतनने राज्ञॆ वृषाय ! वर्षय ॥ छंदसि
+> शायजपीति व्यत्ययेन शपोऽपि शायजादेशः ॥
+
+##### Gist of the bhāṣya
+
+Engaged there in the office of Brahman, Devāpi runs after Bṛhaspati. "O Bṛhaspati, for my rain, go to the deities, go to the gods to whom offering is to be made, whether you are Mitra, or Varuṇa, or Pūṣan, or accompanied by the twelve Ādityas such as Aruṇa, and by the eight Vasus such as Dhara and Dhruva, and so Marutvān, possessed of the Maruts, who are gods. Such as you are, make Parjanya, the satisfying cloud, rain for King Śantanu." (The remainder concerns the verb form.)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- मे (*me*)—for me, for the sake of rain
+- देवतां प्रति इहि (*devatāṃ prati ihi*)—go to the gods and pray
+- यत् (*yat*)—if
+- मित्रः (*mitraḥ*)—in the form of Mitra
+- असि (*asi*)—you are
+- वरुणः (*varuṇaḥ*)—even in the form of Varuṇa
+- पूषा वा असि (*pūṣā vā asi*)—even if you are Pūṣan
+- (or)
+
+### Printed p. 103
+
+- आदित्यैः (*ādityaiḥ*)—with the Ādityas
+- वसुभिः (*vasubhiḥ*)—with the Vasus, joined
+- मरुत्वान् (*marutvān*)—even if endowed with the Maruts
+- सः (*saḥ*)—such a you
+- शंतनवे (*śaṃtanave*)—for the king named Śantanu
+- पर्जन्यं (*parjanyaṃ*)—Parjanya, the god, impelling
+- वृषय (*vṛṣaya*)—cause to shower rain
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, go to the gods and pray that rain be provided for me. Even if you are in the form of Mitra, or Varuṇa, or Pūṣan, or are joined with the Ādityas and with the Vasus and are endowed with the Maruts, impel Parjanya for the king named Śantanu and cause rain to fall.
+
+##### English translation
+Repair, Brihaspathi, on my behalf to the gods, whether you are Mitra, or Varuna, or Pushan, or are associated with the Adityas, the Vasus, or the Maruts—do you cause Parjanya to send down rain for Shantanu.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दे॒वो दू॒तो अ॑जि॒रश्चि॑कि॒त्वान्वद्दे॑वापे अ॒भि माम॑गच्छत् ।  
+> प्र॒ती॒ची॒नः प्रति॒ मामा न॑वृत्स्व॒ दधा॑मि ते द्यु॒मतीं॒ वाच॑मा॒सन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । देवः । दूतः । अजिरः । चिकित्वान् । त्वत् । देव; आपे । अभि । मां । अगच्छत् ।  
+> प्रतीचीनः । प्रति । मां । आ । ववृत्स्व । दधामि । ते । द्युमतीं । वाचं । आसन् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देव कश्चिद्दूतोऽजिरो गमनशीलश्चि कित्वांश्चेतनावान् हे देवापे त्वत्
+> त्वत्तः सकाशात्त्वया प्रेषितः सन् मामभ्यागच्छत् । अभ्यागच्छतु । हे बृहस्पते
+> प्रतीचीनोऽस्मदभिमुखो मां प्रत्या ववृत्स्य । मां प्रत्यागच्छ । ते तुभ्यं त्वदर्थं
+> द्युमतीं दीप्तियुक्तां वाचं स्तुतिरूपां दधाम्यासन्नास्मेऽस्मदीये ॥
+
+##### Gist of the bhāṣya
+
+A certain god, a messenger, swift (going by nature) and intelligent, sent by you from your presence, O Devāpi, should come to me. O Bṛhaspati, turn towards us, facing us; come to me. For your sake I place in our mouth a radiant speech, in the form of praise.
+
 ---
 
-**Progress note:** Done through printed p. 97. pp. 92-97 (batch API)
+**Progress note:** Done through printed p. 103. pp. 98-103 (batch API)
