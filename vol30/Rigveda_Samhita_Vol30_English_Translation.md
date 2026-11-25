@@ -40130,6 +40130,209 @@ Like bearers of food for their fathers (पितृभृतो न (*pitṛbh�
 
 O Uṣas, we who stand holding food in the form of oblation just in order to offer it to you, being endowed with good gifts, hold in our hands abundant oblations and the like to offer; and with them we worship Uṣas by way of sacrifice.
 
+### Printed p. 1167
+*Printed English*
+Like bearers of food, liberal in our gifts, we spread the thread (of sacrifice before the dawn), and worship (her.)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषाः । अप । स्वसुः । तमः । सं । वर्तॆयति । वर्तनिं । सुजातता ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमेऽहनि प्रातरनुवाक उषस्ये क्रतावुषो भद्रेभिरित्यस्याः स्थान उषा अप
+> स्वसुरित्येषा । सूत्रितं च । उषा अप स्वसुस्तम इति पच्छो द्विपदां त्रिरुषस्ये ।
+> आ. ८-१२ । इति ॥
+> इयमुषाः स्वसुर्भगिन्या रात्रेः संबंधि तमोऽंधकारमप सं वर्तयति ।
+> आत्मीयेन तेजसापगमयति । सुजातता सुजातत्वमात्मनः सुप्रजातत्वं च वर्तनिं
+> रथं प्रापयति ॥
+
+##### Gist of the bhāṣya
+
+On the tenth day, in the morning litany (prātaranuvāka), this verse is used in the Uṣas hymn, in the place of the verse *kratāvuṣo bhadrebhiḥ*. The sūtra says: उषा अप स्वसुस्तम इति पच्छो द्विपदां त्रिरुषस्ये (*uṣā apa svasustama iti paccho dvipadāṃ triruṣasye*) (Ā. Sū. 8-12). Sāyaṇa explains: this Uṣas drives away the darkness belonging to her sister, the night, by her own radiance. Her good birth, that is, her own fair birth and fair offspring, brings the chariot (vartani) to her.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषाः (*uṣāḥ*)—this goddess Uṣas
+- स्वसुः (*svasuḥ*)—of her sister, the night
+- तमः (*tamaḥ*)—the darkness
+- अप सं वर्तयति (*apa saṃ vartayati*)—drives away with her radiance
+- सुजातता (*sujātatā*)—her own excellent birth (manifestation)
+- वर्तनिं (*vartaniṃ*)—provides her chariot to her
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess Uṣas scatters and drives away, with her radiance, the darkness of the night, who is like her sister. Her own excellent manifestation makes ready the chariot for her.
+
+##### English translation
+Ushas drives away the darkness of her sister (night); her generative benevolence (harnesses) her chariot.
+
+### Printed p. 1168
+## Sūkta 173 (Maṇḍala 10)
+**Introduction**
+In this hymn and the next, the king is consecrated in the kingdom, and when he sets out for battle the priest instructs him for his good, blesses him and sends him off. The Ṛgvidhāna speaks of this matter thus:
+
+राजानमभिषिच्येत तिष्येण श्रवणेन वा । पौष्ट्षा सावित्रसौम्याश्विरोहिणीषूत्तरासु च ॥ १०७ ॥ (*rājānamabhiṣicyeta tiṣyeṇa śravaṇena vā | pauṣṭṣā sāvitrasaumyāśvirohiṇīṣūttarāsu ca ‖ 107 ‖*) हुत्वाग्निं राजलिंगाभिः सावित्र्या प्रयतः शुचिः । महाव्याहृतिभिश्चैव संपाताभिहुतो भवेत् ॥ १०८ ॥ (*hutvāgniṃ rājaliṃgābhiḥ sāvitryā prayataḥ śuciḥ | mahāvyāhṛtibhiścaiva saṃpātābhihuto bhavet ‖ 108 ‖*) सर्वौषधिरसैः श्लक्ष्म्यर्नदीनां सलिलेन च । व्याघ्रचर्मण्यथासीनमासंध्यामभिषिच्य तं ॥ १०९ ॥ (*sarvauṣadhirasaiḥ ślakṣmyarnadīnāṃ salilena ca | vyāghracarmaṇyathāsīnamāsaṃdhyāmabhiṣicya taṃ ‖ 109 ‖*) तिष्ठन्प्रत्यज्मुखो ब्रूयाज्जय त्वं पृथिवीमिमां । धर्मस्ते निखिलो राजन् वर्धतां पालय प्रजाः ॥ ११० ॥ (*tiṣṭhanpratyajmukho brūyājjaya tvaṃ pṛthivīmimāṃ | dharmaste nikhilo rājan vardhatāṃ pālaya prajāḥ ‖ 110 ‖*) वर्धस्व त्वं श्रियै पुष्टै जयायाभ्युदयाय च । राजानः संतु ते गोत्रे ततोऽप्रतिरथं जपेत् ॥ १११ ॥ (*vardhasva tvaṃ śriyai puṣṭai jayāyābhyudayāya ca | rājānaḥ saṃtu te gotre tato 'pratirathaṃ japet ‖ 111 ‖*) वैयाघ्रं तु भवेच्चर्म समिदौ दुंबरी भवेत् । त्रिरेनमभिषिच्यैवं दुंदुभीनभिमंत्रयेत् ॥ ११२ ॥ (*vaiyāghraṃ tu bhaveccarma samidau duṃbarī bhavet | trirenamabhiṣicyaivaṃ duṃdubhīnabhimaṃtrayet ‖ 112 ‖*) प्राच्यां त्वा दिशि वसवो अभिषिंचंतु तेजसे । दक्षिणस्यां त्वा दिशि रुद्रा अभिषिंचंतु वृद्धये ॥ ११३ ॥ (*prācyāṃ tvā diśi vasavo abhiṣiṃcaṃtu tejase | dakṣiṇasyāṃ tvā diśi rudrā abhiṣiṃcaṃtu vṛddhaye ‖ 113 ‖*) प्रतीच्यां त्वा दिश्यादित्या अभिषिंचंतु पुष्टये । विश्वेदेवा उदीच्यां तु अभिषिंचंतु श्रेयसे ॥ ११४ ॥ (*pratīcyāṃ tvā diśyādityā abhiṣiṃcaṃtu puṣṭaye | viśvedevā udīcyāṃ tu abhiṣiṃcaṃtu śreyase ‖ 114 ‖*) अभिषिच्य च राजानमाशीर्भिरभिनंद्य च । आ त्वाहार्षमंतरेधीत्यथैनमभिमंत्रयेत् ॥ ११५ ॥ (*abhiṣicya ca rājānamāśīrbhirabhinaṃdya ca | ā tvāhārṣamaṃtaredhītyathainamabhimaṃtrayet ‖ 115 ‖*) (Ṛgvidhāna, adhyāya 4, verses 107-115)
+
+The Kannada explains: Disciple, the king should be given the royal consecration on an auspicious day with a favourable lunar mansion, such as Śravaṇa. The king to be consecrated, purified, self-controlled and equipped with the royal insignia, should offer an oblation of ghee into the fire according to rule. Then the priest should seat the king on a seat made of tiger skin
+
+### Printed p. 1169
+and consecrate him with all the juices of herbs and with the water of the best rivers. Then, standing before that king, he should say: "O king, conquer this whole earth. May dharma increase in your country. Protect the subjects with dharma. May your lineage prosper." Having said this, he should recite silently the Apratiratha hymn आशुः शिशानः (*āśuḥ śiśānaḥ*) (10-103). A tiger-skin seat is best for the king to sit on, and fuel sticks of udumbara wood for the fire offering. After consecrating the king three times, he should consecrate the war-drum with mantras. Then: "O king, may the eight Vasus in the eastern quarter consecrate you for your splendour; likewise may the eleven Rudras in the southern quarter consecrate you for your growth; may the twelve Ādityas in the western quarter consecrate you for your nourishment; may the Viśvedevas in the northern quarter consecrate you for your welfare." With these mantras recited, he should consecrate him. Afterwards he should bless the king and congratulate him. Then, the king having set out for battle, he should consecrate him with the present hymn आ त्वाहार्षमंतरेधि (*ā tvāhārṣamaṃtaredhi*). So it is said.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ त्वेति षडृचं द्वाविंशं सूक्तमांगिरसस्य ध्रुवस्यार्षमानुष्टुभं । अभिषिक्तस्य राज्यः स्तुतिरूपोऽर्थो देवता । तथा चानुक्रांतं । अ त्वा षट् ध्रुवो
+> राज्यः स्तुतिस्तानुष्टुभं त्विति ॥ राज्यो युद्धाय संनहनेऽनेन सूक्तेनाभिमंत्रणं पुरोधसा कर्तव्यं । सूत्रितं च । आ त्वाहार्षमंतरेधीति पश्चाद्रथस्यावस्थाय । अ. गृ. ३-१२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This hymn आ त्वा (*ā tvā*) has six verses and is the twenty-second hymn. Its seer is Dhruva Āṅgirasa; its metre is Anuṣṭubh. Its deity is the subject-matter, the praise of the consecrated king. The Anukramaṇī says: अ त्वा षट् ध्रुवो राज्यः स्तुतिस्तानुष्टुभं त्विति (*a tvā ṣaṭ dhruvo rājyaḥ stutistānuṣṭubhaṃ tviti*). When the king sets out to battle, the priest should consecrate him with this hymn. The sūtra says: आ त्वाहार्षमंतरेधीति पश्चाद्रथस्यावस्थाय (*ā tvāhārṣamaṃtaredhīti paścādrathasyāvasthāya*) (Aś. Gṛ. 3-12-2).
+
+Anuvāda: This hymn आ त्वा (*ā tvā*) is the twenty-second hymn in the twelfth anuvāka. It has six Ṛks. Its seer is Dhruva, a son of Aṅgiras; the metre is Anuṣṭup. Since in this hymn the king consecrated to the kingdom is praised, that meaning of praise is itself the deity of the hymn; the Anukramaṇī says: आ त्वा षट् ध्रुवो राज्ञः स्तुतिस्त्वानुष्टुभं तु (*ā tvā ṣaṭ dhruvo rājñaḥ stutistvānuṣṭubhaṃ tu*). That the priest should consecrate the king with this hymn and bless him when the king sets out for battle is explained by the Āśvalāyana Gṛhyasūtra aphorism आ त्वाहार्षमंतरेधीति पश्चाद्रथस्यावस्थाय (*ā tvāhārṣamaṃtaredhīti paścādrathasyāvasthāya*) (Ā. Gṛ. 3-12-2).
+
+Sūkta 173. Maṇḍala 10; Anuvāka 12; Sūkta 13. Aṣṭaka 8; Adhyāya 8; Varga 31. Number of Ṛks in the hymn: 6. Seer: Dhruva. Deity: praise of the king. Metre: Anuṣṭup.
+
+### Printed p. 1170
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त्वा॑हार्षमं॒तरे॑धि ध्रु॒वस्ति॒ष्ठा वि॑चाचलिः ।  
+> विश॑स्त्या॒ सर्वा॑ वांछंतु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । त्वा । अहार्षं । अंतः । विधि । ध्रुवः । तिष्ठ । अविचाचलिः ।  
+> विशः । त्वा । सर्वाः । वांछंतु । मा । त्वत् । राष्ट्रं । अधि । भ्रशत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् त्वा त्वामाहार्षं । अस्मद्राष्ट्रस्य स्वामित्वेनानैषं । स त्वमंतरस्मासु मध्य विधि । स्वामी भव । ध्रुवो नित्यः सन्नविचाचलिरतिशयेन चलनरहित एव
+> संस्तिष्ठ । राष्ट्रमधितिष्ठ । सर्वाश्च विशः प्रजास्तां वांछंतु । अयमेवास्माकं
+> राजास्त्विति कामयंतु ॥ वाभि इच्छायां ॥ त्वत् त्वत्तः सकाशाद्राष्ट्रं राज्यं माधि
+> भ्रशत् । मा भ्रश्यतु । मा वियुक्तं भवतु ॥ भन्यु अधःपतने ॥
+
+##### Gist of the bhāṣya
+
+"O king, I have brought you", that is, led you here to be master of our kingdom. Be master amid us. Remaining ध्रुवः (*dhruvaḥ*), constant, and अविचाचलिः (*avicācaliḥ*), utterly free of wavering, stand firm; stand over the kingdom. May all the subjects desire you, wishing "Let this man alone be our king" (root वाभि (*vābhi*), to wish). May the kingdom not fall from you, that is, not be separated from you (root भन्यु (*bhanyu*), falling down).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वा (*tvā*)—you
+- आ अहार्षं (*ā ahārṣaṃ*)—I have brought you, making you lord of this kingdom; such as you are
+- अंतः (*aṃtaḥ*)—in our midst
+- विधि (*vidhi*)—be master over us
+- ध्रुवः (*dhruvaḥ*)—firm-minded
+- अविचाचलिः (*avicācaliḥ*)—unwavering (that is, not harmed by anyone)
+- तिष्ठ (*tiṣṭha*)—stand firm in the kingdom
+- सर्वाः विशः (*sarvāḥ viśaḥ*)—all the subjects
+- त्वा (*tvā*)—you
+- वांछंतु (*vāṃchaṃtu*)—desire (that you be our king)
+- त्वत् (*tvat*)—from you
+- राष्ट्रं (*rāṣṭraṃ*)—the kingdom
+- मा अधि भ्रशत् (*mā adhi bhraśat*)—may it not slip away
+
+##### भावार्थ (Bhāvārtha)
+
+O king, I have brought you, consecrated, as lord of this kingdom. Be our master in our midst. Firm-minded, unharmed by enemies, not fallen from your station, remain steady in this kingdom itself and protect us. May all the subjects desire you alone, that you be our king. May this kingdom not slip from you.
+
+### Printed p. 1171
+
+##### English translation
+I have consecrated you, (Raja); come amongst us, be steady and unvacillating; may all your subjects desire you (for their king), may the kingdom never fall from you.
+
+##### विशेषविषयगळु (Special Topics)
+
+This hymn is uttered by the king's priest in the form of a blessing, and counsel for the king's good is given. The rites and mantras for consecrating a king in the kingdom are stated in the 37th chapter of the Aitareya Brāhmaṇa.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह्यवैधि॒ माप॑ च्योष्ठाः॒ पर्व॑त इ॒वावि॑चाचलिः ।  
+> इंद्र॑ इवे॒ह ध्रु॒वस्ति॑ष्ठे॒ह रा॒ष्ट्रमु॑ धारय ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । एव । एधि । मा । अप । च्योष्ठाः । पर्वतः इव । अविचाचलिः ।  
+> इंद्रः इव । इह । ध्रुवः । तिष्ठ । इह । राष्ट्रं । ऊं इति । धारय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन् इहास्मिन्नेव राज्य एधि । स्वामित्वेन सर्वदा वर्तमानो भव । माप
+> ज्योष्ठाः । अपच्युतो मा भूः । मापगमः । पर्वत इव यथा पर्वतो नैश्चल्येनावतिष्ठते एवमविचाचलिश्चलनरहितो भव । इंद्र इव यथा स्वर्ग इंद्रः एवमिह
+> लोके त्वं ध्रुवस्तिष्ठ । स्थिरो भव । राष्ट्रसु राष्ट्रं चेह लोके धारय । स्वे स्वे
+> कर्मण्यवस्थापय ॥
+
+##### Gist of the bhāṣya
+
+"O king, be here, in this very kingdom": always remain as master. Do not fall away; do not depart. As a mountain stands in immovability, so be अविचाचलिः (*avicācaliḥ*), free of wavering. As Indra in heaven, so you in this world stand firm, be steady. Uphold the kingdom here in this world; set each person in his own duty.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इह एव (*iha eva*)—in this kingdom
+- विधि (*vidhi*)—be always the lord
+- मा अप ज्योष्ठाः (*mā apa jyoṣṭhāḥ*)—do not be deposed from the kingdom
+- पर्वत इव (*parvata iva*)—like a mountain
+- अविचाचलिः (*avicācaliḥ*)—be firm
+- इंद्र इव (*iṃdra iva*)—as Indra is in heaven, (so you)
+- इह (*iha*)—in this world
+- ध्रुवः तिष्ठ (*dhruvaḥ tiṣṭha*)—stand firm
+- इह (*iha*)—in this world
+- राष्ट्रं उ (*rāṣṭraṃ u*)—the governance of the kingdom
+- धारय (*dhāraya*)—carry out
+
+### Printed p. 1172
+
+##### भावार्थ (Bhāvārtha)
+
+O king, always be master in this kingdom; do not be deposed. Be firm like a mountain. As Indra rules in heaven, carry out the governance of the kingdom in this world.
+
+##### English translation
+Come into this (kingdom), may you never be deposed, unvacillating as a mountain ; stand firm here like Indra ; establish your kingdom in this world.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ममिंद्रो॑ अदीधरद्दु॒ न्वं ध्रु॒वेण॑ ह॒विषा॑ ।  
+> तस्मै॒ सोमो॒ अधि॑ ब्रव॒त्तस्मा॑ उ॒ ब्रह्म॑ण॒स्पतिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । इंद्रः । अदीधरत् । ध्रुवं । ध्रुवेण । हविषा ।  
+> तस्मै । सोमः । अधि । ब्रवत् । तस्मै । ऊं इति । ब्रह्मणः । पतिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इममभिषिक्तं ध्रुवेण स्थिरेण हविषा तर्प्यमाण इंद्रो ध्रुवं स्थिरमदीधरत् । धारयतु । सोमश्च तस्मै राजेऽधि ब्रवत् । अधिब्रवीतु । मदीयोऽयमिति
+> पक्षपातवचनं करोतु । तस्मा उ तस्मा एव ब्रह्मणस्पतिर्मंत्रस्य पालको देवश्चाधि
+> ब्रवीतु ॥
+
+##### Gist of the bhāṣya
+
+May Indra, gratified with a firm oblation, make this consecrated king firm, steady. May Soma speak on his behalf, making a declaration of partisanship: "This one is mine." And for him alone may Brahmaṇaspati, the guardian of the mantra and a god, speak on his behalf.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ध्रुवेण (*dhruveṇa*)—with a firm
+- हविषा (*haviṣā*)—oblation, gratified
+- इंद्रः (*iṃdraḥ*)—Indra
+- इमं (*imaṃ*)—this consecrated king
+- ध्रुवं (*dhruvaṃ*)—so that he remains firm in the kingdom
+- अदीधरत् (*adīdharat*)—may he establish
+- सोमः (*somaḥ*)—the god Soma
+- तस्मै (*tasmai*)—to this king
+- अधि ब्रवत् (*adhi bravat*)—may he speak words of good counsel
+- तस्मै उ (*tasmai u*)—to this king too
+- ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati, guardian of the mantra, also may speak beneficial words
+
 ---
 
-**Progress note:** Done through printed p. 1166. pp. 1161-1166 (batch API)
+**Progress note:** Done through printed p. 1172. pp. 1167-1172 (batch API)
