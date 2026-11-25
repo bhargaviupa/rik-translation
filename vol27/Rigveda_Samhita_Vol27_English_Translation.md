@@ -12966,6 +12966,137 @@ The Taittirīya Saṃhitā also reads ततो विवस्वा नाद�
 
 Above, in indicating Yama's place, contexts stating an identity of Āditya and Yama have been explained. In the present matter, all the names Vivasvān, Āditya and Yama are, in one way or another, different names of one and the same principle, or stand in the relation of cause and effect, and so
 
+### Printed p. 344
+
+…can be stated precisely on the strength of the Saṃhitā passages. This one principle is described in the verses of the Ṛk-saṃhitā in the following way.
+
+यमेन दत्तं त्रित एनमायुनगिंद्र एणं प्रथमो अध्यतिष्ठत् । गंधर्वो अस्य रशनामगृभ्वात्सूरादश्वं वसवो निरतष्ट ॥ असि यमो अस्यादित्यो अर्वन्नसि त्रितो गुह्येन व्रतेन । असि सोमेन समया विपृक्त आहुस्ते त्रीणि दिवि बंधनानि ॥ (*yamena dattaṃ trita enamāyunagiṃdra eṇaṃ prathamo adhyatiṣṭhat | gaṃdharvo asya raśanāmagṛbhvātsūrādaśvaṃ vasavo nirataṣṭa ‖ asi yamo asyādityo arvannasi trito guhyena vratena | asi somena samayā vipṛkta āhuste trīṇi divi baṃdhanāni ‖*)
+(Ṛ. Saṃ. 1-163-2,3)
+
+The wind, which moves in the three places beginning with the earth, yoked to the chariot this horse given by Yama. Indra, the foremost, mounted this horse. King Soma took hold of the bridle of this horse. The sun's rays, or Yama and the others, obtained this horse from Āditya. In such descriptions, which say that this Agni is of Yama's form, of Āditya's form, and that he is of the nature of the wind, the identity of Agni and Yama is shown.
+
+यमो यच्छतीति सतः (*yamo yacchatīti sataḥ*) । अग्निरपि यम उच्यते (*agnirapi yama ucyate*) (Ni. 10-19): because he has the power to restrain, the Nirukta author holds that "Yama" is a synonym of Agni as well. By citing the Ṛk यमो ह जातो यमो जनित्वं (*yamo ha jāto yamo janitvaṃ*) (Ṛ. Saṃ. 1. 66. 8) he has also shown that the word Yama is a synonym of Agni. In explaining the sense of the mantra 1-66-8, Sāyaṇa gave two kinds of meaning for the word Yama. One: यच्छति ददाति स्तोतृभ्यः कामानिति यमोऽग्निरुच्यते (*yacchati dadāti stotṛbhyaḥ kāmāniti yamo 'gnirucyate*)—Agni is called Yama because he gives to devotees the things they desire. The other: इंद्राग्नोर्युगपदुत्पन्नत्वादग्नेर्यमत्वं (*iṃdrāgnoryugapadutpannatvādagneryamatvaṃ*)—since Indra and Agni were born together, Agni is called Yama. The Nirukta author's sentence यमो ह जात इंद्रेण सह संगत्य (*yamo ha jāta iṃdreṇa saha saṃgatya*) supports this second meaning.
+
+बळित्था महिमा वामिंद्राग्नी पनिष्ठ आ । समानो नां जनिता भ्रातरा युवं यमाविहेह मातरा । (*baḷitthā mahimā vāmiṃdrāgnī paniṣṭha ā | samāno nāṃ janitā bhrātarā yuvaṃ yamāviheha mātarā |*)
+(Ṛ. Saṃ. 6-59-2)
+
+Here "युवं यमौ (*yuvaṃ yamau*)", "you two are born together", states the simultaneous birth of Indra and Agni; hence the second meaning can be maintained on this ground too.
+
+The two principles Yama and Yamī also indicate the very two parts, in the form of female and male, of the primal principle whose nature the Bṛhadāraṇyaka Upaniṣad passage cited above describes.
+
+### Printed p. 345
+
+Although the word Yama thus indicates both the male and the female form, in the present context we must examine what the nature and influence of Yama, who is the male form, are. By sentences such as यमो नो गातुं प्रथमो विवेद (*yamo no gātuṃ prathamo viveda*) (Ṛ. Saṃ. 10-14-2) it is said that Yama was the first to know the path of the Fathers and is king of the departed Fathers. Yama establishes the Fathers in the highest place, which no one can overthrow. Therefore:
+
+पितृभिश्चांगिरोभिश्च संस्तुतो दृश्यते यमः । मंत्रेषु बहुशः पादे विवस्वंतं पिता हि सः ॥ (*pitṛbhiścāṃgirobhiśca saṃstuto dṛśyate yamaḥ | maṃtreṣu bahuśaḥ pāde vivasvaṃtaṃ pitā hi saḥ ‖*)
+(Bṛ. De. 6-157)
+
+Yama is praised in many ways together with the Fathers and the Aṅgirases. In the mantra विवस्वंतं (*vivasvaṃtaṃ*) he himself is regarded as a father, it says. And further:
+
+संस्कार्यप्रेतसंयुक्तैः पितृभिःस्तूयते यमः । प्रेहि प्रेहीति तिसृषु प्रेताशिष उदाहृताः ॥ पितृणां हि पतिर्देवो यमस्तस्मात्स सूक्तभाक् । (*saṃskāryapretasaṃyuktaiḥ pitṛbhiḥstūyate yamaḥ | prehi prehīti tisṛṣu pretāśiṣa udāhṛtāḥ ‖ pitṛṇāṃ hi patirdevo yamastasmātsa sūktabhāk |*)
+(Bṛ. De. 6-158-9)
+
+Yama, united with the Fathers, is praised together with the deceased who is entitled to the funeral rites. This praise is in the three mantras beginning प्रेहि प्रेहि (*prehi prehi*) (10-14-7,8,9). This same Yama is lord of all the Fathers; therefore Yama is said to be a "सूक्तभाक् (*sūktabhāk*)" (partaker of hymns). One may examine closely what aspect of Yama the epithet "सूक्तभाक् (*sūktabhāk*)" here indicates.
+
+The Nirukta author has divided the deities into three: those of the earth, of the atmosphere, and of the heaven. But that division has certain shortcomings; a discussion of that matter is out of place in this context. Like this division, the deities can be made into two divisions, हविर्भाजः (*havirbhājaḥ*) and सूक्तभाजः (*sūktabhājaḥ*): that is, those who partake of oblations (or Soma), and those who partake of hymns.
+
+मातली कव्यैरमो अंगिरोभिर्बृहस्पतिर्युक्वभिर्वावृधानः । याश्च देवा वावृधुर्ये च देवान्त्स्वाहाने स्वधयान्ये मदंति ॥ (*mātalī kavyairamo aṃgirobhirbṛhaspatiryukvabhirvāvṛdhānaḥ | yāśca devā vāvṛdhurye ca devāntsvāhāne svadhayānye madaṃti ‖*)
+(Ṛ. Saṃ. 10-14-3)
+
+### Printed p. 346
+
+In mantras such as this, the groups of gods and the Fathers who are satisfied by kavya, ṛk, svāhā, svadhā and so on are specified. The number of deities and of Fathers belonging to these divisions will be discussed elsewhere. Here we need only know what Yama's place is. Yama is described as belonging to the company of the Fathers and as lord of the Fathers. These Fathers too are divided into three.
+
+उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः । (*udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ |*)
+(Ṛ. Saṃ. 10.15-1)
+
+Among the Fathers there are three divisions: those of the lower world, of the higher world and of the middle world. Yama is regarded as dwelling in the atmosphere. Like the Fathers of the middle world, he receives the svadhā. But according to the Nirukta's classification Yama belongs both to the group of gods who dwell in heaven and to the atmospheric world. (The divisions सूक्तभाजः (*sūktabhājaḥ*), हविर्भाजः (*havirbhājaḥ*) and निपातभाजः (*nipātabhājaḥ*) according to the Nirukta are given at the end of this introduction.) If the question arises how one Yama can belong to both groups, Yāska and Durgācārya explain it thus. (Nirukta 12-29, Durgācārya's commentary.)
+
+Yama, who is praised in the atmosphere, that is, in the middle world, is the presiding deity of the Fathers; and Yama, who is praised as dwelling in heaven, is of the form of Āditya. It cannot be said that this explanation is inadequate because it states two opposed aspects of one Yama. One may freely say that two aspects of one principle pervade the two worlds. Moreover, this is also the basis for saying that Yama, who belongs to the group of Fathers, is superior to the Fathers; the meaning is that Yama is better than the Fathers belonging to the middle world alone. Epithets such as संगमनं जनानां (*saṃgamanaṃ janānāṃ*) indicate this point.
+
+The fact that Yama is a Soma-drinker, in the sentence cited earlier,
+
+यस्मिन्वलक्ष्मी सुपलाशे देवैः संपिबते यमते (*yasminvalakṣmī supalāśe devaiḥ saṃpibate yamate*)
+(Ṛ. Saṃ. 10-135-1)
+
+also supports this.
+
+उभा राजाना स्वधया मदंता यमं पश्यासि वरुणं च देवं (*ubhā rājānā svadhayā madaṃtā yamaṃ paśyāsi varuṇaṃ ca devaṃ*)
+(Ṛ. Saṃ. 10-14-2)
+
+### Printed p. 347
+
+In places such as this, the description of Yama and Varuṇa as lords who enjoy equal delight shows Yama's divinity. Like Yama, Varuṇa too belongs both to heaven and to the atmosphere. But since it is said that Yama of heaven is a Soma-drinker, while Varuṇa of heaven is worthy of hymns, it is understood that Varuṇa's position is higher than Yama's. However, it may be said that descriptions showing such different aspects point to different powers of Yama.
+
+Yama is the power that governs the universe. That power regulates the morality of the whole world. It pervades the three worlds. This power, pervading the three worlds, may be called Āditya or Agni. The sentences showing the identity of Yama and the all-pervading Āditya were cited earlier. Sentences such as केशीदं ज्योतिरुच्यते (*keśīdaṃ jyotirucyate*) state the luminous form of Yama, who is of Āditya's form. The word विवस्वान् (*vivasvān*) too, derived from the root वस् (*vas*), shows the very same power which the sentence ईशावास्यं (*īśāvāsyaṃ*) shows as all-pervading. Agni, who pervades the three worlds, is also a transformation of this Yama. The Nirukta author also says अग्निरपि यम उच्यते (*agnirapi yama ucyate*) (Ni. 10,20); and the Bṛhaddevatā author likewise:
+
+इह प्रजाः प्रयच्छन् स संगृहीत्वा प्रयाति च । ऋषिर्विवस्वतः पुत्रं तेनाहैनं यमो यमं ॥ (*iha prajāḥ prayacchan sa saṃgṛhītvā prayāti ca | ṛṣirvivasvataḥ putraṃ tenāhainaṃ yamo yamaṃ ‖*)
+(Bṛ. De. 2-48)
+
+Here it is shown that, because Agni gives sons and the like and carries the oblations of this world to other worlds and distributes them, he too is designated by the name Yama. यमो यच्छतीति सतः (*yamo yacchatīti sataḥ*) (Ni. 10-19): "he gives"—to whom, and where? In the form of Agni he distributes in all three worlds to the Fathers, the gods and the Asuras. How? Thus—
+
+पितृदेवासुराणां च अभवन्नग्नयस्त्रयः । हव्यकव्यवहौ चोभौ सहरक्षाश्च नाम यः ॥ (*pitṛdevāsurāṇāṃ ca abhavannagnayastrayaḥ | havyakavyavahau cobhau saharakṣāśca nāma yaḥ ‖*)
+(Bṛ. De. 6-160)
+
+In relation to these three groups, the Fathers, the gods and the Asuras, Agni has three forms: the Agni who carries havya and kavya, and Saharakṣas—three divisions.
+
+Thus it can be said that the name is famous because the word Yama has the meanings "he gives" and "he restrains", and because the principle designated by the word Yama performs all these functions through its transformations.
+
+### Printed p. 348
+
+Yama is the one who first extended that sacrifice which is famed in the Saṃhitās and elsewhere as the source and the regulator of the creation and the maintenance of the universe. It has been said above that Yama was the first to behold directly (10-51-1-4) Agni, who is the source and the manager of the sacrifice. It has also been said above that Yama, of Agni's form, is the cause of the condition and fortunes of the gods, the Fathers and others. Likewise, Yama is the cause of the extension of the sacrifice, which is the source and the impeller of all the affairs of the universe.
+
+त इन्निण्यं हृदयस्य प्रकेतैः सहस्रवल्यमभि सं चरंति । यमेन ततं परिधिं वयंतोऽप्सरस उप सेदुर्वनिष्ठाः ॥ (*ta inniṇyaṃ hṛdayasya praketaiḥ sahasravalyamabhi saṃ caraṃti | yamena tataṃ paridhiṃ vayaṃto 'psarasa upa sedurvaniṣṭhāḥ ‖*)
+(Ṛ. Saṃ. 7.33-9)
+
+This matter is stated in sentences such as this. In such contexts Sāyaṇa has explained the word Yama as the Supreme Self, the controller of all and the causal soul of the whole universe. (विश्वनियंत्रा कारणात्मना विस्तृतं परिधिं । परिधिरित्यनेन जन्मादिप्रवाहो विवक्षितः । (*viśvaniyaṃtrā kāraṇātmanā vistṛtaṃ paridhiṃ | paridhirityanena janmādipravāho vivakṣitaḥ |*)) Moreover,
+
+श्री कद्रु केभिः पतति हळुर्विरेकमिद्वहत् । त्रिष्टुब्जायत्री छंदांसि सर्वा याम अहिता ॥ (*śrī kadru kebhiḥ patati haḷurvirekamidvahat | triṣṭubjāyatrī chaṃdāṃsi sarvā yāma ahitā ‖*)
+(Ṛ. Saṃ. 10-14-16)
+
+By sentences such as this the principle of Yama as the source of sacrifice is established. In these contexts the seven metres beginning with Gāyatrī, which are the means of carrying out the sacrifice, are praised as established in Yama himself. Many such contexts also show Yama's governance of all the deities. Sentences such as देवेभ्यः कमवृणीत........ यमस्तन्वं प्रारिरेचीत् (*devebhyaḥ kamavṛṇīta........ yamastanvaṃ prārirecīt*) (Ṛ. Saṃ. 10-13-4) also describe Yama's universal power.
+
+Thus the Saṃhitā sentences themselves declare that the principle expressed by the word Yama regulates and carries out all three: the creation, maintenance and dissolution of the world. In the Purāṇas and elsewhere Yama is described only as a deity who is the agent of dissolution, who gives the dead the fruit suited to their deeds, and who is a terrible punisher of the cruel. But the Ṛk-saṃhitā sentences, and the Upaniṣad sentences, praise Yama's omnipotence and his governance of all in the following way.
+
+तमंतरामिणं य इमं च लोकं परं च लोकं सर्वाणि च भूतानि येऽंतरो यमयतीति सोऽब्रवीत्पतंजलः काप्यो नाहं तं भगवन्वेदेति सोऽब्रवीत्पतंजलं काप्यं याज्ञिकांश्च यो वै तत्काप्य अ. ७. अ. ६. व. ६ ] ऋग्वेदसंहिता 3-19 सूत्रं विद्यात्तं चांतर्यामिणमिति ................... (*tamaṃtarāmiṇaṃ ya imaṃ ca lokaṃ paraṃ ca lokaṃ sarvāṇi ca bhūtāni ye 'ṃtaro yamayatīti so 'bravītpataṃjalaḥ kāpyo nāhaṃ taṃ bhagavanvedeti so 'bravītpataṃjalaṃ kāpyaṃ yājñikāṃśca yo vai tatkāpya a. 7. a. 6. va. 6 ] ṛgvedasaṃhitā 3-19 sūtraṃ vidyāttaṃ cāṃtaryāmiṇamiti ...................*) …… वेद वा अहं तत्सूत्रं तं चांतर्यामिणमिति (*veda vā ahaṃ tatsūtraṃ taṃ cāṃtaryāmiṇamiti*) ……
+(Bṛ. U. 7-7-1)
+
+### Printed p. 349
+
+Uddālaka Āruṇi tells Yājñavalkya the question which the Gandharva, who had seized the wife of Patañjala Kāpya, put to the sacrificers assembled in Kāpya's house, and expects an answer to that question from Yājñavalkya. The question is: "O sacrificers, which is that governing power, the universe-controller, that governs this world, all worlds and all beings?" When this question asked by the Gandharva is told to Yājñavalkya, he explains the nature of that power in the following way.
+
+This power governs both the universe in its divine aspect and the universe in its personal (spiritual) aspect. How? Thus—
+
+यः पृथिव्यां तिष्ठन् पृथिव्या अंतरो .... .... .... यः पृथिवीमंतरो यमयत्येष त आत्मांतर्याम्यमृतः ॥३॥ .... .... .... .... अपोऽंतरो यमयति .... .... .... .... ॥४॥ योऽग्नौ तिष्ठन्........ अग्निमंतरो यमयति ॥ ५ ॥ (इ. ७. २-१४) ई विश्वनियामक तत्त्ववु, पृथिवी, अप्पु, अग्नि, अंतरिक्ष, वायु, द्युलोक, सूर‍्य, दिक्कुगळु, चंद्र, आकाश, अंधकार, तेजस्सु इत्यादि सकल जगत्तिनल्लियू व्यापिसिरुत्तदॆ. अवुगळल्लि अंतरामि यागिद्दुकॊंडु अवुगळ व्यवहारगळन्नु नियमिसुत्तदॆ. इदे विश्वात्मा ऎंदु ई नियामक शक्तिय आधिदैविक शक्तियन्नु तिळिसि, नंतर, यः सर्वेषु भूतेषु तिष्ठन् सर्वेभ्यो भूतेभ्यो .... .... यः सर्वाणि भूतान्यंतरो यमयति .... .... .... .... .... .... .... .... एष त आत्मांतर्याम्यमृतो (*yaḥ pṛthivyāṃ tiṣṭhan pṛthivyā aṃtaro .... .... .... yaḥ pṛthivīmaṃtaro yamayatyeṣa ta ātmāṃtaryāmyamṛtaḥ ‖3‖ .... .... .... .... apo 'ṃtaro yamayati .... .... .... .... ‖4‖ yo 'gnau tiṣṭhan........ agnimaṃtaro yamayati ‖ 5 ‖ (i. 7. 2-14) ī viśvaniyāmaka tattvavu, pṛthivī, appu, agni, aṃtarikṣa, vāyu, dyuloka, sūrya, dikkugaḷu, caṃdra, ākāśa, aṃdhakāra, tejassu ityādi sakala jagattinalliyū vyāpisiruttadè. avugaḷalli aṃtarāmi yāgiddukòṃḍu avugaḷa vyavahāragaḷannu niyamisuttadè. ide viśvātmā èṃdu ī niyāmaka śaktiya ādhidaivika śaktiyannu tiḷisi, naṃtara, yaḥ sarveṣu bhūteṣu tiṣṭhan sarvebhyo bhūtebhyo .... .... yaḥ sarvāṇi bhūtānyaṃtaro yamayati .... .... .... .... .... .... .... .... eṣa ta ātmāṃtaryāmyamṛto*) ॥3॥
+…… अपोऽंतरो यमयति (*apo 'ṃtaro yamayati*) …… ॥4॥
+योऽग्नौ तिष्ठन् (*yo 'gnau tiṣṭhan*) …… अग्निमंतरो यमयति (*agnimaṃtaro yamayati*) ॥5॥
+(Bṛ. U. 7. 2-14)
+
+This universe-governing principle pervades the whole world: earth, waters, fire, atmosphere, wind, heaven, sun, the directions, moon, space, darkness, light and so on. Being the inner controller in them, it regulates their functioning. "This is the universal Self"—having thus stated the divine power of this governing power, he then says:
+
+यः सर्वेषु भूतेषु तिष्ठन् सर्वेभ्यो भूतेभ्यो .... .... यः सर्वाणि भूतान्यंतरो यमयति .... .... .... .... .... .... .... .... एष त आत्मांतर्याम्यमृतोऽदृष्टः .... .... ॥ (*yaḥ sarveṣu bhūteṣu tiṣṭhan sarvebhyo bhūtebhyo .... .... yaḥ sarvāṇi bhūtānyaṃtaro yamayati .... .... .... .... .... .... .... .... eṣa ta ātmāṃtaryāmyamṛto 'dṛṣṭaḥ .... .... ‖*) ……
+(Bṛ. U. 15-23)
+
+In the same way Yājñavalkya explains that this power is the inner controller and the governing power of the whole personal world: breath, speech, eye, ear, mind and so on. The glorification of Yama, of Āditya's form, which is made by sentences such as इदं यमस्य सादनं (*idaṃ yamasya sādanaṃ*) (Ṛ. Saṃ. 10-135-7), is found in these Upaniṣad sentences too.
+
+Some descriptions found in the Ṛks concerning Yama
+
+Yama is the leader of all the righteous among the dead. Since the Vedas pay little attention to the world beyond, Yama is praised in only three hymns (10-14; 135;
+
+### Printed p. 350
+
+154). In another (10-10) there is a dialogue between Yama and his sister Yamī. Yama's name occurs about fifty times, generally in the first and tenth maṇḍalas, and especially in the tenth maṇḍala.
+
+He is engaged in sport with the gods (7-76-4; 10-135-1). He is mentioned together with Varuṇa (10-14-7), Bṛhaspati (10-13-4; 10-14-3), and especially Agni, who conveys the departed souls to other worlds. Agni is Yama's friend (10-21-5) and priest (10-52-3). A certain god and Yama (the two are suggested to be the same) together discovered Agni, who had hidden in the waters (10-51-3). Agni, Yama and Mātariśvan are the names of one being (1-164-16). Yama is included in the lists of deities beginning with Agni (10-64-3; 10-92-11).
+
+From the sentences stated above it may be inferred that Yama too is a deity. He is not expressly called a deity; he is said to be king of the dead (यमराज्ञः (*yamarājñaḥ*) 10-16-9). After death, what the soul sees is these two, Yama and the god Varuṇa (10-14-7). A whole hymn (10-14) speaks of the relation between Yama and the Fathers, and in it especially of the Aṅgirases. Yama comes to the sacrifice with them and rejoices (10-14-3, 4; 10-15-8). His horses, with eyes like gold and hooves of iron, are mentioned (Tai. A. 6-5-2; Āpa. Śau. Sū. 16-6). He is the one who gathers all people together (10-14-1), provides the dead with a resting place (10-14-9; A. Ve. 18-2-37) and prepares for them a separate dwelling (10-18-13). **NOTE**
+
+Yama's place is in a corner of the sky (9-113-8). Of the three heavens, two belong to Savitṛ and one to Yama (1-35-6; compare 1-123-6); Yama's world is the third and the highest. In the Vājasaneya Saṃhitā (12-63) it is said that Yama, together with Yamī, dwells in heaven at this final height. In this place of his—which is also the place of the gods—the sound of the flute and song are heard around Yama (10-135-7).
+
+Soma juice is prepared for Yama; ghee is offered to him (10-14-13, 14); and there is a prayer that he come to the sacrificial hall and sit on the seat (10-14-4).
+
+Vivasvant is said to be his father (10-14-5) and Saraṇu his mother (10-17-1). He is often called Vaivasvata (10-14-1; etc.). Since no one is superior to him, Yama is greater than Vivasvant (compare A. Ve. 18-2-32; 18-3-61, 62).
+
 ---
 
-**Progress note:** Done through printed p. 343. pp. 338-343 (batch API)
+**Progress note:** Done through printed p. 350. pp. 344-350 (batch API)
