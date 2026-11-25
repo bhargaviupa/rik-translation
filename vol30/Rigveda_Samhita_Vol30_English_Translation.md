@@ -39196,6 +39196,216 @@ that is, they tremble facing the direction in which Vāyu moves. As in a battle,
 
 Trees and the like standing firm tremble following the course of Vāyu; that is, as the wind blows, the trees sway. As horses hasten eagerly to a battlefield, so his horses approach this Vāyu. Mounting the chariot to which the horses yoke themselves, this shining Vāyu moves, and is lord of the whole world. Or else, as a woman desires a sturdy man, trees, creepers and the like welcome this Vāyu; and seated in the chariot Vāyu moves among the trees and creepers.
 
+### Printed p. 1143
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अं॒तरि॑क्षे प॒थिभि॒रीय॑मानो॒ न नि वि॑शते कत॒मच्च॒नाहः॑ ।  
+> अ॒पां सखा॑ प्रथम॒जा ऋ॒तावा॒ क्व॑ स्विज्जा॒तः कुत॒ आ ब॑भूव ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अंतरिक्षे । पथिभिः । ईयमानः । न । नि । विशते । कतमत् । चन । अहरिति ।  
+> अपां । सखा । प्रथमजाः । ऋतवा । क्व । स्वित् । जातः । कुतः । आ । बभूव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंतरिक्षे नभसि विद्यमानैः पथिभिर्मार्गैरीयमानो गच्छन्वायुः कतमच्चनाहरेकमपि दिनं न नि विशते । नोपविशति । किंतु सर्वदैव गच्छति ॥ नेर्विशः । पा.
+> १-३-१७ । इत्यात्मनेपदं ॥ अपि चापामुदकानां सखा । वायुर्वै वृष्टा ईश
+> इति श्रुतेः । प्रथमजाः सर्वेभ्यः प्राणिभ्यः पूर्वोत्पन्न एवर्तावा सत्यवान् एवंभूतो वायुः क्व स्वित् कुत्र खलु देशे जात उत्पन्नः कुतः कस्माच्च देशान्निष्क्रम्या
+> बभूव । इदं सर्वं जगद्व्याप्नोत् । सर्वदा सर्वत्र वर्तमानत्वादस्योत्पत्तिर्व्याप्तिप्रकारश्च न केनापि ज्ञातुं शक्यत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Moving along the paths that exist in the firmament, Vāyu never settles down on even a single day; he goes on always. (The middle voice in नि विशते (*ni viśate*) is by the rule Pā. Sū. 1-3-17.) He is also the friend of the waters, as the śruti says वायुर्वै वृष्टा ईश इति (*vāyurvai vṛṣṭā īśa iti*). He is the first-born, produced before all beings, and truthful. Where, then, was such a Vāyu born, and from what place did he come forth to pervade this whole world? Since he is present everywhere at all times, neither his origin nor the manner of his pervading can be known by anyone; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंतरिक्षे (*aṃtarikṣe*)—existing in the sky
+- पथिभिः (*pathibhiḥ*)—by paths
+- ईयमानः (*īyamānaḥ*)—the wind, going
+- कतमत् चन अहः (*katamat cana ahaḥ*)—even for one day
+- न नि विशते (*na ni viśate*)—does not sit quietly
+- अपां (*apāṃ*)—of the waters
+- सखा (*sakhā*)—the wind, the friend
+- प्रथमजाः (*prathamajāḥ*)—was born before all beings
+- ऋतावा (*ṛtāvā*)—this wind, of the nature of truth or sacrifice
+- क्व स्वित् (*kva svit*)—in what region
+- जातः (*jātaḥ*)—was he born?
+- कुतः (*kutaḥ*)—from what region setting out
+- आ बभूव (*ā babhūva*)—has he pervaded this whole world?
+
+##### भावार्थ (Bhāvārtha)
+
+This wind, moving always along the paths in the sky, does not sit down even for a single day; he is always on the move. This wind, the friend of the waters, was born before all beings. In what region was such a wind, true or worthy of sacrifice, born? From where did he come and pervade this whole world?
+
+### Printed p. 1144
+
+##### English translation
+Traversing the firmament by its paths, (Vayu) rests not for a single day ; the friend of the waters, the first-born, the utterer of truth—where has he been generated, whence was he manifested ?
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒त्मा दे॒वानां॒ भुव॑नस्य॒ गर्भो॑ यथाव॒शं च॑रति दे॒व ए॒षः ।  
+> घोषा॒ इद॑स्य शृण्वरे॒ न रू॒पं तस्मै॒ वाता॑य ह॒विषा॑ विधेम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत्मा । देवानां । भुवनस्य । गर्भः । यथावशं । चरति । देवः । एषः ।  
+> घोषाः । इत् । अस्य । शृण्वैरे । न । रूपं । तस्मै । वाताय । हविषा । विधेम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं वायुर्देवानामिंद्रादीनामप्यात्मा जीवरूपेण तेष्ववस्थानाद्भवनस्यापि भूतजातस्य गर्भो गर्भवत्पाणरूपेणांतर्ववर्तमान एष ईदृशो देवो
+> यथावशं यथाकामं यथेच्छं चरति । वर्तते । अनिवारितगतिः सन् क्वचिच्छिघ्रं
+> गच्छति क्वचिच्छनैर्गतिः कुतश्चिच्छरीरान्निष्कामत्यन्यच्च शरीरं प्रविशतीत्येवं यथेच्छं
+> वर्तत इत्यर्थः । अस्य वायोरागच्छतो घोषा इच्छब्दा एव शृण्वरे । श्रूयंते ।
+> रूपं स्वरूपं तु न दृश्यते नीरूपत्वात् । अदृग्विषयत्वेन शब्देनैवानुमीयुत
+> इत्यर्थः । तस्मै वाताय दायने हविषा चरुपुरोडाशादिलक्षणेन विधेम ।
+> परिचरेम ॥
+
+##### Gist of the bhāṣya
+
+This Vāyu is the ātman of the gods, Indra and the rest, since he abides in them in the form of the life-principle. He is also the germ of the whole world of beings, being within them in the form of breath like an embryo. This god moves as he wills, as he pleases: with unobstructed course he goes swiftly in one place, slowly in another, leaves one body and enters another; this is the meaning. Of this approaching Vāyu only the sounds are heard; his form is not seen, being formless; he is inferred by sound alone, since he is not an object of sight. To that Vāyu, the giver, we offer service with an oblation of the type of caru and puroḍāśa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (this Vāyu) देवानां (*devānāṃ*)—of the gods, Indra and others also
+- आत्मा (*ātmā*)—he who is in them in the form of the life-principle
+- भुवनस्य (*bhuvanasya*)—in the midst of the whole class of beings
+- गर्भः (*garbhaḥ*)—he who is like an embryo in the form of breath
+- एषः देवः (*eṣaḥ devaḥ*)—this god Vāyu
+- यथावशं (*yathāvaśaṃ*)—as he pleases
+- चरति (*carati*)—moves
+- अस्य (*asya*)—of this Vāyu
+- घोषा इत् (*ghoṣā it*)—only the blowing sound
+- शृण्विरे (*śṛṇvire*)—is heard
+- रूपं (*rūpaṃ*)—the form of this Vāyu
+- न दृश्यते (*na dṛśyate*)—is not seen
+- तस्मैवाताय (*tasmaivātāya*)—to such a Vāyu of great glory
+- हविषा (*haviṣā*)—with an oblation
+- विधेम (*vidhema*)—we serve
+
+### Printed p. 1145
+
+##### भावार्थ (Bhāvārtha)
+
+This Vāyu is present in Indra and the other gods in the form of the life-principle. In the bodies of the whole class of beings he is like an embryo, in the form of breath. Such a god Vāyu moves as he pleases. Only the sound of his blowing is heard by all; but no one can see his form. We serve this Vāyu of such glory with oblations such as caru and puroḍāśa.
+
+##### English translation
+The soul of the gods, the germ of the world, this divinity moves according to his pleasure ; his voices are heard, his form is not (seen); let us worship that Vata with oblations.
+
+## Sūkta 169 (Maṇḍala 10)
+This sūkta praises the cows. In the world cows have great usefulness, and accordingly they hold a chief place in Vedic history too. The golden rays of the dawn are described as cows, and these draw the chariot of the goddess Uṣas. The rain-cloud also is like a cow: lightning is its calf, rain its milk. This cloud-cow is commonly called Pṛśni, and this Pṛśni is the mother of the Marut gods. Aditi and the Earth too are in some places called a cow. Chiefly the Veda describes the cows of the gods carried off by the Paṇis and their recovery by Indra and others.
+The cows of the earth too have sanctity. There is a rule that the milk, curds, ghee and other substances used in sacrifices must be from cows. Milking the cow, separating the calves and the like are ancillary rites of sacrifice. It is said that a cow must not be slain (8-90-15, 16; Vā. Saṃ. 4-19, 20). For this reason cows have the name aghnyā, "not to be killed". The Atharvaveda says plainly that the cow is a sacred animal and should be worshipped (12-4-5). The Purāṇas too express reverence for cows. Even now in India the Āryas, that is the Hindus, worship cows with great devotion; there are instances of people giving their lives to protect them. No Hindu kills a cow or eats its flesh. This feeling has grown up in this country over a long time.
+
+### Printed p. 1146
+For this reason those who commit cow-slaughter, contrary to the Vedic teachings, and eat beef were shunned by the people and called dasyus; social dealings with them were stopped and they were made to live apart, as has long been the practice. This may be the reason for the untouchability of the people now called Harijans.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मयोभूरिति । चतुर्यचमष्टादशं सूक्तं कक्षीवद्योत्रस्य शबरस्यार्षं
+> त्रैष्टुभं गोदेवत्यं । अनुक्रांतं च । मयोभूः शबरः काक्षीवतो गव्यमिति ॥
+> घासाय वनं प्रतिष्ठमाना गा आदितो द्वाभ्यामभिमंत्रणीयाः । सूत्रितं च । गाः
+> प्रतिष्ठमाना अनुमंत्रयेत मयोभूर्वातो अभि वातूस्रा इति द्वाभ्यां । आ. गृ.
+> २-१०-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta मयोभूः (*mayobhūḥ*) has four Ṛks; its seer is Śabara of the Kakṣīvat line, its metre Triṣṭubh, its deity the cows. The Anukramaṇī says: मयोभूः शबरः काक्षीवतो गव्यमिति (*mayobhūḥ śabaraḥ kākṣīvato gavyamiti*). Cows going to the forest to graze are to be addressed with the first two Ṛks; it is stated in the sūtra गाः प्रतिष्ठमाना अनुमंत्रयेत मयोभूर्वातो अभि वातूस्रा इति द्वाभ्यां (*gāḥ pratiṣṭhamānā anumaṃtrayeta mayobhūrvāto abhi vātūsrā iti dvābhyāṃ*) (Ā. Gṛ. 2-10-5).
+Anuvāda: This sūkta मयोभूः (*mayobhūḥ*) is the eighteenth sūkta in the twelfth anuvāka. It has four Ṛks. Its seer is Śabara of the Kakṣīvat line; the deity is the cows; the metre is Triṣṭubh. The Anukramaṇī says: मयोभूः शबरः काक्षीवतो गव्यं (*mayobhūḥ śabaraḥ kākṣīvato gavyaṃ*). The sūtra of the Āśvalāyana Gṛhya गाः प्रतिष्ठमाना अनुमंत्रयेत मयोभूर्वातो अभि वातूस्रा इति द्वाभ्यां (*gāḥ pratiṣṭhamānā anumaṃtrayeta mayobhūrvāto abhi vātūsrā iti dvābhyāṃ*) (Ā. Gṛ. 2-10-5) explains that cows going to the forest to graze are to be addressed with the first two Ṛks of this sūkta.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒यो॒भूर्वातो॑ अ॒भि वा॑तू॒स्रा ऊर्ज॑स्वती॒रोष॑धी॒ -  ॑
+> रा रिशंतां ।  
+> जीव॑स्वतीर्जी॒वध॑न्यः पिबंत्वव॒साय॑ प॒द्वते॑ रुद्र मृळ ॥ १ ॥
+
+### Printed p. 1147
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मयःभूः । वातः । अभि । वातु । उस्राः । ऊर्जस्वतीः । ओषधीः । आ । रिशंतां ।  
+> पीवस्वतीः । जीवधन्याः । पिबंतु । अवसाय । पत्वते । रुद्र । मृळ ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वातो वायुर्मयोभूः सुखस्य भावयिता सन्नुस्रा गा अभि वातु ।
+> अभिगच्छतु । ताश्च गाव ऊर्जस्वती रसवतीरोषधीर्बलवंति तृणान्या रिशंतां । अभितः
+> स्वादयंतु । तथा पीवस्वतीः प्रवृद्धा जीवधन्या जीवानां प्राणयित्रीरपश्च पिबंतु ।
+> हे रुद्र ज्वरादिरोगस्य प्रेक्षणेन संहर्तर्देव पद्वते पादयुक्तायावसायान्नाय
+> गोरूपाय मृळ । उपदयां कुरु ! मा बाधस्वेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+May Vāyu, bringing happiness, blow towards the cows. May those cows graze on the juicy herbs, the strong grasses, on every side. Likewise, grown full, may they drink the waters that sustain life. O Rudra, destroyer of fevers and other diseases by a mere glance, be gracious to the footed food, that is, the cow-form: show compassion; do not harm them. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातः (*vātaḥ*)—the wind
+- मयोभूः (*mayobhūḥ*)—blowing pleasantly
+- उस्राः (*usrāḥ*)—the cows
+- अभि वातु (*abhi vātu*)—let him approach
+- ऊर्जस्वतीः (*ūrjasvatīḥ*)—juicy (nourishing)
+- ओषधीः (*oṣadhīḥ*)—grasses
+- आ रिशंतां (*ā riśaṃtāṃ*)—let them eat well
+- पीवस्वतीः (*pīvasvatīḥ*)—abundant
+- जीवधन्याः (*jīvadhanyāḥ*)—beneficial to life, the waters
+- पिबंतु (*pibaṃtu*)—let them drink
+- रुद्र (*rudra*)—O Rudra
+- पद्वते (*padvate*)—having feet
+- अवसाय (*avasāya*)—in the form of food, that is, to these cows which supply milk as food
+- मृळ (*mṛḷa*)—bring happiness
+
+##### भावार्थ (Bhāvārtha)
+
+May the wind blow pleasantly near the cows; may the cows eat the juicy and nourishing grass. May they drink as they wish the water that is the support of life. O Rudra, bring happiness to these cows that supply us food in the form of milk; do not trouble them.
+
+##### English translation
+May the refreshing wind blow upon the cows, may they crop the juicy grass; let them drink the nutritious life-sustaining (waters); Rudra, have compassion upon the food which has feet.
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the word अवसाय (*avasāya*) in this Ṛk, Yāska has given the following etymology—
+
+### Printed p. 1148
+अवसाय पद्वते रुद्र मृळ इति । पद्वदवसं गावः पथ्यदनं अवतेर्गत्यर्थस्यासौ नामकरणः । तस्मान्नावगृह्णंति । अवसायाश्वान् इति सृतिरुपसृष्टो विमोचने तस्मादवगृह्णंति ॥ (*avasāya padvate rudra mṛḷa iti | padvadavasaṃ gāvaḥ pathyadanaṃ avatergatyarthasyāsau nāmakaraṇaḥ | tasmānnāvagṛhṇaṃti | avasāyāśvān iti sṛtirupasṛṣṭo vimocane tasmādavagṛhṇaṃti ‖*) (Ni. 1-17) **NOTE**
+The word अवसाय (*avasāya*) is formed from the root अवति (*avati*), meaning "to go", combined with the prefix आस (*āsa*). **NOTE**. This prefix stands before the action, not after it. Therefore the word is not split in the Pada-pāṭha. अवसाय पद्वते (*avasāya padvate*) means: "to that which has feet and moves about (for food)". Rudra is prayed to bring happiness to this footed cow, wandering here and there to graze. The same rule applies in the place अवसायाश्वान् (*avasāyāśvān*).
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> याः सरू॑पा॒ विरू॑पा॒ एक॑रूपा॒ यासा॑म॒ग्निरिष्टा॒, नामा॑नि॒  ॑
+> वेद ।  
+> या अंगि॑रस॒स्तप॑से॒ह च॒क्रुस्ताभ्यः॑ पर्जन्य॒ महि॒ शर्म॑ यच्छ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । सरूपाः । विरूपाः । एकरूपाः । यासां । अग्निः । इष्टा । नामानि । वेद ।  
+> याः । अंगिरसः । तपसा । इह । चक्रुः । ताभ्यः । पर्जन्य । महि । शर्म । यच्छ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या गावः सरूपाः समानरूपा याश्च विरूपा विभिन्नरूपा याश्चैकरूपा
+> एकेनैव वर्णेनोपेता यासां च गवां नामानीडे रंतेऽदित इत्यादीनीष्टा
+> यागेन हेतुनाग्निर्वेद जानाति याश्च गा अंगिरस ऋषयस्तपसा पशुप्राप्ति साधनेन
+> चित्रायागादिलक्षणेनेहास्मिल्लोके चक्रुः कृतवंतः ताभ्यः सर्वाभ्यो गोभ्यो हे
+> पर्जन्य महि महच्छर्म सुखं यच्छ । प्रदेहि ॥
+
+##### Gist of the bhāṣya
+
+The cows that are of like form, those of different forms, those of a single colour; the cows whose names, such as *īḍe raṃte 'dita* and the like, Agni knows by reason of the sacrifice offered; and the cows which the Aṅgirases made here in this world by tapas, namely the means of obtaining cattle, of the nature of the Citrā sacrifice and the like: to all those cows, O Parjanya, give great happiness; grant it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- याः (*yāḥ*)—which cows
+- सरूपाः (*sarūpāḥ*)—are of like form
+- विरूपाः (*virūpāḥ*)—which cows are of different forms
+- एकरूपाः (*ekarūpāḥ*)—which cows are of a single kind of colour
+
 ---
 
-**Progress note:** Done through printed p. 1142. pp. 1137-1142 (batch API)
+**Progress note:** Done through printed p. 1148. pp. 1143-1148 (batch API)
