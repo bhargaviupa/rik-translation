@@ -29,3 +29,5 @@
 
 - Nov 25 2026: printed p. 878 (the last page; user's file Rig_Veda_Samhita_Part_25.pdf, 1 page) transcribed by the dispatcher into `vol25/work/scan_pages/p0890.md` (PDF-number 890 is a counter, not a page of the first PDF). The library stamps and accession numbers on the scan are not printed text and are left out. Uncertain: head digits (Maṇḍala, Adhyāya, Sūkta), `ಷಷ್ಠಾಷ್ಟಕೇ` in the colophon.
 - Nov 25 2026: `rig_25.filled.md`: the four colophon lines (ವೇದಾರ್ಥಸ್ಯ … ಸಮಾಪ್ತಂ ಚ ಷಷ್ಠಾಷ್ಟಕಮ್) that ws_fill put at the end of the bhāṣya block of 9.43.6 were removed by hand, because the print carries the colophon after the English on p. 878 (read from the scan, now in the file). Re-running ws_fill brings them back; remove them again (or give ws_fill a flag).
+
+- scan_heads.py --apply: 6 running heads with [?] (Maṇḍala/Adhyāya/Sūkta) settled by the unmarked heads before and after them (list: review/heads_applied.tsv); 86 heads left marked.
