@@ -23715,6 +23715,181 @@ Here the oblation means cooked rice made of grains such as barley and rice, or s
 
 Besides the reasons stated above, it is said in many places that only the three seasons, spring, summer and autumn, are commended for the performance of sacrifice and other rites—
 
+### Printed p. 859
+
+(1) वसंता ब्राह्मणोग्निमादधीत । वसंतो वै ब्राह्मणस्यर्तुः । स्व एवैनमृतावाधाय । ब्रह्मवर्चसी भवति । मुखं वा एतदृतूनां । यद्वसंतः । यो वसंताग्निमाधत्ते । मुख्य एव भवति । (*vasaṃtā brāhmaṇognimādadhīta | vasaṃto vai brāhmaṇasyartuḥ | sva evainamṛtāvādhāya | brahmavarcasī bhavati | mukhaṃ vā etadṛtūnāṃ | yadvasaṃtaḥ | yo vasaṃtāgnimādhatte | mukhya eva bhavati |*) (Tai. Brā. 1-1-2-6, 7)
+
+A Brāhmaṇa should perform the sacrifice in the spring season, because the spring is regarded as the Brāhmaṇa's own season. The Brāhmaṇa who performs the sacrifice in the spring, his own season, will shine with Vedic radiance (brahmavarcas). This is the first of all the seasons and the chief one. Therefore he who performs the sacrifice in the spring becomes the chief (the foremost) among his own people and a man of dignity.
+
+(2) ग्रीष्मे राजन्य आदधीत । ग्रीष्मो वै राजन्यस्यर्तुः । स्व एवैनमृतावाधाय । इंद्रियावी भवति । (*grīṣme rājanya ādadhīta | grīṣmo vai rājanyasyartuḥ | sva evainamṛtāvādhāya | iṃdriyāvī bhavati |*) (Tai. Brā. 1-1-2-7)
+
+A king (a Kṣatriya) should perform the sacrifice in the summer season. The summer is the king's own season. The king who performs the sacrifice in the summer, his own season, becomes mighty and valiant, endowed with strength and capacity.
+
+(3) शरदि वैश्य आदधीत । शरद्वै वैश्यस्यर्तुः । स्व एवैनमृतावाधाय । पशुमान्भवति ॥ (*śaradi vaiśya ādadhīta | śaradvai vaiśyasyartuḥ | sva evainamṛtāvādhāya | paśumānbhavati ‖*)
+
+A Vaiśya should perform the sacrifice in the autumn season. This autumn is the Vaiśya's own season. The Vaiśya who performs the sacrifice in the autumn, his own season, becomes rich in cattle and lives happily. In this and similar ways it is described in many places that these three seasons are fit for sacrifice and commended. Therefore it is stated here that the gods, regarding these very seasons as the materials of the sacrifice, performed a mental sacrifice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं य॒ज्ञं ब॒र्हिषि॒ प्रौक्ष॒न्पुरु॑षं जा॒तम॑ग्र॒तः ।  
+> तेन॑ दे॒वा अ॑यजंत सा॒ध्या ऋष॑यश्च॒ ये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । यज्ञं । बर्हिषि । प्र । औक्षन् । पुरुषं । जातं । अग्रतः ।  
+> तेन । देवाः । अयजंत । साध्याः । यषयः । च । ये ॥ ७ ॥
+
+### Printed p. 860
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञं यज्ञसाधनभूतं तं पुरुषं पशुत्वभावनया यूपे बद्धं
+> बर्हिषि मानसे यज्ञे प्रौक्षन् । प्रोक्षितवंतः । कीदृशमित्यत्राह । अग्रतः सर्वसृष्टेः पूर्वं पुरुषं जातं पुरुषत्वेनोत्पन्नं । एतच्च प्रागेवोक्तं तस्माद्विराळजायत विराजो अधि पूरुष इति । तेन पुरुषरूपेण पशुना देवा आयजंत !
+> मानसयागं निष्पादितवंत इत्यर्थः । के ते देवा इत्यत्राह । साध्याः सृष्टिसाधनयोग्याः प्रजापतिप्रभृतयः तदनुकूला ऋषयो मंत्रद्रष्टारश्च ये संति ।
+> ते सनेऽप्ययजंतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the sacrifice (yajña) is that Puruṣa, the means of the sacrifice, who was bound to the sacrificial post with the notion that he was an animal victim; him they sprinkled upon the sacred grass (barhis), that is, in the mental sacrifice. He then says what kind of Puruṣa this was: born at the very beginning, before all creation, having arisen as the Puruṣa. This, he says, was stated earlier in the words तस्माद्विराळजायत विराजो अधि पूरुष (*tasmādvirāḷajāyata virājo adhi pūruṣa*). With that Puruṣa as the victim the gods performed the mental sacrifice, that is, accomplished it. Who are those gods? Sāyaṇa answers: the Sādhyas, those fit to bring about creation, such as Prajāpati and the rest, and the seers of the hymns who are favourable to them, the Ṛṣis, whoever there are. All of them performed the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्रतः (*agrataḥ*)—before the creation of the world
+- जातं (*jātaṃ*)—born
+- यज्ञं (*yajñaṃ*)—who is the means of the sacrifice
+- तं पुरुषं (*taṃ puruṣaṃ*)—that Virāṭ Puruṣa
+- बर्हिषि (*barhiṣi*)—having placed on the seat of darbha grass
+- प्रौक्षन् (*praukṣan*)—they sprinkled
+- तेन (*tena*)—with the animal victim in the form of the Puruṣa
+- देवाः (*devāḥ*)—the gods
+- साध्याः (*sādhyāḥ*)—the Sādhyas
+- ऋषयः (*ṛṣayaḥ*)—together with the Ṛṣis
+- ये (*ye*)—all who are fit to perform the sacrifice, together
+- अयजंत (*ayajaṃta*)—performed the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+They placed on the seat of darbha grass the Virāṭ Puruṣa, who was born even before the creation of the world and is the means of the sacrifice, and sprinkled him. Offering the animal victim in the form of the Puruṣa as the oblation, the gods, the Sādhyas and the Ṛṣis, all together, performed the sacrifice.
+
+##### English translation
+They immolated as the victim upon the sacred grass Purusha, born before (creation), with him the deities who were Sadhyas and those who were Rishis sacrificed.
+
+##### विशेषविषयगळु (Special Topics)
+
+The chief purport of this Ṛk is that the gods and the others placed in the place of sacrifice the Puruṣa who was born from the Virāṭ principle before creation, sprinkled him, and performed the sacrifice. The Puruṣa himself is the sacrifice, and the Puruṣa himself is the means of the sacrifice. What the nature of this means is, and what the nature of the sacrifice is, will be explained later, when the purport of the fifteenth Ṛk of this same hymn is set out. What the words देवाः (*devāḥ*) and ऋषयः (*ṛṣayaḥ*) mean in the present context has been stated: that the vital breaths of Prajāpati and his sense-powers were helpers in Prajāpati's sacrifice, and how these meanings are possible for the words deva and ṛṣi has also been stated.
+
+### Printed p. 861
+
+Here, who the साध्याः (*sādhyāḥ*) are, whether they belong to the group of the other gods or are distinct, whether they are equal to the gods or higher than they, and similar matters must be examined in the present context. Sāyaṇa has explained that the Sādhyas are those fit to accomplish creation, Prajāpati and the rest. Bhaṭṭa Bhāskara's explanation runs thus.
+
+साध्याश्च ऋषयश्च द्विप्रकारा अपि देवा आयजंत । साधयंतीति साध : । प्राणाः । ऋषयः द्रष्टारः इंद्रियाणि । द्वयेऽपि देवनशीलाः ८ वा इत्युच्यंते । तेन विराजा पुरुषेण आयजंत ॥ (*sādhyāśca ṛṣayaśca dviprakārā api devā āyajaṃta | sādhayaṃtīti sādha : | prāṇāḥ | ṛṣayaḥ draṣṭāraḥ iṃdriyāṇi | dvaye 'pi devanaśīlāḥ 8 vā ityucyaṃte | tena virājā puruṣeṇa āyajaṃta ‖*) (Tai. Ā. Bhā. 3-12) **NOTE**
+
+The vital breaths, which have the power to fulfil the mind's resolve, are called Sādhyas. The sense-powers are called by the word ṛṣi. Since the vital breaths and the sense-powers have a luminous nature of their own, they are described by the epithet देवाः (*devāḥ*). They performed the sacrifice that was Prajāpati's resolve, and it became the means of the later creation, so it is stated.
+
+It is appropriate that Sāyaṇa gave the sense प्रजापतिप्रभृतयः (*prajāpatiprabhṛtayaḥ*) for the word साध्याः (*sādhyāḥ*). How? Thus:
+
+यज्ञेन यज्ञमयजंत देवास्तानि धर्माणि प्रथमान्यासन् । ते ह नाकं महिमानः सचंत यत्र पूर्वे साध्याः संति देवाः ॥ (*yajñena yajñamayajaṃta devāstāni dharmāṇi prathamānyāsan | te ha nākaṃ mahimānaḥ sacaṃta yatra pūrve sādhyāḥ saṃti devāḥ ‖*) (Ṛ. Saṃ. 10-90.16) **NOTE**
+
+The gods performed the sacrifice and worshipped the Supreme Puruṣa who is of the form of the sacrifice. Whoever in the world follows this path and worships the Supreme Self through the performance of sacrifice, they reach heaven, which gives eternal happiness. The gods called Sādhyas, the accomplishers of creation, worshipped the Supreme Self in this very world, and their greatness, even before creation, is thus extolled. What the world of the Sādhyas is has been in many contexts a matter of inquiry. Moreover, in what manner they helped Prajāpati in the work of creation is also a matter to be examined in the present context.
+
+According to the view of the Nirukta authors it is understood that the Sādhyas dwell in the heavenly world.
+
+द्युस्थानो देवगण इति नैरुक्ताः । पूर्वं देवयुगमित्याख्यानं । (*dyusthāno devagaṇa iti nairuktāḥ | pūrvaṃ devayugamityākhyānaṃ |*) (Ni. 12.41)
+
+The Nairuktas (those of an earlier tradition of Nirukta, older than Yāska) have regarded the Sādhyas as gods belonging to the heavenly world. The meaning of the Nirukta is that the ancients understood them to be the first of all the gods and those who
+
+### Printed p. 862
+
+dwell in the most excellent world. In the Chāndogya Upaniṣad there is a passage that tells of the excellent world of the Sādhyas. That section points out five worlds in all and states that of them all the world of the Sādhyas is the most excellent. How? Thus:
+
+तद्यत्प्रथमममृतं तद्वसव उपजीवंत्यग्निना मुखेन । (*tadyatprathamamamṛtaṃ tadvasava upajīvaṃtyagninā mukhena |*) (Bhā. U. 3-6-1) **NOTE**
+
+Among the essences that possess immortality, the Vedas are the most excellent essences. Of these the first, the nectar of the form of the Ṛgveda, the Vasus enjoy through the mouth that is Agni and so order their state. This is the experience of the world of the Vasus (the terrestrial).
+
+अथ यद्द्वितीयममृतं तद्रुद्रा उपजीवंतींद्रेण मुखेन । (*atha yaddvitīyamamṛtaṃ tadrudrā upajīvaṃtīṃdreṇa mukhena |*) (Chā. U. 3-7-1)
+
+The Rudras enjoy the nectar of the form of the Yajus through the mouth that is Indra. This is the experience of the world of the atmosphere.
+
+अथ यत्तृतीयममृतं तदादित्या उपजीवंति वरुणेन मुखेन । (*atha yattṛtīyamamṛtaṃ tadādityā upajīvaṃti varuṇena mukhena |*) (Chā. U. 3-8-1)
+
+The Ādityas enjoy the nectar of the form of the Sāman through the mouth that is Varuṇa. This is the experience of the world of Varuṇa.
+
+अथ यट्ट तुर्थममृतं तन्मरुत उपजीवंति सोमेन मुखेन । (*atha yaṭṭa turthamamṛtaṃ tanmaruta upajīvaṃti somena mukhena |*) (Cha. Ā. 3-9-1) **NOTE**
+
+The Maruts enjoy the nectar of the form of the Atharvaveda through the mouth that is Soma. This is the experience of the world of Soma.
+
+अथ यत्नंचमममृतं तत्साध्या उपजीवंति ब्रह्मणा मुखेन न वै देवा अश्नंति न पिबंत्येतदेवामृतं दृष्ट्वा कृप्यंति ॥ (*atha yatnaṃcamamamṛtaṃ tatsādhyā upajīvaṃti brahmaṇā mukhena na vai devā aśnaṃti na pibaṃtyetadevāmṛtaṃ dṛṣṭvā kṛpyaṃti ‖*) (Cha. U. 3-10-1) **NOTE**
+
+In the fifth world of nectar, which is of the form of the Upaniṣad, the Sādhyas dwell and enjoy the nectar through the mouth that is Brahman. That is, the gods neither eat nor drink; they are satisfied by the mere sight of the nectar. By such a description the most excellent world of the Sādhyas is extolled. Moreover,
+
+### Printed p. 863
+
+त एतदेव रूपमभिसंविशंत्येतस्माद्रूपादुद्यंति । स य एतदेवममृतं वेद साध्यानामेवैको भूत्वा ब्रह्मणैव मुखेनैतदेवामृतं दृष्ट्वा तृप्ति स एतदेव रूपमभिसंविशति । (*ta etadeva rūpamabhisaṃviśaṃtyetasmādrūpādudyaṃti | sa ya etadevamamṛtaṃ veda sādhyānāmevaiko bhūtvā brahmaṇaiva mukhenaitadevāmṛtaṃ dṛṣṭvā tṛpti sa etadeva rūpamabhisaṃviśati |*) (Chā. U. 3-10-2, 3)
+
+The Sādhyas, dwelling in the most excellent world, attain the form that is within the sun. Again, from that same form they obtain their existence. The knower who knows this truth also becomes one of the Sādhyas. Partaking of the nectar of the form of the Upaniṣad, he obtains self-satisfaction. He too attains the very form that stands in the middle of the sun.
+
+स यावदादित्य उत्तरत उदेता दक्षिणतोस्तमेता द्विस्तावदूर्ध्व उदेतार्वागस्तमेता साध्यानामेव तावदाधिपत्यं स्वाराज्यं पर्येता । (*sa yāvadāditya uttarata udetā dakṣiṇatostametā dvistāvadūrdhva udetārvāgastametā sādhyānāmeva tāvadādhipatyaṃ svārājyaṃ paryetā |*) (Bhā. U. 3.10-3)
+
+The performer of the sacrifice who has attained the form of the Sādhyas, the knower who has understood the truth of sacrifice, obtains the sovereignty enjoyed by the Sādhyas, and enjoys it for as long as the sun's movement continues, southward and northward, upward and downward. In this way the excellence of the sacrificial rite connected with the world of the Sādhyas and with the Sādhyas themselves is stated.
+
+The sacrificial rite of the Sādhyas, and the manner in which creation proceeds from it, in this matter the intention of the
+
+### Printed p. 864
+
+Śruti passages is what the present discussion aims to examine. But it is also necessary to inquire to which world the Sādhyas belong, what kind of divinity they possess, and what their direct relation to Prajāpati is. As to the world of the Sādhyas and their help to Prajāpati in the work of creation, the view of the author of the Bṛhaddevatā is as follows.
+
+गायत्री चैकविंशश्च यच्च साम रथंतरं । साध्याः साम च वैराजं अष्टाश्च वसुभिः सह ॥ (*gāyatrī caikaviṃśaśca yacca sāma rathaṃtaraṃ | sādhyāḥ sāma ca vairājaṃ aṣṭāśca vasubhiḥ saha ‖*) (Bṛ. Je. 1-116) **NOTE**
+
+The Gāyatrī, the Ekaviṃśa stoma, the Rathantara sāman, the Vairāja sāman, the Sādhyas, the Āptyas and the Vasus all belong to the world of Agni. That the Sādhyas, the Āptyas and the Vasus belong to the first world is the view of the Nirukta authors (Ni. 7-8). But it is known from the Nighaṇṭu (5-5-6) that none of these is connected with the terrestrial world.
+
+अडश्यक केशिसाध्याश्च सविता वसुभिर्मनुक । दथ्यज् अथर्वा विश्वे च वाजिनो देवपत्नयः (*aḍaśyaka keśisādhyāśca savitā vasubhirmanuka | dathyaj atharvā viśve ca vājino devapatnayaḥ*) (Bṛ. De. 2-12) **NOTE**
+
+The Ādityas, the Keśins (the three forms of Agni), the Sādhyas, Savitṛ, the Vasus, the Viśvedevas and the wives of the gods all belong to the world of the Ādityas, so it is stated. Since the Sādhyas are eternal deities of the excellent world, they are those who help Prajāpati in his work of creation. How? Thus:
+
+त्रिसांवत्सरिकं सत्रं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्पिश्वेदेवैः सहेति च ॥ (*trisāṃvatsarikaṃ satraṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairpiśvedevaiḥ saheti ca ‖*) (Bṛ. De. 5-96)
+
+Prajāpati, desiring offspring, together with the Sādhyas and the Viśvedevas performed a sacrificial session lasting three years; thus it is stated that Prajāpati sought the help of the Sādhyas in his work of creation. Moreover:
+
+ऐंद्रात्पुरुषसूक्तं च अन्त्यया पौरुषस्य तु । यथैनमभजत्साध्या यज्ञार्थं सोऽर्थ उच्यते ॥ (*aiṃdrātpuruṣasūktaṃ ca antyayā pauruṣasya tu | yathainamabhajatsādhyā yajñārthaṃ so 'rtha ucyate ‖*) (Bṛ. He. 7-13) **NOTE**
+
+This passage declares that after the praise of Indra in the eighty-ninth hymn of Ṛ. Saṃ. 10, in the ninetieth hymn it is told how the Sādhyas, for the sake of the sacrifice, divided Prajāpati and performed the sacrifice. The nature of these Sādhyas, who have such greatness, is described in the Aitareya Brāhmaṇa thus:
+
+छंधांसि वै साध्या देवास्तेऽग्रेऽग्निनाग्निमयजंत ते स्वर्गं लोकमायन् । (*chaṃdhāṃsi vai sādhyā devāste 'gre 'gnināgnimayajaṃta te svargaṃ lokamāyan |*) (I. Bra. 1-16) **NOTE**
+
+The metres are the beings called Sādhyas. These Sādhyas, in the form of metres, churned Agni in the beginning and worshipped Agni, and as the fruit of it obtained heaven. In some places the Ādityas and the Aṅgirases also are called Sādhyas. In many places it is extolled that all of them performed the sacrifice by offering as oblation Prajāpati, who is the means of the sacrifice. And the passages in the Śatapatha Brāhmaṇa that support the very explanation given of the word Sādhya in the present Ṛk run thus.
+
+### Printed p. 865
+
+प्राणा वै साध्या देवास्त एतमग्र एवमसाधयन्नेतदेव बुभूषंतस्त उ एवाप्येतर्हि साधयंति पश्चेदमन्यदभवद्यजत्रममर्त्यस्य भुवनस्य भूनेति..................यत्किंचामृतं ॥ (*prāṇā vai sādhyā devāsta etamagra evamasādhayannetadeva bubhūṣaṃtasta u evāpyetarhi sādhayaṃti paścedamanyadabhavadyajatramamartyasya bhuvanasya bhūneti..................yatkiṃcāmṛtaṃ ‖*) (Pa. Bra. 10-2-2-3) **NOTE**
+
+The Sādhyas have been dwellers of the world of Brahman from very ancient times. They are older than the gods. The seven vital breaths are these Sādhyas. At the beginning, when Prajāpati was to become embodied, it was the seven vital breaths that made him a Sādhya. Immortality and purity were possible only through the seven vital breaths in the form of the Sādhyas. These two qualities are indispensable for the work of creation, and the Ṛk-saṃhitā too tells this very matter thus:
+
+पश्चेदमन्यदभवद्यजत्रममर्त्यस्य भुवनस्य भूना । सुपर्णो अंग सवितुर्गरुत्मान्पूर्वो जातः स उ अस्यानु धर्म ॥ (*paścedamanyadabhavadyajatramamartyasya bhuvanasya bhūnā | suparṇo aṃga saviturgarutmānpūrvo jātaḥ sa u asyānu dharma ‖*) (Ṛ. Saṃ. 10-149-3)
+
+Because it possessed immortality and purity, the Supreme Entity, worthy of worship, came into being together with the immortal world. This Supreme Entity is also called Garutmat, the one of fair wings. With the help of this primal entity all the other immortal things are worthy of worship. Having cited this Ṛk-saṃhitā passage, the Śatapatha Brāhmaṇa quoted above gives the meaning of the word Sādhya and of the word yajña and states the relation between the two.
+
+The commentaries say that the meaning that in Prajāpati's sacrifice the sense-powers and the vital breaths carried out the sacrificial work is also possible. If it is asked whether the purport साधयंतीति साध्याः प्राणाः (*sādhayaṃtīti sādhyāḥ prāṇāḥ*) or else सृष्टिसाधनयोग्याः प्रजापतिप्रकृतयः (*sṛṣṭisādhanayogyāḥ prajāpatiprakṛtayaḥ*) is possible, it may be said that since there are also proofs from Śruti passages, that meaning too is appropriate. What the duty of the vital breaths and of the sense-powers is in Prajāpati's self-sacrifice is explained in the Śatapatha Brāhmaṇa thus.
+
+असद्वा इदमग्र आसीत् । तदाहुः किं तदसदासीदित्यृषयो वाव तेऽग्रेऽसदासीत्तदाहुः के त ऋषय इति प्राणा वा ऋषयस्ते यत्पुरास्मात् सर्वस्मादिदमिच्छंतः क्रमेण तपसारिषंस्तस्मादृषयः ॥ (*asadvā idamagra āsīt | tadāhuḥ kiṃ tadasadāsīdityṛṣayo vāva te 'gre 'sadāsīttadāhuḥ ke ta ṛṣaya iti prāṇā vā ṛṣayaste yatpurāsmāt sarvasmādidamicchaṃtaḥ krameṇa tapasāriṣaṃstasmādṛṣayaḥ ‖*) (Ka: Bā. 6-1-1) **NOTE**
+
+Before the creation of the world as existent there was a principle of the nature of non-being. If it is asked what that principle of the nature of non-being was, the answer is that it is what we call ऋषयः (*ṛṣayaḥ*), the Ṛṣis. If it is asked who those Ṛṣis are, they are the vital breaths, which bear the name of Ṛṣis. Before
+
+### Printed p. 866
+
+the world was transformed into the state of being, these very vital breaths had become emaciated by their austerity and toil, and therefore they became named Ṛṣis. The vital breaths that are famed by the name of Ṛṣis are also spoken of as देवाः (*devāḥ*).
+
+स योऽयं मध्ये प्राणः । एष एवेंद्रस्तानेष प्राणान्मध्यत इंद्रियेणैंद यदैंद्ध तस्मादिंद इंधो ह वै तमिंद्र इत्याचक्षते परोक्षं परोक्षकामा हि देवास्त इद्दाः सप्त नाना पुरुषानसृजंत ॥ (*sa yo 'yaṃ madhye prāṇaḥ | eṣa eveṃdrastāneṣa prāṇānmadhyata iṃdriyeṇaiṃda yadaiṃddha tasmādiṃda iṃdho ha vai tamiṃdra ityācakṣate parokṣaṃ parokṣakāmā hi devāsta iddāḥ sapta nānā puruṣānasṛjaṃta ‖*) (Śa. Brā. 6 1 1-2)
+
+Among all these vital breaths, the breath in the middle, the chief one, is the one famed by the name इंद्र (*iṃdra*). This chief breath, called Indra, by its extraordinary power (its indriya), impelling from its own chief place, gave life to the other breaths also. Because it gives life in this way it is described by the epithet इंध (*iṃdha*). The gods, who love the hidden, call this chief breath Indra. All these breaths, having received life, became the cause of the appearance of seven Puruṣas.
+
+तेऽब्रुवन् । न वा इत्थग्ं संतः तक्ष्यामः प्रजनयितुमिमान्त्सप्त पुरुषानेकं पुरुषं करवामेति त एतान्त्सप्त पुरुषानेकं पुरुषमकुर्वन्यदूर्ध्वं नाभेस्त् द्वौ समौब्बन्यदर्वाज् नाभेस्त् द्वौ पक्षः पुरुषः पक्षपुरुषः प्रतिष्ठैक आसीत् ॥ (*te 'bruvan | na vā itthagṃ saṃtaḥ takṣyāmaḥ prajanayitumimāntsapta puruṣānekaṃ puruṣaṃ karavāmeti ta etāntsapta puruṣānekaṃ puruṣamakurvanyadūrdhvaṃ nābhest dvau samaubbanyadarvāj nābhest dvau pakṣaḥ puruṣaḥ pakṣapuruṣaḥ pratiṣṭhaika āsīt ‖*) (Ke. Bā. 6-1-13) **NOTE**
+
+"If these seven Puruṣas remain separate, our work of creation will not be accomplished. Let us make them one, so that a single Puruṣa principle is established." So the breaths thought, and all of them together caused a single Puruṣa principle to be reached. Above the navel they gathered two Puruṣa principles, and below it two. Two Puruṣas were assigned to the two sides. As the support of all this the seventh Puruṣa principle was established.
+
+अथ यैतेषाग्ं सप्तानां पुरुषाणां श्रीः । यो रस आसीत्तमूर्ध्वग्ं समुदौहंस्तदस्य शिरोऽभवद्यच्छ्रियग्ं समुदौहंस्तस्माच्चिरस्तस्मिन्नेतस्मिन् प्राणा आश्रयंत तस्माद्वैतच्छिरोऽथ यत्पा णा आश्रयंत तस्मादु प्राणाः श्रियोऽथ यत्सर्वस्मिन्नश्रयंत तस्मादु शरीरं (*atha yaiteṣāgṃ saptānāṃ puruṣāṇāṃ śrīḥ | yo rasa āsīttamūrdhvagṃ samudauhaṃstadasya śiro 'bhavadyacchriyagṃ samudauhaṃstasmāccirastasminnetasmin prāṇā āśrayaṃta tasmādvaitacchiro 'tha yatpā ṇā āśrayaṃta tasmādu prāṇāḥ śriyo 'tha yatsarvasminnaśrayaṃta tasmādu śarīraṃ*) (Śa. Brā. 6-1-1-4)
+
 ---
 
-**Progress note:** Done through printed p. 858. Special Topics: seasons as priests and sacrificial materials, Ṛk 6 materials of the sacrifice, pp. 853-858
+**Progress note:** Done through printed p. 866. pp. 859-866: Sūkta 90 Ṛk 7, Special Topics on Sādhyas
