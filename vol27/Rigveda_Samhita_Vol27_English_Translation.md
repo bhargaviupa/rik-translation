@@ -16152,6 +16152,84 @@ Just as by performing sacrifice one offers oblations to the gods, satisfies them
 
 स्वादुषंसदः पितरो वयोधाः कृच्छ्रश्रितः शक्तीवंतो गभीराः । चित्रसेना इषुबला अमृध्राः सतोवीरा उरवो व्रातसाहाः ॥ (*svāduṣaṃsadaḥ pitaro vayodhāḥ kṛcchraśritaḥ śaktīvaṃto gabhīrāḥ | citrasenā iṣubalā amṛdhrāḥ satovīrā uravo vrātasāhāḥ ‖*) (Ṛ. Saṃ. 6, 75. 9)
 
+### Printed p. 447
+ब्राह्मणासः पितरः सोम्यासः शिवे नो द्यावापृथिवी अनेहसा । (*brāhmaṇāsaḥ pitaraḥ somyāsaḥ śive no dyāvāpṛthivī anehasā |*) (Ṛ. Saṃ. 6. 75. 10)
+
+In this verse the extraordinary power and generosity of the Pitṛs are declared. The protecting Pitṛs destroy enemies and distribute the enemies' food among their sons and others. The prayer is: may the Pitṛs, firm in resolve for the destruction of enemies, armed with sharp weapons and destroyers of foes, be our protectors, and may they bring us well-being. But before such a prayer, they must first be satisfied by offering them piṇḍas and the like. This satisfaction comes in one way on one occasion and in another way on another. There are the śrāddhas to be performed on death anniversaries, the tarpaṇas offered at the parva times, and the worship offered on other special days. Besides these, the worship of the Pitṛs must be performed regularly even on auspicious days such as weddings. On certain occasions, however, the father, grandfather and great-grandfather are invited together with the earlier Pitṛs such as Aṅgiras. At auspicious times, when the invitation is made, the Pitṛs are addressed as *nāndīmukha*, that is, those whose faces are joyful. Thus, from many rites such as the pārvaṇa-śrāddha, the nāndī-śrāddha (vṛddhi-śrāddha) and the pūrva-śrāddha, there arises the faith, existing from Vedic times, that the Pitṛs are satisfied. Some of these rites are prescribed in the Saṃhitās and other texts themselves; others are only hinted at there and are explained clearly in the Śrauta-sūtras and the like. Here only a few of the most important rites are described, and the rest are indicated briefly.
+
+Some of the important śrāddhas are known as yajñas. Among them the Piṇḍa-pitṛyajña and the Mahāpitṛyajña are the most important. Describing the power of the Piṇḍa-pitṛyajña, the Śatapatha Brāhmaṇa narrates a historical episode as follows.
+
+प्रजापतिं वै भूतान्युपासीदन् । प्रजा वै भूतानि वि नो धेहि यथा जीवा मेति ततो देवा यज्योपवीतिनो भूत्वा दक्षिणं जान्वाच्योपासीदंस्थानब्रवीद्यज्ञो वोऽन्नममृतत्वं व ऊर्ग्वः सूरो वा ज्योतिरिति ॥ (*prajāpatiṃ vai bhūtānyupāsīdan | prajā vai bhūtāni vi no dhehi yathā jīvā meti tato devā yajyopavītino bhūtvā dakṣiṇaṃ jānvācyopāsīdaṃsthānabravīdyajño vo 'nnamamṛtatvaṃ va ūrgvaḥ sūro vā jyotiriti ‖*) (Śa. Brā. 2. 4. 2. 1)
+
+Once all the beings created by Prajāpati approached Prajāpati and prayed: "O Father, teach us the way by which we may live." There were present the gods, the Pitṛs, human beings and the other creatures. Of these, the gods came first; wearing the sacred thread, with the right knee set on the ground, they approached Prajāpati. Then Prajāpati addressed the gods: "Sacrifice is your food, immortality is your essence, the Sun is your radiance."
+
+### Printed p. 448
+अथैनं पितरः । प्राचीनावीतिनः सव्यं जान्वाच्योपासीदंस्तानब्रवीन्मासिमासि वोशनग् स्वधा वो मनोजवोवश्चंद्रमा वो ज्योतिरिति ॥ (*athainaṃ pitaraḥ | prācīnāvītinaḥ savyaṃ jānvācyopāsīdaṃstānabravīnmāsimāsi vośanag svadhā vo manojavovaścaṃdramā vo jyotiriti ‖*) (Śa. Brā. 2. 4. 2. 2)
+
+Then the Pitṛs, wearing the prācīnāvīti (the sacred thread on the right shoulder), with the left knee set on the ground, approached Prajāpati. Prajāpati addressed them: may you receive food every month; may the food called svadhā that is offered to you be the source of your mind-swiftness; the Moon is your light. So he blessed them and sent them away. (Afterwards he instructed human beings and the others, each according to its nature, and sent them away.)
+
+The rite performed, as thus laid down by Prajāpati, to offer food in the form of svadhā to the Pitṛs every month at the parva time is called the Piṇḍa-pitṛyajña. This sacrifice is to be performed in the dakṣiṇāgni. The wearing of the sacred thread must be in the prācīnāvīti manner. Every act is to be done in the reverse (apradakṣiṇa) order. Together with the Pitṛs, Soma and Agni, the carrier of kavya, are invoked. (The description of the remaining ritual details is not relevant here.) It is believed that the oblation in the form of svadhā offered in this rite gives the Pitṛs the highest satisfaction. Similarly, the Mahāpitṛyajña is also very excellent and powerful, and its greatness is praised in many places. The Śatapatha Brāhmaṇa praises its power as follows.
+
+महाहविषा ह वै देवा वृत्रं जघ्नुः । ते नो एव व्यजयंत येयमेषां विजितिस्तामथ यानेवैषां तस्मिन्त्संग्रामे अग्नंस्तान्पितृयज्ञेन समैरयंत पितरो वै त आसंस्तस्मात्पितृयज्ञो नाम । (*mahāhaviṣā ha vai devā vṛtraṃ jaghnuḥ | te no eva vyajayaṃta yeyameṣāṃ vijitistāmatha yānevaiṣāṃ tasmintsaṃgrāme agnaṃstānpitṛyajñena samairayaṃta pitaro vai ta āsaṃstasmātpitṛyajño nāma |*) (Śa. Brā. 2. 6. 1. 1)
+
+With the great oblation the gods slew Vṛtra. By this very oblation they have attained their present powerful position. Afterwards they performed the Pitṛyajña and made all those who had died in the battle live again. Those who lived again there are the Pitṛs. For that very reason this sacrifice is well known by the name Mahāpitṛyajña.
+
+तद्वसंतो ग्रीष्मो वर्षाः । एते ते ये व्यजयंत शरद्धेमंतः शिशिरस्त उ ते यान्पुनः समैरयंत ॥ (*tadvasaṃto grīṣmo varṣāḥ | ete te ye vyajayaṃta śaraddhemaṃtaḥ śiśirasta u te yānpunaḥ samairayaṃta ‖*) (Śa. Brā. 2. 6. 1. 2)
+
+Spring, summer and the rainy season are the seasons that destroyed Vṛtra. Autumn, the cold season (hemanta) and winter (śiśira) are the seasons that brought the dead back to life. **NOTE**
+
+### Printed p. 449
+अथ यदेष एतेन यजते । तन्नाह नैवैतस्य तथा कंचन घ्नंतीति देवा अकुर्वन्निति नैवैष एतत्करोति यमुचैवैभ्यो देवा भागमकल्पयं. स्तमु चैवैभ्य एष यद्भागं करोति यानु चैव देवाः सम्मैरयंत तानु चैवैतदवति स्वानु चैवैतत्प्रित्यन् श्रेयाग्ं स लोकमुपोन्नयति यदु चैवास्यात्रात्मनोऽचरणेन हन्यते वा मीयते वा तदुचैवा सैतेन पुनराप्यायते तस्माद्वा एष एतेन यजते ॥ (*atha yadeṣa etena yajate | tannāha naivaitasya tathā kaṃcana ghnaṃtīti devā akurvanniti naivaiṣa etatkaroti yamucaivaibhyo devā bhāgamakalpayaṃ. stamu caivaibhya eṣa yadbhāgaṃ karoti yānu caiva devāḥ sammairayaṃta tānu caivaitadavati svānu caivaitatprityan śreyāgṃ sa lokamuponnayati yadu caivāsyātrātmano 'caraṇena hanyate vā mīyate vā taducaivā saitena punarāpyāyate tasmādvā eṣa etena yajate ‖*) (Śa. Brā. 2. ?. 1. 3) **NOTE**
+
+There are two purposes in performing this Pitṛyajña. First, by performing this sacrifice the asuras cannot harm any of the people belonging to the sacrificer; and second, the gods themselves also performed this sacrifice and worshipped the Pitṛs. And the same share that the gods set apart and offered to the Pitṛs by performing this sacrifice, the sacrificer too must offer. By doing so, he not only satisfies the Pitṛs who were revived by the gods, but also, as it were, provides them with a still better state; and whatever deficiency there may be in his other rites is set right by the performance of this rite. For all these reasons this Pitṛyajña should be performed.
+
+स पितृभ्यः सोमवद्भ्यः । षट्कपालं पुरोडाशं निर्वपति सोमाय वा पितृमते षड्वा ऋतव ऋतवः पितरस्तस्मात् षट्कपालो भवति ॥ (*sa pitṛbhyaḥ somavadbhyaḥ | ṣaṭkapālaṃ puroḍāśaṃ nirvapati somāya vā pitṛmate ṣaḍvā ṛtava ṛtavaḥ pitarastasmāt ṣaṭkapālo bhavati ‖*) (Śa. Brā. 2-6-1-4)
+
+At the time of this rite he offers a puroḍāśa on six potsherds (ṣaṭkapāla) to the Pitṛs who possess Soma. (It may be meant "to Soma together with the Pitṛs", or "to the Pitṛs endowed with Soma".) Why is the number "six potsherds" prescribed? The Pitṛs are themselves of the form of the seasons. The seasons are six in number. Therefore this specification of number.
+
+अथ पितृभ्यो बर्हिषद्भ्यः । अन्वाहार्यपचने धानाः कुर्वंति ततोऽर्धाः पिग्ंषंत्यर्था इत्येव धाना अपिष्टा भवंति ता धानाः पितृभ्यो बर्हिपद्भ्यः ॥ (*atha pitṛbhyo barhiṣadbhyaḥ | anvāhāryapacane dhānāḥ kurvaṃti tato 'rdhāḥ pigṃṣaṃtyarthā ityeva dhānā apiṣṭā bhavaṃti tā dhānāḥ pitṛbhyo barhipadbhyaḥ ‖*) (Śa. Brā. 2-6-1-5)
+
+Afterwards, in the dakṣiṇāgni called Anvāhārya, barley grains are to be parched according to rule. Of these, half is made into flour and the rest is kept as it is. This is the oblation offered to the Pitṛs called Barhiṣads.
+
+### Printed p. 450
+अथ पितृभ्योऽग्निष्वात्तेभ्यः । निदान्यायै दुग्धे सकृदुपमथित एकशलाकया मंथो भवति सकृदु ह्येव परांचः पितरस्तस्मात्सकृदुपमथितो भवत्येतानि हवीग्ंषि भवंति ॥ (*atha pitṛbhyo 'gniṣvāttebhyaḥ | nidānyāyai dugdhe sakṛdupamathita ekaśalākayā maṃtho bhavati sakṛdu hyeva parāṃcaḥ pitarastasmātsakṛdupamathito bhavatyetāni havīgṃṣi bhavaṃti ‖*) (Śa. Brā. 2. ?. 1. 6) **NOTE**
+
+Then an oblation, mixed with milk drawn from a cow that lovingly licks her calf and made with wheat flour, is to be offered to the Pitṛs called Agniṣvātta. In this way the manner of the oblations offered at the time of the Mahāpitṛyajña is described. These Pitṛs are classed as Somavantaḥ, Barhiṣadaḥ and Agniṣvāttāḥ. This classification was stated above by citing the sentence तद्ये सोमेनेजानाः (*tadye somenejānāḥ*) (Śa. Brā. 2-6-1-7). In describing the power of this Mahāpitṛyajña, the power of the Pitṛs worshipped here is also extolled greatly. Thus the Pitṛ-śrāddhas are prescribed in many ways. In sum, there is the faith that by the performance of these prescribed śrāddhas and the like the Pitṛs are satisfied, and that thereby good comes to the living. Because it is done with faith (śraddhā), this rite is well known by the name śrāddha.
+
+Only a few sentences praising the Pitṛs, who have the nature of deities, are cited, and this section is for the present brought to a close.
+
+अंगिरोभिरा गहि यज्ञयेभिमैर्यम वैरूपैरिह मादयस्व । विवस्वंतं हुवे यः पिता तेऽस्मिन् यज्ञे बर्हिष्या निषद्य ॥ (*aṃgirobhirā gahi yajñayebhimairyama vairūpairiha mādayasva | vivasvaṃtaṃ huve yaḥ pitā te 'smin yajñe barhiṣyā niṣadya ‖*) (Ṛ. Saṃ. 10-14-5)
+
+O Yama, king, come to this Pitṛ-sacrifice of ours together with the Pitṛs, who assume various forms, are worthy of the highest worship and are called Aṅgirases; I pray that Vivasvat, your father, too, may come to this sacrifice.
+
+मातली कन्यैरमो अंगिरोभिर्बृहस्पतिर्यक्वभिर्वावृधानः । यांश्च देवा वावृधुर्ये च देवान्त्स्वाहाने स्वधयान्ये मदंति ॥ (*mātalī kanyairamo aṃgirobhirbṛhaspatiryakvabhirvāvṛdhānaḥ | yāṃśca devā vāvṛdhurye ca devāntsvāhāne svadhayānye madaṃti ‖*) (Ṛ. Saṃ. 10-14-3)
+
+May Indra, together with Mātali, thrive along with the Pitṛs who partake of kavya. May Yama thrive with the Aṅgirases. May Bṛhaspati thrive with the Ṛkvans. The gods, Indra and the others, whom the Pitṛs cause to thrive, are satisfied with the oblations offered with the cry svāhā. The Pitṛs whom Indra and the other gods cause to thrive are satisfied with the oblations in the form of svadhā.
+
+### Printed p. 451
+अग्निस्वात्ताः पितर एह गच्छत सदःसदः सदत सुप्रणीतयः । अत्ता हवींषि प्रयतानि बर्हिष्यथा रयिं सर्ववीरं दधातन ॥ (*agnisvāttāḥ pitara eha gacchata sadaḥsadaḥ sadata supraṇītayaḥ | attā havīṃṣi prayatāni barhiṣyathā rayiṃ sarvavīraṃ dadhātana ‖*) (Ṛ. Saṃ. 10-15-11)
+
+O Pitṛs called Agniṣvātta, come to this Pitṛ-sacrifice of ours. Sit in the places appointed for each of you. Partake of the oblations offered on the sacred grass seat. Provide us all wealth and bring us well-being.
+
+आच्या जानु दक्षिणतो निषद्येमं यज्ञमभि गृणीत विश्वे । मा हिंसिष्ट पितरः केन चिन्नो यद्व आगः पुरुषता कराम ॥ (*ācyā jānu dakṣiṇato niṣadyemaṃ yajñamabhi gṛṇīta viśve | mā hiṃsiṣṭa pitaraḥ kena cinno yadva āgaḥ puruṣatā karāma ‖*) (Ṛ. Saṃ. 10-15-6)
+
+O Pitṛs, sit on the right side, bending your left knees down. Partake of this sacrifice of ours. Do us no harm of any kind. If through the ignorance and weakness natural to human beings we have committed any sinful act, destroy it and forgive us. Grant that all well-being may come to us. Thus the Pitṛs, who have attained divinity, are praised and prayed to.
+
+**Some details in the Ṛks concerning the Pitṛs**
+
+Among the dead, the meritorious dwell in the third heaven; these are called Pitṛs. They are the original ancestors who followed the ancient paths (10-15-8, 10). The dead follow the very path laid down by these seers and go to them (10-14-2, 7, 15). They are connected with the third step of Viṣṇu (10-15-3; compare 1-154-5). Two sūktas have the Pitṛs as deity (10-15; 10-16).
+
+Among the Pitṛs there are the groups Navagvas, Virūpas, Aṅgirases, Atharvans, Bhṛgus and Vasiṣṭhas (10-14-4 to 6; 10-15-8). Of these the last four names are also the names of the seers of the Atharvaveda and of the second and seventh maṇḍalas of the Ṛgveda. Among them the Aṅgirases and Yama have a special connection (10-14-3, 5). Among the Pitṛs there is also a division into avarāḥ (lower rank), parāḥ (higher rank) and madhyamāḥ (middle rank). Even though they are not all known to their descendants, Agni knows all of them (10-15-1, 2, 13). Together with the Uṣases, rivers, mountains, heaven and earth, Pūṣan and the Ṛbhus, the favour of the Pitṛs is also prayed for (6-52-4; 6-75-10; 7-35-12; 1-106-3). Those who seek their regard (10-14-6) pray that wealth, offspring and long life be given to their descendants (10-15-7, 11; Ā. Ve. 18-3-14; 18-4-62). **NOTE** The Vasiṣṭhas are prayed to help their descendants (7-33-1; compare 10-15-8);
+
+### Printed p. 452
+Śuryaśa (?), Yadu and Ugradeva are praised even individually (1-36-18). **NOTE**
+
+The Pitṛs are also immortal (A. Ve. 6-41-3); they are even called gods (10-56-4). **NOTE** Among the Aṅgirases and some groups, the status of priest (ṛtvij) is joined to divinity. Acts of creation are also ascribed to some of the Pitṛs: it was they who adorned the sky with stars; day-light and night-darkness came from them (10-68-11); they discovered the hidden light and brought about the dawn (7-26-4; compare 10-107-1); and, joined with Soma, they extended heaven and earth (8-48-13). Just as there is a difference between the Agni that carries the offering to the gods (havyavāha) and the Agni that consumes corpses (kravyāda) (10-16-9), there is also a difference between the path of the gods and the path of the Pitṛs (compare 10-2-7; 10-18-1; 10-88-15). Likewise a distinction between the world of heaven and the world of the Pitṛs is stated; the door of the world of the gods is said to lie in the north-east (Śa. Brā. 6. 6-2-9), and the door of the world of the Pitṛs in the south-east (Śa. Brā. 13. 8. 1-5). The Pitṛs and human beings are of different classes, and their creation is separate (Tai. Brā. 2. 3-8-2). The Pitṛs dwell on earth, in the atmosphere and in heaven (A. Ve. 18-2. 49; compare Ṛ. Ve. 10-152). **NOTE**
+
+The ancient Pitṛs themselves once offered the Soma oblation (10-15-8). They pass their time happily with Yama (10-14-1; compare 10-135-1 and A. Ve. 18-4-10) and dine with the gods (7-76-4). Living as equals of the gods, they sometimes receive worship fit for the gods. They too come in the chariot of Indra and the gods (10-15-10). They too have a longing for the Soma juice (10-15-5, 6); seated on the sacred grass facing south, they drink the pressed drink (10-15-5, 6). They are eager to drink the Soma juice prepared for them; they are invited to come with Yama, his father Vivasvat and Agni, and with them to accept what has been offered (10-15-8 to 11; 10-14-4, 5). They come in thousands and sit in order on the sacred grass (10-15-10, 11). When the Pitṛs come to the sacrificial hall, certain piśācas also, in the guise of their friends, mingle with them (A. Ve. 18-2-28).
+
+When food is offered to the gods one says "स्वाहा (*svāhā*)", and when it is given to the Pitṛs "स्वधा (*svadhā*)" (10-15-3); in all rites this difference between the share of the gods and that of the Pitṛs must be kept (Śa. Brā. 4-4-2-2). They too are worshipped; there are prayers that they should hear the prayer of their followers and take their side, and should pardon the lapses that naturally occur (10-15-2, 5, 6; compare 3-55-2).
+
 ---
 
-**Progress note:** Done through printed p. 446. pp. 441-446 (batch API)
+**Progress note:** Done through printed p. 452. pp. 447-452 (batch API)
