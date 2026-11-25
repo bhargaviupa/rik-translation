@@ -18543,6 +18543,268 @@ O Agni, who are Jātavedas, send again to the presence of the Pitṛs the dead m
 ##### English translation
 Dismiss again to the Pitris, Agni him who, offered on you, comes with the Swadhas : putting on (celestial) life, let the remains (of bodily life) depart : let him, Jatavedas, be associated with a body.
 
+### Printed p. 520
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युत्ते॑ कृ॒ष्णः श॑कु॒न आ॑तु॒तोद॑ पिपी॒लः स॒र्प उ॒त वा॒ श्वाप॑दः।  
+> अ॒ग्निष्टद्वि॒श्वाद॑ग॒दं कृ॑णोतु॒ सोम॑श्च॒ यो ब्रा॑ह्म॒णा आ॑वि॒वेश॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । कृष्णः । शकुनः । आतुतोद । पिपीलः । सर्पः । उत । वा । श्वापदः ।  
+> अग्निः । तत् । विश्वअत् । अगदं । कृणोतु । सोमः । च । यः । ब्राह्मणान् । आविवेश ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मृतशरीर ते तव संबंधि यदंगं कृष्णः शकुनः काकाख्य आतुतोद ।
+> आजीषदर्थे । ईषत्तुन्नवान् ! तथा पिपीलः पिपीलिका वा सर्पो वोत वापि वा
+> श्वापदश्च शृगालादिः । एतेषामन्यतमो यदि तुन्नवानित्यर्थः। विश्वात् सर्वस्यात्ताग्निस्तत्तादृशमंगमगदं कृणोतु । दोषरहितं करोतु । संस्करोत्वित्यर्थः । तथा
+> सोमश्च देवतारूप ओषधिरूपो वा संस्करोतु । यः सोमो ब्राह्मणानृश्विगादीनाविवेश प्रविष्टवान् ॥
+
+##### Gist of the bhāṣya
+
+O dead body, whatever limb of yours a black bird, the crow, has pecked a little, or an ant, or a snake, or else a beast of prey such as a jackal—if any one of these has pecked it—let Agni, the consumer of everything, make that limb free of defect, that is, purify it. Likewise let Soma, whether as deity or as the plant, purify it, that Soma who has entered the Brahmins, the officiating priests and others. आतुतोद (*ātutoda*) is explained as having the sense of "a little" (आजीषदर्थे (*ājīṣadarthe*)), that is, "has pecked slightly".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your
+- यत् (*yat*)—which limb
+- कृष्णः (*kṛṣṇaḥ*)—black-coloured
+- शकुनः (*śakunaḥ*)—a crow
+- आतुतोद (*ātutoda*)—harms; or
+- पिपीलः (*pipīlaḥ*)—an ant
+- सर्पः (*sarpaḥ*)—a snake
+- उत वा (*uta vā*)—or
+- श्वापदः (*śvāpadaḥ*)—dogs and jackals harm
+- तं (*taṃ*)—that whole part
+- विश्वात् (*viśvāt*)—burning everything
+- अग्निः (*agniḥ*)—Agni
+- अगदं (*agadaṃ*)—free of defect
+- कृणोतु (*kṛṇotu*)—let him make
+- यः (*yaḥ*)—which Soma
+- ब्राह्मणान् (*brāhmaṇān*)—priests and others
+- आविवेश (*āviveśa*)—has entered
+- सोमश्च (*somaśca*)—let that Soma also purify this part
+
+##### भावार्थ (Bhāvārtha)
+
+O dead body, whatever limb of yours a black crow, an ant, or dogs and jackals bite and harm, let Agni, who burns everything, make that part free of defect. Let Soma, who enters the bodies of the priests and others, also purify that part.
+
+### Printed p. 521
+
+##### English translation
+Should the black crow, the ant, the snake, the wild beast, harm (a limb) of you, may Agni the all-devourer, and the Soma that has pervaded, the Brahmans, make it whole.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नेर्वर्म॒ परि॒ गोभि॑र्व्ययस्व॒ सं प्रोर्णु॑स्व॒ जीव॑सा॒ ॑ 
+> मेदसा च ।  
+> नेत्वा॑ धृ॒ष्णुर्हर॑सा॒ जर्हर्॑षाणो द॒धृग्वि॑ध॒क्षन्॑र्यं॒खया॑ते ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नेः । वर्म । परि । गोभिः । व्ययस्व । सं । प्र । ऊर्णुष्व । पीवसा । मेदसा ।  
+> च ।  
+> न । इत् । त्वा । धृष्णुः । हरसा । जर्हर्षाणः । दधृक् । विधक्षन् । परिअंखियाते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनुस्तरण्या वसया प्रेतस्य मुखमग्नेर्वर्मेत्यनया प्रोर्णुयात् ।
+> सूत्रितं च । अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि
+> गोभिर्व्ययस्वेति । आ-गृ. ४-३-१९ । इति ॥
+> हे प्रेत अग्नेः स्वभूतं वर्म ज्वालालक्षणं कवचं गोभिरनुस्तरणीगोचर्मणा परि व्ययस्व । परितः संवृणु । किंच पीवसा स्कूलेन मेदसा मांसेन
+> सम्यक् प्रोर्णुष्ट्व । आच्छादय । एवं कृते सति हरसा तेजसा धैष्णुर्धर्षणशीलो
+> जह्र्हषाणोऽत्यर्थं हृष्यन् दधृग्धृष्टः प्रगल्भः ॥ ऋत्विगित्यादिना दधृक्‌शब्दो
+> निपापिततः ॥ विधक्ष्यन् विविधं भस्मीकरिष्यन् एवंभूतोऽग्निस्ता त्वां नेत्परंखयाते !
+> नैव सर्वतो विस्तारयति ॥ अखेर्गत्यर्थाल्लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk, with the anustaraṇī cow's fat (vasā), one should cover the face of the dead. It is stated in the sūtra: अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि गोभिर्व्ययस्वेति । (*anustaraṇyā vasāmutpidya śiromukhaṃ pracchādayedagnervarma pari gobhirvyayasveti |*) (Ā. Gṛ. 4-3-19). O dead one, wrap Agni's own armour, in the form of flames, around you with the cow-hide of the anustaraṇī. Further, cover yourself well with thick fat and flesh. When this is done, Agni, bold with heat, delighting greatly, daring, intending to burn in many ways, will not spread all round you. The word दधृक् (*dadhṛk*) is established by the rule beginning *ṛtvig*; the root अख (*akha*) has the sense of motion, and the augment aṭ comes in the leṭ.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नेः (*agneḥ*)—Agni's
+- वर्म (*varma*)—the armour in the form of flames
+- गोभिः (*gobhiḥ*)—with the cow-hide
+- परिव्ययस्व (*parivyayasva*)—cause to be covered
+- पीवसा (*pīvasā*)—thick
+- मेदसा च (*medasā ca*)—and with fat
+
+### Printed p. 522
+- सं प्रोर्णुष्ट (*saṃ prorṇuṣṭa*)—cause to be wrapped round (then)
+- हरसा (*harasā*)—with brilliance
+- धृष्णुः (*dhṛṣṇuḥ*)—the assailant of enemies
+- जर्हर्षाणः (*jarharṣāṇaḥ*)—greatly delighted
+- दधृक् (*dadhṛk*)—bold
+- विधक्ष्यन् (*vidhakṣyan*)—Agni, who will burn in many ways
+- त्वा (*tvā*)—you
+- *na it paryaṃkhayāte*—does not surround and harm
+
+##### भावार्थ (Bhāvārtha)
+
+O dead one, cause Agni's armour in the form of flames to be covered with cow-hide. Cause yourself to be surrounded also with thick fat. Then Agni, brilliant, the assailant of enemies, greatly delighted, bold, who burns in many ways, will not surround you and harm you.
+
+##### English translation
+Enclose the mail of Agni with the (hide of the) cow ; cover it with the fat and marrow : then will not (Agni), bold, exulting in his fierce heat, proud, embrace you roundabout to consume you (to ashes).
+
+##### विशेषविषयगळु (Special Topics)
+
+When the funeral rite is performed, while reciting this Ṛk अग्नेर्वर्म (*agnervarma*), the face of the dead body is to be covered with the anustaraṇī. This is explained by the Āśvalāyana Gṛhya sūtra अनुस्तरण्या वसामुत्पिद्य शिरोमुखं प्रच्छादयेदग्नेर्वर्म परि गोभिर्वयस्व (*anustaraṇyā vasāmutpidya śiromukhaṃ pracchādayedagnervarma pari gobhirvayasva*) (Ā. Gṛ. 4-3-19).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मम॑ग्ने चम॒सं मा वि जि॑ह्वरः प्रि॒यो दे॒वाना॑मु॒त  ॒॑
+> सोम्यानां ।  
+> ए॒ष यश्च॑म॒सो दे॑व॒पान॒स्तस्मि॑न्दे॒वा अ॒मृता॑ मादयंते । ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमं । अग्ने । चमसं । मा । वि । जिह्वरः । प्रियः । देवानां । उत । सोम्यानां ।  
+> एषः । यः । चमसः । देवपानः । तस्मिन् । देवाः । अमृताः । मादयंते ॥ ८ ॥
+
+### Printed p. 523
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इममग्ने चमसमित्यनया प्रणीताप्रणयनमनुमंत्रयते । सूत्रितं च ।
+> इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते । आ. गृ.
+> ४-३-२४ । इति ॥
+> हे अग्ने इमं चमसं प्रणीताप्रणयनं मा वि जिह्वरः । मा विचालीः ।
+> यश्चमसो देवानामिंद्रादीनां प्रिय उतापि च सोम्यानां सोमार्हाणां
+> पितृणां प्रियः । किंच य एष चमसो देवपानः । देवाः पिबंत्यस्मिन्निति । देवपानस्थानियो भवति तस्मिंश्चमसेऽमृता मरणवर्जिता देवाः पितरश्च मादयंते ।
+> हव्यैश्च हृष्टा भवंति ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk one addresses the Praṇītā vessel's conveyance. It is stated in the sūtra: इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते (*imamagne camasaṃ mā vi jihvara iti praṇītāpraṇayanamanumaṃtrayate*) (Ā. Gṛ. 4-3-24). O Agni, do not shake this ladle, the Praṇītā vessel. The ladle is dear to the gods, Indra and the rest, and also dear to the Pitṛs who are worthy of Soma. Further, this ladle is the gods' drinking-vessel (the gods drink in it); in that ladle the deathless gods and the Pitṛs rejoice, and are delighted with the oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- इमं चमसं (*imaṃ camasaṃ*)—this vessel of oblation
+- मा वि जिह्वरः (*mā vi jihvaraḥ*)—do not displace (do not cause to move) (this vessel)
+- देवानां (*devānāṃ*)—to the gods
+- प्रियः (*priyaḥ*)—dear
+- उत (*uta*)—and
+- सोम्यानां (*somyānāṃ*)—dear also to the Pitṛs worthy of Soma
+- यः एषः चमसः (*yaḥ eṣaḥ camasaḥ*)—this ladle which
+- देवपानः (*devapānaḥ*)—is the means of drinking for the gods
+- तस्मिन् (*tasmin*)—in that very vessel
+- अमृताः (*amṛtāḥ*)—deathless
+- देवाः (*devāḥ*)—gods
+- मादयंते (*mādayaṃte*)—attain delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, do not cause this vessel of oblation to move. This vessel is dear to the gods, and dear also to the Pitṛs who are worthy of Soma. In the very ladle that is the gods' means of drinking, the deathless gods attain delight.
+
+##### English translation
+Agni, shake not this ladle, for it is dear to the gods, and to the (Pitris) who are worthy of the Soma: this which is the drining ladle of the gods, in this the immortal gods delight.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the after-rite, when the Praṇītā vessel is conveyed, the Ṛk इममग्ने चमसं (*imamagne camasaṃ*) is to be recited. This is explained by the Āśvalāyana Gṛhya sūtra इममग्ने चमसं मा वि जिह्वर इति प्रणीताप्रणयनमनुमंत्रयते (*imamagne camasaṃ mā vi jihvara iti praṇītāpraṇayanamanumaṃtrayate*) (Ā. Gṛ. 4-3-24).
+
+### Printed p. 524
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्र॒व्याद॑म॒ग्निं प्रहि॑णोमि दू॒रं य॒मरा॑ज्ञो गच्छतु रिप्रवा॒हः ।  
+> इ॒हैवायमित॑रो जा॒तवे॑दा दे॒वेभ्यो॑ ह॒व्यं व॑हतु प्रजा॒नन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रव्यअदं । अग्निं । प्र । हिणोमि । दूरः । यमराज्ञः । गच्छतु । रिप्रवाहः ।  
+> इह ! एव । अयं । इतरः । जातवेदाः । देवेभ्यः । हव्यं । वहतु । प्रजानन् ॥९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आहिताग्निमरण एतदादिके द्वे ऋचावौपाससोद्वासने विनियुक्ते । तत्र
+> प्रथमायाः पूर्वार्धेन दक्षिणस्यां दिशि चतुष्षथादावौपासनाग्निं निरस्यति । उत्तरेण शांतिकर्मार्थमादत्ते । आ. गृ. ४-६ । क्रव्यादं । क्रव्यमामिषं । तस्यात्तारं
+> तीव्रमग्निं दूरं विप्रकृष्टदेशे प्र हिणोमि । प्रगमयामि ॥ हि गत् स्वादिः ॥
+> रिप्रवाहः । रिप्रं पापं । तस्य वोढा सोऽग्निर्यमराज्ञो यमो राजा येषां
+> तान्यमराजकानन्यप्रदेशान्गच्छतु । प्राप्नोतु । अथ शांतिकर्मार्थमुपासन इतरः
+> क्रव्यादादन्नो जातवेदा जातानां वेदिता जातधनो वा प्रजानन् सर्वैर्विज्ञायमानोऽग्निरिहैव देशे देवेभ्यो देवार्थं हव्यं हवनयोग्यं हविर्वहतु ।
+> प्रापयतु ॥
+
+##### Gist of the bhāṣya
+
+On the death of one who keeps the sacred fire, this Ṛk and the next are applied at the dismissal of the Aupāsana fire. Of the first, with the first half he casts the Aupāsana fire out at a crossroads in the southern quarter; with the latter he takes up (another fire) for the rite of propitiation (Ā. Gṛ. 4-6). क्रव्यादं (*kravyādaṃ*): क्रव्य (*kravya*) is raw flesh; I send far away, to a distant place, the fierce fire that devours it. रिप्रवाहः (*ripravāhaḥ*): रिप्र (*ripra*) is sin; the fire that carries it away is to go to the regions of which Yama is king, that is, to places under Yama's rule. Then, for the propitiation rite, the other fire at the Upāsana, the Jātavedas (knower of what is born, or possessed of wealth that is born), known to all, is to convey here itself, to the gods, the oblation fit for offering. The root हि (*hi*) is of the svādi class, in the sense of going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्रव्यादं (*kravyādaṃ*)—eating kravya (flesh)
+- अग्निं (*agniṃ*)—Agni
+- दूरं (*dūraṃ*)—far
+- प्र हिणोमि (*pra hiṇomi*)—I send
+- रिप्रवाहः (*ripravāhaḥ*)—Agni, destroyer of sin
+- यमराज्ञः (*yamarājñaḥ*)—to the regions under Yama's sovereignty
+- गच्छतु (*gacchatu*)—let him go
+- इतरः (*itaraḥ*)—the one of another form
+- आयंजातवेदाः (*āyaṃjātavedāḥ*)—this Agni in the form of Jātavedas
+- प्रजानन् (*prajānan*)—becoming visible to all
+- इहैव (*ihaiva*)—staying in this very place
+- देवेभ्यः (*devebhyaḥ*)—to the gods
+- हव्यं (*havyaṃ*)—the oblation
+- वहतु (*vahatu*)—let him carry
+
+##### भावार्थ (Bhāvārtha)
+
+I send the flesh-eating Agni far away. Let the Agni who destroys sin go to the regions under Yama's rule. Let the other Agni, of another form, in the form of Jātavedas, visible to all, staying in this very place, carry the oblation to the gods.
+
+### Printed p. 525
+
+##### English translation
+I send the flesh-devouring Agni to a distance : let him bearing away sin repair to (the realm of) king Yama ; but let this other Jatavedas who is known (by all) convey the oblation to the gods.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒ग्निः क्र॒व्यात्प्र॑वि॒वेश॑ वो गृ॒हमि॒मं पश्य॒न्नित॑रं जा॒तवे॑दसं ।  
+> तं ह॑रामि पितृय॒ज्ञाय॑ दे॒वंस घ॒र्ममि॑न्वात्पर॒मे स॒धस्थे॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अग्निं । क्रव्यत् । प्रविवेश । वः । गृहं । इमं । पश्यन् । इतरं । जातवेदसं ।  
+> तं । हरामि । पितृयज्ञाय । देवं । सः । घर्मं । इन्वात् । परमे । सधस्थे ॥१०॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः क्रव्यादोऽग्निर्देवो युष्माकं गृहिणां गृहं प्रविवेश प्रविष्ट
+> वान् तं क्रव्यादं देवं हरामि । गृहाद्बहिर्निष्क्रामयामीत्यर्थः । किमर्थ० ।
+> पितृयज्ञाय तदर्थ० । किं कुर्वन् । इममितरं तस्मादन्यं हव्यवाहं जातवेदसं
+> पश्यन् पर्यालोचयन् । तथा सति क्रव्यादात्परोऽग्निः परम उत्कृष्टे सधस्थे
+> सहस्थाने घर्म० यज्ञमिन्वात् । प्राप्नोतु । पितृभिर्घर्मपैः सहेति शेषः ।
+
+##### Gist of the bhāṣya
+
+The flesh-eating Agni, the god, who has entered the house of you householders: that flesh-eating god I carry out, that is, I cause to leave the house. For what purpose? For the Pitṛyajña, for that purpose. Doing what? Looking at this other one, the oblation-bearing Jātavedas, that is, considering him. That being so, let the Agni other than the flesh-eater attain the sacrifice (घर्म (*gharma*)) in the supreme, excellent common abode; the supplement is "together with the Pitṛs who drink the gharma".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्रव्यात् यः अग्निः (*kravyāt yaḥ agniḥ*)—the Agni named Kravyāt, who
+- वः गृहं (*vaḥ gṛhaṃ*)—your house
+- प्रविवेश (*praviveśa*)—has entered
+- तं देवं (*taṃ devaṃ*)—that god Agni
+- पितृयज्ञाय (*pitṛyajñāya*)—for the worship of the Pitṛs
+- इमं इतरं जातवेदसं (*imaṃ itaraṃ jātavedasaṃ*)—this other Agni, in the form of Jātavedas
+- पश्यन् (*paśyan*)—looking at
+- हरामि (*harāmi*)—I carry out of the house
+- सः (*saḥ*)—that Agni in the form of Jātavedas
+- परमे (*parame*)—in the excellent
+- सथस्थे (*sathasthe*)—place
+- घर्मं (*gharmaṃ*)—the sacrifice
+- इन्वात् (*invāt*)—let him pervade
+
 ---
 
-**Progress note:** Done through printed p. 519. pp. 513-519 (batch API)
+**Progress note:** Done through printed p. 525. pp. 520-525 (batch API)
