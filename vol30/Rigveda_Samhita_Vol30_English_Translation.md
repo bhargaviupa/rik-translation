@@ -38484,6 +38484,305 @@ O gods, praised by the mantra, urge this pigeon, which torments us greatly, to l
 ##### English translation
 (Praised) by our hymn, O gods, drive out the pigeon who deserves to be driven out, exhilarated (by our oblation), bring us food and cattle, dissi-pating all our misfortunes; abandoning our food, may the swift (pigeon) fly away.
 
+### Printed p. 1123
+## Sūkta 166 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषभमिति पंचर्चं पंचदशं सूक्तं वैराजस्य शाक्वरस्य वर्षभाख्यस्यार्षं
+> पंचमी षडष्टका महापंक्तिः । सपत्ननाशनरूपोऽर्थो देवता । तथा चानुक्रांतं।
+> ऋषभमृषभो वैराजः शाक्वरो वा सपत्नघ्नमानुष्टुभं महापंक्त्यंतमिति ॥
+> प्रयाणसमये............जपेत् । सूत्रितं च । ऋषभं मा समानानामित्यभिक्रामन् ।
+> आ. गृ-. २-६-१३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The hymn ऋषभं (*ṛṣabhaṃ*) has five Ṛks and is the fifteenth sūkta. Its seer is Ṛṣabha, son of Virāj or of Śakvara, and its deity is the destruction of rivals (सपत्ननाशन (*sapatnanāśana*)). The fifth verse is in the Mahāpaṅkti metre, with six pādas of eight syllables; the others are in Anuṣṭubh. Sāyaṇa cites the Anukramaṇī: ऋषभमृषभो वैराजः शाक्वरो वा सपत्नघ्नमानुष्टुभं महापंक्त्यंतमिति ॥ (*ṛṣabhamṛṣabho vairājaḥ śākvaro vā sapatnaghnamānuṣṭubhaṃ mahāpaṃktyaṃtamiti ‖*). The sūkta is to be muttered at the time of setting out on a journey. He cites the sūtra ऋषभं मा समानानामित्यभिक्रामन् (*ṛṣabhaṃ mā samānānāmityabhikrāman*) (Ā. Gṛ. 2-6-13).
+
+##### Anuvāda
+
+This hymn ऋषभं (*ṛṣabhaṃ*) is the fifteenth sūkta in the twelfth anuvāka. It has five Ṛks. Its seer is Ṛṣabha Vairāja or Śākvara. Because the hymn speaks of destroying a sapatna (rival), the destruction of rivals is its deity. The fifth Ṛk is in the Mahāpaṅkti metre; in a Ṛk of this metre there are six pādas of eight syllables each. The remaining Ṛks are in Anuṣṭubh. In the Anukramaṇī it is said: ऋषभमृषभो वैराजः शाक्वरो वा सपत्नघ्नमानुष्टुभं महापंक्त्यंतं (*ṛṣabhamṛṣabho vairājaḥ śākvaro vā sapatnaghnamānuṣṭubhaṃ mahāpaṃktyaṃtaṃ*). The Āśvalāyana Gṛhya Sūtra, in the sūtra ऋषभं मा समानानामित्यभिक्रामन् (*ṛṣabhaṃ mā samānānāmityabhikrāman*) (Ā. Gṛ. 2-6-13), explains that this sūkta is to be muttered at the time of a journey, so that no harm comes from enemies, thieves, wicked beasts and other obstacles.
+
+Sūkta 166
+Maṇḍala 10; Anuvāka 12; Sūkta 166; Aṣṭaka 8; Adhyāya 8; Varga 24.
+Number of Ṛks in the sūkta: 5.
+Ṛṣi: Ṛṣabha Vairāja or Śākvara.
+Devatā: Sapatnaghna (destroyer of rivals).
+Chandas: 1–4 Anuṣṭubh; 5 Mahāpaṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒ष॒भं मा॑ समा॒नानां॑ स॒पत्ना॑ नां विषास॒हिं ।  
+> हं॒तारं॒ शत्रू॑णां कृधि वि॒राजं॒ गोप॑तिं॒ गवां॑ ॥ १ ॥
+
+### Printed p. 1124
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋषभं । मा । समानानां । सपत्नानां । विससहिं ।  
+> हंतारं । शत्रूणां । कृधि । विराजं । गोऽपतिं । गवां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सपत्ननाशनाभिमानिन्निंद्र मा मां समानानां सदृशानामस्मत्कुलीनानां
+> मध्य ऋषभमृषभवत्पत्रशस्त्रं कृधि । कुरु । तथा सपत्नानां शत्रूणां विषासहिं विशेषेणाभिभवितारं कुरु । येऽस्मत्कुल एव जाता अस्माकमेवानिष्टमाचरंति ते सपत्नाः ।
+> अपि च शत्रूणामन्येषामपि शातयित्यणां वैरिणां हंतारं हिंसितारं कृधि । कुरु ।
+> तथा विराजं विशेषेण राजमानं गोपतिं गोस्वामिनं च मां कुरु । न केवलमेकस्या एव गोः पतिं अपि तु सर्वासामित्याह गवामिति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the one who presides over the destruction of rivals: make me an ṛṣabha, one eminent like a bull, among my equals, those like me and of our own family. Make me also a thorough conqueror of the sapatnas, the enemies. Sapatnas are those born in our own family who do what is harmful to us. Moreover make me the slayer of other enemies too, the foes who would destroy us. Make me shining (विराजं (*virājaṃ*)) and the lord of cattle. Not of one cow only, but of all: this is the meaning of गवां (*gavāṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मा (*mā*)—me
+- समानानां (*samānānāṃ*)—among those equal to us
+- ऋषभं (*ṛṣabhaṃ*)—as eminent, as the bull is excellent among cows
+- कृधि (*kṛdhi*)—make
+- सपत्नानां (*sapatnānāṃ*)—of the enemies, that is, the rivals
+- विषासहिं (*viṣāsahiṃ*)—make me one who defeats
+- शत्रूणां (*śatrūṇāṃ*)—of other enemies
+- हंतारं (*haṃtāraṃ*)—make me the destroyer
+- गवां (*gavāṃ*)—of cows
+- विराजं (*virājaṃ*)—specially shining (famous)
+- गोपतिं (*gopatiṃ*)—make me the owner of cows
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, make me eminent among those who are my equals in family and in economic, moral and social dealings, as the bull shines eminent over a herd of cows. Make me defeat our rivals, make me the destroyer of enemies and the owner of many cows.
+
+##### English translation
+Make me. Indra, (renowned like) a bull amongst my equals, victor over my rivals. the slayer of my enemies, a sovereign, a lord of cattle.
+
+#### Ṛk 2
+### Printed p. 1125
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हम॑स्मि सपत्न॒हेंद्र॑ इ॒वारि॑ष्टो॒ अक्ष॑तः ।  
+> अ॒धः स॒पत्ना॑ मे प॒दोरि॒मे सर्वे॑ अ॒भिष्ठि॑ताः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । अस्मि । सपत्नहा । इंद्रः इव । अरिष्टः । अक्षतः ।  
+> अधः । सपत्नाः । मे । पदोः । इमे । सर्वे । अभिस्थिताः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं सपत्नहा सपत्नानां शत्रूणां हंतास्मि । भवामि । इंद्र इवेंद्रो यथा
+> केनाप्यहिंसितो भवति तथाहमष्यरिष्टोऽहिंसितोऽक्षतोऽव्रणश्च भवामि । इमे
+> दृश्यमानाः सर्वॆ सपत्ना मे मम पदोऽपादयोरधोऽधस्तादभिष्ठिता आक्रांता
+> भवंतु ॥
+
+##### Gist of the bhāṣya
+
+I am the slayer of sapatnas, of enemies. As Indra is unharmed by anyone, so I am unharmed (अरिष्टः (*ariṣṭaḥ*)) and unwounded (अक्षतः (*akṣataḥ*)), without a wound. May all these rivals who are seen here be trampled, lying beneath my feet.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- सपत्नहा (*sapatnahā*)—as the slayer of enemies
+- अस्मि (*asmi*)—am
+- इंद्र इव (*iṃdra iva*)—like Indra
+- अरिष्टः (*ariṣṭaḥ*)—one not subject to harm by others
+- अक्षतः (*akṣataḥ*)—one not subject to wounding by others, am
+- इमे (*ime*)—these seen here
+- सर्वे सपत्नाः (*sarve sapatnāḥ*)—all my enemies
+- मे (*me*)—my
+- पदोः अधः (*padoḥ adhaḥ*)—under the feet
+- अभिस्थिताः (*abhisthitāḥ*)—may they be fallen
+
+##### भावार्थ (Bhāvārtha)
+
+I am the destroyer of enemies, and like Indra I am one who is not subject to the harm or wounding of enemies. May all these enemies here lie fallen at the soles of my feet.
+
+##### English translation
+I am the destroyer of my enemies, like Indra unharmed and un-
+wounded ; may all these my foes be cast down under my feet.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्त्रै॒व वोऽपि॑ नह्याम्यु॒भे आर्त्र्नी॑ इव॒ ज्यया॑ ।
+
+### Printed p. 1126
+
+> वाचस्पते नि षेधेमान्यथा मदधरं वदान् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अत्र । एव । वः । अपि । नह्यामि । उभे इति । आर्त्र्नी इवेत्यार्त्र्नीऽइव । ज्यया ॥  
+> वाचः । पते । नि । सेध । इमान् । यथा । मत् । आधरं । वदान् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सपत्नाः यत्र देशे यूयं निवसथ अत्रैवास्मिन्नेव देशे वो युष्मानपि
+> नह्यामि । अपिनद्धान्पाशैर्बद्दान्यरोमि ज्यया मौन्यार्त्नी इव । यथा द्वे धनुषः
+> कोटी दृढं बध्येते तथेत्यर्थः । हे वाचस्पते वाचः शब्दस्य पालयितर्देव
+> इमान्सपत्नान्नि षेध । प्रतिषेध । यथा येन प्रकारेण मन्मत्तोऽधरं निकृष्टतरं
+> वदान् वदंति तथा निरुद्धवाचः कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O rivals, in this very place where you dwell I bind you too, bound with nooses, as the two ends of a bow are bound with the bowstring of *maurvī* (the bowstring); that is, as the two tips of a bow are bound firmly. O Vācaspati, protector of speech (वाचः (*vācaḥ*), of the word), restrain these rivals, so that they speak humbly, in a lowly manner, to me: make them silenced in speech. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्र एव (*atra eva*)—in that very place
+- वः अपि (*vaḥ api*)—you
+- ज्यया (*jyayā*)—with the bowstring
+- उभे आर्त्नी इव (*ubhe ārtnī iva*)—as the two ends of the bowstring are tied to the two tips of the bow
+- नह्यामि (*nahyāmi*)—I bind (tying with nooses)
+- वाचः पते (*vācaḥ pate*)—O Vācaspati, protector of speech
+- यथा (*yathā*)—in what manner these enemies
+- मत् (*mat*)—concerning me
+- अधरं (*adharaṃ*)—bad words
+- वदान् (*vadān*)—may speak (so that they may not speak thus)
+- इमान् (*imān*)—these enemies
+- निषेध (*niṣedha*)—obstruct
+
+##### भावार्थ (Bhāvārtha)
+
+O enemies, wherever you may be, I bind you there with nooses, as the two ends of the bowstring are tied to the two ends of the bow. O Vācaspati, restrain these enemies of mine so that they do not speak wicked words about me.
+
+##### English translation
+I bind you here, like the two extremities of the bow by the bowstring ; restrain them, lord of speech, that they may speak humbly to me.
+
+#### Ṛk 4
+### Printed p. 1127
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि॒भूर॒हमाग॑मं वि॒श्वक॑र्मेण॒ धाम्ना॑ ।  
+> आ व॑श्चि॒त्तमा वो॑ व्र॒तमा वो॒ऽहं समि॑तिं ददे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिभूः । अहं । आ । आगमं । विश्वकर्मेण । धाम्ना ।  
+> आ । वः । चित्तं । आ । वः । व्रतं । आ । वः । अहं । संइतिं । ददे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सपत्नाः अभिभूरभिभविताहं विश्वकर्मेण सर्वकर्मक्षमेण धाम्ना धारकेण
+> तेजसा बलेन वा सार्धमागमं । आगतवानस्मि । अतो वो युष्माकं चित्तं मन आ
+> ददे । गृह्णामि । मनोगतं धैर्यं हरामीत्यर्थः । वो युष्माकं व्रतं कर्म
+> चाहमा ददे । वो युष्मदीयो यः समितिः संग्रामः तं चाहमा ददे ।
+> अपहरामि ॥
+
+##### Gist of the bhāṣya
+
+O rivals, I, the overcomer, have come with a power (धाम्ना (*dhāmnā*), a sustaining splendour or strength) fit for every work (विश्वकर्मेण (*viśvakarmeṇa*)). Therefore I take (आ ददे (*ā dade*)) your mind, that is, I take away the courage lodged in it. I also take your व्रतं (*vrataṃ*), your work, and your समितिः (*samitiḥ*), your battle; I carry them off.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभिभूः (*abhibhūḥ*)—I who defeat you
+- अहं (*ahaṃ*)—I
+- विश्वकर्मेण (*viśvakarmeṇa*)—capable of doing all works
+- धाम्ना (*dhāmnā*)—with splendour, that is, with strength (power), accompanied
+- आगमं (*āgamaṃ*)—have come here (therefore)
+- वः (*vaḥ*)—your
+- चित्तं (*cittaṃ*)—mind, that is, the courage of the mind
+- आ ददे (*ā dade*)—have taken away
+- वः (*vaḥ*)—your
+- व्रतं (*vrataṃ*)—the work done with valour
+- आ ददे (*ā dade*)—have brought under my control
+- वः (*vaḥ*)—your
+- समितिं (*samitiṃ*)—power of fighting
+- अहं (*ahaṃ*)—I
+- आ ददॆ (*ā dadè*)—have taken away and brought under my control
+
+##### भावार्थ (Bhāvārtha)
+
+O enemies, I who defeat you have come here together with a power capable of doing all works. Therefore I have carried off your steadiness of mind, your valour, your work and your power of fighting, and brought them under my control.
+
+##### English translation
+I have come triumphant with power, epual to any exploit; I seize
+upon your minds, your pious observances, your prowess in war.
+
+#### Ṛk 5
+### Printed p. 1128
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो॒ग॒क्षे॒मं न॑ आ॒दाया॒हं भू॑यासमुत्त॒म आ वो॑  
+> मू॒र्धान॑मक्रमीं ।  
+> अ॒ध॒स्प॒दान्न॒ उद्व॑दत मं॒डूका॑ इवोद॒कान्मं॒डूका॑ उद॒कादि॑व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> योगक्षेमं । वः । आदाय । अहं । भूयासं । उत्तमः । आ । वः । मूर्धानं  
+> अक्रमीं ।  
+> अधःपदात् । मे । उत् । वदत । मंडूकाः इव । उदकात् । मंडूकाः । उदकात् इव ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सपत्नाः वो युष्माकं योगक्षेमं । अप्राप्तस्य धनस्य प्राप्तिर्योगः ।
+> प्राप्तस्य रक्षणं क्षेमः । तदुभयवादाय युष्मत्तो गृहीत्साहमुत्तमः श्रेष्ठो
+> भूयासं । ततो वो युष्माकं मूर्धानं शिर आक्रमिां । आक्रमिसं । पादेनाधितिष्ठामि ॥ क्रमेर्लुज्यमो मश् । पा. ७-१-४० । इट ईटीति सिचो लोपः ॥ अदंतरं
+> मे ममाधस्पदात्पादस्याधस्ताद्वर्तमाना यूयमुद्वदत । उच्चैराक्रोशत ।
+> उदकाद्वृष्टिजलादधः प्रदेशे वर्तमाना मंडूका इव । यथा ते भृशमाक्रोशंति
+> तथोद्वदतेत्यर्थः । मंडूका उदकादिवेति पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+O rivals, your योगक्षेमं (*yogakṣemaṃ*): yoga is the acquisition of wealth not yet obtained, kṣema is the protection of what has been obtained. Taking both from you, may I become उत्तमः (*uttamaḥ*), the best. Then I tread on your head (मूर्धानं (*mūrdhānaṃ*)), stepping on it with my foot. After that, you who lie beneath my foot, cry out aloud (उद्वदत (*udvadata*)), like frogs that are in a place lower than the rain-water; the meaning is that as they cry loudly, so you cry out. The repetition मंडूका उदकादिव (*maṃḍūkā udakādiva*) is for emphasis (*ādarārthā*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—your
+- योगक्षेमं (*yogakṣemaṃ*)—the power of acquiring wealth and its protection
+- आदाय (*ādāya*)—having snatched from you
+- अहं (*ahaṃ*)—I
+- उत्तमः (*uttamaḥ*)—eminent, that is, esteemed
+- भूयासं (*bhūyāsaṃ*)—may I become (afterwards)
+- वः (*vaḥ*)—your
+- मूर्धानं (*mūrdhānaṃ*)—head
+- आ अक्रमात् (*ā akramāt*)—I tread (with the foot)
+- मे (*me*)—my
+- अधस्पदात् (*adhaspadāt*)—you who lie beneath my foot
+- उदकात् (*udakāt*)—in the lower part of the rain-water
+- मंडूका इव (*maṃḍūkā iva*)—as frogs screech
+- मंडूका (*maṃḍūkā*)—frogs
+- उदकादिव (*udakādiva*)—as they cry out while in the water
+- उत् वदत (*ut vadata*)—you cry out loudly
+
+### Printed p. 1129
+
+##### भावार्थ (Bhāvārtha)
+
+O enemies, may I, snatching from you your power of acquiring wealth and of keeping it, become esteemed among men. I stand treading your head with my foot. You who lie beneath my feet will scream loudly, as frogs cry out in the rain-water.
+
+##### English translation
+Seizing upon your goods and chattels, may I be victorious; I walk
+upon your heads; cry aloud from beneath my feet, like frogs from (below)
+the water, like frogs from (below) the water.
+
+##### विशेषविषयगळु (Special Topics)
+
+The vilamantras to be recited at the end of this sūkta:
+
+येनेदं भूतं भुवनं भविष्यत्परिगृहीतममृतेन सर्वं । (*yenedaṃ bhūtaṃ bhuvanaṃ bhaviṣyatparigṛhītamamṛtena sarvaṃ |*)
+येन यज्ञ स्तायते सप्तहोता तन्ने मनः शिवसंकल्पमस्तु ॥ १ ॥ (*yena yajña stāyate saptahotā tanne manaḥ śivasaṃkalpamastu ‖ 1 ‖*)
+येन कर्माण्यपसो मनीषिणो यज्ञॆ कृण्वंति विदथेषु धीराः । (*yena karmāṇyapaso manīṣiṇo yajñè kṛṇvaṃti vidatheṣu dhīrāḥ |*)
+यदपूर्वं यक्षमंतः प्रजानां तन्ने मनः शिवसंकल्पमस्तु ॥ २ ॥ (*yadapūrvaṃ yakṣamaṃtaḥ prajānāṃ tanne manaḥ śivasaṃkalpamastu ‖ 2 ‖*)
+यज्जाग्रतो दूरमुदैति दैवं तदु सुप्तस्य तथैवेति । (*yajjāgrato dūramudaiti daivaṃ tadu suptasya tathaiveti |*)
+दूरंगमं ज्योतिषां ज्योतिरेकं तन्ने मनः शिवसंकल्पमस्तु ॥ ३ ॥ (*dūraṃgamaṃ jyotiṣāṃ jyotirekaṃ tanne manaḥ śivasaṃkalpamastu ‖ 3 ‖*)
+यत्प्रज्ञानमुत चेतो धृतिश्च यज्योतिरंतरमृतं प्रजासु । (*yatprajñānamuta ceto dhṛtiśca yajyotiraṃtaramṛtaṃ prajāsu |*)
+यस्मान्न ऋते किंचन कर्म क्रियते तन्ने मनः शिवसंकल्पमस्तु ॥ ४ ॥ (*yasmānna ṛte kiṃcana karma kriyate tanne manaḥ śivasaṃkalpamastu ‖ 4 ‖*)
+यस्मिन्चि साम यजूंषि यस्मिन्प्रतिष्ठिता रथनाभाविनाराः । (*yasminci sāma yajūṃṣi yasminpratiṣṭhitā rathanābhāvinārāḥ |*)
+यस्मिंश्चित्तं सर्वमोतं प्रजानां तन्ने मनः शिवसंकल्पमस्तु ॥ ५ ॥ (*yasmiṃścittaṃ sarvamotaṃ prajānāṃ tanne manaḥ śivasaṃkalpamastu ‖ 5 ‖*)
+सुषारथिरश्वानिव यन्मनुष्यान्नेनीयतेऽभीशुभिर्वाजिन इव (*suṣārathiraśvāniva yanmanuṣyānnenīyate 'bhīśubhirvājina iva*)
+हृत्प्रतिष्ठं यदजिरं यविष्ठं तन्ने मनः शिवसंकल्पमस्तु ॥ ६ ॥ (*hṛtpratiṣṭhaṃ yadajiraṃ yaviṣṭhaṃ tanne manaḥ śivasaṃkalpamastu ‖ 6 ‖*)
+ये पंच पंचाशतः शतं च सहस्रं च नियुतं चार्बुदं च । (*ye paṃca paṃcāśataḥ śataṃ ca sahasraṃ ca niyutaṃ cārbudaṃ ca |*)
+ये यज्ञ चित्तेष्ट काटं शरीरं तन्ने मनः शिवसंकल्पमस्तु ॥ ७ ॥ (*ye yajña citteṣṭa kāṭaṃ śarīraṃ tanne manaḥ śivasaṃkalpamastu ‖ 7 ‖*)
+७ ॥ वेदाहमेतं पुरुषं महांतमादित्यवर्णं तवसः परस्तात् । (*7 ‖ vedāhametaṃ puruṣaṃ mahāṃtamādityavarṇaṃ tavasaḥ parastāt |*)
+् । तस्य योनिं परिपश्यंति धीरास्तन्ने मनः शिवसंकल्पमस्तु ॥ ८ ॥ (* | tasya yoniṃ paripaśyaṃti dhīrāstanne manaḥ śivasaṃkalpamastu ‖ 8 ‖*)
+येन कर्माणि प्रचरंति धीरा विप्रा वाचा मनसा कर्मणा वा । (*yena karmāṇi pracaraṃti dhīrā viprā vācā manasā karmaṇā vā |*)
+ा । यत्स्वां दिशमनु संयंति प्राणिनस्तन्ने मनः शिवसंकल्पमस्तु ॥ ९ ॥ (*ā | yatsvāṃ diśamanu saṃyaṃti prāṇinastanne manaḥ śivasaṃkalpamastu ‖ 9 ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 1122. pp. 1117-1122 (batch API)
+**Progress note:** Done through printed p. 1129. pp. 1123-1128 (batch API)
