@@ -15700,6 +15700,291 @@ Maṇḍala 10; Anuvāka 7; Sūkta 88. Aṣṭaka 8; Adhyāya 4; Vargas 10, 11, 
 
 The oblation (havis) that is fit for drinking (pāntam), of the nature of Soma, ageless, that is, free from old age, and dear to the gods, is offered in the fire, which knows Sūrya (svarvid) and touches heaven (divispṛś); and the gods, for the bearing of that oblation
 
+### Printed p. 544
+
+> सोमात्मकस्य हविषो भर्मणे भरणाय भुवनाय भावनाय च धर्मणे
+> धारणाय च कं सर्वस्य सुखकरमिममग्निं देवाः स्वधयान्नेन पप्रथंत । प्रथयंति । तथा च यास्कः । हविर्यत्पानीयमजरं सूर्यविदि दिविस्पृश्यभिहुतं
+> जुष्टमग्नौ तस्य भरणाय च भावनाय च धारणाय चैतेभ्यः सर्वेभ्यः कर्मभो
+> देवा इममग्निमन्नेनापप्रथंत । नि. ७-२५ । इति ॥
+
+##### Gist of the bhāṣya
+
+The gods, for the bearing (भर्मणे (*bharmaṇe*) means "for bearing"), for the becoming (भुवनाय (*bhuvanāya*) means "for becoming") and for the holding (धर्मणे (*dharmaṇe*) means "for holding") of the Soma-form oblation, have extended (पप्रथंत (*paprathaṃta*) means "they extend") with svadhā, that is, with food, this Agni, who is कं (*kaṃ*), the giver of happiness to all. Accordingly Yāska (Ni. 7-25) says: the oblation which is drinkable, ageless, dear, offered in the fire that knows Sūrya and touches heaven; for the bearing, the becoming and the holding of it, for all these works, the gods have extended this Agni with food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पांतं (*pāṃtaṃ*)—fit for drinking
+- अजरं (*ajaraṃ*)—free from decay
+- जुष्टं (*juṣṭaṃ*)—fit for the enjoyment of the gods
+- हविः (*haviḥ*)—which Soma-form oblation
+- स्वर्विदि (*svarvidi*)—who knows the heavenly world
+- दिविस्पृशि (*divispṛśi*)—who touches the world of heaven
+- अग्नौ (*agnau*)—in Agni
+- आहुतं (*āhutaṃ*)—has been offered
+- तस्य (*tasya*)—of that Soma-form oblation
+- भर्मणे (*bharmaṇe*)—for the bearing
+- भुवनाय (*bhuvanāya*)—for the existence
+- धर्मणे (*dharmaṇe*)—for the support
+- कं (*kaṃ*)—Agni, the giver of happiness
+- देवाः (*devāḥ*)—the gods
+- स्वधया (*svadhayā*)—with food
+- पप्रथंत (*paprathaṃta*)—have satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-form oblation which is fit for drinking, free from decay and fit for the enjoyment of the gods has been offered in Agni, who knows the heavenly world and touches the world of heaven. For the bearing, the existence and the support of that Soma-form oblation, the gods have satisfied Agni, the giver of happiness, with food.
+
+##### English translation
+The Soma oblation, undecaying and agreeable to the gods, which is offered to Agni, who is cognizant of heaven, who touches the sky—for its nourishment, existence and support, the gods supply (Agni) the giver of happiness with food.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of the etymology that Yāska has written for this Ṛk, see what is written in the introduction to this sūkta (pages 535-536).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गी॒र्णं भुव॑नं॒ तम॒साप॑गूळ्हमा॒विः स्व॑रभवज्जा॒ते अ॒ग्नौ ।  
+> तस्य॑ दे॒वाः पृ॑थि॒वी द्यौरु॒तापोऽर॑णय॒न्नोष॑धीः स॒ख्ये अ॑स्य ॥
+
+### Printed p. 545
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गीर्णं । भुवनं । तमसा । अप्यगूळ्हं । आविः । स्वः । अभवत् । जाते । अग्नौ ।  
+> तस्य । देवाः । पृथिवी । द्यौः । उत । अपः । अरणयन् । ओषधीः । सख्ये । अस्य ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गीर्णं पूर्वं निगीर्णं तमसांधकारेणापगूढमाच्छादितं स्वः सर्वं
+> भुवनमग्नौ यस्मिन्वैश्वानरे जात उत्पन्ने सत्याविरभवत् आविर्भवति तस्यास्य वैश्वानरस्याग्नेः सख्ये सखिकर्मणि देवा इंद्रादयः पृथिवी भूमिश्च द्यौश्चापोऽंतरिक्तं
+> चोदकानि वौषधीरोषध्यश्चारणयत् । अरमंत । प्रीतिं कृतवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The whole world (स्वः (*svaḥ*)), formerly swallowed up (गीर्णं (*gīrṇaṃ*)) and hidden (अपगूढं (*apagūḍhaṃ*)) by darkness, became manifest when Agni, that is Vaiśvānara, was born. In the friendship, that is the fellowship, of this Agni, the gods, Indra and the others, and earth, and heaven, and the atmosphere (अपः (*apaḥ*)) and the waters (चोदकानि (*codakāni*)) **NOTE**, and the plants rejoiced (अरणयन् (*araṇayan*) means "they took delight"), that is, they showed affection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गीर्णं (*gīrṇaṃ*)—that which was at first absorbed
+- तमसा (*tamasā*)—by darkness
+- अपगूढं (*apagūḍhaṃ*)—enveloped
+- स्वः भुवनं (*svaḥ bhuvanaṃ*)—the whole world
+- अग्नौ (*agnau*)—Vaiśvānara Agni
+- जाते (*jāte*)—when he was born
+- आविरभवत् (*āvirabhavat*)—became manifest
+- तस्य अस्य (*tasya asya*)—of this Vaiśvānara Agni
+- सख्ये (*sakhye*)—to obtain the friendship
+- देवाः (*devāḥ*)—all the gods
+- पृथिवी (*pṛthivī*)—the earth
+- द्यौः (*dyauḥ*)—the world of heaven
+- अपः (*apaḥ*)—the atmosphere
+- ओषधीर् (*oṣadhīr*)—the plants
+- अरणयन् (*araṇayan*)—obtained delight
+
+##### भावार्थ (Bhāvārtha)
+
+The whole world, which at first was absorbed and invisible and enveloped by darkness, became manifest when Vaiśvānara Agni was born. To obtain the friendship of this Vaiśvānara Agni all the gods, the earth, the world of heaven, the atmosphere and the plants obtained delight.
+
+##### English translation
+The whole world swallowed up, hidden in darkness, was made manifest when Agni was born: the gods, heaven and earth, the waters and the plants rejoiced in his friendship.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वेभि॒र्वि॑षि॒तो य॒ज्ञिये॑भिर॒ग्निं स्तो॑षाण्य॒जरं॑ बृ॒हंतं॑ ।  
+> यो भा॒नुना॑ पृथि॒वीं द्यामु॒तेमामा॑त॒तान॒ रोद॑सी  ॒॑
+> अंतरिक्षं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 546
+
+> देवेभिः । नु । इषितः।यज्ञियेभिः । अग्निं । स्तोषाणि । अजरं । बृहंतं ।  
+> यः । भानुना । पृथिवीं । द्यां । उत । इमां । आततान । रोदसी इति । अंतरिक्षं॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञियेभिर्यज्ञार्हैर्देवेभिर्देवैरिंद्रादिभिर्नु क्षिप्रमिषितोऽहमजरं
+> जरारहितं बृहंतं महांतमग्निं तं वैश्वानराग्निं स्तोषाणि । स्तोषामि । यो
+> वैश्वानराग्निर्भानुना तेजसा पृथिवीं भूमिमुतापि चेमां द्यां दिवं चाततान
+> आतनोति । तदेव दर्शयति । रोदसी द्यावापृथिव्यौ चाततान आतनोति । विस्तारयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sent (इषितः (*iṣitaḥ*)) quickly (नु (*nu*) means "quickly") by the gods, Indra and the others, who are worthy of sacrifice, I praise (स्तोषाणि (*stoṣāṇi*) means "I praise") that Vaiśvānara Agni, the ageless, that is free from old age, and great. That Vaiśvānara Agni with his radiance (भानुना (*bhānunā*) means "with brilliance") extends the earth and this heaven. He shows the same: he extends also the two worlds, heaven and earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- भानुना (*bhānunā*)—by his own brilliance
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- उत (*uta*)—and
+- इमां द्यां (*imāṃ dyāṃ*)—this world of heaven
+- रोदसी (*rodasī*)—heaven and earth
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the atmosphere
+- आततान (*ātatāna*)—caused to spread
+- अजरं (*ajaraṃ*)—free from decay
+- बृहंतं (*bṛhaṃtaṃ*)—exceedingly great
+- अग्निं (*agniṃ*)—Vaiśvānara Agni
+- यज्जियेभिः (*yajjiyebhiḥ*)—who are worthy of worship
+- देवेभिः (*devebhiḥ*)—by the gods
+- नु (*nu*)—quickly
+- इषितः (*iṣitaḥ*)—impelled
+- स्तोषाणि (*stoṣāṇi*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+That free-from-decay, exceedingly great Vaiśvānara Agni who by his own brilliance has caused the earth, heaven and earth, and the atmosphere to spread—him, impelled by the gods who are worthy of worship, I praise.
+
+##### English translation
+Sent by adorable gods I praise the undecaying and mighty Agni, who by his radiance has spread forth the earth and this heven, the two worlds and the firmament.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो होतासी॑त्पथ॒मो दे॒वजु॑ष्टो॒ यं स॒मांज॒न्नाज्ये॑ना  ॒
+> वृणा॒नाः ।
+
+### Printed p. 547
+
+> स पतत्रीत्वरं स्था जगद्यच्छात्रमग्निरकृणोज्जा तवेदाः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । होता । आसीत् । प्रथमः । देवजुष्टः । यं । संआंजन् । आजेन ।  
+> वृणानाः ।  
+> सः । पतत्रि । इत्वरं । स्थाः । जगत् । यत् । श्वात्रं । अग्निः । अकृणोत् । जातवेदाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वैश्वानरोऽग्निर्देवजुष्टो दॆवैः सेवितः प्रथमो मुख्यो होतासीत् अभूत् यं च वैश्वानराग्निं यजमाना वृणाना आज्येन समांजन् समंजति
+> जातवेदा जातप्रज्ञो जातधनो वा वैश्वानरोऽग्निः पतत्रि पतनशीलं पक्षिजातमित्वरं गमनशीलं सरीसृपादिकं स्थाः स्थावरं वृक्षादिरूपं च जगत् । स्थावरं
+> जंगमं च यज्जगदित्यर्थः । श्वात्रं क्षिप्रमेवाकृणोत् । अजनयत् ' तथा च
+> यास्कः । स पतत्रि चेत्वरं स्थावरं जंगमं च यत्तत्क्षिप्रमग्निरकरोज्जातवेदाः ।
+> नि. ५-३ । इति ॥
+
+##### Gist of the bhāṣya
+
+The Vaiśvānara Agni who, served by the gods (होता (*hotā*) the Hotṛ), was the first, that is the chief, Hotṛ, and whom the sacrificers, choosing him (वृणानाः (*vṛṇānāḥ*)), anoint (समांजन् (*samāṃjan*) means "they anoint") with ghee. Jātavedas, that is, he who has born wisdom or born wealth, Vaiśvānara Agni, quickly (श्वात्रं (*śvātraṃ*) means "quickly") made, that is, produced, the winged class of birds (पतत्रि (*patatri*)), the moving (इत्वरं (*itvaraṃ*)) creatures, serpents and the like, and the stationary (स्थाः (*sthāḥ*)) world, in the form of trees and the like; that is, the world which is both stationary and moving. Accordingly Yāska (Ni. 5-3) says that Agni Jātavedas quickly made what both flies and moves, and what is stationary and moving.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Vaiśvānara Agni
+- देवजुष्टः (*devajuṣṭaḥ*)—served by the gods
+- प्रथमः (*prathamaḥ*)—most chief
+- होता (*hotā*)—the accomplisher of oblations
+- आसीत् (*āsīt*)—was
+- यं (*yaṃ*)—whom
+- वृणानाः (*vṛṇānāḥ*)—the sacrificers who worshipped
+- अज्येन (*ajyena*)—with ghee
+- समांजन् (*samāṃjan*)—refined
+- जातवेदाः सः (*jātavedāḥ saḥ*)—that same Agni, of born wisdom
+- पतत्रि (*patatri*)—the class of birds
+- इत्वरं (*itvaraṃ*)—the creatures that move about on the ground
+- स्थाः (*sthāḥ*)—the trees and the like that do not move
+- जगत् (*jagat*)—the whole world
+- श्वात्रं (*śvātraṃ*)—swiftly
+- अकृणोत् (*akṛṇot*)—made
+
+##### भावार्थ (Bhāvārtha)
+
+The Vaiśvānara Agni who is served by the gods, is the most chief, and is the accomplisher of oblations, whom the sacrificers worshipped, refining him with ghee—that same Agni quickly made the whole world, including the flying birds, all the creatures that walk on the ground, and the trees and the like.
+
+##### English translation
+Who propitiated by the gods was the first offerer of oblations, whom his worshippers anoint with clarified butter—he, Agni Jatavedas, quickly
+
+### Printed p. 548
+
+made that which can fly, that which can walk, that which is stationary, that which is moveable.
+
+##### विशेषविषयगळु (Special Topics)
+
+श्वात्रं (*śvātraṃ*)—Śvātra means quickly, swiftly. In this matter Yāska has stated the etymology: श्वात्रमिति क्षिप्रनामाशु आतनं भवति (*śvātramiti kṣipranāmāśu ātanaṃ bhavati*) (Ni. 4-7).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यज्ञा॑तवेदो॒ भुव॑नस्य मू॒र्धन्नति॑ष्ठो अग्ने स॒ह रो॑च॒नेन॑।  
+> तं त्वा॑हेम म॒तिभि॑गीर्ग॒र्भिरु॒क्थैः स य॒ज्ञियो॑ अभवो  ॒
+> रोदसिप्राः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । जात्यवेदः । भुवनस्य । मूर्धन् । अतिष्ठः । अग्ने । सह । रोचनेन ।  
+> तं । त्वा । अहेम । मतिभः । गीभिः । उक्षैः । सः । यज्जियः । अभवः ।  
+> रोदसिप्राः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदो जातप्रज्ञाग्ने यद्यस्त्वं भुवनस्य त्रैलोक्यस्य मूर्धन्
+> मूर्धनि रोचनेनादित्येन सहातिष्ठः स्थितवानसि तं वैश्वानराग्निं त्वा त्वां मतिभिरर्चनियाभिर्गिभिः स्तुतिभिरुक्थैः शस्त्रश्चाहेम । प्रपद्यामहे ॥ हि गताविति धातुः ॥
+> सवैश्वानरस्त्वं रोदसिप्रा द्यावापृथिव्योः पूरयिता यज्ञियो यज्ञार्हश्चाभवः।
+> भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni Jātavedas, that is, Agni of born wisdom, you who have stood at the head (मूर्धन् (*mūrdhan*)) of the world, that is, of the three worlds, together with the shining one (रोचनेन (*rocanena*)), the sun: you, that Vaiśvānara Agni, we approach (अहेम (*ahema*) means "we resort to") with worshipful thoughts (मतिभिः (*matibhiḥ*)), with praises (गीर्भिः (*gīrbhiḥ*)), with recitations (uktha) and with śastras. That Vaiśvānara you are the filler of heaven and earth (रोदसिप्राः (*rodasiprāḥ*)) and are worthy of sacrifice (यज्ञियः (*yajñiyaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O omniscient one
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—you who
+- भुवनस्य (*bhuvanasya*)—of the whole world
+- मूर्धन् (*mūrdhan*)—at the top
+- रोचनेन सह (*rocanena saha*)—together with the resplendent Āditya
+- अतिष्ठः (*atiṣṭhaḥ*)—stand
+- तं त्वा (*taṃ tvā*)—you, who are of the form of Vaiśvānara Agni
+- मतिभिः (*matibhiḥ*)—with meditations
+- गीर्भिः (*gīrbhiḥ*)—with praises
+- उक्षैः (*ukṣaiḥ*)—with śastras and the like
+- अहेम (*ahema*)—I worship
+- सः (*saḥ*)—you who are of the form of Vaiśvānara
+- रोदसिप्राः (*rodasiprāḥ*)—the satisfier of heaven and earth
+- यज्ञियः (*yajñiyaḥ*)—worthy of worship
+- अभवः (*abhavaḥ*)—you are
+
+### Printed p. 549
+
+##### भावार्थ (Bhāvārtha)
+
+O omniscient Agni, you who are together with the resplendent Āditya at the top of the whole world, such you, who are of the form of Vaiśvānara Agni, we worship with meditations, with praises and with the mantras of the śastras and the like. You, who are of the form of Vaiśvānara, are the satisfier of heaven and earth, and worthy of worship.
+
+##### English translation
+Inasmuch as you abide, Agni Jatavedas, on the brow of the universe together with the sun, we have come to you with praises, with prayers : you are adorable, the satisfier of heaven and earth.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मू॒र्धा भु॒वो भ॑वति॒ नक्त॑म॒ग्निस्ततः॒ सूर्यो॑ जायते  ॒॒
+> प्रा॒तरु॒द्यन् ।  
+> मा॒यामू॒ तु य॒ज्ञिया॑नामे॒तामपो॒ यत्तूर्णि॒श्चर॑ति  ॒
+> प्रजानन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मूर्धा । भुवः । भवति । नक्तं । अग्निः । ततः । सूर्यः । जायते । प्रातः ।  
+> उत् 5 यन् ।  
+> मायां । ऊं इति । तु । यज्ञियानां । एतां । अपः । यत् । तूर्णिः । चरति ।  
+> प्रजानन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्वैश्वानरोऽग्निर्नक्तं रात्रौ भुवो भूतजातस्य मूर्धा शिरोवत्प्रधानभूतो भवति । रात्रौ सर्वप्राणिनामालोकस्य तदधीनत्वात् । ततो रात्रेरनंतरं
+> प्रातरुद्यन् सूर्यो जायते । अहनि स एव वैश्वानरोऽग्निः सूर्यो भवतीत्यर्थः ।
+> किंच यज्ञयानां यज्ञसंपादिनां देवानां मायामु प्रज्ञामेवैतां मन्यंते
+> कवय इति शेषः । यत्प्रजानन् प्रज्ञायमानः सूर्यस्तर्णिस्वरमाणः
+
+##### Gist of the bhāṣya
+
+Vaiśvānara Agni at night (नक्तं (*naktaṃ*)) becomes the head (मूर्धा (*mūrdhā*)), that is, the chief like a head, of all beings (भुवः (*bhuvaḥ*)), because at night the light of all creatures depends on him. Then (ततः (*tataḥ*)), after the night, Sūrya is born rising in the morning; that is, by day that same Vaiśvānara Agni becomes Sūrya. Further, of the gods who accomplish the sacrifice, the seers (the word "seers" is to be supplied) consider this to be wisdom, मायामु (*māyāmu*). As for that which, becoming known, Sūrya
+
 ---
 
-**Progress note:** Done through printed p. 543. Mandala 10 sukta 88: Sakapuni view end, sukta introduction, Rk 1 start
+**Progress note:** Done through printed p. 549. Vol 29 Sūkta 88 (Maṇḍala 10) Ṛk 1 end to Ṛk 6 start, pp. 544-549
