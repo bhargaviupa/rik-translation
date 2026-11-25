@@ -50,3 +50,4 @@
 | 48 | through p. 941 (three windows in one agent: pp. 921–941) | sonnet | 15 | 205238 | 5.4 |
 | 49 | through p. 960 (three windows in one agent: pp. 942–960) | sonnet | 14 | 178862 | 5.0 |
 | 50 | through p. 981 (three windows in one agent: pp. 961–981) | sonnet | 17 | 180185 | 5.0 |
+| 51 | through p. 1009 (four windows in one agent: pp. 982–1009) | sonnet | 22 | 227184 | 7.0 |
