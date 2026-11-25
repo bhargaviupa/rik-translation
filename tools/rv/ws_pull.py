@@ -5,7 +5,7 @@
     python3 tools/rv/ws_pull.py --force    # fetch everything again
 
 Pages taken: every `ऋग्वेदः सूक्तं M.S` (the 1028 sūktas), the ten `ऋग्वेदः मण्डल N` pages, `ऋग्वेदः खिलसूक्तानि/…`,
-`ऋग्वेदः ऋषिसूची`, `ऋग्वेदः/संहिता/सस्वरपाठः/…` and `ऋग्वेदः`. (The Brāhmaṇa and Āraṇyaka pages under `ऋग्वेदः/…`
+`ऋग्वेदः ऋषिसूची`, `ऋग्वेदः/संहिता/सस्वरपाठः/…`, `ऋग्वेदः` and `वेदभाष्यभूमिकासङ्ग्रहः` (Sāyaṇa's bhāṣya-bhūmikās of four Vedas, one scanned-text page; the Ṛgveda part is indexed by ws_index.py). (The Brāhmaṇa and Āraṇyaka pages under `ऋग्वेदः/…`
 are left out: they are not the Saṃhitā.) Nothing is changed: each line of a file is one page,
 {"title","pageid","revid","parentid","timestamp","fetched","wikitext"}; the revision id says exactly which text it is.
 Files: refs/wikisource/raw/M01.jsonl … M10.jsonl (the sūktas of a maṇḍala, in order) and other.jsonl.
@@ -42,7 +42,7 @@ def all_titles():
 
 def wanted(t):
     return bool(re.fullmatch(r'ऋग्वेदः सूक्तं [०-९]+\.[०-९]+|ऋग्वेदः मण्डल [०-९]+|ऋग्वेदः खिलसूक्तानि/अध्यायः [०-९]+|'
-                             r'ऋग्वेदः ऋषिसूची|ऋग्वेदः/संहिता/सस्वरपाठः/.+|ऋग्वेदः', t))
+                             r'ऋग्वेदः ऋषिसूची|ऋग्वेदः/संहिता/सस्वरपाठः/.+|ऋग्वेदः|वेदभाष्यभूमिकासङ्ग्रहः', t))
 
 
 def key(t):
@@ -53,7 +53,7 @@ def key(t):
 def main(a):
     force = '--force' in a
     RAW.mkdir(parents=True, exist_ok=True)
-    titles = sorted((t for t in all_titles() if wanted(t)), key=key)
+    titles = sorted((t for t in all_titles() + ['वेदभाष्यभूमिकासङ्ग्रहः'] if wanted(t)), key=key)
     have = {}
     for f in RAW.glob('*.jsonl'):
         for line in f.read_text(encoding='utf-8').splitlines():

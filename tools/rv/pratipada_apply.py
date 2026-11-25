@@ -3,6 +3,7 @@
 
   python3 tools/rv/pratipada_apply.py N [--write]            # volume N: its supplied file (volcfg `source`), report volN/review/pratipada_check_source.tsv
   python3 tools/rv/pratipada_apply.py FILE.md REPORT.tsv [--write] [--log DIR]
+  ... [--only WORD,WORD]     only these supplied words (the editor has read them), the one-letter test waived for them; reason in the log: 'approved by the editor'
 
 Only rows with status `fix-certain` are considered (one reference word within one edit AND the supplied Pada block of the same Ṛk already
 spells that word), and of those only the rows that pass a second test: the Kannada word differs from the replacement by exactly ONE
@@ -44,6 +45,8 @@ def one_letter(a, b):
 def main():
     args = [x for x in sys.argv[1:] if not x.startswith('--')]
     write = '--write' in sys.argv
+    only = set(sys.argv[sys.argv.index('--only') + 1].split(',')) if '--only' in sys.argv else None   # editor-approved words: the one-letter test is waived for these (each still needs a unique place)
+    if only: args = [x for x in args if x != sys.argv[sys.argv.index('--only') + 1]]
     logdir = None
     if '--log' in sys.argv: logdir = pathlib.Path(sys.argv[sys.argv.index('--log') + 1])
     if args and args[0].isdigit():
@@ -60,11 +63,12 @@ def main():
     done, skipped = [], {'not one letter / ending': 0, 'not found once': 0}
     for r in cand:
         old, new = r['kannada_as_supplied'], r['kannada_replacement']
-        if not one_letter(old, new): skipped['not one letter / ending'] += 1; continue
+        if only is not None and old not in only: continue
+        if not one_letter(old, new) and only is None: skipped['not one letter / ending'] += 1; continue
         start = int(r['line']) - 1
         end = start
         while end < len(lines) and (end == start or not lines[end].startswith('#')) and end - start < 80: end += 1
-        pat = re.compile(r'(?<![ಀ-೿])' + re.escape(old) + r'(?=\s*(?:\([^)]*\))?\s*[—–\-])')
+        pat = re.compile(r'(?<![ಀ-೿])' + re.escape(old) + r'(?![ಀ-೿])(?=[^|।!\n—–\-]*[—–\-])')      # a word of an entry key (the key may have several words, 'ಆಮಿತಾ ವಸೂನಿ—'): a dash follows in the same entry
         hits = [(k, m) for k in range(start, end) for m in pat.finditer(lines[k])]
         if len(hits) != 1: skipped['not found once'] += 1; continue
         k, m = hits[0]

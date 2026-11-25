@@ -1,0 +1,34 @@
+{
+ "vol": 24,
+ "mandala": 8,
+ "branch": "claude/hopeful-heisenberg-418lwb",
+ "source": [
+  "vol24/html/rig_24.md@1-797"
+ ],
+ "printed": [
+  [
+   1,
+   0
+  ]
+ ],
+ "skip_pdf": [],
+ "out": {
+  "kn": "vol24/Rigveda_Samhita_Vol24_Kannada_Text.md",
+  "en": "vol24/Rigveda_Samhita_Vol24_English_Translation.md"
+ },
+ "work": "vol24/work",
+ "window": 6,
+ "mandalas": [
+  8
+ ],
+ "note_style": "NOTE",
+ "no_iast_blocks": [
+  "bhashya"
+ ],
+ "grammar": "sanskrit",
+ "layout": "subheads",
+ "printed_english_label": "English translation",
+ "branches": [
+  "claude/hopeful-heisenberg-418lwb"
+ ]
+}
