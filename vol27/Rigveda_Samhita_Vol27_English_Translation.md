@@ -6719,6 +6719,289 @@ That is: I am a praiser, one who composes words of praise and offers them for th
 
 The horse (अश्वः (*aśvaḥ*)) that carries (वोळ्हा (*voḷhā*)) one to the intended place desires a good, comfortable chariot. The jesting companions (उपमंत्रिणः (*upamaṃtriṇaḥ*)), those who confer in jest, desire mocking speech (हसनां (*hasanāṃ*)). So also शेपः (*śepaḥ*): Yāska says शेषो नैतस इति पुंसृजननस्येति (*śeṣo naitasa iti puṃsṛjananasyeti*) (Ni. 3-21), i.e. the male organ of generation. As this desires the two hairy thighs (रोमण्वंत् भेदौ (*romaṇvaṃt bhedau*)), and the frog (मंडूकः (*maṃḍūkaḥ*)) desires only water (वारित् (*vārit*); इत् (*it*) is used in the sense of restriction), so I desire your flowing. Therefore, O Indu, flow for Indra.
 
+### Printed p. 146
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वोळ्हा (*voḷhā*)—(the horse) able to bear a burden
+- अश्वः (*aśvaḥ*)—the horse
+- सुखं (*sukhaṃ*)—easy to draw
+- रथं (*rathaṃ*)—the cart
+- इच्छति (*icchati*)—desires
+- उपमंत्रिणः (*upamaṃtriṇaḥ*)—the jesting companions
+- हसनां शेषः (*hasanāṃ śeṣaḥ*)—desire speech full of mirth
+- मंडूक (*maṃḍūka*)—the frog
+- वाः इत् (*vāḥ it*)—desires water alone
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The horse, able to bear a burden, desires a cart that is easy to draw. The jesting companions desire speech full of mirth. The frog desires water alone. O Soma, flow for Indra's drinking.
+
+##### English translation
+The draught horse (desires) a cart easy (to draw); those who invite guests (desire) merriment ; the frog desires water : flow, Indu, for Indra.
+
+## Sūkta 113 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शर्यणावतीत्येकादशर्चं दशमं सूक्तं मारीचस्य कश्यपस्यार्षं । पूर्वत्र
+> हीत्युक्तत्वादिदमुत्तरं च पांक्तं । पवमानसोमदेवताकं । तथा चानुक्रम्यते ।
+> शर्यणावत्येकादश कश्यप इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+"Śaryaṇāvatī…" is the tenth sūkta, of eleven ṛks; its seer is Kaśyapa, son of Marīci. This sūkta and the next are in the Pāṅkta metre (paṅkti). The deity is Pavamāna Soma. The Anukramaṇī says: शर्यणावत्येकादश कश्यप इति (*śaryaṇāvatyekādaśa kaśyapa iti*). The viniyoga has been stated already.
+
+##### Anuvāda
+
+This sūkta beginning "Śaryaṇāvatī" is the tenth sūkta in the seventh anuvāka. It has eleven ṛks. Kaśyapa, son of the sage Marīci, is its seer; this sūkta and the one after it are in the paṅkti metre. Pavamāna Soma is the deity. The statement in the Anukramaṇī, शर्यणावत्येकादश कश्यपः (*śaryaṇāvatyekādaśa kaśyapaḥ*), has been given; the viniyoga was stated earlier.
+
+##### Particulars
+
+Sūkta 113. Maṇḍala 9; Anuvāka 7; Sūkta 113; Aṣṭaka 7; Adhyāya 5; Vargas 26, 27. Number of ṛks in the sūkta: 11. Seer: Kaśyapa. Deity: Pavamāna Soma. Metre: Paṅkti.
+
+### Printed p. 147
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒र्य॒णाव॑ति॒ सोम॒मिंद्रः॑ पिबतु वृत्र॒हा ।  
+> बलं॒ दधा॑न आ॒त्मनि॑ करि॒ष्यन्वी॒र्यं॑ म॒हदिंद्रा॑येंदो॒ परि॑  
+> स्रव ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शर्यणावति । सोमं । इंद्रः पिबतु । वृत्रहा  
+> बलं । दधानः । आत्मनि । करिष्यन् वीर्यं । महत् । इंद्राय । इंदो इति ।  
+> परि । स्रव ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शर्यणावति । शर्यणावन्नाम कुरुक्षेत्रस्य जघनार्धे सरः । तत्र स्थितं
+> सोमं वृत्रहेंद्रः पिबतु । कीदृशः । आत्मनि बलं दधानो बलं निदधानः अत एव
+> महद्वीर्यं करिष्यञ्यत्रून्प्रति । तस्मादिंद्रायेंदो परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+Śaryaṇāvat is the name of a lake in the rear half of Kurukṣetra. Let Indra, the slayer of Vṛtra, drink the Soma that stands there. How is he? He holds strength within himself, and therefore will perform great valour against his enemies. Therefore, O Indu, flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत्मनि (*ātmani*)—in himself
+- बलं (*balaṃ*)—strength
+- दधानः (*dadhānaḥ*)—bearing
+- महत् (*mahat*)—abundant
+- वीर्यं (*vīryaṃ*)—valour
+- करिष्यन् (*kariṣyan*)—about to show before his enemies
+- वृत्रहा (*vṛtrahā*)—slayer of foes
+- इंद्रः (*iṃdraḥ*)—Indra
+- शरणावति (*śaraṇāvati*)—grown in the lake called Śaraṇāvat
+- सोमं (*somaṃ*)—Soma
+- पिबतु (*pibatu*)—let him drink
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra, who holds strength within himself, who will display abundant valour before his enemies, and who destroys foes, drink the Soma grown in the lake called Śaraṇāvat. O Soma, flow for Indra's drinking.
+
+##### English translation
+Let Indra, the slayer of Vritra, quaff the Soma on the Sharyan avat infusing strength into himself, about to show great prowess : flow, Indu, for Indra.
+
+### Printed p. 148
+
+##### विशेषविषयगळु (Special Topics)
+
+Śaryaṇāvati—Śaryaṇāvat is the name of a lake near Kurukṣetra. It is traditionally said that Soma plants grew abundantly in the regions near this lake. An account has also been given earlier that the horse-shaped head of the sage Dadhyañc fell near this lake.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व दिशां पत आर्जि॒कात्सो॑म मीढ्वः ।  
+> ऋ॒त॒वा॒केन॑ स॒त्येन॑ श्र॒द्धया॒ तप॑सा सु॒त इंद्रा॑येंदो॒ परि॑  
+> स्रव ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । दिशां । पते । अर्जिकात् । सोम , माध्वः ।  
+> ऋतवाकेन । सत्येन । श्रद्धया । तपसा । सुतः । इंद्राय।इंदो इति । परि । स्रवः
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे दिशां पते प्राच्यादीनां दिशां प्रकाशकत्वेन स्वामिन् हे मीड्वः
+> कामानां सेक्तर्हे सोम आर्जिकात् । ऋजीकामदूरभव आर्जिको जनपदः ।
+> तस्मादा पवस्व । अस्मद्यज्ञं प्रत्यागच्छ । यद्वा । आर्जिकादृजोरकुटिलात्पवित्रात्
+> क्षर । कीदृशः । ऋतवाकेनर्तस्य वचनेन सत्येन । सत्यर्तयोरल्पो भेदो द्रष्टव्यः ।
+> श्रद्धया तपसा युक्तैर्दीक्षितैः सुतोऽभिषुतस्तं पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O lord of the directions, lord of the eastern and other directions as their illuminator; O showerer of desires; O Soma, from Ārjīka—Ārjīka is the country not far from Ṛjīkā—flow hither, come back to our sacrifice. Or else: flow from the Ārjīka, the straight, from the strainer. How is he? Pressed with the speech of ṛta and with satya (a slight difference between satya and ṛta is to be observed), by the initiated, endowed with faith and austerity. Flow thus pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिशां पते (*diśāṃ pate*)—guardian of all directions
+- मीध्वः (*mīdhvaḥ*)—showerer of desires
+- सोम (*soma*)—O divine Soma
+- सत्येन (*satyena*)—true
+- ऋतवाकेन (*ṛtavākena*)—with words of praise
+- श्रद्धया (*śraddhayā*)—with faith
+- तपसा (*tapasā*)—with austerity
+- सुतः (*sutaḥ*)—you who are pressed
+- अर्जिकात् (*arjikāt*)—from the Arjika country
+- आ पवस्व (*ā pavasva*)—flow
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, guardian of all directions and showerer of desires, pressed with faith and austerity together with true words of praise, flow from the Arjīka country. O Soma, flow for Indra's drinking.
+**NOTE**
+
+### Printed p. 149
+
+##### English translation
+Soma, lord of the four regions, sprinkler ( of benefits ) flow from Arjika effused by a truthful man) with faith and devotion : flow, Indu, for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+Ārjikāt—यजीकानामदूरभव आर्जिको जनपदः । तस्मात् । (*yajīkānāmadūrabhava ārjiko janapadaḥ | tasmāt |*) Yajīkā is the name of a distant people; the region where they live is called Ārjika. So the commentator explains. Yāska, discussing rivers, says आर्जिकीयां विपाडित्याहुः (*ārjikīyāṃ vipāḍityāhuḥ*) (Ni. 9-26): Ārjikī is the name of a river, which has another name, Vipāṭ. Yajīka is a mountain, and the river that is born on it and flows is explained as named Ārjikā. It is well known that the Soma plants growing in the lands of the five peoples—Ārjīka, Pastāvat, Śaryaṇāvat, Suṣomā—are of the best kind and are obtained abundantly.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒र्जन्य॑वृद्धं महि॒षं तं सूर्य॑स्य दुहि॒ताभ॑रत् ।  
+> तं गं॑ध॒र्वाः प्रत॑गृभ्य॒न्तं सोमे॒ रस॒माद॑धु॒रिंद्रा॑येंदो॒ ॑ 
+> परि स्रव ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्जन्यवृद्धं । महिषं । तं । सूर्यस्य । दुहिता । आ : अभरत् ।  
+> तं । गंधर्वाः । प्रति अग्नृभन् । तं । सोमे : रसं । आ । आदधुः । इंद्राय ।  
+> इंदो इति । परि । स्रव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूर्यस्य दुहिता । श्रद्धा वै सूर्यस्य दुहितेति वाजसनेयकं । शत. १२-
+> ७-३-११ । सा पर्जन्यवृद्धं पर्जन्यवत्समर्थं । यद्वा । पर्जन्येन तत्कार्यत्वेनोदकेन प्रवृद्धं । महिषं महांतं पूज्यं ना तं सोममाभरत् । आहरत् ।
+
+##### Gist of the bhāṣya
+
+Sūryasya duhitā is Śraddhā: श्रद्धा वै सूर्यस्य दुहितेति वाजसनेयकं (*śraddhā vai sūryasya duhiteti vājasaneyakaṃ*) (Śa. 12-7-3-11 **NOTE**). She brought that Soma, "grown by Parjanya", i.e. as capable as Parjanya; or else, grown by water, which is Parjanya's effect; *mahiṣa*, great and worthy of worship.
+
+### Printed p. 150
+
+> द्युलोकादाहृतवती । तमाह्रियमाणं सोमं गंधर्वा विश्वावसुप्रभृतयः
+> प्रत्यगृभन् । प्रत्यगृह्णन् । प्रतिगृहीतवंतः ॥ हृग्रहोर्भः ॥ ततो गंधर्वाः प्रतिगृहीतं रसं सोमे प्रत्यक्षमाधधुः ॥ दधातेर्लजति ॥ तस्मान्परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+She brought him from the heavenly world. The Gandharvas, Viśvāvasu and the rest, seized Soma as he was being brought; having seized him, the Gandharvas set the juice in the Soma openly. Therefore flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- दुहिता (*duhitā*)—the daughter, Śraddhā
+- पर्जन्यवृद्धं (*parjanyavṛddhaṃ*)—mighty like Parjanya
+- महिषं (*mahiṣaṃ*)—worthy of worship
+- तं (*taṃ*)—that Soma
+- आभरत् (*ābharat*)—brought from the heavenly world
+- गंधर्वाः (*gaṃdharvāḥ*)—the Gandharvas
+- प्रत्यगृभन् (*pratyagṛbhan*)—received
+- सोमे (*some*)—in that same Soma
+- रसं (*rasaṃ*)—the juice
+- आदधुः (*ādadhuḥ*)—placed
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Śraddhā, daughter of Sūrya, brought from the heavenly world Soma, mighty like Parjanya and worthy of worship. The Gandharvas received him and placed the juice in that same Soma. O Soma, flow for Indra's drinking.
+
+##### English translation
+The daughter of Surya brought the vast Soma large as a rain-cloud ; the Gandharvas seized upon it and placed the juice in the Soma : flow. Indu, for Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+Gandharvāḥ pratyagṛbhan—this ṛk says that the goddess Śraddhā, daughter of Sūrya, brought Soma from the heavenly world and that the Gandharvas received it. The matter is told slightly differently in other śākhās. For example in the Taittirīya Saṃhitā of the Yajurveda: तं सोममाह्रियमाणं गंधर्वो विश्वावसुः पर्यमुष्णात्स तिस्रो रात्रिः परिमुषितोऽवसत्तस्मात्रिस्रो रात्रिः क्रीतः सोमो वसति ते देवा अब्रुवन्स्कीकामा वै गंधर्वास्त्रिया निष्क्रीणामेति ते वाचग्स् स्त्रीयमेकहायनीं कृत्वा तया निरक्रीणन्ता रोहिद्रूपं कृत्वाःगंधर्वेभ्योऽपक्रम्यातिष्ठत् ॥ (*taṃ somamāhriyamāṇaṃ gaṃdharvo viśvāvasuḥ paryamuṣṇātsa tisro rātriḥ parimuṣito 'vasattasmātrisro rātriḥ krītaḥ somo vasati te devā abruvanskīkāmā vai gaṃdharvāstriyā niṣkrīṇāmeti te vācags strīyamekahāyanīṃ kṛtvā tayā nirakrīṇantā rohidrūpaṃ kṛtvāḥgaṃdharvebhyo 'pakramyātiṣṭhat ‖*) (Kṛ. Saṃ. 6-1-6--5)
+**NOTE**
+
+Formerly Soma was in heaven. When no one could bring it to earth, Gāyatrī went to heaven in the form of a hawk, disregarded the resistance of the guardians of Soma who watched it there—Svān, Bhrāja, Aṅghāri, Bambhāri, Hasta, Sudasta, Kṛśānu—and
+
+### Printed p. 151
+brought it to earth. While she was bringing it, a Gandharva named Viśvāvasu seized that Soma on the way and kept it with himself for three days. The gods considered how to get it back from him; since the Gandharvas are greatly attached to women and full of desire, they resolved to show them the prospect of a woman and so recover the Soma. For this they went to Vāc, the goddess of speech, told her everything, and with her consent decided that she should become a beautiful woman, be sold to the Gandharvas, and that Soma be brought in exchange. Accordingly, when Vāc took the form of a beautiful woman, they gave her to the Gandharvas and brought back the Soma they had carried off. When Soma had become the gods' possession, Vāc, who was in the form of the beautiful woman, took the form of a red antelope, escaped from the Gandharvas, ran and joined the gods. Therefore from that time it became the custom to buy Soma plants for use in sacrifices. This ritual part of the sacrifice, the purchase of Soma, is still performed in sacrifices. Moreover, since the best Soma plants grow in high mountain regions (the mountain Mūjavat is famous for the Soma plant), bringing it requires great toil. So it seems it became the custom to pay a fitting price to those who took the trouble, out of desire for wealth, to go to the mountains and bring Soma, and to buy it. Because Soma, when the Gandharva carried it off, stayed with him three nights, there is a rule that Soma bought must be kept three nights. In the present ṛk this kind of praise of the Soma plant is stated.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तं वद॑न्नृतद्युम्न स॒त्यं वद॑न्त्सत्यकर्मन् ।  
+> श्र॒द्धां वद॑न्सोम राजन्था॒त्रा सो॑म॒ परि॑ष्कृत॒ इंद्रा॑येंदो॒ परि॑ स्रव ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतं । वदन् । ऋत्तद्युम्न । सत्यं । वदन् । सत्यकर्मस् !  
+> श्रद्धां । पदन् ! सोम ! राजन् । धाता ' सोम । परिकृतः ! इंद्राय । इंदो  
+> इति । परि । स्तव ॥ ४ ॥
+
+### Printed p. 152
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋतद्युम्नर्तेन द्योतमान सत्ययशस्व नासत्यकर्मन्यथार्थकर्मन् हे
+> सोमाभिषूयमाण राजन् सर्वॆषां यज्ञनिष्पादकत्वेन स्वामिन् हे सोम
+> ऋतं यज्ञं वदन् सत्यं वदन्नुचारयञ्चद्धां यजमानानामात्मनोपेक्षितां
+> वदन् धात्रा कर्मणां धारकेण देवानां पोषकेण वा यजमानेन परिष्कृतोऽलंकृतस्त्वमिंद्राय परि स्रव ॥ संपर्युपेभ्य इति भूषणार्थे करोतेः सुट् ॥
+
+##### Gist of the bhāṣya
+
+O Ṛtadyumna, shining with ṛta, of true glory; O Satyakarman, of true action; O Soma being pressed; O king, lord of all as accomplisher of the sacrifice; O Soma, speaking ṛta, i.e. the sacrifice, uttering satya, speaking the faith that the sacrificers desire for themselves, adorned by the dhātṛ—the upholder of rites or the nourisher of the gods, i.e. the sacrificer—flow for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतद्युम्न (*ṛtadyumna*)—you who shine with truth
+- सत्यकर्मन् (*satyakarman*)—you whose action is true
+- सोम (*soma*)—O divine Soma
+- राजन् (*rājan*)—lord of all
+- सोम (*soma*)—O divine Soma
+- यतं (*yataṃ*)—the sacrifice
+- वदन् (*vadan*)—declaring
+- सत्यं (*satyaṃ*)—truth
+- वदन् (*vadan*)—reciting
+- श्रद्धां (*śraddhāṃ*)—faith in the rite
+- वदन् (*vadan*)—reciting
+- धात्रा (*dhātrā*)—by the sacrificer, upholder of the rite
+- परिष्कृतः (*pariṣkṛtaḥ*)—adorned
+- इंदो (*iṃdo*)—O Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, shining with truth, of true action, lord of all, declaring the sacrifice, uttering truth, reciting faith in the rite, adorned by the sacrificer who upholds the rite, flow for Indra's drinking.
+
+##### English translation
+Soma, the utterer of truth, radiant with truth, truthspeaking, truthful in act, speaking faith, lord (of worshippers) you are decorated by the upholder (of the rite) : flow, Indu, for Indra.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमु॑ग्रस्य बृह॒तः सं स्र॑वंति संस्र॒वाः ।  
+> सं यं॑ति र॒सिनो॒ रसाः॑ पुना॒नो ब्रह्म॑णा हर॒ इंद्रा॑येंदो॒ परि॑ स्रव ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 145. pp. 140-145 (batch API)
+**Progress note:** Done through printed p. 152. pp. 146-152 (batch API)
