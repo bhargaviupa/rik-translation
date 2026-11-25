@@ -511,10 +511,8 @@ O Ashvin deities! You are those who perform many deeds — heroic undertakings; 
 > दस्रा॑ यु॒वाक॑वः सु॒ता नास॑त्या वृ॒क्तब॑र्हिषः ।
 > आ या॑तं रुद्रवर्तनी ॥३॥
 >
-> *dásrā yuvā́kavaḥ sutā́ nā́satyā vṛktábarhiṣaḥ |* [accent ?]
+> *dásrā yuvā́kavaḥ sutā́ nā́satyā vṛktábarhiṣaḥ |*
 > *ā́ yātaṃ rudravartanī ||3||*
-
-*(Accents read from the better scan. [accent ?]: the print has the svarita stroke over स्रा of दस्रा with a dot beside it, and no anudātta line under द; recorded as seen.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -907,10 +905,8 @@ In "pūtāsaḥ," by "ājjaser asuk" (Pā. Sū. 7-1-50), the "jas" ending that c
 > इन्द्रा या॑हि धि॒येषि॒तो विप्र॑जूतः सु॒ताव॑तः ।
 > उप॒ ब्रह्मा॑णि वा॒घतः॑ ॥५॥
 >
-> *indrā́ yāhi dhiyéṣitó víprajūtaḥ sutā́vataḥ |* [accent ?]
+> *indrā́ yāhi dhiyéṣitó víprajūtaḥ sutā́vataḥ |*
 > *upa bráhmāṇi vāghátaḥ ||5||*
-
-*(Accents read from the better scan. [accent ?]: the print has a further small mark above व of सुताव॑तः, not identified.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -2964,10 +2960,8 @@ In explaining the senses of the words "vāja," "śata" and "kratu" in this Ṛk,
 > यो रा॒यो॒३॒॑ऽवनि॑र्म॒हान्सु॑पा॒रः सु॑न्व॒तः सखा॑ ।
 > तस्मा॒ इन्द्रा॑य गायत ॥१०॥
 >
-> *yo rāyo3vánirmahā́ntsupāráḥ sunvatáḥ sákhā |* [accent ?]
-> *tasmā íṃdrāya gāyata ||10||* [accent ?]
-
-*(Accents read from the better scan; [accent ?]: on this page the print shows through from the back, and the marks around रायो३वनिः and under इन्द्राय are not clear — recorded as best read.)*
+> *yo rāyo3vánirmahā́ntsupāráḥ sunvatáḥ sákhā |*
+> *tasmā íṃdrāya gāyata ||10||*
 
 ### Page 130 — Rik 4.10: Pada, Sāyaṇa-bhāṣya, grammar (characterized), Pada-meanings (opening)
 
@@ -5241,15 +5235,13 @@ The sense of this Ṛk is somewhat strained (kliṣṭa). Its meaning can be sta
 
 ### Sūkta 6, The Ninth Mantra
 
-*(In the second line the svarita strokes stand over "sa" and "gi" in the print; their placement is doubtful, hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > अतः॑ परिज्म॒न्ना ग॑हि दि॒वो वा॑ रोच॒नादधि॑ ।
 > सम॑स्मिन्नृञ्जते॒ गिरः॑ ॥९॥
 >
 > *átaḥ parijmannā́ gahi divó vā rocanā́dádhi |*
-> *samasminnṛṃjate giraḥ ||9||* [accent ?]
+> *samasminnṛṃjate giraḥ ||9||*
 
 ### Pages 246–247 — Rik 6.9: Pada, Sāyaṇa-bhāṣya, grammar (characterized), Pada-meanings, Bhāvārtha, English, start of Special Topics
 
@@ -5483,14 +5475,12 @@ This sūkta *indram id gāthino bṛhat* is the fourth (last) sūkta of the seco
 **॥ Devatā — Indra ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
-*(In the first line the print has, over "gā" of "gāthinaḥ," a svarita stroke as well as the anudātta bar; only the bar is given, hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > इन्द्र॒मिद्गा॒थिनो॑ बृ॒हदिन्द्र॑म॒र्केभि॑र॒र्किणः॑ ।
 > इन्द्रं॒ वाणी॑रनूषत ॥१॥
 >
-> *índram íd gāthíno bṛhád índram arkébhir arkíṇaḥ |* [accent ?]
+> *índram íd gāthíno bṛhád índram arkébhir arkíṇaḥ |*
 > *índraṃ vā́ṇīr anūṣata ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -5715,15 +5705,13 @@ Some Western scholars have rendered this word **"horses which harness themselves
 *(Page 267 header: "A. 1, A. 1, Va. 13." The Rik 2 grammar of "hiraṇyayaḥ" is given above under p. 266; p. 268 closes it.)* "Hiraṇyaya" is formed by nipātana (6-4-175: "y" for "ṛtu" and "vāstu" before "yat," and before "aṇ" for "madhu" in the feminine, and the loss of the "m" of "mayaṭ" after "hiraṇya"). If the loss of "m" is so explained that the affix accent must hold, "hiraṇya + aya" gives one substitute by **अतो गुणे** (पा. सू. ६-१-९७); the "a" of "aya" is acute by the affix accent, the final "a" of "hiraṇya" unaccented by śeṣanighāta, and the single substitute acute by **एकादेश उदात्तेनोदात्तः** (पा. सू. ८-२-५); so "hi" and "ra" are unaccented, "ṇya" acute, and "yaḥ" svarita by **उदात्तादनुदात्तस्य स्वरितः** (पा. सू. ८-४-६६) — so Mādhavācārya. Some hold that, with the loss of "m," **यस्येति च** (पा. सू. ६-४-१४८) drops the "a" of "hiraṇya," so that the affix's "a" is heard and the intended accent results. But with the loss of "m" treated as not effected by **असिद्धवदत्राभात्** (पा. सू. ६-४-२२), there is no "bha" designation (no "y"-initial affix follows), so "yasyeti ca" cannot apply; and **अकृत्सार्वधातुकयोर्दीर्घः** (पा. सू. ७-४-२५) would lengthen, not being in the "bha" section; the lengthening is barred by **अङ्गवृत्ते पुनर्वृत्तावविधिः** (परिभा. ९३), but the intended accent still fails; and with the "m" loss taken as asiddha, "yasyeti ca" cannot drop the "a." If the whole word ("maya") is lost, "hiraṇya" would be end-acute. So it is proper, as in the Veda-bhāṣya, to accept the loss of the letter, give the later form, and make the single substitute acute by 8-2-5. ॥२॥
 ### Sūkta 7, Rik 3
 
-*(The print sets the svarita stroke over "sū" (not over "ryaṃ"), and over "bhi" of "gobhir" both a stroke and a bar (only the bar is given); hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।
 > वि गोभि॒रद्रि॑मैरयत् ॥३॥
 >
-> *índro dīrghā́ya cákṣasa ā́ sūryaṃ rohayad diví |* [accent ?]
-> *ví góbhir ádrim airayat ||3||* [accent ?]
+> *índro dīrghā́ya cákṣasa ā́ sūryaṃ rohayad diví |*
+> *ví góbhir ádrim airayat ||3||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6196,15 +6184,13 @@ Indra is the one who fulfils the desires of men; he is all-capable; he has no ri
 
 ### Sūkta 7, Rik 9
 
-*(Saṃhitā accents as printed (p. 295); Pada unaccented. In "kṣitīnām" only the bar under "kṣi" is printed; the next mark (a svarita stroke after the acute) is missing, hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > य एक॑श्चर्षणी॒नां वसू॑नामिर॒ज्यति॑ ।
 > इन्द्रः॒ पञ्च॑ क्षिती॒नाम् ॥९॥
 >
 > *ya ékaś carṣaṇīnā́ṃ vásūnām irajyáti |*
-> *índraḥ páñca kṣitī́nām ||9||* [accent ?]
+> *índraḥ páñca kṣitī́nām ||9||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6414,15 +6400,13 @@ This rik is found in the Sāma Veda **1620**; Atharvaveda **20-39-1**, **20-70-1
 **॥ Devatā — Indra ॥**
 **॥ Chandaḥ — Gāyatrī ॥**
 
-*(In the second line the print sets a svarita stroke over "va" of "varṣiṣṭham" (not expected after "saham"), hence [accent ?]; the IAST leaves "varṣiṣṭham" unmarked.)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > एन्द्र॑ सान॒सिं र॒यिं स॒जित्वा॑नं सदा॒सह॑म् ।
 > वर्षि॑ष्ठमू॒तये॑ भर ॥१॥
 >
 > *éndra sānasíṃ rayíṃ sajítvānaṃ sadāsáhaṃ |*
-> *varṣiṣṭham ūtáye bhara ||1||* [accent ?]
+> *varṣiṣṭham ūtáye bhara ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6671,15 +6655,13 @@ O Indra! Since we have the help of skilled and valiant warriors who are expert i
 
 ---
 
-*(Line 1: the strokes stand over "ma" of "mahitvam" and over "tva…"; line 2: a stroke over "dyau," and over "śavaḥ" a stroke joined to a bar; placement doubtful, hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > म॒हाँ इन्द्रः॑ प॒रश्च॒ नु म॑हि॒त्वम॑स्तु व॒ज्रिणे॑ ।
 > द्यौर्न प्र॑थि॒ना शवः॑ ॥५॥
 >
-> *mahā́ṁ índraḥ paráś ca nú mahitvám astu vajríṇe |* [accent ?]
-> *dyaúr ná prathinā́ śávaḥ ||5||* [accent ?]
+> *mahā́ṁ índraḥ paráś ca nú mahitvám astu vajríṇe |*
+> *dyaúr ná prathinā́ śávaḥ ||5||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -6768,14 +6750,12 @@ In these riks the *na* comes after the related words *mṛgaḥ* and *vatsam*, s
 
 ### Page 324 — Sūkta 8, Rik 6
 
-*(The bar under "sya" of "tokasya" is faint, hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > स॒मो॒हे वा॒ य आश॑त॒ नर॑स्तो॒कस्य॒ सनि॑तौ ।
 > विप्रा॑सो वा धिया॒यवः॑ ॥६॥
 >
-> *samohé vā yá ā́śata náras tokásya sánitau |* [accent ?]
+> *samohé vā yá ā́śata náras tokásya sánitau |*
 > *víprāso vā dhiyāyávaḥ ||6||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -6993,15 +6973,13 @@ The sense of the rik is somewhat involved. Indra always gives each person what t
 
 ### Page 336 — Sūkta 8, Rik 9
 
-*(Saṃhitā marks as read from the print; Pada unaccented. On this page several strokes seem to stand one syllable early over closely set letters ("ta" of "ūtaya," "dya," "san," "śu"), so the placement is doubtful: [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ए॒वा हि ते॒ विभू॑तय ऊ॒तय॑ इन्द्र॒ माव॑ते ।
 > स॒द्यश्चि॒त्सन्ति॑ दा॒शुषे॑ ॥९॥
 >
-> *evā́ hi te víbhūtaya ūtaya indra mā́vate |* [accent ?]
-> *sadyaś cít santi dāśuṣe ||9||* [accent ?]
+> *evā́ hi te víbhūtaya ūtaya indra mā́vate |*
+> *sadyaś cít santi dāśuṣe ||9||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -7064,15 +7042,13 @@ O Indra! You always protect people like us. And in particular, to the sacrificer
 
 ### Page 339 — Sūkta 8, Rik 10 (the last)
 
-*(In the second line strokes stand over "drā," "ma" and the final "ye"; placement doubtful, hence [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ए॒वा ह्य॑स्य॒ काम्या॒ स्तोम॑ उ॒क्थं च॒ शंस्या॑ ।
 > इन्द्रा॑य॒ सोम॑पीतये ॥१०॥
 >
 > *evā́ hy asya kā́myā stóma uktháṃ ca śáṃsyā |*
-> *índrāya sómapītáye ||10||* [accent ?]
+> *índrāya sómapītáye ||10||*
 
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -8047,15 +8023,13 @@ Here Yāska gives the word *brahmāṇaḥ* the sense *brāhmaṇāḥ*: *brāhm
 
 ### Page 387 — Sūkta 10, Rik 2
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke in यूथेन stands between थे and न; read as on न — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > यत्सानोः॒ सानु॒मारु॑ह॒द्भूर्यस्प॑ष्ट॒ कर्त्व॑म् ।
 > तदिन्द्रो॒ अर्थं॑ चेतति यू॒थेन॑ वृ॒ष्णिरे॑जति ॥२॥
 >
 > *yat sānoḥ sā́num ā́ruhad bhū́ry áspaṣṭa kártvaṃ |*
-> *tad indro árthaṃ cetati yūthéna vṛṣṇír ejati ||2||* [accent ?]
+> *tad indro árthaṃ cetati yūthéna vṛṣṇír ejati ||2||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -8185,15 +8159,13 @@ O Indra, absorbed in drinking Soma! Your horses have manes — long hair grown u
 
 ### Page 396 — Sūkta 10, Rik 4
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke in सचेन्द्र stands between चे and न्द्र; read as on चे — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > एहि॒ स्तोमाँ॑ अ॒भि स्व॑रा॒भि गृ॑णी॒ह्या रु॑व ।
 > ब्रह्म॑ च नो वसो॒ सचेन्द्र॑ य॒ज्ञं च॑ वर्धय ॥४॥
 >
 > *ehi stómām̐ abhí svarābhí gṛṇīhy ā́ ruva |*
-> *bráhma ca no vaso sácendra yajñáṃ ca vardhaya ||4||* [accent ?]
+> *bráhma ca no vaso sácendra yajñáṃ ca vardhaya ||4||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -8273,15 +8245,13 @@ In this rik there are three verbs, *svara*, *gṛṇīhi*, *ruva*: *svara* — r
 
 ### Page 402 — Sūkta 10, Rik 5
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: the stroke in सुतेषु stands between ते and षु; read as on षु — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > उ॒क्थमिन्द्रा॑य॒ शंस्यं॒ वर्ध॑नं पुरुनि॒ष्षिधे॑ ।
 > श॒क्रो यथा॑ सु॒तेषु॑ णो रा॒रण॑त्स॒ख्येषु॑ च ॥५॥
 >
 > *ukthám índrāya śáṃsyaṃ várdhanaṃ puruniṣṣídhe |*
-> *śakró yáthā sutéṣu ṇo rāráṇat sakhyéṣu ca ||5||* [accent ?]
+> *śakró yáthā sutéṣu ṇo rāráṇat sakhyéṣu ca ||5||*
 
 *(The Saṃhitā prints* णो *for* नो *(the dental* n *becoming retroflex after the preceding* ṣ*), as the printed grammar explains.)*
 
@@ -8710,15 +8680,13 @@ The sense of this rik is easy to understand. There are no special difficulties, 
 
 ### Page 439 — Sūkta 10, Rik 11
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: a stroke over स of सहस्र followed by a bar under ह, as printed — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > आ तू न॑ इन्द्र कौशिक मन्दसा॒नः सु॒तं पि॑ब ।
 > नव्य॒मायुः॒ प्र सू ति॑र कृ॒धी स॑हस्र॒सामृषि॑म् ॥११॥
 >
 > *ā tū́ na indra kauśika mandasānáḥ sutáṃ piba |*
-> *navyám āyuḥ prá sū́ tira kṛdhī́ sahasrásā́m ṛṣim ||11||* [accent ?]
+> *navyám āyuḥ prá sū́ tira kṛdhī́ sahasrásā́m ṛṣim ||11||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -8800,15 +8768,13 @@ The chief point is this: in ancient times a king named Iṣīratha had a son cal
 
 ### Page 444 — Sūkta 10, Rik 12 (the last)
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 1: the stroke at the start stands over the right edge of प, not over रि — read as printed, [accent ?]; line 2: the bars under the first word are crowded — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > परि॑ त्वा गिर्वणो॒ गिर॑ इ॒मा भ॑वन्तु वि॒श्वतः॑ ।
 > वृ॒द्धायु॒मनु॒ वृद्ध॑यो॒ जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥१२॥
 >
-> *pari tvā girvaṇo gíra imā́ bhavantu viśvátaḥ |* [accent ?]
-> *vṛddhā́yum ánu vṛ́ddhayo júṣṭā bhavantu júṣṭayaḥ ||12||* [accent ?]
+> *pari tvā girvaṇo gíra imā́ bhavantu viśvátaḥ |*
+> *vṛddhā́yum ánu vṛ́ddhayo júṣṭā bhavantu júṣṭayaḥ ||12||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -9179,14 +9145,12 @@ A special application for this rik has been stated: in the rite called Abhiplava
 
 ### Page 464 — Sūkta 11, Rik 5
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 1: a second bar stands low under स्य of वलस्य, below the subscript — read as a bar, [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > त्वं व॒लस्य॒ गोम॒तोऽपा॑वरद्रिवो॒ बिल॑म् ।
 > त्वां दे॒वा अबि॑भ्युषस्तु॒ज्यमा॑नास आविषुः ॥५॥
 >
-> *tvaṃ valásya gómató 'pāvar adrivo bílaṃ |* [accent ?]
+> *tvaṃ valásya gómató 'pāvar adrivo bílaṃ |*
 > *tvāṃ devā́ ábibhyuṣas tujyámānāsa āviṣuḥ ||5||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -9343,15 +9307,13 @@ and *āy* for *ai* by "eco 'yavāyāvaḥ" (Pā. Sū. 6-1-78): *āyam*; unaccent
 
 ### Page 474 — Sūkta 11, Rik 7
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: a bar under वां and a stroke over स्यु of श्रवांस्युत्तिर, as printed — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > मा॒याभि॑रिन्द्र मा॒यिनं॒ त्वं शुष्ण॒मवा॑तिरः ।
 > वि॒दुष्टे॒ तस्य॒ मेधि॑रा॒स्तेषां॒ श्रवां॒स्युत्ति॑र ॥७॥
 >
 > *māyā́bhir indra māyínaṃ tváṃ śuṣṇam ávātiraḥ |*
-> *vidúṣ ṭe tásya médhirās téṣāṃ śrávāṃsy ut tira ||7||* [accent ?]
+> *vidúṣ ṭe tásya médhirās téṣāṃ śrávāṃsy ut tira ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -9859,15 +9821,13 @@ O Agni! You are the gods' messenger. Therefore rouse those gods who desire the o
 
 ### Page 497 (lower) — Sūkta 12, Rik 5
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 2: a stroke is printed over र of रक्षस्विनः as well as over स्वि, with a bar under क्ष — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > घृता॑हवन दीदिवः॒ प्रति॑ ष्म॒ रिष॑तो दह ।
 > अग्ने॒ त्वं र॑क्ष॒स्विनः॑ ॥५॥
 >
 > *ghṛ́tāhavana dīdiváḥ práti ṣma ríṣato daha |*
-> *agne tváṃ rakṣasvinaḥ ||5||* [accent ?]
+> *agne tváṃ rakṣasvinaḥ ||5||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -10668,15 +10628,13 @@ and *aś* replaces *idam*: that is the sense of the Bhāṣya sentence. So with 
 
 ### Page 537 (lower) — Sūkta 13, Rik 3
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 1: bars under रा, मि and म, none visible under प्रि; line 2: the bar stands under वि of हविष्कृतम्, not under ह — [accent ?] on both lines.)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > नरा॒शंस॑मि॒ह प्रि॒यम॒स्मिन्य॒ज्ञ उप॑ ह्वये ।
 > मधु॑जिह्वं हवि॒ष्कृत॑म् ॥३॥
 >
-> *narāśáṃsam ihá priyam asmín yajñá úpa hvaye |* [accent ?]
-> *mádhujihvaṃ haviṣkṛ́tam ||3||* [accent ?]
+> *narāśáṃsam ihá priyam asmín yajñá úpa hvaye |*
+> *mádhujihvaṃ haviṣkṛ́tam ||3||*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -11025,14 +10983,12 @@ When entering the sacrificial hall the sacrificer and the priests pray to the do
 
 ### Page 555 (lower) — Sūkta 13, Rik 7
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 1: the bars are crowded under नक्तो and सास्मि — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > नक्तो॒षासा॑ सु॒पेश॑सा॒स्मिन्य॒ज्ञ उप॑ ह्वये ।
 > इ॒दं नो॑ ब॒र्हिरा॒सदे॑ ॥७॥
 >
-> *naktoṣā́sā supéśasāsmín yajñá úpa hvaye |* [accent ?]
+> *naktoṣā́sā supéśasāsmín yajñá úpa hvaye |*
 > *idáṃ no barhír āsade ||7||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -11129,14 +11085,12 @@ The Bhāṣyakāra's (Sāyaṇa's) explanation: "*naktaśabda uṣaḥśabdaś c
 
 ### Page 559 (lower) — Sūkta 13, Rik 8
 
-*(Saṃhitā accents as printed; Pada unaccented. Line 1: the first stroke stands over सु, not over ता — [accent ?].)*
-
 **॥ Saṃhitā-pāṭhaḥ ॥**
 
 > ता सु॑जि॒ह्वा उप॑ ह्वये॒ होता॑रा॒ दैव्या॑ क॒वी ।
 > य॒ज्ञं नो॑ यक्षतामि॒मम् ॥८॥
 >
-> *tā́ sujihvā́ úpa hvaye hótārā dáivyā kavī́ |* [accent ?]
+> *tā́ sujihvā́ úpa hvaye hótārā dáivyā kavī́ |*
 > *yajñáṃ no yakṣatām imám ||8||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -12085,7 +12039,7 @@ gives *ay* for *ṇi* before *ām*, *anta*, *ālu*, *āyya*, *itnu*, *iṣṇu*:
 > ह॒विष्म॑न्तो अरं॒कृतः॑ ॥५॥
 >
 > *ī́ḷate tvā́m avasyávaḥ káṇvāso vṛktábarhiṣaḥ |*
-> *havíṣmanto araṃkṛ́taḥ ||5||* [accent ?]
+> *havíṣmanto araṃkṛ́taḥ ||5||*
 
 *(Line 2: the bars at the foot of the page are faint; the stroke stands over कृ/तः, read as over तः.)*
 
@@ -12278,8 +12232,8 @@ accent remains. In *ye tvā vahanti vahnayaḥ*, *vahanti* follows the word with
 > तान्यज॑त्राँ ऋता॒वृधो ऽग्ने॒ पत्नी॑वतस्कृधि ।
 > मध्वः॑ सुजिह्व पायय ॥७॥
 >
-> *tān yájatrām̐ ṛtāvṛ́dho 'gne pátnīvatas kṛdhi |* [accent ?]
-> *mádhvaḥ sujihva pāyaya ||7||* [accent ?]
+> *tān yájatrām̐ ṛtāvṛ́dho 'gne pátnīvatas kṛdhi |*
+> *mádhvaḥ sujihva pāyaya ||7||*
 
 *(Line 1: the stroke stands over ज and the bar under ता of ऋतावृधो — positions read at 450 dpi, not certain. Line 2: only the stroke over ध्वः is legible; the foot of the line is cut in the scan.)*
 
@@ -12362,7 +12316,7 @@ the one without *luk* is taken, so the *bhvādi* root is meant. After *pāyi*, *
 > ये यज॑त्रा॒ य ईड्या॒स्ते ते॑ पिबन्तु जि॒ह्वया॑ ।
 > मधो॑रग्ने॒ वष॑ट्कृति ॥८॥
 >
-> *ye yájatrā yá īḍyās té te pibantu jihváyā |* [accent ?]
+> *ye yájatrā yá īḍyās té te pibantu jihváyā |*
 > *mádhor agne váṣaṭkṛti ||8||*
 
 *(Line 1: bars stand under ई/ड्या and under स्ते of ईड्यास्ते, the stroke over the second ते; the exact syllables under the two bars are not certain.)*
@@ -12437,7 +12391,7 @@ O Agni, may all the deities who are worthy of a share in the sacrifice and those
 > विप्रो॒ होते॒ह व॑क्षति ॥९॥
 >
 > *ākī́ṃ sū́ryasya rocanā́d víśvān devā́m̐ uṣarbúdhaḥ |*
-> *vipro hótehá vakṣati ||9||* [accent ?]
+> *vipro hótehá vakṣati ||9||*
 
 *(Line 2: the bars under प्रो and ते are faint at the foot of the page.)*
 
@@ -12523,7 +12477,7 @@ Woken at dawn.
 > पिबा॑ मि॒त्रस्य॒ धाम॑भिः ॥१०॥
 >
 > *víśvebhiḥ somyáṃ madhv agna índreṇa vāyúnā |*
-> *píbā mitrásya dhā́mabhiḥ ||10||* [accent ?]
+> *píbā mitrásya dhā́mabhiḥ ||10||*
 
 *(Line 2: the strokes over बा and over म of धामभिः are clear; the foot of the line, with any bars, is cut at the page end; the bar under मि is read from the Pada.)*
 
@@ -12601,7 +12555,7 @@ with Mitra's forms of radiance, "with various forms of Mitra". *Dhāmabhiḥ* me
 > सेमं नो॑ अध्व॒रं य॑ज ॥११॥
 >
 > *tvaṃ hotā mánur hitó 'gne yajñéṣu sīdasi |*
-> *semáṃ no adhvaráṃ yaja ||11||* [accent ?]
+> *semáṃ no adhvaráṃ yaja ||11||*
 
 *(Line 2: the stroke over नो and the stroke near य of यज are read at 450 dpi; the second may stand over the end of अध्वरं.)*
 
@@ -12796,7 +12750,7 @@ The root *ṛ* has the sense of going. Since horses are endowed with motion, the
 > इन्द्र॒ सोमं॒ पिब॑ ऋ॒तुना त्वा॑ विश॒न्त्विन्द॑वः ।
 > म॒त्स॒रास॒स्तदो॑कसः ॥१॥
 >
-> *indra sómaṃ píba ṛtúnā́ tvā viśántv índavaḥ |* [accent ?]
+> *indra sómaṃ píba ṛtúnā́ tvā viśántv índavaḥ |*
 > *matsarā́sas tádokasaḥ ||1||*
 
 **॥ Pada-pāṭhaḥ ॥**
@@ -12869,7 +12823,7 @@ That is, your belly, which is that very dwelling, is always the dwelling of the 
 > यू॒यं हि ष्ठा सु॑दानवः ॥२॥
 >
 > *márutaḥ píbata ṛtúnā potrā́d yajñáṃ punītana |*
-> *yūyáṃ hi ṣṭhā́ sudānavaḥ ||2||* [accent ?]
+> *yūyáṃ hi ṣṭhā́ sudānavaḥ ||2||*
 
 *(Line 2: the foot of the page cuts off any bars; only the stroke over सु is legible.)*
 
@@ -13108,7 +13062,7 @@ So by "āmantritaṃ pūrvam avidyamānavat" (Pā. Sū. 8-1-72) the earlier voca
 > अग्ने॑ दे॒वाँ इ॒हा व॑ह सा॒दया॒ योनि॑षु त्रि॒षु ।
 > परि॑ भूष॒ पिब॑ ऋ॒तुना॑ ॥४॥
 >
-> *ágne devā́m̐ ihā́ vaha sādáyā yóniṣu triṣú |* [accent ?]
+> *ágne devā́m̐ ihā́ vaha sādáyā yóniṣu triṣú |*
 > *pári bhūṣa píba ṛtúnā ||4||*
 
 *(Line 1: the bars under सादया are read under सा and या; not certain.)*
@@ -13189,7 +13143,7 @@ that is, the morning pressing, the midday pressing and the third pressing. A pre
 > तवेद्धि स॒ख्यमस्तृ॑तम् ॥५॥
 >
 > *brā́hmaṇād indra rā́dhasaḥ píbā sómam ṛtū́m̐r ánu |*
-> *táved dhi sakhyám astṛtam ||5||* [accent ?]
+> *táved dhi sakhyám astṛtam ||5||*
 
 *(Line 2: the stroke over वे and over म of सख्यम, the bar under स; the foot of the line is cut in the scan.)*
 
@@ -13404,7 +13358,7 @@ lengthens the initial *a* of the reduplicate: *ā* + *aś* + *athe*. "aśnoteś 
 > द्र॒वि॒णो॒दा द्रवि॑णसो॒ ग्राव॑हस्तासो अध्व॒रे ।
 > य॒ज्ञेषु॑ दे॒वमी॑ळते ॥७॥
 >
-> *draviṇodā́ dráviṇaso grā́vahastāso adhvaré |* [accent ?]
+> *draviṇodā́ dráviṇaso grā́vahastāso adhvaré |*
 > *yajñéṣu devám īḷate ||7||*
 
 *(Line 1: bars under द्र, वि and णो of द्रविणोदा; the stroke over णो of द्रविणसो and the bar under ध्व of अध्वरे; not all positions certain.)*
@@ -13623,7 +13577,7 @@ not preceded by a conjunct, takes *yaṇ*; so *yaṇ*. By "ṛvarṇān nasya �
 > ने॒ष्ट्रादृ॒तुभि॑रिष्यत ॥९॥
 >
 > *draviṇodā́ḥ pipīṣati juhóta prá ca tiṣṭhata |*
-> *neṣṭrā́d ṛtúbhir iṣyata ||9||* [accent ?]
+> *neṣṭrā́d ṛtúbhir iṣyata ||9||*
 
 *(Line 2: the bar under ने and the stroke over भि are clear; the bar under दृ is read from the sequence, the foot of the page being faint.)*
 
@@ -13704,7 +13658,7 @@ means: the operation enjoined in a rule that names a fifth-case form comes for w
 > यत्त्वा॑ तु॒रीय॑मृ॒तुभि॒र्द्रवि॑णोदो॒ यजा॑महे ।
 > अध॑ स्मा नो द॒दिर्भ॑व ॥१०॥
 >
-> *yát tvā turī́yam ṛtúbhir dráviṇodo yájāmahe |* [accent ?]
+> *yát tvā turī́yam ṛtúbhir dráviṇodo yájāmahe |*
 > *ádha smā no dadír bhava ||10||*
 
 *(Line 1: the strokes over त्वा, रीय, वि and जा are clear; the bars under तु, ऋ, भि and दो are read at 500 dpi, faint at the foot of the page.)*
@@ -13772,7 +13726,7 @@ O Agni, seeking wealth, we worship you, the fourth, with the Ṛtu deities. So s
 > अश्वि॑ना॒ पिब॑तं॒ मधु॒ दीद्य॑ग्नी शुचिव्रता ।
 > ऋ॒तुना॑ यज्ञवाहसा ॥११॥
 >
-> *áśvinā píbataṃ mádhu dī́dyagnī śucivratā |* [accent ?]
+> *áśvinā píbataṃ mádhu dī́dyagnī śucivratā |*
 > *ṛtúnā yajñavāhasā ||11||*
 
 *(Line 1: the bars under ना and त and the strokes over श्वि, ब and द्य are read at the foot of p. 666; the rest of the line shows no marks.)*
@@ -13870,8 +13824,8 @@ and the other two vocatives, being qualifiers, are themselves particular terms. 
 > गार्ह॑पत्येन सन्त्य ऋ॒तुना॑ यज्ञ॒नीर॑सि ।
 > दे॒वान्दे॑वय॒ते य॑ज ॥१२॥
 >
-> *gā́rhapatyena santya ṛtúnā yajñanī́r asi |* [accent ?]
-> *devā́n devayaté yaja ||12||* [accent ?]
+> *gā́rhapatyena santya ṛtúnā yajñanī́r asi |*
+> *devā́n devayaté yaja ||12||*
 
 *(The strokes over गा, ना, नी and दे are clear; the bars under ऋ, ज्ञ, दे and य of देवयते are read from the print and the Pada; not all certain.)*
 
@@ -14133,7 +14087,7 @@ pratyayayoḥ" (Pā. Sū. 8-3-59) *ṣ* for the *s*: *vakṣatas*; *ru* and visa
 > इन्द्रं॑ प्रा॒तर्ह॑वामह॒ इन्द्रं॑ प्रय॒त्य॑ध्व॒रे ।
 > इन्द्रं॒ सोम॑स्य पी॒तये॑ ॥३॥
 >
-> *índraṃ prātár havāmaha índraṃ prayaty adhvaré |* [accent ?]
+> *índraṃ prātár havāmaha índraṃ prayaty adhvaré |*
 > *indraṃ sómasya pītáye ||3||*
 
 *(Line 1: the bars under प्रा, ह and य and under ध्व are read as printed; the stroke over त्य, the svarita of the *yaṇ*, as the grammar on p. 686 explains.)*
@@ -14205,8 +14159,8 @@ In *śatur anumaḥ* the *kṛt* is named with the property of being *śatṛ*, 
 > उप॑ नः सु॒तमा ग॑हि॒ हरि॑भिरिन्द्र के॒शिभिः॑ ।
 > सु॒ते हि त्वा॒ हवा॑महे ॥४॥
 >
-> *úpa naḥ sutám ā́ gahi háribhir indra keśíbhiḥ |* [accent ?]
-> *suté hi tvā hávāmahe ||4||* [accent ?]
+> *úpa naḥ sutám ā́ gahi háribhir indra keśíbhiḥ |*
+> *suté hi tvā hávāmahe ||4||*
 
 *(Read at the foot of p. 686: strokes over प, ग, रि and शि; bars under सु, हि, के and in line 2 under सु and त्वा; not all positions certain.)*
 
@@ -14268,7 +14222,7 @@ O Indra, we have made the soma juice ready for you and call you. Come near us wi
 > गौ॒रो न तृ॑षि॒तः पि॑ब ॥५॥
 >
 > *semaṃ naḥ stómam ā́ gahy úpedáṃ sávanaṃ sutám |*
-> *gauró ná tṛṣitáḥ piba ||5||* [accent ?]
+> *gauró ná tṛṣitáḥ piba ||5||*
 
 *(Read at the foot of p. 689: bars under नः, the second म of स्तोमम्, ग, पे, सु and गौ; strokes over व, तृ and पि. No bar is printed under न before तृ, nor under षि.)*
 
@@ -14348,7 +14302,7 @@ In its place, by "supāṃ supo bhavanti" (Pā. Sū. Vā. 3-1-39-1), stated in t
 > ताँ इ॑न्द्र॒ सह॑से पिब ॥६॥
 >
 > *imé sómāsa índavaḥ sutā́so ádhi barhíṣi |*
-> *tā́m̐ indra sáhase piba ||6||* [accent ?]
+> *tā́m̐ indra sáhase piba ||6||*
 
 *(Bars under इ (इमे), स (सोमास), सु, सो (सुतासो), ब and in line 2 under द्र; strokes over मा, द, धि, षि and in line 2 over इ and ह. No bar is printed before the stroke over इ in line 2. The Saṃhitā prints the nasalised ताँ; the Pada has तान्.)*
 
@@ -15115,7 +15069,7 @@ laghūpadhasya ca" (Pā. Sū. 7-3-86) the *laghūpadha-guṇa*, followed by *r*:
 > अ॒नु॒का॒मं त॑र्पयेथा॒मिन्द्रा॑वरुण रा॒य आ ।
 > ता वां॒ नेदि॑ष्ठमीमहे ॥३॥
 >
-> *anukāmáṃ tarpayethām índrāvaruṇa rāyá ā |* [accent ?]
+> *anukāmáṃ tarpayethām índrāvaruṇa rāyá ā |*
 > *tā vāṃ nédiṣṭham īmahe ||3||*
 
 *(Bars under अ, नु, का, था and रा; strokes over त and द्रा. The bar under अ is faint.)*
@@ -15469,8 +15423,8 @@ the svarita in places such as *ukthya*, *sūrmya* must be justified as Vedic. In
 > तयो॒रिदव॑सा व॒यं स॒नेम॒ नि च॑ धीमहि ।
 > स्यादु॒त प्र॒रेच॑नम् ॥६॥
 >
-> *tayor íd ávasā vayáṃ sanéma ní ca dhīmahi |* [accent ?]
-> *syād utá prarécanam ||6||* [accent ?]
+> *tayor íd ávasā vayáṃ sanéma ní ca dhīmahi |*
+> *syād utá prarécanam ||6||*
 
 *(Read as printed: bars under यो, व (वयं), स and म (सनेम) and प्र; strokes over व (अवसा), च and रे. The bar under यो and the absence of marks on धीमहि are as printed.)*
 
@@ -15553,7 +15507,7 @@ By the grace of Indra and Varuṇa may we gather boundless wealth, enjoy it as w
 > इन्द्रा॑वरुण वाम॒हं हु॒वे चि॒त्राय॒ राध॑से ।
 > अ॒स्मान्सु जि॒ग्युष॑स्कृतम् ॥७॥
 >
-> *índrāvaruṇa vām aháṃ huvé citrā́ya rādhase |* [accent ?]
+> *índrāvaruṇa vām aháṃ huvé citrā́ya rādhase |*
 > *asmā́nt su jigyúṣas kṛtam ||7||*
 
 *(Read as printed: strokes over द्रा, रा and ग्यु; bars under म (वामहं), हु, चि, य (चित्राय), अ and जि.)*
@@ -15647,8 +15601,8 @@ takes the substitute *yaṇ*. But in the sūtra *huśnuvoḥ* only the *pratipad
 > इन्द्रा॑वरुण॒ नू नु वां॒ सिषा॑सन्तीषु धी॒ष्वा ।
 > अ॒स्मभ्यं॒ शर्म॑ यच्छतम् ॥८॥
 >
-> *índrāvaruṇa nū́ nu vāṃ síṣāsantīṣu dhīṣvā́ |* [accent ?]
-> *asmábhyaṃ śárma yacchatam ||8||* [accent ?]
+> *índrāvaruṇa nū́ nu vāṃ síṣāsantīṣu dhīṣvā́ |*
+> *asmábhyaṃ śárma yacchatam ||8||*
 
 *(Read as printed: strokes over द्रा, षा and र्म; bars under ण, वां, धी, अ and भ्यं.)*
 
@@ -15747,8 +15701,8 @@ so the augment *num*. By "mid aco 'ntyāt paraḥ" (Pā. Sū. 1-1-47) it comes a
 > प्र वा॑मश्नोतु सुष्टु॒तिरिन्द्रा॑वरुण॒ यां हु॒वे ।
 > यामृ॒धाथे॑ स॒धस्तु॑तिम् ॥९॥
 >
-> *prá vām aśnotu suṣṭutír índrāvaruṇa yā́ṃ huvé |* [accent ?]
-> *yā́m ṛdhā́the sadhástutim ||9||* [accent ?]
+> *prá vām aśnotu suṣṭutír índrāvaruṇa yā́ṃ huvé |*
+> *yā́m ṛdhā́the sadhástutim ||9||*
 
 *(Read as printed: strokes over वा, द्रा, धा and स्तु; bars under ण, हु, मृ and स. The marks in line 2 are small; their positions are not certain.)*
 
@@ -15995,8 +15949,8 @@ it is initial udātta; and it is a *taddhita*: so the Kannada sense. When the su
 > यो रे॒वान्यो अ॑मीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।
 > स नः॑ सिषक्तु॒ यस्तु॒रः ॥२॥
 >
-> *yo revā́n yó amīvahā́ vasuvít puṣṭivárdhanaḥ |* [accent ?]
-> *sá naḥ siṣaktu yás turáḥ ||2||* [accent ?]
+> *yo revā́n yó amīvahā́ vasuvít puṣṭivárdhanaḥ |*
+> *sá naḥ siṣaktu yás turáḥ ||2||*
 
 *(Read as printed: strokes over म (अमीव), व, पु and र्ध; bars under रे, व (अमीवहा), सु and ष्टि; in line 2 a stroke over नः and a bar under स्तु; the bar under क्तु is not certain.)*
 
@@ -16107,8 +16061,8 @@ the *ṇic*-final root *vṛdh* is read among the *nandy-ādi*. So after it the 
 > मा नः॒ शंसो॒ अर॑रुषो धू॒र्तिः प्रण॒ङ्मर्त्य॑स्य ।
 > रक्षा॑ णो ब्रह्मणस्पते ॥३॥
 >
-> *mā naḥ śáṃso áraruṣo dhūrtíḥ praṇaṅ mártyasya |* [accent ?]
-> *rakṣā ṇo brahmaṇaspate ||3||* [accent ?]
+> *mā naḥ śáṃso áraruṣo dhūrtíḥ praṇaṅ mártyasya |*
+> *rakṣā ṇo brahmaṇaspate ||3||*
 
 *(Read as printed: bars under नः, सो, धू and ण; strokes over the first र of अररुषो, over र्त्य and over र (रक्षा). Line 2 is printed small at the head of the next strip; its bars, if any, are not certain.)*
 
@@ -16207,8 +16161,8 @@ hard to account for, and besides, the words *araru* in the mantras just cited co
 > स घा॑ वी॒रो न रि॑ष्यति॒ यमिन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑ ।
 > सोमो॑ हि॒नोति॒ मर्त्य॑म् ॥४॥
 >
-> *sá ghā vīró ná riṣyati yám indro bráhmaṇaspátiḥ |* [accent ?]
-> *somo hinóti mártyam ||4||* [accent ?]
+> *sá ghā vīró ná riṣyati yám indro bráhmaṇaspátiḥ |*
+> *somo hinóti mártyam ||4||*
 
 *(Read as printed: strokes over घा, रि, ह्म, तिः, सो and र्त्य; bars under वी, ति (रिष्यति), द्रो, ण, हि and ति (हिनोति). A mark over मि of यमिन्द्रो is not clear.)*
 
@@ -16279,8 +16233,8 @@ This ṛk is addressed to the three deities Indra, Brahmaṇaspati and Soma. The
 > त्वं तं ब्र॑ह्मणस्पते॒ सोम॒ इन्द्र॑श्च॒ मर्त्य॑म् ।
 > दक्षि॑णा पा॒त्वंह॑सः ॥५॥
 >
-> *tvaṃ táṃ brahmaṇaspaté soma índraś ca mártyam |* [accent ?]
-> *dakṣiṇā pātv áṃhasaḥ ||5||* [accent ?]
+> *tvaṃ táṃ brahmaṇaspaté soma índraś ca mártyam |*
+> *dakṣiṇā pātv áṃhasaḥ ||5||*
 
 *(Read as printed: strokes over ब्र, द्र, र्त्य, द (दक्षिणा) and ह (अंहसः); bars under स्प, म (सोम), श्च and पा; a bar under त्वं is not certain.)*
 
@@ -16373,8 +16327,8 @@ Of these four kinds of sense, the last, the act of giving, is what is meant in t
 > सद॑स॒स्पति॒मद्भु॑तं प्रि॒यमिन्द्र॑स्य॒ काम्य॑म् ।
 > स॒निं मे॒धाम॑यासिषम् ॥६॥
 >
-> *sádasaspátim ádbhutaṃ priyám índrasya kā́myam |* [accent ?]
-> *saníṃ medhā́m ayāsiṣam ||6||* [accent ?]
+> *sádasaspátim ádbhutaṃ priyám índrasya kā́myam |*
+> *saníṃ medhā́m ayāsiṣam ||6||*
 
 *(Read as printed: strokes over द (सदस), द्भु, द्र and का, and in line 2 over म (मेधाम); bars under स (सदस), ति, प्रि, स्य, स (सनिं) and मे.)*
 
@@ -16461,8 +16415,8 @@ Since Skandasvāmin says in the Nirukta that words such as *īmahe* and *yāmi* 
 > यस्मा॑दृ॒ते न सिध्य॑ति य॒ज्ञो वि॑प॒श्चित॑श्च॒न ।
 > स धी॒नां योग॑मिन्वति ॥७॥
 >
-> *yásmād ṛté na sidhyati yajñó vipaścítaś caná |* [accent ?]
-> *sa dhīnā́ṃ yógam invati ||7||* [accent ?]
+> *yásmād ṛté na sidhyati yajñó vipaścítaś caná |*
+> *sa dhīnā́ṃ yógam invati ||7||*
 
 *(Read from the print, small type: strokes over स्मा, ध्य, श्चि and ग; bars under दृ, सि, य (यज्ञो), वि, प, च (चन) and धी. Several positions are not certain.)*
 
@@ -16527,8 +16481,8 @@ Even a learned sacrificer cannot accomplish the rite without the help of Sadasas
 > आदृ॑ध्नोति ह॒विष्कृ॑तिं॒ प्राञ्चं॑ कृणोत्यध्व॒रम् ।
 > होत्रा॑ दे॒वेषु॑ गच्छति ॥८॥
 >
-> *ā́d ṛdhnoti havíṣkṛtiṃ prā́ñcaṃ kṛṇoty adhvarám |* [accent ?]
-> *hótrā devéṣu gacchati ||8||* [accent ?]
+> *ā́d ṛdhnoti havíṣkṛtiṃ prā́ñcaṃ kṛṇoty adhvarám |*
+> *hótrā devéṣu gacchati ||8||*
 
 *(Read as printed: strokes over दृ, ष्कृ, चं, त्रा and वे; bars under ह, तिं, ध्व and दे. Positions not all certain.)*
 
@@ -16631,8 +16585,8 @@ the suffix *tran* comes; so after the root *hu*, *tran*; *guṇa*: *hotra*. Nami
 > नरा॒शंसं॑ सु॒धृष्ट॑म॒मप॑श्यं स॒प्रथ॑स्तमम् ।
 > दि॒वो न सद्म॑मखसम् ॥९॥
 >
-> *narāśáṃsaṃ sudhṛ́ṣṭamam ápaśyaṃ sapráthastamam |* [accent ?]
-> *divó na sádmamakhasam ||9||* [accent ?]
+> *narāśáṃsaṃ sudhṛ́ṣṭamam ápaśyaṃ sapráthastamam |*
+> *divó na sádmamakhasam ||9||*
 
 *(Read as printed: strokes over सं (शंसं), धृ, प (अपश्यं), थ and द्म; bars under रा, सु, म (ष्टम), स (सप्रथ) and दि.)*
 
@@ -16771,8 +16725,8 @@ After compounding with the word *su*, the accent of the *kṛt* final member com
 > प्रति॒ त्यं चारु॑मध्व॒रं गो॑पी॒थाय॒ प्र हू॑यसे ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥१॥
 >
-> *prati tyáṃ cā́rum adhvaráṃ gopīthā́ya prá hūyase |* [accent ?]
-> *marúdbhir agna ā́ gahi ||1||* [accent ?]
+> *prati tyáṃ cā́rum adhvaráṃ gopīthā́ya prá hūyase |*
+> *marúdbhir agna ā́ gahi ||1||*
 
 *(Read as printed: strokes over रु (चारु), गो, हू, द्भि and ग (गहि); bars under ति, ध्व, पी, य (थाय) and म.)*
 
@@ -16871,8 +16825,8 @@ is udātta by *ekādeśa udāttenodāttaḥ*. *Tya* + *am*: by "ami pūrvaḥ" (
 > न॒हि दे॒वो न मर्त्यो॑ म॒हस्तव॒ क्रतुं॑ प॒रः ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥२॥
 >
-> *nahí devó na mártyo mahás tava krátuṃ paráḥ |* [accent ?]
-> *marúdbhir agna ā́ gahi ||2||* [accent ?]
+> *nahí devó na mártyo mahás tava krátuṃ paráḥ |*
+> *marúdbhir agna ā́ gahi ||2||*
 
 *(Read as printed: bars under न (नहि), दे, म (महस्), व (तव), प and म (मरु); strokes over त्यो, तुं, द्भि and ग. No stroke is printed after the bar under म of महस्.)*
 
@@ -16945,8 +16899,8 @@ O Agni, the rite or sacrifice connected with you is very great. There is no god 
 > ये म॒हो रज॑सो वि॒दुर्विश्वे॑ दे॒वासो॑ अ॒द्रुहः॑ ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥३॥
 >
-> *ye mahó rájaso vidúr víśve devā́so adrúhaḥ |* [accent ?]
-> *marúdbhir agna ā́ gahi ||3||* [accent ?]
+> *ye mahó rájaso vidúr víśve devā́so adrúhaḥ |*
+> *marúdbhir agna ā́ gahi ||3||*
 
 *(Read as printed: bars under म (महो), वि, दे, अ, म (मरु) and ग्न; strokes over ज, श्वे, सो, हः, द्भि and ग.)*
 
@@ -17047,8 +17001,8 @@ accent coming, *adruhaḥ* would have to be initial udātta. But even if the *ta
 > य उ॒ग्रा अ॒र्कमा॑नृ॒चुरना॑धृष्टास॒ ओज॑सा ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥४॥
 >
-> *ya ugrā́ arkám ānṛcúr ánādhṛṣṭāsa ójasā |* [accent ?]
-> *marúdbhir agna ā́ gahi ||4||* [accent ?]
+> *ya ugrā́ arkám ānṛcúr ánādhṛṣṭāsa ójasā |*
+> *marúdbhir agna ā́ gahi ||4||*
 
 *(Read as printed: bars under उ, अ (अर्क), नृ, स (ष्टास), म and ग्न; strokes over मा, ना, ज, द्भि and ग.)*
 
@@ -17151,8 +17105,8 @@ In the Veda, by this sūtra, *saṃprasāraṇa* of the *r*, *ṛ*, and the loss
 > ये शु॒भ्रा घो॒रव॑र्पसः सुक्ष॒त्रासो॑ रि॒शाद॑सः ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥५॥
 >
-> *ye śubhrā́ ghorávarpasaḥ sukṣatrā́so riśā́dasaḥ |* [accent ?]
-> *marúdbhir agna ā́ gahi ||5||* [accent ?]
+> *ye śubhrā́ ghorávarpasaḥ sukṣatrā́so riśā́dasaḥ |*
+> *marúdbhir agna ā́ gahi ||5||*
 
 *(Read as printed: bars under शु, घो, क्ष, रि, म and ग्न; strokes over व, सो, द, द्भि and ग.)*
 
@@ -17235,8 +17189,8 @@ O Agni, the Marut deities are always bright; they have fierce forms (by their na
 > ये नाक॒स्याधि॑ रोच॒ने दि॒वि दे॒वास॒ आस॑ते ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥६॥
 >
-> *ye nākasyā́dhi rocané diví devā́sa ā́sate |* [accent ?]
-> *marúdbhir agna ā́ gahi ||6||* [accent ?]
+> *ye nākasyā́dhi rocané diví devā́sa ā́sate |*
+> *marúdbhir agna ā́ gahi ||6||*
 
 *(Read as printed: bars under क (नाक), च, दि, दे, स (देवास), म and ग्न; strokes over धि, स (आसते), द्भि and ग.)*
 
@@ -17313,8 +17267,8 @@ is udātta by *ekādeśa udāttenodāttaḥ*. Since this udātta follows, the un
 > य ई॒ङ्खय॑न्ति॒ पर्व॑तान्ति॒रः स॑मु॒द्रम॑र्ण॒वम् ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥७॥
 >
-> *ya īṅkháyanti párvatān tiráḥ samudrám arṇavám |* [accent ?]
-> *marúdbhir agna ā́ gahi ||7||* [accent ?]
+> *ya īṅkháyanti párvatān tiráḥ samudrám arṇavám |*
+> *marúdbhir agna ā́ gahi ||7||*
 
 *(Read as printed: bars under ई, न्ति, ति (तिरः), मु, ण, म (मरु) and ग्न; strokes over य (ईङ्खय), व (पर्व), स (समु), म (मर्ण), द्भि and ग.)*
 
@@ -17377,8 +17331,8 @@ The suffix *ṇic* is *cit*; so *īṅkhi* is final udātta by *citaḥ*. After 
 > आ ये त॒न्वन्ति॑ र॒श्मिभि॑स्ति॒रः स॑मु॒द्रमोज॑सा ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥८॥
 >
-> *ā ye tanvánti raśmíbhis tiráḥ samudrám ójasā |* [accent ?]
-> *marúdbhir agna ā́ gahi ||8||* [accent ?]
+> *ā ye tanvánti raśmíbhis tiráḥ samudrám ójasā |*
+> *marúdbhir agna ā́ gahi ||8||*
 
 *(Read as printed: bars under त (तन्व), र (रश्मि), ति (तिरः), मु, म (मरु) and ग्न; strokes over न्ति, भि, स (समु), ज, द्भि and ग.)*
 
@@ -17437,8 +17391,8 @@ O Agni, come here with the Marut deities who, together with the sun's rays, perv
 > अ॒भि त्वा॑ पू॒र्वपी॑तये सृ॒जामि॑ सो॒म्यं मधु॑ ।
 > म॒रुद्भि॑रग्न॒ आ ग॑हि ॥९॥
 >
-> *abhí tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |* [accent ?]
-> *marúdbhir agna ā́ gahi ||9||* [accent ?]
+> *abhí tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |*
+> *marúdbhir agna ā́ gahi ||9||*
 
 *(Read as printed: bars under अ, त्वा, सृ, सो, म (मरु) and ग्न; strokes over व (पूर्व), मि, धु, द्भि and ग.)*
 
