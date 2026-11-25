@@ -25113,6 +25113,131 @@ Paraḥ yat: here the word paraḥ is to be understood as parastāt, "beyond tha
 > न मृ॒त्युरा॑सीद॒मृतं॒ न तर्हि॒ न रात्रा॒ अह्न॑ आसीत्प्रके॒तः ।  
 > आनी॑दवा॒तं स्व॒धया॒ तदेकं॒ तस्मा॑द्दा॒न्यन्न प॒रः किं च॒नास॑ ॥२॥
 
+### Printed p. 760
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । मृत्युः । आसीत् । अमृतं । न । तर्हि । न । रात्र्याः । अह्नः । आसीत् । प्रकेतः ।  
+> आनीत् । आवातं । स्वधया । तत् । एकं । तस्मात् । ह । अन्यत् । न । परः । किं ।  
+> चन । आस ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ननूक्तस्य प्रतिसंहारस्य संहर्त्रपेक्षत्वात् स एव संहर्ता मृत्युर्विद्यत
+> इत्यत आह । न मृत्युरासीदिति । ननु यदि स नासीत् तर्हि तदभावकृतममृतममरणं
+> प्राणिनामवस्थानं तदानीमपि स्यात् तत्राह ! अमृतं न तर्हिति । तर्हि तस्मिन्प्रतिहारसमये । अयं भावः । सर्वेषां प्राणिनां परिपक्वं भोगहेतुभूतं सर्वं
+> कर्म यदोपभुक्तमासीत् तदा भोगाभावान्निष्ट्रयोजनमिदं जगदिति परमेश्वरस्य
+> मनसि संजिहीर्षा जायते । तथैव स मृत्युः सर्वं जगत्संहरत इति किमनेन
+> मृत्युना संहर्त्रा तदभावकृतं वा कथममरणं स्यादिति । एतदेवाभिप्रेत्य
+> कलैराम्नायते । यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनं । मृत्युर्यस्कोपसेचनं क इत्था वेद यत्र सः । क. उ. २-२५ । इति । नन्नेतस्य सर्वस्याधिकरणभूतः
+> कालो विद्यत इत्यत आह । न रात्रा इति । न रात्रा अह्नश्च प्रकेतः प्रज्ञानमासीत् । तद्देतुभूतयोः सूर्याचंद्रमसोरभावात् । एतेनाहोरात्रनिषेधेन तदात्मको मासर्तुसंवत्सरप्रभृतिकः सर्वः कालः प्रत्याख्यातः । कथं तर्हि
+> नो सदासीत्तदानीमिति कालावाची प्रत्ययः । उपचारादिति ब्रूमः । यथेदानींतननिषेधस्य कालोvच्छेदकस्तथा मायापि तदवच्छेदहेतुरित्यवच्छेदकत्वसाम्येनाकालेऽपि कालवाची प्रत्ययः । यदवादिस्म ब्रह्मणः परमार्थसत्त्वमग्रे वक्ष्यत
+> इति तदिदानीं दर्शयत्यानीदिति । तत्सकलवेदांतप्रसिद्धं ब्रह्मतत्त्वमानीत् ।
+> प्राणितवत् ! नन्नेवं प्राणनकर्तुर्जीवभावापन्नस्यॆव ब्रह्मणः सत्यं स्यात् न
+> विवक्षितस्य निरुपाधिकस्य ब्रह्मणः । अप्राणो ह्यमनाः शुद्ध इति तस्य प्राणसंबंधाभावात् तत्राहानीदवातमिति । आयमाशयः । आनीदित्यत्र धात्वर्थक्रिया तत्वर्ता
+> तस्य च भूतकालसंबंध इति त्रयोऽर्थाः प्रतीयंते । तत्र समुदायो न
+> विधीयते यथाग्नेयोऽष्टाकपाल इति येन ब्रह्मणः सत्त्वं न स्यात् । किं
+> तर्ह्यनेन कर्तृत्वमनूद्य भूतकालसत्तालक्षणो गुणो विधीयते दध्ना जुहोतीति
+> वाक्यांतरविहिताग्नि होत्रानुवादेन तत्र गुणविधानं । तत्राप्यनेन कर्तृत्वविशिष्टस्य
+> न पूर्वकालसत्ता विधीयते तन्निषेधानुपपत्ति प्रसंगात् अतोऽनेन कर्तृत्वेनेदा-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa raises an objection: the dissolution spoken of needs a dissolver, so Death (मृत्युः (*mṛtyuḥ*)) himself might be thought to exist. He answers with न मृत्युरासीदिति (*na mṛtyurāsīditi*), "Death was not." A further objection: if Death did not exist, the deathlessness (अमृतं (*amṛtaṃ*)) that follows from his absence, the continued life of beings, would hold at that time. He answers with अमृतं न तर्हि (*amṛtaṃ na tarhi*); तर्हि (*tarhi*) means at that time of dissolution. The sense is this. When the ripened action of all beings that causes enjoyment has been completely enjoyed, the world is purposeless for want of enjoyment, and the wish to withdraw it arises in the mind of the Supreme Lord. So Death withdraws the whole world; what need then of this Death as withdrawer, or how could deathlessness, which depends on his absence, exist? With this in view the Kaṭha text says: यस्य ब्रह्म च क्षत्रं चोभे भवत ओदनं । मृत्युर्यस्कोपसेचनं क इत्था वेद यत्र सः । (*yasya brahma ca kṣatraṃ cobhe bhavata odanaṃ | mṛtyuryaskopasecanaṃ ka itthā veda yatra saḥ |*) (Ka. U. 2-25).
+Another objection: time, the substrate of all this, exists. He answers with न रात्रा (*na rātrā*). There was no knowledge of night or day, since the sun and moon that cause them did not exist. By this denial of day and night, all time in the form of month, season, year and so on is also excluded. How then does the word तदानीं (*tadānīṃ*) "then," which denotes time, occur in *no sadāsīttadānīṃ*? He says it is figurative. As the denial of what is "now" is delimited by time, so Māyā too is the cause of delimitation; through this similarity in delimiting, a time-denoting suffix is used even where there is no time.
+He then shows the true being of Brahman, which he said he would state later: आनीत् (*ānīt*), "breathed." That Brahman-principle, known from all the Vedāntas, breathed, like a living being. Objection: then only Brahman that has become a living being, the one who breathes, would be real, not the Brahman without limiting conditions that is intended, since the text says अप्राणो ह्यमनाः शुद्ध (*aprāṇo hyamanāḥ śuddha*), Brahman is without breath and mind and pure, having no connection with breath. He answers with अवातं (*avātaṃ*). The intention: in आनीत् (*ānīt*) three meanings are understood: the action of the root, its agent, and the connection of the agent with past time. The whole is not enjoined, as in "an eight-potsherd cake for Agni," so that Brahman's existence would not follow. Rather, the agency is restated and the quality of existence in past time is enjoined, as in the injunction of the Agnihotra with curds, laid down through restatement of the Agnihotra enjoined by another sentence. Even there the existence of Brahman in an earlier time is not enjoined as qualified by agency, since the denial of it would then be inconsistent. Therefore
+
+### Printed p. 761
+
+> नींतनेनोपलक्षितं यन्निरुपाधिकं परं ब्रह्म तस्यॆव भूतकालसत्ता विधीयत इति न
+> कश्चिद्धोष इति । नन्नीदृशस्य ब्रह्मणो मायया सह संबंधासंभवात्सांख्याभिमता
+> स्वतंत्रा सद्रूपा सत्त्वरजस्तमोगुणात्मिका मूलप्रकृतिरेवाभिमतेति कथं नो सदिति
+> निषेधः । तत्राह स्वधयेति । स्वस्मिन्थीयते ध्रियत आशित्य वर्तत इति स्वधा माया ।
+> तया तद्ब्रह्मैकमविभागापन्नमासीत् ॥ सहयुक्तेऽप्रधाने । पा. २-३-१९ । इति
+> तृतीया सहशब्दयोगाभावेऽपि सहार्थयोगे भवति वृद्धो यूना ! पा. १-२-६५ ।
+> इति निपातनाल्लिंगात् ॥ अत्र प्रकृतिप्रत्ययाभ्यां तस्याः स्वातंत्र्यं निर्वायते ।
+> यद्यप्यसंगस्य ब्रह्मणस्तया सह संबंधो न संभवति तथापि तस्मिन्नविद्यया तत्त्वरूपमिव संबंधोऽप्यध्यस्यते यथा शुक्तिकायां रजतस्य । एतेन सद्रूपत्वमपि
+> तस्याः प्रत्याख्यातं । ननु यदि माया ब्रह्मणा सहाविभागापन्ना तर्हि तस्या अनिर्वाच्यत्वाद्ब्रह्मणोऽपि तत्पसंग इति कथं तस्य सत्यमुक्तमानीदवातमिति । ब्रह्मणो
+> ना सत्वात्तस्या अपि सत्यप्रसंग इति कथं नो सदासीदिति सत्यप्रतिषेधः । मैवं ।
+> आयुक्तिदृष्टैक्यावभासेऽपि युक्ता विविच्य मायांशस्यानिर्वाच्यत्वं ब्रह्मणः सत्यं
+> च प्रतिपादितं । ननु दृगृश्याविति द्वावेव पदार्थावानीदवातं स्वधयेति तौ चेदंगीक्रियेते तक्किमपरमवशिष्यते यन्नासीद्रज इत्यादिना प्रतिषिध्येत तत्राह तस्मादिति ।
+> तस्माद्द तस्मात्पलु पूर्वोक्तान्मयासहिताद्ब्रह्मणोऽन्यक्तिं चन किमपि वस्तु भूतभौतिकात्मकं जगन्नास । न बभूव ॥ छंदस्युभयथेति लिटः सार्वधातुकत्वादस्तेर्भूभावाभावः ॥ ननु तदानीमन्यस्य सत्यनिषेधो न शंक्यः । असत्वे चाप्रसक्तत्वान्न
+> निषेधोपयोग इत्यत आह पर इति । परः परस्तात्सृष्टेरूर्ध्वं वर्तमानमिदं
+> जगत्तदानीं न बभूवेत्यर्थः । अन्यथोक्तरीत्या क्वचिदपि निषेधो न स्यादिति भावः ॥
+
+##### Gist of the bhāṣya
+
+...through this agency, indicated by the present-time sense, the existence in past time is enjoined of the Supreme Brahman free of limiting conditions; so there is no fault.
+Objection: such a Brahman cannot be connected with Māyā, so what is meant would be the independent, existent Primal Nature (मूलप्रकृति (*mūlaprakṛti*)) of the Sāṃkhyas, made of sattva, rajas and tamas; how then is existence denied in *no sat*? He answers with स्वधया (*svadhayā*). स्वधा (*svadhā*) is Māyā: what is held (ध्रियत (*dhriyata*)) in oneself, existing in dependence. By her that one Brahman existed undivided from her. The instrumental case is by सहयुक्तेऽप्रधाने (*sahayukte 'pradhāne*) (Pā. Sū. 2-3-19) even without the word सह (*saha*), through the sense of "with," just as the form in वृद्धो यूना (*vṛddho yūnā*) (Pā. Sū. 1-2-65) is by the stated indication. Here her dependence is denied by the base and the suffix. Though Brahman, being unattached, cannot be connected with her, a connection is nonetheless superimposed on it through ignorance, as silver is on mother-of-pearl. By this her being existent is also refuted.
+Objection: if Māyā is undivided from Brahman, then, being indescribable, Brahman too would be affected; how then is its truth stated in *ānīdavātaṃ*? And since Brahman is real, Māyā too would be real, so how is truth denied in नो सदासीत् (*no sadāsīt*)? He replies: not so. Although unity appears to those who do not reason, one who reasons distinguishes and establishes the indescribability of the Māyā part and the truth of Brahman.
+Objection: आनीत् अवातं स्वधया (*ānīt avātaṃ svadhayā*) give only two entities, the seer and the seen; if both are accepted, what other remains to be denied by *nāsīdrajaḥ* and the rest? He answers with तस्मात् (*tasmāt*): apart from that Brahman together with Māyā, nothing else, no world made of elements and their products, existed. The root is not replaced by भू (*bhū*), since the perfect, in the Veda, is treated as सार्वधातुक (*sārvadhātuka*). Objection: no existence of anything else is to be suspected then, and a denial of what was never in question is useless. He answers with परः (*paraḥ*): परः (*paraḥ*) means after, beyond creation; this world, existing afterwards, did not exist then. Otherwise a denial would be possible nowhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मृत्युः (*mṛtyuḥ*)—death (before creation)
+- न आसीत् (*na āsīt*)—was not
+- तर्हि (*tarhi*)—then
+- अमृतं (*amṛtaṃ*)—deathlessness also
+- न (*na*)—was not (and then)
+- रात्र्याः (*rātryāḥ*)—of night, and
+- अह्नः (*ahnaḥ*)—of day
+- प्रकेतः (*praketaḥ*)—knowledge
+- न आसीत् (*na āsīt*)—was not
+- तत् एकं (*tat ekaṃ*)—that Brahman-principle, known from all the Vedāntas and without a second
+- स्वधया (*svadhayā*)—by its own power in the form of Māyā
+- अवातं (*avātaṃ*)—the breathless, that is, the lifeless inert body
+- आनीत् (*ānīt*)—made living with breath
+- तस्मात् (*tasmāt*)—apart from that Brahman with that Māyā-endowed power
+- अन्यत् किंचन (*anyat kiṃcana*)—any other thing made of elements and their products
+- न आस (*na āsa*)—was not
+- परः (*paraḥ*)—afterwards, this world that was created
+- न आस (*na āsa*)—was not then
+
+### Printed p. 762
+
+##### भावार्थ (Bhāvārtha)
+
+In the state of dissolution before creation there was neither death nor deathlessness. There was no knowledge of which was night and which was day. The one Brahman-principle, famed in all the Vedāntas and without a second, alone existing, made the breathless, that is, the lifeless inert thing, animate by the excess of power called its Māyā. Apart from that Brahman-principle with that power, no other thing existed. This world, created afterwards, did not exist then.
+
+##### English translation
+Death was not nor at that period immortality, there was no indication of day or night; that one unbreathed upon breathed of his own strength, other than that thre was nothing else whatever.
+
+##### विशेषविषयगळु (Special Topics)
+
+न मृत्युः आसीत् अमृतं न तर्हि (*na mṛtyuḥ āsīt amṛtaṃ na tarhi*): here it is said that at that time there was neither death nor freedom from death. Death is the separation of body from the living being that may occur after some time, the severance of the tie between body and breath. Or here मृत्यु (*mṛtyu*) may be taken as destruction, the destruction of the world and the rest. सर्वेषां प्राणिनां परिपक्वं भोगहेतुभूतं सर्वं कर्म यदोपभुक्तमासीत् तदा भोगाभावान्निष्ट्रयोजनमिदं जगदिति परमेश्वरस्य मनसि संजिहीर्षा जायते । तथैव स मृत्युः सर्वं जगत्संहरत इति किमनेन मृत्युना संहर्त्रा तदभावकृतं वा कथममरणं स्यादिति । (*sarveṣāṃ prāṇināṃ paripakvaṃ bhogahetubhūtaṃ sarvaṃ karma yadopabhuktamāsīt tadā bhogābhāvānniṣṭrayojanamidaṃ jagaditi parameśvarasya manasi saṃjihīrṣā jāyate | tathaiva sa mṛtyuḥ sarvaṃ jagatsaṃharata iti kimanena mṛtyunā saṃhartrā tadabhāvakṛtaṃ vā kathamamaraṇaṃ syāditi |*) The Supreme Lord created the world, created various beings in it, and made them experience their pleasure and pain. When they have fully experienced these, a disgust arises in the mind that the world is purposeless. Then the Lord himself destroys it in the form of Death (the destroyer). Such destruction may be called death. If such death did not then exist, does the world then remain deathless, everlasting, as if without destruction? It cannot be so either. When neither the world nor the beings in it exist, the question of death occurring to them does not arise. Likewise deathlessness, or freedom from death (destruction), does not exist. Is there not something there to be destroyed? When nothing exists, what is there to destroy? Nothing. So at that time there was no work for death or for deathlessness to do; there was no need of them. Hence the meaning is that they did not exist.
+
+### Printed p. 763
+न रात्र्याः अह्नः आसीत् प्रकेतः (*na rātryāḥ ahnaḥ āsīt praketaḥ*): प्रकेतः (*praketaḥ*) is understanding, knowledge. At that time there was no knowledge of which was night and which was day, or whether it was now night or day. Here it is necessary to understand what night and day are. By our worldly experience, the time from sunrise to sunset we know as day, and from sunset to the next sunrise as night. What is the need of night and day, and how do they arise? Beings in the daytime are engaged in various activities to obtain food and the like; at night they stop and take rest. Since beings need both activity and rest, both day and night are necessary. Day and night arise from the movements of the earth, produced by the Supreme Self's power and capacity. When the earth (or the part of it) faces the sun it is day, and when it turns away it is night. Since the earth's movements follow a fixed order and fixed time, the durations of day and night are roughly equal. Further, the earth revolves round the sun; the time of one revolution is called a year. Since time has no beginning or end and is endless, it is customary to take the year as a measuring rod for measuring some portion of it. Time can be measured as a year, the time the earth takes for one circuit, and as a number of such years. Likewise periods smaller than the year can be measured by divisions such as month, fortnight, day, daytime, night, muhūrta, kṣaṇa, kalā, kāṣṭhā. All this concerns the earth; it does not apply to other planets. Because their movements and their revolutions round the sun are various, the durations of their days, nights and years are, more or less than the earth's, various. In the present context, saying that there was then no room for knowledge of days and nights means there was no means of knowing divisions of time. With no sun or moon, no other planets or stars, and no movements of them, divisions of time could not be known. But was there no time at all? Time existed, always exists and is endless. It too is the very nature of the Supreme Self and not different; the Upaniṣads and other texts proclaim this. It is said in many places that the nature of the Supreme Self is to be endless in space, time and things.
+आनीत् अवातं स्वधया तत् एकं (*ānīt avātaṃ svadhayā tat ekaṃ*): before explaining the meaning of this sentence, it is necessary to explain each word in it carefully. The word आनीत् (*ānīt*)
+
+### Printed p. 764
+is formed from the root अन (*ana*) "to breathe" and indicates past time. Yāska reads the word अनिति (*aniti*) (root) among words with the sense of going (Ni. 3-9). So this root means to move, to breathe. Since breathing and moving are the chief activity of beings, beings without them must be called lifeless and inert. So for beings to be known to have life or breath, they must breathe or show movement. This is the sign of having breath. Here the verb आनीत् (*ānīt*) has the meaning आनीदित्यत्र धात्वर्थक्रिया, तत्कर्ता तस्य च भूतकालसंबंध इति त्रयोऽर्थाः प्रतीयंते (*ānīdityatra dhātvarthakriyā, tatkartā tasya ca bhūtakālasaṃbaṃdha iti trayo 'rthāḥ pratīyaṃte*). That is, in that word three things are contained: the meaning of the root, the agent who does it, and the past time in which it was done. The chief sense of आनीत् (*ānīt*) is that the Supreme Brahman produced movement (breathing and the like). Now what is अवातं (*avātaṃ*)? वात (*vāta*) is wind. वातं (*vātaṃ*) here is the being that takes in air, that is, breathes. अवातं (*avātaṃ*) means the inert thing that does not breathe and has no power of movement.
+स्वधया (*svadhayā*)—स्वस्मिन् धीयते ध्रियत आश्रित्य वर्तत इति स्वधा माया । तया तद्ब्रह्मकमविभागापन्नमासीत् ॥ (*svasmin dhīyate dhriyata āśritya vartata iti svadhā māyā | tayā tadbrahmakamavibhāgāpannamāsīt ‖*) The power and capacity that exists in oneself (the Supreme Self), dependent on oneself, is called स्वधा (*svadhā*). Some also call it Māyā. Was this power separate in Brahman? No. One cannot say Brahman is one thing and his power another. Everything is one in Brahman. The meaning of the word स्वधा (*svadhā*) is: by this extraordinary power of Brahman called Māyā. तत् (*tat*)—तत् (*tat*) means सकलवेदांतप्रसिद्धं ब्रह्मतत्त्वं (*sakalavedāṃtaprasiddhaṃ brahmatattvaṃ*): the thing called Brahman, set forth in all the Vedāntas and of unmanifest nature, is called by the word तत् (*tat*). It means the Supreme Brahman, in the sense of the word तत् (*tat*) in the sentence तत् त्वं असि (*tat tvaṃ asi*). एकं (*ekaṃ*) is अद्वितीयं एकमेव (*advitīyaṃ ekameva*): there is no other thing equal to or greater than Brahman, nor anything comparable; there are not two such things. It is always one. Having explained each word, let us now consider the meaning of the sentence. The meaning is that the Supreme Brahman, always without a second and alone, by its extraordinary Māyā-power filled the non-breathing inert thing with life so that it breathed, and made it a moving being. Had the Supreme Brahman not filled the world and other things he created with consciousness, his own portion, that is, had he not entered them as awareness, they would have remained inert and would have had no power to breathe or move. So the meaning is that the Supreme Brahman, first entering as inner self the things he had created, conducts all the activities of beings and of insentient things.
+
+### Printed p. 765
+तस्मात् ह अन्यत् न परः किं चन आस (*tasmāt ha anyat na paraḥ kiṃ cana āsa*): in the previous sentence the word एकं (*ekaṃ*) is used. एकं (*ekaṃ*) means without a second, one with nothing other than himself. This word means that apart from Brahman there is no other thing. That being so, is it not inconsistent to say that Brahman made the अवातं (*avātaṃ*), the unmoving inert thing, animate? If nothing but Brahman exists, whence came the inert thing? Did there not come to be two things, Brahman and the inert? Is this not a contradiction? The answer is given clearly in the sentence तस्माद्धान्यन्न परः किंच नास (*tasmāddhānyanna paraḥ kiṃca nāsa*). Before creation Brahman alone existed, and that too in an unmanifest (non-existent) form. There was no other thing. At the time of creation this Brahman itself, by its Māyā-power, was transformed into the world and the rest. So these transformed worlds and the rest are not different from Brahman. It is said that Brahman enters them as consciousness so that they may carry on their activities. It is not right to say on that account that Brahman is one thing and the world and the rest another, two separate things; they are two reflections of one thing. In the water filling many vessels the reflection of the sun appears like many suns, yet there is one sun, not many. Likewise, though the world and the rest appear in various ways, all of it is the nature of the one Supreme Self. Apart from that Supreme Self or Brahman-principle there is no other thing at all. Therefore the chief meaning of this sentence is that before creation this world and the rest, now seen, did not exist at all.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑ आसी॒त्तम॑सा गू॒ळ्हमग्रे॑ऽप्रके॒तं स॑लि॒लं सर्व॑मा इ॒दं ।  
+> तु॒च्छ्येना॒भ्वपि॑हितं॒ यदासी॒त्तप॑स॒स्तन्म॑हि॒नाजा॑य॒तैकं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तमः । आसीत् । तमसा । गूढं । अग्रे । अप्रकेतं । सलिलं । सर्वं । आः । इदं ।  
+> तुच्छ्येन । आभु । आपिहितं । यत् । आसीत् । तपसः । तत् । महिना । अजायत ।  
+> एकं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ननूक्तप्रकारेण यदि पूर्वमिदं जगन्नासीत्कथं तर्हि तस्य जन्म । जायमानस्य जनिक्रियायां कर्तृत्वेन कारकत्वात् कारकं च कारणावांतरविशेष इति कारकस्य
+
+##### Gist of the bhāṣya
+
+Objection: if, as stated, this world did not exist before, how then was it born? What is born is the agent of the act of birth and so a factor (कारक (*kāraka*)), and a factor is a particular kind of cause, so for the factor.
+
 ---
 
-**Progress note:** Done through printed p. 759. pp. 754-759 (batch API)
+**Progress note:** Done through printed p. 765. pp. 760-765 (batch API)
