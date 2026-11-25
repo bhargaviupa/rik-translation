@@ -12,3 +12,4 @@
 | 10 | through p. 193 (three windows in one agent: pp. 174–193) | sonnet | 23 | 214414 | 6.2 |
 | 11 | through p. 212 (three windows in one agent: pp. 194–212; the first window had a partial en.md left by the stopped batch-11 agent) | sonnet | 18 | 189014 | 3.8 |
 | 12 | through p. 230 (three windows in one agent: pp. 213–230) | sonnet | 17 | 185720 | 5.0 |
+| 13 | through p. 250 (three windows in one agent: pp. 231–250) | sonnet | 14 | 204266 | 5.9 |
