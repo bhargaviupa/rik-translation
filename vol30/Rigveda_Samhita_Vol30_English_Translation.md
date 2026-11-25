@@ -12350,6 +12350,148 @@ Among the deities praised in the Āprī sūktas, Idhma is the first. The word sa
 
 "यज्ञेध्म इति कात्थक्यः अग्निरिति शाकपूणिः (*yajñedhma iti kātthakyaḥ agniriti śākapūṇiḥ*)": there are differences of opinion about who this deity Idhma is. The opinion of the teacher Kātthakya (son of Katthaka) is that it is the samit called idhma, used in the sacrifice. The opinion of Śākapūṇi is that idhma means Agni.
 
+### Printed p. 337
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तनू॑नपात्प॒थ ऋ॒तस्य॒ याना॒न्मध्वा॑ समं॒जन्त्सृ॑दया सुजिह्व ।  
+> मन्मा॑नि धी॒भिरु॒त य॒ज्ञमृं॒धन्दे॑व॒त्रा च॑ कृणुह्यध्व॒रं नः॑ ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तनूनपात् । पथः । ऋतस्य । यानान् । मध्वा । संअंजन् । स्वदय । सुजिह्व ।  
+> मन्मानि । धीभिः । उत । यज्ञं । यंधन् । देवत्रा । च । कृणुहि । अध्वरं । नः ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तनूनपात् । नपादित्यनंतरापत्यनामधेयं । गौरत्र तनूरुच्यते तता
+> अस्यां भोगाः क्षीरादय इति । तस्याः पयो जायते पयस अज्यं तस्मादग्निः ।
+> यद्वा । अंतरिक्षे तता आपस्तन्वः ताभ्य ओषध्यादयः तेभ्योऽग्निरिति । एवंरूप हे
+> सुजिह्व शोभनज्वाल यद्वा । जिह्वेति वाज्ञाम ! शोभनवागन्ने ऋतस्य यज्ञस्य
+> यानान्वलप्राप्तिहेतून्नथो मार्गान्हविराख्यान्मध्वा मदकरेण रसेन यद्वा
+> वाग्जनितेन रसेन समंजन् सम्यग्दीपयन् स्वदय । स्वादयस्व । स्वादूकुरु ॥ स्वद
+> आस्वादने । णिच्युपधावृद्ध्यभावश्चांधसः ॥ किंच मन्मानि । मन्यतेरर्चतिकर्मणः ।
+> मननीयान्यस्मदभिप्रेतानि स्तोत्राणि धीभिः प्रज्ञाभिः कर्मभिर्वोतापि च यज्ञं
+> यजनीयं हविश्च यंधन् समृद्धानि कुर्वन् नोऽस्मदीयमध्वरं यज्ञं देवता
+> देवेषु कृणुहि । कुरु ॥ देवशब्दाद्देवमनुष्येत्यादिना सप्तम्यर्थे त्राप्रत्ययः ॥
+
+##### Gist of the bhāṣya
+
+O Tanūnapāt. नपात् (*napāt*) is the name of the immediate offspring. Here the cow is called तनूः (*tanūḥ*), since enjoyable things such as milk are extended in her; milk is born from her, ghee from the milk, and from that Agni. Or else: in the atmosphere the waters are तन्वः (*tanvaḥ*) (extended), from them come plants and the like, and from these Agni. Such is Agni, and the address is to him as Sujihva, "of fair flame"; or *jihvā* is a name of speech, so "of fair speech". He is asked to sweeten the paths of the sacrifice (ṛta), the means of obtaining its fruit, namely the paths called oblations, by making them shine well with the sweet, intoxicating juice, or with the juice produced by speech; स्वदय (*svadaya*) means "make sweet". Further, मन्मानि (*manmāni*) (from the root मन्यते (*manyate*), which belongs to the roots meaning "to worship") are the praises we desire, worthy of reflection; by the धीभिः (*dhībhiḥ*), intellects or else rites, he is to make them and the sacrifice, the oblation to be offered, prosperous, and to make our sacrifice (अध्वरं (*adhvaraṃ*)) go to the gods. The affix त्रा (*trā*) after the word देव (*deva*) is in the sense of the locative.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तनूनपात् (*tanūnapāt*)—one named Tanūnapāt
+- सुजिह्व (*sujihva*)—O Agni, who have an excellent tongue
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- यानान् (*yānān*)—that are the means of obtaining the fruit
+- पथः (*pathaḥ*)—the paths
+- मध्वा (*madhvā*)—with the intoxicating Soma
+- समंजन् (*samaṃjan*)—moistening
+- स्वदय (*svadaya*)—make sweet
+- मन्मानि (*manmāni*)—our praises, of the nature of meditation
+- यज्ञं (*yajñaṃ*)—and the oblation of our sacrifice
+- धीभि॥ (*dhībhi‖*)—by your intelligences
+- यंधन् (*yaṃdhan*)—increasing
+- नः (*naḥ*)—our
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- देवत्रा (*devatrā*)—so that it approaches the gods
+- कृणुहि (*kṛṇuhi*)—make
+
+### Printed p. 338
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, named Tanūnapāt, who have an excellent tongue, moisten with the intoxicating Soma the paths that lead the sacrifice to its fruit, and make them sweet. Increasing our meditative praises and the oblation of our sacrifice by your intelligences, make our sacrifice reach the gods.
+
+##### English translation
+Pure-tongued Tanunapat, flavour the paths of the sacrifice which lead (to success), moistening them with the sweet (Soma-juice); elevating our praises and our rite by understanding. convey our sacrifice to the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+तनूनपात् । तनूनपादाज्यमिति कात्थक्यः । नपादित्यनंतरायाः प्रजाया नामधेयं निर्णततमा भवति । गौरत्र तनूरुच्यते । तता अस्यां भोगाः तस्याः पयो जायते पयस आज्यं जायते ! अग्निरिति शाकपूणिः । अपोऽत्र तन्न उच्यंते । तता अंतरिक्षे ताभ्य ओषधिवनस्पतयो जायंत ओषधिवनस्पतिभ्य एष जायते ॥ तस्यैषापरा भवति । तनूनपात्पथ ऋतस्य यानान्मध्वा समंजन्त्सदया सुजिह्व । मन्मानि धीभिरुत यज्ञमृंधन्देवत्रा च कृणुह्यध्वरं नः ॥ तनूनपात् पथ ऋतस्य यानान् यज्ञस्य यानान् मधुना समंजन् स्वदय कल्याणचिह्वमननानि च नो धीभिर्यज्ञं च समर्धय देवान् नो यज्ञं गमय ॥ (*tanūnapāt | tanūnapādājyamiti kātthakyaḥ | napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ nirṇatatamā bhavati | gauratra tanūrucyate | tatā asyāṃ bhogāḥ tasyāḥ payo jāyate payasa ājyaṃ jāyate ! agniriti śākapūṇiḥ | apo 'tra tanna ucyaṃte | tatā aṃtarikṣe tābhya oṣadhivanaspatayo jāyaṃta oṣadhivanaspatibhya eṣa jāyate ‖ tasyaiṣāparā bhavati | tanūnapātpatha ṛtasya yānānmadhvā samaṃjantsadayā sujihva | manmāni dhībhiruta yajñamṛṃdhandevatrā ca kṛṇuhyadhvaraṃ naḥ ‖ tanūnapāt patha ṛtasya yānān yajñasya yānān madhunā samaṃjan svadaya kalyāṇacihvamananāni ca no dhībhiryajñaṃ ca samardhaya devān no yajñaṃ gamaya ‖*) (Ni. 8-6)
+
+Who is the deity Tanūnapāt praised in this Ṛk? Here too there is a difference of opinion.
+
+तनूपात् । तनूनपादाज्यमिति कात्थक्यः (*tanūpāt | tanūnapādājyamiti kātthakyaḥ*)—according to Kātthakya (son of Katthaka), Tanūnapāt is ghee (ājya). How, will be explained in the next sentence.
+
+नपादित्यनंतरायाः प्रजाया नामधेयं निर्णततमा भवति । गौरत्र तनूरुच्यते । तता अस्यां भोगाः तस्याः पयो जायते पयस आज्यं जायते (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ nirṇatatamā bhavati | gauratra tanūrucyate | tatā asyāṃ bhogāḥ tasyāḥ payo jāyate payasa ājyaṃ jāyate*)—नपात् (*napāt*) means the offspring of the offspring, the progeny of the progeny: that is, for a man, the offspring of his son or daughter, i.e. a son's son or daughter's son, a grandson, or possibly a granddaughter. The meaning is a progeny coming after skipping one generation. Now the cow too has the name तनूः (*tanūḥ*). From that cow milk, a means of enjoyment, is produced, and from the milk ghee. So milk is the cow's offspring and ghee the offspring of the milk; ghee is thus the offspring of the cow's offspring. Hence Kātthakya's view that Tanūnapāt is ghee.
+
+**Printed p. 339 content follows below.**
+### Printed p. 339
+अग्निरिति शाकपूणिः । आपोऽत्र तन्न उच्यंते । तता अंतरिक्षे ताभ्य ओषधिवनस्पतयो जायंत ओषधिवनस्पतिभ्य एष जायते । तस्यैषा भवति ॥ (*agniriti śākapūṇiḥ | āpo 'tra tanna ucyaṃte | tatā aṃtarikṣe tābhya oṣadhivanaspatayo jāyaṃta oṣadhivanaspatibhya eṣa jāyate | tasyaiṣā bhavati ‖*)—Tanūnapāt is Agni, according to the teacher Śākapūṇi. As said before, नपात् (*napāt*) means the offspring of the offspring. तन्नः (*tannaḥ*) are the waters. Those waters, spread in the atmosphere as clouds, bring rain on the earth, and so plants and trees arise. Thus the plants and trees are the offspring of the waters, and from the plants and trees (or from the tree-born fire-sticks) Agni is born; Agni is the offspring of the plants and trees. Hence Agni is the offspring of the waters' offspring, a grandson-like figure. This is what is meant here by Tanūnapāt: Agni, the grandson-like of the waters. The Ṛk in which the word Tanūnapāt occurs is explained here:
+
+तनूनपात् पथ ऋतस्य यानान्मध्वा समंजन्त्सृदया सुजिह्व । मन्मानि धीभिरुत यज्ञमृंधन्देवत्रा च कृणुह्यध्वरं नः ॥ तनूनपात्पथ ऋतस्य यानान् यज्ञस्य यानान्मधुना समंजन् स्वदय कल्याणजिह्वमननानि च नो धीभिर्यज्ञं च समर्थय देवान् नो यज्ञं गमय ॥ (*tanūnapāt patha ṛtasya yānānmadhvā samaṃjantsṛdayā sujihva | manmāni dhībhiruta yajñamṛṃdhandevatrā ca kṛṇuhyadhvaraṃ naḥ ‖ tanūnapātpatha ṛtasya yānān yajñasya yānānmadhunā samaṃjan svadaya kalyāṇajihvamananāni ca no dhībhiryajñaṃ ca samarthaya devān no yajñaṃ gamaya ‖*) (Ni. 8-6)
+
+तनूनपात् पथ ऋतस्य यानान् यज्ञस्य यानान् मधुना समंजन् स्वदय कल्याणजिह्व (*tanūnapāt patha ṛtasya yānān yajñasya yānān madhunā samaṃjan svadaya kalyāṇajihva*)—in this sentence ऋतस्य (*ṛtasya*) means "of the sacrifice" and यानान् (*yānān*) means paths, or manner (order). सुजिह्व (*sujihva*) is कल्याणजिह्व (*kalyāṇajihva*), one with an excellent tongue. For Agni the flame is the tongue: as men eat food with their tongue, Agni consumes wood and the like with his flames, or cooks and consumes the oblations such as ghee offered in him. What the tongue is to men, the flame is to Agni; so Agni is addressed here as Sujihva, "of fair flame". The sentence therefore means: O Agni with a tongue of flame, you who are called Tanūnapāt, make the paths of the sacrifice, i.e. its procedures, shine well with your sweet speech-born mantra, or your sweet radiance, or the sweet Soma juice, and make them sweet so that the gods can accept them.
+
+### Printed p. 340
+The derivation of the word Tanūnapāt was explained before. पथ ऋतस्य यानान् (*patha ṛtasya yānān*)—the paths of the sacrifice, i.e. its ways, orders and methods: observing correctly the rules as to by which mantras, how and in what order the sacrifice is to proceed. मधुना समंजन् हृदय (*madhunā samaṃjan hṛdaya*)—here the word मधु (*madhu*) may be given many meanings: "smoothly, without any obstacles", or "so as to shine with the sweet radiance of Agni", and so on. समंजन् (*samaṃjan*) means with the anointing of ghee and the like, so that work goes smoothly: as the wheels and other parts of a chariot work easily when smeared with oil or ghee, so carry on the many operations of the sacrifice under a sweet leadership, and make that rite acceptable and pleasing to the gods. Thus Agni is prayed to.
+
+मननानि च नो धीभिर्यज्ञं च समर्थय देवान् नो यज्ञं गमय (*mananāni ca no dhībhiryajñaṃ ca samarthaya devān no yajñaṃ gamaya*)—मन्मानि (*manmāni*) is मननानि (*mananāni*), मननीयानि (*mananīyāni*): mantras fit to be understood in their meaning and fixed in the mind. धीभिः (*dhībhiḥ*) means by rites. O Agni, let the praises we recite in this sacrifice, and the sacrifice, proceed in order, by the rites to be done as occasion requires and also by understanding; and bring the gods to this sacrifice we perform. Such is the purport.
+
+The deity Tanūnapāt praised in the second Ṛk of the Āprī-sūkta has thus been explained. In this sūkta Tanūnapāt himself is praised; but in some Āprī-sūktas, along with or instead of Tanūnapāt, the deity Narāśaṃsa is praised. Therefore, in explaining the deities of the Āprī-sūkta, Yāska, though it does not belong to the present context, has explained Narāśaṃsa:
+
+नराशंसः । नराशंसो यज्ञ इति कात्थक्यः । नरा अस्मिन्नासीनाः शंसंति । अग्निरिति शाकपूणिः । नरैः प्रशस्यो भवति । तस्यैषा भवति । नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः । ये सुक्रतवः शुचयो धियंधाः स्वदंति देवा उभयानि हव्या ॥ (ऋ. सं. ७-२-२) ॥ नराशंसस्य महिमानमेषामुपस्तमो यज्जियस्य यज्ञैर्ये सुकर्माणः शुचयो धियं धारयितारः स्वदयंतु देवा उभयानि हवींषि सोमं चेतराणि चेति वा तांत्रिकाणि चावापिकानि चेति वा ॥ (*narāśaṃsaḥ | narāśaṃso yajña iti kātthakyaḥ | narā asminnāsīnāḥ śaṃsaṃti | agniriti śākapūṇiḥ | naraiḥ praśasyo bhavati | tasyaiṣā bhavati | narāśaṃsasya mahimānameṣāmupa stoṣāma yajatasya yajñaiḥ | ye sukratavaḥ śucayo dhiyaṃdhāḥ svadaṃti devā ubhayāni havyā ‖ (ṛ. saṃ. 7-2-2) ‖ narāśaṃsasya mahimānameṣāmupastamo yajjiyasya yajñairye sukarmāṇaḥ śucayo dhiyaṃ dhārayitāraḥ svadayaṃtu devā ubhayāni havīṃṣi somaṃ cetarāṇi ceti vā tāṃtrikāṇi cāvāpikāni ceti vā ‖*) (Ni. 8-7)
+
+### Printed p. 341
+नराशंसो यज्ञ इति कात्थक्यः । नरा अस्मिन्नासीनाः शंसंति (*narāśaṃso yajña iti kātthakyaḥ | narā asminnāsīnāḥ śaṃsaṃti*)—Narāśaṃsa is the sacrifice, according to Kātthakya. Men, i.e. the officiating priests and the patron, sit in this sacrifice (the sacrificial altar) and praise (the gods). Hence Narāśaṃsa is the sacrifice.
+
+अग्निरिति शाकपूणिः । नरैः प्रशस्यो भवति । तस्यैषा भवति (*agniriti śākapūṇiḥ | naraiḥ praśasyo bhavati | tasyaiṣā bhavati*)—Narāśaṃsa is Agni, because Agni is praised by men. This is the view of the teacher Śākapūṇi. The Ṛk in which the word Narāśaṃsa occurs is cited below:
+
+नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः । ये सुक्रतवः शुचयो धियंधाः स्वदंति देवा उभयानि हव्या । (*narāśaṃsasya mahimānameṣāmupa stoṣāma yajatasya yajñaiḥ | ye sukratavaḥ śucayo dhiyaṃdhāḥ svadaṃti devā ubhayāni havyā |*) (Ṛ. Saṃ. 7-2-2)
+
+नराशंसस्य महिमानं एषां उपस्तुमः यजतस्य यज्ञैः (*narāśaṃsasya mahimānaṃ eṣāṃ upastumaḥ yajatasya yajñaiḥ*)—here एषां (*eṣāṃ*) means "for these people engaged in the sacrificial rite". We approach and praise the greatness of this Narāśaṃsa, i.e. of the sacrifice, which gives desired fruits to such people, is worshipped by rites such as sacrifices and is praised by men; or of this deity called Narāśaṃsa (Agni).
+
+ये सुकर्माणः शुचयः धियं धारयितारः स्वदयंतु देवा उभयानि हवींषि सोमं चेतराणि चेति ना तांत्राणि चावापिकानि चेति वा (*ye sukarmāṇaḥ śucayaḥ dhiyaṃ dhārayitāraḥ svadayaṃtu devā ubhayāni havīṃṣi somaṃ cetarāṇi ceti nā tāṃtrāṇi cāvāpikāni ceti vā*)**NOTE**—here सुक्रतवः (*sukratavaḥ*), शुचयः (*śucayaḥ*), धियंधाः (*dhiyaṃdhāḥ*) are epithets of देवाः (*devāḥ*). Since क्रतु (*kratu*) means rite, सुक्रतवः (*sukratavaḥ*) or सुकर्माणः (*sukarmāṇaḥ*) means those who perform good rites of world-protection and favour. शुचयः (*śucayaḥ*) are those free from sin, or radiant. धियंधाः (*dhiyaṃdhāḥ*): धियं (*dhiyaṃ*) is sacrificial rite or intelligence, धाः (*dhāḥ*) those who hold it; that is, those who encourage sacrificial rites and see them completed fully, or those who are wise. उभयानि हव्या (*ubhayāni havyā*) are two kinds of oblations: सोमं चेतराणि च (*somaṃ cetarāṇi ca*), Soma juice and oblations such as cooked cake (caru, puroḍāśa); or तांत्राणि चावापिकानि चेति वा (*tāṃtrāṇi cāvāpikāni ceti vā*), the oblations offered in the Prayāja, Ājyabhāga, Sviṣṭakṛt and similar offerings, and those offered in the principal homas. Let the gods enjoy both kinds of oblations.
+
+The main purport: let those gods who are engaged in good works such as world-protection, sinless, pure or radiant, wise, or helpers of sacrificial rites or givers of their fruit, enjoy
+
+### Printed p. 342
+the two kinds of oblations, Soma juice and caru-puroḍāśa, that we offer to them in this sacrifice, or the two kinds of oblations offered in the Prayāja, Ājyabhāga, Sviṣṭakṛt and other homas and in the principal homas.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒जुह्वा॑न॒ ईड्यो॒ वंद्य॒श्च या॑ह्यग्ने॒ वसु॑भिः स॒जोषाः॑ ।  
+> त्वं दे॒वाना॑मसि यह्व॒ होता॒ स ए॑नान्यक्षीषि॒तो यजी॑यान् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आजुह्वानः । ईड्यः । वंद्यः । च । आ । याहि । अग्ने । वसुभिः । सजोषाः ।  
+> त्वं । देवानां । असि । यह्व । होता । सः । एनान् । यक्षि । इषितः । यजीयान्॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वमस्मत्कर्मण्या याहि । आगच्छ । कीदृशः ! आजुह्वानो देवानांमाह्वाता ॥ हु दानादनयोः चौहोत्यादिकः । अभ्यस्तस्वरः ॥ ईड्यः ॥ ईडिरध्येषणाकर्मा । अध्येष्यः प्रार्थ्यमानः वंद्यः स्तोतव्यः वसुभिर्देवैः सजोषाः सह
+> प्रीयमाणः । आगत्य च हे यह्व! महन्नामैतत् । हे महन् स त्वं देव देवानां
+> होताह्वातासि । ततो यजीयान् ॥ यष्टृशब्दादीयसुनि तुरिष्ठेमेयःस्थिति
+> तृचो लोपः ॥ यष्टृतरः स त्वमिषितोऽस्माभिरध्येषितः प्रार्थितः सन्नेतान्देवान्यक्षि । यज । हविषा पूजय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, come to our rite. How is he? आजुह्वानः (*ājuhvānaḥ*), the caller of the gods; ईड्यः (*īḍyaḥ*) (the root ईडि (*īḍi*) has the sense of entreaty), one to be entreated, prayed to; वंद्यः (*vaṃdyaḥ*), to be praised; सजोषाः (*sajoṣāḥ*), taking pleasure together with the Vasus, the gods. Having come, O Yahva (a name meaning "great"), O great one, you are the Hotā, the caller of the gods. Hence you are यजीयान् (*yajīyān*), the best sacrificer. Being thus entreated and prayed to by us, you worship these gods (यक्षि (*yakṣi*), यज (*yaja*)): honour them with the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- आजुह्वानः (*ājuhvānaḥ*)—you who call the gods to the sacrifice
+- ईड्यः (*īḍyaḥ*)—praiseworthy
+- वंद्यः (*vaṃdyaḥ*)—worshipful
+- वसुभिः (*vasubhiḥ*)—with the gods called Vasus
+- सजोषाः (*sajoṣāḥ*)—together
+- आ याहि (*ā yāhi*)—be gracious and come
+- यह्व (*yahva*)—O great-souled Agni
+- देवानां (*devānāṃ*)—of the gods
+- होता (*hotā*)—as the caller
+- असि (*asi*)—you are
+- यजीयान् (*yajīyān*)—most worshipful
+- सः (*saḥ*)—you
+- इषितः (*iṣitaḥ*)—entreated by us
+- एतान् यक्षि (*etān yakṣi*)—worship these gods
+
 ---
 
-**Progress note:** Done through printed p. 336. pp. 331-336 (batch API)
+**Progress note:** Done through printed p. 342. pp. 337-342 (batch API)
