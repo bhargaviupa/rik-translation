@@ -20725,6 +20725,264 @@ When a woman receives from a man the life-germs, i e, the essence of the marrow 
 - हविषा (*haviṣā*)—with oblations and the like
 - विधेम (*vidhema*)—let us serve
 
+### Printed p. 634
+
+##### भावार्थ (Bhāvārtha)
+
+Let us offer oblations and the like to the divine Prajāpati, the blissful one. He gives life-breath to all beings and to the world, or gives them the self that is a part of himself. He is the giver of strength. All beings, and even the gods, obey his supreme command. Death and deathlessness follow him constantly and inseparably, like a shadow.
+
+##### English translation
+(To him) who is the giver of soul, the giver of strength, whose commands all (beings), even the gods obey, whose shadow is immortality, whose shadow is death,—let us offer worship with an oblation to divine Ka.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैक॒ इद्राजा॒ जग॑तो ब॒भूव॑।  
+> य ईशे॑ अ॒स्य द्वि॒पद॒श्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑  
+> विधेम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । प्राणतः । निमिषतः । महित्वा । एकः । इत् । राजा । जगतः । बभूव ।  
+> यः । ईशे । अस्य । द्विपदः । चतुपदः । कस्मै । देवाय । हविषा । विधेम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो हिरण्यगर्भः प्राणतः प्रश्वसतः ॥ अन प्राणने आदादिकः ! शतुरनुम इति
+> विभक्तेरुदात्तत्वं ॥ निमिषतोऽक्षिपक्षचलनं कुर्वतः ॥ अत्रापि पूर्ववद्विभक्तिरुदात्ता ॥ जगतो जंगमस्य प्राणिजातस्य महित्वा महत्वेन ॥ सुपां सुलुगिति
+> तृतीयाया आकारः ॥ माहात्म्येनैक इदद्वितीय एव सन्राजा बभूव ईश्वरो भवति ॥
+> भवतेर्णलि लितीति प्रत्ययात्पूर्वस्योदात्तत्वं ॥ अस्य परिदृश्यमानस्य द्विपदो
+> पादद्वययुक्तस्य मनुष्यादेश्व तुष्पदो गवाश्वादेश्च यः प्रजापतिरीशे ईष्टे ॥
+> ईश ऐश्वर्ये आदादिकोऽनुदात्तेत् । लोपस्त आत्मनेपदेष्टिति तलोपः । अनुदा-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the one who is Hiraṇyagarbha is meant. प्राणतः (*prāṇataḥ*) means "of one who breathes" (root अन (*ana*), in the sense of breathing). निमिषतः (*nimiṣataḥ*) means "of one who moves the eyelids", and the case-ending is accented as in the previous word. जगतः (*jagataḥ*) means "of the moving world, the class of living beings". महित्वा (*mahitvā*) means "by greatness", the instrumental ending being replaced by ā. By his majesty he, being the one and without a second, became king, that is, he is lord. Sāyaṇa then begins on the next clause: of this visible two-footed creature (man and others) and four-footed creature (cows, horses and others), the Prajāpati who rules over them ईशे (*īśe*) (root ईश (*īśa*), "to have lordship").
+
+### Printed p. 635
+#### Ṛk 3 (continued)
+
+> तेत्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । अस्य! ऊडिदमितीदमो विभक्तिरुदात्ता।
+> द्वौ पादौ यस्य स द्विपात् । संख्यासुपूर्वस्यॆति पादशब्द स्यांत्यलोपः समासांतः ।
+> भसंज्ञायां पादः पदिति पद्भावः । द्वित्रिभ्यां पादन्नित्येकादेशविकृतस्यानन्यत्वादुत्तरपदांतोदात्तत्वं । स्वरवर्जमेषैव चतुष्पद इत्यत्रापि प्रक्रिया । बहुव्रीहौ
+> प्रकृत्येति पूर्वपदप्रकृतिस्वरः । पूर्वपदं नृः संख्यायाः । फि. २-५ । इत्याद्युदात्तत्वं । इदुदुपधस्य चाप्रत्ययस्यॆति विसर्जनीयस्य षत्वं ॥ ईदृशो यः प्रजापतिस्तस्मै कस्मा इत्यादि सुबोभं हविषा हृदयाद्यात्मनेत्ययमत्र विशेषः ॥
+
+##### Gist of the bhāṣya
+
+The remainder of this block is almost entirely grammatical (the accent of ईशे (*īśe*), अस्य (*asya*), द्विपदः (*dvipadaḥ*) and चतुष्पदः (*catuṣpadaḥ*), the formation of the compound as a bahuvrīhi with a numeral as first member, and the change of visarga). Of the sense, Sāyaṇa adds that द्विपदः (*dvipadaḥ*) means "having two feet", and चतुष्पदः (*catuṣpadaḥ*) is treated in the same way. He ends by saying that for such a Prajāpati the words कस्मै (*kasmai*) and the rest are to be understood as before. The only difference here is that the oblation (हविषा (*haviṣā*)) is the heart and the like, offered as the self.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Prajāpati named Hiraṇyagarbha who
+- प्राणतः (*prāṇataḥ*)—breathing
+- निमिषतः (*nimiṣataḥ*)—moving the eyelids (that is, being alive)
+- जगतः (*jagataḥ*)—to the moving class of living beings
+- महित्वा (*mahitvā*)—by his greatness
+- एक इत् (*eka it*)—without a second
+- राजा (*rājā*)—as lord
+- बभूव (*babhūva*)—who has been
+- यः (*yaḥ*)—the god who
+- अस्यॆ (*asyè*)—visible to our eyes
+- द्विपदः (*dvipadaḥ*)—to men and others having two feet
+- चतुष्पदः (*catuṣpadaḥ*)—to cows and other animals having four feet
+- ईशे (*īśe*)—who is the master of these
+- कस्मै देवाय (*kasmai devāya*)—to the god named Prajāpati, the blissful one
+- हविषा (*haviṣā*)—with oblations and the like
+- विधेम (*vidhema*)—let us serve
+
+##### भावार्थ (Bhāvārtha)
+
+Let us offer oblations and the like to the god Prajāpati, the blissful one. By his greatness he is the unrivalled lord of the whole class of living beings that breathe and move the eyelids, that is, that are alive. He is the master of the visible two-footed beings such as men and of the four-footed animals such as cows.
+
+##### English translation
+(To him) who, by his greatness has verily become the sole king of the breathing and seeing world, who rules over this aggregate of two-footed and four-footed beings,—let us offer worship with an oblation to the divine Ka.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ये॒मे हि॒मवं॑तो महि॒त्वा यस्य॑ समु॒द्रं र॒सया॑  ॒
+> स॒हाहुः ।
+
+### Printed p. 636
+
+> यस्येमाः प्रदिशो यस्य बाहू कस्मै देवाय हविषा  
+> विधेम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । इमे । हिमवंतः । महित्वा । यस्य । समुद्रं । रसया । सह । आहुः ।  
+> यस्य । इमाः । प्रदिशः । यस्य । बाहू इति । कस्मै । देवाय । हविषा । विधेम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिमा अस्मिन्संतीति हिमवान् । तेन बहुवचनांतेन सर्वॆ पर्वता लक्ष्यंते ।
+> यथा छत्रिणो गच्छंतीति । हिमवंतो हिमवदुपलक्षिता इमे दृश्यमानाः सर्वॆ
+> पर्वता यस्य प्रजापतेर्महित्वा महत्त्वं माहात्ममैश्वर्यमित्याहुः । तेन सृष्टत्वात्तद्रूपेणावस्थानाद्वा ! तथा रसया ! रसो जलं ! तद्वती रसा नदी ॥ अर्शअदित्वादच् ॥ जातानेकवचनं । रसाभिर्नदीभिः सह समुद्रं । पूर्ववदे कवचनं । सर्वान्समुद्रान्यस्य महाभाग्यमित्याहुः कथयंति सृष्ट्यभिज्ञाः । यस्य चेमाः प्रदिशः
+> प्राच्यारंभा आग्नेयाद्याः कोणदिश ईशानांता ना । तथा बाहू । वचनव्यत्ययः ।
+> बाहवो भुजाः । भुजवत्पाधान्ययुक्ताः प्रदिशश्च यस्य स्वभूताः । तस्मै कस्मा
+> इत्यादि समानं पूर्वेण ॥
+
+##### Gist of the bhāṣya
+
+A "himavat" is that in which there is snow. By this word, in the plural, all mountains are indicated, as in "the men with umbrellas are going". These visible mountains, marked by snow, are what they call the greatness, majesty and lordship of this Prajāpati, either because they were created by him or because he abides in that form. Likewise रसया (*rasayā*): रस (*rasa*) is water, and रसा (*rasā*) is a river possessing it. The singular stands for a class, so "with the rivers". As before, the singular समुद्रं (*samudraṃ*) stands for all oceans. Those who know creation say that this is his great fortune. His also are these directions, beginning with the east, and the intermediate directions from the south-east to the north-east. Likewise बाहू (*bāhū*) shows a change of number: it means arms (*bāhavaḥ*). The directions, which are as prominent as arms, are his own. The rest, from तस्मै कस्मा (*tasmai kasmā*) onward, is the same as in the previous verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिमवंतः (*himavaṃtaḥ*)—the Himalaya, covered with snow, and all the other mountains
+- इमे (*ime*)—these
+- यस्य (*yasya*)—of which god
+- महित्वा (*mahitvā*)—as greatness or lordship
+- आहुः (*āhuḥ*)—they say
+- रसया (*rasayā*)—with the rivers
+- सह (*saha*)—together
+- समुद्रं (*samudraṃ*)—all the oceans
+- यस्य (*yasya*)—of which god, as a special glory
+- आहुः (*āhuḥ*)—(those who know the order of creation) say
+- इमाः (*imāḥ*)—these directions, the east and the others
+- यस्य (*yasya*)—of which god
+- बाहू (*bāhū*)—which are the arms
+- प्रदिशः (*pradiśaḥ*)—the four intermediate directions also
+- यस्यॆ (*yasyè*)—which are like the arms of which god
+- कस्मै (*kasmai*)—to the blissful
+- देवाय (*devāya*)—Prajāpati
+- हविषा (*haviṣā*)—oblations and the like
+- विधेम (*vidhema*)—let us offer
+
+##### भावार्थ (Bhāvārtha)
+
+Let us offer oblations and the like to the blissful Prajāpati. All the mountains, beginning with the snow-covered (that is, very high) Himalaya, are called his lordship. The oceans together with the rivers are called his great fortune. The eastern and other directions, and the south-eastern and other intermediate directions, are called his arms.
+
+### Printed p. 637
+
+##### English translation
+Through whose greatness these snow-clad (mountains exist), whose property men call the ocean with the rivers, whose are these quarters of space, whose are the two arms,—let us offer worship with an oblation to the divine Ka.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॒ द्यौरु॒ग्रा पृ॑थि॒वी च॑ दृ॒ळ्हा येन॒ स्वः॑ स्तभि॒तं येन॒ नाकः॑ ।  
+> यो अं॒तरि॑क्षे॒ रज॑सो वि॒मानः॒ कस्यॆ॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । द्यौः । उग्रा । पृथिवी । च । दृळ्हा । येन । स्वंरिति स्वः । स्तभितं । येन । नाकः ।  
+> यः । अंतरिक्षे । रजसः । विमानः । कस्मै । देवाय । हविषा । विधेम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येन प्रजापतिना द्यौरंतरिक्षमुग्रोद्गूर्णं विशेषागहनरूपं वा । पृथिवी
+> भूमिश्च दृळ्ता येन स्थिरीकृता । स्वः स्वर्गश्च येन स्तभितं स्तब्धं कृतं । यथाधो
+> न पतति तथोपर्यवस्थापितमित्यर्थः ॥ ग्रसितस्कभितस्तभितेति निपात्यते ॥ तथा नाक
+> आदित्यश्च येनांतरिक्षे स्तभितः । यश्चांतरिक्षे रजस उदकस्यॆ विमानो निर्माता ।
+> तस्मै कस्मा इत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+By which Prajāpati the sky (द्यौः (*dyauḥ*), the atmosphere) was made उग्रा (*ugrā*), that is, lofty, or exceedingly dense; and the earth was made firm; and by whom heaven (स्वः (*svaḥ*)) was स्तभितं (*stabhitaṃ*), made rigid, that is, placed above so that it does not fall downward. Sāyaṇa says the form स्तभित (*stabhita*) is irregularly derived. Likewise by him the sun (नाकः (*nākaḥ*)) was fixed in the atmosphere. He is the one who is विमानः (*vimānaḥ*), the maker, of the रजसः (*rajasaḥ*), the water, in the atmosphere. The rest, from तस्मै कस्मा (*tasmai kasmā*) onward, has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—by which Prajāpati
+- द्यौः (*dyauḥ*)—the sky
+- उग्रा (*ugrā*)—was made exceedingly dense
+- पृथिवी च (*pṛthivī ca*)—and the earth
+- दृळ्हा (*dṛḷhā*)—was firmly established
+- येन (*yena*)—by which god
+- स्वः (*svaḥ*)—the heavenly world also
+- स्तभितं (*stabhitaṃ*)—was established firmly, so that it does not fall downward
+- येन (*yena*)—by which god
+- नाकः (*nākaḥ*)—the sun also was established in the sky so that he does not fall
+- यः (*yaḥ*)—the god who
+- अंतरिक्षे (*aṃtarikṣe*)—in the atmosphere
+- रजसः (*rajasaḥ*)—of the water (of the cloud)
+
+### Printed p. 638
+- विमानः (*vimānaḥ*)—is the maker
+- कस्मै (*kasmai*)—to the blissful
+- देवाय (*devāya*)—god Prajāpati
+- हविषा (*haviṣā*)—oblations and the like
+- विधेम (*vidhema*)—let us offer
+
+##### भावार्थ (Bhāvārtha)
+
+Let us offer oblations and the like to the blissful Prajāpati. By him the atmosphere was made exceedingly dense. By him the earth was firmly established so that it does not shake. By him the heavenly world was held and made to stand in the atmosphere so that it does not fall down. By him the sun was established. He is the maker, in the sky, of the clouds full of water.
+
+##### English translation
+By whom the sky was made profound and the earth solid, by whom heaven and the solar sphere were fixed, who was the measure of the water in firmament,—let us offer worship with an oblation to the divine Ka.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं क्रंद॑सी॒ अव॑सा तस्तभा॒ने अ॒भ्यैक्षे॑तां॒ मन॑सा॒ रेज॑माने ।  
+> यत्राधि॒ सूर॒ उदि॑तो वि॒भाति॒ कस्यै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । क्रंदसी इति । अवसा । तस्तभाने इति । अभि । ऐक्षेतां । मनसा । रेजमाने इति ।  
+> यत्र । अधि । सूरः । उत्ऽइतः । विभाति । कस्मै । देवाय । हविषा । विधेम ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> क्रंदितवान्नोदितवाननयोः प्रजापतिरिति क्रंदसी द्यानापृथिव्यौ । श्रूयते
+> हि । यदरोदीत्तदनयो रोदस्त्वं । तै. ब्रा. २-२-९-४ । इति । ते अवसा रक्षणेन
+> हेतुना लोकस्य रक्षणार्थं तस्तभाने प्रजापतिना सृष्टे लब्धस्थैर्ये सत्यौ यं
+> प्रजापतिं मनसा बुद्धाभ्यक्षेतां आवयोर्महत्त्वमनेनेत्यभ्यपश्यतां ॥ ईक्ष
+> दर्शने । लज्यडादित्वादाद्युदात्तत्वं ॥ कीदृशौ द्यानापृथिव्यौ । रेजमाने राजमाने
+> दीप्यमाने ॥ आकारस्य व्यत्ययेनैत्वं ॥ अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातु-
+
+##### Gist of the bhāṣya
+
+क्रंदसी (*kraṃdasī*) means heaven and earth, because Prajāpati cried out (क्रंदितवान् (*kraṃditavān*)) or impelled in them. For it is heard: यदरोदीत्तदनयो रोदस्त्वं (*yadarodīttadanayo rodastvaṃ*) (Tai. Brā. 2-2-9-4). Those two, तस्तभाने (*tastabhāne*), were created by Prajāpati and so received stability, for the protection of the world, with protection (अवसा (*avasā*)) as the cause. They looked upon (अभ्यैक्षेतां (*abhyaikṣetāṃ*)) Prajāpati with the mind, perceiving "our greatness is through him". The root is ईक्ष (*īkṣa*), "to see". The two are described as रेजमाने (*rejamāne*), shining, radiant.
+
+### Printed p. 639
+
+> स्वरः । यद्वा । लिटः कानच् । फणां च सप्तानां । पा. ६-४-१२५ । इत्येत्वाभ्यासलोपौ।
+> छंदस्युभयथेति सार्वधातुकत्वाच्छप् । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ यत्राधि
+> यस्मिन्नाधारभूते प्रजापतौ सूरः सूर्य उदित उदयं प्राप्तः सन् विभाति
+> प्रकाशते ॥ उत्सूर्वादेतेः कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ।
+> तस्मैकस्मा इत्यादि सुज्ञानं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa gives two derivations for रेजमाने (*rejamāne*), which belong to grammar. Of the sense he adds: यत्राधि (*yatrādhi*) means "in which Prajāpati, the support", the sun (सूरः (*sūraḥ*)) having risen (उदितः (*uditaḥ*)), having attained its rising, shines forth (विभाति (*vibhāti*)). For तस्मै कस्मा (*tasmai kasmā*) and the rest he says the meaning is easy to understand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेजमाने (*rejamāne*)—shining
+- अवसा (*avasā*)—for the protection of the world
+- तस्तभाने (*tastabhāne*)—created and established by Prajāpati
+- क्रंदसी (*kraṃdasī*)—heaven and earth
+- यं (*yaṃ*)—which Prajāpati
+- मनसा (*manasā*)—with a mind full of gratitude
+- अभि ऐक्षेतां (*abhi aikṣetāṃ*)—looked at
+- यत्र अधि (*yatra adhi*)—in which Prajāpati, the support of everything (by the greatness of Prajāpati)
+- सूरः (*sūraḥ*)—the sun
+- उदितः (*uditaḥ*)—having risen
+- विभाति (*vibhāti*)—shines
+- कस्मै (*kasmai*)—to the blissful
+- देवाय (*devāya*)—Prajāpati
+- हविषा (*haviṣā*)—with oblations and the like
+- विधेम (*vidhema*)—let us offer and worship
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and earth are radiant and were created and established by Prajāpati for the protection of the world. They looked with a mind of gratitude towards that Prajāpati. By the greatness of that Prajāpati, the support of the whole universe, the sun rises and shines. Let us offer oblations and the like to that blissful Prajāpati.
+
+##### English translation
+Whom heaven and earth established by his protection, and, shining brightly, regarded with their mind, in whom the risen sun shines forth,— let us offer worship with an oblation to the divine Ka.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॑ ह॒ यद्बृ॑ह॒तीर्विश्व॒माय॒न्गर्भं॒ दधा॑ना ज॒नयं॑तीर॒ग्निं ।  
+> ततो॑ दे॒वानां॒ सम॑वर्त॒तासु॒रेकः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑  
+> विधेम ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 633. pp. 628-633 (batch API)
+**Progress note:** Done through printed p. 639. pp. 634-639 (batch API)
