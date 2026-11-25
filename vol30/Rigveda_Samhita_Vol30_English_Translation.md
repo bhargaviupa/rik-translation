@@ -38783,6 +38783,228 @@ The vilamantras to be recited at the end of this sūkta:
 येन कर्माणि प्रचरंति धीरा विप्रा वाचा मनसा कर्मणा वा । (*yena karmāṇi pracaraṃti dhīrā viprā vācā manasā karmaṇā vā |*)
 ा । यत्स्वां दिशमनु संयंति प्राणिनस्तन्ने मनः शिवसंकल्पमस्तु ॥ ९ ॥ (*ā | yatsvāṃ diśamanu saṃyaṃti prāṇinastanne manaḥ śivasaṃkalpamastu ‖ 9 ‖*)
 
+### Printed p. 1131
+
+## Sūkta 167 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुभ्येदमिति चतुर्ऋचं षोडशं सूक्तं विश्वामित्रजमदग्न्योर्षं
+> जागतमैंद्रं । सोमस्य राज्य इत्येष तृतीया वरुणविधात्रनुमतिधातृसोमबृहस्पतीतिलिंगोक्तदेवताका । तथा चानुक्रांतं । तुभ्येदं चतुष्कं विश्वामित्रजमदग्नी
+> जागतं तृतीया लिंगोक्तदेवता वेति । पक्ष इंद्र एव देवतान्ये तु निपातभाज इति
+> वाशब्दस्यार्थः ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तुभ्येदं (*tubhyedaṃ*) has four Ṛks and is the sixteenth sūkta of the anuvāka. Its seers are Viśvāmitra and Jamadagni, its metre is Jagatī, and its deity is Indra. The third Ṛk, सोमस्य राज्ञः (*somasya rājñaḥ*), has as its deities those named in the text of the Ṛk itself (लिंगोक्तदेवता (*liṃgoktadevatā*)): Varuṇa, Vidhātṛ, Anumati, Dhātṛ, Soma and Bṛhaspati. Sāyaṇa cites the Anukramaṇī: तुभ्येदं चतुष्कं विश्वामित्रजमदग्नी जागतं तृतीया लिंगोक्तदेवता वा (*tubhyedaṃ catuṣkaṃ viśvāmitrajamadagnī jāgataṃ tṛtīyā liṃgoktadevatā vā*). The word वा (*vā*) means that, on one view, Indra alone is the deity, and the others receive only incidental praise. The viniyoga has already been given.
+
+##### Anuvāda
+
+This sūkta, beginning तुभ्येदं (*tubhyedaṃ*), is the sixteenth sūkta in the twelfth anuvāka. It has four Ṛks. Its seers are Viśvāmitra and Jamadagni; its deity is Indra; its metre is Jagatī. For the third Ṛk, सोमस्य (*somasya*), the deities are those named in the Ṛk itself: Varuṇa, Vidhātṛ, Anumati, Dhātṛ, Soma and Bṛhaspati. In the Anukramaṇī it is said: तुभ्येदं चतुष्कं विश्वामित्रजमदग्नी जागतं तृतीया लिंगोक्तदेवता वा (*tubhyedaṃ catuṣkaṃ viśvāmitrajamadagnī jāgataṃ tṛtīyā liṃgoktadevatā vā*). The meaning of the word वा (*vā*) is that for this sūkta Indra is the principal deity, and the other deities are praised only incidentally. The viniyoga has been stated earlier.
+
+Sūkta 167. Maṇḍala 10; Anuvāka 12; Sūkta 167. Aṣṭaka 8; Adhyāya 8; Varga 25. Number of Ṛks in the sūkta: 4. Seers: Viśvāmitra and Jamadagni. Deity: Ṛks 1, 2 and 4, Indra; Ṛk 3, the deities named in the Ṛk itself. Metre: Jagatī.
+
+### Printed p. 1132
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्ये॒दमिं॑द्र॒ परि॑ षिच्यते॒ मधु॒ त्वं सु॒तस्य॑ क॒लश॑स्य राजसि ।  
+> त्वं र॒यिं पु॑रु॒वीरा॑मु नस्कृधि॒ त्वं तपः॑ परि॒तप्या॑जयः॒ स्वः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । इदं । इंद्र । परि । सिच्यते । मधु । त्वं । सुतस्य । कलशस्य । राजसि ।  
+> त्वं । रयिं । पुरुऽवीरां । ऊं इति । नः । कृधि । त्वं । तपः । परितप्य । अजयः ।  
+> स्व१ रिति स्वः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र इदं मधु सोमलक्षणं तुभ्यं त्वदर्थं परि षिच्यते । आहवनीये
+> प्रक्षिप्यते । त्वमेव सुतस्याभिषुतस्य कलशस्य द्रोणकलशावस्थितस्य सोमस्य राजसि ।
+> ईशिषे । राजतिरैश्वर्यकर्मा । स त्वं नोऽस्माकं पुरुवीरां बहुपुत्रं रयिं धनं
+> कृधि । कुरु । उशब्दः पूरकः । यद्वा । अवधारणे । बहुपुत्रोपेतमेव धनं कुरु
+> नः केवलमित्यर्थः । तथा त्वं तपः शतसंख्याश्वमेधलक्षणं परितप्यानुष्ठाय स्वः
+> स्वर्गमजयः । जितवानसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, this honey, namely Soma, is poured around for you, that is, cast into the Āhavanīya fire. You alone rule (राजसि (*rājasi*), "you are lord"; the root राज (*rāja*) denotes sovereignty) over the pressed Soma standing in the Droṇakalaśa. As such, make for us wealth rich in sons (पुरुवीरां (*puruvīrāṃ*), "with many sons"); कृधि (*kṛdhi*) means "make". The particle उ (*u*) is a filler; or else it is used in the sense of restriction: make for us only wealth accompanied by many sons. Likewise, having performed austerity (तपः (*tapaḥ*)), namely a hundred Aśvamedhas, you won heaven; अजयः (*ajayaḥ*) means "you have conquered".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इदं मधु (*idaṃ madhu*)—this sweet Soma juice
+- तुभ्य (*tubhya*)—for you
+- परि सिच्यते (*pari sicyate*)—is offered in the Āhavanīya fire
+- त्वं (*tvaṃ*)—you
+- सुतस्य (*sutasya*)—of the Soma that has been pressed and made ready
+- कलशस्य (*kalaśasya*)—and filled in the Droṇakalaśa
+- राजसि (*rājasi*)—you are the lord
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- पुरुवीरां (*puruvīrāṃ*)—many sons
+- रयिं (*rayiṃ*)—and wealth
+- कृधि (*kṛdhi*)—provide
+- त्वं (*tvaṃ*)—you
+- तपः (*tapaḥ*)—austerity (that is, many daring deeds)
+- परि तप्य (*pari tapya*)—having performed
+- स्वः (*svaḥ*)—heaven
+- अजयः (*ajayaḥ*)—you have conquered (obtained)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this sweet Soma juice, pressed and made ready for you, is offered to the fire. You alone are the lord of this Soma juice, just now pressed and filled in this Droṇakalaśa (that is, this Soma juice belongs to you). Provide us with many heroic sons and with wealth. You won heaven only by performing austerity (the hundred Aśvamedha sacrifices), that is, you obtained it.
+
+### Printed p. 1133
+
+##### English translation
+For you, Indra, is this Soma poured forth, You rule over the effused (Soma of) the jar; bestow upon us riches with numerous sons, you won heaven, performing arduous penence.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Purāṇas and similar works it is said that before Indra obtained the rank of Indra, that is, in his previous birth, he performed a hundred Aśvamedha sacrifices, and that as the fruit of those sacrifices the rank of Indra came to him. The meaning of the word शतक्रतु (*śatakratu*) is explained there in this way: it means "one who has performed a hundred sacrifices". It is also said there that in future too one who performs a hundred Aśvamedha sacrifices becomes qualified to obtain the rank of Indra. Support for these statements is not found in the Vedas.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॒र्जितं॒ महि॑ मंदा॒नमंध॑सो॒ हवा॑महे॒ परि॑ श॒क्रं सु॒ता  ॑
+> उप ।  
+> इ॒मं नो॑ य॒ज्ञमि॒ह बो॒ध्या ग॑हि॒ स्पृधो॒ जयं॑तं म॒घवा॑नमीमहे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वःजितं । महि । मंदानं । अंधसः । हवामहे । परि । शक्रं । सुतान् । उप ।  
+> इमं । नः । यज्ञं । इह । बोधि । आ । गहि । स्पृध॥ । जयंतं । मघवानं ।  
+> ईमहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तप्रकारेण स्वर्गस्य जेतारं महि महांतमंधसोऽन्नस्य सोमस्य पानेन
+> मंदानं मोदमानं हृष्यंतं शक्रं सर्वकार्येषु शक्तमिंद्रं सुतानुपाभिषुतान्सोमान्प्रति परि हवामहे । परित आह्वयामहे । हे इंद्र इत्थमाहूयमानस्त्वं
+
+##### Gist of the bhāṣya
+
+In the manner stated, we call around (परि हवामहे (*pari havāmahe*), "we invite on all sides") Indra, the conqueror of heaven, महि (*mahi*) the great one, rejoicing and exhilarated by drinking the food (अंधसः (*aṃdhasaḥ*)), namely Soma, and the one able in all undertakings (शक्रं (*śakraṃ*)), to the pressed Soma juices. O Indra, thus invoked, you (continued on the next page)
+
+### Printed p. 1134
+
+> नोऽस्माकमिमं यज्ञमिहास्मिन्यज्ञे बोधि । बुध्यस्व । बुद्ध्वा चा गहि । आगच्छ ।
+> स्पृधः स्पर्धमानाः शत्रुसेना जयंतमभिभवंतं मघवानं धनवंतं त्वामीमहे ।
+> अपेक्षितानि धनानि याचामहे ॥
+
+##### Gist of the bhāṣya
+
+(Continuing) … you, being thus invoked, take notice of this our sacrifice here, in this sacrifice (बोधि (*bodhi*), "be aware"), and having noticed it, come (आ गहि (*ā gahi*), "come hither"). We ask you, who conquer and overcome the contending (स्पृधः (*spṛdhaḥ*)) enemy armies and are possessed of wealth (मघवानं (*maghavānaṃ*)), for the wealth we desire.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वर्जितं (*svarjitaṃ*)—the one who has conquered the world of heaven, as said before
+- महि (*mahi*)—the one of great nature
+- अंधसः (*aṃdhasaḥ*)—by drinking the Soma juice that is food
+- मंदानं (*maṃdānaṃ*)—the one who is delighted
+- शक्रं (*śakraṃ*)—Indra, who is capable in all undertakings
+- सुतान् उप (*sutān upa*)—in order to drink the pressed and prepared Soma juices
+- परि हवामहे (*pari havāmahe*)—we pray and invite
+- (O Indra) नः (*naḥ*)—our
+- इमं यज्ञं (*imaṃ yajñaṃ*)—this sacrifice
+- इह (*iha*)—in this place (as it is going on)
+- बोधि (*bodhi*)—know it (and having known)
+- आ गहि (*ā gahi*)—graciously come here
+- स्पृधः (*spṛdhaḥ*)—the enemy armies that fight with us
+- जयंतं (*jayaṃtaṃ*)—the one who conquers
+- मघवानं (*maghavānaṃ*)—you, who are possessed of wealth
+- ईमहे (*īmahe*)—we beg for the sake of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+We pray to and invite Indra, who conquers the world of heaven as said before, who is of exceeding greatness, who is delighted by drinking the Soma juice that is food, and who is capable in all undertakings, to drink the Soma juice prepared here. O Indra, know that we are performing a sacrifice here and come here. O Indra, we beg you, who conquer the enemy armies that fight with us and are possessed of wealth, for the sake of wealth.
+
+##### English translation
+We summon to the libations the mighty Shukra, the conqueror of heaven, exhilarated by sacrificial food; take notice of this our sacrifice here and come; we solicit (for wealth) Maghavan, Victorious over his foes.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑स्य॒ राज्यो॒ वरु॑णस्य॒ धर्म॑णि॒ बृह॒स्पते॒रनु॑मत्या उ॒  ॑
+> शर्मणि ।  
+> तवा॒हम॒द्य म॑घव॒न्न प॑स्तुत्॒ धात॒र्विधधा॑तः क॒लशा॑ अभक्षयं ॥
+
+### Printed p. 1135
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमस्य । राज्ञः । वरुणस्य । धर्मणि । बृहस्पतेः । अनुमत्याः । ऊं इति । शर्मणि ।  
+> तव । अहं । अद्य । मघवन् । उपस्तुत् । धातः । विधातरिति विधातः । कलशान् ।  
+> अभक्षयं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राज्ञो राजमानस्य सोमस्य वरुणस्य च संबंधिनि धर्मणि धारके यज्ञे
+> वर्तमानस्तथा बृहस्पतेरनुमत्याः संबंधिनि शर्मणि शरणे यज्ञगृहे वर्तमानोऽहं हे मघवन्निंद्र तवोपस्तुत् स्तोत्रेऽद्येदानीं, प्रवृत्तोऽस्मि । हे धातहे एतत्संज्ञक देव हे विधातरेतत्संज्ञक देव युवाभ्यामनुज्ञातः कलशान्नलशस्थान्नुतशिष्टान्सोमानभक्षयं । भक्षितवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+I, O Maghavan Indra, abiding in the sacrifice that belongs to the shining Soma and to Varuṇa (धर्मणि (*dharmaṇi*), "in the supporting one", that is, in the sacrifice), and likewise abiding in the shelter (शर्मणि (*śarmaṇi*)), that is, the sacrificial house, that belongs to Bṛhaspati and Anumati, have today set about your praise. O Dhātṛ, the deity so named; O Vidhātṛ, the deity so named: permitted by you two, I have eaten the Soma juices standing in the vessels and remaining over (अभक्षयं (*abhakṣayaṃ*), "I have eaten"). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra
+- राज्ञः (*rājñaḥ*)—of the shining
+- सोमस्य (*somasya*)—Soma-deva
+- and वरुणस्य (*varuṇasya*)—Varuṇa's
+- धर्मणि (*dharmaṇi*)—I who am engaged in the sacrifice
+- बृहस्पतेः (*bṛhaspateḥ*)—of Bṛhaspati
+- and अनुमत्याः (*anumatyāḥ*)—of Anumati
+- शर्मणि (*śarmaṇi*)—who am present in the sacrificial house
+- अहं (*ahaṃ*)—I
+- तव (*tava*)—your
+- उपस्तुत् (*upastut*)—in praise
+- आद्य (*ādya*)—am now engaged
+- धातः (*dhātaḥ*)—O Dhātṛ-deva
+- विधातः (*vidhātaḥ*)—O Vidhātṛ-deva (with your consent)
+- कलशान् (*kalaśān*)—the Soma that is left in the vessel as the remainder of the offering
+- अभक्षयं (*abhakṣayaṃ*)—I have eaten
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I, who am engaged in the sacrifice made with the shining Soma and Varuṇa in view, and in the sacrifice made with Bṛhaspati and Anumati in view, have now set about praising you. O Dhātṛ, O Vidhātṛ, with your consent I have drunk the Soma juice left in the vessel as the remainder of the offering.
+
+##### English translation
+(Engaged) in the worship of the royal Soma and of Varuna, (present) in the protecting (dwelling) of Brihaspati and Anumati, (I am assiduous) in your praise, Maghavan ; Datri and Vidhatri, I have fed on the pitcher.
+
+### Printed p. 1136
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the derivation of the word कलश (*kalaśa*), Yāska says: सोमस्य राज्यो वरुणस्य धर्मणि बृहस्पतेरनुमत्या उ शर्मणि । तवाहमद्य मघवन्नुपस्तुत् धातर्विधातः कलशा अभक्षयं॥ इत्येताभिर्देवताभिरभिप्रसूतः सोमकलशानभक्षयमिति । (*somasya rājyo varuṇasya dharmaṇi bṛhaspateranumatyā u śarmaṇi | tavāhamadya maghavannupastut dhātarvidhātaḥ kalaśā abhakṣayaṃ‖ ityetābhirdevatābhirabhiprasūtaḥ somakalaśānabhakṣayamiti |*) कलशः कस्मात् कला अस्मिञ्चेरते मात्राः । कलिश्च कलाश्च किरतीर्वि कीर्णमात्राः ॥ (*kalaśaḥ kasmāt kalā asmiñcerate mātrāḥ | kaliśca kalāśca kiratīrvi kīrṇamātrāḥ ‖*) (Ni. 11-12). That is, in the sacrifice made with the deities Soma, Varuṇa, Bṛhaspati and Anumati in view, with the consent of these deities I ate (drank) the Soma juice left over in the vessel. The main purport is that, at the prompting of these deities, I ate what was in the vessel. Why does the vessel get the name कलश (*kalaśa*)? कला (*kalā*) means a fixed measure. Since many Soma juices of such measure are filled in this vessel, it is called कलश (*kalaśa*). Both the words कलिः (*kaliḥ*) and कलाः (*kalāḥ*) are derived from the root किर् (*kir*), which means "scatter, set apart".
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रसू॑तो भ॒क्षम॑करं च॒रावपि॒ स्तोमं॑ चे॒मं प्र॑थ॒मः सू॒रिरुन्मृ॑जे ।  
+> सु॒ते सा॒तेन॒ यद्याग॑मं वां॒ प्रति॑ विश्वामित्रजमदग्नी॒  ॑
+> दमे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रसूतः । भक्षं । अकरं । चर् । अपि । स्तोमं । च । इमं । प्रथमः । सूरिः ।  
+> उत् । मृजे ।  
+> सुते । सातेन । यदि । आ । अगमं । वां । प्रति । विश्वामित्रजमदग्नी इति । दमे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रसूतस्त्वया प्रेरितोऽहं चरौ चरणीये चरुणा वा युक्ते
+> यज्ञे भक्षमपि भक्षणीयं चर्वादि हविश्चाकरं । त्वदर्थमकार्षं । प्रथमो मुख्यः
+
+##### Gist of the bhāṣya
+
+O Indra, I, impelled by you (प्रसूतः (*prasūtaḥ*)), have made for you, in a sacrifice connected with the caru (चरौ (*carau*), "in the caru, the thing to be cooked", or "accompanied by the caru"), an edible offering (भक्षं (*bhakṣaṃ*)), that is, an oblation such as the caru. Then प्रथमो मुख्यः (*prathamo mukhyaḥ*) ….
+
 ---
 
-**Progress note:** Done through printed p. 1129. pp. 1123-1128 (batch API)
+**Progress note:** Done through printed p. 1136. pp. 1131-1136 (batch API)
