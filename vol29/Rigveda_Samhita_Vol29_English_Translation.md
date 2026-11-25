@@ -1375,6 +1375,202 @@ Indra, experiencing joy in the sacrificial place with his friends the Maruts, gi
 ##### English translation
 Indra rejoicing at the sacrifice accompanied by his swift-moving friends (the Maruts, gave) wealth to the people; he has come with them against the Dasyu to destroy his illusions; he has scattered the dark rain-clouds and the gloom.
 
+### Printed p. 64
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सना॑माना चिद्ध्वसयो॒ न्य॑स्मा॒ अवा॑ह॒न्निंद्र॑ उ॒षसो॒ यथानः॑ ।  
+> ऋ॒ष्टैर॑गच्छः॒ सखि॑भि॒र्निका॑म्यैः सा॒कं प्र॑ति॒ष्ठा हृद्या॑ जघंथ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सनामाना । चित् । ध्वसयः । नि । अस्मै । अव । अहन् । इंद्रः । उषसः । यथा ।  
+> अनः ।  
+> यष्टैः । अगच्छः । सखिभिः । निकाम्यैः । साकं । प्रतिस्था । हृद्या । जघंध ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो वृत्रं हंतुं सनामाना चित् समाननामानौ नि ध्वसयः ।
+> न्यगमयत् । अथेंद्रस्तं वृत्रमवाहन् । अवहतवान् । यथोषसोऽनः शकटमवनाशितवान् तद्वत् । अथ प्रत्यक्षेणोच्यते । हे इंद्र त्वमृष्टैर्दिप्तैर्महद्भिर्वा निकामैर्नित्तरां वृत्रवधं कामयमानैः सभिभिर्मरुद्भिः साकं वृत्रं हंतुमगच्छः ! आगत्य च प्रतिष्ठा प्रतिष्ठानानि शरीराणि हृद्या हृद्यानि रमणीयानि जघंथ ।
+> हतवानसि ॥ हंतेस्थल्युपदेशेऽत्वत इतीट् प्रतिषेधॆः ॥
+
+##### Gist of the bhāṣya
+
+This Indra, in order to slay Vṛtra, brought down (नि ध्वसयः (*ni dhvasayaḥ*), glossed न्यगमयत् (*nyagamayat*)) the two of the same name (सनामाना चित् (*sanāmānā cit*), glossed समाननामानौ (*samānanāmānau*)). Then Indra struck down (अवाहन् (*avāhan*), glossed अवहतवान् (*avahatavān*)) that Vṛtra, as the cart (अनः (*anaḥ*)) of Uṣas was destroyed. **NOTE** Now he is addressed directly: "O Indra, you went with the Maruts, who are shining (glossed as shining) or great, who are exceedingly eager (निकाम्यैः (*nikāmyaiḥ*)) for the slaying of Vṛtra, and who are your friends (सखिभिः (*sakhibhiḥ*)), to slay Vṛtra; and having come, you slew his supports (प्रतिष्ठा (*pratiṣṭhā*), glossed प्रतिष्ठानानि शरीराणि (*pratiṣṭhānāni śarīrāṇi*)), that is, his bodies, which were delightful (हृद्या (*hṛdyā*)), that is, pleasing."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स नामाना (*sa nāmānā*)—two Asuras of one name (O Indra)
+- नि ध्वसयः (*ni dhvasayaḥ*)—you have destroyed
+- यथा (*yathā*)—in the way
+- उषसः (*uṣasaḥ*)—of Uṣas
+- अनः (*anaḥ*)—in which Vṛtra broke the cart, in that way
+- इंद्रः (*iṃdraḥ*)—Indra
+- वृत्रं (*vṛtraṃ*)—the Asura Vṛtra
+- अवाहन् (*avāhan*)—threw far away
+- ऋष्टै (*ṛṣṭai*)—radiant (O Indra)
+- निकाम्यैः (*nikāmyaiḥ*)—who desired the slaying of Vṛtra
+- सखिभिः साकं (*sakhibhiḥ sākaṃ*)—with the Maruts, who are your friends
+- अगच्छः (*agacchaḥ*)—you pressed forward for the slaying of Vṛtra
+- हृद्या (*hṛdyā*)—attractive
+- प्रतिष्ठा (*pratiṣṭhā*)—the limbs of his body
+- जघंथ (*jaghaṃtha*)—you have destroyed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have destroyed two Asuras of the same name. In the way in which Vṛtra broke the cart of Uṣas, in that way Indra threw the Asura Vṛtra far away. O Indra, you pressed forward for the slaying of Vṛtra with the Maruts, who are radiant, who desired the slaying of Vṛtra, and who are your friends. You have destroyed the attractive limbs of his body.
+
+### Printed p. 65
+
+##### English translation
+You have expelled the two of the same name, you have destroyed the Vritra, as (he destroyed) the cart of the dawn; you advance with the mighty friends (the Maruts), who were eager (to slay the Vritra;) you demolished his precious limbs.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ज॑घंथ॒ नमु॑चिं मख॒स्युं दासं॑ कृण्वा॒न ऋष॑ये॒  ॑
+> विमायं ।  
+> त्वं च॑कर्थ॒ मन॑वे स्को॒नान्प॒थो दे॑व॒त्रांज॑सेव॒ याना॑न् ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । जघंथ । नमुचिं । मखस्युं । दासं । कृष्णानः । ऋषये । विमायं ।  
+> त्वं । चकर्थ । मनवे । स्योनान् । पथः । देवत्रा । अंजसा इव । यानान् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नमुचिमेतत्संज्ञकमसुरं जघंथ । हतनानसि । कीदृशं । मखस्युमृषेर्यज्ञं विधातुमिच्छंतं यद्वा त्वदीयं धनमिच्छंतं । किं कुर्वन् ।
+> दासमुपक्षपयितारं नमुचिमसुरमृषये मनवे विमायं विगतमायं कृष्णानः
+> कुर्वन् । किंच देवत्रा देवेषु मध्यॆ मनव ऋषये समानेन मनुष्याय वा
+> पथो मार्गान्सोनांश्चकर्थ । कृतवानसि । अथवा देवत्रा देवेषु मध्यॆ गंतव्यान्मार्गानिति वा संबंधः । सोनांश्चकर्थेत्युक्तमेव विवृणोति । अंजसेव
+> यानानिति । इवेत्येवकारार्थे । अंजसैवाकुटिलेनैव यानान्गंत्यन्मार्गानकरोः ।
+> अथवा मार्गेणाकुटिलेनैव गंत्यंश्चकर्थ । यथा लोके शीघ्रं गतो मार्गः
+> क्यांत्या गतो मार्ग इति मार्गस्य गंतृत्वोपचारः तद्वदत्रापि यातृत्वं द्रष्टव्यं ॥
+> xxix 6
+
+##### Gist of the bhāṣya
+
+"O Indra, you slew (जघंथ (*jaghaṃtha*), glossed हतवानसि (*hatavānasi*)) the Asura named Namuci. What kind of one? One who desired (मखस्युं (*makhasyuṃ*)) to perform the sacrifice of the seer, or else one who desired your wealth. What was he doing? Namuci, the Asura who was a servant (दासं (*dāsaṃ*), one who wastes away), was being made (कृण्वानः (*kṛṇvānaḥ*)) free of illusion (विमायं (*vimāyaṃ*), that is, with his illusion gone) for the seer, for Manu. Moreover, among the gods (देवत्रा (*devatrā*)) you made the paths pleasant (स्योनान् (*syonān*)) for Manu, the seer, or for man." Or else the construction is: paths to be travelled among the gods. Then he explains what was said, "you made the paths pleasant", by the words the phrase "like straight ways": "as if" is in the sense of "indeed"; you made the paths on which one goes (यानान् (*yānān*)) straight, not crooked. Or else, you made the travellers go by a straight road. As in the world one says "the road goes quickly" or "the road went in patience", attributing the quality of a traveller to the road, so also here the traveller-quality is to be seen. **NOTE**
+
+### Printed p. 66
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—you (O Indra)
+- दासं (*dāsaṃ*)—the violent Namuci
+- ऋषये (*ṛṣaye*)—for Manu
+- विमायं (*vimāyaṃ*)—so that the deceit (of the Asura) does not appear
+- कृण्वानः (*kṛṇvānaḥ*)—making
+- नमुचिं (*namuciṃ*)—that Namuci
+- जघंथ (*jaghaṃtha*)—you have destroyed
+- किं च (*kiṃ ca*)—and
+- देवत्रा (*devatrā*)—among the gods
+- मनवे (*manave*)—for Manu
+- पथः (*pathaḥ*)—the paths
+- स्योनान् (*syonān*)—as pleasant ones
+- चकर्थ (*cakartha*)—you have made
+- यानान् (*yānān*)—the paths of travel
+- अंजसेव (*aṃjaseva*)—you have made straight ones also
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you destroyed the violent Namuci, breaking his deceitful nature, in order to bring benefit to Manu. And so that Manu may go and join the gods, you have made the path of the gods straight and beneficial.
+
+##### English translation
+You have slain the slave Namuchi endeavouring (to disturb) the sacrifice, making his illusions powerless against the Rishi; you have made easy for Manu the paths to the gods so as (to make) the ways straight.
+
+##### विशेषविषयगळु (Special Topics)
+
+नमुचिं (*namuciṃ*)—इंद्रेण सह युद्धं न मुंचतीति नमुचिः (*iṃdreṇa saha yuddhaṃ na muṃcatīti namuciḥ*): because he does not give up fighting with Indra, he is named Namuci. Namuci is an Asura. Since he was exceedingly strong, it was very difficult for Indra to fight him and conquer him. We have written about this Asura on some earlier occasions. But since the commentator indicates that the slaying of Namuci by Indra is told in the Taittirīya Brāhmaṇa, we have set it out here.
+
+इंद्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेतां सोऽस्मादभिशुनतरोऽभवत् । सोऽब्रवीत् । संधाग्ं संदधावहै । अथ त्वावस्रक्ष्यामि । न मा शुष्केण नाद्र्रेण हनः! न दिवा न नक्तमिति । स एतमपां फेनमसिंचत् । न वा विष शुष्को नार्द्रो वृष्टासीत् । अनुदितॆ: सूर्यः । न वा एतद्दिवा न नक्तं । तस्मैतस्मिन्लोके। अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रद्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग्स्यपाहत । यदपामार्गहोमो भवति । रक्षसामपहत्यै ॥ (*iṃdro vṛtragṃ hatvā | asurān parābhāvya | namucimāsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetāṃ so 'smādabhiśunataro 'bhavat | so 'bravīt | saṃdhāgṃ saṃdadhāvahai | atha tvāvasrakṣyāmi | na mā śuṣkeṇa nādrreṇa hanaḥ! na divā na naktamiti | sa etamapāṃ phenamasiṃcat | na vā viṣa śuṣko nārdro vṛṣṭāsīt | anuditè: sūryaḥ | na vā etaddivā na naktaṃ | tasmaitasminloke| apāṃ phenena śira udavartayat | tadenamanvavartata | mitradrugiti | sa etānapāmārgānajanayat | tānajuhot | tairvai sa rakṣāgsyapāhata | yadapāmārgahomo bhavati | rakṣasāmapahatyai ‖*) (Tai. Brā. 1-7-1-5, 6, 7)
+
+### Printed p. 67
+After Indra had slain the Asura Vṛtra, he slew still other demons. But he could not conquer the Asura named Namuci. He was exceedingly strong. He did not yield to any kind of weapons. Therefore Indra, wishing to conquer him by his bodily strength alone, began a wrestling-fight with him. But as the fight went on, Namuci's strength only increased. Indra could not escape from his grip. Then Indra asked Namuci to release him, and the Asura said to Indra: "O Indra, if I am to release you, you must do as I say. Let us now make a pact with each other. You may again wish to fight me by some stratagem and to kill me. In such a case the weapon that you use to kill me must be neither wet nor dry; you must not kill me by day, nor must you kill me by night. If you agree to these conditions, I shall release you." Indra agreed, saying "Let it be so," freed himself from his grip, and began to think how he should conquer him. After some time a means occurred to him. The foam of the sea, which was in front of him, fell under his eye. This foam is neither wet nor dry. "Therefore I shall make this my weapon and slay Namuci. When the night has passed and the dawn has begun, before the sun rises, it is quite light. That time is not night, because it is not dark, and it is not day, because the sun has not risen. If I fight at such a time and kill him with the weapon made of the foam of water, I shall not have broken the word I gave." So he decided, and in this way he fought with Namuci and cut off his head with that foam. Yet the Asura did not die, but pursued Indra in order to kill him: "O Indra, betrayer of a friend! Stop, stop! After promising that you would not kill me, you have now done such an act of treachery to a friend. I shall not let you go without killing you." Then Indra, frightened, created a special tree called Apāmārga and offered oblations in the fire with its fuel-sticks for the increase of his vigour. Through this Indra's strength grew greater and he slew that Namuci. Therefore it is said that those who wish to be freed from the affliction of demons should make oblations with Apāmārga fuel-sticks. The slaying of this Namuci by Indra is told, apart from this Ṛk, in the following Ṛks of the Ṛgveda:
+नम्मा यदिंद्र सख्या परावति निबर्हयो नमुचिं नाम मायिनं । (*nammā yadiṃdra sakhyā parāvati nibarhayo namuciṃ nāma māyinaṃ |*) (Ṛ. Saṃ. 1-53-7)
+अत्रा दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् (*atrā dāsasya namuceḥ śiro yadavartayo manave gātumicchan*) (Ṛ. Saṃ. 5-30-7)
+
+### Printed p. 68
+युजं हि मामकृथा आदिदिंद्र शिरो दासस्य नमुचेर्मथायन् (*yujaṃ hi māmakṛthā ādidiṃdra śiro dāsasya namucermathāyan*) (Ṛ. Saṃ. 5-30-8)
+प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् । (*pra śyeno na madiramaṃśumasmai śiro dāsasya namucermathāyan |*) (Ṛ. Saṃ. 6-20-6)
+निवेशने शततमाविवेषीरहञ्च वृत्रं नमुचिमुताहन् (*niveśane śatatamāviveṣīrahañca vṛtraṃ namucimutāhan*) (Ṛ. Saṃ. 7-19-5)
+अपां फेनेन नमुचेः शिर इंद्रोदवर्तयः (*apāṃ phenena namuceḥ śira iṃdrodavartayaḥ*) (Ṛ. Saṃ. 8-14-13)
+यः पिपुं नमुचिं यो रुधिक्रां तस्मा इंद्रायांधसो जुहोत । (*yaḥ pipuṃ namuciṃ yo rudhikrāṃ tasmā iṃdrāyāṃdhaso juhota |*) (Ṛ. Saṃ. 2-14-5)
+युवं सुराममश्विना नमुचावासुरे सचा (*yuvaṃ surāmamaśvinā namucāvāsure sacā*) (Ṛ. Saṃ. 10-131-4)
+It is told in these Ṛks and nowhere else.
+मनवे (*manave*)—we have explained the matter of Manu in Part 18, pages 178-179.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमे॒तानि॑ षप्रिषे॒ वि नामेशा॑न इंद्र दधिषे॒ गभ॑स्तौ ।  
+> अनु॑ त्वा दे॒वाः शव॑सा मदंत्यु॒परि॑ बुधान्व॒निन॑ श कथ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । एतानि । पप्रिषे । वि । नाम । ईशानः । इंद्र । दधिषे । गभस्तौ ।  
+> अनु । त्वा । देवाः । शवसा । मदंति । उपरिबुध्नान् । वनिनः । चकर्थ ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमेतानि नाम नामानि नामकान्युदकानि वि पप्रिषे । विपूरयसि
+> हे इंद्र ईशानः सर्वस्येश्वरस्त्वं गभस्तौ हस्ते दधिषे धारयसि वज्रं धनं वा ।
+> किंच त्वा त्वां शवसा बलेनोपेतं देवाः सर्वॆऽनु मदंति । अनुषुपुवंति । स त्वं
+> वनिन उदकवतो मेघान्रश्मीन्वोपरिबुध्नानुपरिमूलानधोमुखांश्च कथ । कृतवानसि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you fill up (वि पप्रिषे (*vi papriṣe*), glossed विपूरयसि (*vipūrayasi*)) these named waters (नाम (*nāma*), glossed नामानि नामकान्युदकानि (*nāmāni nāmakānyudakāni*)). O Indra, you, the lord (ईशानः (*īśānaḥ*)) of all, hold (दधिषे (*dadhiṣe*)) in your hand (गभस्तौ (*gabhastau*), glossed हस्ते (*haste*)) the thunderbolt or wealth. Moreover, all the gods rejoice in you, who are endowed with strength (शवसा (*śavasā*)). **NOTE** Such as you are, you have made (चकर्थ (*cakartha*), glossed कृतवानसि (*kṛtavānasi*)) the clouds (वनिनः (*vaninaḥ*)) that have water, or else the rays, to have their roots above (उपरिबुध्नान् (*uparibudhnān*)), that is, with their mouths turned downward."
+
+### Printed p. 69
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- एतानि नाम (*etāni nāma*)—these waters
+- वि पप्रिषे (*vi papriṣe*)—you have filled
+- ईशानः (*īśānaḥ*)—you, the lord
+- गभस्तौ (*gabhastau*)—in your hands the thunderbolt weapon
+- दधिषे (*dadhiṣe*)—you possess
+- शवसा (*śavasā*)—endowed with strength
+- त्वा (*tvā*)—you
+- देवाः (*devāḥ*)—all the gods
+- अनु मदंति (*anu madaṃti*)—praise
+- वनिनः (*vaninaḥ*)—the clouds that hold water
+- उपरिबुधान् (*uparibudhān*)—as having their roots above
+- चकर्थ (*cakartha*)—you have made
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you have filled all these waters. You, the lord, hold the thunderbolt weapon in your hands. All the gods praise you, who are endowed with strength. You have made the clouds that hold water have their roots above.
+
+##### English translation
+You have filled these waters, you, Indra, who are the lord (of all) bear (the thunderbolt) in your hands; the gods glorify you (who are endowed) with strength ; you have made the clouds with their root up- wards.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒क्रं यद॑स्या॒प्सा निष॑त्तमु॒तो तद॑स्मै॒ मध्वच्च॑च्छद्यात् ।  
+> पृ॒थि॒व्यामति॑षितं॒ यदूधः॒ पयो॒ गोष्पद॑धा॒ ओष॑धीषु ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चक्रं । यत् । अस्य । अप्‌सु । आ । निसत्तं । उतो इति । तत् । अस्मै । मधु ।  
+> इत् । चच्छद्यात् ।  
+> प्रथिव्यां । अतिसितं । यत् । ऊधः । पयः । गोषु । आदधाः । ओषधीषु ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्येंद्रस्य चक्रमायुधं यदप्पु अंतरिक्षे निषण्णं उतो अपि च तदायुध
+> मस्मा इंद्राय मधु चच्छद्यात् वशं नयति । यत्पृथिव्यामतिषितं निमित्तं. ऊधः
+> ऊधसो मेघात् तदुदकं पयः गोष्टोषधीषु चादधा इति ।
+
+##### Gist of the bhāṣya
+
+The weapon (चक्रं (*cakraṃ*)) of this Indra that rests (निषण्णं (*niṣaṇṇaṃ*)) in the waters, that is, in the atmosphere (अप्सु (*apsu*)), that weapon brings the sweet (मधु (*madhu*)) into subjection (चच्छद्यात् (*cacchadyāt*), glossed वशं नयति (*vaśaṃ nayati*)) for this Indra. That which (यत् (*yat*)) is on the earth (पृथिव्यामतिषितं (*pṛthivyāmatiṣitaṃ*), glossed निमित्तं (*nimittaṃ*)), the udder (ऊधः (*ūdhaḥ*)), that is, from the cloud (मेघात् (*meghāt*)), that water, the milk (पयः (*payaḥ*)), you placed (आदधाः (*ādadhāḥ*)) in the cows and the plants. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 63. Mandala 10, Sukta 73, Rks 1-5 (pp. 58-63)
+**Progress note:** Done through printed p. 69. Mandala 10, Sukta 73, Rks 6-9 (pp. 64-69)
