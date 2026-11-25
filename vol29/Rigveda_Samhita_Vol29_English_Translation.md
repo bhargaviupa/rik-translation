@@ -9217,6 +9217,117 @@ Chandas: 1-13, 15-17, 22, 25, 28-33, 35, 38-42, 45-47. अनुष्टुप�
 > स॒त्येनोत्त॑भिता॒ भूमिः॒ सूर्ये॒णोत्त॑भिता॒ द्यौः ।  
 > ऋ॒तेना॑दि॒त्यास्ति॑ष्ठंति दि॒वि सोमो॒ अधि॑ श्रि॒त ॥ १ ॥
 
+### Printed p. 350
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्येन । उत्तभिता । भूमिः । सूर्येण । उत्तभिता । द्यौः ।  
+> ऋतेन । आदित्याः । तिष्ठंति । दिवि । सोमः । अधि । श्रितः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सत्येन ब्रह्मणानंतात्मना । ब्रह्मा खलु देवानां मध्यॆ सत्यभूतः । तेनाधः
+> स्थितेन भूमिरुत्तभिता । उपरि स्तंभिता । यथाधो न पतेत्तथा कृता । यद्वा ।
+> सत्येनानृतप्रतियोगिना धर्मेण भूमिरुत्तभितोद्धृता फलिता भवतीत्यर्थः । असति
+> सत्ये भूम्यां सस्यादयो न फलंति । तथा सूर्येण देवेन द्यौरुत्तभिता ।
+> सूर्यो हि द्युस्थानत्वाद्दिवं दधार । ऋतेन यज्ञेनादित्या अदितेः पुत्रा देवास्तिष्ठंति । यज्ञेन यजमानदत्तेन खल्वाहुत्या देवा उपजीवंति । दिवि द्युलोके
+> सोमो देवानामाप्यायनकारी वल्लिरूपो देवतारूपश्चाधि श्रितः । अधितिष्ठति ।
+> इति स्वपतिं सोमं सूर्या स्तोति॥
+
+##### Gist of the bhāṣya
+
+By सत्येन (*satyena*) is meant Brahman, whose self is infinite; among the gods Brahman is the truly real one. Standing below, by him the earth is upheld above: it is so made that it does not fall downward. Or else, by truth, the opposite of untruth, that is, by dharma, the earth is upheld and made fruitful; when there is no truth, crops and the like do not bear fruit on the earth. Likewise by the god Sūrya heaven is upheld, for Sūrya, standing in the region of heaven, supports heaven. By ऋतेन (*ṛtena*), that is by sacrifice, the Ādityas, the gods who are sons of Aditi, subsist: the gods live on the oblation that the sacrificer gives in the sacrifice. In heaven, in the world of heaven, Soma, who nourishes the gods and is both of the form of a creeper and of the form of a deity, is established. Thus Sūryā praises Soma, her husband.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूमिः (*bhūmiḥ*)—the earth
+- सत्येन (*satyena*)—by truth, which is of the form of Brahman
+- उत्तभिता (*uttabhitā*)—has been lifted up and held
+- द्यौः (*dyauḥ*)—the world of heaven
+- सूर्यण (*sūryaṇa*)—by the sun
+- उत्तभिता (*uttabhitā*)—is held
+- आदित्याः (*ādityāḥ*)—the gods, the sons of Aditi
+- ऋतेन (*ṛtena*)—depending on the sacrifice
+- तिष्ठंति (*tiṣṭhaṃti*)—subsist
+- दिवि (*divi*)—in the world of heaven
+- सोमः (*somaḥ*)—Soma
+- अधिश्रितः (*adhiśritaḥ*)—has obtained a support
+
+##### भावार्थ (Bhāvārtha)
+
+The earth is lifted up and held by truth, which is of the form of Brahman. The world of heaven is held by the sun. The gods, the sons of Aditi, subsist depending on the sacrifice. In the world of heaven Soma has obtained a support.
+
+##### English translation
+Earth is upheld by truth ; heaven is upheld by the sun ; the Adityas are supportcd by sacrifice, Soma is supreme in heaven.
+
+##### विशेषविषयगळु (Special Topics)
+
+सत्येन भूमिः उत्तभिता (*satyena bhūmiḥ uttabhitā*)—सत्येन ब्रह्मणानंतात्मना । ब्रह्मा खलु देवानां मध्यॆ सत्यभूतः ॥ तेनाधः स्थितेन भूमिः उपरि स्तंभिता । यथाधो न पतेत्तथा (*satyena brahmaṇānaṃtātmanā | brahmā khalu devānāṃ madhyè satyabhūtaḥ ‖ tenādhaḥ sthitena bhūmiḥ upari staṃbhitā | yathādho na patettathā*)
+
+### Printed p. 351
+
+कृता (*kṛtā*). Here the commentator has explained the word सत्य (*satya*) as Brahman. For among the gods it is Brahman who is truly real. His world is called Satyaloka. The earth, which was below, was lifted upward by such a Brahman, who is of infinite self and truly real, and was made to stand so that it does not shake and is firm. Or else another meaning can be given to this sentence. If the word सत्य (*satya*) is explained as dharma—सत्येन अनृतप्रतियोगिना धर्मेण भूमिरुद्धता फलिता भवतीत्यर्थः । असति सत्ये भूम्यां सस्यादयो न फलंति । (*satyena anṛtapratiyoginā dharmeṇa bhūmiruddhatā phalitā bhavatītyarthaḥ | asati satye bhūmyāṃ sasyādayo na phalaṃti |*). That is, this earth stands by truth or by dharma: all the dealings that go on upon the earth go on only in dependence on dharma. If there were no truth or dharma, crops and the like would not grow on the earth. Therefore everything rests on dharma alone. This matter is also supported by this statement of the Taittirīya Upaniṣad—
+
+सत्येन वायुरावाति सत्येनादित्यो रोचते दिवि सत्यं वाचः प्रतिष्ठा सत्ये सर्वं प्रतिष्ठितं तस्मात्सत्यं परमं वदंति ॥ (*satyena vāyurāvāti satyenādityo rocate divi satyaṃ vācaḥ pratiṣṭhā satye sarvaṃ pratiṣṭhitaṃ tasmātsatyaṃ paramaṃ vadaṃti ‖*) (Tai. U. 4-80) **GLOSS**
+
+सूर्येण द्यौः उत्तभिता (*sūryeṇa dyauḥ uttabhitā*)—सूर्यो हि द्युस्थानत्वाद्दिवं दाधार (*sūryo hi dyusthānatvāddivaṃ dādhāra*). Because the sun shines in heaven (in the atmosphere), the idea is that he supports and nourishes heaven and the atmosphere by his greatness.
+
+ऋतेनादित्यास्तिष्ठंति (*ṛtenādityāstiṣṭhaṃti*)—अदितेः पुत्रा देवा यज्ञेन तिष्ठंति । यज्ञे यजमानदत्तेन खल्वाहुत्या देवा उपजीवंति । (*aditeḥ putrā devā yajñena tiṣṭhaṃti | yajñe yajamānadattena khalvāhutyā devā upajīvaṃti |*). Here the word आदित्या (*ādityā*) is explained as अदितिपुत्राः इंद्रादयो देवाः (*aditiputrāḥ iṃdrādayo devāḥ*), the gods beginning with Indra, the sons of the goddess Aditi. It is said that the gods in heaven live by the oblations that human sacrificers on earth offer in sacrifice, addressed to the gods. The god Agni carries the oblations offered into the fire, addressed to the gods, to the gods in heaven. It is through Agni alone that the gods receive the oblations. For that very reason it is the custom to call the gods अग्निजिह्वा (*agnijihvā*).
+
+दिवि सोमो अधि श्रितः (*divi somo adhi śritaḥ*)—दिवि (*divi*) means that Soma is established in the world of heaven. Although the Soma used in sacrifices and the like grows on the earth and on the mountains, it is well known from śruti statements such as तृतीयस्कामितो दिवि सोम आसीत् (*tṛtīyaskāmito divi soma āsīt*) (Tai. Brā. 3-2-1-1) that formerly it was in heaven itself, and that Gāyatrī, flying off in the form of a hawk, brought it to the earth. We have explained this matter in detail in the earlier parts. With regard to Soma it can be conceived in two ways, as a creeper and as a presiding deity. We have said that earlier. Yāska has given the explanation of the word सोम (*soma*) in this manner—
+
+### Printed p. 352
+
+ओषधिस्सोमः सुनोतेर्यदेनमभिषुण्वंति (*oṣadhissomaḥ sunoteryadenamabhiṣuṇvaṃti*)—a herb that is well known by the name Soma; this—
+
+आदाय श्येनो अभरत्सोमं सहस्रं सना अयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ sanā ayutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*) (Ṛ. Saṃ. 4-26-7)
+
+he has explained the greatness of Soma by saying that the Gāyatrī metre, taking the form of a hawk, brought it from heaven to the earth, and that, in the contexts in which Indra drinks this Soma, sacrificers, having performed sacrifices with a thousand pressings, gave a sacrificial fee numbering ten thousand. And: बहुलमस्य नैघंटुकं वृत्तं आश्चर्यमिव प्राधान्येन (*bahulamasya naighaṃṭukaṃ vṛttaṃ āścaryamiva prādhānyena*)—the praise of this Soma too indicates its importance, and it is wonderful. This has been recited in the ninth maṇḍala. And the greatness of this Soma is stated in the form of praise in this Ṛk—
+
+स्वादिष्टया मदिष्टया पवस्व सोम धारया । इंद्राय पातने सुतः । (*svādiṣṭayā madiṣṭayā pavasva soma dhārayā | iṃdrāya pātane sutaḥ |*) (Ṛ. Saṃ. 9-1-1) **GLOSS**
+
+सोमं मन्यते पपिवान् यत्संपिषंत्योषधिं । सोमं यं ब्रह्माणो विदुर्न तस्याश्नाति कश्चन ॥ (*somaṃ manyate papivān yatsaṃpiṣaṃtyoṣadhiṃ | somaṃ yaṃ brahmāṇo vidurna tasyāśnāti kaścana ‖*) (Ṛ. Saṃ. 10-85-3)
+
+The word सोम (*soma*) is understood to mean the moon. In this Ṛk both the Soma creeper and the moon are praised. But the superiority of this Soma over the well-known moon has been described by Yāska in this manner.
+
+सोमं मन्यते पपिवान् यत्संपिषंत्योषधिमिति वृथासुतमसोममाह सोमं यं ब्रह्माणो विदुरिति न तस्याश्नाति कश्चनायज्वेत्यधियज्ञं । अथाधिदैवतं सोमं मन्यते पपिवान् यत्संपिषंत्योषधिमिति यजुस्सुतमसोममाह सोमं यं ब्रह्माणो विदुश्चंद्रमसं न तस्याश्नाति कश्चनादेव इति । (*somaṃ manyate papivān yatsaṃpiṣaṃtyoṣadhimiti vṛthāsutamasomamāha somaṃ yaṃ brahmāṇo viduriti na tasyāśnāti kaścanāyajvetyadhiyajñaṃ | athādhidaivataṃ somaṃ manyate papivān yatsaṃpiṣaṃtyoṣadhimiti yajussutamasomamāha somaṃ yaṃ brahmāṇo viduścaṃdramasaṃ na tasyāśnāti kaścanādeva iti |*) (Ni. 11-4)
+
+Although those who make rasāyanas and the like bring Soma, press out the juice and drink it, they do not become renowned in the sacrifice as Soma-drinkers; therefore, because Soma is used as a part of the sacrifice, it is praised as producing the renown of being a Soma-drinker, in the prescribed manner, only for sacrificers. In the adhidaivata view also, (in explaining the word सोम (*soma*) as the moon)
+
+### Printed p. 353
+
+the Soma that is a part of the sacrifice is denoted by the word सोम (*soma*). By the śruti statement “सोमो नूनमेष यद्देवानामन्नं (*somo nūnameṣa yaddevānāmannaṃ*)”, although the moon is denoted by the word सोम (*soma*), he is food only for the gods. Therefore, although by the mantra सोमं मन्यते (*somaṃ manyate*) two kinds of meaning, adhiyajña and adhidaiva, are given for the word सोम (*soma*), the ritualists have assigned the principal place in the sacrifice to the Soma that is of the form of a herb.
+
+यत्त्वा देव प्रपिबंति तत आ प्यायसे पुनः । वायुस्सोमस्य रक्षिता समानां मास आकृतिः ॥ (*yattvā deva prapibaṃti tata ā pyāyase punaḥ | vāyussomasya rakṣitā samānāṃ māsa ākṛtiḥ ‖*) (Ṛ. Saṃ. 10-85-5)
+
+यत्वा देव प्रपिबंति तत आप्यायसे पुनरिति नाराशंसानभिप्रेत्य पूर्वपक्षापरपक्षाविति वा वायुसोमस्य रक्षिता वायुमस्य रक्षितारमाह साहचर्यात् रसहरणाद्वा! समानां संवत्सराणां मास आकृतिः सोमो रूपविशेषैरोषधिश्चंद्रमा ना । (*yatvā deva prapibaṃti tata āpyāyase punariti nārāśaṃsānabhipretya pūrvapakṣāparapakṣāviti vā vāyusomasya rakṣitā vāyumasya rakṣitāramāha sāhacaryāt rasaharaṇādvā! samānāṃ saṃvatsarāṇāṃ māsa ākṛtiḥ somo rūpaviśeṣairoṣadhiścaṃdramā nā |*) **NOTE**
+
+In the sense relating to the sacrifice (adhiyajña), Soma is drunk in the three libations by the officiating priests beginning with the sacrificer; by this, this Soma becomes the one who nourishes. Although Vāyu sucks the juice of the herbs, he does not suck the Soma juice, and so he is its protector. The rasāyana-makers who know Āyurveda say that this Soma undergoes increase of its leaves in accordance with the tithis of the bright fortnight of each month, and decrease of its leaves (apacita) in accordance with the tithis of the dark fortnight. In the adhidaivata view, the moon, who is denoted by the word सोम (*soma*), nourishes the gods by his phases in accordance with the respective tithis. The gods also drink the phases of the moon. The moon undergoes increase and decrease in the respective fortnights through his phases. Thus, in both ways, adhiyajña and adhidaivata, the similarity of the moon (his equal state) to the Soma creeper has been stated, identity with Soma has been established, and the Soma creeper has been praised as abundant and a great flood.
+
+Now one has to examine what Soma is. Soma is a particular kind of creeper. This Soma creeper is not now found anywhere in the country of India. It grows especially on plains, on river banks and on hills. The higher it grows, the more juice it gives. It grows even at a height of about 7000 feet. Therefore there are descriptions in many places in the Ṛgveda of Soma being brought from the mountains (Ṛ. Saṃ. 1-93-6 ; 3-48-2 ; 5-43-4 etc.). The mountain called Maujavata is famous for the Soma creeper. (Ṛ. Saṃ. 10 34-1; Nā. Saṃ. 3-61-1 ; Ni. 9-8 etc.) **NOTE** It is said here and there in the Ṛgveda (Ṛ. Saṃ. 8-7-29, 8-64-11, 9-65-22 etc.) that the Soma creeper is found on the shores of the lake called Śaryaṇāvat.
+
+### Printed p. 354
+
+And it is said that Soma is found also in the place called Arjīka (Ṛ. Saṃ. 8-7-29, 8-64-11 etc.), in the country called Pastā (Ṛ. Saṃ. 9-65-3), in the place where the five peoples, the Pañcajanas, live (Ṛ. Saṃ. 9.65-23, 9-92-3 etc.), and in the regions around the river called Suṣomā (Ṛ. Saṃ. 8.7-29, 8-64-11 etc.). Of the last, Suṣomā means su + soma = a place where good Soma is obtained; so this region may have received the name Suṣoma. Therefore it is understood that in the time of the Ṛgveda the Soma creeper grew abundantly on the plains and river banks of what is now the Punjab. Because the creeper that grows on the plains did not yield as much juice as the creeper that grows on the hills, they used to soak the creeper of the plains thoroughly in water and use it. (Ṛ. Saṃ. 9-63-4, 9-74-9 etc.).
+
+The stem of this creeper grows to a height of about 4 feet. Its stem is round and soft, of a reddish colour mixed with white, and about the thickness of a finger. The leaves are very few, white and small. Generally the leaves fall off. At the tip of the plant there is a cluster (like that of millet) with a few seeds. Its juice is whitish mixed with green. Though slightly sweet in taste, it turns sour if kept for a few days. When it grows near a big tree, it spreads and grows around the tree like a creeper. There are joints here and there. It can be broken easily.
+
+Here we shall briefly describe the procedure to be followed when preparing the Soma juice—
+
+The Soma creeper that grew on river banks and on the mountains was brought with great effort, or bought from those who brought it, and used in sacrifices. Even now the rite called सोमविक्रयण (*somavikrayaṇa*) is performed in sacrifices. After the Soma creeper has been brought, it is crushed with stones (ग्राव (*grāva*), अद्रि (*adri*)), pressed, strained through cloth, mixed as the occasion requires with curds, milk and flour, offered to the gods, and then drunk by the sacrificer and the priests. This preparation of the Soma juice takes place on the principal days of a sacrifice in the morning, at midday and in the evening. It is called अभिषवण (*abhiṣavaṇa*) or सवन (*savana*) (pressing out the juice). The pressing done in the evening is called the third pressing.
+
+The Soma creeper (the vines) is brown, ruddy (dull red), or of a red colour mixed with yellow. Because it has been said that the creeper that has grown very high on the mountains is excellent and that more juice can be extracted from it, they used to bring the Soma creeper from the mountains themselves wherever possible. Among such mountains the mountain called Mūjavata was famous. **NOTE** The tip of this Soma creeper
+
+### Printed p. 355
+
+is called by the name अंग (*aṃga*) (Ṛ. Saṃ. 1-168.3 ; 3.48.2 ; etc.), the tip with shoots is called वक्षणा (*vakṣaṇā*) (Ṛ. Saṃ. 8-1-17) and वाण (*vāṇa*) (Ṛ. Saṃ. 4.28-9 ; 9.50-1), the Soma juice is called अंधः (*aṃdhaḥ*) (Ṛ. Saṃ. 1-28-7 ; 3-48-1 ; 4.16-1), and the stalk (vine) of the Soma creeper is called पर्वन् (*parvan*) (Ṛ. Saṃ. 1-9-1). **NOTE**
+
+**The method of preparing the Soma juice**
+
+They remove the leaves from the Soma creeper or vine, put it in a mortar and crush it with a stone. If the creeper is not fresh, they soak it in water for a day or two, and when it has become soft they extract the juice. The mortar in which the Soma creeper is crushed is called उलूखल (*ulūkhala*). It is generally made of stone; it is also sometimes made of wood. The stone that is put into the mortar and pounded from above has the names ग्रावा (*grāvā*) (Ṛ. Saṃ. 1-83-6 ; 1-135-7) and अद्रि (*adri*) (Ṛ. Saṃ. 1-130-2 ; 1-135-5 ; 1-137-1). It may be supposed that the उलूखल (*ulūkhala*) was a stone with only a slight hollow in the middle, like the mortar we use now. This mortar called उलूखल (*ulūkhala*) was used for pounding grain with a pestle (मुसल (*musala*)).
+
+The method of crushing the Soma creeper and preparing the Soma juice is nowhere described in detail in the Ṛgveda. The method can be inferred from some sentences stated here and there. The stones that crush the Soma creepers have the names ग्राव (*grāva*) and अद्रि (*adri*). In some contexts wooden boards, well known by the name अधिषवण फलक (*adhiṣavaṇa phalaka*), are also used. If the creeper is fresh, the juice comes out in plenty. If not, that is, if some days have passed since it was cut and brought, they soak it in water and afterwards place it on a skin. Then they crush it with stones and extract the juice. Because the juice extracted in this way has bits of the creeper's bark, fragments and the like mixed in it, they strain that juice either through the gaps between the fingers of the hands, or through a strainer or cloth called पवित्र (*pavitra*), or through sheep's wool. The juice strained in this way is clear, without impurities. It has the names शुक्र (*śukra*) and शुचि (*śuci*). In appearance this juice is dull red or of a red colour mixed with yellow. It is the custom to offer to Indra and to Vāyu pure Soma juice, that is, juice not mixed with आशिर (*āśira*) substances. For the other gods they sometimes use it mixed with milk, curds and grain flour. The Soma juice mixed with these has respectively the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*).
+
 ---
 
-**Progress note:** Done through printed p. 349. Introduction to Sūryā-sūkta (pp. 343-348), Sūkta 85 intro, Ṛk 1 Saṃhitā
+**Progress note:** Done through printed p. 355. Ṛk 1 Pada, bhāṣya, commentary; Special Topics on Soma and its preparation (pp. 350-355)
