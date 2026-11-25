@@ -19,6 +19,9 @@ Translated by `api_front.py 30 3 253 preface` (one request, $0.119, checks PASS,
 ## Plan (free)
 `api_batch.py plan 30 --windows 260`: 212 windows, about 1285 pages, 4,855,941 input tokens, estimate input $4.86 + output $12.14–29.14. Vol 23's real cost was about 74% of the low end of its estimate, so about $12–13 is expected. Not submitted: waiting for the user's yes (ceiling $20, user, Nov 25).
 
+## Batch
+Submitted Nov 25 2026 (user's yes, ceiling $20): ONE batch of 212 windows, id in `vol30/work/api_batch.json`. Next: `api_batch.py status 30` until ended, then `collect 30`.
+
 ## Open items
 1. (user) yes to submit; budget $20 stated Nov 25.
 2. (dispatcher) after `collect`: finishing checklist (HANDBOOK §11).
