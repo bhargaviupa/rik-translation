@@ -20694,6 +20694,191 @@ What is the use of not striving for liberation by worshipping that ancient Supre
 
 इत्येवमुक्तः पुरुषस्य विष्णोर्चाविधिः विष्णु कुमारनाम्मा । (*ityevamuktaḥ puruṣasya viṣṇorcāvidhiḥ viṣṇu kumāranāmmā |*) **GLOSS**
 
+### Printed p. 716
+
+मुक्त्यैकमार्गप्रतिबोधनाय दृष्ट्वा विधानं त्वह नारदोक्तं ॥ (*muktyaikamārgapratibodhanāya dṛṣṭvā vidhānaṃ tvaha nāradoktaṃ ‖*)
+
+Following this procedure of worship, which was spoken by the great seer Nārada, and which is a means to the path of liberation, one named Viṣṇu Kumāra has thus set out the order of worship of the Supreme Person, the venerable Viṣṇu (Nārāyaṇa).
+
+Here ends the introduction relating to the Puruṣa-sūkta in the Ṛgvidhāna spoken by Śaunaka.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रशीर्षेति षोडशर्चं षष्ठं सूक्तं । नारायणो नामर्षिरंत्या त्रिष्टुप्
+> शिष्टा अनुष्टुभः । अव्यक्तमहदादिविलक्षणश्चेतनो यः पुरुषः । वे. सू. १-४-१ ।
+> पुरुषान्न परं किंचित् । क. उ. ३-११ । इत्यादिश्रुतिषु प्रसिद्धः स देवता तथा
+> चानुक्रांतं । सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबंतं त्विति ॥
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सहस्रशीर्षा (*sahasraśīrṣā*) is the sixth sūkta and has sixteen Ṛks. Its seer is the seer named Nārāyaṇa. The last Ṛk is in the Triṣṭubh metre; the remaining Ṛks are in Anuṣṭubh. Its deity is the Puruṣa, the conscious being who is distinct from the unmanifest, the Mahat and the rest (Ve. Sū. 1-4-1), and who is known in the śruti texts, for example in "There is nothing beyond the Puruṣa" (Ka. U. 3-11). **NOTE** Sāyaṇa adds that the Anukramaṇī lists it accordingly: the sūkta Sahasraśīrṣā, sixteen Ṛks, seer Nārāyaṇa, the Puruṣa as deity, Anuṣṭubh, with the last in Triṣṭubh. The application in ritual has been stated earlier.
+
+The Kannada Anuvāda: This sūkta called सहस्रशीर्षा (*sahasraśīrṣā*) is the sixth sūkta in the seventh Anuvāka. It has sixteen Ṛks. The seer of this sūkta is the seer named Nārāyaṇa. The last Ṛk of this sūkta is in the Triṣṭubh metre and the remaining Ṛks are in the Anuṣṭubh metre. The deity of this sūkta is the Supreme Person himself, who is distinguished by qualities such as the unmanifest and the Mahat (Vedāntasūtra 1-4-1), and who is famed in the śruti passages, in the sense that there is no other thing than this Puruṣa (Ka. U. 3-11). In the Anukramaṇī it is said सहस्रशीर्षा षोळश नारायणः पौरुषमानुष्टुभं त्रिष्टुबंतं तु (*sahasraśīrṣā ṣoḷaśa nārāyaṇaḥ pauruṣamānuṣṭubhaṃ triṣṭubaṃtaṃ tu*). The application in ritual has been stated before.
+
+- Maṇḍala 10; Anuvāka 7; Sūkta 90.
+- Aṣṭaka 8; Adhyāya 4; Vargas 13, 18, 19.
+- Number of Ṛks in the sūkta: 16.
+- Seer: Nārāyaṇa.
+- Deity: Puruṣa.
+- Metre: Ṛks 1-15, Anuṣṭubh; Ṛk 16, Triṣṭubh.
+
+### Printed p. 717
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑तीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् ।  
+> स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशांगु॒लं ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रशीर्षा ! पुरुषः । सहस्रअक्षः । सहस्रपात् ।  
+> सः । भूमिं । विश्वतः । वृत्वा । अति । अतिष्ठत् । दश अंगुलं ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सर्वप्राणिसमष्टिरूपो ब्रह्मांडदेहो विराडाख्यो यः पुरुषः सोऽयं
+> सहस्रशीर्षा । सहस्रशब्दस्योपलक्षणत्वादनंतैः शिरोभिर्युक्त इत्यर्थः । यानि सर्वप्राणिनां शिरांसि तानि सर्वाणि तद्देहांतःपातित्वात्तदीयान्येवेति सहस्रशीर्षत्वं ।
+> एवं सहस्राक्षित्वं सहस्रपादत्वं च । स पुरुषो भूमिं ब्रह्मांडगोलकरूपां
+> विश्वतः सर्वतो वृत्वा परिवेष्ट दशांगुलं दशांगुलपरिमितं देशमत्यतिष्ठत् ।
+> अतिक्रम्म व्यवस्थितः । दशांगुलमित्युपलक्षणं । ब्रह्मांडाद्बहिरपि सर्वतो व्याप्यावस्थित इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+The Puruṣa who is the aggregate of all beings, whose body is the cosmic egg and who is called Virāṭ, is "of a thousand heads". Since the word for thousand is only indicative, the meaning is that he has endless heads. All the heads of all beings are his own, because they fall within his body; this is his thousand-headedness, and in the same way his thousand eyes and thousand feet. That Puruṣa, having encompassed on all sides the earth, which is the globe of the cosmic egg, stood beyond it, having gone past a space measured by ten fingers. The measure of ten fingers is only indicative: the meaning is that he stands pervading everywhere, even outside the cosmic egg.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुषः (*puruṣaḥ*)—the primal Puruṣa
+- सहस्रशीर्षा (*sahasraśīrṣā*)—he who is joined with countless heads
+- सहस्राक्षः (*sahasrākṣaḥ*)—he who has countless eyes
+- सहस्रपात् (*sahasrapāt*)—he who has countless feet
+- सः (*saḥ*)—this Puruṣa
+- भूमिं (*bhūmiṃ*)—the earth in the form of the globe of the cosmic egg (the whole universe)
+- विश्वतः (*viśvataḥ*)—all around
+- वृत्वा (*vṛtvā*)—having encompassed
+- दशांगुलं (*daśāṃgulaṃ*)—by ten fingers beyond that
+- अत्यतिष्ठत् (*atyatiṣṭhat*)—he stands, having surpassed it
+
+##### भावार्थ (Bhāvārtha)
+
+The primal Puruṣa has countless heads, and has countless eyes and feet. This Virāṭ Puruṣa, having encompassed the universe, which has the form of the cosmic egg, from all directions, stands established, having surpassed it by ten fingers.
+
+### Printed p. 718
+
+##### English translation
+Purusha, who has a thousand heads, a thousand eyes, a thousand feet, investing the earth in all directions, exceeds (it by a space) measuring ten fingers.
+
+##### विशेषविषयगळु (Special Topics)
+
+By such epithets as सहस्रशीर्षा पुरुषः (*sahasraśīrṣā puruṣaḥ*) the Supreme Person is praised and described in this Ṛk. It is said that the Puruṣa has a thousand heads, a thousand eyes and a thousand feet. Here the word thousand does not mean merely a thousand; thousand means endless in number. सहस्रशब्दस्कोपलक्षणत्पादनंतैः शिरोभिः युक्तः । यानि सर्वप्राणिनां शिरांसि तानि सर्वाणि तद्देहांतःपातित्वात्तदीयान्येव इति सहस्रशीर्षत्वं । (*sahasraśabdaskopalakṣaṇatpādanaṃtaiḥ śirobhiḥ yuktaḥ | yāni sarvaprāṇināṃ śirāṃsi tāni sarvāṇi taddehāṃtaḥpātitvāttadīyānyeva iti sahasraśīrṣatvaṃ |*) The Lord is the inner controller in all beings. Therefore the heads of all the endless beings are the Lord's own heads. Therefore the word thousand here gives the sense of endless. So Sāyaṇa has explained. Head, eye and foot indicate the Lord's will, seeing, and activity in the form of movement. This is described in the Śvetāśvatara Upaniṣad thus.
+
+विश्वतश्चक्षुरुत विश्वतो मुखो विश्वतो हस्त उत विश्वतस्पात् । सं बाहुभ्यां धमति संपतत्रैर्दार्वाभूमी जनयन् देव एकः ॥ (*viśvataścakṣuruta viśvato mukho viśvato hasta uta viśvataspāt | saṃ bāhubhyāṃ dhamati saṃpatatrairdārvābhūmī janayan deva ekaḥ ‖*)
+
+(Prai. U. 3-3) **NOTE**
+
+The Supreme Lord has eyes extended everywhere and a head turned everywhere. Likewise, spreading his arms and his feet into thousands of regions, he gives life to the world. Therefore all the heads, eyes, arms and feet in the universe are his alone. He, the one without a second, is the maker of the whole world.
+
+सर्वाननशिरोग्रिवः सर्वभूतगुहाशयः । सर्वव्यापी स भगवांस्तस्मात् सर्वगतः शिवः ॥ (*sarvānanaśirogrivaḥ sarvabhūtaguhāśayaḥ | sarvavyāpī sa bhagavāṃstasmāt sarvagataḥ śivaḥ ‖*)
+
+(Kvi. U. 3-11) **NOTE**
+
+This all-pervading Supreme Lord, dwelling in the heart of all, makes the heads, the necks and all the faces of all his own. The Lord of countless heads is the one denoted here by the word Puruṣa.
+
+### Printed p. 719
+
+1) यत्पूर्वोऽस्मात्सर्वस्मात्सर्वान्पाप्मन औषत्तस्मात्परुषः (*yatpūrvo 'smātsarvasmātsarvānpāpmana auṣattasmātparuṣaḥ*) (Bṛ. U. 1-4.1)
+
+2) अस्यां पुरि शेते तस्मात्सुरुषः (*asyāṃ puri śete tasmātsuruṣaḥ*) (Śa. Brā. 13-6-2-1)
+
+By giving such etymologies, the sense of the word Puruṣa has been explained in the introduction. The word पूः (*pūḥ*) means body. The sense is that he is established in all bodies, those of gods, men, animals and the rest. Explaining this same matter, the Śvetāśvatara Upaniṣad describes him as एको देवः सर्वभूतेषु गूढः (*eko devaḥ sarvabhūteṣu gūḍhaḥ*) (Śve. U. 6-11) **NOTE**.
+
+Thirdly: पुर उषति प्रकाशयतीति पुरुषः! दाहप्रकाशयोरेकाधिकरणत्वात् । (*pura uṣati prakāśayatīti puruṣaḥ! dāhaprakāśayorekādhikaraṇatvāt |*). The word उषति (*uṣati*) has been explained earlier as "burns (sin)". Since the meaning "illuminates" is also possible for this word, in the present context the etymology can also be given that he is called Puruṣa because he illuminates the whole body that has the form of the world. For burning and illuminating have one and the same locus. **NOTE** For this very reason the epithet सहस्राक्षः (*sahasrākṣaḥ*) also is found. How? Thus—
+
+य एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते । तदेतदृचाभ्युक्तं । विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपंतं । सहस्ररश्मिः शतधा वर्तमानः प्राणः प्रजानामुदयत्येष सूर्यः ॥ ( (*ya eṣa vaiśvānaro viśvarūpaḥ prāṇo 'gnirudayate | tadetadṛcābhyuktaṃ | viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotirekaṃ tapaṃtaṃ | sahasraraśmiḥ śatadhā vartamānaḥ prāṇaḥ prajānāmudayatyeṣa sūryaḥ ‖ (*)
+
+(Praśna. 1-8) **NOTE**
+
+Agni, who is the Self of all, who has all forms and is the life of the world, rises. Those who know the truth know the Supreme Brahman, who has all the forms of the world, who is omniscient, of golden form, the highest refuge, the one light for the whole world, self-luminous. This Supreme Brahman, who shines in the form of fire and in the form of the sun, joined with countless rays, showing his own nature in many ways, shines as the life of all creatures. Therefore the word thousand denotes everything. How the sense "everything" belongs to the word thousand is shown thus—
+
+सहस्रस्य प्रमासि । सहस्रस्य प्रतिमासि सहस्रस्योन्मासि साहस्रोऽसि सहस्राय त्वेति सर्वं वै सहस्रं सर्वमसि सर्वस्मै त्वेत्येतत् ॥ (*sahasrasya pramāsi | sahasrasya pratimāsi sahasrasyonmāsi sāhasro 'si sahasrāya tveti sarvaṃ vai sahasraṃ sarvamasi sarvasmai tvetyetat ‖*)
+
+(Śa. Brā. 8-7-4-11)
+
+O Agni, you are one who has the measure of a thousand. You are the counterpart of a thousand and have a multiplier of a thousand. Thousand means everything. Therefore you alone are every measure and every counter-measure: thus the sense of the word thousand is explained. The matter described by the words विश्वतो वृत्ता (*viśvato vṛttā*) **NOTE**
+
+### Printed p. 720
+
+is also this very one. This same matter is explained in the Śvetāśvatara Upaniṣad thus—
+
+सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखं । सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ॥ (*sarvataḥ pāṇipādaṃ tatsarvato 'kṣiśiromukhaṃ | sarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati ‖*)
+
+(Śve. U. 3-16)
+
+The hands and feet of the Lord are spread everywhere. His eyes, head and faces are extended on every side. His ear too is all-pervading. This principle of the Lord stands pervading everything in the world. Such a Supreme Person not only pervades the whole world but has surpassed it. In अत्यतिष्ठद्दशांगुलं (*atyatiṣṭhaddaśāṃgulaṃ*) there is praise of the Lord, who is greater than the world and is the master of the whole world. In the present context it is most necessary to consider what दशांगुल (*daśāṃgula*) means in अत्यतिष्ठद्दशांगुलं (*atyatiṣṭhaddaśāṃgulaṃ*) and what the purport of अत्यतिष्ठत् (*atyatiṣṭhat*) is.
+
+दशांगुलपरिमितं देशमत्यतिष्ठदतिक्रम्य व्यवस्थितः । दशांगुलमित्युपलक्षणं । ब्रह्मांडाद्बहिरपि सर्वतो व्याप्यावस्थित इत्यर्थः । (*daśāṃgulaparimitaṃ deśamatyatiṣṭhadatikramya vyavasthitaḥ | daśāṃgulamityupalakṣaṇaṃ | brahmāṃḍādbahirapi sarvato vyāpyāvasthita ityarthaḥ |*)
+
+(Sā. Bhā.) **NOTE**
+
+He stands, having surpassed a region measured by ten fingers. The ten fingers are merely indicative. Sāyaṇa has explained that the purport is that he stands pervading everywhere, even beyond the cosmic egg. The commentary of Maṅgalācārya also gives the same purport.
+
+स एतादृशः परमेश्वरः ब्रह्मांडशरीरवान् भूमिं भूशब्दोपलक्षितभूर्भुवःस्वराज्यत्रैलोक्यमित्यर्थः । अत एव विश्वतः समंततः सर्वं जगदिति यावत् वृत्वा आवृत्य अधिष्ठाय । दशांगुलानि मायंते यस्मिन् कर्मणि तद्दशांगुलं अत्यतिष्ठत् अतिक्रम्य स्थितवान् । औपचारिकमिदं वचः परिमातुमशक्यत्वात् सर्वतोऽधिकं व्याप्य तिष्ठतीति भावः ॥ (*sa etādṛśaḥ parameśvaraḥ brahmāṃḍaśarīravān bhūmiṃ bhūśabdopalakṣitabhūrbhuvaḥsvarājyatrailokyamityarthaḥ | ata eva viśvataḥ samaṃtataḥ sarvaṃ jagaditi yāvat vṛtvā āvṛtya adhiṣṭhāya | daśāṃgulāni māyaṃte yasmin karmaṇi taddaśāṃgulaṃ atyatiṣṭhat atikramya sthitavān | aupacārikamidaṃ vacaḥ parimātumaśakyatvāt sarvato 'dhikaṃ vyāpya tiṣṭhatīti bhāvaḥ ‖*)
+
+By the word भूमिं (*bhūmiṃ*) the three worlds Bhūḥ, Bhuvaḥ and Svaḥ are intended. Therefore the purport that he pervades everything is consistent. The word दशांगुल (*daśāṃgula*) is only a figurative word. Since measuring is not possible, the use of this word merely indicates endlessness. Maṅgalācārya explains that the purport is that he stands beyond everything, even apart from the world. It is the opinion of Mahīdhara and Rāmānuja that दशांगुल (*daśāṃgula*) indicates the lotus of the heart. Whether this opinion is right needs to be examined here.
+
+### Printed p. 721
+
+What is the meaning of अत्यतिष्ठत् (*atyatiṣṭhat*)? One meaning is to stand having surpassed; another is, because he is greater than all, to exercise lordship over everything. How this second meaning is possible and what its basis is, one must see by noting in what sense its use has been made elsewhere.
+
+यो जनान् महिषा इवातितस्थौ पवीरवान् । उतापवीरवान् युधा ॥ (*yo janān mahiṣā ivātitasthau pavīravān | utāpavīravān yudhā ‖*)
+
+(Ṛ. Saṃ. 10-60-3)
+
+In this Ṛk, whose purport is that this king crushes his opponents and shows his power over them, the verb अतितस्थौ (*atitasthau*) means that (among the enemies) he throws down all and shows his authority over them. Likewise,
+
+प्र नू स मर्तः शवसा जना अति तस्थौ व ऊती मरुतो यमावत । अर्वद्भिर्वाजं भरते धना नृभिरापृच्छ्यं क्रतुमा क्षेति पुष्यति ॥ (*pra nū sa martaḥ śavasā janā ati tasthau va ūtī maruto yamāvata | arvadbhirvājaṃ bharate dhanā nṛbhirāpṛcchyaṃ kratumā kṣeti puṣyati ‖*)
+
+(Ṛ. Saṃ. 1-64-13)
+
+O Maruts, the man whom you protect with your protections surpasses other people by his valour and exerts his power over them: in this Ṛk too the same meaning is stated for the verb अतितस्थौ (*atitasthau*). In this sense this usage occurs not only in the Ṛk-saṃhitā but also in Brāhmaṇas such as the Śatapatha. For example—
+
+सायवस कं त्वं वैश्वानरं वेत्थेति दिवमेव राजन्निति होवाचोमिति होवाचैष वा अतिष्ठा वैश्वानर एतग्ं हि वै त्वमतिष्ठां वैश्वानरं वेत तस्मात्त्वग्ं समानानतितिष्ठसि यो वा एतमतिष्ठां वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वनायुरेति ॥ (*sāyavasa kaṃ tvaṃ vaiśvānaraṃ vettheti divameva rājanniti hovācomiti hovācaiṣa vā atiṣṭhā vaiśvānara etagṃ hi vai tvamatiṣṭhāṃ vaiśvānaraṃ veta tasmāttvagṃ samānānatitiṣṭhasi yo vā etamatiṣṭhāṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvanāyureti ‖*)
+
+(Śa. Brā. 10-6-1-9)
+
+"O Sāyavasa, whom do you know as Vaiśvānara?" In answer to this question he replied, "O king, I know Vaiśvānara as the world of heaven." It is true. That same Vaiśvānara is the lord of all; because you know the nature of that same Vaiśvānara, you too exercise authority over those equal to you. The one who knows this principle conquers death: thus for the word अतिष्ठाः (*atiṣṭhāḥ*) the same purport as above has been given.
+
+It has been said above that some hold the opinion that the word दशांगुल (*daśāṃgula*) indicates the heart. Whether this is right must now be examined.
+
+### Printed p. 722
+
+यद्वा नाभेः सकाशाद्दशांगुलमतिक्रम्य हृदि स्थितः। नाभित इति कुतो लभ्यते कतम आत्मा इत्युपक्रम्य सोऽयं विज्ञानमयः प्राणेषु हृद्यंतर्जोतिरिति श्रुतेः विज्ञानात्मनः हृद्यवस्थानं कर्मफलोपभोगाय ॥ (*yadvā nābheḥ sakāśāddaśāṃgulamatikramya hṛdi sthitaḥ| nābhita iti kuto labhyate katama ātmā ityupakramya so 'yaṃ vijñānamayaḥ prāṇeṣu hṛdyaṃtarjotiriti śruteḥ vijñānātmanaḥ hṛdyavasthānaṃ karmaphalopabhogāya ‖*)
+
+(Mahīdhara-bhāṣya)
+
+Beyond the measure of ten fingers from the navel, the Puruṣa is situated in the heart. On the authority of the śruti passage that this knowing Self is an inner light in the heart of beings, in order to enjoy the fruit of action, the sense "heart" must be stated here too: so the commentary of Mahīdhara Ācārya states. Following this same view, Rāmānujācārya too has stated the purport:
+
+नाभेरूर्ध्वं द्वादशांगुलमतिक्रम्यातिष्ठत् । हृत्पद्मे इति यावत् ॥ (*nābherūrdhvaṃ dvādaśāṃgulamatikramyātiṣṭhat | hṛtpadme iti yāvat ‖*)
+
+(Rāmānuja-bhāṣya)
+
+The Self is situated in the lotus of the heart, above the navel, beyond a measure of twelve fingers.
+
+But in the present context it seems not quite proper to say that दशांगुल (*daśāṃgula*) is a word indicating the heart. There are many reasons to reject the view that it indicates the heart. For example, in describing this Puruṣa who is situated in the heart, the word दशांगुल (*daśāṃgula*) is not always used. Ordinarily the usage आंगुष्ठ मात्रः (*āṃguṣṭha mātraḥ*) is found.
+
+अंगुष्ठमात्रः पुरुषः..................हृदये सन्निविष्टः । (*aṃguṣṭhamātraḥ puruṣaḥ..................hṛdaye sanniviṣṭaḥ |*)
+
+(Śau. U. 4-12; 6-17) **NOTE**
+
+This kind of description is the commoner. Moreover, the Puruṣa praised in the Puruṣa-sūkta is the all-pervading Puruṣa, not the Puruṣa who is within the heart. Since there are such descriptions as "the earth is his feet, the atmosphere his head, the sun his eye", this is a description of the Puruṣa who pervades the universe. Therefore, when it says अत्यतिष्ठत् (*atyatiṣṭhat*), the purport that, having pervaded from the earth the atmosphere, he surpassed that too, is natural, rather than that, having pervaded from the earth up to the heart, he surpassed the ten fingers. Support for this purport can be shown from a śruti passage. For example—
+
+मूर्धानमुपदिशन्नेष ना अतिष्ठा वैश्वानर इति............मुख्यमाकाशमुपदि. शन्नुवाचैष वै बहुला ॥ (*mūrdhānamupadiśanneṣa nā atiṣṭhā vaiśvānara iti............mukhyamākāśamupadi. śannuvācaiṣa vai bahulā ‖*) **GLOSS**
+
+(Śa. Brā. 10-6-1-11)
+
 ---
 
-**Progress note:** Done through printed p. 715. Puruṣa-sūkta phalaśruti: yoga, dhāraṇā, japa, homa, worship; p. 708-715
+**Progress note:** Done through printed p. 722. Puruṣa-sūkta 90 introduction end; Ṛk 1; special topics on sahasra, daśāṅgula, atyatiṣṭhat; pp. 716-722
