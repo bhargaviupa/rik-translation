@@ -13097,6 +13097,118 @@ Soma juice is prepared for Yama; ghee is offered to him (10-14-13, 14); and ther
 
 Vivasvant is said to be his father (10-14-5) and Saraṇu his mother (10-17-1). He is often called Vaivasvata (10-14-1; etc.). Since no one is superior to him, Yama is greater than Vivasvant (compare A. Ve. 18-2-32; 18-3-61, 62).
 
+### Printed p. 351
+In the dialogue of Yama and Yamī the two declare that they are children of a Gandharva and of the water-goddess (Apyā Yoṣā) (10-10-4). Yamī says that Yama alone is mortal (10-10-3). It is stated that Yama gave up his body and chose death itself (10-13-4). He went to the other world, showing the way to the many who would come after; the ancient Pitṛs too have gone there (10-14-1 **NOTE**, 2). He is the first of all mortals who have died (A. Ve. 18-3-13). **NOTE**. Here "mortals" must mean human beings; but in some other contexts the gods too are meant by the word *marta*. Since Yama was the first of the dead and is very ancient, it is natural that he should be called lord of them all. He has the epithets *viśpati* (lord of all who have settled) and "our father" (10-135-1). It is through Yama that all human beings later received the name "descendants of Vivasvān Āditya" (Tai. Saṃ. 6-5-6-2; Śa. Brā. 3-1-3-4; compare also Ṛ. Saṃ. 1-105-9). The "horse moving in the sky" given by Yama may be the place that Yama gives to those who are to become immortal (1-163-2; compare 1-83-5); in this way a connection between Yama and Āditya may be said to be stated in the Ṛgveda also.
+
+Death is Yama's path (1-38-5), and once (1-165-4; compare Mai. Saṃ. 2-5-6 and A. Ve. 6-28-31 and 6-93-1) he himself is called death. The fetters that Yama uses are likened to Varuṇa's noose (10-97-16). From such passages and from the characteristics of his messengers, Yama may seem terrible. Because the Atharvaveda and other Vedic narratives say that death and the sufferings after death are caused by Yama, Yama is regarded as the god of death. But even in the Purāṇas it is clear that hell is not Yama's only realm. In the other Saṃhitās too Yama is one of the list Antaka, Mṛtyu, Nirṛti (disease) (Vā. Saṃ. 39-13; A. Ve. 6-29-3; Mai. Saṃ. 2-5-6), and Mṛtyu is his messenger (A. Ve. 5-30-1 **NOTE**, 2; 18-2-27; etc.). It is said that Mṛtyu is lord of men and Yama lord of the departed (A. Ve. 5-24-13, 14), and that Sleep (the presiding goddess of sleep) comes from Yama's realm (A. Ve. 19-56-1).
+
+The word *yama* is also used in the sense "twin", ordinarily in the masculine or feminine dual; and the word is also used in the sense "rein" or "guide". Yama and Yamī are conceived as twins (10-10). In other works, where Yama is described as god of death, punisher of the wicked and so on, it is held that the word is derived from the root *yam* (to keep under control), but it may be said that the Vedas give no support at all for this.
+
+### Printed p. 352
+The deities who, according to the Nirukta's order of division, are sūkta-sharers, oblation-sharers and nipāta-sharers:
+
+(1) Sūkta-sharers
+
+Deities of the earthly region:
+अश्वः, शकुनिः, मंडूकाः, अक्षाः, ग्रावाणः, नाराशंसाः, रथः, दुंदुभिः, इषुधिः, हस्तघ्नः, अभिषवः धनुः ज्याः, इषुः, अश्वाजनी, उलूखलं, वृषभः, द्रुघणः, पितुः, नद्यः आपः, ओषधयः, रात्रिः, अरण्यानी, श्रद्धा, पृथिवी, अप्पा, उलूखलमुसले, हविर्धाने, द्यावा पृथिवी, विपाट्शुतुद्री, आर्त्र्णि, शुनासीरौ. (*aśvaḥ, śakuniḥ, maṃḍūkāḥ, akṣāḥ, grāvāṇaḥ, nārāśaṃsāḥ, rathaḥ, duṃdubhiḥ, iṣudhiḥ, hastaghnaḥ, abhiṣavaḥ dhanuḥ jyāḥ, iṣuḥ, aśvājanī, ulūkhalaṃ, vṛṣabhaḥ, drughaṇaḥ, pituḥ, nadyaḥ āpaḥ, oṣadhayaḥ, rātriḥ, araṇyānī, śraddhā, pṛthivī, appā, ulūkhalamusale, havirdhāne, dyāvā pṛthivī, vipāṭśutudrī, ārtrṇi, śunāsīrau.*) (33).
+
+Deities of the middle region:
+वेनः, असुनीतिः, ऋतः, इंदुः, अहिः, अहिर्बुध्न्यः, सुपर्णः, पुरूरवाः, सोमः चंद्रमाः, वैश्वानरः, धाता, मरुतः, रुद्राः, ऋभवः, अंगिरसः, पितरः, अथर्वाणः, भृग वः, राका, यमी, ऊर्वशी, पृथिवी, इंद्राणी, गौरी, गौः, धेनुः, अघ्न्या, अदितिः, परमा, वाक्, अनुमतिः पथ्या, स्वस्तिः, उषाः, इळा, रोदसि (*venaḥ, asunītiḥ, ṛtaḥ, iṃduḥ, ahiḥ, ahirbudhnyaḥ, suparṇaḥ, purūravāḥ, somaḥ caṃdramāḥ, vaiśvānaraḥ, dhātā, marutaḥ, rudrāḥ, ṛbhavaḥ, aṃgirasaḥ, pitaraḥ, atharvāṇaḥ, bhṛga vaḥ, rākā, yamī, ūrvaśī, pṛthivī, iṃdrāṇī, gaurī, gauḥ, dhenuḥ, aghnyā, aditiḥ, paramā, vāk, anumatiḥ pathyā, svastiḥ, uṣāḥ, iḷā, rodasi*) (37).
+
+Deities of the heavenly region (printed as *antarikṣa*):
+उषाः, सूर्यः, वृषाकपायी, सरण्यः, सविता, भगः, सूर्या, पूषा, विष्णुः, वरुणः केशी, केशिनः वृषाकपिः, सप्तर्षयः, देवः, साध्याः, वाजिनः, देवपत्न्यः (*uṣāḥ, sūryaḥ, vṛṣākapāyī, saraṇyaḥ, savitā, bhagaḥ, sūryā, pūṣā, viṣṇuḥ, varuṇaḥ keśī, keśinaḥ vṛṣākapiḥ, saptarṣayaḥ, devaḥ, sādhyāḥ, vājinaḥ, devapatnyaḥ*) (18).
+
+(2) Oblation-sharers
+
+Deities of the earthly region:
+अग्निः, द्रविणोदाः, इध्मः, तनूनपात्, नराशंसः, इळः, बर्हिः, द्वारः, उषासानक्ता, दैव्याहोतारा, तिस्रोदेवीः, त्वष्टा, वनस्पतिः, स्वाहाकृतयः, अग्नायी, देवीजोष्ट्री, देवी ऊर्जाहुती. (*agniḥ, draviṇodāḥ, idhmaḥ, tanūnapāt, narāśaṃsaḥ, iḷaḥ, barhiḥ, dvāraḥ, uṣāsānaktā, daivyāhotārā, tisrodevīḥ, tvaṣṭā, vanaspatiḥ, svāhākṛtayaḥ, agnāyī, devījoṣṭrī, devī ūrjāhutī.*) (17).
+
+Deities of the middle region:
+वायुः, वरुणः, रुद्रः, इंद्रः, पर्जन्यः, ब्रह्मणस्पतिः, क्षेत्रस्य पतिः, वास्तोष्पतिः, वाच स्पतिः, अपांनपात्, यमः, मित्रः, कः, सरस्वान्, विश्वकर्मा, तार्क्ष्यः, मन्युः, दधिक्रा, सविता, त्वष्टा, वातः, अग्निः, प्रजापतिः, सरस्वती, सिनीवाली, कुहूः, शैन, मृत्यु, सोम (*vāyuḥ, varuṇaḥ, rudraḥ, iṃdraḥ, parjanyaḥ, brahmaṇaspatiḥ, kṣetrasya patiḥ, vāstoṣpatiḥ, vāca spatiḥ, apāṃnapāt, yamaḥ, mitraḥ, kaḥ, sarasvān, viśvakarmā, tārkṣyaḥ, manyuḥ, dadhikrā, savitā, tvaṣṭā, vātaḥ, agniḥ, prajāpatiḥ, sarasvatī, sinīvālī, kuhūḥ, śaina, mṛtyu, soma*) (29).
+
+Deities of the heavenly region:
+अश्विन्, यमः, विश्वेदेवाः, आदित्याः, हविः, वसवः (*aśvin, yamaḥ, viśvedevāḥ, ādityāḥ, haviḥ, vasavaḥ*).
+
+### Printed p. 353
+(3) Nipāta-sharers (printed *nisāta*)
+
+a) जातवेदाः, वैश्वानरः (*jātavedāḥ, vaiśvānaraḥ*).
+
+b) विधाता, आप्त्यः (*vidhātā, āptyaḥ*),
+
+c) त्वष्टा, वैश्वनरः, पृथिवी, समुद्रः, अथर्वा, मनुः, दध्यंच्, अज एकपात् (*tvaṣṭā, vaiśvanaraḥ, pṛthivī, samudraḥ, atharvā, manuḥ, dadhyaṃc, aja ekapāt*).
+
+The Bṛhaddevatā, showing the division of the deities as those of the uktamantra and as oblation-sharers, states it thus:
+
+> सप्तर्षयो वसवश्चापि देवा अथर्वाणो भृगवः सोमसूर्याः ।
+> पथ्या स्वस्ति रोदसी चोक्तमंत्रे कुहूर्गुंगूरदितिर्धेनुरघ्न्या ॥
+> असुनीतिरिळा चाप्त्या विधातानुमतिर्ह या ।
+> अंगिरोभिः सहैताः स्युरुक्तमंत्राश्च देवताः ॥
+
+That is: the seven sages, the Vasus, the gods, the Atharvans, the Bhṛgus, Soma, Sūrya, Sūrā, Pathyā, Svastī, Rodasī, Kuhū, Gungū, Aditi, Dhenu, Aghnyā, Asunīti, Iḷā, Āptyā, Anumati and the Aṅgirases.
+
+> वैश्वानरो हि सुपर्णो विवस्वान् प्रजापतिर्दौः सुधन्वा नगोह्यः ।
+> अपांनपादरमा वातजूतिरिळस्पतिश्चा पि रथस्पतिश्च ॥
+> ऋभवः पर्जन्यः पर्वता ग्नाश्च दक्षो भगो देवपत्नीर्दितश्च ।
+> आदित्या रुद्राः पितरोऽथ साध्या निपातिनो वैश्वदेवेषु सर्वे ॥
+
+Vaiśvānara, Suparṇa, Vivasvān and the like are oblation-sharers. The nipāta-sharers too are included here.
+
+**NOTE**
+
+The dialogue between Yama and Yamī, held for the sake of sexual union.
+
+In this dialogue the separate explanation of the words and the order of construction are not set out in difficult words; only the main substance of the conversation is given:
+
+(1) Yamī speaks to Yama: O Yama, this island in the midst of the sea, though wide, is uninhabited, that is, a secret place. Since the time in the womb, that is, since our birth, we two have grown up together and are friends. Therefore I now, casting off the shame natural to a woman
+
+### Printed p. 354
+wish to enter with you into the union natural between woman and man, that is, sexual union. As a result of the union, may the Creator Prajāpati cause a conception in me, so that a son endowed with all good qualities, born to us both, may be born in my womb.
+
+(2) Yama: O Yamī, although I have grown up with you since the womb and am friendly with you, I do not wish with you the union fitting between woman and man. We two are of one womb, that is, born and grown in the womb of one mother. In many respects we have like qualities. But since you are my sister, I do not desire intercourse with you. For the gods, sons of Prajāpati or Brahmā, heroes and dwellers in heaven, have declared this act, namely sexual union of brother and sister, to be forbidden.
+
+(3) Yamī: O Yama, never think so. There are many examples of even the gods being attached to unions declared forbidden in the śāstras and the like. Did not Prajāpati, the Creator, himself become attached to his own daughter and enjoy union with her? The cause of all this is our mind. I love you wholeheartedly, and there is no doubt that you too love me. Therefore, as Prajāpati formerly had union with his daughter, you too enter me, that is, have union with me as my husband and give me pleasure.
+
+(4) Yama: O Yamī, what the all-powerful Prajāpati did formerly we cannot do now. Until now we two have spoken only truth and have followed the path of right. We have done no forbidden act such as intercourse with a forbidden woman. Āditya, who dwells in the sky, and his wife the goddess Saraṇyū are our father and mother. Can we, sons of such parents, revered by the world, commit the forbidden act of intercourse with a forbidden woman? The relation between us is the excellent relation proper between brother and sister, not the relation of love proper between husband and wife.
+
+(5-7) Yamī: O Yama, Tvaṣṭṛ Prajāpati, who gives to all living beings their natural forms and the like and thus regulates them, made us two grow in one womb and ordained from the time in the womb that we two should be husband and wife. No one is able to transgress this command, which is the ordinance of this all-powerful Prajāpati. Therefore, in accordance with Prajāpati's ordinance, let us live as husband and wife and enjoy pleasure in union. Heaven and Earth, the parents of the whole world, also know this relation of husband and wife that arose for us in our mother's womb.
+
+### Printed p. 355
+(6) Who will learn of the union of this first day, taking place today? This is a secret place. No one is here. Who will see our union taking place here? And how would it become known to others? The days and nights (time), the abode of Mitra and Varuṇa, are very wide; and for all the sinful and meritorious acts performed by human and other beings, the power to grant hell or heaven according to each one's deed belongs to you, Yama the king. Why should you, who have such power, be afraid? What will you say in this matter?
+
+(7) O Yama, let desire for me arise in you. Lying together on one bed, let us enjoy the pleasure of union like husband and wife. Then, as the duty a wife must follow, I, eager for love-making, will offer my body to you with the greatest love. Afterwards, as the two wheels of a chariot carry the chariot by one and the same motion, let us two, enjoying pleasure and delight like husband and wife, fulfil dharma, artha and kāma.
+
+(8-10) Yama: O Yamī, in this world too, spies appointed by the gods go about watching the good and bad deeds of all beings by day and night. They move about without rest even for a moment. They do not close their eyes even for a minute. They surely see the good and bad deeds we do. Therefore, O woman intent on sinful deeds, do not henceforth torment me with your shameful talk. Go far away. Unite with another man who will help you in your sinful deed, and, as you say, fulfil dharma, artha and kāma like the wheels of a chariot.
+
+(9) May the sacrificer who performs sacrifice at night and by day offer Yama his share of the oblation in the sacrifice. May the Sun rise each day for the very satisfaction of Yama. May Day and Night, kin to each other, together with Heaven and Earth, co-operate for Yama's happiness. Let this Yamī choose another man, not her brother.
+
+(10) O Yamī, a time will come when sisters will choose their own brothers and make them their husbands. O beautiful one, therefore give up desiring me and accept as husband another handsome man, different from me. Making your arm the pillow for the man who fulfils your desire, at the time of lying down, sport with him as you wish and give him pleasure.
+
+(11) Yamī: O Yama, when there is a brother, and his sister, fallen into trouble, laments like one without protector, is a brother who pays no heed to it truly a brother? In the same way,
+
+### Printed p. 356
+is a sister who, having a brother, does not relieve his sorrow truly a sister? Never. Overcome by desire and tormented by it, I am entreating you in many ways for satisfaction of my desire. Join your body with mine and enjoy pleasure in union.
+
+(12) Yama: O Yamī, I do not wish, as you say, to join my body with yours and have union with you. If a brother becomes attached to his own younger sister and has union with her, good people who know proper conduct call him a great sinner. Therefore, O beautiful one, leave me and enjoy the pleasures and delights of union with another handsome young man suitable for you. This Yama, your brother, does not wish to have union with you.
+
+(13) Yamī: O Yama, you are very weak (foolish). This is very hard. None of us can understand your mind, what is in your mind. As a horse clasps the rope that binds it, and as creepers encircle and embrace a tree, how shall I bear to see another woman embrace you, the beautiful one, with love?
+
+(14) Yama: O Yamī, leave me and embrace another man. Let him too embrace you. As a creeper clasps the tree that is its support, may you two embrace each other and be happy. Act according to that man's wish. Let that man too, acting according to your mind, enjoy the pleasure of union with you, fair of limb.
+
+Regarding the muttering (japa) of this sūkta, the great sage Śaunaka in the work called Ṛgvidhāna has said as follows:
+
+> उपतिष्ठेत राजानं यमं सूक्तेन वै द्विजः ।
+
+The twice-born should pray to Yama Dharmarāja reciting this sūkta. Then, in both the bright and dark fortnights, on the eighth and fourteenth tithis, he should perform a homa with mantras, according to the sthālīpāka procedure, in the consecrated fire, addressed to Yama.
+
+> अष्टम्यां च चतुर्दश्यां यजेत हविषा यमं ॥
+
+**NOTE**
+
+> परेयिवांसमेतत्तूक्तमत्र प्रयोजयेत् ॥ ३६ ॥
+> पुरायुषः प्रमीयेत न जातु स कथंचन ।
+> प्रीयतेऽस्य यमो राजा स्मृतिं चांते प्रयच्छति ॥ ३७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 350. pp. 344-350 (batch API)
+**Progress note:** Done through printed p. 356. pp. 351-356 (batch API)
