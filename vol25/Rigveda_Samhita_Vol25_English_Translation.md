@@ -208,6 +208,248 @@ I invoke (Indra) the lord of that might which subdues all enemies and bows to no
 
 On the second day of the sacrifices called Pṛṣṭhya and Abhiplava-ṣaḍaha, the three ṛks beginning विश्वानरस्य (*viśvānarasya*) (ṛks 4-6 of this sūkta), at the time of the recitation **NOTE** of the Marutvatīya śastra mantras, as the pratipa
 
+### Printed p. 7
+
+that these are to be recited as a tṛca is explained by the sūtra विश्वानरस्य वनस्पतिमिंद्र इत्योमुपा एक इति मरुत्वतीयस्य प्रदिपदनुचरौ (*viśvānarasya vanaspatimiṃdra ityomupā eka iti marutvatīyasya pradipadanucarau*) of the Āśvalāyana Śrauta Sūtra (Ā. 7. 6 **NOTE**).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भिष्ट॑ये स॒दावृ॑धं॒ स्व॑र्मीळ्हेषु॒ यं नरः॑ ।  
+> नाना॒ हवं॑त ऊ॒तये॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभिष्टये । सदाऽवृधम् । स्वःऽमीळ्हेषु । यम् । नरः ।  
+> नाना । हवंते । ऊतये ॥५
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमानाः युष्माकम् अभिष्टये साहाय्यार्थमभिगमनायाभिष्टये वा सदावृधं सर्वदा वर्धयंतं सेवकान् स्वयं सर्वदा वर्धमानं वा हुव इति शेषः । यं स्वर्मीळ्हेषु संग्रामेषु नरः नेतारो मनुष्याः नाना बहुप्रकारं हवंते आह्वयंति ऊतये रक्षार्थं तं हुव इति शेषः ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+O sacrificers, I call Indra for your help, that is, for his approaching to aid you; he who always increases his servants, or who himself always grows. He whom men, the leaders, in battles call upon in many ways for protection: him I call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers) यं (*yaṃ*)—which Indra
+- स्वर्निर्ह्लेषु (*svarnirhleṣu*)—in battles **NOTE**
+- नरः (*naraḥ*)—men
+- नाना (*nānā*)—in many ways
+- हवंते (*havaṃte*)—call, such a one
+- सदावृधं (*sadāvṛdhaṃ*)—who always makes his devotees grow, or who always grows himself; that Indra
+- अभिष्टये (*abhiṣṭaye*)—for the fulfilment of desires
+- ऊतये (*ūtaye*)—for protection (let us call with prayer)
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, let us call with prayer, for the fulfilment of our desires and for protection, that Indra whom men in battles call in many ways, who always makes his devotees grow or himself always grows.
+
+### Printed p. 8
+
+##### English translation
+(I invoke him) to come to our help, whose might ever waxes more and more,—to whom men appeal for aid in various ways in battles.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रोमा॑त्र॒मृची॑षम॒मिंद्र॑मु॒ग्रं सु॒राध॑सम् ।  
+> ईशा॑नं चि॒द्वसू॑नाम् ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परःऽमात्रम् । ऋचीषमम् । इंद्रम् । उग्रम् । सुऽराधसम् ।  
+> ईशानम् । चित् । वसूनाम् ॥६
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परोमात्रम् । परा मात्रा यस्य तादृशम् । अथवा मीयत इति मात्रं दूरदेशः । ततः परस्ताद्वर्तमानमपरिमितस्वरूपम् । तथापि ऋचीषमम् ऋचा स्तुत्या समम् । यद्यप्यपरिच्छिन्नः तथापि स्तुतिर्यावन्मात्रं विषयीकरोति तत्सम इत्यर्थः । तदेवाह। इंद्रं परमैश्वर्ययोगादिच्छानुकुलस्वरूपम् उग्रम् उद्गूर्णबलं सुराधसम् । राध इति धननाम । शोभनधनं शोभनान्नं वा ईशानं चित् ईश्वरं च । केषाम् । वसूनाम् अस्मभ्यं प्रदेयानां गवादिधनानाम् । एवंमहानुभावमिंद्रं हुव इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Indra is परोमात्रम् (*paromātram*): one whose measure is beyond, or else मात्र (*mātra*) is that which is measured, a distant place, and he is what lies beyond it, of unlimited nature. Yet he is ऋचीषमम् (*ṛcīṣamam*), equal to the ṛk, the praise: though unlimited, he is equal to as much as the praise can take as its object. He is Indra, fierce, of uplifted strength, सुराधसम् (*surādhasam*), one of excellent wealth (राध (*rādha*) is a name for wealth) or of excellent food, and the lord of the treasures such as cattle that are to be given to us. Such a glorious Indra I call.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परोमात्रं (*paromātraṃ*)—who is beyond measure
+- ऋचीषमं (*ṛcīṣamaṃ*)—who is worthy of the best praise
+- उग्रं (*ugraṃ*)—who has exceeding strength
+- सुराधसं (*surādhasaṃ*)—who has excellent wealth
+- ईशानं चित् (*īśānaṃ cit*)—who is the lord of the whole universe
+- इंद्रं (*iṃdraṃ*)—Indra
+- वसूनां (*vasūnāṃ*)—for the sake of wealth (let us call with prayer)
+
+##### भावार्थ (Bhāvārtha)
+
+Let us call with prayer, for the sake of wealth, Indra who is beyond measure, worthy of the best praise, of exceeding strength, of excellent wealth, and lord of the whole universe.
+
+### Printed p. 9
+
+##### English translation
+(I invoke) Indra, the unlimited, worthy of praise, the mighty, possessing excellent wealth, the lord of treasures (for his votaries).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तंत॒मिद्राध॑से म॒ह इंद्रं॑ चोदामि पी॒तये॑ ।  
+> यः पू॒र्व्यामनु॑ष्टुति॒मीशे॑ कृष्टी॒नां नृ॒तुः ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम्ऽतम् । इत् । राधसे । महे । इंद्रम् । चोदामि । पीतये ।  
+> यः । पूर्व्याम् । अनुऽस्तुतिम् । ईशे । कृष्टीनाम् । नृतुः ॥७
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तृतीयेऽहनि मरुत्वतीये ‘तंतमित्' इति प्रतिपत्तृचः । सूत्रितं च- ‘ तंतमिद्राधसे महे त्रय इंद्रस्य सोमाः' (आश्व. श्रौ. ७. १०) इति ॥
+> तंतमित् तमेव इंद्रम् । सर्वेष्वपि यागकालेषु तमेवेंद्रमित्यर्थः। तं प्रति चोदामि प्रेरयामि स्तुतिं पीतये सोमपानाय । ततः को लाभ इति उच्यते । महे महते राधसे धनाय प्रभूतधनलाभार्थम् । यः नृतुः फलस्य नेता देवः पूर्व्यां पूर्वे भवां यज्ञमुखस्थाम् अनुष्टुतिम् अनुक्रमेण क्रियमाणां स्तुतिं कृष्टीनां मनुष्याणामृत्विजां संबंधिनीम् ईशे ईष्टे श्रोतुं तं चोदामीति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+On the third day, in the Marutvatīya, the ṛk तंतमित् (*taṃtamit*) is the pratipat tṛca, as the sūtra states: तंतमिद्राधसे महे त्रय इंद्रस्य सोमाः (*taṃtamidrādhase mahe traya iṃdrasya somāḥ*) (Āśvalāyana Śrauta Sūtra 7. 10). तंतमित् (*taṃtamit*) means that very Indra, at all times of sacrifice. I direct praise to him that he may drink the Soma. What is the gain? It is for great wealth, for the obtaining of abundant riches. He is नृतुः (*nṛtuḥ*), the god who leads to the fruit, and he rules, that is, is able to hear, the praise offered in due order, the foremost, standing at the head of the sacrifice, belonging to men, the priests. Him I urge.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृतुः (*nṛtuḥ*)—who accomplishes the fruit
+- यः (*yaḥ*)—which Indra
+- कृष्टीनां (*kṛṣṭīnāṃ*)—composed by priests and others
+- पूर्व्यं (*pūrvyaṃ*)—foremost in the sacrifice
+- अनुष्टुतिं (*anuṣṭutiṃ*)—recited in due order, such a praise
+- ईशे (*īśe*)—is able to hear
+- तं तमित् इंद्रं (*taṃ tamit iṃdraṃ*)—that same Indra
+- महे (*mahe*)—great
+- राधसे (*rādhase*)—(to me) for the gain of wealth
+- पीतये (*pītaye*)—to drink the Soma
+- चोदामि (*codāmi*)—I urge
+
+### Printed p. 10
+
+##### भावार्थ (Bhāvārtha)
+
+I urge that same Indra, who accomplishes the fruit and is able to hear the praise composed by priests and others, foremost in the sacrifice and recited in due order, to drink the Soma, that great wealth may come to me.
+
+##### English translation
+To him, to him, Indra, I direct my praise, that he may quaff the Soma to my great gain,—to him, the bringer of success, who rules over the praises of the offerers at the opening of the sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the third day of the sacrifice, at the time of the recitation of the Marutvatīya śastra mantras, the three ṛks beginning तंतमित् (*taṃtamit*) (ṛks 7 to 9 of this sūkta) are to be recited as the pratipat tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, तंतमिद्राधसे महे त्रय इंद्रस्य सोमाः (*taṃtamidrādhase mahe traya iṃdrasya somāḥ*) (Ā. 7-10 **NOTE**).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यस्य॑ ते शवसान स॒ख्यमा॒नंश॒ मर्त्यः॑ ।  
+> नकिः॒ शवां॑सि ते नशत् ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यस्य । ते । शवसान । सख्यम् । आनंश । मर्त्यः ।  
+> नकिः । शवांसि । ते । नशत् ॥८
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसान बलवन्निंद्र यस्य ते तव सख्यं मर्त्यः मरणधर्मा मनुष्यः न आनंश न व्याप्नोति ते शवांसि बलान्यपि नकिः नैव नशत् व्याप्नोति ॥
+
+##### Gist of the bhāṣya
+
+O mighty Indra, whose friendship no mortal, being subject to death, attains; and no one whatever attains your strengths either.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसान (*śavasāna*)—O mighty Indra
+- यस्य (*yasya*)—of what great qualities
+- ते (*te*)—your
+
+### Printed p. 11
+
+- सख्यं (*sakhyaṃ*)—friendship
+- मर्त्यः (*martyaḥ*)—no man
+- न आनंश (*na ānaṃśa*)—can obtain
+- ते (*te*)—of such a one, your
+- शवांसि (*śavāṃsi*)—powers also
+- नकिः नशत् (*nakiḥ naśat*)—no one can attain
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, no man can obtain the friendship of you, of such great qualities, and no one can attain your powers either.
+
+##### English translation
+You mighty one, whose friendship no mortal reaches, whose might no one attains.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वोता॑स॒स्त्वा यु॒जाप्सु सूर्ये॑ म॒हद्धन॑म् ।  
+> जये॑म पृ॒त्सु व॑ज्रिवः ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाऽऊतासः । त्वा । युजा । अप्ऽसु । सूर्ये । महत् । धनम् ।  
+> जयेम । पृत्ऽसु । वज्रिऽवः ॥९
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वोतासः त्वया रक्षिताः त्वा त्वया युजा सहायेन अप्सु स्नातुं सूर्यं द्रष्टुं च । स्नानादिव्यवहारं कर्तुं सूर्ये उदिते सति गमनादिव्यवहारं कर्तुमित्यर्थः। तदर्थ पृत्सु संग्रामेषु हे वज्रिवः वज्रवन्निंद्र महद्धनं जयेम । शत्रून् संग्रामे जित्वा तेषां धनं लभेमेत्यर्थः ।।
+
+##### Gist of the bhāṣya
+
+O Indra, protected by you, with you as ally, in order to bathe in the waters and to see the sun, that is, to carry on bathing and similar business and, when the sun has risen, going about and similar business, for that purpose in battles, O wielder of the thunderbolt, may we win great wealth: having conquered enemies in battle, may we gain their wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिवः (*vajrivaḥ*)—O Indra, bearer of the thunderbolt weapon
+- त्वोतासः (*tvotāsaḥ*)—protected by you
+- त्वा युजा (*tvā yujā*)—possessing your help, we
+- अप्सु (*apsu*)—for bathing in holy waters
+- सूर्ये (*sūrye*)—for beholding the sun when he has risen
+- पृत्सु (*pṛtsu*)—in battles
+- महद्धनं (*mahaddhanaṃ*)—exceeding great wealth
+- जयेम (*jayema*)—may we win
+
+### Printed p. 12
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, may we, protected by you and possessing your help, win exceeding great wealth in battles, for bathing in holy waters and for beholding the sun when he has risen.
+
+##### English translation
+Protected by you, O thunderer, with you as our ally, may we win great wealth in battles, that we may bathe in the water and behold the sun.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ य॒ज्ञेभि॑रीमहे॒ तं गी॒र्भिर्गि॑र्वणस्तम ।  
+> इंद्र॒ यथा॑ चि॒दावि॑थ॒ वाजे॑षु पुरु॒माय्य॑म् ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । यज्ञेभिः । ईमहे । तम् । गीःऽभिः । गिर्वणःऽतम ।  
+> इंद्र । यथा । चित् । आविथ । वाजेषु । पुरुऽमाय्यम् ॥१०
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतुर्थेऽहनि मरुत्वतीये ‘तं त्वा यज्ञेभिः' इति तृचः प्रतिपत् । सूत्रितं च -- तं त्वा यज्ञेभिरीमह इदं वसो सुतमंध इति मरुत्वतीयस्य प्रतिपदनुचरौ' ( आश्व. श्रौ. ७. ११) इति ।
+> तं स्तुत्यत्वेन प्रसिद्धं त्वा त्वां यज्ञेभिः यागसाधनैः सोमादिभिः ईमहे याचामहे । तम् एवेंद्रं गीर्भिः स्तुतिभिरीमहे । हे गिर्वणस्तम गीर्भिः स्तुतिभिर्वननीयतम इंद्र तं त्वामिति समन्वयः । हे इंद्र त्वं यथा चिदाविथ येन प्रकारेण ररक्षिथ माम् । चिदिति पूरणः । कुत्रेति उच्यते । वाजेषु संग्रामेषु । कीदृशं माम् । पुरुमाय्यं बहुप्रज्ञम् । बहुस्तुतिमित्यर्थः ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+On the fourth day, in the Marutvatīya, the tṛca तं त्वा यज्ञेभिः (*taṃ tvā yajñebhiḥ*) is the pratipat, as the sūtra states (Āśvalāyana Śrauta Sūtra 7. 11). We beg you, who are famed as the object of praise, with sacrifices, the means of sacrifice such as Soma; that very Indra we beg with praises. O Indra, most worthy to be served with praises, you who have protected me, by which manner, in battles; the particle चित् (*cit*) is expletive. Of what kind am I? पुरुमाय्यं (*purumāyyaṃ*), of much wisdom, that is, much praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिर्वणस्तम (*girvaṇastama*)—who are worshipped with praises
+- इंद्र (*iṃdra*)—O Indra
+- यथा चित् (*yathā cit*)—in what manner
+- पुरुमाय्यं (*purumāyyaṃ*)—me, of abundant wisdom
+- वाजेषु (*vājeṣu*)—in battles
+
 ---
 
-**Progress note:** Done through printed p. 6. Sūkta 68 intro, Ṛks 1-4
+**Progress note:** Done through printed p. 12. Mandala 8 Sukta 68 rks 5-10, pp. 7-12
