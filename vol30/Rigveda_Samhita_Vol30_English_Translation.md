@@ -33273,12 +33273,14 @@ O Indra, we who are pressing the Soma juice praise you. O Indra, possessed of gr
 ##### English translation
 Having poured out the libation, we praise you, Indra; having presented the sacrificial food, we (praise you), granter of abundant wealth ; bring us the wealth which one longs for; protected by you may we acquire riches through yourself alone.
 
-### Printed p. 990
 #### Ṛk 2
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > ऋ॒ष्वस्त्वमिं॑द्र शूर जा॒तो दासी॒र्विशः॒ सूर्ये॑ण सह्याः ।  
+
+### Printed p. 990
+
 > गुहा॑ हि॒तं गुह्यं॑ गू॒ळम॒प्पु जि॑भ्र॒मसि॑ प्र॒स्रव॑णे॒ न सोमं॑॥
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
@@ -42179,12 +42181,6 @@ because the sandhis (joints) are present, it is called *parvata*. The word *parv
 When the oblation called Vaimṛdha is offered, this Ṛk मृगो न (*mṛgo na*) is to be recited as the Yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra वि नृइंद्र मृधो जहि मृगो न भीमः कुचरो गिरिष्ठाः (*vi nṛiṃdra mṛdho jahi mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*) (Ā. 2-10).
 
 #### Ṛk 3
-
-#### Ṛk 4
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 5
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
