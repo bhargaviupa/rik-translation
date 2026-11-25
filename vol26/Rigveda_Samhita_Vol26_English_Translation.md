@@ -582,6 +582,118 @@ Here the rite called Somapravāhaṇa ends.
 
 So far the Ṛks connected with the Somapravāhaṇa have been explained; now the procedure to be followed on the occasion of unloading the Soma from the cart is explained.
 
+### Printed p. 37
+
+अन्यतरोऽनड्वान्युक्तः स्यादन्यतरो विमुक्तोऽथ राजानमुपावहरेयुः । (*anyataro 'naḍvānyuktaḥ syādanyataro vimukto 'tha rājānamupāvahareyuḥ |*)
+
+Of the two oxen yoked to the cart that has brought King Soma from the place of purchase to the Prācīnavaṃśa, only one is to be unyoked and the other left as it is, yoked; the Ṛtvijs then bring Soma down from the cart and carry him to the Uttaravedi. This is the rule.
+
+यदुभयोर्विमुक्तयोरुपावहरेयुः पितृदेवत्यं राजानं कुर्युः । (*yadubhayorvimuktayorupāvahareyuḥ pitṛdevatyaṃ rājānaṃ kuryuḥ |*)
+
+If, not acting according to the rule stated above, they unyoke both the oxen of the cart and then carry Soma to the Uttaravedi, then the Pitṛ-deities take Soma to themselves. Soma does not become fit for the gods and worthy of the sacrifice.
+
+यद्युक्तयोरयोगक्षेमः प्रजा विंदेत्ताः प्रजाः परिप्लवेरन्। योऽनड्वान्विमुक्तस्तच्छालासदां प्रजानां रूपं यो युक्तस्तच्चक्रियाणां ते ये युक्तेऽन्ये विमुक्तेऽन्य उपावहरंत्युभावेव ते क्षेमयोगौ कल्पयंति । (*yadyuktayorayogakṣemaḥ prajā viṃdettāḥ prajāḥ pariplaveran| yo 'naḍvānvimuktastacchālāsadāṃ prajānāṃ rūpaṃ yo yuktastaccakriyāṇāṃ te ye yukte 'nye vimukte 'nya upāvaharaṃtyubhāveva te kṣemayogau kalpayaṃti |*)
+
+If Soma is brought down and carried off while both oxen are left yoked to the cart, then the yoga (good fortune) of acquiring wealth and the yoga of preserving what has been acquired, so that it is not lost, are both destroyed; moreover there is the danger that the sacrificer's sons and others will go away in various directions. Of the two oxen yoked to the cart, the one that has been unyoked from the cart is the form of the sons and others who are in the sacrificial hall and the house. The ox that has not been unyoked from the cart is the form of the worldly and Vedic rites that go on in the sacrificial hall. Here the word चक्रि (*cakri*) means the cart that has wheels. The sons, grandsons and others, who are the progeny of the sacrificer travelling in that cart, are called चक्रियाः (*cakriyāḥ*). The wise among the sacrificers unyoke one ox at the time of the lowering of Soma, leave the other as it is, and perform the lowering of Soma; thereby they obtain both the acquisition of wealth and its safekeeping, as said before. What the Taittirīya Saṃhitā says on this very matter deserves notice.
+
+यदुभौ विमुच्यातिथ्यं गृह्णीयाद्यज्ञं विच्छिंद्याद्यदुभावविमुच्य यथानाग ताय तिथ्यं क्रियते तादृगेव तद्विमुक्तोऽन्योऽनड्वान्भवत्यविमुक्तोऽ न्यूऽथातिथ्यं गृह्णाति यज्ञस्य संतत्यै । (*yadubhau vimucyātithyaṃ gṛhṇīyādyajñaṃ vicchiṃdyādyadubhāvavimucya yathānāga tāya tithyaṃ kriyate tādṛgeva tadvimukto 'nyo 'naḍvānbhavatyavimukto ' nyū 'thātithyaṃ gṛhṇāti yajñasya saṃtatyai |*) (Kṛ. Saṃ. 6-2-1-1) **NOTE**
+
+If one unyokes both the oxen of the cart that has brought the Soma and lowers the Soma, King Soma does not accept the hospitality; and by doing so the sacrifice is cut off and is not completed, but stops in the middle. If both oxen are left yoked to the cart and made to stand so, it is
+
+### Printed p. 38
+
+as though King Soma had not come to the house to be received as a guest. It is as though he had simply gone away. Therefore it is not right to leave both oxen yoked either. Then what should be done so that the sacrifice is completed in full? The answer is that one ox is to be unyoked from the cart, and the other is to remain yoked to the cart without being unyoked. If this is done, King Soma comes to the sacrificial ground and accepts the sacrificer's hospitality, and the sacrifice also reaches its completion without any interruption. This is the meaning.
+
+An ancient story is cited and explained in support of the rule that the rite of lowering Soma (bringing Soma down from the cart) is to be performed in the north-eastern quarter:
+
+देवासुरा वा एषु लोकेषु समयतंत त एतस्यां प्राच्यां दिश्ययतंत तांस्ततोऽसुरा अजयंस्ते दक्षिणस्यां दिश्ययतंत तांस्ततोऽसुरा अजयंस्ते प्रतीच्यां दिश्ययतंत तांस्ततोऽसुरा अजयंस्त उदीच्यां दिश्ययतंत तांस्ततोऽसुरा अजयंस्त उदीच्यां प्राच्यां दिश्ययतंत ते ततो न पराजयंत सैषा दिगपराजिता तस्मादेतस्यां दिशि यतेत वा यातयेद्वेश्वरो हानृणाकर्तोः । (*devāsurā vā eṣu lokeṣu samayataṃta ta etasyāṃ prācyāṃ diśyayataṃta tāṃstato 'surā ajayaṃste dakṣiṇasyāṃ diśyayataṃta tāṃstato 'surā ajayaṃste pratīcyāṃ diśyayataṃta tāṃstato 'surā ajayaṃsta udīcyāṃ diśyayataṃta tāṃstato 'surā ajayaṃsta udīcyāṃ prācyāṃ diśyayataṃta te tato na parājayaṃta saiṣā digaparājitā tasmādetasyāṃ diśi yateta vā yātayedveśvaro hānṛṇākartoḥ |*)
+
+Long ago, in this world, the gods and the Asuras were fighting. They fought in the eastern quarter. In that battle the Asuras defeated the gods; then they fought in the southern quarter. There too the Asuras won; then they fought in the western quarter. There too victory went to the Asuras; then they fought in the northern quarter. There too the Asuras defeated the gods and became victorious; afterwards they fought in the north-eastern quarter, which lies between the northern and the eastern quarters. There the gods were not defeated; victory was theirs. Therefore (because the gods were not defeated) the north-eastern quarter came to be named अपराजिता (*aparājitā*). Therefore, whatever good work is to be done, it should be done in that quarter, that is, in the north-eastern quarter, or one should strive to do it there. By so doing the sacrificer discharges his debt and becomes freed from it.
+
+Here, as to what a debt is and what its discharge is, the Taittirīya Saṃhitā has a clear description:
+
+जायमानो वै ब्राह्मणस्त्रिभिर्यणवा जायते ब्रह्मचर्येण ऋषिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्य एष वा अनृणो यः पुत्री यज्वा ब्रह्मचारिवासी । (*jāyamāno vai brāhmaṇastribhiryaṇavā jāyate brahmacaryeṇa ṛṣibhyo yajñena devebhyaḥ prajayā pitṛbhya eṣa vā anṛṇo yaḥ putrī yajvā brahmacārivāsī |*) (Tai. Saṃ. 6-3-10-5)
+
+### Printed p. 39
+
+That is, a twice-born man (Brāhmaṇa, Kṣatriya, Vaiśya) is born, at the very time of his birth, together with three kinds of debts, called the debt to the Ṛṣis, the debt to the gods and the debt to the Pitṛs. For these debts to be paid: after the Upanayana, if he studies the Veda in the Brahmacarya stage in the teacher's house, the debt to the Ṛṣis is paid; afterwards, when he marries, takes up the householder's stage, performs sacrifices and the like and worships the gods, the debt to the gods is paid; by begetting sons in his married wife for the continuance of lawful progeny, the debt to the Pitṛs is paid. It is said here that the sacrificer becomes free from these three kinds of debts.
+
+Now the cause of King Soma's victory is stated:
+
+ते देवा अब्रुवन्नराजतया वै नो जयंति राजानं करवामहा इति तथेति ते सोमं राजानमकुर्वंस्ते सोमेन राज्ञा सर्वा दिशोऽजयन्नेष वै सोमराजा यो यजते प्राचि तिष्ठत्याददति तेन प्राचीं दिशं जयति तं दक्षिणा परिवहंति तेन दक्षिणां दिशं जयति तं प्रत्यंचमावर्तयंति ते प्रतीचीं दिशं जयति तमुदीचस्तिष्ठत उपावहरंति तेनोदीचीं दिशं जयति सोमेन राज्ञा सर्वा दिशो जयति एवं वेद ॥ (*te devā abruvannarājatayā vai no jayaṃti rājānaṃ karavāmahā iti tatheti te somaṃ rājānamakurvaṃste somena rājñā sarvā diśo 'jayanneṣa vai somarājā yo yajate prāci tiṣṭhatyādadati tena prācīṃ diśaṃ jayati taṃ dakṣiṇā parivahaṃti tena dakṣiṇāṃ diśaṃ jayati taṃ pratyaṃcamāvartayaṃti te pratīcīṃ diśaṃ jayati tamudīcastiṣṭhata upāvaharaṃti tenodīcīṃ diśaṃ jayati somena rājñā sarvā diśo jayati evaṃ veda ‖*) (Ai. Brā. 3-14)
+
+The gods spoke among themselves thus: We have no king who can take the lead in battles and the like and win victory for us; therefore we met with defeat in the eastern and the other quarters. So let us settle on a king. Having decided thus, they chose the god Soma to be king over them. Through that, the gods obtained victory in the eastern and the other quarters. Since this is so, for whichever sacrificer performs a Soma sacrifice, Soma is the king. By the power of this King Soma the sacrificer gains victory everywhere. How is that? When Soma is being brought in the cart, the Ṛtvijs make the cart stand facing the east and place Soma in it. Because Soma is in a cart facing east, the sacrificer gains victory in the eastern quarter. Afterwards, while Soma is being brought, they turn the cart in which Soma is, to face the south. Since Soma then faces south, victory is gained for the sacrificer in the southern quarter also. Afterwards, by turning that cart to the western quarter, victory comes in the western quarter also. Then, by turning that cart to the northern quarter, victory is gained in the northern quarter also. After that, when the cart has come and stands between the northern and the eastern quarters, from there (from the north-eastern quarter) they bring Soma down from the cart and carry him to the Uttaravedi. That is to say, the cart that was left on the west side of the Prācīnavaṃśa is turned to face the east in order to be brought to the Uttara-
+
+### Printed p. 40
+
+vedi, which lies to the east of the sacrificial hall; then, as it goes round the sacrificial hall, it is brought to the south, then to the west, then to the north, and when it arrives at the north-eastern quarter they bring Soma down from the cart. This is the meaning. The great sage Āpastamba explains this matter by the sentence संजग्राह प्रत्यवस्तनुवस्यत इति प्रांचोऽभिप्रवाय दक्षिणमावर्तत इत्यग्रेण प्राग्वंशं प्रागीषमुदगीषं वा शकटमवस्थाप्य (*saṃjagrāha pratyavastanuvasyata iti prāṃco 'bhipravāya dakṣiṇamāvartata ityagreṇa prāgvaṃśaṃ prāgīṣamudagīṣaṃ vā śakaṭamavasthāpya*) **GLOSS**. One who knows this matter conquers all the quarters.
+
+Here the explanation of the Uttarapīṭhikā ends.
+
+The explanation of the rite called Somapravāhaṇa ends.
+
+**The Nature of the Three Savanas**
+
+सूयते सोमः अत्रेति सवनानि सोमयागाः । (*sūyate somaḥ atreti savanāni somayāgāḥ |*) The word सवन (*savana*) is stated among the names of sacrifice (Ni. 3-19).
+
+एता विश्वा सवना तूतुमाकृषे स्वयं सूनो सहसो यानि दधिषे । वराय ते पात्रं धर्मणे तना यज्ञो मंत्रो ब्रहोद्यतं वचः । (*etā viśvā savanā tūtumākṛṣe svayaṃ sūno sahaso yāni dadhiṣe | varāya te pātraṃ dharmaṇe tanā yajño maṃtro brahodyataṃ vacaḥ |*) **GLOSS** (Ṛ. Saṃ. 10-50-6)
+
+In this Ṛk the meaning स्थानानि (*sthānāni*) is given for the word सवना (*savanā*). The Soma sacrifices, which are the occasions of pressing out the Soma juice, are described here as the meaning of the word सवन (*savana*).
+
+Here, through the form of the savana, there is indicated the importance of the sacrifice, which establishes a mutual relation between the earth and the atmosphere, and also the relation between the sacrifice and Indra, who is the lord of this sacrifice, who gains satisfaction from this sacrifice and who, through it, bestows his favour on the world. The point is also indicated that the savana is the chief means of the well-being and peace of both earth and atmosphere.
+
+The meaning of the word savana is very profound. It mirrors the principle of the universe. Just as the sacrifice has the division called the three savanas, so the Śruti passages describe that in worldly affairs too there are distinctions that follow this division; that in every individual life too there are three states corresponding to the three savanas; and that the creation of the Brāhmaṇa and the other classes also follows this very division. Moreover, in all the Śrutis there is the account that the deities headed by Indra, who are the presiding deities of the three savanas, regulate and mirror the divisions of the universal principle. And each savana also indicates its presiding deity, the metre connected with it, and a creative act. Only in regard to the deity of the third savana is there room for doubt even in the Śruti itself. Concerning the greatness of the savana the Taittirīya Saṃhitā says as follows.
+
+### Printed p. 41
+
+प्रजापतिर्वाव ज्येष्ठस्स हैते नाग्रेयजत प्रजापतिरकामयत प्रजायेयेति स मुखतस्त्रिवृतं निरमिमित तमग्निर्देवतान्नसृज्यत गायत्री छंदो रथंतरग्‌ंसाम ब्राह्मणो मनुष्याणामजः पशूनां तस्मात्ते मुख्या मुखतो ह्यसृज्यंतोरसो बाहुभ्यां पंचदशं निरमिमित तमिंद्रो देवतान्नसृज्यत त्रिष्टुप् छंदो बृहत्साम राजन्यो मनुष्याणामविः पशूनां तस्मात्ते वीर्यावंतो वीर्याद्दस्यृज्यंत मध्यतस्सप्तदशं निरमिमित तं विश्वे देवा देवता अन्वसृज्यंत जगतीछंदो वैरूपग्‌ं साम वैश्यो मनुष्याणां गावः पशूनां तस्मात्त आद्या अन्नधानाद्व्यसृज्यंत तस्माद्भूयाग्ंसोन्येभ्यो भूयिष्ठा हि देवता अन्वसृज्यंत पत्त एकविग्‌ंशं निरमिमित ॥ (*prajāpatirvāva jyeṣṭhassa haite nāgreyajata prajāpatirakāmayata prajāyeyeti sa mukhatastrivṛtaṃ niramimita tamagnirdevatānnasṛjyata gāyatrī chaṃdo rathaṃtaragṃsāma brāhmaṇo manuṣyāṇāmajaḥ paśūnāṃ tasmātte mukhyā mukhato hyasṛjyaṃtoraso bāhubhyāṃ paṃcadaśaṃ niramimita tamiṃdro devatānnasṛjyata triṣṭup chaṃdo bṛhatsāma rājanyo manuṣyāṇāmaviḥ paśūnāṃ tasmātte vīryāvaṃto vīryāddasyṛjyaṃta madhyatassaptadaśaṃ niramimita taṃ viśve devā devatā anvasṛjyaṃta jagatīchaṃdo vairūpagṃ sāma vaiśyo manuṣyāṇāṃ gāvaḥ paśūnāṃ tasmātta ādyā annadhānādvyasṛjyaṃta tasmādbhūyāgṃsonyebhyo bhūyiṣṭhā hi devatā anvasṛjyaṃta patta ekavigṃśaṃ niramimita ‖*) (Tai. Saṃ. 7-1-1-4-5)
+
+Prajāpati is the eldest, since he performed the sacrifice at the beginning. Wishing to carry out creation, he poured forth the Trivṛt stoma from his mouth. From it arose, among the gods, Agni; among the metres, Gāyatrī; among the Sāmans, Rathantara; among men, the Brāhmaṇa; among animals, the goat. When he poured forth the Pañcadaśa stoma from his arms, there arose, among the gods, Indra; among the metres, Triṣṭup; among the Sāmans, the Bṛhat Sāman; among men, the king; among animals, the sheep. When he poured forth the Saptadaśa stoma from his middle part, there arose, among the gods, the Viśvedevas; among the metres, Jagatī; among the Sāmans, the cow.
+
+Following this order, in the Soma sacrifice the offering of the morning savana is directed to Agni, the offering of the midday savana to Indra, and the offering of the third savana to the Viśvedevas. As said in the Atharvaveda, the morning savana is assigned to the Aśvins, the midday savana to Indra and Agni, and the third savana to the Ṛbhus (Ā. Ve. 9-1-2) **NOTE**. As said in the Aitareya Brāhmaṇa, the third savana belongs to the Ṛbhus. It is called the Ārbhava Pavamāna. But there is a legend about what right the Ṛbhus have to receive the oblation in the sacrifice along with the gods. The Aitareya Brāhmaṇa describes it thus:
+
+ऋभवो नै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातस्सवनादनुदत । (*ṛbhavo nai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātaḥsavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātassavanādanudata |*) (Ai. Brā. 13-6)
+
+By their superhuman power of action the Ṛbhus attained the position of the gods. When the gods then made arrangements to include them with themselves in the drinking of Soma, Agni, together with the Vasus, drove them away
+
+### Printed p. 42
+
+तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिंद्रो रुद्रैर्माध्यंदिनात्सवनादनुदत । (*tebhyo mādhyaṃdine savane vāci kalpayiṣaṃstāniṃdro rudrairmādhyaṃdinātsavanādanudata |*) (Ai. Brā. 13-6)
+
+Afterwards, when the gods made arrangements to provide them a place in the midday savana, Indra, together with the Rudras, drove them away.
+
+तेभ्यस्मृतीयसवने वाचि कल्पयिषंस्ताश्वेदेवाः अनोनुद्यंत नेह पास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव ना इमेऽंतेवासास्त्वमेवैभिः संपिबस्वीति स तथेत्यब्रवीत्सविता तान्वै त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् ॥ (*tebhyasmṛtīyasavane vāci kalpayiṣaṃstāśvedevāḥ anonudyaṃta neha pāsyaṃti neheti sa prajāpatirabravītsavitāraṃ tava nā ime 'ṃtevāsāstvamevaibhiḥ saṃpibasvīti sa tathetyabravītsavitā tānvai tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat ‖*) (Ai. Brā. 6-13)
+
+When the Viśvedevas did not admit them at the time of the third savana, Prajāpati said to Savitṛ: These are your pupils; do you drink with them. Then Savitṛ and Prajāpati drank together with the Ṛbhus. Thus the place the Ṛbhus have in the third savana is shown. As said in another place of the Aitareya Brāhmaṇa,
+
+प्रजापतिर्वै यज्ञं छंदांसि देवोभ्यो भागधेयानि व्यभजत्स गायत्रीमेवाग्नये वसुभ्यः प्रातःसवनेऽभजत्रिष्टुभमिंद्राय रुद्रेभ्यो मध्यंदिने जगतीं विश्वेभ्यो देवेभ्य आदित्येभ्यस्तृतीयसवने ॥ (*prajāpatirvai yajñaṃ chaṃdāṃsi devobhyo bhāgadheyāni vyabhajatsa gāyatrīmevāgnaye vasubhyaḥ prātaḥsavane 'bhajatriṣṭubhamiṃdrāya rudrebhyo madhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyastṛtīyasavane ‖*) (Ai. Brā. 12-2)
+
+Prajāpati divided the shares of the sacrifice and the metres among the gods. In the morning savana he gave the Gāyatrī to Agni and the Vasus; in the midday savana the Triṣṭup to Indra and the Rudras (the Maruts?); and in the third savana the Jagatī to the Viśvedevas and the Ādityas.
+
+Since Agni mirrors Brahmanical brilliance, Indra Kṣatriya power, and the Viśvedevas the Vaiśya's way of life, it is understood from the Taittirīya Saṃhitā passages cited above that the differences of the classes in creation also follow these divisions of the savanas. The Chāndogya Upaniṣad explains this same division from the spiritual point of view and says as follows:
+
+ब्रह्मवादिनो वदंति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनं ॥ (*brahmavādino vadaṃti yadvasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanamādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanaṃ ‖*) (Bhā. U. 2-24-1) **NOTE**
+
+It states that the morning savana is allotted to the Vasus, the midday savana to the Rudras, and the third savana to the Ādityas and the Viśvedevas, and it tells the special mantras to be uttered at the time of these savanas.
+
+### Printed p. 43
+
+From these mantras it is understood that the best places in the earth, in the atmosphere and in the heavenly world are obtained through the offering made in these savanas.
+
+लोकद्वारमपावार्णा पश्येम त्वा वयं ......... अथ जुहोति नमोऽग्नये पृथिविक्षिते लोकक्षिते लोकं मे यजमानाय विंदैष वै यजमानस्य लोक एतास्मि ॥ (*lokadvāramapāvārṇā paśyema tvā vayaṃ ......... atha juhoti namo 'gnaye pṛthivikṣite lokakṣite lokaṃ me yajamānāya viṃdaiṣa vai yajamānasya loka etāsmi ‖*) (Chā. U. 2-24)
+
+Before the morning savana, the sacrificer addresses the Vasus: "Open the door to the entrance of your world. May we also obtain a sight of you"; having prayed thus, he makes an offering directed to Agni and becomes fit to obtain the best place in the world of the earth. In the same way, praying to the Rudras and the Ādityas, and making offerings to them in the midday savana and the third savana, he becomes fit for the best place in the world of the atmosphere and in the heavenly world. Thus the greatness of the three savanas and the fruit of serving them are described. Moreover, it is described, as stated below, that the whole consciousness of man is the mirror of the Soma sacrifice:
+
+पुरुषो नाव यज्ञस्तस्य यानि चतुर्विंशतिवर्षाणि तत्प्रातःसवनं चतुर्विंशत्यक्षरा गायत्री गायत्रं प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा नाव वसव एते हीदं सर्वं वासयंति ॥ (*puruṣo nāva yajñastasya yāni caturviṃśativarṣāṇi tatprātaḥsavanaṃ caturviṃśatyakṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ tadasya vasavo 'nvāyattāḥ prāṇā nāva vasava ete hīdaṃ sarvaṃ vāsayaṃti ‖*) (Chā. U. 3-16-1)
+
+The Puruṣa is the sacrifice. Because the Gāyatrī metre, consisting of twenty-four syllables, is the metre of the morning savana, the first twenty-four years of man are the morning savana. The Vasus are the presiding deities of this offering. The vital breaths are the Vasus. Those very breaths are the means of dwelling on the earth.
+
+तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा वसव इदं मे प्रातःसवनं माध्यंदिनं सवनमनुसंतनुतेति माहं प्राणानां वसूनां मध्यॆ यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति ॥ (*taṃ cedetasminvayasi kiṃcidupatapetsa brūyātprāṇā vasava idaṃ me prātaḥsavanaṃ mādhyaṃdinaṃ savanamanusaṃtanuteti māhaṃ prāṇānāṃ vasūnāṃ madhyè yajño vilopsīyetyuddhaiva tata etyagado ha bhavati ‖*) (Chā. U. 3-16-2)
+
+If during this period of twenty-four years sluggishness comes upon the body, then, if he prays, addressing the Vasus: "O you vital breaths (Vasus), the means of dwelling, may this morning savana of mine not be broken off in the middle, but carry me on to the midday savana as well; may this sacrifice of my life not be cut off", the man is freed from the sluggishness.
+
+अथ यानि चतुर्विंशद्वर्षाणि तन्माध्यंदिनं सवनं चतुश्चत्वारिंशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा वाव रुद्रा एते हीदं सर्वं रोदयंति । (*atha yāni caturviṃśadvarṣāṇi tanmādhyaṃdinaṃ savanaṃ catuścatvāriṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tadasya rudrā anvāyattāḥ prāṇā vāva rudrā ete hīdaṃ sarvaṃ rodayaṃti |*) (Chā. 3-16-3) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 36. Somapravahana Rks 6-8, Tai. Saṃ./Ai. Brā. quotations, pp. 31-36
+**Progress note:** Done through printed p. 43. Uttarapīṭhikā to Somapravāhaṇa end; Savanatraya introduction (pp. 37-43)
