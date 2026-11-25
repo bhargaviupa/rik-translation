@@ -18755,6 +18755,164 @@ The deity of this sūkta is Agni Rakṣohā; that is, Agni who destroys the host
 
 That is: the host of beings called Rakṣas devours men; our body must be protected from it, and because it must be protected it is called रक्षः (*rakṣaḥ*). Or, because it harms men in a lonely place where no one is, or in the dark, it is called रक्षः (*rakṣaḥ*). Or, because it moves about at night, it is called रक्षः (*rakṣaḥ*). Thus three kinds
 
+### Printed p. 572
+…a threefold explanation has been given. The word *rakṣas* differs from the word *rākṣasa*. Rākṣasas are particular beings, of human form or of some other terrible form that can be seen by the eye. They are of evil nature, always inflicting harm on good people and obstructing good rites. The word *rakṣas* denotes beings that cannot be seen by the eye: ghosts, spirits, goblins and the like (Demons, evil spirits &c). Their nature is to harm men and to obstruct good rites such as sacrifices. It is customary, in sacrifices and in other rites, to pray to Agni to remove their molestation and protect us. The Agni who removes this kind of molestation is called Rakṣohā-Agni.
+
+The goblins or ghosts that dwell on earth are the enemies of men. The class-name that denotes them is *rakṣas*. This word occurs more than fifty times, in the singular and the plural. In general it occurs together with some deity, either as a prayer or as praise. In the hymns 7-104 and 10-87 they are the very subject. The words *rakṣasaḥ*, *yātu*, *yātudhāna* and the like indicate them here. Since *rakṣasaḥ* is the name of deities (?) and goblins and all of these, it may be taken as the class-name, and *yātu* as a sub-class name.
+
+These goblins or ghosts have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In the form of birds they fly about at night (7-104-8). Taking the form of a brother, husband or lover, they approach women and wish to destroy their children (10-162-5). In the form of a dog or an ape they lie in wait to fall upon women (A. Ve. 4-37-11)**NOTE**. Therefore pregnant women and children are exposed to harm from them (A. Ve. 8-6). At the time of marriage they move about around the bride, and shoot small arrows into the air to pierce their eyes (Mā. Gṛ. Sū. 1-10)**NOTE**. Their form and so on are described in the Atharvaveda itself. They mostly take on human form, and their limbs such as head, eyes and heart are mentioned; but some deformity is always there: three heads, two mouths, four eyes, five feet, no fingers, feet turned backwards, or horns on the hands, and so on (A. Ve. 8-6; Hi. Gṛ. Sū. 23-7)**NOTE**. Blue, yellow and green goblins are also mentioned (A. Ve. 19-22-4, 5). Among them too there are males and females, families and kings (A. Ve. 5-22-12; Hi. Gṛ. Sū. 2-3-7); they too are mortal (A. Ve. 6-3-2-2; etc.).
+
+### Printed p. 573
+The Yātudhānas eat the flesh of men and horses and drink cow's milk (10-86-16, 17). To satisfy their craving for blood and flesh they attack men; this attack is generally by entering into them. There is a prayer to Agni to keep the rākṣasas from entering those who support (the sacrifice) (8-48-20). A goblin presiding over disease, flying hither and thither, enters men (A. Ve. 7-76-4). These ghosts and spirits generally enter us through our mouth when we eat or drink (A. Ve. 5-29-6 to 8); they also enter by other doors (A. Ve. 8-6-3). No sooner have they entered than they tear and eat the man's flesh and cause disease (A. Ve. 5-29-5, 10). They cause madness and destroy the power of speech (A. Ve. 6-101-3 **NOTE**; Hi. Gṛ. Sū. 1-15-5). They invade the dwellings of men (Kau. Sū. 13-5-9)**NOTE**. Some ghosts, in the evening, dance around houses, braying like asses, or roam in forests, or laugh loudly or drink from skulls (A. Ve. 8-6-10, 11, 14; Hi. Gṛ. Sū. 2-3-3). Their time of roaming is night or evening (7-104-8). In the east their sport does not go on; the rising sun drives them away there (Tai. Saṃ. 1-6-6-3). A falling meteor is thought to be the form of a ghost (Kau. Sū. 125-9). As the pitch-dark of the new-moon night is suited to the roaming of the spirits of the dead, so it is also the favourable time for goblins (A. Ve. 1-161; 4-36-3).
+
+Nothing endangers sacrifices as they do. In sacrifices fit for the gods the goblins cause defects and omissions, and the Yātudhānas scatter the offered oblations about (7-104-21 **NOTE**). They cannot bear the sight of a hymn of praise (10-182-3). There is a prayer to Agni to burn the ghosts and others so that no curse may touch the sacrifice (1-76-3). There is a mantra by which, through the magic of the Yātudhānas and of the troops of rākṣasas, an enemy's sacrifice is made to flourish (A. Ve. 7-70-2). In the form of departed spirits they come as obstacles to the food and water offered to the dead (A. Ve. 18-2-28; compare Vā. Saṃ. 1-29). In the Purāṇas it is common that these troops of rakṣas (treated as rākṣasas) trouble yogins.
+
+Agni, who removes darkness and is the master of the sacrifice, is bound in enmity with them. One prays to Agni himself: burn them, drive them off, or destroy them (10-87-3, 6 etc.). From this very work the name "रक्षोहा (*rakṣohā*)" has come to Agni and to some other deities.
+
+### Printed p. 574
+These ghosts are harmful not only by their own nature; they also cause harm when impelled by others. The word *rakṣoyujaḥ* (those who impel rākṣasas) is found (6-62-9), and here and there are the ghosts and Yātus of sorcerers (7-104-23; 8-60-20). One troubled by a ghost sent by an enemy may drive them away by making an offering to Yaviṣṭha Agni (Tai. Saṃ. 2-2-3-2); and the ghosts themselves are commanded to swallow the very one who sent them (A. Ve. 2-2-4).
+
+In the sense of ghosts the word *rakṣas* is used in both masculine and feminine. In the neuter it also means danger. It may be from the root *rakṣ* (to trouble) (*ṛkṣā*, dangerous), but this use is very rare. It may also be from the ordinary *rakṣ*, to protect; in that case *rakṣas* means "that which is to be guarded against".
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्ने हंसीति नवर्चं षष्ठं सूक्तममहीयुगोत्रस्योरुक्षयस्यार्षं
+> गायत्रं । रक्षोहाग्निर्देवता । तथा चानुक्रम्यते । अग्ने हंस्युरुक्षय आमहीयव
+> आग्नेयं राक्षोघ्नं गायत्रं त्विति ॥ मध्यमानेऽग्नावजायमान इदमनुवक्तव्यं ।
+> सूत्रितं च । अजायमाने त्वेतस्मिन्नेवावसानेऽग्ने हंसि न्यत्रिणामिति सूक्तमावपेत ।
+> आ. २-१६ । इति ॥ प्रातरनुवाकाश्विनशस्त्रयोरपि गायत्रे छंदसीदं सूक्तं । सूत्रितं
+> च । अग्ने हंस्यग्निं हिन्वंतु नः । आ. ४-१३ । इति ॥ दशमेऽहनि धिष्ण्यांगाराभिविहरण
+> आद्या जप्या । सूत्रितं च । परि त्वाग्ने पुरं वयमित्येतस्याः स्थानेऽग्ने हंसि
+> न्यत्रिणं । आ. ८-१२ । इति ॥
+
+##### Gist of the bhāṣya
+
+This sūkta, beginning अग्ने हंसि (*agne haṃsi*), has nine Ṛks; its seer is Urukṣaya of the Āmahīya (gotra)**NOTE**, the metre is Gāyatrī, the deity Rakṣohā Agni. He quotes the Anukramaṇī: अग्ने हंस्युरुक्षय आमहीयव आग्नेयं राक्षोघ्नं गायत्रं त्विति ॥ (*agne haṃsyurukṣaya āmahīyava āgneyaṃ rākṣoghnaṃ gāyatraṃ tviti ‖*). Uses: when Agni, though churned, is not born, this sūkta is to be recited, according to the sūtra अजायमाने त्वेतस्मिन्नेवावसानेऽग्ने हंसि न्यत्रिणामिति सूक्तमावपेत । (*ajāyamāne tvetasminnevāvasāne 'gne haṃsi nyatriṇāmiti sūktamāvapeta |*) (Ā. 2-16). It is also used in the Prātaranuvāka and the Āśvina-śastra, among the verses in Gāyatrī metre, according to अग्ने हंस्यग्निं हिन्वंतु नः (*agne haṃsyagniṃ hinvaṃtu naḥ*) (Ā. 4-13). On the tenth day, at the scattering of coals at the dhiṣṇyas, its first Ṛk is to be muttered, according to परि त्वाग्ने पुरं वयमित्येतस्याः स्थानेऽग्ने हंसि न्यत्रिणं । (*pari tvāgne puraṃ vayamityetasyāḥ sthāne 'gne haṃsi nyatriṇaṃ |*) (Ā. 8-12).
+
+##### Anuvāda
+
+This sūkta, "अग्ने हंसि (*agne haṃsi*)", is the sixth sūkta in the tenth anuvāka. It contains nine Ṛks. Its seer is Urukṣaya of the Ahīyu gotra; the deity is Rakṣohā Agni; the metre is Gāyatrī. In the Anukramaṇī it is stated: अग्ने हंस्युरुक्षय आमहीयव आग्नेयं राक्षोघ्नं गायत्रं तु (*agne haṃsyurukṣaya āmahīyava āgneyaṃ rākṣoghnaṃ gāyatraṃ tu*). If at the time of churning the fire, however much one churns, Agni is not produced, this sūkta is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra अजायमाने त्वेतस्मिन्नेवावसानेऽग्ने हंसि न्यत्रिणमिति सूक्तमावपेत (*ajāyamāne tvetasminnevāvasāne 'gne haṃsi nyatriṇamiti sūktamāvapeta*) (Adhyāya 2-16). The use of this sūkta for the Ṛks in Gāyatrī metre in the recitation of the Prātaranuvāka and of the Āśvina-śastra is explained by the Āśvalāyana Śrauta-sūtra अग्ने हंस्यग्निं हिन्वंतु नः (*agne haṃsyagniṃ hinvaṃtu naḥ*) (Ā. 4-13). On the tenth
+
+### Printed p. 575
+day of the sacrifice, when the coals are scattered at the dhiṣṇyas, the first Ṛk of this sūkta is to be muttered; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra परि त्वाग्ने पुरं वयमित्येतस्याः स्थानेऽग्ने हंसि न्यत्रिणं (*pari tvāgne puraṃ vayamityetasyāḥ sthāne 'gne haṃsi nyatriṇaṃ*) (Ā. 8-12).
+
+Maṇḍala 10 · Anuvāka 10 · Sūkta 118
+Aṣṭaka 8 · Adhyāya 6 · Vargas 24, 25
+Number of Ṛks in the sūkta: 9
+Ṛṣi: Urukṣaya Āmahīyava
+Devatā: Agni Rakṣohā
+Chandas: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ हंसि॒ न्य१॒॑त्रिणं॒ दीद्य॒न्मत्ये॒ष्वा ।  
+> स्वे क्षये॑ शुचिव्रत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । हंसि । नि । अत्रिणं । दीद्यत् । मर्त्येषु । आ ।  
+> स्वे । क्षये । शुचिव्रते । ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शुचिव्रत पूतकर्मन् दीप्यमानतेजस्क हे अग्ने अत्रिणमत्तारं शत्रुं
+> तमोरूपं नितरां हंसि । विनाशय ॥ आमंत्रितस्याविद्यमानत्वेन पादादित्पादनिघातः ॥
+> किं कुर्वन् । मर्त्येषु मनुष्येषु यजमानेष्वाभिमुख्येन दीद्यत् कर्मसिद्ध्यर्थं
+> प्रकाशमानः । दीदितिर्दिप्ति कर्मा । तथा स्व आत्मीये क्षये निवासभूत आहवनीयादिस्थाने दीप्यमानः ॥ क्षयो निवासे । पा. ६-१-२०१ । इत्याद्यु दात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Agni, whose rites (vrata) are pure and whose splendour blazes, you thoroughly slay (destroy) the devourer (attrin), the enemy in the form of darkness. How? Shining forth among mortals, that is, among men, the sacrificers, to accomplish the rite; दीदितिर्दिप्ति कर्मा (*dīditirdipti karmā*) (dīditi is a verb of shining). Likewise shining in your own dwelling (kṣaya), the abode in places such as the Āhavanīya. क्षयो निवासे (*kṣayo nivāse*) (Pā. 6-1-201) is cited for the accent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुचिव्रत (*śucivrata*)—one with pure rites, or one who shines with radiant splendour
+- अग्ने (*agne*)—O Agni
+- मर्त्येषु (*martyeṣu*)—among men, that is, among the sacrificing sacrificers (in the sacrificial houses of the sacrificers)
+
+### Printed p. 576
+- स्वे क्षये (*sve kṣaye*)—in your own dwelling-places, the fire-pits such as the Āhavanīya
+- आ दीद्यन् (*ā dīdyan*)—shining well for the performance of the rite
+- अत्रिणं (*atriṇaṃ*)—the destructive enemy in the form of darkness, that is, the darkness
+- नि हंसि (*ni haṃsi*)—destroy thoroughly
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of pure rites, or shining with radiant splendour: shining well, for the performance of the sacrificial rite, in the houses of men, that is of the sacrificers, and in your own places, the fire-pits such as the Āhavanīya, destroy utterly the enemy in the form of darkness, that is, the darkness.
+
+##### English translation
+Agni, observer of purity, you destroy the devouring (gloom), shining, amongst men in your own dwelling.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ति॑ष्ठसि॒ स्वा॑हुतो घृ॒तानि॒ प्रति॑ मोदसे ।  
+> यत्ना॒ स्रुचः॑ स॒मस्थि॑रन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । तिष्ठसि । सुआहुतः । घृतानि । प्रति । मोदसे ।  
+> यत् । त्वा । स्रुचः । संअस्थिरन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स्वाहुतोऽस्माभिः सुष्ठाहूयमानः सन्नुत्तिष्ठसि । अरणीभ्यामुद्गतो भव ॥ ऊर्ध्वकर्मत्वादात्मनेपदाभावः । पा. १-३-२४ ॥ उद्गत्य च घृतानि
+> घृतेन सहितान्यस्माभिर्दीयमानानि हवींषि प्रति मोदसे । हृष्टो भव ॥ मुद
+> हर्षॆ भौवादिकः । अनुदात्तेत् ॥ यद्यदा त्वा त्वां स्ट्रुचो जुह्लादीनि पात्राणि
+> समस्थिरन् संगतान्यभवन् ॥ समवप्रविभ्यः स्थ इति लुज्यात्मनेपदं । स्थाघ्वोरिच्छेति
+> सिचः कित्त्वमिकारश्चांतादेशः । प्रस्वादंगादिति सिचो लोपः । व्यत्ययेन झस्य रन् ।
+> तिजि चोदात्तवतीति गतेर्निघातः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, well invoked (svāhuta) by us, you rise up: be risen from the two aranis. Having risen, rejoice in the oblations accompanied by ghee that we give; be gladdened (मुद हर्षॆ (*muda harṣè*), a root of the first class). *Yat* means "when": when the ladles (sruc), the vessels such as the juhū, have come together, that is, approached you.
+
+### Printed p. 577
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वाहुतः (*svāhutaḥ*)—specially prayed to by us
+- उत्तिष्ठसि (*uttiṣṭhasi*)—you appear in the aranis
+- यत् (*yat*)—when
+- त्वां (*tvāṃ*)—you
+- स्रुचः (*srucaḥ*)—the ladles of oblation, the juhū and others
+- समस्थिरन् (*samasthiran*)—approach for the oblation; then
+- धृतानि (*dhṛtāni*)—the oblations accompanied by ghee offered by us (accepting them)**NOTE**
+- प्रति मोदसे (*prati modase*)—be delighted
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, prayed to specially by us and invoked, you are produced in the aranis. When the ladles (spoons), the juhū and other vessels filled with ghee, approach you for the oblation, accept the oblations accompanied by ghee that we offer, and be delighted.
+
+##### English translation
+You spring up when piously invoked, you delight in the oblation when the ladles are brought near you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स आहु॑तो॒ वि रो॑चते॒ऽग्नि री॒ळेन्यो॑ गि॒रा ।  
+> स्रु॒चा प्रती॑कमज्यते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । आहुतः । वि । रोचते । अग्निः । ईळेन्यः । गिरा ।  
+> सुप्रा । प्रतीकं । अज्यते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आहुत अभिमुख्येन हुतः ॥ गतिरनंतर इति गतेः प्रकृतिस्वरः ॥ गिरा स्तुतिलक्ष
+> णया वाचेळेन्यः स्तोतव्यः सोऽग्निर्वि रोचते । अत्यर्थं दीप्यते । तथा प्रतीकं
+> सर्वेषां देवानां पूर्वमेव स्रुचा धृतसहितयाज्यते । सिच्यते ॥
+> 36
+
+##### Gist of the bhāṣya
+
+*Āhuta* means offered facing (him). By speech (gir), that is, by the voice that consists of praise, he who is to be praised (īḷenya), Agni, shines forth: he blazes exceedingly. Likewise his front (pratīka), the foremost of all the gods, is anointed (ajyate), that is, sprinkled, by the ladle with ghee.
+
 ---
 
-**Progress note:** Done through printed p. 571. pp. 566-571 (batch API)
+**Progress note:** Done through printed p. 577. pp. 572-577 (batch API)
