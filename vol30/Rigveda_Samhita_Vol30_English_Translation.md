@@ -19471,6 +19471,284 @@ charioteer's seat, for I have often drunk of the Soma.
 > न॒हि मे॑ अक्षि॒पच्च॒नाच्छां॑त्सुः॒ पंच॑ कृ॒ष्टयः॑ ।  
 > कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ६ ॥
 
+### Printed p. 590
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । मे । अक्षिपत् । चन । अच्छांत्सुः । पंच । कृष्टयः ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चनेति निपातसमुदायोऽप्यर्थे । पंच कृस्टयोऽपि निषादपंचमाश्चत्वारो
+> वर्णाः पंच जनाः । यद्वा । देवमनुष्यादयः । मे मदीयमक्षिपच्चक्षुःपतनं
+> दृष्टिसंचारं नह्यच्छांत्सुः । न ह्यपवृण्वंति । न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यत
+> इति हि श्रुतेः । शत. १४-७-१-२३ ॥ छदि अपवारणे । चुरादीनामिति वा ण्यंतत्वादत्र
+> ण्यभावे लुजि हलंतलक्षणा वृद्धिः । पा. ७-२-३ ॥ यस्माद्बहुवारं सोममपां ॥
+
+##### Gist of the bhāṣya
+
+चन (*cana*) is a combination of particles, and here it has the sense "even". The "five tribes" (पंच । कृष्टयः (*paṃca | kṛṣṭayaḥ*)) are the four castes with the Niṣāda as the fifth, that is, five groups of people. Or else they are gods, men and the rest. "My अक्षिपत् (*akṣipat*)", that is, the falling of my eye, the movement of my glance, they do not elude (न ह्यपवृण्वंति (*na hyapavṛṇvaṃti*)). He cites the śruti: न हि द्रष्टुर्दृष्टेर्विपरिलोपो विद्यत (*na hi draṣṭurdṛṣṭerviparilopo vidyata*) (Śa. 14-7-1-23). The reason is that I have drunk Soma many times.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चन (*cana*)—and
+- पंच कृष्णयः (*paṃca kṛṣṇayaḥ*)—the people of the five groups beginning with the Brāhmaṇas, together with the Niṣādas, or the five kinds of people, gods, men and others
+- मे (*me*)—my
+- अक्षिपत् (*akṣipat*)—falling in the sight
+- नहि अच्छान्सुः (*nahi acchānsuḥ*)—cannot escape
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—much
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+Moreover, the people of the five groups, Brahmins, Kṣatriyas, Vaiśyas, Śūdras and Niṣādas, or the five kinds of people such as gods and men, cannot escape falling within my sight (all will certainly fall within my sight), because I have drunk much Soma.
+
+##### English translation
+The five castes have not eluded the glance of my eye, for I have often drunk of the Soma.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि मे॒ रोद॑सी उ॒भे अ॒न्यं प॒क्षं च॒न प्रति॑ ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ७ ॥
+
+### Printed p. 591
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । मे । रोदसी इति । उभे इति । अन्यं । पक्षं । चन । प्रति ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उभे रोदसी द्यावापृथिव्य मे मदीयमन्यं पक्षं चन पक्षमपि प्रति
+> समाने न भवतः ॥
+
+##### Gist of the bhāṣya
+
+Both heaven and earth are not equal to any other side (half) of me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उभे रोदसी (*ubhe rodasī*)—even both heaven and earth together
+- मे (*me*)—my (in power, capacity and so on)
+- अन्यं पक्षं चन (*anyaṃ pakṣaṃ cana*)—even half
+- प्रति नहि (*prati nahi*)—are not equal
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—much
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+Even heaven and earth together cannot match even half of me in power and capacity, because I have drunk much Soma.
+
+##### English translation
+Both heaven and earth (are) not equal to one half of me, for I have often drunk of tne Soma.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि द्यां म॑हि॒ना भु॑वम॒भी॒३॒॑३मां पृ॑थि॒वीं म॒हीं ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । द्यां । महिना । भुवं । अभि । इमां । पृथिवीं । महीं ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ८ ॥
+
+### Printed p. 592
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तमर्थं प्रतिपादयति । महिना महिम्नात्मीयेन द्यां द्युलोकमभि
+> भुवं । अभिभवामि । तथा महीं महतीमिमां पृथिवीं स्वमहिम्नाभि भवामि ॥ भवतेर्लजि च्छांदसो विकरणस्य लुक् । भूसुवोस्तिजीति गुणे प्रतिषिद्द उवजादेशः ॥
+
+##### Gist of the bhāṣya
+
+He sets forth the matter already stated. "By my own greatness (महिना (*mahinā*)) I overcome (अभि भुवं (*abhi bhuvaṃ*)) the sky (द्यां (*dyāṃ*)), the world of heaven; likewise I overcome this great earth by my own greatness."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महिना (*mahinā*)—I, by my own power or greatness
+- द्यां (*dyāṃ*)—the world of Dyu (heaven)
+- अभि भुवं (*abhi bhuvaṃ*)—have defeated (likewise)
+- महीं (*mahīṃ*)—vast
+- इमां पृथिवीं (*imāṃ pṛthivīṃ*)—this earth also
+- अभि (*abhi*)—have defeated
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—much
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+By my greatness I have overcome the world of heaven and also this vast earth, because I have drunk much Soma.
+
+##### English translation
+I excel the sky in greatness, (I excel) this great earth; for I have often drunk of the Soma.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हंता॒हं पृ॑थि॒वीमि॒मां नि द॑धानी॒ह वे॒ह वा॑ ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंत । अहं । पृथिवीं । इमां । नि । दधानि । इह । वा । इह । वा ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हंतेति संभावनायामनुज्ञायां वा । संभावयाम्येतदनुजानामि वा ।
+> किं तत् । अहमिमां पृथिवीमिह वांतरिक्षे नि दधानि । इह वा द्युलोक इति हस्तेन
+> निर्दिशति ॥ दधातेर्लोटि मेर्निः ॥
+
+##### Gist of the bhāṣya
+
+हंत (*haṃta*) is used in the sense of supposition or of permission: "I suppose this" or "I permit this". What is it? "I shall set down (नि दधानि (*ni dadhāni*)) this earth here, or in the atmosphere; or here, in the world of heaven", and he points with the hand.
+
+### Printed p. 593
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हंत (*haṃta*)—lo
+- अहं (*ahaṃ*)—I
+- इमां पृथिवीं (*imāṃ pṛthivīṃ*)—this globe of the earth
+- इह वा (*iha vā*)—right here, if I wish
+- इह वा (*iha vā*)—or in the atmosphere, if I wish
+- नि दधानि (*ni dadhāni*)—I can place
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—much
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+Lo! I can set this globe of the earth here, if I wish, or in the atmosphere, because I have drunk much Soma.
+
+##### English translation
+Lo! I will place this earth (where I will), either here or there; for I have often drunk of the Soma.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska, explaining the meaning and use of the word वा (*vā*), says: वेति विचारणार्थे । हंताहं पृथिवीमिमां नि दधानीह वेह वा । अथापि समुच्चयार्थे भवति । वायुर्वा त्वा मनुर्वा त्वा । (*veti vicāraṇārthe | haṃtāhaṃ pṛthivīmimāṃ ni dadhānīha veha vā | athāpi samuccayārthe bhavati | vāyurvā tvā manurvā tvā |*) (Ni. 1-4 **NOTE**). The word वा (*vā*) is used when considering a weighty or profound matter. In the above example हंताहं पृथिवीमिमां नि दधानीह वेह वा (*haṃtāhaṃ pṛthivīmimāṃ ni dadhānīha veha vā*) the thought is expressed: "Ah! I can place this earth right here, or I can place it in the atmosphere." The word is also used in the sense of conjunction, that is, "and". In the example वायुर्वा त्वा मनुर्वा त्वा (*vāyurvā tvā manurvā tvā*), वा (*vā*) has the sense "and": "Vāyu and Manu".
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ओ॒षमित्पृ॑थि॒वीम॒हं जं॒घना॑नी॒ह वे॒ह वा॑ ।  
+> कु॒वित्सोम॒स्यासा॒मिति॑ ॥ १० ॥
+
+### Printed p. 594
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ॥ पदहार ॥  
+> ओषं । इत् । पृथिवीं । अहं । जंघनानि । इह । वा । इह । वा ।  
+> कुवित् । सोमस्य । अपां । इति ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहं पृथिवीमभिलक्ष्यौषं स्वतेजसा तापकमादित्यमिह वांतरिक्ष इह वा
+> द्युलोके जंघनानि । भृशं यापयानि । इदिति पूरणः ॥ हंतेर्गत्यर्थस्य यज्लुगंतस्य लोटि शपो लुगभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+"I, with reference to the earth, can hurl (जंघनानि (*jaṃghanāni*)), that is, drive violently, the sun (ओषं (*oṣaṃ*)), the scorcher with his own brilliance, either here in the atmosphere or here in the world of heaven." इत् (*it*) is an expletive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- ओषं (*oṣaṃ*)—the sun shining with his own brilliance
+- इह वा (*iha vā*)—in the atmosphere
+- इह वा (*iha vā*)—in heaven
+- जंघनानि (*jaṃghanāni*)—I can fling down
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—much
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+I can tear out the sun, who illumines the earth with his brilliance, and hurl him into the atmosphere or into heaven, because I have drunk much Soma.
+
+##### English translation
+I will drive the scroching (sun) either here or thre; for I have often drunk of Soma.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वि मे॑ अ॒न्यः प॒क्षो॒३॒॑३धो अ॒न्यम॑चीकृषं ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवि । मे । अन्यः । पक्षः । अधः । अन्यं । आचीकृषं ।  
+> कुवित् । सोमस्य । अपां । इति ॥ ११ ॥
+
+### Printed p. 595
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मदीयोऽन्यः पक्षो दिवि द्युलोके स्थापितः । अधः ॥ पूर्वाधरावराणामसीत्यादिनासिप्रत्ययः । प्रकृतेरधादेशश्च ॥ अधस्तात्पृथिव्यामन्यं पक्षमचीकृषं । अकार्षं ॥ कृष विलेखने । ण्यंतस्य लुजि चज नित्यं छंदसि । पा. ७-४-८ ।
+> इत्यकारादेशः ॥ विलेखनं नामोत्पादनं । उदपादयं । आस्थापयमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+One wing of mine is set in the sky, in the world of heaven. Below (अधः (*adhaḥ*)), that is, beneath on the earth, I have made (आचीकृषं (*ācīkṛṣaṃ*), "I made") the other wing. कृष (*kṛṣa*) here has the sense of विलेखन (*vilekhana*), which means producing: "I produced", "I established".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- अन्यः पक्षः (*anyaḥ pakṣaḥ*)—one wing
+- दिवि (*divi*)—is set in heaven
+- अन्यं (*anyaṃ*)—the other wing
+- अधः (*adhaḥ*)—to the earth below
+- आचीकृषं (*ācīkṛṣaṃ*)—he has drawn and cast down
+- इति (*iti*)—because (I)
+- कुवित् (*kuvit*)—much
+- सोमस्य (*somasya*)—Soma
+- अपां (*apāṃ*)—have drunk
+
+##### भावार्थ (Bhāvārtha)
+
+One of my wings is set in heaven and the other on earth, because I have drunk much Soma.
+
+##### English translation
+One of my wings is in the sky; the other I dragged below; for I have often drunk of the Soma.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हम॑स्मि महाम॒हो॑ऽभिन॒भ्यमुदी॑षितः ।  
+> कु॒वित्सोम॒स्यापा॒मिति॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । अस्मि । महामहः । अभिनभ्यं । उत्ईषितः ।  
+> कुवित् । सोमस्य । अपां । इति ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभिनभ्यं नाभौ मध्यस्थाने भवं नभ्यमंतरिक्षं ॥ उगवादिभ्यो यत् ।
+> पा. ५-१-२ । इति यत्पत्ययः । तत्रैव पाठान्नभादेशश्च । लक्षणेनाभिप्रती अभिमुख्ये ।
+
+##### Gist of the bhāṣya
+
+अभिनभ्यं (*abhinabhyaṃ*): नभ्यं (*nabhyaṃ*) is what is in the navel, the middle region, that is, the atmosphere. The suffix यत् (*yat*) is added by उगवादिभ्यो यत् (*ugavādibhyo yat*) (Pā. 5-1-2), and नभ (*nabha*) is substituted because the word is read in that very list. Figuratively अभि (*abhi*) and प्रति (*prati*) have the sense of facing. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 589. pp. 584-589 (batch API)
+**Progress note:** Done through printed p. 595. pp. 590-595 (batch API)
