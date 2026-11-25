@@ -22080,6 +22080,172 @@ At the beginning of creation only Brahman existed. Afterwards he created the god
 
 In the worlds higher than these worlds he established gods superior to these. Like the worlds perceptible to ordinary perception and the gods established in them, the other worlds and their gods too became directly perceptible.
 
+### Printed p. 782
+
+अथ ब्रह्मैव परार्धमगच्छत् । तत्परार्धं गत्वैक्षत कथं निमान् लोकान्प्रत्यवेयामिति तद्वाभ्यामेव प्रत्यवैद्रूपेण चैव नाम्मा स च यस्य कस्य च नामास्ति तन्नाम यस्यो अपि नाम नास्ति यद्वेद रूपेणेदग्ं रूपमिति तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च ॥ (*atha brahmaiva parārdhamagacchat | tatparārdhaṃ gatvaikṣata kathaṃ nimān lokānpratyaveyāmiti tadvābhyāmeva pratyavaidrūpeṇa caiva nāmmā sa ca yasya kasya ca nāmāsti tannāma yasyo api nāma nāsti yadveda rūpeṇedagṃ rūpamiti tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca ‖*)
+
+(Śa. Brā. 11-2-3-3) **NOTE**
+
+Then Brahman went to the principal world. Explaining which is the principal world here, Sāyaṇa says: परार्धं उत्कृष्टसर्वलोकावधिभूतं सत्यलोकाख्यं स्थानं । प्रत्यवेयां प्रत्येकं प्राप्नुयां । (*parārdhaṃ utkṛṣṭasarvalokāvadhibhūtaṃ satyalokākhyaṃ sthānaṃ | pratyaveyāṃ pratyekaṃ prāpnuyāṃ |*) That is, the world of Satya, which is more excellent than all the remaining worlds, is what the word परार्ध (*parārdha*) denotes here. He has explained that, having established the gods in the other worlds, Brahman himself became separate in his own self-luminous state, which is beyond what can be perceived and beyond a part. Having become separate in that world, he thought again how he should pervade the other worlds. Then Brahman, who is without name and form, resolved to pervade these worlds by means of the two things, name and form. Afterwards he pervaded the world in the same way by name and form. Whatever principles there are in the world, all of them are designated by name and form alone.
+
+ते हैते ब्रह्मणो महतीऽअभ्वे । स यो हैते ब्रह्मणो महती अभ्वे वेद महद्धैवाभ्वं भवति । (*te haite brahmaṇo mahatī 'abhve | sa yo haite brahmaṇo mahatī abhve veda mahaddhaivābhvaṃ bhavati |*)
+
+(Ṭa. Bra. 11-2-3-4) **NOTE**
+
+Name and form, both of these, are the measures of Brahman in the created world. One who knows this principle attains that very measure.
+
+ते हैते ब्रह्मणो महती यक्षे । स यो हैते ब्रह्मणो महती यक्षे वेद महद्दैव यक्षं भवति तयोरन्यतरज्जायो रूपमेव यद्यपि नाम रूपमेव तत्स यो वेद ज्यायान् ह तस्माद्भवति यस्माज्जायान्बुभूषति । (*te haite brahmaṇo mahatī yakṣe | sa yo haite brahmaṇo mahatī yakṣe veda mahaddaiva yakṣaṃ bhavati tayoranyatarajjāyo rūpameva yadyapi nāma rūpameva tatsa yo veda jyāyān ha tasmādbhavati yasmājjāyānbubhūṣati |*)
+
+(Pra. Cā. 11-2-3-5) **NOTE**
+
+Brahman manifests his own nature in the world only through these two kinds, name and form. One who knows this principle manifests himself as exceedingly great. Of these two, form is
+
+### Printed p. 783
+
+greater than name. Whatever has a name (a designation) always has form.
+
+मर्त्याह पा अग्रे देवा आसुः । स यदैव ते ब्रह्मणापुरथामृता आसुः.... .... .... वाग्वै नाम वाचा हि नाम गृहाति तेनो नामाप्रोत्येतावद्वा इदग्ं सर्वं यावद्रूपं चैव नाम च तत्सर्वमाप्योति सर्वं वा अक्षय्यमेतेनो हास्याक्षय्यग्ं सुकृतं भवत्यक्षय्यो लोकः ॥ (*martyāha pā agre devā āsuḥ | sa yadaiva te brahmaṇāpurathāmṛtā āsuḥ.... .... .... vāgvai nāma vācā hi nāma gṛhāti teno nāmāprotyetāvadvā idagṃ sarvaṃ yāvadrūpaṃ caiva nāma ca tatsarvamāpyoti sarvaṃ vā akṣayyameteno hāsyākṣayyagṃ sukṛtaṃ bhavatyakṣayyo lokaḥ ‖*)
+
+(Śa. Brā. 11-2-3.6)
+
+The gods too were mortal at first. But as soon as they became immortal through Brahman, they became immortal. This applies to all the principles that have name and form. Of these, name is joined with speech and form with the mind. And as far as the extent of name and form reaches, so far reaches the extent of the world. When all becomes fully of the nature of Brahman and free of name and form, everything becomes formless. Even so, all these are only the world that is one quarter of Brahman. It has been shown that Brahman, called the three-quarter one, dwells alone in the world of the higher half (the world of Satya), beyond name and form and beyond perception, as described in the sūkta under discussion. Although the whole world without name and form is made luminous, the nature of Parabrahman alone remains beyond perception. In the description सत्यस्य सत्यं (*satyasya satyaṃ*) one truth applies to the world, and the other truth is joined to Parabrahman. One truth has concealed the other truth. The world, together with its deficiencies, makes the supreme truth invisible to the eye. How? Thus:
+
+तदेतदमृतं सत्येन च्छन्नं प्राणो वा अमृतं नामरूपे सत्यं ताभ्यामयं प्राणश्चन्नः । (*tadetadamṛtaṃ satyena cchannaṃ prāṇo vā amṛtaṃ nāmarūpe satyaṃ tābhyāmayaṃ prāṇaścannaḥ |*)
+
+(Bṛ. U. 1-6-3)
+
+The vital breath, dwelling within the body, is of the nature of the self. It is without destruction. Name and form are perishable. They belong to the state of the body, which is of the nature of effect. This vital breath, which is of the nature of the self, is covered by this perishable body.
+
+एतदेव संसारतत्त्वमविद्याविषयं प्रदर्शितं । अत ऊर्ध्वं विद्याविषय आत्माधिगंतव्य इति चतुर्थ आरभ्यते ॥ (*etadeva saṃsāratattvamavidyāviṣayaṃ pradarśitaṃ | ata ūrdhvaṃ vidyāviṣaya ātmādhigaṃtavya iti caturtha ārabhyate ‖*)
+
+(Śaṃ. Bhā.) **NOTE** **GLOSS**
+
+### Printed p. 784
+
+In this way the self, which is of the nature of the vital breath, is covered by the body, which is the object of ignorance, and gives no room for knowledge of the self. Therefore, to know the true nature of this self, one must know the self that dwells in the upper world, higher than the body, that is, higher than the limiting adjuncts of name and form that envelop the world. That is what is the object of true knowledge. That is what is described as त्रिपादूर्ध्व उद्वैत् (*tripādūrdhva udvait*).
+
+There are also those who take the world, the one quarter of Brahman, to be the whole Brahman. What is such knowledge, and what is the fruit of their ignorance? It is this:
+
+तं न पश्यंति । अकृत्स्नो हि स प्राणन्नेव प्राणो नाम भवति । वदन्वाक्यशृंश्चक्षुः शृण्वञ् श्रोत्रं मन्वानो मनस्तान्यस्यैतानि कर्मनामान्येव । स योऽत एकैकमुपास्ते न स वेदाकृत्सो ह्येषोऽत एकैकेन भवत्यात्मेत्येवोपासीत अत्र हैते सर्व एकं भवंति । तदेतत्पदनीयमस्य सर्वस्य यदयमात्मानेन ह्येतत्सर्वं वेद ॥ (*taṃ na paśyaṃti | akṛtsno hi sa prāṇanneva prāṇo nāma bhavati | vadanvākyaśṛṃścakṣuḥ śṛṇvañ śrotraṃ manvāno manastānyasyaitāni karmanāmānyeva | sa yo 'ta ekaikamupāste na sa vedākṛtso hyeṣo 'ta ekaikena bhavatyātmetyevopāsīta atra haite sarva ekaṃ bhavaṃti | tadetatpadanīyamasya sarvasya yadayamātmānena hyetatsarvaṃ veda ‖*)
+
+(Bṛ. 8. 1-4-7) **NOTE**
+
+Although he is the inner controller of all, no one can see Parabrahman. If he were to become visible to the eye, his nature would become deficient. When it breathes, it is called by the name of breath. When it sees, it is called the eye. When it hears, it is called the ear, and when it thinks, it is well known as the mind. All these are its actions. If anyone worships only one of these, he has not known the full nature of Brahman. Only if one worships him as the self that is beyond all these does complete knowledge of him arise. Only in this state, which is beyond the worldly, do the principles such as the vital breath attain unity and harmony. That becomes the पदनीय (*padanīya*) of all knowledge, that is, it becomes the guide to everything. By its help alone all knowledge is obtained.
+
+Sāyaṇa, in his commentary, has declared the world, which is the one-quarter form of Brahman, to be full of ignorance. The difference between that world of the nature of ignorance and the Parabrahman who is of the nature of knowledge and light and is called the three-quarter one has been shown in this way. The nature of the world's ignorance is this:
+
+अविद्यायामंतरे वर्तमानाः स्वयंधीराः पंडितंमन्यमानाः । दंद्रम्यमाणाः परियंति मूढा अंधेनैव नीयमाना यथांधाः ॥ (*avidyāyāmaṃtare vartamānāḥ svayaṃdhīrāḥ paṃḍitaṃmanyamānāḥ | daṃdramyamāṇāḥ pariyaṃti mūḍhā aṃdhenaiva nīyamānā yathāṃdhāḥ ‖*)
+
+(Kaṭha. 2-5) **NOTE**
+
+Sunk in the pit of ignorance, regarding themselves as wise and knowing, the foolish wander about. They have no knowledge of the better world. Just as one blind man takes another blind man as his guide,
+
+### Printed p. 785
+
+so these ignorant people, not knowing that there is a world better than this one, are guides to one another. The reason for this is:
+
+न सांपरायः प्रतिभाति बालं प्रमाद्यंतं वित्तमोहेन मूडं । अयं लोको नास्ति पर इति मानी पुनःपुनर्वशमापद्यते मे ॥ (*na sāṃparāyaḥ pratibhāti bālaṃ pramādyaṃtaṃ vittamohena mūḍaṃ | ayaṃ loko nāsti para iti mānī punaḥpunarvaśamāpadyate me ‖*)
+
+(Kaṭha. 2-6) **NOTE**
+
+The ignorant cannot understand that there is another world beyond this one. They lie wallowing in material wealth. They argue that only the worldly is true and the rest is untrue. For that very reason they come again and again under the power of birth, death and the like. Therefore, for those who know the Brahman world of three quarters, which is beyond the world of one quarter, there is no fear of repeated birth and death. The difference between these two worlds is this:
+
+अनंदा नाम ते लोका अंधेन तमसावृताः । तांस्ते प्रेत्याभिगच्छंत्यविद्वांसोऽबुधो जनाः ॥ (*anaṃdā nāma te lokā aṃdhena tamasāvṛtāḥ | tāṃste pretyābhigacchaṃtyavidvāṃso 'budho janāḥ ‖*)
+
+(Bṛ. U. 4-4-19)
+
+These worlds, covered by ignorance and other kinds of darkness, are not givers of bliss. People without knowledge and without discernment, after death, enter these very sorrowful worlds and become subject again and again to birth, death and the like.
+
+आत्मानं चेद्विजानीयादयमस्मीति पूरुषः । किमिच्छन्कस्य कामाय शरीरमनुसंज्वरेत् ॥ (*ātmānaṃ cedvijānīyādayamasmīti pūruṣaḥ | kimicchankasya kāmāya śarīramanusaṃjvaret ‖*)
+
+(Bṛ. U. 4-4-12)
+
+One who has known the divine nature of the Supreme Puruṣa of three quarters does not set his attachment on worldly affairs, which are earthly and subject to destruction, and worships the Supreme Self alone.
+
+असुरा नाम ते लोका अंधेन तमसावृताः । तांस्ते प्रेत्याभिगच्छंति ये के चात्महनो जनाः ॥ (*asurā nāma te lokā aṃdhena tamasāvṛtāḥ | tāṃste pretyābhigacchaṃti ye ke cātmahano janāḥ ‖*)
+
+(Īśa. 3) **NOTE**
+
+This world of one quarter of the Lord is endowed with demonic wealth. It is full of pitch darkness. This world of one quarter of the Lord is endowed with demonic wealth. It is full of pitch darkness. **NOTE** Those who do not know the Supreme Self of three quarters, becoming slayers of the self, are born again and again in this very world covered by ignorance and suffer. To show that the world of the Supreme Self is better than this, it is said ऊर्ध्व उद्वैत् पुरुषः (*ūrdhva udvait puruṣaḥ*). What the nature of that divine world is
+
+### Printed p. 786
+
+has been stated in the special topics of the previous Ṛk. Here only a couple of examples that describe it are set out. In these descriptions there is no distinction that the divine world is one thing and this world another. The purport is only that this all-pervading principle pervades the world and also transcends the world. It means that the world is only one part of this great principle. If the world of saṃsāra, which is only one quarter, is separated from the three quarters, then only sorrow and ignorance are the result. But the nature of the whole universe and of the Self of the universe is this:
+
+य एष सुप्तेषु जागर्ति कामं कामं पुरुषो निर्मिमाणः । तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते । तस्मिन् लोकाः श्रिताः सर्वॆ तदु नात्येति कश्चन ॥ (*ya eṣa supteṣu jāgarti kāmaṃ kāmaṃ puruṣo nirmimāṇaḥ | tadeva śukraṃ tadbrahma tadevāmṛtamucyate | tasmin lokāḥ śritāḥ sarvè tadu nātyeti kaścana ‖*)
+
+(Kara. 5-8) **NOTE**
+
+The Supreme Puruṣa, who pervades the universe and is called the three-quarter one, is awake while the whole world sleeps. That is the pure Parabrahman. That is the immortal. In it all the worlds have found their support. Nothing can exist beyond it. That is the truth that is greater than truth.
+
+सूरो यथा सर्वलोकस्य चक्षुर्न लिप्यते चाक्षुषैर्बाह्यदोषैः । एकस्तथा सर्वभूतांतरात्मा न लिप्यते लोकदुःखॆ:न बाह्यः ॥ (*sūro yathā sarvalokasya cakṣurna lipyate cākṣuṣairbāhyadoṣaiḥ | ekastathā sarvabhūtāṃtarātmā na lipyate lokaduḥkhè:na bāhyaḥ ‖*)
+
+(Kara. 5-11) **NOTE**
+
+Just as the sun, the eye of the whole world, is not made impure by the faults of the external world that are the objects of his sight, so the Supreme Self, who pervades all beings, is not smeared by the other faults of the world. He is not hindered by the sorrows of the world. He remains in the part above the impermanent world. The nature of the Supreme Puruṣa who shines thus in the upper world is this:
+
+यतो वाचो निवर्तंते । अप्राप्य मनसा सह । (*yato vāco nivartaṃte | aprāpya manasā saha |*)
+
+(Tai. U. 2-4)
+
+This Supreme Puruṣa cannot be described by speech. He cannot be thought of merely by the power of the mind. Because the Great Puruṣa, who is of divine self and divine abode, stands in the upper part, no worldly means can bring about his direct realisation. Therefore it is possible only through divine knowledge.
+
+नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन । यमेवैष वृणुते तेन लभ्यस्तस्यॆस आत्मा विवृणुते तनूं स्वां ॥ (*nāyamātmā pravacanena labhyo na medhayā na bahunā śrutena | yamevaiṣa vṛṇute tena labhyastasyèsa ātmā vivṛṇute tanūṃ svāṃ ‖*)
+
+(Kaṭha. 2-23)
+
+### Printed p. 787
+
+The nature of this Supreme Puruṣa, who pervades the world and stands in the part above the world, cannot be attained by mere study of the Veda, by mere power of intellect, or by mere instruction of a teacher. To realise this nature, which is beyond the world of one quarter, it is possible only by the best meditation. In this way there is a description of the greatness of the Supreme Puruṣa who dwells in the upper world. This is the purport stated by Sāyaṇa. That is:
+
+The world of one quarter is covered by ignorance and is pervaded by fault and sorrow. It is subject to destruction. Better than this, endowed with full knowledge and light, free of fault and free of sorrow, filled with full bliss, the divine world is what is indicated here, according to Sāyaṇa. The Ṛk Saṃhitā sentence that indicates the divine nature of this world is as follows.
+
+यत्रानंदाश्च मोदाश्च मुदः प्रमुद आसते । कामस्य यत्राप्ताः कामास्तत्र मामृतं कृधींद्रायेंदो परिस्रव ॥ (*yatrānaṃdāśca modāśca mudaḥ pramuda āsate | kāmasya yatrāptāḥ kāmāstatra māmṛtaṃ kṛdhīṃdrāyeṃdo parisrava ‖*)
+
+(Ṛ. Saṃ. 9-113-11)
+
+The prayer is made: "Make me deathless in the Brahman world, which gives full bliss." According to Sāyaṇa, this very Brahman world is what is designated in the present Ṛk by the sentence ऊर्ध्व उद्वैत् (*ūrdhva udvait*).
+
+Second: the word त्रिपाच्छब्द (*tripācchabda*) has been taken to mean three worlds. It has been stated that the meaning is the better world that is beyond these three worlds. Which these three worlds are has been stated as the worlds of Jana, Maha and Satya. The worlds of Jana, Maha and Satya do not agree with the divisions of the Ṛk Saṃhitā. These divisions of worlds are of one kind in one place and of another kind in another. But in the end, the point that the world of Parabrahman lies in a region better than all these worlds, in the most excellent place, is described in the same way everywhere. Although there are differences of opinion in some places about the number of worlds, it is clear that the principle of the Lord is beyond the world, in a secret place, in such a way that it is not visible to human perception. This matter is stated in the Ṛk Saṃhitā also on many occasions.
+
+दूरे तन्नाम गुह्यं पराचैर्यत्वा भीते अह्वयेतां वयोध्यॆ । उदस्तभ्नाः पृथिवीं द्यामभीके भ्रातुः पुत्रान्मघवन्ति त्वषाणः ॥ (*dūre tannāma guhyaṃ parācairyatvā bhīte ahvayetāṃ vayodhyè | udastabhnāḥ pṛthivīṃ dyāmabhīke bhrātuḥ putrānmaghavanti tvaṣāṇaḥ ‖*)
+
+(Ṛ. Saṃ. 10-55-1)
+
+### Printed p. 788
+
+O Indra, your nature is hidden in a secret region, in such a way that it is not visible to the eyes of men who are turned away from the search for truth. When heaven and earth, frightened by your nature, sought your help, you poured rain through Parjanya and helped heaven and earth. But your nature you did not show to them in full.
+
+इदं त एकं पर ऊ त एकं तृतीयेन ज्योतिषा सं विशस्व । सुवेशने तन्न १ श्चारुरेधि प्रियो देवानां परमे जनित्रे ॥ (*idaṃ ta ekaṃ para ū ta ekaṃ tṛtīyena jyotiṣā saṃ viśasva | suveśane tanna 1 ścāruredhi priyo devānāṃ parame janitre ‖*)
+
+(Ṛ. Saṃ. 10-56-1)
+
+O Supreme Self, the light in the form of Agni that shines here is one part of you. The light that shines in the atmosphere is another part. The third light is in the form of the Ādityas. And the divine light within the Āditya is beyond all these; it shines in the place of origin of all the gods and deities. Thus the supreme principle, which both pervades and transcends the three worlds, heaven, earth and atmosphere, is described. The division of these worlds is described in one way in one place and in another way in another in the Upaniṣads and other texts. If one examines the view of the Upaniṣads on the question of which are the worlds in which the Supreme Self pervades, shining in the form of the world, and what is his nature in the divine state of his better world beyond those worlds, it becomes convenient to examine whether such a purport suits the sentence त्रिपादूर्ध्व उदैत्पुरुषः (*tripādūrdhva udaitpuruṣaḥ*) of the present Ṛk. The division of the worlds produced by the Lord is set out in the Bṛhadāraṇyaka as follows.
+
+स होवाचोवाच वै सोऽगच्छन्वै ते तद्यत्राश्वमेधयाजिनो गच्छंतीति क्व न्वश्वमेधियाजिनो गच्छंतीति द्वा त्रिंशतं वै देवरथाह्न्यायं लोकस्तं समंतं पृथिवी द्विस्तावत्पर्यति तां समंतं पृथिवीं द्विस्तावत्समुद्रः पर्येति तद्यावती क्षुरस्य धारा यावद्वा मक्षिकायाः पत्रं तावानंतरेणाकाशस्तानिंद्रः सुपर्णो भूत्वा वायवे प्रायच्छत् । (*sa hovācovāca vai so 'gacchanvai te tadyatrāśvamedhayājino gacchaṃtīti kva nvaśvamedhiyājino gacchaṃtīti dvā triṃśataṃ vai devarathāhnyāyaṃ lokastaṃ samaṃtaṃ pṛthivī dvistāvatparyati tāṃ samaṃtaṃ pṛthivīṃ dvistāvatsamudraḥ paryeti tadyāvatī kṣurasya dhārā yāvadvā makṣikāyāḥ patraṃ tāvānaṃtareṇākāśastāniṃdraḥ suparṇo bhūtvā vāyave prāyacchat |*)
+
+(Bṛ. U. 3-3)
+
+Here the universe is divided in three ways. (1) The middle part, (2) the enclosure that goes around the earth, (3) the ocean that pervades around it. (The word ocean does not mean the earthly ocean.) The earth and the atmosphere are the two halves of the egg that is the universe. The horse of the sun needs 32 days to cross the breadth of the world. To go around the earth, 64 days. To cross the atmosphere, 128 days. To go around the whole circumference of the universe, the sun's
+
+### Printed p. 789
+
+horse needs 416 days. In this way there are descriptions of the worlds that are the support of the sun's movement. All these are the worlds in which the sacrificial horse travels. But these worlds are not worlds that bring liberation and are filled with bliss. Beyond this there is a most excellent world. By the performance of sacrificial rites some good worlds are obtained. But these are not such as give lasting happiness. The world that gives lasting happiness is another. The difference between these worlds is described in the Muṇḍaka Upaniṣad as follows.
+
+इष्टापूर्तं मन्यमाना वरिष्ठं नान्यच्छ्रेयो वेदयंते प्रमूढाः । नाकस्य पृष्ठे ते सुकृतेऽनुभूत्वेमं लोकं हीनतरं वा विशंति ॥ (*iṣṭāpūrtaṃ manyamānā variṣṭhaṃ nānyacchreyo vedayaṃte pramūḍhāḥ | nākasya pṛṣṭhe te sukṛte 'nubhūtvemaṃ lokaṃ hīnataraṃ vā viśaṃti ‖*)
+
+(Mu. U. 1-2-10) **NOTE**
+
+Regarding sacrificial rites and the gifts connected with them as the most excellent work, people covered by ignorance place their faith in them alone. They have no knowledge of the Supreme Self at all. But having enjoyed the fruits that accord with those acts, and having lived in the better worlds that are their result, after the impression of the act is exhausted they return again to the lower world and become attached to the impressions of sense objects.
+
+तपःश्रद्धे ये ह्युपवसंत्यरण्ये शांता विद्वांसो भैक्ष्यचर्य्या चरंतः । सूर्यद्वारेण ते विरजाः प्रयांति यत्रामृतः स पुरुषो ह्यव्ययात्मा ॥ (*tapaḥśraddhe ye hyupavasaṃtyaraṇye śāṃtā vidvāṃso bhaikṣyacaryyā caraṃtaḥ | sūryadvāreṇa te virajāḥ prayāṃti yatrāmṛtaḥ sa puruṣo hyavyayātmā ‖*)
+
+(Mu. 1.2.11) **NOTE**
+
+Those who lead a pure life in the forest, practising austerity, meditating on the Supreme Reality and living by alms, the tranquil-souled discerning ones, go through the door of the sun to the most excellent and stainless divine world and attain immortality. That is the divine world of the Supreme Self. That is to say, the difference has been shown that the higher world is one and the lower worlds are many. The arrangement of these lower worlds is stated again in the Bṛhadāraṇyaka in this way.
+
+अथ हैनं गार्गि वाचक्कवी पप्रच्छ याज्ञवल्कॆति होवाच यदिदं सर्वमप्सीतं च प्रोतं च कस्मिन्नु खल्वाप ओतश्च प्रोतश्चेति वायौ गार्गीति कस्मिन्नु खलु वायुरोतश्चेत्यंतरिक्षलोकेषु गार्गीति कस्मिन्नु खल्वंतरिक्षलोका ओताश्च प्रोताश्वेति गंधर्वलोकेषु गार्गीति कस्मिन्नु खलु गंधर्वलोका ओताश्च प्रोताश्वेत्यादित्यलोकेषु गार्गीति कस्मिन्नु खल्वादित्यलोका ओताश्च प्रोताश्वेति चंद्रलोकेषु गार्गीति कस्मिन्नु खलु चंद्रलोका ओताश्च प्रोताश्वेति नक्षत्रलोकेषु गार्गीति कस्मिन्नु खलु (*atha hainaṃ gārgi vācakkavī papraccha yājñavalkèti hovāca yadidaṃ sarvamapsītaṃ ca protaṃ ca kasminnu khalvāpa otaśca protaśceti vāyau gārgīti kasminnu khalu vāyurotaścetyaṃtarikṣalokeṣu gārgīti kasminnu khalvaṃtarikṣalokā otāśca protāśveti gaṃdharvalokeṣu gārgīti kasminnu khalu gaṃdharvalokā otāśca protāśvetyādityalokeṣu gārgīti kasminnu khalvādityalokā otāśca protāśveti caṃdralokeṣu gārgīti kasminnu khalu caṃdralokā otāśca protāśveti nakṣatralokeṣu gārgīti kasminnu khalu*)
+
 ---
 
-**Progress note:** Done through printed p. 781. Puruṣa sūkta Ṛk 3 commentary end, Ṛk 4 with bhāṣya and special topics
+**Progress note:** Done through printed p. 789. Śatapatha and Upaniṣad citations on the three-quarter Puruṣa; special topics of Ṛk 4
