@@ -25586,6 +25586,151 @@ It was said earlier that creation came about in two main kinds, enjoyer and enjo
 
 कुतः अजाता कुतः इयं विसृष्टिः (*kutaḥ ajātā kutaḥ iyaṃ visṛṣṭiḥ*)—from what substance did the creation of many kinds arise, the creation we now see, with the elements, the things made of them, enjoyers, objects of enjoyment and so on? That is, what is the original material needed to build it? Who is the agent (the person) who created it? None of this is known to anyone.
 
+### Printed p. 778
+ārvāk devāḥ asya visarjanena — The matter of this creation may be unknown to men such as ourselves. But is it therefore unknown to others, that is, to the gods, who have greater understanding than we? The answer: when creation began, the gods did not yet exist. The creation of the gods did not come first of all. Only after the creation of a part, that is, of the world beginning with the five great elements starting with space, did the creation of the gods take place. How then could gods born afterwards know a creation that had taken place before their own time? The meaning is that they too cannot know it.
+
+atha kaḥ veda yataḥ abababhūva — Since matters stand thus, what person can know by whom and how this creation of the world came about? The meaning is that it cannot be known by anyone.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं विसृ॑ष्टि॒र्यत॑ आ ब॒भूव॒ यदि॑ वा द॒धे यदि॑ वा॒ न ।  
+> यो अ॒स्याध्य॑क्षः पर॒मे व्यो॑म॒न्नो अं॒ग वे॑द॒ यदि॑ वा॒ न  ॑
+> वेद ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । विसृष्टिः । यतः । आबभूव । यदि । वा । दधे । यदि । वा । न ।  
+> यः । अस्य । अधिअक्षः । परमे । विओमन् । सः । अंग । वेद । यदि । वा । न । वेद॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तप्रकारेण यथेदं जगत्सर्जनं दुर्विज्ञानं एवं सृष्टं तज्जगद्दुर्धरमपीत्याह । इयमिति । यत उपादानभूतात्परमात्मन इयं विसृष्टिर्विविधा
+> गिरिनदीसमुद्रादिरूपेण विचित्रा सृष्टिराबभूव आजाता सोऽपि किल यदि ना दधे
+> धारयति यदि वा न धारयति । एवं च को नामान्यो धर्तुं शक्नुयात् । यदि
+> धारयेदीश्वर एव धारयेन्नान्य इत्यर्थः । एतेन कार्यस्य धारयितृत्वप्रतिपादनेन
+> ब्रह्मण उपादानकारणत्वमुक्तं भवति । तथा च पारमार्षं सूत्रं । प्रकृतिश्च प्रतिज्ञादृष्टांतानुपरोधात् । वेदा. १ ४-२३ । इति । यद्वा! अनेनार्धर्चेन पूर्वोक्तं
+> सृष्टेर्दुज्ञानत्वमेव दृढयति । को वेदेत्यनुवर्तते । इयं विविधा सृष्टिर्यत
+
+##### Gist of the bhāṣya
+
+Just as the creation of this world, as described, is hard to know, so the created world too is hard to sustain; this is what he says with इयमिति (*iyamiti*). The varied creation, in the form of mountains, rivers, oceans and so on, arose from the supreme Self as its material cause; whether he sustains it or not, who else could sustain it? If anyone sustains it, only Īśvara does, no other. By thus stating that the effect is sustained, Brahman's being the material cause is declared. The sūtra of Pārāśarya is cited: प्रकृतिश्च प्रतिज्ञादृष्टांतानुपरोधात् (*prakṛtiśca pratijñādṛṣṭāṃtānuparodhāt*) (Ve. Sū. 1-4-23 **NOTE**). Alternatively, this half-verse confirms the earlier statement that creation is hard to know; "who knows" is carried over. The discussion continues on the next page.
+
+### Printed p. 779
+
+> आबभूव आ समंतादजायतेति को वेद । न कोऽपि । नास्त्येव जगतो जन्म
+> कदाचिदनीदृशं जगदिति बहवो भ्रांता भवंत्यपि । यतः ॥ जनिकर्तुः प्रकृतिः ।
+> पा. १-४-३० । इत्यपादानसंज्ञायां पंचम्यास्तसिल् ॥ यस्मात्परमात्मन उपादानभूतादाबभूव तं परमात्मानं को वेद । न कोऽपि । प्रकृतितः परमाणुभ्यो
+> ना जगज्जनैति हि बहवो भ्रांताः । तथा स एवोपादानभूतः परमात्मा स्वयमेव
+> निमित्तभूतोऽपि सन् यदि वा दधे विदध इदं जगत्ससर्ज यदि वा न ससर्ज ।
+> असंदिग्धे संदिग्धवचनमेतच्छास्त्राणि चेत्प्रमाणं स्युरिति यथा । स एव विदधे तं को
+> वेद । अजानंतोऽपि बहवो जडात्प्रधानादकर्तृकमेवेदं जगत्स्वयमजायतेति
+> विपरीतं प्रतिपन्ना विदधतो विधानमजानंतोऽपि । स एवोपादानभूत इत्यपि
+> को वेद । न कोऽपि । उपादानादन्यस्तटस्थ एवेश्वरो विदध इति हि बहवः
+> प्रतिपन्नाः । देवा अपि यन्न जानंति तदर्वाचीनानामेषां तत्परिज्ञाने कैव
+> कथेत्यर्थः । यद्येवं जगत्सृष्टिरत्यंतदुरवबोधना तर्हि सा प्रमाणपद्धतिमध्यास्त
+> इत्याशंक्य तत्सद्भाव ईश्वरो वेदं प्रमाणयति । यो अस्यॆति । अस्य भूतभौतिकात्मकस्य जगतो योऽध्यक्ष ईश्वरः परम उत्पष्टे सत्यभूते व्योमन् व्योमन्नाकाश
+> आकाशवन्निर्मले स्वप्रकाशे । यद्वा ॥ अवतेस्तर्पणार्थादन्येभ्योऽपि दृश्यंत इति
+> मनिन् । नेड्वशि कृतीतीट्प्रतिषेधः । ज्वरतरेत्यादिना वकारोपधयोरूट् । सप्तम्या
+> लुक् । न जिसंबुद्धोरिति नलोपप्रतिषेधः ॥ व्योमनि विशेषेण तृप्ते । निरतिशयानंदस्वरूप इत्यर्थः । यद्वा । अवतिर्गत्यर्थः । व्योमनि विशेषेण गंतव्ये ।
+> देशकालवस्तुभिरपरिच्छिन्न इत्यर्थः । अथवा ! अवतिर्ज्ञानार्थः । व्योमनि विशेषेण
+> ज्ञातरि विशिष्टज्ञानात्मनि । ईदृशे स्वात्मनि प्रतिष्ठितः । श्रूयते हि सनत्कुमारनारदयोः
+> संवादे स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्मि । छा. उ. ७-२४-१ । इति । ईदृशो
+> यः परमेश्वरः सो अंग । अंगेति प्रसिद्धौ । सोऽपि नाम वेद जानाति । यदि वा
+> न वेद न जानाति । को नामान्यो जानीयात् । सर्वज्ञ ईश्वर एव तां सृष्टिं
+> जानीयात् नान्य इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"Who knows" from whom, as the material cause, it came into being? No one. Many are deluded, thinking that the world has no birth and was never otherwise. The ablative ending (tasil) is explained by the rule जनिकर्तुः प्रकृतिः (*janikartuḥ prakṛtiḥ*) (Pā. Sū. 1-4-30), the source being called apādāna. Who knows that supreme Self from whom it arose? No one; many are deluded that the world arises from primal matter or from atoms. Likewise that same Self, the material cause and himself also the efficient cause, "has set it in order", that is, created this world or did not create it. This is a doubtful statement about what is not doubtful, as when one says "if the scriptures are authority". Who knows him who ordained it? Many, ignorant of the ordainer, wrongly hold that this world arose by itself from insentient primal matter without a maker. Who knows that he is the material cause? No one; many hold that Īśvara, other than the material, stands apart and ordains. Where even the gods do not know, what hope have those who came later? If creation is so hard to know, does it rest on any means of knowledge? To meet that doubt, the Veda establishes its existence with यो अस्यॆति (*yo asyèti*): Īśvara, the overseer of this world of elements and their products, is in the highest व्योमन् (*vyoman*), which is real, pure like space, self-luminous. Or, with the root av in the sense of satisfying, vyoman is the one specially satisfied, of unsurpassed bliss. Or, with av in the sense of going: to be specially reached, unlimited by place, time and things. Or, with av in the sense of knowing: in the special knower, whose self is distinguished knowledge; he is established in such a self. The Chāndogya passage is cited: स भगवः कस्मिन्प्रतिष्ठित इति स्वे महिम्मि (*sa bhagavaḥ kasminpratiṣṭhita iti sve mahimmi*) (Chā. U. 7-24-1). Such is the supreme Lord; *aṅga* is an exclamation of familiarity. Does even he know, or not? Who else could know? Only the omniscient Īśvara could know that creation, no other.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यतः (*yataḥ*)—from which supreme Self
+- इयं (*iyaṃ*)—this, which we see
+- विसृष्टिः (*visṛṣṭiḥ*)—the wondrous creation made up of the various forms of rivers, mountains, oceans and so on
+- आबभूव (*ābabhūva*)—arose (that very supreme Self)
+- यदि वा दधे (*yadi vā dadhe*)—he upholds and nourishes this world
+- यदि वा न (*yadi vā na*)—or he may not uphold it (in that case no one else can uphold and nourish it)
+- अस्य (*asya*)—of this world
+- अध्यक्षः (*adhyakṣaḥ*)—the lord
+- यः (*yaḥ*)—which supreme Self
+- परमे (*parame*)—in the excellent, or real
+
+### Printed p. 780
+- व्योमन् (*vyoman*)—shines in his self-luminous nature, pure like space
+- सः (*saḥ*)—that supreme Self alone
+- वेद (*veda*)—can know this
+- अंग (*aṃga*)—this is well known
+- यदि वा न वेद (*yadi vā na veda*)—if even he does not know, then no one knows this matter
+
+##### भावार्थ (Bhāvārtha)
+
+The supreme Self from whom this wondrous creation, made up of the various forms of rivers, mountains, oceans and so on that we see, arose, that same supreme Self upholds and nourishes this world. Or, if he does not uphold it, no one else can uphold and nourish it. The supreme Self who is the lord of this world and shines in his own self-luminous nature, excellent, real and pure like space, he alone can know this for certain. If even he does not know, who else can know? No one can.
+
+##### English translation
+He from whom this creation arose, he may uphold it, or he may not (no one else can); he who is its superintendent in the highest heaven, he assuredly knows, or if he knows not (no one else does).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous Ṛk it was said that no one, the gods and others included, knows the manner of this creation; in this Ṛk it is described still more fully.
+
+इयं विसृष्टिः यतः आबभूव यदि वा दधे यदि वा न (*iyaṃ visṛṣṭiḥ yataḥ ābabhūva yadi vā dadhe yadi vā na*)—It is said that this wondrous creation, made up of mountains, rivers and oceans, arose from the supreme Self, the material cause. That is, from the manifest form of the real (sat), whose form was unmanifest, this world and the rest arose. Since the supreme Self is the one who exists in the form of the non-real (asat), that is, in unmanifest form, this whole world arose from him alone. But after the world was thus created, who upholds and nourishes it? On this each says something different. Some, deluded, say that this world has neither origin nor destruction, that it was so before and will be so hereafter. For if the world is said to have been created by the supreme Self, who knows that such a supreme Self exists? No one. So no one created the world and it has neither origin nor destruction; such is their argument. Others say that all things of the world are made of atoms, and that these atoms, according to their own nature, have been transformed into the various things and into the world.
+
+### Printed p. 781
+They say that no maker (the supreme Self) is needed to create it. Still other fools who know nothing say that the world is insentient matter, that no one made it and that it arose of itself in this manner. Still others say: let us grant that the world was made by the supreme Self whose form is the non-real, but why must the supreme Self himself uphold and nourish it? Some other, neutral person performs such work as upholding the world. All of these must be said to be deluded.
+
+The supreme Self from whom this creation came is the one who upholds and nourishes this world. Or if he does not uphold it, no one else is able to do so. Creating is not the only work of the supreme Self; the one who upholds and nourishes it is also that same supreme Self. On this the Śruti passage तत्सृष्टा । तदेवानु प्राविशत् (*tatsṛṣṭā | tadevānu prāviśat*) supports this. It is said in many places that he enters as the inner self into the things he has created and upholds and nourishes them. So if there is anyone who upholds and nourishes this world, he is none other than the supreme Self. When the supreme Self is in unmanifest form he is in the form of the cause of the world and the rest; in manifest form he himself, transformed into the form of effect, exists as the world and the rest. So the supreme Self is both effect and cause of the world and the rest. He is the enjoyer and the means of enjoyment. He is the doer of all. The one who creates the world, upholds and nourishes it, and at the end destroys it and makes it dissolve in himself is that same supreme Self. This is said here in another way.
+
+यः अस्य अध्यक्षः परमे व्योमन् सः अंग वेद यदि ना नवेद (*yaḥ asya adhyakṣaḥ parame vyoman saḥ aṃga veda yadi nā naveda*)—Here the commentator has explained the words परमे व्योमन् (*parame vyoman*) in various senses. परमे व्योमन् (*parame vyoman*) means in the excellent sky; or आकाशवन्निर्मले स्वप्रकाशे (*ākāśavannirmale svaprakāśe*), he who shines in his self-luminous nature, pure like space.
+
+On this the commentator cites a passage of the Chāndogya Upaniṣad: स भगवः कस्मिन् प्रतिष्ठित इति—स्वे महिम्मि (*sa bhagavaḥ kasmin pratiṣṭhita iti—sve mahimmi*) (Chā. U. 7-24-1). In the dialogue of Sanatkumāra and Nārada, Nārada asked Sanatkumāra: "Revered sir, in what is that Lord (the supreme Self) established?", that is, what is his support? Sanatkumāra answered the question: that supreme Self shines in his own self-luminous nature; he needs no support or basis from another; he is the support of all, all shines by him, and he shines in his own light and his own greatness.
+
+अथवा अवतेस्तर्पणार्थात् (*athavā avatestarpaṇārthāt*)—If the word vyoman is taken to be formed from the root av, which means to satisfy, then the meaning is: he who is satisfied, whose desires are fulfilled, who shines in a nature of unsurpassed bliss.
+
+### Printed p. 782
+Or, if the root av is given the sense of going, then विशेषेण गते व्याप्ते! देशकालवस्तुभिरपरिच्छिन्न इत्यर्थः (*viśeṣeṇa gate vyāpte! deśakālavastubhiraparicchinna ityarthaḥ*): specially pervading, that is, he who pervades place, time and things without break and is not limited by them. Or अवतिर्ज्ञानार्थः । व्योमनि विशेषेण ज्ञातरि विशिष्टज्ञानात्मनि (*avatirjñānārthaḥ | vyomani viśeṣeṇa jñātari viśiṣṭajñānātmani*): if the root av is given the sense of knowledge, it means one whose self is distinguished knowledge, that is, the omniscient. The supreme Self who thus shines of himself in his own self-luminous nature and is the Lord of this world alone knows this matter of creation for certain. Except him there is no other who knows it. If even he did not know it, who could? No one else knows; such is the sense of the sentence.
+
+## Sūkta 130 (Maṇḍala 10)
+यो यज्ञ इति (*yo yajña iti*) the second sūkta, of seven Ṛks, has as its seer Yajña, son of Prajāpati. The first verse is in Jagatī, the rest in Triṣṭubh. Here too the creation of certain things, Yajña and others, is set forth. So the thing that is chiefly to be created is the deity; or the Prajāpati who makes it is the deity. So the Anukramaṇī says: यो यज्ञो यज्ञः प्राजापत्यो जगत्याद्येति (*yo yajño yajñaḥ prājāpatyo jagatyādyeti*). The viniyoga has already been given.
+
+Anuvāda: The sūkta यो यज्ञः (*yo yajñaḥ*) is the second sūkta in the eleventh anuvāka. It has seven Ṛks. Its seer is Yajña, son of Prajāpati; the first Ṛk is in Jagatī metre and the remaining Ṛks in Triṣṭubh. In this sūkta too the order of creation of certain notions, Yajña and others, is described. Therefore whatever matter relating to creation is set forth in this sūkta is its deity; or Prajāpati, who created it, is the deity. In the Anukramaṇī it is said यो यज्ञो यज्ञः प्राजापत्यो जगत्याद्या (*yo yajño yajñaḥ prājāpatyo jagatyādyā*). The viniyoga has been given before.
+
+Maṇḍala 10; Anuvāka 11; Sūkta 130. Aṣṭaka 8; Adhyāya 7; Varga 18. Number of Ṛks in the sūkta: 7. Ṛṣi: Yajña Prājāpatya. Devatā: Bhāvavṛtta. Chandas: 1 Jagatī; 2–7 Triṣṭubh.
+
+### Printed p. 783
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो य॒ज्ञो वि॒श्वत॒स्तंतु॑भिस्त॒त एक॑शतं देवक॒र्मेभि॒राय॑तः ।  
+> इ॒मे व॑यंति पि॒तरो॒ य आ॑य॒युः प्र व॒याप॑ व॒येत्या॑सते त॒ते ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । यज्ञः । विश्वतः । तंतुभिः । ततः । एकशतं । देवकर्मेभिः । आयतः ।  
+> इमे । वयंति । पितरः । ये । आऽययुः । प्र । वय । अप । वय । इति । आसते ।  
+> तते ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तंतुभिस्तनितृभिर्विस्तारयितृभिर्वियदादिभूतैर्यः सर्गात्मको यज्ञो विश्वतः
+> सर्वतस्ततो विस्त्रतः । तथैकशतं । एकं च शतं चैकशतं ॥ संख्यॆति पूर्वपदप्रकृतिस्वरत्वं ॥ एकोत्तरशतमित्यर्थः । ब्रह्मा येषु शतसंख्यॆष्वात्मीयसंवत्सरेषु जीवति
+> तदभिप्रायेणात्र शतसंख्या । जीवता तेन प्रजापतिना सार्धमेकशतमित्युच्यते ।
+> यथा शतायुर्नै पुरुषः शतवीर्य आत्मैकशत इति । अत्यंतसंयोगे द्वितीया ।
+> ब्रह्मणः शतसंवत्सरपर्यंतं देवकर्मेभिर्देवानुद्दिश्य भोक्तृभिः कृतैः कर्मभिरायतः । दीर्घीभूतः । तावत्कालावस्थायि ! एवमायामविस्तारवान् ।..................।
+> पितरः पालकाः प्रजापतेः प्राणभूता विश्वसृजो देवा वयंति । निर्मिमते । ये
+> देवा आययुः स्रष्टव्यं सर्वं जगत्स्ववयनेन व्यापुः । अपि च प्र वयाप वयेति ।
+> प्रमाणं नाम प्रकृष्टस्य चेतनस्य भोक्तृप्रपंचस्य सर्जनं । अपवानं नामापकृष्टस्य निकृष्टस्याचेतनस्य भोग्यप्रपंचस्य सर्जनं ॥ वेञ् तंतुसंताने । समुच्चयेऽन्यतरस्यां । पा. ३-४-३ । इति लोट् । तस्य लोटो हिस्सावित्यनुवृत्तेर्हिरादेशः । शब्बुणायादेशाः । अतो हेरिति लुक् ॥ प्र वयाप वयेति वयंतः
+> प्रवाणमपवानं च कुर्वंत इत्यर्थः । एवंभूताः संतस्ते विश्वसृजस्तते विस्तृते
+> सत्यलोक आसते । प्राणरूपेण प्रजापतिमुपासते ॥ यद्वा। ज्योतिष्टोमादियज्ञ
+> एवंरूपकत्वेन पचात्मना वर्ण्यते । यो यज्ञो ज्योतिष्टोमादिस्तंतुभिस्तंतुस्थानीयैरग्निष्टोमात्यग्निष्टोमादिसंस्थाप्य भेदैः सप्तभिश्चंदोभिर्वा सर्वतो विश्वत-
+
+##### Gist of the bhāṣya
+
+The sacrifice (yajña) of the nature of creation, which is spread on every side by threads, that is, by the expanding elements beginning with space. *Ekaśata* is one and a hundred, that is, a hundred and one: because Brahmā lives for a hundred of his own years, it is called a hundred and one together with Prajāpati who lives them, as in शतायुर्नै पुरुषः शतवीर्य आत्मैकशत इति (*śatāyurnai puruṣaḥ śatavīrya ātmaikaśata iti*); the accusative expresses continuous connection. It is extended, lengthened, by acts done by enjoyers for the gods through Brahmā's hundred years, and lasts so long. The fathers, protectors, the world-creating gods who are Prajāpati's vital powers, weave, that is, fashion; the gods who "came" pervaded all that was to be created by weaving. And "pra vaya, apa vaya": pravāṇa is the creation of the excellent, conscious world of enjoyers; apavāna is the creation of the inferior, insentient world of things enjoyed. The root वेञ् (*veñ*) is in the sense of weaving threads; the imperative by समुच्चयेऽन्यतरस्यां (*samuccaye 'nyatarasyāṃ*) (Pā. 3-4-3). So, weaving, they make pravāṇa and apavāna. Being thus, those world-creators abide in the extended Satyaloka, worshipping Prajāpati in the form of the vital breath. Or else the sacrifice such as Jyotiṣṭoma is described under this figure as a loom: its threads are the forms such as Agniṣṭoma, or the seven metres. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 777. pp. 772-777 (batch API)
+**Progress note:** Done through printed p. 783. pp. 778-783 (batch API)
