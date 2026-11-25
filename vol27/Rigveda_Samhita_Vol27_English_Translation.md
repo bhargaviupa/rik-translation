@@ -22962,6 +22962,273 @@ O Indra, you, the wise, come facing your horses, whose speed none among gods or 
 ##### English translation
 You have come to these two horses (which have the speed) of the wind, straight-going, for them to draw you of themselves, whom no deity, no mortal is able to restrain ; whose fleetness no one comprehends.
 
+### Printed p. 662
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ ग्मंतो॒शना॑ पृच्छते वां॒ कद॑र्था न॒ आ गृ॒हं ।  
+> आ ज॑ग्मथुः परा॒काद्दि॒ वश्च॒ ग्मश्च॒ मर्त्यं॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । ग्मंता । उशना । पृच्छते । वां । कत् अर्था । नः । आ । गृहं ।  
+> आ । जग्मथुः । पराकात् । दिवः । च । ग्मः । च । मर्त्यं ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाथ यज्ञसमाप्त्यनंतरमुशना भार्गव ऋषिर्हे इंद्राग्नी ग्मंता
+> स्वस्थानं प्रति गच्छंत्वा नां युवां पृच्छते । पृच्छति स्म । यद्वा । उशनेति विभक्तिव्यत्ययः । उशनसमिंद्रस्य सखिभूतं भार्गवमिंद्रं च युवां सर्वो यजमानः
+> पृच्छति । किं पृष्टवानिति उच्यते । युवां कदार्था कदर्थौ किंप्रयोजनवंतौ
+> संतौ नोऽस्मदीयं । आकारः प्रतीत्यस्यार्थे ! गृहं प्रति पराकात् । दूरनामैतत् ।
+> दूरादा जग्मथुः । आगतवंतौ स्थः। तदेवोक्तं । दिवश्च द्युलोकाच्च ग्मश्च भूलोकाच्च मर्त्यं मनुष्यं मां प्रत्यागतवंतौ । युवयोः कृतार्थत्पादत्रागमनमस्मदनुग्रहार्थमेव न स्वार्थमिति ब्रुवन्ननुव्रजतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+After the completion of the sacrifice, the seer Uśanas Bhārgava asks the two, Indra and Agni, who are going to their own place: "For what purpose have you come to our house?" Alternatively, उशना (*uśanā*) is a case-substitution: the sacrificer, every one of them, asks both Uśanas, the friend of Indra, a Bhārgava, and Indra. What does he ask? "You two, having what purpose, have come to our house from afar (पराकात् (*parākāt*) is a word for 'far'), from heaven and from earth, to me, a mortal?" The two have come for the sake of their own fulfilment, yet their coming is only to favour us, not for themselves; saying so, he follows after them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कदर्था (*kadarthā*)—having what purpose
+- नः (*naḥ*)—our
+- गृहं (*gṛhaṃ*)—to the house
+- पराकात् (*parākāt*)—from a very distant region
+- आ जग्मथुः (*ā jagmathuḥ*)—you have come
+- दिवः (*divaḥ*)—from the heaven
+- ग्मः च (*gmaḥ ca*)—and from the earth
+- मर्त्यं (*martyaṃ*)—to me, a human being
+- आ (जग्मथुः) (*ā (jagmathuḥ)*)—with what aim have you come
+- ग्मंता (*gmaṃtā*)—going to him
+- वां (*vāṃ*)—you two
+- अद्य (*adya*)—today
+- उशना (*uśanā*)—Uśanas, the son of Bhṛgu
+- पृच्छते (*pṛcchate*)—asks
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and Agni, expecting what purpose have you both come to our house? From heaven, the farthest region, and from earth too, with what aim have you come to me, a human? So Uśanas, son of Bhṛgu, asks you as you go to him.
+
+### Printed p. 663
+
+##### English translation
+Ushanas inquires of you two as you pass, " (Why) have you come to (our dwelling) from a distance ; from heaven and earth to a mortal ? "
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ न॑ इंद्र पृक्षसे॒ऽस्माकं॒ ब्रह्मोद्य॑तं ।  
+> तत्त्वा॑ याचाम॒हेवः॒ शुष्णं॒ यद्धन्नमा॑नुषं ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । इंद्र । पृक्षसे । अस्माकं । ब्रह्म । उत्यतं ।  
+> तत् । त्वा । याचामहे । अवः । शुष्णं । यत् । हन् । अमानुषं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं । न इति तृतीयार्थे षष्ठी । नोऽस्माभिरुद्यतमुत्किष्टं ।
+> दत्तमित्यर्थः । अस्माकमस्मदीयं ब्रह्म हविर्लक्षणमन्नं । आङ्मयादायां । आ
+> तृप्तेरित्यर्थः । पृक्षसे । आत्मना संपर्चय ॥ पृची संपर्क इति धातो रूपं ॥
+> आभक्षयेत्यर्थः । किंच वयमपि त्वैवंभूतं त्वां तत् । यदुत्कृष्टमस्तीति शेषः ।
+> तत्तादृशमन्नमवस्तद्रक्षणं च याचामहे । प्रार्थयामहे । तथा यच्छुष्णं
+> बलं चामानुषं मनुष्यादन्यं राक्षसादिकं हन् हंति तदुत्कृष्टं बलं च याचामहे । यद्वा । हे इंद्र त्वं शुष्णमेतन्नामानममानुषं मनुष्यव्यतिरिक्तमसुरु
+> हन् । हतवानसि । हत्वा च यद्येन रक्षणेन त्रैलोक्यं पालितवानसि तदवः पालनमस्माकमपि भवेदिति त्वां याचामह इति वाक्यार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, न (*na*) is a genitive in the sense of the instrumental: the food in the form of oblation, ब्रह्म (*brahma*), raised up, that is, offered, by us. आ (*ā*) marks the limit: until satisfied, partake (पृक्षसे (*pṛkṣase*), from the root पृची (*pṛcī*) meaning contact); that is, eat it. Moreover, we ask you, such as you are, for that excellent food and its protection (अवः (*avaḥ*)), and also for the strength (शुष्णं (*śuṣṇaṃ*)) by which you slay the non-human, the demons and the like, other than men. Alternatively: O Indra, you slew the non-human Śuṣṇa, an asura apart from men, and by the protection with which you guarded the three worlds, may that protection be ours too; so we ask you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—by us
+- उद्यतं (*udyataṃ*)—offered
+- अस्माकं (*asmākaṃ*)—our
+- ब्रह्म (*brahma*)—oblation
+- आ पृक्षसे (*ā pṛkṣase*)—accept until satisfied
+- यत् (*yat*)—which
+- शुष्णं (*śuṣṇaṃ*)—your strength
+- अमानुषं (*amānuṣaṃ*)—the demons and others who have no humanity
+- हन् (*han*)—is able to kill
+- तत् (*tat*)—such
+- अवः (*avaḥ*)—powerful protection
+- त्वा (*tvā*)—from you
+- याचामहे (*yācāmahe*)—we ask
+
+### Printed p. 664
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, accept this oblation offered by us until you are satisfied. We ask of you that powerful protection, your strength which can slay asuras who have no humanity.
+
+##### English translation
+Aaccpt, Indra, the oblation upraised by us ; we solicit of you that protection by which you did slay the non-human Shushna.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क॒र्मा दस्यु॑र॒भि नो॑ अमं॒तुर॒न्यव्र॑तो॒ अमा॑नुषः ।  
+> त्वं तस्या॑मित्रह॒न्वध॑र्दा॒स्य॑ दंभय ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अकर्मा । दस्युः । अभि । नः । अमंतुः । अन्यव्रतः । अमानुषः ।  
+> त्वं । तस्य । अमित्रहन् । वधः । दासस्य । दंभय ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अकर्माविद्यमानयागादिकर्मा दस्युरुपक्षपयिताभ्याभिमुख्येन स्वरूपतो नोऽस्मानमंतुरज्ञाता । यद्वा । अत्रावेत्युपसर्गस्य वकारलोपो
+> द्रष्टव्यः । अवमंतुरवमंताभिभविता । अन्यव्रतः श्रुतिस्मृतिव्यतिरिक्तकर्मामानुषो
+> मनुष्यसंव्यवहाराद्बाह्यः । असुरप्रकृतिरित्यर्थः । य एवंभूतोऽस्ति हे आमित्रहञ्छत्रोणां हंतरिंद्र त्वं दासस्कोपक्षपयितव्यस्य वधर्हंता सन् दंभय । तं
+> शत्रुं हिंधि ॥
+
+##### Gist of the bhāṣya
+
+The Dasyu, the destroyer, who has no sacrificial rites, is unknown to us, ignorant of us (अमंतुः (*amaṃtuḥ*)); or, with the loss of the letter v of the prefix ava, "one who despises, overpowers". He is अन्यव्रतः (*anyavrataḥ*), with rites other than those of śruti and smṛti, and अमानुषः (*amānuṣaḥ*), outside human intercourse, of asura nature. O Indra, slayer of foes, being the slayer, the weapon, of that slave (दासस्य (*dāsasya*)), who is to be destroyed, crush that enemy; kill him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अ मित्रहन् (*a mitrahan*)—O Indra, destroyer of enemies
+- त्वं (*tvaṃ*)—you
+- अकर्मा (*akarmā*)—being without rites
+- दस्युः (*dasyuḥ*)—a destroyer
+- अभि (*abhi*)—wholly
+- नः (*naḥ*)—us
+- अमंतुः (*amaṃtuḥ*)—one who does not know
+- अन्यव्रतः (*anyavrataḥ*)—one whose rites are not those of worshippers of the gods
+- अमानुषः (*amānuṣaḥ*)—one of demonic nature
+- तस्य (*tasya*)—of whatever asura there is
+- दासस्य (*dāsasya*)—of the destroying enemy
+- वधः (*vadhaḥ*)—as destroyer
+- दंभय (*daṃbhaya*)—kill him
+
+### Printed p. 665
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, destroyer of enemies, whatever asura there is who is without rites, a destroyer, wholly ignorant of us, with rites that are not those of worshippers of the gods, and of demonic nature, be the slayer of that asura and kill him.
+
+##### English translation
+The Dasyu practising no religious rites, not knowing us thoroughly following other observances, obeying no human laws, baffle, destroyer of enemies, the wapon of that slave.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं न॑ इंद्र शूर॒ शूरै॑रु॒त त्वोता॑सो ब॒र्हणा॑ ।  
+> पु॒रु॒त्रा ते॒ वि पू॒र्तयो॒ नवं॑त क्षो॒णयो॑ यथा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । इंद्र । शूर । शूरैः । उत । त्वाऊतासः । बर्हणा ।  
+> पुरुत्रा । ते । वि । पूर्तयः । नवंत । क्षोणयः । यथा ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांतेंद्र त्वं शूरैर्भटैर्मरुद्भिः सहितः सन्नोऽस्मान् पाहीति
+> शेषः । उतापि च त्वोतासस्त्वया रक्षिता वयं बर्हणा परिबर्हणायां शत्रूणां
+> हिंसायां समर्था भवेम । किंच ते त्वदीयाः पूर्तयः कामानां पूरणानीप्सितार्थप्रदानानि पुरुत्रा बहून्सोत्थन्वि नवंत । विविधं व्याप्नुवंति । क्षोणयः ।
+> मनुष्यनामैतत् । मनुष्याः स्वकीयं स्वामिनं सेवार्थं यथा व्याप्नुवंति
+> तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O heroic Indra, together with the heroes, the Maruts, protect us (to be supplied). And protected by you, may we be able in the crushing of enemies. Moreover, your fulfilments of desires, the gifts granting what is wished, spread widely (नवंत (*navaṃta*)) among many, as men (क्षोणयः (*kṣoṇayaḥ*), a word for men) resort to their own lord for service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant
+- इंद्र (*iṃdra*)—Indra
+- त्वं (*tvaṃ*)—you
+- शूरैः (*śūraiḥ*)—with the heroic Maruts
+- नः (*naḥ*)—protect us
+- उते (*ute*)—and
+- त्वोतासः (*tvotāsaḥ*)—we protected by you
+- बर्हणा (*barhaṇā*)—may we withstand the enemy-destroying power
+- क्षोणयः (*kṣoṇayaḥ*)—men
+- यथा (*yathā*)—as
+
+### Printed p. 666
+- (continued) they go and join their lords for service
+- ते (*te*)—given by you
+- पूर्तयः (*pūrtayaḥ*)—gifts that fulfil wishes
+- पुरुत्रा (*purutrā*)—among many praisers
+- वि नवंत (*vi navaṃta*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, protect us together with the heroic Maruts. And protected by you, may we withstand the enemy-destroying power. As men go and join their lords for service, the gifts given by you, which fulfil wishes, go and join many praisers.
+
+##### English translation
+Hero, Indra, with the hero (Maruts defend) us; that protected by you (we may be able) to overcome (our enemies): your blessings are diffused among many (praisers), as men (repair to their lord)
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं तान्वृ॑त्त॒हत्ये॑ चोदयो॒ न्यन्का॑र्पा॒णे शू॑र वज्रिवः ।  
+> गुहा॒ युदी॑ कवी॒नां वि॒शां नक्ष॑त्रशवसां ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । तान् । वृत्रहत्ये । चोदयः । न्यन् । कार्पाणे । शूर । वज्रिवः ।  
+> गुहा । यदि । कवीनां । विशां । नक्षत्रशवसां । १८
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिवो वज्रधर शूरेंद्र त्वं कार्पाणे । असिः कृपाणः । तेन साध्यं
+> युद्धं कार्पाणं । तस्मिन्वृत्रहत्ये शत्रुहननार्थं नृन्नरांस्तान्प्रसिद्धान्मरुद्गणांश्चोदयः । चोदयसि । प्रेरयसि । यदि यदा त्वं कवीनां मेधाविनां
+> नक्षत्रशवसां देवान्प्रतिगच्छत्सोतृबलानां विशां स्तोतृजनानां संबंधीनि गुहा
+> गूढानि गुणैः संवृतानि स्तोत्राणि शृणोषीति शेषः । तदा प्रेरयसीति पूर्णेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+O wielder of the thunderbolt, heroic Indra, in the battle कार्पाणे (*kārpāṇe*) (कृपाणः (*kṛpāṇaḥ*) is a sword; war accomplished with it is kārpāṇa), the slaying of Vṛtra, you urge on those well-known men, the Marut hosts, to kill enemies, when you hear the hidden praises, concealed by their qualities, of the wise praisers, whose strength goes towards the gods. The connection is with the final "then you urge".
+
+### Printed p. 667
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिवः (*vajrivaḥ*)—wielder of the thunderbolt
+- शूर (*śūra*)—O valiant Indra
+- यदि (*yadi*)—when
+- कवीनां (*kavīnāṃ*)—of the wise
+- नक्षत्रशवसां (*nakṣatraśavasāṃ*)—who are fit to reach the gods
+- विशां (*viśāṃ*)—of the praisers
+- गुहा (*guhā*)—you hear the praises with hidden meaning, then
+- त्वं (*tvaṃ*)—you
+- कार्पाणे (*kārpāṇe*)—in battle
+- वृत्रहत्ये (*vṛtrahatye*)—for the destruction of Vṛtra
+- नृन् (*nṛn*)—the leaders
+- तान् (*tān*)—those Maruts
+- चोदयः (*codayaḥ*)—you urge on
+
+##### भावार्थ (Bhāvārtha)
+
+When you hear the hidden-meaning praises of the praisers, wielders of the thunderbolt, fit to reach the gods, then you urge the leading Maruts in battle to destroy Vṛtra.
+
+##### English translation
+Hero, Indra, wielder of the thunderbolt, you have animated those chiefs (the Maruts) to the slaughter of Vritra in battle, when (you hear) the mystical (praises), of the sages, the worshippers praising the might of the constellations.
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्वू ता त॑ इंद्र दा॒नाप्य॑स अक्षा॒णे शू॑र वज्रिवः ।  
+> यद्ध॒ शुष्क॑स्य दं॒भयो॑ जा॒तं विश्वं॑ स॒याव॑भिः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मक्षु । ता । ते । इंद्र । दानअप्नसः । आक्षाणे । शूर । वज्रिवः ।  
+> यत् । ह । शुष्णस्य । दंभयः । जातं । विश्वं । सयावभिः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर विक्रांत वज्रिवो वज्रोपेतेंद्र दानाप्नसो दानकर्मणः ।
+> स्तोतृभ्यः सततमभीष्टफलप्रदस्येत्यर्थः । ते तव स्वभूतानि मक्षु क्षिप्राण्यविलंबितानि । क्षिप्रकारणयुक्ता नीत्यर्थः । आक्षणे योद्धृभिर्वाप्यमाने त्वय्यवस्थितानि
+> ता तानि कर्माणि स्तोतारः स्तुवंतीति शेषः। सयावभिः सहयातृभिर्मरुद्धिः सहितस्त्वं
+
+##### Gist of the bhāṣya
+
+O heroic Indra, wielder of the thunderbolt, of the giver, constantly granting the wished fruit to praisers, those deeds of yours are swift (मक्षु (*makṣu*)), without delay, that is, with swift causes. In the battle (आक्षणे (*ākṣaṇe*)), when you are pressed by warriors, the praisers praise those deeds that rest in you (to be supplied).
+
 ---
 
-**Progress note:** Done through printed p. 661. pp. 656-661 (batch API)
+**Progress note:** Done through printed p. 667. pp. 662-667 (batch API)
