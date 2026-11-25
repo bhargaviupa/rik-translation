@@ -7391,6 +7391,141 @@ The third oblation is to be offered to the downward breath. By it the downward b
 
 अथ यां चतुर्थी जुहुयात्तां जुहुयात्समानाय स्वाहेति समानस्यप्यति । समाने तृप्यति मनसि तृप्यति पर्जन्यस्यप्यति पर्जन्ये तृप्यति विद्युत्तृप्यति विद्युति तृप्यंत्यां यत्किंच विद्युच्च पर्जन्यश्चाधितिष्ठतस्तत्तृप्यति तस्यानु तृप्तिं तृप्यति प्रजया पशुभिरन्नाद्येन तेजना ब्रह्मवर्चसेनेति ॥ (*atha yāṃ caturthī juhuyāttāṃ juhuyātsamānāya svāheti samānasyapyati | samāne tṛpyati manasi tṛpyati parjanyasyapyati parjanye tṛpyati vidyuttṛpyati vidyuti tṛpyaṃtyāṃ yatkiṃca vidyucca parjanyaścādhitiṣṭhatastattṛpyati tasyānu tṛptiṃ tṛpyati prajayā paśubhirannādyena tejanā brahmavarcaseneti ‖*) (Bhā. U. 5-21)
 
+### Printed p. 286
+
+The fourth oblation is to be offered to the equalising breath. By it satisfaction comes to the equalising breath. From the satisfaction of the equalising breath comes satisfaction of the mind. From the satisfaction of the mind comes satisfaction of Parjanya. From the satisfaction of Parjanya comes contentment of lightning. As the result of this satisfaction, all things that rest on Parjanya and lightning are contented. As the result of this, the Self who makes this oblation gains wealth such as cattle and sons, and excellent knowledge.
+
+अथ यां पंचमीं जुहुयात्तां जुहुयादुदानाय स्वाहेत्युदानस्तृप्यति । उदाने तृप्यति त्वक् तृप्यति त्वचि तृप्यंत्यां वायुस्तृपति वायौ तृप्यत्याकाशस्त्रृप्यति आकाशे तृप्यति यत्किंच वायुश्चाकाशश्चाधितिष्ठतस्ततृपति प्रजया पशुभिरन्नाद्येन तेजसा ब्रह्मवर्चसेन ॥ (*atha yāṃ paṃcamīṃ juhuyāttāṃ juhuyādudānāya svāhetyudānastṛpyati | udāne tṛpyati tvak tṛpyati tvaci tṛpyaṃtyāṃ vāyustṛpati vāyau tṛpyatyākāśastrṛpyati ākāśe tṛpyati yatkiṃca vāyuścākāśaścādhitiṣṭhatastatṛpati prajayā paśubhirannādyena tejasā brahmavarcasena ‖*) (Bhā. U. 5-23)
+
+The fifth oblation is to be offered to the upward breath. By it the upward breath is satisfied. From the satisfaction of the upward breath comes the full satisfaction of the skin (the organ of the skin). From the satisfaction of the skin comes contentment of the wind. From that comes satisfaction of space. As the result of this, all things that rest on the wind and on space are satisfied. As the result of that, the Self who made this oblation gains wealth such as cattle and sons, brilliance and the radiance of Brahman. In this way the order of the offering of oblations stated in the present Ṛk, and the order of satisfaction stated earlier in the second Ṛk of this same sūkta, have been explained.
+
+Two kinds of meaning have been given for the phrase असूर्ते सूर्ते रजसि (*asūrte sūrte rajasi*). The word सूर्त (*sūrta*) means that which has the nature of motion. The world that is of the nature of motion, that is, of the nature of the moving, and the world that is without motion, of the nature of the unmoving, are indicated by the words सूर्त (*sūrta*) and असूर्त (*asūrta*). One meaning is that the seers, knowing all the worlds, unmoving and moving, to be the abode of Viśvakarman, directly beheld Viśvakarman's pervasiveness everywhere and worshipped him.
+
+Second, the worship of Āditya by the rays that are of the form of seers. The word seer means the rays of the sun that have supersensuous power of knowledge. These rays offer worship to Viśvakarman, who is of the form of Āditya. How? The purport is that first the rays spreading out from Āditya pervade all the worlds, unmoving and moving, with their brilliance. Afterwards they again draw the essences of those same worlds and offer worship to Āditya with that substance of the form of essence.
+
+Thus there is one action, that of first spreading out, pervading all the worlds and diffusing brilliance. How is that? Thus:
+
+### Printed p. 287
+
+आसावादित्यो देवमधु तस्य द्यौरेव तिरश्चीनवंशोऽंतरिक्षमपूपो मरीचयः पुत्राः । तस्य ये प्रांचो रश्मयस्ता एवास्य प्राज्यो मधु. नाड्यः । ऋच एव मधुकृत ऋग्वेद एव पुष्पं ता अमृता आपस्तावा एता ऋचः ।.........तद्व्यक्षरत्तदादित्यमभितोऽश्रयत्तद्वा एतद्यदेतदादित्यस्य रोहितं रूपं ॥ (*āsāvādityo devamadhu tasya dyaureva tiraścīnavaṃśo 'ṃtarikṣamapūpo marīcayaḥ putrāḥ | tasya ye prāṃco raśmayastā evāsya prājyo madhu. nāḍyaḥ | ṛca eva madhukṛta ṛgveda eva puṣpaṃ tā amṛtā āpastāvā etā ṛcaḥ |.........tadvyakṣarattadādityamabhito 'śrayattadvā etadyadetadādityasya rohitaṃ rūpaṃ ‖*) (Cha. 30. 3-1) **NOTE**
+
+Āditya, who contains all the gods, is the god-honey. If it is asked what the tree of this honey is, it is the world of heaven. The atmosphere is the nest. The rays are the sons. The rays that spread toward the eastern direction are the honey-channels of the eastern direction. The Ṛks are the bees. The Ṛgveda is the flower. The oblations offered in the sacrifice, of the form of ghee and milk, are the drops of nectar. After the Ṛk-mantras have ripened, fame, brilliance, sense-power, virility, strength and essence arise from sacrificial and other rites; then all the essences of the form of fruit spread out facing Āditya and join him again. These are the causes of the attractive form of the red disc of Āditya. (Here both the visible Āditya and the invisible, indirect Āditya who is of the form of Viśvakarman are included.) **NOTE**
+
+अथ येऽस्य दक्षिणा रश्मयस्ता एवास्य दक्षिणा मधुनाड्यः । यजूग् षेव मधुकृतः .... .... .... .... .... .... .... .... तद्वक्षरत्तदादित्यमभितोश्रयत्तदा, एतद्यदेतदादित्यस्य शुक्लं रूपं । (*atha ye 'sya dakṣiṇā raśmayastā evāsya dakṣiṇā madhunāḍyaḥ | yajūg ṣeva madhukṛtaḥ .... .... .... .... .... .... .... .... tadvakṣarattadādityamabhitośrayattadā, etadyadetadādityasya śuklaṃ rūpaṃ |*) (Chā. U. 3-2)
+
+The rays of Āditya that spread toward the southern direction are the honey-channels of the south. The Yajus-mantras are the bees. The Yajurveda is the flower. The ghee and milk of the sacrificial oblations are the drops of nectar. From this, essences and the like arise, spread out again facing Āditya and join Āditya himself. These supply Āditya with his white form.
+
+अथ येऽस्य प्रत्यंचो रश्मयः ..... .... .... सामान्येव मधुकृतः .... एतदादित्यस्य कृष्णं रूपं । (*atha ye 'sya pratyaṃco raśmayaḥ ..... .... .... sāmānyeva madhukṛtaḥ .... etadādityasya kṛṣṇaṃ rūpaṃ |*) (Chā. U. 3.3)
+
+The rays that spread westward are the honey-channels of the west. The bees in the form of Sāmans create, in the flower in the form of the Sāmaveda, the drops of nectar in the form of oblations, and join Āditya. These procure the dark form of Āditya. (Bhā. U. 3-4)
+
+अथ येऽस्योदंचो रश्मयः । .... ...... अथर्वांगिरस एव मधुकृत इतिहासपुराणं पुष्पं .... ....एतदादित्यस्य परं कृष्णं रूपं ॥ (*atha ye 'syodaṃco raśmayaḥ | .... ...... atharvāṃgirasa eva madhukṛta itihāsapurāṇaṃ puṣpaṃ .... ....etadādityasya paraṃ kṛṣṇaṃ rūpaṃ ‖*) (Chā. U. 3-4)
+
+### Printed p. 288
+
+The rays that spread toward the northern direction are the honey-channels of the north. The bee in the form of the Atharvans creates, from the flower in the form of the Itihāsa and Purāṇa, the drop of nectar of the form of essence and the like, and joins Āditya. These procure the deep dark form of Āditya.
+
+ते वा एते रसानां रसा वेदा हि रसास्तेषामेते रसास्तानि वा एतान्यमृतानाममृतानि वेदा ह्यमृतास्तेषामेतान्य मृतानि । (*te vā ete rasānāṃ rasā vedā hi rasāsteṣāmete rasāstāni vā etānyamṛtānāmamṛtāni vedā hyamṛtāsteṣāmetānya mṛtāni |*) (Bhā. U. 3-5)
+
+The rays of Āditya that spread to all directions and all worlds are the cause of all colours and are the essences of all essences. The essences of the essences are the essence of the excellent things existing in all the worlds, namely the Veda. After they have undergone transformation into the form of sacrifice, the colours of the sun that arise as the result of its essence are the essence of sacrifices and the like. The multi-coloured brilliance of Āditya, kindled by the nectar-natured Vedas and the like, is the nectar even of all nectar.
+
+Having thus described the fruit of the spreading of the rays, the text then explains in this manner that all kinds of gods are contained within Viśvakarman, who is of the form of Āditya.
+
+यद्यत्प्रथमममृतं तद्वसव उपजीवंत्यग्निना मुखेन वै देवा अश्नंति न पिबंति एतदेवामृतं दृष्ट्वा तृप्यंति । अथ यद्वितीयममृतं तद्रुद्रा उपजीवंति । अथ यत्तृतीयममृतं तदादित्या उपजीवंति । अथ यच्चतुर्थममृतं तन्मरुत उपजीवंति । अथ यत्पंचमममृतं तत्साध्या उपजीवंति ॥ (*yadyatprathamamamṛtaṃ tadvasava upajīvaṃtyagninā mukhena vai devā aśnaṃti na pibaṃti etadevāmṛtaṃ dṛṣṭvā tṛpyaṃti | atha yadvitīyamamṛtaṃ tadrudrā upajīvaṃti | atha yattṛtīyamamṛtaṃ tadādityā upajīvaṃti | atha yaccaturthamamṛtaṃ tanmaruta upajīvaṃti | atha yatpaṃcamamamṛtaṃ tatsādhyā upajīvaṃti ‖*) (Chā. U. 3.6-10)
+
+In the essence-natured forms of Āditya, which are of the form of nectar and of five kinds, the Vasus, the Rudras, the Ādityas, the Maruts and the Sādhyas dwell. They too enter the colours beginning with the red. One who knows the essences of these nectars obtains a place among the Vasus, Rudras and the rest. Āditya also is established, moving in the worlds of these Vasus, Rudras and Ādityas and beholding the greatness of their self-rule. That this Āditya is of one hundred and one kinds, that is, is none other than the supreme Brahman, was explained earlier on page 366 of the twelfth part.
+
+In the present Ṛk too there is praise of this same Viśvakarman, who is of the form of Āditya.
+
+### Printed p. 289
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्या प॒रो दे॒वेभि॒रसु॑रै॒र्यदस्ति॑ ।  
+> कं स्वि॒दर्भं॑ प्रथ॒मं द॑ध्र॒ आपो॒ यत्र॑ दे॒वाः स॒मप॑श्यंत॒  ॑
+> विश्वे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परः । दिवा । परः । एना । पृथिव्या । परः । देवेभिः । असुरैः । यत् । अस्ति ।  
+> कं । स्वित् । गर्भं । प्रथमं । दध्रे । अपः । यत्र । देवाः । संऽपश्यंत । विश्वे ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदीश्वरतत्त्वं दिवा परो द्युलोकादपि परस्ताद्वर्तमानं तथैनास्याः
+> पृथिव्याः परः परस्ताद्वर्तमानं तथा देवेभिर्देवैः परस्ताद्वर्तमानमसुरैः
+> परस्ताद्वर्तमानं च यदस्ति तद्गुहायामवस्थितं कं स्विदर्भं गर्भवत्सर्वस्य
+> ग्राहकं तत्त्वमापः प्रथमं दध्रे ॥ धृतवत्यः । यत्र यस्मिन्गर्भे देवा
+> इंद्रादयो विश्वे सर्वॆऽपि समपश्यंत संगताः परस्परं पश्यंति ! एवं जानन्नेव
+> कश्चित्तत्त्ववित्पश्नं करोति ॥
+
+##### Gist of the bhāṣya
+
+The divine principle that exists beyond heaven, beyond the sky, likewise beyond this earth, beyond the gods and beyond the Asuras, whatever it is, abides in the cave. What is this embryo-like principle, which grasps everything as an embryo does, which the waters first held? In which embryo all the gods, Indra and the others, saw one another, that is, being assembled they look at one another. Knowing it thus, some knower of the principle puts the question.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवा परः (*divā paraḥ*)—beyond the world of heaven
+- एना पृथिव्याः परः (*enā pṛthivyāḥ paraḥ*)—beyond this earth
+- देवेभिः (*devebhiḥ*)—beyond the gods
+- असुरैः (*asuraiḥ*)—beyond the Asuras
+- यत्गर्भं अस्ति (*yatgarbhaṃ asti*)—which secret principle exists
+- यत् (*yat*)—which
+- अपः (*apaḥ*)—the waters
+- प्रथमं (*prathamaṃ*)—before everything
+- दध्रे (*dadhre*)—held
+- यत्र (*yatra*)—in which embryonic principle
+- विश्वे देवाः (*viśve devāḥ*)—all the gods, Indra and the rest
+- समपश्यंत (*samapaśyaṃta*)—attained sight of one another (that secret principle)
+- कं स्वित् (*kaṃ svit*)—what is it? what is its nature?
+
+##### भावार्थ (Bhāvārtha)
+
+What is that secret principle in the form of an embryo, which is beyond the world of heaven, beyond this earth, beyond the gods, beyond the Asuras, which the waters first of all held, and in which all the gods, Indra and the rest, attained sight of one another? What is its nature?
+
+### Printed p. 290
+
+##### English translation
+What was that embryo which was beyond the heaven, beyond this earth, beyond the gods, beyond the Asuras, which the waters first retained, in which all the gods contemplated each other ?
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk describes the endless form and power of Viśvakarman, who is the embryo of the whole world. Three points are stated in it. First: (1) The Lord, who is of the form of Viśvakarman, has a nature that surpasses heaven, earth and the rest. (2) Second, since he is the embryo of the whole world, everything is contained in him. Therefore all the gods are contained in him alone. (3) Third, the waters first held him, who is the embryo of the world. These points explain the nature of the Lord.
+
+The Lord is the smallest (the subtlest) and also the greatest. How? Thus:
+
+एष म आत्मांतर्हृदयेऽणीयान् प्रीहेर्वा यवाद्वा सर्षपाद्वा श्यामाकाद्दा श्यामाकतंडुलाद्वा । एष म आत्मा अंतर्हृदये ज्यायान्पृथिव्या ज्यायानंतरिक्षाज्जायान् दिवो ज्यायानेभ्यो लोकेभ्यः ॥ (*eṣa ma ātmāṃtarhṛdaye 'ṇīyān prīhervā yavādvā sarṣapādvā śyāmākāddā śyāmākataṃḍulādvā | eṣa ma ātmā aṃtarhṛdaye jyāyānpṛthivyā jyāyānaṃtarikṣājjāyān divo jyāyānebhyo lokebhyaḥ ‖*) (Chā. U. 3-14-3)
+
+This Self is contained within the heart. He is smaller than a grain of rice. He is subtler than a grain of barley. He is subtler than a mustard seed, or smaller than the kernel of a millet grain. In the same way this same Lord, who pervades the universe, is greater than the earth, surpasses the atmosphere, and is spread out beyond the world of heaven; it is described that he is greater than all the moving and unmoving worlds.
+
+Moreover, all the above points are explained in the Kaṭha Upaniṣad in this way.
+
+यः पूर्वं तपसो जातमद्भ्यः पूर्वमजायत । गुहां प्रविश्य तिष्ठंतं यो भूतेभिव्यपश्यत ॥ (*yaḥ pūrvaṃ tapaso jātamadbhyaḥ pūrvamajāyata | guhāṃ praviśya tiṣṭhaṃtaṃ yo bhūtebhivyapaśyata ‖*) (Kaṭha. 2-1-6) **NOTE**
+
+This is the Self who was first born from austerity, first born from the water, who dwells in the most hidden region, and who looks out through all beings. This same Self is also of the form of Aditi. How? Thus:
+
+### Printed p. 291
+
+या प्राणेन संभवत्यदितिर्देवतामयी । गुहां प्रविश्य तिष्ठंतीं या भूतेभिर्व्यजायत ॥ (*yā prāṇena saṃbhavatyaditirdevatāmayī | guhāṃ praviśya tiṣṭhaṃtīṃ yā bhūtebhirvyajāyata ‖*) (Kaṭha. 2-1-7)
+
+Aditi, who is the self of all the gods, who has arisen together with breath, who is established in the secret region of the heart, who has come into being together with all beings, is this Self.
+
+अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः । दिवे दिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः ॥ (*araṇyornihito jātavedā garbha iva subhṛto garbhiṇībhiḥ | dive diva īḍyo jāgṛvadbhirhaviṣmadbhirmanuṣyebhiragniḥ ‖*) (Kaṭha. 2-1.-8)
+
+Agni, the all-knowing, who is hidden in the two fire-sticks like the child placed in the womb of pregnant women, being worshipped by the whole world, is of the form of this Self. In this Self all the gods are contained. The matter stated in the present Ṛk as देवाः समपश्यंत विश्वे (*devāḥ samapaśyaṃta viśve*) is stated in the Kaṭha in this manner.
+
+यतश्चोदेति सूरोस्तं यत्र च गच्छति । तं देवाः सर्वेर्पितास्तदु नात्येति कश्चन ॥ (*yataścodeti sūrostaṃ yatra ca gacchati | taṃ devāḥ sarverpitāstadu nātyeti kaścana ‖*) (Kaṭha. 2-1-9)
+
+In the universal Self, from the great principle from which the sun rises and in which it sets, all the gods are established. Beyond this universal Self neither gods nor men, none whatever, can go. This is the greatness of this Supreme Self. Explaining this same matter in the Ṛk-saṃhitā also:
+
+आदितिद्र्यारदितिशंतरिक्षमदितिर्माता स पिता स पुत्रः । विश्वे देवा अदितिः पंचजना आदितिर्जातमदितिर्जनित्वं ॥ (*āditidryāraditiśaṃtarikṣamaditirmātā sa pitā sa putraḥ | viśve devā aditiḥ paṃcajanā āditirjātamaditirjanitvaṃ ‖*) (Ṛ. Saṃ. 1-89-10)
+
+Aditi, of undivided nature, is the producer of the whole universe. She is the mother of the world and the father of the world, everything. She is every created thing. She is the root of creation. She is the five peoples beginning with the gods. All the gods are contained in her. She is the shining heaven. She is the atmosphere. She is the whole universe. She is the controller of the universe: thus it is stated. Aditi means the endless. She is the principle that pervades the whole universe and also surpasses the universe. All the gods are each a limb of this body of the form of the universe.
+
+अग्निर्मूर्धा चक्षुषी चंद्रसूर्यौ दिशः श्रोत्रे वाग्विवृताश्च देवाः । वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां पृथिवी ह्येष सर्वभृतांतरात्मा ॥ (*agnirmūrdhā cakṣuṣī caṃdrasūryau diśaḥ śrotre vāgvivṛtāśca devāḥ | vāyuḥ prāṇo hṛdayaṃ viśvamasya padbhyāṃ pṛthivī hyeṣa sarvabhṛtāṃtarātmā ‖*) (Kara. 2-1-10) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 285. Viśvakarman sūkta Special Topics Q&A (Bṛ. U.), Ṛk 4 with Chāndogya quotations
+**Progress note:** Done through printed p. 291. Ṛk 4 special topics (Chāndogya madhu-vidyā), Ṛk 5 (hiraṇya-garbha question) with Kaṭha quotations
