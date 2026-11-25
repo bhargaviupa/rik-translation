@@ -21436,6 +21436,245 @@ Traversing the seven regions (of the universe), immortal Agni, bestow wealth, gi
 
 **NOTE**
 
+### Printed p. 652
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञस्य । केतुं । प्रथमं । पुरःहितं । हविष्मंतः । ईळते । सप्त । वाजिनं ।  
+> शृण्वंतं । अग्निं । धृतपृष्ठं । उक्षणं । पृणंतं । देवं । पृणते । सुवीर्यं॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्य यागस्य केतुं प्रज्ञापकं प्रथमं सर्वेषु देवेषु मुख्यं
+> प्रथमस्थानं वा पुरोहितं पुरतो हितकारिणं । यद्वा! पुरस्तात्पूर्वस्यां दिश्याहवनीयरूपेण निहितं ॥ पूर्वाधरेत्यादिना पूर्वशब्दादसिः प्रत्ययः । तत्संनियोगेन प्रकृतेः पुरादेशश्च । तद्दितश्चासर्वविभक्तिरित्यव्ययसंज्ञायां पुरोऽव्ययमिति
+> गतिसंज्ञा । धाणः कर्मणि निष्ठा । दधातेर्हिः । ततः समासे गतिरनंतर इति गतेः
+> प्रकृतिस्वरत्वं ॥ वाजिनं बलवंतमुन्नवंतं वा शृण्वंतमस्मत्सूतीः श्रोत्रेण
+> जानंतं धृतपृष्टं दीप्तपृष्टं दीप्तांगमुक्षणं यागद्वारेण वृष्टेः संभक्तारं
+> यद्वा सेचनसमर्थं युवानं पृणते हविर्भिः प्रीणयित्रे यजमानाय ॥ पृण
+> प्रीणने तौदादिकः। शतुरनुम इति विभक्तेरुदात्तत्वं । क्रियाग्रहणं कर्तव्यमिति
+> कर्मणः संप्रदानत्वाच्च तुर्थी ॥ हविर्भिः प्रीणयंतं यजमानं धनैः प्रीणयंतं।
+> यद्वा । पृणतिर्दानकर्मा । हवींषि ददते यजमानाय पृणंतं धनानि प्रयच्छतं । सुवीर्यं शोभनवीर्योपेतं देवं द्योतमानं दानादिगुणयुक्तं वा
+> एवंगुणविशिष्टमग्निं हविष्मंतो हविर्भियुक्ताः सप्त होतृप्रमुखा वषट्कर्तार
+> ईळते । स्तुवंति ॥ ईड स्तुतौ आदादिकः ॥
+
+##### Gist of the bhāṣya
+
+"Of the sacrifice" means of the yāga; Agni is its "banner" (केतुं (*ketuṃ*)), that is, its indicator. He is "first" (प्रथमं (*prathamaṃ*)): chief among all the gods, or holding the first place. He is "purohita": one who does good in front. Alternatively, he is placed in front, in the eastern quarter, in the form of the Āhavanīya fire. Sāyaṇa explains the formation of पुरोहितं (*purohitaṃ*): the affix asi after the word for "east", the substitution of पुर (*pura*), the designation as an indeclinable and as gati. वाजिनं (*vājinaṃ*) is "mighty" or "possessed of food". शृण्वंतं (*śṛṇvaṃtaṃ*) is one who hears our praises with his ear. धृतपृष्टं (*dhṛtapṛṣṭaṃ*) is one whose back (body) is shining. उक्षणं (*ukṣaṇaṃ*) is one who, through the sacrifice, distributes rain, or one who is able to sprinkle, a youth. पृणते (*pṛṇate*) means for the sacrificer who gratifies him with oblations. पृणंतं (*pṛṇaṃtaṃ*) means gratifying the sacrificer with oblations, or, alternatively, since the root pṛṇ means giving, giving wealth to the sacrificer who offers oblations. सुवीर्यं (*suvīryaṃ*) is endowed with excellent valour. देवं (*devaṃ*) is shining, or possessed of qualities such as generosity. The seven vaṣaṭkartṛs, the hotṛ and the others, bearing oblations, praise Agni so qualified (ईळते (*īḷate*), root īḍ, to praise).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- केतुं (*ketuṃ*)—the indicator
+- प्रथमं (*prathamaṃ*)—the one who is chief among all the gods, or who holds the first place
+- पुरोहितं (*purohitaṃ*)—the one established in the form of Āhavanīya in the eastern part of the sacrificial altar
+- वाजिनं (*vājinaṃ*)—the mighty, or the possessor of food
+- शृण्वंतं (*śṛṇvaṃtaṃ*)—the one who hears and understands our praises
+- धृतपृष्टं (*dhṛtapṛṣṭaṃ*)—the one with a shining body
+- उक्षणं (*ukṣaṇaṃ*)—the one who pours rain through the conduct of the sacrifice, or the youthful one
+- पृणते (*pṛṇate*)—to the sacrificer who offers oblations and satisfies him
+- पृणंतं (*pṛṇaṃtaṃ*)—the one who gives wealth and the like
+- सुवीर्यं (*suvīryaṃ*)—the one of excellent capacity
+- देवं (*devaṃ*)—the radiant one
+- अग्निं (*agniṃ*)—Agni
+- हविष्मंतः (*haviṣmaṃtaḥ*)—those who have prepared the oblation
+- सप्त (*sapta*)—seven priests beginning with the hotṛ, that is, the seven hotṛs who are vaṣaṭ-makers
+- ईळते (*īḷate*)—praise
+### Printed p. 653
+
+##### भावार्थ (Bhāvārtha)
+
+The seven hotṛs, bearing oblations, praise Agni: the indicator of the sacrifice, or one like its banner; the chief of all the gods; established in the form of Āhavanīya in the eastern part of the sacrificial altar; possessed of strength or food; who listens to and hears our praises; whose body is shining; the sprinkler of rain; who gives wealth and the like to the sacrificer who offers oblations; who has excellent strength and capacity; the radiant one.
+
+##### English translation
+The seven (priests) bearing oblations worship Agni, the emblem of sacrifice, the first of the gods, the family priest, the possessor of food, the hearer (of our prayers), the anointed with butter, the shedder of moisture propitiating the worshipper who propitiates him, divine, endowed with excellent might.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं दू॒तः प्र॑थ॒मो वरे॑ण्यः॒ स हू॒यमा॑नो अ॒मृता॑य  
+> मत्स्य ।  
+> त्वां म॑र्जयन्म॒रुतो॑ दा॒शुषो॑ गृ॒हे त्वां स्तोमे॑भि॒र्भृग॑वो॒ वि रु॑रुचुः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । दूतः । प्रथमः । वरेण्यः । सः । हूयमानः । अमृताय । मत्स्य ।  
+> त्वां । मर्जयन् । मरुतः । दाशुषः । गृहे । त्वां । स्तोमेभिः । भृगवः । वि ।  
+> रुरुचुः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं दूतो देवानां दूतकर्मणि नियुक्तः प्रथमो मुख्यः
+> प्रथितः प्रख्यातो वा वरेण्यः संभजनीयश्चासि । स त्वममृतायामरणाय तदर्थं
+> नोऽस्माभिर्हूयमानो हविषा तर्प्यमाणो ना सन् मत्स्व । तृप्यस्व ॥ मदी
+> हर्षे । छांदसो विकरणस्य लुक् ॥ अपि च त्वां मध्यमस्थाने वैद्युतरूपेण वर्त-
+
+##### Gist of the bhāṣya
+
+O Agni, you are the messenger, appointed to the messenger's office of the gods; you are "first", chief or renowned, and "to be chosen", worthy of being resorted to. Being invoked by us for immortality, that is, for the sake of freedom from death, and being gratified with the oblation, "be exhilarated" (मत्स्य (*matsya*), root mad, to rejoice; the vikaraṇa is dropped in the Veda). Moreover, the Maruts, the groups of gods of that place, decorate you who abide in the middle region in the form of lightning.
+### Printed p. 654
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मानं मरुतस्तत्रत्या देवगणा मर्जयन् । मार्जयंति । अलंकुर्वंति । तथा
+> दाशुषो हवींषि दत्तवतो यजमानस्यगृहे स्तोमेभिः स्तोमैः स्तोत्रैर्भृगवो
+> भृगुगोत्रा ऋषयस्त्वां वि रुरुचुः । विशेषेण दीपयंति ॥ भृगुशब्दादुत्तरस्यॆ
+> तद्धितस्यात्रिभृगुकुत्सेत्यादिना । पा. २-४-६५ । बहुषु लुक् । रुरुचुः । रुच दीप्तौ ।
+> अस्माच्छांदसो लिट् ॥
+
+##### Gist of the bhāṣya
+
+(continued) The Maruts "adorn" (मर्जयन् (*marjayan*)) you. Likewise, in the house of the sacrificer who has given oblations, the Bhṛgus, the seers of the Bhṛgu lineage, make you shine forth specially with stomas, that is, with hymns of praise (रुरुचुः (*rurucuḥ*), root ruc, to shine, in the Vedic liṭ). Sāyaṇa cites Pā. Sū. 2-4-65 for the dropping of the taddhita affix after the word *Bhṛgu* in the plural.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) त्वं (*tvaṃ*)—you
+- दूतः (*dūtaḥ*)—are the messenger who carries the oblation to the gods
+- प्रथमः (*prathamaḥ*)—the chief among all the gods
+- वरेण्यः (*vareṇyaḥ*)—the one desired by all
+- सः(त्वं) (*saḥ(tvaṃ)*)—that you
+- अमृताय (*amṛtāya*)—for the deathless state (heaven)
+- हूयमानः (*hūyamānaḥ*)—being prayed to and called by us
+- मत्स्य (*matsya*)—be satisfied (attain delight)
+- त्वां (*tvāṃ*)—you who are in the atmosphere in the form of lightning
+- मरुतः (*marutaḥ*)—the Marut deities there
+- मर्जयन् (*marjayan*)—adorn
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer who offers the oblation
+- गृहे (*gṛhe*)—in the house
+- भृगवः (*bhṛgavaḥ*)—the seers of the Bhṛgu lineage
+- स्तोमेभिः (*stomebhiḥ*)—with stomas and praises
+- वि रुरुचुः (*vi rurucuḥ*)—make you shine especially
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are called messenger because you carry the oblation to the gods, and who are desired by all: being prayed to and called by us for the attainment of the deathless heaven and the like, be glad at heart. The Maruts there adorn you, who are in the atmosphere in the form of lightning-fire. In the house of the sacrificer who offers oblations, the seers born in the Bhṛgu lineage kindle you with hymns and the like and make you shine.
+
+##### English translation
+You are the chief and most excellent messenger; do you, invoked by us to partake of the ambrosia, become, exhilarated; the Maruts decorated you in the dwelling of the donor of the oblation: the Bhrigus have glorified you with hymns.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इषं॑ दु॒हन्तु॒ सदुघां॑ वि॒श्वधा॑यसं यज्ञ॒प्रिये॒ यज॑मानाय सुक्रतो ।
+
+### Printed p. 655
+
+> अग्ने घृतस्नु स्त्रिऋतानि दीद्यद्वर्तिर्यज्ञं परियन्नु क्रतूयसे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषं । दुहन् । सुदुघां । विश्वधायसं । यज्ञप्रिये । यजमानाय । सुक्रतो  
+> इति सुक्रतो ।  
+> अग्ने । धृतस्नुः । त्रिः । ऋतानि । दीद्यत् । वर्तिः । यज्ञं । परियन् । सुक्रतुयसे॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुक्रतो सुकर्मन् शोभनप्रज्ञ वागे यज्ञप्रिये यज्ञैर्हविर्भिर्देवा
+> स्त्रीणयित्रे यजमानाय विश्वधायसं विश्वस्य सर्वस्य धारयित्रिं सुदुघां दोग्धुं
+> सुशक्यां यज्ञरूपिणीं गामिषमिष्यमाणं यागफलरूपं पयो दुहन् क्षारयन्
+> तथा घृतस्नुर्फृतेनाज्येन प्रस्नातः ॥ स्नातेरौणादिकः कुप्रत्ययः ॥ यद्वा । घृतो
+> दीप्तः स्नुः सानुः समुच्च्रितो ज्वालासमूहो यस्य स तथोक्तः ॥ पदादिषु
+> मांस्पृत्नामुपसंख्यानं । पा. ६-१-६३-१ । इति सानुशब्दस्य स्नुभावः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥ ईदृशस्त्वं त्रिस्तिवारमावृत्तान्यतानि सत्यभूतानि
+> पृथिव्यादीनि त्रीणि स्थानानि यद्वा गार्हपत्यादीनि स्थानानि दीद्यद्दीपयन्वर्तिः सर्वं
+> यज्ञगृहं सर्वमनुष्ठीयमानं यागं च परियन् परितो गच्छन् तत्तद्यज्ञगृहं
+> तं तं यज्ञं च प्राप्नुवन् सुक्रतूयसे । शोभनं क्रतुं यज्ञमात्मन इच्छिसि ।
+> यद्वा । शोभनः क्रतुर्यस्यासौ सुक्रतुर्यजमानः । स इवाचरसि । स यथा
+> सम्यगनुष्ठाने प्रवर्तते एवं त्वमपि स्वयमेव यागस्य सम्यग्निष्पत्यर्थं प्रवर्तस
+> इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Sukratu (doer of good deeds, of good wisdom), Agni: for the sacrificer who pleases with sacrifices, that is, who gratifies the gods with oblations, you milk the desired milk, the fruit of the sacrifice, from the cow in the form of the sacrifice, which sustains all and is easily milked. You are "anointed with ghee" (घृतस्नुः (*ghṛtasnuḥ*), with the Uṇādi affix ku after the root snā). Alternatively, one whose ridge (स्नु (*snu*), for सानु (*sānu*)), the mass of flames, is lit and risen high. You make the three true places shine, the earth and the others, or the places of the Gārhapatya and the other fires, and go around the entire house of sacrifice and the sacrifice being performed, reaching each house and each sacrifice. सुक्रतूयसे (*sukratūyase*): you desire a good sacrifice for yourself. Alternatively, as a sacrificer who has a good sacrifice acts, so you too yourself proceed for the proper completion of the sacrifice. For the sāna-to-snu substitution Sāyaṇa cites Pā. 6-1-63-1.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुक्रतो (*sukrato*)—O one endowed with excellent works
+- अग्ने (*agne*)—O Agni
+- यज्ञप्रिये (*yajñapriye*)—to the one who pleases the gods by sacrificial rites
+- यजमानाय (*yajamānāya*)—for the sacrificer
+- विश्वधायसं (*viśvadhāyasaṃ*)—who sustains and nourishes all
+- सुदुघां (*sudughāṃ*)—the cow in the form of the sacrifice, who yields the milk of desired objects
+- इषं (*iṣaṃ*)—the milk that is the fruit of the sacrifice
+- दुहन् (*duhan*)—milking
+- घृतस्नुः (*ghṛtasnuḥ*)—you, who are sprinkled with ghee, or have flames kindled by ghee
+- त्रिः ऋतानि (*triḥ ṛtāni*)—the three true places, the earth and the others, or the three fire-places such as the Gārhapatya
+### Printed p. 656
+- दीद्यन् (*dīdyan*)—making shine
+- वर्तिः (*vartiḥ*)—around the house of sacrifice and the sacrifice
+- परियन् (*pariyan*)—moving about
+- सुक्रतुयसे (*sukratuyase*)—you perfect the sacrificer's sacrifice well, or you behave like a sacrificer who performs a sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, endowed with excellent works or wisdom: you milk, for the sacrificer who gratifies the gods with the sacrificial rite, that is, with oblations and the like, the milk that is the fruit of the sacrifice, from the cow in the form of the sacrifice, which sustains and nourishes all and yields the milk of desired objects. Your body is sprinkled with ghee, or you are of blazing splendour. Making the three true places, the earth and the others, or the three fire-pits such as the Gārhapatya, shine, you go around the sacrifice and the house of sacrifice and perfect the sacrificer's sacrifice well.
+
+##### English translation
+Milking the easily milked cow (of sacrifice) of her all-sustaining food, for the benefit of the pious institutor of the rite, O Agni, doer of good deeds, anointed with butter, illumining the three regions, presiding (over the hall of sacrifice). going round the sacrifice. you accomplish each holy rite.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद॒स्या उ॒षसो॒ व्यु॑ष्टिसु दू॒तं कृ॑ष्णा॒ना अ॑यजंत॒  
+> मानु॑षाः ।  
+> त्वां दे॒वा म॑ह॒याय्या॑य वावृधु॒राज्य॑मग्ने निम्॒मजंतो॑  ॒
+> अध्वरे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्वां । इत् । आस्याः । उषसः । विउष्टिषु । दूतं । कृण्वानाः । अयजंत । मानुषाः ।  
+> श्वां । देवाः । महयाय्याय । ववृधुः । आज्यं । अग्ने । निमृजंतः । अध्वरे ॥ ७ ॥
+
+### Printed p. 657
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्या इदानीं दृश्यमानाया उषसो व्युष्टिषु विवासनेषु प्रभातेषु सत्वु
+> हे अग्ने त्वामित्तामेव देवानां दूतं कृष्णानाः कुर्वाणा मानुषा मनुष्या
+> अयजंत । यजंति । सर्वदेवात्मकं त्वामेव यजंतीत्यर्थः । तथा देवा अपि त्वां
+> महयाय्याय पूजायै ॥ मह पूजायां । आस्मादौणादिको भाव आय्यप्रत्ययः॥
+> आत्मनः पूजार्थं नावृधुः । वर्धयंति । किं कुर्वंतः । अध्वरे । ध्वरो हिंसानिमित्तः प्रत्यवायः । तद्रहिते याग आज्यं । उपलक्षणमेतत् । आज्योपलक्षतं सर्वं
+> हविर्निमृजंतस्त्वयि निमार्जयंतः । प्रक्षिपंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In the dawnings (व्युष्टिषु (*vyuṣṭiṣu*): the lighting up, the break of day) of this dawn now seen, O Agni, men worship you alone, making you the messenger of the gods; that is, they worship you, who are of the nature of all the gods. Likewise the gods too magnify you for adoration (महयाय्याय (*mahayāyyāya*), root mah, to worship, with the Uṇādi affix āyya, in the sense of the noun of action) of themselves. How? In the ādhvara, the sacrifice free of injury (ध्वर (*dhvara*) being the harm or fault arising from injury), sprinkling ghee on you, which stands for all oblations marked by ghee, that is, casting it into you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अस्याः (*asyāḥ*)—of this now seen
+- उषसः (*uṣasaḥ*)—dawn
+- व्युष्टिषु (*vyuṣṭiṣu*)—at the time of its appearance
+- त्वां इत् (*tvāṃ it*)—you alone
+- दूतं (*dūtaṃ*)—as the messenger who carries the oblation to the gods
+- कृष्णानाः (*kṛṣṇānāḥ*)—having made
+- मानुषा (*mānuṣā*)—men
+- आयजंत (*āyajaṃta*)—worship you alone (likewise)
+- देवाः (*devāḥ*)—the gods also
+- अध्वरे (*adhvare*)—in the sacrifice
+- आज्यं (*ājyaṃ*)—ghee, or the oblation together with ghee
+- निम्मजंतः (*nimmajaṃtaḥ*)—offering (placing)
+- त्वां (*tvāṃ*)—you
+- महय्याय (*mahayyāya*)—for the sake of worship
+- नावृधुः (*nāvṛdhuḥ*)—praise with hymns and the like and make you grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, at the appearance of the dawn that is seen just now, men who have made you the messenger who carries the oblation to the gods worship you alone. The gods too, offering ghee in the sacrifice, praise you with hymns for the sake of worship and make you grow.
+
+##### English translation
+Men worshipped you, Agni, at the opening of the present dawn, appointing you their messenger to the gods; the gods have magnified you for their adoration, sprinkling butter upon you at the sacrifice.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि त्वा॒ वसि॑ष्ठा अह्वंत वा॒जिनं॑ गृ॒णंतो॑ अग्ने वि॒दथे॑षु  ॒॑
+> वेधसः ।  
+> 42
+
 ---
 
-**Progress note:** Done through printed p. 651. pp. 646-651 (batch API)
+**Progress note:** Done through printed p. 657. pp. 652-657 (batch API)
