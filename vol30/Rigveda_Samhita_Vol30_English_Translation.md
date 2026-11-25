@@ -17636,6 +17636,241 @@ O Indra, may the heavenly Soma delight you by giving its own digit (the gods dri
 - निरिणासि (*niriṇāsi*)—destroy, such Soma juice
 - ममत्तु (*mamattu*)—may it gladden you
 
+### Printed p. 530
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the Soma that is in the world of heaven gladden you. May the Soma that we press and prepare at the many sacrifices spread out on the earth also bring you joy. May that Soma-juice gladden you, delighted by which you provide us the wealth we desire; and may that Soma-juice gladden you, by which, filled with zeal, you destroy enemies.
+
+##### English translation
+May the celestial Soma exhilarate you, Indra; may that which is effused at terrestrial rites exhilaratingate you; may that exhilaratingate you through the influence of which you have bestowed wealth; may that exhilaratingate you whereby you scatter foes.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ द्वि॒बर्हा॑ अमि॒नो या॒त्विंद्रो॒ वृषा॒ हरि॑भ्यां॒ परि॑षिक्त॒मंधः॑।  
+> गव्या सु॒तस्य॒ प्रभृ॑तस्य॒ मध्वः॑ स॒त्रा खेदा॑मरुश॒हा वृ॑षस्व ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । द्विबर्हाः । अमिनः । यातु । इंद्रः । वृषा । हरिभ्यां । परिसिक्तं । अंधः ।  
+> गवि । आ । सुतस्य । प्रभृतस्य । मध्वः । सत्रा । खेदां । अरुशहा । आ । वृषस्व ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्विबर्हा द्वयोर्लोकयोः परिवृढः । यद्वा । द्वाभ्यां स्तुतशस्त्राभ्यां वर्धनीयः ॥ वृहेर्वर्धनार्थस्य कर्तरि कर्मणि वासुन् ॥ अमिनः । अमतेर्गत्यर्थादौ.
+> णादिक इनच् । सर्वत्र गंता । यद्वा । कांत्यर्थात् । सर्वैः काम्यमानः । आत एव
+> वृषाभिलषितानां वर्षक इंद्रः परिषिक्तं वसतीवरीभिः परितः सिक्तमंधोऽस्मदीयं
+> सोमलक्षणमन्नं प्रति हरिभ्यामेतन्नामकाभ्यामश्वाभ्यां सहा यातु । आगच्छतु ।
+> अथ प्रत्यक्षः । हे इंद्र अरुशहा । अरुशाः शत्रवः । तेषां हंता ॥ आर्तॆरौणादिक
+
+##### Gist of the bhāṣya
+
+द्विबर्हा (*dvibarhā*) means "overpowering in the two worlds"; or "to be magnified by the two, the praise (stotra) and the recitation (śastra)." अमिनः (*aminaḥ*) means "going everywhere"; or, from the sense of desire, "desired by all." Hence Indra, the showerer who rains what is wished for, is to come with his two horses of that name (the Haris) to our Soma-food, the अंधः (*aṃdhaḥ*), sprinkled all round with the Vasatīvarī waters. Then, addressing him directly: O Indra, अरुशहा (*aruśahā*), "slayer of the अरुशाः (*aruśāḥ*), the enemies."
+
+### Printed p. 531
+
+> उशन् । बहुलं छंदसीति हंतेः क्विप् ॥ सत्रा । सप्तम्याः डादेशः । अस्मदीये
+> सत्रे यज्ञे गव्यानडुहे चर्मणि सुतस्याभिषुतस्य प्रभृतस्य पात्रेषु प्रहृतस्य ॥
+> हृग्रहोर्भः ॥ ईदृशस्य मध्यो मदकरस्य सोमस्य पानेन हृष्टः सन् खेदां
+> खिद्यमानानां शत्रुणामुत्पित्तय अभिमुख्येन वृषस्व । वृष इवाचर ॥ वृषशब्दादाचारार्थे क्विप् । व्यत्ययेनात्मनेपदं । खेदां । खिद दैन्ये । कर्मणि घइंतस्यामि
+> नुडागमाभावश्चांदसः ॥
+
+##### Gist of the bhāṣya
+
+सत्रा (*satrā*) is a locative with the ending ḍā: at our sacrificial session (sattra), on the cow-hide (गव्यानडुहे चर्मणि (*gavyānaḍuhe carmaṇi*)), the Soma that has been pressed and drawn into the vessels. Gladdened by drinking such sweet, intoxicating Soma, वृषस्व (*vṛṣasva*), act like a bull, charging head-on to bring about the ruin of the distressed enemies. खेदां (*khedāṃ*) is from the root खिद (*khida*) in the sense of distress.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विबर्हाः (*dvibarhāḥ*)—one who grows in both worlds, or who grows through the two kinds of praise and recitation mantras
+- अमिनः (*aminaḥ*)—one who moves everywhere, or who is prayed to by all
+- वृषा (*vṛṣā*)—the granter of desired ends
+- इंद्रः (*iṃdraḥ*)—Indra
+- परिषिक्तं (*pariṣiktaṃ*)—mixed with the Vasatīvarī water
+- अंधः (*aṃdhaḥ*)—the food in the form of Soma, aiming at it
+- हरिभ्यां (*haribhyāṃ*)—together with his two horses called Hari
+- आ यातु (*ā yātu*)—may he come to our sacrificial ground (O Indra)
+- अरुशहा (*aruśahā*)—you, slayer of enemies
+- सत्रा (*satrā*)—at this sacrifice that we are performing
+- गवि (*gavi*)—upon the cow-hide
+- सुतस्य (*sutasya*)—which has been pounded and pressed with the plants laid down
+- प्रभृतस्य (*prabhṛtasya*)—which has been filled into the vessels
+- मध्वः (*madhvaḥ*)—by drinking the tasty Soma-juice
+- खेदां (*khedāṃ*)—for the destruction of the enemies afflicted, that is, seized by anxiety
+- वृषस्व (*vṛṣasva*)—act like a bull, that is, rush forward against them
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who grows in both worlds, or who is praised with the two kinds of mantras, stotra and śastra, who moves everywhere and grants desired ends, may he graciously come to our sacrificial ground with his two horses, the Haris, to drink the Soma mixed with the Vasatīvarī water. O Indra, slayer of enemies, gladdened by drinking the tasty Soma-juice, pounded and pressed with the plants laid on the cow-hide and filled into the vessels, rush upon the enemies, overcome by distress, as a bull charges.
+
+##### English translation
+May Indra, who deserves the twofold adoration, (of praise and prayer), who goes everywhere, the showerer benefits, come to the offered sacrificial food with his two bay horses; O slayer of enemies, (exhilarated) at our sacrifice (by drinking) of the Soma-juice effuse upon the cow-hide and poured (into the cups), rush like a bull upon the dispirited (foe).
+
+### Printed p. 532
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि ति॒ग्मानि॑ भ्रा॒शय॒न्फाश्या॒न्यव॑ स्थि॒रा त॑नुहि यातु॒जूनां॑ ।  
+> उ॒ग्राय॑ ते॒ सहो॒ बलं॑ ददामि प्र॒तीत्या॒ शत्रू॑न्विग॒देषु॑  
+> वृश्च ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । तिग्मानि । भ्राशयन् । भ्राश्यानि । अव । स्थिरा । तनुहि । यातुजूनां ।  
+> उग्राय । ते । सहः । बलं । ददामि । प्रतिइत्य । शत्रुन् । विगदेषु । वृश्च ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र भ्राश्यानि प्रकाश्यानि तिग्मानि तीक्ष्णान्यायुधानि नितरां भ्राशयन्
+> प्रकाशयन् ॥ भ्रातृ दीप्तौ ॥ स त्वं यातुजूनां ॥ जु इति सौत्रो धातुः । भ्राजभासेत्यत्र जवतेर्दिीर्घः । का- ३-२-१७७-१ । क्विष्टेति क्विप् । दीर्घस्यामि नुडागमश्चांदसः ॥ यातुधानानां स्थिरा स्थिराणि दृढान्यपि शरीराण्यव तनुहि । अवस्तात्तनुभूतान्नातॆय । उग्रायोद्दूर्णबलाय ते तुभ्यं सहः शत्रुसहनसमर्थ० बलं
+> बलहेतुकं हनिर्ददामि । अहं प्रयच्छामि । ततो विगदेषु । विविधं गदंति शब्दायंते ॥ गदेर्घइर्थे कविधानमित्यधिकरणे कः ॥ शत्रुन्मतीत्य प्रतिगम्य प्रतिकूलं
+> गत्वा वृश्च । तांश्चिंदि ॥ ओव्रश्च छेदने तौदादिकस्य लोट् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, brandishing (भ्राशयन् (*bhrāśayan*), "making shine") your bright (भ्राश्यानि (*bhrāśyāni*)) and sharp (तिग्मानि (*tigmāni*)) weapons, bring down the bodies of the Yātudhānas, firm though they be: अव तनुहि (*ava tanuhi*) means stretch them downward. जु (*ju*) is a sautra root. To you, the fierce, of surging strength, I give strength (सहः (*sahaḥ*)), able to withstand enemies, a strength-producing oblation. Then, विगदेषु (*vigadeṣu*), in battles where men variously cry out, go against the enemies, assail them and cut them down: वृश्च (*vṛśca*) is the imperative of the root व्रश्च (*vraśca*) in the sense of cutting.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) भ्राश्यानि (*bhrāśyāni*)—shining
+- तिग्मानि (*tigmāni*)—sharp, your weapons
+- नि भ्राशयन् (*ni bhrāśayan*)—brandishing
+- यातुजूनां (*yātujūnāṃ*)—of the hosts of rakṣas beginning with the Yātudhānas
+- स्थिरा (*sthirā*)—the firm bodies
+- अव तनुहि (*ava tanuhi*)—make them fall face downward
+- उग्राय (*ugrāya*)—to you of exceeding strength
+- ते (*te*)—to you
+- सहः (*sahaḥ*)—able to endure the enemies' blows
+- बलं (*balaṃ*)—the strength-giving oblation
+- ददामि (*dadāmi*)—I offer
+- विगदेषु (*vigadeṣu*)—in tumultuous battles
+- शत्रून् प्रतीत्य (*śatrūn pratītya*)—rushing upon the enemies
+- वृश्च (*vṛśca*)—cut them down
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, brandishing your shining and sharp weapons, bring down the firm bodies of the Yātudhānas face downward. To you, endowed with exceeding strength, I offer an oblation that gives strength and can withstand the enemies'
+
+### Printed p. 533
+blows. In the tumultuous battles rush upon the enemies and cut them down.
+
+##### English translation
+Brandishing your sharp, shining weapons, pierce the solid bodies of the evil spirits. I give to you who are ficrce, foe-subding strength ; having assailed the enemies cut them to pieces in the midst of their clamour.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व्य१॒॑गर्य इं॑द्र तनुहि॒ श्रवां॒स्योजः॑ स्थि॒रेव॒ धन्व॑नो॒भिमा॑तीः ।  
+> अ॒स्म॒द्र॑ग्व्यावृधा॒नः सहो॑भि॒रनि॑भृष्टस्त॒न्वं॑ वावृधस्व ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । अर्यः । इंद्र । तनुहि । श्रवांसि । ओजः । स्थिराइव । धन्वनः । अभिमातीः ।  
+> अस्मद्र्यक् । ववृधानः । सहभिः । अनिभृष्टः । तन्वं । ववृधस्व ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आर्यः स्वामी त्वं श्रवांस्यन्नानि । श्रव इत्यन्ननाम । अस्मभ्यं वि
+> तनुहि । विस्तारय । प्रयच्छ ॥ तनोतेर्लोट्युतश्च प्रत्ययाच्छंदसि वावचनं ।
+> पा. ६-४-१०६-१ । इति हेर्लुगभावः ॥ तथाभिमातीः । अभितो मातिर्मानं येषां
+> तेऽभिमातयः शत्रवः । तान्प्रत्योज आत्मीयं वीर्यं स्थिरेव स्थिराण्येव धन्वनो
+> धनूंषि च विस्तारय । तैः शत्रुञ्छहीत्यर्थः । अपि चास्मद्र्यगस्मदभिमुखांचनः ॥
+> विश्वद्गेवयोश्च टेरद्रंचतावित्यद्रादेशः । पा. ६-३-९२ । आद्रिसध्वरंतोदात्तत्वेन निपातनात् । पा. ६-३-९५-१ । उदात्तस्वरितयोर्यण इति धातोरकारस्यानुदात्तस्य स्वरितत्वं ॥ सहोभिरात्मीयैर्बलैर्वावृधानः प्रवृद्धः अत एवानिभृष्टः
+> शत्रुभिरपरिभवनीयस्त्वं तन्नमात्मीयं शरीरं वावृधस्व । वर्धय । यद्वा। तन्नं ।
+> तन्यत इति तनूर्यज्ञः । तं वर्धय । त्वदागमनेन हि यज्यो वर्धते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, आर्यः (*āryaḥ*), the lord, stretch out (वि तनुहि (*vi tanuhi*), extend, bestow) on us श्रवांसि (*śravāṃsi*), foods; "श्रव (*śrava*)" is a name for food. Likewise, against the अभिमातीः (*abhimātīḥ*), the enemies (those whose conceit, *mātiḥ*, is all around), extend your own might as if firm, and your bows; that is, strike the enemies with them. Further, अस्मद्र्यक् (*asmadryak*) means turned toward us. Strengthened by your own powers (सहोभिः (*sahobhiḥ*)), grown great and so unassailed by enemies, increase your own body (तन्वं (*tanvaṃ*)). Or else: तनू (*tanū*) is the sacrifice, "that which is extended"; increase it, for by your coming the sacrifice thrives.
+
+### Printed p. 534
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आर्यः (*āryaḥ*)—you, the lord of all
+- श्रवांसि (*śravāṃsi*)—foods and other provisions
+- वि तनुहि (*vi tanuhi*)—provide us abundantly
+- अभिमातीः (*abhimātīḥ*)—upon the enemies who stand against us
+- ओजः (*ojaḥ*)—your splendour
+- स्थिरेव (*sthireva*)—casting it so that it stays firm
+- धन्वनः (*dhanvanaḥ*)—employ your bows
+- अस्मद्रक् (*asmadrak*)—the people who are before us
+- सहोभिः (*sahobhiḥ*)—by your strength and powers
+- नावृधानः (*nāvṛdhānaḥ*)—making them zealous
+- अनिभृष्टः (*anibhṛṣṭaḥ*)—you who are not defeated by enemies
+- तन्नं (*tannaṃ*)—your body, that is, your own might
+- नावृधस्व (*nāvṛdhasva*)—increase it still more [or तन्नं (*tannaṃ*)—the sacrifice; नावृधस्व (*nāvṛdhasva*)—make it go forward]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of all, provide us abundantly with food and other provisions. Casting your splendour firmly upon the enemies who stand before us, employ your bow against them. Rousing our people who stand before us with your strength and powers, you who are not defeated by enemies, increase still more the might of your body; or else, increase our sacrifice.
+
+##### English translation
+Stretch out for us, lord Indra, varied food, (stretch out) your strength like strong bows against our enemies; mighty in our presence by your vigour and irresistible, still augment your form.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒दं ह॒विम॑घव॒न्नुभ्यं॑ रा॒तं प्रति॑ सम्रा॒ळहृ॑णानो गृभाय ।  
+> तुभ्यं॑ सु॒तो म॑घव॒न्नुभ्यं॑ प॒क्वो॒३॒॑ ३ द्धीं॑द्र॒ पिब॑ च॒ प्रस्थि॑तस्य ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इदं । हविः । मघवन् । तुभ्यं । रातं । प्रति । संराट् । अहृणानः । गृभाय ।  
+> तुभ्यं । सुतः । मघवन् । तुभ्यं । पक्वः । अद्धि । इंद्र । पिब । च । प्रस्थितस्य ॥ ७ ॥
+
+### Printed p. 535
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन्थनवन् सम्राट् सम्यग्राजमान सर्वेषामीश्वरेति ना इदं
+> सोमादिलक्षणं रातमस्माभिर्दत्तं हविर्हे इंद्र तुभ्यमहृणानोऽक्रुद्धन् प्रति
+> गृभाय । प्रतिगृहाण ॥ ग्रहेर्लोटि श्नाप्रत्ययस्य च्छंदसि शायजपीति शायजादेशः।
+> हृग्रहोर्भ इति भः । संनिपातपरिभाषाया अनित्यत्वाद्धेर्लुक् ॥ हे मघवन्
+> तुभ्यमेवायं सोमः सुतः ॥ जयि च । पा. ६-१-२१२ । इत्याद्युदात्तत्वं ॥
+> तुभ्यमेवायं पुरोडाशादिः पक्वः । हे इंद्र तं पुरोडाशमद्धि । भक्षय । किंच
+> प्रस्थितस्य हविर्धानादुत्तरवेदिं प्रति प्रस्थापितं सोमं पिब ॥ वाक्यभेदादनिघातः ।
+> यद्वा । आमंत्रितस्याविद्यमानत्वेन तिज उत्तरत्वादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy one, सम्राट् (*samrāṭ*), the fully shining, lord of all: this oblation (हविः (*haviḥ*)) of Soma and the rest, given (रातं (*rātaṃ*)) by us, accept (प्रति गृभाय (*prati gṛbhāya*)), O Indra, not angry (अहृणानः (*ahṛṇānaḥ*)). For you alone this Soma has been pressed, and for you alone this puroḍāśa and the like has been cooked. O Indra, eat that cake (अद्धि (*addhi*), consume). And further, drink the Soma that has been sent forth (प्रस्थितस्य (*prasthitasya*)) from the havirdhāna toward the northern altar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—wealthy one
+- सम्राट् (*samrāṭ*)—O Indra, lord of all
+- तुभ्यं (*tubhyaṃ*)—for you
+- रातं (*rātaṃ*)—offered by us
+- इदं हविः (*idaṃ haviḥ*)—this oblation
+- अहृणानः (*ahṛṇānaḥ*)—without anger
+- प्रति गृभाय (*prati gṛbhāya*)—accept
+- मघवन् (*maghavan*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you alone
+- सुतः (*sutaḥ*)—this Soma-juice has been pressed and made ready
+- तुभ्यं (*tubhyaṃ*)—for you alone
+- पक्वः (*pakvaḥ*)—this oblation, puroḍāśa and the like, has been cooked
+- इंद्र (*iṃdra*)—O Indra
+- (तं (*taṃ*)—that puroḍāśa) अद्दि (*addi*)—eat
+- प्रस्थितस्य (*prasthitasya*)—the Soma that is ready, filled in the vessel
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wealthy and lord of all, accept without anger this oblation offered by us for you. O Indra, this Soma-juice has been pressed and made ready for you alone. This puroḍāśa also has been cooked for you alone. Eat it. O Indra, drink the Soma-juice that is ready, filled in the vessel.
+
+##### English translation
+Imperial Maghavan, to you this oblation is offered; aecept it, not displeased : for you, Maghavan, the libation is effused, for you (the cake is) toasted ; eat it, Indra, and drink the libation poured (upon the altar).
+
+##### विशेषविषयगळु (Special Topics)
+
+On the question whether the deities, like men, have bodily forms, limbs such as hands, eating of food, drinking of Soma and similar actions, or not, Yāska has given as an example the phrase of this Ṛk, अद्धींद्रपिब च प्रस्थितस्य (*addhīṃdrapiba ca prasthitasya*). His explanation on this matter is as follows—
+
 ---
 
-**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
+**Progress note:** Done through printed p. 535. pp. 530-535 (batch API)
