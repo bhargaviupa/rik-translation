@@ -24100,6 +24100,146 @@ and be safely passed by us.
 
 The darkness of night, पेपिशत् (*pepiśat*) (greatly crushing, clinging to all things), black in colour (कृष्णं (*kṛṣṇaṃ*)), व्यक्तं (*vyaktaṃ*) (variously making all things coloured by its own light, or of distinct form), has come up to me (*upāsthita*; the middle voice is used in the sense of "joining"). "O Ushas, goddess Dawn, drive away that darkness like debts (ऋणेव (*ṛṇeva*))": as you remove the debts of those who praise you by giving wealth, so drive off the darkness too. This is the sense.
 
+### Printed p. 724
+*Pratipadārtha and the rest of Ṛk 7*
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मा (*mā*)—me
+- पेपिशत् (*pepiśat*)—pervading
+- कृष्णं (*kṛṣṇaṃ*)—black
+- व्यक्तं (*vyaktaṃ*)—manifest
+- तमः (*tamaḥ*)—the pitch darkness
+- उप अस्थित (*upa asthita*)—has set out, has gone away
+- उषः (*uṣaḥ*)—O Ushas, you
+- ऋणेव (*ṛṇeva*)—as one pays off a debt
+- यातय (*yātaya*)—drive that darkness away
+
+##### भावार्थ (Bhāvārtha)
+
+The manifest pitch darkness (dense gloom) that spreads all around me has gone away. O Goddess Ushas (the dawn time), as one pays off a debt, drive the pitch darkness away.
+
+##### English translation
+The all-embracing black diffused darkness has approached me, discharge it, Ushas, as if it were a debt.
+
+##### विशेषविषयगळु (Special Topics)
+
+पेपिशत्—सर्ववस्तुष्वाश्लिष्टं (*pepiśat—sarvavastuṣvāśliṣṭaṃ*): the darkness that fills all things and covers them.
+
+व्यक्तं—विशेषेण स्वभासा सर्वस्यांजकं स्पष्टरूपं वा (*vyaktaṃ—viśeṣeṇa svabhāsā sarvasyāṃjakaṃ spaṣṭarūpaṃ vā*): that which, by its own nature, enters into and covers everything, or that which is black so as to be visible to the eye; thick, dense darkness (Thick black darkness).
+
+ऋणेव (*ṛṇeva*)—ṛṇa means debt. A man who has contracted a debt is in a kind of anxiety until he repays it; his mind has no peace. Tormented by the creditor's pressure, he wishes his debt would be cleared quickly so that he may be free of care. In the same way darkness too gives people a kind of torment. In darkness there is trouble from wicked beasts and thieves. In darkness nothing can be seen clearly with the eye, and no work can be done. It is natural to wish that such darkness would quickly go and become light, pleasant to all. Therefore the seer here prays to Ushas, the goddess of morning time, to remove quickly this darkness, which, like the burden of a debt, nobody wants.
+
+### Printed p. 725
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ ते॒ गा इ॒वाक॑रं वृणी॒ष्व दु॑हितर्दिवः ।  
+> रात्रि॒ स्तोमं॒ न जि॒ग्न्युषे॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । ते । गाःइव । आ । अकरं । वृणिष्व । दुहितः । दिवः ।  
+> रात्रि । स्तोमं । न । जिग्युषे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे रात्रि रात्रिदेवते ते त्वां गा इव पयसो दोग्निर्धेनूरिवोपेत्याकरं।
+> स्तुतिभिरभिमुखीकरोमि ॥ करोतेश्चांदसे लुजि कृमृद्यरुहिभ्य इति चेरजादेशः ॥
+> दिवो दुहितर्द्योतमानस्य सूर्यस्य पुत्रि यद्वा दिवसस्य तनये ॥ परमपि चृंदसि ।
+> पा. २-१-२-६ । इति परस्य षष्ठ्यंतस्य पूर्वामंत्रितांगवद्भावात्पदद्वयसमुदायस्याष्टमिकं सर्वानुदात्तत्वं ॥ त्वत्प्रसादाज्जिग्युषे शत्रूइज्जिग्युषो मम स्तोमं न
+> स्तोत्रमिव हविरपि वृणीष्ट । त्वं भजस्व ॥ जयतेर्लिटः क्वसुः । सन्‌लिटोर्जेरित्यभ्यासादुत्तरस्य जकारस्य कुत्वं । षष्ठ्यर्थे चतुर्थि वक्तव्येति चतुर्थि । वसोः
+> संप्रसारणमिति संप्रसारणं ॥
+
+##### Gist of the bhāṣya
+
+O Rātri, goddess of Night, I come up to you like cows, like a milch cow, and bring you to face me with praises; *ākaraṃ* is "I make". He gives the Vedic aorist form of the root kṛ, with the substitution *ir*. *divo duhitaḥ*: daughter of the shining Sun, or alternatively daughter of the day. The accentual remark is that the two words together are wholly anudātta. By your grace, for me who am victorious over enemies, accept (वृणीष्व (*vṛṇīṣva*)) also the oblation, as a hymn of praise; "you, partake". जिग्युषे (*jigyuṣe*) is from the root ji in the perfect with the affix kvasu; the dative stands for the genitive.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रात्रि (*rātri*)—O goddess of Night
+- गा इव (*gā iva*)—like a cow that gives milk, coming to you
+- ते (*te*)—to you
+- आ अकरं (*ā akaraṃ*)—I have offered praise
+- दिवः (*divaḥ*)—of the Sun
+- दुहितः (*duhitaḥ*)—O Night, daughter
+- जिग्युषे (*jigyuṣe*)—of me who conquer enemies
+- स्तोमं न (*stomaṃ na*)—like a hymn (the oblation that I offer)
+- वृणीष्ट्वा (*vṛṇīṣṭvā*)—accept with favour
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess of Night, coming to you as one comes to a milch cow, I have offered this praise to you. O Night, daughter of the Sun, accept the pleasing oblation as you would the hymn of me who wish to conquer enemies.
+
+### Printed p. 726
+
+##### English translation
+I have brought (these verses) before you like milch cows; accept, O Night, daughter of the sky, (my oblation) as the eulogy of one about to conquer.
+
+##### विशेषविषयगळु (Special Topics)
+
+गा इव ते (*gā iva te*)—As people go joyfully to a milch cow to draw milk, so I come to you (Night), giver of desired things, and offer praise: this is the meaning.
+
+दिवः दुहितः (*divaḥ duhitaḥ*)—द्योतमानस्य सूर्यस्य पुत्रि यद्वा दिवसस्य तनये (*dyotamānasya sūryasya putri yadvā divasasya tanaye*): daughter of the shining Sun, or daughter of the day. Day and night arise from the Sun; since day arises when the Sun rises and night when he sets, day and night may be called daughters of the Sun. Likewise, since night comes when day has ended, night may be thought of as born of day. It is the custom to say that when one thing exists first and another arises from it, the second is the daughter of the first. In the hymns describing Ushas, day is described as born from night and night from day. Since night arises after the day has passed, it is natural to call night the daughter of day.
+
+Supplementary (khila) mantras to be recited at the end of this sūkta:
+
+आ रात्रि पार्थिवं रजः पितरः प्रायु धामभिः । दिवः सदांसि बृहती वि तिष्ठस आ त्वेषं वर्तते तमः ॥ १ ॥ (*ā rātri pārthivaṃ rajaḥ pitaraḥ prāyu dhāmabhiḥ | divaḥ sadāṃsi bṛhatī vi tiṣṭhasa ā tveṣaṃ vartate tamaḥ ‖ 1 ‖*)
+ये ते रात्रि नृचक्षसो युक्तासो नवतिर्नव । अशीतिः संत्वष्टा उतो ते सप्त सप्ततीः ॥ २ ॥ (*ye te rātri nṛcakṣaso yuktāso navatirnava | aśītiḥ saṃtvaṣṭā uto te sapta saptatīḥ ‖ 2 ‖*)
+रात्रीं प्रपद्ये जननीं सर्वभूतनिवेशनीं । भद्रां भगवतीं कृष्णां विश्वस्य जगतो निशां ॥ ३ ॥ (*rātrīṃ prapadye jananīṃ sarvabhūtaniveśanīṃ | bhadrāṃ bhagavatīṃ kṛṣṇāṃ viśvasya jagato niśāṃ ‖ 3 ‖*)
+संवेशिनीं संयमिनीं ग्रहनक्षत्रमालिनीं । प्रपन्नोऽहं शिवां रात्रीं भद्रे पारमशीमहि (*saṃveśinīṃ saṃyaminīṃ grahanakṣatramālinīṃ | prapanno 'haṃ śivāṃ rātrīṃ bhadre pāramaśīmahi*) (भद्रॆ पारमशीमहोऽहं नमः ॥ ४ ॥ (*bhadrè pāramaśīmaho 'haṃ namaḥ ‖ 4 ‖*))
+स्तोष्यामि प्रयतो देवीं शरण्यां बह्वृचप्रियां । सहस्रसंमितां दुर्गां जातवेदसे सुनवाम सोमं ॥ ५ ॥ (*stoṣyāmi prayato devīṃ śaraṇyāṃ bahvṛcapriyāṃ | sahasrasaṃmitāṃ durgāṃ jātavedase sunavāma somaṃ ‖ 5 ‖*)
+५ ॥ शांत्यर्थं तद्विजातीनामृषिभिः सोमपाश्रिताः । ऋग्वेदे त्वं समुत्पन्नारातीयतो नि दहाति वेदः ॥ ६ ॥ (*5 ‖ śāṃtyarthaṃ tadvijātīnāmṛṣibhiḥ somapāśritāḥ | ṛgvede tvaṃ samutpannārātīyato ni dahāti vedaḥ ‖ 6 ‖*)
+
+### Printed p. 727
+ये त्वां देवि प्र पद्यंति ब्राह्मणा हव्यवाहनीं । अविद्या बहुविद्या वा स नः पर्षदति दुर्गाणि विश्वा ॥ ७ ॥ (*ye tvāṃ devi pra padyaṃti brāhmaṇā havyavāhanīṃ | avidyā bahuvidyā vā sa naḥ parṣadati durgāṇi viśvā ‖ 7 ‖*)
+ये अग्निवर्णां शुभां सौम्यां कीर्तयिष्यंति ये द्विजाः । तांस्तारयति दुर्गाणि नावेव सिंधुं दुरितात्यग्निः ॥ ८ ॥ (*ye agnivarṇāṃ śubhāṃ saumyāṃ kīrtayiṣyaṃti ye dvijāḥ | tāṃstārayati durgāṇi nāveva siṃdhuṃ duritātyagniḥ ‖ 8 ‖*)
+दुर्गॆषु विषमे घोरे संग्रामे रिपुसंकटे । अग्निचोरनिपातेषु दुष्टग्रहनिवारिणि ॥ ९ ॥ (*durgèṣu viṣame ghore saṃgrāme ripusaṃkaṭe | agnicoranipāteṣu duṣṭagrahanivāriṇi ‖ 9 ‖*)
+दुर्गेषु विषमेषु त्वं संग्रामेषु वनेषु च । मोहयित्वा प्र पद्यंते तेषां मे अभयं कुरु (*durgeṣu viṣameṣu tvaṃ saṃgrāmeṣu vaneṣu ca | mohayitvā pra padyaṃte teṣāṃ me abhayaṃ kuru*) (तेषां मे अभयं कुर्वों नमः (*teṣāṃ me abhayaṃ kurvoṃ namaḥ*)) ॥ १० (*10*) ॥
+केशिनीं सर्वभूतानां पंचमीति च नाम च । सा मां समा निशा देवी सर्वतः परिरक्षतु (*keśinīṃ sarvabhūtānāṃ paṃcamīti ca nāma ca | sā māṃ samā niśā devī sarvataḥ parirakṣatu*) (सर्वतः परि रक्षत्वो नमः (*sarvataḥ pari rakṣatvo namaḥ*)) ॥ ११ (*11*) ॥
+तामग्निवर्णां तपसा ज्वलंतीं वैरोचनीं कर्मपलेषु जुष्टां । दुर्गां देवीं शरणमहं प्र पद्ये सुतरसि तरसे नमः ॥ १२ ॥ (*tāmagnivarṇāṃ tapasā jvalaṃtīṃ vairocanīṃ karmapaleṣu juṣṭāṃ | durgāṃ devīṃ śaraṇamahaṃ pra padye sutarasi tarase namaḥ ‖ 12 ‖*)
+दुर्गा दुर्गेषु स्थानेषु शं नो देवीरभिष्टये । य इमं दुर्गास्तवं पुण्यं रात्रौ रात्रौ सदा पठेत् ॥ १३ ॥ (*durgā durgeṣu sthāneṣu śaṃ no devīrabhiṣṭaye | ya imaṃ durgāstavaṃ puṇyaṃ rātrau rātrau sadā paṭhet ‖ 13 ‖*)
+रात्रिः कुशिकः सोभरो रात्रिर्ना भारद्वाजो रात्रिस्तवो गायत्री ॥ (*rātriḥ kuśikaḥ sobharo rātrirnā bhāradvājo rātristavo gāyatrī ‖*)
+रात्रीसूक्तं जपेन्नित्यं तत्कालमुपपद्यते । न योनिं पुनरायाति सर्वपाष्टैः प्रमुच्यते ॥ १४ ॥ (*rātrīsūktaṃ japennityaṃ tatkālamupapadyate | na yoniṃ punarāyāti sarvapāṣṭaiḥ pramucyate ‖ 14 ‖*)
+क्षीरेण स्नापिता दुर्गा चंदनेन विलेपिता । बिल्वपत्रकृतापीडा नमो दुर्गॆ नमो नमः ॥ १५ ॥ (*kṣīreṇa snāpitā durgā caṃdanena vilepitā | bilvapatrakṛtāpīḍā namo durgè namo namaḥ ‖ 15 ‖*)
+सर्वभूतपिशाचेभ्यः सर्वसर्पसरीसृपैः । दैनेभ्यो मानुषेभ्यश्च उभयोभ्योऽभिरक्ष मां ॥ १६ ॥ (*sarvabhūtapiśācebhyaḥ sarvasarpasarīsṛpaiḥ | dainebhyo mānuṣebhyaśca ubhayobhyo 'bhirakṣa māṃ ‖ 16 ‖*)
+या ऋग्वेदे स्तुता देवी काश्यपेन उदाहृता । जातवेदप्रभा गौरी जातवेदसे सुनवाम सोमं ॥ १७ ॥ (*yā ṛgvede stutā devī kāśyapena udāhṛtā | jātavedaprabhā gaurī jātavedase sunavāma somaṃ ‖ 17 ‖*)
+सुरासुरैर्द्विजवरैः पिशाचोरगराक्षसैः । अरातिभय उत्पन्ने अरातीयतो नि दहाति वेदः ॥ १८ ॥ (*surāsurairdvijavaraiḥ piśācoragarākṣasaiḥ | arātibhaya utpanne arātīyato ni dahāti vedaḥ ‖ 18 ‖*)
+
+### Printed p. 728
+गजद्वारेऽपथे घोरे संग्रामेषु च गौतमी । सर्वं रक्षतु दुरितं स नः पर्षदति दुर्गाणि विश्वा ॥ १९ ॥ (*gajadvāre 'pathe ghore saṃgrāmeṣu ca gautamī | sarvaṃ rakṣatu duritaṃ sa naḥ parṣadati durgāṇi viśvā ‖ 19 ‖*)
+महाभये समुत्पन्ने स्मरंति च जपंति च । सर्वं तारयते दुर्गा नावेव सिंधुं दुरितात्यग्निः ॥ २० ॥ (*mahābhaye samutpanne smaraṃti ca japaṃti ca | sarvaṃ tārayate durgā nāveva siṃdhuṃ duritātyagniḥ ‖ 20 ‖*)
+य इमं दुर्गास्तवं पुण्यं शृण्वंति च जपंति च । त्रिषु लोकेषु विख्यातं त्रिषु लोकेषु पूजितं ॥ २१ ॥ (*ya imaṃ durgāstavaṃ puṇyaṃ śṛṇvaṃti ca japaṃti ca | triṣu lokeṣu vikhyātaṃ triṣu lokeṣu pūjitaṃ ‖ 21 ‖*)
+अपुत्रो लभते पुत्रान् धनहीनो धनं लभेत् । अचक्षुर्लभते चक्षुर्बद्धो मुच्येत बंधनात् ॥ २२ ॥ (*aputro labhate putrān dhanahīno dhanaṃ labhet | acakṣurlabhate cakṣurbaddho mucyeta baṃdhanāt ‖ 22 ‖*)
+२ ॥ व्याधितो मुच्यते रोगादरोगी श्रियमाप्नुयात् । ददाति कामितं सर्वं कात्यायनि नमोऽस्तु ते ॥ २३ ॥ (*2 ‖ vyādhito mucyate rogādarogī śriyamāpnuyāt | dadāti kāmitaṃ sarvaṃ kātyāyani namo 'stu te ‖ 23 ‖*)
+उलूकयातुं शुशुलूकयातुं जहि श्वयातुमुत कोकयातुं । सुपर्णयातुमुत गृध्रयातुं दृषदेव प्र मृण रक्ष इंद्र ॥ (*ulūkayātuṃ śuśulūkayātuṃ jahi śvayātumuta kokayātuṃ | suparṇayātumuta gṛdhrayātuṃ dṛṣadeva pra mṛṇa rakṣa iṃdra ‖*) (Ṛ. Saṃ. 7-104-22.)
+पिशंगभृष्टिमंभृणं पिशाचिमिंद्र सं मृण । सर्वं रक्षो नि बर्हय ॥ (*piśaṃgabhṛṣṭimaṃbhṛṇaṃ piśācimiṃdra saṃ mṛṇa | sarvaṃ rakṣo ni barhaya ‖*) (Ṛ. Saṃ. 1-133-5.)
+
+## Sūkta 128 (Maṇḍala 10)
+**Introduction**
+In this sūkta the Viśvedevas are praised. As in other sūktas addressed to the Viśvedevas, besides the praise of various deities, the seer describes the request that these deities protect and keep the worshippers in every way, protect sacrifices and the like, and fulfil wishes such as wealth and good sons. In a way this sūkta is a blessing for those who wish to obtain the favour of the gods. On the use of this sūkta, the great sage Śaunaka, in the fourth chapter of his work Ṛgvidhāna, says:
+
+ममाग्ने वर्च इत्येतत्सर्वकामैर्जपेद्विजः । जुह्स्वदाज्यमनेनैव सर्वान्नामानवाप्नुयात् ॥ २९ ॥ (*mamāgne varca ityetatsarvakāmairjapedvijaḥ | juhsvadājyamanenaiva sarvānnāmānavāpnuyāt ‖ 29 ‖*)
+
+### Printed p. 729
+A man who wishes all his desires fulfilled should mutter this sūkta beginning ममाग्ने वर्चः (*mamāgne varcaḥ*), and if he offers ghee in the established fire while reciting the mantras of this sūkta, he will obtain all his desires.
+
+यां कल्पयंतीति सदा जपेत नियतव्रतः । नैनं कृत्या निहिंसंति क्रुद्धाभिचरितानि च ॥ ॥ ३० ॥ (*yāṃ kalpayaṃtīti sadā japeta niyatavrataḥ | nainaṃ kṛtyā nihiṃsaṃti kruddhābhicaritāni ca ‖ ‖ 30 ‖*)
+For a man who, always with discipline, mutters the sūkta यां कल्पंति (*yāṃ kalpaṃti*) (a khila sūkta belonging to the sūkta ममाग्ने वर्चः (*mamāgne varcaḥ*); it is explained in the special topics of the last Ṛk of this sūkta), the hostile rites (magic, sorcery and the like) performed by others in anger do not touch him; that is, those rites do not harm him.
+
+यमंगिरसकल्पैस्तु तद्विदोऽभिचरंति सः । प्रत्यंगिरसकल्पेन सर्वांस्तान् प्रतिबाधते ॥ ३० ॥ (*yamaṃgirasakalpaistu tadvido 'bhicaraṃti saḥ | pratyaṃgirasakalpena sarvāṃstān pratibādhate ‖ 30 ‖*)
+If, according to the Āṅgirasa-kalpa (as stated in the Atharvaveda), those who know hostile rites perform them against a man with intent to harm him, that man, by acting in return according to the procedure stated in the Pratyaṅgirasa-kalpa, does not suffer from those rites but becomes able to harm his own rivals in return.
+
+प्रत्यंगिरसविद्वांस्तु न रिष्येत कदाचन । नैनं कृत्या निहिंसंति ज्ञाताज्ञातानि यानि च ॥ ३२ ॥ (*pratyaṃgirasavidvāṃstu na riṣyeta kadācana | nainaṃ kṛtyā nihiṃsaṃti jñātājñātāni yāni ca ‖ 32 ‖*)
+अजानता जानता वा क्रुद्धेनामर्षितेन वा आक्रुष्टं वा दुरुक्तंवा नैनो लिंपति तद्विदं ॥ ३३ ॥ (*ajānatā jānatā vā kruddhenāmarṣitena vā ākruṣṭaṃ vā duruktaṃvā naino liṃpati tadvidaṃ ‖ 33 ‖*)
+A scholar who knows the Pratyaṅgirasa mantras and the manner of using them is never troubled by hostile rites. No mantra-rites, whether done deliberately or unknowingly, can harm him; the mantra-rites done in anger or envy, knowingly or unknowingly, subjugation, cursing and similar practices can do nothing to this scholar.
+
+एतमेव जपेन्नित्यमृषिं स्वस्त्ययनाय वै । सर्वप्रायश्चित्तमेतदभाषत ऋषिः स्वयं (*etameva japennityamṛṣiṃ svastyayanāya vai | sarvaprāyaścittametadabhāṣata ṛṣiḥ svayaṃ*)
+For well-being and prosperity this sūkta should be muttered every day; and the seer of this sūkta himself has said that it is an expiation for all faults of omission.
+
+स्थावरणां निवेशे तु नगराणां तथैव च । ग्रामाणां च गृहाणां च जपेदिममृषिं सदा ॥ ८५ ॥ (*sthāvaraṇāṃ niveśe tu nagarāṇāṃ tathaiva ca | grāmāṇāṃ ca gṛhāṇāṃ ca japedimamṛṣiṃ sadā ‖ 85 ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 723. pp. 718-723 (batch API)
+**Progress note:** Done through printed p. 729. pp. 724-729 (batch API)
