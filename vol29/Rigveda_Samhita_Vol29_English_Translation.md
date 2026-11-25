@@ -9328,6 +9328,220 @@ They remove the leaves from the Soma creeper or vine, put it in a mortar and cru
 
 The method of crushing the Soma creeper and preparing the Soma juice is nowhere described in detail in the Ṛgveda. The method can be inferred from some sentences stated here and there. The stones that crush the Soma creepers have the names ग्राव (*grāva*) and अद्रि (*adri*). In some contexts wooden boards, well known by the name अधिषवण फलक (*adhiṣavaṇa phalaka*), are also used. If the creeper is fresh, the juice comes out in plenty. If not, that is, if some days have passed since it was cut and brought, they soak it in water and afterwards place it on a skin. Then they crush it with stones and extract the juice. Because the juice extracted in this way has bits of the creeper's bark, fragments and the like mixed in it, they strain that juice either through the gaps between the fingers of the hands, or through a strainer or cloth called पवित्र (*pavitra*), or through sheep's wool. The juice strained in this way is clear, without impurities. It has the names शुक्र (*śukra*) and शुचि (*śuci*). In appearance this juice is dull red or of a red colour mixed with yellow. It is the custom to offer to Indra and to Vāyu pure Soma juice, that is, juice not mixed with आशिर (*āśira*) substances. For the other gods they sometimes use it mixed with milk, curds and grain flour. The Soma juice mixed with these has respectively the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*).
 
+### Printed p. 356
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमे॑नादि॒त्या ब॒लिनः॒ सोमे॑न पृथि॒वी म॒ही ।  
+> अथो॒ नक्ष॑त्राणामे॒षामु॒पस्थे॒ सोम॒ आहि॑तः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमेन । आदित्याः । बलिनः । सोमेन । पृथिवी । मही ।  
+> अथो इति । नक्षत्राणां । एषां । उपस्थे । सोमः । अहितः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमेनादित्या अदितेः पुत्रा इंद्रादयो बलिनो भवंति । ऐंद्रवायवादिग्रहपरिग्रहादिति भावः । तथा सोमेनाहुत्यात्मनाग्नौ हुतेन पृथिवी भूमिर्मही
+> महती भवति । आहुत्या वृष्टिद्वारेण सस्यादिसंपत्तेः । अथो अपि चायं सोमो
+> नक्षत्राणामेषां । न क्षं त्रायंत इति नक्षत्रा ग्रहचमसादयः । तेषामेषामुपस्थे
+> सोमो रसात्मक आहितः । यद्वा । सिद्धानामेव नक्षत्राणामुपस्थॆ उपस्थाने
+> द्युलोके सोम आहितः । तृतीयस्यामितो दिवि सोम आसीत्तं गायत्राहरत् ।
+> तै. ब्रा. ३-२-१-१ । इत्यादिश्रुतेः ॥ देवतारूपसोमपक्षे । सोमेनादित्या देवा
+> बलिनो बलवंतो भवंति तस्यैकैककलास्वादनात् । प्रथमां पिबते वर्ह्निर्द्वितीयां
+> पिबते रविरित्यादिस्मृतेः । सोमेन पृथिवी मही । अमृतसेकेनौषध्याद्यभिवृद्ध्या
+> पृथिव्या बलवत्त्वं । चंद्रस्य नक्षत्राणामुपस्थे स्थितिः प्रसिद्धा ॥
+
+##### Gist of the bhāṣya
+
+By Soma the Ādityas, the sons of Aditi, Indra and the others, become strong, because they take up the Aindravāyava and the other cups: that is the sense. Likewise the earth becomes great by Soma offered as an oblation in the fire, because by the oblation, by way of rain, crops and other wealth arise. Moreover this Soma is placed in the vicinity of these nakṣatras. The nakṣatras are the grahas, camasas and the like (न क्षं त्रायंत इति (*na kṣaṃ trāyaṃta iti*)); in their vicinity Soma, of the nature of juice, is placed. Or else, in the vicinity of the nakṣatras that already exist, that is in the world of heaven, Soma is placed; he cites the śruti तृतीयस्यामितो दिवि सोम आसीत्तं गायत्राहरत् (*tṛtīyasyāmito divi soma āsīttaṃ gāyatrāharat*) (Tai. Brā. 3-2-1-1) and the like. On the view that Soma is a deity: by Soma the Ādityas, the gods, become strong, because each of them tastes one of his phases, as a smṛti beginning प्रथमां पिबते (*prathamāṃ pibate*) says. By Soma the earth is great: by the sprinkling of nectar the herbs and the rest flourish, and so the earth is strong. The moon's standing in the vicinity of the nakṣatras is well known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमेन (*somena*)—by the influence of Soma
+- आदित्याः (*ādityāḥ*)—the gods, the sons of Aditi
+- बलिनः (*balinaḥ*)—are endowed with strength
+- सोमेन (*somena*)—by the influence of Soma
+- पृथिवी (*pṛthivī*)—the earth
+- मही (*mahī*)—is endowed with greatness
+- अथो (*atho*)—moreover
+- सोमः (*somaḥ*)—Soma, of the nature of juice
+- एषां नक्षत्राणां (*eṣāṃ nakṣatrāṇāṃ*)—of these nakṣatras
+- उपस्थे (*upasthe*)—in the vicinity
+- आहितः (*āhitaḥ*)—is placed
+
+##### भावार्थ (Bhāvārtha)
+
+By the influence of Soma the gods, the sons of Aditi, are endowed with strength. By the influence of Soma the earth is endowed with greatness. Moreover, Soma, of the nature of juice, is placed in the vicinity of these nakṣatras.
+
+### Printed p. 357
+
+##### English translation
+By Soma the Adityas are strong; by Soma the earth is great; Soma is stationed in the vicinity of these Nakshatras.
+
+##### विशेषविषयगळु (Special Topics)
+
+सोमेन आदित्याः बलिनः (*somena ādityāḥ balinaḥ*)—अदितेः पुत्रा इंद्रादयो देवा आहुत्यात्मनाग्नौ हुतेन सोमेन बलिनो भवंति । (*aditeḥ putrā iṃdrādayo devā āhutyātmanāgnau hutena somena balino bhavaṃti |*). The gods beginning with Indra become strong by the Soma-juice that sacrificers offer into the fire as an oblation in sacrifices and the like. Soma also means nectar. By drinking nectar the gods become satisfied and strong. It is also stated in the Purāṇas and elsewhere that the Soma offered in the fire reaches the gods in heaven and that they become strong by drinking that Soma.
+
+सोमेन पृथिवी मही (*somena pṛthivī mahī*)—सोमेन भूमिः महती भवति । आहुत्या वृष्टिद्वारेण सस्यादिसंपत्तेः (*somena bhūmiḥ mahatī bhavati | āhutyā vṛṣṭidvāreṇa sasyādisaṃpatteḥ*). By the Soma-oblation in the fire, that is, by the performance of sacrificial rites, rain falls on the earth in due season and the earth shines with wealth of crops; the idea is that Soma alone is the cause of the earth's appearing resplendent.
+
+अथो एषां नक्षत्राणां उपस्थे सोमः आहितः (*atho eṣāṃ nakṣatrāṇāṃ upasthe somaḥ āhitaḥ*). The meaning of the sentence is that Soma is placed in the world of heaven, which is in the vicinity of the nakṣatras. As stated in the Taittirīya Brāhmaṇa passage तृतीयस्यामितो दिवि सोम आसीत् (*tṛtīyasyāmito divi soma āsīt*) (Tai. Brā. 3-2-1-1), the Soma creeper was not at first on the earth; it was in heaven. The gods wished to bring it to the earth and for that purpose prayed to the metres beginning with Gāyatrī. Although the three metres Gāyatrī, Triṣṭubh and Jagatī made the attempt, the Triṣṭubh and Jagatī metres could not bring Soma to the earth. But the Gāyatrī metre alone took the form of a hawk and brought Soma to the earth. We have explained the story of this account of the carrying off of Soma in detail at the beginning of the 26th part of the Ṛ. Saṃ.
+
+नक्षत्राणां (*nakṣatrāṇāṃ*)—stars, or the houses of the gods. That the houses in which the gods dwell are called nakṣatras is stated in the Taittirīya Brāhmaṇa: देवगृहा वै नक्षत्राणि (*devagṛhā vai nakṣatrāṇi*) (Tai. Brā. 1-5-2-6); and there itself: यो ना इह यजते । अमुग्ं स लोकं नक्षते । तन्नक्षत्राणां नक्षत्रत्वं (*yo nā iha yajate | amugṃ sa lokaṃ nakṣate | tannakṣatrāṇāṃ nakṣatratvaṃ*) (Tai. Brā. 1-5-2-5). That is, one who performs sacrifice in this world dwells in the other world in a shining house (called a nakṣatra); therefore the nakṣatras have received this name, it is said there itself. Or else सुकृतां वा एतानि ज्योतिग्‌षि यन्नक्षत्राणि । (*sukṛtāṃ vā etāni jyotigṣi yannakṣatrāṇi |*) (Tai. Saṃ. 5-4-1-3); it is said in the Taittirīya Saṃhitā that those who have performed good deeds shine in the other world with a radiance of the form of nakṣatras, and that they themselves appear to us in the form of nakṣatras.
+
+### Printed p. 358
+
+Yāska says in his Nirukta: नक्षत्राणि । नक्षतेर्गतिकर्मणः । नेमानि क्षत्राणीति च ब्राह्मणं (*nakṣatrāṇi | nakṣatergatikarmaṇaḥ | nemāni kṣatrāṇīti ca brāhmaṇaṃ*) (Ni. 3-20). That is, the root नक्षति (*nakṣati*) has the sense of motion. क्षत्र (*kṣatra*) means wealth; because they shine like gold, which is a form of wealth, these are called nakṣatras. It is held that those who have done good deeds, dwelling in an excellent place in the world of heaven, shine in the form of nakṣatras.
+
+The commentator has given another meaning for this Ṛk. We have explained it in the introduction of this sūkta itself.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमं॑ मन्यते पपि॒वान्यत्सं॑पिं॒शंत्योष॑धिं ।  
+> सोमं॒ यं ब्र॒ह्माणो॑ वि॒दुर्न तस्या॑श्नाति॒ कश्च॒न ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमं । मन्यते । पपिवान् । यत् । संपिषंति । ऒषधिं ।  
+> सोमं । यं । ब्रह्माणः । विदुः । न । तस्य । अश्नाति । कः । चन ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमं मन्यते । कः । यः पपिवान् । मैथुनकामार्थं चिकित्साद्यर्थं
+> पीतः सोमो येन । यद्यमित्यर्थः । यं सोममोषधिं वल्लीरूपं संपिषंति।
+> सामर्थ्याद्रासायनिकाः । न च स साक्षात्सोमः । तर्हि कः । उच्यते । सोमं हि
+> तं मन्यते यं ब्रह्माणः । यद्ब्रह्मशब्दो ब्राह्मणशब्द पर्यायोऽस्ति कुतो नु
+> चरसि ब्रह्मन् तस्मै मा ब्रूया निधिपाय ब्रह्मन्नित्यादिप्रयोगात् । ब्राह्मणा
+> इत्यर्थः । ते चर्त्वजो यजमानश्च यागसाधनभूतं संस्कर्तुं विदुः जानंति
+> तस्यांशं । यद्वा । कर्मणि षष्ठी । तं सोमं कश्चन नाश्नाति । कश्चिदष्ययज्वेति
+> शेषः । यज्ञैनं भक्षयितुमर्हति नान्य इत्यर्थः । एवमोषधिपक्षे ॥ अथ चंद्रपक्ष
+> उच्यते । तं सोमं मन्यते पपिवान् पीतवान्यजमानो यद्यमोषधिरूपं
+> संपिषंत्यभिषवग्रावभिरध्वयार्वादयो यजमानश्च । न च स सोमः कस्तर्हि ।
+
+##### Gist of the bhāṣya
+
+Who thinks Soma? He who has drunk, one by whom Soma has been drunk for the sake of sexual desire, for medicine or the like; the sense is that he thinks that to be Soma which, in the form of the herb, the creeper, the rasāyana-makers (so by implication) crush. But that is not Soma in reality. Then what is it? He says: they regard as Soma that which the ब्रह्माणः (*brahmāṇaḥ*) know. The word ब्रह्म (*brahma*) is a synonym of the word ब्राह्मण (*brāhmaṇa*), from usages such as कुतो नु (*kuto nu*) and तस्मै मा ब्रूया (*tasmai mā brūyā*); the meaning is brāhmaṇas. They, the officiating priests and the sacrificer, know the part of it that is the means of the sacrifice, how to prepare it. Or else, the genitive is in the sense of the object: no one eats that Soma; the word to be supplied is "one who is not a sacrificer"; the sense is that only a sacrificer is fit to eat it, not another. This is on the view of the herb. **NOTE** Now the view of the moon is stated: the sacrificer who has drunk thinks that to be Soma which, being of the form of the herb, the adhvaryus and the others and the sacrificer crush with the pressing stones; but that is not Soma. What then?
+
+### Printed p. 359
+
+> यं ब्रह्माणो ब्राह्मणा अभिज्ञा दैवज्ञा विदुः कथयंति चंद्रमसं न तस्याश्नातिकश्चनादेवो देवेभ्योऽन्यो मनुष्यादिः । देवा अग्न्यादयो रश्मयो वा ।
+> यज्ञार्हसोमस्यासोमत्वं न निंदायै अपि त्वरस्य स्तुत्या इति मंतव्यं ।
+> अपशवोऽन्ये गोअश्वेभ्य इत्यादिवत् । एवमत्र सोम्या उभयथा योज्याः ॥
+
+##### Gist of the bhāṣya
+
+Whom the ब्रह्माणः (*brahmāṇaḥ*), the brāhmaṇas, the knowing ones, the astrologers, declare to be the moon, of him no one who is not a god eats: one other than the gods, a human being and the rest. The gods are Agni and the others, or the rays. It is to be understood that the denial of Soma-hood to the Soma that is fit for sacrifice is not for condemnation but for the praise of the other, as in अपशवोऽन्ये गोअश्वेभ्य (*apaśavo 'nye goaśvebhya*) and the like. In this way the words relating to Soma are to be applied here in both ways. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ओषधिं (*oṣadhiṃ*)—of the form of a creeper
+- यत् (*yat*)—which Soma
+- संपिंशंति (*saṃpiṃśaṃti*)—the chemists press, that very one
+- सोमं (*somaṃ*)—as the true form of Soma
+- पपिवान् (*papivān*)—he who has drunk that juice
+- मन्यते (*manyate*)—thinks (but)
+- यं सोमं (*yaṃ somaṃ*)—which Soma
+- ब्रह्माणः (*brahmāṇaḥ*)—the officiating priests and sacrificers
+- विदुः (*viduḥ*)—know
+- तस्य (*tasya*)—of its form
+- कश्चन (*kaścana*)—anyone at all
+- न अश्नाति (*na aśnāti*)—cannot know **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The ordinary man who drinks the juice knows as the true Soma that worldly juice of the creeper-form Soma which the chemists press. But the form of that Soma which is fit for the sacrifice, which the officiating priests and sacrificers know, cannot be known by those who are without rites.
+
+##### English translation
+He who has drunk thinks that the herb which men crush is the Soma ; (but) that which the Brahmans know to be Soma, of that no one partakes.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk there is an explanation of two kinds with regard to the deity Soma. The first is the Soma creeper known to ordinary people. They bring this, crush it with stones, press out the juice and drink it. This Soma is in the form of a creeper (herb). The second is the deity who presides over the Soma creeper. They say that this deity is the moon himself. The śruti statement सोम ओषधीनामधिपतिः (*soma oṣadhīnāmadhipatiḥ*) supports this. The nature of the deity presiding over Soma is known only to wise brāhmaṇas. Others cannot know it and cannot drink it. It is said in the Purāṇas and elsewhere that only the gods are able to eat it. On this matter it is said in the Śatapatha Brāhmaṇa also: चंद्रमा वै सोमो देवानामन्नं ता पौर्णमास्यामभिषुण्वंति (*caṃdramā vai somo devānāmannaṃ tā paurṇamāsyāmabhiṣuṇvaṃti*) (Śa. Brā. 11-1-5-3) **GLOSS**
+
+The authors of the Nirukta: ओषधिस्सोमः सुनोतेर्यदेनमभिषुण्वंति (*oṣadhissomaḥ sunoteryadenamabhiṣuṇvaṃti*), a herb that is well known by the name Soma. This
+
+### Printed p. 360
+
+आदाय श्येनो अभरत्सोमं सहस्रं सवा आयुतं च साकं । अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥ (*ādāya śyeno abharatsomaṃ sahasraṃ savā āyutaṃ ca sākaṃ | atrā puraṃdhirajahādarātīrmade somasya mūrā amūraḥ ‖*) (Mi. Saṃ, 4-26-7) **NOTE** **GLOSS**
+
+he has explained the greatness of Soma by saying that the Gāyatrī metre, taking the form of a hawk, brought it from heaven to the earth, and that, in the contexts in which Indra drinks this Soma, sacrificers, having performed sacrifices with a thousand pressings, gave a sacrificial fee numbering ten thousand. And बहुलमस्य नैघंटुकं वृत्तं आश्चरमिव प्राधान्येन (*bahulamasya naighaṃṭukaṃ vṛttaṃ āścaramiva prādhānyena*)—the praise of this Soma too indicates its importance and is wonderful; this has been recited in the ninth maṇḍala. And the greatness of this Soma is stated in the form of praise in this Ṛk—
+
+स्वादिष्टया मदिष्टया पवस्व सोम धारया । इंद्राय पातवे सुतः ॥ (*svādiṣṭayā madiṣṭayā pavasva soma dhārayā | iṃdrāya pātave sutaḥ ‖*) (Ṛ. Saṃ. 9-1-1) **GLOSS**
+
+सोमं मन्यते पपिवान् यत्संपिंषंत्योषधिं । सोमं यं ब्राह्मणो विदुर्न तस्याश्नाति कश्चन ॥ (*somaṃ manyate papivān yatsaṃpiṃṣaṃtyoṣadhiṃ | somaṃ yaṃ brāhmaṇo vidurna tasyāśnāti kaścana ‖*) (Kh. Saṃ. 10.85-3) **NOTE**
+
+The word सोम (*soma*) is understood to mean the moon. In this Ṛk both the Soma creeper and the moon are praised. But the superiority of this Soma over the well-known moon has been described by Yāska in this manner.
+
+सोमं मन्यते पपिर्वा यत्संपिंषंतोषधिमिति वृथासुतमसोममाह सोमं यं ब्रह्माणो विदुरिति न तस्याश्नाति कश्चनायजैत्यधियज्ञं आथादिदैवतं सोमं मन्यते पपिर्वा यत्संपिंषंतोषधिमिति यजुस्सुतमसोममाह सोमं यं ब्रह्माणो विदुश्चंद्रमसं न तस्याश्नाति कश्चनादेव इति ॥ (*somaṃ manyate papirvā yatsaṃpiṃṣaṃtoṣadhimiti vṛthāsutamasomamāha somaṃ yaṃ brahmāṇo viduriti na tasyāśnāti kaścanāyajaityadhiyajñaṃ āthādidaivataṃ somaṃ manyate papirvā yatsaṃpiṃṣaṃtoṣadhimiti yajussutamasomamāha somaṃ yaṃ brahmāṇo viduścaṃdramasaṃ na tasyāśnāti kaścanādeva iti ‖*) (Ni. 11-4)
+
+Although those who make rasāyanas and the like bring Soma, press out the juice and drink it, they do not become renowned in the sacrifice as Soma-drinkers; therefore, because Soma is used as a part of the sacrifice, it is praised as producing the renown of being a Soma-drinker, in the prescribed manner, only for sacrificers. In the adhidaivata view also, (in explaining the word सोम (*soma*) as the moon), the Soma that is a part of the sacrifice is denoted by the word सोम (*soma*). By the śruti statement सोमो नूनमेष (*somo nūnameṣa*)
+
+### Printed p. 361
+
+यद्देवानामन्नं (*yaddevānāmannaṃ*), although the moon is denoted by the word सोम (*soma*), he is food only for the gods. Therefore, although by the mantra सोमं मन्यते (*somaṃ manyate*) two kinds of meaning, adhiyajña and adhidaivata, are given for the word सोम (*soma*), the ritualists have assigned the principal place, in the sacrifice that they perform, to the Soma that is of the form of a herb.
+
+यत्वा देव प्रपिबंति तत आ प्यायसे पुनः । वायुस्सोमस्य रक्षिता समानां मास आकृतिः ॥ (*yatvā deva prapibaṃti tata ā pyāyase punaḥ | vāyussomasya rakṣitā samānāṃ māsa ākṛtiḥ ‖*) (Ṛ. Saṃ. 10-85-5)
+
+यत्वा देव प्रपिबंति तत आप्यायसे पुनरिति नाराशंसानभिप्रेत्य पूर्वपक्षापर पक्षाविति वा वायुस्सोमस्य रक्षिता वायुमस्य रक्षितारमाह साहचर्यात् रसहरणाद्वा । समानां संवत्सराणां मास आकृतिः सोमो रूपविशेषैरोषधिश्चंद्रमा वा ॥ (*yatvā deva prapibaṃti tata āpyāyase punariti nārāśaṃsānabhipretya pūrvapakṣāpara pakṣāviti vā vāyussomasya rakṣitā vāyumasya rakṣitāramāha sāhacaryāt rasaharaṇādvā | samānāṃ saṃvatsarāṇāṃ māsa ākṛtiḥ somo rūpaviśeṣairoṣadhiścaṃdramā vā ‖*)
+
+In the sense relating to the sacrifice (adhiyajña), Soma is drunk in the three libations by the officiating priests beginning with the sacrificer; by this, this Soma becomes the one who nourishes. Although Vāyu sucks the juice of the herbs, he does not suck the Soma juice, and so he is its protector. The rasāyana-makers who know Āyurveda say that this Soma undergoes increase of its leaves in accordance with the tithis of the bright fortnight of each month, and decrease of its leaves (apacita) in accordance with the tithis of the dark fortnight. In the adhidaivata view, the moon, who is denoted by the word सोम (*soma*), nourishes the gods by his phases in accordance with the respective tithis. The gods also drink the phases of the moon. The moon undergoes increase and decrease in the respective fortnights through his phases. Thus, in both ways, adhiyajña and adhidaivata, the similarity of the moon (his equal state) to the Soma creeper has been stated, identity with Soma has been established, and the Soma creeper has been praised as full of abundant greatness.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒च्छद्वि॑धान्यर्गुपि॒तो बार्ह॑तैः सोम रक्षि॒तः ।  
+> ग्रान्ना॒मिच्छृ॒ण्वन्ति॑ष्ठसि॒ न ते॑ आश्नाति॒ पार्थि॑वः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्चत् विधानैः । गुपितः । बार्हतैः । सोम । रक्षितः ।  
+> ग्राह्यं । इत् । शृण्वन् । शिष्ठसि । न । ते । अश्नाति । पार्थिवः ॥ ४ ॥
+
+### Printed p. 362
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम आच्छद्विधानैः । आच्छादयंति विधानानि येषां विद्यंते त
+> आच्छद्विधानाः । तैर्गुपितः । तथा बार्हतैर्गुपितः । स्वानभ्राजांघार्यादिभिः सप्तभिः
+> सोमपालै रक्षितस्त्वं । एते वा अमुष्मिल्लोके सोममरक्षण् । तै. सं. ६-१-१०-५ ।
+> इति ब्राह्मणं । ग्राव्णामिच्छृण्वन्नभिषवग्राव्णां ध्वनिं शृण्वन्नेव तिष्ठसि । ते त्वां
+> पार्थिवः पार्थिवो जनो नाश्नाति । न हि द्युस्थश्चंद्ररूपोऽत्रत्यैः पानयोग्यो
+> भवति । चंद्रमा वै सोमो देवानामन्नं तं पौर्णमास्यायामभिषुण्वंतीति
+> वाजसनेयकं ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are आच्छद्विधानैः (*ācchadvidhānaiḥ*): those whose rites cover you (they cover the arrangements) are the आच्छद्विधानाः (*ācchadvidhānāḥ*), and you are guarded by them. Likewise you are guarded by the Bārhatas, protected by the seven Soma-guardians beginning with स्वानभ्राजांघार्यादिभिः (*svānabhrājāṃghāryādibhiḥ*). The Brāhmaṇa says that these in that world guarded Soma (Tai. Saṃ. 6-1-10-5). ग्राव्णामिच्छृण्वन् (*grāvṇāmicchṛṇvan*): you stand hearing the sound of the pressing stones. The earthly man, the man of the earth, does not eat you; for the moon-form that is in heaven is not fit to be drunk by those here. The Vājasaneyaka says: the moon is Soma, the food of the gods; they press it at the full moon. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- आच्छद्विधानैः (*ācchadvidhānaiḥ*)—by means of coverings
+- गुपितः (*gupitaḥ*)—concealed
+- बार्हतैः (*bārhataiḥ*)—by the seven Soma-guardians
+- रक्षितः (*rakṣitaḥ*)—protected, you
+- ग्रावां इत् (*grāvāṃ it*)—the sound of the pressing stones
+- शृण्वन् (*śṛṇvan*)—hearing
+- तिष्ठसि (*tiṣṭhasi*)—you stand
+- ते पार्थिवः (*te pārthivaḥ*)—men belonging to the earth
+- न आश्नाति (*na āśnāti*)—cannot take a share in your drinking
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you, concealed by means of coverings and protected by the seven Soma-guardians, stand hearing the sound of the pressing stones; men belonging to the earth cannot take a share in your drinking.
+
+##### English translation
+Concealed by means of coverings, protected by the Barhats, O Soma, you abide listening to the grinding-stones; no terristrial being partakes of you.
+
+##### विशेषविषयगळु (Special Topics)
+
+बार्हतैः सोम रक्षितः (*bārhataiḥ soma rakṣitaḥ*)—Soma, who was in heaven, was guarded by seven Gandharvas. They are called the Soma-guardians. Snāna, Bhrāja, Aṅghāri, Baṃbhāri, Hasta, Suhasta and Kṛśānu are those seven Soma-guardians. When Gāyatrī, in the form of a hawk, was bringing Soma to the earth, Kṛśānu, one of the Soma-guardians mentioned above, became angry and took aim and struck with an arrow the hawk that was carrying Soma away. By this a part of the hawk's wing was cut off and wounded. In some places it is said that the nail (claw) of this bird's left foot was cut off. It changed into the form of a porcupine and turned into the form of a quill. The blood that poured from it
+
 ---
 
-**Progress note:** Done through printed p. 355. Ṛk 1 Pada, bhāṣya, commentary; Special Topics on Soma and its preparation (pp. 350-355)
+**Progress note:** Done through printed p. 362. Ṛks 2-4 (pp. 356-362): Pada, bhāṣya, commentary, Special Topics on nakṣatras and Soma
