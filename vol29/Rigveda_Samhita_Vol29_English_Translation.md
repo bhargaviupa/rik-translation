@@ -15985,6 +15985,342 @@ Inasmuch as you abide, Agni Jatavedas, on the brow of the universe together with
 
 Vaiśvānara Agni at night (नक्तं (*naktaṃ*)) becomes the head (मूर्धा (*mūrdhā*)), that is, the chief like a head, of all beings (भुवः (*bhuvaḥ*)), because at night the light of all creatures depends on him. Then (ततः (*tataḥ*)), after the night, Sūrya is born rising in the morning; that is, by day that same Vaiśvānara Agni becomes Sūrya. Further, of the gods who accomplish the sacrifice, the seers (the word "seers" is to be supplied) consider this to be wisdom, मायामु (*māyāmu*). As for that which, becoming known, Sūrya
 
+### Printed p. 550
+
+> सन्नपोऽंतरिक्षं कर्म वा चरति । तथा च यास्कः । मूर्धा मूर्तमस्मिन्द्धीयते
+> मूर्धा यः सर्वेषां भूतानां भवति नक्तमग्निस्ततः सूर्यो जायते
+> प्रातरुद्यंत्स एव प्रज्ञां त्वेतां मन्यंते यज्जियानां देवानां यज्ञसंपादिनामपो यत्कर्म चरति प्रजानंत्सर्वाणि स्थानान्यनुसंचरति त्वरमाणः ।
+> नि. ७-२७ । इति ॥
+
+##### Gist of the bhāṣya
+
+Being knowing, he moves through the atmosphere, or he moves in action. Accordingly Yāska (Ni. 7-27) says: he explains मूर्धा (*mūrdhā*) as that in which the solid (mūrta) is placed; that which becomes the head of all beings at night is Agni; then Sūrya is born, rising in the morning; he indeed is the one whom they consider as wisdom, of the gods worthy of sacrifice who accomplish the sacrifice; he, knowing, moves through the atmosphere, or through action, and hastening goes about to all the places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Vaiśvānara Agni
+- नक्तं (*naktaṃ*)—at night
+- भुवः (*bhuvaḥ*)—for all the worlds
+- मूर्धा (*mūrdhā*)—as the chief illuminator
+- भवति (*bhavati*)—he is
+- ततः (*tataḥ*)—after the night
+- सूर्यः (*sūryaḥ*)—the sun
+- प्रातः (*prātaḥ*)—in the morning
+- उद्यन् (*udyan*)—appearing
+- जायते (*jāyate*)—becomes visible
+- यत् (*yat*)—by which greatness
+- प्रजानन् (*prajānan*)—the sun who has become visible
+- तूर्णिः (*tūrṇiḥ*)—moving swiftly
+- अपः (*apaḥ*)—throughout the atmosphere
+- चरति (*carati*)—moves; that
+- यज्ञियानां (*yajñiyānāṃ*)—of the gods worthy of sacrifice
+- एतां मायामु (*etāṃ māyāmu*)—the wise understand as wisdom itself
+
+##### भावार्थ (Bhāvārtha)
+
+Vaiśvānara Agni is the chief illuminator of all the worlds at night. After the night the sun appears in the morning and becomes visible. By whatever greatness the sun, who has become visible to all, moves swiftly throughout the atmosphere, that, those who know say, is the wise action of the gods worthy of sacrifice.
+
+##### English translation
+Agni is the head of all beings by night; then the sun rising early is born ; (the wise know) this to be the wisdom of the adorable gods, that the swift-moving sun being intelligent moves through the firmament.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of the etymology that Yāska has written for this Ṛk, see what is written in the introduction to this sūkta (pages 537-538).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दृ॒शेन्नो॒ यो म॑हि॒ना समि॒द्धोऽरो॑चत दि॒वियो॑निर्वि॒भावाः॑  
+> तस्मि॑न्न॒ग्नौ सू॑क्तवा॒केन॑ दे॒वा ह॒विर्विश्व॒ आजु॑हवुस्तनू॒पाः ॥७॥
+
+### Printed p. 551
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दृशेन्यः । यः । महिना । संइद्धः । आरोचत । दिवियोनिः । विभावा ।  
+> तस्मिन् । अग्नौ । सूक्तवाकेन । देवाः । हविः । विश्वे । आ । अजुहवुः । तनूपाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वैश्वानरोग्निर्महिना महत्त्वेन दृशेन्वः सर्वदर्शनीयः समिद्धः
+> सम्यग्नीप्तो दिवियोनिर्दुस्थानो विभावा दीप्तिमांश्च सन्नरोचत दीप्यते
+> तस्मिन्वैश्वानरेग्नौ तनूपाः शरीराणां रक्षका विश्वे सर्वॆ देवाः सूक्तवाकेनेदं
+> द्यावापृथिवी इत्यादिवाक्येन स्तोत्राणां वचनेन वा हविराजुहवुः । अभिमुख्येन
+> जुहुवुः ॥
+
+##### Gist of the bhāṣya
+
+The Vaiśvānara Agni who by his greatness (महिना (*mahinā*) means "by greatness") is visible to all (दृशेन्यः (*dṛśenyaḥ*)), well kindled (समिद्धः (*samiddhaḥ*)), having his station in heaven (दिवियोनिः (*diviyoniḥ*)) and endowed with brilliance (विभावा (*vibhāvā*)), shines (अरोचत (*arocata*) means "he shines"). In that Vaiśvānara Agni all the gods, the protectors of bodies (तनूपाः (*tanūpāḥ*)), offered the oblation, facing him, with the sūktavāka, that is, with a sentence such as "idam dyāvāpṛthivī", or with the recitation of hymns of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Vaiśvānara Agni
+- महिना (*mahinā*)—by his own greatness
+- दृशेन्यः (*dṛśenyaḥ*)—visible to all
+- समिद्धः (*samiddhaḥ*)—blazing
+- दिवियोनिः (*diviyoniḥ*)—having heaven as his station
+- विभावा (*vibhāvā*)—endowed with splendour
+- अरोचत (*arocata*)—he shines
+- तस्मिन् आग्नौ (*tasmin āgnau*)—in that same Vaiśvānara Agni
+- तनूपाः (*tanūpāḥ*)—the protectors of bodies
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- सूक्तवाकेन (*sūktavākena*)—with words of praise
+- हविः (*haviḥ*)—the oblation
+- आजुहवुः (*ājuhavuḥ*)—offered in the form of an oblation
+
+##### भावार्थ (Bhāvārtha)
+
+The Vaiśvānara Agni who by his own greatness shines, visible to all, blazing, having heaven as his station and endowed with splendour—in that same Vaiśvānara Agni all the gods, the protectors of bodies, offered the oblation in the form of an offering with words of praise.
+
+##### English translation
+He who shines visible to all through his greatness radiant, having his station in the sky, resplendent in him, Agni, the universal gods, the guardians of men's bodies, have presented an oblation with the voice of praise.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सू॒क्त॒वा॒कं प्र॑थ॒ममादिद॒ग्निमादिद्द॒विर॑जनयंत दे॒वाः ।
+
+### Printed p. 552
+
+> स एषां यज्ञो अभवत्तनूपास्तं द्यौर्वेद तं पृथिवी  
+> तमापः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सूक्तवाकं । प्रथमं । आत् । इत् । अग्निं । आत् । इत् । हविः। अजनयंत। देवाः।  
+> सः । एषां । यज्ञः । अभवत् । तनूपाः । तं । द्यौः । वेद । तं । पृथिवी । तं ।  
+> आपः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रथमं पूर्वं सूक्तवाकमिदं द्यावापृथिवी इत्यादि वाक्यं मनसा
+> निरूपयंति । आदिदनंतरमेवाग्निं मथनेनोत्पादयंति । आदिदनंतरमेव देवा
+> हविरजनयंत । स वैश्वानरोऽग्निरेषां देवानां यज्ञो यष्टव्योऽभवत् ।
+> भवति । स तनूपाः शरीराणां रक्षिता च भवति । तमग्निं द्यौर्द्युलोको वेद ।
+> जानाति । तमग्निं पृथिवी भूमिरपि च जानाति । तमग्निमापोऽंतरिक्षं च जानाति ॥
+
+##### Gist of the bhāṣya
+
+The gods first (प्रथमं (*prathamaṃ*)) ponder in the mind the sūktavāka, the sentence beginning "idam dyāvāpṛthivī". Immediately after (आदित् (*ādit*)) they produce Agni by churning. Immediately after that the gods produced the oblation. That Vaiśvānara Agni became the sacrifice, that is, the one to be sacrificed to, of these gods; and he is also the protector of bodies (तनूपाः (*tanūpāḥ*)). Heaven knows that Agni; earth also knows him; the waters, that is, the atmosphere, also know him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—the gods
+- प्रथमं (*prathamaṃ*)—first
+- सूक्तवाकं (*sūktavākaṃ*)—the words of praise of the deity
+- आदित् (*ādit*)—afterwards
+- अग्निं (*agniṃ*)—Agni
+- आदित् (*ādit*)—after that
+- हविः (*haviḥ*)—the oblation
+- अजनयंत (*ajanayaṃta*)—they produced
+- सः (*saḥ*)—that same Vaiśvānara Agni
+- एषां (*eṣāṃ*)—for these gods
+- यज्ञः (*yajñaḥ*)—worthy of worship
+- अभवत् (*abhavat*)—has become
+- तनूपाः (*tanūpāḥ*)—the protector of bodies
+- तं (*taṃ*)—that Agni
+- द्यौः (*dyauḥ*)—the world of heaven
+- वेद (*veda*)—knows
+- तं (*taṃ*)—that same Agni
+- पृथिवी (*pṛthivī*)—the earth also knows
+- तं (*taṃ*)—him
+- अपः (*apaḥ*)—the atmosphere also knows
+
+##### भावार्थ (Bhāvārtha)
+
+The gods produced first the words of praise such as "idam dyāvāpṛthivī", then Agni, and after that the oblation. Vaiśvānara Agni is for the gods worthy of worship and the protector of bodies. Heaven and earth and the atmosphere know this Agni fully.
+
+##### English translation
+The gods first generated the words of the hymn, then Agni, hent the oblation ; he is the (object of the) sacrifice of these deities, the protector of the body ; him the heaven knows, him the earth and the waters know.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+### Printed p. 553
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं दे॒वासोऽज॑नयंता॒ग्निं यस्मि॒नाजु॑हवु॒र्भुव॑नानि॒ विश्वा॑ ।  
+> सो आ॒र्चिषा॑ पृथि॒वीं द्यामु॒तेनामृ॑जू॒यमा॑नो अतपन्महि॒त्वा ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । देवासः । अजनयंत । अग्निं । यस्मिन् । आ । अजुहवुः । भुवनानि । विश्वा ।  
+> सः । अर्चिपा । पृथिवीं । द्यां । उत । इमां । ऋजुयमानः। अतपत् । महित्वा॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यं वैश्वानरमग्निं देवासो देवा अजनयंत उत्पादितवंतः यस्मिंश्चोत्सन्ने वैश्वानरेऽग्नौ विश्वा विश्वानि भुवनानि भूतान्याजुहवुः अभिमुख्येन
+> जुहवुः सर्वमेधे स वैश्वानरोऽग्निरर्चिषा तेजसा पृथिवीमंतरिक्षं । आपः
+> पृथिवीत्यंतरिक्षनामसु पाठात् । द्यां दिनं चोतापि चेमां भूमिं चर्जूयमान
+> ऋजुगमनो महित्वा महत्वेनातपत् । सर्वं तपति ॥
+
+##### Gist of the bhāṣya
+
+The Vaiśvānara Agni whom the gods produced (अजनयंत (*ajanayaṃta*) means "they produced"), and in whom, when he was produced, all beings offered oblations, facing him, in the sarvamedha. That Vaiśvānara Agni, with his radiance (अर्चिषा (*arciṣā*) means "with brilliance"), warmed (अतपत् (*atapat*)) the earth, which here is the atmosphere, since the waters and the earth are read among the names of the atmosphere, and heaven, and also this earth; going straight (ऋजुयमानः (*ṛjuyamānaḥ*) means "straight-going"), with greatness (महित्वा (*mahitvā*)) he heats everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यं अग्निं (*yaṃ agniṃ*)—which Vaiśvānara Agni
+- देवासः (*devāsaḥ*)—the gods
+- अजनयंत (*ajanayaṃta*)—produced
+- यस्मिन् (*yasmin*)—in which Agni
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—all the worlds
+- आ अजुहवुः (*ā ajuhavuḥ*)—offered oblations
+- सः (*saḥ*)—that same Vaiśvānara Agni
+- ऋजुयमानः (*ṛjuyamānaḥ*)—having a straight course
+- महित्वा (*mahitvā*)—endowed with greatness
+- अर्चिषा (*arciṣā*)—by his radiance
+- पृथिवीं (*pṛthivīṃ*)—the atmosphere
+- द्यां (*dyāṃ*)—the world of heaven
+- उत (*uta*)—and
+- इमां (*imāṃ*)—this earth
+- आतपत् (*ātapat*)—has caused to be possessed of heat
+
+##### भावार्थ (Bhāvārtha)
+
+The Vaiśvānara Agni whom the gods produced, in whom all the worlds offered oblations, that same Vaiśvānara Agni, having a straight course, by his own radiance endowed with greatness **NOTE**, has caused the atmosphere, the world of heaven and also the earth to be possessed of heat.
+
+### Printed p. 554
+
+##### English translation
+Agni whom the gods, generated, in whom all beings have offered oblations—he, the straight-going, has warmed by his radiance, by his might, the earth and this heaven.
+
+#### Ṛk 10
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्तोमे॑न॒ हिदि॒वि दे॒वासो॑ अ॒ग्निमजी॑जन॒ञ्क्ति॑भी रोदसि॒प्रां।  
+> तमू॑ अकृण्वन् त्रे॒धा भु॒वे कं स ओष॑धीः पचति वि॒श्वरू॑पाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्तोमेन । हि । दिवि । देवासः । अग्निं । अजीजनन् । शक्तिभिः । रोदसिप्रां ।  
+> तं । ऊं इति । अकृण्वन् । त्रेधा । भुवे । कं । सः । ओषधीः । पचति । विश्वरूपाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवासो देवाः शक्तिभिः कर्मभी रोदसिप्रां द्यावापृथिव्योरापूरयितारमग्निं सूर्यात्मकं दिवि द्युलोके स्तोमेन हि स्तुत्या खल्वजीजनन् ।
+> उत्पादितवंतः । अपि च तमु तमेव कं सुखकरमग्निं यज्ञे त्रेधा भुवे
+> त्रेधाभावायाकृण्वन् । कुर्वंति । पृथिव्यां वर्तमानो विश्वरूपाः सर्वरूपा
+> ओषधीर्वीह्र्याद्यास्तेन तेनोपकारेण पचति । अत्र यास्कः । स्तोमेन यं हि दिवि
+> देवासोऽग्निमजनयञ्क्तिभिः कर्मभिद्यावापृथिव्योः पूरणं तमकुर्वंस्त्रेधा.
+> भावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः । यदस्य दिवि तृतीयं तदसावादित्य
+> इति हि ब्राह्मणं । नि. ७-२८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The gods (देवासः (*devāsaḥ*)) by powers, that is, by deeds (शक्तिभिः (*śaktibhiḥ*)), produced in heaven, by praise, Agni of the nature of Sūrya, who fills heaven and earth (रोदसिप्रां (*rodasiprāṃ*)). Moreover, that same Agni, the giver of happiness, they made in the sacrifice for threefold being (त्रेधा भुवे (*tredhā bhuve*)). He, being on earth, ripens by that benefit the plants of all forms (विश्वरूपाः (*viśvarūpāḥ*)), rice and the like. Here Yāska (Ni. 7-28) says: the Agni whom the gods in heaven produced by praise, by powers, that is, by deeds, they made him the filling of heaven and earth, for threefold being, on earth, in the atmosphere and in heaven, says Śākapūṇi. "What is his third in heaven, that is that Āditya": so says a Brāhmaṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवासः (*devāsaḥ*)—the gods
+- शक्तिभिः (*śaktibhiḥ*)—by their great deeds
+- रोदसिप्रां (*rodasiprāṃ*)—who fills heaven and earth
+- अग्निं (*agniṃ*)—Agni of the form of Sūrya
+- दिवि (*divi*)—in the world of heaven
+- स्तोमेन (*stomena*)—with praise
+- आजीजनन् (*ājījanan*)—produced
+- कं तमु (*kaṃ tamu*)—that same Agni, the giver of happiness
+- त्रेधा भुवे (*tredhā bhuve*)—so that he shines in three forms in the three worlds
+- अकृण्वन् (*akṛṇvan*)—have made
+- सः (*saḥ*)—that same Agni
+- विश्वरूपाः (*viśvarūpāḥ*)—possessing many forms
+- ओषधीः (*oṣadhīḥ*)—the plants
+- पचति (*pacati*)—ripens
+
+### Printed p. 555
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, by their great deeds, produced in the world of heaven, with praise, the Agni of the form of Sūrya, who fills all of heaven and earth. That same giver of happiness, Agni, they have made to shine in three forms in the three worlds. That same Agni on earth ripens the many forms, the plants.
+
+##### English translation
+The gods have by praise engendered Agni in the sky, who fills heven and earth by his functions, they appointed the joy-bestowing Agni to his three-fold condition, he brings the manifold plants to maturity.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of the etymology that Yāska has written for this Ṛk, see what is written in the introduction to this sūkta (pages 538-539).
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒देदे॑न॒मद॑धुर्य॒ज्ञिया॑सो दि॒वि दे॒वाः सूर्य॑मादिते॒यं।  
+> य॒दा च॑रि॒ष्णू मि॑थु॒नावभू॑ता॒मादित्पप्रप॑श्य॒न्भुव॑नानि॒ विश्वा॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । इत् । एनं । अदधुः । यज्ञियासः । दिवि । देवाः । सूर्यं । आदितेयं ।  
+> यदा । चरिष्णू इति । मिथुनौ । अभूतां । आत् । इत् । प्र । अपश्यन् । भुवनानि ।  
+> विश्वा ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदेद्यदैव प्रातरादितेयमदितेः पुत्रं सूर्यमेनमग्निं च यज्जि
+> यासो यज्ञार्हा देवा दिवि द्युलोकेऽदधुः धृतवंतः । यदा चेमा चरिष्णू
+> चरणशील् सूर्यवैश्वानरौ मिथुनावभूतां प्रादुरभूतां । आदिदनंतरमेव
+> विश्वा विश्वानि भुवनानि भूतजातानि प्रापश्यन् । तौ पश्यंति ॥ अत्र यास्कः !
+> यदैनमदधुर्यज्जियाः सर्वे दिवि देवाः सूर्यमदितेः पुत्रं यदा चरिष्णू
+
+### Printed p. 556
+
+> मिथुनौ प्रादुरभूतां सर्वदा सहचारिणावुषाश्चादित्यश्च । मिथुनौ कस्मान्मिनोतिः
+> श्रयतिकर्मा थु इति नामकरणस्थकारो वा नयतिः परो वनिर्वा समाश्रितावन्योन्यं नयतो वनुतो वा । मनुष्यमिथुनावप्येतस्मादेव मेथंतावन्योन्यं
+> वनुत इति वा । नि. ७-२९ । इति ॥
+
+##### Gist of the bhāṣya
+
+When, in the morning, the gods worthy of sacrifice placed in heaven Sūrya, the son of Aditi (आदितेयं (*āditeyaṃ*)), and this Agni; and when these two moving ones (चरिष्णू (*cariṣṇū*)), Sūrya and Vaiśvānara, became a pair (मिथुनौ (*mithunau*)) and appeared; immediately after (आदित् (*ādit*)) all the worlds, all beings, saw them. Here Yāska (Ni. 7-29) says: when all the gods worthy of sacrifice in heaven placed him, Sūrya, the son of Aditi, and when the pair of moving ones appeared, always going together, Uṣas and Āditya. Why a pair? He derives मिथुनौ (*mithunau*) from roots meaning to resort to, to lead and to win, because the two, resorting to each other, lead or win each other; human pairs too delight in each other, or win each other, from this very root **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदेत् (*yadet*)—when
+- आदितेयं (*āditeyaṃ*)—the son of Aditi
+- सूर्यं (*sūryaṃ*)—the sun
+- एनं (*enaṃ*)—Agni
+- यज्ञियासः (*yajñiyāsaḥ*)—worthy of sacrifice
+- देवाः (*devāḥ*)—the gods
+- दिवि (*divi*)—in the world of heaven
+- अदधुः (*adadhuḥ*)—established
+- यदा (*yadā*)—and when
+- चरिष्टू (*cariṣṭū*)—these two, the sun and Vaiśvānara Agni, who are given to moving about
+- मिथुना (*mithunā*)—joined together as one
+- आदित् (*ādit*)—immediately thereafter
+- विश्वा भुवनानि (*viśvā bhuvanāni*)—all the worlds
+- प्रापश्यन् (*prāpaśyan*)—saw these two
+
+##### भावार्थ (Bhāvārtha)
+
+When the gods worthy of sacrifice established in the world of heaven the sun, the son of Aditi, and Agni, and when these two, the sun and Agni, who are given to moving about, joined together as a pair, immediately thereafter all the worlds saw these two.
+
+##### English translation
+When the adorable gods placed him and Surya, the son of Aditi, in heaven; when the swift-moving pair (Agni and Vishwanar) appeared, then all beings beheld them,
+
+##### विशेषविषयगळु (Special Topics)
+
+For the explanation of the etymology that Yāska has written for this Ṛk, see what is written in the introduction to this sūkta (pages 539-540).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्मा अ॒ग्निं भुव॑नाय दे॒वा वै॑श्वान॒रं के॒तुमह्ना॑मकृण्वन् ।  
+> आ यस्त॒तानो॒षसो॑ विभा॒तीरपो॑ ऊर्णोति॒ तमो॑ अ॒र्चिषा॒  
+> यन् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्मै । अग्निं । भुवनाय । देवाः । वैश्वानरं । केतुं । आह्नां ; अकृण्वन् ।  
+> आ ! यः ! ततान । उषसः । विभातीर् । अपो इति ! ऊर्णोति । तमः । अर्चिषा !  
+> यन् ॥ १२ ॥
+
 ---
 
-**Progress note:** Done through printed p. 549. Vol 29 Sūkta 88 (Maṇḍala 10) Ṛk 1 end to Ṛk 6 start, pp. 544-549
+**Progress note:** Done through printed p. 556. Vol 29 Sūkta 88 (Maṇḍala 10) Ṛk 6 end to Ṛk 12 Pada, pp. 550-556
