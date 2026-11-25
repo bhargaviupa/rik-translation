@@ -5,7 +5,7 @@
 - **Stage:** S2 reading in page batches
 - **Pages read:** 609 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–609)
 - **Findings:** 1640 — applied 1396, questions 244; edits ok 1401, failed 0
-- **Reader tokens (batches so far):** 5717k; per page 9.4k
+- **Reader tokens (batches so far):** 5996k; per page 9.8k
 - **Last commit:** e461bed
 
 ## 2. Batches
@@ -31,7 +31,7 @@
 | 18 | 490–519 | 16 | 13 | 13 / 0 | 3 | 306k | b0ac4c0 | 13 edits (p. 490, p. 519 read first by a reader that took the range for two pages; pp. 491–518 re-read in full by a second reader; 12 edits there: S14 reversed senses on pp. 495, 503, 516, S13, S1 sūtra numbers, an invented reference removed on p. 505); English opens p. 499 with the end of p. 498's explanation |
 | 19 | 520–549 | 32 | 25 | 25 / 0 | 7 | 253k | 65937c2 | 25 edits (21 S13/S14/S15/S16: a comparison reversed on p. 526, Mundaka→Chandogya on p. 545, a parā/aparā sentence rewritten on p. 547; 2 numbers the print lacks removed); no page shifts |
 | 20 | 550–579 | 94 | 86 | 86 / 0 | 8 | 297k | 6b48ee4 | 86 edits (about 60 S14 sense incl. accent/vowel descriptions on pp. 550–553, l/r reversed on p. 566, Vararuchi/Patañjali on p. 564; S15 attributions; about 12 additions removed; 4 numbers incl. p. 562 '10-20-2' and p. 569 'page 40' applied as printed, open.tsv); pp. 573–574: p. 573 sits inside the p. 572 block and matches English Page 573, p. 574 has no Kannada text (English kept); many pages are Sanskrit with embedded English only (554, 558–562, 576–577) |
-| 21 | 580–609 | 61 | 51 | 51 / 0 | 10 | TOK20 | e461bed | 51 edits (about 21 S16 invented paragraphs removed, five whole paragraphs on p. 585 and one on p. 590; about 20 S14 reversed senses incl. pp. 584, 592, 597, 601; 4 numbers incl. Riks 'two padas' on p. 598; S13, S17); pp. 594–595 have no Kannada text and no English section; pp. 606–609 Sanskrit blocks only (English prose summaries kept); p. 583 reference 1-321 applied as printed (open.tsv) |
+| 21 | 580–609 | 61 | 51 | 51 / 0 | 10 | 279k | e461bed | 51 edits (about 21 S16 invented paragraphs removed, five whole paragraphs on p. 585 and one on p. 590; about 20 S14 reversed senses incl. pp. 584, 592, 597, 601; 4 numbers incl. Riks 'two padas' on p. 598; S13, S17); pp. 594–595 have no Kannada text and no English section; pp. 606–609 Sanskrit blocks only (English prose summaries kept); p. 583 reference 1-321 applied as printed (open.tsv) |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
