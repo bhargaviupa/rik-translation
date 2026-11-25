@@ -25404,6 +25404,188 @@ In the present Ṛk it is explained that the wish to create, in the mind of the 
 
 सतः बंधुं असति निः अविंदन् हृदि प्रतीष्य कवयः मनीषा (*sataḥ baṃdhuṃ asati niḥ aviṃdan hṛdi pratīṣya kavayaḥ manīṣā*)—In the sentence above it was said that the mass of actions of the beings of the former kalpa is the cause of the creation of the world now made, was it not? How is that? In this sentence the manner in which this was known is explained. The yogins, sages and others, who can know matters of past, future and present, with their divine vision, that is, by meditation in the mind and by careful reflection, understood one important matter. That important matter is this: the existent worlds of the former kalpa, the beings in them, and their actions in the form of sin and merit, all these lie hidden as seed (in the form of cause) in the unmanifest non-existent (in Brahman); this they understood with their reflective understanding. That is, the cause that is the seed of the worlds lies dissolved in the non-existent of unmanifest form. Therefore a kind of binding relation came to exist between the existent world and the non-existent in unmanifest form. That is, since the existent comes into manifestation from the non-existent, the two are related to each other; this is explained here by the words "satah bandhuh asati".
 
+### Printed p. 772
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒र॒श्चीनो॒ वित॑तो र॒श्मिरे॑षाम॒धः स्वि॑दा॒सी ३ दु॒परि॑ स्विदासी३त् ।  
+> रे॒तो॒धा आ॑सन्महि॒मान॑ आसन्त्सृ॒धा अ॒वस्ता॒त्पय॑तिः प॒रस्ता॑त् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिरश्चीनः । वित्ततः । रश्मिः । एषां । अधः । स्वित् । आसी३त् । उपरि । स्वित् । आसी ३ त् ।  
+> रेतःऽधाः । आसन् । महिमानः । आसन् । स्वधा । अवस्तात् । प्रयतिः । परस्तात् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमविद्या कामकर्माणि सृष्टेर्हेतुत्वेनोक्तानि । अधुना तेषां स्वकार्यजनने शैघ्रं प्रतिपाद्यते । येयं नासदासीदित्यविद्या प्रतिपादिता यश्च कामस्तदग्र
+> इति कामो मनसो रेतः प्रथमं यदासीदिति यत्कर्मैषामविद्या कामकर्मणां
+> वियदादिभूतजातानि सृजतां रश्मी रश्मिसदृशो यथा सूर्यरश्मिरुदयानंतरं
+> निमेषमात्रेण युगपत्सर्वं जगद्वाप्नोति तथा शीघ्रं सर्वत्र व्याप्पुवन् यः
+> कार्यवर्गो विततो विस्तृत आसीत् । स्विदासीदिति वक्ष्यमाणमत्रापि संबध्यते ॥
+> विचार्यमाणानां । पा. ८-२-९७ । इति प्लुतः। तत्रोदात्त इत्यनुवृत्तेः स चोदात्तः।
+> स्विदिति वितर्के ॥ स कार्यवर्गः प्रथमतः किं तिरश्चीनस्तिर्यगवस्थितो मध्यॆ स्थित
+> आसीत् किंवाधोऽधस्तादासीत् । आहोस्विदुपर्युपरिष्ठात्किमासीत् ॥ उपरि स्विदासीदिति च । पा. ८-२-१०२ । इत्यनुदात्तः प्लुतः ॥ आत्मन आकाशः संभूत आकाशाद्वायुर्वायोरग्निः । तै. अ. ८-१ । इत्यादिकया पंचमीश्रुत्या तत उद्घातारं ततो
+> होतारमितिवत्क्रमप्रतिपत्तौ सत्यामपि विद्युत्प्रकाशवत्सर्गस्य शीघ्रव्यापनेन तस्य
+> क्रमस्य दुर्लक्षणत्वादेतेषु त्रिषु स्थानेषु प्राथम्यं कुत्रॆति विचार्यते । एवं
+> नाम शीघ्रं सर्वतो दिक्षु सर्गो निष्पन्न इत्यर्थः । एतदेव विभजते । सृष्टेषु
+> कार्येषु मध्यॆ केचिद्भावा रेतोधा रेतसो बीजभूतस्य कर्मणो विधातारः
+> कर्तारो भोक्तारश्च जीवा आसन् अन्ये भावा महिमानः ॥ स्वार्थिक इमनिच् ॥
+> महांतो वियदादयो भोग्या आसन् । एवं मायासहितः परमेश्वरः सर्वं
+> जगत्सृष्ट्वा स्वयं चानुप्रविश्य भोक्तृभोग्यादिरूपेण विभागं कृतवानित्यर्थः ।
+> अयमेवार्थस्त्वितरीयके तत्सृष्ट्वा तदेवानुप्राविशत् । तै. आ. ८-६ । इत्यारभ्य
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that avidyā, kāma and karman have so far been given as the causes of creation, and that he now shows how swiftly they produce their effect. The avidyā is the one taught in *nāsadāsīt*. The kāma is the one in कामस्तदग्र (*kāmastadagra*). The karman is the one in मनसो रेतः प्रथमं यदासीदिति (*manaso retaḥ prathamaṃ yadāsīditi*). For these creators of the elements (ether and the rest), the "ray" (रश्मि (*raśmi*)) is something like a ray. A sun-ray, once the sun has risen, pervades the whole world in the twinkling of an eye. In the same way the whole group of effects was spread out (विततः (*vitataḥ*), extended), pervading everything swiftly. The word स्विदासी३त् (*svidāsī3t*), which comes later, is connected here as well. He cites Pā. 8-2-97, according to which the syllable is pluta in the case of matters under deliberation, and the udātta is carried over from the previous sūtra. स्वित् (*svit*) means doubt. Was that group of effects at first lying across (तिरश्चीनः (*tiraścīnaḥ*)), that is, positioned in the middle? Or was it below? Or else was it above? He cites Pā. 8-2-102 for the anudātta pluta in दुपरि स्विदासी३त् (*dupari svidāsī3t*).
+
+The fifth-case (ablative) śruti runs "From the Ātman ether arose, from ether wind, from wind fire" (Tai. A. 8-1) **NOTE**. It gives a sequence, like "then the Udgātṛ, then the Hotṛ". Even so, because creation spread as swiftly as a flash of lightning, that sequence is hard to make out. So it is asked in which of these three places the priority lay. The meaning is that creation was thus completed swiftly in all directions.
+
+He then divides the matter. Among the created effects, some beings were रेतोधाः (*retodhāḥ*): the establishers of karma that is like seed, that is, agents and enjoyers, the living beings. Other beings were महिमानः (*mahimānaḥ*) (the affix is svārthika). These were the great objects of enjoyment, ether and the rest. Thus the Supreme Lord with māyā created the whole world and himself entered it. He made the division into enjoyer, enjoyed and so on. The same meaning is taught in the Taittirīya, beginning "Having created it, he entered into that very thing" (Tai. Ā. 8-6), and it continues on the next page.
+
+### Printed p. 773
+
+> प्रतिपाद्यते । तत्र च भोक्तृभोग्ययोर्मध्यॆ स्वधा । अन्ननामैतत् । भोग्यप्रपंचोऽवस्तादवरो निकृष्ट आसीत् । प्रयतिः प्रयतिता भोक्ता परस्तात्पर उत्कृष्ट
+> आसीत् । भोग्यप्रपंचं भोक्तृप्रपंचस्य शेषभूतं कृतवानित्यर्थः ॥ विभाषा
+> परावराभ्यां । पा. ५-३-२९ । इति प्रथमार्थेऽस्तातिः । अस्ताति च । पा. ५-३-४० ।
+> इत्यवरशब्दस्यावादेशः । अवस्तादिति संहितायामिषा अक्षादित्वात्कृतिभावः ॥
+
+##### Gist of the bhāṣya
+
+The Taittirīya passage teaches the same meaning. There, between the enjoyer and the enjoyed, स्वधा (*svadhā*) is a name for food. The world of the enjoyed was अवस्तात् (*avastāt*), below, low. प्रयतिः (*prayatiḥ*) is प्रयतिता (*prayatitā*), the enjoyer, who was परस्तात् (*parastāt*), higher, superior. The meaning is that he made the world of the enjoyed subordinate to the world of the enjoyers. The rest of the block gives the grammar of अवस्तात् (*avastāt*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषां (*eṣāṃ*)—for the carrying out of these creative works
+- रश्मिः (*raśmiḥ*)—the ray in the form of readiness for action, or the beginning of the work that spreads very swiftly
+- तिरश्चीनः (*tiraścīnaḥ*)—also across
+- अधः स्वित् (*adhaḥ svit*)—also in the lower part
+- उपरि स्वित् (*upari svit*)—also in the upper part
+- विततः आसीत् (*vitataḥ āsīt*)—spread out widely (and)
+- रेतोधाः (*retodhāḥ*)—the doers of seed-like actions and the living beings (creatures) who enjoy their fruits
+- आसन् (*āsan*)—came into being
+- महिमानः (*mahimānaḥ*)—the very great things, ether and the rest (the objects of the world), which are objects of enjoyment for creatures
+- आसन् (*āsan*)—came into being (in these two kinds, the enjoyers and the enjoyed)
+- स्वधा (*svadhā*)—the objects of enjoyment of the world, in the form of food
+- अवस्तात् (*avastāt*)—lower than the enjoyers who enjoy them
+- प्रयतिः (*prayatiḥ*)—the enjoyer
+- परस्तात् (*parastāt*)—he became superior to the object of enjoyment
+
+##### भावार्थ (Bhāvārtha)
+
+When Brahman became ready to act for the carrying out of these creative works, that beginning of action spread widely, like a sun-ray, at the speed of lightning: across, downward, upward, everywhere (in all places). That is, the beginning of the work of creation started to proceed in many places at once and very swiftly, like the speed of lightning. Among the things created in this way there were two main divisions. One division is the five elements, ether and the rest, the worlds and the many things in them. The other is the enjoyers who enjoy these things, that is, creatures and so on that have life and can experience pleasure, pain and the like. Of these two divisions, the class of creatures, enjoyers endowed with consciousness, is the superior. (Here "creatures" includes humans and the gods, all of them.) The objects of enjoyment, ether and the rest and the other things of the world, are inferior. The idea is that the object of enjoyment is lower than the enjoyer.
+
+##### English translation
+Their ray was stretched out, whether across, or below, or above; (some) were shedders of seed, (others) were mighty ; food was inferior, the eater was superior,
+
+### Printed p. 774
+
+##### विशेषविषयगळु (Special Topics)
+
+Two matters are stated clearly in this Ṛk. In the first half comes the account of how creation took shape. In the second half it is taught that the created things are of two kinds, enjoyer and enjoyed, and that of these the enjoyer is superior to the objects of enjoyment.
+
+तिरश्चीनः विततः रश्मिः एषां अधः स्वित् आसीत् (*tiraścīnaḥ vitataḥ raśmiḥ eṣāṃ adhaḥ svit āsīt*) उपरि स्वित् आसीत् (*upari svit āsīt*)—this sentence of the first half of the Ṛk describes how creation took place when it came into action. As soon as the wish to create arose in the Supreme Brahman, it came down into action. That action spread very quickly, as a sun-ray going out from the sun spreads very quickly all around. At one and the same time it spread below, above, in the middle and in the surrounding region, everywhere. That is, the work of creation did not proceed slowly, one region after another. The idea is that it went on in all places at once, and very swiftly.
+
+रेतोधाः आसन् महिमानः आसन् (*retodhāḥ āsan mahimānaḥ āsan*) स्वधा अवस्तात् प्रयतिः परस्तात् (*svadhā avastāt prayatiḥ parastāt*)—in this sentence an explanation of some words is needed. For the word रेतोधाः (*retodhāḥ*) the gloss is रेतसो बीजभूतस्य कर्मणो विधातारः कर्तारो भोक्तारश्च जीवाः (*retaso bījabhūtasya karmaṇo vidhātāraḥ kartāro bhoktāraśca jīvāḥ*). That is, रेतः (*retaḥ*) is explained as seed, meaning seed-like karma. The meaning is the living beings who perform such karma and enjoy the fruits of that karma. "Living beings" means all creatures that have life: humans, gods, all of them. महिमानः (*mahimānaḥ*) is महंतो वियदादयो भोग्याः (*mahaṃto viyadādayo bhogyāḥ*), that is, the very great things, ether and the rest (the five elements, ether and so on), the worlds and the like that arose from their transformation, and the objects of enjoyment in them. Likewise स्वधा (*svadhā*) is food. A thing that is to be eaten is called food, so it is an object of enjoyment. स्वधा (*svadhā*) is the object of enjoyment that creatures experience. प्रयतिः (*prayatiḥ*) is प्रयतिता भोक्ता (*prayatitā bhoktā*), the one who strives, who obtains his food by effort, that is, the enjoyer who experiences the objects of enjoyment.
+
+Next let us consider the sense of the sentence. It too has two divisions. The first is रेतोधा आसन् महिमान आसन् (*retodhā āsan mahimāna āsan*). At the time of creation, the created things fell into two main divisions. One is the agent or enjoyer, who performs actions and experiences their fruits. The other is the things the enjoyer is to experience. Which of them is higher and which lower is what the sentence स्वधा अवस्तात् प्रयतिः परस्तात् (*svadhā avastāt prayatiḥ parastāt*) tells. The greater importance belongs to the enjoyer. The object of enjoyment has no importance. It is inferior to the enjoyer. But the objects of enjoyment may be large in quantity and number, and the enjoyer may be very small.
+
+### Printed p. 775
+The objects of enjoyment, that is, the world and so on, are very large. The enjoyer who experiences the enjoyment in them (a human and the like) is of very small size. Yet the idea is that greater importance belongs to the enjoyer and less to the object of enjoyment.
+
+On the matter of the Supreme Lord's creating the world and the rest, the Upaniṣads and similar texts describe how creation proceeded:
+
+आत्मन आकाशः संभूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः ॥ (*ātmana ākāśaḥ saṃbhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ ‖*) (Tai. U. 2-1).
+
+It says that at the time of creation ether first arose from the Ātman, or the Supreme Self existing in unmanifest form (asat). From that ether came wind, from wind fire, from fire water, from water earth, from earth the herbs and plants, from them the food that creatures need, and from that food creatures such as man. It is said that in creating, he first created the objects of enjoyment and afterwards the enjoyer. For as soon as the enjoyer is born he needs food and the like. So it is quite fitting that he first prepared food and the like and afterwards created the enjoyer who experiences them. But the objects of enjoyment have no importance merely because they were created first. It must be understood that superiority belongs to the enjoyer, who was created afterwards.
+
+In this way it is said in many places in the Ṛk-saṃhitā itself that from the Ātman in unmanifest form the worlds and the rest, which are of the nature of sat, arose. After that the herbs and plants arose in those worlds, and after that gods, humans and the rest:
+
+देवानां पूर्व्ये युगेऽसतः सदजायत (*devānāṃ pūrvye yuge 'sataḥ sadajāyata*) देवानां युगे ऽप्रथमे ऽसतः सदजायत । तदाशा अन्वजायंत तदुत्तानपदस्पॆरि ॥ (*devānāṃ yuge 'prathame 'sataḥ sadajāyata | tadāśā anvajāyaṃta taduttānapadaspèri ‖*) (Ṛ. Saṃ. 10-72-2, 3).
+
+When the gods were being created, that is, at the beginning of creation, the worlds and the rest, of manifest form and called sat, came into being from the unmanifest called asat. After that the directions and the like arose, and after that trees and the like. Moreover:
+
+या ओषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरा (*yā oṣadhīḥ pūrvā jātā devebhyastriyugaṃ purā*) (Ṛ. Saṃ. 10-97-1).
+
+It is said that the herbs and plants arose three ages before the creation of the gods. Therefore it must be understood that the creation of the objects of enjoyment came first, and afterwards the creation of the enjoyer.
+
+### Printed p. 776
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑च॒त्कुत॒ आजा॑ता॒ कुत॑ इ॒यं  ॑
+> विसृ॑ष्टिः ।  
+> अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑ने॒नाथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ॥६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । अद्धा । वेद । कः । इह । प्र । वोचत् । कुतः । आजाता । कुतः । इयं । विसृष्टिः ।  
+> अर्वाक् । देवाः । अस्य । विसर्जनेन । अथ । कः । वेद । यतः । आबभूव ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवं भोक्तृभोग्यरूपेण सृष्टिः संग्रहेण प्रतिपादिता । एतावद्वा इदमन्नं
+> चैवान्नादश्च सोम एवान्न मग्निरन्नाद इतिवत् । अथेदानीं सा सृष्टिर्दुविज्ञानेति न
+> विस्तरेणाभिहितेत्याह । को अद्धेति । कः पुरुषोऽद्धा पारमार्थ्येन वेद । जानाति ।
+> को वेहास्मिल्लोके प्र वोचत् । प्रब्रूयात् । इयं दृश्यमाना विसृष्टिर्विविधा
+> भूतभौतिकभोक्तृभोग्यादिरूपेण बहुप्रकारा सृष्टिः कुतः कस्मादुपादानकारणात्
+> कुतः कस्माच्च निमित्तकारणादाजाता । समंताज्ञाता । प्रादुर्भूता । एतदुभयं
+> सम्यक्को वेद को ना विस्तरेण वक्तुं शक्नुयादित्यर्थः । ननु देवा अजानंतः ।
+> सर्वज्ञास्ते ज्ञास्यंति वक्तुं च शक्नुवंतीत्यत आह । अर्नागिति । देवाश्चास्य जगतो
+> विसर्जनेन वियदादिभूतोत्पत्त्यनंतरं विविधं यद्भौतिकं सर्जनं सृष्टिस्तेनार्वागर्वाचीनाः कृताः । भूतसृष्टेः पश्चाज्जाता इत्यर्थः । तथाविधास्ते कथं स्वोत्पत्तेः
+> पूर्वकालीनां सृष्टिं जानीयुः । अजानंतो वा कथं प्रब्रूयुः । उक्तं दुर्विज्ञानत्वं निर्गमयति । अधैवं सति देवा अपि न जानंति किल । तद्व्यतिरिक्तः को नाम
+> मनुष्यादिर्वेद तज्ञगतारणं जानाति यतः कारणात्कृत्सं जगदाबभूव अजायत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that creation has thus been stated in brief in the form of enjoyer and enjoyed, as in "this is just food and the eater of food; Soma is the food, Agni the eater of food". Now, since that creation is hard to know, it has not been told at length, and so the Ṛk says को अद्धा (*ko addhā*). Which person truly (अद्धा (*addhā*), in reality) knows? Who in this world could declare it (प्र वोचत् (*pra vocat*), would speak forth)? This visible creation (विसृष्टिः (*visṛṣṭiḥ*)) is manifold, in the form of the elements, the things made of them, enjoyers, objects of enjoyment and so on. From what material cause, and from what efficient cause, was it born (आजाता (*ājātā*), fully born, come forth)? Who knows both of these properly? The meaning is that no one could tell it at length.
+
+An objection: the gods, who are omniscient, will know it and be able to tell. He answers with अर्वाग् (*arvāg*). The gods too were made later (*arvācīnāḥ*) by the emission (विसर्जनेन (*visarjanena*)) of this world. That is, they were made by the varied elemental creation that came after the arising of the elements, ether and the rest. The meaning is that they were born after the creation of the elements. How could beings of that kind know the creation that preceded their own birth? Or, not knowing, how could they declare it? He then derives the stated difficulty of knowing **NOTE**. If so, even the gods do not know. Who else, a human or the like, knows the cause of the world, तज्ञगतारणं (*tajñagatāraṇaṃ*) **NOTE**, from which cause the whole world came to be (आबभूव (*ābabhūva*), arose)?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः (*kaḥ*)—which person
+- अद्धा (*addhā*)—truly (for certain)
+- वेद (*veda*)—can know this order of creation?
+- कः (*kaḥ*)—which person indeed
+- इह (*iha*)—in this world
+- प्र वोचत् (*pra vocat*)—can declare this?
+- इयं (*iyaṃ*)—this which is now visible to our eyes
+- विसृष्टिः (*visṛṣṭiḥ*)—creation of many kinds, with its various forms of the elements, the things made of them, enjoyers, objects of enjoyment and so on
+
+### Printed p. 777
+- कुतः (*kutaḥ*)—from what (from what thing)
+- कुतः (*kutaḥ*)—from what agent
+- आ जाता (*ā jātā*)—did it arise?
+- देवाः (*devāḥ*)—the gods
+- अस्य (*asya*)—of this world
+- विसर्जनेन (*visarjanena*)—after the arising of the elements, ether and the rest
+- अर्वाक् (*arvāk*)—arose only recently
+- अथ (*atha*)—therefore, that is, since the state of things is thus
+- यतः (*yataḥ*)—by whom or by what (how) this world
+- आबभूव (*ābabhūva*)—arose
+- कः (*kaḥ*)—which person indeed
+- वेद (*veda*)—can know?
+
+##### भावार्थ (Bhāvārtha)
+
+Which person can know this order of creation? Who in this world can know it and tell it? By whom and how did this manifold creation, made up of the various things we now see, come about? After creation began and some part of it, beginning with the five elements, ether and the rest, had advanced, the gods came into being. Therefore the gods too have not known it. Since things stand so, who is the person who can know by whom and how this creation of the world arose?
+
+##### English translation
+Who really knows ? who in this world may declarc it ? whence was
+this creation. whence was it engendered ? The gods (were) subsequent to
+the (world's) creation ; so who knows whence it arose ?
+
+##### विशेषविषयगळु (Special Topics)
+
+It was said earlier that creation came about in two main kinds, enjoyer and enjoyed. In this Ṛk and in the next, the seer describes, in the form of questions, how very hard it is to know this order of creation.
+
+कः अद्धा वेद कः इह प्र वोचत् (*kaḥ addhā veda kaḥ iha pra vocat*)—who is the one who knows this order of creation as it truly was, or who is the person who, knowing it, says "it went on just so"? No one. No one has certain knowledge in this matter.
+
+कुतः अजाता कुतः इयं विसृष्टिः (*kutaḥ ajātā kutaḥ iyaṃ visṛṣṭiḥ*)—from what substance did the creation of many kinds arise, the creation we now see, with the elements, the things made of them, enjoyers, objects of enjoyment and so on? That is, what is the original material needed to build it? Who is the agent (the person) who created it? None of this is known to anyone.
+
 ---
 
-**Progress note:** Done through printed p. 771. pp. 766-771 (batch API)
+**Progress note:** Done through printed p. 777. pp. 772-777 (batch API)
