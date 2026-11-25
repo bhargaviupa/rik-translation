@@ -9291,6 +9291,148 @@ Do you, Agni, whom the earth and heaven, whom the waters, whom Twashtri, the glo
 
 The commentator has shown that the first half of this Ṛk can be explained in two or three ways. द्यावापृथिवी यं त्वा जजान आपः यं त्वा जजान (*dyāvāpṛthivī yaṃ tvā jajāna āpaḥ yaṃ tvā jajāna*)—द्यावापृथिवी आदित्यात्मनाग्न्यात्मना यं त्वा जनितवत्यौ तथा मेघोदरगता आपः विद्युदात्मना स्थितं त्वां जनितवत्यः । (*dyāvāpṛthivī ādityātmanāgnyātmanā yaṃ tvā janitavatyau tathā meghodaragatā āpaḥ vidyudātmanā sthitaṃ tvāṃ janitavatyaḥ |*). Heaven and earth: that is, heaven produced you, Agni, in heaven in the form of the sun; the earth produced you in the form of the earthly fire; and the waters in the midst of the clouds produced you in the form of lightning (the fire of the lightning-flash). This is one kind of meaning.
 
+### Printed p. 232
+
+##### Gist of the bhāṣya
+
+not applicable here (no bhāṣya block on this page).
+
+##### विशेषविषयगळु (Special Topics)
+
+(Continuing.) द्यावापृथिवी अपः यं त्वां (*dyāvāpṛthivī apaḥ yaṃ tvāṃ*) (who have generated): here the word āpaḥ denotes the atmosphere. The three worlds, earth, atmosphere and heaven, each produced Agni in its own world in various forms. This is another way of understanding it.
+
+त्वष्टा यं त्वा सुजनिमा जजान (*tvaṣṭā yaṃ tvā sujanimā jajāna*): although it was said above that heaven and earth produced Agni, the seer speaks this sentence to show that it was Prajāpati who first created Agni. The intention of the sentence is: Prajāpati, the creator of excellent birth, produced you (Agni). Here Tvaṣṭā must be understood as Prajāpati, because the Taittirīya Brāhmaṇa says plainly: प्रजापतिरग्निमसृजत (*prajāpatiragnimasṛjata*) (Tai. Brā. 2-1-2-1), "Prajāpati created Agni."
+
+पितृयाणं (*pitṛyāṇaṃ*): the path on which the Pitṛs travel. This word occurs in the Ṛgveda only in the present Ṛk. The word देवयानं (*devayānaṃ*), the path on which the gods travel, occurs in many places. It is necessary to know the nature of these two paths and the difference between them.
+
+In the Upaniṣads the words devayāna and pitṛyāna have a technical meaning. But in the Ṛksaṃhitā, in many places devayāna means simply the path on which the gods travel. Only in a few places is the spiritual sense described in the Upaniṣads also suggested.
+
+In the Upaniṣads the two words denote the two well-known paths on which the eternal Self travels after a man's death, when his body has turned to ashes. Of the paths one goes to enjoy the fruit of good works, one is devayāna and the other pitṛyāna: one is the path of the gods, the other the path of the Pitṛs. Those who know the Pañcāgni-vidyā and have set their faith in truth set out on the path of the gods and reach the Supreme Brahman. After their death the Self enters the flame, and through it the day, the bright fortnight, the northern course of the sun, the year, the sun and lightning; through these, with the help of a non-human person, he attains the Supreme Brahman. This is described in the Upaniṣads.
+
+Those who satisfy the world merely by sacrifice and gifts, that is, who without knowing the Pañcāgni-vidyā are devoted only to good works, travel after death on another path. After the body is burnt the Self joins the smoke, then enters the night, through it the dark fortnight, through that the southern course of the sun, then the world of the Pitṛs, and finally the world of the moon.
+
+### Printed p. 233
+They reach it; that is their final place. There, having fully enjoyed the fruits proportionate to their good works in company with the Pitṛs, as soon as the impression of their work is exhausted they return to earth by the same smoke path. Such is the nature of devayāna and pitṛyāna as described in the Upaniṣads.
+
+What we must note here is whether all that is described in the Upaniṣads as above is fully indicated by the word devayāna used in the Ṛksaṃhitā, or whether it means merely the material path on which the gods travel. Likewise, what the word pitṛyāna means must be examined here.
+
+In the Ṛksaṃhitā the word devayāna is used thirteen times in all [1-72-3; 1-162-4; 1-183-6; 1-184-6; 4-37-1; 5-43-6; 7-38-8; 7-16-2; 10-18-1; 10-51-2; 10-51-5; 10-98-11; 10-181-3]. In all these places Sāyaṇa gives mainly two meanings: first, the path by which human sacrificers go with their oblations to approach the gods; second, the path by which the gods come to earth to receive their oblations.
+
+The word pitṛyāna is used only once in the Ṛksaṃhitā, in the present Ṛk:
+
+**Saṃhitā-pāṭha** (as quoted)
+यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान । पंथामनु प्रविद्वान् पितृयाणं द्युमदग्ने समिधानो वि भाहि ॥ (*yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna | paṃthāmanu pravidvān pitṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*) (Ṛ. Saṃ. 10-2-7)
+
+In this Ṛk Agni is prayed to: born of heaven and earth, of the waters, of the creator and of Tvaṣṭā, kindled, and fully knowing the nature of the pitṛyāṇa, may he shine as soon as he is kindled. For this word in the third pāda Sāyaṇa explains पितृयाणं पितरो येन मार्गेण गच्छंति तं (*pitṛyāṇaṃ pitaro yena mārgeṇa gacchaṃti taṃ*): the path by which the Pitṛs go.
+
+## Sūkta 3 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इनो राजन्निति सप्तर्चं तृतीयं सूक्तं । ऋष्याद्याः पूर्ववत् । इन
+> इत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+"इनो राजन् (*ino rājan*)" is the third sūkta, of seven Ṛks. Seer and the rest as before. The Anukramaṇī says इन (*ina*). Its use in the Prātaranuvāka and the Āśvina-śastra has been stated.
+
+### Printed p. 234
+Anuvāda: The sūkta "इनो राजन् (*ino rājan*)" is the third sūkta in the first anuvāka. It has seven Ṛks. Seer, deity and metre are as in the previous sūkta. In the Anukramaṇī it is said इनः (*inaḥ*). Its use for the Prātaranuvāka mantras and the Āśvina-śastra mantras has been stated before.
+
+Maṇḍala 10; Anuvāka 1; Sūkta 3. Aṣṭaka 7; Adhyāya 5; Varga 31. Number of Ṛks in the sūkta: 7. Seer: Trita Āptya. Deity: Agni. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒नो रा॑जन्नर॒तिः समि॑द्धो॒ रौद्रो॒ दक्षा॑य सुषु॒मां अ॑दर्शि।  
+> चि॒किद्वि भा॑ति भा॒सा बृ॑ह॒तासि॑क्मीति॒ रुश॑तीम॒पाज॑न् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इनः । राजन् । अरति: । संइद्धः । रौद्रः । दक्षाय । सुसुमान् । आदर्शि ।  
+> चिकित् । वि । भाति । भासा । बृहता । असिक्नीं . एति । रुशतीं : अप्‌अजन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजन्वीप्यमानाग्ने त्वमिन ईश्वरः सर्वस्य भवसि, अथ परोक्षः । अरतिर्हविरादाय देवान्प्रति गंता समिद्धः संदीप्तो रौद्रः शत्रूणां भयंकरः सुषुमान् ।
+> ओषध्यात्मना स्थितोऽंशुः सुष्टु सूयत इति सुषुः सोमः । तेन तद्वान् शोभनप्रसवो वा सोग्निर्दक्षाय यजमानानां धनानिवृद्ध्यर्थमदर्शि । सर्वैदृश्यते ।
+> किंच चिकित् सर्वं जानानोग्निर्वि भाति । विशेषेण दीप्यते । तथा बृहता महता
+> भासा तेजसा ज्वालालक्षणेनासिक्कीं रात्रिमेति । सायंहोमसिद्ध्यर्थमेव गच्छति ।
+> कं कुर्वन् । रुशतीं श्वेतवर्णां दीप्तिमपाजन्नपगमयन्नात्रिं गच्छति । सामर्थ्यद्रात्रिं परित्यजन्नुषसं प्रातर्होमसिद्धर्थं गच्छतीत्यर्थो लक्ष्यते ॥
+
+##### Gist of the bhāṣya
+
+O shining Agni, you are lord (ina) of all; the rest is indirect address. Conveyer of the oblation to the gods (arati), kindled, terrible (raudra) to enemies, possessed of Soma (suṣumān): the Soma in the plants, pressed well, is suṣu; or he is of fair birth. That Agni is seen by all for the prosperity of the sacrificers. Knowing all, he shines forth; with great brilliance, of the nature of flame, he goes to the night (asiknī), to accomplish the evening homa. Driving away the white (rushatī) light, he goes into night; by implication, leaving the night he goes to the dawn for the morning homa.
+
+### Printed p. 235
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lord Agni
+- इनः (*inaḥ*)—you are lord of all
+- अरतिः (*aratiḥ*)—who carries the oblation to the gods
+- समिद्धः (*samiddhaḥ*)—kindled
+- रौद्रः (*raudraḥ*)—terrible to enemies
+- सुषुमान् (*suṣumān*)—possessed of Soma; such Agni
+- दक्षाय (*dakṣāya*)—for the prosperity of the sacrificers
+- अदर्शि (*adarśi*)—is seen by all
+- चिकित् (*cikit*)—Agni, knowing all
+- वि भाति (*vi bhāti*)—shines exceedingly
+- बृहता (*bṛhatā*)—very great
+- भासा (*bhāsā*)—with brilliance
+- रुशतीं (*ruśatīṃ*)—the white-coloured radiance
+- अपाजन् (*apājan*)—driving away
+- असिक्नीं (*asiknīṃ*)—the night
+- एति (*eti*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+O lord Agni, you are master of all. Agni, who goes to the gods, is kindled, terrible to enemies and possessed of Soma, is seen by all for the prosperity of the sacrificers. Knowing all, Agni shines exceedingly. With very great brilliance, driving away the white-coloured radiance, he enters the night.
+
+##### English translation
+Royal Agni, (you are) the lord (of all). He who is the conveyer of the oblation, the radiant, the formidable, the recipient of the Soma, is manifested for the benefaction (of the worshipper) : all-knowing, he shines forth with great lustre ; he proceeds, scattering the glimmering darkness.
+
+##### विशेषविषयगळु (Special Topics)
+
+सुषुमान् दक्षाय अदर्शि (*suṣumān dakṣāya adarśi*): the commentator gives two meanings of suṣumān: ओषध्यात्मना स्थितोऽंशुः सुष्टु सूयत इति सुषुः सोमः तेन तद्वान् शोभनप्रसवो वा सोग्निः (*oṣadhyātmanā sthito 'ṃśuḥ suṣṭu sūyata iti suṣuḥ somaḥ tena tadvān śobhanaprasavo vā sogniḥ*). The Soma juice obtained by well crushing and squeezing the Soma plant is called suṣu; suṣumān means possessing such Soma. Since Soma is offered into Agni as an oblation to please the gods who love the indirect, Agni is addressed here as suṣumān, possessing Soma. Such Agni, well kindled by the priests and blazing with fuel, shines: this is one meaning. Since in the sacrifice the priests produce Agni by rubbing the aranis according to rule and with mantras, Agni is described as suṣumān, śobhanaprasavaḥ, of excellent birth: another meaning.
+
+बृहता भासा असिक्कीं एति (*bṛhatā bhāsā asikkīṃ eti*)—महता ज्वालालक्षणेन तेजसा रात्रिं गच्छति सायंहोमसिद्ध्यर्थं (*mahatā jvālālakṣaṇena tejasā rātriṃ gacchati sāyaṃhomasiddhyarthaṃ*). Agni, shining with his great splendour, enters, that is approaches, the night to receive the oblations of the evening homas.
+
+### Printed p. 236
+Since in the night there is darkness without sunlight, Agni's light is seen all the more. And Agni is the chief deity who receives oblations at night; to the sun the oblation is offered only by day. On this there is an account in the Taittirīya Brāhmaṇa of the Yajurveda:
+
+यदग्निहोत्रं । तस्मादग्निहोत्रमुच्यते । तद्दूयमानमादित्योऽब्रवीत् । मा हौषीः । उभयोर्वैनावेतदिति । सोऽग्निरब्रवीत् । कथं नौ होष्यंतीति । सायमेव तुभ्यं जुहवन् । प्रातर्मह्यमित्यब्रवीत् । तस्मादग्नये सायग्ं हूयते। सूर्याय प्रातः । अग्निया वै रात्रिः । ऐंद्रमहः। यदनुदिते सूर्ये प्रातर्जुहुयात् । उभयमेवाग्नेयग्गं स्यात् । उदिते सूर्ये प्रातर्जुहोति । तथाग्नये सायग्ं हूयते.... .... .... अग्निं नावादित्यस्सायं प्रविशति । तस्मादग्निर्दूरान्नक्तं ददृशे । उभे हि तेजसी संपद्येते । उद्यंतं नावादित्यमग्निरनु समारोहति । तस्माद्दूम एवाग्निर्दिवा ददृशे.... ........ .... अग्निर्ज्योतिर्ज्योतिस्सूर्यस्साहेत्येव सायग्ं होतव्यं । सोर्यो ज्योतिर्ज्योतिरग्निस्साहेति प्रातः । तथोभाभ्याग्ं सायग्ं हूयते । उभाभ्यां प्रातः । (*yadagnihotraṃ | tasmādagnihotramucyate | taddūyamānamādityo 'bravīt | mā hauṣīḥ | ubhayorvaināvetaditi | so 'gnirabravīt | kathaṃ nau hoṣyaṃtīti | sāyameva tubhyaṃ juhavan | prātarmahyamityabravīt | tasmādagnaye sāyagṃ hūyate| sūryāya prātaḥ | agniyā vai rātriḥ | aiṃdramahaḥ| yadanudite sūrye prātarjuhuyāt | ubhayamevāgneyaggaṃ syāt | udite sūrye prātarjuhoti | tathāgnaye sāyagṃ hūyate.... .... .... agniṃ nāvādityassāyaṃ praviśati | tasmādagnirdūrānnaktaṃ dadṛśe | ubhe hi tejasī saṃpadyete | udyaṃtaṃ nāvādityamagniranu samārohati | tasmāddūma evāgnirdivā dadṛśe.... ........ .... agnirjyotirjyotissūryassāhetyeva sāyagṃ hotavyaṃ | soryo jyotirjyotiragnissāheti prātaḥ | tathobhābhyāgṃ sāyagṃ hūyate | ubhābhyāṃ prātaḥ |*) (Śai. Brā. 2-1-2-9 to 13)
+
+In former times in the rite called Agnihotra the sacrificer made the homa in Agni; because he made the homa in Agni the rite got the name Agnihotra. To the sacrificer thus offering into Agni with Agni as the object, the Sun said: "You are offering to Agni alone in Agni. The oblation you offer should reach both Agni and me, not Agni alone." Agni asked how it should reach both. The Sun replied: "The homa made in the evening should reach Agni (you); the homa made in the morning should reach me (the Sun)." Since Agnihotra is done in the evening and in the morning, the oblations must reach both Agni and Sun. Therefore at night they offer to Agni; to the Sun they offer in the morning. Thus Agni became the presiding deity of night; all homa made at night must go to Agni. The period between sunset and sunrise is night. Hence a homa made before sunrise (that time being counted as night) goes to Agni. In that case both evening and morning oblations would have gone to Agni.
+
+### Printed p. 237
+This did not suit either. Therefore in the evening the Sun enters Agni and is hidden within him; likewise Agni enters the rising Sun and is hidden within him by day. For this reason the homas made in the evening and morning, though the times differ, go to the deities intended. Because each entered the other, the qualities of both became visible in both. At night Agni, very bright, is seen from a great distance; by day, though Agni burns, only the smoke is seen from afar. Since each has entered the other, the order of reciting the mantras addressed to them is also reversed. In both evening and morning the homa must be made addressed to both. But in the evening one must first utter Agni's name, अग्निर्ज्योतिः (*agnirjyotiḥ*), and then recite ज्योतिः सूर्यः (*jyotiḥ sūryaḥ*). In the morning, conversely, first the Sun's name, सूर्यो ज्योतिः (*sūryo jyotiḥ*), and then Agni's, ज्योतिरग्निः (*jyotiragniḥ*), and the homa is made. Thus primacy is given to both at both times, and it is as if Agni were separately addressed in the evening and the Sun in the morning.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ष्णां यदेनी॑म॒भि वर्प॑सा॒ भूज्ज॒नय॒न्नोषां॑ बृह॒तः  ॒
+> पितुर्जां ।  
+> ऊ॒र्ध्वं भा॒नुं सूर्य॑स्य स्तभा॒यन् दि॒वो वसु॑भिरर॒तिर्वि  ॑
+> भाति ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृष्णां । यत् । एनीं । अभि । वर्पसा । भूत् । जनयन् । योषां । बृहतः ।  
+> पितुः । जां ।  
+> ऊर्ध्वं । भानुं । सूर्यस्य । स्तभायन् । दिवः । वसुभिः । अरतिः । वि । भाति ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोग्निर्यद्यदा कृष्णां कृष्णवर्णामेनीं गच्छंतीं रात्रिं वर्पसात्मीयेन
+> ज्वालालक्षणेन रूपेणाभि भूत् अभिभवति । किं कुर्वन् । बृहतो महतः पितुः
+
+##### Gist of the bhāṣya
+
+That Agni, when he overcomes (abhi bhūt) with his own form of flame (varpas) the dark (kṛṣṇā) night as she goes (enī); doing what? ….
+
 ---
 
-**Progress note:** Done through printed p. 231. pp. 226-231 (batch API)
+**Progress note:** Done through printed p. 237. pp. 232-237 (batch API)
