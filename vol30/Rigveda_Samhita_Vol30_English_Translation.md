@@ -15849,6 +15849,266 @@ When you encountered the indestructible Vritra, wielding your weapons for combat
 > अवृश्चत् । अद्रिं । अव । सस्यदः । सृजत् । अस्तभ्नात् । नाकं । सुअपस्यया । पृथुं॥  
 > 31
 
+### Printed p. 482
+#### Ṛk 4 (continued)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इंद्रो जज्ञान एव ॥ जनी प्रादुर्भावे । छांदसस्य लिटः कानच् ॥ जायमान एव स्पृधः शत्रून्व्यबाधत । अत्यर्थमपीडयत् ॥ स्पृधः । स्पर्ध संघर्षे ।
+> क्विप् । अपस्पृधेथामिति निपातनेनैकत्र संप्रसारणदर्शनादत्रापि भवति ॥ आत एव वीरः
+> समर्थः स रणं संग्राममभिलक्ष्य पौंस्यमात्मीयं बलं प्रापश्यत् । अस्यैतावद्बलमिति प्रकर्षण पश्यति । जानाति । किंचाद्रिं मेघमवृश्चत् । वर्षणार्थमच्चिनत् ।
+> अनंतरं सस्यदः ॥स्यंदू प्रस्रवणे । क्विप् । शसि नलोपः ॥ सह स्यंदमाना अपोऽव
+> स्पृजत् । अवाङ्मुखमसृजत् । निरगमयत्। तथा स पृथुं महांतं नाकं द्युलोकं
+> स्वपस्यया ॥ सुप आत्मनः क्यच् । आ प्रत्ययादिति स्त्रियामप्रत्ययः ॥ शोभनकर्मेच्छयास्तभ्नात् । निरुद्धमकरोत् ॥ स्तंभिः सौत्रो धातुः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa takes the pāda "that Indra, just born". As soon as he was born he struck down his rivals (स्पृधः (*spṛdhaḥ*), enemies), oppressing them exceedingly. Being a hero, that is, capable, he looked to the battle and clearly saw his own manly strength, knowing "such is his might". He split the cloud, cutting it so that rain might fall. Then he sent the streaming waters downward, making them flow out. Wishing to do a good work, he propped up the vast heaven (नाकं (*nākaṃ*), the world of heaven), holding it fast. Sāyaṇa adds that स्तंभिः (*staṃbhiḥ*) is a sautra root.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- जज्ञान एव (*jajñāna eva*)—at the very moment of being born
+- स्पृधः (*spṛdhaḥ*)—the enemies
+- व्य बाधत (*vya bādhata*)—harmed and destroyed
+- वीरः (*vīraḥ*)—Indra, the capable
+- रणं (*raṇaṃ*)—the battle, setting it forward
+- पौंस्यं (*pauṃsyaṃ*)—his own strength
+- प्रापश्यत् (*prāpaśyat*)—perceived
+- अद्रिं (*adriṃ*)—the cloud
+- अवृश्चत् (*avṛścat*)—split, for the sake of rain
+- सस्यदः (*sasyadaḥ*)—the flowing waters
+- अव सृजत् (*ava sṛjat*)—made them flow downward
+- स्वपस्यया (*svapasyayā*)—wishing to do a good work
+- पृथुं (*pṛthuṃ*)—the vast
+- नाकं (*nākaṃ*)—the world of heaven
+- अस्तभ्नात् (*astabhnāt*)—lifted up and held
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as he was born, Indra harmed and destroyed his enemies. Indra, the capable, set the battle before him and perceived his own strength. He split the cloud for the sake of rain. He made the flowing waters run downward, and, wishing to do a good work, lifted up and set firm the vast heaven.
+
+##### English translation
+As soon as born he discomfited his assailants; the hero contemplated his own manly prowess in war; he divided the cloud, sent forth the flowing waters, and with the determination to do a good deed, upheld the vast heaven.
+
+### Printed p. 483
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदिंद्रः॑ स॒त्रा तवि॑षीरपत्यत॒ वरी॑यो॒ द्यावा॑पृथि॒वी अ॑बाधत ।  
+> अवा॑भरद्धृषि॒तो वज्र॑माय॒सं शेवं॑ मि॒त्राय॒ वरु॑णाय  ॒॑
+> दाशुषे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । इंद्रः । सत्रा । तविषीः । अपत्यत । वरीयः । द्यावापृथिवी इति । अबाधत ।  
+> अव । अभरत् । धृषितः । वज्रं । आयसं । शेवं । मित्राय । वरुणाय । दाशुषे ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदपि च स इंद्रस्तविषीर्महतीः सेनाः सत्रा सहैवापत्यत । अगच्छत् ॥ पद गतौ
+> दैवादिकः । वर्णव्यत्ययः ॥ यद्वा। पत्यत इत्यैश्वर्यकर्मा । सेनानामिष्टे । तासामीश्वरोऽभवदित्यर्थः । स एव द्यावापृथिवी द्यावापृथिव्यौ वरीयः ॥ तृतीयायाः
+> सुः ॥ उरुतरेण महिम्माबाधत । तयोरंतस्थिताण्त्यूनवधीदित्यर्थः । धृषितः
+> शत्रुवधे प्रगल्भः सन्नायसमयोमयं वज्रमवाभरत् । आधारयत् । किमर्थं ।
+> मित्राय वरुणाय दाशुषे हनिर्दत्तवते यज्वने च शेवं सुखं कर्तु० ॥
+
+##### Gist of the bhāṣya
+
+Then too that Indra went together with the great armies (तविषीः (*taviṣīḥ*)). Alternatively, पत्यत (*patyata*) means lordship: he became the lord of the armies. He, with surpassing greatness, overcame heaven and earth, that is, he slew the enemies standing between the two. Bold in killing foes, he wielded the iron thunderbolt, made of iron. For what purpose? To bring comfort (शेवं (*śevaṃ*)) to Mitra, to Varuṇa, and to the sacrificer who has given the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत् (*āt*)—immediately
+- इंद्रः (*iṃdraḥ*)—Indra
+- तविषीः सत्रा (*taviṣīḥ satrā*)—together with great armies
+- अपत्यत (*apatyata*)—set out
+- द्यावापृथिवी (*dyāvāpṛthivī*)—all the enemies stationed between heaven and earth
+- वरीयः (*varīyaḥ*)—by his exceedingly great strength
+- अबाधतॆ (*abādhatè*)—harmed and destroyed
+- धृषितः (*dhṛṣitaḥ*)—Indra of firm strength
+- मित्राय (*mitrāya*)—for Mitra
+- वरुणाय (*varuṇāya*)—for Varuṇa
+- दाशुषे (*dāśuṣe*)—for the sacrificer who offers the oblation
+- शेवं (*śevaṃ*)—to produce comfort
+- आयसं (*āyasaṃ*)—made of iron
+- वज्रं (*vajraṃ*)—the thunderbolt weapon
+- अवाभरत् (*avābharat*)—lifted and held
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the battle began, Indra set out with great armies. With his exceedingly great strength he harmed and destroyed all the enemies standing between heaven and earth. Indra, of firm strength, lifted up and held the iron thunderbolt, in order to bring comfort to the god Mitra, to Varuṇa, and to the sacrificer who offers the oblation.
+
+### Printed p. 484
+
+##### English translation
+Indra advanced with vast (armies); he overcame with his might (his foes stationed between) heaven and earth; confident, he wielded his iron thunderbolt (to do) good to Mitra, Varuna, and the donor (of the oblation).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒स्यात्र॒ तवि॑षीभ्यो विर॒प्सिन॑ ऋघाय॒तो अ॑रंहयंत  ॒॑
+> मन्यवे ।  
+> वृ॒त्रं यदु॒ग्रो व्यवृ॑श्च॒दोज॑सा॒पो बिभ्र॑तं॒ तम॑सा॒ परी॑वृतं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रस्य । अत्र । तविषीभ्यः । विरप्सिनः । ऋघायतः । अरंहयंत । मन्यवे ।  
+> वृत्रं । यत् । उग्रः । वि । अवृश्चत् । ओजसा । अपः । बिभ्रतं । तमसा । परिवृतं॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रास्मिन्काल एव विरष्यिनो महतो विविधं शब्दायमानस्य वर्धायतः शत्रुन्हिंसत इंद्रस्य तविषीभ्यः । षष्ठ्यर्थे चतुर्थी । बलानां मन्यवे प्रख्यापनायारंहयंत । आपो निरगच्छन् । रहिर्गत्यर्थः । उग्र उद्धूर्ण सोऽप उदकानि
+> बिभ्रतं धारयंतं तमसा परीवृतं परितो वेष्टितं ॥ वृणोतेः कर्मणि क्तः ।
+> गतिरनंतर इति स्वरः । संहितायामुपसर्गस्य घञ् । पा. ६-३-१२२ । इति दीर्घः ॥
+> तं वृत्रं यद्यस्मिन्काल ओजसा स्ववीर्येण व्यवृश्चत् अत्यर्थमवधीत् ॥
+
+##### Gist of the bhāṣya
+
+At this very time, for the proclaiming of the powers (तविषीभ्यः (*taviṣībhyaḥ*), the dative standing in the sense of the genitive) of Indra, who is great, roaring in many ways, growing, and smiting his enemies, the waters flowed forth; रहि (*rahi*) has the sense of motion. Fierce Indra, when he cut Vṛtra to pieces with his own vigour, utterly slew him: Vṛtra who was holding the waters and was wrapped on all sides in darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रः (*ugraḥ*)—Indra of exceedingly great strength
+- अपः (*apaḥ*)—the waters
+- बिभ्रतं (*bibhrataṃ*)—holding
+- तमसा (*tamasā*)—by pitch darkness
+- परीवृतं (*parīvṛtaṃ*)—enveloped
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- यत् (*yat*)—when
+- ओजसा (*ojasā*)—by his strength
+- व्यवृश्चत् (*vyavṛścat*)—destroyed
+- अत्र (*atra*)—at that time
+- विरप्सनः (*virapsanaḥ*)—one who makes much noise
+- ऋघायतः (*ṛghāyataḥ*)—the destroyer of enemies
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- तविषीभ्यः (*taviṣībhyaḥ*)—of the powers
+- मन्यवे (*manyave*)—for the manifesting
+- अरंहयंत (*araṃhayaṃta*)—the waters flowed
+**NOTE**
+
+### Printed p. 485
+
+##### भावार्थ (Bhāvārtha)
+
+When Indra of exceedingly great strength destroyed with his strength Vṛtra, who held back the waters and was surrounded by pitch darkness, then, to proclaim the powers of Indra, who makes loud noise and destroys his enemies, the waters flowed.
+
+##### English translation
+Then (the waters) rushed forth to proclaim the might of Indra, shouting loudly, and crushing (his foes), when fierce he cut Vritra to pieces by his strength—Vritra who) obstructed the waters, and was encompassed by darkness.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या वी॒र्या॑णि प्रथ॒मानि॒ कर्त्वा॑ महि॒त्वेभि॒र्यत॑मानौ समी॒यतुः॑ ।  
+> ध्वां॒तं तमोऽव॑ दध्वसे ह॒त इंद्रो॑ म॒ह्ना पू॒र्वहू॑तावपत्यत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । वीर्याणि । प्रथमानि । कर्त्वा । महित्वेभिः । यतमानौ । संईयतुः ।  
+> ध्वांतं । तमः । अव । दध्वसे । हते । इंद्रः । मह्ना । पूर्वहूतौ । अपत्यत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महित्वेभिर्मंहनीयैः स्वबलैर्यतमानौ युद्धाय प्रयत्नं कुर्वंताविंद्रवृत्तौ प्रथमानि पूर्वभावीनि कर्त्वा ॥ कृत्यार्थे त्वन्प्रत्ययः ॥ कर्तव्यानि यानि
+> वीर्याणि समीयतुः संयोजयामासतुः ॥ इण् गतौ । लिटि दीर्घ इणः कितीति
+> दीर्घः ॥ तयोर्मध्य इंद्रेण वृत्रे हते सति ध्वांतमतिनिबिडं तमोऽव दध्वसे ।
+> अवध्वस्तं विनष्टमभूत् ॥ ध्वंसेर्लिट् । कित्वान्नलोपः ॥ इंद्रस्तु मह्णा स्वमहिम्मा पूर्वहूतौ प्रथमाह्वानेऽपत्यत । अगच्छत् । शूराणां मध्येऽयमेव
+> प्रथममाहूयमानोऽभवदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Indra and Vṛtra, each striving for battle with his own praiseworthy powers, joined the first, that is, the preliminary, heroic deeds that were to be done. When Vṛtra was slain by Indra in the midst of these, the very thick darkness was destroyed. Indra, by his own greatness, went at the first summons (पूर्वहूतौ (*pūrvahūtau*)): among the heroes he alone was the one called first.
+
+### Printed p. 486
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महित्वेभिः (*mahitvebhiḥ*)—by their prowess
+- यतमानौ (*yatamānau*)—Indra and Vṛtra, who strove for battle
+- प्रथमानि कर्त्वा (*prathamāni kartvā*)—to be done beforehand
+- या वीर्याणि (*yā vīryāṇi*)—which heroic deeds
+- समियतुः (*samiyatuḥ*)—they carried out, and among them
+- हते (*hate*)—when Vṛtra was slain
+- ध्वांतं तमः (*dhvāṃtaṃ tamaḥ*)—the very thick darkness
+- अव दध्वसे (*ava dadhvase*)—was dispersed
+- इंद्रः (*iṃdraḥ*)—Indra
+- मह्ना (*mahnā*)—by his greatness
+- पूर्वहूत् (*pūrvahūt*)—being called first among the mighty
+- अपत्यत (*apatyata*)—set out
+
+##### भावार्थ (Bhāvārtha)
+
+After Indra and Vṛtra, who strove for battle with their prowess, had displayed their heroic deeds, Vṛtra was slain. Immediately the very thick darkness dispersed. Indra, by his greatness called first among the mighty, went forward.
+
+##### English translation
+(In the midst of) the first exploits to be performed by them which (Indra and Vritra) achieved striving with their utmost might, Vritra being slain, the thick darkness was destroyed, and Indra in his might came at the first challenge.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ दे॒वासो॒ अध॒ वृष्ण्या॑नि॒ तेव॑र्धय॒न्नोम॑वत्या वच॒स्यया॑ ।  
+> र॒द्धं वृ॒त्रमहि॒मिंद्र॑स्य॒ हन्म॑ना॒ग्निर्न जंभै॑स्तृ॒ष्णन्न॑ मावयत् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवासः । अध । वृष्ट्यानि । ते । अवर्धयन् । सोमवत्या । वचस्यया ।  
+> रद्धं । वृत्रं । अहिं । इंद्रस्य । हन्मना । अग्निः । न । जंभैः । तृषु । अन्नं । अवयत्॥
+
+### Printed p. 487
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अध वृत्रहननानंतरं विश्वे देवासो देवा ऋत्विजः सोमवत्या
+> सोमयुक्तया वचस्यया स्तुतीच्छया ते त्वदीयानि वृष्ट्यानि बलान्यवर्धयन् ।
+> वर्धयंति । इंद्रस्य हन्मना हननसाधनेन वज्रेण रद्धं ॥ रथ हिंसासंराध्योः ॥
+> हिंसितमहिं वृत्रमपामावरकं मेघं तृषु शीघ्रमन्नमावयत् । अभक्षयत् ।
+> तज्जन्येनोदकेन संपादितमन्नं जनोऽभक्षयदित्यर्थः । आवयतिरत्तिकर्मा । तत्र
+> दृष्टांतः । अग्निर्न यथाग्नि र्जंभैरात्मीयैर्दंतैरन्नं भक्षयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, after the slaying of Vṛtra all the gods, that is, the priests, with Soma-bearing speech (वचस्यया (*vacasyayā*), the wish to praise) increased your powers. Vṛtra the serpent, the cloud that obstructs the waters, struck down by Indra's weapon of killing, the thunderbolt, was quickly eaten as food (आवयत् (*āvayat*), "ate"; आवयति (*āvayati*) has the sense of eating): that is, people ate the food produced by the water that came from it. The illustration: just as Agni eats food with his own teeth (जंभैः (*jaṃbhaiḥ*)), so it is here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎलै इंद्रने (*èlai iṃdrane*))—O Indra
+- अध (*adha*)—immediately on the slaying of Vṛtra
+- विश्वे देवासः (*viśve devāsaḥ*)—all the priests
+- सोमवत्या (*somavatyā*)—accompanied with Soma
+- वचस्यया (*vacasyayā*)—with praises
+- ते (*te*)—your
+- वृष्ण्यानि (*vṛṣṇyāni*)—powers
+- अवर्धयन् (*avardhayan*)—increased
+- जंभैः (*jaṃbhaiḥ*)—with its flames
+- अग्निर्न (*agnirna*)—as Agni devours the oblations
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- हन्मना (*hanmanā*)—by the thunderbolt weapon, the instrument of killing
+- रद्धं (*raddhaṃ*)—struck
+- अहिं (*ahiṃ*)—the enemy
+- वृत्रं (*vṛtraṃ*)—Vṛtra (the cloud that covered the water)
+- तृषु (*tṛṣu*)—quickly
+- अन्नं (*annaṃ*)—in the form of food
+- आवयत् (*āvayat*)—(people) ate
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, immediately after the slaying of Vṛtra, all the priests increased your powers with praises accompanied by Soma. As Agni devours the oblations with its flames, people ate in the form of food the enemy Vṛtra, that is, the cloud that had covered the water, struck by Indra's thunderbolt (they drank the water).
+
+##### English translation
+Then all the gods magnified your exploits with praise, accompanied with libations of Soma ; (and people) quickly devoured Vritra, the obstructer of water, wounded by Indra's slaughtering (weapon). as Agni devours food with his teeth.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भूरि॒ दक्षे॑भिर्वच॒नेभि॒र्ऋक्व॑भिः स॒ख्येभिः॑ स॒ख्यानि॒ प्र वो॑चत ।  
+> इंद्रो॒ धुनिं॑ च॒ चुमु॑रिं च दं॒भय॑ञ्छद्धामन॒स्या शृ॑णुते  ॒॑
+> दभीतये ॥ ९ ॥
+
 ---
 
-**Progress note:** Done through printed p. 481. pp. 476-481 (batch API)
+**Progress note:** Done through printed p. 487. pp. 482-487 (batch API)
