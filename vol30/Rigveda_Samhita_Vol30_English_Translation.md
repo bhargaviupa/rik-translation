@@ -20983,6 +20983,239 @@ Whom heaven and earth established by his protection, and, shining brightly, rega
 > ततो॑ दे॒वानां॒ सम॑वर्त॒तासु॒रेकः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑  
 > विधेम ॥ ७ ॥
 
+### Printed p. 640
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । ह । यत् । बृहतीः । विश्वं । आयन् । गर्भं । दधानाः । जनयंतीः । अग्निं ।  
+> ततः । देवानां । सं । अवर्तत । असुः । एकः । कस्मै । देवाय । हविषा । विधेम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहतीर्बृहत्यो महत्यः ॥ जसि वा छंदसीति पूर्वसवर्णदीर्घः । बृहन्महतोरुपसंख्यानमिति जीप उदात्तत्वं ॥ अग्निं । उपलक्षणमेतत् । अग्न्युपलक्षितं
+> सर्वं वियदादिभूतजातं । जनयंतीर्जनयंत्यः तदर्थं गर्भं हिरण्मयांडस्य
+> गर्भभूतं प्रजापतिं दधाना धारयंत्य आपो हाप एव । विश्वमायन् सर्वं
+> जगद्वाप्नुवन् यद्यस्मात् ततस्तस्माद्भेतोर्देवानां देवादीनां सर्वेषां
+> प्राणिनामसुः प्राणभूत एकः प्रजापतिः समवर्तक । समजायत । यद्वा । यद्यं
+> गर्भं दधाना आपो विश्वात्मनावस्थिताः ततो गर्भभूतात्पजापतेर्देवादीनां
+> प्राणात्मको वायुरजायत । अथवा । यत् ॥ लिंगवचनयोर्व्यत्ययः ॥ उक्तलक्षणा
+> या आपो विश्वमावृत्य स्थिताः ततस्ताभ्योऽद्भ्यः सकाशादेकोऽद्वितीयोऽसुः
+> प्राणात्मकः प्रजापतिः समवर्तक । निश्चक्राम । तस्मै कस्मा इत्यादि गतं ॥
+
+##### Gist of the bhāṣya
+
+बृहतीः (*bṛhatīḥ*) means "great, vast waters". अग्निं (*agniṃ*) is only an indication: it stands for the whole class of created things beginning with fire and the ether. The waters give birth to these. For that purpose they hold the "germ", namely Prajāpati, who is the embryo of the golden egg. Those waters pervaded the whole world. Therefore from them one Prajāpati, who is the life-breath of all beings, gods and others, came into being (समवर्तक (*samavartaka*) is glossed "was born"). Alternatively: from Prajāpati, the embryo held by the waters that stood as the universe, the wind, whose nature is breath (of the gods and the rest), was born. Or else: यत् (*yat*) is taken with a change of gender and number, so that it refers to those waters which, as described, stood covering the universe. From those waters the one, second-less Prajāpati, whose nature is breath, came forth (निश्चक्राम (*niścakrāma*)). The refrain कस्मै (*kasmai*) and the rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहतीः (*bṛhatīḥ*)—those that pervade widely (abundantly)
+- अग्निं (*agniṃ*)—the five elements beginning with fire
+- जनयंतीः (*janayaṃtīḥ*)—those that produce (for the very purpose of producing)
+- गर्भं (*garbhaṃ*)—the germ, of golden form and containing Prajāpati
+- दधानाः (*dadhānāḥ*)—holding
+- यत् (*yat*)—which
+- आपः (*āpaḥ*)—waters
+- विश्वं ह (*viśvaṃ ha*)—the entire universe
+- आयन् (*āyan*)—pervaded
+- ततः (*tataḥ*)—from such waters
+- देवानां (*devānāṃ*)—for the gods
+- असुः एकः (*asuḥ ekaḥ*)—Prajāpati, who is the life-breath
+- सं अवर्तत (*saṃ avartata*)—was born
+- कस्मै (*kasmai*)—to him who is of the nature of happiness
+- देवाय (*devāya*)—addressing Prajāpati
+- हविषा (*haviṣā*)—with oblations and other materials
+- विधेम (*vidhema*)—let us offer
+
+##### भावार्थ (Bhāvārtha)
+
+The waters were vast and spread everywhere. They held the golden germ for the very purpose of producing the five great elements beginning with fire, and they covered the whole universe. From those waters Prajāpati, the life-breath of all the gods, came into being. Let us offer oblations and other materials to that Prajāpati, who is of the nature of happiness.
+
+### Printed p. 641
+
+##### English translation
+When the vast waters overspread the universe containiug the germ and giving birth to Agni, then was produced the one breath of the gods,—let us offer worship with an oblation to the devine Ka.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next, the following point is set out: before creation there was only water, pervading everything, and the whole creation proceeded from that water. Moreover, the Taittirīya Saṃhitā gives this account of creation: before creation everything consisted of water, and creation, beginning with the world, went forward from that water (see Part 29, pp. 247-252).
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यश्चि॒दापो॑ महि॒ना प॒र्यप॑श्य॒द्दक्षं॒ दधा॑ना ज॒नयं॑तीर्य॒ज्ञं ।  
+> यो दे॒वेष्वधि॑ दे॒व एक॒ आसी॒त्कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेन॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । चित् । आपः । महिना । परिअपश्यत् । दक्षं । दधानाः । जनयंतीः । यज्ञं ।  
+> यः । देवेषु । अधि । देवः । एकः । आसीत् । कस्मै । देवाय । हविषा । विधेम ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञं यज्योपलक्षितं विकारजातं जनयंतीरुत्पादयंतीः तदर्थं दक्षं
+> प्रपंचात्मना वर्धिष्णुं प्रजापतिमात्मनि दधाना धारयित्रिः ॥ दधातेर्हेत् शानच् ।
+> अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ ईदृशीरापः व्यत्ययेन प्रथमा । अपः प्रलयकालीना महिना महिम्ना ॥ छांदसो मलोपः ॥ स्वमाहात्म्येन यश्च प्रजापतिः
+> पर्यपश्यत् परितो दृष्टवान् यश्च देवेष्वधि देवेषु मध्यॆ देवस्तेषामपीश्वरः
+> सन्नेकोऽद्वितीय आसीत् भवति ॥ अस्तेश्यांदसो लज् । अस्तिसिचोऽपृक्ते ।
+> पा. ७-३-९६ । इतीडागमः ॥ तस्मै कस्मा इत्यादि गतं ॥
+> 41
+
+##### Gist of the bhāṣya
+
+यज्ञं (*yajñaṃ*) stands for the whole class of products indicated by the sacrifice. The waters give birth to them. For that purpose the waters hold within themselves दक्षं (*dakṣaṃ*), Prajāpati, who grows into the form of the universe. The waters so described are in the nominative by a change of case. अपः (*apaḥ*) means the waters of the time of dissolution. महिना (*mahinā*) means "by greatness". Prajāpati beheld them on every side by his own majesty. Among the gods he was the god, the lord even of them, and was the one, second-less. आसीत् (*āsīt*) here is "is". The refrain कस्मै (*kasmai*) and the rest has been explained already.
+
+### Printed p. 642
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञं (*yajñaṃ*)—the derived creation beginning with the sacrifice
+- जनयंतीः (*janayaṃtīḥ*)—those that produce (for that very purpose)
+- दक्षं (*dakṣaṃ*)—Prajāpati, who becomes manifest as the universe (within themselves)
+- दधानाः (*dadhānāḥ*)—those that hold (pervading everywhere)
+- आपः (*āpaḥ*)—the waters
+- यः चित् (*yaḥ cit*)—the Prajāpati who
+- महिना (*mahinā*)—by his majesty
+- पर्यपश्यत् (*paryapaśyat*)—beheld
+- यः (*yaḥ*)—the Prajāpati who
+- देवेषु अधि (*deveṣu adhi*)—among the gods
+- देवः (*devaḥ*)—a lord even over the gods
+- एकः (*ekaḥ*)—as the second-less
+- आसीत् (*āsīt*)—was
+- कस्मै (*kasmai*)—to him who is of the nature of happiness
+- देवाय (*devāya*)—addressing Prajāpati
+- हविषा (*haviṣā*)—with oblations and other materials
+- विधेम (*vidhema*)—let us serve
+
+##### भावार्थ (Bhāvārtha)
+
+Prajāpati by his majesty beheld the all-pervading waters, which are the cause of creation beginning with the sacrifice and which hold Prajāpati himself in their womb. He is also a god among the gods, that is, the god of gods. Let us offer oblations and other materials to that Prajāpati, who is of the nature of happiness.
+
+##### English translation
+He who by his might beheld the waters all around containing the creative power and giving birth to sacrifice, he who among the gods was the one supreme god,—let us offer worship with an oblation to the devine Ka.
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ हिंसीज्जनि॒ता यः पृ॑थि॒व्या यो वा॒ दिवं॑ स॒त्यध॑र्मा  ॒॑
+> जजान ।  
+> यश्चा॒पश्चं॒द्रा बृ॑ह॒तीर्ज॒जान॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । हिंसीत् । जनिता । यः । पृथिव्याः । यः । वा । दिवं । सत्यधर्मा । जजान ।  
+> यः । च । अपः । चंद्राः । बृहतीः । जजान । कस्मै । देवाय । हविषा । विधेम ॥९॥
+
+### Printed p. 643
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स प्रजापतिर्नोऽस्मान्मा हिंसीत् । मा बाधतां । यः पृथिव्या भूमेर्जनिता
+> जनयिता स्रष्टा ॥ जनिता मंत्र इति णिलोपो निपात्यते । उदात्तयणो हल्पूर्नादिति पृथिवीशब्दाद्विभक्तेरुदात्तत्वं ॥ यो वा यश्च सत्यधर्मा सत्यमवितथं
+> धर्म जगतो धारणं यस्य स तादृशः प्रजापतिर्दिवमंतरिक्षोपलक्षितान्सवाल्लोकाञ्चजान जनयामास ॥ जनी प्रादुर्भावे । णिचि वृद्धौ जनीज्यष्कसुरंजः ।
+> धा. १९-६३-६७ । इति मित्वान्मितां ह्रस्व इति ह्रस्वत्वं। ततो लिट्यमंत्रे। पा. ३-१-३५ ।
+> इति निषेधादाम्रत्ययाभावे तिपो णलि वृद्धौ लितीति प्रत्ययात्पूर्वस्कोदात्तत्वं ॥
+> यश्च बृहतीर्महतीश्चंद्रा आह्लादिनीरप उदकानि जजान जनयामास ॥ ऊडिदमित्यादिनाप्यब्दादुत्तरस्य शस उदात्तत्वं ॥ तस्मै कस्मा इत्यादिगतं ॥
+
+##### Gist of the bhāṣya
+
+May that Prajāpati not harm us, that is, not oppress us. He is जनिता (*janitā*), the begetter and creator, of the earth. He is सत्यधर्मा (*satyadharmā*): सत्य (*satya*) is the unfailing, and धर्म (*dharma*) is the upholding of the world, which is his. Such a Prajāpati begot दिवं (*divaṃ*), that is, all the worlds indicated by the heaven and the middle region. जजान (*jajāna*) means "caused to be born". He also begot the बृहतीः (*bṛhatīḥ*), the great, and चंद्राः (*caṃdrāḥ*), the delightful, अपः (*apaḥ*), the waters. The refrain कस्मै (*kasmai*) and the rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (that Prajāpati) नः (*naḥ*)—us
+- मा हिंसीत् (*mā hiṃsīt*)—may he not harm
+- यः (*yaḥ*)—the Prajāpati who
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- जनिता (*janitā*)—is the creator
+- सत्यधर्मा (*satyadharmā*)—who carries out true works such as upholding the world
+- यः वा (*yaḥ vā*)—the Prajāpati who
+- दिवं (*divaṃ*)—all the worlds beginning with the middle region
+- जजान (*jajāna*)—produced
+- य च (*ya ca*)—the Prajāpati who
+- बृहतीः (*bṛhatīḥ*)—great
+- चंद्राः (*caṃdrāḥ*)—and delightful
+- अपः (*apaḥ*)—waters
+- जजान (*jajāna*)—produced; to such
+- कस्मै (*kasmai*)—who is of the nature of happiness
+- देवाय (*devāya*)—to Prajāpati
+- हविषा (*haviṣā*)—oblations and other materials
+- विधेम (*vidhema*)—let us offer
+
+##### भावार्थ (Bhāvārtha)
+
+May that Prajāpati not harm us. He created this earth, he created the upper worlds beginning with the middle region, and he produced the great and delightful waters. Let us offer oblations and other materials to that Prajāpati, who is of the nature of happiness.
+
+##### English translation
+May he do us no harm who is the parent of the earth or who the unerring support (of the world) begat the heaven, and who generated the vast and delightful waters,—let us offer worship with an oblation to the divine Ka.
+
+### Printed p. 644
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रजा॑पते॒ न त्वदे॒तान्य॒न्यू विश्वा॑ जा॒तानि॒ परि॒ ता ब॑भूव ।  
+> यत्का॑मास्ते जुहु॒मस्तन्नो॑ अस्तु व॒यं स्या॑म॒ पत॑यो  ॒
+> रयीणां ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रजापते न त्वदेतान्यन्यो विश्वा जातानि परि ता बभूव ।  
+> यत्कामास्ते जुहुमस्तन्नो अस्तु वयं स्याम पतयो रयीणां ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इळादधाख्य इष्ट्ययने प्राजापत्यस्य हविषः प्रजापत इत्येषानुवाक्या ।
+> सूत्रितं च । प्राजापत्य इळादधः प्रजापते न त्वदेतान्यन्यः। आ. २-१४ । इति !! केशनखकीटादिभिर्दुष्टानि हवींष्यनय्यॆनाप्सु प्रक्षिपेत् । सूत्रितं च । अपोऽभ्यवहरेयुः
+> प्रजापते न त्वदेतान्यन्यः । आ. ३-१० । इति ॥ चौलादिकर्मस्वप्येषा होमार्था ।
+> सूत्रितं च । तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न आयूंषि पवस इति
+> तिसृभिः प्रजापते न त्वदेतान्यन्य इति च । आ. गृ. १-४-४ । इति ॥
+> हे प्रजापते त्वत् त्वत्तोऽन्यः कश्चिदेतानीदानीं वर्तमानानि विश्वा विश्वानि
+> सर्वाणि ॥ शेश्चंदसि बहुलमिति शेर्लोपः ॥ जातानि प्रथमविकारभांजि ता तानि
+> सर्वाणि भूतजातानि न परि बभूव । न परिगृह्णाति । न व्याप्प्नोति । त्वमेवैतानि परिगृह्य
+> स्रष्टुं शक्षोषीति भावः ॥ परिपूर्वो भवतिः परिग्रहार्थः । वयं च यत्कामा
+> यत्पलं कामयमानास्ते तुभ्यं जुहुमः हवींषि प्रयच्छामः तत्पलं नोऽस्माकमस्तु । भवतु । तथा वयं च रयाणां धनानां पतॆय ईश्वराः स्याम । भवेम ॥
+> नामन्यतरस्यामिति नाम उदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+In the Iḷādadha sacrifice (iṣṭi) this Ṛk, प्रजापते (*prajāpate*), is the anuvākyā for the oblation to Prajāpati. The sūtra says: प्राजापत्य इळादधः प्रजापते न त्वदेतान्यन्यः (*prājāpatya iḷādadhaḥ prajāpate na tvadetānyanyaḥ*) (Ā. 2-14). Where oblations are spoiled by hair, nails, insects and the like, they are to be thrown into water with this Ṛk. The sūtra says: अपोऽभ्यवहरेयुः प्रजापते न त्वदेतान्यन्यः (*apo 'bhyavahareyuḥ prajāpate na tvadetānyanyaḥ*) (Ā. 3-10). This Ṛk is also used for the homa in rites such as the tonsure (caula). The sūtra says: तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न आयूंषि पवस इति तिसृभिः प्रजापते न त्वदेतान्यन्य इति च (*teṣāṃ purastāccatasra ājyāhutīrjuhuyādagna āyūṃṣi pavasa iti tisṛbhiḥ prajāpate na tvadetānyanya iti ca*) (Ā. Gṛ. 1-4-4).
+Meaning: O Prajāpati, no one other than you has encompassed all these existing things, the products of the first transformation. The sense is that you alone, having encompassed them, are able to create them; the root भू (*bhū*) with परि (*pari*) has the sense of encompassing. And we, desiring whatever fruit we offer oblations to you for, may that fruit be ours; and may we be the lords of riches.
+
+### Printed p. 645
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रजापते (*prajāpate*)—O Prajāpati
+- त्वत् (*tvat*)—apart from you
+- अन्यः (*anyaḥ*)—anyone else
+- एतानि (*etāni*)—these that now exist
+- विश्वा (*viśvā*)—all
+- जातानि (*jātāni*)—the products of the first creation, whichever there are
+- ता (*tā*)—them
+- न परि बभूव (*na pari babhūva*)—is not able to undertake to create
+- यत्कामाः (*yatkāmāḥ*)—desiring whatever wishes
+- ते (*te*)—to you
+- जुहुमः (*juhumaḥ*)—we offer oblations and other materials, and perform homa
+- तत् (*tat*)—that fruit in the form of the wish
+- नः (*naḥ*)—to us
+- अस्तु (*astu*)—may it come
+- वयं च (*vayaṃ ca*)—and we also
+- रयीणां (*rayīṇāṃ*)—of riches
+- पतयः (*patayaḥ*)—as lords
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+O Prajāpati, apart from you there is no one else who sets about creating all that now exists, the first creation, the five great elements and the rest. May we obtain the fruit of the wish for whose fulfilment we offer you oblations. May we also become lords of riches.
+
+##### English translation
+No other than you. Prajapathi has given existance to all these beings may that object of our desires for which we sacrifice to you be ours, may we be the possessors of riches.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the iṣṭi called Iḷādadha, in the oblation-homa made to the deity Prajāpati, this Ṛk प्रजापते (*prajāpate*) is to be recited as the anuvākyā mantra. This is set out by the Āśvalāyana Śrautasūtra in the sūtra प्राजापत्य इळादधः प्रजापते न त्वदेतान्यन्यः (*prājāpatya iḷādadhaḥ prajāpate na tvadetānyanyaḥ*) (Ā. 2-14). If among the oblation materials offered by homa to the gods there are mixed impure things such as hair, nails, worms and insects, those oblations are to be put in water with the recitation of this Ṛk प्रजापते (*prajāpate*). This is set out by the Āśvalāyana Śrautasūtra in the sūtra अपोऽभ्यवहरेयुः प्रजापते न त्वदेतान्यन्यः (*apo 'bhyavahareyuḥ prajāpate na tvadetānyanyaḥ*) (Ā. 3-10). And this Ṛk is also employed for the homa in domestic rites such as the tonsure. This is set out by the Āśvalāyana Gṛhyasūtra in the sūtra तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न अयूंषि पवस इति तिसृभिः प्रजापते न त्वदेतान्यन्य इति च (*teṣāṃ purastāccatasra ājyāhutīrjuhuyādagna ayūṃṣi pavasa iti tisṛbhiḥ prajāpate na tvadetānyanya iti ca*) (Ā. Gṛ. 1-4-8).**NOTE**
+In explaining the word Prajāpati, Yāska has given an etymology that bears on this Ṛk: प्रजापतिः प्रजानां पाता वा पालयिता वा ॥ तस्यैषा भवति ॥ (*prajāpatiḥ prajānāṃ pātā vā pālayitā vā ‖ tasyaiṣā bhavati ‖*) (Ni. 10-42). The word Prajāpati means the protector of creatures, the one who looks after creatures. The following Ṛk concerns Prajāpati: प्रजापते न त्वदेतान्यन्नो विश्वा जातानि परि ता बभूव । यत्कामास्ते जुहु मस्तन्नो अस्तु वयं स्याम पतयो रयीणां ॥ (*prajāpate na tvadetānyanno viśvā jātāni pari tā babhūva | yatkāmāste juhu mastanno astu vayaṃ syāma patayo rayīṇāṃ ‖*)
+
 ---
 
-**Progress note:** Done through printed p. 639. pp. 634-639 (batch API)
+**Progress note:** Done through printed p. 645. pp. 640-645 (batch API)
