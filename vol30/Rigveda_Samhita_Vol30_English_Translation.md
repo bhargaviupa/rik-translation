@@ -25905,6 +25905,195 @@ The first man spreads out this (web), the first man rolls it up, he spreads it a
 
 When the sacrifice had been created by Prajāpati as the means of creating the universe, the gods who create the universe, the Viśvasṛjas, performed that sacrifice for the creation of the universe. At that time, since the world had not yet come into being, the world within….
 
+### Printed p. 790
+
+> पातिनो यागोपकरणभूताः पदार्थाः कथमासन्नित्यनया प्रश्नॆ क्रियते । यद्यदा
+> विश्वे सर्वॆ साध्या देवा देवं प्रजापतिमयजंत तदानीं तस्य यज्ञस्य प्रमा
+> प्रमाणमियत्ता का कथंभूतासीत् । तथा प्रतिमा हविष्कृतियोगित्वेन मीयते
+> निर्मायत इति प्रतिमा देवता । सा च तस्य यज्ञस्य कासीत् : तथा निदानमादिकारणं
+> यागेऽप्रवृत्तस्य प्रवर्तकं फलं किमासीत् । तथाज्यं धृतमेतदुपलक्षितं हनिर्वा
+> तस्य यज्ञस्यॆ किमासीत् । तथा परिधिः । परितो धीयंत इति त्रयः परिधयो बाहुमात्राः पलाशादिवृक्षजन्याः ॥ परिपूर्वाद्दधातेरुपसर्गे घोः किरिति किप्रत्ययः ।
+> सामान्यापेक्षमेकनचनं ॥ परिधॆयः क आसन्नित्यर्थः । तथा तस्य यज्ञस्य गायत्रादिकं छंदः किमासीत् । तथा प्रउगमुक्तं । उपलक्षणमेतत् । आज्यप्रउगादीन्यु
+> क्थानि शस्त्राणि वा कान्न्यासन् । एतेषु प्रश्नॆषु त्रयाणामुत्तरं दृचेनाह ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the sentence begun on the previous page. The seers ask how the things that serve the sacrifice came to be, and he lists the questions. When all the Sādhya and other gods worshipped the god Prajāpati, what was the measure of that sacrifice, and of what kind was it? What was the pratimā, the deity, so called because it is "measured" or fashioned as the one who receives the oblation? What was the nidāna, the first cause, namely the fruit that impels one to undertake the sacrifice? What was the ghee (ājya), or the oblation marked by it? What was the paridhi? The paridhis are three enclosing sticks, a forearm in length, made from palāśa and similar trees and placed all around; the singular number is used with a general intent, so the question means "what were the paridhis?" What was the metre of that sacrifice, beginning with Gāyatrī? What was the pra-uga? This is only an indication: what were the ukthas, the pra-uga of the ājya and so on, or the śastras? Of these questions he says that the following Ṛk answers three.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- विश्वे देवाः (*viśve devāḥ*)—the gods, the Sādhyas and others
+- देवं (*devaṃ*)—Prajāpati
+- अयजंत (*ayajaṃta*)—when they worshipped by performing the sacrifice, then (of this sacrifice)
+- प्रमा (*pramā*)—the measure (in what manner and for how long it is to be done)
+- का आसीत् (*kā āsīt*)—what was it? Or how was it?
+- प्रतिमा (*pratimā*)—which was the deity
+- निदानं (*nidānaṃ*)—the cause, that is, the fruit of performing the sacrifice
+- किं आसीत् (*kiṃ āsīt*)—what was it
+- आज्यं (*ājyaṃ*)—the ghee used for the oblation
+- किं आसीत् (*kiṃ āsīt*)—what was it
+- परिधिः (*paridhiḥ*)—the palāśa and other sticks placed on the four sides of the fire-pit to ward off the harm of rākṣasas
+- किं आसीत् (*kiṃ āsīt*)—what was it
+- छंदः (*chaṃdaḥ*)—the metres of the mantras
+- किं आसीत् (*kiṃ āsīt*)—what was it
+- प्रउगं उक्षं (*praugaṃ ukṣaṃ*)—the ukthas and śastra mantras, the pra-uga of the ājya and so on
+- किं (*kiṃ*)—what
+
+##### भावार्थ (Bhāvārtha)
+
+In the time of creation the Sādhyas and other gods performed a sacrifice addressed to Prajāpati in order to carry creation forward. Since the creation of the world was not yet complete, where were the materials of the sacrifice? Which were they? What was the limit of the sacrifice, that is, for how long and how was the sacrifice to be done? What was its deity? What was its fruit? What were the ājya and the sacrificial sticks called paridhis? What were the metres? What were the ukthas, beginning with the pra-uga, and the śastra mantras?
+
+##### English translation
+What was the authority (of the sacrifice), what was the limitation, what was the first cause, what was the clarified butter, what was the enclo-
+
+### Printed p. 791
+
+Sure, what was the metre, what was the pra-uga text, when the universal gods offered worship to the gods ?
+
+##### विशेषविषयगळु (Special Topics)
+
+It has been said before that Prajāpati first created the sacrifice, and that the gods performed the sacrifice created by Prajāpati in order to carry forward the work of creating the universe. At that time the creation of the world was not complete. Even so, how did the gods perform the sacrifice? What materials did they use for it? The seer asks this in this Ṛk and gives the answer in the next two Ṛks. Names of some things indispensable in the sacrifice, that is, of its materials, are mentioned here: the manner and time of performing the sacrifice, its fruit, the ājya (ghee) used for the homa, the paridhis placed on the four sides of the fire, the metres, and the śastra mantras such as the pra-uga and uktha. These are the materials of that sacrifice. This Ṛk sets out only the questions as to what materials were used in that sacrifice, performed by the gods in order to create, in place of these materials. The answer is given in the next two Ṛks.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्नेर्गा॑य॒त्र ॑भवत्स॒युगो॒स्निह॑या सवि॒ता सं ब॑भूव ।  
+> अ॒नु॒ष्टुभा॒ सोम॑ उ॒क्थैर्मह॑स्वा॒न्बृह॒स्पते॑र्बृह॒ती वाच॑मावत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नेः । गायत्री । अभवत् । सयुग्वा । उष्णिहया । सविता । सं । बभूव ।  
+> अनुस्तुभा । सोमः । उक्षैः । महस्वान् । बृहस्पतेः । बृहती । वाचं । आवत् ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सयुग्वा सहयुक्ताग्नेः सहायभूता गायत्र्यभवत् । यष्टव्यात्पजापतेर्मुखादजायत । देवतासु मध्येऽग्निश्चंदःसु गायत्री चोभावप्यजायेतामित्यर्थः । तथा च तैत्तिरीयकं । प्रजापतिरकामयत प्रजायेयेति स मुखतस्त्रिवृतं
+
+##### Gist of the bhāṣya
+
+The Gāyatrī, sayugvā, that is, joined with Agni as his helper, came into being: it was born from the mouth of Prajāpati, the one to be worshipped. Among the deities Agni and among the metres the Gāyatrī were both born. Accordingly the Taittirīya text says that Prajāpati desired to be born in offspring, and fashioned the Trivṛt from his mouth.
+
+### Printed p. 792
+
+> निरमिमात तमग्निर्देवतान्नसृज्यत गायत्री छंदः । तै. सं. ७-१-१-४ । इति । उष्णिहयोष्टिक्कृंदसा सह सविता देवः सं बभूव । तस्मात्प्रजापतेर्जज्ञॆ ॥ टापं चापि
+> हलंतानामिति वचनादुष्टिहशब्दाट्वाप् ॥ तथा महस्वांस्तेजस्वी सोम उक्तैः
+> स्तुतशस्त्रैरनुष्टुभानुष्टुप्पंदसा च सार्धं तस्मादेव प्रजापतेरजायत । तथा बृहस्पतेर्देवस्य वाचं वाक्यं बृहतीच्वंद आदत् । अरक्षत् । अगच्छद्वा । बृहत्या सार्धं
+> बृहस्पतिरपि तस्मात्प्रजापतेर्जज्ञ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Taittirīya text continues: Agni was created as deity, and the Gāyatrī as metre (Tai. Saṃ. 7-1-1-4). The god Savitṛ came into being together with the Uṣṇih metre; he too was born from Prajāpati. Soma, radiant, was born from that same Prajāpati together with the ukthas, that is, the praise-śastras, and with the Anuṣṭubh metre. The Bṛhatī metre took up, protected or went to the speech of the god Bṛhaspati; that is, Bṛhaspati too was born from Prajāpati together with Bṛhatī.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नेः (*agneḥ*)—to Agni
+- गायत्री (*gāyatrī*)—the Gāyatrī metre
+- सयुग्वा (*sayugvā*)—as a mantra that helps
+- अभवत् (*abhavat*)—became
+- सविता (*savitā*)—the god Savitṛ
+- उष्टिहया (*uṣṭihayā*)—together with the Uṣṇik metre
+- सं बभूव (*saṃ babhūva*)—to it
+- महस्वान् (*mahasvān*)—radiant
+- सोमः (*somaḥ*)—Soma
+- उक्षैः (*ukṣaiḥ*)—with ukthas
+- अनुष्टुभा (*anuṣṭubhā*)—and with the Anuṣṭup metre he became joined
+- बृहस्पतेः वाचं (*bṛhaspateḥ vācaṃ*)—the mantra that praises Bṛhaspati
+- बृहती (*bṛhatī*)—as one of the Bṛhatī metre
+- आवत् (*āvat*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+The Gāyatrī metre, that is, a mantra in the Gāyatrī metre, became a helper to Agni. The Uṣṇik metre became so to Savitṛ, ukthas and the Anuṣṭup metre to the radiant Soma, and the Bṛhatī metre to Bṛhaspati: mantras that help in praising them.
+
+##### English translation
+Gayatri became the associate of Agni, Savitri became combined with Ushnik, Soma radiant with sacred praises (was united) with Anushtubh, Brihati gave efficacy to the words of Brihaspathi.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the previous Ṛk the seer asked what the materials of the sacrifice were and what the gods used in performing it. In answer, in this Ṛk and the next he replies only to the question as to which metres were used. The ājya, paridhi and the other materials are not mentioned. This is because the metre is the essence of the sacrifice; so by describing the metres all the limbs of the sacrifice are as it were described, and the seer may have described only this with that thought. On the relation between sacrifice and metres the Taittirīya Saṃhitā says:
+
+### Printed p. 793
+
+प्रजापतिर्देवासुरानसृजत तदनु यज्ञोऽसृज्यत यज्ञं छंदाग्ंसि ते विष्टंचो व्यक्रामन्सोऽसुराननु यज्ञोपाक्रामद्यज्ञं छंदाग्ंसि ते देवा अमन्यंतामि वा इदमभूवन् यद्वयग्स्म इति ते प्रजापतिमुपधावन्सोऽब्रवीत्प्रजापतिश्चंदसां वीर्यमादाय तद्वः प्रदास्यामीति स छंदसां वीर्यमादाय तदेभ्यः प्रायच्छत्तदनु छंदाग्स्यपाक्राम ञ्छंदाग्ंसि यज्ञस्ततो देवा अभवनरासुरा य एवं छंदसां वीर्यं वेदा श्राव मास्तु शौषड्यज ये यजामहे वषट्कारो भवत्यात्मना परास्य भ्रातृव्यो भवति । (*prajāpatirdevāsurānasṛjata tadanu yajño 'sṛjyata yajñaṃ chaṃdāgṃsi te viṣṭaṃco vyakrāmanso 'surānanu yajñopākrāmadyajñaṃ chaṃdāgṃsi te devā amanyaṃtāmi vā idamabhūvan yadvayagsma iti te prajāpatimupadhāvanso 'bravītprajāpatiścaṃdasāṃ vīryamādāya tadvaḥ pradāsyāmīti sa chaṃdasāṃ vīryamādāya tadebhyaḥ prāyacchattadanu chaṃdāgsyapākrāma ñchaṃdāgṃsi yajñastato devā abhavanarāsurā ya evaṃ chaṃdasāṃ vīryaṃ vedā śrāva māstu śauṣaḍyaja ye yajāmahe vaṣaṭkāro bhavatyātmanā parāsya bhrātṛvyo bhavati |*) (Tai. Saṃ. 3-3-7-1, 2)
+
+Formerly Prajāpati created the gods and the asuras. Afterwards he created the sacrifice, and after the sacrifice he created the metres. Then the gods and asuras came to Prajāpati. The sacrifice then left Prajāpati and went after the asuras. When the sacrifice had gone, the metres followed it and went also. Seeing this the gods thought: "The sacrifice has left us and joined the asuras, so henceforth in battles and the like the asuras will defeat us and be victorious; we shall have to be defeated." They ran to Prajāpati and told him. Prajāpati addressed the gods: "O gods, do not be afraid; I shall gather the vīrya, the essence, of those metres and give it to you; by it you may be victorious." He took the essence of the metres and gave it to the gods. Because Prajāpati had taken the essence of the metres, the metres became powerless and, unable to do anything, left the asuras and came back to the gods. The sacrifice too followed those metres and came to the gods. When the sacrifice had come to them, the gods performed it and defeated the asuras. The essence (vīrya) of the metres is: āśrāvaya, astu śrauṣaṭ, yaja, ye yajāmahe, vaṣaṭkāra; these are the mantras that are the essence of the metres. Prajāpati took these and gave them to the gods. Whoever knows this becomes victorious and his enemies are defeated. Thus the relation of the metres to the sacrifice is told.
+
+अग्नेः गायत्री अभवत् सयुग्वा (*agneḥ gāyatrī abhavat sayugvā*)—Next it will be told which metres became dear to which deities, and with the mantras of which metre those deities are to be praised. As said above, mantras in the Gāyatrī metre are beneficial to Agni. For:
+
+प्रजापतिरकामत प्रजायेयेति स मुखतस्त्रिवृतं निरमिमीत तमग्निर्देवता- (*prajāpatirakāmata prajāyeyeti sa mukhatastrivṛtaṃ niramimīta tamagnirdevatā-*)
+
+### Printed p. 794
+
+न्वसृज्यत गायत्रीछंदो रथंतरग्ं साम ब्राह्मणो मनुष्याणामजः पशूनां तस्मात्ते मुख्या मुखतोऽह्यसृज्यंत ॥ (*nvasṛjyata gāyatrīchaṃdo rathaṃtaragṃ sāma brāhmaṇo manuṣyāṇāmajaḥ paśūnāṃ tasmātte mukhyā mukhato 'hyasṛjyaṃta ‖*) (Tai. Saṃ. 7-1-1-4)
+
+When Prajāpati created, he made from his mouth the Trivṛt stoma, Agni and the Gāyatrī metre. Therefore the Trivṛt stoma and the Gāyatrī metre are beneficial to Agni. Besides, because the Rathantara among the sāman mantras, the Brāhmaṇa among men and the goat among animals arose from Prajāpati's mouth, these have special pre-eminence. That is, in the sacrifice pre-eminence is stated for Agni, the Trivṛt stoma and the Gāyatrī metre.
+
+उष्णिहा सविता संबभूव (*uṣṇihā savitā saṃbabhūva*)—Mantras in the Uṣṇik metre became dear to the god Savitṛ. Therefore Savitṛ is to be praised with mantras of that metre.
+
+अनुष्टुभा सोमः उक्थैः महस्वान् (*anuṣṭubhā somaḥ ukthaiḥ mahasvān*)—The Anuṣṭup metre is dear to the radiant god Soma. Therefore Soma is praised at the midday pressing with mantras of that metre, and also with uktha mantras. The nature of the uktha mantras we have already explained at length (Part 8, p. 252).
+
+बृहस्पतेः बृहती वाचं आवत् (*bṛhaspateḥ bṛhatī vācaṃ āvat*)—The Bṛhatī metre became dear to Bṛhaspati. Therefore Bṛhaspati is to be praised with mantras in the Bṛhatī metre.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒राण्मि॒त्रावरु॑णयोरभि॒श्रीरिंद्र॑स्य त्रि॒ष्टुबि॒ह भा॒गो अह्नः॑ ।  
+> विश्वा॑न्दे॒वाङ्ग॒त्या वि॑वेश॒ तेन॑ चाक्लृप्र॒ ऋष॑यो मनु॒ष्याः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विराट् । मित्रावरुणयोः । अभिश्रीः । इंद्रस्य । त्रिस्तुप् । इह । भागः । अह्नः ।  
+> विश्वान् । देवान् । जगती । आ । विवेश । तेन । चाक्लृप्रे । ऋषयः । मनुष्याः ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपि च मित्रावरुणयोर्देवयोर्विराट्टंदोऽभिश्रीः । अभिश्रिता । आश्रितासीत् ।
+> निराजा सह मित्रावरुणावपि प्रजापतेः सकाशादजायेतामित्यर्थः। इहास्मिन्यज्ञेऽह्नः
+
+##### Gist of the bhāṣya
+
+Moreover the Virāṭ metre was the abhiśrī, "resorted to", of the gods Mitra and Varuṇa. Mitra and Varuṇa too were born from Prajāpati together with Virāṭ.
+
+### Printed p. 795
+
+> सवनत्रयरूपस्य भागो मध्यंदिनसवनाज्योऽंशस्त्रिष्टुष्टंदश्चेंद्रस्याभिश्रयणीयावास्तां । ताविंद्रश्च प्रजापतेः सकाशादजायंतेत्यर्थः । तथा च तैत्तिरीयकं ।
+> उरसो बाहुभ्यां पंचदशं निरमिमात तमिंद्रो देवतान्नसृज्यत तत्र त्रिष्टुप्पंदो बृहत्साम । तै. सं. ७-१-१-४ । इति । तथा विश्वान्सर्वानेवाण्ङगतीछंद आ विवेश ।
+> प्रविष्टवती । विश्वे देवा जगती च प्रजापतेरजायंतेत्यर्थः । तथा च तैत्तिरीयकं ।
+> तं विश्वे देवा देवता अन्वसृज्यंत जगती छंदो वैरूपं साम । तै. सं. ७-१ १-५ ।
+> इति । उक्तेन प्रकारेण प्रतिमा कासीत् छंदः किमासीत् प्रउगं किमुक्थमिति प्रयाणामुत्तरं जातं । अज्यं किमासीत् परिधिः क आसीदित्यनयोरुत्तरं पुरुषसूक्ते
+> द्रष्टव्यं । तत्र हैवमाम्नायते । देवा यज्ञमतन्वत वसंतो अस्यासीदाज्यं
+> ग्रीष्म इद्धः शरद्भविः । ऋ. १०-९० ६ । सप्तास्यासन्परिधयस्त्रिः सप्त समिधः कृताः ।
+> ऋ. १०-९०-१५ । इति । आयमर्थः । सर्वरसोत्पादको वसंतस्तस्य जगत्सर्जनसाधनस्य
+> यज्ञ स्याज्यमासीत् । आज्यदध्यादिभी रसै सार्धं तादृशो वसंतोऽजायतेत्यर्थः ।
+> सर्वरसानां शोषको ग्रीष्म ऋतुरिध्म आसीत् । शुष्कै काष्ठैः सार्धं ग्रीष्मोऽजायतेत्यर्थः । पच्यमानवीहियुक्तः शरदृतुस्तस्य यज्ञस्य हविरासीत् । सप्त
+> च्छंदांसि त्रिः सप्तैकविंशतिधा भूत्वाश्वादश समिधस्रयः परिधयश्चासन् । कासीत्प्रमा
+> प्रतिमा किं निदानमित्यनयोरपि प्रश्नॆयोरप्यवमुत्तरं पूर्वे विश्वसृजोऽमृताः
+> शतं वर्षसहस्राणि दीक्षिताः सत्रमासतेति एतेन वै विश्वसृज इदं विश्वमसृजंतेति च
+> तैत्तिरीयके । तै. ब्रा. ३-१२-९-२ रिंद ८ । समाम्नायते । अतस्तस्य यज्ञस्य सहस्रसंवत्सरपरिमितः कालः प्रमाणं । विश्वस्य जगतः सर्जनमादिकारणं प्रवर्तकं फलमित्यर्थः।
+> एतदुक्तं भवति । यदा विश्वसृजो देवा देवं प्रजापतिं विश्वसृजामयनाख्यॆन
+> यागेनायजन् तदोक्ताः सर्वयागोपकाराः प्रजापतेः सकाशादजायंतेति ।
+> यतोऽग्न्यादिदेवताभिः सह गायत्रादीनि सप्त चृंदांसि जातानि अतो हेतोस्तेषां छंदसामग्नादयो देवता इति । छंदोविचित् सूत्रितं च । अग्निः सविता
+> सोमो बृहस्पतिर्मित्रावरुणाविंद्रो विश्वे देवा देवताः । पिं. ३-६३ । इति । एवं
+> प्राजापत्यो यज्ञोऽनुष्ठितः । तेन यज्ञनर्षयो मनुष्याश्च चाक्लप्रे ।
+> चक्षुपिरे ! कृप्ताः सृष्टा आसन् ॥ कृपेः कर्मणि लिटीरयोरिति रेआदेशः । कृपो
+> रो लः । पा. ८-२-१८ । इति लत्वं । तुजादित्वादभ्यासदीर्घः ॥ तेनैव यज्ञेन सर्वं
+> जगदसृजन्नित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In this sacrifice the "share of the day" is the portion of the day's three pressings, the midday pressing, and the Triṣṭup metre: both were to be resorted to by Indra. They, and Indra, were born from Prajāpati. The Taittirīya text says: from the chest and the arms he fashioned the Pañcadaśa; Indra was created as the deity, and therein the Triṣṭup metre and the Bṛhat sāman (Tai. Saṃ. 7-1-1-4). Likewise the Jagatī metre entered all the Viśve Devāḥ; the Viśve Devāḥ and Jagatī were born from Prajāpati. The Taittirīya text says: after him the Viśve Devāḥ were created as deities, the Jagatī metre and the Vairūpa sāman (Tai. Saṃ. 7-1 1-5). In the manner stated, the questions "what was the pratimā?", "what was the metre?", "what was the pra-uga?" and "what was the uktha?" are answered. For the questions "what was the ājya?" and "what was the paridhi?" the answer is to be seen in the Puruṣa Sūkta, where it is said: the gods spread the sacrifice; spring was its ghee, summer its fuel, autumn its oblation (Ṛ. Saṃ. 10-90-6 **NOTE**); seven were its paridhis, thrice seven the sticks made (Ṛ. Saṃ. 10-90-15). The meaning is: spring, producer of all saps, was the ājya of that sacrifice, the means of creating the world; spring was born together with saps such as ghee and curds. Summer, which dries all saps, was the fuel; it was born with dry sticks. Autumn, with the ripening rice, was the oblation of that sacrifice. The seven metres, made twenty-one-fold, thrice seven, were the eighteen (?) sticks and the paridhis. **NOTE**. To the questions "what was the measure?", "what was the pratimā?" and "what was the nidāna?" the answer is in the Taittirīya text (Tai. Brā. 3-12-9-2 to 8): the former Viśvasṛjs, the immortals, consecrated, sat in a sattra for a hundred thousand years; by this the Viśvasṛjs created this universe. So the measure of that sacrifice is a time of a thousand years; and the creation of the whole world is the first cause, the impelling fruit. What is meant is this: when the Viśvasṛj gods worshipped the god Prajāpati with the sacrifice called Viśvasṛjām Ayana, all the aids of the sacrifice were born from Prajāpati. Since the seven metres, the Gāyatrī and the rest, were born together with Agni and the other deities, those deities are the deities of those metres. The writer on metre also says in a sūtra: the deities are Agni, Savitṛ, Soma, Bṛhaspati, Mitra and Varuṇa, Indra, the Viśve Devāḥ (Pi. 3-63). **NOTE** Thus the sacrifice of Prajāpati was performed. By it the seers and men were "fashioned" (cākl̥pre), created. He explains the form cākl̥pre as: of kṛp in the passive, in the liṭ, ending re (the substitution of ire); the change of r to l (Pā. 8-2-18); lengthening of the reduplication through the tujādi rule. By that very sacrifice they created the whole world.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणयोः (*mitrāvaruṇayoḥ*)—for Mitra and Varuṇa
+- विराट् (*virāṭ*)—the metre called Virāṭ
+- अभिश्रीः (*abhiśrīḥ*)—was the resort
+- इह (*iha*)—in this sacrifice
+- त्रिष्टुप् (*triṣṭup*)—the Triṣṭup metre
+
 ---
 
-**Progress note:** Done through printed p. 789. pp. 784-789 (batch API)
+**Progress note:** Done through printed p. 795. pp. 790-795 (batch API)
