@@ -11923,6 +11923,221 @@ When giving the Nirukta explanation of this Ṛk, he explains the relation betwe
 
 That is: in order to perform the acts of attendance, such as offering moving things such as animals into the fire (sacrificial rites and the like) and offering with kindling sticks and the like of the unmoving herbs and trees, one should approach the blazing fire, as cows approach their house (the cowshed), and serve it with ghee and other substances that are means of enjoyment. By such attendance on the fire, Agni, pleased, becomes the giver of enjoyment and the like to the wife and also to the husband. Because there is such a relation, that is, because he is the bestower of favour, Agni is called the protector of the wife. That such an Agni, O bride, is your husband, that is, your protector, is the chief meaning of the sentence तृतीयो अग्निष्टे पतिः (*tṛtīyo agniṣṭe patiḥ*) in the third pāda of the present Ṛk.
 
+### Printed p. 431
+
+#### Ṛk 41
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमो॑ ददद्गंध॒र्वाय॑ गंध॒र्वो द॑दद॒ग्नये॑ ।  
+> र॒यिं च॑ पु॒त्रांश्चा॑दा॒ग्निर्मह्य॒मथो॑ इ॒मां ॥ ४१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । ददत् । गंधर्वाय । गंधर्वः । ददत् । अग्नये ।  
+> रयिं । च । पुत्रान् । च । अदात् । अग्निः । मह्यं । अथो इति । इमां ॥ ४१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमो गंधर्वाय प्रथदुं ददत् । प्रादात् । गंधर्वोऽग्नये प्रादात् ।
+> अथो अपि चाग्निरिमां कन्यां रयिं धनं पुत्रांश्च मह्यमदात् ॥
+
+##### Gist of the bhāṣya
+
+Soma gave to the Gandharva first **NOTE**; he gave, offered. The Gandharva offered to Agni. And then Agni gave to me this maiden, wealth and sons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमः (*somaḥ*)—Soma
+- गंधर्वाय (*gaṃdharvāya*)—to the Gandharva
+- ददत् (*dadat*)—first gave the maiden
+- गंधर्वः (*gaṃdharvaḥ*)—the Gandharva
+- अग्नये ददत् (*agnaye dadat*)—afterwards gave to Agni
+- अथो (*atho*)—afterwards
+- अग्निः (*agniḥ*)—Agni
+- इमां (*imāṃ*)—this maiden
+- रयिं (*rayiṃ*)—wealth
+- पुत्रांश्च (*putrāṃśca*)—and sons
+- मह्यं (*mahyaṃ*)—to me
+- अदात् (*adāt*)—gave
+
+##### भावार्थ (Bhāvārtha)
+
+First Soma gave this maiden to the Gandharva. Afterwards the Gandharva gave her to Agni. In the end Agni gave me her, and together with her wealth and sons.
+
+##### English translation
+Soma gave her to the Gandharva ; the Gandharva gave her to Agni; Agni has given her to me and wealth and sons.
+
+#### Ṛk 42
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हैव स्तं॒ मा वि यौ॑ष्टं॒ विश्व॒मायु॒र्व्य॑श्नुतं ।  
+> क्रीळं॑तौ पु॒त्रैर्नप्तृ॑भि॒र्मोद॑मानौ॒ स्वे गृ॒हे ॥ ४२ ॥
+
+### Printed p. 432
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । एव । स्तं । मा । वि । यौष्टं । विश्वं । आयुः । वि । अश्नुतं ।  
+> क्रीळंतौ । पुत्रैः । नप्तृभिः । मोदमानौ । स्वे । गृहे ॥ ४२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इहैव स्तं । इहैवास्मिंल्लोके स्तं । भवतं। मा वि यौष्टं । मा पृथग्भूतं।
+> विश्वमायुर्व्यश्नुतं । प्राप्तुतं । किंच पुत्रैर्नप्तृभिः पौत्रैः सह स्वे गृहे
+> मोदमाना भवतमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Remain here itself, in this world: be. Do not be separated. Attain the whole span of life. And further, with sons and नप्तृभिः (*naptṛbhiḥ*), that is, grandsons, be rejoicing in your own house: the word "be" is the remainder to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इहैव स्तं (*ihaiva staṃ*)—(O maiden) let us be in this world itself
+- मा वियौष्टं (*mā viyauṣṭaṃ*)—let us not be separated
+- स्वे गृहे (*sve gṛhe*)—in our own house
+- पुत्रैः (*putraiḥ*)—with sons
+- नप्तृभिः (*naptṛbhiḥ*)—with grandsons
+- क्रीळंतौ (*krīḷaṃtau*)—playing
+- मोदमानौ (*modamānau*)—experiencing joy
+- विश्वं आयुः (*viśvaṃ āyuḥ*)—the full span of life
+- व्यश्नुतं (*vyaśnutaṃ*)—let us enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O maiden, let us be in this world itself; let us not be separated; in our own house, with sons and with grandsons, playing and experiencing joy, let us enjoy the full span of life.
+
+##### English translation
+Abide here together; may you never be separated; live together all your lives, sporting with sons and grand-sons, happy in your own home
+
+##### विशेषविषयगळु (Special Topics)
+
+In explaining the sentence अर्थवंतः शॆब्दसामान्यात् (*arthavaṃtaḥ śèbdasāmānyāt*) Yāska has spoken thus. As a rule, the meaning that words have in common use is the very meaning to be stated in each context. Only in some special contexts do words have both a general meaning and a special meaning. In this matter he cites
+
+एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियामाणमृग्यजुर्वाभिवदतीति च ब्राह्मणं । क्रीळंतौ पुत्रैर्नप्तृभिरिति ॥ (*etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyāmāṇamṛgyajurvābhivadatīti ca brāhmaṇaṃ | krīḷaṃtau putrairnaptṛbhiriti ‖*) (Ni. 1.16)
+
+### Printed p. 433
+
+as a Brāhmaṇa sentence. Its meaning is this. When a rite is performed in a sacrifice and the like, the mantra relating to it has to be recited. The mantra recited on that occasion must accord with that rite, that is, it must be related to the matter stated in that rite. When there is such a mutual relation between the mantra and the rite, it is called समृद्ध (*samṛddha*) or रूपसमृद्ध (*rūpasamṛddha*). रूपसमृद्ध (*rūpasamṛddha*) means that, in accordance with the form of the rite, the mantra recited, whether a Ṛk or a Yajus, must be related to that very rite. Only so is that rite duly completed and the appointed fruit obtained. If there is no mutual relation between the rite performed and the mantra recited, it cannot be called समृद्ध (*samṛddha*) or रूपसमृद्ध (*rūpasamṛddha*).
+
+Another kind of meaning also is in use for the word समृद्ध (*samṛddha*). On this occasion समृद्ध (*samṛddha*) means the abundant attainment of the means of worldly happiness, such as food, wealth, house, sons and the like. These are called समृद्धि (*samṛddhi*) or समृद्ध (*samṛddha*). To explain a meaning of this kind Yāska has given as an example the sentence क्रीळंतौ पुत्रैर्नप्तृभिर्मोदमानौ स्वे गृहे (*krīḷaṃtau putrairnaptṛbhirmodamānau sve gṛhe*) in the present Ṛk. In this sentence the bridegroom, addressing the bride, says: O bride, let us both, enjoying happiness and delight with the sons we shall obtain in the future and with grandsons, dwell in a house of our own. The word समृद्ध (*samṛddha*) here denotes both the obtaining of offspring such as sons and grandsons, and dwelling with them in a house of one's own with happiness, delight and the like, without the experience of sorrow and the like.
+
+#### Ṛk 43
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ प्र॒जां ज॑नयतु प्र॒जाप॑तिराजर॒साय॒ सम॑नक्त्यर्य॒मा।  
+> अदु॑र्मंगलीः पतिलो॒कमा वि॑श॒ शं नो॑ भव द्वि॒पदे॒ शं  ॑
+> चतुष्पदे ॥ ४३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । प्रजां । जनयतु । प्रजापतिः । आजरसाय । सं । अनक्तु । अर्यमा ।  
+> अदुःमंगलीः । पतिलोकं । आ । विश । शं । नः । भव । द्विपदे । शं । चतुःपदे॥
+
+### Printed p. 434
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृहप्रवेश आ नः प्रजां जनयत्वित्याद्याश्चतस्रो होमार्थाः । सूत्रितं च ।
+> आ नः प्रजां जनयतु प्रजापतिरिति चतसृभिः प्रत्यृचं हुत्वा । अ. गृ. १-८-९ । इति ॥
+> प्रजापतिर्देवो नोऽस्माकं प्रजामा जनयतु । अर्यमा चाजरसाय
+> जरापर्यंतं जीवनाय समनक्तु! संगमयतु । सा। त्वमदुर्मंगलीर्दुमंगलरहिता सुमंगली । यद्वा । या मंगलाचारान्सूषयति सा दुर्मंगली ।
+> ततोऽन्यादुर्मंगली । तादृशी सती पतिलोकं पतिसमीपमा विश । प्राप्नुहि ।
+> नोऽस्माकं द्विपदे शं भव । तथा च शं चतुष्पदे भव ॥
+
+##### Gist of the bhāṣya
+
+At the house-entry the four Ṛks beginning आ नः प्रजां जनयतु (*ā naḥ prajāṃ janayatu*) are for the homa. It is laid down in the sūtra: आ नः प्रजां जनयतु प्रजापतिरिति चतसृभिः प्रत्यृचं हुत्वा (*ā naḥ prajāṃ janayatu prajāpatiriti catasṛbhiḥ pratyṛcaṃ hutvā*) (A. Gṛ. 1-8-9 **NOTE**). May the god Prajāpati beget offspring for us. And may Aryaman bring us together for life up to old age. You, अदुर्मंगलीः (*adurmaṃgalīḥ*), free from inauspiciousness, are a sumaṅgalī. Or else: she who spoils **NOTE** auspicious observances is durmaṅgalī; the other is adurmaṅgalī. Being such, enter, reach, your husband's abode, that is, the neighbourhood of your husband. Be a source of welfare to our bipeds, and likewise a source of welfare to our quadrupeds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रजापतिः (*prajāpatiḥ*)—Prajāpati
+- नः (*naḥ*)—to us
+- प्रजां (*prajāṃ*)—sons
+- आ जनयतु (*ā janayatu*)—may he bestow
+- अर्यमा (*aryamā*)—Aryaman
+- आजरसाय (*ājarasāya*)—to live until old age
+- समनक्तु (*samanaktu*)—may he keep us together (O maiden)
+- अदुर्मंगलीः (*adurmaṃgalīḥ*)—without marks that cause ruin
+- पतिलोकं (*patilokaṃ*)—your husband's house
+- आ विश (*ā viśa*)—enter
+- नः (*naḥ*)—our
+- द्विपदे (*dvipade*)—to sons and the like
+- शं भव (*śaṃ bhava*)—be a bringer of good fortune
+- चतुष्पदे (*catuṣpade*)—to cattle and the like
+- शं (*śaṃ*)—be a bringer of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+May Prajāpati bestow sons upon us. May Aryaman favour us so that we remain together up to old age. O maiden, enter your husband's house without marks that cause ruin. Bring good to our sons and the like, and to our cattle and the like.
+
+##### English translation
+May Prajapati grant us progeny, may Aryaman unite us together until old age ; free from all evil omens enter your husband's abode, be the bringer of prosperity to our bipeds and quadrupeds.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the house-entry homa performed at the time of marriage, the four Ṛks beginning आ नः प्रजां जनयतु (*ā naḥ prajāṃ janayatu*) are to be recited and the principal oblation offered, as set forth by the sūtra of the Āśvalāyana-gṛhya-sūtra आ नः प्रजां जनयतु प्रजापतिरिति चतसृभिः प्रत्यृचं हुत्वा (*ā naḥ prajāṃ janayatu prajāpatiriti catasṛbhiḥ pratyṛcaṃ hutvā*) (Ā. Gṛ. 1-8-9 **NOTE**).
+
+### Printed p. 435
+
+आ नः प्रजां जनयतु प्रजापतिः (*ā naḥ prajāṃ janayatu prajāpatiḥ*)—प्रजापतिर्देवोऽस्माकं प्रजां जनयतु । (*prajāpatirdevo 'smākaṃ prajāṃ janayatu |*) May Prajāpati, the lord of all, bring about offspring and the like for us, the newly wedded couple: thus the husband, or the newly married couple, desire, or they pray to Prajāpati.
+
+आजरसाय सं अनक्तु अर्यमा (*ājarasāya saṃ anaktu aryamā*)—देवोऽर्यमा च जरापर्यंतं जीवनाय संगमयतु । (*devo 'ryamā ca jarāparyaṃtaṃ jīvanāya saṃgamayatu |*) May the god called Aryaman also grant that we, the couple, do not part from each other until we grow old through the slackening of the body, that is, as long as we live.
+
+अदुर्मंगलीः पतिलोकं आ विश (*adurmaṃgalīḥ patilokaṃ ā viśa*)—Here two kinds of meaning can be given for the word अदुर्मंगलीः (*adurmaṃgalīḥ*). मंगल (*maṃgala*) means good, welfare, what is auspicious. दुर्मंगल (*durmaṃgala*) means what is not मंगल (*maṃgala*), what is inauspicious. दुर्मंगलीः (*durmaṃgalīḥ*) means a woman who is not auspicious, not propitious, of bad disposition; अदुर्मंगलीः (*adurmaṃgalīḥ*) means one who is not दुर्मंगली (*durmaṃgalī*), not of bad disposition, not inauspicious, that is, a woman of good disposition, who brings welfare, auspicious or bestowing auspiciousness, a sumaṅgalī, a virtuous wife. Or else, मंगलाचारान् दूषयति सा दुर्मंगली । ततोऽन्या अदुर्मंगलीः (*maṃgalācārān dūṣayati sā durmaṃgalī | tato 'nyā adurmaṃgalīḥ*): she who disparages, or hates, or has no interest in, or does not practise, excellent and auspicious good acts such as worship of the gods is called दुर्मंगली (*durmaṃgalī*). A woman of the opposite disposition is called अदुर्मंगलीः (*adurmaṃgalīḥ*); that is, a woman with good qualities, such as good conduct and the practice of auspicious rites, is called अदुर्मंगलि (*adurmaṃgali*) or sumaṅgalī. In this sentence the meaning is stated: O bride, you, endowed with the good qualities spoken of above and a sumaṅgalī, go to the place where your husband is, that is, come into your husband's nearness.
+
+शं नो भव द्विपदे शं चतुष्पदे (*śaṃ no bhava dvipade śaṃ catuṣpade*)—Here द्विपदे (*dvipade*) means men, who have two feet; चतुष्पदे (*catuṣpade*) means animals such as cows, which have four feet. O bride, after you have reached your husband's house, be agreeable, speaking good words, to your husband's kinsmen there, the brother-in-law, mother-in-law, father-in-law and the like, and to the servants and the rest of the household; and in regard to the animals in the house, the cows, horses and the like, behave with kindness and compassion and look after their welfare properly: this is the chief meaning of this sentence.
+
+#### Ṛk 44
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अघो॑रचक्षु॒रप॑तिघ्न्येधि शि॒वा प॒शुभ्यः॑ सु॒मनाः॑ सु॒वर्चाः॑ ।  
+> वी॒र॒सूर्दे॒वका॑मा स्यो॒ना शं नो॑ भव द्वि॒पदे॒ शं चतु॑ष्पदे॥
+
+### Printed p. 436
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अघोरचक्षुः । अपतिघ्नी । विधि । शिवा । पशुभ्यः । सुमनाः । सुवर्चाः ।  
+> वीरसूः । देवकामा । स्नोना । शं । नः । भव । द्विपदे । शं । चतुःपदे ॥४४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वधु त्वमघोरचक्षुः क्रोधादभयंकरचक्षुरेधि । भव । तथापतिघ्नी
+> भव । तथा पशुभ्यः शिवा हितकरी भव । सुमनाः सुवर्चाश्च भव । वीरसूः पुत्राणामेव प्रसवित्रि देवकामा स्कोना सुखिकरा च भव ॥
+
+##### Gist of the bhāṣya
+
+O bride, be one whose eye is not terrible, whose eye is not fearful through anger. Likewise be not a slayer of your husband. Likewise be auspicious, beneficial, to the cattle. Be well-minded and of good lustre. Be वीरसूः (*vīrasūḥ*), the bearer of sons only, be devoted to the gods, and be स्कोना (*skonā*) **NOTE**, a giver of happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—(O bride) you
+- अघोरचक्षुः (*aghoracakṣuḥ*)—without a terrible look
+- विधि (*vidhi*)—approach your husband
+- अपतिघ्नी (*apatighnī*)—do not wish your husband harm
+- पशुभ्यः (*paśubhyaḥ*)—to the cattle
+- शिवा (*śivā*)—be beneficial
+- सुमनाः (*sumanāḥ*)—be pleasant-faced
+- सुवर्चाः (*suvarcāḥ*)—be of good lustre
+- वीरसूः (*vīrasūḥ*)—one who bears heroic sons
+- देवकामा (*devakāmā*)—one devoted to the worship of the gods
+- स्कोना (*skonā*)—and be a bringer of happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O bride, approach your husband without a terrible look (a cruel glance). Do not wish your husband harm. Be beneficial to the cattle, pleasant-faced and full of lustre. Bear heroic sons, be devoted to the worship of the gods, and be a bringer of happiness.
+
+##### English translation
+(Look upon your husband) with no angry eye, be not hostile to your lord, be tender to animals, be amiable, be very glorious; be the mother of males, be devoted to the gods, be the bestower of happiness, be the bringer of prosperity to our bipeds and quadrupeds,
+
+##### विशेषविषयगळु (Special Topics)
+
+आघोरचक्षुः (*āghoracakṣuḥ*)—It is desired that the bride's look be gentle and not cruel through anger and the like, and that the bride be of a smiling countenance. Whether women or men, the expression of the face depends on the eyes. If there are anger, grief and the like in the mind, they show in the eyes and spoil the very beauty of the face. If, on the other hand, there are joy in the mind and friendliness, kindness and a helpful spirit towards others, the eyes are gentle and agreeable and increase the beauty of the face. Therefore it is said here that the bride should be of a gentle look.
+
 ---
 
-**Progress note:** Done through printed p. 430. Vol 29 pp. 425-430, Ṛk 37 end to Ṛk 40 (Maṇḍala 10 Sūkta 85)
+**Progress note:** Done through printed p. 436. Vol 29 pp. 431-436, Ṛk 41 to Ṛk 44 (Maṇḍala 10 Sūkta 85)
