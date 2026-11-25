@@ -6202,6 +6202,241 @@ pratyarthināṃ prāṇāniti nṛpāṇaḥ | sa tādṛśo yuṣmadīyaḥ kh
 > आ । वः । धियं । यज्ञियां । वर्ते । ऊतये । देवाः । देवीं । यजतां । यज्ञियां । इह ।  
 > सा । नः । दुहीयत् । यवसा इव । गत्वी । सहस्रधारा । पयसा । मही । गौः ॥ ९ ॥
 
+### Printed p. 165
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः स्तोतार ऋत्विजः वो युष्माकमूतये यज्ञियां यज्ञार्हां
+> धियं बुद्धिमा वर्ते । प्रवर्तये । यद्वा ! हे देवा ऋत्विजः वो यज्ञियां
+> धियं युष्माकं कर्तव्यत्वेन संबंधिनीमस्माकमूतये रक्षणाया वर्ते । अपि च
+> देवा एव संबोध्याः । हे देवाः वो युष्माकं धियं बुद्धिमा वर्ते । आवर्तयामि । किमर्थं । ऊतयेऽस्माकं रक्षणाय । कीदृशीं धियं । यज्ञियां
+> यज्ञार्हां देवीं द्योतमानां यजतां पूज्यां ! इहास्मिन्यागेऽस्यां भूमौ
+> ना । एको यज्जियामिति शब्दः पूरणः ! सा धीर्नोऽस्माकं दुहीयत् । दुह्यात् ।
+> तत्र दृष्टांतः । यवसेव यवसानि भक्षयित्त्वेव गत्वी पुनर्गोष्णं गत्वा! पीतीतिवत् ।
+> पयसा सहस्रधारा मही महती गौर्यथा दुग्धे तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the gods as the officiating priests who are the praisers. "O gods, for your protection I turn towards us your sacrificially worthy thought." Alternatively: O gods, the priests, I turn towards us, for our protection, your thought that is to be done by you and belongs to you, a thought worthy of sacrifice. Or again the gods alone are addressed: "O gods, I bring round your thought, for our protection." The thought is described as worthy of sacrifice, shining (divine) and worthy of worship, here at this sacrifice, on this earth. The word "यज्ञियां (*yajñiyāṃ*)" is a filler. May that thought milk out for us. The illustration: like a large cow that has eaten fodder, gone back to the cow-pen, and yields milk in a thousand streams.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- इह (*iha*)—here
+- ऊतये (*ūtaye*)—for protection
+- वः (*vaḥ*)—your
+- यज्ञियां (*yajñiyāṃ*)—worthy of worship
+- देवीं (*devīṃ*)—shining
+- यज्ञियां (*yajñiyāṃ*)—worthy of sacrifice
+- यजतां (*yajatāṃ*)—fit for worship
+- धियं (*dhiyaṃ*)—your gracious mind
+- आ वर्ते (*ā varte*)—I draw towards us
+- यवसा (*yavasā*)—having been satisfied with grass and the like
+- गत्वी (*gatvī*)—having gone to the cow-pen
+- पयसा (*payasā*)—in the form of milk
+- सहस्रधारा (*sahasradhārā*)—having many streams
+- मही (*mahī*)—great
+- गौः इव (*gauḥ iva*)—like a cow
+- सा (*sā*)—that gracious mind of yours
+- नः (*naḥ*)—to us
+- दुहीयत् (*duhīyat*)—may it pour out desired things
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, I draw towards us, for our protection, your gracious mind, which is worthy of worship, shining and fit for sacrifice. Like a great cow that, satisfied with grass and the like, has gone to the cow-pen and pours out many streams of milk, may your gracious mind pour out desired things for us.
+
+##### English translation
+I attract, O gods for my protection, your adorable, divine mind, which is deserving of sacrifice and worship here; may it milk forth for us, like a large cow with milk, giving a thousand streams, (having eaten) fodder and returned.
+
+### Printed p. 166
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू षिं॑च॒ हरि॑मां॒ द्रोरु॒पस्थे॒ वाशी॑भिस्तक्षताश्म॒न्मया॑भिः ।  
+> परि॑ ष्वजध्वं॒ दश॑ क॒क्ष्या॑भिरु॒भे धुरौ॒ प्रति॒ वह्निं॑ युनक्त ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । सिंच । हरिं । ईं । द्रोः । उपस्थे । वाशीभिः । तक्षत । अश्मन्मयाभिः ।  
+> परि । स्वजध्वं । दश । कक्ष्याभिः । उभे इति । धुरौ । प्रति । वह्निं । युनक्त ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यो त्वमेनं हरिं हरितवर्णं सोमं द्रोर्द्रुमविकारस्य
+> पात्रस्कोपस्थ उपर्या सिंच । आसेकं कुरु । त्विति पूरणः । तदर्थं हे पात्रसंपादिनः अश्मन्मयीभिरयःशिलासारभूताभिर्वाशीभिस्तक्षत पात्राणि ॥ नकारोपजनश्चांदसः।
+> मयटः टित्त्वाद्‌जेप् ॥ तानि पात्राणि सोमपूर्णानि दश दशसंख्याकानि कक्ष्याभिः
+> प्रकार्यैः पर्यायेण परि ष्वजध्वं । संस्कुरुध्वं । आसादयत । यद्वा । वाशीभिरश्य
+> न्मयीभिर्हविर्धानशकटे तक्षत । ते च दश कक्ष्याभिर्दशसंख्याकाभी रज्जुभिः परि ष्वजध्वंउभे धुरौ युगसंबंधिन्यौ प्रति वह्नि वाहकावनड्वाहौ युनक्त । अथवायं
+> मंत्रश्चयनक्षेत्रकर्षणसाधनहलाविषयतया व्याख्येयः ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryu, pour this tawny (greenish-yellow) Soma into the lap of the wooden vessel, the "dru" (wood-product); "tu" is a filler. For that purpose, O makers of vessels, fashion the vessels with adzes of stone-like, iron-hard quality. Those vessels, filled with Soma, ten in number, should in turn be encircled with girths, i.e. arranged and set in place. Alternatively: fashion with the stone adzes the Havirdhāna waggon, and gird it with ten ropes; yoke the beast of burden to both poles of the yoke. Or else this mantra may be explained as referring to ploughing, the plough being the instrument for working the field.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryu) ईं हरिं (*īṃ hariṃ*)—this Soma
+- द्रोः उपस्थी (*droḥ upasthī*)—in a vessel made of wood
+- आ सिंच (*ā siṃca*)—pour
+- अश्मन्मयीभिः (*aśmanmayībhiḥ*)—made of stones like steel
+- वाशीभिः (*vāśībhiḥ*)—with hammers
+- तक्षत (*takṣata*)—prepare the vessels
+- दश कक्ष्याभिः (*daśa kakṣyābhiḥ*)—with ten cords
+- परिष्वजध्वं (*pariṣvajadhvaṃ*)—encircle, bind and adorn
+- उभे धुरौ (*ubhe dhurau*)—on both sides of the yoke
+- वह्निं (*vahniṃ*)—the ox that bears the load
+- प्रति युनक्त (*prati yunakta*)—join and bind to the yoke
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, pour this Soma into the vessel made of wood. Prepare the vessels with hammers made of steel-like stones. Encircle and adorn them with ten cords. Join and bind the load-bearing ox to the yoke on both its sides.
+
+### Printed p. 167
+
+##### English translation
+Pour out the golden-tinted Soma into the bowl of the wooden cup, fabricate it with the stone axes, gird it with ten bands, harness the beast of burden to the two poles (of the waggon).
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word "वाशी (*vāśī*)", Yāska has given an etymology for the first half of this Ṛk:
+वाशी । आ तू षिंच हरिमीं द्रोरुपस्थे वाशीभिस्तक्षताश्मन्मयाभिः ॥ आसिंच हरिं द्रोरुपस्थे । द्रुममयस्य हरिः सोमो हरितवर्णः । अयमहीतरो हरिरेतस्मादेव । वाशीभिस्तक्षताश्मन्मयाभिः । वाशीभिरश्ममयाभिरिति ना वाग्निरिति ना ॥ (*vāśī | ā tū ṣiṃca harimīṃ drorupasthe vāśībhistakṣatāśmanmayābhiḥ ‖ āsiṃca hariṃ drorupasthe | drumamayasya hariḥ somo haritavarṇaḥ | ayamahītaro hariretasmādeva | vāśībhistakṣatāśmanmayābhiḥ | vāśībhiraśmamayābhiriti nā vāgniriti nā ‖*) (Ni. 4-19)
+
+"Ā siñca hariṃ droḥ upasthe": (O Adhvaryu) pour the Soma-juice, of shining golden hue (haritavarṇa), into the vessel made of wood (or onto the pressing-boards). "Dru" means a tree. "Dror upasthe" means in the vessel made of wood, that is, in the wooden vessel in which the Soma-juice is collected and kept. It is called the Droṇakalaśa.
+
+"हरिः सोमो हरितवर्णः अयमपीतरो हरिरेतस्मादेव (*hariḥ somo haritavarṇaḥ ayamapītaro hariretasmādeva*)": here "हरिं (*hariṃ*)" means the Soma-juice of tawny hue. When the juice is pressed from the Soma plants it gleams like the colour of gold. The word hari also means a monkey; as the monkey's colour is also tawny, it is customary to call the monkey "hari".
+
+"वाशीभिरश्मयीभिरिति वा वाग्निरिति वा तक्षत (*vāśībhiraśmayībhiriti vā vāgniriti vā takṣata*)": this sentence can be given two kinds of meaning. The word "अश्मयीभिः (*aśmayībhiḥ*)", formed from the root "अशू व्याप्तौ (*aśū vyāptau*)", means "all-pervading". "वाशीभिः (*vāśībhiḥ*)" means "by vāgnis marked by praise", i.e. by speeches in the form of praise. Hence: O priests, prepare this Soma with all-pervading words in the form of praise. With mantras and hymns that extol the deity Soma, praise and prepare this Soma: this is one kind of meaning.
+
+"वाशीभिः (*vāśībhiḥ*)" also means with hammers or chisels; "अश्मयीभिः (*aśmayībhiḥ*)" means made of stone. So for the first half of this Ṛk another meaning is: O priests, pour the tawny Soma-juice into the wooden vessel made with hammers made of stone, or made of metals and the like as hard as stone
+
+### Printed p. 168
+
+(continuing) …that are fashioned.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भे धुरौ॒ वह्नि॑रा॒पिब्द॑मानो॒ऽंतर्योने॑व चरति द्वि॒जानिः॑ ।  
+> वन॒स्पतिं॒ वन॒ आस्था॑पयध्वं॒ नि षू द॑धिध्व॒मख॑नंत॒ उत्सं॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभे इति । धुरौ । वह्निः । आपिब्दमानः । अंतः । योनाइव । चरति । द्विजानिः ।  
+> वनस्पतिं । वने । आ । अस्थापयध्वं । नि । सु । दधिध्वं । अखनंतः । उत्सं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हविर्धानशकटस्योभे धुरावापिब्बमान आपिशब्दमानो वह्निर्वहनिर्वाहकोऽनड्वान् योनावंतरिव द्विजानिर्द्विजायः । तयोरंतश्चरति । तं वनस्पतिं
+> वनस्पतिविकारं शकटं वने वनसंबंधिनि वृक्षे । मेथीभूत इत्यर्थः । तत्रास्थापयध्वं।
+> यद्वा । वने वननीये देश आस्थापयध्वं । तत्पश्चात्तत्रत्यं सोमं सु सुष्टु नि
+> दधिध्वं । सुखं यथा भवति तथा स्थापयतासंद्यां । अभिषवप्रदेशे च पश्चादुत्सं
+> तद्रसमखनंतः संपादयतेत्यर्थः ॥ अथवायमपि मंत्रः कर्षणपरो व्याख्येयः।
+> यस्य लांगलस्योभे धुरावापिब्बमानोऽपिशब्दमानो वह्निरनड्वान् अंतर्योना
+> विवेत्यादि समानं । तादृशं वनस्पतिं वनस्पतिविकारं लांगलं वने वननीये
+> वपनार्थं कर्षणप्रदेश आस्थापयध्वं । सु सुष्टु सर्वत्र तं लांगलं नि दधिध्वं ।
+> उत्सं सेकसाधनं गर्तं सिक्तं वा प्रदेशमखनंतः ॥
+
+##### Gist of the bhāṣya
+
+The ox, the bearer, making a sound, goes between the two poles of the Havirdhāna waggon, like a man with two wives between the two ("द्विजानि (*dvijāni*)" = *dvijāyaḥ*). That waggon, a product of a tree, set it up in the forest, in a tree of the forest—so, joined with a tree. Or: set it up in a wooded, pleasing place. Afterwards place the Soma there well and comfortably, and at the pressing-place dig out the juice. Or else this mantra too may be explained as referring to ploughing: the ox yoked to both poles of the plough goes between them making a sound, as above; set up that wooden plough in a pleasing place for sowing, in the ploughing area; set it down everywhere, digging a trench ("utsa", a means of irrigation) or watered ground.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विजानिः (*dvijāniḥ*)—as a man with two wives is between the two
+- उभे धुरौ (*ubhe dhurau*)—between the two yokes, or between the two ends of the yoke (where yoked)
+- वह्निः (*vahniḥ*)—the bull that draws the cart filled with the oblation, i.e. Soma plants
+- आपिब्धमानः (*āpibdhamānaḥ*)—making a sound
+- अंतः योनेव (*aṃtaḥ yoneva*)—in the middle of the sacrificial ground
+- चरति (*carati*)—moves about (O priests)
+- वनस्पतिं (*vanaspatiṃ*)—that cart (made of wood)
+- वने (*vane*)—under a tree or in the forest
+
+### Printed p. 169
+
+- आस्थापयध्वं (*āsthāpayadhvaṃ*)—stop it (and in that cart)
+- सु नि दधिध्वं (*su ni dadhidhvaṃ*)—fill the Soma plants so that it is full (afterwards, in the place where the Soma plants are crushed)
+- उत्सं (*utsaṃ*)—that Soma-juice
+- अखनंतः (*akhanaṃtaḥ*)—press out
+
+##### भावार्थ (Bhāvārtha)
+
+As a man with two wives moves between them, so the bull yoked between the two ends of the yoke comes into the sacrificial altar drawing the cart filled with the oblation, that is, Soma plants. O priests, to bring the Soma plants, take that wooden cart to the forest region where the Soma plants grow and stop it there, and fill the cart with Soma plants till full. Afterwards, when the Soma plants have been brought to the altar, crush those plants and press out the juice.
+
+##### English translation
+The beast of burden pressed within the two waggon-poles, moves as if on the womb of sacrifice having two wives. Place the chariot in the wood, without digging store up the juice.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Soma-oriented meaning of this Ṛk has been explained above; the commentator has also explained another meaning, relating to the plough, as possible.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्विजानि (*dvijāni*)—as a man with two wives moves between the two
+- उभे धुरौ (*ubhe dhurau*)—yoked between the two ends of the plough
+- वह्निः (*vahniḥ*)—the bull
+- आपिब्बमानः (*āpibbamānaḥ*)—making a sound
+- अंतः योनाविव (*aṃtaḥ yonāviva*)—in the middle of the field (the earth)
+- चरति (*carati*)—moves (O farmers)
+- वनस्पतिं (*vanaspatiṃ*)—the plough made of wood
+- वने (*vane*)—in the field, for ploughing
+- आस्थापयध्वं (*āsthāpayadhvaṃ*)—take and set down
+- सु (*su*)—well, or everywhere
+- नि दधिध्वं (*ni dadhidhvaṃ*)—plough (the earth with the plough)
+- उत्सं (*utsaṃ*)—a well of water, to channel water to the field
+- अखनंतः (*akhanaṃtaḥ*)—dig
+
+##### भावार्थ (Bhāvārtha)
+
+As a man with two wives moves between them, the bull yoked between the two ends of the plough draws the plough in the middle of the field, making a sound. O farmers,
+
+### Printed p. 170
+
+take the wooden plough there to plough the ground, and plough the ground well. Dig a well there to channel water.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कपृ॑न्नरः कपृ॒थमुद्द॑धातन चो॒दय॑त खु॒दत॒ वाज॑सातये ।  
+> नि॒ष्टि॒ग्र्यः॑ पु॒त्रमा च्या॑वयो॒तय॒ इंद्रं॑ स॒बाध॑ इ॒ह सोम॑पीतये ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कपृत् । नरः । कपृथं । उत् । दधातन । चोदयत । खुदत । वाजसातये ।  
+> निष्टिग्र्यः । पुत्रं । आ । च्यवय । ऊतये । इंद्रं । सबाधः । इह । सोमपीतये॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> षष्ठेऽहनि ब्राह्मणाच्छंसिशस्त्रे कपृन्नर इत्येषा । कपृन्नरो यद्ध प्राचीरजगंतेति चैते । आ. ८-३ । इति ॥
+> हे नरो नेतार ऋत्विजः एष इंद्रः कपृत् । सुखस्य पूरको यष्टणां
+> स्तोतृणां च । कमिति सखनाम । तं कपृथं सुखस्य पूरयितारमिंद्रं चोदयत ।
+> प्रेरयत । खुदत । खुर्दत । क्रीडयत ॥ खुर्द क्रीडायां भौवादिकः । व्यत्ययेन
+> शः । रेफलोपश्चांदसः ॥ संपिंष्ट! संस्कुरुतेत्यर्थः । किमर्थ० । वाजसातयेऽन्नस्य
+> लाभाय । तदेवाह । हे होतः निष्कग्र्यः पुत्रं । निष्ठिं दितिं स्वसपत्नीं गिरतीति
+> निष्टिग्रीरदितिः । तस्याः पुत्रमिंद्रं सबाधः । सह पापैः प्रयासरूपैः कर्मभिर्बाध्यंत
+> इति सबाध ऋत्विजः । तथाविधा यूयं सोमपीतये तस्य सोमपानायोतयेऽस्माकं रक्षणाय वा च्यवय ॥ व्यत्ययेनैकवचनं । आच्यावयतेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Use: on the sixth day, in the Brāhmaṇācchaṃsin's śastra, the verse "kapṛn naraḥ", and "kapṛn naro yad dha prācīr ajagantā" are these (Ā. 8-3). O leaders, priests: this Indra is "कपृत् (*kapṛt*)", the fulfiller of happiness of sacrificers and praisers ("kam" is a name for happiness). Impel (codayata) that Indra, the fulfiller of happiness. "Khudata" is "khurdata": make sport. "Khurda" is a root of the bhū class meaning play; the ending *śa* by vyatyaya, and loss of r in the Veda. Or: grind together and prepare. For what? For the winning of food. He says this: O Hotṛ, the son of Niṣṭigrī: Niṣṭigrī is Aditi, who swallows her co-wife Diti. Indra, her son, with the priests "सबाधः (*sabādhaḥ*)", who are troubled together with sins by toilsome rites. Such as you are, bring him over for the drinking of Soma, or for our protection; "cyavaya" is a singular by vyatyaya, meaning "make him come".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरः (*naraḥ*)—O priests, leaders of rites; this Indra
+- कपृत् (*kapṛt*)—is the giver of happiness
+- कपृथं (*kapṛthaṃ*)—this Indra, the bestower of happiness
+- चोदयत (*codayata*)—impel
+- उद्दधातन (*uddadhātana*)—rouse up
+- वाजसातये (*vājasātaye*)—for gaining food
+- खुदत (*khudata*)—sport with him
+- सबाधः (*sabādhaḥ*)—O priests
+- निष्टिग्र्यः (*niṣṭigryaḥ*)—of Aditi
+- पुत्रं (*putraṃ*)—the son
+- इंद्रं (*iṃdraṃ*)—Indra
+
 ---
 
-**Progress note:** Done through printed p. 164. pp. 159-164 (batch API)
+**Progress note:** Done through printed p. 170. pp. 165-170 (batch API)
