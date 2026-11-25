@@ -16566,6 +16566,201 @@ The wise seers through their praise make into many forms the bird which is only 
 
 ग्रहान् सोमस्य मिमते द्वादश-ग्रहणसाधनानि पात्राण्युपांश्वंतर्यामादीनि निर्मिमाते । (*grahān somasya mimate dvādaśa-grahaṇasādhanāni pātrāṇyupāṃśvaṃtaryāmādīni nirmimāte |*). गृह्यत विभिरिति ग्रहाः (*gṛhyata vibhiriti grahāḥ*).**NOTE** "Graha" means the vessel from which the gods drink Soma; because that vessel is held in the hand at the time of drinking Soma (गृह्यते (*gṛhyate*), it is held), the Soma-drinking vessel is called graha. These have various names, the upāṃśu vessel, the antaryāma vessel and so on. This Ṛk says that twelve such vessels are filled with Soma juice, consecrated and made ready for the drinking of the gods.
 
+### Printed p. 500
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ष॒ट्त्रिं॒शांश्च॑ च॒तुरः॑ क॒ल्पयं॑त॒श्चंदां॑सि च॒ दध॑त आद्वाद॒शं ।  
+> य॒ज्ञं वि॒माय॑ क॒वयो॑ मनी॒ष ऋ॑क्सा॒माभ्यां॒ प्र रथं॑  
+> वर्तयंति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> षट्त्रिंशान् । च । चतुरः । कल्पयंतः । छंदांसि । च । दधतः । आद्वादशं ।  
+> यज्ञं । विमूय । कवयः । मनीषा । ऋक् ऽसामाभ्यां । प्र। रथं । वर्तयंति ॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वं सामान्येन यज्ञग्रहानुक्त्येदानीं सर्वग्रहादिपूर्वको यज्ञोऽभिधीयते । षट्त्रिंशान् । द्वावुपांश्वंतर्याम् । ऐंद्रवायनादयस्त्रयो
+> द्विदेवत्यग्रहाः । द्वौ शुक्रामंथिन् । आग्रयण उक्यो ध्रुवश्चति त्रयः । ऋतुग्रहा
+> द्वादश । ऐंद्राग्नो वैश्वदेवश्च द्वौ । त्रयो मरुत्वतीयाः । एको माहेंद्रः ।
+> आदित्यसावित्र्द्वै । वैश्वदेवः पात्मीवतो हारियोजन इति त्रयो ग्रहाः । एवं
+> षट्त्रिंशद्भवंति । अत्यग्निष्टोमे पूर्वे षट्त्रिंशद्ग्रहा द्वावंश्वदाभ्या दधिग्रहः
+> षोडशीति चेति चत्वारः । एतांश्चत्वारिंशत्संख्याकान्गहान्कल्पयंतः सोमेन
+> पूरयंतः । किंचाद्वादशं ॥ आङ्मर्यादाभिविध्योः । सा. २-१-१३ । इत्यव्ययाभावसमासः । तस्य स्वरः ॥ द्वादशसंख्याकप्रउगादिशस्त्रसमाप्ति पर्यंतं छंदांसि गायत्यादीनि दधतः संतः शस्त्रादिरूपेण धारयंतः कवयो मनीषा ॥ तृतीयाया
+> आकारः ॥ मनीषया बुद्धैवं यज्ञं विमाय निर्माय रथं । रमंत्यत्रेति
+> रथो यज्ञः । तं रथं यज्ञमृक्सामाभ्यां प्रवर्तयंति । प्रकर्षेण संपादयंति ॥
+> चतुर इत्यत्र चतुरः शसीत्यंतोदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the sacrificial cups were mentioned earlier only in general terms, and that the rite is now described as one that begins with all the cups. "Thirty-six" is made up as follows. The Upāṃśu and the Antaryāma are two. The three cups beginning with the Aindravāyava belong to two deities each. The Śukra and the Manthin are two. The Āgrayaṇa, the Ukthya and the Dhruva are three. The Ṛtugrahas are twelve. The Aindrāgna and the Vaiśvadeva are two. The Marutvatīya cups are three. The Māhendra is one. The Āditya and the Sāvitra are two. The Vaiśvadeva, the Pātnīvata and the Hāriyojana are three. In this way the cups come to thirty-six. In the Atyagniṣṭoma the earlier thirty-six cups are joined by the two Aṃśu-Adābhya cups, the Dadhigraha and the Ṣoḍaśin, which makes four more. Thus "arranging" (kalpayantaḥ) means filling forty cups with Soma. Next, आद्वादशं (*ādvādaśaṃ*) is an avyayībhāva compound, formed by the rule आङ्मर्यादाभिविध्योः (*āṅmaryādābhividhyoḥ*), and it means "up to the number twelve". The wise (kavayaḥ), holding the metres, Gāyatrī and the rest, in the form of the śastras (recitations), that is, bearing them, from the Prauga-śastra onward until the twelve śastras are complete, by their intelligence (manīṣā; the instrumental ending is lengthened) thus measure out and construct the sacrifice. The "chariot" (ratha) is the sacrifice, because people delight in it (ramanti). They carry that chariot-sacrifice forward with the Ṛc and the Sāman, that is, they accomplish it in a superior manner. In चतुरः (*caturaḥ*) the final syllable has the high accent by the rule on the accusative plural ending शस् (*śas*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- षट्त्रिंशांश्च चतुरः (*ṣaṭtriṃśāṃśca caturaḥ*)—forty (36+4) cups (sacrificial vessels)
+- कल्पयंतः (*kalpayaṃtaḥ*)—filling with Soma juice
+- आद्वादशं (*ādvādaśaṃ*)—the Prauga and other śastra mantras, extending up to the number twelve
+
+### Printed p. 501
+- छंदांसि (*chaṃdāṃsi*)—with mantras accompanied by the bhuvas and so on (the Gāyatrī and other metres)
+- दधतः (*dadhataḥ*)—reciting
+- कवयः (*kavayaḥ*)—the wise seers
+- मनीषा (*manīṣā*)—by their own intelligence
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- विमाय (*vimāya*)—having constructed (and carried forward)
+- रथं (*rathaṃ*)—that same sacrifice
+- ऋक्सामाभ्यां (*ṛksāmābhyāṃ*)—with the mantras of the Ṛgveda and the Sāmaveda
+- प्र वर्तयंति (*pra vartayaṃti*)—they adorn it exceedingly and make it go forward
+
+##### भावार्थ (Bhāvārtha)
+
+The wise seers, so that the gods may drink Soma at the sacrifice, fill forty sacrificial cups with Soma juice. They recite twelve śastra mantras in the seven kinds of metre beginning with the Gāyatrī. By their intelligence they construct the sacrifice, and they make that same sacrifice proceed, adorned with Ṛks and with Sāmans.
+
+##### English translation
+Filling thirty six and four vessels, and holding the metres as for as twelve, measuring out the rite by their by their intelligence, the sages complete the sacrifice with the Ric and the Saman.
+
+##### विशेषविषयगळु (Special Topics)
+
+The previous Ṛk spoke of twelve Soma vessels. Now, in this Ṛk, the commentator explains still further vessels, and which gods drink Soma from which vessels. The names of forty vessels in all are given here. They are as follows.
+The vessels called Upāṃśu and Antaryāma—2.
+The Aindravāya cups and others, from which two deities together, such as Indra and Vāyu, drink—2×3=6.
+The vessels called Śukra and Manthī—2.
+The vessels called Āgrayaṇa, Ukthya and Dhruva—3.
+The Ṛtugraha vessels—12.
+The Aindrāgna and Vaiśvadeva vessels—2.
+The Marutvatīya vessels—3.
+The Māhendra-graha vessel—1.
+The Āditya and Savitṛ vessels—2.
+
+### Printed p. 502
+The Vaiśvadeva, Pātnīvata and Hāriyojana vessels—3.
+All these together make 36 cup-vessels. Besides these, in the Agniṣṭoma sacrifice there are four other cups: Aṃśu, Adābhya, Dadhigraha and Ṣoḍaśī. All together they come to 40 cup-vessels. These are what is called here षट्त्रिंशाश्च चतुरः (*ṣaṭtriṃśāśca caturaḥ*), "thirty-six and four".
+The main purport is as follows.
+The wise and learned priests fill forty kinds of cup-vessels with Soma juice so that the gods may drink Soma at the sacrifice. They carry out the sacrificial work reciting twelve kinds of śastra mantras, beginning with the Prauga and composed in the seven kinds of metre beginning with the Gāyatrī. For the śastra mantras at the sacrifice they recite Ṛks and hymns of the Ṛgveda. For the recitation of praise-songs (stotra) they sing Sāmaveda mantras. In this way, with various kinds of proceedings, they complete the sacrifice in all its parts. This is the main purport of the Ṛk.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चतु॑र्दशा॒न्ये म॑हि॒मानो॑ अस्य॒ तं धीरा॑ वा॒चा प्र ण॑यंतिस॒प्त ।  
+> आप्ना॑नं ती॒र्थं क इ॒ह प्र वो॑च॒द्येन॑ प॒था प्र॒पिबं॑ते सु॒तस्य॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चतुःसदश । अन्ये । महिमानः । अस्य । तं । धीराः । वाचा । प्र । नयंति । सप्त ।  
+> अप्नानं । तीर्थं । कः । इह । प्र । वोचत् । येन । पथा । प्रपिबंते । सुतस्य ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य यज्ञरूपस्य परमात्मनोऽन्ये चतुर्दश चतुर्दशसंख्याका महिमानो
+> विभूतयो भवंति । तं सुज्ञं सप्त सप्तसंख्याका धीरा धीमंतो होत्रादयो
+> वाचा शस्त्ररूपया प्र णयंति । प्रकर्षण नयंति । आप्नानं ॥ आप्लव्याप्तौ ।
+> ताच्छिलिके चानशि व्यत्ययेन विकरणस्य व्यत्ययः ॥ व्यापनशीलं तीर्थं पापोत्तां
+> समर्थं चात्वोलोत्करमध्यदेशमिहास्मिन्यज्ञे कः प्र वोचत् । को व्यक्ति । न
+
+##### Gist of the bhāṣya
+
+There are fourteen other greatnesses (mahimānaḥ), that is, manifestations, of this supreme Self who is in the form of the sacrifice. Seven wise ones, the Hotṛ priests and the rest, lead him forth (praṇayanti, "carry on") by speech in the form of śastra. आप्नानं (*āpnānaṃ*) is from the root आप्ल (*āpla*) in the sense of pervading, and the vikaraṇa is altered irregularly. It means "pervasive". Sāyaṇa takes तीर्थं (*tīrthaṃ*) to be the sacred place at the Cātvāla and Utkara, able to remove sin. "Who here, at this sacrifice, could declare it?" The sense is that no one can.
+
+### Printed p. 503
+
+> कोऽपीत्यर्थः । येन पथा येन यज्ञमार्गेण सुतस्याभिषुतं सोमं प्रपिबंते
+> देवा अतिशयेन पिबंति ॥ पा पाने । पाघ्रेत्यादिना पिबादेशः । व्यत्ययेनात्मनेपदं । उपसर्गेण समासः । यद्योगादनिघाते तिजि चोदात्तवतीति गतेर्निघातः ॥
+
+##### Gist of the bhāṣya
+
+"By which path", that is, by which sacrificial way, the gods drink the pressed Soma (प्रपिबंते (*prapibaṃte*), "drink abundantly"). The root is पा (*pā*) in the sense of drinking, and the substitute पिब (*piba*) is made by the rule पाघ्रेत्यादिना (*pāghretyādinā*). The ātmanepada is irregular. The verb is compounded with the preverb. Because of the connection with येन (*yena*) the verb is unaccented, and the preverb is likewise unaccented by the rule on a verb whose ending has the high accent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—to Prajāpati, who is of the form of the sacrifice
+- चतुर्दश (*caturdaśa*)—fourteen in number
+- अन्ये महिमानः (*anye mahimānaḥ*)—there are other special manifestations
+- तं (*taṃ*)—him
+- सप्त धीराः (*sapta dhīrāḥ*)—the seven wise Hotṛ priests
+- वाचा (*vācā*)—by speech (mantra) in the form of śastra
+- प्रणयंति (*praṇayaṃti*)—they carry forward
+- इह (*iha*)—in this sacrifice
+- येन पथा (*yena pathā*)—by which sacrificial path
+- सुतस्य (*sutasya*)—of the pressed Soma
+- प्रपिबंते (*prapibaṃte*)—the gods drink
+- आप्नानं (*āpnānaṃ*)—extended
+- तीर्थं (*tīrthaṃ*)—(and) sin-destroying sacrificial place
+- कः (*kaḥ*)—who indeed
+- प्रवोचत् (*pravocat*)—could describe it?
+
+##### भावार्थ (Bhāvārtha)
+
+Prajāpati, who is of the form of the sacrifice, has fourteen other special manifestations. The wise seven Hotṛ priests praise him through speech in the form of śastra (mantra). By the prescribed path of this sacrifice the gods drink the pressed Soma. Who could describe such an extensive, venerable sacrificial place, such as the Cātvāla, which is able to carry one across sin?
+
+##### English translation
+There are fourteen other great developments of him; seven sages conduct him by prayer.  Who may declare the expanded place of sanctity at this (rite), the path by which they drink of the libation.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒ह॒स्र॒धा पं॑चद॒शान्न्यु॒क्था याव॒द्व्यावा॑पृथि॒वी ताव॒दित्तत् ।  
+> स॒ह॒स्र॒धा म॑हि॒मानः॑ स॒हस्रं॒ याव॒द्ब्रह्म॒ विष्ठि॑तं॒ ताव॑ती॒  
+> वाक् ॥ ८ ॥
+
+### Printed p. 504
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रधा । पंचदशानि । उक्ता । यावत् । द्यावापृथिवी इति । तावत् । इत् । तत् ।  
+> सहस्रधा । महिमानः । सहस्रं । यावत् । ब्रह्म । विस्थितं । तावती । वाक् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रधा सहस्रसंख्याकेषु ब्रह्मादिस्तंबपर्यंतेषु देहेषु पंचदशानि
+> चक्षुः श्रोत्रं मनो वाक् प्राण इत्येतानि पंच । तदाधारत्वेन मातापितृः
+> सकाशादागतानि पृथिव्यप्तेजोवाय्वाकाशरूपाणि भूतानि मिलितानि दश । एवं पंचदशसंख्याकान्युक्थान्युत्कृष्टान्यंगानि विद्यंते प्राणिदेहेषु जातेषु ! द्यावापृथिवी ॥
+> षष्ठिद्विवचनस्य सुपां सुलुगिति पूर्वसवर्णदीर्घः ॥ द्यावापृथिव्योर्यावद्यत्परिमाणमस्ति तावदित्तत्परिमाणमेवात्माधिष्ठितं प्राणिदेहजातं भवति ॥ यावत्तावच्छब्दयोर्यत्तदेतेभ्यः परिमाणे वतुपि । पा. ५-२-३९ ! आ सर्वनाम्नः । पा. ६-३-९१।
+> इति दीर्घः ॥ किंच सहस्रधा सहस्रसंख्याकेषु सहस्रं महिमानः सहस्रसंख्याका
+> महांतो व्यवहारविशेषा भवंति । प्रतिविषयं प्रतिलक्षणं दर्शनश्रवणादिव्यवहारनिष्पत्तेः ॥ सहस्रधेत्यत्र विधार्थे धाप्रत्ययः ॥ ब्रह्म जगत्कारणं वस्तु यावन्नानाविधप्राणिदेहरूपेण यावत्परिमाणं भूत्वा निष्ठितं विशेषेण स्थितं वाक् तावती
+> तत्परिमाणा भवति । एकैकस्याभिधेयार्थस्यैकैकनामापेक्षणात् । अन्यत्रापि श्रूयते ।
+> सर्वाणि रूपाणि विचिंत्य धीरो नामानि कृत्वाभिवदन्यदास्त इति । सहस्रधा पंचदशान्युक्थॆति पंच हि दशतो भवंतीत्यादिकमारण्य कमत्रानुसंधेयं । ऐ. आ. १-३-८ !
+
+##### Gist of the bhāṣya
+
+"In a thousand ways" means in a thousand bodies, from Brahmā down to a blade of grass. In them are fifteen: eye, ear, mind, speech and breath, which are five. As their support come the elements, earth, water, fire, air and space, which derive from the mother and father and are joined together as ten. Thus fifteen excellent limbs are found in the bodies of living beings once born. Next, द्यावापृथिवी (*dyāvāpṛthivī*): the ending is the dual, and the long vowel arises as the homogeneous long. Whatever the measure of heaven and earth, just that measure is the body-product of living beings, presided over by the self. The words यावत् (*yāvat*) and तावत् (*tāvat*) take the affix वतु (*vatu*) in the sense of measure (Pā. Sū. 5-2-39), and the long vowel is made by Pā. Sū. 6-3-91. Further, in a thousand ways, in a thousand, there are a thousand greatnesses, that is, a thousand great kinds of activity, since seeing, hearing and the like are accomplished with respect to each object and each mark. In सहस्रधा (*sahasradhā*) the affix धा (*dhā*) is used in the sense of kind. Brahman, the cause of the world, having become of whatever measure in the form of the bodies of the various living beings, stands specially established; speech is of that very measure, because each single thing signified requires its own name. It is heard elsewhere too: "Having considered all forms, the wise one, making the names, speaks of them as he sits." Sāyaṇa adds that the Āraṇyaka passage beginning "In a thousand ways, fifteen are the uktha; for five become ten" and so on should be brought to bear here (Ai. Ā. 1-3-8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रधा (*sahasradhā*)—in this body of the Supreme Self, which has many divisions from Brahmā down to a blade of grass
+- पंचदशानि उक्ता (*paṃcadaśāni uktā*)—fifteen chief limbs are established
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- यावत् (*yāvat*)—of whatever measure they are
+- तावदित् (*tāvadit*)—of just that measure
+- तत् (*tat*)—that body exists
+- सहस्रधा (*sahasradhā*)—in thousands of places
+- सहस्रं महिमानः (*sahasraṃ mahimānaḥ*)—thousands of greatnesses are manifested
+- यावत् (*yāvat*)—of whatever measure
+- ब्रह्म (*brahma*)—Brahman, the cause of the world
+- विष्ठितं (*viṣṭhitaṃ*)—is established
+- तावती (*tāvatī*)—of just that measure
+- वाक् (*vāk*)—speech is pervaded
+
+### Printed p. 505
+
+##### भावार्थ (Bhāvārtha)
+
+In this body of the Supreme Self, which has many divisions from Brahmā down to a blade of grass, fifteen chief limbs are established. This body exists as being of just the measure that heaven and earth have. Thousands of greatnesses are manifested in thousands of places. Of just the measure of Brahman, the cause of the world, as established, the principle of speech too is pervasive.
+
+##### English translation
+The fifteenen chief forms (are found) in a thousand places; as heaven
+heaven and earth are, so verily is that; the thousand great (functions) are in
+a thousand places; as Brahma is variably developed, so is speech.
+
+##### विशेषविषयगळु (Special Topics)
+
+सहस्रधा— सहस्रसंख्याकेषु ब्रह्मादिस्तंबपर्यतेषु देहेषु । (*sahasradhā— sahasrasaṃkhyākeṣu brahmādistaṃbaparyateṣu deheṣu |*) Here "thousand" is not only the number one thousand; it means in the bodies of many, or manifold, kinds of living beings.
+पंचदशानि—चक्षुःश्रोत्रं मनो वाक् प्राण इत्येतानि पंच । तदाधारत्तेन मातापितोः सकाशादागतानि पृथिव्यप्तेजोवाय्वाकाशरूपाणि भूतानि मिलितानि दश । (*paṃcadaśāni—cakṣuḥśrotraṃ mano vāk prāṇa ityetāni paṃca | tadādhārattena mātāpitoḥ sakāśādāgatāni pṛthivyaptejovāyvākāśarūpāṇi bhūtāni militāni daśa |*) "Fifteen" means bodies made up of fifteen parts or portions. They are as follows. In the body of every living being there are five organs of knowledge: eye, ear, mind, speech (the power of speaking or making sound) and breath. There are also outer limbs that serve as their support. That is to say, although acts such as seeing belong to the organs of knowledge, there are also the outer organs that are the means of producing such knowledge. To see and know an object, the eye, an outer limb, and the mind, an inner organ, are the chief means. The other limbs are likewise. The inner organs, mind and the rest, follow the past and present condition of the particular living being. The outer limbs alone follow the bodily constitution of the father and mother, who are the cause of the origin of that being's body. If the parents are strong in body, the children too will be strong like them. Therefore the five elements, earth, water, fire, air and space, which are the cause of the outer body (the bodies formed of the five elements), arise from the bodily constitution of the parents. So the five elements connected with the father and the five connected with the mother together make ten kinds of substance, and with the five organs, eye and the rest, mentioned before, the body of every living being is made up of fifteen kinds of substance in all. That is the purport.
+
 ---
 
-**Progress note:** Done through printed p. 499. pp. 494-499 (batch API)
+**Progress note:** Done through printed p. 505. pp. 500-505 (batch API)
