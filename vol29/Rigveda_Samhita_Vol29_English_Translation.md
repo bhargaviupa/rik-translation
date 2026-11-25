@@ -3532,6 +3532,301 @@ O Maruts, as, even when masses of water flow, the earth neither moves nor is sha
 ##### English translation
 In your collision, as in the transit of waters, the earth is not shaken, is not shattered; this manifold sacrifice comes towards you; approach united as if laden with food.
 
+### Printed p. 136
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यू॒यं धू॒र्षु प्र॒युजो॒ न र॒श्मिभि॒र्ज्योति॑ष्मंतो॒ न ॒ ॑
+> भा॒सा व्यु॑ष्टिषु ।  
+> शै॒नासो॒ न स्वय॑शसो रि॒शाद॑सः प्र॒वासो॒ न प्रसि॑तासः परि॒पुषः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यूयं । धूःसु । प्रयुजः । न । रश्मिभिः । जोतिष्मंतः । न । भासा । विउष्टिषु ।  
+> श्वेनासः । न । स्वयशसः । रिशादसः । प्रवासः । न । प्रसितासः । परिपुषः ॥ ४ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं धूर्षु रथसंबंधिनीषु रश्मिभिर्योक्रैः प्रयुक्ता बद्धा अश्वा इव परिप्रुषः परितो गंतारः स्थ । तथा ज्योतिष्ठंतो न तेजोवंत आदित्यादय इव भासा युक्ता भवथ व्युष्टिषूषःसूदितासु । किंच श्येनासो न श्येना इव स्वयशसः स्वायत्तयशसः ते यथा रिशादसो रिशताम- सितारस्तद्वद्रितादसः स्वायत्तयशसश्च । किंच प्रवासो न प्रवासिन इव पथिका इव प्रसिद्धयानाः । उक्तरूपा मरुतः परिप्रुषः परितो गंतारो भवथ ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, you are like horses yoked with reins to the chariot-poles, going about on every side. Likewise, like luminous beings such as the sun, you are endowed with radiance at the dawns. Further, like hawks, you have fame dependent on yourselves; as they are eaters of flesh and have fame of their own, so are you destroyers and have fame of your own. Further, like travellers, like wayfarers, you have well-known means of going. Such Maruts, you are going all around. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- रश्मिभिः (*raśmibhiḥ*)—with reins
+- धूर्षु (*dhūrṣu*)—to the chariot-poles
+- प्रयुजः न (*prayujaḥ na*)—like yoked horses
+- परिपुषः (*paripuṣaḥ*)—you move about
+- व्यष्टिषु (*vyaṣṭiṣu*)—at the times of dawn
+- जोतिष्मंतो न (*jotiṣmaṃto na*)—like the radiant Ādityas
+- भासा (*bhāsā*)—you are endowed with brightness
+- शैनासो न (*śaināso na*)—like hawks
+- स्वयशसः (*svayaśasaḥ*)—having fame acquired by yourselves
+- रिशाससः (*riśāsasaḥ*)—you are destroyers of enemies
+- प्रवासो न (*pravāso na*)—like travellers
+- प्रसितासः (*prasitāsaḥ*)—having excellent movement
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, you move about like horses yoked with reins to the chariot-poles. At the time of dawn you are endowed with brightness like the radiant Ādityas. Like hawks,
+
+### Printed p. 137
+
+you have fame acquired by yourselves and are destroyers of enemies. Like travellers you have excellent movement.
+
+##### English translation
+You (move along) like horses harnessed to the chariot-poles with reins; at break of day you (are endowed) with radiance like the luminaries (of heaven); you are like hawks, like the destroyers of foes, desirous of renown; you cover the ground like travellers, you move everywhere.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यद्वह॑ध्व मरुतः परा॒काद्य॒यं म॒हः सं॒वर॑णस्य॒ वस्वः॑ ।  
+> वि॒दा॒नासो॑ वसवो॒ राध्य॑स्या॒राच्चि॒द्देषः॑ सनु॒तर्यु॑योत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । यत् । वहध्व । मरुतः । पराकात् । यूयं । महः । संवरणस्य । वस्वः ।  
+> विदानासः । वसवः । राध्यस्य । आरात् । चित् । द्वेषः । सनुतः । युयोत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः यूयं यद्यदा पराकादत्यंतं दूरदेशाद्वहध्वे आगच्छथ
+> तदानीं महो महत्संवरणस्य संवरणीयं राध्यस्य संराधनीयं वसो वसु
+> धनं विवानासः प्रयच्छंतो हे वसवः यूयमाराच्चिद्दूरादेव युयोत ।
+> पृथक्कुरुत । कानिति उच्यते । द्वेषो द्वेष्टवान् सनुतरंतर्हितान् निगूढानित्यर्थः ।
+> सनुतरित्यंतर्हितनाम ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, when you come from a very distant place, then, giving great, desirable, accomplishable wealth, O Vasus, you separate from afar the haters, that is, the enemies who are hidden and concealed. He says that the word for "hidden" is a name for the concealed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- यूयं (*yūyaṃ*)—you
+- यत् (*yat*)—when
+- पराकात् (*parākāt*)—from a very distant place
+- प्र वहध्वे (*pra vahadhve*)—you come, then
+- महः (*mahaḥ*)—great
+- संवरणस्य (*saṃvaraṇasya*)—desired
+- राध्यस्य (*rādhyasya*)—worthy of honour
+- वस्वः (*vasvaḥ*)—wealth
+- विदानासः (*vidānāsaḥ*)—giving
+- वसवः (*vasavaḥ*)—you who give dwellings
+- अराच्चित् (*arāccit*)—from afar itself
+- सनुतः (*sanutaḥ*)—hidden, concealed
+- द्वेषः (*dveṣaḥ*)—enemies
+- युयोत (*yuyota*)—drive away
+
+### Printed p. 138
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, when you come from a very distant place, then, giving us great, desired and honoured wealth, you who give dwellings drive away from afar our enemies who lie hidden and concealed.
+
+##### English translation
+When, Maruts, you come from a distance, then, Vasus, distributors of abundant, desirable, coveted wealth, you scatter afar our concealed foes.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य उ॒दृचि॑ य॒ज्ञे अ॑ध्वरे॒ष्णा म॒रुद्भो॒ न मानु॑षो॒  ॑
+> ददाशत् ।  
+> रे॒वत्स वयो॑ दधते सु॒वीरं॒ स दे॒वाना॒मपि॑ गोपी॒थे अ॑स्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । उत्खिचि । यज्ञे । अध्वरेस्थाः । मरुत्भ्यः । न । मानुषः । ददाशत् ।  
+> रेवत् । सः । वयः । दधते । सुवीरं । सः । देवानां । अपि । गोपीथे । अस्तु ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध्वरेष्ठा यागे सीदन्मानुषो यो यजमानो यज्ञ उदृचि सति ।
+> ऋक्कब्बेन स्तोत्रमुपलक्ष्यते । यज्ञे समाप्तस्तुतिके सति संपूर्णे सति मरुद्भो
+> न मरुद्भ इवान्येषामध्वर्युभ्य ऋत्विगादिभ्यो ददाशत् दद्यात् । यद्वा ।
+> यज्ञ उदृच्युपक्रांत इत्यर्थः । तस्मिन्यज्ञे मरुद्भ इवान्यस्मा इंद्राय ददाशत्
+> ददाति । स यजमानो रेवद्धनवत्सुवीरं शोभनपुत्राद्युपेतं वयोऽन्नं दधते ।
+> धारयति ॥ व्यत्ययेनैकवचनं ॥ स देवानामिंद्रादीनामपि गोपीथे सोम
+> पानेऽस्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+The sacrificer, seated at the rite, who, when the stotra is completed in the sacrifice (the word Ṛc stands for a stotra), gives to others, to the adhvaryus, priests and the rest, as if to the Maruts. Or else: when the sacrifice has begun, he gives in that sacrifice to another, to Indra, as to the Maruts. That sacrificer holds wealthy food with good heroes, that is, with good sons and the like (the singular is used for the plural by a change of number). May he be present at the Soma-drinking of the gods, Indra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरेष्ठाः (*adhvareṣṭhāḥ*)—seated at the sacrifice
+- यः मानुषः (*yaḥ mānuṣaḥ*)—the sacrificer who
+- यज्ञे (*yajñe*)—in the sacrifice
+- उदृचि (*udṛci*)—when the praise at the time of completion has been recited
+- मरुद्भो न (*marudbho na*)—as one offers oblation to the Maruts
+
+### Printed p. 139
+
+- ददाशत् (*dadāśat*)—gives wealth to the priests
+- सः (*saḥ*)—that same sacrificer
+- रेवत् (*revat*)—wealthy
+- सुवीरं (*suvīraṃ*)—endowed with heroic sons
+- वयः (*vayaḥ*)—food
+- पधते (*padhate*)—obtains
+- सः (*saḥ*)—he
+- देवानां (*devānāṃ*)—of the other gods
+- गोपीथे अपि (*gopīthe api*)—at the times of Soma-drinking also
+- अस्तु (*astu*)—may he be engaged in rites
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificer seated at the sacrifice who, when the praise at the time of completion has been recited in the sacrifice, gives wealth to the priests as one offers oblation to the Maruts, that same sacrificer obtains food that is wealthy and endowed with heroic sons. May he be engaged in rites at the times of Soma-drinking of the other gods also.
+
+##### English translation
+The worshipper who engaged in worship at the sacrifice, accompanied with praise, presents donations (to the priests) as if to the Maruts, he enjoys food with riches, and male progeny; may he be present at thc god's Soma-drinking.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते हि य॒ज्ञेषु॑ य॒ज्जिया॑स॒ ऊमा॑ आदि॒त्येन॒ नाम्ना॒ शंभ॑विष्ठाः ।  
+> ते नो॑वंतु रथ॒तूर्म॑नी॒षां म॒हश्च॒ याम॑न्नध्व॒रे च॑का॒नाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । हि । यज्ञेषु । यज्जियासः । ऊमाः । आदित्येन । नाम्ना । शंभविष्ठाः ।  
+> ते । नः । अवंतु । रथ्यतूः । मनीषां । महः । च । यामन् । अध्वरे । चकानाः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते हि ते खलु यज्ञेषु यागेषु यज्ञियासो यज्ञार्हा यष्टव्या
+> ऊमा अवितार आदित्येन नाम्नादित्यसंबंधिनोदकेन शंभविष्ठाः सुखस्य भावयितारः ।
+> यद्वा । आदित्याख्येन नाम्नादित्यनामकेन देवेन सह शंभविष्ठाः । ते मरुतो
+
+### Printed p. 140
+
+> नोऽस्मानवंतु । रथतू रथतुरो रथस्य यज्ञगमनसाधनस्य त्वरयितारः संतो
+> मनीषां स्तुतिमवंतु । रक्षंतु । कीदृशास्ते । अध्वरे यामन्यागगमने महो
+> महद्धविश्वकानाः कामयमानाः ॥
+
+##### Gist of the bhāṣya
+
+They, at the sacrifices, are worthy of sacrifice, to be worshipped, protectors, bestowers of happiness through the water of the Ādityas, called by the name Āditya. Or else: together with the deity named Āditya they are the greatest bestowers of happiness. May those Maruts protect us; being the hasteners of the chariot, which is the means of going to the sacrifice, may they protect our praise. How are they? At the coming to the sacrifice they are desirous of the great oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते हि (*te hi*)—those same Maruts
+- यज्ञेषु (*yajñeṣu*)—at the times of sacrifice
+- यज्ञियासः (*yajñiyāsaḥ*)—worthy of worship
+- ऊमाः (*ūmāḥ*)—protectors
+- आदित्येन नाम्ना (*ādityena nāmnā*)—together with the water connected with the Āditya
+- शंभविष्ठाः (*śaṃbhaviṣṭhāḥ*)—they are bestowers of happiness
+- ते (*te*)—those same Maruts
+- नः (*naḥ*)—us
+- अवंतु (*avaṃtu*)—may they protect
+- रथतूः (*rathatūḥ*)—those who drive the chariot for the sacrifice
+- अध्वरे (*adhvare*)—at the sacrifice
+- यामन् (*yāman*)—when the oblation is offered
+- महः (*mahaḥ*)—the great oblation
+- चकानाः (*cakānāḥ*)—those who desire it, the Maruts
+- मनीषां (*manīṣāṃ*)—may they make our praise fruitful
+
+##### भावार्थ (Bhāvārtha)
+
+At the times of sacrifice the Maruts are worthy of worship, protectors, and bestowers of happiness together with the water connected with the Āditya. May those same Maruts protect us. May those same Maruts, who drive the chariot for the sacrifice and desire the oblation at the time of sacrifice, make our praise fruitful.
+
+##### English translation
+May those protecting deities who are entitled to be worshipped at sacrifices, who under the name of Adityas are the bestowers of felicity, may they (the Maruts) accelerating their chariots, and desirous of the ample (oblation), upon their arrival at the sacrifice protect our praise.
+
+## Sūkta 78 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रास इत्यष्टर्चं दशमं सूक्तं । पंचमाद्यास्तिस्रो द्वितीया चेति
+> चतस्रो जगत्यः । शिष्टाश्च तसस्त्रिष्टुभः । पूर्ववदृषिदेवते । तथा चानुक्रांतं ।
+> विप्रासो द्वितीया पंचमाद्याश्च तिस्रो जगत्य इति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning विप्रास (*viprāsa*) has eight Ṛks and is the tenth sūkta. The fifth and the two that follow it, and the second, four Ṛks in all, are Jagatīs; the remaining four are Triṣṭubhs. The seer and the deity are as before. So the Anukramaṇī records विप्रासो द्वितीया पंचमाद्याश्च तिस्रो जगत्य (*viprāso dvitīyā paṃcamādyāśca tisro jagatya*). The ritual application has been given.
+
+##### Anuvāda
+
+This sūkta beginning विप्रासः (*viprāsaḥ*) is the tenth sūkta in the sixth anuvāka. It has eight Ṛks. The seer and deities of this sūkta are the same as those of the preceding sūkta. In this sūkta the fifth,
+
+### Printed p. 141
+
+sixth, seventh and second Ṛks are in the Jagatī metre. The remaining four Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said विप्रासो द्वितीया पंचमाद्याश्च (*viprāso dvitīyā paṃcamādyāśca*) and the three Jagatīs. The ritual application has been stated earlier.
+
+Maṇḍala 10; Anuvāka 6; Sūkta 78. Aṣṭaka 8; Adhyāya 3; Varga 12, 13. Number of Ṛks in the sūkta: 8. Seer: स्युमरश्मिर्भार्गवः (*syumaraśmirbhārgavaḥ*). Deity: मरुतः (*marutaḥ*). Metre: Ṛks 1, 3, 4, 8 Triṣṭubh; Ṛks 2, 5-7 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विप्रा॑सो॒ न मन्म॑भिः स्वा॒ध्यो॑ देवा॒व्यो॒३॒॑ ३ न य॒ज्ञैः स्वप्न॑सः ।  
+> राजा॑नो॒ न चि॒त्राः सु॑सं॒दृशः॑ क्षिती॒नां न मर्या॑ अरे॒पसः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विप्रासः । न । मन्मभिः । सुआध्यः । देवअव्यः । न । यज्ञैः । सुअप्नसः ।  
+> राजानः । न । चित्राः । सुसंदृशः । क्षितीनां । न । मर्याः । अरेपसः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्रासो न विप्रा ब्राह्मणा इव ते यथा मन्मभिः स्तुतिभिः स्वाध्यः शोभनाध्याना भवंति एवं मरुतोऽप्यस्मदीयैर्मनभिर्मननीयैः स्तोत्रैः स्वाध्यः
+> सुमनसो भवंति । अथवा मन्मभिः स्तोत्रैर्युक्ता विप्रासो न मेधाविनः
+> स्तोतार इव स्वाध्यो यज्ञे यजमाने ना सुध्याना इत्यर्थः । तथा यज्ञैर्यागैर्देवाव्यो न देवानां तर्पयितारो ये यजमाना इव स्वप्नसः । अप्प
+> इति कर्मनाम । शोभनकर्माणः । ते यथा कर्मसु व्यापृता भवंति तद्वदृष्टिप्रदानादिकर्मसु व्यापृता भवंति । राजानो न मूर्धाभिषिक्ताः क्षितिपतय इव
+> चित्राश्चायनीयाः पूजनीयाः । यद्वा चित्राभरणाः । तथा सुसंदृशः सुष्टु
+> दर्शनीयाः । तथा क्षितीनां निवासानां स्वामिनो मर्या न मनुष्या इवारेप-
+
+### Printed p. 142
+
+> सोऽपापाः । यथा प्रतिग्रहार्थमन्यत्रागत्वा स्वगृह एवानुतिष्ठंतो निर्दोषा
+> भवंति तादृशा इत्यर्थः । ईदृशाः शोभंत इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+Like priests, like Brahmans, as they become good in meditation through praises, so the Maruts also become well-minded through our praises, which are to be pondered. Or else: like wise praisers endowed with praises, good in meditation, so the Maruts are well-meditating towards the sacrificer at the sacrifice. **NOTE** Likewise, with sacrifices, like the sacrificers who gratify the gods, they are of good works; as those are busy in their rites, so these are busy in works such as the giving of rain. Like kings, like anointed lords of the earth, they are to be gazed at and worshipped; or else they have variegated ornaments. Likewise they are well to look upon. Likewise, like men who are lords of dwellings, they are sinless. As those who do not go elsewhere for gifts but perform the rites in their own house are free from fault, such are they; that is, they shine in this manner.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—the Maruts
+- विप्रासो न (*viprāso na*)—like wise sages
+- मन्मभि: (*manmabhi:*)—together with praises
+- स्वाध्यः (*svādhyaḥ*)—they are good in meditation
+- यज्ञैः (*yajñaiḥ*)—by sacrifices
+- देवाव्यो न (*devāvyo na*)—like sacrificers who gratify the gods
+- स्वप्नसः (*svapnasaḥ*)—they are of good works
+- राजानो न (*rājāno na*)—like kings
+- चित्रा: (*citrā:*)—having variegated ornaments
+- सुसंदृशः (*susaṃdṛśaḥ*)—having an attractive form
+- क्षितीनां (*kṣitīnāṃ*)—who are lords of dwellings
+- मर्या: न (*maryā: na*)—like men
+- अरेपस: (*arepasa:*)—they are free from sin
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts are good in meditation, endowed with praises, like wise sages. Like sacrificers who gratify the gods by sacrifices, they are of good works. Like kings, they have variegated ornaments and an attractive form. Like men who are lords of dwellings, they are free from sin.
+
+##### English translation
+They (the Maruts) are like Brahmans sanctified by pious praises, they are institutors of holy rites like the propitiators of the gods by sacrifices; decked with various ornaments, and handsome like kings, devoid of sin like men (who are the lords) of habitations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्न ये भ्राज॑सा रु॒क्मव॑क्षसो॒ वाता॑सो॒ न स्व॒युजः॑ स॒द्यऊ॑तयः !  
+> प्र॒ज्ञा॒तारो॒ न ज्येष्ठाः॑ सुनी॒तयः॑ सु॒शर्मा॑णो॒ न सोमा॑ ॒ ॒
+> ऋतं यते ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 135. end of Rk 7-8 of Sukta 76, Sukta 77 Rks 1-4
+**Progress note:** Done through printed p. 142. Mandala 10 Sukta 77 Rks 5-8; Sukta 78 Rk 1 and start of Rk 2 (pp. 136-142)
