@@ -24164,6 +24164,121 @@ The tenth day is called the Viśvajit Atirātra, containing all the Pṛṣṭha
 
 तेन हैतेन विश्वकर्मा भावन ईजे (*tena haitena viśvakarmā bhāvana īje*) (Śa. Brā. 13-7-1-14)
 
+### Printed p. 882
+
+At the beginning of this section it has been stated that Viśvakarmā Bhauvana performed the all-embracing sacrifice described above.
+
+तग्ं ह कश्यपो याजयांचकार । तदपि भूमिः श्लोकं जगौ न मा मर्त्यः कश्चन दातुमर्हति विश्वकर्मन्भौवन मंद आसिथ उपमंक्ष्यति स्या सलिलस्य मध्ये मृषैष ते संगरः कश्यपायेति ॥ (*tagṃ ha kaśyapo yājayāṃcakāra | tadapi bhūmiḥ ślokaṃ jagau na mā martyaḥ kaścana dātumarhati viśvakarmanbhauvana maṃda āsitha upamaṃkṣyati syā salilasya madhye mṛṣaiṣa te saṃgaraḥ kaśyapāyeti ‖*) (Śa. Brā. 13-7-1-15)
+
+At the time of this Sarvamedha sacrifice performed by Viśvakarmā Bhauvana, Kaśyapa was the officiating priest. Then Viśvakarman poured out the earth itself to him as a gift. But the earth did not consent to it. She said: "If any human being gives me away as a gift, I shall enter into the waters and hide myself. This promise of yours to give will be in vain."
+
+In the Sarvamedha section described in this manner, whatever sacrificial procedures and ritual activities are prescribed are not required here. The purpose of the present passage is to quote and explain the scriptural statements that describe how the creation of the world goes on without break, as the fruit of the sacrifice which the all-pervading Supreme Person performed by offering himself as the oblation, together with the whole world that is his own limb. Therefore the ritual details of the sacrifice are not explained here. The account that in the sacrifice of the universe the entire form of the Supreme Person was offered as the oblation, and that its fruit is of the greatest importance, stands in the Vājasaneyi Saṃhitā in the following way. This account is collected and given only from the standpoint stated above.
+
+तदेवाग्निस्तदादित्यस्तद्वायुस्तदु चंद्रमाः । तदेव शुक्रं तद्ब्रह्म ता आपः स प्रजापतिः ॥ (*tadevāgnistadādityastadvāyustadu caṃdramāḥ | tadeva śukraṃ tadbrahma tā āpaḥ sa prajāpatiḥ ‖*) (Nā. Sari. 32-1)**NOTE**
+
+This is the description of the nature of that Supreme Self in whom all the gods were said above to be contained as warp and woof. What the purpose of this praise is here, while the Sarvamedha section is being explained, the commentator has explained in the following way.
+
+स्वयंभुब्रह्मदृष्टाः आत्मदेवत्याः सप्तमेऽहनि आप्तरामसंज्ञिके सर्वहोमे विनियुक्ताः आप्तरामः सप्तममहर्भवतीत्युपक्रम्य सर्वं जुहोति सर्वस्याप्तै सर्वस्यावरुद्धै इति त्रुतेः (*svayaṃbhubrahmadṛṣṭāḥ ātmadevatyāḥ saptame 'hani āptarāmasaṃjñike sarvahome viniyuktāḥ āptarāmaḥ saptamamaharbhavatītyupakramya sarvaṃ juhoti sarvasyāptai sarvasyāvaruddhai iti truteḥ*) (Pā. Saṃ. Bhā. 32-1)**NOTE**
+
+### Printed p. 883
+
+All the gods seen by the self-born Brahmā, and all the conscious and unconscious things belonging to the principle, can be offered as an oblation on the seventh day, called Āpto-rāma, and all fulfilment can be obtained. This statement is made in the sentence of the Śatapatha Brāhmaṇa (13-7-19)**NOTE**, and this mantra is the basis of that sentence. The purpose here is to show that all the gods beginning with Agni are portions of the Supreme Self. The commentator explains that it is a mantra recited in the rite of the Āpto-rāma form, which is a part of the Sarvamedha. As to what the word "all" means in सर्वं जुहोति (*sarvaṃ juhoti*), it means everything that is a special manifestation of the glory of the Self of the universe. What these are is as follows.
+
+The primal cause, the Supreme Brahman, is itself Agni, itself Āditya, itself Vāyu, itself Candra, itself the radiance, and the waters too are that. It is itself the cosmic egg. The principle that is designated Prajāpati is also that Supreme Brahman and no other.
+
+सर्वे निमेषा जज्जिरे विद्युतः पुरुषादधि । नैनमूर्ध्वं न तिर्यंचं न मध्यॆ परिजग्रभत् ॥ (*sarve nimeṣā jajjire vidyutaḥ puruṣādadhi | nainamūrdhvaṃ na tiryaṃcaṃ na madhyè parijagrabhat ‖*) (Pā. Saṃ. 32-2)**NOTE**
+
+All the many divisions of time, such as the trasareṇu-moment, the kāṣṭhā and the ghaṭikā, have arisen from this radiant Supreme Person alone. No one can know him from above, from the middle, or by any other way. In no manner is he an object of direct perception.
+
+न तस्य प्रतिमा आस्ति यस्य नाम महद्यशः । हिरण्यगर्भ इत्येष मा मा हिग्ंसीदित्येषा यस्मान्नजात इत्येषः ॥ (*na tasya pratimā āsti yasya nāma mahadyaśaḥ | hiraṇyagarbha ityeṣa mā mā higṃsīdityeṣā yasmānnajāta ityeṣaḥ ‖*) (Vā. Saṃ. 32-3)
+
+There is no one equal to this Supreme Person of great glory. The sentences beginning "Hiraṇyagarbha alone is the lord of all" (25-10-13), those beginning मा मा हिग्ंसीः (*mā mā higṃsīḥ*) (2.10-2), and those beginning यस्मान्न जातः परो (*yasmānna jātaḥ paro*) (8-36) declare the Supreme Person's uniqueness, his transcendence of the world, his lordship of the universe and his being the inner controller of all.
+
+एषो ह देवः प्रदिशोऽनु सर्वाः पूर्वो ह जातः स उ गर्भे अंतः । स एव जातः स जनिष्यमाणः प्रत्यज्जनास्तिष्ठति सर्वतोमुखः ॥ (*eṣo ha devaḥ pradiśo 'nu sarvāḥ pūrvo ha jātaḥ sa u garbhe aṃtaḥ | sa eva jātaḥ sa janiṣyamāṇaḥ pratyajjanāstiṣṭhati sarvatomukhaḥ ‖*) (Pā. Saṃ. 32-4)
+
+This Supreme Self pervades all the directions. Before the world he was within it in the form of the embryo. He who was born before is he, and he who will be born hereafter is he. He stands established, pervading all. He is facing every side.
+
+### Printed p. 884
+
+यस्माज्ञातं न पुरा किं च नैव य आ बभूव भुवनानि विश्वा । प्रजापतिः प्रजया सग्ं रराणस्त्रीणि ज्योतीगंषि सचते स षोडशी ॥ (*yasmājñātaṃ na purā kiṃ ca naiva ya ā babhūva bhuvanāni viśvā | prajāpatiḥ prajayā sagṃ rarāṇastrīṇi jyotīgaṃṣi sacate sa ṣoḍaśī ‖*) (Vā. Saṃ. 32-5)
+
+There is no thing that was born earlier than this Supreme Self. He alone pervaded the whole universe. Prajāpati, who has a subtle body of sixteen parts, controls the three luminous spheres in the forms of the sun, the wind and fire.
+
+येन द्यौरुग्रा पृथिवी च दृढा येन स्वस्तभितं येन नाकः । यो अंतरिक्षे रजसो विमानः कस्मै देवाय हविषा विधेम ॥ (*yena dyaurugrā pṛthivī ca dṛḍhā yena svastabhitaṃ yena nākaḥ | yo aṃtarikṣe rajaso vimānaḥ kasmai devāya haviṣā vidhema ‖*) (Vā. Saṃ. 32-6; Ṛ. Saṃ. 10-121-5)
+
+By the greatness of this same Prajāpati the world of heaven has obtained exceeding strength. The earth is firmly established. The atmosphere is securely established. And the full extent of the atmospheric region has come within the measure of this Supreme Self alone. Let us offer the oblation to this Prajāpati of such greatness.
+
+(The word क (*ka*) has in one way been explained as Prajāpati. Or, if कस्मै (*kasmai*) is taken as from the word किं (*kiṃ*), it becomes an interrogative sentence: to which god shall we offer the oblation? The English commentator has given the second meaning. That is, apart from the unequalled Prajāpati no other deity is greater than he, and so the sense is: let us not offer the oblation to any deity other than him. The commentator's explanation also supports this meaning. The commentator's sentence is तं विहाय कस्मै देवाय हविषा विधेम (*taṃ vihāya kasmai devāya haviṣā vidhema*).)
+
+यं क्रंदसी अवसा तस्तभाने अध्यैक्षेतां मनसा रेजमाने । यत्राधि सूर उदितो विभाति कस्मै देवाय हविषा विधेम । आपो ह यद्बृहतीः । यश्चिदापः ॥ (*yaṃ kraṃdasī avasā tastabhāne adhyaikṣetāṃ manasā rejamāne | yatrādhi sūra udito vibhāti kasmai devāya haviṣā vidhema | āpo ha yadbṛhatīḥ | yaścidāpaḥ ‖*) (Vā. Saṃ. 32.7; Ṛ. Saṃ. 10-121-6)
+
+Heaven and earth, upheld by his greatness itself, look trembling with fear upon this Prajāpati. Above these worlds the sun has risen and is subject to his control.
+
+Parts of two mantras, अपो ह यत्, (*apo ha yat,*) and यश्चिदापः (*yaścidāpaḥ*), are quoted here. (27-25-26) The meaning of these sentences is as follows (Ṛ. Saṃ. 10-121-7-8).
+
+When the all-pervading water bore this embryo of the universe, this Prajāpati, who is the life-breath of all the gods, came into being (Ṛ. Saṃ. 10.121-7).
+
+### Printed p. 885
+
+Hiraṇyagarbha saw in the all-pervading water the root of the sacrifice and the cause of creation. And he himself became the source of all the gods (Ṛ. Saṃ. 10-121-8).
+
+Let us offer the oblation to such a great Prajāpati.
+
+वेनस्तत्सश्यन्निहितं गुहा सद्यत्र विश्वं भवत्येकनीडं । तस्मिन्निदग्ं सं च वि चैति सर्वग्ं स ओतः प्रोतश्च विभूः प्रजासु ॥ (*venastatsaśyannihitaṃ guhā sadyatra viśvaṃ bhavatyekanīḍaṃ | tasminnidagṃ saṃ ca vi caiti sarvagṃ sa otaḥ protaśca vibhūḥ prajāsu ‖*) (Pā. Saṃ. 32-3)**NOTE**
+(Pā. Saṃ. 32-8)
+
+The wise knower of the principle realises the one secret principle that is the Self of all. He knows that all the variety of the world finds unity here, spreads out and extends from here, and is contained here as warp and woof.
+
+प्र तद्वोचेदमृतं नु विद्वान् गंधर्वो धाम विभृतं गुहा सत् । त्रीणि पदानि निहिता गुहास्य यस्तानि वेड स पितुः पितासत् ॥ (*pra tadvocedamṛtaṃ nu vidvān gaṃdharvo dhāma vibhṛtaṃ guhā sat | trīṇi padāni nihitā guhāsya yastāni veḍa sa pituḥ pitāsat ‖*) (Pā. Saṃ. 3-9)**NOTE**
+
+Whatever knower of the principle knows the highest principle, which is of secret nature, the cause of creation, preservation and dissolution, and of the form of the three times, he attains the very nature of the Supreme Brahman, who is greater than the four-faced Brahmā.
+
+स नो बंधुर्जनिता स विधाता धामानि वेद भुवनानि विश्वा । यत्र देवा अमृतमानशानास्तृतीये धामन्नध्यैरयंत ॥ (*sa no baṃdhurjanitā sa vidhātā dhāmāni veda bhuvanāni viśvā | yatra devā amṛtamānaśānāstṛtīye dhāmannadhyairayaṃta ‖*) (Vā. Saṃ. 32-10)
+
+This one Supreme Self is the kinsman of us all, and our begetter. The Supreme Self, in whose presence the gods, having attained immortality, move about freely, is the cause of all dharmas.
+
+परीत्य भूतानि परीत्य लोकान् परीत्य सर्वाः प्रदिशो दिशश्च । उपस्थाय प्रथमजामृतस्यात्मनात्मानमभि संविवेश ॥ (*parītya bhūtāni parītya lokān parītya sarvāḥ pradiśo diśaśca | upasthāya prathamajāmṛtasyātmanātmānamabhi saṃviveśa ‖*) (Vā. Saṃ. 32-11)
+
+Encompassing all the beings that have come into existence, pervading all the worlds, all the directions and the intermediate directions, worshipping the principle of the triple form that was created in the beginning, performing the sacrificial and other rites enjoined by the Veda, he has entered into his own divine Self.**NOTE**
+
+### Printed p. 886
+
+परि द्यावापृथिवी सद्य इत्वा परि लोकान् परि दिशः परि स्वः । ऋतस्य तंतुं विततं विचश्य तदपत्यत्तदभवत्तदासीत् ॥ (*pari dyāvāpṛthivī sadya itvā pari lokān pari diśaḥ pari svaḥ | ṛtasya taṃtuṃ vitataṃ vicaśya tadapatyattadabhavattadāsīt ‖*) (Vā. Saṃ. 32-12)
+
+Going around heaven and earth, moving through the worlds, spreading the thread of the sacrifice, which is truth, through the whole world, making the whole world inclined to its duty, he has at the end again attained his own nature and realised the Self.
+
+सदसस्थ तिमद्भुतं प्रियमिंद्रस्य काम्यं । सनिं मेधामयासिषग् स्वाहा ॥ (*sadasastha timadbhutaṃ priyamiṃdrasya kāmyaṃ | saniṃ medhāmayāsiṣag svāhā ‖*) (Vā. Saṃ. 32-13)
+
+From Agni, the guardian of the sacrificial house, of wonderful form, the friend dear to Indra and the giver of what is desired, I ask for the most excellent intelligence. I ask for wealth useful for rites and the like. The nature of that intelligence is as follows.
+
+यां मेधां देवगणाः पितरश्चोपासते । तया मामद्य मेधयाग्ने मॆधाविनं कुरु स्वाहा ॥ (*yāṃ medhāṃ devagaṇāḥ pitaraścopāsate | tayā māmadya medhayāgne mèdhāvinaṃ kuru svāhā ‖*) (Vā. Raṃ. 32-14)**NOTE**
+
+O Agni, grant me that intelligence for the work of sacrifice, the most excellent intelligence for rites, which the Fathers and the gods worship.
+
+मेधां मे वरुणो ददातु मेधामग्निः प्रजापतिः । मेधामिंद्रश्च वायुश्च मेधां धाता ददातु मे स्वाहा ॥ (*medhāṃ me varuṇo dadātu medhāmagniḥ prajāpatiḥ | medhāmiṃdraśca vāyuśca medhāṃ dhātā dadātu me svāhā ‖*) (Vā. Saṃ. 32-15)
+
+May Varuṇa, Agni, Prajāpati, Indra and Vāyu favour me with intelligence concerning rites. Since this oblation of mine is an excellent oblation, may it be offered well.
+
+इदं मे ब्रह्म च क्षत्रं चोभे श्रियमश्नुतां । मयि देवा दधतु श्रियमुत्तमां तस्यै ते स्वाहा ॥ (*idaṃ me brahma ca kṣatraṃ cobhe śriyamaśnutāṃ | mayi devā dadhatu śriyamuttamāṃ tasyai te svāhā ‖*) (Pā. Saṃ. 32-16)
+
+May all the Brāhmaṇas and Kṣatriyas enjoy the wealth that comes as the fruit of my rite. Since the welfare of the world comes from the performance of sacrifice, may the gods supply me with all the wealth useful for that sacrifice. These mantras are specified as to be recited in the Sarvamedha section.
+
+### Printed p. 887
+
+Thus, in the establishment that the all-embracing sacrifice begun by Viśvakarman should be performed by all, the lordship over all that belongs to Viśvakarman is praised. Since it has been said here that the all-embracing sacrifice is the root of creation, and since there is variety also in creation, the nature of this sacrifice is taught from the spiritual standpoint in the Bṛhadāraṇyaka in this way. From this it is understood that the sacrificial fire is the root of the whole creation in the universe. Although this section is not called Sarvamedha, all the descriptions of the Sarvamedha are in this section. As follows.
+
+आसौ वै लोकोऽग्निर्गौतम तस्यादित्य एव समिद्रश्मयो धूमोऽहरर्चिर्दिशोऽंगारा अवांतरदिशो विस्फुलिंगास्तस्मिन्नेतस्मिन्नग्नौ देवाः श्रद्धां जुह्वति तस्या आहुत्यै सोमो राजा संभवति । (*āsau vai loko 'gnirgautama tasyāditya eva samidraśmayo dhūmo 'hararcirdiśo 'ṃgārā avāṃtaradiśo visphuliṃgāstasminnetasminnagnau devāḥ śraddhāṃ juhvati tasyā āhutyai somo rājā saṃbhavati |*) (Bṛ. U. 6-2-9)
+
+The atmospheric world is the sacrificial fire; the sun is the fuel. The rays of the sun are the smoke. The day is the flame. The quarters are the coals. The intermediate quarters are the sparks. In this sacrificial fire the gods offer faith as the oblation. As the fruit of this, King Soma comes into being.
+
+पर्जन्यो वा अग्निर्गौतम; तस्य संवत्सर एव समित्, अभ्राणि धूमः, विद्युदर्चिः, अशनिरंगाराः, ह्रदुनयो विस्फुलिंगाः तस्मिन्नेतस्मिन्नग्नौ देवाः सोमं राजानं जुह्वति ; तस्या आहुत्यै वृष्टिः संभवति । (*parjanyo vā agnirgautama; tasya saṃvatsara eva samit, abhrāṇi dhūmaḥ, vidyudarciḥ, aśaniraṃgārāḥ, hradunayo visphuliṃgāḥ tasminnetasminnagnau devāḥ somaṃ rājānaṃ juhvati ; tasyā āhutyai vṛṣṭiḥ saṃbhavati |*) (Bṛ. U. 6-2-10)
+
+Parjanya is the fire; the year is the fuel, the clouds are the smoke, lightning is the flame, the thunderbolt the coals, the thunder the sparks. The gods offer King Soma in this fire as the oblation. As the fruit of this sacrifice rain comes into being. (From the atmosphere, Soma; from Soma, rain.) After the origin of these two principles:
+
+अयं वै लोकोऽग्निर्गौतम ; तस्य पृथिव्येव समित्, अग्निर्धूमः, रात्रिरर्चिः चंद्रमा अंगाराः, नक्षत्राणि विस्फुलिंगाः ; तस्मिन्नेतस्मिन्नगा देवा वृष्टिं जुह्वति । तस्या आहुत्या अन्नं संभवति । (*ayaṃ vai loko 'gnirgautama ; tasya pṛthivyeva samit, agnirdhūmaḥ, rātrirarciḥ caṃdramā aṃgārāḥ, nakṣatrāṇi visphuliṃgāḥ ; tasminnetasminnagā devā vṛṣṭiṃ juhvati | tasyā āhutyā annaṃ saṃbhavati |*) (Bṛ. U. 6-2-11)
+
+This world is the fire; the earth is the fuel; fire is the smoke. Night is the flame; the moon is the coals; the stars are the sparks. In this sacrificial fire the gods offer rain as the oblation. As the fruit of it food comes into being.
+
 ---
 
-**Progress note:** Done through printed p. 881. pp. 876-881: Sūkta 90 Ṛk 8, Special Topics (Sarvamedha)
+**Progress note:** Done through printed p. 887. Sarvamedha closing passage, Vā. Saṃ. 32 quotations and Bṛ. U. 6-2-9..11 (pp. 882-887)
