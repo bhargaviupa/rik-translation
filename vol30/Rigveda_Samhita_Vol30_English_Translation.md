@@ -32966,6 +32966,271 @@ Maṇḍala 10; Anuvāka 11; Sūkta 147. Aṣṭaka 8; Adhyāya 8; Varga 5. Numb
 
 In the matter of the wrath you showed when, to do good to men, you slew Vṛtra, who had enveloped the cloud, and made the waters he had held back fall upon the earth, I show above all excess of reverence; that is, I have great reverence for your wrath. O Indra, bearer of the thunderbolt, when heaven and earth are both under your sway, even the broad atmosphere trembles on seeing your unfathomable might.
 
+### Printed p. 983
+
+##### English translation
+I have faith, Indra, in your first wrath, whereby :you slew
+Vritra, and undertook a work friendly to man; when both heaven and
+earth were inferior to you, the firmament trembled at your might, O wielder
+of the thunderbolt.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं मा॒याभि॑रनवद्य मा॒यिनं॑ श्रवस्य॒ता मन॑सा वृ॒त्रम॑र्दयः।  
+> त्वामिन्नरो॑ वृणते॒ गवि॑ष्टिषु॒ त्वां विश्वा॑सि॒ हव्या॒स्विष्टि॑षु ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । मायाभिः । अनवद्य । मायिनं । श्रवस्यता । मनसा । वृत्रं । अर्दयः ।  
+> त्वां । इत् । नरः । वृणते । गोऽइष्टिषु । त्वां । विश्वासु । हव्यासु । इष्टिषु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अनवद्यावद्यरहित प्रशस्येंद्र त्वं मायिनं मायाविनं वृत्रं मायाभिर्वंचनाभिर्बुद्धिविशेषैर्वा श्रवस्यता श्रवः श्रवणीयं यशोऽन्नं वेच्छता मनसार्दयः । अहिंसीः । अपि च नरो नेतारोऽंगिरसस्त्वामित्तामेव गविष्टिषु गवां
+> पणिभिरपहृतानामेषणेषु प्रापणेषु विषयभूतेषु वृणते । संभजंते । तथा
+> विश्वासु सर्वासु हव्यास्वाह्वातव्यासु प्रार्थनीयास्विष्टिषु यागक्रियासु त्वामेव
+> वृणते ॥
+
+##### Gist of the bhāṣya
+
+O faultless, praiseworthy Indra, you have slain Vṛtra, the deceiver (मायिनं (*māyinaṃ*)), by deceptions (मायाभिः (*māyābhiḥ*)), that is, by tricks or special devices of intelligence, with a mind (मनसा (*manasā*)) that desires श्रवः (*śravaḥ*), that is, glorious fame, or food. अर्दयः (*ardayaḥ*) means "you killed". Moreover the leaders (नरः (*naraḥ*)), the Aṅgirases, choose you alone in the गविष्टिषु (*gaviṣṭiṣu*), the searches for and recoveries of the cows carried off by the Paṇis; they resort to you. Likewise in all (विश्वासु (*viśvāsu*)) the invocable, desirable इष्टिषु (*iṣṭiṣu*), the sacrificial rites, they choose you alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनवद्य (*anavadya*)—O Indra, free from fault
+- त्वं (*tvaṃ*)—you
+- मायिनं (*māyinaṃ*)—the deceitful
+- वृत्रं (*vṛtraṃ*)—Vṛtra
+- मायाभिः (*māyābhiḥ*)—by means of deceptions alone
+- श्रवस्यता (*śravasyatā*)—desiring food and the like
+- मनसा (*manasā*)—with a mind
+- अर्दयः (*ardayaḥ*)—you have slain (and)
+- नरः (*naraḥ*)—the Aṅgirasa seers, leaders in the performance of sacrifice
+- गविष्टिषु (*gaviṣṭiṣu*)—in the work of searching for the cows carried off by the Paṇis
+- विश्वासु (*viśvāsu*)—all
+- हव्यासु (*havyāsu*)—invoked by praying to the gods
+- इष्टिषु (*iṣṭiṣu*)—also in the sacrificial rites
+- त्वामित् (*tvāmit*)—you alone (for help)
+- वृणते (*vṛṇate*)—they desire
+
+### Printed p. 984
+
+##### भावार्थ (Bhāvārtha)
+
+O faultless (venerable) Indra, with the mind that you must bring about rain that yields food, you have slain the deceitful Vṛtra by deceptive means alone. The Aṅgirasa seers, leaders of sacrificial rites, seek you alone (your help alone), both in the search for the cows carried off by the Paṇis and in the sacrificial acts in which the gods are prayed to and invoked.
+
+##### English translation
+Irreproachable Indra, with mind intent on glory, you have by your deceptions slain the deceptive Vritra. The worshipper chooses you when he seeks for his (stolen) cattle, and in all sacrifices accompanied with invocations.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐषु॑ चाकंधि पुरुहूत सू॒रिषु॑ वृ॒धासो॒ ये म॑घवन्नान॒शुर्म॒घं ।  
+> अर्चं॑ति तो॒के तन॑ये॒ परि॑ष्टिषु मे॒धसा॑ता वा॒जिन॒मह्र॑ये॒  ॑
+> धने ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एषु । चाकंधि । पुरुहूत । सूरिषु । वृधासः । ये । मघवन् । आनशुः ।  
+> मघं ।  
+> अर्चंति । तोके । तनये । परिष्टिषु । मेधसाता । वाजिनं । अह्रये । धने ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूतेंद्र एषु सूरिष्वा चाकंधि । अत्यर्थमभिदीप्यस्व। अभिकामयस्व॥
+> कनी दीप्ति कांतिगतिषु । अस्माच्चर्करीतमेतत् ॥ हे मघवन्थनवन्निंद्र ये सूरयो
+> वृधानस्त्वत्पसादाद्वर्धमानाः संतो मघं धनमानशुः प्राप्नु वंति । अपि च मेधसाता मेधसात् यज्ञे वाजिनं बलवंतमन्नवंतं वेजनवंतं ना त्वां येऽर्चंति
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many, shine forth greatly (चाकंधि (*cākaṃdhi*)), take great delight, with regard to these सूरिषु (*sūriṣu*) (the praisers). The root is कनी दीप्ति कांतिगतिषु (*kanī dīpti kāṃtigatiṣu*), and this form is its intensive. O wealthy Indra, those praisers who, growing by your favour (वृधासः (*vṛdhāsaḥ*)), obtain wealth (मघं (*maghaṃ*)); and who, in the sacrifice (मेधसाता (*medhasātā*)), honour you, the powerful, food-possessing (वाजिनं (*vājinaṃ*)) one…
+
+### Printed p. 985
+*Gist (continued):* …they honour you, for the sake of a son (तोके (*toke*)), a grandson (तनये (*tanaye*)), other desired fruits on every side (परिष्टिषु (*pariṣṭiṣu*)), and shameless (अह्रये (*ahraye*)) wealth, that is, wealth honestly obtained. When these are the occasions, they honour you alone with praises and the like. This is the meaning.
+
+> पूजयंति तोके पुत्रे तनये तत्पुत्रे परिष्टिषु परित इष्यमाणेष्वन्येष्वपि
+> फलेष्वह्रयेऽलज्जाकरे धने च । एतेषु निमित्तेषु सत्सु त्वामेव स्तुश्चा दिभिः
+> पूजयंतीत्यर्थः ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, worthy of invocation by many
+- एषु सूरिषु (*eṣu sūriṣu*)—with regard to these praisers
+- आ चाकंधि (*ā cākaṃdhi*)—be greatly well-disposed
+- मघवन् (*maghavan*)—O wealthy Indra
+- ये (*ye*)—those praisers
+- वृधासः (*vṛdhāsaḥ*)—growing by your favour
+- मघं (*maghaṃ*)—wealth
+- आनशुः (*ānaśuḥ*)—obtain; and
+- मेधसाता (*medhasātā*)—in the sacrifice
+- वाजिनं (*vājinaṃ*)—you, who are endowed with strength or with food
+- अर्चंति (*arcaṃti*)—those who honour (you)
+- तोके (*toke*)—in obtaining a son
+- तनये (*tanaye*)—also in obtaining a grandson
+- परिष्टिषु (*pariṣṭiṣu*)—in the accomplishment of other desired fruits
+- अह्रये (*ahraye*)—shameless, that is, honestly acquired
+- धने (*dhane*)—also in obtaining wealth
+- अर्चंति (*arcaṃti*)—those praisers honour you alone
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, invoked and called by many, be well-disposed toward the people who praise you. O wealthy Indra, those praisers, growing by your favour, obtain wealth. The people who honour you, who give strength or food, in the sacrifices, honour you alone, both when they have obtained children, grandchildren, desired objects and honestly acquired wealth, and in order to obtain them.
+
+##### English translation
+Indra the invoked of many, be gracious to these Suris, who thereby
+prospering attain, O Maghavan, to opulence; (who) adore the powerful one
+at the sacrifice (for the sake of obtaining) a son. a grand son, the fulfilment
+of their desires, and honourable wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स इन्नु रा॒यः सुभृ॑तस्य चाकन॒न्मदं॒ यो अ॑स्य॒ रंह्यं॒  ॑
+> चिकेतति ।  
+> त्वावृ॑धो मघवन्दा॒श्व॑ध्वरो म॒क्षू स वाजं॑ भरते॒ धना॒  ॑
+> नृभिः ॥ ४ ॥
+
+### Printed p. 986
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । इत् । नु । रायः । सुभृतस्य । चाकनत् । मदं । यः । अस्य । रंह्यं । चिकेतति।  
+> त्वावृधः । मघवन् । दाशुअध्वरः । मक्षु । सः । वाजं । भरते । धना । नृभिः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स इत् स एव स्तोता सुभृतस्य सुष्टु संपादितस्य रायो धनस्य । द्वितीयार्थे
+> षष्ठी । ईदृशं धनं नु क्षिप्रं चाकनत्। कामयते । लभत इत्यर्थः । रंह्यं । रंहो
+> वेगः । तदर्शमस्येंद्रस्य मदं सोमपानजन्यं हर्षं यः स्तोता चिकॆ तति
+> स्तुतिपदैर्जानाति । हे मघवन् त्वावृधस्त्वया वर्धितो दाश्वध्वरो दत्तयज्ञो
+> यजमानो नृभिर्नेतृभिर्युत्विग्भिर्भृत्यैर्वा धना धनानि वाजमन्नं च मक्षु शीघ्रं
+> भरते । संपादयति ॥
+
+##### Gist of the bhāṣya
+
+That very praiser (स इत् (*sa it*)) quickly desires (चाकनत् (*cākanat*)), that is, obtains, such well-procured (सुभृतस्य (*subhṛtasya*)) wealth (रायः (*rāyaḥ*)); the genitive is used in the sense of the accusative. रंह्यं (*raṃhyaṃ*): *raṃhaḥ* is speed; for that purpose, the exhilaration (मदं (*madaṃ*)) of this Indra born of the drinking of Soma, which the praiser (यः (*yaḥ*)) knows (चिकेतति (*ciketati*)) through words of praise. O Maghavan, the sacrificer who is increased by you (त्वावृधः (*tvāvṛdhaḥ*)) and has given the sacrifice (दाश्वध्वरः (*dāśvadhvaraḥ*)), with the leaders (नृभिः (*nṛbhiḥ*)), that is, priests or servants, quickly (मक्षु (*makṣu*)) brings (भरते (*bharate*)), that is, procures, riches (धना (*dhanā*)) and food (वाजं (*vājaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Indra
+- रंह्यं (*raṃhyaṃ*)—quickly arising
+- मदं (*madaṃ*)—the exhilaration arising from drinking Soma
+- यः (*yaḥ*)—the man who
+- चिकेतति (*ciketati*)—knows
+- मघवन् (*maghavan*)—O wealthy Indra
+- त्वावृधः (*tvāvṛdhaḥ*)—he who is increased by you
+- दाश्वध्वरः (*dāśvadhvaraḥ*)—and has obtained the fruit of performing the sacrifice, that sacrificer
+- नृभिः (*nṛbhiḥ*)—together with the priests, the leaders of the rite
+- धना (*dhanā*)—riches
+- वाजं (*vājaṃ*)—food
+- मक्षु (*makṣu*)—quickly
+- भरते (*bharate*)—procures
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, the sacrificer who knows the exhilaration that quickly arises in you from the drinking of Soma, and who, increased by you, has obtained the fruit of performing the sacrifice, quickly obtains riches and food together with his own people, the priests who lead the rites and others.
+
+##### English translation
+He obtains well-procured riches, who studies to promote Indra's rapid
+exhilaration. Exalted by (your favour), O Maghavan, (the worshipper),
+celebrating the sacrifice, speedily obtains through the officiating priests, food
+and wealth.
+
+### Printed p. 987
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं शर्धा॑य महि॒ना गृ॑णा॒न उ॒रु कृ॑धि मघवङ्॒ग्धि रा॒यः ।  
+> त्वं नो॑ मि॒त्रो वरु॑णो॒ न मा॒यी पि॒त्वो न द॑स्म दयसे  ॒
+> विभक्ता ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । शर्धाय । महिना । गृणानः । उरु । कृधि । मघवन् । शग्नि । रायः ।  
+> त्वं । नः । मित्रः । वरुणः । न । माया । पित्त्वः । न । दस्म । दयसे । विभक्ता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं महिना महता स्तोत्रेण गृणानः स्तूयमानः सञ्छार्थाय
+> शर्धं बलमुरु कृधि । विस्तीर्णं कुरु । हे मघवन् रायो धनानि च शग्नि । अस्मभ्यं
+> प्रयच्छ । हे दस्म दर्शनीयेंद्र विभक्ता विशेषेण धनानां भाजयिता त्वं मित्रो
+> वरुणो न मित्रवद्वरुणवच्च माया प्रज्ञायुक्तः सन्नोऽस्मभ्यं । नः संप्रत्यर्थे ।
+> संप्रति पित्वोऽन्नानि दयसे । प्रयच्छसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, praised (गृणानः (*gṛṇānaḥ*)) with a great (महिना (*mahinā*)) hymn, make strength (शर्धं (*śardhaṃ*)) wide (उरु कृधि (*uru kṛdhi*)), that is, increase it. O Maghavan, give (शग्नि (*śagni*)) us riches (रायः (*rāyaḥ*)) as well. O beautiful (दस्म (*dasma*)) Indra, you the distributor (विभक्ता (*vibhaktā*)), who especially apportion riches, being endowed with wisdom (माया (*māyā*)) like Mitra and Varuṇa (मित्रो वरुणो न (*mitro varuṇo na*)), give (दयसे (*dayase*)) us food (पित्वः (*pitvaḥ*)). नः (*naḥ*) here is in the sense of "now" (संप्रति (*saṃprati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra), त्वं (*tvaṃ*)—you
+- महिना (*mahinā*)—with a great hymn
+- गृणानः (*gṛṇānaḥ*)—being praised
+- शर्धाय (*śardhāya*)—strength
+- उरु कृधि (*uru kṛdhi*)—widen, that is, increase
+- मघवन् (*maghavan*)—O wealthy Indra
+- रायः (*rāyaḥ*)—riches also
+- शग्नि (*śagni*)—give us
+- दस्म (*dasma*)—O Indra of attractive form
+- विभक्ता (*vibhaktā*)—who especially distribute wealth to the praisers
+- त्वं (*tvaṃ*)—you
+- मित्रः न (*mitraḥ na*)—like Mitra
+- वरुणः (*varuṇaḥ*)—and like Varuṇa
+- माया (*māyā*)—endowed with wisdom
+- स्तो (*sto*)—(not printed)
+- नः (*naḥ*)—to us
+- न (*na*)—now
+- पित्वः (*pitvaḥ*)—food
+- दयसे (*dayase*)—you give
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, praised with great hymns, increase our strength. O wealthy Indra, give us riches as well. O Indra of beautiful form, you who distribute riches among the praisers, endowed with discernment and wisdom like Mitra and Varuṇa, now provide us with food and other nourishment.
+
+### Printed p. 988
+
+##### English translation
+Glorified by great (praise), Maghavan, spread forth your might,
+bestow riches (upon us); beautiful Indra, you are wise like Mitra and Varuna,
+the distributer (of riches), you give us food now.
+
+## Sūkta 148 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुष्वाहास इति पंचर्चं विंशं सूक्तं वेनपुत्रस्य पृथोरार्षं त्रैष्टुभमैंद्रं । अनुक्रांतं च । सुष्वाहासः पृथुर्वैन्य इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning सुष्वाहास (*suṣvāhāsa*), of five Ṛks, is the twentieth sūkta; its seer is Pṛthu, son of Vena; its metre is Triṣṭubh and its deity Indra. The Anukramaṇī says सुष्वाहासः पृथुर्वैन्य (*suṣvāhāsaḥ pṛthurvainya*). The viniyoga has been stated before.
+
+**NOTE**
+
+##### Anuvāda
+
+This sūkta beginning सुष्वाणासः (*suṣvāṇāsaḥ*) is the twentieth sūkta in the eleventh Anuvāka. It has five Ṛks. The seer of this sūkta is Pṛthu, son of Vena; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇī it is said सुष्वाणासः पृथुर्वैश्यः (*suṣvāṇāsaḥ pṛthurvaiśyaḥ*); the viniyoga has been stated before.
+
+Sūkta 148. Maṇḍala 10. Anuvāka 11. Sūkta 148. Aṣṭaka 8. Adhyāya 8. Varga 6. Number of Ṛks in the sūkta: 5. Seer: Pṛthu Vainya. Deity: Indra. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ष्वा॒णास॑ इंद्र स्तु॒मसि॑ त्वा सस॒वांस॑श्च तुविनृम्न॒ वाजं॑ ।  
+> आ नो॑ भर सुवि॒तं यस्य॑ चा॒कन्मना॒ तना॑ सनुयाम॒ त्वोताः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुस्वानासः । इंद्र । स्तुमसि । त्वा । सस्यावांसः । च । तुविनृम्म । वाजं ।  
+> आ । नः । भर । सुवितं । यस्य । चाकन् । त्मना । तना । सनुयाम । त्वाऊताः ॥१॥
+
 ---
 
-**Progress note:** Done through printed p. 982. pp. 977-982 (batch API)
+**Progress note:** Done through printed p. 988. pp. 983-988 (batch API)
