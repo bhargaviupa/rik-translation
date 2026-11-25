@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 369 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359)
-- **Findings:** 1351 — applied 1149, questions 202; edits ok 1154, failed 0
-- **Reader tokens (batches so far):** 3893k; per page 10.6k
-- **Last commit:** f576c52
+- **Pages read:** 399 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399)
+- **Findings:** 1370 — applied 1165, questions 205; edits ok 1170, failed 0
+- **Reader tokens (batches so far):** 3893k; per page 9.8k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -24,22 +24,24 @@
 | 11 | 271–300 | 58 | 45 | 45 / 0 | 13 | 297k | 3514965 | 45 edits (18 S14 sense, 10 S1 chapter/heading numbers, 6 S13, 6 S16, 4 S2 removals, 3 S15); chapter numbers now follow the Kannada (p. 284 ch. 16, p. 285 ch. 17, p. 296 ch. 18); heading numbers 7→3/2 on pp. 271, 277, 283, 291 and Kṣura's date 1290→190 on p. 276 applied as printed (open.tsv); English p. 270 already holds the first lines of Kannada p. 271 |
 | 12 | 301–330 | 114 | 88 | 89 / 0 | 26 | 276k | 1b81f53 | 89 edits (about 38 S14 sense, 22 S16 additions, 8 S17, 8 S13, 5 S15, 8 numbers, 3 inline S7 via sp_sanskrit); roles reversed on p. 322 (10-85-46 speaker), names and facts the print lacks removed on pp. 310–311, 318, 327; three impossible digits (pp. 305–306) judged misprints and the English kept (open.tsv); chapter heading of p. 309 sits at the end of English Page 308 |
 | 13 | 331–359 | 65 | 60 | 60 / 0 | 5 | 280k | f576c52 | 60 edits (about 24 S14, 12 S13, 9 S16, 4 S15, 3 S17, 3 S1, 2 S7 inline); Bhāṣya-bhūmikā opening on p. 344 had roles reversed (Bukka ordered Mādhava, Mādhava named Sāyaṇa) and now follows the Kannada; broken page breaks 340/341 and 337/338 mended; p. 345 not in the supplied text; p. 351 RV 1-164-86 impossible, kept as printed (open.tsv) |
+| 14 | 370–399 | 18 | 16 | 16 / 0 | 2 | TOK13 | @C@ | 16 edits (5 S14, 4 S13, S1, S2, S3, S15, S16, S17); Bhāṣya-bhūmikā pages, mostly Sanskrit passages that are not edited; Śābara's view reversed on p. 386 and the number of priests on p. 379 corrected; English has no section for printed pp. 372–373 (open.tsv: needs a translation); 23 kn_misprints rows |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
 | S7 | 357 | 21 | 378 |
-| S14 | 247 | 2 | 249 |
-| S13 | 197 | 27 | 224 |
+| S14 | 252 | 2 | 254 |
+| S13 | 201 | 27 | 228 |
 | H29 | 0 | 132 | 132 |
-| S1 | 128 | 1 | 129 |
-| S16 | 80 | 3 | 83 |
-| S17 | 27 | 16 | 43 |
-| S15 | 41 | 0 | 41 |
-| S3 | 39 | 0 | 39 |
-| S2 | 33 | 0 | 33 |
+| S1 | 129 | 1 | 130 |
+| S16 | 81 | 3 | 84 |
+| S17 | 28 | 19 | 47 |
+| S15 | 42 | 0 | 42 |
+| S3 | 40 | 0 | 40 |
+| S2 | 34 | 0 | 34 |
+| R6 | 1 | 0 | 1 |
 
-By reader: R1 709, R3 370, R6 272
+By reader: R1 726, R3 370, R6 274
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -90,11 +92,15 @@ By reader: R1 709, R3 370, R6 272
 - **other** (pages 351): Kannada p.351 prints the Rgveda reference ಋ. ೧-೧೬೪-೮೬ (1-164-86), although RV 1.164 has fewer verses and the embedded English on pp.352-353 says R.V. I.164.46; English has 1-164-86 as printed; kept as printed
 - **other** (pages 354): Kannada p.354 prints the Chandogya reference ಛಾ. ಉ. ೭-೧೨ (7-12) where its embedded English footnote says Ch. VII. 1. 2; applied 7-12 in the English block line
 - **other** (pages 342): Kannada p.342 prints ಕ್ರಿ. ಪೂ. ೫೦೨ (502 BC) for the Buddhism date where the English had 500; applied 502
+- **other** (pages 380): Kannada p.380 prose places the four-horned mantra in the 3rd Mandala, 58th Sukta, 3rd Rik, while the Sanskrit line printed above it gives Ṛ. ೪-೫೮-೩; English keeps RV 4-58-3 (from the Sanskrit line); no English prose number to change
+- **other** (pages 379): Kannada p.379: 17 priests including the yajamana may not perform the yajna, sadasya the 18th (Shatapatha Br. 10-4-1-9); applied as printed (English had 16 / seventeenth)
+- **other** (pages 384): Kannada p.384 prints no sutra number or name for the 'avijneyat' sutra (1-2-38 in the English); number removed
+- **page-absent** (pages 372-373): The English has no section for printed pp. 372–373 (Yāska's reply, Bādarāyaṇa's abhimāni-vyapadeśa, the Rudra answer) and p. 371 ends mid-sentence; not added (omissions are not added in the second pass): a translation of these two pages is needed
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 172 Kannada misprints where the English is kept (`kn_misprints.tsv`); 59 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 195 Kannada misprints where the English is kept (`kn_misprints.tsv`); 67 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

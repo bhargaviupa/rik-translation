@@ -47,3 +47,7 @@ other	345	Kannada p.345 is marked NOT IN THE SUPPLIED TEXT; the English has no p
 other	351	Kannada p.351 prints the Rgveda reference ಋ. ೧-೧೬೪-೮೬ (1-164-86), although RV 1.164 has fewer verses and the embedded English on pp.352-353 says R.V. I.164.46; English has 1-164-86 as printed; kept as printed
 other	354	Kannada p.354 prints the Chandogya reference ಛಾ. ಉ. ೭-೧೨ (7-12) where its embedded English footnote says Ch. VII. 1. 2; applied 7-12 in the English block line
 other	342	Kannada p.342 prints ಕ್ರಿ. ಪೂ. ೫೦೨ (502 BC) for the Buddhism date where the English had 500; applied 502
+other	380	Kannada p.380 prose places the four-horned mantra in the 3rd Mandala, 58th Sukta, 3rd Rik, while the Sanskrit line printed above it gives Ṛ. ೪-೫೮-೩; English keeps RV 4-58-3 (from the Sanskrit line); no English prose number to change
+other	379	Kannada p.379: 17 priests including the yajamana may not perform the yajna, sadasya the 18th (Shatapatha Br. 10-4-1-9); applied as printed (English had 16 / seventeenth)
+other	384	Kannada p.384 prints no sutra number or name for the 'avijneyat' sutra (1-2-38 in the English); number removed
+page-absent	372-373	The English has no section for printed pp. 372–373 (Yāska's reply, Bādarāyaṇa's abhimāni-vyapadeśa, the Rudra answer) and p. 371 ends mid-sentence; not added (omissions are not added in the second pass): a translation of these two pages is needed

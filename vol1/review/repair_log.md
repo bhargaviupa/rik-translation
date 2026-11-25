@@ -1324,3 +1324,23 @@ One line per repair of the closed English file: page, old -> new, why. Made by t
 | 354 | `...this same pattern holds in the Rigveda, Yajurveda, and Samaveda alike. Each Veda` → `...are prescribed in the Rigveda, in the Yajurveda and in the Samaveda. But where the proc` | SECOND-PASS S17: Kannada p.353-354: anekasandarbhagalalli Rgvedadalli heliruva vidhanavoo Yajurveda Samavedagalalli heliruva vidhanagaloo vyatyasavadare Rgvedavidhaneve mukhya,  |
 | 354 | `The same holds for many Samaveda mantras that are themselves drawn from the Rigveda` → `As for the Samaveda, it is known to all that all its mantras are found in the Rigveda itse` | SECOND-PASS S14: Kannada p.354: samavedadalliruva mantragalellavoo Rgvedadalliye iruva vicharavu ellarigoo tilideiruvudu (all, not many) |
 | 354 | `(Chandogya Upanishad 7-1-2)` → `(Chandogya Upanishad 7-12)` | SECOND-PASS S1: Kannada p.354 (ಛಾ. ಉ. ೭-೧೨): reference taken from the Kannada numerals |
+
+### 2026-11-25 second pass, batch e370-399.tsv
+| page | old → new | why |
+|---|---|---|
+| 379 | `should not proceed with only sixteen priests` → `should not be performed with seventeen priests` | SECOND-PASS S2: Kannada p379: 17 ritvijas (16 plus yajamana) may not perform the yajna (Sh. Br. 10-4-1-9) |
+| 379 | `therefore appoint a seventeenth priest` → `therefore appoint an eighteenth priest` | SECOND-PASS S1: Kannada p379: sadasya appointed as the 18th (೧೮ನೆಯವನ್ನಾಗಿ) |
+| 384 | `### "Avijñeyāt" (Jaimini Sutra 1-2-38)` → `` | SECOND-PASS S16: Kannada p384 prints no sutra number or name for this sutra; number and name removed |
+| 386 | `reciting mantras with meaning as the primary intention involves no fault at all` → `merely reciting the mantras, without making their meaning the primary aim, involves no fau` | SECOND-PASS S15: Kannada p386: ಅರ್ಥವನ್ನು ಮುಖ್ಯೋದ್ದಿಶ್ಯವಾಗಿಟ್ಟುಕೊಳ್ಳದೆ ಮಂತ್ರೋಚ್ಚಾರಣೆಯನ್ನು ಮಾತ್ರ ಮಾಡುವುದರಿಂದ ದೋಷವೇನೂ ಇಲ್ಲ (Shabara's view reversed in English) |
+| 386 | `"abhimāninyaḥ pa-devatāḥ"` → `"abhimānivyapadeśaḥ" of Vyasa's Vedanta-sutras` | SECOND-PASS S13: Kannada p386: ವ್ಯಾಸರ ವೇದಾಂತಸೂತ್ರಗಳಿಂದ ಅಭಿಮಾನಿವ್ಯಪದೇಶಃ ಎಂಬ ಸೂತ್ರ; form copied from English p381 |
+| 386 | `"Api śiṣṭasya vākyārthaḥ"` → `"Aviśiṣṭastu vākyārthaḥ"` | SECOND-PASS S13: Kannada p386: ಅವಿಶಿಷ್ಟಸ್ತು ವಾಕ್ಯಾರ್ಥಃ (Jaimini 1-2-40); letters from sp_sanskrit.py of the Kannada |
+| 387 | `with four [strokes/portions]` → `with four [mantras]` | SECOND-PASS S14: Kannada p388-389: ನಾಲ್ಕು ಮಂತ್ರಗಳನ್ನೂ ಉಚ್ಚರಿಸಿ ಅಭ್ರಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು (four mantras, not strokes) |
+| 388 | `*how many strokes* constitute proper use` → `*how many mantras* constitute proper use` | SECOND-PASS S14: Kannada p388-389: the Brahmana enjoins all four mantras (ಚತುರ್ಭಿಃ) |
+| 388 | `precisely what its "prāptaviṣṭyaṃ prayojanam" (immediately applicable purpose) consists in` → `as the Shabara-bhashya says` | SECOND-PASS S13: Kannada p388 quotes ತಸ್ಮಾದಸ್ಯ ಪ್ರಯೋಜನಂ ... ನ ಶಕ್ಯಮಪವದಿತುಂ; the English phrase prāptaviṣṭyaṃ prayojanam is not in the Kannada |
+| 388 | `exactly four applications are required` → `exactly four mantras are required` | SECOND-PASS S14: Kannada p389: ನಾಲ್ಕು ಮಂತ್ರಗಳನ್ನೂ ಹೇಳಬೇಕು |
+| 392 | `The mantra "imāmu gṛbhṇan"` → `The mantra "imām agṛbhṇan"` | SECOND-PASS R6: Kannada p392 ಇಮಾಮ ಗೃಭ್ನನ್ / p389 ಇಮಾಮಗೃ..., p388 ಇಮಾಮಗೃಭ್ಣನ್ರಶನಾಮೃತಸ್ಯ; form copied from English p389 |
+| 392 | `failing to exclude the donkey's rope` → `barring the donkey's rope` | SECOND-PASS S14: Kannada p392: ಪ್ರಾಪ್ತಬಾಧ = the attained (donkey-rope) taking is barred; English had the sense reversed |
+| 394 | `Grammarians and poeticians, following their own logical conventions,` → `Grammarians and rhetoricians, like the logicians (Naiyayikas),` | SECOND-PASS S17: Kannada p394: ವೈಯಾಕರಣಿಗಳು, ಆಲಂಕಾರಿಕರು ನೈಯಾಯಕರಂತೆ |
+| 395 | `(Jaimini Sutra 1-2-46, with Shabara-bhashya)` → `(Shabara-bhashya sentence)` | SECOND-PASS S3: Kannada p395/397: ಮಂತ್ರಾಭಿಧಾನಾತ್ (ಶಾಬರಭಾಷ್ಯವಾಕ್ಯ), not a Jaimini sutra; no number printed |
+| 396 | `Ratrisukta` → `Ratrisatra` | SECOND-PASS S13: Kannada p396: ರಾತ್ರಿಸತ್ರ |
+| 399 | `confers a directly-observable refinement` → `confers an unseen refinement` | SECOND-PASS S14: Kannada p399: ವಿಶೇಷವಾದ ಅದೃಷ್ಟಫಲ; Sanskrit niyamādṛṣṭa-lakṣaṇasya |

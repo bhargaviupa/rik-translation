@@ -1350,3 +1350,22 @@ page	kind	reader	place	as_found	proposed	basis	decision	log
 349	S17	R1	Mimamsa paragraph	English omits the name Badarayana and the account of Purva-Mimamsa as a sadhana-grantha	(none; omission not added)	Kannada p.348-349	kept	
 358	S17	R1	Shakvari paragraph	English omits the Kannada remark that Shakvari is one of seven chief metres (list)	(none; omission not added)	Kannada p.358 Gayatri, Trishtup, Jagati, Anushtup, Pankti, Ushnik, Shakvari	kept	
 343	S13	R6	embedded English footnotes	Kannada embedded English has OCR-like typos (ancieat, undertakinks, Sambita, forih, from for form)	English file has the corrected spelling	Kannada pp.337-359 embedded English; harmless spelling	kept	
+379	S2	R1	priest count	should not proceed with only sixteen priests	should not be performed with seventeen priests	Kannada p379: 17 ritvijas (16 plus yajamana) may not perform the yajna (Sh. Br. 10-4-1-9)	applied	
+379	S1	R1	sadasya ordinal	therefore appoint a seventeenth priest	therefore appoint an eighteenth priest	Kannada p379: sadasya appointed as the 18th (೧೮ನೆಯವನ್ನಾಗಿ)	applied	
+384	S16	R1	sutra heading number	### "Avijñeyāt" (Jaimini Sutra 1-2-38)		Kannada p384 prints no sutra number or name for this sutra; number and name removed	applied	
+386	S15	R1	Shabara view	reciting mantras with meaning as the primary intention involves no fault at all	merely reciting the mantras, without making their meaning the primary aim, involves no fault at all	Kannada p386: ಅರ್ಥವನ್ನು ಮುಖ್ಯೋದ್ದಿಶ್ಯವಾಗಿಟ್ಟುಕೊಳ್ಳದೆ ಮಂತ್ರೋಚ್ಚಾರಣೆಯನ್ನು ಮಾತ್ರ ಮಾಡುವುದರಿಂದ ದೋಷವೇನೂ ಇಲ್ಲ (Shabara's view reversed in English)	applied	
+386	S13	R1	sutra name	"abhimāninyaḥ pa-devatāḥ"	"abhimānivyapadeśaḥ" of Vyasa's Vedanta-sutras	Kannada p386: ವ್ಯಾಸರ ವೇದಾಂತಸೂತ್ರಗಳಿಂದ ಅಭಿಮಾನಿವ್ಯಪದೇಶಃ ಎಂಬ ಸೂತ್ರ; form copied from English p381	applied	
+386	S13	R1	sutra heading name	"Api śiṣṭasya vākyārthaḥ"	"Aviśiṣṭastu vākyārthaḥ"	Kannada p386: ಅವಿಶಿಷ್ಟಸ್ತು ವಾಕ್ಯಾರ್ಥಃ (Jaimini 1-2-40); letters from sp_sanskrit.py of the Kannada	applied	
+387	S14	R1	four mantras	with four [strokes/portions]	with four [mantras]	Kannada p388-389: ನಾಲ್ಕು ಮಂತ್ರಗಳನ್ನೂ ಉಚ್ಚರಿಸಿ ಅಭ್ರಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು (four mantras, not strokes)	applied	
+388	S14	R1	four mantras	*how many strokes* constitute proper use	*how many mantras* constitute proper use	Kannada p388-389: the Brahmana enjoins all four mantras (ಚತುರ್ಭಿಃ)	applied	
+388	S13	R1	quoted phrase	precisely what its "prāptaviṣṭyaṃ prayojanam" (immediately applicable purpose) consists in, per the Shabara-bhashya	as the Shabara-bhashya says	Kannada p388 quotes ತಸ್ಮಾದಸ್ಯ ಪ್ರಯೋಜನಂ ... ನ ಶಕ್ಯಮಪವದಿತುಂ; the English phrase prāptaviṣṭyaṃ prayojanam is not in the Kannada	applied	
+388	S14	R1	four mantras	exactly four applications are required	exactly four mantras are required	Kannada p389: ನಾಲ್ಕು ಮಂತ್ರಗಳನ್ನೂ ಹೇಳಬೇಕು	applied	
+392	R6	R6	mantra name	The mantra "imāmu gṛbhṇan"	The mantra "imām agṛbhṇan"	Kannada p392 ಇಮಾಮ ಗೃಭ್ನನ್ / p389 ಇಮಾಮಗೃ..., p388 ಇಮಾಮಗೃಭ್ಣನ್ರಶನಾಮೃತಸ್ಯ; form copied from English p389	applied	
+392	S14	R1	third fault	failing to exclude the donkey's rope	barring the donkey's rope	Kannada p392: ಪ್ರಾಪ್ತಬಾಧ = the attained (donkey-rope) taking is barred; English had the sense reversed	applied	
+394	S17	R1	grammarians	Grammarians and poeticians, following their own logical conventions,	Grammarians and rhetoricians, like the logicians (Naiyayikas),	Kannada p394: ವೈಯಾಕರಣಿಗಳು, ಆಲಂಕಾರಿಕರು ನೈಯಾಯಕರಂತೆ	applied	
+395	S3	R1	heading number	(Jaimini Sutra 1-2-46, with Shabara-bhashya)	(Shabara-bhashya sentence)	Kannada p395/397: ಮಂತ್ರಾಭಿಧಾನಾತ್ (ಶಾಬರಭಾಷ್ಯವಾಕ್ಯ), not a Jaimini sutra; no number printed	applied	
+396	S13	R1	Ratrisatra	Ratrisukta	Ratrisatra	Kannada p396: ರಾತ್ರಿಸತ್ರ	applied	
+399	S14	R1	samskara	confers a directly-observable refinement	confers an unseen refinement	Kannada p399: ವಿಶೇಷವಾದ ಅದೃಷ್ಟಫಲ; Sanskrit niyamādṛṣṭa-lakṣaṇasya	applied	
+372	S17	R6	Kannada misprints in the Sanskrit lines	Kannada misprints ಅಮ್ಯಕ್ಸಾತ, ಸ್ಥಾನೋರಪರಾಧೋ	English kept	Kannada misprint; English Sanskrit is derived data	kept	
+380	S17	R1	prose: Mandala 3 / Sukta 58 / Rik 3	Kannada prose says 3rd Mandala, 58th Sukta, 3rd Rik; the Sanskrit line above it prints 4-58-3; English prose has no such sentence (RV 4-58-3 from the Sanskrit line)	English kept	kept: number conflict listed in open.tsv	kept	
+372-373	S17	R1	no English section	English has no section for printed pp. 372 and 373 (Yaska/Nirukta reply, Badarayana, Rudra answer)	English kept	omission not added; listed in decided_by_default.tsv	kept	

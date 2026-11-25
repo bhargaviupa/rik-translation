@@ -6583,7 +6583,7 @@ Generally, yajnas employ sixteen priests, organized into four groups (**गण**
 - **उद्गातृगण** (*udgātṛgaṇa*, Udgatr-group) — प्रस्तोता (*prastotā*), प्रतिहर्ता (*pratihartā*), सुब्रह्मण्य (*subrahmaṇya*) — Samaveda priests.
 - **ब्रह्मगण** (*brahmagaṇa*, Brahma-group) — ब्राह्मणाच्छंसी (*brāhmaṇācchaṃsī*), आग्नीध्र (*āgnīdhra*), पोता (*potā*) — priests who must be learned across all the Vedas.
 
-Altogether there are sixteen priests; with the yajamana, seventeen persons. But the Shatapatha Brahmana (10-4-1-9) states that a yajna should not proceed with only sixteen priests — followers of the Kaushitaki shakha therefore appoint a seventeenth priest, the **सदस्य** (*sadasya*), who oversees the entire proceeding to ensure everything runs correctly (this appointment is not customary among Ashvalayana-shakha followers).
+Altogether there are sixteen priests; with the yajamana, seventeen persons. But the Shatapatha Brahmana (10-4-1-9) states that a yajna should not be performed with seventeen priests — followers of the Kaushitaki shakha therefore appoint an eighteenth priest, the **सदस्य** (*sadasya*), who oversees the entire proceeding to ensure everything runs correctly (this appointment is not customary among Ashvalayana-shakha followers).
 
 The mantra "Agnīd agnīn vihara," discussed above, is used specifically when carrying fire from the Agnidh's altar to the other altars. But the Agnidh and other priests such as the Adhvaryu already know their duties, and the meaning and purpose of the mantras, from their period of Vedic study. Restating what is already known is therefore pointless — as pointless, the objection says, as putting a second shoe over a foot already shod.
 
@@ -6724,7 +6724,7 @@ That is: just as a mantra's meaning goes unattended during rote study, so too it
 
 **Resolution to the Purnika objection:** there is no intention of conveying meaning when the student recites the mantra during rote study, and Purnika herself has no capacity to grasp it. But in yajna-rites proper, the Adhvaryu priest reciting mantras does know their meaning, does intend to convey it, and those present are capable of understanding it. The claim that mantras are meaningless does not hold.
 
-### "Avijñeyāt" (Jaimini Sutra 1-2-38)
+
 
 > केषांचिन्मन्त्राणामर्थो विज्ञातुं न शक्यते । तद्यथा । अम्यक्स त इन्द्र ऋष्टिरस्मे (RV 1-169-3) इत्येको मन्त्रः । सृण्येव जर्भरी तुर्फरीतू (RV 10-106-6) इत्यपरो मन्त्रः । ननु एतस्मान्मन्त्रार्थबोधायैव निगमनिरुक्तव्याकरणानि सन्तीत्याशंक्य दोषान्तरं सूत्रयति ॥
 >
@@ -6784,11 +6784,11 @@ That is: since mantras mention transient, historically-bound proper names — a 
 
 In his Purva-Mimamsa sutras, before establishing that mantras do carry meaning, Jaimini himself first gathered every possible objection on the subject and presented them as the purva-paksha. Sayanacharya, rather than composing his own independent arguments, works directly through Jaimini's own sutras — though in places he interprets them along a path somewhat different from the classical commentators (Shabara, Kumarila, and others), who did not, sutra by sutra, anticipate the siddhantin's coming resolution before commenting on each subsequent sutra.
 
-One notable divergence: Mimamsakas do not generally accept resolutions like "lifeless objects have presiding deities" or "yogis possess extraordinary powers" as doing genuine argumentative work — Shabara's own commentary instead holds that reciting mantras with meaning as the primary intention involves no fault at all. Sayanacharya, however, resolves this very objection using the sutra "abhimāninyaḥ pa-devatāḥ" ("the deities are the presiding spirits [of these objects]"). By anticipating objections this way throughout, Sayana's argument reads as complete and self-contained. We follow Sayanacharya's own interpretation of Jaimini's sutras from here onward.
+One notable divergence: Mimamsakas do not generally accept resolutions like "lifeless objects have presiding deities" or "yogis possess extraordinary powers" as doing genuine argumentative work — Shabara's own commentary instead holds that merely reciting the mantras, without making their meaning the primary aim, involves no fault at all. Sayanacharya, however, resolves this very objection using the sutra "abhimānivyapadeśaḥ" of Vyasa's Vedanta-sutras ("the deities are the presiding spirits [of these objects]"). By anticipating objections this way throughout, Sayana's argument reads as complete and self-contained. We follow Sayanacharya's own interpretation of Jaimini's sutras from here onward.
 
 **There, Jaimini formulates the siddhanta (resolution):**
 
-### "Api śiṣṭasya vākyārthaḥ" (Jaimini Sutra 1-2-40)
+### "Aviśiṣṭastu vākyārthaḥ" (Jaimini Sutra 1-2-40)
 
 > तुशब्देन मन्त्राणामुद्दिष्टार्थमुच्चारणमात्रं वारयति । क्रियाकारकसंबन्धेन प्रतीयमानो वाक्यार्थो लोकवेदयोरविशिष्टः । तथा सति यथा लोकेऽर्थप्रत्यायनायैव वाक्यमुच्चार्यते तथा वैदिकयागप्रयोगेऽपि दृश्यम् । मन्त्रेण प्रकाशितस्यार्थोऽनुष्ठातुं शक्यते न...
 >
@@ -6815,7 +6815,7 @@ One notable divergence: Mimamsakas do not generally accept resolutions like "lif
 
 That is: mantra-meaning is established through the relation of action and its instruments, exactly as in ordinary speech — this holds equally for sacred and secular language alike. The word "tu" ("but") in this sutra rejects the earlier objection's claim that mantras serve merely recitation and not meaning; a new meaning, once revealed by a mantra, is what makes ritual action possible, and this alone is the mantra's directly observable (dṛṣṭa) purpose — not some purely "spiritual"/unseen one. Just as an ordinary sentence is uttered specifically to convey its meaning, so too must a Vedic mantra be understood as functioning the same way.
 
-A further objection is then raised: consider the sequence of mantras running from "abhrir asi nārir asi" through "traiṣṭubhena cchandasā dade" — on your view, this passage fully describes the taking-up of the "ābhri" (a ritual implement). If so, the Brahmana's separate injunction "caturbhir ābhrim ādatte" ("one takes up the ābhri with four [strokes/portions]") becomes entirely redundant. Jaimini anticipates and answers this objection in the next sutra.
+A further objection is then raised: consider the sequence of mantras running from "abhrir asi nārir asi" through "traiṣṭubhena cchandasā dade" — on your view, this passage fully describes the taking-up of the "ābhri" (a ritual implement). If so, the Brahmana's separate injunction "caturbhir ābhrim ādatte" ("one takes up the ābhri with four [mantras]") becomes entirely redundant. Jaimini anticipates and answers this objection in the next sutra.
 
 ---
 
@@ -6828,9 +6828,9 @@ A further objection is then raised: consider the sequence of mantras running fro
 
 ### Page 388
 
-The general point: acting according to a purpose already understood is the aim [of ritual action] — one must be able to say *why* a given act is performed, since even if the act itself succeeds mechanically, uttering words devoid of meaning cannot explain "why" it was done. The reason each individual mantra is recited must be known; without this, others simply perform the action mechanically. Since this defeats the purpose behind ritual acts, a mantra's meaning must be understood as serving a genuinely observable (dṛṣṭa) purpose — precisely what its "prāptaviṣṭyaṃ prayojanam" (immediately applicable purpose) consists in, per the Shabara-bhashya. Meaning is therefore not a matter of unseen (adṛṣṭa) purpose alone — it is directly observable purpose. To claim otherwise contradicts how language works in ordinary human affairs, where sentences are understood specifically to convey meaning; the same applies to Vedic sentences. The unseen fruit that arises specifically from the *act of recitation itself* is a separate matter — but understanding the meaning is what makes the resulting Dharmic fruit (dharma) possible, and this is what both types of purpose ultimately serve together.
+The general point: acting according to a purpose already understood is the aim [of ritual action] — one must be able to say *why* a given act is performed, since even if the act itself succeeds mechanically, uttering words devoid of meaning cannot explain "why" it was done. The reason each individual mantra is recited must be known; without this, others simply perform the action mechanically. Since this defeats the purpose behind ritual acts, a mantra's meaning must be understood as serving a genuinely observable (dṛṣṭa) purpose — as the Shabara-bhashya says. Meaning is therefore not a matter of unseen (adṛṣṭa) purpose alone — it is directly observable purpose. To claim otherwise contradicts how language works in ordinary human affairs, where sentences are understood specifically to convey meaning; the same applies to Vedic sentences. The unseen fruit that arises specifically from the *act of recitation itself* is a separate matter — but understanding the meaning is what makes the resulting Dharmic fruit (dharma) possible, and this is what both types of purpose ultimately serve together.
 
-If a mantra's meaning is granted, but the Brahmana's own separate injunction (e.g., regarding the fourfold use of the "abhri") becomes redundant given this — that objection was raised on the previous page. It is resolved as follows: this mantra alone does not specify by itself *how many strokes* constitute proper use of the "abhri" — that detail must be learned from elsewhere. Even granting the mantra's own meaning, the Brahmana statement "caturbhir ābhrim ādatte" still serves an independent, non-redundant purpose, specifying the count — resolving the apparent contradiction between the objection and the resolution.
+If a mantra's meaning is granted, but the Brahmana's own separate injunction (e.g., regarding the fourfold use of the "abhri") becomes redundant given this — that objection was raised on the previous page. It is resolved as follows: this mantra alone does not specify by itself *how many mantras* constitute proper use of the "abhri" — that detail must be learned from elsewhere. Even granting the mantra's own meaning, the Brahmana statement "caturbhir ābhrim ādatte" still serves an independent, non-redundant purpose, specifying the count — resolving the apparent contradiction between the objection and the resolution.
 
 ### "Guṇārthena punaḥ-śrutiḥ" (Jaimini Sutra 1-2-41)
 
@@ -6839,7 +6839,7 @@ If a mantra's meaning is granted, but the Brahmana's own separate injunction (e.
 >
 > *(The repetition in the Brāhmaṇa of a meaning already known from the mantra serves to enjoin a subsidiary detail, the number four; without it the abhri might be taken with any one of the four mantras. But in "imām agṛbhṇan raśanām ṛtasya … he takes the halter", where the taking of the halter already follows from the mantra's own power, the Brāhmaṇa sentence is again given as directing its use — on your view that is pointless; raising this doubt, he states the answer. Re-read from the better scan in the [?] pass.)*
 
-That is: where a mantra's own already-understood meaning is repeated in a Brahmana passage, that repetition is not redundant — it serves to specify a quantifying detail (here, that exactly four applications are required), a detail the mantra by itself leaves open, since without such specification, a priest might assume he had the option to use any single one of the four mantras referenced.
+That is: where a mantra's own already-understood meaning is repeated in a Brahmana passage, that repetition is not redundant — it serves to specify a quantifying detail (here, that exactly four mantras are required), a detail the mantra by itself leaves open, since without such specification, a priest might assume he had the option to use any single one of the four mantras referenced.
 
 ---
 
@@ -6937,9 +6937,9 @@ Pariṣaṅkhyā itself comes in two kinds: **Shrauti** (explicit, marked by wor
 
 ### Page 392
 
-The mantra "imāmu gṛbhṇan" is used in the fire-altar construction rite (agnichayana): bricks are needed for the fire-pit, horses and donkeys carry the required earth, and ropes are needed to lead them — this mantra is recited while taking hold of such a rope. Without the Brahmana statement "ity aśvābhidhānīm ādatte" ("thus he takes the horse-named rope"), the mantra might be recited while taking up either the horse's or the donkey's rope; this Brahmana statement clarifies that it should specifically accompany taking up the horse's rope, not the donkey's — precisely the pariṣaṅkhyā function.
+The mantra "imām agṛbhṇan" is used in the fire-altar construction rite (agnichayana): bricks are needed for the fire-pit, horses and donkeys carry the required earth, and ropes are needed to lead them — this mantra is recited while taking hold of such a rope. Without the Brahmana statement "ity aśvābhidhānīm ādatte" ("thus he takes the horse-named rope"), the mantra might be recited while taking up either the horse's or the donkey's rope; this Brahmana statement clarifies that it should specifically accompany taking up the horse's rope, not the donkey's — precisely the pariṣaṅkhyā function.
 
-An objection arises: without this Brahmana statement, three flaws would follow if the mantra alone were held to demand taking up any rope indiscriminately — abandoning the natural meaning of "ādāna/grahaṇa" (taking/holding), assuming a foreign meaning ("not taking"), and failing to exclude the donkey's rope, which the general word "rope" would otherwise include. As stated:
+An objection arises: without this Brahmana statement, three flaws would follow if the mantra alone were held to demand taking up any rope indiscriminately — abandoning the natural meaning of "ādāna/grahaṇa" (taking/holding), assuming a foreign meaning ("not taking"), and barring the donkey's rope, which the general word "rope" would otherwise include. As stated:
 
 > श्रुतार्थस्य परित्यागः अश्रुतार्थस्य कल्पनात् । प्राप्तस्य बाधो द्वेषं परिसंख्या त्रिदोषणा ॥
 >
@@ -6996,7 +6996,7 @@ In sum, whether or not this statement technically counts as pariṣaṅkhyā, on
 >
 > *(A further technical clarification concluding the previous argument, on why a mantra and its explanatory Brahmana statement do not genuinely compete for authority; precise phrase-level construction is difficult to render exactly at this resolution.)*
 
-Grammarians and poeticians, following their own logical conventions, do not accept a real distinction between niyama-vidhi and pariṣaṅkhyā-vidhi:
+Grammarians and rhetoricians, like the logicians (Naiyayikas), do not accept a real distinction between niyama-vidhi and pariṣaṅkhyā-vidhi:
 
 > नियमोऽप्यैक्या दर्शने परिसंख्यैव साक्षिकप्राप्तियुगपत्प्रिदोष्सावंकेरपीक्ष्यस्यविज्ञानात् । अक एव वैयाकरणानां मते परिसंख्यापि नियमश्चेत्युच्यते । (रसगंगाधर परिसंख्याप्रकरण)
 >
@@ -7028,7 +7028,7 @@ What was termed pariṣaṅkhyā-vidhi in the previous sutra applies only to tha
 
 ### Page 395
 
-### "Mantrābhidhānāt" (Jaimini Sutra 1-2-46, with Shabara-bhashya)
+### "Mantrābhidhānāt" (Shabara-bhashya sentence)
 
 > अध्वर्युः पुरोडाशमुद्दिश्य मन्त्रे प्रथस्वेत्येवमभिधत्ते । तस्मादभिधानादध्वर्युकर्तृकं प्रथनं प्राप्तम् । यथा लोके यः कुर्विति ब्रूते स कारयत्येव तथात्रापि यः प्रथस्वेति ब्रूते स प्रथयत्येव ।
 >
@@ -7086,7 +7086,7 @@ Corresponding to the three pramanas (perception, inference, revealed word), arth
 > *indro vṛtrāya vajram udayacchat |*
 > "Indra raised the thunderbolt against Vritra"
 
-On this third category, a genuine disagreement exists between Agama-authority proponents (like Badarayana and Sayana) and the Mimamsakas. Sayanacharya holds that rejecting the literal truth of bhūtārthavāda statements would render *all* texts — Veda, Purana, Itihasa alike — unauthoritative. The Mimamsakas instead hold that bhūtārthavādas must be read purely as praise or censure, not literal fact. But the Mimamsaka position doesn't fully hold up: consider that the "Ratrisukta" yajna's own mantras nowhere state the rite's fruit — that fruit appears only in the associated arthavāda. Even the Mimamsakas must therefore accept that arthavāda genuinely conveys authoritative new information in such cases.
+On this third category, a genuine disagreement exists between Agama-authority proponents (like Badarayana and Sayana) and the Mimamsakas. Sayanacharya holds that rejecting the literal truth of bhūtārthavāda statements would render *all* texts — Veda, Purana, Itihasa alike — unauthoritative. The Mimamsakas instead hold that bhūtārthavādas must be read purely as praise or censure, not literal fact. But the Mimamsaka position doesn't fully hold up: consider that the "Ratrisatra" yajna's own mantras nowhere state the rite's fruit — that fruit appears only in the associated arthavāda. Even the Mimamsakas must therefore accept that arthavāda genuinely conveys authoritative new information in such cases.
 
 ---
 
@@ -7172,7 +7172,7 @@ Sutra's meaning: what the second sutra states is not opposed to our view. The in
 > संप्रेष-कर्मणो गर्हा त्वद्-उक्त दोषो नोपलभ्यते । बुद्धस्याप्य् अर्थस्य मन्त्रेणानुसंस्करणान् नियमाद् दृष्ट-लक्षणस्य संस्कारस्य सद्भावात् । यच् चोक्तं चत्वारि शृङ्गेति मन्त्रेऽसंभवम् एवार्थम् अभिधत्त इति तस्योत्तरं सूत्रयति ॥
 > *saṃpreṣa-karmaṇo garhā tvad-ukta doṣo nopalabhyate | buddhasyāpy arthasya mantreṇānusaṃskaraṇān niyamād dṛṣṭa-lakṣaṇasya saṃskārasya sadbhāvāt | yac coktaṃ catvāri śṛṅgeti mantre'saṃbhavam evārtham abhidhatta iti tasyottaraṃ sūtrayati ||*
 >
-> "The fault you alleged for acts commanded by 'presha' (directive) mantras is not actually found. Even for already-known matter, reciting the mantra confers a directly-observable refinement (saṃskāra) upon the act, following the established rule. As for the earlier objection that the 'four-horned' mantra states something self-evidently impossible, an answer to that follows too."
+> "The fault you alleged for acts commanded by 'presha' (directive) mantras is not actually found. Even for already-known matter, reciting the mantra confers an unseen refinement (saṃskāra) upon the act, following the established rule. As for the earlier objection that the 'four-horned' mantra states something self-evidently impossible, an answer to that follows too."
 
 Sutra's meaning: since an injunctive statement conveys ritual refinement (saṃskāra), it escapes the objection. Mantras like "prokṣaṇīr āsādaya" and "agnīd agnīn vihara" are **presha-mantras** — directive mantras commanding that certain acts be performed. Their stated meaning may already be known, but reciting the mantra to re-announce the act carries a special unseen fruit precisely through following this rule.
 
