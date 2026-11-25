@@ -5,6 +5,7 @@ import pypandoc
 from weasyprint import HTML
 import build as B
 import vol1_clean
+import print_rules
 
 PUB = B.PUB
 PLAIN_NO = re.compile(r'^(#|<|>|\s*[-*] |\d+\. |\||:::)')
@@ -43,6 +44,7 @@ def transform_v1(md):
 def build(mode='full'):
     vol1_clean.clean()
     md = (PUB / 'work' / 'vol1_clean.md').read_text(encoding='utf-8')
+    md = print_rules.apply(md, report=True)      # REQUIREMENTS A4a: print rules of the user's Vol 1 PDF review (Nov 25 2026)
     if mode == 'pilot':                       # Preface .. first 40 blocks of Part I
         cut = md.index('# PART I')
         md = md[:cut] + md[cut:cut + 30000]
@@ -77,14 +79,15 @@ def build(mode='full'):
             toc.append(f'<li class="su"><a href="#{pid}">{html.escape(plabel)}</a></li>')
         for cid, cl in chs:
             toc.append(f'<li class="ch{" rm" if not pid else ""}"><a href="#{cid}">{html.escape(cl)}</a></li>')
-    toc.append('<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>')
+    toc.append('<li class="su"><a href="#notes">Collected Notes</a></li>' if notes else '')
+    toc.append('</ul></section>')
     toc_html = '\n'.join(toc)
 
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">
 <title>Ṛgveda-saṃhitā, Volume 1</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="style_vol1.css"></head><body>
 {B.front_matter(1, "Pūrva-pīṭhikā · Sāyaṇa’s Bhāṣya-bhūmikā · Maṇḍala 1, Sūktas 1–2", [], cover='cover_vol1.jpg', toc_html=toc_html)}
 {body_html}
-{B.notes_appendix(notes)}
+{B.notes_appendix(notes) if notes else ''}
 </body></html>'''
     out = PUB / 'out'; out.mkdir(exist_ok=True)
     (out / f'vol1_{mode}.html').write_text(doc, encoding='utf-8')

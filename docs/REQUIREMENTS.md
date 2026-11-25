@@ -86,7 +86,7 @@ The credits of the original edition are either marked clearly as taken from the 
 - **Body:** no page numbers of the original. 
 - **Footnotes:** not used for references.
 
-### A4a. Print rules from the user's reading of the Vol 1 PDF (Nov 25 2026; *decided*, not built; they hold for every volume's PDF)
+### A4a. Print rules from the user's reading of the Vol 1 PDF (Nov 25 2026; *decided*; **built for Vol 1 as `publish/print_rules.py`, called by `publish/build_vol1.py`** (rules 1, 2, 3, 4, 5, 6, 8, 9 in the draft text; rules 10–12 and the headings of rule 4 not yet); the other volumes' builds do not call it yet; they hold for every volume's PDF)
 1. **No reference to the page numbers of the Kannada book in the text** (the "original p. 3" marks and the like: 711 in the Vol 1 draft). A sentence that such a mark cut is joined and the sentence is readjusted (a "…" before and after the mark goes). **The footer keeps the page number** (user, Nov 25 2026: "Footer: yes it can contain page nr"; A4, F3).
 2. **Nothing of ours in the text or in footnotes:** no translator comments ("the next pages …", "Opening invocatory verse (a traditional Sanskrit shloka, not original to this author):", "printed pages 17–24, originally missing from the source scan, were supplied from a second …"), no stray or translator footnotes (they are removed, not moved).
 3. **Contents:** no leader dots with "p. 1" after an entry that has no page of its own.
