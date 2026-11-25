@@ -23054,6 +23054,137 @@ Only one who attains the vision of non-duality, without duality, becomes a dwell
 
 This Supreme Self is the essence of the whole world. By the taking of this essence bliss is obtained by every person. If there were not this bliss alone, what living being would breathe and live? Thus the Supreme Brahman, the life-giver of the world, is praised as the one who gives true bliss. To obtain the shelter of the Self, who nourishes the world, is the natural longing of the whole world.
 
+### Printed p. 825
+
+ततो विष्णुज् व्यक्रामत् (*tato viṣṇuj vyakrāmat*) stands in the preceding Ṛk. स जातो अत्यरिच्यत (*sa jāto atyaricyata*) is the pāda of this Ṛk. Sāyaṇa states the same purport in both places: the meaning is that he became of the form of gods, animals, men and so on वेवतिरङ्मनुष्यादिरूपः अभवत् (*vevatiraṅmanuṣyādirūpaḥ abhavat*) **NOTE**.
+
+सर्वेश्वर एष भूताधिपतिरेष भूतपाल एष सेतुः (*sarveśvara eṣa bhūtādhipatireṣa bhūtapāla eṣa setuḥ*)
+
+(Bṛ. U. 4-4-22)
+
+Upaniṣadic sentences such as this make this idea clear. Two ideas are evident in it. The relation between the Supreme Self, who pervades the whole world by his own transformations and yet transcends the whole world, and the world is of two kinds: he is the protector of the world and the controller of the world. Two points are indicated in this. First, Īśvara, the nourisher of the world, so regulates all things that each stands in its own fixed place. Second, Īśvara, the controller of the world, as the guide of all conscious beings, impels them to their respective actions: these are the two chief purports. This was explained earlier, when the Antaryāmin section (Bṛ. U. 3-2) was set out. In the same way the sections Bhā. U. 3-7 **NOTE** and Bṛ. U. 2-5 (तेजोमय ; अमृतमयः पुरुषः (*tejomaya ; amṛtamayaḥ puruṣaḥ*)) and the like explain it. The main purport is as follows.
+
+In the preceding Ṛk, for the sentence विस्वज् व्यक्रामत् (*visvaj vyakrāmat*) the explanation is देवतिर्यगादिरूपेण विविधः सन् व्याप्तवान् । (*devatiryagādirūpeṇa vividhaḥ san vyāptavān |*): the Supreme Puruṣa became manifest in the form of the world, made up of the many classes of beings, gods, men, animals and so on, and of inanimate things such as mountains. This same statement is explained still more fully in this Ṛk.
+
+तस्माद्विराट् अजायत (*tasmādvirāṭ ajāyata*): from that Supreme Puruṣa or Supreme Self, Virāṭ was produced, a great sphere, or Puruṣa, having the cosmic egg as its body. As to the word Virāṭ: विविधानि राजंते वस्तुन्यत्रेति विराट् । (*vividhāni rājaṃte vastunyatreti virāṭ |*) Because many kinds of things, moving and unmoving, are present in this cosmic egg, it is called Virāṭ.
+
+विराजो अधि पूरुषः (*virājo adhi pūruṣaḥ*):
+
+विराड्देहस्योपरि तमेवमधिकरणं कृत्वा पुरुषस्तद्देहाभिमानी कश्चित्तुमानजायत । सोऽयं सर्ववेद्यः परमात्मा ! स एव स्वकीयया मायया विराड्देहं ब्रह्मांडरूपं सृष्ट्वा तत्र जीवरूपेण प्रविश्य ब्रह्मांडाभिमानी देवतात्मा जीवोऽभवत् । (*virāḍdehasyopari tamevamadhikaraṇaṃ kṛtvā puruṣastaddehābhimānī kaścittumānajāyata | so 'yaṃ sarvavedyaḥ paramātmā ! sa eva svakīyayā māyayā virāḍdehaṃ brahmāṃḍarūpaṃ sṛṣṭvā tatra jīvarūpeṇa praviśya brahmāṃḍābhimānī devatātmā jīvo 'bhavat |*)
+
+After that, a Puruṣa, the presiding spirit of the cosmic egg called Virāṭ, was produced. That is, from the Supreme Self, who was in unmanifest form, a Puruṣa who presides over the body of the cosmic egg was produced. That Puruṣa created the cosmic egg and entered into the many kinds of
+
+### Printed p. 826
+
+living beings in the form of consciousness. How the manifest form arose from the unmanifest is described in the Ṛgveda and in the Upaniṣads as follows.
+
+देवानां पून्ये युगेऽसतः सदजायत । (*devānāṃ pūnye yuge 'sataḥ sadajāyata |*)
+
+(Ṛ. Saṃ. 10-72-2)
+
+देवानां युगे प्रथमेऽसतः सदजायत । (*devānāṃ yuge prathame 'sataḥ sadajāyata |*)
+
+(Ṛ. Saṃ. 10-22-3)
+
+In these Ṛks the words आसत् (*āsat*) and सत् (*sat*) are used. आसत् (*āsat*) means the unmanifest, सत् (*sat*) the manifest. असतः सदजायत (*asataḥ sadajāyata*) means that from the unmanifest form the manifest form, the world and so on, was produced: so it is said here. This matter is explained still more clearly in the Taittirīya Upaniṣad.
+
+असद्वा इदमग्र आसीत् । ततो वै सदजायश । तदात्मानग्स् स्वयमकुरुत । तस्मात्तत्सुकृतमुच्यत इति ॥ (*asadvā idamagra āsīt | tato vai sadajāyaśa | tadātmānags svayamakuruta | tasmāttatsukṛtamucyata iti ‖*)
+
+(Śrī. U. 2-7) **NOTE**
+
+Before creation, that is, at the time of dissolution after the withdrawal of the world and so on that had been created in the preceding kalpa, none of this world with name and form existed; only the unmanifest nature of the Supreme Self, called asat, was there. At the time of creation that same unmanifest nature (that is, a small part of it) was transformed into manifest form. This is what is called sat, with name and form, or the world. Here there are not two things, the unmanifest and the manifest, separate from each other. The meaning is that the Self, or the Supreme Self, who is of unmanifest nature, himself transformed himself into the forms of the world and so on. How these forms were transformed from the Self is thus:
+
+तस्माद्वा एतस्मादात्मन आकाशः संभूतः । आकाशाद्वायुः । वायोरग्निः । अग्नेरापः । अद्भ्यः पृथिवी । पृथिव्या ओषधयः । ओषधीभ्योऽन्नं । अन्नात्पुरुषः ॥ (*tasmādvā etasmādātmana ākāśaḥ saṃbhūtaḥ | ākāśādvāyuḥ | vāyoragniḥ | agnerāpaḥ | adbhyaḥ pṛthivī | pṛthivyā oṣadhayaḥ | oṣadhībhyo 'nnaṃ | annātpuruṣaḥ ‖*)
+
+(Tai. U. 2-1) **NOTE**
+
+From the Self (the Supreme Self) who was of unmanifest nature, space was produced first. From space air, from air fire, from fire water, from water earth were produced. From earth the many kinds of plants (herbs and trees) were produced. From this class of plants came the food fit to be eaten by living beings, and from that food men and other living beings were produced: thus the order of creation is explained, one after another. Afterwards:
+
+### Printed p. 827
+
+सोऽकामयत । बहु स्यां प्रजायेयेति । स तपोऽतप्यत । स तपस्तप्त्वा । इदग्ं सर्वमसृजत । (*so 'kāmayata | bahu syāṃ prajāyeyeti | sa tapo 'tapyata | sa tapastaptvā | idagṃ sarvamasṛjata |*)
+
+(Kṛ. U. 2-6) **NOTE**
+
+Before creation the Supreme Self was alone. Apart from him, who was in unmanifest form, no other thing existed then. Then the wish arose in that Supreme Self to become many forms. For that he performed austerity. Austerity here means only meditation. By his meditation or resolve alone he created this whole world: so it is said.
+
+An order in this creation can be noted here. While the Self is in unmanifest form he is not visible; he is in a very subtle state. When that unmanifest is transformed into the gross forms of the world and so on, it does not happen all at once. The extremely subtle unmanifest reduces its subtlety a little and is transformed into space: that is, it should be understood that space too, although it is not visible to the eye, is grosser than the unmanifest state. Space here (ether) is not emptiness. It should be understood as a special substance in subtle form. How? Modern scientists have determined that all things (matter) in the universe exist in three states, that is, in the forms solid, liquid and gas. But that is an earlier statement. By recent or current researches it has become evident that matter may exist in another form besides these three. Matter not only exists in each of the three states mentioned, subject to certain fixed laws, but can be changed from one form into another. If matter is in a state beyond these three, that is, in a state subtler than gas, then that matter is not subject to the laws of the above three states; that is, according to their view it is not considered matter at all. That is, matter and energy were considered different; now it has to be admitted that matter can be changed into energy and energy into matter. If the particle (atom) of the most subtle matter is divided, it no longer remains matter. The qualities of matter are not in it, and it is not subject to the laws of matter. That is, the divided particle (atom) turns into energy. Its qualities become different and it is subject to different laws. The ancients, however, call this, that is energy, the fourth state of matter; among the five great elements it is called tejas. This energy can exist in many forms, such as the heat of fire, the rays of the sun, and electricity. The still subtler form of matter beyond this is called space (ether). According to the ancients, all things can exist in these five states or forms,
+
+### Printed p. 828
+
+and these are the five great elements stated in the Upaniṣads and elsewhere, namely space, air, fire, water and earth. Of these, each is grosser than the one before: air is grosser than space, fire than air, water than fire, and earth than water. The unmanifest nature, passing through these states in order, took at last the form of earth (solid). From earth the class of plants, herbs and the like, and from it the class of living beings were produced. This order agrees with the modern theory (Evolution) **NOTE**.
+
+One thing must be noted in the creation of these five great elements. A small part of the unmanifest was transformed into space. Again, when that space was transformed into the form of air, not all the space was transformed into air; some part of space remained as it was, and only some part took the form of air. In the same way, when air was transformed into fire, only some part of air was transformed into fire. The transformation of water and earth is similar. Therefore it should be understood that in the world space is present in the greatest part, air in a somewhat smaller part, fire in a smaller part than that, water in a smaller part than that, and earth in a smaller part than that. Moreover, in space there is a single quality, sound; in air (since it is a transformation of space) there are two qualities, sound and touch; in fire (since space and air both are joined in it) form is added to the earlier sound and touch, so that there are three qualities; in water, likewise, taste (liquidity) is added to the earlier three qualities of sound, touch and form; in earth (that is, in solid matter) the quality of smell is added to the earlier four qualities of sound, touch, form and taste, so that it contains five qualities.
+
+Among the five great elements mentioned above, in space, air and fire (energy) the ordinary current meaning is the one intended: when matter is in these three forms it is not visible to the eye; it is in subtle form. Although each is a little grosser than the one before, on the whole these three must be called subtle forms. As for water and earth, since both are visible things, it can be said from experience itself that one is grosser than the other. Here udaka or āpaḥ does not mean only water; it means a substance in liquid form. Because water is most often (that is, in hot countries) mostly in liquid form, the word āpaḥ is used in the Upaniṣads and elsewhere to denote a substance in liquid form. In the same way the word pṛthivī is used to denote solid matter (hard substance). This order of creation of the five great elements is called in the Purāṇas and elsewhere the method of pañcīkaraṇa. If these five great elements (that is, the different substances in these five states) are mixed in different proportions, they become different substances. How? The difference between gold and
+
+### Printed p. 829
+
+lead is this: although both metals are produced from the same original substance, the inner arrangement of the particles in them, or the mixing of the five great elements in different proportions, is the cause of their being different metals; the same should be understood of all things.
+
+Now the meaning of the two sentences in the second half of this Ṛk, स जातो अत्यरिच्यत । पश्चाद्भूमिमथो पुरः (*sa jāto atyaricyata | paścādbhūmimatho puraḥ*), can be examined. In the sentence स जातो अत्यरिच्यत (*sa jāto atyaricyata*) the meaning is that when the Supreme Self was transformed into the world and so on, he attained a state beyond, that is different from, his natural state, the unmanifest nature: that is, he took forms of the world and so on that are different from the unmanifest state, which is invisible, endowed with name and form, and visible to the eye. One is the unmanifest that cannot be seen by the eye; the other is the manifest form that can be seen. The meaning is that leaving the unmanifest he appeared as the manifest form. In the unmanifest nature there are no names and forms and everything is of one kind, like the water in the sea. In the manifest form there are many things: gods, men, animals, unmoving things such as mountains, and so on. Like the many rivers such as the Gaṅgā that are produced from the water of the sea, when the water of the sea is in the form of the Gaṅgā and other rivers, it has separate names and shapes, as separate rivers, lakes and other bodies of water. But after all those rivers join the sea, all their water is mixed with the water of the sea, and everything is denoted by the one name, sea. In the water that has joined the sea it cannot be said separately which is the water of the Gaṅgā and which is the water of the Sindhu. Therefore, in the same way, in the unmanifest state there are no names and forms; there is only one nature. In the manifest state there are many forms, and all of them have separate forms and names. At the time of dissolution, when they merge into the Self and become one, they lose their separateness, that is, their names and forms, and shine as one thing called the unmanifest: such is the purport.
+
+पश्चाद्भूमिमथो पुरः (*paścādbhūmimatho puraḥ*): after creating the living beings, gods, men and so on, as said before, he created this earth for them to dwell in. Earth here is not only the earthly world. It means the three worlds, earth, atmosphere and heaven, and the living beings that dwell in them and the mountains and so on. After the creation of these worlds he created also the many kinds of bodies of gods, men and others. Here, for the word पुरः (*puraḥ*), Sāyaṇa has given the explanation पूर्यंते सप्तभिर्धातुखिरिति पुरः शरीराणि (*pūryaṃte saptabhirdhātukhiriti puraḥ śarīrāṇi*): since bodies are formed of the seven constituents, पुरः (*puraḥ*) means bodies. After creating the earth, he created the many kinds of bodies, that is, the various bodies necessary for gods, men and other living
+
+### Printed p. 830
+
+beings. Having created them, the Supreme Self entered those bodies and so on in the form of consciousness. अंतः प्रविष्टः शास्ता जनानाग्ं सर्वात्मा । (*aṃtaḥ praviṣṭaḥ śāstā janānāgṃ sarvātmā |*) The Śruti supports the view that the Supreme Self himself, having entered the bodies of living beings in a hidden way, impels their movements and the like. In the Upaniṣadic sentence यदिदं किंच । तत्सृष्ट्वा । तदेवानुप्राविशत् (*yadidaṃ kiṃca | tatsṛṣṭvā | tadevānuprāviśat*) it is explained that the Supreme Self, having created this world, entered it as the inner Self.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत ।  
+> व॒सं॒तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒द्मः श॒रद्ध॒विः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । पुरुषेण । हविषा । देवाः । यज्ञं । अतन्वत ।  
+> वसंतः । अस्य । आसीत् । आज्यं । ग्रीष्मः । इध्यः । शरत् । हविः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्यदा पूर्वोक्तक्रमेणैव शरीरेषूत्पन्नेषु सत्सु देवा उत्तरसृष्टिसिद्ध्यर्थं बाह्यद्रव्यस्यानुत्पन्नत्वेन हविरंतरासंभवात्पुरुषस्वरूपेण मनसा
+> हविष्ट्वेन संकल्प पुरुषेण पुरुपाख्येन हविषा मानसं यज्ञमतन्वत अन्वतिष्ठन्!
+> तदानीमस्य यज्ञस्य वसंतो वसंतर्तुरेवाज्यमासीत् । अभूत् । तमेवाज्यत्वेन संकल्पितवंत इत्यर्थः । एवं ग्रीष्म इद्म आसीत् । तमेवेध्मत्तेन संकल्पितवंत
+> इत्यर्थः । तथा शरद्धविरासीत् ! तामेव पुरोडाशादिहविष्ट्वेन संकल्पितवंत
+> इत्यर्थः । पूर्वं पुरुषस्य हविःसामान्यरूपत्वेन संकल्पः । अनंतरं वसंतादीनामाज्यादिविशेषरूपत्वे संकल्प इति द्रष्टव्यं ॥
+
+##### Gist of the bhāṣya
+
+When bodies had been produced in the order stated before, the gods, for the accomplishment of the later creation, found that no external substance had yet been produced and that no other oblation was possible. So they conceived in mind the Puruṣa himself as the oblation and, with the oblation called Puruṣa, performed a mental sacrifice. At that time Spring, the season, itself became the ghee of this sacrifice: this means that they conceived it as ghee. In the same way Summer became the fuel, conceived as fuel, and Autumn became the oblation, conceived as the oblation such as the cake (puroḍāśa). It is to be understood that first the Puruṣa is conceived as the oblation in general, and afterwards Spring and the rest are conceived in their particular forms as ghee and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—after the bodies composed of the five elements and so on had been produced
+- देवाः (*devāḥ*)—the gods, who are parts of the Puruṣa
+- पुरुषेण (*puruṣeṇa*)—named Puruṣa
+- हविषा (*haviṣā*)—with the oblation
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- अतन्वत (*atanvata*)—performed
+- अस्य (*asya*)—to this sacrifice
+- वसंतः (*vasaṃtaḥ*)—the spring season
+- आज्यं (*ājyaṃ*)—as ghee
+
+### Printed p. 831
+
+- आसीत् (*āsīt*)—became
+- ग्रीष्मः (*grīṣmaḥ*)—the summer season
+- इद्मः (*idmaḥ*)—became the fuel sticks
+- शरत् (*śarat*)—the autumn season
+- हविः (*haviḥ*)—became the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+After the creation of the world, the gods, who are parts of the Puruṣa, performed the sacrifice with the oblation named Puruṣa. For this sacrifice the spring season became the ghee, the summer the fuel sticks, and the autumn season the oblation.
+
+##### English translation
+When the gods performed the sacrifice with Purusha as the offering, then Spring was its ghi, Summer the fuel, and Autumn **NOTE** the oblation.
+
+##### विशेषविषयगळु (Special Topics)
+
+The Supreme Puruṣa resolved on the creation of the world, and as a result of that resolve various powers were produced; since through them the Puruṣa shines in many ways (virājate), he became called Virāṭ. The divine nature, which passes through special states, Virāṭ from Puruṣa and Puruṣa from Virāṭ, has been explained earlier. In the creation that was produced as the fruit of Īśvara's resolve there are two orders: one is the earlier creation, the other the later creation. In the sentence स जातो अत्यरिच्यत । पश्चाद्भूमिमथो पुरः (*sa jāto atyaricyata | paścādbhūmimatho puraḥ*) the order of the earlier creation is stated. The five great elements, earth and the rest, the conscious beings such as gods, animals and men, and the bodies, endowed with the organs of knowledge and the like, that give shelter to these conscious beings, belong to the earlier creation. At the time of the earlier creation the Supreme Self performed the sacrifice of the Self and offered himself as the oblation; that the creation of the world was the fruit of it has been explained earlier in the Viśvakarman hymns. In the Ṛk now in hand it is said that, as a part of the later creation, the gods performed the sacrifice, offering the Puruṣa in the form of the oblation. Since all the powers created by the Virāṭ-puruṣa are shining, all of them are called gods. Since each of the five great elements and of the organs of knowledge has a special power, these powers are what are called gods. As described before, the Supreme Brahman, without qualities and indescribable, taking name and form, attained variety in the world by a part of itself alone: this is the earlier creation; that these manifold powers, by their own influence, expand still further and spread in the form of effects is the later creation. What is the purport of the statement that these powers, called gods, performed the Puruṣa-sacrifice and afterwards the later creation came about must be examined in the present context. Sāyaṇa's explanation of this sentence is as follows.
+
 ---
 
-**Progress note:** Done through printed p. 824. Mandala 10 Sukta 90 Rk 5 special topics: Virat, Purusha and creation, Upanishad quotations
+**Progress note:** Done through printed p. 831. Mandala 10 Sukta 90 Rk 5 special topics end (creation, elements); Rk 6 begins
