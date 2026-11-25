@@ -8650,6 +8650,279 @@ Sūkta 84. Maṇḍala 10, Anuvāka 6, Sūkta 84. Aṣṭaka 8, Adhyāya 3, Varg
 
 O Manyu, O lord of the Maruts, going together with you in one and the same chariot (having mounted it is to be supplied), rejoicing, bold, with sharp arrows, whetting their weapons well, may the leaders of the battle, Indra and the other gods, your followers, fire-like, that is, doing fiery acts of burning and the like, or else armoured, advance to our side in battle for help. Here the Nirukta beginning त्वया मन्यो सरथमारुह्य रुजंत इत्यादि (*tvayā manyo sarathamāruhya rujaṃta ityādi*) is to be consulted (10-30).
 
+### Printed p. 331
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वः (*marutvaḥ*)—you who are accompanied by the Maruts
+- मन्यो (*manyo*)—O Manyu-deva
+- त्वया (*tvayā*)—with you
+- सरथं (*sarathaṃ*)—mounting the same chariot
+- आरुजंतः (*ārujaṃtaḥ*)—those who go
+- हर्षमाणासः (*harṣamāṇāsaḥ*)—the joyful
+- धृषिताः (*dhṛṣitāḥ*)—the powerful
+- तिग्मेषवः (*tigmeṣavaḥ*)—those who have sharp arrows
+- आयुधा (*āyudhā*)—weapons
+- संशिशानाः (*saṃśiśānāḥ*)—those who whet
+- नरः (*naraḥ*)—the gods, leaders in the work of battle
+- अग्निरूपाः (*agnirūpāḥ*)—wearing the form of Agni
+- अभि प्र यंतु (*abhi pra yaṃtu*)—may they come facing us
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, accompanied by the Maruts, may the gods who mount the same chariot with you and go, joyful, powerful, with sharp arrows, whetting their weapons, leaders in the work of battle, wearing the form of Agni, come facing us.
+
+##### English translation
+May the leaders (of rites) wearing the form of Agni, (ascending) the same car with you, Manyu, who are accompanied by the Maruts, proceed to combat, advancing. exulting, indignant, armed with sharp arrows, whetting their weapons.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has stated the Nirukta:
+
+त्वया मन्यो सरथमारुह्य रुजंको हर्षमाणासोऽधृषिता मरुत्वस्तिग्मेषव आयुधानि संशिश्यमाना अभिप्रयंतु नरो अग्निरूपा अग्निकर्माणः सन्नद्धाः कवचिन इति वा ॥ (*tvayā manyo sarathamāruhya rujaṃko harṣamāṇāso 'dhṛṣitā marutvastigmeṣava āyudhāni saṃśiśyamānā abhiprayaṃtu naro agnirūpā agnikarmāṇaḥ sannaddhāḥ kavacina iti vā ‖*) (Ni. 10-30)
+
+O Manyu-deva, may our warriors, seated with you in one chariot, rejoicing, and gone forth for battle, unvanquished by their opponents, thrilled, whetting their arrows and weapons, engaged like Agni in burning or destroying, and wearing armours for battle, set out toward the battlefield: this is the main purport of the Nirukta.
+
+### Printed p. 332
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरि॑व मन्यो त्रिषि॒तः स॑हस्व सेना॒नीर्नः॑ सहुरे हू॒त ए॑धि ।  
+> ह॒त्वाय॒ शत्रू॒न्वि भ॑जस्व॒ वेद॒ ओजो॒ मिमा॑नो॒ वि मृधो॑  
+> नुदस्व ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः इव । मन्यो इति । त्विषितः । सहस्व । सेनानीः । नः । सहुरे । हूतः । विधि ।  
+> हत्वाय । शत्रून् । वि । भजस्व । वेदः । ओजः । मिमानः । वि । मृधः । नुदस्व ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो अग्निरिव त्वषितो ज्वलितः सहस्व । अभिभव शत्रुन् । हे सहुरे
+> सहनशील सेनानीरेधि भव नोऽस्माकं संग्रामे हूतः सन् । किंच हत्याय हत्वा
+> शत्रुन्वि भजस्व प्रयच्छास्माकं वेदो धनं शत्रुसंबंधि। किंचौजो मिमानोऽस्माकं
+> बलं कुर्वनृधः शत्रुन्वि नुदस्व । घातयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, blazing like Agni, overcome the enemies. O enduring one, be our general, invoked by us in battle. Further, having slain the enemies, apportion to us the wealth that belongs to the enemy. And, producing strength in us, drive the foes away, that is, have them slain.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहुरे (*sahure*)—you who overcome enemies
+- मन्यो (*manyo*)—O Manyu-deva
+- अग्निरिव (*agniriva*)—like Agni
+- त्वषितः (*tvaṣitaḥ*)—radiant
+- सहस्व (*sahasva*)—confront and overcome the enemies
+- सेनानीः (*senānīḥ*)—like a commander of the army
+- नः (*naḥ*)—to us
+- हूतः (*hūtaḥ*)—as soon as you are called
+- विधि (*vidhi*)—come graciously
+- शत्रून् (*śatrūn*)—the enemies
+- हत्वाय (*hatvāya*)—having destroyed
+- वेदः (*vedaḥ*)—their wealth
+- वि भजस्व (*vi bhajasva*)—distribute to us
+- ओजः (*ojaḥ*)—strength
+- मिमानः (*mimānaḥ*)—producing in us
+- मृधः (*mṛdhaḥ*)—the enemies
+- वि नुदस्व (*vi nudasva*)—drive away and destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, destroyer of enemies, radiant like Agni, confront the enemies and overcome them. As soon as you are called, come to us like a commander of the army. Destroy the enemies and distribute their wealth to us. Producing strength in us, drive them away and destroy them.
+
+##### English translation
+Manyu, blazing like Agni, overthrow (our foes), come as our general, enduring (Manyu) when invoked (by us) in battle; having slain the
+
+### Printed p. 333
+
+enemies divide (among us) the treasure; granting (us) strength, scatter (our) foes.
+
+##### विशेषविषयगळु (Special Topics)
+
+For the sentence in this Ṛk अग्नि रिव मन्यो त्वषितः सहस्व (*agni riva manyo tvaṣitaḥ sahasva*) Yāska has stated the explanation:
+
+अग्नि रिव मन्यो त्वषितः सहस्व ऎंब वाक्यक्कॆ यास्करु निर्वचनवन्नु हेळिद्दारॆ— अग्निरिव मन्यो त्वषितः सहस्व इति तथाग्निर्मान्यवे मंत्रे । त्वषितो ज्वलितः । त्वषिरित्यप्यस्य दीप्तिनाम भवति ॥ (*agni riva manyo tvaṣitaḥ sahasva èṃba vākyakkè yāskaru nirvacanavannu heḷiddārè— agniriva manyo tvaṣitaḥ sahasva iti tathāgnirmānyave maṃtre | tvaṣito jvalitaḥ | tvaṣirityapyasya dīptināma bhavati ‖*) (Ni. 1-17)
+
+Here त्वषितः (*tvaṣitaḥ*) means shining. The word त्वषि (*tvaṣi*) means lustre, brilliance.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सह॑स्व मन्यो अ॒भिमा॑तिम॒स्मे रु॒जन्म॒णन्प्र॑मृ॒णन्प्रेहि॒  ॑
+> शत्रून् ।  
+> उ॒ग्रं ते॒ पाजो॑ न॒न्ना रु॑रुध्रे व॒शी वशं॑ नयस एकज॒ त्वं॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्व । मन्यो इति । अभिमातिं । अस्मे इति । रुजन् । मृणन् । प्रमृणन् । प्र ।  
+> इहि । शत्रून् ।  
+> उग्रं । ते । पाजः । ननु । आ । रुरुध्रे । वशी । वशं । नयसे । एकज । त्वं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो अस्मे अस्माकमभिमातिमभिगंतारं शत्रुं सहस्व : अभिभव । रुजन्
+> हिंसन् मृणन् प्रमृणन् प्रकर्षेण हिंसन् यथा पुनर्न जीवेत्तथा कुर्वंस्त्वं
+> शत्रुन्प्रति प्रेहि । ते तव पाजो बलमुग्रमुद्गूर्णं के नन्ना रुरुद्रे अरुंधंति ।
+> न तथा संभवति । हे एकज त्वमसहाय वशी त्वं वशं नयसे प्रापयसि शत्रुं ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, overcome our assailant, the enemy who attacks. Harming, crushing, and destroying utterly, so that he may not live again, advance against the enemies. Your fierce, uplifted strength, who obstructs? It is not possible that anyone should. O you who are born alone and without helper, being self-controlled, you bring the enemy under your control.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्यो (*manyo*)—O Manyu-deva
+- अस्मे (*asme*)—our
+- अभिमातिं (*abhimātiṃ*)—the hostile enemies
+- सहस्व (*sahasva*)—overcome
+- रुजन् (*rujan*)—paining
+- मृणन् (*mṛṇan*)—harming
+
+### Printed p. 334
+
+- प्रमृणन् (*pramṛṇan*)—killing
+- शत्रुन् (*śatrun*)—the enemies
+- प्रेहि (*prehi*)—confront
+- ते (*te*)—your
+- उग्रं (*ugraṃ*)—terrible
+- साजः (*sājaḥ*)—strength
+- ननु आ रुरुद्रे (*nanu ā rurudre*)—who can withstand
+- एकज (*ekaja*)—O Manyu, born unique
+- त्वं (*tvaṃ*)—you
+- वशी (*vaśī*)—as lord
+- वशं नयसे (*vaśaṃ nayase*)—you bring everyone under your control
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, overcome our hostile enemies. Harming and destroying them, confront them. Who can withstand your terrible strength? O Manyu, born unique, as lord you bring everyone under your control.
+
+##### English translation
+Overthrow, Manyu, our assailant ; advance against our foes, wounding, killing, annihilating them ; (who) can resist your fierce might ? O you who are without companion, subjecting them you lead them subject.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एको॑ बहू॒नाम॑सि मन्यवीळि॒तो विशं॑विशं यु॒धये॒ सं  ॑
+> शिशाधि ।  
+> अकृ॑त्तरु॒क्त्वया॑ यु॒जा व॒यं द्यु॒मंतं॒ घोषं॑ विज॒याय॑  
+> कृण्महे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एकः । बहूनां । असि । मन्यो इति । ईळितः । विशंविशं । युधये । सं । शिशाधि ।  
+> अकृत्तरुक् । त्वया । युजा । वयं । द्युमंतं । घोषं । विजयाय ।  
+> कृण्महे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो ईळितः स्तुतस्त्वमेक एवासहाय एव बहूनां तत्रूणामसि ।
+> भवसि पर्यापो हंतुं । अतो विशं विशं तां तामस्मद्विरोधिनीं प्रजां
+> युधये युद्धाय सं शिशाधि । सम्यक् तीक्ष्णीकुरु । किंच हे अकृत्तरुगच्छिन्नदीप्ते
+
+##### Gist of the bhāṣya
+
+O Manyu, praised by us, you alone, without helper, are able to slay many enemies. Therefore sharpen well for battle each of those peoples that are hostile to us. Further, O you of unbroken radiance
+
+### Printed p. 335
+
+> त्वया युजा सहायेन वयं द्युमंतं दीप्तिमंतं घोषं सिंहनादवंतं
+> विजयाय विशिष्ट जयार्थं कृष्णहे । कुर्मः ॥
+
+##### Gist of the bhāṣya
+
+with you as our ally we make a radiant shout, a lion's roar, for the sake of victory, that is, for special victory.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्यो (*manyo*)—O Manyu-deva
+- ईळितः (*īḷitaḥ*)—you who are praised by us
+- एकः (*ekaḥ*)—alone
+- बहूनां आसि (*bahūnāṃ āsi*)—you are capable of destroying many enemies
+- विशं विशं (*viśaṃ viśaṃ*)—with all our enemy peoples
+- युधये (*yudhaye*)—to fight
+- सं शिशाधि (*saṃ śiśādhi*)—give encouragement
+- अकृत्तरुक् (*akṛttaruk*)—O Manyu, of unobstructed radiance
+- त्वया युजा (*tvayā yujā*)—joined with you
+- वयं (*vayaṃ*)—we
+- द्युमंतं (*dyumaṃtaṃ*)—brilliant
+- घोषं (*ghoṣaṃ*)—battle-cry
+- विजयाय (*vijayāya*)—for the attainment of victory
+- कृण्महे (*kṛṇmahe*)—we make
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, you who are praised by us are alone, and are capable of destroying many enemies. Give us encouragement to fight with all our enemy peoples. O Manyu, of unobstructed radiance, joined with you we make a brilliant battle-cry for the attainment of our victory.
+
+##### English translation
+You are praised, Manyu, as (the conquerer) alone of many ; animate us to contend with all men ; with you. O you of unshorn radiance, for our ally, we raise a loud shout for victory.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒जे॒ष॒कृदिंद्र॑ इवानवब्र॒वो॒३॒॑३स्माकं॑ मन्यो अधि॒पा भ॑वे॒ह ।  
+> प्रि॒यं ते॒ नाम॑ सहुरे गृणीमसि वि॒द्या तमुत्सं॒ यत॑  ॒॑
+> आबभूथ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विजेष्कृत् । इंद्रऽइव । आनवब्रवः । अस्माकं । मन्यो इति । अधिपाः । भव .  
+> इह ।  
+> प्रियं । ते । नाम । सहुरे । गृणीमसि । विद्व । तं । उत्सं । यतः । अबभूथ ॥ ५ ॥
+
+### Printed p. 336
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मन्यो इंद्र इव विजेषकृद्विजयकर्ता तथानवब्रवोऽनिंदितवचनः ।
+> अनवब्रवोऽनवक्षिप्तवचन इति यास्कः । नि. ६-२९ । ईदृशस्त्वमस्माकमधिपा अधिकं
+> पाता रक्षिता भवेहास्मिन्यज्ञे । हे सहुरे शत्रूणां सहनशील ते प्रियं नाम
+> स्तोत्रं गृणीमसि । गृणीमः । स्तुमः । यतो नाम्नः स्तोत्रात्त्वमाबभूथ
+> आभवसि प्रवृद्दो भवसि तमुत्सं बलस्योद्धमयितारं विद्म । जानीमः ॥
+
+##### Gist of the bhāṣya
+
+O Manyu, like Indra the maker of victory, and of unblamed speech; Yāska says that अनवब्रवोऽनवक्षिप्तवचन इति यास्कः (*anavabravo 'navakṣiptavacana iti yāskaḥ*) (Ni. 6-29). Being such, be our supreme protector, our guardian, here in this sacrifice. O enduring one, patient toward enemies, we utter your dear name, that is, we praise you; the praise from which you grow strong, that source which stirs up strength, we know.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मन्यो (*manyo*)—O Manyu-deva
+- इंद्रइव (*iṃdraiva*)—like Indra
+- विजोषकृत् (*vijoṣakṛt*)—victorious
+- अनवब्रवः (*anavabravaḥ*)—and free of blame, you
+- इह (*iha*)—in this sacrifice
+- अस्माकं (*asmākaṃ*)—to us
+- आधिपाः (*ādhipāḥ*)—as complete protector
+- भव (*bhava*)—be
+- सहुरे (*sahure*)—O Manyu, destroyer of enemies
+- ते (*te*)—praising you
+- प्रियं नाम (*priyaṃ nāma*)—a beneficial hymn
+- गृणीमसि (*gṛṇīmasi*)—we recite
+- यतः (*yataḥ*)—by which praise
+- आबभूथ (*ābabhūtha*)—you attain strength
+- तं उत्सं (*taṃ utsaṃ*)—that stimulating praise
+- विद्म (*vidma*)—we have known
+
+##### भावार्थ (Bhāvārtha)
+
+O Manyu-deva, victorious like Indra and free of blame, be our complete protector in this sacrifice. O Manyu, destroyer of enemies, praising you we recite a beneficial hymn. That same stimulating praise by which you attain strength, we have known.
+
+##### English translation
+Manyu, the giver of victory like Indra, irreproachable, be our protector at this (sacrifice); enduring one, we sing to you acceptable praise; we know this to be the source whence you have become (mighty)
+
+##### विशेषविषयगळु (Special Topics)
+
+अनवब्रवः (*anavabravaḥ*)—अनिंदितवचनः (*aniṃditavacanaḥ*), one whose speech is faultless. For this word Yāska has stated the explanation:
+
+अनवब्रवोऽनवक्षिप्तवचनः । विजेषकृदिंद्र इवानवब्रवः इत्यपि निगमो भवति ॥ (*anavabravo 'navakṣiptavacanaḥ | vijeṣakṛdiṃdra ivānavabravaḥ ityapi nigamo bhavati ‖*) (Ni. 6-29)
+
+अनवब्रवः (*anavabravaḥ*) means one in whose speech there are no faults. The meaning is one who speaks excellent, faultless, unblamable or courteous words. Since the speech of Indra is faultless in that manner, the seer has given the example of Indra here, to show that the speech of the deity Manyu is also of that kind.
+
 ---
 
-**Progress note:** Done through printed p. 330. Manyu-sukta 83 Rks 4-7, sukta 84 intro and Rk 1 (pp. 325-330)
+**Progress note:** Done through printed p. 336. Manyu-sukta 84 Rks 1-5 (pp. 331-336)
