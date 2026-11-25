@@ -38016,6 +38016,213 @@ Lord of the mind, begone, depart, proceed to a distance: look at Nirriti far off
 - मनः (*manaḥ*)—the mind
 - बहुत्रा (*bahutrā*)—engages in many objects
 
+### Printed p. 1111
+
+##### भावार्थ (Bhāvārtha)
+
+Everyone desires the auspicious fruit, which takes the form of the destruction of bad dreams, and everyone obtains that excellent auspiciousness. In regard to Yama, the son of Vivasvān, I desire an auspicious sight. The mind of me, who am alive, moves among many kinds of objects.
+
+##### English translation
+Men solicit the boon of good fortune, they acquire abundant good fortune, (I desire) the auspicious sight of Vaivaswat; the mind of a living is variously (directed).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदा॒शसा॑ निः॒शसा॑भि॒शसो॑पारि॒म जाग्र॑तो॒ यत्स्व॒पंतः॑ ।  
+> अ॒ग्निर्विश्वा॒न प॑ दुष्कृ॒तान्यजु॑ष्टान्या॒रे अ॒स्मद्द॑धातु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । आशसा । निःशसा । अभिशसा । उपआरिम । जाग्रतः । यत् । स्वसंतः ।  
+> अग्निः । विश्वानि । अप । दुःकृतानि । अजुष्टानि । आरे । अस्मत् । दधातु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्दुष्कृतमाशसाशंसनेनाभिलाषेण जाग्रतो जागरणावस्थायां वर्तमाना
+> वयमुपारिम उपगतवंतः स्म यच्च स्वपंतः स्वप्नावस्थां प्राप्ता उपगतवंतः स्म ।
+> तथा नि सशा निःशंसनेन निर्गताभिलाषेणाभिशसाभिगताभिलाषेण च कारणेनावस्थाद्वये
+> यद्दुष्कृतमुपागच्छेम । तानि विश्वानि सर्वाण्यजुष्टान्यसेव्यान्यप्रियाणि ना दुष्कृतानि दुष्कर्माण्यग्निरस्मदारेऽस्मत्तो दूरदेशेऽप दधातु । अपकृष्य स्थापयतु ॥
+
+##### Gist of the bhāṣya
+
+Whatever wrong we have committed, while in the waking state, through "आशसा (*āśasā*)", that is, through wishing or desire, and whatever wrong we have committed while asleep, in the state of dream; and likewise through "निःशसा (*niḥśasā*)", that is, through desire that has departed, and through "अभिशसा (*abhiśasā*)", that is, through desire directed towards something — whatever wrong we may have incurred in the two states because of these causes: all those wrongs, which are unwelcome, not to be served, disagreeable, may Agni set far away from us. May he draw them off and place them at a distance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जाग्रतः (*jāgrataḥ*)—while in the waking state, or
+- स्वपंतः (*svapaṃtaḥ*)—while we are in the dream state
+- यत् (*yat*)—whatever sin
+- आशसा (*āśasā*)—by speaking with others
+- उपारिम (*upārima*)—we have incurred
+- यत् (*yat*)—whatever sin
+- अभिशसा (*abhiśasā*)—we incur by speaking in opposition to others; whatever sin we have incurred by both these ways
+### Printed p. 1112
+- अजुष्टानि (*ajuṣṭāni*)—disagreeable
+- विश्वानि (*viśvāni*)—all
+- दुष्कृतानि (*duṣkṛtāni*)—those evil deeds (sins)
+- अग्निः (*agniḥ*)—Agni
+- अस्मत् अति (*asmat ati*)—far from us
+- अप दधातु (*apa dadhātu*)—may he carry away
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever sin we gain in the waking state and in the dream state by speaking with other people, by speaking against others, and by these two kinds of ways, all those disagreeable sins or evil deeds, may Agni carry away to a place far from us.
+
+##### English translation
+Whatever sin we have committed by speaking to (others), speaking against (others), speaking (evil) about (others), whether waking or sleeping, may Agni remove all such hateful sins for from us.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदिं॑द्र ब्रह्मणस्पतेभिद्रो॒हं चरा॑मसि ।  
+> प्रचे॑ता न आंगिर॒सो द्वि॑ष॒तां पा॒त्वंह॑सः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । इंद्र । ब्रह्मणः । पते । अभिद्रोहं । चरामसि ।  
+> प्रचेताः । नः । अंगिरसः । द्विषतां । पातु । अंहसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र हे ब्रह्मणस्पते युवयोर्विषये यदभिद्रोहमभितो द्रोहं
+> पापं दुःस्वप्नकारणं चरामसि आचरामः कुर्मः तस्मादभिद्रोहादस्मान्रक्षतमिति
+> शेषः । अपि चांगिरसोऽंगिरोऽभिः स्तोतृभिः सबांधवः प्रचेताः प्रकृष्टज्ञानो
+> वरुणश्च द्विषतां द्वेष्टणामंहसस्तत्कर्तृकादस्मद्विषयात्पापान्नोऽस्मान्पातु ।
+> रक्षतु ॥ यद्वा ॥ विभक्तिव्यत्ययः ॥ अंगिरसमंगिरोगोत्रं प्रचेतसमृषिं नः ॥
+> वचनव्यत्ययः ॥ मां द्विषतामंहसः पातु । प्रकृतत्वादिंद्र इति गम्यते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, O Brahmaṇaspati, whatever "abhidroha" — harm directed at all sides, a sin that is the cause of bad dreams — we commit in respect of you two, protect us from that harm; this is the supplied remainder. Moreover, Varuṇa, *prachetās*, of excellent knowledge, praised by the Aṅgirases, the singers, together with his kinsmen, shall protect us from the sin of the haters, that is, the sin committed by them and directed towards us. Alternatively, there is an interchange of case endings: *aṅgirasam* is the Aṅgiras lineage, and "prachetasam" is the seer, and "नः (*naḥ*)" is an interchange of number: may it protect me from the sin of haters. Since Indra is the subject in hand, it is understood that Indra is the protector.
+### Printed p. 1113
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ब्रह्मणः पते (*brahmaṇaḥ pate*)—O Brahmaṇaspati
+- अभिद्रोहं (*abhidrohaṃ*)—the harm that wrongs others
+- यत् (*yat*)—whatever sin, the cause of bad dreams
+- चरामसि (*carāmasi*)—we commit; protect us from such harm. And
+- अंगिरसः (*aṃgirasaḥ*)—Varuṇa, praised by the singers
+- प्रचेताः (*pracetāḥ*)—endowed with excellent knowledge
+- द्विषतां (*dviṣatāṃ*)—of the enemies who hate us
+- अंहसः (*aṃhasaḥ*)—from the sin
+- नः (*naḥ*)—us
+- पातु (*pātu*)—may he protect. [Or: अंगिरसः (*aṃgirasaḥ*) of the Aṅgiras lineage; प्रचेताः (*pracetāḥ*) me, the seer of this sūkta named Prachetas; द्विषतां अंहसः (*dviṣatāṃ aṃhasaḥ*) from the sin in the form of hatred; पातु (*pātu*) may he protect.]
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, O Brahmaṇaspati, protect us from the sin of wronging others that we may commit. May Varuṇa, praised by the singers and endowed with excellent knowledge, protect us from the enemies we hate, or from sin. Or else, may Indra protect me, the seer of this sūkta of the Aṅgiras lineage named Prachetas, from the sin in the form of hatred towards an enemy.
+
+##### English translation
+O Indra, O Brahmanaspati, whatever sin we run into, (save us therefrom), and may the Prachetas of the Angirasas protect us from the malignity of our enemies.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजै॑ष्मा॒द्यास॑नाम॒ चाभू॒माना॑गसो व॒यं ।  
+> जा॒ग्र॒त्स्व॒प्नः सं॑क॒ल्पः पा॒पो यं द्वि॒ष्मस्तं स ऋ॑च्छतु॒ यो  
+> नो॒ द्वेष्टि॒ तम्मृ॑च्छतु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजैष्म । अद्य । आसनाय । च । अभूम । अनागसः । वयं ।  
+> जाग्रत्स्वप्नः । संकल्पः । पापः । यं । द्विष्मः । तं । सः । ऋच्छतु । यः । नः । द्वेष्टि ।  
+> तं । ऋच्छतु ॥ ५ ॥
+
+### Printed p. 1114
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्कालेऽजैष्म । जेतव्यानि सर्वाणि जितवंतोऽभूम दुःस्वप्नस्य नष्टत्वात् । तदनंतरमसनाम च संभक्तव्यानि च समभजाम । तथा वयमनागसोऽनपराधाश्चाभूम । जाग्रत्स्वप्नावस्थयोः संबंधी पापः पापफलरूपः स संकल्पो
+> दुःस्वप्नाध्यवसायो यं शत्रुं वयं द्विष्मः तम्मृच्छतु । प्राप्पोतु । यश्च
+> नोऽस्मान्वेष्टि तम्मृच्छतु । प्राप्पोतु ॥
+
+##### Gist of the bhāṣya
+
+Today, at this time, we have conquered: we have won everything that was to be won, since the bad dream has been destroyed. After that we have also obtained, that is, shared in, what is to be enjoyed. Likewise we have become free of fault, without offence. The sinful *saṅkalpa* connected with the waking and dream states, having the nature of the fruit of sin, that is, the resolve that gives rise to the bad dream — may it reach the enemy whom we hate. And may it reach him who hates us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- अद्य (*adya*)—now
+- अजैष्म (*ajaiṣma*)—have conquered everything by the destruction of the bad dream
+- असनाम च (*asanāma ca*)—have obtained all that was to be obtained
+- अनागसः (*anāgasaḥ*)—free of sin (free of offence)
+- अभूम (*abhūma*)—have become
+- जाग्रत्स्वस्थः (*jāgratsvasthaḥ*)—connected with the waking and dream states
+- पापः (*pāpaḥ*)—our sin
+- सः संकल्पः (*saḥ saṃkalpaḥ*)—and also the evil desire to commit sin
+- यं (*yaṃ*)—whichever person
+- द्विष्मः (*dviṣmaḥ*)—we hate
+- सः (*saḥ*)—that person
+- तं (*taṃ*)—that fruit of sin
+- ऋच्छतु (*ṛcchatu*)—may he obtain; and
+- यः (*yaḥ*)—whichever person
+- नः (*naḥ*)—us
+- द्वेष्टि (*dveṣṭi*)—hates
+- तं (*taṃ*)—him
+- ऋच्छतु (*ṛcchatu*)—may that fruit of sin go and reach.
+
+##### भावार्थ (Bhāvārtha)
+
+Now, by the destruction of the bad dream, it is as though we have conquered everything. We have obtained all that was to be obtained. We have become free of sin, or without offence. May the sin we may have committed in the waking and dream states, and also the evil intent to wrong others, go and reach the enemy whom we hate and who hates us.
+
+##### English translation
+We have triumphed to day, we have won, we have become free from guilt; may evil designs formed in waking or sleep be transferred to him whom we hate, be transferred to him who hates us
+
+## Sūkta 165 (Maṇḍala 10)
+
+##### विशेषविषयगळु (Special Topics)
+
+In Vedic history birds also have a part. Soma is in many places compared to a bird and even called a bird. In particular Agni is compared to birds or called a bird. The sun too has the name of bird, and in two contexts the name Garutmān. The chief work of a bird in the Veda is (the Gāyatrī metre, in the form of a falcon) to bring to earth the soma plants that were in heaven. According to the Kāṭhaka Upaniṣad it is said that Indra himself, in the form of a falcon, brought soma or amṛta.
+### Printed p. 1115
+Besides this, other birds too are indicated here and there. Omen-birds and certain animals are sent by the gods. The owl and the pigeon are Yama's messengers. In the Sūtra literature the owl is said to be the messenger of evil deities and a blood-stained bird of prey, and vultures are said to be Yama's messengers. The pigeon mentioned in the present sūkta is well known as the messenger of Nirṛti, the deity of sin, or of Yama, the deity of death. For that reason the coming of a pigeon is said to be an evil omen and a sign of death. In the last sūkta of the second maṇḍala of the Ṛgveda, prayer is made to the omen-bird that it indicate only good omens. Regarding this sūkta, in the Bṛhaddevatā:
+आसीदृषिर्दिीर्घतपाः कपोतो नाम नैऋत्यः ॥ ६६ ॥ अकरोत्कपोतस्तस्याष्टामग्निधाने पदं किल । स तदात्महितैर्वाक्यैः कपोतं स्तुतवानृषिः ॥ ६७ ॥ देवा इति तु सूक्तेन प्रायश्चित्तार्थमुच्यते । (*āsīdṛṣirdiīrghatapāḥ kapoto nāma naiṛtyaḥ ‖ 66 ‖ akarotkapotastasyāṣṭāmagnidhāne padaṃ kila | sa tadātmahitairvākyaiḥ kapotaṃ stutavānṛṣiḥ ‖ 67 ‖ devā iti tu sūktena prāyaścittārthamucyate |*)
+(Bṛ. De. 8-66, 67)
+Formerly there was a seer named Kapota Nairṛtya. He practised austerities for a long time. Once a kapota (a pigeon) set its foot in the fire-pit of this seer, in the forest where he lived. The seer, knowing that the coming of a pigeon is a sign of an evil omen, praised this kapota with words beneficial to himself. It is said that the 165th sūkta, "देवाः कपोत (*devāḥ kapota*)", is to be recited as an expiation, for the removal of the faults he had committed. And in the Ṛgvidhāna:
+देवाः कपोत इति तु कपोतस्योपवेशने । सूक्तेन जुहुयादाज्यं यमदूतं हि तं विदुः ॥ (*devāḥ kapota iti tu kapotasyopaveśane | sūktena juhuyādājyaṃ yamadūtaṃ hi taṃ viduḥ ‖*) १०३ (*103*)
+(Ṛgvidhāna, adhyāya 4, verse 103)
+The pigeon is regarded as the messenger of Yama, that is, of death. If this bird enters a house, there is a likelihood that misfortunes such as death will befall that house. Therefore, as expiation for this fault of an evil omen, it is said that a homa with ghee is to be performed in the consecrated fire with the mantras of this sūkta "देवाः कपोत (*devāḥ kapota*)".
+### Printed p. 1116
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवा इति पंचर्चं चतुर्दशं सूक्तं निर्ऋतिपुत्रस्य कपोताख्यस्यार्षं
+> त्रैष्टुभं वैश्वदेवं । तथा चानुक्रांतं । देवा नैऋतः कपोतः कपोतोपहतौ
+> प्रायश्चित्तमिदं वैश्वदेवमिति ॥ कपोतो यदि गृहं प्रविशेत् तदानेन सूक्तेन
+> होतव्यं । सूत्र्यते हि । कपोतश्चेदगारमुपहन्यादनुपतेद्वा देवाः कपोत इति
+> प्रत्यृचं जुहुयाज्जपेद्वा । आ. गृ. ३-७-७ i इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta "देवाः (*devāḥ*)", of five Ṛks, the fourteenth, has as its seer Kapota, the son of Nirṛti; its metre is Triṣṭubh and its deity the Viśvedevas. So it is stated in the Anukramaṇī: देवा नैऋतः कपोतः कपोतोपहतौ प्रायश्चित्तमिदं वैश्वदेवमिति ॥ (*devā naiṛtaḥ kapotaḥ kapotopahatau prāyaścittamidaṃ vaiśvadevamiti ‖*) If a pigeon enters a house, a homa is to be made with this sūkta. For it is taught in the sūtra: कपोतश्चेदगारमुपहन्यादनुपतेद्वा देवाः कपोत इति प्रत्यृचं जुहुयाज्जपेद्वा । (*kapotaścedagāramupahanyādanupatedvā devāḥ kapota iti pratyṛcaṃ juhuyājjapedvā |*) (Ā. Gṛ. 3-7-7).
+
+Anuvāda: This sūkta "देवाः (*devāḥ*)" is the fourteenth sūkta in the twelfth anuvāka; it has five Ṛks. Its seer is Kapota, its deity the Viśvedevas, its metre Triṣṭubh. In the Anukramaṇikā it is said: "devā nairṛtyaḥ kapotaḥ kapotopahatau prāyaścittaṃ vaiśvadevam". That a homa is to be made in the fire with the mantras of this sūkta when a kapota (pigeon) enters a house is made clear by the Āśvalāyana Gṛhya Sūtra: "kapotaś cedagāram upahanyād anupated vā devāḥ kapota iti pratyṛcaṃ juhuyāj japed vā" (Ā. Gṛ. 3-7-7). **NOTE**
+
+Sūkta 165
+Maṇḍala 10; Anuvāka 12; Sūkta 15
+Aṣṭaka 8; Adhyāya 8; Varga 23
+Number of Ṛks in the sūkta: 5
+Seer: Kapota Nairṛta
+Deity: Kapotopahatā prāyaścittaṃ Vaiśvadevam
+Metre: Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देवाः॑ क॒पोत॑ इषि॒तो यदि॒च्छन्नू॒तो निर्ऋ॑त्या इ॒दमा॑ज॒गाम॑ ।  
+> तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं  ॑
+> चतुष्पदे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवाः । कपोतः । इषितः । यत् । इच्छन् । दूतः । निःयत्याः । इदं । आजगाम ।
+
 ---
 
-**Progress note:** Done through printed p. 1110. pp. 1105-1110 (batch API)
+**Progress note:** Done through printed p. 1116. pp. 1111-1116 (batch API)
