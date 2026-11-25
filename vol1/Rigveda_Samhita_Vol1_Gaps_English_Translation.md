@@ -4523,7 +4523,7 @@ He composed not only the *Brāhmaṇa-sarvasva* but other works too. At the begi
 
 He composed also works called *Mīmāṃsā-sarvasva*, *Vaiṣṇava-sarvasva*, *Śaiva-sarvasva* and *Paṇḍita-sarvasva*. But none of these has been found up to now.
 
-### 7. Ādityadarśana
+### 3. Ādityadarśana
 
 He wrote two works called '*Mantra-vivṛti*' and '*Kaṭha-gṛhya-sūtra-vivaraṇa*'. The *Mantra-vivṛti* follows the Kaṭha mantra-text or the Cārāyaṇīya mantra-text. In the *Vivṛti* itself he has written an explanation of the Kaṭha Gṛhya sūtras. But again he has written the *Vivaraṇa* in a simple language. He has said this intention at the beginning of his *Vivaraṇa*.
 
@@ -4584,7 +4584,7 @@ From these two sentences it is clear that Devapāla included in his Gṛhya-sūt
 
 From this it is clear that his birthplace was Jalandhara, his place of residence Jayapura, his grandfather Upendra Bhaṭṭa and his father Haripāla.
 
-The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view) course. Though the names Nighaṇṭu and Nirukta are not seen, all the derivations follow them. For the mantras he sets forth the meaning generally in the sacrificial (*yājñika*) way, and here and there also in the spiritual (*ādhyātmika*) way. By way of example we write here the commentary on one ṛk.
+The commentary of Devapāla, or of Haripāla, is of a very high class. Though the names Nighaṇṭu and Nirukta are not seen, all the derivations follow them. For the mantras he sets forth the meaning generally in the sacrificial (*yājñika*) way, and here and there also in the spiritual (*ādhyātmika*) way. By way of example we write here the commentary on one ṛk.
 
 > तस्मा अरंगमाम वो यस्म [sic] क्षयाय जिन्वथ ।
 > आपो जनयथा च नः ॥
@@ -4592,7 +4592,7 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 > *tasmā araṃgamāma vo yasma [sic] kṣayāya jinvatha |*
 > *āpo janayathā ca naḥ ||*
 >
-> (Ṛgveda 10-9-3 as it stands in the print; the Rik is also found elsewhere; the printed *yasma* stands for *yasya*.)
+> (As it stands in the print; the Rik is also found elsewhere; the printed *yasma* stands for *yasya*.)
 
 > भाष्यम् — यस्येति व्यत्ययेन कर्मणि षष्ठी । हे आपः यं रसं
 > प्राणिषु जिन्वथ । जि जये । लट् । व्यत्ययेन श्नुः । ततः शप्
@@ -4602,7 +4602,7 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 >
 > "…'of whom' — by *vyatyaya* (inversion) the genitive is in the sense of the object. O waters, the flavour which you quicken in living beings. [The root] *ji* in the sense of 'conquer'; present tense; by *vyatyaya* [the affix] *śnu*; then *śap*, by the 'bahulam' rule, sometimes reduplication… in the *hu*-and-*śnu* [rule?] (the grammatical comment continues on the next page)."
 
-(This grammatical comment is a Vyākaraṇa passage; it is characterised, not transcribed in full, and the sūtra *huśnuvoḥ sārvadhātuke* (Pāṇini 6-4-87) which it begins to cite is given here only because the printed words *huśnuvoḥ sārva-* correspond to it: हुश्नुवोः सार्वधातुके, *huśnuvoḥ sārvadhātuke*; the number is from the standard Pāṇini reference and not read in the print.)
+(This grammatical comment is a Vyākaraṇa passage; it is characterised, not transcribed in full, and the sūtra *huśnuvoḥ sārvadhātuke* which it begins to cite is given here only because the printed words *huśnuvoḥ sārva-* correspond to it: हुश्नुवोः सार्वधातुके, *huśnuvoḥ sārvadhātuke*.)
 
 ### Page 273
 
@@ -4612,7 +4612,7 @@ The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view
 >
 > *…dhātuke (6-4-67) iti yaṇādeśaḥ | anekārthā dhātavaḥ | tenāyam arthaḥ—jayathopacinutha vā | kimartham | kṣayāya | kṣi nivāsagatyoḥ | bhūtānāṃ nivāsāya sthitaye gamanāya ca nānārūpakarmopabhogārthaceṣṭāyai jñānāya ca | tasmai araṃgamāma vaḥ | gatyarthakarmaṇi (3-12-2) iti karmaṇi caturthī | taṃ yuṣmākaṃ sambandhinaṃ rasaṃ tūrṇam alaṃ paryāptaṃ vā kṛtvā gacchema jīvanārtham āsādyam āśāsmahe iti bhogāsaktair addhvaśi [?] āśāsyate ||*
 
-("…[in the affix] *-dhātuke* (6-4-67) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (3-12-2) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers are printed 6-4-67 and 3-12-2 (re-read on the 600 dpi scan with the user; as printed — the Pāṇinian rules are usually numbered 6-4-87 and 2-3-12), for the rules *huśnuvoḥ sārvadhātuke* and *gatyarthakarmaṇi dvitīyācatuthyau ceṣṭāyām anadhvani*; two words of the Sanskrit are doubtful.)
+("…[in the affix] *-dhātuke* (6-4-67) the substitution of *yaṇ*. Roots have many meanings; hence this sense: 'you conquer, or you gather'. For what? For *kṣaya*. [The root] *kṣi* is in the sense of dwelling and going. For the dwelling, the staying, the going of beings, for the effort that is for the enjoyment of manifold actions, and for knowledge. To that [flavour] may we go enough, of you. By the rule *gatyarthakarmaṇi* (3-12-2) the dative is in the sense of the object. Making that flavour of yours, belonging to you, quickly sufficient or adequate, may we go [to it]: thus we hope to obtain it for our livelihood — so it is hoped by those who are attached to enjoyment." Translation editorial and tentative; the grammatical sūtra numbers are printed 6-4-67 and 3-12-2 (as printed); two words of the Sanskrit are doubtful.)
 
 > मुमुक्ष्वभिप्रायेण त्वित्थं योजना—हे आपः यस्य परमात्मनः क्षयाय नित्यानन्दद्वारेणानुज्ञानाय जिन्वथ यतध्वम् । तं युष्माकमेव सम्बन्धिनं परं स्वभावं वयं युष्मत्प्रसादात्पूर्णं पर्याप्तं वा कृत्वा गच्छेम जानीयाम प्राप्नुयाम च मोक्षप्राप्तिरस्माकमस्त्वित्याशास्महे इत्यर्थः । आपो जनयेथा च नः यस्माद्युष्मत्प्रसादादेवमाशास्महे तस्मादस्मान् मोक्षप्राप्तियोग्यान् जनयध्वं कुरुध्वम् । महानुभावत्वादेकैव च सर्वत्र देवता ब्रह्मरूपा आदित्यरूपा वा श्रूयते ॥
 >
@@ -4654,7 +4654,7 @@ That is: the *pada-pāṭha* author is Ātreya and the *vṛtti*-author is Kuṇ
 
 ### Page 274
 
-since all *pada-pāṭha*-makers are earlier than the 1st or 2nd century C.E., if the *vṛtti*-author Kuṇḍina is placed at the latest, he may be said to be of the 4th or 5th century C.E. It cannot be said that he was earlier than that.
+since all *pada-pāṭha*-makers are earlier than the 1st or 2nd century C.E., if the *vṛtti*-author Kuṇḍina is placed at the latest, he may be said to be of the 4th or 5th century C.E. It cannot be said that he was later than that.
 
 In the Bodhāyana Gṛhya-sūtra (3-9-6) it is said, "*kauṇḍinyāya vṛttikārāya*" ("to Kauṇḍinya the author of the *vṛtti*"). There is much difference between the words *kuṇḍina* and *kauṇḍinya*. It is not easy to say how this difference came about.
 
@@ -4762,7 +4762,7 @@ From his commentary Sāyaṇācārya, Devarājayajvā, Sudarśana, Vedācārya t
 
 ### 5. Kṣura
 
-(time about C.E. 1290)
+(time about C.E. 190)
 
 Sāyaṇācārya, in the *Dhātu-vṛtti*, has quoted Kṣura's meaning for five mantras in five places.
 
@@ -4786,7 +4786,7 @@ Here Bhaṭṭabhāskara says [the sentence]; and Kṣura says: "*kṣureṇa tu
 
 Here, according to Kṣura and Bhaṭṭabhāskara, *sacante* means "they serve (*sevante*)".
 
-(3) On the root number 655 of the Bhvādi group: —
+(3) On the root number 635 of the Bhvādi group: —
 
 > "अरेणुभिर्जेहमानम्"—(तै. सं. ४-६-७)
 >
@@ -4851,7 +4851,7 @@ Even for words that denote inert things he joins patronymic (*apatyārthaka*) su
 
 Because he is the son of Prajāpati, who is denoted by the word *bhuvaḥ*, Prāṇa (that is, Vāyu) is called "Bhauvāyanaḥ".
 
-### 7. Veṅkaṭeśa
+### 2. Veṅkaṭeśa
 
 (time not known exactly)
 
@@ -4957,7 +4957,7 @@ His time — the Mādhava-deva whom Devarājayajvan quotes in his commentary on 
 
 ### Page 280
 
-After the auspicious verse Mādhava begins, saying that mantras are of 36 kinds, and says that of these five are in the Ṛgveda and the remaining 31 are in the Sāmaveda also. In this way, in dividing the mantras, he has a close likeness to Skandasvāmin and Bahumuṭṭa. From this the two of them must have gathered this matter from one work; otherwise one may be said to be indebted to the other. Or else, as was said earlier, Nārāyaṇa, the colleague of Skandasvāmin, and Nārāyaṇa, Mādhava's father, must be one and the same person. If this point is true, Mādhava may be said to be of the 7th century.
+After the auspicious verse Mādhava begins, saying that mantras are of 36 kinds, and says that of these five are in the Ṛgveda and the remaining 31 are in the Sāmaveda also. In this way, in dividing the mantras, he has a great likeness to Skandasvāmin. From this the two of them must have gathered this matter from one work; otherwise one may be said to be indebted to the other. Or else, as was said earlier, Nārāyaṇa, the colleague of Skandasvāmin, and Nārāyaṇa, Mādhava's father, must be one and the same person. If this point is true, Mādhava may be said to be of the 7th century.
 
 Commentary: the *Vivaraṇa* is a commentary belonging to the best class. He had a good knowledge of the Sāmaveda tradition. Sāyaṇācārya, in many places, following the Ṛgveda text, wrote the exposition of the Sāma mantras; but Mādhava has written the exposition in a different way. For example, in the Uttarārcika of the Sāmaveda —
 
@@ -5139,7 +5139,7 @@ The original of the copy at Pune is of C.E. 1407. Therefore he may be said to be
 
 Nothing more has so far become known about him.
 
-### 7. Guṇaviṣṇu
+### 2. Guṇaviṣṇu
 
 (the last part of the 12th century C.E.)
 
@@ -5260,7 +5260,7 @@ Sometimes commentators make a meaning against the Pada-pāṭha. For example, Bh
 >
 > "*Asvapnajaḥ*: one not given to sleep… because this is not approved by the Pada-makers, it is explained otherwise: they are not born of sleep, therefore *asvapnajāḥ*."
 
-"*Asvapnajaḥ*" means those who are always awake — that is the meaning. Since this meaning does not agree with the Pada-maker, he has made the meaning "those who are not born of sleep".
+"*Asvapnajaḥ*" means those who never have a dream — that is the meaning. Since this meaning does not agree with the Pada-maker, he has made the meaning "those who are not born of sleep".
 
 ### Page 290
 
@@ -5319,9 +5319,9 @@ The Pada-pāṭha of the Sāmaveda differs a little from the Pada-pāṭhas of t
 
 ### Page 291
 
-Such Pada-pāṭhas begin from the Sāma Pada-pāṭha edited by Satyavrata Sāmaśramī. Besides these, other Pada-pāṭhas are also found in the Nirukta. From this it can be said that there were other Pada-pāṭhas also besides the Sāma Pada-pāṭha of Gārgya. If they are obtained, the study of the Nirukta will become very easy and clear.
+Such Pada-pāṭhas are selected from the Sāma Pada-pāṭha edited by Satyavrata Sāmaśramī. Besides these, other Pada-pāṭhas are also found in the Nirukta. From this it can be said that there were other Pada-pāṭhas also besides the Sāma Pada-pāṭha of Gārgya. If they are obtained, the study of the Nirukta will become very easy and clear.
 
-### 7. The authors of the Pada-pāṭha of the Atharvaveda
+### 2. The authors of the Pada-pāṭha of the Atharvaveda
 
 The Pada-pāṭha of this Veda too is just like the Pada-pāṭha of the Ṛgveda. In place of the avagraha sign *s* (ऽ), the mark "0" (a circle) is here. The author is not known.
 
@@ -5487,7 +5487,7 @@ In this matter the commentators hold different opinions. It is given below —
 >
 > *kecin niṣṭhāyāṃ varṇavyatyayena ikārasyaikāram āhuḥ | anāmaṃtritatvaṃ ca manyaṃte | tadā ādyudāttatvaṃ ca durlabham | śākhāṃtare tu—ā iṣṭaḥ eṣṭa iti matvā avagrahaṃ kurvaṃti ||*
 >
-> "Some, [in the word] *iṣṭā*, by a change of letters, say [that] *ikāra* [becomes] *aikāra*; and they consider it not a vocative; then the first-syllable *udātta* accent is hard to obtain. But in another branch, thinking '*ā iṣṭaḥ*, *eṣṭaḥ*', they make an avagraha." (Translation editorial and tentative.)
+> "Some, [in the word] *iṣṭā*, by a change of letters, say [that] *ikāra* [becomes] *ekāra*; and they consider it not a vocative; then the first-syllable *udātta* accent is hard to obtain. But in another branch, thinking '*ā iṣṭaḥ*, *eṣṭaḥ*', they make an avagraha." (Translation editorial and tentative.)
 
 And —
 

@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 280 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270)
-- **Findings:** 1114 — applied 956, questions 158; edits ok 960, failed 0
-- **Reader tokens (batches so far):** 3040k; per page 10.9k
-- **Last commit:** 3a47bde
+- **Pages read:** 310 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300)
+- **Findings:** 1172 — applied 1001, questions 171; edits ok 1005, failed 0
+- **Reader tokens (batches so far):** 3040k; per page 9.8k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -21,22 +21,23 @@
 | 8 | 181–210 | 79 | 71 | 71 / 0 | 8 | 317k | d2c93de | 71 edits (28 S14 sense, 12 S13 names, 9 S16, 8 S2, 5 S3, 4 S15, 4 S1, 1 S7), 8 Gaps index count rows corrected; first batch under the Nov 25 method (no questions: 15 kn_misprints, 7 decided_by_default rows; no Devanagari/IAST lines edited); Kannada p. 198 block holds printed 198+199; an older '## Page 191' summary in the main file (two-level heading) is out of sp_apply's reach (listed in decided_by_default) |
 | 9 | 211–240 | 87 | 74 | 74 / 0 | 13 | 279k | 0a76ccd | 74 edits (24 S14 sense, 16 S13 names, 12 S3 + 11 S1 numbers, 5 S16, 4 S15); the supplied Kannada p. 215 is a copy of p. 216 (true p. 215 absent: English p. 215 unchecked); several paragraphs on pp. 214, 217, 232 replaced as wrong as a whole; Kannada table references applied as printed even where odd (7-1-0 p. 224, p. 239 numbering, 1237 vs 80 years: open.tsv) |
 | 10 | 241–270 | 55 | 46 | 46 / 0 | 9 | 268k | 3a47bde | 46 edits (33 R6 names/terms, 13 R1 incl. whole-paragraph replacements on pp. 247, 248, 253, 254, 257, 258, 260 where the English was wrong as a whole); no page shifts; p. 241 Kannada 101 sūktas vs quoted Sanskrit 1001 applied as printed (open.tsv); p. 258 Chaturvedasvāmin account has no English (not added) |
+| 11 | 271–300 | 58 | 45 | 45 / 0 | 13 | TOK10 | @C@ | 45 edits (18 S14 sense, 10 S1 chapter/heading numbers, 6 S13, 6 S16, 4 S2 removals, 3 S15); chapter numbers now follow the Kannada (p. 284 ch. 16, p. 285 ch. 17, p. 296 ch. 18); heading numbers 7→3/2 on pp. 271, 277, 283, 291 and Kṣura's date 1290→190 on p. 276 applied as printed (open.tsv); English p. 270 already holds the first lines of Kannada p. 271 |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
 | S7 | 352 | 21 | 373 |
-| S13 | 173 | 8 | 181 |
-| S14 | 172 | 1 | 173 |
-| H29 | 0 | 113 | 113 |
-| S1 | 110 | 1 | 111 |
-| S16 | 44 | 3 | 47 |
+| S14 | 189 | 2 | 191 |
+| S13 | 178 | 13 | 191 |
+| S1 | 120 | 1 | 121 |
+| H29 | 0 | 119 | 119 |
+| S16 | 50 | 3 | 53 |
 | S3 | 38 | 0 | 38 |
-| S17 | 16 | 11 | 27 |
-| S15 | 26 | 0 | 26 |
-| S2 | 25 | 0 | 25 |
+| S2 | 29 | 0 | 29 |
+| S15 | 29 | 0 | 29 |
+| S17 | 16 | 12 | 28 |
 
-By reader: R1 519, R3 362, R6 233
+By reader: R1 560, R3 367, R6 245
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -73,11 +74,17 @@ By reader: R1 519, R3 362, R6 233
 - **other** (pages 240): Kannada p.240 prints Anandatirtha 1197-1237 while the Kannada text says he lived 80 years; applied as printed (English was 1197-1277)
 - **page-absent** (pages 215): The supplied Kannada p. 215 is a copy of p. 216 (running head 216); the true p. 215 text is not in the file, so English p. 215 could not be checked (the supplied file needs a new p. 215)
 - **other** (pages 241): Kannada p.241 prints 101 suktas of the Rigveda while the quoted Sanskrit says thousand-and-one (ekottarasahasra); applied as printed (English had 1,001)
+- **other** (pages 271): Kannada p.271 numbers the Adityadarshana section ೩ although the list had reached ೬ (Halayudha) on p.270 and ೮ (Devapala) follows on p.272; applied as printed (English was 7)
+- **other** (pages 276): Kannada p.276 prints Kshura as about C.E. ೧೯೦ (190), although Sayana (14th c.) quotes him; applied as printed (English was 1290)
+- **other** (pages 277): Kannada p.277 numbers the Venkatesha section 2 (Arabic numeral) after ೬ Sayana; applied as printed (English was 7)
+- **other** (pages 283): Kannada p.283 numbers the Gunavishnu section ೨ after ೬ Shobhakara; applied as printed (English was 7)
+- **other** (pages 291): Kannada p.291 numbers the Atharvaveda Pada-patha section ೨ after ೬ Samaveda; applied as printed (English was 7)
+- **other** (pages 300): Kannada p.300 gives the Hiranyagarbha hymn as Mandala 10, hymn 124; applied as printed (English had Mandala 1, ninth section)
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 130 Kannada misprints where the English is kept (`kn_misprints.tsv`); 33 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 147 Kannada misprints where the English is kept (`kn_misprints.tsv`); 41 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)

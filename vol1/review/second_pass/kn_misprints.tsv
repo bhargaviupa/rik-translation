@@ -129,3 +129,20 @@ page	place	as_found	question	why_not_settled	decision
 267	Heading	Kannada ಅಸಂತಾಚಾರ್ಯ for ಅನಂತಾಚಾರ್ಯ	Kannada misprint ಅಸಂತಾಚಾರ್ಯ; English has Anantacarya		English kept
 269	List numbers	Kannada ೨ twice for ೩	Kannada misprint ೨ (second); English has 3		English kept
 249	Works list	Kannada item 6 printed twice	Kannada duplicate line; English has it once		English kept
+271	Verse and text	ಮೀಮಾಂಸಾಸರಸ್ವಸ್ವ	Kannada misprint ಮೀಮಾಂಸಾಸರಸ್ವಸ್ವ; English has Mimamsa-sarvasva		English kept
+272	Verse	ನೇದದರ್ಶನ, ಆಸ್ತಿ ಕ್ಯ	Kannada misprint ನೇದದರ್ಶನ (nedadarshana); English has vedadarshana		English kept
+273	Commentary Sanskrit	ಅದ್ಭತಿ	Kannada misprint ಅದ್ಭತಿ; English has addhvashi [?]		English kept
+277	Prose	ಪದ್ಯಗಳಿಗೂ	Kannada misprint ಪದ್ಯಗಳಿಗೂ (verses); English has words		English kept
+281	Verses	ತತ್ಪಸಾದಾದನಾಪ್ತಧೀಃ, ವ್ಯಾಖ್ಯ್ಯಾಸ್ಮಾನ್ನಾಮೃಚೋ, ಋಗ್ವದ	Kannada misprints in verse and prose; English has tatprasadad avaptadhih, vyakhyat samnam rco, Rigveda		English kept
+283	Prose	ಗ್ರಂಥದ್ಮವಾಕ್ಯಗಳನ್ನು	Kannada misprint ಗ್ರಂಥದ್ಮವಾಕ್ಯಗಳನ್ನು; English has sentences of the work		English kept
+287	Heading	ಸದಪಾಠಕಾರರು	Kannada misprint ಸದಪಾಠಕಾರರು; English has Padapatha authors		English kept
+288	Headings	ಪದಪಾರಕಾರರು / ಪದಸಾರಕಾರರು	Kannada misprints ಕಾಣ್ವಸಂಹಿತಾಪದಪಾರಕಾರರು, ಮೈತ್ರಾಯಣೀಸಂಹಿತಾಪದಸಾರಕಾರರು; English has Pada-pathakara authors		English kept
+289	Heading and quotation	ತೈತ್ತಿರೀಯಸಂಹಿತಾಪಾದಪಾರಕಾರರು	Kannada misprint ಪಾದಪಾರಕಾರರು; English has authors of the Pada-pathas		English kept
+290	Headings	ಪದಪಾರಕಾರರು, ಗಾರ್ಗ್, ನಿರ್ಹುಸಿತ	Kannada misprints ಪದಪಾರಕಾರರು, ಗಾರ್ಗ್ (heading); English has authors, Gargya		English kept
+291	Heading	ಪದಪಾರಕಾರರು	Kannada misprint ಅಥರ್ವಣ ವೇದದ ಪದಪಾರಕಾರರು; English has Pada-pathas of the Atharvaveda		English kept
+292	Table	ಕ್ಷೋಣೀರಿನ, ರಾಜೇನ, ರಾಜೀವ, ವೀರವತ್ಸತಮಂ	Kannada misprints in the table words; English has ksonirva, rajeva, viravat-tamam		English kept
+293	Table and heading	ಪ್ರಜಾಯತರ್ಹಿ, ಪ್ರಜಾ-ವತಿರ್ಹಿ, ಸ್ವರಾಂಕನ ... ಗೀಟನ್ನು	Kannada misprints in the table words; English has prajavatir iti praja-vatih		English kept
+294	Heading	ವಿಷ್ಣು ರಾಯರು	Kannada misprint ವಿಷ್ಣು ರಾಯರು; English has Ista rayah		English kept
+295	Quotation	ವರ್ಣ್ಯವ್ಯತ್ಯಯೇನ, ಪದಕಾರ್ಯೈನ್ನಾಮ	Kannada misprints ವರ್ಣ್ಯವ್ಯತ್ಯಯೇನ, ಪದಕಾರ್ಯೈನ್ನಾಮ; English has varnavyatyayena, padakarair nama		English kept
+296	Quotation	ಅಧಿವಾಸಂ (twice)	Kannada prints adhivasam for both Shakalya and Atreya; English has adhyavasam for Atreya		English kept
+300	Prose	ಕಸ್ಯೈ	Kannada misprint ಕಸ್ಯೈ; English has kasmai		English kept

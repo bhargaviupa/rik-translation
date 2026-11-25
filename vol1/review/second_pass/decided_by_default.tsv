@@ -32,3 +32,11 @@ page	place	as_found	question	why_not_settled	decision
 258	Chaturvedasvami account	English has placeholder only	Omission		English kept unchanged; omission not added
 266	Bhagavadbhatta	Kannada ಭಗವದ್ಭಟ್ಟ; English Bhagavaddatta	Doubt; not settled from memory		English kept unchanged
 245	stray word	Kannada has stray word ಕೈಲಾಸ; English omits	Stray word		English kept unchanged
+275	Bharadvaja Arbhatta	Kannada ಆರ್‍ಭಟ್ಟ	Kannada reads Arbhatta; English has Aryabhatta	not settled from memory	English kept
+282	Sanskrit line	keyo [sic]	English Sanskrit line has keyo [sic]; Kannada has ಕಯಾ ಊತೀ	Sanskrit line is derived data, not edited by hand	English kept
+284	translation of the quotation	pippalādād ṛg ucyate	Kannada ಪಿಪ್ಪಲಾದದೃಷ್ಟಃ (seen by Pippalada); English translation reads "stated according to the Pippalada recension"	translation follows the derived Devanagari line	English kept
+288	inline Sanskrit	śatavalśaṃ	Kannada ಶತವಲ್ಯಂ, ಸಹಸ್ರವಲ್ಯಾ; English śatavalśaṃ, sahasravalśā	inline Sanskrit is derived data	English kept
+294	inline Sanskrit	Iṣṭā rāyaḥ	Kannada ಏಷ್ಟಾ (eṣṭā); English Iṣṭā	inline Sanskrit is derived data	English kept
+295	inline Sanskrit	ādityai	Kannada ಆದಿತ್ಯ; English ādityai	inline Sanskrit is derived data	English kept
+300	Kannada prose on Sayana	omission	English omits the sentences that Sayana begins the sukta with "ka-shabdabhidheyah prajapatir devata" and gives deity status to stones, plants, instruments	omission is not added	English kept
+285	Padapatha older than Samhita?	remains genuinely disputed	Kannada says only that some hold the Padapatha older and the basis of the Samhita; English calls it disputed	mild paraphrase; sense kept	English kept

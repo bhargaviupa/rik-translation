@@ -4456,7 +4456,7 @@ Besides this Chandogya-mantra commentary, this author also composed a Mantrabrah
 
 ---
 
-## Chapter Fourteen — Commentators on the Atharvaveda
+## Chapter Sixteen — Commentators on the Atharvaveda
 
 ### 1. Sayana
 *(Period: 1315–1387 CE)*
@@ -4489,24 +4489,24 @@ That is: the Atharvaveda's nine branches are the Paippaladas, Taudas, Maudas, Sh
 This commentary is understood to survive in complete form at Gwalior.
 
 
-## Chapter [Fifteen?] — Authors of the Padapatha
+## Chapter Seventeen — Authors of the Padapatha
 
-*(The chapter number on this page is not fully legible at this resolution — likely "fifteen," continuing the sequence after Chapter 14 on Atharvaveda commentators — but is noted here with appropriate caution rather than asserted with false confidence.)*
+
 
 ### Page 285
 
 Having now discussed the subtle particulars of many Veda-commentators, let us turn to introducing the authors of the **Padapatha** — the word-by-word (as opposed to continuously euphonically-combined) recitation text of the Vedic Samhitas.
 
-The Padapatha of the Vedic Samhitas is extremely ancient. Whether the Padapatha predates the Samhita, or the Samhita itself is the original form from which the Padapatha was derived, remains genuinely disputed among scholars — but it is undisputed that knowledge of the Padapatha is immensely helpful to any commentator. Among Sanskrit-literary circles, scholars characteristically incline toward their own preferred interpretation, or follow established convention, when explaining a word's components — offering varying explanations for a single word's multiple meanings, and for compound words (samasa) and their meanings, in differing ways, as a long-established custom. Because many rishis' differing opinions on word-meanings, and the Veda's own special/varying senses, have caused genuine doubt since ancient times, rishis in many early periods composed word-division (padavibhaga) texts for the Veda. Commentators on Vedic words must accordingly feel free to attempt various interpretations according to their own capacity — this need not be a source of hesitation. For this reason, even among the Samhitas' extremely ancient Padapathas, whatever variation exists is understood to have arisen from the very beginning in this same way. The rishis held that variation in pronunciation or accent (svara) — whether in the Vedangas or in matters of intonation — is a serious matter, and accordingly composed the Veda's own Padapatha, following each shakha's specific method, as an integral practice woven into many shakhas and their sub-branches — alongside each Veda's Shiksha-texts (phonetic manuals) and Pratishakhyas. With the help of these texts, the tradition of Vedic study has remained firmly established, variations in Padapatha included.
+The Padapatha of the Vedic Samhitas is extremely ancient. Whether the Padapatha predates the Samhita, or the Samhita itself is the original form from which the Padapatha was derived, remains genuinely disputed among scholars — but it is undisputed that knowledge of the Padapatha is immensely helpful to any commentator. Among Sanskrit-literary circles, scholars characteristically incline toward their own preferred interpretation, or follow established convention, when explaining a word's components — offering varying explanations for a single word's multiple meanings, and for compound words (samasa) and their meanings, in differing ways, as a long-established custom. Because many rishis' differing opinions on word-meanings, and the Veda's own special/varying senses, have caused genuine doubt since ancient times, rishis in many early periods composed word-division (padavibhaga) texts for the Veda. Commentators on Vedic words may therefore imagine various meanings according to their own intellectual capacity, but they have no freedom to divide the words as they please. For this reason the Samhitas and the Padapathas have remained, from the most ancient times, without any variation, exactly as the rishis composed them. The rishis held that variation in pronunciation or accent (svara) — whether in the Vedangas or in matters of intonation — is a serious matter, and accordingly composed the Veda's own Padapatha, following each shakha's specific method, as an integral practice woven into many shakhas and their sub-branches — alongside each Veda's Shiksha-texts (phonetic manuals) and Pratishakhyas. With the help of these texts, the tradition of Vedic study has remained firmly established, and the Vedic text has remained unchanged, as it was before.
 
 Padapathas exist only for the **Samhitas** — the Brahmana, Aranyaka, and other Vedic portions have none, since no tradition of studying their Padapatha specifically developed. Commentaries themselves differ only slightly from the Padapathas — from a commentary, a mantra's intended meaning becomes known, but understanding that meaning requires word-division (padaccheda) first; and knowing a word's grammatical nature, its suffixes, and its compound-formations likewise requires the Padapatha. Padapathas are thus extremely ancient relative to the Vedas and extremely important — practically an integral part of the Veda itself — and of immense help to commentators.
 
 
 ### Page 286
 
-Anyone wishing to understand the Vedas must study all the Padapathas. In contexts where a single word carries different meanings, differing methods of word-division, shakha-specific variant forms, or meaning-based distinctions all prove useful — all understood through the Padapathas. While one established order governs the sequence of word-division and accent-arrangement, applying these according to one's own intellectual capacity for one's own purposes need not surprise Vedic researchers.
+Anyone wishing to understand the Vedas must study all the Padapathas. In contexts where a single word carries different meanings, differing methods of word-division, shakha-specific variant forms, or meaning-based distinctions all prove useful — all understood through the Padapathas. While one established order governs the sequence of word-division and accent-arrangement, how much intelligence and labour those who arranged them used cannot fail to astonish Vedic researchers.
 
-Modern linguistic scholars, however, argue that the Padapathas contain many faults — an argument that, on closer examination, traces mostly to some scholars raising unnecessary criticism without having grasped certain finer points. Linguistics is, after all, a relatively young discipline, whereas the Padapatha-authors were traditional scholars well versed across grammar, meter, Kalpa, and related disciplines. Understanding these Padapathas therefore remains extremely necessary for every Vedic scholar.
+Modern linguistic scholars, however, argue that the Padapathas contain many faults. Before this argument is believed, two points should be remembered. Linguistics is, after all, a relatively young discipline, whereas the Padapatha-authors were traditional scholars well versed across grammar, meter, Kalpa, and related disciplines. Understanding these Padapathas therefore remains extremely necessary for every Vedic scholar.
 
 ### 1. Authors of the Rigveda Padapatha
 
@@ -4516,13 +4516,13 @@ The Brahmanda Purana (second part, second pada, ch. 34) gives these verses:
 
 > शाकल्यः प्रथमस्तेषां तस्मादन्यो रथीतरः । बाष्कलश्च भरद्वाज इति शाखाप्रवर्तकाः ॥ ३२ ॥ देवमित्रस्तु शाकल्यो ज्ञानाहंकारगर्वितः । जनकस्य स यज्ञे वै विनाशमगमद्द्विजः ॥ ३३ ॥
 >
-> "Shakalya was the first among them; besides him, Rathitara; and Bashkala and Bharadvaja — these were the shakha-founders. Devamitra's [son] Shakalya, proud with the arrogance of his knowledge, met his downfall at King Janaka's yajna, this twice-born one."
+> "Shakalya was the first among them; besides him, Rathitara; and Bashkala and Bharadvaja — these were the shakha-founders. Devamitra Shakalya, proud with the arrogance of his knowledge, met his downfall at King Janaka's yajna, this twice-born one."
 
 And elsewhere:
 
 > देवमित्रश्च शाकल्यो महात्मा द्विजपुङ्गवः । चकार संहिताः पञ्च बुद्धिमान् वेदवित्तमः ॥
 >
-> "Devamitra's Shakalya, the great-souled, foremost of the twice-born, wise, and most learned in the Veda, composed five Samhitas."
+> "Devamitra Shakalya, the great-souled, foremost of the twice-born, wise, and most learned in the Veda, composed five Samhitas."
 
 (The Vayu Purana, ch. 60, verse 63, reads "padavittamaḥ" — "most learned in words" — in place of "vedavittamaḥ.") Shakalya, Rathitara, Bashkali, and Bharadvaja were shakha-founders; among them, tradition holds that **Devamitra Shakalya**, arrogant with the pride of his knowledge, engaged Yajnavalkya in debate at King Janaka's assembly-hall and, having been defeated, suffered public disgrace.
 
@@ -4531,9 +4531,9 @@ Devamitra Shakalya was deeply learned in the Vedas and founded five Samhitas (or
 
 ### Page 287
 
-This Shakalya is mentioned in both the Nirukta and the Brihaddevata. Keith and other Western scholars hold that Shakalya lived roughly 500–600 years BCE — an opinion without solid basis. Taking the Puranic accounts above as the basis instead places his era within the Mahabharata period, roughly **3000 BCE**.
+This Shakalya is mentioned in both the Nirukta and the Rik-Pratishakhya. Keith and other Western scholars hold that Shakalya lived roughly 500–600 years BCE — an opinion without solid basis. Taking the Puranic accounts above as the basis instead places his era within the Mahabharata period, roughly **3000 BCE**.
 
-The Rigveda's Padapatha was printed in Bombay in 1873 CE, and Max Müller and other scholars generally follow it — though not perfectly; a few places show differences between the Nirukta's own Shakalya-Padapatha and this printed edition. Whose authorship the currently available Sarvanukramani-sukta's Padapatha belongs to cannot presently be determined.
+The Rigveda's Padapatha was printed in Bombay in 1873 CE, and Max Müller and other scholars generally follow it — though not perfectly; a few places show differences between the Nirukta's own Shakalya-Padapatha and this printed edition. The authorship of the currently available Padapatha of the Valakhilya suktas cannot yet be determined.
 
 ### 2. Ravana
 
@@ -4568,20 +4568,20 @@ Padapatha-authors' opinions vary widely — on prefixes (upasargas) as much as o
 
 ---
 
-## Chapter Seventeen — Ancient Efforts in Investigating the Meaning of the Veda
+## Chapter Eighteen — Ancient Efforts in Investigating the Meaning of the Veda
 
 In this chapter, we examine what kinds of efforts the ancients made toward understanding the Veda's meaning, and what texts from these efforts survive today.
 
-The **Brahmanas**, themselves a portion of the Veda, already engage in explaining meaning — the very first such attempt. Their primary aim, however, was not to explain mantra-meaning as such, but to describe the significance of yajna-related rites, establishing the special connection between mantras and their corresponding ritual actions. They sometimes explain a mantra's meaning in general terms, or occasionally gloss specific words. Collected together, such incidental explanations would form a substantial body of material — yet even so, a great many words and sentences remain without any explained meaning.
+The **Brahmanas**, themselves a portion of the Veda, already engage in explaining meaning — the very first such attempt. Their primary aim, however, was not to explain mantra-meaning as such, but to describe the significance of yajna-related rites, establishing the special connection between mantras and their corresponding ritual actions. They sometimes explain a mantra's meaning in general terms, or occasionally gloss specific words. Collected together, such incidental explanations would form a substantial body of material — and without them many words and sentences would not be understood at all.
 
-Though the well-known **Sarvanukramani** is available to us today, proper interpretation of the Veda depends primarily on **Yaska's Nirukta** — no other surviving text has been found to serve this purpose as thoroughly, though even the Nirukta does not fully resolve every difficulty in understanding the Veda's meaning.
+The Pratishakhyas and the **Sarvanukramani**, already known to us, help those who study the Veda but are not so useful to those who wish to know its meaning: the Pratishakhyas deal with the origin of the Veda and the accents to be pronounced, and the Sarvanukramani gives the rishi, metre, deity and so on of each mantra.
 
 The single most important text aimed specifically at explaining the Veda's meaning is Yaska's Nirukta. No earlier text serving this same purpose has been found to have survived; but this text too, in relation to the Vedas...
 
 
 ### Page 297
 
-...bears no relation to chronology at all. Yaska sometimes glosses words in a specifically Vedic sense, and sometimes in the sense of Sanskrit as then commonly spoken — and occasionally applies both senses to the very same word. For example:
+...cannot be said to belong to the time of the Vedas themselves. Yaska sometimes glosses words in a specifically Vedic sense, and sometimes in the sense of Sanskrit as then commonly spoken — and occasionally applies both senses to the very same word. For example:
 
 > इवेति भाषायां च अन्वध्यायं च । अग्निरिवेन्द्र, इनेति । नेति प्रतिषेधार्थीयो भाषायाम् । उभयमन्वध्यायम् ।
 >
@@ -4589,7 +4589,7 @@ The single most important text aimed specifically at explaining the Veda's meani
 
 That is: "iva" carries the same sense in ordinary Bhasha (the term used for the Sanskrit of Kavyas and similar literature) as in the Veda — "agnir iva" means "like Agni." But "na," which negates in ordinary Bhasha, carries both negation and comparison in the Veda: in "na vindhe asya suṣṭutam," it negates; in "dyaur ṇa pratinākavaḥ," "dyaur ṇa" means "like the sky." Citing both senses side by side this way confirms that, in Yaska's own time, both forms of Sanskrit were current.
 
-In the Nirukta's introduction, Yaska also addresses an objection concerning Vedic interpretation itself: that if the Vedas have no coherent meaning, composing commentary on them serves no purpose. The objection cites substandard sentences, mutually contradictory statements, needless repetition of already-known meanings, and words with no discernible meaning — concluding that Vedic mantras are meaningless and any commentary on them futile. Yaska addresses each such objection with examples and a reasoned answer in his traditional introduction — not necessary to detail further here.
+In the Nirukta's introduction, Yaska also addresses an objection concerning Vedic interpretation itself: that if the Vedas have no coherent meaning, composing commentary on them serves no purpose. The objection cites sentences expressing impossible things, mutually contradictory statements, needless repetition of already-known meanings, and words with no discernible meaning — concluding that Vedic mantras are meaningless and any commentary on them futile. Sayanacharya, in the introduction to his commentary, sets out these arguments with examples and gives a reasonable answer to each objection — there is no need to discuss them in detail here.
 
 This argument settles one important point: **even in Yaska's own time, the Veda was not in common circulation among ordinary people**, and its language was not easily understood generally.
 
@@ -4598,9 +4598,9 @@ Two further considerations from the Nirukta confirm this. If the Veda were alrea
 
 ### Page 298
 
-...even having examined all these elements, Yaska never claims his own interpretation is definitively correct — nor should one assume the Nirukta's help alone suffices for grasping the Veda's true meaning.
+Considering all these points, we cannot accept everything Yaska says as correct; yet the help the Nirukta has given toward understanding the meaning of the Veda is immense.
 
-At one point, the Nirukta reveals just how far earlier interpreters had gone on a given question — for instance, regarding the word "Vritra" (what creature is it? what color?):
+At one point, the Nirukta reveals just how far earlier interpreters had gone on a given question — for instance, regarding the word "Vritra" (who is he? what is his nature?):
 
 > ततक्यो वृत्रः । मेघो इति स्थैराक्याः । त्वाष्ट्रोऽसुर इत्यैत्याहासिकाः ।...अपां च ज्योतिषश्च मिश्रभावकर्मणो वर्ष कर्म जायते । तत्र उपमार्थेन युद्धवर्ण भवन्ति । अहिनवत्तु खलु मन्त्रवर्ण ब्राह्मणवादाश्च । विवृद्धशरीरस्य स्रोतांसि निवारयांचकार । तस्मिन् हके प्रसस्संदिरे आपः ।
 >
@@ -4623,11 +4623,11 @@ Even though the **Purva-Mimamsa-shastra's** stated purpose is to establish the V
 >
 > "Among Shruti (direct statement), Linga (indicator), Vakya (syntax), Prakarana (context), Sthana (order), and Samakhya (name/definition) — where these conflict, each successive source is weaker than the one before it, owing to its greater remove from direct meaning."
 
-That is: among mutually conflicting sources of evidence bearing on a single mantra, whichever comes earlier in this list — Shruti, Linga, Vakya, Prakarana, Sthana, Samakhya — takes priority over what follows; the complete statement (full Vakya) holds authority. Purva-Mimamsa thus explains the *method* of meaning-determination rather than specific meanings themselves.
+That is: among mutually conflicting sources of evidence bearing on a single mantra, whichever comes earlier in this list — Shruti, Linga, Vakya, Prakarana, Sthana, Samakhya — takes priority over what follows; the earlier statement alone holds authority. Purva-Mimamsa thus explains the *method* of meaning-determination rather than specific meanings themselves.
 
 The most important text written directly for explaining the Veda's meaning is Sayanacharya's own ***Vedartha-prakashika*** — an exhaustive, comprehensive Rigveda commentary from beginning to end, accompanied by a substantial, invaluable introduction.
 
-Near a bend of the Tungabhadra river in Bellary District, at the now-ruined site called Vijayanagara, the Karnataka empire was founded in the mid-14th century CE by **Bukkaraya**. Sayanacharya served as this king's guru; he and his brother Madhavacharya both did exceptional work in founding Vijayanagara and in the world of letters. Madhavacharya later became known as **Vidyaranya**, the name he remains famous under today — and it is this same Madhavacharya who wrote the *Sarvadarshanasangraha*, compiling the core tenets of the established Vedanta schools, as well as the verse-form Advaita-Vedanta text *Panchadashi*. Beyond his Rig-Yajus-Sama Veda commentaries, Sayanacharya also commented on the Aitareya Brahmana, its Aranyakas, and similar texts.
+In Bellary District, on the bank of the Tungabhadra near Hampe, at the now-ruined site called Vijayanagara, the Karnataka empire was founded in the mid-14th century CE by **Bukkaraya**. Sayanacharya served as this king's guru; he and his brother Madhavacharya both lived at the Vijayanagara court and did exceptional work in the world of letters. Madhavacharya later became known as **Vidyaranya**, the name he remains famous under today — and it is this same Madhavacharya who wrote the *Sarvadarshanasangraha*, compiling the core tenets of the established Vedanta schools, as well as the verse-form Advaita-Vedanta text *Panchadashi*. Beyond his Rig-Yajus-Sama Veda commentaries, Sayanacharya also commented on the Aitareya Brahmana, its Aranyakas, and similar texts.
 
 In the *Vedartha-prakashika*, Sayanacharya explains, for every Rigveda mantra: the meaning of each word, the etymological breakdown of difficult terms, relevant grammatical points, and — at the head of each mantra — which yajna it belongs to and how it should be used there.
 
@@ -4636,11 +4636,11 @@ Modern scholars find many shortcomings in Sayanacharya's commentary by their own
 
 ### Page 300
 
-This reverential attitude leads Sayana, upon examination, to offer differing explanations for the same word across different contexts without hesitation. Where a meaning is unclear, he gathers earlier commentators' views and sometimes offers his own determination — but often without clarifying why one particular sense was chosen from a word's several possible meanings, or why his own interpretation was preferred. Though it's well established that words sharing a root can carry multiple senses, he doesn't consistently draw on this systematically; readers must work out for themselves why a given meaning was chosen in a given context, since he rarely states this explicitly in advance.
+Because of this reverence for the Veda, his commentary is seen in many places to be incoherent. Where the meaning is doubtful or unclear, he gives the opinions of four or five persons and leaves the matter there without giving his own decision. In explaining some sentences he is seen fitting the sense of one case-ending of a noun to another case-ending to suit his own view. The principle that roots have many meanings is used by him countless times. For one and the same word he sometimes gives a different meaning in each context. He does not seem to hesitate to supply the word or words needed to complete the sense of a sentence.
 
-The **Nirukta**, by contrast, generally settles a word's meaning based on its inherent grammatical derivation. It also draws together material scattered across the Brahmanas, Aranyakas, Sarvanukramani, and Brihaddevata — Puranic stories tied to history, and biographical material underlying the Veda's own composition — material not found gathered together anywhere in Sayanacharya's own text.
+Like the Nirukta writers, he generally determines meanings by deriving the words, and he quotes the Nirukta in many places. He also selects passages from the Brahmanas, Aranyakas, Sarvanukramani, Brihaddevata and the like, and Sayanacharya has included in his work Puranic and historical stories and life-stories that do not suit the style and greatness of the Veda.
 
-It is not the case that the Veda's interpretation remained entirely unsettled until Sayana's time — one example illustrates this well. In Mandala 1's ninth section, the well-known **"Hiranyagarbha" sukta**, with its refrain of "Ka" ("Who?"), poses a famous interpretive puzzle from the very start: should "*kasmai devāya haviṣā vidhema*" ("to which god should we make offering?") be read with "ka" as an ordinary interrogative pronoun, or does "Ka" itself become the name of the deity — the very creator-god whose name pervades the whole hymn?
+One example may be given to show that the intent of the Veda had been lost or was not rightly known. The 124th hymn of Mandala 10, the well-known **"Hiranyagarbha" sukta**, has in every verse the refrain "*kasmai devāya haviṣā vidhema*" ("to which god should we make offering?"): the poet, struck with wonder at the glory of the Supreme in one thing after another, keeps asking this question. Forgetting this intent of the hymn, Sayana argued that the pronoun "kasmai" itself is the name of the deity.
 
 > अत्र कं शब्दोऽनिर्दिष्टस्वरूपत्वात् प्रजापतौ वर्तते ।
 >
