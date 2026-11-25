@@ -13656,17 +13656,17 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 **॥ Viśeṣārthaḥ (special topics) ॥**
 
-**In this Rik**, the one who says "I shall praise" is the priest called the **Hotṛ**. In praising Agni here, only matters connected with the yajna are described — the qualities properly belonging to those who bear the principal roles within a yajna are here attributed to Agni himself. The word "**purohitam**" signifies either the chief ācārya who officiates the yajna, or, [more generally,] a brāhmaṇa [in that role]...
+**In this Rik**, the one who says "I shall praise" is the priest called the **Hotṛ**. In praising Agni here, only matters connected with the yajna are described — the qualities properly belonging to those who bear the principal roles within a yajna are here attributed to Agni himself. The word "**purohitam**" signifies either the chief ācārya who officiates the yajna, or Brahmā...
 
-*(References printed at the head of this page, in order (as read in the numeral review): 3-2-135, 6-1-197, 2-3, 5-3-55, 3-1-4.)*
+
 
 ### Page 611
 
-**...or, alternatively, it refers to the Adhvaryu** — the priest who accomplishes the majority of the practical tasks within the yajna — because "purohitam" (puraḥ + hitam) means: one who, during the yajna's performance, sits foremost, ahead of everyone else, and carries out the yajna's own tasks. "**Yajñasya devam**" means: Agni alone is the directly-visible deity within the yajna. The other deities are not visible to us. Moreover, since the oblations meant for other deities are all offered through Agni himself as the medium, there is no greater giver within the yajna than Agni. "**Ṛtvijam**" may refer to any one of the four principal ritvijs, beginning with Brahmā. "**Hotāram**" means the ritvij associated with the invoking/Homa-offering — but since it is well established that Agni himself brings the other deities to the sacrificial altar (**sa devān eha vakṣati**, "he shall bring the gods here," as stated explicitly in the very next Rik), he is accordingly called "**hotāram**." "**Ratna-dhātamam**" means: one who bestows, as the fruit of the yajna, jewels and similar things upon the yajamāna. There is an established usage whereby "ratna" refers not only to gems such as diamonds, but to any excellent or superior object generally. Hence the meaning: one who gives the yajamāna wealth, grain, cattle, jewels, and other such excellent things, as needed.
+**...or, alternatively, it refers to the Adhvaryu** — the priest who accomplishes the majority of the practical tasks within the yajna — because "purohitam" (puraḥ + hitam) means: one who, during the yajna's performance, sits foremost, ahead of everyone else, and carries out the yajna's own tasks. "**Yajñasya devam**" means: Agni alone is the directly-visible deity within the yajna. The other deities are not visible to us. Moreover, since the oblations meant for other deities are all offered through Agni himself as the medium, there is no one more worthy within the yajna than Agni. "**Ṛtvijam**" may refer to any one of the four principal ritvijs, beginning with Brahmā. "**Hotāram**" means the ritvij associated with the invoking/Homa-offering — but since it is well established that Agni himself brings the other deities to the sacrificial altar (**sa devān eha vakṣati**, "he shall bring the gods here," as stated explicitly in the very next Rik), he is accordingly called "**hotāram**." "**Ratna-dhātamam**" means: one who bestows, as the fruit of the yajna, jewels and similar things upon the yajamāna. There is an established usage whereby "ratna" refers not only to gems such as diamonds, but to any excellent or superior object generally. Hence the meaning: one who gives the yajamāna wealth, grain, cattle, jewels, and other such excellent things, as needed.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**For this first sukta of the first Mandala**, it is stated that the rishi is **Madhuchandas**, son of **Vishvamitra**. From this sukta through the tenth sukta — that is, across a total of ten suktas, 102 Riks in all — this same Madhuchandas remains the rishi. This rishi Madhuchandas is one of the sons of the rishi Vishvamitra. That Vishvamitra was himself the son of Gadhi is stated both in the Aitareya Brahmana (7-17, 18) and the Jaiminiya Brahmana (3-23-7-8). In the Rigveda's own comprehensive index (Sarvanukramanika), he is said to be the son of Kushika's son Gadhi. Only in the Panchavimsha Brahmana (21-12-2) is Vishvamitra instead described as a king born in the lineage of a king named Jahnu.
+**For this first sukta of the first Mandala**, it is stated that the rishi is **Madhuchandas**, son of **Vishvamitra**. From this sukta through the tenth sukta — that is, across a total of ten suktas, 102 Riks in all — this same Madhuchandas remains the rishi. This rishi Madhuchandas is one of the sons of the rishi Vishvamitra. That Vishvamitra was himself the son of Gadhi is stated both in the Aitareya Brahmana (7-17, 18) and the Jaiminiya Brahmana (3-237-8). In the Rigveda's own comprehensive index (Sarvanukramanika), he is said to be the son of Kushika's son Gadhi. Only in the Panchavimsha Brahmana (21-12-2) is Vishvamitra instead described as a king born in the lineage of a king named Jahnu.
 
 **For the Rigveda's third Mandala, this same Vishvamitra, son of Gadhi, is the rishi** — that Mandala contains 62 suktas. Logically, these ten suktas belonging to Vishvamitra's son Madhuchandas ought to have been included within the third Mandala. Why they were not so included, and instead came to stand at the head of the first Mandala, remains unknown.
 
@@ -13737,7 +13737,7 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 **Furthermore**, since Agni, offering up his very own body, burns kindling and similar fuel, and likewise cooks the oblation in homas and similar rites — through this self-consuming, self-propelling action — Agni comes to bear his name; this is counted among the **third** such reasons.
 
-**The Nirukta-scholar Sthaulāṣṭhīvin**, son of the great sage Sthaulāṣṭhīva, holds that Agni's very nature — burning continuously, without pause or restraint — accounts for the name: from a root meaning "to behave harshly" (krośa) comes "krośayati"; "**na krośayati**" gives "**akroṣaṇaḥ**" — that is, [Agni] burns wood and similar material mercilessly, without the gentleness [that quality's absence implies].
+**The Nirukta-scholar Sthaulāṣṭhīvin**, son of the great sage Sthaulāṣṭhīva, holds that Agni's very nature — burning continuously, without pause or restraint — accounts for the name: from a root meaning "to behave with affection" (krośa) comes "krośayati"; "**na krośayati**" gives "**akroṣaṇaḥ**" — that is, [Agni] burns wood and similar material mercilessly, without the gentleness [that quality's absence implies].
 
 **Another Nirukta-scholar, Śākapūṇi** (son of Śakapūṇi, also known by the name Rathītara), holds that the word "Agni" arises from **three separate roots**:
 
@@ -13767,7 +13767,7 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 **Meaning:** the root "īḍ" is well known to carry a sense connected with praise. Following the accepted principle that roots may carry multiple senses, the meanings "entreaty" (yācñā), "asking/invocation" (adhyeṣaṇā), and "worship" (pūjā) have all been assigned to the root "īḍ," and the verse is explained accordingly here.
 
-**The word "purohita" was already explained in the Nirukta's second chapter** (2-12), in the course of commenting on the Rik "**yeṣṭe vāpiḥ śaṃ kenāve purohitaḥ**" (Rigveda Samhita 10-98-7) — that is, "**puraḥ hitaṃ dadhāti purohitaḥ**": one who stands in front, [specifically] in front of the sacrificer [facing him] during the yajna. The Yajurvedins too gloss it as "**puro hitaṃ dadhate**" — one standing in front, that is, in the foremost position. The word "purohita" carries the established sense of the principal ācārya who properly conducts yajnas and similar rites according to shastric injunction. In this Rik, since the qualities of the Hotr and other ritvijs are attributed to Agni in this praise, "purohita" may equally be understood here as "chief ācārya." **This word "purohita" occurs only in a few places within the Rigveda itself.** Though the Bhashyakara [Sayana] clearly explains this word's sense as "chief ācārya" there, in the Krishna-Yajur[veda]...
+**The word "purohita" was already explained in the Nirukta's second chapter** (2-12), in the course of commenting on the Rik "**yeṣṭe vāpiḥ śaṃ kenāve purohitaḥ**" (Rigveda Samhita 10-98-7) — that is, "**puraḥ hitaṃ dadhāti purohitaḥ**": one who stands in front, [specifically] in front of the sacrificer [facing him] during the yajna. The Yajurvedins too gloss it as "**puro hitaṃ dadhate**" — one standing in front, that is, in the foremost position. The word "purohita" carries the established sense of the principal ācārya who properly conducts yajnas and similar rites according to shastric injunction. In this Rik, since the qualities of the Hotr and other ritvijs are attributed to Agni in this praise, "purohita" may equally be understood here as "chief ācārya." **This word "purohita" occurs only in a few places within the Rigveda itself.** Though the Bhashyakara [Sayana] does not clearly explain this word's sense as "chief ācārya" there, in the Krishna-Yajur[veda]...
 
 ### Page 615
 
@@ -13795,7 +13795,7 @@ I praise the deity named Agni — who stands in the foremost place within the ya
 
 Though "ṛtvij" is used generally for anyone engaged in reciting mantras and similar duties during a ritual, it more specifically denotes one of the four who bear the principal roles in a yajna: **Brahmā, Hotṛ, Adhvaryu**, and **Udgātṛ**. Since the word "hotāram" immediately follows "ṛtvijam" in this Rik, the Bhashyakara and many other commentators hold that the specific reference here is to the ritvij called **Hotṛ**.
 
-**On "hotāram":** the word "hotṛ" derives from the root "**hve**" (to invoke, to call) — hence "one who invokes the deities." This sense is reinforced by the very next Rik, which states "**sa devān eha vakṣati**" ("he shall bring the gods here"). The sage **Baurṇavābha** holds the alternative view that "hotṛ" instead derives from "**juhoti**" (to perform homa). For the word "hotṛ," this [alternate derivation]...
+**On "hotāram":** the word "hotṛ" derives from the root "**hve**" (to invoke, to call) — hence "one who invokes the deities." This sense is reinforced by the very next Rik, which states "**sa devān eha vakṣati**" ("he shall bring the gods here"). The sage **Aurṇavābha** holds the alternative view that "hotṛ" instead derives from "**juhoti**" (to perform homa). For the word "hotṛ," this [alternate derivation]...
 
 **Progress: Through PDF page 643 (printed page 615) — 4-page batch continuing the deep-dive commentary on Rigveda 1-1-1's individual words. This batch covered: the ḍa→ḷa sandhi rule explaining "īḷe" (confirming and clarifying an earlier hedged reading from before the "slow and careful" approach was adopted); a thoughtful methodological aside on why Sayana offers multiple etymologies for "Agni" (following Nirukta precedent rather than inventing them); the genuinely rich multi-root etymology of "Agni" itself, citing Sthaulashthivin and Shakapuni's differing derivations (from roots meaning "to go," "to burn/reduce to ash," and "to lead"), several Brahmana citations establishing Agni as "foremost among the deities"; the actual Nirukta passage (7-15) glossing this exact verse word-by-word; and detailed explanations of "purohita" (with two genuine Taittiriya Samhita citations naming Vishvarupa and Brihaspati as purohitas), "deva," "ṛtvij," and "hotāram" (including Baurnavabha's alternate etymology).**
 **Confidence notes:** this batch's content was substantially more tractable than pages 608-609 — mostly discursive etymological/explanatory prose rather than bare sutra-citation strings — allowing fuller confident translation. A small number of specific citation locators (a few Dhatupatha and Brahmana chapter-verse numbers) remain marked "[?]" where the exact reference couldn't be fully confirmed, consistent with standing practice.
@@ -13831,7 +13831,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 >
 > "Having bowed to Hayāsya and the new Raṅgendra, the givers of true meaning, I, Lakṣmaṇa, set forth the Pāṇinian [grammar] to be shown on the Ṛk, following Mādhava's words." (gloss mine and tentative; verse re-read from the better scan in the [?] pass, one word [?])
 
-**The word "Agni" arises from the root "ag," meaning "to go"** — per the Unadi rule "**aṅger ṇa-lopaś ca**" (Unadi Sutra, precise number uncertain): before the root "ag," the affix "ni" is added; moreover, [a rule governs] the loss of the nasal "n" [in the root]...
+**The word "Agni" arises from the root "ag," meaning "to go"** — per the Unadi rule "**aṅger ṇa-lopaś ca**" (Unadi Sutra 4-490): before the root "ag," the affix "ni" is added; moreover, [a rule governs] the loss of the nasal "n" [in the root]...
 
 *(A further reference on this page is printed as 4-490 (as read in the numeral review).)*
 
@@ -13869,7 +13869,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 >
 > "'He who leads forward' is Agraṇi; 'he who inclines with delight toward the forefront' is Agni; 'he who leads the body/limb onward' is Agni."
 
-**The great sage Sthaulāṣṭhīvi instead offers:** "**akṣṇo'payatīty agniḥ**" — "he who removes affliction from the eye is Agni." In these derivations, the division into root and affix must be constructed as appropriate in each case.
+**The great sage Sthaulāṣṭhīvi instead offers:** "**akṣṇo'payatīty agniḥ**". In these derivations, the division into root and affix must be constructed as appropriate in each case.
 
 **On this very point, Yaska states one of the Nirukta's own foundational methodological statements:**
 
@@ -13888,7 +13888,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 ### Page 619
 
-**This confirms that the word "īḷe" is properly svara-accented as derived above.** Continuing with "**timbū**" and similar forms [a brief transitional note], the same accent process applies.
+**This confirms that the word "īḷe" is properly svara-accented as derived above.** Since "īḷe" is a verb form (tiṅanta) standing after the non-verbal word "agnim", both its syllables are anudātta (Pāṇini 8-1-24); in saṃhitā recitation the ī then becomes svarita (8-4-66) and the following e takes ekaśruti, called pracaya (1-2-39).
 
 ---
 
@@ -13910,7 +13910,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 *(Several further specific citation-chains on this page — governing sandhi between the visarga of "puraḥ" and the initial "h" of "hitam," and the precise accent-retention rule for this particular tatpurusha type — involve highly compressed technical shorthand that could not be independently confirmed at full confidence and are not reproduced as specific numbered sutras here.)*
 
-*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-1-28, 8-4-6[?], 8-4-66, 1-2-39, 4-3-2-1, 5-3-39, 3-1-3, 6-1-158, 7-4-42, 2-2-18, 6-1-114, 6-1-223, 6-2-2.)*
+*(References printed in the grammar section of this page, in order (as read in the numeral review): 8-1-24, 8-4-66, 1-2-39, 4-3-2-1, 5-3-39, 3-1-3, 6-1-158, 7-4-42, 2-2-18, 6-1-114, 6-1-223, 6-2-2.)*
 
 ### Page 620
 
@@ -13918,7 +13918,7 @@ Though "ṛtvij" is used generally for anyone engaged in reciting mantras and si
 
 **On "yajñasya":** derived from the root "**yaj**," meaning "devapūjā" (worship of the deities) — through the standard krit-affix process yielding the noun "yajña" ("sacrifice, act of worship"), here declined in the genitive "yajñasya" ("of the sacrifice").
 
-**The passage also revisits "hotāram" and "ratna-dhātamam" from a grammatical standpoint**, confirming: "hotāram" as derived from the root "hu" (to invoke/offer) with the agentive "tṛc" affix, appropriately accented; and "ratna-dhātamam" as "ratna" (from a root connected with "delighting") compounded with "dhātamam," itself "dhā" (to bestow) plus the superlative affix "tamap" — consistent with the meaning already established in the Pratipadartha above.
+**The passage also revisits "hotāram" and "ratna-dhātamam" from a grammatical standpoint**, confirming: "hotāram" as derived from the root "hu" (to invoke/offer) with the agentive "tṛn" affix, appropriately accented; and "ratna-dhātamam" as "ratna" (from a root connected with "delighting") compounded with "dhātamam," itself "dhā" (to bestow) plus the superlative affix "tamap" — consistent with the meaning already established in the Pratipadartha above.
 
 **On "devam":** the derivation opens from the root "**div**," "to shine/sport," with the appropriate primary (kṛt) affix yielding "deva" — "the shining one" — the grammatical derivation matching the sense already given in Sayana's own bhashya-prose earlier.
 
@@ -13986,7 +13986,7 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 **॥ Viśeṣārthaḥ ॥**
 
-**This Rik's meaning is straightforward** — it contains nothing difficult or ambiguous. Since it is said that Agni exists both on earth and in heaven, the principal rishi here prays that Agni bring the deities dwelling in heaven down to the sacrificial altar.
+**This Rik's meaning is straightforward** — it contains nothing difficult or ambiguous. Since it is said that Agni exists both on earth and in heaven, the rishi Madhuchandas here prays that Agni bring the deities dwelling in heaven down to the sacrificial altar.
 
 *(References printed in the grammar section of this page, in order (as read in the numeral review): 8-3-17, 8-3-19, 8-2-1, 5-3-11, 3-1-34, 3-4-94, 2-1.)*
 
@@ -14002,7 +14002,7 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 **In the lineage of the rishi Aṅgiras** — Vasiṣṭha, Atri, and others, as well as those of the present rishi's own family: Kuśika, Gādhin, Viśvāmitra, and others.
 
-**Since the names of these rishis appear within the Veda itself, all of them are established as having directly perceived (draṣṭṛ) their respective mantras in praising Agni.** Among such rishis, there may well have been many others whose very names are unknown even to me [the commentator, Venkatarao himself is speaking here]; the suktas they composed are no longer available to us today. They may have composed many suktas not now found within the Rigveda at all — but since these fell out of use, they remain inaccessible to us. Since only the suktas actually preserved within the Rigveda have come down to us, it is only the matters contained in these that we are able to examine.
+**Since the names of these rishis appear within the Veda itself, all of them are established as having directly perceived (draṣṭṛ) their respective mantras in praising Agni.** Among such rishis, there may well have been many others whose very names are unknown even to us; the suktas they composed are no longer available to us today. They may have composed many suktas not now found within the Rigveda at all — but since these fell out of use, they remain inaccessible to us. Since only the suktas actually preserved within the Rigveda have come down to us, it is only the matters contained in these that we are able to examine.
 
 ---
 
@@ -14176,7 +14176,7 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**In the yajna called Abhiṣṭava, during the recitation of the Ukthya-mantras within the evening ceremony (Tṛtīya-savana, the third pressing), three Riks beginning "agne yaṃ yajñam" are used.** Ashvalayana, in the seventh adhyaya of his own Shrauta-sutra, in the section beginning "Vishesha," states this through his sutra:
+**In the yajna called Abhiplava-ṣaḍaha, during the recitation of the Ukthya-mantras within the evening ceremony (Tṛtīya-savana, the third pressing), three Riks beginning "agne yaṃ yajñam" are used.** Ashvalayana, in the seventh adhyaya of his own Shrauta-sutra, in the section beginning "Vishesha," states this through his sutra:
 
 > अग्ने यं यज्ञमध्वरम् ।
 > *agne yaṃ yajñam adhvaram |* (Ashvalayana Shrauta Sutra 7.?)
@@ -14207,7 +14207,7 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 **This sukta's word "Vibhu" is explained by the commentator Bhaṭṭa-Bhāskara as meaning "one who exists in various forms."** The Taittiriya passage above states precisely which tasks Agni fulfills through each of these forms:
 
-**"Vibhūr asi pravāhaṇaḥ"** — "O Agni, you exist in many forms; therefore you [prakarṣeṇa vāhana-śīlaḥ = pravāhaṇaḥ] convey the oblation to the deities." **"Vahniḥ asi"** [havya-vāhakaḥ] — "O Agni, you bear the etymologically fitting name 'Vahni' [the bearer], because in the yajna you carry the offerings the sacrificer makes to the deities" — and so on, through a long series of names: **Śraḥ, Pracetā, Tamatha, Viśvanedāḥ, Uciḥ, Kaviḥ, Ambāriḥ, Bambāriḥ, Avasyaḥ, Duvasvān, Śundhyuḥ, Mārjālīyaḥ, Kṛśānuḥ, Pariṣaṇṇaḥ, Śavamānaḥ, Pratekṣāḥ, Nabhasvān, Asaṃvyaṣṭyaḥ, Padyasūṇaḥ, Ṛtadhāmā, Suvarjyotiḥ, Brahmajyotiḥ, Suvardhāmā, Ajaḥ, Ekapāt**, and **Ahirbudhniyaḥ** — through each of these, Agni fulfills a distinct task. The overall sense: "O Agni, by your fearsome brilliance, keep the rākṣasas at bay, and protect me so that no harm comes to this yajna." Through these many forms, Agni protects both the yajna and the sacrificer alike.
+**"Vibhūr asi pravāhaṇaḥ"** — "O Agni, you exist in many forms; therefore you [prakarṣeṇa vāhana-śīlaḥ = pravāhaṇaḥ] convey the oblation to the deities." **"Vahniḥ asi"** [havya-vāhakaḥ] — "O Agni, you bear the etymologically fitting name 'Vahni' [the bearer], because in the yajna you carry the offerings the sacrificer makes to the deities" — and so on, through a long series of names: **Śraḥ, Pracetā, Tamatha, Viśvanedāḥ, Uciḥ, Kaviḥ, Ambāriḥ, Bambāriḥ, Avasyaḥ, Duvasvān, Śundhyuḥ, Mārjālīyaḥ, Kṛśānuḥ, Pariṣaṇṇaḥ, Śavamānaḥ, Pratekṣāḥ, Nabhasvān, Asaṃvyaṣṭyaḥ, Padyasūṇaḥ, Ṛtadhāmā, Suvarjyotiḥ, Brahmajyotiḥ, Suvardhāmā, Ajaḥ, Ekapāt**, and **Ahirbudhniyaḥ** — through each of these, Agni fulfills a distinct task. The overall sense: "O Agni, by your fearsome army, keep the rākṣasas at bay, and protect me so that no harm comes to this yajna." Through these many forms, Agni protects both the yajna and the sacrificer alike.
 
 **Elsewhere in the Taittiriya Samhita:**
 
@@ -14356,7 +14356,7 @@ This Agni, whom we praise, alone is able to bring the other deities here, since 
 
 **॥ Bhāvārthaḥ ॥**
 
-O Agni, shining forth before me — for the sake of the sacrificer who offers into you — you shall bestow wealth, household, progeny of sons and the like, and cattle. Even the things thus given remain your own; that is, having received them by your grace, you present these very things to the sacrificer for his benefit. Whatever you give to the sacrificer shall keep increasing — this is the sense. This is certain truth; there is no room for doubt in this matter.
+O Agni, shining forth before me — for the sake of the sacrificer who offers into you — you shall bestow wealth, household, progeny of sons and the like, and cattle. Even the things thus given remain your own; that is, the sacrificer, having received these things by your grace, offers them back to you alone. Whatever you give to the sacrificer shall keep increasing — this is the sense. This is certain truth; there is no room for doubt in this matter.
 
 **॥ English Translation ॥**
 
@@ -14380,7 +14380,7 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 > *ye'ṅgyo athavā āsaṅgyo'ṅgiraso'bhavan |* (Aitareya Brahmana 3-34)
 > "Those who arose from the fire-embers (aṅgāra) came to be named Āṅgirasas."
 
-**The fuller story runs as follows:** Prajāpati (Brahmā) once contemplated his own daughter (Uṣas, or Prayochiṣā) with wicked, lustful intent. This became known to the deities, who resolved that such an act must be prevented — yet none of them individually possessed the power to punish and restrain Prajāpati. So all the deities together combined the most fearsome portion of their own respective essences, and from this combination produced the god **Rudra**, whom they charged with punishing Prajāpati. Learning of this, the terrified Prajāpati took the form of a deer and leapt into the sky — where he may still be seen today as the **Mṛgaśira** (Deer-head) constellation. Rudra, appearing as the **Ārdrā** constellation, then shot an arrow at him. Struck, Prajāpati's seed spilled forth and scattered in all directions, turning to ash. From that seed, first the sun (Āditya), and then **Bhṛgu-Vāruṇi**, were born. **From the remaining embers (aṅgāra), the Āṅgirasas themselves were born** — so the account concludes.
+**The fuller story runs as follows:** Prajāpati (Brahmā) once contemplated his own daughter (Uṣas, or in the form of Dyaus) with wicked, lustful intent. This became known to the deities, who resolved that such an act must be prevented — yet none of them individually possessed the power to punish and restrain Prajāpati. So all the deities together combined the most fearsome portion of their own respective essences, and from this combination produced the god **Rudra**, whom they charged with punishing Prajāpati. Learning of this, the terrified Prajāpati took the form of a deer and leapt into the sky — where he may still be seen today as the **Mṛgaśira** (Deer-head) constellation. Rudra, appearing as the **Ārdrā** constellation, then shot an arrow at him. Struck, Prajāpati's seed spilled forth and scattered in all directions, turning to ash. From that seed, first the sun (Āditya), and then **Bhṛgu-Vāruṇi**, were born. **From the remaining embers (aṅgāra), the Āṅgirasas themselves were born** — so the account concludes.
 
 **In the Purāṇas and similar texts, "Aṅgira" is said to be one of Brahmā's own mind-born sons.** In the Vedas, this same Aṅgiras is treated both as a single, highly important rishi in his own right, and as the progenitor of many other renowned rishis. **This matter is also discussed in the Mahābhārata's Vana-parva**, in the dialogue between Mārkaṇḍeya and Yudhiṣṭhira: for some other reason, Agni once abandoned his own duty and went off into the forest in disguise. At that time, the rishi named Aṅgiras took up Agni's own tasks in his place — carrying the deities' shares of the oblation in the yajna — and also entreated Agni to return and resume his proper duty. **Because this rishi Aṅgiras had thus performed Agni's own duties, he came to be called "Agni's son," and his descendants became famously known as the "Āṅgirasas."**
 
@@ -14415,9 +14415,9 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 **These Riks show that the rishi Aṅgiras is regarded as an ancestor by many other rishis** — Dadhyañc, Priyamedha, Kaṇva, Atri, and Manu among them, are said to have known his lineage.
 
-**Among the descendants of this rishi Aṅgiras, one named Atharvan was chief.** He had three sons — **Bṛhaspati, Gotama**, and **Vṛṣaṇa**. Vṛṣaṇa was born to this Atharvan by his wife Pathyā; his story is mentioned in several places in the Veda. Vṛṣaṇa's own son was **Sudhanvā Āṅgirasa**, who had three sons — **Ṛbhu, Vibhvān**, and **Vāja** — all three of whom are spoken of in the Veda as the "Ṛbhus," and are said to have been disciples of Kṛṣṇa Prajāpati.
+**Among the descendants of this rishi Aṅgiras, one named Atharvan was chief.** He had three sons — **Bṛhaspati, Gotama**, and **Vṛṣaṇa**. Vṛṣaṇa was born to this Atharvan by his wife Pathyā; his story is mentioned in several places in the Veda. Vṛṣaṇa's own son was **Sudhanvā Āṅgirasa**, who had three sons — **Ṛbhu, Vibhvān**, and **Vāja** — all three of whom are spoken of in the Veda as the "Ṛbhus," and are said to have been disciples of Tvaṣṭṛ Prajāpati.
 
-**Within this lineage of the rishi Aṅgiras, the first among those named Bṛhaspati** is recorded to have defeated, in battle, a Dasyu king named Paṇi who had seized cattle; and another Dasyu named Dāsa, who ruled a kingdom on the banks of the river Amśumatī, is likewise recorded to have been defeated by him together with his followers. **Another Bṛhaspati**, son of Bharadvāja, served as purohita to a king named Divodāsa, who fought against a magician (Dṛkkṛta?) named Śambara.
+**Within this lineage of the rishi Aṅgiras, the first among those named Bṛhaspati** is recorded to have defeated, in battle, a Dasyu king named Paṇi who had seized cattle; and another Dasyu named Dāsa, who ruled a kingdom on the banks of the river Amśumatī, is likewise recorded to have been defeated by him together with his ten thousand followers. Bharadvāja, son of another Bṛhaspati, served as purohita to a king named Divodāsa, who killed the demon (daitya) Śambara.
 
 **The lineage of the rishi Aṅgiras is thus a very large one, and many renowned rishis belonged to it.** In many places in the Rigveda — specifically, wherever the word "Agni" itself might otherwise be expected — the word "Aṅgira" is used extensively instead.
 
@@ -14469,7 +14469,7 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 **॥ Prati-padārthaḥ ॥**
 
-**(हे) अग्ने ((he) agne)** — O Agni! | **वयम् (vayam)** — we who perform this yajna | **दिनेदिने (dine-dine)** — every single day | **दोषावस्तः (doṣāvastaḥ)** — at night and at dawn | **धिया (dhiyā)** — with reflective thought, that is, wholeheartedly | **नमो भरन्ते (namo bharante)** — offering you homage | **उप त्वा इमसि (upa tvā imasi)** — we approach your presence.
+**(हे) अग्ने ((he) agne)** — O Agni! | **वयम् (vayam)** — we who perform this yajna | **दिनेदिने (dine-dine)** — every single day | **दोषावस्तः (doṣāvastaḥ)** — night and day | **धिया (dhiyā)** — with reflective thought, that is, wholeheartedly | **नमो भरन्ते (namo bharante)** — offering you homage | **उप त्वा इमसि (upa tvā imasi)** — we approach your presence.
 
 **॥ Bhāvārthaḥ ॥**
 
@@ -14569,7 +14569,7 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 
 ### Page 647
 
-**...combined "dīdivim" with the word "gopām" [separately from "adhvarāṇām"] to construct his meaning.** If this construal is mistaken, one can readily argue that this was not the intent of Madhuchandas, the rishi who "saw" this sukta — because, in comparable contexts, other rishis use "rājantam" together with "adhvarāṇām" to mean "the chief illuminator of yajnas," that is, "one who lends the yajna its own vigor and splendor." This view is supported by:
+**...combined "dīdivim" with the word "ṛtasya" to construct his meaning.** Though this construal is not a mistake, one can readily say that this was not the intent of Madhuchandas, the rishi who "saw" this sukta — because, in comparable contexts, other rishis use "rājantam" together with "adhvarāṇām" to mean "the chief illuminator of yajnas," that is, "one who lends the yajna its own vigor and splendor." This view is supported by:
 
 > संराजन्तमध्वराणाम् । राजन्तमध्वराणामग्निं कुत्सेन कोशिषा । राजन्तावध्वराणामस्मिना यामधूतिषा ।
 > *saṃrājantam adhvarāṇām | rājantam adhvarāṇām agniṃ kutsena kośiṣā | rājantāv adhvarāṇām asminā yāmadhūtiṣā |* (Rigveda Samhita 1-27-1; 1-45-4; 8-8-18)
@@ -14581,7 +14581,7 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 
 — and so on. **These examples show that the Bhashyakara's given construal cannot be called entirely fitting.**
 
-**To take "ṛta" as simply meaning "yajna" misses the mark considerably** — the word's primary sense is "satya, dharma" (Universal Law or Cosmic Order). The Veda uses this very word "ṛta" to denote the order upon which the world's functioning and the laws of nature themselves rest. Examining the following Riks confirms and strengthens this understanding:
+**The word "ṛta" may be taken to mean "yajna"** — but its primary sense is "satya, dharma" (Universal Law or Cosmic Order). The Veda uses this very word "ṛta" to denote the order upon which the world's functioning and the laws of nature themselves rest. Examining the following Riks confirms and strengthens this understanding:
 
 > ऋतेनादित्या महि वो महित्वम् ।
 > *ṛtenādityā mahi vo mahitvam |* (Rigveda Samhita 2-27-8)
@@ -14659,7 +14659,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**Only three riks employing the term "upastut" appear in connection with the Agnisoma-praṇayana rite; these are the earliest such riks used [in this application].** For the application of these riks, the Brahmana states—
+**Three riks, beginning with the seventh Rik of this Sūkta, are used in the rite called Agnīṣoma-praṇayana.** For the application of these riks, the Brahmana states—
 
 > उपस्त्वाग्ने दिने दिन उप त्वा प्रियं पणिष्ठं त्रेष्ठ्यकं जानाति ।
 > *upas tvāgne dine dina upa tvā priyaṃ paṇiṣṭhaṃ treṣṭhyakaṃ jānāti |* (Aitareya Brahmana 1-20)
@@ -14672,7 +14672,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **This Rik contains no difficult words.** "**Piteva sūnave**" — "just as a father would be, regarding his own son." Here, the rishi, addressing Agni as a father, regards us — who offer him praise — as his own children, and prays in this very spirit. Many such beautiful and easily-grasped similes occur here and there throughout the Rigveda.
 
-**The Rigveda contains ten Mandalas in total. The first Mandala contains ninety-seven suktas in total.** Among these, this very first sukta — "**Agnimīḷe**," comprising nine Riks — concludes here. **The second Varga likewise concludes here.**
+**The Rigveda contains ten Mandalas in total. The first Mandala contains 191 suktas in total.** Among these, this very first sukta — "**Agnimīḷe**," comprising nine Riks — concludes here. **The second Varga likewise concludes here.**
 
 ---
 
@@ -14704,7 +14704,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Genuine highlights across this sūkta:** the full traditional commentary apparatus established and now battle-tested (Samhita-patha/Pada-patha/Sayana-bhashya/grammar/Pratipadartha/Bhavartha/English translation/Vishesha-vishayas per verse); Yaska's own Nirukta hierarchy of etymological explanation-strength (2-1), worked through concretely on "Agni" itself; the layered, unreconciled dual mythology of "Aṅgiras" (Aitareya Brahmana's Prajapati/Rudra story vs. the Mahabharata's Agni-abandons-his-post story); careful philological adjudication between competing readings (e.g. "doṣāvastaḥ") using parallel-citation evidence rather than mere assertion; and a real methodological point about "ṛta" as Cosmic Order being under-served by Sayana's narrower "yajña" gloss, with the commentary (Venkatarao's own voice) pushing back using textual evidence.
 
-**Structural note:** at 97 suktas in Mandala 1 alone, and 10 Mandalas total, this first sukta represents a very small fraction of the work ahead — but it has now established and validated the complete methodology (including the "slow and careful, confirm-what's-clear/hedge-the-rest" approach for dense grammar sections) that the remaining suktas will follow.
+**Structural note:** at 191 suktas in Mandala 1 alone, and 10 Mandalas total, this first sukta represents a very small fraction of the work ahead — but it has now established and validated the complete methodology (including the "slow and careful, confirm-what's-clear/hedge-the-rest" approach for dense grammar sections) that the remaining suktas will follow.
 
 **Target for next session:** begin Sūkta 2 (Rigveda 1-2) at PDF page 679 / printed page 651.
 
@@ -14720,14 +14720,14 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 > अग्निमीळ इत्यादिसूक्तमग्निष्टोमस्य प्रातरनुवाके यथा विनियुक्तं तथा वायवा याहीत्यादयस्तृचाः प्रउगशस्त्रे विनियुक्ताः । तत्रेदं चिन्त्यते । शस्त्रं किं देवतास्मरणरूपसंस्कारकर्म किंवादृष्टफलं प्रधानकर्मेति । तत्र पूर्वपक्षं जैमिनिः सूत्रयामास । जै. सू. २-१-१३ — २९ ।
 > *agnimīḷa ityādisūktamagniṣṭomasya prātaranuvāke yathā viniyuktaṃ tathā vāyavā yāhītyādayastṛcāḥ praugaśastre viniyuktāḥ | tatredaṃ cintyate | śastraṃ kiṃ devatāsmaraṇarūpasaṃskārakarma kiṃvādṛṣṭaphalaṃ pradhānakarmeti | tatra pūrvapakṣaṃ jaiminiḥ sūtrayāmāsa | jai. sū. 2-1-13 — 29 |* (re-read from the better scan in the [?] pass)
 
-**Just as the "agnimīḷe" sukta is applied in the Pratar-anuvāka of the Agnishtoma-yaga, similarly the three Riks beginning "vāyav ā yāhi" are applied in the Pralugapa-shastra.** Here it becomes necessary to consider: what is a "Shastra"? Is it merely a preparatory rite consisting of recalling the deity, or is it itself a primary rite bearing an unseen [spiritual] fruit? On this question, the sage Jaimini states the prima facie position (pūrva-pakṣa) through the following sutras (Jaimini Sūtra 2-1-13 to 29; see also p. 417):
+**Just as the "agnimīḷe" sukta is applied in the Pratar-anuvāka of the Agnishtoma-yaga, similarly the three Riks beginning "vāyav ā yāhi" are applied in the Praüga-śastra.** Here it becomes necessary to consider: what is a "Shastra"? Is it merely a preparatory rite consisting of recalling the deity, or is it itself a primary rite bearing an unseen [spiritual] fruit? On this question, the sage Jaimini states the prima facie position (pūrva-pakṣa) through the following sutras (Jaimini Sūtra 2-1-13 to 29; see also p. 417):
 
 > स्तुतशस्त्रयोस्तु संस्कारो याज्यावद्देवताभिधानत्वादिति ॥ १ ॥ आज्यैः स्तुवते पृष्ठैः स्तुवते प्रउगं शंसति निष्केवल्यं शंसतीति श्रूयते । तत्र स्तुतिः शंसनं च गुणिनिष्ठगुणाभिधानम् । इन्द्रस्य नु वीर्याणि प्रवोचम् (ऋ. सं. १-३२-१) इत्यत्र दृष्टत्वात् । एवं सति याज्यान्यायेन गुणिन्या देवताया अभिधायकत्वेन स्तुतशस्त्रयोः संस्काररूपत्वमभ्युपेयम् । याज्यायास्तद्रूपत्वं दशमाध्यायस्य चतुर्थपादे दृष्टार्थलाभेन निर्णीतम् । जै. सू. १०-४-३९ — ४१ । तद्वदत्रापि तुशब्दः प्रधानकर्मत्वं व्यावर्तयति । सिद्धान्ती तं पक्षं दूषयति ॥
 > *stutaśastrayostu saṃskāro yājyāvaddevatābhidhānatvāditi ‖ 1 ‖ ājyaiḥ stuvate pṛṣṭhaiḥ stuvate praugaṃ śaṃsati niṣkevalyaṃ śaṃsatīti śrūyate | tatra stutiḥ śaṃsanaṃ ca guṇiniṣṭhaguṇābhidhānam | indrasya nu vīryāṇi pravocam (ṛ. saṃ. 1-32-1) ityatra dṛṣṭatvāt | evaṃ sati yājyānyāyena guṇinyā devatāyā abhidhāyakatvena stutaśastrayoḥ saṃskārarūpatvamabhyupeyam | yājyāyāstadrūpatvaṃ daśamādhyāyasya caturthapāde dṛṣṭārthalābhena nirṇītam | jai. sū. 10-4-39 — 41 | tadvadatrāpi tuśabdaḥ pradhānakarmatvaṃ vyāvartayati | siddhāntī taṃ pakṣaṃ dūṣayati ‖* (sūtra and bhāṣya re-read from the better scan in the [?] pass)
 
 **Meaning of this sutra:** the "processing" (saṃskāra) of both the Stotra and the Shastra consists in stating the deities, or their qualities, in the manner the "Yajya" mantra does.
 
-**Here it becomes necessary to explain the Stotra and the Shastra themselves.** "Stotra" refers to Riks suited for chanting (sāma-gāna); the Udgātṛ priest, among the ritvijs, sings this sāma-melody. As soon as he finishes chanting one Stotra, the Hotṛ, in response, recites the corresponding Shastra-mantra. "Shastra," unlike Stotra, is recited melodiously but without being sung...
+**Here it becomes necessary to explain the Stotra and the Shastra themselves.** "Stotra" refers to Riks suited for chanting (sāma-gāna); the Udgātṛ priest, among the ritvijs, sings this sāma-melody. As soon as he finishes chanting one Stotra, the Hotṛ, in response, recites the corresponding Shastra-mantra. "Shastra," unlike Stotra, is recited plainly, without being sung...
 
 ### Page 652
 
@@ -14743,7 +14743,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 | 3. " | 3. Ājya-śastragaḷu |
 | 4. " | 4. " |
 | 5. " | 5. " |
-| *(these five Stotras sung by the Udgātṛ)* | *(these three Shastras recited by the Hotṛ's assistants — Maitrāvaruṇa, Brāhmaṇācchaṃsī and Acchāvāka)* |
+| *(these two Stotras sung by the Udgātṛ)* | *(these three Shastras recited by the Hotṛ's assistants — Maitrāvaruṇa, Brāhmaṇācchaṃsī and Acchāvāka)* |
 | Stotra-mantras | Shastra-mantras |
 |---|---|
 | 6. Mādhyandina-pavamāna-stotra | 6. Marutvatīya-śastra |
@@ -14752,7 +14752,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 | 8. " | 8. Niṣkevalya-śastra |
 | 9. " | 9. " |
 | 10. " | 10. " |
-| *(these five sung by the Udgātṛ)* | *(these three recited by the Hotṛ's assistants, Maitrāvaruṇa and others)* |
+| *(these two sung by the Udgātṛ)* | *(these three recited by the Hotṛ's assistants, Maitrāvaruṇa and others)* |
 | Stotra-mantras | Shastra-mantras |
 |---|---|
 | 11. Ārbhava or Tṛtīya-savana-pavamāna | 11. Vaiśvadeva-śastra |
@@ -14765,7 +14765,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 653
 
-**...(in the Midday Pressing); "pṛhugaḥ śaṃsati"** — the Hotṛ recites the Pṛhuga-shastra mantras (in the Prataḥ-savana); **"niṣkevalyaṃ śaṃsati"** — the Hotṛ recites the Niṣkevalya-shastra mantras (in the Madhyandina-savana). That is: as soon as the Udgātṛ finishes chanting the Ājya-stotras in the morning pressing, the Hotṛ, in response, recites the Pṛhuga-shastra mantras; similarly for the Pṛṣṭha-stotra and Niṣkevalya-shastra in the midday pressing, and so on.
+**...(in the Midday Pressing); "pṛhugaḥ śaṃsati"** — the Hotṛ recites the Praüga-śastra mantras (in the Prataḥ-savana); **"niṣkevalyaṃ śaṃsati"** — the Hotṛ recites the Niṣkevalya-shastra mantras (in the Madhyandina-savana). That is: as soon as the Udgātṛ finishes chanting the Ājya-stotras in the morning pressing, the Hotṛ, in response, recites the Praüga-śastra mantras; similarly for the Pṛṣṭha-stotra and Niṣkevalya-shastra in the midday pressing, and so on.
 
 **Here it must be shown that "Stotra" and "recitation" (śaṃsana) describe the deities' own qualities.** For example, in the mantra:
 
@@ -14782,7 +14782,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 654
 
-**Sutra's meaning:** since the mantra states the deities' names in the relevant context, the mantra thereby describes the deities' qualities — that is, it becomes a subordinate part of the deity-invoking act. Therefore, mantras should be used, according to their sense, only in the specific contexts matching their known [deity-]position.
+**Sutra's meaning:** since the mantra states the deities' names in the relevant context, the mantra thereby describes the deities' qualities — that is, it becomes a subordinate part of the deity-invoking act. Therefore, according to the sense of the mantras, they would have to be taken from their place and used in another context.
 
 **The Siddhāntins [proponents of the established view] do not accept the pūrva-pakṣa stated in the preceding sutra**, because the word "tu" actually negates the notion that Stotra and Shastra are merely preparatory (saṃskāra). If one insisted they were preparatory, it would follow that a mantra must always be matched strictly to its literal deity-reference — meaning mantras naming a specific deity like Indra could only be used in rites addressed to that exact deity, disrupting the established, ordered sequence of mantras actually used in yajna practice. **For example:** in the Mahendra-graha rite, the mantra:
 
@@ -14856,7 +14856,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Sutra's meaning:** just as with the Yajyā and Puronuvākyā mantras [already discussed]. We have already explained these two mantra-types earlier: **Puronuvākyā** invokes the primary deity first, at the time of offering the oblation; **Yajyā** is the mantra used to actually make the offering into the fire, addressing the deity already invoked. Both kinds are required to complete an offering dedicated to a given deity, and both — directly or indirectly — express precisely the intended deity. **In the present case, the Yajyā-Puronuvākyā mantras connected with Indra differ entirely from those connected with Mahendra** — that is, Indra has his own set of mantras, and Mahendra has his own, distinct set. For example: "endra sānasiṃ" belongs to Indra; "mahāṃ indro ya ojasā" belongs to Mahendra. **Therefore, Indra and Mahendra are established as genuinely distinct deities.**
 
-**Regarding the word "purorucaḥ" used in this sutra, some examination is warranted.** Ashvalayana, in his own Shrauta-sutra, names seven Riks called "Purorucaḥ" — these are not found within the Rigveda Samhita itself, but are given in a supplementary chapter called "Vividhyantāpa," and have no direct connection to the Yajyā-mantras at all. Yet the sutra here uses "purorucaḥ" in place of "puronuvākyā." **Either this word was used here by mistake, or this variation arose through the sutra's own transmission across different lineages** — [an honest acknowledgment of a genuine textual puzzle rather than a forced resolution].
+**Regarding the word "purorucaḥ" used in this sutra, some examination is warranted.** Ashvalayana, in his own Shrauta-sutra, names seven Riks called "Purorucaḥ" — these are not found within the Rigveda Samhita itself, but are given in a supplementary chapter called "Nivid-kuntāpa," and have no direct connection to the Yajyā-mantras at all. Yet the sutra here uses "purorucaḥ" in place of "puronuvākyā." **Either this word was used here by mistake, or this variation arose through the sutra's own transmission across different lineages** — [an honest acknowledgment of a genuine textual puzzle rather than a forced resolution].
 
 **The Pūrva-pakṣin now raises a further objection, regarding the earlier "vaśā" (barren goat) example:**
 
@@ -14865,7 +14865,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 >
 > "The 'vaśā' heard in the injunction-passage — regarding that very passage's own usage, through the generic term (bhāga-śabda), in the offering-context..."
 
-*(The Kannada on this page also prints the references 1-5, 10 and 5 (as read in the numeral review).)*
+*(The Kannada on this page also prints the references 1-5, 10, 5 and 4 (as read in the numeral review).)*
 
 ### Page 658
 
@@ -14899,9 +14899,9 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 **Meaning:** if the visible [worldly] purpose of deity-recollection alone cannot be established, then let there be an unseen purpose instead. [The Siddhāntin] now states a further reason for Stotra-Shastra's status as a primary rite.
 
-**Sutra's meaning:** the words "stauti" and "śaṃsati," being stated directly within the Vedas themselves, are used as primary [acts] in the relevant ritual context, and thereby produce an "apūrva" (unseen fruit) for the rite. **The words "asti vā" indicate that Stotra and Shastra are not merely preparatory** — that is, they are not subordinate parts of some other primary rite. Since these terms are used directly within the Vedas, their stated meaning is itself Veda-related — they are themselves a portion of the Vedic mantras, and thus connected directly to the primary rite. **That is: reciting the Stotra-Shastra is not a subordinate part of some other rite — it is itself the primary rite.** This is now established as the Siddhānta.
+**Sutra's meaning:** the words "stauti" and "śaṃsati," being stated directly within the Vedas themselves, are used as primary [acts] in the relevant ritual context, and thereby produce an "apūrva" (unseen fruit) for the rite. **The words "api vā" indicate that Stotra and Shastra are not merely preparatory** — that is, they are not subordinate parts of some other primary rite. Since these terms are used directly within the Vedas, their stated meaning is itself Veda-related — they are themselves a portion of the Vedic mantras, and thus connected directly to the primary rite. **That is: reciting the Stotra-Shastra is not a subordinate part of some other rite — it is itself the primary rite.** This is now established as the Siddhānta.
 
-**A further point now follows: what actually constitutes genuine "praise" (stuti)?** Setting aside the possessor of qualities (a deity or person) and simply stating the qualities as the principal, identifying matter — that constitutes genuine praise. For example: "**yo devaśabdī sa caturvedābhidhyaja**" — "one skilled in the four Vedas, among the deva-party" — here, since the statement's qualities actually identify a specific person, people come to know who is meant. But if a quality is stated without thereby identifying anyone specific, that does not constitute genuine praise. For example: "**yaś ca turvedābhijña stvākāraya**" — "call forth whoever here knows the four Vedas" — since "knowing the four Vedas" here doesn't pick out any one specific person, no one's quality has actually been praised; the sentence's true intent is simply "call such a person," not a description of anyone's qualities.
+**A further point now follows: what actually constitutes genuine "praise" (stuti)?** Setting aside the possessor of qualities (a deity or person) and simply stating the qualities as the principal, identifying matter — that constitutes genuine praise. For example: "**yo devaśabdī sa caturvedābhidhyaja**" — "Devadatta is learned in all four Vedas" — here, since the qualities of Devadatta are described, people take it as praise. But if a quality is stated without thereby identifying anyone specific, that does not constitute genuine praise. For example: "**yaś ca turvedābhijña stvākāraya**" — "call forth whoever here knows the four Vedas" — since "knowing the four Vedas" here doesn't pick out any one specific person, no one's quality has actually been praised; the sentence's true intent is simply "call such a person," not a description of anyone's qualities.
 
 **In the same way, in mantras: where a mantra states that whichever deity possesses certain qualities is meant by it — giving the quality genuine identifying primacy — then the root "stu" functions in this quality-denoting sense, and the mantra properly counts as a Stotra.**
 
@@ -14958,7 +14958,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 
 ### Page 663
 
-**...it is said.** "Connection" here means holding between *two* distinct things, not existing for one thing alone — and to speak of genuine connection, the two objects must be distinct while sharing some point of commonality. **This shows that the words describing Stotra and Shastra as "preparatory" must carry genuinely different meanings for each** — a single "preparatory" description could not otherwise sustain any real distinction. Because if both merely supported one single deity-illuminating rite, they would in effect be the same rite, with no mutual difference possible. **But when Stotra and Shastra are understood as primary rites, their meanings genuinely diverge.** Though the underlying roots share a common basic sense, "**Stotra**" refers specifically to a mantra capable of being sung/chanted, while "**Shastra**" refers to a mantra recited melodiously but *without* singing. **This is itself stated directly in the Veda, requiring no further proof. A further reason follows:**
+**...it is said.** "Connection" here means holding between *two* distinct things, not existing for one thing alone — and to speak of genuine connection, the two objects must be distinct while sharing some point of commonality. **This shows that the words describing Stotra and Shastra as "preparatory" must carry genuinely different meanings for each** — a single "preparatory" description could not otherwise sustain any real distinction. Because if both merely supported one single deity-illuminating rite, they would in effect be the same rite, with no mutual difference possible. **But when Stotra and Shastra are understood as primary rites, their meanings genuinely diverge.** Though the underlying roots share a common basic sense, "**Stotra**" refers specifically to a mantra capable of being sung/chanted, while "**Shastra**" refers to a mantra recited plainly, *without* singing. **This is itself stated directly in the Veda, requiring no further proof. A further reason follows:**
 
 > अभिधानं च कर्मण इति ॥१३॥ (जै. सू. २-१-२६)
 > *abhidhānaṃ ca karmaṇa iti ||13||* (Jaimini Sutra 2-1-28)

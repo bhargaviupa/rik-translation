@@ -3,10 +3,10 @@
 
 ## 1. State
 - **Stage:** S2 reading in page batches
-- **Pages read:** 609 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–609)
-- **Findings:** 1640 — applied 1396, questions 244; edits ok 1401, failed 0
-- **Reader tokens (batches so far):** 5996k; per page 9.8k
-- **Last commit:** e461bed
+- **Pages read:** 664 of 720 (360–369, 1–30, 31–60, 61–90, 91–120, 121–150, 151–180, 181–210, 211–240, 241–270, 271–300, 301–330, 331–359, 370–399, 400–429, 430–459, 460–489, 490–519, 520–549, 550–579, 580–609, 610–664)
+- **Findings:** 1695 — applied 1436, questions 259; edits ok 1441, failed 0
+- **Reader tokens (batches so far):** 5996k; per page 9.0k
+- **Last commit:** @C@
 
 ## 2. Batches
 | Batch | Pages | Findings | Applied | Edits ok / failed | Questions | Tokens | Commit | Note |
@@ -32,23 +32,24 @@
 | 19 | 520–549 | 32 | 25 | 25 / 0 | 7 | 253k | 65937c2 | 25 edits (21 S13/S14/S15/S16: a comparison reversed on p. 526, Mundaka→Chandogya on p. 545, a parā/aparā sentence rewritten on p. 547; 2 numbers the print lacks removed); no page shifts |
 | 20 | 550–579 | 94 | 86 | 86 / 0 | 8 | 297k | 6b48ee4 | 86 edits (about 60 S14 sense incl. accent/vowel descriptions on pp. 550–553, l/r reversed on p. 566, Vararuchi/Patañjali on p. 564; S15 attributions; about 12 additions removed; 4 numbers incl. p. 562 '10-20-2' and p. 569 'page 40' applied as printed, open.tsv); pp. 573–574: p. 573 sits inside the p. 572 block and matches English Page 573, p. 574 has no Kannada text (English kept); many pages are Sanskrit with embedded English only (554, 558–562, 576–577) |
 | 21 | 580–609 | 61 | 51 | 51 / 0 | 10 | 279k | e461bed | 51 edits (about 21 S16 invented paragraphs removed, five whole paragraphs on p. 585 and one on p. 590; about 20 S14 reversed senses incl. pp. 584, 592, 597, 601; 4 numbers incl. Riks 'two padas' on p. 598; S13, S17); pp. 594–595 have no Kannada text and no English section; pp. 606–609 Sanskrit blocks only (English prose summaries kept); p. 583 reference 1-321 applied as printed (open.tsv) |
+| 22 | 610–664 | 55 | 40 | 40 / 0 | 15 | TOK21 | @C@ | 40 edits (11 S14, 11 numbers, 9 S13, 3 S16, 2 S15): roles reversed on p. 639 (Bhāvārtha) and Bharadvāja/Bṛhaspati on p. 641; '97 sūktas' → 191 on p. 650 per the Kannada; Ṛk layout: Saṃhitā/Pada/bhāṣya blocks skipped, the English grammar notes are summaries of Sanskrit sūtra material (not edited); Kannada p. 651 absent: its text sits under the p. 650 mark and matches English Page 651; English p. 620 holds a derivation that the Kannada gives on p. 621 |
 
 ## 3. Findings by kind
 | Kind | Applied | Questions | Total |
 |---|---|---|---|
 | S7 | 359 | 22 | 381 |
-| S14 | 356 | 8 | 364 |
-| S13 | 236 | 34 | 270 |
-| S16 | 135 | 19 | 154 |
-| S1 | 142 | 1 | 143 |
+| S14 | 368 | 8 | 376 |
+| S13 | 249 | 41 | 290 |
+| S16 | 138 | 21 | 159 |
+| S1 | 149 | 1 | 150 |
 | H29 | 0 | 132 | 132 |
-| S17 | 34 | 28 | 62 |
-| S15 | 52 | 0 | 52 |
-| S3 | 44 | 0 | 44 |
+| S17 | 34 | 34 | 68 |
+| S15 | 54 | 0 | 54 |
+| S3 | 47 | 0 | 47 |
 | S2 | 37 | 0 | 37 |
 | R6 | 1 | 0 | 1 |
 
-By reader: R1 971, R3 373, R6 296
+By reader: R1 1013, R3 373, R6 309
 
 ## 4. Open items (not findings)
 - **other** (pages 13): Kannada p.13 prints the total of mantras as ೧೦೦೫೨ (10052) while p.12 and the table print 10552; applied as printed (English now 10,052)
@@ -119,11 +120,15 @@ By reader: R1 971, R3 373, R6 296
 - **other** (pages 583): Kannada p.583 prints the reference ತೈ. ಆ. ೧-೩೨೧ (1-321) for the vow text; applied as printed in the prose (English now Taittiriya Aranyaka 1-321); the English note on the Sanskrit line still says 1-32-1 (Sanskrit line not touched)
 - **other** (pages 594-595): Printed pp.594-595 are not in the supplied Kannada; the title page and opening prose that follow p.593 in the Kannada stand under ### Page 593 of the English; there is no ### Page 594 or 595
 - **other** (pages 606-609): Kannada pp.606-609 hold only the Samhita/Pada/Bhashya blocks (Sanskrit); the English adds word-meaning and grammar summaries under ### Pages 607-609 for which the Kannada has no prose on these pages (Kannada prose translation starts on p.610)
+- **other** (pages 610-664): Reference-number notes "(References printed ... as read in the numeral review)" of the grammar-section pages are not aligned with the Kannada pages (e.g. the note under English p.623 holds numbers of Kannada p.627; p.628 holds numbers from pp.632-633); they stand on notes, not prose, and were corrected only where the Kannada page shows the number plainly (p.610 note removed, p.619 8-1-24)
+- **other** (pages 650-651): Printed p.651 has no head in the supplied text: the Kannada block under the mark of p.650 also holds the Second Sukta opening (Sayana text, Jaimini sutra 1 and the beginning of the explanation); English ### Page 650 ends with the end of the First Sukta and ### Page 651 carries the Second Sukta opening, so English 651 corresponds to the second half of Kannada 650; Kannada p.652 starts mid-sentence at "mantra"
+- **other** (pages 652): Kannada p.652 says "these two Stotras" / "these two" sung by the Udgatr in the first and second tables where the table lists five Stotras each; applied as printed (English now two)
+- **other** (pages 611): Kannada p.611 cites Jaiminiya Brahmana 3-237-8; applied as printed (English had 3-23-7-8)
 
 ## 5. Questions for the editor
 **0 open questions** in `questions.tsv` (the editor decides only what the rules cannot: nothing else is asked).
 
-Settled by rule, no reading needed: 248 Kannada misprints where the English is kept (`kn_misprints.tsv`); 104 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
+Settled by rule, no reading needed: 255 Kannada misprints where the English is kept (`kn_misprints.tsv`); 119 places where the English is kept unchanged and listed for the scholar sample (`decided_by_default.tsv`). Impossible or odd printed numbers applied as printed are in part 4.
 
 ## 6. Files
 `vol1/review/second_pass/findings.tsv` · `questions.tsv` · `batches.tsv` · `open.tsv` · `edits/` (edit files and results) · `../repair_log.md` (every English repair, heading "second pass") · `../../data/source_fixes.tsv` (edits of the supplied Kannada)
