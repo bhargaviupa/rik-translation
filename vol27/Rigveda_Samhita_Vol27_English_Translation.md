@@ -21597,6 +21597,269 @@ I invoke the knowledge of the place, of their going of their coming, of their de
 > यः । उत्आनट् । विअयनं । यः । उत्आनट् । पराअयनं ।  
 > आवर्तनं । निवर्तनं । अपि । गोपाः । नि । वर्ततां ॥ ५ ॥
 
+### Printed p. 631
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो गोपा गोपालो व्ययनं नष्टानां गवामन्वेषणार्थं विविधं
+> गमनमुदानट् व्याप्योति अनुभवति । यः परायणं परागमनमुदानट्
+> व्याप्नोति । वनं प्रति गवां चरणाय गमनमित्यर्थः । यश्चावर्तनं वनचारिणीभिर्गोभिः सह प्रवर्तनमनुभवति । योऽपि गोपा निवर्तनं गोभिः सह वनादृहं
+> प्रति निर्गमनमनुभवति । सोऽपि गोपालो नि वर्ततां । गोभिः सह वनादृहं
+> प्रति क्षेमेणागच्छतु ॥
+
+##### Gist of the bhāṣya
+
+The keeper of cows (gopā) who goes about in many directions to search for the lost cows, the one who reaches them as they go away, the one who experiences going with the forest-grazing cows, and the one who returns with the cows from the forest to the house: may that herdsman also return. That is, may he come back safely with the cows from the forest to the house.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (गोपाः) (*yaḥ (gopāḥ)*)—the herdsman who
+- व्ययनं (*vyayanaṃ*)—searching for those lost cows
+- उदानट् (*udānaṭ*)—comes near them
+- यः (*yaḥ*)—whoever
+- परायणं (*parāyaṇaṃ*)—their roaming at will
+- उदानट् (*udānaṭ*)—finds out and approaches
+- आवर्तनं (*āvartanaṃ*)—goes about together with them
+- निवर्तनं (*nivartanaṃ*)—stays with them when they return
+- अपि गोपाः (*api gopāḥ*)—that herdsman also
+- नि वर्ततां (*ni vartatāṃ*)—let him return along with them
+
+##### भावार्थ (Bhāvārtha)
+
+The cowherd who, searching for those lost cows, comes near them; who finds out their roaming at will, approaches them and goes about with them; who stays with them when they return home: may that herdsman also return with them.
+
+##### English translation
+May the keeper return (with them); he who reaches them when lost ; who reaches them when straying ; who reaches them when wandering, and returning.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नि॑वर्त॒ नि व॑र्तय॒ पुन॑र्न इंद्र॒ गा दे॑हि ।  
+> जी॒वाभि॑र्भुनजामहै ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अ । निवर्त । नि । वर्तय । पुनः । नः । इंद्र । गाः । देहि ।  
+> जीवाभिः । भुनजामहै ॥ ६ ॥
+
+### Printed p. 632
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वमा निवर्त । आनिवर्तस्व । अस्मदभिमुखो भव । ततोऽन्यतो
+> गच्छंतीर्गा नि वर्तय । अस्मदभिमुखीः कुरु । एवं कृत्वा च हे इंद्र त्वं पुनः
+> पश्चान्नोऽस्मभ्यं गा देहि । प्रयच्छ । त्वया दत्ताभिर्जिवाभिश्चिरं जीवंतीभिः
+> सर्वस्य जीवयित्रिभिर्वा गोभिर्भुनजामहै । वयं भुंजीमहि । यद्वा ।
+> भुजिरत्रांतर्भावितण्यर्थः । देवपित्थन्संभोजयेमहि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, turn back, turn towards us; the cows that are going elsewhere, make them turn to face us. Having done so, O Indra, give us the cows again. With the cows given by you, which are long-living (jīvābhiḥ) or give life to all, may we enjoy (bhunajāmahai)." Alternatively, the root bhuj here has the causative sense included in it: "may we cause the gods and the fathers to be fed."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आ निवर्त (*ā nivarta*)—turn back towards us
+- नि वर्तय (*ni vartaya*)—make the cows
+- (continued) turn towards us
+- पुनः (*punaḥ*)—again
+- नः (*naḥ*)—to us
+- गाः (*gāḥ*)—the cows
+- देहि (*dehi*)—give
+- जीवाभिः (*jīvābhiḥ*)—together with all the living cows
+- भुनजामहै (*bhunajāmahai*)—may we enjoy happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, turn back towards us. Make the cows turn towards us. Give us the cows again. May we enjoy happiness together with all the living cows.
+
+##### English translation
+Indra, come back and bring back (the cattle); give us our cows again, may we rejoice in our cows being alive.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ वो वि॒श्वतो॑ दध ऊ॒र्जा घृ॒तेन॒ पय॑सा ।  
+> ये दे॒वाः के च॑ य॒ज्ञिया॒स्ते र॒य्या सं सृ॑जंतु नः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । वः । विश्वतः । दधे । ऊर्जा । धृतेन । पयसा ।  
+> ये । देवाः । के । च । यज्ञियाः । ते । रय्या । सं । सृजंतु । नः ॥ ७ ॥
+
+### Printed p. 633
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः विश्वतः सर्वतः स्थितान्वो युष्मानूर्जा गोसंबंधिना दधिलक्षणेनान्नेन धृतेनाज्येन पयसा क्षीरेण च परि दधे । संधारयामि । युष्मभ्यं
+> हविर्द्वारेण प्रयच्छामि । न केवलमात्मानं पुष्णामीत्यर्थः । एतज्ञात्वा ये
+> के च देवा यज्ञिया यज्ञार्हाः संति ते देवा नोऽस्मान्रय्या गोलक्षणेन
+> धनेन सं सृजंतु । सं योजयॆंतु ॥
+
+##### Gist of the bhāṣya
+
+"O gods, I sustain you, who are stationed everywhere, with ūrj, the food of curds connected with cows, with ghee (ghṛta, ājya) and with milk (payas); I offer them to you through the oblation. I do not nourish only myself." Knowing this, whatever gods are worthy of sacrifice (yajñiya), may those gods unite us with wealth (rayi) in the form of cows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) विश्वतः (*viśvataḥ*)—being everywhere
+- वः (*vaḥ*)—you
+- ऊर्जा (*ūrjā*)—with curds
+- घृतेन (*ghṛtena*)—with ghee
+- पयसा (*payasā*)—with milk
+- परि दधे (*pari dadhe*)—I fill you and make you well nourished
+- ये के च देवाः (*ye ke ca devāḥ*)—whichever gods
+- यज्ञियाः (*yajñiyāḥ*)—are worthy of sacrifice
+- ते (*te*)—all of them
+- नः (*naḥ*)—us
+- रय्या (*rayyā*)—with wealth
+- सं सृजंतु (*saṃ sṛjaṃtu*)—let them unite
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, I fill you, who are present everywhere, with curds, ghee and milk and make you well nourished. Whatever gods are worthy of sacrifice, may all of them unite us with wealth.
+
+##### English translation
+I nourish you gods, who are everywhere present, with curds, with butter, with milk ; may all those deities who are entitled to worship reward us with riches.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नि॑वर्तन वर्तय॒ नि नि॑वर्तन वर्तय ।  
+> भूम्या॒श्चत॑स्रः प्र॒दिश॒स्ताभ्य॑ एना॒ नि व॑र्तय ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । निवर्तन । वर्तय । नि । निवर्तन । वर्तय ।  
+> भूम्याः । चतस्रः । प्रदितः । ताभ्यः । नि । वर्तय ॥ ८ ॥
+
+### Printed p. 634
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मंत्रद्रष्टर्षिः स्वात्वानं गाश्च संबोध्याह । हे मदीयात्मन् त्वं गा आ
+> वर्तय । आकारोऽप्यनेनापि संबध्यते । मदभिमुखीः कुरु । स्तुत्या यागेन च
+> ताः प्रसाद्योपनमयतेत्यर्थः । हे गावः यूयमपि प्रसाद्यमाना आ निवर्तन ।
+> आनिवर्तध्वं । अभिमुख्यॆनागच्छत । पुनरप्याह । हे मदीयात्मन् त्वं नि वर्तय ।
+> गोसंचरणस्थानादपगच्छंतीर्गा इतोऽभिगंत्रिः कुरु । यूयमपि हे गावः
+> निवर्तमानाः सत्यो निवर्तन । निवर्तध्वं । इदानीं स्वात्मा गावश्चर्षि० प्रति ब्रुवते।
+> हे ऋषे अहं कुतो गा निवर्तयामिति कुतो वयं निवर्तयामह इत्यात्मना
+> गोभिश्च पृष्टः सन्नाह । भूम्याः पृथिव्याश्चतस्रः प्रदिशश्च तुःसंख्यायुक्ताः प्रकृष्टा
+> या दिशः संति ताभ्यो दिग्ध एना गा नि वर्तय । हे आत्मन् मदभिमुखीः कुरु ।
+> हे गावः यूयमपि ताभ्यो दिग्भो निवर्तर्ध्वमिति सामर्थ्यल्लब्धं । यद्वा ।
+> अब्दैवतपक्षेऽपि सूक्तार्थो यथा घटते तथा योजना कर्तव्या ॥
+
+##### Gist of the bhāṣya
+
+The seer addresses himself and the cows. "O my self, make the cows turn to face me" (the āṅ is construed with this verb as well), meaning: win them over by praise and sacrifice and bring them near. "O cows, being propitiated, you too come back facing us." Again: "O my self, bring back (ni vartaya) the cows that are going away from the pasture, make them come hither. You also, O cows, being turned back, return." Now the self and the cows address the seer: "O seer, from where am I to bring the cows back, from where are we to return?" Asked thus by his self and by the cows, he says: the earth has four directions (pradiśaḥ); from those directions bring these cows back, O self, make them face me. "O cows, you too return from those directions" is obtained by implication. Alternatively, the interpretation should be made so that the meaning of the sūkta fits also on the view that its deity is the waters (abdaivata).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आ वर्तय (*ā vartaya*)—make the cows turn back
+- निवर्तन (*nivartana*)—O cows, return
+- निवर्तय (*nivartaya*)—make them come back to the house
+- निवर्तन (*nivartana*)—come to the house
+- भूम्यूः (*bhūmyūḥ*)—the earth
+- चतस्रः (*catasraḥ*)—four
+- प्रदिशः (*pradiśaḥ*)—directions there are
+- ताभ्यः (*tābhyaḥ*)—from all those directions
+- एनाः (*enāḥ*)—these cows
+- निवर्तय (*nivartaya*)—make them turn back
+
+##### भावार्थ (Bhāvārtha)
+
+Make the cows turn back. O cows, you also come back. Return to the house. The earth has four directions. From all those directions bring the cows back.
+
+##### English translation
+Come back (you cows), bring them back; return (you cows), bring them back; and (you cows) coming back, return; there are four quarters of the earth, bring them back from them,
+
+### Printed p. 635
+## Sūkta 20 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भद्रमिति दशर्चं चतर्थं सूक्तं । अद्यैकपदा दशाक्षरा विराट् । अग्निमीळे
+> भुजामित्येषानुष्टुप् नवमी विराट् दशमी त्रिष्टुप् मध्यॆ पड्डायत्रः । इदमादीनां सप्तसूक्तानामिंद्रपुत्रः प्रजापतिपुत्रो वा विमद ऋषिर्वसुक्रपुत्रो
+> वसुकृदाख्यो वा । इदमुत्तरं चाग्नेयं । तथा चानुक्रांतं । सप्पोत्तराण्यंद्रो विमदः प्रजापत्यो वा वासुको वसुकृद्वा भद्रं दशाग्नेयं तु गायत्रमाद्यैकपदा पाद एव ना शांत्यर्थः परानुष्टुबंत्ये विराट् त्रिष्टुभाविति ॥ गतो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning भद्रं (*bhadraṃ*) has ten ṛks and is the fourth sūkta (of the anuvāka). Its first verse is a one-footed (ekapadā) virāj of ten syllables; the second, अग्निमीळे भुजां (*agnimīḷe bhujāṃ*), is an anuṣṭubh; the ninth is a virāj, the tenth a triṣṭubh, and the middle ones are gāyatrī. For the seven sūktas beginning with this one the seer is Vimada, the son of Indra or of Prajāpati, or Vasukṛt, son of Vasukra. This and the following sūkta are addressed to Agni. He cites the Anukramaṇī: सप्पोत्तराण्यंद्रो विमदः प्रजापत्यो वा वासुको वसुकृद्वा भद्रं दशाग्नेयं तु गायत्रमाद्यैकपदा पाद एव ना शांत्यर्थः परानुष्टुबंत्ये विराट् त्रिष्टुभाविति ॥ (*sappottarāṇyaṃdro vimadaḥ prajāpatyo vā vāsuko vasukṛdvā bhadraṃ daśāgneyaṃ tu gāyatramādyaikapadā pāda eva nā śāṃtyarthaḥ parānuṣṭubaṃtye virāṭ triṣṭubhāviti ‖*) The viniyoga has already been stated.
+
+##### Anuvāda (Kannada)
+
+This sūkta beginning भद्रं (*bhadraṃ*) is the fourth sūkta in the second anuvāka. It contains ten ṛks. The first ṛk is of the metre called ekapadā virāj of ten syllables. The second ṛk, अग्निमाळे भुजां (*agnimāḷe bhujāṃ*), is in anuṣṭubh; the remaining six are in gāyatrī. For the seven sūktas from this one onward the seer is Vimada, son of Indra or of Prajāpati, or Vasukṛt, son of Vasukra. Agni is the deity of this sūkta and of the next. In the Anukramaṇī it is said: सप्तोत्तराण्यंद्रो विमदः प्राजापत्यो वा वसुक्रो वसुकृद्वा भद्रं दशाग्नेयं तु गायत्रमाद्यैकपदा पाद एव नाशांत्यर्थः परानुष्टुबंत्ये विराट्‌त्रिष्टुभौ (*saptottarāṇyaṃdro vimadaḥ prājāpatyo vā vasukro vasukṛdvā bhadraṃ daśāgneyaṃ tu gāyatramādyaikapadā pāda eva nāśāṃtyarthaḥ parānuṣṭubaṃtye virāṭtriṣṭubhau*). The viniyoga has been stated earlier.
+
+Sūkta—20
+Maṇḍala—10; Anuvāka—2; Sūkta—20.
+Aṣṭaka—7; Adhyāya—7; Varga—2, 3.
+Number of ṛks in the sūkta—10.
+Seer: Vimada Aindra, or Prājāpatya, or Vasukṛt Vāsukra.
+Deity: Agni.
+Metre: 1. Ekapadā (पाद एव ना शांत्यर्थः (*pāda eva nā śāṃtyarthaḥ*)); 2. Anuṣṭubh; 3–8. Gāyatrī; 9. Virāj; 10. Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भ॒द्रं नो॒ अपि॑ वातय॒ मनः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भद्रं नो अपि वाशय मनः ॥ १ ॥
+
+### Printed p. 636
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं नोऽस्माकं मनो भद्रं शुभयुक्तमपि वातय । अपिरत्र
+> धात्वर्थानुवादी । अगमय । त्वत्संबंधिस्तोत्रकरणे प्रेरयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, cause our mind to go (vātaya) towards what is auspicious (bhadra)." The word अपि (*api*) here merely repeats the sense of the root: "make go", that is, "impel us to the making of praise addressed to you."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) भद्रं (*bhadraṃ*)—auspicious
+- मनः (*manaḥ*)—mind
+- नः (*naḥ*)—towards us
+- अपि वातय (*api vātaya*)—cause to turn
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, turn your gracious and auspicious mind towards us and favour us.
+
+##### English translation
+(Agni), manifest towards us a favourable mind.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निमी॑ळे भु॒जां यवि॑ष्ठं शा॒सा मि॒त्रं दु॒र्धरी॑तुं ।  
+> यस्य॒ धर्म॒न्तस्मिन् १ १॒॑रेनीः॑ सप॒र्यंति॑ मा॒तुरूधः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निं । ईळे । भुजां । यविष्ठं । शासा । मित्रं । दुःधरीतुं ।  
+> यस्य । धर्मन् । स्वः । एनीः । सपर्यंति । मातुः । ऊधः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भुजां हविर्भुजां देवानां मध्यॆ यविष्ठ महन्यहन्यग्निहोत्रादिकर्मार्थं
+> जायमानत्वादतिशयेन युवानं शासानुशासनेन मित्रं । यस्मादिदं कर्तव्यमिदं न कर्तव्यमिति सर्वमनुशास्ति तस्मात्सर्वस्य मित्रभूतमित्यर्थः । दुर्धरीतुं
+> दुर्धरणीयं संग्रामे शत्रुभिर्दुर्निवारणेयं एवंभूतमग्निमीळे। सौमि । अपि
+> च यस्याग्नेर्धर्मन्धर्मण्यग्निहोत्रादिके कर्मणि स्वर्द्युलोकमादित्यं सर्वं देवजातं वैनीरेन्यः प्रतिगंत्र आहुतयः स्तुतयश्च सपर्यंति परिचरंति सेवंते । यद्वा। स्वः सपर्यंतीत्यनयोः सामानाधिकरण्यं। अत्र स्वरित्यव्ययं सर्वशब्दो निपातः !
+
+##### Gist of the bhāṣya
+
+Among the oblation-eating gods (bhujām) Agni is yaviṣṭha, exceedingly young, being born day after day for the agnihotra and other rites. He is a friend by instruction (śāsā), since he instructs "this is to be done, this is not to be done"; thus he is a friend of all. He is durdharītu, hard to hold, hard for enemies to ward off in battle. Such an Agni I praise. Also, in the rite (dharman) of that Agni, the offerings and praises that go to the heavenly world (svar), to Āditya and to all the hosts of gods, serve and attend upon him. Alternatively स्वः (*svaḥ*) and सपर्यंति (*saparyaṃti*) are construed in apposition; here स्वः (*svaḥ*) is the indeclinable, a particle meaning "all". **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 630. pp. 623-630 (batch API)
+**Progress note:** Done through printed p. 636. pp. 631-636 (batch API)
