@@ -2618,15 +2618,15 @@ Among the Atharvaveda's many names is "Bhrigvangiro-veda" (the Veda of Bhrigu an
 
 1 Aṅgirāḥ · 2 Trita · 3 Bharadvāja Bāṣkali · 4 Ṛtavāk · 5 Garga · 6 Śini · 7 Saṃkṛti · 8 Guruvīta · 9 Māndhātā · 10 Ambarīṣa · 11 Yuvanāśva · 12 Purukutsa · 13 Trasadasyu · 14 Sadasyumān · 15 Āhārya · 16 Ajamīḍha · 17 Ṛṣabha · 18 Kapi · 19 Pṛṣadaśva · 20 Virūpa · 21 Kaṇva · 22 Mudgala · 23 Utathya · 24 Śaradvān · 25 Vājaśravā · 26 Ayāsya · 27 Suvitti · 28 Vāmadeva · 29 Asija · 30 Bṛhaduktha · 31 Dīrghatamā · 32 Kakṣīvān
 
-These thirty-two, with one further name added, make the thirty-three rishis of the Angirasa lineage. Many names among these have become corrupted in transmission, and correcting them is not something the author attempts here. Angiras, the lineage's original progenitor, must belong to a very ancient period. This lineage includes Kshatriyas such as Ambarisha and Yuvanashva — "Nabhaga Ambarisha" is referenced at many points in the Mahabharata. The Angirasa lineage is also connected to the Bhrigu lineage, and its rishis are seers for many suktas of the Atharvaveda.
+These thirty-two, with one further, lost name, make the thirty-three rishis of the Angirasa lineage. Many names among these have become corrupted in transmission, and correcting them is not something the author attempts here. Angiras, the lineage's original progenitor, must belong to a very ancient period. This lineage includes Kshatriyas such as Ambarisha and Yuvanashva — "Nabhaga Ambarisha" is referenced at many points in the Mahabharata. This Angiras, independently and together with Bhrigu, is the rishi of many mantras of the Atharvaveda.
 
-### The Kashyapas — 5 [6 named]
+### The Kashyapas — 6
 
 कश्यप, वत्सार, नैध्रुव, रैभ्य, असित, देवल — *(Kashyapa, Vatsara, Naidhruva, Raibhya, Asita, Devala)*. Six rishis of the Kashyapa lineage. Asita and Devala appear to have personal connections recorded in the Mahabharata.
 
 ### The Atreyas — 6
 
-अत्रि, अर्चनाना, श्यावाश्व, गविष्ठिर, आविहोत्र, पूर्वातिथि — *(Atri, Archanana, Shyavashva, Gavishthira, Avihotra, Purvatithi)*. Some textual variants may exist here — the rishi Gavishthira may also carry the name "Angira"; Rigveda Mandala 1, Sukta 101's rishi is given as Andhigu, son of Gavishthira.
+अत्रि, अर्चनाना, श्यावाश्व, गविष्ठिर, आविहोत्र, पूर्वातिथि — *(Atri, Archanana, Shyavashva, Gavishthira, Avihotra, Purvatithi)*. Some textual variants may exist here — the rishi Gavishthira may also carry the name "Andhigu"; Rigveda Mandala 1, Sukta 101's rishi is given as Andhigu, son of Gavishthira.
 
 ### The Vasishthas — 8 [7 named]
 
@@ -2635,7 +2635,7 @@ These thirty-two, with one further name added, make the thirty-three rishis of t
 
 ### Page 182
 
-...he writes. Many modern scholars have found themselves unable to reconcile the doctrine of the Veda's eternality with Krishna-Dvaipayana's role in compiling it.
+...he writes. Many modern scholars have found themselves unable to reconcile the Vedas with this view of Krishna-Dvaipayana.
 
 ### The Kaushikas (Vishvamitra) — 13
 
@@ -2687,20 +2687,20 @@ It was noted at this chapter's outset that the rishis named for a given mantra a
 
 **3.** The sukta beginning "kasya nūnam..." (Rigveda 1-24) is assigned by the Sarvanukramani to "Ajigarti," that is, Devarata, son of Ajigarta — the same Ajigarti, taught by Vishvamitra, who praised Prajapati with this very sukta, per the Aitareya Brahmana (33-3, 4). Yet Vararuchi's *Nirukta-samuchchaya* says the seer of this mantra is Ajigarta himself.
 
-**4.** The Taittiriya Samhita (5-2-3) and Kathaka Samhita (20-10) state that Rigveda Mandala 3, Sukta 22 was seen by Vishvamitra personally — yet the Sarvanukramani names its rishi as either Gathin or Gathi.
+**4.** The Taittiriya Samhita (5-2-3) and Kathaka Samhita (20-10) state that Rigveda Mandala 3, Sukta 22 was seen by Vishvamitra personally — yet the Sarvanukramani names its rishi as either Gathi or Gadhi.
 
 
 ### Page 184
 
-For this reason, these rishis are not always the first seers of the mantras attributed to them; it should firmly be understood that the mantra-corpus continued to receive additions over time. Moreover, once particular rishis' names became well known, mantras came to be primarily used in yajnas under those names — which explains why certain rishi-attributions became prominent regardless of true origin.
+For this reason, these rishis are not always the first seers of the mantras attributed to them; it may freely be said that the mantras were in use even before these rishis studied them. Rather than seers of the mantras, these rishis may be said to have made the meanings of the mantras manifest, or to have first employed the mantras in sacrifices and the like.
 
-The Veda's date cannot be fixed from these rishi genealogies alone. Bhrigu, Angiras and the others are known as seers of the mantras; they lived thousands of years before the Mahabharata era, which is fixed at about 3139 BC. Since these seers are older still, the statement that the Vedas were composed in 2000–1500 BC is a mere delusion. The philologists' statement, following Philology, that the Vedas were composed in 2000–1500 BC is likewise improper. Which figure is historically more accurate cannot be said with confidence, and philology itself is not fully reliable for fixing chronology — but it is clear that these named rishis are not the very first, and that earlier rishis likely composed the mantras before them; Vedic mantras should accordingly be understood as existing since beginningless time, used across whatever periods they were actually current.
+The Veda's date cannot be fixed from these rishi genealogies alone. Bhrigu, Angiras and the others are known as seers of the mantras; they lived thousands of years before the Mahabharata era, which is fixed at about 3139 BC. Since these seers are older still, the statement that the Vedas were composed in 2000–1500 BC is a mere delusion. The philologists' statement, following Philology, that the Vedas were composed in 2000–1500 BC is likewise improper. Considered historically, philology is not very useful for fixing chronology, and it is clear that these named rishis are not the very first, and that earlier rishis likely composed the mantras before them; Vedic mantras should accordingly be understood as existing since beginningless time, used across whatever periods they were actually current.
 
 ### Rishis Who Were Seers of the Mantras' *Meaning*
 
-Related to the above: a mantra's authority/origin holds special importance. It is unsurprising that one mantra came to be understood differently by different rishis across different eras — even within the same received Brahmana material, a single mantra could be applied differently by different rishis depending on context, because its meaning was understood differently by different interpreters. That "seeing" a mantra (drashtritva) and interpreting its meaning are two distinct things is shown by the following:
+From what is known so far, mantras have appeared again and again: the same mantra was seen by different rishis at different times. Not only this: one mantra came to be understood differently by different rishis across different eras — even within the same received Brahmana material, a single mantra could be applied differently by different rishis depending on context, because its meaning was understood differently by different interpreters. That "seeing" a mantra (drashtritva) and interpreting its meaning are two distinct things is shown by the following:
 
-**1.** The Nirukta (2-8) records that Shakapuni held all deities should be known; the deity of a certain sukta became established through Shakapuni's own interpretation specifically, though who first discovered that deity is unknown. Regardless, this mantra (Rigveda 1-164-29) is a single mantra whose deity the sage Ushasta explained according to his own understanding — a reading more widely known than Shakapuni's, which itself adopted this same interpretation; even so, the mantra's own origin traces to the particular teaching Ushasta received.
+**1.** The Nirukta (2-8) records that Shakapuni held all deities should be known; the deity of a certain sukta became established through Shakapuni's own interpretation specifically, though who first discovered that deity is unknown. Finally the deity taught him a rik (Rigveda 1-164-29) and made known that she was the deity of that rik. This mantra was well known before Shakapuni and he himself had studied it, yet he received it again from the deity, that is, he received instruction in the meaning of the mantra.
 
 **2.** The Nirukta (13-12) states:
 
@@ -2716,7 +2716,7 @@ That is: mantras do not become directly perceivable to the ignorant or to those 
 
 ### Page 185
 
-...are needed. But depending on the specific mantra, the power arising from it and who receives that power becomes clear only from context — the same mantra proving useful differently for different purposes. In this sense, distinguishing the mantra's "meaning-seer" (arthadrashta) from its mere "seer" reflects that a specific individual perceives a mantra's meaning distinctly from perceiving the mantra itself — rishis may thus be seers of a mantra's outward form without necessarily being seers of its deeper meaning.
+...are plentiful. But depending on the specific mantra, the power arising from it and who receives that power becomes clear only from context — the same mantra proving useful differently for different purposes. Since the quoted phrase is explained with the locative case (those with vision in the mantras, that is, knowers of the meaning of the mantra), the rishis were not only seers of mantras but also seers of their meaning.
 
 **3.** The Nirukta (10-10) states:
 
@@ -2749,7 +2749,7 @@ And another sutra (2-2-67):
 
 These statements establish that rishis are both seers of the mantras and, in Brahmana form, seers of the mantras' meanings — "seers of the Brahmana" meaning those who understood the mantras' various meanings and applications.
 
-**5.** The Shukla Yajurveda (ch. 8, mantra 15) reads:
+**5.** The Shukla Yajurveda (ch. 7, mantra 46) reads:
 
 > ब्राह्मणमुद्वीच्यं शिक्ष्यमुच्चं स्विष्टमुच्च्मषिणा शीयम् ।
 >
@@ -2778,7 +2778,7 @@ Commenting on this, Uvata glosses "rishi" as "*ṛṣir mantrāṇāṃ vyākhy�
 
 ### Many Rishis' Names Were Taken From the Veda Itself
 
-Vishvamitra's original name was Vishvaratha; after his austerities and attainment of Brahmarshi status, he is well known to have adopted the name "Vishvamitra" from a naming-formula. Similarly, other rishis seem to have taken their names the same way — the rishi "Shiva-sankalpa" took his name from the Yajurveda's famous "Shiva-sankalpa" mantras (34-1 onward). The Aitareya Aranyaka names Vishvamitra, Jamadagni, and others as reciters of the Pranava; the Shatapatha Brahmana connects the meaning of "Vasishtha" and similar words to the senses (indriya). The rishi of the Rigveda's Shraddha-sukta (10-151) is named "Shraddha Kamayani" — a name otherwise unattested for any individual beyond this specific context.
+Vishvamitra's original name was Vishvaratha; after his austerities and attainment of Brahmarshi status, he is well known to have adopted the name "Vishvamitra". Similarly, other rishis seem to have taken their names the same way — the rishi "Shiva-sankalpa" took his name from the Yajurveda's famous "Shiva-sankalpa" mantras (34-1 onward). The Aitareya Aranyaka says that Vishvamitra, Gritsamada and others are words denoting the vital breaths; the Shatapatha Brahmana connects the meaning of "Vasishtha" and similar words to the senses (indriya). The rishi of the Rigveda's Shraddha-sukta (10-151) is named "Shraddha Kamayani"; this is certainly not her name — she must have had another name.
 
 In several such cases, it becomes clear that rishis set aside their own personal names and instead adopted, as their names, words actually found within the Veda's own text. The Bhrigu-proclaimed Manu-smriti states the same:
 
@@ -2793,7 +2793,7 @@ In several such cases, it becomes clear that rishis set aside their own personal
 
 The rishis are the original founders of Arya-dharma (Hindu dharma), having lived their lives for its sake — they are the founders of our culture. Whatever is renowned as the essence of our country's culture traces to them. When doubt arises today about matters of dharma and adharma amid social turmoil, peace can be found by studying these rishis' lives and following their path — each rishi grasped the essence of dharma and adharma and stands as an exemplar of righteous conduct, fair dealing, and truthfulness.
 
-For this reason alone, rishis have held especially venerable status since ancient times — even great kings worshipped and honored them highly; a king who saw his daughter accepted [in marriage] by a rishi considered it a blessing for his lineage's continuation (as when King Janaka gave his daughter in marriage to a rishi's son) — many such examples appear in the Mahabharata and elsewhere, and instances of offering rishis the seat of highest honor (agra-puja) recur across thousands of contexts. When Lord Krishna went as an emissary to the Kaurava assembly in the Mahabharata's Udyoga-parva to negotiate peace, beholding that wondrous assembly hall and gazing into its heights, he spoke thus of the rishis gathered there—
+For this reason alone, rishis have held especially venerable status since ancient times — even great kings worshipped and honored them highly; a king who saw his daughter accepted [in marriage] by a rishi considered it a blessing for his lineage's continuation (Janashruti gave his daughter in marriage to Raikva) — many such examples appear in the Mahabharata and elsewhere, and instances of offering rishis the seat of highest honor (agra-puja) recur across thousands of contexts. When Lord Krishna went as an emissary to the Kaurava assembly in the Mahabharata's Udyoga-parva to negotiate peace, beholding that wondrous assembly hall and gazing into its heights, he spoke thus of the rishis gathered there—
 
 
 ### Page 187
@@ -2804,13 +2804,13 @@ For this reason alone, rishis have held especially venerable status since ancien
 >
 > "O king, having beheld this earthly assembly, the rishis have arrived as guests. Let them be invited and welcomed with the greatest hospitality — none may remain seated without first attending to them."
 
-*(The print continues with further verses of the same passage, numbered ‖58‖ and ‖59‖, not transcribed in this file.)* They received honored hospitality; only once they were seated did Krishna and the others take their own seats. Rishis are those who have renounced everything — a distinct radiance surrounds them. Between such persons and kings among kings — who deserves greater reverence? Yet, as protectors and propagators of dharma and treasuries of knowledge, they have received honor everywhere without exception. The rishis were, in effect, the very life-breath of Aryan culture and Aryan dharma.
+*(The print continues with further verses of the same passage, numbered ‖58‖ and ‖59‖, not transcribed in this file.)* They received honored hospitality; only once they were seated did Krishna and the others take their own seats. Rishis are those who have renounced everything — to look at them they seem utterly poor. Where are such persons, and where are kings among kings? Yet, as protectors and propagators of dharma and treasuries of knowledge, they have received honor everywhere without exception. The rishis were, in effect, the very life-breath of Aryan culture and Aryan dharma.
 
 ### The Vedas Are Also Called by the Name "Rishi"
 
 The statement "ṛṣir vedaḥ" ("rishi is Veda") rests on several authorities:
 
-**1.** Bhojaraja's commentary on the Unadi-sutras (2-1-159) interprets a technical term for the office of a Dandanatha (chief officer) as meaning "Veda."
+**1.** Dandanatha's vritti, a commentary on Bhojaraja's Unadi-sutras (2-1-159), explains the word rishi as meaning "Veda."
 
 **2.** Haradatta's *Padamanjari* (on Panini 1-1-18) states:
 
@@ -2820,13 +2820,13 @@ The statement "ṛṣir vedaḥ" ("rishi is Veda") rests on several authorities:
 >
 > "'Rishi' is Veda — this is [established] because [the derivative] 'ṛṣikā' and similar forms are seen [used in this sense]."
 
-Among Brahmins, the phrase "*taducta-ṛṣikā*" is used in many places meaning "as stated in the Veda" — confirming that "rishi" itself can mean "Veda."
+In the Brahmanas the phrase "*taducta-ṛṣikā*" is used in many places meaning "as stated in the Veda" — confirming that "rishi" itself can mean "Veda."
 
 **3.** The Vaijayanti-kosha lexicon similarly glosses "rishi" as usable in the sense of Veda ("ṛṣi-sṛṣṭa vede").
 
 **4.** Medhatithi's Manu-bhashya likewise treats "ṛṣir vedaḥ" as an established equivalence.
 
-**5.** The Shashvata-kosha states "ṛṣir vede" in a verse to the same effect — this text is thought to date to the 7th century CE, indicating this usage of "rishi" for "Veda" was current from that period onward.
+**5.** The Shashvata-kosha (verse 719) states "ṛṣir vede" in a verse to the same effect — this text is thought to date to the 7th century CE, indicating this usage of "rishi" for "Veda" was current up to that period.
 
 ### The Rishis and Buddhist Texts
 
@@ -2841,15 +2841,15 @@ Among Brahmins, the phrase "*taducta-ṛṣikā*" is used in many places meaning
 
 *(The Buddhist citation above is from Shantarakshita's "Tattva-sangraha," p. 14.)*
 
-The Blessed Buddha told Ananda that the ancient sages composed the Vedas and propagated them — so even by the Buddha's own account, rishis are credited as composers and propagators of the mantras. Though the Vedas themselves show little internal consensus on this point, it can be relied upon to this extent; among current scholars, however, this remains genuinely disputed.
+The Blessed Buddha told Ananda that the ancient sages composed the Vedas and propagated them — so even by the Buddha's own account, rishis are credited as composers and propagators of the mantras. This shows that even the Buddha accepted that the rishis composed and propagated the mantras; one may say he had at least some regard for the Veda. But for later Buddhists this is an unacceptable matter.
 
-The Majjhima Nikaya (2-5-5 and 2-5-9) records the Buddha addressing a young Brahmin named Bharadvaja-putra while staying at Jetavana, Shravasti:
+The Majjhima Nikaya (2-5-5 and 2-5-9) records the Buddha addressing one called Taudeyya's son while staying at Jetavana, Shravasti:
 
 "These present-day Brahmins' ancestors were rishis. They composed the Veda and propagated it; even now, [Brahmins] teach it following that same tradition. Brahmins count among their own ancient rishis: Ashtaka, Vamaka, Vamadeva, Vishvamitra, Jamadagni, Angira, Bharadvaja, Vasishtha, Kashyapa, Bhrigu, and others."
 
-Whether rishis existed even in the Buddha's own time is debated, but it's clear that by his era, "the ancient Brahmin ancestors were rishis" had already become a fixed formula. Rishis existed across every age — in fields like austerity and knowledge one may certainly find figures worthy of the name — but truly great rishis of this magnitude are rare in later times, and in the present era, none exist in the strict sense of "seer of mantras."
+That the rishis were speakers of the Veda is accepted by the Buddhists too. But that there were no rishis in the Buddha's own time is clear from his words "the ancestors of the Brahmins were rishis". Rishis existed across every age — in fields like austerity and knowledge one may certainly find figures worthy of the name — but truly great rishis of this magnitude are rare in later times, and in the present era, none exist in the strict sense of "seer of mantras."
 
-Counting forward from the Mahabharata era's ruling dynasty — Parikshit, Janamejaya, Shatanika, Ashvamedhadatta and others — their reigns spanned about 225 years. Toward the end, Ashvamedhadatta's son Adhisimakrishna performed a long sacrificial session (diksha-sattra). The Vayu Purana records:
+Counting forward from the Mahabharata era's ruling dynasty — Parikshit, Janamejaya, Shatanika, Ashvamedhadatta and others — their reigns spanned about 225 years. Toward the end, Ashvamedhadatta's son Asimakrishna performed a long sacrificial session (dirgha-sattra). The Vayu Purana records:
 
 > असीमकृष्णे विक्रान्ते राजन्येऽनुपमत्विषि । प्रशासतीमां धर्मेण भूमिं भूमिपसत्तमे ॥ १२ ॥ ऋषयः संशितात्मानः सत्यव्रतपरायणाः । ऋजवो नष्टरजसः शान्ता दान्ता जितेन्द्रियाः ॥ १३ ॥ धर्मक्षेत्रे कुरुक्षेत्रे दीर्घसत्रं तु ईजिरे । नद्यास्तीरे दृषद्वत्याः पुण्यायाः शुचिरोधसः ॥ १४ ॥
 >
@@ -2864,9 +2864,9 @@ Rishis existed in this king's era. The Kali Yuga is reckoned to begin from the t
 
 The Rigveda has 1,028 suktas comprising 10,552 mantras (as already noted, p. 16). These have many rishis: generally all mantras within a sukta share one rishi, though occasionally a single sukta's mantras carry different rishis (a rare occurrence); the same holds for deities and meters — usually uniform within a sukta, though sometimes mixed.
 
-Given this structure, the Rigveda's mantras can be classified three ways. First, gathering in sequence all suktas seen by a single rishi produces a group compiled either by that rishi himself, a well-known descendant, or his disciples, arranged in fixed order — such a group is called a "Mandala." The Rigveda has ten Mandalas, mostly organized by lineage: Mandala 1 mixes various lineages (hence its rishis are called "Shatarshina," since many contributed around 100 mantras each); Mandala 2 belongs to Gritsamada's lineage, 3 to Vishvamitra's, 4 to Vamadeva's, 5 to Atri's, 6 to Bharadvaja's, 7 to Vasishtha's, and 8 to Kanva-lineage rishis. Mandala 9 has many rishis but is instead named for its shared deity (Soma) rather than lineage, since most of its mantras concern Soma specifically. The current Rigveda Samhita is arranged following this rishi/lineage/Mandala sequence.
+Given this structure, the Rigveda's mantras can be classified three ways. First, gathering in sequence all suktas seen by a single rishi produces a group compiled either by that rishi himself, a well-known descendant, or his disciples, arranged in fixed order — such a group is called a "Mandala." The Rigveda has ten Mandalas, mostly organized by lineage: Mandala 1 mixes various lineages (hence its rishis are called "Shatarshina," since many contributed around 100 mantras each); Mandala 2 belongs to Gritsamada's lineage, 3 to Vishvamitra's, 4 to Vamadeva's, 5 to Atri's, 6 to Bharadvaja's, 7 to Vasishtha's, and 8 to Kanva-lineage rishis. Mandala 9 has many rishis but is instead named for its shared deity (Soma) rather than lineage, all its suktas being addressed to Soma. The current Rigveda Samhita is arranged following this rishi/lineage/Mandala sequence.
 
-A second classification method groups suktas by their principal deity — "devata-suktas." All Agni-focused suktas form one such group, Indra-focused suktas another, and so on. Mandala 9 follows this same deity-based logic internally: every sukta in it has Pavamana Soma as its sole deity, with meter and rishi sequencing differing from the other Mandalas. This Mandala's grouping is thus not organized the way the other deity-based groupings are, and no established tradition exists for studying the whole Samhita strictly by deity-grouping across all Mandalas — though modern scholars, for convenience of study, have printed deity-organized collections (even as separate volumes).
+A second classification method groups suktas by their principal deity — "devata-suktas." All Agni-focused suktas form one such group, Indra-focused suktas another, and so on. Mandala 9 follows this same deity-based logic internally: every sukta in it has Pavamana Soma as its sole deity, with the order of meters and rishis the same as in the other Mandalas. Apart from this ninth Mandala, grouping the suktas of the other deities into groups and studying them so is not the custom — though modern scholars, for convenience of study, have printed deity-organized collections (even as separate volumes).
 
 
 ### Page 190
@@ -2907,32 +2907,32 @@ Here Asita Kāśyapa or Kāśyapa Devala is the rishi's name: of the sūktas fro
 
 ### Page 205
 
-Among the mantras, whatever subject a given mantra primarily describes is spoken of as that mantra's deity — as already noted earlier in this chapter via the citation "yā tenoktā sā devatā" ("she who is addressed by it is the deity"). If a mantra's essential subject is Agni, its deity is Agni; deities may likewise be Indra, the Ashvin-deities, the Maruts, Savitr, Surya, Rudra, Vishnu, Vayu, and others.
+Among the mantras, whatever subject a given mantra primarily describes is spoken of as that mantra's deity — as already noted in the previous chapter via the citation "yā tenoktā sā devatā" ("she who is addressed by it is the deity"). If a mantra's essential subject is Agni, its deity is Agni; deities may likewise be Indra, the Ashvin-deities, the Maruts, Savitr, Surya, Rudra, Vishnu, Vayu, and others.
 
 A sukta of one or several mantras may share a single deity throughout; or different mantras within one sukta may carry different deities; or even a single mantra's first and second halves may address different deities, or describe multiple deities together. Generally, though, one sukta (or one mantra) having a single deity is the norm.
 
-Agni, Indra, Varuna, the Ashvins, the Maruts, Vayu, Aditya, Ushas, Ratri, Mitra, Vishnu, Rudra, Soma, Aka [Akasha?], and others are the principal deities — Agni and Indra having by far the most suktas, with other deities considerably fewer. Within each Mandala's sukta-sequence, Agni-deity suktas generally come first, followed by Indra-deity suktas, then other deities in turn — a pattern generally followed across all Mandalas. Mandala 9 alone is an exception: every sukta there shares Pavamana Soma as its sole deity, with no other deities appearing; only the rishis and meters vary within it.
+Agni, Indra, Varuna, the Ashvins, the Maruts, Vayu, Aditya, Ushas, Ratri, Mitra, Vishnu, Rudra, Soma, the Waters, and others are the principal deities — Agni and Indra having by far the most suktas, with other deities considerably fewer. Within each Mandala's sukta-sequence, Agni-deity suktas generally come first, followed by Indra-deity suktas, then other deities in turn — a pattern generally followed across all Mandalas. Mandala 9 alone is an exception: every sukta there shares Pavamana Soma as its sole deity, with no other deities appearing; only the rishis and meters vary within it.
 
 
 ### Page 206
 
-Among the principal deities named above, depending on context, rivers, mountains, knowledge, weapons, the thunderbolt, the sacrificial altar, the pestle and mortar, grinding-stones, and similar objects also appear as deities in certain places. In the Danastuti hymns praising a king or patron's generosity, dialogues between two speakers are likewise treated as deities in several suktas. Mandala 1 in particular contains many such minor deities.
+Among the principal deities named above, depending on context, rivers, pressing-stones, knowledge, the arrow, the quiver, the sacrificial altar, the mortar and pestle, and similar objects also appear as deities in certain places. In the Danastuti hymns praising a king or patron's generosity, dialogues between two speakers are likewise treated as deities in several suktas. Mandala 10 in particular contains many such minor deities.
 
-Rishis are observed to have composed hymns of praise following certain fixed groupings: the Ashvin-deities are always praised jointly; likewise Mitra-Varuna, Soma-Surya, Indra-Varuna, Indra-Vayu, Indra-Vishnu, and Indra-Soma are frequently praised together, while other deities are praised individually.
+Rishis are observed to have composed hymns of praise following certain fixed groupings: the Ashvin-deities are always praised jointly; likewise Mitra-Varuna, Soma-Rudra, Indra-Varuna, Indra-Vayu, Indra-Vishnu, and Indra-Soma are frequently praised together, while other deities are praised individually.
 
-In Rigvedic times, people worshipped these deities at home much as is still done today, and prayed to and worshipped them specifically during yajnas. Not everyone performed every ritual act described in the Rigveda — only the wealthy did. Undertaking a ritual required resources, a proper household, necessary supplies, and several assisting priests; the poor could only pray in words acknowledging their inability to perform such rites for lack of means, and a purohita who spoke modestly rather than demandingly was preferred as one's priest.
+In Rigvedic times, people did not worship these deities in their own homes as is done now; they invited and worshipped them in yajnas and the like. Not everyone performed every ritual act described in the Rigveda — only the wealthy did. Undertaking a ritual required resources, a proper household, necessary supplies, and several assisting priests; since the poor could not perform these rites, in course of time they took up the sorcery and the like of the Atharvaveda, and in place of priests their priests were sorcerers and such, content with little.
 
-The Rigveda is filled, cover to cover, with hopeful aspiration — famously oriented toward experiencing whatever happiness life offers. The primary intent behind praying to the deities is this: freedom from worldly bondage and attainment of heaven and its higher joys are asked for, alongside longevity, prosperity, valor, and progeny — direct, worldly joys. Victory over enemies, health, freedom from want, food, and clothing appear to be life's primary aims here:
+The Rigveda is filled, cover to cover, with hopeful aspiration — famously oriented toward experiencing whatever happiness life offers. The primary intent behind praying to the deities is this: the deities are asked to give not freedom from worldly existence nor the joys of heaven and the hereafter, but longevity, wealth, valor and progeny — worldly joys. Victory over enemies, health, plenty of food and drink appear to be life's primary aims here:
 
-> "Agni, give strength and prosperity to me, my leader." — useful to many. (VII-5-9)
+> "Agni, give strength and prosperity to our leaders, the wealthy." — useful to many. (VII-5-9)
 
-> "O Indra, provide for what we lack. Give our leader the sustenance he needs, abundant valor and offspring; act mercifully; by that strength may we live long." (VII-24-6)
+> "O Indra, satisfy us with precious things. Give our leader the sustenance he needs, abundant valor and offspring; act mercifully; by that strength may we live long." (VII-24-6)
 
 > "May we live a hundred years." (VII-66-16)
 
 *(These are given in the source as Kannada renderings of the mantras with their Rigveda references, rather than the Sanskrit text itself at this point.)*
 
-The rishis appear motivated by experiencing life's fullness rather than any attitude of renunciation (vairagya) toward it — one searches the Rigveda largely in vain for a mantra expressing detachment from the body, life's impermanence, or similar renunciate sentiment.
+The rishis appear motivated by experiencing life's fullness rather than any attitude of renunciation (vairagya) toward it — only here and there a single mantra in the whole Rigveda is found expressing that this body is perishable and all life dream-like.
 
 
 ### Page 207
@@ -2946,18 +2946,18 @@ The rishis appear motivated by experiencing life's fullness rather than any atti
 
 The precise meaning of "amrita" here is unclear, and scholars differ: the Western scholar Roth held it means "the deathless"; Grassmann took it as "long life"; Sayanacharya himself glosses it as "water." In VII-76-4–5, the rishis describe their ancestors behaving as equals alongside the deities; in VII-59, one mantra explicitly requests immortality. Only in a few such instances are matters of the hereafter (amushmika) raised at all — nowhere does a path of renunciation (viraktimarga) appear to be taught. On the whole, the Rigveda seems to hold that safeguarding worldly happiness is itself life's proper aim.
 
-Even though Rigveda mantras are said to serve ritual purposes, they are not, like Yajurveda mantras, entirely subordinated to ritual action — they show real simplicity and poetic craft, with hymns arising from genuine feeling rather than appearing contrived.
+Even though Rigveda mantras are said to serve ritual purposes, they are not, like Yajurveda mantras, entirely subordinated to ritual action — they show real simplicity and sincerity, with hymns arising from the depths of the heart and not appearing contrived.
 
 As already noted, deities were understood to accept devotees' prayers and come to their aid — raising the question of whether these deities have a form like ours, and if so, what kind. Generally, every Rigvedic deity represents some aspect of nature that has taken on form and become an individual deity. Dawn (Ushas) was itself a source of wonder to the Vedic rishis, worthy of worship — natural phenomena of this kind came to be conceived as deities.
 
 Even long after deity-worship began, these natural phenomena continued to inspire wonder, awe, and reverence in the rishis — who were not mere ritual technicians; worshipping embodied deities never made them forget the underlying natural phenomena. Forgetting simply wasn't in their nature.
 
-Even Indra, Varuna, Agni, and other deities given clear form in the Vedas — and indeed all the other deities too — never became fully and completely personified beings. Reading about these deities, one can readily recognize their natural origin: which aspect of nature took this particular form. This may be called **"arrested personification"** — attributing form and personality only partially to what is inherently formless. To appreciate that this personification remains incomplete, comparison with other traditions helps: the Greeks similarly conceived natural forces as deities, but over time these became entirely human in behavior. Their chief deity, Zeus — the original cause of everything, foundation of all that is praiseworthy — is nonetheless also described (under the name "Jove") as fickle by nature, possessing the very flaws an ordinary person might have — complete humanization, in other words. The Vedic deities, by contrast, remain half in human-like form while the other half stays rooted in their original, foundational natural essence.
+Although embodied deities such as Indra, Varuna and Agni are found in the Vedas, the other deities are not fully embodied deities. Reading about these deities, one can readily recognize their natural origin: which aspect of nature took this particular form. This may be called **"arrested personification"** — attributing form and personality only partially to what is inherently formless. To appreciate that this personification remains incomplete, comparison with other traditions helps: the Greeks similarly conceived natural forces as deities, but over time these became entirely human in behavior. Their chief deity, Zeus — the original cause of everything, support of the whole world — is nonetheless also described (under the name "Jove") as fickle by nature, possessing the very flaws an ordinary person might have — complete humanization, in other words. The Vedic deities, by contrast, remain half in human-like form while the other half stays rooted in their original, foundational natural essence.
 
 
 ### Page 208
 
-The qualities described for these deities generally recur across the Vedic pantheon as a whole. But some retain only lifeless/material aspects in their personification — a pillar, a chariot, and similar things — never becoming fully animated; this occurs only in limited contexts.
+The qualities described for these deities generally recur across the Vedic pantheon as a whole. This personification is applied also to wholly lifeless things such as the door, the sacrificial post and the chariot, but not in a special degree; these occur only in some contexts.
 
 One further point deserves attention: **Henotheism**. When a particular deity is being praised, that deity alone is proclaimed supreme for the occasion — whichever deity is invoked in context receives this "foremost" treatment, shifting from deity to deity without disrespecting any other:
 
@@ -2965,7 +2965,7 @@ One further point deserves attention: **Henotheism**. When a particular deity is
 
 This kind of description appears only occasionally; since every deity receives every kind of attributed quality, determining relative rank becomes difficult — though some individual, distinguishing characteristics can still be identified for each.
 
-Deities can be grouped three ways, per Yaska: according to Nirukta-shastra, scholars declare deities to belong to earth (Agni), the mid-region/atmosphere (Vayu or Indra), and the celestial region (Surya) — other deity-names within the Veda are simply variant designations for these same three deities' functions, or else all other deity-names ultimately belong to one of these three, since each name corresponds to a specific mantra context. Yaska proceeds from here to discuss these deities' embodied forms.
+Deities can be grouped three ways, per Yaska: according to Nirukta-shastra, scholars declare deities to belong to earth (Agni), the mid-region/atmosphere (Vayu or Indra), and the celestial region (Surya) — other deity-names within the Veda are simply variant designations for these same three deities' functions, or else there may be as many deities as there are names, since each name has its own mantra. Yaska proceeds from here to discuss these deities' embodied forms.
 
 ### "अथ आकारचिन्तनं देवानाम्" — "Now, the Contemplation of the Deities' Forms"
 
@@ -2973,38 +2973,38 @@ Deities can be grouped three ways, per Yaska: according to Nirukta-shastra, scho
 
 Three views exist on this: (1) deities have human-like form; (2) they have no form; (3) they take shape in some particular manner not equivalent to conventional embodiment. This last, ambiguous possibility is closest to the "arrested personification" concept discussed earlier.
 
-Before examining each deity's individual characteristics, one point should be fixed first: considerable variation exists between the Rigveda's deities and those of the much later Puranic texts — variation that developed gradually. The regard accorded certain deities in ancient Indian thought differs markedly from what later tradition gives their counterparts: some deities holding especially important places in the Vedas have no place at all in the Puranas, or, where they do retain a place, have undergone great transformation.
+Before examining each deity's individual characteristics, one point should be fixed first: considerable variation exists between the Rigveda's deities and those of the much later Puranic texts — variation that developed gradually. The regard accorded certain deities in ancient Indian thought differs markedly from what later tradition gives their counterparts: some deities holding especially important places in the Vedas have no place at all in the Puranas, or, if they have one, it is of a very low rank.
 
 
 ### Page 209
 
-In this way, deities holding a lesser place in the Vedas gained far greater prominence in the Puranas. Among the Rigveda's principal deities — Indra, Agni, and others — their standing in the Puranas diminished considerably, with Brahma, Vishnu, and Maheshvara (Shiva) becoming foremost instead. Vishnu, given real prominence in only a few Rigveda suktas, gained far greater honor in the Puranas. Newer deities like Lakshmi, Parvati, and Kubera came to prominence in the Puranas; meanwhile, famous Vedic names — Aryama, Bhaga, Parjanya, Ushnik, and others — appear nowhere at all in the Puranas, while Savitr, Pushan, Mitra, Surya, and similar deities came to be merged and identified as one.
+In this way, deities holding a lesser place in the Vedas gained far greater prominence in the Puranas. Among the Rigveda's principal deities — Indra, Agni, and others — their standing in the Puranas diminished considerably, with Brahma, Vishnu, and Maheshvara (Shiva) becoming foremost instead. Vishnu, who stood far behind in the Rigveda, has great honor in the Puranas. Newer deities like Lakshmi, Parvati, and Kubera came to prominence in the Puranas; meanwhile, famous Vedic names — Aryama, Bhaga, Parjanya, Ukshas, and others — appear nowhere at all in the Puranas, while Savitr, Pushan, Mitra, Surya, and similar deities came to be merged and identified as one.
 
-Among the Rigveda's deity-groups, the two most important from the outset are Agni and Indra. Indra is the enemy-slayer (Vritrahan), of limitless power and strength; Agni has somewhat fewer suktas than Indra. The name "Agni" itself recurs, with small variations, across related languages: Latin *ignis*, Lithuanian *ugnis*, Slavic (Old Church Slavonic) *ognis* — all meaning fire. This Agni, in the Veda, is described as a shared phenomenon spanning deity, human, and nature — among the five elements (earth, water, light/energy, air, and space), he is described in manifold forms as a kind of energy (tejas).
+Among the Rigveda's deity-groups, the two most important from the outset are Agni and Indra. Agni is the first and Indra the second; Indra has more riks, and in the number of riks Agni takes the second place. The name "Agni" itself recurs, with small variations, across related languages: Latin *ignis*, Lithuanian *ugnis*, Slavic (Old Church Slavonic) *ognis* — all meaning fire. This Agni, in the Veda, is described as a shared phenomenon spanning deity, human, and nature — among the five elements (earth, water, light/energy, air, and space), he is described in manifold forms as a kind of energy (tejas).
 
-This Agni takes three forms: on earth, as fire; in the mid-region, as lightning; and in the celestial sphere, as the sun. Earthly fire is produced by friction, using two small sticks (called "tāyī" — VII-1-1, VII-3-9) rubbed together. Between the clouds, Indra produces Agni [as lightning], or brings it about through water. This Agni, though continuously present in offering-fires, never diminishes — though the Veda doesn't dwell on this inexhaustibility specifically, discussing instead only Agni's forms relevant to yajna and domestic use.
+This Agni takes three forms: on earth, as fire; in the mid-region, as lightning; and in the celestial sphere, as the sun. Earthly fire is produced by friction, using two small sticks (called "tāyī" — VII-1-1, VII-3-9) rubbed together. Between the clouds, Indra produces Agni [as lightning], or brings it about through water. Although there is no difference between this fire and the fire kindled daily in every house, the Veda does not take up that ordinary fire at all; only the fires connected with yajnas and the fire of the five elements are discussed.
 
 > यो अपाचीने तमसि मदन्तीः प्राचीश्चकार नृतमः शचीभिः ॥ (VII-6-4)
 > *yo apācīne tamasi madantīḥ prācīś cakāra nṛtamaḥ śacībhiḥ ||*
 >
 > "He who, most manly, by his powers turned eastward those [dawns] that were rejoicing in the westward darkness." (gloss mine and tentative; verse re-read from the better scan in the [?] pass)
 
-As soon as day breaks, one should perform the fire-rite to Agni and begin the day's duties — the day itself begins with fire. He is the eldest among all priests. The instant ghee is offered into the fire, Agni rises up in flame; his "teeth" (the arrangement of flames) are bright and pure, his head a form of radiant energy. He is the master (yajamana) of all — the master of the household. Shuchitanu, Tapurmurdha, Vishruti, Grihapati — he alone is the family's own priest (kula-purohita), performing every priestly function himself; he is not merely a priest, but a sage (jnani) too. *(the word "Kavi": VII-15-2)*
+As soon as day breaks, one should perform the fire-rite to Agni and begin the day's duties — the day itself begins with fire. He is the eldest among all priests. The instant ghee is offered into the fire, Agni rises up in flame; his "teeth" (the arrangement of flames) are bright and pure, his head a form of radiant energy. He is the master (yajamana) of all — the master of the household. Shuchidan, Tapurmurdha, Vishvati, Grihapati — he alone is the family's own priest (kula-purohita), performing every priestly function himself; he is not merely a priest, but a sage (jnani) too. *(the word "Kavi": VII-15-2)*
 
 
 ### Page 210
 
-Agni acts as a mediating messenger (duta) between gods and humans, performing this duty in yajnas — one prays to Agni to summon the other deities (*viśvasya devam ityakaḥ*, VII-16-1).
+Agni acts as a mediating messenger (duta) between gods and humans, performing this duty in yajnas — one prays to Agni to summon the other deities (*viśvasya dūtam amṛtam*, VII-16-1).
 
-In yajnas, Agni assists by driving away wicked influences, purifying even what is base (VII-6-3). Tradition holds that Angiras and other rishis first brought Agni down from heaven to earth, and that the deity Matarishvan first brought Agni to humankind — a story reflecting how lightning striking down from the sky gave rise to fire on earth, natural phenomena woven into human life and told in narrative/historical form.
+Besides helping in yajnas, Agni drives away thieves and robbers and brings about good booty (VII-6-3). Tradition holds that Angiras and other rishis first brought Agni down from heaven to earth, and that the deity Matarishvan first brought Agni to humankind — a story reflecting how lightning striking trees gave rise to fire, natural phenomena woven into human life and told in narrative/historical form.
 
 In this way, Agni performs his role in three forms — lightning, sacrificial fire, and celestial fire — retaining individuality in each without ever becoming fully personified as human; his natural, inherent character is never forgotten entirely.
 
-Agni's connection with water has its own legend. Building on this, the Mahabharata's Vana-parva (~ch. 224) and Shalya-parva (~ch. 48) tell a striking story: the gods, fearing danger, took Agni's ritual duty away and gave it to another; feeling insulted, Agni went and hid himself submerged in the ocean. Unable to conduct rituals without him, the gods searched and eventually discovered him hiding there; propitiating him, they persuaded him to resume his duties (X-51–52). The Krishna Yajurveda's Taittiriya Samhita (~2-6-3) recounts this with slight variation.
+There is a legend connected with Agni. Building on this, the Mahabharata's Vana-parva (ch. 224) and Shalya-parva (ch. 48) tell a striking story: it was Agni's task to take the oblations offered to the gods and hand them over; he found this somewhat tiresome, so he slipped away and hid in the sea. The gods could not manage without Agni. Yama discovered where Agni was hiding, and Varuna, the leader of the gods, persuaded Agni to do his work again (X. 51 and 52). The Krishna Yajurveda's Taittiriya Samhita (2-6-3) recounts this with slight variation.
 
-Following Agni, the next chief deity is **Indra** — with even more hymns dedicated to him than Agni; no other deity approaches these two in this respect. Indra pervades every aspect of nature even more thoroughly than Agni. In the Zend Avesta, Indra's name appears as "Andra," though there his status is much diminished, reduced to a demon (pishacha); yet his chief epithet, "Vritra-slayer," survives there too, as "Verethraghna."
+Following Agni, the next chief deity is **Indra** — with even more hymns dedicated to him than Agni; no other deity approaches these two in this respect. Unlike Agni, Indra cannot be said to be any particular element of nature. In the Zend Avesta, Indra's name appears as "Andra," though there his status is much diminished, reduced to a demon (pishacha); yet his chief epithet, "Vritra-slayer," survives there too, as "Verethraghna."
 
-In the Veda, Indra lacks no admirable quality. Summarized briefly: Indra was born from heaven, or from earth (VII-20-5); as soon as born, he drank Soma (VII-98-3); he is the most ancient of deities, yet ever-youthful; generous, courageous, destroyer of enemies, of infinite strength; supporter of the falling heavens; golden-armed (*hiraṇyabāhuḥ*, VII-34-4); his horses are yoked...
+In the Veda, Indra lacks no admirable quality. Summarized briefly: Indra was born from heaven, or from earth (VII-20-5); as soon as born, he drank Soma (VII-98-3); he is the most ancient of deities, yet ever-youthful; strong, active, a hero, wise, of limitless power, radiant, wearing a fine helmet; golden-armed (*hiraṇyabāhuḥ*, VII-34-4); his horses are yoked...
 
 
 ### Page 211

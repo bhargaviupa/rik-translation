@@ -3357,7 +3357,7 @@ The entries on this page are printed in the order of the columns (the right colu
 | कक्षीवान् दैर्घतमसः | *kakṣīvān dairghatamasaḥ* | 9 |
 | कण्वः घौरः | *kaṇvaḥ ghauraḥ* | 101 |
 | कतः वैश्वामित्रः | *kataḥ vaiśvāmitraḥ* | 10 |
-| कपोतः नैर्ऋतः | *kapotaḥ nairṛtaḥ* | 5 |
+| कपोतः नैर्ऋतः | *kapotaḥ nairṛtaḥ* | — |
 | करिक्रतः (वातरशनः) | *karikrataḥ (vātaraśanaḥ)* | 1 |
 | कर्णश्रुत् वासिष्ठः | *karṇaśrut vāsiṣṭhaḥ* | 3 |
 | कलिः प्रागाथः | *kaliḥ prāgāthaḥ* | 15 |
@@ -3403,13 +3403,13 @@ Right column:
 | कूर्मः गार्त्समदः | *kūrmaḥ gārtsamadaḥ* | 35 |
 | कूर्मः गृत्समदः | *kūrmaḥ gṛtsamadaḥ* | 35 |
 | कृतयशाः आङ्गिरसः | *kṛtayaśāḥ āṅgirasaḥ* | 2 |
-| कृत्नुः भार्गवः | *kṛtnuḥ bhārgavaḥ* | 9 |
+| कृत्नुः भार्गवः | *kṛtnuḥ bhārgavaḥ* | — |
 | कृशः काण्वः | *kṛśaḥ kāṇvaḥ* | 5 |
 | कृष्णः आङ्गिरसः | *kṛṣṇaḥ āṅgirasaḥ* | 53 |
 | केतुः आग्नेयः | *ketuḥ āgneyaḥ* | 5 |
 | कौत्सः — दुर्मित्रः, सुमित्रः (cross-references) | *kautsaḥ — durmitraḥ, sumitraḥ* | — |
 | कौशिकः गाथी (cross-reference) | *kauśikaḥ gāthī* | — |
-| क्षत्रमनसः | *kṣatramanasaḥ* | 1 |
+| क्षत्रमनसः | *kṣatramanasaḥ* | — |
 
 ### Page 196
 
@@ -3800,9 +3800,9 @@ Left column:
 | विप्रबन्धुः लौपायनः | *viprabandhuḥ laupāyanaḥ* | 4 |
 | विमदः ऐन्द्रः | *vimadaḥ aindraḥ* | 66 |
 | विमदः प्राजापत्यः | *vimadaḥ prājāpatyaḥ* | 66 |
-| विरूपः आङ्गिरसः | *virūpaḥ āṅgirasaḥ* | 79 |
+| विरूपः आङ्गिरसः | *virūpaḥ āṅgirasaḥ* | — |
 | विवस्वान् आदित्यः | *vivasvān ādityaḥ* | 5 |
-| विवृहः काश्यपः | *vivṛhaḥ kāśyapaḥ* | 6 |
+| विवृहः काश्यपः | *vivṛhaḥ kāśyapaḥ* | — |
 | विभ्राट् सौर्यः | *vibhrāṭ sauryaḥ* | 4 |
 | विश्वकः कार्ष्णिः | *viśvakaḥ kārṣṇiḥ* | 5 |
 | विश्वकर्मा भौवनः | *viśvakarmā bhauvanaḥ* | 14 |
@@ -3912,7 +3912,7 @@ Left column:
 | सप्तर्षयः — १ अत्रिः भौमः, २ कश्यपः मारीचः, ३ गोतमः राहूगणः, ४ जमदग्निः भार्गवः, ५ भरद्वाजः बार्हस्पत्यः, ६ वसिष्ठः मैत्रावरुणिः, ७ विश्वामित्रः गाथिनः | *saptarṣayaḥ — 1 atriḥ bhaumaḥ, 2 kaśyapaḥ mārīcaḥ, 3 gotamaḥ rāhūgaṇaḥ, 4 jamadagniḥ bhārgavaḥ, 5 bharadvājaḥ bārhaspatyaḥ, 6 vasiṣṭhaḥ maitrāvaruṇiḥ, 7 viśvāmitraḥ gāthinaḥ* | 26 |
 | सप्तगुः आङ्गिरसः | *saptaguḥ āṅgirasaḥ* | 8 |
 | सप्तवध्रिः | *saptavadhriḥ* | 18 |
-| सप्तवध्रिः आत्रेयः | *saptavadhriḥ ātreyaḥ* | 9 |
+| सप्तवध्रिः आत्रेयः | *saptavadhriḥ ātreyaḥ* | — |
 | सप्तिः वाजंभरः | *saptiḥ vājaṃbharaḥ* | 14 |
 | सप्रथः भारद्वाजः | *saprathaḥ bhāradvājaḥ* | 1 |
 | सरमा देवशुनी (ऋषिका) | *saramā deveśunī (ṛṣikā)* | 6 |
@@ -3969,8 +3969,8 @@ End of the list (left column, cross-references): सौर्यः — अभ�
 | Ṛṣi (Devanagari) | IAST | Verses |
 |---|---|---|
 | स्तंबमित्रः शार्ङ्गः | *staṃbamitraḥ śārṅgaḥ* | 2 |
-| स्वस्त्यात्रेयः | *svastyātreyaḥ* | 20 |
-| हरिमन्तः आङ्गिरसः | *harimantaḥ āṅgirasaḥ* | 9 |
+| स्वस्त्यात्रेयः | *svastyātreyaḥ* | — |
+| हरिमन्तः आङ्गिरसः | *harimantaḥ āṅgirasaḥ* | — |
 | हर्यतः प्रागाथः | *haryataḥ prāgāthaḥ* | 18 |
 | हविर्धानः आङ्गिः | *havirdhānaḥ āṅgiḥ* | 23 |
 | हिरण्यगर्भः प्राजापत्यः | *hiraṇyagarbhaḥ prājāpatyaḥ* | 10 |
