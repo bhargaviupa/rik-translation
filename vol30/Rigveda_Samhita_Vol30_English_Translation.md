@@ -40844,6 +40844,243 @@ O stones, drive away the hostile folk who cause suffering or harm in the Soma-pr
 ##### English translation
 Drive away, stones, the malevolent (folk), drive away evil intention, make our cattle a remedy (against distress).
 
+### Printed p. 1185
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रावा॑ण॒ उप॑रे॒ष्वा म॑ही॒यंते॑ स॒जोष॑सः ।  
+> वृष्णे॒ दध॑तो॒ वृष्ण्यं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रावाणः । उपरेषु । आ । महीयंते । सजोषसः ।  
+> वृष्णे । दधतः । वृष्णं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ग्रावाणो दिक्षवस्थिताः पाषाणाः सजोषसः सह प्रीयमाणाः संगताः
+> संतो वोपरेषु । उपरो नामाभिषवाय चतुर्णां ग्रावाणं मध्ये स्थापितो
+> विस्तृतः पाषाणः । प्रदेशापेक्षं बहुवचनं । उपरस्य प्रांतेषु महीयंते ।
+> प्रकाशंते । आकारः पूरणः । किं कुर्वंतः । वृष्णे वर्षित्रे सोमाय वृष्णं
+> वीर्यं दधतः प्रयच्छंतः ॥
+
+##### Gist of the bhāṣya
+
+The pressing-stones (grāvāṇaḥ) are those set in the quarters, in agreement and delighted (sajoṣasaḥ), together with the उपरेषु (*upareṣu*). The upara is the broad stone placed in the middle of the four pressing-stones for the pressing. The plural is used with regard to its regions: they shine (mahīyante) at the edges of the upara; the ā is a filler. What are they doing? They bestow manly strength (vṛṣṇyam) on the showering Soma (vṛṣṇe).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावाणः (*grāvāṇaḥ*)—the stones set in the quarters for pressing the Soma
+- सजोषसः (*sajoṣasaḥ*)—co-operating with delight
+- वृष्णे (*vṛṣṇe*)—to the Soma juice trickling from the crushed creepers
+- वृष्ट्यं (*vṛṣṭyaṃ*)—the potent (intoxicating) power
+- दधतः (*dadhataḥ*)—producing
+- उपरेषु (*upareṣu*)—on the stone in the middle
+- महीयंतॆ (*mahīyaṃtè*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+The stones used for pressing Soma, co-operating happily with one another, crush the Soma creepers on the central stone, give intoxicating power to the juices flowing out of them, and are honoured by people.
+
+##### English translation
+The stones consentient with the central pivot are honoured, giving energy to the sprinkling (juice).
+
+##### विशेषविषयगळु (Special Topics)
+
+Four stones are used when crushing the Soma creepers. Of them, the creepers are placed on the broad slab lying on the ground, and are crushed with other stones that are long, like a round stone and convenient to hold in the hands (continued on the next page).
+
+### Printed p. 1186
+Special Topics (continued): The slab in the middle is what is called उपरेषु (*upareṣu*) here. In its middle there is a slight hollow so that the juice may stand. The statement that the stones give strength to the Soma juice, which trickles and flows after being crushed with the stones, is only an exaggeration made to praise the stones; merely by being crushed with stones the juice does not gain more strength.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ग्रावा॑णः सवि॒ता नु वो॑ दे॒वः सु॑वतु॒ धर्म॑णा ।  
+> यज॑मानाय सुन्व॒ते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ग्रावाणः । सविता । नु । वः । देवः । सुवतु । धर्मणा ।  
+> यजमानाय । सुन्वते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवो दानादिगुणयुक्तः सविता हे ग्रावाणो वो युष्मान्धर्मणात्मीयेन
+> धारणेन नु क्षिप्रं प्र सुवतु । अभिषवे प्रेरयतु । किमर्थ० । सुन्वते सोमाभिषवं
+> कुर्वते याजमानाय यजमानार्थ० । तस्य यागनिष्पत्तय इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O pressing-stones, may the god Savitṛ, endowed with qualities such as generosity, quickly impel you (suvatu) by his own sustaining power (dharmaṇā) to the pressing. For what purpose? For the sake of the sacrificer who presses Soma, that is, for the accomplishment of his sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ग्रावाणः (*grāvāṇaḥ*)—O stones
+- सुन्वते (*sunvate*)—who presses the Soma juice
+- यजमानाय (*yajamānāya*)—for the benefit of the sacrificer
+- देवः (*devaḥ*)—endowed with qualities such as generosity
+- सविता (*savitā*)—the god Savitṛ
+- वः (*vaḥ*)—you
+- धर्मणा (*dharmaṇā*)—by his sustaining power
+- नु (*nu*)—quickly
+- सुवतु (*suvatu*)—may he impel in the pressing rite
+
+##### भावार्थ (Bhāvārtha)
+
+O stones, for the sake of the sacrificer who performs the sacrifice and presses Soma, may the god Savitṛ, endowed with generosity and other qualities, by his sustaining (impelling) power quickly urge you to engage in the Soma pressing.
+
+##### English translation
+May the divine Savitri quickly urge you, stones, by his sustaining (action) for the sake of the worshipper, who makes the libation.
+
+### Printed p. 1187
+## Sūkta 176 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सूनव इति चतुर्ऋचं पंचविंशं सूक्तं । ऋभुपुत्रः सूनुर्नामर्षीः ।
+> द्वितीया गायत्री शिष्टास्तिस्रोऽनुष्टुभः । आद्यर्भुदेवत्या शिष्टा आग्नेय्यः । तथा
+> चानुक्रांतं । प्र सूनवः सूनुरार्भव आग्नेयमानुष्टुभं द्वितीयं गायत्र्याद्यार्भवीति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र सूनव (*pra sūnava*) has four Ṛks and is the twenty-fifth. The seer is Sūnu, son of Ṛbhu. The second verse is Gāyatrī, the other three Anuṣṭubh. The first is addressed to the Ṛbhus, the rest to Agni. So the Anukramaṇī: प्र सूनवः सूनुरार्भव आग्नेयमानुष्टुभं द्वितीयं गायत्र्याद्यार्भवीति॥ (*pra sūnavaḥ sūnurārbhava āgneyamānuṣṭubhaṃ dvitīyaṃ gāyatryādyārbhavīti‖*) The application (viniyoga) has been stated already.
+
+Anuvāda: This sūkta प्र सूनवः (*pra sūnavaḥ*) is the seventy-fifth sūkta in the twelfth anuvāka. **NOTE** It has four Ṛks. Its seer is Sūnu, son of Ṛbhu. The first Ṛk is addressed to the Ṛbhus, the remaining Ṛks to Agni. The second Ṛk is in Gāyatrī metre, the rest in Anuṣṭubh. In the Anukramaṇī it is said: प्र सूनवः सूनुरार्भव आग्नेयमानुष्टुभं द्वितीया गायत्र्याद्यार्भवी (*pra sūnavaḥ sūnurārbhava āgneyamānuṣṭubhaṃ dvitīyā gāyatryādyārbhavī*). The viniyoga has been stated earlier.
+
+Particulars: Maṇḍala 10; Anuvāka 12; Sūkta 176; Aṣṭaka 8; Adhyāya 8; Varga 34. Number of Ṛks in the sūkta: 4. Ṛṣi: Sūnu Ārbhava. Devatā: 1. Ṛbhus; 2–4. Agni. Metre: 1, 3, 4. Anuṣṭubh; 2. Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सू॒नव॑ ऋभू॒णां बृ॒हन्न॑वंत वृ॒जना॑ ।  
+> क्षामा॒ ये वि॒श्वधा॑य॒सोऽश्न॑स्थे॒नुं न मा॒तरं॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सूनवः । ऋभूणां । बृहत् । नवंत । वृजना ।  
+> क्षाम । ये । विश्वधायसः । अश्नन् । धेनुं । न । मातरं ॥ १ ॥
+
+### Printed p. 1188
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूनव एतत्संज्ञा ऋभूणां । ऋभुर्विभ्वा वाज इति त्रयाणामपि प्रथमेन
+> व्यपदेशः । तेषां पुत्रा बृहत्प्रभूतं वृजना । संग्रामनामैतत् । वृजनं संग्रामं
+> प्र नवंत । नवतिर्गतिकर्मा । प्रगच्छंति । प्रकर्षेण गच्छंति । प्रकृष्टगमनेन जयो
+> लक्ष्यते । तत्र शत्रूज्जयंतीत्यर्थः । सूनुर्नामर्षीरात्मानमेव परोक्षेण निरदिशत् । एकस्मिन्नपि पूजार्थं बहुवचनं ' य ऋभवो विश्वधायसो विश्वस्य धारकाः
+> क्षाम भूमिमश्नन् व्याप्नुवन् ॥ अशू व्याप्तौ । व्यत्ययेन श्ना ॥ धेनुं न । धेनुः
+> प्रीणयित्रि गौः । तामिव तेषामृभूणामित्यन्वयः । यद्वा । सूर्यरश्मयोऽप्यभव उच्यंते । य उरु भासमानाः सूर्यरश्मयो विश्वधायसो विश्वं सर्व० रसं
+> धयंतः पिबंतः । यद्वा! वृष्टादिप्रदानेन सर्वस्य धारकाः। एवंभूताः संतः क्षाम
+> भूमिमश्नन् अभुंजत तदीयं सर्व० रसमपिबन् । तत्र दृष्टांतः । मातरं
+> जननीं धेनुं पयस्विनीं गां यथा वत्सः पिबति तथा । य ऋभवोऽश्नंति तेषामृभूणामित्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The Sūnus are the sons of the Ṛbhus; "Ṛbhu, Vibhvan, Vāja"—the three are designated by the first name. Their sons advance (pra navanta) to great (bṛhat) battle (vṛjanā, a name for battle); navati is a verb of motion; going forward means victory is indicated, i.e. they conquer enemies there. The seer named Sūnu indicates himself indirectly; the plural is for honour though he is one. The Ṛbhus who are sustainers of all (viśvadhāyasaḥ) have pervaded (aśnan) the earth (kṣāma); aśū is in the sense of pervading. "Like a milch cow (dhenum na)": a cow that gratifies; as a calf the mother, the construction is with those Ṛbhus. Alternatively, the Ṛbhus are the rays of the sun: the shining rays that drink all (viśva) the sap, or that sustain all by giving rain and so on; being so, they enjoyed the earth, drank all its sap, as a calf drinks its mother, the milch cow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Ṛbhus
+- विश्वधायसः (*viśvadhāyasaḥ*)—sustaining and nourishing all
+- मातरं (*mātaraṃ*)—the mother
+- धेनुंन (*dhenuṃna*)—as a calf approaches the cow
+- क्षाम (*kṣāma*)—the earth
+- अश्नन् (*aśnan*)—pervade
+- ऋभूणां (*ṛbhūṇāṃ*)—of the three Ṛbhu deities, Ṛbhu, Vibhu and Vāja
+- सूनवः (*sūnavaḥ*)—the sons, called Sūnus
+- बृहत् (*bṛhat*)—great
+- वृजना (*vṛjanā*)—for battle
+- प्र नवंत (*pra navaṃta*)—go eagerly
+- Alternatively: मातरं (*mātaraṃ*)—its mother; धेनुं न (*dhenuṃ na*)—as a calf drinks the cow's milk; ये ऋभूणां सूनवः (*ye ṛbhūṇāṃ sūnavaḥ*)—the shining sun-rays that drink all sap, i.e. water, or that sustain and nourish all by giving rain etc.; क्षाम (*kṣāma*)—the water on the earth; अश्नन् (*aśnan*)—drink, i.e. draw up and suck; such sons of the Ṛbhus, the Sūnus, go to battle.
+
+##### भावार्थ (Bhāvārtha)
+
+As a calf approaches its mother cow, the Ṛbhus, who sustain and nourish all, pervade the earth everywhere. Or, as a calf drinks the milk of its mother cow, the shining rays of the sun, sustaining and nourishing the whole world by giving rain and so on, draw up and drink all the watery sap on the earth. The sons of such Ṛbhus, called Sūnus, set out eagerly to the battlefield for battle.
+
+### Printed p. 1189
+
+##### English translation
+The Sunus, (the sons) of the Ribhus, advance boldly to battle ; supporters of all, they have spread over the earth as (a calf) over the mother cow.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र दे॒वं दे॒व्या धि॒या भर॑ता जा॒तवे॑दसं ।  
+> ह॒व्या नो॑ वक्षदानु॒षक् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । देवं । देव्या । धिया । भरत । जातवेदसं ।  
+> हव्या । नः । वक्षत् । आनुषक् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निप्रणयने प्र देवमिति तृचोऽनुवक्तव्यः । सूत्रितं च । प्रेषितोऽग्निप्रणयनीयाः प्रतिपद्यते प्र देवं देव्या धियेति तिस्रः । आ. २-१७ । इति ॥
+> हे ऋत्विग्यजमानाः देवं दानादिगुणयुक्तं जातवेदसं जातानां वेदितारं
+> जातप्रज्ञं जातधनं वेममग्निं प्र भरत । प्रकर्षेण हरत । यद्वा! प्रांचं नयत ।
+> केन साधनेनेति तदाह । देव्या दीप्तया धिया प्रज्ञया कर्मणा वा । यद्वा! एषा
+> सहयोगे तृतीया । देव्या धिया युक्तं । किं प्रयोजनमिति चेत् । नोऽस्माकं
+> हव्या हव्यानि हवींष्ट्रानुषगानुपूर्व्यानुद्रमेण वक्षत् । अयमग्निर्वहेत् ।
+> देवान्प्रापयेत् ॥ वहेर्लॆटि सिब्बहुलमिति सिप् ॥
+
+##### Gist of the bhāṣya
+
+In the Agni-carrying rite (agnipraṇayana) the triplet प्र देवं (*pra devaṃ*) is to be recited; it is stated in the sūtra: प्रेषितोऽग्निप्रणयनीयाः प्रतिपद्यते प्र देवं देव्या धियेति तिस्रः । आ. २-१७ । (*preṣito 'gnipraṇayanīyāḥ pratipadyate pra devaṃ devyā dhiyeti tisraḥ | ā. 2-17 |*) [Ā. Sū. 2-17]. O priests and sacrificers, bring forth (pra bharata) the god Agni, endowed with generosity and the like, Jātavedas, knower of what is born, possessed of wisdom and wealth; or lead him forward. By what means? By divine (shining) wisdom (dhiyā) or rite; or the instrumental is in the sense of accompaniment: accompanied by divine wisdom. For what purpose? May he carry (vakṣat) our oblations in order, in succession, and convey them to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests and sacrificers)
+- देवं (*devaṃ*)—endowed with generosity etc., or shining
+- जातवेदसं (*jātavedasaṃ*)—this omniscient Agni
+- देव्या (*devyā*)—shining
+- धिया (*dhiyā*)—by the rite of agnipraṇayana etc. or by wisdom (that is, with praise)
+- प्र भरत (*pra bharata*)—carry and bring to the northern altar
+- (this Agni) नः (*naḥ*)—our
+- हव्या (*havyā*)—oblations
+- आनुषक् (*ānuṣak*)—in order
+- वक्षत् (*vakṣat*)—may he carry to the gods
+
+### Printed p. 1190
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, bring this Agni, who has generosity and other qualities or is shining, who knows all or possesses all wealth, to the northern altar by the rite of agnipraṇayana or with praise. May this Agni carry the oblations we offer to the deities intended.
+
+##### English translation
+Bring forward the divine Jatavedas by means of divine wisdom ; may he bear our oblations (to the gods) in succession.
+
+##### विशेषविषयगळु (Special Topics)
+
+That the three Ṛks beginning प्र देवः (*pra devaḥ*) are to be recited in the agnipraṇayana rite is explained by the Āśvalāyana Śrauta Sūtra: प्रेषितोऽग्निप्रणयनीयाः प्रतिपद्यते प्र देवं देव्या धियेति तिस्रः (*preṣito 'gnipraṇayanīyāḥ pratipadyate pra devaṃ devyā dhiyeti tisraḥ*) (Ā. 2-17).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमु॒ष्य प्र दे॑व॒युर्होता॑ य॒ज्ञाय॑ नीयते ।  
+> रथो॒ न योर॒भीवृ॑तो॒ घृणी॑नाइच्छीतति॒ त्मना॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । ऊं इति । स्यः । प्र । देवयुः । होता । यज्ञाय । नीयते ।  
+> रथः । न । योः । अभिवृतः । फृणिवान् । चेतति । त्मना ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमु अयमेव स्य सोग्निर्देवयुर्देवान्यष्टुमिच्छन्भवति ॥ देवशब्दात्क्यचि न छंदस्य पुत्रेतीत्वदीर्घयोः प्रतिषेधः ॥ अयमेव होता देवानामाह्वाता। अयमेव यज्ञाय यागार्थं प्रणीयते । आहवनीयदेशं प्रति प्रकर्षण
+> नीयते । अपि च रथो रंहणशीलः सूर्यो रथवान्वा ॥ छांदसो मत्वर्थीयस्य
+> लोपः ।' स यधा घृणीनान्वीप्तिमान् तद्वद्दीपो योर्मिश्रयिता हविषां देवैः
+> संगमयिता ॥ यौतेरन्येभ्योऽपि दृश्यंत इति विच् ॥ अभीवृत ऋत्विग्यजमानैरा-
+
+##### Gist of the bhāṣya
+
+अयमु (*ayamu*): this very Agni, स्य (*sya*), is devayu, wishing to sacrifice to the gods. This very one is the hotṛ, the caller of the gods; he is led forward (nīyate) for the sacrifice, to the Āhavanīya place. Further, रथः (*rathaḥ*) is the swift sun, or one who has a chariot. Like him, Agni is ghṛṇīvān, radiant; योः (*yoḥ*) the mixer, who brings the oblations together with the gods. अभीवृत (*abhīvṛta*) ….
+
 ---
 
-**Progress note:** Done through printed p. 1184. pp. 1179-1184 (batch API)
+**Progress note:** Done through printed p. 1190. pp. 1185-1190 (batch API)
