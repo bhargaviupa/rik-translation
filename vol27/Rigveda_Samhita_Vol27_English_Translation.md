@@ -22431,6 +22431,269 @@ The धर्माणः (*dharmāṇaḥ*), the Ṛtviks who uphold the sacrif
 - अधि धिषे (*adhi dhiṣe*)—you possess
 - विनक्षसे (*vinakṣase*)—you are great **NOTE**
 
+### Printed p. 650
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as the streams of rain serve the earth, the sacrificial priests, holders of the sacrifice, serve you alone with their oblation-ladles. For the manifold satisfaction of you and of the other gods, you possess forms of black colour and of bright white colour, and all splendours. You are a great one.
+
+##### English translation
+The establishers (of the rite) worship you with their ladles (filled with the oblation), like (earth) sprinkling (showers); you sustain exceedingly black forms and white and all beauties for your exhilaration; you are mighty.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यम॑ग्ने॒ मन्य॑से र॒यिं सह॑सावन्नमर्त्य ।  
+> तमा नो॒ वाज॑सातये॒ वि वो॒ मदे॑ य॒ज्ञेषु॑ चि॒त्रमा भ॑रा॒  ॑
+> विवक्षसे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । अग्ने । मन्यसे । रयिं । सहसावन् । अमर्त्य ।  
+> तं । आ । नः । वाजसातये । वि । वः । मदे । यज्ञेषु । चित्रं । आ । भर । विवक्षसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अमर्त्यामरणधर्मन् सहसावन्वलवन् एवंभूत हे अग्ने त्वं यं रयिं
+> मन्यसे सर्वेषु धनेषु यद्धनं वरिष्ठमिति जानासि चित्रं चायनीयं तं रयिं
+> नोऽस्माकं वाजसातयेऽन्नलाभाया भर । आहर । प्रयच्छ । किमर्थं । वो
+> युष्माकं सर्वेषां देवानां यज्ञेषु विमदे विविधसोमादिहविर्जन्यमदनिमित्ते । यागेषु नानाप्रकारैर्हविभिर्युष्माकं तर्पणायेत्यर्थः । त्वमपि
+> विवक्षसे । महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, immortal and mighty: whatever wealth you consider the best among all riches, that wondrous, desirable wealth, bring to us, give us, for the gaining of food. For what purpose? In the sacrifices of all of you gods, on occasions of विमदे (*vimade*), the delight arising from the various oblations such as Soma; that is, to satisfy you with oblations of many kinds. You too are विवक्षसे (*vivakṣase*): you are great.
+
+### Printed p. 651
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्य (*amartya*)—one free from mortality
+- सहसावन् (*sahasāvan*)—one endowed with great strength
+- अग्ने (*agne*)—O Agni
+- यं रयिं (*yaṃ rayiṃ*)—which wealth
+- मन्यसे (*manyase*)—you consider the best
+- चित्रं (*citraṃ*)—attractive
+- तं (*taṃ*)—that wealth
+- नः (*naḥ*)—our
+- वाजसातये (*vājasātaye*)—for the gaining of food
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—for the manifold satisfaction
+- यज्ञेषु (*yajñeṣu*)—in our sacrifices
+- आ भर (*ā bhara*)—bring and fill
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, free from mortality and exceedingly mighty, the wealth that you consider the best, that attractive wealth, fill into our sacrifices, for our gain of food and for your manifold satisfaction. You are a great one.
+
+##### English translation
+Powerful and immortal Agni, bring to us, for our sustenance, the precious wealth which you think best; (bring it) for your exhilaration at the sacrifices; you are mighty.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्जा॒तो अथ॑र्वणा वि॒दद्विश्वा॑नि॒ काव्या॑ ।  
+> भुव॑द्दू॒ तो वि॒वस्व॑तो॒ वि वो॒ मदे॑ प्रि॒यो य॒मस्य॒ काम्यो॒  ॑
+> विवक्षसे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । जातः । अथर्वणा । विदत् । विश्वानि । काव्या ।  
+> भुवत् । दूतः । विवस्वतः । वि । वः । मदे । प्रियः । यमस्य । काम्यः । विवक्षसे ॥५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथर्वणैतन्नाम्नर्षिणा जातो जनितोऽग्निः । कथं अवगम्यते । त्वामग्ने
+> पुष्करादध्यर्थर्वा निरमंथत । ऋ. ६-१६-१३ । इति मंत्रांतरात् । विश्वानि समस्तानि
+
+##### Gist of the bhāṣya
+
+Agni was born, brought forth, by the ṛṣi named Atharvan. How is this known? From another mantra: त्वामग्ने पुष्करादध्यर्थर्वा निरमंथत (*tvāmagne puṣkarādadhyartharvā niramaṃthata*) (Ṛ. Saṃ. 6-16-13). विश्वानि (*viśvāni*) means all;
+
+### Printed p. 652
+
+> काव्या काव्यानि स्तोतृकर्माणि विदत् । वेत्ति ! विवस्वतो यजमानस्य दूतो
+> देवानामाह्वानार्थं भुवत् । भवति । किंच यमस्य संयंतुर्यजमानस्य प्रिय
+> इष्टः सन् काम्यः कमनीयः प्रार्थनीयो भवतीत्यर्थः । शिष्टं स्पष्टं ॥
+
+##### Gist of the bhāṣya
+
+he knows all the praise-works (काव्या (*kāvyā*)) of the praisers. He becomes the messenger of Vivasvat, the sacrificer, to summon the gods. Further, being dear to Yama, the controller, that is, the sacrificer, he becomes desirable, to be prayed for. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अथर्वणा (*atharvaṇā*)—by the ṛṣi Atharvan
+- जातः (*jātaḥ*)—kindled
+- अग्निः (*agniḥ*)—Agni
+- विश्वानि (*viśvāni*)—all
+- काव्या (*kāvyā*)—praise-works
+- विदत् (*vidat*)—knows
+- विवस्वतः (*vivasvataḥ*)—for the sake of the sacrificer
+- दूतः (*dūtaḥ*)—as divine messenger
+- भुवत् (*bhuvat*)—has become
+- यमस्य (*yamasya*)—to the sacrificer
+- प्रियः (*priyaḥ*)—beloved
+- काम्यः (*kāmyaḥ*)—and prayed for (O Agni)
+- वः (*vaḥ*)—of you and the other gods
+- वि मदे (*vi made*)—for the special satisfaction
+- विवक्षसे (*vivakṣase*)—you shine with greatness
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, kindled by the ṛṣi Atharvan, knows all the praise-works. He is the divine messenger for the sacrificer. He is beloved of the sacrificer and prayed for. O Agni, for the special satisfaction of you and the other gods, you shine by your greatness.
+
+##### English translation
+Agni, generated by Atharvan, is cognizant of all praises ; he is the messenger of Vivaswat, the beloved friend of Yama, for your exhilaration; you are mighty.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां य॒ज्ञेष्वी॑ळ॒तेऽग्ने॑ प्रय॒त्य॑ध्व॒रे ।  
+> त्वं वसू॑नि॒ काम्या॒ वि वो॒ मदे॒ विश्वा॑ दधासि दा॒शुषे॒ विव॑क्षसे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । यज्ञेषु । ईळते । अग्ने । प्रयति । अध्वरे ।  
+> त्वं । वसूनि । काम्या । वि । वः । मदे।विश्वा । दधासि । दाशुषे । विवक्षसे ॥ ६ ॥
+
+### Printed p. 653
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां प्रयति प्रकर्षेण गच्छति प्रवर्तमानेऽध्वरे यागे यज्ञेषु
+> यजनीयेषु हविःश्वासन्नेषु सत्स्वीळते । ऋत्विग्यजमानाः स्तुवंति । अपि च हे
+> अग्ने त्वं विश्वा विश्वानि काम्या काम्यानि कमनीयानि वसूनि धनानि दाशुषे हविर्दत्तवते यजमानाय विमदे सोमादिहविर्जन्यतृप्तौ सत्यां दधासि । प्रयच्छसि ।
+> आतः कारणाद्विवक्षसे । त्वं महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, when the rite proceeds well, when the offerings are near at hand in the sacrifices (यज्ञेषु (*yajñeṣu*), in the things to be worshipped), the priests and sacrificers praise you. Moreover, O Agni, you give all desirable riches to the sacrificer who has given an oblation, when there is satisfaction (विमदे (*vimade*)) arising from oblations such as Soma. For that reason विवक्षसे (*vivakṣase*): you are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वां (*tvāṃ*)—you
+- प्रयति (*prayati*)—in the well-proceeding
+- अध्वरे (*adhvare*)—sacrifice
+- यज्ञेषु (*yajñeṣu*)—when offering venerable oblations
+- ईळते (*īḷate*)—priests and others praise
+- त्वं (*tvaṃ*)—you
+- वः (*vaḥ*)—of you and the gods
+- वि मदे (*vi made*)—at the time of great joy
+- दाशुषे (*dāśuṣe*)—to the sacrificer
+- काम्या (*kāmyā*)—desired
+- विश्वा वसूनि (*viśvā vasūni*)—all riches
+- दधासि (*dadhāsi*)—you give
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in this well-proceeding sacrifice, when venerable oblations are offered, the priests and others praise you. When you and the other gods are satisfied, you give the sacrificer all the riches he desires. You are a great one.
+
+##### English translation
+The (worshipper) glorifies you, Agni, at sacrifices, when the solemnity is being celebrated; you grant in your exhilaration all desirable treasures to the donor (of the oblation); you are mighty.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां य॒ज्ञेष्टृ॒त्विजं॒ चारु॑मग्ने॒ नि षे॑दिरे ।  
+> घृ॒तप्र॑तीकं॒ मनु॑षो॒ वि वो॒ मदे॑ शु॒क्रं चेति॑ष्ठम॒क्षभि॒र्विव॑क्षसे ॥ ७ ॥
+
+### Printed p. 654
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्वां । यज्ञेषु । ऋत्विजं । चारुं । अग्ने । नि । सेदिरे ।  
+> घृतप्रतीकं । मनुषः । वि । वः । मदे । शुक्रं । चेतिष्ठं । अक्षभिः । विवक्षसे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां मनुष्या यजमाना यज्ञेषु यागेषु नि षेदिरे । नियमेन स्थापयंति । कीदृशं । ऋत्विजं होतृनामकं चारुं रमणीयं धृतप्रतीकमाज्जाहुतिपूर्णमुखं शुक्रं ज्वलंतमक्षभिर्वाप्तैस्तेजोभिश्चेतिष्ठमतिशयेन
+> ज्ञातारं । किमर्थं । वि वो मदे तव सोमादिहविर्जन्यविविधतृप्त्यर्थं । यस्मादेवं तस्मादिवक्षसे । महान्भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, men, the sacrificers, establish you in the sacrifices, firmly. What kind of Agni? The priest named Hotṛ, graceful, with a face full of poured ghee, radiant, shining, and with his obtained splendours (अक्षभिः (*akṣabhiḥ*)) the most knowing. For what? For your manifold satisfaction arising from oblations such as Soma. Since it is so, विवक्षसे (*vivakṣase*): you are great.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ऋत्विजं (*ṛtvijaṃ*)—one in the form of the Hotṛ
+- चारुं (*cāruṃ*)—attractive
+- घृतप्रतीकं (*ghṛtapratīkaṃ*)—one whose face is full of ghee
+- शुक्रं (*śukraṃ*)—radiant
+- अक्षभिः (*akṣabhiḥ*)—with full splendours
+- चेतिष्ठं (*cetiṣṭhaṃ*)—one of exceeding intelligence
+- त्वां (*tvāṃ*)—you
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- वः (*vaḥ*)—of you and the other gods
+- वि मदे (*vi made*)—for the exceeding satisfaction
+- मनुषः (*manuṣaḥ*)—the sacrificers
+- निषेदिरे (*niṣedire*)—establish
+- विवक्षसे (*vivakṣase*)—you are a great one
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you who are in the form of the Hotṛ, of attractive form, with a face full of ghee, radiant, endowed with intelligence together with venerable splendours: the sacrificers establish you in the sacrifices for the exceeding satisfaction of you and the other gods. You are a great one.
+
+##### English translation
+The men establish you, Agni, at sacrifices, the ministrant priest, graceful, whose face shines with butter, radiant, most intelligent with your eyes, for your exhilaration ; (hence) you are mighty.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ शु॒क्रेण॑ शो॒चिषो॒रु प्र॑थयसे बृ॒हत् ।
+
+### Printed p. 655
+
+> अभिक्रंदन्वृषायसे वि वो मदे गर्भं दधासि जामिसु  
+> विवक्षसे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आग्ने । शुक्रेण । शोचिषा । उरु । प्रथयसे । बृहत् ।  
+> अभिक्रंदन् । वृषयसे । वि । वः । मदे । गर्भं । दधासि । जामिसु । विवक्ष से ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने बृहन्महांस्त्वं शुक्रेण दीप्तेन शोचिषा तेजसोरु प्रथयसे ।
+> विस्तीर्णं यथा भवति तथा प्रख्यातो भवसि : किंचाभिक्रदन्नाभिमुख्येन युद्धार्थं
+> शत्रूनाह्वयन् वृषायसे । वृष इवाचरसि। युद्धकाले दर्पितवृष इव रोरुववद्भवसीत्यर्थः । त्वं माध्यमिकः सञ्जामिषु भगिनीभूतास्वोषधीषु गर्भं बीजलक्षणं दधासि । वृष्टिद्वारेण धारयसि । एकस्मात्प्रजापतेः सकाशादुद्भूतत्वादग्योषध्योर्जामित्वमुचर्यते । कस्मिन्सति । वि वो मदे तव विविधसोमादिहविर्जन्यमदे संजाते सति । यस्मादेवं कृतवानसि तस्मात्त्वं विवक्षसे । महान्भवसि ॥
+> विवक्षस इति महन्नाम वक्तेर्वा वहतेर्वा सनंतस्य रूपमिति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you who are great, by your bright, shining lustre you become renowned far and wide. Further, bellowing, calling the enemies forward to battle, you act like a bull; that is, in time of battle you roar like a proud bull. You, being the one of the middle region, place the germ, of the nature of seed, in the plants that are as sisters (जामिषु (*jāmiṣu*)); you bear it by way of rain. The kinship (जामित्व (*jāmitva*)) of Agni and the plants is spoken of because both arose from one Prajāpati. When? When your delight arising from the various oblations such as Soma has come about. Since you have done so, विवक्षसे (*vivakṣase*): you are great. Nirukta-type remark: विवक्षस इति महन्नाम वक्तेर्वा वहतेर्वा सनंतस्य रूपमिति॥ (*vivakṣasa iti mahannāma vaktervā vahatervā sanaṃtasya rūpamiti‖*)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- बृहत् (*bṛhat*)—you of great form
+- शुक्रेण (*śukreṇa*)—with shining
+- शोचिषा (*śociṣā*)—lustre
+- उरु (*uru*)—exceedingly
+- प्रथयसे (*prathayase*)—you are renowned
+- अभिक्रंदन् (*abhikraṃdan*)—making a sound
+- वृषायसे (*vṛṣāyase*)—you rush forward like a bull
+- वः (*vaḥ*)—your
+- वि मदे (*vi made*)—at the time of great joy
+- जामिषु (*jāmiṣu*)—in the plants that are your kin
+- गर्भं (*garbhaṃ*)—the germ of the nature of seed
+- दधासि (*dadhāsi*)—you place
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you of great form are exceedingly renowned by your shining lustre. You rush forward like a bull, making a sound. When great joy has arisen in you, you place the germ of the nature of seed in the plants that are your kin. You are a great one.
+
+##### English translation
+Agni, you, the mighty one, are known far and wide by your radiant lustre; bellowing, you rush like a bull, you impregnate the sister (plants) in your exhilaration; you are mighty.
+
 ---
 
-**Progress note:** Done through printed p. 649. pp. 644-649 (batch API)
+**Progress note:** Done through printed p. 655. pp. 650-655 (batch API)
