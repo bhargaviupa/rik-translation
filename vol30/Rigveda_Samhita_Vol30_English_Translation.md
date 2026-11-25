@@ -41975,6 +41975,203 @@ When the oblation called dadhigharma is offered, this Ṛk श्रातं �
 
 This verse, श्रातं मन्ये (*śrātaṃ manye*), is the yājyā for the same dadhigharma. It is prescribed: श्रातं मन्य ऊधनि श्रातमग्नौ सुश्रातं मन्ये तदृतं नवीयः। माध्यंदिनस्य सवनस्य दध्नः पिबेंद्र वज्रिन्पुरुकृज्जुषाणः ॥ ३ ॥ श्रातं । मन्ये । ऊधनि । श्रातं । अग्नौ । सुश्रातं । मन्ये । तत् । ऋतं । नवीयः। माध्यंदिनस्य । सवनस्य । दध्नः । पिब । इंद्र । वज्रिन् । पुरुकृत् । जुषाणः ॥ ३ ॥ तस्यैव दधिघर्मस्य श्रातं मन्य इत्येषा याज्या । सूत्र्यते हि । श्रातं मन्य ऊधनि श्रातमग्नाविति यजति । (*śrātaṃ manya ūdhani śrātamagnau suśrātaṃ manye tadṛtaṃ navīyaḥ| mādhyaṃdinasya savanasya dadhnaḥ pibeṃdra vajrinpurukṛjjuṣāṇaḥ ‖ 3 ‖ śrātaṃ | manye | ūdhani | śrātaṃ | agnau | suśrātaṃ | manye | tat | ṛtaṃ | navīyaḥ| mādhyaṃdinasya | savanasya | dadhnaḥ | piba | iṃdra | vajrin | purukṛt | juṣāṇaḥ ‖ 3 ‖ tasyaiva dadhigharmasya śrātaṃ manya ityeṣā yājyā | sūtryate hi | śrātaṃ manya ūdhani śrātamagnāviti yajati |*) (Ā. 5-13). I think this oblation is cooked in the form of milk in the cow's udder; and again, the milk, drawn, is cooked in the fire. Now, in the state of curds, it is cooked in the fire; therefore I think it well cooked. Hence this oblation is true and newer, fresher. O Indra, wielder of the thunderbolt, doer of many deeds, being pleased, drink the dadhigharma oblation belonging to the midday pressing of Soma; the genitive is in the sense of the object.
 
+### Printed p. 1222
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊधनि (*ūdhani*)—in the udder of the cow itself, in the form of milk (this oblation called dadhigharma)
+- श्रातं (*śrātaṃ*)—as cooked
+- मन्ये (*manye*)—I consider (and that milked milk)
+- अग्नौ (*agnau*)—in the fire too
+- श्रातं (*śrātaṃ*)—is cooked (therefore it)
+- सुश्रातं (*suśrātaṃ*)—as well cooked
+- मन्ये (*manye*)—I consider (therefore this oblation)
+- ऋतं (*ṛtaṃ*)—being true in nature, or fit for the sacrifice
+- नवीयः (*navīyaḥ*)—and new
+- वज्रिन् (*vajrin*)—O wielder of the thunderbolt
+- पुरुकृत् (*purukṛt*)—and doer of many bold deeds
+- इंद्र (*iṃdra*)—O Indra
+- जुषाणः (*juṣāṇaḥ*)—you, glad of heart
+- माध्यंदिनस्य (*mādhyaṃdinasya*)—performed at midday
+- सवनस्य (*savanasya*)—belonging to the midday pressing
+- दध्नः (*dadhnaḥ*)—the oblation called dadhigharma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+I consider that this oblation called dadhigharma was cooked in the udder of the cow itself, in the form of milk; and that afterwards the milk (or curd) that was milked has been well cooked in the fire too. Therefore this oblation is fit for the sacrifice and fresh. O Indra, wielder of the thunderbolt, doer of many bold deeds, being pleased, drink this oblation called dadhigharma at the time of the midday pressing.
+
+##### English translation
+I consider (the oblation) as cooked in the udder (of the cow), I consider it cooked in the fire, I consider this pure and fresh (oblation) well-cooked ; Indra wielder of the thunderbolt, doer of many deeds, drink well pleased of the curd of the noon-day sacrifice.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the dadhigharma offering spoken of earlier, this Ṛk श्रातं मन्ये (*śrātaṃ manye*) is to be recited as the yājyā mantra. This is set out by the Āśvalāyana Śrauta Sūtra aphorism श्रातं मन्य ऊधनि श्रातमग्नाविति यजति (*śrātaṃ manya ūdhani śrātamagnāviti yajati*) (Ā. 5-13).
+
+## Sūkta 180 (Maṇḍala 10)
+The one hundred and eightieth sūkta.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रससाहिष इति तृचमेकोनत्रिंशं सूक्तमिंद्रपुत्रस्य जयस्यार्षं त्रैष्टुभ-
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रससाहिष (*prasasāhiṣa*) is a triplet of three Ṛks, the twenty-ninth sūkta. Its seer is Jaya, son of Indra; its metre is Triṣṭubh.
+
+### Printed p. 1223
+
+> मैंद्रं । तथा चानुक्रांतं । प्र ससाहिषे जय ऐंद्र इति ॥ गतः सूक्तविनियोगः ॥
+> दर्श इंद्रस्य हविषः प्र ससाहिष इत्येषा याज्या । सूत्रितं च । प्र ससाहिसे पुरुहूत
+> शत्रून् महा इंद्रो य ओजसा । आ. १-६ । इति ॥ एकादशिन ऐंद्रपशौ पुरोडाशस्येयमेव याज्या । सूत्रितं च । प्र ससाहिषे पुरुहूतॆ शत्रून्स्वस्तये वाजिभिश्च
+> प्रणेतः । आ. ३-७ । इति ॥ देवसुवां हविषींद्रस्येयमेवानुवाक्या । सूत्रितं च ।
+> प्र ससाहिषे पुरुहूत शत्रून्भवस्त्वमिंद्र ब्रह्मणा महान् । आ. ४-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta is addressed to Indra. So the Anukramaṇī says: प्र ससाहिषे जय ऐंद्र इति (*pra sasāhiṣe jaya aiṃdra iti*). The sūkta's viniyoga is already given. In the Darśa sacrifice, in the oblation to Indra, this Ṛk प्र ससाहिषे (*pra sasāhiṣe*) is the yājyā; the sūtra: प्र ससाहिसे पुरुहूत शत्रून् महा इंद्रो य ओजसा (*pra sasāhise puruhūta śatrūn mahā iṃdro ya ojasā*) (Ā. 1-6). In the Ekādaśin, in the animal offering to Indra, this same Ṛk is the yājyā for the purodāśa; the sūtra: प्र ससाहिषे पुरुहूतॆ शत्रून्स्वस्तये वाजिभिश्च प्रणेतः (*pra sasāhiṣe puruhūtè śatrūnsvastaye vājibhiśca praṇetaḥ*) (Ā. 3-7). In the Devasū oblations to Indra this same Ṛk is the anuvākyā; the sūtra: प्र ससाहिषे पुरुहूत शत्रून्भवस्त्वमिंद्र ब्रह्मणा महान् (*pra sasāhiṣe puruhūta śatrūnbhavastvamiṃdra brahmaṇā mahān*) (Ā. 4-11).
+
+##### Anuvāda
+
+This sūkta beginning प्र ससाहिषे (*pra sasāhiṣe*) is the twenty-ninth sūkta in the twelfth anuvāka. It has three Ṛks. The seer of this sūkta is Jaya, son of Indra; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇī says: प्र ससाहिषे जय ऐंद्रः (*pra sasāhiṣe jaya aiṃdraḥ*). The viniyoga of the sūkta has been stated earlier. In the Darśeṣṭi, when the oblation is offered to Indra, this Ṛk प्र ससाहिषे (*pra sasāhiṣe*) is to be recited as the yājyā mantra, as set out by the Āśvalāyana Śrauta Sūtra aphorism प्र ससाहिषे पुरुहूत शत्रून् महा इंद्रो य ओजसा (*pra sasāhiṣe puruhūta śatrūn mahā iṃdro ya ojasā*) (Ā. 1-6). In the iṣṭi called Ekādaśin also, in the animal offering made to Indra, when the purodāśa is offered, this same Ṛk is to be recited as the yājyā mantra, as set out by the aphorism प्र ससाहिषे पुरुहूत शत्रून् स्वस्तये वाजिभिश्च प्रणेतः (*pra sasāhiṣe puruhūta śatrūn svastaye vājibhiśca praṇetaḥ*) (Ā. 3-7). In the offering to Indra among the eight oblations called Devasū, this Ṛk is to be recited as the anuvākyā mantra, as set out by the aphorism प्र ससाहिषे पुरुहूत शत्रून् भुवस्त्वमिंद्र ब्रह्मणा महान् (*pra sasāhiṣe puruhūta śatrūn bhuvastvamiṃdra brahmaṇā mahān*) (Ā. 4-11).
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 12; Sūkta 180. Aṣṭaka 8; Adhyāya 8; Varga 38. Number of Ṛks in the sūkta: 3. Ṛṣi: Jaya Aindra. Devatā: Indra. Chandas: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्ये ष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।  
+> इंद्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पतिः॒ सिंधू॑नामसि रे॒वती॑नां ॥१॥
+
+### Printed p. 1224
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ससहिषे । पुरुहूत । शत्रून् । ज्येष्ठः । ते । शुष्मः । इह । रातिः । अस्तु ।  
+> इंद्र । आ । भर । दक्षिणेन । वसूनि । पतिः । सिंधूनां । असि । रेवतीनां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र शत्रुवैरिणः प्र ससाहिषे । प्रकर्षणाभिभवसि । ते तव शुष्मः शोषकं बलं ज्येष्ठः प्रशस्यतमं वृद्धतमं वा भवति । इहास्मिन्कर्मणि रातिस्तव दानमस्तु । अस्यॆभ्यं भवतु । तदर्थं हे इंद्र दक्षिणेन हस्तेन
+> वसूनि धनान्या भर । आहर । आनय । त्वं रेवतीनां रयिमतीनां बहुधनानां
+> सिंधूनां स्यंदनशीलानां नदीनां पतिरसि । स्वामी भवसि ॥ रयिशब्दान्मतुपि
+> रयेर्मत्बहुलिति संप्रसारणं । छंदसीर इति मतुपो वत्वं । रैशब्दाच्छेति
+> तस्योदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many (पुरुहूत (*puruhūta*)), you vanquish (प्रससाहिषे (*prasasāhiṣe*), "you overcome excellently") the enemies. Your strength (शुष्मः (*śuṣmaḥ*), the drying, withering force) is ज्येष्ठः (*jyeṣṭhaḥ*), most praiseworthy or greatest. Here, in this rite, let your gift (रातिः (*rātiḥ*)) be ours. For that, O Indra, bring wealth with your right hand. You are the lord, the master, of the रेवतीनां (*revatīnāṃ*) (wealthy, rich in wealth) सिंधूनां (*siṃdhūnāṃ*) (the flowing rivers). The rest of the block is grammar on रयि (*rayi*) with the affix matup (reduplication/samprasāraṇa, vatva, accent).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, prayed to and invoked by many, you
+- शत्रून् (*śatrūn*)—enemies
+- प्र ससाहिषे (*pra sasāhiṣe*)—you defeat well
+- ते (*te*)—your
+- शुष्मः (*śuṣmaḥ*)—enemy-destroying strength
+- ज्येष्ठः (*jyeṣṭhaḥ*)—is excellent
+- इह (*iha*)—in this rite
+- रातिः (*rātiḥ*)—your gift
+- अस्तु (*astu*)—may it reach us
+- इंद्र (*iṃdra*)—O Indra
+- दक्षिणेन (*dakṣiṇena*)—with your right hand
+- वसूनि (*vasūni*)—wealth
+- आ भर (*ā bhara*)—bring to us (you)
+- रेवतीनां (*revatīnāṃ*)—of the wealthy
+- सिंधूनां (*siṃdhūnāṃ*)—of the rivers
+- पतिः (*patiḥ*)—you are the lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who are the object of the invocation of many, you thoroughly defeat enemies. Your enemy-destroying strength is most excellent. In this rite, may your gift (of wealth) reach us. O Indra, with your right hand bring wealth to us. You are the master of these rivers that possess wealth.
+
+##### English translation
+Indra, invoked of many, you triumph over your enemies ; per-eminent is your strength. may your generosity be shown on this occasion; bring treasures with your right hand ; you are the lord of the wealth-conveying rivers.
+
+### Printed p. 1225
+
+##### विशेषविषयगळु (Special Topics)
+
+पतिः सिंधूनां असि रेवतीनां (*patiḥ siṃdhūnāṃ asi revatīnāṃ*)—How is Indra the lord of the rivers? By such acts as the slaying of Vṛtra, with the blow of the thunderbolt he releases from the clouds the waters held in the cloud and, as rain, makes them fall upon the earth and flow in the rivers. Since in this way Indra supplies the rivers abundantly with water, the rivers are able to flow full of water. Therefore it is proper to say that Indra is the lord of the rivers. Next, रेवतीनां (*revatīnāṃ*) means बहुधनानां (*bahudhanānāṃ*), that is, "possessing wealth". What is meant by the rivers possessing wealth? The rivers, with their waters, supply water to the fields so that these are rich in crops; from that abundance of crops grain and the like are obtained. Since grain too is wealth like riches, and since the rivers are the cause of it, it is natural to describe the rivers as रेवतीनां (*revatīnāṃ*).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गंथा॒ पर॑स्याः।  
+> सृ॒कं सं॒शाय॑ प॒विमिं॑द्र ति॒ग्मं वि शत्रू॑न्ताळि॒ वि मृधो॑  
+> नुदस्व ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृगः । न । भीमः । कुचरः । गिरिस्थाः । परावतः । आ । जगंथ । परस्याः ।  
+> स्यकं । संशाय । पविं । इंद्र । तिग्मं । वि । शत्रून् । ताळ्हि । वि । मृधः । नुदस्व ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वैमृधस्य हविषो मृगो नेत्येषा याज्या । सूत्रितं च । वि न इंद्र मृधो
+> जहि मृगो न भीमः कुचरो गिरिष्ठाः । आ. २-१० । इति ॥
+> कुचरः कुत्सितचरणो गिरिष्ठाः पर्वतनिवासी मृगो न सिंह इव हे इंद्र
+> त्वं भीमो भयंकरोऽसि । स त्वं परस्याः परावतोऽतिशयेन दूराद्दुलोकादा
+> जगंथ । आगच्छ ॥ गमेश्वांदसे लिटि क्रादिनियमप्राप्तस्येट उपदेशेऽत्वतः । पा.
+> ७-२-६२ । इति प्रतिषेधः ॥ अगत्य च सृकं सरणशीलं तिग्मं तीक्ष्णं पविं वज्रं संशाय
+> सम्यक् तीक्ष्णीकृत्य शत्रूनस्मदीयान्वैरिणो हे इंद्र तेन वज्रेण वि ताळ्ळि । विशेषेण
+
+##### Gist of the bhāṣya
+
+In the Vaimṛdha oblation this Ṛk मृगो न (*mṛgo na*) is the yājyā; the sūtra: वि न इंद्र मृधो जहि मृगो न भीमः कुचरो गिरिष्ठाः । (*vi na iṃdra mṛdho jahi mṛgo na bhīmaḥ kucaro giriṣṭhāḥ |*) (Ā. 2-10). कुचरः (*kucaraḥ*) is "of evil gait", गिरिष्ठाः (*giriṣṭhāḥ*) "dwelling on a mountain"; like a lion (मृगो न (*mṛgo na*)), O Indra, you are fearsome. As such, come from the far, farthest *parasyāḥ parāvataḥ*, from the heavenly world (*dyulokāt*). (A grammatical note follows on जगंथ (*jagaṃtha*): the prohibition of the augment iṭ, Pā. Sū. 7-2-62.) And having come, having well sharpened the swift (सृकं (*sṛkaṃ*)), sharp thunderbolt (पविं (*paviṃ*)), strike down with it, O Indra, our enemies. The remainder is in the next page.
+
+### Printed p. 1226
+
+> ताडय । विनाशयेत्यर्थः ॥ तड आघाते । अस्माल्लोटि ण्यंताद्रूपमेतत् ॥ तथा
+> मृधः संग्रामोद्युक्तान्युयुत्सूनन्यानपि वि नुदस्व । विशेषेण तिरस्करु ॥
+
+##### Gist of the bhāṣya
+
+वि ताळ्हि (*vi tāḷhi*) means "strike specially, destroy"; the root is तड आघाते (*taḍa āghāte*), and this form is from it in the imperative with the causative. Likewise drive away (वि नुदस्व (*vi nudasva*)), push aside specially, the other मृधः (*mṛdhaḥ*), those eager to fight, ready for battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कुचरः (*kucaraḥ*)—(O Indra) moving about lying in wait, and
+- गिरिष्ठाः (*giriṣṭhāḥ*)—dwelling in a mountain cave
+- मृगो न (*mṛgo na*)—like a lion (you)
+- भीमः (*bhīmaḥ*)—are terrible (such you)
+- परावतः (*parāvataḥ*)—from the very distant region
+- परस्याः (*parasyāḥ*)—from the heavenly world
+- आ जगंथ (*ā jagaṃtha*)—be pleased to come here
+- इंद्र (*iṃdra*)—O Indra
+- सृकं (*sṛkaṃ*)—used upon enemies, and
+- तिग्मं (*tigmaṃ*)—sharp
+- पविं (*paviṃ*)—your thunderbolt
+- संशाय (*saṃśāya*)—having sharpened well
+- शत्रून् (*śatrūn*)—our enemies (with that thunderbolt)
+- वि ताळ्हि (*vi tāḷhi*)—strike specially (destroy)
+- मृधः (*mṛdhaḥ*)—also the enemies fighting in battle
+- वि नुदस्व (*vi nudasva*)—drive away (or destroy)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, like a lion that dwells in a mountain cave and moves about lying in wait for food, you are fearsome. Such as you are, be pleased to come here from the heavenly world, a very distant region. O Indra, having well sharpened your sharp thunderbolt, which is used in battle and the like, strike our enemies specially with that weapon (destroy them), and beat off and drive away the enemies fighting in battle.
+
+##### English translation
+Terrible are you as a wandering lion who dwells in the mountains; come from a far-off distant (world); having whetted your rapid and sharp bolt, destroy our enemies, Indra, put to flight our opponents.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given the Nirukta: मृगो न भीमः कुचरो गिरिष्ठाः (*mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*) (Ni. 1-20). **NOTE**
+
+### Printed p. 1227
+The pāda मृगो न भीमः कुचरो गिरिष्ठाः (*mṛgo na bhīmaḥ kucaro giriṣṭhāḥ*) quoted here is read as the second pāda of Ṛ. Saṃ. 1-154-2 and as the first pāda of the present Ṛk, Ṛ. Saṃ. 10-180-2. There is no difference in meaning.
+
+मृगो न भीमः (*mṛgo na bhīmaḥ*)—Yāska: मृग इव भीमः (*mṛga iva bhīmaḥ*). मृगो मार्षैर्गतिकर्मणः (*mṛgo mārṣairgatikarmaṇaḥ*); भीमो बिभ्यत्यस्मात् (*bhīmo bibhyatyasmāt*); भीष्मोऽप्येतस्मादेव (*bhīṣmo 'pyetasmādeva*). Mṛga means "fearsome like a mṛga (wild beast)". The word mṛga is derived from the root mṛj, which denotes motion. Because the beast is always moving about for food, it gets the name mṛga. Because others fear it or him (from the root bibhyati), the word bhīma is formed. The word bhīṣma too is formed from this same root bibhyati. The meaning of bhīṣma is the same as that of bhīma.
+
+कुचरो गिरिष्ठाः (*kucaro giriṣṭhāḥ*)—Yāska: कुचर इति चरतिकर्म कुत्सितं (*kucara iti caratikarma kutsitaṃ*); अथ चेद्देवताभिधानं, क्वायं न चरतीति (*atha ceddevatābhidhānaṃ, kvāyaṃ na caratīti*); गिरिष्ठा गिरिस्थाया (*giriṣṭhā giristhāyā*). Kucara means a bad going or moving. A lion or tiger, to kill animals, that is, to get its food, moves with a bad gait: it does not go directly in front but hides unseen in the thickets and moves about lying in wait. This is the bad moving. As regards the deity (Indra), the meaning of this word is क्व आयं न चरतीति (*kva āyaṃ na caratīti*), "where does this Indra not move?"; he moves everywhere. Therefore the analysis here is क्व आयं चरतीति कुचरः (*kva āyaṃ caratīti kucaraḥ*). Giriṣṭhāḥ means that the lion moves or dwells on a hill or mountain. Fierce beasts such as the lion and tiger commonly dwell in mountain caves. Therefore the word mṛga here has the qualifier giriṣṭhāḥ. In the sense referring to the deity, giriṣṭhāḥ means मेघस्थाया (*meghasthāyā*), "staying in the cloud": the word giri also means cloud. One who stays in the cloud means one who is in the atmosphere.
+
+गिरिः पर्वतः समुद्गीर्णो भवति (*giriḥ parvataḥ samudgīrṇo bhavati*); पर्ववान् पर्वतः (*parvavān parvataḥ*); पर्व पुनःपृणातेः प्रीणातीर्वा (*parva punaḥpṛṇāteḥ prīṇātīrvā*). Giri means a mountain. Because it is higher (samudgīrṇa) than the surrounding regions, the mountain is called giri. Parvata, "पर्ववान् पर्वतः (*parvavān parvataḥ*)", means that which is made up of clusters or heaps. Because stones and rocks lie gathered in many heaps in one place on a mountain, it is called parvata. The word parvata in the sense of cloud has a similar meaning: because clouds are in clusters in the atmosphere, the cloud is called parvata. पर्व पुनः पृणातेः प्रीणातेर्वा अर्धमासपर्व (*parva punaḥ pṛṇāteḥ prīṇātervā ardhamāsaparva*)—देवानस्मिन् प्रीणंतीति (*devānasmin prīṇaṃtīti*); तत् प्रकृतीतरत्संधिसामान्यात् (*tat prakṛtītaratsaṃdhisāmānyāt*); मेघस्थायी (*meghasthāyī*); मेघोऽपि गिरिरेतस्मादेव (*megho 'pi giriretasmādeva*). The word parva is from the root pṛṇāti, meaning "to fill", or from the root prīṇāti, meaning "to please" (the sentence is cut off here).
+
 ---
 
-**Progress note:** Done through printed p. 1221. pp. 1216-1221 (batch API)
+**Progress note:** Done through printed p. 1227. pp. 1222-1227 (batch API)
