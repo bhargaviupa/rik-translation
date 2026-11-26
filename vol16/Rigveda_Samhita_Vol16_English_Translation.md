@@ -5403,7 +5403,7 @@ In the ṛk
 सोमं मन्यते पपिवान् यत्संपिषंत्योषधिं । (*somaṃ manyate papivān yatsaṃpiṣaṃtyoṣadhiṃ |*)
 सोमं यं ब्राह्मणो विदुर्न तस्याश्नाति कश्चन ॥ (*somaṃ yaṃ brāhmaṇo vidurna tasyāśnāti kaścana ‖*)
 
-(printed "(ಖ). ಸಂ. ೧೦-೮೫-೩)", i.e. Ṛ. Saṃ. 10-85-3 with a stray bracket and full stop) the word *soma* also means the moon. This ṛk praises both the Soma plant and the moon. But the author Yāska has described in the following way the greater importance, over the famous moon, of this Soma:
+(printed "(ಖ). ಋ. ಸಂ. ೧೦-೮೫-೩)", i.e. Ṛ. Saṃ. 10-85-3 with a stray bracket and full stop) the word *soma* also means the moon. This ṛk praises both the Soma plant and the moon. But the author Yāska has described in the following way the greater importance, over the famous moon, of this Soma:
 
 सोमं मन्यते पपिर्वा यत्संपिषंत्योषधिमिति वृथाशुतमसोम-माह सोमं यं ब्रह्माणो विदुरिति न तस्याश्नाति कश्चनायज्येत्य-धियज्ञं । अथाधिदैवतं सोमं मन्यते पपिर्वा यत्संपिषंत्यो-षधिमिति यजुस्सुतमसोममाह सोमं यं ब्रह्माणो विदुक्चंद्र-मसं न तस्याश्नाति कश्चनादेव इति । (*somaṃ manyate papirvā yatsaṃpiṣaṃtyoṣadhimiti vṛthāśutamasoma-māha somaṃ yaṃ brahmāṇo viduriti na tasyāśnāti kaścanāyajyetya-dhiyajñaṃ | athādhidaivataṃ somaṃ manyate papirvā yatsaṃpiṣaṃtyo-ṣadhimiti yajussutamasomamāha somaṃ yaṃ brahmāṇo vidukcaṃdra-masaṃ na tasyāśnāti kaścanādeva iti |*)
 
@@ -17689,7 +17689,7 @@ Indra became infatuated with a demon-woman called Viliṣṭeṅgā. Then, joini
 
 येनानि चक्रे आसुरी इंद्रं देवेभ्यस्परि । तेनानि कुर्वे त्वामहं यथा तेऽसामि सुप्रिया ॥ (*yenāni cakre āsurī iṃdraṃ devebhyaspari | tenāni kurve tvāmahaṃ yathā te 'sāmi supriyā ‖*)
 
-(A. Ve. 7-38-2)
+(Ath. Saṃ. 7-38-2)
 
 "O Indra-deva, you must love me. In order to do so, I shall bring you under my control with the help of this herb." Thus it is said that, with the help of that herb, the woman drew Indra, who was among the gods, into her own group. In this way different passages give different accounts concerning Indra's wife.
 

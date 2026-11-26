@@ -19,7 +19,6 @@
 | Chā. U. | ಛಾ. ಉ. | Chāndogya Upaniṣad |
 | Jai. Sū. | ಜೈ. ಸೂ. | Jaiminīya Pūrva-mīmāṃsā-sūtra |
 | Jai. Nyā. Vi. | ಜೈ. ನ್ಯಾ. ವಿ. | Jaiminīya Nyāyamālā-vistara |
-| Tā. Brā. | ತಾ. ಬ್ರಾ. | Tāṇḍya-mahā-brāhmaṇa |
 | Tai. Ā. | ತೈ. ಆ. | Taittirīya Āraṇyaka |
 | Tai. Brā. | ತೈ. ಬ್ರಾ. | Taittirīya Brāhmaṇa |
 | Tai. Saṃ. | ತೈ. ಸಂ. | Taittirīya Saṃhitā |
@@ -51,7 +50,6 @@
 | Mā. U. | ಮಾ. ಉ. | Māṇḍūkya Upaniṣad |
 | Śve. U. | ಶ್ವೇ. ಉ. | Śvetāśvatara Upaniṣad |
 | Pra. U. | ಪ್ರ. ಉ. | Praśna Upaniṣad |
-| Īśa. | ಈಶ. | Īśa Upaniṣad |
 | Bha. Gī. | ಭ. ಗೀ. | Bhagavad-gītā |
 | Go. Brā. | ಗೋ. ಬ್ರಾ. | Gopatha Brāhmaṇa |
 | Hi. Gṛ. Sū. | ಹಿ. ಗೃ. ಸೂ. | Hiraṇyakeśi Gṛhya-sūtra |
@@ -59,12 +57,11 @@
 | Kau. Sū. | ಕೌ. ಸೂ. | Kauśika-sūtra |
 | Sāṃ. Śrau. Sū. | ಸಾಂ. ಶ್ರೌ. ಸೂ. | Śāṅkhāyana Śrauta-sūtra |
 | Uṇ. Sū. | ಉಣ್. ಸೂ. | Uṇādi-sūtra (the legend has U. Sū.) |
-| A. Ve. | ಅ. ವೇ. | Atharvaveda (the legend has Ath. Saṃ.) |
 | Tai. Saṃ. Bhā. | ತೈ. ಸಂ. ಭಾ. | Sāyaṇa's bhāṣya on the Taittirīya Saṃhitā |
 | Kau. U. | ಕೌ. ಉ. | Kauṣītaki Upaniṣad |
 | Kau. Brā. | ಕೌ. ಬ್ರಾ. | Kauṣītaki Brāhmaṇa |
 | Ka. U. | ಕ. ಉ. | Kaṭha Upaniṣad |
-| Pa. Brā. | ಪ. ಬ್ರಾ. | Pañcaviṃśa Brāhmaṇa |
+| Pa. Brā. | ಪ. ಬ್ರಾ. | Pañcaviṃśa Brāhmaṇa (Tāṇḍya-mahā-brāhmaṇa) |
 | Mā. Gṛ. Sū. | ಮಾ. ಗೃ. ಸೂ. | Mānava Gṛhyasūtra |
 | Ya Saṃ. | ಯ. ಸಂ. | Yajurveda-saṃhitā |
 | Ṛ. Saṃ. Bhā. | ಋ. ಸಂ. ಭಾ. | Ṛgveda-saṃhitā bhāṣya |
@@ -92,6 +89,9 @@
 
 | Form met | Kannada form | Stands for | Note |
 |---|---|---|---|
+| Tā. Brā. | ತಾ. ಬ್ರಾ. | Pa. Brā. | user, Nov 26 2026: Pañcaviṃśa = Tāṇḍya-mahā-brāhmaṇa unified to Pa. Brā. in all volumes |
+| Īśa. | ಈಶ. | Īśa U. | user, Nov 26 2026: unified to Īśa U. in all volumes |
+| A. Ve. | ಅ. ವೇ. | Ath. Saṃ. | user, Nov 26 2026: unified to the legend form Ath. Saṃ. in all volumes |
 | Si. | ಸಿ. | Ni. | decided by the user, Nov 14 2026 (machine misreading) |
 | Mi. Saṃ. | ಮಿ. ಸಂ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 (machine misreading) |
 | Ma. Saṃ. | ಮ. ಸಂ. | Ṛ. Saṃ. | decided by the user, Nov 14 2026 (machine misreading) |

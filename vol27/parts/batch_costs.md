@@ -129,3 +129,14 @@
 | w0777 pp. 777-782 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17814 + cache write 0 + cache read 5309, out 5035 | $0.044 |
 | w0783 pp. 783-788 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 22241 + cache write 0 + cache read 5309, out 10151 | $0.074 |
 | w0789 pp. 789-794 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 20581 + cache write 0 + cache read 5309, out 12469 | $0.083 |
+| through p. 812 (three windows in one agent: pp. 795-800, 801-806, 807-812) | sonnet | 14 | 169559 | 4.8 |
+| through p. 830 (three windows in one agent: pp. 813-818, 819-824, 825-830) | sonnet | 20 | 191513 | 5.8 |
+| through p. 850 (three windows in one agent: pp. 831-837, 838-844, 845-850) | sonnet | 18 | 178044 | 4.8 |
+| through p. 868 (three windows in one agent: pp. 851-856, 857-862, 863-868) | sonnet | 17 | 159924 | 4.0 |
+| through p. 886 (three windows in one agent: pp. 869-874, 875-880, 881-886) | sonnet | 15 | 157492 | 3.7 |
+| through p. 905 (three windows in one agent: pp. 887-892, 893-898, 899-905) | sonnet | 14 | 167640 | 3.8 |
+| through p. 923 (three windows in one agent: pp. 906-911, 912-917, 918-923) | sonnet | 21 | 181664 | 5.3 |
+| through p. 941 (three windows in one agent: pp. 924-929, 930-935, 936-941) | sonnet | 20 | 185026 | 4.8 |
+| through p. 959 (three windows in one agent: pp. 942-947, 948-953, 954-959) | sonnet | 13 | 177714 | 5.0 |
+| through p. 977 (three windows in one agent: pp. 960-965, 966-971, 972-977) | sonnet | 16 | 178884 | 5.4 |
+| through p. 992 (last windows: pp. 978-983, 984-989, 990-992) | sonnet | 23 | 160001 | 3.9 |

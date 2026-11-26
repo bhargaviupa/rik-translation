@@ -5451,9 +5451,9 @@ If we look at the derivation of the word Āprī given in the Aitareya and other 
 
 And in the Tāṇḍya-brāhmaṇa:
 
-यदेतान्याप्रिय आज्यानि भवंति । आत्मानमेवेतैराप्रीणाति । (*yadetānyāpriya ājyāni bhavaṃti | ātmānamevetairāprīṇāti |*) (Tā. Brā. 15-8-2)
+यदेतान्याप्रिय आज्यानि भवंति । आत्मानमेवेतैराप्रीणाति । (*yadetānyāpriya ājyāni bhavaṃti | ātmānamevetairāprīṇāti |*) (Pa. Brā. 15-8-2)
 
-—they make known the nature of the word Āprī. (Tā. Brā. 15-8-2)
+—they make known the nature of the word Āprī. (Pa. Brā. 15-8-2)
 
 In the Aitareya-brāhmaṇa, when the duties to be performed by the Hotṛ at the time of the Agniṣṭoma sacrifice are laid down, the description of the Āprīs is given. After the description of the animal to be sacrificed to Agni and Soma (2-3), the eleven Prayāja mantras are stated (2-4). In that context:
 

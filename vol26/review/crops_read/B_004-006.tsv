@@ -1,0 +1,22 @@
+Q0079	೧-೮೩	likely	8 vs 9; print reads ೧-೮೩-೨
+Q0080	೧-೮೩-೨	likely	
+Q0101	೩-೬೨-೧೭	likely	
+Q0102	೮-೧೦೧	unreadable	crop cuts off the number
+Q0103	೯-೬೨	likely	
+Q0107	೧೦-೧೧೦	certain	
+Q0108	೧೦-೧೩೨	unreadable	not in crop
+Q0109	೧೦-೧೩೨-೬	unreadable	not in crop
+Q0110	೧೦-೧೬೭	unreadable	not in crop
+Q0111	೯-೬೨	likely	
+Q0112	೩೪	likely	
+Q0113	೯-೬೫	likely	
+Q0114	೯-೬೫-೩೫	likely	last glyph matches ೫ of ೬೫
+Q0122	೧೦-೧೨೮	likely	
+Q0123	೪-೧೧೩	likely	print shows ೧೧೩ not ೧೦೩
+Q0124	೧೧೪	likely	print shows ೧೧೪
+Q0144	೩೪	certain	
+Q0148	೩೪	certain	
+Q0150	೩೪	certain	
+Q0177	೭	certain	
+Q0178	೩೭	likely	
+Q0179	೩೮	likely	

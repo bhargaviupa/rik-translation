@@ -472,7 +472,7 @@ the meaning is: may we conquer in battle the man who wishes to harm us, who are 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > द्वितीयः पादः वरोक्षकृतः शिष्टाः प्रत्यक्षकृताः । हे इंद्रावरुणौ नां
-> युवयोर्मध्येऽन्य एको वरुणः सम्राट् सम्यग्राजमान इत्युच्यते । ता सम्राजा धृतासुती । ऋ. २-४१-६ । इत्यादिषु कीर्त्यते । अन्य इंद्रः स्वराट् स्वयमेवान्यनिरपेक्षयैव राजमान इत्युच्यते । स्वराळिंद्रो दमे । ऋ. १-६१-९ । इत्यादिषु
+> युवयोर्मध्येऽन्य एको वरुणः सम्राट् सम्यग्राजमान इत्युच्यते । ता सम्राजा धृतासुती । ऋ. सं. २-४१-६ । इत्यादिषु कीर्त्यते । अन्य इंद्रः स्वराट् स्वयमेवान्यनिरपेक्षयैव राजमान इत्युच्यते । स्वराळिंद्रो दमे । ऋ. सं. १-६१-९ । इत्यादिषु
 > कीर्त्यते । तथाविधामिद्रावरुणेंद्रावरुणौ महांतौ गुणैरधिकौ महावसू
 > महाधनौ च भवतः । हे वृषणा कामानां वर्षिताराविंद्रावरुणौ नां युवां
 > परमे व्योमन्युत्कृष्ट आकाशे विश्वे देवासः सर्वॆ देवा ओजः सं दधुः। समयोजयन् । शरीरदाढ्याय । तद्धेतुभूतं तदोज इत्युच्यते । स्मर्यते च । ओजः
@@ -480,7 +480,7 @@ the meaning is: may we conquer in battle the man who wishes to harm us, who are 
 
 ##### Gist of the bhāṣya
 
-The second pāda is in the third person (indirect address); the rest are in the direct address. O Indra and Varuṇa, of you two, one, Varuṇa, is called सम्राट् (*samrāṭ*), one who shines fully. He is so celebrated in passages such as ता सम्राजा धृतासुती (*tā samrājā dhṛtāsutī*) (Ṛ. 2-41-6). The other, Indra, is called स्वराट् (*svarāṭ*), one who shines of himself, independent of others. He is so celebrated in passages such as स्वराळिंद्रो दमे (*svarāḷiṃdro dame*) (Ṛ. 1-61-9). **NOTE**
+The second pāda is in the third person (indirect address); the rest are in the direct address. O Indra and Varuṇa, of you two, one, Varuṇa, is called सम्राट् (*samrāṭ*), one who shines fully. He is so celebrated in passages such as ता सम्राजा धृतासुती (*tā samrājā dhṛtāsutī*) (Ṛ. Saṃ. 2-41-6). The other, Indra, is called स्वराट् (*svarāṭ*), one who shines of himself, independent of others. He is so celebrated in passages such as स्वराळिंद्रो दमे (*svarāḷiṃdro dame*) (Ṛ. Saṃ. 1-61-9). **NOTE**
 Such Indra and Varuṇa are great (महांतौ (*mahāṃtau*)), greater in qualities, and have great wealth (महावसू (*mahāvasū*)). O showerers (वृषणा (*vṛṣaṇā*)) of desires, Indra and Varuṇa, in the highest sky (परमे व्योमनि (*parame vyomani*)) all the gods united ओजः (*ojaḥ*) for you (सं दधुः (*saṃ dadhuḥ*), "they joined"), for bodily firmness. The cause of that firmness is called ओजः (*ojaḥ*). It is also remembered: ओजः साष्टमी दशेति (*ojaḥ sāṣṭamī daśeti*). Likewise they united strength (बलं (*balaṃ*)), the capacity that is the cause of acts such as the slaying of Vṛtra, in you.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
@@ -2872,15 +2872,15 @@ The three heavens, of the threefold kind (highest, middle and lowest), are place
 ### Printed p. 72
 
 > विधा । वसंताद्यतुभेदेन षड्विधाः प्रकारा यासु तादृश्यः । उपरा अस्मिन्नेव वरुण
-> उप्ता अंतर्भूताः । लोकानां त्रित्वं च त्रयो ना इमे त्रिवृतो लोका इत्यादिना ब्राह्मणेनावगम्यते । तिस्रो भूमीर्धारयन् । ऋ. २-२७-८ । इति निगमश्च
+> उप्ता अंतर्भूताः । लोकानां त्रित्वं च त्रयो ना इमे त्रिवृतो लोका इत्यादिना ब्राह्मणेनावगम्यते । तिस्रो भूमीर्धारयन् । ऋ. सं. २-२७-८ । इति निगमश्च
 > भवति । इमा लोकावावृत्य वरुणस्तिष्ठतीत्यर्थः । अपि च गृत्सः स्तुत्यो राजेश्वरः स
 > वरुणो दिव्यंतरिक्षॆ हिरण्मयं हिरण्मयं सुवर्णमयं हितरमणीयं वा प्रेंखं
 > दोलावद्दिग्वयसंस्पर्शिनमेतं सूर्यं शुभे कं दीप्त्यर्थं चक्रे । कृतवान् ।
-> दिवि सूर्यमदधात्तोममद्रौ । ऋ. ५-८५-२ । इति हि श्रूयते ॥
+> दिवि सूर्यमदधात्तोममद्रौ । ऋ. सं. ५-८५-२ । इति हि श्रूयते ॥
 
 ##### Gist of the bhāṣya
 
-The earths have six kinds according to the seasons, spring and the rest. They are "उपराः (*uparāḥ*)", sown (upta) in this very Varuṇa, contained in him. That the worlds are three is known from a Brāhmaṇa passage beginning त्रयो ना इमे त्रिवृतो लोका (*trayo nā ime trivṛto lokā*). There is also a Nigama passage, तिस्रो भूमीर्धारयन् (*tisro bhūmīrdhārayan*) (Ṛ. 2-27-8). The sense is that Varuṇa stands encompassing these worlds. Moreover Varuṇa, the praised king and lord, has made in the sky this sun, golden or delightful to the beloved, touching the directions like a swing, for brightness. For it is heard in the Ṛk दिवि सूर्यमदधात्तोममद्रौ (*divi sūryamadadhāttomamadrau*) (Ṛ. 5-85-2).
+The earths have six kinds according to the seasons, spring and the rest. They are "उपराः (*uparāḥ*)", sown (upta) in this very Varuṇa, contained in him. That the worlds are three is known from a Brāhmaṇa passage beginning त्रयो ना इमे त्रिवृतो लोका (*trayo nā ime trivṛto lokā*). There is also a Nigama passage, तिस्रो भूमीर्धारयन् (*tisro bhūmīrdhārayan*) (Ṛ. Saṃ. 2-27-8). The sense is that Varuṇa stands encompassing these worlds. Moreover Varuṇa, the praised king and lord, has made in the sky this sun, golden or delightful to the beloved, touching the directions like a swing, for brightness. For it is heard in the Ṛk दिवि सूर्यमदधात्तोममद्रौ (*divi sūryamadadhāttomamadrau*) (Ṛ. Saṃ. 5-85-2).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -6972,7 +6972,7 @@ May his powerful brilliant horses, wearing a lustrous form like (that of) the su
 
 > स हि स खलु बृहस्पतिः शुचिः शुद्धः शतपत्रो बहुविधवाहनः । स एव शुंध्युः ।
 > सर्वेषां शोधयिता हिरण्यवाशीः । वाशीति वाज्ञाम । हितरमणीयवाक् । यद्वा ।
-> वाशीभिस्तक्षताश्मन्मयीभिः । ऋ. १८-१०१-१० । इति निगमाद्वाश्यायुधं । स्वर्णमयायुधः । इषिरो गंताभ्येषणीयो वा स्वर्षाः स्वर्गस्य संभक्ता । यद्वा । सरणशीलस्योदकस्य सनिता दाता । स एव बृहस्पतिः स्वावेशः सुनिवास ऋष्टो दर्शनीयः ।
+> वाशीभिस्तक्षताश्मन्मयीभिः । ऋ. सं. १८-१०१-१० । इति निगमाद्वाश्यायुधं । स्वर्णमयायुधः । इषिरो गंताभ्येषणीयो वा स्वर्षाः स्वर्गस्य संभक्ता । यद्वा । सरणशीलस्योदकस्य सनिता दाता । स एव बृहस्पतिः स्वावेशः सुनिवास ऋष्टो दर्शनीयः ।
 > ईदृशो देवः सखिभ्यः स्तोतृभ्यः पुरु बहुलमासुतिमन्नं करिष्ठः कर्तृतमो
 > दातृतमो भवति ॥
 
@@ -7301,7 +7301,7 @@ The pleasant beverage that you, Indra, have quaffed in former days, you still de
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हे इंद्र त्वं जज्ञानो जायमान एव सहसे बलाय सोमं पपाथ । पीतवानसि । ते तव महिमानं महत्त्वं माता त्वदीया जनन्यदितिः प्रोवाच । प्रोक्तवती । संवादसूक्तेयं पंथा इत्यादिके नही स्वस्य । ऋ. ४-१८-४ । इत्यर्धर्चादारभ्यादित्येंद्रमहत्त्वस्योक्तत्वात् । आतः कारणात् हे इंद्र त्वमुरु विस्तीर्णमंतरिक्षमा पप्राथ । स्वतेजसापूरितवानसि । अपि च युधा यद्धेन देवेभ्यः स्तोतृभ्यो
+> हे इंद्र त्वं जज्ञानो जायमान एव सहसे बलाय सोमं पपाथ । पीतवानसि । ते तव महिमानं महत्त्वं माता त्वदीया जनन्यदितिः प्रोवाच । प्रोक्तवती । संवादसूक्तेयं पंथा इत्यादिके नही स्वस्य । ऋ. सं. ४-१८-४ । इत्यर्धर्चादारभ्यादित्येंद्रमहत्त्वस्योक्तत्वात् । आतः कारणात् हे इंद्र त्वमुरु विस्तीर्णमंतरिक्षमा पप्राथ । स्वतेजसापूरितवानसि । अपि च युधा यद्धेन देवेभ्यः स्तोतृभ्यो
 > देवेभ्य एव वा वरिवो धनं चकर्थ । कृतवानसि ॥
 
 ##### Gist of the bhāṣya
@@ -7583,7 +7583,7 @@ Maṇḍala 7; Anuvāka 6; Sūkta 99; Aṣṭaka 5; Adhyāya 6; Varga 24. Number
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > पर इति सकारांतं परस्तादित्यस्यार्थे ॥ परशब्दाच्छांदसोऽसिप्रत्ययः परो
-> दिवा पर एना पृथिव्या । ऋ. १०-८२-५ । इति यथा । मात्रयेति व्यत्ययेन तृतीया ॥
+> दिवा पर एना पृथिव्या । ऋ. सं. १०-८२-५ । इति यथा । मात्रयेति व्यत्ययेन तृतीया ॥
 > मात्रया परः परस्ताद्वर्तमानयापरिमितया तन्ना शरीरेण वृधान वर्धमान हे
 > विष्टो ते तव महित्वं महत्त्वं नान्वश्नुवंति । नानुव्याप्नुवंति । त्रैविक्रमसमये
 > यत्तव माहात्म्यं तत्सर्वैरपि जनैर्ज्ञातुं न शक्यत इत्यर्थः । ते तवोभे रजसी
@@ -7644,7 +7644,7 @@ Expanding with a body beyond all measure, Vishnu, men comprehend not your magnit
 > सर्वैर्न ज्ञायत इति भावः । कोऽसौ महिमा तमाह । ऋष्टं दर्शनीयं बृहंतं
 > महांतं नाकं द्युलोकमुदस्तभ्नाः । त्वमूर्ध्वमधारयः । यथाधो न पतति
 > तथा । पृथिव्या भूमेः संबंधिनीं प्राचीं ककुभं च दाधर्थ । धारितवानसि । उपलक्षणमेतत् सर्वस्य भूतजातस्य । तथा च मंत्रांतरं । य उ त्रिधातु पृथिवीमुत
-> द्यामेको दाधार भुवनानि विश्वा । ऋ. १-१५४.४ । इति ॥
+> द्यामेको दाधार भुवनानि विश्वा । ऋ. सं. १-१५४.४ । इति ॥
 
 ##### Gist of the bhāṣya
 
@@ -7809,12 +7809,12 @@ You two, Indra and Vishnu, have made the spacious world for the sake of sacrific
 > हे इंद्राविष्णू दृंहिता दृढीकृता नव नवतिं च नवोत्तरनवतिसंख्याकाः
 > पुरः पुराणि शंबरस्य स्वभूतानि शथिष्टं । अहिंसिष्टं ॥ शथ हिंसायां ॥ अपि च शतं
 > सहस्रं च वर्चिनोऽसुरस्य वीरानप्रति प्रतिद्वंद्विनो यथा न भवंति तथा साकं सह
-> सद्य एव हथः । अहिंसिष्टं । यो वर्चिनः शतमिंद्रः सहस्रं । ऋ. २-१४-६ । इति हि
+> सद्य एव हथः । अहिंसिष्टं । यो वर्चिनः शतमिंद्रः सहस्रं । ऋ. सं. २-१४-६ । इति हि
 > निगमांतरं ॥
 
 ##### Gist of the bhāṣya
 
-O Indra and Vishnu, you have destroyed the ninety-nine strengthened cities belonging to Śambara (शथ हिंसायां (*śatha hiṃsāyāṃ*) is the root). Further, you have at once slain together, in such a way that they have no opponent, the hundred and the thousand heroes of the Asura Varcin. He cites another Vedic passage: यो वर्चिनः शतमिंद्रः सहस्रं (*yo varcinaḥ śatamiṃdraḥ sahasraṃ*) (Ṛ. 2-14-6).
+O Indra and Vishnu, you have destroyed the ninety-nine strengthened cities belonging to Śambara (शथ हिंसायां (*śatha hiṃsāyāṃ*) is the root). Further, you have at once slain together, in such a way that they have no opponent, the hundred and the thousand heroes of the Asura Varcin. He cites another Vedic passage: यो वर्चिनः शतमिंद्रः सहस्रं (*yo varcinaḥ śatamiṃdraḥ sahasraṃ*) (Ṛ. Saṃ. 2-14-6).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -8719,7 +8719,7 @@ Recite the three sacred texts, proceeded by light, which milk the water-yielding
 
 > यः पर्जन्य ओषधीनां वर्धनो वर्धयिता । यश्चापामुदकानां वर्धकः ।
 > यश्च देवो द्योतमानः पर्जन्यो विश्वस्य सर्वस्य जगत ईशे ईष्टे ॥ लोपस्त
-> आत्मनेपदेष्टिति तलोपः । अधीगर्थति । पा. २-३-५२ । कर्मणि शेषत्वेन विवक्षिते
+> आत्मनेपदेष्टिति तलोपः । अधीगर्थति । पा. सू. २-३-५२ । कर्मणि शेषत्वेन विवक्षिते
 > षष्ठि । अनुदात्तेत्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तानित्यमिति
 > निघातप्रतिषेधः ॥ स पर्जन्यस्त्रिधातु त्रिभूमिकं शरणं गृहं शर्म सुखं च यंसत् ।
 > यच्छतु । अस्मभ्यं ददात्वित्यर्थः ॥ यमेर्लेट्डागमः । सिब्बहुलमिति सिप् । इतश्च
@@ -11063,7 +11063,7 @@ Slay, Indra, the Yatudhana, whether in the form of a man, or of a woman doing mi
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > उपाकरणोत्सर्जनयोर्मंडलाद्यंतहोमे प्रति चक्ष्वेत्येषा । सूत्रितं
-> च । यो नः स्वो अरणः प्रति चक्ष्व ! आ. गृ. ३-५-७ । इति ॥
+> च । यो नः स्वो अरणः प्रति चक्ष्व ! आ. गृ. सू. ३-५-७ । इति ॥
 
 ##### Gist of the bhāṣya
 
@@ -11246,7 +11246,7 @@ It prays that Indra, who gave protection to Yati, Bhṛgu and the others, give p
 
 ### Printed p. 284
 
-Besides this, in many contexts the word Kaṇva is also used in the sense of a power possessed of darkness (A. Ve. 2-2-5). But here only the matter of Kaṇva and his lineage, the seers and maker of the eighth Maṇḍala of the Ṛk-Saṃhitā, is to be examined.
+Besides this, in many contexts the word Kaṇva is also used in the sense of a power possessed of darkness (Ath. Saṃ. 2-2-5). But here only the matter of Kaṇva and his lineage, the seers and maker of the eighth Maṇḍala of the Ṛk-Saṃhitā, is to be examined.
 
 Although the name of the seer Kaṇva is famous in the Purāṇas and the like, in the other Saṃhitās, Brāhmaṇas and so on this name is not so famous. Even in the Ṛk-Saṃhitā the word Kaṇva is often used in the ordinary sense of praisers.
 
@@ -11830,7 +11830,7 @@ Wielder of the thunderbolt, I would not sell you for a large price, not for a th
 
 > हे इंद्र त्वं मे मदीयात्पितुर्जनकादपि वस्यान् वसीयान् वसुमत्तरोऽसि । उतापि चाभुंजतोऽपालयतो मम भ्रातुरपि वसीयांस्त्वमधिकोऽसि!
 > हे वसो वासकेंद्र मे मदीया माता च त्वं च समा समौ समानौ संतौ ॥
-> पुमान् स्त्रिया । पा. १-२.६७. । इति पुंसः शेषः ॥ छधयथः । अर्चतिकर्मायं ।
+> पुमान् स्त्रिया । पा. सू. १-२.६७. । इति पुंसः शेषः ॥ छधयथः । अर्चतिकर्मायं ।
 > मां पूजितं कुरुथः । किमर्थं । वसुत्वनाय व्यापनाय राधसे धनाय च ।
 > उभयोर्लाभायेत्यर्थः ॥
 
@@ -11883,11 +11883,11 @@ You are more precious, Indra, than my father, or than my brother, who is not aff
 > इदानीं वर्तसे । पुरुत्रा चिद्दि बहुषु हि यजमानेषु ते त्वदीयं मनः संचरति।
 > हे युध्म युद्धकुशल खजकृद्युद्धस्य कर्तर्हे पुरंदरासुरीणां पुरां दारयितर्हे
 > इंद्र अलर्षि । आगच्छ । गायत्रा गानकुशला अस्मदीयाः स्तोतारः प्रागासिषुः ।
-> प्रगायंति । स्तुवंति ॥ अलर्षीत्येतत् दाधत्यादौ । पा. ७.४.६५ । इर्यर्तेर्निपात्यते ॥
+> प्रगायंति । स्तुवंति ॥ अलर्षीत्येतत् दाधत्यादौ । पा. सू. ७.४.६५ । इर्यर्तेर्निपात्यते ॥
 
 ##### Gist of the bhāṣya
 
-O Indra, to what region have you gone, and where are you now? Your mind ranges among many sacrificers. O Indra, skilled in battle (युध्म (*yudhma*)), maker of battle (खजकृत् (*khajakṛt*)), shatterer of the cities of the Asuras (पुरंदर (*puraṃdara*)), come (अलर्षि (*alarṣi*)). Our singers skilled in song (गायत्राः (*gāyatrāḥ*)) sing forth and praise you. Sāyaṇa adds that अलर्षि (*alarṣi*) is a form irregularly derived from the root *iryarteḥ*, as stated in the Dādhatyādi rule (Pā. 7.4.65).
+O Indra, to what region have you gone, and where are you now? Your mind ranges among many sacrificers. O Indra, skilled in battle (युध्म (*yudhma*)), maker of battle (खजकृत् (*khajakṛt*)), shatterer of the cities of the Asuras (पुरंदर (*puraṃdara*)), come (अलर्षि (*alarṣi*)). Our singers skilled in song (गायत्राः (*gāyatrāḥ*)) sing forth and praise you. Sāyaṇa adds that अलर्षि (*alarṣi*) is a form irregularly derived from the root *iryarteḥ*, as stated in the Dādhatyādi rule (Pā. Sū. 7.4.65).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12077,12 +12077,12 @@ I invoke to-day the all-sufficient Indra, as the milch cow yielding abundant mil
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> सूरः सूर्य एतशमेतत्संज्ञं राजर्षिं यद्यदा तुदत् अव्यथयत् तदानीमेतशं रक्षितुं वंकू वक्रगामिनौ वातस्य वायोः सदृशौ पर्णिना षर्णिन् पतनवंतावीदृशावश्वा शतक्रतुर्बहुविधकर्मेंद्र आर्जुनेयमर्जुन्याः पुत्रं कुत्समृषिं वहत् । अवहत् । अनयत् । कुत्सेन सार्धं समानं रथमारुहैतशरक्षणायागच्छदित्यर्थः । तथा च निगमांतरं । प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः । ऋ. १-६१-१५. । इति । गंधर्वं गवां रश्मीनां धर्तारं सूर्यमस्तृतं केनाप्यहिंसितं त्सरत् । अत्सरत् । छद्मगत्यागच्छत् । सूर्येण योद्दुं
+> सूरः सूर्य एतशमेतत्संज्ञं राजर्षिं यद्यदा तुदत् अव्यथयत् तदानीमेतशं रक्षितुं वंकू वक्रगामिनौ वातस्य वायोः सदृशौ पर्णिना षर्णिन् पतनवंतावीदृशावश्वा शतक्रतुर्बहुविधकर्मेंद्र आर्जुनेयमर्जुन्याः पुत्रं कुत्समृषिं वहत् । अवहत् । अनयत् । कुत्सेन सार्धं समानं रथमारुहैतशरक्षणायागच्छदित्यर्थः । तथा च निगमांतरं । प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः । ऋ. सं. १-६१-१५. । इति । गंधर्वं गवां रश्मीनां धर्तारं सूर्यमस्तृतं केनाप्यहिंसितं त्सरत् । अत्सरत् । छद्मगत्यागच्छत् । सूर्येण योद्दुं
 > गतवानित्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
-When Sūrya, the Sun, afflicted the royal seer called Etaśa, then, to protect Etaśa, Indra Śatakratu, the performer of many kinds of works, carried along (वहत् (*vahat*)) the sage Kutsa, son of Arjunī (आर्जुनेयं (*ārjuneyaṃ*)), with two horses, crooked-going (वंकू (*vaṃkū*)), like the wind and flying (पर्णिना (*parṇinā*)). That is, he mounted the same chariot as Kutsa and came to protect Etaśa. Another text says the same: प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः (*praitaśaṃ sūrye paspṛdhānaṃ sauvaśye suṣṭimāvadiṃdraḥ*) (Ṛ. 1-61-15). गंधर्वं (*gaṃdharvaṃ*) is Sūrya, the upholder of the rays (गवां (*gavāṃ*)); अस्तृतं (*astṛtaṃ*) is unharmed by anyone; त्सरत् (*tsarat*) is अत्सरत् (*atsarat*), he came by a stealthy course. The meaning is that he went to fight with Sūrya.
+When Sūrya, the Sun, afflicted the royal seer called Etaśa, then, to protect Etaśa, Indra Śatakratu, the performer of many kinds of works, carried along (वहत् (*vahat*)) the sage Kutsa, son of Arjunī (आर्जुनेयं (*ārjuneyaṃ*)), with two horses, crooked-going (वंकू (*vaṃkū*)), like the wind and flying (पर्णिना (*parṇinā*)). That is, he mounted the same chariot as Kutsa and came to protect Etaśa. Another text says the same: प्रैतशं सूर्ये पस्पृधानं सौवश्ये सुष्टिमावदिंद्रः (*praitaśaṃ sūrye paspṛdhānaṃ sauvaśye suṣṭimāvadiṃdraḥ*) (Ṛ. Saṃ. 1-61-15). गंधर्वं (*gaṃdharvaṃ*) is Sūrya, the upholder of the rays (गवां (*gavāṃ*)); अस्तृतं (*astṛtaṃ*) is unharmed by anyone; त्सरत् (*tsarat*) is अत्सरत् (*atsarat*), he came by a stealthy course. The meaning is that he went to fight with Sūrya.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -12837,7 +12837,7 @@ May your two peacock-tailed, white-backed horses, yoked to your golden chariot, 
 > इममभिषुतं सोमं तु क्षिप्रं पिब । तत्र दृष्टांतः । पूर्वपा इव । पूर्वपा इव।
 > पूर्वः सर्वेभ्यो देवेभ्यः प्रथमभावी सन् पिबतीति पूर्वपा वायुः । स इवैंद्रवायवे मुख्ये ग्रहे सर्वेभ्यो देवेभ्यः पूर्व० पिबेत्यर्थः । कीदृशस्य सोमस्य॥
 > परिष्कृतस्याभिषवादिभिः संस्कृतस्य ॥ संपर्युपेभ्यः । पा- ६-१-१३७ । इति
-> करोतेर्भूषणे सुट् । परिनिविभ्यः । पा. ८.३-७८ । इति सुटः षत्वं ॥ रसिनो रसवतः।
+> करोतेर्भूषणे सुट् । परिनिविभ्यः । पा. सू. ८.३-७८ । इति सुटः षत्वं ॥ रसिनो रसवतः।
 > अपि चेयमासुतिरयमासवो मदकरश्चारुः शोभनः सोमरसो मदाय
 > हर्षाय हर्षजननाय पत्यते । संपद्यते ॥ पत्ल गत् ॥ यद्वा । पत्यतिरैश्वर्यकर्मा । मदाय मदस्य पत्यते । ईष्टे । मदोत्पादने शक्त इतर्थः ॥
 
@@ -14152,13 +14152,13 @@ glorification-
 
 > सुन्वंतं सोमाभिषवं कुर्वंतं यजमानं देवा इंद्रादयः सर्व
 > इच्छंति रक्षितुं। स्वप्नाय न स्पृहयंति । स्वप्नावस्थां तस्य सुन्वतो नेप्संति । सर्वदा
-> प्रबुद्धमेव कुर्वंतीत्यर्थः ॥ स्पृहेरीप्सितः । पा. १-४-३६ । इति कर्मणि चतुर्थि।
+> प्रबुद्धमेव कुर्वंतीत्यर्थः ॥ स्पृहेरीप्सितः । पा. सू. १-४-३६ । इति कर्मणि चतुर्थि।
 > स्पृह ईप्सायां चुरादिरदंतः ॥ यत एवमतः कारणादतंद्रा अनालसा देवाः
 > प्रमादं प्रकर्षेण मदकरं तदीयं सोमं यंति । प्राप्नुवंति ॥
 
 ##### Gist of the bhāṣya
 
-All the gods, Indra and the rest, wish (इच्छंति (*icchaṃti*)) to protect the sacrificer who presses Soma (सुन्वंतं (*sunvaṃtaṃ*)). They do not desire sleep (स्वप्नाय न स्पृहयंति (*svapnāya na spṛhayaṃti*)) for him; they do not wish the state of sleep for him who presses, but always keep him awake. The dative of the object is by स्पृहेरीप्सितः (*spṛherīpsitaḥ*) (Pā. 1-4-36); स्पृह ईप्सायां (*spṛha īpsāyāṃ*) is a root of the curādi class ending in short a. Therefore the unslothful (आतंद्राः (*ātaṃdrāḥ*)) gods obtain (यंति (*yaṃti*)) his Soma, which greatly intoxicates (प्रमादं (*pramādaṃ*)).
+All the gods, Indra and the rest, wish (इच्छंति (*icchaṃti*)) to protect the sacrificer who presses Soma (सुन्वंतं (*sunvaṃtaṃ*)). They do not desire sleep (स्वप्नाय न स्पृहयंति (*svapnāya na spṛhayaṃti*)) for him; they do not wish the state of sleep for him who presses, but always keep him awake. The dative of the object is by स्पृहेरीप्सितः (*spṛherīpsitaḥ*) (Pā. Sū. 1-4-36); स्पृह ईप्सायां (*spṛha īpsāyāṃ*) is a root of the curādi class ending in short a. Therefore the unslothful (आतंद्राः (*ātaṃdrāḥ*)) gods obtain (यंति (*yaṃti*)) his Soma, which greatly intoxicates (प्रमादं (*pramādaṃ*)).
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -14999,7 +14999,7 @@ Liberal, wise, (borne by his own) steeds, a hero, the slayer of Vritra, (aided) 
 
 ##### Gist of the bhāṣya
 
-"O Priyamedhas": those for whom the sacrifice (medha) is dear, i.e. favourable, are so called; the plural is for honour, applied to himself. The seer Priyamedha addresses himself. O Priyamedhas, worship this Indra with a mind (manasā) that is united (satrācā), accompanying the Indra who is to be praised, that is, with heart; "worship" means: sacrifice with deliberate intent. In यजध्वैनं (*yajadhvainaṃ*) the loss of the letter (ra/na) is by nipātana, according to Pā. 7-1-43 **NOTE**. Worship that Indra who becomes truly exhilarated (satyamadvā) through the Soma offerings, the instruments, that is, whose exhilaration is unfailing.
+"O Priyamedhas": those for whom the sacrifice (medha) is dear, i.e. favourable, are so called; the plural is for honour, applied to himself. The seer Priyamedha addresses himself. O Priyamedhas, worship this Indra with a mind (manasā) that is united (satrācā), accompanying the Indra who is to be praised, that is, with heart; "worship" means: sacrifice with deliberate intent. In यजध्वैनं (*yajadhvainaṃ*) the loss of the letter (ra/na) is by nipātana, according to Pā. Sū. 7-1-43 **NOTE**. Worship that Indra who becomes truly exhilarated (satyamadvā) through the Soma offerings, the instruments, that is, whose exhilaration is unfailing.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16432,7 +16432,7 @@ Here Kurayāṇa is a king; his son is called Kaurayāṇa. In the words पा�
 
 > पाकस्थामा राजा रोहितं लोहितवर्णं वृषभमश्वं वा मे मह्यमदात् ।
 > दत्तवान् । कीदृशं । सुधुरं शोभनधुरु शोभनवहनप्रदेशं ॥ ऋक्सूरब्धूः ।
-> पा. ५-४-७४ । इत्यकारः समासांतः। क्रत्वादयश्चेति बहुव्रीहावुत्तरपदाद्युदात्तत्वं॥
+> पा. सू. ५-४-७४ । इत्यकारः समासांतः। क्रत्वादयश्चेति बहुव्रीहावुत्तरपदाद्युदात्तत्वं॥
 > कक्ष्यप्रां! कक्ष्या कक्षयोर्बाहुमूलयोर्बध्यमाना रज्जुः । तस्याः प्रातारं पूरयितारं । पीवरमित्यर्थः ॥ प्रा पूरणे ॥ रायो धनस्य विबोधनं विशेषेण बोधकं।
 > बहुधनप्राप्तिहेतुमित्यर्थः ॥ ऊडिदमित्यादिना रायो विभक्तिरुदात्ता ॥
 
@@ -16479,12 +16479,12 @@ Pakasthaman has given me a tawny robust beast of burden, the means of acquiring 
 > वह्नयो वोढारोऽश्वा बलीवर्दा ना प्रतिनिधयः संतो मां वोढुं वहंति
 > बिभ्रति । बहूनामेकत्र वहने दृष्टांतः । अस्तं । अस्यते क्षिप्यते तस्मिन्नदार्थजातमित्यस्तं गृहं । प्रति वयो न गंतारोऽश्वा यथा तुग्रं तुग्रपुत्रं भुज्युं
 > समुद्रतीरादवहन् तद्वत् । तादृशमश्वं मह्यं प्रादादिति पूर्वस्यामृच्यन्वयः ॥
-> भुज्योर्वहनं च नासत्या भुज्युमूहथुः । ऋग्वे. १-११६-४ : इत्यादावनगंतव्यं
+> भुज्योर्वहनं च नासत्या भुज्युमूहथुः । ऋ. सं. १-११६-४ : इत्यादावनगंतव्यं
 > यद्वा । यस्मा इति कर्मणि चतुर्थी । यं रथमन्ये दशसंख्याका वह्नयो वोढारोऽश्वा धुरं वहनप्रदेशं प्रति गताः संतो वहंति तादृशं रथमपि मह्यं दत्तवानित्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
-The same horse as before is further described. यस्मै (*yasmai*) has the dative in the sense of the genitive: of which horse or bull the burden, the yoke-load to be borne, ten other bearers, horses or oxen, different from the one in question, acting as substitutes, carry to bear me. For many carrying in one place there is an illustration: अस्तं (*astaṃ*) is the house, where goods are thrown (अस्यते (*asyate*)). As horses going home, like those that carried Tugra's son Bhujyu from the seashore. The connection with the preceding ṛk is that such a horse was given to me. This carrying of Bhujyu is to be understood from passages such as भुज्योर्वहनं च नासत्या भुज्युमूहथुः (*bhujyorvahanaṃ ca nāsatyā bhujyumūhathuḥ*) (Ṛg. 1-116-4). Or else: यस्मै (*yasmai*) is a dative of the object: the chariot which ten other bearers, horses, going to the place of the yoke, carry; he gave me such a chariot too.
+The same horse as before is further described. यस्मै (*yasmai*) has the dative in the sense of the genitive: of which horse or bull the burden, the yoke-load to be borne, ten other bearers, horses or oxen, different from the one in question, acting as substitutes, carry to bear me. For many carrying in one place there is an illustration: अस्तं (*astaṃ*) is the house, where goods are thrown (अस्यते (*asyate*)). As horses going home, like those that carried Tugra's son Bhujyu from the seashore. The connection with the preceding ṛk is that such a horse was given to me. This carrying of Bhujyu is to be understood from passages such as भुज्योर्वहनं च नासत्या भुज्युमूहथुः (*bhujyorvahanaṃ ca nāsatyā bhujyumūhathuḥ*) (Ṛ. Saṃ. 1-116-4). Or else: यस्मै (*yasmai*) is a dative of the object: the chariot which ten other bearers, horses, going to the place of the yoke, carry; he gave me such a chariot too.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16602,7 +16602,7 @@ Chandas: 1–20 Prāgātha. 21 Puraūṣṇik.
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हे इंद्र यद्यदि प्राक्प्राच्यां दिशि वर्तमानैः ॥ सप्तम्यंताद्दिक्षब्दाद्विहितस्यास्तातेरंचेर्लुक् । पा. ५-३-३० । इति लुक् ॥ अपाकृतीच्यां दिशि वर्तमानैः ।
+> हे इंद्र यद्यदि प्राक्प्राच्यां दिशि वर्तमानैः ॥ सप्तम्यंताद्दिक्षब्दाद्विहितस्यास्तातेरंचेर्लुक् । पा. सू. ५-३-३० । इति लुक् ॥ अपाकृतीच्यां दिशि वर्तमानैः ।
 > यदि वोदगुदीच्यां दिशि हर्मान्यैः । यद्वा नृज्नीच्यां दिश्यधस्ताद्वर्तमानैः ॥
 
 ### Printed p. 412
@@ -16880,7 +16880,7 @@ he has crushed their wrath by his prowess: all hostile armies have been arrested
 > समवाये ॥ सहस्रेणेव यथा सहस्रसंख्यॆन बलेन तथेत्यर्थः । यश्च यजमानो
 > नमउक्तिभिर्नमस्कारवचनैः स्तोत्रैः सार्धं दाश्नोति हवींषि तुभ्यं ददाति ॥ दातृ
 > दाने !! स यजमानः सुवीर्यॆ शोभनवीयर्युक्ते संग्रामे प्रावर्गं प्रकर्षेण शत्रूणां वर्जयितारं पुत्रं कृणुते । करोति । उत्पादयति । त्वत्पसादाल्लभत
-> इत्यर्थः ॥ प्रपूर्वाद्वजेः कृत्यल्युटो बहुलमिति कर्तरि घञ् । उपसर्गस्य घञ्मनुष्ये । पा. ६-३.१२२ । इति दीर्घः । थाथादिनोत्तरपदांतोदात्तत्वं ॥ यद्वा ।
+> इत्यर्थः ॥ प्रपूर्वाद्वजेः कृत्यल्युटो बहुलमिति कर्तरि घञ् । उपसर्गस्य घञ्मनुष्ये । पा. सू. ६-३.१२२ । इति दीर्घः । थाथादिनोत्तरपदांतोदात्तत्वं ॥ यद्वा ।
 > सुवीर्य इत्येशत्पुत्रस्य विशेषणं । द्वितीयार्थे सप्तमी । शोभनवीयर्य० पुत्रं ॥
 > बहुप्रीहौ वीरवीयौ चेत्युत्तरपदाद्युदात्तत्वं ॥
 
@@ -16984,7 +16984,7 @@ O Indra, we who live happily in the friendship of you, whose strength is exceedi
 
 **NOTE**
 
-> वस्ते । सर्वभूतजातमाच्छादयति । स्वयं कृत्स्नं जगदतीत्य वर्तत इत्यर्थः । निगमांतरं च भवति । यदन्यया स्फिग्या क्षामवस्थाः । ऋग्वे. ३-३२-११ । इति ॥ अपि च
+> वस्ते । सर्वभूतजातमाच्छादयति । स्वयं कृत्स्नं जगदतीत्य वर्तत इत्यर्थः । निगमांतरं च भवति । यदन्यया स्फिग्या क्षामवस्थाः । ऋ. सं. ३-३२-११ । इति ॥ अपि च
 > दानोऽवखंडयिता ॥ दान अवखंडने । पचाद्यच् ॥ स चास्येममिंद्रं न रोषति ।
 > न हिनस्ति ॥ रिष रुष हिंसायां ॥ इंद्रं हिंसितुं शक्तः कश्चिदपि नास्तियर्थः । यद्वा ।
 > दानो हविषां दाता यजमानश्चांद्रस्य न रोषति । रोषं न जनयति ।
@@ -17186,7 +17186,7 @@ Quickly, priest, pour forth the Soma, for Indra is thirsty; verily he has harnes
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > दाशुरिर्दाश्वान् ॥ दाशतेरौणादिक उरिन् ॥ हविषां दाता स यजमानलक्षणो जनः स्वयं चित् स्वयमेवात्मनैव मन्यते । सर्वं जानाति । परायत्तप्रज्ञो न भवतीत्यर्थः । यत्र यस्मिञ्जने सोमस्य पानेन हे इंद्र त्वं तृंपसि
-> तृप्यसि ॥ तृप तृप्न तृप्तौ । तौदादिकः । शे तृप्नादीनां । पा. ७-१-५९-१ । इति
+> तृप्यसि ॥ तृप तृप्न तृप्तौ । तौदादिकः । शे तृप्नादीनां । पा. सू. ७-१-५९-१ । इति
 > नुम् ॥ ते त्वदीयं युज्यं योग्यमिदमस्मदीयं सोमलक्षणमन्नं समुक्षितं
 > सम्यक् पात्रेष्दासिक्तं ॥ उक्ष सेचने । कर्मणि निष्ठा । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥ अतस्तं तादृशं सोममेहि । अभिगच्छ । प्र द्रव । शीघ्रं प्राप्नुहि । तदनंतरं पिब ! पानं कुरु ॥
 
@@ -17461,7 +17461,7 @@ O Pūṣan, nourisher, Indra, or the deity of this name, I desire (vemi) to prop
 
 ### Printed p. 432
 
-> आम्नातं हि । यद्वां पज्रासो अश्विना हवंते । ऋग्वे. १-११७-१० । इति तस्मै कक्षीवत इव मह्यं । सामर्थ्य्यादुपमार्थो लभ्यते । अपेक्षितं धनं देहीति शेषः ॥
+> आम्नातं हि । यद्वां पज्रासो अश्विना हवंते । ऋ. सं. १-११७-१० । इति तस्मै कक्षीवत इव मह्यं । सामर्थ्य्यादुपमार्थो लभ्यते । अपेक्षितं धनं देहीति शेषः ॥
 
 ##### Gist of the bhāṣya
 
@@ -17984,7 +17984,7 @@ Most adorable bestower of strength, distributors of food, lords of opulence, rep
 > दाशुषे हविर्दत्तवते यजमानाय ॥ तादर्थ्ये चतुर्थी ॥ ईदृग्यजमानार्थं
 > सुमेधां शोभनयज्ञामवितारिणीं । वितरणं विगमनमपायः । अनपायिनीं ॥
 > नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं ॥ ईदृशीं गव्यूतिं । गावो यूयंते
-> संयुज्यंतेऽत्रेति गव्यूतिर्गॊसंचारभूमिः ॥ गोयूत् छंदसि । पा. ६-१-७९-२ ।
+> संयुज्यंतेऽत्रेति गव्यूतिर्गॊसंचारभूमिः ॥ गोयूत् छंदसि । पा. सू. ६-१-७९-२ ।
 > इत्यवादेशः ॥ तां धृतैः क्षरक्षणशीलैरुदकैरुक्षतं । सिंचतं ॥ उक्ष सेचने ।
 
 ##### Gist of the bhāṣya
@@ -18541,7 +18541,7 @@ Men bearing the clipped sacred grass, presenting oblations, and completely fulfi
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अद्येदानीमस्माकमयं स्तोमोऽस्मदीयं स्तोत्रं हे अश्विनौ नां
-> युवयोर्वाहिष्ठो वाहयित्यृतमः प्रापयितृतमः सन् युवाभ्यामंतमोऽंतिकतमोऽतिशयेन समीपवर्ति भूतु । भवतु ॥ तमे तादेश्व । पा. ६-४-१४९-९ ।
+> युवयोर्वाहिष्ठो वाहयित्यृतमः प्रापयितृतमः सन् युवाभ्यामंतमोऽंतिकतमोऽतिशयेन समीपवर्ति भूतु । भवतु ॥ तमे तादेश्व । पा. सू. ६-४-१४९-९ ।
 > इत्यंतिकशब्दस्य तादिर्लुप्यते । भवतेश्छांदसः शपो लुक् ॥
 
 ##### Gist of the bhāṣya
@@ -18764,7 +18764,7 @@ When the son of Tugra, thrown into the ocean glorified you, leaders, (of rites),
 > हे नासत्या । सत्सु साधू सत्यौ । न सत्यावसत्यौ । न असत्यौ नासत्यौ ॥ नभ्राण्नपादिति नञः प्रकृतिभावः ॥ यद्वा । सत्यस्य नेतारौ नासिकाप्रभवौ वा । उक्तं च
 > भगवता यास्केन। सत्यावेव नासत्यावित्यार्णवाभः । सत्यस्य प्रणीतारावित्याग्रायणः।
 > नासिकाप्रभवौ बभूवतुरिति वा । नि. ६-१३ । इति । तौ युवां कण्णाय्तत्संज्ञायर्षये हर्म्ये हर्म्यतलेपिरिप्तायासुरैर्बाधिताय शश्वच्छश्वतीर्बहीरूती रक्षा
-> दशस्यथः । दत्तवंतौ । युवं कण्णायापिरिप्ताय चक्षुः प्रत्यधत्तं । ऋ. १-१०८-७ ।
+> दशस्यथः । दत्तवंतौ । युवं कण्णायापिरिप्ताय चक्षुः प्रत्यधत्तं । ऋ. सं. १-१०८-७ ।
 > इत्यत्रेतिहास उक्तः । सोऽत्र द्रष्टव्यः ॥
 
 ##### Gist of the bhāṣya
@@ -18805,7 +18805,7 @@ To Kanwa when blinded (by the Asuras) in his dwelling, you rendered, Nasatyas, e
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> हे वृषण्वसू वर्षणधनौ ॥ वृषण्वस्वक्षयोरुपसंख्यानं । पा. १-४-१८-४ ।
+> हे वृषण्वसू वर्षणधनौ ॥ वृषण्वस्वक्षयोरुपसंख्यानं । पा. सू. १-४-१८-४ ।
 > इति वृषण्भावो निपात्यते ॥ तादानीं ताभिः पूर्वोक्ताभिर्नव्यसीभिर्नवतराभिः सुशस्तिभिः सुप्रशस्याभिरूतिभी रक्षाभिः सार्धमा यातं । आगच्छतं । यद्यदा वां हुवे
 > स्तुतिभिराह्वयामि ॥
 
@@ -19021,7 +19021,7 @@ Ascend, Aswins, your sky-touching chariot with a golden seat and golden reins.
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे अश्विनौ वां युवयो रभिरारंभणीयालंभनभूता रथस्येषा हिरण्ययी
-> हिरण्मयी हिरण्यविकारा । अक्षश्च हिरण्ययो हिरण्मयो हिरण्यनिर्मितः ॥ ईषा अक्षादिषु च्छंदसि । पा. ६-१-१२७-२ । इति प्रकृतिभावः ॥ अपि चोभोभे द्वे अपि चक्रा
+> हिरण्मयी हिरण्यविकारा । अक्षश्च हिरण्ययो हिरण्मयो हिरण्यनिर्मितः ॥ ईषा अक्षादिषु च्छंदसि । पा. सू. ६-१-१२७-२ । इति प्रकृतिभावः ॥ अपि चोभोभे द्वे अपि चक्रा
 > चक्रे रथचरणे हिरण्यया हिरण्मये सुवर्णनिर्मिते ॥ सुपां सुलुगिति द्विवचनस्याकारः । ऋत्त्ववास्त्ववं स्तैत्यादिना हिरण्यशब्दान्मयटो मलोपो निपात्यते ॥
 
 ##### Gist of the bhāṣya
@@ -20206,12 +20206,12 @@ You have hurled your wielded thunderbolt upon the impious Shushna; you are renow
 > द्यावो द्युलोका इममिंद्रमोजसा बलेन न विव्यचंत । न वाप्नुवंति ।
 > द्युलोकेभ्योऽप्यस्य बलमधिकमित्यर्थः । तथांतरिक्षाण्यंतरा क्षांतानि द्यावापृथिव्योर्मध्यॆ वर्तमाना लोका वज्रिणं वज्रवंतमिंद्रं न व्याप्नुवंति । तथा
 > भूमयो भूलोकाश्च तमिंद्रं न व्याप्नुवंति । त्रयो ना इमे त्रिवृतॆ लोकाः ।
-> ऐ. आ. १-१-२ । इति ब्राह्मणादेकैकस्य लोकस्य त्रित्वं । तिस्रो भूमीः । ऋ. २.२७-८ ।
+> ऐ. आ. १-१-२ । इति ब्राह्मणादेकैकस्य लोकस्य त्रित्वं । तिस्रो भूमीः । ऋ. सं. २.२७-८ ।
 > इत्यादिनिगमाच्च ॥
 
 ##### Gist of the bhāṣya
 
-The heavens (the heaven-worlds) do not reach this Indra in strength; his strength exceeds even the heavens. Likewise the intermediate regions (the worlds lying between heaven and earth) do not reach Indra, the wielder of the thunderbolt, and the earth-worlds do not reach him either. Each world is threefold, according to the Brāhmaṇa त्रयो ना इमे त्रिवृतॆ लोकाः । ऐ. आ. १-१-२ । (*trayo nā ime trivṛtè lokāḥ | ai. ā. 1-1-2 |*) (Ai. Ā. 1-1-2), and from the Nigama तिस्रो भूमीः । ऋ. २.२७-८ । (*tisro bhūmīḥ | ṛ. 2.27-8 |*) (Ṛ. 2.27-8) and the like.
+The heavens (the heaven-worlds) do not reach this Indra in strength; his strength exceeds even the heavens. Likewise the intermediate regions (the worlds lying between heaven and earth) do not reach Indra, the wielder of the thunderbolt, and the earth-worlds do not reach him either. Each world is threefold, according to the Brāhmaṇa त्रयो ना इमे त्रिवृतॆ लोकाः । ऐ. आ. १-१-२ । (*trayo nā ime trivṛtè lokāḥ | ai. ā. 1-1-2 |*) (Ai. Ā. 1-1-2), and from the Nigama तिस्रो भूमीः । ऋ. सं. २.२७-८ । (*tisro bhūmīḥ | ṛ. saṃ. 2.27-8 |*) (Ṛ. Saṃ. 2.27-8) and the like.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -21086,7 +21086,7 @@ The Kanwas glorify Indra; like waters rushing down a declivity, praise spontaneo
 
 > उक्तानि शस्त्राण्यस्माभिः शस्यमानानींद्रं ववृधुः । वर्धयंति । सिंधवः
 > स्यंदनशीला नद्यः समुद्रमिव समुद्रं जलधिं यथा वर्धयंति तद्वत् । कीदृशमिंद्रं । अनुत्तमन्युं । अनुत्तोऽप्रेरितः परैरनभिभूतो मन्युः क्रोधो यस्य
-> तादृशं ॥ नुदविदोंदत्रेत्यादिना । पा. ८-२-५६ । विकल्पितत्वान्निष्ठानत्वाभावः ॥
+> तादृशं ॥ नुदविदोंदत्रेत्यादिना । पा. सू. ८-२-५६ । विकल्पितत्वान्निष्ठानत्वाभावः ॥
 > अजरं जरारहितं ॥ बहुव्रीहौ नइषो जरमरमित्रमृता इत्युत्तरपदाद्युदात्तत्वं ॥
 
 ##### Gist of the bhāṣya
@@ -22419,7 +22419,7 @@ They who, like dropping showers, inflate heaven and earth with rain, milking the
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> स्वानेभिः स्वानैः शब्दैर्मरुत उदीरते । उद्गच्छंति ॥ स्वन शब्दे । स्वनहसोर्वा । सा. ३-३-६२ । इत्यपो विकल्पितत्वात्पक्षे घञ् । कर्षात्वत इत्यंतोदात्तत्वं । बहुलं छंदसीति । भिस ऐसभावः ॥ उ इति पूरणः । तथा रथै रथप्रमुख्यर्वाहनैश्चोदीरते । पृश्निमातरः .... .... .... .... ॥
+> स्वानेभिः स्वानैः शब्दैर्मरुत उदीरते । उद्गच्छंति ॥ स्वन शब्दे । स्वनहसोर्वा । पा. सू. ३-३-६२ । इत्यपो विकल्पितत्वात्पक्षे घञ् । कर्षात्वत इत्यंतोदात्तत्वं । बहुलं छंदसीति । भिस ऐसभावः ॥ उ इति पूरणः । तथा रथै रथप्रमुख्यर्वाहनैश्चोदीरते । पृश्निमातरः .... .... .... .... ॥
 
 ##### Gist of the bhāṣya
 
@@ -23074,12 +23074,12 @@ When, Maruts, will you repair with joy-bestowing riches to the sage thus adoring
 ### Printed p. 560
 
 > धत्वं छांदसं ॥ ईदृशा हे मरुतः वृत्रेण सह युध्यमानमिंद्रं नूनं सत्यमजहातन पर्यत्यजतेति यदेतत् तत्कद्ध कदा खलु कस्मिन्काले जातं । न कदाचिदपीत्यर्थः । तथा च ब्राह्मणं । मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्व।
-> ऐ. ब्रा. ३-२० । इति । वृत्रस्य त्वा श्वसथादीषमाणाः । ऋ. ८.९६-७ । इत्यादि च निगमांतरं । यत एवमतः कारणाद्वो युष्माकं सखित्वे ॥ व्यत्ययेन सप्तमी ॥ सखिभावं कः स्तोतौहते । याचते । यद्वा । वहते । प्राप्नोति । ईदृशमनपायं
+> ऐ. ब्रा. ३-२० । इति । वृत्रस्य त्वा श्वसथादीषमाणाः । ऋ. सं. ८.९६-७ । इत्यादि च निगमांतरं । यत एवमतः कारणाद्वो युष्माकं सखित्वे ॥ व्यत्ययेन सप्तमी ॥ सखिभावं कः स्तोतौहते । याचते । यद्वा । वहते । प्राप्नोति । ईदृशमनपायं
 > युष्मत्सखित्वं दुर्लभमित्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
-The lengthening and the ध (*dha*) are Vedic. O Maruts, such as you are: that you really abandoned Indra while he fought with Vṛtra — when did that ever happen? Never. So too the Brāhmaṇa: मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्व। (*maruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasva|*) (Ai. Brā. 3-20), and another text: वृत्रस्य त्वा श्वसथादीषमाणाः (*vṛtrasya tvā śvasathādīṣamāṇāḥ*) (Ṛ. 8.96-7). Since this is so, what praiser (कः (*kaḥ*)) begs (ओहते (*ohate*): or, obtains) your friendship (सखित्वे (*sakhitve*), a locative used for the accusative)? The sense: such unfailing friendship with you is hard to obtain.
+The lengthening and the ध (*dha*) are Vedic. O Maruts, such as you are: that you really abandoned Indra while he fought with Vṛtra — when did that ever happen? Never. So too the Brāhmaṇa: मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्व। (*maruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasva|*) (Ai. Brā. 3-20), and another text: वृत्रस्य त्वा श्वसथादीषमाणाः (*vṛtrasya tvā śvasathādīṣamāṇāḥ*) (Ṛ. Saṃ. 8.96-7). Since this is so, what praiser (कः (*kaḥ*)) begs (ओहते (*ohate*): or, obtains) your friendship (सखित्वे (*sakhitve*), a locative used for the accusative)? The sense: such unfailing friendship with you is hard to obtain.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -23291,7 +23291,7 @@ Horses that quickly pervade all the firmament and travel, bearing food to the pr
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अग्निर्ह्यग्निः खल्वर्चिसा तेजसा पूर्व्यः सर्वेषु देवेषु मुख्यो जानि ।
-> अजायत ॥ दीपजनेत्यादिना । पा. ३-१-६१ । कर्तरि लुज् च्लेक्षिणादेशः ॥ तत्र
+> अजायत ॥ दीपजनेत्यादिना । पा. सू. ३-१-६१ । कर्तरि लुज् च्लेक्षिणादेशः ॥ तत्र
 > दृष्टांतः । छंद उपच्छंदनीयः सूरो न सूर्य इव । तदनंतरं ते पूर्वोक्तगुणा मरुतो भानुभिर्दिप्तिभिर्वि तस्थरे । विविधमवतिष्ठंते । अग्निमारुते ह्यग्निः
 
 ##### Gist of the bhāṣya
@@ -24269,12 +24269,12 @@ Come to us, Aswins, sources of happiness, sources of health; (come) adorable (As
 > हे अश्विनौ याभिरूतिभिः कण्वमृषिं मेधातिथिं चावतं अरक्षतं । याभिश्च
 > वशमेतत्संज्ञं चावतं । याभिश्च गोर्शर्यं । शीर्षा गौर्यस्य स गोर्शर्यः
 > शयुः । तथा चाम्नातं । शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० ।
-> ऋ. १.११६-२२ । इति । ईदृशं गोर्शर्यं शयुमावतं अरक्षतं । हे नरा नेतारौ
+> ऋ. सं. १.११६-२२ । इति । ईदृशं गोर्शर्यं शयुमावतं अरक्षतं । हे नरा नेतारौ
 > ताभिरूतिभिर्नोऽस्मानवतं । रक्षतं ॥
 
 ##### Gist of the bhāṣya
 
-O Aśvins, with the protections with which you protected the ṛṣi Kaṇva and Medhātithi, and with which you protected Vaśa (so named), and with which you protected Gorśarya — he whose head is that of a cow is गोर्शर्यः (*gorśaryaḥ*), शयुः (*śayuḥ*). So it is recorded: शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० । (*śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgā0 |*) (Ṛ. 1.116-22). Such a Gorśarya, Śayu, you protected. O leaders, with those protections protect us.
+O Aśvins, with the protections with which you protected the ṛṣi Kaṇva and Medhātithi, and with which you protected Vaśa (so named), and with which you protected Gorśarya — he whose head is that of a cow is गोर्शर्यः (*gorśaryaḥ*), शयुः (*śayuḥ*). So it is recorded: शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गा० । (*śayave cinnāsatyā śacībhirjasuraye staryaṃ pipyathurgā0 |*) (Ṛ. Saṃ. 1.116-22). Such a Gorśarya, Śayu, you protected. O leaders, with those protections protect us.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -24412,7 +24412,7 @@ May (perfect) hymns and holy praises magnify you, Aswins: protectors of many, ex
 > त्रीणि त्रिसंख्याकान्य नयोरश्विनोर्दॆवयो रथस्य संबंधीनि पदानि चक्राणि
 > गुहायां वर्तमानान्येतावंतं कालमदृश्यमानानि परो गुहायाः परस्ताद्दष्टिगोचरे देश आविः संति । आविर्भवंति ॥ सांहितिकश्चांदसो धीर्घः । व्यत्ययेन
 > निघाताभावः । यद्वा । संतीत्येतदस्तेः शतरि जसि रूपं ॥ आविर्भूतानि दृश्यंते ।
-> आश्विनस्य रथस्य चक्रत्रयोपेतत्वं च रथस्त्रिचक्रः परि वर्तते । ऋ. ४-३६-१ । इत्यादिनि
+> आश्विनस्य रथस्य चक्रत्रयोपेतत्वं च रथस्त्रिचक्रः परि वर्तते । ऋ. सं. ४-३६-१ । इत्यादिनि
 > गमांतरे प्रसिद्धं । कवी क्रांतदर्शिनावश्विनावृतस्य सत्यस्योदकस्य यज्ञस्य वा हेतुभूतैः पत्रभिर्य्यैः पदैर्जीवेभ्यस्परि । परिरुपर्यर्थः ॥ पंचम्याः परावध्यर्थ इति
 > सत्वं ॥ जीवानामःपरि जीवेष्वस्मास्वर्नागभिमुखं । आगच्छतमिति शेषः । तानि
 > पदानीदानीमुपलभ्यंत इत्यन्वयः ॥
@@ -24780,11 +24780,11 @@ Although, Nasatyas, you cherish (all beings), although, divinities, you heal (al
 > सूत्र्यते हि । आ नूनमश्विनोर्ऋषिरिति गव्य आ सुते सिंचत श्रियमित्याजे ।
 > आ. ४-७ । इति ॥
 > हे अश्विनौ यदा युवामागच्छेयाथां तदानीं युवयोरश्विनोः
-> स्तोमं स्तोत्रमृषिर्मंत्रद्रष्टा वामया वननीययोत्कृष्टया बुद्ध्या नूनमवश्यमा चिकेत । अभिजानीयात् ॥ कित ज्ञाने । छांदसो लिट् ॥ तथा मधुमुत्तममतिशयेन मधुरं सोमं घर्मं प्रवर्गसंबंधि घर्माख्यं हविश्चाधर्वण्यहिंसकेग्नौ । यद्वा । अथर्वा ऋषिः । तेन निर्मथितोग्निरुपचारादथर्वेत्युच्यते । अथर्वणा निर्मथनं च त्वामग्ने पुष्करादधि । ऋ. ६-१६-१३ । इत्यादिनिगमांतरेवगम्यते । तस्मिन्नग्नावा सिंचात् । आसिंचेत् । प्रक्षिपेत् । अतः शीघ्रवागच्छतमित्यर्थः ॥
+> स्तोमं स्तोत्रमृषिर्मंत्रद्रष्टा वामया वननीययोत्कृष्टया बुद्ध्या नूनमवश्यमा चिकेत । अभिजानीयात् ॥ कित ज्ञाने । छांदसो लिट् ॥ तथा मधुमुत्तममतिशयेन मधुरं सोमं घर्मं प्रवर्गसंबंधि घर्माख्यं हविश्चाधर्वण्यहिंसकेग्नौ । यद्वा । अथर्वा ऋषिः । तेन निर्मथितोग्निरुपचारादथर्वेत्युच्यते । अथर्वणा निर्मथनं च त्वामग्ने पुष्करादधि । ऋ. सं. ६-१६-१३ । इत्यादिनिगमांतरेवगम्यते । तस्मिन्नग्नावा सिंचात् । आसिंचेत् । प्रक्षिपेत् । अतः शीघ्रवागच्छतमित्यर्थः ॥
 
 ##### Gist of the bhāṣya
 
-In the Pravargya, this verse "आ नूनं (*ā nūnaṃ*)" is to be recited as an after-verse while the cow's milk is being poured into the Mahāvīra vessel. It is taught in the sūtra आ नूनमश्विनोर्ऋषिरिति गव्य आ सुते सिंचत श्रियमित्याजे (*ā nūnamaśvinorṛṣiriti gavya ā sute siṃcata śriyamityāje*) (Ā. 4-7). O Aśvins, when you come, then the seer, the mantra-seer, will surely, with desirable and excellent understanding, know the praise of you the Aśvins (कित (*kita*) is in the sense of knowing; the perfect is Vedic). And he will pour the very sweet Soma, and the oblation named gharma connected with the Pravargya, on the Atharvan, the non-injuring fire. Or else, Atharvan is a seer; the fire kindled by him is by transference called Atharvan, as is understood from another text such as अथर्वणा निर्मथनं च त्वामग्ने पुष्करादधि (*atharvaṇā nirmathanaṃ ca tvāmagne puṣkarādadhi*) (Ṛ. 6-16-13). Into that fire he would pour, would cast in. Therefore the sense is: come quickly.
+In the Pravargya, this verse "आ नूनं (*ā nūnaṃ*)" is to be recited as an after-verse while the cow's milk is being poured into the Mahāvīra vessel. It is taught in the sūtra आ नूनमश्विनोर्ऋषिरिति गव्य आ सुते सिंचत श्रियमित्याजे (*ā nūnamaśvinorṛṣiriti gavya ā sute siṃcata śriyamityāje*) (Ā. 4-7). O Aśvins, when you come, then the seer, the mantra-seer, will surely, with desirable and excellent understanding, know the praise of you the Aśvins (कित (*kita*) is in the sense of knowing; the perfect is Vedic). And he will pour the very sweet Soma, and the oblation named gharma connected with the Pravargya, on the Atharvan, the non-injuring fire. Or else, Atharvan is a seer; the fire kindled by him is by transference called Atharvan, as is understood from another text such as अथर्वणा निर्मथनं च त्वामग्ने पुष्करादधि (*atharvaṇā nirmathanaṃ ca tvāmagne puṣkarādadhi*) (Ṛ. Saṃ. 6-16-13). Into that fire he would pour, would cast in. Therefore the sense is: come quickly.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -26777,14 +26777,14 @@ of mighty (foes ), then your vast and special energy has been augmented.
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> अयमिंद्रः सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य रश्मिभिः किरणैः करणभूतैरर्शसानं ॥ आर्तेर्गुणः शुट्ट । उ. २-८८ । इत्य गतावित्यस्मादसानच् प्रत्ययः
+> अयमिंद्रः सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य रश्मिभिः किरणैः करणभूतैरर्शसानं ॥ आर्तेर्गुणः शुट्ट । उ. सू. २-८८ । इत्य गतावित्यस्मादसानच् प्रत्ययः
 > शुडागमश्च । अयं केवलोऽप्यतिराज् पूर्वार्थो द्रष्टव्यः । अज्‌पूर्वश्च
-> बाधने वर्तते । यथा आर्तिमार्तोः । शत. १-३१-२-४ ॥ अर्शसानं बाधमानं
+> बाधने वर्तते । यथा आर्तिमार्तोः । श. ब्रा. १-३१-२-४ ॥ अर्शसानं बाधमानं
 > मंदेहादिकमसुरं न्यूषति । नितरां दहति ॥ उष दाहे ॥ तत्र दृष्टांतः । अग्निर्वनेव । यथा वनारण्यानि दावानलो भस्मसात्करोति तद्वत् । एवं सासहिः शत्रूणामभिभवनशील इंद्रः प्र नावृधे ! प्रकर्षण वर्धते ॥
 
 ##### Gist of the bhāṣya
 
-This Indra, by the rays—the instruments—of the sun, the impeller of all, नि ओषति (*ni oṣati*) burns up completely अर्शसानं (*arśasānaṃ*), the oppressing asura, Mandeha and the like. (The word अर्शसानं (*arśasānaṃ*) is explained from the root *ārteḥ* in the sense of going, with the affix *asānac*; its prefix is understood in the sense of oppressing, and as an example he quotes आर्तिमार्तोः (*ārtimārtoḥ*), with a reference given as शत. १-३१-२-४ (*śata. 1-31-2-4*).) The illustration: as a forest fire reduces forests to ashes, so Indra, सासहिः (*sāsahiḥ*), the overcomer of enemies, grows forth greatly.
+This Indra, by the rays—the instruments—of the sun, the impeller of all, नि ओषति (*ni oṣati*) burns up completely अर्शसानं (*arśasānaṃ*), the oppressing asura, Mandeha and the like. (The word अर्शसानं (*arśasānaṃ*) is explained from the root *ārteḥ* in the sense of going, with the affix *asānac*; its prefix is understood in the sense of oppressing, and as an example he quotes आर्तिमार्तोः (*ārtimārtoḥ*), with a reference given as श. ब्रा. १-३१-२-४ (*śa. brā. 1-31-2-4*).) The illustration: as a forest fire reduces forests to ashes, so Indra, सासहिः (*sāsahiḥ*), the overcomer of enemies, grows forth greatly.
 
 **NOTE**
 
@@ -27238,7 +27238,7 @@ Inasmuch, protector of the virtuous, as you are the benefactor of the worshipper
 > हे ऋत्विग्यजमानाः वो युष्माकमवसे रक्षणाय देवं देवमिंद्रमिंद्रं
 > दानादिगुणयुक्तं । इंद्रो बहुषु देशेषु युगपत्रवृत्तेषु यागेषु तत्र तत्र
 > हविःस्वीकरणायबहूनि शरीराण्याददानः स्वयमेकोऽप्यनेकः संस्तत्र तत्रसंनिधत्ते।
-> तथा च निगमांतरं । इंद्रो मायाभिः पुरुरूप ईयते । ऋ. ६-४७-१८ । इति ।
+> तथा च निगमांतरं । इंद्रो मायाभिः पुरुरूप ईयते । ऋ. सं. ६-४७-१८ । इति ।
 > तदपेक्षयेयं वीप्सा । बहु विभज्य वर्तमानं सर्वं तमिंद्रं गृणीषणि । अहं
 > सौमि ॥ गृणातेर्लिजु छांदसमेतद्रूपं ॥ यद्वा । कारकमेवैतत् । गृणीषणि
 > स्तवनेच्छायां सत्यां । आधानंतरं सर्वमिंद्रं मदीयाः स्तुतयो व्यानशुः ।
@@ -32440,7 +32440,7 @@ May Aditi protect our cattle by day, and free from duplicity, (guard them) by ni
 > उतापि च स्या सा पूर्वोक्ता मतिर्मंत्री मंतव्या स्तोतव्या वादितिरूता
 > रक्षया सार्धं दिवाहनि नोऽस्माना गमत् । आगच्छतु । अगत्य च शंताति शांतिकरं
 > मयः सुखं सादितिः करत् । करोतु । स्रिधो बाधकाञ्छत्रूंश्चापगमयतु ॥
-> स्रिधिर्बाधनार्थः । शिवशमरिष्टस्य करे । पा. ४-४-१४३. । इति शंशब्दात्करणार्थे
+> स्रिधिर्बाधनार्थः । शिवशमरिष्टस्य करे । पा. सू. ४-४-१४३. । इति शंशब्दात्करणार्थे
 > तातिल्पत्ययः ॥
 
 ##### Gist of the bhāṣya
@@ -33401,7 +33401,7 @@ Agni, the great grandson of (sacrificial) food, the possessor of opulence, the i
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> इयं पाकयज्ञप्रशंसापरेति भवगवताश्वलायनेन व्याख्याता । आ. गृ. १-१-
+> इयं पाकयज्ञप्रशंसापरेति भवगवताश्वलायनेन व्याख्याता । आ. गृ. सू. १-१-
 > ४. । यो मर्त्यो मनुष्यः समिधा पालाशादिनेध्वेनाग्न्ययेऽग्न्यर्थं ददाश
 > परिचरति । यश्चाहुती आहुत्याज्यादिसाध्यया परिचरति । यश्च वेदेन वेदाध्ययनेन
 > परिचरति । यश्च स्वध्वरः शोभनेनाध्वरेण ज्योतिष्टोमादिना युक्तः सन्नमसान्नेन
@@ -33410,7 +33410,7 @@ Agni, the great grandson of (sacrificial) food, the possessor of opulence, the i
 
 ##### Gist of the bhāṣya
 
-The revered Āśvalāyana has explained this Ṛk as praise of the pāka-yajña (Ā. Gṛ. 1-1-4 **NOTE**). The mortal, the man, who serves Agni with fuel (समिधा (*samidhā*)), that is, palāśa and similar kindling wood; who serves with oblations (आहुती (*āhutī*)) accomplished with ghee and the like; who serves with the Veda (वेदेन (*vedena*)), that is, by study of the Veda; and who, being स्वध्वरः (*svadhvaraḥ*), that is, endowed with a fine sacrifice such as the Jyotiṣṭoma, serves Agni with नमसा (*namasā*), that is, with food such as the caru and puroḍāśa. The connection is with तस्येदर्वंत (*tasyedarvaṃta*) in the next Ṛk.
+The revered Āśvalāyana has explained this Ṛk as praise of the pāka-yajña (Ā. Gṛ. Sū. 1-1-4 **NOTE**). The mortal, the man, who serves Agni with fuel (समिधा (*samidhā*)), that is, palāśa and similar kindling wood; who serves with oblations (आहुती (*āhutī*)) accomplished with ghee and the like; who serves with the Veda (वेदेन (*vedena*)), that is, by study of the Veda; and who, being स्वध्वरः (*svadhvaraḥ*), that is, endowed with a fine sacrifice such as the Jyotiṣṭoma, serves Agni with नमसा (*namasā*), that is, with food such as the caru and puroḍāśa. The connection is with तस्येदर्वंत (*tasyedarvaṃta*) in the next Ṛk.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -35223,7 +35223,7 @@ We know the great strength of the active sons of Rudra, the Maruts, the shedders
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> द्वीपानि द्वयोः पार्श्वयोरापो येषु तान्न्युदमध्यस्थलानि ॥ द्व्यंतरुपसर्गेभ्योऽप ईत् । पा. ६-३-९७ । इतीत्वं । ऋक्सूरित्यादिनाकारः समासांतः ॥
+> द्वीपानि द्वयोः पार्श्वयोरापो येषु तान्न्युदमध्यस्थलानि ॥ द्व्यंतरुपसर्गेभ्योऽप ईत् । पा. सू. ६-३-९७ । इतीत्वं । ऋक्सूरित्यादिनाकारः समासांतः ॥
 > तानि च वि पापतन् । अत्यर्थं मरुद्वेगेन विपतंति । तिष्ठत् स्थावरं चान्यद्वृक्षजातं
 > दुच्चुना दुःखेन युज्यते । उभे रोदसी द्यावापृथिव्यावसि युजंत' तॆ: मरुतः
 > स्वागमनजनितेन कंपनेन योजयुति। परोऽर्धर्चः परोक्षकृतः । धन्वानि गमनशीलान्युदकानि च प्रैरत । प्रगच्छंति । हे शुभ्रखादयः शोभनायुधाः शोभनहविष्का वा हे स्वभानवः स्वायत्तदीप्तयः यूयं यद्यदैजथ कंपयथ

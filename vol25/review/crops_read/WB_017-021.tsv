@@ -1,0 +1,54 @@
+Q0722	ಜಿನು	certain	print ಜಿನುಗುತ್ತಾ
+Q0732	ಹಸಿಗಳಿ	likely	damaged letters between ಗ and ಂದ
+Q0733	ಬೆಳ್ಳ	likely	damaged
+Q0735	ಹತ್ತು	likely	end of word cut; first letter ಹ/ಪ
+Q0736	ಸಹ	likely	
+Q0743	ಸಿರ್ಮಿತವಾದ	certain	
+Q0751	ವೃಷ್ಟ್ಯುದಕವು	certain	
+Q0759	ಸಿಲ್ಲುವುದಕ್ಕಾಗಿ	certain	
+Q0760	ಯ	certain	print ಯಜ್ಞೇಷು
+Q0762	ಮುಂದ	likely	word at mark is ಮುಂದಕ್ಕೆ; token does not match crop
+Q0763	ಯಾಗಾನುಷ್ಠಾನನಿರತ	likely	print continues ರಾದ
+Q0765	unreadable	unreadable	crop does not show ಆ place
+Q0773	ಕರು	likely	letters after ಕರು damaged in print
+Q0774	ಅಪೇ	likely	print ಅಪೇಕ್ಷಿಸುವಂತೆ; token unclear
+Q0779	ಸೋಮು	certain	print ಸೋಮು—ಎಲ್ಲೈ
+Q0780	ಎಲ್ಲೈ	likely	
+Q0782	ಎಲ್ಲೈ	likely	
+Q0784	unreadable	unreadable	place not in crop
+Q0788	ಎಲ್ಲೈ	likely	
+Q0789	ಎಲ್ಲೈ	likely	
+Q0790	ಎಲ್ಲೈ	likely	
+Q0793	ಎಲ್ಲೈ	likely	
+Q0810	ಧ	likely	following letters damaged
+Q0813	ಉದಕದಿಂದ	likely	crop shows ಅರ್ಣಸಾ ಉದಕದಿಂದ (ಮಿಶ್ರಿತವಾಗಿ); token does not match
+Q0825	Translation	likely	print damaged Trans.ation
+Q0839	ವಹಿಸಲ್ಪಡುತ್ತಾ	certain	
+Q0845	ಒಂದೆಯೇ	likely	
+Q0850	irresistibl	likely	print damaged
+Q0852	with	likely	print cut at h
+Q0856	ಶುದ್ಧಿಕಾರಕನಾದ	likely	first letter ಶು/ಪು not ವೃ; compare Q0793
+Q0858	ಶುದ್ಧಿಕಾರಕನಾದ	likely	same
+Q0859	ಸಂತೋಷವನ್ನುಂಟುಮಾಡುವವನು	likely	
+Q0869	ಎಲ್ಲೈ	likely	word cut at crop edge
+Q0872	ಇಪ್ಪತ್ತಾರನೆಯ	certain	
+Q0873	ತಮುಮೃಕ್ಷಂತ	likely	
+Q0875	ದಾರ್ಢ್ಯಚ್ಯುತಃ	likely	crop shows this word; token does not match
+Q0877	ದಾರ್ಢ್ಯಚ್ಯುತಃ	likely	
+Q0878	ಅಣ್ವ್ಯಾ	likely	
+Q0879	ವಿಘ್ನ್ಯಕ್ತಕರ್ಮಸಹಿತವಾಗಿಯೂ	likely	hard conjuncts
+Q0882	ಸ್ವರ್ಗ	likely	following letters damaged
+Q0890	-	likely	nothing visible in gap
+Q0891	-	likely	nothing visible in gap
+Q0893	-	likely	
+Q0894	-	likely	
+Q0907	ಮಘವದ್ಭ್ಯಶ್ಚ	certain	
+Q0912	-	likely	
+Q0913	-	likely	
+Q0914	-	likely	
+Q0917	ಶ್ಚುತಂ	certain	
+Q0929	ಜೇಗನೆ	likely	first letter printed ಜ-like, not ಬ
+Q0931	ಸಮೀಪಪ್ರದೇಶದಲ್ಲಿರುವ	likely	
+Q0934	-	likely	
+Q0936	-	likely	
+Q0937	-	likely	

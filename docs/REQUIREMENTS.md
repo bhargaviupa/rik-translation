@@ -226,6 +226,9 @@ The text of the original, page by page, with its Sanskrit in Kannada script. Not
 | D16 | The pages before the preface are the same files in every volume; pictures 1 and 2 are the first two pages of the PDF; the abbreviations list is the generated legend. | A2, B3.7 |
 | D17 | Every Ṛk of the volume has its Saṃhitā, Pada and bhāṣya from the Wikisource index, none missing and none twice; the places of B5.6 carry their `NOTE`. This is a count, not a comparison of the text. | B1.2, K9 |
 | D18 | Every Pratipadārtha word of the volume has been compared with the reference Pada of its Ṛk (`tools/rv/pratipada_check.py`, C4): the report is in `volN/review/pratipada_check.tsv`; no `fix-certain` row is left unapplied; each `near`/`absent` row is answered or carries a `NOTE`; the number of words compared and of Ṛks matched is reported. | C4, B1.6 |
+| D19 | **Sequence and counts by script.** The `## Sūkta N (Maṇḍala M)` headings of the English file are exactly the sūktas the volume covers, each once and in order, with the right Maṇḍala number; the number of `#### Ṛk` headings of each sūkta equals the Wikisource index (`ws_index.py`; a supplementary Ṛk or a Ṛk missing in the supplied text is a `NOTE`); the Kannada file has the same headings (`kn_headings.py`). The number of sūktas and Ṛks compared is reported. | script | B1.2, K9 |
+| D20 | **No letter of a foreign script in either file** (Telugu, Cyrillic, Tamil, … came from OCR and from the model's typing): a Telugu or Cyrillic letter in the English or Kannada text is transliterated by script to the script of the file, or listed. | script | B2 |
+| D21 | **Page marks of the two files agree** (`### Printed p. N` ↔ `<!-- printed N -->`, same pages in the same order); the printed numbers that have no page mark of their own are listed (`review/page_flags.md`). | script | A4 |
 
 Each check reports how many items it compared. A volume that was not checked is "not checked", never "clean".
 D1 and D2 are agreed in principle; how they work is for the design document.
@@ -477,6 +480,8 @@ The abbreviation check (H12, H13, S6: a form not in `rv/references.tsv`, for exa
 3. The departures of B1.6 are carried out in the source (*leaning*).
 4. The bhāṣya from the wiki source is placed in the volume's Sāyaṇa-bhāṣya document and the Sāyaṇa-bhāṣya book is made (K9).
 5. The human readings of Part J that belong to this stage (HR1–HR3).
+
+6. *Settled Nov 24–25 2026 (Vols 6 and 1):* the readers' findings are not put to the editor as questions: a Kannada misprint with the English kept and any other doubt are decided by rule and listed (`kn_misprints.tsv`, `decided_by_default.tsv`); the Sanskrit lines of the English are not edited (derived data, K9, B1.2); numbers come from the supplied Kannada and a number the print lacks is removed; one report format (`docs/SECOND_PASS_REPORT.md`). See CLAUDE.md "Second pass of a legacy volume".
 
 ### I7. Not built yet
 The packets, the findings file, the marks of I3.4, the instructions for R2–R6, and the measurements of I5. Until they are, D2 is carried out by hand or by the Vol 12 method.

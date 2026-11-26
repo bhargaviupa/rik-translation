@@ -8,3 +8,5 @@
 - 2026-11-18/19 printed pp. 676-681 (Sūkta 18 Ṛk 4 Gist): "Sāyaṇa's seer doubted" → "the seer doubted" (slip in the Gist; Sāyaṇa is not the seer); nothing else changed.
 - 2026-11-19 printed pp. 792-797 (Sūkta 24 Ṛk 7 Pratipadārtha): "make wear away, (do not)" → "do not make wear away" (the Kannada gloss is "ನ ಜರಂತಿ—ಕ್ಷಯಿಸುವಂತೆ ಮಾಡುವುದಿಲ್ಲವೋ"; the parenthetical was a remark of the agent's); nothing else changed.
 - front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 13 NOTE rows added at the top of review/notes.tsv.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: en latin 17, kn kannada 15; every change is a row of review/refs_applied.tsv.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (rv/references.tsv), numbers untouched: en deva 26, en latin 49, kn kannada 42; every change is a row of review/refs_applied.tsv.

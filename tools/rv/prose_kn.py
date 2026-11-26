@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Kannada text of a PROSE volume (or prose part) from the supplied machine-read files, page by page, with `<!-- printed N -->` marks.
 
-  python3 tools/rv/prose_kn.py OUT.md "file.md@1-224" "file.html@225-573" "file.md@575-720" [--front file.md] [--rk-from N]
+  python3 tools/rv/prose_kn.py OUT.md "file.md@1-224" "file.html@225-573" "file.md@575-720" [--front file.md] [--rk-from N] [--vol N]
 
 Same cleaning as html_to_kn.py (clean_line: '||'/'|' -> danda, Telugu digits, avagraha, the user's reference-abbreviation reading; stray lines kept as italic
 notes; line-end hyphen joins; Devanagari inside Kannada rewritten letter for letter) but NO Ṛk-section structure (no Saṃhitā/Pada labels): for the
@@ -11,7 +11,7 @@ block; --rk-from N: pages N.. are made by html_to_kn.kn_pages (Mandala 1) (roman
 import re,sys,os
 sys.path.insert(0,os.path.dirname(__file__))
 import html_pages as HP, html_to_kn as K
-HEADER='# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ 1 (Kannada text)\n*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/prose_kn.py for the prose pages, tools/rv/html_to_kn.py from the first Ṛk page). `[?]` marks a doubtful reading.*\n\n---\n'
+HEADER='# ಋಗ್ವೇದ ಸಂಹಿತಾ — ಸಂಪುಟ {VOL} (Kannada text)\n*The Kannada text of the printed pages, made by script from the supplied machine-read text (tools/rv/prose_kn.py for the prose pages, tools/rv/html_to_kn.py from the first Ṛk page). `[?]` marks a doubtful reading.*\n\n---\n'
 def clean_page(printed,head,text):
     out=[f'<!-- printed {printed} -->']
     if head: out.append('*['+K.clean_line(head)+']*')
@@ -40,7 +40,7 @@ if __name__=='__main__':
     rk=int(a[a.index('--rk-from')+1]) if '--rk-from' in a else None
     if rk: a=[x for i,x in enumerate(a) if x!='--rk-from' and a[i-1]!='--rk-from']
     out,specs=a[0],a[1:]; H={}; P=HP.load_many(specs,H); lo,hi=min(P),max(P)
-    md=[HEADER.replace('ಸಂಪುಟ 1','ಸಂಪುಟ '+vol)] if rk else []
+    md=[HEADER.replace('{VOL}',vol)] if rk else []
     if fr: md.append(front(fr))
     for p in range(lo,(rk or hi+1)):
         md.append(clean_page(p,H.get(p,''),P[p]) if p in P else f'<!-- printed {p}: NOT IN THE SUPPLIED TEXT -->\n')

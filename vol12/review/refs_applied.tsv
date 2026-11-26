@@ -295,3 +295,30 @@ date	file	line	script	as written	number	becomes	rule	check	text
 2026-11-18	en	7680	place	Pā, Sū. 6-2-199		Pā. Sū. 6-2-199	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
 2026-11-18	en	9298	place	Pā Sū. 6-1-70		Pā. Sū. 6-1-70	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
 2026-11-18	en	9631	place	Pā Sū. 3-2-98		Pā. Sū. 3-2-98	place: user decision Nov 18 2026 (REFERENCES_SU_DECIDED/PA_OTHER)		
+2026-11-26	en	3465	kannada	ಅ. ವೇ.	4-2-6	ಅಥ. ಸಂ.	list		.... । (*yāsu devīṣvadhi deva āsīt .... .... .... .... |*) (ಅ. ವೇ. 4-2-6) *[the line ends in printed dots]*
+2026-11-26	en	3467	kannada	ಅ. ವೇ.	4-2-8	ಅಥ. ಸಂ.	list		्धिरण्ययः । (*tasyota jāyamānasya ulba āsīddhiraṇyayaḥ |*) (ಅ. ವೇ. 4-2-8) *[the reference line is printed twice; the second is kept in k
+2026-11-26	kn	2631	kannada	ಅ. ವೇ.	೧೦-೭-೬	ಅಥ. ಸಂ.	list		(ಅ. ವೇ. ೧೦-೭-೬ ರಿಂದ ೭)
+2026-11-26	kn	4150	kannada	ಅ. ವೇ.	೪-೨-೬	ಅಥ. ಸಂ.	list		(ಅ. ವೇ. ೪-೨-೬)
+2026-11-26	kn	4153	kannada	ಅ. ವೇ.	೪-೨-೮	ಅಥ. ಸಂ.	list		(ಅ. ವೇ. ೪-೨-೮)
+2026-11-26	kn	4155	kannada	ಅ. ವೇ.	೪-೨-೮	ಅಥ. ಸಂ.	list		*(ಅ. ವೇ. ೪-೨-೮)*
+2026-11-26	kn	6709	kannada	ಅ. ವೇ.	೭-೩-೨೩	ಅಥ. ಸಂ.	list		ಅ. ವೇ. ೭-೩-೨೩ ; ತೈ. ಸಂ. ೫-೧-೬-೩ ; ವಾ. ಸಂ. ೧೧-೫೯ ; ತೈ. ಸಂ. ೪-೧-೫-೪ ಇತ್ಯಾದಿ ಸ್
+2026-11-26	kn	15914	kannada	ತಾ. ಬ್ರಾ.	೭-೭-೧೫	ಪ. ಬ್ರಾ.	list		(ತಾ. ಬ್ರಾ. ೭-೭-೧೫)
+2026-11-26	kn	20666	kannada	ಅ. ವೇ.	೬-೧೨೮	ಅಥ. ಸಂ.	list		ಯಿರುವ ಅ. ವೇ. ೬-೧೨೮ ನೇ ಅಧ್ಯಾಯವನ್ನು ಪರಸ್ಥಳಕ್ಕೆ ಪ್ರಯಾಣಮಾಡುವ ವ್ಯಾಪಾರಿಯು ತನ್ನ ಪೂಜಾ
+2026-11-26	en	6844	place	Pā Sū. 6-1-168		Pā. Sū. 6-1-168	already as decided		
+2026-11-26	en	6852	place	Pā Sū. 6-1-7		Pā. Sū. 6-1-7	already as decided		
+2026-11-26	en	7398	place	Āpastamba, Sū. 20-5-2		Āp. Sū. 20-5-2	already as decided		
+2026-11-26	en	7680	place	Pā, Sū. 6-2-199		Pā. Sū. 6-2-199	already as decided		
+2026-11-26	en	9298	place	Pā Sū. 6-1-70		Pā. Sū. 6-1-70	already as decided		
+2026-11-26	en	9631	place	Pā Sū. 3-2-98		Pā. Sū. 3-2-98	already as decided		
+2026-11-26	en	10097	deva	उ.	२-१-५	उ. सू.	letters	one-word remark	(म: उ. २-१-५ (*ma: u. 2-1-5*)) *[as supplied: the abbreviation as printed.]*
+2026-11-26	en	10097	latin-twin	u.	2-1-5	u. sū.	list	remark	(म: उ. २-१-५ (*ma: u. 2-1-5*)) *[as supplied: the abbreviation as printed.]*
+2026-11-26	en	10110	deva	उ.	३-१-८	उ. सू.	letters	one-word remark	(मु:. उ. ३-१-८ (*mu:. u. 3-1-8*)) *[as supplied: the abbreviation as printed.]
+2026-11-26	en	10110	latin-twin	u.	3-1-8	u. sū.	list	remark	(मु:. उ. ३-१-८ (*mu:. u. 3-1-8*)) *[as supplied: the abbreviation as printed.]*
+2026-11-26	kn	13932	kannada	ಉ.	೨-೧-೫	ಉ. ಸೂ.	list	one-word	(ಮ: ಉ. ೨-೧-೫)
+2026-11-26	kn	13954	kannada	ಉ.	೩-೧-೮	ಉ. ಸೂ.	list	one-word	(ಮು:. ಉ. ೩-೧-೮)
+2026-11-26	en	6844	place	Pā Sū. 6-1-168		Pā. Sū. 6-1-168	already as decided		
+2026-11-26	en	6852	place	Pā Sū. 6-1-7		Pā. Sū. 6-1-7	already as decided		
+2026-11-26	en	7398	place	Āpastamba, Sū. 20-5-2		Āp. Sū. 20-5-2	already as decided		
+2026-11-26	en	7680	place	Pā, Sū. 6-2-199		Pā. Sū. 6-2-199	already as decided		
+2026-11-26	en	9298	place	Pā Sū. 6-1-70		Pā. Sū. 6-1-70	already as decided		
+2026-11-26	en	9631	place	Pā Sū. 3-2-98		Pā. Sū. 3-2-98	already as decided		

@@ -1,0 +1,4 @@
+Q0009	೫-೬೨	likely	print middle digit is ೬ (curl, as in header ೬), then ೨; digits not ೨೭
+Q0010	ಅಮುಚ್ಯೈತೆ	likely	final glyph faint; same form in both word-list and meaning line
+Q0011	ಗನುಸವುಳ್ಳದ್ದೂ	certain	
+Q0012	thousand-footed	likely	print has damaged o in footed
