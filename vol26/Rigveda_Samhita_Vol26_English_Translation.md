@@ -30908,6 +30908,176 @@ Exhilarate Vayu for (our) food and wealth, exhilarate Mitra and Varuna as soon a
 > ऋजुः । पवस्व । वृज़िनस्य । हंता । अपं । अमीवाम् । बाधमानः । मृधः । च ।  
 > अभिऽश्रीणन् । पयः । पयसा । अभि । गोनाम् । इंद्रस्य । त्वम् । तव । वयम् । सखायः ॥ ४३ ॥
 
+### Printed p. 838
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ऋजुः ऋजुगमनः सन् पवस्व क्षर। किं कुर्वन् वृजिनस्य उपद्रवस्य हंता अमीवां रोगरूपं राक्षसं अपबाधमानः तथा अस्मदीयान् मृधोर्हिसकान् शत्रूंश्च बाधमानः सन् पवस्व ततः पयआत्मीयंरसं गोनां गवां पयसा क्षीरेण अभिश्रीणन् अभिसंयोजयन् पात्राण्यभिगच्छसि । अपि च त्वं इंद्रस्य सखासि हे सोम तव वयं सखायः स्तुत्यस्तोतृत्वयष्टृयष्टव्यत्वलक्षणेन सखिभूताः स्मः ॥ ४३ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, being straight-going, flow, that is, stream forth. Doing what? Being the slayer of trouble (the crooked thing), driving off the demon in the form of disease, and likewise repelling our violent enemies, flow. Then, uniting your own juice with the milk of the cows, you go to the vessels. Moreover, you are Indra's friend; O Soma, we are your friends, being friends by the relation of the praised and the praiser, the one sacrificed to and the sacrificer. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजुः (*ṛjuḥ*)—(O Soma-god) of straight course
+- वृजिनस्य (*vṛjinasya*)—the one of crooked course
+- हंता (*haṃtā*)—you who are the destroyer
+- अमीवां (*amīvāṃ*)—disease
+- अप बाधमानः (*apa bādhamānaḥ*)—destroying
+- मृधः च (*mṛdhaḥ ca*)—and destroying the violent enemies
+- पवस्व (*pavasva*)—flow
+- पयः (*payaḥ*)—your juice
+- गोनां पयसा (*gonāṃ payasā*)—with the milk of the cow
+- अभिश्रीणन् (*abhiśrīṇan*)—mixing
+- अभि (*abhi*)—you enter the vessel
+- त्वं (*tvaṃ*)—you
+- इंद्रस्य (*iṃdrasya*)—Indra's friend
+- वयं (*vayaṃ*)—we
+- तव सखायः (*tava sakhāyaḥ*)—your friends
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you who are of straight course and destroy the one of crooked course, flow, destroying disease and destroying the violent enemies. Mixing your juice with milk, enter the vessel. You are Indra's friend. We are your friends.
+
+##### English translation
+Flow you who are straightgoing, the slayer of the crooked-goer, driving away disease and enemies ; mixing your juice with the juice of the cows (you go to the cups) : (you are) Indra's (friend), we (are) your friends.
+
+#### Ṛk 44
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मध्वः॒ सूदं॑ पवस्व॒ वस्व॒ उत्सं॑ वी॒रं च॑ न॒ आ प॑वस्वा॒ भगं॑ च ।  
+> स्वद॒स्वेंद्रा॑य॒ पव॑मान इंदो र॒यिं च॑ न॒ आ प॑वस्वा समु॒द्रात् ॥ ४४ ॥
+
+### Printed p. 839
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मध्वः । सूदम् । पवस्व । वस्वः । उत्सम् । वीरम् । च। नः । आ । पवस्व । भगम् । च ।  
+> स्वदस्व । इंद्राय । पवमानः । इंदो इति । रयिम् । च । नः । आ । पवस्व । समुद्रात् ॥ ४४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मध्वो माधुर्यस्य सूदं क्षारयितारं घनीभूतं आपवस्व । वस्वो वसु धनस्य उत्सं उत्स्यंदकं रसं पवस्व । किंच नोस्मभ्यं वीरं पुत्रं आपवस्व आप्रापय । तथा भगं भजनीयं धनं च देहि । हे इंदो पवमानः पूयमानः सन् इंद्राय स्वदस्व रुचितो भव । ततस्त्वं नोस्मभ्यं समुद्रादंतरिक्षात् रयिं धनं पुत्रं वा राति ददाति क्षीरमिति रयिर्गौर्वा तां वा पवस्व देहि ॥ ४४ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, flow forth the thickened pourer of sweetness; flow the spring of wealth, that is, the juice that gushes forth. Further, bring to us a hero, a son; likewise give wealth worthy of enjoyment. O Indu, being purified, be pleasing to Indra. Then you give us from the ocean, the firmament, wealth or a son; or else the word for wealth means the cow, because it gives milk; flow that, give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मध्वः (*madhvaḥ*)—(O Soma-god) sweetness
+- सूदं (*sūdaṃ*)—that makes to ooze
+- वस्वः (*vasvaḥ*)—of wealth
+- उत्सं (*utsaṃ*)—the spring
+- पवस्व (*pavasva*)—make flow
+- नः (*naḥ*)—to us
+- वीरं (*vīraṃ*)—heroic sons
+- आ पवस्व (*ā pavasva*)—provide
+- भगं च (*bhagaṃ ca*)—and give wealth worthy of enjoyment
+- इंदो (*iṃdo*)—O Soma
+- पवमानः (*pavamānaḥ*)—having become pure
+- इंद्राय (*iṃdrāya*)—for Indra
+- स्वदस्व (*svadasva*)—become pleasing
+- नः (*naḥ*)—to us
+- समुद्रात् (*samudrāt*)—from the firmament
+- रयिं (*rayiṃ*)—wealth
+- आ पवस्व (*ā pavasva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, make flow the spring of wealth full of sweetness. Provide us with heroic sons. Give wealth worthy of enjoyment. Having become pure, be pleasing for Indra. Provide us wealth from the firmament.
+
+##### English translation
+Pour forth a fountain of wealth distilling sweet juice, pour upon us male offspring and riches ; flow sweet for Indra, O Indu, when purified ;  and pour riches upon us from the firmament.
+
+#### Ṛk 45
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमः॑ सु॒तो धार॒यात्यो॒ न हित्वा॒ सिंधु॒र्न नि॒म्नम॒भि वा॒ज्य॑क्षाः ।  
+> आ योनिं॒ वन्य॑मसदत्पुना॒नः समिंदु॒र्गोभि॑रसर॒त्सम॒द्भिः ॥ ४५ ॥
+
+### Printed p. 840
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमः । सुतः । धारया। अत्यः । न । हित्वा । सिंधुः । न । निम्नम् । अभि ।वाजी । अक्षारिति ।  
+> आ । योनिम्। वन्यम् । असदत् । पुनानः । सम् । इंदुः । गोभिः । असरत् । सम् । अत्ऽभिः ॥ ४५ ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतोभिषुतः सोमो धारया स्वीयया अत्यो न अतनशीलोश्व इव हित्वा गत्वा हिनोतेः क्वनिपिरूपं । किंच वाजी बलवान् सोमः सिंधुर्न यथा सिंधुः स्यंदमाना नदी निम्नं प्रदेशमभिगच्छति तद्वत् निम्नमधरभाविनं कलशमभ्यक्षाः अभिक्षरति । ततः पुनानः पूयमानः सोमः वन्यं वृक्षभवं योनिं योनिस्थानं कलशं आसदत् आसीदति । सोयमिंदुः सोमः गीर्भिर्गोविकारैः क्षीरादिभिः श्रयणैः सं असरत संसरति तथा अद्भिर्वसतीवरीभिश्च संगच्छते ॥ ४५ ॥
+> इति सप्तमस्य चतुर्थे एकोनविंशोवर्गः ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the pressed Soma, by his own stream, like a ceaselessly moving horse, having gone; and further, the powerful Soma, as a river, a flowing stream, goes to a low place, so he streams to the low-set jar. Then Soma, being purified, sits in the vessel that is his wooden seat, born of the tree. This Indu, Soma, unites with the products of cows, milk and the like, as admixtures, and likewise joins with the waters, the Vasatīvarī waters. The block closes with the statement that this is the nineteenth varga, in the fourth of the seventh. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—the pressed
+- वाजी (*vājī*)—and powerful
+- सोमः (*somaḥ*)—Soma
+- धारया (*dhārayā*)—by his own stream
+- अत्यो न (*atyo na*)—like a horse
+- हित्वा (*hitvā*)—having attained motion
+- निम्नं (*nimnaṃ*)—flowing in the low ground
+- सिंधुः न (*siṃdhuḥ na*)—like a river
+- अभ्यक्षाः (*abhyakṣāḥ*)—he streams
+- पुनानः (*punānaḥ*)—Soma who has become pure
+- वन्यं (*vanyaṃ*)—made of wood
+- योनिं (*yoniṃ*)—the jar
+- अ सदत् (*a sadat*)—takes refuge in it and stays **NOTE**
+- इंदुः (*iṃduḥ*)—Soma
+- गोभिः (*gobhiḥ*)—with milk and the like
+- समुसरत् (*samusarat*)—joins together **NOTE**
+- अद्भिः सं (*adbhiḥ saṃ*)—joins together also with the Vasatīvarī waters
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the pressed and powerful, moves by his stream like a horse and streams like a river flowing in the low ground. Soma, having become pure, takes refuge in the jar made of wood and stays there. Soma joins together with milk and the like and also with the Vasatīvarī waters.
+
+### Printed p. 841
+
+##### English translation
+The Soma effused in a stream, going like a horse, flows powerful like a river down a descent ; purified he alights on the wooden abode (vessel); Indu mixes with the milk and curds, (mixes) with the water.
+
+##### विशेषविषयगळु (Special Topics)
+
+In many Ṛks of this maṇḍala it is said that Soma joins with the Vasatīvarī waters or is mixed with them. What are these Vasatīvarī waters? What is the part of these waters in the sacrifices? What is the order of joining them with the Soma juice? On these and similar matters explanation is necessary. Therefore we shall describe in detail the auxiliary rite of the sacrifice called Āpo-naptrīya, which is performed on this occasion.
+
+The Āpo-naptrīya means: the water in the vessel called Vasatīvarī and the water in another vessel called Ekadhanā are united according to rule and with mantras.
+
+After the Hotṛ has recited the mantras of the morning recitation, the Adhvaryu addresses the Hotṛ with the injunctive mantra परिहितेऽप इष्य होतः (*parihite 'pa iṣya hotaḥ*). In reply the Hotṛ says अपोनप्त्रीया अन्वाह (*aponaptrīyā anvāha*). Then the Adhvaryu, through injunctive mantras, tells the Camasādhvaryu, the Maitrāvaruṇa, and those who hold the Ekadhanā vessel to come. He directs the Neṣṭṛ to bring the sacrificer's wife. He says: "O Āgnīdhra, place the Hotṛ's cup and the Vasatīvarī jar in the Cātvāla facing each other." Then the Camasādhvaryu brings the cup. Those who hold the Ekadhanā vessels bring three vessels. Then the Adhvaryu puts one blade of darbha grass in each of those three vessels and purifies them. The Neṣṭṛ brings the sacrificer's wife. She takes one vessel in her hand. Then the Adhvaryu puts one blade of kuśa grass in all the vessels, recites the mantra देवीरापः (*devīrāpaḥ*), pours ghee to fill four sruva ladles and makes the oblation. After that the Adhvaryu brings the cups of the Hotṛ and of the Maitrāvaruṇa, together with the water of the Ekadhanā vessel, near the Vasatīvarī jar, and pours its water into the Hotṛ's cup, from it into the Maitrāvaruṇa's vessel, and again from the Maitrāvaruṇa's vessel into the Hotṛ's cup. While the water is poured into the Hotṛ's cup the Hotṛ asks the Adhvaryu three times अवेरापोऽध्वर्यो उ (*averāpo 'dhvaryo u*). The Adhvaryu gives the reply उतेमनन्नमः (*utemanannamaḥ*) (उतेमाः हैक्ष (*utemāḥ haikṣa*)). Then the Hotṛ performs the rising-up addressed to those waters.
+
+### Printed p. 842
+
+This rite-procedure called Āpo-naptrīya is stated separately in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā. In the Taittirīya Saṃhitā the procedure to be followed by the Adhvaryu is stated, and in the Aitareya Brāhmaṇa the mantras to be recited by the Hotṛ. Since the mantras to be recited by the Hotṛ belong to the Ṛgveda, only the procedure stated in the Aitareya Brāhmaṇa is described here.
+
+**Description of the rite called Āpo-naptrīya (as in the Aitareya Brāhmaṇa)**
+
+After the recitation of the morning recitation, as soon as the Adhvaryu addresses the Hotṛ with the injunctive mantra, the Hotṛ recites the mantras relating to the Āpo-naptrīya. In reciting these mantras an order must be followed. It is stated here.
+
+तत्संततमनुब्रूयात् । संततॆवर्षीह प्रजाभ्यः पर्जन्या भवति यत्रैवं विद्वानेतत्संततमन्वाह यदवग्राहमनुब्रूयाज्जीवमूतॆवर्षी ह प्रजाभ्यः पर्जन्यः स्यात्तस्मात्संततमेवानूच्यं । तस्य त्रिः प्रथमां संततमन्वाह तेनैव तत्सर्वं संततमनूक्तं भवति ॥ (*tatsaṃtatamanubrūyāt | saṃtatèvarṣīha prajābhyaḥ parjanyā bhavati yatraivaṃ vidvānetatsaṃtatamanvāha yadavagrāhamanubrūyājjīvamūtèvarṣī ha prajābhyaḥ parjanyaḥ syāttasmātsaṃtatamevānūcyaṃ | tasya triḥ prathamāṃ saṃtatamanvāha tenaiva tatsarvaṃ saṃtatamanūktaṃ bhavati ‖*) (Ai. Brā. 8-19) **NOTE**
+
+In reciting the mantras of the hymn प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*) that are to be recited in this rite called Āpo-naptrīya, one must not stop anywhere in the middle, but recite in one continuous stream. If it is recited thus, the god Parjanya will pour down rain continuously, beneficial to the creatures. If, otherwise, the Ṛks are recited with stops at the quarter-verses, or at the half-Ṛks, or at the ends of the Ṛks, Parjanya will pour down the rain on mountains and the like, so as to be of use to no one; he will not pour it on plants and the like. Therefore this hymn should be recited without stopping anywhere in the middle, in one continuous stream to the end. But if it is asked whether it is not impossible to recite all the Ṛks of this hymn so as to stop in the middle, then, instead of doing so, if the first Ṛk of this hymn is recited three times without the least stop, it will be as though the hymn itself had been recited without stopping. **NOTE**
+
+ता एता नवानंतरायमन्वाह । हिनोता नो अध्वरं देवयज्येति दशमीं । आवर्वृततीरध नु द्विधारा इत्यावृत्तास्वेकधनासु ॥ (*tā etā navānaṃtarāyamanvāha | hinotā no adhvaraṃ devayajyeti daśamīṃ | āvarvṛtatīradha nu dvidhārā ityāvṛttāsvekadhanāsu ‖*) (Ai. Brā. 8. 20) **NOTE**
+
+In reciting the mantras of the hymn प्रदेवत्रा (*pradevatrā*) there is a special order. Beginning with the first Ṛk of the hymn, the mantra प्र देवत्रा ब्रह्मणे (*pra devatrā brahmaṇe*), one recites up to the end of the ninth Ṛk, and then one must recite the Ṛk हिनोता नो अध्वरं (*hinotā no adhvaraṃ*) (10-30-11) **NOTE** Then one must recite the 10th **NOTE** Ṛk, आवर्वृततीरध (*āvarvṛtatīradha*).
+
+### Printed p. 843
+
+Here it is necessary to describe the order of the performance in detail. On the pressing day, that is, on the day before the Soma juice is pressed, after the Agniṣṭoma rite, the waters called Vasatīvarī should be established on the sacrificial altar, to be used at the time of the Soma pressing. After midnight has passed, one rises, giving up sleep, touches the Āgnīdhra hearth and the other hearths with their respective mantras, and sets out the vessels needed for the Soma pressing. The Hotṛ must be directed with an injunctive mantra for the recitation of the morning recitation. After the recitation of the morning recitation, one offers the oblation with the mantra शृणोत्वग्निः (*śṛṇotvagniḥ*), and while men go to bring water in the Ekadhanā vessels, the Hotṛ must be directed with the injunctive mantra एकधना अप अनये (*ekadhanā apa anaye*) for the recitation of the Āpo-naptrīya hymn. All these procedures are described in the Adhvaryu's ritual manual. In this matter the sage Āpastamba has indicated the procedure by sūtra sentences such as यत्राभिजानात्यभूदुषा (*yatrābhijānātyabhūduṣā*). The sage Āśvalāyana also, regarding the recitation of the mantras and the like belonging to the Hotṛ, has indicated the procedure by sentences such as परिहितेऽप इष्य होतः (*parihite 'pa iṣya hotaḥ*). Then, after the recitation of the ten Ṛks of the hymn (9–11) **NOTE**, when the men who set out to bring water in the Ekadhanā vessels have filled their vessels with water and return from the river, the Hotṛ recites the tenth Ṛk of the hymn, आवर्वृततीरध (*āvarvṛtatīradha*) (10–30–10) **NOTE**, the tenth Ṛk.
+
+प्रति यदापो अदृश्रमायतीरिति प्रतिदृश्यमानासु । आ धेनवः पयसा तूर्ण्यर्था इत्युपायतीषु । समन्या यंत्युप यंतॆन्या इति समाय-तीषु । (*prati yadāpo adṛśramāyatīriti pratidṛśyamānāsu | ā dhenavaḥ payasā tūrṇyarthā ityupāyatīṣu | samanyā yaṃtyupa yaṃtènyā iti samāya-tīṣu |*)
+
+When the Hotṛ sees the men coming back from the river-bank, bearing those Ekadhanā vessels filled with water, he recites the mantra प्रति यदापः (*prati yadāpaḥ*) (10–30–13) **NOTE**. When the waters in those Ekadhanā vessels reach the Cātvāla region (a hollow, a pit in the sacrificial altar), he recites the mantra आ धेनवः पयसा (*ā dhenavaḥ payasā*) (5–43–4) **NOTE**.
+
+Here explanation is necessary. As soon as the Adhvaryu directs with the injunctive mantra उन्नेतहोतृचमसेन वसतीवरीभिश्च चात्वालं प्रत्यास्स (*unnetahotṛcamasena vasatīvarībhiśca cātvālaṃ pratyāssa*), the officiant called the Unnetṛ carries the Hotṛ's cup, with the water placed the day before in the vessel called Vasatīvarī, to the neighbourhood of the Cātvāla. Then, according to the injunctive mantra मैत्रावरुणस्य चमसाध्वर्योपाद्रव (*maitrāvaruṇasya camasādhvaryopādrava*), the Camasādhvaryu, the attendant of the officiant called the Maitrāvaruṇa, also brings the Maitrāvaruṇa's cup to the neighbourhood of the Cātvāla. Here the Hotṛ's cup is to be understood as including the waters in the Vasatīvarī vessel, and the Maitrāvaruṇa's cup as the waters in the Ekadhanā vessels. Then the water of the Vasatīvarī **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 837. pp. 832-837: end of Saramā-Paṇi dialogue, Paṇis, Ṛk 40-43 of Maṇḍala 9 Sūkta 97
+**Progress note:** Done through printed p. 843. pp. 838-843: Ṛk 43 bhāṣya, Ṛk 44-45 of Maṇḍala 9 Sūkta 97, Special Topics on the Āpo-naptrīya rite
