@@ -3462,9 +3462,9 @@ The waters, the origin of the whole world, holding Hiraṇyagarbha within themse
 Before creation the waters alone covered the whole world. Wishing to increase in the form of progeny, they practised austerity, and from them a golden egg arose: thus the Śatapatha Brāhmaṇa states the meaning of the ṛk 10-121-7 of the Ṛgveda-saṃhitā. This same principle
 
 आपो अग्रे विश्वमावन् गर्भं दधाना अमृता ऋतज्ञाः । (*āpo agre viśvamāvan garbhaṃ dadhānā amṛtā ṛtajñāḥ |*)
-यासु देवीष्वधि देव आसीत् .... .... .... .... । (*yāsu devīṣvadhi deva āsīt .... .... .... .... |*) (ಅ. ವೇ. 4-2-6) *[the line ends in printed dots]*
+यासु देवीष्वधि देव आसीत् .... .... .... .... । (*yāsu devīṣvadhi deva āsīt .... .... .... .... |*) (ಅಥ. ಸಂ. 4-2-6) *[the line ends in printed dots]*
 आपो वत्सं जनयंतीर्गर्भमग्रे समैरयन् । (*āpo vatsaṃ janayaṃtīrgarbhamagre samairayan |*)
-तस्योत जायमानस्य उल्ब आसीद्धिरण्ययः । (*tasyota jāyamānasya ulba āsīddhiraṇyayaḥ |*) (ಅ. ವೇ. 4-2-8) *[the reference line is printed twice; the second is kept in kn.md as an italic note; the abbreviation "ಅ. ವೇ." is as printed, presumably the Atharvaveda, as the Kannada says]*
+तस्योत जायमानस्य उल्ब आसीद्धिरण्ययः । (*tasyota jāyamānasya ulba āsīddhiraṇyayaḥ |*) (ಅಥ. ಸಂ. 4-2-8) *[the reference line is printed twice; the second is kept in kn.md as an italic note; the abbreviation "ಅ. ವೇ." is as printed, presumably the Atharvaveda, as the Kannada says]*
 
 and so on is set forth also in the Atharvaveda. In the same way,
 
@@ -10094,7 +10094,7 @@ By passages of this kind it is described that the presiding deities of the three
 He for whom Agni is the head, the moon and the sun the eyes, the quarters the ears, the wind the life-breath, the universe the heart, is the Virāṭ Puruṣa, famed as the universe.
 
 तस्मादग्निः समिधो यस्य सूर्यः सोमात्पर्जन्य ओषधयः पृथिव्यां । पुमान् रेतः सिंचति योषितायां बह्वीः प्रजाः पुरुषात् संप्रसूताः ॥ (*tasmādagniḥ samidho yasya sūryaḥ somātparjanya oṣadhayaḥ pṛthivyāṃ | pumān retaḥ siṃcati yoṣitāyāṃ bahvīḥ prajāḥ puruṣāt saṃprasūtāḥ ‖*)
-(म: उ. २-१-५ (*ma: u. 2-1-5*)) *[as supplied: the abbreviation as printed.]*
+(म: उ. सू. २-१-५ (*ma: u. sū. 2-1-5*)) *[as supplied: the abbreviation as printed.]*
 
 For that Supreme Person whose fuel is the Sun, from him that Agni is born; and by that same Sun the world of heaven shines. From Soma produced from the Agni that is the world of heaven, the second Agni, called Parjanya, arises. It is described thus. The same in the Praśna Upaniṣad:
 
@@ -10107,7 +10107,7 @@ This Supreme Self, of the form of the life-breath, burns as Agni; likewise he sh
 *Running head: ೫. ೨. ಆ .೩ ಪ. ೧೭.] ಮುಗ್ವೇದಸಂಹಿತಾ 407 (as supplied: the head was not marked by the script and was inserted by hand; "ಮುಗ್ವೇದ" and "೫." as printed).*
 
 न चक्षुषा गृह्यते नापि वाचा नान्यैर्देवैस्तपसा कर्मणा वा । ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं पश्यते निष्कलं ध्यायमानः ॥ (*na cakṣuṣā gṛhyate nāpi vācā nānyairdevaistapasā karmaṇā vā | jñānaprasādena viśuddhasattvastatastu taṃ paśyate niṣkalaṃ dhyāyamānaḥ ‖*)
-(मु:. उ. ३-१-८ (*mu:. u. 3-1-8*)) *[as supplied: the abbreviation as printed.]*
+(मु:. उ. सू. ३-१-८ (*mu:. u. sū. 3-1-8*)) *[as supplied: the abbreviation as printed.]*
 
 This principle, the original cause, has no form; therefore it cannot be grasped by the eye. It is not to be spoken; therefore it cannot be grasped by speech, nor by the other senses. It becomes possible only through a mind that is far from the contact of the stains, such as passion, arising from the relation between the senses and their objects, and is clear and calm. How the characteristic of a seer who has such a pure mind should be:
 

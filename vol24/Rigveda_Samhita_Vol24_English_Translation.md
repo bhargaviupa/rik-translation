@@ -138,7 +138,7 @@ Unpreceded Indra, cherishing you (with sacrificial food), desirous of your prote
 > दृष्णोति शत्थनभिभवति ॥ इद्धृषा प्रागल्भे । बहुलं छंदसीति शप्रत्ययः ॥ युवा
 > तरुण उग्र उद्धूर्णः स इंद्रो नोऽस्मान् प्रति चक्राम । आगच्छतु । यद्वा
 > चक्राम । आस्मानुत्साहयुक्तान् करोतु ॥ क्रमते सर्गार्थे व्यत्ययेन परस्मैपदं ।
-> पा. १-३-३८ ॥ परोऽर्धर्चः प्रत्यक्षकृतः । सखायः समानख्याना बंधुभूता वा
+> पा. सू. १-३-३८ ॥ परोऽर्धर्चः प्रत्यक्षकृतः । सखायः समानख्याना बंधुभूता वा
 > वयं सानसिं ॥ वन षण संभक्तौ ॥ संभजनीयमवितारं सर्वस्य रक्षितारं त्वामित्वामेव ववृमहे । वृणीमहे । संभजामहे । हिः प्रसिद्दौ ॥ हियोगादनिघातः ॥
 
 ##### Gist of the bhāṣya
@@ -717,7 +717,7 @@ Indra, invoked of many, may we conquer in battle those contending against us; ma
 > अभिप्लविकेषूक्ष्येषु तृतीयसवने ब्राह्मणाच्छंसिशस्त्रेऽभ्रातृव्य इत्यादिकौ
 > द्वै प्रगाथौ वैकल्पिक् स्तोत्रियानुरूपौ । सूत्रितं च । अभ्रातृव्यो अना त्वं मा
 > ते अमाजुरो यथा । आ. ७-८ । इति ॥
-> हे इंद्र त्वं जनुषा जन्मनैवाभ्रातृव्यः ॥ व्यन् सपत्ने । पा. ४-१-१४५ । इति
+> हे इंद्र त्वं जनुषा जन्मनैवाभ्रातृव्यः ॥ व्यन् सपत्ने । पा. सू. ४-१-१४५ । इति
 > व्यन्प्रत्ययः ॥ अनानेतृकः ॥ ऋतश्चंदसीति कपः प्रतिषेधः ॥ अनियंतृक इत्यर्थः ।
 > अनापिर्बंधुवर्जितश्च सनादसि । चिरादेव भ्रातृव्यादिवर्जितोऽसि । यच्च त्वयापित्वं
 > बांधवमिच्छसे इच्छिसि तत्र यथेद्युद्धेनैव । युद्धं कुर्वन्नेव स्तोतृणां
@@ -1186,14 +1186,14 @@ We incite by our adorations on this occasion the two divine Aswins, the overcome
 > हे अश्विनौ युवोर्युवयो रथस्यैकं चक्रं परितो द्यां गच्छति ।
 > अन्यदवस्थितं रथस्य चक्रमीर्मूर् सर्वस्यांतर्यामितया प्रेरकौ यद्योदकस्य
 > प्रेरयितारौ वां युवामिषण्यति । गच्छति । उक्तार्थे मंत्रांतरं । न्यघ्नस्य
-> मूर्धनि । ऋ. १-३०-१९ । इति । हे शुभस्पती उदकस्य पालयितार् हे अश्विनौ वां
+> मूर्धनि । ऋ. सं. १-३०-१९ । इति । हे शुभस्पती उदकस्य पालयितार् हे अश्विनौ वां
 > युवयोः सुमतिः कल्याणी मतिरच्चाभिमुख्येनास्माना धावतु । आगच्छतु । तत्र
 > दृष्टांतः । धेनुरिव यथा नवप्रसूता गौर्वत्सं प्रति पयोदानार्थमागच्छति
 > तद्विद्युवयोः सुमतिरस्मान्प्रति धनादिप्रदानार्थमागच्छतु ॥
 
 ##### Gist of the bhāṣya
 
-O Aśvins, one wheel of your chariot goes round on every side to heaven. The other wheel of the chariot stays in place; īrmā: you two who impel everything as its inner controller, or who impel the water; the wheel goes to you. **NOTE** Another mantra on the same sense: न्यघ्नस्य मूर्धनि । (*nyaghnasya mūrdhani |*) (Ṛ. 1-30-19) **GLOSS**. O Śubhaspatī, you two protectors of water, O Aśvins, may your sumati, your auspicious thought, run towards us, that is, come. The illustration: as a newly calved cow comes to her calf to give milk, so may your good thought come to us to give wealth and the like.
+O Aśvins, one wheel of your chariot goes round on every side to heaven. The other wheel of the chariot stays in place; īrmā: you two who impel everything as its inner controller, or who impel the water; the wheel goes to you. **NOTE** Another mantra on the same sense: न्यघ्नस्य मूर्धनि । (*nyaghnasya mūrdhani |*) (Ṛ. Saṃ. 1-30-19) **GLOSS**. O Śubhaspatī, you two protectors of water, O Aśvins, may your sumati, your auspicious thought, run towards us, that is, come. The illustration: as a newly calved cow comes to her calf to give milk, so may your good thought come to us to give wealth and the like.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -1573,12 +1573,12 @@ At the time when hurrying, devout, we invoke you both speedily going battle, at 
 > याभिर्नरा नर सर्वस्य नेतारावश्विनाविषा ॥ इष इच्छायां ॥ हवींशीच्छंतौ
 > मंहिष्ठा मुंहिष्ठावतिशयेन धनानां दातार् पुरुभूतमा पुरुभूतम् युद्धेस्वत्यंतं पुरुधा भवंतौ यद्वातिशयेन बहूनां शत्रूणामभिभवितार् भवंतौ
 > क्रिविं कूपं प्रति याभिरूतिभिरुदकानि वावृधुः अवर्धयतः ॥ द्वयोर्बहुवचनं
-> पूजार्थं ॥ कूपपतितो वंदनो मायाभिः कूपं पूरयित्वा युवाभ्यामुक्तापितः खलु । तथा मंत्रः । उद्वंदनमैरयतं स्वर्दृशे । ऋ. १-११२-५ । ४३ ।
+> पूजार्थं ॥ कूपपतितो वंदनो मायाभिः कूपं पूरयित्वा युवाभ्यामुक्तापितः खलु । तथा मंत्रः । उद्वंदनमैरयतं स्वर्दृशे । ऋ. सं. १-११२-५ । ४३ ।
 > शाभिस्तैः पालनैरा गतं । अस्मद्रक्षणार्थमागच्छतं ॥
 
 ##### Gist of the bhāṣya
 
-O Aśvins, showerers, viśvapsu: psu is a word for form; having manifold forms, as consisting of stotra and śastra; viśvavārya: to be chosen by all the gods. Making my invocation, which is addressed to you, turn towards you, come with those protections. Narā: the leaders of all, the two Aśvins; iṣā: desiring oblations; maṃhiṣṭā: exceedingly givers of wealth; purubhūtamā: exceedingly becoming manifold in battles, or exceedingly overcoming many enemies. With the protections with which, to a well (kriviṃ), you made the waters increase: the plural for two is for honour. Vandana, having fallen into a well, was raised out by you, after you filled the well by your wonders. Accordingly the mantra उद्वंदनमैरयतं स्वर्दृशे (*udvaṃdanamairayataṃ svardṛśe*) (Ṛ. 1-112-5) **GLOSS**. By those protections come, for our protection.
+O Aśvins, showerers, viśvapsu: psu is a word for form; having manifold forms, as consisting of stotra and śastra; viśvavārya: to be chosen by all the gods. Making my invocation, which is addressed to you, turn towards you, come with those protections. Narā: the leaders of all, the two Aśvins; iṣā: desiring oblations; maṃhiṣṭā: exceedingly givers of wealth; purubhūtamā: exceedingly becoming manifold in battles, or exceedingly overcoming many enemies. With the protections with which, to a well (kriviṃ), you made the waters increase: the plural for two is for honour. Vandana, having fallen into a well, was raised out by you, after you filled the well by your wonders. Accordingly the mantra उद्वंदनमैरयतं स्वर्दृशे (*udvaṃdanamairayataṃ svardṛśe*) (Ṛ. Saṃ. 1-112-5) **GLOSS**. By those protections come, for our protection.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -4224,11 +4224,11 @@ These two tṛcas (six Ṛks) beginning एतो न्विंद्रं (*
 > स्तोत्राणीच्यते द्युक्षाय दीप्यमानायेंद्राय दस्म्यं दर्शनीयं धृतात्सादुतरादाज्यान्मधुनश्च स्वादीयोऽतिशयेन स्वादुभूतं वचः स्तोत्ररूपं वाक्यं
 > वोचत । ब्रूत ॥ ऋत्विग्निः कृतं कर्म यजमानोऽपि कृतवान्भवतीति यदिदमिंद्रविषयं वचो धृतान्मधुनश्च स्वाडुतरं भवत्वित्याशास्त्रे । तदाह भगवानाश्वलायनः ।
 > वच एव म इदं धृतान्मधुनश्च स्वादीयोऽस्ति प्रीतिः स्वादीयोऽस्त्वितेव तदाह ।
-> आ. गृ. १-१.५ । इति ॥
+> आ. गृ. सू. १-१.५ । इति ॥
 
 ##### Gist of the bhāṣya
 
-O priests, to अगोरुधाय (*agorudhāya*): one who obstructs praises is a गोरुधः (*gorudhaḥ*); one who is not such is an agorudh; the meaning is, he does not destroy them but hears them with respect. To such an Indra, and therefore to one who desires praises (गविषे (*gaviṣe*)), to the shining (द्युक्षाय (*dyukṣāya*)) Indra, speak (वोचत (*vocata*), that is, utter) a speech in the form of praise that is beautiful (दस्म्यं (*dasmyaṃ*)), sweeter than ghee (धृतात् (*dhṛtāt*)), which is sweeter than clarified butter, and than honey (मधुनश्च (*madhunaśca*)): exceedingly sweet (स्वादीयः (*svādīyaḥ*)). A rite done by the priests is also done by the sacrificer; so the wish is that this speech concerning Indra may be sweeter than ghee and honey. The venerable Āśvalāyana says this: वच एव म इदं धृतान्मधुनश्च स्वादीयोऽस्ति प्रीतिः स्वादीयोऽस्त्वितेव तदाह । (*vaca eva ma idaṃ dhṛtānmadhunaśca svādīyo 'sti prītiḥ svādīyo 'stviteva tadāha |*) (Ā. Gṛ. 1-1.5) **GLOSS** **NOTE**
+O priests, to अगोरुधाय (*agorudhāya*): one who obstructs praises is a गोरुधः (*gorudhaḥ*); one who is not such is an agorudh; the meaning is, he does not destroy them but hears them with respect. To such an Indra, and therefore to one who desires praises (गविषे (*gaviṣe*)), to the shining (द्युक्षाय (*dyukṣāya*)) Indra, speak (वोचत (*vocata*), that is, utter) a speech in the form of praise that is beautiful (दस्म्यं (*dasmyaṃ*)), sweeter than ghee (धृतात् (*dhṛtāt*)), which is sweeter than clarified butter, and than honey (मधुनश्च (*madhunaśca*)): exceedingly sweet (स्वादीयः (*svādīyaḥ*)). A rite done by the priests is also done by the sacrificer; so the wish is that this speech concerning Indra may be sweeter than ghee and honey. The venerable Āśvalāyana says this: वच एव म इदं धृतान्मधुनश्च स्वादीयोऽस्ति प्रीतिः स्वादीयोऽस्त्वितेव तदाह । (*vaca eva ma idaṃ dhṛtānmadhunaśca svādīyo 'sti prītiḥ svādīyo 'stviteva tadāha |*) (Ā. Gṛ. Sū. 1-1.5) **GLOSS** **NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -4549,9 +4549,9 @@ O Indra, of exceedingly beautiful form, you who are worthy of the praise of the 
 > पूर्वर्धचः परोक्षकृतः । य इंद्र ऋत्वात् ॥ यून् मनुष्यान्
 > क्षणोति । क्षणोतेर्णादिको दप्रत्ययः ॥ तस्माद्रक्षसो जातादंहसः पापरूपादुपद्रवान्मुचत् मुंचति । राक्षस एनं न बाधते किं पुनस्तं हंतीत्यर्थः । अपि च य
 > इंद्रः सप्त सिंधुषु गंगाद्यासु नदीषु । यद्वा । सप्त सर्पणशीलासु सिंधुषु ।
-> तत्कूलेष्टित्यर्थः । गंगायां घोष इतिवत् । पा. १-४-४२ । तेषु वर्तमानानां
+> तत्कूलेष्टित्यर्थः । गंगायां घोष इतिवत् । पा. सू. १-४-४२ । तेषु वर्तमानानां
 > स्तोतृणामार्यात् धनादिकं प्रेरयेत् ॥ ऋ गतिप्रापणयोः । आशीर्लिजि
-> गुणोर्तिसंयोगाद्योः । पा. ७-४-२९ । इति गुणः । बहुलं छंदसीति
+> गुणोर्तिसंयोगाद्योः । पा. सू. ७-४-२९ । इति गुणः । बहुलं छंदसीति
 > लिज्यप्यादागमः ॥ अथ प्रत्यक्षः । हे तुविनृम्म बहुधनेंद्र दासस्योपक्षपयितुरसुरस्य
 > वधर्हननसाधकमायुधं नीनमः । नमय ॥
 
@@ -5102,7 +5102,7 @@ Those Mitrāvaruṇa who are truthful, shine greatly and are dear to the oblatio
 
 > ऋतावानर्तावान् सत्यवंतौ सुक्रतू शोभनकर्माण् सुप्रज्ञा वा
 > मित्रावरुण् साम्राज्याय साम्राज्यार्थं नि षेदतुः । न्यसीदतां । तथा मंत्रः ।
-> नि षसाद धृतव्रतो वरुणः पस्त्यास्वा साम्राज्याय सुक्रतुः । ऋ. १-२५-१० । इति ।
+> नि षसाद धृतव्रतो वरुणः पस्त्यास्वा साम्राज्याय सुक्रतुः । ऋ. सं. १-२५-१० । इति ।
 > धृतव्रता धृतव्रत् धृतकर्माण् क्षत्रिया क्षत्रियौ बलवंतौ क्षत्रं बलमाशतुः ।
 > आनशाते । व्याप्नुत इत्यर्थः ॥
 
@@ -5287,12 +5287,12 @@ Munificent and irresistible (Maruts), guard our vessel by day and night, so that
 > प्रत्यक्षः । हे स्वयान् । स्वयमेवासहायः सन् दिवि संग्रामे वा यातीति
 > स्वयावान् । सिंधो स्तोत्यन् प्रति धनानां स्यंदनशील विष्णो पूर्वचित्तये ।
 > चित्तिः कर्म । मंत्रांतरेऽपि तथा श्रवणात् । सा चित्तिभिर्नि हि चकार मर्त्यं ।
-> ऋ. १-१६४-२९ । इति । पूर्वं प्रारब्धकर्मणे यजमानाय तदर्थं श्रुधि । अस्माभिः
+> ऋ. सं. १-१६४-२९ । इति । पूर्वं प्रारब्धकर्मणे यजमानाय तदर्थं श्रुधि । अस्माभिः
 > क्रियमाणां स्तुतिं त्वं शृणु ॥
 
 ##### Gist of the bhāṣya
 
-The first half of the verse is spoken in the third person (indirect address). "We, who are unharmed because we have the protection of Viṣṇu, offer praise to Viṣṇu, who does not harm those who praise and those who sacrifice, who is a splendid giver, who pervades everything by his greatness and bears this name." Then the second half turns to direct address: "O Viṣṇu, who goes alone and unaided, in the sky or in battle; O Viṣṇu, who makes wealth flow like a river toward those who praise you: *citti* means sacrificial act, as is also heard in another mantra, सा चित्तिभिर्नि हि चकार मर्त्यं (*sā cittibhirni hi cakāra martyaṃ*) (Ṛ. 1-164-29) **NOTE**. For the sacrificer who has begun the rite, hear the praise that we are offering."
+The first half of the verse is spoken in the third person (indirect address). "We, who are unharmed because we have the protection of Viṣṇu, offer praise to Viṣṇu, who does not harm those who praise and those who sacrifice, who is a splendid giver, who pervades everything by his greatness and bears this name." Then the second half turns to direct address: "O Viṣṇu, who goes alone and unaided, in the sky or in battle; O Viṣṇu, who makes wealth flow like a river toward those who praise you: *citti* means sacrificial act, as is also heard in another mantra, सा चित्तिभिर्नि हि चकार मर्त्यं (*sā cittibhirni hi cakāra martyaṃ*) (Ṛ. Saṃ. 1-164-29) **NOTE**. For the sacrificer who has begun the rite, hear the praise that we are offering."
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -6127,7 +6127,7 @@ Leaders (of rites), let your renowned all-conveying chariot come to us, and (do 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे वृषण्वसू वर्षणशीलधनवंतावश्विनाश्विनौ जुहुराणा चित् ॥ हुर्छा
-> कौटिल्ये । हुर्छेः सनो लुक् छलोपश्च ॥ उ. २-९२ । इत्यानच् प्रत्ययः ॥
+> कौटिल्ये । हुर्छेः सनो लुक् छलोपश्च ॥ उ. सू. २-९२ । इत्यानच् प्रत्ययः ॥
 > कुटलान्कर्मविघ्नकारिणो मायाविनोऽपि शत्रूना अभिमुख्येन मन्येथां ।
 > जानीतं । ततो हे रुद्रा संग्रामे रोदनशीलौ रुवंत् वाश्विनौ युवं ।
 > हिरवधारणे । युवामेव द्विषो द्वेषकारिणस्ताङ्घातूनति पर्षथः । अतीत्य
@@ -7553,7 +7553,7 @@ Bearing the clipped sacred grass, offering in due order the(sacrificial) food, p
 > हे विश्वे देवाः प्र यात । प्रकर्षणास्मदीयकर्माण्यागच्छत । हे मरुतो
 > हे विष्णो स्वबलेन सर्वतो व्याप्तैतन्नामक देव हे अश्विनाश्विन् पूषन् ।
 > स्तोत्थानादिना पोषयतीति पूषा । एतन्नामक देव मरुदादयो देवाः
-> माकीनया ॥ अस्मच्छब्दाद्युष्मदस्मदोः । पा. ४-३-१ । इति खञ् शैषिकः । ऐकदचने
+> माकीनया ॥ अस्मच्छब्दाद्युष्मदस्मदोः । पा. सू. ४-३-१ । इति खञ् शैषिकः । ऐकदचने
 > तवकममकाविति ममकादेशः । वर्णलोपश्रांदसः ॥ मया क्रियमाणया धिया
 > स्तुत्या सहास्मद्यज्ञं प्रत्यागच्छत ॥ मरुदादेरामंत्रितस्य वाक्यभेदादनिघातः ॥
 > किंच प्रथमो देवानां मुख्यः स इंद्रश्चा यातु । वृषा कामानां सेक्ता य
@@ -7987,12 +7987,12 @@ I glorify you, innocuous deities, in the place of praises : no harm befalls the 
 > तदर्थं वो युष्मभ्यं दाशति हवींषि प्रयच्छति । धनादिभिर्वर्धयतीत्यन्वयः ।
 > किंच धर्मणः । ध्रियत ऋत्विग्निरिति धर्म कर्म । युष्मद्विषयात्कर्मणः सकाशात्स
 > मनुष्यः प्रजाभिः पुत्रपौत्रादिभिः परि परितः सर्वतः प्र जायते । प्रकर्षणाविर्भवति ।
-> आत्मा वै पुत्रनामासि । शत. १४-९-४-२६ । इति श्रुतेः । ततोऽरिष्टोऽन्यैरहिंसितः
+> आत्मा वै पुत्रनामासि । श. ब्रा. १४-९-४-२६ । इति श्रुतेः । ततोऽरिष्टोऽन्यैरहिंसितः
 > सर्वो युष्माकं हविष्पदानात्सकलो जन विधते । धनादिभिर्वर्धते ॥
 
 ##### Gist of the bhāṣya
 
-O Maruts and others, that man makes his kṣaya grow; kṣaya is the house, where people dwell (the root kṣi). He makes it grow excellently; tirati has the sense of growth. The same man makes great foods also grow, the man who gives, that is, offers oblations to you for the sake of choice wealth (vara, that which is to be chosen). The construction is: he makes them grow with wealth and the like. Further, from dharman: the priest bears the rite (dhriyate), and dharma means the rite. From the rite directed to you, that man is born forth on every side with offspring, with sons, grandsons and the rest, that is, he appears excellently. The Vedic text is आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) (Śata. 14-9-4-26) **GLOSS** **NOTE**. Then, unharmed by others, every person prospers by the giving of oblations to you, increases with wealth and the like.
+O Maruts and others, that man makes his kṣaya grow; kṣaya is the house, where people dwell (the root kṣi). He makes it grow excellently; tirati has the sense of growth. The same man makes great foods also grow, the man who gives, that is, offers oblations to you for the sake of choice wealth (vara, that which is to be chosen). The construction is: he makes them grow with wealth and the like. Further, from dharman: the priest bears the rite (dhriyate), and dharma means the rite. From the rite directed to you, that man is born forth on every side with offspring, with sons, grandsons and the rest, that is, he appears excellently. The Vedic text is आत्मा वै पुत्रनामासि (*ātmā vai putranāmāsi*) (Śa. Brā. 14-9-4-26) **GLOSS** **NOTE**. Then, unharmed by others, every person prospers by the giving of oblations to you, increases with wealth and the like.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -8588,12 +8588,12 @@ Whatever the the gods desire, that assuredly comes to pass : no one can resist t
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अत्र पुरातनी कथा । इंद्रसमानं पुत्रमिच्छंत्या आदितेर्गर्भस्य केनचित्कारणेनेंद्रेण सप्तधा भिन्नत्वात्सगर्भः सप्तगणात्मकोऽभवत् । ततो मरुतः संपन्नाः ।
-> सप्तगणा वै मरुतः । तै. सं. २-२-११-१ । इति श्रुतेः । एषा कथेदं पित्रॆ मरुतामुच्यते वचः । ऋ. १-११४-६ । इत्यस्मिन्वर्गे सप्रपंचेनाभ्यधायि । तथा चास्या
+> सप्तगणा वै मरुतः । तै. सं. २-२-११-१ । इति श्रुतेः । एषा कथेदं पित्रॆ मरुतामुच्यते वचः । ऋ. सं. १-११४-६ । इत्यस्मिन्वर्गे सप्रपंचेनाभ्यधायि । तथा चास्या
 > ऋचोऽयमर्थः । सप्तानां मरुतां गणानां सप्त सप्तसंख्याका ऋष्टय
 
 ##### Gist of the bhāṣya
 
-Here is an old story. Aditi, who wished for a son equal to Indra, had her embryo, for some reason, divided sevenfold by Indra, so that the embryo, divided, became of seven groups. From it the Maruts came into being. This accords with the Vedic text सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) (Tai. Saṃ. 2-2-11-1). This story was told at length in the varga of the Ṛk beginning एषा कथेदं पित्रॆ मरुतामुच्यते वचः (*eṣā kathedaṃ pitrè marutāmucyate vacaḥ*) (Ṛ. 1-114-6) **GLOSS**. The meaning of this Ṛk is as follows: of the seven groups of the Maruts, seven in number are the ṛṣṭis,
+Here is an old story. Aditi, who wished for a son equal to Indra, had her embryo, for some reason, divided sevenfold by Indra, so that the embryo, divided, became of seven groups. From it the Maruts came into being. This accords with the Vedic text सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) (Tai. Saṃ. 2-2-11-1). This story was told at length in the varga of the Ṛk beginning एषा कथेदं पित्रॆ मरुतामुच्यते वचः (*eṣā kathedaṃ pitrè marutāmucyate vacaḥ*) (Ṛ. Saṃ. 1-114-6) **GLOSS**. The meaning of this Ṛk is as follows: of the seven groups of the Maruts, seven in number are the ṛṣṭis,
 
 ### Printed p. 189
 
@@ -8671,7 +8671,7 @@ Sūkta 29. Maṇḍala 8, Anuvāka 4, Sūkta 29. Aṣṭaka 6, Adhyāya 2, Varga
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > अत्र दशानामृचां किंचित्पदं लिंगात्पथग्देवतं । अत्र प्रथमायां बभ्रुरित्यनेन सोमोऽभिदीयते । सौम्यं बभ्रुमा लभीत । तै. स. २-१-३-३ । इत्यादिषु
-> दृष्टत्वात् । बभ्रुर्बभ्रुवर्णः शबलतादिषु परिपक्वः । यद्वा ॥ डुभृञ् धारणपोषणयोः । कुभ्रश्च । उ. १-२३ । इति कुप्रत्ययः ॥ सर्वस्य सुधामय्यैः किरणैस्तापदुद्धते चंद्रमसि दुःखोपशमनानि पुष्टानि खलु । तादृशो विष्णुणो विश्वगंचनः
+> दृष्टत्वात् । बभ्रुर्बभ्रुवर्णः शबलतादिषु परिपक्वः । यद्वा ॥ डुभृञ् धारणपोषणयोः । कुभ्रश्च । उ. सू. १-२३ । इति कुप्रत्ययः ॥ सर्वस्य सुधामय्यैः किरणैस्तापदुद्धते चंद्रमसि दुःखोपशमनानि पुष्टानि खलु । तादृशो विष्णुणो विश्वगंचनः
 
 ##### Gist of the bhāṣya
 
@@ -8888,14 +8888,14 @@ medicines, holds his sharp weapon in his hand.
 
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
-> पथ इति लिंगेन पूषा निगद्यते ! सं पूषन्नध्वनस्तिय । ऋ. १-४२-१ । इत्यादिषु
+> पथ इति लिंगेन पूषा निगद्यते ! सं पूषन्नध्वनस्तिय । ऋ. सं. १-४२-१ । इत्यादिषु
 > दृष्टत्वात् ! एकः पूषनामको देवः पथो मार्गान् पीपाय । प्यायतिर्वर्धनकर्माप्यत्र रक्षणार्थः । येऽग्निहोत्रादि कर्म कुर्वंति तेषां स्वर्गमार्गं ये
 > दुष्कृतं कर्म कुर्वंति तेषां यातनामार्गं च रक्षति ! उभयेषां मार्गविपर्ययो यथा न भवति तथा पालयतीत्यर्थः । एष सोऽयं पूषा निधीनां
 > पृथिव्यां निहितानि धनानि वेद । वेत्ति ! ज्ञात्वा स्तोतृ णां तानि ददाशीत्यर्थः । तत्र
 
 ##### Gist of the bhāṣya
 
-By the indication of the word pathaḥ, Pūṣan is meant, because this is seen in texts such as सं पूषन्नध्वनस्तिय (*saṃ pūṣannadhvanastiya*) (Ṛ. 1-42-1) **GLOSS**. The one god named Pūṣan has made the paths, the roads, to grow; the root pyāy has the sense of increase, but here the sense is protection. He protects the path to heaven of those who perform rites such as the Agnihotra, and the path of torment of those who perform evil deeds; the meaning is that he guards them so that the paths of both are not reversed. This Pūṣan knows the treasures, the riches laid down on the earth; knowing them, he gives them to the praisers: this is the meaning.
+By the indication of the word pathaḥ, Pūṣan is meant, because this is seen in texts such as सं पूषन्नध्वनस्तिय (*saṃ pūṣannadhvanastiya*) (Ṛ. Saṃ. 1-42-1) **GLOSS**. The one god named Pūṣan has made the paths, the roads, to grow; the root pyāy has the sense of increase, but here the sense is protection. He protects the path to heaven of those who perform rites such as the Agnihotra, and the path of torment of those who perform evil deeds; the meaning is that he guards them so that the paths of both are not reversed. This Pūṣan knows the treasures, the riches laid down on the earth; knowing them, he gives them to the praisers: this is the meaning.
 
 ### Printed p. 195
 
@@ -8938,7 +8938,7 @@ One (Pushan) watches the roads like a robber, and is cognizant of hidden treasur
 
 > उरुगायो वि चक्रम इति पदलिंगाद्विष्णुरुच्यते । उरुगाय उरुभिर्बहुभिर्गातव्यः । यद्वा । बहुषु देशेषु गंता बहुकीर्तिर्ना । सर्वाइत्यून् स्वसामर्थ्येन शब्दयत्याक्रंदयतीति वोरुगायः । एतादृश एकोसहायो विष्णुस्त्रीणि
 > पदानि भुवनानि वि चक्रमे । साधु पादेन विक्रांतवान् ॥ वेः पादविहरणे ।
-> पा. १-३-४१ । इति क्रमतेरात्मनेपदं ॥ यत्र येषु लोकेषु देवास इंद्रादयो
+> पा. सू. १-३-४१ । इति क्रमतेरात्मनेपदं ॥ यत्र येषु लोकेषु देवास इंद्रादयो
 > देवा मदंति यजमानदत्तैर्हविर्भिमाद्यंति तानि वि चक्रम इत्यन्वयः ॥
 
 ##### Gist of the bhāṣya
@@ -9609,7 +9609,7 @@ Constantly associated, may they acquire appropriate (sacrificial) viands; may th
 > एतौ दंपती देवानामिंद्रादीनां नापि ह्नुतः । अपलुपं न कुरुतः ।
 > अपह्नवोऽपलापः । देवेभ्यो हविः प्रदास्याम इति प्रतिज्ञाय पुनरदानमहलापः ॥
 > ह्नुज् अपनये ॥ कथं नापलपंतीत्यवसीयते । तदाह । सुमतिं युष्मदीयां
-> शोभनां मतिं न जुगुक्षतः । जुघुक्षतः । न संवरीतुमिच्छतः । संवारणमाच्छादनं । न छादयत इत्यर्थः । किंतु स्तुतिं कुरुतः ॥ गुहू संवरणे । सनि ग्रहगुहोश्च । पा. ७-२-१२ । इतीट्प्रतिषेधः । धत्वषत्वभावौ । संहिताकाले भष्भावो
+> शोभनां मतिं न जुगुक्षतः । जुघुक्षतः । न संवरीतुमिच्छतः । संवारणमाच्छादनं । न छादयत इत्यर्थः । किंतु स्तुतिं कुरुतः ॥ गुहू संवरणे । सनि ग्रहगुहोश्च । पा. सू. ७-२-१२ । इतीट्प्रतिषेधः । धत्वषत्वभावौ । संहिताकाले भष्भावो
 > नास्ति छांदसत्वात् ॥ किंच बृहद्देवेभ्यो दीयदान्वतान्महच्छ्रवः । श्रव इत्यन्ननाम । महदन्नं विवासतः । युष्मभ्यं प्रयच्छतः । विवासतिः परिचरणकर्मा । दानमपि
 > च परिचरणमेव । देवैर्दत्तमन्नं धृतादिभिर्मिश्रीकृत्य पुनःपुनर्यजत इत्यर्थः ॥
 
@@ -10907,7 +10907,7 @@ No one puts a limit to his glorious deeds, no one asserts that he is not generou
 
 > प्राशूनां । ये सोमं प्राश्नुवंति ते प्राशवः । तेषां सोमं सुन्वतां
 > ब्रह्मणां ब्राह्मणानामृणं देवर्णं न नूनमस्ति । न खलु विद्यते । तथा च
-> श्रूयते । एष वा अनृणो यः पुत्री यज्ञा ब्रह्मचारिवासी । त्रै. सं. ६-३-१०-५ ।
+> श्रूयते । एष वा अनृणो यः पुत्री यज्ञा ब्रह्मचारिवासी । तै. सं. ६-३-१०-५ ।
 > इति । किंचाप्रतापिस्तीर्णधनेन सोमो न पपे । न पीयते । प्रभूतधनेनैव
 > सोमः पीयत इत्यर्थः ॥
 
@@ -14464,11 +14464,11 @@ Direct your chariot downwards, drink the Soma nectar; come, Aswins, come (hither
 
 > दे अश्विन् नरा नेतार् युवां विवक्षणस्य हवनशीलस्य मम प्रस्थिते
 > नमोवाके । नमस्काराय प्रोच्यते स नमोवाकः । तस्मिन्नध्वरे यज्ञे । तथा च
-> ब्राह्मणः । उभयं सह वा एतदृज्ञ एव यत्सूक्तवाकश्च नमोवाकश्च । शत. १-९-१-४ । इति । पीतये सोमपानाया यातं । सिद्धमन्यत् ॥
+> ब्राह्मणः । उभयं सह वा एतदृज्ञ एव यत्सूक्तवाकश्च नमोवाकश्च । श. ब्रा. १-९-१-४ । इति । पीतये सोमपानाया यातं । सिद्धमन्यत् ॥
 
 ##### Gist of the bhāṣya
 
-O Aśvins, leaders, when the namovāka, which is uttered for the sake of adoration, has begun at the sacrifice of me, the one who invokes, come for the drinking of the Soma. The Brāhmaṇa is cited: उभयं सह वा एतदृज्ञ एव यत्सूक्तवाकश्च नमोवाकश्च । (*ubhayaṃ saha vā etadṛjña eva yatsūktavākaśca namovākaśca |*) (Śata. 1-9-1-4) **GLOSS** **NOTE**. The rest is established.
+O Aśvins, leaders, when the namovāka, which is uttered for the sake of adoration, has begun at the sacrifice of me, the one who invokes, come for the drinking of the Soma. The Brāhmaṇa is cited: उभयं सह वा एतदृज्ञ एव यत्सूक्तवाकश्च नमोवाकश्च । (*ubhayaṃ saha vā etadṛjña eva yatsūktavākaśca namovākaśca |*) (Śa. Brā. 1-9-1-4) **GLOSS** **NOTE**. The rest is established.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -17477,13 +17477,13 @@ He is the hidden ocean ; swsft he mounts (the heaven) as (the sun) the sky ; whe
 
 ### Printed p. 386
 
-> मंत्रवर्णः । तिस्रो भूमिर्धारयन् त्रेरुत द्यून् । ऋ. २-२७-८ । इति । तस्य
+> मंत्रवर्णः । तिस्रो भूमिर्धारयन् त्रेरुत द्यून् । ऋ. सं. २-२७-८ । इति । तस्य
 > वरुणस्य सदः स्थानं ध्रुवमचलमिति । किंच स वरुणः सप्तानां सिंधूनामिरज्यति ।
 > ईश्वरो भवति । सिद्धमन्यत् ॥
 
 ##### Gist of the bhāṣya
 
-Of that Varuṇa who dwells (adhikṣit) in the atmosphere, the shining (śveta) bright rays (vicakṣaṇa) spread (paprathuḥ) the three earths and the three higher worlds. And so there is a mantra text: तिस्रो भूमिर्धारयन् त्रेरुत द्यून् (*tisro bhūmirdhārayan treruta dyūn*) (Ṛ. 2-27-8) **GLOSS**. The dwelling (sadaḥ) of that Varuṇa is firm, that is, immovable. Further, that Varuṇa is lord (īrajyati) of the seven rivers. The rest is established.
+Of that Varuṇa who dwells (adhikṣit) in the atmosphere, the shining (śveta) bright rays (vicakṣaṇa) spread (paprathuḥ) the three earths and the three higher worlds. And so there is a mantra text: तिस्रो भूमिर्धारयन् त्रेरुत द्यून् (*tisro bhūmirdhārayan treruta dyūn*) (Ṛ. Saṃ. 2-27-8) **GLOSS**. The dwelling (sadaḥ) of that Varuṇa is firm, that is, immovable. Further, that Varuṇa is lord (īrajyati) of the seven rivers. The rest is established.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -24823,7 +24823,7 @@ Deities, whatever evil is manifest, whatever is concealed, (let it be not found)
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > यच्च गोष्टित्यादिसूक्तशेषेण दुष्स्वप्नं दृष्ट्वादित्यमुपतिष्ठेत् । तथा च
-> स्वप्नमनोज्ञं दृष्ट्वेत्युपक्रम्य यच्च गोषु दुष्स्वप्नमिति पंचभिरादित्यमुपतिष्ठेत् । आ. गृ. ३-६-६ । इति सूत्रितं ॥
+> स्वप्नमनोज्ञं दृष्ट्वेत्युपक्रम्य यच्च गोषु दुष्स्वप्नमिति पंचभिरादित्यमुपतिष्ठेत् । आ. गृ. सू. ३-६-६ । इति सूत्रितं ॥
 > हे दिवो दुहितरुष उषोदेवते यच्च गोष्टस्मदीयासु दुष्स्वप्नमनर्थसूचकं दृष्टं ॥ स्वार्थिको यत् ॥ किंच यच्च दुष्स्वप्नमस्मे अस्मासु
 > दृष्टं । गोपीडानिमित्तकमस्माकं पीडानिमित्तकं च यद्दुःस्वप्नं पश्याम इत्यर्थः।
 > तत्सर्वं हे विभावरि । उषोनामैतत् । हे व्युच्छनवति देवि आप्त्याय त्रिताय परा
@@ -24831,7 +24831,7 @@ Deities, whatever evil is manifest, whatever is concealed, (let it be not found)
 
 ##### Gist of the bhāṣya
 
-With the rest of the sūkta beginning यच्च गोषु (*yacca goṣu*), one who has seen a bad dream should worship Āditya; this is laid down in the sūtra that begins with seeing an unpleasing dream and says that one worships Āditya with the five verses beginning यच्च गोषु (*yacca goṣu*) (Ā. Gṛ. 3-6-6) **NOTE**. O Uṣas, daughter of heaven, whatever inauspicious bad dream, a sign of calamity, has been seen concerning our cows, and whatever bad dream has been seen by us, a sign of trouble for the cows and for ourselves, all that, O Vibhāvarī (a name of Uṣas), O goddess who dawns, carry far away for Trita Āptya; remove it far off.
+With the rest of the sūkta beginning यच्च गोषु (*yacca goṣu*), one who has seen a bad dream should worship Āditya; this is laid down in the sūtra that begins with seeing an unpleasing dream and says that one worships Āditya with the five verses beginning यच्च गोषु (*yacca goṣu*) (Ā. Gṛ. Sū. 3-6-6) **NOTE**. O Uṣas, daughter of heaven, whatever inauspicious bad dream, a sign of calamity, has been seen concerning our cows, and whatever bad dream has been seen by us, a sign of trouble for the cows and for ourselves, all that, O Vibhāvarī (a name of Uṣas), O goddess who dawns, carry far away for Trita Āptya; remove it far off.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -24862,7 +24862,7 @@ Daughter of heaven, (Ushas), whatever ill-omened dream threatens our cattle or o
 
 ##### विशेषविषयगळु (Special Topics)
 
-When anyone has a bad dream, he should look at Āditya and pray, reciting from the fourteenth ṛk of this sūkta, beginning यच्च गोषु (*yacca goṣu*), to the end of the sūkta. This is set forth by the sūtra of the Āśvalāyana-gṛhya-sūtra that begins with स्वप्नममनोज्ञं (*svapnamamanojñaṃ*) and continues यच्च गोषु दुःस्वप्न्यमिति पंचभिरादित्यमुपतिष्ठेत (*yacca goṣu duḥsvapnyamiti paṃcabhirādityamupatiṣṭheta*) (Ā. Gṛ. 3-6 6) **NOTE**.
+When anyone has a bad dream, he should look at Āditya and pray, reciting from the fourteenth ṛk of this sūkta, beginning यच्च गोषु (*yacca goṣu*), to the end of the sūkta. This is set forth by the sūtra of the Āśvalāyana-gṛhya-sūtra that begins with स्वप्नममनोज्ञं (*svapnamamanojñaṃ*) and continues यच्च गोषु दुःस्वप्न्यमिति पंचभिरादित्यमुपतिष्ठेत (*yacca goṣu duḥsvapnyamiti paṃcabhirādityamupatiṣṭheta*) (Ā. Gṛ. Sū. 3-6 6) **NOTE**.
 
 #### Ṛk 15
 
@@ -27186,7 +27186,7 @@ Who is attainable by chants who being roused by Rishi is all knowing ; intending
 
 > यस्मै इंद्राय परमेश्वराय तदर्थं उत्तमे पदे उत्कृष्टतमे स्थाने
 > द्युलोकाख्यॆ स्थितं अर्क० अर्चनीयमादित्यमानृचुः अर्चंति सर्वे । अथ य
-> एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते (छां. उ. १-६-६) इत्यादि श्रुत्युक्तं
+> एषोऽंतरादित्ये हिरण्मयः पुरुषो दृश्यते (छा. उ. १-६-६) इत्यादि श्रुत्युक्तं
 > यदीयं स्वरूपमुपलब्धं ! सर्वॆ सूर्यमाराधयंतीत्यर्थः । कीदृशमर्क० ।
 > सप्तशीर्षाणं ! सप्तसंख्याकाः शीर्षवत् प्रधानभूता रश्मयो यस्य तादृशं ।
 > त्रिधातुं त्रयाणां भूरादिलोकानां पोषकं । सूर्यस्य त्रिलोकीपोषकत्वं तु
@@ -27462,7 +27462,7 @@ The whole of this visible host of Āryas, whose lord is the asuras, is the enemy
 
 ### Printed p. 602
 
-> द्वंतोऽराः पवीराः । तदुपेतं चक्रं पवीरवि। अत्र पवी रथनेमिर्भवति (निरु. ५-५)
+> द्वंतोऽराः पवीराः । तदुपेतं चक्रं पवीरवि। अत्र पवी रथनेमिर्भवति (नि. ५-५)
 > इत्यादि निरुक्तं द्रष्टव्यं । तादृशं चक्रमज्यते प्रक्षिप्यते । चतुर्थपादे प्रत्यक्षीकृत्य
 > उच्यते। हे इंद्र तुभ्यमेव त्वदर्थमेव सः असुरगणे विद्यमानः रयिः निधिलक्षणो
 > धनराशिः अज्यते प्रक्षिप्यतेऽरिगणेन । असुरगणे गुप्तं चक्रदानमपि इंद्राय
@@ -28129,11 +28129,11 @@ Maṇḍala 8, Anuvāka 6, Sūkta 53; Aṣṭaka 6, Adhyāya 4, Varga 22, 23. Nu
 > हे मघुवन् धनवन्निंद्रॆ मघोनां धनवतां मध्ये उपमं उपमाभूतं
 > वृषभाणां कामवर्षित्यणां मध्ये ज्येष्ठं अतिशयेन प्रशस्यं च त्वा त्वा रायः
 > गवाश्वादिधनानि ईमहे याचामहे वयं । कीदृशं त्वां । पूर्भित्तमं अतिशयेनशत्रुपुरां भेत्तारमत एव गोविदं गवां लंभयितारं ईशानं सर्वपिद्यानां
-> नियंतारं । ईशानः सर्वविद्यानां—(त्रै. आ. १०-४७) इति श्रुतेः ॥
+> नियंतारं । ईशानः सर्वविद्यानां—(तै. आ. १०-४७) इति श्रुतेः ॥
 
 ##### Gist of the bhāṣya
 
-O Maghavan, Indra, wealthy one: among the wealthy you are the model, and among the bulls, the showerers of desires, you are the eldest, that is, the most to be praised. We ask of you riches, cows, horses and the like. What kind of you? One who most splits the cities of enemies, and so a finder of cows, a ruler, the controller of all knowledge, according to the Śruti ईशानः सर्वविद्यानां (*īśānaḥ sarvavidyānāṃ*) (Trai. Ā. 10-47) **NOTE**.
+O Maghavan, Indra, wealthy one: among the wealthy you are the model, and among the bulls, the showerers of desires, you are the eldest, that is, the most to be praised. We ask of you riches, cows, horses and the like. What kind of you? One who most splits the cities of enemies, and so a finder of cows, a ruler, the controller of all knowledge, according to the Śruti ईशानः सर्वविद्यानां (*īśānaḥ sarvavidyānāṃ*) (Tai. Ā. 10-47) **NOTE**.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -29295,7 +29295,7 @@ You are a bull to the Dashus, give me ten thousand from your permanent wealth.
 > आदितेरुचित एव । दृष्टिपूतं न्यसेत् पादं इति वचनात् । तस्या अपत्यं पौतक्रत
 > इंद्रः । दस्यवे । दस्युः कर्मोपक्षयिता तमःसंघः । तं हंतुं वृकश्चंद्रमाः सन
 > (सन्) नित्यात् अनुपक्षीणात् स्वकोशात् सकाशात् दश सहस्रा आयुतसंख्याकानि
-> रायः धनानि मह्यं पृषध्रनाम्ने अमंहत प्रादात् । किंच गर्दभमेषीदासमालाशतान्यपि मे मह्यं स एव प्रादात् इति । वृकश्चंद्रमा भवति (निरु. ५-२०)
+> रायः धनानि मह्यं पृषध्रनाम्ने अमंहत प्रादात् । किंच गर्दभमेषीदासमालाशतान्यपि मे मह्यं स एव प्रादात् इति । वृकश्चंद्रमा भवति (नि. ५-२०)
 > इति यास्कः ॥
 
 ##### Gist of the bhāṣya
@@ -29383,7 +29383,7 @@ To the Putakrita has been brought mare, well-crested one unlike any in the herd.
 
 > आथानयाग्नि सूर्यौ स्तूयेते । स प्रसिद्धोऽग्निः चिकिशुः चेतनावतो
 > यजमानस्य । कर्मणि षष्ठि । चेतनावंतं यजमानं अचेति जानाति । कीद्वतः सः ।
-> हव्यवाट् हविषां वोढा सुमद्रथः स्वयमेव रंहणस्वभावः । ७मत् स्वयमित्यर्थः (निरु. ६-२२) इति यास्कः । असहायगमनशील इत्यर्थः । किंच बृहत् महान्
+> हव्यवाट् हविषां वोढा सुमद्रथः स्वयमेव रंहणस्वभावः । ७मत् स्वयमित्यर्थः (नि. ६-२२) इति यास्कः । असहायगमनशील इत्यर्थः । किंच बृहत् महान्
 > योऽग्निः शुक्रेण शुक्लेन शोचिषा तेजसा सूरः सुष्टु ईरयिता प्रेरकः सन् रात्रौ
 > भुवि अरोचत दीप्यते । आथ च दिवा दिवि (?) द्योतमाने स्वर्लोके सूर्यः
 > सुष्टु प्रेरयितादित्यः अरोचत दीप्यते । उभाभ्यामहोरात्रात्मकः सर्वः कालः
@@ -31905,14 +31905,14 @@ We join (to our rite) the mighty Indra, the subduer of enemies in battles, the i
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > चातुर्विंशिकेऽहनि माध्यंदिनसवनेऽच्छावाकस्य यत इंद्रेति वैकल्पिकः स्तोत्रियस्तृचः । सूत्रितं च । यत इंद्र भयामहे यथा गौरो अपा कृतं । आ. ७-४ ।
-> इति ॥ दुःस्वप्नदर्शनेऽप्येतदादिसूक्तशेषो जप्यः । आ. गृ. ३-११-२ ॥
+> इति ॥ दुःस्वप्नदर्शनेऽप्येतदादिसूक्तशेषो जप्यः । आ. गृ. सू. ३-११-२ ॥
 > हे इंद्र यतो हिंसकाद्भयामहे वयं ततो नोऽस्मभ्यमभयं कृधि ।
 > कुरु । हे मघवन् शग्नि शक्तो भवसि नोऽस्मभ्यमभयं कर्तुं तव तत्त्वैरूतिभी
 > रक्षणै रक्षकैः पुरुषैः ! किंच वि जहि द्विषोऽस्मद्वेष्टवान् । वि जहि मृधोऽस्मद्धिंसकान् ॥
 
 ##### Gist of the bhāṣya
 
-On the Cāturviṃśika day, at the midday pressing, for the Acchāvāka, the tṛca beginning यत इंद्र (*yata iṃdra*) is an optional stotriya. It is aphorised: यत इंद्र भयामहे यथा गौरो अपा कृतं (*yata iṃdra bhayāmahe yathā gauro apā kṛtaṃ*) (Ā. 7-4). On seeing a bad dream, too, the rest of the sūkta beginning with this Ṛk is to be muttered (Ā. Gṛ. 3-11-2) **NOTE**. O Indra, from whatever destroyer we are afraid, from him make us fearless. O Maghavan, शग्नि (*śagni*): you are able to make us fearless with your protections, with your protectors, men. And further: smite away the haters of us, smite away those who harm us.
+On the Cāturviṃśika day, at the midday pressing, for the Acchāvāka, the tṛca beginning यत इंद्र (*yata iṃdra*) is an optional stotriya. It is aphorised: यत इंद्र भयामहे यथा गौरो अपा कृतं (*yata iṃdra bhayāmahe yathā gauro apā kṛtaṃ*) (Ā. 7-4). On seeing a bad dream, too, the rest of the sūkta beginning with this Ṛk is to be muttered (Ā. Gṛ. Sū. 3-11-2) **NOTE**. O Indra, from whatever destroyer we are afraid, from him make us fearless. O Maghavan, शग्नि (*śagni*): you are able to make us fearless with your protections, with your protectors, men. And further: smite away the haters of us, smite away those who harm us.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -31944,7 +31944,7 @@ Indra, give us security from him of whom we are afraid; Maghavan, be strong for 
 
 ##### विशेषविषयगळु (Special Topics)
 
-On the day of the sacrifice called Cāturviṃśika, at the midday pressing, in the śastra mantras recited by the priest called Acchāvāka, these three Ṛks beginning यत इंद्र (*yata iṃdra*) are to be recited as the optional stotriya tṛca, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यत इंद्र भयामहे यथा गौरो अपाकृतं (*yata iṃdra bhayāmahe yathā gauro apākṛtaṃ*) (Ā. 7-4); and when a bad dream has occurred, the mantras from this Ṛk to the end of the sūkta are to be muttered, as is explained in the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 3-11-2).
+On the day of the sacrifice called Cāturviṃśika, at the midday pressing, in the śastra mantras recited by the priest called Acchāvāka, these three Ṛks beginning यत इंद्र (*yata iṃdra*) are to be recited as the optional stotriya tṛca, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यत इंद्र भयामहे यथा गौरो अपाकृतं (*yata iṃdra bhayāmahe yathā gauro apākṛtaṃ*) (Ā. 7-4); and when a bad dream has occurred, the mantras from this Ṛk to the end of the sūkta are to be muttered, as is explained in the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. Sū. 3-11-2).
 
 #### Ṛk 14
 
@@ -35735,13 +35735,13 @@ Let not the snare bind us ; may Indra, the renowned, the subduer of all, deliver
 
 > हे अविष्यवो रक्षितुमिच्छंतो देवाः नोऽस्मान्वृजिनानां हिंसकानां
 > रिपूणां मृचा ! मृचिर्हिंसाकर्मा । यत्कुषरेण मर्चयता सुपेशसा !
-> आ. गृ. १-१७-१५ । इत्यादिषु तथा दृष्टत्वात् । हिंसकेन जालेन माभि प्र मृक्षत ।
+> आ. गृ. सू. १-१७-१५ । इत्यादिषु तथा दृष्टत्वात् । हिंसकेन जालेन माभि प्र मृक्षत ।
 > अभिमर्शनमुपरि जालस्य प्रेरणं मा कुरुत । यद्वा ! मृचा जालेन प्राप्ता बाधा
 > नोऽस्माकं मा भवतु । हे देवाः यूयं च परिमार्जयत । परिहरत ॥
 
 ##### Gist of the bhāṣya
 
-O gods, desiring to protect us, do not touch us with the मृचा (*mṛcā*) of the harming enemies. मृचि (*mṛci*) has the sense of harming, as is seen in such passages as यत्कुषरेण मर्चयता सुपेशसा (*yatkuṣareṇa marcayatā supeśasā*) (Ā. Gṛ. 1-17-15) **NOTE**. Do not lay on us the touch, the casting over us, of a harming net. Or else: let no distress that comes to us from the मृचा (*mṛcā*), the net, befall us; and you, O gods, keep it away.
+O gods, desiring to protect us, do not touch us with the मृचा (*mṛcā*) of the harming enemies. मृचि (*mṛci*) has the sense of harming, as is seen in such passages as यत्कुषरेण मर्चयता सुपेशसा (*yatkuṣareṇa marcayatā supeśasā*) (Ā. Gṛ. Sū. 1-17-15) **NOTE**. Do not lay on us the touch, the casting over us, of a harming net. Or else: let no distress that comes to us from the मृचा (*mṛcā*), the net, befall us; and you, O gods, keep it away.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -36257,7 +36257,7 @@ Let not this weapon of Vivaswat, this net made with hands, Adityas, destroy us b
 ##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
 
 > हे आदित्यास आदित्याः द्वेषो द्वेष्टून सु सुष्टु वि वृहत । उन्मूलयत ।
-> नाशयतेत्यर्थः । तथांहतिं पातकं पापं वि वृहत ॥ हंतेरंह च । उ. ४-६२ ।
+> नाशयतेत्यर्थः । तथांहतिं पातकं पापं वि वृहत ॥ हंतेरंह च । उ. सू. ४-६२ ।
 > इत्यतिप्रत्ययः ॥ तथा संहितं जालं वि वृहत । तथा रपः पापं सर्वं विष्ण्वीषूचीनं वि वृहत । रपो रिप्रमिति पापनामनी भवतः । नि. ४-२१ । इति यास्कः ॥
 
 ##### Gist of the bhāṣya

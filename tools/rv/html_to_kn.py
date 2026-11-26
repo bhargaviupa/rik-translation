@@ -205,7 +205,10 @@ def kn_pages(specs,pages,section=None,mandalas=None,warm=12):
         if p not in P: md.append(f'<!-- printed {p}: NOT IN THE SUPPLIED TEXT -->\n'); continue
         t,section=kn_page(p,H.get(p,''),P[p],section,st); md.append(t)
     EXTRA[:]=st['extra']
-    return '\n'.join(md),section
+    txt='\n'.join(md)
+    for p in pages:        # a page without a head of its own may still be found inside the page before it: then no 'NOT IN THE SUPPLIED TEXT' mark for it
+        if re.search(r'(?m)^<!-- printed %d -->$'%p,txt): txt=re.sub(r'(?m)^<!-- printed %d: NOT IN THE SUPPLIED TEXT -->\n?\n?'%p,'',txt)
+    return txt,section
 if __name__=='__main__':
     a=sys.argv[1:]; sec=a[a.index('--section')+1] if '--section' in a else None
     specs=[x for x in a if '.html' in x or '.md' in x]; pi=a.index('--pages')+1; pages=[int(x) for x in a[pi:] if x.isdigit()]

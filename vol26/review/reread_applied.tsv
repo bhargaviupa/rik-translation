@@ -1,0 +1,150 @@
+id	pdf_page	line	was	now	note
+Q0001	1001	1	೯೭[?]	೯೭	confirmed by Tesseract OCR (line match 1.00)
+Q0004	1003	1	೯೭[?]	೯೭	confirmed by Tesseract OCR (line match 0.92)
+Q0008	1005	1	೯೭[?]	೯೭	confirmed by Tesseract OCR (line match 0.97)
+Q0013	1006	1	೧೮[?]	೧೮	confirmed by Tesseract OCR (line match 0.81)
+Q0047	1009	6	೧-೧೧೭[?]	೧-೧೧೭	confirmed by Tesseract OCR (line match 0.76)
+Q0045	1009	6	೧-೧೬೬[?]	೧-೧೬೬	confirmed by Tesseract OCR (line match 0.76)
+Q0054	1012	8	೧೦-೨-೪[?]	೧೦-೨-೪	confirmed by Tesseract OCR (line match 1.00)
+Q0060	1013	9	೪-೨-೫-೯[?]	೪-೨-೫-೯	confirmed by Tesseract OCR (line match 1.00)
+Q0063	1014	8	೧೬[?]	೧೬	confirmed by Tesseract OCR (line match 1.00)
+Q0064	1016	11	೫-೭[?]	೫-೭	confirmed by Tesseract OCR (line match 1.00)
+Q0066	1017	6	೨-೫[?]	೨-೫	confirmed by Tesseract OCR (line match 1.00)
+Q0120	1045	9	೧೮[?]	೧೮	confirmed by Tesseract OCR (line match 0.85)
+Q0114	1045	9	೧೮[?]	೧೮	confirmed by Tesseract OCR (line match 0.85)
+Q0112	1045	9	೩-೬೨[?]	೩-೬೨	confirmed by Tesseract OCR (line match 0.85)
+Q0141	1046	16	೩-೩-೫[?]	೩-೩-೫	confirmed by Tesseract OCR (line match 1.00)
+Q0153	1047	14	೧-೯[?]	೧-೯	confirmed by Tesseract OCR (line match 1.00)
+Q0149	1047	8	೧೩[?]	೧೩	confirmed by Tesseract OCR (line match 1.00)
+Q0148	1047	5	೨-೨-೪[?]	೨-೨-೪	confirmed by Tesseract OCR (line match 1.00)
+Q0156	1055	1	೯೭[?]	೯೭	confirmed by Tesseract OCR (line match 0.87)
+Q0173	1067	1	೯೮[?]	೯೮	confirmed by Tesseract OCR (line match 0.87)
+Q0003	1003	12	೧೪–೧೯[?]	೧೪–೧೯	vote rule 1
+Q0002	1003	1	8!2[?]	೮೧೨	vote rule 1
+Q0005	1004	4	೧೪–೧೪[?]	೧೪–೧೪	vote rule 1
+Q0015	1007	12	೭-೮೯[?]-೪[?]	೫–೮೫–೬	vote rule 1
+Q0030	1008	10	೧೨[?]-೩೦[?]	೧೨-೨೦	vote rule 1
+Q0028	1008	10	೧೨[?]-೩೦[?]	೧೨-೩೦	vote rule 1
+Q0022	1008	2	೧೧-೨[?]	೧೧-೨	vote rule 1
+Q0042	1009	6	೧-೧೧೭-೧೯[?]	೧-೧೧೭-೧೯	vote rule 1
+Q0041	1009	6	೧-೧೬೬-೧೨[?]	೧-೧೬೬-೧೨	vote rule 1
+Q0054	1013	19	೬-೧೫[?]	೬-೧೫	vote rule 1
+Q0057	1018	8	೯[?]	೯	vote rule 1
+Q0070	1033	9	೧೦[?]	೧೦	vote rule 1
+Q0066	1033	6	೮-೧೯[?]	೮-೧೯	vote rule 1
+Q0073	1034	4	೧೦–೩೦–೧೩[?]	೧೦–೩೦–೧೩	vote rule 1
+Q0072	1034	2	೧೦–೩೦–೧೦[?]	೧೦–೩೦–೧೦	vote rule 1
+Q0079	1035	7	೧-೯೩[?]	೧-೯೩	vote rule 2
+Q0078	1035	5	೨-೩೫[?]-೩[?]	೨-೩೫-೩	vote rule 1
+Q0076	1035	2	೨-೩೫[?]-೩[?]	೨-೩೫-೩	vote rule 1
+Q0113	1045	9	೯-೬೫[?]	೯-೬೫	vote rule 1
+Q0112	1045	9	೩೪[?]	೩೪	vote rule 1
+Q0111	1045	9	೯-೬೨[?]	೯-೬೨	vote rule 1
+Q0107	1045	9	೧೦-೧೧೦[?]	೧೦-೧೧೦	vote rule 1
+Q0103	1045	9	೯-೬೨[?]	೯-೬೨	vote rule 2
+Q0101	1045	9	೩-೬೨-೧೭[?]	೩-೬೨-೧೭	vote rule 1
+Q0124	1046	8	೧೦೪[?]	೧೧೪	vote rule 1
+Q0123	1046	8	೪-೧೦೩[?]	೪-೧೧೩	vote rule 1
+Q0122	1046	2	೧೦-೧೨೮[?]	೧೦-೧೨೮	vote rule 1
+Q0144	1062	1	೩೪[?]	೩೪	vote rule 1
+Q0148	1064	1	೩೪[?]	೩೪	vote rule 1
+Q0150	1066	1	೩೪[?]	೩೪	vote rule 1
+Q0179	1077	4	೩೮[?]	೩೮	vote rule 1
+Q0178	1077	4	೩೭[?]	೩೭	vote rule 1
+Q0177	1077	4	೭[?]	೭	vote rule 1
+Q0021	1007	7	ಉಶತೋ[?]	ಉಶತೋ	word pass A agrees with the first reader (certain)
+Q0019	1007	6	ಸಧಸ್ತಂ[?]	ಸಧಸ್ತಂ	word pass A agrees with the first reader (certain)
+Q0044	1009	2	ಅದ[?]	ಅದ	word pass A agrees with the first reader (certain)
+Q0083	1037	7	ಯೋಽಮಧವ್ಯೋ[?]	ಯೋಽಮಧವ್ಯೋ	word pass A agrees with the first reader (certain)
+Q0081	1037	4	ಯಶೋಽತೋಽಸ್ತಸ್ಮಾದನುಬ್ರುವತ್ಯೈ[?]	ಯಶೋಽತೋಽಸ್ತಸ್ಮಾದನುಬ್ರುವತ್ಯೈ	word pass A agrees with the first reader (certain)
+Q0084	1038	2	ಯೋಭಿರ್ವಾ[?]	ಯೋಭಿರ್ವಾ	word pass A agrees with the first reader (certain)
+Q0091	1039	7	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0090	1039	5	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0096	1040	9	ಹೊದ್ದಿಸುವವನೂ[?]	ಹೊದ್ದಿಸುವವನೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0094	1040	7	ಹೊದ್ದಿಸುವವನೂ[?]	ಹೊದ್ದಿಸುವವನೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0093	1040	7	ಶೀತ[?]	ಶೀತ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0098	1041	11	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0097	1041	9	ದೇವತಾತ್ಮನಾದ[?]	ದೇವತಾತ್ಮನಾದ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0100	1042	11	ಕುಳಿತಿರುವವರೂ[?]	ಕುಳಿತಿರುವವರೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0099	1042	11	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0132	1046	17	ಅದರೆ[?]	ಅದರೆ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0129	1046	6	ದದುಸ್ತೇ[?]	ದದುಸ್ತೇ	word pass A agrees with the first reader (certain)
+Q0138	1057	9	ಅನೇಕರನ್ನು[?]	ಅನೇಕರನ್ನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0143	1060	9	ಸೀನು[?]	ಸೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0142	1060	9	ಪ್ರಕಾಶಮಾನನಾದ[?]	ಪ್ರಕಾಶಮಾನನಾದ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0141	1060	7	ರೂಪದಲ್ಲಿಯೂ[?]	ರೂಪದಲ್ಲಿಯೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0140	1060	7	ಸೀನು[?]	ಸೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0139	1060	7	ಪ್ರಕಾಶಮಾನನಾದ[?]	ಪ್ರಕಾಶಮಾನನಾದ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0146	1062	7	ಇಂದ್ರಸಿಗೆ[?]	ಇಂದ್ರಸಿಗೆ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0145	1062	5	ಇಂದ್ರಸಿಗೆ[?]	ಇಂದ್ರಸಿಗೆ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0147	1063	7	ಮಧುಕರವಾದ[?]	ಮಧುಕರವಾದ	word pass A agrees with the first reader (certain)
+Q0149	1065	3	ಜನಿಷ್ವ[?]	ಜನಿಷ್ವ	word pass A agrees with the first reader (certain)
+Q0152	1066	3	ಕೊಡವವನೂ[?]	ಕೊಡವವನೂ	word pass A agrees with the first reader (certain)
+Q0154	1067	29	ಸೀವೂ[?]	ಸೀವೂ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0157	1069	17	ಸೋಮುಸಿಗಾಗಿ[?]	ಸೋಮುಸಿಗಾಗಿ	word pass A agrees with the first reader (certain)
+Q0162	1073	11	Translation[?]	Translation	word pass A agrees with the first reader (certain)
+Q0161	1073	11	English[?]	English	word pass A agrees with the first reader (certain)
+Q0166	1075	9	ದಾಸಿಯೆಂದು[?]	ದಾಸಿಯೆಂದು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0165	1075	7	ವಸತೀವರಿಉದಕಗಳನ್ನು[?]	ವಸತೀವರಿಉದಕಗಳನ್ನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0176	1076	15	ಛಂದಸ್ಕವು[?]	ಛಂದಸ್ಕವು	word pass A agrees with the first reader (certain)
+Q0174	1076	9	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ[?]	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0172	1076	9	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0171	1076	7	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ[?]	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0170	1076	7	ನೀನು[?]	ನೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0169	1076	7	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0184	1078	13	ನೀನು[?]	ನೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0183	1078	13	ಎಲ್ಬೈ[?]	ಎಲ್ಬೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0182	1078	11	ನೀನು[?]	ನೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0181	1078	11	ಎಲ್ಬೈ[?]	ಎಲ್ಬೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0001	1001	4	ಯಜ್ಞವೂರ್ಗದಲ್ಲೆಲ್ಲ[?]	ಯಜ್ಞಮಾರ್ಗದಲ್ಲೆಲ್ಲ	word vote rule 1 (A, B, first reader)
+Q0006	1005	10	ಕಾಮಯಮಾನಾ[?]	ಕಾಮಯಮಾನಾ	word vote rule 1 (A, B, first reader)
+Q0014	1007	7	ತಾ[?]	ತಾ	word vote rule 1 (A, B, first reader)
+Q0013	1007	3	pr:aise[?]	praise	word vote rule 1 (A, B, first reader)
+Q0027	1008	18	ವಿಘ್ನ[?]	ವಿಘ್ನ	word vote rule 2 (A, B, first reader)
+Q0030	1009	4	ಚರತ್ಸಮಂಜನ್ನಗ್ನಿಸಾರೀಂ[?]	ಚರತ್ಸಮಂಜನ್ನಗ್ನಿಸಾರೀಂ	word vote rule 1 (A, B, first reader)
+Q0036	1012	2	w:ages[?]	wages	word vote rule 1 (A, B, first reader)
+Q0041	1018	18	ಇಂದ್ರಾದಿದೇವತೆ[?]	ಇಂದ್ರಾದಿದೇವತೆ	word vote rule 1 (A, B, first reader)
+Q0062	1040	9	ಸಂಪತ್ತದಳಾದ[?]	ಸಂಪತ್ತ್ರದಳಾದ	word vote rule 1 (A, B, first reader)
+Q0061	1040	7	ಸಂಪತ್ತದಳಾದ[?]	ಸಂಪತ್ತ್ರದಳಾದ	word vote rule 1 (A, B, first reader)
+Q0083	1046	15	ಜಮದಗ್ನಿಸ್ತಪಸಾಪಶ್ಯತ್ತ್ರಯಾ[?]	ಜಮದಗ್ನಿಸ್ತಪಸಾಪಶ್ಯತ್ತ್ರಯಾ	word vote rule 1 (A, B, first reader)
+Q0082	1046	15	ಪ್ರಜಾಪತಿರ್ವಿರಾಜಮಪಶ್ಯತ್ತ್ರಯೋ[?]	ಪ್ರಜಾಪತಿರ್ವಿರಾಜಮಪಶ್ಯತ್ತ್ರಯೋ	word vote rule 1 (A, B, first reader)
+Q0081	1046	6	ಸೂರ್ಯಕ್ಷಯೋದಿಹಾಹೃತ್ಯ[?]	ಸೂರ್ಯಕ್ಷಯೋದಿಹಾಹೃತ್ಯ	word vote rule 1 (A, B, first reader)
+Q0090	1066	5	ಇಂಪ್ರನ[?]	ಇಂದ್ರನ	word vote rule 1 (A, B, first reader)
+Q0091	1067	29	ಆಧಿಕವಾಗಿ[?]	ಆಧಿಕವಾಗಿ	word vote rule 2 (A, B, first reader)
+Q0092	1068	7	ಸೀವೂ[?]	ನೀವೂ	word vote rule 1 (A, B, first reader)
+Q0096	1074	12	Translatiou[?]	Translation	word vote rule 1 (A, B, first reader)
+Q0098	1075	9	ವಸತೀವರಿಉದಕಗಳನ್ನು[?]	ಪಸತೀವರಿಉದಕಗಳನ್ನು	word vote rule 1 (A, B, first reader)
+Q0102	1077	16	ಇಂದ್ರಸಿಗೆ[?]	ಇಂದ್ರನಿಗೆ	word vote rule 1 (A, B, first reader)
+Q0104	1085	16	ಮಾತ್ರಾಹೀನಂ[?]	ಮಾತ್ರಾಹೀನಂ	word vote rule 1 (A, B, first reader)
+Q0005	1005	15	೧೪–೧೫[?]	೧೪-೧೫	page-level reading agrees with the first reader or a crop reader
+Q0004	1005	11	೧೪[?]–೧೫[?]	೧೪-೧೫	page-level reading agrees with the first reader or a crop reader
+Q0011	1007	15	೪-೨೬[?]	೪-೨೬	page-level reading agrees with the first reader or a crop reader
+Q0010	1007	11	೯[?]-೧೩[?]	೯-೧೩	page-level reading agrees with the first reader or a crop reader
+Q0008	1007	8	೭-೬೯[?]-೪[?]	೭-೬೯-೪	page-level reading agrees with the first reader or a crop reader
+Q0026	1008	20	೩-೬೧[?]-೧[?]	೩-೬೧-೧	page-level reading agrees with the first reader or a crop reader
+Q0024	1008	17	೫[?]-೪೨[?]-೫[?]	೫-೪೨-೫	page-level reading agrees with the first reader or a crop reader
+Q0021	1008	13	೫[?]-೩೫[?]-೨[?]	೫-೩೫-೨	page-level reading agrees with the first reader or a crop reader
+Q0018	1008	9	೧೦-೬೫[?]-೧೩[?]	೧೦-೬೫-೧೩	page-level reading agrees with the first reader or a crop reader
+Q0029	1009	9	೧-೧೩೪[?]	೧-೧೩೪	page-level reading agrees with the first reader or a crop reader
+Q0028	1009	5	೧೦-೮೦[?]	೧೦-೮೦	page-level reading agrees with the first reader or a crop reader
+Q0033	1012	8	೧೦-೨-೪-೩[?]	೧೦-೨-೪-೩	page-level reading agrees with the first reader or a crop reader
+Q0032	1012	4	೧-೨-೧-೧[?]	೧-೬-೨-೧	page-level reading agrees with the first reader or a crop reader
+Q0038	1013	14	೧-೬-೧-೧೯[?]	೧-೬-೧-೧೯	page-level reading agrees with the first reader or a crop reader
+Q0037	1013	4	೨-೨-೩-೯[?]	೨-೨-೩-೯	page-level reading agrees with the first reader or a crop reader
+Q0039	1016	24	೧-೧[?]	೧-೧	page-level reading agrees with the first reader or a crop reader
+Q0040	1017	6	೨-೫-೧೫[?]	೨-೫-೧೫	page-level reading agrees with the first reader or a crop reader
+Q0046	1021	11	೧೦೮[?]	೧೦೮	page-level reading agrees with the first reader or a crop reader
+Q0045	1021	9	೧೦-೧೪[?]-೧೧[?]	೧೦-೧೪-೧೧	page-level reading agrees with the first reader or a crop reader
+Q0051	1033	9	೧೦-೩೦-೧೧[?]	೧೦-೩೦-೧೧	page-level reading agrees with the first reader or a crop reader
+Q0050	1033	9	೧೧[?]	೧೧	page-level reading agrees with the first reader or a crop reader
+Q0053	1034	4	೫–೪೩–೪[?]	೫–೪೩–೪	page-level reading agrees with the first reader or a crop reader
+Q0052	1034	2	೯–೧೧[?]	೯–೧೧	page-level reading agrees with the first reader or a crop reader
+Q0073	1045	15	೩[?]	೩	page-level reading agrees with the first reader or a crop reader
+Q0072	1045	12	೧೦-೧೬೨[?]-೪[?]	೧೦-೧೬೨-೪	page-level reading agrees with the first reader or a crop reader
+Q0069	1045	9	೧೦-೧೬೭[?]	೧೦-೧೬೭	page-level reading agrees with the first reader or a crop reader
+Q0064	1045	9	೯-೬೫[?]	೯-೬೫	page-level reading agrees with the first reader or a crop reader
+Q0063	1045	9	೮-೧೦೧[?]	೮-೧೦೧	page-level reading agrees with the first reader or a crop reader
+Q0080	1046	16	೩-೩-೫-೨[?]	೩-೩-೫-೨	page-level reading agrees with the first reader or a crop reader
+Q0079	1046	12	೩-೫೩[?]-೧೫[?]	೩-೫೩-೧೫	page-level reading agrees with the first reader or a crop reader
+Q0086	1047	11	೮[?]-೧-೨-೩[?]	೮-೧-೨-೩	page-level reading agrees with the first reader or a crop reader
+Q0084	1047	8	೧೩-೨-೨-೧೪[?]	೧೩-೨-೨-೧೪	page-level reading agrees with the first reader or a crop reader

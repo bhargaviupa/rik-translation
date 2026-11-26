@@ -1,0 +1,23 @@
+batch	first	last	rows	applied	edits_ok	edits_failed	questions	tokens	commit	date	note
+pilot	300	309	24	15	17	0	9	248k	b7ae9b6	2026-11-24	read 139k + apply 109k; the English reading notes on pp. 304 and 309 translate the bhāṣya and were not read
+1	2	31	86	35	43	0	51	304k	2a611eb	2026-11-24	most questions are Kannada misprints the English had silently put right (H29); pp. 7–8 are one English section (p. 7 edits filed under page 6)
+2	32	61	44	37	37	0	7	208k	fed3619	2026-11-24	24 S2: sūtra numbers the English had and the Kannada does not print were removed
+3	62	91	76	55	55	0	21	311k	96960c4	2026-11-24	30 S2 removals; English pp. 72/73 boundary shifted by about a paragraph
+4	92	121	50	35	35	0	15	204k	26ecee4	2026-11-24	22 S2 removals; one edit (p. 95) needed a rerun after sp_apply.py learned two headings for one page
+5	122	151	67	52	52	0	15	272k	823a12c	2026-11-24	20 S2 removals, 7 S7 quotation repairs; English p. 141 carries the first lines of Kannada p. 142
+7	152	181	43	35	35	0	8	223k	7998fe1	2026-11-24	19 S1 + 8 S2 number repairs, 2 S7 quotation repairs; two English headings each for pp. 154 and 179 (handled)
+8	182	211	52	40	40	0	12	265k	24b7437	2026-11-24	18 S1 + 8 S2 number repairs, 6 S7 quotation repairs; p. 203 has two English headings (handled); p. 196 sense (apart from / in company of man) left as a question
+9	212	241	42	37	37	0	5	212k	4a72102	2026-11-24	22 S2, 4 S3 number repairs, R3 quotation repairs (Taittirīya, Skandasvāmin); English pp. 232–235 shifted against the Kannada (see open items); duplicate removed from English p. 213/214
+10	242	271	46	32	32	0	14	220k	e5f80e2	2026-11-24	24 S2 number repairs, 5 S7 quotation repairs; no '### Page 259' heading in the English; English p. 256/257 shifted (see open items)
+11	272	299	52	39	39	0	13	216k	0acd82d	2026-11-24	11 S1 + 14 S3 (five running heads Varga [?] → 14) number repairs, 5 S7 quotation repairs; no page shifts
+12	310	339	35	29	29	0	6	250k	06cf9df	2026-11-24	8 S1 + 5 S2 number repairs, 5 S7 quotation repairs, 7 S14 sense; English pp. 315/316 and 324/325 shifted (see open items)
+13	340	369	38	32	32	0	6	257k	bf12e26	2026-11-24	6 S1 + 3 S2 number repairs, 6 S7 quotation repairs, 12 S18 grammar sūtra repairs; no page shifts; English grammar pages omit several numbers the Kannada prints (not added)
+14	370	399	45	35	35	0	10	259k	93be96c	2026-11-24	15 S7 + 1 S7/R6 quotation repairs, 8 S2 removals; p. 370 reference changed to 18-18-8 as the Kannada prints (impossible maṇḍala, see open items); one edit needed a retry (asterisks); pp. 374 and 396 line up with the Kannada
+15	400	429	53	45	45	0	8	242k	abb8a1d	2026-11-24	13 S1/S2 number repairs (incl. Ṛk 10-98-5 → 10-92-5, sūkta 72 → 73), 14 S7 + 4 S13 quotation/term repairs; one retry; no page shifts; p. 425 Pā. Sū. 7-1-171 applied as printed (open item)
+16	430	459	38	18	18	0	20	232k	e2afdaa	2026-11-24	6 S2 + 4 S1 number repairs; p. 451 Pā. Sū. [6-2-2] → 9-2-2 as the Kannada prints (no adhyāya 9: see open items); p. 443 volume 2 → 1; p. 458 lines up; no page shifts
+17	460	489	42	30	30	0	12	244k	e0252e0	2026-11-24	14 number fixes, 10 number removals, 6 R3 quotation repairs; English pp. 471/472 and 480/481 shifted (open items); one edit-file slip left an extra harmless p. 471 row in findings.tsv; reader hit the usage limit and was resumed
+18	490	519	66	47	47	0	19	253k	f10e549	2026-11-24	31 S1 + 11 S2 number repairs, 2 S7; Pāṇini adhyāya 9 printed on p. 507, and 6-2-55 vs 5-3-55 on p. 515 (open items); English from p. 490 is a condensed rendering; no page shifts
+19	520	549	100	84	84	0	16	243k	369af22	2026-11-24	84 edits: 21 S1, about 40 S2 removals of sūtra numbers the Kannada does not print, 33 S7 quotation edits (IAST + Devanagari pairs); no page shifts; p. 540 prints 6-1-167 vs p. 521 6-1-197 (each page's own number applied); findings.tsv/questions.tsv p. 532 rows were trimmed by hand by the reader
+20	550	579	78	56	56	0	22	246k	5fbbab4	2026-11-24	46 number repairs (16 S1/S3, 13 sūtra numbers, 18 removals), 7 R3 quotation edits; pp. 559 and 571 have no head in the supplied text (inside 558 and 570); English pp. 570/571 shifted (open items)
+21	580	599	46	31	31	0	15	204k	72888b7	2026-11-24	4 S1 + 17 S2 + 2 S3 number repairs, 3 S13, 3 S14; no page shifts
+22	600	619	62	49	49	0	13	188k	f19b850	2026-11-24	28 S2 + 8 S3 number repairs, incl. the Dadhyañc/Manu numerals of pp. 616–618 settled from the Kannada ([?] marks removed; Kannada prints ೬-೬--೬-೧ read as 6-6-6-1); 10 R3/S13; no page shifts

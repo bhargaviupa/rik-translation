@@ -1,0 +1,72 @@
+Q0104	ತೆಗೆದುಕೊಂಡು	likely	glyphs slightly broken
+Q0105	ಪರಹಾಸುರನನ್ನೂ	likely	print reads ಪರಹಾ (no long ಾ after ರ)
+Q0106	ವಿಷ್ಯ	likely	
+Q0107	ವಿಷ್ಯಸ್ವರಾಹಂ	likely	
+Q0108	ಅದ್ರಿಮಸ್ತಾ	certain	
+Q0109	ಆಯು-ಪುಹೀತರೋ	likely	crop shows ಪುಹೀತರೋ (line starts after hyphen)
+Q0110	ವಿಷ್ಯ	likely	same word as Q0106; ** not printed
+Q0111	ಸೂಕದ	certain	
+Q0112	ಮುರ್ಮುರ್ಣ್ಯರ್ದನವೇಧಿನೌ	likely	first syllables read ಮುರ್ಮುರ್ಣ್ಯ
+Q0115	unreadable	unreadable	crop shows a different line (ಇದರಲ್ಲಿ ಹತ್ತು ಋಕ್ಕುಗಳಿರುವವು)
+Q0116	ಮಹಾವ್ರತೇಷ್ಟಿಯಲ್ಲಿ	likely	
+Q0117	ಉತೆ	certain	
+Q0118	ಉತೆ	certain	
+Q0119	unreadable	unreadable	crop shows ವಿನೀತರನ್ನಾಗಿ ಮಾಡುತ್ತಾನೆ, not the word
+Q0120	ಕೆಳಗಿಳಿಯುವಂತೆ	certain	
+Q0121	unreadable	unreadable	same crop as Q0119, word not shown
+Q0122	ಹವಿಸ್ಪ್ರದಾನಾದಿ	certain	
+Q0124	ಮೇಧಾವಿಯೂ	certain	
+Q0125	ಅಂಟಿವಿರುವಂತೆ	certain	
+Q0126	you	likely	y damaged
+Q0127	invulnerable	certain	
+Q0128	former	certain	
+Q0129	times	certain	
+Q0130	battle	certain	
+Q0131	you	likely	y damaged
+Q0132	ಅತಿಶಯವಾಗಿಯೂ	certain	
+Q0133	ಕಾಮುಗಳಿಂದ	certain	
+Q0134	ವಾ	certain	
+Q0136	ಸಹ್ಯಸ್ಯಂ	certain	
+Q0137	unreadable	unreadable	crop shows a different line (ಹೇ ವೃತ್ರಹನ್—…)
+Q0138	unreadable	unreadable	crop shows a different line (ಸಿದ್ಧವಾಗಿವೆ…)
+Q0139	ಪಾನವಾಡು	likely	crop shows ಪಿಬ—ಪಾನವಾಡು
+Q0140	unreadable	unreadable	crop shows a different line (ಸಿದ್ಧವಾಗಿವೆ…)
+Q0141	ha	certain	
+Q0142	ಪ್ರಸ್ತಾಪಸಿದೆ	likely	
+Q0143	ತೇಸ್ಮಾ	certain	
+Q0144	ತೇಸ್ಮಾ-ತ್ರಿಷ್ಟುಭೋ	likely	crop shows ಸ್ಮಾತ್ರಿಷ್ಟುಭೋ at line start; reader's ತ್ರಶುಮುಂತಂ not seen
+Q0145	ರುಲ್ಲಿ	certain	
+Q0147	ಶತ್ರುಸಿವಾರಕನಾದ	certain	
+Q0148	ಯ	certain	
+Q0149	ದಾಟಿಸುವಂತೆ	likely	
+Q0150	ಲಬ್ಧವಾದ	likely	reader had ಭ; print looks ಬ್ಧ
+Q0151	ಮರ್ಗಮಧ್ಯದಲ್ಲಿ	likely	
+Q0152	ಅದಿತಿಯು	likely	start of word cut off at crop edge (ತಿಯು visible)
+Q0154	ಆಭಿಪ್ರಾಯವು	likely	
+Q0155	unreadable	unreadable	crop shows a different line (ಎಂಬ ಶಬ್ದದಿಂದ ಋಷಿಯು…)
+Q0156	ಭ್ರಾತೃತ್ವವೂ	likely	word split across two lines (ಭ್ರಾತೃ / ತ್ವವೂ)
+Q0160	ಆಹವಸೀಯಗಳೆಂಬ	likely	third letter looks ಸೀ (print uses ಸಿ for ನಿ elsewhere)
+Q0161	ಯನಿಷ್ಠ	certain	
+Q0162	ಅಂ°ರ	likely	damaged letter printed as ° mark
+Q0163	ನಿರ್ಮಿಸಿ	certain	
+Q0170	-	likely	nothing printed after ॥ ಪ್ರತಿಪದಾರ್ಥ ॥
+Q0171	ಗೋವುಗಳನ್ನ	likely	last letters smudged
+Q0174	Ashwlns	certain	
+Q0175	unreadable	unreadable	crop shows a different line
+Q0176	ಇವರಲ್ಲಿ	certain	
+Q0177	ವಿಸ್ವಕನೆಂಬುವನು	likely	print looks ಸ not ಶ; ಬು/ವು damaged
+Q0179	ಪೋಷಿಸುವವರು	likely	partly smudged
+Q0180	unreadable	unreadable	crop shows a different line (ಸ್ತೋತ್ರಮಾಡುವ…)
+Q0181	unreadable	unreadable	crop shows a different line
+Q0182	ಮಂತ್ರಪ್ರಷ್ಟೃವಾದ	likely	
+Q0183	ವಿವರಿಸಿರುವರು	likely	smudged
+Q0185	-	likely	nothing printed after the comma
+Q0186	-	likely	nothing printed after the stop
+Q0187	ಮಾಹಾತ್ಮ್ಯ	likely	
+Q0188	ಸಖಿತ್ವಕ್ಕೆ	likely	
+Q0189	ಆಶ್ವಿನಶಸ್ತ್ರಮಂತಗಳಿಗಾಗಿಯೂ	likely	print uses ಆ for ಅ; ಮಂ possibly ವುಂ
+Q0191	ಚೆನ್ನಾಗಿ	likely	last letter damaged (ಚೆನ್ನಾ?)
+Q0192	unreadable	unreadable	crop shows a different line; ನೆರವೇರುತ್ತಿರುವ is on the Q0191 line
+Q0193	unreadable	unreadable	word start cut off (only ನಾಗಿರುವನು visible)
+Q0194	unreadable	unreadable	crop shows a different line
+Q0195	ಕುಡಿಯುವುದಕ್ಕಾ	likely	start cut off (ಪುದಕ್ಕಾ visible)
