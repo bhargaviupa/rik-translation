@@ -2088,6 +2088,276 @@ O Soma, you, for us, go to (अभिगच्छ (*abhigaccha*), glossing अ�
 
 O Soma-deva, for us undertake the messenger's office of going to and returning from the gods. You who are drunk for Indra's satisfaction, ask the gods for the most excellent wealth for us, your friends.
 
+### Printed p. 107
+
+##### English translation
+Approach the office of messenger for us: you (who) are drunk for Indra, (pour) on the gods wealth for (us their) friends.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वाम॑रु॒णं व॒यं गोभि॑रंज्मो॒ मदा॑य॒ कम् ।  
+> वि नो॑ रा॒ये दुरो॑ वृधि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वाम् । अरुणम् । वयम् । गोभिः । अंज्मः । मदाय । कम् ।  
+> वि । नः । राये । दुरः । वृधि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च हे सोम यम् अरुणम् अरुणवर्णं त्वां मदाय मदार्थं वयम् अंगिरसायास्याः गोभिः गोविकारैः पयोभिः अंज्मः वासयामः संस्कुर्मः। कम् इति पूरणम् । स त्वं नः अस्माकं राये धनाय दुरः द्वाराणि वि वृधि विवृतानि कुरु ॥
+
+##### Gist of the bhāṣya
+
+Moreover (उत अपि च (*uta api ca*)), O Soma, we, the people of Aṅgirasa Ayāsya (अंगिरसायास्याः (*aṃgirasāyāsyāḥ*))**NOTE**, make ready (वासयामः संस्कुर्मः (*vāsayāmaḥ saṃskurmaḥ*), glossing अंज्मः (*aṃjmaḥ*)) you, the ruddy one (अरुणम् अरुणवर्णं (*aruṇam aruṇavarṇaṃ*)), for exhilaration (मदार्थं (*madārthaṃ*)), with the products of the cow, that is, with milk (गोविकारैः पयोभिः (*govikāraiḥ payobhiḥ*)). कम् (*kam*) is a filler (पूरणम् (*pūraṇam*)). You, for our wealth (राये धनाय (*rāye dhanāya*)), open (विवृतानि कुरु (*vivṛtāni kuru*)) the doors (दुरः द्वाराणि (*duraḥ dvārāṇi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) उत (*uta*)—and
+- वयं (*vayaṃ*)—we
+- अरुणम् (*aruṇam*)—golden-hued
+- त्वां (*tvāṃ*)—whom, you
+- मदाय (*madāya*)—for the delight of Indra and others
+- गोभिः (*gobhiḥ*)—mixing with milk and other supporting substances
+- अंज्मः (*aṃjmaḥ*)—we prepare; such a you
+- नः (*naḥ*)—to us
+- राये (*rāye*)—leading to wealth
+- दुरः (*duraḥ*)—the doors
+- वि वृधि (*vi vṛdhi*)—open fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, we prepare you, of attractive golden hue, mixing you with milk and other supporting substances for the delight of Indra and others. Such a you, open fully for us the way that provides wealth and the doors that lead to wealth.
+
+##### English translation
+And we adorn you, the purple-tinted, with milk and curds for the purpose of exhilaration, open the doors for our riches.
+
+### Printed p. 108
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्यू॑ प॒वित्र॑मक्रमीद्वा॒जी धुरं॒ न याम॑नि ।  
+> इंदु॑र्दे॒वेषु॑ पत्यते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । ऊं इति । पवित्रम् । अक्रमीत् । वाजी । धुरम् । न । यामनि ।  
+> इंदुः । देवेषु । पत्यते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः सोमः वाजी अश्वः यामनि गमने धुरं न रथस्य धुरं यथा तथा पवित्रम् अति अक्रमीत् अतिगच्छति । देवेषु देवानां मध्ये पत्यते गच्छति च ॥
+
+##### Gist of the bhāṣya
+
+Indu, Soma, passes (अति अक्रमीत् अतिगच्छति (*ati akramīt atigacchati*)) the filter (पवित्रम् (*pavitram*)) as the horse (वाजी अश्वः (*vājī aśvaḥ*)), in going (यामनि गमने (*yāmani gamane*)), goes to the yoke-pole of the chariot (रथस्य धुरं (*rathasya dhuraṃ*)). And he goes (गच्छति (*gacchati*), glossing पत्यते (*patyate*)) among the gods (देवानां मध्ये (*devānāṃ madhye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यामनि (*yāmani*)—at the time of moving
+- वाजी (*vājī*)—the horse
+- धुरं न (*dhuraṃ na*)—as it enters between the yoke-poles of the chariot
+- इंदुः (*iṃduḥ*)—Soma-deva
+- पवित्रं (*pavitraṃ*)—the purifying दशापवित्र (*daśāpavitra*)
+- अति अक्रमीत् (*ati akramīt*)—enters for purification
+- देवेषु (*deveṣu*)—in the midst of the gods
+- पत्यते (*patyate*)—goes and enters
+
+##### भावार्थ (Bhāvārtha)
+
+As a horse, at the time of moving, enters between the yoke-poles of the chariot, Soma-deva enters the purifying दशापवित्र (*daśāpavitra*) for purification. He also goes and enters into the midst of the gods.
+
+##### English translation
+Indu passes the filter as a horse in going passes the shaft (of the chariot); he proceeds to the midst of the gods.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समी॒ सखा॑यो अस्वर॒न्वने॒ क्रीळं॑त॒मत्य॑विम् ।  
+> इंदुं॑ ना॒वा अ॑नूषत ॥ ५ ॥
+
+### Printed p. 109
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । ईमिति । सखायः । अस्वरन् । वने । क्रीळंतम् । अतिऽअविम् ।  
+> इंदुम् । नावाः । अनूषत ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्यविम् अतिक्रांतं दशापवित्रं वने उदके क्रीडंतं संक्रीडमानम् ईम् एनम् इंदुं सोमं सखायः प्रियस्तोतारः सम् अस्वरन् संस्तुवंति । नावाः वाचोऽपि अनूषत अस्तुवन् । ‘ नौरक्षरम्' इति वाङ्नामसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+The friends, the dear praisers (सखायः प्रियस्तोतारः (*sakhāyaḥ priyastotāraḥ*)), praise together (सम् अस्वरन् संस्तुवंति (*sam asvaran saṃstuvaṃti*)) this Indu, Soma (एनम् इंदुं सोमं (*enam iṃduṃ somaṃ*)), who has passed the ten-threaded filter (अत्यविम् अतिक्रांतं दशापवित्रं (*atyavim atikrāṃtaṃ daśāpavitraṃ*)) and sports (क्रीडंतं संक्रीडमानम् (*krīḍaṃtaṃ saṃkrīḍamānam*)) in the water (वने उदके (*vane udake*)). The नावाः (*nāvāḥ*), that is, the speeches (वाचोऽपि (*vāco 'pi*)), also praised (अनूषत अस्तुवन् (*anūṣata astuvan*)), because in the list of names of speech there is the reading नौरक्षरम् (*naurakṣaram*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्यविम् (*atyavim*)—after passing the दशापवित्र (*daśāpavitra*) and attaining purity
+- वने (*vane*)—joining the water
+- क्रीडंतं (*krīḍaṃtaṃ*)—sporting
+- ईम् (*īm*) इंदुं (*iṃduṃ*)—this Soma-deva
+- सखायः (*sakhāyaḥ*)—his friends, the praisers
+- सम् अस्वरन् (*sam asvaran*)—gather together and praise
+- नावाः (*nāvāḥ*)—their words of praise also
+- अनूषत (*anūṣata*)—praise him
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, who after passing the दशापवित्र (*daśāpavitra*) and attaining purity joins the water and sports, is praised by his friends, the praisers, who gather together. Their words of praise also extol him.
+
+##### English translation
+His friends praise Indu sporting in the water and passing through the fleece; their hymns glorify him.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तया॑ पवस्व॒ धार॑या॒ यया॑ पी॒तो वि॒चक्ष॑से ।  
+> इंदो॑ स्तो॒त्रे सु॒वीर्य॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तया । पवस्व । धारया । यया । पीतः । विऽचक्षसे ।  
+> इंदो इति । स्तोत्रे । सुऽवीर्यम् ॥ ६ ॥
+
+### Printed p. 110
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो त्वं यया धारया पीतः सन् विचक्षसे विचक्षणाय स्तोत्रे स्तोत्राणां कर्त्रे पुरुषाय सुवीर्यं शोभनवीर्यं प्रयच्छसीति शेषः। तया धारया पवस्व क्षर ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, with the stream (धारया (*dhārayā*)) by which you, when drunk (पीतः सन् (*pītaḥ san*)), bestow (प्रयच्छसीति शेषः (*prayacchasīti śeṣaḥ*), the verb being supplied) good vigour (सुवीर्यं शोभनवीर्यं (*suvīryaṃ śobhanavīryaṃ*)) on the discerning (विचक्षणाय (*vicakṣaṇāya*)) man who makes praises (स्तोत्राणां कर्त्रे पुरुषाय (*stotrāṇāṃ kartre puruṣāya*)), with that stream flow (पवस्व क्षर (*pavasva kṣara*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- यया (*yayā*)—by which
+- धारया (*dhārayā*)—in the form of a stream
+- पीतः (*pītaḥ*)—having been drunk
+- विचक्षसे (*vicakṣase*)—to the one of subtle sight
+- स्तोत्रे (*stotre*)—to the praiser
+- सुवीर्यम् (*suvīryam*)—you become the giver of excellent vigour
+- तया (*tayā*)—by such a stream
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, flow in that stream by which, when drunk, you become the giver of excellent vigour to the praiser of subtle sight.
+
+##### English translation
+Flow, Indu, with that stream wherewith when drunk you bestow much vigour on your discerning worshipper.
+
+## Sūkta 46 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ असृग्रन्' इति षडृ चं द्वाविंशं सूक्तम्। ऋष्याद्याः पूर्ववत् ।  असृग्रन्' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta असृग्रन् (*asṛgran*) has six ṛks and is the twenty-second sūkta. The seer and the rest are as before (पूर्ववत् (*pūrvavat*)). The Anukramaṇī says असृग्रन् (*asṛgran*). The viniyoga has already been stated.
+
+Translation: This sūkta असृग्रन् (*asṛgran*) is the twenty-second sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as of the previous sūkta. In the Anukramaṇikā it is said असृग्रन् (*asṛgran*). The viniyoga has been stated before.
+
+Sūkta 46. Maṇḍala 9, Anuvāka 2, Sūkta 46. Aṣṭaka 7, Adhyāya 1, Varga 3. Number of ṛks in the sūkta: 6. Seer: Ayāsya. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+### Printed p. 111
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असृ॑ग्रंदे॒ववी॑त॒येऽत्या॑सः॒ कृत्व्या॑ इव ।  
+> क्षरं॑तः पर्वता॒वृधः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असृग्रन् । देवऽवीतये । अत्यासः । कृत्व्याःऽइव ।  
+> क्षरंतः । पर्वतऽवृधः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्वतावृधः पर्वतैरभिषवग्रावभिर्वृद्धाः पर्वतेषु जाता वा क्षरंतः सोमाः देववीतये यज्ञाय अत्यासः अश्वाः कृत्व्याइव यथा कर्मण्या अश्वाः तद्वत् असृग्रन् सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The Soma juices (सोमाः (*somāḥ*)), पर्वतावृधः (*parvatāvṛdhaḥ*), grown by the mountains, that is, by the pressing stones (पर्वतैरभिषवग्रावभिर्वृद्धाः (*parvatairabhiṣavagrāvabhirvṛddhāḥ*)), or born on the mountains (पर्वतेषु जाता वा (*parvateṣu jātā vā*)), flowing (क्षरंतः (*kṣaraṃtaḥ*)), are sent forth (असृग्रन् सृज्यंते (*asṛgran sṛjyaṃte*)) for the sacrifice (देववीतये यज्ञाय (*devavītaye yajñāya*)), as horses fit for work (कर्मण्या अश्वाः (*karmaṇyā aśvāḥ*)) are.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृत्व्या (*kṛtvyā*)—skilled in work
+- अत्यासः (*atyāsaḥ*)—like horses
+- पर्वतावृधः (*parvatāvṛdhaḥ*)—grown in mountain regions, or increased by the pressing stones
+- क्षरंतः (*kṣaraṃtaḥ*)—flowing
+- देववीतये (*devavītaye*)—for the drinking of the gods
+- असृग्रन् (*asṛgran*)—are created
+
+##### भावार्थ (Bhāvārtha)
+
+Like horses skilled in work, the Soma juices, grown in mountain regions or increased by the pressing stones, flowing, are created for the sacrifice.
+
+##### English translation
+Begotten by the stones the flowing (Soma-juices) are effused for the banquet of the gods like active horses.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ष्कृतास॒ इंद॑वो॒ योषे॑व॒ पित्र्या॑वती ।  
+> वा॒युं सोमा॑ असृक्षत ॥ २ ॥
+
+### Printed p. 112
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिऽकृतासः । इंदवः । योषाऽइव । पित्र्यऽवती ।  
+> वायुम् । सोमाः । असृक्षत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदवः यागेषु क्लिद्यमानाः सोमाः परिष्कृतासः परिष्कृता अलंकृताः संतः पित्र्यावती पितृमती योषेव अलंकृता कन्यका यथा वरं प्रति गच्छति तद्वत् वायुं प्रति असृक्षत गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The Somas (इंदवः (*iṃdavaḥ*)), being moistened in the sacrifices (यागेषु क्लिद्यमानाः (*yāgeṣu klidyamānāḥ*)), adorned (परिष्कृता अलंकृताः (*pariṣkṛtā alaṃkṛtāḥ*)), go (गच्छंति (*gacchaṃti*), glossing असृक्षत (*asṛkṣata*)) towards Vāyu (वायुं प्रति (*vāyuṃ prati*)), as an adorned maiden who has a father (पित्र्यावती पितृमती योषेव अलंकृता कन्यका (*pitryāvatī pitṛmatī yoṣeva alaṃkṛtā kanyakā*)) goes to the bridegroom (वरं प्रति (*varaṃ prati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पित्र्यावती (*pitryāvatī*)—one who has a loving father
+- योषेव (*yoṣeva*)—as a maiden adorns herself well
+- इंदवः (*iṃdavaḥ*)—pressed for the sacrifice
+- सोमाः (*somāḥ*)—the Soma juices
+- परिष्कृतासः (*pariṣkṛtāsaḥ*)—well adorned
+- वायुं (*vāyuṃ*)—towards Vāyu
+- असृक्षत (*asṛkṣata*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+As a maiden who has a loving father adorns herself in the best manner, the Soma juices pressed for the sacrifice, well adorned, flow towards Vāyu.
+
+##### English translation
+The Soma-juices pressed (at the sacrifice) adorned like a bride who has a father flow to Vayu.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमा॑स॒ इंद॑वः॒ प्रय॑स्वंतश्च॒मू सु॒ताः ।  
+> इंद्रं॑ वर्धंति॒ कर्म॑भिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमासः । इंदवः । प्रयस्वंतः । चमू इति । सुताः ।  
+> इंद्रम् । वर्धंति । कर्मऽभिः ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 106. pp. 100-106: Sūkta 9-44 Ṛk 1-6, Sūkta 9-45 Ṛk 1-2
+**Progress note:** Done through printed p. 112. pp. 107-112: Sūkta 9-45 Ṛk 3-6, Sūkta 9-46 Ṛk 1-3 (blocks)
