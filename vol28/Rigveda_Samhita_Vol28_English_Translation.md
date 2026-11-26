@@ -17576,6 +17576,255 @@ Agni and the others, the Ādityas and the others, the great (Bṛhat), the Bṛh
 
 Agni, Indra, Varuṇa, Mitra, Aryaman, Vāyu, the god Pūṣan, Sarasvatī, the Ādityas, Viṣṇu, the Maruts, the great heavenly world, Soma, Rudra, Aditi and Brahmaṇaspati, united, pervade the atmosphere and shine.
 
+### Printed p. 518
+Agni, Indra, Varuna, Mitra, Aryman, Vayu, Pushan, Saraswati, the Adityas, Vishnu, the Maruts, the mighty heaven, Soma, Rudra, Aditi, Brahmanaspati with one consent,
+
+##### विशेषविषयगळु (Special Topics)
+
+For the deities extolled in this Ṛk, see the introduction to this sūkta.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इं॒द्रा॒ग्नी वृ॑त्र॒हत्ये॑षु॒ सत्प॑ती मि॒थो हि॑न्वा॒ना त॒न्ना॒३॒॑३समो॑कसा।  
+> अं॒तरि॑क्षं॒ मह्या प॑पु॒रोज॑सा॒ सोमो॑ धृत॒श्रीर्म॑हि॒मान॑मी॒रय॑न् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राग्नी इति । वृत्रहत्येषु । सत्पती इति सत्पती । मिथः । हिन्वाना । तन्ना ।  
+> संओकसा ।  
+> अंतरिक्षं । महि । आ । पपुः । ओजसा । सोमः । धृतश्रीः । महिमानं । ईरयन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रहत्या युद्धानि । तेषु मिथः परस्परं तन्ना शरीरेण तत्रस्थेन बलेन
+> शत्रुन्हिन्वाना प्रेरयंतौ सत्पती सतां पती समोकसा समानस्थानविंद्राग्नी । धृतश्रीरुदकं वसतीवर्याख्यं श्रयमाणो महिमानमात्मीयमीरयन् सर्वत्रोदीरयन्नुद्गमयन् सोमश्च । एते सर्वे च महि महदंतरिक्षमोजसा स्वबलेना
+> पपुः । आपूरयंति । प्रा पूरणे ॥
+
+##### Gist of the bhāṣya
+
+The *Vṛtra-slayings* are battles. In them Indra and Agni, urging (हिन्वाना (*hinvānā*)) their enemies on, each with the strength present in his own body, are lords of the good (सत्पती (*satpatī*)) and of one common abode (समोकसा (*samokasā*)). Soma, called धृतश्रीः (*dhṛtaśrīḥ*), resorts to the water called Vasatīvarī and sends forth his own greatness everywhere. All these fill the vast firmament with their own strength: आ पपुः (*ā papuḥ*) means "they fill" (root प्रा पूरणे (*prā pūraṇe*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहत्येषु (*vṛtrahatyeṣu*)—at the time of slaying Vṛtra
+- मिथः (*mithaḥ*)—one another
+- तन्ना (*tannā*)—joined with a body full of power
+- हिन्वाना (*hinvānā*)—those who harm enemies (who urge each other on to destroy enemies)
+- सत्पती (*satpatī*)—protectors of the good
+- समोकसा (*samokasā*)—having a common abode
+- इंद्राग्नी (*iṃdrāgnī*)—Indra and Agni
+- धृतश्रीः (*dhṛtaśrīḥ*)—he who bears the water such as Vasatīvarī
+- महिमानं (*mahimānaṃ*)—his greatness
+- ईरयन् (*īrayan*)—urging forth and manifesting
+- सोमः (*somaḥ*)—the god Soma
+
+### Printed p. 519
+- महि (*mahi*)—great
+- अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament
+- ओजसा (*ojasā*)—with their own strength
+- आ पप्पुः (*ā pappuḥ*)—pervade and shine
+
+##### भावार्थ (Bhāvārtha)
+
+At the time of slaying Vṛtra, Indra and Agni, who, joined with a body full of power, urge one another on to destroy enemies, who protect the good and share a common abode, and the god Soma, who bears the water such as Vasatīvarī and sends forth and manifests his greatness, pervade and shine over the vast firmament with their own strength.
+
+##### English translation
+Indra and Agni, the lords of the virtuous, standing in the same place, mutually invigorating each other with might in the Vritra-slaying battles, and the ghi-glorified Soma putting forth his greatness have filled the vast firmament with their strength.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेषां॒ हि म॒ह्ना म॑ह॒ताम॑न॒र्वणां॒ स्तोमा॒ इय॑र्मि त॒ज्ञा  
+> ऋ॑त॒वृधां॑ ।  
+> ये अ॑प्स॒वम॑र्ण॒वं चि॒त्ररा॑धस॒स्ते नो॑ रासंतां म॒हये॑  ॒
+> सुमित्राः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेषां । हि । मह्ना । महतां । अनर्वणां । स्तोमान् । इयर्मि । ऋतज्ञाः ।  
+> ऋतवृधां ।  
+> ये । अप्सवं । अर्णवं । चित्रराधसः । ते । नः । रासंतां । महये । सुमित्राः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मह्ना स्वमहत्वेन महतामनर्वणामन्यस्मिन्नप्रत्यृतानां शत्रुभिरनभिगंतव्यानामृतावृधां सत्यभूतेन यज्ञेन वृद्धानां तेषामग्न्यादीनां देवानामेवार्तज्ञा यज्ञस्य ज्ञाताहं स्तोमानियर्मि । प्रेरयामि ॥ ऋ गतिप्रापणयोः ।
+> जौहोत्यादिकः ॥ चित्रराधसश्चायनीयधनोपेता यद्वा पश्वादिलक्षणबहुधना
+
+##### Gist of the bhāṣya
+
+"Through their own greatness": I, who know the rite (ऋतज्ञा (*ṛtajñā*)), send forth (इयर्मि (*iyarmi*), root ऋ गतिप्रापणयोः (*ṛ gatiprāpaṇayoḥ*), of the Johotyādi class) praises of those gods, Agni and the rest, who are great, अनर्वणां (*anarvaṇāṃ*) (not to be approached by enemies, not opposed by another), and ऋतावृधां (*ṛtāvṛdhāṃ*) (grown by the true sacrifice). चित्रराधसः (*citrarādhasaḥ*) means possessed of wealth to be sought, or else rich in wealth of cattle and the like.
+
+### Printed p. 520
+
+> ये देवा अप्सवं । अप्स इति रूपनाम । रूपवंतमर्णवं ॥ अर्णसः सलोपश्च ।
+> का. ५-२-१०९-३ । इति मत्त्वर्थीयो वप्रत्ययः ॥ उदकवंतं मेघं वर्षंति ते
+> सुमित्र्याः शोभनसखिकर्माणस्ते देवा नोऽस्मभ्यं महये जनेषु मध्यॆ
+> पूजार्थं धनं रासंतां । प्रयच्छंतु । रास्य दाने ॥
+
+##### Gist of the bhāṣya
+
+Those gods who rain down the अप्सवं (*apsavaṃ*) cloud—अप्स (*apsa*) is a name for form, so a cloud having form (अर्णवं (*arṇavaṃ*), with the affix va in the sense of "possessing"), full of water—those सुमित्र्याः (*sumitryāḥ*), whose actions are those of good friends, those gods, may they give us wealth महये (*mahaye*), for honour among men (root रास्य दाने (*rāsya dāne*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतावृधां (*ṛtāvṛdhāṃ*)—those who have grown strong through sacrifice
+- मह्ना (*mahnā*)—through their own majesty
+- महतां (*mahatāṃ*)—those who have power
+- अनर्वणां (*anarvaṇāṃ*)—those not subject to the harm of enemies
+- तेषां (*teṣāṃ*)—of those deities, Agni and the rest
+- ऋतज्ञाः (*ṛtajñāḥ*)—I, who know the truth of sacrifice
+- स्तोमान् (*stomān*)—praises
+- इयर्मि (*iyarmi*)—I offer
+- चित्रराधसः (*citrarādhasaḥ*)—possessed of attractive wealth
+- ये (*ye*)—which deities
+- अप्सवं (*apsavaṃ*)—full of water (of attractive form)
+- अर्णवं (*arṇavaṃ*)—the cloud, which they squeeze and shower rain
+- ते (*te*)—such
+- सुमित्राः (*sumitrāḥ*)—deities who are excellent friends
+- नः महये (*naḥ mahaye*)—among people, for honour
+- रासंतां (*rāsaṃtāṃ*)—may they give us wealth
+
+##### भावार्थ (Bhāvārtha)
+
+I, who know the sacrificial truth of the gods Agni and the rest, who have grown strong through sacrifice, have by their own majesty great power, and are not subject to the harm of enemies, offer them praises. May those excellent friends among the gods, rich in attractive wealth, who squeeze the cloud filled with attractive water and shower rain, give us wealth among the people for the sake of honour.
+
+##### English translation
+Skilled in pious rites, I recite the praises of these (deities), mighty through (their own) might, unassailable, exalted by sacrifice ; may those (gods) who, possessed of various wealth, (rain down) the beautiful water-cloud, acting in friendly wise, grant us (wealth) for our honour (among men).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्व॑र्णरमं॒तरि॑क्षाणि रोच॒ना द्यावा॒भूमी॑ पृथि॒वीं स्कं॑भु॒रोज॑सा ।  
+> पृ॒क्षा इ॑व म॒हयं॑तः सुरा॒तयो॑ दे॒वाः स्त॑वंते॒ मनु॑षाय  ॒॑
+> सूरयः ॥ ४ ॥
+
+### Printed p. 521
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वःनरं । अंतरिक्षाणि । रोचना । द्यावाभूमी इति । पृथिवीं । स्कंभुः । ओजसा ।  
+> पृक्षाःइव । महयंतः । सुरातयः । देवाः । स्तवंते । मनुषाय । सूरयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वर्णरं सर्वस्य स्वस्वकर्मणि नेतारमादित्यमंतरिक्षाणि । द्यावापृथिव्योरंतरा
+> मध्ये क्षियंति निवसंतीत्यंतरिक्षाणि । मध्यस्थितानि रोचना रोचमानानि तेजांसि
+> द्यावाभूमिा द्यावापृथिव्यौ पृथिवीं विस्तीर्णमंतरिक्षं च एतानादित्यादीनोजसा
+> स्वबलेनैव देवाः स्कंभुः । धारयंति ॥ स्कंभ इति सौत्रो धातुः । लिटि रूपं ॥ किंच
+> पृक्षा इव दरिद्रेषु धनानि संपर्चयंत इव अत एव महयंतः स्तोत्थन्थनादिभिः
+> पूजयंतः सुरातयः सुदाना मनुषाय मनुष्याय सूरयो धनावां प्रेरका
+> एते देवाः स्तवंते । अस्मिन्यज्ञे स्तूयंते ॥
+
+##### Gist of the bhāṣya
+
+स्वर्णरं (*svarṇaraṃ*) is the sun, the leader of all in their several actions. अंतरिक्षाणि (*aṃtarikṣāṇi*) are those that dwell between heaven and earth: the shining luminaries standing in the middle. The gods sustain (स्कंभुः (*skaṃbhuḥ*)—स्कंभ (*skaṃbha*) is a sautra root; the form is perfect) these, the sun and the rest, heaven and earth, and the wide firmament, by their own strength. Further: like पृक्षाः (*pṛkṣāḥ*), as if bringing wealth to the poor, and therefore honouring (their worshippers) with praises and the like, these gods, generous givers (सुरातयः (*surātayaḥ*)), सूरयः (*sūrayaḥ*) who impel wealth to man (मनुषाय (*manuṣāya*)), are praised at this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्वर्णरं (*svarṇaraṃ*)—the sun, guide of all actions
+- अंतरिक्षाणि (*aṃtarikṣāṇi*)—those that lie between heaven and earth
+- रोचना (*rocanā*)—all luminaries
+- द्यावाभूमी (*dyāvābhūmī*)—heaven and earth
+- पृथिवीं (*pṛthivīṃ*)—the wide firmament
+- ओजसा (*ojasā*)—with their strength
+- स्कंभुः (*skaṃbhuḥ*)—the gods have sustained
+- पृक्षा इव (*pṛkṣā iva*)—like those who give food to the poor
+- महयंतः (*mahayaṃtaḥ*)—those who give wealth and the like to worshippers
+- सुरातयः (*surātayaḥ*)—generous givers
+- मनुषाय (*manuṣāya*)—to man
+- सूरयः (*sūrayaḥ*)—impellers
+- देवाः (*devāḥ*)—gods
+- स्तुवंते (*stuvaṃte*)—are praised
+
+##### भावार्थ (Bhāvārtha)
+
+The gods have sustained by their power the sun, guide of all actions, all the luminaries between heaven and earth, heaven and earth, and the wide firmament. The gods, who give wealth and the like to worshippers as one gives food to the poor, who are generous givers and impellers of man, are praised.
+
+##### English translation
+They have sustained by their strength the leader of all (the sun), the luminaries of the firmament, heaven and earth, the outstretched (firmament); honouring (their worshippers) like those who give food (to the poor), the generous gods bestowing wealth on man are glorified (at this sacrifice).
+
+### Printed p. 522
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्राय॑ शिक्ष॒ वरु॑णाय दा॒शुषे॒ या स॒म्राजा॒ मन॑सा॒ न प्र॒युच्छ॑तः ।  
+> ययो॒र्धाम॒ धर्म॑णा॒ रोच॑ते बृ॒हद्ययो॑रु॒भे रोद॑सी॒ ॒॑ ॑
+> नाधसी वृत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्राय । शिक्ष । वरुणाय । दाशुषे । या । संराजा । मनसा । न । प्रयुच्छतः ।  
+> ययोः । धाम । धर्मणा । रोचते । बृहत् । ययोः । उभे इति । रोदसी  
+> इति । नाधसी इति । वृता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दाशुषे धनानि स्तोतृभ्यः प्रयच्छते मित्राय वरुणाय च शिक्ष । हवींषि
+> प्रयच्छ । शिक्षतिर्दानकर्मा । सम्राजा सम्राजौ सर्वस्य या यौ मित्रावरुणौ मनसांतःकरणेनापि न प्रयुच्छतः न प्रमाद्यतः किमुत वाह्येन व्यापारेण ॥ युच्छ
+> प्रमादे । भौवादिकः ॥ ययोर्मित्रावरुणयोर्बृहद्महद्दाम शरीरं धर्मणात्मीयेन लोकप्रकाशनादिलक्षणेन कर्मणा रोचते सम्यग्धीप्यते । ययोश्च नाधसी ॥
+> णाधृ याच्चोपतापैश्वर्याशीषु ॥ याचमाने उभे रोदसी द्यावापृथिव्यौ वृत्
+> वर्तमाने भवतः । यद्वा । नाधसी देवमनुष्यैः समृद्धे द्यावापृथिव्यौ । तयोर्वृत् वर्तमाने भवतः । तदधीने भवत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+To Mitra and Varuna, who give wealth to the worshippers, शिक्ष (*śikṣa*): offer oblations (शिक्षति (*śikṣati*) is a verb of giving). Those two, सम्राजा (*samrājā*), rulers of all, who do not न प्रयुच्छतः (*na prayucchataḥ*) lapse even in thought, much less in outward action (root युच्छ प्रमादे (*yuccha pramāde*), Bhūvādi class). Their great body (धाम (*dhāma*)) shines brightly through धर्मणा (*dharmaṇā*), their own action such as illuminating the world. In them the two worlds, heaven and earth, नाधसी (*nādhasī*) (root णाधृ याच्चोपतापैश्वर्याशीषु (*ṇādhṛ yāccopatāpaiśvaryāśīṣu*)) imploring, abide (वृत् (*vṛt*)). Or else: नाधसी (*nādhasī*) means heaven and earth enriched by gods and men; they abide in them, that is, are dependent on them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सम्राजा (*samrājā*)—sovereigns of the whole world
+- या (*yā*)—which Mitra and Varuna
+- मनसा (*manasā*)—even in mind
+- न प्रयुच्छतः (*na prayucchataḥ*)—do not forget their duty
+- ययोः (*yayoḥ*)—of which Mitra and Varuna
+- बृहत् (*bṛhat*)—great
+- धाम (*dhāma*)—body
+- धर्मणा (*dharmaṇā*)—through excellent action
+- रोचते (*rocate*)—shines
+- ययोः (*yayoḥ*)—in whom
+- नाधसी (*nādhasī*)—full of devotion
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- वृत् (*vṛt*)—are established; such are they
+- दाशुषे (*dāśuṣe*)—who give wealth to the sacrificer
+- मित्राय (*mitrāya*)—to Mitra
+- वरुणाय (*varuṇāya*)—to Varuna
+- शिक्ष (*śikṣa*)—offer oblation
+
+### Printed p. 523
+
+##### भावार्थ (Bhāvārtha)
+
+Offer oblation to Mitra and Varuna, sovereigns of the whole world, who do not forget their duty even in mind, whose great body shines through excellent action, in whom both heaven and earth, full of devotion, are established, and who give wealth to the sacrificer.
+
+##### English translation
+Worship the liberal Mitra and Varuna, the two royal deities who are never negligent in their thoughts, whose vast body is resplendent through their functions, upon whom the two solicitous worlds (heaven and earth) remain (dependent)
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> या गौर्व॑त॒निं प॒र्येति॑ निष्कृ॒तं पयो॒ दुहा॑ना व्रत॒नीर॑वा॒रतः॑ ।  
+> सा प्र॑ब्रुवा॒णा वरु॑णाय दा॒शुषे॑ दे॒वेभ्यो॑ दाशद्ध॒ विषा॑ वि॒वस्व॑ते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> या । गौः । वर्तनिं । परिएति । निःकृतं । पयः । दुहाना । व्रतनीः । अवारतः ॥  
+> सा । प्रब्रुवाणा । वरुणाय । दाशुषे । देवेभ्यः । दाशत् । हविषा । विवस्वते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> येयं मदीया पयः क्षीरादिकं दुहाना व्रतनीराश्रयणपयःप्रदानेन कर्मणो नेत्री गौर्निष्कृतं संस्कृतं वर्तनिमावासस्थानं यज्ञमवारतोऽवरणेनाप्रार्थनेनैव पर्योति परिगच्छति स्वयमेवागच्छति प्रब्रुवाणा मया
+> प्रस्तूयमाना सा गौर्दाशुषे हविर्दत्तवते वरुणाय देवेभ्योऽन्येभ्य इंद्रादिभ्यत्त्व हविषान्नेन विवस्वते देवान्परिचरते मह्यं मां रक्षितुं दाशत् । पयः प्रयच्छतु ॥ दाश्य दाने । लेट्यडागमः॥ यद्वा गौरिति माध्यमिका वाक् या पय ऊर्ज०
+> दुहाना सा नो मंद्रॆषमूर्ज० दुहाना । ऋ. ८-१००-११ । इत्यादिषु दृष्टत्वात् । तत्परतया पूर्ववद्योज्यं ॥
+
+##### Gist of the bhāṣya
+
+This cow of mine, milking milk and the like, leader of the rite (व्रतनीः (*vratanīḥ*)) by giving milk for the support of the vow, goes round (पर्येति (*paryeti*)) the prepared (निष्कृतं (*niṣkṛtaṃ*)) place of abode, the sacrifice, of her own accord, unsought (अवारतः (*avārataḥ*)). Praised (प्रब्रुवाणा (*prabruvāṇā*)) by me, may that cow give (दाशत् (*dāśat*), root दाश्य दाने (*dāśya dāne*), leṭ with aṭ-augment) milk to me, to protect me, for Varuna who has given oblation, for the other gods Indra and the rest, and for the one who serves the gods with the oblation of food (विवस्वते (*vivasvate*)). Or else: गौः (*gauḥ*) is the middle-realm Speech, who milks milk and strength; this is seen in सा नो मंद्रॆषमूर्ज० दुहाना (*sā no maṃdrèṣamūrja0 duhānā*) (Ṛ. Saṃ. 8-100-11) and similar; the verse is to be construed as before with that reference.
+
 ---
 
-**Progress note:** Done through printed p. 517. pp. 512-517 (batch API)
+**Progress note:** Done through printed p. 523. pp. 518-523 (batch API), figure line removed (repeats the verse blocks)
