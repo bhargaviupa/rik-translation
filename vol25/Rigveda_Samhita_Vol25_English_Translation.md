@@ -716,6 +716,250 @@ I receive two straight-going steeds from Indrota, two bay from the son of Riksha
 > सुऽरथान् । आतिथिऽग्वे । सुऽअभीशून् । आर्क्षे ।  
 > आश्वऽमेधे । सुऽपेशसः ॥ १६ ॥
 
+### Printed p. 19
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आतिथिग्वे इंद्रोते सुरथान् शोभनरथोपेतानश्वानाददे । आर्क्षे ऋक्षपुत्रे स्वभीशून् अश्वानाददे । आश्वमेधे अश्वमेधपुत्रे 'सुपेशसः सुरूपानश्वान् शोभनालंकारानाददे ॥
+
+##### Gist of the bhāṣya
+
+From Atithigva's son Indrota I have received (ādade) horses furnished with excellent chariots. From the son of Ṛkṣa I have received horses with excellent reins. From the son of Aśvamedha I have received horses of beautiful form, finely adorned.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आतिथिग्वे (*ātithigve*)—from Indrota, the son of Atithigva
+- सुरथान् (*surathān*)—I obtained horses furnished with excellent chariots
+- आर्क्षे (*ārkṣe*)—from the son of Ṛkṣa
+- स्वभीशून् (*svabhīśūn*)—I obtained horses possessed of excellent bridles
+- आश्वमेधे (*āśvamedhe*)—from the son of Aśvamedha
+- सुपेशसः (*supeśasaḥ*)—I obtained horses possessed of excellent form
+
+##### भावार्थ (Bhāvārtha)
+
+From Indrota, the son of Atithigva, I obtained horses furnished with excellent chariots. From the son of Ṛkṣa I obtained horses possessed of excellent bridles. From the son of Aśvamedha I obtained horses possessed of excellent form.
+
+##### English translation
+(I receive) two steeds with excellent chariots from the son of Atithigva, two with excellent reins from the son of Riksha, two with excellent ornaments from the son of Ashwamedha.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> षळश्वाँ॑ आतिथि॒ग्व इं॑द्रो॒ते व॒धूम॑तः ।  
+> सचा॑ पू॒तक्र॑तौ सनम् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> षट् । अश्वान् । आतिथिऽग्वे । इंद्रोते । वधूऽमतः ।  
+> सचा । पूतऽक्रतौ । सनम् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आतिथिग्व इंद्रोते पूतक्रतौ शुद्धप्रज्ञे शुद्धकर्मोपेते वा तस्मिन् वधूमतः वधूभिर्वडवाभिस्तद्वतः षडश्वान् सचा ऋक्षाश्वमेधयोः पुत्राभ्यां दत्तेनाश्वादिधनेन सचा सह सनं लब्धवानस्मि । एतत्साहित्यवचनमिंद्रोतदानस्य प्रासंगिकत्वे लिंगम् ॥
+
+##### Gist of the bhāṣya
+
+In Indrota, the son of Atithigva, who is pure in mind or pure in action, with his mares (vadhūmataḥ), I have obtained six horses, together (sacā) with the horses and other wealth given by the two sons of Ṛkṣa and Aśvamedha. This mention of the two together is the indication (liṅga) that the gift of Indrota is incidental.
+
+### Printed p. 20
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आतिथिग्वे (*ātithigve*)—the son of Atithigva
+- इंद्रोते (*iṃdrote*)—from Indrota
+- पूतक्रतौ (*pūtakratau*)—possessed of pure action
+- वधूमतः (*vadhūmataḥ*)—joined with mares
+- षट् अश्वान् (*ṣaṭ aśvān*)—six horses
+- सचा (*sacā*)—together with the other wealth given by the sons of Ṛkṣa and Aśvamedha
+- सनं (*sanaṃ*)—I have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+From Indrota, the son of Atithigva, I have obtained six horses, pure in action and joined with mares, together with the other wealth given by the sons of Ṛkṣa and Aśvamedha.
+
+##### English translation
+I have received together (with my other gifts) six horses with their mares from the pious Indrota, the son of Atithigva.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐषु॑ चेत॒द्वृष॑ण्वत्यं॒तरृ॒ज्रेष्वरु॑षी ।  
+> स्व॒भी॒शुः कशा॑वती ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । एषु । चेतत् । वृषण्ऽवती । अंतः । ऋज्रेषु । अरुषी ।  
+> सुऽअभीशुः । कशाऽवती ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषु ऋज्रेषु ऋजुगामिष्वश्वेषु अंतः मध्ये आ चेतत् आज्ञायते । का। वृषण्वती वर्षकैः पुमश्वैस्तद्वती अरुषी आरोचमाना स्वभीशुः शोभनप्रग्रहा कशावती दृप्ता वडवा ज्ञायते ॥
+
+##### Gist of the bhāṣya
+
+Among these straight-going horses (ṛjreṣu), a mare is known (cetat): she is accompanied by bulls, that is, stallions that shed seed; she is shining, with fine reins, with a whip, spirited.
+
+### Printed p. 21
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋज्रेषु (*ṛjreṣu*)—of straight movements
+- एषु (*eṣu*)—of these horses
+- अंतः (*aṃtaḥ*)—in the midst
+- वृषण्वती (*vṛṣaṇvatī*)—accompanied by a stallion capable of impregnating
+- अरुषी (*aruṣī*)—of an attractive golden colour
+- स्वभीशुः (*svabhīśuḥ*)—possessed of an excellent bridle
+- कशावती (*kaśāvatī*)—possessed of a whip; one excellent mare is known to be there
+- आ चेतत् (*ā cetat*)—is known
+
+##### भावार्थ (Bhāvārtha)
+
+In the midst of these horses of straight movements, one excellent mare is known: accompanied by a stallion capable of impregnating, of an attractive golden colour, possessed of an excellent bridle, possessed of a whip.
+
+##### English translation
+Among these straight-going steeds is numbered a mature roan mare with excellent reins and whip.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न यु॒ष्मे वा॑जबंधवो निनि॒त्सुश्च॒न मर्त्यः॑ ।  
+> अ॒व॒द्यमधि॑ दीधरत् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । युष्मे इति । वाजऽबंधवः । निनित्सुः । चन । मर्त्यः ।  
+> अवद्यम् । अधि । दीधरत् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजबंधवः अन्नबंधवोऽन्नप्रदाः । एवं पुत्राणां पितृपुत्ररूपाणां षण्णां वा संबोधनम् । हे राजानः युष्मे युष्मासु निनित्सुश्चन निंदकोऽपि मर्त्यः मनुष्यः अवद्यं निंदा न अधि दीधरत् नान्वधारयत्। नारोपयति युष्मासु । अतोऽनिंद्या यूयमिति दातॄणां स्तुतिः ॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+O food-kinsmen (vājabandhavaḥ), that is, givers of food: this is an address to the sons, the father and sons, or the six. O kings, even a mortal who is a censurer (ninitsuḥ) has laid no censure (avadyam), no blame, upon you; he does not place it on you. Therefore you are beyond blame: thus the givers are praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजबंधवः (*vājabaṃdhavaḥ*)—O kings all, who are lords of the wealth of food and give food away
+
+### Printed p. 22
+
+- निनित्सुः (*ninitsuḥ*)—whose very nature is to censure always
+- मर्त्यः चन (*martyaḥ cana*)—even a man
+- युष्मे (*yuṣme*)—in regard to you
+- अवद्यं (*avadyaṃ*)—a word of censure
+- न अधि दीधरत् (*na adhi dīdharat*)—does not utter at all
+
+##### भावार्थ (Bhāvārtha)
+
+O kings all, who are lords of the wealth of food and give food away, even a man whose very nature is to censure always utters no word of censure in regard to you. Your conduct is so praiseworthy.
+
+##### English translation
+O princes, givers of food, even the lover of calumny has thrown no censure on you.
+
+## Sūkta 69 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्रप्र वः' इत्यष्टादशर्चं दशमं सूक्तं प्रियमेधस्यांगिरसस्यार्षम् । द्वितीया ‘नदं वः' इत्येषा चतुःसप्तकोष्णिक् चतुर्थ्याद्यास्तिस्रो गायत्र्य एकादशीषोडश्यौ पंक्ती शिष्टा दशानुष्टुभः ।‘अपादिंद्रः इत्यर्धर्चो वैश्वदेवो ‘वरुण इदिह' इत्याद्यास्त्रयोऽर्धर्चा वरुणदेवताकाः शिष्टा ऐंद्र्यः । तथा चानुक्रांतं—‘प्रप्र द्व्यूनानुष्टुभं द्विबृहत्यंतं द्वितीयोष्णिक् चतुर्थ्याद्यास्तिस्रो गायत्र्यः षोळश्येकादश्यौ पंक्ती अपाद्वैश्वदेवोऽर्धर्चस्त्रयो वारुणाः' इति । आद्यस्तृचः षोडशिशस्त्र आनुष्टुभः । सूत्रितं 'च- ‘ प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत ' (आश्व. श्रौ. ६. २) इति ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, of eighteen Ṛks, beginning प्रप्र वः (*prapra vaḥ*), has Priyamedha, the son of Aṅgiras, as seer. The second Ṛk, नदं वः (*nadaṃ vaḥ*), is in the Uṣṇih metre of four lines of seven syllables (चतुःसप्तकोष्णिक् (*catuḥsaptakoṣṇik*)); the three Ṛks from the fourth are Gāyatrī; the eleventh and sixteenth are Paṅkti; the remaining ten are Anuṣṭubh. The half-Ṛk अपादिंद्रः (*apādiṃdraḥ*) has the Viśvedevas as deity; the three half-Ṛks from वरुण इदिह (*varuṇa idiha*) have Varuṇa; the rest have Indra. The Anukramaṇikā states the same. The first three Ṛks are Anuṣṭubh Ṛks for the Ṣoḍaśin śastra, as laid down in the sūtra प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चत (*prapra vastriṣṭubhamiṣamarcata prārcata*) (Āśvalāyana Śrauta-Sūtra 6. 2).
+
+##### Anuvāda
+
+This sūkta beginning प्रप्र वः (*prapra vaḥ*) is the tenth sūkta in the seventh anuvāka. It has eighteen Ṛks. The seer of this sūkta is Priyamedha, a son of the seer Aṅgiras. In this sūkta the second Ṛk, नदं वः (*nadaṃ vaḥ*), is in the metre called चतुःसप्तकोष्णिक् (*catuḥsaptakoṣṇik*). This Ṛk has four lines, each line having seven syllables: such is its characteristic. The three Ṛks after the fourth Ṛk (Ṛks 4-6) are in the Gāyatrī metre. The eleventh and sixteenth Ṛks are in the Paṅkti metre. The remaining Ṛks are in the Anuṣṭubh metre. The first half of the eleventh Ṛk, अपादिंद्रः (*apādiṃdraḥ*), has the Viśvedevas as deity; the second half of this Ṛk, वरुण इदिह (*varuṇa idiha*), and both halves of the next Ṛk (the twelfth) have Varuṇa as deity.
+
+### Printed p. 23
+
+The remaining Ṛks have Indra as deity. In the Anukramaṇikā it is said: प्रप्र द्व्यृनाऽनुष्टुभं द्विबृहत्यंतं द्वितीयोष्णिक् चतुर्थाद्यास्तिस्रो गायत्र्यः षोळश्येकादश्यौ पंक्ती अपाद्वैश्वदेवोऽर्धर्चस्त्रयो वारुणाः (*prapra dvyṛnā 'nuṣṭubhaṃ dvibṛhatyaṃtaṃ dvitīyoṣṇik caturthādyāstisro gāyatryaḥ ṣoḷaśyekādaśyau paṃktī apādvaiśvadevo 'rdharcastrayo vāruṇāḥ*). The first three Ṛks of this sūkta are used for the Anuṣṭubh Ṛks among the mantras of the Ṣoḍaśin śastra, as is explained by the sūtra of the Āśvalāyana-Śrauta-Sūtra, प्रप्र वस्त्रिष्टुभमिषमर्चत प्रार्चते (*prapra vastriṣṭubhamiṣamarcata prārcate*) (Ā. 6-2).
+
+##### Particulars
+
+Sūkta 69.
+
+Maṇḍala 8. Anuvāka 7. Sūkta 69.
+
+Aṣṭaka 6. Adhyāya 5. Vargas 5, 6, 7.
+
+Number of Ṛks in the sūkta: 18.
+
+Seer: Priyamedha.
+
+Deity: 1-10, 13-18, Indra; 11, first half, the Viśvedevas; 11, second half, 12, Varuṇa.
+
+Metre: 1-3 **NOTE**, 7-10, 12-15 **NOTE**, Anuṣṭubh; 2, Uṣṇih; 4-6, Gāyatrī; 11, 16, Paṅkti; 17, 18, Bṛhatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रप्र॑ वस्त्रि॒ष्टुभ॒मिषं॑ मं॒दद्वी॑रा॒येंद॑वे ।  
+> धि॒या वो॑ मे॒धसा॑तये॒ पुरं॒ध्या वि॑वासति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽप्र । वः । त्रिऽस्तुभम् । इषम् । मंदत्ऽवीराय । इंदवे ।  
+> धिया । वः । मेधऽसातये । पुरम्ऽध्या । आ । विवासति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्य्वादयः वः यूयम् । प्रथमार्थे द्वितीया । त्रिष्टुभं स्तोभत्रयोपेतम् इषम् अन्नं प्रप्र । अपरः प्रशब्दः पूरणः । प्रभरतेति शेषः । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । कस्मै । मंदद्वीराय । यो वीरान हर्षयति स मंदद्वीरः । तस्मै इंदवे इंद्राय । इंदतेरैश्वर्यकर्मणः इदं रूपम् । अथवा फलैर्वृष्टिभिर्वोनत्तीतींदुरिंद्रः । तस्मै । स चेंद्रः वः युष्मान मेधसातये यज्ञसंभजनाय पुरंध्या बहुप्रज्ञया धिया कर्मणा आ विवासति । अभिमतफलयोजनेन सत्करोतीत्यर्थः ॥
+> महाव्रते निष्केवल्ये ‘नदं वः' इत्येषा विहरणीया । तथैव पंचमारण्यके सूत्रितं च -- नदं व ओदतीनामित्येतयैतानि व्यतिषजति ' ( ऐ. आ. ५. १. ६ ) इति ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryus and the rest, you (vaḥ, the accusative put for the nominative) bring forward (the second प्र (*pra*) is a filler; "bring forward" is to be supplied, a suitable verb being understood because a preverb is heard) the food (iṣam) of three stomas, to Indu, that is, Indra, who gladdens heroes; the form comes from the root इंद (*iṃda*) in the sense of lordship; or Indu is he who wets with fruits and rains. That Indra honours you, that is, favours you by granting the desired fruit, with a work (dhiyā) of much wisdom, for the carrying out of the sacrifice. In the Mahāvrata, at the Niṣkevalya, the Ṛk नदं वः (*nadaṃ vaḥ*) is to be interspersed; so it is laid down in the fifth Āraṇyaka (Ai. Ā. 5. 1. 6).
+
+### Printed p. 24
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) वः (*vaḥ*)—you
+- मंदद्वीराय (*maṃdadvīrāya*)—who bring joy to heroic men
+- इंदवे (*iṃdave*)—addressing Indra, the lord
+- त्रिष्टुभं (*triṣṭubhaṃ*)—possessed of three kinds of praise
+- इषं (*iṣaṃ*)—food
+- प्रप्र (*prapra*)—supply
+- सः (*saḥ*)—that same Indra
+- वः (*vaḥ*)—to you
+- मेधसातये (*medhasātaye*)—so that it may be favourable for the conduct of the sacrifice
+- पुरंध्या (*puraṃdhyā*)—possessed of many kinds of wisdom
+- धिया (*dhiyā*)—with works
+- आ विवासति (*ā vivāsati*)—favours
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, addressing Indra, the lord, who brings joy to heroic men, supply food possessed of three kinds of praise. That same Indra favours you with works possessed of many kinds of wisdom, so that it may be favourable for the conduct of the sacrifice.
+
+##### English translation
+Present your sacrificial food with a three-fold song of praise to Indu, gladdener of heroes; he will bless you in your religious rites to the accomplishment of your sacrifice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒दं व॒ ओद॑तीनां न॒दं योयु॑वतीनाम् ।  
+> पतिं॑ वो॒ अघ्न्या॑नां धेनू॒नामि॑षुध्यसि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नदम् । वः । ओदतीनाम् । नदम् । योयुवतीनाम् ।  
+> पतिम् । वः । अघ्न्यानाम् । धेनूनाम् । इषुध्यसि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ओदतीनाम् । ओदत्य उषसः  ‘ ओदती भास्वती' इति तन्नामसु पाठात् । तासां नदम् । उत्पादकमित्यर्थः । इंद्रेण ह्युषस उत्पद्यंत इंद्रस्यैव सूर्यत्वात् । ' विवस्वदिंद्र सुग्म्य' इति द्वादशादित्यमध्य इंद्रः पठितः । तादृशमिंद्रं हे यजमानाः वः युष्मदर्थम् । आह्वयतेत्यर्थः । तथा योयुवतीनां सर्वत्र मिश्रयंतीनां नदीनां नदं' शब्दयितारं वः युष्मदर्थमाह्वयामि । अघ्न्यानाम् अहंतव्यानां गवां पतिम् आह्वये । अथ प्रत्यक्षकृता । हे यजमान त्वं धेनूनां क्षीरादिना प्रीणयित्रीणां गवाम् इषुध्यसि अन्नमिच्छसि ॥
+> अग्निहोत्रे पूर्वाहुतौ हुतायां ‘ता अस्य' इत्यनयोत्तरामाहुतिं कांक्षमाणस्तिष्ठेत् । तथा च सूत्रितं -- ता अस्य सूददोहस इति पूर्वामाहुतिमुपोत्थायोत्तरां कांक्षेत ' ( आश्व. श्रौ. २. ३ ) इति । महाव्रते निष्केवल्येऽप्येषा । तथैव पंचमारण्यके सूत्रितं- ता अस्य सूददोहस इत्येतदादिः सूददोहाः सूददोहाः ' ( ऐ. आ. ५. १. ६ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The Odatīs are the Dawns, since the Nighaṇṭu reads ओदती भास्वती (*odatī bhāsvatī*) among their names. Their nada, that is, their producer: for the Dawns are born from Indra, because Indra is the sun; Indra is read among the twelve Ādityas in विवस्वदिंद्र सुग्म्य (*vivasvadiṃdra sugmya*). O sacrificers, invoke such an Indra for yourselves. Likewise I call for you the sounder (nada) of the rivers that mingle everywhere (yoyuvatīs), and the lord of the unslayable cows (aghnyās). Then, addressing the sacrificer directly: O sacrificer, you desire the food of the milch cows, who gladden with milk and the like. In the Agnihotra, when the first oblation has been offered, he should stand, awaiting the next oblation, with this Ṛk, ता अस्य (*tā asya*); so it is laid down in the Āśvalāyana Śrauta-Sūtra 2. 3. This Ṛk is also used in the Mahāvrata at the Niṣkevalya; so it is laid down in the fifth Āraṇyaka (Ai. Ā. 5. 1. 6).
+
 ---
 
-**Progress note:** Done through printed p. 18. pp. 13-18: Rks 10-16 of Sukta 68
+**Progress note:** Done through printed p. 24. Sūkta 68 Ṛks 16-19 end; Sūkta 69 intro, Ṛks 1-2 (pp. 19-24)
