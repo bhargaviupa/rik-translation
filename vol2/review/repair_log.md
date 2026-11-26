@@ -137,5 +137,3 @@
   - line 17381: end mark: `marúdbhir agna ā́ gahi ||8||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||8||*`
   - line 17440: end mark: `ītaye sṛjā́mi somyáṃ mádhu |* [accent ?]` → `tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |*`
   - line 17441: end mark: `marúdbhir agna ā́ gahi ||9||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||9||*`
-
-- 2026-11-26: tools/rv/cleanup_remarks.py 2 all --write (REQUIREMENTS B4.6, B2.6): session 1, paren 352, ownnote 247, twin 0, leaders 0 lines; every removal is a row of review/removed_remarks.tsv.
