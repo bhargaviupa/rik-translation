@@ -19501,6 +19501,271 @@ The cows that were in the lower region, in a cave in a place covered with darkne
 ##### English translation
 Brihaspati purposing to bring light into the darkness drove out the cows standing in the cave in the place of darkness below by two (ways), and those above by one (way) ; he opened the three (doors of the Asuras).
 
+### Printed p. 566
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भिद्या॒ पुरं॑ श॒यथे॒मपा॑चीं॒ निस्त्रीणि॑ सा॒कमु॑द॒धेर॑कृंतत् ।  
+> बृह॒स्पति॑रु॒षसं॒ सूर्यं॒ गाम॒र्कं वि॑वेद स्त॒नय॑न्निव॒ द्यौः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विभिद्य । पुरं । शयथा । ईं । अपाचीं । निः । त्रीणि । साकं । उदधेः । अकृंतत् ।  
+> बृहस्पतिः । उषसं । सूर्यं । गां । अर्कं । विवेद । स्तनयन्इव । द्यौः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स बृहस्पतिः शयथोपशयेन स्थित्वापाचीं पराङ्मुखीमीमिमामसुरपुरीं
+> विभिद्य विदार्योदधेर्वलाद्मेघरूपादसुरात्साकं सह युगपत् त्रीण्युषसं
+> सूर्यं गामेतानि त्रीणि निरकृंतत् । निर्गतमकार्षित् । तमसावृतेषु स्थानेषूषःकालतः पश्चाद्भाविनं सूर्यं च जनयित्वा पशून्निरगमयदित्यर्थः । सोऽयमर्कमर्चनीयं मंत्रं सूर्यं विवेद। प्रज्ञापयति । कथमिव । यथा स्तनयन्
+> शब्दं कुर्वन् द्यौरिव स्थितः ॥
+
+##### Gist of the bhāṣya
+
+That Bṛhaspati, abiding by lying close beside it, split open this western, that is backward-facing, city of the Asura. Together, at one and the same time, he brought out from Vala, the Asura in the form of a cloud (उदधेः (*udadheḥ*)), these three: Uṣas, Sūrya and the cow. That is, having produced the dawn and the sun that comes after the dawn-time in the places covered with darkness, he made the cattle come out. This same one made known the adorable mantra, the sun (अर्कं (*arkaṃ*)), like thundering heaven making a sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- शयथा (*śayathā*)—standing leaning right beside it
+- अपाचीं (*apācīṃ*)—facing west
+- ईं पुरं (*īṃ puraṃ*)—the city of the Asura
+- विभिद्य (*vibhidya*)—having destroyed
+- त्रीणि (*trīṇi*)—the three means of light
+- उषसं (*uṣasaṃ*)—Uṣas
+- सूर्यं (*sūryaṃ*)—the sun
+- गां (*gāṃ*)—the cow
+- उदधेः (*udadheḥ*)—from the Asura Vala, in the form of a cloud
+- साकं (*sākaṃ*)—together
+- नि अकृंतत् (*ni akṛṃtat*)—made come out
+- द्यौः (*dyauḥ*)—like the heaven
+- स्तनयन्निव (*stanayanniva*)—making a sound
+- अर्कं (*arkaṃ*)—the adorable sun
+- विवेद (*viveda*)—made manifest
+
+##### भावार्थ (Bhāvārtha)
+
+Bṛhaspati, standing leaning right beside it, destroyed the west-facing city of the Asura and brought out together, from the Asura named Vala in the form of a cloud, the three kinds of means of light: Uṣas, the sun and the cow. Making a sound like the heaven, he caused the adorable sun to shine.
+
+### Printed p. 567
+
+##### English translation
+Resting near it, demolishing the western city, Brihaspati wrestled at once from Vala the three, the dawn, the sun, the cow ; thundering like the heaven, he proclaimed the adorable (sun).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ व॒लं र॑क्षि॒तारं॒ दुघा॑नां क॒रेणे॑व॒ वि च॑कर्ता॒ रवे॑ण ।  
+> स्वेदां॑जिभिरा॒शिर॑मि॒च्छमा॒नोऽरो॑दयत्प॒णिमा गा अ॑मुष्णात् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । वलं । रक्षितारं । दुघानां । करेण इव । वि । चकर्त । रवेण ।  
+> स्वेदांजिभिः । आशिरं । इच्छमानः । अरोदयत् । पणिं । आ । गाः । अमुष्णात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र ईश्वरो बृहस्पतिर्दुघानां क्षीरस्य दोग्धीणां गवां रक्षितारं वलमसुरं करेणेव सायुधकर इव स्थितेन रवेण शब्देन वलं वि चकर्त। विचिच्छेद। किंच
+> स्वेदांजिभिः । स्वेदांजयो मरुतः क्षरदाभरणाः। तैः सहाशिरमाश्रयणं संयोगमिच्छमानः कामयमानः पणिं वलस्यानुचरमेतन्नामानमसुरमरोदयत् ।
+> व्यनाशयत् । ततस्तेनापहृता गा आमुष्णात् । आजहार ॥
+
+##### Gist of the bhāṣya
+
+Indra, the lord Bṛhaspati, with a sound that was like an armed hand, split Vala the Asura, the guardian of the milk-yielding cows. Further, desiring association (आशिरं (*āśiraṃ*), refuge) with the Maruts, the स्वेदांजिभिः (*svedāṃjibhiḥ*), whose ornaments are streaming sweat, he destroyed Paṇi, the follower of Vala, an Asura of that name, and then carried off the cows that had been taken away by him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra (the lord Bṛhaspati)
+- दुघानां (*dughānāṃ*)—of the cows that yield milk
+- रक्षितारं (*rakṣitāraṃ*)—who had hidden them
+- वलं (*valaṃ*)—the Asura named Vala
+- करेणेव (*kareṇeva*)—like a hand bearing a weapon
+- रवेण (*raveṇa*)—by sound alone
+- वि चकर्त (*vi cakarta*)—tore apart
+- स्वेदांजिभिः (*svedāṃjibhiḥ*)—together with the Maruts who have sweat itself as their ornament
+- आशिरं (*āśiraṃ*)—Soma mixed with curds and the like
+- इच्छमानः (*icchamānaḥ*)—Indra (Bṛhaspati), desiring
+- पणिं (*paṇiṃ*)—the Asura named Paṇi
+- अरोदयत् (*arodayat*)—destroyed
+- गाः (*gāḥ*)—the cows
+- अमुष्णात् (*amuṣṇāt*)—carried off
+
+##### भावार्थ (Bhāvārtha)
+
+Indra (Bṛhaspati) tore apart the Asura Vala, who had hidden the milk-yielding cows, by a sound that was like an armed hand. Desiring Soma mixed with curds and the like together with the Maruts, who had sweat itself as their ornament, Indra destroyed the Asura named Paṇi. He carried off the cows.
+
+### Printed p. 568
+
+##### English translation
+Indra with his voice as with an (armed) hand clove Valva the defender of the milch cows; desirous of the mixture (of milk and Soma) he with (the Maruts), who were shining with perspiration, destroyed Pani and liberated the cows.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॑ स॒त्येभिः॒ सखि॑भिः शु॒चद्भि॒गोर्धा॑यसं॒ वि ध॑न॒सैर॑दर्दः ।  
+> ब्रह्म॑ण॒स्पति॒र्वृष॑भिर्व॒राहै॑र्घ॒र्मस्वे॑देभि॒र्द्रवि॑णं॒ व्या॑नट् ॥७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः। ईं। सत्येभिः । सखिभिः। शुचत्ऽभिः। गोऽधायसं । वि। धनऽसैः। अदर्दरित्यदर्दः।  
+> ब्रह्मणः । पतिः । वृषऽभिः । वराहैः । घर्मऽस्वेदेभिः । द्रविणं । वि । आनट् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स बृहस्पतिः सत्येभिर्यथार्थबलैः सखिभिः । सखिभूतैः शुचद्भिर्दिप्यमानैर्धनसैर्धनस्य संभक्तृभिर्मरुद्भिः सह गोधायसं गवां धारकमीमेनं वलं
+> व्यदर्दः । व्यदारयत् । ततो ब्रह्मण ऋग्यजुःसामलक्षणस्य स्तोत्रस्य पतिरधिपतिः स
+> वृषभिर्वर्षितृभिर्वराहैर्वराहारैर्वरस्य वरणीयस्योदकस्याहर्तृभिर्घर्मस्वेदेभिर्दिप्तागमनैः यद्वा क्षरदुदकैः । अथवा! घर्मो यज्ञः। तं प्रति गंतृभिर्मरुद्भिर्द्रविणं गोलक्षणं धनं व्यानट् । व्याप्नोत् ॥
+
+##### Gist of the bhāṣya
+
+That Bṛhaspati, with the Maruts, who are true, that is, of real strength, friendly, shining (शुचद्भिः (*śucadbhiḥ*)) and sharers of wealth (धनसैः (*dhanasaiḥ*)), split open this Vala, the holder of the cows. Then Brahmaṇaspati, lord of the praise-hymn that has the form of Ṛk, Yajus and Sāman, obtained the wealth in the form of cows with the Maruts who are showerers, वराहैः (*varāhaiḥ*), that is, bringers of choice (desirable) water, and घर्मस्वेदेभिः (*gharmasvedebhiḥ*), of blazing approach, or else streaming water. Or else: *gharmaḥ* is the sacrifice, and they are the Maruts who go to it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—Bṛhaspati
+- सत्येभिः (*satyebhiḥ*)—possessed of true strength
+- सखिभिः (*sakhibhiḥ*)—friendly
+- शुचद्भिः (*śucadbhiḥ*)—shining
+- धनसैः (*dhanasaiḥ*)—together with the Maruts who possess wealth
+- गोधायसं (*godhāyasaṃ*)—who had hidden the cows
+- ईं (*īṃ*)—Vala
+- व्यदर्दः (*vyadardaḥ*)—tore apart
+- ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Bṛhaspati, lord of praises
+- वृषभिः (*vṛṣabhiḥ*)—granters of desired ends
+- वराहैः (*varāhaiḥ*)—pourers of the desired water
+- घर्मस्वेदेभिः (*gharmasvedebhiḥ*)—with the Maruts, who go to the sacrifice
+- द्रविणं (*draviṇaṃ*)—the wealth in the form of cows
+- व्यानट् (*vyānaṭ*)—obtained
+
+### Printed p. 569
+
+##### भावार्थ (Bhāvārtha)
+
+Together with the Maruts, who possess true strength, are friends, shine and hold wealth, Bṛhaspati tore apart Vala, who had hidden the cows. Bṛhaspati, lord of praises, together with the Maruts, who grant desired ends, pour the desired water and go to the sacrifice, obtained the wealth in the form of cows.
+
+##### English translation
+Together with his true brilliant wealth-winning friendly (Maruts) he destroyed the detainer of the cows; Brahmanaspati, with the showerers (of benefits), the conveyers of desirable (water). the frequenters of sacrifice, acquired wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+वराहैः (*varāhaiḥ*)—In explaining the word वराह (*varāha*), Yāska says:
+अंगिरसोऽपि वराहा उच्यंते । ब्रह्मणस्पतिर्वृषभिर्वराहैः । (*aṃgiraso 'pi varāhā ucyaṃte | brahmaṇaspatirvṛṣabhirvarāhaiḥ |*) (Ni. 5-4).
+The Aṅgirā ṛṣis are also called Varāhas. For वराहैर्वराहारैः (*varāhairvarāhāraiḥ*): because they partake only of the best, sattvic food, they get the name Varāha; or else वरस्य वरणीयस्योदकस्याहर्तृभिः (*varasya varaṇīyasyodakasyāhartṛbhiḥ*): because they cause to rain down (by the performance of sacrifices and other rites) the rain-water desired by all, the Aṅgirases are called Varāhas. This is how he explains the meaning. The various meanings of the word वराह (*varāha*) (as Yāska explains them in the Nirukta) we have set out at length in Ṛ. Saṃ. Part 25, p. 175, and Part 26, p. 762.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते स॒त्येन॒ मन॑सा॒ गोप॑तिं॒ गा इ॑या॒नास॑ इषणयंत धी॒भिः ।  
+> बृह॒स्पति॑र्मि॒थोअ॑वद्यपेभि॒रुदु॒स्रिया॑ असृजत स्य॒युग्भिः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । सत्येन । मनसा । गोऽपतिं । गाः । इयानासः । इषणयंत । धीभिः ।  
+> बृहस्पतिः । मिथःऽअवद्यपेभिः । उत् । उस्रियाः । असृजत । स्वयुक्ऽभिः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 570
+
+> गाः पणिभिरपहृतान्पशूनियानासोऽभिगच्छंतः सत्येन यथार्थभूतेन मनसा
+> युक्तास्ते मरुतो धीभिरात्मीयैः कर्मभिरेतं बृहस्पतिं गोपतिं तदाहरणेन
+> गवां स्वामिनं कुर्म इतीषणयंत । ऐच्छन् । बृहस्पतिश्च मिथोअवद्यपेभिः ॥
+> पातेः कर्मण्यौणादिकः प्रत्ययः ॥ अवद्यरूपादसुराद्रक्षितव्या गावो येषु मरुत्तु
+> परस्परं संगच्छंत इति ते तथोक्ताः । तैः स्वयुग्भिः स्वयमेव युक्तैर्मरुद्धिरुस्रिया गा उदसृजत । पर्वतान्निरगमयत् ॥
+
+##### Gist of the bhāṣya
+
+Those Maruts, going towards the cows, the cattle carried off by the Paṇis, and endowed with a true, that is real, mind, desired by their own deeds (धीभिः (*dhībhiḥ*)) to make this Bṛhaspati the lord of the cows (गोपतिं (*gopatiṃ*)) by their recovery. And Bṛhaspati, with the मिथोअवद्यपेभिः (*mithoavadyapebhiḥ*): the word is formed with an Uṇādi affix in the sense of the object from the root पा (*pā*) (to protect). They are those Maruts among whom the cows are to be protected from the Asura who is in the form of blame, and who come together with one another; so they are so called. With those स्वयुग्भिः (*svayugbhiḥ*), the Maruts yoked of their own accord, he let the cows go forth (उस्रियाः (*usriyāḥ*)); he made them come out from the mountains.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्येन (*satyena*)—with a trustworthy
+- मनसा (*manasā*)—mind
+- ते (*te*)—the Maruts
+- गाः (*gāḥ*)—the cows
+- इयानासः (*iyānāsaḥ*)—searching
+- धीभिः (*dhībhiḥ*)—by their deeds
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- गोपतिं (*gopatiṃ*)—to make him the lord of the cows
+- इषणयंत (*iṣaṇayaṃta*)—desired
+- मिथोअवद्यपेभिः (*mithoavadyapebhiḥ*)—who give one another protection from the Asura
+- स्वयुग्निः (*svayugniḥ*)—together with the Maruts who come and join of their own accord
+- उस्रियाः (*usriyāḥ*)—the cows
+- उदसृजत (*udasṛjata*)—made come out
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+The Maruts, with trustworthy minds, searching for the cows, desired by their deeds to make Bṛhaspati the lord of the cows. Bṛhaspati, together with the Maruts, who give one another protection from the Asura and who come and join of their own accord, made the cows come out.
+
+##### English translation
+They with truthful mind searching for the cows resolved by their exploits to make him the lord of cattle; Brihaspati with his self-yoked (allies) mutually defending each other from reproach, set free the cows.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं व॒र्धयं॑तो म॒शिभिः॑ शि॒वाभिः॑ सिं॒हमि॑व॒ नान॑दतं स॒दस्ये॑ ।  
+> बृह॒स्पतिं॒ वृष॑णं॒ शूर॑सात्॒ भरे॑भरे॒ अनु॑ मदेम जि॒ष्णुं ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । वर्धयंतः । मतिभिः । शिवाभिः । सिंहं इव । नानदतं । सधस्थे ।
+
+### Printed p. 571
+
+> बृहस्पतिं । वृषणं । शूरसात् । भरेऽभरे । अनु । मदेम । जिष्णुं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सधस्थे । सह तिष्ठंत्यत्र देवा इति सधस्थमंतरिक्षं । तस्मिन् सिंहमिव नानदतं
+> पुनःपुनः शब्दायमानं वृषणं कामानां वर्षितारं जिष्णुं जयशीलं तं बृहस्पतिं
+> वर्धयंतो मरुतो वयं शूरसात् शूरैः संभजनीये भरे भरे संग्रामे
+> शिवाभिः कल्याणीभिः स्तुतिभिरनु मदेम। अनुष्टुमः। स्तोतृपरत्वेन वा योजनीयं॥
+
+##### Gist of the bhāṣya
+
+सधस्थे (*sadhasthe*): the gods abide together here, hence *sadhasthaṃ* is the atmosphere. In it Bṛhaspati roars again and again like a lion; he is the showerer of desires and victorious by nature. We Maruts, magnifying him, rejoice in him with auspicious, that is, propitious, praises in every battle (भरे भरे (*bhare bhare*)), where heroes win the prize (शूरसात् (*śūrasāt*)). Alternatively the verse is to be construed as referring to the praisers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सधस्थे (*sadhasthe*)—in the atmosphere
+- सिंहमिव (*siṃhamiva*)—like a lion
+- नानदतं (*nānadataṃ*)—roaring again and again
+- वृषणं (*vṛṣaṇaṃ*)—granter of desired ends
+- जिष्णुं (*jiṣṇuṃ*)—victorious
+- तं बृहस्पतिं (*taṃ bṛhaspatiṃ*)—that Bṛhaspati
+- वर्धयंतः (*vardhayaṃtaḥ*)—we who strengthen
+- शूरसात् (*śūrasāt*)—where heroes win victory
+- भरेभरे (*bharebhare*)—in battle
+- शिवाभिः (*śivābhiḥ*)—auspicious
+- मतिभिः (*matibhiḥ*)—by praises
+- अनु मदेम (*anu madema*)—we gladden
+
+##### भावार्थ (Bhāvārtha)
+
+We who strengthen Bṛhaspati, who roars in the atmosphere again and again like a lion, who grants desired ends and is victorious, gladden him with auspicious praises in battle where heroes win victory.
+
+##### English translation
+Magnifying the victorious Brihaspati, the showerer (of benefits), roaring in mid-heaven like a lion, let us praise him in the conflicts where heroes win. with auspicious praises.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा वाज॒मस॑नद्वि॒श्वरू॑प॒मा द्यामरु॑क्ष॒दुत्त॑राणि॒ सद्म॑ ।  
+> बृह॒स्पतिं॒ वृष॑णं व॒र्धयं॑तो॒ नाना॒ संतो॒ भिभ्र॑तो॒  ॒॑
+> ज्योतिरासा ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । वाजं । असनत् । विश्वरूपं । आ । द्यां । अरुक्षत् । उत्तराणि । सद्म ।  
+> बृहस्पतिं । वृषणं । वर्धयंतः । नाना । संतः । बिभ्रतः । ज्योतिः । आसा ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 565. pp. 560-565 (batch API)
+**Progress note:** Done through printed p. 571. pp. 566-571 (batch API)
