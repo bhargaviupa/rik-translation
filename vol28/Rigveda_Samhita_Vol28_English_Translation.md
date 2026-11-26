@@ -11992,6 +11992,273 @@ The sūkta प्र तारी (*pra tārī*) has ten Ṛks and is the sevent
 
 Anuvāda: This sūkta प्र कार्यायुः (*pra kāryāyuḥ*) is the seventeenth sūkta in the fourth anuvāka. It has ten Ṛks. Its seers are three brothers, Bandhu and others, sons of Gopāyana. The first seven Ṛks of this sūkta are in the Triṣṭubh metre. The eighth Ṛk is in the Paṅkti metre, with five pādas of eight syllables each. The ninth Ṛk, of eight syllables each …
 
+### Printed p. 374
+Anuvāda (continued): The sixth-pāda Mahāpaṅkti is the metre of the ninth Ṛk. The tenth Ṛk is in the metre called Paṅktyuttarā. In a Ṛk of this metre there are five pādas; the first two have ten syllables each, and the remaining three eight each (Anu. 9-11): this is the characteristic of the metre. In the present Ṛk one syllable is in excess. In the first four Ṛks of this sūkta Bandhu and the others prayed and recited for the return of the goddess Nirṛti, who separates the life-breath from the body and carries it off. In the fourth Ṛk, मो षु णः सोम (*mo ṣu ṇaḥ soma*), Soma is praised for the turning away of death. Therefore Nirṛti is the deity of these four Ṛks; for the fourth Ṛk the deity is Nirṛti together with Soma. For the Ṛk असुनीते मनः (*asunīte manaḥ*) and the Ṛks after it (5-6), since a deity named Asunīti is praised in them, Asunīti is the deity. For the seventh Ṛk, पुनर्नो असुं (*punarno asuṃ*), the deities are those propounded in the Ṛk, Pṛthivī and the rest. For the Ṛks after it, that is the three Ṛks in the metres Paṅkti, Mahāpaṅkti and Paṅktyuttarā (Ṛks 8-10), Heaven and Earth are the deity; but for the first half of the tenth Ṛk, समिंद्रेरय (*samiṃdreraya*), Indra is the deity. In the Anukramaṇikā: प्र तारीति दशर्चॆ चतस्रो निर्ऋत्यपनोदनार्थं जेपुश्च तुर्थां सोमं चास्तु- वन्मृत्योरसगमायोत्तराभ्यां दैवीमसुनीतिं सप्तम्यां लिंगोक्तदेवताः शिष्टाभिः पंक्तिमहापंक्तिपंक्त्युत्तराभिर्दावापृथिव्यौ समिंद्रेतींद्रं चार्धर्चेन (*pra tārīti daśarcè catasro nirṛtyapanodanārthaṃ jepuśca turthāṃ somaṃ cāstu- vanmṛtyorasagamāyottarābhyāṃ daivīmasunītiṃ saptamyāṃ liṃgoktadevatāḥ śiṣṭābhiḥ paṃktimahāpaṃktipaṃktyuttarābhirdāvāpṛthivyau samiṃdretīṃdraṃ cārdharcena*). The viniyoga was stated earlier.
+
+**Sūkta 59 (Maṇḍala 10)**
+
+Maṇḍala 10; Anuvāka 4; Sūkta 59. Aṣṭaka 8; Adhyāya 1; Vargas 22, 23. Number of Ṛks in the sūkta: 10.
+Ṛṣi: Bandhu, Śrutabandhu, Viprabandhu, the Gaupāyanas.
+Deity: 1-3 Nirmiti; 4 Nirmiti and Soma; 5-6 Asunīti; 7 the deities named by their indications (Pṛthivī, Dyau, Antarikṣa, Soma, Pūṣan, Pathyā, Svasti); 8-9 and the second half of 10, Heaven and Earth; first half of 10, Heaven and Earth and Indra.
+Metre: 1-2 Triṣṭubh; 8 Paṅkti; 9 Mahāpaṅkti; 10 Paṅktyuttarā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ता॒र्यायुः॑ प्रत॒रं नवी॑यः॒ स्थाता॑रेव॒ क्रतु॑मता॒ रथ॑स्य ।  
+> अध॒ च्यवा॑न॒ उत्त॑वी॒त्यर्थं॑ परात॒रं सु निर्ऋ॑तिर्जिहीतां ॥१॥
+
+### Printed p. 375
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । तारि । आयुः । प्रतरं । नवीयः । स्थाताराइव । क्रतुमता । रथस्य ।  
+> अध । च्यवानः । उत् । तवीति । अर्थं । परातरं । सु । निऋतिः । जिहीतां ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुबंधोरायुरायुष्यं प्र तारि । प्रवर्धतां । प्रपूर्वस्तिरतिर्वर्धनार्थः ।
+> कथं प्रवर्धतामिति उच्यते । प्रतरं प्रवृद्धतरं नवीयो नवतरं । यौवनोपेतमित्यर्थः । निर्ऋत्यनुग्रहादेवमायुर्वर्धतां । तत्र दृष्टांतः । क्रतुमता कर्मवता सारथिना रथस्य स्थातारेव रथे स्थिताविव वर्धेति तद्वत्। अधाध च्यवानो जीवितात्पृच्यवमानोऽर्थं स्वाभिलषितमायुर्लक्षणमुत्तवीति । वर्धयति । सुबंधुप्राणा.
+> पहर्त्रि निर्ऋतिः पापदेवता परातरमत्यंतं दूरतरं जिहीतां । परित्यजतु । गच्छतु॥
+
+##### Gist of the bhāṣya
+
+Subandhu's life is to be increased: प्र तारि (*pra tāri*) means "let it grow", the root tir with pra having the sense of growth. How? प्रतरं (*prataraṃ*) is more increased, नवीयः (*navīyaḥ*) newer, that is, endowed with youth. By Nirṛti's favour may life grow thus. An illustration: as two persons standing in a car, carried by a skilful (क्रतुमता (*kratumatā*)) driver, so may it grow. Then he who is falling away from life उत्तवीति (*uttavīti*) increases the desired object, namely life. Nirṛti, the goddess of evil, the remover of Subandhu's life-breaths, is to go परातरं (*parātaraṃ*) very far away; जिहीतां (*jihītāṃ*) means let her abandon, let her go.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- क्रतुमता (*kratumatā*)—by a driver skilled in his work
+- रथस्य स्थातारा इव (*rathasya sthātārā iva*)—as the people in a car are carried safely
+- आयुः (*āyuḥ*)—Subandhu's life
+- प्रतरं (*prataraṃ*)—long
+- नवीयः (*navīyaḥ*)—endowed with youth
+- प्रतारि (*pratāri*)—let it grow (attain increase)
+- अध (*adha*)—at the end
+- च्यवानः (*cyavānaḥ*)—the man who falls away from life (who approaches death)
+- अर्थं (*arthaṃ*)—the desire that he may live
+- उत्तवीति (*uttavīti*)—increases
+- निर्ऋतिः (*nirṛtiḥ*)—the goddess of evil named Nirṛti
+- परातरं (*parātaraṃ*)—to a very distant place
+- सु जिहीतां (*su jihītāṃ*)—let her depart
+
+##### भावार्थ (Bhāvārtha)
+
+As the people in a car are carried safely by a driver skilled in his work, may Subandhu's life grow long and endowed with youth. In a man approaching death the desire to live yet longer increases. May the goddess of evil named Nirṛti go far away.
+
+##### English translation
+May the life of Subandhu be augmented so as to be more lasting and newer, as men conveyed in car (are carried on) by a skilfull (driver) : he who falls (from life), increases (his) desire to live : may Nirriti depart far off.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> साम॒न्नु रा॒ये नि॑धि॒मन्नवन्नं॒ करा॑महे॒ सु पु॑रु॒ध श्रवां॑सि ।
+
+### Printed p. 376
+
+> ता नो विश्वानि जरिता ममत्तु परातरं सु निर्ऋतिर्जिहीतां॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सामन् । नु । राये । निधिमत् । नु । अन्नं । करामहे । सु । पुरुध । श्रवांसि ।  
+> ता । नः । विश्वानि । जरिता । ममत्तु । परातरं । सु । निऋतिः । जिहीतां ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सामन्नु साम्मि गीयमाने सति । नु चार्थे । राये जीवायूरूपधनार्थं
+> निधिमन्निधानवदन्नं हविश्च करामहे । कुर्मः । अत्र नृति चार्थे । निर्ऋत्यै स्तुतिं
+> हविश्चोभयं कुर्म इत्यर्थः । तदेवाह । सु सुष्टु पुरुध पुरुधा बहुप्रकारं
+> श्रवांस्यन्नानि हवींषि करामहे । ता तानि हवींषि नोऽस्माकं संबंधीनि विश्वानि
+> सर्वाणि जरिता जीर्णा स्तुता वा । जरा स्तुतिः । नि.१०-८ ! ममत्तु । स्वदतां । आस्वाद्य
+> च निर्ऋतिः परातरमत्यंतं दूरदेशं जिहीतां । गच्छतां ॥
+
+##### Gist of the bhāṣya
+
+सामन्नु (*sāmannu*): when a sāman is being sung; नु (*nu*) is in the sense of "and". राये (*rāye*): for the sake of wealth in the form of life. We make निधिमत् (*nidhimat*), treasure-like, food, that is oblation. Here the sense is that we make both praise and oblation for Nirṛti. He says so: सु (*su*) well, पुरुध (*purudha*) in many ways, we make श्रवांसि (*śravāṃsi*), foods, oblations. ता (*tā*): those oblations of ours, all of them; जरिता (*jaritā*) is either "worn out" or "praised" (jarā is praise, Ni. 10-8). Let her enjoy them (ममत्तु (*mamattu*): let her delight), and having tasted them let Nirṛti go very far away.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सामन् नु (*sāman nu*)—at the time when the sāman-song is recited
+- राये (*rāye*)—for the sake of wealth in the form of life
+- निधिमत् (*nidhimat*)—abundant like a treasure
+- अन्नं (*annaṃ*)—the oblation
+- करामहे (*karāmahe*)—we offer
+- सु (*su*)—excellently
+- पुरुष (*puruṣa*)—in many ways
+- श्रवांसि (*śravāṃsi*)—foods (we offer)
+- स्तुता (*stutā*)—Nirṛti, praised by us
+- नः (*naḥ*)—offered by us
+- ता विश्वानि (*tā viśvāni*)—all those foods
+- ममत्तु (*mamattu*)—let her eat
+- निर्ऋतिः (*nirṛtiḥ*)—the goddess Nirṛti
+- परातरं (*parātaraṃ*)—to a very distant place
+- सु जिहीतां (*su jihītāṃ*)—let her depart
+
+##### भावार्थ (Bhāvārtha)
+
+At the time when the sāman-song is recited, for the increase of life we offer to the goddess Nirṛti oblation abundant like a treasure; we offer excellent and manifold foods. May Nirṛti, praised by us, eat all the food offered by us. Leaving us, may she depart to a very distant place.
+
+##### English translation
+(When) the hymn (is being sung) let us offer (sacrificial) food, like a treasure (to Nirriti) for the sake of riches, and many kinds of sacrificial viands; may she, being praised, partake of all these our (offerings); may Nirriti depart far off.
+
+### Printed p. 377
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी ष्व१॒॑ग्यर्यः सौंस्यै॑र्भवेम॒ द्यौर्न भूमिं॑ गि॒रयो॒  ॑
+> नाज्रान् ।  
+> ता नो॒ विश्वा॑नि जरि॒ता चि॑केत परात॒रं सु निर्ऋ॑तिर्जिहीतां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सु । अर्यः । पौंस्यैः । भवेम । द्यौः । न । भूमिं । गिरयः । न । अज्रान् ।  
+> ता । नः । विश्वानि । जरिता । चिकेत । परातरं । सु । निःऋतिः । जिहीतां ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमर्योऽरीञ्चत्रून्पौंस्यैः पुंस्त्वर्बलैः सु सुष्त्वभिभवेम । द्यौर्न
+> भूमिं सूर्यो यथा स्वरश्मिभिर्भूमिमभिभवति तद्वत् । गिरयो नाज्रान् ।
+> गिरिर्वज्रः । ते यथाज्रानजनशीलान्मेघानभिभवंति तद्वत् । ता तानि यानि नोऽस्माभिः
+> कृतानि स्तोत्राणि तानि विश्वानि सर्वाणि जरिता स्तुता सती निर्ऋतिश्चिकेत । जानाति ।
+> शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+May we overcome अर्यः (*aryaḥ*), enemies, by पौंस्यैः (*pauṃsyaiḥ*), manly powers, well; as द्यौर्न भूमिं (*dyaurna bhūmiṃ*), as the sun overcomes the earth with its rays; गिरयो नाज्रान् (*girayo nājrān*): giri is the thunderbolt, and as thunderbolts overcome the clouds, which are given to moving about. ता (*tā*): all those praises made by us, Nirṛti, being praised, चिकेत (*ciketa*) knows. The rest is as said.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यौः (*dyauḥ*)—the sun
+- भूमिं न (*bhūmiṃ na*)—as he covers the earth with rays
+- गिरयः (*girayaḥ*)—the thunderbolt
+- अज्रान् न (*ajrān na*)—as it covers the clouds
+- (वयं (*vayaṃ*)—we)
+- आर्यः (*āryaḥ*)—enemies
+- पौंस्यैः (*pauṃsyaiḥ*)—by our manly powers
+- सु (*su*)—completely
+- अभि भवेम (*abhi bhavema*)—may we assail and defeat
+- जरिता (*jaritā*)—praised by us
+- निर्ऋतिः (*nirṛtiḥ*)—Nirṛti
+- नः (*naḥ*)—recited by us
+- विश्वानि ता (*viśvāni tā*)—all the praises
+- चिकेत (*ciketa*)—she knows
+- परातरं (*parātaraṃ*)—far from us
+- सु जिहीतां (*su jihītāṃ*)—let her depart
+
+##### भावार्थ (Bhāvārtha)
+
+As the sun covers the earth with his rays, and as the thunderbolt covers the clouds, may we with our manly powers assail and completely defeat our enemies. Nirṛti, praised by us, knows all the praises recited by us. May she go far away from us.
+
+##### English translation
+May we, by our manly exertions, overcome our enemies, as the Sun the earth, as thunderbolts the clouds : she, being praised, knows all these our (exploits) : may Nirriti depart far off.
+
+### Printed p. 378
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो षु णः॑ सोम मृ॒त्यवे॒ परा॑ दाः॒ पश्ये॑म॒ नु सूर्य॑मु॒च्चरं॑तं  
+> द्युभि॑र्हि॒तो ज॑रि॒मा सूनो॑ अस्तु परात॒रं सु निर्ऋ॑तिर्जिहीतां
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । नः । सोम । मृत्यवे । परा । दाः । पश्येम । नु । सूर्यं ।  
+> उत्चरंतं ।  
+> द्युभिः । हितः । जरिमा । सु । नः । अस्तु । परातरं । सु । निऋतिः । जिहीतां ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नोऽस्मान् सु सुष्टु मृत्यवे मो परा दाः । मैव परादानं
+> कुरु । मृत्य्वधीनान्नोऽस्मान्मा कार्षिः । किंतु न्विदानीमुच्चरंतमूर्ध्व० गच्छंतमुदयंतं सूर्य० पश्येम । चिरकालं जीवेनेत्यर्थः । जीवाभावे सूर्यादर्शनादित्यभिप्रायः । किंच द्युभिः । अहर्नामैतत् । अहोभिर्दिवसैर्हितः प्ररितो
+> जरिमा जराभावो नोऽस्माकं सु सुखकरोऽस्तु । शिष्टमुक्तं ॥
+
+##### Gist of the bhāṣya
+
+O Soma, do not give us up to death; do not hand us over to death's power. Rather may we now see the sun rising, going upward; that is, may we live a long time, since without life there is no seeing the sun. Further, द्युभिः (*dyubhiḥ*) is a name for day: हितः (*hitaḥ*), impelled by days, may old age, the state of growing old, be pleasant to us. The rest is as said.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- नः (*naḥ*)—us
+- मृत्यवे (*mṛtyave*)—to death
+- सु मो परा दाः (*su mo parā dāḥ*)—do not give up completely
+- नु (*nu*)—now
+- उत्चरंतं (*utcaraṃtaṃ*)—rising
+- सूर्यं (*sūryaṃ*)—the sun
+- पश्येम (*paśyema*)—may we see
+- द्युभिः (*dyubhiḥ*)—by the passing of days
+- हितः (*hitaḥ*)—brought on
+- जरिमा (*jarimā*)—old age
+- नः (*naḥ*)—to us
+- सु (*su*)—pleasant
+- अस्तु (*astu*)—let it be
+- निर्ऋतिः (*nirṛtiḥ*)—Nirṛti
+- परातरं (*parātaraṃ*)—far from us
+- सु जिहीतां (*su jihītāṃ*)—let her leave
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, do not give us up to death. May we see the rising sun for many a long time. May the time of old age that comes with passing years be pleasant to us. May Nirṛti leave us and go far away.
+
+##### English translation
+Give us not up, Soma, to death : may we (long) behold the rising sun : may our old age brought on by (passing) days be happy : may Nirriti depart for off.
+
+### Printed p. 379
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असु॑नीते॒ मनो॑ अ॒स्मासु॑ धारय जी॒वात्॑मवे॒ सु प्र ति॑रा न॒  ॑
+> आयुः ।  
+> रा॒रं॒भि नः॒ सूर्य॑स्य सं॒दृशि॑ घृ॒तेन॒ त्वं त॒न्वं॑ वर्धयस्व ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असुनीते । मनः । अस्मासु । धारय । जीवातवे । सु । प्र । तिर । नः । आयुः ।  
+> ररंधि । नः । सूर्यस्य । संदृशि । घृतेन । त्वं । तन्वं । वर्धयस्व ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे असुनीते मनुष्याणामसूनां नेत्रि देवि अस्मासु मनः पुनर्धारय ।
+> किंच जीवातवे जीवितुं सु प्र तिर सुष्टु वर्धय नोऽस्माकमायुः । किंच रारंधि
+> स्थापय नोऽस्मान् सूर्यस्य संदृशि चिरसंदर्शने । त्वं च धृतेनास्माभिर्दत्तेन
+> तन्नं शरीरं वर्धय । वर्धयस्व ॥
+
+##### Gist of the bhāṣya
+
+O Asunīti, goddess, leader of men's life-breaths, again set mind in us. Further, जीवातवे (*jīvātave*), in order to live, increase our life well (सु प्र तिर (*su pra tira*)). Further, रारंधि (*rāraṃdhi*): establish us in the long sight of the sun (सूर्यस्य संदृशि (*sūryasya saṃdṛśi*)). And you, by the ghee given by us, cause the body to grow; वर्धयस्व (*vardhayasva*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- असुनीते (*asunīte*)—O goddess Asunīti, giver of life-breath
+- अस्मासु (*asmāsu*)—to us
+- मनः (*manaḥ*)—the lost consciousness
+- धारय (*dhāraya*)—give again
+- जीवातये (*jīvātaye*)—that we may live long
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life
+- सु प्र तिर (*su pra tira*)—cause to grow exceedingly
+- नः (*naḥ*)—us
+- सूर्यस्य संदृशि (*sūryasya saṃdṛśi*)—so that we see the sun for a long time
+- ररंधि (*raraṃdhi*)—establish
+- घृतेन (*ghṛtena*)—with the ghee offered by us
+- त्वं (*tvaṃ*)—you
+- तन्वं (*tanvaṃ*)—the body
+- वर्धयस्व (*vardhayasva*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O goddess Asunīti, leader of the life-breaths, give us again the consciousness that has been lost. That we may live long, cause our life to grow exceedingly. Cause us to see the sun for many a long time. With the ghee offered by us, make the body grow.
+
+##### English translation
+Asuniti, give us back the (departed) spirit : extend our life that we may live (long) : establish us that we may (long) behold the sun : do you cherish the body with the ghi (that we have offered).
+
+##### विशेषविषयगळु (Special Topics)
+
+On this passage Yāska has given an explanation: असुनीते मनः अस्मासु धारय चिरं जीवनाय प्रवर्धय च न आयू (*asunīte manaḥ asmāsu dhāraya ciraṃ jīvanāya pravardhaya ca na āyū*)
+
 ---
 
-**Progress note:** Done through printed p. 373. pp. 368-373 (batch API)
+**Progress note:** Done through printed p. 379. pp. 374-379 (batch API)
