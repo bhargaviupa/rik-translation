@@ -32459,6 +32459,283 @@ O Soma, protect us well, सु रक्ष (*su rakṣa*), from the sound, tha
 - नः (*naḥ*)—us
 - सु रक्ष (*su rakṣa*)—protect
 
+### Printed p. 798
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निदः (*nidaḥ*)—those who revile us
+- कस्य चित् (*kasya cit*)—protect us from any other person as well
+- यत्र (*yatra*)—in that protection of yours
+- मुमुच्महे (*mumucmahe*)—may we be freed from reproach and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, although all things are in him, protect us from the words of reproach of the miser who gives nothing to anyone. Moreover, protect us also from any other person who slanders us. By that protection of yours may we be freed from reproach and the like.
+
+##### English translation
+Preserve us from the reproach of every one who makes no offerings, who utters blame,—that we may be free.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंदो॒ पार्थि॑वं र॒यिं दि॒व्यं प॑वस्व॒ धार॑या ।  
+> द्यु॒मंतं॒ शुष्म॒मा भ॑र ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंदो इति । पार्थिवम् । रयिम् । दिव्यम् । पवस्व । धारया ।  
+> द्युऽमंतम् । शुष्मम् । आ । भर ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो क्लिद्यमान सोम त्वं धारया आ पवस्व सर्वतः क्षर । पार्थिवं दिव्यं च रयिं धनं द्युमंतं दीप्तिमंतं शुष्मं बलं च आ भर आहरास्मभ्यम् ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+O इंदो (*iṃdo*), moistened Soma, flow in a stream धारया (*dhārayā*) on every side, that is, pour forth. Bring to us terrestrial and celestial wealth रयिं (*rayiṃ*), and brilliant, shining strength शुष्मं (*śuṣmaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma god who flows (you)
+- धारया (*dhārayā*)—in stream after stream
+- पवस्व (*pavasva*)—flow
+- पार्थिवं (*pārthivaṃ*)—that which is on the earth
+- दिव्यं (*divyaṃ*)—and that which is in heaven
+- रयिं (*rayiṃ*)—wealth
+- द्युमंतं (*dyumaṃtaṃ*)—radiant
+- शुष्मं (*śuṣmaṃ*)—strength
+- आ भर (*ā bhara*)—bring to us
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma who flows, flow in stream after stream. Bring to us wealth that is on the earth and in heaven, and strength that sparkles with radiance.
+
+### Printed p. 799
+
+##### English translation
+Indu, pour to us in a stream terrestrial and celestial riches, bring brilliant vigour.
+
+## Sūkta 30 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ प्र धाराः' इति षडृचं षष्ठं सूक्तं बिंदुनाम्न आंगिरसस्यार्षं गायत्रं पवमानसोमदेवताकम् । ‘ प्र धारा बिंदुः' इत्यनुक्रमणिका । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र धाराः (*pra dhārāḥ*) of six Ṛks is the sixth sūkta; its seer is Bindu, of the Aṅgirasa family; the metre is Gāyatra and the deity is Pavamāna Soma. In the Anukramaṇikā it is said प्र धारा बिंदुः (*pra dhārā biṃduḥ*). The use has been stated.
+
+Anuvāda: This sūkta प्र धाराः (*pra dhārāḥ*) is the sixth sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is the one named Bindu Aṅgirasa; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said प्र धारा बिंदुः (*pra dhārā biṃduḥ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 30. Aṣṭaka 6; Adhyāya 8; Varga 20. Number of Ṛks in the sūkta: 6.
+
+Seer: Binduḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र धारा॑ अस्य शु॒ष्मिणो॒ वृथा॑ प॒वित्रे॑ अक्षरन् ।  
+> पु॒ना॒नो वाच॑मिष्यति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । धाराः । अस्य । शुष्मिणः । वृथा । पवित्रे । अक्षरन् ।  
+> पुनानः । वाचम् । इष्यति ॥ १ ॥
+
+### Printed p. 800
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुष्मिणः बलवतः अस्य सोमस्य धाराः पवित्रे दशापवित्रे वृथा अप्रयत्नेन अक्षरन् स्रवंति । तदानीं पुनानः पूयमानः सोमः वाचं स्तुतिं स्वीयं ध्वनिं वा इष्यति प्रेरयति ।
+
+##### Gist of the bhāṣya
+
+The streams of this strong अस्य (*asya*) Soma flow अक्षरन् (*akṣaran*) into the ten-strand filter पवित्रे (*pavitre*) without effort वृथा (*vṛthā*). At that time Soma, being purified पुनानः (*punānaḥ*), sends forth इष्यति (*iṣyati*) praise, or his own sound वाचं (*vācaṃ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मिणः (*śuṣmiṇaḥ*)—endowed with strength
+- अस्य (*asya*)—of this Soma
+- धाराः (*dhārāḥ*)—streams
+- पवित्रे (*pavitre*)—into the ten-strand filter
+- वृथा (*vṛthā*)—without effort
+- अक्षरन् (*akṣaran*)—flow
+- पुनानः (*punānaḥ*)—that Soma, being purified
+- वाचं (*vācaṃ*)—praise or sound
+- इष्यति (*iṣyati*)—sends forth
+
+##### भावार्थ (Bhāvārtha)
+
+The streams of this strengthening Soma fall easily upon the ten-strand filter. After he has been purified there, Soma urges the priests to praise.
+
+##### English translation
+The streams of this strong Soma flow without effort into the fitering-cloth ; purified, he excites praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॑र्हिया॒नः सो॒तृभि॑र्मृ॒ज्यमा॑नः॒ कनि॑क्रदत् ।  
+> इय॑र्ति व॒ग्नुमिं॑द्रि॒यम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । हियानः । सोतृऽभिः । मृज्यमानः । कनिक्रदत् ।  
+> इयर्ति । वग्नुम् । इंद्रियम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंदुः दीप्तः सोमः हियानः प्रेर्यमाणः व्याप्रियमाणः । कैः । सोतृभिः ऋत्विग्भिः । पश्चाद्दशापवित्रे मृज्यमानः शोध्यमानः कनिक्रदत् शब्दं कुर्वन् इंद्रियम् इंद्रस्य संबंधिनमिंद्रियमपि ----- करं वग्नुं शब्दम् इयर्ति प्रेरयति ग्रहणसमये ॥
+
+##### Gist of the bhāṣya
+
+This Indu, the shining Soma, being urged हियानः (*hiyānaḥ*), that is, set in motion, by the pressers सोतृभिः (*sotṛbhiḥ*), the priests, and afterwards being cleansed मृज्यमानः (*mṛjyamānaḥ*), that is, purified, in the ten-strand filter, making a sound कनिक्रदत् (*kanikradat*), sends forth इयर्ति (*iyarti*) the sound वग्नुं (*vagnuṃ*), the vigour इंद्रियम् (*iṃdriyam*) that belongs to Indra, also **NOTE** at the time of the drawing of the cup.
+
+### Printed p. 801
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदुः (*iṃduḥ*)—this shining Soma
+- सोतृभिः (*sotṛbhiḥ*)—by the priests who press out the juice
+- हियानः (*hiyānaḥ*)—being urged
+- मृज्यमानः (*mṛjyamānaḥ*)—being purified in the ten-strand filter
+- कनिक्रदत् (*kanikradat*)—makes a sound
+- इंद्रियं (*iṃdriyaṃ*)—with regard to Indra, that is, desiring Indra
+- वग्नुं (*vagnuṃ*)—the sound
+- इयर्ति (*iyarti*)—sends forth
+
+##### भावार्थ (Bhāvārtha)
+
+This trickling and clear Soma juice, pressed by the priests engaged in the rite of pressing and purified in the ten-strand filter, makes a gurgling sound. And it urges the priests to praise Indra.
+
+##### English translation
+This Indu, urged by the priests, and purified with a sound in the filter, utters a loud voice (in the oblation).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॒ शुष्मं॑ नृ॒षाह्यं॑ वी॒रवं॑तं पुरु॒स्पृह॑म् ।  
+> पव॑स्व सोम॒ धार॑या ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । शुष्मम् । नृऽसह्यम् । वीरऽवंतम् । पुरुऽस्पृहम् ।  
+> पवस्व । सोम । धारया ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं धारया आ पवस्व । किम्। शुष्मं बलम् । कीदृशम् । नृषाह्यं नृणामस्मद्विरोधिनामभिभावुकं वीरवंतं पुत्रोपेतं पुरुस्पृहं बहुभिः स्पृहणीयं शुष्ममा पवस्व । एतस्य लाभाय पवस्वेत्यर्थः । रसस्रावे सति होमद्वारा तत्सिद्धे शुष्मं पवस्वेत्युपचर्यते ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow in a stream धारया (*dhārayā*). What is it that he is to pour? Strength शुष्मं (*śuṣmaṃ*). Of what kind? नृषाह्यं (*nṛṣāhyaṃ*): overpowering the men who are our adversaries; वीरवंतं (*vīravaṃtaṃ*): possessed of sons; पुरुस्पृहं (*puruspṛhaṃ*): desired by many. The sense is: flow for the gaining of this. When the juice flows, its accomplishment comes through the oblation, and so शुष्मं पवस्व (*śuṣmaṃ pavasva*) is said figuratively.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma, you
+- नृषाह्यं (*nṛṣāhyaṃ*)—fit to defeat hostile men
+- वीरवंतं (*vīravaṃtaṃ*)—accompanied by heroic sons and the like
+- पुरुस्पृहं (*puruspṛhaṃ*)—desired by many
+
+### Printed p. 802
+
+- शुष्मं (*śuṣmaṃ*)—strength, for producing it for us
+- धारया (*dhārayā*)—in stream after stream
+- आ पवस्व (*ā pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, flow in stream after stream, in order to give us the power to defeat hostile men, heroic sons and the like, and a strength desired by many.
+
+##### English translation
+Pour upon us in a stream, Soma, foe-subduing strength, associated with male offspring and desired by many.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोमो॒ अति॒ धार॑या॒ पव॑मानो असिष्यदत् ।  
+> अ॒भि द्रोणा॑न्या॒सद॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमः । अति । धारया । पवमानः । असिस्यदत् ।  
+> अभि । द्रोणानि । आऽसदम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं पवमानः सोमः धारया अति अतिक्रम्य देशापवित्रं प्र असिष्यदत् प्रस्यंदते । किमर्थम् । द्रोणानि द्रोणकलशादीनि आसदम् आसादनाय ॥
+
+##### Gist of the bhāṣya
+
+This purifying Soma, flowing in a stream धारया (*dhārayā*), passes over अति (*ati*) the ten-strand filter देशापवित्रं (*deśāpavitraṃ*) **NOTE** and streams forth प्र असिष्यदत् (*pra asiṣyadat*). For what? To take its place आसदम् (*āsadam*) in the vessels द्रोणानि (*droṇāni*), the Droṇa-kalaśa and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—flowing
+- सोमः (*somaḥ*)—this Soma juice
+- द्रोणानि (*droṇāni*)—in vessels such as the Droṇa-kalaśa
+- आसदं (*āsadaṃ*)—in order to be filled
+- धारया (*dhārayā*)—flowing with a stream
+- अति (*ati*)—crossing the ten-strand filter
+- प्र आसिष्यदत् (*pra āsiṣyadat*)—flows and falls
+
+##### भावार्थ (Bhāvārtha)
+
+This flowing Soma juice, running as a stream in order to fill the vessels such as the Droṇa-kalaśa, falls upon the ten-strand filter, and after being purified there, streams out from it and flows and falls downwards.
+
+### Printed p. 803
+
+##### English translation
+This purified Soma flows out in a stream to take its place in the pitchers.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प्सु त्वा॒ मधु॑मत्तमं॒ हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
+> इंद॒विंद्रा॑य पी॒तये॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप्ऽसु । त्वा । मधुमत्ऽतमम् । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> इंदो इति । इंद्राय । पीतये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अप्सु वसतीवरीषूदकेषु मधुमत्तमम् अतिशयेन मधुमंतं हरिं हरितवर्णं त्वा त्वाम् अद्रिभिः अभिषवग्रावभिः हिन्वंति प्रेरयंति । किमर्थम् । इंद्राय इंद्रस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+O इंदो (*iṃdo*) Soma, you who are exceedingly sweet मधुमत्तमम् (*madhumattamam*) and green-hued हरिं (*hariṃ*), in the waters अप्सु (*apsu*), the waters that abide in the vessels, are urged on हिन्वंति (*hinvaṃti*) by the pressing stones अद्रिभिः (*adribhiḥ*). For what? For Indra's drinking पीतये (*pītaye*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- मधुमत्तमं (*madhumattamaṃ*)—the most sweet
+- हरिं (*hariṃ*)—green in colour
+- त्वा (*tvā*)—you
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for the drinking
+- अद्रिभिः (*adribhiḥ*)—with the crushing stones
+- हिन्वंति (*hinvaṃti*)—they crush and urge the juice to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma plant, you who are exceedingly sweet and green in colour: for Indra's drinking the priests crush you with stones and urge the juice to flow out.
+
+##### English translation
+Indu, they press you forth by the stones, most sweet-flavoured and green-tinted, into the waters for Indra to drink.
+
 ---
 
-**Progress note:** Done through printed p. 797. Vol 25 pp. 792-797: end of Sukta 28, Sukta 29 Rk 1-5 (window ends in Rk 5 Pratipadartha)
+**Progress note:** Done through printed p. 803. Vol 25 end of Sukta 29 (Rk 5-6), Sukta 30 Rk 1-5, pp. 798-803
