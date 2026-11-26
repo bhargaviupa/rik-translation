@@ -4006,6 +4006,353 @@ That same Soma juice, which destroys the pride of enemies, is green in colour, f
 
 The sūkta beginning अस्य प्रत्नाम् (*asya pratnām*) has four ṛks and is the thirtieth sūkta. The seer and the rest are as before. So the Anukramaṇī says अस्य प्रत्नाम् (*asya pratnām*). The use in the rite has been stated.
 
+### Printed p. 150
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य प्र॒त्नामनु॒ द्युतं॑ शु॒क्रं दु॑दुह्रे॒ अह्र॑यः ।  
+> पयः॑ सहस्र॒सामृषि॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । प्रत्नाम् । अनु । द्युतम् । शुक्रम् । दुदुह्रे । अह्रयः ।  
+> पयः । सहस्रऽसाम् । ऋषिम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सोमस्य प्रत्नां पुराणां द्युतं द्योतमानां तनुम् अनु शुक्रं दीप्तं सहस्रसाम् अभिलषितस्यापरिमितस्य दातारम् ऋषिम् अतींद्रियस्य कर्मफलस्य द्रष्टारं पयः पातव्यं रसम् अह्रयः कवयः दुदुहे दुहंति ॥
+
+##### Gist of the bhāṣya
+
+Of this Soma, towards his ancient, shining body, the poets (kavis) milk the bright, radiant juice, the drink to be drunk, which gives without measure what is desired and is the seer (ṛṣi), the beholder of the fruit of rites beyond the senses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Soma-deva
+- प्रश्नां (*praśnāṃ*)—ancient **NOTE**
+- द्युतं (*dyutaṃ*)—shining; from the body that is both
+- अनुशुक्रं (*anuśukraṃ*)—radiant
+- सहस्रसां (*sahasrasāṃ*)—giver of unlimited desired objects
+- ऋषिं (*ṛṣiṃ*)—having vision of things beyond the senses
+- पयः (*payaḥ*)—fit for drinking; the juice
+- अह्रयुः (*ahrayuḥ*)—the poets
+- मधुहे (*madhuhe*)—they milk **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+From the ancient, shining body of this Soma-deva the poets milk the juice that is radiant, that gives unlimited desired objects, that has vision of things beyond the senses and that is fit for drinking.
+
+##### English translation
+Towards Soma's ancient body the seers milk the flashing fluid, the sage who grants a thousand boons,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सूर्य॑ इवोप॒दृग॒यं सरां॑सि धावति ।  
+> स॒प्त प्र॒वत॒ आ दिव॑म् ॥ २ ॥
+
+### Printed p. 151
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । सूर्यःऽइव । उपऽदृक् । अयम् । सरांसि । धावति ।  
+> सप्त । प्रऽवतः । आ । दिवम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः सूर्यइव यथा सूर्यः सर्वस्य लोकस्योपद्रष्टा तद्वत् कर्मणाम् उपदृक् उपद्रष्टा । अपि च अयं सोमः सरांसि । त्रिंशदुक्थपात्राणीति केचिद्वर्णयंति । अपरे तु त्रिंशदहोरात्राणि सरांसीति । तानि धावति गच्छति । तथा च यास्कः-’ तत्रैतद्याज्ञिका वेदयंते त्रिंशदुक्थपात्राणि माध्यंदिने सवन एकदेवतानि तान्येतस्मिन्काल एकेन प्रतिधानेन पिबंति तान्यत्र सरांस्युच्यंते । त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत्पूर्वपक्षस्येति नैरुक्ताः' (निरु. ५ . ११ ) इति । अपि चायं सोमः दिवम् अधिकृत्य सप्त प्रवतः सप्त नदीः आ तिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+This Soma is like the sun: as the sun is the overseer of the whole world, so he is the overseer of rites. Further, this Soma runs to the "lakes" (sarāṃsi). Some explain these as the thirty uktha vessels, others as the thirty days and nights. Yāska accordingly says (Ni. 5.11): the performers of sacrifice hold that there are thirty uktha vessels at the midday pressing, all with one deity, which at that time are drunk with a single pratidhāna, and these are here called lakes; the etymologists (Nairuktas) say that they are the thirty days and nights of the dark fortnight and the thirty of the bright fortnight. Moreover this Soma, turning to heaven, goes to the seven flowing rivers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this Soma-deva
+- सूर्य इव (*sūrya iva*)—like the sun, the eye of the world
+- उपदृक् (*upadṛk*)—is one who has the power to see everything
+- अयं (*ayaṃ*)—this Soma-deva
+- सरांसि (*sarāṃsi*)—the lakes in the form of the vessels
+- धावति (*dhāvati*)—he enters swiftly
+- दिवं (*divaṃ*)—facing the sky
+- प्रवतः (*pravataḥ*)—flowing
+- सप्त (*sapta*)—the seven rivers
+- आ (तिष्ठति) (*ā (tiṣṭhati)*)—goes and joins
+
+##### भावार्थ (Bhāvārtha)
+
+Like the sun, the eye of the world, this Soma-deva has the power to see everything. This Soma-deva goes and joins the vessels that are like lakes. He goes and joins the seven rivers that flow towards the sky.
+
+##### English translation
+He like the sun is the supervisor (of all acts) : he hastens to the lakes, he unites with the seven down-descending rivers from heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं विश्वा॑नि तिष्ठति पुना॒नो भुव॑नो॒परि॑ ।  
+> सोमो॑ दे॒वो न सूर्यः॑ ॥ ३ ॥
+
+### Printed p. 152
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । विश्वानि । तिष्ठति । पुनानः । भुवना । उपरि ।  
+> सोमः । दिवः । न । सूर्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः अयं सोमः विश्वानि सर्वाणि भुवना भुवनानि सर्वेषां भुवनानाम् उपरि तिष्ठति । तत्र दृष्टांतमाह । देवो न सूर्यः । यथा सूर्यो देवः सर्वेषां भुवनानामुपरि तिष्ठति तद्वदयं सोमोऽपीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, being purified, stands above all the worlds. He gives the illustration: like the divine sun. As the sun, a god, stands above all the worlds, so does this Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनान' (*punāna '*)—the purifier
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma-deva
+- विश्वानि (*viśvāni*)—all
+- भुवना (*bhuvanā*)—surpassing the worlds
+- देवः (*devaḥ*)—radiant
+- सूर्यः न (*sūryaḥ na*)—like the sun-deva
+- उपरि (*upari*)—in the highest region
+- तिष्ठति (*tiṣṭhati*)—he stands
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, the purifier, surpasses all the worlds and stands in the highest region like the radiant sun-deva.
+
+##### English translation
+The purified Soma, like the divine sun, abides above all regions. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ णो दे॒ववी॑तये॒ वाजाँ॑ अर्षसि॒ गोम॑तः ।  
+> पु॒ना॒न इं॑दविंद्र॒युः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । नः । देवऽवीतये । वाजान् । अर्षसि । गोऽमतः ।  
+> पुनानः । इंदो इति । इंद्रऽयुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम इंद्रयुः इंद्रकामः पुनानः पूयमानस्त्वं नः अस्माकं देववीतये यज्ञाय गोमत: गोयुक्तानि वाजान् अन्नानि परि अर्षसि परितः क्षरेत्यर्थः ॥ ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, desiring Indra and being purified, flow all around for our sacrifice (devavīti) the foods that are accompanied by cows (gomat).
+
+### Printed p. 153
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- इंद्रयुः (*iṃdrayuḥ*)—desiring Indra, and
+- पुनानः (*punānaḥ*)—the purifier
+- नः (*naḥ*)—our
+- देववीतये (*devavītaye*)—for the sacrifice
+- गोमतः (*gomataḥ*)—accompanied by cows
+- वाजान् (*vājān*)—foods
+- परि अर्षसि (*pari arṣasi*)—provide all around
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who long for Indra and who are the purifier, provide all around (abundantly) for our sacrifice foods accompanied by cows.
+
+##### English translation
+Purified Indu, who are devoted to Indra, pour down for our sacrifice food with milk and curds.
+
+## Sūkta 55 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यवंयवं नः' इति चतुर्ऋचमेकत्रिंशं सूक्तं काश्यपस्यावत्सारस्यार्षं गायत्रं पवमानसोमदेवताकम् । ‘यवंयवम्' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यवंयवं (*yavaṃyavaṃ*) has four ṛks and is the thirty-first sūkta. Its seer is Avatsāra, of the Kāśyapa line; its metre is Gāyatra and its deity is Pavamāna Soma. The Anukramaṇī says यवंयवं (*yavaṃyavaṃ*). The use in the rite has already been stated.
+
+Translation: This sūkta beginning यवंयवं (*yavaṃyavaṃ*) is the thirty-first sūkta in the second anuvāka. It contains four ṛks. The seer of this sūkta is one called Kāśyapa Avatsāra; the deity is Pavamāna Soma; the metre is Gāyatrī. The Anukramaṇī says यवंयवं (*yavaṃyavaṃ*). The use in the rite has been stated before.
+
+Sūkta 55. Maṇḍala 9. Anuvāka 2. Sūkta 55. Aṣṭaka 7. Adhyāya 1. Varga 12. Number of ṛks in the sūkta: 4. Seer: Avatsāra. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+### Printed p. 154
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यवं॑यवं नो॒ अंध॑सा पु॒ष्टंपु॑ष्टं॒ परि॑ स्रव ।  
+> सोम॒ विश्वा॑ च॒ सौभ॑गा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यवम्ऽयवम् । नः । अंधसा । पुष्टम्ऽपुष्टम् । परि । स्रव ।  
+> सोम । विश्वा । च । सौभगा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नः अस्माकं पुष्टंपुष्टं बहुलं यवंयवं पुनःपुनर्युतं रसम् अंधसा अन्नात्मना परि स्रव धारया क्षर ॥ अत्र प्रार्थयितुस्तृष्णयात्यंतं पीडितत्वात्  आबाधे च ' (पा. सू. ८.१.१०) इति द्विर्भावः । पीडा प्रयोक्तृधर्मो नाभिधेयधर्म इत्युक्तम् ॥ अपि च विश्वा विश्वानि सौभगा सौभगानि धनानि परि स्रव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow for us, in the form of food, the abundant, again and again gathered juice; let it stream in a flow. Here the doubling (of यवं (*yavaṃ*) and पुष्टं (*puṣṭaṃ*)) is by the rule "also in the sense of distress" (Pā. Sū. 8.1.10), because the petitioner is greatly afflicted by thirst; the affliction belongs to the one who uses the word, not to what is denoted, as has been said. Further, flow all the good fortunes, that is, the riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- नः (*naḥ*)—to us
+- पुष्टंपुष्टं (*puṣṭaṃpuṣṭaṃ*)—exceedingly abundant
+- यवं (*yavaṃ*)—**NOTE**
+- यवं (*yavaṃ*)—the juice that has been gathered many times
+- अंधसा (*aṃdhasā*)—in the form of food
+- परिस्रव (*parisrava*)—cause to flow
+- विश्वा च (*viśvā ca*)—all
+- सौभगा (*saubhagā*)—blessings; provide them as well
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, cause the exceedingly abundant juice that has been gathered many times to flow for us in the form of food. Provide all blessings as well.
+
+##### English translation
+Soma, pour forth (in a stream of) food, abundant oft-collected (juice), and all good things
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदो॒ यथा॒ तव॒ स्तवो॒ यथा॑ ते जा॒तमंध॑सः ।  
+> नि ब॒र्हिषि॑ प्रि॒ये स॑दः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदो इति । यथा । तव । स्तवः । यथा । ते । जातम् । अंधसः ।  
+> नि । बर्हिषि । प्रिये । सदः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम अंधसः अन्नरूपस्य तव संबंधी स्तवः स्तवनं स्तोत्रं तथा ते तव जातं जन्म यथा प्रादुर्भूतमस्ति तथा त्वं प्रिये प्रीणयितरि बर्हिषि अस्मद्यागे नि षदः निषण्णो भव॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, as the praise (stava) of you, who are of the nature of food, and your birth have come about, so do you sit down on our sacrifice's grass (barhis) that gives you pleasure.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- अंधसः (*aṃdhasaḥ*)—who are in the form of food
+- तव (*tava*)—addressed to you
+- स्तवः (*stavaḥ*)—the praise
+- ते (*te*)—your
+- जातं (*jātaṃ*)—manifestation
+- यथा (*yathā*)—in whatever manner they are accomplished at one and the same time, so
+- प्रिये (*priye*)—that gives you pleasure
+- बर्हिषि (*barhiṣi*)—on the seat of darbha grass
+- नि षदः (*ni ṣadaḥ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, in whatever manner the praise addressed to you, who are in the form of food, and your manifestation are accomplished at one and the same time, in that manner sit down on the seat of darbha grass that gives you pleasure.
+
+##### English translation
+Indu, since the praise of you as food, since your birth (has appeared), sit down upon the grass that pleases (you).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ गो॒विद॑श्व॒वित्पव॑स्व सो॒मांध॑सा ।  
+> म॒क्षूत॑मेभि॒रह॑भिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । गोऽवित् । अश्वऽवित् । पवस्व । सोम । अंधसा ।  
+> मक्षुऽतमेभिः । अहऽभिः ॥ ३ ॥
+
+### Printed p. 157
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च हे सोम नः अस्माकं गोवित् गोप्रदः अश्ववित् अश्वप्रदश्च त्वं मक्षूतमेभिः मक्षुतमैरतिशयेन शीघ्रैः अहभिः अहोभिर्हेतुभिः अंधसा अन्नेन पवस्व धारया क्षर ॥
+
+##### Gist of the bhāṣya
+
+And, O Soma, you who give cows and give horses to us, flow with food in a stream, by reason of the exceedingly swift days.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- सोम (*soma*)—O Soma-deva
+- नः (*naḥ*)—to us
+- गोवित् (*govit*)—you who give cows
+- अश्ववित् (*aśvavit*)—and who give horses
+- मक्षूतमेभिः (*makṣūtamebhiḥ*)—swiftly going
+- अहभिः (*ahabhiḥ*)—on account of the days
+- अंधसा (*aṃdhasā*)—in the form of food
+- पवस्व (*pavasva*)—flow in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who give us cows and give horses, flow in the form of a stream on account of those swift-moving oblations. **NOTE**
+
+##### English translation
+And Soma, do you who are the giver of cattle, the giver of horses, flow to us in (a stream of) food as the days quickly pass.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो जि॒नाति॒ न जीय॑ते॒ हंति॒ शत्रु॑म॒भीत्य॑ ।  
+> स प॑वस्व सहस्रजित् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । जिनाति । न । जीयते । हंति । शत्रुम् । अभिऽइत्य ।  
+> सः । पवस्व । सहस्रऽजित् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सहस्रजित् असंख्यानां शत्रूणां जेतः सोम यः भवान् जिनाति शत्रून् हंति न जीयते स्वयं शत्रुभिर्न जीयते । न हन्यत इत्यर्थः । शत्रुमभीत्य शत्रुं स्वयमभ्येत्य हंति न च स्वयं शत्रुभिरभिभूयते सः त्वं पवस्व क्षर ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, conqueror of thousands, that is, of countless enemies, you who conquer, slay enemies and are not yourself conquered by enemies, that is, are not slain; who come upon the enemy yourself and slay him and are not overcome by enemies: such as you flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रजित् (*sahasrajit*)—O Soma who conquer countless enemies
+- यः (*yaḥ*)—you who
+- जिनाति (*jināti*)—conquer enemies
+- न जीयते (*na jīyate*)—but are not conquered by any enemies
+- शत्रुमभीत्य (*śatrumabhītya*)—fall upon the enemies
+- हंति (*haṃti*)—and slay
+- सः (*saḥ*)—such a you
+- पवस्व (*pavasva*)—flow in the form of a stream
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, conqueror of countless enemies, you who conquer enemies, are not conquered by any enemies, and fall upon enemies and slay them: such as you flow in the form of a stream.
+
+##### English translation
+Flow forth, O conqueror of thousands, who conquers but is not conquered, and attacking slays his foe.
+
+## Sūkta 56 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘परि सोमः' इति चतुर्ऋचं द्वात्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । परि सोमः' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परि सोमः (*pari somaḥ*) has four ṛks and is the thirty-second sūkta. The seer and the rest are as before. The Anukramaṇī says परि सोमः (*pari somaḥ*). The use in the rite has been stated.
+
 ---
 
-**Progress note:** Done through printed p. 149. Maṇḍala 9, Sūkta 52 Ṛk 3-5, Sūkta 53, start of 54 (pp. 143-149)
+**Progress note:** Done through printed p. 157. Mandala 9 sukta 54 rks 1-4, sukta 55, start of sukta 56
