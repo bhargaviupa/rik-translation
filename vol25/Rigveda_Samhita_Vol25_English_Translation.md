@@ -15649,6 +15649,271 @@ Mitra, Aryaman, and Varuna drink (the Soma), purified by the straining cloth, ab
 > उ॒तो न्व॑स्य॒ जोष॒माँ इंद्रः॑ सु॒तस्य॒ गोम॑तः ।  
 > प्रा॒तर्होते॑व मत्सति ॥ ६ ॥
 
+### Printed p. 404
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । नु । अस्य । जोषम् । आ । इंद्रः । सुतस्य । गोऽमतः ।  
+> प्रातः । होताऽइव । मत्सति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो अपि च इंद्रः सुतस्य अस्माभिरभिषुतस्य गोमतः गव्यैर्मिश्रणवतः अस्य । अन्वादेशः । पूर्ववद्दशापवित्रेण पूतस्य सोमस्य जोषं पानरूपां सेवां प्रातः प्रातःसवने नु क्षिप्रम् आ मत्सति । मदि स्तुत्यादिषु । आभिमुख्येन स्तौति । यद्वा । सोमसेवां कामयते । तत्र दृष्टांतः । होतेव । यथा होता प्रातःसवने देवानभिष्टौति देवान् स्तोतुं वाभिवांछति ॥ ॥ २८ ॥
+
+##### Gist of the bhāṣya
+
+उतो (*uto*) means "moreover": Indra, of this Soma pressed by us and गोमतः (*gomataḥ*), that is, mixed with cow-products, and purified as before by the ten-strand filter, जोषं (*joṣaṃ*), the service in the form of drinking, प्रातः (*prātaḥ*), at the morning pressing, नु (*nu*), quickly, आ मत्सति (*ā matsati*): the root मदि (*madi*) is used in the sense of praise and the like; he praises, facing it. Or else, he desires the service of Soma. The illustration is होतेव (*hoteva*): as the Hotṛ at the morning pressing praises the gods, or wishes to praise the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो (*uto*)—moreover
+- इंद्रः (*iṃdraḥ*)—Indra
+- सुतस्य (*sutasya*)—pressed by us
+- गोमतः (*gomataḥ*)—mixed with milk or curds, a product of the cow
+- अस्य (*asya*)—of this Soma-juice, purified by the ten-strand filter
+- जोषं (*joṣaṃ*)—the service in the form of drinking
+- होतेव (*hoteva*)—as the priest called the Hotṛ praises the gods at the morning pressing
+- प्रातः (*prātaḥ*)—at the time of the morning pressing
+- नु (*nu*)—quickly
+- आ मत्स्यति (*ā matsyati*)—praises, or desires the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+Moreover Indra too, at the time of the morning pressing, praises, as the Hotṛ praises the gods, the service of the Soma-juice that has been pressed by us, purified by the ten-strand filter and made ready mixed with milk or curds; or else he desires the drinking of the Soma.
+
+##### English translation
+Indra also is eager in the morning to drink this effused (Soma) mixed with milk, as a priest (to praise the gods).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कद॑त्विषंत सू॒रय॑स्ति॒र आप॑ इव॒ स्रिधः॑ ।  
+> अर्षं॑ति पू॒तद॑क्षसः ॥ ७ ॥
+
+### Printed p. 405
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । अत्विषंत । सूरयः । तिरः । आपःऽइव । स्रिधः ।  
+> अर्षंति । पूतऽदक्षसः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिर्मरुतो बहुवारं स्तुत्वेदानीमात्मानं वितर्कयति । सूरयः प्राज्ञाः आपइव उदकानीव तिरः यथोदकानि तिर्यग्गच्छंति तद्वत्तिरश्चीनगतयः संतः कत् कदा अत्विषंत । त्विष दीप्तौ । अंतरिक्षे कदा दीप्यंते । किंच स्रिग्धः शत्रूणां शोषका हंतारस्त इमे मरुतः पूतदक्षसः शुद्धबलाः संतः कदा वा अर्षंति । अस्मदीयं यज्ञं प्रत्यागच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The seer, having praised the Maruts many times, now reflects on himself. The सूरयः (*sūrayaḥ*) are the wise. आप इव (*āpa iva*), like waters, तिरः (*tiraḥ*): as waters flow sideways, so, moving obliquely, when, कत् (*kat*), do they shine, अत्विषंत (*atviṣaṃta*)? The root त्विष (*tviṣa*) is used in the sense of shining: when do they gleam in the sky? Moreover, स्रिग्धः (*srigdhaḥ*), they are the destroyers who dry up the enemies, these Maruts; being पूतदक्षसः (*pūtadakṣasaḥ*), of pure strength, when do they come? They come to our sacrifice. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूरयः (*sūrayaḥ*)—the wise ones (the Maruts)
+- आप इव तिरः (*āpa iva tiraḥ*)—with their gaze turned downwards, as water flows down to a low region
+- कत् (*kat*)—when
+- अत्विषंत (*atviṣaṃta*)—they look down at us from the lofty sky
+- स्निग्धः (*snigdhaḥ*)—these Maruts, who dry up their enemies
+- पूतदक्षसः (*pūtadakṣasaḥ*)—being of pure strength
+- अर्षंति (*arṣaṃti*)—when do they come towards our sacrifice?
+
+##### भावार्थ (Bhāvārtha)
+
+As flowing water runs downward to a low region, the wise Maruts have their gaze turned downwards. Therefore when will the Marut gods, the driers-up of enemies, of pure strength, come downward from the sky where they are to our place of sacrifice?
+
+##### English translation
+When do the sages flash like waters across (the sky) ? when do the Maruts, pure in vigour, destroyers of enemies, come to our offering ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कद्वो॑ अ॒द्य म॒हानां॑ दे॒वाना॒मवो॑ वृणे ।  
+> त्मना॑ च द॒स्मव॑र्चसाम् ॥ ८ ॥
+
+### Printed p. 406
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कत् । वः । अद्य । महानाम् । देवानाम् । अवः । वृणे ।  
+> त्मना । च । दस्मऽवर्चसाम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः महानां मंहनीयानां महतां वा त्मना च आत्मनैवालंकरणैर्विनापि दस्मवर्चसां दर्शनीयतेजस्कानामत एव देवानां द्योतमानानां वः युष्माकम् अवः पालनं कत् कदाहं वृणे संभजे । वृङ् संभक्तौ' । क्रैयादिकः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, of you who are महानां (*mahānāṃ*), honourable or great, त्मना (*tmanā*), by yourselves, even without ornaments, दस्मवर्चसां (*dasmavarcasāṃ*), of beautiful splendour, and therefore देवानां (*devānāṃ*), shining gods, अवः (*avaḥ*), your protection, कत् (*kat*), when shall I वृणे (*vṛṇe*), obtain? The root वृङ् (*vṛṅ*) is used in the sense of sharing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महानां (*mahānāṃ*)—(O Marut gods) of you who are of great nature, or excellent
+- त्मना च (*tmanā ca*)—by yourselves, without the help of any ornaments
+- दस्मवर्चसां (*dasmavarcasāṃ*)—shining with exceeding brilliance
+- देवानां (*devānāṃ*)—and shining
+- वः (*vaḥ*)—your
+- अवः (*avaḥ*)—protection
+- कत् (*kat*)—when
+- अद्य (*adya*)—in this sacrifice
+- वृणे (*vṛṇe*)—shall I obtain?
+
+##### भावार्थ (Bhāvārtha)
+
+O Marut gods, when shall I obtain in this place of sacrifice the protection of you, who are of great nature, who shine by your own radiance alone without the help of ornaments or the like, and who are divine in nature?
+
+##### English translation
+O shall I to-day possess your protection, mighty deities, beautifully bright in yourselves (though unadorned) ?
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ये विश्वा॒ पार्थि॑वानि प॒प्रथ॑न्रोच॒ना दि॒वः ।  
+> म॒रुतः॒ सोम॑पीतये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ये । विश्वा । पार्थिवानि । पप्रथन् । रोचना । दिवः ।  
+> मरुतः । सोमऽपीतये ॥ ९ ॥
+
+### Printed p. 407
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतः विश्वा विश्वानि पार्थिवानि पृथिव्यां भवानि भूतजातानि दिवः द्युलोकस्य रोचना रोचमानानि ज्योतींषि च आ पप्रथन् सर्वत्र विस्तारितान्यकार्षुः । ‘प्रथ प्रख्याने'। ण्यंतस्य चङि अत्स्मृदॄत्वरप्रथम्रदस्तॄस्पशाम् ' ( पा. सू. ७. ४. ९५ ) इत्यभ्यासस्यादादेशः ।  ‘ चङन्यन्यतरस्याम् ' इति स्वरेण मध्योदात्तः । तादृशान् मरुतः देवान् सोमपीतये सोमपानायाहमाह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+The Maruts who आ पप्रथन् (*ā paprathan*), spread everywhere, all पार्थिवानि (*pārthivāni*), that is, born on the earth, all created beings, and रोचना (*rocanā*), the shining lights of दिवः (*divaḥ*), the world of heaven: such Maruts, gods, I invoke for the drinking of Soma. The root प्रथ (*pratha*) is used in the sense of making known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये मरुतः (*ye marutaḥ*)—the Marut gods who
+- विश्वा (*viśvā*)—all
+- पार्थिवानि (*pārthivāni*)—belonging to the earth, that is, the multitude of creatures on the earth
+- दिवः (*divaḥ*)—of the world of heaven
+- रोचना (*rocanā*)—with the light, or with the shining stars
+- आ पप्रथन् (*ā paprathan*)—have made them pervaded and filled
+- मरुतः (*marutaḥ*)—such Marut gods
+- सोमपीतये (*somapītaye*)—I entreat and invoke for the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+The Marut gods who have made all the creatures in this world of earth shine, pervaded by the light of the sky or of heaven, such Marut gods I entreat and invoke for the drinking of Soma.
+
+##### English translation
+(We invoke) those Maruts to drink our Soma, who have spread out all the things of earth and the luminaries of heaven.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यान्नु पू॒तद॑क्षसो दि॒वो वो॑ मरुतो हुवे ।  
+> अ॒स्य सोम॑स्य पी॒तये॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यान् । नु । पूतऽदक्षसः । दिवः । वः । मरुतः । हुवे ।  
+> अस्य । सोमस्य । पीतये ॥ १० ॥
+
+### Printed p. 408
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः मितराविण एतन्नामका देवाः पूतदक्षसः परिशुद्धबलान् दिवः स्वतेजसा दीप्यमानान् । यद्वा । दिवो द्युलोकस्थितान् । त्यान् तान् प्रसिद्धान् वः युष्मान् नु क्षिप्रं हुवे आह्वयामि । किमर्थम् । अस्य अस्मदीयस्य सोमस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, gods of this name, मितराविण (*mitarāviṇa*), **NOTE** you, पूतदक्षसः (*pūtadakṣasaḥ*), of wholly pure strength, दिवः (*divaḥ*), shining with your own brilliance; or else दिवः (*divaḥ*) means those who stand in the world of heaven. त्यान् (*tyān*), those well-known you, नु (*nu*), quickly, I invoke, हुवे (*huve*). For what purpose? अस्य (*asya*), of this our Soma, पीतये (*pītaye*), for the drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Marut gods
+- पूतदक्षसः (*pūtadakṣasaḥ*)—of purified strength
+- दिवः (*divaḥ*)—shining by your own light, or
+- दिवः (*divaḥ*)—dwelling in the world of heaven
+- त्यान् (*tyān*)—well-known
+- वः (*vaḥ*)—you
+- नु (*nu*)—quickly
+- अस्य सोमस्य (*asya somasya*)—this Soma
+- पीतये (*pītaye*)—for drinking
+- हुवे (*huve*)—I entreat and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+O Marut gods, you who are of pure strength, who shine by your own light, who dwell in the world of heaven and are well known, I entreat and invoke you for the drinking of this Soma.
+
+##### English translation
+O Maruts, I invoke you, resplendent of pure vigour, to drink this Soma.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यान्नु ये वि रोद॑सी तस्त॒भुर्म॒रुतो॑ हुवे ।  
+> अ॒स्य सोम॑स्य पी॒तये॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यान् । नु । ये । वि । रोदसी इति । तस्तभुः । मरुतः । हुवे ।  
+> अस्य । सोमस्य । पीतये ॥ ११ ॥
+
+### Printed p. 409
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये मरुतः रोदसी द्यावापृथिव्यौ वि तस्तभुः स्वबलेनैवात्यर्थं स्तब्धे चक्रुः । ते रोदसी स्वाधीने अकार्षुरित्यर्थः। त्यान् तान् सर्वतः प्रसिद्धान् नु क्षिप्रमहं हुवे आह्वयामि । किमर्थम् । अस्य इत्यादि ।
+
+##### Gist of the bhāṣya
+
+The Maruts who वि तस्तभुः (*vi tastabhuḥ*), by their own strength alone made रोदसी (*rodasī*), heaven and earth, exceedingly firm: the meaning is that they made heaven and earth subject to themselves. त्यान् (*tyān*), those, famed on every side, नु (*nu*), quickly I invoke, हुवे (*huve*). For what purpose? अस्य (*asya*) and so on.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये मरुतः (*ye marutaḥ*)—the Marut gods who
+- रोदसी (*rodasī*)—heaven and earth
+- वि तस्तभुः (*vi tastabhuḥ*)—have established by their own power, that is, have made subject to themselves
+- त्यान् (*tyān*)—such famous Marut gods
+- नु (*nu*)—quickly
+- अस्य सोमस्य (*asya somasya*)—this Soma
+- पीतये (*pītaye*)—for drinking
+- हुवे (*huve*)—I entreat and invoke
+
+##### भावार्थ (Bhāvārtha)
+
+The Marut gods who by their own power have taken heaven and earth in hand and hold them in subjection to themselves, those famous Marut gods I quickly entreat and invoke to drink this Soma that I have made ready.
+
+##### English translation
+I invoke those Maruts to drink this Soma, who have established heaven and earth.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्यं नु मारु॑तं ग॒णं गि॑रि॒ष्ठां वृष॑णं हुवे ।  
+> अ॒स्य सोम॑स्य पी॒तये॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्यम् । नु । मारुतम् । गणम् । गिरिऽस्थाम् । वृषणम् । हुवे ।  
+> अस्य । सोमस्य । पीतये ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यं तं सर्वत्र विश्रुतं गिरिष्ठां गिरिषु मेघेषु पर्वतेषु वा तिष्ठंतं वृषणम् उदकानां कामानां वा वर्षितारं मारुतं मरुत्संबंधिनं गणं संघं हुवे बिंदुरहमाह्वयामि । किं प्रयोजनम् । अस्य अस्मदीयस्य सोमस्य पीतये पानाय ॥ ॥ २९ ॥
+
+##### Gist of the bhāṣya
+
+त्यं (*tyaṃ*), that group renowned everywhere, गिरिष्ठां (*giriṣṭhāṃ*), abiding in the गिरिषु (*giriṣu*), in clouds or mountains, वृषणं (*vṛṣaṇaṃ*), the rainer of waters or of wishes, the मारुतं (*mārutaṃ*) host of the Maruts, गणं (*gaṇaṃ*), the company, I, Bindu, invoke, हुवे (*huve*). For what purpose? अस्य (*asya*), of this our Soma, पीतये (*pītaye*), for the drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्यं (*tyaṃ*)—the well-known
+- गिरिष्ठां (*giriṣṭhāṃ*)—that moves in the mountain regions or among masses of cloud
+- वृषणं (*vṛṣaṇaṃ*)—that rains desires or water **NOTE**
+- मारुतं गणं (*mārutaṃ gaṇaṃ*)—the company of the Marut gods
+- अस्य सोमस्य (*asya somasya*)—of this Soma that I have made ready
+
 ---
 
-**Progress note:** Done through printed p. 403. Sūkta 94 (Maṇḍala 8) Ṛks 1-5, Ṛk 6 begun
+**Progress note:** Done through printed p. 409. Sūkta 94 Ṛks 6-12 (Pratipadārtha of Ṛk 12 cut at window end)
