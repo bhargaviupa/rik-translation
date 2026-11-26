@@ -3178,6 +3178,291 @@ Since, Indra, by your guidance, you have conducted men, your zealous worshippers
 Sāyaṇa says: O Indra, hostile (दुर्मित्रासो (*durmitrāso*)) and harassing people (क्षितयो (*kṣitayo*)) approach (पवंते (*pavaṃte*), the root पवतिर्गतिकर्मा (*pavatirgatikarmā*) denoting motion). Give (दशस्य (*daśasya*)) us wealth in these days (अहभिः (*ahabhiḥ*)).**NOTE**
 Moreover, whatever untruth (अनृतं (*anṛtaṃ*)) Varuṇa (वरुणो (*varuṇo*)), the destroyer of offences (अनेना (*anenā*)) and possessed of wisdom (मायी (*māyī*)), sees (चष्टे (*caṣṭe*)) in us, that untruth, O Indra, by your favour, may he release (सात् (*sāt*)) in two ways (द्विता (*dvitā*)). So also Yāska: स्तृतिरपस्कृत्यो विमोचते (*stṛtirapaskṛtyo vimocate*) (Vi. 1-16).**NOTE**
 
+### Printed p. 73
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- एभिः अहभिः (*ebhiḥ ahabhiḥ*)—in these good days
+- दुर्मित्रासः (*durmitrāsaḥ*)—our harassing
+- क्षितयः (*kṣitayaḥ*)—people
+- पवंते (*pavaṃte*)—whatever wealth they possess (seizing that wealth)
+- नः (*naḥ*)—to us
+- दशस्य (*daśasya*)—give
+- अनेनाः (*anenāḥ*)—the destroyer of sin
+- मायी (*māyī*)—the wise
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- यत् (*yat*)—whatever
+- अनृतं (*anṛtaṃ*)—untruth and the like
+- नः (*naḥ*)—in us
+- प्रतिचष्टे (*praticaṣṭe*)—he observes (all of that)
+- द्विता (*dvitā*)—doubled
+- अव सात् (*ava sāt*)—may be destroyed away from us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in these good days, seize whatever wealth our harassing enemies possess and give it to us. Whatever untruth and the like Varuṇa, the destroyer of sin and the wise one, observes in us, may all of it be doubly destroyed away from us.
+
+##### English translation
+Grant us, Indra, with these days, (wealth) for unfriendly men approach : may the untruth which the wise and sinless Varuna observes in us, (through your favour, Indra) doubly disappear.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो॒चेमेदिंद्रं॑ म॒घवा॑नमेनं म॒हो रा॒यो राध॑सो॒ यद्दद॑न्नः ।  
+> यो अर्च॑तो॒ ब्रह्म॑कृति॒मवि॑ष्ठो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वोचेम । इत् । इंद्रं । मघवानं । एनं । महः । रायः । राधसः । यत् । ददत् । नः ।  
+> यः । अर्चतः । ब्रह्मकृतिं । अविष्ठः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्य इंद्रो महो महतो राधसः संराधकस्य रायो धनस्य । द्वितीयार्थे षष्ठी । संराधकं महद्धनं नोऽस्मभ्यं ददत् प्रयच्छत् यश्चेंद्रोऽर्चतः स्तुवतो ब्रह्मकृतिं क्रियमाणं ब्रह्म स्तोत्रमविष्ठोऽतिशयेन रक्षिता गंता भवति तमेनं मघवानं धनवंतमिंद्रं प्रोचेमेत् । स्तुवेमैव । स्पष्टमन्यत् ॥
+> 10
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Indra gives us great and perfecting wealth (the genitive of "wealth" stands in the sense of the accusative), and he is the supreme protector of the worshipper's praise that is being made. That opulent, wealthy Indra we shall praise indeed. The rest is clear.
+
+### Printed p. 74
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—the Indra who
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—and venerable
+- रायः (*rāyaḥ*)—wealth
+- नः (*naḥ*)—to us
+- ददत् (*dadat*)—gives
+- यः (*yaḥ*)—the Indra who
+- अर्चतः (*arcataḥ*)—of the praising worshipper
+- ब्रह्मकृतिं (*brahmakṛtiṃ*)—the praise
+- अविष्ठः (*aviṣṭhaḥ*)—protects exceedingly
+- एनं (*enaṃ*)—such
+- मघवानं (*maghavānaṃ*)—wealthy
+- इंद्रं (*iṃdraṃ*)—Indra
+- प्रोचेम इत् (*procema it*)—we shall certainly praise (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+We shall certainly praise that wealthy Indra who gives us great and venerable wealth, and who exceedingly protects the praise of the praising worshipper. O Indra and the other gods, protect us always with blessings.
+
+##### English translation
+Let us glorify that opulent Indra, that he may give us great and valuable riches, he who is the chief protector of the pious rites of the worshipper : ever cherish us with blessings.
+
+## Sūkta 29 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोम इंद्रेति पंचर्चं द्वादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं । अयं सोम इत्यनुक्रांतं ॥ व्यूळ्हे दशरात्रे नवमेऽहन्ययं सोम इंद्रेति प्रउगशस्त्रे इंद्रस्तृचः । सूत्रितं च । अयं सोम इंद्र तुभ्यं सुन्व आ तु प्र ब्रह्माणः । आ. ८-११ । इति ॥ षोडशिशस्त्रे ब्रह्मन्वीरेत्येषा त्रिष्टुप् । सूत्रितं च । ब्रह्मन्वीर ब्रह्मकृतिं जुषाण इति त्रिष्टुप् । आ. ६-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the twelfth sūkta, अयं सोम इंद्र (*ayaṃ soma iṃdra*), of five Ṛks; the seer is Vasiṣṭha, the deity Indra, the metre Triṣṭubh; the Anukramaṇī names it "Ayaṃ Somaḥ". In the Vyūḍha daśarātra, on the ninth day, in the Praüga-śastra, the three Ṛks beginning अयं सोम इंद्र (*ayaṃ soma iṃdra*) form the Indra tṛca; it is taught in the sūtra (Ā. Sū. 8-11). In the Ṣoḍaśi-śastra, the Ṛk "Brahman vīra" is a Triṣṭubh; it is taught in the sūtra (Ā. Sū. 6-2).
+
+The Anuvāda says: this sūkta beginning "Ayaṃ Soma Indra" is the twelfth sūkta in the second anuvāka. It contains five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is described as "Ayaṃ Somaḥ". In the ten-night sacrifice called Vyūḍha, on the ninth day, the three Ṛks beginning "Ayaṃ Soma Indra" are to be recited in the Praüga-śastra mantras as the Indra-deity tṛca, as is explained by the Āśvalāyana-śrauta-sūtra in the sūtra "Ayaṃ Soma Indra tubhyaṃ sunva ā tu pra brahmāṇaḥ" (Ā. 8-11)
+
+### Printed p. 75
+
+and also in the Ṣoḍaśi-śastra mantras, the second Ṛk, "Brahman vīra", is to be recited for the Triṣṭubh-metre mantra, as is explained by the Āśvalāyana-śrauta-sūtra in the sūtra "Brahman vīra brahmakṛtiṃ juṣāṇa iti triṣṭup" (Ā. 6-2).
+
+Sūkta 29. Maṇḍala 7; Anuvāka 3; Sūkta 29. Aṣṭaka 5; Adhyāya 3; Varga 13. Number of Ṛks in the sūkta: 5. Seer: Vasiṣṭha. Deity: Indra. Metre: Triṣṭup. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं सोम॑ इंद्र॒ तुभ्यं॑ सुन्व॒ आ तु प्र या॑हि हरिव॒स्तदो॑काः ।  
+> पिबा॒ त्व१॒॑१स्य सुषु॑तस्य॒ चारो॒र्ददो॑ म॒घानि॑ मघवन्निया॒नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । सोमः । इंद्र । तुभ्यं । सुन्वे । आ । तु । प्र । याहि । हरिवः । तत्‌ओकाः ।  
+> पिब । तु । अस्य । सुऽसुतस्य । चारोः । ददः । मघानि । मघवन् । इयानः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तुभ्यं त्वदर्थमयमेष सोमः सुन्वे । अभिषुतोऽभवत् । हे हरिवो हरिवन्निंद्र तदोकाः । सवनीयो यस्यासौ तदोकाः । तु क्षिप्रमा प्र याहि । सुषुतस्य । सम्यगभिषुतस्य चारोः शोभनस्यास्य सोमस्य । द्वितीयार्थे षष्ठी । सम्यगभिषुतं शोभनमित्यर्थः । तु क्षिप्रं पिब च । अपि च हे मघवन् इयान उपगम्यमानो याच्यमानो वा त्वं मघानि धनानि ददः । अस्मभ्यं देहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, this Soma has been pressed for you, for your sake. O Hariva, lord of the bay steeds, come quickly to the place where it is prepared (the one whose house is the pressing-place). Drink quickly of this well-pressed, beautiful Soma (the genitive stands in the sense of the accusative: well-pressed, beautiful). And further, O Maghavan, being approached or solicited, give us riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तुभ्यं (*tubhyaṃ*)—for you
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma
+- सुन्वे (*sunve*)—is pressed and ready
+- हरिवः (*harivaḥ*)—O Indra, possessor of the horses called Hari
+- तदोकाः (*tadokāḥ*)—to that very house which is ready for worship
+- तु (*tu*)—quickly
+- आ प्र याहि (*ā pra yāhi*)—graciously come
+- सुषुतस्य (*suṣutasya*)—well pressed
+- चारोः (*cāroḥ*)—and charming
+- अस्य (*asya*)—this Soma
+- तु (*tu*)—quickly
+- पिब (*piba*)—drink
+- मघवन् (*maghavan*)—O wealthy Indra
+- इयानः (*iyānaḥ*)—when entreated
+- मघानि (*maghāni*)—riches to us
+- ददः (*dadaḥ*)—give
+
+### Printed p. 76
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma has been pressed and made ready for you. O Indra, possessor of the horses called Hari, come quickly to that very house which is ready for worship. Quickly drink this Soma, well pressed and charming. O wealthy Indra, whenever you are entreated by us, give us riches.
+
+##### English translation
+This Some is poured out, Indra, for you: come, lord of bay steeds, to that dwelling (where it is prepared : drink of the plentifully-effused and grateful libation) : give us, Maghavan, when solicited for them, riches,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॑न्वीर॒ ब्रह्म॑कृतिं जुषा॒णो॑ऽर्वाची॒नो हरि॑भिर्याहि॒ तूयं॑ ।  
+> अ॒स्मिन्नू॒ षु सव॑ने मादय॒स्वोप॒ ब्रह्मा॑णि शृणव इ॒मा नः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्मन् । वीर । ब्रह्मकृतिं । जुषाणः । अर्वाचीनः । हरिभिः । याहि । तूयं ।  
+> अस्मिन् । ऊं इति । सु । सवने । मादयस्व । उप । ब्रह्माणि । शृणवः । इमा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ब्रह्मन् परिवृढ वीरेंद्र ब्रह्मकृतिं क्रियमाणं स्तोत्रं जुषाणः सेवमानोऽर्वाचीनोऽस्मदभिमुखः सन् हरिभिरश्वैस्तूयं क्षिप्रं याहि । अस्मिन्नस्मिन्नेव सवने यज्ञे सु सुष्ठु मादयस्व च । नोऽस्मदीयानीमानि ब्रह्माणि स्तोत्राणि चोप शृणवः । उपशृणु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Brahman, O all-pervading hero Indra, accepting the praise that is being made, turn towards us and come quickly with your bay horses. At this very sacrifice, rejoice well. And hear these hymns of praise of ours, listen to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्मन् (*brahman*)—O growing one
+- वीर (*vīra*)—and valiant Indra
+- ब्रह्मकृतिं (*brahmakṛtiṃ*)—the praise made by us
+- जुषाणः (*juṣāṇaḥ*)—accepting
+- आर्वाचीनः (*ārvācīnaḥ*)—being turned towards us
+- हरिभिः (*haribhiḥ*)—with the horses
+- तूयं (*tūyaṃ*)—quickly
+- याहि (*yāhi*)—graciously come
+- अस्मिन्नु सवने (*asminnu savane*)—at this very sacrifice
+- सु (*su*)—exceedingly
+- मादयस्व (*mādayasva*)—be satisfied
+- नः (*naḥ*)—made by us
+- इमा ब्रह्माणि (*imā brahmāṇi*)—these praises
+- उप शृणवः (*upa śṛṇavaḥ*)—kindly hear
+
+### Printed p. 77
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, growing and valiant, accepting the praise made by us, turn towards us and come graciously with your horses. Remaining at this very sacrifice, find exceeding satisfaction. Kindly hear these praises made by us.
+
+##### English translation
+Magnified hero, Indra, approving of the sacred rite, come to us speedily with your steeds ; be exhilarated at this sacrifice : hear these our prayers.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> का ते॑ अ॒स्त्यरं॑कृतिः सू॒क्तैः क॒दा नू॒नं ते॑ मघवन्दाशेम ।  
+> विश्वा॑ म॒तीरा त॑तने त्वा॒याधा॑ नु इंद्र शृणवो॒ हवे॒मा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> का । ते । अस्ति । अरंकृतिः । सुऽउक्तैः । कदा । नूनं । ते । मघवन् । दाशेम ।  
+> विश्वाः । मतीः । आ । ततने । त्वाया । अध । मे । इंद्र । शृणवः । हवा । इमा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव सूक्तैरस्माभिः क्रियमाणैः स्तोत्रैररंकृतिरलंकृतिः कास्ति । कीदृशी भवति । हे मघवन् ते तव कदा नूनं कदा खलु दाशेम । प्रीतिमुत्पादयेम । त्वाया त्वत्कामनयैव विश्वा मतीः सर्वाः स्तुतीरा ततने । करोमि । अधातः कारणात् । हे इंद्र मे मदीयानीमानि हवा हवानि स्तोत्राणि शृणवः । शृणु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, what adornment is there for you from the hymns, the praises that are being made by us? What is it like? O Maghavan, when indeed may we offer to you, produce pleasure in you? Out of desire for you alone I compose all the praises. Therefore, O Indra, hear these my invocations, the praises; listen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—to you
+- सूक्तैः (*sūktaiḥ*)—by the praises made by us
+- अरंकृतिः (*araṃkṛtiḥ*)—the element of adornment
+- का अस्ति (*kā asti*)—what is there
+- मघवन् (*maghavan*)—O wealthy Indra
+- ते (*te*)—to you
+- कदा (*kadā*)—when
+- नूनं (*nūnaṃ*)—surely
+- दाशेम (*dāśema*)—shall we be able to offer oblations
+- त्वाया (*tvāyā*)—desiring you alone
+- विश्वाः (*viśvāḥ*)—all
+- मतीः (*matīḥ*)—the praises
+- आ ततने (*ā tatane*)—I compose
+- अध (*adha*)—therefore
+- इंद्र (*iṃdra*)—O Indra
+- मे (*me*)—my
+- इमा हवा (*imā havā*)—these praises
+- शृणवः (*śṛṇavaḥ*)—hear
+
+### Printed p. 78
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, what is the element of adornment for you in the praises made by us? O wealthy Indra, when shall we offer to you the oblation that is needed? I compose all the praises that desire you alone. Therefore, O Indra, hear these praises of mine.
+
+##### English translation
+What satisfaction is there to you from our hymns ? when Maghavan, may we indeed present to you (oblations) ? I expatiate in all praises addressed to you : hear, Indra, these my invocations.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो घा॒ ते पु॑रु॒ष्या॒३॒॑ इदा॑स॒न्येषां॒ पूर्वे॑षा॒मशृ॑णो॒र्ऋषी॑णां ।  
+> अधा॒हं त्वा॑ मघवञ्जोहवीमि॒ त्वं न॑ इंद्रासि॒ प्रम॑तिः पि॒तेव॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । घ । ते । पुरुष्याः । इत् । आसन् । येषां । पूर्वेषां । अशृणोः । ऋषीणां ।  
+> अध । अहं । त्वा । मघवन् । जोहवीमि । त्वं । नः । इंद्र । असि । प्रमतिः । पिताऽइव॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च । घेति पूरणः । हे मघवन् येषां पूर्वेषामृषीणां स्तुतीरशृणोः ते पूर्व ऋषयः पुरुष्या इत् पुरुषेभ्यो हिता एवासन् । अधातोऽहं त्वा त्वां जोहवीमि । भृशं स्तौमि । अपि च हे इंद्र त्वं नोऽस्माकं पितेव जनक इव प्रमतिर्बंधुरसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: "Uta" means "and also"; "gha" is a filler. O Maghavan, those ancient seers whose praises you heard were indeed beneficial to men. Therefore I call upon you, I praise you fervently. And further, O Indra, you are to us like a father, a kinsman of kindly mind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- मघवन् (*maghavan*)—O wealthy Indra
+- येषां (*yeṣāṃ*)—of whose
+- पूर्वेषां (*pūrveṣāṃ*)—ancient
+- ऋषीणां (*ṛṣīṇāṃ*)—seers' praises
+- अशृणोः (*aśṛṇoḥ*)—you heard and were pleased
+- ते (*te*)—all of them
+- पुरुष्या इत् (*puruṣyā it*)—were indeed beneficial to men
+- आसन् (*āsan*)—were
+- अध (*adha*)—therefore
+- अहं (*ahaṃ*)—I too
+- त्वा (*tvā*)—you
+- जोहवीमि (*johavīmi*)—call upon with entreaty
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- पितेव (*piteva*)—like a father
+- प्रमतिः (*pramatiḥ*)—a kinsman of loving mind
+- असि (*asi*)—are
+
 ---
 
-**Progress note:** Done through printed p. 72. VII.27.4-5, Sukta 28 Rks 1-4 (pp. 67-72)
+**Progress note:** Done through printed p. 78. Vii.28.4-5 end; 29.1-4
