@@ -28684,6 +28684,238 @@ This verse belongs to the ritual of the grandson of the waters, in the repeated 
 - गोषुयुधो न (*goṣuyudho na*)—like Indra, who fights for the cows
 - वंदस्व (*vaṃdasva*)—salute
 
+### Printed p. 807
+
+##### भावार्थ (Bhāvārtha)
+
+O sage, quickly salute the waters, like Indra who fights for the cows: the waters that have many streams, that return again, that certainly unite with Soma, that create and protect the world, that make Soma thrive, and that are born together with Soma.
+
+##### English translation
+Praise, Rishi, the waters like (those) of the cloud-warring Indra, falling in many showers returning, flowing to mix (with the Soma), the mothers of the world and its protectresses, augmenting and combining (with the Soma).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the ancillary rite of the sacrifice that is named after the grandson of the waters, when the waters are brought from the reservoir in the vessels called ekadhanā, this Ṛk beginning आवर्वृततीः (*āvarvṛtatīḥ*) has its application, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra आवर्वृततीरध द्विधारा इत्यावृत्तास्वेकधनासु (*āvarvṛtatīradha dvidhārā ityāvṛttāsvekadhanāsu*) (Ā. Sū. 5-1). And in that same context the next Ṛk, beginning हिनोता नः (*hinotā naḥ*), is also to be recited. The sūtra has been quoted before.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒नोता॑ नो अध्व॒रं दे॑वय॒ज्या हि॒नोत॒ ब्रह्म॑ स॒नये॒  ॑
+> धनानां ।  
+> ऋ॒तस्य॒ योगे॒ वि ष्य॑ध्व॒मूधः॑ श्रुष्टी॒वरी॑र्भूतना॒स्मभ्य॑मापः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिनोत । नः । अध्वरं । देवयज्या । हिनोत । ब्रह्म । सनये । धनानां ।  
+> यतस्य । योगे । वि । स्यध्वं । ऊधः । श्रुष्टीऽवरिः । भूतन । अस्मभ्यं । आपः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः हिनोत प्रहिणुत प्रगमयत प्रोत्सर्पयतैतमध्वरं यज्ञं
+> देवयज्या देवयज्याय्यै देवयजनार्थं । किंच प्रहिणुत ब्रह्म स्तुत्याख्यं यथा.
+
+### Printed p. 808
+
+> शास्त्रक्रमेण सनये लब्धये नोस्माकं धनानां । किंचर्तस्य यज्ञस्य योगे संयोगे यदेतदूधरिव सोमपूर्णमधिषवणचर्म वर्तते । अथवा योगसंबंधाच्छकटं योगः । तद्धि तत्रैव युज्यते । तेनाधिषवणचर्मण ऊधसोऽधस्तादवस्थितेनेति मन्यमानो निरुक्तकारो ब्रवीति याज्ञॆ शकट इति वा । नि. ६-२२ । इति।
+> यदेतद्यज्ञशकटस्याधस्तादुपरि वाधिषवणचर्म एतद्वि ष्यध्वं । विमुंचध्वं । ग्रहचमसस्थाल्यादिषु यो निषेकः सोमस्यैतद्विनोचनमधिषवणचर्मोधसः । तद्दि
+> सोम उत्सिच्यमाने श्लथीभवति यथेतरद्योरूधो दुह्यमानायां गवि ।
+> एवमृत्विज उक्ताधुनैन सोमसंमिश्रा अपो ब्रवीति । यूयमपि हे आपः एभिर्युत्विग्निरुत्सिच्यमानाः श्रुष्टीवरीः सुखवत्यो भूतन । भवतास्मभ्यं । एवमत्र
+> प्रशब्देनार्थस्य सुतरां प्रकटता भवतीति।भाष्यकारेण प्रशब्दोऽध्याह्नतः प्रहिणुतेति। आध्वरमित्यनेन संबंधाद्दिनोतेर्गत्यर्थत्वमुपपद्यते।एतस्या ऋचो व्याख्यानं निरुक्तटीकाया उद्धृतं ॥
+
+##### Gist of the bhāṣya
+
+O priests, send forth, advance, this sacrifice for the worship of the gods, that is, for the purpose of worshipping the gods. Further, send forth the praise in the manner of the śāstra, so that we may gain wealth. And at the yoga of the sacrifice, that is, at its conjunction, the hide used for pressing, which is filled with Soma like an udder, is there. Or else, by connection, the cart is the yoga, for the hide is yoked there. Thinking that the pressing-hide stands below that udder, the author of the Nirukta says "the cart of the sacrifice" (Ni. 6-22). This pressing-hide, below or above the sacrificial cart, release it. The pouring of Soma into the cups, vessels and dishes is the releasing of the udder-like pressing-hide; for when Soma is poured out it becomes slack, as the udder of a cow that is being milked. Having thus addressed the priests, he now addresses the waters mixed with Soma: you also, O waters, poured out by these priests, be happy and bring happiness to us. By the word that is supplied here, the sense becomes very plain; therefore the commentator supplied the word "send forth"; and by its connection with the sacrifice, the sense of motion for the root is fitting. The explanation of this Ṛk is taken from the commentary on the Nirukta.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः अध्वरं (*naḥ adhvaraṃ*)—(O priests) our sacrifice
+- देवयज्या (*devayajyā*)—for the worship of the gods
+- हिनोत (*hinota*)—urge on
+- ब्रह्म (*brahma*)—our praise
+- नः (*naḥ*)—for us
+- धनानां (*dhanānāṃ*)—of riches
+- सनये (*sanaye*)—urge on for the gain
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योगे (*yoge*)—at the time of performance
+- ऊधः (*ūdhaḥ*)—the udder
+- विश्यध्वं (*viśyadhvaṃ*)—release, and let the milk flow
+- आपः (*āpaḥ*)—O waters
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- श्रुष्टीवरीः (*śruṣṭīvarīḥ*)—givers of happiness
+- भूतन (*bhūtana*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, urge on our sacrifice for the worship of the gods. Urge on our praise for our gain of riches. At the time of the performance of the sacrifice, release the udder and let the milk flow. O waters, be givers of happiness to us.
+
+##### English translation
+Direct our sacrifice to the worship of the gods; direct our adoration to the acquirement of wealth; open the udder on the occasion of (this) rite; be to us, waters, the givers of felicity.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given the derivation for this Ṛk. Following the sense of the Nirukta, the commentator has given here the explanation of Durgācārya: प्रहिणुत नोऽध्वरं देवयज्यायै । प्रहिणुत ब्रह्म धनस्य सवनाय । ऋतस्य योगे यज्ञस्य योगे याज्ञे शकट इति वा । शकटं शकृदितं भवति (*prahiṇuta no 'dhvaraṃ devayajyāyai | prahiṇuta brahma dhanasya savanāya | ṛtasya yoge yajñasya yoge yājñe śakaṭa iti vā | śakaṭaṃ śakṛditaṃ bhavati*)
+
+### Printed p. 809
+
+शनकैस्तकतीति वा शब्देन तकतीति वा । श्रुष्टिवरीर्भूतनास्मभ्यमापः । सुखवत्यो भवतास्मभ्यमापः ॥ (*śanakaistakatīti vā śabdena takatīti vā | śruṣṭivarīrbhūtanāsmabhyamāpaḥ | sukhavatyo bhavatāsmabhyamāpaḥ ‖*) (Ni. 6-22). O priests, urge on this sacrifice, which we are performing addressed to the gods, so that it is well accomplished. Urge on the hymns of praise which we recite for the gain of wealth, so that they approach the gods. यतस्य योगे (*yatasya yoge*) means: while the sacrificial rite is being performed. **NOTE** Or, in the sense of joining the sacrificial rites together, योगे (*yoge*) can also mean a cart; a cart is a śakaṭa. This word śakaṭa gives the meaning that the cart is smeared with the dung of the oxen that draw it, or that it moves slowly, or that it moves making a creaking sound; therefore it has the name śakaṭa. The prayer that the waters may be givers of happiness to us is stated in the last pāda.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आपो॑ रेवतीः॒ क्षय॑था॒ हि वस्यः॒ क्रतुं॑ च भ॒द्रं बि॑भृ॒थामृतं॑ च ।  
+> रा॒यश्च॒ स्थ स्व॑प॒त्यस्य॒ पत्निः॒ सर॑स्वती॒ तद्गृ॑ण॒ते वयो॑ धात् ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपः । रेवतीः । क्षयथ । हि । वस्वः । क्रतुं । च । भद्रं । बिभृथ । अमृतं । च ।  
+> रायः । च । स्थ । सुऽअपत्यस्य । पत्निः । सरस्वती । तत् । गृणते । वयः । धात् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रातरनुवाकस्यापो रेवतीरित्येषा प्रतिपत् । सूत्रितं च । आपो रेवतीः
+> क्षयथा हि वस्व उपप्रयंत इति सूक्ते । आ. ४-१३ । इति ॥
+> हे आपो रेवती रेवत्यो धनवत्यः यूयं वस्वो वसुनो धनस्य क्षयथ
+> ओ । ईशिध्वे खलु । किंच भद्रं भजनीयं क्रतुं च सोमयागादिलक्षणं कर्म
+> चामृतं चामरणरूपं तज्जन्यफलं च बिभृथ । धारयथ । पुष्टिथ वा । तथा
+> रायश्च धनस्य च स्वपत्यस्य शोभनपुत्रस्य च पत्निः पत्न्यः पालयित्र्यः स्थ । भवथ ।
+> तथा सरस्वती तदभिमानिनी देवता गृणते स्तुवते मह्यं तदिदं सर्वं वयोऽन्नलक्षणं धनं धात् । ददातु ॥
+
+##### Gist of the bhāṣya
+
+For the Prātaranuvāka, this verse beginning आपो रेवतीः (*āpo revatīḥ*) is the opening verse (pratipad). It is also laid down in the sūtra: आपो रेवतीः क्षयथा हि वस्व उपप्रयंत इति सूक्ते (*āpo revatīḥ kṣayathā hi vasva upaprayaṃta iti sūkte*) (Ā. Sū. 4-13). O waters, you who are rich, that is, wealthy: you indeed rule over wealth. Further, you bear what is to be resorted to, the auspicious rite in the form of the Soma sacrifice and the like, and immortality, that is, freedom from death, and the fruit produced by it; or else, you nourish it. Likewise you are the protectresses of wealth and of good offspring, that is, of good sons. And Sarasvatī, the deity presiding over it, may give to me, who praise, all this, the vigour in the form of food, which is wealth.
+
+### Printed p. 810
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O waters
+- रेवतीः (*revatīḥ*)—you who are rich
+- वस्वः (*vasvaḥ*)—of wealth
+- क्षयथ हि (*kṣayatha hi*)—you are lords
+- भद्रं (*bhadraṃ*)—auspicious
+- क्रतुं च (*kratuṃ ca*)—and the rite
+- अमृतं च (*amṛtaṃ ca*)—and immortality
+- बिभृथ (*bibhṛtha*)—you bear
+- रायश्च (*rāyaśca*)—of wealth
+- स्वपत्यस्य (*svapatyasya*)—and of excellent sons and the rest
+- पत्नीः (*patnīḥ*)—as protectresses
+- स्थ (*stha*)—you are
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- गृणते (*gṛṇate*)—to me who praise
+- तत् वयः (*tat vayaḥ*)—all the food
+- धात् (*dhāt*)—may she give
+
+##### भावार्थ (Bhāvārtha)
+
+O water-deities, you who are rich are lords of wealth. You bear the auspicious rite and immortality. You are protectresses of wealth and of excellent sons and the rest. May the goddess Sarasvatī give all the food to me who praise.
+
+##### English translation
+Opulent waters, you rule over riches; you support good fortune. pious rites, and immortality ; you are the protectresses of wealth and of offspring : may Saraswati bestow all this opulence on him who praises you.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the Prātaranuvāka mantras, this Ṛk आपो रेवती (*āpo revatī*) is to be recited, joined at the beginning to the pratipad verses, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra आपो रेवतीः क्षयथा हि वस्व उप प्रयंत इति सूक्ते (*āpo revatīḥ kṣayathā hi vasva upa prayaṃta iti sūkte*) (Ā. Sū. 4-13).
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रति॒ यदापो॒ अदृ॑श्रमाय॒तीर्घृ॒तं पयां॑सि॒ बिभ्र॑ती॒र्मधू॑नि ।  
+> अ॒ध्व॒र्युभि॒र्मन॑सा संविदा॒ना इंद्रा॑य॒ सोमं॒ सुषु॑तं॒  ॑
+> भरंतीः ॥ १३ ॥
+
+### Printed p. 811
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रति । यत् । आपः । अदृश्रं । अयतीः । घृतं । पयांसि । बिभ्रतीः । मधूनि ।  
+> अध्वर्युभिः । मनसा । संविदानाः । इंद्राय । सोमं । सुसुतं । भरंतीः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपोनस्त्रीये प्रति यदाप इत्येषा । सूत्रितं च । प्रति यदापो अदृश्रमायतीरिति प्रतिदृश्यमानासु । आ. ५.१ । इति ॥
+> हे आपः आयतीरस्मद्यज्ञं प्रत्यागच्छंतीर्यत् ॥ सुपां सुलुगिति विभक्तेर्लुक् ॥ या युष्मान्प्रत्यदृशं प्रतिपश्यामि धृतं सोमसंसृष्टमाज्यं मधूनि
+> मधुसदृशानि मृष्टरसानि पयांस्युदकानि च संभूय बिभ्रतीयार्गकाले धारयंतीः तथाध्वर्युभिर्मनसांतःकरणेन संविदानाः संभाषमाणाः किंचेंद्रायेंद्रार्थं सुषुतं सुष्टु सुतं सोमं भरंतीर्धारयंतीः एवंभूतास्ता
+> युष्मान्सौमीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+In the rite of the grandson of the waters, the verse beginning प्रति यदाप (*prati yadāpa*) is used. It is laid down in the sūtra: प्रति यदापो अदृश्रमायतीरिति प्रतिदृश्यमानासु (*prati yadāpo adṛśramāyatīriti pratidṛśyamānāsu*) (Ā. Sū. 5.1). O waters, you who come to our sacrifice, when I behold you bearing ghee, that is, ghee mixed with Soma, and sweet things, that is, juices that are like honey and refined, and waters, all gathered together, bearing them at the time of the sacrifice; and likewise conversing with the adhvaryus mentally, with the inner organ; and further bearing for Indra the well-pressed Soma: such as you are, I behold you; the remainder is to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O water-deities
+- घृतं (*ghṛtaṃ*)—ghee
+- मधूनि (*madhūni*)—sweet juices
+- पयांसि (*payāṃsi*)—and waters
+- बिभ्रतीः (*bibhratīḥ*)—bearing
+- अध्वर्युभिः (*adhvaryubhiḥ*)—with the adhvaryus
+- मनसा (*manasā*)—in secret
+- संविदानाः (*saṃvidānāḥ*)—conversing
+- इंद्राय (*iṃdrāya*)—for Indra
+- सुसुतं (*susutaṃ*)—well pressed
+- सोमं (*somaṃ*)—Soma
+- भरंतीः (*bharaṃtīḥ*)—carrying
+- यत् (*yat*)—when
+- आयतीः (*āyatīḥ*)—you come to our sacrifice, then
+- प्रति अदृश्रं (*prati adṛśraṃ*)—I behold (you)
+
+##### भावार्थ (Bhāvārtha)
+
+O water-deities, bearing ghee, sweet juices and waters, conversing in secret with the adhvaryus, and carrying well-pressed Soma for Indra: when you come to the house of our sacrifice, then I behold you.
+
+##### English translation
+I behold you, waters, coming to (the sacrifice), conveying the butter, the water, the sweet (Soma-juices :) conversing mentally with the priests, and bringing the well-effused Soma for Indra.
+
+### Printed p. 812
+
+##### विशेषविषयगळु (Special Topics)
+
+In the rite of the grandson of the waters, this Ṛk beginning प्रति यदापः (*prati yadāpaḥ*) is to be recited, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra प्रति यदापो अदृश्रमायतीरिति प्रतिदृश्यमानासु (*prati yadāpo adṛśramāyatīriti pratidṛśyamānāsu*) (Ā. Sū. 5-6-1). **NOTE**
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एमा अ॑ग्ने॒वती॑र्जी॒वध॑न्या॒ अध्व॑र्यवः सा॒दय॑ता सखायः ।  
+> नि ब॒र्हिषि॑ धत्तन सोम्यासो॒ऽपां नप्ता॑ संविदा॒नास॑ एनाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इमाः । अग्मन् । रेवतीः । जीवधन्याः । अध्वर्यवः । सादयत । सखायः ।  
+> नि । बर्हिषि । धत्तन । सोम्यासः । अपां । नप्ता । संविदानासः । एनाः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपोनप्रीय एमा अग्न्निति द्वे । सूत्रितं च । एमा अग्न्नेवतीर्जीवधन्या इति द्वे सन्नासूत्तरया परिधाय । आ. ५-१ । इति ॥
+> रेवती रेवत्यो धनवत्यो जीवधन्या जीवानां पालयित्र्यः प्रीणयित्र्यो
+> वेमा ईदृग्भूता आप आग्मन् । अस्मद्यज्ञं प्रत्यागच्छन् । एतज्ञात्वा हे सखायः
+> सखिभूता हे अध्वर्यवः यूयमषां नप्रा वृष्टिकर्मस्वधिकृतेन देवेन सह
+> संविदानाः संमंत्रयमाणा एना एता अपः सादयत । स्थापयत। कुत्र सादयाम
+> इति उच्यते । सोम्यासः सोमसंपादिनोऽध्वर्यवः यूयं बर्हिषि वेद्यामास्तीर्णे कुशमये नि धत्तन । नियमेन स्थापयत ॥
+
+##### Gist of the bhāṣya
+
+In the rite of the grandson of the waters, two verses beginning thus are used; it is laid down in the sūtra: एमा अग्न्नेवतीर्जीवधन्या इति द्वे (*emā agnnevatīrjīvadhanyā iti dve*) (Ā. Sū. 5-1). These waters, rich, that is, wealthy, protecting the living, or gladdening them, such as they are, have come to our sacrifice. Knowing this, O friends, O adhvaryus who are your friends, you, conversing and taking counsel with the god who presides over the work of rain, the grandson of the waters, seat these waters, that is, establish them. If it is asked where we are to seat them, he says: O adhvaryus, who are ready with the Soma, place them firmly on the sacred grass, that is, on the grass of kuśa spread on the altar.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेवतीः (*revatīḥ*)—wealthy
+- जीवधन्याः (*jīvadhanyāḥ*)—protectresses of the living
+- इमाः (*imāḥ*)—these
+- आ अग्मन् (*ā agman*)—water-deities have come to our sacrifice
+- सखायः (*sakhāyaḥ*)—friendly
+- अध्वरवः (*adhvaravaḥ*)—O adhvaryus
+- सादयत (*sādayata*)—seat them on a seat
+- अपां नप्रा (*apāṃ naprā*)—with the god called Apāṃnapāt
+- संविदानाः (*saṃvidānāḥ*)—conversing
+- एनाः (*enāḥ*)—these water-deities
+- सोम्यासः (*somyāsaḥ*)—you who are like Soma
+- बर्हिषि (*barhiṣi*)—on the seat of sacred grass
+- नि धत्तन (*ni dhattana*)—seat them
+
 ---
 
-**Progress note:** Done through printed p. 806. Vol 27 pp. 801-806: Sūkta 30 Ṛk 6-10
+**Progress note:** Done through printed p. 812. Vol 27 pp. 807-812: Sūkta 30 Ṛk 10 end, Ṛk 11-14
