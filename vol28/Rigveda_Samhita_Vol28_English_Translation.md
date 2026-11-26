@@ -8579,6 +8579,244 @@ Who are the Viśvedevas? Whether this is a single group, or the complete assembl
 
 The seven seers, the Vasus, the Atharvans who are of divine nature, the Bhṛgus, Soma, Sūra, Pathyā Svasti, Heaven and Earth, Kuhū, Gungū, Aditi, Dhenu, Aghnyā, Asunīti, Iḷā, the Āptyas, Vidhātṛ, Anumati, the assembled Aṅgirases, Vaiśvānara, Suparṇa, Vivasvat, Prajāpati, Dyaus, Sudhanvan, Nagohya, Apāṃ Napāt, Aramyan, Vātajūti, Iḷaspati, Rathaspati, the Ṛbhus, Parjanya, the mountains,
 
+### Printed p. 290
+Gnā, Dakṣa, Bhaga, the wives of the gods, the deities of the directions, the Ādityas, the Rudras, the Pitṛs and the Sādhyas. (Bṛ. De. 8-125 to 128)
+
+If all the deities in this group are occasional (naimittika) deities, then to settle who the constant (nitya) deities are also becomes laborious. Deities such as Agni, Soma and Bṛhaspati are regularly praised in all the Vaiśvadeva sūktas. In speaking of the deities included in this section, that is, in the sūktas (5-41 to 46), the Bṛhaddevatā names only some of the deities. So one question is whether all the deities named there may be taken as occasional deities in these sūktas. Secondly, Yāska and others have shown a variety of opinion even about which deity is precisely praised in some mantras. It is like this.
+
+प्र सुष्टुतिः स्तनयंतं रुवंतमिळस्वंतं जरितर्नूनमश्याः । यो अब्बिमा उदनिमा इयर्ति प्र विद्युता रोदसी उक्षमाणः ॥ (*pra suṣṭutiḥ stanayaṃtaṃ ruvaṃtamiḷasvaṃtaṃ jaritarnūnamaśyāḥ | yo abbimā udanimā iyarti pra vidyutā rodasī ukṣamāṇaḥ ‖*)
+
+(Ṛ. Saṃ. 5-42-14)
+
+In this mantra there is praise of Iḷaspati. There is no settled opinion at all about who this Iḷaspati is. Sāyaṇa has explained इळः अन्नस्य उदकस्य ना पतिं स्वामिनं (*iḷaḥ annasya udakasya nā patiṃ svāminaṃ*) as "Parjanya, the lord of food or water". This is one view. The view of Yāska and others is given in the Bṛhaddevatā as follows:
+
+तमुष्टुहीति रौद्री तु प्र सुष्टुतिरिति त्वृचि । शौनकादिभिराचार्यैर्देवता बहुधेरिता । (*tamuṣṭuhīti raudrī tu pra suṣṭutiriti tvṛci | śaunakādibhirācāryairdevatā bahudheritā |*)
+
+इळस्पतिं शाकपूणिः पर्जन्याग्नी तु गालवः ॥ यास्कस्तु पूषणं मेने स्तुतमिंद्रं तु शौनकः । वैश्वानरं भागुरिस्तु मारुत्येष समाश्विनौ ॥ (*iḷaspatiṃ śākapūṇiḥ parjanyāgnī tu gālavaḥ ‖ yāskastu pūṣaṇaṃ mene stutamiṃdraṃ tu śaunakaḥ | vaiśvānaraṃ bhāguristu mārutyeṣa samāśvinau ‖*)
+
+(Bṛ. De. 5-38 to 40)
+
+As to who the deity named in the mantra quoted above is, Śaunaka and others have shown a variety of opinions. Śākapūṇi called it Iḷaspati; Gālava said Parjanya-Agni; Yāska said the god Pūṣan; Śaunaka held it to be Indra; Bhāguri said Vaiśvānara. Such is the variety of opinion. Likewise,
+
+तं प्रत्नथा पूर्वथा विश्वथेमथा ज्येष्ठतातिं बर्हिषदं स्वर्विदं । प्रतीचीनं वृजनं दोहसे गिराशुं जयंतमनु यासु वर्धसे ॥ (*taṃ pratnathā pūrvathā viśvathemathā jyeṣṭhatātiṃ barhiṣadaṃ svarvidaṃ | pratīcīnaṃ vṛjanaṃ dohase girāśuṃ jayaṃtamanu yāsu vardhase ‖*)
+
+(Bṛ. Saṃ. 5-44-1) **NOTE**
+
+### Printed p. 291
+In this mantra Sāyaṇa has said that तं (*taṃ*) means Indra, i.e. that there is praise of Indra. But the author of the Bṛhaddevatā, without stating precisely who the deity praised in this mantra is, has shown many alternatives.
+
+तं प्रत्नथेति सौमी ना दैन्यैंद्री ना प्रजापतेः । परोक्षवैश्वदेवं तदाह कौषीतकिः स्वयं ॥ (*taṃ pratnatheti saumī nā dainyaiṃdrī nā prajāpateḥ | parokṣavaiśvadevaṃ tadāha kauṣītakiḥ svayaṃ ‖*)
+
+(Bṛ. De. 5-44)
+
+The deity indicated in the mantra तं प्रत्नथा (*taṃ pratnathā*) may be Soma, or some other particular deity, or Indra; or if not that, Prajāpati may be the one indicated: thus the first half gives alternative meanings. In the second half, stating the opinion of the Kauṣītaki Brāhmaṇa, it cites the sentence spoken by Kauṣītaki, "In this mantra the Viśvedevas themselves are indicated indirectly" (Kau. Brā. 24-9). **NOTE**
+
+Thus, when there is no settled opinion even about the deity indicated in many mantras, it becomes laborious to determine in the present section (5-41-46) who are the constant deities and who the occasional deities that belong to the Vaiśvadeva group.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वे देवाः शास्त्रनेति षडृचं दशमं सूक्तं सौचीकस्याग्नेरार्षं वैश्वदेवं॥
+> गतः सूक्तविनियोगः ॥ सुग्रादापनात्पूर्वभाविनि जपे विनियुक्ता । सूत्रितं च । विश्वे
+> देवाः शास्त्रन मा यथेहाराधि होता निषदा यजीयान् । आ. १-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, विश्वे देवाः शास्त्रन (*viśve devāḥ śāstrana*), of six ṛks, has as its seer Agni, called Saucīka; its deity is the Viśvedevas (Vaiśvadeva). The use of the sūkta has been stated already. It is employed in the japa that precedes taking up the ladle (sruk). It is also laid down in the sūtra beginning विश्वे देवाः शास्त्रन (*viśve devāḥ śāstrana*) (Ā. Sū. 1-4).
+
+##### Anuvāda
+
+This sūkta, विश्वेदेवाः शास्त्रन (*viśvedevāḥ śāstrana*), is the tenth sūkta in the fourth anuvāka. It has six ṛks. Its seer is Agni, named Saucīka; its deity is the Viśvedevas. The metre is Triṣṭubh. The use of the sūkta has been stated earlier. The use of this sūkta is in the japa performed before taking up the wooden ladle called sruk for the ājya-homa; it is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, विश्वे देवाः शास्त्रन मा यथेहाराधि होता निषदा यजीयान् (*viśve devāḥ śāstrana mā yathehārādhi hotā niṣadā yajīyān*) (Ā. 1-4).
+
+Sūkta 52
+Maṇḍala 10; Anuvāka 4; Sūkta 52.
+Aṣṭaka 8; Adhyāya 1; Varga 12.
+Number of ṛks in the sūkta: 6.
+Ṛṣi: Agni Sācīka. **NOTE**
+Devatā: the Gods.
+Chandas: Triṣṭubh.
+
+### Printed p. 292
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ देवाः शा॒स्त्रन॑ मा॒ यथे॒ह होता॑ वृ॒तो म॒नवै॒ यन्नि॒षद्य॑ ।  
+> प्र मे॑ ब्रूत भाग॒धेयं॒ यथा॑ वो॒ येन॑ प॒था ह॒व्यमा ॒ ॑
+> वो वहानि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । देवाः । शास्त्रन । मा । यथा । इह । होता । वृतः । मनवै । यत् । निसद्य ॥  
+> प्र । मे । ब्रूत । भागधेयं । यथा । वः । येन । पथा । हव्यं । आ । वः ।  
+> वहानि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतत्तूक्तं कृत्स्नमाग्नेयं । हे विश्वे देवाः यूयं मा मां शास्त्रन ।
+> अनुज्ञां दत्त । यथेह यज्ञे होता देवानामाह्वाता सन् वृतो होतृत्वेन
+> वृतोऽहं मनवै सौमि भवतः । यद्यस्मान्निषद्य सौमि तस्माच्छास्तन । मे मम
+> भागधेयं प्र ब्रूत। यथा वो यूयं भागं कल्पितवंतः तथा तं भागं प्र ब्रूत
+> येन च पथा वो हव्यमा वहानि । वहनं करोमि ॥
+
+##### Gist of the bhāṣya
+
+The whole sūkta is addressed to Agni. "O Viśvedevas, you, मा (*mā*), to me, शास्त्रन (*śāstrana*), give permission. Since here, in the sacrifice, I have been chosen as hotṛ, the caller of the gods, I praise (मनवै (*manavai*), glossed in the text as सौमि भवतः (*saumi bhavataḥ*)) **NOTE** sitting, therefore instruct me. Declare my share (भागधेयं (*bhāgadheyaṃ*)), declare it as you have fixed the share, and the path by which I may carry the oblation to you; I perform the carrying."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे देवाः (*viśve devāḥ*)—O gods
+- यत् (*yat*)—for which reason
+- होता (*hotā*)—as hotṛ
+- वृतः (*vṛtaḥ*)—I have been chosen, therefore
+- इह (*iha*)—here
+- निषद्य (*niṣadya*)—sitting
+- यथा (*yathā*)—in what manner
+- मनवै (*manavai*)—I should praise, this
+- मा (*mā*)—to me
+- शास्त्रन (*śāstrana*)—instruct
+- यथा (*yathā*)—in what manner
+- वः (*vaḥ*)—you
+- मे (*me*)—to me
+- भागधेयं (*bhāgadheyaṃ*)—the share of the sacrifice, you have fixed
+- येन पथा (*yena pathā*)—by what path
+- वः (*vaḥ*)—your
+- हव्यं (*havyaṃ*)—oblation
+- आ वहामि (*ā vahāmi*)—may I convey to you, this also
+- प्र ब्रूत (*pra brūta*)—tell
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, since I have been chosen to the place of hotṛ, instruct me how, sitting here, I should praise you. Tell me also in what manner you have fixed the share of the sacrifice for me, and by what path I should convey your oblation to you.
+
+### Printed p. 293
+
+##### English translation
+Instruct me, Vishwedevas, since I am appointed Hotri, how sitting here I ought to praise you : declare to me your portion, how. you have acquired it, and by what path I may convey the oblation to you.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं होता॒ न्य॑सीदं॒ यजी॑या॒न् विश्वे॑ दे॒वा म॒रुतो॑ मा  
+> जुनंति ।  
+> अह॑रहरश्वि॒नाध्व॑र्यवं वां ब्र॒ह्मा स॒मिद्भ॑वति॒ साहु॑तिर्वां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । होता । नि । आसीदं । यजीयान् । विश्वे । देवाः । मरुतः । मा । जुनंति ॥  
+> अहःs अहः । अश्विना । आध्वर्यवं । वां । ब्रह्मा । संऽइत् । भवति । सा । आहुतिः ।  
+> नां ॥ २ ॥
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यजीयान् यष्टृतमोऽहं होता सन्न सीदं । निषण्णोऽस्मि । निषदने
+> तं निषण्णं विश्वे व्याप्ता मरुतो देवा जुनंति । प्रेरयंति हविर्वहनाय । हे
+> अश्विना वां युवयोराध्वर्यवमहरहः प्रतिदिनं कर्तव्यमिति शेषः । अध्वर्यवं
+> भवद्भ्यामनुज्ञातव्यमित्यर्थः । ब्रह्मा भवति भवतु । कः समित् समिद्धश्चंद्रमाः।
+> चंद्रमा ब्रह्मा भवतु । किंच सा । स इत्यर्थः । स च समित् समिद्धश्चंद्रमा वां युवयोर्होमार्थं वां युवाभ्यां क्रियमाणायाध्वरवकर्मण आहुतिर्भवत्त्वर्थः । सोमात्मको हि चंद्रमा हूयते । एष वै सोमो
+> राजेत्युपक्रम्य तदेवोभयं भवतीति हि च्छंदोगब्राह्मणं । अथवैवं योजना।
+> याहुतिराध्वर्यवमनुष्ठितवद्भ्यां होतव्या सा वां युवयोर्युवाभ्यां भवति।
+> भवतु। अध्वर्यवं नामित्यस्यैव विवरणमेतत् ॥
+
+##### Gist of the bhāṣya
+
+"I, यजीयान् (*yajīyān*), the one most fit to sacrifice, have sat down as hotṛ. To me thus seated, all, i.e. pervading, Maruts, the gods, give impulse (जुनंति (*junaṃti*)), urge me to carry the oblation. O Aśvins, your adhvaryu-office is to be performed day by day" ("is to be performed" is to be supplied): that is, the adhvaryu-office is to be permitted by you. "Let there be a Brahmā. Who? समित् (*samit*), the kindled moon; let the moon be Brahmā. And सा (*sā*), that is, he: that kindled moon is to be your oblation for the adhvara rite performed by you." For the moon, being of Soma's nature, is offered; the Chāndogya Brāhmaṇa says, beginning एष वै सोमो राजेत्युपक्रम्य तदेवोभयं भवतीति (*eṣa vai somo rājetyupakramya tadevobhayaṃ bhavatīti*). Or else the construction is this: the oblation that is to be offered by the two who have performed the adhvaryu-office, let that be yours. This is only an explanation of अध्वर्यवं (*adhvaryavaṃ*) नां (*nāṃ*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजीयान् (*yajīyān*)—worthy of sacrifice
+- अहं (*ahaṃ*)—I
+- होता (*hotā*)—as hotṛ
+- न्यसीदं (*nyasīdaṃ*)—am seated
+- विश्वे मरुतः देवाः (*viśve marutaḥ devāḥ*)—all the Maruts and gods, or all the Maruts who are divine in nature
+
+### Printed p. 294
+- जुनंति (*junaṃti*)—urge me to carry the oblation
+- अश्विना (*aśvinā*)—O Aśvin deities
+- वां (*vāṃ*)—by you
+- आहरहः (*āharahaḥ*)—every day
+- आध्वर्यवं (*ādhvaryavaṃ*)—the work of the adhvaryu (is to be performed)
+- समित् (*samit*)—the kindled (shining) moon (Soma)
+- ब्रह्मा भवति (*brahmā bhavati*)—let him be in the place of Brahmā
+- सा (*sā*)—that same Soma
+- वां (*vāṃ*)—to you
+- आहुतिः (*āhutiḥ*)—let him be the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+I, worthy of sacrifice, am seated as hotṛ. All the Maruts and gods, or all the Maruts who are divine in nature, urge me to carry the oblation. O Aśvin deities, the work of the adhvaryu is to be performed by you every day. Let Soma be in the place of Brahmā. Let that same Soma be the oblation for you.
+
+##### English translation
+Best entitled to the sacrifice, I have sat down as the Hotri : all the divine Maruts urge me (to bear the oblation) : the office of the Adhwaryu is to be discharged daily, Ashwins, by you : let the moon be the Brahman, and let it be also your oblation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं यो होता॒ किरु॒ स य॒मस्य॒ कमप्यू॑हे॒ यत्स॑मं॒जंति॑  ॒
+> देवाः ।  
+> अह॑रहर्जायते मा॒सिमा॒स्यथा॑ दे॒वा द॑धिरे हव्य॒वाहं॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयं । यः । होता । किः । ऊं इति । सः । यमस्य । कं । अपि । ऊहे । यत् ।  
+> संऽअंजंति । देवाः ॥  
+> अहःअहः । जायते । मासिमासि । अथ । देवाः । दधिरे । हव्यवाहं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽयं होता स किः । को भवति । कीदृशो भवति । तस्य को व्यापार
+> इत्यर्थः । तस्योत्तरमुच्यते । यमस्य मृत्योर्भीतः सन्निति शेषः । कमपि हुत-
+
+##### Gist of the bhāṣya
+
+"This one who is the hotṛ, स किः (*sa kiḥ*): who is he, of what sort is he, what is his function?" The answer is given: afraid of Yama, that is of death (this is to be supplied), he carries some offering.
+
+### Printed p. 295
+
+> मूहे । वहति । यद्वा । सर्वमृत्विग्जातं नियमयतीति यमो यजमानः । तस्य
+> कमपि हुतमूहे। वहति देवान्प्रति । यत्समंजंति यद्धविः प्राप्नुवंति देवाः ।
+> किंचाग्निरहरहः प्रतिदिनमग्निहोत्रार्थं जायते । प्रादुर्भवति । तथा मासिमासि
+> प्रतिमासं जायते पितृयज्ञार्थं । एतत्कालद्वयमुपलक्षणं पक्षचतुर्मासषण्माससंवत्सरादीनां । अपरे पुनरेवमाहुः । अहरहः सूर्यात्मना जायते मासि मासि
+> चंद्रात्मनेति । अथ तमिममग्निं देवा दधिरे हव्यवाहं । हविषां वोढारं । एवमग्निरात्मानं स्वयमेवोक्तवान् ॥
+
+##### Gist of the bhāṣya
+
+ऊहे (*ūhe*) means "bears". Or else: Yama is the sacrificer, who controls the whole group of ṛtviks; he carries some offering of his to the gods, which the gods receive (यत्समंजंति (*yatsamaṃjaṃti*)). Moreover Agni is born each day for the agnihotra, appears; so too he is born every month for the pitṛyajña. These two times are indicative of the fortnight, the four-month period, the six-month period, the year and so on. Others say: he is born day by day as the sun, month by month as the moon. Then the gods held this Agni, the bearer of oblations, the carrier of the offerings. Thus Agni has spoken of himself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः अयं होता (*yaḥ ayaṃ hotā*)—he who is this hotṛ
+- सः (*saḥ*)—he
+- किः (*kiḥ*)—who? what is his nature?
+- यमस्य (*yamasya*)—of the sacrificer who keeps the ṛtviks under control
+- यत् (*yat*)—which oblation
+- देवाः (*devāḥ*)—the gods
+- समंजंति (*samaṃjaṃti*)—receive; such
+- कमपि (*kamapi*)—all oblations
+- ऊहे (*ūhe*)—he carries
+- (Agni)
+- अहरहः (*aharahaḥ*)—every day
+- जायते (*jāyate*)—is born
+- मासिमासि (*māsimāsi*)—every month is born
+- अथ (*atha*)—therefore
+- देवाः (*devāḥ*)—the gods
+- हव्यवाहं (*havyavāhaṃ*)—the messenger who carries the oblation
+- दधिरे (*dadhire*)—hold (honour) and worship
+
+##### भावार्थ (Bhāvārtha)
+
+What is the nature of this Agni who is the hotṛ? Agni carries all those oblations of the sacrificer which the gods receive. This same Agni is born every day. Therefore the gods hold (honour) and worship the messenger who is the bearer of oblations.
+
+##### English translation
+Who is this, who is the Hotri ? (Afraid) of Yama, what offering does he bear that the gods accept ? Agni is born day by day; and month by month, and so the gods have made for themselves a bearer of oblations.
+
+##### विशेषविषयगळु (Special Topics)
+
+अहरहः (*aharahaḥ*)—every day; the rite called agnihotra has to be performed every day. Because Agni is produced or worshipped every day for it, it is said here that Agni is born every day. Likewise मासिमासि (*māsimāsi*)—every month: since the sacrifices such as the darśapūrṇamāsa are performed in every month, and for them it is prescribed that Agni be produced by churning in the araṇis at every sacrifice, it is explained here that Agni is born in every month.
+
 ---
 
-**Progress note:** Done through printed p. 289. pp. 284-289 (batch API)
+**Progress note:** Done through printed p. 295. pp. 290-295 (batch API)
