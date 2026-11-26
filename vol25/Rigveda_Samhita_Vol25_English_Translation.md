@@ -18809,6 +18809,226 @@ The sūkta त्वामिदा ह्यः (*tvāmidā hyaḥ*) of eight �
 
 Anuvāda: This sūkta त्वामिदा ह्यः (*tvāmidā hyaḥ*) is the sixth sūkta in the tenth Anuvāka. It has eight Ṛks. The seer of this sūkta is Nṛmedha; the deity is Indra. In this sūkta the Ṛks of odd number have the Bṛhatī metre; the Ṛks of even number have the Satobṛhatī metre. In the Anukramaṇī it is said त्वामिदाष्टौ प्रागाथं (*tvāmidāṣṭau prāgāthaṃ*). That on the day of the sacrifice called Cāturviṃśika, at the time of the midday pressing, the priest called Acchāvāka is to recite the Pragātha (two Ṛks) त्वामिदा ह्यः (*tvāmidā hyaḥ*) is stated in the Āśvalāyana Śrauta Sūtra (Ā. 7-4). In the Mahāvrata rite also, when reciting the Niṣkevalya Śastra mantras, this Pragātha is to be recited among the Ṛks of the Bṛhatī metre; this is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence त्वामिदा ह्यो नर इत्येतं प्रगाथं प्रत्यवदधाति (*tvāmidā hyo nara ityetaṃ pragāthaṃ pratyavadadhāti*) (Ai. Ā. 5-2-4). On the day of the sacrifice called Cāturviṃśika, at the time of the midday pressing, the priest called Brāhmaṇācchaṃsin is to recite the Pragātha त्रायंत इव (*trāyaṃta iva*) (Ṛks 3-4) as the optional Stotriya Pragātha; this is by the Āśvalāyana Śrauta Sūtra, the त्रायंत इव (*trāyaṃta iva*)
 
+### Printed p. 489
+
+सूर्यं बण्महा असि सूर्य (*sūryaṃ baṇmahā asi sūrya*) (Ā. 7-4) it is explained. Further, on the day called Cāturviṃśika, at the time of the midday pressing, the priest called Brāhmaṇācchaṃsin is to recite the Pragātha त्वमिंद्र प्रतूर्तिषु (*tvamiṃdra pratūrtiṣu*) (Ṛks 5-6); this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वमिंद्र प्रतूर्तिषु त्वमिंद्र यशा असि (*tvamiṃdra pratūrtiṣu tvamiṃdra yaśā asi*) (Ā. 7-4). On the same day of the sacrifice, when the Niṣkevalya Śastra mantras are recited, this same Pragātha, which is the source of the Vairāja, is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra तयोरक्रियमाणस्य योनिं शंसेद्वैरूपवैराजशाक्वरैवतानां च (*tayorakriyamāṇasya yoniṃ śaṃsedvairūpavairājaśākvaraivatānāṃ ca*) (Ā. 7-3).
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 10; Sūkta 99. Aṣṭaka 6; Adhyāya 7; Varga 3. Number of Ṛks in the sūkta: 8.
+
+Seer: Nṛmedhaḥ.
+
+Deity: Indraḥ.
+
+Metre: Prāgātha (the odd Ṛks Bṛhatī; the even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामि॒दा ह्यो नरोऽपी॑प्यन्वज्रि॒न्भूर्ण॑यः ।  
+> स इं॑द्र॒ स्तोम॑वाहसामि॒ह श्रु॒ध्युप॒ स्वस॑र॒मा ग॑हि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । इदा । ह्यः । नरः । अपीप्यन् । वज्रिन् । भूर्णयः ।  
+> सः । इंद्र । स्तोमऽवाहसाम् । इह । श्रुधि । उप । स्वसरम् । आ । गहि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रिन् इंद्र यं त्वां भूर्णयः हविर्भिर्भरणशीलाः नरः कर्मणां नेतारो यजमानाः इदा अद्य ह्यः च अपीप्यन् सोममपाययन् सः त्वं स्तोमवाहसां स्तोत्रवाहकानामस्माकं स्तोत्रम् इह यज्ञे श्रुधि शृणु। स्वसरं गृहं च । 'दुर्याः स्वसराणि' इति गृहनामसु पाठात् । उप आ गहि उपागच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Vajrin, Indra: the leaders of rites (नरः (*naraḥ*)), the sacrificers, who bear oblations (भूर्णयः (*bhūrṇayaḥ*)), have today (इदा (*idā*)) and yesterday (ह्यः (*hyaḥ*)) made you drink the Soma (अपीप्यन् (*apīpyan*)). You, such as you are, listen (श्रुधि (*śrudhi*)) here, at this sacrifice, to the praise of us who are bearers of praise (स्तोमवाहसां (*stomavāhasāṃ*)). स्वसरं (*svasaraṃ*) also means house, since दुर्याः स्वसराणि (*duryāḥ svasarāṇi*) is read among the names of the house. Come (उप आ गहि (*upa ā gahi*)) near to it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रिन् (*vajrin*)—O wielder of the thunderbolt
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—to you
+- भूर्णयः (*bhūrṇayaḥ*)—having vessels filled with oblations
+- नरः (*naraḥ*)—the sacrificers
+- इदा (*idā*)—now
+- ह्यः (*hyaḥ*)—and yesterday
+
+### Printed p. 490
+
+- अपीप्यन् (*apīpyan*)—have made drink the Soma
+- सः (*saḥ*)—you, so well known
+- स्तोमवाहसां (*stomavāhasāṃ*)—our praises, which we bear and offer
+- इह (*iha*)—in this sacrifice
+- श्रुधि (*śrudhi*)—listen
+- स्वसरं (*svasaraṃ*)—to our house of sacrifice also
+- उप आ गहि (*upa ā gahi*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, the sacrificers, holding vessels filled with oblations, have made you drink the Soma now and yesterday. You, so well known, listen in this sacrifice to our praises, which we bear and offer to you. Be gracious also to our house of sacrifice.
+
+##### English translation
+Thunderer, your worshippers, ready with their oblations, have to day and yesterday made you drink (the Soma) ; listen, Indra, here to us who offer you praise and come to our dwelling.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मत्स्वा॑ सुशिप्र हरिव॒स्तदी॑महे॒ त्वे आ भू॑षंति वे॒धसः॑ ।  
+> तव॒ श्रवां॑स्युप॒मान्यु॒क्थ्या॑ सु॒तेष्विं॑द्र गिर्वणः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मत्स्व । सुऽशिप्र । हरिऽवः । तत् । ईमहे । त्वे इति । आ । भूषंति । वेधसः ।  
+> तव । श्रवांसि । उपऽमानि । उक्थ्या । सुतेषु । इंद्र । गिर्वणः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुशिप्र शोभनहनो शोभनोष्णीषिन् वा हरिवः अश्ववन् गिर्वणः गीर्भिर्वननीय इंद्र त्वे त्वयि वेधसः परिचारकाः आ भूषंति आभवंति । मत्स्व सोमेन मादयात्मानम् । किंच तत् त्वां वयम् ईमहे याचामहे । किं याच्यमित्यत्राह। सुतेषु सोमेष्वभिषुतेषु सत्सु तव श्रवांसि अन्नानि उपमानि उपमानभूतानि उक्थ्या प्रशंस्यानि च संत्विति ॥
+
+##### Gist of the bhāṣya
+
+O Suśipra, one with fair jaws (शोभनहनो (*śobhanahano*)) or one with a fair turban (शोभनोष्णीषिन् (*śobhanoṣṇīṣin*)), O Harivan, possessor of horses, O Girvaṇas, Indra, who are to be served with songs: the attendants (वेधसः (*vedhasaḥ*)) gather round (आ भूषंति (*ā bhūṣaṃti*)) you. Rejoice (मत्स्व (*matsva*)) yourself with the Soma. And we beg (ईमहे (*īmahe*)) this of you. What is to be begged he says: when the Soma has been pressed (सुतेषु (*suteṣu*)), may your foods (श्रवांसि (*śravāṃsi*)) be a pattern (उपमानि (*upamāni*)) and worthy of praise (उक्थ्या (*ukthyā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुशिप्र (*suśipra*)—you of fair cheeks
+- हरिवः (*harivaḥ*)—you who have horses
+- गिर्वणः (*girvaṇaḥ*)—you who are worshipped with praises
+- इंद्र (*iṃdra*)—O Indra
+- त्वे (*tve*)—around you
+- वेधसः (*vedhasaḥ*)—the attendants
+
+### Printed p. 491
+
+- भूषंति (*bhūṣaṃti*)—stand surrounding you
+- मत्स्व (*matsva*)—be satisfied with the drinking of Soma, thus
+- तत् (*tat*)—you
+- ईमहे (*īmahe*)—we beg
+- सुतेषु (*suteṣu*)—at this time when the Soma juice is pressed
+- तव (*tava*)—your
+- श्रवांसि (*śravāṃsi*)—foods (oblations)
+- उपमानि (*upamāni*)—be a pattern
+- उक्थ्य (*ukthya*)—and worthy of praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you of fair cheeks, possessor of horses, worshipped with praises, the attendants stand surrounding you. "Be satisfied with the drinking of Soma", thus we beg you. At this time when the Soma juice is pressed, may your foods be a pattern and worthy of praise.
+
+##### English translation
+Handsome-jawed lord of steeds, rejoice (in the libation) ; we pray to you, your votaries come to you ; Indra, worthy of praise, may your food be a pattern and excellent.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रायं॑त इव॒ सूर्यं॒ विश्वेदिंद्र॑स्य भक्षत ।  
+> वसू॑नि जा॒ते जन॑मान॒ ओज॑सा॒ प्रति॑ भा॒गं न दी॑धिम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रायंतःऽइव । सूर्यम् । विश्वा । इत् । इंद्रस्य । भक्षत ।  
+> वसूनि । जाते । जनमाने । ओजसा । प्रति । भागम् । न । दीधिम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीया जनाः श्रायंतइव सूर्यं यथा समाश्रिता रश्मयः सूर्यं भजंते तथा इंद्रस्य विश्वेत् विश्वान्येव धनानि भक्षत भजत । स च यानि वसूनि धनानि जाते उत्पन्ने जनमाने जनिष्यमाणे च ओजसा बलेन करोति भागं न पित्र्यं भागमिव तानि धनानि प्रति दीधिम प्रतिधारयामेति । यद्वा । श्रयंतइव सूर्यं यथा समाश्रिता रश्मयः सूर्यमुपतिष्ठंते तथेंद्रस्य विश्वा विश्वानि विभक्तुमिच्छंतः समाश्रिता मरुत इंद्रमुपतिष्ठंत इति शेषः । उपस्थाय च मरुतो वसूनि उदकलक्षणानि धनानि जाते जातीय जनमाने जनिष्यमाणाय च मनुष्याय च ओजसा बलेन भक्षत विभजंते । तत्र चास्माकं यो भागस्तं भागम् । नेति संप्रत्यर्थे । प्रतीत्येषोऽन्वित्येतस्य स्थाने । अनु दीधिम वयमनुध्यायाम । तथा च यास्कः - ‘ समाश्रिताः सूर्यमुपतिष्ठंते । अपि वोपमार्थे स्यात्सूर्यमिवेंद्रमुपतिष्ठंत इति । सर्वाणींद्रस्य धनानि विभक्ष्यमाणाः । स यथा धनानि विभजति जाते च जनिष्यमाणे च वयं भागमनुध्यायाम ' (निरु. ६, ८) इति ॥
+
+##### Gist of the bhāṣya
+
+O people of ours: as the rays that have taken refuge (श्रायंतइव (*śrāyaṃtaiva*)) in the sun (सूर्यं (*sūryaṃ*)) partake of the sun, so partake (भक्षत (*bhakṣata*)) of all (विश्वेत् (*viśvet*)) the riches of Indra. And the riches (वसूनि (*vasūni*)) which he, by his might (ओजसा (*ojasā*)), makes for one already born (जाते (*jāte*)) and for one about to be born (जनमाने (*janamāne*)), those riches, like an ancestral share (भागं न (*bhāgaṃ na*)), we hold up (दीधिम (*dīdhima*)), that is, we hold fast. Or else: as the rays that have taken refuge in the sun attend the sun, so the Maruts, wishing to divide all (विश्वा (*viśvā*)) of Indra's riches, having taken refuge, attend Indra; this is what is to be supplied. Having attended him, the Maruts divide by his might the riches (वसूनि (*vasūni*)), which are of the nature of water, among one already born and a man about to be born; and of that, the share that is ours we meditate upon afterwards; here न (*na*) is in the sense of "now", and प्रति (*prati*) stands in place of अनु (*anu*). So Yāska says: "They that have taken refuge attend the sun. Or it may be in the sense of comparison: they attend Indra as they attend the sun, all of them partaking of Indra's riches. As he divides the riches among one born and one to be born, may we meditate upon the share" (Ni. 6, 8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्यं (*sūryaṃ*)—the sun
+- श्रायंत इव (*śrāyaṃta iva*)—as all the rays that rest on the sun attend the sun itself
+- विश्वेत् (*viśvet*)—all riches too
+- इंद्रस्य (*iṃdrasya*)—Indra himself
+- भक्षत (*bhakṣata*)—attend (the same Indra)
+- वसूनि (*vasūni*)—those riches
+- जाते (*jāte*)—that have been produced
+- जनमाने (*janamāne*)—and those that will be born hereafter, all beings
+- ओजसा (*ojasā*)—by his own might he divides
+- भागं न (*bhāgaṃ na*)—as sons look for a share in the property inherited from their father
+- प्रति दीधिमु (*prati dīdhimu*)—looking for our share in Indra's riches, let us meditate
+
+### Printed p. 492
+
+##### भावार्थ (Bhāvārtha)
+
+As all the rays that rest on the sun attend the sun itself, all riches too attend Indra himself. That same Indra divides those riches by his own might among all beings that have been produced and that will be born hereafter. As sons look for a share in the property inherited from their father, let us also look for our share in Indra's riches and meditate.
+
+##### English translation
+As the gathering (rays) proceed to the sun, so ( the Maruts proceed ) to Indra, and by their power divide all his treasures among those who have been or will be born ; may we meditate on our share.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning that all the Maruts attend Indra himself has also been given for विश्वेत् भक्षत (*viśvet bhakṣata*). The purport of the next sentence is that those same Maruts divide Indra's riches among all beings. In explaining the word श्रायंतः (*śrāyaṃtaḥ*), the Nirukta explains this mantra thus:—
+
+श्रायंतः । श्रायंत इव सूर्यं विश्वेदिंद्रस्य भक्षत । वसूनि जातेः जनमान ओजसा प्रति भागं स दीधिमु ॥ समाश्रिताः सूर्यमुपतिष्ठंतेः । अपि वोपमार्थेः स्यात् । सूर्यमिवेंद्रमुपतिष्ठंत इति । सर्वाणींद्रस्य धनानि विभक्षमाणाः । स यथा धनानि विभजति जाते च जनिष्यमाणे च । तं वयं भागमनुध्यायामौजसा बलेन । ओज ओजतेर्वोब्जतेर्वा ॥ (*śrāyaṃtaḥ | śrāyaṃta iva sūryaṃ viśvediṃdrasya bhakṣata | vasūni jāteḥ janamāna ojasā prati bhāgaṃ sa dīdhimu ‖ samāśritāḥ sūryamupatiṣṭhaṃteḥ | api vopamārtheḥ syāt | sūryamiveṃdramupatiṣṭhaṃta iti | sarvāṇīṃdrasya dhanāni vibhakṣamāṇāḥ | sa yathā dhanāni vibhajati jāte ca janiṣyamāṇe ca | taṃ vayaṃ bhāgamanudhyāyāmaujasā balena | oja ojatervobjatervā ‖*)
+
+### Printed p. 493
+
+(Ni. 6-8)
+
+Here the word श्रायंतः (*śrāyaṃtaḥ*) means "resting on". The sentence श्रायंत इव सूर्यं (*śrāyaṃta iva sūryaṃ*) means "as if resting on the sun". Two kinds of meaning can be given to this sentence. One meaning is that they rest on the sun itself and meditate on him; or this sentence may be taken as the sentence of comparison: as (the rays) rest on the sun, so all the riches of Indra, विश्वेदिंद्रस्य (*viśvediṃdrasya*), rest on Indra; that is, they are lodged in Indra. Indra divides all such riches among the creatures (people) born now and those that will be born hereafter. The meaning is this: as all living beings, those born now and those that will be born hereafter, enjoy the use of the rays of the sun, so all the riches that are in Indra are divided by Indra among all people, those born now and those that will be born hereafter. The riches of our share, which Indra divides out to us, let us obtain by our own power, that is, by praying to Indra; or let us pray to Indra that he, by his own power, give us our share of the riches that are in him. The chief purport of the explanation is that the word ओजः (*ojaḥ*), which denotes the meaning of power, can be formed from the root ओज् (*oj*) meaning "increase, be strong", or from the root उब्ज् (*ubj*) meaning "control, keep under restraint".
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन॑र्शरातिं वसु॒दामुप॑ स्तुहि भ॒द्रा इंद्र॑स्य रा॒तयः॑ ।  
+> सो अ॑स्य॒ कामं॑ विध॒तो न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनर्शऽरातिम् । वसुऽदाम् । उप । स्तुहि । भद्राः । इंद्रस्य । रातयः ।  
+> सः । अस्य । कामम् । विधतः । न । रोषति । मनः । दानाय । चोदयन् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः अनर्शरातिम् अपापकदानम् । अपापिष्ठस्य दातारमित्यर्थः। तथा च यास्कः -- ‘ अनर्शरातिमनश्लीलदानमश्लीलं पापकम्' (निरु. ६. २३) इति । वसुदां धनस्य दातारमिंद्रम् उप स्तुहि । यतः इंद्रस्य रातयः दानानि भद्राः कल्याणानि । महदैश्वर्यकारीणीत्यर्थः । यतश्च सः इंद्रः स्वकीयं मनः दानाय अभीष्टप्रदानाय चोदयन् प्रेरयन् विधतः परिचरतः अस्य स्तोतुः कामम् इच्छां न रोषति न हिनस्ति ।
+
+##### Gist of the bhāṣya
+
+O praiser: praise Indra, the giver of wealth (वसुदां (*vasudāṃ*)), who is अनर्शरातिम् (*anarśarātim*), one whose gift is not evil, that is, the giver of what is not evil. So Yāska says: "अनर्शरातिमनश्लीलदानमश्लीलं पापकम् (*anarśarātimanaślīladānamaślīlaṃ pāpakam*)" (Ni. 6. 23). **NOTE** Praise him, because Indra's gifts (रातयः (*rātayaḥ*)) are auspicious (भद्राः (*bhadrāḥ*)), that is, they bring great lordship; and because that Indra, urging (चोदयन् (*codayan*)) his own mind (मनः (*manaḥ*)) to the giving (दानाय (*dānāya*)) of what is desired, does not mar (न रोषति (*na roṣati*)), that is, does not injure, the desire (कामम् (*kāmam*)) of this praiser who serves (विधतः (*vidhataḥ*)) him.
+
+### Printed p. 494
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनर्शरातिं (*anarśarātiṃ*)—one who gives things free from sin and pure
+- वसुदां (*vasudāṃ*)—the giver of wealth, Indra
+- उप स्तुहि (*upa stuhi*)—praise (O praiser)
+- इंद्रस्य (*iṃdrasya*)—Indra's
+- रातयः (*rātayaḥ*)—gifts
+- भद्राः (*bhadrāḥ*)—are auspicious
+- सः (*saḥ*)—that same Indra
+- मनः (*manaḥ*)—his mind
+- दानाय (*dānāya*)—to giving
+- चोदयन् (*codayan*)—urging
+- विधतः (*vidhataḥ*)—who serves him
+- अस्य (*asya*)—of this praiser
+- कामं (*kāmaṃ*)—the desire
+- न रोषति (*na roṣati*)—does not break
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, praise Indra, who gives things free from sin and pure, and is the giver of wealth. Indra's gifts are auspicious. That same Indra, urging his mind to giving, does not break the desire of this praiser who serves him.
+
+##### English translation
+Praise him the bestower of wealth, whose gifts are never evil ; Indra's gifts are fortunate ; he directs his mind to the gift and mars not the desire of his worshipper.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska has given this explanation for the word अनर्शरातिं (*anarśarātiṃ*)—
+
+अनर्शरातिं । अनर्शरातिमनश्लीलदानमश्लीलं पापकमश्रिमद्विषमं । अनर्शरातिं वसुदामुपस्तुहि इत्यपि निगमो भवति ॥ (*anarśarātiṃ | anarśarātimanaślīladānamaślīlaṃ pāpakamaśrimadviṣamaṃ | anarśarātiṃ vasudāmupastuhi ityapi nigamo bhavati ‖*)
+
+(Ni. 6-33)
+
+अर्श (*arśa*) means indecent, sinful; अनर्श (*anarśa*) means what is not indecent, not sinful, excellent; रातिं (*rātiṃ*) means gift, giving. Therefore अनर्शरातिं (*anarśarātiṃ*) means a gift that is not indecent or not sinful or excellent. The purport is that the gift of wealth and the like which Indra gives to his devotees is not sinful and is excellent. In this matter this very Ṛk is the illustration of the passage.
+
 ---
 
-**Progress note:** Done through printed p. 488. Vol 25 pp. 483-488: Rigveda 8.98.7-12, 8.99 introduction
+**Progress note:** Done through printed p. 494. 8.99.1-4 with Special Topics
