@@ -5194,6 +5194,252 @@ O Agni, you whom all the praisers, gathered together, praise for the gain of foo
 ##### English translation
 O you whom the crowding worshippers praise for the obtainment of food, attend to them for the destruction of their enemies.
 
+### Printed p. 127
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं हु॑वा॒न आ॒र्क्षे श्रु॒तर्व॑णि मद॒च्युति॑ ।  
+> शर्धां॑सीव स्तुका॒विनां॑ मृ॒क्षा शी॒र्षा च॑तु॒र्णाम् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहम् । हुवानः । आर्क्षे । श्रुतर्वणि । मदऽच्युति ।  
+> शर्धांसिऽइव । स्तुकाऽविनाम् । मृक्षा । शीर्षा । चतुर्णाम् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहम् ऋषिः हुवानः हूयमानो यज्ञदिदृक्षार्थं श्रुतर्वणि एतन्नाम्नि राजनि मदच्युति शत्रूणां मदस्य च्यावयितरि स्तुकाविनाम् । स्तुकाविन ऊर्णायवः । स्तुकः केशसंघातः । तद्वतां शर्धांसीव उच्छ्रितानि लोमानीव तानि यथा स्पृशंति तद्वत् वृक्षा वृक्षाणि । वृश्च्यंत इति वृक्षाः केशाः । तद्वंति वृक्षाणि शीर्षा शीर्षाणि शिरांसि । केषाम् । चतुर्णां श्रुतर्वणा प्रदत्तानामश्वानां शिरांस्युन्मृजामीति शेषः । अथवा वृक्षा वृक्षेण । व्रश्चनसाधनत्वाद्वृक्षो हस्तः । तेनोन्मृजामि ॥
+
+##### Gist of the bhāṣya
+
+I, the seer, being invited (हुवानः (*huvānaḥ*)) in order to see the sacrifice, before the king named Śrutarvan, the one who makes the pride of enemies fall (मदच्युति (*madacyuti*)). स्तुकाविनाम् (*stukāvinām*): the owners of it are the woolly (sheep); स्तुकः (*stukaḥ*) is a mass of hair. As one touches the raised hairs (शर्धांसि (*śardhāṃsi*)) of those that have it, so I stroke (मृक्षा (*mṛkṣā*)) the heads (शीर्षा (*śīrṣā*)) of the four horses given by Śrutarvan; the वृक्षाः (*vṛkṣāḥ*) are hairs (that which is cut off), and the heads have them. Or else मृक्षा (*mṛkṣā*) is "with the hand", the hand being the instrument of cutting; with it I stroke.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आर्क्षे (*ārkṣe*)—the son of Ṛkṣa
+- मदच्युति (*madacyuti*)—the destroyer of the pride of enemies
+- श्रुतर्वणि (*śrutarvaṇi*)—before King Śrutarvan
+- हवानः (*havānaḥ*)—invited
+- अहं (*ahaṃ*)—I
+- स्तुकाविनां (*stukāvināṃ*)—of the plentifully grown sheep
+- शर्धांसीव (*śardhāṃsīva*)—as one strokes the wool
+- चतुर्णां (*caturṇāṃ*)—of the four horses given to me by Śrutarvan
+- शीर्षा (*śīrṣā*)—the heads
+- मृक्षा (*mṛkṣā*)—I stroke with my hand **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+I, invited before King Śrutarvan, the son of Ṛkṣa and the destroyer of the pride of enemies, stroke with my hand the heads of the four horses given to me by Śrutarvan, as one strokes the wool of plentifully grown sheep.
+
+##### English translation
+Summoned before Shrutarvan, the son of Riksha, the humbler of the
+
+### Printed p. 128
+
+pride of his enemies, (I stroke) with my hand the heads of the four horses (which he has given me), as (men stroke) the long wool of rams.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मां च॒त्वार॑ आ॒शवः॒ शवि॑ष्ठस्य द्रवि॒त्नवः॑ ।  
+> सु॒रथा॑सो अ॒भि प्रयो॒ वक्ष॒न्वयो॒ न तुग्र्य॑म् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माम् । चत्वारः । आशवः । शविष्ठस्य । द्रवित्नवः ।  
+> सुऽरथासः । अभि । प्रयः । वक्षन् । वयः । न । तुग्र्यम् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मां शविष्ठस्य अतिशयेनान्नवतः श्रुतर्वणो राज्ञः संबंधिनः चत्वारः आशवः अश्वाः द्रवित्नवः गमनशीलाः सुरथासः शोभनरथा अश्वाः प्रयः अन्नं शत्रूणां प्रति अभि वक्षन् अभिवहंति । वयो’ न तुग्र्यम्। भुज्युं यथाश्विभ्यां प्रेरिताश्चतस्रो नावः स्वगृहं प्रापयन् तद्वदिति ॥
+
+##### Gist of the bhāṣya
+
+The four swift horses (आशवः (*āśavaḥ*), द्रवित्नवः (*dravitnavaḥ*)) belonging to King Śrutarvan, the most strong-in-food (शविष्ठस्य (*śaviṣṭhasya*)), the horses with good chariots (सुरथासः (*surathāsaḥ*)), carry me towards the food of the enemies (प्रयः (*prayaḥ*)). As (वयो न तुग्र्यम् (*vayo na tugryam*)) the four ships sent by the two Aśvins carried Bhujyu to his own house, so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयः (*vayaḥ*)—the four ships given by the Aśvins
+- तुग्र्यं न (*tugryaṃ na*)—as they carried Bhujyu and brought him home
+- शविष्ठस्य (*śaviṣṭhasya*)—given by Śrutarvan, who has wealth of food
+- द्रवित्नवः (*dravitnavaḥ*)—swift
+- सुरथासः (*surathāsaḥ*)—yoked to an excellent chariot
+- चत्वारः आशवः (*catvāraḥ āśavaḥ*)—the four horses
+- मां (*māṃ*)—me
+- प्रयः अभि (*prayaḥ abhi*)—towards the food belonging to the enemies
+- वक्षन् (*vakṣan*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+As the four ships given by the Aśvins carried Bhujyu and brought him home, so the four horses, given by Śrutarvan, who has wealth of food, swift and yoked to an excellent chariot, carry me towards the food belonging to the enemies
+
+##### English translation
+Four swift horses of that most mighty king, yoked to a splendid car, bear me forth to seize the substance (of my enemies), as the ships bore home the son of Tugra.
+
+### Printed p. 129
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यमित्त्वा॑ महेनदि॒ परु॒ष्ण्यव॑ देदिशम् ।  
+> नेमा॑पो अश्व॒दात॑रः॒ शवि॑ष्ठादस्ति॒ मर्त्यः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यम् । इत् । त्वा । महेऽनदि । परुष्णि । अव । देदिशम् ।  
+> न । ईम् । आपः । अश्वऽदातरः । शविष्ठात् । अस्ति । मर्त्यः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे महेनदि परुष्णि एतन्नामिके त्वा त्वां सत्यमित् सत्यमेव अव देदिशम् आदिशामि वदामि । नद्याकारेण संबोध्यापः संबोधयति । हे आपः ईम् अस्मात् शविष्ठात् बलवत्तमाच्छ्रुतर्वणोऽधिकः कश्चित् अश्वदातरः अश्वानां दातृतमः मर्त्यः न अस्ति । परुष्ण्यास्तीरे राज्ञोऽश्वमेधप्रतिग्रहात्तां संबोध्य ब्रूते ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+O great river Parushṇī of that name, I declare to you the truth (सत्यमित् (*satyamit*)), I proclaim it. Addressing the waters in the form of a river, he addresses them: O waters, no mortal is a greater giver of horses than this most mighty Śrutarvan. Because the king accepted the horse-sacrifice gift on the bank of the Parushṇī, he addresses her.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परुष्णि (*paruṣṇi*)—O river of the name Parushṇī
+- महेनदि (*mahenadi*)—O river of great nature
+- त्वा (*tvā*)—before you
+- सत्यमित् (*satyamit*)—in truth
+- अव देदिशं (*ava dediśaṃ*)—I declare
+- आपः (*āpaḥ*)—O river waters
+- शविष्ठात् (*śaviṣṭhāt*)—more than this most mighty
+- ईं (*īṃ*)—Śrutarvan
+- अश्वदातरः (*aśvadātaraḥ*)—who gives horses
+- मर्त्यः (*martyaḥ*)—a man
+- न अस्ति (*na asti*)—there is none at all in the world
+
+##### भावार्थ (Bhāvārtha)
+
+O river of the name Parushṇī, of great nature, I declare before you in truth: O river waters, there is no man in this world who gives horses more than this most mighty King Śrutarvan.
+
+##### English translation
+Verily I address you, O great river Parushni ; O waters, there is no mortal who gives horses more liberally than this most mighty (monarch)
+
+### Printed p. 130
+
+## Sūkta 75 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘युक्ष्वा हि' इति षोडशर्च षष्ठं सूक्तमांगिरसस्य विरूपस्यार्षं गायत्रमाग्नेयम् । तथा चानुक्रमणिका-– ‘युक्ष्वा हि षोळश विरूपः' इति । दशरात्रे तृतीयेऽहनीदं सूक्तमाज्यशस्त्रम् । सूत्रितं च -– तृतीये युक्ष्वा हीत्याज्यम्' (आश्व. श्रौ. ७. १०) इति । प्रातरनुवाकेऽप्याग्नेये गायत्रे छंदस्याश्विनशस्त्रे चेदं सूक्तम् । सूत्रितं च --युक्ष्वा हि प्रेष्ठं वः' ( आश्व. श्रौ. ४, १३) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta युक्ष्वा हि (*yukṣvā hi*) has sixteen Ṛks and is the sixth sūkta; it is the vision of Virūpa Āṅgirasa, in the Gāyatrī metre, addressed to Agni. So the Anukramaṇikā says: युक्ष्वा हि षोळश विरूपः (*yukṣvā hi ṣoḷaśa virūpaḥ*). On the third day of the Daśarātra this sūkta is the Ājya-śastra; it is set out in the sūtra तृतीये युक्ष्वा हीत्याज्यं (*tṛtīye yukṣvā hītyājyaṃ*) (Āśv. Śrau. 7. 10). Also, in the Prātaranuvāka, in the Āgneya Gāyatra metre, and in the Āśvina-śastra, this sūkta is used; it is set out in the sūtra युक्ष्वा हि प्रेष्ठं वः (*yukṣvā hi preṣṭhaṃ vaḥ*) (Āśv. Śrau. 4. 13).
+
+Translation of the Kannada: This sūkta beginning युक्ष्वा हि (*yukṣvā hi*) is the sixth sūkta in the eighth Anuvāka. It has sixteen Ṛks. The seer of this sūkta is the one named Virūpa Āṅgirasa; Agni is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: युक्ष्वा हि षोळश विरूपः (*yukṣvā hi ṣoḷaśa virūpaḥ*). It is explained by the sūtra of the Āśvalāyana Śrauta-sūtra तृतीये युक्ष्वा हीत्याज्यं (*tṛtīye yukṣvā hītyājyaṃ*) (Ā. 7-10) that this sūkta is used on the third day of the sacrifice called Daśarātra for the Ājya-śastra mantras; and it is explained by the sūtra of the Āśvalāyana Śrauta-sūtra युक्ष्वा हि प्रेष्ठं वः (*yukṣvā hi preṣṭhaṃ vaḥ*) (Ā. 4-13) that at the time of reciting the Prātaranuvāka mantras this sūkta is used for the Ṛks in the Gāyatrī metre related to the Āgneya rite, and for the Āśvina-śastra mantras.
+
+Sūkta 75. Maṇḍala 8, Anuvāka 8, Sūkta 75. Aṣṭaka 6, Adhyāya 5, Vargas 24, 25, 26. Number of Ṛks in the sūkta: 16. Seer: Virūpa. Deity: Agni. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
+> नि होता॑ पू॒र्व्यः स॑दः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युक्ष्व । हि । देवऽहूतमान् । अश्वान् । अग्ने । रथीःऽइव ।  
+> नि । होता । पूर्व्यः । सदः ॥ १ ॥
+
+### Printed p. 131
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देवहूतमान् देवानामाह्वातृतमान् अश्वान् युक्ष्व योजय रथे। रथीरिव यथा रथी स्वाश्वानिष्टदेशगमनाय योजयति तद्वत् । तथा कृत्वा होता त्वं पूर्व्यः मुख्यः सन् नि षदः उपविश च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, yoke to the chariot the horses that are the best summoners of the gods (देवहूतमान् (*devahūtamān*)), as a charioteer (रथीरिव (*rathīriva*)) yokes his own horses to go to the desired place. Having done so, you, the Hotṛ, being the chief (पूर्व्यः (*pūrvyaḥ*)), sit down.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- रथीरिव (*rathīriva*)—as the driver of a chariot yokes horses to his chariot
+- देवहूतमान् (*devahūtamān*)—those who call the gods in the best manner
+- अश्वान् (*aśvān*)—the horses
+- युक्ष्व हि (*yukṣva hi*)—yoke to the chariot
+- होता (*hotā*)—you in the form of the Hotṛ
+- पूर्व्यः (*pūrvyaḥ*)—the chief of the sacrifice
+- नि षदः (*ni ṣadaḥ*)—sit down on the seat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as the driver of a chariot yokes horses to his chariot, yoke to the chariot the horses that call and bring the gods in the best manner. You, in the form of the Hotṛ, the chief of the sacrifice, sit down on the seat.
+
+##### English translation
+Agni, like a charioteer yoke your good-invoking steeds ; seat yourself first, the invoker.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॑ देव दे॒वाँ अच्छा॑ वोचो वि॒दुष्ट॑रः ।  
+> श्रद्विश्वा॒ वार्या॑ कृधि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । देव । देवान् । अच्छ । वोचः । विदुःऽतरः ।  
+> श्रत् । विश्वा । वार्या । कृधि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव अग्ने उत अपि च नः अस्मान् देवान् अच्छा वोचः अभिब्रूयाः । सम्यगनुष्ठितवंत इति । तथा विदुष्टरः विद्वत्तमान् वोचः । तथा कृत्वा विश्वा सर्वाणि वार्या वरणीयानि धनानि देवसंबंधीनि श्रत् सत्यानि कृधि कुर्वस्माकम् । अथवास्मदीयानि सर्वाणि वरणीयानि हवींषि श्रत् सत्यानि कुरु । देवान् प्रापयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O divine Agni, proclaim (वोचः (*vocaḥ*)) us to the gods, as having duly performed, and as the most knowing (विदुष्टरः (*viduṣṭaraḥ*)). Having done so, make all desirable (वार्या (*vāryā*)) riches belonging to the gods true (श्रत् (*śrat*)) for us. Or else: make all our desirable oblations true, that is, make them reach the gods.
+
+### Printed p. 132
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O Agni, of the nature of a god
+- उत (*uta*)—and
+- नः (*naḥ*)—us
+- देवान् अच्छ (*devān accha*)—before the gods
+- विदुष्टरः (*viduṣṭaraḥ*)—as of exceeding understanding
+- वोचः (*vocaḥ*)—proclaim with praise
+- विश्वा (*viśvā*)—all
+- वार्या (*vāryā*)—the desired riches
+- श्रत् (*śrat*)—as of the nature of truth
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of the nature of a god, proclaim us with praise before the gods as of exceeding understanding. Make all the riches, according to our desire, fit for our enjoyment.
+
+##### English translation
+Divine (Agni), proclaim us to the gods as profoundly skilled ; assure to us all desirable things ;
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह॒ यद्य॑विष्ठ्य॒ सह॑सः सूनवाहुत ।  
+> ऋ॒तावा॑ य॒ज्ञियो॒ भुवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । ह । यत् । यविष्ठ्य । सहसः । सूनो इति । आऽहुत ।  
+> ऋतऽवा । यज्ञियः । भुवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यविष्ठ्य युवतम सहसः सूनो बलस्य पुत्र आहुत सर्वतो हुत आहूत वा त्वं यत् यदा ह खलु ऋतावा सत्यवान् यज्ञियः यज्ञार्हश्च भुवः भवसि तदा वार्याणि श्रत्कुर्विति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, youngest (यविष्ठ्य (*yaviṣṭhya*)), son of strength (सहसः सूनो (*sahasaḥ sūno*)), invoked from every side (आहुत (*āhuta*)), when you become truthful (ऋतावा (*ṛtāvā*)) and worthy of the sacrifice (यज्ञियः (*yajñiyaḥ*)), then make the desirable things true; this is the connection.
+
 ---
 
-**Progress note:** Done through printed p. 126. Sukta 24 rks 6-12
+**Progress note:** Done through printed p. 132. Sukta 74 rks 13-15, Sukta 75 rks 1-3
