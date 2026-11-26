@@ -15391,6 +15391,217 @@ He repeatedly beholding his parents (heaven and earth) proceeds with a loud nois
 
 Soma, terrible to enemies, the showerer of desires or of waters, the all-seeing, sharpens his two tawny horns, out of desire for his own strength, and roars, makes a sound. The two horns are the two streams: with two streams towards the द्रोणकलशं (*droṇakalaśaṃ*) he takes up the स्थाल्याग्रयणं (*sthālyāgrayaṇaṃ*); this is what is meant. Then that Soma settles all around in the well-made womb, his own place, the Droṇakalaśa. For that Soma the cleansing, purifying skin, made of cow (गव्ययी (*gavyayī*)), is there; for the pressing of Soma takes place on a bull's hide. Likewise the skin made of sheep (अव्ययी (*avyayī*)) becomes the cleanser; for that is said to need the ten filters.
 
+### Printed p. 412
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भीमः (*bhīmaḥ*)—terrible to enemies
+- वृषभः (*vṛṣabhaḥ*)—the showerer of desires
+- विचक्षणः (*vicakṣaṇaḥ*)—one who has a subtle sight
+- तविष्यया (*taviṣyayā*)—from the wish to acquire his own strength
+- हरिणी (*hariṇī*)—green-tinted
+- शृंगे (*śṛṃge*)—the horns of the form of streams
+- निशानः (*niśānaḥ*)—making sharp **NOTE**
+- रुवति (*ruvati*)—makes a sound
+- सोमः (*somaḥ*)—Soma
+- सुकृतं (*sukṛtaṃ*)—excellently made
+- योनिं (*yoniṃ*)—resorting to his own place
+- आ नि षीदति (*ā ni ṣīdati*)—sits down
+- गव्ययि (*gavyayi*)—made of cow-dung **NOTE**
+- त्वक् (*tvak*)—and the hide
+- अव्ययि (*avyayi*)—and the fibres of wool
+- निर्णिक् (*nirṇik*)—as purifiers for him
+- भवति (*bhavati*)—they are
+
+##### भावार्थ (Bhāvārtha)
+
+Pavamāna, who is terrible to enemies, the showerer of desires and one of subtle sight, from the wish to acquire his own strength makes a sound, sharpening his green-tinted horns of the form of streams. Soma resorts to his own excellently made place and sits down. The hide made of cow and the fibres of wool are purifiers for him.
+
+##### English translation
+The formidable showerer, the contemplator of all, through desire for strength roars, sharpening his green-tinted horns ; the Soma settles on his well-prepared station ; the cowhide is his cleanser and the sheepskin (too).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचिः॑ पुना॒नस्त॒न्व॑मरे॒पस॒मव्ये॒ हरि॒र्न्य॑धाविष्ट॒ सान॑वि ।  
+> जुष्टो॑ मि॒त्राय॒ वरु॑णाय वा॒यवे॑ त्रि॒धातु॒ मधु॑ क्रियते सु॒कर्म॑भिः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिः । पुनानः । तन्वम् । अरेपसम् । अव्ये । हरिः । नि । अधाविष्ट । सानवि ।  
+> जुष्टः । मित्राय । वरुणाय । वायवे । त्रिऽधातु । मधु । क्रियते । सुकर्मऽभिः ॥ ८ ॥
+
+### Printed p. 413
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरेपसं पापरहितम् । यद्वा । ‘रिपि गतौ । गतिरहितम् । पात्रे स्थितमित्यर्थः । तादृशं तन्वम् आत्मीयं शरीरं पुनानः शोधयन् अत एव शुचिः पूतो दीप्यमानो वा हरिः हरितवर्णः सोमः सानवि सानुनि समुच्छ्रिते अव्ये अविवालकृते दशापवित्रे न्यधाविष्ट ऋत्विग्भिर्निधीयते । ‘ धूञ् कंपने । स्यसिच्सीयुट्तासिषु' ( पा. सू. ६. ४. ६२ ) इति कर्मणि लुङि चिण्वदिट् । णित्त्वाद्वृद्धिः । ततः मित्राय वरुणाय वायवे एतेभ्यः जुष्टः पर्याप्तः त्रिधातु त्रिसंधानो वसतीवरीभिर्दध्ना पयसा संस्पृष्टः सोमः त्रिधातु तादृशं मधु मदकरः सोमः सुकर्मभिः शोभनकर्मयुक्तैर्ऋत्विग्भिः क्रियते मित्रादिदेवार्थं प्रदीयते ॥
+
+##### Gist of the bhāṣya
+
+अरेपसं (*arepasaṃ*) means free from sin; or else, from the root meaning "to go", motionless, that is, standing in the vessel. Purifying such a body of his own, and therefore pure or shining, the tawny Soma is placed by the priests on the raised ten-filter made of sheep's wool. Then, being sufficient for Mitra, Varuṇa and Vāyu, Soma, who is joined in three ways with the Vasatīvarī waters, curds and milk, the intoxicating one, is made, that is, is offered, by the priests who are endowed with good works for the gods beginning with Mitra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरेपसं (*arepasaṃ*)—free from sin
+- तन्वं (*tanvaṃ*)—his own body
+- पुनानः (*punānaḥ*)—purifying
+- हरिः (*hariḥ*)—the green-tinted one
+- शुचिः (*śuciḥ*)—and the shining Soma
+- सानवि (*sānavi*)—situated in the elevated place
+- अव्ये (*avye*)—in the ten-filter
+- न्यधाविष्ट (*nyadhāviṣṭa*)—has been placed
+- मित्राय (*mitrāya*)—for Mitra
+- वरुणाय (*varuṇāya*)—for Varuṇa
+- वायवे (*vāyave*)—for Vāyu
+- जुष्टः (*juṣṭaḥ*)—as much as suffices
+- त्रिधातु (*tridhātu*)—joined with the Vasatīvarī waters and the others
+- मधु (*madhu*)—as the intoxicating one
+- सुकर्मभिः क्रियते (*sukarmabhiḥ kriyate*)—is offered by the priests of excellent works
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is green-tinted and shining, purifying his sinless body, has been placed on the ten-filter situated in the elevated place. Joined with the Vasatīvarī water, milk and curds, sufficient for Mitra, Varuṇa and Vāyu, being the intoxicating one, he is offered by the priests of excellent works.
+
+##### English translation
+Brilliant, cleansing his sinless body, the green-tinted (Soma) is placed on the high-placed fleece; sufficient for Mitra, Varuua **NOTE**, and Vayu the exhila-rating (Soma) mixed with the three ingredients is prepared by the performers of good rites.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम दे॒ववी॑तये॒ वृषेंद्र॑स्य॒ हार्दि॑ सोम॒धान॒मा वि॑श ।  
+> पु॒रा नो॑ बा॒धाद्दु॑रि॒ताति॑ पारय क्षेत्र॒विद्धि दिश॒ आहा॑ विपृच्छ॒ते ॥ ९ ॥
+
+### Printed p. 414
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । देवऽवीतये । वृषा । इंद्रस्य । हार्दि । सोमऽधानम् । आ । विश ।  
+> पुरा । नः । बाधात् । दुःऽइता । अति । पारय । क्षेत्रऽवित् । हि । दिशः । आह । विऽपृच्छते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वृषा कामानामुदकानां वा सेचकस्त्वं देववीतये देवानां पानाय पवस्व कलशादिषु क्षर। अथ हे सोम त्वम् इंद्रस्य हार्दि हृदयंगमं प्रियं सोमधानम्। सोमो निधीयतेऽस्मिन्निति सोमधानं पात्रम् । तत् आ विश प्रविश । किंच नः अस्माकं बाधात् बाधनात् पीडनात् पुरा पूर्वमेव दुरितानि दुर्गमनानि रक्षांसि अति पारय अतीत्य पारं गमय । अपि च क्षेत्रवित् मार्गज्ञः पुरुषः विपृच्छते विविधं पंथानं पृच्छते जनाय दिशः मार्गान् आह हि ब्रूते खलु । उक्त्वा तं यथा रक्षति तथा यज्ञमार्गवेत्ता त्वमस्मभ्यं यज्ञपथ उक्त्वास्मान् पालयेति ।
+
+##### Gist of the bhāṣya
+
+O Soma, showerer of desires or of waters, flow, stream into the vessels such as the jar, for the drinking of the gods. Further, enter the Soma-vessel, the vessel in which Soma is placed, which is dear to Indra and goes to his heart. Further, before the oppression of us, carry us past the evils, the Rākṣasas hard to get through, and bring us to the farther shore. And just as one who knows the road, when a man asks about the various paths, tells him the directions, the paths, and having told him, protects him, so you, who know the way of the sacrifice, tell us the way of the sacrifice and protect us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma deva
+- वृषा (*vṛṣā*)—you, the showerer of desires
+- देववीतये (*devavītaye*)—for the drinking of the gods
+- पवस्व (*pavasva*)—flow
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- हार्दि (*hārdi*)—satisfying
+- सोमधानं (*somadhānaṃ*)—the vessel
+- आ विश (*ā viśa*)—enter
+- नः दुरिता (*naḥ duritā*)—our enemies
+- बाधात्पुरा (*bādhātpurā*)—before they oppress us
+- अति पारय (*ati pāraya*)—destroy them
+- क्षेत्रवित् हि (*kṣetravit hi*)—only one who knows the place
+- विपृच्छते (*vipṛcchate*)—to him who asks the paths
+- दिशः (*diśaḥ*)—the paths
+- आह (*āha*)—can tell
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma deva, you, the showerer of desires, flow for the drinking of the gods. Enter the Soma-vessel that is satisfying to Indra. Destroy our enemies before they oppress us. Only one who knows the place can tell the paths to him who asks for them.
+
+### Printed p. 415
+
+##### English translation
+Flow Soma, the showerer, for the banquet of the gods; enter the Soma-vessel dear to Indra ; bring us safe past the hostile (Rakshasas) before they oppress us ; for he who knows the country tells the direction to him who asks (the way).
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒तो न सप्ति॑र॒भि वाज॑म॒र्षेंद्र॑स्येंदो ज॒ठर॒मा प॑वस्व ।  
+> ना॒वा न सिंधु॒मति॑ पर्षि वि॒द्वांछूरो॒ न युध्य॒न्नव॑ नो नि॒द स्पः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हितः । न । सप्तिः । अभि । वाजम् । अर्ष । इंद्रस्य । इंदो इति । जठरम् । आ । पवस्व ।  
+> नावा । न । सिंधुम् । अति । पर्षि । विद्वान् । शूरः । न । युध्यन् । अव । नः । निदः । स्परिति स्पः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ऋत्विग्भिः प्रेर्यमाणः सन् वाजं सोमनिधानं द्रोणकलशम् अभि अर्ष अभिगच्छ । तत्र दृष्टांतः । हितो न सप्तिः । अश्वो हितः प्रेर्यमाणः सन् वाजं संग्राममभिलक्ष्य यथा याति तद्वत् । ततो हे इंदो इंद्रस्य जठरं जठरभूतं द्रोणकलशं वा आ पवस्व आभिमुख्येन प्रविश । किंच विद्वान् सर्वं जानंस्त्वमस्मान् अति पर्षि दुरितान्यतीत्य पारय । तत्र दृष्टांतः । नावा न । यथा नाविकाः सिंधुं नदीं नावा मनुष्यान् पारयंति तद्वत् । किंच हे सोम त्वं शूरो न शूरो वीर इव युध्यन् शत्रून् संप्रहरन् निदः निंदकाच्छत्रोः नः अस्मान् अव स्पः अवपारय । बाधां विनाश्य पालय । यद्वा । नोऽस्माकं निदो निंदकांछत्रूनव स्पः अवाङ्मुखं जहि । 'स्पॄ हिंसायाम्'। ‘ बहुलं छंदसि ' इति श्नाप्रत्ययस्य लुक् । तिपि गुणे हल्यङ्यादिना तिपो लोपः ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being urged by the priests, go towards the वाजं (*vājaṃ*), the receptacle of Soma, the Droṇakalaśa. The illustration is "like a horse that is urged": as a horse, urged on, goes towards the battle. Then, O Indu, flow into Indra's belly, or into the Droṇakalaśa which is like a belly, entering it facing it. Further, you who know all, carry us across the evils. The illustration is "like a boat": as boatmen carry men across a river in a boat. Further, O Soma, like a hero fighting, striking the enemies, protect us, by destroying the oppression, from the reviling enemy. Or else: strike down headlong our reviling enemies.
+
+### Printed p. 416
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हितः (*hitaḥ*)—(O Soma deva) urged on
+- सप्तिः न (*saptiḥ na*)—as a horse enters the battlefield
+- वाजं (*vājaṃ*)—the Droṇakalaśa
+- अभ्यर्ष (*abhyarṣa*)—enter
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरं (*jaṭharaṃ*)—towards the belly
+- आ पवस्व (*ā pavasva*)—flow
+- सिंधुं (*siṃdhuṃ*)—the river
+- नावा न (*nāvā na*)—as a boatman carries across in a boat
+- विद्वान् (*vidvān*)—you who know all
+- अति पर्षि (*ati parṣi*)—carry us across sorrows
+- शूरो न (*śūro na*)—like a hero
+- युध्यन् (*yudhyan*)—fighting
+- निदः (*nidaḥ*)—from the reviling enemies
+- नः (*naḥ*)—us
+- अव स्पः (*ava spaḥ*)—protect and sustain
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma deva, as a horse that is urged on enters the battle, so you, urged on by the priests, enter the Droṇakalaśa. As a boatman carries across a river in a boat, so you, who know all, carry us across sorrows. Like a hero who fights, protect us from the reviling enemies.
+
+##### English translation
+Hasten (to the vessel) as a horse when urged (hastens) to the battle; flow Indu into Indra's belly ; all knowing (Soma) bear us (safe) across, as (boatmen bear people) across a river in a boat; fighting like a hero, defend us from the reviling (of the foe).
+
+## Sūkta 71 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘आ दक्षिणा' इति नवर्चं चतुर्थं सूक्तं वैश्वामित्रस्यर्षभस्यार्षं पवमानसोमदेवताकम् । नवमी त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रांतम्-‘ आ दक्षिणा नव ऋषभस्तौ वैश्वामित्रौ' इति । ‘तौ' इत्यनेन प्रकृतो रेणुर्ऋषभश्चोभे परामृश्येते । श्रूयते हि-' अथ ह विश्वामित्रः पुत्रानामंत्रयामास मधुच्छंदाः शृणोतन ऋषभो रेणुरष्टकः' (ऐ. ब्रा. ७. १७) इति । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that the fourth sūkta, of nine ṛks, beginning आ दक्षिणा (*ā dakṣiṇā*), is the vision of Ṛṣabha Vaiśvāmitra, and that its deity is Pavamāna Soma. The ninth ṛk is in the Triṣṭup metre and the rest are in Jagatī. He cites the Anukramaṇī: आ दक्षिणा नव ऋषभस्तौ वैश्वामित्रौ (*ā dakṣiṇā nava ṛṣabhastau vaiśvāmitrau*). By the word तौ (*tau*) both Reṇu, who belongs to the preceding sūkta, and Ṛṣabha are referred to. For it is heard (Ai. Brā. 7. 17): अथ ह विश्वामित्रः पुत्रानामंत्रयामास मधुच्छंदाः शृणोतन ऋषभो रेणुरष्टकः (*atha ha viśvāmitraḥ putrānāmaṃtrayāmāsa madhucchaṃdāḥ śṛṇotana ṛṣabho reṇuraṣṭakaḥ*). The application (viniyoga) of the sūkta has been stated.
+
+Translation.—This sūkta beginning आ दक्षिणा (*ā dakṣiṇā*) is the fourth sūkta in the fourth anuvāka. It contains nine ṛks. The seer of this sūkta is Ṛṣabha, a son of Viśvāmitra; the deity is Pavamāna Soma; the ninth ṛk of this sūkta is in the Triṣṭup metre. The remaining ṛks are in the Jagatī metre. In the Anukramaṇī it is said: आ दक्षिणा नव ऋषभस्तौ वैश्वामित्रौ (*ā dakṣiṇā nava ṛṣabhastau vaiśvāmitrau*).
+
+### Printed p. 417
+
+Since तौ (*tau*) is said, the meaning is that Reṇu for the preceding sūkta and Ṛṣabha for this sūkta, these two, are the seers. In the Aitareya Brāhmaṇa: अथ ह विश्वामित्रः पुत्रानामंत्रयामासॆ मधुच्छंदाः शृणोतन ऋषभो रेणुरष्टकः (*atha ha viśvāmitraḥ putrānāmaṃtrayāmāsè madhucchaṃdāḥ śṛṇotana ṛṣabho reṇuraṣṭakaḥ*) (Ai. Brā. 7-17); that is, on the occasion when the seer Viśvāmitra called his sons, he said the names of some of his sons: Madhucchandas, Ṛṣabha, Reṇu and Aṣṭaka. Therefore Reṇu and Ṛṣabha, these two, are sons of the seer Viśvāmitra. The application of the sūkta has been stated before.
+
+Maṇḍala 9; Anuvāka 4; Sūkta 71; Aṣṭaka 7, Adhyāya 2, Varga 25, 26. Number of ṛks in the sūkta: 9. Ṛṣi: Ṛṣabha Vaiśvāmitra. Devatā: Pavamāna Soma. Chandas: 1–8 Jagatī; 9 Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दक्षि॑णा सृज्यते शु॒ष्म्या॒३॒॑सदं॒ वेति॑ द्रु॒हो र॒क्षसः॑ पाति॒ जागृ॑विः ।  
+> हरि॑रोप॒शं कृ॑णुते॒ नभ॒स्पय॑ उप॒स्तिरे॑ च॒म्वो॒३॒॑र्ब्रह्म॑ नि॒र्णिजे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । दक्षिणा । सृज्यते । शुष्मी । आऽसदम् । वेति । द्रुहः । रक्षसः । पाति । जागृविः ।  
+> हरिः । ओपशम् । कृणुते । नभः । पयः । उपऽस्तिरे । चम्वोः । ब्रह्म । निःऽनिजे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमस्य स्वभूते यज्ञे ऋत्विग्भ्यः दक्षिणा आ सृज्यते अस्माभिः प्रदीयते । शुष्मी बलवान् सोमः आसदम् आस्थानं द्रोणाख्यं वेति प्रविशति । किंच जागृविः जागरणशीलः सोमः द्रुहः द्रोहकारिणः रक्षसः राक्षसात् पाति स्तोतॄन् रक्षति । अपि च हरिः हरितवर्णः सोमः ओपशम् । आ समंतादुपशेत इत्योपशः । सर्वस्य धारकं नभः नभस आदित्यस्य स्वभूतं पयः उदकं कृणुते सर्वत्र करोति । 'अग्नौ प्रास्ताहुतिः' इत्यादिक्रमेण करोतीत्यर्थः । यद्वा । नभोऽंतरिक्षं पयः पयसो धारकं करोतीति । किंचायं सोमः चम्वोः। द्यावापृथिवीनामैतत् । चमंति भक्षयंति मनुष्यदेवा अत्रेति । तयोः उपस्तिरे उपस्तरणायाच्छादनाय ब्रह्म बृहदुद्यतं तमांसि विनाशयंतं यद्वा परिवृढं सूर्यं द्युलोके करोति । तथा तमेव सूर्यं निर्निजे पदार्थानां निर्नेजनाय परिशोधनाय च करोति । आदित्यो हि द्यावापृथिव्यौ स्वतेजसोपस्तृणाति । स हि स्वभासा सर्वं निर्नेक्ति च ॥
+
+##### Gist of the bhāṣya
+
+At the sacrifice that belongs to Soma, the fee (dakṣiṇā) is released, that is, given by us, to the priests. The strong Soma enters the seat named Droṇa. Further, the ever-wakeful Soma protects the worshippers from the Rākṣasa who does harm. And the tawny Soma makes ओपशम् (*opaśam*), the water that belongs to the sky, to Āditya, and that supports everything, everywhere; the meaning is that he does so in the order that begins with प्रास्ताहुतिः (*prāstāhutiḥ*). Or else: he makes the atmosphere the supporter of water. Further, this Soma, for the spreading over, the covering, of चम्वोः (*camvoḥ*), which is a name of heaven and earth, where men and gods eat, makes in the heaven the Sun, the great, the uplifted, who destroys the darknesses, or else the all-surrounding one; and likewise makes that same Sun for the cleansing and purifying of things. For Āditya covers heaven and earth with his own splendour and cleanses everything with his own light.
+
 ---
 
-**Progress note:** Done through printed p. 411. Ṛk 3-7 of Soma Pavamāna sūkta, pp. 406-411
+**Progress note:** Done through printed p. 417. Ṛk 7-10 of Sūkta 70 and Sūkta 71 Ṛk 1, pp. 412-417
