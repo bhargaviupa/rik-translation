@@ -33539,6 +33539,280 @@ At this time, when the sacrifice is being performed, the great praise-mantras, r
 ##### English translation
 The many sacred hymns, the mothers of the sacrifice, give praise, they purify [the Soma], the infant of heaven.
 
+### Printed p. 822
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒यः स॑मु॒द्राँश्च॒तुरो॒ऽस्मभ्यं॑ सोम वि॒श्वतः॑ ।  
+> आ प॑वस्व सह॒स्रिणः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रायः । समुद्रान् । चतुरः । अस्मभ्यम् । सोम । विश्वतः ।  
+> आ । पवस्व । सहस्रिणः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रायः धनस्य संबंधिनः चतुरः समुद्रान् । धनपूर्णानित्यर्थः । तादृशान् समुद्रान् अस्मभ्यम् अर्थाय हे सोम विश्वतः सर्वतः आ पवस्व । तथा सहस्रिणः अपरिमितान् कामान् आ पवस्व आयच्छ। चतुःसमुद्रस्थधनविशेषप्राप्तेः तन्मध्यगतभूमिस्वामित्वमंतरेणासंभवाच्चतुःसमुद्रमुद्रितभूमंडलस्वामित्वमेवाशास्ते यजमानः ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+Four oceans connected with wealth, that is, filled with wealth: such oceans, O Soma, purify (pour) for us, for our purpose, from every side. Likewise purify and bring thousands of limitless desires. Since the obtaining of special wealth lying in the four oceans is impossible without lordship over the land lying in their midst, the sacrificer wishes for nothing less than lordship over the whole earth-circle sealed by the four oceans.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- रायः (*rāyaḥ*)—connected with wealth, that is, filled with wealth
+- चतुरः समुद्रान् (*caturaḥ samudrān*)—the four oceans
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- विश्वतः (*viśvataḥ*)—from all sides
+- आ पवस्व (*ā pavasva*)—bring (and likewise)
+- सहस्रिणः (*sahasriṇaḥ*)—fulfil our limitless desires
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, bring to us from all sides the limitless wealth that fills the four oceans, and fulfil all our limitless desires.
+
+##### English translation
+From every side, Soma, pour upon us four oceans of riches, grant us thousands (of desires).
+
+## Sūkta 34 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र सुवानः' इति षडृचं दशमं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र सुवानः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र सुवानः (*pra suvānaḥ*) has six ṛks and is the tenth sūkta. The seer and the rest are as before. It is listed in the Anukramaṇī as प्र सुवानः (*pra suvānaḥ*). The ritual use has already been stated.
+
+### Printed p. 823
+
+Translation of the Kannada: This sūkta beginning प्र सुवानः (*pra suvānaḥ*) is the tenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. What the Anukramaṇī says, प्र सुवानः (*pra suvānaḥ*), is the ritual use, which has been stated before.
+
+Sūkta 34. Maṇḍala 9, Anuvāka 2, Sūkta 34. Aṣṭaka 6, Adhyāya 8, Varga 24. Number of ṛks in the sūkta: 6. Ṛṣi: त्रितः (*tritaḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु॑वा॒नो धार॑या॒ तनेंदु॑र्हिन्वा॒नो अ॑र्षति ।  
+> रु॒जद्दृ॒ळ्हा व्योज॑सा ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र। सुवानः । धारया। तना। इंदुः। हिन्वानः । अर्षति ।  
+> रुजत् । दृळ्हा। वि। ओजसा ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदुः सोमः सुवानः सूयमानः हिन्वानः अध्वर्युणा प्रेर्यमाणः धारया तना पवित्रं प्र अर्षति गच्छति । अथ प्रत्यक्षेणोच्यते । दृळ्हा दृढान्यपि शत्रुपुराणि ओजसा बलेन वि रुजत् विरुजति विश्लथयति ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is, Soma, being pressed and impelled by the Adhvaryu, goes forth in a stream, in a continuous flow, to the strainer. Now it is said directly: with his might he breaks down, that is, loosens, even firm strongholds of enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानः (*suvānaḥ*)—being pressed
+- इंदुः (*iṃduḥ*)—this Soma
+- हिन्वानः (*hinvānaḥ*)—impelled by the Adhvaryu
+- धारया (*dhārayā*)—flowing in the form of a stream (in order to be strained)
+- तना (*tanā*)—to the ten-fold strainer
+- प्र अर्षति (*pra arṣati*)—goes
+- दृळ्हा (*dṛḷhā*)—firm enemy towns
+- ओजसा (*ojasā*)—by his own strength alone
+- वि रुजत् (*vi rujat*)—he splits
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, being pressed and impelled by the Adhvaryu, flows in a stream and goes to the ten-fold strainer to be strained. By his own strength alone he splits firm enemy towns.
+
+### Printed p. 824
+
+##### English translation
+Indu, when effused and expressed (by the priests), flows in a stream to the filtering-cloth, breaking down strong places by its strength.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒त इंद्रा॑य वा॒यवे॒ वरु॑णाय म॒रुद्भ्यः॑ ।  
+> सोमो॑ अर्षति॒ विष्ण॑वे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतः । इंद्राय । वायवे। वरुणाय । मरुत्ऽभ्यः ।  
+> सोमः । अर्षति । विष्णवे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सुतः अभिषुतः सोमः इंद्राद्यर्थम् अर्षति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This pressed Soma goes, that is, flows, for the sake of Indra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—pressed
+- सोमः (*somaḥ*)—this Soma
+- इंद्राय (*iṃdrāya*)—of Indra
+- वायुवे (*vāyuve*)—of the god Vāyu
+- मरुद्भ्यः (*marudbhyaḥ*)—of the Marut gods
+- विष्णवे (*viṣṇave*)—for the drinking of Viṣṇu
+- अर्षति (*arṣati*)—flows towards the vessel **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+This pressed Soma flows for the drinking of these gods: Indra, Vāyu, the Maruts and Viṣṇu.
+
+##### English translation
+The Soma effused proceeds to Indra, to Vayu, to Varuna, to the Maruts, to Vishnu.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑णं॒ वृष॑भिर्य॒तं सु॒न्वंति॒ सोम॒मद्रि॑भिः ।  
+> दु॒हंति॒ शक्म॑ना॒ पयः॑ ॥ ३ ॥
+
+### Printed p. 825
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषाणम्। वृषऽभिः । यतम् । सुन्वंति। सोमम् । अद्रिऽभिः ।  
+> दुहंति। शक्मना। पयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषाणं रससेक्तारं यतं नियतं सोमं वृषभिः रसस्य वर्षकैः अद्रिभिः ग्रावभिः सुन्वंति। शक्मना कर्मणा दुहंति अध्वर्य्वादयः पयः सोमरसम् । सोमं पयो दुहंतीति द्विकर्मकोऽयम् ॥
+
+##### Gist of the bhāṣya
+
+The Soma that is the shedder of juice and is regulated (restrained) is pressed by the stones, the showerers of the juice. By their act the Adhvaryu and the others milk out the milk, that is, the Soma juice. The verb "milk" here takes two objects (Soma and milk).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (the Adhvaryu and others) वृषणं (*vṛṣaṇaṃ*)—that pours out juice
+- यतं (*yataṃ*)—regulated
+- सोमं (*somaṃ*)—the Soma plant
+- वृषभिः (*vṛṣabhiḥ*)—which are the means of bringing out the juice
+- अद्रिभिः (*adribhiḥ*)—with the crushing stones
+- सुष्वंति (*suṣvaṃti*)—they crush and press out the juice **NOTE**
+- शक्मना (*śakmanā*)—by the act of pressing the Soma
+- पयः (*payaḥ*)—the Soma juice
+- दुहंति (*duhaṃti*)—they milk
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, the Adhvaryu and others, crush with the crushing stones, which are the means of bringing out the juice, the Soma plant, which is full of juice and of regulated measure, and press out the juice; and by the ritual procedure of pressing the Soma they milk the Soma juice (as one milks milk), that is, they separate the juice from the plants.
+
+##### English translation
+They press the crushed Soma as it pours forth its juice between the effusing stones, they milk out its juice by their acts.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भुव॑त्त्रि॒तस्य॒ मर्ज्यो॒ भुव॒दिंद्रा॑य मत्स॒रः ।  
+> सं रू॒पैर॑ज्यते॒ हरिः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भुवत् । त्रितस्य । मर्ज्यः । भुवत् । इंद्राय । मत्सरः ।  
+> सम् । रूपैः । अज्यते । हरिः ॥ ४ ॥
+
+### Printed p. 826
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रितस्य अपां पुत्रस्य सूक्तद्रष्टुर्ऋषेः सोऽयं मत्सरः मदकरः सोमः मर्ज्यो भुवत् शुद्धो भवति । तस्य यागार्थं शेषपानार्थं च । तथा इंद्राय इंद्रपानाय मर्ज्यः भुवत् । रूपैः रूपकैश्च क्षीरादिभिः हरिः हरितवर्णः सोमः सम् अज्यते ॥
+
+##### Gist of the bhāṣya
+
+For Trita, the son of the waters, the seer of the sūkta, this exhilarating, intoxicating Soma becomes cleansed (pure), for the sacrifice and for the drinking of what remains. Likewise it becomes cleansed for Indra, for Indra's drinking. The green Soma is mixed with forms, that is, with milk and other mixtures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रितस्य (*tritasya*)—pressed by the seer named Trita Āptya, the son of the waters and the seer of this sūkta
+- मत्सरः (*matsaraḥ*)—this intoxicating Soma (for the sacrifice)
+- मज्ज्ये भुवत् (*majjye bhuvat*)—is pure (and) **NOTE**
+- इंद्राय (*iṃdrāya*)—also for the drinking of Indra
+- भुवत् (*bhuvat*)—is pure
+- रूपैः (*rūpaiḥ*)—mixed with liquid substances such as milk
+- हरिः (*hariḥ*)—the Soma of green colour
+- सं अज्यते (*saṃ ajyate*)—shines with its own light
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, pressed by the seer named Trita Āptya, who is known as the son of the waters and is the seer of this sūkta, is prepared for the drinking of Indra and is exhilarating and pure; and this Soma juice of green colour, mixed with milk and other liquid substances, shines with its own light.
+
+##### English translation
+The exhilarating Soma is to be cleansed (for the sacrifice) of Tritra **NOTE**, and for the drinking of Indra : the green tinted (juice) is mixed with the ingredients.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भीमृ॒तस्य॑ वि॒ष्टपं॑ दुह॒ते पृश्नि॑मातरः ।  
+> चारु॑ प्रि॒यत॑मं ह॒विः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । ईम् । ऋतस्य । विष्टपम् । दुहते। पृश्निऽमातरः ।  
+> चारु । प्रियऽतमम् । हविः ॥ ५ ॥
+
+### Printed p. 827
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईम् एनं सोमम् ऋतस्य विष्टपं स्थानम् । यज्ञाश्रयमित्यर्थः । तादृशं पृश्निमातरः मरुतः अभि दुहते। किम् । प्रियतमम् इंद्रादीनां हविः होमसाधनं चारु मनोहरम्। मरुत्प्रेरितवृष्ट्या सोमवृद्धेस्तद्दोग्धृत्वम् ॥
+
+##### Gist of the bhāṣya
+
+The Maruts, the sons of Pṛśni, milk this Soma, which is the abode, the support of the sacrifice. What do they milk? The dearest, most charming oblation of Indra and the others, the means of the offering. Since the rain impelled by the Maruts makes the Soma grow, they are its milkers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृश्निमातरः (*pṛśnimātaraḥ*)—the Marut gods, whose mother is Pṛśni in the form of a cow
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- विष्टपं (*viṣṭapaṃ*)—which is the place of support
+- प्रियुतमं (*priyutamaṃ*)—which is the dearest to the gods such as Indra
+- हविः (*haviḥ*)—which is the means of the offering
+- चारु (*cāru*)—which is charming
+- ईं (*īṃ*)—this Soma
+- अभि मुहते (*abhi muhate*)—they milk, that is, they crush and press out
+
+##### भावार्थ (Bhāvārtha)
+
+The Marut gods, the sons of the cow Pṛśni, crush and press out this Soma, which is the support of the sacrifice, dear to Indra and the other gods, the means of the offering, and charming.
+
+##### English translation
+The sons of Prishni milk this Soma at the place of sacrifice, the most beautiful and grateful oblation (to the gods).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समे॑न॒मह्रु॑ता इ॒मा गिरो॑ अर्षंति स॒स्रुतः॑ ।  
+> धे॒नूर्वा॒श्रो अ॑वीवशत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । एनम् । अह्रुताः । इमाः । गिरः । अर्षंति। सऽस्रुतः।  
+> धेनूः । वाश्रः । अवीवशत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सम् अर्षंति संगच्छंते एनं सोमम् अह्रुताः अकुटिलाः गिरः अस्मदीयाः स्तुतयः सस्रुतः सरंत्यः । ताश्च धेनूः प्रीणयित्रीः स्तुतीः वाश्रः शब्दयन् अवीवशत् कामयते सोमः ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+These unbent praises of ours, flowing, come together, that is, meet, with this Soma. And Soma, sounding, desires those gratifying praises.
+
 ---
 
-**Progress note:** Done through printed p. 821. Sukta 32 rk 6 end; Sukta 33 rks 1-5
+**Progress note:** Done through printed p. 827. Sukta 33 rk 6; Sukta 34 rks 1-6
