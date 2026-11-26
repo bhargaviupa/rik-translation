@@ -35520,6 +35520,266 @@ Like persons hunting two wild elephants, we praise you, Ashwins, with oblations 
 > पृच्छे । वां । नरा ।  
 > भूतं । मे । अह्ने । उत । भूतं । अक्तवे । अश्ववते । रथिने । शक्तं । अर्वते ॥
 
+### Printed p. 978
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विनौ युवां खलु परि परितो यती गच्छंती राज्यो
+> दीप्तस्य कक्षीवतो दुहिता पुत्री घोषा घोषाख्याहमूचे । संनिहितेभ्यो
+> वृद्धेभ्य उक्तवत्यस्मि । किंच वां युवां पृच्छे । वृद्धान्संनिहितान् कीदृशावश्विनाविति पृच्छामि । तथा सति मे ममाह्ने दिवसनिर्वर्त्यकर्मणे भूतं ।
+> भवतं । उतापि चाक्तवे रात्रि रात्रिनिर्वर्त्यकर्मणे भूतं। भवतं । तथाश्ववतेऽश्वयुक्ताय रथिने रथवते चार्वते भातृव्याय शक्तं । निरसने शक्तौ भवतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins, the leaders. Ghoṣā, the daughter of the radiant king Kakṣīvat, says that she, going about on all sides, has spoken to the elders who are present, and that she asks the two Aśvins of the elders who are present what manner of beings the Aśvins are. That being so, she asks them to be present at her work that is done by day, and likewise at her work that is done by night. She asks them also to be capable, that is, able to drive away, the adversary who has horses and a chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Ashvin gods, who are leaders
+- युवां (*yuvāṃ*)—you
+- परीयती (*parīyatī*)—resorting to
+- राज्ञः (*rājñaḥ*)—of the king, Kakshivat
+- दुहिता (*duhitā*)—the daughter
+- घोषा (*ghoṣā*)—and named Ghosha
+- ऊचे (*ūce*)—I have told everyone about you
+- वां (*vāṃ*)—concerning you
+- पृच्छे (*pṛcche*)—I have asked
+- मे (*me*)—my
+- अह्ने (*ahne*)—in the work of the day-time
+- भूतं (*bhūtaṃ*)—be present
+- उत (*uta*)—and
+- अक्तवे (*aktave*)—in the time of the work by night also
+- भूतं (*bhūtaṃ*)—be present
+- अश्ववते (*aśvavate*)—who has horses
+- रथिने (*rathine*)—and has a chariot
+- अर्वते (*arvate*)—to my enemy
+- शक्तं (*śaktaṃ*)—be possessed of the power to destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, leaders, I, resorting to you, the daughter of the king Kakshivat and named Ghosha, have told everyone about you and have asked about you. Be present at the times of my work, by day and by night. Be possessed of the power to destroy my enemy, who has horses and has a chariot.
+
+##### English translation
+Attending upon you, Ashwins, leaders (of rites), I Ghosha, the daughter of king (Kakshivat), speak to you and request you; be (present at) my (sacrifice) by day, and be (present) by night, be able (to grant favour) to the son of my brother, who has horses and a chariot
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं क॒वी ष्ठः॒ पर्य॑श्विना॒ रथं॒ विशो॒ न कुत्सो॑ जरि॒तुर्न॑शायथः ।
+
+### Printed p. 979
+
+> युवोर्ह मक्षा पर्यश्विना मध्वासा भरत निष्कृतं न  
+> योषणा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । कवी इति । स्थः । परि । अश्विना । रथं । विशः । न । कुत्सः । जरितुः । नशायथः ।  
+> युवोः । ह । मक्षा । परि । अश्विना । मधु । आसा । भरत । निःकृशं । न । योषणा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् कवी मेधाविनौ युवं युवां रथं परि ष्ठः । परितो
+> भवथः । अथ जरितुः स्तोतुर्यज्ञं प्रति गमनाय नशायथः । रथं प्राप्नुथः । तत्र
+> दृष्टांतः । कुत्सो न यथा कुत्सश्चेंद्रश्च सरथमधितिष्ठतः । तथा च मंत्रांतरं ।
+> यासि कुत्सेन सरथमवस्युस्तोदो वातस्य हर्योरीशानः । ऋ. ४-१६-११ । इति ।
+> किंच हे अश्विनाश्विन् युवोर्ह युवयोः खलु स्वभूतं मधु मक्षा मक्षिकासास्येन
+> परि भरत । बिभर्ति । तत्र दृष्टांतः । निष्कृतं न यथा निष्कृतं संस्कृतं मधु
+> योषणा नारी । तद्वदित्यर्थः । तथा च मंत्रांतरं। उत स्या वां मधुमन्मक्षिकारपन्मदे सोमस्याशिजो हुवन्यति । ऋ. १-११९-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins, who are wise. They stand round the chariot, that is, they are on all sides of it; and, to go to the sacrificer's rite, they reach the chariot. The illustration is Kutsa: as Kutsa and Indra mount a common chariot, so the Aśvins do. He cites another mantra for this, Ṛ. 4-16-11, in which Indra drives with Kutsa on one chariot. Further, the bee carries in its mouth the honey that is the Aśvins' own, as a woman carries honey that has been purified; the meaning is that the bee does so just as a woman would. He cites another mantra here too, Ṛ. 1-119-9, in which the bee, in the intoxication of the Soma, makes a humming sound for the Aśvins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Ashvin gods
+- कवी (*kavī*)—wise ones
+- युवं (*yuvaṃ*)—you
+- रथं परि ष्ठः (*rathaṃ pari ṣṭhaḥ*)—stand round the chariot
+- कुत्सः न (*kutsaḥ na*)—like Kutsa
+- विशः (*viśaḥ*)—to go to his subjects
+- जरितुः (*jarituḥ*)—to go to the worshipper
+- नशायथः (*naśāyathaḥ*)—mount the chariot
+- निष्कृतं (*niṣkṛtaṃ*)—the purified honey
+- योषणा न (*yoṣaṇā na*)—as a woman carries it and brings it
+- युवयोः (*yuvayoḥ*)—your
+- मधु (*madhu*)—honey
+- मक्षा (*makṣā*)—the bee
+- आसा (*āsā*)—with its mouth
+- परि भरत (*pari bharata*)—carries
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, you who are wise, stand round the chariot. As Kutsa mounted a chariot to go to his subjects, mount your chariot. As a woman carries and brings purified honey, the bee carries your honey in its mouth.
+
+### Printed p. 980
+
+##### English translation
+Sage Aswins, stand by your chariot; make it approach (the sacrifice) of the worshipper, as Kutsa (made his chariot approach) men, the fly carries your honey, Aswins, in its mouth as a woman carries purified (honey).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह॑ भु॒ज्युं यु॒वम॑श्विना॒ वशं॑ यु॒वं शिं॒जार॑मु॒शना॒  ॑
+> मुपा॑रथुः ।  
+> यु॒वो ररा॑वा॒ परि॑ स॒ख्यमा॑सते यु॒वोर॒हमव॑सा सु॒म्मना  ॑
+> चके ॥ ७ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । ह । भुज्यं । युवं । अश्विना । वशं । युवं । शिंजारं । उशनां । उप ।  
+> आरथुः ।  
+> युवोः । ररावा । परि । सख्यं । आसते । युवोः । अहं । अवसा । सुम्मं । आ ।  
+> चके ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युवं ह युवां खलु भुज्युं समुद्रमध्यॆ विपन्ननावं
+> तुग्रपुत्रं भुज्युमुपारथुः । उत्तारयितुमुपगतवंतौ भवधः । किंच युवं
+> युवां वशं हस्तिबलेन शत्रुभिः पराजयमानं वशनामधेयं राजानं रक्षणायोपारथुः । किंच युवं युवां शिंजारमत्रिमग्नि कूटादुत्तारयितुमुशनां कमनीयां स्तुतिं च श्रोतुमुपारथुः । तथा च मंत्रांतरं । अत्रिं शिंजारमश्विना ।
+> ऋ. ८-५-२५ । इति । किंच युवोर्युवयोः सख्यं मित्रत्वं ररावा हविषां
+> प्रदाता यजमानो पर्यासते । पर्यास्तॆ ॥ वचनव्यत्ययः ॥ किंच युवोर्युवयोरवसा रक्षणेनाहं घोषा सुम्मं सुखमा चके । कामये ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins. They went to the help of Bhujyu, the son of Tugra, whose ship was wrecked in mid-ocean, to bring him across. They went also to the help of the king named Vaśa, who was being overcome by enemies with the strength of elephants, to protect him. They went also to Śiñjāra, that is, to Atri, to bring him out from the fire-pit, and to hear his desirable praise; he cites another mantra, Ṛ. 8-5-25, in which the two Aśvins are addressed as helpers of Atri and Śiñjāra. Further, the sacrificer, the giver of oblations, honours the friendship of the two Aśvins; the plural verb is used for the singular, a change of number. Further, Ghoṣā says that through their protection she desires happiness.
+
+### Printed p. 981
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Ashvin gods
+- युवं ह (*yuvaṃ ha*)—you
+- भुज्युं (*bhujyuṃ*)—Bhujyu
+- उपारथुः (*upārathuḥ*)—you lifted up from the middle of the sea
+- युवं (*yuvaṃ*)—you
+- वशं (*vaśaṃ*)—protected Vasha from his enemies
+- युवं (*yuvaṃ*)—you
+- शिंजारं (*śiṃjāraṃ*)—to Shinjara
+- उशनां (*uśanāṃ*)—came to hear the attractive praise
+- युवोः (*yuvoḥ*)—your
+- सख्यं (*sakhyaṃ*)—friendship
+- ररावा (*rarāvā*)—the sacrificer, the giver of oblations
+- परि असते (*pari asate*)—honours
+- युवोः (*yuvoḥ*)—your
+- अवसा (*avasā*)—by protection
+- अहं (*ahaṃ*)—I
+- सुम्मं (*summaṃ*)—happiness
+- अ चके (*a cake*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, you lifted up Bhujyu from the middle of the sea; you protected Vasha from his enemies. You came to Shinjara to hear his attractive praise. The sacrificer, the giver of oblations, honours your friendship. Through your protection I desire happiness.
+
+##### English translation
+You came, Aswins, to the rescue of Bhujyu, you came to the rescue of Vasha, you came to Shinjara to (hear) his desirable (praise) : the offerer of oblations beseiges your friendship ; and I desire happiness through your protection
+
+##### विशेषविषयगळु (Special Topics)
+
+भुज्युं (*bhujyuṃ*)—We have already described the matter of Bhujyu. (See p. ) **NOTE**
+
+वशं (*vaśaṃ*)—अत्रापीतिहासमाचक्षते । वशोनाम राजा अश्वप्रायबलः । स हस्तिबलैः शत्रुभिः पराजीयमानः साहाय्यं कर्तुमश्विन् स्तुत्वाजुहाव । तं प्रति तस्मिन्नेवाहनि अश्विनावाजग्मतुरिति । (*atrāpītihāsamācakṣate | vaśonāma rājā aśvaprāyabalaḥ | sa hastibalaiḥ śatrubhiḥ parājīyamānaḥ sāhāyyaṃ kartumaśvin stutvājuhāva | taṃ prati tasminnevāhani aśvināvājagmaturiti |*) The Kannada says: when a king named Vasha, who had the strength of horses, was being defeated by enemies who had the strength of elephants, he praised the Ashvin gods and called them for help. Then the Ashvin gods came at once and helped him. After telling this story, Skandasvamin has also quoted, saying the same thing, the mantra
+
+एकस्या वस्तोरावतं रणाय वशमश्विना सनये सहस्रा । (*ekasyā vastorāvataṃ raṇāya vaśamaśvinā sanaye sahasrā |*) (Ṛ. Saṃ. 1-116-21) **GLOSS**
+
+### Printed p. 982
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं ह॑ कृ॒शं यु॒वम॑श्विना श॒युं यु॒वं वि॒धंतं॑ वि॒धवा॑मुरुष्यथः ।  
+> यु॒वं स॒निभ्यः॑ स्त॒नयं॑तमश्वि॒नाप॑ व्र॒जपू॑र्णुथः स॒प्तास्यं॑ ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । ह । कृशं । युवं । अश्विना । शयुं । युवं । विधंतं । विधवां ।  
+> उरुष्यथः ।  
+> युवं । सनिभ्यः । स्तनयंतं । अश्विना । अप । व्रजं । ऊर्णुथः । सप्तआस्यं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युवं ह युवां खलु कृशं दुर्बलं कृशनामधेयं
+> वोरुष्यथः । रक्षथः । किंच युवं युवां शयुं शयुनामानमृषिमुरुष्यथः ।
+> किंच युवं युवां विधंतं परिचरंतं मनुष्यं विधवां चापतिकां वध्रिमतीं
+> योद्ध्रीं स्त्रियं चोरुष्यथः । किंच हे अश्विनाश्विन् युवं युवां स्तनयंतं
+> शब्दं कुर्वंतं सप्तास्यं सर्पणशीलद्वारं व्रजं मेघं । व्रजश्चरुरिति मेघनामसु
+> पाठात् । सनिभ्यो हविषां दातृभ्योऽपोर्णुथः । विवृतद्वारं कृतवंतौ स्थ इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins. They protect Kṛśa, the weak one, and they protect the seer named Śayu. They protect also the man who serves them, and the widow, a woman who is without a husband and who is a fighter. Further, for the givers of oblations, they have opened the cloud, which thunders and has seven mouths, a door that glides; the cloud is so named from the reading of the words for cloud, where the word for it is given. The meaning is that they have made the door open for the givers of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Ashvin gods
+- युवं ह (*yuvaṃ ha*)—you
+- कृशं (*kṛśaṃ*)—the man named Krisha
+- उरुष्यथः (*uruṣyathaḥ*)—have protected
+- युवं (*yuvaṃ*)—you
+- शयुं (*śayuṃ*)—have protected Shayu also
+- युवं (*yuvaṃ*)—you
+- विधंतं (*vidhaṃtaṃ*)—the woman who serves you
+- विधवां (*vidhavāṃ*)—and is without a husband, Vadhrimati, you have protected
+- अश्विना (*aśvinā*)—O Ashvin gods
+- युवं (*yuvaṃ*)—you
+- स्तनयंतं (*stanayaṃtaṃ*)—which makes a sound
+- सप्तास्यं (*saptāsyaṃ*)—and has seven mouths
+- व्रजं (*vrajaṃ*)—the cloud
+- सनिभ्यः (*sanibhyaḥ*)—for the sacrificers
+- अप ऊर्णुथः (*apa ūrṇuthaḥ*)—have released and made the rain pour down
+
+##### भावार्थ (Bhāvārtha)
+
+O Ashvin gods, you have protected the man named Krisha. You have protected Shayu also. You have protected Vadhrimati, who serves you and is without a husband. O Ashvin gods, you have released for the sacrificers the cloud, which makes a sound and has seven mouths, and made the rain pour down.
+
+### Printed p. 983
+
+##### English translation
+Verily, Aswins, you protect the feeble man: you protected Shayu: you protect him who worships according to rule, and the widow, (Vadhrimati); you set open, O Aswins, for the donors of oblations the seven-mouthed thundering cloud.
+
+##### विशेषविषयगळु (Special Topics)
+
+तयुं (*tayuṃ*)—We have already told the matter of Shayu. **NOTE**
+
+#### Ṛk 9
+
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> जनि॑ष्ट॒ योषा॑ प॒तय॑त्कनीन॒को वि चारु॑हन्वी॒रुधो॑ दं॒सना॒  ॑
+> अनु ।  
+> आस्मै॑ रीयंते निव॒नेव॒ सिंध॑वो॒ऽस्मा अह्ने॑ भवति॒ तत्प॑तित्व॒नं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> जनिष्ट । योषा । पतयत् । कनीनकः । वि । च । अरुहन् । वीरुधः । दंसनाः । अनु ।  
+> आ । अस्मै । रीयंते । निवना इव सिंधवः । अस्मै । अह्ने । भवति । तत् । पतित्वनं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवयोः प्रासादादियं घोषा योषा स्त्रीगुणोपेता
+> सुभगा जनिष्ट । जाता । अस्याः समीपे कनीनकः कन्याकामः पतिः पतयत् । पततु ।
+> अस्मै कनीनकाय युवयोर्दंसना अनु वृष्टिलक्षणानि कर्माणि लक्ष्मीकृत्य वीरुध
+> ओषधयो वि चारुहन् । विरोहंतु । प्रादुर्भवंतु । अस्मै कनीनकाय निवनेव
+> प्रवणेनेव सिंधव उदकान्या रीयंते । ता वीरुधोऽभिगच्छंतु । किंचाह्ने केनाप्यहंतव्यायास्मै कनीनकाय तत्संभोगसमर्थं पतित्वनं यौवनं भवति । भवतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins. From their palace, this Ghoṣā, a woman endowed with the qualities of a woman and fortunate, has been born. Near her, let the suitor, a husband who desires a maiden, come flying. For this suitor, in view of the rain-producing deeds of the two Aśvins, let the herbs grow up and come forth. For this suitor, as waters run down a slope, so let the streams of water flow to those herbs. Further, for this suitor, who is not to be killed by anyone, there is by day the youthfulness that is fit for enjoyment of her, the state of being a husband. May it be so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- योषा (*yoṣā*)—(O Ashvin gods) this woman, named Ghosha
+- जनिष्ट (*janiṣṭa*)—has been born
+- कनिनकः (*kaninakaḥ*)—the bridegroom who desires a maiden
+- पतयत् (*patayat*)—let him come
+- दंसनाः अनु (*daṃsanāḥ anu*)—by the falling of rain
+
 ---
 
-**Progress note:** Done through printed p. 977. Ṛk 2-4 of sūkta 40, start of Ṛk 5
+**Progress note:** Done through printed p. 983. Sūkta 40 Ṛk 6-9 start, pp. 978-983
