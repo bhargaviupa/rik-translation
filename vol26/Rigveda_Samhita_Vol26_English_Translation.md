@@ -11608,6 +11608,268 @@ Soma, the shinning rays of you who are accompanied by brilliance, spread the pur
 > तव । इमे । सप्त । सिंधवः । प्रऽशिषम् । सोम । सिस्रते ।  
 > तुभ्यम् । धावंति । धेनवः ॥ ६ ॥
 
+### Printed p. 315
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सृष्टिकर्तृत्वप्रसंगादाह । हे सोम इमे इमाः त्वया सृष्टाः सप्त सप्तसंख्याकाः सिंधवः स्यंदमाना गंगाद्या नद्यः । यद्वा सप्त सर्पणशीला नद्यः तव प्रशिषं प्रशासनमाज्ञामभि सिस्रते अनुसरंति । त्वदाज्ञामनुसृत्य समुद्रं गच्छंतीत्यर्थः । किंच धेनवः नवप्रसूतिका देवानां हविष्प्रदानेन प्रीणयित्र्यो गावः तुभ्यं त्वदर्थमेवाशिरं प्रयच्छाम इति धावंति आगच्छंति ।
+
+##### Gist of the bhāṣya
+
+Because the creation of things has come up, Sāyaṇa says: O Soma, these seven rivers, Gaṅgā and the others, created by you and flowing, follow your command (or else: the seven gliding rivers go after your order). Obeying your command they go to the ocean. Further, the milch cows, newly calved, who please the gods by the gift of oblations, run to you, thinking: we shall give you the milk-mixture for your sake.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- इमे (*ime*)—created by you
+- सप्त (*sapta*)—seven in number
+- सिंधवः (*siṃdhavaḥ*)—the rivers, Gaṅgā and others
+- तव (*tava*)—your
+- प्रशिषं (*praśiṣaṃ*)—obedient to command
+- सिस्रते (*sisrate*)—flow
+- धेनवः (*dhenavaḥ*)—the milk-giving cows
+- तुभ्यं (*tubhyaṃ*)—to you, to provide the milk-mixture
+- धावंति (*dhāvaṃti*)—come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, these Gaṅgā and other rivers, seven in number, created by you, flow obedient to your command. The milk-giving cows come quickly to provide you the milk-mixture.
+
+##### English translation
+These your seven rivers flow, Soma, at your command : the milch cows hasten to you.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सो॑म याहि॒ धार॑या सु॒त इंद्रा॑य मत्स॒रः ।  
+> दधा॑नो॒ अक्षि॑ति॒ श्रवः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोम । याहि । धारया । सुतः । इंद्राय । मत्सरः ।  
+> दधानः । अक्षिति । श्रवः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अभिषूयमाण देव मत्सरः इंद्रस्य मदकरस्वं सुतः अस्माभिरभिषुतः सन् इंद्राय इंद्रार्थं दशापवित्रान्निर्गतया संततया त्वदीयया धारया द्रोणकलशं प्र याहि प्रकर्षेण प्राप्नुहि । यद्वा । हे सोम सुतोऽभिषुतस्त्वमिंद्राय मत्सरो मादयितृतमः सन् धारयाग्नौ स्वाहाकारेण पात्रात् पतंत्या धारया सह त्वमिंद्रमुपयाहि । कीदृशः । अक्षिति अक्षीणं श्रवः। श्रव इत्यन्ननाम । दधानः अस्मभ्यं प्रयच्छन् प्र याहीति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, god who is pressed, exhilarating (delighter) of Indra, being pressed by us, go forth for Indra with your stream, which flows continuously from the ten-fold filter, to the Droṇa-vessel; reach it forcefully. Or else: O pressed Soma, most intoxicating for Indra, go to Indra together with the stream that falls from the vessel into the fire with the call svāhā. How are you? Bestowing on us inexhaustible food, for śravas is a name for food.
+
+### Printed p. 316
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- मत्सरः (*matsaraḥ*)—you who give delight to Indra
+- सुतः (*sutaḥ*)—pressed
+- अक्षिति (*akṣiti*)—imperishable
+- श्रवः (*śravaḥ*)—food
+- दधानः (*dadhānaḥ*)—giving to us
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- धारया (*dhārayā*)—in the form of a stream
+- प्रे याहि (*pre yāhi*)**NOTE**—flow towards the Droṇa-vessel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who give delight to Indra, as soon as you are pressed, giving us imperishable food, flow in the form of a stream, for the sake of Indra, towards the Droṇa-vessel.
+
+##### English translation
+Proceed, Soma, in a stream when effused, giving exhilaration to Indra, bestowing (upon us) inexhaustible food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समु॑ त्वा धी॒भिर॑स्वरन्हिन्व॒तीः स॒प्त जा॒मयः॑ ।  
+> विप्र॑मा॒जा वि॒वस्व॑तः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । ऊं इति । त्वा । धीभिः । अस्वरन् । हिन्वतीः । सप्त । जामयः ।  
+> विप्रम् । आजा । विवस्वतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम हिन्वतीः । लिंगव्यत्ययः । हिन्वंतः स्तुतीः प्रेरयंतः सप्त सप्तसंख्याकाः जामयः एकस्मिन् यज्ञे कर्मकरणेन परस्परं बंधुभूता होतृप्रभृतयः सप्त होत्रकाः विवस्वतः देवानां हविष्प्रदानेन परिचरणवतो यजमानस्य आजा आजौ । अजंति गच्छंति ऋत्विजोऽत्रेत्याजिर्यज्ञः । तस्मिन् विप्रं मेधाविनं पवमानं त्वा त्वामेव धीभिः धीतिभिः स्तुतिभिः सम् अस्वरन् अशब्दयन् अस्तुवन् । यद्वा । हिन्वतीर्गच्छंत्यः सप्त जामयो गंगाद्याः सप्त नद्यो धीभिः । वर्णलोपश्छांदसः । धीतिभिः अंगुलीभिर्विप्रं त्वां समस्वरन् प्रेरयंति । वसतीवरीभिरेकधनाभिश्च परिशोधनार्थं प्रेरयंतीति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the seven kinsmen (jāmi), the Hotṛ and the other priests, who are related to one another by performing the rites in one sacrifice, urging on (the verb hinvatīḥ, with a change of gender) their praises, the seven officiants of the sacrifice of the worshipper, who serves the gods with the gift of oblations, praised you, the wise one who purifies himself, in the sacrifice (āji, the place where the priests go), with their hymns. Or else: the seven flowing sisters, the seven rivers Gaṅgā and the others, with the fingers (dhītibhiḥ, a letter being dropped in the Vedic idiom) urge you, the wise one, on; they urge you for purification, with the vasatīvarī and the ekadhanā waters.
+
+### Printed p. 317
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- हिन्वतीः (*hinvatīḥ*)—those who offer praises
+- सप्त (*sapta*)—seven in number
+- जामयः (*jāmayaḥ*)—the Hotṛs, who are kinsmen in one sacrifice and engaged in the rite
+- विवस्वतः (*vivasvataḥ*)—of the sacrificer
+- आजा (*ājā*)—in the sacrifice
+- विप्रं (*vipraṃ*)—wise
+- त्वा उ (*tvā u*)—you indeed
+- धीभिः (*dhībhiḥ*)—with praises
+- समस्वरन् (*samasvaran*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, these seven Hotṛs, who offer praises and who help one another in the same sacrifice, praise you, the wise one, with praises in the sacrifice of the sacrificer.
+
+##### English translation
+The seven kindred (priests) uttering (praises) and worshipping (the gods with oblations) invoked you the sage at the sacrifice with hymns.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मृ॒जंति॑ त्वा॒ सम॒ग्रुवोऽव्ये॑ जी॒रावधि॒ ष्वणि॑ ।  
+> रे॒भो यद॒ज्यसे॒ वने॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मृजंति । त्वा । सम् । अग्रुवः । अव्ये । जीरौ । अधि । स्वनि ।  
+> रेभः । यत् । अज्यसे । वने ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अग्रुवः । अंगुलिनामैतत् । अजंति प्रक्षिपंति हवींष्यग्नाविति । यद्वा अगेर्गत्यर्थस्य । कर्मकरणार्थमितस्ततो गच्छंतीति । अग्रुवोऽंगुलयोऽस्मदीयाः जीरौ पापानामभिभावुके क्षिप्रं कृते वा स्वनि अधि अधिकं शब्दायमाने अव्ये अविवालेन कृते पवित्रे त्वा त्वां तदा सं मृजंति सम्यक् शोधयंति । यत् यदा रेभः । ‘ रेभृ शब्दे । उदकमध्ये प्रक्षेपेण शब्दायमानस्त्वं वने वननीये वसतीवर्याख्य उदके अज्यसे अक्तः सिक्तो भवसि । तदा मृजंतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, agruvaḥ is a name of the fingers: they throw the oblations into the fire; or else, from the root of motion, they go hither and thither for the performance of the rite. Our fingers then cleanse you thoroughly in the pavitra (filter) made of sheep's wool, which quickly overcomes sins (jīra), makes a loud sound, when you, making a noise, are put into the water, and are sprinkled in the water called vasatīvarī, the vananīya water. This is the construction: they cleanse you then. The word rebha is derived from the root meaning to sound: it means you who make a noise when thrown into the water.
+
+### Printed p. 318
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)(O Soma-deva)—when
+- रेभः (*rebhaḥ*)—you who sound in the midst of the water
+- वने (*vane*)—in the venerable water
+- अज्यसे (*ajyase*)—you are mixed, then
+- अग्रुवः (*agruvaḥ*)—the fingers
+- जीरौ (*jīrau*)—quickly
+- स्वनि अधि (*svani adhi*)—loud-sounding, to a great degree
+- अव्ये (*avye*)—in the ten-fold filter
+- त्वा (*tvā*)—you
+- सं मृजंति (*saṃ mṛjaṃti*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, when you, who make a noise in the midst of the water, are mixed in the venerable water, then the ten fingers purify you in the ten-fold filter, which is quickly made and makes a loud sound.
+
+##### English translation
+The fingers cleanse you in the quickly-made loud-sounding (woollen) filter, when with a noise you are sprinkled with the water.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानस्य ते कवे॒ वाजि॒न् त्सर्गा॑ असृक्षत ।  
+> अर्वं॑तो॒ न श्र॑व॒स्यवः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानस्य । ते । कवे । वाजिन् । सर्गाः । असृक्षत ।  
+> अर्वंतः । न । श्रवस्यवः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मार्जनप्रसंगमाह । हे कवे क्रांतप्रज्ञ हे वाजिन् अन्नवन् सोम पवमानस्य दशापवित्रेण पूयमानस्य ते तव सर्गाः । सृज्यंत इति सर्गा धाराः । कीदृशाः । श्रवस्यवः । छंदसि परेच्छायां क्यच् । यष्टॄणामन्नं कामयमानास्त्वदीया धाराः असृक्षत सृजंति । निर्गच्छंतीत्यर्थः । तत्र दृष्टांतः । अर्वंतो न । यथाश्वा मंदुरातो निर्गच्छंति तद्वत् पवित्रान्निःसरंतीत्यर्थः । प्रयोगापेक्षं चात्र धाराबाहुल्यम् ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues on the subject of purification. O sage (kavi, of far-reaching wisdom), O possessor of food, O Soma, who are being purified by the ten-fold filter, your streams (sargāḥ, that are poured forth) desiring food (śravasyavaḥ, desiring the food of the worshippers, with the suffix kyac in the Veda in the sense of desire for another) are let loose, that is, they flow out. An example: just as horses go out from the stable, so they come forth from the filter. The abundance of streams is relative to the use in the rite.
+
+### Printed p. 319
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—you of far-reaching wisdom
+- वाजिन् (*vājin*)—you who possess food, O Soma-deva
+- पवमानस्य (*pavamānasya*)—purified in the ten-fold filter
+- ते (*te*)—your
+- श्रवस्यवः (*śravasyavaḥ*)—desiring oblation
+- सर्गाः (*sargāḥ*)—streams
+- अर्वंतो न (*arvaṃto na*)—like swiftly running horses
+- असृक्षत (*asṛkṣata*)—flow quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you of far-reaching wisdom and possessor of food, your streams, which desire the oblation and are purified in the ten-fold filter, flow quickly like swiftly running horses.
+
+##### English translation
+Sage Soma, possessor of food, your food-desiring streams when you are filtered are let loose like horses.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॒ कोशं॑ मधु॒श्चुत॒मसृ॑ग्रं॒ वारे॑ अ॒व्यये॑ ।  
+> अवा॑वशंत धी॒तयः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । कोशम् । मधुऽश्चुतम् । असृग्रम् । वारे । अव्यये ।  
+> अवावशंत । धीतयः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धारानिर्गमनप्रसंगादभिधीयते । मधुश्चुतं मधुररसस्य च्यावयितारं क्षारयितारं कोशं द्रोणकलशम् अच्छ अभिलक्ष्य अव्यये अविमये अविस्वभूते वा वारे वाले दशापवित्रे असृग्रं सोमा ऋत्विग्भिः सृज्यंते । सृजेः कर्मणि तिङां तिङो भवंति' इति झो रमादेशः। किंच धीतयः । अंगुलिनामैतत् । धयंति पिबंत्याभिरिति । अस्मदीया अंगुलयः अवावशंत तान् सोमान् पुनःपुनर्मार्जनार्थं कामयंते ॥
+
+##### Gist of the bhāṣya
+
+Because the flowing out of the streams has been mentioned, this is said. The Somas are poured by the priests towards the Droṇa-vessel, which makes the sweet juice flow (madhuścut), upon the vāra (hair), the ten-fold filter, made of wool, avyaya (not of sheep's own, or else not belonging to oneself). Further, dhītayaḥ is a name of the fingers, by which one drinks. Our fingers desire those Somas again and again for purification.
+
+### Printed p. 320
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुश्चुतं (*madhuścutaṃ*)—that which makes the sweet juice flow
+- कोशं अच्छ (*kośaṃ accha*)—towards the ten-fold filter
+- अव्यये (*avyaye*)—made of wool
+- वारे (*vāre*)—on the fibres
+- असृग्रं (*asṛgraṃ*)—the Soma juices are poured out
+- धीतयः (*dhītayaḥ*)—the fingers
+- अवावशंत (*avāvaśaṃta*)—are eager to purify them
+
+##### भावार्थ (Bhāvārtha)
+
+Towards the ten-fold filter that makes the sweet juice flow, upon the fibres made of wool, the Soma juices are poured out. The fingers are eager to purify them.
+
+##### English translation
+They are let loose in the woollen filter (to go) towards the honey-dropping vessel; our fingers have desired them.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ समु॒द्रमिंद॒वोऽस्तं॒ गावो॒ न धे॒नवः॑ ।  
+> अग्म॑न्नृ॒तस्य॒ योनि॒मा ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । समुद्रम् । इंदवः । अस्तम् । गावः । न । धेनवः ।  
+> अग्मन् । ऋतस्य । योनिम् । आ ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंदवः क्षरंतः सोमाः समुद्रं सोमानामेकत्रैव संगमनस्थानं द्रोणकलशम् अच्छ अभि गच्छंति । तत्र दृष्टांतः । धेनवः पयःप्रदानेन जनानां प्रीणयित्र्यो नवप्रसूतिकाः गावः अस्तं गृहं यथाभिगच्छंति तद्वत् । किंच ते सोमाः ऋतस्य सत्यभूतस्य यज्ञस्य योनिं स्थानम् आ अग्मन् आभिमुख्येन गच्छंति । गमेर्लुङि सिचो लुक्युपधालोपः ॥
+
+##### Gist of the bhāṣya
+
+The flowing Somas (indavaḥ) go towards the ocean, the one place where the Somas meet together, the Droṇa-vessel. An example: just as the milch cows (dhenavaḥ, who please people by giving milk, newly calved) go towards their home (astam). Further, those Somas come towards the place (yoni) of the sacrifice (ṛta, which is truthful).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवः (*dhenavaḥ*)—the milk-giving
+- गावः (*gāvaḥ*)—cows
+- अस्तं न (*astaṃ na*)—as they go towards home
+- इंदवः (*iṃdavaḥ*)—the flowing Somas
+- समुद्रं अच्छ (*samudraṃ accha*)—where all the juices gather together**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 314. Rk 9.65.30 end; Sukta 9.66 Rk 1-6
+**Progress note:** Done through printed p. 320. Sūkta 66 Ṛk 6 bhāṣya to Ṛk 12, pp. 315-320
