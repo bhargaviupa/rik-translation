@@ -13128,6 +13128,97 @@ The wind blows downwards, the sun burns downwards, the cow yields her milk downw
 
 With this Ṛk the kinsmen and others touched Subandhu, who had regained life, with their hands. "This hand of mine is blessed (भगवान् (*bhagavān*))", since it touches the living Subandhu. So "this hand of mine is more blessed", blessed in the highest degree. So "this hand of mine is the all-healing one", possessing all the medicines that serve for the healing of the living, or standing in their place. "This is the touch of auspiciousness", the touch that brings good fortune; the meaning is that it touches one who is alive, hence so.
 
+### Printed p. 398
+## Sūkta 61 (Maṇḍala 10)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my (the one who touches the living Subandhu)
+- अयं हस्तः (*ayaṃ hastaḥ*)—this hand
+- भगवान् (*bhagavān*)—is blessed
+- मे (*me*)—my
+- अयं (*ayaṃ*)—the other hand
+- भगवत्तरः (*bhagavattaraḥ*)—is still more blessed
+- अयं मे (*ayaṃ me*)—this hand of mine
+- विश्वभेषजः (*viśvabheṣajaḥ*)—possesses the medicine that makes a dead man live
+- अयं (*ayaṃ*)—this hand of mine
+- शिवाभिमर्शनः (*śivābhimarśanaḥ*)—has a touch that brings welfare
+
+##### भावार्थ (Bhāvārtha)
+
+This hand of mine, which touches the living Subandhu, is blessed. My other hand is still more blessed. This hand of mine possesses the medicine that makes a dead man live. This hand of mine has a touch that brings welfare.
+
+##### English translation
+(The Rishis speak :) This my hand is fortunate ; this my (other hand) is (still) more fortunate : this my (hand) has all medicaments : this has a blessed touch.
+
+**Introduction**
+An account concerning this sūkta is told in the Aitareya Brāhmaṇa (Ai. Brā. 22-14) and in the Taittirīya Saṃhitā (Tai. Saṃ. 3-1-9-4). It is set out here.
+
+At the time of reciting the mantras of the Praüga-śastra, many sūktas addressed to several deities have to be recited. Among them two sūktas addressed to the Viśvedevas must also be recited:
+
+इदमित्था रौद्रं गूर्तवचा ये यज्ञेन दक्षिणया समक्ता इति वैश्वदेवं ॥ (*idamitthā raudraṃ gūrtavacā ye yajñena dakṣiṇayā samaktā iti vaiśvadevaṃ ‖*) (Ai. Brā. 22-13)
+
+These are: the 61st sūkta of the 10th Maṇḍala of the Ṛgveda Saṃhitā, beginning इदमित्था रौद्रं गूर्तवचा (*idamitthā raudraṃ gūrtavacā*), and the 62nd sūkta, beginning ये यज्ञेन दक्षिणया समक्ता (*ye yajñena dakṣiṇayā samaktā*), are to be recited.
+
+नाभानेदिष्टं शंसति । (*nābhānediṣṭaṃ śaṃsati |*) (Ai. Brā. 22-14)
+
+These sūktas are called the Nābhānediṣṭa sūktas, because the seer (draṣṭṛ) of these sūktas is the ṛṣi named Nābhānediṣṭa. It is customary to name a sūkta after its ṛṣi; therefore these sūktas are called Nābhānediṣṭa sūktas. There is an account concerning this ṛṣi Nābhānediṣṭa. It is set out here:
+
+### Printed p. 399
+नाभानेदिष्टं वै मानवं ब्रह्मचर्यं वसंतं भ्रातरो निरभजन्सोब्रवी- देत्य किं मह्यमभाक्तेत्येतमेव निष्ठावमववदितारमित्यब्रुवंस्तस्माद्धाष्येतर्हि पितरं पुत्रा निष्ठावोऽववदितेत्येवाचक्षते ॥ म (*nābhānediṣṭaṃ vai mānavaṃ brahmacaryaṃ vasaṃtaṃ bhrātaro nirabhajansobravī- detya kiṃ mahyamabhāktetyetameva niṣṭhāvamavavaditāramityabruvaṃstasmāddhāṣyetarhi pitaraṃ putrā niṣṭhāvo 'vavaditetyevācakṣate ‖ ma*)
+
+Nābhānediṣṭa, the son of Manu, as soon as he had undergone the upanayana, lived in the teacher's house in brahmacarya and studied the Veda. While he was away from his father's house, his elder brothers reflected selfishly: "Our younger brother Nābhānediṣṭa is still a boy; he is studying in the teacher's house. He has no need of wealth. So let us share our father's wealth and property among ourselves." Leaving nothing for Nābhānediṣṭa, they divided all the property that there was among themselves. After some time Nābhānediṣṭa finished his studies, came back from the teacher's house and said to his elder brothers: "Brothers, you have shared out the whole property among yourselves. You have left nothing for me. Where is my share of the property?" At this they pointed with the hand to their father Manu, who was standing there, and said: "Nābhānediṣṭa, ask your father; we know nothing of this matter. Your father is one who has fixed the Dharmaśāstra itself and knows well the secret of dharma. Ask him." (Ai. Brā. 22-14)
+
+Here the words निष्ठावः (*niṣṭhāvaḥ*) and अववदिता (*avavaditā*) are used. It is necessary to explain them.
+
+धनविभागादेर्धर्मरहस्यं निःशेषेण स्थितिनिर्णयो निष्ठा । सा यस्मिन्नस्ति स निष्ठावः । तादृशं धर्मरहस्यनिर्णेतारमित्यर्थः ॥ (*dhanavibhāgāderdharmarahasyaṃ niḥśeṣeṇa sthitinirṇayo niṣṭhā | sā yasminnasti sa niṣṭhāvaḥ | tādṛśaṃ dharmarahasyanirṇetāramityarthaḥ ‖*) (Sā. Bhā.) **NOTE**
+
+The making of a decision, in the division of wealth, by knowing the secret of dharma and acting according to it, is called niṣṭhā. A man in whom such niṣṭhā exists is called niṣṭhāvat. That is, the meaning is a man able to know the secret of dharma and accordingly to divide the wealth among sons and others.
+
+अववदितारं । ज्येष्ठपुत्रस्यैतावत् । द्वितीयस्यैतावत् । अन्यस्यैतावत् ! इत्यवच्छिद्य वदितुं समर्थोऽवनवदिता । तादृशं । आयं मनुर्धर्मशास्त्रकर्तृत्वाद्धर्मरहस्यनिर्णयवान्पितृत्वेन तनैतावदित्यवच्छिद्य वक्तुं समर्थश्च ॥ (*avavaditāraṃ | jyeṣṭhaputrasyaitāvat | dvitīyasyaitāvat | anyasyaitāvat ! ityavacchidya vadituṃ samartho 'vanavaditā | tādṛśaṃ | āyaṃ manurdharmaśāstrakartṛtvāddharmarahasyanirṇayavānpitṛtvena tanaitāvadityavacchidya vaktuṃ samarthaśca ‖*) (Sā. Bhā.)
+
+One who divides separately—so much for the eldest son, so much for the second, so much for the third—and states it before them. Here, since Manu is the author of the Dharmaśāstra, he knows the secret of dharma and has divided the property among his sons accordingly. In this matter he is himself competent. Therefore the elder brothers said to their younger brother Nābhānediṣṭa: "Ask him about your property." This is the meaning.
+
+### Printed p. 400
+स पितरमेत्याब्रवीत्वां ह वाव मह्यं त (ता) ताभाक्षुरिति तं पिताब्रवीन्मा पुत्रक तदादृथा अंगिरसो वा इमे स्वर्गाय लोकाय सत्रमासते ते षष्ठं पष्ठमेवाहरागत्य मुह्यंति तानेते सूक्ते षष्ठेऽहनि शंसय तेषां यत्सहस्रं सत्रपरिवेषणं तत्ते स्वयंतो दास्यंतीति तथेति ॥ (*sa pitarametyābravītvāṃ ha vāva mahyaṃ ta (tā) tābhākṣuriti taṃ pitābravīnmā putraka tadādṛthā aṃgiraso vā ime svargāya lokāya satramāsate te ṣaṣṭhaṃ paṣṭhamevāharāgatya muhyaṃti tānete sūkte ṣaṣṭhe 'hani śaṃsaya teṣāṃ yatsahasraṃ satrapariveṣaṇaṃ tatte svayaṃto dāsyaṃtīti tatheti ‖*)
+
+Then, according to his brothers' word, Nābhānediṣṭa came to his father and said: "Father, my elder brothers said, 'It is you who divided the property for us, so my share is with you; take it from him.' Therefore give me the share of the property that remains with you." Hearing this, his father Manu said: "Boy, do not put faith in your brothers' word; what they said is not true. The share due to you is not with me. They took everything themselves. Yet do not worry. I shall tell you a way by which you may obtain wealth; listen. In a place near here the great ṛṣis called Aṅgirases, desiring to go to heaven, are performing a sattra sacrifice for that purpose. Though they began the sattra many times before, they were not able to complete it. On the sixth day of that sacrifice, at the time of reciting the mantras, they do not know which mantra suited to the occasion should be recited, and are in doubt. Without the completion of the sattra they have not obtained heaven. Therefore they are greatly anxious. On the sixth day of the sattra go to their sacrifice and recite the sūktas इदमित्था (*idamitthā*) and ये यज्ञेन (*ye yajñena*) (the 61st and 62nd sūktas of the 10th Maṇḍala). Thereby the sattra they are performing will be completed, and they will give you whatever remains of the wealth, a thousand in number, gathered for the sacrifice." Hearing this, Nābhānediṣṭa agreed, "So be it," and set out for their sacrifice.
+
+तानुपैत्यतिगृभ्नीत मानवं सुमेधस इति तमब्रुवन्निंकामो वदसीतीदमेव वः षष्ठमहः प्रज्ञापयानीत्यब्रवीदथ यद्व एतत्सहस्रं सत्रपरिवेषणं तन्ने स्वर्यंतो दत्तेति तथेति तानेते सूक्ते पष्ठेऽहन्यशंसयत्ततो वै ते प्र यज्ञमजानन्द्र स्वर्गं लोकं तद्यदेते सूक्ते षष्ठेऽहनि शंसति यज्ञस्य प्रज्ञात्यै स्वर्गस्य लोकस्यानुख्यात्यैः ॥ (*tānupaityatigṛbhnīta mānavaṃ sumedhasa iti tamabruvanniṃkāmo vadasītīdameva vaḥ ṣaṣṭhamahaḥ prajñāpayānītyabravīdatha yadva etatsahasraṃ satrapariveṣaṇaṃ tanne svaryaṃto datteti tatheti tānete sūkte paṣṭhe 'hanyaśaṃsayattato vai te pra yajñamajānandra svargaṃ lokaṃ tadyadete sūkte ṣaṣṭhe 'hani śaṃsati yajñasya prajñātyai svargasya lokasyānukhyātyaiḥ ‖*)
+
+Then Nābhānediṣṭa went to the place where the Aṅgirases were sacrificing, and addressing them prayed: प्रति गृभ्नित मानवं सुमेधसः (*prati gṛbhnita mānavaṃ sumedhasaḥ*) (this is the last pāda of the Ṛks 1-4 of Ṛ. Saṃ. 10-62). "O wise ṛṣis, accept me, the son of Manu (Nābhānediṣṭa)." Hearing this, the Aṅgirases asked: "Nābhānediṣṭa, what do you desire? For what have you come to us and speak thus?" Nābhānediṣṭa replied: "O ṛṣis, this is the sixth day of the sattra that you are now performing. I shall remove the doubt that you have as to which mantras are to be recited today and how the rite is to be performed, and I shall tell you what is to be done next. When you have thus completed the sattra and are going to heaven, give me the thousand cows left over from what was gathered for the sacrifice, and the other wealth."
+
+### Printed p. 401
+The ṛṣis agreed, "So be it", and Nābhānediṣṭa recited the sūkta इदमित्था रौद्रं (*idamitthā raudraṃ*) (Ṛ. Saṃ. 10 61) and the sūkta ये यज्ञेन (*ye yajñena*) (Ṛ. Saṃ. 11-62) **NOTE** and had them recited by them too. Thereby the ṛṣis' sacrifice was completed in all its parts, and they came to know the form of the performance of the sacrifice and the attainment of the heavenly world. Therefore on the sixth day of the sacrifice the hotṛ must recite these two sūktas. Thereby the performance of the sacrifice and the attainment of heaven come about.
+
+तं स्वर्यंतोऽब्रवन्नेतत्ते ब्राह्मण सहस्रमिति तदेनं समाकुर्वाणं पुरुषः कृष्णशवास्युत्तरत उपोत्थायाब्रवीन्मम ना इदं मम वै वास्तुहमिति सोऽब्रवीन्मह्यं ना इदमदुरिति तमब्रवीत्तद्वैन्‌ तनैव पितरि प्रश्नॆ इति स पितरमैत्तं पिताब्रवीन्ननु ते पुत्रकादू ३ रित्यदुरेव म इत्यब्रवीत्तत्तु मे पुरुषः कृष्णशवास्युत्तरत उपोदतिष्ठन्मम ना इदं मम वै वास्तुहमित्यादितेति तं पिताब्रवीत्तस्यैव पुत्रकॆ तत्तत्तु स तुभ्यं दास्यतीति स पुनरेत्याब्रवीत्तव ह वाव किल भगव इदमिति मे पिताहेति सोऽब्रवीत्तदहं तुभ्यमेव ददामि य विव सत्यमवादीरिति ॥ (*taṃ svaryaṃto 'bravannetatte brāhmaṇa sahasramiti tadenaṃ samākurvāṇaṃ puruṣaḥ kṛṣṇaśavāsyuttarata upotthāyābravīnmama nā idaṃ mama vai vāstuhamiti so 'bravīnmahyaṃ nā idamaduriti tamabravīttadvain tanaiva pitari praśnè iti sa pitaramaittaṃ pitābravīnnanu te putrakādū 3 rityadureva ma ityabravīttattu me puruṣaḥ kṛṣṇaśavāsyuttarata upodatiṣṭhanmama nā idaṃ mama vai vāstuhamityāditeti taṃ pitābravīttasyaiva putrakè tattattu sa tubhyaṃ dāsyatīti sa punaretyābravīttava ha vāva kila bhagava idamiti me pitāheti so 'bravīttadahaṃ tubhyameva dadāmi ya viva satyamavādīriti ‖*)
+
+When the sacrifice was completed, the ṛṣis called Nābhānediṣṭa and said: "Brāhmaṇa, we are going to heaven. So we have no need of these cows. As said before, we have given you these thousand cows. Take them." [Here, in the Brāhmaṇa sentence above, only the word सहस्रं (*sahasraṃ*) occurs. As to how the word सहस्र (*sahasra*) comes to mean a thousand cows, the commentator cites a Brāhmaṇa sentence of another śākhā:] ते सुवर्गं लोकं यंतो य एषां पशव आसंस्तानस्मा अददुः (*te suvargaṃ lokaṃ yaṃto ya eṣāṃ paśava āsaṃstānasmā adaduḥ*). According to the ṛṣis' word Nābhānediṣṭa was gathering the cows they had given to himself, when on the northern side of that sacrificial ground a man wearing dirty clothes appeared and said to Nābhānediṣṭa: (In the original it is कृष्णशवासी (*kṛṣṇaśavāsī*).)
+
+अतिशयेन कृष्णं मलिनं वस्त्रं कृष्णशं तद्वस्त्र आच्छादयतीति कृष्णशवासी । (*atiśayena kṛṣṇaṃ malinaṃ vastraṃ kṛṣṇaśaṃ tadvastra ācchādayatīti kṛṣṇaśavāsī |*) अत्रायं मलिनवस्त्रः पुरुषः पशुस्वामी रुद्र इत्यवगंतव्यं । (*atrāyaṃ malinavastraḥ puruṣaḥ paśusvāmī rudra ityavagaṃtavyaṃ |*) तथा च शाखांतरे पठ्यते—तं पशुभिश्चरंतं यज्ञवास्तौ रुद्र आसच्छत् । (*tathā ca śākhāṃtare paṭhyate—taṃ paśubhiścaraṃtaṃ yajñavāstau rudra āsacchat |*)
+
+That which is extremely dirty is called kṛṣṇaśa, and one who wears such a dirty garment is called kṛṣṇaśavāsī. Here the wearer of the dirty garment is none other than Rudra. On this the śruti sentence is: तं पशुभिश्चरंतं यज्ञवास्तौ रुद्र आगच्छत् (*taṃ paśubhiścaraṃtaṃ yajñavāstau rudra āgacchat*). He said: "Nābhānediṣṭa, all the animals that remain in this sacrificial ground are mine. You must not take them." (In the original
+
+### Printed p. 402
+the word वास्तुहं (*vāstuhaṃ*) is used. वास्तु (*vāstu*) means the sacrificial ground.)
+
+वास्तौ यज्ञभूमौ हीनं कर्मांते परित्यक्तं वास्तुहं तादृशं सर्वं ममैव स्वं (*vāstau yajñabhūmau hīnaṃ karmāṃte parityaktaṃ vāstuhaṃ tādṛśaṃ sarvaṃ mamaiva svaṃ*)—after the completion of the rite, all that is left in the sacrificial ground is my property and so must come to me: such is Rudra's statement.
+
+Hearing this, Nābhānediṣṭa said to that man: "Rudra, the Aṅgirases gave me these thousand cows. Therefore they are mine." Then Rudra said: "Nābhānediṣṭa, since I say these cows are mine and you say they must belong to you, the settlement of this question must come from your father. So go to your father, ask whose these cows are, and come back." According to Rudra's word Nābhānediṣṭa went to his father. His father Manu asked him: "Boy, did the Aṅgirases not give you cows?" Nābhānediṣṭa said: "The Aṅgirasa ṛṣis gave me cows." Manu asked: "Then what is the matter now? Why have you come empty-handed, without bringing the cows?" Nābhānediṣṭa said: "The ṛṣis gave me the cows. When I was taking them, a man in dirty clothes came from the northern direction of the sacrificial ground and said, 'All these thousand cows are mine, for I am the owner of what remains in the sacrificial ground after the rite is completed,' and he took all those cows himself." Having said this he stood silent. Then his father said: "Son, what that man in dirty clothes says is right. Rudra is the owner of the cows and other wealth that remain in the sacrificial ground; for Rudra is the lord of animals, and he is also the owner of what remains of the sacrifice. Even so, do not worry about this matter. That Rudra will give the cows to you himself." So he sent him back. Hearing his father's word, Nābhānediṣṭa came again to Rudra and told him his father's word thus: "All these animals belonged to the Aṅgirases during the sacrifice. After the completion of the sacrifice, Rudra is the master of the remaining animals and wealth. Therefore the Aṅgirases have no authority to give them to others. So, revered one, all this is yours." Thus he told Rudra his father's statement. (The commentator cites a śruti sentence for Rudra's statement in another śākhā:) न वै तस्य तदीशत इत्यब्रवीद्यज्ञवास्तौ हीयते मम वै तत् (*na vai tasya tadīśata ityabravīdyajñavāstau hīyate mama vai tat*). Rudra was pleased with Nābhānediṣṭa's word and said: "Brāhmaṇa, since you have spoken the truth without telling a lie, I give you those thousand cows; take them." And he gave him the thousand cows.
+
+तस्मादेवं विदुषा सत्यमेव वदितव्यं स एष सहस्रनिर्मंत्रो यन्नाभानेदिष्यः उपैनं सहस्रं नमति प्र षष्ठेनाह्ना स्वर्गं लोकं जानाति य एवं वेद ॥ (*tasmādevaṃ viduṣā satyameva vaditavyaṃ sa eṣa sahasranirmaṃtro yannābhānediṣyaḥ upainaṃ sahasraṃ namati pra ṣaṣṭhenāhnā svargaṃ lokaṃ jānāti ya evaṃ veda ‖*)
+(Ai. Brā. 22-14)
+
+### Printed p. 403
+Therefore a learned man, who knows everything, should always speak the truth. Since this mantra recited by Nābhānediṣṭa gives things a thousand in number, it is famous as सहस्रसनिः (*sahasrasaniḥ*). The man who knows this mantra and its meaning obtains wealth a thousand in number, and also comes to know the method of reaching the heavenly world by performing the rite accordingly on the sixth day of the sacrifice.
+
+This matter is also treated in the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda. In explaining the Manthi-saṃsrāva homa, this account is given to show its necessity:
+
+मनुः पुत्रेभ्यो दायं व्यभजत्स नाभानेदिष्टं ब्रह्मचर्यं वसंतं निरभजत्स आगच्छत्सोऽब्रवीत्कथा मा निरभागिति न त्वा निरभाक्षमित्यब्रवीदंगिरस इमे सत्रमासते ते सुवर्गं लोकं न प्र जानंति तेभ्य इदं ब्राह्मणं ब्रूहि ते सुवर्गं लोकं यंतो य एषां पशवस्ताग् स्ते दास्यंतीति तदेभ्योऽब्रवीत्ते सुवर्गं लोकं यंतो य एषां पशव आसन्तानस्मा अददुस्तं पशुभिश्चरंतं यज्ञवास्तौ रुद्र आगच्छत्सोऽब्रवीन्मम वा इमे पशव इत्यदुर्वै मह्यमिमानित्यब्रवीन्न वै तस्य त ईशत इत्यब्रवीद्यज्ञवास्तौ हीयते मम वै तदिति तस्माद्यज्ञवास्तु नाभ्यवेत्यग्ं सोऽब्रवीद्यज्ञे माभजाथ ते पशून्नाभि मग्गस्य इति तस्मा एतं मंथिनस्सग्ं स्रावमजुहोत्ततो वै तस्य रुद्रः पशून्नाभ्यमन्यत यत्रैतमेवं विद्वान्मंथिनस्सग्स्रावं जुहोति न तत्र रुद्रः पशूनभि मन्यते ॥ (*manuḥ putrebhyo dāyaṃ vyabhajatsa nābhānediṣṭaṃ brahmacaryaṃ vasaṃtaṃ nirabhajatsa āgacchatso 'bravītkathā mā nirabhāgiti na tvā nirabhākṣamityabravīdaṃgirasa ime satramāsate te suvargaṃ lokaṃ na pra jānaṃti tebhya idaṃ brāhmaṇaṃ brūhi te suvargaṃ lokaṃ yaṃto ya eṣāṃ paśavastāg ste dāsyaṃtīti tadebhyo 'bravītte suvargaṃ lokaṃ yaṃto ya eṣāṃ paśava āsantānasmā adadustaṃ paśubhiścaraṃtaṃ yajñavāstau rudra āgacchatso 'bravīnmama vā ime paśava ityadurvai mahyamimānityabravīnna vai tasya ta īśata ityabravīdyajñavāstau hīyate mama vai taditi tasmādyajñavāstu nābhyavetyagṃ so 'bravīdyajñe mābhajātha te paśūnnābhi maggasya iti tasmā etaṃ maṃthinassagṃ srāvamajuhottato vai tasya rudraḥ paśūnnābhyamanyata yatraitamevaṃ vidvānmaṃthinassagsrāvaṃ juhoti na tatra rudraḥ paśūnabhi manyate ‖*)
+(Tai. Saṃ. 3-1-9-4,5,6,7)
+
+In former times Manu divided his property among his sons. At that time his youngest son, Nābhānediṣṭa, was not with his father; he was with his teacher, observing the vow of brahmacarya and studying the Veda. So, whether because he was not remembered, or at the prompting of his elder brothers, or for some other reason, Manu divided and distributed all the property among the sons other than Nābhānediṣṭa. After some time Nābhānediṣṭa, who was in the teacher's house, finished his studies and came to his father. Seeing that all the property had gone to his elder brothers and that he had nothing, he asked his father: "Father, why did you not give me a share in the property?" Manu answered: "Son, I have not left you without a share in the property. I shall tell you what you have; listen. The ṛṣis called Aṅgirases, desiring to go to heaven, are now performing a sattra. But they do not know which mantra is to be recited for the attainment of heaven, or what is the means of reaching heaven, and are in perplexity
+
 ---
 
-**Progress note:** Done through printed p. 397. pp. 392-397 (batch API)
+**Progress note:** Done through printed p. 403. pp. 398-403 (batch API)
