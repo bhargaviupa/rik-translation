@@ -14349,6 +14349,253 @@ O गिर्वणः (*girvaṇaḥ*), Indra, to be served with hymns, praise
 
 O Indra, worthy of praise, you who are extolled by the praising people, make for us a favourable path, so that we may go comfortably even in places that are very difficult to traverse. The wealthy
 
+### Printed p. 368
+
+O Indra, you are indeed the one who wishes to come, for the drinking of Soma, to our neighbourhood, we who are ready today to offer Soma.
+
+##### English translation
+Indra, worthy of our praise, hymned by us, make our path plain even in the midst of difficulties, (hear us), Maghavan, if you love us ;
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते॒ नू चि॑दा॒दिशं॒ न मि॒नंति॑ स्व॒राज्य॑म् ।  
+> न दे॒वो नाध्रि॑गु॒र्जनः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । नु । चित् । आऽदिशम् । न । मिनंति । स्वऽराज्यम् ।  
+> न । देवः । न । अध्रिऽगुः । जनः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यस्य ते तव आदिशम् । आदिशति नयति सर्वत्रानयेत्यादिग्बलम् । औणादिकः करणे प्रत्ययः । यद्वा । आदेश एवादिगाज्ञा । भावे क्विप् । त्वदीयामाज्ञां नू चित् इदानीं पुरा च न मिनंति केचिदपि न हिंसंति । किंच। स्वराज्यं तव स्वभूतं राज्यं च । यद्वा । स्वशब्देन स्वर्गोऽभिधीयते । स्वर्गस्वामित्वं च न हिंसंति । हिंसकानाह। न देवः त्वदन्यो देवोऽपि च तथापि अध्रिगुः अधृतगमनः संग्रामे त्वरमाणो वीरोऽपि न च जनः प्रादुर्भूतो मनुष्योऽपि । एते न मिनंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of you whose command (आदिशम् (*ādiśam*) is explained as the power that leads everywhere, or else simply as command) no one, now or before, violates or harms. Moreover they do not harm your own kingdom स्वराज्यम् (*svarājyam*); or else, the word स्व (*sva*) denotes heaven, and they do not harm your lordship over heaven. He names those who might harm: no god other than you, nor any hero who is अध्रिगुः (*adhriguḥ*), of irresistible going, hastening in battle, nor any man who has come into being. These do not harm.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य ते (*yasya te*)—(O Indra) of you whose
+- आदिशं (*ādiśaṃ*)—command
+- नू चित् (*nū cit*)—before or now, that is, always
+- न मिनंति (*na minaṃti*)—none can transgress
+- स्वराज्यं (*svarājyaṃ*)—none harms your lordship over heaven
+- न देवः (*na devaḥ*)—no other god than you
+- अध्रिगुः (*adhriguḥ*)—no hero of swift going
+- जने (*jane*)—no human being, whoever has come into being so far
+- न च (*na ca*)—can harm you or transgress your command
+
+### Printed p. 369
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, no one is ever able to withstand your command or your power. No one can question your lordship over heaven. No god other than you, no hero and no human being can harm you or transgress your command.
+
+##### English translation
+You whose command and rightful empire neither god nor irresistible hero can harm.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑ ते॒ अप्र॑तिष्कुतं दे॒वी शुष्मं॑ सपर्यतः ।  
+> उ॒भे सु॑शिप्र॒ रोद॑सी ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । ते । अप्रतिऽस्कुतम् । देवी इति । शुष्मम् । सपर्यतः ।  
+> उभे इति । सुऽशिप्र । रोदसी इति ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुशिप्र सुहनो शोभनशिरस्त्राणेंद्र अध अपि च देवी देव्यौ स्वतेजसा दीप्यमाने उभे रोदसी द्यावापृथिव्यौ अप्रतिष्कुतम् । स्कु इति सौत्रो धातुः स्तंभने वर्तते । शत्रुभिरप्रतिरोधनीयं ते त्वदीयं शुष्मं परबलशोषकं बलं सपर्यतः पूजयतः । त्वदधीने एव भवतः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, of the fine jaw (or of the fine helmet), moreover both heaven and earth, the two goddesses shining by their own radiance, worship your शुष्मम् (*śuṣmam*), your strength that dries up the strength of others, which enemies cannot obstruct (अप्रतिष्कुतम् (*apratiṣkutam*): the root स्कु (*sku*) is a sautra root in the sense of stopping). The two are under your control.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुशिप्र (*suśipra*)—O Indra of the attractive cheeks or of the helmet
+- अध (*adha*)—and
+- देवी (*devī*)—the two shining (or divine)
+- उभे रोदसी (*ubhe rodasī*)—heaven and earth
+- अप्रतिष्कुतं (*apratiṣkutaṃ*)—unobstructed, that is, impossible for anyone to withstand
+- ते शुष्मं (*te śuṣmaṃ*)—your strength and power
+- सपर्यतः (*saparyataḥ*)—honour
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of the attractive cheeks, the shining heaven and earth, that is, the earth and the heavenly world, honour your great strength and power, which no one can withstand.
+
+### Printed p. 370
+
+##### English translation
+Yes, deity of the handsome jaw, the two goddesses, heaven and earth both worship your resistless consuming might.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमे॒तद॑धारयः कृ॒ष्णासु॒ रोहि॑णीषु च ।  
+> परु॑ष्णीषु॒ रुश॒त्पयः॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । एतत् । अधारयः । कृष्णासु । रोहिणीषु । च ।  
+> परुष्णीषु । रुशत् । पयः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सामर्थ्यमेवोपपादयति । हे इंद्र कृष्णासु कृष्णवर्णासु गोषु तथा रोहिणीषु ।  ‘ वर्णादनुदात्तात्तोपधात्तो नः' (पा. सू. ४. १. ३९) इति ङीप् । रोहितवर्णासु च गोषु रुशत् । रोचतेर्दीप्तिकर्मणः । दीप्यमानं श्वेतम् एतत् परिदृश्यमानं पयः क्षीरं त्वम् अधारयः धारयसि । तस्मात्त्वद्बलं पूजयत इति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+He establishes this very capacity of Indra. O Indra, in the black cows and in the red cows (cows of a ruddy colour), you hold this bright, white milk that is seen. Therefore they worship your strength: this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—(O Indra) you
+- कृष्णासु (*kṛṣṇāsu*)—in the black cows
+- रोहिणीषु (*rohiṇīṣu*)—in the red cows
+- परुष्णीषु च (*paruṣṇīṣu ca*)—and in the cows of mixed colour
+- रुशत् (*ruśat*)—white in one and the same way
+- पयः (*payaḥ*)—milk
+- अधारयः (*adhārayaḥ*)—you fill
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you fill the black cows, the red cows, and also the cows mixed black and white or red and white, with milk that is white in one and the same way.
+
+##### English translation
+It is you that keep this bright milk in the black, red, and spotted cows.
+
+### Printed p. 371
+
+##### विशेषविषयगळु (Special Topics)
+
+It is natural that a white cow gives white milk. But whether the cow is white, black, red or of mixed colour, the milk obtained from all these kinds of cows is white and of one and the same kind. The seer describes the greatness of Indra, saying that this is your majesty.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यदहे॒रध॑ त्वि॒षो विश्वे॑ दे॒वासो॒ अक्र॑मुः ।  
+> वि॒दन्मृ॒गस्य॒ ताँ अमः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यत् । अहेः । अध । त्विषः । विश्वे । देवासः । अक्रमुः ।  
+> विदत् । मृगस्य । तान् । अमः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अपि च अहेः अहंतव्यस्य वृत्रासुरस्य त्विषः तेजोरूपादुच्छ्वासाद्भीताः यद्वा तस्य प्रभावेन परिगमिताः विश्वे सर्वे देवासः देवाः यत् यदा वि अक्रमुः विविधं पादविहरणमकुर्वन् । स्वस्थानं परित्यज्यान्यं देशमगच्छन्नित्यर्थः । तदानीं मृगस्य । एवं तान् भीषयितुं वृत्रो मृगरूपोऽभवत् । तद्रूपस्य संबंधि अमः सर्वतो गमनशीलं बलं तज्जातं भयं वा तान् सर्वान् देवान् विदत् अविंदत् । प्राप्नोदित्यर्थः । तस्यासुरस्येंद्रो निवारको हंताभवदित्युत्तरेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Moreover, when all the gods, frightened by the breath, of the nature of splendour, of Ahi, the asura Vṛtra who is not to be slain, or else carried about by his power, strode apart, that is, took steps in various directions (they left their own place and went to another region), then, to frighten them, Vṛtra took the form of a deer. The strength belonging to that form, which moves everywhere, or the fear born of it, found all those gods, that is, reached them. Indra became the repeller and slayer of that asura: this is the connection with the following verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अथ (*atha*)—moreover
+- अहेः (*aheḥ*)—of the Vṛtra asura who cannot be killed
+- त्विषः (*tviṣaḥ*)—frightened by the breath, of the nature of splendour
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- वि अक्रमुः (*vi akramuḥ*)—ran off in various directions (then)
+- मृगस्य (*mṛgasya*)—of him who had taken the form of a deer
+- अमुः (*amuḥ*)—the strength or the fear of that Vṛtra pervading everywhere
+- तान् (*tān*)—those gods
+- विदत् (*vidat*)—pervaded
+
+##### भावार्थ (Bhāvārtha)
+
+Moreover, seeing the breath and out-breath, of the nature of splendour, of that Vṛtra who cannot be killed by anyone, all the gods were frightened and ran off in various directions. The all-pervading strength or fear of that Vṛtra, who had taken the form of a deer (an antelope), enveloped those gods.
+
+### Printed p. 372
+
+##### English translation
+When all the gods fled in various directions from the splendour of the demon Ahi, and when fear of the deer seized them.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदु॑ मे निव॒रो भु॑वद्वृत्र॒हादि॑ष्ट॒ पौंस्य॑म् ।  
+> अजा॑तशत्रु॒रस्तृ॑तः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ऊं इति । मे । निऽवरः । भुवत् । वृत्रऽहा । अदिष्ट । पौंस्यम् ।  
+> अजातऽशत्रुः । अस्तृतः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदु इत्यवधारणे । देवानां भीत्या सर्वतो गमनानंतरमेव मे स्तोतृस्तुत्यलक्षणेन संबंधेन मम संबंध्ययमिंद्रः निवरः वृत्रासुरस्य निवारयिता हंता भुवत् अभवत् । ततः वृत्रहा वृत्रस्य हंतेंद्रः पौंस्यम् । पुंसः कर्म पौंस्यम् । यद्वा । स्त्रीपुंसाभ्याम् (पा. सू. ४. १. ८७ ) इति भवार्थे स्रञ्   । नकारस्य यकारो वर्णव्यत्ययेन । पुंसींद्रे भवम् । यद्वा । बलनामैतत् । स्वबलम् ॥ अदिष्ट तस्य राज्ये दिशति निदधाति । तद्राज्यं स्ववशमकरोदित्यर्थः । ततः प्रभृतींद्रः अजातशत्रुः अनुत्पन्नशत्रुः अस्तृतः संग्रामे परैरहिंसितश्चाभवत् ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+आदु (*ādu*) is in the sense of emphasis. Immediately after the gods had gone in all directions out of fear, this Indra, who belongs to me through the relation of praiser and praised, became निवरः (*nivaraḥ*), the repeller and slayer of the asura Vṛtra. Then Indra, the slayer of Vṛtra, अदिष्ट (*adiṣṭa*), set his पौंस्यम् (*pauṃsyam*) in Vṛtra's kingdom: पौंस्यम् (*pauṃsyam*) is the work of a man; or else it is said to be (by Pā. Sū. 4. 1. 87) a derivative in the sense of "being in", meaning what is in Indra the man; or else this is a name for strength, his own strength. He made that kingdom his own. From then on Indra became अजातशत्रुः (*ajātaśatruḥ*), one whose enemy is not born, and अस्तृतः (*astṛtaḥ*), unharmed by others in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत् उ (*at u*)—afterwards
+- मे (*me*)—my (Indra, the object of my praise)
+- निवरः (*nivaraḥ*)—as the destroyer of the asura Vṛtra
+- भुवत् (*bhuvat*)—he has become
+- वृत्रहा (*vṛtrahā*)—Indra, the slayer of Vṛtra
+- पौंस्यं (*pauṃsyaṃ*)—his own strength
+- अदिष्ट (*adiṣṭa*)—established in his kingdom (afterwards that Indra)
+- अजातशत्रुः (*ajātaśatruḥ*)—became one for whom no enemies are born
+- अस्तृतः (*astṛtaḥ*)—and one unharmed by enemies in battle
+
+##### भावार्थ (Bhāvārtha)
+
+Afterwards that Indra, the object of my praise, became the destroyer of the asura Vṛtra and established his own strength and power in his lordship, that is, in his kingdom. Afterwards Indra came to have no enemies at all. There was no one who could face him in battle and harm him.
+
+### Printed p. 373
+
+##### English translation
+Then was my Indra the repeller; then did the smiter of Vritra put forth his might, he who has no existent enemies, the invincible.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रु॒तं वो॑ वृत्र॒हंत॑मं॒ प्र शर्धं॑ चर्षणी॒नाम् ।  
+> आ शु॑षे॒ राध॑से म॒हे ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रुतम् । वः । वृत्रहन्ऽतमम् । प्र । शर्धम् । चर्षणीनाम् ।  
+> आ । शुषे । राधसे । महे ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विग्यष्टारः श्रुतं बलवत्तया प्रसिद्धमत एव वृत्रहंतमम् अतिशयेन वृत्रहंतारं शर्धं  बलभूतं वेगवंतं वा एतादृशमिंद्रं चर्षणीनां मनुष्याणां वः युष्माकम् आशुषे । अश्नोतेर्लेट्युत्तम इटि सिप् । व्यत्ययेनोप्रत्ययः । ‘बहुलं छंदसि' इत्यडागमः । तमिंद्रं स्तुतिभिः प्रीणयित्वा युष्मभ्यं प्रकर्षेणाश्नवै । प्रयच्छामीत्यर्थः । किमर्थम्। महे महते राधसे धनाय धनं युष्मभ्यं दातुम् ॥
+
+##### Gist of the bhāṣya
+
+O priests and sacrificers, Indra is श्रुतम् (*śrutam*), renowned for his strength, and therefore वृत्रहंतमम् (*vṛtrahaṃtamam*), the greatest slayer of Vṛtra, शर्धम् (*śardham*), strength itself or swift. Having pleased such an Indra with praises, I would obtain him for you, men (चर्षणीनाम् (*carṣaṇīnām*) means of men), that is, I give him to you. For what purpose: महे (*mahe*) राधसे (*rādhase*), for great wealth, in order to give you wealth. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रुतं (*śrutaṃ*)—(O priests and sacrificers) renowned as mighty
+- वृत्रहंतमं (*vṛtrahaṃtamaṃ*)—who has slain Vṛtra most completely
+- शर्धं (*śardhaṃ*)—Indra, extremely mighty or of swift going
+- चर्षणीनां (*carṣaṇīnāṃ*)—of men
+- वः (*vaḥ*)—your
+- वहे (*vahe*)—abundant
+- राधसे (*rādhase*)—for the attainment of wealth
+- आशिषे (*āśiṣe*)—I pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, I pray to and call Indra, renowned as mighty, the slayer of Vṛtra, extremely swift of going, in order to give you men abundant wealth.
+
 ---
 
-**Progress note:** Done through printed p. 367. Mandala 8 Sukta 93 Rks 5-10
+**Progress note:** Done through printed p. 373. Mandala 8 Sukta 93 Rks 10-16
