@@ -31466,6 +31466,273 @@ These well-known Āhavanīya and other fires, being connected with Indra as the 
 - उषसः व्युष्टिषु (*uṣasaḥ vyuṣṭiṣu*)—at the times of the appearing of Uṣas
 - ज्योतिः (*jyotiḥ*)—their
 
+### Printed p. 875
+
+- तेजस्सन्नु (*tejassannu*)—radiance
+- भरंतः (*bharaṃtaḥ*)—bearing
+- अबुध्रं (*abudhraṃ*)—they have appeared
+- महि (*mahi*)—possessing greatness
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अपः (*apaḥ*)—their works
+- चेततां (*cetatāṃ*)—let them know
+- अद्य (*adya*)—at this time of the sacrifice
+- देवानां (*devānāṃ*)—of the gods
+- अवः (*avaḥ*)—the protection
+- आ वृणेमहे (*ā vṛṇemahe*)—we beg
+
+##### भावार्थ (Bhāvārtha)
+
+The fires Āhavanīya and the rest, which are to be worshipped as belonging to Indra and are well known, have appeared at the time of the dawn's appearing, bearing their radiance. May heaven and earth, great in nature, know their duties. At this time of the sacrifice we beg the protection of the gods.
+
+##### English translation
+The fires that are connected with Indra are awake, bringing light at the opening of the dawn : let the great heaven and earth be cognizant of that office : to-day we solicit the protection of the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वस्पृ॑थि॒व्योरव॒ आ वृ॑णेमहे मा॒त्स्यन्नू॒न्पर्व॑ताञ्र्यय॒णाव॑तः ।  
+> अ॒ना॒गा॒स्त्वं सूर्य॑मु॒षास॑मीमहे भ॒द्रं सोमः॑ सुवा॒नो ॒ ॑
+> अद्या कृणोतु नः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः पृथिव्योः । अवः । आ । वृणेमहे । मात्स्यन् । सिंधून् । पर्वतान् । शर्यणावतः ।  
+> अनागाःत्वं । सूर्यं । उषसं । ईमहे । भद्रं । सोमः । सुवानः । अद्य ।  
+> कृणोतु । नः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवःपृथिव्योर्द्यावापृथिव्योः कार्यत्वेन संबंध्यवो रक्षणं वयमा
+> वृणीमहे । किंच मात्यल्लोकस्य निर्मात्पान्सिंधूञ्र्यार्यणावतः सरसः संबंधिनः
+
+### Printed p. 876
+
+> पर्वताइल्योच्चयांश्च तथा सूर्यमुषसं चानागास्त्वं कर्मवैगुण्यजनितपापराहित्यमीमहे । वयं याचामहे । किंचाद्यास्मिन्नहनि नोऽस्माकं सुवानोऽभिसूयमाणः सोमो भद्रं कल्याणं कृणोतु । करोतु ॥
+
+##### Gist of the bhāṣya
+
+We choose the protection of heaven and earth (दिवःपृथिव्योः (*divaḥpṛthivyoḥ*)), which is related to us as being what they effect. Further, we ask of the rivers (सिंधून् (*siṃdhūn*)), the mountains and high ranges belonging to the lake called शर्यणावतः (*śaryaṇāvataḥ*), and of the Sun and Uṣas, freedom from sin (अनागास्त्वं (*anāgāstvaṃ*)), that is, from the sin born of defects in the rite; this we ask. And today may Soma, being pressed for us, do us good, that is, bring us well-being. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवःपृथिव्योः (*divaḥpṛthivyoḥ*)—of heaven and earth
+- अवः (*avaḥ*)—the protection
+- आ वृणीमहे (*ā vṛṇīmahe*)—we beg
+- मात्स्यन् (*mātsyan*)—who are mother-like to the world
+- सिंधून् (*siṃdhūn*)—the rivers
+- पर्वतान् (*parvatān*)—the mountains near Śaraṇāvat **NOTE**
+- सूर‍्यं (*sūryaṃ*)—the Sun
+- the goddess Uṣas
+- अनागास्त्वं (*anāgāstvaṃ*)—for the destruction of our sin
+- ईमहे (*īmahe*)—we pray
+- अद्य (*adya*)—at this time of the sacrifice
+- नः (*naḥ*)—by us
+- सुवानः (*suvānaḥ*)—being pressed
+- सोमः (*somaḥ*)—Soma
+- भद्रं (*bhadraṃ*)—well-being
+- कृणोतु (*kṛṇotu*)—let him make
+
+##### भावार्थ (Bhāvārtha)
+
+We beg the protection of heaven and earth. We pray to the rivers, which are like mothers to the world, to the mountains near the lake called Śaraṇāvat, to the Sun and the goddess Uṣas, that our sin be removed. At this time of the sacrifice may the Soma pressed by us bring us well-being.
+
+##### English translation
+We solicit the protection of heaven and earth : (we solicit) the maternal rivers, the mountains with their lakes, the sun and the dawn, for freedom from sin: may the Soma that is now effused secure to us to-day good fortune.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यावा॑ नो अ॒द्य पृ॑थि॒वी अना॑गसो म॒ही त्रा॑येतां सुवि॒ताय॑ मा॒तरा॑ ।  
+> उ॒षा उ॒च्छंत्यप॑ बाधताम॒घं स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥ ३ ॥
+
+### Printed p. 877
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्यावा । नः । अद्य । पृथिवी इति । अनागसः । मही इति । त्रायेतां । सुविताय ।  
+> मातरा ।  
+> उषाः । उच्चंती । अप । बाधतां । अघं । स्वस्ति । अग्निं । संऽधानं । ईमहे ॥३॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मही महत्यौ मातरा मातरौ सर्वस्य मातृभूते द्यावा पृथिवी द्यावापृथिव्यावद्यास्मिन्नहन्यनागसोऽपराधरहितान्नोऽस्मान्सुविताय सुखाय त्रायेतां ।
+> रक्षेतां । किंचोचच्छंती तमांसि विवासयंत्युषा अस्माकमघं पापमप बाधतां ।
+> अपनयतु । अपि च समिधानं सम्यग्गीप्यमानमग्निं स्वस्ति सर्वप्रकाराविनाशमीमहे । वयं याचामहे ॥
+
+##### Gist of the bhāṣya
+
+May the great heaven and earth, the mothers of all, protect us today, free from offence, for our happiness (सुविताय (*suvitāya*)). May Uṣas, dawning and driving away darkness, drive off our sin. And we ask for the kindled fire, well kindled, safety (स्वस्ति (*svasti*)) in every way, that is, freedom from destruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मही (*mahī*)—great in nature
+- मातरा (*mātarā*)—makers of the world
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अद्य (*adya*)—at this time of the sacrifice
+- नः (*naḥ*)—us
+- सुविताय (*suvitāya*)—for our happiness
+- अनागसः (*anāgasaḥ*)—making us free from sin
+- त्रायेतां (*trāyetāṃ*)—let them protect
+- उच्छंती (*ucchaṃtī*)—who is rising
+- उषाः (*uṣāḥ*)—the goddess Uṣas
+- अघं (*aghaṃ*)—our sin
+- अप बाधतां (*apa bādhatāṃ*)—let her destroy
+- अग्निं (*agniṃ*)—the fire
+- स्वस्ति (*svasti*)—for our welfare
+- ई महे (*ī mahe*)—we pray
+
+##### भावार्थ (Bhāvārtha)
+
+May heaven and earth, great in nature and makers of the world, at this time of the sacrifice make us free from sin for our happiness. May they protect us. May the rising goddess Uṣas destroy our sin. We pray to the blazing, shining fire for our welfare.
+
+##### English translation
+May the vast maternal heaven and earth this day preserve us for our happiness, free from sin : may the opening dawn drive away our sin : we solicit the kindled fire for our welfare.
+
+### Printed p. 878
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं न॑ उ॒स्रा प्र॑थ॒मा सु॑दे॒व्यं॑ रे॒वत्स॒निभ्यो॑ रे॒वती॒  ॑
+> वृच्छतु ।  
+> आ॒रे म॒न्युं दु॑र्वि॒दत्र॑स्य धीमहि स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । नः । उस्रा । प्रथमा । सुदेव्यं । रेवत् । सनिभ्यः । रेवती । वि । उच्छतु।  
+> अरे । मन्युं । दुःविदत्रस्य । धीमहि । स्तस्ति । अग्निं । संइधानं । ईमहे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रेवती धनवती प्रथमा मुख्येयमुस्रा पापानामुत्सारिण्युषाः सुदेव्यं
+> शोभनदेवार्हं रेवद्धनवत्प्रधानयागकालत्वं सनिभ्यो भजमानेभ्यो नोऽस्मभ्यं
+> प्रयच्छंती व्युच्छतु । तमांसि विवासयतु । किंच दुर्विदत्रस्य दुर्धनस्य पुरुषस्य
+> मन्युं क्रोधमारे दूरे धीमहि । निधीमहि । सिद्धमन्यत् ।
+
+##### Gist of the bhāṣya
+
+This Uṣas, rich, first, chief, who casts out sins (उस्रा (*usrā*)), shining forth, giving us who are worshippers (सनिभ्यः (*sanibhyaḥ*), "those who serve") a season of the principal sacrifice that is fit for the good gods and full of wealth (रेवत् (*revat*)), let her dispel the darkness. And we set far away (आरे (*āre*)) the anger of the man of evil wealth (दुर्विदत्रस्य (*durvidatrasya*)). The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेवती (*revatī*)—she who is possessed of wealth
+- प्रथमा (*prathamā*)—the chief
+- उस्रा (*usrā*)—the destroyer of sin
+- इयं (*iyaṃ*)—this goddess Uṣas
+- सनिभ्यः (*sanibhyaḥ*)—for us who worship the gods
+- नः (*naḥ*)—for us
+- सुदेव्यं (*sudevyaṃ*)—fit for the excellent worship of the gods
+- रेवत् (*revat*)—rich in wealth, a sacrificial season
+- व्युच्छतु (*vyucchatu*)—let her make shine
+- दुर्विदत्रस्य (*durvidatrasya*)—of the man of evil power
+- मन्युं (*manyuṃ*)—the anger
+- आरे (*āre*)—far away
+- धीमहि (*dhīmahi*)—may we place
+- स्वस्ति (*svasti*)—for our welfare
+- समिधानं (*samidhānaṃ*)—the blazing, shining
+- अग्निं (*agniṃ*)—the fire
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+May the goddess Uṣas, rich, chief in the sacrifice, destroyer of sin, by destroying the darkness make shine for us who worship the gods a sacrificial season fit for excellent worship of the gods and rich in wealth. May the anger of the man of evil power be far from us. We pray to the blazing, shining fire for our welfare. **NOTE**
+
+### Printed p. 879
+
+##### English translation
+May this first dawn, the possessor of wealth, open, bringing to us who are liberal (a season) fit for the gods, abounding with riches: we consider the anger of the malevolent (to be) remote : we solieit the kindled fire for our welfare.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र याः सिस्र॑ते॒ सूर्य॑स्य र॒श्मिभि॒र्ज्योति॒र्भरं॑तीरु॒षसो॒  ॑
+> व्यु॑ष्टिषु ।  
+> भ॒द्रा नो॑ अ॒द्य श्रव॑से॒ व्यु॑च्छत स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमा॑महे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । याः । सिस्रते । सूर्यस्य । रश्मिभिः । ज्योतिः । भरंतीः । उषसः । विउष्टिषु ।  
+> भद्रा । नः । आद्य । श्रवसे । वि । उच्छत । स्वस्ति । अग्निं । संइधानं । ईमहे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> या उषसः सूर्यस्य रश्मिभिः किरणैः प्र सिस्रते संगच्छंते व्युष्टिषु व्युच्चनेषु
+> तमसां विवासनकालेषु ज्योतिरात्मीयं तेजो भरंतीः भरंति च ता यूयं
+> नोऽस्माकमद्यास्मिन्नहनि श्रवसेऽन्नाय भद्रा भजनीया भवत । व्युच्चत । तमांसि
+> विवासयत च । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+The Uṣases who go forth (सिस्रते (*sisrate*)), that is, meet, with the rays of the Sun, bearing their own light at the times of their dawning, when darkness is driven away: may you today be auspicious, worthy of being served, for our food (श्रवसे (*śravase*)), and dawn upon us and dispel the darkness. The rest is as before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसः (*uṣasaḥ*)—O Uṣases
+- याः (*yāḥ*)—you who
+- सूर्यस्य (*sūryasya*)—of the Sun
+- रश्मिभिः (*raśmibhiḥ*)—with the rays
+- प्र सिस्रते (*pra sisrate*)—are joined
+- व्युष्टिषु (*vyuṣṭiṣu*)—at the times of your appearing
+- ज्योतिः (*jyotiḥ*)—your radiance
+- भरंतीः (*bharaṃtīḥ*)—bearing
+- नः (*naḥ*)—for us
+- अद्य (*adya*)—today
+- श्रवसे (*śravase*)—for our food
+- भद्राः (*bhadrāḥ*)—being worthy of worship
+- व्युच्छत (*vyucchata*)—appear
+- समिधानं (*samidhānaṃ*)—the blazing
+- अग्निं (*agniṃ*)—the fire
+- स्वस्ति (*svasti*)—for our welfare
+- ईमहे (*īmahe*)—we pray
+
+### Printed p. 880
+
+##### भावार्थ (Bhāvārtha)
+
+O Uṣases, you who are joined with the rays of the Sun, spreading your radiance at the times of your appearing, appear today as worthy of worship for us, for the gaining of our food. We pray to the blazing fire for our welfare.
+
+##### English translation
+Dawns, you are associated with the rays of the sun, bringing light at the opening (of the day); shine upon us to-day, propitious, for our subsistence : we solicit the kindled fire for our welfare.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒न॒मी॒वा उ॒षस॒ आ च॑रंतु न॒ उद॒ग्नयो॑ जिहतां॒ ज्योति॑षा  ॒
+> बृहत् ।  
+> आयु॑क्षाताम॒श्विना॒ तूतु॑जिं॒ रथं॑ स्व॒स्ति१॒॑ग्निं स॑मिधा॒नमी॑महे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनमीवाः । उषसः । आ । चरंतु । नः । उत् । अग्नयः । जिहतां । ज्योतिषा ।  
+> बृहत् ॥  
+> अयुक्षातां । अश्विना । तूतुजिं । रथं । स्वस्ति । अग्निं । संइधानं । ईमहे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असमीना रोगरहिता उषसो नोऽस्माना चरंतु । आगच्छंतु । बृहद्बृहता
+> महता ज्योतिषा तेजसा युक्ता अग्नयोऽप्युज्जिहतां । उद्दच्छंतु । अश्विनाश्विन्
+> तूतुजिं क्षिप्रगामिनं रथमायुक्षातां । आस्मान्त्यागंतुं रासभाभ्यां युंक्तां ।
+> हरित आदित्यस्य रासभावश्विनोरिति पाठात् । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+May the Uṣases, free from disease (असमीना (*asamīnā*), "without sickness"), come to us. May the fires too, endowed with great light, rise up . May the two Aśvins yoke their swift-going (तूतुजिं (*tūtujiṃ*)) chariot, to come to us, by yoking the pair of asses; for the text reads हरित आदित्यस्य रासभावश्विनोरिति (*harita ādityasya rāsabhāvaśvinoriti*). The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनमीवाः (*anamīvāḥ*)—free from disease
+- उषसः (*uṣasaḥ*)—the Uṣases
+- नः (*naḥ*)—to us
+- आ चरंतु (*ā caraṃtu*)—let them come running
+- बृहत् (*bṛhat*)—of great form
+- ज्योतिषा (*jyotiṣā*)—endowed with radiance
+- आग्नयः (*āgnayaḥ*)—the fires
+
 ---
 
-**Progress note:** Done through printed p. 874. Vol 27 pp. 869-874: end of 10.34.11 to 10.34.14, sukta 10.35 start
+**Progress note:** Done through printed p. 880. Vol 27 pp. 875-880: 10.35.1 end to 10.35.6
