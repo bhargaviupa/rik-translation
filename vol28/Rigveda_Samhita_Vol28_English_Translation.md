@@ -3667,12 +3667,6 @@ In the present context the main point is that the Bhṛgus found Agni, who was h
 
 #### Ṛk 3
 
-#### Ṛk 4
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 5
-
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > इ॒मं त्रि॒तो भूर्य॑विंददि॒च्छन्वै॑भूव॒सो मू॒र्धन्यघ्न्या॑याः ।  
@@ -3727,12 +3721,6 @@ Trita, the son of Vibhuvas, searching (for him), found mighty Agni on the surfac
 
 #### Ṛk 4
 
-#### Ṛk 5
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 6
-
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
 > मं॒द्रं होता॑रमु॒शिजो॒ नमो॑भिः॒ प्रांचं॑ य॒ज्ञं  
@@ -3785,12 +3773,6 @@ The priests, who desire the gods and perform the rites in men's sacrifices, plea
 ### Printed p. 119
 
 #### Ṛk 5
-
-#### Ṛk 6
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 7
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
@@ -3846,12 +3828,6 @@ O praiser, be able to praise Agni, the great one, who sustains the wise priests.
 Be competent, (priest, to glorify) the victorious mighty Agni; the sustainer of the wise, (even) fools (adore) him, the exempt from folly, the demolisher of cities ; conducting the embryo of touchwood, (Agni), like a golden-haired, swift-moving (horse), loving praise and wealth, they bring him to the sacrifice.
 
 #### Ṛk 6
-
-#### Ṛk 7
-
-##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
-
-#### Ṛk 8
 
 ##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
 
