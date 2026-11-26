@@ -19766,6 +19766,298 @@ Magnifying the victorious Brihaspati, the showerer (of benefits), roaring in mid
 > यदा । वाजं । असनत् । विश्वरूपं । आ । द्यां । अरुक्षत् । उत्तराणि । सद्म ।  
 > बृहस्पतिं । वृषणं । वर्धयंतः । नाना । संतः । बिभ्रतः । ज्योतिः । आसा ॥ १० ॥
 
+### Printed p. 572
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स बृहस्पतिर्यदा यस्मिन्काले विश्वरूपं नानारूपं वाजं गोलक्षणमन्नमसनत् भजते यदा वाहृतपशुकः सन् द्यां द्युलोकमरुक्षत् आरोहति । अथवोत्तराणि वा सद्म स्थानान्यारोहति ॥ रुहेर्लुजि च्छेः शल इगुपधादनिटः क्सः पा. ३-१-४५॥
+> तदानीं वृषणं वर्षितारं बृहस्पतिमासास्येन देवा वर्धयंतो भवंति । तथा नाना
+> दिक्षु संतो भवंतो ज्योतिर्बिभ्रतो धारयंतो देवाश्च स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that Bṛhaspati, when he enjoys विश्वरूपं (*viśvarūpaṃ*) food of many forms (वाजं (*vājaṃ*)), meaning food in the form of cows, ascends the sky (द्यां (*dyāṃ*)), the heavenly world. Or he ascends *uttarāṇi sadma*, the higher stations, having had his cattle brought back. **NOTE**
+At that time the gods increase Bṛhaspati, the showerer, with their mouths. The gods who are in various quarters and bear light also praise him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यदा (*yadā*)—when
+- विश्वरूपं (*viśvarūpaṃ*)—having forms of many kinds
+- वाजं (*vājaṃ*)—food
+- आसनत् (*āsanat*)—Bṛhaspati obtains
+- द्यां (*dyāṃ*)—the world of heaven
+- अरुक्षत् (*arukṣat*)—when he ascends
+- उत्तराणि ना सद्म (*uttarāṇi nā sadma*)—when he joins the regions of the northern direction, then
+- नाना संतः (*nānā saṃtaḥ*)—those who are in many directions
+- ज्योतिः (*jyotiḥ*)—light
+- बिभ्रतः (*bibhrataḥ*)—the gods who bear (it)
+- वृषणं (*vṛṣaṇaṃ*)—the granter of desired things
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- आसा (*āsā*)—with their mouths
+- वर्धयंतः (*vardhayaṃtaḥ*)—praise and make thrive
+
+##### भावार्थ (Bhāvārtha)
+
+When Bṛhaspati obtains food of many forms (cows), and when he ascends either the regions of the heavenly world or the region of the northern direction, then the gods, who are in many directions and bear radiance, praise with their mouths Bṛhaspati, the granter of desired things, and make him thrive.
+
+##### English translation
+When he acquires food of various kinds, when he ascends the sky or
+the northern stations, (the gods are) extolling Brihaspati, the showerer (of
+benefits), with their mouth, being in various (quarters), bearing light.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒त्यामा॒शिषं॑ कृणुता वयो॒ध्यै की॒रिं चि॒द्द्यव॑थ॒ स्वेभि॒रेवैः॑ ।  
+> प॒श्चा मृधो॒ अप॑ भवंतु॒ विश्वा॒स्तद्रो॑दसी शृणुतं विश्वमि॒न्वे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सत्यां । आशिषं । कृणुत । वयःधैः । कीरिं । चित् । हि । अवथ । स्वेभिः । एवैः ।
+
+### Printed p. 573
+
+> पश्चा । मृढः । अप । भवंतु । विश्वाः । तत् । रोदसी इति । शृणुतं । विश्वमिन्वे इति  
+> विश्वं इन्वे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे बृहस्पतिप्रभृतयो देवा वयोधा अन्नस्य धानायास्मदीयामाशिषं
+> स्तुतिं सत्यां यथार्थां कृणुत । कुरुत । तथा यूयं स्वेभिरात्मीयैरेवैर्गमनैः
+> कीरिं स्तोतारं मामवथ । रक्षथ । हिरवधारणे । पश्चा ॥ पश्चा च छंदसि । पा. ५ ३-३३ ।
+> इति निपातितः ॥ पश्चादिश्वाः सर्वा मृधो हिंसित्र्योप भवंतु । नश्यंतु । तदिदमस्माभिरुक्तं वचनं हे विश्वमिन्वे विश्वस्य प्रीणयित्र्यौ हे रोदसी द्यावापृथिव्यौ शृणुतं ॥
+
+##### Gist of the bhāṣya
+
+"O gods, Bṛhaspati and the rest, givers of sustenance (वयोधा (*vayodhā*)), make our praise (आशिषं (*āśiṣaṃ*)) true, that is, as it should be, so that food may be bestowed. Protect me, the singer (कीरिं (*kīriṃ*)), by your own goings (एवैः (*evaiḥ*)). Here हि (*hi*) is used in the sense of emphasis. पश्चा (*paścā*) is a form fixed by rule. Afterwards may all harming enemies (मृधः (*mṛdhaḥ*)) perish. O heaven and earth, delighters of all (विश्वमिन्वे (*viśvaminve*)), hear this word spoken by us."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O gods, Bṛhaspati and the rest)
+- वयोध्यॆ (*vayodhyè*)—in order to offer food
+- आशिषं (*āśiṣaṃ*)—our praise
+- सत्यां (*satyāṃ*)—as true
+- कृणुत (*kṛṇuta*)—make
+- स्वेभिः (*svebhiḥ*)—your
+- एवैः (*evaiḥ*)—by goings
+- कीरिं (*kīriṃ*)—me, the praiser
+- अवथ (*avatha*)—protect
+- विश्वाः मृधः (*viśvāḥ mṛdhaḥ*)—all enemies, harmful (to us) **NOTE**
+- पश्चा (*paścā*)—at the end
+- अप भवंतु (*apa bhavaṃtu*)—may they perish
+- विश्वमिन्वे (*viśvaminve*)—you who gladden the whole world
+- रोदसी (*rodasī*)—O heaven and earth
+- तत् (*tat*)—our praise
+- शृणुतं (*śṛṇutaṃ*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, Bṛhaspati and the rest, make our praise true, in order to offer food in the form of oblation. Protect me, the praiser, by your goings. May all our harming enemies perish. O heaven and earth, who gladden the whole world, hear our praise.
+
+##### English translation
+Make good our prayer for the bestowal of food; you protect through
+your movements even (me) your worshipper; may all our enemies he driven
+back again; heaven and earth, the delighters of all, hear this (our prayer).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॑ म॒ह्ना म॑ह॒तो अ॑र्ण॒वस्य॒ वि मू॒र्धान॑मभिनदर्बु॒दस्य॑ ।  
+> अह॒न्नहि॒मरि॑णात्स॒प्त सिंधू॑न्दे॒वैर्द्या॑वापृथिवी॒ प्राव॑तं नः ॥
+
+### Printed p. 574
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । मह्ना । महतः । अर्णवस्य । वि । मूर्धानं । अभिनत् । अर्बुदस्य ।  
+> अहन् । अहिं । अरिणात् । सप्त । सिंधून् । देवैः । द्यावापृथिवी इति । प्र । अवतं ॥  
+> नः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र ईश्वरो मह्ना महत्त्वेन युक्तो बृहस्पतिर्महतो अर्णवस्योदकवर्तोऽर्बुदस्यांबुदस्य मेघस्य मूर्धानं शिरो व्यभिनत् । व्यच्छिनत् । तदुच्यते ।
+> अहिमहंतव्यमपामावरकं शत्रुमहन् । अवधीत् । अतः सप्त सर्पणशीलाः सिंधून्
+> स्यंदमाना अपः । यद्वा । सप्तसंख्याका गंगाद्या नदीः । अरिणात् । समुद्रं प्रत्यगमयत् । अथ प्रत्यक्षकृतः । हे द्यावापृथिव्यौ देवैः सह नोऽस्मान्प्रावतं ।
+> प्ररक्षतं ॥
+
+##### Gist of the bhāṣya
+
+Indra, the lord, that is Bṛhaspati, endowed with greatness (मह्ना (*mahnā*)), split (व्यभिनत् (*vyabhinat*), cut) the head of the great watery (*udakavarto*) cloud (अर्बुदस्य (*arbudasya*)). Further it is said that he slew Ahi, the enemy who is to be slain and who obstructs the waters. Therefore he made the seven flowing rivers (सिंधून् (*siṃdhūn*)), the waters that move, go (अरिणात् (*ariṇāt*)) to the sea; or else the seven rivers beginning with the Gaṅgā. Then, addressing directly: O heaven and earth, protect us (प्रावतं (*prāvataṃ*)) together with the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मह्ना (*mahnā*)—he who is filled with greatness
+- इंद्रः (*iṃdraḥ*)—Bṛhaspati, the lord
+- महतः (*mahataḥ*)—of the great one, endowed with majesty
+- अर्णवस्य (*arṇavasya*)—and endowed with water
+- अर्बुदस्य (*arbudasya*)—of the cloud
+- मूर्धानं (*mūrdhānaṃ*)—the head
+- व्यभिनत् (*vyabhinat*)—he split
+- अहिं (*ahiṃ*)—the enemy
+- अहन् (*ahan*)—he destroyed
+- सप्त सिंधून् (*sapta siṃdhūn*)—the seven rivers, the Gaṅgā and the rest
+- अरिणात् (*ariṇāt*)—he made flow towards the sea
+- द्यावापृथिवी (*dyāvāpṛthivī*)—O heaven and earth, you
+- देवैः (*devaiḥ*)—together with the gods
+- नः (*naḥ*)—us
+- प्रावतं (*prāvataṃ*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+Bṛhaspati, filled with greatness and a lord, split the head of the cloud, which is endowed with majesty and with water. He destroyed the enemy, and made the seven rivers, the Gaṅgā and the rest, flow towards the sea. O heaven and earth, protect us together with the gods.
+
+##### English translation
+Indra by his might has cleft the brow of the vast watery cloud, he has
+has slain Ahi; he has made the seven rivers flow; do you, heaven and earth,
+along with the gods, protect us.
+
+## Sūkta 68 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदपुत इति द्वादशर्चमष्टमं सूक्तं । ऋष्या द्याः पूर्ववत् । उदपुत
+> इत्यनुक्रांतं ॥ उक्ते ब्राह्मणाच्छंसिन एतत्तूक्तं । सूत्रितं च । प्र मंहिष्ठायोदपुतोऽच्छा म इंद्रं । आ. ६-१ । इति ॥
+
+### Printed p. 575
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उदपुत (*udaputa*) has twelve verses and is the eighth sūkta (of the anuvāka). Its seer and the rest (deity, metre) are as before. The Anukramaṇī says उदपुत (*udaputa*) and so on. In the ukta recitation this sūkta belongs to the Brāhmaṇācchaṃsin. It is also stated in the sūtra: प्र मंहिष्ठायोदपुतोऽच्छा म इंद्रं (*pra maṃhiṣṭhāyodaputo 'cchā ma iṃdraṃ*) (Ā. 6-1).
+
+##### Anuvāda
+
+This sūkta, उदपुतः (*udaputaḥ*), is the eighth sūkta in the fifth anuvāka. It has twelve ṛks. Its seer, deity and metre are as in the preceding sūkta. In the Anukramaṇī it is stated beginning with उदपुतः (*udaputaḥ*). That the officiating priest called Brāhmaṇācchaṃsin is to recite this sūkta in the recitation of the ukta mantras is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, प्र मंहिष्ठायोदपुतोऽच्छा म इंद्रं (*pra maṃhiṣṭhāyodaputo 'cchā ma iṃdraṃ*) (Ā. 6-1).
+
+Maṇḍala 10. Anuvāka 5. Sūkta 68. Aṣṭaka 8. Adhyāya 2. Varga 17, 18. Number of ṛks in the sūkta: 12. Seer: Ayāsya. Deity: Bṛhaspati. Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒द॒पुतो॒ न वयो॒ रक्ष॑माणा॒ वाव॑दतो अ॒भिय॑स्येव॒  ॑
+> घोषाः ।  
+> गि॒रि॒भ्रजो॒ नोर्मयो॒ मदं॑तो॒ बृह॒स्पति॑म॒भ्य१॒॑र्का अ॑नावन्॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उदप्रुतः । न । वयः । रक्षमाणाः । वावदतः । अभ्रियस्य इव । घोषाः ।  
+> गिरिभ्रजः । न । ऊर्मयः । मदंतः । बृहस्पतिं । अभि । अर्काः । अनावन् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उदपुत उदकस्योद्गमयितारो वयः पक्षिणः पक्षात्सस्याद्रक्षमाणाः
+> कृषीवलाः । न उपमार्थे । यथा शब्दायंते । यथा च वावदतः पुनःपुनः शब्दायमानस्याभ्रियस्येवाभ्रसमूहस्य घोषाः शब्दा यथा भवंति । किंचगिरिभ्रजो गिरिभ्यो
+> मेघेभ्यो भ्रष्टा निर्गता ऊर्मयोऽप्समूहा यथा मदंतः शब्दायमाना
+> भवंति । तथार्का अर्चकाः स्तोतारो बृहस्पतिमभ्यनावन् । अभिष्णुवंति ॥ नु स्तवने ॥
+
+##### Gist of the bhāṣya
+
+उदपुत (*udaputa*) are the raisers of water; वयः (*vayaḥ*) are birds; farmers (कृषीवलाः (*kṛṣīvalāḥ*)) who guard the crop from birds make sound as they drive them; न (*na*) is in the sense of comparison. Just as the sounds (घोषाः (*ghoṣāḥ*)) of a cloud-mass (अभ्रियस्य (*abhriyasya*)) that thunders again and again come to be, and just as the torrents (ऊर्मयः (*ūrmayaḥ*)) of water that have fallen from the mountains, the clouds, rejoice and resound, so the worshippers (अर्काः (*arkāḥ*)), the singers, praise Bṛhaspati (अभ्यनावन् (*abhyanāvan*), from the root नु स्तवने (*nu stavane*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उदप्रुतः (*udaprutaḥ*)—sprinkling water
+- वयः (*vayaḥ*)—driving away birds
+- रक्षमाणाः न (*rakṣamāṇāḥ na*)—as farmers who protect the crops from birds make a noise when driving the birds away
+- वावदतः (*vāvadataḥ*)—repeatedly thundering **NOTE**
+### Printed p. 576
+- अभ्रियस्य (*abhriyasya*)—of the cloud
+- घोषा इव (*ghoṣā iva*)—like the sound
+- गिरिभ्रजः (*giribhrajaḥ*)—falling from the cloud
+- ऊर्मयः (*ūrmayaḥ*)—the flood of rain-water
+- मदंतः न (*madaṃtaḥ na*)—as it makes a noise
+- अर्काः (*arkāḥ*)—the worshippers, the praisers
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- अभ्यनावन् (*abhyanāvan*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+As farmers, guardians of the crops, make a noise when they sprinkle water and drive birds away, as the cloud thunders again and again, and as the flood of rain-water falling from the cloud makes a noise, so the worshippers, the praisers, praise Bṛhaspati.
+
+##### English translation
+Like birds swimming in water when keeping watch, like the sound of
+the roaring thunder-cloud, like sounding torrents falling from the clouds,
+the worshippers glorify Brihaspati.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं गोभि॑रांगिर॒सो नक्ष॑माणो॒ भग॑ इ॒वेद॑य्॒रमणं॑  
+> निनाय ।  
+> जने॑ मि॒त्रो न दंप॑ती अनक्ति॒ बृह॑स्पते वा॒जया॒शूरि॑वा॒जौ ॥२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । गोभिः । अंगिरसः । नक्षमाणः । भगः इव । इत् । अर्यमणं । निनाय ।  
+> जने । मित्रः । न । दंपती इति दंपती । अनक्ति । बृहस्पते । वाजय । आशून् इव  
+> आजौ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आंगिरसोऽंगिरसः पुत्रो नक्षमाणः स्वतेजसा व्याप्पुवन् भग इवेद्भगो
+> देव इव स्थितो बृहस्पतिरेवार्यर्मणं स्तुतेः प्रेरकं स्तोतारं गोभिः सह सं
+> निनाय । नयति । संयोजयति । मित्रो न मित्रो यथा जनपदे स्वरश्मीन्संयोजयति तद्वद्दंपती जायापती अनक्ति । संगमयति । स्वसामर्थ्यं तत्र स्थापयतीत्यर्थः । हे बृहस्पते आशून्वाप्तान्स्वरश्मीन्वाजय । तव स्तोतृषु गमय ।
+> स्थापय । आशूनिव व्याप्तानश्वानाजौ संग्रामे योद्धारो यथा संगमयंति
+> तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The Āṅgirasa, the son of Aṅgiras, pervading (नक्षमाणः (*nakṣamāṇaḥ*)) with his own brilliance, standing like the god Bhaga, Bṛhaspati himself, unites (सं निनाय (*saṃ nināya*): leads, joins) Aryaman, the impeller of praise, the singer, with cows. As Mitra unites his own rays in the realm, so he unites (अनक्ति (*anakti*)) husband and wife (दंपती (*daṃpatī*)); that is, he places his own power there. O Bṛhaspati, send (वाजय (*vājaya*)) your pervading rays to your worshippers and place them there, as warriors in battle (आजौ (*ājau*)) bring together swift horses.
+
+### Printed p. 577
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नक्षमाणः (*nakṣamāṇaḥ*)—he who pervades with his own radiance
+- भग इवेत् (*bhaga ivet*)—he who shines like the god Bhaga
+- अंगिरसः (*aṃgirasaḥ*)—the son of Aṅgiras, Bṛhaspati
+- आर्यमणं (*āryamaṇaṃ*)—the praiser, the impeller of praise
+- गोभिः (सह) (*gobhiḥ (saha)*)—with cows
+- सं निनाय (*saṃ nināya*)—joins
+- जने (*jane*)—among all
+- मित्रो न (*mitro na*)—as the Sun-god brings together his rays
+- दंपती (*daṃpatī*)—husband and wife
+- अनक्ति (*anakti*)—he joins together
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- आजौ (*ājau*)—in battle
+- आशूनिव (*āśūniva*)—as one brings horses together
+- वाजय (*vājaya*)—send your rays to the praisers and join them to them
+
+##### भावार्थ (Bhāvārtha)
+
+Bṛhaspati, who pervades everywhere by his radiance, shines like Bhaga and is the son of Aṅgiras, joins the praiser, the impeller of praise, with cows. As the Sun-god brings together his rays among all, he joins husband and wife together. O Bṛhaspati, as horses are brought together in battle, join your rays to the praisers.
+
+##### English translation
+The son of Angiras pervading him with his brightness, has, like
+Bhaga, brought Aryaman to the cows; as Mitra (unites his radiance) with
+the people, so has he united husband and wife, Brihaspati, send (your wide-
+spread rays to your worshippers) ar (a warrior sends his) his horses to battle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒ध्व॒र्या अ॑ति॒थिनी॑रिषि॒राः स्पा॒र्हाः सु॒वर्णा॑ अनव॒द्यरू॑पाः ।  
+> बृह॒स्पतिः॒ पर्व॑तेभ्यो वि॒तूर्या॒ निर्गा ऊ॑पे॒ यव॑निव  ॒॑
+> स्थिविभ्यः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साधुऽआर्याः । अत्तिथिनीः । इषिराः । स्पार्हाः । सुवर्णाः । आनवद्यरूपाः ।  
+> बृहस्पतिः । पर्वतेभ्यः । वृतूर्य । निः । गाः । ऊपे । यवंइव । स्थिविभ्यः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> साध्वर्याः साधूनां कल्याणानां पयसां नेत्रिरतिथिनीः सततं गच्छंतीरिषिरा
+> एषणीयाः स्पार्हाः स्पृहणीयाः सुवर्णाः शोभनशुक्लादिवर्णोपेता अनवद्य-
+
+##### Gist of the bhāṣya
+
+साध्वर्याः (*sādhvaryāḥ*) are the leaders (*netrīḥ*) of good, auspicious milks; अत्तिथिनीः (*attithinīḥ*) those that go constantly; इषिराः (*iṣirāḥ*) those to be sought; स्पार्हाः (*spārhāḥ*) those to be desired; सुवर्णाः (*suvarṇāḥ*) those endowed with beautiful colours, white and the like; अनवद्य (*anavadya*)-
+
 ---
 
-**Progress note:** Done through printed p. 571. pp. 566-571 (batch API)
+**Progress note:** Done through printed p. 577. pp. 572-577 (batch API)
