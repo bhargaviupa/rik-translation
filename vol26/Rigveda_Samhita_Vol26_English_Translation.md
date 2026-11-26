@@ -3416,6 +3416,298 @@ Sūkta 51. Maṇḍala 9, Anuvāka 2, Sūkta 51. Aṣṭaka 7, Adhyāya 1, Varga
 
 O Adhvaryu, pour out the Soma pressed (सुतम् (*sutam*)) with the stones (अद्रिभिः (*adribhiḥ*)), that is, the pressing-stones, onto the filter. He shows this very thing: purify it, that is, cleanse it, for Indra's drinking (पातवे (*pātave*)).
 
+### Printed p. 137
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वर्यो (*adhvaryo*)—O Adhvaryu
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- सुतं (*sutaṃ*)—pressed
+- सोमं (*somaṃ*)—the Soma
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- आ सृज (*ā sṛja*)—pour for purification
+- इंद्राय (*iṃdrāya*)—of Indra
+- पातवे (*pātave*)—for drinking
+- पुनीहि (*punīhi*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, pour the Soma pressed with the stones onto the ten-fold filter. Purify it for Indra's drinking.
+
+##### English translation
+Adhwaryu pour upon the filter the Soma that has been expresscd with the stones, purify it for Indra's drinking.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वः पी॒यूष॑मुत्त॒मं सोम॒मिंद्रा॑य व॒ज्रिणे॑ ।  
+> सु॒नोता॒ मधु॑मत्तमम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । पीयूषम् । उत्ऽतमम् । सोमम् । इंद्राय । वज्रिणे ।  
+> सुनोत । मधुमत्ऽतमम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यवः यूयं मधुमत्तमम् अतिशयेन मधुमंतं दिवः द्युलोकस्य पीयूषम् अमृतम् उत्तमं श्रेष्ठं सोमं वज्रिणे वज्रवते इंद्राय सुनोत अभिषुणुत ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryus, press (सुनोत (*sunota*)) for Indra the wielder of the thunderbolt (वज्रिणे (*vajriṇe*)), that is, the one who has the thunderbolt, the Soma that is most honeyed (मधुमत्तमम् (*madhumattamam*)), that is, possessed of sweetness in the highest degree: the ambrosia (पीयूषम् (*pīyūṣam*)), the nectar, of heaven (दिवः (*divaḥ*)), the best (उत्तमं (*uttamaṃ*)), the most excellent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryus)
+- मधुमत्तमं (*madhumattamaṃ*)—that which is exceedingly tasty
+- दिवः (*divaḥ*)—in the heavenly world
+- पीयूषं (*pīyūṣaṃ*)—that which is of the nature of nectar
+- उत्तमं (*uttamaṃ*)—and that which is best
+- सोमं (*somaṃ*)—the Soma juice
+- वज्रिणे (*vajriṇe*)—who bears the thunderbolt as weapon
+- इंद्राय (*iṃdrāya*)—for Indra
+- सुनोत (*sunota*)—press
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, press the Soma juice, which is extremely pure **NOTE** and of the nature of nectar in the heavenly world, for Indra the wielder of the thunderbolt.
+
+### Printed p. 138
+
+##### English translation
+(Adhwaryus), effuse the most sweet-flavoured Soma, the best ambrosia of heaven for Indra, the wielder of the thunderbolt.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ त्य इं॑दो॒ अंध॑सो दे॒वा मधो॒र्व्य॑श्नते ।  
+> पव॑मानस्य म॒रुतः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्ये । इंदो इति । अंधसः । देवाः । मधोः । वि । अश्नते ।  
+> पवमानस्य । मरुतः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम तव संबंधिनं मधोः मदकरस्य पवमानस्य पूयमानम् अंधसः अन्नम् । कर्मणि षष्ठी । त्ये त इमे देवाः इंद्रादयः मरुतः च व्यश्नते व्याप्नुवंति प्राप्नुवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma: these well-known gods, Indra and the others, and the Maruts, pervade (व्यश्नते (*vyaśnate*)), that is, obtain, your food (अंधसः (*aṃdhasaḥ*)), the purifying (पवमानस्य (*pavamānasya*)), that is, being purified, juice that is of the gladdening (मधोः (*madhoḥ*)) kind. The genitive is used in the sense of the object.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- तव (*tava*)—your
+- मधोः (*madhoḥ*)—that which gives gladness
+- षवमानस्य (*ṣavamānasya*)—and that which purifies **NOTE**
+- अंधसः (*aṃdhasaḥ*)—the food in the form of juice
+- त्ये (*tye*)—the well-known
+- देवाः (*devāḥ*)—gods, Indra and the others
+- मरुतः (*marutaḥ*)—and the Maruts
+- व्यक्तते (*vyaktate*)—obtain **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, the well-known gods, Indra and the others, and the Maruts, obtain your food in the form of juice, which gives gladness and purifies. (They drink it.) **NOTE**
+
+##### English translation
+Indu, tne gods and the Maruts partake of your sweet purifying beverage.
+
+### Printed p. 139
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि सो॑म व॒र्धय॑न्सु॒तो मदा॑य॒ भूर्ण॑ये ।  
+> वृष॑न्स्तो॒तार॑मू॒तये॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । हि । सोम । वर्धयन् । सुतः । मदाय । भूर्णये ।  
+> वृषन् । स्तोतारम् । ऊतये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुतः अभिषुतः त्वं वर्धयन् देवान प्रवृद्धान् कुर्वन् वृषन् कामान् वर्षन् भूर्णये क्षिप्राय मदाय ऊतये रक्षणाय च स्तोतारम् अभिगच्छसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are pressed (सुतः (*sutaḥ*)), that is, expressed, making the gods grow (वर्धयन् (*vardhayan*)), that is, causing them to increase, and showering (वृषन् (*vṛṣan*)) desires, go to the worshipper (स्तोतारम् (*stotāram*)) for swift (भूर्णये (*bhūrṇaye*)) exhilaration (मदाय (*madāya*)) and for protection (ऊतये (*ūtaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O divine Soma
+- सुतः (*sutaḥ*)—pressed for the sacrifice
+- त्वं (*tvaṃ*)—you
+- वर्धयन् (*vardhayan*)—making the gods flourish
+- वृषन् (*vṛṣan*)—and being a shower of desires
+- भूर्णये (*bhūrṇaye*)—arising swiftly
+- मदाय (*madāya*)—for gladness
+- ऊतये (*ūtaye*)—and for protection
+- स्तोतारं (*stotāraṃ*)—you go to the praiser and join him
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are pressed for the sacrifice, making the gods flourish and being a shower of desires, go to the praiser and join him, for the gladness that arises as soon as you are drunk and for protection.
+
+##### English translation
+For you, Soma, being effused, approach the worshipper for speedy exhilaration ane protection.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्ष विचक्षण प॒वित्रं॒ धार॑या सु॒तः ।  
+> अ॒भि वाज॑मु॒त श्रवः॑ ॥ ५ ॥
+
+### Printed p. 140
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्ष । विऽचक्षण । पवित्रम् । धारया । सुतः ।  
+> अभि । वाजम् । उत । श्रवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विचक्षण सोम सुतः अभिषुतस्त्वं पवित्रम् अभि प्रति धारया अर्ष गच्छ। उत अपि चास्माकं वाजम् अन्नं श्रव: कीर्तिं च अभि क्षरेत्यर्थः॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+O far-seeing (विचक्षण (*vicakṣaṇa*)) Soma, you who are pressed (सुतः (*sutaḥ*)), go (अर्ष (*arṣa*)) in a stream (धारया (*dhārayā*)) towards (अभि (*abhi*)) the filter (पवित्रम् (*pavitram*)). And also (उत (*uta*)) flow towards us food (वाजम् (*vājam*)) and fame (श्रवः (*śravaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचक्षण (*vicakṣaṇa*)—O divine Soma of subtle sight
+- सुतः (*sutaḥ*)—you who are pressed for the sacrifice
+- पवित्रं (*pavitraṃ*)—towards the ten-fold filter **NOTE**
+- धारया (*dhārayā*)—in the form of a current
+- अर्ष (*arṣa*)—flow
+- उत (*uta*)—and
+- वाजं (*vājaṃ*)—food
+- श्रवः (*śravaḥ*)—and fame
+- अभि (*abhi*)—make them flow towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma of subtle sight, you who are pressed for the sacrifice, flow in the form of a current towards the ten-fold filter. Make food and fame flow towards us.
+
+##### English translation
+Hasten, sagacious (Soma), when you are effused, to the filter in a stream ; bestow upon us food and fame.
+
+## Sūkta 52 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘परि द्युक्षः' इति पंचर्चमष्टाविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । परि द्युक्षः' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परि द्युक्षः (*pari dyukṣaḥ*) has five ṛks and is the twenty-eighth sūkta. The seer and the rest are as before. The Anukramaṇī says परि द्युक्षः (*pari dyukṣaḥ*). The use in the rite has been stated.
+
+This sūkta beginning परि द्युक्षः (*pari dyukṣaḥ*) is the twenty-eighth sūkta in the second anuvāka. It contains five ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. In the Anukramaṇikā it is said परि द्युक्षः (*pari dyukṣaḥ*). The use in the rite has been stated before.
+
+Sūkta 52. Maṇḍala 9, Anuvāka 2, Sūkta 52. Aṣṭaka 7, Adhyāya 1, Varga 9. Number of ṛks in the sūkta: 5. Seer: Ucathya. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+### Printed p. 141
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ द्यु॒क्षः स॒नद्र॑यि॒र्भर॒द्वाजं॑ नो॒ अंध॑सा ।  
+> सु॒वा॒नो अ॑र्ष प॒वित्र॒ आ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । द्युक्षः । सनत्ऽरयिः । भरत् । वाजम् । नः । अंधसा ।  
+> सुवानः । अर्ष । पवित्रे । आ ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्युक्षः दीप्तः सनद्रयिः दीयमानधनः सोमः नः अस्माकं वाजं बलम् अंधसा अन्नेन सह  परि भरत् परिभरतु प्रयच्छतु। अथ प्रत्यक्षस्तुतिः । हे सोम सुवानः अभिषूयमाणस्त्वं पवित्रे  आ अर्ष क्षर ॥
+
+##### Gist of the bhāṣya
+
+May Soma, the radiant (द्युक्षः (*dyukṣaḥ*)), that is, shining, the giver of wealth (सनद्रयिः (*sanadrayiḥ*)), that is, one whose wealth is given, bring (परि भरत् (*pari bharat*)) to us strength (वाजं (*vājaṃ*)) together with food (अंधसा (*aṃdhasā*)), that is, bestow it. Now a direct address: O Soma, being pressed (सुवानः (*suvānaḥ*)), flow (अर्ष (*arṣa*)) to the filter (पवित्रे (*pavitre*)), that is, stream forth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्युक्षः (*dyukṣaḥ*)—the radiant
+- सनद्रयिः (*sanadrayiḥ*)—the giver of wealth, the divine Soma
+- नः (*naḥ*)—to us
+- अंधसा (*aṃdhasā*)—together with food
+- वाजं (*vājaṃ*)—strength
+- परिभरत् (*paribharat*)—may he give fully (O divine Soma)
+- सुवानः (*suvānaḥ*)—you who are pressed
+- पवित्रे (*pavitre*)—towards the ten-fold filter
+- आर्ष (*ārṣa*)—flow **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma, the radiant giver of wealth, give us strength joined with food. O divine Soma, you who are pressed for the sacrifice, flow towards the ten-fold filter for purification.
+
+##### English translation
+May glittering (Soma), the acquirer of wealth, bestow upon us strength together with food; hasten, when effused to the filter.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॑ प्र॒त्नेभि॒रध्व॑भि॒रव्यो॒ वारे॒ परि॑ प्रि॒यः ।  
+> स॒हस्र॑धारो या॒त्तना॑ ॥ २ ॥
+
+### Printed p. 142
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । प्रत्नेभिः । अध्वऽभिः । अव्यः । वारे । परि । प्रियः ।  
+> सहस्रऽधारः । यात् । तना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तव संबंधी प्रियः देवानां प्रीतिकरः सहस्रधारः बहुधारः तना विस्तृतसारो रसः प्रत्नेभिः पुराणैः अध्वभिः मार्गैः अव्यः अवेः वारे वाले दशापवित्रे परि यात् परिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your juice, which is dear (प्रियः (*priyaḥ*)), that is, pleasing to the gods, thousand-streamed (सहस्रधारः (*sahasradhāraḥ*)), that is, of many streams, and of widely spread essence (तना (*tanā*)), goes (परि यात् (*pari yāt*)) round by the ancient (प्रत्नेभिः (*pratnebhiḥ*)), old paths (अध्वभिः (*adhvabhiḥ*)) to the hair (वारे (*vāre*)) of the sheep (अव्यः (*avyaḥ*)), the ten-fold filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- प्रियः (*priyaḥ*)—that which is pleasing to the gods
+- सहस्रधारः (*sahasradhāraḥ*)—that which has a thousand streams
+- तना (*tanā*)—and that which spreads widely
+- तव (*tava*)—your juice
+- प्रत्नेभिः (*pratnebhiḥ*)—by ancient
+- अध्वभिः (*adhvabhiḥ*)—paths
+- अव्यः (*avyaḥ*)—made of wool
+- वारे (*vāre*)—in the meshes of the ten-fold filter
+- परि यात् (*pari yāt*)—goes and joins for purification
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, your juice, which is pleasing to the gods, has a thousand streams and spreads widely, goes by ancient paths into the woollen meshes of the ten-fold filter for purification.
+
+##### English translation
+Your juice dear (to the gods), flowing in a thousand streams, proceeds by ancient paths to the fleecy filter.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> च॒रुर्न यस्तमीं॑ख॒येंदो॒ न दान॑मींखय ।  
+> व॒धैर्व॑धस्नवींखय ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चरुः । न । यः । तम् । ईंखय । इंदो इति । न । दानम् । ईंखय ।  
+> वधैः । वधस्नो इति वधऽस्नो । ईंखय ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 136. Maṇḍala 9, Sūkta 50 and start of 51 (pp. 131-136)
+**Progress note:** Done through printed p. 142. Maṇḍala 9, Sūkta 51 (Ṛk 1-5) and Sūkta 52 Ṛk 1-3 (pp. 137-142)
