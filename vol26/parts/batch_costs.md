@@ -45,3 +45,4 @@
 | through p. 793 (three windows in one agent: pp. 775-781, 782-787, 788-793) | sonnet | 17 | 203082 | 7.3 |
 | through p. 813 (three windows in one agent: pp. 794-799, 800-805, 806-813; verify failed on the [?] count after the third commit: tool gap, repaired by the dispatcher) | sonnet | 21 | 187329 | 5.9 |
 | through p. 831 (three windows in one agent: pp. 814-819, 820-825, 826-831) | sonnet | 23 | 199898 | 6.3 |
+| through p. 849 (three windows in one agent: pp. 832-837, 838-843, 844-849) | sonnet | 17 | 203694 | 6.4 |
