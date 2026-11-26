@@ -14,3 +14,5 @@
 - Nov 26 2026: 20 marks settled by the user's decisions (list: review/user_decisions_applied.tsv). Notes: p1037 reference ೧-೩೩-೧೬ → ೧-೨೩-೧೬ (the quoted Ṛk `ಅಂಬಯೋ ಯಂತ್ಯಧ್ವಭಿಃ` is 1.23.16 in the Wikisource index; the image reads ೨೩); p1038 `(೧೧-೨೩-೧೮)` kept as printed (the image shows ೧೧; the quoted Ṛk is 1.23.18: probably a misprint in the print); `(೧-೨೩-೧೭)`, `(೧೦-೩೦-೧೪)`, `(೧೦-೩೦-೧೫)` agree with the quoted Ṛks in the index.
 
 - Nov 26 2026: user: references on p1007, p1008, p1021, p1025 are ok as read (marks cleared; list in user_decisions_applied.tsv). Left for the user's own check: p1012, p1033, p1035, p1045.
+
+- Nov 26 2026: user's own reading of the page images: p1012 `ಶ. ಬ್ರಾ. ೧೪-೧-೩-೩೮`, p1033 `ಐ. ಬ್ರಾ. ೮. ೨೦`, p1035 `೧೦-೮೩-೨` (the text had ೧೪-೧-೨-೩೪, ೨೦ with a mark, ೧-೯೩-೨). Listed in user_decisions_applied.tsv. Left: p1045 (7 marks) and p1071 one word.
