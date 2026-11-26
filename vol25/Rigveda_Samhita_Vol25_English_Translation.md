@@ -34358,6 +34358,285 @@ Translation of the Kannada: This sūkta beginning स सुतः (*sa sutaḥ*
 
 Sūkta 37. Maṇḍala 9, Anuvāka 2, Sūkta 37. Aṣṭaka 6, Adhyāya 8, Varga 37 **NOTE**. Number of ṛks in the sūkta: 6. Ṛṣi: रहूगणः (*rahūgaṇaḥ*). Devatā: पवमानः सोमुः (*pavamānaḥ somuḥ*). Chandas: गायत्री (*gāyatrī*).
 
+### Printed p. 840
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सु॒तः पी॒तये॒ वृषा॒ सोमः॑ प॒वित्रे॑ अर्षति ।  
+> वि॒घ्नन्रक्षां॑सि देव॒युः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सुतः । पीतये । वृषा । सोमः । पवित्रे । अर्षति ।  
+> विऽघ्नन् । रक्षांसि । देवऽयुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः पीतये इंद्रादिपानाय सुतः अभिषुतः वृषा वर्षणः सन् पवित्रे . अर्षति गच्छति । किं कुर्वन्। रक्षांसि विघ्नन्’ देवयुः देवकामः स इत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+That Soma, pressed for the drinking of Indra and the others, being the showerer, goes into the filter. Doing what? Destroying the rākṣasas. Desirous of the gods: the construction is that he, so described, goes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the bestower of desires
+- देवयुः (*devayuḥ*)—desirous of approaching the gods
+- सः सोमः (*saḥ somaḥ*)—that Soma
+- पीतये (*pītaye*)—for the drinking of Indra
+- सुतः (*sutaḥ*)—pressed
+- रक्षांसि (*rakṣāṃsi*)—the hosts of rākṣasas
+- विघ्नन् (*vighnan*)—slaying
+- पवित्रे (*pavitre*)—to the daśāpavitra
+- अर्षति (*arṣati*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+That divine Soma, the bestower of desired things, desirous of going to the gods, is pressed for the drinking of Indra, and, slaying the rākṣasas, approaches the daśāpavitra to be purified.
+
+##### English translation
+Soma, the showrer (of benefits), when effused for the drinking (of the gods), rushes to the filter, destroying the Rakshasas, devoted to the gods.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॒वित्रे॑ विचक्ष॒णो हरि॑रर्षति धर्ण॒सिः ।  
+> अ॒भि योनिं॒ कनि॑क्रदत् ॥ २ ॥
+
+### Printed p. 841
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवित्रे । विऽचक्षणः । हरिः । अर्षति । धर्णसिः ।  
+> अभि । योनिम् । कनिक्रदत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः विचक्षणः । पश्यतिकर्मैतत् । सर्वस्य द्रष्टा हरिः हरितवर्णः सोमः धर्णसिः सर्वस्य धारकः पवित्रे अर्षति गच्छति । पश्चात् कनिक्रदत् शब्दं कुर्वन् योनिं स्थानं द्रोणकलशम् अभि गच्छति ॥
+
+##### Gist of the bhāṣya
+
+That Soma is the all-seeing one (the verb for seeing is meant here), the beholder of everything; the green-tinted Soma, the sustainer of everything, goes to the filter. Afterwards, making a sound, he goes to the place, the Droṇa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचक्षणः (*vicakṣaṇaḥ*)—able to see everything
+- हरिः (*hariḥ*)—shining with a green-tinted colour
+- धर्णसिः (*dharṇasiḥ*)—who bears and nourishes all
+- सः (*saḥ*)—that Soma
+- पवित्रे (*pavitre*)—to the daśāpavitra, to be purified
+- अर्षति (*arṣati*)—goes (afterwards)
+- कनिक्रदत् (*kanikradat*)—making a gurgling sound
+- योनिं (*yoniṃ*)—to his own place, the Droṇa vessel
+- अभि गच्छति (*abhi gacchati*)—draws near
+
+##### भावार्थ (Bhāvārtha)
+
+That divine Soma, who is able to see everything, who shines with a green colour, who bears all for their nourishment, goes to the daśāpavitra to be purified. Afterwards, flowing with a gurgling sound, he draws near his own place, the Droṇa vessel.
+
+##### English translation
+The all-beholding Soma, green-tinted, all-sustaining, rushes to the filter (and thence) crying aloud to the pitcher.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वा॒जी रो॑च॒ना दि॒वः पव॑मानो॒ वि धा॑वति ।  
+> र॒क्षो॒हा वार॑म॒व्यय॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वाजी । रोचना । दिवः । पवमानः । वि । धावति ।  
+> रक्षःऽहा । वारम् । अव्ययम् ॥ ३ ॥
+
+### Printed p. 842
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वाजी वेजनवानश्वस्थानीयः दिवः स्वर्गस्य रोचना रोचकः पवमानः पूयमानः वि धावति । कीदृशः । रक्षोहा रक्षोहंता अव्ययं वारं दशापवित्रमतीत्य च धावति ॥
+
+##### Gist of the bhāṣya
+
+That swift Soma, who stands in the place of the horse, the illuminator of heaven, being purified, runs forth. Of what kind? The slayer of the rākṣasas. He runs, passing beyond the woollen daśāpavitra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजी (*vājī*)—possessed of swift motion
+- दिवः रोचना (*divaḥ rocanā*)—who lights up heaven
+- पवमानः (*pavamānaḥ*)—the purifier
+- सः (*saḥ*)—that Soma
+- विधावति (*vidhāvati*)—flows quickly
+- रक्षोहा (*rakṣohā*)—that Soma, the slayer of the rākṣasas
+- अव्ययं (*avyayaṃ*)—made of sheep's wool
+- वारं (*vāraṃ*)—to the daśāpavitra
+- वि धावति (*vi dhāvati*)—goes quickly
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma, possessed of swift motion, who lights up heaven with his radiance, the purifier, flowing quickly and slaying the rākṣasas, hastens quickly to the daśāpavitra made of sheep's wool, to be purified.
+
+##### English translation
+(Fleet as) a horse, the pure Soma, the illumer of heaven, hastens the destroyer of Rakshasas, past the woollen fleece.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स त्रि॒तस्याधि॒ सान॑वि॒ पव॑मानो अरोचयत् ।  
+> जा॒मिभिः॒ सूर्यं॑ स॒ह ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । त्रितस्य । अधि । सानवि । पवमानः । अरोचयत् ।  
+> जामिऽभिः । सूर्यम् । सह ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः त्रितस्य महर्षेः अधि सानवि समुच्छ्रिते यज्ञे । अधीति सप्तम्यर्थानुवादी। पवमानः पूयमानः जामिभिः प्रवृद्धैर्बंधुभूतैर्वा स्वतेजोभिः सह सहितः सन् 'सूर्यम् अरोचयत् प्रकाशितवान् ॥
+
+##### Gist of the bhāṣya
+
+That Soma, being purified, in the sacrifice of the great seer Trita, which is raised up (the word for "upon" only repeats the sense of the locative), lit up the sun, being accompanied by his own rays, which are grown or are like kinsmen.
+
+### Printed p. 843
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that Soma
+- त्रितस्य (*tritasya*)—of the great seer named Trita
+- अधि सानवि (*adhi sānavi*)—in the lofty sacrifice
+- पवमानः (*pavamānaḥ*)—pressed, or purified
+- जामिभिः (*jāmibhiḥ*)—with his own radiances
+- सह (*saha*)—accompanied
+- सूर्यं (*sūryaṃ*)—the sun
+- अरोचयत् (*arocayat*)—caused to shine
+
+##### भावार्थ (Bhāvārtha)
+
+That same divine Soma, purified in the lofty sacrifice of the great seer Trita, caused the sun to shine with his radiances.
+
+##### English translation
+The pure Soma upon the high place (of the sacrifice) of Trita attended by its kindred rays, has lighted up the Sun.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वृ॑त्र॒हा वृषा॑ सु॒तो व॑रिवो॒विददा॑भ्यः ।  
+> सोमो॒ वाज॑मिवासरत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वृत्रऽहा । वृषा । सुतः । वरिवःऽवित् । अदाभ्यः ।  
+> सोमः । वाजम्ऽइव । असरत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स वृत्रहा वृषा वर्षकः सुतः अभिषुतः वरिवोवित् यष्टुर्धनस्य लंभकः अदाभ्यः अन्यैरदंभनीयः सोमः वाजमिव संग्राममश्व इव असरत् गच्छति कलशम् ॥
+
+##### Gist of the bhāṣya
+
+That slayer of Vṛtra, the showerer, pressed, the obtainer of the sacrificer's wealth, the unconquerable, whom others cannot injure, Soma, goes to the vessel, like a horse to battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—the slayer of enemies, or the slayer of the demon Vṛtra
+- वृषा (*vṛṣā*)—the bestower of desires
+- वरिवोवित् (*varivovit*)—who provides wealth for those who perform sacrifice
+- अदाभ्यः (*adābhyaḥ*)—who is not injured
+- सः सोमः (*saḥ somaḥ*)—that Soma
+- सुतः (*sutaḥ*)—after being pressed
+- वाजमिव (*vājamiva*)—as a war-horse rushes into battle
+- असरत् (*asarat*)—goes swiftly (flows)
+
+### Printed p. 844
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma, the slayer of enemies, the bestower of desired things, who provides wealth for those who perform sacrifice and cannot be injured by others, flows with swift motion as soon as he is pressed, like a horse rushing into battle.
+
+##### English translation
+The slayer of Vritra, the showerer of benefits, the giver of wealth, the invincible, the effused Soma proceeds (to the pitcher) as (a horse) to battle.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स दे॒वः क॒विने॑षि॒तो॒३॒॑ऽभि द्रोणा॑नि धावति ।  
+> इंदु॒रिंद्रा॑य मं॒हना॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । देवः । कविना । इषितः । अभि । द्रोणानि । धावति ।  
+> इंदुः । इंद्राय । मंहना ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः देवः इंदुः क्लिद्यमानः कविना क्रांतप्रज्ञेनाध्वर्युणा इषितः प्रेरितः सन् द्रोणानि द्रोणकलशान् अभि धावति अभिगच्छति । किमर्थम् । इंद्राय इंद्रार्थम् । मंहना महान् स इति समन्वयः ॥ ॥ २७ ॥
+
+##### Gist of the bhāṣya
+
+That Soma, the god, the Indu, who is moistened, being impelled by the wise one, that is, by the adhvaryu of far-reaching understanding, runs towards the Droṇa vessels, goes to them. For what? For Indra, for the sake of Indra. The construction is that he, the great one, does so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—shining
+- इंदुः (*iṃduḥ*)—dripping in liquid form
+- मंहना (*maṃhanā*)—of great form
+- सः (*saḥ*)—that Soma
+- कविना (*kavinā*)—by the adhvaryu of far-reaching understanding
+- इषितः (*iṣitaḥ*)—impelled
+- द्रोणानि (*droṇāni*)—the Droṇa vessel
+- अभि (*abhi*)—aiming at
+- इंद्राय (*iṃdrāya*)—for the drinking of Indra
+- धावति (*dhāvati*)—goes quickly
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma, shining, of great form, dripping in liquid form, impelled by the adhvaryu of far-reaching understanding, hastens quickly towards the Droṇa vessel for the drinking of Indra.
+
+### Printed p. 845
+
+##### English translation
+The divine Soma, when effused by the priest, hastens in his might to the pitchers for Indra-
+
+## Sūkta 38 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एषः' इति षडृचं चतुर्दशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘एष उ स्यः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning एषः (*eṣaḥ*) has six ṛks and is the fourteenth sūkta. The seer and so on are as before. The Anukramaṇī lists it by एष उ स्यः (*eṣa u syaḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning एषः (*eṣaḥ*) is the fourteenth sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as those of the previous sūkta. What the Anukramaṇī says, एष उ स्यः (*eṣa u syaḥ*), is the ritual use, which has been stated before.
+
+Sūkta 38. Maṇḍala 9, Anuvāka 2, Sūkta 38. Aṣṭaka 6, Adhyāya 8, Varga 28. Number of ṛks in the sūkta: 6. Ṛṣi: रहूगणः (*rahūgaṇaḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष उ॒ स्य वृषा॒ रथोऽव्यो॒ वारे॑भिरर्षति ।  
+> गच्छ॒न्वाजं॑ सह॒स्रिण॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । ऊं इति । स्यः । वृषा । रथः । अव्यः । वारेभिः । अर्षति ।  
+> गच्छन् । वाजम् । सहस्रिणम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्यः स प्रसिद्धः एषः अभिषुतः सोमः वृषा वर्षिता रथः रंहणस्वभावः अव्यो वारेभिः अवेर्वालैर्दशापवित्रेण अर्षति गच्छति कलशम् । वाजम् अन्नं सहस्रिणं सहस्रसंख्याकं यजमानाय प्रदातुं गच्छन् द्रोणकलशं प्रविशन्नर्षतीत्यर्थः । उ पूरणः ॥
+
+##### Gist of the bhāṣya
+
+That well-known Soma, who has been pressed, the showerer, of a swift nature, goes with the sheep's hairs, that is, through the daśāpavitra, to the vessel. Going to give the sacrificer a thousandfold food, he enters the Droṇa vessel; this is the meaning. The particle उ (*u*) is a filler.
+
 ---
 
-**Progress note:** Done through printed p. 839. Sūkta 36 complete (Ṛk 1-6), start of Sūkta 37, pp. 834-839
+**Progress note:** Done through printed p. 845. Sūkta 37 Ṛk 1-6, Sūkta 38 Ṛk 1, pp. 840-845
