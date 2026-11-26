@@ -11418,6 +11418,226 @@ O Indra, by your ओजसा (*ojasā*), your own strength alone, you stand pre
 - स्वधां (*svadhāṃ*)—food or water
 - अनु ववक्षिथ (*anu vavakṣitha*)—desire to bring for me **NOTE**
 
+### Printed p. 290
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, with your own strength you pervade everywhere up to the farthest end of the world of heaven and surpass everything. O Indra, this terrestrial world, even with its great form, is not able to encompass you. Be pleased to give us food or water.
+
+##### English translation
+Indra, by your might you extend beyond the limits of heaven, the region of the earth cannot contain you ; deign to bring us food.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकिः॒ परि॑ष्टिर्मघवन्म॒घस्य॑ ते॒ यद्दा॒शुषे॑ दश॒स्यसि॑ ।  
+> अ॒स्माकं॑ बोध्यु॒चथ॑स्य चोदि॒ता मंहि॑ष्ठो॒ वाज॑सातये ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकिः । परिष्टिः । मघऽवन् । मघस्य । ते । यत् । दाशुषे । दशस्यसि ।  
+> अस्माकम् । बोधि । उचथस्य । चोदिता । मंहिष्ठः । वाजऽसातये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र ते तव मघस्य मंहनीयस्य धनस्य परिष्टिः परिबाधको निरोद्धा नकिः न कश्चिदस्ति । यत् यदा दाशुषे हविर्दत्तवते यजमानाय दशस्यसि धनं प्रयच्छसि तदा तस्य निरोधको नास्तीत्यर्थः । तथा सति चोदिता धनानां चोदयिता स्तोतृभ्यः प्रेरयिता अत एव मंहिष्ठः दातृतमो मंहनीयो वा स त्वम् अस्माकं संबंधि उचथस्य स्तोत्रं वाजसातये अन्नलाभाय तदर्थं क्रियमाणमिति बोधि बुध्यस्व । स्तोत्रेण स्तुतः सन्नस्मभ्यमन्नादिकं प्रयच्छेति शेषः । बोधि ।  ‘ बुध अवबोधने । भौवादिकः । लोटि छांदसः शपो लुक् । ध्यादेशः ॥ ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, there is no one who obstructs, hinders or holds back your bountiful wealth. When you give wealth to the sacrificer who has offered the oblation, there is none to stop it. Such being the case, you are the urger of wealth, the one who sends it to the praisers, and for that very reason the most liberal giver, or the one most worthy of praise. Know and hear our praise, which is performed for the gaining of food. The sense to be supplied is: being praised with the hymn, give us food and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O Indra, the wealthy one
+- यत् (*yat*)—when
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- दशस्यसि (*daśasyasi*)—you give wealth, then
+- ते (*te*)—your
+- मघस्य (*maghasya*)—of the excellent wealth, the gift of it
+- परिष्टिः (*pariṣṭiḥ*)—one who obstructs
+- नकिः (*nakiḥ*)—there is no one
+- चोदिता (*coditā*)—you who urge the praisers
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—and who give wealth most abundantly
+- वाजसातये (*vājasātaye*)—for the gaining of food, which we recite
+- अस्माकं (*asmākaṃ*)—related to us
+- उचथस्य (*ucathasya*)—the praise
+- बोधि (*bodhi*)—hear and know
+
+### Printed p. 291
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when you wish to give wealth to the sacrificer who offers you the oblation, there is no one to forbid that gift of wealth; that is, no one is able to. You who urge the praisers and give them wealth abundantly, hear and know the praise that we recite for the gaining of food.
+
+##### English translation
+None can hinder your bounty, Maghavan, when you give wealth to your votary ; most liberal sender (of wealth), listen to our praise for the attainment of food.
+
+## Sūkta 89 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहदिंद्राय' इति सप्तर्चं नवमं सूक्तम् । नृमेधपुरुमेधावृषी । तौ चानुक्तत्वादांगिरसौ । आदितो द्वौ प्रगाथौ पंचमीषष्ठ्यावनुष्टुभौ सप्तमी बृहती । इंद्रो देवता। तथा चानुक्रम्यते- बृहदिंद्राय सप्त नृमेधपुरूमेधौ द्व्यनुष्टुब्बृहत्यंतम्' इति । चातुर्विंशिकेऽहनि मरुत्वतीये प्राकृतान्मरुत्वतीयात्प्रगाथादूर्ध्वं  द्वौ मरुत्वतीयौ प्रगाथौ शंसनीयौ। बृहदिंद्राय गायत' इत्ययमाद्यः प्रगाथः । पृष्ठ्याभिप्लवषडहयोः द्वितीयेऽहन्ययं प्रगाथः । सूत्रितं च - बृहदिंद्राय गायत नकिः सुदासो रथमिति मरुत्वतीया ऊर्ध्वं नित्यात्' (आश्व. श्रौ. ७. ३) इति ॥
+
+##### Gist of the bhāṣya
+
+The ninth sūkta, beginning बृहदिंद्राय (*bṛhadiṃdrāya*), has seven Ṛks. Its seers are Nṛmedha and Purumedha **NOTE**, and since nothing else is stated they are of the Āṅgirasa line. The first two are Pragāthas, the fifth and sixth are Anuṣṭubh, the seventh is Bṛhatī. The deity is Indra. The Anukramaṇī says accordingly that the sūkta is for Indra, with seven Ṛks, by Nṛmedha and Purumedha, two Anuṣṭubh verses and a Bṛhatī at the end. On the Chāturviṃśika day, in the Marutvatīya litany, after the regular Marutvatīya Pragātha, two Marutvatīya Pragāthas are to be recited; the one beginning बृहदिंद्राय गायत (*bṛhadiṃdrāya gāyata*) is the first of them. This Pragātha is also used on the second day of the Pṛṣṭhya and Abhiplava ṣaḍahas. It is stated in the sūtra, बृहदिंद्राय गायत नकिः सुदासो रथमिति मरुत्वतीया ऊर्ध्वं नित्यात् (*bṛhadiṃdrāya gāyata nakiḥ sudāso rathamiti marutvatīyā ūrdhvaṃ nityāt*) (Āśv. Śrau. 7. 3).
+
+The Anuvāda: this sūkta, बृहदिंद्राय (*bṛhadiṃdrāya*), is the ninth sūkta in the ninth anuvāka; it has seven Ṛks. Its seers are the two named Nṛmedha and Purumedha; they were born in the line of Aṅgiras. The deity is Indra. Of the first four Ṛks of this sūkta, the first and third are in the Bṛhatī metre and the second and fourth in the Satobṛhatī metre. The fifth and sixth Ṛks are in the Anuṣṭubh metre.
+
+### Printed p. 292
+
+The seventh Ṛk is in the Bṛhatī metre. In the Anukramaṇī it is said: बृहदिंद्राय सप्त नृमेधपुरुमेधौ द्व्यनुष्टुब्बृहत्यंतं (*bṛhadiṃdrāya sapta nṛmedhapurumedhau dvyanuṣṭubbṛhatyaṃtaṃ*). On the day of the sacrifice called Chāturviṃśika, at the time of reciting the regular Marutvatīya litany, the Marutvatīya Pragātha mantras are to be recited; on that occasion this Pragātha mantra beginning बृहदिंद्राय गायत (*bṛhadiṃdrāya gāyata*) is to be recited. This Pragātha mantra is also to be recited on the second day of the sacrifices called Pṛṣṭhya and Abhiplava ṣaḍaha; this is explained by the Āśvalāyana Śrauta Sūtra, in the sūtra बृहदिंद्राय गायत नकिः सुदासो रथमिति मरुत्वतीया ऊर्ध्वं नित्यात् (*bṛhadiṃdrāya gāyata nakiḥ sudāso rathamiti marutvatīyā ūrdhvaṃ nityāt*) (Ā. Sū. 7-3).
+
+Sūkta 89.
+Maṇḍala 8; Anuvāka 9; Sūkta 89.
+Aṣṭaka 6; Adhyāya 6; Varga 12.
+Number of Ṛks in the sūkta: 7.
+Ṛṣi: Nṛmedhapurumedhau.
+Devatā: Indra.
+Chandas: 1–4. प्रागाथं (*prāgāthaṃ*). 5, 6. अनुष्टुप् (*anuṣṭup*). 7. बृहती (*bṛhatī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृ॒हदिंद्रा॑य गायत॒ मरु॑तो वृत्र॒हंत॑मम् ।  
+> येन॒ ज्योति॒रज॑नयन्नृता॒वृधो॑ दे॒वं दे॒वाय॒ जागृ॑वि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहत् । इंद्राय । गायत । मरुतः । वृत्रहम्ऽतमम् ।  
+> येन । ज्योतिः । अजनयन् । ऋतऽवृधः । देवम् । देवाय । जागृवि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः । ‘रु शब्दे'। मितं रुवंतीति मरुतः । हे मितभाषिणः स्तोतारः वृत्रहंतमम् अतिशयेन पापविनाशनं बृहत् साम इंद्राय इंद्रार्थं गायत अस्मदीययज्ञे गानं कुरुत । ऋतावृधः सत्यस्य यज्ञस्य वा वर्धका विश्वे देवाः देवाय द्योतमानायेंद्राय देवं देवनशीलं --- जागृवि सर्वेषां जागरणशीलं ज्योतिः सूर्यं येन साम्ना अजनयन् इंद्रार्थमुदपादयन् तत्साम गायतेति ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, so called because they speak in measured words (from the root meaning "to sound"); O praisers who speak in measured words, sing to Indra, in our sacrifice, the Bṛhat Sāman, which is the greatest destroyer of Vṛtra and of sin. The all-gods, who increase truth or the sacrifice, produced for Indra, the shining god, the luminary, the sun, who is divine, playful and ever awake to all; sing that Sāman by which they produced it. **NOTE**
+
+### Printed p. 293
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—all the gods who increase the sacrificial rite
+- देवाय (*devāya*)—for Indra, whose self is divine
+- देवं (*devaṃ*)—shining
+- जागृवि (*jāgṛvi*)—and sleepless
+- ज्योतिः (*jyotiḥ*)—the sun
+- येन (*yena*)—by which Sāman mantra
+- अजनयन् (*ajanayan*)—they produced, that
+- वृत्रहंतमं (*vṛtrahaṃtamaṃ*)—greatly sin-destroying
+- बृहत् (*bṛhat*)—Bṛhat Sāman mantra
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- गायत (*gāyata*)—recite and sing
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, sing, reciting it, for the pleasure of Indra, that Bṛhat Sāman mantra, remover of sin, by the power of which the all-gods, who increase the sacrifice, produced for Indra, whose self is divine, the ever-vigilant sun.
+
+##### English translation
+Priests, sing to Indra the most sin-destroying Brihat-Saman, by which the upholders of truth produced the divine all-waking luminary for the god.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अपा॑धमद॒भिश॑स्तीरशस्ति॒हाथेंद्रो॑ द्यु॒म्न्याभ॑वत् ।  
+> दे॒वास्त॑ इंद्र स॒ख्याय॑ येमिरे॒ बृह॑द्भानो॒ मरु॑द्गण ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अप । अधमत् । अभिऽशस्तीः । अशस्तिऽहा । अथ । इंद्रः । द्युम्नी । आ । अभवत् ।  
+> देवाः । ते । इंद्र । सख्याय । येमिरे । बृहद्भानो इति बृहत्ऽभानो । मरुत्ऽगण ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अशस्तिहा स्तोत्रशंसनरहितानां शत्रूणां हंता इंद्रः अभिशस्तीः । ‘शसु हिंसायाम् । अभितो हिंसा येषां ते । तादृशान् । यद्वा । अभिशस्तीः शत्रुकृता हिंसाः । अपाधमत् अपागमयत् । अथ शत्रुहननानंतरम् इंद्रः द्युम्नी सर्वत्र द्योतमानयशोयुक्तः । यद्वा । तेषां धनापहरणेन धनादिमान् । आभवत् सर्वतः प्रसिद्धोऽभवत् । अथोत्तरार्धः प्रत्यक्षकृतः । हे बृहद्भानो बृंहणशीलतेजस्क महादीप्ते वा मरुद्गण । मरुतां सप्त गणा यस्य संति स तथोक्तः । तादृश हे इंद्र देवाः द्योतमानाः सर्वे देवाः सख्याय आत्मनः सखिभावाय ते त्वां येमिरे नियच्छंति ।
+> अग्निष्टोमे मरुत्वतीये ‘प्र व इंद्राय' इत्ययं मरुत्वतीयः प्रगाथः । सूत्रितं च- प्र व इंद्राय बृहत इति मरुत्वतीयः प्रगाथः' ( आश्व. श्रौ. ५. १४) इति ॥
+
+##### Gist of the bhāṣya
+
+Indra, the slayer of enemies who offer no praise, drove away the ill-wishers, those who inflict harm on all sides; or else the harms inflicted by enemies. After killing the enemies Indra became glorious, endowed with a fame that shines everywhere; or else, by taking away their wealth, he became a possessor of wealth, and became known on every side. The latter half is addressed directly: O Indra of great splendour, of vast brightness, lord of the seven troops of Maruts, all the shining gods hold you fast for friendship with themselves.
+
+In the Agniṣṭoma, in the Marutvatīya litany, the Pragātha beginning प्र व इंद्राय (*pra va iṃdrāya*) is the Marutvatīya Pragātha, as stated in the sūtra (Āśv. Śrau. 5. 14).
+
+### Printed p. 294
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अशस्तिहा (*aśastihā*)—Indra, who slays the enemies who do not praise
+- अभिशस्तीः (*abhiśastīḥ*)—the harm done by enemies
+- अपाधमत् (*apādhamat*)—will remove
+- अथ (*atha*)—afterwards
+- इंद्रः (*iṃdraḥ*)—Indra
+- द्युम्नी (*dyumnī*)—as one who has fame everywhere, or as one who has wealth
+- आ अभवत् (*ā abhavat*)—became renowned
+- बृहद्भानो (*bṛhadbhāno*)—shining with great splendour
+- मरुद्गण (*marudgaṇa*)—O host of Maruts
+- इंद्र (*iṃdra*)—O Indra
+- देवाः (*devāḥ*)—all the gods
+- सख्याय (*sakhyāya*)—for gaining friendship
+- ते (*te*)—you
+- येमिरॆ (*yemirè*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, the destroyer of the enemies who do not offer praise, removes the harm done by enemies; afterwards that same Indra became known as shining and glorious. O host of Maruts shining with great splendour, and O Indra, all the gods are desiring your friendship.
+
+##### English translation
+Indra, the destroyer of those who offer not praise, has driven away the malevolent and has become glorious ; O Indra of mighty splendour, lord of the troops of Maruts, the gods press you for your friendship.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र व॒ इंद्रा॑य बृह॒ते मरु॑तो॒ ब्रह्मा॑र्चत ।  
+> वृ॒त्रं ह॑नति वृत्र॒हा श॒तक्र॑तु॒र्वज्रे॑ण श॒तप॑र्वणा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । इंद्राय । बृहते । मरुतः । ब्रह्म । अर्चत ।  
+> वृत्रम् । हनति । वृत्रऽहा । शतऽक्रतुः । वज्रेण । शतऽपर्वणा ॥ ३ ॥
+
+### Printed p. 295
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मरुतः मितराविणः स्तोतारः बृहते महते वः स्तुत्यस्तोतृत्वलक्षणेन संबंधेन युष्मदीयाय इंद्राय ब्रह्म सामलक्षणं स्तोत्रं प्र अर्चत प्रोच्चारयत । ततः वृत्रहा वृत्रस्य पापस्य वा हंता शतक्रतुः शतविधकर्मा बहुविधप्रज्ञो वेंद्रः शतपर्वणा शतसंख्याकधारेण वज्रेण एतन्नामकेनायुधेन वृत्रम् अपामावरकं वृत्राख्यमसुरं हनति युष्माभिरभिष्टुतः सन् हंतु । हंतेर्लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+O Maruts, praisers who speak in measured words, by the bond of the praised and the praiser recite forth to your great Indra the hymn in the form of a Sāman. Then Indra, slayer of Vṛtra or of sin, of a hundred works or of manifold wisdom, with his hundred-edged thunderbolt, a weapon of that name, let him, praised by you, smite the asura called Vṛtra, who shuts in the waters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुतः (*marutaḥ*)—O Maruts
+- बृहते (*bṛhate*)—of great glory
+- वः (*vaḥ*)—and related to you
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- ब्रह्म (*brahma*)—the hymn in the form of a Sāman
+- प्र अर्चत (*pra arcata*)—recite (and afterwards)
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra
+- शतक्रतुः (*śatakratuḥ*)—Indra, the doer of many deeds of valour
+- शतपर्वणा (*śataparvaṇā*)—with hundreds of edges
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- वृत्रं (*vṛtraṃ*)—Vṛtra the asura, who has held back the rain waters
+- हनति (*hanati*)—let him slay
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, recite the hymn in the form of Sāman chant to Indra, who is of great glory and related to you (as king to subjects); afterwards let Indra, the slayer of Vṛtra or of sin, the doer of many deeds of valour, praised by you, slay with his hundred-edged thunderbolt the asura Vṛtra, who has held back the rain waters.
+
+##### English translation
+Priests, utter forth the hymn to your great Indra; let Shatakratu, the slayer of Vritra, smite Vritra with his hundred-edged thunderbolt.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agniṣṭoma sacrifice, among the mantras of the Marutvatīya litany, this Pragātha (Ṛks 3-4) beginning प्र व इंद्राय (*pra va iṃdrāya*) is to be recited as the Marutvatīya Pragātha, as explained by the Āśvalāyana Śrauta Sūtra in the sūtra प्र व इंद्राय बृहत इति मरुत्वतीयः प्रगाथः (*pra va iṃdrāya bṛhata iti marutvatīyaḥ pragāthaḥ*) (Ā. Sū. 5-14).
+
 ---
 
-**Progress note:** Done through printed p. 289. Vol25 pp.284-289: 88.1 special topics, 88.2-5
+**Progress note:** Done through printed p. 295. Sukta 88 Rk 6 end, Sukta 89 Rks 1-3
