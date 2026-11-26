@@ -27632,6 +27632,248 @@ The Soma that is pressed is dear to Indra and gives delight. O Soma, the purifie
 ##### English translation
 Acceptable and giving delight to Indra, pure (Soma). as you utter a sound, you destroy all our enemies.
 
+### Printed p. 690
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प॒घ्नंतो॒ अरा॑व्णः॒ पव॑मानाः स्व॒र्दृशः॑ ।  
+> योना॑वृ॒तस्य॑ सीदत ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपऽघ्नंतः । अराव्णः । पवमानाः । स्वःऽदृशः ।  
+> योनौ । ऋतस्य । सीदत ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमानाः अराव्णः अदानानयजमानान् अपघ्ंतः हिंसंतः स्वर्दृशः सर्वत्र द्रष्टारश्च यूयम् ऋतस्य योनौ यज्ञस्य स्थाने सीदत । अथवा । सोमपानार्थमुक्तलक्षणा देवा ऋतस्य योनौ सीदतेति योज्यम् ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+O Pavamānas (purifying Soma juices), destroying those who do not give, that is, the sacrificers who offer no gifts, and seeing everywhere, sit in the seat of the Ṛta, that is, in the place of the sacrifice. Or else: the gods, of the character stated, are addressed: for the drinking of the Soma, sit in the seat of the Ṛta. So it is to be construed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानाः (*pavamānāḥ*)—all purifying Soma juices
+- अराव्णः (*arāvṇaḥ*)—the sacrificers (people) who offer no oblation to the gods
+- अपघ्नंतः (*apaghnaṃtaḥ*)—destroying **NOTE**
+- स्वदर्शः (*svadarśaḥ*)—you who view everything **NOTE**
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योनौ (*yonau*)—in the place of the altar
+- सीदत (*sīdata*)—sit down [(or: पवमानाः (*pavamānāḥ*)—all purifying gods; अराव्णः (*arāvṇaḥ*)—people who offer no oblation; अपघ्नंतः (*apaghnaṃtaḥ*)—destroying; स्वदर्शः (*svadarśaḥ*)—you who look at all things; ऋतस्य योनौ (*ṛtasya yonau*)—in the sacrificial altar; सीदत (*sīdata*)—) (come for the drinking of the Soma and sit down)]
+
+##### भावार्थ (Bhāvārtha)
+
+O all purifying Soma juices, destroying the people who offer no oblation to the gods, who are niggardly, you who can see and know all things, sit in the sacrificial altar, that is, be established there. Or else: O all gods, you of the qualities stated before, come to the sacrificial altar for the drinking of the Soma and sit down.
+
+##### English translation
+Pure (libations) beholding all things and destroying those who wor-ship not, sit down in the place of sacrifice.
+
+### Printed p. 691
+
+**The fourteenth sūkta.**
+
+## Sūkta 14 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘परि प्र' इत्यष्टर्चं चतुर्दशं सूक्तम् । ऋष्यादि पूर्ववत् । परि प्राष्टौ' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परि प्र (*pari pra*) has eight Ṛks and is the fourteenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as परि प्राष्टौ (*pari prāṣṭau*) **NOTE**. The use has been stated.
+
+This sūkta beginning परि प्र (*pari pra*) is the fourteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta; in the Anukramaṇikā it is said परि प्राष्टा (*pari prāṣṭā*). The use has been stated before.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ प्रासि॑ष्यदत्क॒विः सिंधो॑रू॒र्मावधि॑ श्रि॒तः ।  
+> का॒रं बिभ्र॑त्पुरु॒स्पृह॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । प्र । असिस्यदत् । कविः । सिंधोः । ऊर्मौ । अधि । श्रितः ।  
+> कारम् । बिभ्रत् । पुरुऽस्पृहम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परि प्रासिष्यदत् परिप्रस्यंदते कविः मेधावी सोमः सिंधोरूर्मौ तरंगे वस्तीवर्युदकरसे अधि श्रितः आश्रितः । पुरुस्पृहं बहुभिः स्पृहणीयं कारं शब्दं बिभ्रत् धारयन् परिस्यंदत इति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The wise (कविः (*kaviḥ*)) Soma, that is, the intelligent one, flows all round (परि प्रासिष्यदत् (*pari prāsiṣyadat*)). He rests (अधि श्रितः (*adhi śritaḥ*)) on the wave (ऊर्मौ (*ūrmau*)) of the river (सिंधोः (*siṃdhoḥ*)), that is, on the ripple of the water called vasatīvarī. Bearing (बिभ्रत् (*bibhrat*)) a sound (कारं (*kāraṃ*)) that is desired by many (पुरुस्पृहं (*puruspṛhaṃ*)), he flows. This is the connection.
+
+### Printed p. 692
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the wise, that is, the Soma juice pressed by the wise priests
+- सिंधोः ऊर्मौ (*siṃdhoḥ ūrmau*)—like the waves of a river, or in the vasatīvarī water
+- अधि श्रितः (*adhi śritaḥ*)—mixed
+- पुरुस्पृहं (*puruspṛhaṃ*)—desired by many
+- कारं (*kāraṃ*)—a sound
+- बिभ्रत् (*bibhrat*)—making
+- परि प्रासिस्यदत् (*pari prāsisyadat*)—flows all round
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juice pressed by the wise priests, mixed with the vasatīvarī water, flows like the waves of a river, making a gurgling sound that is pleasant to many.
+
+##### English translation
+The wise (Soma) flows widely round, betaking itself to the waves of the river, and uttering a sound desired by many.
+
+##### विशेषविषयगळु (Special Topics)
+
+सिंधोः ऊर्मौ (*siṃdhoḥ ūrmau*)—like the waves of a river, making a pleasant sound; or mixed with the water that is in the vessel called vasatīvarī.
+
+पुरुस्पृहं (*puruspṛhaṃ*)—desired by many; people fond of drinking the Soma watch with curiosity and eagerness the Soma juice flowing with a gurgling sound. Therefore this pleasant sound is a delight to those who drink the Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गि॒रा यदी॒ सबं॑धवः॒ पंच॒ व्राता॑ अप॒स्यवः॑ ।  
+> प॒रि॒ष्कृ॒ण्वंति॑ धर्ण॒सिम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गिरा । यदि । सऽबंधवः । पंच । व्राताः । अपस्यवः ।  
+> परिऽकृण्वंति । धर्णसिम् ॥ २ ॥
+
+### Printed p. 693
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सबंधवः समानबंधनाः पंच व्राताः पंच जना मनुष्या यजमानाः अपस्यवः कर्मेच्छवः यद्यदा ईमेनं धर्णसिं धारकं सोमं गिरा स्तुत्या परिष्कृण्वंति अलंकुर्वंति । अस्योत्तरत्रान्वयः ॥
+
+##### Gist of the bhāṣya
+
+The kindred (सबंधवः (*sabaṃdhavaḥ*)), that is, those bound by a common tie, the five groups (पंच व्राताः (*paṃca vrātāḥ*)), the five peoples, men, the sacrificers, desirous of rites (अपस्यवः (*apasyavaḥ*)), when (यदि (*yadi*), यदा (*yadā*)) they adorn (परिष्कृण्वंति (*pariṣkṛṇvaṃti*), अलंकुर्वंति (*alaṃkurvaṃti*)) this Soma, the sustainer (धर्णसिं (*dharṇasiṃ*), धारकं (*dhārakaṃ*)), with praise (गिरा (*girā*), स्तुत्या (*stutyā*)). Its connection is with what follows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सबंधवः (*sabaṃdhavaḥ*)—having common ties, that is, attached to common activities and dealings
+- पंच व्राताः (*paṃca vrātāḥ*)—the five peoples, those having the four castes beginning with Brāhmaṇa together with the Niṣādas, or the sacrificers among them
+- अपस्यवः (*apasyavaḥ*)—desiring to perform rites such as sacrifices
+- धर्णसिं (*dharṇasiṃ*)—this Soma, the sustaining, that is, the support of all
+- गिरा (*girā*)—with words of praise
+- परिस्कृण्वंति (*pariskṛṇvaṃti*)—adorn, that is, praise well
+
+##### भावार्थ (Bhāvārtha)
+
+The masters of the castes beginning with Brāhmaṇa, who are known as the five peoples and are engaged in mutually connected activities, desiring rites such as sacrifices, adorn with words of praise this Soma, which sustains all.
+
+##### English translation
+When the five kindred sacrificing races, desirous of accomplishing rites, honour the sustaining (Soma) with their praise,—
+
+##### विशेषविषयगळु (Special Topics)
+
+पंच व्राताः (*paṃca vrātāḥ*)—the five peoples: the five kinds of people made up of the four castes beginning with Brāhmaṇa together with the Niṣādas. A detailed explanation of these five peoples, and Yāska's etymological explanation, we have given before on many occasions.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आद॑स्य शु॒ष्मिणो॒ रसे॒ विश्वे॑ दे॒वा अ॑मत्सत ।  
+> यदी॒ गोभि॑र्वसा॒यते॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । अस्य । शुष्मिणः । रसे । विश्वे । देवाः । अमत्सत ।  
+> यदि । गोभिः । वसायते ॥ ३ ॥
+
+### Printed p. 694
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत् परिष्करणानंतरमेव शुष्मिणः बलवतः अस्य सोमस्य रसे विश्वे देवाः अमत्सत अमाद्यंत। यदि यदा गोभिः गोविकारैः । विकारे प्रकृतिशब्दः । क्षीरादिभिः । वसायते आच्छाद्यते ॥
+
+##### Gist of the bhāṣya
+
+Then (आत् (*āt*)), right after the adorning, all the gods (विश्वे देवाः (*viśve devāḥ*)) rejoiced (अमत्सत (*amatsata*)) in the juice (रसे (*rase*)) of this powerful (शुष्मिणः (*śuṣmiṇaḥ*)) Soma, when (यदि (*yadi*), यदा (*yadā*)) it is covered (वसायते (*vasāyate*), आच्छाद्यते (*ācchādyate*)) with the products of the cow (गोभिः (*gobhiḥ*)), milk and the like. Here the word for the original (गो (*go*)) stands for what is made from it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत् (*āt*)—after the adorning of the Soma, this Soma
+- यदि (*yadi*)—when
+- गोभिः (*gobhiḥ*)—with the products of the cow, milk or curds
+- वसायते (*vasāyate*)—it is covered, that is, mixed and made ready for drinking, then
+- शुष्मिणः (*śuṣmiṇaḥ*)—giving strength
+- अस्य रसे (*asya rase*)—in the drinking of this Soma juice
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- अमुत्सत (*amutsata*)—obtain delight
+
+##### भावार्थ (Bhāvārtha)
+
+After the adorning of the Soma, when milk or curds are mixed with that Soma juice and it is made fit for drinking, all the gods obtain delight in the drinking of that powerful Soma juice.
+
+##### English translation
+Then all the gods rejoice in the juice of this powerful ( libation ), when it is enveloped with milk and curds.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒रि॒णा॒नो वि धा॑वति॒ जह॒च्छर्या॑णि॒ तान्वा॑ ।  
+> अत्रा॒ सं जि॑घ्नते यु॒जा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निऽरिणानः । वि । धावति । जहत् । शर्याणि । तान्वा ।  
+> अत्र । सम् । जिघ्नते । युजा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः निरिणानः दशापवित्रादधो गच्छन् वि धावति विविधं धावति - - - - यदा तान्वा । तनु देशापवित्रवस्त्रम् । तत्संबंधीनि शर्याणि द्वाराणि जहत् अधः सरति । अत्र अस्मिन् यज्ञे युजा सखिभूतेनेंद्रेण सह सं जिघ्नते संगतो भवति । वस्त्रसुषिराद्विनिर्गत्य दशापवित्रादधः सत् पात्रं विविधं गच्छन् होमद्वारेणेंद्रेण संगतो भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, going down (निरिणानः (*niriṇānaḥ*)) from the ten-fold filter, runs (वि धावति (*vi dhāvati*)) in various ways **NOTE**. The तान्वा (*tānvā*) is the cloth of the ten-fold filter (तनु देशापवित्रवस्त्रम् (*tanu deśāpavitravastram*)); leaving (जहत् (*jahat*)) the openings (शर्याणि (*śaryāṇi*), द्वाराणि (*dvārāṇi*)) belonging to it, it descends. Here, in this sacrifice, it comes together (सं जिघ्नते (*saṃ jighnate*)) with Indra, its friend (युजा (*yujā*)). The meaning: issuing from the slits of the cloth, going down from the ten-fold filter into the vessel in various ways, it becomes joined with Indra through the offering.
+
+### Printed p. 695
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- निरिणानः (*niriṇānaḥ*)—(this Soma) strained through the ten-fold filter, flowing downwards
+- विधावति (*vidhāvati*)—comes running
+- तान्वा (*tānvā*)—belonging to the cloth of the ten-fold filter
+- शयोर्णि (*śayorṇi*)—the openings (slits)
+- जहत् (*jahat*)—pushing through
+- अत्र (*atra*)—in this sacrifice
+- युजा (*yujā*)—with Indra, the friend
+- सं जिघ्नते (*saṃ jighnate*)—joins
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, strained through the cloth of the ten-fold filter and trickling downwards, scattering the slits of the cloth of the ten-fold filter and pushing through them, comes running swiftly; and in this sacrifice it comes together with Indra, its friend. That is, the Soma juice strained through the ten-fold filter is collected in the Soma vessels and is offered by the priests to Indra through the oblation: this is the meaning.
+
+##### English translation
+Descending from filters it hastens (into the vessel), and passing through the cloth's interstices, it becomes united in this (sacrifice) with its friend (Indra).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒प्तीभि॒र्यो वि॒वस्व॑तः शु॒भ्रो न मा॑मृ॒जे युवा॑ ।  
+> गाः कृ॑ण्वा॒नो न नि॒र्णिज॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नप्तीभिः । यः । विवस्वतः । शुभ्रः । न । ममृजे । युवा ।  
+> गाः । कृण्वानः । न । निःऽनिजम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः विवस्वतः परिचरणवतो यजमानस्य नप्तीभिः पौत्रस्थानीयाभिः । तस्य हस्तः पुत्रोऽंगुलयः पौत्रस्थानीया इत्यभिप्रायः। मामृजे मृज्यते शुभ्रो न दीप्तोऽश्व: युवा इव । यथाप्रवृद्धोऽश्वो मृज्यते स्वपरिचारकैस्तद्वत् स एव युवा मिश्रणशीलः सोमः निर्णिजम्। निर्णिक्' इति रूपनाम । स्वकीयं रूपं गाः न कृण्वानः गोविकारांश्च कुर्वाणो भवतीति शेषः ॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+The Soma who (यः सोमः (*yaḥ somaḥ*)) is cleansed (मामृजे (*māmṛje*), मृज्यते (*mṛjyate*)) by the granddaughters (नप्तीभिः (*naptībhiḥ*)) of Vivasvat (विवस्वतः (*vivasvataḥ*)), that is, of the attending sacrificer: his hand is the son and the fingers are the granddaughters, this is the meaning. He is like a shining (शुभ्रः (*śubhraḥ*)) young (युवा (*yuvā*)) horse: as a full-grown horse is groomed by its own attendants, so this same young, mixing Soma. निर्णिजम् (*nirṇijam*): निर्णिक् (*nirṇik*) is a name for form. He makes his own form, and, so it is to be supplied, he also becomes one who makes the products of the cow (गाः न कृण्वानः (*gāḥ na kṛṇvānaḥ*)).
+
 ---
 
-**Progress note:** Done through printed p. 689. Sūkta 13 Ṛks 2 end to 8 (pp. 684-689)
+**Progress note:** Done through printed p. 695. Sūkta 13 Ṛk 9; Sūkta 14 Ṛks 1-5 (pp. 690-695)
