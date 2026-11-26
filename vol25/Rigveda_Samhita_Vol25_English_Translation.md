@@ -24483,6 +24483,304 @@ O all gods, be gracious and come to the sacrifice of Soma accompanied by the cry
 ##### English translation
 O all you gods, come together to the consecration of the Soma,—Vayu, Brihaspati, Surya, Agni and Indra.
 
+### Printed p. 623
+
+The sixth sūkta.
+
+## Sūkta 6 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘मंद्रया' इति नवर्चं षष्ठं सूक्तं काश्यपस्यासितस्य देवलस्य वार्षं गायत्रं पवमानसोमदेवताकम् ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning मंद्रया (*maṃdrayā*), of nine Ṛks, is the sixth sūkta. It is the vision of Asita Kāśyapa or Devala (काश्यपस्यासितस्य देवलस्य वार्षं (*kāśyapasyāsitasya devalasya vārṣaṃ*)), in the Gāyatra metre, and its deity is Pavamāna Soma.
+
+##### Anuvāda
+
+This sūkta beginning मंद्रया (*maṃdrayā*) is the sixth sūkta in the first anuvāka. There are nine Ṛks in it. The seer of this sūkta is the one named Asita Kāśyapa, or Devala. The deity is Pavamāna Soma; the metre is Gāyatrī.
+
+##### Particulars
+
+Sūkta 6.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 6.
+
+Aṣṭaka 6. Adhyāya 7. Vargas 36, 37. **NOTE**
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: Asita Kāśyapa or Devala.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रया॑ सोम॒ धार॑या॒ वृषा॑ पवस्व देव॒युः ।  
+> अव्यो॒ वारे॑ष्वस्म॒युः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रया । सोम । धारया । वृषा । पवस्व । देवऽयुः ।  
+> अव्यः । वारेषु । अस्मऽयुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वृषा कामानां वर्षिता देवयुः देवकामः अस्मयुः अस्मत्कामश्च अव्यः अवेः वारेषु वालेषु दशापवित्रे मंद्रया मदकरया धारया पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, showerer of desires (वृषा (*vṛṣā*)), desiring the gods (देवयुः (*devayuḥ*)) and desiring us (अस्मयुः (*asmayuḥ*)), flow (पवस्व (*pavasva*), that is, क्षर (*kṣara*)) in your intoxicating stream (मदकरया धारया (*madakarayā dhārayā*)) on the fleeces of the sheep (अव्यः वारेषु (*avyaḥ vāreṣu*)), that is, on the woollen hairs of the ten-fold filter (दशापवित्रे (*daśāpavitre*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- वृषा (*vṛṣā*)—the giver of desired things
+- देवयुः (*devayuḥ*)—desiring the worship of the gods
+- अस्मयुः (*asmayuḥ*)—wishing to favour us
+- अव्यः वारेषु (*avyaḥ vāreṣu*)—on the woollen threads that purify in the ten-fold filter
+
+### Printed p. 624
+
+- मंद्रया (*maṃdrayā*)—delightful
+- धारया (*dhārayā*)—with the stream
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, giver of desired things, desiring the worship of the gods and wishing to favour us, flow with a delightful stream on the woollen hairs that purify you in the ten-fold filter.
+
+##### English translation
+Soma, you are the showrer (of benefits); devoted to the gods, favourable to us, flow with your exhilarating stream into the woollen seive.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्यं मद्यं॒ मद॒मिंद॒विंद्र॒ इति॑ क्षर ।  
+> अ॒भि वा॒जिनो॒ अर्व॑तः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्यम् । मद्यम् । मदम् । इंदो इति । इंद्रः । इति । क्षर ।  
+> अभि । वाजिनः । अर्वतः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम त्वम् इंद्रः ईश्वरः इति कृत्वा त्यं तं मद्यं मदकरं मदं रसम् अभि क्षर वर्ष । वाजिनः बलवतः अर्वतः अश्वांश्च अस्मदर्थम् अभि क्षरेत्यर्थः । ।
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, since you are Indra, that is, lord (इंद्रः ईश्वरः (*iṃdraḥ īśvaraḥ*)), pour out that intoxicating juice (मद्यं मदकरं मदं रसम् (*madyaṃ madakaraṃ madaṃ rasam*)). Pour also the strong (वाजिनः बलवतः (*vājinaḥ balavataḥ*)) horses (अर्वतः (*arvataḥ*)) for our sake: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- इंद्रः इति (*iṃdraḥ iti*)—know that you are the lord of all
+- त्यं (*tyaṃ*)—that well known
+- मद्यं (*madyaṃ*)—and gladdening
+- मदं (*madaṃ*)—juice
+- अभि क्षर (*abhi kṣara*)—cause to flow
+- वाजिनः (*vājinaḥ*)—endowed with strength
+- अर्वतः (*arvataḥ*)—the horses
+- अभि (क्षर) (*abhi (kṣara)*)—cause to be produced (cause to move) **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, know that you are the lord of all; cause also the well known and gladdening juice to be produced. (Cause it to move.) **NOTE**
+
+### Printed p. 625
+
+##### English translation
+Indu, you, as sovereign, effuse that exhilarating juice, and pour forth vigorous steeds.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्यं पू॒र्व्यं मदं॑ सुवा॒नो अ॑र्ष प॒वित्र॒ आ ।  
+> अ॒भि वाज॑मु॒त श्रवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्यम् । पूर्व्यम् । मदम् । सुवानः । अर्ष । पवित्रे । आ ।  
+> अभि । वाजम् । उत । श्रवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सुवानः अभिषूयमाणस्त्वं पूर्व्यं प्रत्नं त्यं तं प्रसिद्ध मदं मदकरं रसं पवित्रे आ समंतात् अभि अर्ष अभिगमय । वाजं बलमस्मान् अभि अर्ष । उत अपि च श्रवः अन्नमभ्यर्ष ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being pressed (सुवानः (*suvānaḥ*)), make that ancient (पूर्व्यं प्रत्नं (*pūrvyaṃ pratnaṃ*)), well known, intoxicating juice flow all round in the filter (पवित्रे आ समंतात् (*pavitre ā samaṃtāt*)). Make strength (वाजं (*vājaṃ*)) flow to us, and also food (श्रवः (*śravaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma) सुवानः (*suvānaḥ*)—you who are pressed
+- पूर्व्यं (*pūrvyaṃ*)—ancient
+- त्यं (*tyaṃ*)—well known
+- मदं (*madaṃ*)—and intoxicating, the juice
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- आ (*ā*)—all round
+- अभ्यर्ष (*abhyarṣa*)—cause to flow
+- वाजं (*vājaṃ*)—and strength
+- अभ्यर्ष (*abhyarṣa*)—produce
+- उत (*uta*)—and
+- श्रवः (*śravaḥ*)—produce also food
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are pressed by us, cause the ancient, well known and intoxicating juice to flow all round the ten-fold filter. Produce strength in us. Produce food and cause it to reach us.
+
+##### English translation
+Rain out through the filter, while pressed, that ancient exhilarating fluid, and pour us forth strength and food.
+
+### Printed p. 626
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ द्र॒प्सास॒ इंद॑व॒ आपो॒ न प्र॒वता॑सरन् ।  
+> पु॒ना॒ना इंद्र॑माशत ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । द्रप्सासः । इंदवः । आपः । न । प्रऽवता । असरन् ।  
+> पुनानाः । इंद्रम् । आशत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्रप्सासः द्रुतगतयः पुनानाः क्षरंतः इंदवः सोमाः प्रवता प्रवणेन मार्गेण आपो न आप इव इंद्रम् अनु असरन् अनुगच्छंति । आशत व्याप्नुवंति च ॥
+
+##### Gist of the bhāṣya
+
+The Somas (इंदवः सोमाः (*iṃdavaḥ somāḥ*)), swift-moving (द्रप्सासः द्रुतगतयः (*drapsāsaḥ drutagatayaḥ*)) and flowing (पुनानाः क्षरंतः (*punānāḥ kṣaraṃtaḥ*)), follow Indra (इंद्रम् अनु असरन् (*iṃdram anu asaran*)) along a sloping path (प्रवता प्रवणेन मार्गेण (*pravatā pravaṇena mārgeṇa*)), like waters (आपो न आप इव (*āpo na āpa iva*)), and pervade him (आशत (*āśata*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रप्सासः (*drapsāsaḥ*)—of swift movement
+- पुनानाः (*punānāḥ*)—and flowing
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- प्रवता (*pravatā*)—flowing in a low-lying region
+- आपो न (*āpo na*)—swiftly like waters
+- इंद्रं अनु (*iṃdraṃ anu*)—towards Indra
+- असरन् (*asaran*)—flow
+- आशत (*āśata*)—pervade his body
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, of swift movement and flowing, stream swiftly towards Indra like waters flowing in a low-lying region. They pervade his body.
+
+##### English translation
+The quickly-falling drops, as they filter, follow Indra and reach him, like waters rushing down a declivity.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यमत्य॑मिव वा॒जिनं॑ मृ॒जंति॒ योष॑णो॒ दश॑ ।  
+> वने॒ क्रीळं॑त॒मत्य॑विम् ॥ ५ ॥
+
+### Printed p. 627
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । अत्यम्ऽइव । वाजिनम् । मृजंति । योषणः । दश ।  
+> वने । क्रीळंतम् । अतिऽअविम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्यविं दशापवित्रमतिक्रम्य वने अरण्ये क्रीळंतं वर्तमानं यं सोमं दश दशसंख्याकाः योषणः स्त्रियः। अंगुलय इत्यर्थः। तथा च निगमांतरं - ‘तमीमण्वीः समर्य आ गृभ्णंति योषणो दश' (ऋ. सं. ९.१.७ ) इति । वाजिनं बलिनम् अत्यमिव अश्वमिव मृजंति परिचरंति । उत्तरया सहान्वयः ॥ ॥ २६ ॥
+
+##### Gist of the bhāṣya
+
+The ten women (दश (*daśa*) योषणः (*yoṣaṇaḥ*) स्त्रियः (*striyaḥ*)), that is, the fingers (अंगुलय (*aṃgulaya*)), tend (मृजंति परिचरंति (*mṛjaṃti paricaraṃti*)) the Soma, who has passed beyond the ten-fold filter and is sporting in the wood (वने अरण्ये क्रीळंतं (*vane araṇye krīḷaṃtaṃ*)), as one tends a strong horse (वाजिनं बलिनम् अत्यमिव अश्वमिव (*vājinaṃ balinam atyamiva aśvamiva*)). Another Vedic passage is cited for this: तमीमण्वीः समर्य आ गृभ्णंति योषणो दश (*tamīmaṇvīḥ samarya ā gṛbhṇaṃti yoṣaṇo daśa*) (Ṛ. Saṃ. 9.1.7). The construction is joined with the next Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्यविं (*atyaviṃ*)—having come out of the ten-fold filter
+- वने (*vane*)—in the wood
+- क्रीळंतं (*krīḷaṃtaṃ*)—sporting
+- यं (*yaṃ*)—which same Soma
+- दश योषणः (*daśa yoṣaṇaḥ*)—the ten fingers
+- वाजिनं (*vājinaṃ*)—endowed with strength
+- अत्यं इव (*atyaṃ iva*)—as men tend a horse
+- मृजंति (*mṛjaṃti*)—tend and prepare
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers tend and prepare that same Soma, who has come out of the ten-fold filter and is sporting in the wood, as men tend a strong horse.
+
+##### English translation
+That which sporting in the wood and spurting beyond the sieve, the ten sisters press, as (men rub down) a strong horse.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं गोभि॒र्वृष॑णं॒ रसं॒ मदा॑य दे॒ववी॑तये ।  
+> सु॒तं भरा॑य॒ सं सृ॑ज ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । गोभिः । वृषणम् । रसम् । मदाय । देवऽवीतये ।  
+> सुतम् । भराय । सम् । सृज ॥ ६ ॥
+
+### Printed p. 628
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषणं कामानां वर्षितारं देववीतये देवानां पानाय मदाय सुतम् अभिषुतं तं रसं भराय संग्रामाय गोभिः पयोभिः सं सृज संयोजय ॥
+
+##### Gist of the bhāṣya
+
+Mix with milk (गोभिः पयोभिः सं सृज संयोजय (*gobhiḥ payobhiḥ saṃ sṛja saṃyojaya*)) that juice, the showerer of desires (वृषणं कामानां वर्षितारं (*vṛṣaṇaṃ kāmānāṃ varṣitāraṃ*)), pressed (सुतम् अभिषुतं (*sutam abhiṣutaṃ*)) for the drinking of the gods (देववीतये देवानां पानाय (*devavītaye devānāṃ pānāya*)) and for exhilaration (मदाय (*madāya*)), for the battle (भराय संग्रामाय (*bharāya saṃgrāmāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषणं (*vṛṣaṇaṃ*)—the desire-showering
+- देववीतयो (*devavītayo*)—for the drinking of the gods
+- मदाय (*madāya*)—for causing them joy
+- सुतं (*sutaṃ*)—pressed
+- तं (*taṃ*)—well known
+- रसं (*rasaṃ*)—Soma juice
+- भराय (*bharāya*)—for battle
+- गोभिः (*gobhiḥ*)—with milk and the like
+- सं सृज (*saṃ sṛja*)—mix and prepare
+
+##### भावार्थ (Bhāvārtha)
+
+Mix with milk and the like, and prepare, for battle, the well known Soma juice, the desire-showering, pressed for the drinking of the gods and for causing them joy.
+
+##### English translation
+That desire-showering liquor, effused for the drink of the gods and for our exhilaration,—mix with milk for prowess in battle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वो दे॒वाय॒ धार॒येंद्रा॑य पवते सु॒तः ।  
+> पयो॒ यद॑स्य पी॒पय॑त् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवः । देवाय । धारया । इंद्राय । पवते । सुतः ।  
+> पयः । यत् । अस्य । पीपयत् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवाय द्योतमानाय इंद्राय सुतः अभिषुतः देवः द्योतमानः सोमः धारया पवते क्षरति । यत् यस्मात् अस्य सोमस्य पयः पीपयत् इंद्रमाप्यायितवत् । तस्माद्धारया पवत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The shining (देवः द्योतमानः (*devaḥ dyotamānaḥ*)) Soma, pressed (सुतः अभिषुतः (*sutaḥ abhiṣutaḥ*)) for the shining Indra, flows (पवते क्षरति (*pavate kṣarati*)) in a stream. Because his milk (पयः (*payaḥ*)) has made Indra swell (पीपयत् इंद्रमाप्यायितवत् (*pīpayat iṃdramāpyāyitavat*)), therefore he flows in a stream: this is the meaning.
+
 ---
 
-**Progress note:** Done through printed p. 622. Mandala 9 Sukta 5, Rk 5 (Pada, Sayana) to Rk 11
+**Progress note:** Done through printed p. 628. Mandala 9 Sukta 6, Rk 1-7 (Sayana of Rk 7)
