@@ -3626,6 +3626,254 @@ The reverent priests drawing near pour the superfluous butter into the large (sp
 > गाव॒ उपा॑वताव॒तं म॒ही य॒ज्ञस्य॑ र॒प्सुदा॑ ।  
 > उ॒भा कर्णा॑ हिर॒ण्यया॑ ॥ १२ ॥
 
+### Printed p. 91
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गावः । उप । अवत । अवतम् । मही इति । यज्ञस्य । रप्सुदा ।  
+> उभा । कर्णा । हिरण्यया ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गावः घर्मदुघा यूयम् अवतं महावीरं प्रति उपावत उपागच्छत । यस्मात् यज्ञस्य घर्मयागस्य साधनभूते रप्सुदा। रप्सुदारप्सुदे आरिप्सोः फलप्रदे । लिप्स्वोरश्विनोर्दातव्ये वा। यद्वा रपणं शब्दनम् । रप् मंत्रः । तेन सुष्ठु दातव्ये । अथवा ‘ षूद क्षरणे '। रपा मंत्रेण क्षारणीये दोहनीये। ईदृशे गवाजयोः पयसी मही महती बहुले अपेक्षिते अत उपावतम् । गौरजाया अप्युपलक्षकः अजापयसोऽपि महावीरे सेचनीयत्वात्। अपि चास्य महावीरस्य उभा उभौ कर्णा कर्णस्थानीयौ द्वौ रुक्मौ हिरण्यया हिरण्मयौ सुवर्णरजतमयावित्यर्थः ॥
+> प्रवर्ग्येऽजापयसि महावीर आनीयमाने ‘ आ सुते ' इत्येषा । सूत्रितं च - ‘ आ सुते सिंचत श्रियमित्याज आसिक्तयोः ' (आश्व. श्रौ. ४. ७) इति ॥
+
+##### Gist of the bhāṣya
+
+O cows, you who yield the Gharma milk, come near (उपावत (*upāvata*)) to the अवतं (*avataṃ*), the Mahāvīra, because the two milks, serving the sacrifice of the Gharma, are रप्सुदा (*rapsudā*). He explains रप्सुदा (*rapsudā*) in several ways: fruit-giving to one who desires to obtain; or to be given to the two Aśvins who wish to obtain; or else रपणं (*rapaṇaṃ*) is sounding, रप् (*rap*) is a mantra, and so the milks are to be well given by it; or else, from the root षूद क्षरणे (*ṣūda kṣaraṇe*), they are to be made to flow by the mantra, that is, to be milked. Of such a kind are the milks of the cow and of the she-goat; they are मही (*mahī*), great, that is, plentiful, and they are required; therefore come near. The word cow also stands for the she-goat, since the milk of the she-goat too has to be poured into the Mahāvīra. Moreover, both (उभा (*ubhā*)) ears (कर्णा (*karṇā*)) of this Mahāvīra, that is, the two gold plates that stand in the place of ears, are golden (हिरण्यया (*hiraṇyayā*)), made of gold and silver. In the Pravargya, when the goat's milk is brought to the Mahāvīra, the Ṛk आ सुते (*ā sute*) is used. It is given in the sūtra: आ सुते सिंचत श्रियमित्याज आसिक्तयोः (*ā sute siṃcata śriyamityāja āsiktayoḥ*) (Āśv. Śrau. 4. 7).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गावः (*gāvaḥ*)—O she-goats and cows
+- आवतं (*āvataṃ*)—to the Mahāvīra
+- उपावत (*upāvata*)—come (your milks)
+- यज्ञस्य (*yajñasya*)—needed for the sacrifice
+- रप्सुदा (*rapsudā*)—and fruit-giving
+- मही (*mahī*)—are also of great nature
+- (अस्य (*asya*))—of this Mahāvīra vessel
+- उभा कर्णा (*ubhā karṇā*)—both the handles on the two sides, which are like ears
+- हिरण्ययो (*hiraṇyayo*)—are made of gold and silver
+
+##### भावार्थ (Bhāvārtha)
+
+O she-goats and cows, come to the Mahāvīra. Your milks are needed for the sacrifice, are fruit-giving and are of great nature. Both the handles on the two sides of this Mahāvīra vessel, which are like ears, are made of gold and silver.
+
+##### English translation
+Draw nigh, you cows, to the cauldron ; (the two kinds of milk) in the sacrifice are plentiful and fruit-giving; both ears (of the vessel) are golden.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ सु॒ते सिं॑चत॒ श्रियं॒ रोद॑स्योरभि॒श्रिय॑म् ।  
+> र॒सा द॑धीत वृष॒भम् ॥ १३ ॥
+
+### Printed p. 92
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । सुते । सिंचत । श्रियम् । रोदस्योः । अभिऽश्रियम् ।  
+> रसा । दधीत । वृषभम् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुते दुग्धे गोपयसि श्रियं श्रयणमाजं पयः आ सिंचत । सिंचत हे अध्वर्यवः । कीदृशमाजम् । रोदस्योः । कर्मणि षष्ठ्येषा । द्यावापृथिव्यौ अभिश्रियम् अभिश्रयंतम् । अग्निसंयोगात्तावत्पर्यंतं प्रवृद्धमित्यर्थः । अथवा  ‘ तत्कावश्विनौ द्यावापृथिव्यावित्येके' (निरु. १२. १) इति निरुक्तत्वादश्विनोरभिश्रियमित्यर्थः । सेचनानंतरं रसा रस आजे पयसि वृषभं वर्षकमग्निं दधीत स्थापयत । अजाया आग्नेयीत्वात् क्षीरस्याप्यग्निसंयोजनमुचितम् ।  ‘ आग्नेयी वा एषा यदजा ' (तै. ब्रा. ३. ७. ३. १) इति ब्राह्मणम् ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryus, pour (आ सिंचत (*ā siṃcata*)) the goat's milk, the श्रियं (*śriyaṃ*), that is, the admixture, into the milk of the cow that has been milked (सुते (*sute*)). What kind of goat's milk? रोदस्योः (*rodasyoḥ*) stands in the genitive of the object: heaven and earth; अभिश्रियं (*abhiśriyaṃ*) is that which reaches towards them; through contact with the fire it has grown so far, this is the meaning. Or else, since the Nirukta says तत्कावश्विनौ द्यावापृथिव्यावित्येके (*tatkāvaśvinau dyāvāpṛthivyāvityeke*) (Ni. 12. 1) **GLOSS** the meaning is the admixture that reaches the two Aśvins. After the pouring, in the sap (रसा (*rasā*)), that is, in the goat's milk, set (दधीत (*dadhīta*)), place, the bull (वृषभं (*vṛṣabhaṃ*)), Agni the rain-giver. Because the she-goat belongs to Agni, it is fitting to join even the milk with Agni. The Brāhmaṇa says: आग्नेयी वा एषा यदजा (*āgneyī vā eṣā yadajā*) (Tai. Brā. 3. 7. 3. 1) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryus) रोदस्योः (*rodasyoḥ*)—in both heaven and earth
+- अभिश्रियं (*abhiśriyaṃ*)—which spreads, pervading
+- श्रियं (*śriyaṃ*)—the goat's milk, which is the means of mixing
+- सुते (*sute*)—with the milk of the cow that has been milked
+- आ सिंचत (*ā siṃcata*)—pour and mix
+- वृषभं (*vṛṣabhaṃ*)—Agni, the causer of rain and giver of desired objects
+- रसा (*rasā*)—in the goat's milk
+- दधीत (*dadhīta*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryus, pour and mix the goat's milk, which spreads, pervading both heaven and earth and is the means of mixing, with the milk of the cow that has been milked. Establish Agni, the causer of rain and giver of desired objects, in the goat's milk.
+
+##### English translation
+Drop into the milked (stream) the admixture, which reaches, (as it boils), heaven and earth ; set the bull in the liquor.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pravargyeṣṭi, when goat's milk is brought for the Mahāvīra, the Ṛk beginning आ सुते (*ā sute*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, आ सुते सिंचत श्रियमित्याजे (*ā sute siṃcata śriyamityāje*) (Ā. 4-7).
+
+### Printed p. 93
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते जा॑नत॒ स्वमो॒क्यं१॒॑ सं व॒त्सासो॒ न मा॒तृभिः॑ ।  
+> मि॒थो न॑संत जा॒मिभिः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । जानत । स्वम् । ओक्यम् । सम् । वत्सासः । न । मातृऽभिः ।  
+> मिथः । नसंत । जामिऽभिः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते ता गावः जानत ज्ञातवत्यः । अथवा सामान्याकारेण त इति पुंनिर्देशः । किम् । स्वं स्वकीयम् ओक्यं निवासं महावीरम् । तत्र दोग्धुमगमन्नित्यर्थः । तदेवाह । वत्सासः वत्साः मातृभिः न जननीभिः सह यथा संगच्छंति तद्वत् जामिभिः बंधुभिः सहिता गावः मिथः प्रत्येकं सं नसंत संगच्छंते महावीरम् ॥
+
+##### Gist of the bhāṣya
+
+ते (*te*), those cows, knew (जानत (*jānata*)). Or else the word is in the masculine as a general form of reference. What did they know? Their own (स्वं (*svaṃ*)) dwelling (ओक्यं (*okyaṃ*)), the Mahāvīra; the meaning is that they went there to be milked. That is what he says: as calves (वत्सासः (*vatsāsaḥ*)) come together with their mothers, so the cows, accompanied by their kinswomen (जामिभिः (*jāmibhiḥ*)), each separately (मिथः (*mithaḥ*)), come together (सं नसंत (*saṃ nasaṃta*)) at the Mahāvīra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वत्सासः (*vatsāsaḥ*)—the calves
+- मातृभिः न (*mātṛbhiḥ na*)—as they know their own place when they are with their mothers
+- ते (*te*)—the cows that give milk for the Mahāvīra
+- स्वं (*svaṃ*)—appointed for them for the sacrifice
+- ओक्यं (*okyaṃ*)—the place
+- जानत (*jānata*)—have known
+- जामिभिः (*jāmibhiḥ*)—those cows, who have joined with their kinswomen
+- मिथः (*mithaḥ*)—coming separately
+- सं नसंत (*saṃ nasaṃta*)—unite
+
+##### भावार्थ (Bhāvārtha)
+
+As calves know their own place when they are with their mothers, so the cows that give milk for the Mahāvīra have known the place appointed for them for the sacrifice. Those cows, who have joined with their kinswomen, come separately and unite.
+
+##### English translation
+They know their own abode ; as calvs with their mothers, so they severally assemble with their cows.
+
+### Printed p. 94
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॒ स्रक्वे॑षु॒ बप्स॑तः कृण्व॒ते ध॒रुणं॑ दि॒वि ।  
+> इंद्रे॑ अ॒ग्ना नमः॒ स्वः॑ ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । स्रक्वेषु । बप्सतः । कृण्वते । धरुणम् । दिवि ।  
+> इंद्रे । अग्ना । नमः । स्वः ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महावीरस्य स्रक्केषु बप्सतः ज्वालया भक्षयतोऽग्नेरन्नं धरुणम् इंद्रे अग्ना इति वक्ष्यमाणत्वादिंद्राग्न्योर्धारकं दिवि अंतरिक्षे उप कृण्वते उपकुर्वते । यदाग्निर्महावीरं दहति तदा तस्योपर्युभयविधं क्षीरमासेचयंतीत्यर्थः । एवं महावीर आसिच्य इंद्रे अग्ना अग्नौ च स्वः सर्वं गव्यमाजं च नमः अन्नम् । अथवा स्वरंतरिक्षे । योजयंतीति शेषः ॥ ॥ १६ ॥
+> प्रवर्ग्ये घर्मदुहि दुग्धायाम् अधुक्षत् ' इत्येषा। सूत्रितं च – दुग्धायामधुक्षत्पिप्युषीम् ' (आश्व. श्रौ. ४. ७) इति आह्रियमाण । ग्रावस्तोत्रेऽप्येषा  ‘ अधुक्षत्पिप्युषीमिषमा कलशेषु धावति ' (आश्व. श्रौ. ५. १२) इति सूत्रितत्वात् ॥
+
+##### Gist of the bhāṣya
+
+They perform (उप कृण्वते (*upa kṛṇvate*)), that is, they offer, in the sky (दिवि (*divi*)), in the atmosphere, for the Agni of the Mahāvīra who devours (बप्सतः (*bapsataḥ*)) with his flame, the food (धरुणम् (*dharuṇam*)), the supporter of Indra and Agni, since इंद्रे अग्ना (*iṃdre agnā*) is to be said. The meaning is that when Agni burns the Mahāvīra, they then pour both kinds of milk over it. Thus, having poured on the Mahāvīra, they join all (स्वः (*svaḥ*)), the produce of the cow and of the goat, as food (नमः (*namaḥ*)), in Indra and in Agni. Or else स्वः (*svaḥ*) is the atmosphere. The words "they join" are to be supplied. The Ṛk अधुक्षत् (*adhukṣat*) is used in the Pravargya at the milking of the Gharma cow; the sūtra gives it: दुग्धायामधुक्षत्पिप्युषीम् (*dugdhāyāmadhukṣatpipyuṣīm*) (Āśv. Śrau. 4. 7). **NOTE** In the Grāvastotra also this Ṛk is used, because the sūtra gives it: अधुक्षत्पिप्युषीमिषमा कलशेषु धावति (*adhukṣatpipyuṣīmiṣamā kalaśeṣu dhāvati*) (Āśv. Śrau. 5. 12).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्रक्वेषु (*srakveṣu*)—with the flames
+- बप्सतः (*bapsataḥ*)—to Agni who devours
+- धरुणं (*dharuṇaṃ*)—the supporting food
+- दिवि (*divi*)—in the atmosphere
+- उप कृण्वते (*upa kṛṇvate*)—the Adhvaryus offer (thereafter)
+- स्वः (*svaḥ*)—all
+- नमः (*namaḥ*)—the food also
+- इंद्रे (*iṃdre*)—in Indra
+- अग्ना (*agnā*)—and in Agni (they offer)
+
+##### भावार्थ (Bhāvārtha)
+
+The Adhvaryus offer in the atmosphere the supporting food to Agni, who devours with his flames; thereafter they offer all the food in Indra and in Agni.
+
+##### English translation
+(The priests) minister in the sky the supporting (milk) to (Agni) who devours with his jaws ; they minister all the food to Indra and Agni.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधु॑क्षत्पि॒प्युषी॒मिष॒मूर्जं॑ स॒प्तप॑दीम॒रिः ।  
+> सूर्य॑स्य स॒प्त र॒श्मिभिः॑ ॥ १६ ॥
+
+### Printed p. 95
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधुक्षत् । पिप्युषीम् । इषम् । ऊर्जम् । सप्तऽपदीम् । अरिः ।  
+> सूर्यस्य । सप्त । रश्मिऽभिः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अरिः अरणशीलो वायुः सूर्यस्य सप्त रश्मिभिः साधनैः पिप्युषीम् आप्याययत् इषम् अन्नम् ऊर्जं रसं च सप्तपदीं सर्पणस्वभावपादां माध्यमिकां वाचं घर्मधुग्रूपेणावस्थिताम् अधुक्षत् दुग्धवान् । यद्यप्यध्वर्युः पात्रेण गां दुग्धे तथाप्येवंभावनया सांगं भवति । माध्यमिकाया वाचो मधुधुक्त्वं ' हिंकृण्वती, गौरमीमेत्' (ऋ. सं. १. १६४. २७, २८) इत्यादिषु प्रसिद्धम् ॥
+
+##### Gist of the bhāṣya
+
+The wind (अरिः (*ariḥ*)), which is of moving nature, with the seven rays of the sun as means, has milked (अधुक्षत् (*adhukṣat*)) the nourishing (पिप्युषीम् (*pipyuṣīm*)) food (इषम् (*iṣam*)) and sap (ऊर्जं (*ūrjaṃ*)), that is, juice, and the seven-footed (सप्तपदीं (*saptapadīṃ*)), that is, having feet of creeping nature, speech of the middle region, standing in the form of a Gharma-milking cow. Although the Adhvaryu milks the cow with a vessel, yet by this way of conceiving it becomes complete in its parts. That the speech of the middle region yields honey is well known in such passages as हिंकृण्वती, गौरमीमेत् (*hiṃkṛṇvatī, gauramīmet*) (Ṛ. Saṃ. 1. 164. 27, 28) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरिः (*ariḥ*)—the wind, which is of moving nature
+- सूर्यस्य (*sūryasya*)—of the sun
+- सप्त रश्मिभिः (*sapta raśmibhiḥ*)—by the seven rays
+- पिप्युषीं (*pipyuṣīṃ*)—satisfying
+- इषं (*iṣaṃ*)—the food
+- ऊर्जं (*ūrjaṃ*)—and the juice
+- सप्तपदीं (*saptapadīṃ*)—and the speech of the middle region, having seven feet
+- अधुक्षत् (*adhukṣat*)—has milked
+
+##### भावार्थ (Bhāvārtha)
+
+The wind, which moves everywhere, has milked, by the seven rays of the sun, the satisfying food, the juice and the speech of the middle region, which has seven feet.
+
+##### English translation
+The wind by means of the sun's seven rays milks the nourishing food and drink from the seven-stepped one.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pravargyeṣṭi, after the Gharma ..., the Ṛk beginning अधुक्षत् (*adhukṣat*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, दुग्धायामधुक्षत्पिप्युषीं (*dugdhāyāmadhukṣatpipyuṣīṃ*) (Ā. 4-7).
+
+### Printed p. 96
+
+In the Grāvastuti also this Ṛk is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, अधुक्षत्पिप्युषीमिषमा कलशेषु धावति (*adhukṣatpipyuṣīmiṣamā kalaśeṣu dhāvati*) (Ā. 5-12).
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोम॑स्य मित्रावरु॒णोदि॑ता॒ सूर॒ आ द॑दे ।  
+> तदातु॑रस्य भेष॒जम् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोमस्य । मित्रावरुणा । उत्ऽइता । सूरे । आ । ददे ।  
+> तत् । आतुरस्य । भेषजम् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ सूरे सूर्ये उदिता उदिते सोमस्य सोमम् आ ददे स्वीकरोति । तत्र हेतुमाह। तत् स्वीकाररूपं कर्म आतुरस्य अस्मदादेः भेषजम् औषधम् । हितकरमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, when the sun (सूरे (*sūre*)) has risen (उदिता (*uditā*)), he takes, accepts (आ ददे (*ā dade*)), the Soma. He states the reason: that act, which consists of the taking, is the medicine (भेषजम् (*bheṣajam*)) of the afflicted (आतुरस्य (*āturasya*)), of us and others; the meaning is that it is beneficial.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रावरुणा (*mitrāvaruṇā*)—O deities Mitra and Varuṇa
+- सूरे (*sūre*)—the sun
+- उदिता (*uditā*)—when he has risen
+- सोमस्य (*somasya*)—the Soma
+- आ ददे (*ā dade*)—I accept
+- तत् (*tat*)—that
+- आतुरस्य (*āturasya*)—for one afflicted by disease
+- भेषजं (*bheṣajaṃ*)—is in the form of medicine
+
+##### भावार्थ (Bhāvārtha)
+
+O deities Mitra and Varuṇa, when the sun has risen I accept the Soma. That is in the form of medicine for one afflicted by disease.
+
+##### English translation
+Mitra and Varuna, I take the Soma when the sun is risen ; it is medicine to the sick ;
+
 ---
 
-**Progress note:** Done through printed p. 90. Sukta 72 Rk 6-12 (pp. 85-90)
+**Progress note:** Done through printed p. 96. Sukta 72 Rk 12-17 (pp. 91-96)
