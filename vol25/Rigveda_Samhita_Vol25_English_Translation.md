@@ -17117,6 +17117,238 @@ The fourth pāda is addressed to the Maruts: the words that Indra spoke to the M
 - नद्याः (*nadyāḥ*)—of the river
 - अपह्वरे (*apahvare*)—in the hidden
 
+### Printed p. 446
+
+- region
+- अवतस्थिवांसं (*avatasthivāṃsaṃ*)—who is spread out, shining in the midst of the water
+- कृष्णं (*kṛṣṇaṃ*)—the asura named Kṛṣṇa
+- अपश्यं (*apaśyaṃ*)—I saw
+- (वृषणः (*vṛṣaṇaḥ*)—O Maruts, bestowers of what is wished for)
+- वः (*vaḥ*)—your help
+- इष्यामि (*iṣyāmi*)—I desire
+- आजौ (*ājau*)—in battle
+- युध्यत (*yudhyata*)—fight with him and destroy him
+
+##### भावार्थ (Bhāvārtha)
+
+O Maruts, bestowers of what is wished for, I saw the asura named Kṛṣṇa, who was moving about in the region of an extended cave, was swift-moving, and, shining in the midst of the water in the hidden region of the river called Aṃśumatī as the sun shines in the sky, was spread out there. O Maruts, bestowers of what is wished for, I desire your help. Fight with him in battle and destroy him.
+
+##### English translation
+"I have seen the swift-moving (demon) lurking] in an inaccessible place, in the depths of the river Amshumati, (I have seen) Krishna standing there as (the sun) in a cloud ; I appeal to you, showerers ; conquer him in battle."
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॑ द्र॒प्सो अं॑शु॒मत्या॑ उ॒पस्थेऽधा॑रयत्त॒न्वं॑ तित्विषा॒णः ।  
+> विशो॒ अदे॑वीर॒भ्या॒३॒॑चरं॑ती॒र्बृह॒स्पति॑ना यु॒जेंद्रः॑ ससाहे ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । द्रप्सः । अंशुऽमत्याः । उपऽस्थे । अधारयत् । तन्वम् । तित्विषाणः ।  
+> विशः । अदेवीः । अभि । आऽचरंतीः । बृहस्पतिना । युजा । इंद्रः । ससहे ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अथ द्रप्सः द्रुतगामी कृष्णः अंशुमत्याः नद्याः उपस्थे समीपे तित्विषाणः दीप्यमानः सन् तन्वम् आत्मीयं शरीरम् अधारयत् । परैरहिंस्यत्वेन बिभर्ति । यद्वा । बलप्राप्त्यर्थं स्वशरीरमाहारादिभिरपोषयत् । तत्र इंद्रः गत्वा बृहस्पतिना एतन्नामकेन देवेन युजा सहायेन अदेवीः अद्योतमानाः । कृष्णरूपा इत्यर्थः । यद्वा । पापयुक्तत्वादस्तुत्याः । आचरंतीः आगच्छंतीः विशः असुरसेनाः अभि ससहे जघान । तमवधीदित्यर्थः प्रसंगादवगम्यते ॥ ॥ ३४ ॥ ॥
+
+##### Gist of the bhāṣya
+
+"Then" (*adha* is *atha*) the swift-going Kṛṣṇa, shining near the river Aṃśumatī, bore his own body: he kept it, making it unassailable by others; or else, in order to gain strength, he nourished his body with food and the like. Thither Indra went, with Bṛhaspati, a god of that name, as his helper (*yuj*), and struck down the *viśaḥ*, the asura armies that were approaching: *adevīḥ* means not shining, that is, of dark nature like Kṛṣṇa; or else, not to be praised because of their sin. It is understood from the context that he killed Kṛṣṇa himself. The block closes with the end of the thirty-fourth varga.
+
+### Printed p. 447
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अथ (*atha*)—then
+- दृप्सः (*dṛpsaḥ*)—the swift-moving asura Kṛṣṇa
+- अंशुमत्याः (*aṃśumatyāḥ*)—of the river Aṃśumatī
+- उपस्थे (*upasthe*)—near
+- तित्विषाणः (*titviṣāṇaḥ*)—shining
+- तन्वं (*tanvaṃ*)—his own body
+- अधारयत् (*adhārayat*)—was nourishing
+- इंद्रः (*iṃdraḥ*)—Indra
+- बृहस्पतिना (*bṛhaspatinā*)—with the god Bṛhaspati
+- युजा (*yujā*)—joined
+- अदेवीः (*adevīḥ*)—those without light
+- आचरंतीः (*ācaraṃtīḥ*)—and who fell upon him
+- विशः (*viśaḥ*)—those armies of asuras
+- अभि ससहे (*abhi sasahe*)—destroyed (they destroyed)
+
+##### भावार्थ (Bhāvārtha)
+
+The swift-moving asura Kṛṣṇa, shining near the river Aṃśumatī, was nourishing his body. Indra, joined with the god Bṛhaspati, destroyed those armies of asuras, who were without light and had fallen upon him.
+
+##### English translation
+Then the swift-moving one shining forth assumed his own body by the Amshumati, and Indra with Brihaspati as his ally smote the godless hosts as they drew near.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह॒ त्यत्स॒प्तभ्यो॒ जाय॑मानोऽश॒त्रुभ्यो॑ अभवः॒ शत्रु॑रिंद्र ।  
+> गू॒ळ्हे द्यावा॑पृथि॒वी अन्व॑विंदो विभु॒मद्भ्यो॒ भुव॑नेभ्यो॒ रणं॑ धाः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । ह । त्यत् । सप्तऽभ्यः । जायमानः । अशत्रुऽभ्यः । अभवः । शत्रुः । इंद्र ।  
+> गूळ्हे इति । द्यावापृथिवी इति । अनु । अविंदः । विभुमत्ऽभ्यः । भुवनेभ्यः । रणम् । धाः ॥ १६ ॥
+
+### Printed p. 448
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं खलु त्यत् तत् कर्म कृतवानसि। किं तत् उच्यते । जायमानः त्वं प्रादुर्भवन्नेव । अशत्रुभ्यःशत्रुरहितेभ्यः सप्तभ्यः कृष्णवृत्रनमुचिशंबरादिसप्तभ्यो बलवद्भ्यः शत्रुभ्यः तदर्थं शत्रुः अभवः । यद्वा । सप्तभ्यः । ससैवांगिरसः । सप्तभ्योंगिरोभ्यो गवानयनार्थं प्रादुर्भवन्नेवाशत्रुभ्यो बलवद्भ्यः पणिभ्यः शत्रुरभवः । किंच हे इंद्र त्वं गूळ्हे तमसा गूढे संवृते द्यावापृथिवी द्यावापृथिव्यौ सूर्यात्मना ते प्रकाश्यानुक्रमेण अविंदः अलभथाः । तथा विभुमद्भ्यः महत्त्वयुक्तेभ्यः भुवनेभ्यः लोकेभ्यः रणं रमणं धाः धारयसि । विदधासीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you indeed did that deed. What is it? As you were being born, as soon as you appeared, you became the enemy of seven strong enemies who had no enemy of their own," namely the seven, Kṛṣṇa, Vṛtra, Namuci, Śambara and the rest, and for that purpose he became an enemy. Or else: *sapta* are the seven Aṅgirases; in order to bring back the cows for the seven Aṅgirases, as soon as you appeared, you became the enemy of the strong Paṇis, who had no enemy. Moreover, O Indra, you obtained in due order the heaven and earth, hidden and covered by darkness, by illuminating them in the form of the sun. And for the worlds, endowed with greatness (*vibhumat*), you maintain *raṇa*, that is, delight; you bring it about. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वंह (*tvaṃha*)—you alone
+- त्यत् (*tyat*)—you have a famous power (what is it?)
+- जायमानः (*jāyamānaḥ*)—as soon as you were born
+- अशत्रुभ्यः (*aśatrubhyaḥ*)—to the unconquered
+- सप्तभ्यः (*saptabhyaḥ*)—seven asuras, Kṛṣṇa, Vṛtra and the rest
+- शत्रुः अभवः (*śatruḥ abhavaḥ*)—you became the destroying enemy
+- गूळ्हे (*gūḷhe*)—hidden in deep darkness
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अनु अविंदः (*anu aviṃdaḥ*)—you made them visible to all by the light of the sun
+- विभुमद्भ्यः (*vibhumadbhyaḥ*)—endowed with greatness
+- भुवनेभ्यः (*bhuvanebhyaḥ*)—for all the worlds
+- रणं (*raṇaṃ*)—joy
+- धाः (*dhāḥ*)—you have produced and provided
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you alone have a famous power. What it is: as soon as you were born, you became the destroying enemy of seven unconquered asuras, Kṛṣṇa, Vṛtra and the rest. Heaven and earth, hidden in deep darkness, you made visible to all by the light of the sun. You have produced joy for all the worlds, which are endowed with greatness.
+
+##### English translation
+As soon as you were born, Indra, you were an enemy to those seven who had no enemy; you recovered the heavens and earth when concealed (in darkness); you cause joy to the mighty worlds.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह॒ त्यद॑प्रतिमा॒नमोजो॒ वज्रे॑ण वज्रिंधृषि॒तो ज॑घंथ ।  
+> त्वं शुष्ण॒स्यावा॑तिरो॒ वध॑त्रै॒स्त्वं गा इं॑द्र॒ शच्येद॑विंदः ॥ १७ ॥
+
+### Printed p. 449
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । ह । त्यत् । अप्रतिऽमानम् । ओजः । वज्रेण । वज्रिन् । धृषितः । जघंथ ।  
+> त्वम् । शुष्णस्य । अव । अतिरः । वधत्रैः । त्वम् । गाः । इंद्र । शच्या । इत् । अविंदः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं ह त्वं खलु त्यत्   एतत् कर्माकार्षीः। किं तत् अभिधीयते । हे वज्रिन् वज्रवन्निंद्र धृषितः धृष्टः संग्रामेषु शत्रुहनने कुशलः सन्। यद्वा। धृष्टो धीरः सन् अप्रतिमानम् । प्रतिमानमुपमा। निरुपमम्। अस्य सदृशमन्यदीयं वीर्यं  नास्तीत्यर्थः। तादृशं शुष्णस्य ओजः बलं वज्रेण आयुधेन जघंथ हतवानसि।  ‘अभ्यासाच्च' इति इंतेर्घत्वम् । पूर्वं शुष्णस्य बलं विनाश्येदानीं शुष्णमपि हतवानित्याह । त्वं वधत्रैः हननसाधनैरायुधैः शुष्णस्य । ‘क्रियाग्रहणं कर्तव्यम्' इति संप्रदानसंज्ञा। चतुर्थ्यर्थे बहुलम्' इति षष्ठी। शुष्णम् अवातिरः । कुत्साय राजर्षयेऽवाङ्मुखं कृत्वावधीः । तथा च निगमः-- कुत्साय शुष्णमशुषं नि बर्हीः' (ऋ. सं. ४. १६. १२) इति । तथा हे इंद्र त्वं शच्या स्वकीयया प्रज्ञया कर्मणा वा गाः शत्रून् हत्वा तेषां गाः अविंदः अलभथाः । यद्वा । अंगिरसां गाः पणीन् संप्रहृत्य लब्धवानसि ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, you indeed did this deed. What is it? O wielder of the vajra (*vajrin*), being *dhṛṣita*, bold and skilled in slaying enemies in battles; or else, being bold and steadfast," you struck with the vajra, your weapon, the unmeasured (*apratimāna*) strength of Śuṣṇa: *pratimāna* is a likeness, so *apratimāna* means without likeness; no other's might is like this. First you destroyed Śuṣṇa's strength, and now he says you killed Śuṣṇa himself: with your *vadhatra*, your instruments of slaying, weapons, you cast down Śuṣṇa, having turned him face downward, for Kutsa, the royal seer. So says the Veda: कुत्साय शुष्णमशुषं नि बर्हीः (*kutsāya śuṣṇamaśuṣaṃ ni barhīḥ*) (Ṛ. Saṃ. 4. 16. 12). And, O Indra, by your *śacī*, your own wisdom or action, having killed enemies you obtained their cows; or else, having struck down the Paṇis you obtained the cows of the Aṅgirases.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं ह (*tvaṃ ha*)—(O Indra) you alone
+- त्यत् (*tyat*)—have done the work that gives renown
+- वज्रिन् (*vajrin*)—O Indra, wielder of the vajra weapon
+- धृषितः (*dhṛṣitaḥ*)—you, the brave
+- शुष्णस्य (*śuṣṇasya*)—of Śuṣṇa
+- अप्रतिमानं (*apratimānaṃ*)—extraordinary
+- ओजः (*ojaḥ*)—strength
+- वज्रेण (*vajreṇa*)—with the vajra weapon
+- जघंथ (*jaghaṃtha*)—you have destroyed
+- त्वं (*tvaṃ*)—you
+- वधत्रैः (*vadhatraiḥ*)—with weapons, the instruments of slaying
+- शुष्णस्य (*śuṣṇasya*)—Śuṣṇa
+- अवातिरः (*avātiraḥ*)—you have killed
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- शच्या इत् (*śacyā it*)—by your own action, full of wisdom
+- गाः (*gāḥ*)—the cows that were held by the enemies
+- अविंदः (*aviṃdaḥ*)—you have obtained
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you alone have done the work that gives renown. O Indra, wielder of the vajra weapon, you, the brave, have destroyed with the vajra weapon the extraordinary strength of Śuṣṇa. With weapons, the instruments of slaying, you have killed Śuṣṇa. O Indra, by your actions, full of wisdom, you have obtained the cows that were held by the enemies.
+
+### Printed p. 450
+
+##### English translation
+Thunderer, you, the resolute one, smtoe that unrivalled might with your bolt; you destroyed Sushna with your weapons, you recovered the cows, Indra, by your wisdom.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं ह॒ त्यद्वृ॑षभ चर्षणी॒नां घ॒नो वृ॒त्राणां॑ तवि॒षो ब॑भूथ ।  
+> त्वं सिंधूँ॑रसृजस्तस्तभा॒नांत्वम॒पो अ॑जयो दा॒सप॑त्नीः ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । ह । त्यत् । वृषभ । चर्षणीनाम् । घनः । वृत्राणाम् । तविषः । बभूथ ।  
+> त्वम् । सिंधून् । असृजः । तस्तभानान् । त्वम् । अपः । अजयः । दासऽपत्नीः ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं खलु तत् कर्म कृतवानसि । किं तत् । हे वृषभ कामानां वर्षितरिंद्र चर्षणीनां यष्टॄणां मनुष्याणां भावितानां वृत्राणाम् उपद्रवाणां घनः हंता । अमूर्त्यर्थेऽपि छंदोविषयत्वान्निपातनम् । तादृशस्त्वं तविषः प्रवृद्धो बलवान् वा बभूथ बभूविथ । बभूथा ततंथ° ' इतीडभावो निपात्यते । ततः त्वं तस्तभानान् असुरैर्विरुध्यमानाः सिंधून् सप्त गंगाद्याः नदीः सरणाय असृजः। पश्चात् त्वं दासपत्नीः । दासा उपक्षपयितारः शत्रवः । ते पतयः स्वामिनो यासां ताः ।  ‘ नित्यं सपत्न्यादिषु' (पा. सू. ४. १. ३५) इत्यत्र ‘दासांच' इत्युपसंख्यानात् ङीप् । असुरस्वामिकाः अपः अजयः जितवानसि । तानसुरांजित्वोदकानि च प्रासृज इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"You indeed did that deed. What is it? O bull (*vṛṣabha*), Indra, showerer of desires, you became the *ghana*, the slayer, of the *vṛtras*, the troubles and obstacles, of the *carṣaṇis*, the men, sacrificers who are to become so; being such, you became *tavisa*, grown mighty or strong." Then you set free the *tastabhānas*, those held back by the asuras: the *sindhus*, the seven rivers beginning with the Gaṅgā, you released to flow. Afterwards you conquered the *dāsapatnīs*: *dāsas* are the destroyers, the enemies; they are the lords (*pati*) of these waters; so the waters that had asuras as their masters you conquered. The sense is that, having conquered those asuras, you also released the waters. The grammar of *ghana*, *babhūtha* and *dāsapatnīḥ* is carried by the Grammar section.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभ (*vṛṣabha*)—O Indra, bestower of what is wished for
+- त्वं ह (*tvaṃ ha*)—you alone
+- त्यत् (*tyat*)—can accomplish that work
+- चर्षणीनां (*carṣaṇīnāṃ*)—for men who perform sacrifice
+- वृत्राणां (*vṛtrāṇāṃ*)—of all that obstructs
+- घनः (*ghanaḥ*)—you, the destroyer
+- तविषः (*taviṣaḥ*)—become mighty for it
+- बभूथ (*babhūtha*)—you have become
+- त्वं (*tvaṃ*)—you
+- तस्तभानान् (*tastabhānān*)—held back by the asuras
+- सिंधून् (*siṃdhūn*)—the rivers, the Gaṅgā and the rest
+- असृजः (*asṛjaḥ*)—made to flow (released)
+
+### Printed p. 451
+
+- त्वं (*tvaṃ*)—you
+- दासपत्नीः (*dāsapatnīḥ*)—that had come under the lordship of the asuras
+- अपः (*apaḥ*)—the waters
+- अजयः (*ajayaḥ*)—you have brought under your own control
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bestower of what is wished for, you alone can accomplish such a work. It is this: you, the destroyer of all that obstructs men who perform sacrifice, have grown the strength fit for it. You yourself have released the rivers, the Gaṅgā and the rest, that were held back by the asuras, and made them flow. You have brought under your own control the waters that had come under the lordship of the asuras.
+
+##### English translation
+You, showerer, were the mighty destroyer of the hindrances of your worshippers; you set free the obstructed rivers, you won the waters which the Dasas had mastered.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सु॒क्रतू॒ रणि॑ता॒ यः सु॒तेष्वनु॑त्तमन्यु॒र्यो अहे॑व रे॒वान् ।  
+> य एक॒ इन्नर्यपां॑सि॒ कर्ता॒ स वृ॑त्र॒हा प्रतीद॒न्यमा॑हुः ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सुऽक्रतुः । रणिता । यः । सुतेषु । अनुत्तऽमन्युः । यः । अहाऽइव । रेवान् ।  
+> यः । एकः । इत् । नरि । अपांसि । कर्ता । सः । वृत्रऽहा । प्रति । इत् । अन्यम् । आहुः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अथ परोक्षकृताः । सः इंद्रः सुक्रतुः शोभनप्रज्ञः शोभनकर्मा भवति यः सुतेषु अभिषुतेषु सोमेषु रणिता तत्पानार्थं रमणशीलः किंच अनुत्तमन्युः परैरनुन्नक्रोधः शत्रुभिर्नोत्तुमशक्यः तादृशः यः इंद्रः रेवान धनवान् । तत्र दृष्टांतः । अहेव । यथा अहानि दिवसा धनवंतः। दिवसेषु हि धनानि प्रादुर्भवंति न रात्रिषु । तद्वत् । तथा यः इंद्रः एक इत् असहाय एव नरि कर्मनेतरि मनुष्ये अपांसि कर्माणि कर्ता कर्तुशीलो भवति । ताच्छीलिकस्तृन् । अत एव षष्ठीप्रतिषेधः । सः पूर्वोक्तगुणोपेत इंद्रः वृत्रहा । अपामावरकस्यासुरस्य उपद्रवस्य वा हंतृत्वाद्वृत्रहेति सर्वैः श्रूयते । तमेवेंद्रम् अन्यं प्रति । इत् अवधारणे । अन्यं प्रत्येव आहुः । इंद्रः सर्वमन्यं शत्रुसंघं प्रति भवति । अभिभवत्येवेति वदंति ॥
+
+##### Gist of the bhāṣya
+
+"Now the verbs are in the third person (*parokṣa*). That Indra is *sukratu*, of good wisdom and good works, who among the pressed (*suta*) Soma-juices is *raṇitā*, delighting in them for the sake of drinking them. And *anuttamanyu*: one whose wrath is not driven back by others; he cannot be pushed aside by enemies. Such is that Indra who is *revān*, wealthy." The illustration: "like the days (*ahā iva*)": as the days are wealthy, for wealth appears in the daytime and not in the nights, so is he. Likewise that Indra, *eka it*, quite alone and unhelped, is the doer (*kartā*) of deeds (*apāṃsi*) in *nari*, in a man, a leader of the rite; he is one whose habit is to do. The block then gives the grammar of *kartā* and the reason for the omission of the genitive, which the Grammar section carries. "That Indra, endowed with the qualities stated before, is *vṛtrahā*: because he kills the asura who covers the waters, or the obstacle, all hear of him as *vṛtrahā*." "They say that very Indra is, *anyaṃ prati* (against the other)": *it* is a word of emphasis; the sense is that against any other host of enemies Indra stands, and they say he overcomes them without fail.
+
 ---
 
-**Progress note:** Done through printed p. 445. Mandala 8 sukta 96 rks 12-14, Krishna asura
+**Progress note:** Done through printed p. 451. Mandala 8 sukta 96 rks 15-19
