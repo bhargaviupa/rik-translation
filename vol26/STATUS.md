@@ -30,7 +30,7 @@ Hand repairs: one remark removed in w0100 (`review/repair_log.md`). By agents wi
 2. (user) w0107 (pp. 107–112): for four Pratipadārtha lemmas that the Kannada line prints damaged (`ದೇವನೀತೆಯೇ`, `ಪಿತ್ರಾವತೀ`, `ಅಂಜೃಃ`, `ಅತ್ಯಕ್ರಮಾತ್`) the agent wrote the Saṃhitā block's form without a NOTE (its own report); decide whether to keep them or restore the line's form with a NOTE.
 3. (user) Second reading of the scan pages 810–894 (`review/repair_log.md`).
 4. (user) w0206 (Sūkta 62 Ṛk 7): the NOTE on the Pratipadārtha word for `ಅಸದಃ` is worded wrongly (the agent's own report): the word cut off at the line end is the Kannada meaning `ಬಂದುಕುಳಿತುಕೊ`, not the lemma.
-5. (user) The heading `## Sūkta 22 (Maṇḍala 9)` (p. 430, w0430) stands for Sūkta 72: the head line prints `ಸೂಕ್ತ-೨೨`, the announcement and the particulars line say 72; written by the rule "the head-line number decides", with a NOTE. The same is expected at Sūkta 77 (head line `ಸೂಕ್ತ-22`). Say whether both headings should read 72 and 77 (a logged repair).
+5. (user) The heading `## Sūkta 22 (Maṇḍala 9)` (p. 430, w0430) stands for Sūkta 72: the head line prints `ಸೂಕ್ತ-೨೨`, the announcement and the particulars line say 72; written by the rule "the head-line number decides", with a NOTE. At Sūkta 77 (p. 484, head line `ಸೂಕ್ತ-22`) the agent of batch 27 wrote `## Sūkta 77` with a NOTE, so the two cases differ. Say whether Sūkta 72's heading should read 72 too (a logged repair).
 
 ## Publication (print PDF)
 Not built.

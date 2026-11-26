@@ -25,3 +25,4 @@
 | through p. 423 (three windows in one agent: pp. 406-411, 412-417, 418-423) | sonnet | 19 | 175478 | 5.1 |
 | through p. 441 (three windows in one agent: pp. 424-429, 430-435, 436-441) | sonnet | 16 | 159804 | 3.9 |
 | through p. 459 (three windows in one agent: pp. 442-447, 448-453, 454-459) | sonnet | 17 | 175182 | 4.8 |
+| through p. 479 (three windows in one agent: pp. 460-465, 466-472, 473-479) | sonnet | 15 | 169446 | 4.6 |
