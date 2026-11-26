@@ -33124,6 +33124,282 @@ May that word of truth everywhere protect me, through which it is that the heave
 > प्राचीनं । अन्यत् । अनु । वर्तते । रजः । उत् । अन्वेन । ज्योतिषा । यासि ।  
 > सूर्य ॥ ३ ॥
 
+### Printed p. 912
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य ते तव समीपे प्रदिवः प्रश्नः पुरातनः कश्चिददेवोऽसुरो
+> राक्षसो वा न नि वासते । न निवसति । कदेत्यत आह । यद्यदा त्वं पतरैर्गमनशीलैरेतशेभिरश्वै रथर्यसि रथं कामयसे योक्तुं । किंच प्राचीनमन्यत्त्वदीयं
+> ज्योति रज उदकमनु वर्तते । अन्येन तेन ज्योतिषोद्यासि । उदेशि । यद्वा ।
+> प्राचीनमन्यद्रजश्चंद्राख्यं ज्योतिस्तामनु वर्तते कतस्त्वमन्येन ज्योतिषा
+> सहोदेषीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, near you no ancient one without a god, whether an asura or a rākṣasa, dwells. When? He says: when you, with the swift-going horses, wish to yoke your chariot. Moreover, another light of yours, ancient, follows the water; with that other light you rise. Or else: the other ancient light, called the moon, follows; you rise together with another light. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sun-god
+- यत् (*yat*)—when
+- पतरैः (*pataraiḥ*)—swift-going
+- एतशेभिः (*etaśebhiḥ*)—with the horses
+- रथरसि (*ratharasi*)—you wish to yoke the chariot, then
+- ते (*te*)—near you
+- प्रदिवः (*pradivaḥ*)—the ancient
+- अदेवः (*adevaḥ*)—any asura
+- न निवासते (*na nivāsate*)—cannot dwell
+- प्राचीनं (*prācīnaṃ*)—ancient
+- अन्यत् रजः (*anyat rajaḥ*)—another light
+- अनु वर्तते (*anu vartate*)—follows you
+- अन्येन ज्योतिषा (*anyena jyotiṣā*)—together with another light
+- उत् यासि (*ut yāsi*)—you rise
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun-god, when you wish to yoke your chariot with swift-going horses, then no ancient asura can dwell near you. If another ancient light follows you, you rise together with another light.
+
+##### English translation
+No ancient Rakshasa abides, Surya, near you when you desire to yoke to your chariot your rapid steeds: one ancient radiance follows (you) whilst you rise with another.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येन॑ सूर्य॒ ज्योति॑षा॒ बाध॑से॒ तमो॒ जग॑च्च॒ विश्व॑मुदि॒र्यर्षि॑ भा॒नुना॑ ।
+
+### Printed p. 913
+
+> तेनास्मद्विश्वामनिरामनाहुतिमपामीवामप दुष्स्वप्नं  
+> सुव ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येन । सूर्य । ज्योतिषा । बाधसे । तमः । जगत् । च । विश्वं । उर्इयर्षि ।  
+> भानुना ।  
+> तेन । अस्मत् । विश्वां । अनिरां । अनाहुतिं । अप । अमीनां । अप । दुःस्वप्नं ।  
+> सुव ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य त्वं येन ज्योतिषा तेजसा तमोऽंधकारं बाधसे निवारयसि
+> येन च भानुना तेजसा विश्वं सर्वं जगज्जंगममुदियर्षि उद्गमयसि तेन
+> ज्योतिषास्मदस्मत्तोऽनिरामन्नाभावमनाहुतिमहोमं चामिनां रोगजातं
+> चाप सुव । अपगमय : दुःस्वप्नं दुःस्वप्नप्रभवमनिष्टं चाप सुव ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, with the light, the brilliance, by which you ward off darkness, and with the radiance, the brilliance, by which you make the whole moving world rise, with that light drive away from us the lack of food, the lack of oblation, that is, absence of offering, and the whole group of diseases. Drive away also the bad dream and the ill that arises from a bad dream.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sun-god
+- येन ज्योतिषा (*yena jyotiṣā*)—by what brilliance
+- तमः (*tamaḥ*)—darkness
+- बाधसे (*bādhase*)—you destroy
+- च (*ca*)—and
+- भानुना (*bhānunā*)—by what brilliance
+- विश्वं जगत् (*viśvaṃ jagat*)—the whole world
+- उदियर्षि (*udiyarṣi*)—you impel
+- तेन (*tena*)—by that brilliance
+- अस्मत् (*asmat*)—from us
+- अनिरां (*anirāṃ*)—the lack of food
+- अनाहुतिं (*anāhutiṃ*)—the lack of oblation
+- अमीवां (*amīvāṃ*)—disease
+- अप सुव (*apa suva*)—drive away
+- दुःस्वप्नं अप (*duḥsvapnaṃ apa*)—drive away the result of a bad dream
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun-god, with the brilliance by which you destroy darkness, and with the brilliance by which you impel the whole world, drive away from us the lack of food, the lack of oblation, and disease. Make it so that the result of a bad dream does not touch us.
+
+##### English translation
+With that light, Surya, with which you disperse the darkness, and with that radiance with which you quicken every moving thing, remove from us all famine, neglect of oblations, sickness, and evil dreams.
+
+### Printed p. 914
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्व॑स्य॒ हि प्रेषि॑तो॒ रक्ष॑सि व्र॒तमहे॑ळयन्नु॒च्चर॑सि स्व॒धा अनु॑ ।  
+> यद॒द्य त्वा॑ सूर्योप॒ब्रवा॑महै॒ तं नो॑ दे॒वा अनु॑  
+> मंसीरत॒ क्रतुं॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वस्य । हि । प्रइषितः । रक्षसि । व्रतं । अहेळयन् । उत्चरसि । स्वधाः । अनु ।  
+> यत् । अद्य । त्वा । सूर्य । उपब्रवामहै । तं । नः । देवाः । अनु । मंसीरत।  
+> क्रतुं ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य प्रेषितः प्रेरितस्त्वमहेळयन्नक्रुद्यन्विश्वस्य सर्वस्य यजमानस्य
+> व्रतं कर्म रक्षसि हि । यज्ञविध्वंसकेभ्यो राक्षसेभ्यः पालयसि । स्वधा हवींष्यनूच्चरसि । उद्धच्छसि च । प्रातर्होमे निवृत्ते सति पश्चादुद्धच्छसीत्यर्थः । तथा च
+> यद्यदाद्यास्मिन्नहनि त्वा त्वामुपब्रवामहै उपब्रूमः तदा नोऽस्माकं तं क्रतुं
+> तत्कर्म देवा इंद्रादयोऽनु मंसीरत ! अनुमन्यंतां ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, you who have been sent forth, impelled, without anger, protect the rite, the work, of every sacrificer; you guard it from the rākṣasas who destroy the sacrifice. You come up after the svadhā oblations; that is, when the morning oblation has ceased, you afterwards rise. And so, when today, on this day, we address you, may the gods, Indra and the others, approve that rite of ours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sun-god
+- प्रेषितः (*preṣitaḥ*)—you who have been prayed to
+- अहेळयन् (*aheḷayan*)—without becoming angry
+- विश्वस्य (*viśvasya*)—all
+- व्रतं (*vrataṃ*)—the rite
+- रक्षिसि हि (*rakṣisi hi*)—you certainly protect
+- स्वधाः अनु (*svadhāḥ anu*)—after the offering of the svadhā oblation
+- उच्चरिसि (*uccarisi*)—you come, rising
+- अद्य (*adya*)—today
+- यदा (*yadā*)—when
+- त्वा (*tvā*)—you
+- उपब्रवामहै (*upabravāmahai*)—we pray and call
+- नः (*naḥ*)—our
+- तं क्रतुं (*taṃ kratuṃ*)—that rite
+- देवाः (*devāḥ*)—Indra and the other gods
+- अनु मंसीरत (*anu maṃsīrata*)—may they approve
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun-god, you who are prayed to by the world protect, without anger, every rite. You come rising after the offering of the svadhā oblation. When today we pray to you and call you, may Indra and the other gods approve our rite.
+
+### Printed p. 915
+
+##### English translation
+when invoked, you who are gentle protect the rite of every (worshipper): you rise after the swadha offerings; when to-day we call upon you, may the gods be propitious to our sacred acts.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं नो॒ द्यावा॑पृथि॒वी तन्न॒ आप॒ इंद्रः॑ शृण्वंतु म॒रुतो॒ हवं॒  ॑
+> वचः ।  
+> मा शूने॑ भूम॒ सूर्य॑स्य सं॒दृशि॑ भ॒द्रं जीवं॑तो जर॒णाम॑तीमहि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । नः । द्यावापृथिवी इति । तत् । नः । आपः । इंद्रः । शृण्वंतु । मरुतः । हवं  
+> वचः ॥  
+> मा । शूने । भूम । सूर्यस्य । संदृशि । भद्रं । जीवंतः । जरणां । अशीमहि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्यावापृथिवी द्यावापृथिव्यावापश्चेंद्रश्च मरुतश्च नोऽस्माकं तं हवमाह्वानं नोऽस्माकं तद्वचः स्तुतिरूपं वाक्यं च । न इति द्विरुक्तिरादरार्था । शृण्वंतु ।
+> किंच वयं सूर्यस्य संदृशि संदर्शने शूने प्रवृद्धाय दुःखाय मा भूम ।
+> मैव भवेम । किंतु जीवंतश्चिरं प्राणान्दारयंतो वयं भद्रं कल्याणं जरणां
+> वृद्धत्वममरत्वं चाशीमहि । प्राप्नु याम ॥
+
+##### Gist of the bhāṣya
+
+May heaven and earth, the waters, Indra and the Maruts hear that call of ours, our invocation, and that word of ours, speech in the form of praise. The repetition of "ours" is for the sake of respect. Moreover, may we not come to increased sorrow when we are in the sight of Sūrya. Rather, living long, bearing our breaths, may we attain what is good, old age and immortality.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- आपः (*āpaḥ*)—the deities of the waters
+- इंद्रः (*iṃdraḥ*)—Indra
+- मरुतः (*marutaḥ*)—the Maruts
+- नः (*naḥ*)—our
+- तं हवं (*taṃ havaṃ*)—invocation
+- नः (*naḥ*)—our
+- तत् वचः (*tat vacaḥ*)—well-known praise
+- शृण्वंतु (*śṛṇvaṃtu*)—may they hear
+- सूर्यस्य (*sūryasya*)—of the Sun
+- संदृशि (*saṃdṛśi*)—when we come within the sight
+
+### Printed p. 916
+
+- शूने (*śūne*)—to great sorrow
+- मा भूम (*mā bhūma*)—may we not become liable
+- जीवंतः (*jīvaṃtaḥ*)—we who are alive
+- भद्रं (*bhadraṃ*)—auspicious
+- जरणां (*jaraṇāṃ*)—old age
+- आशीमहि (*āśīmahi*)—may we attain
+
+##### भावार्थ (Bhāvārtha)
+
+May heaven and earth, the deities of the waters, Indra and the Maruts hear our invocation and our well-known praise. When we come within the sight of the Sun, may we not become liable to great sorrow. May we, living, attain an auspicious old age. (May we attain well-being up to old age.)
+
+##### English translation
+May heaven and earth, may the waters, may Indra, and the Maruts, hear this our invocation and this our praise: may we not be in sorrow at the sight of the Sun : living long, may we attain a prosperous old age.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒श्वाहा॑ त्वा सु॒मन॑सः सु॒चक्ष॑सः प्र॒जावं॑तो अनमी॒वा  ॑
+> अनागसः ।  
+> उ॒द्यंतं॑ त्वा मित्रमहो दि॒वेदि॑वे॒ ज्योज्जी॒वाः प्रति॑ पश्येम  
+> सूर्य ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वाहा । त्वा । सुमनसः । सुचक्षसः । प्रजावंतः । अनमीवाः । अनागसः ।  
+> उत्कयंतं । त्वा । मित्रमहः। दिवेदिवे । ज्योक् । जीवाः । प्रति । पश्येम ।  
+> सूर्य ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य त्वा त्वां सुमनसः प्रीतियुक्तमनस्काः सुचक्षसः सुदर्शनाः
+> प्रजावंतः पुत्राद्युपेता अनमीवा रोगरहिता अनागसोऽपराधवर्जिताश्च वयु
+> विश्वाहा सर्वदा यजेमेति शेषः । किंच हे मित्रमहो मित्राणां पूजयितः
+
+##### Gist of the bhāṣya
+
+O Sūrya, we, glad of heart, good of sight, possessed of offspring, that is, provided with sons and the like, free from disease and free from fault, may worship you always, every day; this is the word to be supplied. Moreover, O Mitramahas, honourer of friends,
+
+### Printed p. 917
+
+> सूर्य दिवेदिवे प्रतिदिनमुद्यंतमुदयं प्राप्नुवंतं त्वा त्वां ज्योक् चिरं जीवा
+> जीवंतो वयं प्रति पश्येम !!
+
+##### Gist of the bhāṣya
+
+O Sūrya, you who rise every day, who attain the rising, we who are alive may behold you for a long time.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sun
+- सुमनसः (*sumanasaḥ*)—possessed of a pure mind
+- सुचक्षसः (*sucakṣasaḥ*)—possessed of excellent sight
+- प्रजावंतः (*prajāvaṃtaḥ*)—provided with sons and the like
+- अनमीवाः (*anamīvāḥ*)—free from disease
+- अनागसः (*anāgasaḥ*)—free from sin, we
+- त्वा (*tvā*)—you
+- विश्वाहा (*viśvāhā*)—on all days we shall worship
+- मित्रमहः (*mitramahaḥ*)—O you who bestow favour on friends
+- सूर्य (*sūrya*)—O Sun
+- दिवेदिवे (*divedive*)—every day
+- उद्यंतं (*udyaṃtaṃ*)—who are rising
+- त्वा (*tvā*)—you
+- जीवाः (*jīvāḥ*)—we who are alive
+- ज्योक् (*jyok*)—for many a time
+- प्रति पश्येम (*prati paśyema*)—may we behold
+
+##### भावार्थ (Bhāvārtha)
+
+O Sun, we, who are possessed of a pure mind, of excellent sight, provided with sons and the like, free from disease and free from sin, shall worship you on all days. O you who bestow favour on friends, O Sun, may we who are alive behold you, rising every day, for many a time.
+
+##### English translation
+May we, constantly happy in mind, sound of sight, blessed with posterity, exempt from sickness, devoid of sin, daily (worship you) : may we, enjoying long life, behold you, Surya, who are the cherisher of your friends rising day by day.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॒ ज्योति॒र्भिभ्र॑तं त्वा विचक्षण॒ भास्वं॑तं॒ चक्षु॑षेचक्षुषे॒  ॑
+> मयः ।  
+> आ॒रोहं॑तं बृह॒तः पाज॑स॒स्परि॑ व॒यं जी॒वाः प्रति॑ पश्येम  
+> सूर्य ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । ज्योतिः । बिभ्रतं । त्वा । विचक्षण । भास्वंतं । चक्षुषेचक्षुषे । मयः ।  
+> आरोहंतं । बृहतः । पाजसः । परि । वयं । जीवाः । प्रति । पश्येम । सूर्य ॥८॥
+
 ---
 
-**Progress note:** Done through printed p. 911. Vol 27 pp. 906-911: Sūkta 36 end (Ṛk 13-14), Sūkta 37 intro, Ṛk 1-3
+**Progress note:** Done through printed p. 917. Vol 27 pp. 912-917: Sūkta 37 Ṛk 3-8
