@@ -28921,6 +28921,279 @@ Sāyaṇa says: O Soma, surpassing the three luminous regions, the three worlds,
 - दिवं (*divaṃ*)—the world of heaven
 - भ्राजसे (*bhrājase*)—brilliance
 
+### Printed p. 720
+
+- you cause to shine (likewise)
+- going forward
+- सूर्यं न (*sūryaṃ na*)—the sun also
+- चोदयः (*codayaḥ*)—you urge on
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you pass beyond the three worlds and illumine the world of heaven that lies above them. Likewise, going forward, you urge on the sun in his duty and work.
+
+##### English translation
+Soma, mounting beyond the three words, you illumine heaven, and, moving, you urge on the sun.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि विप्रा॑ अनूषत मू॒र्धन्य॒ज्ञस्य॑ का॒रवः॑ ।  
+> दधा॑ना॒श्चक्ष॑सि प्रि॒यम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । विप्राः । अनूषत । मूर्धन् । यज्ञस्य । कारवः ।  
+> दधानाः । चक्षसि । प्रियम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभि अनूषत अभिष्टुवंति विप्राः मेधाविनः स्तोतारः । कुत्र। यज्ञस्य मूर्धन् मूर्धनि । शिरोवदुत्तमेऽभिषवदिवस इत्यर्थः । कीदृशास्ते । कारवः कर्तारः परिचर्याया यागानुष्ठातारो वा । चक्षसि दृष्टरि सोमे प्रियं दधानाः अभ्यनूषतेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The wise ones, the praisers, praise. Where? At the head of the sacrifice, that is, at the head, at the highest point; the meaning is, on the day of pressing, which is supreme like the head. What are they like? They are the makers, the performers of the service, or those who carry out the sacrifice. Placing what is dear in Soma, the seer, they praise; this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (सोम (*soma*)—O Soma)
+- कारवः (*kāravaḥ*)—who are engaged in carrying out the sacrifice
+- विप्राः (*viprāḥ*)—the wise praisers
+- यज्ञस्य मूर्धन् (*yajñasya mūrdhan*)—on the sacrificial altar
+- चक्षसि (*cakṣasi*)—to you who see everything
+- प्रियं (*priyaṃ*)—the hymn that is agreeable
+- दधानाः (*dadhānāḥ*)—composing and offering
+- अभि अनूषत (*abhi anūṣata*)—praise you
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the praisers who are engaged in the work of the sacrifice and are wise, composing and offering agreeable hymns on the sacrificial altar to you who can see everything, stand facing you and praise you.
+
+### Printed p. 721
+
+##### English translation
+The Sage performers (of pious rites) glorify (the Soma) at the head of the sacrifice, entertaining affection for him the all-beholding.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॑ त्वा वा॒जिनं॒ नरो॑ धी॒भिर्विप्रा॑ अव॒स्यवः॑ ।  
+> मृ॒जंति॑ दे॒वता॑तये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । ऊं इति । त्वा । वाजिनम् । नरः । धीभिः । विप्राः । अवस्यवः ।  
+> मृजंति । देवऽतातये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तमु तमेव त्वा त्वां वाजिनम् अन्नवंतं गमनवंतं वा नरः नेतारः विप्राः मेधाविनोऽध्वर्वावदयः धीभिः कर्मभिः मृजंति शोधयंति देवतातये यज्ञार्थम् । किमिच्छवः । अवस्यवः अन्नमिच्छवः॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, you, that very one, who have food or are swift, the leaders, the wise, the Adhvaryus and the rest **NOTE**, purify by their works, for the sacrifice. Desiring what? Desiring food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- नरः (*naraḥ*)—the leaders of the sacrifice
+- विप्राः (*viprāḥ*)—the wise Adhvaryus and others
+- वाजिनं (*vājinaṃ*)—who possess food or are swift
+- तमु त्वा (*tamu tvā*)—you, that very one
+- देवतातये (*devatātaye*)—for the sacrifice
+- अवस्यवः (*avasyavaḥ*)—desiring food
+- धीभिः (*dhībhiḥ*)—by the works of the sacrifice
+- मृजंति (*mṛjaṃti*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the priests, the Adhvaryus and the rest, the leaders of the sacrifice and the wise, desiring food and nourishment, purify you, who possess food, by the works of the sacrifice, for the sacrifice.
+
+##### English translation
+Sages, leaders of rites, desirous of sustenance, purify you who are the giver of food, with pious rites for the offering.
+
+### Printed p. 722
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मधो॒र्धारा॒मनु॑ क्षर ती॒व्रः स॒धस्थ॒मास॑दः ।  
+> चारु॑रृ॒ताय॑ पी॒तये॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मधोः । धाराम् । अनु । क्षर । तीव्रः । सधऽस्थम् । आ । असदः ।  
+> चारुः । ऋताय । पीतये ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं मधोः मधुररसस्य धारामनु क्षर प्रवहन्। तीव्रः तीव्ररसः सन् सधस्थं सहस्थानमभिषवस्थानं पवित्रं वा आ असदः सीद। चारुः चरणशीलः सन् ऋताय यज्ञार्थं पीतये देवानां पानाय ॥ ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, flow after the stream of the sweet juice, flowing forth. Being sharp, being of keen juice, sit down in the common place, the place of pressing, or the filter. Being moving, for the rite, that is, for the sacrifice, for the drinking of the gods **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma, you)
+- मधोः (*madhoḥ*)—of the sweet Soma juice
+- धारां (*dhārāṃ*)—the stream
+- अनु क्षर (*anu kṣara*)—making flow
+- तीव्रः (*tīvraḥ*)—having pure juice
+- सधस्थं (*sadhasthaṃ*)—in the place of pressing or in the ten-thread filter
+- ऋताय (*ṛtāya*)—for the sacrifice
+- पीतये (*pītaye*)—and for the drinking of the gods
+- चारुः (*cāruḥ*)—having an excellent form **NOTE**
+- आ असदः (*ā asadaḥ*)—sit down
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you, making flow the stream of the sweet Soma juice, having pure juice, sit down, with an excellent form, in the place of pressing or in the ten-thread filter, for the sacrifice and for the drinking of the gods.
+
+##### English translation
+Pour forth the stream of the sweet beverage; sit down, sharp-flavoured in the receptacle, alert for drinking at the sacrifice.
+
+### Printed p. 723
+
+**The eighteenth sūkta.**
+
+## Sūkta 18 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ परि सुवानः' इति सप्तर्चमष्टादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘परि सुवानः सप्त' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परि सुवानः (*pari suvānaḥ*) has seven Ṛks and is the eighteenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as परि सुवानः सप्त (*pari suvānaḥ sapta*). The use has been stated.
+
+This sūkta beginning परि सुवानः (*pari suvānaḥ*) is the eighteenth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said परि सुवानः सप्त (*pari suvānaḥ sapta*). The use has been stated before.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ सुवा॒नो गि॑रि॒ष्ठाः प॒वित्रे॒ सोमो॑ अक्षाः ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सुवानः । गिरिऽस्थाः । पवित्रे । सोमः । अक्षारिति ।  
+> मदेषु । सर्वऽधाः । असि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः पवित्रे परि अक्षाः परिक्षरति । सुवानः सूयमानः गिरिष्ठाः गिरिस्थायी । ग्रावसु वर्तमान इत्यर्थः । स त्वं मदेषु मादकेषु सोतृषु सर्वधा असि सर्वस्य धाता दाता वा भवसि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This Soma flows around the filter. Being pressed, it abides on the mountain, that is, it is among the pressing stones. You, such as you are, in the exhilarations, among the pressers who delight you, are the giver of all, or you become the supporter of all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिरिष्ठाः (*giriṣṭhāḥ*)—placed amongst the stones that are the means of pressing
+- सुवानः (*suvānaḥ*)—being well pressed
+- सोमः (*somaḥ*)—this Soma
+- पवित्रे (*pavitre*)—of the ten-thread filter
+- परि (*pari*)—all round
+- अक्षाः (*akṣāḥ*)—pours down and flows
+
+### Printed p. 724
+
+- (such as you are)
+- मदेषु (*madeṣu*)—to the praisers who delight you
+- सर्वधा असि (*sarvadhā asi*)—you are the giver of all that is desired
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, placed amongst the stones that are the means of pressing and well pressed, falls into the ten-thread filter that is set for purifying and flows trickling all round. O Soma, such as you are, you give everything to the praisers who delight you with their praises.
+
+##### English translation
+Effused while pressed between the stones, the Soma flows upon the straining cloth ; you are the giver of all things to those who praise you.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं विप्र॒स्त्वं क॒विर्मधु॒ प्र जा॒तमंध॑सः ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । विप्रः । त्वम् । कविः । मधु । प्र । जातम् । अंधसः ।  
+> मदेषु । सर्वऽधाः । असि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं विप्रः विविधं प्रीणयिता विप्रसदृशो वा त्वं च कविः मेधावी । अतस्त्वम् अंधसः अन्नात् जातं मधु मधुररसं प्र यच्छसीति शेषः । ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, you are a vipra, one who pleases in various ways, or one like a vipra; and you are a kavi, wise. Therefore you give the sweet juice born of the food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- त्वं (*tvaṃ*)—you
+- विप्रः (*vipraḥ*)—the wise one, or the one who delights all in various ways
+- त्वं (*tvaṃ*)—you
+- कविः (*kaviḥ*)—the wise one who knows all (therefore you)
+- अंधसः (*aṃdhasaḥ*)—from the food in the form of Soma
+- जातं (*jātaṃ*)—that is produced
+- मधु (*madhu*)—the sweet juice
+- प्र (*pra*)—you give
+- (O Soma, you)
+- मदेषु (*madeṣu*)—to the praisers who delight you
+- सर्वधा असि (*sarvadhā asi*)—you give all that is desired
+
+### Printed p. 725
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you delight all in various ways, you are wise, and you give to all the sweet juice produced from the food in the form of Soma. And you give everything to the praisers who satisfy you with their praises.
+
+##### English translation
+You are wise, you are a seer, you bestow the sweet ( beverage ) produced from the Soma plant ; you are the giver of all things to those who praise you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ विश्वे॑ स॒जोष॑सो दे॒वासः॑ पी॒तिमा॑शत ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । विश्वे । सऽजोषसः । देवासः । पीतिम् । आशत ।  
+> मदेषु । सर्वऽधाः । असि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तव पीतिं पानं विश्वे देवासः देवाः सजोषसः समानप्रीतयः संतः आशत प्राप्नुवन् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, all the gods, being of one delight, attain the drinking of you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- तव (*tava*)—your
+- पीतिं (*pītiṃ*)—having drunk
+- विश्वे (*viśve*)—all
+- देवासः (*devāsaḥ*)—the gods
+- सजोषसः (*sajoṣasaḥ*)—having the same delight (full of joy)
+- आशतॆ (*āśatè*)—become **NOTE**
+- मदेषु (*madeṣu*)—to the praisers who delight you with praises
+- सर्वधा असि (*sarvadhā asi*)—you give all that is desired
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, having drunk you, all the gods obtain the same kind of delight. To those who praise you, you provide all that is desired.
+
 ---
 
-**Progress note:** Done through printed p. 719. Sūkta 16 Ṛk 7-8, Sūkta 17 Ṛks 1-5 (pp. 714-719)
+**Progress note:** Done through printed p. 725. Sūkta 17 Ṛks 5-8, Sūkta 18 Ṛks 1-3 (pp. 720-725)
