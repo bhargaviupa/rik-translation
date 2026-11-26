@@ -4685,6 +4685,252 @@ O bold Saptavadhri, distressed by the entangling and detaining (basket), break t
 
 The sūkta beginning विशोविशो वः (*viśoviśo vaḥ*) has fifteen Ṛks and is the fifth sūkta. The Anukramaṇikā says of it that it is addressed to Agni, that four tṛcas begin with an Anuṣṭubh and that the last three Ṛks are Anuṣṭubh, and that it is a praise of the gift of Śrutarvan, son of Ṛkṣa. Gopavana is the seer, by continuation. In the three tṛcas from the beginning all the first Ṛks are Anuṣṭubh and the second and third are Gāyatrī, as before; the thirteenth and the two following are Anuṣṭubh. The deity of this and of the following is Agni. The last three are a praise of the gift of the king named Śrutarvan. This sūkta is the Ājya-śastra in certain rites; the use is set out in the sūtra विशोविशो वो अतिथिमित्याज्यम् (*viśoviśo vo atithimityājyam*) (Āśv. Śrau. 9. 8). **NOTE**
 
+### Printed p. 115
+
+> श्रुतर्वनाम्नो राज्ञो दानस्तुतिः ॥ व्योमविश्वदेवस्त्वंचशारदीयेऽस्मिदं सूक्त-माज्यशस्त्रं । सूत्रितं च । विशोविशो वो अतिथिमित्याज्यं । आ. ९-८ । इति ॥
+
+##### Gist of the bhāṣya
+
+The last three Ṛks are the praise of the gift of the king named Śrutarvan. In the rites called Vyoma, Viśvadeva and the five Śāradīya rites this sūkta is the Ājya-śastra; the use is set out in the sūtra विशोविशो वो अतिथिमित्याज्यं (*viśoviśo vo atithimityājyaṃ*) (Ā. 9-8). **NOTE**
+
+Translation of the Kannada: This sūkta beginning विशोविशो वः (*viśoviśo vaḥ*) is the fifth sūkta in the eighth Maṇḍala. It has fifteen Ṛks. In the Anukramaṇikā it is said: विशोविशो वः पंचोनाग्नेयं त्वनुष्टुबुम्मखास्त्र्यचाश्चत्वारोऽन्त्यास्तिस्रोऽनुष्टुभ आर्क्षस्य श्रुतर्वणो दानस्तुतिः (*viśoviśo vaḥ paṃconāgneyaṃ tvanuṣṭubummakhāstryacāścatvāro 'ntyāstisro 'nuṣṭubha ārkṣasya śrutarvaṇo dānastutiḥ*). The seer of this sūkta is the one named Gopavana. Of the first three tṛcas of this sūkta (a tṛca is three Ṛks) the first Ṛk is Anuṣṭubh, and the second and third Ṛks are in the Gāyatrī metre. The three Ṛks from the thirteenth onwards are in the Anuṣṭubh metre. Agni is the deity of this sūkta and of the next sūkta. For the last three Ṛks of this sūkta the praise of the gift of the king named Śrutarvā is the deity. It is to be used for the Ājya-śastra mantras in the Vyoma, Viśvadeva and Pañcaśāradīya rites, as it is explained by the sūtra of the Āśvalāyana Śrauta-sūtra विशोविशो वोः अथितिमिथ्याज्यं (*viśoviśo voḥ athitimithyājyaṃ*) (Ā. 9-8). **NOTE**
+
+Sūkta 24. Maṇḍala 8, Anuvāka 8, Sūkta 24. Aṣṭaka 6, Adhyāya 5, Vargas 21, 22, 23. Number of Ṛks in the sūkta: 15. Seer: Gopavana Ātreya. Deity: 1-12 Agni; 13-15 the praise of the gift of Śrutarvan Ārkṣa. Metre: 1, 4, 7, 10, 13-15 Anuṣṭubh; 2, 3, 5, 6, 8, 9, 11, 12 Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒शोवि॑शो वो॒ अति॑थिं वाज॒यंतः॑ पुरुप्रि॒यम् ।  
+> अ॒ग्निं वो॒ दुर्यं॒ वच॑ स्तु॒षे शू॒षस्य॒ मन्म॑भिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विशःऽविशः । वः । अतिथिम् । वाजऽयंतः । पुरुऽप्रियम् ।  
+> अग्निम् । वः । दुर्यम् । वचः । स्तुषे । शूषस्य । मन्मऽभिः ॥ १ ॥
+
+### Printed p. 116
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अन्य ऋत्विजो यजमानाश्च वः यूयं वाजयंतः अन्नमिच्छंतः विशोविशः सर्वस्याः प्रजायाः अतिथिं पूज्यं पुरुप्रियं बहुप्रियम् अग्निं स्तुत्या परिचरतेति शेषः । अहं च वः युष्मदर्थं दुर्यं गुहा हितं वचः स्तुषे शूषस्य सुखस्य लाभाय । कैः साधनैः । मन्मभिः मननीयैः स्तोत्रैः ॥
+
+##### Gist of the bhāṣya
+
+He addresses the other priests and sacrificers: you, desiring food, serve with praise Agni, the guest, the one to be honoured, of every people, beloved of many. And I, for you, praise the homely speech, for the gain of happiness, with what means: with hymns worthy of reflection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you (O priests)
+- वाजयंतः (*vājayaṃtaḥ*)—desirous of food
+- विशोविशः (*viśoviśaḥ*)—for every human people
+- अतिथिं (*atithiṃ*)—the one to be honoured
+- पुरुप्रियं (*purupriyaṃ*)—the one dear to many
+- अग्निं (*agniṃ*)—serve Agni
+- वः (*vaḥ*)—for you
+- शूषस्य (*śūṣasya*)—for happiness
+- मन्मभिः (*manmabhiḥ*)—with hymns of meditative nature
+- दुर्यं (*duryaṃ*)—relating to the house
+- वचः (*vacaḥ*)—the speech of praise
+- स्तुषे (*stuṣe*)—I recite
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, you, desiring food, serve Agni, who is to be honoured by every human people and is dear to many. For your happiness, with hymns of meditative nature, I recite the speech of praise relating to the house.
+
+##### English translation
+Food-desiring (priests, worship) Agni, who is the guest of all man kind, beloved of many ; I address to him in your behalf a domestic homage with hymns, for the attainment of happiness ;
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं जना॑सो ह॒विष्मं॑तो मि॒त्रं न स॒र्पिरा॑सुतिम् ।  
+> प्र॒शंसं॑ति॒ प्रश॑स्तिभिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । जनासः । हविष्मंतः । मित्रम् । न । सर्पिःऽआसुतिम् ।  
+> प्रऽशंसंति । प्रशस्तिऽभिः ॥ २ ॥
+
+### Printed p. 117
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यम् अग्निं जनासः जना यजमानाः हविष्मंतः संतः मित्रं न मित्रमिवादित्यमिव सखायमिव वा सर्पिरासुतिं सर्पिरासूयते हूयते यस्मिंस्तादृशं प्रशंसंति स्तुवंति प्रशस्तिभिः स्तुतिभिः स्तुव इति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The Agni whom the people, the sacrificers, having oblations, praise with praises, like a friend, that is, like Mitra (the sun) or like a companion, in whom clarified butter is poured and offered; I praise him, the verb being understood.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रं न (*mitraṃ na*)—as one serves a friend
+- हविष्मंतः (*haviṣmaṃtaḥ*)—possessing oblations
+- जनासः (*janāsaḥ*)—the sacrificers
+- सर्पिरासुतिं (*sarpirāsutiṃ*)—having oblations offered with praises
+- यः (*yaḥ*)—which Agni
+- प्रशस्तिभिः (*praśastibhiḥ*)—with words of praise
+- प्रशंसंति (*praśaṃsaṃti*)—they praise (that Agni I praise)
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers, possessing oblations, praise and honour with words of praise, as they serve their friends, that Agni who has the oblations offered with praises; that Agni I too praise.
+
+##### English translation
+(That Agni), to whom clarified butter is offered, whom men, bearing oblations, worship with praises as a friend ;
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पन्यां॑सं जा॒तवे॑दसं॒ यो दे॒वता॒त्युद्य॑ता ।  
+> ह॒व्यान्यैर॑यद्दि॒वि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पन्यांसम् । जातऽवेदसम् । यः । देवऽताति । उत्ऽयता ।  
+> हव्यानि । ऐरयत् । दिवि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पन्यांसम् अतिशयेन स्तोतारं साधु कृतमिति यजमानं स्तुवंतं जातवेदसं जातधनं जातविद्यं वा स्तुव इति शेषः । यः अग्निः देवताति देवतातौ यज्ञे उद्यता उद्यतानि हव्यानि हवींषि दिवि ऐरयत् प्रेरयति दिवि देवेभ्यः ॥
+
+##### Gist of the bhāṣya
+
+पन्यांसं (*panyāṃsaṃ*) is the greatest praiser, one who praises the sacrificer, saying "well done"; जातवेदसं (*jātavedasaṃ*) is one in whom wealth is born, or one by whom knowledge is born; I praise him, the verb being understood. The Agni who, in the sacrifice (देवताति (*devatāti*)), sends the oblations that are offered up to heaven, for the gods.
+
+### Printed p. 118
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- देवताति (*devatāti*)—in the sacrifice addressed to the gods
+- उद्यता (*udyatā*)—offered
+- हव्यानि (*havyāni*)—the oblations
+- दिवि (*divi*)—to the world of the gods
+- ऐरयत् (*airayat*)—sends and dispatches, such a one
+- पन्यांसं (*panyāṃsaṃ*)—one who praises the sacrificer who worships him
+- जातवेदसं (*jātavedasaṃ*)—and the one who knows everything, that Agni I praise
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who carries to the world of the gods the oblations offered in the sacrifice addressed to the gods, who praises the sacrificer who worships him, and who knows everything, that Agni I praise.
+
+##### English translation
+Jatavedas, the earnest praiser of his worshipper, who sends to heaven the oblations presented in the sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग॑न्म वृत्र॒हंत॑मं॒ ज्येष्ठ॑म॒ग्निमान॑वम् ।  
+> यस्य॑ श्रु॒तर्वा॑ बृ॒हन्ना॒र्क्षो अनी॑क॒ एध॑ते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अगन्म । वृत्रहन्ऽतमम् । ज्येष्ठम् । अग्निम् । आनवम् ।  
+> यस्य । श्रुतर्वा । बृहन् । आर्क्षः । अनीके । एधते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृत्रहंतमं पापानामतिशयेन हंतारं ज्येष्ठं प्रशस्यम् आनवं मनुष्यसंबंधिनं तेषां हितकारिणम् अग्निम् आगन्म आगता वयम् । पूजार्थं बहुवचनम् । यस्य अग्नेः अनीके ज्वालासंघे बृहन् महान् आर्क्षः ऋक्षपुत्रः श्रुतर्वा नाम राजा एधते वर्धते । कर्म करोतीत्यर्थः । तमग्निमागन्मेति समन्वयः । एवं श्रुतर्वाणं भिक्षयागतो गोपवनोऽग्निं स्तौति ॥
+
+##### Gist of the bhāṣya
+
+We have come to Agni, the greatest destroyer of the sins, the most excellent, the one belonging to men (आनवं (*ānavaṃ*)), their benefactor; the plural is for honour. In the flame-host of which Agni the mighty Ārkṣa, son of Ṛkṣa, the king named Śrutarvā, thrives; that is, he performs the rite. So the connection is: we have come to that Agni. Thus Gopavana, who has come to Śrutarvā for alms, praises Agni.
+
+### Printed p. 119
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Agni
+- अनीके (*anīke*)—with the help of the army in the form of flames
+- बृहन् (*bṛhan*)—endowed with greatness
+- आर्क्षः (*ārkṣaḥ*)—the son of Ṛkṣa
+- श्रुतर्वा (*śrutarvā*)—the king named Śrutarvan
+- एधते (*edhate*)—thrives, such a one
+- वृत्रहंतमं (*vṛtrahaṃtamaṃ*)—the destroyer of sinners
+- ज्येष्ठं (*jyeṣṭhaṃ*)—the most worthy of praise
+- आनवं (*ānavaṃ*)—the benefactor of men
+- अग्निं (*agniṃ*)—to Agni
+- आ अगन्म (*ā aganma*)—we have come
+
+##### भावार्थ (Bhāvārtha)
+
+We have come near to Agni, the destroyer of sinners, the most worthy of praise, the benefactor of men, with the help of whose army in the form of flames the king, endowed with greatness, the son of Ṛkṣa, named Śrutarvan, thrives.
+
+##### English translation
+We have come to that most excellent Agni, mightiest destroyer of the wicked, the benefactor of men, in whose army (of rays) Srutarvan the mighty son of Riksha, waxes great.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒मृतं॑ जा॒तवे॑दसं ति॒रस्तमां॑सि दर्श॒तम् ।  
+> घृ॒ताह॑वन॒मीड्य॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अमृतम् । जातऽवेदसम् । तिरः । तमांसि । दर्शतम् ।  
+> घृतऽआहवनम् । ईड्यम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स एवागत्य स्तौति । अमृतम् अमरणं जातवेदसं जाततेजआद्युपलक्षणधनं तमांसि तिरः दर्शतं नाशयंतमित्यर्थः। घृताहवनम् । घृतमाहूयते यत्र तम् । ईड्यं स्तुत्यम्। ईदृशमागन्मेति संबंधः ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+The same, having come, praises: अमृतम् (*amṛtam*) is the one who does not die; जातवेदसं (*jātavedasaṃ*) is the one in whom wealth, marked by born brilliance and the like, is born; तमांसि तिरः दर्शतं (*tamāṃsi tiraḥ darśataṃ*) means the one who destroys the darkness. घृताहवनम् (*ghṛtāhavanam*) is the one in whom ghee is poured; ईड्यं (*īḍyaṃ*) is the one worthy of praise. The connection is: we have come to such a one.
+
+### Printed p. 120
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमृतं (*amṛtaṃ*)—the one free from the nature of death
+- जातवेदसं (*jātavedasaṃ*)—the one who knows everything
+- तमांसि (*tamāṃsi*)—the black darknesses
+- तिरः दर्शतं (*tiraḥ darśataṃ*)—the one who destroys
+- घृताहवनं (*ghṛtāhavanaṃ*)—the one to whom the oblation in the form of ghee is offered
+- ईड्यं (*īḍyaṃ*)—the one to be honoured; we have approached such an Agni
+
+##### भावार्थ (Bhāvārtha)
+
+We have approached Agni, who is free from the nature of death, who knows everything, who destroys the black darknesses, who is honoured with the oblation in the form of ghee, and who is worthy of praise.
+
+##### English translation
+(We have come) to the mortal Jatavedas, who shows light across the darkness, well worthy of praise, and  receiving the offerings of ghi ;
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒बाधो॒ यं जना॑ इ॒मे॒३॒॑ऽग्निं ह॒व्येभि॒रीळ॑ते ।  
+> जुह्वा॑नासो य॒तस्रु॑चः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सऽबाधः । यम् । जनाः । इमे । अग्निम् । हव्येभिः । ईळते ।  
+> जुह्वानासः । यतऽस्रुचः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे सबाधः बाधसहिता अध्वर्य्वादयः यम् अग्निं हव्येभिः हविर्भिः ईळते स्तुवंति । कीदृशा जनाः। जुह्वानासः यागं कुर्वाणाः यतस्रुचः तदर्थं धृतस्रुग्दंडाः । तमागन्मेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+These Adhvaryus and others, सबाधः (*sabādhaḥ*), together with obstruction, praise with oblations the Agni whom they praise. What kind of people: जुह्वानासः (*juhvānāsaḥ*), performing the sacrifice; यतस्रुचः (*yatasrucaḥ*), holding the ladle-handles for it. The connection is: we have come to him. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जुह्वानासः (*juhvānāsaḥ*)—those who perform the sacrifice
+- यतस्रुचः (*yatasrucaḥ*)—those who hold up the ladle full of ghee
+- सबाधः (*sabādhaḥ*)—those who are gathered together
+- इमे जनाः (*ime janāḥ*)—these Adhvaryus
+- यं अग्निं (*yaṃ agniṃ*)—which Agni
+- हव्येभिः (*havyebhiḥ*)—with oblations
+- ईळते (*īḷate*)—they praise (we have approached that Agni)
+
 ---
 
-**Progress note:** Done through printed p. 114. Sūkta 73 Ṛks 12-18; start of Sūkta 74
+**Progress note:** Done through printed p. 120. Sukta 24 (Mandala 8) rks 1-6
