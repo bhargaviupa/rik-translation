@@ -16367,6 +16367,255 @@ Yāska has stated the Nirukta on this Ṛk:
 स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सा निरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप्री देवान् गोपायत्विति देवा एनां गोपायंत्वित्वा ॥ (*svastireva hi prapathe śreṣṭhā rekṇasvatī dhanavatyabhyeti yā vasūni vananīyāni sā no 'mā gṛhe sā niramaṇe sā nirgamane pātu svāveśā bhavatu devī goprī devān gopāyatviti devā enāṃ gopāyaṃtvitvā ‖*) (Ni. 11-46)
 This deity named Svasti is the best of the gods of the middle region. She comes near us as one with wealth, raining the water everyone needs. May she protect us whether we are at home or travelling outside. By her entry good comes to us. This goddess is called देवगोपा (*devagopā*): because she protects the gods (or us, the givers of oblations), or because the gods protect her, she has the name देवगोपा (*devagopā*). This is the main import of the Nirukta statement.
 
+### Printed p. 482
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा प्ल॒तेः सू॒नुर॑वीवृधद्वो॒ विश्व॑ आदित्या अदिते मनी॒षी ।  
+> ई॒शा॒नासो॒ नरो॒ अम॑र्त्ये॒नास्ता॑वि॒ जनो॑ दि॒व्यो गये॑न ॥१७॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । प्लतेः । सूनुः । अवीवृधत् । वः । विश्वे । आदित्याः । अदिते । मनीषी ।  
+> ईशानासः । नरः । अमर्त्येन । अस्तावि । जनः । दिव्यः । गयेन ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्व आदित्याः सर्वे देवा हे आदिते देवानां मातरेन्नामिके देवि वो
+> युष्मान्मनीषी प्राज्ञः स्तोता प्लतेरेतन्नामकस्यर्षेः सूनुः पुत्रोगयो नामैनैवमुक्तरीत्यावीवृधत् । स्तुतिभिरवर्धयत् ॥ वर्धतेर्न्यंतस्य लुजि रूपं ॥
+> अमर्त्येन मनुष्यधर्मरहितेन स्तुतेन येन देवजनेन नरो मनुष्या ईशानासो
+> धनस्येश्वराः स्वामिनो भवंति स दिव्यो दिवि भवो जनो देवगणो गयेनैतन्नामकेन मयास्तावि । अभिष्टुतोऽभूत् ॥ स्तोतेः कर्मणि लुजि चजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the "all Ādityas", that is all the gods, and Aditi, the mother of the gods. The wise worshipper, Gaya, the son of the seer Plati, has made them grow (अवीवृधत् (*avīvṛdhat*)) in the manner stated, that is, he has strengthened them with praises; the form is the aorist (luṅ) of the causative of the root वर्धते (*vardhate*). The immortal (अमर्त्येन (*amartyena*)), that is the company of gods free from human nature, through whom (when praised) men become lords (ईशानासः (*īśānāsaḥ*)) of wealth, masters of it: that heavenly (दिव्यः (*divyaḥ*)) host, born in heaven, the divine group, has been praised (अस्तावि (*astāvi*)) by me, named Gaya. The form is the aorist passive of the root स्तोतेः (*stoteḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे आदित्याः (*viśve ādityāḥ*)—O all gods, sons of Aditi
+- अदिते (*adite*)—O mother of the gods
+- वः (*vaḥ*)—you
+- मनीषी (*manīṣī*)—the wise one
+- प्लतेः सूनुः (*plateḥ sūnuḥ*)—the son of the seer Plati
+- एव (*eva*)—in this manner
+- अवीवृधत् (*avīvṛdhat*)—has strengthened with praises
+- अमर्त्येन (*amartyena*)—through the company of gods free from the nature of death
+- नरः (*naraḥ*)—men
+- ईशानासः (*īśānāsaḥ*)—become lords of wealth
+- दिव्यः जनः (*divyaḥ janaḥ*)—that same host of gods
+- गयेन (*gayena*)—by the seer Gaya
+- अस्तावि (*astāvi*)—has been praised
+
+##### भावार्थ (Bhāvārtha)
+
+O all gods, sons of Aditi, O mother of the gods, the wise son of the seer Plati (Gaya) has in this manner strengthened you with praises. The host of immortal gods through whom men become lords of wealth has been praised by the seer Gaya.
+
+##### English translation
+Universal deities and Aditi, thus has the prudent son of Plati magnified you ; the celestial people, the immortal (company of the gods) through
+
+### Printed p. 483
+whom (when praised) men become the lords (of wealth) have been glorified by Gaya.
+
+## Sūkta 64 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कथेति सप्तदशर्चं चतुर्थं सूक्तं प्लातस्य गयस्यार्षं वैश्वदेवं । यां
+> मे धियमित्येषा द्वादशी षोडशीसप्तदश्यौ च त्रिष्टुभः शेषा जगत्यः । तथा चानुक्रांतं । कथा यां मे त्रिष्टुबिति ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, कथा (*kathā*), of seventeen Ṛks, has as its seer Gaya, son of Plata (Plati); its deity is the Viśve Devāḥ. The twelfth Ṛk (यां मे धियं (*yāṃ me dhiyaṃ*)) and the sixteenth and seventeenth are in Triṣṭubh; the rest are in Jagatī. So the Anukramaṇī: कथा यां मे त्रिष्टुबिति (*kathā yāṃ me triṣṭubiti*). The application (viniyoga) has already been given.
+
+##### Anuvāda
+
+This sūkta, कथा (*kathā*), is the fourth sūkta in the fifth anuvāka. It has seventeen Ṛks. Its seer is Gaya, son of Plata; its deity is the Viśve Devāḥ; the twelfth Ṛk (यां मे धियं (*yāṃ me dhiyaṃ*)) and the sixteenth and seventeenth are in Triṣṭup metre; the remaining Ṛks are in Jagatī metre. In the Anukramaṇī it is stated: कथा यां मे त्रिष्टुप् (*kathā yāṃ me triṣṭup*). The application has been stated before.
+
+##### Particulars
+
+- Sūkta: 64
+- Maṇḍala 10; Anuvāka 5; Sūkta 64
+- Aṣṭaka 8; Adhyāya 2; Vargas 6, 7, 8
+- Number of Ṛks in the sūkta: 17
+- Seer: Gaya Plāta
+- Deity: Viśve Devāḥ
+- Metre: 1–11, 13–15 Jagatī; 12, 16, 17 Triṣṭup
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒था दे॒वानां॑ कत॒मस्य॒ याम॑नि सु॒मंतु॒ नाम॑ शृण्व॒तां  ॑
+> म॑नामहे ।  
+> को मृ॑ळाति कत॒मो नो॒ मय॑स्करत्कत॒म ऊ॒ती अ॒भ्या व॑नर्तति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कथा । देवानां । कतमस्य । यामनि । सुमंतुः । नाम । शृण्वतां । मनामहे ।  
+> कः । मृळाति । कतमः । नः । मयः । करत् । कतमः । ऊती । अभि । आ । ववर्तति ॥१॥
+
+### Printed p. 484
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिर्बहुधात्मानं वितर्कयति। यामनि। यांति गच्छंत्यत्रेति यामा यज्ञः।
+> तस्मिञ्चैण्वतामस्माभिरुक्तानि स्तोत्राणि देवानां मध्यॆ कतमस्य देवस्य सुमंतु
+> सुष्टु मननीयं स्तोतव्यं नाम कथा कथं मनामहे । उच्चारयामः। अस्मान्को
+> वा मृळाति । मृळतिरुपदयाकर्मेति यास्कः। नि. १०-१५ । कृपां करोति । कतमो वा
+> सोऽस्माकं मयः सुखं करत्। करोति । कतमो वोती॥ चतुर्थ्याः पूर्वसवर्णदीर्घः ॥ ऊत्या अस्माकं रक्षणायाभ्या ववर्तति । अभ्यागच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The seer reflects in many ways about himself. यामनि (*yāmani*): यामा (*yāmā*) is the sacrifice, where people go. In it, among the gods who hear the praises uttered by us, of which god shall we utter (मनामहे (*manāmahe*)) the name that is well worth meditating on, that is, worth praising (सुमंतु (*sumaṃtu*)), and how? Who shows us mercy? मृळति (*mṛḷati*) is a verb of compassion, says Yāska (Ni. 10-15); he shows grace. Which of them will bring us happiness (मयः (*mayaḥ*))? Which comes (अभ्या ववर्तति (*abhyā vavartati*)) to us with help (ऊती (*ūtī*)), for our protection, that is, approaches us?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यामनि (*yāmani*)—in the sacrifice
+- शृण्वतां (*śṛṇvatāṃ*)—of those who listen to our praises
+- देवानां (*devānāṃ*)—among the gods
+- कतमस्य (*katamasya*)—of which god
+- सुमंतु (*sumaṃtu*)—worthy of excellent meditation
+- नाम (*nāma*)—the name
+- कथा (*kathā*)—in what manner
+- मनामहे (*manāmahe*)—shall we meditate on and recite
+- कः (*kaḥ*)—which god
+- मृळाति (*mṛḷāti*)—is merciful to us
+- कतमः (*katamaḥ*)—which of them
+- नः (*naḥ*)—to us
+- मयः (*mayaḥ*)—happiness
+- करत् (*karat*)—will provide
+- कतमः (*katamaḥ*)—which of them
+- ऊती (*ūtī*)—for our protection
+- अभ्याववर्तति (*abhyāvavartati*)—graciously comes towards us
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gods who listen to our praises at the sacrifice, whose name is worthy of excellent meditation? In what way shall we meditate on and recite it? (What name worthy of excellent meditation shall we utter and praise?) Which god is merciful to us? Which of them will give us happiness? Who will come towards us for our protection?
+
+##### English translation
+In what manner, and of which of the gods, who hear (our praises) at the saerifice, my we enunciate the venerable name ? who will show us compassion ? which of them will grant us happiness ? which of them comes for our protection ?
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्र॒तू॒यंति॒ क्रत॑वो हृ॒त्सु धी॒तयो॒ वेनं॑ति वे॒नाः प॒तयं॒त्यादिशः॑ ।  
+> न म॑र्दि॒ता वि॑द्यते अ॒न्य ए॑भ्यो दे॒वेषु॑ मे॒ अधि॒ कामा॑  
+> अयंसत ॥ २ ॥
+
+### Printed p. 485
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रतुयंति । क्रतवः । हृत्‌सु । धीतयः । वेनंति । वेनाः । पतयंति । आ । दिशः ।  
+> न । मर्डिता । विद्यते । अन्यः । विभ्यः । देवेषु । मे । अधि । कामाः । आयंसत ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हृत्सु हृदयेषु धीतयो निधातव्या निहिताः क्रतवः प्रज्ञाः क्रतूयंति ।
+> अग्निहोत्रादिकर्म कर्तुमिच्छंति । तदेवाह । वेनाः कांताः प्रज्ञा वेनंति । देवान्यामयंते। वेनो वेनतेःतांतिकर्मण इति यास्कः । नि. १०-३८ । तथा दिशोऽस्माभिर्निदिश्यमानाः प्रेर्यमाणाः कामा आ पतयंति। देवान्फलावाप्तय आगच्छंति। यत
+> एभ्यो देवेभ्योऽन्नो देव एषां कामानां मर्डिता सुखयिता न विद्यते । किं
+> बहुना । देवेष्टधि । अधिशब्दः सप्तम्यर्थद्योतकः । इंद्रादिषु देवेषु मे मदीयाः कामा आयंसत । नियम्यंते॥ यच्छतेः कर्मणि लुजि रूपं ॥
+
+##### Gist of the bhāṣya
+
+In the hearts (हृत्सु (*hṛtsu*)) the thoughts (धीतयः (*dhītayaḥ*)) are laid down, and the intelligences (क्रतवः (*kratavaḥ*)) wish (क्रतूयंति (*kratūyaṃti*)) to perform rites such as the Agnihotra. He says the same: the beloved intelligences (वेनाः (*venāḥ*)) long (वेनंति (*venaṃti*)) for the gods; वेनो वेनतेः (*veno venateḥ*) ... is said by Yāska (Ni. 10-38). Likewise the desires, directed (दिशः (*diśaḥ*)) and sent forth by us, fly (आ पतयंति (*ā patayaṃti*)) to the gods to obtain their fruit. Since, apart from these gods, no other god exists who gives happiness (मर्डिता (*marḍitā*)) in these desires, what more need be said? अधि (*adhi*) is a marker of the locative sense: my desires are fixed (आयंसत (*āyaṃsata*)), restrained, on the gods such as Indra; the form is the aorist passive of the root यच्छतेः (*yacchateḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हृत्सु (*hṛtsu*)—in our hearts
+- धीतयः (*dhītayaḥ*)—grown with devotion
+- क्रतवः (*kratavaḥ*)—the intelligences concerned with rites
+- क्रतूयंति (*kratūyaṃti*)—are urged to perform rites
+- वेनाः (*venāḥ*)—our attractive intelligences
+- वेनंति (*venaṃti*)—desire worship of the gods
+- दिशः (*diśaḥ*)—those desires impelled by us
+- आ पतयंति (*ā patayaṃti*)—approach the gods for the fulfilment of their aims
+- एभ्यः (*ebhyaḥ*)—than these gods
+- अन्यः (*anyaḥ*)—any other
+- मर्डिता (*marḍitā*)—as giver of happiness to us
+- न विद्यते (*na vidyate*)—does not exist
+- देवेषु अधि (*deveṣu adhi*)—on the gods alone
+- मे (*me*)—my
+- कामाः (*kāmāḥ*)—desires
+- अयंसत (*ayaṃsata*)—are concentrated
+
+##### भावार्थ (Bhāvārtha)
+
+The intelligences concerned with rites, grown with devotion in our hearts, are urged to perform rites. Our attractive intelligences long for the worship of the gods. Those desires, impelled by us, approach the gods for the fulfilment of their aims. Apart from the gods there is no other giver of happiness to us. All my desires are concentrated on the gods.
+
+##### English translation
+The desires cherished in my heart strive to offer worship : (our) wishes long for (the gods) and expressed (by us) go forth to (the gods) : no other bestower of happiness exists except them ; upon the gods are my desires concentrated.
+
+### Printed p. 486
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नरा॑ वा॒ शं सं॑ पू॒षण॒मगो॑ह्यम॒ग्निं दे॒वेद्ध॑म॒भ्य॑र्चसे गि॒रा ।  
+> सूर्या॒मासा॑ चं॒द्रम॑सा य॒मुं दि॒वि त्रि॒तं वात॑मु॒षस॑म॒क्तुम॒श्विना॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नराशंसं । वा । पूषणं । अगोह्यं । अग्निं । देवइद्धं । अभि । अर्चसे । गिरा ।  
+> सूर्यामासा । चंद्रमसा । यमं । दिवि । त्रितं । वातं । उषसं । अक्तुं । अश्विना॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः स्वात्मानं संबोध्याह । नराशंसं ॥ उभे वनस्पत्यादिषु युगपदित्युभयपदप्रकृतिस्वरत्वं । संहितायां विप्रकर्षश्चांडसः॥ नरैः शंसनीयमेतन्नामानं
+> पूषणं स्तोतृणां धनदानेन पोषकमेतन्नामानं तथागोह्यमगूहितमन्मैर्गंतुमशक्यं देवेद्धं नामदेवादिभिर्ऋषिभिर्दीपितमग्निं च गिरा स्तुत्याभ्यर्चसे ।
+> अभिष्टुहि । तथा सूर्यमासा चंद्रमसा । मा इति चंद्रमसो विशेषणं । माति
+> पक्षमिति माश्चंद्रमाः । तौ सूर्याचंद्रमसौ दिवि द्युलोके स्थितं यमं च त्रितं
+> त्रिषु लोकेषु ततं स्वमहिम्मा विस्तृतं त्रिस्थानं वा तमिंद्रं वातं वायुमुषसमुषःकालमक्तुं रात्रिमश्विनाश्विन् चैतान्नेवांस्तत्तल्लिंगैः स्तोत्रैरभिष्टुहि ॥
+
+##### Gist of the bhāṣya
+
+The seer addresses himself. नराशंसं (*narāśaṃsaṃ*) (the word has the accent of both members, as in वनस्पत्यादिषु (*vanaspatyādiṣu*); the separation in the Saṃhitā is Vedic usage). Praise with a hymn (गिरा (*girā*)) Narāśaṃsa, to be praised by men; Pūṣan, the nourisher of worshippers by the gift of wealth; the unapproachable (अगोह्यं (*agohyaṃ*)), that cannot be reached by others, Agni, kindled by gods and seers (देवेद्धं (*deveddhaṃ*)). Likewise the sun and the moon: माः (*māḥ*) is a qualifier of the moon, since *māti pakṣaṃ* (he measures the fortnight) is the moon. Praise also those two, the sun and the moon; Yama, who dwells in heaven; Trita, spread over the three worlds by his own greatness, or established in three places, that is Indra; Vāta, the wind; Uṣas, the time of dawn; Aktu, the night; and the Aśvins; praise these gods with hymns suited to their respective marks.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नराशंसं (*narāśaṃsaṃ*)—the god Narāśaṃsa
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- अगोह्यं (*agohyaṃ*)—the one who cannot be approached by others
+- देवेद्धं (*deveddhaṃ*)—kindled by seers such as Vāmadeva
+- अग्निं (*agniṃ*)—Agni
+- गिरा (*girā*)—with praise
+- अभ्यर्चसे (*abhyarcase*)—praise and worship
+- सूर्यामासाचंद्रमसा (*sūryāmāsācaṃdramasā*)—both sun and moon
+- दिवि (*divi*)—dwelling in the world of heaven
+- यमं (*yamaṃ*)—Yama
+- त्रितं (*tritaṃ*)—Indra, pervading the three worlds
+- वातं (*vātaṃ*)—the wind
+- उषसं (*uṣasaṃ*)—the goddess Uṣas
+- अक्तुं (*aktuṃ*)—the night
+- आश्विना (*āśvinā*)—the Aśvin deities; praise (them)
+
+##### भावार्थ (Bhāvārtha)
+
+O seer, praise the god Narāśaṃsa, the god Pūṣan, Agni who cannot be approached by others and is kindled by seers such as Vāmadeva, the sun and the moon, Yama dwelling in the world of heaven,
+
+### Printed p. 487
+Indra pervading the three worlds, the wind, the goddess Uṣas, the night and the Aśvin deities.
+
+##### English translation
+Adore with praises Narashamsa and Pushan, and the unapproachable Agni kindled by the devout (Rishis) ; and the sun and the moon, the two moons, Yama in heaven, Trita, Vata, the dawn, the night, and the Ashwins.
+
+##### विशेषविषयगळु (Special Topics)
+
+नराशंसं (*narāśaṃsaṃ*)—In the Saṃhitā text of this Ṛk the word वा (*vā*) is placed in the middle of the word नराशंसं (*narāśaṃsaṃ*); that is, the Saṃhitā reads नरा वा शंसं (*narā vā śaṃsaṃ*) while the Pada text reads नराशंसं। वा (*narāśaṃsaṃ| vā*). This kind of usage appears to be for the convenience of the metre. The same usage is seen in the Ṛk
+द्वा जना यातयन्नंतरीयते नरा च शंसं दैव्यं च धर्तरि । (*dvā janā yātayannaṃtarīyate narā ca śaṃsaṃ daivyaṃ ca dhartari |*)
+(Ṛ. Saṃ. 9-86-42)
+where the word च (*ca*) is used instead of वा (*vā*). Here it is necessary to examine the matter of the deity Narāśaṃsa closely.
+नराशंसः। नरैः शंसनीयः (अग्निः) (*narāśaṃsaḥ| naraiḥ śaṃsanīyaḥ (agniḥ)*): Agni, praised by men; this is a name of Agni fitting its meaning. Another view is नराशंसोऽग्निर्यज्ञो वा (*narāśaṃso 'gniryajño vā*): Narāśaṃsa means either Agni or the sacrifice. The Nirukta passage supports both views:
+नराशंसो यज्ञ इति कात्थक्यः । नरा अस्मिन्नासीनाः शंसंति । अग्निरिति शाकपूणिः । नरैः प्रशस्यो भवति ॥ (*narāśaṃso yajña iti kātthakyaḥ | narā asminnāsīnāḥ śaṃsaṃti | agniriti śākapūṇiḥ | naraiḥ praśasyo bhavati ‖*)
+(Ni. 8-2)
+That is: Kātthakya says the sacrifice has the name Narāśaṃsa because men (people), seated at the sacrifice, praise the gods; Śākapūṇi says the name applies to Agni because he is to be praised by men. The author of the Nirukta, having indicated these two views, then cites the Ṛk
+नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः । ये सुक्रतवः शुचयो धियंधाः स्वदंति देवा उभयानि हव्या ॥ (*narāśaṃsasya mahimānameṣāmupa stoṣāma yajatasya yajñaiḥ | ye sukratavaḥ śucayo dhiyaṃdhāḥ svadaṃti devā ubhayāni havyā ‖*)
+(Ma. Saṃ. 7-2-2)
+In this Ṛk the sense of Agni alone is fitting. Among the deities listed in the Nighaṇṭu, the deity Narāśaṃsa is said to be one of the other forms of Agni. This the authors of the Bṛhaddevatā
+
 ---
 
-**Progress note:** Done through printed p. 481. pp. 476-481 (batch API)
+**Progress note:** Done through printed p. 487. pp. 482-487 (batch API)
