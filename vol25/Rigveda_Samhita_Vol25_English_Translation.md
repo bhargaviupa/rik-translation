@@ -18073,6 +18073,201 @@ At the first sight (the Rebhas) bow to him who is the circumference of the wheel
 > तमिंद्रं॑ जोहवीमि म॒घवा॑नमु॒ग्रं स॒त्रा दधा॑न॒मप्र॑तिष्कुतं॒ शवां॑सि ।  
 > मंहि॑ष्ठो गी॒र्भिरा च॑ य॒ज्ञियो॑ व॒वर्त॑द्रा॒ये नो॒ विश्वा॑ सु॒पथा॑ कृणोतु व॒ज्री ॥ १३ ॥
 
+### Printed p. 470
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । इंद्रम् । जोहवीमि । मघऽवानम् । उग्रम् । सत्रा । दधानम् । अप्रतिऽस्कुतम् । शवांसि ।  
+> मंहिष्ठः । गी:ऽभिः । आ। च । यज्ञियः । ववर्तत् । राये । नः । विश्वा । सुऽपथा । कृणोतु । वज्री ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं पूर्वोक्तगुणोपेतम् इंद्रं जोहवीमि । यष्टाहं पुनःपुनराह्वयामि । ह्वयतेः  अभ्यस्तस्य च इति संप्रसारणम् । कीदृशम् । मघवानं मंहनीयधनवंतम् उग्रम् उद्गूर्णबलं सत्रा सत्यं यथार्थमेव शवांसि बलानि दधानम् अत एव अप्रतिष्कुतं शत्रुभिरप्रतिरोधनीयमाह्वयामि । किंच मंहिष्ठः पूज्यतमो दातृतमो वा यज्ञियः यज्ञार्ह इंद्रः गीर्भिः अस्मदीयाभिः स्तुतिभिः आ ववर्तत् च यज्ञेष्वाभिमुख्येन वर्ततां च । वर्ततेर्ण्यंतस्य चङि रूपम्। 'चवायोगे प्रथमा' इति न निघातः । ‘चङयन्यतरस्याम्' इति स्वरः । ततः वज्री वज्रवानिंद्रः नः अस्माकं राये धनाय विश्वा विश्वानि सर्वाण्येव सुपथा सुमार्गाणि कृणोतु च करोतु । धनं सर्वदिक्स्थमस्मान् प्राप्नोत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: I, the sacrificer, call again and again (जोहवीमि (*johavīmi*)) that Indra who has the qualities stated before. What kind of Indra? मघवानं (*maghavānaṃ*): possessed of praiseworthy wealth; उग्रम् (*ugram*): of surging strength; he who truly, in very fact, bears powers (शवांसि (*śavāṃsi*)), and therefore is not to be resisted by enemies (अप्रतिष्कुतं (*apratiṣkutaṃ*)). Further, मंहिष्ठः (*maṃhiṣṭhaḥ*) means the most worshipful or the most bountiful; Indra, who is worthy of sacrifice (यज्ञियः (*yajñiyaḥ*)), may turn towards us (आ ववर्तत् (*ā vavartat*)) at the sacrifices, drawn by our praises. Then may the thunderer (वज्री (*vajrī*)) Indra make all paths good (सुपथा (*supathā*)) for our wealth (राये (*rāye*)); that is, may wealth lying in every direction reach us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवानं (*maghavānaṃ*)—the wealthy one
+- उग्रं (*ugraṃ*)—the one of exceeding strength
+- सत्रा (*satrā*)—real, truthful
+- शवांसि (*śavāṃsi*)—powers
+- दधानं (*dadhānaṃ*)—the one who possesses
+- अप्रतिष्कुतं (*apratiṣkutaṃ*)—the unstruck one
+- तं इंद्रं (*taṃ iṃdraṃ*)—that Indra himself
+- जोहवीमि (*johavīmi*)—I pray and call again and again
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—the most worshipful
+- यज्ञियः (*yajñiyaḥ*)—Indra, who is worthy of sacrifice
+- गीर्भिः (*gīrbhiḥ*)—pleased by praises
+- आ ववर्तत् च (*ā vavartat ca*)—may he come towards the sacrifice
+- वज्री (*vajrī*)—Indra, the bearer of the thunderbolt
+- नः (*naḥ*)—to us
+- राये (*rāye*)—for the gaining of wealth
+- विश्वा (*viśvā*)—all
+- सुपथा (*supathā*)—good paths
+- कृणोतु (*kṛṇotu*)—may he make
+
+##### भावार्थ (Bhāvārtha)
+
+I again and again pray and call that Indra, who is wealthy, of exceeding strength, who possesses real powers, and who is unstruck. May Indra, the most worshipful and worthy of sacrifice, pleased by praises, come towards the sacrifice. May Indra, the bearer of the thunderbolt, make all good paths for us for the gaining of wealth.
+
+### Printed p. 471
+
+##### भावार्थ (Bhāvārtha)
+
+Among the Śastra mantras that have been mentioned (the 10th Ṛk of this sūkta), when the optional anurūpa tṛca is recited, this Ṛk beginning तमिंद्रं (*tamiṃdraṃ*) is to be recited as the first Ṛk of the tṛca; this has been exemplified in the sūtra mentioned before.
+
+##### English translation
+Again and again I invoke the strong Indra, Maghavan, who alone really possess might, the irresistible ; may he draw nigh through our songs most bounteous and worthy of sacrifice ; may he, the thunderer, make all things prosperous for our wealth.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं पुर॑ इंद्र चि॒किदे॑ना॒ व्योज॑सा शविष्ठ शक्र नाश॒यध्यै॑ ।  
+> त्वद्विश्वा॑नि॒ भुव॑नानि वज्रिं॒द्यावा॑ रेजेते पृथि॒वी च॑ भी॒षा ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । पुरः । इंद्र । चिकित् । एनाः । वि । ओजसा । शविष्ठ । शक्र । नाशयध्यै ।  
+> त्वत् । विश्वानि । भुवनानि । वज्रिन् । द्यावा । रेजेते इति । पृथिवी इति । च । भीषा ॥१४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शविष्ठ बलवत्तम अत एव हे शक्र शत्रुहननसमर्थ हे इंद्र त्वम् एनाः । अन्वादेशे । एतानि पुरः शंबरस्य पुराणि ओजसा स्वीयेनैव तेजसा वि नाशयध्य विनाशयितुं चिकित् ज्ञाता भवसि । नशेर्ण्यंताच्छध्यैप्रत्ययः । पुनरपि सामर्थ्यं प्रशंसति । हे वज्रिन् वज्रवन्निंद्र विश्वानि सर्वाणि भुवनानि भूतजातानि त्वत् त्वत्तो भीत्या कंपंते । तथा द्यावापृथिवी । 'दिवो द्यावा' इति द्यावादेशः । आद्युदात्तश्च । पृथिवी ङीषंतत्वेनांतोदात्तः । 'देवताद्वंद्वे च' इत्युभयपदप्रकृतिस्वरत्वम् । विप्रकर्षस्तु छांदसः । द्यावापृथिवी च भीषा त्वत्तो भीत्या रेजेते कंपेते । ' अरेजेतां रोदसी' (ऋ. सं. १. ३१. ३ ) इति निगमः । सर्वे त्वदधीना इत्यर्थः ।
+
+##### Gist of the bhāṣya
+
+O Śaviṣṭha, most mighty, and therefore O Śakra, able to slay enemies, O Indra: you are known (चिकित् (*cikit*)) to be able to destroy by your own splendour (ओजसा (*ojasā*)) these (एनाः (*enāḥ*), an anvādeśa form) cities (पुरः (*puraḥ*)) of Śambara. Again he praises Indra's power: O thunderer (वज्रिन् (*vajrin*)), all beings (भुवनानि (*bhuvanāni*)) tremble from fear of you; likewise heaven and earth (द्यावापृथिवी (*dyāvāpṛthivī*)) tremble (रेजेते (*rejete*)) with fear (भीषा (*bhīṣā*)) of you. The Nigama is अरेजेतां रोदसी (*arejetāṃ rodasī*) (Ṛ. Saṃ. 1. 31. 3). The meaning is that all depend on you.
+
+### Printed p. 472
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शविष्ठ (*śaviṣṭha*)—O one of exceedingly great strength
+- शक्र (*śakra*)—O destroyer of enemies
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- एनाः (*enāḥ*)—the well-known
+- पुरः (*puraḥ*)—the cities of Śambara
+- ओजसा (*ojasā*)—by your strength
+- वि नाशयध्यै (*vi nāśayadhyai*)—for destroying
+- चिकित् (*cikit*)—you know the means
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- विश्वा (*viśvā*)—all
+- भुवनानि (*bhuvanāni*)—beings
+- त्वत् (*tvat*)—for you (they tremble)
+- द्यावापृथिवी च (*dyāvāpṛthivī ca*)—heaven and earth also
+- भीषा (*bhīṣā*)—by fear of you alone
+- रेजेते (*rejete*)—tremble
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of exceedingly great strength and destroyer of enemies, you know the means to destroy by your strength the well-known cities of Śambara. O Indra, bearer of the thunderbolt, all beings tremble for you. Heaven and earth also tremble from fear of you alone.
+
+##### English translation
+Indra, mighty Sakra, you know how to destroy those cities (of (Sambhara) by your strength at you all worlds tremble, thunderer,—heaven and earth (tremble) with fear.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्म॑ ऋ॒तमिं॑द्र शूर चित्र पात्व॒पो न व॑ज्रिंदुरि॒ताति॑ पर्षि॒ भूरि॑ ।  
+> क॒दा न॑ इंद्र रा॒य आ द॑शस्येर्वि॒श्वप्स्न्य॑स्य स्पृह॒याय्य॑स्य राजन् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । मा । ऋतम् । इंद्र। शूर । चित्र । पातु। अपः । न । वज्रिन्। दुःऽइता । अति । पर्षि भूरि ।  
+> कदा । नः । इंद्र। रायः । । दशस्येः । विश्वऽप्स्न्यस्य । स्पृहयाय्यस्य । राजन् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर बलवन् चित्र चायनीय विविधरूप वा। ‘इंद्रो मायाभिः पुरुरूप ईयते' (ऋ. सं. ६. ४७. १८) इत्यादिषु दृष्टत्वात् । बहुविधरूप हे इंद्र तत् प्रशस्तं त्वदीयम् ऋतं सत्यं मा मां पातु सर्वतो रक्षतु । किंच हे वज्रिन् वज्रवन्निंद्र भूरि । सुपो लुक् । भूरीणि बहूनि दुरिता दुरितानि पापानि अति पर्षि अतीत्य पारय । तत्र दृष्टांतः । अपो न यथा नाविक उदकानि मनुष्यान् पारयति तद्वदस्मान् पापानि पारय । हे राजन् दीप्यमान हे इंद्र विश्वप्स्न्यस्य । प्स इति रूपनाम । रूपे साधु प्स्यम् । नकारोपजनश्छांदसः । बहुरूपं तत् स्पृहयाय्यस्य सर्वैः स्पृहणीयं रायः । 'क्रियाग्रहणम्' इति संप्रदानसंज्ञा । ‘चतुर्थ्यर्थे बहुलम्' इति षष्ठी । तद्धनं नः अस्मभ्यम् आ आभिमुख्येन कदा दशस्येः कस्मिन् काले प्रयच्छेः । तदा तव स्वभूतं सत्यं मा रक्षतु । मह्यं धनं दत्वा कर्माणि च मयानुष्ठाप्य मां पापरहितं कुर्वित्यर्थः ॥ ॥ ३८ ॥
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये षष्ठाष्टके षष्ठोऽध्यायः ॥
+
+##### Gist of the bhāṣya
+
+O hero, O mighty one, O Citra: this means worthy of being perceived, or of many forms, because he is seen as such in passages like इंद्रो मायाभिः पुरुरूप ईयते (*iṃdro māyābhiḥ pururūpa īyate*) (Ṛ. Saṃ. 6. 47. 18). O Indra of many forms, may that excellent truth of yours (ऋतं (*ṛtaṃ*)) protect me (पातु (*pātu*)) on every side. Further, O thunderer, carry us across (अति पर्षि (*ati parṣi*)) our many sins (दुरिता (*duritā*)). The illustration is अपो न (*apo na*): as a boatman takes men across the waters, so take us across our sins. O shining king Indra: प्स (*psa*) is a word for form; what is good in form is प्स्यम् (*psyam*); the wealth (रायः (*rāyaḥ*)) here is of many forms and desirable to all (स्पृहयाय्यस्य (*spṛhayāyyasya*)). When will you give (दशस्येः (*daśasyeḥ*)) that wealth to us, directly before us? At that time may your truth protect me. The meaning is: having given me wealth and having had rites performed by me, make me free from sin.
+
+Then follows a closing verse and the colophon: dispelling the darkness of the heart by the light of the meaning of the Veda, may Vidyātīrtha Maheśvara grant the four aims of man; thus ends the sixth chapter of the sixth Aṣṭaka in the Ṛgveda-saṃhitā commentary, the Vedārthaprakāśa of the Mādhavīya, composed by Sāyaṇācārya, who bore the burden of the empire of the illustrious king Vīra Bukka, founder of the Vedic path.
+
+### Printed p. 473
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O valiant one
+- चित्र (*citra*)—O one of attractive form
+- इंद्र (*iṃdra*)—O Indra
+- तत् (*tat*)—the praiseworthy
+- ऋतं (*ṛtaṃ*)—your true nature
+- मा (*mā*)—me
+- पातु (*pātu*)—may it protect
+- वज्रिन् (*vajrin*)—O Indra, bearer of the thunderbolt
+- अपो न (*apo na*)—as a boatman takes men across the waters and brings them to the shore
+- भूरि (*bhūri*)—exceedingly many
+- दुरिता (*duritā*)—our sins
+- अति पर्षि (*ati parṣi*)—take us across and bring us to the shore
+- राजन् (*rājan*)—O shining one
+- इंद्र (*iṃdra*)—O Indra
+- विश्वस्स्य (*viśvassya*)—of many forms
+- स्पृहयाय्यस्य (*spṛhayāyyasya*)—and very attractive
+- रायः (*rāyaḥ*)—wealth
+- नः आ (*naḥ ā*)—towards us
+- कदा (*kadā*)—when
+- दशस्येः (*daśasyeḥ*)—will you send?
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, of attractive form, may your praiseworthy true nature protect me. O Indra, bearer of the thunderbolt, as a boatman takes men across the waters and brings them to the shore, take us across our exceedingly many sins and bring us to the shore. O shining Indra, when will you send towards us the wealth that is of many forms and very attractive?
+
+##### English translation
+Indra, hero assuming many forms, may that truthfulness of yours protect me ; bear us, thunderer, over our many sins as over waters ; when, radiant Indra, will you give us some wealth, desirable to all, manifold in its kinds ?
+
+### Printed p. 474
+
+Dispelling the darkness of the heart by the light of the meaning of the Veda, may Vidyātīrtha Maheśvara grant the four aims of man. Thus ends the sixth chapter of the sixth Aṣṭaka in the Ṛgveda-saṃhitā commentary, the Vedārthaprakāśa of the Mādhavīya, composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka.
+
+Om, that is the truth. Here, in the sixth Aṣṭaka of the Ṛgveda-saṃhitā, which has Sāyaṇa's bhāṣya and a Kannada translation, the sixth chapter is concluded.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te |*)
+
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*)
+
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
+॥ श्री ॥ (*‖ śrī ‖*)
+
+॥ श्री महागणाधिपतये नमः ॥ (*‖ śrī mahāgaṇādhipataye namaḥ ‖*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+The Ṛgveda-saṃhitā with Sāyaṇa's bhāṣya. Now the seventh chapter in the sixth Aṣṭaka: the seventh chapter in the sixth Aṣṭaka. The ninety-eighth sūkta in the eighth Maṇḍala.
+
+## Sūkta 98 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीगणेशाय नमः ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरम् ॥
+> अथ षष्ठस्य सप्तमोऽध्याय आरभ्यते । तत्र ' इंद्राय ' इति द्वादशर्चं पंचमं सूक्तमांगिरसस्य नृमेधाख्यस्यार्षमैंद्रम् । सप्तमी दशम्येकादश्यौ च तिस्रः ककुभो मध्यमपादस्य द्वादशाक्षरत्वात् ।  ‘ मध्यमश्चेत्ककुप् ' ( अनु. ५. ३ ) इति हि तल्लक्षणम् । नवमीद्वादश्यौ पुरउष्णिहौ। प्रथमपादस्य द्वादशाक्षरत्वात्। ' आद्यश्चेत् पुरउष्णिक् ' ( अनु० ५. २ ) इति हि तल्लक्षणम् । शिष्टा उष्णिहः । तथा चानुक्रम्यते - ‘इंद्राय द्वादश नृमेध औष्णिहं सप्तम्युपांत्ये च ककुभोऽंत्यानवम्यौ पुरउष्णिहौ ' इति । महाव्रते औष्णिहतृचाशीताविदं सूक्तम् । तथैव पंचमारण्यके सूत्रितम् - ‘इंद्राय साम गायत सखाय आ शिषामहि' (ऐ. आ. ५. २.५ ) इति । आभिप्लविकेषूक्थ्येषु तृतीयसवने ब्राह्मणाच्छंसिनः  ‘ इंद्राय साम गायत' इति वैकल्पिकः स्तोत्रियस्तृचः । सूत्रितं च- ‘ इंद्राय सोम गायत सखाय आ शिषामहि' (आश्व. श्रौ. ७. ८) इति । पूर्वोक्तस्यैव ब्राह्मणाच्छंसिन आभिप्लविकेषूक्थ्येषु ‘एंद्र नो गधि' इति वैकल्पिकः स्तोत्रियः । सूत्रितं च - ‘ एंद्र नो गध्येदु मध्वो मदिंतरम्' (आश्व. श्रौ. ७. ८) इति । उक्थ्ये तृतीयसवनेऽच्छावाकस्य अधा हींद्र' इति स्तोत्रियस्तृचः । सूत्रितं च -- ‘अधा हींद्र गिर्वण इयं त इंद्र गिर्वणः ' ( आश्व. श्रौ. ६. १ ) इति । पूर्वोक्त एव शस्त्रे  ‘ त्वं न इंद्रा भर ' इति तृचो वैकल्पिकः स्तोत्रियः । सूत्रितं च - ‘ त्वं न इंद्रा भर वयमु त्वामपूर्व्य यो न इदमिदं पुरा' (आश्व. श्रौ. ७. ८) इति ।
+
+##### Gist of the bhāṣya
+
+After the salutation to Gaṇeśa and the verse in which Sāyaṇa bows to Vidyātīrtha Maheśvara, whose breath is the Vedas and who made the whole world out of the Vedas, he says: now the seventh chapter of the sixth Aṣṭaka begins. In it, the fifth sūkta, इंद्राय (*iṃdrāya*), of twelve Ṛks, has as seer Nṛmedha of the Āṅgirasa line, and Indra as deity. The seventh, tenth and eleventh Ṛks are Kakubh, because the middle pāda has twelve syllables, for the definition is मध्यमश्चेत्ककुप् (*madhyamaścetkakup*) (Anu. 5. 3). The ninth and twelfth are Puraūṣṇih, because the first pāda has twelve syllables; the definition is आद्यश्चेत् पुरउष्णिक् (*ādyaścet purauṣṇik*) (Anu. 5. 2). The rest are Uṣṇih. So the Anukramaṇī says: इंद्राय द्वादश नृमेध औष्णिहं सप्तम्युपांत्ये च ककुभोऽंत्यानवम्यौ पुरउष्णिहौ (*iṃdrāya dvādaśa nṛmedha auṣṇihaṃ saptamyupāṃtye ca kakubho 'ṃtyānavamyau purauṣṇihau*). In the Mahāvrata this sūkta serves for the Auṣṇiha tṛca; so it is laid down in the fifth Āraṇyaka: इंद्राय साम गायत सखाय आ शिषामहि (*iṃdrāya sāma gāyata sakhāya ā śiṣāmahi*) (Ai. Ā. 5. 2. 5). In the Ābhiplavika Ukthya rites, at the third pressing, इंद्राय साम गायत (*iṃdrāya sāma gāyata*) is the optional Stotriya tṛca of the Brāhmaṇācchaṃsin, and the sūtra says इंद्राय सोम गायत सखाय आ शिषामहि (*iṃdrāya soma gāyata sakhāya ā śiṣāmahi*) (Āśv. Śrau. 7. 8). In the same rites the optional Stotriya of the same Brāhmaṇācchaṃsin is एंद्र नो गधि (*eṃdra no gadhi*), and the sūtra says एंद्र नो गध्येदु मध्वो मदिंतरम् (*eṃdra no gadhyedu madhvo madiṃtaram*) (Āśv. Śrau. 7. 8). In the Ukthya, at the third pressing, the Stotriya tṛca of the Acchāvāka is अधा हींद्र (*adhā hīṃdra*), and the sūtra says अधा हींद्र गिर्वण इयं त इंद्र गिर्वणः (*adhā hīṃdra girvaṇa iyaṃ ta iṃdra girvaṇaḥ*) (Āśv. Śrau. 6. 1). In the same Śastra the optional Stotriya is the tṛca त्वं न इंद्रा भर (*tvaṃ na iṃdrā bhara*), and the sūtra says त्वं न इंद्रा भर वयमु त्वामपूर्व्य यो न इदमिदं पुरा (*tvaṃ na iṃdrā bhara vayamu tvāmapūrvya yo na idamidaṃ purā*) (Āśv. Śrau. 7. 8).
+
+### Printed p. 476
+
+Anuvāda: Now the commentary on the seventh chapter of the sixth Aṣṭaka is begun. At the beginning of this chapter stands the sūkta इंद्राय सामु गायत (*iṃdrāya sāmu gāyata*). This is the fifth sūkta in the tenth Anuvāka of the eighth Maṇḍala. It has twelve Ṛks. The seer of this sūkta is Nṛmedha Aṅgirasa; the deity is Indra. Since the middle pāda of the seventh, tenth and eleventh Ṛks of this sūkta has twelve syllables, these three Ṛks have the Kakubh metre. Its definition is मध्यमश्चेत्ककुप् (*madhyamaścetkakup*) (Anu. 5-2). The ninth and twelfth Ṛks are in the Puraūṣṇih metre. Since the first pādas of these Ṛks have twelve syllables, according to the Anukramaṇī sentence आद्यश्चेत्पुर उष्णिक् (*ādyaścetpura uṣṇik*) (Anu. 5-2) these Ṛks are named Puraūṣṇih. The remaining Ṛks of this sūkta are in the Uṣṇih metre. In the Anukramaṇī it is said: इंद्राय द्वादश नृमेध औष्णिहं सप्तम्युपांत्ये च ककुभोऽन्त्यानवम्यौ पुरउष्णिहौ (*iṃdrāya dvādaśa nṛmedha auṣṇihaṃ saptamyupāṃtye ca kakubho 'ntyānavamyau purauṣṇihau*). That this sūkta is applied in the Mahāvrata rite to the Ṛks in the Uṣṇih metre is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence इंद्राय सामुगायत सखायु आ शिषामहि (*iṃdrāya sāmugāyata sakhāyu ā śiṣāmahi*) (Ai. Ā. 5-2-5). In the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, among the Śastra mantras recited by the priest called Brāhmaṇācchaṃsin, the tṛca इंद्राय सामु गायत (*iṃdrāya sāmu gāyata*) is to be recited as the optional Stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्राय सामुगायतॆ सखायु आ शिषामहि (*iṃdrāya sāmugāyatè sakhāyu ā śiṣāmahi*) (Ā. 7 8). In the Ukthya sacrifices connected with the Abhiplava mentioned before, the priest called Brāhmaṇācchaṃsin is to recite the Ṛks 4-6 of this sūkta, beginning इंद्र नो गधि (*iṃdra no gadhi*), as the optional Stotriya tṛca; this is by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्र नो गध्येदु माध्वो मुदीतरं (*iṃdra no gadhyedu mādhvo mudītaraṃ*), the sūtra
+
 ---
 
-**Progress note:** Done through printed p. 469. Sūkta 97 Ṛk 8 end to Ṛk 13 Saṃhitā
+**Progress note:** Done through printed p. 476. Vol 25 pp. 470-476: Rigveda 8.97.13-15, end of 6th adhyaya, start of 8.98 introduction
