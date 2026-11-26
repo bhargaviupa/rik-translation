@@ -34073,6 +34073,174 @@ Brahmā gave the daughter of the god Savitṛ, named Sūryā, in marriage to Kin
 
 Although the word अश्विनौ (*aśvinau*) means those who have horses (aśva), it is nowhere said that the name came to them because they were horsemen. The horses that draw their chariot are said to be horses (Ṛ. Saṃ. 1-117-2), birds (6-63-6), swans (4-45-4), eagles (1-118-4) and horses of the form of falcons (8.5.7); but their chief vehicle is, as Yāska says, the ass: for the Aśvin gods the asses are the vehicles (Ni. 2-28).
 
+### Printed p. 936
+
+कदा योगो वाजिनो रासभस्य येन यज्ञं नासत्योपयाथः । (*kadā yogo vājino rāsabhasya yena yajñaṃ nāsatyopayāthaḥ |*)
+
+(Ṛ. Saṃ. 1-34-9)
+
+तद्रासभो नासत्या सहस्रमाजा यमस्य प्रधने जिगाय । (*tadrāsabho nāsatyā sahasramājā yamasya pradhane jigāya |*)
+
+(Ṛ. Saṃ. 1-116-2)
+
+In these and other ṛks it is clearly said that the rāsabha (ass) is the vehicle of the Aśvin gods. Those who perform sacrifices always invoke them in the morning hours. They have a connection with the daughter of Sūrya; Sūryā herself chose them (Ṛ. Saṃ. 7-69-4); both of them are her husbands (4-43-6); Sūryā mounted their chariot (5-73-5; 8-8-10); the daughter of Sūrya mounts their chariot (Ṛ. Saṃ. 1-34-5; 1-116-17; 1-118-5; 6-63-5); they regard Sūryā as their own (7 68-3), and she goes with them in the chariot (8-29-8): such are the descriptions.
+
+There are many narratives showing that they help people in distress. These have been explained at length in their several places. Here we have explained only a few of the main ones.
+
+जुजुरुषो नासत्योत वन्रिं प्रामुंचतं द्रापिमिव च्यवानात् । (*jujuruṣo nāsatyota vanriṃ prāmuṃcataṃ drāpimiva cyavānāt |*)
+प्रातिरतं जहितस्यायुर्दस्रादित्पतिमकृणुतं कनीनां ॥ (*prātirataṃ jahitasyāyurdasrāditpatimakṛṇutaṃ kanīnāṃ ‖*)
+
+(Ṛ. Saṃ. 1-116-10)
+
+The seer named Cyavana had become very old, his body was feeble and he had no strength, and his people abandoned him. When this seer prayed to the Aśvin gods, they came, removed his feeble body, made him a youth and made him dear to his wife, and they increased his life; so it is said. The same matter is told in:
+
+युवं च्यवानमश्विना जरंतं पुनर्युवानं चक्रथुः शचीभिः । (*yuvaṃ cyavānamaśvinā jaraṃtaṃ punaryuvānaṃ cakrathuḥ śacībhiḥ |*)
+
+(Ṛ. Saṃ. 1-117-13)
+
+निष्पाग्र्यं सारयथः समुद्रात्सुनश्चानां चक्रधुर्युवानं । (*niṣpāgryaṃ sārayathaḥ samudrātsunaścānāṃ cakradhuryuvānaṃ |*)
+
+(Ṛ. Saṃ. 1-118-6)
+
+प्र च्यवानाज्जु जुरुषो वन्त्रिमत्कं न मुंचथः । (*pra cyavānājju juruṣo vantrimatkaṃ na muṃcathaḥ |*)
+युवा यदी कृथः पुनरा काममृण्वे वध्वः ॥ (*yuvā yadī kṛthaḥ punarā kāmamṛṇve vadhvaḥ ‖*)
+
+(Ṛ. Saṃ. 5-74-5)
+
+### Printed p. 937
+
+उत त्यद्वां जुरते अश्विना भूच्च्यवानाय प्रतीत्यं हविर्दे । (*uta tyadvāṃ jurate aśvinā bhūccyavānāya pratītyaṃ havirde |*)
+
+(Ṛ. Saṃ. 7-68-6)
+
+युवं च्यवानं जरसोऽमुमुक्तं नि पेदव ऊहथुराशुमश्वं । (*yuvaṃ cyavānaṃ jaraso 'mumuktaṃ ni pedava ūhathurāśumaśvaṃ |*)
+
+(Ṛ. Saṃ. 7-21-5)
+
+युवं च्यवानं सनयं यथा रथं पुनर्युवानं चिरथाय तक्षथुः । (*yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ cirathāya takṣathuḥ |*)
+
+(Ṛ. Saṃ. 10-39-4)
+
+In these ṛks also there is a description of how the aged seer Cyavana was made a youth. In the Śatapatha-brāhmaṇa too there is a long story on this subject. Likewise, in the ṛk
+
+युवं विप्रस्य जरणामुपेयुषः पुनः कलेरकृणुतं युवद्वयः । (*yuvaṃ viprasya jaraṇāmupeyuṣaḥ punaḥ kalerakṛṇutaṃ yuvadvayaḥ |*)
+
+(Ṛ. Saṃ. 10-39-8)
+
+there is mention of how the old age of one called Kali was removed and he was made a youth.
+
+याभिर्वम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तजानिं दुवस्यथ । (*yābhirvamraṃ vipipānamupastutaṃ kaliṃ yābhirvittajāniṃ duvasyatha |*)
+
+(Ṛ. Saṃ. 1 1125) **NOTE**
+
+It is said that when the Kali mentioned above took a wife and was married, they gave him their help and did him many services.
+
+For the young women who were the wives of Vimada they bestowed a chariot (1-112-19), or a wife on him (1-117-1). She appears to have been the wife of Puramitra (Ṛ. Saṃ. 1-117-20; 10-39-7), and her name was Kamadyu (10-65-12). To Viśvaka, the son of Kṛṣṇa, they brought back and handed over his son who had been lost (Ṛ. Saṃ. 1-116-23; 1-117-7; 10-65-12). In the ṛks 1 to 3 of Ṛ. Saṃ. 8-75 the names of Viśvaka and Viṣṇāpu are indicated.
+
+The story of Bhujyu is told again and again. Bhujyu was the son of the king Tugra. While he was making a sea voyage he was sinking, and in the midst of the waves Bhujyu was floating, holding on to a piece of wood. Then he took refuge with the Aśvin gods. In a ship with a hundred oars, on the great ocean of unknown depth, the Aśvin gods seated him and took him home. In a ship that seemed to fly in the sky and was without cracks, or in four boats with wings, or in three flying chariots with a hundred feet and six horses, or in their chariot which has the speed of thought, with the help of their horses that fly swift, they brought Bhujyu seated with them and
+### Printed p. 938
+delivered him to his house. (1-116-3, 4, 5; 1-117-14, 15; 1-182-5, 6, 7; 7-68-7; 1-112-6, 20; 1-118-6; 1-119-4; 1-158-3; 6-62-6; 7-69-7; 8-5-22; 10-39-4; 10-47-7; 10-65-12; 10-143-5)
+
+When the woman Viśvālā lost a leg in battle and prayed to the Aśvin gods, they came, provided her with an iron leg and saved her; this is said in the ṛks Ṛ. Saṃ. 1-112-10; 1-116-15; 1-117-11; 1-118-8; 10 39-8.
+
+When the rāsabha, the vehicle of the Aśvin gods, was in the form of a wolf, one called Ṛjrāśva cut up a hundred sheep from the flock of sheep he was tending and gave them to that wolf as food. At this his father became angry and had Ṛjrāśva's eyes torn out and made him blind. Then the wolf praised the Aśvin gods. They were pleased and gave Ṛjrāśva eyes. (Ṛ. Saṃ. 1-116-16; 1-117.17, 18) In the ṛk Ṛ. Saṃ. 1-100-17 there is mention of Ṛjrāśva praising Indra.
+
+One called Pārāvṛja was blind and lame, and he had not been admitted into his caste. The Aśvin gods gave him the sight to see and the strength to walk; that is, they bestowed eyes and legs (Ṛ. Saṃ. 1-112-8). The name of Pārāvṛja is indicated, where mention is made of Indra, in the ṛks Ṛ. Sa. 2-13-12; 2-15-7. **NOTE**
+
+The seer Rebha had been bound hand and foot by wicked men and thrown into a well; for nine days and ten nights he lay there, in the state of one about to die. The Aśvin gods lifted him out of the well, as one lifts soma juice with a ladle, and gave him life. (Ṛ. Saṃ. 1-112-5; 1-116-24; 1-117-12; 1-117-4; 1-118-6; 1-119-6; 10-39-9).
+
+One called Vandana likewise was carried off by wicked men and thrown into a dark place (a pit); the Aśvin gods saved him from the danger and brought him to the light. (Ṛ. Saṃ. 1-112-5; 1-116-11; 1-117-5; 1-118-6; 10-39-8; 1-119-6, 7).
+
+To Kakṣīvat of the Pajra line they gave boons as he wished and made flow, as one pours through a sieve, hundreds of jars of surā (liquor) or honey from the hoof of a horse. (Ṛ. Saṃ. 1-116-7; 1-117-6).
+
+### Printed p. 939
+
+The seer called Atri, cast into a great chasm shrouded in darkness and burning with fire, through hatred and envy, was in distress; when he prayed to the Aśvin gods they came, quenched the fire with frost, comforted him by giving food and the like, and delivered him from that state. (1-112-3; 1-116-8; 1-117-3; 1-118-7; 1-119-6; 5-78-4, 5, 6) 7-79-5; 8.62-3, 7, 8, 9; 10-39-9) In the ṛk Ṛ. Saṃ. 10-80-3 it is indicated that Agni protected Atri.
+
+Vadhrimatī, being without children and barren, prayed to the Aśvin gods, and they granted her a son named Hiraṇyahasta. (Ṛ. Saṃ. 1-116-13; 1-117-24; 6-62-7; 10-39-7).
+
+Ghoṣā, living in her father's house itself and unmarried, was granted by the Aśvin gods, according to her prayer, a suitable husband. (Ṛ. Saṃ. 1-11-7; 10-39-3, 6; 10-4-5) **NOTE** In the commentary on Ṛ. Saṃ. 1-117-7 Sāyaṇa has said that this woman Ghoṣā was suffering from leprosy and that the Aśvin gods cured that disease. In the tenth maṇḍala there are two sūktas seen by this Ghoṣā. (10-39, 40)
+
+When the cow of one called Śayu had become old and gave no calf, they brought about in her the power of giving milk. (Ṛ. Saṃ. 1-116-22; 1-117.20; 1-118-8; 1-119-6; 10-39-13)
+
+It is said that the Aśvin gods gave to the king called Pedu a white horse, very strong like Indra, and that with it he conquered his enemies and obtained very many goods, vehicles and the like. (Ṛ. Saṃ. 1-116-6; 1-117-9; 1-118-9; 1-119-10; 7- 71-5; 10-39-10)
+
+Besides this, it is said that, as set out in the sūktas 3, 116, 117, 118, 119 of the first maṇḍala, these Aśvin gods, besides helping many men, have also done good to animals, birds and the like. In this connection it is said in the ṛks Ṛ. Saṃ. 1-116-14; 1-117-16; 1-118 8; 10-39-13 that when a wolf was carrying off a sparrow in its mouth, the sparrow prayed, and they released it from the wolf's mouth and saved it. Besides these matters there are many more matters concerning the Aśvin gods. They will be explained in their several contexts.
+
+### Printed p. 940
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो वामिति चतुर्दशर्चं दशमं सूक्तं । कक्षीवतो दुहिता घोषा नाम
+> ब्रह्मवादि नृषिः । अंत्या त्रिष्टुप् । शिष्टा जगत्यः । अश्विनौ देवता । तथा चानुक्रांतं । यो वां षळूना काक्षीवती घोषाश्विनं हि त्रिष्टुबंतमिति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छंदसीदमादीनि त्रीणि सूक्तानि । सूत्रितं च यो वां
+> परिज्मेति त्रीणि त्रिश्चिन्नो आद्य । आ. ४-१५ । इति ।
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यो वां (*yo vāṃ*) is the tenth sūkta, of fourteen ṛks. Its seer is the woman named Ghoṣā, daughter of Kakṣīvat, a brahmavādinī **NOTE**. The last ṛk is a triṣṭubh; the rest are jagatīs. The deity is the Aśvins. The Anukramaṇī says accordingly: यो वां षळूना काक्षीवती घोषाश्विनं हि त्रिष्टुबंतं (*yo vāṃ ṣaḷūnā kākṣīvatī ghoṣāśvinaṃ hi triṣṭubaṃtaṃ*). In the Prātaranuvāka and in the Aśvina-śastra, in the jagatī metre, this and the following two sūktas are used; the sūtra says: यो वां परिज्मेति त्रीणि त्रिश्चिन्नो आद्य (*yo vāṃ parijmeti trīṇi triścinno ādya*) (Ā. 4-15).
+
+Anuvāda: This sūkta, यो वां (*yo vāṃ*), is the tenth sūkta in the third anuvāka. It has fourteen ṛks. The seer of this sūkta is the woman Ghoṣā, a brahmavādinī, the daughter of the seer Kakṣīvān; the deity is the Aśvin gods; the last ṛk of this sūkta is in triṣṭubh metre. The remaining ṛks are in jagatī metre. In the Anukramaṇī it is said: यो वां षळूना काक्षीवती घोषाश्विनं हि त्रिष्टुबंतं (*yo vāṃ ṣaḷūnā kākṣīvatī ghoṣāśvinaṃ hi triṣṭubaṃtaṃ*). The application of this sūkta and of the next two sūktas, for the ṛks in jagatī metre in the Prātaranuvāka and Aśvina-śastra mantras, is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, यो वां परिज्येति त्रीणि त्रिश्चिन्नो अद्य (*yo vāṃ parijyeti trīṇi triścinno adya*) (A. 4-15). **NOTE**
+
+- Sūkta 39
+- Maṇḍala 10, Anuvāka 3, Sūkta 39
+- Aṣṭaka 7, Adhyāya 8, Varga 15, 16, 17
+- Number of ṛks in the sūkta: 14
+- Ṛṣi: Kākṣīvatī Ghoṣā
+- Devatā: Āśvinau
+- Chandas: 1-13 Jagatī; 14 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वां॒ परि॑ज्मा सु॒वृद॑श्विना॒ रथो॑ दो॒षामु॒षासो॒ हव्यो॑  ॒॑
+> ह॒विष्म॑ता ।  
+> श॒श्व॒त्त॒मास॒स्तमु॑ वामि॒दं व॒यं पि॒तुर्न नानु॑ सु॒हवं॑ हवामहे ॥ १ ॥
+
+### Printed p. 941
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वां । परिज्मा । सुवृत् । अश्विना । रथः । दोषां । उषसः । हव्यः । हविष्मता ।  
+> शश्वत्तमासः । तं । ऊं इति । नां । इदं । वयं । पितुः । न । नाम । सुहवं ।  
+> हवामहे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् वां युवयोः परिज्मा परितो गंता सुवृत्सुष्टु वर्तमानो
+> यो रथो दोषां रात्रिमुषसश्च । अहोरात्रयोरित्यर्थः । हविष्मता यजमानेन
+> हव्यो ह्वातव्यो वां युवयोः स्वभूतं सुहवं शोभनाह्वानं तमु तमेव
+> रथं शश्वत्तमासोऽतिशयेन चिरंतना वयं पितुर्न यथा पितुरिदं नाम तथा
+> हवामहे । ह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, your chariot, which goes around on every side and turns well, is to be invoked by the sacrificer who has the oblation, in the night and at the dawns, that is, by day and night. That chariot of yours, well worthy of invocation, we, the most ancient, invoke, as one calls the name of a father.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- परिज्मा (*parijmā*)—that which travels all around
+- सुवृत् (*suvṛt*)—that which has an excellent state
+- वां (*vāṃ*)—belonging to you
+- यः रथः (*yaḥ rathaḥ*)—which chariot
+- दोषांउषसः (*doṣāṃuṣasaḥ*)—in the nights and all the days
+- हविष्मता (*haviṣmatā*)—by the sacrificer who has the oblation
+- हव्यः (*havyaḥ*)—is such as is invoked
+- वां (*vāṃ*)—belonging to you
+- सुहवं (*suhavaṃ*)—that which is worthy of good invocation
+- तमु इदं (*tamu idaṃ*)—that same chariot
+- शश्वत्तमासः (*śaśvattamāsaḥ*)—we, men of old
+- पितुः नाम न (*pituḥ nāma na*)—as one calls with reverence the name of a venerable father
+- हवामहे (*havāmahe*)—we pray and call
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, that chariot of yours which travels everywhere, has an excellent state, and is invoked by the sacrificer in day and night, that same chariot of yours, worthy of good invocation, we, men of old, pray and call, as one calls with reverence the name of a venerable father.
+
+##### English translation
+We from very ancient times invoke, Ashwins, by a name as venerable as that of a father, this your glorious chariot, which travels all around, which turns well, and which is to be invoked morning and evening by the worshipper.
+
 ---
 
-**Progress note:** Done through printed p. 935. Sūkta 38 Ṛk 5 end; Sūkta 39 introduction (Ghoṣā, Aśvins) pp. 930-935
+**Progress note:** Done through printed p. 941. Sūkta 39 introduction (Aśvins' deeds), Sūkta 39 Ṛk 1, pp. 936-941
