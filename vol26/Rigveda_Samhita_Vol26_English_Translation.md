@@ -14082,6 +14082,231 @@ Maṇḍala 9; Anuvāka 4; Sūkta 68; Aṣṭaka 7, Adhyāya 2, Varga 19, 20. Nu
 
 Sāyaṇa explains that the Soma drops (इंदवः (*iṃdavaḥ*)), endowed with intoxicating juice, flow towards the shining god, that is, Indra in the form of Soma, and drip into the cups (grahas) and the like. As an illustration he gives गाव आ न धेनवः (*gāva ā na dhenavaḥ*): just as milk-giving, satisfying cows stream their milk towards the calf, so do the Soma drops. Further, the cows (उस्रियाः (*usriyāḥ*) is a name for cows), seated on the sacred grass and lowing with sounds such as the cry of the cow, bear with their own milk-holding udders the Soma juice, which flows all around and is pure, being turned into milk, for Indra; that is, they hold it for Indra's sake.
 
+### Printed p. 376
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धेनवः (*dhenavaḥ*)—milk-giving
+- गावः न (*gāvaḥ na*)—as cows run lovingly to their calf
+- मधुमंतः (*madhumaṃtaḥ*)—those endowed with sweet juice
+- इंदवः (*iṃdavaḥ*)—the flowing Soma juices
+- देवं अच्छ (*devaṃ accha*)—towards Indra, who is of divine nature
+- प्र आसिष्यदंत (*pra āsiṣyadaṃta*)—flow
+- बर्हिषदः (*barhiṣadaḥ*)—those seated on the seat of the assembly **NOTE**
+- वचनावंतः (*vacanāvaṃtaḥ*)—those that make sound
+- उस्रियाः (*usriyāḥ*)—the milk-giving cows
+- ऊधभिः (*ūdhabhiḥ*)—with their udders
+- परिसुतं (*parisutaṃ*)—that which flows **NOTE**
+- निर्णिजं (*nirṇijaṃ*)—the pure Soma juice
+- धिरे (*dhire*)—have borne
+
+##### भावार्थ (Bhāvārtha)
+
+As milk-giving cows run lovingly to their calf, the Soma juices, endowed with sweet juice and flowing, flow towards Indra, who is of divine nature. The cows, seated on the seat of darbha grass, making sound and giving milk, bear in their udders the flowing, pure Soma juice in the form of milk.
+
+##### English translation
+The exhilarating Soma-juices flow towards the shining (Indra), as milch cow (hasten to their calves) the lowing cows sitting on the barhis grass hold in their udders the pure (juice) welling up.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रोरु॑वद॒भि पूर्वा॑ अचिक्रददुपा॒रुहः॑ श्र॒थय॑न्स्वादते॒ हरिः॑ ।  
+> ति॒रः प॒वित्रं॑ परि॒यन्नु॒रु ज्रयो॒ नि शर्या॑णि दधते दे॒व आ वर॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रोरुवत् । अभि । पूर्वाः । अचिक्रदत् । उपऽआरुहः । श्रथयन् । स्वादते । हरिः ।  
+> तिरः । पवित्रम् । परिऽयन् । उरु । ज्रयः । नि । शर्याणि । दधते । देवः । आ । वरम् ॥ २ ॥
+
+### Printed p. 377
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रोरुवत् कलशादिकं प्रति अत्यंतं शब्दं कुर्वन् सः सोमः पूर्वाः मुख्याः स्तोतॄणां स्तुतीः अभि अचिक्रदत् अभिमुखमध्वनयत् । स्तुतयः साधीयस्य इति प्रतिध्वनिमंगीकारमकार्षीदित्यर्थः । किंच हरिः हरितवर्णः उपारुहः । रोहतेस्ताच्छीलिकः क्विप् । उपारोहणशीला ऊर्ध्वं प्रादुर्भवनशीला ओषधीः श्रथयन् अग्रे विश्लेषयन् स्वादते स्वादूकरोति । ताः फलिनीः कुर्वन स्वादुयुक्ता विदधातीत्यर्थः । तथा पवित्रम् अविवालात्मकं दशापवित्रं तिरः तिरस्कृत्य पात्राणि प्रत्यात्मनः क्षरणकाले पवित्रं व्यवधायकं कृत्वा परियन् परितो गच्छन् सोमः उरु महांतं ज्रयः वेगं करोति । ततः शर्याणि । ' शृ हिंसायाम् ' । हिंसितव्यानि यद्वा शरेण हंतव्यानि रक्षांसि नि दधते निक्षिपति न्यक्करोति । हिनस्तीति यावत् । पश्चात् देवः दीप्यमानः सोमः वरं वरणीयं धनं सोमदातृभ्यो यजमानेभ्यः आ दधते आधारयति । प्रयच्छतीत्यर्थः । दधातेः लेट्यडागमे ‘ घोर्लोपो लेटि वा ' इत्याकारलोपः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that Soma, making a great sound towards the vessels and the like (रोरुवत् (*roruvat*)), has made the principal praises of the singers resound (अभि अचिक्रदत् (*abhi acikradat*)); that is, he has given an echo as his assent (स्तुतयः साधीयस्य (*stutayaḥ sādhīyasya*)). **NOTE** Further, Hari, the green-hued one, loosens at their tip the herbs that grow upward and sweetens them; that is, he makes them fruitful and full of sweetness. Likewise Soma, going around and crossing the ten-fold filter (दशापवित्रं (*daśāpavitraṃ*)), which is made of sheep's wool, having made the filter an intervening screen at the time of flowing into the vessels, acquires great speed. Then he casts down (destroys) the things to be injured, or the demons to be slain with an arrow. Afterwards the shining Soma bestows excellent, desirable wealth upon the sacrificers who offer Soma; that is, he gives it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the well-known Soma
+- रोरुवत् (*roruvat*)—making a sound
+- पूर्वाः (*pūrvāḥ*)—the principal praises
+- अभ्यचिक्रदत् (*abhyacikradat*)—makes them resound as an echo
+- हरिः (*hariḥ*)—the green-hued Soma
+- उपारुहः (*upāruhaḥ*)—the herbs that grow upward
+- श्रथयन् (*śrathayan*)—separating
+- स्वादते (*svādate*)—makes them tasty
+- पवित्रं (*pavitraṃ*)—the ten-fold filter
+- तिरः (*tiraḥ*)—crossing
+- परियन् (*pariyan*)—the flowing Soma
+- उरु (*uru*)—great
+- ज्रयः (*jrayaḥ*)—attains speed
+- नि दधते (*ni dadhate*)—destroys the demons and others
+- देवः (*devaḥ*)—the shining Soma
+- वरं (*varaṃ*)—excellent wealth
+- आ दधते (*ā dadhate*)—provides to the sacrificers and others
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Soma, making a sound, makes the principal praises resound as an echo. The green-hued Soma, separating the herbs that grow upward, makes them tasty. The Soma that flows crossing the ten-fold filter attains great speed. He destroys the demons and others. The shining Soma provides excellent wealth to the sacrificers and others.
+
+##### English translation
+He with a noise re-echoes the principal (praises) separating the growing herbs, the green-tinted (Soma, sweetens them ; passing through the filter, (he
+
+### Printed p. 378
+
+exerts) great speed, he annihilates the Rakhasas, the shining (Soma) bestows wealth (upon the worshippers.)
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि यो म॒मे य॒म्या॑ संय॒ती मदः॑ साकं॒वृधा॒ पय॑सा पिन्व॒दक्षि॑ता ।  
+> म॒ही अ॑पा॒रे रज॑सी वि॒वेवि॑ददभि॒व्रज॒न्नक्षि॑तं॒ पाज॒ आ द॑दे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । यः । ममे । यम्या । संयती इति सम्ऽयती । मदः । साकम्ऽवृधा । पयसा । पिन्वत् । अक्षिता ।  
+> मही इति । अपारे इति । रजसी इति । विऽवेविदत् । अभिऽव्रजन् । अक्षितम् । पाजः । आ । ददे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः मदः । माद्यत्यनेनेति मदः सोमरसः । यम्या युगलभूते संयती परस्परं संगच्छमाने द्यावापृथिव्यौ वि ममे विशेषेण निर्मितवान् ततः ते साकंवृधा सहैव वर्धनशीले तथा अक्षिता अक्षीणे सामर्थ्यवत्यौ यथा भविष्यतः तथा स सोमः पयसा पयोरूपेण स्वीयरसेन पिन्वत् असिंचत् । अवर्धयदिति यावत् । किंच मही महत्यौ अत एव अपारे पर्यंतरहिते रजसी । द्यावापृथिवीनामैतत् । ते द्यावापृथिव्यौ विवेविदत् । ‘ विद ज्ञाने ' । यङ्लुकि शतरि रूपम् । अभ्यासस्वरः । इयं पृथिवीयं द्यौरिति सर्वेषां विविच्य तेजसा प्रज्ञापयन् अभिव्रजन् अभितः सर्वतो गच्छन् स सोमः अक्षितम् अक्षीणमविनश्वरं पाजः बलम् आ ददे स्वीकृतवान् । अत्यंतं बलवानभवदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that मदः (*madaḥ*) is the Soma juice, that by which one is intoxicated. That Soma fashioned in a special way the twin heaven and earth (यम्या युगलभूते (*yamyā yugalabhūte*)), which meet each other. Then, so that these two would grow together and be imperishable and capable, that Soma nourished them (पिन्वत् (*pinvat*)) with his own juice in the form of milk; that is, he made them grow. Further, these two, great and therefore boundless (रजसी (*rajasī*) is a name for heaven and earth), he made known (विवेविदत् (*vivevidat*)): having discriminated them for all, "this is earth, this is heaven", he made them known by his radiance. Going all around, that Soma took imperishable, indestructible strength; that is, he became exceedingly strong.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदः (*madaḥ*)—the exhilarating
+- यः (*yaḥ*)—which Soma-deva
+- यम्या (*yamyā*)—those that exist as a pair (as two)
+- संयती (*saṃyatī*)—and are united, the heaven and earth
+- वि ममे (*vi mame*)—created; that same Soma
+- साकंवृधा (*sākaṃvṛdhā*)—so that both grow together
+
+### Printed p. 379
+
+- अक्षिता (*akṣitā*)—so that they become imperishable
+- पयसा (*payasā*)—with his juice
+- पिन्वत् (*pinvat*)—nourished
+- मही (*mahī*)—of great form
+- अपारे (*apāre*)—and endless
+- रजसी (*rajasī*)—heaven and earth
+- विवेविदत् (*vivevidat*)—separated and established, so that all may know them
+- अभिव्रजन् (*abhivrajan*)—moving around
+- अक्षितं (*akṣitaṃ*)—imperishable
+- पाजः (*pājaḥ*)—strength
+- आ ददे (*ā dade*)—obtained
+
+##### भावार्थ (Bhāvārtha)
+
+The exhilarating Soma-deva who created the heaven and earth, which are two and yet united, nourished them with his own juice so that both would grow together and be imperishable. He separated and established the heaven and earth, great in form and endless, so that all may know them. Moving all around, he obtained imperishable strength.
+
+##### English translation
+The exhilarating (Soma) who constructed the twin united (heaven and earth) does by means of his juice maintain them growing together, imperisha-ble: he has distinguished these two great unbounded worlds. wandering everywhere, he has assumed imperishable strength. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मा॒तरा॑ वि॒चर॑न्वा॒जय॑न्न॒पः प्र मेधि॑रः स्व॒धया॑ पिन्वते प॒दम् ।  
+> अं॒शुर्यवे॑न पिपिशे य॒तो नृभिः॒ सं जा॒मिभि॒र्नस॑ते॒ रक्ष॑ते॒ शिरः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मातरा । विऽचरन् । वाजयन् । अपः । प्र । मेधिरः । स्वधया । पिन्वते । पदम् ।  
+> अंशुः । यवेन । पिपिशे । यतः । नृऽभिः । सम् । जामिऽभिः । नसते । रक्षते । शिरः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मेधिरः । 'मेधारथाभ्यामिरनिरचौ' (पा. सू. ५.२.१०९.३) इतरन्प्रत्ययो मत्वर्थीयः । मेधावान् प्राज्ञः सः सोमः मातरा मातरौ जगतो निर्मात्र्यौ द्यावापृथिव्यौ विचरन् अंतरेणात्यंतं चरन् तथा अपः अंतरिक्षस्थितान्युदकानि वाजयन् प्रेरयन् । वजेर्ण्यंतस्य शतरि रूपम् । तादृशः स्वधया सक्तुलक्षणेनान्नेन सह पदं स्वस्थानमुत्तरवेदिरूपं प्र पिन्वते प्रकर्षेणाप्याययति । ततः नृभिः कर्मनेतृभिर्ऋत्विग्भिः यतः संयतः अंशुः सोमः यवेन पिपिशे । ‘ पिश अवयवे'। अवयवत्वेन कृतः । मिश्रित इत्यर्थः । सोमस्तु यवसक्तुभिः श्रीयते खलु। सोऽयं जामिभिः एकस्मात्पाणेरुत्पन्नाभिरंगुलीभिः सं नसते संगच्छते च । शिरः शीर्णं भूतजातं रक्षते च । स्वीयरसेन रक्षति पोषयति । नसतिर्गतिकर्मा । ‘चादिलोपे विभाषा' इति न निघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the wise Soma, going about between the two mothers, that is, heaven and earth, the makers of the world, and driving forth the waters standing in the atmosphere, nourishes (प्र पिन्वते (*pra pinvate*)) with svadhā, that is, with food in the form of barley meal, his own place, which is the northern altar. Then the Soma, controlled by the priests, the leaders of the rite, is mixed with barley; Soma is indeed mixed with barley meal. This same Soma is joined with the fingers (जामिभिः (*jāmibhiḥ*)), those born from one hand. He also protects the शिरः (*śiraḥ*), the broken (worn) beings; he protects and nourishes them with his own juice. **NOTE**
+
+### Printed p. 380
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मेधिरः (*medhiraḥ*)—the wise
+- सः (*saḥ*)—Soma-deva
+- मातरा (*mātarā*)—heaven and earth, the makers of the world
+- विचरन् (*vicaran*)—roaming around
+- अपः (*apaḥ*)—the rain-water (as if pouring it)
+- वाजयन् (*vājayan*)—impelling
+- स्वधया (*svadhayā*)—with food
+- पदं (*padaṃ*)—his own place in the form of the northern altar
+- प्र पिन्नते (*pra pinnate*)—nourishes **NOTE**
+- नृभिः (*nṛbhiḥ*)—by the priests
+- यतः (*yataḥ*)—collected
+- अंशुः (*aṃśuḥ*)—Soma
+- यवेन (*yavena*)—with barley
+- पिपिशे (*pipiśe*)—becomes mixed
+- जामिभिः (*jāmibhiḥ*)—with the fingers
+- सं नसते (*saṃ nasate*)—joins
+- शिरः (*śiraḥ*)—the excellent place
+- रक्षते (*rakṣate*)—protects
+
+##### भावार्थ (Bhāvārtha)
+
+The wise Soma, roaming around heaven and earth, the makers of the whole world, and impelling the rain-water as if pouring it, nourishes with food his own place in the form of the northern altar. The Soma, collected by the priests, becomes mixed with barley. He joins with the fingers. He protects the excellent place.
+
+##### English translation
+The wise (Soma) wandering through the two worlds, sending forth the waters, fattens his station with food : the Soma-juice collected by the priests is mixed with the barley : it is united by the fingers : it protects the head.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं दक्षे॑ण॒ मन॑सा जायते क॒विरृ॒तस्य॒ गर्भो॒ निहि॑तो य॒मा प॒रः ।  
+> यूना॑ ह॒ संता॑ प्रथ॒मं वि ज॑ज्ञतु॒र्गुहा॑ हि॒तं जनि॑म॒ नेम॒मुद्य॑तम् ॥ ५ ॥
+
+### Printed p. 381
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । दक्षेण । मनसा । जायते । कविः । ऋतस्य । गर्भः । निऽहितः । यमा । परः ।  
+> यूना । ह । संता । प्रथमम् । वि । जज्ञतुः । गुहा । हितम् । जनिम । नेमम् । उत्ऽयतम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रसंगात् सोमसूर्ययोराविर्भावमाह । दक्षेण प्रवृद्धेन मनसा सह सं जायते पृथिव्याः सम्यग्जायते । तथा ऋतस्य उदकस्यैव गर्भः गर्भस्थानीयः । यद्वा । सत्यस्य यज्ञस्य मध्ये गर्भः शब्दनीयः स्तुत्यः । स एव सोमः परः परस्तादंतरिक्षे यमा यमेन नियमेन देवैः निहितः सः । सूर्याद्धि वृष्टिर्भवति । तस्मात्सोमः सूर्यात्मकतयावस्थित इत्यर्थः । एवं यूना। ह इत्यवधारणे। युवानावेव संतौ तौ प्रथमं जननकाले वि जज्ञतुः । अयं सोमोऽयं सूर्य इति विशेषेण ज्ञायते । तयोश्चार्धं जनिम जन्म गुहा गुहायां हितं निहितं भवति । तयोः नेमम् अर्धं च उद्यतं प्रकाशितं भवति । दिवा सूर्यः प्रादुर्भवति रात्री चंद्रमा इ   ति ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that, by the way, he now describes the manifestation of Soma and Sūrya. Soma is born together with a developed mind (दक्षेण प्रवृद्धेन मनसा (*dakṣeṇa pravṛddhena manasā*)); that is, he is properly born from the earth. Likewise he is the embryo of water itself, one who stands in the place of an embryo. Or else: in the midst of truth, that is, of the sacrifice, he is the embryo to be praised. That same Soma, far off in the atmosphere, is placed by the gods through restraint (यमा (*yamā*)). Rain comes from the sun; therefore the meaning is that Soma stands in the form of the sun. Thus: ह (*ha*) in यूना ह (*yūnā ha*) is used for emphasis. Though both were young, at the time of birth they were distinguished: "this is Soma, this is Sūrya". Of the two, half of the birth (जनिम (*janima*)) is placed hidden in a cave, and the other half (नेमम् (*nemam*)) is manifest and lit up: by day the sun appears, by night the moon.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the one of far-reaching wisdom
+- (सोमः (*somaḥ*)—Soma)
+- दक्षेण (*dakṣeṇa*)—with a developed
+- मनसा (*manasā*)—mind
+- सं जायते (*saṃ jāyate*)—is born
+- ऋतस्य (*ṛtasya*)—for water
+- गर्भः (*garbhaḥ*)—as its embryo
+- परः (*paraḥ*)—in the excellent atmosphere
+- यमा (*yamā*)—regularly
+- निहितः (*nihitaḥ*)—has been placed by the gods
+- यूना ह संता (*yūnā ha saṃtā*)—these two, Sūrya and the Moon (Soma), ever young
+- प्रथमं (*prathamaṃ*)—at the time of origin
+- वि जज्ञतुः (*vi jajñatuḥ*)—have been known as different
+- जनिम (*janima*)—the birth of half of them
+- गुहा (*guhā*)—secretly
+- हितं (*hitaṃ*)—is placed
+- नेमं (*nemaṃ*)—the other half
+- उद्यतं (*udyataṃ*)—is manifest, so that all can see it
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma of far-reaching wisdom is born together with a developed mind. As the embryo of water he is placed regularly in the excellent atmosphere by the gods (or as one of the nature of the sun), established
+
 ---
 
-**Progress note:** Done through printed p. 375. Vol 26 pp. 370-375: Pavamana appendix mantras, start of Sukta 68
+**Progress note:** Done through printed p. 381. Vol 26 pp. 376-381: Sukta 68 Rks 1-5
