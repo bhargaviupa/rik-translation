@@ -23704,6 +23704,270 @@ That Soma who has the नियुत्वान् (*niyutvān*), the horses o
 - धीजवनः (*dhījavanaḥ*)—having the speed of the mind
 - असि (*asi*)—you are
 
+### Printed p. 626
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you are like Vāyu with his horses called Niyut, of unimpeded movement; like the Aśvin deities, hearing our invocation, you give happiness everywhere; like a giver of wealth, you are desired by all; and like Savitṛ, the nourisher of the world, you are swift as the mind.
+
+##### English translation
+You, Soma, who like Vayu with his Niyut steeds go where you list,
+who like the Nasatyas on hearing the invocation grant abundant felicity,
+you are of yourself desired by all like the giver of wealth, you are like Pushan,
+swift as thought.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रो॒ न यो म॒हा कर्मा॑णि॒ चक्रि॑र्हं॒ता वृ॒त्राणा॑मसि सोम पू॒र्भित् ।  
+> पै॒द्वो न हि त्वमहि॑नाम्नां हं॒ता विश्व॑स्यासि सोम॒ दस्योः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । न । यः । महा । कर्माणि । चक्रिः । हंता । वृत्राणाम् । असि । सोम । पूःऽभित् ।  
+> पैद्वः । न । हि । त्वम् । अहिऽनाम्नाम् । हंता । विश्वस्य । असि । सोम । दस्योः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रो न इंद्र इव यः त्वं महा महांति कर्माणि चक्रिः ताच्छील्येन करोषि स त्वं हे सोम वृत्राणां शत्रूणां हंता असि भवसि । तथा पूर्भित् पुरां भेत्तासि । किंच पैद्वो न अश्व इव खलु अहिनाम्नां हंता भवसि । आगत्य हंतीत्यहिः । तन्नामकानामित्यर्थः । न केवलं तेषामेव अपि तु विश्वस्य अपि सर्वस्यापि दस्योः उपक्षपयितुः शत्रोर्हंता असि ॥
+
+##### Gist of the bhāṣya
+
+Like Indra, you who habitually perform great acts are, O Soma, the slayer of the Vṛtras, that is, of enemies; likewise you are the splitter of cities. Further, like a horse of Paidva, you are the slayer of those called Ahi (one who comes and strikes is Ahi; the meaning is: those so named). Not only of these, but of every Dasyu, the destroyer, the enemy, you are the slayer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- यः (*yaḥ*)—you
+- इंदो न (*iṃdo na*)—like Indra **NOTE**
+- महा कर्माणि (*mahā karmāṇi*)—great acts
+- चक्रिः (*cakriḥ*)—you are the doer
+- वृत्राणां (*vṛtrāṇāṃ*)—of enemies
+
+### Printed p. 627
+
+- हंता (*haṃtā*)—as the destroyer
+- असि (*asi*)—you are
+- पूर्भित् (*pūrbhit*)—you split the enemy cities
+- पैद्वो न (*paidvo na*)—like the horse of Pedu
+- अहिनाम्यां (*ahināmyāṃ*)—of the demons called Ahi **NOTE**
+- हंता (*haṃtā*)—you are the destroyer
+- त्वं (*tvaṃ*)—you
+- विश्वस्य दस्योः (*viśvasya dasyoḥ*)—as the destroyer of every Dasyu
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, like Indra you are the doer of great deeds. You are the destroyer of enemies. You split the cities of the enemy. Like the horse of Pedu, you are the destroyer of the demons called Ahi. You are also the destroyer of every Dasyu.
+
+##### English translation
+You, Soma, who like Indra perform mighty acts, are the slayer of the
+Vritras, the destroyer of strong-holds ; like the horse of Pedu you are the
+slayer of those who are called serpents ; you are the slayer of every Dasyu.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्न यो वन॒ आ सृ॒ज्यमा॑नो॒ वृथा॒ पाजां॑सि कृणुते न॒दीषु॑ ।  
+> जनो॒ न युध्वा॑ मह॒त उ॑प॒ब्दिरिय॑र्ति॒ सोमः॒ पव॑मान ऊ॒र्मिम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । न । यः । वने । आ । सृज्यमानः । वृथा । पाजांसि । कृणुते । नदीषु ।  
+> जनः । न । युध्वा । महतः । उपब्दिः । इयर्ति । सोमः । पवमानः । ऊर्मिम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निर्न अग्निरिव यः सोमः वने अरण्ये आ सृज्यमानः वनसंबंध्यग्निर्यथा बलानि कुरुते' एवं यः सोमः वृथा अनायासेन नदीषु आंतरिक्षाणि पाजांसि कृणुते कुरुते । किंच युध्वा युद्धस्य कत जनो न शूरो मनुष्य इव महतः शत्रोः उपब्दिः । वाङ्नामैतत् । शब्दयिता सन् पवमानः पूयमानः सोमः ऊर्मिं प्रवृद्धं रसम् इयर्ति प्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+Soma is like Agni, let loose in the forest: as a fire of the forest makes its forces, so Soma, without effort, makes his powers in the rivers, that is, in the waters of the atmosphere. Further, like a man, a warrior, who fights, being a sounder (the word उपब्दिः (*upabdiḥ*) is a name of speech) against a mighty enemy, Soma, being purified, urges on the wave, that is, the swollen juice. **NOTE**
+
+### Printed p. 628
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—Soma
+- वने (*vane*)—in the forest
+- आ सृज्यमानः (*ā sṛjyamānaḥ*)—placed freely
+- अग्निः न (*agniḥ na*)—like fire
+- उपब्धिः (*upabdhiḥ*)—making a sound **NOTE**
+- महतः (*mahataḥ*)—facing a mighty enemy
+- युध्वा (*yudhvā*)—who fights
+- जनो न (*jano na*)—like a hero
+- वृथा (*vṛthā*)—without effort
+- नदीषु (*nadīṣu*)—in the atmospheric regions
+- पाजांसि (*pājāṃsi*)—his powers
+- कृणुते (*kṛṇute*)—he manifests
+- पवमानः (*pavamānaḥ*)—purified
+- सोमः (*somaḥ*)—Soma
+- ऊर्मिं (*ūrmiṃ*)—the juice that is like a wave
+- इयर्ति (*iyarti*)—he urges on
+
+##### भावार्थ (Bhāvārtha)
+
+Like fire let loose freely in the forest, and like a hero who, shouting, faces a mighty enemy and fights, Soma without effort manifests his powers in the atmosphere. The purified Soma makes his wave-like juice flow.
+
+##### English translation
+Soma who, like Agni let loose in a forest, easily manifests his might in
+the waters like a man who fights shouting against his mighty (foe)—so Soma
+when purified urges on his wave.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमा॒ अति॒ वारा॒ण्यव्या॑ दि॒व्या न कोशा॑सो अ॒भ्रव॑र्षाः ।  
+> वृथा॑ समु॒द्रं सिंध॑वो॒ न नीचीः॑ सु॒तासो॑ अ॒भि क॒लशाँ॑ असृग्रन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमाः । अति । वाराणि । अव्या । दिव्या । न । कोशासः । अभ्रऽवर्षाः ।  
+> वृथा । समुद्रम् । सिंधवः । न । नीचीः । सुतासः । अभि । कलशान् । असृग्रन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते पूयमानाः सोमाः अव्या अविमयानि वाराणि वालानि अति गच्छंतीति शेषः । तत्र दृष्टांतः । दिव्या न कोशासः दिवि भवाः कोशा आप इव । ता विशेष्यंते । अभ्रवर्षाः अभ्रैर्वृष्यमाणाः । किंच वृथा अनायासेन समुद्रं सिंधवो न नद्य इव नीचीः नीचीनाग्राः सुतासः अभिषुताः सोमाः कलशान् अभि असृग्रन् अभिगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+These Soma-juices, being purified, pass over the woollen fibres, the hairs made of wool (the verb "pass over" is to be supplied). The illustration: like the heavenly streams, that is, the waters that are in heaven; these are qualified as showered by clouds, rained down by the clouds. Further, without effort, like rivers going to the ocean with their fronts turned downward, the pressed Soma-juices go towards the vessels.
+
+### Printed p. 629
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अभ्रवर्षाः (*abhravarṣāḥ*)—showered by the clouds
+- दिव्याः (*divyāḥ*)—born in the heavenly world **NOTE**
+- कोशासः न (*kośāsaḥ na*)—like streams of rain
+- एते सोमाः (*ete somāḥ*)—these streams of Soma
+- अव्या वाराणि (*avyā vārāṇi*)—the woollen fibres of the ten-fold filter
+- अति (गच्छंति) (*ati (gacchaṃti)*)—they pass over
+- नीचीः (*nīcīḥ*)—flowing in low-lying regions
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- वृथा (*vṛthā*)—without effort
+- समुद्रं न (*samudraṃ na*)—as they enter the ocean
+- सुतासः (*sutāsaḥ*)—pressed Soma-juices
+- कलशान् अभि (*kalaśān abhi*)—into the Droṇa vessels
+- अस्यग्रन् (*asyagran*)—they enter **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Like streams of rain showered by the clouds and born in the heavenly world, these streams of Soma pass over the woollen fibres of the ten-fold filter. As rivers flowing in low-lying regions enter the ocean without effort, the pressed Soma-juices enter the Droṇa vessels.
+
+##### English translation
+These Soma-juices pass through the woollen fleece, like the rains of heaven showered by the clouds; the effused juices flow promptly to the pitchers as rivers running downwards (flow) into the ocean.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒ष्मी शर्धो॒ न मारु॑तं पव॒स्वान॑भिशस्ता दि॒व्या यथा॒ विट् ।  
+> आपो॒ न म॒क्षू सु॑म॒तिर्भ॑वा नः स॒हस्रा॑प्साः पृतना॒षाण्न य॒ज्ञः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुष्मी । शर्धः । न । मारुतम् । पवस्व । अनभिऽशस्ता । दिव्या । यथा । विट् ।  
+> आपः । न । मक्षु । सुऽमतिः । भव । नः । सहस्रऽअप्साः । पृतनाषाट् । न । यज्ञः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम शुष्मी । शुष्मं बलं शोषणात् । बलवांस्त्वं मारुतं शर्धो न मरुतां बलमिव पवस्व । तत्र दृष्टांतमेव स्पष्टयति । यथा दिव्या विट् प्रजा अनभिशस्ता । अभिशासो निंदा । अनिंदिता पवते । ‘ मरुतो वै देवानां विशः '(तै. सं. २. २. ५, ७) इति हि ब्राह्मणम् । किंच आपो न उदकानीव मक्षु क्षिप्रं पवमानस्त्वं सुमतिः भव नः अस्माकम् । किंच सहस्राप्साः। अप्स इति रूपनाम । बहुरूपस्त्वं पृतनाषाट् पृतनानामभिभवितेंद्र इव यज्ञः यष्टव्यो भवसीति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are powerful (śuṣma is strength, so called from drying up); being strong, flow like the might of the Maruts. He makes the illustration clear: as the heavenly folk are blameless (abhiśāsa is censure, so the uncensured folk) and flow; for the Brāhmaṇa says मरुतो वै देवानां विशः (*maruto vai devānāṃ viśaḥ*) (Tai. Saṃ. 2. 2. 5, 7). Further, like waters, being purified, be quickly well-disposed towards us. Further, you are of a thousand forms (apsa is a name for form), of many forms; you are the overcomer of battles, like Indra, and you are to be worshipped.
+
+### Printed p. 630
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मारुतं शर्धः न (*mārutaṃ śardhaḥ na*)—O Soma-deva, like the host of the Maruts
+- शुष्मी (*śuṣmī*)—endowed with strength
+- दिव्या विट् यथा (*divyā viṭ yathā*)—like the folk of the heavenly world
+- अनभिशस्ता (*anabhiśastā*)—blameless
+- पवस्व (*pavasva*)—flow
+- आपो न (*āpo na*)—like water
+- मक्षु (*makṣu*)—quickly
+- नः (*naḥ*)—in regard to us
+- सुमतिः भव (*sumatiḥ bhava*)—be of a gracious mind
+- सहस्राप्साः (*sahasrāpsāḥ*)—you who have many forms
+- पृतनाषाट् न (*pṛtanāṣāṭ na*)—like Indra
+- यज्ञः (*yajñaḥ*)—you are worthy of worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, flow endowed with strength like the host of the Maruts, and blameless like the folk of the heavenly world. Like water, quickly be of a gracious mind towards us. You who have many forms are, like Indra, worthy of worship.
+
+##### English translation
+Flow strong as the army of the Maruts, like the divine blameless folk ;
+like waters become quickly favourable to us ; (you are) of a thousand shapes,
+adorable like (Indra) the victor in battle.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राज्ञो॒ नु ते॒ वरु॑णस्य व्र॒तानि॑ बृ॒हद्ग॑भी॒रं तव॑ सोम॒ धाम॑ ।  
+> शुचि॒ष्ट्वम॑सि प्रि॒यो न मि॒त्रो द॒क्षाय्यो॑ अर्य॒मेवा॑सि सोम ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राज्ञः । नु । ते । वरुणस्य । व्रतानि । बृहत् । गभीरम् । तव । सोम । धाम ।  
+> शुचिः । त्वम् । असि । प्रियः । न । मित्रः । दक्षाय्यः । अर्यमाऽइव । असि । सोम ॥ ८ ॥
+
+### Printed p. 631
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वरुणस्य वारकस्य ते तव व्रतानि कर्माणि नु क्षिप्रं करोमीति शेषः । हे सोम तव धाम तेजःस्थानं बृहत् महत् गभीरं च । प्रियः मित्रः इव त्वं शुचिः दीप्तः शुद्धो वा असि । अर्यमेव अर्यमा देव इव त्वं दक्षाय्यः असि ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, of you, the restrainer Varuṇa, the vratas, that is, the rites: "I quickly perform" is to be supplied. O Soma, your abode, the place of radiance, is vast and deep. Like a dear friend (Mitra), you are bright or pure. Like Aryaman, the god, you are दक्षाय्यः (*dakṣāyyaḥ*). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- राज्ञः ते (*rājñaḥ te*)—of you, the lord
+- व्रतानि (*vratāni*)—the deeds
+- वरुणस्य (*varuṇasya*)—are as great as the deeds of Varuṇa
+- सोम (*soma*)—O Soma-deva
+- तव धाम (*tava dhāma*)—your abode
+- बृहत् (*bṛhat*)—is vast
+- गभीरं (*gabhīraṃ*)—and deep
+- प्रियः (*priyaḥ*)—beloved
+- मित्रः न (*mitraḥ na*)—like a friend
+- त्वं (*tvaṃ*)—you
+- शुचिः (*śuciḥ*)—radiant
+- अर्यमा इव (*aryamā iva*)—like the god Aryaman
+- दक्षाय्यः (*dakṣāyyaḥ*)—generous
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your deeds, as lord, are as great as the deeds of Varuṇa. O Soma-deva, your abode is vast and deep. Like a dear friend you are radiant, and like the god Aryaman you are generous.
+
+##### English translation
+Your acts are (like) those of the royal Varuna, vast and profound,
+Soma, is your abode ; you are pure as the beloved Mitra, munificent are you,
+Soma, as Aryaman.
+
+## Sūkta 89 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्रो स्य वह्निः' इति सप्तर्चं चतुर्थं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्रो स्य सप्त' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्रो स्य वह्निः (*pro sya vahniḥ*) has seven Ṛks and is the fourth sūkta. The seer and the other particulars are as before. It is recorded in the Anukramaṇī as प्रो स्य सप्त (*pro sya sapta*). The viniyoga has been stated.
+
+Anuvāda— This sūkta beginning प्रो स्य वह्निं (*pro sya vahniṃ*) is the fourth sūkta in the fifth anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is stated as प्रो स्य सप्त (*pro sya sapta*). The viniyoga has been stated before.
+
 ---
 
-**Progress note:** Done through printed p. 625. Sukta 87 Rk 8-9, Sukta 88 Rk 1-3, pp. 620-625
+**Progress note:** Done through printed p. 631. Sūkta 88 Ṛks 4-8 (Bhāvārtha of 3 to 8), start of Sūkta 89
