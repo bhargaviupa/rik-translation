@@ -4456,6 +4456,277 @@ When the libation is effused for you, these offerers of sacrifice swarm like fli
 
 Sāyaṇa says: I, desiring wealth, call Indra, who holds the thunderbolt in his hand and gives well, as a son calls his father.
 
+### Printed p. 103
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुत्रः (*putraḥ*)—a son who seeks help
+- पितरं न (*pitaraṃ na*)—as he calls his father for help
+- रायस्कामः (*rāyaskāmaḥ*)—I, who desire wealth
+- सुदक्षिणं (*sudakṣiṇaṃ*)—the excellent giver
+- वज्रहस्तं (*vajrahastaṃ*)—Indra, who holds the thunderbolt in his hand
+- हुवे (*huve*)—I call for help
+
+##### भावार्थ (Bhāvārtha)
+
+As a son who seeks help calls his father for help, I, who desire wealth, call for help upon Indra, the excellent giver, who holds the thunderbolt in his hand.
+
+##### English translation
+Desirous of riches. I call upon the benevolent wielder of the thunderbolt, as a son upon a father.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे इंद्रा॑य सुन्विरे॒ सोमा॑सो॒ दध्या॑शिरः ।  
+> ता आ मदा॑य वज्रहस्त पी॒तये॒ हरि॑भ्यां या॒ह्योक॒  
+> आ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । इंद्राय । सुन्विरे । सोमासः । दधिऽआशिरः ।  
+> तान् । आ । मदाय । वज्रहस्त । पीतये । हरिऽभ्यां । याहि । ओकः । आ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वज्रहस्त दध्याशिरो दधिमिश्रणा इमे सोमासः सोमा इंद्राय तुभ्यं सुन्विरे । सुता बभूवुः । तान् सोमान्मदाय मदार्थं पीतये पानायौको यज्ञसदनमाभि हरिभ्यामश्वाभ्यामा याहि । आगच्छ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, wielder of the thunderbolt, these Soma juices, mixed with curds, have been pressed for you. For your delight, to drink those Somas, come with your two bay horses to the sacrificial seat.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वज्रहस्त (*vajrahasta*)—O Indra, wielder of the thunderbolt
+- दध्याशिरः (*dadhyāśiraḥ*)—mixed with curds
+- इमे सोमासः (*ime somāsaḥ*)—these Soma juices
+- इंद्राय (*iṃdrāya*)—for you, the lord of all
+- सुन्विरे (*sunvire*)—have been pressed and are ready
+- तान् (*tān*)—those Soma juices
+- मदाय (*madāya*)—for your delight
+- पीतये (*pītaye*)—to drink
+- ओकः आ (*okaḥ ā*)—facing our sacrificial seat
+- हरिभ्यां (*haribhyāṃ*)—with your horses
+- आ याहि (*ā yāhi*)—be pleased to come
+
+### Printed p. 104
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, wielder of the thunderbolt, these Soma juices, mixed with curds, have been pressed and made ready for you, the lord of all. To drink these Soma juices for your delight, be pleased to come with your horses facing our sacrificial seat.
+
+##### English translation
+These Soma juices, mixed with curds, are poured out to Indra : come, wielder of the thunderbolt; with your horses to our dwelling, to drink there for (your) exhilaration.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रव॒च्छ्रुत्क॑र्ण ईयते॒ वसू॑नां॒ नू चि॑न्नो मर्धिष॒द्गिरः॑ ।  
+> स॒द्यश्चि॒द्यः स॒हस्रा॑णि श॒ता दद॒न्नकि॒र्दित्सं॑त॒मा मि॑नत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रवत् । श्रुत्ऽकर्णः । ईयते । वसूनां । नु । चित् । नः । मर्धिषत् । गिरः ।  
+> सद्यः । चित् । यः । सहस्राणि । सता । ददत् । नकिः । दित्संतं । आ । मिनत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्रुत्कर्णो याच्ञाश्रवणरूपकर्ण इंद्रो वसूनां वसूनीयते । याच्यते नोऽस्मदीया गिरो याच्ञावाक्यानि श्रवत् । शृणोतु । नू चिन्नैव मर्धिषत् । हिंसतु । अश्रवणेन याच्ञावाक्यानि निष्फलानि न करोतीत्यर्थः । अपि चेंद्रः सद्यश्चित् सद्य एव याच्ञानंतरमेव सहस्राणि शतानि च ददत् । प्रयच्छेत् । दित्संतं दातुमिच्छंतं तमिंद्रं नकिरा मिनत् । न हिंस्यात् । कश्चिदपि न वारयेदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Indra, whose ear is, as it were, an ear that hears petitions, is asked for riches. May he hear our words of petition; may he never harm them, that is, he does not make our petitions fruitless by not hearing them. Moreover, Indra gives thousands and hundreds immediately, right after the petition. No one may harm that Indra who wishes to give; that is, no one may hold him back.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्रुत्कर्णः (*śrutkarṇaḥ*)—Indra, whose ears hear our praise and our petition
+- वसूनां (*vasūnāṃ*)—for riches
+- ईयते (*īyate*)—is petitioned
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words of petition
+- श्रवत् (*śravat*)—hears
+- नू चित् मर्धिषत् (*nū cit mardhiṣat*)—surely never causes the breaking of our sacrifice
+- सद्यश्चित् (*sadyaścit*)—immediately upon the prayer
+- सहस्राणि (*sahasrāṇi*)—in thousands
+- शता (*śatā*)—in hundreds
+- ददत् (*dadat*)—gives
+- दित्संतं (*ditsaṃtaṃ*)—that Indra, who wishes to give
+- नकिः (*nakiḥ*)—no one
+- आ मिनत् (*ā minat*)—can harm and obstruct
+
+### Printed p. 105
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, whose ears hear our praise and our petition, is asked for riches, and he hears our words of petition. He never causes the breaking of our sacrifice. As soon as he is prayed to by us, he gives us hundreds and thousands. No one can harm that Indra who wishes to give, and no one can obstruct him.
+
+##### English translation
+May Indra, whose ear is ready to hear, listen, to the suppliant for riches, and never disappoint our prayers : he who is the giver of hundreds and thousands : may no one ever hinder him when willing to give.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स वी॒रो अप्र॑तिष्कुत॒ इंद्रे॑ण शूशुवे॒ नृभिः॑ ।  
+> यस्ते॑ गभी॒रा सव॑नानि वृत्रहन्त्सु॒नोत्या च॒ धाव॑ति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वीरः । अप्रतिऽस्कुतः । इंद्रेण । शूशुवे । नृऽभिः ।  
+> यः । ते । गभीरा । सवनानि । वृत्रहन् । सुनोति । आ । च । धावति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् ते त्वदर्थं यः पुमान् गभीरा गभीराणि सवनानि सोमान् सुनोति आ धावति च त्वां स्तुतिभिरुपधावति च स वीर इंद्रेण हेतुनाप्रतिष्कुतः केनाप्यप्रतिगतोऽप्रतिशब्दितो वा भवेत् । नृभिः परिचारकैः शूशुवे । उपगम्यते च । श्वयतिर्गतिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O slayer of Vṛtra, the man who for you presses the deep, that is, copious, Soma-pressings, and who approaches you swiftly with praises, that hero, by reason of Indra, becomes one whom no one opposes or answers back; he is served by attendants, that is, he is approached. The root श्वयतिर्गतिकर्मा (*śvayatirgatikarmā*) has the sense of going.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—O Indra, slayer of Vṛtra
+- ते (*te*)—for you
+- यः (*yaḥ*)—the man who
+- गभीरा (*gabhīrā*)—copious
+- सवनानि (*savanāni*)—Somas
+- सुनोति (*sunoti*)—presses
+- आ धावति च (*ā dhāvati ca*)—and (the one who) approaches you swiftly with praises
+- सः वीरः (*saḥ vīraḥ*)—that same valiant man
+- इंद्रेण (*iṃdreṇa*)—by the help of you, the lord
+- अप्रतिष्कुतः (*apratiṣkutaḥ*)—unopposed by anyone
+- नृभिः (*nṛbhiḥ*)—by attendants and other people
+- शूशुवे (*śūśuve*)—is served
+
+### Printed p. 106
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, slayer of Vṛtra, the man who for you presses copious Somas and who approaches you swiftly with praises, that same valiant man, by the help of you, the lord, is not brought down by anyone's blow and is served by attendants and other people.
+
+##### English translation
+Slayer of Vritra, the hero who offers sacrifices to you, who eagerly approaches you (with praises), he, (protected) by Indra, is unresisted (by any one), and is honoured by men.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भवा॒ वरू॑थं मघवन्म॒घोनां॒ यत्स॒मजा॑सि॒ शर्ध॑तः ।  
+> वि त्वाह॑तस्य॒ वेद॑नं भजेम॒ह्या दू॒णाशो॑ भरा॒ गयं॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भव । वरूथं । मघऽवन् । मघोनां । यत् । सम्ऽअजासि । शर्धतः ।  
+> वि । त्वाऽहतस्य । वेदनं । भजेमहि । आ । दुःऽनशः । भर । गयं ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र मघोनां हविष्मतां वरूथमुपद्रवाणां वारकं वर्म भव । यद्यस्त्वं शर्धत उत्सहमानान् शत्रून् समजासि संप्रेरयेः । अपि च त्वाहतस्य त्वया हतस्य शत्रोर्वेदनं धनं वि भजेमहि । विशेषेण लभेमहि । किंच दुर्नशो नाशयितुमशक्यस्त्वं गयं गृहं धनं वा भर । अस्मभ्यमाहर ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O wealthy Indra, be armour that wards off calamities for those who have offerings, since you drive forth the enemies who rise up. May we also obtain in a special way the wealth of an enemy slain by you. And you, who cannot be destroyed, bring us a house or wealth; that is, bring it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy Indra
+- यत् (*yat*)—by whatever greatness
+- शर्धतः (*śardhataḥ*)—the violent enemies of ours
+- समजासि (*samajāsi*)—you strike and drive away (by that same power)
+- मघोनां (*maghonāṃ*)—to the sacrificers who have offerings
+- वरूथं (*varūthaṃ*)—as protector
+- भव (*bhava*)—be
+- त्वाहतस्य (*tvāhatasya*)—of the enemies slain by you
+- वेदनं (*vedanaṃ*)—the wealth
+- वि भजेमहि (*vi bhajemahi*)—may we divide
+- दुर्नशः (*durnaśaḥ*)—you, who are indestructible
+- गयं (*gayaṃ*)—to us house and the like
+- आ भर (*ā bhara*)—bring
+
+### Printed p. 107
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, by that same power with which you strike and drive away our violent enemies, be a protector to the sacrificers who have offerings. May we divide the wealth of the enemies slain by you. You who are indestructible, bring us house and the like.
+
+##### English translation
+Be a defence, Maghavan, to the wealthy (offerers of oblations), for you are the discomfiter of (our) adversaries : may we divide the spoil of the enemy slain by you : do you. who are indestructible, bring it to our dwelling.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिंद्रा॑य व॒ज्रिणे॑ ।  
+> पच॑ता प॒क्तीरव॑से कृणु॒ध्वमित्पृ॒णन्नित्पृ॑ण॒ते मयः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुनोत । सोमऽपाव्ने । सोमं । इंद्राय । वज्रिणे ।  
+> पचत । पक्तीः । अवसे । कृणुध्वं । इत् । पृणन् । इत् । पृणते । मयः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीयाः पुरुषाः वज्रिणे सोमपाव्ने सोमस्य पात्र इंद्राय सोमं सुनोत । अभिषुणुत । अवस इंद्रं तर्पयितुं पक्तीः पक्तव्यान् पुरोडाशादीन् पचत च । कृणुध्वमित् । इंद्रप्रियकराणि कर्माणि च कुरुतैव । इंद्रो हि मयः सुखं पृणन्निद्यजमानाय प्रयच्छन्नेव पृणते हवींषीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O my men, press Soma for Indra, the wielder of the thunderbolt, the drinker of Soma. To satisfy Indra, cook also the things that are to be cooked, the sacrificial cakes and the like, and perform just those rites that please Indra. For Indra, giving happiness to the sacrificer, bestows it on the one who offers oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers and others) वज्रिणे (*vajriṇe*)—who has the thunderbolt
+- सोमपाव्ने (*somapāvne*)—who drinks Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- सोमं (*somaṃ*)—Soma
+- सुनोत (*sunota*)—press
+- अवसे (*avase*)—to satisfy Indra
+- पक्तीः (*paktīḥ*)—the sacrificial cakes and the like
+- पचत (*pacata*)—cook
+- कृणुध्वमित् (*kṛṇudhvamit*)—perform just the rites that satisfy Indra
+- (that Indra indeed) पृणते (*pṛṇate*)—to the one who offers oblations
+- मयः (*mayaḥ*)—happiness
+- पृणन्नित् (*pṛṇannit*)—surely provides
+
+### Printed p. 108
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers and others, press Soma for Indra, who has the thunderbolt and who drinks Soma. To satisfy Indra, cook the sacrificial cakes and the like. Perform just the rites that satisfy Indra. That Indra, indeed, surely provides happiness to the one who offers oblations.
+
+##### English translation
+Pour out the libation to Indra, the thunderer, the drinker of the Soma : prepare the baked (cakes) to satisfy him : do (what is agreeable to him), for he bestows happiness on (the worshipper) who pleases him.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा स्रे॑धत सोमिनो॒ दक्ष॑ता म॒हे कृ॑णु॒ध्वं रा॒य आ॒तुजे॑ ।  
+> त॒रणि॒रिज्ज॑यति॒ क्षेति॒ पुष्य॑ति॒ न दे॒वासः॑ कव॒त्नवे॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । स्रेधत । सोमिनः । दक्षत । महे । कृणुध्वं । राये । आऽतुजे ।  
+> तरणिः । इत् । जयति । क्षेति । पुष्यति । न । देवासः । कवत्नवे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदीया जनाः सोमिनः सोमवतो यागान्मा स्रेधत । मा हिंसिष्ट । दक्षत । यागादिकं कर्तुमुत्सहध्वं च । महे महत आतुजे । तुजिर्हिंसाकर्मा दानकर्मा वा । शत्रूणामभिहिंसकाय धनानां प्रदात्रे वेंद्राय राये धनलाभार्थं कृणुध्वं । कर्माणि कुरुत च । तरणिरित् कर्मसु त्वरित एव जयति शत्रून् । क्षेति । गृहे निवसति च । पुष्यति । प्रजया पशुभिश्च पुष्टो भवति । कवत्नवे कुत्सितक्रियायै । कवोऽपसृष्टस्यातेः सातत्यगमनकर्मणो रूपं कवत्नुरिति ॥ देवासो देवा न भवंतीति शेषः । सुखप्राप्तये भवंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O my people, do not hinder the sacrifices that have Soma; do not harm them. Be energetic also in performing the sacrifice and the rest. For the great Indra, the one who harms the enemies or the one who gives wealth, perform rites for the gain of wealth. The swift one wins over the enemies in the rites, dwells in his house, and thrives in offspring and cattle. कवत्नवे (*kavatnave*) means for a bad action. The gods do not become so; the meaning is that they become for the attainment of happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificers and others) सोमिनः (*sominaḥ*)—the sacrifices that have Soma
+- मा स्रेधत (*mā sredhata*)—do not stop
+- दक्षत (*dakṣata*)—carry out the sacrificial rites with energy
+- महे (*mahe*)—for the great
+- अतुजे (*atuje*)—Indra, the harmer of enemies
+- राये (*rāye*)—for the gain of wealth
+- कृणुध्वं (*kṛṇudhvaṃ*)—rites
+
 ---
 
-**Progress note:** Done through printed p. 102. Sukta 31 Rk 12 end; Sukta 32 intro, Rks 1-3 (pp. 97-102)
+**Progress note:** Done through printed p. 108. Sukta 32 Rks 3-9 (pp. 103-108)
