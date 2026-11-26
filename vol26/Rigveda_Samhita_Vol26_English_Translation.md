@@ -18067,6 +18067,232 @@ This Soma, sweet of juice, cries out loudly in the kośa, the Droṇa vessel. Wh
 - वाश्राः (*vāśrāḥ*)—and sound
 - अभ्यर्षंति (*abhyarṣaṃti*)—flow all around, the streams
 
+### Printed p. 486
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, more beautiful than beautiful form and like Indra's vajra weapon, makes a sound in the Droṇa vessel, endowed with sweet juice. Like cows filled with milk, the streams of this Soma, whose fruit is true, that pour out excellent fruits, squeeze out the juice and sound, flow all around.
+
+##### English translation
+The sweet-flavoured beverage sounds in the pitcher, the thunderbolt of Indra, more beautiful than the beautiful: (the strsams) of this veracious (Soma) approach yielding much milk, dropping water, lowing like cow (laden) with milk. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स पू॒र्व्यः प॑वते॒ यं दि॒वस्परि॑ श्ये॒नो म॑था॒यदि॑षि॒तस्ति॒रो रजः॑ ।  
+> स मध्व॒ आ यु॑वते॒ वेवि॑जान॒ इत्कृ॒शानो॒रस्तु॒र्मन॒साह॑ बि॒भ्युषा॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पूर्व्यः । पवते । यम् । दिवः । परि । श्येनः । मथायत् । इषितः । तिरः । रजः ।  
+> सः । मध्वः । आ । युवते । वेविजानः । इत् । कृशानोः । अस्तुः । मनसा । अह । बिभ्युषा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोमः पूर्व्यः प्रत्नः पवते पूयते । अभिषूयत इत्यर्थः । यं सोमं दिवः द्युलोकात्, श्येनः इषितः स्वमात्रा प्रेषितः सन् परि मथायत् पर्यमथ्नात् तिरः तीर्णं तिरस्कुर्वन् । किम् । रजः तृतीयं लोकम् । सः एव सोमः मध्वः मधुररसं सोमम् आ युवते यौति पृथक्करोति द्युलोकात् । स्वयं वेविजान इत् चलन् अधो गच्छन् कृशानोः सोमपालस्य अस्तुः शरक्षेप्तुः सकाशात् बिभ्युषा भीतेन मनसाह । मध्व आ युवत इति संबंधः । कृशानोः सोमपालत्वं ब्राह्मणे स्पष्टमुक्तं- कृशानुः सोमपालः सव्यस्य पदः' (ऐ. ब्रा. ३. २६ ) ॥
+
+##### Gist of the bhāṣya
+
+That ancient Soma flows, that is, is pressed. He is the Soma whom the hawk, sent forth by his own mother, churned down from heaven, from the world of heaven, crossing over and setting aside the third world (rajas). The same Soma separates the sweet-juiced Soma from the world of heaven; he himself, trembling and going downward, does so with a mind afraid of Kṛśānu, the guardian of Soma, the archer who shoots the arrow: the construction is that he separates the sweet juice with a frightened mind. That Kṛśānu is the guardian of Soma the Brāhmaṇa states plainly: कृशानुः सोमपालः सव्यस्य पदः (*kṛśānuḥ somapālaḥ savyasya padaḥ*) (Ai. Brā. 3.26).
+
+### Printed p. 487
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- दिवः (*divaḥ*)—from the world of heaven
+- श्येनः (*śyenaḥ*)—the hawk
+- इषितः (*iṣitaḥ*)—urged by his mother
+- रजः (*rajaḥ*)—the third world
+- तिरः (*tiraḥ*)—crossing
+- परिमथायत् (*parimathāyat*)—brought to this world
+- पूर्व्यः सः (*pūrvyaḥ saḥ*)—that same ancient Soma
+- पवते (*pavate*)—flows
+- सः (*saḥ*)—that same Soma
+- वेविजान इत् (*vevijāna it*)—trembling
+- कृशानोः (*kṛśānoḥ*)—of Kṛśānu, the guardian of Soma
+- अस्तुः (*astuḥ*)—at the arrow
+- बिभ्युषा (*bibhyuṣā*)—frightened
+- मनसाह (*manasāha*)—with a mind
+- मध्वः (*madhvaḥ*)—the sweet juice
+- आयुवते (*āyuvate*)—separates from the world of heaven and brings
+
+##### भावार्थ (Bhāvārtha)
+
+That ancient Soma flows, whom the hawk, urged by his mother, brought from the world of heaven to this world. That same Soma, trembling with a mind frightened at the arrow of Kṛśānu, the guardian of Soma, separates the sweet juice from the world of heaven and brings it to this world.
+
+##### English translation
+That ancient (Soma) flows, which the hawk, despatched (for the purpose), brought down from heaven passing through tke (third) world; he detaches the sweet-flavoured (Soma) flying downwards, with mind full of fear of the archer Krishanu. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते नः॒ पूर्वा॑स॒ उप॑रास॒ इंद॑वो म॒हे वाजा॑य धन्वंतु॒ गोम॑ते ।  
+> ई॒क्षे॒ण्या॑सो अ॒ह्यो॒३॒॑ न चार॑वो॒ ब्रह्म॑ब्रह्म॒ ये जु॑जु॒षुर्ह॒विर्ह॑विः ॥ ३ ॥
+
+### Printed p. 488
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । नः । पूर्वासः । उपरासः । इंदवः । महे । वाजाय । धन्वंतु । गोऽमते ।  
+> ईक्षेण्यासः । अह्यः । न । चारवः । ब्रह्मऽब्रह्म । ये । जुजुषुः । हविःऽहविः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते वक्ष्यमाणाः पूर्वासः पूर्वे उपरासः । उपरता अत्रेत्युपराः । तादृशाः इंदवः सोमाः महे महते गोमते नः मह्यं वाजाय अन्नाय अन्नलाभार्थं धन्वंतु गच्छंतु प्राप्नुवंतु । कीदृशा इंदवः । ईक्षेण्यासः ईक्षणीयाः संदर्शनीयाः अह्यो न । अह्यः स्त्रिय आहननात् । ता इव सुवेषाः स्त्रिय इव चारवः रमणीयाः । त इत्युक्तं क इत्याह । ये इंदवः ब्रह्मब्रह्म सर्वमपि स्तावकमंत्रजातं हविर्हविः सर्वमपि हविर्जातं च जुजुषुः सेवंते ॥
+
+##### Gist of the bhāṣya
+
+Those Somas, of whom he will speak, the former ones and the later ones (upara: those that have ceased here), such Somas, let them go, that is, reach, to me, to be great and rich in cows, for food, for the gain of food. What are these Somas like? Worth looking at, beautiful to behold like women, lovely like women of fine dress. Having said "those", he says which: the Somas which enjoy every praise-mantra, all that praises, and every oblation, all kinds of oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which Soma juices
+- ब्रह्मब्रह्म (*brahmabrahma*)—every praise
+- हविर्हविः (*havirhaviḥ*)—every oblation
+- जुजुषुः (*jujuṣuḥ*)—enjoy
+- ते (*te*)—such
+- पूर्वासः (*pūrvāsaḥ*)—former
+- उपरासः (*uparāsaḥ*)—and belonging to the present time
+- इंदवः (*iṃdavaḥ*)—Soma juices
+- चारवः (*cāravaḥ*)—having an attractive form
+- अहो न (*aho na*)—like women **NOTE**
+- ईक्षेण्यासः (*īkṣeṇyāsaḥ*)—having a beautiful form
+- नः (*naḥ*)—to us
+- महे (*mahe*)—great
+- गोमते (*gomate*)—and rich in cows
+- वाजाय (*vājāya*)—for the gain of food
+- धन्वंतु (*dhanvaṃtu*)—let them come and join me **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+All the Soma juices, which enjoy every praise and every oblation, having a beautiful form like women of attractive form, let them come and join us for the gain of food that is great and rich in cows.
+
+##### English translation
+May the former and the later Soma-jnices flow to give us abundant food and milk, pleasing to look upon like beautiful well-adorned (women), which (juices) perform every prayer and every oblation. **NOTE**
+
+### Printed p. 489
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं नो॑ वि॒द्वान्व॑नवद्वनुष्य॒त इंदुः॑ स॒त्राचा॒ मन॑सा पुरुष्टु॒तः ।  
+> इ॒नस्य॒ यः सद॑ने॒ गर्भ॑माद॒धे गवा॑मुरु॒ब्जम॒भ्यर्ष॑ति व्र॒जम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । नः । विद्वान् । वनवत् । वनुष्यतः । इंदुः । सत्राचा । मनसा । पुरुऽस्तुतः ।  
+> इनस्य । यः । सदने । गर्भम् । आऽदधे । गवाम् । उरुब्जम् । अभि । अर्षति । व्रजम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंदुः सोमः नः अस्मान् वनुष्यतः हंतुमिच्छतः शत्रून् विद्वान् जानन् हंतुं वनवत् हंतु तान् । केन साधनेन । सत्राचा सहांचता मनसा । कीदृशः । पुरुष्टुतः बहुभिः स्तुतः । यः सोमः इनस्य ईश्वरस्याग्नेः सदने स्थाने भूमौ वेद्यां वा वर्तमानः गर्भमादधे धारयत्योषधीषु । यश्च गवाम् अस्मदीयानां शत्रुभिरपहृतानाम् उरुब्जं प्रभूतानामपां पयसां जनकं व्रजम् अभ्यर्षति गच्छति । स वनवदिति ॥
+
+##### Gist of the bhāṣya
+
+May this Soma, Indu, knowing the enemies who desire to slay us (vanuṣyataḥ: wishing to kill), slay them. By what means? With a united mind. What is he like? Praised by many. The Soma who, abiding in the place of Ina, the lord Agni, on the earth or on the altar, deposits the germ in the plants; and who goes to the stable of our cows, which the enemies have carried off, the stable that is the producer of abundant waters and milk: let him slay.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- इनस्य (*inasya*)—of Agni, the lord
+- सदने (*sadane*)—being in the place
+- गर्भं (*garbhaṃ*)—the germ in the plants and the rest
+- आदधे (*ādadhe*)—placed
+- यश्व (*yaśva*)—who
+- गवां (*gavāṃ*)—of the cows
+- उरुब्बं (*urubbaṃ*)—to the stable that gives abundant milk **NOTE**
+- व्रजं (*vrajaṃ*)—stable
+- अभ्यर्षति (*abhyarṣati*)—goes
+- पुरुष्टुतः (*puruṣṭutaḥ*)—praised by many
+- आयं इंदुः (*āyaṃ iṃduḥ*)—this god Soma
+- नः (*naḥ*)—us
+- वनुष्यतः (*vanuṣyataḥ*)—the enemies who injure
+- विद्वान् (*vidvān*)—knowing
+- सत्राचा (*satrācā*)—united
+- मनसा (*manasā*)—with a mind
+- वनवत् (*vanavat*)—let him destroy
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who, abiding in the place of Agni, the lord, placed the germ in the plants and the rest, who goes to the stable of the cows that give abundant milk, this god Soma, praised by many, knowing the enemies who injure us, let him destroy them all together with a united mind.
+
+### Printed p. 490
+
+##### English translation
+May this Indu, praised of many, knowing those who desire to slay us, slay them with united mind ; who being in the dwelling of the lord (Agni) deposits a germ (in the herds) and hastens to (our) milk-giving herd of cattle.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चक्रि॑र्दि॒वः प॑वते॒ कृत्व्यो॒ रसो॑ म॒हाँ अद॑ब्धो॒ वरु॑णो हु॒रुग्य॒ते ।  
+> असा॑वि मि॒त्रो वृ॒जने॑षु य॒ज्ञियोऽत्यो॒ न यू॒थे वृ॑ष॒युः कनि॑क्रदत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चक्रिः । दिवः । पवते । कृत्व्यः । रसः । महान् । अदब्धः । वरुणः । हुरुक् । यते ।  
+> असावि । मित्रः । वृजनेषु । यज्ञियः । अत्यः । न । यूथे । वृषऽयुः । कनिक्रदत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चक्रिः सर्वस्य कर्ता कृत्व्यः कर्मण्यः रसः रसात्मकः महान् गुणैरधिकः अदब्धः अहिंस्यः हुरुक् कुटिलं यते गच्छते । इतस्ततः परिचरत इत्यर्थः । तदर्थं दिवः सकाशात् पवते पूयते । अंतरिक्षस्थाद्दशापवित्रादित्यर्थः । किंचासौ सोमः असावि सूयते । कदा । वृजनेषु अरिष्टेषु सत्सु तत्परिहारार्थम् । कीदृशः सः । मित्रः सर्वेषां मित्रभूतः यज्ञियः यष्टव्यः अत्यो न अश्व इव यूथे वडवायूथे स यथा वृषयुः सन् शब्दं करोति तद्वदसौ वृषभो रसस्य वर्षिता कनिक्रदत् शब्दं कुर्वन् असावीति ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+Soma is the maker of all, fit for work, by nature juice, great, that is, excelling in qualities, unassailable, not to be injured. He goes crookedly (huruk means crooked; yate means goes), that is, moves about here and there; for that purpose he flows, is purified, from heaven, that is, from the ten-fold filter standing in the atmosphere. Further, this Soma is pressed. When? When there are afflictions, to ward them off. What is he like? The friend of all, worthy of the sacrifice. As a horse in a herd of mares, being full of desire, makes a sound, so this bull, the rainer of juice, sounding, is pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चक्रिः (*cakriḥ*)—the maker of all
+- कृत्त्वः (*kṛttvaḥ*)—skilled in work **NOTE**
+- रसः (*rasaḥ*)—by nature juice
+- महान् (*mahān*)—having excellent qualities
+- अदब्धः (*adabdhaḥ*)—and uninjured Soma
+- हुरुक् (*huruk*)—with eagerness everywhere
+- चरते (*carate*)—who moves about (that is, for the sacrificer who attends with respect) **NOTE**
+- दिवः (*divaḥ*)—from the world of heaven
+- पवते (*pavate*)—flows
+- वृजनेषु (*vṛjaneṣu*)—to ward off evil
+
+### Printed p. 491
+
+- असावि (*asāvi*)—is pressed
+- मित्रः (*mitraḥ*)—the friend of all
+- यज्ञियः (*yajñiyaḥ*)—worthy of worship
+- वृषयुः (*vṛṣayuḥ*)—Soma, the showerer of desires
+- यूथे (*yūthe*)—in a herd of horses
+- अत्यः न (*atyaḥ na*)—like a stallion
+- कनिक्रदत् (*kanikradat*)—makes a sound
+
+##### भावार्थ (Bhāvārtha)
+
+God Soma, the maker of all, skilled in work, by nature juice, having excellent qualities and uninjured, flows from the world of heaven for the sacrificer who moves about with eagerness and attends with respect. He is pressed to ward off evil. The friend of all, worthy of worship, the showerer of desires, Soma makes a sound like a stallion in a herd of horses.
+
+##### English translation
+The maker of all, clever in work, rhe juice, mighty unassailable Varuna flows from heaven for the sake of him who goes hither and thither; the friend of all the adorable (Soma) is effused in affliction uttering a sound like an ardent horse amidst a herd (of mares). **NOTE**
+
+## Sūkta 78 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ प्र राजा वाचम्' इति पंचर्चमेकादशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र राजा' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta of five ṛks beginning प्र राजा वाचम् (*pra rājā vācam*) is the eleventh sūkta. The seer and the rest are as before. It is listed in the Anukramaṇī as प्र राजा (*pra rājā*). The ritual use has been stated already.
+
+##### Anuvāda
+
+The sūkta प्र राजा वाचं (*pra rājā vācaṃ*) is the eleventh sūkta in the fourth anuvāka. It has five ṛks. The seer, deity and metre of this sūkta are the same as in the previous sūkta. In the Anukramaṇī it is said प्र राजा (*pra rājā*). The ritual use has been stated earlier.
+
+##### Particulars
+
+Sūkta 78. Maṇḍala 9, Anuvāka 4, Sūkta 78. Aṣṭaka 7, Adhyāya 3, Varga 3. Number of ṛks in the sūkta: 5. Seer: Kavi. Deity: Pavamāna Soma. Metre: Jagatī.
+
 ---
 
-**Progress note:** Done through printed p. 485. Sukta 76 rks 2-5 and Sukta 77 rk 1
+**Progress note:** Done through printed p. 491. Sukta 77 rks 1-5 end; Sukta 78 intro
