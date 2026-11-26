@@ -10081,6 +10081,252 @@ The sacrificers adorn in their own houses (स्वेषु क्षयेष
 
 The sacrificers who perform sacrifice adorn and worship in their own houses Agni, the doer of good works, or the conductor of the sacrificial rites, who rushes forward in battles to slay enemies, and who is exceedingly mighty.
 
+### Printed p. 254
+
+##### English translation
+They keep him bright in their houses, (Agni,) famed for glorious deeds, the mighty one who presses forward in battles.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrificial rite of churning the fire, this Ṛk beginning तं मर्जयंत (*taṃ marjayaṃta*) is to be recited, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra तं मर्जयंत सुक्रतुं यज्ञेन यज्ञमयजंत देवाः (*taṃ marjayaṃta sukratuṃ yajñena yajñamayajaṃta devāḥ*) (Ā. 2-16).
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्षेति॒ क्षेमे॑भिः सा॒धुभि॒र्नकि॒र्यं घ्नंति॒ हंति॒ यः ।  
+> अग्ने॑ सु॒वीर॑ एधते ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्षेति । क्षेमेभिः । साधुऽभिः । नकिः । यम् । घ्नंति । हंति । यः ।  
+> अग्ने । सुऽवीरः । एधते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यो मनुष्यः साधुभिः साधयद्भिः क्षेमेभिः पालनैः सह क्षेति स्वगृहे निवसति । तथा यं जनं नकिः न केचन घ्रंति न हिंसंति । यः एव हंति शत्रून् स्वयमेव हंति । स मनुष्यस्तव स्तोता खलु । अन्यथा तस्यैतावन्न घटते । ततः स स्तोता सुवीरः शोभनपुत्रादियुक्तः सन् एधते आत्मीयगृहेषु धनादिभिर्वर्धते ॥ ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the man who dwells in his own house together with good, efficient protections; whom none harms or injures; and who himself slays his enemies, he is surely your worshipper. Otherwise this would not befit him. Therefore that worshipper, endowed with excellent sons and the like, prospers: he grows in his own house through wealth and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- यः (*yaḥ*)—the man who praises you, that man
+- साधुभिः (*sādhubhiḥ*)—excellent
+- क्षेमेभि (*kṣemebhi*)—endowed with protections
+- क्षेति (*kṣeti*)—dwells in his own house
+- यं (*yaṃ*)—that man
+- नकिः घ्नंति (*nakiḥ ghnaṃti*)—none harms
+- यः (*yaḥ*)—that man
+
+### Printed p. 255
+
+- हंति (*haṃti*)—becomes able to slay his enemies
+- सुवीरः (*suvīraḥ*)—endowed with heroic sons and the like
+- एधते (*edhate*)—attains prosperity in his house through wealth and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the man who praises you dwells in his own house without any hindrance, endowed with excellent protections. None can harm him. He becomes able to slay his enemies, and, endowed with heroic sons and the like, he lives happily in his own house in an abundance of wealth.
+
+##### English translation
+He who dwells at home with all-efficient protections, whom none can harm, but who himself harms (his enemies),—he Agni, (your worshipper) waxes strong with heroic offspring.
+
+## Sūkta 85 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘आ मे हवम्' इति नवर्चं पंचमं सूक्तम् । कृष्णो नामांगिरस ऋषिः । गायत्री छंदः । एतदादीनि त्रीणि सूक्तान्यश्विदेवत्यानि । तथा चानुक्रांतम्- ' आ मे कृष्ण आश्विनं हि ' इति । प्रातरनुवाक आश्विने क्रतौ गायत्रे छंदस्याश्विनशस्त्रे चेदं सूक्तम् । सूत्रितं च--' उदीराथामा में हवम्' ( आश्व. श्रौ. ४. १५) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ मे हवम् (*ā me havam*) has nine Ṛks and is the fifth sūkta. Its seer is Kṛṣṇa, of the Āṅgirasa family; its metre is Gāyatrī. This sūkta and the two that follow have the Aśvins as their deity. So the Anukramaṇikā says: आ मे कृष्ण आश्विनं हि (*ā me kṛṣṇa āśvinaṃ hi*). This sūkta is used in the Prātaranuvāka, in the Āśvina kratu, in the Gāyatra metre, and in the Āśvina śastra. It is laid down in the sūtra उदीराथामा में हवम् (*udīrāthāmā meṃ havam*) (Āśv. Śrau. 4. 15).
+
+The Anuvāda: this sūkta beginning आ मो हवं (*ā mo havaṃ*) is the fifth sūkta in the ninth Anuvāka. It has nine Ṛks. The seer of this sūkta is the one called Āṅgirasaḥ Kṛṣṇaḥ; the metre is Gāyatrī. The three sūktas from this one onward have the Aśvins as their deity. In the Anukramaṇikā it is said: आ मो कृष्ण आश्विनं हि (*ā mo kṛṣṇa āśvinaṃ hi*). At the time of reciting the Prātaranuvāka mantras, this sūkta is used for the Gāyatrī-metre mantras connected with the Āśvina kratu and for the Āśvina śastra mantras, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra उदीरथामा मो हवं (*udīrathāmā mo havaṃ*) (Ā. 4-15).
+
+### Printed p. 256
+
+Sūkta 85
+
+Maṇḍala 8, Anuvāka 9, Sūkta 85
+
+Aṣṭaka 6, Adhyāya 6, Varga 7, 8
+
+Number of Ṛks in the sūkta: 9
+
+Seer: Kṛṣṇaḥ
+
+Deity: Aśvinau
+
+Metre: Gāyatri
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ मे॒ हवं॑ नास॒त्याश्वि॑ना॒ गच्छ॑तं यु॒वम् ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । मे । हवम् । नासत्या । अश्विना । गच्छतम् । युवम् ।  
+> मध्वः । सोमस्य । पीतये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या । असत्यमनयोर्नास्तीति नासत्यौ । तादृशौ हे अश्विना अश्विनौ युवं युवां मे मदीयं हवम् आह्वानं श्रुत्वा । यद्वा । हवम् । हूयतेऽत्रेति हवो यज्ञः । केवलस्याधिकरणेऽप् छांदसः । मदीयं यज्ञं प्रति मध्वः मदकरस्य सोमस्य पीतये पानाय तदर्थम् आ गच्छतम् ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, that is, those in whom there is no untruth; O Aśvins, you two, having heard my call (my invocation), or else, having come to my sacrifice (the word हवम् (*havam*) being taken as that in which one is called, the sacrifice), come for the drinking of the intoxicating Soma, for the purpose of drinking it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे नासत्या (*he nāsatyā*)—you who speak no untruth
+- अश्विना (*aśvinā*)—O Aśvin deities
+- युवं (*yuvaṃ*)—you
+- मे (*me*)—my
+- हवं (*havaṃ*)—having heard the invocation
+- मध्वः (*madhvaḥ*)—intoxicating
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for the drinking
+- आ गच्छतं (*ā gacchataṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, whose nature is truth, hear my invocation and graciously come here to drink the gladdening Soma.
+
+### Printed p. 257
+
+##### English translation
+Nasatyas, Aswins, come to my invocation, that you may drink the exhilarating Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं मे॒ स्तोम॑मश्विने॒मं मे॑ शृणुतं॒ हव॑म् ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमम् । मे । स्तोमम् । अश्विना । इमम् । मे । शृणुतम् । हवम् ।  
+> मध्वः । सोमस्य । पीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ मे मदीयम् इमं स्तोमं स्तोत्रं किंच मे मदीयम् इमम् इदमागमनविषयं हवम् आह्वानं च शृणुतम् ॥ ।
+
+##### Gist of the bhāṣya
+
+O Aśvins, hear this hymn of mine, and also hear this call of mine, this invocation concerning your coming.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मे (*me*)—my
+- इमं स्तोमं (*imaṃ stomaṃ*)—this hymn, and
+- मे (*me*)—my
+- इमं हवं (*imaṃ havaṃ*)—this invocation
+- शृणुतं (*śṛṇutaṃ*)—hear
+- मध्वः (*madhvaḥ*)—intoxicating
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—come for the drinking
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, hear the hymn that I make in your honour and my invocation that you should come to the sacrificial ground. Graciously come here to drink the intoxicating Soma.
+
+##### English translation
+Ashwlns, hear this my hymn, this my invocation, that you may drink the exhilarating Soma.
+
+### Printed p. 258
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं वां॒ कृष्णो॑ अश्विना॒ हव॑ते वाजिनीवसू ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । वाम् । कृष्णः । अश्विना । हवते । वाजिनीवसू इति वाजिनीऽवसू ।  
+> मध्वः । सोमस्य । पीतये ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नयुक्तधनौ । अत्रेनिरनुवादार्थः । यद्वा । वाजो वजनं क्रिया। तद्वती वाजिनी । तद्युक्तधनवंतौ हे अश्विना अश्विनौ अयं कृष्णः नाम मंत्रद्रष्टा ऋषिः वां युवां हवते स्तुतिभिराह्वयति । किमर्थम् । मध्वः सोमस्य पीतये इति ॥
+
+##### Gist of the bhāṣya
+
+O वाजिनीवसू (*vājinīvasū*), you who have wealth together with food; **NOTE** or else: vāja means going, that is, action; the one who possesses it is वाजिनी (*vājinī*); so, O Aśvins, you who possess wealth joined with it, this seer called Kṛṣṇa, the seer of the mantra, calls you with his praises. For what purpose? For the drinking of the intoxicating Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—you who have food, or who have action itself as your wealth
+- अश्विना (*aśvinā*)—O Aśvin deities
+- अयं कृष्णः (*ayaṃ kṛṣṇaḥ*)—this seer by the name of Kṛṣṇa (I)
+- वां (*vāṃ*)—you
+- मध्वः (*madhvaḥ*)—intoxicating
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for the drinking
+- हवते (*havate*)—prays and calls
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, rich in food, this seer by the name of Kṛṣṇa, the seer of this sūkta, prays to you and calls you to drink the intoxicating Soma.
+
+##### English translation
+Krishna invoke you, Aswins rich in sacrifices, that you may drink the exhilarating Soma.
+
+### Printed p. 259
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒णु॒तं ज॑रि॒तुर्हवं॒ कृष्ण॑स्य स्तुव॒तो न॑रा ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शृणुतम् । जरितुः । हवम् । कृष्णस्य । स्तुवतः । नरा ।  
+> मध्वः । सोमस्य । पीतये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नरौ सर्वस्य नेतारावश्विनौ जरितुः । तच्छीलार्थे तृन् । व्यत्ययेनांतोदात्तत्वम् । जरितुः स्तवनशीलस्य संप्रति स्तुवतः स्तोत्रं कुर्वतः कृष्णस्य एतन्नामकस्यर्षेः संबंधि हवं युष्मद्विषयमाह्वानं शृणुतम् । यद्वा । जरितुरन्यदेवानां स्तोतुः स्तुवत इदानीं युवयोः स्तोत्रकारिणस्तस्य हवं शृणुतम् । शिष्टं गतम् ॥
+
+##### Gist of the bhāṣya
+
+O leaders, that is, O Aśvins, who lead everything: hear the call, the invocation addressed to you, of Kṛṣṇa, one of that name among the seers, who is a praiser by nature, जरितुः (*jarituḥ*), who is now praising, that is, making a hymn. Or else: hear the call of the one who is now your praiser, although he is a praiser of other gods. The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे नरा (*he narā*)—O Aśvin deities, leaders of rites or guides of all
+- स्तुवतः (*stuvataḥ*)—who is making a hymn
+- जरितुः कृष्णस्य (*jarituḥ kṛṣṇasya*)—of the praiser by the name of Kṛṣṇa
+- हवं (*havaṃ*)—the invocation
+- शृणुतं (*śṛṇutaṃ*)—hear
+- जरितुः (*jarituḥ*)—or, though a praiser of other gods
+- स्तुवतः (*stuvataḥ*)—who is now praising you
+- कृष्णस्य (*kṛṣṇasya*)—of the seer of the mantra by the name of Kṛṣṇa
+- हवं (*havaṃ*)—the invocation
+- शृणुतं (*śṛṇutaṃ*)—hear
+- मध्वः (*madhvaḥ*)—intoxicating
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—graciously come for the drinking
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, guides of all, hear the invocation of the seer by the name of Kṛṣṇa, who is a praiser and is praising you, and graciously come to drink the intoxicating Soma.
+
+##### English translation
+Leaders (of all), hear the invocation of Krishna, the hymner, who praises you,—that you may drink the exhilarating Soma.
+
 ---
 
-**Progress note:** Done through printed p. 253. Mandala 8 sukta 84 rks 5-8 and special topics on Angiras, pp. 248-253
+**Progress note:** Done through printed p. 259. pp. 254-259: Sukta 84 Rk 9, Sukta 85 Rks 1-4
