@@ -31095,6 +31095,280 @@ When, Indu, effused by the stones, you hasten to the filtering-cloth, you are an
 > पव॑स्व वृत्रहंतमो॒क्थेभि॑रनु॒माद्यः॑ ।  
 > शुचिः॑ पाव॒को अद्भु॑तः ॥ ६ ॥
 
+### Printed p. 768
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । वृत्रहन्ऽतम । उक्थेभिः । अनुऽमाद्यः ।  
+> शुचिः । पावकः । अद्भुतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहंतम शत्रूणामतिशयेन हंतरिंदो त्वं पवस्व क्षर । कीदृशस्त्वम् । उक्थेभिः शस्त्रैः अनुमाद्यः स्तुत्यः शुचिः शुद्धः पावकः अन्यस्य शोधकः अद्भुतः महान् । एवंमहानुभावः पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O वृत्रहंतम (*vṛtrahaṃtama*), supreme slayer of foes, Indu, you flow (पवस्व (*pavasva*), that is, stream). Of what kind are you? Praised (अनुमाद्यः (*anumādyaḥ*), that is, स्तुत्यः (*stutyaḥ*)) with the उक्थेभिः (*ukthebhiḥ*), the recitations (शस्त्रैः (*śastraiḥ*)); शुचिः (*śuciḥ*), pure; पावकः (*pāvakaḥ*), a purifier of others; अद्भुतः (*adbhutaḥ*), great. Being of such great power, flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- O Soma
+- वृत्रहंतम (*vṛtrahaṃtama*)—you who slay foes supremely
+- उक्थेभिः (*ukthebhiḥ*)—by the recitation-verses
+- अनुमाद्यः (*anumādyaḥ*)—you who are praised
+- शुचिः (*śuciḥ*)—pure
+- पावकः (*pāvakaḥ*)—a purifier of those who drink
+- अद्भुतः (*adbhutaḥ*)—of mighty nature
+- पवस्व (*pavasva*)—flow, streaming forth
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who slay foes supremely, who are praised with the recitation-verses, who are pure in yourself, who purify those who drink, who are of mighty nature: stream forth and flow.
+
+##### English translation
+Utter destroyer of enemies, flow forth, to be propitiated by praises, pure, purifying, wonderful.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुचिः॑ पाव॒क उ॑च्यते॒ सोमः॑ सु॒तस्य॒ मध्वः॑ ।  
+> दे॒वा॒वीर॑घशंस॒हा ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुचिः । पावकः । उच्यते । सोमः । सुतस्य । मध्वः ।  
+> देवऽअवीः । अघशंसऽहा ॥ ७ ॥
+
+### Printed p. 769
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतस्य अभिषुतस्य मध्वः मदकरस्य वल्ल्यात्मकः सोमः रसरूपः शुचिः स्वयं शुद्धः पावकः शोधकश्च उच्यते । तथा देवावीः देवानामविता तर्पयिता अघशंसहा । अघं पापं शंसंतीत्यघशंसा असुराः। तेषां हंतेति चोच्यते ॥ ॥ १४ ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+The Soma of the pressed (सुतस्य (*sutasya*), that is, अभिषुतस्य (*abhiṣutasya*)), gladdening (मध्वः (*madhvaḥ*), that is, मदकरस्य (*madakarasya*)) juice, which is of the nature of the creeper (वल्ल्यात्मकः (*vallyātmakaḥ*)) and has the form of juice, is called शुचिः (*śuciḥ*), pure in itself, and पावकः (*pāvakaḥ*), a purifier. So too देवावीः (*devāvīḥ*), the protector and satisfier of the gods, and अघशंसहा (*aghaśaṃsahā*): अघं पापं (*aghaṃ pāpaṃ*), sin; those who speak of sin are the शंसंतीत्यघशंसा (*śaṃsaṃtītyaghaśaṃsā*), the Asuras; their slayer, he is also called.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतस्य (*sutasya*)—of the pressed
+- मध्वः (*madhvaḥ*)—produced from the Soma-creepers that cause delight
+- सोमः (*somaḥ*)—the Soma whose form is juice
+- शुचिः (*śuciḥ*)—one who is pure in himself
+- पावकः (*pāvakaḥ*)—one who purifies others
+- उच्यते (*ucyate*)—is said (likewise this Soma)
+- देवावीः (*devāvīḥ*)—one who satisfies the gods
+- अघशंसहा (*aghaśaṃsahā*)—one who slays the sinful Asuras
+- उच्यते (*ucyate*)—is said
+
+##### भावार्थ (Bhāvārtha)
+
+People say that the Soma, whose form is the juice extracted by crushing and pressing the Soma-creepers, is pure in itself, purifies others, satisfies the gods and destroys the Asuras who do sinful deeds.
+
+##### English translation
+Soma, (the yielder) of the exhilarating effusion, is called the pure, the purifier, the gratifier of the gods, the slayer of the wicked.
+
+## Sūkta 25 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> द्वितीयेऽनुवाके षट्त्रिंशत्सूक्तानि । तत्र ‘पवस्व' इति षडृचं प्रथमं सूक्तं दृळ्हच्युतनाम्नोऽगस्त्यपुत्रस्यार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रांतं च-’ पवस्व षड् दृळ्हच्युत आगस्त्यः । इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the second anuvāka there are thirty-six sūktas. Of these, the sūkta पवस्व (*pavasva*) of six Ṛks is the first; its seer is the son of Agastya, named Dṛḷhacyuta; the metre is Gāyatrī and the deity is Pavamāna Soma. In the Anukramaṇikā it is said पवस्व षड् दृळ्हच्युत आगस्त्यः (*pavasva ṣaḍ dṛḷhacyuta āgastyaḥ*). The use has been stated.
+
+Anuvāda: In the second anuvāka of the ninth maṇḍala there are thirty-six sūktas. Among them this sūkta पवस्व (*pavasva*) is the first. It has six Ṛks. The seer of this sūkta is Dṛḷhacyuta, the son of the seer Agastya; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said पवस्व षड् दृळ्हच्युत आगस्त्यः (*pavasva ṣaḍ dṛḷhacyuta āgastyaḥ*). The use in ritual has been stated before.
+
+### Printed p. 770
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 25. Aṣṭaka 6; Adhyāya 8; Varga 15. Number of Ṛks in the sūkta: 6.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व दक्ष॒साध॑नो दे॒वेभ्यः॑ पी॒तये॑ हरे ।  
+> म॒रुद्भ्यो॑ वा॒यवे॒ मदः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । दक्षऽसाधनः । देवेभ्यः । पीतये । हरे ।  
+> मरुत्ऽभ्यः । वायवे । मदः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हरे हरितवर्ण पापहर्तर्वा सोम दक्षसाधनः । दक्षो बलम् । तस्य साधकः मदः मदकरश्च त्वं पवस्व क्षर। देवेभ्यः इंद्रादिभ्यः पीतये पानाय । तथा मरुद्यःस  वायवे च पीतये पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O हरे (*hare*), green-hued or remover of sin, Soma, you who are the accomplisher (दक्षसाधनः (*dakṣasādhanaḥ*)) of दक्षो (*dakṣo*), strength, and are gladdening (मदः (*madaḥ*)), flow (पवस्व (*pavasva*), that is, stream) for the gods (देवेभ्यः (*devebhyaḥ*)), Indra and the rest, for their drinking (पीतये (*pītaye*)). Likewise flow for the drinking of the Maruts and of Vāyu.
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरे (*hare*)—O Soma, golden-hued or remover of sin
+- दक्षसाधनः (*dakṣasādhanaḥ*)—you who accomplish and give strength
+- मदः (*madaḥ*)—and who cause delight
+- देवेभ्यः (*devebhyaḥ*)—of the gods, Indra and the rest
+- पीतये (*pītaye*)—for the drinking
+- मरुद्भ्यः (*marudbhyaḥ*)—of the Maruts, and
+- वायुवे (*vāyuve*)—for the drinking of the god Vāyu
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, golden-hued or remover of sin, you who accomplish strength for those who drink and who bring delight, stream forth and flow for the drinking of Indra and the other gods, of the Maruts and of the god Vāyu.
+
+### Printed p. 771
+
+##### English translation
+Green-tinted (Soma), you are the bestower of strength, the exhilarating, flow as a beverage for the gods, for the Maruts and for Vayu.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान धि॒या हि॒तो॒३॒॑ऽभि योनिं॒ कनि॑क्रदत् ।  
+> धर्म॑णा वा॒युमा वि॑श ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । धिया । हितः । अभि । योनिम् । कनिक्रदत् ।  
+> धर्मणा । वायुम् । आ । विश ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम धिया कर्मणास्मद्व्यापारेण अंगुल्या वा हितः धृतः सन् कनिक्रदत् शब्दं कुर्वन् योनिं स्थानं ग्रहं वा अभि विशेति शेषः । तदेवाह। धर्मणाः वायुम् । वायुसंबंधि पात्रमित्यर्थः । तत् आ विश प्रविश ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, held (हितः (*hitaḥ*), that is, धृतः (*dhṛtaḥ*)) by धिया (*dhiyā*), that is, by the rite, our activity, or by the finger, making a sound (कनिक्रदत् (*kanikradat*)), enter the योनिं (*yoniṃ*), the place or the cup (ग्रहं (*grahaṃ*)); "enter" is to be supplied. He says that very thing: धर्मणाः वायुम् (*dharmaṇāḥ vāyum*), that is, the vessel connected with Vāyu; enter (आ विश (*ā viśa*)) it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma, purifier
+- धिया (*dhiyā*)—by our act of pressing, or by the fingers
+- हितः (*hitaḥ*)—held
+- कनिक्रदत् (*kanikradat*)—making a gurgling sound
+- योनिं (*yoniṃ*)—your own place, the Droṇa vessel, or the cup-vessel
+- अभि (*abhi*)—enter
+- धर्मणा (*dharmaṇā*)—by your own act (of yourself)
+- वायुं (*vāyuṃ*)—the cup-vessel connected with Vāyu
+- आ विश (*ā viśa*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, purifier, held by our act of pressing or by our fingers, and making a gurgling sound, enter your own place, the Droṇa vessel, or the cup-vessel. By your own act, that is, of yourself, without the urging of others, enter the cup-vessel of the god Vāyu.
+
+##### English translation
+Purifying (Soma), placed suitably by the sacred rite, ( enter ) uttering a cry the (appointed) place, enter by the sacred function into Vayu.
+
+### Printed p. 772
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं दे॒वैः शो॑भते॒ वृषा॑ क॒विर्योना॒वधि॑ प्रि॒यः ।  
+> वृ॒त्र॒हा दे॑व॒वीत॑मः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । देवैः । शोभते । वृषा । कविः । योनौ । अधि । प्रियः ।  
+> वृत्रऽहा । देवऽवीतमः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः सं शोभते देवैः सह योनौ स्थाने स्वीयेऽधिष्ठितः वृषा कामानां वर्षकः कविः क्रांतप्रज्ञः प्रियः प्रियभूतः सर्वेषां यद्वा प्रीणयिता वृत्रहा वृत्रस्य हंता देववीतमः अतिशयेन देवान् कामयमानः एवंमहानुभावः सोमः संशोभते ॥
+
+##### Gist of the bhāṣya
+
+This Soma shines (सं शोभते (*saṃ śobhate*)) together with the gods, seated in his own place (योनौ (*yonau*)). He is वृषा (*vṛṣā*), the showerer of desires; कविः (*kaviḥ*), of far-reaching wisdom (क्रांतप्रज्ञः (*krāṃtaprajñaḥ*)); प्रियः (*priyaḥ*), dear to all, or else the one who pleases; वृत्रहा (*vṛtrahā*), the slayer of Vṛtra; देववीतमः (*devavītamaḥ*), one who desires the gods exceedingly. Of such great power, Soma shines.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—showerer of desires
+- कविः (*kaviḥ*)—of far-reaching wisdom
+- प्रियः (*priyaḥ*)—beloved of all, or one who brings pleasure to all
+- वृत्रहा (*vṛtrahā*)—slayer of foes
+- देववीतमः (*devavītamaḥ*)—this Soma who desires the gods exceedingly
+- देवैः (*devaiḥ*)—together with the gods
+- सं शोभते (*saṃ śobhate*)—shines greatly
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, the showerer of desires, of far-reaching wisdom, beloved of all, slayer of foes, one who desires the gods exceedingly, shines well together with the gods.
+
+##### English translation
+This Soma, the showerer (of benefits), the seer, the beloved, the destroyer of foes, the most devout, shines in its appointed place along with the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑ रू॒पाण्या॑वि॒शन्पु॑ना॒नो या॑ति हर्य॒तः ।  
+> यत्रा॒मृता॑स॒ आस॑ते ॥ ४ ॥
+
+### Printed p. 773
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । रूपाणि । आऽविशन् । पुनानः । याति । हर्यतः ।  
+> यत्र । अमृतासः । आसते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वा सर्वाणि रूपाण्याविशन् पुनानः पूयमानः हर्यतः कमनीयः । ‘हर्य गतिकांत्योः । ईदृशः याति गच्छति । यत्र अमृतासः अमृता देवाः आसते तिष्ठंति तं देशं याति ॥
+
+##### Gist of the bhāṣya
+
+Entering (आविशन् (*āviśan*)) all (विश्वा (*viśvā*)) forms (रूपाणि (*rūpāṇi*)), being purified (पुनानः (*punānaḥ*), that is, पूयमानः (*pūyamānaḥ*)), desirable (हर्यतः (*haryataḥ*), that is, कमनीयः (*kamanīyaḥ*); he cites हर्य गतिकांत्योः (*harya gatikāṃtyoḥ*), the root meaning motion and desire), such a one goes (याति (*yāti*)). He goes to the place where (यत्र (*yatra*)) the immortals (अमृतासः (*amṛtāsaḥ*)), the immortal gods, abide (आसते (*āsate*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—purified
+- हर्यतः (*haryataḥ*)—this god Soma, of attractive form
+- विश्वा (*viśvā*)—all
+- रूपाणि (*rūpāṇi*)—various forms
+- आविशन् (*āviśan*)—taking on
+- यत्र (*yatra*)—in which place
+- अमृतासः (*amṛtāsaḥ*)—the gods who are free from death
+- आसते (*āsate*)—sit
+- याति (*yāti*)—goes there
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, purified in the ten-stranded filter and of attractive form, takes on many kinds of forms and goes to the place where the immortal gods sit.
+
+##### English translation
+Pervading all forms, the pure, the desirable goes to the place where the immortals abide.
+
+##### विशेषविषयगळु (Special Topics)
+
+यत्र (*yatra*)—in which place, that is, at the sacrificial altar where the gods have come and are seated.
+
+विश्वा रूपाणि (*viśvā rūpāṇi*)—the many forms; here the many forms of the god Soma are: the clear, strong Soma-juice, that is, with nothing mixed in it; the Soma-juice called गवाशिर (*gavāśira*), mixed with milk; the Soma-juice called दध्याशिर (*dadhyāśira*), mixed with curds; the Soma-juice called यवाशिर (*yavāśira*), mixed with barley flour; and so on.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒रु॒षो ज॒नय॒न्गिरः॒ सोमः॑ पवत आयु॒षक् ।  
+> इंद्रं॒ गच्छ॑न्क॒विक्र॑तुः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 767. Sūkta 23 Ṛk 6-7, Sūkta 24 Ṛk 1-5 (Ṛk 6 Saṃhitā)
+**Progress note:** Done through printed p. 773. Sūkta 24 Ṛk 6-7, Sūkta 25 Ṛk 1-4 (Ṛk 5 Saṃhitā)
