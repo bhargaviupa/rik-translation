@@ -1764,7 +1764,7 @@ Sūkta 44. Maṇḍala 9, Anuvāka 2, Sūkta 44. Aṣṭaka 7, Adhyāya 1, Varga
 
 ##### Gist of the bhāṣya
 
-Sāyaṇa addresses Soma: O Indu, you advance (अर्षसि (*arṣasi*), glossed as going forth) for our great wealth (महे महते तने धनाय (*mahe mahate tane dhanāya*) is not quoted; he glosses महे (*mahe*) as "great" and तने (*tane*) as "for wealth"). He glosses न (*na*) as "now" (संप्रति (*saṃprati*)) and says that this seer Ayāsya, bearing your wave (ऊर्मिं (*ūrmiṃ*), glossed तरंगं (*taraṃgaṃ*)), goes towards the gods in order to sacrifice.**NOTE**
+Sāyaṇa addresses Soma: O Indu, you advance (अर्षसि (*arṣasi*), glossed as going forth) for our great wealth (he glosses महे (*mahe*) as "great" and तने (*tane*) as "for wealth"). He glosses न (*na*) as "now" (संप्रति (*saṃprati*)) and says that this seer Ayāsya, bearing your wave (ऊर्मिं (*ūrmiṃ*), glossed तरंगं (*taraṃgaṃ*)), goes towards the gods in order to sacrifice.**NOTE**
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 

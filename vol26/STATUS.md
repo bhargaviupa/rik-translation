@@ -26,7 +26,8 @@ Nov 25 2026: prepared; `batch.py audit 26` passes at "Done through printed p. 0"
 
 ## Open items
 1. (user) Preface: to be translated into `vol26/work/preface/en.md`; installing it is a logged repair after the user's yes.
-2. (user) Second reading of the scan pages 810–894 (`review/repair_log.md`).
+2. (user) w0107 (pp. 107–112): for four Pratipadārtha lemmas that the Kannada line prints damaged (`ದೇವನೀತೆಯೇ`, `ಪಿತ್ರಾವತೀ`, `ಅಂಜೃಃ`, `ಅತ್ಯಕ್ರಮಾತ್`) the agent wrote the Saṃhitā block's form without a NOTE (its own report); decide whether to keep them or restore the line's form with a NOTE.
+3. (user) Second reading of the scan pages 810–894 (`review/repair_log.md`).
 
 ## Publication (print PDF)
 Not built.
