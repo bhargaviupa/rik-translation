@@ -17471,6 +17471,111 @@ In this Ṛk there is the description that Varuṇa wears a golden mantle or rob
 sees all that goes on in the world. The dwelling of Mitra and Varuṇa is very large, very high, firm, resting on a thousand pillars, and their house has a thousand doors (Ṛ. Saṃ. 7-88-5). There are also descriptions that the all-seeing Sun, setting out from his own abode, goes to the house of Mitra and Varuṇa to report the doings of men, and enters their dear house.
 Varuṇa, alone or together with Mitra, is called king in many places, like other gods.
 
+### Printed p. 512
+In the Ṛks अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः । (*abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ |*) (Ṛ. Saṃ. 1-24-7), त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः । (*tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*) (Ṛ. Saṃ. 2-23.10) and तेन विश्वस्य भुवनस्य राजा यवं न वृष्टिर्व्युनत्ति भूम । (*tena viśvasya bhuvanasya rājā yavaṃ na vṛṣṭirvyunatti bhūma |*) (Ṛ. Saṃ. 5-85-3), and in others like them, Varuṇa is called king not only of men but also of the gods and of all the worlds. Besides Varuṇa, the gods Indra, Yama, Soma and others also bear the honorific name of king.
+
+There are many stories connected with Indra, but in the case of Varuṇa the situation is quite the opposite: there is not a single story. Varuṇa is praised greatly as the regulator of the physical and moral ordinances (वरुणस्य व्रतानि (*varuṇasya vratāni*)). The divine power of Mitra and Varuṇa is described by the word Māyā. Applied to the gods, it means a hidden power they have to do good; in contexts where it is applied to demons, the same word means a harsh power they have to do evil. In the good sense this word suits Mitra and Varuṇa; in the bad sense it applies to the demons. Like the word Asura, the word Māyā is used in both senses. By this Māyā-power hidden in himself, Varuṇa, standing in the atmosphere, measures out the earth with the sun as with a measuring rod. He makes the sun cross the firmament and makes it dim with rain-clouds. Then honey-mixed (sweet) drops fall (Ṛ. Saṃ. 5-63-4). He makes the sky pour rain. Therefore this word Māyā is said chiefly of Varuṇa among the gods in the Ṛks Ṛ. Saṃ. 6-48-14; 7-28-4; 10-99-10; 10-147-5 and others.
+
+Varuṇa is the one who lays down the laws of nature. It was he who established earth and heaven, and in the Ṛk आसीदद्विश्वा भुवनानि संराड्विश्वेत्तानि वरुणस्य व्रतानि । (*āsīdadviśvā bhuvanāni saṃrāḍviśvettāni varuṇasya vratāni |*) (Ṛ. Saṃ. 8-42-1) it is said that Varuṇa dwells in all the worlds and that his ordinances are observed everywhere; in तिस्रो द्यावो निहिता अंतरस्मिन् तिस्रो भूमीरुसराः षड्विधानाः । (*tisro dyāvo nihitā aṃtarasmin tisro bhūmīrusarāḥ ṣaḍvidhānāḥ |*) (Ṛ. Saṃ. 7-87-5) it is said that the three upper worlds and the three earths (lower worlds) are under his control. Varuṇa and Mitra rule the whole world (Ṛ. Saṃ. 5-63-7). They are the protectors of the whole universe (Ṛ. Saṃ. 2-27-4). Varuṇa is the support of heaven, earth and sky
+
+### Printed p. 513
+(Ṛ. Saṃ. 5-69-1, 4). He has placed fire in the waters, the sun in the sky, and Soma upon the stone. He has made a broad path for the sun. Varuṇa, Mitra and Aryaman open the way for the sun (Ṛ. Saṃ. 7-60-4). In many such Ṛks Varuṇa's authority is described.
+
+In the Taittirīya Saṃhitā (Tai. Saṃ. 6-4-8-4) it is said मित्रोऽहरजनयद्वरुणो रात्रिं (*mitro 'harajanayadvaruṇo rātriṃ*), that is, Mitra created the day and Varuṇa the night. Therefore मैत्रं वा अहः ।वारुणी रात्रिः (*maitraṃ vā ahaḥ |vāruṇī rātriḥ*) — that is, in many places it is said that Mitra is the lord of the day and Varuṇa the lord of the night (Tai. Saṃ. 2-1-7-4). In one place it is said that Varuṇa divided the seasons. In वेद मासो धृतव्रतो द्वादश प्रजावतः । वेदा य उपजायते । (*veda māso dhṛtavrato dvādaśa prajāvataḥ | vedā ya upajāyate |*) (Ṛ. Saṃ. 1-25-8) it is said that Varuṇa knows the twelve months; and in the Ṛk वि ये दधुः शरदं मासमादहर्यज्ञ मक्तुं चादृचं । अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत ॥ (*vi ye dadhuḥ śaradaṃ māsamādaharyajña maktuṃ cādṛcaṃ | anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata ‖*) (Ṛ. Saṃ. 7-66-11) it is said that Mitra, Varuṇa and Aryaman divided the autumn, the month, the day and the night.
+
+In many places it is said that he too is the one who regulates the waters. He is the one who made the rivers flow; by his command they flow continuously (Ṛ. Saṃ. 2-28-4). That the rivers, though swiftly pouring water into the ocean, do not fill it, is due to his hidden power (Ṛ. Saṃ. 5-85-6). Varuṇa and Mitra are lords of the rivers. That Varuṇa is lord of the oceans is a well-known point, yet it occurs very rarely in the Ṛgveda; perhaps the reason is that it was unimportant. In the Purāṇas and similar works Varuṇa is famed as lord of the waters, and that Varuṇa, as one of the eight guardians of the quarters, is lord of the west is what the Purāṇas say; the Ṛgveda gives no support for it. In general all that concerns Varuṇa relates to the water that is with the atmosphere. Among the gods prayed to for rain, Varuṇa and Mitra are the chief. In Ṛ. Saṃ. 5-85-3, 4 it is said that when all the mountains are covered with clouds, Varuṇa pours water from the overturned vessel (the cloud) for heaven, earth and sky and makes the whole earth moist. One whole sūkta (that is, Ṛ. Saṃ. 5-63) points to their rain-pouring power. In the Yajurveda Saṃhitā (Tai. Saṃ. 5-5-4-1) आपो वरुणस्य पत्न य आसन्— (*āpo varuṇasya patna ya āsan—*)
+
+### Printed p. 514
+the waters are said to be Varuṇa's wives, and (Tai. Saṃ. 6-4-3-2) मित्रा वरुणौ ना अपां नेतारौ— (*mitrā varuṇau nā apāṃ netārau—*) Mitra and Varuṇa are the leaders of the waters.
+
+Varuṇa's ordinances are said again and again to be well established. For this reason he is called Dhṛtavrata ("of firm ordinances"). This epithet is fitting for both Mitra and Varuṇa.
+परि धामानि मर्मशद्वरुणस्य पुरो गये विश्वे देवा अनु व्रतं नभंतामन्यके समे ॥ (*pari dhāmāni marmaśadvaruṇasya puro gaye viśve devā anu vrataṃ nabhaṃtāmanyake same ‖*) (Ṛ. Saṃ. 8-41-7)
+न वां देवा अमृता आ मिनंति व्रतानि मित्रावरुणा ध्रुवाणि ॥ (*na vāṃ devā amṛtā ā minaṃti vratāni mitrāvaruṇā dhruvāṇi ‖*) (Ṛ. Saṃ. 5-69-4)
+In such Ṛks it is said that the gods themselves obey the commands of Mitra, Varuṇa and Aryaman, and that even the primeval gods cannot transgress their firm ordinances. Mitra and Varuṇa are the regulators of law (Ṛta) and of light. It is by the power of these ordinances that they are able to support the laws. This quality is found especially in these two, and sometimes in the Ādityas or in other ordinary gods. They advance truth (Ṛta) and justice. The epithet ऋतस्य गोपाः (*ṛtasya gopāḥ*), "guardians of the laws" (or "those who make them be kept"), is seen to be applied often to Mitra and Varuṇa.
+
+Varuṇa's power is immeasurable. Neither flying birds nor flowing rivers can reach the boundary of his realm, nor surpass his power, nor stop his anger. Neither the sky nor the rivers have reached the limit of the boundary of Mitra and Varuṇa. Everything is contained in Varuṇa. The dwellings of all creatures, the three heavenly worlds and the three earthly worlds, are placed in him. Varuṇa is all-knowing. The flight of birds in the sky, the passage of ships on the sea, the course of the far-travelling wind, all this he knows. He sees all things, past and future. He is witness of the true and false deeds of men. The deeds, thoughts and devices of every man are all known to Varuṇa. He can grasp all that is in heaven and earth and beyond them. However far one runs beyond the sky, no one can leave the range of Varuṇa's sight.
+
+Being the regulator of morality, Varuṇa is much angered by sin, and angered also by the transgression of his ordinances; for both he imposes very cruel punishment. Varuṇa's noose that binds sinners is mentioned in Ṛks such as Ṛ. Saṃ. 1-24-15; 1-25-11; 6-74-4 **NOTE**; 10-85-24. That noose binds the speaker of untruth and releases the speaker of truth.
+
+### Printed p. 515
+युवो राष्ट्रं बृहदिन्वति द्यौर्यौ सेतृभिररज्जुभिः सिनीथः । परि नो हेळो वरुणस्य वृज्या उरुं न इंद्रः कृणवदु लोकं ॥ (*yuvo rāṣṭraṃ bṛhadinvati dyauryau setṛbhirarajjubhiḥ sinīthaḥ | pari no heḷo varuṇasya vṛjyā uruṃ na iṃdraḥ kṛṇavadu lokaṃ ‖*) (Ṛ. Saṃ. 7-84-2)
+In this Ṛk it is said that Varuṇa, accompanied by Indra, binds with bonds that are not ropes. In the whole Ṛgveda this word "noose" (pāśa) occurs only once in a mantra addressed to Agni, and that in a context where he is asked to loosen the noose binding his worshippers. Therefore it may be said that these acts of binding with the noose and of releasing belong to Varuṇa alone. Varuṇa together with Mitra drives away, hates and punishes untruth. Mitra and Varuṇa punish those who are negligent in their worship; but Varuṇa spares the repentant and shows compassion to those who have transgressed his commands through forgetfulness. Varuṇa has hundreds and thousands of medicines. He removes death and takes away sin. He can take away life and can also give life; he is very skilled in protecting immortality. Such descriptions of Varuṇa's qualities occur in many Ṛks. Here we have explained it very briefly; we shall explain it on a suitable occasion.
+
+In the Taittirīya Saṃhitā — फल्गु नीनक्षत्रमर्यमा देवता............ अनूराधानक्षत्रं मित्रो देवता............ । (*phalgu nīnakṣatramaryamā devatā............ anūrādhānakṣatraṃ mitro devatā............ |*) (Tai. Saṃ. 4-4.9-2) — that is, Aryaman is said to be lord of the Pūrvaphalgunī constellation and Mitra of the Anurādhā constellation.
+
+Aryaman: In the sūktas addressed to the Ādityas, the Ādityas generally meant are Mitra, Varuṇa and Aryaman. As we said before, in the Ṛgveda (Ṛ. Saṃ. 2-27-1) only six names are given: Mitra, Aryaman, Bhaga, Varuṇa, Dakṣa, Aṃśa. In the Ṛk Ṛ. Saṃ. 9-114-3 **NOTE** the number of the Ādityas is seven, and in Ṛ. Saṃ. 10-72-8 it is said that Aditi first presented seven sons to the gods and afterwards bore the eighth, Mārtāṇḍa. In Atha. Ve. 8-9-21 and Tai. Ā. 1-13-3 it is said that Aditi had eight sons: Mitra, Aryaman, Varuṇa, Aṃśa, Bhaga, Dhātṛ, Indra, Vivasvān. In the Śatapatha Brāhmaṇa (Śa. Brā. 6-1-2-8 and Śa. Brā. 11-6-3-8) the Ādityas are twelve, one for each month. In the Purāṇas too the Ādityas are twelve. Although the name of the deity Aryaman occurs in the Ṛgveda in about a hundred places, since he has no complete personality, Yāska in his Nirukta (Nighaṇṭu) has omitted the name of this deity Aryaman when explaining the derivation of the names of the deities. Outside the mantras, Aryaman is mentioned everywhere only together with other deities, and mostly together with Mitra and Varuṇa. When Agni is addressed in winning over maidens,
+
+### Printed p. 516
+त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन्‌गुह्यं बिभर्षि । (*tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvanguhyaṃ bibharṣi |*) (Ṛ. Saṃ. 5-3-2)
+it is said "you are Aryaman".
+In the Ṛk भगो अर्यमा सविता पुरंधिर्मह्यं त्वादुर्गार्हपत्याय देवाः । (*bhago aryamā savitā puraṃdhirmahyaṃ tvādurgārhapatyāya devāḥ |*) (Ṛ. Saṃ. 10-85-36) the bridegroom says: O gods, Bhaga, Aryaman, Savitṛ and Purandhi gave me this bride to help my householder's life.
+न तमंहो न दुरितं देवासो अष्ट मर्त्यं । सजोषसो यमर्यमा मित्रो नयंति वरुणो अति द्विषः ॥ (*na tamaṃho na duritaṃ devāso aṣṭa martyaṃ | sajoṣaso yamaryamā mitro nayaṃti varuṇo ati dviṣaḥ ‖*) (Ṛ. Saṃ. 10-126-1)
+शुनमस्मभ्यमूतये वरुणो मित्रो आर्यमा । शर्म यच्छंतु सप्रथ आदित्यासो यदीमहे अति द्विषः ॥ (*śunamasmabhyamūtaye varuṇo mitro āryamā | śarma yacchaṃtu sapratha ādityāso yadīmahe ati dviṣaḥ ‖*) (Ṛ. Saṃ. 10-126-7)
+Although in the sūkta Ṛ. Saṃ. 10-126 the deities are called Viśvedevas, from the Ṛks quoted above it is chiefly the Ādityas who are praised here. Moreover, देवासः अष्ट (*devāsaḥ aṣṭa*) in the first Ṛk refers to the eight Ādityas (the Veda nowhere gives the number of Ādityas as more than eight). Besides, in the 7th Ṛk the word आदित्यासः (*ādityāsaḥ*) also makes this plain. In every Ṛk of this sūkta (except the last) the names Varuṇa, Mitra, Aryaman, वरुणो, मित्रो, अर्यमा (*varuṇo, mitro, aryamā*), are recited again and again like a refrain, which indicates that these three hold the principal place among the Ādityas. Since Aryaman is not much described in the Ṛgveda, a special account is not possible.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निरिंद्र इति पंचदशर्चं पंचमं सूक्तं । वसुक्रपुत्रस्य वसुकर्णस्यार्षं
+> वैश्वदेवं। पंचदशी त्रिष्टुप् शिष्टा जगत्यः। तथा चानुक्रम्यते। अग्निरिंद्रः पंचोना
+> वासुक्रो वसुकर्णस्त्रिष्टुबंतं त्विति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अग्निरिंद्र (*agniriṃdra*) has fifteen Ṛks and is the fifth sūkta. Its seer is Vasukarṇa, son of Vasukra; its deity is the Viśvedevas. The fifteenth Ṛk is Triṣṭubh and the rest are Jagatī. He quotes the Anukramaṇī: अग्निरिंद्रः पंचोना वासुक्रो वसुकर्णस्त्रिष्टुबंतं त्विति ॥ (*agniriṃdraḥ paṃconā vāsukro vasukarṇastriṣṭubaṃtaṃ tviti ‖*)
+
+##### Anuvāda
+
+This sūkta अग्निरिंद्रः (*agniriṃdraḥ*) is the fifth sūkta in the fifth anuvāka. It has fifteen Ṛks. Its seer is Vasukarṇa, son of Vasukra; the deities are the Viśvedevas; the fifteenth Ṛk of this sūkta is in the Triṣṭubh metre, and the remaining Ṛks are in the Jagatī metre. In the Anukramaṇī it is said: अग्निरिंद्रः पंचोना वासुक्रो वसुकर्णस्त्रिष्टुबंतं तु (*agniriṃdraḥ paṃconā vāsukro vasukarṇastriṣṭubaṃtaṃ tu*).
+
+### Printed p. 517
+Maṇḍala 10; Anuvāka 5; Sūkta 65. Aṣṭaka 8; Adhyāya 2; Vargas 9, 10, 11. Number of Ṛks in the sūkta: 15. Seer: Vasukarṇa Vāsukra. Deity: Viśvedevas. Metre: 1–14 Jagatī; 15 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निरिंद्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा वा॒युः पू॒षा सर॑स्वती स॒जोष॑सः ।  
+> आ॒दि॒त्या विष्णु॑र्म॒रुतः॒ स्व॑र्बृ॒हत्सोमो॑ रु॒द्रो अदि॑ति॒ब्रह्म॑ण॒स्पतिः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । इंद्रः । वरुणः । मित्रः । अर्यमा । वायुः । पूषा । सरस्वती । सजोषसः ।  
+> आदित्याः । विष्णुः । मरुतः । स्वः । बृहत् । सोमः । रुद्रः । अदितिः । ब्रह्मणः । पतिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्न्यादय आदित्यादयो बृहद्बृहती स्वद्यौश्च सोमादय एते देवाः
+> सजोषसः संहत्य ॥
+
+##### Gist of the bhāṣya
+
+Agni and the others, the Ādityas and the others, the great (Bṛhat), the Bṛhatī, Svar and Dyaus, and Soma and the others — these gods, being united (सजोषसः (*sajoṣasaḥ*)), together…
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्निः (*agniḥ*)—Agni
+- इंद्रः (*iṃdraḥ*)—Indra
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अरमा (*aramā*)—Aryaman **NOTE**
+- वायुः (*vāyuḥ*)—Vāyu
+- पूषा (*pūṣā*)—the god Pūṣan
+- सरस्वती (*sarasvatī*)—Sarasvatī
+- आदित्याः (*ādityāḥ*)—the Ādityas
+- विष्णुः (*viṣṇuḥ*)—Viṣṇu
+- मरुतः (*marutaḥ*)—the Maruts
+- बृहत् (*bṛhat*)—the great
+- स्वः (*svaḥ*)—the heavenly world
+- सोमः (*somaḥ*)—Soma
+- रुद्रः (*rudraḥ*)—Rudra
+- अदितिः (*aditiḥ*)—Aditi
+- ब्रह्मणस्पतिः (*brahmaṇaspatiḥ*)—Brahmaṇaspati
+- सजोषसः (*sajoṣasaḥ*)—being united (they pervade the atmosphere and shine)
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, Indra, Varuṇa, Mitra, Aryaman, Vāyu, the god Pūṣan, Sarasvatī, the Ādityas, Viṣṇu, the Maruts, the great heavenly world, Soma, Rudra, Aditi and Brahmaṇaspati, united, pervade the atmosphere and shine.
+
 ---
 
-**Progress note:** Done through printed p. 511. pp. 506-511 (batch API)
+**Progress note:** Done through printed p. 517. pp. 512-517 (batch API)
