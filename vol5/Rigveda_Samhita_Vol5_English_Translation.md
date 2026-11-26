@@ -6768,7 +6768,7 @@
 - **vandanaśrut** — "'Hearer of the praises': this too is the vocative singular; *vandana* means praise; one who is extremely eager in hearing praise."
 - **arvāñcā harī** — "O Indra, may your strong horses come facing our sacrifice: this is the context of praying that you come with your chariot to our sacrifice and accept the oblation."
 - **ketāḥ** — "*Prātikūlyajñātāraḥ*: *cikete prātikūlyaṃ jānantīti ketāḥ*, or 'those who are known as hostile'. Those who consider everything as against them: enemies."
-- **bhūrṇayaḥ** — "Those who have arms; or enemies who are frightened: so it is explained in two ways."
+- **bhūrṇayaḥ** — "Those who are masters of weapons; or enemies who are frightened: so it is explained in two ways."
 
 **Vyākaraṇa-prakriyā** *(pp. 366–367 — grammar pages, noted briefly)*
 - **somapāvan**: *pā pāne*; *ātomanin kvanipvanipaś ca* (Pā. Sū. 3-2-74): *vanip*; the vocative: *sarvanāmasthāne cāsambuddhau* does not lengthen, because *asambuddhau* is stated; *halṅyābbhyo…* drops *su*; *nalopaḥ*: no loss since *na ṅisambuddhyoḥ*; *āmantritasya ca*: *nighāta*.
@@ -7164,9 +7164,9 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "O Indra, great one, you, from heaven, in the regions of the earth, *ojasā*, with strength, *dhiṣe*, establish *dharuṇam*, the life-sustaining rain-water. For you, when delighted by drinking the pressed soma, *ariṇāḥ*, let out the waters from the clouds; and Vṛtra the coverer you *vi arujaḥ*, broke thoroughly, *samayā pāṣyā*, with the solid stone, or with power."
 
-**Pratipadārtha** *(p. 390)* — "**indra** — O Indra; **māhinaḥ** — the marvellous (honoured); **tvam** — you; **divaḥ** — from heaven; **pṛthivyāḥ** — of the earth; **sadaneṣu** — in the various regions; **ojasā** — by your strength; **dharuṇam** — the water that sustains the whole world; **dhiṣe** — you establish; **tvam** — you; **sutasya** — of the soma juice (by drinking it); **made** — when delighted; **apaḥ** — the waters; **ariṇāḥ** — you sent out from the clouds; **vṛtrasya** — Vṛtra; **samayā** — with the hard; **pāṣyā** — with a rock, or power; **vi arujaḥ** — you destroyed well."
+**Pratipadārtha** *(p. 390)* — "**indra** — O Indra; **māhinaḥ** — the marvellous (honoured); **tvam** — you; **divaḥ** — from heaven; **pṛthivyāḥ** — of the earth; **sadaneṣu** — in the various regions; **ojasā** — by your strength; **dharuṇam** — the water that sustains the whole world (life-giving); **dhiṣe** — you establish; **tvam** — you; **sutasya** — of the soma juice (by drinking it); **made** — when delighted; **apaḥ** — the waters; **ariṇāḥ** — you sent out from the clouds; **vṛtrasya** — Vṛtra; **samayā** — with the hard (solidified); **pāṣyā** — with a rock, or power; **vi arujaḥ** — you destroyed well."
 
-**Bhāvārtha** *(p. 390)* — "O Indra, by your wonderful power you pour down, from heaven into the many regions of the earth, the water of rain that sustains the whole world. When you were delighted by drinking the soma, you sent the waters out of the clouds; and you destroyed Vṛtra with a hard rock."
+**Bhāvārtha** *(p. 390)* — "O Indra, by your wonderful power you pour down, from heaven into the many regions of the earth, the water of rain that sustains the whole world. When you were delighted by drinking the soma, you sent the waters out of the clouds; and you struck Vṛtra with a hard rock and destroyed him."
 
 **English Translation (the source's own, p. 390)** — "O mighty Indra, you sent down from heaven, by your power, upon the realms of earth, the world-sustaining rain; exhilarated by the (soma-juice) you have expelled the waters (from the clouds) and have crushed Vritra by a solid rock."
 
@@ -7493,7 +7493,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **asya**: *idam*, genitive singular; *ūḍidam…*: ending acute.
 - **stotuḥ**: *ṣṭuñ stutau*; *tṛc* in the agent sense; *citaḥ*: end-acute; genitive singular.
 - **pṛṇa**: *pṛṇa prīṇane*, *tudādi*; *loṭ* second singular *sip* → *hi*; *tudādibhyaḥ śaḥ*; *sārvadhātukam apit*; no *laghūpadhaguṇa* (*pugantalaghūpadhasya ca*); *ato heḥ*: *luk*; *tiṅ atiṅaḥ*: *nighāta*.
-- **mame**: *māṅ māne śabde ca*; *jit*: *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64): loss of *ā*; *nighāta*.
+- **mame**: *māṅ māne śabde ca*; *jit*: accent *anudātta*; *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *āto lopa iṭi ca* (Pā. Sū. 6-4-64): loss of *ā*; *nighāta*.
 - **neme**: *ṇamu prahvatve (śabde ca)*; *liṭ* third singular; *eś*; doubling; *kit*; since the root has a single consonant between *a*s, *ata ekahalmadhye 'nādeśāder liṭi* (Pā. Sū. 6-4-120): *e* for the root-vowel and loss of the reduplicative; *neme*; *tiṅ atiṅaḥ*: *nighāta*. **|| 5 ||**
 
 ---
@@ -7630,7 +7630,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **nū cit** — "Both are indeclinables meaning 'alertly'; *cit* is used in the sense of *eva*."
 - **ni tundate** — "*Nitarāṃ vyathayati* or *nirgacchati*: none can touch Agni born of the sticks; if one touches, he causes pain; or: he comes out from the stick, manifesting his form previously hidden. The sense of motion is assigned to the root *tuda*, which means 'to hurt'."
 - **hotā** — "One who invites all the deities in the sacrifice; here, since it is Agni who invites the deities, Agni is called *hotṛ*."
-- **vivasvataḥ** — "The sacrificer who serves Agni."
+- **vivasvataḥ** — "The oblation that the sacrificer gives to the deities with mantras in the sacrifice, Agni conveys to the respective deities. The meaning is: of the sacrificer who serves Agni."
 - **devatātā** — "A name for sacrifice; in the Nirukta (Ni. 3-19) fifteen synonyms for sacrifice are read: *yajñanāmāny uttarāṇi pañcadaśa*. This word, though in the nominative form, is used in the locative sense."
 
 **Vyākaraṇa-prakriyā** *(pp. 414–415 — grammar pages, noted briefly)*
@@ -8013,7 +8013,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "O *sahasaḥ sūno*, son of strength — for Agni, when rubbed with force, is born; *mitramahaḥ*, of favourably shining radiance: Agni, to us the praisers *adya*, today, in this rite, *acchidrā*, *acchedyāni*, not to be cut off, *śarma yaccha*, grant joys. And, O *ūrjo napāt*, offspring of food — by the food eaten, the belly-fire is increased, whence Agni is 'the son of food' — such Agni, *gṛṇantam*, you who are praised: *āyasībhiḥ pūrbhiḥ*, with the all-pervading — or, strong as iron — guards, protections, *aṃhasaḥ uruṣya*, protect from sin; *uruṣyati* is a verb of protecting, says Yāska (Ni. 5-23)."
 
-**Pratipadārtha** *(p. 434)* — "**sahasaḥ sūno** — O son of force; **mitramahaḥ** — O (Agni) of favourable radiance; **naḥ stotṛbhyaḥ** — to us the praisers; **adya** — in this sacrifice; **acchidrā** — uninterrupted; **śarma** — happiness; **yaccha** — give; **ūrjo napāt** — O offspring of food; **agne** — Agni; **gṛṇantam** — [you] who are praised (your devotee); **āyasībhiḥ** — extensive, or strong as iron; **pūrbhiḥ** — with protections; **aṃhasaḥ** — from sin; **uruṣya** — protect."
+**Pratipadārtha** *(p. 434)* — "**sahasaḥ sūno** — O son of force; **mitramahaḥ** — O (Agni) of favourable radiance; **naḥ stotṛbhyaḥ** — to us the praisers; **adya** — in this sacrifice; **acchidrā** — uninterrupted; **śarma** — happiness; **yaccha** — give; **ūrjo napāt** — O offspring of food; **agne** — Agni; **gṛṇantam** — the devotee who praises (you); **āyasībhiḥ** — extensive, or strong as iron; **pūrbhiḥ** — with protections; **aṃhasaḥ** — from sin; **uruṣya** — protect."
 
 **Bhāvārtha** *(p. 434)* — "O Agni, son of strength, of favourable radiance, graciously grant us, your praisers, in this sacrifice uninterrupted happiness. O Agni, son of food, protect your praising devotee from sin by the iron-strong guards of your protection."
 
@@ -8021,9 +8021,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 434**
 - **sahasaḥ sūno** — "This is a vocative of a word that denotes Agni. Since Agni is produced with the help of the fire-sticks only by the exertion of force, the status 'son of force' is attributed to Agni."
-- **mitramahaḥ** — "*Mitraṃ mahaḥ yasya*: one of favourable radiance, i.e. Agni does not, by his radiance in the sacrifice, burn anyone."
+- **mitramahaḥ** — "*Mitraṃ mahaḥ yasya*: one of favourable radiance, i.e. Agni does not, by his radiance in the sacrifice, cause trouble to anyone."
 - **ūrjo napāt** — "*Na pātayati iti napāt*: 'son of food'. Men increase the digestive fire by the food they have eaten; so the strength that grows by food came to Agni; hence Agni should be called 'son of food'."
-- **āyasībhiḥ** — "*Vyāptaiḥ* or *ayovad dṛḍhataraiḥ*: two senses, 'all-pervading' or 'stronger than iron', are given for this word."
+- **āyasībhiḥ** — "*Vyāptaiḥ* or *ayovad dṛḍhataraiḥ*: two senses, 'all-pervading' or 'firmer, like iron', are given for this word."
 - **uruṣya** — "*Rakṣa*: the Nirukta (Ni. 5-23) says that *uruṣyati* is a verb of protection."
 
 **Vyākaraṇa-prakriyā** *(p. 435 — grammar page, noted briefly)*
@@ -8155,7 +8155,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Translation of the bhāṣya:** "*Vayāḥ* are branches — 'the *vayāḥ* are from *vetiḥ*; they are the wind-passages [i.e. branches]', says Yāska (Ni. 1-4). O Agni, whatever other fires there are, all of them are only your *vayā it*, branches; there are none other than you. Further, *tve*, when you are, *viśve amṛtāḥ*, all the immortal gods *mādayante*, rejoice; they cannot live without you. O *vaiśvānara*, Agni, related to all men in the form of the belly-fire, you are *nābhiḥ*, the navel, the centre, of *kṣitīnām*, men: you are the establisher. Therefore you, *upamit*, as one who sets firmly, *janān yayantha*, uphold the people — an example: *sthūṇā iva*, as a pillar planted deep to hold the beam holds the roof-beam over a house."
 
-**Pratipadārtha** *(pp. 440–441)* — "**agne** — O Agni; **anye agnayaḥ** — whichever other fires; **vayā it** — are but your branches; **tve** — in you; **viśve amṛtāḥ** — all the deathless gods; **mādayante** — rejoice; **vaiśvānara** — O Agni, who among all men in the form of the belly-fire; **kṣitīnām** — of men; **nābhiḥ asi** — are the centre, as the navel; **upamit** — set deep; **sthūṇā iva** — as a pillar [holds the house up well]; **janān** — men; **yayantha** — you hold, giving support."
+**Pratipadārtha** *(pp. 440–441)* — "**agne** — O Agni; **anye agnayaḥ** — whichever other fires; **vayā it** — are but your branches; **tve** — when you are; **viśve amṛtāḥ** — all the deathless gods; **mādayante** — rejoice; **vaiśvānara** — O Agni, who among all men in the form of the belly-fire; **kṣitīnām** — of men; **nābhiḥ asi** — are the centre, as the navel; **upamit** — set deep; **sthūṇā iva** — as a pillar [holds the house up well]; **janān** — men; **yayantha** — you hold, giving support."
 
 **Bhāvārtha** *(p. 441)* — "O Agni, whatever other fires there are in the world are your branches. Because of you all the deathless gods rejoice. Dwelling in the belly of all men as belly-fire, you stand in the centre as the navel. Like a deep-planted pillar that holds up the roof-beam of a house, you stand holding and supporting all men."
 
