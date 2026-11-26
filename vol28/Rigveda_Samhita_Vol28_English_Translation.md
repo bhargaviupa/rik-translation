@@ -20615,6 +20615,315 @@ Chandas: 1, 2 Jagatī; 3-12 Triṣṭup.
 
 May the sights (saṃdṛśaḥ) of Agni, whose qualities will be told, be auspicious for my father, who bears the name Vadhryaśva. Or else: may the sights of Agni, born in the family of Vadhryaśva, be worthy of being served; may his leading forward (praṇīti) and his welfare be there; and may the approaches (upetayaḥ) to the sacrifice be of good delight. The men named Sumitra, who kindle this Agni first, whenever they kindle him.
 
+### Printed p. 590
+
+> हविर्भिर्दिर्पयंति तदा धृतेनाहुतो हविर्भिश्च दविद्युतद्भृशं द्योतमानः ॥
+> दाधर्तिदर्धर्तित्यादिना निपातितः । सोग्निर्जरते । अस्माभिः स्तूयते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes his gloss of the preceding verse. Agni, fed with oblations and with ghee, is "brilliantly blazing", shining intensely. The word जरते (*jarate*) is explained as "he is praised by us", the form being derived by the rule that treats it as an irregularly formed word.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्नेः (*agneḥ*)—of Agni
+- संदृशः (*saṃdṛśaḥ*)—the benevolent glances
+- वध्र्यश्वस्य (*vadhryaśvasya*)—to my father named Vadhryaśva
+- भद्राः (*bhadrāḥ*)—may they be beneficent
+- प्रणीतिः (*praṇītiḥ*)—his excellent guidance
+- वामी (*vāmī*)—may it be auspicious
+- उपेतयः (*upetayaḥ*)—his approach towards the sacrifice
+- सुरणाः (*suraṇāḥ*)—may it be favourable
+- सुमित्राः (*sumitrāḥ*)—those named Sumitra
+- विशः (*viśaḥ*)—people
+- ईं (*īṃ*)—Agni
+- अग्रे (*agre*)—first
+- यत् (*yat*)—when
+- इंथते (*iṃthate*)—they cause to blaze, then
+- घृतेन (*ghṛtena*)—with ghee
+- आहुतः (*āhutaḥ*)—honoured
+- दविद्युतत् (*davidyutat*)—and shining, Agni
+- जरते (*jarate*)—is praised by us
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni's benevolent glances be beneficent to my father Vadhryaśva. May his excellent guidance be auspicious. May his approach towards the sacrifice be favourable. When the people named Sumitra first cause Agni to blaze, then Agni, honoured with ghee and shining, is praised by us.
+
+##### English translation
+May Agni's regards be benevolent to Vadhryashwa, may his guidance be auspicious, his approaches (to the sacrifice) favourable; when the Sumitra people first kindle Agni, then fed with butter and brilliantly blazing, he is glorified.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> घृ॒तम॒ग्नेर्व॑ध्र्य॒श्वस्य॒ वर्ध॑नं घृ॒तमन्नं॑ घृ॒तम्व॑स्य॒ मेद॑नं ।  
+> घृ॒तेनाहु॑त उर्वि॒या वि प॑प्रथे॒ सूर्य॑ इव रोचते स॒र्पिरा॑सुतिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> घृतं । अग्नेः । वध्रिऽअश्वस्य । वर्धनं । घृतं । अन्नं । घृतं । ऊं इति । अस्य ।  
+> मेदनं ।  
+> घृतेन । आहुतः । उर्विया । वि । पप्रथे । सूर्यः इव । रोचते । सर्पि आसुतिः॥
+
+### Printed p. 591
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वध्र्यश्वस्य संबंधिनोऽग्नेर्घृतं दीयमानं हनिर्वर्धनं भवतु । तथा
+> घृतमन्नमदनीयं भवतु । तथास्याग्नेर्घृतमु घृतमेव मेदनं पुष्टिकरं भवतु।
+> येनाग्निः पुष्टो भवति तन्नेदनं । तेन घृतेनाहुतोऽग्निरुर्वियोर्वत्यंतं वि
+> पप्रथे । स्वतेजसा विप्रथितो भवति । तथा सर्पिरासुतिः सर्पिरासूयते यस्मिन्निति
+> सोऽग्निः सूर्य इव रोचते । दीप्यते ॥
+
+##### Gist of the bhāṣya
+
+The ghee offered to Agni of Vadhryaśva is to be his augmenter; ghee is to be his food; ghee alone is his मेदनं (*medanaṃ*), the nourishing thing, that by which Agni becomes nourished. Fed with that ghee, Agni spreads out widely with his own radiance. And Agni, in whom the ghee is poured, shines like the sun.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वध्र्यश्वस्य (*vadhryaśvasya*)—worshipped by Vadhryaśva
+- अग्नेः (*agneḥ*)—of Agni
+- घृतं (*ghṛtaṃ*)—the oblation
+- वर्धनं (*vardhanaṃ*)—may it grow
+- घृतं (*ghṛtaṃ*)—the oblation
+- अन्नं (*annaṃ*)—may it be fit for his eating
+- अस्य (*asya*)—of this Agni
+- घृतमु (*ghṛtamu*)—the oblation in the form of ghee itself
+- मेदनं (*medanaṃ*)—may it be nourishing
+- घृतेन (*ghṛtena*)—with ghee
+- आहुतः (*āhutaḥ*)—Agni honoured
+- उर्विया (*urviyā*)—exceedingly
+- वि पप्रथे (*vi paprathe*)—spreads out with his radiance
+- सर्पिरासुतिः (*sarpirāsutiḥ*)—Agni praised with hymns
+- सूर्य इव (*sūrya iva*)—like the sun
+- रोचते (*rocate*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+May the oblation offered to Agni, who is worshipped by Vadhryaśva, grow. May the oblation be fit for his eating. May this oblation in the form of ghee be nourishing. Agni, worshipped with ghee, spreads out exceedingly with his radiance. Agni, praised with hymns, shines like the sun.
+
+##### English translation
+May ghi be the augmenter of the Agni of Vadhryashwa; may ghi be his food; may ghi be his nutriment; sacrificed to with ghi he expands excee- dingly; he shines like the sun, when the clarified butter is poured out for him.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ मनु॒र्यदनी॑कं सुमि॒त्रः स॑मी॒धे अ॑ग्ने॒ तदि॒दं नवी॑यः।  
+> स रे॒वच्छो॑च॒ स गिरो॑जुषस्व॒ स वाजं॑ दर्षि॒ स इ॒ह श्रवो॑ धाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । मनुः । यत् । अनीकं । सुमित्रः । संईधे । अग्ने । तत् । इदं ।  
+> नवीयः ।
+
+### Printed p. 592
+
+> सः । रेवत् । शोच । सः । गिरः । जुषस्व । सः । वाजं । दर्षि । सः । इह । श्रवः । धाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने ते त्वदीयं यदनीकं रश्मिसंघं मनुरेतन्नामको यथा
+> समीधे हविर्भिः सम्यग्दीपयति सुमित्र एतन्नामकोऽहं समीपे। सम्यग्दीपयामि॥
+> इइंधी दीप्तौ । लिटींधिभवतिभ्यां चेति कित्वान्नलोपः ॥ तदिदं सोऽयं रश्मिसंघो नवीयो नवतरो भवतु । स त्वं रेवद्धनयुक्तं यथा भवति तथा शोच ।
+> प्रज्वल । स एव त्वं गिरोऽस्मदीयाः स्तुतीर्जुषस्व । सेवस्व । स त्वं वाजं शत्रुबलं
+> दर्षि । विदारय । तथेह मयि श्रवोऽन्नं धाः । धेहि ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, that host of your rays which Manu kindled, as I, Sumitra, also kindle it nearby, igniting it well with oblations: may this same host be newer. You, shine wealthily, that is, blaze so as to bring wealth. Accept our praises. Break the strength of the enemy. Place food in me here." He explains समीधे (*samīdhe*) from the root इइंधी (*iiṃdhī*) in the sense of kindling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—your
+- यत् अनेकं (*yat anekaṃ*)—which mass of flames
+- मनुः (*manuḥ*)—Manu
+- समीधे (*samīdhe*)—caused to blaze
+- सुमित्रः (*sumitraḥ*)—I, named Sumitra, whichever flames of yours I caused to blaze
+- तदिदं (*tadidaṃ*)—that mass of your flames
+- नवीयः (*navīyaḥ*)—may it attain a new form
+- सः (*saḥ*)—you
+- रेवत् (*revat*)—so as to bestow wealth
+- शोच (*śoca*)—shine
+- सः (*saḥ*)—you
+- गिरः (*giraḥ*)—our praises
+- जुषस्व (*juṣasva*)—accept
+- सः (*saḥ*)—you
+- वाजं (*vājaṃ*)—the strength of enemies
+- दर्षि (*darṣi*)—destroy
+- इह (*iha*)—in me
+- श्रवः (*śravaḥ*)—food
+- धाः (*dhāḥ*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, may that mass of your flames which Manu caused to blaze, and which I, named Sumitra, caused to blaze, attain a new form. Shine so as to bestow wealth. Accept our praises. Destroy the strength of enemies. Establish food in me.
+
+##### English translation
+May that your army of flame, Agni, which Manu, which Sumitra has kindled, be the newest; do you shine wealthily, do you grociously accept our praises; do you destroy the might (of our foes); do you grant us abundance.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वा॒ पूर्व॑मीळि॒तो व॑ध्र्य॒श्वः स॑मी॒धे अ॑ग्ने॒ स इ॒दं जु॑षस्व ।  
+> स नः॑ स्ति॒पा उ॒त भ॑वा तनू॒पा दा॒त्रं र॑क्षस्व॒ यदि॒दं ते॑ अ॒स्मे ॥४॥
+
+### Printed p. 593
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । त्वा । पूर्वं । ईळितः । वध्रिऽअश्वः । संईधे । अग्ने । सः । इदं । जुषस्व ।  
+> सः । नः । स्तिपाः । उत । भव । तनूपाः । दात्रं । रक्षस्व । यत् । इदं । ते । आस्मे इति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईळितः ॥ व्यत्ययेन कर्तरि क्तः ॥ स्तोता वध्यश्वो मम पिता पूर्वं पूर्वस्मिन्काले संजातं यं त्वा समीधे हविर्भिः सम्यगदीपयत् स त्वमिदानीं मया
+> क्रियमाणमिदं स्तोत्रं जुषस्व । सेवस्व । यद्वा । वध्यश्वस्तस्य पुत्रोऽहं सम्यग्दीपितवानस्मि । स त्वं नोऽस्माकं स्तिपाः ॥ पृषोदरादिः ॥ पस्त्र्यं गृहं । तस्य रक्षको
+> भव । यद्वा । उपस्थिताइष्टोमादीन्यागान्पालयतीति स्तिपाः । अस्मदीयानां
+> यज्ञानां पालयिता भव । उतापि च तनूपाः स्वांगानां रक्षको भव । किंच दात्रं
+> तद्धनं रक्षस्व यदिदं धनं ते तव स्वभूतेष्वस्मे अस्मासु तिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+ईळितः (*īḷitaḥ*) has the suffix kta in the active sense by variation. My father Vadhryaśva, the praiser, in former time kindled you well with oblations; you now accept this hymn made by me. Or else: I, his son, have kindled you well. You, be our स्तिपाः (*stipāḥ*), an irregular form: पस्त्र्यं (*pastryaṃ*) is the house, so be its protector. Or else: स्तिपाः (*stipāḥ*) is one who guards the sacrifices such as the Agniṣṭoma that are at hand; so be the guardian of our sacrifices. And be the protector of our own bodies. Further, guard that wealth which stands with us, belonging to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ईळितः (*īḷitaḥ*)—the praiser
+- वध्र्यश्वः (*vadhryaśvaḥ*)—Vadhryaśva
+- पूर्वं (*pūrvaṃ*)—formerly
+- यं त्वा (*yaṃ tvā*)—you whom
+- समीधे (*samīdhe*)—he caused to blaze with oblations
+- सः (*saḥ*)—that same you
+- इदं (*idaṃ*)—this hymn of mine
+- जुषस्व (*juṣasva*)—accept
+- सः (*saḥ*)—you
+- नः (*naḥ*)—our
+- स्तिपाः (*stipāḥ*)—as house-protector
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- तनूपाः (*tanūpāḥ*)—be the protector of our bodies
+- यदिदं (*yadidaṃ*)—which wealth
+- ते (*te*)—your
+- अस्मे (*asme*)—is established among us, your worshippers
+- दात्रं (*dātraṃ*)—such wealth
+- रक्षस्व (*rakṣasva*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you whom the praiser Vadhryaśva formerly caused to blaze with oblations, that same you accept this hymn of mine. Be the protector of our house. Be also the protector of our bodies. Protect the wealth given by you and established among us.
+
+##### English translation
+Do you, Agni, whom Vadhryshwa propitiating you formerly kindled, accept this; be the protector of our sacrifices, be the protector of our bodies; preserve this wealth which has been given to us by you.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> भवा॑ द्यु॒म्मी वा॑ध्यश्वो॒त गो॒पा मा त्वा॑ तारीद॒भिमा॑ति॒र्जना॑नां ।  
+> 75
+
+### Printed p. 594
+
+> शूर इव धृष्णुश्च्यवनः सुमित्रः प्र नु वोचं वाध्र्यश्वस्य  
+> नाम ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> भव । द्युम्नी । वाध्रिअश्व । उत । गोपाः । मा । त्वा । तारीत् । अभिमातिः। जनानां॥  
+> शूरःइव । धृष्णुः । च्यवनः । सुमित्रः । प्र । नु । वोचं । वाध्रिअश्वस्य । नाम ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाध्र्यश्व वध्यश्वकुले जाताग्ने द्युम्नी । द्युम्नं द्योततेर्यशो
+> वान्नं ना । तद्वान्भव । उतापि च गोपा गोपायिता भव । किंच त्वा त्वां कश्चिदसि
+> मा तारीत् । मा हिनस्तु । यतो जनानां शत्रूणामभिमातिरभिभवनशीलमानयुक्तोऽभिभविता भवसि । किंच शूर इव बलवानिव धृष्णुः शत्रुधर्षणशीलः तस्माच्च्यवनस्तेषां च्यावयिता भवसि । अथ वाध्र्यश्वस्याग्नेस्तव नामाग्निर्जातवेदा
+> वैश्वानर इत्यादीनि नामानि नु क्षिप्रं सुमित्रोऽहं प्र वोचं । प्रब्रवीमि । तस्मान्मेऽन्नादियुक्तो भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, born in the family of Vadhryaśva, be द्युम्नी (*dyumnī*); द्युम्नं (*dyumnaṃ*) from the root द्योतते (*dyotate*) means fame or food, so be possessed of it. Be also our protector. Let no one harm you, for you are the overcomer of the enemies, one who overpowers with pride. Like a hero, a strong one, you are bold against enemies and so their dislodger. Now I, Sumitra, quickly proclaim the names of you, Agni of Vadhryaśva: *agnirjātavedā vaiśvānara* and the like. Therefore be possessed of food for me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाध्र्यश्व (*vādhryaśva*)—O Agni, belonging to Vadhryaśva
+- द्युम्मी (*dyummī*)—become possessed of food
+- भव (*bhava*)—be
+- उत (*uta*)—and
+- गोपाः (*gopāḥ*)—be our protector
+- त्वा (*tvā*)—you
+- मा तारीत् (*mā tārīt*)—let no one harm
+- जनानां (*janānāṃ*)—of all
+- अभिमातिः (*abhimātiḥ*)—you are the one who brings defeat
+- शूर इव (*śūra iva*)—like a hero
+- धृष्णुः (*dhṛṣṇuḥ*)—you crush enemies
+- च्यवनः (*cyavanaḥ*)—and are their destroyer
+- सुमित्रः (*sumitraḥ*)—named Sumitra
+- अहं (*ahaṃ*)—I
+- वाध्र्यश्वस्य (*vādhryaśvasya*)—of you, belonging to Vadhryaśva
+- नाम (*nāma*)—the names such as Vaiśvānara
+- नु (*nu*)—quickly
+- प्र वोचं (*pra vocaṃ*)—I recite
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, belonging to Vadhryaśva, be possessed of food. Be our protector. Let no one harm you. You bring defeat to all. Like heroes you crush enemies and destroy them. I, named Sumitra, quickly recite your names, such as Vaiśvānara, you who belong to Vadhryaśva.
+
+##### English translation
+Kinsman of Vadhryashwa, be the possessor of food and our protector; let one assail you, (for you are) the overcomer of men; like a resolute warrior (you are) the overthrower (of enemies); I, Sumitra, celebrate the names of the kinsmen of Vadhryashwa,
+
+#### Ṛk 6
+### Printed p. 595
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॒ज्र्या॑ पर्व॒त्या॒३॒॑शिवसू॑नि॒ दासा॑ वृ॒त्राण्यार्या॑ जिगेथ ।  
+> शूर॑ इव धृ॒ष्णुश्च व॑नो॒ जना॑नां॒त्वम॑ग्ने पृतना॒यूर॒भि ष्याः॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अज्र्या । पर्वत्या । वसूनि । दासा । वृत्राणि । आर्या । जिगेथ ।  
+> शूरःइव । धृष्णुः । च्यवनः । जनानां । त्वं । अग्ने । पृतन्वायून् । अभि । स्याः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने अज्रा । अजंति गच्छंतीत्यज्रयो जनाः । तेभ्यो हितानि पर्वत्या
+> पर्वतभवानि वसूनि गवादिलक्षणानि सं जिगेथ । शत्रुभ्यः संजितवानसि । तथार्या बलवद्भिः कृतान्दासा दासैरसुरैः कृतान्वृत्राण्युपद्रवान्सं जिगेथ । तान्हतवानसीत्यर्थः ॥
+> जि जये । लिटि रूपं ॥ शूर इव धृष्णुर्जनानां च्यवनस्त्वं पृतनायून्संग्रामकामानभि ष्याः । अभिभव ॥ पृतनायूनित्यत्र लोपाभावश्चांदसः । अश्वाघस्यादित्यात्वं
+> विधीयमानमस्मादपि व्यत्ययेन भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, अज्रा (*ajrā*): those who go are *ajrayaḥ*, people. For them you have conquered the mountain-born riches पर्वत्या वसूनि (*parvatyā vasūni*), such as cattle, from the enemies. Likewise you have conquered the वृत्राणि (*vṛtrāṇi*), the afflictions, caused by the strong (आर्या (*āryā*)) and by the दासा (*dāsā*), the Asura servants; that is, you have slain them. जिगेथ (*jigetha*) is a perfect-tense form of the root जि (*ji*) "to conquer". Like a hero, bold, the dislodger of men, you overcome those who desire battle. The non-elision in पृतनायून् (*pṛtanāyūn*) is Vedic; the ending ā prescribed for अश्वाघस्य (*aśvāghasya*) occurs here too by variation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- अज्रा (*ajrā*)—beneficial to men
+- पर्वत्या (*parvatyā*)—and mountain-born
+- वसूनि (*vasūni*)—riches
+- सं जिगेथ (*saṃ jigetha*)—you have wrested from enemies
+- आर्या (*āryā*)—produced by Āryas
+- दासा (*dāsā*)—and produced by Dāsas
+- वृत्राणि (*vṛtrāṇi*)—all the afflictions
+- (सं (*saṃ*)) जिगेथ (*jigetha*)—you have destroyed together
+- शूर इव (*śūra iva*)—like a hero
+- धृष्णुः (*dhṛṣṇuḥ*)—one who overpowers enemies
+- जनानां (*janānāṃ*)—of enemy people
+- च्यवनः (*cyavanaḥ*)—and their destroyer
+- त्वं (*tvaṃ*)—you
+- पृतनायून् (*pṛtanāyūn*)—enemy warriors
+- अभि ष्याः (*abhi ṣyāḥ*)—you defeat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you have wrested from enemies the riches that are beneficial to men and mountain-born (or hidden in the mountain). You have destroyed together all the afflictions produced by Āryas and by Dāsas. You, who like a hero overpower enemies and destroy enemy people, defeat enemy warriors.
+
+##### English translation
+You have gained mountain-treasures beneficial to men, (you have defeated ihe hostilities) of strong men, Dasas and Vritras, like are solute
+
 ---
 
-**Progress note:** Done through printed p. 589. pp. 584-589 (batch API)
+**Progress note:** Done through printed p. 595. pp. 590-595 (batch API)
