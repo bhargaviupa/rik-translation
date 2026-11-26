@@ -51,7 +51,7 @@ At the beginning of the bhāṣya on the first Ṛk of this sūkta, Sāyaṇa ha
 
 The order of origin of the gods that is told in the Purāṇas and the like differs from the order of origin of the gods that is told in the Ṛgveda. Although it is the custom to call the Ādityas by the general word "gods", the number of the Ādityas, that is, of the sons of Aditi, is limited. In some places this limit of number is stated in various ways as six, seven or eight. In the Taittirīya Brāhmaṇa and the Taittirīya Āraṇyaka their number is stated clearly as eight, and their names are also given. Although we explained this matter earlier, we shall discuss it at length in the later Ṛks of this sūkta, that is, in Ṛks 8 and 9. There are also some other gods who are not sons of Aditi. Their matter is not set out in this sūkta. Of the chief among them, Agni, Vāyu and the others, we have written briefly earlier about their origin; we shall explain it later as occasion arises.
 
-In this sūkta the state that existed before creation, the nature of the manifest and the unmanifest, called sat and asat, and a brief account of the measures of time such as the yuga are indicated. We shall explain these matters in detail in the Special Topics of the respective Ṛks.
+In this sūkta the state that existed before creation, the nature of the manifest and the unmanifest, called sat and asat, and a brief account of the measures of time such as the yuga are indicated. We shall explain these matters briefly in the Special Topics of the respective Ṛks.
 
 This sūkta was composed by the seer Bṛhaspati, traditionally famed as Brahmaṇaspati. In it the truth seen by Bṛhaspati and the order of creation of the world and the like are set out. Like the seers Aghamarṣaṇa, Dīrghatamas, Hiraṇyagarbha and others who set out spiritual truth, Bṛhaspati too is a renowned seer.
 
@@ -9607,7 +9607,7 @@ Sāyaṇa says: O divine Soma, when they drink you, in the form of the plant, at
 
 ##### Gist of the bhāṣya
 
-(The sentence continues.) ...in accordance with the śruti that one should sacrifice with the Jyotis in each spring. Or else: through the vessels (grahas) that are modifications of the wood that holds Soma, Vāyu becomes the protector of the Soma juice, according to the śruti that the lords of the forest have Vāyu as their protector. This is the construction for the Soma that is a creeper. On the view that Soma is the moon: O divine Soma, when the rays drink you in the dark fortnight, immediately afterwards you swell up again in the bright fortnight. And Vāyu is your protector, since the course of the moon depends on Vāyu. Further, you are the maker of the form of the month of the years; for the month is completed by the loss and gain of one digit after another, and by those the year.
+...in accordance with the śruti that one should sacrifice with the Jyotis in each spring. Or else: through the vessels (grahas) that are modifications of the wood that holds Soma, Vāyu becomes the protector of the Soma juice, according to the śruti that the lords of the forest have Vāyu as their protector. This is the construction for the Soma that is a creeper. On the view that Soma is the moon: O divine Soma, when the rays drink you in the dark fortnight, immediately afterwards you swell up again in the bright fortnight. And Vāyu is your protector, since the course of the moon depends on Vāyu. Further, you are the maker of the form of the month of the years; for the month is completed by the loss and gain of one digit after another, and by those the year.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
@@ -16943,13 +16943,13 @@ As long, Matarishvan, as the swiftly-moving (nights) cover the face of the dawn,
 
 ##### विशेषविषयगळु (Special Topics)
 
-The explanation of this by Yāska is as follows:
+Yāska's explanation of this Ṛk is as follows:
 
 यावन्मात्रमुषसः प्रत्यक्तं भवति प्रतिदर्शनमिति वास्तुपमानस्य संप्रत्यर्थे प्रयोग इहेव निधेहीति यथा सुपर्ण्यः सुपतना एता रात्रयो वसते मातरिश्वन ज्योतिर्वर्णस्य तावदुपदधाति यज्ञमागच्छन् ब्राह्मणो होतास्याग्नेर्होतुरवरो नीषीदन् ॥ (*yāvanmātramuṣasaḥ pratyaktaṃ bhavati pratidarśanamiti vāstupamānasya saṃpratyarthe prayoga iheva nidhehīti yathā suparṇyaḥ supatanā etā rātrayo vasate mātariśvana jyotirvarṇasya tāvadupadadhāti yajñamāgacchan brāhmaṇo hotāsyāgnerhoturavaro nīṣīdan ‖*)
 
 (Ni. 7.31)
 
-An example of one more Ṛk has been given in this matter. In the preceding Ṛk Agni and Vāyu are praised. In this Ṛk Agni alone is praised. Mātariśvan (Vāyu) is asked by a man whether the Brahman, the human hotṛ who takes part in the sacrifice, can bear, that is, can know, the knowledge which Agni, the hotṛ of the gods, has (the understanding of the performance of the sacrifice). That man has given this reply: O Mātariśvan, for as long as (for how long) the birds with good wings hold the dawn, for so long the Brahman, the human hotṛ, who sits in the sacrificial hall near the sacrificial fire, in a place lower than Agni, bears it
+An example of one more Ṛk has been given in this matter. In the preceding Ṛk Agni and Vāyu are praised. In this Ṛk Agni alone is praised. Mātariśvan (Vāyu) asked a man whether the Brahman, the human hotṛ who takes part in the sacrifice, can bear, that is, can know, the knowledge which Agni, the hotṛ of the gods, has (the understanding of the performance of the sacrifice). That man has given this reply: O Mātariśvan, for as long as (for how long) the birds with good wings hold the dawn, for so long the Brahman, the human hotṛ, who sits in the sacrificial hall near the sacrificial fire, in a place lower than Agni, bears it
 
 ### Printed p. 574
 
@@ -24134,13 +24134,13 @@ The self-existent Supreme Brahman practised austerity. By this austerity alone c
 
 Viśvakarman Bhauvana (Puruṣa, Prajāpati, Viśvakarman and Hiraṇyagarbha are all words that teach one and the same principle) performed this सर्वमेध (*sarvamedha*). As its fruit he brought all the beings of the universe under his rule, and, himself all-pervading, obtained every kind of lordship. It is praised that the sacrificer obtains the same rank if he knows this principle and performs it. If it is asked what the nature of the सर्वमेध (*sarvamedha*) performed by Viśvakarman Bhauvana was, its description is as follows.
 
-Although the ritual procedures of the Puruṣa sacrifice and the सर्वमेध (*sarvamedha*) are different, the principle intended by the word सर्वहुतः (*sarvahutaḥ*) is one; therefore, by describing those procedures, the purport of the sentence अद्यतेऽत्तिच भूतानि (*adyate 'ttica bhūtāni*) is conveyed, and the matter of the whole world being offered as an oblation to Viśvakarman and he becoming the inner controller of all is told here. And the nature of the Puruṣa sacrifice will be described in the Special Topics of the Ṛk.
+[Although the ritual procedures of the Puruṣa sacrifice and the सर्वमेध (*sarvamedha*) are different, the principle intended by the word सर्वहुतः (*sarvahutaḥ*) is one; therefore, by describing those procedures, the purport of the sentence अद्यतेऽत्तिच भूतानि (*adyate 'ttica bhūtāni*) is conveyed, and the matter of the whole world being offered as an oblation to Viśvakarman and he becoming the inner controller of all is told here. And the nature of the Puruṣa sacrifice will be described in the Special Topics of the Ṛk.]
 
 The nature of the सर्वमेध (*sarvamedha*) performed by Viśvakarman Bhauvana and its fruits: this description is in the form of injunction.
 
 स वा एष सर्वमेधो दशरात्रो यज्ञक्रतुर्भवति । दशाक्षरा विराद्विराडु कृत्स्नमन्नं कृत्स्नस्यॆवान्याद्यस्यावरुद्धै तस्मिन्नग्निं परार्ध्यं चिनोति परमो वा एष यज्ञक्रतूनां यत्सर्वमेधः परमेणैवैनं परमतां गमयति । (*sa vā eṣa sarvamedho daśarātro yajñakraturbhavati | daśākṣarā virādvirāḍu kṛtsnamannaṃ kṛtsnasyèvānyādyasyāvaruddhai tasminnagniṃ parārdhyaṃ cinoti paramo vā eṣa yajñakratūnāṃ yatsarvamedhaḥ parameṇaivainaṃ paramatāṃ gamayati |*) (Pa. Bra. 13-7-1-2) **NOTE**
 
-If every kind of wealth of food is to be obtained, the sacrifice of the form of the सर्वमेध (*sarvamedha*) must be performed. Food is in the form of the Virāṭ; the Virāṭ metre has ten syllables. Its favour is possible only through the सर्वमेध (*sarvamedha*), which lasts ten nights. The सर्वमेध (*sarvamedha*) is the best of all other sacrificial acts. Therefore this sacrifice should be performed after constructing the fire-altar, the best of all. As the fruit of performing this same sacrifice Viśvakarman Bhauvana obtained the highest station; so it is said.
+If every kind of wealth of food is to be obtained, the sacrifice of the form of the सर्वमेध (*sarvamedha*) must be performed. Food is in the form of the Virāṭ; the Virāṭ has ten syllables (10). Its favour is possible only through the सर्वमेध (*sarvamedha*), which lasts ten nights. The सर्वमेध (*sarvamedha*) is the best of all other sacrificial acts. Therefore this sacrifice should be performed after constructing the fire-altar, the best of all. As the fruit of performing this same sacrifice Viśvakarman Bhauvana obtained the highest station; so it is said.
 
 तस्याग्निष्टु दग्निष्टोमः प्रथममहर्भवति। अग्निर्वा अग्निष्टु दग्निष्टोमोऽग्निमुखा उ वै सर्वे देवाः सर्वेषां देवानामाप्तै तस्याग्नेया ग्रहा भवंत्याग्नेय्यः पुरोरुचः सर्वमाग्नेयमासदिति । (*tasyāgniṣṭu dagniṣṭomaḥ prathamamaharbhavati| agnirvā agniṣṭu dagniṣṭomo 'gnimukhā u vai sarve devāḥ sarveṣāṃ devānāmāptai tasyāgneyā grahā bhavaṃtyāgneyyaḥ purorucaḥ sarvamāgneyamāsaditi |*) (Śa. Brā. 13-7-13) **NOTE**
 
@@ -28302,7 +28302,7 @@ They roar like a hundred, like a thousand (men); they cry aloud with green-tinte
 
 The sound produced when the Soma plants are crushed with stones is compared to the sound made by thousands of people gathered together; that is, they sound very loud.
 
-हरितेभिः आसभिः (*haritebhiḥ āsabhiḥ*)—with mouths of green colour; the Soma plants and the juice that flows out from them are pale green, that is, green in colour. Because the green Soma juice sticks to the stones that crush the plants, it is described here in another way that those stones sound with mouths of green colour.
+हरितेभिः आसभिः (*haritebhiḥ āsabhiḥ*)—with mouths of green colour; the Soma plants and the juice that flows out from them are emerald-coloured, that is, green in colour. Because the green Soma juice sticks to the stones that crush the plants, it is described here in another way that those stones sound with mouths of green colour.
 
 होतुः चित् पूर्व आद्यं हविः आतत (*hotuḥ cit pūrva ādyaṃ haviḥ ātata*)—Because the juice sticks to the stones while the Soma plants are being crushed, the seer describes in another way that the stones have, as it were, drunk the Soma before everyone, that is, before the Hotṛ or Agni. **NOTE**
 
