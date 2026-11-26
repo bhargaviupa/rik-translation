@@ -3660,12 +3660,7 @@ Agni, you are very dear to men; Vaishwanara, the guardian of the Soma, has been 
 ದೇವತಾ-ಅಗ್ನಿಃ ॥।
 ಛಂದಃ-ತ್ರಿಷ್ಟುಪ್ ॥
 
-*ಸಂಹಿತಾಪಾಠಃ*
-
-
-
-*ಪದಪಾಠಃ*
-
+*[stray labels as supplied: ಸಂಹಿತಾಪಾಠಃ, ಪದಪಾಠಃ]*
 
 *ಸಂಹಿತಾಪಾಠಃ*
 

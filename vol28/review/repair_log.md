@@ -1,1 +1,2 @@
 - 2026-11-26: rig_28.md: 36 Pratipadārtha words corrected by tools/rv/pratipada_apply.py (one letter, confirmed by the supplied Pada block and the Wikisource Pada); each is a row of data/source_fixes.tsv.
+- 2026-11-26: Vol 28 p. 101 (Sūkta 46, Ṛk 1): two stray empty labels (Saṃhitā-pāṭha, Pada-pāṭha) before the real labels in the Kannada file turned into an italic note, so that label counts equal (VERIFY FAIL of w0097).
