@@ -66,3 +66,8 @@ table.cols7, table.cols8, table.cols9 { font-size: 6.8pt; }
 html[lang="kn"] body { hyphens: auto; hyphenate-character: ""; hyphenate-limit-chars: 5 2 2; text-align: justify; }
 html[lang="en"] body { hyphens: auto; hyphenate-limit-chars: 6 3 3; }
 h1, h2, h3, h4, h5, table.contents, blockquote .dv, blockquote em.iast, .titlepage, .cover, .copyright { hyphens: manual; }
+
+/* Title levels (pilot, user Nov 26 2026): chapter (two lines, centred, new page) > level 1 > level 2 > level 3 */
+h3.lv1 { font-size: 12.5pt; font-weight: 700; letter-spacing: .02em; text-align: left; margin: 1.5em 0 .5em; border-bottom: .5pt solid #999; padding-bottom: 2pt; page-break-after: avoid; }
+h4.lv2 { font-size: 11pt; font-weight: 700; font-style: normal; text-align: left; margin: 1.2em 0 .35em; page-break-after: avoid; }
+h5.lv3 { font-size: 10pt; font-weight: 400; font-style: italic; text-align: left; margin: .9em 0 .25em; page-break-after: avoid; }

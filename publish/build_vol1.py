@@ -86,7 +86,7 @@ def build(mode='full'):
         else:
             rows.append({'html': f'<a class="sub" href="#{hid}">{html.escape(text)}</a>', 'href': ref})
     rows.append({'kind': 'head', 'html': '<a href="#notes"><strong>Collected Notes</strong></a>'})
-    toc = ['<section class="toc"><h2>Contents</h2>', printfix.contents_table(rows), '</section>']
+    toc = []      # user, Nov 26 2026: the contents page stays the original's own (translated, with the pages of this book: printfix.contents_sections); no generated list
     toc_html = '\n'.join(toc)
 
     doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8">

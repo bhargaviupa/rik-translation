@@ -162,6 +162,8 @@ def stamp(doc):
     v = re.search(r'Volume (\d+)', t); key = f'vol{v.group(1) if v else "?"}_{"kan" if "Kannada" in t else "eng"}'
     f = pathlib.Path(__file__).resolve().parent / 'build_numbers.json'
     nums = json.loads(f.read_text(encoding='utf8')) if f.exists() else {}
+    import sys
+    if '--html-only' in sys.argv: return doc                 # a trial run without a PDF is not a build
     nums[key] = nums.get(key, 0) + 1; f.write_text(json.dumps(nums, indent=1, sort_keys=True) + '\n', encoding='utf8')
     when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y')
     css = (f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY\\A build {nums[key]:02d}  ·  {when}"; white-space: pre; }} }} @page front {{ @bottom-left {{ content: none; }} }} '
@@ -276,11 +278,11 @@ def wide_tables(doc):
         return tag + m.group(0)[len(m.group(1)):]
     return re.sub(r'(<table\b[^>]*>).*?</table>', rep, doc, flags=re.S), n
 
-def fix(doc, quiet=False):
+def fix(doc, quiet=False, stamp_it=True):
     """Every print rule that holds for all volumes (docs/REQUIREMENTS.md, A4 "Print rules"), applied to the finished HTML of any builder.
     Prints one line of counts, so that each build shows what was done."""
     c = {}
-    doc = stamp(doc)
+    if stamp_it: doc = stamp(doc)
     doc, c['page headings out of the body'] = page_headings(doc)
     b0 = doc.count('<strong>'); doc = plain_sentences(doc); c['bold sentences and words set plain'] = b0 - doc.count('<strong>')
     doc = label_paragraphs(doc); c['label paragraphs'] = doc.count('<p class="only-strong">')

@@ -407,12 +407,74 @@ def kannada_front_matter_fallback(cfg):
     """Only used when the volume has no preface scans: the supplied text up to the Pīṭhike (the Om line that opens printed p. 1)."""
     return ''
 
+def kan_contents(md):
+    """The original's own contents pages, kept as the contents of the Kannada book and set as the one contents table, with the page numbers
+    of THIS book (user, Nov 26 2026: "we retain the content page similar to original with page numbers updated").  Works on the supplied
+    text as it is: an entry is one or more lines ending in a page number, or a row '<tr><td>text</td><td>N</td></tr>'; a chapter line
+    ('ಒಂದನೆಯ ಪ್ರಕರಣ—…') opens an entry and is set in bold; where the supplied text has lost an entry's page number, a chapter entry is
+    linked to the page on which that chapter begins in the body.  A short line without a number between entries is a centred head."""
+    import printfix
+    L = md.split('\n')
+    try: a = next(i for i, l in enumerate(L) if l.strip() == 'ವಿಷಯಾನುಕ್ರಮಣಿಕೆ' and any(x.startswith('## ') for x in L[max(0, i - 6):i]))
+    except StopIteration: return md, 0
+    lim = next((i for i, l in enumerate(L) if l.startswith('<!-- printed 2 -->')), len(L))
+    num = re.compile(r'^(.*?)[\s.]+([\d೦-೯]{1,4})\s*$'); row = re.compile(r'<td>(.*?)</td>\s*<td>\s*([\d೦-೯]{1,4})\s*</td>', re.S)
+    last = max([i for i in range(a, lim) if num.match(L[i]) and re.search('[ಀ-೿]', L[i]) or '</table>' in L[i] or '</tr>' in L[i]], default=None)
+    if last is None: return md, 0
+    # page on which each chapter begins in the body
+    chpages, pg = [], None
+    for l in L[lim:]:
+        m = re.match(r'<!-- printed (\d+) -->', l)
+        if m: pg = m.group(1)
+        elif re.match(r'^[^\s#>*|<\[][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ(?:ವು)?[ \t.]*$', l): chpages.append(pg)
+    dig = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
+    marks = {int(x) for x in re.findall(r'<!-- printed (\d+) -->', md)}
+    rows, buf, nch = [], [], 0
+    def flush(page=None):
+        nonlocal buf, nch
+        if not buf: return
+        text = ' '.join(x.strip() for x in buf); buf = []
+        ch = re.match(r'^(\S+ನೆಯ ಪ್ರಕರಣ)\s*[—-]+\s*([^\n]*?)(?=\s{2,}|$)', text)
+        r = {'html': html.escape(text)}
+        if ch:
+            nch += 1; first = buf_first_line[0]; rest = text[len(first):].strip()
+            r = {'no': str(nch), 'html': f'<strong>{html.escape(first)}</strong>' + (' ' + html.escape(rest) if rest else '')}
+            if not page and nch <= len(chpages): page = chpages[nch - 1]
+        if page:
+            n = int(str(page).translate(dig))
+            while n > 1 and n not in marks: n -= 1                                               # a page without a mark in the supplied text: the page before it
+            r['href'] = f'#p{n}'
+        elif not ch and len(text) <= 60: r = {'kind': 'head', 'html': f'<strong>{html.escape(text)}</strong>'}
+        rows.append(r)
+    buf_first_line = ['']
+    block = '\n'.join(L[a + 1:last + 1])
+    for piece in re.split(r'(<table\b.*?</table>)', block, flags=re.S):
+        if piece.startswith('<table'):
+            flush()
+            for t, n in row.findall(piece): rows.append({'html': html.escape(re.sub(r'<[^>]+>', '', t).strip()), 'href': f'#p{n.translate(dig)}'})
+            continue
+        for l in piece.split('\n'):
+            t = l.strip()
+            if not t or t.startswith(('<', '#', '*[')): flush(); continue
+            if re.fullmatch(r'[\d೦-೯ivxlc\s.]+', t): continue                                   # a page signature of the contents pages themselves
+            if not buf and len(t) <= 34 and '—' not in t and not num.match(t) and not re.match(r'^\S+ನೆಯ ಪ್ರಕರಣ', t):
+                rows.append({'kind': 'head', 'html': f'<strong>{html.escape(t)}</strong>'}); continue   # a centred line between the lists
+            if re.match(r'^\S+ನೆಯ ಪ್ರಕರಣ\s*[—-]', t): flush(); buf_first_line[0] = t if not num.match(t) else num.match(t).group(1)
+            m = num.match(t)
+            if not buf: buf_first_line[0] = buf_first_line[0] if re.match(r'^\S+ನೆಯ ಪ್ರಕರಣ\s*[—-]', t) else ''
+            if m and re.search('[ಀ-೿]', t): buf.append(m.group(1)); flush(m.group(2))
+            else: buf.append(t)
+        flush()
+    table = printfix.contents_table(rows, note='', head=('ಸಂ.', 'ವಿಷಯ', 'ಪುಟ'))
+    return '\n'.join(L[:a + 1]) + '\n\n' + table + '\n\n' + '\n'.join(L[last + 1:]), len(rows)
+
 def build_kan(cfg, html_only):
     md = (ROOT / cfg['kannada_md']).read_text(encoding='utf-8')
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
     # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
     # each page ('*[ಪೂರ್ವಪೀಠಿಕೆ 3]*'), the '[figure]' places and the machine's remark on a picture, comments of the making.
+    md, ncont = kan_contents(md); print(f'[kan] entries of the original contents set as a table: {ncont}')
     md, nrh = re.subn(r'(?m)^\*\[[^\n]*\]\*[ \t]*\n', '', md)
     # front matter: a line that is only a roman page number ('iii') is the page turn of the original; it becomes a page mark like the others, so
     # that the number leaves the text, the footer shows it and the sentence cut by it is joined again (user, Nov 26 2026, Vol 1 Kannada p. 18)
@@ -449,7 +511,7 @@ def build_kan(cfg, html_only):
         return f'<{tag} id="{hid}">{inner}</{tag}>'
     body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
     idx = ''
-    if toc:
+    if toc and not ncont:                 # the original's own contents are the contents of the book where the text has them
         idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'
     labels = '|'.join(['ಸಂಹಿತಾಪಾಠಃ', 'ಪದಪಾಠಃ', 'ಸಾಯಣಭಾಷ್ಯಂ', 'ಪ್ರತಿಪದಾರ್ಥ', 'ಭಾವಾರ್ಥ', 'English Translation\\.', 'ವಿಶೇಷವಿಷಯಗಳು'])
     body = re.sub(rf'<p><em>({labels})</em></p>', r'<p class="lab">\1</p>', body)
