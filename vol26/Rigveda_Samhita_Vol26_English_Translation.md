@@ -31233,6 +31233,216 @@ Soma, who has been purified with food of former time, who pervades with his own 
 ##### English translation
 Flowing with (his) ancient food, enveloping the forms of the earth, covering the house of sacrifice which has a three-fold protection, (placed) in the waters he advances, calling aloud at the oblations like a ministrant priest.
 
+### Printed p. 850
+#### Ṛk 48
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू न॒स्त्वं र॑थि॒रो दे॑व सोम॒ परि॑ स्रव च॒म्वोः॑ पू॒यमा॑नः।  
+> अ॒प्सु स्वादि॑ष्ठो॒ मधु॑माँ ऋ॒तावा॑ दे॒वो न यः स॑वि॒ता स॒त्यम॑न्मा॥ ४८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । त्वम् । रथिरः । देव । सोम । परि । स्रव। चम्वोः । पूयमानः ।  
+> अप्सु । स्वादिष्ठः । मधुऽमान् ॥ ऋतऽवा । देवः । न । यः । सविता । सत्यऽमन्मा ॥ ४८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव काम्यमान हे सोम रथिरो रथवांस्त्वं नोस्माकं स्वभूते यज्ञे चम्वोरधिषवणफलकयोः पूयमानः सन् अप्सु वसतीवरीषु नु क्षिप्रं परिस्रव परितः क्षर । स्वादिष्ठः स्वादुतमः अतएव मधुमान् माधुर्ययुक्तः ऋतावा ऋतवान् यज्ञवान् सविता सर्वस्य प्रेरको यस्त्वं देवो न देव इव सत्यमन्मा सत्यस्तुतिको भवसि सत्वं परिस्रवेति ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+O god Soma, who is desired, you are car-borne. Being purified on the two pressing boards at our own sacrifice, flow quickly round into the Vasatīvarī waters. Since you are the sweetest, you are full of honey, possessed of the sacrifice, the impeller of all; you who are like a god are the object of true praise; as such, flow round. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—of divine nature **NOTE**
+- सोम (*soma*)—O Soma-god
+- रथिरः (*rathiraḥ*)—the car-borne
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—at our sacrifice
+- चन्वोः (*canvoḥ*)—by means of the pressing boards **NOTE**
+- पूयमानः (*pūyamānaḥ*)—having been purified
+- नु (*nu*)—quickly
+- अप्सु (*apsu*)—in order to join the Vasatīvarī waters
+- परि स्रव (*pari srava*)—flow
+- यः (*yaḥ*)—you who
+- स्वादिष्ठः (*svādiṣṭhaḥ*)—most tasty
+- मधुमान् (*madhumān*)—possessed of sweetness
+- ऋतावा (*ṛtāvā*)—possessed of the sacrifice
+- सविता (*savitā*)—you who are the impeller of all, such as you
+- देवो न (*devo na*)—like the gods Indra and the others, being of divine nature
+- सत्यमन्मा (*satyamanmā*)—you are worthy of praise that is true in nature
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god **NOTE**, of divine nature, car-borne, purified at our sacrifice by means of the pressing boards, flow so as to join the Vasatīvarī waters quickly. You who are the most tasty, possessed of sweetness, possessed of the sacrifice, the impeller of all, such as you are worthy of true praise, like Indra and the other gods.
+### Printed p. 851
+
+##### English translation
+Divine, Soma, who are car-borne, being filtered (at) our (sacrifice), flow quickly into the cups ; most sweet-flavoured in the waters, full of madhu, offered at the sacrifice, stimulator of all, who like a god are the object of true praise.
+#### Ṛk 49
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वा॒युं वी॒त्य॑र्षा गृणा॒नो॒३॒॑ऽभि मि॒त्रावरु॑णा पू॒यमा॑नः ।  
+> अ॒भी नरं॑ धी॒जव॑नं रथे॒ष्ठाम॒भींद्रं॒ वृष॑णं॒ वज्र॑बाहुम् ॥ ४९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वायुम् । वीती। अर्ष । गृणानः । अभि । मित्रावरुणा । पूयमानः ।  
+> अभि । नरम् । धीऽजवनम् । रथेऽस्थाम् । अभि । इंद्रम् । वृषणम् । वज्रबाहुम् ॥ ४९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम गृणानः स्तूयमानः त्वं वीती सुपांसुलुगिति चतुर्थ्या: पूर्वसवर्णदीर्घः । वीत्यै पानाय वायुमभ्यर्ष अभिगच्छ। तथा पवित्रेण पूयमानस्त्वं मित्रावरुणा मित्रावरुणौ च पानायाभिगच्छ । किंच नरं सर्वस्य नेतारं धीजवनं बुध्यासमंवेगं कुर्वाणं रथेष्ठां रथेस्थां रथे तिष्ठंतं अनेनाश्विनावभिधीयेते । एकवचनं प्रत्येकविवक्षया समुदायविवक्षया वा। एतादृशावश्विनौ चाभिगच्छ। तथा वृषणं कामानां वर्षकं वज्रबाहुं वज्रयुक्तबाहुं इंद्रं च त्वं पानायाभिगच्छ॥ ४९ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being praised, flow to Vāyu for the drinking. Being purified by the filter, flow also to Mitra and Varuṇa for the drinking. Further, flow to the leader of all, who makes the quickness of the intellect, who stands in the chariot: by this word the two Aśvins are meant; the singular number is used with regard to each severally or to the pair together. Flow to such Aśvins. Likewise flow, for the drinking, to Indra, the showerer of desires, whose arm is armed with the thunderbolt.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god) **NOTE**
+- गृणानः (*gṛṇānaḥ*)—you who are praised
+- वीती (*vītī*)—for the drinking
+- वायुं (*vāyuṃ*)—directed to Vāyu
+- अभ्यर्ष (*abhyarṣa*)—flow
+- पूयमानः (*pūyamānaḥ*)—having been purified
+- मित्रावरुणा (*mitrāvaruṇā*)—directed to Mitra and Varuṇa
+- अभि (*abhi*)—flow
+- नरं (*naraṃ*)—the leaders of rites
+- धीजवनं (*dhījavanaṃ*)—those of swift intellect
+- रथेष्ठां (*ratheṣṭhāṃ*)—those seated in the chariot **NOTE**, for the sake of the Aśvin deities
+- अभि (*abhi*)—flow
+- वृषणं (*vṛṣaṇaṃ*)—the giver of what is desired
+- वज्रबाहुं (*vajrabāhuṃ*)—the one with the thunderbolt weapon in his arm
+- इंद्रं (*iṃdraṃ*)—also for the drinking of Indra
+- अभि (*abhi*)—flow
+### Printed p. 852
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, being praised, flow directed to Vāyu for the drinking. Having been purified, flow for Mitra and Varuṇa. Flow for the Aśvin deities, who are leaders of rites, of quick intellect and seated in the chariot. Flow also for the drinking of Indra, the giver of what is desired, who has the thunderbolt weapon in his arm.
+
+##### English translation
+Being eulogized, hasten to Vayu, for (him to) drink ; being purified, hasten to Mitra and Varuna ; (hasten) to the leader, who is quick as thought, mounted on a car, to Indra, the showerer, the wielder of the thunder-bolt.
+#### Ṛk 50
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वस्त्रा॑ सुवस॒नान्य॑र्षा॒भि धे॒नूः सु॒दुघाः॑ पू॒यमा॑नः ।  
+> अ॒भि चं॒द्रा भर्त॑वे नो॒ हिर॑ण्या॒भ्यश्वा॑न्र॒थिनो॑ देव सोम ॥ ५० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वस्त्रा । सुऽवसनानि । अर्ष । अभि । धेनूः । सुऽदुघाः । पूयमानः ।  
+> अभि । चंद्रा । भर्तवे । नः । हिरण्या। अभि। अश्वान् । रथिनः । देव । सोम ॥ ५० ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वमस्माकं सुवसनानि सुपरिधानानि वस्त्रा वस्त्राणि अभ्यर्ष अभिगमय । यद्वा सुवसनानि शोभनवस्त्रसहितानि वस्त्रा आच्छादकानि धनान्यभिगमय । किंच पूयमानः पवित्रेण त्वं सुदुघाः सुष्टुपयसोदोग्ध्रीः धेनूः नवप्रसूतिका गाः अभिप्रापय । अपि च चंद्रा चंद्राण्याह्लादकानि हिरण्या हिरण्यानि भर्तवे भरणाय पोषणाय नोस्माकमभिगमय । तथा हे देव स्तोतव्य हे सोम रथिनो रथवतोश्वान् अस्माकमभिप्रापय ॥ ५० ॥
+
+##### Gist of the bhāṣya
+
+O Soma, bring to us the well-clothing garments. Or else: bring the riches that are accompanied by fine garments, that cover. Further, being purified by the filter, bring us the good milkers, the newly calved cows. Moreover, bring to us, for our sustenance, the gladdening gold. And, O worshipful god Soma, bring us horses that have chariots.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-god
+- सुवसनानि (*suvasanāni*)—fit to be wrapped round oneself
+- वस्त्रा (*vastrā*)—garments
+- अभ्यर्ष (*abhyarṣa*)—supply
+- पूयमानः (*pūyamānaḥ*)—you who have been purified
+- सुदुघाः (*sudughāḥ*)—to be milked well
+- धेनूः (*dhenūḥ*)—cows
+- अभि (*abhi*)—supply
+- भर्तवे (*bhartave*)—for our nourishment
+### Printed p. 853
+- चंद्रा (*caṃdrā*)—gladdening
+- हिरण्या (*hiraṇyā*)—gold
+- नः (*naḥ*)—to us
+- अभि (*abhi*)—supply
+- देव (*deva*)—O worshipful Soma-god
+- रथिनः (*rathinaḥ*)—having chariots
+- अश्वान् (*aśvān*)—horses
+- अभि (*abhi*)—supply to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, supply us with garments fit to be wrapped round oneself. Having been purified, supply cows that are to be milked well. Supply gladdening gold for our nourishment. O worshipful Soma-god, supply us with horses that have chariots.
+
+##### English translation
+Bring us handsome garments, bring us, when you are purified, cows easily milked ; bring for our maintenance gratifying gold ; divine Soma bring us horses fit for chariots.
+#### Ṛk 51
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी नो॑ अर्ष दि॒व्या वसू॑न्य॒भि विश्वा॒ पार्थि॑वा पू॒यमा॑नः ।  
+> अ॒भि येन॒ द्रवि॑णम॒श्नवा॑मा॒भ्या॑र्षे॒यं ज॑मदग्नि॒वन्नः॑ ॥ ५१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । नः । अर्ष । दिव्या । वसूनि । अभि । विश्वा । पार्थिवा। पूयमानः ।  
+> अभि । येन । द्रविणम् । अश्नवाम । अभि । आर्षेयम् । जमदग्निऽवत् । नः ॥ ५१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवित्रेण पूयमानस्त्वं दिव्या दिव्यानि दिविभवानि वसूनि धनानि नोस्माकमभ्यर्ष अभिगमय । तथा पार्थिवा पार्थिवानि पृथिव्यांभवानि विश्वा सर्वाणि धनान्यभिगमय। तथा येन त्वदीयेन सामर्थ्येन द्रविणं धनं वयमभ्यश्नवाम अभिव्याप्नुयाम तत्सामर्थ्यमभिगमय । किंच आर्षेयं आर्षाणामृषिपुत्राणां योग्यं धनं जमदग्निवत् जमदग्नेर्यथा त्वं प्रापयः एवं नोस्माकमपि अभ्यर्ष । यद्वा आर्षेयं आर्षाणां योग्यं मंत्रं जमदग्नेःस्वभूतमंत्रं यथा स्वादुतममकार्षीः एवमस्माकं तादृशं मंत्रं स्वादुतमं कुर्विति कुत्सो नाम ऋषिः प्रार्थयते ॥ ५१ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being purified by the filter, bring us the celestial riches, and likewise all the riches that belong to the earth. Likewise bring that capacity of yours by which we may obtain wealth. Further, as you gave to Jamadagni wealth that befits the sons of seers, so bring it to us also. Or else: as you made the mantra of Jamadagni, fit for seers, the sweetest, so make such a mantra of ours the sweetest; thus the seer named Kutsa prays.
+### Printed p. 854
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god)
+- पूयमानः (*pūyamānaḥ*)—you, when purified
+- दिव्या (*divyā*)—belonging to the world of heaven
+- वसूनि (*vasūni*)—riches
+- नः (*naḥ*)—to us
+- अभ्यर्ष (*abhyarṣa*)—supply
+- विश्वा (*viśvā*)—all
+- पार्थिवा (*pārthivā*)—also the riches produced from the earth
+- अभि (*abhi*)—supply
+- येन (*yena*)—by what capacity
+- द्रविणं (*draviṇaṃ*)—wealth
+- अश्नवामु (*aśnavāmu*)—that strength by which we shall obtain **NOTE**
+- अभि (*abhi*)—give
+- आर्षेयं (*ārṣeyaṃ*)—wealth fit for a seer
+- जमदग्निवत् (*jamadagnivat*)—as given to Jamadagni
+- नः (*naḥ*)—to us also
+- अभि (*abhi*)—supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, when you have been purified, supply us with all riches, those produced in the world of heaven and those produced on the earth; give us the capacity to obtain wealth. As wealth fit for a seer was given to Jamadagni of old, give it to us also.
+
+##### English translation
+Bring us celestial treasures, bring us all earthly (treasures) when you are purified ; bring us (the ability) whereby we may acquire riches, make our sacred prayer (sweet) as Jamadagni.
+
+##### विशेषविषयगळु (Special Topics)
+
+The great seer Jamadagni was an intimate friend of Viśvāmitra. In the Ṛk-saṃhitā, these mantras are well known as composed by Jamadagni: 3-62**NOTE**-17**NOTE** to 18 ; 8-101 ; 9-62 ; 9-65 ; 9-62**NOTE**-17**NOTE** to 18 ; 10-110 ; 10-132**NOTE**-6**NOTE** ; 10-167 **NOTE**. He is a son of Bhṛgu. Therefore he is well known as Jamadagni Bhārgava **NOTE**. In many places he has declared his own praise in express words, as गृणानो जमदग्निना (*gṛṇāno jamadagninā*) (Ṛ. Saṃ. 9-62, 34; 9-65**NOTE**-37**NOTE** etc.) **NOTE**.
+प्रसूतो भक्षमकरं चरावपि स्तोमुं चेमुं प्रथमः सूरिरुन्मृजे । सुते सातेन यद्यागमुं वां प्रति विश्वामित्रजमदग्नी दमे ॥ (*prasūto bhakṣamakaraṃ carāvapi stomuṃ cemuṃ prathamaḥ sūrirunmṛje | sute sātena yadyāgamuṃ vāṃ prati viśvāmitrajamadagnī dame ‖*)
+(Ṛ. Saṃ. 10-162**NOTE**-4**NOTE** **NOTE**)
+In this verse Indra addresses Viśvāmitra and Jamadagni together, and expresses his favour. This kind of companionship is described in many places. The fact that he (Jamadagni) was unable to fight with Vasiṣṭha is also well known in the Saṃhitā and other works.
+विश्वामित्रजमदग्नीवसिष्ठेनास्पर्धेताग्मुं (*viśvāmitrajamadagnīvasiṣṭhenāspardhetāgmuṃ*) स एतज्जमदग्निर्विहव्यमपश्यत्तेन वै स वसिष्ठस्येंद्रियमुं वीर्यमुवृंक्त ॥ (*sa etajjamadagnirvihavyamapaśyattena vai sa vasiṣṭhasyeṃdriyamuṃ vīryamuvṛṃkta ‖*)
+(Tai. Saṃ. 3**NOTE**-1-12**NOTE**-3**NOTE** **NOTE**)
+### Printed p. 855
+When Viśvāmitra and Jamadagni were both contending with Vasiṣṭha, Jamadagni received the vision of the Vihavya sūkta that begins with the mantra ममाग्ने वर्चो विहवेष्वस्तु वयं त्वेंधानास्तन्वं पुषेम (*mamāgne varco vihaveṣvastu vayaṃ tveṃdhānāstanvaṃ puṣema*) **GLOSS** (Ṛ. Saṃ. 10-128 **NOTE**). With its help he himself took all the power of Vasiṣṭha; so it is told in story form in the Taittirīya Saṃhitā. In the Bṛhaddevatā also another historical occasion of the same kind is stated in this way.
+सुदासश्च महायज्ञे शक्तिना गाधिसूनवे । निगृहीतं बलाच्छेतः सोऽवसीदद्विचेतनः । तस्मै ब्राह्मीं तु सौरीं वा नाम्ना वाचं ससर्परीं । (*sudāsaśca mahāyajñe śaktinā gādhisūnave | nigṛhītaṃ balācchetaḥ so 'vasīdadvicetanaḥ | tasmai brāhmīṃ tu saurīṃ vā nāmnā vācaṃ sasarparīṃ |*) सूर्यक्षयोदिहाहृत्य (*sūryakṣayodihāhṛtya*) ददुस्ते (*daduste*) जमदग्नयः । कुशिकानां ततः सा वागमतिं तामपाहनत् ॥ (*jamadagnayaḥ | kuśikānāṃ tataḥ sā vāgamatiṃ tāmapāhanat ‖*)
+(Bṛ. De. 4-103 to 104 **NOTE**)
+At the great sacrifice of Sudāsa, the son of Gādhi (Viśvāmitra), struck by Śakti, the son of Vasiṣṭha, fell into a swoon and, deprived of knowledge, dropped down. Then the Jamadagnis supplied the help of speech named Sasarparī, the daughter of the Sun (or the daughter of Brahmā). That goddess of speech removed the swoon of the sons of Kuśika and brought consciousness to them: so it is said. The same occasion is indicated in the Ṛk-saṃhitā in verses such as this—
+ससर्परीरमतिं बाधमाना बृहन्मिमाय जमदग्निदत्ता । आ सूर्यस्य दुहिता ततान श्रवो देवेष्वमृतमजुर्यं ॥ (*sasarparīramatiṃ bādhamānā bṛhanmimāya jamadagnidattā | ā sūryasya duhitā tatāna śravo deveṣvamṛtamajuryaṃ ‖*)
+(Ṛ. Saṃ. 3-53**NOTE**-15**NOTE** **NOTE**)
+The special meaning of these persons has been stated earlier.
+Even when such narrative occasions are told, the word Jamadagni is sometimes explained also from the spiritual point of view. In such contexts it is stated that Jamadagni is a son of Prajāpati and that, viewing the truth of the world with his divine sight, he produced for the world a light in the form of knowledge. For example—
+प्रजापतिर्विराजमपश्यत्त्रयो (*prajāpatirvirājamapaśyattrayo*) भूतं च भव्यं चासृजत तामृषिभ्यस्तिरोदधात्तां जमदग्निस्तपसापश्यत्त्रया (*bhūtaṃ ca bhavyaṃ cāsṛjata tāmṛṣibhyastirodadhāttāṃ jamadagnistapasāpaśyattrayā*) वै स पृश्नीन्कामानसृजत (*vai sa pṛśnīnkāmānasṛjata*)
+(Tai. Saṃ. 3-3**NOTE**-5**NOTE**-2**NOTE** **NOTE**)
+Prajāpati received the vision of the Virāj. With its help he created the past and the future. But **NOTE** he made both of them fall beyond the range of the seers. Then Jamadagni, by the greatness of his austerity
+
 ---
 
-**Progress note:** Done through printed p. 849. pp. 844-849: end of the Āpo-naptrīya rite, Ṛk 46-47 of Maṇḍala 9 Sūkta 97
+**Progress note:** Done through printed p. 855. Vol 26 pp. 850-855
