@@ -24471,6 +24471,340 @@ O Soma, flow. What sort are you? Śūragrāma: he who has a village, that is, a 
 
 O Soma-deva, you who are the leader of the host of heroes, have all heroes, have the power to withstand, are victorious, distribute riches, have sharp weapons, and with a swift
 
+### Printed p. 644
+
+bow of discharge, and unrepelled in battles, flow, defeating the enemy armies.
+
+##### English translation
+Flow you who have a host of warriors, who have all the heroes, full of strength, victorious, the giver of riches, sharp-weaponed, rapid bowman, irresistible in battle, overthrowing the enemy (arrayed) in (hostile) armies.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रुग॑व्यूति॒रभ॑यानि कृ॒ण्वन्॑मीची॒ने आ प॑वस्वा॒ पुरं॑धी ।  
+> अ॒पः सिषा॑सन्नु॒षसः॒ स्व१॒॑र्गाः सं च॑क्रदो म॒हो अ॒स्मभ्यं॒  ॑
+> वाजान् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुगव्यूतिः । अभयानि । कृण्वन् । समीचीने इति संईचीने । आ । पवस्व । पुरंधी  
+> इति पुरंधी ।  
+> अपः । सिसासन् । उषसः । स्वः । गाः ' सं । चक्रद । मह । अस्मभ्यं । वाजान् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम उरुगव्यूतिर्विस्तीर्णमार्गस्त्वमभयानि स्तोतृभ्यः कृण्वन्
+> कुर्वन् पुरंधी । इदं द्यावापृथिव्योर्नाम । ते समीचीने संगते कुर्वन्ना पवस्व ।
+> अक्षर । अप उषसः स्वरादित्यं गा रश्मींश्च सिषासन् पुष्ट्यर्थं संभक्तुमिच्छन् सं
+> चिक्रदः । संक्रंदसे । महो महतो महांति वाजानन्नान्यस्मभ्यं दातुमिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who have a broad path, making fearlessness for the praisers (कृण्वन् (*kṛṇvan*) is explained as कुर्वन् (*kurvan*), making). पुरंधी (*puraṃdhī*) is a name of heaven and earth; making these two united, flow forth. Wishing to share in the waters, the dawns, स्वः (*svaḥ*) the sun, and गाः (*gāḥ*) the rays, for nourishment, you roar; चिक्रदः (*cikradaḥ*) is explained as "you roar together". महः (*mahaḥ*) means great, वाजान् (*vājān*) means foods; the words "in order to give to us" are to be supplied. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उरुगव्यूतिः (*urugavyūtiḥ*)—(O Soma-deva) you who have a broad path
+- अभयानि कृण्वन् (*abhayāni kṛṇvan*)—removing the fear of the praisers
+- पुरंधी (*puraṃdhī*)—both heaven and earth
+- समीचीने (*samīcīne*)—so that they become one
+- कृण्वन् (*kṛṇvan*)—making
+- आ पवस्व (*ā pavasva*)—flow
+- अपः (*apaḥ*)—the waters
+- उषसः (*uṣasaḥ*)—the dawns
+- स्वः (*svaḥ*)—the sun
+- गाः (*gāḥ*)—the rays
+- सिषासन् (*siṣāsan*)—serving
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- महः (*mahaḥ*)—great
+- वाजान् (*vājān*)—to give foods
+- सं चक्रदः (*saṃ cakradaḥ*)—you sound loudly **NOTE**
+
+ओं (*oṃ*)
+
+॥ श्रीः ॥ (*‖ śrīḥ ‖*)
+
+॥ श्री गणाधिपतये नमः ॥ (*‖ śrī gaṇādhipataye namaḥ ‖*) **GLOSS**
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*)
+
+यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*)
+
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदध्याया सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedadhyāyā sadāśivaḥ |*)
+
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+तृतीयं श्रुतितत्त्वज्ञः सप्तमस्याष्टकस्य सः । (*tṛtīyaṃ śrutitattvajñaḥ saptamasyāṣṭakasya saḥ |*)
+
+व्याख्याय सायणामात्मश्चतुर्थं व्याचिकीर्षति ॥ (*vyākhyāya sāyaṇāmātmaścaturthaṃ vyācikīrṣati ‖*) **GLOSS**
+
+सायणभाष्यसहिता (*sāyaṇabhāṣyasahitā*)
+
+ऋग्वेदसंहिता (*ṛgvedasaṃhitā*)
+
+॥ अथ सप्तमाष्टके चतुर्थोऽध्यायः ॥ (*‖ atha saptamāṣṭake caturtho 'dhyāyaḥ ‖*)
+
+The third chapter in the seventh aṣṭaka. **NOTE**
+
+The ninety-first sūkta in the ninth maṇḍala.
+
+## Sūkta 91 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्रासर्जीति षडृचं षष्ठं सूक्तं मारीचस्य कश्यपस्यार्षं त्रैष्टुभं
+> पवमानसोमदेवताकं । असर्जि कश्यप इत्यनुक्रांतं ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तत्रासर्जीति (*tatrāsarjīti*) has six Ṛks and is the sixth sūkta. Its seer is Kaśyapa, of Marīci's line; its metre is Triṣṭubh; its deity is Pavamāna Soma. The Anukramaṇī says असर्जि कश्यप (*asarji kaśyapa*). The viniyoga has been stated.
+
+##### Anuvāda
+
+Anuvāda— This sūkta, called असर्जि (*asarji*), is the sixth in the fifth anuvāka of the ninth maṇḍala of the Ṛgveda-saṃhitā. It has six Ṛks. The seer of this sūkta is Kaśyapa, the son of Marīci; the deity is Pavamāna Soma; the metre is Triṣṭup. In the Anukramaṇī it is stated as असर्जि कश्यपः (*asarji kaśyapaḥ*). The viniyoga has been stated before.
+
+### Printed p. 646
+
+to the company
+
+- मत्सि (*matsi*)—make content
+- देवान् (*devān*)—the gods
+- मत्सि (*matsi*)—gladden
+- महां इंद्रं (*mahāṃ iṃdraṃ*)—Indra, of great form
+- मदाय (*madāya*)—for exhilaration
+- मत्सि (*matsi*)—satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, satisfy Mitra and Varuṇa, Indra and Viṣṇu. Give satisfaction to the company of the Maruts and to all the gods. Become the bringer of joy to Indra.
+
+##### English translation
+Soma, exhilarate Varuna, exhilarating Mitra ; O Soma Pavamana, exhilarate Indra and Vishnu, exhilarate the company of the Maruts, exhilarating the gods, exhilarating the mighty Indra, O Indu, for his exhilaration.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा राजे॑व॒ क्रतु॑मा॒ अमे॑न॒ विश्वा॒ घनि॑घ्नद्दुरि॒ता प॑वस्व ।  
+> इंदो॑ सू॒क्ताय॒ वच॑से॒ वयो॑ धा यू॒यं पा॑त स्व॒स्तिभिः॒ ॑ 
+> सदा नः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । राजा इव । क्रतुमान् । अमेन । विश्वा । घनिघ्नत् । दुःइता । पवस्व ।  
+> इंदो इति । सुउक्ताय । वचसे । वयः । धाः । यूयं । पात । स्वस्तिभिः ।  
+> सदा । नः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया स्तुतिमुपसंहरन् फलमाशास्त्रे । हे सोम एवैवं स्तुत इति शेषः ।
+> क्रतुमांस्त्वं राजेवामेन बलेन विश्वा सर्वाणि दुरिता दुरितानि घनिघ्नद्विनाशयन्
+> पवस्व । हे इंदो दीप्त सोम सूक्ताय शोभनमुदिताय वचसेऽस्माकं
+> स्तोत्राय तद्वचो विमृष्यार्थवदवगत्य वयो धाः । अन्नं धेहि । अन्नलाभस्य
+> स्तुतिनिमित्तकत्वात्तस्य स्तुतिवचसः प्राधान्येनोक्तिः । शिष्टं सिद्धं ॥
+
+##### Gist of the bhāṣya
+
+Concluding the praise with this Ṛk, he asks for the fruit; "thus praised" is to be supplied. O Soma, you who are endowed with will, like a king, destroying with your strength all evils, flow. O Indu, shining Soma, for our well-spoken praise, having considered its words as full of meaning and understood them, वयो धाः (*vayo dhāḥ*): give food. Since the gaining of food is caused by praise, the praise-speech is mentioned as the chief thing. The rest is established.
+
+### Printed p. 647
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एव (*eva*)—you who are thus praised
+- क्रतुमान् (*kratumān*)—being one who has excellent action
+- राजीव (*rājīva*)—like a lord **NOTE**
+- अमेन (*amena*)—by your power
+- विश्वा दुरिता (*viśvā duritā*)—all evils
+- घनिघन्त् (*ghanighant*)—destroying **NOTE**
+- पवस्व (*pavasva*)—flow
+- इंदो (*iṃdo*)—O Soma-deva
+- सूक्ताय (*sūktāya*)—well recited
+- वचसे (*vacase*)—in return for my praises
+- वयः (*vayaḥ*)—food
+- धाः (*dhāḥ*)—give
+- नः (*naḥ*)—(O gods) us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- यूयं (*yūyaṃ*)—you
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are praised by us, flow, being one who has excellent action and, like a lord, destroying all evils by your power. O Soma-deva, give food in return for our well-spoken praises. **NOTE** O gods, may you always protect us with blessings.
+
+##### English translation
+Thus (glorified), you (Soma) like a king, performing your functions flow on destroying all evils by your might ; Indu, give food (in answer) to (our) well-recited praise ; (O gods) cherish us ever with blessings.
+
+##### विशेषविषयगळु (Special Topics)
+
+The authors of the Nirukta have explained the meaning of the word svasti with an example from a Ṛk:
+
+स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये । (*sa naḥ piteva sūnave 'gne sūpāyano bhava | sacasvā naḥ svastaye |*) (Ṛ. Saṃ. 1-1-F) **NOTE**
+
+Here the word svasti is explained as स्वस्तीति अविनाशिनाम अस्तियभिपूजितः सु अस्तीति । (*svastīti avināśināma astiyabhipūjitaḥ su astīti |*) The word asti is used in the sense of "worship". The prefix su joins and relates to it, and the form su asti results. "Avināśi: that which is without destruction" is the meaning he has explained; so Durgācārya has commented. And:
+
+स्वस्तिरिद्दि प्रपथे श्रेष्ठा रेक्ण स्वत्यभि या वाममेति । सा.नो अमा सो अरणे नि पातु स्वावेशा भवतु देवगोपा । (*svastiriddi prapathe śreṣṭhā rekṇa svatyabhi yā vāmameti | sā.no amā so araṇe ni pātu svāveśā bhavatu devagopā |*) (Ṛ. Saṃ. 10-63-4)
+
+A deity renowned as Svasti, since she dwells in the antarikṣa, is a deity of the middle region, and the greatness of that goddess is described in this Ṛk in this way.
+
+### Printed p. 648
+
+स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्लस्वति धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सानिरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप््री देवान् गॊपायत्विति देवा एनां गोपायंत्वि ना । (*svastireva hi prapathe śreṣṭhā reklasvati dhanavatyabhyeti yā vasūni vananīyāni sā no 'mā gṛhe sāniramaṇe sā nirgamane pātu svāveśā bhavatu devī goprī devān gòpāyatviti devā enāṃ gopāyaṃtvi nā |*) (Ni. 12-48)
+
+On this Durgācārya has explained the meaning thus: The goddess Svasti is the most worthy of praise in the antarikṣa among all the gods. Like those who have filled themselves with wealth for all, she always moves about, accompanied by indispensable water. May that goddess protect us who dwell in the forest and in the house. May she protect us so that we move about happily. May this goddess protect the oblations offered to the gods, the gods, and us. May the gods of the middle region who stand in the heaven-place, or the rays also, protect this goddess.
+
+**Colophon**
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । (*vedārthasya prakāśena tamo hārdaṃ nivārayan |*)
+
+पुमर्थांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*) **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे यक्संहिताभाष्ये सप्तमाष्टके तृतीयोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe yaksaṃhitābhāṣye saptamāṣṭake tṛtīyo 'dhyāyaḥ samāptaḥ ‖*) **GLOSS**
+
+॥ ओं तत्त्वत् ॥ (*‖ oṃ tattvat ‖*)
+
+Here ends the third chapter in the seventh aṣṭaka of the Ṛgveda-saṃhitā, with Śrī Sāyaṇa's bhāṣya and the Kannada translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*) **GLOSS**
+
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
+॥ श्रीः ॥ (*‖ śrīḥ ‖*)
+
+॥ श्री गणाधिपतये नमः ॥ (*‖ śrī gaṇādhipataye namaḥ ‖*) **GLOSS**
+
+॥ श्री गणाधिपतये नमः ॥ (*‖ śrī gaṇādhipataye namaḥ ‖*) **GLOSS**
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*)
+
+यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*)
+
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदध्याया सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedadhyāyā sadāśivaḥ |*)
+
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+तृतीयं श्रुतितत्त्वज्ञः सप्तमस्याष्टकस्य सः । (*tṛtīyaṃ śrutitattvajñaḥ saptamasyāṣṭakasya saḥ |*)
+
+व्याख्याय सायणामात्मश्च तुर्थं व्याचिकीर्षति ॥ (*vyākhyāya sāyaṇāmātmaśca turthaṃ vyācikīrṣati ‖*) **GLOSS**
+
+सायणभाष्यसहिता (*sāyaṇabhāṣyasahitā*)
+
+ऋग्वेदसंहिता (*ṛgvedasaṃhitā*)
+
+॥ अथ सप्तमाष्टके चतुर्थोऽध्यायः ॥ (*‖ atha saptamāṣṭake caturtho 'dhyāyaḥ ‖*)
+
+The third chapter in the seventh aṣṭaka.
+
+The ninety-first sūkta in the ninth maṇḍala.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्रासर्जीति षडृचं षष्ठं सूक्तं मारीचस्य कश्यपस्यार्यं त्रैष्टुभं
+> पवमानसोमदेवताकं । असर्जि कश्यप इत्यनुक्रांतं ॥ गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning तत्रासर्जीति (*tatrāsarjīti*) has six Ṛks and is the sixth sūkta. Its seer is Kaśyapa, of Marīci's line; its metre is Triṣṭubh; its deity is Pavamāna Soma. The Anukramaṇī says असर्जि कश्यप (*asarji kaśyapa*). The viniyoga has been stated.
+
+##### Anuvāda
+
+Anuvāda— This sūkta, called असर्जि (*asarji*), is the sixth in the fifth anuvāka of the ninth maṇḍala of the Ṛgveda-saṃhitā. It has six Ṛks. The seer of this sūkta is Kaśyapa, the son of Marīci; the deity is Pavamāna Soma; the metre is Triṣṭup. In the Anukramaṇī it is stated as असर्जि कश्यपः (*asarji kaśyapaḥ*). The viniyoga has been stated before.
+
+### Printed p. 650
+
+Sūkta 91. Maṇḍala 9, Anuvāka 5, Sūkta 91. Aṣṭaka 7, Adhyāya 4, Varga 1. Number of ṛks in the sūkta: 6. Seer: Kaśyapa. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑र्जि॒ वक्वा॒ रथ्ये॒ यथा॒जौ धि॒या म॒नोता॑ प्रथ॒मो म॑न्॒षिः ।  
+> दश॒ स्वसा॑रो॒ अधि॒ सानो॒ अव्येजं॑ति॒ वह्निं॒ सद॑ना॒न्यच्छ॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असर्जि । वक्वा । रथ्ये । यथा । आजौ । धिया । मनोता । प्रथमः । मनीषी ।  
+> दश । स्वसारः । अधि । सानौ । अव्ये । अजंति । वह्निं । सदनानि । अच्छ ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वक्त्वा शब्दायमानः ॥ वच परिभाषणे । वनिप् ॥ एतादृशः पवमानः सोम
+> आजौ । अजंति कर्मार्थमृत्विज इत्याजिर्यज्ञः । तस्मिन्दिया कर्मणा स्तोत्रेण वा
+> साकमसर्जि । सृज्यते पात्रेष्विति । तत्र दृष्टांतः । रथ्ये यथा रथार्ह आजौ । संग्रामनामैतत् अजंति प्रक्षिपंत्यायुधान्यत्रेति । तस्मिन्नश्वो यथा धियांगुल्या सृज्यते
+> तद्वत् । कीदृशः । मनोता यस्मिन्देवानां मनांस्योतानि प्रोतानि सः । तथा च
+> ब्राह्मणं । तस्मिन् हि तेषां मनांस्योतानि । ऐ. ब्रा- २-१० । इति । प्रथमः सर्वॆषां
+> देवानां मुख्यः मनीषी । मनस ईषा मनीषा स्तुतिः । तद्वान् । दश स्वसारो
+> दशसंख्याका अंगुलयः सदनानि यज्ञगृहाण्यच्छाभिमुखीक्रत्य वह्निं वोढारं
+> सोमं सान् समुच्च्रिते । अधिः सप्तम्यर्थानुवादकः । अव्येऽविभवेऽविनालेन
+> कृते पवित्रेजंति । प्रेरयंति ॥ अज गतिक्षेपणयोः ॥
+
+##### Gist of the bhāṣya
+
+वक्वा (*vakvā*) means sounding (the root वच (*vaca*), to speak). Such is Pavamāna Soma. In the आजौ (*ājau*) — अजंति (*ajaṃti*): the priests drive for the rite — so the word for sacrifice is derived; in it, together with धिया (*dhiyā*), action or praise, he is let loose, असर्जि (*asarji*), into the vessels. An example is given: as in an आजौ (*ājau*) worthy of chariots, which is a name for battle, because weapons are thrown there, a horse is let loose by the finger (धिया (*dhiyā*) understood as the finger), so is he. What sort is he? मनोता (*manotā*): he in whom the minds of the gods are threaded. And so the Brāhmaṇa says तस्मिन् हि तेषां मनांस्योतानि । (*tasmin hi teṣāṃ manāṃsyotāni |*) (Ai. Brā. 2-10). प्रथमः (*prathamaḥ*): chief among all the gods. मनीषी (*manīṣī*): मनीषा (*manīṣā*) is praise, the impulse of the mind; he who has it. दश स्वसारः (*daśa svasāraḥ*): the ten fingers, turning toward the sacrificial houses (सदनानि अच्छ (*sadanāni accha*)) the carrier (वह्निं (*vahniṃ*)) Soma on the raised place (सानौ (*sānau*)); अधि (*adhi*) only restates the locative sense; on the अव्ये (*avye*), the filter made of woollen thread, they अजंति (*ajaṃti*), urge him on; the root अज (*aja*) has the sense of going and throwing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रथ्ये यथा (*rathye yathā*)—as horses are driven by the fingers when fighting mounted on a chariot
+- मनोता (*manotā*)—the recipient of the gods' meditation
+- प्रथमः (*prathamaḥ*)—chief among all the gods
+- मनीषी (*manīṣī*)—possessed of praise
+
+### Printed p. 651
+
+- वक्वा (*vakvā*)—the Soma that makes a sound
+- आजौ (*ājau*)—in the sacrifice
+- धिया (*dhiyā*)—with praise
+- असर्जि (*asarji*)—is pressed
+- दश स्वसारः (*daśa svasāraḥ*)—the ten fingers
+- सदनानि अच्छ (*sadanāni accha*)—toward the sacrificial houses
+- वह्निं (*vahniṃ*)—Soma, the carrier of the oblation
+- सानौ (*sānau*)—on the raised place
+- अव्ये अधि (*avye adhi*)—on the woollen ten-fold filter
+- अजंति (*ajaṃti*)—urge
+
+##### भावार्थ (Bhāvārtha)
+
+As horses are urged by the fingers when fighting together with a chariot, the Soma, which is the recipient of the gods' meditation, chief among all the gods, possessed of praise and sounding, is pressed in the sacrifice with praise. The ten fingers too, turned toward the sacrificial houses, urge Soma, the carrier of the oblation, onto the woollen ten-fold filter on the raised place.
+
+##### English translation
+(Soma) on whom the minds of the gods are fixed, chief (of the gods), recipient of praise, is let loose with a shout by ceremony as (a horse is let loose by the finger) in a battle of chariots ; the ten sister (fingers) drive the bearer (of the oblation) on the elevated place to the halls (of sacrifice).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वी॒ती जन॑स्य दि॒व्यस्य॑ क॒व्यैरधि॑ सुवा॒नो न॑हु॒ष्ये॑भि॒रिंदुः॑ ।  
+> प्र यो नृभि॑र॒मृतो॒ मर्त्ये॑भिर्ममृजा॒नोऽवि॑भि॒र्गोभि॑र॒द्भिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वीती । जनस्य । दिव्यस्य । कव्यैः । अधि । सुवानः । नहुष्येभिः । इंदुः ।  
+> प्र । यः । नृभिः । अमृतः । मर्त्येभिः । मर्मृजानः । अविभिः । गोभिः । अत्भिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कव्यैः साधुभिः स्तोतृभिर्नहुष्येभिर्मनुष्यैः सुवानोऽभिषूयमाण
+> इंदुः सोमो दिव्यस्य दिवि भवस्य जनस्य देवगणस्य वीती ॥ सुपां सुलुगिति
+> चतुर्थ्याः पूर्वसवर्णदीर्घः ॥ सोमभक्षणार्थं यज्ञमधिगच्छति । किंचामृतो
+
+##### Gist of the bhāṣya
+
+The Soma Indu, being pressed (सुवानः (*suvānaḥ*)) by the good praisers (कव्यैः (*kavyaiḥ*)), by men (नहुष्येभिः (*nahuṣyebhiḥ*)), goes to the sacrifice for the drinking (वीती (*vītī*)) of the divine people (the divine people), that is, of the host of the gods born in heaven, for the eating of Soma. And further, immortal **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 643. Sūkta 89 Ṛks 5-7, Sūkta 90 Ṛks 1-3 (to Bhāvārtha of Ṛk 3, cut off)
+**Progress note:** Done through printed p. 651. Sūkta 90 Ṛk 3 end to Sūkta 91 Ṛk 2 (to bhāṣya)
