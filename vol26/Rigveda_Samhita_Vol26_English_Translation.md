@@ -30573,6 +30573,139 @@ This great root of the world is called time by some, fate by some, nature by som
 
 स्वभावमेके कवयो वदंति कालं तथ्याने परिमुह्यमानाः । देवस्यैष महिमा तु लोके येनेदं भ्राम्यते ब्रह्मचक्रं ॥ (*svabhāvameke kavayo vadaṃti kālaṃ tathyāne parimuhyamānāḥ | devasyaiṣa mahimā tu loke yenedaṃ bhrāmyate brahmacakraṃ ‖*) (Śve. U. 6-1) **GLOSS** **NOTE**
 
+### Printed p. 826
+
+Some poets call this great root nature, and others call it time. Even so, it is not as if its true nature had been described completely. The one who has established all the worlds by his own power and also makes the Brahma-wheel revolve is the Supreme Person, Īśvara. It is described that by him alone the Brahma-wheel, the cause of the world, is made to turn. The wheel of time described in the present passage is to be understood as the primal principle described under various other names. Whatever seer may call this primal principle by whatever name, no other fitting comparison can be given for this primal cause except by likening it to a chariot wheel. Whether it is called the Self, Brahman or fate, its relation to the world of practice has to be compared with the relation of a chariot wheel to its spokes. The method of describing the primal principle by showing that simile may be seen in nearly all the Upaniṣads. For example, in the Bṛhadāraṇyaka Upaniṣad,
+
+स वा अयमात्मा सर्वेषां भूतानामधिपतिः सर्वेषां भूतानां राजा तद्यथा रथनाभौ च रथनेमौ चाराः सर्वे समर्पिता एवमेवास्मिन्नात्मनि सर्वाणि भूतानि सर्वे देवाः सर्वे लोकाः सर्वे प्राणाः सर्व एवात्मनः समर्पिताः ॥ (*sa vā ayamātmā sarveṣāṃ bhūtānāmadhipatiḥ sarveṣāṃ bhūtānāṃ rājā tadyathā rathanābhau ca rathanemau cārāḥ sarve samarpitā evamevāsminnātmani sarvāṇi bhūtāni sarve devāḥ sarve lokāḥ sarve prāṇāḥ sarva evātmanaḥ samarpitāḥ ‖*) (Bṛ. U. 2-5-15) **NOTE**
+
+This Self is the lord of all beings. As the spokes are all contained in the nave and the rim of a chariot wheel and have fixed positions, so all beings are contained in this Self and subject to his control. All beings, all gods, all worlds, all breaths, everything is subject to the control of this Self and dependent on him; thus a likeness is stated between this Self of the world and a chariot wheel. In the same way, in the Muṇḍaka Upaniṣad and in the Praśna Upaniṣad also.
+
+अरा इव रथनाभौ संहता यत्र नाड्यः स एषोऽंतश्चरते बहुधा जायमानः । (*arā iva rathanābhau saṃhatā yatra nāḍyaḥ sa eṣo 'ṃtaścarate bahudhā jāyamānaḥ |*) (Mu. 2-2-6)
+
+अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितं । ऋचो यजूग्ंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ (*arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitaṃ | ṛco yajūgṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ‖*) (Praśna. 2-6)
+
+अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः । तं वेद्यं पुरुषं वेद.यथा मा वो मृत्युः परिव्यथा इति ॥ (*arā iva rathanābhau kalā yasminpratiṣṭhitāḥ | taṃ vedyaṃ puruṣaṃ veda.yathā mā vo mṛtyuḥ parivyathā iti ‖*) (Praśna. 6-6)
+
+### Printed p. 827
+
+In this way the relation of the individual self to all the parts of the living being, the relation of breath to the Ṛks and the rest, and the relation of the primal Person to all the parts are compared with the relation of the nave of a chariot wheel to its spokes. Therefore, although in the present Ṛk this great principle is described as the wheel of time, it is to be understood as the very primal principle described elsewhere under the names Brahman, Self and so on.
+
+All beings, gods and men alike, carry on the affairs of the world obeying the command of this universal principle. In this undying wheel, rise and fall are natural. Although the original principle is ageless, the manifestation and the disappearance of everything subject to it go on in the form of revolution. The seer Bādhva states this in the Aitareya Āraṇyaka—
+
+महापुरुष इति यमुवोचाम संवत्सर एव प्रध्वंसयन्नन्यानि भूतान्यैक्याभावयन्नन्यानि तस्यैतस्यासावादित्यो रसः । स यश्चायमशरीरः प्रज्ञात्मा यश्चासावादित्य एकमेतदिति विद्यात् । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति ॥ (*mahāpuruṣa iti yamuvocāma saṃvatsara eva pradhvaṃsayannanyāni bhūtānyaikyābhāvayannanyāni tasyaitasyāsāvādityo rasaḥ | sa yaścāyamaśarīraḥ prajñātmā yaścāsāvāditya ekametaditi vidyāt | tasmātpuruṣaṃ puruṣaṃ pratyādityo bhavati ‖*) (Ai. Ā. 3-2-3-7 to 9) **NOTE**
+
+He whom we call the Great Person is of the form of the year. In the course of the revolution of that year, rise and fall must come to all beings. The essence of this year is Āditya. The bodiless Person, the Self of knowledge, and this Āditya are one and not different. Therefore a portion of this Āditya pervades every individual self, and spreads the reflection of one principle in all. Here, in stating the identity of the Great Person, the year and Āditya, the seer Bādhva, in order to show support for his view,
+
+चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आप्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ॥ (*citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | āprā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthuṣaśca ‖*) (Ṛ. Saṃ. 1-115-1)
+
+has said: Āditya, who is of the form of the eye of Mitra, Varuṇa and Agni, has risen. He has pervaded the earth, the sky and the heaven completely. Āditya is the inner self of the moving world and of the unmoving world, and he is all-pervading.
+
+उभे अप्रा रोदसी वि स आवः (*ubhe aprā rodasī vi sa āvaḥ*)—the greatness of this divine Soma pervades the earth and the heaven; that is, the men who are sacrificers and Ṛtvik priests, and the gods such as Indra who live in heaven **NOTE**
+
+### Printed p. 828
+
+drink Soma and enjoy delight. Therefore the greatness of Soma has spread in both heaven and earth, and by drinking Soma the darkness is destroyed; that is, the meaning is also suggested that ignorance is destroyed and wisdom arises.
+
+कारिणे न (*kāriṇe na*)—A master surely gives workmen their due for the work they have done; that is, it is not that he may give if he wishes and need not if he does not wish. To give is his duty. The practice of the world is the same. In the same way, the intention is: may the divine Soma, pleased by our praise, give us wealth and the like.
+
+#### Ṛk 39
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स व॑र्धि॒ता वर्ध॑नः पू॒यमा॑नः॒ सोमो॑ मी॒ढ्वाँ अ॒भि नो॒ ज्योति॑षावीत् ।  
+> येना॑ नः॒ पूर्वे॑ पि॒तरः॑ पद॒ज्ञाः स्व॒र्विदो॑ अ॒भि गा अद्रि॑मु॒ष्णन् ॥ ३९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । वर्धिता । वर्धनः । पूयमानः । सोमः । मीढ्वान् । अभि । नः। ज्योतिषा। आवीत् ।  
+> येन । नः । पूर्वे । पितरः । पदऽज्ञाः । स्वःऽविदः। अभि । गाः । अद्रिम् । उष्णन् ॥ ३९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वर्धिता देवानां स्वकलाप्रदानेन वर्धयिता वर्धनः स्वयं वर्धमानः पवित्रेण पूयमानः मीढ्वान् कामानां सेक्ता स सोमः नोस्माकं ज्योतिषा स्वतेजसा अभ्यावीत् अभिरक्षतु । येन सोमेन पदज्ञाः पणिभिरपहतानां गवां पदानि जानंतः स्वर्विदः सर्वज्ञाः सूर्यं जानंतो वा नोस्माकं पूर्वे चिरंतनाः पितरोंगिरसः  गाः पशूनभिलक्ष्य अद्रिमुष्णन् शिलोच्चयमुष्णन् सोमतेजसा अंधकारावृतं शिलोच्चयं गत्वा पशूनाहरन्नित्यर्थः । उषिरिहमुष्णातिसमानकर्मा । यद्वा मुष्णातेर्लङि वर्णलोपः ॥ ३९ ॥
+
+##### Gist of the bhāṣya
+
+वर्धिता (*vardhitā*) is the augmenter of the gods by giving them his own digits; वर्धनः (*vardhanaḥ*) is one who himself grows; पूयमानः (*pūyamānaḥ*) is purified by the filter; मीढ्वान् (*mīḍhvān*) is the sprinkler of desires. May that Soma protect us all around (अभ्यावीत् (*abhyāvīt*)) with his light, that is, his own radiance. By that Soma, our ancient forefathers, the Aṅgirases, who were पदज्ञाः (*padajñāḥ*), knowing the footprints of the cows carried off by the Paṇis, and स्वर्विदः (*svarvidaḥ*), all-knowing, or else knowing the sun, aiming at the cows, the cattle, अद्रिमुष्णन् (*adrimuṣṇan*), robbed the mass of rock; the meaning is that by the radiance of Soma they went to the mass of rock enveloped in darkness and carried off the cattle. The root उषि (*uṣi*) here has the same sense as मुष्णाति (*muṣṇāti*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येन (*yena*)—with the help of which Soma
+- पदज्ञाः (*padajñāḥ*)—those who knew the ways (footprints) of the cows carried off by the Paṇis
+- स्वर्विदः (*svarvidaḥ*)—the all-knowing
+- पूर्वे (*pūrve*)—the ancient
+
+### Printed p. 829
+
+- नः पितरः (*naḥ pitaraḥ*)—our forefathers (the Aṅgirases)
+- अद्रिं (*adriṃ*)—from the mountain
+- उष्णन् (*uṣṇan*)—stole back and brought the cows
+- वर्धिता (*vardhitā*)—who strengthens the gods
+- वर्धनः (*vardhanaḥ*)—who himself grows
+- पवित्रेण (*pavitreṇa*)—with the ten-fold filter
+- पूयमानः (*pūyamānaḥ*)—who obtains purification
+- मीढ्वान् (*mīḍhvān*)—the showerer of desires
+- सः सोमुः (*saḥ somuḥ*)—the divine Soma **NOTE**
+- नः (*naḥ*)—us
+- ज्योतिषा (*jyotiṣā*)—with his radiance
+- अभ्यावीत् (*abhyāvīt*)—may he protect completely
+
+##### भावार्थ (Bhāvārtha)
+
+With the help of which Soma our ancient forefathers, all-knowing, following the footprints of the cows carried off by the Paṇis, stole back the cows from the mountain and brought them, may that divine Soma, who strengthens the gods, who himself grows, who is purified by the ten-fold filter, who showers desires, protect us completely with his radiance.
+
+##### English translation
+May Soma the augmenter (of the gods), self-augmenting, being purified, the showerer (of benefits), protect us by his radiance ; through whom our forefathers, tracing the footmarks, cognizant of all things, stole the cattle from the rock.
+
+##### विशेषविषयगळु (Special Topics)
+
+The commentator tells a story here. Saramā is a bitch belonging to the gods. When demons named Paṇis had carried off the cows of the gods and hidden them in a cave, Indra sent this divine bitch Saramā to search for those cows. As in the world a hunter sends the hunting dog he keeps to search for animals, so Indra also told this divine bitch to go in search of the cows; then she spoke to Indra thus: O Indra, if you give milk and other food for my pup, I shall go and find the cows and bring them back. (As the followers of the Śāṭyāyana branch say: अन्नादिनीं ते सरमे प्रजां करोमि या नो गा अन्वविंदॆ (*annādinīṃ te sarame prajāṃ karomi yā no gā anvaviṃdè*)—O Saramā, I shall provide food for your pup. Go, search for the cows and come back.) When Indra said, Let it be so, the bitch set out, searching, found the place where the Paṇis had hidden the cows, and told Indra. Indra, knowing it, slew that demon, released the cows of the gods and brought them back. This is the sense set forth in this Ṛk. Thus
+
+### Printed p. 830
+
+it is said. Saramā is the bitch of the gods, that is, of Indra. It is known that she had two pups, that they were with Yama, the god of death, and that they were named Sārameyau after the name of their mother—
+
+अति द्रव सारमेयौ श्वनौ चतुरक्षौ शबलौ साधुना पथा (*ati drava sārameyau śvanau caturakṣau śabalau sādhunā pathā*) (Ṛ. Saṃ. 10-102-10) **NOTE**
+
+यौ ते श्वानौ यमरक्षितारौ चतुरक्षौ पथिरक्षी नृचक्षसौ (*yau te śvānau yamarakṣitārau caturakṣau pathirakṣī nṛcakṣasau*) (Ṛ. Saṃ. 10-14-11) **NOTE**
+
+In these Ṛks the matter of the two dogs Sārameyau, the pups of the divine bitch Saramā, and the fact that they had four eyes are learned. The matter of the above-mentioned divine bitch Saramā going to the Paṇis and parleying with them is described in the 108th Sūkta **NOTE** of the 10th Maṇḍala of the Ṛgveda in this way—
+
+किमिच्छंती सरमा प्रेदमानड्दूरे ह्यध्वा जगुरिः पराचैः । कास्मेहितिः का परितक्म्यासीत्कथं रसाया अतरं पयांसि । इंद्रस्य दूतिरिषिता चरामि मह इच्छंती पणयो निधीन् वः ॥ (*kimicchaṃtī saramā predamānaḍdūre hyadhvā jaguriḥ parācaiḥ | kāsmehitiḥ kā paritakmyāsītkathaṃ rasāyā ataraṃ payāṃsi | iṃdrasya dūtiriṣitā carāmi maha icchaṃtī paṇayo nidhīn vaḥ ‖*)
+
+अतिष्कदो भियसा तन्न आवत्त्था रसाया अतरं पयांसि ॥ (*atiṣkado bhiyasā tanna āvattthā rasāyā ataraṃ payāṃsi ‖*)
+
+कीदृज्ञिंद्रः सरमे का दृशीका यस्येदं दूतीरसरः पराकात् । आ च गच्छान्मित्रमेना दधामाथा गवां गोपतिर्नो भवामि ॥ (*kīdṛjñiṃdraḥ sarame kā dṛśīkā yasyedaṃ dūtīrasaraḥ parākāt | ā ca gacchānmitramenā dadhāmāthā gavāṃ gopatirno bhavāmi ‖*)
+
+नाहं तं वेद दभ्यं दभत्स यस्येदं दूतीरसरः पराकात् । न तं गूहंति स्रवतो गभीरा हता इंद्रेण पणयः शयुद्ध्वे ॥ (*nāhaṃ taṃ veda dabhyaṃ dabhatsa yasyedaṃ dūtīrasaraḥ parākāt | na taṃ gūhaṃti sravato gabhīrā hatā iṃdreṇa paṇayaḥ śayuddhve ‖*)
+
+इमा गावः सरमे या ऐच्छः परि दिवो अन्तान् सुभगे पतंती । कस्त एना अव सृजादयुध्व्यतास्माकमायुधा संति तिग्मा ॥ (*imā gāvaḥ sarame yā aicchaḥ pari divo antān subhage pataṃtī | kasta enā ava sṛjādayudhvyatāsmākamāyudhā saṃti tigmā ‖*)
+
+असेन्यावः पणयो वचांस्यनिषव्यास्तद्स्वः संतु पापीः । अधृष्टो व एतवा अस्तु पन्था बृहस्पतिर्व उभया न मृळात् ॥ (*asenyāvaḥ paṇayo vacāṃsyaniṣavyāstadsvaḥ saṃtu pāpīḥ | adhṛṣṭo va etavā astu panthā bṛhaspatirva ubhayā na mṛḷāt ‖*)
+
+अयं निधिः सरमे अद्रिबुध्नो गोभिरश्वेभिर्वसुभिर्न्यृष्टः । रक्षंति तं पणयो ये सुगोपा रेकु पदमलकमा जगंथ ॥ (*ayaṃ nidhiḥ sarame adribudhno gobhiraśvebhirvasubhirnyṛṣṭaḥ | rakṣaṃti taṃ paṇayo ye sugopā reku padamalakamā jagaṃtha ‖*)
+
+एह गमन्नृषयः सोमशिता अयास्यो अंगिरसो नवग्वाः । त एतमूर्वं विभजंते गोनामत्सैथद्स्वचः पणयो वमन्नित् ॥ (*eha gamannṛṣayaḥ somaśitā ayāsyo aṃgiraso navagvāḥ | ta etamūrvaṃ vibhajaṃte gonāmatsaithadsvacaḥ paṇayo vamannit ‖*)
+
+### Printed p. 831
+
+एवा च त्वं सरम आजगंथ प्रबाधिता सहसा दैव्येन । स्वसारं त्वा कृणवै मा पुनर्गा अप ते गवां सुभगे भजाम ॥ (*evā ca tvaṃ sarama ājagaṃtha prabādhitā sahasā daivyena | svasāraṃ tvā kṛṇavai mā punargā apa te gavāṃ subhage bhajāma ‖*)
+
+नाहं वेद भ्रातृत्वं नो स्वसृत्वमिंद्रो विदुरंगिरसश्च घोराः । गोकामा मे अच्छदयन् यदायमुपात इत पणयो वरीयः ॥ (*nāhaṃ veda bhrātṛtvaṃ no svasṛtvamiṃdro viduraṃgirasaśca ghorāḥ | gokāmā me acchadayan yadāyamupāta ita paṇayo varīyaḥ ‖*)
+
+दूरमित पणयो वरीय उद्गावो यंतु मिनतीरृतेन । बृहस्पतिर्या अविंदन्निगूळ्हा सोमो ग्रावाण ऋषयश्च विप्राः ॥ (*dūramita paṇayo varīya udgāvo yaṃtu minatīrṛtena | bṛhaspatiryā aviṃdannigūḷhā somo grāvāṇa ṛṣayaśca viprāḥ ‖*) (Ṛ. Saṃ. 10-108-1 to 11)
+
+Its translation we give below. It is in the form of a conversation between the Paṇis and Saramā. Formerly the Paṇis, followers of Vala, had carried off the cows of Bṛhaspati and hidden them in a secret place. Then, at Bṛhaspati's request, Indra sent the divine bitch Saramā to search for the cows. Searching for the cows, Saramā travelled a long way, crossed a great river named Rasā that lay across the road, and came near the Paṇis. Then the Paṇis, knowing the purpose for which Saramā had come, and with the thought of making friends with her, held this conversation—
+
+The Paṇis: O Saramā, you seem to have come here from a long way with great hardship. What is the purpose for which you have come here? How did you come here? How did you cross the river Rasā?
+
+Saramā: O Paṇis, listen. Commissioned by Indra, I have come here as his messenger. Indra desires the treasures (the cows) that you have hidden. The river Rasā, frightened, helped me to cross. Therefore I crossed that river and came.
+
+The Paṇis: O Saramā, good. You said that Indra has sent you as messenger. What does that Indra look like? (The Paṇis speak among themselves thus:) If Saramā comes, let her come. Let us make friends with her, and let her be the mistress of our cows.
+
+Saramā: As you think, that Indra cannot be conquered. The Indra who sent me conquers enemies, but others cannot conquer him. Even deep rivers cannot stop him. Slain by him, you will have to lie on the bed of death.
+
 ---
 
-**Progress note:** Done through printed p. 825. Rk 38 bhashya, Special Topics on samvatsara
+**Progress note:** Done through printed p. 831. Rk 38 end, Rk 39, Sarama and the Panis
