@@ -35294,6 +35294,232 @@ Sāyaṇa addresses the two Aśvins as leaders of rites: where, in what place, w
 
 O Aśvin gods, leaders of rites, that which belongs to you, resplendent, which goes to the sacrifice at dawn itself, all-pervading, which for every sacrificer every day
 
+### Printed p. 972
+
+provides wealth, which is given to movement, in what place does which sacrificer adorn with his praise, for his own good?
+
+##### English translation
+What (worshipper), O leaders of rites, and where (abiding) glorifies for his good, by his praise at the rite, your radiant moving chariot, going (to the sacrifice) at dawn, all-pervading, and bearing (wealth) day after day to one man after another ?
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुह॑ स्विद्दो॒षा कुह॒ वस्तो॑र॒श्विना॒ कुहा॑भिपि॒त्वं क॑रतः॒ कुहो॑षतुः ।  
+> को वां॑ शयु॒त्रा वि॒धवे॑व दे॒वरं॒ मर्यं॒ न योषा॑  
+> कृणुते स॒दस्य॒ आ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुह । स्वित् । दोषा । कुह । वस्तोः । अश्विना । कुह । अभिपित्वं । करतः । कुह ।  
+> ऊहतुः ।  
+> कः । वां । शयुत्रा । विधवाइव । देवरं । मर्यं । न । योषा । कृणुते ।  
+> सधस्थे । आ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् कुह स्वित् क्व चिद्दोषा रात्रौ भवथ इति शेषः । कुह वस्तोः
+> क्व वा दिवा भवथः। कुह क्व नाभिपित्वमभिप्राप्तिं करतः। कुरुथः। कुह क्व पोषथुः ।
+> वसथः । किंच वां युवां को यजमानः सधस्थे सहस्थाने वेद्याख्य आ कृणुते ।
+> आकुरुते । परिचरणार्थमात्माभिमुखीकरोति । तत्र दृष्टांतौ दर्शयति । शयुत्रा
+> शयने विधवेव यथा मृतभर्तृका नारी देवरं भर्तृभ्रातरमभिमुखीकरोति ।
+> मर्यं न यथा च सर्वं मनुष्यं योषा सर्वा नारी संभोगकालेऽभिमुखी-
+
+### Printed p. 973
+
+> करोति तद्वदित्यर्थः । तथा च यास्कः । क्व स्विद्रात् भवथः क्व दिवा क्वाभिप्राप्तिं
+> कुरुथः क्व वसथः को वां शयने विधवेव देवरं देवरः कस्माद्वितीयो वर
+> उच्यते विधवा विधातृका भवति विधवनाद्वा विधावनाद्वैति चर्मशिरा अपि वा धव इति
+> मनुष्यनाम तद्वियोगाद्विधवा देवरो दीव्यतिकर्मा मर्यो मनुष्यो मरणधर्मा योषा यौतेराकुरुते सधस्थाने । नि. ३-१५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: where indeed are you by night, where by day, where do you arrive, where do you dwell? Further, which sacrificer, in the common place called the vedi, makes you turn towards himself in order to attend upon you? He shows two examples: as a widow in bed turns her devara, her husband's brother, towards herself, and as any woman at the time of union turns every man towards herself; so is the sense. Yāska says the same (Ni. 3-15) and explains the words: the devara is so called as the second husband (vara); the widow is one whose supporter is gone, or one who is shaken (by grief), or one who runs about, as Carmaśiras holds, or the word dhava is a name for man and she is separated from him; the devara is one whose business is sport; marya is a man, subject to death; the woman, yoṣā, is so called from joining.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- दोषा (*doṣā*)—by night
+- कुह स्वित् (*kuha svit*)—where are you
+- वस्तोः (*vastoḥ*)—by day
+- कुह (*kuha*)—where are you
+- कुह (*kuha*)—in what places
+- अभिपित्वं करतः (*abhipitvaṃ karataḥ*)—do you move about
+- कुह ऊषथुः (*kuha ūṣathuḥ*)—where do you dwell
+- शयुत्रा (*śayutrā*)—to her bed
+- विधवा (*vidhavā*)—as a widow
+- देवरं न (*devaraṃ na*)—receives her husband's brother
+- योषा (*yoṣā*)—a woman
+- मर्यं न (*maryaṃ na*)—as she meets a man
+- कः (*kaḥ*)—which sacrificer
+- वां (*vāṃ*)—you
+- सधस्थे (*sadhasthe*)—in the place of sacrifice
+- आ कृणुते (*ā kṛṇute*)—receives face to face
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, where are you by night? Where are you by day? In what places do you move about? Where do you dwell? Which sacrificer receives you face to face in the place of sacrifice, as a widow receives her husband's brother to her bed, and as a woman meets a man?
+
+##### English translation
+Where are you, Ashwins, by night ? where are you by day ? where do you sojourn ? where do you dwell ? who brings you into his presence in the same place (of sacrifice) as on her couch a widow (brings) her husband's brother, as a woman (brings) her husband (to her).
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word devara Yāska takes this Ṛk as an example and states the Nirukta:
+
+क्व स्विद्रात् भवतः, क्व दिवा, क्वाभिव्राप्तिं कुरुथः, क्व वसथः, को वा शयने विधवेव देवरं । देवरः कस्मात् द्वितीयो वर उच्यते । विधवा विधातृका भवति । विधावनाद्वा । विधवनाद्वेति प्रचर्मशिराः ! अपि ना धव इति (*kva svidrāt bhavataḥ, kva divā, kvābhivrāptiṃ kuruthaḥ, kva vasathaḥ, ko vā śayane vidhaveva devaraṃ | devaraḥ kasmāt dvitīyo vara ucyate | vidhavā vidhātṛkā bhavati | vidhāvanādvā | vidhavanādveti pracarmaśirāḥ ! api nā dhava iti*)
+
+### Printed p. 974
+
+नाम तद्वियोगाद्विधवा । देवरो दीव्यतिकर्मा । मर्यो मनुष्यो मरणधर्मा । योषा यौतेः । आकुरुते सहस्थाने ॥ (*nāma tadviyogādvidhavā | devaro dīvyatikarmā | maryo manuṣyo maraṇadharmā | yoṣā yauteḥ | ākurute sahasthāne ‖*) (Ni. 3-15)
+
+The woman Ghoṣā, the seer of this sūkta, when praising the Aśvin gods, questions them in this way: O Aśvin gods, where are you at night? Where are you by day? Where do you carry out your activities (bathing, eating and so on)? Where do you dwell? In the house of sacrifice of which sacrificer are you remembered by him, as a widow, a woman without a husband, makes her husband's brother sit facing her on her bed (at night), and as a wife makes her husband sit facing her in privacy and takes her pleasure?
+
+How is the word devara formed? What is a devara? The devara is the second husband. For a woman the husband she was married to is the first husband. If that husband dies before children are born, then (as was the custom at that time) the husband's younger brother, that is, the brother-in-law, may unite with that woman for the begetting of a son; since this brother-in-law is thus the second husband for that woman, the word devara means brother-in-law.
+
+The word विधवा (*vidhavā*) means (1) विधातृका (*vidhātṛkā*): after the husband has died there is no one to support that woman, that is, to maintain her by giving food, clothing and so on, so a woman without a husband is called a widow. (2) Or from विधवनाद्वा (*vidhavanādvā*): because she trembles with grief, being sorrowful at the death of her husband, a woman without a husband is called a widow. (3) Or from विधवनाद्वा (*vidhavanādvā*): because, scorched by grief at the death of her husband, she wanders from place to place with no one to restrain her, a woman without a husband is called a widow; this is the opinion of the teacher called चर्मशिराः (*carmaśirāḥ*). (4) Or the word dhava means a man; therefore a woman who has lost (vi) her husband (dhava) is called a widow.
+
+देवरः दीव्यतिकर्मा (*devaraḥ dīvyatikarmā*): the word devara is derived from the root that means to sport. The sense here is one who is given to amorous play with the wife of his brother.
+
+मर्यः मनुष्यः (*maryaḥ manuṣyaḥ*): marya is a man, who is subject to the law of death, that is, who will die one day.
+
+योषा यौतेः (*yoṣā yauteḥ*): yoṣā means a woman. This word is derived from the root यु (*yu*), to mix. Because she mixes with a man, that is, comes into contact and enjoys union, a woman is called yoṣā.
+
+### Printed p. 975
+
+आकुरुते सहस्थाने-समानस्थाने अभिमुख्येन आत्मनः कुरुते परिचरणाय । (*ākurute sahasthāne-samānasthāne abhimukhyena ātmanaḥ kurute paricaraṇāya |*)
+
+The words तृणुते सधस्थ आ (*tṛṇute sadhastha ā*) **NOTE** mean: in a common place, that is, in a place common to both the man and the woman (who come together for union), or in a secret part of the house, sitting face to face with one another.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रा॒तर्ज॑रेथे जर॒णेव॒ काप॑या॒ वस्तो॑र्वस्तोर्यज॒ता ग॑च्छथो  ॒
+> गृहं ।  
+> कस्य॑ ध्व॒स्रा भ॑वथः॒ कस्य॑ वा नरा राजपु॒त्रेव॒ सव॒नाव॑ गच्छथः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्राथः । जरेथे इति । जरणाइव । कापया । वस्तोऽवस्तोऽः । यजता । गच्छथः ।  
+> गृहं ।  
+> कस्य । ध्वस्रा । भवथः । कस्य । वा । नरा । राजपुत्रा इव । सवना । अव । गच्छथः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विनौ युवां प्रातः प्रातःकाले जरेथे । स्तोतृभिः
+> स्तूयेथे । तत्र दृष्टांतः । जरणेव यथा जरणावैश्वर्यण वृद्धौ राजानौ
+> कापया । प्रातःप्रबोधकस्य वंदिनो वाणी कापा । तया स्तूयेते । तद्वदित्यर्थः ।
+> किंच वस्तोर्वस्तोरन्वहं यजता यष्टव्यौ युवां गृहं यजमानस्य मंदिरं
+> गच्छथः । प्राप्नुथः । त्वा युवां कस्य यजमानसंबंधिनो दोषस्य ध्वस्रा ध्वंसकौ
+> विनाशयितारौ भवथॆः । कस्य यजमानस्य सवना सवनानि राजपुत्रेव राजकुमाराविव
+> युवामव गच्छथः । प्राप्नुथः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins as leaders: in the morning you are praised by singers. The example: as two kings grown great in lordship are praised by the kāpā, the speech of the bard who wakes them at dawn; so is the sense. Further, day by day you, who are to be worshipped, go to the sacrificer's house. Of which sacrificer's fault are you two the destroyers? To the pressings of which sacrificer do you go like two princes?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरा (*narā*)—O Aśvin gods, leaders of rites
+- कापया (*kāpayā*)—by the praise of the bard
+- चरणेव (*caraṇeva*)—as kings are praised **NOTE**
+- प्रातः (*prātaḥ*)—at dawn
+- जरेथे (*jarethe*)—you are praised
+- यजता (*yajatā*)—you, who are to be worshipped
+- वस्तोर्वस्तोः (*vastorvastoḥ*)—every day
+- गृहं (*gṛhaṃ*)—to the house of the sacrificer
+- गच्छथः (*gacchathaḥ*)—you go
+- कस्य (*kasya*)—of which fault
+- ध्वस्रा (*dhvasrā*)—as destroyers
+- भवथः (*bhavathaḥ*)—you are
+- कस्य (*kasya*)—of which sacrificer
+- सवना (*savanā*)—to the sacrifice
+- राजपुत्रेव (*rājaputreva*)—like princes
+- अव गच्छथः (*ava gacchathaḥ*)—you go
+
+### Printed p. 976
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, leaders of rites, as kings are praised by the praise of the bard, so you are praised at dawn. You, who are to be worshipped, go every day to the sacrificer's house. Of which fault of the sacrificer are you the destroyers? To the sacrifice of which sacrificer do you go like princes?
+
+##### English translation
+Leaders (of rites), you are glorified at dawn like two ancient (monarchs) by the voice (of the caller): entitled to worship, you go day by day to the dwelling (of the worshipper): of whose (faults) are you the destroyer ? to whose oblations do you repair like princes ?
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां मृ॒गेव॑ वार॒णा मृ॑ग॒ण्यवो॑ दो॒षा वस्तो॑र्ह॒विषा॒  ॑
+> नि ह्व॑यामहे ।  
+> यु॒वं होत्रा॑मृतु॒था जुह्व॑ते न॒रेषं॒ जना॑य वहथः  
+> शुभस्पती ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । मृगाइव । वारणा । मृगण्यवः । दोषा । वस्तोः । हविषा । नि ।  
+> ह्वयामहे ।  
+> युवं । होत्रां । ऋतुथा । जुह्वते । नरा । इषं । जनाय । वहथः ।  
+> शुभः । पती इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां वारणा वारणौ मृगेव यथा शार्दूलौ मृगण्यवो
+> मृगयवः तद्वद्वयं दोषा रात्रौ वस्तोरहनि च हविषा नि ह्वयामहे । नियमेन ह्वयामः । किंच हे नरा नेतारावश्विन् युवं युवामृतुथा काले काले
+> होत्रामाहुतिं जुह्वते ! जुह्वति । यजमाना इति शेषः । किंच युवां शुभः
+
+### Printed p. 977
+
+> शुभस्य वृष्ट्यदकस्य पती स्वामिनौ संतौ जनाय जनार्थमिषमन्नं वहथः ।
+> प्रापयथः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: as hunters go after two elephants and two tigers, so we invoke you by night and by day with the oblation; we call you with fixed purpose. Further, leaders, at the proper time the sacrificers offer the oblation to you. Further, you two, being lords of the shining (rain-water), bring food for the people.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मृगण्यवः (*mṛgaṇyavaḥ*)—(O Aśvin gods) hunters
+- वारणा (*vāraṇā*)—elephants
+- मृगेव (*mṛgeva*)—and tigers, calling and approaching them
+- युवां (*yuvāṃ*)—you two
+- दोषा (*doṣā*)—by night
+- वस्तोः (*vastoḥ*)—by day
+- हविषा (*haviṣā*)—with the oblation
+- नि ह्वयामहे (*ni hvayāmahe*)—we call
+- नरा (*narā*)—O leaders of rites
+- युवं (*yuvaṃ*)—addressing you
+- ऋतुथा (*ṛtuthā*)—at all the times of sacrifice
+- होत्रां (*hotrāṃ*)—the oblation
+- जुह्वते (*juhvate*)—the sacrificer offers
+- शुभः (*śubhaḥ*)—of rain
+- पती (*patī*)—you, the lords
+- जनाय (*janāya*)—to the sacrificer
+- इसं (*isaṃ*)—food
+- वहथः (*vahathaḥ*)—you bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, as hunters call out to elephants and tigers and approach them, so we, bringing the oblation, call you two by night and by day. O leaders of rites, addressing you, the sacrificer offers the oblation at all the times of sacrifice. You, the lords of rain, bring food to the sacrificer.
+
+##### English translation
+Like persons hunting two wild elephants, we praise you, Ashwins, with oblations night and day : at all due seasons, leaders (of rites), (the worshipper) offers you the oblation ; do you, who are rulers of the shining (rain), bring food to mankind.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वां ह॒ घोषा॒ पर्य॑श्विना य॒ती राज्ञ॑ ऊचे दुहि॒ता ॒ ॑
+> पृ॒च्छे वां॑ नरा ।  
+> भू॒तं मे॒ अह्न॑ उ॒त भू॑तम॒क्तवेऽश्वा॑वते र॒थिने॑ शक्त॒मर्व॑ते॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवां । ह । घोषा । परि । अश्विना । यती । राज्ञः । ऊचे । दुहिता ।  
+> पृच्छे । वां । नरा ।  
+> भूतं । मे । अह्ने । उत । भूतं । अक्तवे । अश्ववते । रथिने । शक्तं । अर्वते ॥
+
 ---
 
-**Progress note:** Done through printed p. 971. Ṛk 13 rest, Ṛk 14 of sūkta 39, sūkta 40 Ṛk 1
+**Progress note:** Done through printed p. 977. Ṛk 2-4 of sūkta 40, start of Ṛk 5
