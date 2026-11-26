@@ -10968,6 +10968,238 @@ O Aśvins, the intoxicating Soma juice from the crushed plants is trickling into
 ##### English translation
 Drink, Aswins, the exhilarating (Soma) as it drops (into the vessels),—seat yourselves, leaders, on the sacrificial grass; rejoicing in the house of the worshipper, drink the sacred beverage with the oblation.
 
+### Printed p. 278
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वां॒ विश्वा॑भिरू॒तिभिः॑ प्रि॒यमे॑धा अहूषत ।  
+> ता वर्तिर्यातमुप वृक्तबर्हिषो जुष्टं यज्ञं दिविष्टिषु ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । वाम् । विश्वाभिः । ऊतिऽभिः । प्रियऽमेधाः । अहूषत ।  
+> ता । वर्तिः । यातम् । उप । वृक्तऽबर्हिषः । जुष्टम् । यज्ञम् । दिविष्टिषु ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ प्रियमेधाः । मेधो यज्ञः । प्रियतमयज्ञा यजमानाः । यद्वा । प्रियमेधा एतन्नामक ऋषिः । पूजायां बहुवचनम् । यष्टार ऋषिर्वा विश्वाभिरूतिभिः सर्वैः पालनैः सह । अथवा अवतिः यांचाकर्मा । सर्वैरभिलषितयाचनैः सहिताः अहूषत आह्वासिषुः आह्वासीत् । आत्मनः पालनहेतुकत्वेन । यद्वाभिलषितदानाय वामाह्वयंति । ता तौ युवां वृक्तबर्हिषः आस्तरणार्थं छिन्नबर्हिषो यष्टुः संबंधि जुष्टं सर्वैर्देवैः सेवितं पर्याप्तं वा यज्ञं यजनीयं हविः प्रति दिविष्टिषु दिवसानामह्नामागमनेषु प्रातःकालेषु यज्ञेषु वा वर्तिः । वर्तंतेऽत्रेति वर्तिगृहम् । तत् उप आ यातं हविःस्वीकरणार्थं युवामागच्छतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, प्रियमेधाः (*priyamedhāḥ*): medha is sacrifice, so these are sacrificers whose sacrifices are most dear. Or else Priyamedha is the name of a seer, the plural being used for honour. The sacrificers, or the seer, have invoked (अहूषत (*ahūṣata*)) you with all protections, that is, with all kinds of guarding; or else the root ava here has the sense of asking, so: together with all their desired requests, invoking you for their own protection, or invoking you in order that you may grant what is desired. You two, to the sacrificer who has cut the sacred grass (वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)) for strewing, come near to his sacrifice, that is, the oblation to be offered, served by all the gods or sufficient for them, at the dawn-sacrifices (दिविष्टिषु (*diviṣṭiṣu*)), that is, at the morning times of the arriving days or at sacrifices, to his dwelling (वर्तिः (*vartiḥ*): the house where one dwells), in order to receive the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Aśvins,)
+- प्रियमेधाः (*priyamedhāḥ*)—the seer named Priyamedha (or the sacrificers)
+- वां (*vāṃ*)—you
+- विश्वाभिः (*viśvābhiḥ*)—all
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- अहूषत (*ahūṣata*)—invokes (invoke) you with prayer
+- ता (*tā*)—you, the renowned
+- वृक्तबर्हिषः (*vṛktabarhiṣaḥ*)—of the sacrificer who has spread the sacred grass at the sacrifice for the gods to sit on
+- जुष्टं (*juṣṭaṃ*)—extending beyond all the gods **NOTE**
+- यज्ञं (*yajñaṃ*)—having regard to the oblation fit for sacrifice
+- दिविष्टिषु (*diviṣṭiṣu*)—at the morning times or at the sacrifices
+- वर्तिः (*vartiḥ*)—towards the house
+- उप आ यातं (*upa ā yātaṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the seer Priyamedha, or the sacrificers who perform the sacrifice, invoke you with prayer, with all protections. Having regard to the sacrificer's oblation fit for sacrifice, graciously come at the morning times towards his house.
+
+### Printed p. 279
+
+##### English translation
+The worshippers have invoked you with all your protections ; come in the early morning to the dwelling of him who has clipped the sacred grass, to the offering loved (by all the gods).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिबतं सोमं मधुमंतमश्विना बर्हिः सीदतं सुमत् ।  
+> ता वावृधाना उप सुष्टुतिं दिवो गंतं गौराविवेरिणम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिबतम् । सोमम् । मधुऽमंतम् । अश्विना । आ । बर्हिः । सीदतम् । सुऽमत् ।  
+> ता । ववृधानौ । उप । सुऽस्तुतिम् । दिवः । गंतम् । गौरौऽइव । इरिणम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ मधुमंतं रसवंतं मदवंतं वा सोमं युवां पिबतम् । ततः बर्हिः बर्हिषि यज्ञे सुमत् शोभनम् आ सीदतम् । पश्चात् ववृधानौ सोमपानेन वृद्धौ ता तौ युवां दिवः द्युलोकात् सुष्टुतिम् अस्माभिः क्रियमाणां शोभनां स्तुतिम् उप गंतं उपगच्छतम् । तत्र दृष्टांतः । गौराविव यथा गौरमृगावन्यस्माद्देशात् इरिणं तटाकादिकं प्रति जलपानार्थमागच्छतस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, drink the Soma that is full of sweetness (मधुमंतं (*madhumaṃtaṃ*)), that is, juicy or intoxicating. Then sit comfortably (सुमत् (*sumat*), that is, in a goodly manner) on the sacred grass at the sacrifice. Afterwards, grown strong (ववृधानौ (*vavṛdhānau*)) by the drinking of Soma, you two come from heaven to the good praise (सुष्टुतिम् (*suṣṭutim*)) that we are making. The illustration is गौराविव (*gaurāviva*): as two Gaura deer come from another place to a pond (इरिणं (*iriṇaṃ*)) or the like in order to drink water, so it is here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- मधुवंतं (*madhuvaṃtaṃ*)—intoxicating or juicy
+- सोमं (*somaṃ*)—Soma juice
+- पिबतं (*pibataṃ*)—drink. Then
+- बर्हिः (*barhiḥ*)—on the sacred grass spread as a seat in the sacrificial house
+- सुमत् (*sumat*)—comfortably
+- आ सीदतं (*ā sīdataṃ*)—sit down. Afterwards
+- ववृधानौ (*vavṛdhānau*)—grown strong by drinking Soma
+- ता (*tā*)—you
+- सुष्टुतिं (*suṣṭutiṃ*)—having regard to the excellent praise that we make
+- गौराविव (*gaurāviva*)—as Gaura deer from the place where they are
+- इरिणं (*iriṇaṃ*)—go to a pond or other water-place to drink water
+- दिवः (*divaḥ*)—from the heaven where you are
+- उप गंतं (*upa gaṃtaṃ*)—come near to us
+
+### Printed p. 280
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, sit on the seat of sacred grass spread in the sacrificial house. Drink the intoxicating Soma. As Gaura deer go from the place where they are to a water-place to drink water, so do you, having regard to the praise that we make, come from heaven to our sacrificial ground.
+
+##### English translation
+Aswins, drink the exhilarating Soma, sit down in your radiance on the sacrificial grass; waxing strong (through the libation), come from heaven to our praises, as two Gauras to a pool.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नूनं यातमश्विनाश्वेभिः प्रुषितप्सुभिः ।  
+> दस्रा हिरण्यवर्तनी शुभस्पती पातं सोममृतावृधा ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नूनम् । यातम् । अश्विना । अश्वेभिः । प्रुषितप्सुऽभिः ।  
+> दस्रा । हिरण्यवर्तनी इति हिरण्यऽवर्तनी । शुभः । पती इति । पातम् । सोमम् । ऋतऽवृधा ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ युवां प्रुषितप्सुभिः । प्सु इति रूपनाम । ' प्रुष स्नेहनसेचनपूरणेषु ' । स्निग्धरूपैः दीप्तरूपैरित्यर्थः । तादृशैः शीघ्रगामिभिरश्वैः सह नूनम् इदानीम् यातम् अस्मदीयं यज्ञं प्रत्यागच्छतम् । हे दस्रा दस्रौ दर्शनीयावुपक्षपयितारौ वा हे हिरण्यवर्तनी । वर्ततेऽत्रेति वर्तनी रथः । हिरण्मयरथौ हे शुभस्पती उदकस्य कल्याणस्य वा पालयितारौ हे ऋतावृधा सत्यस्य यज्ञस्य वा वर्धयितारौ हे अश्विनौ युवां शीघ्रमागत्य सोमं पातं पिबतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come now to our sacrifice with horses that are प्रुषितप्सुभिः (*pruṣitapsubhiḥ*): psu is a name for form, so these are horses of glossy, that is, shining form, such swift-going horses. O दस्रा (*dasrā*), beautiful ones, or those who cause destruction (of enemies); O हिरण्यवर्तनी (*hiraṇyavartanī*), that is, having golden chariots, the vartanī being the chariot in which one moves; O शुभस्पती (*śubhaspatī*), protectors of water or of welfare; O ऋतावृधा (*ṛtāvṛdhā*), increasers of truth or of the sacrifice: Aśvins, come quickly and drink the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins, you
+- पृषितप्सुभिः (*pṛṣitapsubhiḥ*)—having attractive form
+- अश्वैः (*aśvaiḥ*)—together with your horses
+- नूनं (*nūnaṃ*)—right now
+- आ यातं (*ā yātaṃ*)—graciously come towards our sacrifice
+
+### Printed p. 281
+
+- दस्रा (*dasrā*)—destroyers of enemies
+- हिरण्यवर्तनी (*hiraṇyavartanī*)—seated in a golden chariot
+- शुभस्पती (*śubhaspatī*)—protectors of water
+- ऋतावृधा (*ṛtāvṛdhā*)—increasers of the sacrificial rite, O Aśvins, you
+- सोमं (*somaṃ*)—Soma juice
+- पातं (*pātaṃ*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, come right now towards our sacrifice, together with your horses of attractive form. O Aśvins, destroyers of enemies, owners of a golden chariot, protectors of water, accomplishers of the sacrificial rite, drink the Soma juice.
+
+##### English translation
+Come, Aswins, with your glossy steeds; Dasras, riding in golden chariots, lords of good fortune, upholders, of truth, drink the Soma.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वयं हि वां हवामहे विपन्यवो विप्रासो वाजसातये ।  
+> ता वल्गू दस्रा पुरुदंससा धियाश्विना श्रुष्ट्या गतम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयम् । हि । वाम् । हवामहे । विपन्यवः । विप्रासः । वाजऽसातये ।  
+> ता । वल्गू इति । दस्रा । पुरुऽदंससा । धिया । अश्विना । श्रुष्टी । आ । गतम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ विपन्यवः स्तोतारः अत एव विप्रासः विप्रा मेधाविनः वयं वाजसातये अन्नलाभाय वाम् । हिरवधारणे । युवामेव हवामहे स्तुतिभिराह्वयामः । ततः वल्गू। वल्गनं कुशलगमनम् । कुशलगमनशीलौ पुरुदंससा बहुकर्माणौ तौ युवां धिया अस्मदीयया स्तुत्याहूतौ संतौ श्रुष्टी । श्रुष्टीति क्षिप्रनाम । क्षिप्रमस्मभ्यं धनादिदानाय आ गतम् आगच्छतम् ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, we, praisers (विपन्यवः (*vipanyavaḥ*)) and therefore wise (विप्रासः (*viprāsaḥ*)), invoke you alone (the word हि (*hi*) having the sense of emphasis), with praises, for the winning of food. Then you two, वल्गू (*valgū*), whose nature is skilful going (valgana is skilful going), पुरुदंससा (*purudaṃsasā*), doers of many deeds, being invoked by our praise, come quickly (श्रुष्टी (*śruṣṭī*) is a name for quick) to give us wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Aśvins,)
+- विपन्यवे (*vipanyave*)—who praise you
+- विप्रासः (*viprāsaḥ*)—and are wise
+- वयं (*vayaṃ*)—we
+- वाजसातये (*vājasātaye*)—for the winning of food
+- वां हि (*vāṃ hi*)—you alone
+- हवामहे (*havāmahe*)—we call, praying
+
+### Printed p. 282
+
+- वल्गू (*valgū*)—of skilful movement of the feet
+- पुरुदंससा (*purudaṃsasā*)—doers of many deeds of valour, you
+- धिया (*dhiyā*)—prayed to by our praise
+- श्रुष्टी (*śruṣṭī*)—quickly
+- आ गतं (*ā gataṃ*)—graciously come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, we, who praise you and are wise, invoke you alone with prayer for the winning of food. You of skilful going, doers of many deeds, accept our praise and graciously come quickly to us.
+
+##### English translation
+We, your wise praisers, invoke you to the enjoyment of the sacrificial viands ; come quickly, Dasras, at the sound of our praise, Ashwins, graceful in your movements, abounding in mighty deeds.
+
+## Sūkta 88 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ तं वो दस्मम्' इति षडृचमष्टमं सूक्तं गौतमस्य नोधस आर्षम् । तथा चानुक्रम्यते- तं वो दस्मं नोधाः' इति । प्रागाथं ह' इत्युक्तत्वादेतदादिसूक्तत्रयं प्रागाथम् । इंद्रो देवता । महाव्रते निष्केवल्ये बार्हततृचाशीतावेतत्सूक्तम् । तथा च पंचमारण्यके सूत्रितं-- तं वो दस्ममृतीषहमा नो विश्वासु हव्यः' (ऐ. आ. ५. २. ४) इति । अग्निष्टोमे माध्यंदिनसवनेऽच्छावाकशस्त्रे ‘तं वो दस्मम्' इति प्रगाथः स्तोत्रियः । सूत्रितं च -- तं वो दस्ममृतीषहं तत्त्वा यामि सुवीर्यमिति प्रगाथौ स्तोत्रियानुरूपौ' (आश्व. श्रौ. ५. १६ ) इति । चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनो वैकल्पिकः स्तोत्रियोऽयमेव प्रगाथः (आश्व. श्रौ. ७. ४ )। विषुवत्यपि माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रे ‘तं वो दस्ममृतीषहम्' इति नौधसस्य योनिः शंसनीया । ' तं वो दस्ममृतीषहमभि प्र वः सुराधसम्' (आश्व. श्रौ. ८. ६) इति ॥
+
+##### Gist of the bhāṣya
+
+The eighth sūkta, of six Ṛks, beginning तं वो दस्मम् (*taṃ vo dasmam*), is the vision of Nodhas Gautama. So the Anukramaṇikā says: तं वो दस्मं नोधाः (*taṃ vo dasmaṃ nodhāḥ*). Since प्रागाथं ह (*prāgāthaṃ ha*) has been said, this sūkta and the two following are Prāgātha. Indra is the deity. In the Mahāvrata, in the niṣkevalya (śastra), this sūkta is used for the बार्हततृचाशीतावेतत्सूक्तम् (*bārhatatṛcāśītāvetatsūktam*) **NOTE**. So it is laid down in the fifth Āraṇyaka: तं वो दस्ममृतीषहमा नो विश्वासु हव्यः (*taṃ vo dasmamṛtīṣahamā no viśvāsu havyaḥ*) (Ai. Ā. 5. 2. 4). In the Agniṣṭoma, at the midday pressing, in the Acchāvāka's śastra, the pragātha beginning तं वो दस्मम् (*taṃ vo dasmam*) is the stotriya. It is also laid down in the sūtra: तं वो दस्ममृतीषहं तत्त्वा यामि सुवीर्यमिति प्रगाथौ स्तोत्रियानुरूपौ (*taṃ vo dasmamṛtīṣahaṃ tattvā yāmi suvīryamiti pragāthau stotriyānurūpau*) (Āśv. Śrau. 5. 16). On the Cāturviṃśika day, at the midday pressing, this very pragātha is the optional stotriya of the Brāhmaṇācchaṃsin (Āśv. Śrau. 7. 4). At the Viṣuvat also, at the midday pressing, in the Brāhmaṇācchaṃsin's śastra, तं वो दस्ममृतीषहम् (*taṃ vo dasmamṛtīṣaham*) is to be recited as the yoni of the Naudhasa **NOTE**: तं वो दस्ममृतीषहमभि प्र वः सुराधसम् (*taṃ vo dasmamṛtīṣahamabhi pra vaḥ surādhasam*) (Āśv. Śrau. 8. 6).
+
+The Anuvāda: this sūkta beginning तं वो दस्मं (*taṃ vo dasmaṃ*) is the eighth sūkta in the ninth Anuvāka. It has six Ṛks. The seer of this sūkta is the one named Nodhas, son of Gotama; in the Anukramaṇikā it is said: तं वो दस्मं नोधाः (*taṃ vo dasmaṃ nodhāḥ*). For this sūkta and the next two sūktas the metre is called Prāgātha. Indra is the deity. In the Mahāvrateṣṭi,
+
+### Printed p. 283
+
+at the time of reciting the mantras of the niṣkevalya-śastra, this sūkta is applied to the Ṛks of the Bṛhatī metre, as is indicated in the Aitareya Āraṇyaka, in the fifth Āraṇyaka, by the sentence तं वो दस्ममृतीषहमा नो विश्वासु हव्यः (*taṃ vo dasmamṛtīṣahamā no viśvāsu havyaḥ*) (Ai. Ā. 5-2-4). Among the śastra mantras recited by the priest called Acchāvāka at the midday pressing of the Agniṣṭoma sacrifice, the pragātha (of two Ṛks) beginning तं वो दस्मं (*taṃ vo dasmaṃ*) is to be recited as the stotriya pragātha, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: तं वो दस्ममृतीषहं तत्वा यामि सुवीर्यमिति प्रागाथौ स्तोत्रीयानुरूपौ (*taṃ vo dasmamṛtīṣahaṃ tatvā yāmi suvīryamiti prāgāthau stotrīyānurūpau*) (Āśv. 5-16). On the day of the sacrifice called Cāturviṃśika, at the midday pressing, the priest called Brāhmaṇācchaṃsin is to recite this pragātha as the optional stotriya pragātha, as is stated in the sūtra (Āśv. 7-4). In the śastra mantras recited by the priest called Brāhmaṇācchaṃsin at the midday pressing of the rite called Viṣuvat, the sacrificial place of the seer Nodhā is to be praised by the Ṛk तं वो दस्ममृतीषहं (*taṃ vo dasmamṛtīṣahaṃ*), as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: तं वोः दस्ममृतीषहमभि प्र वः सुराधसं (*taṃ voḥ dasmamṛtīṣahamabhi pra vaḥ surādhasaṃ*) (Āśv. 8-6).
+
+Sūkta 88
+
+Maṇḍala 8, Anuvāka 9, Sūkta 88
+
+Aṣṭaka 6, Adhyāya 6, Varga 11
+
+Number of Ṛks in the sūkta: 6
+
+Seer: Nodhāḥ
+
+Deity: Indraḥ
+
+Metre: Prāgātham (ayujaḥ bṛhatyaḥ yujaḥ satobṛhatyaḥ)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं वो दस्ममृतीषहं वसोर्मंदानमंधसः ।  
+> अभि वत्सं न स्वसरेषु धेनव इंद्रं गीर्भिर्नवामहे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । वः । दस्मम् । ऋतिऽसहम् । वसोः । मंदानम् । अंधसः ।  
+> अभि । वत्सम् । न । स्वसरेषु । धेनवः । इंद्रम् । गीःऽभिः । नवामहे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोधा इंद्रं स्तौति । हे ऋविग्यजमानाः दस्मं दर्शनीयम् ऋतीषहम् । ऋतयो बाधकाः शत्रवः । तेषामभिभवितारम् । पुनः कीदृशम् । वसोः वासयितुर्दुःखस्य निवासयितुः । यद्वा । वसोः पात्रे निवसतः । तादृशस्य अंधसः सोमलक्षणस्यान्नस्य पानेन मंदानं मंदमानं मोदमानं वः यष्टृयष्टव्यत्वेन युष्मत्संबंधिनं तं तादृशम् इंद्रं गीर्भिः स्तुतिलक्षणाभिर्वाग्भिः अभि नवामहे ।‘नू स्तवने' 'नु शब्दे'। अभिष्टुमः। कुत्रेति। स्वसरेषु । अत्र यास्कः- ‘ स्वसराण्यहानि स्वयंसारीण्यपि वा स्वरादित्यो भवति स एनानि सारयति' (निरु. ५. ४ ) इति । सूर्यनेतृकेषु दिवसेषु वयमभिष्टुमः । तत्र दृष्टांतः । वत्सं न यथा धेनवः नवप्रसूतिका धेनवः स्वसरेषु । सुष्ठ्वस्यंते प्रेर्यंते गावोऽत्रेति स्वसराणि गोष्ठानि । तेषु वत्समभिलक्ष्य शब्दयंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Nodhas praises Indra. O priests and sacrificers, we hail Indra, who is दस्मं (*dasmaṃ*), beautiful to see, and ऋतीषहम् (*ṛtīṣaham*): ṛtis are the obstructing enemies, so he is their overcomer. Further, of what kind? He is the remover of the suffering that makes one dwell (वसोः (*vasoḥ*)); or else, he is the one dwelling (वसोः (*vasoḥ*)) in the vessel. Such is Indra, rejoicing (मंदानं (*maṃdānaṃ*)) through the drinking of the food (अंधसः (*aṃdhasaḥ*)) that consists of Soma, and he is yours (वः (*vaḥ*)) as the one to be worshipped by you the sacrificers. We hail (अभि नवामहे (*abhi navāmahe*)) him with words (गीर्भिः (*gīrbhiḥ*)), that is, with speech consisting of praise. Where? In the स्वसरेषु (*svasareṣu*). On this Yāska says: स्वसराण्यहानि स्वयंसारीण्यपि वा स्वरादित्यो भवति स एनानि सारयति (*svasarāṇyahāni svayaṃsārīṇyapi vā svarādityo bhavati sa enāni sārayati*) (Ni. 5. 4) **GLOSS**. That is, we hail him in the days that have the sun as their leader. The illustration is वत्सं न (*vatsaṃ na*): as newly calved cows (धेनवः (*dhenavaḥ*)) in the स्वसरेषु (*svasareṣu*), the cow-pens, where cows are well driven, make their sound with the calf in view, so it is here.
+
 ---
 
-**Progress note:** Done through printed p. 277. Vol25 pp.272-277: end of 86.4, 86.5, Sukta 87 Rk 1-2
+**Progress note:** Done through printed p. 283. Vol25 pp.278-283: 87.3-6, Sukta 88 Rk 1 bhashya
