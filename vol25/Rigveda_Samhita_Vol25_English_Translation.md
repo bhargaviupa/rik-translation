@@ -13132,6 +13132,252 @@ O son of strength, men, uttering their desires, abide happily in you ; none, Ind
 
 ##### ॥ पदपाठः ॥ (Pada-pāṭha)
 
+### Printed p. 338
+
+> सः । नः । वृषन् । सनिष्ठया । सम् । घोरया । द्रवित्न्वा ।
+> धिया । अविड्ढि । पुरम्ऽध्या ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् कामानां वर्षितरिंद्र सः पूर्वोक्तलक्षणस्त्वं सनिष्ठया। ‘षणु दाने'। धनादेर्दातृतमया घोरया सपत्नानां भयकारिण्या अत एव द्रवित्न्वा द्रावयित्र्या शत्रूणां पलायित्र्या। द्रवतेरित्नुच्प्रत्ययः । पुरंध्या बहूनां धारयित्र्या पोषयित्र्या धिया तादृशेन कर्मणा नः अस्मान् सम् अविड्ढि समंतात्पालय। अवतेर्लोटि ‘बहुलं छंदसि' इति शपो लुक् । बहुलवचनात्सिप इडागमः । अस्मान् धनदानादिना रक्षेत्यर्थः ॥ ॥ १७ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, showerer of desires, you of the stated character, protect us on every side with such an action: one that is most bountiful in giving wealth and the like; terrible, causing fear to rivals, and therefore causing enemies to run away, putting them to flight; and sustaining and nourishing many. The meaning is: protect us by giving wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—O Indra, who showers the desired objects
+- सः (*saḥ*)—you who have the qualities spoken of before
+- घोरया (*ghorayā*)—terrible to the enemies, and therefore
+- द्रवित्न्या (*dravitnyā*)—having the power to drive the enemies away
+- पुरंध्या (*puraṃdhyā*)—having the capacity to support and nourish many
+- धिया (*dhiyā*)—by your valiant action
+- नः (*naḥ*)—us
+- सं अविड्ढि (*saṃ aviḍḍhi*)—protect well
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, giver of what is desired, you who have the qualities spoken of before, protect us exceedingly by your valiant action, which is terrible to the enemies, has the power to put them to flight, and nourishes many.
+
+##### English translation
+Showrer (of blessings), protect us by your action, which is most bounteous yet awful, foe-terrifying yet many-cherishing.
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ नू॒नं श॑तक्रत॒विंद्र॑ द्यु॒म्नित॑मो॒ मदः॑ ।  
+> तेन॑ नू॒नं मदे॑ मदेः ॥ १६ ॥
+
+### Printed p. 339
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । नूनम् । शतक्रतो इति शतऽक्रतो । इंद्र । द्युम्निऽतमः । मदः ।  
+> तेन । नूनम् । मदे । मदेरिति मदेः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र सोमः स्तूयते । हे शतक्रतो शतविधप्रज्ञान हे इंद्र द्युम्नितमः यशस्वितमः यः मदः । माद्यंत्यनेनेति मदः सोमः । यः सोमः नूनं पुरा ते त्वदर्थमस्माभिरभिषुतोऽस्ति तेन अस्माभिः प्रदीयमानेन सोमेन नूनम् इदानीं मदे तत्पानेन मदे तव संजाते सत्यस्मानपि मदेः धनादिदानेन त्वं मादय । ‘मदी हर्षे' । अत्रांतर्णीतण्यर्थः । ‘बहुलम्' इति शप् ॥
+
+##### Gist of the bhāṣya
+
+Here Soma is praised. O Śatakratu, of a hundred kinds of wisdom, O Indra: the most glorious exhilaration, that is, the Soma by which one is exhilarated, which was pressed by us before for you; with that Soma which we now give, now that exhilaration has come upon you through drinking it, exhilarate us also with the giving of wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O you who have many kinds of knowledge
+- इंद्र (*iṃdra*)—O Indra
+- द्युम्नितमः (*dyumnitamaḥ*)—glorious
+- यः मदः (*yaḥ madaḥ*)—which Soma, which causes exhilaration
+- नूनं (*nūnaṃ*)—formerly, by us
+- ते (*te*)—was pressed for you
+- तेन (*tena*)—with such Soma juice
+- नूनं (*nūnaṃ*)—now
+- मदे (*made*)—since joy has come to you
+- मदेः (*madeḥ*)—gladden us also with the gift of wealth and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who have many kinds of knowledge, when you have been gladdened by the glorious and exhilarating Soma juice which was pressed for you by us before, gladden us also with the gift of wealth and the like.
+
+##### English translation
+Rejoice us, Indra, Satakratu, as you rejoice in that most glorious exhilaration of the Soma.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ चि॒त्रश्र॑वस्तमो॒ य इं॑द्र वृत्र॒हंत॑मः ।  
+> य ओ॑जो॒दात॑मो॒ मदः॑ ॥ १७ ॥
+
+### Printed p. 340
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । चित्रश्रवःऽतमः । यः । इंद्र । वृत्रहन्ऽतमः ।  
+> यः । ओजःऽदातमः । मदः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र चित्रश्रवस्तमः अतिशयेन नानाविधकीर्तिः यः मदः सोमः ते त्वदर्थमस्माभिरभिषुतः । यः सोमः वृत्रहंतमः अतिशयेन पापानां हंता । किंच यः सोमः ओजोदातमः अतिशयेन बलस्य दाता । तेनास्माभिर्दीयमानेन सोमेन त्वं माद्येरिति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the Soma that is exhilaration, of most varied fame, was pressed by us for you; the Soma that is the greatest slayer of sins; and further, the Soma that is the greatest giver of strength: with that Soma given by us, may you be exhilarated. The connection is with the preceding verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- चित्रश्रवस्तमः (*citraśravastamaḥ*)—of many kinds of fame
+- यः मदः (*yaḥ madaḥ*)—which Soma
+- ते (*te*)—was pressed by us with you in view
+- यः (*yaḥ*)—which Soma
+- वृत्रहंतमः (*vṛtrahaṃtamaḥ*)—removes sin
+- यः (*yaḥ*)—which Soma
+- ओजोदातमः (*ojodātamaḥ*)—gives strength; being gladdened by drinking such Soma, gladden us with gifts of wealth and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Soma juice of many kinds of fame was pressed by us for you, the Soma that removes sin and gives strength: being satisfied by drinking such Soma, satisfy us also with the gift of wealth.
+
+##### English translation
+That Soma of  yours,  Indra,  which  is most widely renowned, most destructive of your enemies and most renovating to your strength.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा हि यस्ते॑ अद्रिव॒स्त्वाद॑त्तः सत्य सोमपाः ।  
+> विश्वा॑सु दस्म कृ॒ष्टिषु॑ ॥ १८ ॥
+
+### Printed p. 341
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । यः । ते । अद्रिऽवः । त्वाऽदत्तः । सत्य । सोमऽपाः ।  
+> विश्वासु । दस्म । कृष्टिषु ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः । अद्रिर्वज्रः । तद्वन् हे सत्य यथार्थकर्मन् सोमपाः सोमस्य पातः दस्म दर्शनीय यद्वा शत्रूणामुपक्षपयितरिंद्र विश्वासु कृष्टिषु सर्वेषु सोमस्य दातृषु यजमानेषु त्वादत्तः त्वया दत्तः ते त्वदीयः यः रयिरस्ति तं विद्म हि । यष्टारो वयमपि जानीम एव । यद्वा । हे इंद्र सर्वेषु यष्टृषु मध्ये वयं ते त्वदीयमेव नान्यदीयमिति तं सोमं जानीम एव यः सोमस्त्वादत्तोऽस्माभिस्त्वदर्थं दीयते । अत्र त्वादेशश्छांदसः ॥
+> प्रथमे पर्यायेऽच्छावाकस्य ‘इंद्राय मद्वने सुतम्' इति स्तोत्रियः । सूत्रितं च -- इंद्राय मद्ने सुतमिंद्रमिद्गाथिनो बृहत्' (आश्व. श्रौ. ६. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+O bearer of the thunderbolt, the thunderbolt being the weapon he bears; O true one, of genuine deeds; drinker of Soma; O dasma, handsome to behold or the one who destroys the enemies, Indra: among all the sacrificers who give Soma, the wealth that is yours, given by you, we know indeed; we also who sacrifice know it. Or else: O Indra, among all sacrificers we know that Soma as yours alone and no one else's, the Soma which is given by us for you, as given by you.
+
+Use in the ritual: in the first round, for the Acchāvāka, the stotriya is इंद्राय मद्वने सुतम् (*iṃdrāya madvane sutam*). It is laid down in the sūtra इंद्राय मद्ने सुतमिंद्रमिद्गाथिनो बृहत् (*iṃdrāya madne sutamiṃdramidgāthino bṛhat*) (Āśv. Śrau. 6. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—bearer of the thunderbolt
+- सत्य (*satya*)—one who does only just deeds
+- सोमुपाः (*somupāḥ*)—drinker of the Soma juice
+- दस्म (*dasma*)—O Indra, who has an attractive form or who destroys the enemies
+- विश्वासु (*viśvāsu*)—among all
+- कृष्टिषु (*kṛṣṭiṣu*)—among the sacrificers who offer Soma
+- त्वादत्तः (*tvādattaḥ*)—given by you
+- ते (*te*)—and belonging to you
+- यः (*yaḥ*)—the wealth that there is, that
+- विद्म हि (*vidma hi*)—we know indeed
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, doer of just deeds, of attractive form, we know indeed that whatever property there is among all the sacrificers who offer Soma, given by you, is yours alone; that is, it is the wealth that you yourself have graciously given them.
+
+##### English translation
+Thunderer, smiter of enemies, truthful drinker of the Soma, we know (the  wealth) which is given by you to all your votaries.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य॒ मद्व॑ने सु॒तं परि॑ ष्टोभंतु नो॒ गिरः॑ ।  
+> अ॒र्कम॑र्चंतु का॒रवः॑ ॥ १९ ॥
+
+### Printed p. 342
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । मद्वने । सुतम् । परि । स्तोभंतु । नः । गिरः ।  
+> अर्कम् । अर्चंतु । कारवः ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मद्वने । माद्यतेः क्वनिप् । मदनशीलाय इंद्राय तदर्थं सुतम् अभिषुतं सोमं नः अस्मदीयाः गिरः स्तुतिलक्षणा वाचः परि ष्टोभंत । स्तोभतिः स्तुतिकर्मा। परितः सोमं स्तुवंतु । ततः कारवः स्तुतिकारिणः स्तोतारश्च अर्कं सर्वैरर्चनीयं सोमम् अर्चंतु पूजयंतु ॥
+
+##### Gist of the bhāṣya
+
+To Indra, who is given to exhilaration, the Soma pressed for him: may our words, our speeches in the form of praise, praise round about; the root means praising. May they praise the Soma on every side. Then may the praisers, those who make praise, worship the Soma, worthy of worship by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मद्वने (*madvane*)—who is exhilarated by drinking Soma
+- इंद्रायु (*iṃdrāyu*)—directed to Indra
+- सुतं (*sutaṃ*)—the Soma that is pressed
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words in the form of praise
+- परि स्तोभंतु (*pari stobhaṃtu*)—may they praise well
+- कारवः (*kāravaḥ*)—the praisers
+- अर्कं (*arkaṃ*)—the Soma that is worthy of worship by all
+- अर्चंतु (*arcaṃtu*)—may they worship
+
+##### भावार्थ (Bhāvārtha)
+
+May our words in the form of praise praise well the Soma that is pressed for Indra, who is satisfied by drinking Soma. May the people who sing praises worship the Soma, which is worthy of worship by all.
+
+##### English translation
+Let our voices praise on every side the (Soma) effused to the exhilarated Indra ; let the priests do honour to the (Soma) honoured of all.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first round, the priest called Acchāvāka is to recite the three Ṛks beginning इंद्राय मद्वने सुतं (*iṃdrāya madvane sutaṃ*) as the stotriya triplet; this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra इंद्राय मद्वने सुतमिंद्रमिद्गाथिनो बृहत् (*iṃdrāya madvane sutamiṃdramidgāthino bṛhat*) (Ā. 6-4).
+
+### Printed p. 343
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मि॒न्विश्वा॒ अधि॒ श्रियो॒ रणं॑ति स॒प्त सं॒सदः॑ ।  
+> इंद्रं॑ सु॒ते ह॑वामहे ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मिन् । विश्वाः । अधि । श्रियः । रणंति । सप्त । सम्ऽसदः ।  
+> इंद्रम् । सुते । हवामहे ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन् इंद्रे विश्वाः सर्वाः श्रियः कांतयः अधि अधिकं भवंति । अतिशयेन तेजस्वीत्यर्थः । किंच सप्त सप्तसंख्याकाः संसदः । सम्यक् यज्ञेषु कर्मकरणार्थं सीदंतीति संसदः होत्रकाः । यस्मिन् रणंति सोमप्रदानार्थं रमंते । यद्वा । यं शब्दयंति स्तुवंति । तं पूर्वोक्तलक्षणम् इंद्रं सुते सोमेऽभिषुते सति हवामहे वयं सोमपानायाह्वयामः ॥ ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+In which Indra all splendours are in excess; the meaning is that he is exceedingly brilliant. And further, the seven who sit together, that is, the Hotṛ priests who sit down properly in the sacrifices to perform the rites, delight in him for the offering of Soma; or else they sound him, they praise him. That Indra of the stated character we invoke, when the Soma has been pressed, for the drinking of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in which Indra
+- विश्वाः (*viśvāḥ*)—all
+- श्रियः (*śriyaḥ*)—splendours
+- अधि (*adhi*)—are in excess, and
+- सप्त (*sapta*)—seven in number
+- संसदः (*saṃsadaḥ*)—the priests, the Hotṛ and the rest, who take part in the sacrificial rite
+- यस्मिन् (*yasmin*)—whom Indra
+- रणंति (*raṇaṃti*)—they praise
+- इंद्रं (*iṃdraṃ*)—such an Indra
+- सुते (*sute*)—when the Soma has been pressed and made ready
+- हवामहे (*havāmahe*)—we pray to and call for the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+We pray to and call for the drinking of Soma, when the Soma juice has been pressed and made ready, that Indra in whom there are splendours in excess and whom the seven priests, the Hotṛ and the rest, who take part in the sacrificial rite, praise.
+
+##### English translation
+We invoke, now that the Soma is effused, that Indra in whom all graces are at their height, and in whom the seven associated priests rejoice.
+
 ---
 
-**Progress note:** Done through printed p. 337. Mandala 8 sukta 92 Rk 9 to Rk 15 samhita, pp. 332-337
+**Progress note:** Done through printed p. 343. Mandala 8 sukta 92 Rk 15 to Rk 20, pp. 338-343
