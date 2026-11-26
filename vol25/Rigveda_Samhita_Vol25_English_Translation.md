@@ -35201,6 +35201,282 @@ This red-coloured Soma mounts (आ रुहत् (*ā ruhat*)) to his place, t
 - सदसि (*sadasi*)—in the place, the world of heaven
 - सीदसि (*sīdasi*)—dwells
 
+### Printed p. 858
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, shining with a (russet) red colour, reaches its own place, the Droṇa vessel, and from there (by means of the oblation) goes to Indra. And that pressed juice goes to the heaven-world, known as the firm abode, and dwells there.
+
+##### English translation
+The twany-hued showerer (of benefits) when effused ascends to his place ; he goes to Indra : he dwells in the fixed abode (of heaven).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू नो॑ र॒यिं म॒हामिं॑दो॒ऽस्मभ्यं॑ सोम वि॒श्वतः॑ ।  
+> आ प॑वस्व सह॒स्रिण॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । नः । रयिम् । महाम् । इंदो इति । अस्मभ्यम् । सोम । विश्वतः ।  
+> आ । पवस्व । सहस्रिणम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अभिषुतस्त्वं हे इंदो नः अस्मभ्यं नु क्षिप्रं महां महांतं सहस्रिणम् असंख्यातं रयिं धनं विश्वतः आ पवस्व सर्वतः परिस्रव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who have been pressed, O Indu, quickly for us pour from all sides (विश्वतः (*viśvataḥ*)) great and countless, thousandfold wealth (रयिं (*rayiṃ*)); flow to us from every side.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O pressed Soma
+- इंदो (*iṃdo*)—O flowing Soma (you)
+- नः (*naḥ*)—to us
+- नु (*nu*)—quickly
+- महां (*mahāṃ*)—abundant
+- सहस्रिणं (*sahasriṇaṃ*)—immeasurable
+- रयिं (*rayiṃ*)—wealth
+- विश्वतः (*viśvataḥ*)—from all quarters
+- आ पवस्व (*ā pavasva*)—bring and bestow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, pressed and flowing, quickly bring and bestow on us abundant and immeasurable wealth from all quarters.
+
+##### English translation
+O Indu, O Soma, quickly pour upon us from all quarters vast and infinite riches.
+
+### Printed p. 859
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॑ सोम पवमान द्यु॒म्नानीं॑द॒वा भ॑र ।  
+> वि॒दाः स॑ह॒स्रिणी॒रिषः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । सोम । पवमान । द्युम्नानि । इंदो इति । आ । भर ।  
+> विदाः । सहस्रिणीः । इषः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पवमान पूयमान इंदो दीप्त त्वं विश्वा सर्वाणि बहुविधानि द्युम्नानि द्रविणानि आ भर आहर । विदाः लंभय च सहस्रिणीः सहस्रसंख्याकानि इषः अन्नानि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being purified, O Indu, radiant one, bring (आ भर (*ā bhara*)), that is, fetch, all manifold riches (द्युम्नानि (*dyumnāni*)), and cause us to obtain (विदाः (*vidāḥ*)) thousandfold foods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifier
+- इंदो (*iṃdo*)—O radiant
+- सोमु (*somu*)—O Soma
+- विश्वा (*viśvā*)—all, or manifold
+- द्युम्नानि (*dyumnāni*)—riches
+- आ भर (*ā bhara*)—bring to us
+- सहस्रिणीः (*sahasriṇīḥ*)—thousandfold
+- इषः (*iṣaḥ*)—foods
+- विदाः (*vidāḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, purifier and radiant, bring to us all, or manifold, kinds of wealth and thousandfold foods.
+
+##### English translation
+O purified Soma, O Indu, bring all sorts of wealth, bestow unlimited food.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ पुना॒न आ भ॑र र॒यिं स्तो॒त्रे सु॒वीर्य॑म् ।  
+> ज॒रि॒तुर्व॑र्धया॒ गिरः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । पुनानः । आ । भर । रयिम् । स्तोत्रे । सुऽवीर्यम् ।  
+> जरितुः । वर्धय । गिरः ॥ ५ ॥
+
+### Printed p. 860
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सः त्वं नः अस्मभ्यं स्तोत्रे स्तोतृभ्यः पुनानः पूयमानोऽभिषूयमाणः आ भर आहर । किम् । रयिं धनम् । कीदृशम् । सुवीर्यं सुपुत्रम् । किंच जरितुः स्तोतुः गिरः स्तुतीः वर्धय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you, being purified (pressed), bring (आ भर (*ā bhara*)) to us, the worshippers (स्तोत्रे (*stotre*)), wealth. What kind of wealth? Wealth with good male offspring (सुवीर्यं (*suvīryaṃ*)). Moreover, increase the praises (गिरः (*giraḥ*)) of the praiser (जरितुः (*jarituḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—(O Soma-deva) being pressed
+- सः (*saḥ*)—you
+- नः (*naḥ*)—to us
+- स्तोत्रे (*stotre*)—and to the man who praises you
+- सुवीर्यं (*suvīryaṃ*)—with excellent sons
+- रयिं (*rayiṃ*)—wealth
+- आ भर (*ā bhara*)—bring and bestow (and)
+- जरितुः (*jarituḥ*)—of the praiser who praises you
+- गिरः (*giraḥ*)—the words of praise
+- वर्धय (*vardhaya*)—increase
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are pressed, procure for us and for him who praises you wealth and good sons. Increase the words of praise of the praiser who praises you.
+
+##### English translation
+O Soma, being purified, bring us your worshippers wealth with male offspring, recompense the praises of him who glorifies you.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒न इं॑द॒वा भ॑र॒ सोम॑ द्वि॒बर्ह॑सं र॒यिम् ।  
+> वृष॑न्निंदो न उ॒क्थ्य॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । इंदो इति । आ । भर । सोम । द्विऽबर्हसम् । रयिम् ।  
+> वृषन् । इंदो इति । नः । उक्थ्यम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम पुनानः पूयमानस्त्वम् आ भर आहर । किम् । रयिं धनम् । कीदृशं धनम् । द्विबर्हसं द्वयोः द्युपृथिव्याख्ययोः स्थानयोः परिवृद्धम् । तदेवाह । हे इंदो’ वृषन् वर्षक नः अस्मभ्यम् उक्थ्यं स्तुत्यं धनमा भर ॥ ॥ ३० ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, being purified, bring (आ भर (*ā bhara*)), fetch, wealth. What kind of wealth? Dvibarhas (द्विबर्हसं (*dvibarhasaṃ*)), that is, grown great in the two places called heaven and earth. He says the same again: O Indu, O showerer (वृषन् (*vṛṣan*)), bring to us praiseworthy (उक्थ्यं (*ukthyaṃ*)) wealth.
+
+### Printed p. 861
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—radiant
+- सोमु (*somu*)—O Soma, you
+- पुनानः (*punānaḥ*)—having been pressed
+- द्विबर्हसं (*dvibarhasaṃ*)—excellent in heaven and earth
+- रयिं (*rayiṃ*)—wealth
+- आ भर (*ā bhara*)—bring to us
+- इंदो (*iṃdo*)—radiant
+- वृषन् (*vṛṣan*)—O Soma, bestower of desires
+- नः (*naḥ*)—to us
+- उक्थ्यं (*ukthyaṃ*)—bring praiseworthy wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Soma, after you have been pressed, bring us the excellent wealth that is in heaven and earth. O Soma, bestower of desires and radiant, bring us praiseworthy wealth and the like.
+
+##### English translation
+Indu, Soma, being purified, bring us wealth from both worlds ; Indu, Showerer (of benefits), (bring us) glorious (wealth).
+
+## Sūkta 41 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र ये गावः' इति षडृचं सप्तदशं सूक्तं काण्वस्य मेध्यातिथेरार्षं  गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतं- प्र ये गावो मेध्यातिथिः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र ये गावः (*pra ye gāvaḥ*) has six ṛks and is the seventeenth sūkta; its seer is Medhyātithi, the son of Kaṇva, its metre is gāyatrī, and its deity is Pavamāna Soma. And so the Anukramaṇī says: प्र ये गावो मेध्यातिथिः (*pra ye gāvo medhyātithiḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning प्र ये गावः (*pra ye gāvaḥ*) is the seventeenth sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is Medhyātithi Kāṇva; the deity is Pavamāna Soma; the metre is gāyatrī. What the Anukramaṇī says, प्र ये गावो मेध्यातिथिः (*pra ye gāvo medhyātithiḥ*), is the ritual use, which has been stated before.
+
+Sūkta 41. Maṇḍala 9, Anuvāka 2, Sūkta 41. Aṣṭaka 6, Adhyāya 8, Varga 31. Number of ṛks in the sūkta: 6. Ṛṣi: मेध्यातिथिः (*medhyātithiḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ये गावो॒ न भूर्ण॑यस्त्वे॒षा अ॒यासो॒ अक्र॑मुः ।  
+> घ्नंतः॑ कृ॒ष्णामप॒ त्वच॑म् ॥ १ ॥
+
+### Printed p. 862
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ये । गावः । न । भूर्णयः । त्वेषाः । अयासः । अक्रमुः ।  
+> घ्नंतः । कृष्णाम् । अप । त्वचम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये अभिषुताः सोमाः गावो न उदकानीव तानि यथा तूर्णमधः पतंति तद्वत् । एवं वोपमीयंते । यथा गावः स्वगोष्ठं प्रत्याशु गच्छंति तद्वत् । अथवा गावः स्तुतिवाचः । ता यथा स्तुत्यं प्रति क्षिप्रं प्राप्नुवंति तद्वत् । भूर्णयः क्षिप्राः त्वेषाः दीप्ताः अयासः अया गमनशीलाः कृष्णां त्वचम् । कृष्णा त्वग्रक्षाः । तम् अप घ्नंतः निघ्नंतः । त्वचिः संवरणकर्मा। ईदृग्भूताः सोमाः प्र अक्रमुः । तान् स्तुतेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The pressed Somas, like waters, as waters quickly fall downward; or they are compared thus: as cows quickly go to their own stall; or else, गावः (*gāvaḥ*) are the words of praise, and as these quickly reach the one praised. Quick (भूर्णयः (*bhūrṇayaḥ*)), radiant (त्वेषाः (*tveṣāḥ*)), of a moving nature (अयासः (*ayāsaḥ*)), striking down the black skin (कृष्णां त्वचम् (*kṛṣṇāṃ tvacam*)), which is explained as कृष्णा त्वग्रक्षाः (*kṛṣṇā tvagrakṣāḥ*) **NOTE**; त्वचिः (*tvaciḥ*) means covering. Such Somas have advanced (प्र अक्रमुः (*pra akramuḥ*)); praise them, this is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भूर्णयः (*bhūrṇayaḥ*)—flowing swiftly
+- त्वेषाः (*tveṣāḥ*)—radiant
+- अयासः (*ayāsaḥ*)—of a flowing nature
+- ये (*ye*)—which pressed Soma juices
+- गावो न (*gāvo na*)—like water rushing down to a low-lying place [or
+- गावो न (*gāvo na*)—like cows going quickly to their stall, or
+- गावो न (*gāvo na*)—like words of praise quickly approaching the gods]
+- कृष्णां (*kṛṣṇāṃ*)—black
+- त्वचं (*tvacaṃ*)—the black people having skin
+- घ्नंतः (*ghnaṃtaḥ*)—slaying
+- प्र अक्रमुः (*pra akramuḥ*)—which flow swiftly (praise such Soma juices)
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, these pressed Soma juices, of a swiftly flowing nature, flow forth rapidly, slaying the black people, as water rushes quickly down to a low-lying place [or as cows enter their stall quickly, or as words of praise quickly approach the deities addressed]. Praise such Soma juices.
+
+##### English translation
+(Praise the Soma-juices) with descend like streams of water, swift, brilliant, rapid, driving off the black skinned (Rakshasa).
+
+### Printed p. 863
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒वि॒तस्य॑ मनाम॒हेऽति॒ सेतुं॑ दुरा॒व्य॑म् ।  
+> सा॒ह्वांसो॒ दस्यु॑मव्र॒तम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुवितस्य । मनामहे । अति । सेतुम् । दुःऽआव्यम् ।  
+> सह्वांसः । दस्युम् । अव्रतम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवितस्य । शोभनं प्राप्तः सुवितः । शोभनस्य सोमस्य सेतुं रक्षोविषयं बंधनं दुराव्यं दुष्टमतिं च रक्षसां बंधनं तेषां हननबुद्धिं च सोमकर्तृकाः मनामहे स्तुमः । कथं स्तुम इति तदुच्यते । अव्रतम् अकर्माणं दस्युं शत्रुं साह्वांसः अभिभवंतः ॥
+
+##### Gist of the bhāṣya
+
+Suvita is one who has attained what is good; of the good Soma, the agency of Soma, we praise (मनामहे (*manāmahe*)) the bond (सेतुं (*setuṃ*)) directed against the rākṣasas, and the evil-minded (दुराव्यं (*durāvyaṃ*)) binding of the rākṣasas, and the intent to slay them. How do we praise? We, overcoming (साह्वांसः (*sāhvāṃsaḥ*)) the riteless (अव्रतं (*avrataṃ*)) dasyu, the enemy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अव्रतं (*avrataṃ*)—who does not perform sacrificial rites
+- दस्युं (*dasyuṃ*)—the black people called dasyus
+- साह्वांसः (*sāhvāṃsaḥ*)—we who are defeating
+- सुवितस्य (*suvitasya*)—of this excellent Soma juice
+- सेतुं (*setuṃ*)—relating to the rākṣasas
+- दुराव्यं (*durāvyaṃ*)—the power to restrain evil intent, or the power to slay enemies
+- मनामहे (*manāmahe*)—we praise
+
+##### भावार्थ (Bhāvārtha)
+
+We, who defeat the dasyus, who perform no sacrificial rites, praise the enemy-destroying power of this excellent Soma juice.
+
+##### English translation
+We praise the auspicious Soma's imprisonment (of the Rakshasas) and hostile (intent against them), while we triumph over the enemy who performs no rites.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शृ॒ण्वे वृ॒ष्टेरि॑व स्व॒नः पव॑मानस्य शु॒ष्मिणः॑ ।  
+> चरं॑ति वि॒द्युतो॑ दि॒वि ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 857. Vol 25 Sūkta 39 Ṛk 2-6, Sūkta 40 Ṛk 1-2 begin (pp. 852-857)
+**Progress note:** Done through printed p. 863. Vol 25 Sūkta 40 Ṛk 2-6, Sūkta 41 Ṛk 1-3 begin (pp. 858-863)
