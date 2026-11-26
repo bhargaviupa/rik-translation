@@ -11246,7 +11246,7 @@ It prays that Indra, who gave protection to Yati, Bhṛgu and the others, give p
 
 ### Printed p. 284
 
-Besides this, in many contexts the word Kaṇva is also used in the sense of a power possessed of darkness (A. Ve. 2-2-5). But here only the matter of Kaṇva and his lineage, the seers and maker of the eighth Maṇḍala of the Ṛk-Saṃhitā, is to be examined.
+Besides this, in many contexts the word Kaṇva is also used in the sense of a power possessed of darkness (Ath. Saṃ. 2-2-5). But here only the matter of Kaṇva and his lineage, the seers and maker of the eighth Maṇḍala of the Ṛk-Saṃhitā, is to be examined.
 
 Although the name of the seer Kaṇva is famous in the Purāṇas and the like, in the other Saṃhitās, Brāhmaṇas and so on this name is not so famous. Even in the Ṛk-Saṃhitā the word Kaṇva is often used in the ordinary sense of praisers.
 

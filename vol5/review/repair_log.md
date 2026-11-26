@@ -1536,3 +1536,4 @@
 - p. 437 (L8082): `[as printed: dvyacotastijaḥ]` → `[as printed: dvyacotastiṅaḥ]` (and the earlier `dyaucotiśrīḥ`… clause restored): the repair had put a Kannada misprint into the English; the earlier form is the sūtra.
 - p. 109 (L2075): `gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca` → `gatikārakopapadāt kṛt`: the longer form is not in the supplied text; the reference has the old form.
 - p. 123 (L2358): `(igantalakṣaṇa guṇa)` → `by sārvadhātukārdhadhātukayoḥ`: the label is not in the reference.
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: kn kannada 162; every change is a row of review/refs_applied.tsv.

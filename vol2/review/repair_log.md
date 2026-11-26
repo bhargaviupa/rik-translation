@@ -137,3 +137,4 @@
   - line 17381: end mark: `marúdbhir agna ā́ gahi ||8||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||8||*`
   - line 17440: end mark: `ītaye sṛjā́mi somyáṃ mádhu |* [accent ?]` → `tvā pū́rvapītaye sṛjā́mi somyáṃ mádhu |*`
   - line 17441: end mark: `marúdbhir agna ā́ gahi ||9||* [accent ?]` → `> *marúdbhir agna ā́ gahi ||9||*`
+- 2026-11-26: tools/rv/refs_apply.py: reference names made uniform by the one list (../../../tmp/claude-0/-home-user-rik-translation/c297b4c4-404a-5969-9329-baebf0e5ffee/scratchpad/refs_unify.tsv), numbers untouched: ; every change is a row of review/refs_applied.tsv.

@@ -17689,7 +17689,7 @@ Indra became infatuated with a demon-woman called Viliṣṭeṅgā. Then, joini
 
 येनानि चक्रे आसुरी इंद्रं देवेभ्यस्परि । तेनानि कुर्वे त्वामहं यथा तेऽसामि सुप्रिया ॥ (*yenāni cakre āsurī iṃdraṃ devebhyaspari | tenāni kurve tvāmahaṃ yathā te 'sāmi supriyā ‖*)
 
-(A. Ve. 7-38-2)
+(Ath. Saṃ. 7-38-2)
 
 "O Indra-deva, you must love me. In order to do so, I shall bring you under my control with the help of this herb." Thus it is said that, with the help of that herb, the woman drew Indra, who was among the gods, into her own group. In this way different passages give different accounts concerning Indra's wife.
 

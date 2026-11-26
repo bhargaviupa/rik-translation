@@ -3462,9 +3462,9 @@ The waters, the origin of the whole world, holding Hiraṇyagarbha within themse
 Before creation the waters alone covered the whole world. Wishing to increase in the form of progeny, they practised austerity, and from them a golden egg arose: thus the Śatapatha Brāhmaṇa states the meaning of the ṛk 10-121-7 of the Ṛgveda-saṃhitā. This same principle
 
 आपो अग्रे विश्वमावन् गर्भं दधाना अमृता ऋतज्ञाः । (*āpo agre viśvamāvan garbhaṃ dadhānā amṛtā ṛtajñāḥ |*)
-यासु देवीष्वधि देव आसीत् .... .... .... .... । (*yāsu devīṣvadhi deva āsīt .... .... .... .... |*) (ಅ. ವೇ. 4-2-6) *[the line ends in printed dots]*
+यासु देवीष्वधि देव आसीत् .... .... .... .... । (*yāsu devīṣvadhi deva āsīt .... .... .... .... |*) (ಅಥ. ಸಂ. 4-2-6) *[the line ends in printed dots]*
 आपो वत्सं जनयंतीर्गर्भमग्रे समैरयन् । (*āpo vatsaṃ janayaṃtīrgarbhamagre samairayan |*)
-तस्योत जायमानस्य उल्ब आसीद्धिरण्ययः । (*tasyota jāyamānasya ulba āsīddhiraṇyayaḥ |*) (ಅ. ವೇ. 4-2-8) *[the reference line is printed twice; the second is kept in kn.md as an italic note; the abbreviation "ಅ. ವೇ." is as printed, presumably the Atharvaveda, as the Kannada says]*
+तस्योत जायमानस्य उल्ब आसीद्धिरण्ययः । (*tasyota jāyamānasya ulba āsīddhiraṇyayaḥ |*) (ಅಥ. ಸಂ. 4-2-8) *[the reference line is printed twice; the second is kept in kn.md as an italic note; the abbreviation "ಅ. ವೇ." is as printed, presumably the Atharvaveda, as the Kannada says]*
 
 and so on is set forth also in the Atharvaveda. In the same way,
 
