@@ -12,3 +12,4 @@
 | through p. 114 (three windows in one agent: pp. 97-114) | sonnet | 11 | 135294 | 2.6 |
 | through p. 132 (three windows in one agent: pp. 115-132) | sonnet | 12 | 139972 | 2.8 |
 | through p. 150 (three windows in one agent: pp. 133-150) | sonnet | 15 | 147975 | 3.3 |
+| through p. 168 (three windows in one agent: pp. 151-168) | sonnet | 15 | 152083 | 3.7 |
