@@ -25647,6 +25647,304 @@ Pour down rain from heaven, and abundance upon the earth ; uphold our strength, 
 > नृऽचक्षसम् । त्वा । वयम् । इंद्रऽपीतम् । स्वःऽविदम् ।  
 > भक्षीमहि । प्रऽजाम् । इषम् ॥ ९ ॥
 
+### Printed p. 647
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नृचक्षसं नृणां द्रष्टारं स्वर्विदं सर्वज्ञम् इंद्रपीतम् इंद्रेण पीतं त्वा त्वां पिबंतः वयं काश्यपासिताः काश्यपदेवला वा प्रजां पुत्रादिकाम् इषम् अन्नं च भक्षीमहि भजेमहि ॥ ॥ ३१ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who behold men (नृचक्षसं (*nṛcakṣasaṃ*)), who are all-knowing (स्वर्विदं (*svarvidaṃ*)) and have been drunk by Indra (इंद्रपीतम् (*iṃdrapītam*)): drinking you, may we, the Kāśyapa Asitas or the Kāśyapa Devalas, enjoy (भक्षीमहि (*bhakṣīmahi*)), that is, partake of, progeny (प्रजां (*prajāṃ*)), meaning sons and the like, and food (इषम् (*iṣam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृचक्षसं (*nṛcakṣasaṃ*)—you who watch the doings of men
+- स्वर्विदं (*svarvidaṃ*)—all-knowing
+- इंद्रपीतं (*iṃdrapītaṃ*)—and drunk by Indra
+- त्वा (*tvā*)—you
+- वयं (*vayaṃ*)—we, having drunk
+- प्रजां (*prajāṃ*)—progeny, sons and the like
+- इषं (*iṣaṃ*)—and food
+- भक्षीमहि (*bhakṣīmahi*)—may we enjoy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who watch all the doings of men, who are all-knowing and have been drunk by Indra: may we, having drunk you, enjoy progeny, sons and the like, and food.
+
+##### English translation
+(Adoring' vou, the contemplator of men, the beverage of Indra and the knower of all things, may we be blessed with progeny and food.
+
+The ninth sūkta.
+
+## Sūkta 9 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘परि प्रिया' इति नवर्चं नवमं सूक्तम् । ऋष्याद्याः पूर्ववत् । परि प्रिया' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परि प्रिया (*pari priyā*), of nine Ṛks, is the ninth sūkta. The seer and the rest are as before. The Anukramaṇikā says: परि प्रिया (*pari priyā*). The use has been stated.
+
+This sūkta beginning परिप्रिया (*paripriyā*) is the ninth sūkta in the first anuvāka. There are nine Ṛks in it. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said: परि प्रिया (*pari priyā*). The use has been stated before.
+
+Sūkta 9 of Maṇḍala 9; Anuvāka 1.
+
+Aṣṭaka 6; Adhyāya 7; Vargas 32, 33.
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: असितः काश्यपो देवलो वा (*asitaḥ kāśyapo devalo vā*).
+
+Deity: देवतामानः सोमः (*devatāmānaḥ somaḥ*) **NOTE**.
+
+Metre: गायत्री (*gāyatrī*).
+
+### Printed p. 648
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ प्रि॒या दि॒वः क॒विर्वयां॑सि न॒प्त्यो॑र्हि॒तः ।  
+> सु॒वा॒नो या॑ति क॒विक्र॑तुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । प्रिया । दिवः । कविः । वयांसि । नप्त्योः । हितः ।  
+> सुवानः । याति । कविऽक्रतुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः मेधावी कविक्रतुः क्रांतप्रज्ञः क्रांतकर्मा वा सोमः नप्त्योः अधिषवणफलकयोः हितः निहितः सुवानः अभिषूयमाणः दिवः द्युलोकस्य परि प्रिया अतिप्रियाणि वयांसि ग्राव्णः । तथा च मंत्रवर्णः -- वयांसि श्येना अतिथयः पर्वतानां ककुभः' इति । याति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Soma, the wise (कविः (*kaviḥ*)), whose understanding or action is far-reaching (कविक्रतुः (*kavikratuḥ*)), placed (हितः (*hitaḥ*)) between the two pressing-boards (नप्त्योः (*naptyoḥ*)) and pressed (सुवानः (*suvānaḥ*)), goes (याति (*yāti*)) to the exceedingly dear (प्रिया (*priyā*)) vayāṃsi of heaven (दिवः (*divaḥ*)), that is, to the pressing-stones (ग्राव्णः (*grāvṇaḥ*)). So says the Mantra: वयांसि श्येना अतिथयः पर्वतानां ककुभः (*vayāṃsi śyenā atithayaḥ parvatānāṃ kakubhaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the wise
+- कविक्रतुः (*kavikratuḥ*)—and of wise action, the Soma
+- नप्त्योः (*naptyoḥ*)—between the pressing-boards
+- हितः (*hitaḥ*)—being placed
+- सुवानः (*suvānaḥ*)—when pressed
+- दिवः (*divaḥ*)—to the world of heaven
+- परि प्रिया (*pari priyā*)—very dear
+- वयांसि (*vayāṃsi*)—towards the pressing-stones
+- याति (*yāti*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is wise and of wise action, being placed between the pressing-boards and pressed, goes towards the pressing-stones, which are very dear to the world of heaven.
+
+##### English translation
+The seer (Soma) having wise designs, when placed between the two boards and effused, proceeds to the stones which are most dear to heaven
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रप्र॒ क्षया॑य॒ पन्य॑से॒ जना॑य॒ जुष्टो॑ अ॒द्रुहे॑ ।  
+> वी॒त्य॑र्ष॒ चनि॑ष्ठया ॥ २ ॥
+
+### Printed p. 649
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽप्र । क्षयाय । पन्यसे । जनाय । जुष्टः । अद्रुहे ।  
+> वीती । अर्ष । चनिष्ठया ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम प्रप्र अत्यंतं क्षयाय तव निवासभूताय अद्रुहे अद्रोग्ध्रे च पन्यसे स्तोत्रे जनाय मनुष्याय वीती वीत्यै भक्षणाय जुष्टः पर्याप्तस्त्वं चनिष्ठया अन्नवत्तमया धारया अर्ष यागं प्रति गच्छ ।
+
+##### Gist of the bhāṣya
+
+O Soma, to the man (जनाय (*janāya*)) who is your dwelling (क्षयाय (*kṣayāya*)), who is without malice (अद्रुहे (*adruhe*)) and a praiser (पन्यसे (*panyase*)), you, who are well pleased for his drinking (वीती (*vītī*), जुष्टः (*juṣṭaḥ*)), go (अर्ष (*arṣa*)) towards the sacrifice with a stream most rich in food (चनिष्ठया (*caniṣṭhayā*)), exceedingly (प्रप्र (*prapra*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रप्र (*prapra*)—exceedingly
+- क्षयाय (*kṣayāya*)—to the one who is your dwelling
+- अद्रुहे (*adruhe*)—who is free from malice
+- पस्यसे (*pasyase*)—and a praiser **NOTE**
+- जनाय (*janāya*)—to the sacrificer
+- वीती (*vītī*)—for drinking
+- जुष्टः (*juṣṭaḥ*)—you who are satisfied
+- चनिष्ठया (*caniṣṭhayā*)—with a stream rich in food
+- अर्ष (*arṣa*)—spread towards the place of sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, to the sacrificer who is exceedingly your dwelling and free from malice, you, who are satisfied for his drinking, spread towards the place of sacrifice with a stream rich in food.
+
+##### English translation
+Go forth in a most abundant stream, ample for his sustenance, to the guileless man. your owner who praises you.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स सू॒नुर्मा॒तरा॒ शुचि॑र्जा॒तो जा॒ते अ॑रोचयत् ।  
+> म॒हान्म॒ही ऋ॑ता॒वृधा॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सूनुः । मातरा । शुचिः । जातः । जाते इति । अरोचयत् ।  
+> महान् । मही इति । ऋतऽवृधा ॥ ३ ॥
+
+### Printed p. 650
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जातः उत्पन्नः शुचिः विशुद्धः महान् हविरुत्तमः सः सोमाख्यः सूनुः पुत्रः मही महत्यौ ऋतावृधा यज्ञस्य वर्धयित्र्यौ जाते विश्वस्य जनयित्र्यौ  मातरा आत्मनो मातरौ द्यावापृथिव्यौ अरोचयत् रोचयति दीपयति ॥
+
+##### Gist of the bhāṣya
+
+That son called Soma (सूनुः (*sūnuḥ*)), born (जातः (*jātaḥ*)), pure (शुचिः (*śuciḥ*)), great (महान् (*mahān*)), the best of oblations, makes shine, that is, illumines (अरोचयत् (*arocayat*)), his two mothers (मातरा (*mātarā*)), Heaven and Earth, who are great (मही (*mahī*)), who increase the sacrifice (ऋतावृधा (*ṛtāvṛdhā*)) and who are the begetters (जाते (*jāte*)) of the universe.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातः (*jātaḥ*)—born for the sacrifice
+- शुचिः (*śuciḥ*)—pure
+- महान् (*mahān*)—of great qualities
+- सः (*saḥ*)—the well-known, called Soma
+- सूनुः (*sūnuḥ*)—the son
+- मही (*mahī*)—who are of great nature
+- ऋतावृधा (*ṛtāvṛdhā*)—who increase the sacrifice
+- जाते (*jāte*)—who are the producers of the universe
+- मातरा (*mātarā*)—his own mothers, Heaven and Earth
+- अरोचयत् (*arocayat*)—makes shine
+
+##### भावार्थ (Bhāvārtha)
+
+The son, called Soma, born for the sacrifice, pure and of great qualities, makes Heaven and Earth, his mothers, who are of great nature, who increase the sacrifice and who are the producers of the universe, shine.
+
+##### English translation
+That mighly and pure son, when born, illumines his mighty parents (heaven and earth), the progenitors (of all things), the augmenters of the sacrifice.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स स॒प्त धी॒तिभि॑र्हि॒तो न॒द्यो॑ अजिन्वद॒द्रुहः॑ ।  
+> या एक॒मक्षि॑ वावृ॒धुः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । सप्त । धीतिऽभिः । हितः । नद्यः । अजिन्वत् । अद्रुहः ।  
+> याः । एकम् । अक्षि । ववृधुः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> याः नद्यः यम् एकं मुख्यं सोमम् अक्षि अक्षीणं ववृधुः वर्धयंति सः सोमः धीतिभिः अंगुलिभिः । ‘ रशना धीतयः' इत्यंगुलिनामसु पाठात् । हितः निहितः सन् अद्रुहः द्रोहवर्जिताः सप्त सप्तसंख्याकाः नद्यः नदीः अजिन्वत् प्रीणयति ॥
+
+##### Gist of the bhāṣya
+
+The rivers (नद्यः (*nadyaḥ*)) which magnify (ववृधुः (*vavṛdhuḥ*)) the one chief Soma (एकं (*ekaṃ*)), unwasting (अक्षि (*akṣi*)): that Soma, placed (हितः (*hitaḥ*)) between the fingers (धीतिभिः (*dhītibhiḥ*)), for in the list of finger-names the reading रशना धीतयः (*raśanā dhītayaḥ*) stands, gladdens (अजिन्वत् (*ajinvat*)) the seven (सप्त (*sapta*)) rivers, which are free from malice (अद्रुहः (*adruhaḥ*)).
+
+### Printed p. 651
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- योः (*yoḥ*)—which seven rivers
+- यं (*yaṃ*)—which
+- एकं (*ekaṃ*)—chief Soma
+- अक्षि (*akṣi*)—so as not to decay
+- ववृधुः (*vavṛdhuḥ*)—make to grow
+- सः (*saḥ*)—that same Soma
+- धीतिभिः (*dhītibhiḥ*)—between the fingers
+- हितः (*hitaḥ*)—being placed
+- अद्रुहः (*adruhaḥ*)—free from malice
+- सप्त नद्यः (*sapta nadyaḥ*)—those same seven rivers
+- अजिन्वत् (*ajinvat*)—gladdens
+
+##### भावार्थ (Bhāvārtha)
+
+The seven rivers which make the chief Soma grow so that he does not decay: that same Soma, placed between the fingers and free from malice, gladdens those same seven rivers.
+
+##### English translation
+Effused by the fingers, ( Soma ) gladdens the seven guileless rivers, who have magnified him one and undecaying.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता अ॒भि संत॒मस्तृ॑तं म॒हे युवा॑न॒मा द॑धुः ।  
+> इंदु॑मिंद्र॒ तव॑ व्र॒ते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ताः । अभि । संतम् । अस्तृतम् । महे । युवानम् । आ । दधुः ।  
+> इंदुम् । इंद्र । तव । व्रते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव त्वदीये व्रते कर्मणि ताः अंगुल्यः । पूर्वत्र धीतिभिः इत्यंगुलीनामुपात्तत्वात् तच्छब्देन परामर्शः । संतं विद्यमानम् अस्तृतम् अहिसितं युवानं नित्यतरुणम् इंदुं सोमं महे महतेऽभिषवादिलक्षणाय कर्मणे अभि आ दधुः ॥ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in your rite (व्रते (*vrate*)) those (ताः (*tāḥ*)), the fingers (the word refers back to धीतिभिः (*dhītibhiḥ*), which was taken as a name of the fingers), set (अभि आ दधुः (*abhi ā dadhuḥ*)) Indu, Soma, who is existing (संतं (*saṃtaṃ*)), unhurt (अस्तृतं (*astṛtaṃ*)) and ever young (युवानं (*yuvānaṃ*)), for the great (महे (*mahe*)) rite of pressing and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- तव (*tava*)—meant for you
+- व्रते (*vrate*)—in the rite
+- ताः (*tāḥ*)—the fingers
+- संतं (*saṃtaṃ*)—the one that is eternal
+- अस्तृतं (*astṛtaṃ*)—that is not subject to anyone's violence
+- युवानं (*yuvānaṃ*)—and ever young
+- इंदुं (*iṃduṃ*)—Soma
+- महे (*mahe*)—for the sake of your great rite
+- अभि आ दधुः (*abhi ā dadhuḥ*)—produce
+
+### Printed p. 652
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in the rite meant for you the ten fingers produce Soma, who is eternal, not subject to anyone's violence and ever young, for the sake of your great rite.
+
+##### English translation
+Indra, at your worship, they (the fingers) have provided the present indestructible, and ever-youthful Indu for your solemn service.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि वह्नि॒रम॑र्त्यः स॒प्त प॑श्यति॒ वाव॑हिः ।  
+> क्रिवि॑र्दे॒वीर॑तर्पयत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । वह्निः । अमर्त्यः । सप्त । पश्यति । वावहिः ।  
+> क्रिविः । देवीः । अतर्पयत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः वह्निः यज्ञस्य धुरो वोढा अमर्त्यः मरणरहितः वावहिः देवानां तृप्तेरत्यंतं वोढा च सोमः सप्त नदीः पश्यति सोऽयं क्रिविः कूपरूपेण पूर्णोऽवस्थितः सन् देवीः नदी: अतर्पयत् तर्पयति ॥
+
+##### Gist of the bhāṣya
+
+The Soma who is the bearer (वह्निः (*vahniḥ*)) of the burden of the sacrifice, deathless (अमर्त्यः (*amartyaḥ*)) and the great bearer (वावहिः (*vāvahiḥ*)) of the satisfaction of the gods, beholds (पश्यति (*paśyati*)) the seven rivers. This same Soma, the Krivi, standing full in the form of a well, satisfies (अतर्पयत् (*atarpayat*)) the divine rivers (देवीः (*devīḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वह्निः (*vahniḥ*)—the bearer of the burden of the sacrifice
+- अमर्त्यः (*amartyaḥ*)—free from mortality
+- वावहिः (*vāvahiḥ*)—and the carrier of satisfaction to the gods, the Soma
+- सप्त (*sapta*)—the seven rivers
+- अभि पश्यति (*abhi paśyati*)—beholds fully
+- क्रिविः (*kriviḥ*)—that same Soma, who stands full in the form of a well
+- देवीः (*devīḥ*)—the rivers, which are divine in nature
+- अतर्पयत् (*atarpayat*)—satisfies
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who bears the burden of the sacrifice, is free from mortality and carries satisfaction to the gods, beholds the seven rivers fully. That same Soma, who stands full in the form of a well (filled in the jar), satisfies the rivers, which are divine in nature.
+
 ---
 
-**Progress note:** Done through printed p. 646. Mandala 9 sukta 8 Rks 2-9 (pp. 641-646)
+**Progress note:** Done through printed p. 652. Mandala 9 sukta 8 Rk 9, sukta 9 Rks 1-6 (pp. 647-652)
