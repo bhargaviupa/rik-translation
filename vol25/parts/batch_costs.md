@@ -17,3 +17,4 @@
 | through p. 198 (three windows in one agent: pp. 181-198, w0181 w0187 w0193) | sonnet | 14 | 144290 | 3.6 |
 | through p. 216 (three windows in one agent: pp. 199-216) | sonnet | 18 | 156955 | 4.7 |
 | through p. 235 (three windows in one agent: pp. 218-235) | sonnet | 20 | 178263 | 4.9 |
+| through p. 253 (three windows in one agent: pp. 236-253; one logged label repair at p. 251) | sonnet | 19 | 171327 | 5.0 |
