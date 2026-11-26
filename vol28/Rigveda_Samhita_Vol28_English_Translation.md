@@ -12552,6 +12552,293 @@ Send, Indra, the active ox, who may bring the cart (leaden with) the Ushinarani 
 
 The sūkta beginning *ā janam* has twelve ṛks and is the eighteenth. The seers are Bandhu and others of the Gaupāyana line. Of the sixth, Agastya's sister is the mother-seer **NOTE**. The first five are in Gāyatrī; the eighth and ninth… (the text goes on).
 
+### Printed p. 386
+
+> पंक्ति शिष्टा अनुष्टुभः । आदितश्चतसृणामसमातिनान्नो राज्यः स्सूयमानत्वात् स
+> एव देवता । पंचम्या इंद्रः । षष्ठ्या अस्यसमातिः । ततः पंचानां सुबंधोर्जिविताह्वानरूपोऽर्थो देवता । अयं मे हस्त इत्यस्या लब्धसंज्ञस्य सुबंधोः
+> स्पर्शनहेतुभूतो देवता । तथा चानुक्रांतं । आ जनमिति द्वादशर्चमानुष्टुभं
+> चतसृभिरसमातिमस्तुवन्पंचम्येंद्रं षष्ठ्यागस्त्यस्य स्वसा मातैषां राजानमस्तौत्पराभिः सुबंधोर्जिवमाह्वयंस्तमंत्यया लब्धसंज्ञमस्वशन् पंचम्याद्या
+> गायत्रोऽष्टम्याद्ये पंक्ति इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa continues the introduction. The first four Ṛks are in the pañkti-less (Anuṣṭubh) arrangement as he states it: the remaining Ṛks are Anuṣṭubh. The deity of the first four is King असमाति (*asamāti*) himself, because he is the one praised. The fifth has Indra, and the sixth has Asamāti. For the next five (7–11) the deity is the subject matter, the calling back to life of Subandhu. For the twelfth, अयं मे हस्त (*ayaṃ me hasta*), the deity is the hand that touched Subandhu when he regained consciousness. He then cites the Anukramaṇī. It says that the sūkta has twelve Ṛks in Anuṣṭubh; that four praise Asamāti; that the fifth is to Indra; that in the sixth Agastya's sister-in-law, the mother of these (seers), praises the king; that with the remaining Ṛks they called Subandhu's life back; and that with the last one he regained consciousness and the hand touched him. The first five are Gāyatrī and the eighth and the next are Paṅkti.
+**NOTE**
+
+##### Anuvāda
+
+This sūkta beginning आ जनं (*ā janaṃ*) is the eighteenth sūkta in the fourth anuvāka. It has twelve Ṛks. The seers of this sūkta are Bandhu and the others, sons of Gopāyana. For the sixth Ṛk of the sūkta the seer is a woman, the daughter-in-law of the sage Agastya and the mother of these Bandhu and the others. The first five Ṛks of the sūkta are in the Gāyatrī metre; the eighth and ninth Ṛks are in the Paṅkti metre; the remaining Ṛks are in the Anuṣṭubh metre. Because in the first four Ṛks of this sūkta a king named Asamāti is praised, the deity of these four Ṛks is this Asamāti himself; for the fifth Ṛk the deity is Indra; for the sixth Ṛk the deity is Asamāti. In the five Ṛks that follow (Ṛks 7–11) the calling back to life of Subandhu is recited, so that subject is the deity. For the twelfth Ṛk, अयं मे हस्तः (*ayaṃ me hastaḥ*), the deity is the matter of his touching Subandhu after regaining consciousness. In the Anukramaṇī it is said: आ जनमिति द्वादशर्चमानुष्टुभं चतसृभिरसमातिमस्तुवन्पंचम्येंद्रं षष्ठ्यागस्तस्य स्वसा मातैषां राजानमसौत्पराभिः सुबंधोर्जिवमाह्वयंस्तमंत्यया लब्धसंज्ञमस्पृशन् पंचाद्या गायत्रोष्टम्याद्ये पंक्ति (*ā janamiti dvādaśarcamānuṣṭubhaṃ catasṛbhirasamātimastuvanpaṃcamyeṃdraṃ ṣaṣṭhyāgastasya svasā mātaiṣāṃ rājānamasautparābhiḥ subaṃdhorjivamāhvayaṃstamaṃtyayā labdhasaṃjñamaspṛśan paṃcādyā gāyatroṣṭamyādye paṃkti*).
+
+Sūkta 60
+Maṇḍala 10; Anuvāka 4; Sūkta 60.
+Aṣṭaka 8; Adhyāya 1; Varga 24, 25.
+Number of Ṛks in the sūkta: 12.
+Ṛṣi: Bandhu, Śrutabandhu, Viprabandhu, the Gaupāyanas; 6: Agastya's sister-in-law, mother of these.
+Devatā: 1–4, 6: King Asamāti; 5: Indra; 7–11: the calling back to life of Subandhu; 12: the hand.
+Chandas: 1–5: Gāyatrī; 6, 7, 10–12: Anuṣṭubh; 8, 9: Paṅkti.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ जनं॑ त्वे॒षसं॑दृशं॒ माही॑नाना॒मुप॑स्तुतं ।
+
+### Printed p. 387
+
+> अगन्मभिभ्रतो नमः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । जनं । त्वेषसंदृशं । माहीनानां । उपस्तुतं ।  
+> अगन्म । भिभ्रतः । नमः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमादिभिस्तिसृभी राजानं स्तुवंति । वयं बंध्वादयो जनं जनपदमसुनीतिस्वभूतवागन्म । अभिगताः ॥ गमर्लुजि मंत्रे घसेति चेर्लुक् । मोश्चेति
+> मकारस्य नकारः ॥ कीदृशं जनं । त्वेषसंदृशं दीप्तदर्शनं माहीनानां महतामुपस्तुतमुपगतस्तुतिं ॥ तादौ चेति गतेः प्रकृतिस्वरः ॥ कीदृशा वयं । नमो
+> नमस्कारं बिभ्रतो धारयंतः । कुर्वंत इत्यर्थः । यद्वा । जनमसमातिमित्यर्थः ।
+> शिष्टं समानं । नमो बिभ्रत इति राजकृते नमस्कारं धारयंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk and the next two they praise the king. We, Bandhu and the others, have come to the people, the realm, of Asamāti, who is like our own protector. What kind of people? Of splendid appearance, of shining look; honoured by the mighty, one whose praise has been sung. What kind are we? Bearing, holding, that is, performing homage. Alternatively, जनं (*janaṃ*) means Asamāti. The rest is the same; "bearing homage" means offering homage for the king's sake.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वयं (*vayaṃ*)—we
+- नमः (*namaḥ*)—homage
+- बिभ्रतः (*bibhrataḥ*)—offering
+- त्वेषसंदृशं (*tveṣasaṃdṛśaṃ*)—him who has a shining form
+- माहीनानां (*māhīnānāṃ*)—by the great
+- उपस्तुतं (*upastutaṃ*)—praised
+- जनं (*janaṃ*)—to the king named Asamāti
+- आ अगन्म (*ā aganma*)—we have come
+
+##### भावार्थ (Bhāvārtha)
+
+Offering the homage fit for a king, we have come to the king named Asamāti, who has a shining form and is praised by the great.
+
+##### English translation
+We have come to the person of splendid appearance, the honoured of the mighty, bringing him reverential homage.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस॑मातिं नि॒तोष॑नं त्वे॒षं नि॑य॒यिनं॒ रथं॑ ।  
+> भ॒जेर॑थस्य॒ सत्प॑तिं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असमातिं । नितोशनं । त्वेषं । निययिनं । रथं ।
+
+### Printed p. 388
+
+> भजेऽरथस्य । सत्पपतिं ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> असमातिं राजानं नितोशनं शत्रूणां हंतारं । नितोशतिर्वधकर्मा। त्वेषं
+> दीप्तं । निययिनं रथमित्युपमाप्रधानो निर्देशः । रथवत्सर्वाभिमतप्राप्तिसाधनं
+> भजेरथस्यॆतन्नामकस्य राज्यो वंशे जातं । यद्वा । एतन्नामा कश्चिदस्य शत्रुः । तस्य
+> निययिनं ॥ हलदंतात् । पा. ६-३-९ । इति सप्तम्या अलुक् ॥ सत्पतिं सतां पालकं ॥
+
+##### Gist of the bhāṣya
+
+Asamāti the king is the slayer of enemies; नितोशति (*nitośati*) is a root of killing. त्वेषं (*tveṣaṃ*) means radiant. "निययिनं रथं (*niyayinaṃ rathaṃ*)" is a statement in which the simile is primary: like a chariot, a means of obtaining everything desired. भजेरथस्य (*bhajerathasya*): born in the line of the king of that name. Or else some enemy of his bears this name, and Asamāti is his निययिनं (*niyayinaṃ*). सत्पतिं (*satpatiṃ*) is the protector of the good.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नितोशनं (*nitośanaṃ*)—destroyer of enemies
+- त्वेषं (*tveṣaṃ*)—radiant
+- निययिनं (*niyayinaṃ*)—moving excellently
+- रथं (*rathaṃ*)—one who provides what is desired like a chariot
+- भजेरथस्य (*bhajerathasya*)—one born in the line of Bhajeratha; or भजेरथस्य निययिनं (*bhajerathasya niyayinaṃ*)—the destroyer of the enemy named Bhajeratha
+- सत्पतिं (*satpatiṃ*)—protector of the good
+- असमातिं (*asamātiṃ*)—to Asamāti (we have come)
+
+##### भावार्थ (Bhāvārtha)
+
+We have come to Asamāti, the destroyer of enemies, radiant, who provides what is desired like a well-moving chariot, born in the line of Bhajeratha, the protector of the good.
+
+##### English translation
+To Asamati, the destroyer (of foes), radiant, a quick-moving chariot (for the bringing of benefits), the descendant) of Bhajeratha, the protector of the good.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो जना॑न्महि॒षा इ॑वातित॒स्थौ पवी॑रवान् ।  
+> उ॒ताप॑वीरवान्यु॒धा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । जनान् । महिषान् इव । अतितस्थौ । पवीरवान् ।  
+> उत । अपवीरवान् । युधा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽसमातिर्जनान् स्वविरोधिभूतानतितस्थौ अतिक्रम्य तिष्ठति । पराभावयतीत्यर्थः । क इव । महिषान् सिंह इव । कीदृशः सन् । पवीरवान् । पवीर पविः। खड्ग-
+
+##### Gist of the bhāṣya
+
+The Asamāti who stands over, overcomes, the people who are his opponents; that is, he defeats them. Like what? Like a lion over buffaloes. In what state? पवीरवान् (*pavīravān*): पवीर (*pavīra*) is पविः (*paviḥ*), a sword; so, possessing a sword.
+
+### Printed p. 389
+
+> वान् । उतापि चापवीरवानपगतखड्गः सन् । शस्त्रसाहाय्यमपि कदाचिन्नापेक्षत
+> इत्यर्थः । किं कुर्वन् । युधा योधनेन । युद्धैत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+*utāpi cāpavīravān*: and also when he is without a sword; that is, he never even needs the help of a weapon. Doing what? युधा (*yudhā*): by fighting, that is, in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवीरवान् (*pavīravān*)—whether he has a sword
+- उत (*uta*)—or
+- अपवीरवान् (*apavīravān*)—whether he has no sword
+- यः (*yaḥ*)—that Asamāti who
+- महिषान् इव (*mahiṣān iva*)—as a lion kills wild buffaloes (easily)
+- जनान् (*janān*)—the enemy people
+- युधा (*yudhā*)—by fighting
+- अतितस्थौ (*atitasthau*)—defeats and destroys (we have come to that Asamāti)
+
+##### भावार्थ (Bhāvārtha)
+
+We have come to that Asamāti who, whether he has a sword or not, kills enemies in battle as easily as a lion kills wild buffaloes.
+
+##### English translation
+Who, whether armed or unarmed with a sword, overcomes adversaries in fight, as (a lion destroys) buffaloes.
+
+##### विशेषविषयगळु (Special Topics)
+
+पवीरवान् (*pavīravān*): पविः शल्यो भवति । यद्विपुनाति कायं तद्वत्पवीरमायुधं तद्वानिंद्रः पवीरवान् । (*paviḥ śalyo bhavati | yadvipunāti kāyaṃ tadvatpavīramāyudhaṃ tadvāniṃdraḥ pavīravān |*) (Ni. 12-30). पविः (*paviḥ*) means a lance, a spear, because it enters the body and splits it. पवीर (*pavīra*) means a pointed weapon.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ये॑क्ष्वा॒ कुरुप॑ व्र॒ते रे॒वान्म॑रा॒य्येध॑ते ।  
+> दि॒वी॑व॒ पंच॑ कृ॒ष्टयः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । इक्ष्वाकुः । उप । व्रते । रेवान् । मरायी । विधते ॥  
+> दिविऽइव । पंच । कृष्णयः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य जनपदस्येक्ष्वाकू राजा व्रते कर्मणि रक्षणरूप उपैधते प्रवर्धते ।
+> कीदृशः सन् । रेवान् रयिवान् मरायी शत्रूणां मारकश्च सन् । विशेषणद्वयेन
+
+##### Gist of the bhāṣya
+
+In whose realm King Ikṣvāku prospers, grows, in the work, the task of protection. What kind is he? Wealthy, and a slayer of enemies.
+
+### Printed p. 390
+
+> जनानां दानादिरूपेण धनलाभः परराजोपद्रवापत्तिश्चोक्ता भवति । एवा सति
+> तद्विषयस्थाः पंच कृष्णयो निषादपंचमाश्चत्वारो वर्णा दिनीव द्युलोकॆः यथा
+> संकल्पसिद्धाः संतः सुखिनो भवंति तद्वत्सुखिनो भवंतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+By these two epithets the people's gain of wealth through gifts and so on, and freedom from the troubles of other kings, are stated. This being so, the five orders (कृष्णयः (*kṛṣṇayaḥ*)) living in that realm, the four castes with the Niṣādas as fifth, become happy, as people in the heavenly world are happy, their wishes fulfilled. That is the word to be supplied.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—in whose kingdom
+- पंच कृष्णयः (*paṃca kṛṣṇayaḥ*)—people of five groups
+- दिवीव (*divīva*)—so that they may be happy as in the heavenly world
+- रेवान् (*revān*)—wealthy
+- मरायी (*marāyī*)—destroyer of enemies
+- इक्ष्वाकुः (*ikṣvākuḥ*)—the king named Ikṣvāku
+- व्रते (*vrate*)—in the work of protecting the subjects
+- उप विधते (*upa vidhate*)—prospers (we have come to such an Asamāti)
+
+##### भावार्थ (Bhāvārtha)
+
+We have come to that Asamāti in whose kingdom the king named Ikṣvāku, wealthy and a destroyer of enemies, prospers in the work of protecting the subjects, so that the people of the five groups are happy as in the heavenly world.
+
+##### English translation
+In the good government of whose (realm) the opulent and victorious Ikshwaku prospers (so that) the five orders of men (are as happy) as if they were in heaven.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ क्ष॒त्रास॑मातिषु॒ रथ॑प्रोष्ठेषु धारय ।  
+> दि॒वी॑व॒ सूर्यं॑ दृ॒शे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । क्षत्रा । असमातिषु । रथप्रोष्ठेषु । धारय ।  
+> दिविइव । सूर्यं । दृशे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयेंद्रमाह्वयतेऽसमात्यर्थं । हे इंद्र क्षत्रा क्षत्राणि बलानि रथप्रोष्ठेष्वसमातिषु ॥ एकस्मिन्बहुवचनं पूजार्थं ॥ रथप्रोष्ठेऽसमात् धारय ।
+> दिवीव सूर्यं दिवि यथा सूर्यं दृशे सर्वेषां संदर्शनाय स्थापितवानसि
+> तद्वदत्र बलं धारय ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he calls upon Indra for Asamāti's sake. O Indra, hold, maintain, powers (क्षत्रा (*kṣatrā*), strengths) in the Asamātis of the Rathaproṣṭha line. The plural for a single person is for honour. As in heaven you have set the sun for all to see, so maintain strength here.
+
+### Printed p. 391
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- दृशे (*dṛśe*)—so as to be visible to all
+- दिवि (*divi*)—in the sky
+- सूर्यं (*sūryaṃ*)—as you have set the sun
+- रथप्रोष्ठेषु (*rathaproṣṭheṣu*)—of the line of Rathaproṣṭha
+- असमातिषु (*asamātiṣu*)—in the king named Asamāti
+- क्षत्रा (*kṣatrā*)—strength
+- धारय (*dhāraya*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as you have set the sun in the sky so that all may see him, establish strength in the king named Asamāti, who belongs to the line of Rathaproṣṭha.
+
+##### English translation
+Maintain, Indra, vigour in the Rathaprostha Asamatis, as (you maintain) the sun in heaven for the sight (of all).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒गस्य॑स्य॒ नद्भ्यः॒ सप्ति॑ युनक्षि॒ रोहि॑ता ।  
+> प॒णीन्न्य॑क्रमीर॒भि विश्वा॑न्ना जन्नरा॒धसः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अगस्यस्य । नत्भ्यः । सप्ति इति । युनक्षि । रोहिता ।  
+> पणीन् । नि । अक्रमीः । अभि । विश्वान् । राजन् । अराधसः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयागस्य स्वसा बंभ्वादीनां माता राजानं स्तौति । हे राजन्नसमाते
+> त्वमगस्त्यस्यर्षेर्नद्भो नंदयितृभ्यो बंध्वादिभ्यो निमित्तभूतेभ्यस्तेषां धनप्राप्तये सप्ति सर्पणस्वभावावश्त् रोहिता रोहितवर्णौ युनक्षि । योजय रथे ।
+> तथा कृत्वा विश्वान् सर्वानराधसोऽदात्थनयजमानान्पणीन्वणिजो लुब्धकान्निकृष्णं नितरां वाभ्यक्रमीः ! अभिभव ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk Agastya's sister-in-law, the mother of Bandhu and the others, praises the king. O King Asamāti, for the sake of the sage Agastya's नद्भ्यः (*nadbhyaḥ*), Bandhu and the others who gladden him and are the cause, so that they may obtain wealth, yoke to the chariot the two red horses (सप्ति (*sapti*)), which are of a darting nature. Having done so, overcome all the non-giving, non-sacrificing पणीन् (*paṇīn*), traders and misers, trampling them down utterly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O Asamāti
+- अगस्त्यस्य (*agastyasya*)—of the sage Agastya
+- नद्भ्यः (*nadbhyaḥ*)—to provide wealth to all the kinsmen
+- रोहिता (*rohitā*)—golden-coloured
+- सप्ति (*sapti*)—horses
+- युनक्षि (*yunakṣi*)—yoke to the chariot
+
 ---
 
-**Progress note:** Done through printed p. 385. pp. 380-385 (batch API)
+**Progress note:** Done through printed p. 391. pp. 386-391 (batch API)
