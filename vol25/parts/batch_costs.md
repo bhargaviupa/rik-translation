@@ -43,3 +43,4 @@ batch 37 (pp. 635–652): 151,077 tokens
 batch 38 (pp. 653–670): 147,281 tokens
 batch 39 (pp. 671–689): 162,247 tokens
 batch 40 (pp. 690–707): 156,903 tokens
+batch 41 (pp. 708–725): 146,771 tokens
