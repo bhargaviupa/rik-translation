@@ -768,6 +768,263 @@ Indra, knowing all the deeds beneficial to men, fearsome with his weapons, advan
 
 Indra, knowing all the deeds beneficial to men, fearsome with his weapons, faced these asuras and advanced. He made their cities tremble. Showing joy, endowed with greatness, and holding the thunderbolt in his hand, he slew them all.
 
+### Printed p. 19
+
+##### English translation
+The formidable (Indra), knowing all actions beneficial to man, intimidated those (Asuras) by his weapons : Indra, exulting, shook their cities : armed with his thunderbolt he slew them in his might.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न या॒तव॑ इंद्र जूजुवुर्नो॒ न वंद॑ना शविष्ठ वे॒द्याभिः॑ ।  
+> स श॑र्धद॒र्यो विषु॑णस्य जं॒तोर्मा शि॒श्नदे॑वा॒ अपि॑ गुर्ऋ॒तं  ॑
+> नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । यातवः । इंद्र । जूजुवुः । नः । न । वंदना । शविष्ठ । वेद्याभिः ।  
+> सः । शर्धत् । अर्यः । विषुणस्य । जंतोः । मा । शिश्नदेवाः । अपि । गुः । ऋतं । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यातवो राक्षसा नोऽस्मान् जूजुवुः । न हिंस्युः । जूजुवुरिति हिंसाक्रियः पृथक्करणक्रियो वा । अपि च हे शविष्ठ बलवत्तमेंद्र वंदना वंदनानि रक्षांसि वेद्याभिर्वेद्याभ्यः प्रजाभ्यो नोऽस्मान्न जूजुवुः । न पृथक्कुर्वंतु । किंचार्यः स्वामी स इंद्रो विषुणस्य विषमस्य जंतोः प्राणिनः शासने शर्धत् । उत्सहेत । अथ च शिश्नदेवाः । शिश्नेन दीव्यंति क्रीडंत इति शिश्नदेवाः । अब्रह्म-चर्या इत्यर्थः । नोऽस्माकमृतं यज्ञं सत्यं वा मापि गुः । मापिगमन् । तथा च यास्कः । स उत्सहतां यो विषुणस्य जंतोर्विषमस्य मा शिश्नदेवा अब्रह्म-चर्याः । शिश्नं श्नथतेः । अपि गुर्ऋतं नः सत्यं वा यज्ञं वा । नि. ४-१९ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, may the Rākṣasas, the यातवः (*yātavaḥ*), not harm us; जूजुवुः (*jūjuvuḥ*) is a verb of harming, or of separating. Further, O most powerful Indra, may the वंदना (*vaṃdanā*), that is the Rākṣasas, not separate us from the beings to be known (वेद्याभिः (*vedyābhiḥ*)), our offspring. Moreover, Indra, the lord (अर्यः (*aryaḥ*)), would exert himself (शर्धत् (*śardhat*)) in the rule over the crooked, disorderly creature (विषुणस्य जंतोः (*viṣuṇasya jaṃtoḥ*)). And the शिश्नदेवाः (*śiśnadevāḥ*) are those who sport with the generative organ, that is, the unchaste; may they not come upon (मापि गुः (*māpi guḥ*), "may they not go to") our rite or our truth, ऋतं (*ṛtaṃ*). He cites Yāska: "May he exert himself who is lord over the crooked creature; let not the unchaste, the शिश्नदेवा (*śiśnadevā*), come upon our ऋतं (*ṛtaṃ*), truth or rite" (Ni. 4-19). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यातवः (*yātavaḥ*)—the Rākṣasas
+- नः (*naḥ*)—us
+- न जूजुवुः (*na jūjuvuḥ*)—let them not harm
+- शविष्ठ (*śaviṣṭha*)—O Indra, exceedingly mighty
+- वंदना (*vaṃdanā*)—that same demonic power
+- वेद्याभिः (*vedyābhiḥ*)—from our sons and the rest
+- न (*na*)—let it not separate us
+- अर्यः (*aryaḥ*)—the lord
+- सः (*saḥ*)—that same Indra
+- विषुणस्य (*viṣuṇasya*)—of misshapen form
+- जंतोः (*jaṃtoḥ*)—in the restraint of creatures
+- शर्धत् (*śardhat*)—shows zeal (therefore)
+- शिश्नदेवाः (*śiśnadevāḥ*)—the Asuras given to immoral sports
+- नः (*naḥ*)—our
+- ऋतं (*ṛtaṃ*)—sacrifice
+- मा अपि गुः (*mā api guḥ*)—will not be able to obstruct
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let the Rākṣasas not harm us. O Indra, exceedingly mighty, let that same demonic power not separate us from our sons and the rest. That same Indra, the lord, shows zeal in the restraint of creatures of misshapen form. Therefore the Asuras, given to immoral sports, will not be able to obstruct our sacrifice.
+
+### Printed p. 20
+
+##### English translation
+Let not the Rakshasas, Indra, do us harm ; let not the evil spirits do harm to our progeny, most powerful (Indra): let the sovereign lord, (Indra), exert himself (in the restraint) of disorderly beings, so that the unchaste may not disturb our rite.
+
+##### विशेषविषयगळु (Special Topics)
+
+विषुणस्य (*viṣuṇasya*), शिश्नदेवा (*śiśnadevā*): Explaining these words, Yāska says in his Nirukta as follows:
+
+विषुणः । स शर्धदर्यो विषुणस्य जंतोर्मा शिश्नदेवा अपि गुर्ऋतं नः । स उत्सहतां यो विषुणस्य जंतोर्विषमस्य मा शिश्नदेवा अब्रह्म-चर्याः । शिश्नं श्नथतेः । अपि गुर्ऋतं नः । सत्यं वा यज्ञं वा ॥ (*viṣuṇaḥ | sa śardhadaryo viṣuṇasya jaṃtormā śiśnadevā api gurṛtaṃ naḥ | sa utsahatāṃ yo viṣuṇasya jaṃtorviṣamasya mā śiśnadevā abrahma-caryāḥ | śiśnaṃ śnathateḥ | api gurṛtaṃ naḥ | satyaṃ vā yajñaṃ vā ‖*)
+
+विषुणस्य (*viṣuṇasya*) means विषमस्य (*viṣamasya*): of misshapen form, having deformed limbs unlike what everyone has, or lacking understanding. Indra shows zeal in keeping such creatures under control. And शिश्नदेवाः (*śiśnadevāḥ*) means those who, without the discipline of chastity and the like, are given to evil acts such as intercourse with forbidden women and unlawful union with women, those who are outside morality. Or the meaning may also be said to be: wicked people who do not worship the gods such as Indra, but take the male organ itself for a god and are devoted to unlawful and immoral sports. The main sense of the explanation is that such people of wicked nature, who have no rule of morality, should not cause obstruction in the sacrifice we perform; that is, may Indra restrain such wicked ones and grant that our sacrifice be completed in full. The word ऋत (*ṛta*) means truth or sacrifice.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि क्रत्वें॑द्र भू॒रध॒ ज्मन्न ते॑ विव्यङ्महि॒मानं॒ रजां॑सि ।  
+> स्वेना॒ हि वृ॒त्रं शव॑सा ज॒घंथ॒ न शत्रु॒रंतं॑ विविदद्यु॒धा ते॑ ॥
+
+### Printed p. 21
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । क्रत्वा । इंद्र । भूः । अध । ज्मन् । न । ते । विव्यक् । महिमानं । रजांसि ।  
+> स्वेन । हि । वृत्रं । शवसा । जघंथ । न । शत्रुः । अंतं । विविदत् । युधा । ते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं क्रत्वा कर्मणा ज्मन् पृथिव्यां वर्तमानान् जंतून्वाभि भूः । अभ्यभूः । अधापि च ते तव महिमानं रजांसि सर्वे लोका न विव्यक् । व्यचिर्व्याप्तिकर्मा । न व्याप्नुवन्नित्यर्थः । स्वेन ह्यात्मीयेन च शवसा बलेन वृत्रं जघंथ । त्वमवधीः । शत्रुश्च युधा युद्धेन ते तवांतं हिंसां न विविदत् । न लब्धवान् ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you by your deed (क्रत्वा (*kratvā*)) overcome (अभि भूः (*abhi bhūḥ*)) the creatures that live on the earth (ज्मन् (*jman*)). Moreover, all the worlds (रजांसि (*rajāṃsi*)) do not pervade (न विव्यक् (*na vivyak*)) your greatness; the root व्यचि (*vyaci*) has the sense of pervading, so the meaning is that they do not encompass it. By your own strength you slew Vṛtra, and no enemy found the end, that is the destruction, of you in battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- क्रत्वा (*kratvā*)—by your extraordinary deeds
+- ज्मन् (*jman*)—all creatures on the earth
+- अभि भूः (*abhi bhūḥ*)—you have brought under your sway
+- अध (*adha*)—moreover
+- ते (*te*)—your
+- महिमानं (*mahimānaṃ*)—greatness
+- रजांसि (*rajāṃsi*)—all the worlds, gathered together
+- न विव्यक् (*na vivyak*)—cannot pervade (cannot obtain)
+- स्वेन (*svena*)—your natural
+- शवसा हि (*śavasā hi*)—by strength alone
+- वृत्रं (*vṛtraṃ*)—the asura Vṛtra
+- जघंथ (*jaghaṃtha*)—you destroyed
+- शत्रुः (*śatruḥ*)—no enemy
+- युधा (*yudhā*)—in battle
+- ते (*te*)—to you
+- अंतं (*aṃtaṃ*)—harm
+- न विविदत् (*na vividat*)—can bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your extraordinary deeds you have brought under your sway all creatures on the earth. Moreover, all the worlds gathered together could not surpass your greatness. By your own strength you destroyed the asura Vṛtra. No enemy can bring harm upon you in battle.
+
+##### English translation
+You, Indra, by your function, preside over the beings (of earth) : all the regions (of the world) do not surpass your magnitude : by your own strength you have slain Vritra : no enemy has effected your destruction in battle.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वाश्चि॑त्ते असु॒र्या॑य॒ पूर्वीरनु॑ क्ष॒त्राय॑ ममिरे॒ सहां॑सि ।
+
+### Printed p. 22
+
+> इंद्रो मघानि दयते विषह्येंद्रं वाजस्य जोहुवंत  
+> सातौ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवाः । चित् । ते । असुर्याय । पूर्वे । अनु । क्षत्राय । ममिरे । सहांसि ।  
+> इंद्रः । मघानि । दयते । विऽसह्य । इंद्रं । वाजस्य । जोहुवंत । सातौ ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वे देवाश्चिदसुरा अस्यसुर्याय बलाय क्षत्राय । क्षदिर्हिंसाकर्मा । बलं हिंसां चोभे कर्तुमित्यर्थः । हे इंद्र ते तव सहांसि बलान्यनु ममिरे ॥ हीने । पा-सू १-४-८६ । इत्यनु कर्मप्रवचनीयः ॥ तव बलेभ्यो हीना ममिर इत्यर्थः । तथा च निगमांतरं । अनु ते द्यौर्बृहती वीर्यं ममे । ऋ-१-५३-५ । इति । अथ परोक्षस्तुतिः । इंद्रः शत्रून्विषह्य मघानि मंहनीयानि धनानि दयते । भक्तेभ्यः प्रयच्छति । अपि चेंद्रं वाजस्यान्नस्य सातौ लाभार्थं जोहुवंत । स्तुवंति स्तोतार आह्वयंति वा ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The earlier ones, the gods, the Asuras (देवाश्चिदसुरा (*devāścidasurā*)), measured your powers (सहांसि (*sahāṃsi*)) as inferior to the strength (असुर्याय (*asuryāya*)) and the क्षत्राय (*kṣatrāya*); the root क्षदि (*kṣadi*) has the sense of harming, so the meaning is that they were able to exercise both strength and violence. O Indra, they measured themselves as lower than your powers. He cites another Vedic text in the same sense: अनु ते द्यौर्बृहती वीर्यं ममे (*anu te dyaurbṛhatī vīryaṃ mame*) (Ṛ. 1-53-5). Then follows praise in the third person: Indra, having overcome his enemies, bestows (दयते (*dayate*)) the precious riches (मघानि (*maghāni*)) on his devotees; and the praisers call upon Indra, that is, praise or invoke him, to obtain food. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पूर्वे (*pūrve*)—ancient
+- देवाश्चित् (*devāścit*)—even the Asuras
+- क्षत्राय (*kṣatrāya*)—for the violent
+- असुर्याय (*asuryāya*)—than the strength
+- ते (*te*)—your
+- सहांसि (*sahāṃsi*)—powers are greater, thus
+- अनु ममिरे (*anu mamire*)—they have acknowledged
+- इंद्रः (*iṃdraḥ*)—Indra
+- विषह्य (*viṣahya*)—having conquered the enemies
+- मघानि (*maghāni*)—the precious riches
+- दयते (*dayate*)—gives to his devotees
+- इंद्रं (*iṃdraṃ*)—that same Indra
+- वाजस्य (*vājasya*)—of food
+- सातौ (*sātau*)—for the gaining
+- जोहुवंते (*johuvaṃte*)—the praisers call with praise
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, even the ancient Asuras have acknowledged that your powers are greater than their own violent strength. Indra, having conquered his enemies, gives the precious riches to his devotees. For the gaining of food, the praisers call upon that same Indra with praise.
+
+##### English translation
+The older deities have confessed your vigour superior to their distructive strength. Indra having subdued his foes, gives the rich spoils (to his worshippers) : they invoke Indra to obtain food.
+
+### Printed p. 23
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> की॒रिश्चि॒द्धि त्वामव॑से जु॒हावेशा॑नमिंद्र॒ सौभ॑गस्य॒ भूरेः॑ ।  
+> अवो॑ बभूथ शतमूते अ॒स्मे अ॑भिक्ष॒त्तुस्त्वाव॑तो वरू॒ता ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कीरिः । चित् । हि । त्वां । अवसे । जुहाव । ईशानं । इंद्र । सौभगस्य । भूरेः ।  
+> अवः । बभूथ । शतम्ऽऊते । अस्मे इति । अभिक्षत्तुः । त्वावतः । वरूता ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ईशानं त्वां कीरिः स्तोता । कारुः कीरिरिति स्तोतृनामसु पाठात् । वसिष्ठोऽवसे रक्षणाय जुहाव हि । स्तौति हि ह्वयति वा । चिदिति पूरणः । अपि च हे श-तमूते बहुरक्षेंद्र अस्मे अस्माकं भूरेः प्रभूतस्य सौभगस्य धनस्यावो रक्षा ब-भूथ । बभूविथ । अभिक्षत्तुरभिहिंसकस्य त्वावतस्त्वत्सदृशस्य वरूता वारयिता च भव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, the praiser (कीरिः (*kīriḥ*); he quotes the reading of the lists of names of praisers, "kāru, kīri"), Vasiṣṭha, has called you, the lord (ईशानं (*īśānaṃ*)), for protection (अवसे (*avase*)), that is, he praises or invokes you; चित् (*cit*) is a filler. Moreover, O Indra of a hundred aids, you have become the protector (अवः (*avaḥ*)) of our abundant good fortune, that is, of wealth. And be the warder-off (वरूता (*varūtā*)) of a harmful (अभिक्षत्तुः (*abhikṣattuḥ*)) one like yourself (त्वावतः (*tvāvataḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ईशानं (*īśānaṃ*)—the lord
+- त्वां (*tvāṃ*)—you
+- कीरिः (*kīriḥ*)—the praiser
+- अवसे (*avase*)—for protection
+- जुहाव हि (*juhāva hi*)—has called
+- शतमूते (*śatamūte*)—O Indra, endowed with many protections
+- अस्मे (*asme*)—our
+- भूरेः (*bhūreḥ*)—exceedingly great
+- सौभगस्य (*saubhagasya*)—of wealth
+- अवः (*avaḥ*)—as protector
+- बभूथ (*babhūtha*)—you have become
+- त्वावतः (*tvāvataḥ*)—of one with strength like yours
+- अभिक्षत्तुः (*abhikṣattuḥ*)—the harmful Asura
+- वरूता (*varūtā*)—be the warder-off
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the praiser has called you, the lord, for protection. O Indra, endowed with many protections, you have become the protector of our exceeding great wealth. Be the warder-off of the harmful Asura who has strength like yours.
+
+##### English translation
+The worshipper has invoked you the sovereign Indra, for protection: protector of many, you have been to us the guardian of great good fortune ; be our defender against every overpowering (assailant) like to you.
+
+### Printed p. 24
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सखा॑यस्त इंद्र वि॒श्वह॑ स्याम नमोवृ॒धासो॑ महि॒ना त॑रुत्र ।  
+> व॒न्वंतु॑ स्म॒ तेऽव॑सा समी॒के॒३॒॑ऽभी॑तिम॒र्यो व॒नुषां॒ शवां॑सि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सखायः । ते । इंद्र । विश्वह । स्याम । नमःवृधासः । महिना । तरुत्र ।  
+> वन्वंतु । स्म । ते । अवसा । सम्ऽईके । अभिऽइतिं । अर्यः । वनुषां । शवांसि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव नमोवृधासो नमसा स्तुत्या हविषा वा वर्धयितारो वयं विश्वह सर्वदा सखायः स्याम । भवेम । महिना महिम्ना तरुत्रात्यंतं तार-केंद्र ते तेवावसा रक्षणेन समीके संग्रामेऽर्योऽभीतिमभिगमनं वनुषां हिंस-कानां शवांसि बलानि च वन्वंतु । स्तोतारो हिंसंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, we who increase you (नमोवृधासः (*namovṛdhāsaḥ*)) with homage, that is, praise or oblation, may be your friends at all times (विश्वह (*viśvaha*)). O Indra, who carry us exceedingly across (तरुत्र (*tarutra*)) by your greatness, by your protection let the enemy's (अर्यः (*aryaḥ*)) onset (अभीतिं (*abhītiṃ*)) and the strengths (शवांसि (*śavāṃsi*)) of the harmful (वनुषां (*vanuṣāṃ*)) in battle (समीके (*samīke*)) be overcome; let the praisers harm them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- नमोवृधासः (*namovṛdhāsaḥ*)—we who grow by praises
+- विश्वह (*viśvaha*)—on all days
+- सखायः (*sakhāyaḥ*)—as friends to you
+- स्याम (*syāma*)—may we be
+- महिना (*mahinā*)—by your greatness
+- तरुत्र (*tarutra*)—O Indra, who protect exceedingly
+- ते (*te*)—your
+- अवसा (*avasā*)—by protection
+- समीके (*samīke*)—in battle
+- अर्यः (*aryaḥ*)—of the enemy
+- अभीतिं (*abhītiṃ*)—the resistance
+- वनुषां (*vanuṣāṃ*)—of the violent
+- शवांसि (*śavāṃsi*)—the strengths
+- वन्वंतु स्म (*vanvaṃtu sma*)—let your praisers destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may we, who grow by your praises, be your friends on all days. O Indra, who protect exceedingly by your greatness, protected by you, may your praisers in battle destroy the enemy's resistance and the strengths of the violent.
+
+##### English translation
+May we, daily increasing in reverence, be (regarded) Indra,(as) your friends : through the protection of you, surpasser in greatness, may (your worshippers) repulse the attack of the foe in battle, the strength of the malevolent.
+
 ---
 
-**Progress note:** Done through printed p. 18. Vol 22 sukta 20 rk 10, sukta 21 rks 1-4
+**Progress note:** Done through printed p. 24. Sukta 21 rks 5-9 (pp. 19-24)
