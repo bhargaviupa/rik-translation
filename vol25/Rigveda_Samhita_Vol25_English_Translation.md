@@ -11857,6 +11857,228 @@ In the immature (cows) you produced the mature (milk), you caused the sun to ari
 
 In ancient times the asuras called Paṇis stole the cows of the Aṅgiras sages and hid them in a secret place of a mountain, that is, in a cave. Then, when those sages prayed to Indra to bring their cows back, Indra found the place where the cows were and, in order to free them and bring them out, established the sun in the atmosphere so that it shone and the thick darkness that had gathered there was dispelled. By the light of that sun the cave became bright, and he freed the cows that were there, brought them and gave them to the Aṅgiras sages. This is the ancient story in connection with which the words आ सूर्यमारोहयो दिवि (*ā sūryamārohayo divi*) are spoken in this Ṛk. The mention of this story is made here and there in many Ṛks of the Ṛgveda.
 
+### Printed p. 302
+
+## Sūkta 90 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘आ नो विश्वासु' इति षड़ृचं दशमं सूक्तम् । नृमेधपुरुमेधावृषी । विषमसंख्याका बृहत्यः समसंख्याकाः सतोबृहत्यः । इंद्रो देवता । तथा चानुक्रांतम्-' आ नो विश्वासु षट्' इति । महाव्रते निष्केवल्ये बार्हततृचाशीतावेतत्सूक्तम् । सूत्र्यते हि पंचमारण्यके- ‘ आ नो विश्वासु हव्यो या इंद्र भुज आभरः' (ऐ. आ. ५. २. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+The tenth sūkta, beginning आ नो विश्वासु (*ā no viśvāsu*), has six Ṛks. Its seers are Nṛmedha and Purumedha. The odd-numbered verses are Bṛhatī and the even-numbered are Satobṛhatī. The deity is Indra. The Anukramaṇī says accordingly आ नो विश्वासु षट् (*ā no viśvāsu ṣaṭ*). In the Mahāvrata, in the Niṣkevalya litany, this sūkta is used for the Bārhata tṛca **NOTE**. It is stated in the Fifth Āraṇyaka: आ नो विश्वासु हव्यो या इंद्र भुज आभरः (*ā no viśvāsu havyo yā iṃdra bhuja ābharaḥ*) (Ai. Ā. 5. 2. 4).
+
+The Anuvāda: this sūkta, आ नो विश्वासु (*ā no viśvāsu*), is the tenth sūkta in the ninth anuvāka. It has six Ṛks. Its seers are the two, Nṛmedha and Purumedha. The deity is Indra. The Ṛks of odd number in this sūkta are in the Bṛhatī metre, and the Ṛks of even number in the Satobṛhatī metre. In the Anukramaṇī it is said: आ नो विश्वासु षट् (*ā no viśvāsu ṣaṭ*). In the Mahāvratesṭi, at the time of reciting the mantras of the Niṣkevalya litany, this sūkta is used for the Ṛks of the Bṛhatī metre, as is indicated in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence आ नो विश्वासु हव्यो या इंद्र भुज आभरः (*ā no viśvāsu havyo yā iṃdra bhuja ābharaḥ*) (Ai. Ā. 5-2-4).
+
+Sūkta 90.
+Maṇḍala 8; Anuvāka 9; Sūkta 90.
+Aṣṭaka 6; Adhyāya 6; Varga 13.
+Number of Ṛks in the sūkta: 6.
+Ṛṣi: Nṛmedhapurumedhau.
+Devatā: Indra.
+Chandas: प्रगाथं (*pragāthaṃ*) (odd Ṛks Bṛhatī, even Ṛks Satobṛhatī).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ विश्वा॑सु॒ हव्य॒ इंद्रः॑ स॒मत्सु॑ भूषतु ।  
+> उप॒ ब्रह्मा॑णि॒ सव॑नानि वृत्र॒हा प॑रम॒ज्या ऋची॑षमः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । विश्वासु । हव्यः । इंद्रः । समत्ऽसु । भूषतु ।  
+> उप । ब्रह्माणि । सवनानि । वृत्रऽहा । परमऽज्याः । ऋचीषमः ॥ १ ॥
+
+### Printed p. 303
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिरनयेंद्र एवं करोत्वित्याशास्ते । विश्वासु सर्वासु समत्सु असुरयुद्धेषु हव्यः सर्वैदैवैरात्मरक्षणार्थमाह्वातव्य एतादृशः इंद्रः नः अस्माकं ब्रह्माणि स्तोत्राणि हवीरूपाण्यन्नानि वा उप आ भूषतु अनुभवतु । सेवतामित्यर्थः । यद्वा । एतान्यलंकरोतु । तदागमनेन स्तोत्राणि हवींषि वालंकृतानि भवंति । तथा सवनानि प्रातःसवनादीनि त्रीणि सवनानि च भूषतु । कीदृश इंद्रः। वृत्रहा वृत्रस्यासुरस्य पापस्य वा हंता परमज्याः । युद्धेषु शत्रुहननार्थं परमाविनश्वरी ज्या मौर्वी यस्य स तथोक्तः । यद्वा । परमान् बलेन प्रकृष्टाञ्शत्रूंजिनाति हिनस्तीति परमज्याः । ऋचीषमः स्तुत्या समः स्तुतिभिरभिमुखीकरणीयः । एतादृगिंद्रः स्तोत्राणि भूषत्विति ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk the seer prays that Indra may do thus. In all battles, in the wars with asuras, being one who must be called upon by all the gods for the protection of themselves, such an Indra is to adorn, that is, to enjoy, our hymns, or our oblations in the form of food; let him partake of them. Or else, let him adorn these: by his coming the hymns or oblations become adorned. Likewise let him adorn the three savanas, the morning savana and the others. What sort of Indra is he? The slayer of Vṛtra, that is, of the asura Vṛtra, or of sin. परमज्याः (*paramajyāḥ*): one whose supreme, imperishable bowstring is for the slaying of enemies in battles; or else, one who overcomes or injures the foremost enemies, eminent in strength. ऋचीषमः (*ṛcīṣamaḥ*): one equal to praise, who must be turned towards us by praises. May such an Indra adorn our hymns.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वासु (*viśvāsu*)—all
+- समत्सु (*samatsu*)—in the battles waged with the asuras
+- हव्यः (*havyaḥ*)—he who is prayed to and called for protection
+- वृत्रहा (*vṛtrahā*)—the slayer of Vṛtra, or the remover of sin
+- परमज्याः (*paramajyāḥ*)—he who has an imperishable bowstring
+- ऋचीषमः (*ṛcīṣamaḥ*)—he who becomes manifest before us through praises
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—our
+- ब्रह्माणि (*brahmāṇi*)—hymns or oblations in the form of food
+- उप आभूषतु (*upa ābhūṣatu*)—let him partake of (or adorn)
+- सवनानि (*savanāni*)—let him partake of the three savanas, the morning savana and the others
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who is called upon with prayers for protection in all the battles fought with the asuras, who is the slayer of the asura Vṛtra, who has an imperishable bowstring, and who becomes manifest through praises, adorn, that is, partake of, our hymns and the three savanas.
+
+##### English translation
+May Indra, who is to be invoked in all battles, regard our hymns and our libations,—he, the slayer of Vritra, who crushes the mightiest (foes), who is worthy of his praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+उप आ भूषतु—एतान्यलंकरोतु । तदागमनेन स्तोत्राणि हवींषि वालंकृतानि भवंति । सेवतामित्यर्थः ॥ (*upa ā bhūṣatu—etānyalaṃkarotu | tadāgamanena stotrāṇi havīṃṣi vālaṃkṛtāni bhavaṃti | sevatāmityarthaḥ ‖*). When Indra comes to the sacrificial ground of the sacrificer, by his presence the hymns, the oblations, the three savanas and all the other ritual acts that are parts of the sacrifice acquire a kind of lustre, so that they appear adorned. That is, the seer expresses the wish that Indra may accept them with favour.
+
+### Printed p. 304
+
+परमज्याः—युद्धेषु शत्रुहननार्थं परमविनश्वरी ज्या मौर्वी यस्य स तथोक्तः यद्वा परमान् बलेन प्रकृष्टान् शत्रून् जिनाति हिनस्तीति परमज्याः । (*paramajyāḥ—yuddheṣu śatruhananārthaṃ paramavinaśvarī jyā maurvī yasya sa tathoktaḥ yadvā paramān balena prakṛṣṭān śatrūn jināti hinastīti paramajyāḥ |*). Two kinds of meaning are given for this word. The bowstring (the cord) of Indra's bow, which he uses in battles for slaying enemies, is imperishable, that is, it does not break and lasts a very long time; Indra possessing such a bowstring is one meaning. Or else Indra, by his excellent strength, injures powerful enemies; this is the other meaning.
+
+ऋचीषमः (*ṛcīṣamaḥ*), स्तुत्या समः (*stutyā samaḥ*) (one who must be turned towards us by praises): if Indra is to be pleased, he will become manifest before the praisers only if he is praised with hymns and the like. This is the meaning intended: such an Indra.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं दा॒ता प्र॑थ॒मो राध॑साम॒स्यसि॑ स॒त्य ई॑शान॒कृत् ।  
+> तु॒वि॒द्यु॒म्नस्य॒ युज्या वृ॑णीमहे पु॒त्रस्य॒ शव॑सो म॒हः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । दाता । प्रथमः । राधसाम् । असि । असि । सत्यः । ईशानऽकृत् ।  
+> तुविऽद्युम्नस्य । युज्या । आ । वृणीमहे । पुत्रस्य । शवसः । महः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रथमः सर्वेषां मुख्यः त्वं राधसां धनानां दाता असि । यद्वा । धनदातॄणां  मध्ये त्वं प्रथम आदिमो भवसि । तथा ईशानकृत् तव स्तोतॄन् ईशानान् ऐश्वर्ययुक्तान् कुर्वंस्त्वं सत्यः  सत्यकर्मा असि । यथार्थकर्मा भवसीत्यर्थः । यस्मादेवं तस्माद्वयं तुविद्युम्नस्य बहुधनवतो बह्वन्नस्य वा शवसः बलस्य पुत्रस्य शत्रुवधार्थं बलकारणत्वेनोत्पन्नत्वात्तत्पुत्रस्य अत एव महः महतस्तव युज्या योग्यानि धनानि आ वृणीमहे संभजामहे ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you, the foremost, the chief of all, are the giver of riches; or else, among the givers of wealth you are the first, the earliest. And making your praisers lords, that is, endowed with wealth, you are true, true in your deeds; the meaning is that you act in accordance with the fact. Since it is so, we choose and enjoy fitting riches from you, the son of strength, of him who has abundant wealth or abundant food, who was born as the cause of strength for the slaying of enemies, and therefore great.
+
+### Printed p. 305
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमः (*prathamaḥ*)—(O Indra) chief of all
+- त्वं (*tvaṃ*)—you
+- राधसां (*rādhasāṃ*)—riches
+- दाता असि (*dātā asi*)—you are the giver; or else
+- त्वं (*tvaṃ*)—you
+- राधसां (*rādhasāṃ*)—among the givers of wealth
+- प्रथमः दाता असि (*prathamaḥ dātā asi*)—you are the best giver; likewise
+- ईशानकृत् (*īśānakṛt*)—you who make the people who praise you possessed of wealth
+- सत्यः असि (*satyaḥ asi*)—you are a doer of true deeds (therefore we)
+- तुविद्युम्नस्य (*tuvidyumnasya*)—of him who has abundant wealth
+- शवसः पुत्रस्य (*śavasaḥ putrasya*)—who was born strong for the slaying of enemies
+- महः (*mahaḥ*)—of you, who are of great nature, or from you
+- युज्या (*yujyā*)—fitting riches
+- आ वृणीमहे (*ā vṛṇīmahe*)—we ask for
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the best giver among the givers of wealth; you who give wealth to the people who praise you and protect them do only true deeds. Therefore we ask from you, who have abundant wealth, who were born strong for the slaying of enemies and who are of great nature, for fitting riches, that is, riches fit to be enjoyed.
+
+##### English translation
+You are the chief giver of wealth, you are truthful and make your worshippers rulers ; we solicit (blessings) worthy of you, lord of vast riches, mighty son of strength.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्मा॑ त इंद्र गिर्वणः क्रि॒यंते॒ अन॑तिद्भुता ।  
+> इ॒मा जु॑षस्व हर्यश्व॒ योज॒नेंद्र॒ या ते॒ अम॑न्महि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्म । ते । इंद्र । गिर्वणः । क्रियंते । अनतिद्भुता ।  
+> इमा । जुषस्व । हरिऽअश्व । योजना । इंद्र । या । ते । अमन्महि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे गिर्वणः गीर्भिर्वननीय इंद्र अनतिद्भुता त्वद्गुणान् सर्वानतिक्रम्य न भवंति । इंद्रगुणव्यापकानि । यथार्थभूतानीत्यर्थः । तादृशानि यानि ब्रह्म ब्रह्माणि स्तोत्राणि ते त्वदर्थमस्माभिः क्रियंते हे हर्यश्व हरिताश्ववन् हे इंद्र योजनानि तव सम्यग्योजनशीलानि तानि इमा इमानि स्तोत्राणि जुषस्व सेवस्व । किंच हे इंद्र ते त्वदर्थं या यानि स्तोत्राणि अमन्महि वयमुच्चरामः तानि सर्वाणि सेवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Indra, to be won by songs: the hymns that are not exceeded, that do not go beyond all your qualities, that pervade Indra's qualities, that is, are true to fact, such hymns are made by us for you. O Indra, lord of the bay horses, accept these hymns, which are well-fitted to you. Further, O Indra, whatever hymns we utter for you, accept them all.
+
+### Printed p. 306
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे गिर्वणः (*he girvaṇaḥ*)—O god
+- इंद्र (*iṃdra*)—O Indra
+- अनतिद्भुता (*anatidbhutā*)—describing only Indra's qualities
+- ब्रह्म (*brahma*)—hymns
+- ते (*te*)—addressed to you
+- क्रियंते (*kriyaṃte*)—are made by us
+- हर्यश्व (*haryaśva*)—O Indra, possessed of the horses named Hari
+- योजना (*yojanā*)—fitting for you
+- या (*yā*)—which hymns
+- ते (*te*)—for you
+- अमन्महि (*amanmahi*)—we recite
+- इमा (*imā*)—such hymns
+- इंद्र (*iṃdra*)—O Indra
+- जुषस्व (*juṣasva*)—accept
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whose self is divine, hymns describing only your qualities are made by us for you. O Indra, who have the horses named Hari, accept those hymns, fitting to your dignity, which we recite for you.
+
+##### English translation
+Indra, who are the object of hymns, unexaggerated praises are offered by us ; lord of bay steeds, accept these fitting hymns, which we have meditated for you.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि स॒त्यो म॑घव॒न्नना॑नतो वृ॒त्रा भूरि॑ न्यृं॒जसे॑ ।  
+> स त्वं श॑विष्ठ वज्रहस्त दा॒शुषे॒ऽर्वांचं॑ र॒यिमा कृ॑धि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । हि । सत्यः । मघऽवन् । अनानतः । वृत्रा । भूरि । निऽऋंजसे ।  
+> सः । त्वम् । शविष्ठ । वज्रऽहस्त । दाशुषे । अर्वांचम् । रयिम् । आ । कृधि ॥ ४ ॥
+
+### Printed p. 307
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मघवन् धनवन्निंद्र सत्यः सत्यकर्मा त्वम् एव अनानतः केषामप्यप्रह्वः सन् भूरि भूरीणि वृत्राणि रक्षांसि न्यृंजसे तानि प्रह्वीभावयसि । न्यक्करोषीत्यर्थः । हिरवधारणे । हे शविष्ठ बलेन वृद्धतम हे वज्रहस्त । वज्रो हस्ते यस्य स तथोक्तः । हे इंद्र सः तादृशः त्वं दाशुषे तुभ्यं हविर्दत्तवते यजमानाय रयिं धनादिकम् अर्वांचम् अवाचीनमभिमुखं यथा गच्छति तथा तम् आ कृधि समंतात्कुरु ॥
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रे ‘त्वमिंद्र यशा असि' इति प्रगाथो वैकल्पिकोऽनुरूपः । सूत्र्यते च- ‘ त्वमिंद्र यशा असींद्र क्रतुं न आ भर' (आश्व. श्रौ. ७. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+O Maghavan, wealthy Indra, you alone, true in your deeds, unbowed before anyone, bring low many Vṛtras, that is, demons; you put them down. The word हि (*hi*) is for emphasis. O most mighty in strength, O thunderbolt-handed, one who has the thunderbolt in his hand: O Indra, such as you are, make wealth and the like come to the sacrificer who has given you the oblation, so that it goes facing him; do it all round.
+
+On the Chāturviṃśika day, at the midday savana, in the Brāhmaṇācchaṃsin's śastra, the Pragātha त्वमिंद्र यशा असि (*tvamiṃdra yaśā asi*) is an optional anurūpa. It is stated in the sūtra: त्वमिंद्र यशा असींद्र क्रतुं न आ भर (*tvamiṃdra yaśā asīṃdra kratuṃ na ā bhara*) (Āśv. Śrau. 7. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे मघवन् (*he maghavan*)—O Indra, the wealthy
+- सत्यः (*satyaḥ*)—who do true deeds
+- त्वं (*tvaṃ*)—you
+- अनानतः (*anānataḥ*)—although you are not bent, that is, not defeated, by anyone
+- भूरि वृत्राणि (*bhūri vṛtrāṇi*)—many demons
+- न्यृंजसे (*nyṛṃjase*)—you make them subject under your feet
+- हे शविष्ठ (*he śaviṣṭha*)—O most mighty
+- वज्रहस्त (*vajrahasta*)—O bearer of the thunderbolt, Indra
+- सः त्वं (*saḥ tvaṃ*)—such as you are
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- रयिं (*rayiṃ*)—wealth and the like
+- अर्वांचं (*arvāṃcaṃ*)—so that it reaches him, facing him
+- आ कृधि (*ā kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, you who do true deeds, although you are not bent by anyone, you alone make many demons bend to you. O most mighty Indra, bearer of the thunderbolt, such a mighty one as you, make wealth and the like go to and reach the sacrificer who offers you the oblation, facing him.
+
+##### English translation
+You are truthful, Maghavan; unhumbled yourself, you humble many enemies; most mighty thunderer, cause wealth to meet your worshipper.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्र य॒शा अ॑स्यृजी॒षी श॑वसस्पते ।  
+> त्वं वृ॒त्राणि॑ हंस्यप्र॒तीन्येक॒ इदनु॑त्ता चर्षणी॒धृता॑ ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 301. Sukta 89 Rks 4-7
+**Progress note:** Done through printed p. 307. Sukta 90 Rks 1-5 (Saṃhitā of 5)
