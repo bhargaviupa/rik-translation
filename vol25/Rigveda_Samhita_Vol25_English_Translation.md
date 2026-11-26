@@ -21464,6 +21464,225 @@ In former times, wood and the like lying fallen in the forest, if it was put int
 > यदत्त्यु॑प॒जिह्वि॑का॒ यद्व॒म्रो अ॑ति॒सर्प॑ति ।  
 > सर्वं॒ तद॑स्तु ते घृ॒तम् ॥ २१ ॥
 
+### Printed p. 555
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अत्ति । उपऽजिह्विका । यत् । वम्रः । अतिऽसर्पति ।  
+> सर्वम् । तत् । अस्तु । ते । घृतम् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने यत् काष्ठादिकम् उपजिह्विका । उपजिघ्रतीत्युपजिह्विका’ । अत्ति भक्षयति । यत् च काष्ठादिकं वम्रः । वमत्युदकमिति वम्रः । उपजिह्विकावम्रशब्दौ यद्यपि पर्यायौ तथापि पृथगुपादानात् वम्रशब्दस्तद्विशेषे पर्यवस्यति । सोऽपि अतिसर्पति अतिगच्छति । तत् सर्वं ते तव घृतं घृतसदृशम् अस्तु । यथा घृतं तव प्रियकरं भवति तथा प्रियकरं भवत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, whatever wood and the like the उपजिह्विका (*upajihvikā*) eats (अत्ति (*atti*), devours), the word being explained as उपजिघ्रतीत्युपजिह्विका (*upajighratītyupajihvikā*), and whatever wood and the like the वम्रः (*vamraḥ*) (वमत्युदकमिति वम्रः (*vamatyudakamiti vamraḥ*)) creeps over (अतिसर्पति (*atisarpati*), goes over): although the words उपजिह्विका (*upajihvikā*) and वम्र (*vamra*) are synonyms, because they are taken separately the word वम्र (*vamra*) comes to mean a particular kind of that creature. May all that be ghee (घृतं (*ghṛtaṃ*), that is, like ghee) to you. The meaning is: as ghee is pleasing to you, so may it be pleasing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) यत् (*yat*)—whatever wood and the like
+- उपजिह्विका (*upajihvikā*)—insects such as termites **NOTE**
+- अत्ति (*atti*)—have eaten
+- यत् (*yat*)—whatever wood and the like
+- वम्रः (*vamraḥ*)—insects named vamra
+- अतिसर्पति (*atisarpati*)—have bored into
+- तत् सर्वं (*tat sarvaṃ*)—all those particular pieces of wood
+- ते (*te*)—to you
+- घृतं (*ghṛtaṃ*)—pleasing like ghee
+- अस्तु (*astu*)—let them be
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whatever wood and the like termites and other insects have eaten, and whatever wood and the like the insects named vamra have bored into, may all those pieces of wood be as pleasing to you as ghee.
+
+##### English translation
+Whatever timber the ant has gnawed, whatever the emmet has infested,—may it all be welcome to you as ghi.
+
+##### विशेषविषयगळु (Special Topics)
+
+Regarding the words उपजिह्विका (*upajihvikā*) and वम्री (*vamrī*), Yāska has stated the Nirukta in this way:
+
+वम्रीभिरुपजिह्विका इति सीमिकानां । वम्रो वननात् । सीमिका स्यननात् । उपजिह्विका उपजिघ्र्यः । यदत्त्युपजिह्विका यद्वम्रो अतिसर्पति । इत्यपि निगमो भवति ॥ (*vamrībhirupajihvikā iti sīmikānāṃ | vamro vananāt | sīmikā syananāt | upajihvikā upajighryaḥ | yadattyupajihvikā yadvamro atisarpati | ityapi nigamo bhavati ‖*) (Ni. 3—20)
+
+### Printed p. 556
+
+The words वम्री (*vamrī*) and उपजिह्विका (*upajihvikā*) are synonyms indicating सीमिका (*sīmikā*), that is, white ants (emmets, white ants). वम्र्यो वमनात् (*vamryo vamanāt*): the word वम्री (*vamrī*) is formed from the word वमन (*vamana*), which means "to spit out, to vomit". Ants of this kind drink up water, spit it out or vomit it on the earth, and make the earth moist and soft. Therefore white ants are called वम्री (*vamrī*). उपजिह्विकाः (*upajihvikāḥ*) means उपजिघ्र्यः (*upajighryaḥ*): the organs of smell of these ants, with which they sniff, are very keen; by smell alone they know well the nature of things and eat what is fit for them to eat. White ants having such keen organs of smell are called उपजिह्विका (*upajihvikā*). For the word सीमिक (*sīmika*): सीमिकाः स्यमनात् । स्यमंति हि ता नित्यमेव गच्छंति (*sīmikāḥ syamanāt | syamaṃti hi tā nityameva gacchaṃti*). The word सीमिकॆ (*sīmikè*) is formed from the root स्यमंति (*syamaṃti*), which means "go, move about". Because these ants always move about without rest in search of food, or because they spread over trees and the like (trees or articles of wood) for food, these white ants have received the name सीमिक (*sīmika*). In this matter the sentence of the present mantra यदत्र्युपजिह्विका यद्वम्रो अतिसर्पति (*yadatryupajihvikā yadvamro atisarpati*) itself is the example of a śruti sentence: this is the purport of the explanation. **NOTE**
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निमिंधा॑नो॒ मन॑सा॒ धियं॑ सचेत॒ मर्त्यः॑ ।  
+> अ॒ग्निमी॑धे वि॒वस्व॑भिः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निम् । इंधानः । मनसा । धियम् । सचेत । मर्त्यः ।  
+> अग्निम् । ईधे । विवस्वऽभिः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्त्यः मनुष्यः अग्निमिंधानः काष्ठैः प्रज्वलयन् मनसा एव श्रद्दधानः धियं कर्म सचेत काले भजेत । विवस्वभिः ऋत्विग्भिश्च अग्निम् एव ईधे प्रज्वलयति ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+A mortal (मर्त्यः (*martyaḥ*), a man) kindling (इंधानः (*iṃdhānaḥ*)) Agni, making him blaze with wood, should, full of faith with the mind alone (मनसा (*manasā*)), duly resort to (सचेत (*saceta*), in due time practise) the rite (धियं (*dhiyaṃ*)). And he kindles (ईधे (*īdhe*), makes blaze) Agni alone, together with the priests (विवस्वभिः (*vivasvabhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्त्यः (*martyaḥ*)—man
+- अग्निं (*agniṃ*)—Agni
+- इंधानः (*iṃdhānaḥ*)—when he makes him blaze with wood
+- मनसा (*manasā*)—with faith from the heart
+- धियं (*dhiyaṃ*)—that rite
+- सचेत (*saceta*)—he should perform
+
+### Printed p. 557
+
+- विवस्वभिः (*vivasvabhiḥ*)—with the help of wise priests
+- अग्निं (*agniṃ*)—Agni
+- ईधे (*īdhe*)—he must be made to blaze
+
+##### भावार्थ (Bhāvārtha)
+
+When a man makes Agni blaze with wood, he should perform that rite with faith from the heart. With the help of wise priests Agni must be made to blaze.
+
+##### English translation
+Let a man, when he kindles Agni, perform the ceremony with a (devout) mind ; he kindles him with the priests.
+
+## Sūkta 103 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अदर्शि' इति चतुर्दशर्च दशमं सूक्तं काण्वस्य सोभरेरार्षम् । अत्रानुक्रम्यते--’ अदर्शि षळूना सोभरिर्बार्हतं पंचम्याद्ययुजः सतोबृहत्योऽष्टम्यादियुजः ककुब्गायत्री ककुबनुष्टुबंत्याग्निमारुती  इति । पंचमीसप्तमीनवम्येकादशीत्रयोदश्यः पंच सतोबृहत्यः । अष्टमीद्वादश्यौ ककुभौ दशमी गायत्री चतुर्दश्यनुष्टुप् । शिष्टा बृहत्यः । ‘आग्नेयं तु ' इत्युक्तत्वादग्निर्देवता । अंत्यायास्त्वग्निर्मरुतश्च । प्रातरनुवाकस्याग्नेये क्रतौ बार्हते छंदस्यादितः सप्तर्चः । सूत्रितं च -- अदर्शि गातुवित्तम इति सप्तेति बार्हतम्' (आश्व. श्रौ. ४. १३)। आभिप्लविकेषूक्थ्येषु मैत्रावरुणस्य ‘प्र मंहिष्ठाय' इति वैकल्पिकः स्तोत्रियस्तृचः । सूत्रितं च--- प्र मंहिष्ठाय गायत प्र सो अग्ने तवोतिभिः ' ( आश्व. श्रौ. ७. ८) इति । अध्यायोपाकरणोत्सर्जनयोर्मंडलांत्यहोमे ‘ आग्ने याहि' इत्येषा । सूत्रितं च---' मा चिदाग्ने याहि मरुत्सखा यत्ते राजन्नग्ने' ( आश्व. गृ. ३. ५, ७) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अदर्शि (*adarśi*), of fourteen Ṛks, is the tenth sūkta; its seer is Sobhari of the Kaṇva line. The Anukramaṇī says of it: अदर्शि षळूना सोभरिर्बार्हतं पंचम्याद्ययुजः सतोबृहत्योऽष्टम्यादियुजः ककुब्गायत्री ककुबनुष्टुबंत्याग्निमारुती (*adarśi ṣaḷūnā sobharirbārhataṃ paṃcamyādyayujaḥ satobṛhatyo 'ṣṭamyādiyujaḥ kakubgāyatrī kakubanuṣṭubaṃtyāgnimārutī*). The fifth, seventh, ninth, eleventh and thirteenth are five Satobṛhatī Ṛks; the eighth and twelfth are Kakubh; the tenth is Gāyatrī; the fourteenth is Anuṣṭubh; the rest are Bṛhatī. Because it has been said आग्नेयं तु (*āgneyaṃ tu*), Agni is the deity; of the last Ṛk, Agni and the Maruts. For the Prātaranuvāka in the Āgneya rite, in the Bārhata metre, the first seven Ṛks are used; it is laid down in a sūtra: अदर्शि गातुवित्तम इति सप्तेति बार्हतम् (*adarśi gātuvittama iti sapteti bārhatam*) (Āśvalāyana Śrauta Sūtra 4. 13). In the Ukthya days of the Ābhiplavika, प्र मंहिष्ठाय (*pra maṃhiṣṭhāya*) is the optional stotriya triplet of the Maitrāvaruṇa; it is laid down in a sūtra: प्र मंहिष्ठाय गायत प्र सो अग्ने तवोतिभिः (*pra maṃhiṣṭhāya gāyata pra so agne tavotibhiḥ*) (Āśvalāyana Śrauta Sūtra 7. 8). In the closing homa of the maṇḍala at the Adhyāyopākaraṇa and Utsarjana, the Ṛk आग्ने याहि (*āgne yāhi*) is used; it is laid down in a sūtra: मा चिदाग्ने याहि मरुत्सखा यत्ते राजन्नग्ने (*mā cidāgne yāhi marutsakhā yatte rājannagne*) (Āśvalāyana Gṛhya Sūtra 3. 5, 7). **NOTE**
+
+Anuvāda: This sūkta beginning अदर्शि (*adarśi*) is the tenth sūkta in the tenth Anuvāka. It has fourteen Ṛks. The seer of this sūkta is the one named Sobhari Kāṇva; he has said in the Anukramaṇī: अदर्शि षळूना सोभरिर्बार्हतं पंचव्याद्ययुजः सतोबृहत्योऽष्टम्यादियुजः ककुब्गायत्री ककुबनुष्टुबृत्याग्निमारुती (*adarśi ṣaḷūnā sobharirbārhataṃ paṃcavyādyayujaḥ satobṛhatyo 'ṣṭamyādiyujaḥ kakubgāyatrī kakubanuṣṭubṛtyāgnimārutī*). Of this sūkta the fifth, seventh, ninth, eleventh and thirteenth Ṛks (five Ṛks) are in the Satobṛhatī metre; the two Ṛks, the eighth and the twelfth, are in the Kakup metre. The tenth Ṛk is in the Gāyatrī metre. The fourteenth is in the Anuṣṭup metre; the remaining Ṛks are in the Bṛhatī metre. Agni is the deity; for the last Ṛk Agni and the Maruts are the deity. At the time of reciting the Prātaranuvāka mantras, the first seven Ṛks of this sūkta are employed for the Ṛks in the Bṛhatī metre connected with the Āgneya
+
+### Printed p. 558
+
+rite; this is explained by the sūtra अदर्शि गातुवित्तम इति सप्तेति बार्हतं (*adarśi gātuvittama iti sapteti bārhataṃ*) of the Āśvalāyana Śrauta Sūtra (Ā. 4-13). In the Ukthya sacrifices connected with the Abhiplava, the priest called Maitrāvaruṇa is to recite the three Ṛks (Ṛks 8-10) beginning प्र मंहिष्ठाय (*pra maṃhiṣṭhāya*) as the optional stotriya triplet; this is explained by the sūtra प्र मंहिष्ठाय गायत प्र सो अग्ने तवोतिभिः (*pra maṃhiṣṭhāya gāyata pra so agne tavotibhiḥ*) of the Āśvalāyana Śrauta Sūtra (Ā. 7-8). And in the principal homa of the Adhyāyopākaraṇa and Utsarjana rites, for the Ṛks at the end of the maṇḍala, the last Ṛk of this sūkta (the 13th Ṛk) beginning आग्ने याहि (*āgne yāhi*) is to be recited and the homa performed; this is explained by the sūtra मा चिदाग्ने याहि मरुत्सखा यत्ते राजन्नग्ने (*mā cidāgne yāhi marutsakhā yatte rājannagne*) of the Āśvalāyana Gṛhya Sūtra (Ā. Gṛ. 3.5-7). **NOTE**
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 10; Sūkta 103. Aṣṭaka 6; Adhyāya 7; Varga 13, 14, 15. Number of Ṛks in the sūkta: 14.
+
+Seer: Sobhariḥ Kāṇvaḥ.
+
+Deity: 1-13, Agniḥ; 14, Agnir Marutaś ca.
+
+Metre: 1-4, 6, Bṛhatī; 5, Virāḍrūpā; 7, 9, 11, 13, Satobṛhatī; 8, 12, Kakup; 10, Prasīyasī; 14, Anuṣṭup. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद॑र्शि गातु॒वित्त॑मो॒ यस्मि॑न्व्र॒तान्या॑द॒धुः ।  
+> उपो॒ षु जा॒तमार्य॑स्य॒ वर्ध॑नम॒ग्निं न॑क्षंत नो॒ गिरः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अदर्शि । गातुवित्ऽतमः । यस्मिन् । व्रतानि । आऽदधुः ।  
+> उपो इति । सु । जातम् । आर्यस्य । वर्धनम् । अग्निम् । नक्षंत । नः । गिरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मिन् अग्नौ व्रतानि कर्माणि आदधुः यजमाना आदधन् गातुवित्तमः अतिशयेन मार्गाणां ज्ञाता सोऽग्निः अदर्शि प्रादुरभूत् । किंच सु जातं सम्यक् प्रादुर्भूतम् अस्य आर्यस्य उत्तमवर्णस्य वर्धनं वर्धयितारम् अग्निं नः अस्माकं गिरः स्तुतिरूपा वाचः उपो नक्षंत उपगच्छंत्येव ॥  नक्ष गतौ ' इति धातुः ॥
+
+##### Gist of the bhāṣya
+
+The Agni in whom the sacrificers deposit the rites (व्रतानि (*vratāni*), that is, works), the best knower of paths (गातुवित्तमः (*gātuvittamaḥ*)), has appeared (अदर्शि (*adarśi*), has come to view). Further, to that Agni, well born (सु जातं (*su jātaṃ*), well manifested), the promoter (वर्धनं (*vardhanaṃ*), the one who makes grow) of this Ārya (आर्यस्य (*āryasya*), one of the highest class), our praises (गिरः (*giraḥ*), words in the form of eulogy) go near (उपो नक्षंत (*upo nakṣaṃta*), approach indeed).
+
+### Printed p. 559
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in which Agni
+- व्रतानि (*vratāni*)—all the rites
+- आदधुः (*ādadhuḥ*)—the sacrificers and others offer
+- गातुवित्तमः (*gātuvittamaḥ*)—that same Agni who knows all good paths
+- अदर्शि (*adarśi*)—has become manifest (has shown himself to us)
+- सुजातं (*sujātaṃ*)—who has an excellent birth
+- आर्यस्य (*āryasya*)—for the Ārya people
+- वर्धनं (*vardhanaṃ*)—who brings about increase
+- अग्निं (*agniṃ*)—Agni
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words in the form of praise
+- उप्रो नक्षंत (*upro nakṣaṃta*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+The same Agni, in whom the sacrificers and others offer all the rites and who knows all good paths, has shown himself to us. Our words in the form of praise approach Agni, who has an excellent birth and brings about increase for the Ārya people.
+
+##### English translation
+He, in whom they offer the sacrifices, has appeared,—he who knows all ways ; our praises rise to Agni, auspiciously born, the helper of the Arya.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र दैवो॑दासो अ॒ग्निर्दे॒वाँ अच्छा॒ न म॒ज्मना॑ ।  
+> अनु॑ मा॒तरं॑ पृथि॒वीं वि वा॑वृते त॒स्थौ नाक॑स्य॒ सान॑वि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । दैवःऽदासः । अग्निः । देवान् । अच्छ । न । मज्मना ।  
+> अनु । मातरम् । पृथिवीम् । वि । ववृते । तस्थौ । नाकस्य । सानवि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दैवोदासः दिवोदासेनाहूयमानः अग्निः मातरम् । सर्वस्य लोकस्य धारणवत्त्वात् पृथिवी माता । तां पृथिवीम् अच्छ प्रति देवान् तस्य दिवोदासस्य यज्ञे देवान् अनु प्रति हविर्वोढुं न प्र वि वावृते । यस्मादेनमग्निं दिवोदासः मज्मना बलेन आजुहाव तस्मादयमग्निः नाकस्य स्वर्गस्य सानवि समुच्छ्रिते देशे स्वायतन एव तस्थौ अतिष्ठत् ॥
+
+##### Gist of the bhāṣya
+
+Agni, called by Divodāsa (दैवोदासः (*daivodāsaḥ*)), did not (न प्र वि वावृते (*na pra vi vāvṛte*)) turn to the mother (मातरम् (*mātaram*)); the earth is the mother because she supports the whole world. He did not turn towards that earth (अच्छ प्रति (*accha prati*)) after the gods (देवान् अनु (*devān anu*)), that is, to carry the oblation to the gods at that Divodāsa's sacrifice. Because Divodāsa invoked this Agni with might (मज्मना (*majmanā*), with strength), therefore this Agni stood (तस्थौ (*tasthau*)) in his own abode, on the elevated place (सानवि (*sānavi*)) of heaven (नाकस्य (*nākasya*)).
+
+### Printed p. 560
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दैवोदासः (*daivodāsaḥ*)—called by Divodāsa
+- अग्निः (*agniḥ*)—Agni
+- मातरं (*mātaraṃ*)—who is the mother of the whole world
+- पृथिवीं अच्छ (*pṛthivīṃ accha*)—on behalf of the earth
+- देवान् अनु (*devān anu*)—to carry the oblation to the gods
+- न प्र वि वावृते (*na pra vi vāvṛte*)—did not turn back
+- मज्मना (*majmanā*)—because Divodāsa called him by the exercise of his strength
+- नाकस्य (*nākasya*)—of heaven
+- सानवि (*sānavi*)—on the slope
+- तस्थौ (*tasthau*)—he remained standing
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, called by Divodāsa, on behalf of the earth, who is the mother of the whole world, went to carry the oblation to the gods and did not turn back. Because Divodāsa called him by the exercise of his strength, he remained standing on the slope of heaven itself.
+
+##### English translation
+Agni, when invoked by Divodasa, ran along the mother Earth as with might, towards the gods ; he took his place in the height of heaven.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्मा॒द्रेजं॑त कृ॒ष्टय॑श्च॒र्कृत्या॑नि कृण्व॒तः ।  
+> स॒ह॒स्र॒सां मे॒धसा॑ताविव॒ त्मना॒ग्निं धी॒भिः स॑पर्यत ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्मात् । रेजंत । कृष्टयः । चर्कृत्यानि । कृण्वतः ।  
+> सहस्रऽसाम् । मेधसातौऽइव । त्मना । अग्निम् । धीभिः । सपर्यत ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्मात् कारणात् चर्कृत्यानि कर्तव्यानि कर्माणि कृण्वतः कुर्वाणात् मनुष्यात् कृष्टयः इतरे मनुष्याः रेजंते कंपंते तस्मादिदानीं हे जनाः यूयं सहस्रसां गवां धनानां च सहस्रस्य दातारम् अग्निं मेधसातौ यज्ञे धीभिः कर्तव्यैः कर्मभिः त्मना आत्मनैव सपर्यत परिचरत ॥
+
+##### Gist of the bhāṣya
+
+Because of whom, when a man performs the works that are to be performed (चर्कृत्यानि (*carkṛtyāni*)), the other men (कृष्टयः (*kṛṣṭayaḥ*)) tremble (रेजंते (*rejaṃte*)), therefore now, O people, you should serve (सपर्यत (*saparyata*), wait upon) with your own rites (धीभिः (*dhībhiḥ*), the works to be performed), by yourselves (त्मना (*tmanā*)), at the sacrifice (मेधसातौ (*medhasātau*)), Agni, the giver of a thousand (सहस्रसां (*sahasrasāṃ*)), that is, of a thousand cows and of wealth.
+
 ---
 
-**Progress note:** Done through printed p. 554. Sukta 102 Rk 15-21 (Mandala 8), pp. 549-554
+**Progress note:** Done through printed p. 560. Rk 21-22 of Sukta 102, Sukta 103 intro and Rk 1-3 (Mandala 8), pp. 555-560
