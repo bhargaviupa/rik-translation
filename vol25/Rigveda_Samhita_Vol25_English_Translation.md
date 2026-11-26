@@ -21200,6 +21200,270 @@ In that Agni, for whose worship the darbha seats have been placed, which have th
 ##### English translation
 The waters find their place in him, for whom the triple-jointed grass is spread unlimited and untied (in the sacrifice).
 
+### Printed p. 549
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒दं दे॒वस्य॑ मी॒ळ्हुषोऽना॑धृष्टाभिरू॒तिभिः॑ ।  
+> भ॒द्रा सूर्य॑ इवोप॒दृक् ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पदम् । देवस्य । मीळ्हुषः । अनाधृष्टाभिः । ऊतिऽभिः ।  
+> भद्रा । सूर्यःऽइव । उपऽदृक् ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मीळ्हुषः कामानां सेक्तुः देवस्य द्योतमानस्याग्नेः पदं स्थानम् अनाधृष्टाभिः शत्रुभिः अनाधृष्टाभिः ऊतिभिः रक्षाभिर्भजनीयं भवतीत्यर्थः । तथैवास्य उपदृक् उपद्दष्टिरपि सूर्यइव यथा सूर्यस्तद्वत् 'भद्रा मनुष्यैर्भजनीया भवति ॥ ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+The place (पदं (*padaṃ*), that is, the abode) of the god (देवस्य (*devasya*)), the shining Agni, the showerer of desires (मीळ्हुषः (*mīḷhuṣaḥ*)), is one to be resorted to with unassailable (अनाधृष्टाभिः (*anādhṛṣṭābhiḥ*), by enemies) protections (ऊतिभिः (*ūtibhiḥ*)). In the same way his appearance (उपदृक् (*upadṛk*)) too, like the sun, is auspicious (भद्रा (*bhadrā*)), to be resorted to by men. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मीळ्हुषः (*mīḷhuṣaḥ*)—the bestower of what is desired
+- देवस्य (*devasya*)—and radiant Agni's
+- पदं (*padaṃ*)—place
+- अनाधृष्टाभिः (*anādhṛṣṭābhiḥ*)—unassailed by enemies
+- ऊतिभिः (*ūtibhiḥ*)—is endowed with protections
+- उपदृक् (*upadṛk*)—this Agni's divine form also
+- सूर्य इव (*sūrya iva*)—like the sun
+- भद्रा (*bhadrā*)—is worthy of the worship of men
+
+##### भावार्थ (Bhāvārtha)
+
+The place of the bestower of what is desired, the radiant Agni, is endowed with protections unassailed by enemies. The divine form of this Agni also, like the sun, is worthy of the worship of men.
+
+##### English translation
+Auspicious is the place of the god who pours forth all desires with inviolable protections ; auspicious is his appearance like the Sun's-
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॑ घृ॒तस्य॑ धी॒तिभि॑स्तेपा॒नो दे॑व शो॒चिषा॑ ।  
+> आ दे॒वान्व॑क्षि॒ यक्षि॑ च ॥ १६ ॥
+
+### Printed p. 550
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । घृतस्य । धीतिऽभिः । तेपानः । देव । शोचिषा ।  
+> आ । देवान् । वक्षि । यक्षि । च ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान अग्ने घृतस्य दीप्तिसाधनस्याज्यस्य धीतिभिः निधानैः तेपानः तपन् शोचिषा ज्वालया देवान् प्रति आ वक्षि आवह यक्षि यज च ॥
+
+##### Gist of the bhāṣya
+
+O shining Agni, heated (तेपानः (*tepānaḥ*), that is, blazing) by the depositings (धीतिभिः (*dhītibhiḥ*), निधानैः (*nidhānaiḥ*)) of ghee (घृतस्य (*ghṛtasya*)), the means of kindling, convey (आ वक्षि (*ā vakṣi*), glossed आवह (*āvaha*)) with your flame (शोचिषा (*śociṣā*)) to the gods, and sacrifice (यक्षि (*yakṣi*), glossed यज (*yaja*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O radiant one
+- अग्ने (*agne*)—O Agni
+- घृतस्य (*ghṛtasya*)—of the ghee, the means of radiance
+- धीतिभिः (*dhītibhiḥ*)—by the offerings
+- तेपानः (*tepānaḥ*)—blazing
+- शोचिषा (*śociṣā*)—by means of your flames
+- देवान् (*devān*)—to the gods
+- आ वक्षि (*ā vakṣi*)—take our oblations and offer them
+- यक्षि च (*yakṣi ca*)—and worship them
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Agni, blazing with the offerings of ghee, the means of radiance, take our oblations through your flames to the gods and offer them. Worship them.
+
+##### English translation
+Divine Agni, blazing with radiance, through our oblations of ghi, bear (our sacrifice) to the gods and offer it.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑जनंत मा॒तरः॑ क॒विं दे॒वासो॑ अंगिरः ।  
+> ह॒व्य॒वाह॒मम॑र्त्यम् ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । अजनंत । मातरः । कविम् । देवासः । अंगिरः ।  
+> हव्यऽवाहम् । अमर्त्यम् ॥ १७ ॥
+
+### Printed p. 551
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरः अग्ने कविं क्रांतकर्माणम् अमर्त्यं मरणरहितं हव्यवाहं हविषां वोढारं तं प्रसिद्धं त्वा त्वां देवासः देवाः मातरः इव अजनंत जनयंति ।
+
+##### Gist of the bhāṣya
+
+O Angiras (अंगिरः (*aṃgiraḥ*)) Agni, you who are the seer (कविं (*kaviṃ*), one of far-reaching works), immortal (अमर्त्यं (*amartyaṃ*), free from death), and the bearer of oblations (हव्यवाहं (*havyavāhaṃ*), the carrier of oblations), the renowned one: the gods (देवासः (*devāsaḥ*)) have begotten (अजनंत (*ajanaṃta*)) you like mothers (मातरः (*mātaraḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—O Agni named Angiras
+- कविं (*kaviṃ*)—who has wise action
+- अमर्त्यं (*amartyaṃ*)—free from death
+- हव्यवाहं (*havyavāhaṃ*)—who carries the oblation to the gods
+- तं (*taṃ*)—and renowned
+- त्वा (*tvā*)—you
+- देवासः (*devāsaḥ*)—the gods
+- मातर इव (*mātara iva*)—like mothers
+- अजनंत (*ajanaṃta*)—have brought forth
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni named Angiras, you who have wise action, are free from death, carry the oblation to the gods and are renowned: the gods have brought you forth like mothers.
+
+##### English translation
+The gods, as mothers, have borne you Angiras, the seer, the immortal, the bearer of the oblation.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रचे॑तसं त्वा क॒वेऽग्ने॑ दू॒तं वरे॑ण्यम् ।  
+> ह॒व्य॒वाहं॒ नि षे॑दिरे ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽचेतसम् । त्वा । कवे । अग्ने । दूतम् । वरेण्यम् ।  
+> हव्यऽवाहम् । नि । सेदिरे ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतकर्मन् अग्ने प्रचेतसं प्रकृष्टबुद्धिं वरेण्यं वरणीयं दूतं देवानां हव्यवाहं हविषां वोढारं त्वा त्वां नि षेदिरे देवा निषीदंति ।
+
+##### Gist of the bhāṣya
+
+O seer (कवे (*kave*), one of far-reaching works) Agni, you are of excellent understanding (प्रचेतसं (*pracetasaṃ*)), to be chosen (वरेण्यं (*vareṇyaṃ*)), the messenger (दूतं (*dūtaṃ*)) of the gods, the bearer of oblations (हव्यवाहं (*havyavāhaṃ*)): the gods sit down (नि षेदिरे (*ni ṣedire*), glossed निषीदंति (*niṣīdaṃti*)) by you. **NOTE**
+
+### Printed p. 552
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—who has action endowed with wisdom
+- अग्ने (*agne*)—O Agni
+- प्रचेतसं (*pracetasaṃ*)—who has excellent understanding
+- वरेण्यं (*vareṇyaṃ*)—who is worthy of worship
+- दूतं (*dūtaṃ*)—the messenger of the gods
+- हव्यवाहं (*havyavāhaṃ*)—and the bearer of the oblation
+- त्वा (*tvā*)—you
+- नि षेदिरे (*ni ṣedire*)—they have caused to sit on the seat
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose action is endowed with wisdom, you who have excellent understanding, are worthy of worship, are the messenger of the gods and the bearer of the oblation: they have caused you to sit on the seat.
+
+##### English translation
+The gods seat you in your place, O wise Agni, the seer, the messenger the most excellent, the bearer of the oblation.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि मे॒ अस्त्यघ्न्या॒ न स्वधि॑ति॒र्वन॑न्वति ।  
+> अथै॑ता॒दृग्भ॑रामि ते ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । मे । अस्ति । अघ्न्या । न । स्वऽधितिः । वनन्ऽवति ।  
+> अथ । एतादृक् । भरामि । ते ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने मे मम भार्गवस्य प्रयोगस्यर्षेः अघ्न्या गौः । ‘अघ्न्या उस्रा' इति गोनामसु पाठात् । नहि अस्ति न विद्यते यस्याः पयसा आज्येन च त्वां यजेय। किंच स्वधितिः नहि वनन्वति काष्ठानि हंति यैः काष्ठैस्त्वां समिंधीय' । अथैतादृक् अग्निहोत्रार्थं पयसो दोग्ध्रीं गाम् इंधनसाधनानि काष्ठानि चैतत्सर्वं ते तुभ्यमहं भरामि ॥
+
+##### Gist of the bhāṣya
+
+O Agni, I, the seer Prayoga of the Bhṛgu line, have no cow (अघ्न्या (*aghnyā*); the word is read among the names of the cow, अघ्न्या उस्रा (*aghnyā usrā*)) by whose milk and ghee I might sacrifice to you. Moreover there is no axe (स्वधितिः (*svadhitiḥ*)) to cut the wood (वनन्वति (*vananvati*)) with which I might kindle you. Yet, for the Agnihotra, the cow that yields milk and the pieces of wood that are the means of fuel, all this I bring to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) मे (*me*)—with me
+- अघ्न्या (*aghnyā*)—a cow that supplies milk and the like for worship
+- नहि अस्ति (*nahi asti*)—there is none at all
+- वनस्वति (*vanasvati*)—a means of cutting trees and the like for fuel-sticks **NOTE**
+- स्वधितिः (*svadhitiḥ*)—not even an axe is with me **NOTE**
+
+### Printed p. 553
+
+- अथ (*atha*)—yet
+- एतादृक् (*etādṛk*)—the milk of the cow and the pieces of wood that are the means of fuel
+- ते (*te*)—to you
+- भरामि (*bharāmi*)—I bring and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, I have no cow that supplies milk and the like for worship. I have not even an axe, a means of cutting trees and the like for fuel-sticks. Yet I bring and offer to you the milk of the cow and the pieces of wood that are the means of fuel.
+
+##### English translation
+No cow is mine, and no axe is at hand to cleave wood, but yet I bring both these to you,
+
+##### विशेषविषयगळु (Special Topics)
+
+See the Special Topics of the next Ṛk.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॑ग्ने॒ कानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑ ।  
+> ता जु॑षस्व यविष्ठ्य ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अग्ने । कानि । कानि । चित् । आ । ते । दारूणि । दध्मसि ।  
+> ता । जुषस्व । यविष्ठ्य ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वस्यामृच्युक्तस्यैवार्थस्य विवरणमत्र । हे यविष्ठ्य युवतम अग्ने तुभ्यं यत् यदा कानि कानि चित यानि कान्यपि दारूणि काष्ठानि आ दध्मसि आधारयामि तदा ता तानि अपरशुवृक्णान्यपि जुषस्व सेवस्व । तथा च यजुर्ब्राह्मणं- न ह स्म वै पुराग्निरपरशुवृक्णं दहति तदस्मै प्रयोग एवर्षिरस्वदयद्यदग्ने यानि कानि चेति समिधमा दधात्यपरशुवृक्णमेवास्मै स्वदयति सर्वमस्मै स्वदते' (तै. सं. ५. १. १०. १) इति ॥
+
+##### Gist of the bhāṣya
+
+Here the meaning stated in the previous Ṛk is set out further. O youngest (यविष्ठ्य (*yaviṣṭhya*), that is, most youthful) Agni, whenever we put on you (आ दध्मसि (*ā dadhmasi*), glossed आधारयामि (*ādhārayāmi*)) any kinds of pieces of wood (कानि कानि चित (*kāni kāni cita*), दारूणि काष्ठानि (*dārūṇi kāṣṭhāni*)), accept them (जुषस्व (*juṣasva*), glossed सेवस्व (*sevasva*)) even though they are not cut with an axe (अपरशुवृक्णान्यपि (*aparaśuvṛkṇānyapi*)). Thus the Yajur-Brāhmaṇa: न ह स्म वै पुराग्निरपरशुवृक्णं दहति तदस्मै प्रयोग एवर्षिरस्वदयद्यदग्ने यानि कानि चेति समिधमा दधात्यपरशुवृक्णमेवास्मै स्वदयति सर्वमस्मै स्वदते (*na ha sma vai purāgniraparaśuvṛkṇaṃ dahati tadasmai prayoga evarṣirasvadayadyadagne yāni kāni ceti samidhamā dadhātyaparaśuvṛkṇamevāsmai svadayati sarvamasmai svadate*) (Tai. Saṃ. 5. 1. 10. 1).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ्य (*yaviṣṭhya*)—O most youthful
+- अग्ने (*agne*)—O Agni
+- यत् (*yat*)—when
+- कानि कानि चित् (*kāni kāni cit*)—of whatever kinds
+- दारूणि (*dārūṇi*)—pieces of wood
+- ते (*te*)—to you
+- आ दध्मसि (*ā dadhmasi*)—we bring and offer
+- ता (*tā*)—all those
+- जुषस्व (*juṣasva*)—partake of
+
+### Printed p. 554
+
+##### भावार्थ (Bhāvārtha)
+
+O most youthful Agni, whatever kinds of pieces of wood we bring and offer to you, partake of them all.
+
+##### English translation
+Most youthful ( Agni ), when we offer any kinds of timber to you, you accept them all.
+
+##### विशेषविषयगळु (Special Topics)
+
+The seer of this sūkta, called Prayoga, because he is exceedingly poor, has no cows that are a means of the sacrifice; that is, he has not the cows needed to supply milk, ājya and ghee for the sacrifice. He expresses his poverty by saying that he has no axe either with which to cut and bring the pieces of wood and the like that are needed to make Agni blaze well. He begs Agni to be satisfied with the oblation substances and the wood that he is able to offer, and to partake of them. In this matter the commentator has cited the present Ṛk itself and mentioned the Yajur-Brāhmaṇa passage concerning it:
+
+न ह स्म वै पुराग्निरपरशुवृक्णं दहति तदस्मै प्रयोग एवर्षिरस्वदयद्यदग्नेनि कानि चेति समिधमाात्यपरशुवृक्णमेवास्मै स्वदयति सर्वमस्मै स्वदते (*na ha sma vai purāgniraparaśuvṛkṇaṃ dahati tadasmai prayoga evarṣirasvadayadyadagneni kāni ceti samidhamāātyaparaśuvṛkṇamevāsmai svadayati sarvamasmai svadate*) (Trai. Saṃ. 5-1-10-1) **NOTE**
+
+In former times, wood and the like lying fallen in the forest, if it was put into the sacrificial fire without being cut with an axe, was not burnt by Agni **NOTE**. But the seer called Prayoga prayed that, since he had no axe for cutting wood, Agni should regard the wood not cut with an axe as the ghee dear to him, accept it and burn it; and Agni, granting the seer's prayer, burnt the wood that he offered. This earlier story is told in this context.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यदत्त्यु॑प॒जिह्वि॑का॒ यद्व॒म्रो अ॑ति॒सर्प॑ति ।  
+> सर्वं॒ तद॑स्तु ते घृ॒तम् ॥ २१ ॥
+
 ---
 
-**Progress note:** Done through printed p. 548. Sukta 102 Rk 8-14 (Mandala 8), pp. 543-548
+**Progress note:** Done through printed p. 554. Sukta 102 Rk 15-21 (Mandala 8), pp. 549-554
