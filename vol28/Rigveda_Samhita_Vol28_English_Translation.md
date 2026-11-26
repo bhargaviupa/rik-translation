@@ -5725,6 +5725,63 @@ Yajiṣī: for this word Yāska gives the following explanation:
 
 After the soma plant has been crushed with stones and the soma juice drawn off, the juiceless, husk-like substance that remains is called ṛjīṣa. This ṛjīṣa is thrown away as useless. On some occasions such ṛjīṣa is soaked in water and a little more juice is pressed and drawn from it. Such soma juice is called ṛjīṣaḥ somaḥ. At the third pressing, flour and other āśira substances are mixed with such ṛjīṣa-soma and offered to Indra. Because Indra drinks this ṛjīṣa-soma, it has become customary to call Indra by the very word ṛjīṣī. Besides, it is well known that Indra's horses, called Hari, eat the husks of these soma plants called ṛjīṣa. On this matter Yāska, by way of example, cites the Śruti sentence बद्धांते हरीधाना उप ऋजीषं जिघ्रतां (*baddhāṃte harīdhānā upa ṛjīṣaṃ jighratāṃ*). The meaning of the sentence above is: "O Indra, let your horses eat grain and smell this ṛjīṣa."
 
+### Printed p. 176
+What is the Ṛjīṣa? Why does it have this name? What is its use in the sacrifice? These and similar matters are examined here closely, as stated in the Aitareya Brāhmaṇa and the Taittirīya Saṃhitā.
+
+(Ai. Brā. 13-25)
+
+In former times King Soma (the soma plant; it is customary to call the soma plant "King Soma" out of respect) was in heaven. It was not in this world. Knowing this, the gods and the seers considered how this Soma might be brought here. Having deliberated, they concluded that the metres had the power to bring Soma from heaven to earth. They addressed the metres: "O metres, for our sake, that is, for use in our sacrifice, bring to earth the Soma that is in heaven." The metres accepted the prayer, took the forms of certain well-known birds and flew up to heaven. First the Jagatī metre took bird form and flew toward heaven. But after going a short distance it tired, could not reach heaven, and turned back. Then the Triṣṭubh metre said that it would bring Soma and leapt up into the atmosphere. But after going a little beyond half the way it grew weary and turned back. The gods saw that Jagatī and Triṣṭubh had come back unable to bring Soma, so they went to the Gāyatrī metre and prayed: "O Gāyatrī, bring us Soma from heaven." Gāyatrī agreed, took the form of a falcon, flew to heaven, frightened Sthāna, Bhrāja and the other guardians of Soma there, seized Soma and carried it to earth. Because she brought the soma plant, Gāyatrī gained the foremost place among the metres.
+
+### Printed p. 177
+(Ai. Brā. 13-26)
+
+When bringing the soma plants the falcon carried them bound with both its feet and its beak. The Soma (or soma plant) that the bird brought holding it with its right foot became the morning pressing. Gāyatrī made it, the morning pressing, her own abode. Therefore among all the pressings the morning pressing is held by the sacrificers to be the best. In that morning rite the application of mantras and the like is also special. Hence the man who knows this well is regarded as the best and chief among his equals. When Gāyatrī brought Soma holding it with the left foot, the left foot not having as much strength as the right, the plant kept slipping a little from the foot from time to time. For this reason the midday pressing did not become equal to the morning pressing in strength and power. Seeing this, the gods deliberated and established the Triṣṭubh metre, and Indra, the best of the gods, for the metres used in the midday pressing. Through the company of Indra, the best of the gods, and of Triṣṭubh, dear to him, the midday pressing gained a place equal to the morning pressing in strength, power and excellence. The man who knows this equality, strength and excellence of the morning and midday pressings obtains prosperity in wealth and the like, and well-being, and is happy. Then the portion of Soma that Gāyatrī, in falcon form, bit off with her beak and brought became known as the third pressing.
+
+(Ai. Brā. 13-27)
+
+While Gāyatrī (the falcon) was coming, biting the soma plant with her beak, she drank the sap in the plant little by little. Therefore, since the plants brought in the beak had little sap and not much, this third pressing did not become equal to the morning and midday pressings in strength, power and the like. The gods saw this, deliberated, and found that the suitable means lay in cattle. From cattle come milk, curds, and the oblation materials such as ghee (ājya) obtained from them. If milk is mixed with the soma juice, which is scanty in the plants, that juice becomes strong. By offering oblations with ghee and with parts of the animals the pressing rite becomes complete.
+
+### Printed p. 178
+Therefore those who know the sacrificial rite add milk and the other āśira substances to the juice of the Ṛjīṣa used in the third pressing (the husks of the soma plant left after the juice has been taken in the morning and midday pressings are called Ṛjīṣa), and make oblations with the ghee obtained from cattle and with the heart and other limbs of cattle; knowing that by this the third pressing becomes equal to the morning and midday pressings in strength, power and the like, they act accordingly. The same matter is stated in another śākhā as follows.
+
+(Tai. Saṃ. 6-1-6-4)
+
+Thus the same idea is stated in the Taittirīya Saṃhitā. Whoever knows this matter, that the three pressings, morning, midday and third, have gained an equal place in strength, power and excellence, is endowed with every prosperity and is happy.
+
+**How Indra and Vāyu obtained the first drink of Soma**
+
+In the Ṛk beginning अग्रं पिबा मधूनां (*agraṃ pibā madhūnāṃ*) (Ṛ. Saṃ. 4-46-1) it is said that Vāyu, rather than Indra and the other gods, is first entitled to drink Soma. In support of this, the Ṛk
+
+(Ṛ. Saṃ. 7-92-1)
+
+is cited, and it indicates that the seer there prays that Vāyu should drink Soma first. How Vāyu obtained the foremost place among the gods in drinking Soma is the subject of an old story in the Aitareya Brāhmaṇa. We set it out here.
+
+### Printed p. 179
+(Ai. Brā. 9-25)
+
+In former times all the gods wished to drink Soma together, and a dispute arose among them as to who should drink Soma first; each began to argue that he should drink first. Since the matter could not be settled in any way, they all conferred and came to an agreement: "Let us all arrange a contest. Whoever wins in it shall be entitled to drink Soma first." All agreed, and the contest was fixed thus: those who ran from one place to another, a distant one, and first reached a rock or a tree there, were to be regarded as winners. All agreed that the winner should be victorious among them and drink Soma first, and all the gods began to run at the same time. Of all the running gods Vāyu reached the appointed place ahead of everyone. Indra came right behind Vāyu and was second. After Indra, Mitra and Varuṇa, and after them the Aśvin gods, ran in and reached the appointed place. Therefore among these gods Vāyu ran ahead of all and was the victor.
+
+While Vāyu, and Indra behind him, were running, this conversation took place between them. Indra, behind him, saw Vāyu running swiftly and resolved: "This Vāyu will run ahead of all and be victor. Somehow I must run with him and win." Using all his strength he ran close to Vāyu. Yet there was no sign of leaving Vāyu behind and going ahead, so Indra said to Vāyu: "O Vāyu, we two are ahead of everyone. So let us regard ourselves both as winners and share the first drink of Soma between us, half for me, half for you. Thus let us both cooperate and gain the victory." Hearing this Vāyu said: "O Indra, I am ahead of you, if only a little. So I alone shall be the winner. Everything in the first drink of Soma must come to me. I cannot give you half." Then Indra said: "Very well, I do not want half. Take two of three parts, and give me only one part." Vāyu did not agree to this: "In any case I shall win. The whole share will be mine; I do not wish to give you even one part in three." Then Indra again prayed to Vāyu: "I do not want even a third; give me still less, that is, one part in four; that will do. Agree at least to that." Vāyu agreed and said it should be so.
+
+### Printed p. 180
+Therefore in the Aindravāyava graha (that is, when Indra and Vāyu drink Soma together) it was arranged that Indra should have one part and Vāyu three.
+
+Thus Indra and Vāyu, cooperating, won the contest and first reached the appointed place. Mitra and Varuṇa came and arrived behind them; the Aśvin gods came behind them. Therefore, in whatever place they gained in the contest, in that order they became entitled to drink Soma: first Indra and Vāyu, then Mitra and Varuṇa, and after them the Aśvin gods. In this way the practice came into use of two gods drinking Soma together. So in the Aindravāyava graha Indra has only one part in four in the drinking of Soma.
+
+तदेतद्दृषिः पश्यन्नभ्यनूनाच नियुत्वा इंद्रसारथिरिति । (*tadetaddṛṣiḥ paśyannabhyanūnāca niyutvā iṃdrasārathiriti |*)
+
+The seer, knowing by divine vision that Indra has one part in four in the Aindravāyava graha, expresses this in the next Ṛk (Ṛ. Saṃ. 4-46-2), which begins *śatenā no abhiṣṭibhiḥ*, by the words नियुत्वान् इंद्रसारथिः (*niyutvān iṃdrasārathiḥ*). Here, as the Nirukta statement नियुतो वायोः (*niyuto vāyoḥ*) (Ni. 2-28) says, the horses called Niyut are well known as the vehicle of the god Vāyu. Therefore the word *niyutvat* indicates Vāyu. In the Ṛk above the word नियुत्वान् (*niyutvān*) denotes Indra accompanied by Vāyu. Mantras such as अधा वायुं नियुतः सश्चतस्वाः (*adhā vāyuṃ niyutaḥ saścatasvāḥ*) (Tai. Brā. 2-8-1-1) support this. The meaning of इंद्रसारथिः (*iṃdrasārathiḥ*) is "Indra, the charioteer of Vāyu". Since Indra stands in the place of charioteer to Vāyu, this indicates that Indra has only a fourth part in the first drink of Soma.
+
+### Printed p. 181
+
+The matter stated above is made clear by an example from worldly practice. Warriors in battle sit in chariots, are victorious in battle with the help of their charioteers, and seize the wealth and the like of the enemies. When they have seized it, they give one part of that wealth, that is, one part in four, to the charioteers who helped them. This custom is current in worldly practice. In the same way, in this contest arranged by the gods, Indra was Vāyu's charioteer, and since Vāyu was victorious, a fourth part of the first Soma drink obtained in the contest became Indra's share. The main meaning is that Indra gained his fourth part as Vāyu's charioteer.
+
+**The slaying of the asura Varāha by Indra**
+
+There is a story that there was an asura named Varāha and that Indra killed him. Viṣṇu also has a part in it. We set out here the account stated in the Caraka Brāhmaṇa on this matter.
+
+The main sense of this is as follows. Viṣṇu is the sacrifice. That Viṣṇu, in the form of the sacrifice, once left the gods and went away and stayed in a hidden place. The other gods did not learn of this. Only Indra learned. When Indra went to the place where Viṣṇu was, Viṣṇu asked Indra who he was. In reply Indra said: "I am the destroyer of fortresses and asuras. Who are you?" Viṣṇu said: "I am the one who carries off from fortresses the wealth and the like belonging to the asuras. Who are you? What is your work?" he asked again. Then Viṣṇu said: "If you are, as you say, the destroyer of the fortresses and of the wealth of the asuras, then the asura named Varāha, who has carried off the wealth and the like and hidden it in himself, lives in a fortress firmly built of stones, at the end of twenty-one forts from here.
+
 ---
 
-**Progress note:** Done through printed p. 175. pp. 170-175 (batch API)
+**Progress note:** Done through printed p. 181. pp. 176-181 (batch API)
