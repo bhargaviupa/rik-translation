@@ -7264,6 +7264,283 @@ Bring us condiments, cows, horses, and oil, (bring us) with them precious golden
 
 And also bring to us many ear-ornaments (कर्णशोभना (*karṇaśobhanā*) means ornaments of the ear; पुरूणि (*purūṇi*) means many). O bold Indra (धृष्णो (*dhṛṣṇo*), the daring one), O वसो (*vaso*), the one who causes to dwell: you indeed are heard of (शृण्विषे (*śṛṇviṣe*), you are heard). How? As this Indra is generous.
 
+### Printed p. 181
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतॆ (*utè*)—and
+- नः (*naḥ*)—to us
+- कर्णशोभना (*karṇaśobhanā*)—that serve as ornaments for the ear
+- पुरूणि (*purūṇi*)—many ornaments
+- आ भर (*ā bhara*)—bring and provide (O Indra)
+- धृष्णो (*dhṛṣṇo*)—O Indra, destroyer of enemies
+- वसो (*vaso*)—giver of dwellings
+- त्वं हि (*tvaṃ hi*)—you alone
+- शृण्विषे (*śṛṇviṣe*)—you are renowned
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bring and provide us with many ornaments that serve as adornment for our ears. O Indra, destroyer of enemies and giver of dwellings, you alone are renowned.
+
+##### English translation
+O resolute one, bring us many ear-ornaments; giver of dwellings, you are renowned.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकीं॑ वृधी॒क इं॑द्र ते॒ न सु॒षा न सु॒दा उ॒त ।  
+> नान्यस्त्वच्छू॑र वा॒घतः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकीम् । वृधीकः । इंद्र । ते । न । सुऽसाः । न । सुऽदाः । उत ।  
+> न । अन्यः । त्वत् । शूर । वाघतः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वत्तोऽन्यः कश्चित् वृधीकः वर्धयिता नकीं नैव । तथा सुषाः सुष्ठु संभक्ता संग्रामादौ त्वत्तोऽन्यः न । उत अपि च सुदाः सुदाता न । तथा हे शूर त्वत् त्वत्तोऽन्यः वाघतः । ऋत्विग्नामैतत् । ऋत्विजो यजमानस्य नेता नान्यः अस्ति त्वामृते ॥
+
+##### Gist of the bhāṣya
+
+O Indra, no one other than you is a promoter of growth (वृधीकः (*vṛdhīkaḥ*), one who makes grow); there is none at all. Likewise no one other than you is a good sharer (सुषाः (*suṣāḥ*), one who shares well) in battle and the like. And no one is a good giver (सुदाः (*sudāḥ*), a good donor). And, O hero, no one other than you is a वाघतः (*vāghataḥ*); this is a name of the priest (ṛtvij). There is no leader of the priest and the sacrificer other than you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—other than you
+- वृधीकः (*vṛdhīkaḥ*)—promoter of growth
+- नकिः (*nakiḥ*)—there is no one else at all
+- सुषाः (*suṣāḥ*)—those who carry off the enemy's wealth in battles and the like
+- न (*na*)—there is no other than you
+
+### Printed p. 182
+
+- उतॆ (*utè*)—and
+- सुदाः (*sudāḥ*)—excellent maidservants like you **NOTE**
+- न (*na*)—there is no one else
+- शूर (*śūra*)—O valiant Indra
+- त्वत् (*tvat*)—better than you
+- वाघतः (*vāghataḥ*)—leaders of the sacrifice (priests)
+- न अन्यः (*na anyaḥ*)—there is no other
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, there is no promoter of growth other than you. There is no one other than you who carries off the enemy's wealth in battles and the like. There are no excellent maidservants like you. O valiant Indra, there are no priests better than you either.
+
+##### English translation
+There is no prosperer other than you, no divider of the spoil, no giver of boons; O hero, there is no (leader) of the sacrificer other than you
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नकी॒मिंद्रो॒ निक॑र्तवे॒ न श॒क्रः परि॑शक्तवे ।  
+> विश्वं॑ शृणोति॒ पश्य॑ति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नकीम् । इंद्रः । निऽकर्तवे । न । शक्रः । परिऽशक्तवे ।  
+> विश्वम् । शृणोति । पश्यति ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंद्रः निकर्तवे निकर्तुं नकीं नैव शक्यः । तथा शक्रः शक्तोऽयं परिशक्तवे परिभावाय न शक्यत इति । स तु विश्वं शृणोति पश्यति च ॥ ॥ ३१ ॥ स मन्यु मनामदब्धो नि चिकीषते । पुरा निदर्थिकीषते ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+This Indra cannot be brought down (निकर्तवे (*nikartave*), to be brought down); there is none at all who can do it. Likewise this Indra, being mighty (शक्रः (*śakraḥ*)), cannot be overpowered (परिशक्तवे (*pariśaktave*), for overpowering). He hears and sees everything.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- निकर्तवे (*nikartave*)—to be brought down from his own place
+- नकीं (*nakīṃ*)—it is not possible for anyone
+- शक्रः (*śakraḥ*)—Indra, who is all-powerful
+- परिशक्तवे (*pariśaktave*)—to be defeated
+- न (*na*)—it is not possible (that same Indra)
+- विश्वं (*viśvaṃ*)—everything
+- शृणोति (*śṛṇoti*)—hears
+- पश्यति (*paśyati*)—sees
+
+### Printed p. 183
+
+##### भावार्थ (Bhāvārtha)
+
+It is not possible for anyone to bring Indra down from his own place. It is not possible for anyone to defeat the all-powerful Indra. That same Indra hears and sees everything.
+
+##### English translation
+Indra cannot be brought low, he cannot be overpowered—he hears, he sees all.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॒न्युं मर्त्या॑ना॒मद॑ब्धो॒ नि चि॑कीषते ।  
+> पु॒रा नि॒दश्चि॑कीषते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मन्युम् । मर्त्यानाम् । अदब्धः । नि । चिकीषते ।  
+> पुरा । निदः । चिकीषते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः इंद्रः मन्युं क्रोधम् । केषाम् । मर्त्यानाम् । अदब्धः केनाप्यहिंसितः सन् नि चिकीषते निकरोति । किं मन्यु प्राप्यैव नेत्याह । निदः निंदायाः पुरा पूर्वमेव चिकीषते । यदा तं निंदितुमिच्छति कश्चित्ततः पूर्वमेव तं निकरोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Indra, unharmed by anyone, brings down (नि चिकीषते (*ni cikīṣate*)) the wrath (मन्युं (*manyuṃ*)) of mortals. Is it only after the wrath has arrived? He says no: he desires to do so before (पुरा (*purā*)) the reproach (निदः (*nidaḥ*)). The meaning is that when anyone wishes to reproach him, he brings that person down even before that.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the renowned Indra
+- मर्त्यानां (*martyānāṃ*)—of mortals
+- मन्युं (*manyuṃ*)—the wrath
+- अदब्धः (*adabdhaḥ*)—without being harmed by anyone
+- नि चिकीषते (*ni cikīṣate*)—makes it come down
+- निदः (*nidaḥ*)—for reproaching him
+- पुरा (*purā*)—beforehand
+- चिकीषते (*cikīṣate*)—makes such persons **NOTE** humble
+
+##### भावार्थ (Bhāvārtha)
+
+The renowned Indra, without being harmed by anyone, makes the wrath of mortals come down. If anyone wishes to reproach him, he beforehand makes such persons **NOTE** humble.
+
+### Printed p. 184
+
+##### English translation
+Unharmed he brings low the wrath of mortals; before any one can reproach him, he brings him low.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्व॒ इत्पू॒र्णमु॒दरं॑ तु॒रस्या॑स्ति विध॒तः ।  
+> वृ॒त्र॒घ्नः सो॑म॒पाव्नः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्वः । इत् । पूर्णम् । उदरम् । तुरस्य । अस्ति । विधतः ।  
+> वृत्रऽघ्नः । सोमऽपाव्नः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तुरस्य त्वरमाणस्य वृत्रघ्नः वृत्रं हतवतः सोमपाव्नः सोमपातुः उदरं क्रत्व इत् कर्मणैव पूर्णम् अस्ति भवति । कस्य कर्मणेति उच्यते । विधतः परिचरतो यजमानस्य । यतः परिचरणाभावे तस्य कुक्षिपूर्त्यभावोऽतस्तत्पूर्तये परिचरतेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+The belly of the swift Soma-drinker, the slayer of Vṛtra, is filled by the action alone (क्रत्व इत् (*kratva it*)). Whose action? It is said: of the sacrificer who serves (विधतः (*vidhataḥ*)). For without that service his belly would not be filled; therefore, for the filling of it, "serve" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुरस्य (*turasya*)—swiftly
+- वृत्रघ्नः (*vṛtraghnaḥ*)—of Indra, the destroyer of Vṛtra
+- सोमपाव्नः (*somapāvnaḥ*)—and drinker of Soma
+- उदरं (*udaraṃ*)—the belly
+- विधतः (*vidhataḥ*)—of the sacrificer who attends him with food
+- क्रत्व इत् (*kratva it*)—by the acts of offering oblations and the like
+- पूर्णं (*pūrṇaṃ*)—filled
+- अस्ति (*asti*)—becomes
+
+##### भावार्थ (Bhāvārtha)
+
+The belly of Indra, the swift destroyer of Vṛtra and drinker of Soma, is filled by the oblation-offering and other acts of the sacrificer who attends him.
+
+##### English translation
+The belly of the Soma-drinker, the eager slayer of Vritra, is filled by the sacrificer's offering.
+
+### Printed p. 185
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे वसू॑नि॒ संग॑ता॒ विश्वा॑ च सोम॒ सौभ॑गा ।  
+> सु॒दात्वप॑रिह्वृता ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । वसूनि । सम्ऽगता । विश्वा । च । सोम । सौभगा ।  
+> सुऽदातु । अपरिऽह्वृता ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वे त्वयि वसूनि धनान्यस्मदिष्टानि संगता संगतानि । तथा हे सोम सोमवन्निंद्र त्वयि विश्वा सर्वाणि सौभगा सौभाग्यानि संगतानि । तथा सुदातु सुदानानि अपरिह्वृता अकुटिलानि । अतस्तानि कुर्विति भावः । यद्वा । इंद्रः सोमं पीत्वा सोम इत्यभिहितः सोमश्रुतेः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in you are gathered the riches we desire; likewise, O Soma, that is, Indra who has Soma, in you all good fortunes are gathered; likewise good gifts that are unswerving (not crooked). Therefore make them so: this is the sense. Or else: Indra, having drunk Soma, is called Soma, from the Vedic text about Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Indra, possessor of Soma
+- त्वे (*tve*)—in you alone
+- वसूनि (*vasūni*)—all riches
+- विश्वा (*viśvā*)—all
+- सौभगा च (*saubhagā ca*)—and auspicious things
+- अपरिहृता (*aparihṛtā*)—faultless
+- सुदातु (*sudātu*)—and excellent gifts, have come together
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of Soma, in you alone all riches, all auspicious things and faultless excellent gifts have come together.
+
+##### English translation
+In you, O drinker of the Soma, are treasures stored, and all precious things and unblemished gifts.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद्य॑व॒युर्मम॒ कामो॑ ग॒व्युर्हि॑रण्य॒युः ।  
+> त्वाम॑श्व॒युरेष॑ते ॥ ९ ॥
+
+### Printed p. 186
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । इत् । यवऽयुः । मम । कामः । गव्युः । हिरण्यऽयुः ।  
+> त्वाम् । अश्वऽयुः । आ । ईषते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वामित् त्वामेव एषते । किम् । मम कामः । स कीदृशः । यवयुः यवेच्छुः सन्नेषते । तथा गव्युः सन्नेषते । तथा हिरण्ययुः च सन्नेषते । तथा अश्वयुः च सन्नेषते । तं काममाप्तेच्छं कुर्विति भावः ॥
+
+##### Gist of the bhāṣya
+
+My desire goes out to you alone (त्वामित् (*tvāmit*)). Of what kind is it? It goes out wishing for barley (यवयुः (*yavayuḥ*)); likewise it goes out desiring cows (गव्युः (*gavyuḥ*)); likewise desiring gold (हिरण्ययुः (*hiraṇyayuḥ*)); and likewise desiring horses (अश्वयुः (*aśvayuḥ*)). Fulfil that desire: this is the sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यवयुः (*yavayuḥ*)—that which desires barley (O Indra)
+- गव्युः (*gavyuḥ*)—that which desires cows
+- हिरण्ययुः (*hiraṇyayuḥ*)—that which desires gold
+- अश्वयुः (*aśvayuḥ*)—and that which seeks horses
+- मम (*mama*)—my
+- कामः (*kāmaḥ*)—desire
+- त्वां इत् (*tvāṃ it*)—you alone
+- एषते (*eṣate*)—seeks
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, my desire, which seeks barley, cows, gold and horses, seeks you alone.
+
+##### English translation
+To you my desire hastens, seeking barley, cows and gold-to you it hastens seeking horses.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तवेदिं॑द्रा॒हमा॒शसा॒ हस्ते॒ दात्रं॑ च॒ना द॑दे ।  
+> दि॒नस्य॑ वा मघव॒न्संभृ॑तस्य वा पू॒र्धि यव॑स्य का॒शिना॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । इत् । इंद्र । अहम् । आऽशसा । हस्ते । दात्रम् । चन । आ । ददे ।  
+> दिनस्य । वा । मघऽवन् । सम्ऽभृतस्य । वा । पूर्धि । यवस्य । काशिना ॥ १० ॥
+
 ---
 
-**Progress note:** Done through printed p. 180. Vedic history of Varāha, Ṛk 77.11, Sūkta 78 Ṛks 1-3
+**Progress note:** Done through printed p. 186. Maṇḍala 8 sūkta 78 Ṛks 3-10 (pp. 181-186)
