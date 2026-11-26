@@ -27670,6 +27670,215 @@ First, the root द्रु (*dru*), giving the meaning "to move", together wit
 तयोर्निभागस्तत्रेतिहासमाचक्षते । देवापिश्चाष्टिषेणः शंतनुश्च कौरव्या भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेजचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति । तस्यैतद्वर्षकामसूक्तं तस्यैषा भवति ॥ (*tayornibhāgastatretihāsamācakṣate | devāpiścāṣṭiṣeṇaḥ śaṃtanuśca kauravyā bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣejacayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcubrāhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtanurdevāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste 'sāni yājayāni ca tveti | tasyaitadvarṣakāmasūktaṃ tasyaiṣā bhavati ‖*)
 Of the two Kuru-born brothers, Devāpi and Śantanu, sons of Ṛṣṭiṣeṇa **NOTE**, the younger, Śantanu, got himself consecrated and became the king of that kingdom. Devāpi went off to the forest for austerity. From then, for twelve years there was no rain in the kingdom of Śantanu. Then the Brahmins said to Śantanu: "By making your elder brother go to the forest and yourself becoming the king, you have committed a sinful deed. Therefore the rain-god has not poured rain in your kingdom."
 
+### Printed p. 738
+
+Then, when Śantanu tried to have Devāpi consecrated as king, Devāpi said, "I shall be your priest and perform the sacrifice for you," and had a sacrifice performed for the sake of rain. After that the rain poured from the sea in the upper region onto the sea in the lower region. Thus, in order to show the difference between the two seas, the Ṛk
+
+आर्ष्टिषेणो होत्रमृषिर्निषीदन् देवापिर्देवसुमतिं चिकित्वान् । स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥ (*ārṣṭiṣeṇo hotramṛṣirniṣīdan devāpirdevasumatiṃ cikitvān | sa uttarasmādadharaṃ samudramapo divyā asṛjadvarṣyā abhi ‖*)
+(Ṛ. Saṃ. 10-98-5)
+
+is cited, and by it the difference between the upper sea and the lower sea has been shown here. Here the upper sea means the atmosphere, and the lower sea means the terrestrial sea. In the Ṛksaṃhitā, in some places the word samudra can be said definitely to mean the terrestrial sea. But in Ṛks such as
+
+यथा वातो यथा ववं यथा समुद्र विजति । (*yathā vāto yathā vavaṃ yathā samudra vijati |*)
+(Ṛ. Saṃ. 5-78-8)
+
+and the like, it is difficult to say whether it is a synonym of the atmosphere or the terrestrial sea.
+
+अग्निं विश्वा अभि पृक्षः सचंते समुद्रं न स्रवतः सप्त यह्वीः । (*agniṃ viśvā abhi pṛkṣaḥ sacaṃte samudraṃ na sravataḥ sapta yahvīḥ |*)
+(Ṛ. Saṃ. 1-71-7)
+
+सं यं स्तुभोऽवनयो न यंति समुद्रं व स्रवतो रोधचक्राः । (*saṃ yaṃ stubho 'vanayo na yaṃti samudraṃ va sravato rodhacakrāḥ |*)
+(Ṛ. Saṃ. 1-190-7)
+
+या आपो दिव्या उत ना स्रवंति खनित्रिमा उत वा याः स्वयंजाः । समुद्रार्था याः शुचयः पावकास्ता आपो देवीरिह मामवंतु ॥ (*yā āpo divyā uta nā sravaṃti khanitrimā uta vā yāḥ svayaṃjāḥ | samudrārthā yāḥ śucayaḥ pāvakāstā āpo devīriha māmavaṃtu ‖*)
+(Ṛ. Saṃ. 7-49-2)
+
+In these and many other Ṛks it can be said definitely that the terrestrial sea is meant. In some places this word is used in a special way and gives the sense "that which flows".
+
+अद्भिर्याति वरुणः समुद्रैर्युष्मा इच्छंतः शवसो नपातः । (*adbhiryāti varuṇaḥ samudrairyuṣmā icchaṃtaḥ śavaso napātaḥ |*)
+(Ṛ. Saṃ. 1-161-14)
+
+In this Ṛk, समुद्रैः (*samudraiḥ*) means समुंदनस्वभाव्यैः (*samuṃdanasvabhāvyaiḥ*) अद्भिः (*adbhiḥ*), that is, "with waters of a flowing nature". Thus it must be interpreted according to the context.
+
+### Printed p. 739
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मर्यो॒ न शु॒भ्रस्त॒न्वं॑ मृजा॒नोऽत्यो॒ न सृत्वा॑ स॒नये॒  ॑
+> धनानां ।  
+> वृषे॑व यू॒था परि॒ कोश॒मर्ष॒न्नि॑क्रदच्च॒म्वो॒३॒॑३रा वि॑वेश॥२०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मर्यः । न । शुभ्रः । तन्वं । मृजानः । अत्यः । न । सृत्वा । सनये । धनानां ।  
+> वृषा इव । यूथा । परि । कोशं । अर्षन् । कनिक्रदत् । चन्वोः । अ । विवेश ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुभ्रो दीप्यमानोऽलंकृतो मर्यो न मनुष्य इव तन्वमात्मीयं शरीरं
+> मृजानो वसतीवरीभिः शोधयन् किंच धनानां सनये संभजनाय लाभायात्को
+> नातनशीलोऽश्व इव सृत्वा सरणशीलः अपि च वृषेव वृषा यथा यूथानि प्रतिगच्छइब्बं करोति तद्वत् कोशमधिषवणचर्मणा कृतं पात्रं पर्यर्षन् प्रतिगच्छन्
+> सोमः कनिक्रदत् पुनःपुनः शब्दं कुर्वंश्चन्नोरधिषवणफलकयोरा विवेश । आविशति ॥
+> कनिक्रदत् । क्रदेर्यज्लुकि दाधर्ति दर्धर्तित्यादिना निपातनादभ्यासस्य निगागमः ।
+> तस्य शतर्यभ्यस्तानामादिरित्याद्युदात्तत्वं ॥
+
+##### Gist of the bhāṣya
+
+Śubhra means shining, adorned. Like a man (मर्यो (*maryo*)) cleansing his own body with the waters called वसतीवरीभिः (*vasatīvarībhiḥ*); and further, for the sharing and gain of riches, like a swift, running horse; and again, as a bull goes to the herds, so Soma goes around the receptacle, the vessel made of the hide used for the pressing. **NOTE**. Soma, crying out repeatedly, enters the two planks of the pressing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुभ्रः (*śubhraḥ*)—shining with ornaments
+- मर्यः न (*maryaḥ na*)—like a man
+- तन्वं (*tanvaṃ*)—his own body
+- मृजानः (*mṛjānaḥ*)—cleansing
+- धनानां (*dhanānāṃ*)—of riches
+- सनये (*sanaye*)—for the gain
+- अत्यो न (*atyo na*)—like a horse
+- सृत्वा (*sṛtvā*)—of moving nature
+- वृषा (*vṛṣā*)—the bull
+- याथेव (*yātheva*)—like entering eagerly into a herd of cows **NOTE**
+- कोशं (*kośaṃ*)—to the ten-fold filter
+- पर्यर्षन् (*paryarṣan*)—Soma who enters
+- कनिक्रदत् (*kanikradat*)—making a sound
+- चम्वोः (*camvoḥ*)—in the pressing planks
+- आ विवेश (*ā viveśa*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+Like a man shining with ornaments cleansing his own body, moving about like horses for the gain of riches, and like a bull entering eagerly into a herd of cows, Soma who enters the ten-fold filter enters the pressing planks, making a sound.
+
+### Printed p. 740
+
+##### English translation
+Cleansing his person like a richly-decorated man, flowing to acquire riches like a rapid (horse), rushing to the receptacle like a bull to the herd, (Soma) crying repeatedly enters the planks.
+
+##### विशेषविषयगळु (Special Topics)
+
+शुभ्रः मर्यः न मृजानः (*śubhraḥ maryaḥ na mṛjānaḥ*)—दीप्यमानोऽलंकृतः मनुष्य इव आत्मीयं शरीरं वसतीवरीभिः शोधयन् । (*dīpyamāno 'laṃkṛtaḥ manuṣya iva ātmīyaṃ śarīraṃ vasatīvarībhiḥ śodhayan |*). Like a man adorned by bathing and the like, this Soma juice shines after it has mixed its own body, that is, the juice that has oozed out of the creeper, with the waters called वसतीवरी (*vasatīvarī*); this is the meaning.
+अत्यो न सृत्वा सनये धनानां (*atyo na sṛtvā sanaye dhanānāṃ*)—Like a horse (spirited horse) whose nature is to move about in battle, fought in order to conquer enemies in battle and gain wealth, the pressed Soma juice quickly flows away and falls into the vessel.
+वृषेव यूथा परि कोशमर्षन् (*vṛṣeva yūthā pari kośamarṣan*)—Just as the bull (the male of the cattle), the leader of a herd of cows, enters the herd of cows making a sound (bellowing), in the same way the Soma juice, flowing with a gurgling sound, goes to the vessel.
+कनिक्रदत् चम्वोः आ विवेश (*kanikradat camvoḥ ā viveśa*)—Between the two planks kept ready for crushing and pressing the Soma creepers, the Soma juice that comes out of the creepers flows away and falls into the vessel placed for it.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्वेंदो॒ पव॑मानो॒ महो॑भिः॒ कनि॑क्रद॒त्परि॒ वारा॑ण्यर्ष ।  
+> क्रीळ॑ञ्च॒म्वो॒३॒॑ ३ रा वि॑श पू॒यमा॑न॒ इंद्रं॑ ते॒ रसो॑ मदि॒रो  ॑
+> ममत्तु ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । इंदो इति । पवमानः । महभिः । कनिक्रदत् । परि । वाराणि । अर्ष ।  
+> क्रीळन् । चन्नोः । आ । विश । पूयमानः । इंद्रं । ते । रसः । मदिरः । ममत्तु ॥२१॥
+
+### Printed p. 741
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम महोभिः पूजकैर्यत्विग्निः पवमानः पूयमानस्त्वं
+> पवस्व । क्षर । ततः कनिक्रदद्भृशं शब्दं कुर्वन् वाराण्यवेर्वालानि पवित्राणि पर्यर्ष।
+> परिगच्छ । किंच पूयमानस्त्वं चन्नोरधिषवणफलकयोः क्रीळन् संक्रीडमानः
+> सन्ना विश । पात्राणि प्रविश । अनंतरं मदिरो मदकरस्ते त्वदीयो रस इंद्रं
+> ममत्तु । मोदयतु ॥ माद्यतेर्बहुलं छंदसीति श्लुः ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, purified by the worshipping priests **NOTE**, flow. Then, crying out loudly, pass through the वाराणि (*vārāṇi*), the woollen filters made of sheep's hair. Further, being purified, sporting in the two planks of the pressing, enter the vessels. Thereafter let your exhilarating juice exhilarate Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Lord Soma
+- महोभिः (*mahobhiḥ*)—by the priests who worship
+- पवमानः (*pavamānaḥ*)—you who are purified
+- पवस्व (*pavasva*)—flow
+- कनिक्रदत् (*kanikradat*)—making a sound
+- वाराणि (*vārāṇi*)—through the ten-fold filter
+- पर्यर्ष (*paryarṣa*)—flow
+- पूयमानः (*pūyamānaḥ*)—you who are purified
+- चन्नोः (*cannoḥ*)—through the pressing planks **NOTE**
+- क्रीळन् (*krīḷan*)—sporting
+- आ विश (*ā viśa*)—flow into the vessels
+- मदिरः (*madiraḥ*)—gladdening
+- ते रसः (*te rasaḥ*)—your juice
+- इंद्रं (*iṃdraṃ*)—Indra
+- ममत्तु (*mamattu*)—let it satisfy
+
+##### भावार्थ (Bhāvārtha)
+
+O Lord Soma, purified by the worshipping priests, flow. Purified, sporting through the pressing planks, flow into the vessels. May your gladdening juice satisfy Indra.
+
+##### English translation
+Flow, Indu, purified by the venerable (priests), rush through the filter crying repeatedly, sporting enter the planks purified, let your exhilarating liquor exhilarate Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+O Lord Soma, the priests, the Adhvaryu and others, crush the creepers with mantras and press out the juice. That juice flows away with a gurgling sound, crosses the layers of wool placed over the vessel for filtering out the impurities in the juice, and falls into the vessel. And that Soma juice, making a sound as if playing between the planks used for the pressing, being purified, should flow for the pleasure of Indra; this is the main purport of the Ṛk.
+
+### Printed p. 742
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रास्य॒ धारा॑ बृह॒तीर॑सृग्रन्न॒क्तो गोभिः॑ क॒लशा॒ आ वि॑वेश ।  
+> साम॑ कृ॒ण्वन्ता॑ म॒न्यो॑ विप॒श्चित्कंद॑न्नेत्य॒भि सख्यु॒र्न जा॒मिं ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अस्य । धाराः । बृहतीः । असृग्रन् । अक्तः । गोभिः । कलशान् । आ । विवेश ।  
+> साम । कृण्वन् । सामन्यः । विपःचित् । क्रंदन् । एति । अभि । सख्युः । न । जामिं ॥२२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सोमस्य बृहतीर्भृहत्यो महत्यो धाराः प्रासृग्रन् । प्रसृज्यंते ॥
+> सृजेः कर्मार्थे लजि व्यत्ययेन झीरनादेशः । बहुलं छंदसीति रुडागमः ॥ ततः
+> सोऽयं सोमो गोभिर्गॊविकारैः क्षीरादिभिरक्तः सन् कलशान्नोणाभिधानाना
+> विवेश । आविशति । साम सामानि कृण्वन् कुर्वन् सोमः सामन्यः सामगानकुशलः ।
+> सुष्टु शब्दायमान इत्यर्थः । विपश्चित् सर्वं जानानः सोमः क्रंदन् देवानाह्वयन्नभ्येति । ग्रहादीनि त्वरयाभिगच्छति । तत्र दृष्टांतः । सख्युर्न सख्युर्जामिं जायां
+> यथेतरो लंपटो वेगेनाभिगच्छति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The great streams of this Soma are let forth. Then this Soma, smeared with the products of the cow, milk and the like, enters the vessels called कलशान्नोणाभिधानाना (*kalaśānnoṇābhidhānānā*) **NOTE**. Making Sāmans, skilled in the singing of Sāman, that is, sounding well; the omniscient Soma, crying out, calling the gods, approaches; he hastens to the cups and the rest with speed. An illustration is given: as another, a libertine, goes with speed to a friend's wife, so does Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अस्य (*asya*)—of this Soma
+- बृहतीः (*bṛhatīḥ*)—great
+- धाराः (*dhārāḥ*)—streams
+- प्र असृग्रन् (*pra asṛgran*)—flow
+- गोभिः (*gobhiḥ*)—with milk and the like
+- अक्तः सन् (*aktaḥ san*)—being mixed
+- कलशान् (*kalaśān*)—in the Droṇa vessels
+- आ विवेश (*ā viveśa*)—Soma enters
+- सख्युः (*sakhyuḥ*)—of his friend
+- जामिं न (*jāmiṃ na*)—as a libertine man runs to the beautiful wife
+- सामन्यः (*sāmanyaḥ*)—skilled in the singing of Sāman
+- विपश्चित् (*vipaścit*)—the wise Soma
+- साम (*sāma*)—the Sāman song
+- कृण्वन् (*kṛṇvan*)—reciting **NOTE**
+- क्रंदन् (*kraṃdan*)—making a sound
+- अभ्येति (*abhyeti*)—enters the Graha vessels
+
+##### भावार्थ (Bhāvārtha)
+
+The great streams of Soma flow. Soma, mixed with milk and the like, enters the Droṇa vessels. Like a libertine man who goes eagerly to the beautiful wife of his friend, Soma, skilled in the singing of Sāman and wise, reciting the Sāman song and making a sound, enters the Graha vessels.
+
+### Printed p. 743
+
+##### English translation
+His copius **NOTE** streams flow forth ; blended with the milk and curds he enters the pitchers ; uttering chants the skilful chanter, the omniscient (Soma) hastens invoking (the gods) towards (the cups) like (a libertine) to the wife of a friend.
+
+##### विशेषविषयगळु (Special Topics)
+
+अस्य धाराः बृहतीः प्र असृग्रन् (*asya dhārāḥ bṛhatīḥ pra asṛgran*)—At the time of crushing the Soma creepers and pressing out the juice, the juice that oozes out of the creepers is abundant, and it flows away in a stream, in torrents.
+गोभिः अक्तः कलशान् आ विवेश (*gobhiḥ aktaḥ kalaśān ā viveśa*)—To the Soma juice that flows away thus, the priests add milk or curds and mix it. The juice mixed in this way goes into the Droṇa vessel and falls in. Here गोभिः (*gobhiḥ*) means the milk or curds obtained from cows. There is also the practice of drinking the Soma juice just as it is, without mixing anything into it as soon as it has been pressed. Such Soma juice is called तीव्र (*tīvra*) or शुक्र (*śukra*) (strong). In some other cases, in order to give the Soma juice a taste or to increase the quantity of the juice, any one of milk, curds or flour is mixed in and used. The mixing of milk or curds in this manner is what is spoken of here.
+विपश्चित् सामन्यः साम कृण्वन् क्रंदन् सख्युः जामिं न अभि एति (*vipaścit sāmanyaḥ sāma kṛṇvan kraṃdan sakhyuḥ jāmiṃ na abhi eti*)—This god Soma, who knows everything and is skilled in the singing of Sāman, calling the gods, goes to the vessel as a lustful stranger goes to the wife of a friend. Here विपश्चित् (*vipaścit*) means one who knows everything, the omniscient. Because the intellect of the man who has drunk Soma becomes sharp, that Soma-drinking itself, that is, that Soma itself, is said to be omniscient. As for the words सामान्यः साम कृण्वन् (*sāmānyaḥ sāma kṛṇvan*) **NOTE**, the purport is that, as a man skilled in the singing of Sāman sings, Soma makes a delightful sound when it flows. Or, at the time of the pressing of Soma, the priests, the Udgātṛ and others, sing the Sāman audibly. The sound that arises when the Soma juice flows indicates that Soma, accompanied by such singing, is calling the gods to drink the Soma; this is the poetic fancy that the seer has described. Besides this, the seer has given an illustration regarding the quick flowing of the Soma juice. Just as a stranger, enamoured of a friend's wife, goes hurriedly to that woman for the fulfilment of his desire, so this Soma juice is described as flowing away quickly. Here, of the friend
+
 ---
 
-**Progress note:** Done through printed p. 737. Sukta 96 Rk 17 (end) to 19, Mandala 9
+**Progress note:** Done through printed p. 743. Sūkta 96 Ṛks 20-22, Special Topics on samudra
