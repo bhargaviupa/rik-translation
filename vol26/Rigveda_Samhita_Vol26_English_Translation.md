@@ -31443,6 +31443,212 @@ Even when such narrative occasions are told, the word Jamadagni is sometimes exp
 (Tai. Saṃ. 3-3**NOTE**-5**NOTE**-2**NOTE** **NOTE**)
 Prajāpati received the vision of the Virāj. With its help he created the past and the future. But **NOTE** he made both of them fall beyond the range of the seers. Then Jamadagni, by the greatness of his austerity
 
+### Printed p. 856
+he obtained the vision of them, and from them created many kinds of objects of desire: thus his power of divine vision is described. In the same way the Upaniṣads state that Jamadagni is a part that reflects the spiritual principle.
+इमावेव गोतमभारद्वाजौ, अयमेव गोतमः, अयं भारद्वाजः । इमावेव विश्वामित्रजमदग्नी, अयमेव विश्वामित्रः, अयं जमदग्निः । (*imāveva gotamabhāradvājau, ayameva gotamaḥ, ayaṃ bhāradvājaḥ | imāveva viśvāmitrajamadagnī, ayameva viśvāmitraḥ, ayaṃ jamadagniḥ |*)
+(Bṛ. U. 2-2-4 **NOTE**)
+This is said in the Bṛhadāraṇyaka while explaining the principle of the body. Of these, Gotama and Bharadvāja are the exponents of the principle of hearing; Viśvāmitra and Jamadagni are the exponents of the principle of the eye. Viśvāmitra is said to be the right eye and Jamadagni the left eye. But here it must be understood not merely as the physical eye but also as the eye of knowledge. How?
+प्रजापतिर्वै जमुदग्निः, सोऽश्वमेधः । (*prajāpatirvai jamudagniḥ, so 'śvamedhaḥ |*)
+(Śa. Brā. 13**NOTE**-2-2-14**NOTE**)
+In this sentence Jamudagni is designated as Prajāpati himself; the special quality of such a Jamudagni is this:
+जमुदग्निर्ऋषिरिति । चक्षुर्वै जमुदग्निर्ऋषिर्यदेनेन जगत्पश्यत्यथो मनुते तस्माच्चक्षुर्जमुदग्निर्ऋषिः प्रजापतिर्गृहीतया (*jamudagnirṛṣiriti | cakṣurvai jamudagnirṛṣiryadenena jagatpaśyatyatho manute tasmāccakṣurjamudagnirṛṣiḥ prajāpatirgṛhītayā*) **NOTE** त्वयेति प्रजापतिसृष्टया त्वयेत्येतच्चक्षुर्गृह्णामि ॥ (*tvayeti prajāpatisṛṣṭayā tvayetyetaccakṣurgṛhṇāmi ‖*)
+(Śa. Brā. 8**NOTE**-1-2-3**NOTE**)
+The great seer Jamudagni is the eye. Jamudagni is that divine eye by whose help the whole world obtains the power of sight and the power of consciousness. O Jamudagni, created by Prajāpati, by your divine favour may the power of sight be obtained by all my progeny:  thus Jamudagni is prayed to for the divine knowledge that knows the spiritual principle. The same purport is stated in the Taittirīya Āraṇyaka also:
+यदक्षरं भूतकृतं । विश्वेदेवा उपासते । महर्षिमस्य गोप्तारं । जमुदग्निमकुर्वत । जमुदग्निराप्यायते । छंदोभिश्चतुरुत्तरैः । राज्ञस्सोमस्य तृप्तासः ॥ (*yadakṣaraṃ bhūtakṛtaṃ | viśvedevā upāsate | maharṣimasya goptāraṃ | jamudagnimakurvata | jamudagnirāpyāyate | chaṃdobhiścaturuttaraiḥ | rājñassomasya tṛptāsaḥ ‖*) **GLOSS**
+(Tai. Ā. 1-9**NOTE**-2**NOTE**)
+By these sentences it is stated that Jamudagni is of the nature of the Imperishable, the form of the Supreme Self.
+### Printed p. 857
+#### Ṛk 52
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या प॒वा प॑वस्वै॒ना वसू॑नि माँश्च॒त्व इं॑दो॒ सर॑सि॒ प्र ध॑न्व ।  
+> ब्र॒ध्नश्चि॒दत्र॒ वातो॒ न जू॒तः पु॑रु॒मेध॑श्चि॒त्तक॑वे॒ नरं॑ दात् ॥ ५२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया। पवा । पवस्व । एना । वसूनि । मांश्चत्वे । इंदो इति । सरसि । प्र। धन्व।  
+> ब्रध्नः । चित् । अत्र । वातः । न । जूतः । पुरुमेधः । चित् । तकवे । नरम् । दात् ॥ ५२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अया अनया पवा पवमानया धारया सह एना एनानि वसूनि धनानि पवस्व क्षर । पवा पूङ्पवने अन्येभ्यो दृश्यंत इति विच्प्रत्ययः आर्धधातुकलक्षणोगुणः सावेका च इति तृतीयाया उदात्तत्वं । तथा हे इंदो तथा त्वं मांश्चत्वे मन्यमानानां चातके सरसि उदके वसतीवर्याख्ये प्रधन्व प्रगच्छ । ततः अत्र अस्मिन्सोमे पूयमाने सति ब्रध्नः चित् सर्वेषां प्रज्ञापकः मूलभूतो वा आदित्योपि वातो न वात इव जूतः वेगितः सन् किं च पुरुमेधःचित बहुविधयज्ञइंद्रश्चित् इंद्रोपि तकवे तकतिर्गतिकर्मसुपठितः अस्मादौणादिकऊन्प्रत्ययः सोममभिगच्छते स्तुतिभिः मह्यं नरं कर्मनेतारं पुत्रं दात् प्रयच्छतु हे सोम त्वया तर्पितौ संताविंद्रादित्यौ मह्यं पुत्रं प्रयच्छतामित्यर्थः ॥ ५२ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow these riches with this purifying stream. Likewise, O Indu, advance into the water called Vasatīvarī, the lake **NOTE**. Then, while this Soma is being purified, the Āditya (the one who makes all known, or the root of all), made swift like the wind, and Indra of many sacrifices, who also approaches Soma with praises, may grant to me a leader of rites, a son. The meaning is: O Soma, Indra and Āditya, gratified by you, may give me a son.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god)
+- अया पवा (*ayā pavā*)—with your stream that has attained purity
+- एना वसूनि (*enā vasūni*)—also the renowned riches
+- पवस्व (*pavasva*)—supply
+- इंदो (*iṃdo*)—O Soma
+- मांश्चत्वे (*māṃścatve*)—yellow-coloured
+- सरिसि (*sarisi*)—in order to join the Vasatīvarī waters **NOTE**
+- प्र धन्व (*pra dhanva*)—flow
+- अत्र (*atra*)—as the fruit of this Soma sacrifice
+- वातो न जूतः (*vāto na jūtaḥ*)—swift-moving like the wind
+- ब्रध्नश्चित् (*bradhnaścit*)—the Āditya also
+- पुरुमेधश्चित् (*purumedhaścit*)—Indra also, the sharer in many sacrifices
+- तकवे (*takave*)—to me, the praiser (who approaches Soma with praise)
+- नरं (*naraṃ*)—a son
+- दात् (*dāt*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, supply the renowned riches with your stream that has attained purity. O Soma, flow in order to join the yellow-coloured Vasatīvarī waters. As the fruit of this Soma
+### Printed p. 858
+sacrifice, may the Āditya, swift-moving like the wind, and Indra, the sharer in many sacrifices, give a son to me, the praiser.
+
+##### English translation
+With this filtered stream pour on us those treasures ; do you, Indu, advance to the brown water ; at this rite may the sun, rapid as the wind, may (Indra) the object of many sacrifices grant a son to me approaching (the Soma).
+#### Ṛk 53
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त न॑ ए॒ना प॑व॒या प॑व॒स्वाधि॑ श्रु॒ते श्र॒वाय्य॑स्य ती॒र्थे ।  
+> ष॒ष्टिं स॒हस्रा॑ नैगु॒तो वसू॑नि वृ॒क्षं न प॒क्वं धू॑नव॒द्रणा॑य ॥ ५३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । एना। पवया । पवस्व । अधि। श्रुते । श्रवाय्यस्य । तीर्थे ।  
+> षष्टिम् । सहस्रा । नैगुतः । वसूनि । वृक्षम् । न । पक्वम् । धूनवत् । रणाय ॥ ५३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम उतापि च श्रवाय्यस्य सर्वैः श्रवणीयस्य सोमस्य तव श्रुते प्रसिद्धौ यद्वा षष्ठ्यर्थे चतुर्थी श्रुतः शब्दस्य तीर्थे स्थाने नोस्माकं स्वभूते यज्ञे एना अनया पवया पूयमानया धारया अधि अधिकं पवस्व क्षर। नैगुतः नीचीनं गवंते शब्दायंत इति निगुतः शत्रवः । तेषां हंतृत्वेन संबंधी सोयं सोमः षष्टिं सहस्रा षष्टिसंख्याकानि सहस्राणि वसूनि धनानि रणाय शत्रूणां जयार्थं धूनवत् अस्माकमकंपयत् प्रायच्छदिति यावत् । कथमिव वृक्षं न पक्कं पक्कफलं वृक्षं यथा कंपयति फलार्थी तद्वत् ॥ ५३॥ ।
+
+##### Gist of the bhāṣya
+
+O Soma, in the renowned place (tīrtha) of you who are to be heard of by all, at our own sacrifice, flow abundantly with this purifying stream. Or else, the fourth case stands for the sixth, and the sense is: at the place of the one named Śruta **NOTE**. The Nigutas are the enemies, who sound low; this Soma, who is connected with them as their slayer, has shaken down sixty thousand riches for us, for victory over the enemies, as one who wants fruit shakes a tree with ripe fruit.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god)
+- उतॆ (*utè*)—and **NOTE**
+- श्रवाय्यस्य (*śravāyyasya*)—of you who are renowned among all
+- श्रुते (*śrute*)—world-renowned
+- नः तीर्थे (*naḥ tīrthe*)—at our sacrifice, the excellent place
+- एनापवया (*enāpavayā*)—with this stream that has attained purity
+- अधि (*adhi*)—exceedingly
+- पवस्व (*pavasva*)—flow
+- पक्वं (*pakvaṃ*)—having ripe fruit
+- वृक्षं न (*vṛkṣaṃ na*)—as one shakes a tree
+- नैगुतेः (*naiguteḥ*)—the destroyer of enemies, Soma **NOTE**
+### Printed p. 859
+- षष्टिं सहस्रा (*ṣaṣṭiṃ sahasrā*)—numbering sixty thousand
+- वसूनि (*vasūni*)—riches
+- रणायॆ (*raṇāyè*)—for victory over enemies **NOTE**
+- धूनवत् (*dhūnavat*)—he has shaken down
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, at this excellent place of sacrifice of you, who are renowned among all (who have the worthiness to obtain renown) and world-renowned, flow exceedingly with the stream that has attained purity. As one shakes a tree with ripe fruit and makes many fruits fall, Soma, the destroyer of enemies, has shaken down riches numbering sixty thousand for victory over enemies.
+
+##### English translation
+And flow with this filtered stream at the renowned station of you who are worthy of reknown ; (the Soma) the destroyer of enemies has shaken down (for us) sixty thousand treasures for victory as (one shakes) a tree whose fruit is ripe.
+#### Ṛk 54
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मही॒मे अ॑स्य॒ वृष॒नाम॑ शू॒षे माँश्च॑त्वे वा॒ पृश॑ने वा॒ वध॑त्रे ।  
+> अस्वा॑पयन्नि॒गुतः॑ स्ने॒हय॒च्चापा॒मित्राँ॒ अपा॒चितो॑ अचे॒तः ॥ ५४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महिं । इमे इति । अस्य । वृषनाम । शूषे इति । मांश्चत्वे । वा। पृशने । वा। वधत्रे इति ।  
+> अस्वापयत्। निगुतः ॥ स्नेहयत् । च। अप । अमित्रान् । अप । अचितः । अच । इतः ॥ ५४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महि महती प्रभूते वृषनाम सुपांसुलुगिति सुपो लुक् वृषनामनी वर्षणनमने शराणां वर्षणं शत्रूणां नमनं इमे एते द्वे कर्मणी अस्य सोमस्य शूषे सुखकरेभवतः । ये च कर्मणी मांश्चत्वे अश्वनामैतत् । मक्षू चरतीति अश्वैः क्रियमाणे युद्धे तत्साध्यत्वात् युद्धमिह गृह्यते । वा अपि वा पृशने स्पर्शनसाध्ये बाहुयुद्धे वधवे शत्रूणां हिंसनशीले भवतः सोयं निगुतः नीचैः शब्दायमानान शत्रून् अस्वापयत् ताभ्यामसूषुपत् । अवधीदित्यर्थः । किंच स्नेहयत् प्राद्रवयत संग्रामाच्छत्रून् । अथ प्रत्यक्षतः हे सोम सत्वं अमित्रान् शत्रून् अपाच अपागमय । तथा अचितः अग्निचयनमकुर्वतो नास्तिकांश्च इतोस्मत्सकाशात् अपाच अपगमय अचतिर्गतिकर्मा ॥ ५४ ॥
+
+##### Gist of the bhāṣya
+
+Great and abundant are these two acts, the raining of arrows and the bowing down of enemies; they are pleasing to this Soma. The horse is the one that moves swiftly; since war is accomplished by horses, war is meant here. Or else the hand-to-hand fight is the one accomplished by touch. In both these the two acts are deadly to enemies. This Soma put to sleep the Nigutas, the enemies who sound low, by these two; the meaning is that he killed them. Further, he drove the enemies away from the battle. Now, directly: O Soma, drive the enemies away; and drive away from us here those who do not perform the Agni-piling and the unbelievers. The verb used for driving away is a root of motion.
+### Printed p. 860
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महि (*mahi*)—exceedingly
+- वृषनामु (*vṛṣanāmu*)—the raining of rain and the bowing down of enemies, called
+- इमे (*ime*)—these two acts
+- अस्य (*asya*)—for this Soma
+- शूषे (*śūṣe*)—are pleasing
+- मांश्चत्वे (*māṃścatve*)—(these two acts also) in wars fought with horses
+- वा (*vā*)—or
+- पृशने (*pṛśane*)—in tumultuous wars fought with the arms
+- वधत्रे (*vadhatre*)—are destroyers of enemies
+- निगुतः (*nigutaḥ*)—the enemies who had fallen down and were sounding
+- अस्वापयॆत् (*asvāpayèt*)—he made them sleep a long sleep (destroyed them) **NOTE**
+- स्नेहयॆत् (*snehayèt*)—he drove the rest far away **NOTE**
+- (O Soma-god) अमित्रान् (*amitrān*)—the enemies
+- अप अच (*apa aca*)—drive far away
+- अचितः (*acitaḥ*)—also those who do not perform the work of the fire
+- इतः (*itaḥ*)—from here
+- अप (*apa*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+The raining of rain to the utmost and the making of enemies bow their heads, these two acts are pleasing to Soma. Whether at the time of war fought with horses or at the time of tumultuous war fought with the arms, these two acts are destroyers of enemies. Soma silenced the enemies who had fallen down and were sounding, and destroyed them. He drove the rest far away. O Soma-god, drive the enemies far away; drive far away those who do not perform the work of the fire.
+
+##### English translation
+Thease two great acts, the raining (of arrows) and the humiliation (of foes), are the givers of happiness ; they are deadly either in a fight on horse-back or in a hand to hand fight ; he has put the foes to sleep and driven them away ; do you (Soma) drive away the enemies and unbelievers.
+#### Ṛk 55
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सं त्री प॒वित्रा॒ वित॑तान्ये॒ष्यन्वेकं॑ धावसि पू॒यमा॑नः ।  
+> असि॒ भगो॒ असि॑ दा॒त्रस्य॑ दा॒तासि॑ म॒घवा॑ म॒घव॑द्भ्य इंदो ॥ ५५ ॥
+
+### Printed p. 861
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । त्री। पवित्रा । विऽततानि । एषि । अनु । एकम् । धावसि । पूयमानः ।  
+> असि । भगः । असि । दात्रस्य । दाता । असि । मघऽवा । मघवत्भ्यः । इंदो इति ॥ ५५ ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम विततानि विस्तृतानि त्री त्रीणि पवित्रा अग्निवायुसूर्यात्मकानि पवित्राणि समेषि सम्यक्प्राप्नोषि । किंच पूयमानस्त्वं एकमविवालकृतंपवित्रं अनुधावसि अनुगच्छसि । किंच त्वं भगो भजनीयोसि तथा दात्रस्य देयस्य धनस्य दातासि । कथमस्य धनदत्वमिति चेत्तदुच्यते । हे इंदो सोम मघवद्भ्योन्येभ्योपि त्वं मघवासि अतिशयेन धनवान्भवसि ॥ ५५ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you well reach the three outstretched filters, which are of the nature of Agni, Vāyu and Sūrya. Further, being purified, you run after the one filter, made of sheep's wool. Further, you are Bhaga, to be worshipped, and you are the giver of the wealth that is to be given. If it is asked how he is a giver of wealth, it is said: O Indu, Soma, you are exceedingly wealthy, more so than the other wealthy ones.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god)
+- विततानि (*vitatāni*)—outstretched
+- त्री पवित्रा (*trī pavitrā*)—the three filters called Agni, Vāyu and Āditya
+- समेषि (*sameṣi*)—you enter
+- पूयमानः (*pūyamānaḥ*)—while being purified
+- एकं (*ekaṃ*)—only the filter of wool
+- अनु धावसि (*anu dhāvasi*)—you enter
+- त्वं (*tvaṃ*)—you
+- भगः (*bhagaḥ*)—as the worshipful
+- असि (*asi*)—you are
+- दात्रस्य (*dātrasya*)—for the wealth fit to be given
+- दाता असि (*dātā asi*)—you are the giver
+- इंदो (*iṃdo*)—O Soma-god
+- मघवध्भ्यः (*maghavadhbhyaḥ*)—among all the wealthy **NOTE**
+- मघवा असि (*maghavā asi*)—you are the wealthy one
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you enter the three outstretched filters called Agni, Vāyu and Āditya. While being purified, you enter only the filter of wool. You are worshipful. You are the giver of the wealth fit to be given, and the wealthiest among all the wealthy.
+
+##### English translation
+You reach the three outstretched filters, you hasten to the one (filter) being purified ; you are Bhaga, you are the donor of gifts, you Indu, are more affluent than the affiuent.
+#### Ṛk 56
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वि॑श्व॒वित्प॑वते मनी॒षी सोमो॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ।  
+> द्र॒प्साँ ई॒रय॑न्वि॒दथे॒ष्विंदु॒र्वि वार॒मव्यं॑ स॒मयाति॑ याति ॥ ५६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 855. Vol 26 pp. 850-855
+**Progress note:** Done through printed p. 861. Vol 26 pp. 856-861
