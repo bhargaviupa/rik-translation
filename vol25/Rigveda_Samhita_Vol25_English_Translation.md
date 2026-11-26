@@ -30808,6 +30808,293 @@ O Soma, you are सधमाद्यः (*sadhamādyaḥ*). सधमादो 
 - वाजं (*vājaṃ*)—food
 - सिषाससि (*siṣāsasi*)—you wish to give
 
+### Printed p. 762
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who are worthy of the sacrifice, you flow for the drinking of Indra and of the other gods. O Soma, such as you are, you wish to give us food.
+
+##### English translation
+Soma, you are worthy of the sacrifice; you flow to Indra and to the gods; you, Indu, vouchsafe to give us food.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्य पी॒त्वा मदा॑ना॒मिंद्रो॑ वृ॒त्राण्य॑प्र॒ति ।  
+> ज॒घान॑ ज॒घन॑च्च॒ नु ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्य । पीत्वा । मदानाम् । इंद्रः । वृत्राणि । अप्रति ।  
+> जघान । जघनत् । च । नु ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदानां मदकराणां मध्येऽतिशयेन मदकरम् अस्य अमुं सोमं पीत्वा वृत्राणि शत्रून् अप्रतिगतः सन् इंद्रः जघान हतवान् । नु क्षिप्रं जघनत् च । हंतु चेदानीमपि ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+Of the intoxicating (मदानां (*madānāṃ*), that is, those that gladden) Soma-juices, this one (अस्य (*asya*), that is, अमुं (*amuṃ*)), the most gladdening among them, having been drunk, Indra, having gone against the foes (वृत्राणि (*vṛtrāṇi*), that is, enemies) without opposition, slew them (जघान (*jaghāna*), that is, has slain). नु (*nu*) means quickly; may he also slay (जघनत् (*jaghanat*)) now.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदानां (*madānāṃ*)—of the juices that cause delight, the most excellent
+- अस्य अमुं (*asya amuṃ*)—this Soma-juice
+- इंद्रः (*iṃdraḥ*)—Indra
+- पीत्वा (*pītvā*)—having drunk
+- वृत्राणि (*vṛtrāṇi*)—the enemies
+- जघान (*jaghāna*)—destroyed
+- नु (*nu*)—quickly
+- जघनच्चलू (*jaghanaccalū*)—may he destroy
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Having drunk this Soma-juice, the most delightful among the juices that cause delight, Indra destroyed his enemies in the past. May he destroy them now also.
+
+##### English translation
+Having drunk of this chief of exhilarating draughts, Indra irresistible has slain his foes, and may he ever slay them.
+
+### Printed p. 763
+
+## Sūkta 24 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> 'प्र सोमासः' इति सप्तर्चं चतुर्विंशं सूक्तम् । असितो देवलो वर्षिर्गायत्री छंदः सोमो देवता । ‘प्र सोमासः' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र सोमासः (*pra somāsaḥ*) of seven Ṛks is the twenty-fourth sūkta. Asita and Devala are the seer, the metre is Gāyatrī, the deity is Soma. In the Anukramaṇikā it is said प्र सोमासः (*pra somāsaḥ*). The use has been stated.
+
+**NOTE**
+
+Anuvāda: This sūkta प्र सोमासः (*pra somāsaḥ*) is the twenty-fourth sūkta in the first anuvāka. It has seven Ṛks. As for the preceding sūkta, Asita Kāśyapa, or Devala, is the seer of this sūkta; Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said प्र सोमासः (*pra somāsaḥ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 1; Sūkta 24. Aṣṭaka 6; Adhyāya 8; Varga 14. Number of Ṛks in the sūkta: 7.
+
+Seer: Asitaḥ Kāśyapo Devalo vā.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+**NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोमा॑सो अधन्विषुः॒ पव॑मानास॒ इंद॑वः ।  
+> श्री॒णा॒ना अ॒प्सु मृं॑जत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमासः । अधन्विषुः । पवमानासः । इंदवः ।  
+> श्रीणानाः । अप्ऽसु । मृंजत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमासः सोमाः पवमानासः पूयमानाः इंदवः दीप्ताः प्र अधन्विषुः । धन्वतिर्गतिकर्मा। प्रगच्छंति । किंच श्रीणानाः गोभिः श्रयमाणाः अप्सु वसतीवरीषु च मृंजत मृज्यंते ।
+
+##### Gist of the bhāṣya
+
+The Somas (सोमासः (*somāsaḥ*)), being purified (पवमानासः (*pavamānāsaḥ*), that is, पूयमानाः (*pūyamānāḥ*)), shining (इंदवः (*iṃdavaḥ*), that is, दीप्ताः (*dīptāḥ*)), go forth (अधन्विषुः (*adhanviṣuḥ*)): the root धन्वति (*dhanvati*) denotes motion; they proceed. Further, being mixed (श्रीणानाः (*śrīṇānāḥ*), that is, joined) with cows' products, they are cleansed (मृंजत (*mṛṃjata*), that is, मृज्यंते (*mṛjyaṃte*)) in the waters (अप्सु (*apsu*)), that is, in the वसतीवरीषु (*vasatīvarīṣu*) waters.
+
+### Printed p. 764
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमासः (*somāsaḥ*)—these Soma-juices
+- पवमानासः (*pavamānāsaḥ*)—pressed (?) and purified
+- इंदवः (*iṃdavaḥ*)—brilliantly (clearly)
+- प्र अधन्विषुः (*pra adhanviṣuḥ*)—flow trickling
+- श्रीणानः (*śrīṇānaḥ*)—mixed with milk or curds, the products of cows
+- अप्सु (*apsu*)—in the वसतीवर्युदकगळल्लि (*vasatīvaryudakagaḷalli*) waters
+- व्यंजत (*vyaṃjata*)—they are mixed
+
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, well pressed and purified, flow shining clear. Mixed with milk or curds, they unite with the waters called vasatīvarī.
+
+##### English translation
+The purified effused Soma–juices have flowed forth,—mixing (wit curds and milk) they are cleansed in the waters.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि गावो॑ अधन्विषु॒रापो॒ न प्र॒वता॑ य॒तीः ।  
+> पु॒ना॒ना इंद्र॑माशत ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । गावः । अधन्विषुः । आपः । न । प्रऽवता । यतीः ।  
+> पुनानाः । इंद्रम् । आशत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गावः गमनशीला इंदवः अभि अधन्विषुः अभिगच्छंति दशापवित्रम् । किमिव । प्रवता प्रवणवता देशेन यतीः गच्छंत्यः आपो न आप इव । पश्चात् पुनानाः इंद्रं प्रीणयितुम् आशत व्याप्नुवन् । आहुतिप्रणाड्येंद्रमेव वा व्याप्नुवन् ॥
+
+##### Gist of the bhāṣya
+
+The गावः (*gāvaḥ*), that is, the Soma-juices whose nature is to move, go towards (अभि अधन्विषुः (*abhi adhanviṣuḥ*), that is, अभिगच्छंति (*abhigacchaṃti*)) the ten-stranded filter (दशापवित्रम् (*daśāpavitram*)). Like what? Like waters (आपो न (*āpo na*), that is, आप इव (*āpa iva*)) flowing (यतीः (*yatīḥ*), that is, going) through a sloping region (प्रवता (*pravatā*), that is, प्रवणवता देशेन (*pravaṇavatā deśena*)). Afterwards, purified (पुनानाः (*punānāḥ*)), they reach (आशत (*āśata*), that is, pervade) Indra in order to please him; or else they pervade Indra himself by the channel of the oblation.
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रवता (*pravatā*)—in low-lying regions
+- यतीः (*yatīḥ*)—flowing
+- आपो न (*āpo na*)—like waters
+- गावः (*gāvaḥ*)—these Soma-juices whose nature is to flow
+- अभि अधन्विषुः (*abhi adhanviṣuḥ*)—flow towards the ten-stranded filter
+- इंद्रं (*iṃdraṃ*)—Indra
+- पुनानाः (*punānāḥ*)—to gladden
+- आशत (*āśata*)—they reach Indra
+
+### Printed p. 765
+
+##### भावार्थ (Bhāvārtha)
+
+Like water flowing swiftly in low-lying regions, these Soma-juices, whose nature is to flow, hasten to the ten-stranded filter for purification, and reach Indra (by way of the oblation) in order to gladden Indra.
+
+##### English translation
+The flowing juices rush (to the filter), like waters flowing down a declivity ; purified they gratify Indra.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र प॑वमान धन्वसि॒ सोमेंद्रा॑य॒ पात॑वे ।  
+> नृभि॑र्य॒तो वि नी॑यसे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । पवमान । धन्वसि । सोम । इंद्राय । पातवे ।  
+> नृऽभिः । यतः । वि । नीयसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम इंद्राय इंद्रस्य पातवे पानाय प्र धन्वसि प्रगच्छस्याहवनीयं प्रति हविर्धानात् । तदेवाह। नृभिः नेतृभिर्ऋत्विग्भिः यतः विनीतः वि नीयसे हविर्धानात् । अथवा । पवमान प्र धन्वसि पात्रं प्रतींद्रपानाय तदर्थं हविर्धानाद्वि नीयसे ।
+
+##### Gist of the bhāṣya
+
+O purifying (पवमान (*pavamāna*)) Soma, you go forth (प्र धन्वसि (*pra dhanvasi*)) for Indra's drinking (पातवे (*pātave*)) towards the Āhavanīya fire, from the vessel called the Havirdhāna. He says that very thing: you are led (वि नीयसे (*vi nīyase*)) from the हविर्धानात् (*havirdhānāt*) by the leaders (नृभिः (*nṛbhiḥ*)), the priests, from where (यतः (*yataḥ*)) you have been led. Or else: O purifying Soma, you go forth to the vessel for Indra's drinking; for that purpose you are led out of the Havirdhāna.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—purifier
+- सोम (*soma*)—you, O Soma
+- इंद्राय (*iṃdrāya*)—of Indra
+- पातवे (*pātave*)—for the drinking
+- प्र धन्वसि (*pra dhanvasi*)—you go (to the Āhavanīya fire)
+- नृभिः (*nṛbhiḥ*)—by the priests who lead the sacrifice
+- यतः (*yataḥ*)—from the Havirdhāna region (from the cart) to the vicinity of the Āhavanīya fire
+- वि नीयसे (*vi nīyase*)—you are carried
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, purifier, you go to the Āhavanīya fire for the drinking of Indra. By the priests, the leaders of the sacrifice, you are carried from the cart called the Havirdhāna, which brings the Soma, to the vicinity of the Āhavanīya fire on the northern altar
+
+### Printed p. 766
+
+##### English translation
+Purifier, Soma, you proceed to Indra for his drinking,—thence are you brought by the priests.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म नृ॒माद॑नः॒ पव॑स्व चर्षणी॒सहे॑ ।  
+> सस्नि॒र्यो अ॑नु॒माद्यः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । नृऽमादनः । पवस्व । चर्षणिऽसहे ।  
+> सस्निः । यः । अनुऽमाद्यः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नृमादनः नृणां मादयिता त्वं चर्षणीसहे । चर्षणयो मनुष्या द्वेष्टारः । तेषां समभिभवित्र इंद्राय पवस्व क्षर यः त्वं सस्निः शुद्धः अनुमाद्यः स्तुत्यः स पवस्वेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are the exhilarator of men (नृमादनः (*nṛmādanaḥ*), that is, नृणां मादयिता (*nṛṇāṃ mādayitā*)). Flow (पवस्व (*pavasva*), that is, stream) for Indra, the overcomer (चर्षणीसहे (*carṣaṇīsahe*)): चर्षणयो (*carṣaṇayo*) are men who are haters, and Indra is the one who overpowers them. You who are सस्निः (*sasniḥ*), pure, and अनुमाद्यः (*anumādyaḥ*), worthy of praise: let such a one flow. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- त्वं (*tvaṃ*)—you
+- नृमादनः (*nṛmādanaḥ*)—you who are a gladdener of men
+- यः (*yaḥ*)—you who
+- सस्निः (*sasniḥ*)—are pure
+- अनुमाद्यः (*anumādyaḥ*)—and worthy of praise
+- सः त्वं (*saḥ tvaṃ*)—such as you are
+- चर्षणीसहे (*carṣaṇīsahe*)—for the drinking of Indra, who defeats the enemies that hate men
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you are the one who brings delight to men; being pure and worthy of praise, flow for the drinking of Indra, who defeats his enemies.
+
+##### English translation
+You, Soma, who are the exhilarator of men, flow to (Indra), the conqueror of enemies, you who are pure and to be worshipped.
+
+### Printed p. 767
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदो॒ यदद्रि॑भिः सु॒तः प॒वित्रं॑ परि॒धाव॑सि ।  
+> अर॒मिंद्र॑स्य॒ धाम्ने॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदो इति । यत् । अद्रिऽभिः । सुतः । पवित्रम् । परिऽधावसि ।  
+> अरम् । इंद्रस्य । धाम्ने ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो त्वं यत् यदा अद्रिभिः ग्रावभिः सुतः अभिषुतः पवित्रं दशापवित्रं परिधावसि परिगच्छसि । तदा इंद्रस्य धाम्ने स्थानायाधारकायोदराय वा अरं पर्याप्तो भवसि ॥
+
+##### Gist of the bhāṣya
+
+O Indu, when (यत् (*yat*), that is, यदा (*yadā*)) you, pressed (सुतः (*sutaḥ*), that is, अभिषुतः (*abhiṣutaḥ*)) by the stones (अद्रिभिः (*adribhiḥ*), that is, ग्रावभिः (*grāvabhiḥ*)), run around (परिधावसि (*paridhāvasi*), that is, परिगच्छसि (*parigacchasi*)) the filter (पवित्रं (*pavitraṃ*), that is, the ten-stranded filter), then you become sufficient (अरं (*araṃ*), that is, पर्याप्तो (*paryāpto*)) for Indra's abode (धाम्ने (*dhāmne*)), that is, for his place, or for his belly, the support.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma, you
+- यत् (*yat*)—when
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुतः (*sutaḥ*)—crushed and pressed
+- पवित्रं (*pavitraṃ*)—(to be purified) to the ten-stranded filter
+- परि धावसि (*pari dhāvasi*)—you run swiftly, then
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- धाम्ने (*dhāmne*)—in the place, that is, in the belly
+- अरं (*araṃ*)—you pervade
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, when, crushed and pressed by the pressing stones, you run to the ten-stranded filter for purification, then you enter the belly of Indra and pervade it.
+
+##### English translation
+When, Indu, effused by the stones, you hasten to the filtering-cloth, you are an ample portion for Indra's belly.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व वृत्रहंतमो॒क्थेभि॑रनु॒माद्यः॑ ।  
+> शुचिः॑ पाव॒को अद्भु॑तः ॥ ६ ॥
+
 ---
 
-**Progress note:** Done through printed p. 761. Vol 25 pp. 756-761: sūkta 22 Ṛk 7 end; sūkta 23 Ṛks 1-6
+**Progress note:** Done through printed p. 767. Sūkta 23 Ṛk 6-7, Sūkta 24 Ṛk 1-5 (Ṛk 6 Saṃhitā)
