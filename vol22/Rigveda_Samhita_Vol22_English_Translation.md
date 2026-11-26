@@ -4297,6 +4297,165 @@ Sāyaṇa says: Indra is king of the whole world, lord of all, and his anger is 
 - वाणीः (*vāṇīḥ*)—the praises
 - सहध्यै (*sahadhyai*)—enemy
 
+### Printed p. 97
+
+enemies, in order to defeat (them)
+- दधिरे (*dadhire*)—make (him) powerful
+- हर्यश्वाय (*haryaśvāya*)—(O praiser) to praise Indra, who has horses named Hari
+- आपीन् (*āpīn*)—all (your) kinsmen
+- सं बर्हय (*saṃ barhaya*)—encourage
+
+##### भावार्थ (Bhāvārtha)
+
+The praises make Indra, who is lord of the whole world and has an anger that no one can withstand, powerful enough to destroy his enemies. O praiser, encourage all your kinsmen to praise Indra, who has the horses named Hari.
+
+##### English translation
+Praises truly enable the universal monarch, Indra, whose wrath is rresistible, to overcome (his foes) : urge your kinsmen. (worshipper, to glorify) the lord of bay steeds.
+
+## Sūkta 32 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मो षु त्वेति सप्तविंशत्यृचं पंचदशं सूक्तं । आत्रेयमनुक्रमणिका । मो षु सप्ताधिका प्रगाथं तृतीया द्विपदा सौदासैरगौ प्रक्षिप्यमाणः शक्तिरंत्यं प्रगाथमालेभे सोऽर्धर्च उक्तोऽदृश्यत । तं पुत्रोक्तं वसिष्ठः समापयतेति शाट्यायनकं वसिष्ठस्यैव हतपुत्रस्यार्षमिति तांडकमिति । मंडलद्रष्टा वसिष्ठ ऋषिः । इंद्र क्रतुं न इति प्रगाथस्यार्धर्चस्य च वसिष्ठपुत्रः शक्तिर्वसिष्ठो वा । इंद्रो देवता । अयुजो बृहत्यो युजः सतोबृहत्यः । तृतीया तु द्विपदा विराट् ॥ महाव्रते निष्केवल्ये बार्हतश्च इत्याचार्येणोक्तं । तत्र द्विपदामभि त्वा शूरेत्येतं राथंतरं प्रगाथं नकिः सुदास इति प्रगाथं च वर्जयेत् । तथैव पंचमारण्यके सूत्रितं । मो षु त्वा वाघतश्चनेत्येतस्य द्विपदां चोद्धरति राथंतरं च प्रगाथमथ हास्य नकिः सुदासो रथमित्येतं प्रगाथमुद्धृत्य त्वामिदा ह्यो नर इत्येतं प्रगाथं प्रत्यवदधाति । ऐ. आ. ५-२-४ । इति ॥ चातुर्विंशिकेऽहनि पंचमेऽहनि च निष्केवल्ये मो षु त्वा वाघत इति प्रगाथः सद्विपदः । सूत्रितं च । मो षु त्वा वाघतश्चनेति सद्विसद उपसमस्येद्द्विपदां । आ. ७-३ । इति ॥ चातुर्विंशिकेऽहनि मरुत्वतीये प्राकृतान्मरुत्वतीयात्तृगाथादनंतरं नकिः सुदास इति प्रगाथं शंसेत् । पृष्ठ्याभिप्लवषडहयोस्तृतीये षष्ठेऽहनि चायं प्रगाथः । तथैव सूत्रितं । नकिः सुदासो रथमिति मरुत्वतीया ऊर्ध्वं नित्यादिति । एवं स्थितान् प्रगाथान् पृष्ठ्याभिप्लवयोरन्वहं पुनःपुनरावर्तयेयुः । आ. ७-३ । इति ॥ अग्निष्टोमे माध्यंदिनसवने—
+> 13
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the sūkta मो षु त्वेति (*mo ṣu tveti*) has twenty-seven Ṛks and is the fifteenth sūkta. The Anukramaṇikā of the Ātreya school says: the sūkta मो षु (*mo ṣu*) has seven Ṛks beyond twenty and is a Pragātha; the third Ṛk is Dvipadā. Śakti, while being thrown into the fire by the men of Sudāsa, took up the last Pragātha; a half-verse was heard to be spoken by him, and Vasiṣṭha completed what his son had spoken: so Śāṭyāyanaka; the seer is Vasiṣṭha alone, whose son had been killed: so Tāṇḍaka. **NOTE**
+
+The seer of the maṇḍala is the seer Vasiṣṭha. For the Pragātha beginning इंद्र क्रतुं नः (*iṃdra kratuṃ naḥ*) and for the half-verse the seer is Vasiṣṭha's son Śakti or else Vasiṣṭha. The deity is Indra. The odd Ṛks are Bṛhatī, the even Ṛks Satobṛhatī; the third is Dvipadā Virāṭ.
+
+Its use: the Ācārya says that in the Niṣkevalya-śastra of the Mahāvrata it is of the Bārhata kind. There one should leave out the dvipadā, the Rāthantara Pragātha अभि त्वा शूर (*abhi tvā śūra*) and the Pragātha नकिः सुदास (*nakiḥ sudāsa*). So it is laid down in the fifth Āraṇyaka, in the passage quoted there (Ai. Ā. 5-2-4). On the Cāturviṃśika day and on the fifth day, in the Niṣkevalya-śastra, the Pragātha मो षु त्वा वाघत (*mo ṣu tvā vāghata*) is recited with its dvipadā, as the sūtra says (Ā. Sū. 7-3). On the Cāturviṃśika day, in the Marutvatīya-śastra, after the Tṛgāthā of the basic rite, the Pragātha नकिः सुदास (*nakiḥ sudāsa*) is to be recited; this Pragātha is also used on the third and sixth days of the Pṛṣṭhya and Abhiplava ṣaḍahas, as the sūtra says (Ā. Sū. 7-3); the Pragāthas so placed are repeated day after day. In the Agniṣṭoma, at the midday pressing,
+
+### Printed p. 98
+
+> च्छावाकशस्त्र उदिन्न्वस्य रिच्यत इति प्रगाथः । तथा च सूत्रितं । उदिन्न्वस्य रिच्यते भूय इत् । आ. ५-१६ । इति ॥ अग्निष्टोमे माध्यंदिनसवने मैत्रावरुणशस्त्रे कस्तमिंद्रेति प्रगाथः । सूत्रितं च । कस्तमिंद्र त्वावसुं सद्यो ह जातः । आ. ५-१६ । इति॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने मैत्रावरुणशस्त्रस्यायं प्रगाथः । अहर्गणेष्वपि द्वितीयादिष्वहःसु । सूत्रितं च । कस्तमिंद्र त्वावसुं कन्नव्यो अतसीनां । आ. ७-४ । इति ॥ आरंभणीयोः पर्यासान् कद्वतोऽहरहःश्स्यानीति होत्रकाः । आ ७-१ । इति ॥ पृष्ठ्यषडहस्य तृतीयेऽहनि निष्केवल्ये वैरूपसामपक्षे यदिंद्र यावत इत्यनुरूपस्तृचः । सूत्रितं च । यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रियानुरूपौ । आ. ७-१० । इति ॥ अग्निष्टोमे चातुर्विंशिकेऽहनि माध्यंदिनसवनेऽच्छावाकशस्त्रे तरणिरित्सिषासतीति वैकल्पिकस्तृचः । सूत्रितं च । तरोभिर्वो विदद्वसुं तरणिरित्सिषासति । आ. ७-४ । इति ॥ अग्निष्टोमे निष्केवल्यशस्त्रे रथंतरसामपक्षेऽभि त्वा शूरेति प्रगाथः स्तोत्रियः । सूत्रितं च । अभि त्वा शूर नोनुमोऽभि त्वा पूर्वपीतय इति प्रगाथौ स्तोत्रियानुरूपौ । आ. ५-१५ । इति ॥ आश्विनशस्त्रेऽस्यं प्रगाथः । तथैव सूत्रितं च । अभि त्वा शूर नोनुमो बहवः सूरचक्षस इति प्रगाथाः । आ. ६-५ इति ॥ महाव्रते निष्केवल्ये दक्षिणपक्षेऽयं प्रगाथः । तथैव पंचमारण्यके सूत्रितं । अभि त्वा शूर नोनुमोऽभि त्वा पूर्वपीतय इति रथंतरस्य स्तोत्रियानुरूपौ प्रगाथौ । ऐ. आ. ५-८ । इति ॥ आश्विनशस्त्र इंद्र क्रतुं न इति प्रगाथः । सूत्रितं च । इंद्र क्रतुं न आ भराभि त्वा शूर नोनुमः । आ. ६-५ । इति ॥ चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिशस्त्रेऽयं वैकल्पिकः स्तोत्रियः प्रगाथः । सूत्रितं च । इंद्र क्रतुं न आ भरेंद्र ज्येष्ठं न आ भर । आ. ७-४ । इति ॥
+
+##### Gist of the bhāṣya
+
+in the Acchāvāka-śastra the Pragātha उदिन्न्वस्य रिच्यत (*udinnvasya ricyata*) is used, as the sūtra says (Ā. Sū. 5-16). In the Agniṣṭoma, at the midday pressing, in the Maitrāvaruṇa-śastra the Pragātha कस्तमिंद्र (*kastamiṃdra*) is used, as the sūtra says (Ā. Sū. 5-16); on the Cāturviṃśika day, at the midday pressing, this is the Pragātha of the Maitrāvaruṇa-śastra, and also on the second and following days of the Ahargaṇas, as the sūtra says (Ā. Sū. 7-4), and the Hotrakas say the same (Ā. 7-1). On the third day of the Pṛṣṭhya-ṣaḍaha, in the Niṣkevalya-śastra, on the side of the Vairūpa-sāman, the Tṛca beginning यदिंद्र यावत (*yadiṃdra yāvata*) is the Anurūpa, as the sūtra says (Ā. Sū. 7-10). In the Agniṣṭoma on the Cāturviṃśika day, at the midday pressing, in the Acchāvāka-śastra the Tṛca beginning तरणिरित्सिषासतीति (*taraṇiritsiṣāsatīti*) is the alternative one, as the sūtra says (Ā. Sū. 7-4). In the Niṣkevalya-śastra of the Agniṣṭoma, on the side of the Rathantara-sāman, the Pragātha अभि त्वा शूर (*abhi tvā śūra*) is the Stotriya, as the sūtra says (Ā. Sū. 5-15). It is used in the Āśvina-śastra too, as the sūtra says (Ā. Sū. 6-5). In the Niṣkevalya of the Mahāvrata, on the southern side, this Pragātha is used, as the passage of the fifth Āraṇyaka says (Ai. Ā. 5-8). In the Āśvina-śastra the Pragātha इंद्र क्रतुं न (*iṃdra kratuṃ na*) is used, as the sūtra says (Ā. Sū. 6-5). On the Cāturviṃśika day, at the midday pressing, in the Brāhmaṇācchaṃsi-śastra this Pragātha is the alternative Stotriya, as the sūtra says (Ā. Sū. 7-4).
+
+The Anuvāda says: this sūkta beginning मो षु त्वा (*mo ṣu tvā*) is the fifteenth sūkta in the second anuvāka. It has twenty-seven Ṛks. In the Anukramaṇikā it is said: मो षु सप्ताधिका प्रगाथं तृतीया द्विपदा सौदासैरगौ प्रक्षिप्यमाणः शक्तिरंत्यं प्रगाथमालेभे सोऽर्धर्च उक्तोऽदृश्यत । तं पुत्रोक्तं वसिष्ठः समापयतेति शाट्यायनकं वसिष्ठस्यैव हतपुत्रस्यार्षमिति तांडकं (*mo ṣu saptādhikā pragāthaṃ tṛtīyā dvipadā saudāsairagau prakṣipyamāṇaḥ śaktiraṃtyaṃ pragāthamālebhe so 'rdharca ukto 'dṛśyata | taṃ putroktaṃ vasiṣṭhaḥ samāpayateti śāṭyāyanakaṃ vasiṣṭhasyaiva hataputrasyārṣamiti tāṃḍakaṃ*) **GLOSS** The seer of this sūkta is Vasiṣṭha, the seer of this maṇḍala. For the half-Pragātha of the 26th Ṛk, इंद्र क्रतुं नः (*iṃdra kratuṃ naḥ*), the seer is Śakti, son of Vasiṣṭha, or else Vasiṣṭha himself; the deity is Indra. In this sūkta the odd-numbered Ṛks are in the Bṛhatī metre; the even-numbered Ṛks are in the Satobṛhatī metre. The third Ṛk, रायस्कामः (*rāyaskāmaḥ*), is in the Dvipadā Virāṭ metre. This sūkta is applied in the Mahāvrata rite, when the mantras of the Niṣkevalya-śastra are recited, for the Ṛks in the Bṛhatī metre. But among them, the Ṛk in the Dvipadā-Virāṭ metre, the 22nd Ṛk, अभि त्वा शूर (*abhi tvā śūra*), a Rāthantara Pragātha, and the 10th Ṛk, नकिः सुदासः (*nakiḥ sudāsaḥ*), a Pragātha, are set aside. Therefore, leaving out these Ṛks, the remaining Ṛks are to be recited for the Ṛks in the Bṛhatī metre
+
+### Printed p. 99
+
+as is stated in the fifth Āraṇyaka of the Aitareya-āraṇyaka by the passage नो षु त्वा वाघतश्चनेत्येतस्य द्विपदां चोद्धरति राथंतरं च प्रगाथमथ हास्य नकिः सुदासो रथमित्येतं प्रगाथमुद्धृत्य त्वामिदा ह्यो नर इत्येतं प्रगाथं प्रत्यवदधाति (*no ṣu tvā vāghataścanetyetasya dvipadāṃ coddharati rāthaṃtaraṃ ca pragāthamatha hāsya nakiḥ sudāso rathamityetaṃ pragāthamuddhṛtya tvāmidā hyo nara ityetaṃ pragāthaṃ pratyavadadhāti*) (Ai. Ā. 5-2-4). **NOTE** On the day of the sacrifice called Cāturviṃśika and on the fifth day, at the time of reciting the Niṣkevalya-śastra mantras, the Pragātha नो षु त्वा वाघतः (*no ṣu tvā vāghataḥ*) (this Ṛk and the Ṛk that follows it) and one Ṛk of the Dvipadā-Virāṭ metre, रायस्कामः (*rāyaskāmaḥ*), are to be recited; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra नो षु त्वा वाघतश्चनेति सद्विपद उपसमस्येद्द्विपदां (*no ṣu tvā vāghataścaneti sadvipada upasamasyeddvipadāṃ*) (Ā. Sū. 7-3). On the day of the sacrifice called Cāturviṃśa, when the Marutvatīya-śastra mantras are recited, after the recitation of the Marutvatī Pragātha mantras that are to be recited in the basic rite, the Pragātha mantra नकिः सुदासः (*nakiḥ sudāsaḥ*) (Ṛks 10 and 11) is to be recited. That the same Pragātha mantra is to be recited on the third and sixth days of the sacrifices called Pṛṣṭhya-ṣaḍaha and Abhiplava-ṣaḍaha is explained by the sūtra of the Āśvalāyana-śrauta-sūtra नकिः सुदासो रथमिति मरुत्वतीया ऊर्ध्वं निश्यात् (*nakiḥ sudāso rathamiti marutvatīyā ūrdhvaṃ niśyāt*) and by the sūtra एवं स्थितान् प्रगाथान् पृष्ठ्याभिप्लवयोरन्वहं पुनःपुनरावर्तयेयुः (*evaṃ sthitān pragāthān pṛṣṭhyābhiplavayoranvahaṃ punaḥpunarāvartayeyuḥ*) (Ā. Sū. 7-3). In the Agniṣṭoma sacrifice, at the midday pressing, among the śastra mantras recited by the priest called Acchāvāka, the Pragātha mantra उद्दिन्न्वस्य रिच्यते (*uddinnvasya ricyate*) (Ṛks 12-13) is to be recited, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra उदिन्न्वस्य रिच्यते भूये इत् (*udinnvasya ricyate bhūye it*) (Ā. Sū. 5-16). In the Agniṣṭoma sacrifice, at the midday pressing, among the śastra mantras recited by the priest called Maitrāvaruṇa, the Pragātha mantra कस्तमिंद्र (*kastamiṃdra*) (Ṛks 14, 15) is to be recited, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra कस्तमिंद्र त्वावसुं सद्यो ह जातः (*kastamiṃdra tvāvasuṃ sadyo ha jātaḥ*) (Ā. Sū. 5-16). On the day of the sacrifice called Cāturviṃśika, at the midday pressing, among the śastra mantras recited by the priest called Maitrāvaruṇa, and also on the days from the second day of the sacrifice called Ahargaṇa onward, the Pragātha mentioned above is to be recited, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra कस्तमिंद्र त्वावसुं कन्न्वो अतसीनां (*kastamiṃdra tvāvasuṃ kannvo atasīnāṃ*) (Ā. Sū. 7-4) and by the sūtra आरंभणीयोः पर्यासान् कद्वत्कोऽहरहःशस्यानीति होत्रकाः (*āraṃbhaṇīyoḥ paryāsān kadvatko 'harahaḥśasyānīti hotrakāḥ*) (Ā. Sū. 7-1). On the third day of the sacrifice called Pṛṣṭhya-ṣaḍaha, when the Niṣkevalya-śastra mantras are recited, on the side of the Vairūpa-sāman, the two Pragāthas beginning यदिंद्र यावतः (*yadiṃdra yāvataḥ*) (Ṛks 18-31) are to be recited as Stotrīya and Anurūpa, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra यदिंद्र यावतस्त्वमिति प्रगाथौ स्तोत्रीयानुरूपौ (*yadiṃdra yāvatastvamiti pragāthau stotrīyānurūpau*) (Ā. Sū. 7-18). **NOTE** In the Agniṣṭoma sacrifice, on the day called Cāturviṃśika, at the midday pressing, among the śastra mantras recited by the priest called Acchāvāka, the three Ṛks beginning तरणिरित्सिषासति (*taraṇiritsiṣāsati*) (Ṛks 20-23) are to be recited as an alternative Tṛca, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra तरोभिर्वो विदद्वसुं तरणिरित्सिषासति (*tarobhirvo vidadvasuṃ taraṇiritsiṣāsati*) (Ā. Sū. 7-4). In the Agniṣṭoma sacrifice, when the Niṣkevalya-śastra mantras are recited
+
+### Printed p. 100
+
+on the side of the Rathantara-sāman, the Pragātha mantra beginning अभि त्वा शूर (*abhi tvā śūra*) is to be recited as the Stotriya mantras, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra अभि त्वा शूर नोनुमोऽभि त्वा पूर्व पीतये इति प्रगाथौ स्तोत्रियानुरूपौ (*abhi tvā śūra nonumo 'bhi tvā pūrva pītaye iti pragāthau stotriyānurūpau*) (Ā. Sū. 7-15?). **NOTE** This Pragātha mantra is to be recited for the Āśvina-śastra mantras also, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra अभि त्वा शूर नोनुमो बहवः सूरचक्षसः इति प्रगाथाः (*abhi tvā śūra nonumo bahavaḥ sūracakṣasaḥ iti pragāthāḥ*) (Ā. Sū. 6-5). In the Mahāvrata rite, when the Niṣkevalya-śastra mantras are recited, this Pragātha mantra is to be recited on the southern side, as is stated by the passage of the fifth Āraṇyaka of the Aitareya-āraṇyaka अभि त्वा शूर नोनुमोऽभि त्वा पूर्वपीतये इति रथंतरस्य स्तोत्रियानुरूपौ प्रगाथौ (*abhi tvā śūra nonumo 'bhi tvā pūrvapītaye iti rathaṃtarasya stotriyānurūpau pragāthau*) (Ai. Ā. 5-2-2). **NOTE** Among the Āśvina-śastra mantras also the Pragātha mantra इंद्र क्रतुं नः (*iṃdra kratuṃ naḥ*) (Ṛks 26-27) is to be recited, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra इंद्र क्रतुं न आ भराभि त्वा शूर नोनुमः (*iṃdra kratuṃ na ā bharābhi tvā śūra nonumaḥ*) (Ā. Sū. 6-5). On the day of the sacrifice called Cāturviṃśika, at the midday pressing, among the śastra mantras recited by the priest called Brāhmaṇācchaṃsi, the Pragātha mantra mentioned above is to be recited as the alternative Stotriya Pragātha mantra, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra इंद्र क्रतुं न आ भरेंद्र ज्येष्ठं न आ भर (*iṃdra kratuṃ na ā bhareṃdra jyeṣṭhaṃ na ā bhara*) (Ā. Sū. 7-4).
+
+Sūkta 32. Maṇḍala 7; Anuvāka 2; Sūkta 32. Aṣṭaka 5; Adhyāya 3; Varga 17, 18, 19, 20, 21. Number of Ṛks in the sūkta: 26. **NOTE** Seer: Vasiṣṭha for Ṛks 1-25 and the latter half of 26 and 27; Vasiṣṭha or Śakti for the first half of 26. Deity: Indra. Metre: Ṛks 1, 2, 4-27, Pragātha (odd Ṛks Bṛhatī, even Ṛks Satobṛhatī); Ṛk 3, Dvipadā.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो षु त्वा॑ वा॒घत॑श्च॒नारे अ॒स्मन्नि री॑रमन् ।  
+> आ॒रात्ता॑च्चित्सध॒मादं॑ न॒ आ ग॑ही॒ह वा॒ सन्नुप॑ श्रुधि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । त्वा । वाघतः । चन । आरे । अस्मत् । नि । रीरमन् ।  
+> आरात्तात् । चित् । सधमादं । नः । आ । गहि । इह । वा । सन् । उप । श्रुधि ॥१॥
+
+### Printed p. 101
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वयो वाघतश्चन यजमाना अस्मदस्मत्ते आरे दूरे मो नि रीरमन् । नि नितरां रमयंतु । अतस्त्वमारात्ताच्चिद्दूरेऽपि वर्तमानोऽस्मदीयं सधमादं यज्ञमा गहि । आगच्छ । इह वात्रापि वा सन् विद्यमान उप श्रुधि । अस्मदीयं स्तोत्रमुपशृणु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, may the other sacrificers (वाघतश्चन (*vāghataścana*)) not detain you far from us; may they not make you rest far away. Therefore you, even if you are staying far off, come to our sacrifice, which is the place of joint rejoicing; or if you are here, present, listen to our praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वा (*tvā*)—you
+- वाघतश्चन (*vāghataścana*)—any other sacrificers
+- अस्मत् (*asmat*)—than us
+- आरे (*āre*)—in a distant place
+- त्वा (*tvā*)—you
+- मो नि रीरमन् (*mo ni rīraman*)—let them not detain
+- आरात्ताच्चित् (*ārāttāccit*)—even from the most distant place
+- नः सधमादं (*naḥ sadhamādaṃ*)—to our sacrifice
+- आ गहि (*ā gahi*)—be pleased to come
+- इह वा (*iha vā*)—or in this very place of sacrifice
+- सन् (*san*)—being
+- उप श्रुधि (*upa śrudhi*)—listen to our praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let no other sacrificers detain you in a place farther away than we are. Be pleased to come to our sacrifice even from the most distant place. Staying right in this place of sacrifice, listen to our praises.
+
+##### English translation
+Let not, Indra, (other) worshippers detain you far from us : come from whatever distance to our assembly : present at this ceremony, hear our (prayers).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे हि ते॑ ब्रह्म॒कृतः॑ सु॒ते सचा॒ मधौ॒ न मक्ष॒ आस॑ते ।  
+> इंद्रे॒ कामं॑ जरि॒तारो॑ वसू॒यवो॒ रथे॒ न पाद॒मा  ॑
+> दधुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमे । हि । ते । ब्रह्मकृतः । सुते । सचा । मधौ । न । मक्षः । आसते ।  
+> इंद्रे । कामं । जरितारः । वसुयवः । रथे । न । पादं । आ । दधुः ॥ २ ॥
+
+### Printed p. 102
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदर्थं सुतेऽभिषुते सोमे ब्रह्मकृतः स्तोत्रकृतो मधौ न मधुनीव मक्षो मक्षिकाः सचा सहासते । उपविशंति । अथ परोक्षस्तुतिः । वसूयवो धनकामा जरितारः स्तोतारः काममिष्टमिंद्रे रथे न पादं रथे पादमिवा दधुः । समर्पयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, for you, when the Soma has been pressed, these praise-makers (ब्रह्मकृतः (*brahmakṛtaḥ*)) sit together like flies (मक्षः (*makṣaḥ*)) on honey. Now comes the indirect praise: the wealth-seeking praisers (जरितारः (*jaritāraḥ*)) lay their desire on Indra as one sets the foot on a chariot; that is, they entrust it to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) ते (*te*)—for you
+- सुते (*sute*)—when the Soma juice is pressed
+- इमे ब्रह्मकृतः (*ime brahmakṛtaḥ*)—these praisers
+- मधौ (*madhau*)—when honey is poured out
+- मक्षः न (*makṣaḥ na*)—as bees swarm
+- सचा (*sacā*)—all gathering together
+- आसते हि (*āsate hi*)—sit
+- रथे (*rathe*)—on a chariot
+- पादं न (*pādaṃ na*)—as one sets the foot for support
+- वसूयवः (*vasūyavaḥ*)—seekers of wealth
+- जरितारः (*jaritāraḥ*)—the praisers
+- कामं (*kāmaṃ*)—their desire
+- इंद्रे (*iṃdre*)—in Indra
+- आ दधुः (*ā dadhuḥ*)—cause to rest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the Soma juice is pressed for you, these praisers all gather and sit together, as bees swarm when honey is poured out. As one sets the foot on a chariot for support, the wealth-seeking praisers cause their desire to rest in Indra alone and obtain his protection.
+
+##### English translation
+When the libation is effused for you, these offerers of sacrifice swarm like flies round honey : the pious praisers, desiring riches, fix their hope upon Indra, like a foot upon a chariot.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒यस्का॑मो॒ वज्र॑हस्तं सु॒दक्षि॑णं पु॒त्रो न पि॒तरं॑ हुवे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रायःऽकामः । वज्रहस्तं । सुदक्षिणं । पुत्रः । न । पितरं । हुवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रायस्कामो धनकामोऽहं सुदक्षिणं शोभनदानं वज्रहस्तमिंद्रं पुत्रो न पुत्र इव पितरं हुवे । ह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: I, desiring wealth, call Indra, who holds the thunderbolt in his hand and gives well, as a son calls his father.
+
 ---
 
-**Progress note:** Done through printed p. 96. Sukta 31 Rk 5 end to Rk 12 start (pp. 91-96)
+**Progress note:** Done through printed p. 102. Sukta 31 Rk 12 end; Sukta 32 intro, Rks 1-3 (pp. 97-102)
