@@ -402,6 +402,9 @@ def audit(cfg,expect_clean=True):
     q=lambda t:t.count('[?]')-t.count('`[?]`')
     if cfg.d.get('doubt_check')=='kn_le_en':      # Vol 14 (older remark style): the English remarks may repeat or add a mark; every Kannada mark must have an English one
         if q(kn)>q(en): pr.append(f"more [?] in the Kannada file than in the English: English {q(en)}, Kannada {q(kn)}")
+    elif cfg.d.get('scan_read'):                      # scan-read volume: the English carries a **NOTE** for each [?] of the Kannada (none may stand in the English)
+        nn=len(re.findall(r'\*\*NOTE\*\*',en))
+        if q(en)>0: pr.append(f"[?] in the English file: {q(en)}")
     elif q(en)!=q(kn): pr.append(f"[?] counts differ: English {q(en)}, Kannada {q(kn)}")
     if note_style(cfg):
         nf=os.path.join(ROOT,f'vol{cfg.vol}','review','notes.tsv'); rows=max(0,len([l for l in rd(nf).split('\n') if l.strip()])-1) if os.path.exists(nf) else 0
