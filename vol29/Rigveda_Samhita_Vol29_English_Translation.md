@@ -6017,7 +6017,7 @@ As soon as the Lord, the one without a second, wished "I must be extended in man
 
 हिरण्यमांडं व्यरुजन्नाह तर्हि का चन प्रतिष्ठास तदेनमिदमेव हिरण्मयमांडं यावत्संवत्सरस्य वेलासी तावद्भिभ्रत्पर्यप्लवत । (*hiraṇyamāṃḍaṃ vyarujannāha tarhi kā cana pratiṣṭhāsa tadenamidameva hiraṇmayamāṃḍaṃ yāvatsaṃvatsarasya velāsī tāvadbhibhratparyaplavata |*) (Śa. Brā. 11-1-6-2)
 
-The golden egg floated on the water for a year. After a year Prajāpati appeared. At that time Prajāpati had no resting place. He too, for a year, depended on the egg in the form of the golden womb, and afterwards uttered speech. How is that?
+Hiraṇyagarbha floated on the water for a year. After a year Prajāpati appeared. At that time Prajāpati had no resting place. He too, for a year, depended on the egg in the form of the golden womb, and afterwards uttered speech. How is that?
 
 स भूरिति व्याहरत्सेयं पृथिव्यभवद्भुव इति तदिदमंतरिक्षमभवत्स्वरिति सासौ दौरभवत्तस्मादु................ (*sa bhūriti vyāharatseyaṃ pṛthivyabhavadbhuva iti tadidamaṃtarikṣamabhavatsvariti sāsau daurabhavattasmādu................*) (Śa. Brā. 11-1-6-3)
 
@@ -7689,7 +7689,7 @@ The waters, before creation, held that womb of the form of Viśvakarman, in whic
 
 ### Printed p. 298
 
-are established, in that unique Brahma-egg, is established in the navel of the unborn primal principle. (Or: this unique Brahma-egg is established in the water that binds the whole world.)
+are established, that unique Brahma-egg is established in the navel of the unborn primal principle. (Or: this unique Brahma-egg is established in the water that binds the whole world.)
 
 ##### English translation
 The waters verily first retained the embryo in which all the god, were aggregated, single, deposited on the navel of the unborn (creator), in which all beings abode.
@@ -15292,8 +15292,6 @@ O Agni, burn the destructive Asuras with your all-pervading, sharp radiance. Bur
 ##### English translation
 Consume, Agni, the treacherous Rakshasas with your all-pervading sharp flame, with your flame-pointed darts.
 
-**Verse 23**
-
 **NOTE**
 
 #### Ṛk 24
@@ -20524,7 +20522,7 @@ A man who desires a good son should, together with his wife, keep a fast with di
 
 त्वादश द्वादशीः सम्यक् पयसा निर्वपेच्चरुं । यः करोति सहस्रं स्याद्याति विष्णोः परं पदं ॥ (*tvādaśa dvādaśīḥ samyak payasā nirvapeccaruṃ | yaḥ karoti sahasraṃ syādyāti viṣṇoḥ paraṃ padaṃ ‖*)
 
-In this way, the man who on twelve Dvādaśī days offers homa a thousand times with parameśanna prepared with milk and with caru (cooked rice) obtains, after death, the excellent state that is called the supreme abode of Viṣṇu.
+In this way, the man who on twelve Dvādaśī days offers homa a thousand times with paramānna prepared with milk and with caru (cooked rice) obtains, after death, the excellent state that is called the supreme abode of Viṣṇu.
 
 हुत्वाग्निं विधिवत्सम्यगृग्भिः षोडशभिर्द्विजः । कृतांजलिपुटो भूत्वा स्तवं ताभिः प्रयोजयेत् ॥ (*hutvāgniṃ vidhivatsamyagṛgbhiḥ ṣoḍaśabhirdvijaḥ | kṛtāṃjalipuṭo bhūtvā stavaṃ tābhiḥ prayojayet ‖*)
 
@@ -24541,7 +24539,7 @@ Speech has three parts. They are the Ṛk, Yajus and Sāman. Since it is made up
 
 this same purport is explained in detail in this section: that everything that is a part of the sacrifice is fashioned from the Ṛks and the rest. Moreover, the metre is joined with these Ṛks and the rest. That is why Prajāpati, who is of the form of sacrifice, has such great importance. As follows:
 
-प्रजापतिस्त्रय्या विद्यया सहापः प्रानिशत्........................ ॥ तद्यानि त्रीणि प्रथमानि । इमे ते लोका अथ यच्चतुर्थं यजुस्त्रयी सा विद्या जगती सा भवति जगती सर्वाणि छंदाग्ंसि सर्वाणि छंदाग्ंसि त्रयी विद्या (*prajāpatistrayyā vidyayā sahāpaḥ prāniśat........................ ‖ tadyāni trīṇi prathamāni | ime te lokā atha yaccaturthaṃ yajustrayī sā vidyā jagatī sā bhavati jagatī sarvāṇi chaṃdāgṃsi sarvāṇi chaṃdāgṃsi trayī vidyā*) (Śa. Brā. 6-3-1-11)
+प्रजापतिस्त्रय्या विद्यया सहापः प्रानिशत्........................ ॥ तद्यानि त्रीणि प्रथमानि । इमे ते लोका अथ यच्चतुर्थं यजुस्त्रयी सा विद्या जगती सा भवति जगती सर्वाणि छंदाग्ंसि सर्वाणि छंदाग्ंसि त्रयी विद्याथ यानि चत्वार्युत्तमानि दितस्तानीमे च वै लोका दिशश्च प्रजापतिरथैषा त्रयी विद्या ॥ (*prajāpatistrayyā vidyayā sahāpaḥ prāniśat........................ ‖ tadyāni trīṇi prathamāni | ime te lokā atha yaccaturthaṃ yajustrayī sā vidyā jagatī sā bhavati jagatī sarvāṇi chaṃdāgṃsi sarvāṇi chaṃdāgṃsi trayī vidyātha yāni catvāryuttamāni ditastānīme ca vai lokā diśaśca prajāpatirathaiṣā trayī vidyā ‖*) (Śa. Brā. 6-3-1-11)
 
 Prajāpati entered the waters together with the three knowledges (the three Vedas). The fruit of it was these three worlds. Together with them the Jagatī also was included. The Jagatī contains all the metres within itself. All these together formed the directions. Since the three Vedas, and the Jagatī that includes all the metres, are contained in Prajāpati himself, it is with this idea of identity that the Adhvaryu and the other priests carry out the sacrifice, as though the sacrifice too were made of the three Vedas. In these Vedas, produced from Prajāpati, who is of the form of sacrifice, the whole world is contained. As follows:
 
