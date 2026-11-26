@@ -4137,6 +4137,277 @@ Since it cannot be determined where you are, now, at this time, in whatever plac
 
 O Aśvins, if at this time of sacrifice you hear this prayer of mine, in whatever place you may be and at whatever time, grant that your protection may be near us.
 
+### Printed p. 103
+
+##### English translation
+If to-day, at some time, in some place, you would but hear my invocation,—let your protection abide near me.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒श्विना॑ याम॒हूत॑मा॒ नेदि॑ष्ठं या॒म्याप्य॑म् ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्विना । यामऽहूतमा । नेदिष्ठम् । यामि । आप्यम् ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यामहूतमा अतिशयेन काले ह्वातव्यौ अश्विना अश्विनौ यामि । नेदिष्ठम् अंतिकतमम् आप्यं बांधवं च यामि तयोः ॥
+
+##### Gist of the bhāṣya
+
+The Aśvins, who are to be called at the proper time with the greatest earnestness (यामहूतमा (*yāmahūtamā*)), I approach (यामि (*yāmi*)) for the closest (नेदिष्ठम् (*nediṣṭham*)) relationship and kinship (आप्यं (*āpyaṃ*)) with the two of them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—the Aśvins
+- यामुहूतमा (*yāmuhūtamā*)—they are to be invoked and called with prayer in all times of distress
+- नेदिष्ठं (*nediṣṭhaṃ*)—the closest
+- आप्यं (*āpyaṃ*)—kinship
+- यामि (*yāmi*)—I obtain with them
+- वां (*vāṃ*)—of you two
+- अवः (*avaḥ*)—protection
+- अंति षत् (*aṃti ṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+The Aśvins are to be invoked and called with prayer in all times of distress. I obtain with them the closest kinship. May the protection of you two be very close to us.
+
+##### English translation
+The Ashwins are earnestly to be invoked in emergency ; I enter in to closest friendship with them ; let your protection abide near me.
+
+### Printed p. 104
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवं॑त॒मत्र॑ये गृ॒हं कृ॑णु॒तं यु॒वम॑श्विना ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवंतम् । अत्रये । गृहम् । कृणुतम् । युवम् । अश्विना ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना युवं युवाम् अत्रये अग्न्यागारे दह्यमानाय अवंतं रक्षंतं गृहं कृणुतं कृतवंतौ । तादृशयोः वामवः भवतु । अवंतमिति व्यत्ययेन पुँल्लिंगता ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you two made for Atri, who was being burnt in the house of fire, a protecting (अवंतं (*avaṃtaṃ*)) house (गृहं (*gṛhaṃ*)). Let the protection of such as you be near. The word अवंतं (*avaṃtaṃ*) is masculine by a change of gender.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- युवं (*yuvaṃ*)—you two
+- अत्रये (*atraye*)—for Atri, who had been thrown into the fire
+- अवंतं (*avaṃtaṃ*)—protecting
+- गृहं (*gṛhaṃ*)—a house
+- कृणुतं (*kṛṇutaṃ*)—you made
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, you two made a protecting house for Atri, who had been thrown into the fire by the Asuras. Grant that your protection may be very close to us.
+
+##### English translation
+Aswins, you made a sheltering house for Atri let your protection abide near me.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वरे॑थे अ॒ग्निमा॒तपो॒ वद॑ते व॒ल्ग्वत्र॑ये ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ८ ॥
+
+### Printed p. 105
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वरेथे इति । अग्निम् । आऽतपः । वदते । वल्गु । अत्रये ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वल्गु मनोहरं वदते स्तुवते अत्रये आतपः आतपादौष्ण्यात् अग्निं वरेथे आवारयतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, for Atri, who praises you (वदते (*vadate*)) charmingly (वल्गु (*valgu*)), you two kept off (वरेथे (*varethe*)) the fire from the heat of its burning (आतपः (*ātapaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) वल्गु (*valgu*)—charmingly
+- वदते (*vadate*)—who praised
+- अत्रये (*atraye*)—for Atri
+- अतपः (*atapaḥ*)—from its burning fierceness
+- अग्निं (*agniṃ*)—the fire
+- वरेथे (*varethe*)—you held back
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, for Atri, who praised you charmingly, you held back the fire from its burning fierceness. Grant that your protection may be very close to us.
+
+##### English translation
+You stayed the fire from its fierceness for Atri, while he praised you acceptably ; let your protection abide near me.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स॒प्तव॑ध्रिरा॒शसा॒ धारा॑म॒ग्नेर॑शायत ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सप्तऽवध्रिः । आऽशसा । धाराम् । अग्नेः । अशायत ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ९ ॥
+
+### Printed p. 106
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सप्तवध्रिः महर्षिर्हे अश्विनौ युवयोः आशसा आशंसनेन स्तुत्या मंजूषाया निर्गत्य अग्नेः धारां तस्यां मंजूषायां प्र अशायत आशाययत् । स्वनिरोधिकां तां दग्धवानित्यर्थः । सप्तवध्रेः पेटिकांतःप्रवेशोऽश्विनोरनुग्रहान्निर्गमश्च ‘वि जिहीष्व वनस्पते' (ऋ. सं. ५. ७८.५) इत्यत्र स्पष्टमुक्तम् ॥
+
+##### Gist of the bhāṣya
+
+The great seer Saptavadhri, O Aśvins, by praise (आशसा (*āśasā*)) of you, came out of the chest and placed (प्र अशायत (*pra aśāyata*)) the stream (धारां (*dhārāṃ*)) of Agni in that chest; that is, he burnt the chest that confined him. Saptavadhri's entering the chest and coming out through the grace of the Aśvins is stated clearly in the passage वि जिहीष्व वनस्पते (*vi jihīṣva vanaspate*) (Ṛ. Saṃ. 5. 78.5). **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) सप्तवध्रिः (*saptavadhriḥ*)—the seer named Saptavadhri
+- आशसा (*āśasā*)—by the praise that extols you (coming out of the chest in which he had hidden himself)
+- अग्नेः (*agneḥ*)—of Agni
+- धारां (*dhārāṃ*)—the flame
+- प्र अशायत (*pra aśāyata*)—placed it in that chest and made it burn it
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the seer named Saptavadhri praised you and, as a result of your help, came out of the chest in which he had hidden himself, and made that chest burn with the fire. May your protection always be very close to us.
+
+##### English translation
+Through his praise of you Saptavadhri let the fire's flame-point (to his basket) ; let your protection abide near me.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒हा ग॑तं वृषण्वसू शृणु॒तं म॑ इ॒मं हव॑म् ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । आ । गतम् । वृषण्वसू इति वृषण्ऽवसू । शृणुतम् । मे । इमम् । हवम् ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १० ॥
+
+### Printed p. 107
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षणधनावश्विनौ इह अस्मिन् यज्ञे आ गतम् आगच्छतम् । तदर्थं मे मम इमं हवं शृणुतम् ॥ ॥ १९ ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you who are lords of showering wealth (वृषण्वसू (*vṛṣaṇvasū*)), come here to this sacrifice. For that, hear this invocation of mine.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—O Aśvins, who shower on us the objects of our desire
+- इह (*iha*)—to this our sacrifice
+- आ गतं (*ā gataṃ*)—come
+- मे (*me*)—my
+- इमुं हवं (*imuṃ havaṃ*)—this prayer
+- शृणुतं (*śṛṇutaṃ*)—hear
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close to us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, who fulfil all our desires, come to this our sacrifice. Hear this prayer of mine. May your protection be very close to us.
+
+##### English translation
+Come hither, lords of abundant wealth, hear this my invocation ; let your protection abide near me.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> किमि॒दं वां॑ पुराण॒वज्जर॑तोरिव शस्यते ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> किम् । इदम् । वाम् । पुराणऽवत् । जरतोःऽइव । शस्यते ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ वां युवयोरर्थमागमनाय पुराणवत् पुराणयोरतिवृद्धयोरिव । तदेवाह । जरतोरिव शस्यते । पुनःपुनरागच्छतमिति शस्यते । किमिदम् । यथा लोके वृद्धो जीर्णो बहुवारमाहूतोऽपि नागच्छति तद्वद्युवामपीत्यर्थः । एवमनागमाद्ब्रवीति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, for your coming, as if for two very old persons (पुराणवत् (*purāṇavat*)), as if for two aged ones (जरतोरिव (*jaratoriva*)), it is recited (शस्यते (*śasyate*)): "Come again and again." What is this? As in the world an old, decrepit man does not come though called many times, so you also do not; that is the meaning. Thus he speaks because of their not coming.
+
+### Printed p. 108
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) वां (*vāṃ*)—this praise addressed to you
+- पुराणवत् (*purāṇavat*)—born in very ancient times
+- जरतोरिव (*jaratoriva*)—as with old men, whose ears have become deaf, so that one has to say it again and again
+- शस्यते (*śasyate*)—is being recited again and again
+- किं इदं (*kiṃ idaṃ*)—what is the reason for this?
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying very close
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, as with old men born in former times, who, if they are deaf, do not hear however many times one speaks to them, so I too offer my praise to you again and again, and yet it has not reached your ears. What is the reason for this? Grant that your protection may always be near us.
+
+##### English translation
+Why is this (repeated invocation) addresred to you as if you were decrepit like old men ? Let your protection abide near me.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मा॒नं वां॑ सजा॒त्यं॑ समा॒नो बंधु॑रश्विना ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समानम् । वाम् । सऽजात्यम् । समानः । बंधुः । अश्विना ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ वां युवयोः परस्परं सजात्यं समानजातित्वं समानम् एकमेव । उभयोरप्यश्व1रूपायाः सूर्यपत्न्या उत्पत्तेः सजात्यम् । तथा युवयोः बंधुः बंधकः स्रुवः समानः एक एव । अथवर्षिरहं समान एक एव बंधुः ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, the kinship of birth (सजात्यं (*sajātyaṃ*)) between the two of you is common (समानम् (*samānam*)), one only; for both of you the common birth is from the wife of Sūrya in the form of a mare. Likewise the binder (बंधुः (*baṃdhuḥ*)) of you two is common, one only. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 102. end of Sūkta 72 Ṛk 18; Sūkta 73 Ṛks 1-5
+**Progress note:** Done through printed p. 108. Sūkta 73 Ṛks 5 (end)-12
