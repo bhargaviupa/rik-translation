@@ -9050,6 +9050,239 @@ O you who have no enemies, come hither ; you are summoned from the resplendent h
 
 रोचने (*rocane*)—अग्निभिर्दीप्यमाने (*agnibhirdīpyamāne*). The meaning is: brightly shining with the fires called Āhavanīya, Gārhapatya and Dakṣiṇāgni. This word is an epithet of the word उपमे (*upame*) (यज्ञे (*yajñe*)).
 
+### Printed p. 224
+
+उपमे (*upame*)—समीपे । स्तोतारः स्तोत्रशस्त्रात्मकं शब्दं कुर्वंत्यत्रेत्युपमो यज्ञः (*samīpe | stotāraḥ stotraśastrātmakaṃ śabdaṃ kurvaṃtyatretyupamo yajñaḥ*). Although the ordinary meaning of the word उपमे (*upame*) is "near", here the singers and the priests recite stotra and śastra mantras in a loud voice near (Agni); therefore the meaning यज्ञे (*yajñe*), "in the sacrifice", has been stated for the word उपमे (*upame*).
+
+उक्थानि (*ukthāni*)—स्तोत्राणि । त्रिवृत्पंचदशादिलक्षणानि स्तोत्राणि (*stotrāṇi | trivṛtpaṃcadaśādilakṣaṇāni stotrāṇi*). Stotras or stomas have varieties such as trivṛt, pañcadaśa and saptadaśa. The purport is that Indra is invoked and called by such stotras.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्या॒यमद्रि॑भिः सु॒तो गोभिः॑ श्री॒तो मदा॑य॒ कम् ।  
+> प्र सोम॑ इंद्र हूयते ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । अयम् । अद्रिऽभिः । सुतः । गोभिः । श्रीतः । मदाय । कम् ।  
+> प्र । सोमः । इंद्र । हूयते ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अद्रिभिः अभिषवसाधनैर्ग्रावभिः अयं सोमः तुभ्यं त्वदर्थं सुतः अभिषुतः । ततो दशापवित्रेण पूत्वा गोभिः गोविकारैः क्षीरादिभिः श्रीतः सोऽस्माभिः परावत एव संस्कृतः सोमस्तव मदाय मदार्थं कं सुखेन प्र हूयते अग्नौ स्वाहा क्रियते । तस्मादागत्य सोमं पिब ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra. This Soma has been pressed for you with the अद्रिभिः (*adribhiḥ*), the stones that serve as the means of pressing. Then, purified with the दशापवित्रेण (*daśāpavitreṇa*) (the ten-fold strainer), it has been mixed with गोविकारैः (*govikāraiḥ*), products of the cow such as milk. Thus prepared by us, **NOTE** the Soma is offered happily (कं (*kaṃ*)) for your exhilaration, that is, the स्वाहा (*svāhā*) offering is made in the fire. Therefore come and drink the Soma.
+
+### Printed p. 225
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- अद्रिभिः (*adribhiḥ*)—with the stones used for crushing and pressing out the Soma
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma-juice
+- तुभ्य सुतः (*tubhya sutaḥ*)—has been pressed and made ready for you
+- गोभिः (*gobhiḥ*)—with the milk, a product of the cow
+- श्रीतः (*śrītaḥ*)—it is mixed
+- सोमः (*somaḥ*)—such Soma-juice
+- मदाय (*madāya*)—for your delight
+- कं (*kaṃ*)—happily (addressed to you) in the fire
+- प्र हूयते (*pra hūyate*)—is offered with the cry स्वाहा (*svāhā*)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma-juice has been pressed and made ready for you with the stones that are the instruments of pressing the Soma, and it has been mixed with milk. Such Soma-juice is offered in the fire for your delight, addressed to you, with the cry स्वाहा (*svāhā*).
+
+##### English translation
+Indra, this Soma, effused for you by the stones and mixed with milk is offered auspiciously (in the fire) for your exhilaration.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ श्रु॒धि सु मे॒ हव॑म॒स्मे सु॒तस्य॒ गोम॑तः ।  
+> वि पी॒तिं तृ॒प्तिम॑श्नुहि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । श्रुधि । सु । मे । हवम् । अस्मे इति । सुतस्य । गोऽमतः ।  
+> वि । पीतिम् । तृप्तिम् । अश्नुहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र मे मदीयं हवं त्वद्विषयमाह्वानं सु सुष्ठु श्रुधि शृणु । तथा अस्मे अस्माभिः सुतस्य अभिषुतस्य गोमतः गव्यक्षीरवतः । क्षीरेण मिश्रितस्येत्यर्थः । तादृशस्य सोमस्य पीतिं पानं वि अश्नुहि विविधं प्राप्नुहि । तत्पानेन विविधां तृप्तिं च गच्छ । 'अशू व्याप्तौ' । व्यत्ययेन परस्मैपदम् ॥
+> तृतीये पर्याय एवाच्छावाकशस्त्रे ‘य इंद्र चमसेषु' इति तृचः । सूत्रितं च--- य इंद्र चमसेष्वा सोमः प्र वः सताम् ' ( आश्व. श्रौ. ६. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra: hear well my call addressed to you. Of the Soma pressed by us and गोमतः (*gomataḥ*), that is, mixed with cow's milk, attain the drinking in manifold ways, and by drinking it go to manifold satisfaction. He adds the ritual use: in the third paryāya, in the Acchāvāka śastra, the tṛca beginning य इंद्र चमसेषु (*ya iṃdra camaseṣu*) is used. It is stated in the sūtra: य इंद्र चमसेष्वा सोमः प्र वः सताम् (*ya iṃdra camaseṣvā somaḥ pra vaḥ satām*) (Āśv. Śrau. 6. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- मे (*me*)—my
+- हवं (*havaṃ*)—call or prayer
+- सु (*su*)—well (with attention)
+- श्रुधि (*śrudhi*)—hear
+- अस्मे (*asme*)—by us
+- सुतस्य (*sutasya*)—pressed
+- गोमतः (*gomataḥ*)—of the Soma-juice mixed with milk
+- पीतिं (*pītiṃ*)—the drinking (having done it, and by it)
+- तृप्तिं (*tṛptiṃ*)—satisfaction
+- वि अश्नुहि (*vi aśnuhi*)—attain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, hear well this prayer or call that I make. Drink this Soma-juice that has been pressed by us and mixed with cow's milk, and attain manifold satisfaction by it.
+
+### Printed p. 226
+
+##### English translation
+Indra, hear with favour my call ; be present at the drinking of this our libation mixed with milk, and be satisfied.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इं॑द्र चम॒सेष्वा सोम॑श्च॒मूषु॑ ते सु॒तः ।  
+> पिबेद॑स्य॒ त्वमी॑शिषे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इंद्र । चमसेषु । आ । सोमः । चमूषु । ते । सुतः ।  
+> पिब । इत् । अस्य । त्वम् । ईशिषे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वदर्थं सुतः अभिषुतः यः सोमः चमसेषु एतन्नामकेषु पात्रेषु तथा चमूषु । चमंति यजंत्यत्रेति चम्वो ग्रहाः । तेषु च आ सर्वतः अस्ति अस्य तमेतं सोमं पिबेत् । इदवधारणे । पिबैव । कथमस्य सोमपानयोग्यता तत्राह । हे इंद्र त्वमीशिषे तस्य त्वमेवेश्वरो भवसि खलु । यत एवं ततः पिबेति समन्वयः । 'ईश ऐश्वर्ये '। लटि ‘ईशः से (पा. सू. ७. २. ७७ ) इतीडागमः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra. The Soma that has been pressed for you is in the चमसेषु (*camaseṣu*), vessels of that name, and in the चमूषु (*camūṣu*); he explains the word chamū as the ग्रहाः (*grahāḥ*) (cups), because in them one sacrifices (चमंति यजंत्यत्र (*camaṃti yajaṃtyatra*)). It is there on all sides **NOTE**; drink this very Soma; he explains इत् (*it*) as a particle of emphasis ("drink indeed"). How is this Soma fit to be drunk by him? Because you, Indra, are its lord. Since this is so, drink: such is the connection of the sentence.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे इंद्र (*he iṃdra*)—O Indra
+- ते (*te*)—for you
+- सुतः (*sutaḥ*)—pressed
+- यः सोमः (*yaḥ somaḥ*)—the Soma which
+- चमसेषु (*camaseṣu*)—in the cup-vessels called chamasa
+- चमूषु (*camūṣu*)—in the vessels called chamū, the cups (graha) from which the Soma is drunk
+- आ (*ā*)—has been filled and made ready
+- अस्य (*asya*)—this Soma-juice
+- पिब इत् (*piba it*)—drink without fail (because)
+- त्वं (*tvaṃ*)—you
+- ईशिषे (*īśiṣe*)—are the lord of all this Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, this Soma-juice, which has just been pressed in order to be offered to you, has been filled and made ready in the chamasa vessels and in the vessels for drinking called chamū. You alone are the lord of this Soma. Therefore drink this Soma-juice without fail.
+
+### Printed p. 227
+
+##### English translation
+Whatever Soma has been poured into the cups and the bowls for you drink it, Indra,—you are the sovereign.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the third paryāya, in the śastra mantras recited by the priest called Acchāvāka, the three Ṛks 7-9 of this sūkta, beginning य इंद्र चमसेषु (*ya iṃdra camaseṣu*), are to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra य इंद्र चमसेष्वा सोमः प्र वः सतां (*ya iṃdra camaseṣvā somaḥ pra vaḥ satāṃ*) (Ā. 6-4).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो अ॒प्सु चं॒द्रमा॑ इव॒ सोम॑श्च॒मूषु॒ ददृ॑शे ।  
+> पिबेद॑स्य॒ त्वमी॑शिषे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । अप्ऽसु । चंद्रमाःऽइव । सोमः । चमूषु । ददृशे ।  
+> पिब । इत् । अस्य । त्वम् । ईशिषे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यः गृहीतः सोमः चमूषु ग्रहेषु ददृशे अंतर्दृश्यते । तत्र दृष्टांतः । चंद्रमाइव यथा चंद्रमाः अप्सु अंतरिक्षे निर्मलतया दृश्यते तद्वत् । यद्वा । अप्सूदकेषु चंद्रमाः प्रतिबिंबतया नानाविधो दृश्यते तथाष्टग्रहेष्वनेकरूपः सन् दृश्यते तमेतं सोमं पिबैव यतस्त्वमेवेशिषे खलु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra. The Soma that has been taken up is seen within the चमूषु (*camūṣu*), the cups. He gives the illustration (चंद्रमाइव (*caṃdramāiva*)): as the moon is seen in the अप्सु (*apsu*), in the atmosphere, by reason of its clearness, so the Soma is seen. Or else (यद्वा (*yadvā*)), as the moon, reflected in the waters, is seen in many forms, so the Soma is seen in the eight cups, being of many forms. Drink this very Soma, since you alone are indeed its lord.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वं (*tvaṃ*)—you
+- ईशिषे (*īśiṣe*)—are the lord
+- अप्सु (*apsu*)—in the clear atmosphere
+- चंद्रमा इव (*caṃdramā iva*)—clear like the moon, as it shines; [or अप्सु (*apsu*)—in water; चंद्रमा इव (*caṃdramā iva*)—as the reflected moon is seen]
+- चमूषु (*camūṣu*)—in the cups (drinking vessels), filled
+- यः सोमः (*yaḥ somaḥ*)—which Soma
+- ददृशे (*dadṛśe*)—shines
+- अस्य इत् (*asya it*)—this very Soma
+- पिब (*piba*)—drink
+
+### Printed p. 228
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the lord of everything. Soma-juice as clear as the moon shines in the clear atmosphere, or as the moon is reflected in clear water, has been made ready and set for you in the drinking vessels called chamū. Drink that very Soma.
+
+##### English translation
+Whatever Soma, is seen in the vessels like the moon (reflected) in the waters, drink it,—you are the sovereign.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं ते॑ श्ये॒नः प॒दाभ॑रत्ति॒रो रजां॒स्यस्पृ॑तम् ।  
+> पिबेद॑स्य॒ त्वमी॑शिषे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । ते । श्येनः । पदा । आ । अभरत् । तिरः । रजांसि । अस्पृतम् ।  
+> पिब । इत् । अस्य । त्वम् । ईशिषे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र श्येनः शंसनीयः पक्षी । पक्षिरूपधारिणी गायत्रीत्यर्थः । स पक्षी रजांसि अंतरिक्षादिलोकस्थितान् सोमपालान् गंधर्वान् तिरः तिरः कुर्वन् अस्पृतं शत्रुभिरस्पृष्टं संतं यं सोमं ते त्वदर्थं पदा पद्भ्याम् आभरत् । पदेति सवनद्वयाभिप्रायम् । सवनद्वय आहृतं सोमं त्वं पिब । गायत्री पक्षिरूपं धारयित्वा पद्यां   सोममाहरदित्यत्रार्थे यजुर्ब्राह्मणं--' पद्यां अ द्वे सवने समगृह्णान्मुखेनैकं तस्माद्द्वे सवने शुक्रवती प्रातःसवनं च माध्यंदिनं च ' (तै. सं. ६. १. ६. ४ ) इति । तं पिबैव । त्वमेव तस्येश्वरो भवसि ॥ ॥ २ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Indra. The श्येनः (*śyenaḥ*) is the praiseworthy bird; the meaning is Gāyatrī, who has taken the form of a bird. That bird, overcoming (तिरः तिरः कुर्वन् (*tiraḥ tiraḥ kurvan*)) the रजांसि (*rajāṃsi*), that is, the Gandharvas who guard the Soma and are stationed in the worlds beginning with the atmosphere, brought with its feet (पदा (*padā*) is पद्भ्याम् (*padbhyām*)) for you the Soma, अस्पृतं (*aspṛtaṃ*), untouched by enemies. The word "foot" has in view the two savanas: drink the Soma brought to the two savanas. For the point that Gāyatrī took the form of a bird and brought the Soma with her feet he cites the Yajur Brāhmaṇa: पद्यां अ द्वे सवने समगृह्णान्मुखेनैकं तस्माद्द्वे सवने शुक्रवती प्रातःसवनं च माध्यंदिनं च (*padyāṃ a dve savane samagṛhṇānmukhenaikaṃ tasmāddve savane śukravatī prātaḥsavanaṃ ca mādhyaṃdinaṃ ca*) **NOTE** (Tai. Saṃ. 6. 1. 6. 4) **GLOSS**. Drink that Soma; you alone are its lord.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) श्येनः (*śyenaḥ*)—the hawk
+- रजांसि (*rajāṃsi*)—and the Soma-guards who were guarding the Soma in the worlds beginning with the atmosphere
+- तिरः (*tiraḥ*)—having set aside, that is, defeated
+- अस्पृतं (*aspṛtaṃ*)—not touched by enemies
+
+### Printed p. 229
+
+- यं (*yaṃ*)—which Soma
+- ते (*te*)—in order to offer to you
+- पदा (*padā*)—with its feet
+- आभरत् (*ābharat*)—brought
+- अस्य इत् (*asya it*)—this very Soma-juice, in the Prātaḥsavana and Mādhyaṃdina savanas
+- पिब (*piba*)—drink
+- त्वं (*tvaṃ*)—you
+- ईशिषे (*īśiṣe*)—are the lord of all
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the hawk brought the Soma from heaven to offer it to you, it defeated the Gandharvas and others who were guarding it in the worlds beginning with the atmosphere, and brought it held in its two feet, so that it was not touched by enemies. Drink that very Soma in the Prātaḥsavana and Mādhyaṃdina savanas of this sacrifice. You are the lord of all.
+
+##### English translation
+Whatever Soma the hawk bore for you with its feet, having won it, till then inviolate, from the (guardians of the) upper worlds, drink it,–yon are the sovereign
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk mentions how the hawk, when it brought the Soma from heaven, defeated the Gandharvas who were its guardians and brought the Soma plants holding them with its two feet and its beak. The commentator indicates that the matter of the Gāyatrī metre itself bringing the Soma that was in heaven down to the earth in the form of a hawk is described in the Taittirīya Saṃhitā in sentences beginning पद्भ्यां द्वे सवने समुगृह्णात् (*padbhyāṃ dve savane samugṛhṇāt*) (Tai. Saṃ. 6-1-6-4). What is said in that Taittirīya Saṃhitā is explained at length here:
+
+Formerly the Soma was in the world of the gods. The gods thought that it should be brought to the earth; and when they considered who was able to bring it, it was decided that the metres beginning with Gāyatrī were able to bring the Soma.
+
+जगत्युदपतच्चतुर्दशाक्षरा सती साऽप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अमिाये-ताग्ं सा पशुभिश्च दीक्षया चागच्छत्तस्माज्जगती छंदसां पशव्यतमा तेस्मा-त्रशुमुंतं दीक्षोपसमति त्रिष्टुगुदपतत्त्रयोदशाक्षरा सती साऽप्राप्य न्यवर्तत तस्यै द्वे अक्षरे अनिायेताग्ं सा दक्षिणाभिश्च तपसा चागच्छत्त-स्मात्त्रिष्टुभो लोके माध्यंदिने सवने दक्षिणा नीयंत एतत्फलु वाव तप (*jagatyudapataccaturdaśākṣarā satī sā 'prāpya nyavartata tasyai dve akṣare amiāye-tāgṃ sā paśubhiśca dīkṣayā cāgacchattasmājjagatī chaṃdasāṃ paśavyatamā tesmā-traśumuṃtaṃ dīkṣopasamati triṣṭugudapatattrayodaśākṣarā satī sā 'prāpya nyavartata tasyai dve akṣare aniāyetāgṃ sā dakṣiṇābhiśca tapasā cāgacchatta-smāttriṣṭubho loke mādhyaṃdine savane dakṣiṇā nīyaṃta etatphalu vāva tapa*) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 223. Sūkta 82 Ṛk 1-4, pp. 218-223
+**Progress note:** Done through printed p. 229. Sūkta 82 Ṛk 5-9, pp. 224-229
