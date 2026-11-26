@@ -8,3 +8,5 @@
 - scan_wordfix.py --apply: 7 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'confirmed': 3, 'corrected': 4}; list: review/wordfix_applied.tsv).
 
 - scan_heads.py --apply: 6 running heads with [?] (Maṇḍala/Adhyāya/Sūkta) settled by the unmarked heads before and after them (list: review/heads_applied.tsv); 4 heads left marked.
+
+- Nov 26 2026 (user: "derive from previous page"): p1025 running head `ವ. ೧೩[?]` replaced by `ಸೂ. ೯೭`, as on the neighbouring left-hand heads p1021, p1023, p1027 and p1029 (all `ಮಂ. ೯. ಅ. ೬. ಸೂ. ೯೭`, sūkta 9.97 runs through these pages).
