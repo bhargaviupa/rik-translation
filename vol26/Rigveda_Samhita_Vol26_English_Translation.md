@@ -6597,6 +6597,292 @@ The Soma juices that produce wealth and food, fit to join with us, for our cows 
 ##### English translation
 They advance towards our fair praise, granting to (us and) our cattle- sustainiug wealth and food. **NOTE**
 
+### Printed p. 206
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असा॑व्यं॒शुर्मदा॑या॒प्सु दक्षो॑ गिरि॒ष्ठाः ।  
+> श्ये॒नो न योनि॒मास॑दत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असावि । अंशुः । मदाय । अप्ऽसु । दक्षः । गिरिऽस्थाः ।  
+> श्येनः । न । योनिम् । आ । असदत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गिरिष्ठाः पर्वते जातः अंशुः सोमः मदाय मदार्थम् असावि अभिषुतः । अप्सु वसतीवरीषु दक्षः प्रवृद्धश्च भवति । किंच श्येनो न यथा श्येनो वेगेनागत्य स्थानमासीदति तद्वदयं सोमो योनिं स्वकीयं स्थानम् आसदत् आसीदति ॥
+
+##### Gist of the bhāṣya
+
+The Soma plant, born on the mountain, has been pressed for exhilaration. It becomes strong and swollen when it mingles with the waters, the वसतीवरीषु (*vasatīvarīṣu*) (Vasatīvarī waters). Like a falcon that comes with speed and settles in its place, this Soma settles in its own place.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गिरिष्ठाः (*giriṣṭhāḥ*)—born in the mountain region
+- अंशुः (*aṃśuḥ*)—the Soma
+- मदाय (*madāya*)—for gladness
+- असावि (*asāvi*)—has been pressed
+- अप्पु (*appu*)—joined with the Vasatīvarī and other waters **NOTE**
+- वक्षः (*vakṣaḥ*)—becomes powerful **NOTE**
+- श्येनो न (*śyeno na*)—coming swiftly like a falcon
+- योनिं (*yoniṃ*)—in his own place of sacrifice
+- आसदत् (*āsadat*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+From the Soma plant that is born in the mountain region the Soma juice is pressed for gladness. It becomes powerful by mingling with the Vasatīvarī and other waters. Coming swiftly like a falcon, it sits down in its own place of sacrifice.
+
+##### English translation
+The mountain-born Soma flows for exhilaration, mighty in the (Vasativari) waters : he alights like a falcon on his own place
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शु॒भ्रमंधो॑ दे॒ववा॑तम॒प्सु धू॒तो नृभिः॑ सु॒तः ।  
+> स्वदं॑ति॒ गावः॒ पयो॑भिः ॥ ५ ॥
+
+### Printed p. 207
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुभ्रम् । अंधः । देवऽवातम् । अप्ऽसु । धूतः । नृऽभिः । सुतः ।  
+> स्वदंति । गावः । पयःऽभिः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् देववातं देवैः प्रार्थितं शुभ्रं शोभनम् अंधः अन्नं गावः पशवः पयोभिः आशिरैः स्वदंति स्वादयंति सोऽयं सोमः नृभिः नेतृभिर्ऋत्विग्भिः सुतः अभिषुतः सन् अप्सु वसतीवरीषु धूतः शोधितो भवति ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+The cattle make sweet with their milk, the आशिरैः (*āśiraiḥ*) (admixtures), the bright and beautiful food that the gods desire. This Soma, pressed by the priests, the leaders, is purified in the Vasatīvarī waters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देववातं (*devavātaṃ*)—that which is desired by the gods
+- शुभ्रं (*śubhraṃ*)—and that which is shining
+- अंधः (*aṃdhaḥ*)—the Soma
+- गावः (*gāvaḥ*)—the cows
+- पयोभिः (*payobhiḥ*)—mixing with their milk
+- स्वदंति (*svadaṃti*)—make it pleasant to the taste
+- नृभिः (*nṛbhiḥ*)—by the priests
+- सुतः (*sutaḥ*)—the pressed Soma juice
+- अप्पु (*appu*)—in the Vasatīvarī and other waters **NOTE**
+- धूतः (*dhūtaḥ*)—is purified
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma that is desired by the gods and shining, the cows make pleasant to the taste by mixing it with their milk. The Soma pressed by the priests is purified in the Vasatīvarī and other waters.
+
+##### English translation
+The cattle sweeten with their milk the beautiful food that is asked for by the gods; the Soma when effused by the priests is cleansed in the water.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदी॒मश्वं॒ न हेता॒रोऽशू॑शुभन्न॒मृता॑य ।  
+> मध्वो॒ रसं॑ सध॒मादे॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ईम् । अश्वम् । न । हेतारः । अशूशुभन् । अमृताय ।  
+> मध्वः । रसम् । सधऽमादे ॥ ६ ॥
+
+### Printed p. 208
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत् अनंतरं हेतारः प्रेरका ऋत्विजः सधमादे यज्ञे ईम् एनं मध्वः मदकरस्य सोमस्य रसम् अमृताय अमरणाय अश्वं न अश्वमिव अशूशुभन् शोभयंति ॥
+
+##### Gist of the bhāṣya
+
+Thereupon the priests, the impellers, at the sacrifice adorn this juice of the intoxicating Soma, as one adorns a horse, for the sake of immortality.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत् (*āt*)—immediately
+- होतारः (*hotāraḥ*)—the Hotṛ priests **NOTE**
+- सधमादे (*sadhamāde*)—at the sacrifice
+- मध्वः (*madhvaḥ*)—of the sweet Soma
+- ईं रसं (*īṃ rasaṃ*)—this juice
+- अमृताय (*amṛtāya*)—to gain immortality
+- अश्वं न (*aśvaṃ na*)—as one decorates a horse
+- अशूशुभन् (*aśūśubhan*)—they adorn
+
+##### भावार्थ (Bhāvārtha)
+
+As soon as the Soma juice has been pressed and purified, the Hotṛ priests adorn this sweet juice at the place of sacrifice, as one decorates a horse, to gain immortality.
+
+##### English translation
+Then the ministering priests in the assembly beautify the juice of the exhilarating (Soma) like a horse, for the sake of immortality
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यास्ते॒ धारा॑ मधु॒श्चुतोऽसृ॑ग्रमिंद ऊ॒तये॑ ।  
+> ताभिः॑ प॒वित्र॒मास॑दः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> याः । ते । धाराः । मधुऽश्चुतः । असृग्रम् । इंदो इति । ऊतये ।  
+> ताभिः । पवित्रम् । आ । असदः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम ते तव मधुश्चुतः मधुररसस्य श्चोतयित्र्यः याः धाराः ऊतये रक्षणाय असृग्रं सृज्यंते ताभिः धाराभिस्त्वं पवित्रम् आसदः आसीद ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, the streams of yours that drip sweet juice and are sent forth for protection: with those streams sit down upon the filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- ते (*te*)—your
+- मधुश्चुतः (*madhuścutaḥ*)—that shed sweet juice
+- याः धाराः (*yāḥ dhārāḥ*)—which streams of Soma
+- ऊतये (*ūtaye*)—for protection
+- असृग्रं (*asṛgraṃ*)—are produced
+- ताभिः (*tābhiḥ*)—with those streams
+- पवित्रं (*pavitraṃ*)—on the Daśāpavitra filter
+- असदः (*asadaḥ*)—come and sit down **NOTE**
+### Printed p. 209
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, with those streams of yours that shed sweet juice and are produced for protection, come and sit down on the Daśāpavitra filter.
+
+##### English translation
+Sit down, Indu, on the filter with those streams the shedders of (juice) which are let fall for our protection.
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सो अ॒र्षेंद्रा॑य पी॒तये॑ ति॒रो रोमा॑ण्य॒व्यया॑ ।  
+> सीद॒न्योना॒ वने॒ष्वा ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । अर्ष । इंद्राय । पीतये । तिरः । रोमाणि । अव्यया ।  
+> सीदन् । योना । वनेषु । आ ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम सः अभिषुतस्त्वम् अव्यया अव्ययानि अविमयानि रोमाणि वालानि तिरः तिरस्कुर्वन् वनेषु पात्रेषु योना योनौ स्थाने आ सीदन् इंद्राय इंद्रस्य पीतये पानाय अर्ष क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, pressed as you are, pass through the woollen hairs, the अव्यया (*avyayā*) of the filter, and settle in the place in the vessels, and flow for Indra's drinking.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) सः (*saḥ*)—you who have been pressed
+- अव्यया (*avyayā*)—of the Daśāpavitra made of wool
+- रोमाणि (*romāṇi*)—the fibres
+- तिरः (*tiraḥ*)—crossing over
+- वनेषु (*vaneṣu*)—in the vessels
+- योना (*yonā*)—in the excellent place
+- आसीदन् (*āsīdan*)—sitting down **NOTE**
+- इंद्राय (*iṃdrāya*)—for Indra
+- वीतये (*vītaye*)—for drinking **NOTE**
+- अर्ष (*arṣa*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, pressed as you are, pass across the fibres of the Daśāpavitra made of wool, sit in the excellent place in the vessels, and flow for Indra's drinking.
+
+##### English translation
+Passing obliquely through the sheeps' hairs, hasten for Indra's drinking, sitting in your place in the wooden vessels.
+### Printed p. 210
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑दो॒ परि॑ स्रव॒ स्वादि॑ष्ठो॒ अंगि॑रोभ्यः ।  
+> व॒रि॒वो॒विद्घृ॒तं पयः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । इंदो इति । परि । स्रव । स्वादिष्ठः । अंगिरःऽभ्यः ।  
+> वरिवःऽवित् । घृतम् । पयः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम स्वादिष्टः स्वादुतमः वरिवोवित् अस्मदभिलषितस्य धनस्य लंभकश्च त्वम् अंगिरोभ्यः अंगिरसामर्थाय घृतम् आज्यं पयः च परि स्रव परिक्षर ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you are the sweetest and the obtainer of the wealth we desire. Flow around for the Aṅgirases, for their sake, with ghee and milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- स्वादिष्टः (*svādiṣṭaḥ*)—the most delicious
+- वरिवोवित् (*varivovit*)—the bringer of wealth
+- त्वं (*tvaṃ*)—you
+- अंगिरोभ्यः (*aṃgirobhyaḥ*)—to us, who are called Aṅgirases
+- धृतं (*dhṛtaṃ*)—ghee **NOTE**
+- पयः (*payaḥ*)—milk
+- परि स्रव (*pari srava*)—cause to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are the most delicious and the bringer of wealth, make ghee and milk flow for us, who are called Aṅgirases.
+
+##### English translation
+Indu, who are most sweet-flavoured, the bestower of riches, drop for the Angirasas butter and milk.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं विच॑र्षणिर्हि॒तः पव॑मानः॒ स चे॑तति ।  
+> हि॒न्वा॒न आप्यं॑ बृ॒हत् ॥ १० ॥
+
+### Printed p. 211
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । विऽचर्षणिः । हितः । पवमानः । सः । चेतति ।  
+> हिन्वानः । आप्यम् । बृहत् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विचर्षणिः विद्रष्टा हितः पात्रेषु निहितः पवमानः अयं सोमः आप्यम् अप्सु भवं बृहत् महदन्नं हिन्वानः प्रेरयन् चेतति सर्वैः ज्ञायते ॥ ॥ २५ ॥
+
+##### Gist of the bhāṣya
+
+This Soma, the all-seeing, placed in the vessels, and purifying, sends forth the great food that is born in the waters, and is known to all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विचर्षणिः (*vicarṣaṇiḥ*)—who can see everything minutely
+- हितः (*hitaḥ*)—who is placed in the vessels
+- पवमानः (*pavamānaḥ*)—and who is the purifier
+- अयं सः (*ayaṃ saḥ*)—this Soma-deva
+- आप्यं (*āpyaṃ*)—that dwells in the water
+- बृहत् (*bṛhat*)—great food
+- हिन्वानः (*hinvānaḥ*)—sending forth
+- चेतति (*cetati*)—becomes visible to all
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, who can see everything minutely, is placed in the vessels, and is the purifier, becomes visible to all, sending forth the great food that dwells in the water.
+
+##### English translation
+This all-seeing Pavamana Soma deposited (in the vessels), sending forth abundant (food), the product of the waters, is known (by all).
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वृषा॒ वृष॑व्रतः॒ पव॑मानो अशस्ति॒हा ।  
+> कर॒द्वसू॑नि दा॒शुषे॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वृषा । वृषऽव्रतः । पवमानः । अशस्तिऽहा ।  
+> करत् । वसूनि । दाशुषे ॥ ११ ॥
+
 ---
 
-**Progress note:** Done through printed p. 205. Mandala 9 sukta 61 rks 27-30, sukta 62 rks 1-3 (pp. 200-205)
+**Progress note:** Done through printed p. 211. Mandala 9 sukta 62 rks 4-11, pp. 206-211
