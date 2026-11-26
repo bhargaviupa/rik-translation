@@ -190,8 +190,9 @@ def toc_tables(doc):
 _LAT = re.compile(r'[A-Za-z]{3,}')
 def quotations(doc):
     """A quotation from another work, printed with a bar, holds the Sanskrit and its transliteration only (user, Nov 26 2026: "references
-    from other books … should not contain the English").  The English that stood inside the bar is our rendering of the quotation: it is
-    not dropped but set as ordinary text right under the bar (p.qen).  A short reference in parentheses after the Sanskrit stays in the bar."""
+    from other books … should not contain the English"; "we don't need English translation in there or other such places").  The English
+    rendering of the quotation that stood inside the bar is not printed; it stays in the working file.  A short reference in parentheses
+    after the Sanskrit stays.  A bar without Sanskrit (a passage quoted in English) is left as it is."""
     n = 0
     def bq(m):
         nonlocal n
@@ -217,7 +218,7 @@ def quotations(doc):
             else: keep.append(part)
         if not out_en: return m.group(0)
         n += len(out_en)
-        return m.group(1) + ''.join(keep) + '</blockquote>\n' + '\n'.join(f'<p class="qen">{x}</p>' for x in out_en)
+        return m.group(1) + ''.join(keep) + '</blockquote>'            # the English of the quotation is not printed (it stays in the working file)
     doc = re.sub(r'(<blockquote(?![^>]*samhita)[^>]*>)(.*?)</blockquote>', bq, doc, flags=re.S)
     return doc, n
 
@@ -261,7 +262,7 @@ def fix(doc, quiet=False):
     doc = lists(doc); c['lists continued'] = doc.count('<ol class="cont"')
     doc = headings(doc); c['two-line headings'] = doc.count('class="ht1"')
     doc = sanskrit(doc); c['transliterations on their own line'] = doc.count('<em class="iast">')
-    doc, c['English moved out of the quotation bar'] = quotations(doc)
+    doc, c['English of quotations not printed'] = quotations(doc)
     doc, c['Kannada-script places'] = no_kannada(doc)
     if not quiet: print('[printfix] ' + '; '.join(f'{k} {v}' for k, v in c.items()))
     return doc
