@@ -2633,6 +2633,269 @@ O Agni, the enemies who are not givers, the haters, the wealthy, do not separate
 - रायः (*rāyaḥ*)—from his wealth
 - न युवंत (*na yuvaṃta*)—cannot separate
 
+### Printed p. 67
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the enemies of that sacrificer who offers oblations, whom you protect, such a hymn, cannot seize his wealth and make him destitute.
+
+##### English translation
+That sacrificing mortal whom you, Agni, protect, the niggardly connot seperate from wealth.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं त्वं वि॑प्र मे॒धसा॑ता॒वग्ने॑ हि॒नोषि॒ धना॑य ।  
+> स तवो॒ती गोषु॒ गंता॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यम् । त्वम् । विप्र । मेधऽसातौ । अग्ने । हिनोषि । धनाय ।  
+> सः । तव । ऊती । गोषु । गंता ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने विप्र त्वं यं मर्यंन  मेधसातौ यज्ञस्य संभजने हिनोषि प्रेरयसि धनाय गवादिधनलाभाय सः यजमानः तव ऊती ऊत्या रक्षणेन गोषु गंता भवति । गोमान् भवतीत्यर्थः ॥ ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, wise one, the mortal whom you urge on, in the sharing of the sacrifice, for the gaining of wealth such as cows, that sacrificer, by your protection, becomes one who goes among the cows; the meaning is that he becomes possessed of cows. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—wise
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- यं (*yaṃ*)—the sacrificer whom
+- धनाय (*dhanāya*)—for the gaining of wealth
+- मेधसातौ (*medhasātau*)—in the performance of the sacrifice
+- हिनोषि (*hinoṣi*)—you incite
+- सः (*saḥ*)—that same sacrificer
+- तव (*tava*)—your
+- ऊती (*ūtī*)—by the protection
+- गोषु (*goṣu*)—as lord of all the cows
+- गंता (*gaṃtā*)—moves among them
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Agni, the sacrificer whom you incite in the performance of the sacrifice for the gaining of wealth, that same sacrificer, by your protection, as lord of all the cows, moves among them. (He obtains cattle-wealth in great abundance.)
+
+### Printed p. 68
+
+##### English translation
+Wise (Agni), he whom in his performance of the sacrifice you incite to attain wealth, by your protection walks (lord) among crowds of cattle.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं र॒यिं पु॑रु॒वीर॒मग्ने॑ दा॒शुषे॒ मर्ता॑य ।  
+> प्र णो॑ नय॒ वस्यो॒ अच्छ॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । रयिम् । पुरुऽवीरम् । अग्ने । दाशुषे । मर्ताय ।  
+> प्र । नः । नय । वस्यः । अच्छ ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वं दाशुषे हविर्दत्तवते मर्त्याय यजमानाय रयिं धनं पुरुवीरं बहुभिर्वीरैर्युक्तं प्रयच्छसि । अतः नः अस्मानपि वस्यः वसीयो धनम् अच्छ अभिप्राप्तुं प्र णय प्रापय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, you give to the mortal, the sacrificer who has given oblations, wealth endowed with many heroes. Therefore lead also us to better wealth, so that we may reach it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वं (*tvaṃ*)—you
+- दाशुषे (*dāśuṣe*)—to the one who offers oblations
+- मर्ताय (*martāya*)—to the man
+- पुरुवीरं (*puruvīraṃ*)—endowed with many heroic sons
+- रयिं (*rayiṃ*)—wealth (you give)
+- नः (*naḥ*)—to us also
+- वस्यः (*vasyaḥ*)—excellent wealth
+- अच्छ (*accha*)—so that it may reach us
+- प्र णय (*pra ṇaya*)—supply it in the best manner
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, you give to the man who offers oblations wealth endowed with many heroic sons. Make excellent wealth reach us also.
+
+##### English translation
+You, Agni, give to the offerer wealth comprehending many male descendants ; conduct us to affluence.
+
+### Printed p. 69
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒रु॒ष्या णो॒ मा परा॑ दा अघाय॒ते जा॑तवेदः ।  
+> दु॒रा॒ध्ये॒३॒॑ मर्ता॑य ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उरुष्य । नः । मा । परा । दाः । अघऽयते । जातऽवेदः ।  
+> दुःऽआध्ये । मर्ताय ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जातवेदः जातविद्य जातधन वाग्ने नः अस्मान् उरुष्य रक्ष। 'उरुष्यती रक्षाकर्मा' (निरु. ५. २३) इति यास्कः । मा परा दाः मा परादेह्यस्मान् । कस्मा इति स उच्यते । अघायते अघं पापमिच्छते दुराध्ये दुराध्यानाय दुर्विचिंतकाय हिंसाबुद्धये मर्ताय मनुष्याय ॥
+
+##### Gist of the bhāṣya
+
+O Jātavedas, that is, one who knows what is born, or one whose wealth is born, O Agni, protect us. Yāska says: उरुष्यती रक्षाकर्मा (*uruṣyatī rakṣākarmā*) (Ni. 5. 23). Do not give us over. To whom? It is said: to the one who desires evil, that is, sin; to the evil-thinker, one of ill meditation, whose intent is to injure; to the mortal, the man.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni, who knows all things
+- नः (*naḥ*)—us
+- उरुष्य (*uruṣya*)—protect
+- अघायते (*aghāyate*)—to the one who does us injury
+- दुराध्ये (*durādhye*)—and who wishes us harm
+- मर्ताय (*martāya*)—to the man
+- मा परा दाः (*mā parā dāḥ*)—do not give up
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who knows all things, protect us. Do not give us up to the man who does us injury and wishes us harm.
+
+##### English translation
+Defend us, Jatavedas ; deliver us not over to the malevolent, to the man whose thoughts are evil
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ माकि॑ष्टे दे॒वस्य॑ रा॒तिमदे॑वो युयोत ।  
+> त्वमी॑शिषे॒ वसू॑नाम् ॥ ८ ॥
+
+### Printed p. 70
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । माकिः । ते । देवस्य । रातिम् । अदेवः । युयोत ।  
+> त्वम् । ईशिषे । वसूनाम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने देवस्य द्योतमानस्य ते तव रातिं दानं दत्तं धनं वा कश्चित् अदेवः मर्त्यादिः माकिः युयोत मैव पृथक्करोतु । त्वम् एव ईशिषे । कस्य । वसूनां धनानामीश्वरो भवसि दातुम् । अनेनामिश्रणीयाया रातेः सद्भाव उक्तो भवति ॥
+
+##### Gist of the bhāṣya
+
+O Agni, shining one, let no godless one, a mortal or the like, take away your gift, the wealth given by you; let him not separate it. You alone rule. Over what? You are lord of the riches, to give them. By this the existence of a gift that is not to be mingled with others is declared.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- देवस्य (*devasya*)—who are shining
+- ते (*te*)—given by you
+- रातिं (*rātiṃ*)—the wealth
+- अदेवः (*adevaḥ*)—who is without devotion to the gods
+- माकिः (*mākiḥ*) युयोत (*yuyota*)—let no one take it away
+- वसूनां (*vasūnāṃ*)—of all riches
+- त्वं (*tvaṃ*)—you alone
+- ईशिषे (*īśiṣe*)—are the lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, let no one without devotion to the gods take away the wealth given by you who are shining. You alone are the lord of all riches.
+
+##### English translation
+Agni, let not the godless take away the wealth which you, the divine have given, for you are the lord of treasures.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ वस्व॒ उप॑ मा॒स्यूर्जो॑ नपा॒न्माहि॑नस्य ।  
+> सखे॑ वसो जरि॒तृभ्यः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । वस्वः । उप । मासि । ऊर्जः । नपात् । माहिनस्य ।  
+> सखे । वसो इति । जरितृऽभ्यः ॥ ९ ॥
+
+### Printed p. 71
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऊर्जो नपात् बलस्यान्नस्य पुत्र । बलेन मध्यमानत्वादाज्यलक्षणेनान्नेन प्रवर्धनादूर्जोनपात्त्वम् । हे सखे सखिवद्धितकारिन् वसो वासकाग्ने सः स्तुत्यत्वेनैव प्रसिद्धस्त्वं जरितृभ्यः गरितृभ्यः स्तोतृभ्यः नः अस्मभ्यं माहिनस्य वस्वः । माहिन इति महन्नाम । महद्धनम् उप मासि समीपे मासि निर्मासि । प्रयच्छसीत्यर्थः ॥
+> प्रातरनुवाके बार्हते छंदसि ‘अच्छा नः' इत्याद्याः षडृचः । तथा च सूत्रितम् -- अच्छा नः शीरशोचिषमिति षट् ' ( आश्व. श्रौ. ४.१३) इति । दशमेऽहनि प्रातःसवने अच्छा वो अग्निम् ' इति तृचस्य स्थाने ' अच्छा नः' इति तृचोऽच्छावाकवादः । सूत्रितं च --- अच्छा नः शीरशोचिषं प्रति श्रुताय वो धृषदिति तृचौ ' (आश्व. श्रौ. ८.१२) इति ॥
+
+##### Gist of the bhāṣya
+
+O son of strength, that is, son of force or of food: because you are churned by force, and because you are made to grow by food in the form of ghee, you are ऊर्जो नपात् (*ūrjo napāt*). O friend, who do good like a friend, O Vasu, Agni who causes to dwell, you, famous precisely by being praised, to us, the praisers, give great wealth; माहिन (*māhina*) is a name for great. उप मासि (*upa māsi*) means that you measure out near; the meaning is that you give. In the Prātaranuvāka, in the Bārhata metre, the six Ṛks beginning अच्छा नः (*acchā naḥ*) are used. So it is laid down in the sūtra अच्छा नः शीरशोचिषमिति षट् (*acchā naḥ śīraśociṣamiti ṣaṭ*) (Āśv. Śrau. 4.13). On the tenth day, at the morning pressing, in the place of the trca beginning अच्छा वो अग्निम् (*acchā vo agnim*), the trca beginning अच्छा नः (*acchā naḥ*) is the Acchāvāka's. And it is laid down in the sūtra अच्छा नः शीरशोचिषं प्रति श्रुताय वो धृषदिति तृचौ (*acchā naḥ śīraśociṣaṃ prati śrutāya vo dhṛṣaditi tṛcau*) (Āśv. Śrau. 8.12).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्जो नपात् (*ūrjo napāt*)—son of strength
+- सखे (*sakhe*)—friend
+- वसो (*vaso*)—giver of dwellings, O Agni
+- सः (*saḥ*)—you, the famous one
+- जरितृभ्यः (*jaritṛbhyaḥ*)—to us, who are praisers
+- नः (*naḥ*)—to us
+- माहिनस्य (*māhinasya*)—exceedingly great
+- वस्वः (*vasvaḥ*)—wealth
+- उप मासि (*upa māsi*)—you supply and give
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, son of strength, friend, giver of dwellings to us, you, the famous one, supply and give to us, the praisers, wealth of exceeding greatness.
+
+##### English translation
+Son of strength, the friend, the giver of dwellings, you mete out abundant treasure to us your praisers.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ नः शी॒रशो॑चिषं॒ गिरो॑ यंतु दर्श॒तम् ।  
+> अच्छा॑ य॒ज्ञासो॒ नम॑सा पुरू॒वसुं॑ पुरुप्रश॒स्तमू॒तये॑ ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अच्छ । नः । शीरऽशोचिषम् । गिरः । यंतु । दर्शतम् ।  
+> अच्छ । यज्ञासः । नमसा । पुरुऽवसुम् । पुरुऽप्रशस्तम् । ऊतये ॥ १० ॥
+
+### Printed p. 72
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अच्छ अभिमुखं यंतु गच्छंतु नः अस्माकं गिरः स्तुतयः । कम् । शीरशोचिषम् अशनशीलज्वालं दर्शतं सर्वैर्दर्शनीयमग्निम् । तथा यज्ञासः यज्ञाश्चास्मदीयाः नमसा हविषाज्यादिलक्षणेन अच्छ अभिमुखं यंतु गच्छंतु । कीदृशम् । पुरुवसुं प्रभूतधनं पुरुप्रशस्तं बहुस्तुतम् । किमर्थम् । ऊतये अस्माकं रक्षणाय ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+Let our voices, our praises, go towards, go to Agni, whose flame devours, who is beautiful, to be seen by all. So also let our sacrifices go towards him with the oblation, of the nature of ghee and the like. What kind of Agni? Rich in wealth, that is, possessed of abundant wealth, and much praised. For what purpose? For our protection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—praises
+- शीरशोचिषं (*śīraśociṣaṃ*)—to Agni, who has flames that devour wood and the like
+- दर्शतं (*darśataṃ*)—and has an attractive form
+- अच्छ (*accha*)—towards him
+- यंतु (*yaṃtu*)—let them go and reach
+- यज्ञासः (*yajñāsaḥ*)—our sacrifices also
+- नमसा (*namasā*)—in the form of our oblation
+- पुरुवसुं (*puruvasuṃ*)—who has exceedingly abundant wealth
+- पुरुप्रशस्तं (*purupraśastaṃ*)—and is abundantly **NOTE** praised, Agni
+- ऊतये (*ūtaye*)—for our protection
+- अच्छ (*accha*)—let them go and reach towards him
+
+##### भावार्थ (Bhāvārtha)
+
+Let our praises go and reach towards Agni, who has flames that devour wood and the like, and has an attractive form. Let our sacrifices also, in the form of our oblation, go and reach towards Agni, who has exceedingly abundant wealth and is abundantly praised, for our protection.
+
+##### English translation
+Let our voices come near the beautiful (Agni), him who bears devouring flames ; let our sacrifices with our oblations come near him, for our protection, who is rich·in wealth and rich in praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of reciting the Prātaranuvāka mantras, the six Ṛks beginning अच्छा नः (*acchā naḥ*) are employed for the Ṛks in the Bṛhatī metre, as is explained by the sūtra of the Āśvalāyana Śrautasūtra अच्छा नः शीरशोचिषमिति षट् (*acchā naḥ śīraśociṣamiti ṣaṭ*) (8. 4-13) **NOTE**. On the tenth day of the sacrifice
+
 ---
 
-**Progress note:** Done through printed p. 66. Vol 25 Ṛk 14-15 of sūkta 70; sūkta 71 Ṛk 1-4 begun
+**Progress note:** Done through printed p. 72. Vol 25 sūkta 71 Ṛk 4 end to Ṛk 10
