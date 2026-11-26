@@ -46,3 +46,5 @@
 - scan_wordfix.py --apply: 9 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'fixed word': 9}; list: review/wordfix_applied.tsv).
 
 - Nov 26 2026 (user): PDF p. 4 (portrait plate with a faint caption, 4 [?]) ignored: the Vol 1 page is used; the page file now holds only a comment. Earlier text of the page is in git history.
+
+- Nov 26 2026 (user): p5 (preface) `೧೧೦೮[?]` → `೧೧೦೮` as printed (the Wikisource index counts 1,107 Ṛks in Maṇḍala 9; the preface says 1,108, kept as printed).
