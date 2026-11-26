@@ -5190,6 +5190,206 @@ I, Indra, for the protection of the peoples named गुंगुभ्यः (*
 
 In the great battle fought to destroy the asuras Parṇaya and Karañja, when I slew those asuras and became renowned and famous, I made the seer Divodāsa, son of Atithigu, who was incapable of the work of destroying enemies, a destroyer of enemies in battle, for the protection of the people of the land called Guṅgu, and beloved of all among the subjects, like food that is a means of enjoyment.
 
+### Printed p. 157
+
+##### English translation
+I prepared Attithigva for (the protection of) the Gungus, I upheld him, the dostroyer of enemies, as sustenance amongst the people; whcn I gained renown in the great Vritra-battle, in which Parnaya and Karanja were slain.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र मे॒ नमी॑ सा॒प्य इ॒षे भु॒जे भू॒द्गवा॒मेषे॑ स॒ख्या कृ॑णुत  ॒
+> द्विता ।  
+> दि॒द्युं यद॑स्य समि॒थेषु॑ मं॒हय॒मादिदे॑नं॒ शंस्य॑मु॒क्थं॑  
+> करं ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । मे । नमी । साप्यः । इषे । भुजे । भूत् । गवां । एषे । सख्या । कृणुत । द्विता॥  
+> दिद्युं । यत् । अस्य । संइथेषु । मंहयं । आत् । इत् । एनं । शंस्यं ।  
+> उक्थं । करं ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मे मम मत्संबंधी नमी । नामकत्वान्नमः स्तोत्रं । तदस्यास्तीति नमी
+> स्तोता साप्यः सर्वैराश्रयणीय इषेऽन्याय जुजे भोगाय प्र भूत् । प्रभवति ।
+> तं मत्सोतारं मनुष्या गवामेषेऽन्वेषणाय सख्या सख्याय च द्विता द्विविधं
+> द्विप्रकाराय कृणुत । कृण्वंति । गवां दातारं सखायं च कुर्वंतीत्यर्थः । यद्वा।
+> गवामेष एषणे द्विता द्वैधाय सख्याय शारीराय सैनिकाय च सख्यायकृण्वंति ।
+> कदेति उच्यते। यद्यदास्य मत्संबंधिनः स्तोतुर्जयार्थं समिथेषु संग्रामेषु
+> दिद्युमायुधं मुंहयं । स्वीकुर्यामित्यर्थः । आदिदनंतरमेवैनं स्तोतारं
+> शंस्यं स्तुत्यमुक्थ्यमुक्थार्हं करं । अकरं । करोमि ॥
+
+##### Gist of the bhāṣya
+
+मे (*me*) means "mine", that is, connected with me. नमी (*namī*): because नमः (*namaḥ*) is a name for a hymn of praise, one who has it is नमी (*namī*), the praiser. साप्यः (*sāpyaḥ*) means one to be resorted to by all. इषे (*iṣe*) is for food, भुजे (*bhuje*) for enjoyment; प्र भूत् (*pra bhūt*) means "he prevails". Men make that praiser of mine, for गवामेषे (*gavāmeṣe*) (the search for cows) and for friendship, द्विता (*dvitā*), that is, twofold, in two ways; the meaning is that they make him a giver of cows and a friend. Or else: for the search for cows, and for a twofold friendship, bodily and military, they make him a friend. When is this? It is said: when, for the victory of this praiser of mine, in battles I take up the weapon दिद्युं (*didyuṃ*)—मुंहयं (*muṃhayaṃ*) means "would take up"—then, immediately after, I make this praiser शंस्यं (*śaṃsyaṃ*) (praiseworthy) and *ukthyaṃ* (worthy of the uktha); करं (*karaṃ*) is "I make".**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- अस्य (*asya*)—of this praiser of mine
+- समिथेषु (*samitheṣu*)—in the battles
+- दिद्युत् (*didyut*)—the weapon**NOTE**
+- मंहयं (*maṃhayaṃ*)—gave
+- आदित् (*ādit*)—thereafter
+- एनं (*enaṃ*)—this praiser
+
+### Printed p. 158
+- शंस्यं (*śaṃsyaṃ*)—as worthy of praise
+- उक्ष्यं (*ukṣyaṃ*)—as worthy of eulogy**NOTE**
+- करं (*karaṃ*)—made; then
+- मे (*me*)—my
+- नमी (*namī*)—praiser
+- इषे (*iṣe*)—in the gaining of food
+- भुजे (*bhuje*)—in the attaining of enjoyment
+- प्र भूत् (*pra bhūt*)—becomes capable
+- तं (*taṃ*)—such a man, men
+- गवां एषे (*gavāṃ eṣe*)—for searching for cows, or for obtaining cows
+- सख्या (*sakhyā*)—for gaining his friendship
+- द्विता (*dvitā*)—for these two kinds of purpose
+- कृणुत (*kṛṇuta*)—resort to
+
+##### भावार्थ (Bhāvārtha)
+
+When, in the battles which my praiser fights with enemies, I give him a weapon for the slaying of the foes and make him worthy of praise, that praiser of mine becomes able to gain food and to enjoy it. Men resort to just such a man, for obtaining cows, for gaining his friendship, and for these two kinds of purposes.
+
+##### English translation
+My praiser, the refuge (of all), was food to enjoy ; (him, men) use in two ways, to search for their cattle, and to be their friend, when I bestow upon him a weapon in his battles, and make him worthy of celebrity and praise.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नेम॑स्मिन्नदृशे॒ सोमो॑ अं॒तर्गो॒पा नेम॑मा॒विर॒स्था  ॑
+> कृ॑णोति ।  
+> स ति॒ग्मशृं॑गं वृष॒भं युयु॑त्सन् द्रु॒हस्त॑स्थौ बहु॒ले ब॒द्धो  ॒
+> अंतः ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र। नेमस्मिन् । ददृशे । सोमः । अंतः । गोपाः । नेमं । आविः। अस्था । कृणोति ॥  
+> सः । तिग्मशृंगं । वृषभं । युयुत्सन् । द्रुहः । तस्थौ । बहुले । बद्धः । अंतरिति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नेमस्मिन् । नेमशब्दोऽर्धपर्याय । यष्टायष्टा च द्वौ पुरुषौ
+> युध्यंतौ । तयोरेकस्मिन्यष्टरीत्यर्थः । तस्मिन्नंतः सोमो ददृशे । दृश्यते । तं
+
+### Printed p. 159
+
+> नेममर्धमेकं गोपा गोपायितेंद्रोऽस्था क्षेपणसाधनेन वज्रेणाविष्कृ
+> णोति । प्रकटयति । शत्रुभिरनभिभूतं करोतीत्यर्थः । स यत्र सोमो न दृश्यते
+> स तिग्मशृंगं तीक्ष्णायुधं वृषभं बाणान्वर्षयंतमिंद्रॆणानुगृहीतं प्रति युयुत्सन् योद्धुमिच्छन् द्रुहो द्रोग्धा बद्धः सन् बहुले०धकारेऽंतस्तस्य मध्यॆ
+> तस्मै । तिष्ठति । यद्वा । एवं व्याख्येयं । नेमस्मिन्निंद्रभक्तेऽनः सोमो दवृशे ।
+> नेममन्यं गोपाः स्वभक्तरक्षक इंद्रोऽस्था वज्रेणाविष्कृणोति । आविष्करोति ।
+> वज्रेण पीडयतीत्यर्थः । स नेमो द्रुहस्तिग्मशृंगं वृषभमिंद्रं युयुत्सन् ।
+> शिष्टं समानं ॥
+
+##### Gist of the bhāṣya
+
+The word नेम (*nema*) is a synonym of "half". Two men fight, a sacrificer and a non-sacrificer; नेमस्मिन् (*nemasmin*) means in the sacrificer, one of the two. In him Soma is seen (ददृशे (*dadṛśe*)). That one of the two, the protector Indra, makes manifest with the vajra, the instrument of casting; the meaning is that he makes him unovercome by enemies. The other, in whom Soma is not seen, desires to fight against the sharp-horned (तिग्मशृंगं (*tigmaśṛṃgaṃ*), with sharp weapon) bull (वृषभं (*vṛṣabhaṃ*), one who showers arrows), who is favoured by Indra; being a traitor (द्रुहः (*druhaḥ*)) and bound, he remains in the thick darkness, in the midst of it. Or else it is to be explained thus: Soma is seen in the one who is a devotee of Indra; the other, not his devotee, Indra, protector of his own devotees, makes manifest with the vajra, that is, torments him with the vajra. That *nemaḥ*, a traitor, wishing to fight against Indra, the sharp-horned bull. The rest is the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नेमस्मिन् (*nemasmin*)—among the two, the one who sacrifices and the one who does not, in the man who sacrifices
+- अंतः (*aṃtaḥ*)—in the midst
+- सोमः (*somaḥ*)—the Soma juice
+- ददृशे (*dadṛśe*)—is seen
+- तं नेमं (*taṃ nemaṃ*)—that man, one of the two
+- गोपाः (*gopāḥ*)—Indra, the protector
+- अस्था (*asthā*)—with the vajra weapon, the instrument of slaying
+- आविः कृणोति (*āviḥ kṛṇoti*)—manifests; that is, makes him not defeated by enemies
+- सः (*saḥ*)—the other man who does not sacrifice, that is, who does not obtain Soma juice
+- तिग्मशृंगं (*tigmaśṛṃgaṃ*)—having a sharp weapon
+- वृषभं (*vṛṣabhaṃ*)—with his opponent the sacrificer, who showers a rain of arrows in battle
+- युयुत्सन् (*yuyutsan*)—when he desires to fight
+- द्रुहः (*druhaḥ*)—he, the traitor
+- बद्धः (*baddhaḥ*)—being bound with fetters
+- बहुले अंतः (*bahule aṃtaḥ*)—in the midst of darkness
+- तस्थौ (*tasthau*)—remains
+
+##### भावार्थ (Bhāvārtha)
+
+Of the two, the sacrificer and the non-sacrificer, in the man in whom Soma juice is seen, that is, the man who sacrifices, Indra helps him with his vajra weapon and makes him not defeated by enemies. But the man who does not sacrifice, when he fights with the sacrificer, who has a sharp weapon and showers a rain of arrows in battle, having no help of his own, is bound by the fetters of the enemies and remains in a prison enveloped in darkness; or, for lack of Indra's help, being helpless, he falls into the power of his enemies.
+
+##### English translation
+The Soma is seen in one of the two (combatants); the cowherd (Indra)manifests the other with his thunder-bolt: the latter warring against the sharp-horned bull, remains in great (darkness) bound by the victor.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒दि॒त्यानां॒ वसू॑नां रु॒द्रिया॑णां दे॒वो दे॒वानां॒ न मि॑नामि॒  ॑
+> धाम॑ ।
+
+### Printed p. 160
+
+> ते मा भद्राय शवसे ततक्षुरपराजितमस्तृतमषाळ्हं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आदित्यानां । वसूनां । रुद्रियाणां । देवः। देवानां । न । मिनामि । धाम ॥  
+> ते । मा । भद्राय । शवसे । ततक्षुः । अपराजितं । अस्तृतं । अषाळ्हं ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आदित्यानां वसूनां रुद्रियाणां रुद्राणां यद्वा रुद्रपुत्राणां मरुतां
+> च देवानां धाम स्थानं देव इंद्रो न मिनाति । न हिनस्ति । त आदित्यादयो मा
+> मां भद्राय शवसे ततक्षुः । अनुगृह्णंतु । अपराजितमस्तृतमहिंसिरमषाळ्ह
+> मनभिभूतं ॥
+
+##### Gist of the bhāṣya
+
+Of the Ādityas, the Vasus, the रुद्रियाणां (*rudriyāṇāṃ*)—the Rudras, or else the Maruts, sons of Rudra—of these gods the god Indra does not injure the abode (धाम (*dhāma*), place); he does not destroy it. May those Ādityas and the rest favour me (ततक्षुः (*tatakṣuḥ*) = अनुगृह्णंतु (*anugṛhṇaṃtu*)) for auspicious strength. अपराजितं (*aparājitaṃ*) is "undefeated"; अस्तृतं (*astṛtaṃ*) is "unharmed"; अषाळ्हं (*aṣāḷhaṃ*) is "not overcome".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—Indra, the god in essence
+- आदित्यानां (*ādityānāṃ*)—of the Ādityas, or of the gods who are sons of Aditi
+- वसूनां (*vasūnāṃ*)—of the Vasus
+- रुद्रियाणां (*rudriyāṇāṃ*)—of the Rudras, or of the Maruts, sons of Rudra
+- देवानां (*devānāṃ*)—of the other gods
+- धाम (*dhāma*)—the abode
+- न मिनामि (*na mināmi*)—does not abandon
+- ते (*te*)—the gods, the Ādityas and others
+- मा (*mā*)—me
+- भद्राय (*bhadrāya*)—for auspiciousness
+- शवसे (*śavase*)—for strength and capacity
+- ततक्षुः (*tatakṣuḥ*)—may they favour
+- अपराजितं (*aparājitaṃ*)—so that I am not defeated by enemies
+- अस्तृतं (*astṛtaṃ*)—so that I am not harmed by them
+- अषाळ्हं (*aṣāḷhaṃ*)—so that I am not overcome; may they favour me
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the god in essence, not abandon the abode of the Ādityas, Vasus, Rudras and the other gods. May those Ādityas and the other gods bring me auspiciousness, give me strength and capacity, and favour me so that I am not defeated by enemies, not harmed by them, and not overcome by anyone.
+
+##### English translation
+The divine (Indra) abandons not the abode of the deities, the Adityas, the Vasus, and the Rudriyas ; may they fashion me for auspicious vigour, undefeated, unharmed, unconquered.
+
+### Printed p. 161
+## Sūkta 49 (Maṇḍala 10)
+**Introduction**
+In this sūkta also Indra praises his own deeds of valour. Only some of them are described here.
+
+**Description of the slaying of the Asura Vṛtra**
+The Asura Vṛtra is of evil nature. His nature is known to no one. He has no good understanding at all. It is his nature always to lie down blocking the waters. It is described that Indra slew such a Vṛtra of base nature with the vajra weapon on the day of the full moon. On this matter the Bhāṣyakāra cites a passage of the Taittirīya Saṃhitā and shows that the slaying of Vṛtra by Indra on the day of the full moon is stated in it. Since all the seers have praised Indra's slaying of Vṛtra, it is necessary to state here a detailed account of that slaying. Therefore we give here the mantra portion of the Yajurveda that sets out that account, together with its meaning:
+
+त्वष्टा हतपुत्रो वींद्रग्ं सोममाहरत्तस्मिन्निंद्र उपहवमैच्छत तं नोपाह्वयत पुत्रं मेऽवधीरिति स यज्ञवेशसं कृत्वा प्रासहा सोममपिबत्तस्य यदत्यशिष्यत तत्त्वष्टाहवनीयमुप प्रावर्तयत्स्वाहेंद्रशत्रुर्वर्धस्वेति यदवर्तयत्तद्वृत्रस्य वृत्रत्वं यदब्रवीत्स्वाहेंद्रशत्रुर्वधस्वेति तस्मादस्येंद्रः शत्रुरभवत्स संभवन्नग्नीषोमावभि समभवत्स इषुमात्र, मिषुमात्रं विष्टज्जवर्धत स इमान् लोकानवृणोद्यदिमान् लोकानवृणोत्तद्वृत्रस्य वृत्रत्वं तस्मादिंद्रोऽभिभेत् ॥ (*tvaṣṭā hataputro vīṃdragṃ somamāharattasminniṃdra upahavamaicchata taṃ nopāhvayata putraṃ me 'vadhīriti sa yajñaveśasaṃ kṛtvā prāsahā somamapibattasya yadatyaśiṣyata tattvaṣṭāhavanīyamupa prāvartayatsvāheṃdraśatrurvardhasveti yadavartayattadvṛtrasya vṛtratvaṃ yadabravītsvāheṃdraśatrurvadhasveti tasmādasyeṃdraḥ śatrurabhavatsa saṃbhavannagnīṣomāvabhi samabhavatsa iṣumātra, miṣumātraṃ viṣṭajjavardhata sa imān lokānavṛṇodyadimān lokānavṛṇottadvṛtrasya vṛtratvaṃ tasmādiṃdro 'bhibhet ‖*) (Tai. Saṃ. 2-5-2-1)
+
+In this anuvāka the account of Indra's slaying of Vṛtra is stated. As a background to this story there is another episode. Although we have described it earlier, it is necessary to relate it briefly here as an introduction to what follows. In former times Tvaṣṭṛ Prajāpati had a son named Viśvarūpa. He was the priest of the gods. Yet since he was born of an Asura woman, he had a special partiality for the Asuras. That being so, Indra feared that this Viśvarūpa, though priest to us, being partial to the Asuras, might bide his time, help the Asuras, and plot so that the gods should have no kingdom at all. Therefore Indra slew him by another means. This very matter is here (त्वष्टा हतपुत्रो वींद्रग्ं (*tvaṣṭā hataputro vīṃdragṃ*))**NOTE**
+
+### Printed p. 163
+मीयमेकादशकपालं पूर्णमासे प्रायच्छत्तावब्रूतामभि संदष्टौ वै स्वो न शक्नुन ऐतुमिति स इंद्र आत्मनः शीतरूरानजनयत्तच्छीतरूरयोर्जन्मय एवग्ं शीतरूरयोर्जन्म वेद नैनग्ं शीतरूरौ हतस्ताभ्यामेनमभ्यन-यत्तस्माज्जंजभ्यमानादग्नीषोमौ निरक्रामतां ॥ अ (*mīyamekādaśakapālaṃ pūrṇamāse prāyacchattāvabrūtāmabhi saṃdaṣṭau vai svo na śaknuna aitumiti sa iṃdra ātmanaḥ śītarūrānajanayattacchītarūrayorjanmaya evagṃ śītarūrayorjanma veda nainagṃ śītarūrau hatastābhyāmenamabhyana-yattasmājjaṃjabhyamānādagnīṣomau nirakrāmatāṃ ‖ a*)
+
+Thereafter, when Indra was ready to strike Vṛtra with his weapon, Agni and Soma stopped him, saying "Do not strike": "O Indra, do not strike Vṛtra now. We, the deities Agni and Soma, are dwelling in the mouth of this Vṛtra." Indra said, "O Agni and Soma, you are indeed ours. Therefore leave Vṛtra's body and come to me; afterwards I shall slay Vṛtra." Hearing this, the deities Agni and Soma said, "O Indra, if we do as you say, what favour will you do us? If you arrange for us also a share in the sacrifice, we shall do as you say." Indra agreed to this and arranged for them, in the full-moon sacrifice, an offering-share of the oblation called the eleven-potsherd **puroḍāśa**.**NOTE**
+Then the deities Agni and Soma, although they had thus obtained the boon they desired, said to Indra, "O Indra, now we cannot come out of Vṛtra's mouth. We are caught between Vṛtra's teeth and held tightly. Unless he opens his mouth we cannot come out." Then Indra thought of a means for this. From his own body he created cold fever and the great heat that arises from it. This was the first time that cold fever afflicted people in the world. The man who knows this manner of origin of cold fever is not afflicted by this cold fever. Then Indra took the cold fevers he had created and made them enter the body of the Asura Vṛtra. Then Vṛtra, trembling with the cold and exhausted by the heat of the fever, opened his mouth wide in order to draw breath in weariness. At once the deities Agni and Soma came out of his mouth and came forth.
+
+प्राणापानौ वा एनं तदजहितां प्राणो वै दक्षोऽपानः क्रतुस्तस्माज्जंजभ्यमानो ब्रूयान्मयि दक्षक्ररू इति प्राणापानावेवात्मन्धत्ते सर्वमायुरेति॥ (*prāṇāpānau vā enaṃ tadajahitāṃ prāṇo vai dakṣo 'pānaḥ kratustasmājjaṃjabhyamāno brūyānmayi dakṣakrarū iti prāṇāpānāvevātmandhatte sarvamāyureti‖*)
+
+Thereafter the winds called prāṇa and apāna abandoned that Vṛtra; that is, they left his body. The word prāṇa has the meaning *dakṣa*, and the word apāna the meaning "kratu". Dakṣa is skill in work and activities, intelligence; kratu is bodily power for work, capacity. Both of these left that Vṛtra, who had his mouth open. Therefore, while performing a sacrificial rite, if one makes a bodily movement or yawns and opens the mouth, the mantra मयि द्रक्षकतू (*mayi drakṣakatū*)**NOTE**should be uttered. If one does so, prāṇa and apāna do not leave the sacrificer but stay firm, and long life also results.
+
 ---
 
-**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
+**Progress note:** Done through printed p. 163. pp. 157-163 (batch API)
