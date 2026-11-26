@@ -8241,6 +8241,125 @@ The gods: O Agni, the oblations in the form of Prayāja and those named Anuyāja
 **Pīṭhikā**
 Since the Viśvedevas are the deities praised in this sūkta, we explain the matter of these deities here briefly. Their name is read among the thirty-one names that indicate special deities such as the Aśvins. The commentator says that they are separate, special deities. Some say they are all the gods. But from the matter in other sūktas it can be said clearly that the seers worshipped separate deities called Viśvedevas. On this question Yāska has written an explanation of the Ṛk ओमासः (*omāsaḥ*).
 
+### Printed p. 272
+आवितारो वावनीया वा मनुष्यधृतः सर्वे देवा इहा गच्छत हत्तवंतो दत्तवतः सुतमिति. तदेतदेकमेव वैश्वदेवं गायत्रं तृचं दशतयीषु विद्यते यत्तु किंचिद्दहुदैवतं तद्वैश्वदेवानां स्थाने युज्यते यदेव विश्वलिंगमिति शाकपूणिः (*āvitāro vāvanīyā vā manuṣyadhṛtaḥ sarve devā ihā gacchata hattavaṃto dattavataḥ sutamiti. tadetadekameva vaiśvadevaṃ gāyatraṃ tṛcaṃ daśatayīṣu vidyate yattu kiṃciddahudaivataṃ tadvaiśvadevānāṃ sthāne yujyate yadeva viśvaliṃgamiti śākapūṇiḥ*) (Ni. 12-40). As to the meaning of this Ṛk, there is no difference between the sense we have given and Yāska's sense. But according to Yāska's own account, विश्वेदेवाः (*viśvedevāḥ*) means "all the gods", while the view of Śākapūṇi is that the Viśvedevas are a particular set of gods called by that name. It can therefore be said with certainty that there was already a difference of opinion on this point in Yāska's time. If we speak as the usage now stands in domestic (gṛhya) and other rites, it is understood that these Viśvedevas do not belong to the group of ordinary gods; they are a special group of thirteen persons of their own. However that may be, it seems reasonable to say that the Viśvedevas described in the Ṛgveda belong to a separate group of gods.
+
+In the Ṛgveda there are 63 sūktas in praise of the Viśvedevas alone. Besides these, in Ṛ. Saṃ. 1-164 the first 41 Ṛks are addressed to the Viśvedevas. In all of these, except the sūkta Ṛ. Saṃ. 10-155, many gods are praised, that is, as in other sūktas, gods such as Agni and Indra, and besides them trees, rivers, mountains, cows, horses and the like are also spoken of. Besides these, in sūktas of other deities, in many places, a total of 17 Ṛks have the Viśvedevas as their deity. In all these places the Viśvedevas themselves are named as the deities of these Ṛks; and in the mantra Ṛ. Saṃ. 10-125-1 the Vasus, Rudras and Ādityas are included together with the Viśvedevas.
+
+In the mantra 2-22 of the Vājasaneyi Saṃhitā (Śukla Yajurveda) Indra is prayed to join with the Ādityas, Vasus, Maruts and Viśvedevas. In the mantras 33-45 to 47 of the same Saṃhitā Indra, Vāyu and other gods are praised together with the Viśvedevas. In the mantra 20-62-6 of the Atharvaveda the Viśvedevas are referred to in the singular, and the Atharvaveda has many sūtras addressed to the Viśvedevas.
+
+### Printed p. 273
+In the Brāhmaṇas too the name of the Viśvedevas is mentioned here and there. In the Kauṣītaki Brāhmaṇa 4-14 and the Gopatha Brāhmaṇa 1-20 all the gods are addressed by the very name Viśvedevas. In the Śatapatha Brāhmaṇa 3-9-2-6 the Viśvedevas are called the rays of the sun, in Śa. Brā. 14-2-2-37 the vital airs (prāṇa and the rest), in Śa. Brā. 7-1-1-42 the sacrificial acts, and in Śa. Brā. 2-4-4-13 Indra and Agni. In the Taittirīya Āraṇyaka (Tai. Ā. 5-1-6) Indra and Agni are praised together with the Viśvedevas.
+
+In the Purāṇas, in some places, these Viśvedevas are said to be the lords of the directions. In the Nirukta (Ni. 12-39) it is said that the Viśvedevas are all the gods. Durgācārya, the commentator on the Nirukta, has explained the Viśvedevas as the rays of the sun. Yāska, the author of the Nirukta, has stated his own view that the Viśvedevas are all the gods, and has also indicated the view of Śākapūṇi. Śaunaka, speaking of the Viśvedevas in his work Bṛhaddevatā (Bṛ. De. 2-148 to 134, verses), says that Yāska and Śāṇḍilya hold that विश्वेदेवाः (*viśvedevāḥ*) means all the gods. Śaunaka's own view is the same.
+
+Sāyaṇācārya, in commenting on this Ṛk, has expressed his view that the Viśvedevas are the thirty-one gods beginning with the Aśvins, who together are called Viśvedevas.
+
+Among Western scholars, Langlois, Kaegi and Hopkins hold that the Viśvedevas are all the gods; Wilson, Griffith and Macdonell accept both meanings: either all the gods, or a separate company of gods called the Viśvedevas.
+
+The main point is this: it may be said that in former times, that is, in very ancient times, the meaning "all the gods" was current for the Viśvedevas, and that in course of time it came into use to think of the Viśvedevas as a company of separate gods of that name. In many Brāhmaṇas and Purāṇas the Viśvedevas are indicated as a separate group of gods. But it is known from Yāska's Nirukta itself that even in Yāska's time there was a difference of opinion on this matter.
+
+In the Ṛgveda, besides the Ṛks addressed to the Viśvedevas that occur here and there, there are 58 separate sūktas that have the Viśvedevas as their deity. In the first maṇḍala of the Ṛ. Saṃ.: sūktas 14, 89, 90, 105, 106, 107, 121, 122; in the second maṇḍala: sūktas 29-31; in the third maṇḍala: sūkta 54; in the fourth maṇḍala: sūkta 55; in the fifth maṇḍala: 41, 42, 43, 44, 45, 47, 48, 49, 50, 51; in the sixth maṇḍala: 49, 50, 51, 52; in the seventh maṇḍala: 35, 36, 37, 39, 40, 42, 43; in the eighth maṇḍala: 27, 28, 29, 30, 58, 83; in the tenth maṇḍala: the sūktas 31, 32, 35, 36, 51, 64, 65, 66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181 are addressed to the Viśvedevas.
+
+It is necessary to examine here who the Viśvedevas are, what their nature is, and similar questions.
+
+को नु नां वैश्वदेवानि एकादश पराण्यतः । (*ko nu nāṃ vaiśvadevāni ekādaśa parāṇyataḥ |*)
+(Bṛ. De. 5-36)
+
+### Printed p. 274
+The statement of the Bṛhaddevatā is that, beginning with the sūkta that starts with the mantra को नु वां मित्रावरुण् (*ko nu vāṃ mitrāvaruṇ*), eleven sūktas in all are sūktas of praise addressed to the Viśvedevas; it indicates the details praised in the eleven sūktas of the fifth maṇḍala of the Ṛksaṃhitā, from sūkta 41 to sūkta 51. This is what the Sarvānukramaṇikā states as वैश्वदेवं वै तत् (*vaiśvadevaṃ vai tat*).
+(Macdonell's Brihad Dewata, English Translation P. 175)
+
+It is not easy to give a precise opinion on the question "What are the Viśvedevas?" There are differences of view whether the meaning is the assemblage of all the gods, or a separate group (gaṇa) of gods denoting a fixed number. But in the Ṛksaṃhitā there is also a passage that clearly designates all the gods as Viśvedeva groups:
+
+अमी ये देवा स्थन त्रिष्वा रोचने दिवः । (*amī ye devā sthana triṣvā rocane divaḥ |*)
+(Ṛ. Saṃ. 1-105-5)
+
+The gods of the three worlds who are all designated in this mantra are the very gods of whom the Bṛhaddevatā speaks, saying:
+
+बृहस्पतिप्रचोदिता विश्वेदेवगणास्त्रयः । जग्मुस्त्रितस्य तं यज्ञं भागांश्च जगृहुः सह ॥ (*bṛhaspatipracoditā viśvedevagaṇāstrayaḥ | jagmustritasya taṃ yajñaṃ bhāgāṃśca jagṛhuḥ saha ‖*)
+(Bṛ. De. 1-136)
+
+All the gods, divided into three groups in the three worlds beginning with the earth, impelled by Bṛhaspati, came to Trita's sacrifice and took part in it; thus the word विश्वदेव (*viśvadeva*) is explained as meaning all the gods. The Śatapatha Brāhmaṇa also explains this same view:
+
+वैश्वदेवश्चतुर्थमहर्भवति । विश्वे वै सर्वॆ देवाः सर्वेषां देवानामाप्लै वैश्वदेवा ग्रहा भवंति वैश्वदेव्यः परोरुचः सर्वं वैश्वदेवमसदिति ॥ (*vaiśvadevaścaturthamaharbhavati | viśve vai sarvè devāḥ sarveṣāṃ devānāmāplai vaiśvadevā grahā bhavaṃti vaiśvadevyaḥ parorucaḥ sarvaṃ vaiśvadevamasaditi ‖*)
+(Śa. Brā. 13-7-1-6)
+
+The fourth day is Vaiśvadeva. Viśvedevas means all the gods. The aim is that on the fourth day their full favour should be obtained. The Soma cups are Vaiśvadeva cups. The groups of rites called Parorukh also aim at winning the favour of all the gods. Therefore these cups must satisfy all the gods. And likewise:
+
+इति ह स्माह सत्यकामो जाबालो विश्वे वै सर्वॆ देवास्तदेनान्यथा देवतं प्रीणातीति ॥ (*iti ha smāha satyakāmo jābālo viśve vai sarvè devāstadenānyathā devataṃ prīṇātīti ‖*)
+(Śa. Brā. 13-5-2-1)
+
+### Printed p. 275
+Viśvedevas means all the gods; therefore, the Śatapatha states clearly, Satyakāma Jābāla declared that by this rite, which has the Viśvedevas as its deity, individual satisfaction is obtained by all the gods. Although the view that the word applies to all the gods is found in Vedic passages themselves, in some other places room is left for an alternative meaning. For example:
+
+स नैव व्यभवत्स विशमसृजत यान्येतानि देवजातानि गणश अख्यायंते वसवो रुद्रा आदित्या विश्वे देवा मरुत इति ॥ (*sa naiva vyabhavatsa viśamasṛjata yānyetāni devajātāni gaṇaśa akhyāyaṃte vasavo rudrā ādityā viśve devā maruta iti ‖*)
+(Bṛ. U. 1-4-12)
+
+Prajāpati, engaged in the work of creation, had not yet attained the fullness of creation. Then he created the creatures and the gods who are designated in the form of groups (gaṇa). They are the Vasus, Rudras, Ādityas and Viśvedevas; and then the Maruts are also mentioned. Śaṅkarācārya, in his commentary, explains that among these groups the Vasus show a group of eight, the Rudras a group of eleven (11), the Ādityas a group of twelve (12), and the Maruts a group of seven; and he gives the meaning of the word विश्वेदेव (*viśvedeva*) as follows:
+
+विश्वेदेवास्त्रयोदश विश्वाया अपत्यानि । सर्वे वा देवाः । (*viśvedevāstrayodaśa viśvāyā apatyāni | sarve vā devāḥ |*)
+(Bṛ. U. Śaṃ. Bhā. 1-4-12) **NOTE**
+
+He says that there are alternative meanings: one, a company of thirteen gods who are the sons of Viśvā; the other, all the gods. Who this Viśvā is, and how the status of her sons came to the gods, is not easy to say. In the Saṃhitās and the like she is not a very famous person. Only in the Bṛhaddevatā is her name given, in one place:
+
+अदितिर्दितीर्दनुः काला दनायुः सिंहिका मुनिः । क्रोधा विश्वा वरिष्ठा च सुरभिर्विनता तथा । कद्रूश्चैवेति दुहित्याः कश्यपाय ददौ स च ॥ (*aditirditīrdanuḥ kālā danāyuḥ siṃhikā muniḥ | krodhā viśvā variṣṭhā ca surabhirvinatā tathā | kadrūścaiveti duhityāḥ kaśyapāya dadau sa ca ‖*)
+(Bṛ. De. 5-14)
+
+Kaśyapa, son of Marīci, had thirteen divine wives. They are: Aditi, Diti, Danu, Kālā, Danāyu, Siṃhikā, Muni, Krodhā, Viśvā, Variṣṭhā, Surabhi, Vinatā and Kadrū; these were the daughters of Dakṣa. Dakṣa gave these thirteen maidens to Kaśyapa in marriage.
+
+तासु देवासुराश्चैव गंधर्वोरगराक्षसाः । (*tāsu devāsurāścaiva gaṃdharvoragarākṣasāḥ |*)
+(Bṛ. De. 5-145)
+
+From these daughters of Dakṣa arose gods, asuras, gandharvas, serpents, rākṣasas and the rest.
+
+### Printed p. 276
+Giving the details that twelve sons were born to Aditi and so on, the text explains the order of birth of Agastya and Vasiṣṭha. In that context:
+
+सर्वत्र पुष्करं तत्र विश्वे देवा आधारयन् । (*sarvatra puṣkaraṃ tatra viśve devā ādhārayan |*)
+(Bṛ. De. 5-155)
+
+It says that the Viśvedevas held Vasiṣṭha, who was placed in the pukṣkara (lotus flower). Although Viśvā is said to be Kaśyapa's wife, it is not stated that the Viśvedevas were her sons. But the holding of Vasiṣṭha, who was in the lotus, is also described in the Ṛksaṃhitā:
+
+उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधि जातः । द्रप्सं स्कन्नं ब्रह्मणा दैन्यन विश्वे देवाः पुष्करे त्वाददंत ॥ (*utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahmanmanaso 'dhi jātaḥ | drapsaṃ skannaṃ brahmaṇā dainyana viśve devāḥ puṣkare tvādadaṃta ‖*)
+(Ṛ. Saṃ. 7-33-11)
+
+"O Vasiṣṭha, you are the one born of Mitra and Varuṇa from Urvaśī. The Viśvedevas held you, who were in the lotus." Here Sāyaṇa has not said who विश्वे देवाः (*viśve devāḥ*) are. The author of the Nirukta, when giving the purport of this same sentence, says:
+
+सर्वे देवाः त्वाधारयंत । (*sarve devāḥ tvādhārayaṃta |*)
+(Ni. 5-14)
+
+Thus he has explained विश्वे देवाः (*viśve devāḥ*) as meaning all the gods.
+
+Only in the Matsya Purāṇa, in one place, is it stated that the Viśvedevas are sons of Viśvā, and that they are ten: Kratu, Dakṣa, Vasu, Satya, Kālakāma, Muni, Kuraja, Manuja, Vīja and Rocamāna. They are praised as worthy of worship in offerings to gods and ancestors (Matsya 203). The Mārkaṇḍeya Purāṇa states that they received a curse from Viśvāmitra (Mārkaṇḍeya 7). But for now we cannot settle the meaning of Vedic passages on the basis of the Purāṇas.
+
+In Vedic passages the praise of the Viśvedevas is of three kinds. The Bṛhaddevatā states this thus:
+
+वैश्वदेवानि सूक्तानि त्रिविधानि भवंति तु । सूर्यसंस्तवसंयुक्तं विश्वलिंगं पृथक् स्तुति ॥ (*vaiśvadevāni sūktāni trividhāni bhavaṃti tu | sūryasaṃstavasaṃyuktaṃ viśvaliṃgaṃ pṛthak stuti ‖*)
+(Bṛ. De. 3-42)
+
+The sūktas that praise and pray to the Viśvedevas are of three kinds. Sūktas that are combined with praises of the Sun belong to the first group. Sūktas that praise all the gods by indicating their common qualities belong to the second group. And, besides, the praising of an individual deity and the extolling of that deity's individual qualities (pṛthak stuti)
+
+### Printed p. 277
+belong to the third group.
+
+पृथक् स्तुतीति यत्पोक्तं तद्विद्याद्बहुदैवतं । विश्वलिंगं तु तद्यत्र विश्वैःस्वैः कर्मजैर्गुणैः ॥ (*pṛthak stutīti yatpoktaṃ tadvidyādbahudaivataṃ | viśvaliṃgaṃ tu tadyatra viśvaiḥsvaiḥ karmajairguṇaiḥ ‖*)
+(Bṛ. De. 3-43)
+
+Among the three kinds of praise explained in the verse above, (1) combined with praise of the Sun, (2) viśvaliṅga, (3) pṛthak stuti, the pṛthak stuti is the individual praise of many deities. The viśvaliṅga is that which states the common qualities of the gods. Stating the same point in another place, the text explains what viśvaliṅga is:
+
+ऋषिर्देवताः सर्वा विश्वाभिः स्तुतिभिः स्तुताः । संज्ञा तु विश्वमित्येषा सर्वानाप्ता निपातिता ॥ (*ṛṣirdevatāḥ sarvā viśvābhiḥ stutibhiḥ stutāḥ | saṃjñā tu viśvamityeṣā sarvānāptā nipātitā ‖*)
+(Bṛ. De. 2-139
+
+All the gods have been praised by the seers through praises that are joined together and that describe the qualities of the whole (viśva). The term विश्व (*viśva*) is used in the sense of सर्वानाप्ति (*sarvānāpti*). सर्वानाप्ति (*sarvānāpti*) means comprising everything. According to this term, विश्वेदेवाः (*viśvedevāḥ*) means comprising all the gods. This same thing was described above by the term विश्वलिंग (*viśvaliṃga*). The author of the Nirukta, explaining the term विश्वलिंग (*viśvaliṃga*), has also given the view of Śākapūṇi, who says that only the sūktas praising deities, indicated by the word विश्व (*viśva*), are Vaiśvadeva sūktas (Ni. 12-40).
+
+विश्वैः स्वैः कर्मजैर्गुणैः (*viśvaiḥ svaiḥ karmajairguṇaiḥ*) (3-43): it is also stated that the qualities common to the whole are born of the individual acts of the respective gods. In this sense there is no great difference between the two groups of sūktas, viśvaliṅga and pṛthak stuti. How? Explaining what "born of one's own acts" means, the text indicates what the universal qualities born of one's own acts are:
+
+स्तूयंते देवता ह्यासु कर्मभिः स्वैः पृथक् पृथक् । स्तुताः कर्मगुणैः स्वैः स्वैर्देवता यत्र तत्र तु ॥ पृथक्कर्मस्तुतिर्नाम वैश्वदेवं तदेव तु ! (*stūyaṃte devatā hyāsu karmabhiḥ svaiḥ pṛthak pṛthak | stutāḥ karmaguṇaiḥ svaiḥ svairdevatā yatra tatra tu ‖ pṛthakkarmastutirnāma vaiśvadevaṃ tadeva tu !*)
+(Bṛ. De. 6-69, 70)
+
+Wherever the gods are praised through the description of their respective individual qualities and through the individual deeds of each deity, there is room for pṛthakkarma-stuti (praise of individual acts). Such praise is Vaiśvadevika.
+
 ---
 
-**Progress note:** Done through printed p. 271. pp. 266-271 (batch API)
+**Progress note:** Done through printed p. 277. pp. 272-277 (batch API)
