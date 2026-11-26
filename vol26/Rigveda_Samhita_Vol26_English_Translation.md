@@ -4353,6 +4353,285 @@ Flow forth, O conqueror of thousands, who conquers but is not conquered, and att
 
 The sūkta beginning परि सोमः (*pari somaḥ*) has four ṛks and is the thirty-second sūkta. The seer and the rest are as before. The Anukramaṇī says परि सोमः (*pari somaḥ*). The use in the rite has been stated.
 
+### Printed p. 158
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ सोम॑ ऋ॒तं बृ॒हदा॒शुः प॒वित्रे॑ अर्षति ।  
+> वि॒घ्नन्रक्षां॑सि देव॒युः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । सोमः । ऋतम् । बृहत् । आशुः । पवित्रे । अर्षति ।  
+> विऽघ्नन् । रक्षांसि । देवऽयुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशुः क्षिप्रकारी देवयुः देवकामः सोमः पवित्रे स्थित्वा रक्षांसि राक्षसान् विघ्नन् निघ्नन् बृहत् महत् ऋतम् अन्नं परि अर्षति परिगमयति । अस्मभ्यं प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Soma, swift (āśu, quick in action) and desiring the gods, standing in the filter, destroys the Rākṣasas and brings around abundant, great food (ṛta, that is, annaṃ); the sense is that he gives it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशुः (*āśuḥ*)—swift-going
+- देवयुः (*devayuḥ*)—and desiring to satisfy the gods
+- सोमः (*somaḥ*)—Soma-deva
+- पवित्रे (*pavitre*)—while he is in the ten-fold filter
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- विघ्नन् (*vighnan*)—destroying
+- बृहत् (*bṛhat*)—abundant
+- ऋतं (*ṛtaṃ*)—food
+- पर्यर्षति (*paryarṣati*)—he provides around us
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who goes swiftly and desires to satisfy the gods, while he is in the ten-fold filter destroys the Rākṣasas and provides abundant food all around us.
+
+##### English translation
+The switt Soma devoted to the gods destroying the Rakshasas in the filter bestows abundant food (on us).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्सोमो॒ वाज॒मर्ष॑ति श॒तं धारा॑ अप॒स्युवः॑ ।  
+> इंद्र॑स्य स॒ख्यमा॑वि॒शन् ॥ २ ॥
+
+### Printed p. 159
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । सोमः । वाजम् । अर्षति । शतम् । धाराः । अपस्युवः ।  
+> इंद्रस्य । सख्यम् । आऽविशन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा अपस्युवः कर्मकामाः शतं शतसंख्याकाः धाराः सोमस्य धाराः इंद्रस्य सख्यं सखित्वम् आविशन् प्राप्नुवंति तदा सोमः वाजम् अन्नम् अर्षति गमयति । अस्मभ्यं प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When the hundred streams of Soma, desiring the rite (apasyu), attain the friendship of Indra, then Soma brings food; the sense is that he gives it to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- अपस्युवः (*apasyuvaḥ*)—desiring the sacrificial rite
+- शतं (*śataṃ*)—being a hundred in number
+- धाराः (*dhārāḥ*)—the streams of the Soma juice
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सख्यं (*sakhyaṃ*)—the friendship
+- आविशन् (*āviśan*)—attain, then
+- सोमः (*somaḥ*)—Soma-deva
+- वाजं (*vājaṃ*)—food
+- अर्षति (*arṣati*)—provides to us
+
+##### भावार्थ (Bhāvārtha)
+
+When the hundred streams of Soma juice, which desire the sacrificial rite, attain the friendship of Indra, then Soma-deva provides food for all of us.
+
+##### English translation
+When the hundred rite-loving streams (of the Soma) obtain the the friendship of Indra, then the Soma brings us food.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्वा॒ योष॑णो॒ दश॑ जा॒रं न क॒न्या॑नूषत ।  
+> मृ॒ज्यसे॑ सोम सा॒तये॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्वा । योषणः । दश । जारम् । न । कन्या । अनूषत ।  
+> मृज्यसे । सोम । सातये ॥ ३ ॥
+
+### Printed p. 160
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वा त्वां याः दश दशसंख्याकाः योषणः अंगुलयः कन्या पितृमती कन्यका जारं न यथा प्रियमभिशब्दायते तद्वत् अभि अनूषत अभिशब्दायंते ताभिः सातये अस्माकं धनस्य लाभाय मृज्यसे इंद्रार्थं शोध्यसे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the ten women (yoṣaṇaḥ), that is, the ten fingers, call out to you as a maiden (kanyā, a girl who has a father) calls out to her lover (jāra) with a sound of love; with them, for the winning (sātaye) of wealth for us, you are cleansed for Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- कन्या (*kanyā*)—as a young girl
+- जारं न (*jāraṃ na*)—calls her lover with a loving sound
+- त्वा (*tvā*)—you
+- दश योषणः (*daśa yoṣaṇaḥ*)—the ten fingers
+- अभ्यनूषत (*abhyanūṣata*)—which honour with a sound; joined with them
+- सातये (*sātaye*)—for the gain of our wealth
+- मृज्यसे (*mṛjyase*)—you receive purification
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, as a young girl calls her lover with a loving sound, so the ten fingers honour you with a sound (squeeze you); joined with them, for the gain of our wealth, you receive purification.
+
+##### English translation
+The ten fingers commend you, Soma, as a maiden her lover, you are cleansed in order to bestow (wealth on us).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिंद्रा॑य॒ विष्ण॑वे स्वा॒दुरिं॑दो॒ परि॑ स्रव ।  
+> नॄन्स्तो॒तॄन्पा॒ह्यंह॑सः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । इंद्राय । विष्णवे । स्वादुः । इंदो इति । परि । स्रव ।  
+> नॄन् । स्तोतॄन् । पाहि । अंहसः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम स्वादुः प्रियरसस्त्वम् इंद्राय इंद्रार्थं विष्णवे विष्ण्वर्थं च परि स्रव परिक्षर । नॄन् कर्मणां नेतॄन स्तोतॄन् त्वद्विषयाणां स्तुतीनां कर्तॄन् अंहसः दुरितात् पाहि रक्ष च ॥ ॥ १३ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, sweet, of pleasant juice, flow all around for Indra and for Viṣṇu. Protect from sin the leaders of the rites (nṛ) and the praisers who make praises addressed to you.
+
+### Printed p. 161
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- स्वादुः (*svāduḥ*)—having a tasty juice
+- त्वं (*tvaṃ*)—you
+- इंद्राय (*iṃdrāya*)—for Indra
+- विष्णुवे (*viṣṇuve*)—and for Viṣṇu
+- परि स्रव (*pari srava*)—flow in the form of a stream
+- नृन् (*nṛn*)—the sacrificers, leaders of the rites
+- स्तोत्थान् (*stotthān*)—and the praisers
+- अंहसः (*aṃhasaḥ*)—from sin
+- पाहि (*pāhi*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you of tasty juice, flow in the form of a stream for Indra and for Viṣṇu. Protect from sin the sacrificers who lead the rites and the praisers.
+
+##### English translation
+Do you, Indu, who are sweet-flavoured flow for Indra and Vishnu, preserve the worshippers, your praisers from sin.
+
+## Sūkta 57 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र ते धाराः' इति चतुर्ऋचं त्रयस्त्रिंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र ते धाराः ' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र ते धाराः (*pra te dhārāḥ*) has four ṛks and is the thirty-third sūkta. The seer and the rest are as before. The Anukramaṇī says प्र ते धाराः (*pra te dhārāḥ*). The use in the rite has been stated.
+
+Translation: This sūkta beginning प्र ते धाराः (*pra te dhārāḥ*) is the thirty-third sūkta in the second anuvāka. It contains four ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. The Anukramaṇī says प्र ते धाराः (*pra te dhārāḥ*). The use in the rite has been stated before.
+
+Sūkta 57. Maṇḍala 9. Anuvāka 2. Sūkta 57. Aṣṭaka 7. Adhyāya 1. Varga 14. Number of ṛks in the sūkta: 4. Seer: Avatsāra. Deity: Pavamāna Soma.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ धारा॑ अस॒श्चतो॑ दि॒वो न यं॑ति वृ॒ष्टयः॑ ।  
+> अच्छा॒ वाजं॑ सह॒स्रिण॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 162
+
+> प्र । ते । धाराः । असश्चतः । दिवः । न । यंति । वृष्टयः ।  
+> अच्छ । वाजम् । सहस्रिणम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव असश्चतः संगरहिताः धाराः सहस्रिणम् अपरिमितसंख्याकं वाजम् अन्नम् अच्छ अस्मदर्थं प्र यंति प्रगच्छंति । तत्र दृष्टांतः । दिवो न वृष्टयः । यथा द्युलोकात् वर्षधारा निःसंगाः प्रजानामपरिमितमन्नं प्रयच्छंति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your unobstructed (asaścataḥ, unattached) streams go forth towards us, towards a thousandfold, that is, countless, food. The illustration: like the rains from heaven. As the streams of rain from the world of heaven, free of attachment, give the people countless food, so do your streams.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—pouring from the sky
+- वृष्टयः न (*vṛṣṭayaḥ na*)—as streams of rain provide abundant foods
+- ते (*te*)—your
+- असश्चतः (*asaścataḥ*)—separate
+- धाराः (*dhārāḥ*)—flows
+- सहस्रिणं (*sahasriṇaṃ*)—countless (abundant)
+- वाजं (*vājaṃ*)—food
+- अच्छ (*accha*)—towards us
+- प्रयंति (*prayaṃti*)—they provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, as streams of rain pouring from the sky provide abundant foods, so your streams, flowing separately, provide us with exceedingly abundant foods.
+
+##### English translation
+Your unconnected streams advance towards infinite food ( for us ) like the showers from heaven,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि प्रि॒याणि॒ काव्या॒ विश्वा॒ चक्षा॑णो अर्षति ।  
+> हरि॑स्तुंजा॒न आयु॑धा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । प्रियाणि । काव्या । विश्वा । चक्षाणः । अर्षति ।  
+> हरिः । तुंजानः । आयुधा ॥ २ ॥
+
+### Printed p. 163
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिः हरितवर्णः सोमः विश्वा विश्वानि प्रियाणि देवानां प्रीतिकराणि काव्या काव्यानि कर्माणि चक्षाणः पश्यन् आयुधा स्वकीयान्यायुधानि तुंजानः राक्षसान् प्रति प्रेरयंश्च अभि अर्षति यागं प्रति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Hari, the green-coloured Soma, beholding all the pleasing, poetic acts (kāvya) that delight the gods, and hurling his own weapons at the Rākṣasas, goes towards the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिः (*hariḥ*)—Soma, who is of green colour
+- प्रियाणि (*priyāṇi*)—pleasing to the gods
+- विश्वा काव्या (*viśvā kāvyā*)—all the sacrificial acts
+- चक्षाणः (*cakṣāṇaḥ*)—beholding
+- आयुधा (*āyudhā*)—his weapons
+- तुंजानः (*tuṃjānaḥ*)—hurling towards the Rākṣasas
+- अभ्यर्षति (*abhyarṣati*)—he comes towards the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who is of green colour, beholding all the sacrificial acts that please the gods and hurling his weapons towards the Rākṣasas, comes towards the sacrifice.
+
+##### English translation
+The greeu-tinted Soma contemplating all the holy acts that are pleasing to the gods rushes (to the sacrifice) brandishing his weapons (against the Rakshasas).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॑र्मृजा॒न आ॒युभि॒रिभो॒ राजे॑व सुव्र॒तः ।  
+> श्ये॒नो न वंसु॑ षीदति ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मर्मृजानः । आयुऽभिः । इभः । राजाऽइव । सुऽव्रतः ।  
+> श्येनः । न । वंसु । सीदति ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुव्रतः सुकर्मा सः सोमः आयुभिः मनुष्यैर्ऋत्विग्भिः मर्मृजानः शोध्यमानः इभः गतभयः राजेव यथा राजा श्येनो न यथा च श्येनस्तथा वंसु उदकेषु वसतीवरीषु सीदति ॥
+
+##### Gist of the bhāṣya
+
+That Soma, of good works (suvrata), being cleansed by men (āyu), that is, by the priests, fearless (ibha) like a king, and like a hawk, settles in the waters called vasatīvarī.
+
 ---
 
-**Progress note:** Done through printed p. 157. Mandala 9 sukta 54 rks 1-4, sukta 55, start of sukta 56
+**Progress note:** Done through printed p. 163. sukta 56 rks 1-4, sukta 57 rks 1-3
