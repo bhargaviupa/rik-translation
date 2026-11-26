@@ -8,3 +8,4 @@
 | through p. 42 (three windows in one agent: pp. 25-42) | sonnet | 12 | 147407 | 3.4 |
 | through p. 60 (three windows in one agent: pp. 43-60) | sonnet | 12 | 155671 | 4.2 |
 | through p. 78 (three windows in one agent: pp. 61-78) | sonnet | 18 | 152085 | 3.8 |
+| through p. 96 (three windows in one agent: pp. 79-96) | sonnet | 13 | 155162 | 4.5 |
