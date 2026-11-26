@@ -29194,6 +29194,277 @@ Sāyaṇa says: O Soma, all the gods, being of one delight, attain the drinking 
 
 O Soma, having drunk you, all the gods obtain the same kind of delight. To those who praise you, you provide all that is desired.
 
+### Printed p. 726
+
+##### English translation
+All the gods together pleased enjoy your drinking ; you are the giver of all things to those who praise you.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यो विश्वा॑नि॒ वार्या॒ वसू॑नि॒ हस्त॑योर्द॒धे ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । विश्वानि । वार्या । वसूनि । हस्तयोः । दधे ।  
+> मदेषु । सर्वऽधाः । असि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः विश्वानि वार्या वरणीयानि वसूनि धनानि स्तोतुः हस्तयोः आ दधे करोति । प्रयच्छतीत्यर्थः । मदेषु सर्वधा असि इति । अथवा स शुष्मी इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The Soma who places all choice riches in the hands of the worshipper, that is, gives them. "In the exhilarations you are the giver of all things": or else the connection is with स शुष्मी (*sa śuṣmī*) in the following Ṛk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma
+- विश्वानि (*viśvāni*)—all
+- वार्या (*vāryā*)—desired by everyone
+- वसूनि (*vasūni*)—riches
+- (स्तोतुः (*stotuḥ*)—of the man who praises)
+- हस्तयोः (*hastayoḥ*)—in the hands
+- दधे (*dadhe*)—places (such a Soma, O you)
+- मदेषु (*madeṣu*)—to the people who delight you
+- सर्वधा असि (*sarvadhā asi*)—you fill and give everything
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-god who fills the hands of the man who praises with all riches that everyone desires, O Soma-god such as he, you provide all desires to the people who praise you and delight you.
+
+##### English translation
+( You are he ) who places in the hands ( of the worshipper ) all desirable riches ; you are the giver of all things to those who praise you.
+
+### Printed p. 727
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य इ॒मे रोद॑सी म॒ही सं मा॒तरे॑व॒ दोह॑ते ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । इमे इति । रोदसी इति । मही इति । सम् । मातराऽइव । दोहते ।  
+> मदेषु । सर्वऽधाः । असि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः इमे मही महत्यौ रोदसी द्यावापृथिव्यौ सं दोहते। उभयोः सारं परिगृह्णातीत्यर्थः । मातरेव यथा द्वे मातरावेको वत्सो दोहते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The Soma who milks these two great ones, the two worlds, heaven and earth, that is, takes the essence of both. "Like two mothers": as one calf milks two mothers, so he does.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma-god
+- इमे (*ime*)—these
+- मही (*mahī*)—great
+- रोदसी (*rodasī*)—heaven and earth (from them)
+- सं दोहते (*saṃ dohate*)—taking their essence provides it to those who praise (such a Soma, O you)
+- मदेषु (*madeṣu*)—among the people who delight you with praises
+- सर्वधा असि (*sarvadhā asi*)—you fill up all desires
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-god who takes the excellent things that are the essence of these very extensive heaven and earth and provides them to the people who praise, O Soma such as he, you give all desired things to the people who praise you and delight you.
+
+##### English translation
+( You are he ) who milks this great heaven and earth like two mothers; you are the giver of all things to those who praise you.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ यो रोद॑सी उ॒भे स॒द्यो वाजे॑भि॒रर्ष॑ति ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ ६ ॥
+
+### Printed p. 728
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । यः । रोदसी इति । उभे इति । सद्यः । वाजेभिः । अर्षति ।  
+> मदेषु । सर्वऽधाः । असि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः उभे रोदसी द्यावापृथिव्यौ सद्यः तदानीमेव वाजेभिः अन्नैः परि अर्षति परिगच्छति । सोमाहुत्या द्यावापृथिव्यावन्नवत्यौ करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The Soma who at once, immediately, fills both heaven and earth with viands, with food, goes round them. That is, by the Soma oblation he makes heaven and earth rich in food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma-god
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- सद्यः (*sadyaḥ*)—immediately
+- वाजेभिः (*vājebhiḥ*)—filling with food
+- परि अर्षति (*pari arṣati*)—makes prosperous (such a Soma, O you)
+- मदेषु (*madeṣu*)—to the people who praise and delight you
+- सर्वधा असि (*sarvadhā asi*)—you are the giver of all things
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-god who immediately fills heaven and earth both with food and other provisions and brings about prosperity, O Soma such as he, you provide all desires to the people who praise you and delight you.
+
+##### English translation
+(You are he) who at once supplies both heaven and earth with viands ; you are the giver of all things to those who praise you.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स शु॒ष्मी क॒लशे॒ष्वा पु॑ना॒नो अ॑चिक्रदत् ।  
+> मदे॑षु सर्व॒धा अ॑सि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । शुष्मी । कलशेषु । आ । पुनानः । अचिक्रदत् ।  
+> मदेषु । सर्वऽधाः । असि ॥ ७ ॥
+
+### Printed p. 729
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तरीत्या महान् सः सोमः शुष्मी बलवान् पुनानः पूयमानः सन् आ अचिक्रदत् शब्दं करोति । अत्र सर्वत्र यथोचितमुत्तरपादो नेयः ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: As stated, that great Soma, vigorous, strong, being purified, makes a sound in the pitchers. Here, everywhere, the second line is to be supplied as suitable. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—that Soma-god possessing the qualities stated before
+- शुष्मी (*śuṣmī*)—being full of strength
+- पुनानः (*punānaḥ*)—and being purified
+- कलशेषु (*kalaśeṣu*)—while falling into the pitchers
+- आ अचिक्रदत् (*ā acikradat*)—makes a gurgling sound (O Soma-god, you)
+- मदेषु (*madeṣu*)—to the people who praise and delight you
+- सर्वधा असि (*sarvadhā asi*)—you are the giver of everything
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who has all the qualities stated before, being full of strength and purified through the ten-thread filter, makes a gurgling sound when falling into the pitchers. O Soma such as he, you give all desires to the people who praise you and delight you.
+
+##### English translation
+This vigorous Soma, while being purified, murmurs in the pitchers; you are the giver of all things to those who praise you.
+
+**The nineteenth sūkta.**
+
+## Sūkta 19 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ यत् सोम' इति सप्तर्चमेकोनविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् ।' यत् सोम' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यत् सोम (*yat soma*) has seven Ṛks and is the nineteenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as यत् सोम (*yat soma*). The use has been stated.
+
+This sūkta beginning यत्सोम (*yatsoma*) is the nineteenth sūkta in the first anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said यत्सोम (*yatsoma*). The use has been stated before.
+
+### Printed p. 730
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्सो॑म चि॒त्रमु॒क्थ्यं॑ दि॒व्यं पार्थि॑वं॒ वसु॑ ।  
+> तन्नः॑ पुना॒न आ भ॑र ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । सोम । चित्रम् । उक्थ्यम् । दिव्यम् । पार्थिवम् । वसु ।  
+> तत् । नः । पुनानः । आ । भर ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यत् चित्रं चायनीयम् उक्थ्यं स्तुत्यं दिव्यं दिवि भवं पार्थिवं पृथिवीसंबद्धं च वसु धनमस्ति तत् नः अस्मभ्यं पुनानः पूयमानः सन् आ भर आहर ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, whatever wealth there is that is wonderful, to be gathered, praiseworthy, heavenly, and belonging to the earth, that, being purified, bring to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma **NOTE**
+- चित्रं (*citraṃ*)—of many kinds
+- उक्थ्यं (*ukthyaṃ*)—excellent
+- दिव्यं (*divyaṃ*)—existing in the heavenly world
+- पार्थिवं (*pārthivaṃ*)—existing on the earth
+- यत् वसु (*yat vasu*)—whatever wealth there is
+- तत् (*tat*)—that
+- नः (*naḥ*)—to us
+- पुनानः (*punānaḥ*)—when you are purified (when praised
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, whatever wealth there is, of many kinds and excellent, in heaven and on earth, that bring and provide to us as soon as you are purified.
+
+##### English translation
+Whatever wonderful glorious wealth there be in heaven or in earth you, Soma, being purified, bring it to us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं हि स्थः स्व॑र्पती॒ इंद्र॑श्च सोम॒ गोप॑ती ।  
+> ई॒शा॒ना पि॑प्यतं॒ धियः॑ ॥ २ ॥
+
+### Printed p. 731
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवम् । हि । स्थः । स्वःपती इति स्वःऽपती । इंद्रः । च । सोम । गोपती इति गोऽपती ।  
+> ईशाना । पिप्यतम् । धियः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वम् इंद्रश्च युवं हि युवां खलु स्वर्पती सर्वस्य स्वामिनौ स्थः भवथः । तथा गोपती गवां पालकौ ईशाना ईश्वरौ संतौ धियः अस्मदीयानि कर्माणि पिप्यतं प्याययतम् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, you and Indra, you two indeed are the lords of all; so too, being protectors of cows and rulers, you prosper, that is, cause to thrive, our rites.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma-god
+- त्वं (*tvaṃ*)—you
+- इंद्रश्च (*iṃdraśca*)—and Indra
+- युवं हि (*yuvaṃ hi*)—both of you
+- स्वर्पती (*svarpatī*)—being lords of everything
+- स्थः (*sthaḥ*)—you are (likewise both of you)
+- गोपती (*gopatī*)—protectors of cows
+- ईशाना (*īśānā*)—and lords of all you are
+- धियः (*dhiyaḥ*)—our sacrificial rites and the like
+- पिप्यतं (*pipyataṃ*)—make grow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you and Indra, both of you are the lords of everything. Likewise you are protectors of cows and masters of all. Therefore make the sacrificial rites and the like that we perform grow.
+
+##### English translation
+You, Soma and Indra, are the lords of all, the lords of cattle, --for the rulers, prosper our rites.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ पुना॒न आ॒युषु॑ स्त॒नय॒न्नधि॑ ब॒र्हिषि॑ ।  
+> हरिः॒ सन्योनि॒मास॑दत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । पुनानः । आयुषु । स्तनयन् । अधि । बर्हिषि ।  
+> हरिः । सन् । योनिम् । आ । असदत् ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 725. Sūkta 17 Ṛks 5-8, Sūkta 18 Ṛks 1-3 (pp. 720-725)
+**Progress note:** Done through printed p. 731. Ṛk 4-7 of sūkta 18, sūkta 19 Ṛk 1-3 (pp. 726-731)
