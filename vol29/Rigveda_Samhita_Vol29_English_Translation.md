@@ -12909,7 +12909,7 @@ This Vrishakapi whom you, Indra, cherish as your dear (son)—may the dog which 
 
 ##### विशेषविषयगळु (Special Topics)
 
-Indrāṇī, disgusted with regard to Vṛṣākapi, speaks thus: O Indra, I cannot bear to see this Vṛṣākapi whom you protect with so much pride. As a hunting dog chases a wild boar and brings it, holding it by the ear, so may a dog quickly bite this Vṛṣākapi and eat him up.
+Indrāṇī, disgusted with regard to Vṛṣākapi, speaks thus: O Indra, I cannot bear to see this Vṛṣākapi whom you protect with so much pride. As a hunting dog chases a wild boar and brings it, seizing it by the ear with its teeth, so may a dog quickly bite this Vṛṣākapi and eat him up.
 
 #### Ṛk 5
 
@@ -21310,7 +21310,7 @@ Thus Īśvara, who is beyond time, which controls the whole world, and is the co
 
 O Gārgī, by the command of this imperishable Akṣara, the sun and the moon are established in their fixed places. O Gārgī, by the command of this Īśvara, called Akṣara, the earth and the heaven are established apart. O Gārgī, by the ordaining of this Akṣara, moments, hours, days and nights, half-months, months, seasons and years each have their existence in keeping with their own natures. O Gārgī, by the ordaining of this Akṣara, the rivers that flow from the mountains flow each according to its own direction and join the seas. By the ordaining of this Supreme Puruṣa, who is of the form of the Akṣara, human beings praise those who give generously, the gods desire the sacrificer, and the fathers, performing libations and the like, are eager to bring satisfaction to the divine fathers.
 
-तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टश्रुतं श्रोत्रमतं मंत्रविज्ञातं विज्ञातृ नान्यदतोऽस्ति द्रष्टृ नान्यदतोऽस्ति श्रोतृनान्यदतोऽस्ति मंतृ नान्यदतोऽस्ति विज्ञात्रेतस्मिन्नु खल्वक्षरे गार्ग्यकाश ओतश्च प्रोतश्चेति । (*tadvā etadakṣaraṃ gārgyadṛṣṭaṃ draṣṭaśrutaṃ śrotramataṃ maṃtravijñātaṃ vijñātṛ nānyadato 'sti draṣṭṛ nānyadato 'sti śrotṛnānyadato 'sti maṃtṛ nānyadato 'sti vijñātretasminnu khalvakṣare gārgyakāśa otaśca protaśceti |*) (Pa. Brā. 3-8-11)
+तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टश्रुतं श्रोत्रमतं मंत्रविज्ञातं विज्ञातृ नान्यदतोऽस्ति द्रष्टृ नान्यदतोऽस्ति श्रोतृनान्यदतोऽस्ति मंतृ नान्यदतोऽस्ति विज्ञात्रेतस्मिन्नु खल्वक्षरे गार्ग्यकाश ओतश्च प्रोतश्चेति । (*tadvā etadakṣaraṃ gārgyadṛṣṭaṃ draṣṭaśrutaṃ śrotramataṃ maṃtravijñātaṃ vijñātṛ nānyadato 'sti draṣṭṛ nānyadato 'sti śrotṛnānyadato 'sti maṃtṛ nānyadato 'sti vijñātretasminnu khalvakṣare gārgyakāśa otaśca protaśceti |*) (Bṛ. U. 3-8-11)
 
 O Gārgī, this Akṣara cannot be seen by anyone. He is able to see everything. He cannot be heard by anyone with the ear. He is able to hear everything. He is not caught by anyone's thought, but the whole world is the object of his thought. No one can know him. The whole world is the object of his knowledge. Apart from him there is no such hearer. Apart from him there is surely no such hearer, thinker or knower. In this Paramātman, who is of the form of the Akṣara, the ether is woven together like warp and weft: thus the greatness of the Puruṣa, the lord (the master) of immortality, is praised. Moreover:—
 
@@ -21318,7 +21318,7 @@ O Gārgī, this Akṣara cannot be seen by anyone. He is able to see everything.
 
 The qualities of all the senses appear to be in this Supreme Puruṣa. But this Paramātman is beyond the qualities of the senses. He is the lord and controller of all. Apart from him there is no other such excellent protector.
 
-Since Īśvara alone is the cause of creation, preservation and dissolution, all births and deaths are subject to him; the saying जातस्य मरणं ध्रुवं (*jātasya maraṇaṃ dhruvaṃ*) **GLOSS** lies hidden in his very resolve of creation. In the world that has come into being, neither gods nor men and the like can face death. At the end of the kalpa all the gods and all human beings and all things moving and unmoving, having brought to an end their worldly activity, must become one in him
+Since Īśvara alone is the cause of creation, preservation and dissolution, all births and deaths are subject to him; the saying जातस्य मरणं ध्रुवं (*jātasya maraṇaṃ dhruvaṃ*) **GLOSS** lies hidden in his very resolve of creation. In the world that has come into being, neither gods nor men and the like can withstand death. At the end of the kalpa all the gods and all human beings and all things moving and unmoving, having brought to an end their worldly activity, must become one in him
 
 ### Printed p. 746
 
