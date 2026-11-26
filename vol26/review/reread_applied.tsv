@@ -19,3 +19,80 @@ Q0149	1047	8	೧೩[?]	೧೩	confirmed by Tesseract OCR (line match 1.00)
 Q0148	1047	5	೨-೨-೪[?]	೨-೨-೪	confirmed by Tesseract OCR (line match 1.00)
 Q0156	1055	1	೯೭[?]	೯೭	confirmed by Tesseract OCR (line match 0.87)
 Q0173	1067	1	೯೮[?]	೯೮	confirmed by Tesseract OCR (line match 0.87)
+Q0003	1003	12	೧೪–೧೯[?]	೧೪–೧೯	vote rule 1
+Q0002	1003	1	8!2[?]	೮೧೨	vote rule 1
+Q0005	1004	4	೧೪–೧೪[?]	೧೪–೧೪	vote rule 1
+Q0015	1007	12	೭-೮೯[?]-೪[?]	೫–೮೫–೬	vote rule 1
+Q0030	1008	10	೧೨[?]-೩೦[?]	೧೨-೨೦	vote rule 1
+Q0028	1008	10	೧೨[?]-೩೦[?]	೧೨-೩೦	vote rule 1
+Q0022	1008	2	೧೧-೨[?]	೧೧-೨	vote rule 1
+Q0042	1009	6	೧-೧೧೭-೧೯[?]	೧-೧೧೭-೧೯	vote rule 1
+Q0041	1009	6	೧-೧೬೬-೧೨[?]	೧-೧೬೬-೧೨	vote rule 1
+Q0054	1013	19	೬-೧೫[?]	೬-೧೫	vote rule 1
+Q0057	1018	8	೯[?]	೯	vote rule 1
+Q0070	1033	9	೧೦[?]	೧೦	vote rule 1
+Q0066	1033	6	೮-೧೯[?]	೮-೧೯	vote rule 1
+Q0073	1034	4	೧೦–೩೦–೧೩[?]	೧೦–೩೦–೧೩	vote rule 1
+Q0072	1034	2	೧೦–೩೦–೧೦[?]	೧೦–೩೦–೧೦	vote rule 1
+Q0079	1035	7	೧-೯೩[?]	೧-೯೩	vote rule 2
+Q0078	1035	5	೨-೩೫[?]-೩[?]	೨-೩೫-೩	vote rule 1
+Q0076	1035	2	೨-೩೫[?]-೩[?]	೨-೩೫-೩	vote rule 1
+Q0113	1045	9	೯-೬೫[?]	೯-೬೫	vote rule 1
+Q0112	1045	9	೩೪[?]	೩೪	vote rule 1
+Q0111	1045	9	೯-೬೨[?]	೯-೬೨	vote rule 1
+Q0107	1045	9	೧೦-೧೧೦[?]	೧೦-೧೧೦	vote rule 1
+Q0103	1045	9	೯-೬೨[?]	೯-೬೨	vote rule 2
+Q0101	1045	9	೩-೬೨-೧೭[?]	೩-೬೨-೧೭	vote rule 1
+Q0124	1046	8	೧೦೪[?]	೧೧೪	vote rule 1
+Q0123	1046	8	೪-೧೦೩[?]	೪-೧೧೩	vote rule 1
+Q0122	1046	2	೧೦-೧೨೮[?]	೧೦-೧೨೮	vote rule 1
+Q0144	1062	1	೩೪[?]	೩೪	vote rule 1
+Q0148	1064	1	೩೪[?]	೩೪	vote rule 1
+Q0150	1066	1	೩೪[?]	೩೪	vote rule 1
+Q0179	1077	4	೩೮[?]	೩೮	vote rule 1
+Q0178	1077	4	೩೭[?]	೩೭	vote rule 1
+Q0177	1077	4	೭[?]	೭	vote rule 1
+Q0021	1007	7	ಉಶತೋ[?]	ಉಶತೋ	word pass A agrees with the first reader (certain)
+Q0019	1007	6	ಸಧಸ್ತಂ[?]	ಸಧಸ್ತಂ	word pass A agrees with the first reader (certain)
+Q0044	1009	2	ಅದ[?]	ಅದ	word pass A agrees with the first reader (certain)
+Q0083	1037	7	ಯೋಽಮಧವ್ಯೋ[?]	ಯೋಽಮಧವ್ಯೋ	word pass A agrees with the first reader (certain)
+Q0081	1037	4	ಯಶೋಽತೋಽಸ್ತಸ್ಮಾದನುಬ್ರುವತ್ಯೈ[?]	ಯಶೋಽತೋಽಸ್ತಸ್ಮಾದನುಬ್ರುವತ್ಯೈ	word pass A agrees with the first reader (certain)
+Q0084	1038	2	ಯೋಭಿರ್ವಾ[?]	ಯೋಭಿರ್ವಾ	word pass A agrees with the first reader (certain)
+Q0091	1039	7	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0090	1039	5	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0096	1040	9	ಹೊದ್ದಿಸುವವನೂ[?]	ಹೊದ್ದಿಸುವವನೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0094	1040	7	ಹೊದ್ದಿಸುವವನೂ[?]	ಹೊದ್ದಿಸುವವನೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0093	1040	7	ಶೀತ[?]	ಶೀತ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0098	1041	11	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0097	1041	9	ದೇವತಾತ್ಮನಾದ[?]	ದೇವತಾತ್ಮನಾದ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0100	1042	11	ಕುಳಿತಿರುವವರೂ[?]	ಕುಳಿತಿರುವವರೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0099	1042	11	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0132	1046	17	ಅದರೆ[?]	ಅದರೆ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0129	1046	6	ದದುಸ್ತೇ[?]	ದದುಸ್ತೇ	word pass A agrees with the first reader (certain)
+Q0138	1057	9	ಅನೇಕರನ್ನು[?]	ಅನೇಕರನ್ನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0143	1060	9	ಸೀನು[?]	ಸೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0142	1060	9	ಪ್ರಕಾಶಮಾನನಾದ[?]	ಪ್ರಕಾಶಮಾನನಾದ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0141	1060	7	ರೂಪದಲ್ಲಿಯೂ[?]	ರೂಪದಲ್ಲಿಯೂ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0140	1060	7	ಸೀನು[?]	ಸೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0139	1060	7	ಪ್ರಕಾಶಮಾನನಾದ[?]	ಪ್ರಕಾಶಮಾನನಾದ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0146	1062	7	ಇಂದ್ರಸಿಗೆ[?]	ಇಂದ್ರಸಿಗೆ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0145	1062	5	ಇಂದ್ರಸಿಗೆ[?]	ಇಂದ್ರಸಿಗೆ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0147	1063	7	ಮಧುಕರವಾದ[?]	ಮಧುಕರವಾದ	word pass A agrees with the first reader (certain)
+Q0149	1065	3	ಜನಿಷ್ವ[?]	ಜನಿಷ್ವ	word pass A agrees with the first reader (certain)
+Q0152	1066	3	ಕೊಡವವನೂ[?]	ಕೊಡವವನೂ	word pass A agrees with the first reader (certain)
+Q0154	1067	29	ಸೀವೂ[?]	ಸೀವೂ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0157	1069	17	ಸೋಮುಸಿಗಾಗಿ[?]	ಸೋಮುಸಿಗಾಗಿ	word pass A agrees with the first reader (certain)
+Q0162	1073	11	Translation[?]	Translation	word pass A agrees with the first reader (certain)
+Q0161	1073	11	English[?]	English	word pass A agrees with the first reader (certain)
+Q0166	1075	9	ದಾಸಿಯೆಂದು[?]	ದಾಸಿಯೆಂದು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0165	1075	7	ವಸತೀವರಿಉದಕಗಳನ್ನು[?]	ವಸತೀವರಿಉದಕಗಳನ್ನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0176	1076	15	ಛಂದಸ್ಕವು[?]	ಛಂದಸ್ಕವು	word pass A agrees with the first reader (certain)
+Q0174	1076	9	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ[?]	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0172	1076	9	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0171	1076	7	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ[?]	ಚಮುಸಪಾತ್ರೆಗಳಲ್ಲಿ	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0170	1076	7	ನೀನು[?]	ನೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0169	1076	7	ಎಲ್ಲೈ[?]	ಎಲ್ಲೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0184	1078	13	ನೀನು[?]	ನೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0183	1078	13	ಎಲ್ಬೈ[?]	ಎಲ್ಬೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
+Q0182	1078	11	ನೀನು[?]	ನೀನು	word pass A agrees with the first reader (certain, word seen elsewhere)
+Q0181	1078	11	ಎಲ್ಬೈ[?]	ಎಲ್ಬೈ	word pass A agrees with the first reader (likely, word seen elsewhere)
