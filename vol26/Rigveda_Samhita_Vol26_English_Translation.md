@@ -14307,6 +14307,233 @@ Sāyaṇa says that, by the way, he now describes the manifestation of Soma and 
 
 The Soma of far-reaching wisdom is born together with a developed mind. As the embryo of water he is placed regularly in the excellent atmosphere by the gods (or as one of the nature of the sun), established
 
+### Printed p. 382
+
+he is. The ever-young Sūrya and the Moon have been known as distinct at the time of their origin. Half of the course of their birth is placed in secret. The remaining half is manifest.
+
+##### English translation
+The sage (Soma) is born with developed mind ; having his place in the womb of the water, he is deposited (by the gods) by rule from far off ; even when young these two were distinct ; the birth (of one half) was placed in secret, the (other) half was visible.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मं॒द्रस्य॑ रू॒पं वि॑विदुर्मनी॒षिणः॑ श्ये॒नो यदंधो॒ अभ॑रत्परा॒वतः॑ ।  
+> तं म॑र्जयंत सु॒वृधं॑ न॒दीष्वाँ उ॒शंत॑मं॒शुं प॑रि॒यंत॑मृ॒ग्मिय॑म् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मंद्रस्य । रूपम् । विविदुः । मनीषिणः । श्येनः । यत् । अंधः । अभरत् । पराऽवतः ।  
+> तम् । मर्जयंत । सुऽवृधम् । नदीषु । आ । उशंतम् । अंशुम् । परिऽयंतम् । ऋग्मियम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनीषिणः प्राज्ञा यष्टारः मंद्रस्य मदकरस्य तस्य सोमस्य रूपं विविदुः जानंति । यत् अंधः यत् सोमलक्षणमन्नं श्येनः गायत्रीरूपः पक्षी परावतः दूरात् द्युलोकात् आभरत् आजहार। 'हृग्रहोर्भश्छंदसि ' इति भकारः। तं तादृशं  सुवृधं सुष्ठु वर्धमानं सुवर्धयितारं वा अंशुं सोमं नदीषु नदमानासु वसतीवर्याख्यास्वप्सु आ मर्जयंत ऋत्विज आशोधयंति । अलंकुर्वंति वा । कीदृशम् । उशंतं देवान् कामयमानं परियंतं परितो गच्छंतम् ऋग्मियम् ऋगर्हं स्तुत्यं सोममामर्जयंतीति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the wise sacrificers know the form (रूपं (*rūpaṃ*)) of that exhilarating Soma: the food in the form of Soma (अंधः (*aṃdhaḥ*)) that the falcon (श्येनः (*śyenaḥ*)), a bird of the Gāyatrī form, brought from afar, from the heavenly world. The priests purify, or adorn, that Soma, who grows well or makes others grow well, in the rivers, that is, in the sounding waters called Vasatīvarī. What kind of Soma? One that desires the gods, goes around on all sides, and is worthy of praise (ऋग्मियम् (*ṛgmiyam*) means deserving of ṛk, to be praised).
+
+### Printed p. 383
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनीषिणि (*manīṣiṇi*)—the wise sacrificers **NOTE**
+- मंद्रस्य (*maṃdrasya*)—of the exhilarating Soma
+- रूपं (*rūpaṃ*)—the form
+- विविदुः (*vividuḥ*)—have known fully
+- यत् अंधः (*yat aṃdhaḥ*)—which food in the form of Soma
+- श्येनः (*śyenaḥ*)—the bird in the form of a falcon
+- परावतः (*parāvataḥ*)—from a very distant region
+- अभरत् (*abharat*)—brought
+- तं (*taṃ*)—such
+- उशंतं (*uśaṃtaṃ*)—that desires the satisfaction of the gods
+- परियंतं (*pariyaṃtaṃ*)—that flows all around
+- ऋग्मियं (*ṛgmiyaṃ*)—that is worthy of worship
+- सुवृधं (*suvṛdhaṃ*)—that causes growth
+- अंशुं (*aṃśuṃ*)—the Soma
+- नदीषु (*nadīṣu*)—in the sounding waters such as Vasatīvarī
+- आ मर्जयंत (*ā marjayaṃta*)—they purify
+
+##### भावार्थ (Bhāvārtha)
+
+The wise sacrificers have fully known the nature of the intoxicating Soma. The food in the form of Soma, which the bird in the form of a falcon brought from a very distant region: such a Soma, which desires the satisfaction of the gods, is worthy of worship and causes growth, they purify in the sounding waters such as Vasatīvarī.
+
+##### English translation
+The wise (worshippers) know the form of the exhilarating Soma-juice, the food that the falcon brought from far ; they cleanse in the waters the fostering (Soma) delighting (the gods , flowing around, and deserving laudation.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां मृ॑जंति॒ दश॒ योष॑णः सु॒तं सोम॒ ऋषि॑भिर्म॒तिभि॑र्धी॒तिभि॑र्हि॒तम् ।  
+> अव्यो॒ वारे॑भिरु॒त दे॒वहू॑तिभि॒र्नृभि॑र्य॒तो वाज॒मा द॑र्षि सा॒तये॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । मृजंति । दश । योषणः । सुतम् । सोम । ऋषिऽभिः । मतिऽभिः । धीतिऽभिः । हितम् ।  
+> अव्यः । वारेभिः । उत । देवहूतिऽभिः । नृऽभिः । यतः । वाजम् । आ । दर्षि । सातये ॥ ७ ॥
+
+### Printed p. 384
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम योषणः द्वाभ्यां पाणिभ्यां विभज्योत्पन्नाः दश दशसंख्याका अंगुलयः ऋषिभिः मधुच्छंदःप्रभृतिभिः सुतम् अभिषुतं हितं पात्रेषु निहितं                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              त्वां मतिभिः स्तुतिभिः धीतिभिः कर्मभिश्च अव्यः वारेभिः अविवालैः पवित्रैः मृजंति शोधयंति । उत अपि च देवहूतिभिः देवाह्वानयुक्तैः नृभिः कर्मनेतृभिर्ऋत्विग्भिः यतः ग्रहेषु संयमितः संगृहीतस्त्वं सातये दानाय वाजम् अन्नम् आ दर्षि आविदारयसि । विवृतं करोषि । स्तोतृभ्योऽन्नादिकं प्रयच्छसीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma: the ten fingers, produced by the division of the two hands, purify and cleanse you, who have been pressed by seers such as Madhucchandas and placed in the vessels, with praises, hymns and rites, and with filters of sheep's hair (अविवालैः पवित्रैः (*avivālaiḥ pavitraiḥ*)). And likewise, held back in the cups (grahas) by the priests, the leaders of the rite, who call the gods, you open up food for the sake of giving (सातये (*sātaye*)): that is, you give food and the like to the singers.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- ऋषिभिः (*ṛṣibhiḥ*)—by the seers
+- सुतं (*sutaṃ*)—pressed
+- हितं (*hitaṃ*)—and placed in the vessels
+- त्वां (*tvāṃ*)—you (the juice)
+- योषणः (*yoṣaṇaḥ*)—those born in the hands
+- दश (*daśa*)—the ten fingers
+- मतिभिः (*matibhiḥ*)—with praises
+- धीतिभिः (*dhītibhiḥ*)—with rites
+- अव्यः (*avyaḥ*)—of wool
+- वारेभिः (*vārebhiḥ*)—with the filters having fibres
+- मृजंति (*mṛjaṃti*)—purify
+- उत (*uta*)—and
+- देवहूतिभिः (*devahūtibhiḥ*)—who call the gods
+- नृभिः (*nṛbhiḥ*)—by the priests
+- यतः (*yataḥ*)—you, collected
+- सातये (*sātaye*)—for the sake of giving
+- वाजं (*vājaṃ*)—food
+- आ दर्षि (*ā darṣi*)—you supply
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, your juice, pressed by the seers and placed in the vessels, the ten fingers born in the hands purify with praises and with rites and with the ten-fold filters that have fibres of wool. And you, collected by the priests who call the gods, supply food for the sake of giving.
+
+##### English translation
+The ten fingers cleanse you, Soma, when effused and placed in the vessels by the Rishis, with praises, religious rites, and woollen filters; and collected by the priests with oblations to the gods you bestow food (upon the worshippers) for a gift.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रि॒प्र॒यंतं॑ व॒य्यं॑ सुषं॒सदं॒ सोमं॑ मनी॒षा अ॒भ्य॑नूषत॒ स्तुभः॑ ।  
+> यो धार॑या॒ मधु॑माँ ऊ॒र्मिणा॑ दि॒व इय॑र्ति॒ वाचं॑ रयि॒षाळम॑र्त्यः ॥ ८ ॥
+
+### Printed p. 385
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिऽप्रयंतम् । वय्यम् । सुऽसंसदम् । सोमम् । मनीषाः । अभि । अनूषत । स्तुभः ।  
+> यः । धारया । मधुऽमान् । ऊर्मिणा । दिवः । इयर्ति । वाचम् । रयिषाट् । अमर्त्यः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परिप्रयंतं पात्राणि परितः प्रगच्छंतं वयं देवैः काम्यमानं सुसंसदं शोभनसंसदनं सोमं मनीषाः मनस ईशित्र्यः     स्तुभः स्तुतयः अभ्यनूषत अभिष्टुवंति । वय्यम् । ‘ वी गत्यादिषु' इत्यस्माद्यति 'भय्यप्रवय्ये च छंदसि' ( पा. सू. ६. १. ८३ ) इति निपातितः । अत्रानुपसर्गस्यापि निपातनं भवति । मधुमान् मदकररसवान् यः सोमः धारया स्वीयया ऊर्मिणा वसतीवर्याख्येनोदकेन सह दिवः आकाशात् द्रोणकलश आपतति: रयिषाट् शत्रुधनानामभिभविता अमर्त्यः मनुष्यधर्मरहितः स सोमः वाचम् इयर्ति प्रेरयति । तदा हि स्तोतारः स्तुवंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that the praises (स्तुभः (*stubhaḥ*)), the मनीषाः (*manīṣāḥ*) (those that govern the mind), praise Soma, who goes all around the vessels, is desired by the gods (वय्यम् (*vayyam*)), and has a fine seat. The Soma who, endowed with intoxicating juice (मधुमान् (*madhumān*)), falls from the sky into the Droṇa vessel with his own stream, together with the water called Vasatīvarī, who overcomes the wealth of enemies (रयिषाट् (*rayiṣāṭ*)) and is free from the nature of mortals (अमर्त्यः (*amartyaḥ*)), that Soma impels speech; for then the singers praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुमान् (*madhumān*)—endowed with sweet juice
+- यः (*yaḥ*)—which god Soma
+- धारया (*dhārayā*)—together with his stream
+- उर्मिहा (*urmihā*)—with waters such as Vasatīvarī **NOTE**
+- दिवः (*divaḥ*)—having descended from the atmosphere
+- रयिषाट् (*rayiṣāṭ*)—and seizing the wealth of enemies
+- अमर्त्यः (*amartyaḥ*)—and free from the nature of mortals
+- वा चं (*vā caṃ*)—speech
+- इयर्ति (*iyarti*)—impels: such
+- परिप्रयंतं (*pariprayaṃtaṃ*)—flowing all around
+- वय्यं (*vayyaṃ*)—desired by the gods
+- सुसंसदं (*susaṃsadaṃ*)—having an excellent seat
+- सोमं (*somaṃ*)—god Soma
+- मनीषाः (*manīṣāḥ*)—meditative
+- स्तुभः (*stubhaḥ*)—praises
+- अभ्यनूषत (*abhyanūṣata*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, endowed with sweet juice, who descends from the atmosphere together with his stream and the waters such as Vasatīvarī, seizes the wealth of enemies, and, free from the nature of mortals, impels speech: such a god Soma, who flows all around, is desired by the gods and has an excellent seat, meditative praises extol.
+
+### Printed p. 386
+
+##### English translation
+Intelligent praises celebrate the wide-flowing (god) delighting Soma who sits in company, who sits in good company, who exhilarating (falls) in a stream with his water from the sky (and) wealth-conquering, immortal, sends out his voice.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं दि॒व इ॑यर्ति॒ विश्व॒मा रजः॒ सोमः॑ पुना॒नः क॒लशे॑षु सीदति ।  
+> अ॒द्भिर्गोभि॑र्मृज्यते॒ अद्रि॑भिः सु॒तः पु॑ना॒न इंदु॒र्वरि॑वो विदत्प्रि॒यम् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । दिवः । इयर्ति । विश्वम् । आ । रजः । सोमः । पुनानः । कलशेषु । सीदति ।  
+> अत्ऽभिः । गोभिः । मृज्यते । अद्रिऽभिः । सुतः । पुनानः । इंदुः । वरिवः । विदत् । प्रियम् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः दिवः द्युलोकात् विश्वं रजः । उदकनामैतत् । सर्वमुदकम् इयर्ति अभिप्रापयति । किंच पुनानः दशापवित्रेण पूयमानः सोमः कलशेषु द्रोणनामसु सीदति । तथा अद्रिभिः ग्रावभिः अद्भिः वसतीवर्याख्याभिः गोभिः गोविकारैः क्षीरदध्यादिभिश्च मृज्यते शोध्यते अलंक्रियते । ततः पुनानः पूतः इंदुः सोमः प्रियं प्रियतरं प्रीणनकारि वा वरिवः वरणीयं धनं विदत् स्तोतृभ्यो लंभयति । प्रयच्छतीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains that this Soma brings from the heavenly world all the water (रजः (*rajaḥ*) is a name for water). Further, Soma, being purified (पुनानः (*punānaḥ*)) with the ten-fold filter, sits in the vessels called Droṇa. Likewise he is cleansed and adorned with the pressing stones, with the waters called Vasatīvarī, and with the products of cows, such as milk and curds. Then the purified Indu, Soma, obtains dear and delightful, or gladdening, desirable wealth (वरिवः (*varivaḥ*)) and has it reach the singers; that is, he gives it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this god Soma
+- दिवः (*divaḥ*)—from the heavenly world
+- विश्वं रजः (*viśvaṃ rajaḥ*)—all the waters
+- इयर्ति (*iyarti*)—impels
+- पुनानः (*punānaḥ*)—having attained purity
+- सोमः (*somaḥ*)—Soma
+- कलशेषु (*kalaśeṣu*)—in the Droṇa vessels
+- सीदति (*sīdati*)—is established
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- सुतः (*sutaḥ*)—pressed
+- अद्भिः (*adbhiḥ*)—with the waters
+- गोभिः (*gobhiḥ*)—with milk and the like
+
+### Printed p. 387
+
+- मृज्यते (*mṛjyate*)—becomes pure
+- पुनानः (*punānaḥ*)—wholly purified
+- इंदुः (*iṃduḥ*)—Soma
+- प्रियं (*priyaṃ*)—beneficial
+- वरिवः (*varivaḥ*)—wealth
+- विदत् (*vidat*)—provides to the singers
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma impels all the waters from the heavenly world. Having attained purity, Soma is established in the Droṇa vessels. Pressed by the pressing stones, mixed with the waters and with milk and the like, he becomes wholly pure. The purified Soma provides beneficial wealth to the singers.
+
+##### English translation
+This Soma sends from heaven all water ; being filtered he settles in the vessels ; effused with the stones he is cleansed with water and milk ; the filtered Indu bestows delightful wealth.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा नः॑ सोम परिषि॒च्यमा॑नो॒ वयो॒ दध॑च्चि॒त्रत॑मं पवस्व ।  
+> अ॒द्वे॒षे द्यावा॑पृथि॒वी हु॑वेम॒ देवा॑ ध॒त्त र॒यिम॒स्मे सु॒वीर॑म् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । सोम । परिऽसिच्यमानः । वयः । दधत् । चित्रऽतमम् । पवस्व ।  
+> अद्वेषे इति । द्यावापृथिवी इति । हुवेम । देवाः । धत्त । रयिम् । अस्मे इति । सुऽवीरम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं प्रत्यक्षकृतः । हे सोम दधत् प्रयच्छंस्त्वं परिषिच्यमानः परितोऽद्भिर्गोभिर्वा सिच्यमानः एव चित्रतमं चित्रं नानाविधं चायनीयतमं वा वयः अन्नं नः अस्मभ्यं पवस्व प्रापय । प्रयच्छेति यावत् । किंच अद्वेषे द्वेषरहिते द्यावापृथिवी द्यावापृथिव्यौ हुवेम हविष्प्रदानार्थं वयमाह्वयेम । हे देवाः यूयं च सुवीरम् । वीरः कर्मणि समर्थः पुत्रः । तादृशपुत्रोपेतं रयिं धनम् अस्मे अस्मासु धत्त निधत्त ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that this ṛk is addressed directly to Soma. O Soma, giving as you are sprinkled all around (परिषिच्यमानः (*pariṣicyamānaḥ*)), that is, sprinkled with water or with milk, bestow on us the most wonderful, manifold, or most desirable food (वयः (*vayaḥ*)). Further, we invoke Heaven and Earth, free from hatred, for the offering of oblation. And you, O gods, place in us wealth together with a good son (सुवीरम् (*suvīram*): a hero, वीरः (*vīraḥ*), is a son who is capable in rites).
+
 ---
 
-**Progress note:** Done through printed p. 381. Vol 26 pp. 376-381: Sukta 68 Rks 1-5
+**Progress note:** Done through printed p. 387. Vol 26 pp. 382-387: Sukta 68 Rks 5-10
