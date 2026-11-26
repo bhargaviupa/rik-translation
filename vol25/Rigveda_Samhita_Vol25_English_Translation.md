@@ -28126,6 +28126,265 @@ This Soma engages in many holy rites for the great sacrifice where the immortals
 > ए॒ष हि॒तो वि नी॑यते॒ऽंतः शु॒भ्राव॑ता प॒था ।  
 > यदी॑ तुं॒जंति॒ भूर्ण॑यः ॥ ३ ॥
 
+### Printed p. 702
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । हितः । वि । नीयते । अंतरिति । शुभ्रऽवता । पथा ।  
+> यदि । तुंजंति । भूर्णयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः हितः निहितः हविर्धाने वि नीयते तस्मात् स्थानादाहवनीयं प्रति । अंतः तयोर्मध्यदेशे शुभ्रावता शोभावता पथा मार्गेण यदि यदा तुंजंति प्रयच्छंति देवेभ्यः भूर्णयः भरणशीला अध्वर्वाप दयः। तदा वि नीयत इति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, placed (हितः (*hitaḥ*), निहितः (*nihitaḥ*)) in the Havirdhāna, is led forth (वि नीयते (*vi nīyate*)) from that place towards the Āhavanīya. In the middle region between the two, along a beautiful (शुभ्रावता (*śubhrāvatā*), शोभावता (*śobhāvatā*)) path, when (यदि (*yadi*), यदा (*yadā*)) the bearers (भूर्णयः (*bhūrṇayaḥ*), भरणशीला (*bharaṇaśīlā*)), the Adhvaryu and the other priests **NOTE**, offer (तुंजंति (*tuṃjaṃti*), प्रयच्छंति (*prayacchaṃti*)) him to the gods, then he is led forth. This is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हितः (*hitaḥ*)—placed in the region of the Havirdhāna
+- एषः (*eṣaḥ*)—this Soma
+- अंतः (*aṃtaḥ*)—between the regions of the Havirdhāna and the Āhavanīya
+- शुभ्रावता (*śubhrāvatā*)—clean
+- पथा (*pathā*)—brought along a path
+- यदि (*yadi*)—when
+- भूर्णयः (*bhūrṇayaḥ*)—the bearing priests, the Adhvaryu and others
+- तुंजंति (*tuṃjaṃti*)—they offer to the gods, then
+- वि नीयते (*vi nīyate*)—he is brought from the region of the Havirdhāna to the Āhavanīya
+
+##### भावार्थ (Bhāvārtha)
+
+When the priests, the Adhvaryu and others, have to offer the Soma to the gods, they carry that Soma, placed in the Havirdhāna, along an excellent path to the region of the northern altar.
+
+##### English translation
+Placed (in the cart) he is brought by a brilliant path, when the offerers of the libation present him.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the account of the sacrificial auxiliary rite called सोमुप्रणयन (*somupraṇayana*) is indicated. The rite of bringing, with mantras and according to rule, the Soma creepers that were in the region of the Havirdhāna (or in the cart that brings the Soma creepers) to the northern altar where the Āhavanīya fire is, is called सोमुप्रणयन (*somupraṇayana*). The account of this rite, as stated in the Aitareya Brāhmaṇa, we have explained in detail, with its preceding and following introductions, in Ṛ. Saṃ. Part 15, pp. 457-473.
+
+### Printed p. 703
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष शृंगा॑णि॒ दोधु॑व॒च्छिशी॑ते यू॒थ्यो॒३॒॑ वृषा॑ ।  
+> नृ॒म्णा दधा॑न॒ ओज॑सा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । शृंगाणि । दोधुवत् । शिशीते । यूथ्यः । वृषा ।  
+> नृम्णा । दधानः । ओजसा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः शृंगाणि शृंगवदुन्नतानंशूनभिषवकाले दोधुवत् धूनोति। यूथ्यः यूथार्हो यूथपतिः वृषा वृषभो यथा शिशीते तीक्ष्णे शृंगे धूनोति तद्वत् । कीदृश एषः। ओजसा बलेन नृम्णा नृम्णानि धनानि दधानः अस्मदर्थं धारयन् ॥
+
+##### Gist of the bhāṣya
+
+This Soma shakes (दोधुवत् (*dodhuvat*), धूनोति (*dhūnoti*)) the horns (शृंगाणि (*śṛṃgāṇi*)), that is, the lofty horn-like Aṃśus, at the time of pressing, just as a bull (वृषा (*vṛṣā*)), fit to lead the herd (यूथ्यः (*yūthyaḥ*)), the lord of the herd, shakes his sharp horns (शिशीते (*śiśīte*)). Of what kind is he? Bearing (दधानः (*dadhānaḥ*)) treasures (नृम्णा (*nṛmṇā*)), wealth, for us, by his strength (ओजसा (*ojasā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यूथ्यः (*yūthyaḥ*)—the lord of the herd
+- वृषा (*vṛṣā*)—a bull
+- शृंगाणि शिशीते (*śṛṃgāṇi śiśīte*)—as he rubs and sharpens his horns
+- ओजसा (*ojasā*)—by his own strength
+- नृम्णा (*nṛmṇā*)—riches
+- दधानः (*dadhānaḥ*)—supplying to our people
+- एषः (*eṣaḥ*)—this Soma
+- शृंगाणि (*śṛṃgāṇi*)—to the lofty place that is like a horn
+- दोधुवत् (*dodhuvat*)—sprinkles drops of juice upward
+
+##### भावार्थ (Bhāvārtha)
+
+As a bull, the lord of the herd, rubs and sharpens his horns, so the drops **NOTE** of this Soma juice sprinkle upward at the time of pressing, and by their own strength supply wealth and the like to our people.
+
+##### English translation
+He tosses his horns as a bull, the lord of the herd, sharpens his,— bearing treasures (for us) by his might.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष रु॒क्मिभि॑रीयते वा॒जी शु॒भ्रेभि॑रं॒शुभिः॑ ।  
+> पतिः॒ सिंधू॑नां॒ भव॑न् ॥ ५ ॥
+
+### Printed p. 704
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । रुक्मिऽभिः । ईयते । वाजी । शुभ्रेभिः । अंशुऽभिः ।  
+> पतिः । सिंधूनाम् । भवन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः रुक्मिभिः अध्वर्वाम्दिभिः सह ईयते गच्छति। कीदृश एषः । वाजी वेजनवान् शुभ्रेभिः शुभ्रैर्दीप्तैः  अंशुभिः विशिष्टः । अथवा रुक्मिभिरित्येतदप्यंशुविशेषणम् । सिंधूनां स्यंदमानानां रसानां पतिः भवन् य ईयत इति ॥
+
+##### Gist of the bhāṣya
+
+This Soma goes (ईयते (*īyate*), गच्छति (*gacchati*)) together with the golden ones (रुक्मिभिः (*rukmibhiḥ*)), the Adhvaryu and the others **NOTE**. Of what kind? Speedy (वाजी (*vājī*)), possessed of speed, and distinguished by bright (शुभ्रेभिः (*śubhrebhiḥ*)), shining Aṃśus (अंशुभिः (*aṃśubhiḥ*)). Or else, the word रुक्मिभिः (*rukmibhiḥ*) is also an epithet of the Aṃśus. Becoming (भवन् (*bhavan*)) the lord (पतिः (*patiḥ*)) of the flowing (स्यंदमानानां (*syaṃdamānānāṃ*)) juices, the streams (सिंधूनां (*siṃdhūnāṃ*)), he goes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजी (*vājī*)—flowing swiftly
+- शुभ्रेभिः (*śubhrebhiḥ*)—shining or clean
+- अंशुभिः (*aṃśubhiḥ*)—and joined with drops
+- एषः (*eṣaḥ*)—this Soma
+- रुक्मिभिः (*rukmibhiḥ*)—accompanied by the Adhvaryu and other priests, or by the shining **NOTE** drops
+- सिंधूनां (*siṃdhūnāṃ*)—of all the flowing juices
+- पतिः (*patiḥ*)—as lord
+- भवन् (*bhavan*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which at the time of pressing flows swiftly, issuing from the crushed creepers, and is accompanied by clean drops, goes together with the priests, the Adhvaryu and others, and is the lord of all juices of flowing nature; that is, it is the best of all drinks that are in liquid form.
+
+##### English translation
+He proceeds along impetous with golden brilliant rays, the lord of streams.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वसू॑नि पिब्द॒ना परु॑षा ययि॒वाँ अति॑ ।  
+> अव॒ शादे॑षु गच्छति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वसूनि । पिब्दना । परुषा । ययिऽवान् । अति ।  
+> अव । शादेषु । गच्छति ॥ ६ ॥
+
+### Printed p. 705
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः वसूनि आच्छादकानि पिब्दना पिब्दनानि पीडितानि रक्षांसि परुषा पर्वणा अति अतिक्रम्य ययिवान् गच्छन् शादेषु शातनीयेषु रक्षःसु अव गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma, having passed beyond (अति (*ati*), अतिक्रम्य (*atikramya*)), with the joint (परुषा (*paruṣā*), पर्वणा (*parvaṇā*)), the concealing (वसूनि (*vasūni*), आच्छादकानि (*ācchādakāni*)) demons (रक्षांसि (*rakṣāṃsi*)) who are crushed (पिब्दना (*pibdanā*), पीडितानि (*pīḍitāni*)), goes (ययिवान् (*yayivān*), गच्छन् (*gacchan*)) down (अव गच्छति (*ava gacchati*)) among the demons (शादेषु (*śādeṣu*)) that are to be destroyed (शातनीयेषु (*śātanīyeṣu*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः (*eṣaḥ*)—this Soma
+- वसूनि (*vasūni*)—who are hiding
+- पिब्दना (*pibdanā*)—the demons whose nature is to injure
+- परुषा (*paruṣā*)—with its joints
+- अति (*ati*)—having overpowered
+- ययिवान् (*yayivān*)—gushing out
+- शादेषु (*śādeṣu*)—among the demons that are to be destroyed (towards the demons)
+- अव गच्छति (*ava gacchati*)—rushes forward
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, gushing out of its joints, overpowers the hiding demons and, gushing out, rushes forward to kill them.
+
+##### English translation
+Overpowering at the juncture of time the discomfited concealers (the Rakshasas), he descends upon those doomed to destruction.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तं मृ॑जंति॒ मर्ज्य॒मुप॒ द्रोणे॑ष्वा॒यवः॑ ।  
+> प्र॒च॒क्रा॒णं म॒हीरिषः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतम् । मृजंति । मर्ज्यम् । उप । द्रोणेषु । आयवः ।  
+> प्रऽचक्राणम् । महीः । इषः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयवः मनुष्या ऋत्विजः एतं सोमं मर्ज्यं मार्जनीयम् उप मृजंति । निष्पीडयंतीत्यर्थः । कुत्र । द्रोणेषु द्रोणकलशेषु । कीदृशम् । महीरिषः महांत्यन्नानि प्रचक्राणं कुर्वाणम् । प्रभूतरसस्राविणमित्यर्थः ॥
+> ग्रावस्तोत्रे गाणगारिमतेनाभिरूपकरणे सृज्यमाने सोमे ' एतमु त्यम्' इत्येषा । सूत्रितं च-- ’ एतमु त्यं दश क्षिपो मृज्यमानः सुहस्त्या' (आश्व. श्रौ. ५. १२) इति ॥
+
+##### Gist of the bhāṣya
+
+The Āyus, men, the priests, rub (मृजंति (*mṛjaṃti*)) this Soma, which is to be rubbed (मर्ज्यं (*marjyaṃ*), मार्जनीयम् (*mārjanīyam*)); that is, they press it out. Where? In the Droṇa vessels (द्रोणेषु (*droṇeṣu*), द्रोणकलशेषु (*droṇakalaśeṣu*)). Of what kind? Producing (प्रचक्राणं (*pracakrāṇaṃ*)) great foods (महीरिषः (*mahīriṣaḥ*)); that is, flowing with abundant juice.
+
+Further: in the Grāvastotra, according to the view of Gāṇagāri, when the Soma is being rubbed in the ritual preparation, the verse is एतमु त्यम् (*etamu tyam*). And it is put into sūtra form: एतमु त्यं दश क्षिपो मृज्यमानः सुहस्त्या (*etamu tyaṃ daśa kṣipo mṛjyamānaḥ suhastyā*) (Āśva. Śrau. 5. 12) **NOTE**.
+
+### Printed p. 706
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयुवः (*āyuvaḥ*)—the human priests
+- महीः इषः (*mahīḥ iṣaḥ*)—abundant food
+- प्रचक्राणं (*pracakrāṇaṃ*)—supplying
+- मर्ज्यं (*marjyaṃ*)—of liquid nature **NOTE**
+- एतं (*etaṃ*)—this Soma juice
+- द्रोणेषु (*droṇeṣu*)—in the Droṇa vessels
+- उप वृजंति (*upa vṛjaṃti*)—they collect and place
+
+##### भावार्थ (Bhāvārtha)
+
+The human priests, after pressing this Soma juice, which supplies abundant food and is of liquid nature, or pure, fill it into the Droṇa vessels, which are the pressing vessels.
+
+##### English translation
+The priests express into the vessels this juice which is to be purified, the bestower of abundant food.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तमु॒ त्यं दश॒ क्षिपो॑ मृ॒जंति॑ स॒प्त धी॒तयः॑ ।  
+> स्वा॒यु॒धं म॒दिंत॑मम् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतम् । ऊं इति । त्यम् । दश । क्षिपः । मृजंति । सप्त । धीतयः ।  
+> सुऽआयुधम् । मदिन्ऽतमम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यं तम् एतमु एतमेव सोमं दश क्षिपः दशांगुलयः मृजंति परिचरंति । सप्त धीतयः सप्त ऋत्विजश्च । ऋत्विजोऽंगुलिभिर्मृजंतीत्यर्थः कीदृशमेतम् । स्वायुधं शोभनायुधं मदिंतमं मादयितृतमम्। रक्षोहननसामर्थ्यप्रदर्शनाय स्वायुधशब्दश्रवणम् ॥ ॥ ५ ॥
+
+##### Gist of the bhāṣya
+
+That very (एतमु (*etamu*)) Soma, the well-known (त्यं (*tyaṃ*)), the ten fingers (दश क्षिपः (*daśa kṣipaḥ*)) tend (मृजंति (*mṛjaṃti*), परिचरंति (*paricaraṃti*)), and the seven (सप्त धीतयः (*sapta dhītayaḥ*)) priests too; the meaning is that the priests tend it with their fingers. Of what kind is this Soma? Well-weaponed (स्वायुधं (*svāyudhaṃ*), शोभनायुधं (*śobhanāyudhaṃ*)), most exhilarating (मदिंतमं (*madiṃtamaṃ*)). The word स्वायुध (*svāyudha*) is heard in order to show his power to slay the demons.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्यं (*tyaṃ*)—well-known
+- स्वायुधं (*svāyudhaṃ*)—endowed with an excellent weapon
+- मदिंतमं (*madiṃtamaṃ*)—and producing delight
+- एतं उ (*etaṃ u*)—this very Soma
+- दश क्षिपः (*daśa kṣipaḥ*)—the ten fingers
+
+### Printed p. 707
+
+- वृजंति (*vṛjaṃti*)—tend (attend upon)
+- सप्त धीतयः (*sapta dhītayaḥ*)—the seven priests also wait upon this Soma
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Soma juice, which has a weapon because it has the power to slay the demons, and which produces delight, is tended by the seven priests with their ten fingers; that is, they prepare it.
+
+##### English translation
+The ten fingers, the seven priests, express this (juice)-well-weaponed, and yielding great exhilaration.
+
+##### विशेषविषयगळु (Special Topics)
+
+At the time of the pressing of the Soma, when the praise of the pressing stones is made, according to the view of the teacher named Gāṇagāri, when the Soma is being prepared this Ṛk beginning एतमु त्यं (*etamu tyaṃ*) is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, एतमु त्यं दश क्षिपो वृज्यमानः सुहस्त्याः (*etamu tyaṃ daśa kṣipo vṛjyamānaḥ suhastyāḥ*) (Ā. 5-13) **NOTE**.
+
+**The sixteenth sūkta.**
+
+## Sūkta 16 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ प्र ते सोतारः' इत्यष्टर्चं षोडशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र ते ' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र ते सोतारः (*pra te sotāraḥ*) has eight Ṛks and is the sixteenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as प्र ते (*pra te*). The use has been stated.
+
+This sūkta beginning प्र ते सोतारः (*pra te sotāraḥ*) is the sixteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र ते (*pra te*). The use has been stated before.
+
 ---
 
-**Progress note:** Done through printed p. 701. Sūkta 14 Ṛks 5-8; Sūkta 15 Ṛks 1-3 (pp. 696-701)
+**Progress note:** Done through printed p. 707. Sūkta 15 Ṛks 3-8; Sūkta 16 introduction (pp. 702-707)
