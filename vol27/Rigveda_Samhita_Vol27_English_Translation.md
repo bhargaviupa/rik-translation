@@ -34848,6 +34848,218 @@ Sāyaṇa says: O showering Aśvins, you lifted up the seer called Rebha, who la
 - चक्रथुः (*cakrathuḥ*)—you made
 - सप्तवध्रये (*saptavadhraye*)—to Saptavadhri you gave freedom
 
+### Printed p. 960
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, showerers of rain, you lifted up the seer Rebha, who had been shut up in a cave and was at the point of dying. And for the help of the seer Atri you made the burning fire-pit cool. You gave freedom to Saptavadhri.
+
+##### English translation
+Ashwins, shedders of rain, you extricated Rebha when he was placed in a cave and was dying : you made the heated fire-pit cool for Atri: you gave (liberty) to Saptavadhri.
+
+##### विशेषविषयगळु (Special Topics)
+
+Rebha: the meaning is that the Aśvin gods saved the seer Rebha from the danger that had befallen him, or from the distress of having been bound and drowned in a well by the Asuras. Sāyaṇa gives one explanation: when the Asuras seized the seer Atri and threw him into the husk-fire, the Aśvin gods, hearing his praise, saved him by putting out the fire with beneficial and cool water. He also gives another explanation: the word Atri means the fire that eats the oblations, and the Aśvins removed, by means of rain-waters, the heat that had come upon this fire (since, through the heat of the sun's rays, no grain and the like was being produced). Skandasvāmin explains only the story of the rescue of the seer Atri, and cites this verse:
+
+हिमेनाग्निं फ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधतं । यजबीसे अत्रिमश्विनावनीतमन्निन्यथुः सर्वगणं स्वस्ति ॥ (*himenāgniṃ phraṃsamavārayethāṃ pitumatīmūrjamasmā adhataṃ | yajabīse atrimaśvināvanītamanninyathuḥ sarvagaṇaṃ svasti ‖*) (Ya. Saṃ. 1-119-8) **NOTE**
+
+Atraye: the Asuras seized the seer named Atri, took him away and, to torment him, laid him face downward in a dangerous house with many doors, and threw him into the husk-fire (fire mixed with chaff). Because of this the seer Atri, his body being burnt, could not bear the heat of the fire and praised the Aśvin gods; they poured down water cold as snow and saved the seer Atri.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒वं श्वे॒तं पे॒दने॑ऽश्वि॒नाश्वं॑ न॒वभि॒र्वाजै॑र्नव॒ती च॑ वा॒जिनं॑।
+
+### Printed p. 961
+
+> चर्कृत्यं ददथुद्र्रावयत्सखं भगं न नृभ्यो हव्यं मयोभुवं ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवं । श्वेतं । पेदवे । अश्विना । अश्वं । नवभिः । वाजैः । नवती । च । वाजिनं ।  
+> चर्कृत्यं । ददथुः । द्रवयत्सखं । भगं । न । नृभ्यः । हव्यं । मयःभुवं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् युवं युवां पेदवे पेदुनामधेयाय राज्ञे श्वेतं
+> श्वेतवर्णं वाजिनं बलिनं नवभिर्नवती नवत्याश्वैः सहितं चर्कृत्यं संग्रामाणामत्यर्थं कर्तारं शत्रूणां जेतारं ना द्रवयत्सखं शत्रुसखीनां द्रावयितारं
+> हव्यं ह्वातव्यं मयोभुवं सुखस्य भावयितारमश्वं नृभ्यो मनुष्येभ्यो भगं न
+> भजनीयं धनमिव ददथुः । प्रायच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins and says that they gave to the king named Pedu a white horse, a strong one, accompanied by nine nineties of horses, that is, by ninety horses (as he glosses it); a horse that does very great deeds in battles, a conqueror of enemies, a scatterer of the friends of the enemies, one to be invoked, a causer of happiness. They gave this horse to men, as one gives desirable wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- युवं (*yuvaṃ*)—you
+- पेदवे (*pedave*)—to the king called Pedu
+- श्वेतं (*śvetaṃ*)—one that is white in colour
+- अश्वं (*aśvaṃ*)—the horse
+- वाजिनं (*vājinaṃ*)—one endowed with strength
+- वाजैः (*vājaiḥ*)—strong
+- नवभिः नवती च (*navabhiḥ navatī ca*)—accompanied by nine-and-ninety other horses
+- चर्कृत्यं (*carkṛtyaṃ*)—one that performs heroic deeds in battle
+- द्रवयत्सखं (*dravayatsakhaṃ*)—one that drives away the friends of the enemy
+- हव्यं (*havyaṃ*)—one fit to be invoked
+- मयोभुवं (*mayobhuvaṃ*)—one that brings about happiness
+- नृभ्यः (*nṛbhyaḥ*)—to men, beneficial
+- भगं न (*bhagaṃ na*)—as one gives wealth
+- ददथुः (*dadathuḥ*)—you gave
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, to the king named Pedu you gave a horse that is white in colour and powerful, accompanied by nine-and-ninety other strong horses, that performs heroic deeds in battle, that drives away the friends of the enemy, that is fit to be invoked and brings about happiness, as one gives wealth that is beneficial to men.
+
+##### English translation
+You gavc, Aswins, to Pedu a strong white horse with nine-and-ninety (other) steeds, (a horse) active (in combat), putting to flight the friends (of the foe), worthy to be invoked, a source of delight, like wealth to men.
+
+### Printed p. 962
+
+##### विशेषविषयगळु (Special Topics)
+
+A king named Pedu praised the Aśvin gods. Hearing the king's praise they were pleased, and graciously gave him a horse free of charge. It was white in colour and had the strength to destroy enemies at the time of battle. Indra had given it to the Aśvin gods earlier as a reward. The excellence of the horse is described in such a way as to make it plain: it is of the nature to win a thousand-fold wealth steadily every day. Sāyaṇa says in his commentary on Ṛ. Saṃ. 1-116-6:
+
+अत्रेदमाख्यायते ! पेदुर्नाम कश्चित् । स चाश्विनौ तुष्टाव । तस्मै प्रीत्कंचिच्छ्वेतवर्णमश्वं दत्तवंतौ । स चाश्वस्तस्य जयं चकारेति । एतदत्र प्रतिपाद्यते । (*atredamākhyāyate ! pedurnāma kaścit | sa cāśvinau tuṣṭāva | tasmai prītkaṃcicchvetavarṇamaśvaṃ dattavaṃtau | sa cāśvastasya jayaṃ cakāreti | etadatra pratipādyate |*)
+
+Thus he says. A person named Pedu praised the Aśvin gods. Pleased with his praise, they gave him a horse. Regarding this Ṛk Skandasvāmin has spoken in this way:
+
+अघाश्वो नाम राजा युयुत्सुरात्मनो अश्वं अश्विनौ ययाचे सततंचाविनाशं । तस्मै अश्विनौ बलवंतं अत्यंतवेगिनं जयकरं सर्वत्राप्रतिहतगमनं अश्वं सततं चाविनाशं ददतुरिति । तदेतदिहोच्यते ॥ (*aghāśvo nāma rājā yuyutsurātmano aśvaṃ aśvinau yayāce satataṃcāvināśaṃ | tasmai aśvinau balavaṃtaṃ atyaṃtaveginaṃ jayakaraṃ sarvatrāpratihatagamanaṃ aśvaṃ satataṃ cāvināśaṃ dadaturiti | tadetadihocyate ‖*)
+
+A king named Aghāśva, desirous of fighting, prayed to the Aśvin gods to give him a horse that was very strong and swift, that moved everywhere without obstruction, that won victory, and that never met with destruction. In accordance with his prayer they gave him a white horse just as he wished.
+
+And in his commentary on Ṛ. Saṃ. 1-117-9:
+
+पेदुर्नाम राजा तस्मै परया भक्त्या परितुष्टावश्विन् महावीर्यं श्वेतमश्वं ददतुः इति तत्परस्ताद्वक्ष्यति । (*pedurnāma rājā tasmai parayā bhaktyā parituṣṭāvaśvin mahāvīryaṃ śvetamaśvaṃ dadatuḥ iti tatparastādvakṣyati |*)
+
+The Aśvin gods, pleased with the excellent devotion of the king named Pedu, gave him an excellent and very strong white horse; having stated the meaning in this way, he cites this Ṛk:
+
+जोहूत्रमर्यो अभिभूतमुग्रं सहस्रसां वृषणं वीड्वंगम् ॥ युवं श्वेतं पेदव इंद्रजूतमहिहनमश्विना दत्तमश्वम् । (*johūtramaryo abhibhūtamugraṃ sahasrasāṃ vṛṣaṇaṃ vīḍvaṃgam ‖ yuvaṃ śvetaṃ pedava iṃdrajūtamahihanamaśvinā dattamaśvam |*) (Ṛ. Saṃ. 1-18-9) **NOTE**
+
+### Printed p. 963
+
+Besides this, he cites another Ṛk with the same meaning:
+
+युवं श्वेतं पेदवेऽश्विनाश्वं नवभिर्वाजैर्नवती च वाजिनं । चर्कृत्यं ददथुद्र्रावयत्सखं भगं न नृभ्यो हव्यं मयोभुवं ॥ (*yuvaṃ śvetaṃ pedave 'śvināśvaṃ navabhirvājairnavatī ca vājinaṃ | carkṛtyaṃ dadathudrrāvayatsakhaṃ bhagaṃ na nṛbhyo havyaṃ mayobhuvaṃ ‖*) (Ṛ. Saṃ. 10-39-10)
+
+Thus he has said.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तं रा॑जानावदिते॒ कुत॑श्च॒न नांहो॑ अश्नोति दुरि॒तं  ॒॑
+> नकिर्भयं ।  
+> यम॑श्विना सुहवा रुद्रवर्तनी पुरोर॒थं कृ॑णु॒थः पत्न्या॑  ॒
+> सह ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । राजानौ । अदिते । कुतः । चन । न । अंहः । अश्नोति । दुःइतं । नकिः ।  
+> भयं ।  
+> यं । अश्विना । सुहवा । रुद्रवर्तनी इति रुद्रवर्तनी । पुरःरथं । कृणुथः ।  
+> पत्न्या । सह ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजानावीश्वरावदिते आदीन्सौ सुहन्सौ स्वाह्वान् रुद्रवर्तनी स्तोत्रयुक्तमार्गौ हे अश्विनाश्विन् युवां यं जनं पुरोरथमग्रतोरथं पत्न्या सह
+> स्वयंवरे कृणुथः कुरुथः तं जनं कुतश्चन कुतोऽप्यंहः पापं नाश्नोति । न
+> व्याप्नोति । दुरितं दुर्गतिरपि नाश्नोति । नकिर्न च भयं संसारभयं न प्राप्नोति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins as sovereign lords, undepressed (not poor), well invoked, whose paths are full of praise. Whatever man, he says, you two place with his wife in front of the chariot, at the self-choice of a husband, to that man no sin comes from anywhere, nor does misfortune, and no fear, the fear of worldly existence, reaches him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अदिते (*adite*)—those free from poverty
+- राजान् (*rājān*)—lords
+- सुहवा (*suhavā*)—those fit to be invoked
+- रुद्रवर्तनी (*rudravartanī*)—those who have a path full of praise
+- अश्विना (*aśvinā*)—O Aśvin gods
+
+### Printed p. 964
+
+- यं (*yaṃ*)—whichever man
+- पत्न्या सह (*patnyā saha*)—together with his wife
+- पुरोरथं (*purorathaṃ*)—as one established in the chariot
+- कृणुथः (*kṛṇuthaḥ*)—you make
+- तं (*taṃ*)—that man
+- कुतश्चन (*kutaścana*)—from anywhere
+- अ०हः (*a0haḥ*)—sin
+- न अश्नोति (*na aśnoti*)—does not pervade
+- दुरितं (*duritaṃ*)—and that which causes sorrow
+- नकिः भयं (*nakiḥ bhayaṃ*)—no other fear whatever clings
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, free from poverty, lords, fit to be invoked, whose paths are full of praise: whatever man you join with his wife and place in the chariot, neither sin nor any fear comes near that man.
+
+##### English translation
+Lofty sovereigns, worthy of invocation, going on roads which are praised in hymus, Aswins, the man whom with his wife you place in front of (your) car, encounters not from any quarter wickedness, difficulty, or danger.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तेन॑ यातं॒ मन॑सो॒ जवी॑यसा॒ रथं॒ यं वा॑मृ॒भव॑श्च॒क्रुर॑श्विना ।  
+> यस्य॒ योगे॑ दुहि॒ता जाय॑ते दि॒व उ॒भे अह॑नी सु॒दिने॑  ॒॑
+> विवस्वतः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तेन । यातं । मनसः । जवीयसा । रथं । यं । वां । ऋभवः । चक्रुः ।  
+> अश्विना ।  
+> यस्य । योगे । दुहिता । जायते । दिवः । उभे इति । अहनी इति । सुदिने इति  
+> सुदिने । विवस्वतः ॥ १२ ॥
+
+### Printed p. 965
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनाश्विन् वां युवयोर्यं रथमृभवश्चक्रुः अकार्षुः यस्य रथस्य
+> योगे संबंधे सति दिवो दुहितोषा जायते प्रादुर्भवति यस्य च योगे
+> विवस्वतो भास्कसादुभे अहनी अहोरात्रे सुदिने शोभने जायेते तेन रथेन
+> मनसोपि जवीयसा वेगवत्तरेणा यातं । युवामागच्छतं ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the two Aśvins: the chariot which the Ribhus made for you, in connection with which the daughter of heaven, Uṣas, is born, and in connection with which the day and the night of Vivasvat, the sun, become fine days, with that chariot, swifter than the mind, they are asked to come.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin gods
+- वां (*vāṃ*)—your
+- यं रथं (*yaṃ rathaṃ*)—which chariot
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- चक्रुः (*cakruḥ*)—made
+- यस्य (*yasya*)—of which chariot
+- योगे (*yoge*)—when there is connection
+- दिवः दुहिता (*divaḥ duhitā*)—the goddess Uṣas
+- जायते (*jāyate*)—is born (at that same time)
+- विवस्वतः (*vivasvataḥ*)—from the Āditya, the sun
+- उभे अहनी (*ubhe ahanī*)—both day and night
+- सुदिने (*sudine*)—are well produced
+- तेन (*tena*)—with such
+- मनसः जवीयसा (*manasaḥ javīyasā*)—with a chariot whose speed exceeds the speed of the mind
+- आ यातं (*ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin gods, with that chariot of yours which the Ṛbhus made, in connection with which the goddess Uṣas, the daughter of heaven, is born, and in connection with which, at that same time, day and night are produced from the sun, with such a chariot, whose speed exceeds the speed of the mind, come.
+
+##### English translation
+Come, Ashwins, with the chariot that is swifter than thought, which the Ribhus made for yon : in connection with which the daughtcr of heaven, (the dawn), is born, and both the auspicious day and night from Vivaswat.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ता व॒र्तिर्या॑तं ज॒युषा॒ वि पर्व॑त॒मपि॑न्वतं श॒यवे॑ धे॒नुम॑श्विना ।  
+> वृक॑स्य चि॒द्वर्ति॑कामं॒तरा॒स्या॑द्यु॒वं शची॑भिर्ग्रसि॒ताम॑मुंचतं ॥
+
 ---
 
-**Progress note:** Done through printed p. 959. Sukta 39 Rk 7 special topics, Rk 8-9 (Kali, Vandana, Vishvala, Rebha, Atri)
+**Progress note:** Done through printed p. 965. Ṛk 9 end, Ṛk 10-12, start of Ṛk 13 (Aśvins: Pedu's horse)
