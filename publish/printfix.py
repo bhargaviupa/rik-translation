@@ -141,5 +141,13 @@ def plain_sentences(doc):
         return m.group(0)
     return _STRONG.sub(rep, doc)
 
+def stamp(doc):
+    """Every PDF says when it was built (REQUIREMENTS H2.7; user, Nov 26 2026, after reading an old copy for a day): the footer reads
+    'REVIEW COPY · built 26 Nov 2026 03:10 UTC'.  Two copies can then be told apart at a glance."""
+    import datetime
+    when = datetime.datetime.now(datetime.timezone.utc).strftime('%-d %b %Y %H:%M UTC')
+    css = f'<style>@page {{ @bottom-left {{ content: "REVIEW COPY  ·  built {when}"; }} }} @page front {{ @bottom-left {{ content: none; }} }} @page :first {{ @bottom-left {{ content: none; }} }} @page :blank {{ @bottom-left {{ content: none; }} }}</style>'
+    return doc.replace('</head>', css + '</head>', 1)
 def fix(doc):
+    doc = stamp(doc)
     return sanskrit(headings(lists(contents_sections(join_page_turns(label_paragraphs(plain_sentences(doc)))))))

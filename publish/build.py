@@ -135,7 +135,7 @@ def footer_marks(doc):
         return f'<div class="pgmark"{idattr} data-p="Kannada edition {m.group(1)}"></div>'
     doc = re.sub(r'<div class="pgmark">\s*(?:<p>)?\s*original (pp?\. [^<]+?)\s*(?:</p>)?\s*</div>', mark, doc)
     import printfix
-    return printfix.fix(doc).replace('</head>', '<link rel="stylesheet" href="style_footer.css"></head>', 1)
+    return printfix.fix(doc.replace('</head>', '<link rel="stylesheet" href="style_footer.css"></head>', 1))    # the stylesheet first: printfix adds the build stamp after it
 
 def pandoc_html(md):
     return pypandoc.convert_text(md, 'html', format='markdown-smart+raw_html',
