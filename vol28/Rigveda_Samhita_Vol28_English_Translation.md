@@ -22873,6 +22873,228 @@ Now in the second half, the man who does not know the Vedic meaning is explained
 
 In the conduct of the man who abandons the man who knows the value of speech in the form of a friend, the friend of the Vedic mantras, there is no honourable or true part. Whatever speech this man hears, hearing it is of no use to him. Since he does not know the path of those whose deeds are good, it is in vain.
 
+### Printed p. 664
+
+##### English translation
+He who has abandoned the friend who knows the duty of a friend, in
+his Speech there is not a particle (of/sense); what he hears, he hears amiss;
+for he knows not the path of righteousness.
+
+##### विशेषविषयगळु (Special Topics)
+
+The words of a man who knows the Vedas and the meaning of the Vedic mantras, and who is like a friend to them, are scorned in neglect by some other man. In the speech and conduct of that man there is no excellent element at all. All that he says and hears is untrue. He has neither inclination nor faith for good deeds. He does not follow the path of good men. This is the main purport.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क्ष॒ण्वंतः॒ कर्ण॑वंतः॒ सखा॑यो मनोज॒वेष्वस॑मा बभूवुः ।  
+> आ॒द॒घ्नास॑ उ पक॒क्षास॑ उत्वे ह्र॒दा इ॑व॒ स्नात्वा॑ उ त्वे ददृश्रे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षण्वंतः । कर्णवंतः । सखायः । मनःजवेषु । असमाः । बभूवुः ।  
+> आदघ्नासः । उपकक्षासः । ऊं इति । त्वे । प्रदाः इव । स्नात्वाः । ऊं इति । त्वे ।  
+> ददृश्रे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अक्षण्वंतोऽक्षमंतः ॥ छंदस्यपि दृश्यत इत्यक्षिशब्दादनज् । अनो नुडिति नुट् ॥
+> अनेन दृश्यते सर्वमित्यक्षि ॥ यद्वा । तैजसत्वादन्येभ्योऽंगेभ्यो व्यक्ततरं । तथा च
+> श्रूयते । तस्मादेते व्यक्ततरे इवेति । तादृशाक्षियुक्ताः । कर्णवंतः । कर्णो
+> निकृत्तद्वारः। गर्भावस्थायामेव केनापि निर्मितबिल इत्यर्थः। यद्वा । शरीरस्य शिरसो
+> वोर्ध्व० गते उच्चैः स्थिते । कर्णविलक्षणाकाशवंतः। तथा चाम्नायते । ऋच्छंती इव
+> खे उदगंतामिति । तादृशाः सखायः । समानं ज्ञानं ज्ञानं येषामिति सखायः।
+> तेषु वाक्येषु बाह्यॆष्टिंद्रियेषु समानज्ञाना इत्यर्थः । ते मनोजवेषु। मनसा
+> गम्यंते ज्ञायंत इति मनोजवाः प्रज्ञाद्याः। तेष्वसमा अतुल्या बभूवुः । भवंति।
+> तेषु मध्ये केचिदादघ्नासः ॥ आस्यशब्दस्य पृषोदरादित्वादाकारादेशः ॥ आस्यदघ्ना
+> आस्यप्रमाणोदका ह्रदा इवेति मध्यमप्रज्ञानाह । अथ त्व एके ॥ सर्वनामत्वाज्जसः
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses अक्षण्वंतः (*akṣaṇvaṃtaḥ*) as "having eyes" (अक्षिमंतः (*akṣimaṃtaḥ*)), the word formed from अक्षि (*akṣi*) with a suffix. The eye is that by which everything is seen. Or else, since it is made of light, it is more manifest than the other organs; and so it is heard in the Veda: तस्मादेते व्यक्ततरे इवेति (*tasmādete vyaktatare iveti*). So: those possessed of such eyes. कर्णवंतः (*karṇavaṃtaḥ*): कर्ण (*karṇa*) is a cut-out opening, that is, an aperture made by someone in the embryonic state itself. Or else, the ears are raised high above the head of the body, with their own distinct space; so it is handed down: ऋच्छंती इव खे उदगंतामिति (*ṛcchaṃtī iva khe udagaṃtāmiti*). Such are the friends (सखायः (*sakhāyaḥ*)): those whose knowledge is the same, that is, who have equal knowledge in the outer senses. They are unequal (असमाः (*asamāḥ*)) in the मनोजवाः (*manojavāḥ*), the things reached or known by the mind, namely intelligence and the like. Among them some are आदघ्नासः (*ādaghnāsaḥ*), with the word आस्य (*āsya*) (mouth) taking the ā-substitution: like pools whose water reaches to the mouth. By this he indicates those of middle intelligence. Then others (त्वे (*tve*)), the plural being formed by the pronominal rule, are
+
+### Printed p. 665
+
+> शीभावः ॥ उपकक्षासः कक्षसमीपप्रमाणोदका ह्रदा इव । अल्पोदका इत्यर्थः ।
+> अनेनाल्पप्रज्ञानाह । तथा त्व एके स्नात्वाः ॥ स्नातेः कृत्यार्थे त्वन्प्रत्ययः ।
+> पा. ३-४-१४ । स चार्हे कृत्यतृचश्च । पा. ३-३-१६९ । इत्यर्हार्थे च भवति ॥ स्नानार्हा
+> अक्षोभ्योदका ह्रदा इव वदृश्रे । दृश्यंते । अनेन महाप्रज्ञानाह । उः पूरणः ।
+> अक्षिमुंतः ळर्णवंतः सखायोऽक्षि चष्टेरित्यादिकं निरुक्तमंत्रे द्रष्टव्यं । नि. १-९ ॥
+
+##### Gist of the bhāṣya
+
+उपकक्षासः (*upakakṣāsaḥ*): like pools with water up to the neighbourhood of the armpit, that is, with little water; by this he indicates those of little intelligence. Others again are स्नात्वाः (*snātvāḥ*): the suffix त्वन् (*tvan*) comes after स्ना (*snā*) in the sense of a gerundive and also in the sense of "worthy". They are like pools fit for bathing, with undisturbed water, and they ददृश्रे (*dadṛśre*), "are seen"; by this he indicates those of great intelligence. उः (*uḥ*) is a filler. The Nirukta on अक्षिमंतः कर्णवंतः सखायः (*akṣimaṃtaḥ karṇavaṃtaḥ sakhāyaḥ*) and the rest is to be seen (Ni. 1-9).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अक्षण्यंतः (*akṣaṇyaṃtaḥ*)—those with equal eyes
+- कर्णवंतः (*karṇavaṃtaḥ*)—those with equal organs of hearing
+- सखायः (*sakhāyaḥ*)—are friends (are the same in outward behaviour)
+- मनोजवेषु (*manojaveṣu*)—in respect of mental power
+- असमाः बभूवुः (*asamāḥ babhūvuḥ*)—are not alike (some among them)
+- आदघ्नासः (*ādaghnāsaḥ*)—those with a little understanding, like a pool with water up to the mouth
+- त्वे (*tve*)—some others
+- उपकक्षासः (*upakakṣāsaḥ*)—those of small understanding, like a pool with water up to the armpit
+- त्वे (*tve*)—some others
+- स्नात्वाः (*snātvāḥ*)—fit for bathing
+- ह्रदा इव (*hradā iva*)—like a pool of deep water
+- ददृश्रे (*dadṛśre*)—appear
+
+##### भावार्थ (Bhāvārtha)
+
+Ordinarily all human beings are alike in outward form. The senses, eye, ear and so on, are equal in everyone. But in respect of mental power alone they are not equal. The power of some is very great; that of others is small. Some have a little understanding, like a pool with water only up to the mouth; some have a still smaller understanding, like a pool with water up to the waist. But others again possess a profound understanding, like a pool of deep water.
+
+##### English translation
+Friends possessing eyes, possessing ears, were (yet) unequal tn mental
+apprehension ; some seemed like pools reaching to the mouth, others reaching
+to the loins, others like pools in which one ean bathe.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk it is described, by the illustration of water in pools, that the knowledge (understanding) of all men is not equal: that of some is very great, that of some middling, and that of others very small. For this Ṛk Yāska has given the Nirukta:
+अक्षिमंतः कर्णवंतः सखायः । अक्षिः चष्टेः अनक्केरित्याग्रायणः । तस्मादेते व्यक्ततरे इव भवत इति ह विज्ञायते । कर्णः कृंततेर्निकृत्तद्वारो भवति । (*akṣimaṃtaḥ karṇavaṃtaḥ sakhāyaḥ | akṣiḥ caṣṭeḥ anakkerityāgrāyaṇaḥ | tasmādete vyaktatare iva bhavata iti ha vijñāyate | karṇaḥ kṛṃtaternikṛttadvāro bhavati |*)
+ऋच्छतेरित्याग्रायणः । ऋच्छंतीव खे उदगंतामिति ह विज्ञायते (*ṛcchaterityāgrāyaṇaḥ | ṛcchaṃtīva khe udagaṃtāmiti ha vijñāyate*)
+
+### Printed p. 666
+मनसां प्रजवेष्टसमा बभूवुः । आस्यदघ्ना अपरे उपकक्षदघ्ना अपरे । आस्यमस्यतेः । आस्यंदत एतदन्नमिति वा । दघ्नं दघ्यतेः स्रवतिकर्मणः । दस्यतीर्वा स्याद्विदस्ततरं भवति । प्रस्नेया ह्रदा इवैके । प्रस्नेया ददृशिरे स्नानार्हाः । ह्रदो ह्रादतेः शब्दकर्मणः । ह्रादतीर्वा स्याच्छीतीभावकर्मणः ॥ (*manasāṃ prajaveṣṭasamā babhūvuḥ | āsyadaghnā apare upakakṣadaghnā apare | āsyamasyateḥ | āsyaṃdata etadannamiti vā | daghnaṃ daghyateḥ sravatikarmaṇaḥ | dasyatīrvā syādvidastataraṃ bhavati | prasneyā hradā ivaike | prasneyā dadṛśire snānārhāḥ | hrado hrādateḥ śabdakarmaṇaḥ | hrādatīrvā syācchītībhāvakarmaṇaḥ ‖*) (Ni. 1-9)
+O friends, all men have eyes and ears. (So too the other limbs are present in all; or, as all have equal limbs, many have also pursued the study of the same science.) But the development of their intellect is different. In some the intellect is greater, in some ordinary, in others very small. That is, although the outer limbs, eyes, ears, hands and feet, are equal in all, a difference is seen in the power of intellect alone. How? Among pools, some are as deep as a man's height, that is, standing in the water one is covered up to the face (neck). In some other pools the water is up to the waist. These serve only for looking at; one cannot bathe in them. Others again are fit for bathing. This is the purport of the explanation.
+Here the derivations of the words अक्षि (*akṣi*) and the rest are given. The word अक्षि (*akṣi*) is formed from the root *cakṣ*, meaning "to see". According to Āgrāyaṇa, the word अक्षि (*akṣi*) is formed from the root अनक्ति (*anakti*), meaning "to adorn, or to apply collyrium to the eye for adornment". The Vedic sentence तस्मादेते व्यक्ततरे इव भवतः (*tasmādete vyaktatare iva bhavataḥ*), meaning that they (the eyes) appear beautiful and manifest in the face, is also an illustration. The word कर्ण (*karṇa*) is formed from the root कृंतति (*kṛṃtati*), meaning "to cut, to bore", because the ear is like an opening cut and bored into the body. According to Āgrāyaṇa, the word कर्ण (*karṇa*) is formed from the root ऋ (*ṛ*) (गत् (*gat*)), meaning "to go"; in his view this name came because the ears are seen as if they rise and go forth from the body. On this point there is also the illustration of the Vedic sentence ऋच्छंतीव खे उदगंतां (*ṛcchaṃtīva khe udagaṃtāṃ*).
+The word आस्य (*āsya*) (mouth) may be formed either from the root असु (*asu*), "to throw", or from the root आस्यंद् (*āsyaṃd*), meaning "to flow, to trickle", because food flows through it to the stomach and juice trickles in the mouth.
+The word दघ्नं (*daghnaṃ*) is formed from the root दफ् (*daph*), meaning "to flow"; or it may also be formed from the root दस्यति (*dasyati*), meaning "to waste away". स्नात्वाः (*snātvāḥ*)—प्रस्नेयाः (*prasneyāḥ*) means those fit for bathing.
+
+### Printed p. 667
+The word *hradaḥ* may be formed either from the root ह्रद् (*hrad*), meaning "to make a sound", or from the root ह्लाद् (*hlād*), meaning "to be cool, to produce coolness". Because the water of this pool is cool even in summer, it is called ह्रद (*hrada*).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हृ॒दा त॒ष्टेषु॒ मन॑सो ज॒वेषु॒ यद्ब्रा॑ह्म॒णाः सं॒यजं॑ते॒  ॑
+> सखायः ।  
+> अत्राह॑ त्वं॒ वि ज॑हुर्वे॒द्याभि॒रोह॑ ब्रह्माणो॒ वि च॑रंत्यु त्वे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हृदा । तष्टेषु । मनसः । जवेषु । यत् । ब्राह्मणाः । संयजंते । सखायः ।  
+> अत्र । अह । त्वं । वि । जहुः । वेद्याभिः । ओहब्रह्माणः । वि । चरंति । ऊं इति । त्वे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सखायः समानख्याना ब्राह्मणा हृदा बुद्धिमतां हृदयेन तष्टेषु निश्चितेषु
+> परिकल्पितेषु मनसो जवेषु गंतव्येषु वेदार्थेषु गुणदोषनिरूपणा यद्यदा
+> संयजंते संगच्छंते । यजिरत्र संगतिकरणवाची॥ अत्रास्मिन्ब्राह्मणसंघे त्वमविज्ञातार्थमेकं पुरुषं वेद्याभिर्वेदितव्याभिर्विद्याभिः प्रवृत्तिभिर्वा वि जहुः । विशेषेण
+> परित्यजंति । अहेति विनिश्चये । ओहब्रह्माणः । ऊह्यमानं ब्रह्म विद्याश्रुतिमतिबुद्धिलक्षणं येषां ते तथोक्ताः । तादृशास्त्र एके विद्वांसो वि चरंति । यथाकामं
+> वेदार्थेषु विनिश्चयार्थं प्रवर्तंते । उः प्रसिद्धौ । हृदा तष्टेषु मनसां
+> जवेष्टित्यादिकं निरुक्तं द्रष्टव्यं । नि. १३-१३ ॥
+
+##### Gist of the bhāṣya
+
+Friends of equal repute, the Brāhmaṇas, when they concur (संयजंते (*saṃyajaṃte*); the root यजि (*yaji*) here means "to come together") with the heart, the heart of the wise, regarding the matters of the mind's going (मनसो जवेषु (*manaso javeṣu*)), that is, the meanings of the Veda to be reached, which have been settled and determined, in the weighing of their merits and faults, then in this assembly of Brāhmaṇas they (वि जहुः (*vi jahuḥ*)) abandon especially one man who does not know the meaning, with the things to be known, the sciences, or their activities. अह (*aha*) is in the sense of certainty. ओहब्रह्माणः (*ohabrahmāṇaḥ*): those whose ब्रह्म (*brahma*), characterised by learning, hearing, thought and understanding, is reasoned out. Such other scholars (त्वे (*tve*)) वि चरंति (*vi caraṃti*): at will they proceed to settle the meanings of the Veda. उः (*uḥ*) is in the sense of "well known". The Nirukta beginning हृदा तष्टेषु मनसां जवेष्टित्यादिकं (*hṛdā taṣṭeṣu manasāṃ javeṣṭityādikaṃ*) is to be seen (Ni. 13-13).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—friends
+- ब्राह्मणाः (*brāhmaṇāḥ*)—those who know the truth of Brahman
+- हृदा (*hṛdā*)—with the heart that is given to meditation
+- तष्टेषु (*taṣṭeṣu*)—conceived
+- मनसः जवेषु (*manasaḥ javeṣu*)—in the matters of the Veda settled by the power of the mind
+- यत् (*yat*)—when
+- सं यजंते (*saṃ yajaṃte*)—are of one opinion
+- अत्र (*atra*)—at that time
+- त्वं (*tvaṃ*)—the man devoid of knowledge
+- वेद्याभिः (*vedyābhiḥ*)—from the occasions concerning knowledge
+- वि जहुः (*vi jahuḥ*)—they remove
+- ओहब्रह्माणः (*ohabrahmāṇaḥ*)—possessing knowledge of Brahman
+- त्वे (*tve*)—some scholars
+- वि चरंति (*vi caraṃti*)—according to their ability settle the meanings of the Vedas
+
+### Printed p. 668
+
+##### भावार्थ (Bhāvārtha)
+
+When friends who know the truth of Brahman are of one opinion, with a heart given to meditation, regarding the meanings of the Veda that have been conceived and settled by the power of the mind, at that time they remove the man devoid of knowledge from the occasions concerning knowledge. Some scholars who possess knowledge of Brahman settle the meanings of the Vedas according to their ability.
+
+##### English translation
+Although Brahmans who are friends concur in the mental apprehen-
+sions which are conceived by the heart (of the wise), yet in this (assembly)
+they abandon one man (to ignorance of the sciences) that are to be known.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मे ये नार्वाङ्न प॒रश्चरं॑ति॒ न ब्रा॑ह्म॒णासो॒ न सु॒तेक॑रासः।  
+> त ए॒ते वाच॑मभि॒पद्य॑ पा॒पया॑ सि॒रीस्तंत्रं॑ तन्वते॒ अप्र॑जज्ञयः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमे । ये । न । अर्वाक् । न । परः । चरंति । न । ब्राह्मणासः । न । सुतेऽकरासः ।
+> ते । एते । वाचं । अभिपद्य । पापया । सिरीः । तंत्रं । तन्वते । अप्रजज्ञयः ॥ ९ ॥
+> अनया वेदार्थानभिज्ञा निंद्यंते । इमे येऽविद्वांसोऽर्वागर्वाचीनमधोभाविन्यस्मिंल्लोके ब्राह्मणैः सह न चरंति ये परः परस्ताद्देवैः सह न चरंति
+> ते ब्राह्मणासो ब्राह्मणा वेदार्थतत्परा न भवंति । शथा सुतेकरासः सोमं सुतमभिषुतं कुर्वंतीति सुतेकरा ऋत्विजः । तेऽपि न भवंति । अप्रजज्ञयः ॥ जानातेरादृगमहन इति किप्रत्ययः ॥ अविद्वांसस्त एते मनुष्या वाचं लौकिकीमभिपद्य
+> प्राप्य तया पापया पापकारिण्या वाचा युक्तास्ते सिरीः ॥ छंदसीवनिपानितीप्रत्ययः
+> सुपां सुलुगिति जसः सुः ॥ सेरिणो भूत्वा तंत्रं कृषिलक्षणं तन्वते । विस्तारयंति ।
+> कुर्वंतीत्यर्थः । सर्वथा वेदार्थो ज्ञेय इत्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk those who do not know the meaning of the Veda are censured. These ignorant men who do not go about in this lower world (अर्वाक् (*arvāk*)) together with Brāhmaṇas, and who do not go about in the higher world (परः (*paraḥ*)) together with gods, are not Brāhmaṇas intent on the meaning of the Veda. Nor are they सुतेकरासः (*sutekarāsaḥ*), those who make Soma pressed, that is, priests (ṛtvijaḥ); they are not that either. अप्रजज्ञयः (*aprajajñayaḥ*): formed from the root ज्ञा (*jñā*) with the suffix किप् (*kip*). These ignorant men, having obtained (अभिपद्य (*abhipadya*)) worldly speech and being possessed of that sinful speech, become सिरीः (*sirīḥ*), plough-owners, and तन्वते (*tanvate*), extend, that is, perform, the work called तंत्र (*taṃtra*), namely agriculture. The purport is that the meaning of the Veda is in every way to be known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—those who are not learned
+- अर्वाक् (*arvāk*)—in this world of the earth
+- न चरंति (*na caraṃti*)—do not go about in company with the learned
+- परः (*paraḥ*)—in the world of heaven
+- न (*na*)—do not go about with the gods
+- इमे (*ime*)—such ignorant men
+- न ब्राह्मणासः (*na brāhmaṇāsaḥ*)—are not possessed of knowledge of Brahman
+- न सुतेकरासः (*na sutekarāsaḥ*)—
+
+### Printed p. 669
+- are not performers of sacrifice either
+- अप्रजज्ञयः (*aprajajñayaḥ*)—devoid of understanding
+- त एते (*ta ete*)—such persons
+- वाचं (*vācaṃ*)—merely worldly speech
+- अभिपद्य (*abhipadya*)—having obtained
+- पापया (*pāpayā*)—being of impure conduct
+- सिरीः (*sirīḥ*)—having obtained the implement for ploughing
+- तंत्रः (*taṃtraḥ*)—work such as ploughing
+- तन्नते (*tannate*)—extend **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Those unlearned men who in this world do not go about with the knowing, and in the other world with the gods, and so do not obtain the benefit of that contact, are always ignorant. They have no knowledge of Brahman, nor are they performers of sacrifice. Such men, devoid of understanding, having obtained merely worldly speech, being of impure conduct, having obtained the implement for ploughing, extend (go on doing) work such as ploughing.
+
+##### English translation
+Those illiterate men who not commingle with good Brahmins and gods, and who do not prepare Soma libations for the offering to the gods are always engaged in useless and sinful discourses and manual labour such as agriculture.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सर्वे॑ नंदंति य॒शसाग॑तेन सभासा॒हेन॒ सख्या॒ सखा॑यः ।  
+> कि॒ल्पि॒ष॒स्पृत्पि॑तु॒षणि॒र्ह्ये॑षा॒मरं॑ हि॒तो भव॑ति॒ वाजि॑नाय ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सर्वे । नंदंति । यशसा । आगतेन । सभासहेन । सख्या । सखायः ।  
+> किल्पिषस्पृत् । पितुसनिः । हि । एषां । आरं । हितः । भवति । वाजिनाय ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमप्रवहणे सर्वे नंदंतीत्येषा । सूत्रितं च । सोम यास्ते मयोभुव इति तिस्रः सर्वॆ नंदंति यशसागतेन । आ. ४-४ । इति ॥
+> सखायः समानख्यानाः समानज्ञानाः सर्वे सभ्या मनुष्याः सभासहेन सभां
+> सोढुं शक्नुवता सख्यर्त्विजां प्रतिभूतेन यज्ञं प्रत्यागतेन यशसा यशस्विना
+> सोमेन हेतुना नंदंति । हृष्टा भवंति । स हि स एव सोम एषां जनानां किल्बिषस्पृत् । यः स्वस्मादन्यः पुरुषः श्रेष्ठतामश्नुते स किल्बिषं भवति बाध्यत्वेन । यथा
+> पापं सदाचारैर्बाधितव्यं भवति तद्वत् । पापरूपस्य शत्रोर्बाधकः । यद्वा । यज्ञे
+> साध्वनुप्रवचनाकरणेन्वयकिल्बिषं येषां संजायते तद्यो बाधते स किल्बिषस्पृत्
+
+##### Gist of the bhāṣya
+
+The use is in the Somapravahaṇa: this Ṛk सर्वे नंदंति (*sarve naṃdaṃti*) is used. It is also laid down in the sūtra: सोम यास्ते मयोभुव इति तिस्रः सर्वॆ नंदंति यशसागतेन (*soma yāste mayobhuva iti tisraḥ sarvè naṃdaṃti yaśasāgatena*) (Ā. Sū. 4-4). The friends, of equal repute and equal knowledge, all the members of the assembly, rejoice because of Soma, which is glorious (यशसा (*yaśasā*)), has come to the sacrifice, is able to bear the assembly (सभासहेन (*sabhāsahena*)), and is the friend and surety of the priests. That very Soma is, for these people, किल्बिषस्पृत् (*kilbiṣaspṛt*). The man other than oneself who attains pre-eminence becomes a किल्बिष (*kilbiṣa*) by being to be repelled, as sin is to be repelled by right conduct; so Soma is the repeller of the enemy that is sin. Or else, the किल्बिष (*kilbiṣa*) that arises for those who, in the sacrifice, do not perform the proper recitation after the offering, he who repels that is किल्बिषस्पृत् (*kilbiṣaspṛt*). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 663. pp. 658-663 (batch API)
+**Progress note:** Done through printed p. 669. pp. 664-669 (batch API)
