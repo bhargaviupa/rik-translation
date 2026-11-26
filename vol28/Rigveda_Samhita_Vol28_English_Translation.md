@@ -8817,6 +8817,228 @@ Who is this, who is the Hotri ? (Afraid) of Yama, what offering does he bear tha
 
 अहरहः (*aharahaḥ*)—every day; the rite called agnihotra has to be performed every day. Because Agni is produced or worshipped every day for it, it is said here that Agni is born every day. Likewise मासिमासि (*māsimāsi*)—every month: since the sacrifices such as the darśapūrṇamāsa are performed in every month, and for them it is prescribed that Agni be produced by churning in the araṇis at every sacrifice, it is explained here that Agni is born in every month.
 
+### Printed p. 296
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मां दे॒वा द॑धिरे हव्य॒वाह॒मप॑म्लुक्तं ब॒हु कृ॒च्छ्र चरं॑तं।  
+> अ॒ग्निर्वि॒द्यान्य॒ज्ञं नः॑ कल्पयाति॒ पंच॑यामं त्रि॒वृतं॑ स॒प्ततं॑तुं ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मां । देवाः । दधिरे । हव्यवाहं । अपम्लुक्तं । बहु । कृच्छा । चरंतं ॥  
+> अग्निः । विद्वान् । यज्ञं । नः । कल्पयाति । पंचयामं । त्रिवृतं । सप्ततंतुं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मामग्निं देवा हव्यवाहं हनिर्वोढारं दधिरे । कृतवंतः । कीदृशं मां ।
+> अपम्लुक्तमपक्रम्यागतं । बहु कृच्छा बहूनि कृच्छाणि स्थानानि चरंतं गच्छंतं ।
+> कया मनीषया दधिर इति उच्यते । अयमग्निर्विद्यान् सर्वं जानन्नोऽस्माकं
+> यज्ञं कल्पयाति । कीदृशं यज्ञं । पंचयामं । पंचविधगमनं । पांक्तो हि
+> यज्ञः । त्रिवृतं । सवनत्रयभेदेन त्रिप्रकारं सप्ततंतुं सप्तभिश्चंदोमयैः
+> स्तुतिभिर्विस्कृतं ॥
+
+##### Gist of the bhāṣya
+
+The gods have made me, Agni, हव्यवाहं (*havyavāhaṃ*), the bearer of oblations. Sāyaṇa describes me as one who went away and came back (अपम्लुक्तं (*apamluktaṃ*)), and who moves through many difficult places (बहु कृच्छा (*bahu kṛcchā*)). He adds that the gods did this with a certain intent, which is now stated: this Agni, knowing everything, will accomplish for us the sacrifice. That sacrifice is पंचयामं (*paṃcayāmaṃ*), "of five-fold movement", since the sacrifice is पांक्तो (*pāṃkto*) (five-fold). It is त्रिवृतं (*trivṛtaṃ*), threefold through the division into the three pressings (savana). It is सप्ततंतुं (*saptataṃtuṃ*), extended by seven metrical hymns of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपम्लुक्तं (*apamluktaṃ*)—one who went away from here and came back
+- बहु कृच्छा (*bahu kṛcchā*)—many hardships
+- चरंतं (*caraṃtaṃ*)—one who has endured
+- मां (*māṃ*)—me
+- देवाः (*devāḥ*)—the gods
+- हव्यवाहं (*havyavāhaṃ*)—as the bearer of oblations
+- दधिरे (*dadhire*)—have obtained
+- विद्वान् (*vidvān*)—one who knows everything
+- अग्निः (*agniḥ*)—Agni
+- नः (*naḥ*)—for us
+- पंचयामं (*paṃcayāmaṃ*)—having five-fold movement
+- तिवृतं (*tivṛtaṃ*)—having three pressings
+- सप्ततंतुं (*saptataṃtuṃ*)—having seven metres
+- यज्ञं (*yajñaṃ*)—the sacrifice
+- कल्पयाति (*kalpayāti*)—will construct
+
+##### भावार्थ (Bhāvārtha)
+
+The gods have taken me, who went away from here and came back and who endured many hardships, as the bearer of oblations. Agni, who knows everything, will construct for us the sacrifice that has five-fold movement, three pressings and seven metres.
+
+### Printed p. 297
+
+##### English translation
+The gods have made me the bearer of oblations returning after departure, and passing many difficult places : (saying) this Agni is wise ; he will accomplish the sacrifice for us, whether it be that of the five ways, the three kinds, or the seven threads.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ वो॑ यक्ष्यमृत॒त्वं सु॒वीरं॒ यथा॑ वो देवा॒ वरि॑वः॒ करा॑णि।  
+> आ बा॒ह्वोर्वज्र॒मिंद्र॑स्य धेया॒मथे॒मा विश्वाः॒ पृत॑ना  
+> जयाति ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अ । वः । यक्षि । अमृतत्वं । सुवीरं । यथा । वः । देवाः । वरिवः । कराणि ।  
+> आ । बाह्वोः । वज्रं । इंद्रस्य । धेयां । अथ । इमाः । विश्वाः । पृतनाः । जयाति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवा वो युष्मा ना यक्षि । आयाचे । किं । अमृतत्वमविनाशित्वं सुवीरं
+> सुपुत्रं च । हे देवाः वो युष्माकं वरिवः परिचर्यां हवीरूपं धनं वा यथा
+> कराणि करवाणि तदर्थमित्यर्थः । किंचेंद्रस्य बाह्वोर्वज्रमा धेयां । ग्राहयामीत्यर्थः । अग्नेर्होतृत्वाभाव इंद्रस्य सोमाद्यभानाद्दुर्बलत्वेन वज्रधारणं
+> नोपपद्यते । आतस्तत्कृत्वा वज्रं ग्राहयामीत्यर्थः । अथैवं सतीमा विश्वाः सर्वाः
+> पृतनाः शत्रुसेनाः जयाति । जयति । जयतु ना ॥
+
+##### Gist of the bhāṣya
+
+"O gods, I ask (यक्षि (*yakṣi*), I request) of you": what? Immortality, that is, indestructibility, and excellent sons. वरिवः (*varivaḥ*) is service of you, or wealth in the form of oblations; so that I may perform it, that is, for that purpose. Further: "may I place (धेयां (*dheyāṃ*)) the thunderbolt in the arms of Indra", that is, I make him grasp it. Since Agni is not the hotṛ, and Indra, lacking the Soma and the like, is weak and cannot bear the thunderbolt, I therefore, having done so (made him strong), make him grasp the thunderbolt. Then, this being so, may he conquer (जयाति (*jayāti*)) all these hostile armies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- वः (*vaḥ*)—addressing you
+- वरिवः (*varivaḥ*)—worship together with oblation
+- यथा (*yathā*)—in what manner
+- कराणि (*karāṇi*)—I may offer; for that (purpose)
+- अमृतत्वं (*amṛtatvaṃ*)—deathlessness
+- सुवीरं (*suvīraṃ*)—an excellent son, (I ask) that you grant
+- वः (*vaḥ*)—you
+- आ यक्षि (*ā yakṣi*)—I request
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- बाह्वोः (*bāhvoḥ*)—in the arms
+- वज्रं (*vajraṃ*)—the thunderbolt
+- आ धेयां (*ā dheyāṃ*)—I make him hold
+- अथ (*atha*)—afterwards
+- इमाः विश्वाः पृतनाः (*imāḥ viśvāḥ pṛtanāḥ*)—all these hostile armies
+- जयाति (*jayāti*)—he defeats
+
+### Printed p. 298
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, I request of you, so that I may continually offer you worship together with oblation, that you grant me deathlessness and an excellent son. I make the thunderbolt be held in the arms of Indra. Afterwards he destroys all the hostile armies.
+
+##### English translation
+Gods, I solicit of you immortality and excellent male offspring, that I may offer you adoration.  I cause Indra to take the thunderbolt in his hands, wherewith he may overcome all these hostile hosts.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रीणि॑ श॒ता त्री स॒हस्रा॑ण्य॒ग्निं त्रिं॒शच्च॑ दे॒वा नव॑ चासपर्यन् ।  
+> औक्ष॑न्नृ॒तैरस्त्र॑णन्ब॒र्हिर॑स्मा॒ आदिद्दोता॑रं॒ न्य॑सादयंत ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रीणि । शता । त्रि । सहस्राणि । अग्निं । त्रिंशत् । च । देवाः । नव । च । असर्पयन् ।  
+> औक्षन् । घृतैः । अस्त्रणन् । बर्हिः । अस्मै । आत् । इत् । होतारं । नि । असादयंत ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्रीणि शता शतानि त्रीणि सहस्राणि त्रिंशच्च नव च एतत्संख्याका देवा अग्निंमाम
+> पर्यन् । पर्यचरन् । परिचर्याप्रकार उच्यते । धृतैः क्षरद्भिराज्यैरौक्षन् ।
+> सिक्तवंतः । अस्मा अग्नये मह्यं च बर्हिरस्त्रृणन् । आस्तृतवंतः । आदिदास्तरणानंतरं होतारमाह्वातारं न्यसादयंत । नियमेनासादितवंतः ॥
+
+##### Gist of the bhāṣya
+
+Gods numbering three hundreds, three thousands, thirty and nine waited upon (असपर्यन् (*asaparyan*), served) me, Agni. The manner of service is stated: they sprinkled (औक्षन् (*aukṣan*)) me with flowing ghee; they strewed the sacred grass for Agni, and for me; and immediately after the strewing they seated the hotṛ, the invoker, in due order.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रीणि शता (*trīṇi śatā*)—those numbering three hundred
+- त्रि सहस्राणि (*tri sahasrāṇi*)—those numbering three thousand
+- त्रिंशच्च नव च (*triṃśacca nava ca*)—those numbering thirty-nine
+- देवाः (*devāḥ*)—the gods
+- अग्निं (*agniṃ*)—Agni
+- असपर्यन् (*asaparyan*)—worshipped
+- अस्मै (*asmai*)—for me, to sit
+- बर्हिः (*barhiḥ*)—
+
+### Printed p. 299
+- the seat of darbha grass
+- अस्त्रणन् (*astraṇan*)—spread
+- धृतैः (*dhṛtaiḥ*)—with flowing ghee
+- औक्षन् (*aukṣan*)—sprinkled
+- आदित् (*ādit*)—immediately after that
+- होतारं (*hotāraṃ*)—for the hotṛ's work
+- न्यसादयंत (*nyasādayaṃta*)—seated
+
+##### भावार्थ (Bhāvārtha)
+
+Gods numbering three thousand three hundred and thirty-nine worshipped me. They spread a seat of darbha grass for me to sit on. They sprinkled it with flowing ghee. Immediately after that they seated me for the hotṛ's work.
+
+##### English translation
+Three thousand three hundred and thirty-and-nine deities worshipped
+Agni, they sprinkled (me) with butter, they strewed thc sacred grass, and
+then made the invoker of the gods sit down.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the present Ṛk the number of the gods is stated: त्रीणि शता त्री सहस्राणि त्रिंशच्च देवाः (*trīṇi śatā trī sahasrāṇi triṃśacca devāḥ*), "three thousand three hundred and thirty-three gods". Who are these gods, and what is the limit of their number? This can be examined closely here.
+
+This Ṛk states the limit of the number of the gods. In the Ṛk beginning ये देवासो दिव्येकादशस्थ (*ye devāso divyekādaśastha*) it is stated that there are thirty-three gods in earth, atmosphere and heaven. The total number of the gods is given as thirty-three: दिवि एकादश, पृथिव्यां एकादश, अप्पुक्षितः एकादश (*divi ekādaśa, pṛthivyāṃ ekādaśa, appukṣitaḥ ekādaśa*). Sāyaṇa quotes the Nirukta statement यद्यपि तिस्र एव देवताः (*yadyapi tisra eva devatāḥ*) (Ni. 7-5) and explains: क्षित्याद्यभिमानिन्नो देवतास्त्रिस्र एव तथापि स्वस्वविभूत्या त्रयस्त्रिंशत्संख्याता भवंति । तत्तत्स्थाना अन्यास्तद्विभूतय इत्युक्तत्वात् (*kṣityādyabhimāninno devatāstrisra eva tathāpi svasvavibhūtyā trayastriṃśatsaṃkhyātā bhavaṃti | tattatsthānā anyāstadvibhūtaya ityuktatvāt*). That is: although the deities presiding over earth, atmosphere and heaven are only three, by their own greatness they appear as thirty-three in number; the other deities in the several worlds are their manifestations (vibhūti). The Nirukta-kāra also says:
+
+तिस्र एव देवताः (नि. ७-५) ऎंब निरुक्तवचनवन्नु दाहरिसि क्षित्याद्यभिमानिन्नो देवतास्त्रिस्र एव तथापि स्वस्वविभूत्या त्रयस्त्रिंशत्संख्याता भवंति । तत्तत्स्थाना अन्यास्तद्विभूतय इत्युक्तत्वात् । पृथिवी, अंतरिक्ष मत्तु द्युलोकाभिमानिगळ संख्यॆयु मूरे आदरू सह अवरु अवरवर महिमॆयिंद ३३ संख्यॆयुळ्ळवरागि काणुत्तारॆ. आया लोकगळल्लिरुव उळिद देवतॆगळॆल्ला इवर विभूतिगळु ऎंदु विवरिसिद्दारॆ. निरुक्तकाररू सह— तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इंद्रो ना अंतरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यात् एकैकस्या अपि बहूनि नामधेयानि भवंति । अपि वा कर्मपृथक्त्वात् ॥ (*tisra eva devatāḥ (ni. 7-5) èṃba niruktavacanavannu dāharisi kṣityādyabhimāninno devatāstrisra eva tathāpi svasvavibhūtyā trayastriṃśatsaṃkhyātā bhavaṃti | tattatsthānā anyāstadvibhūtaya ityuktatvāt | pṛthivī, aṃtarikṣa mattu dyulokābhimānigaḷa saṃkhyèyu mūre ādarū saha avaru avaravara mahimèyiṃda 33 saṃkhyèyuḷḷavarāgi kāṇuttārè. āyā lokagaḷalliruva uḷida devatègaḷèllā ivara vibhūtigaḷu èṃdu vivarisiddārè. niruktakārarū saha— tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā iṃdro nā aṃtarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyāt ekaikasyā api bahūni nāmadheyāni bhavaṃti | api vā karmapṛthaktvāt ‖*)
+(Ni. 7-5)
+
+According to the Nirukta school, the three deities Agni, Vāyu or Indra, and Sūrya are likewise the presiding deities of the three worlds, earth, atmosphere and heaven. These deities have many names according to their greatness or because of the variety of their actions. Those names are said to be the many deities.
+
+### Printed p. 300
+Having said so, the Nirukta begins: अथातोऽनुक्रमिष्यामः अग्निः पृथिवीस्थानः तं प्रथमं व्याख्यास्यामः (*athāto 'nukramiṣyāmaḥ agniḥ pṛthivīsthānaḥ taṃ prathamaṃ vyākhyāsyāmaḥ*), and in the sections Ni. 7-14 to 9-43 it describes the nature of the earth-dwelling deities. With अथातो मध्यस्थाना देवताः । तासां वायुः प्रथमगामि भवति (*athāto madhyasthānā devatāḥ | tāsāṃ vāyuḥ prathamagāmi bhavati*), in Ni. 10-1 to 11-50 it describes the deities of the middle region, the atmosphere. With अथातो दुस्थाना देवताः (*athāto dusthānā devatāḥ*), from Ni. 12-1 to the end of the chapter, it describes the deities of the heavenly world. Although there are differences of opinion on how many deities there are in this division, one and the same view is found in many places in the Ṛg-saṃhitā.
+
+आ नासत्या त्रिभिरेकादशैरिह देवेभिर्यातं मधुपेयमश्विना । प्रायस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥ (*ā nāsatyā tribhirekādaśairiha devebhiryātaṃ madhupeyamaśvinā | prāyastāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖*)
+(Ṛ. Saṃ. 1-34-11)
+
+In this Ṛk the Aśvin deities are praised: "Come to this place of sacrifice with the thirty-three gods and drink Soma."
+
+श्रुष्टीवानो (*śruṣṭīvāno*) … *ā vaha* **NOTE**
+(Ṛ. Saṃ. 1-45-2)
+
+In this Ṛk Agni is entreated to bring the thirty-three gods.
+
+ऐभिरग्ने सरथं याह्यर्वाज् नानारथं वा विभवो ह्यश्वाः । पत्नीवतस्त्रिंशतं त्रींश्च देवाननुष्टधमा वह मादयस्व ॥ (*aibhiragne sarathaṃ yāhyarvāj nānārathaṃ vā vibhavo hyaśvāḥ | patnīvatastriṃśataṃ trīṃśca devānanuṣṭadhamā vaha mādayasva ‖*)
+(Ṛ. Saṃ. 3-6-9)
+
+इति स्तुतासो असथा रिशादसो ये स्थ त्रयश्च त्रिंशच्च । मनोर्देना यज्ञियासः ॥ (*iti stutāso asathā riśādaso ye stha trayaśca triṃśacca | manordenā yajñiyāsaḥ ‖*)
+(Ṛ. Saṃ. 8-30-2)
+
+विश्वैर्देवैस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा (*viśvairdevaistribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā*)
+(Ṛ. Saṃ. 8-35-3)
+
+तव त्ये सोम पवमान निण्ये विश्वे देवास्त्रय एकादशासः । दश स्वधाभिरधि सानो अव्ये मृजंति त्वा नद्यः सप्त यह्वीः ॥ (*tava tye soma pavamāna niṇye viśve devāstraya ekādaśāsaḥ | daśa svadhābhiradhi sāno avye mṛjaṃti tvā nadyaḥ sapta yahvīḥ ‖*)
+(Ṛ. Saṃ. 9-92-4)
+
+In these Ṛks and others it is clear that the number of the gods is thirty-three. In the Śatapatha Brāhmaṇa too
+
+### Printed p. 301
+अष्टौ वसवः । एकादश रुद्राः । द्वादशादित्या इमे एव द्यावापृथिनी त्रयस्त्रींशः देवाः प्रजापतिश्चतुस्त्रींशः ॥ (*aṣṭau vasavaḥ | ekādaśa rudrāḥ | dvādaśādityā ime eva dyāvāpṛthinī trayastrīṃśaḥ devāḥ prajāpatiścatustrīṃśaḥ ‖*)
+(Śa. Brā. 4-5-7-2)
+
+Eight Vasus, eleven Rudras, twelve Ādityas, together with heaven and earth, make thirty-three gods; besides these, Prajāpati is the thirty-fourth. So it is said in one place. But in another place, although the number is the same thirty-three, Indra and Prajāpati are included in place of heaven and earth.
+
+ते त्रयस्त्रिंशदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिंद्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति ॥ (*te trayastriṃśadityaṣṭau vasava ekādaśa rudrā dvādaśādityāsta ekatriṃśadiṃdraścaiva prajāpatiśca trayastriṃśāviti ‖*)
+(Śa. Brā. 11-6-3-5)
+
+In the Aitareya Brāhmaṇa too:
+
+त्रयस्त्रिंशद्वै देवाः सोमपास्त्रयस्त्रिंशदसोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चैते देवाः सोमपाः ॥ (*trayastriṃśadvai devāḥ somapāstrayastriṃśadasomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiśca vaṣaṭkāraścaite devāḥ somapāḥ ‖*)
+(Ai. Brā. 2-18)
+
+The Soma-drinkers are thirty-three gods: the eight Vasus, eleven Rudras, twelve Ādityas, Prajāpati and Vaṣaṭkāra. Thus both in the Saṃhitā and in the Brāhmaṇas there is one view on this number. But
+
+त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् । औक्षन् धृतैरस्त्रृणन्बर्हिरस्मा आदिद्दोतारं न्यसादयंत ॥ (*trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan | aukṣan dhṛtairastrṛṇanbarhirasmā ādiddotāraṃ nyasādayaṃta ‖*)
+(Ṛ. Saṃ. 3-9-9)
+
+what is recited in this Ṛk is recited again in the present Ṛk. Here it is said that three thousand three hundred and thirty-nine gods worshipped Agni. The same occurs in the Vājasaneya Saṃhitā (33-7).
+
+नमो महद्यो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः ॥ यजाम देवान्यदि शक्ननाम मा ज्यायसः शंसमा वृक्षि देवाः ॥ (*namo mahadyo namo arbhakebhyo namo yuvabhyo nama āśinebhyaḥ ‖ yajāma devānyadi śaknanāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ ‖*)
+(Ṛ. Saṃ. 1-27-13)
+
+Where homage is said to all kinds of gods, great and small, young and old, it is understood that there is variety of form among the gods. This Ṛk is recited also in the Aitareya Brāhmaṇa (Ai. Brā. 7-16), in the Śunaḥśepa story, in the context of the prayer to the Viśvedevas. But
+
 ---
 
-**Progress note:** Done through printed p. 295. pp. 290-295 (batch API)
+**Progress note:** Done through printed p. 301. pp. 296-301 (batch API)
