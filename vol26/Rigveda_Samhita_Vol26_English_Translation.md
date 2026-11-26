@@ -15602,6 +15602,234 @@ Maṇḍala 9; Anuvāka 4; Sūkta 71; Aṣṭaka 7, Adhyāya 2, Varga 25, 26. Nu
 
 At the sacrifice that belongs to Soma, the fee (dakṣiṇā) is released, that is, given by us, to the priests. The strong Soma enters the seat named Droṇa. Further, the ever-wakeful Soma protects the worshippers from the Rākṣasa who does harm. And the tawny Soma makes ओपशम् (*opaśam*), the water that belongs to the sky, to Āditya, and that supports everything, everywhere; the meaning is that he does so in the order that begins with प्रास्ताहुतिः (*prāstāhutiḥ*). Or else: he makes the atmosphere the supporter of water. Further, this Soma, for the spreading over, the covering, of चम्वोः (*camvoḥ*), which is a name of heaven and earth, where men and gods eat, makes in the heaven the Sun, the great, the uplifted, who destroys the darknesses, or else the all-surrounding one; and likewise makes that same Sun for the cleansing and purifying of things. For Āditya covers heaven and earth with his own splendour and cleanses everything with his own light.
 
+### Printed p. 418
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्षिणा (*dakṣiṇā*)—the fee
+- आ सृज्यते (*ā sṛjyate*)—is offered by us
+- शुष्मी (*śuṣmī*)—Soma, who is endowed with strength
+- आसदं (*āsadaṃ*)—the Droṇakalaśa
+- वेति (*veti*)—enters
+- जागृविः (*jāgṛviḥ*)—the Soma who is vigilant
+- द्रुहः (*druhaḥ*)—treacherous
+- रक्षसः (*rakṣasaḥ*)—from the Rākṣasas
+- पाति (*pāti*)—protects
+- हरिः (*hariḥ*)—Soma, who is green-tinted
+- ओपशं (*opaśaṃ*)—which supports the world
+- नभः (*nabhaḥ*)—and belongs to Āditya
+- पयः (*payaḥ*)—the water
+- कृणुते (*kṛṇute*)—produces
+- चन्वोः (*canvoḥ*)—heaven and earth **NOTE**
+- उपस्थिरे (*upasthire*)—to cover, the means **NOTE**
+- ब्रह्म (*brahma*)—Āditya
+- निर्निजे (*nirnije*)—for the purification of the world he produces
+
+##### भावार्थ (Bhāvārtha)
+
+The fee is offered by us. Soma, who is endowed with strength, enters the Droṇakalaśa. Soma, who is vigilant, protects the sacrificers from the treacherous Asuras. Soma, who is green-tinted, produces the water which supports the world and belongs to Āditya. For the purification of the world he produces Āditya, who is the means of covering heaven and earth.
+
+##### English translation
+The donation is given ; the vigorous (Soma) enters his resting place, and, vigilant, guards (his worshippers) against the malignant Rakshasas; the green-tinted (Soma) produces the all-sustaining water of the sun ; (he places) the mighty sun to cover the two worlds, to purify (created things).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र कृ॑ष्टि॒हेव॑ शू॒ष ए॑ति॒ रोरु॑वदसु॒र्यं१॒॑ वर्णं॒ नि रि॑णीते अस्य॒ तम् ।  
+> जहा॑ति व॒व्रिं पि॒तुरे॑ति निष्कृ॒तमु॑प॒प्रुतं॑ कृणुते नि॒र्णिजं॒ तना॑ ॥ २ ॥
+
+### Printed p. 419
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । कृष्टिहाऽइव । शूषः । एति । रोरुवत् । असुर्यम् । वर्णम् । नि । रिणीते । अस्य । तम् ।  
+> जहाति । वव्रिम् । पितुः । एति । निःऽकृतम् । उपऽप्रुतम् । कृणुते । निःऽनिजम् । तना ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शूषः शत्रूणां शोषको बलवान् सोमः रोरुवत् अत्यंतं शब्दं कुर्वन् कृष्टिहेव मनुष्याणां हंता योद्धेव प्र एति प्रगच्छति । किंच असुर्यम् असुराणां बाधकम् अस्य आत्मनो वर्णं हरितमावारकं बलं वा नि रिणीते निर्गमयति । ततः स सोमः वव्रिम् । वृणोति शरीरमिति वव्रिर्जरा। जहाति त्यजति । कथमिति चेत् तदुच्यते । पितुः अन्नं सोमः निष्कृतं संस्कृतं द्रोणकलशं दिवं वा इदानीम् एति गच्छति । किंच सोमः तना अविवालेन तते विस्तृते देशापवित्रे निर्निजम् । निर्निगिति रूपनाम । आत्मीयं रूपम् उपप्रुतम् उपगमनशीलं कृणुते करोति । तस्माज्जरां त्यजतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The strong Soma, who dries up his enemies, goes forth roaring greatly, like a slayer of men, a warrior. Further, he sends out his own colour, the tawny covering or strength, which harasses the Asuras. Then that Soma abandons वव्रिम् (*vavrim*), which covers the body, that is, old age. If it is asked how, it is said: Soma, who is food (पितुः (*pituḥ*)), goes now to the prepared Droṇakalaśa, or to heaven. Further, Soma, on the ten-filter spread out by the sheep's fleece, makes his own form, for निर्निगिति (*nirnigiti*) is a name for form, a form that approaches. The meaning is therefore that he casts off old age.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूषः (*śūṣaḥ*)—Soma, who dries up his enemies
+- रोरुवत् (*roruvat*)—making a sound
+- कृष्टिहेव (*kṛṣṭiheva*)—like a warrior who is a slayer of men
+- प्र एति (*pra eti*)—moves about
+- असुरं (*asuraṃ*)—which destroys enemies **NOTE**
+- अस्य (*asya*)—his own
+- तं वर्णं (*taṃ varṇaṃ*)—green colour
+- नि रिणीते (*ni riṇīte*)—makes manifest
+- वन्रिं (*vanriṃ*)—old age **NOTE**
+- जहाति (*jahāti*)—abandons
+- पितुः (*pituḥ*)—Soma, who is of the form of food
+- निष्कृतं (*niṣkṛtaṃ*)—the prepared Droṇakalaśa
+- एति (*eti*)—enters
+- तना (*tanā*)—spread out on the ten-filter
+- निर्निजं (*nirnijaṃ*)—his own form
+- उपपुतं (*upaputaṃ*)—as fit to be made radiant **NOTE**
+- कृणुते (*kṛṇute*)—makes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who dries up his enemies, moves about making a sound, like a warrior who is a slayer of men. He makes manifest his green colour, which destroys enemies. He abandons old age. Soma, who is of the form of food,
+
+### Printed p. 420
+
+enters the prepared Droṇakalaśa. He makes his own form, spread out on the ten-filter, fit to be made radiant.
+
+##### English translation
+The powerful (Soma) advances with a roar like a slayer of men; he puts forth that Asura-slaying tint of his; he abandons bodily infirmity; the food goes to the prepared (altar); he assumes a form advancing to the outstretched (filter).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अद्रि॑भिः सु॒तः प॑वते॒ गभ॑स्त्योर्वृषा॒यते॒ नभ॑सा॒ वेप॑ते म॒ती ।  
+> स मो॑दते॒ नस॑ते॒ साध॑ते गि॒रा ने॑नि॒क्ते अ॒प्सु यज॑ते॒ परी॑मणि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्रिऽभिः । सुतः । पवते । गभस्त्योः । वृषऽयते । नभसा । वेपते । मती ।  
+> सः । मोदते । नसते । साधते । गिरा । नेनिक्ते । अप्ऽसु । यजते । परीमणि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्रिभिः ग्रावभिः गभस्त्योः बाह्वोः बाहुभ्यां च सुतः अभिषुतः स सोमः पवते पात्राणि प्रति गच्छति । यः सोमः वृषायते वृषवदाचरति । किंच यः मती स्तुत्याभिष्टुतः सन् नभसा अंतरिक्षेण वेपते सर्वत्र गच्छति सः सोमः मोदते हृष्टो भवति । तथा नसते ग्रहादिषु संश्लिष्टो भवति । किंच गिरा स्तुत्या स्तुतः सन् साधते स्तोतॄणां धनान्नादिकं साधयति । अपि च अप्सु वसतीवर्याख्यासु नेनिक्ते शुद्धो भवति । तथा परीमणि देवै रक्ष्यमाणे यज्ञे देवानां हविष्प्रदानेन पोषके वा यज्ञे यजते पूजितो भवति ॥
+
+##### Gist of the bhāṣya
+
+That Soma, pressed by the stones and by the arms, flows, goes to the vessels; he who behaves like a bull. Further, he who, praised with praise, moves everywhere through the atmosphere, that Soma rejoices, becomes glad. Likewise he becomes joined in the cups and the other vessels. Further, praised with a hymn, he accomplishes for the praisers wealth, food and the like. And in the waters called Vasatīvarī he becomes pure. Likewise in the sacrifice that is protected by the gods, or that nourishes the gods by the giving of oblations, he becomes worshipped.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिभिः (*adribhiḥ*)—by the pressing stones
+- गभस्तोः (*gabhastoḥ*)—and by the arms **NOTE**
+- सुतः (*sutaḥ*)—Soma, who has been pressed
+- पवते (*pavate*)—enters the ten-filter
+- सोमः (*somaḥ*)—Soma
+- वृषायते (*vṛṣāyate*)—conducts himself like a bull
+- मती (*matī*)—praised with praise
+- नभसा (*nabhasā*)—from the atmosphere
+- वेपते (*vepate*)—moves about everywhere
+- सः (*saḥ*)—that same Soma
+- मोदते (*modate*)—rejoices
+- नसते (*nasate*)—is contained in the cups and the others
+
+### Printed p. 421
+
+- गिरा (*girā*)—praised with a hymn
+- साधते (*sādhate*)—accomplishes the desired objects of the praisers
+- अप्पु (*appu*)—in the Vasatīvarī and the others **NOTE**
+- नेनिक्ते (*nenikte*)—attains purification
+- परीमणि (*parīmaṇi*)—at the sacrifice
+- यजते (*yajate*)—is worshipped
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, pressed by the pressing stones and by the arms, enters the ten-filter. He conducts himself like a bull. Praised with praise, he moves about everywhere from the atmosphere. The same Soma rejoices. He is contained in the cups and the others (the vessels). Praised with praise, he accomplishes the desired objects of the praisers. He attains purification in the waters such as the Vasatīvarī. He is worshipped at the sacrifice.
+
+##### English translation
+Expressed with the stones by hands (the Soma) flows: he moves like a bull ; (worshipped) with praise he wanders through the firmament ; he rejoices, he is embraced ; (praised) with a hymn he fulfils (the desire of worshippers), he is cleansed in the waters, he is honoured at the (god)-protected (sacrifice).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ द्यु॒क्षं सह॑सः पर्वता॒वृधं॒ मध्वः॑ सिंचंति ह॒र्म्यस्य॑ स॒क्षणि॑म् ।  
+> आ यस्मि॒न्गावः॑ सुहु॒ताद॒ ऊध॑नि मू॒र्धंछ्री॒णंत्य॑ग्रि॒यं वरी॑मभिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । द्युक्षम् । सहसः । पर्वतऽवृधम् । मध्वः । सिंचंति । हर्म्यस्य । सक्षणिम् ।  
+> आ । यस्मिन् । गावः । सुहुतऽअदः । ऊधनि । मूर्धन् । श्रीणंति । अग्रियम् । वरीमऽभिः ॥ ४ ॥
+
+### Printed p. 422
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहसः सहस्विनः मध्वः मदकराः सोमाः द्युक्षं दीप्यमाने द्युलोके क्षियंतं निवसंतं पर्वतावृधं मेघानां पर्वतानां वा वर्धयितारं हर्म्यस्य शत्रुपुरस्य सक्षणिम् अभिभवितारमिंद्रं परि षिंचंति । तथा सुहुतादः सुहुतानां हविषां भक्षयितारः गावः मूर्धन् मूर्धनि समुच्छ्रिते ऊधनि पयोधारके स्थाने स्थितम् अग्रियं मुख्यं पयः वरीमभिः उरुत्वैर्महत्त्वैः यस्मिन् पवमानगुणविशिष्ट इंद्रे आ श्रीणंति आमिश्रयंति । दध्ना पयसा च सोमं श्रीणंति खलु । तदुच्यते ॥
+
+##### Gist of the bhāṣya
+
+The mighty, intoxicating Soma juices sprinkle all around Indra, who dwells in the shining heaven, who is the augmenter of the clouds or of the mountains, and who is the overcomer of the city of the enemy. Likewise the cows, the eaters of the well-offered oblations, mix, in him who is distinguished by the quality of Pavamāna, Indra, with his greatnesses, with his vastnesses, the best milk that stands in the uplifted udder, the place that holds the milk. For they do mix Soma with curds and with milk; this is what is said.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्मिन् (*yasmin*)—in which Indra
+- वरीमभिः (*varīmabhiḥ*)—for the sake of his greatness
+- सुहुतादः (*suhutādaḥ*)—which eat the excellent oblation
+- गावः (*gāvaḥ*)—the cows
+- मूर्धन् (*mūrdhan*)—situated in the uplifted place
+- ऊधनि (*ūdhani*)—situated in the region of the udder
+- अग्रियं (*agriyaṃ*)—the best milk
+- आ श्रीणंति (*ā śrīṇaṃti*)—mix, such a one
+- द्युक्षं (*dyukṣaṃ*)—in the shining heaven
+- क्षियंतं (*kṣiyaṃtaṃ*)—who dwells
+- पर्वतावृथं (*parvatāvṛthaṃ*)—who augments the clouds **NOTE**
+- हर्मस्य (*harmasya*)—the cities of the Asuras **NOTE**
+- सक्षणिं (*sakṣaṇiṃ*)—who destroys, such Indra
+- सहसः (*sahasaḥ*)—the Soma juices which are full of strength
+- मध्वः (*madhvaḥ*)—and are intoxicating
+- परि षिंचंति (*pari ṣiṃcaṃti*)—sprinkle all around
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, full of strength and intoxicating, sprinkle all around Indra, who is of the form of Pavamāna, in whom, by reason of his greatness, the cows that eat the excellent oblation mix the excellent milk of the region of the udder situated in the uplifted place, and who dwells in the shining heaven, augments the clouds and destroys the cities of the Asuras.
+
+##### English translation
+The powerful exhilarating Soma-juices besprinkle Indra who dwells in heaven, the augmenter of the clouds, the destroyer of the dwelling (of the foe) ; in whom, on account of his greatnesses, the cows, the eaters of the oblations, mix the best (of their milk contained) in the uplifted udder.
+
+### Printed p. 423
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समी॒ रथं॒ न भु॒रिजो॑रहेषत॒ दश॒ स्वसा॑रो॒ अदि॑तेरु॒पस्थ॒ आ ।  
+> जिगा॒दुप॑ ज्रयति॒ गोर॑पी॒च्यं॑ प॒दं यद॑स्य म॒तुथा॒ अजी॑जनन् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । ईमिति । रथम् । न । भुरिजोः । अहेषत । दश । स्वसारः । अदितेः । उपऽस्थे । आ ।  
+> जिगात् । उप । ज्रयति । गोः । अपीच्यम् । पदम् । यत् । अस्य । मतुथाः । अजीजनन् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> भुरिजोः । बाहुनामैतत् । बिभ्रति पदार्थानाभ्यामिति । तयोर्बाह्वोः दश दशसंख्याकाः स्वसारः सर्वत्रसरणशीला अंगुलयः अदितेः भूमेः उपस्थे समीपे देवयजनदेशे ईम् एनं सोमम् आ आभिमुख्येन सम् अहेषत संप्रेरयंति । ' हि वर्धनगत्योः । लुङि रूपम् । कथमिव । रथं न । रथं यथांगुलयः प्रेरयंति तद्वत् । स सोमः जिगात् पात्राणि गच्छति । किंच गोः धेनोः अपीच्यम् अंतर्हितं पयः उप ज्रयति तदानीमुपगच्छति । यत् यदा मतुथाः मननीयगाथावंतः स्तोतारः अस्य सोमस्य पदं स्थानम् अजीजनन् जनयंति तदानीमित्यर्थः ॥ ॥ २५ ॥
+> अभिष्टवे ‘ श्येनो न योनिम्' इत्येषा । सूत्रितं च--- संप्रेषितः श्येनो न योनिं सदनं धिया कृतम्' (आश्व. श्रौ. ४. ७) इति । अग्नीषोमप्रणयनेऽप्येषा । सूत्रितं च-‘अंतश्च प्रागा अदितिर्भवासि श्येनो न योनिं सदनं धिया कृतम्' (आश्व. श्रौ. ४. १०) इति ॥
+
+##### Gist of the bhāṣya
+
+भुरिजोः (*bhurijoḥ*) is a name of the arms, for they bear things. The ten fingers of those two arms, which move everywhere, in the lap of Aditi, the Earth, that is, near it, at the place of the divine sacrifice, drive this Soma forward, facing him. The illustration is "like a chariot": as the fingers drive a chariot. That Soma goes to the vessels. Further, he then approaches the hidden milk of the cow, when the praisers who have thoughtful verses produce the place of this Soma. The application (viniyoga): in the abhiṣṭava the ṛk श्येनो न योनिम् (*śyeno na yonim*) is used, and it is laid down in the sūtra: संप्रेषितः श्येनो न योनिं सदनं धिया कृतम् (*saṃpreṣitaḥ śyeno na yoniṃ sadanaṃ dhiyā kṛtam*) (Āśv. Śrau. 4. 7). This ṛk is also used at the Agnīṣoma-praṇayana, and it is laid down in the sūtra: अंतश्च प्रागा अदितिर्भवासि श्येनो न योनिं सदनं धिया कृतम् (*aṃtaśca prāgā aditirbhavāsi śyeno na yoniṃ sadanaṃ dhiyā kṛtam*) (Āśv. Śrau. 4. 10). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुरिजोः (*bhurijoḥ*)—of the arms
+- दश स्वसारः (*daśa svasāraḥ*)—the ten fingers
+- अदितेः (*aditeḥ*)—of the Earth
+- उपस्थे (*upasthe*)—in the place of sacrifice, which is the region near
+- ईं (*īṃ*)—this Soma
+- रथं न (*rathaṃ na*)—like a chariot
+- आ समहेषत (*ā samaheṣata*)—drive all around
+- यत् (*yat*)—when
+- मतुथाः (*matuthāḥ*)—the venerable praisers
+- अस्य (*asya*)—for this Soma
+- पदं (*padaṃ*)—the place
+- अजीजनन् (*ajījanan*)—produce, then
+- जिगात् (*jigāt*)—it enters the vessels
+- गोः (*goḥ*)—of the cow
+- अपीच्यं (*apīcyaṃ*)—the hidden milk also
+- उप ज्रयति (*upa jrayati*)—it approaches
+
+##### भावार्थ (Bhāvārtha)
+
+The ten fingers of the arms drive this Soma all around like a chariot, in the place of sacrifice, which is the region near the Earth. When the venerable praisers produce the place for this Soma,
+
 ---
 
-**Progress note:** Done through printed p. 417. Ṛk 7-10 of Sūkta 70 and Sūkta 71 Ṛk 1, pp. 412-417
+**Progress note:** Done through printed p. 423. Sūkta 71 Ṛk 1-5 (cut mid-Bhāvārtha), pp. 418-423
