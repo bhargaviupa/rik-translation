@@ -8582,6 +8582,267 @@ Hero, when you desire to give, neither gods nor men can stay you, as (they canno
 
 O our people, come at once, quickly. To do what? To praise Indra. Of what kind is he? वस्वः वसुनः धनस्य ईशानं स्वामिनं (*vasvaḥ vasunaḥ dhanasya īśānaṃ svāminaṃ*), lord of wealth; स्वराजं स्वयमेव राजमानं (*svarājaṃ svayameva rājamānaṃ*), shining of himself, or shining in heaven (स्वर्गे राजमानं वा (*svarge rājamānaṃ vā*)). May no other wealthy man oppress us, who are favoured by Indra, with wealth (राधसा धनेनान्यो धनी न मर्धिषत् न बाधताम् (*rādhasā dhanenānyo dhanī na mardhiṣat na bādhatām*)). The meaning is: we praise him for the prosperity even of the wealthy who are like ourselves.
 
+### Printed p. 211
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O people) वस्वः (*vasvaḥ*)—of all wealth
+- ईशानं (*īśānaṃ*)—who is the lord
+- स्वराजं (*svarājaṃ*)—who is self-resplendent
+- इंद्रं (*iṃdraṃ*)—Indra
+- स्तवाम (*stavāma*)—let us praise
+- नु (*nu*)—quickly
+- एतो (*eto*)—be pleased to come
+- नः (*naḥ*)—us
+- राधसा (*rādhasā*)—by pride of wealth
+- न मर्धिषत् (*na mardhiṣat*)—let no one harm
+
+##### भावार्थ (Bhāvārtha)
+
+O people, let us praise Indra, who is lord of all wealth and self-resplendent; be pleased to come quickly. Let no one harm us by the pride of his wealth.
+
+##### English translation
+Hasten hither, let us glorify Indra the lord of wealth, the self-resplendent, let none vex us by his wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+That in the first paryāya, in the śastra mantras recited by the priest called Acchāvāka, three Ṛks beginning with एतो न्विंद्रं (*eto nviṃdraṃ*) are to be recited, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra एतो न्विंद्रं स्तवामेशानं मा नो अस्मिन्मघवन् (*eto nviṃdraṃ stavāmeśānaṃ mā no asminmaghavan*) (Ā. 6-4).
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र स्तो॑ष॒दुप॑ गासिष॒च्छ्रव॒त्साम॑ गी॒यमा॑नम् ।  
+> अ॒भि राध॑सा जुगुरत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । स्तोषत् । उप । गासिषत् । श्रवत् । साम । गीयमानम् ।  
+> अभि । राधसा । जुगुरत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पूर्वमंत्रे स्तवामेत्युक्तम् । तदेव स्तोत्रमिंद्रः प्र स्तोषत् । प्रस्तुत्वा च गासिषत् उपगानं च करोतु । तदर्थं गीयमानं साम स्तोत्रं श्रवत् शृणोतु । राधसा धनेन च युक्तोऽस्मान अभि जुगुरत् अभिगृणातु स्वीकुर्विति ॥ ॥ ३७ ॥ (ग-पुस्तकेऽस्य मंत्रस्य भाष्यमेवं विद्यते-सोता इंद्रं प्रस्तोतु। उपगासिषदुपगानं च करोतु । गीयमानं साम श्रवत् शृणोतु । राधसा धनेन प्रसाधनेन वा युक्तोऽस्मानभिजुगुरदभिगृणातु स्वीकुर्विति ।)
+
+##### Gist of the bhāṣya
+
+In the previous mantra स्तवाम (*stavāma*) was said. May Indra himself praise that very hymn (प्र स्तोषत् (*pra stoṣat*)), and having praised, may he also sing the accompanying chant (गासिषत् उपगानं (*gāsiṣat upagānaṃ*)). For that purpose may he hear (श्रवत् शृणोतु (*śravat śṛṇotu*)) the sāman hymn that is being sung. Endowed with wealth (राधसा धनेन च युक्तोऽस्मान (*rādhasā dhanena ca yukto 'smāna*)), may he take us up, approve us (अभि जुगुरत् अभिगृणातु स्वीकुर्विति (*abhi jugurat abhigṛṇātu svīkurviti*)). In the Ga manuscript the bhāṣya of this mantra reads: may the Soma-presser praise Indra (सोता इंद्रं प्रस्तोतु (*sotā iṃdraṃ prastotu*)) and sing the accompaniment; may Indra hear the sāman being sung; endowed with wealth or with accomplishment (राधसा धनेन प्रसाधनेन वा (*rādhasā dhanena prasādhanena vā*)), may he take us up and approve us.
+### Printed p. 212
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (इंद्रः (*iṃdraḥ*)—Indra)
+- प्र स्तोषत् (*pra stoṣat*)—may he praise excellently
+- उप गासिषत् (*upa gāsiṣat*)—may he sing along with us
+- गीयमानं (*gīyamānaṃ*)—that which is being sung by us
+- सामु (*sāmu*)—the hymn in the form of a sāman
+- श्रवत् (*śravat*)—may he hear
+- राधसा (*rādhasā*)—endowed with wealth, us
+- अभि जुगुरत् (*abhi jugurat*)—may he accept
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra also praise excellently along with us. May he sing along with us. May he hear the hymn in the form of a sāman that is being sung by us. May he accept us, who are endowed with wealth.
+
+##### English translation
+May (Indra) sing the prelude, may he sing the accompaniment, may he listen to our hymn as it is chanted; may he, endowed with wealth, accept us favourably.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ भर॒ दक्षि॑णेना॒भि स॒व्येन॒ प्र मृ॑श ।  
+> इंद्र॒ मा नो॒ वसो॒र्निर्भा॑क् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । भर । दक्षिणेन । अभि । सव्येन । प्र । मृश ।  
+> इंद्र । मा । नः । वसोः । निः । भाक् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नः अस्मभ्यम् आ भर । आहृत्य दक्षिणेन सव्येन च हस्तेनोभाभ्यां हस्ताभ्याम् अभि प्र मृश । प्रयच्छेत्यर्थः। नः अस्मान् वसोः धनात् मा निर्भाक् मा निर्भाक्षीः ॥
+> द्वितीये पर्यायेऽच्छावाकशस्त्रे ‘उप क्रमस्व' इति तृचः । सूत्रितं च--- उप क्रमस्वा भर धृषता तदस्मै नव्यम्' (आश्व. श्रौ. ६. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, bring to us (आ भर आहृत्य (*ā bhara āhṛtya*)): having brought it, with the right hand and with the left, with both hands, give it (अभि प्र मृश प्रयच्छ (*abhi pra mṛśa prayaccha*)). Do not deprive us of wealth (वसोः धनात् मा निर्भाक् मा निर्भाक्षीः (*vasoḥ dhanāt mā nirbhāk mā nirbhākṣīḥ*)). In the second paryāya, in the Acchāvāka śastra, there is the tṛca उप क्रमस्व (*upa kramasva*). So it is stated in the sūtra: उप क्रमस्वा भर धृषता तदस्मै नव्यम् (*upa kramasvā bhara dhṛṣatā tadasmai navyam*) (Āśv. Śrau. 6. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—to us
+- दक्षिणेन (*dakṣiṇena*)—with the right hand
+- आ भर (*ā bhara*)—bring wealth
+- सव्येन (*savyena*)—with the left hand
+- अभि प्र मृश (*abhi pra mṛśa*)—give to us
+- नः (*naḥ*)—us
+- वसोः (*vasoḥ*)—from wealth
+- मा निर्भाक् (*mā nirbhāk*)—do not make separated
+### Printed p. 213
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bring wealth to us with the right hand. Give to us with the left hand. Do not make us separated from wealth.
+
+##### English translation
+Bring us (gifts) with your right hand, and with your left bestow them on us; exclude us not, Indra, from wealth.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ क्रम॒स्वा भ॑र धृष॒ता धृ॑ष्णो॒ जना॑नाम् ।  
+> अदा॑शूष्टरस्य॒ वेदः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । क्रमस्व । आ । भर । धृषता । धृष्णो इति । जनानाम् ।  
+> अदाशूःऽतरस्य । वेदः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वम् उप क्रमस्व धनं प्रत्युपगच्छ । प्रवृत्तो भव वा दातुम् । हे धृष्णो धर्षक शत्रूणां धृषता धृष्टेन चेतसा युक्तः सन् आ भर आहर च । कस्य धनमाहरेति उच्यते । जनानां मध्ये अदाशूष्टरस्य अत्यंतमदातृतमस्य वेदः धनम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, approach the wealth (उप क्रमस्व धनं प्रत्युपगच्छ (*upa kramasva dhanaṃ pratyupagaccha*)), or be ready to give (प्रवृत्तो भव वा दातुम् (*pravṛtto bhava vā dātum*)). O bold one (धृष्णो धर्षक शत्रूणां (*dhṛṣṇo dharṣaka śatrūṇāṃ*)), assailant of enemies, being furnished with a bold mind (धृषता धृष्टेन चेतसा युक्तः सन् (*dhṛṣatā dhṛṣṭena cetasā yuktaḥ san*)), bring it (आ भर आहर (*ā bhara āhara*)). If it is asked whose wealth he should bring, it is said: among people, the wealth of him who is most utterly ungiving (जनानां मध्ये अदाशूष्टरस्य अत्यंतमदातृतमस्य वेदः धनम् (*janānāṃ madhye adāśūṣṭarasya atyaṃtamadātṛtamasya vedaḥ dhanam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धृष्णो (*dhṛṣṇo*)—O Indra, crusher of enemies
+- उप क्रमस्व (*upa kramasva*)—approach the enemy's wealth
+- जनानां (*janānāṃ*)—among men
+- अदाशूष्टरस्य (*adāśūṣṭarasya*)—of him who does not give
+- वेदः (*vedaḥ*)—wealth
+- धृषता (*dhṛṣatā*)—by your firm strength
+- आ भर (*ā bhara*)—bring
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, crusher of enemies, approach the enemy's wealth. Bring by your firm strength the wealth of him among men who does not give.
+### Printed p. 214
+
+##### English translation
+Come hither, and bring us, daring one, with your resolute (mind), the wealth of him who is pre-eminently a niggard amongst men.
+
+##### विशेषविषयगळु (Special Topics)
+
+That in the second paryāya, in the śastra mantras recited by the priest called Acchāvāka, three Ṛks beginning with उप क्रमस्व (*upa kramasva*) are to be recited, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra उप क्रमस्वा भर धृषता तदस्मै नव्यं (*upa kramasvā bhara dhṛṣatā tadasmai navyaṃ*) (Ā. 6-4).
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ य उ॒ नु ते॒ अस्ति॒ वाजो॒ विप्रे॑भिः॒ सनि॑त्वः ।  
+> अ॒स्माभिः॒ सु तं स॑नुहि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्र । यः । ऊं इति । नु । ते । अस्ति । वाजः । विप्रेभिः । सनित्वः ।  
+> अस्माभिः । सु । तम् । सनुहि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यः वाजः अन्नं विप्रेभिः मेधाविभिः सनित्वः संभजनीयः ते तव अस्ति तं वाजम् अस्माभिः याचितः सन् अस्मभ्यं वा सु सुष्ठु सनुहि देहि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, the food (वाजः अन्नं (*vājaḥ annaṃ*)) that is yours, which is to be shared in by the wise (विप्रेभिः मेधाविभिः सनित्वः संभजनीयः (*viprebhiḥ medhāvibhiḥ sanitvaḥ saṃbhajanīyaḥ*)), that food, when asked by us, give to us well (अस्माभिः याचितः सन् अस्मभ्यं वा सु सुष्ठु सनुहि देहि (*asmābhiḥ yācitaḥ san asmabhyaṃ vā su suṣṭhu sanuhi dehi*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—in you
+- यः उ (*yaḥ u*)—which
+- वाजः (*vājaḥ*)—food
+- विप्रेभिः (*viprebhiḥ*)—by the wise
+- सनित्वः (*sanitvaḥ*)—being esteemed
+- अस्ति (*asti*)—is
+- तं (*taṃ*)—that food
+- अस्माभिः (*asmābhiḥ*)—when asked by us
+- सु (*su*)—exceedingly
+- सनुहि (*sanuhi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the wealth that is in you, which all the wise praise and esteem, that wealth give to us when we ask you.
+### Printed p. 215
+
+##### English translation
+O Indra, give us abundantly that wealth which is yours, and which is to be obtained by the wise (worshippers).
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒द्यो॒जुव॑स्ते॒ वाजा॑ अ॒स्मभ्यं॑ वि॒श्वश्चं॑द्राः ।  
+> वशै॑श्च म॒क्षू ज॑रंते ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सद्यःऽजुवः । ते । वाजाः । अस्मभ्यम् । विश्वऽचंद्राः ।  
+> वशैः । च । मक्षु । जरंते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव वाजाः अस्मभ्यं सद्योजुवः शीघ्रं गंतारो भवंतु । कीदृशास्ते । विश्वचंद्राः सर्वहिरण्योपेता बहूनामाह्लादका वा । अस्मदीयाश्च जनाः वशैः कामैरनेकैर्युक्ताः मक्षु शीघ्रं जरंते स्तुवंति ॥ ॥ ३८ ॥
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये
+> षष्ठाष्टके पंचमोऽध्यायः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may your food-offerings (वाजाः (*vājāḥ*)) become fast-going to us (सद्योजुवः शीघ्रं गंतारो भवंतु (*sadyojuvaḥ śīghraṃ gaṃtāro bhavaṃtu*)). Of what kind are they? विश्वचंद्राः सर्वहिरण्योपेता बहूनामाह्लादका वा (*viśvacaṃdrāḥ sarvahiraṇyopetā bahūnāmāhlādakā vā*): provided with all gold, or delighting many. And our people, furnished with many desires (वशैः कामैरनेकैर्युक्ताः (*vaśaiḥ kāmairanekairyuktāḥ*)), quickly praise you (मक्षु शीघ्रं जरंते स्तुवंति (*makṣu śīghraṃ jaraṃte stuvaṃti*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) वशैः (*vaśaiḥ*)—our people, fulfilled in their desires
+- मुक्षु (*mukṣu*)—quickly
+- जरंते (*jaraṃte*)—praise you
+- ते (*te*)—your
+- विश्वचंद्राः (*viśvacaṃdrāḥ*)—delightful to all
+- वाजाः (*vājāḥ*)—foods
+- अस्मभ्यं (*asmabhyaṃ*)—to us
+- सद्योजुवः (*sadyojuvaḥ*)—may they come quickly
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, our people, furnished with many desires, praise you quickly. May your foods, delightful to all, come to us quickly.
+
+##### English translation
+May your all-rejoicing riches speedily come to us; full of desires, men immediately offer their praises.
+### Printed p. 216
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan ‖*)
+पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपाल साम्राज्यधरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpāla sāmrājyadharaṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa*)
+ऋक्संहिताभाष्ये षष्ठाष्टके पंचमोध्यायः ॥ (*ṛksaṃhitābhāṣye ṣaṣṭhāṣṭake paṃcamodhyāyaḥ ‖*)
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+Here ends the fifth chapter in the sixth Aṣṭaka of the Ṛgveda-Saṃhitā, with Sāyaṇa's Bhāṣya and a Kannada translation.
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*)
+तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते । (*tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute |*)
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*)
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+॥ श्री ॥ (*‖ śrī ‖*)
+॥ श्री महागणाधिपतये नमः ॥ (*‖ śrī mahāgaṇādhipataye namaḥ ‖*)
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*)
+यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*)
+निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*)
+तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*tasmātsarvaprayatnena vedameva sadā japet ‖*)
+Ṛgveda-Saṃhitā with Sāyaṇa's Bhāṣya.
+अथ षष्ठाष्टके षष्ठोऽध्यायः (*atha ṣaṣṭhāṣṭake ṣaṣṭho 'dhyāyaḥ*)
+The sixth chapter in the sixth Aṣṭaka. The eighty-second sūkta in the eighth maṇḍala.
+## Sūkta 82 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीगणेशाय नमः ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरम् ॥
+> ‘आ प्र द्रव' इति नवर्चं द्वितीयं सूक्तम् । तथा चानुक्रम्यते- ‘ आ प्र द्रव ' इति । ‘ऋषिश्चान्यस्मात् ' इति परिभाषया काण्वः कुसीद्यृषिः । प्राग्वत्सप्रीयपरिभाषया गायत्री छंदः । अनादेशपरिभाषयेंद्रो देवता । महाव्रते निष्केवल्ये सूक्तविनियोग उक्तः । द्वितीये रात्रिपर्याये मैत्रावरुणशस्त्रे ‘आ प्र द्रव ' इति तृचोऽनुरूपः । सूत्रितं च- ‘ आ प्र द्रव परावतो नह्यन्यं बळाकरमित्यष्टौ ' ( आश्व. श्रौ. ६. ४ ) इति ।
+
+##### Gist of the bhāṣya
+
+Salutation to Gaṇeśa. Sāyaṇa bows to Vidyātīrtha-Maheśvara, from whose breath the Vedas came and who made the whole world out of the Vedas. The second sūkta, of nine Ṛks, is the one beginning आ प्र द्रव (*ā pra drava*); the Anukramaṇikā says: आ प्र द्रव (*ā pra drava*). By the rule ऋषिश्चान्यस्मात् (*ṛṣiścānyasmāt*) the seer is Kusīdin of the Kaṇva family (काण्वः कुसीद्यृषिः (*kāṇvaḥ kusīdyṛṣiḥ*)); by the rule प्राग्वत्सप्रीयपरिभाषया (*prāgvatsaprīyaparibhāṣayā*) the metre is Gāyatrī (गायत्री छंदः (*gāyatrī chaṃdaḥ*)); by the rule अनादेशपरिभाषयेंद्रो देवता (*anādeśaparibhāṣayeṃdro devatā*) the deity is Indra. The use of the sūkta in the Niṣkevalya śastra of the Mahāvrata has been stated. In the second rātri-paryāya, in the Maitrāvaruṇa śastra, the tṛca आ प्र द्रव (*ā pra drava*) is the Anurūpa. So it is stated in the sūtra: आ प्र द्रव परावतो नह्यन्यं बळाकरमित्यष्टौ (*ā pra drava parāvato nahyanyaṃ baḷākaramityaṣṭau*) (Āśv. Śrau. 6. 4).
+
 ---
 
-**Progress note:** Done through printed p. 210. Maṇḍala 8 sūkta 80 Ṛk 9-10, sūkta 81 Ṛk 1-4
+**Progress note:** Done through printed p. 216. Maṇḍala 8 sūkta 81 Ṛk 4-9, end of adhyāya 5, start of sūkta 82
