@@ -9635,7 +9635,7 @@ The auspicious Surya rises, the eye of all, the common (parent) of men : the div
 English Translation
 The animator of men arises, the great rain-shedding banner of Surya rolling on the universal wheel, which the white steeds yoked to his car drag along.
 ಸಂಹಿತಾಪಾಠಃ
-ವಿಭ್ರಾಜಮಾನ ಉಷಸಾಮುಪಸ್ಥಾದ್ರೇಭೈರುದೇತ್ಯನುಮದ್ಯಮಾನ�ः |
+ವಿಭ್ರಾಜಮಾನ ಉಷಸಾಮುಪಸ್ಥಾದ್ರೇಭೈರುದೇತ್ಯನುಮದ್ಯಮಾನ�ಃ |
 ಏಷ ಮೇ ದೇವಃ ಸವಿತಾ ಚಚ್ಛಂದ ಯಃ ಸಮಾನಂ ನ ಪ್ರಮಿನಾತಿ ಧಾಮ ‖
 ಪದಪಾಠಃ
 ವಿಭ್ರಾಜಮಾನಃ | ಉಷಸಾಂ | ಉಪಸ್ಥಾತ್ | ರೇಭೈಃ | ಉತ್ | ಏತಿ | ಅನುಮದ್ಯಮಾನಃ |
