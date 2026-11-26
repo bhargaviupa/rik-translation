@@ -2,3 +2,4 @@
 - 2026-11-26: Vol 28 p. 101 (Sūkta 46, Ṛk 1): two stray empty labels (Saṃhitā-pāṭha, Pada-pāṭha) before the real labels in the Kannada file turned into an italic note, so that label counts equal (VERIFY FAIL of w0097).
 - 2026-11-26: Vol 28 pp. 116, 117, 119, 120 (Sūkta 46, Ṛks 3-6): the window put the Saṃhitā label before the Ṛk heading; the build produced two extra Ṛk headings and an empty Saṃhitā heading before each verse. Removed (tools-less regex repair of the output file); VERIFY FAIL of w0115 (54 labels in Kannada, 58 in English).
 - 2026-11-26: Vol 28 w0212: two Cyrillic letters (р, е) in the Latin word 'nare' replaced by Latin letters.
+- 2026-11-26: Vol 28 w0446 (pp. 446-451): the window skipped block number 5 (Saṃhitā of Ṛk 2); all later block references lowered by one and the missing bhāṣya block b15 placed.

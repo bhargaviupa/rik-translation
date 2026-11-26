@@ -15076,6 +15076,256 @@ Rishis, sons of the gods, this (Nabhanedishtha) addresses to you in
 the house of (sacrifice) his bendiction ; here it : may divine splendour,
 Angirasas, be yours : welcome, sages the, son of Manu.
 
+### Printed p. 452
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विरू॑पास॒ इदृष॑य॒स्त इद्गं॑भी॒रवे॑पसः ।  
+> ते अंगि॑रसः सू॒नव॒स्ते अ॒ग्नेः परि॑ जज्जिरे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विरूपासः । इत् । ऋषयः । ते । इत् । गंभीरवेपसः ।  
+> ते । अंगिरसः । सूनवः । ते । अग्नेः । परि । जज्जिरे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परोक्षतयर्षिराह । ऋषयः कर्मणां द्रष्टार एत ऋषयो विरूपास
+> इदन्योन्यं वर्णतो रूपतश्च नानारूपा भवंति । त इत्त एवामी अंगिरसो
+> गंभीरवेपसः । वेप इति कर्मनाम । गंभीरकर्माणो भवंति । त इमेऽंगिरसः
+> सूनवः पुत्राः खलु । तदेवाह । त इमेऽगिरसोऽग्नेः परि जज्जिरे। सर्वतो जाताः
+> प्रादुर्भूताः । येऽंगारा आसंस्थेऽंगिरसोऽभवन्। ऐ. ब्रा. ३-३४ । इति ब्राह्मणं ।
+> अत्र निरुक्तं च द्रष्टव्यं। नि. ३-१७ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains the Ṛk indirectly, speaking of the seers. The seers, who see the rites, are विरूपास इत् (*virūpāsa it*), that is, they differ from one another in colour and in form. त इत् (*ta it*) means "these very" Aṅgirases, who are गंभीरवेपसः (*gaṃbhīravepasaḥ*): वेप (*vepa*) is a name for work, so they are of profound works. These Aṅgirases are indeed sons. He states it: these Aṅgirases were born around Agni, that is, came forth on every side. He quotes the Brāhmaṇa: येऽंगारा आसंस्थेऽंगिरसोऽभवन् (*ye 'ṃgārā āsaṃsthe 'ṃgiraso 'bhavan*) (Ai. Brā. 3-34), and adds that the Nirukta (Ni. 3-17) is to be consulted here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषयः (*ṛṣayaḥ*)—the seers
+- विरूपास इत् (*virūpāsa it*)—they are of many forms, in colour, in form and in shape
+- त इत् (*ta it*)—(therefore) these Aṅgirases
+- गंभीरवेपसः (*gaṃbhīravepasaḥ*)—engaged in profound or deep sacrificial rites and observances
+- ते अंगिरसः (*te aṃgirasaḥ*)—these Aṅgirasa seers
+- अग्नेः (*agneḥ*)—to Agni
+- सूनवः (*sūnavaḥ*)—as sons
+- परि जज्जिरे (*pari jajjire*)—have been born
+
+##### भावार्थ (Bhāvārtha)
+
+The seers are of various kinds in colour, form and shape. These Aṅgirases are engaged in deep sacrificial rites. These Aṅgirases are sons of Agni, that is, they have been born as Agni's sons.
+
+##### English translation
+These Rirhis, however different in form, are verily of profound piety: they are the Angirasas who have been born as the sons of Agni.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining the form-derivation of the word Aṅgiras, Yāska says अंगारेष्टंगिराः । अंगारा अंकनाः ॥ (*aṃgāreṣṭaṃgirāḥ | aṃgārā aṃkanāḥ ‖*) (Ni. 3-17). That is, they got the name Aṅgirāḥ because they were born in the aṅgāras (embers).
+### Printed p. 453
+What is an aṅgāra? Where it is placed, the place turns black, hence the name अंकनाः (*aṃkanāḥ*). Having said this, he explains the present Ṛk thus: बहुरूपा ऋषयस्ते गंभीरकर्माणो वा गंभीरप्रज्ञा वा ते अंगिरसः पुत्रास्ते अग्नेरधिजज्निर इत्यग्निजन्म ॥ (*bahurūpā ṛṣayaste gaṃbhīrakarmāṇo vā gaṃbhīraprajñā vā te aṃgirasaḥ putrāste agneradhijajnira ityagnijanma ‖*) (Ni. 11-17).
+When Prajāpati desired the deity of heaven or the deity Uṣas, his semen fell on the earth and stood in the form of a great lake. When the gods kindled it with the help of Vaiśvānara Agni, from that blazing fire Āditya, Bhṛgu and the Aṅgirases were born; this is known from the narrative of the Aitareya Brāhmaṇa (Ai. Brā. 13-34). Because they were born of fire or of embers, these seers got the name Aṅgirasas, and they are also called sons of Agni. That is what is said here: these seers are बहुरूपाः (*bahurūpāḥ*), of many kinds of form; गंभीरवेपसः (*gaṃbhīravepasaḥ*) means doers of profound works, or of immeasurable intelligence. This is the meaning of the explanation.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये अ॒ग्नेः परि॑ जज्जि॒रे विरू॑पासो दि॒वस्परि॑ ।  
+> नव॑गो॒ नु दश॑गो॒ अंगि॑रस्तमः॒ सचा॑ दे॒वेषु॑ मंहते ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । अग्नेः । परि । जज्जिरे । विरूपासः । दिवः । परि ।  
+> नवग्वः । नु । दशग्वः । अंगिरःतमः । सचा । देवेषु । मंहते ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विरूपासो विविधरूपा येऽज्जिरसो दिवस्परि द्युलोकादग्नेः परि जज्जिरे
+> परितो जाताः । यद्वा । दिवस्परि । परिः पंचम्यर्थद्योतकः । स्वतेजसा दीप्यमानादग्नेर्जाताः। तेषां मध्यॆ नवगो दशग्वश्चांगिरस्तमोऽंगिरसां वरिष्ठः। सत्रमासीनानामंगिरसां मध्यॆ केचन नवसु मास्सु कर्म कृत्योदतिष्मन् केचन दशसु
+> मास्त्वत्येवमंगिरसामयनमुक्तं । तेषामग्निर्नवग्वश्च दशग्वश्चोक्तः । तादृशो
+> देवेषु सचा सहावस्थितः सोऽग्निर्मंहते । मह्यं धनं प्रयच्छति । मंहतिर्दानकर्मा ॥
+
+##### Gist of the bhāṣya
+
+The Aṅgirases of various forms who were born around Agni from the heaven-world. Or else, दिवस्परि (*divaspari*): परि (*pari*) indicates the ablative sense; they were born of Agni shining with his own radiance. Among them नवग्व (*navagva*) and दशग्व (*daśagva*) are the foremost of the Aṅgirases. Of the Aṅgirases sitting at a sattra, some rose after performing the rite for nine months, some after ten; thus the Aṅgirases' session is described. Of them Agni is called navagva and daśagva. Such an Agni, abiding with the gods, मंहते (*maṃhate*): gives me wealth; मंहति (*maṃhati*) is a verb of giving.
+### Printed p. 454
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विरूपासः (*virūpāsaḥ*)—having many kinds of forms
+- ये अंगिरसः (*ye aṃgirasaḥ*)—which Aṅgirasa seers
+- दिवः परि (*divaḥ pari*)—in the upper part of the heaven-world
+- अग्नेः (*agneḥ*)—from Agni
+- परि जज्जिरे (*pari jajjire*)—were born (among such Aṅgirasa seers)
+- नवग्वः (*navagvaḥ*)—those who completed the sattra in nine months
+- दशग्वः (*daśagvaḥ*)—those who completed the sattra in ten months
+- अंगिरस्तमः (*aṃgirastamaḥ*)—the foremost among the Aṅgirases are there
+- देवेषु सचा (*deveṣu sacā*)—Agni, who is with the gods
+- मंहते (*maṃhate*)—gives me wealth
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirasa seers of many forms were born of Agni in the heaven-world. Some of them completed the sattra (to be done in a year) in nine months, some in ten months, and gained fame as the foremost of the Aṅgirases. Agni, who is with the gods, graciously gives me wealth and the like.
+
+##### English translation
+Among those who have sprung from Agni is many forms, (and sprung) from heaven, the chief Angirasas, the celebrator of the nine-month rite, the celebrator of the ten-month rite, accompanied by the gods bestows (upon me wealth).
+
+##### विशेषविषयगळु (Special Topics)
+
+For an explanation of the words navagva and daśagva, see Ṛ. Saṃ. pages 18-534 and 19-501.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रे॑ण यु॒जा निः सृ॑जंत वा॒घतो॑ व्र॒जं गोमं॑तम॒श्विनं॑।  
+> स॒हस्रं॑ मे॒ दद॑तो अष्टक॒र्ण्य१॒॑१ः श्रवो॑ दे॒वेष्व॑क्रत ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रेण । युजा । निः । सृजंत । वाघतः । व्रजं । गोऽमंतं । अश्विनं ।  
+> सहस्रं । मे । ददतः । अष्टकर्ण्यः । श्रवः । देवेषु । अक्रत ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाघतः कर्मणां वोढारो विश्वे देवा अंगिरसो वेंद्रेण युजा सहायेन निः सृजंत । निरगमयन् । किं । गोमंतं गोयुक्तमश्विनमश्ववंतं पणिभि-
+
+##### Gist of the bhāṣya
+
+The वाघतः (*vāghataḥ*), bearers of the rites, namely all the gods or the Aṅgirases, with Indra as युजा (*yujā*) (helper), निः सृजंत (*niḥ sṛjaṃta*): led out the
+### Printed p. 455
+
+> रवरुद्धं व्रजं । ते मे मां प्रति सहस्रं सहस्रसंख्याकं धनं सत्प्रपरिवेषणमष्टकर्ण्यः ॥ अष्ट इति अशू व्याप्त निष्ठायां रूपं ॥ विस्त्रतकर्णाः । उपलक्षणमेतत् ।
+> व्याप्तसर्वावयवा गाश्च ददतो मह्यं प्रयच्छंतो देवेष्विंद्रादिषु श्रवो हविर्लक्षणमन्नं कीर्तिं वाक्रत अकृषत ॥ करोतेर्लुजि मंत्रे घसेति चेर्लुक् ॥
+> एवं नाभानेदिष्टेनांगिरसः स्तुतास्तस्मै धनं प्रादुः। तदुक्तं शौनकेन। ऋषयोऽ०-
+> गिरसस्तुष्टा यद्ददुर्मानवाय तु । तत्पुण्याय च कर्मणि ये यज्ञेनेत्यकीर्तयत् ॥
+
+##### Gist of the bhāṣya
+
+pen व्रजं (*vrajaṃ*), full of cows and horses, which the Paṇis had confined. Those, giving me a thousand (सहस्रं (*sahasraṃ*)) of wealth, with cattle अष्टकर्ण्यः (*aṣṭakarṇyaḥ*): अष्ट (*aṣṭa*) is a form from the root अशू (*aśū*) in the sense of pervading, with the ending निष्ठा (*niṣṭhā*); that is, broad-eared; this is indicative, meaning with all limbs full-grown. They, giving me cows, अक्रत (*akrata*) made, among the gods, Indra and the others, श्रवः (*śravaḥ*): food in the form of oblation, or renown. Thus the Aṅgirases, praised by Nābhānediṣṭha, gave him wealth. This was said by Śaunaka: — ऋषयोंगिरसस्तुष्टा यद्ददुर्मानवाय तु । तत्पुण्याय च कर्माणि ये यज्ञेनेत्यकीर्तयत् ॥ (*— ṛṣayoṃgirasastuṣṭā yaddadurmānavāya tu | tatpuṇyāya ca karmāṇi ye yajñenetyakīrtayat ‖*)
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाघतः (*vāghataḥ*)—the Viśvedevas or Aṅgirasa seers who carry out the (sacrificial) rite
+- इंद्रेण (*iṃdreṇa*)—by Indra
+- युजा (*yujā*)—and with his help
+- गोमंतं (*gomaṃtaṃ*)—provided with cows
+- अश्विनं (*aśvinaṃ*)—provided with horses
+- व्रजं (*vrajaṃ*)—the herd of cattle
+- निः सृजंत (*niḥ sṛjaṃta*)—they brought out (from the mountain region where they were hidden)
+- मे (*me*)—to me
+- सहस्रं (*sahasraṃ*)—a thousand
+- अष्टकर्ण्यः (*aṣṭakarṇyaḥ*)—cows with long ears
+- ददतः (*dadataḥ*)—wishing to give
+- देवेषु (*deveṣu*)—among the gods, that is, directed to the gods, for completing the sacrifice
+- श्रवः (*śravaḥ*)—food in the form of oblation
+- अक्रत (*akrata*)—offered in the fire
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirasa seers (or the Viśvedevas), the carriers of the sacrifice, with Indra's help freed the herd of cows and horses, which the asuras called Paṇis had stolen and hidden in a secret mountain region, and brought them out of that region. To give me a thousand long-eared cows, those Aṅgirases made offerings directed to the gods and completed the sacrifice.
+
+##### English translation
+The accepters of oblations, with Indra for their associate, have emptied pastures crowded with cows, and horses, giving me a thousand full-grown (cattle), they have gained renown among the gods,
+
+##### विशेषविषयगळु (Special Topics)
+
+This Ṛk refers to the Aṅgirases giving a thousand cows to Nābhānediṣṭha at the conclusion of the sattra they were performing. On this matter the sage Śaunaka says in his work Bṛhaddevatā:
+ऋषयोंगिरसस्तुष्टा यद्ददुर्मानवाय तु । (*ṛṣayoṃgirasastuṣṭā yaddadurmānavāya tu |*)
+तत्पुण्याय च कर्माणि ये यज्ञेनेत्यकीर्तयत् ॥ (*tatpuṇyāya ca karmāṇi ye yajñenetyakīrtayat ‖*)
+### Printed p. 456
+That is, the Aṅgirases, pleased with the mantra recited by Nābhānediṣṭha, gave him cows. Nābhānediṣṭha described this in the present sūkta beginning ये यज्ञेन (*ye yajñena*).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नू॒नं जा॑यताम॒यं मनु॒स्तोक्मे॑व रोहतु ।  
+> यः स॒हस्रं॑ श॒ताश्वं॑ स॒द्यो दा॒नाय॒ मुंह॑ते ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नूनं । जायतां । अयं । मनुः । तोक्मइव । रोहतु ।  
+> यः । सहस्रं । शत्रुअश्वं । सद्यः । दानाय । मंहते ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत्तराभिश्चतसृभिरस्मै मानवायर्षये सावर्णिना यद्दत्तं तत्पशस्यते । तदप्युक्तं शौनकेन । सावर्णिना च यद्दत्तं मानवाय महद्वसु । तदुक्तं सूक्तशेषेण
+> प्र नूनं जायतामिति ॥
+> अयं सावर्णिर्मनुर्नुनं क्षिप्रं प्र जायतां । प्रजातो भवतु धनादिभिः
+> पुत्रादिभिश्च रोहतु । प्रादुर्भवतु । तत्र दृष्टांतः । तोक्मेव । यथा जलक्लिन्नं
+> बीजं प्रादुर्भवति एवं कर्मफलसंयुक्तः स मनुः पुत्रादिभी रोहतु । योऽयं
+> मनुः शताश्वं बहश्वसंयुक्तं सहस्रं गवां सद्यस्तदानीमेव दानाय मंहते ।
+> आस्मा ऋषये दातुं प्रेरयति ॥
+
+##### Gist of the bhāṣya
+
+In the four following Ṛks, what Sāvarṇi gave to this seer, the son of Manu, is praised. Śaunaka also said so: सावर्णिना च यद्दत्तं मानवाय महद्वसु । तदुक्तं सूक्तशेषेण प्र नूनं जायतामिति ॥ (*sāvarṇinā ca yaddattaṃ mānavāya mahadvasu | taduktaṃ sūktaśeṣeṇa pra nūnaṃ jāyatāmiti ‖*) This Sāvarṇi Manu, quickly प्र जायतां (*pra jāyatāṃ*): let him be born forth, and with wealth and sons रोहतु (*rohatu*): let him arise. The illustration is तोक्मेव (*tokmeva*): as a seed soaked in water sprouts, so let that Manu, endowed with the fruit of his works, arise with sons and the rest. This Manu, who सद्यः (*sadyaḥ*) at that very moment impels the giving of a thousand cows with a hundred horses, मंहते (*maṃhate*): urges to give to this seer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं (*ayaṃ*)—this (Manu) called Sāvarṇi
+- मनुः (*manuḥ*)—Manu
+- नूनं (*nūnaṃ*)—quickly
+- प्र जायतां (*pra jāyatāṃ*)—let him be born forth
+- तोक्मेव (*tokmeva*)—as a seed soaked in water quickly sprouts (so may this Sāvarṇi, with wealth and sons)
+- रोहतु (*rohatu*)—let him arise
+- यः (*yaḥ*)—(who) this Manu
+- शताश्वं (*śatāśvaṃ*)—many horses
+- सहस्रं (*sahasraṃ*)—thousands of cows
+- सद्यः (*sadyaḥ*)—right now
+- दानाय (*dānāya*)—for giving to this seer
+- मुंहते (*muṃhate*)—impels
+
+##### भावार्थ (Bhāvārtha)
+
+May this Manu called Sāvarṇi, who impels the giving to this seer of many horses and thousands of cows, accompanied by his sons and wealth, be born forth right now, like a seed soaked in water quickly sprouting.
+### Printed p. 457
+
+##### English translation
+May this Manu (Savarni) quickly be born, may he increase like (well-watered) seed, who sends me at once a thousand and a hundred horses for a present.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk and in the next three Ṛks, there is praise of the gift made to the seer by the Manu called Sāvarṇi. Śaunaka too has said:
+सावर्णिना च यद्दत्तं मानवाय महद्वसु । (*sāvarṇinā ca yaddattaṃ mānavāya mahadvasu |*)
+तदुक्तं सूक्तशेषेण प्र नूनं जायतामिति ॥ (*taduktaṃ sūktaśeṣeṇa pra nūnaṃ jāyatāmiti ‖*)
+That is, the wealth given by the Manu called Sāvarṇi to Nābhānediṣṭha, son of Manu, is praised in the Ṛks of the present sūkta from प्र नूनं जायतां (*pra nūnaṃ jāyatāṃ*) to the end of the sūkta.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न तम॑श्नोति॒ कश्च॒न दि॒व इ॑व॒ सान्वा॒रभं॑ ।  
+> सा॒व॒र्णस्य॒ दक्षि॑णा॒ वि सिंधु॑रिन पप्रथे ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । तं । अश्नोति । कः । चन । दिवःऽइव । सानु । आऽरभं ।  
+> सावर्ण्यस्य । दक्षिणा । वि । सिंधुऽइव । पप्रथे ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं सावर्णीं मनुं कश्चन कश्चिदप्यारभमारुब्धुं स्वकर्मणा नाश्नोति । न व्याप्नोति । यथा मनुः प्रयच्छति तथान्यो दातुं न शक्नोतीत्यर्थः । कथंस्थितं । दिव
+> इव द्युलोकस्य सानु समुच्च्रितं तेजसा कैश्चिदप्यप्रधृष्यमादित्यमिन स्थितं ॥ आरभं ।
+> शकि णमुल्कमुलौ । पा. ३-४-१२. । इति कमुल् ॥ तस्य सावर्ण्यस्य मनोरियं गवादिदक्षिणा सिंधुरिव स्यंदमाना नदीव पृथिव्यां पप्रथे । विपप्रथे । विस्तीर्णा भवति ॥
+
+##### Gist of the bhāṣya
+
+No one कश्चन (*kaścana*) can reach, आरभं (*ārabhaṃ*), that is, climb up to or equal, that Sāvarṇi Manu by his own work; as Manu gives, so another cannot give. How is he placed? Like the सानु (*sānu*), the summit of the heaven-world, lofty, unassailable by any in his radiance, like the Āditya. आरभं (*ārabhaṃ*): with the affix कमुल् (*kamul*) (Pā. 3-4-12). The gift of cows and the rest from that Sāvarṇi Manu has spread out widely over the earth, like a flowing river सिंधु (*siṃdhu*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिव इव (*diva iva*)—like the Āditya shining in heaven
+- सानु (*sānu*)—seated in a lofty place by his own radiance
+- तं (*taṃ*)—that Manu called Sāvarṇi
+- आरभं (*ārabhaṃ*)—to equal in gifts and other works
+- कश्चन (*kaścana*)—no person
+- न अश्नोति (*na aśnoti*)—is able
+- सावर्ण्यस्य (*sāvarṇyasya*)—of Sāvarṇi
+
 ---
 
-**Progress note:** Done through printed p. 451. pp. 446-451 (batch API), block numbers shifted by one repaired
+**Progress note:** Done through printed p. 457. pp. 452-457 (batch API)
