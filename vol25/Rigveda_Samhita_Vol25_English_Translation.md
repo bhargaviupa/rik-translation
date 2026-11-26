@@ -31924,6 +31924,270 @@ This Indu resounds as it drops, yearning to give us cattle and gold, the conquer
 
 This Pavamāna Soma, being purified, is released, हासते (*hāsate*), that is, given up, on the filter by the god Sūrya in heaven, in the sky. मत्सरः (*matsaraḥ*) is intoxicating; मदः (*madaḥ*) is Soma. Although Soma is released on the ten-stranded filter from the Adhvaryu's hand, still the idea that he is released on the filter in the sky by Sūrya is for the sake of vigour. It must not be asked what part Sūrya has in the straining of Soma when there are other gods, since Soma is made to swell by the very rays of Sūrya.
 
+### Printed p. 786
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मत्सरः (*matsaraḥ*)—one who causes delight
+- मदः (*madaḥ*)—and who gives strength
+- पवमानः (*pavamānaḥ*)—purified
+- एषः (*eṣaḥ*)—this god Soma
+- सूर्येण (*sūryeṇa*)—by the sun
+- अधि द्यवि (*adhi dyavi*)—in the region of the sky, the heavenly world
+- पवित्रे (*pavitre*)—on the ten-stranded filter
+- हासते (*hāsate*)—is released
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, who causes delight and gives strength, being purified, is released by the sun on the ten-stranded filter in the sky, the region of the heavenly world; that is, he is purified.
+
+##### English translation
+This pure-flowing exhilarating Soma is abandoned by the sun in the filtering-cloth the sky.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the ten-stranded filter the Adhvaryu pours the Soma juice and purifies it. But in the sky that same Soma is purified by the rays of the sun. It is the commentator's explanation that Soma is made to swell only through contact with the rays of the sun.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष शु॒ष्म्य॑सिष्यददं॒तरि॑क्षे॒ वृषा॒ हरिः॑ ।  
+> पु॒ना॒न इंदु॒रिंद्र॒मा ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । शुष्मी । असिस्यदत् । अंतरिक्षे । वृषा । हरिः ।  
+> पुनानः । इंदुः । इंद्रम् । आ ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष शुष्मी बलवान् सोमः अंतरिक्षे दशापवित्रे असिष्यदत् स्यंदते । कीदृश एषः । वृषा वर्षकः हरिः हरितवर्णः पुनानः पूयमानः इंदुः दीप्तश्चैव इंद्रमा इंद्रं च अभिगच्छतीति शेषः ।  आ इति चार्थे ॥ ॥ १७ ॥
+
+##### Gist of the bhāṣya
+
+This शुष्मी (*śuṣmī*), strong, Soma flows, असिष्यदत् (*asiṣyadat*), in the sky, that is, on the ten-stranded filter. Of what kind is he? वृषा (*vṛṣā*), the showerer; हरिः (*hariḥ*), of green colour; पुनानः (*punānaḥ*), being purified; इंदुः (*iṃduḥ*), bright. And he goes to Indra: इंद्रमा (*iṃdramā*) has the remaining word "goes" to be supplied, and आ (*ā*) is in the sense of "and".
+
+### Printed p. 787
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुष्मी (*śuṣmī*)—possessed of strength
+- वृषा (*vṛṣā*)—the showerer of desires
+- हरिः (*hariḥ*)—of green (hasaru) colour
+- पुनानः (*punānaḥ*)—the purifier
+- इंदुः (*iṃduḥ*)—and shining
+- एषः (*eṣaḥ*)—this god Soma
+- अंतरिक्षे (*aṃtarikṣe*)—on the ten-stranded filter
+- असिष्यदत् (*asiṣyadat*)—flows
+- इंद्रं आ (*iṃdraṃ ā*)—(through the oblation) approaches Indra also
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, who gives strength, showers desires, shines with a golden colour, purifies and is resplendent, when he is purified on the ten-stranded filter, flows out through the cloth. Through the oblation offered by the priests he goes also to Indra.
+
+##### English translation
+This powerful and purifyng showerer (of benefits), the green-tinted Indu, flows through the firmament to Indra.
+
+## Sūkta 28 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एष वाजी' इति षडृचं चतुर्थं सूक्तं प्रियमेधस्यार्षं गायत्रं सौम्यम्। 'एष वाजी प्रियमेधः । इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta एष वाजी (*eṣa vājī*) of six Ṛks is the fourth sūkta; its seer is Priyamedha; the metre is Gāyatra and the deity is Soma. In the Anukramaṇikā it is said एष वाजी प्रियमेधः (*eṣa vājī priyamedhaḥ*). The use has been stated.
+
+Anuvāda: This sūkta एष वाजी (*eṣa vājī*) is the fourth sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is the one named Priyamedha; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said एष वाजी प्रियमेधः (*eṣa vājī priyamedhaḥ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 28. Aṣṭaka 6; Adhyāya 8; Varga 18. Number of Ṛks in the sūkta: 6.
+
+Seer: Priyamedhaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+### Printed p. 788
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वा॒जी हि॒तो नृभि॑र्विश्व॒विन्मन॑स॒स्पतिः॑ ।  
+> अव्यो॒ वारं॒ वि धा॑वति ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वाजी । हितः । नृऽभिः । विश्वऽवित् । मनसः । पतिः ।  
+> अव्यः । वारम् । वि । धावति ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः वाजी गमनशीलः हितः अध्वर्युणा पात्रे निहितः विश्ववित् सर्वज्ञः मनसः स्तोत्रस्य पतिः स्वामी । अथवा सोमस्य मनोभिमानित्वात् मनसः स्वामित्वं चंद्रमा मनो भूत्वा हृदयं प्राविशत् ' ( ऐ. आ. २.४.२) इति श्रुतेः । तादृशोऽसौ अव्यो वारम् अवेर्वालं दशापवित्रं वि धावति विविधं गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma is वाजी (*vājī*), given to going, and हितः (*hitaḥ*), placed in the vessel by the Adhvaryu; विश्ववित् (*viśvavit*), all-knowing; मनसः पतिः (*manasaḥ patiḥ*), the lord of the hymn of praise. Or else, because Soma presides over the mind, he is the lord of the mind, according to the śruti चंद्रमा मनो भूत्वा हृदयं प्राविशत् (*caṃdramā mano bhūtvā hṛdayaṃ prāviśat*) (Ai. Ā. 2.4.2). Such is he, and he runs variously, वि धावति (*vi dhāvati*), that is, goes in many ways, to the अव्यो वारम् (*avyo vāram*), the sheep's hair, that is, the ten-stranded filter.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजी (*vājī*)—one who flows swiftly
+- हितः (*hitaḥ*)—one placed in the vessel by the Adhvaryu
+- विश्ववित् (*viśvavit*)—one who knows everything
+- मनसः (*manasaḥ*)—of the hymn of praise
+- पतिः (*patiḥ*)—the lord
+- एषः (*eṣaḥ*)—this god Soma
+- आव्यः वारं (*āvyaḥ vāraṃ*)—to the ten-stranded filter made of wool
+- वि धावति (*vi dhāvati*)—runs swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, who is swift-flowing by nature, who is placed in the vessel by the Adhvaryu, who is all-knowing and worthy of praise, runs swiftly to the ten-stranded filter made of wool, in order to be purified.
+
+##### English translation
+This swift-flowing (Soma) placed ( in the vessels ) by the priests, all-knowing, the lord of praise, hastens to the woollen (filter).
+
+### Printed p. 789
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष प॒वित्रे॑ अक्षर॒त्सोमो॑ दे॒वेभ्यः॑ सु॒तः ।  
+> विश्वा॒ धामा॑न्यावि॒शन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । पवित्रे । अक्षरत् । सोमः । देवेभ्यः । सुतः ।  
+> विश्वा । धामानि । आऽविशन् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः देवेभ्यः देवार्थं सुतः अभिषुतः सन् पवित्रे अक्षरत् स्रवति । विश्वा सर्वाणि धामानि देवशरीराणि आविशन् प्रविशन् । प्रवेष्टुमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, pressed for the gods, देवेभ्यः (*devebhyaḥ*), that is, for the sake of the gods, flows, अक्षरत् (*akṣarat*), on the filter. In order to enter all the धामानि (*dhāmāni*), that is, the bodies of the gods, आविशन् (*āviśan*), he enters; the sense is "in order to enter".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः सोमः (*eṣaḥ somaḥ*)—this Soma
+- देवेभ्यः (*devebhyaḥ*)—for the drinking of the gods
+- सुतः (*sutaḥ*)—having been pressed
+- पवित्रे (*pavitre*)—through the ten-stranded filter, in order to be purified
+- अक्षरत् (*akṣarat*)—flows, streaming out
+- विश्वा (*viśvā*)—all
+- धामानि (*dhāmāni*)—the radiant bodies of the gods
+- आविशन् (*āviśan*)—flows in order to enter
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, pressed by the plants for the drinking of the gods, falls into the ten-stranded filter in order to be purified and, streaming out from there, flows in order to enter the bodies of all the gods.
+
+##### English translation
+This (Soma), effused for the gods, flows into the filter, penetrating all the (divine) forms.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष दे॒वः शु॑भाय॒तेऽधि॒ योना॒वम॑र्त्यः ।  
+> वृ॒त्र॒हा दे॑व॒वीत॑मः ॥ ३ ॥
+
+### Printed p. 790
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । देवः । शुभायते । अधि । योनौ । अमर्त्यः ।  
+> वृत्रऽहा । देवऽवीतमः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः देवः शुभायते शोभते । कुन्न । अधि योनौ स्वीये स्थाने । कीदृश एषः । अमर्त्यः अमरणधर्मा वृत्रहा शत्रुहंता देववीतमः अतिशयेन देवानां कामयिता ॥
+
+##### Gist of the bhāṣya
+
+This divine Soma shines, शुभायते (*śubhāyate*), adorns himself, in his own place, अधि योनौ (*adhi yonau*). कुन्न (*kunna*). **NOTE** Of what kind is he? अमर्त्यः (*amartyaḥ*), immortal by nature; वृत्रहा (*vṛtrahā*), the slayer of foes; देववीतमः (*devavītamaḥ*), the one who most of all desires the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अमर्त्यः (*amartyaḥ*)—the imperishable
+- वृत्रहा (*vṛtrahā*)—the slayer of foes
+- देववीतमः (*devavītamaḥ*)—who desires the gods for drinking
+- एषः देवः (*eṣaḥ devaḥ*)—this god Soma
+- अधि योनौ (*adhi yonau*)—seated in his own place (the Droṇa-kalaśa)
+- शुभायते (*śubhāyate*)—is shining
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, imperishable, the slayer of foes, desiring the gods, shines seated in his own place, the Droṇa-kalaśa.
+
+##### English translation
+This divine immortal (Soma) is brilliant in his own place, the slayer of enemies, the most devoted to the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष वृषा॒ कनि॑क्रदद्द॒शभि॑र्जा॒मिभि॑र्य॒तः ।  
+> अ॒भि द्रोणा॑नि धावति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । वृषा । कनिक्रदत् । दशऽभिः । जामिऽभिः । यतः ।  
+> अभि । द्रोणानि । धावति ॥ ४ ॥
+
+### Printed p. 791
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष वृषा वर्षिता कामानां कनिक्रदत् शब्दं कुर्वन् दशभिर्जामिभिः अंगुलीभिः यतः धृतः द्रोणानि द्रुममयाणि पात्राणि अभि धावति अभिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma is वृषा (*vṛṣā*), the showerer of desires, and कनिक्रदत् (*kanikradat*), makes a sound; being यतः (*yataḥ*), held, by the ten जामिभिः (*jāmibhiḥ*), the fingers, he runs to, that is, goes to, the द्रोणानि (*droṇāni*), the wooden vessels.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the showerer of desires
+- एषः (*eṣaḥ*)—this god Soma
+- कनिक्रदत् (*kanikradat*)—making a gurgling sound
+- दशभिः जामिभिः (*daśabhiḥ jāmibhiḥ*)—by the ten fingers
+- यतः (*yataḥ*)—held
+- द्रोणानि (*droṇāni*)—to the wooden vessels (the Droṇa-kalaśas)
+- अभि धावति (*abhi dhāvati*)—runs swiftly
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, the granter of what is desired, held by the ten fingers (of the priests) and making a gurgling sound, hastens swiftly to the wooden vessels.
+
+##### English translation
+This showerer (of desires), expressed by the ten fingers, hastens uttering a sound to the pitchers.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष सूर्य॑मरोचय॒त्पव॑मानो॒ विच॑र्षणिः ।  
+> विश्वा॒ धामा॑नि विश्व॒वित् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । सूर्यम् । अरोचयत् । पवमानः । विऽचर्षणिः ।  
+> विश्वा । धामानि । विश्वऽवित् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः सूर्यमरोचयत् रोचयति स्वरसेन । पवमानः पूयमानः विचर्षणिः सर्वस्य द्रष्टा विश्ववित् सर्ववित् । न केवलं सूर्यं किंतु विश्वा सर्वाणि धामानि तेजःस्थानानि रोचयति ॥
+
+##### Gist of the bhāṣya
+
+This Soma makes the sun shine, सूर्यमरोचयत् (*sūryamarocayat*), by his own juice. पवमानः (*pavamānaḥ*), being purified; विचर्षणिः (*vicarṣaṇiḥ*), the seer of all; विश्ववित् (*viśvavit*), all-knowing. Not the sun only, but all the धामानि (*dhāmāni*), the places of radiance, he makes shine.
+
 ---
 
-**Progress note:** Done through printed p. 785. Vol 25 pp. 780-785: end of Soma sukta 26 (Rk 5-6), Sukta 27 Rk 1-5
+**Progress note:** Done through printed p. 791. Vol 25 pp. 786-791: end of Sukta 27, Sukta 28 Rk 1-5
