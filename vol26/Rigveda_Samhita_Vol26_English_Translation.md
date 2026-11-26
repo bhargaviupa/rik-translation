@@ -28517,6 +28517,133 @@ This seer is mentioned in the Atharvaveda 4-29-6; Pañcaviṃśa-brāhmaṇa 7-5
 
 The word varāha has many meanings, such as cloud; and in order to state the etymology of this word, Yāska took the Ṛk Ṛ. Saṃ. 8-77-10 as an example and explained that Ṛk in two ways, from the Nirukta side and from the spiritual side (see Part 25, pp. 171-172). Besides, there is a narrative that there was an Asura named Varāha and that Indra slew him; Viṣṇu too has a part in it. In this matter the history told in the Caraka-brāhmaṇa is described here.
 
+### Printed p. 763
+
+विष्णुर्यज्ञः । स देवेभ्य आत्मानमंतरधात् । तमन्यदेवता नाविंदन्निंद्रस्त्ववेत् । स इंद्रमब्रवीत्को भवानिति । तमिंद्रः प्रत्यब्रवीदहं दुर्गाणामसुराणां च हंता भवांस्तु क इति । सोऽब्रवीदहं दुर्गादाहर्ता त्वं तु यदि दुर्गाणामसुराणां हंता ततोऽयं वराहो नाममुष एकविंश्याः पुरां पारेऽश्मयियानां वसति तस्मिन्नसुराणां वसु नाममस्ति तमिमं जहीति । तस्येंद्रस्ताः पुरो भित्त्वा हृदयमविध्यत् । अधि तत्र यदासीत्तद्विष्णुराहरदिति । सोऽयमितिहासः ॥ (*viṣṇuryajñaḥ | sa devebhya ātmānamaṃtaradhāt | tamanyadevatā nāviṃdanniṃdrastvavet | sa iṃdramabravītko bhavāniti | tamiṃdraḥ pratyabravīdahaṃ durgāṇāmasurāṇāṃ ca haṃtā bhavāṃstu ka iti | so 'bravīdahaṃ durgādāhartā tvaṃ tu yadi durgāṇāmasurāṇāṃ haṃtā tato 'yaṃ varāho nāmamuṣa ekaviṃśyāḥ purāṃ pāre 'śmayiyānāṃ vasati tasminnasurāṇāṃ vasu nāmamasti tamimaṃ jahīti | tasyeṃdrastāḥ puro bhittvā hṛdayamavidhyat | adhi tatra yadāsīttadviṣṇurāharaditi | so 'yamitihāsaḥ ‖*)
+
+The main purport of this is as follows. Viṣṇu is the sacrifice. That Viṣṇu, in the form of the sacrifice, once left the gods and went away and stayed in a secret place. The other gods did not know this; only Indra knew. Then, when Indra went to the place where Viṣṇu was, Viṣṇu asked Indra who he was. In reply to Viṣṇu, Indra said: "I am the destroyer of forts and of Asuras. But who are you?" Viṣṇu said: "I am the one who carries off and brings the wealth and the like belonging to the Asuras from their forts and so on. Who are you? What work do you do?" When he was asked again, Viṣṇu spoke thus: "If you are, as you say, the destroyer of forts and of the Asuras' wealth and so on, then the Asura named Varāha, who has carried off wealth and the like and hidden it in his own keeping, lives from here at the end of twenty-one puras (forts), in a fort firmly built of stones. The Asuras have abundant wealth with him. Therefore slay that Asura." Hearing this, Indra destroyed those towns of the Asuras and pierced the heart of the Asura named Varāha. Then Viṣṇu brought from there all the wealth that was with the Asura. This is the main purport of this history. The commentator says that this matter is stated both in the Ṛk quoted above and in the Ṛk
+
+अस्येदु मातुः नवनेषु सद्यो महः पितुं पपिवाञ्चार्वन्ना । मुषायद्विष्णुः पचितं सहीयान्विध्यद्वराहं तिरो आद्रिमस्ता ॥ (*asyedu mātuḥ navaneṣu sadyo mahaḥ pituṃ papivāñcārvannā | muṣāyadviṣṇuḥ pacitaṃ sahīyānvidhyadvarāhaṃ tiro ādrimastā ‖*)
+
+(Ṛ. Saṃ. 1-61-7), and he has explained the meaning by fitting the sentences in the present Ṛk, and those given as the example, to the history told above.
+
+अस्येदु मातुः इत्यत्र विष्णुना हे इंद्र त्वं दुर्गाणां हंतेश्यात्मानं कथयसि तर्हि वाममुषं वराहमसुरं जहीत्युक्तार्थो विध्वद्धराडं. इति पादेन प्रतिपादितः । (*asyedu mātuḥ ityatra viṣṇunā he iṃdra tvaṃ durgāṇāṃ haṃteśyātmānaṃ kathayasi tarhi vāmamuṣaṃ varāhamasuraṃ jahītyuktārtho vidhvaddharāḍaṃ. iti pādena pratipāditaḥ |*)
+
+"O Indra, you claim to be the destroyer of forts and of Asuras. Then slay the Asura named Varāha, who has carried off wealth and the like and hidden it in his own keeping": the meaning of these words of Viṣṇu, told in the history above, is stated in the last pāda विध्यद्वराहं तिरो आद्रिमस्ता (*vidhyadvarāhaṃ tiro ādrimastā*) of the example Ṛk अस्येदु मातुः (*asyedu mātuḥ*) cited above. **NOTE**
+
+### Printed p. 764
+
+इंद्रेण च विष्णो त्वं दुर्गादाहर्तेति ब्रूषे मया पुराणि जितान्यसुरश्च घातितस्तस्य नामं वस्वानयेत्युक्तो विष्णुमूर्तिस्तस्य वराहासुरस्य धनं मुमोष । सोऽर्थं मुषायुद्विष्णुः पचतं सहीयान् इति पादेन सूचितः ॥ (*iṃdreṇa ca viṣṇo tvaṃ durgādāharteti brūṣe mayā purāṇi jitānyasuraśca ghātitastasya nāmaṃ vasvānayetyukto viṣṇumūrtistasya varāhāsurasya dhanaṃ mumoṣa | so 'rthaṃ muṣāyudviṣṇuḥ pacataṃ sahīyān iti pādena sūcitaḥ ‖*)
+
+And Indra, addressing Viṣṇu, said: "O Viṣṇu, you have said that you bring the wealth and the like of the Asuras from their forts. Now I have conquered many enemy towns and killed Asuras. Bring the wealth that is with that Asura." Viṣṇu agreed to this and brought, carried off from the Asura Varāha, the wealth that was with him. This account is made plain by the pāda मुषायद्विष्णुः पचतं सहीयान् (*muṣāyadviṣṇuḥ pacataṃ sahīyān*) of the cited Ṛk.
+
+स किं पुनर्मुषितवानिति तदत्रोच्यते । विश्वेत्ता इति । हे इंद्र त्वेषितस्त्वया प्रेरितो विष्णुर्यज्ञरूपी त्वेषितस्त्वं दुर्गादाहार्ता किल तर्हि त्वं तस्य धनान्याहरेति त्वया प्रेरितः सन्नुरुक्रमो भूत्वा विश्वेत्ता यानि च तत्र स्थितानि तानि सर्वाण्याभरत् । अभरतु । कानि तानीति । शतं महिषानपरिमितान् प्रशस्तान् पदार्थान् तेषां वाहनरूपान् महिषान्वा क्षीरपाकमोदनं च पक्वमात्रमेवौदनं चाभरत् ॥ (*sa kiṃ punarmuṣitavāniti tadatrocyate | viśvettā iti | he iṃdra tveṣitastvayā prerito viṣṇuryajñarūpī tveṣitastvaṃ durgādāhārtā kila tarhi tvaṃ tasya dhanānyāhareti tvayā preritaḥ sannurukramo bhūtvā viśvettā yāni ca tatra sthitāni tāni sarvāṇyābharat | abharatu | kāni tānīti | śataṃ mahiṣānaparimitān praśastān padārthān teṣāṃ vāhanarūpān mahiṣānvā kṣīrapākamodanaṃ ca pakvamātramevaudanaṃ cābharat ‖*)
+
+It is also said that Viṣṇu carried off and brought many more things. The detail of this is stated clearly in the present Ṛk beginning with विश्वेत्ता (*viśvettā*). "O Indra, you said to Viṣṇu, who is the sacrifice: 'O Viṣṇu, you have said that you bring the wealth and the like from the forts of the Asuras. Then take the wealth and the like that is with this Asura Varāha and come.'" Urged thus by you (Indra), Viṣṇu agreed, saying "So be it", went swiftly to the Asura's town and carried off and brought all the wealth and the like that was with the Asura, that is, whatever things he had been told to bring. What those things were that Viṣṇu brought is clearly indicated in the present Ṛk: the best of things, wealth and the like, of excellent quality and without number, the buffaloes and other animals that carry them, and food and other fare cooked with milk and the like. All of it he carried off and brought, as Indra had said.
+
+विध्यद्वराहं इत्यत्रोक्तोऽर्थश्च चरमपादेनोच्यते । इंद्रस्तु वराहारं स्वीकृतासुरसर्वस्वं वराहरूपिणं वैमुषमेमुषनामानमथवैमुषं धनानामामोषकं वराहमसुरं हृदयेऽविध्यदिति शेषः ॥ इ (*vidhyadvarāhaṃ ityatrokto 'rthaśca caramapādenocyate | iṃdrastu varāhāraṃ svīkṛtāsurasarvasvaṃ varāharūpiṇaṃ vaimuṣamemuṣanāmānamathavaimuṣaṃ dhanānāmāmoṣakaṃ varāhamasuraṃ hṛdaye 'vidhyaditi śeṣaḥ ‖ i*)
+
+### Printed p. 765
+
+Now the meaning of the last pāda of the present Ṛk, विध्यद्वराहमिंद्र एमुषं (*vidhyadvarāhamiṃdra emuṣaṃ*), is explained. This Asura named Varāha, who was in the form of a varāha (boar), had carried off and stored up much wealth from many. Therefore it is customary to call him एमुषं (*emuṣaṃ*), that is, धनानामामोषकं (*dhanānāmāmoṣakaṃ*), one who steals wealth. The meaning that Indra, with his strength and power, pierced the breast of that Asura Ēmuṣa, in the form of a boar, and killed him, is set out in the last pāda of the present Ṛk.
+
+The explanation of this matter is given in the same way in the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda:
+
+यज्ञो देवेभ्यो निलायत विष्णू रूपं कृत्वा स पृथिवीं प्राविशत्तं देवा हस्तान्त्सग्ं रभ्यैच्छन्तमिंद्र उपर्युपर्यत्य क्रामत्सोऽब्रवीत्कोमायमुपर्युपर्यत्यक्रमादित्यहं दुर्गे हंतेत्यथ कस्यमित्यहं दुर्गादाहर्तेति सोऽब्रवीद्दुर्गे वै हंतावोचथावराहोऽयं वाममोषः सप्तानां गिरीणां परस्ताद्वित्तं वेद्यमसुराणां बिभर्ति तं जहि यदि दुर्गे हंतासीति सदर्भपुंजीलमुदृह्य सप्तगिरीन् भित्वा तमहन्सोऽब्रविद्दुर्गाद्वा आहर्ता वोचथा एतमाहरेति तमेभ्यो यज्ञ एव यज्ञमाहरदत्तद्वित्तं वेध्यमसुराणामविंदंत तदेकं वेद्यै वेदित्वं ॥ (*yajño devebhyo nilāyata viṣṇū rūpaṃ kṛtvā sa pṛthivīṃ prāviśattaṃ devā hastāntsagṃ rabhyaicchantamiṃdra uparyuparyatya krāmatso 'bravītkomāyamuparyuparyatyakramādityahaṃ durge haṃtetyatha kasyamityahaṃ durgādāharteti so 'bravīddurge vai haṃtāvocathāvarāho 'yaṃ vāmamoṣaḥ saptānāṃ girīṇāṃ parastādvittaṃ vedyamasurāṇāṃ bibharti taṃ jahi yadi durge haṃtāsīti sadarbhapuṃjīlamudṛhya saptagirīn bhitvā tamahanso 'braviddurgādvā āhartā vocathā etamāhareti tamebhyo yajña eva yajñamāharadattadvittaṃ vedhyamasurāṇāmaviṃdaṃta tadekaṃ vedyai veditvaṃ ‖*)
+
+(Tai. Saṃ. 6-2-4-2, 3)
+
+To explain how the sacrificial altar came to have the name vedi, a history is told in the Yajurveda. In former times, for some reason, the sacrifice took the form of Viṣṇu, left the gods and went away. Then that Viṣṇu, in the form of the sacrifice, entered the earth and hid himself so that nobody knew. The gods, not seeing him, held each other's hands and searched everywhere. Even so they did not find the place where Viṣṇu was. But when Indra passed over the region where Viṣṇu had hidden himself, Viṣṇu, who was below, said: "Who is it? Who is passing over this place where I am?" Hearing this, Indra said: "I am the hero who strikes and destroys the forts of the Asuras. But who are you?" To this Viṣṇu replied: "I am the one who brings the wealth and the like that is in the forts of the Asuras after they have been destroyed." And, addressing Indra, he said: "O man, if you are the one who destroys enemy towns, as you claim, then beyond seven mountains from here lives an Asura named Varāha. He has carried off the wealth and the like of the Asuras and keeps it in his strong fort. If you have the power you claim, to destroy the forts of the Asuras, strike and destroy that Asura Varāha. Only then will your power be known." Hearing this, Indra took a bunch of darbha grass that was near, made it his weapon, split even the seven impenetrable mountains, struck and killed the Asura Varāha. Then, addressing Viṣṇu, he said: "O man, as you said, I have split the seven mountains and killed the Asura who was there. My strength and power have thus become plain. You said that you are the one who brings the wealth and the like from the forts of the Asuras destroyed before. Now bring the wealth and the like that is there, as you said; then your power will be shown." When he said this, Viṣṇu said "So be it", and, in the very form of the sacrifice, carried off the wealth and the like that was with that Asura and brought it near the gods. Because the gods in this way obtained the wealth of the Asuras through the sacrifice, the place where the sacrifice is performed came to be called vedi. This is the main purport of this history.
+
+### Printed p. 766
+
+To explain the meaning of the word varāha, Yāska has given this etymology:
+
+वराहो मेघो भवति वराहारः । वरमहारमाहार्षिः इति च ब्राह्मणं ! विध्यद्वराहं तिरो अद्रिमस्ता इत्यपि निगमो भवति । अय मपीतरो वराह एतस्मादेव । बृहति मूलानि वरं वरं मूलं बृहतीति ना । वराहनिंद्र एमुषं इत्यपि निगमो भवति ॥ (*varāho megho bhavati varāhāraḥ | varamahāramāhārṣiḥ iti ca brāhmaṇaṃ ! vidhyadvarāhaṃ tiro adrimastā ityapi nigamo bhavati | aya mapītaro varāha etasmādeva | bṛhati mūlāni varaṃ varaṃ mūlaṃ bṛhatīti nā | varāhaniṃdra emuṣaṃ ityapi nigamo bhavati ‖*)
+
+(Ni. 5-4)
+
+Varāha means a cloud. Because the cloud provides excellent food by pouring rain, the cloud gets the name varāhāra or varāha. वरमाहारमाहार्षिः (*varamāhāramāhārṣiḥ*) is the Brāhmaṇa sentence that supports this kind of meaning. विध्यद्वराहं तिरो अद्रिमस्ता (*vidhyadvarāhaṃ tiro adrimastā*) is another example, a scriptural sentence; the purport indicated in it is that Indra hurled his thunderbolt from afar and split the cloud. That is, in this example the meaning "cloud" of the word varāha is clear. The word varāha has another meaning too, "boar". The word is formed from the same root. Because it tears up the roots of plants, that is, of herbs and the like, with its tusks and throws them out, and because it uproots and destroys the excellent bulbs and tubers together with their stems, the boar (sūkara, or pig) has the name varāha. In this matter the scriptural sentence वराहमिंद्र एमुषं (*varāhamiṃdra emuṣaṃ*) in the present Ṛk, that Indra split and killed the boar (the Asura) that destroys food, is an example in support of this kind of meaning. This is the main purport of the Nirukta.
+
+### Printed p. 767
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र हं॒सास॑स्त्र॒पलं॑ म॒न्युमच्छा॒मादस्तं॒ वृष॑गणा अयासुः ।  
+> आं॒गू॒ष्यं१॒॑ १ पव॑मानं॒ सखा॑यो दु॒र्मर्षं॑ सा॒कं प्र व॑दंति  ॒
+> वाणं ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । हंसासः । तृपलं । मन्युं । अच्छ । अमात् । अस्तं । वृषगणाः । अयासुः ।  
+> आंगूष्यं । पवमानं । सखायः । दुःर्मर्षं । साकं । प्र । वदंति । वाणं ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हंसासः शत्रुभिर्हन्यमाना हंसा इव चरंतो ना वृषगणा एतन्नामका
+> ऋषयोऽमाच्छत्रोणां बलात्रासिताः संतस्त्वपलं । तृपलशब्दः क्षिप्रवाची । तदुक्तं
+> यास्केन । तृपलप्रभर्मा क्षिप्रप्रहारीति । नि- ५-१२ ! क्षिप्रप्रहारिणं मन्युं शत्रुनभिमन्यमानं सोममच्चाभिलक्ष्यास्तं यज्ञगृहं प्रायासुः ! प्रायासिसुः ! प्रगच्छंति ।
+> ततः सखायः स्तुत्यस्तोतृत्वलक्षणेन संबंधेन सखिभूताः स्तोतार आंगूष्यं
+> सर्वैरभिगंतव्यं । यद्वा ॥ घोशब्दस्य पृषोदरादित्वादू इत्यादेशः । आज अनुनासिकश्चांदसे ॥ स्तोत्रार्हं दुर्मर्षं शत्रुभिर्दुर्धरं दुःसहं एवंविधं सोमं
+> पवमानमुद्दिश्य वाणं वाद्यविशेषं साकं सहैव प्र वदंति । प्रवादयंति । तदुपलक्षितं गानं कुर्वंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Vṛṣagaṇa seers, struck by enemies, move like swans (haṃsa), alarmed by the strength of the enemies. The word tṛpala means swift; Yāska says (Ni. 5-12) that तृपलप्रभर्मा (*tṛpalaprabharmā*) means one who strikes swiftly. They go to the house of sacrifice, to Soma, who strikes swiftly and holds the enemies in contempt. Then the praisers, who are friends by the relation of the praised and the praiser, sound together the vāṇa, a particular musical instrument, in honour of Soma Pavamāna, who is worthy of praise and hard for enemies to bear or withstand; that is, they sing a song accompanied by it. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हंसासः (*haṃsāsaḥ*)—having a gait like swans
+- वृषगणाः (*vṛṣagaṇāḥ*)—the seers called Vṛṣagaṇas
+- अमात् (*amāt*)—alarmed by the enemies
+- तृपलं (*tṛpalaṃ*)—who swiftly destroys enemies
+- मन्युं अच्छ (*manyuṃ accha*)—to Soma, the cutter-off of enemies
+- अस्तं (*astaṃ*)—to the house of sacrifice
+- प्रयासुः (*prayāsuḥ*)—have come **NOTE**
+- सखायः (*sakhāyaḥ*)—the praisers who are friends
+- अंगूष्यं (*aṃgūṣyaṃ*)—who is worthy of praise **NOTE**
+- दुर्मर्षं (*durmarṣaṃ*)—not to be withstood by enemies
+- पवमानं (*pavamānaṃ*)—to Soma
+- वाणं (*vāṇaṃ*)—the sound of the flute
+- साकं (*sākaṃ*)—together
+- प्र वदंति (*pra vadaṃti*)—recite in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+The Vṛṣagaṇa seers, having a gait like swans, alarmed, have come to the house of sacrifice, with Soma in view, who swiftly destroys enemies and cuts them off. The praisers, who are his friends, together recite flute-song in honour of Soma, who is worthy of praise and not to be withstood by enemies. (They praise Soma in the form of flute-song.)
+
+### Printed p. 768
+
+##### English translation
+The Vrishaganas (walking like) swans, (alarmed) at the strength (of the foe), have repaired to the house of sacrifice, to the swift-shooting foe-despising (Soma); the friends sound the flute to the praiseworthy irresistible Pavamana.
+
+##### विशेषविषयगळु (Special Topics)
+
+वृषगणाः (*vṛṣagaṇāḥ*)—some seers by the name of Vṛṣagaṇa. For this Ṛk and the Ṛks before and after it (Ṛks 7-9) the seer is Vṛṣagaṇa of the Vasiṣṭha family; the Vṛṣagaṇa seers mentioned here may be his kinsmen. Their name is not recited anywhere else than in this Ṛk. They are famed as skilled in singing. As swans harmed by enemies, that is, by hunters, flee crying piteously, so the Vṛṣagaṇa seers, harmed by enemies, took fright and came to the god Soma, the destroyer of enemies. Afterwards these seers, skilled in song, praised the god Soma, who is like a friend to them, playing the instrument called vāṇa. This is what the seer describes here.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स रं॑हत उरुगा॒यस्य॑ जू॒तिं वृथा॒ क्रीळं॑तं मिमते॒ न गावः॑ ।  
+> प॒री॒ण॒सं कृ॑णुते ति॒ग्मशृं॑गो॒ दिवा॒ हरि॒र्ददृ॑शे॒ नक्त॑मृ॒जः ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । रंहते । उरुगायस्य । जूतिं । वृथा । क्रीळंतं । मिमते । न । गावः ।  
+> परीणसं । कृणुते । तिग्मशृंगः । दिवा । हरिः । ददृशे । नक्तं । ऋज्रः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स सोमो रंहते । अतिशीघ्रं गच्छतीत्यर्थः । उरुगायस्य बहुभिः स्तुत्यस्यात्मनो जूतिं गतिमनुसरन् । तं वृथानायासेन क्रीळंतं विहरंतं गच्छंतं
+> सोमं गावोऽन्ये गंतारो न मिमते । न परिच्छिंदंति । तमनुगंतुं न शक्नु वंतीत्यर्थः । किंच तिग्मशृंगः । शृणंति हिंसंति तमांसीति शृंगाणि तेजांसि । तीक्ष्णतेजस्कः
+
+##### Gist of the bhāṣya
+
+That Soma runs, that is, goes very swiftly, following the course of himself, who is praised by many. As he plays in vain, that is, without effort, moving about and going, the cows, that is, the other goers, do not measure him, do not encompass him; the meaning is that they cannot follow him. Moreover he is sharp-horned: the horns (śṛṅga) are the splendours that pierce the darkness, so he is of sharp splendour.
+
 ---
 
-**Progress note:** Done through printed p. 762. Sukta 97 Rks 5-7 (pp. 757-762)
+**Progress note:** Done through printed p. 768. Suk 97 end of Varaha note, Rks 8-9 begin (pp. 763-768)
