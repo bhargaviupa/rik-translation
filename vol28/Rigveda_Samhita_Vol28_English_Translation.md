@@ -7776,6 +7776,269 @@ The gods: O Agni, the covering, of the nature of उल्ब (*ulba*), envelope
 
 उल्बं (*ulbaṃ*)—Yāska has given the etymology of this word: उल्बमूर्णोतेर्वणोतेर्वा । महत्तदुल्बं स्थविरं तदासीदित्यपि निगमो भवति (*ulbamūrṇotervaṇotervā | mahattadulbaṃ sthaviraṃ tadāsīdityapi nigamo bhavati*) (Ni. 6-35); the passage quoted is *mahattadulbaṃ sthaviraṃ tadāsīd*. The word उल्ब (*ulba*) is derived either from the root ūrṇu, meaning to cover, to wrap, or from the root vṛ. It means covering, wrapping. As stated in the Śruti passage उल्बं गर्भो जरायु (*ulbaṃ garbho jarāyu*), the words ulba, garbha and jarāyu are synonyms. The layer of skin that covers (wraps) the infant is called garbha. The other words have the same meaning.
 
+### Printed p. 260
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को मा ददर्श कतमः स देवो यो मे तन्नो बहुधा  
+> पर्यपश्यत् ।  
+> क्वाह॑ मित्रावरुणा क्षियंत्य॒ग्निर्विश्वाः॑ स॒मिधो॑ देव॒यानीः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । मा । ददर्श । कतमः । सः । देवः । यः । मे । तन्वः । बहुधा । परि अपश्यत् ॥  
+> क्व । अह । मित्रावरुणा । क्षियंति । अग्नेः । विश्वाः । सं इथः । देवयानीः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इदमग्नेर्वाक्यं । एको देवोऽपश्यदित्युक्ते पृच्छति । को मा मां ददर्श
+> दृष्टवान् । स देवः कतमः । यो मे मम तन्नस्तनूर्बहुधा बहुप्रकारं स्थिताः
+> पर्यपश्यत् परिदृष्टवान् । हे मित्रावरुणा मित्रावरुणौ अग्नेर्मम विश्वाः सर्वाः
+> समिधो दीप्ता देवयानीर्देवयानसाधनभूतास्त्वनो दृष्टा इत्युक्तं यदि
+> दृष्टाश्चेत्तर्हि क्व क्षियंति क्व निवसंतीत्येवं देवानां पुरतो वर्तमानौ मित्रावरुणावाहाग्निः ॥
+
+##### Gist of the bhāṣya
+
+This is Agni's speech. When told that a single god had seen him, he asks: who has seen me, and which god is it who has seen my bodies, existing in many ways, from all sides? Addressing Mitra and Varuṇa, he asks where all his kindled flames, which serve as the means of the gods' path (देवयानीः (*devayānīḥ*)), have been seen. If they have been seen, where do they dwell? Thus Agni speaks to Mitra and Varuṇa, who stand before the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कः (*kaḥ*)—who
+- मा (*mā*)—me
+- ददर्श (*dadarśa*)—has seen?
+- यः (*yaḥ*)—who
+- मे (*me*)—my
+- तन्वः (*tanvaḥ*)—bodies
+- बहुधा (*bahudhā*)—that exist in many ways
+- पर्यपश्यत् (*paryapaśyat*)—has beheld
+- सः (*saḥ*)—such
+- देवः (*devaḥ*)—god
+- कतमः (*katamaḥ*)—who among the gods?
+- मित्रावरुणा (*mitrāvaruṇā*)—O Mitra and Varuṇa
+- अग्नेः (*agneḥ*)—of me, who am Agni
+- समिधः (*samidhaḥ*)—luminous
+- विश्वाः देवयानीः (*viśvāḥ devayānīḥ*)—all the means of carrying the oblation to the gods
+- क्व (*kva*)—where
+- क्षियंति (*kṣiyaṃti*)—do they dwell?
+
+##### भावार्थ (Bhāvārtha)
+
+Agni: Who has truly known my nature? Who among the gods has known my many kinds of bodies? O Mitra and Varuṇa, where are all my luminous means, those that carry the oblation to the gods?
+
+### Printed p. 261
+
+##### English translation
+(Agni speaks :) Who has beheld me ? Which is it of the deities who has fully seen my manifold forms ? Where, Mitra and Varvna, do Agni's luminous vehicles of the gods abide ?
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऐच्छा॑म त्वा बहु॒धा जा॑तवेदः॒ प्रवि॑ष्टमग्ने अ॒प्पोष॑धीषु ।  
+> तं त्वा॑ य॒मो अ॑चिकेच्चित्रभानो दशांतरु॒ष्याद॑ति॒रोच॑मानं ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऐच्छाम । त्वा । बहुधा । जातवेदः । प्रविष्टं । आग्ने । अप्सु । ओषधीषु ॥  
+> तं । त्वा । यमः । अचिकेत् । चित्रभानो इति चित्रभानो । दशअंतरुष्यात् ।  
+> अतिरोचमानं ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवमग्निना पृष्टा देवा अग्निं ब्रुवंति । हे जातवेदो जातप्रज्ञाग्ने त्वा
+> त्वामन्वैच्छाम । कीदृशं त्वां । अप्सूदकेष्टोषधीषु च बहुधा प्रविष्टं । अन्विष्य
+> च तं तादृशं प्रविष्टं त्वा त्वां यमो देवोऽचिकेत् ज्ञातवान् हे चित्रभानो
+> चायनीयरश्मे । कुत्र स्थितं ज्ञातवानिति तदुच्यते । दशांतरुष्यात् । अंतरुष्यं
+> गूढमावासस्थानं तच्च स्थानं दशसंख्योपेतं। तादृशं स्थानमतिरोचमानमतीत्य
+> प्रकाशमानं । अग्निर्हि गूढानि दश स्थानानि भवंति पृथिव्यादयस्त्रयो लोका अग्निवाय्वादित्यास्त्रयो देवा आप ओषधयो वनस्पतयः प्राणिशरीरमिति दश स्थानानि ॥
+
+##### Gist of the bhāṣya
+
+Questioned thus by Agni, the gods reply. O Jātavedas, O Agni of born wisdom, we sought you, who had entered in many ways into the waters and the plants. Having sought you, you thus entered, Yama the god recognised you. O Agni of wondrous (adorable) rays, where you were hidden is now told: दशांतरुष्यात् (*daśāṃtaruṣyāt*)—अंतरुष्यं (*aṃtaruṣyaṃ*) is a hidden dwelling-place, and these places are ten in number; Yama knew you shining beyond such a place. Agni has ten hidden places: the three worlds beginning with the earth; the three gods Agni, Vāyu and Āditya; the waters, the plants, the trees, and the bodies of living beings. These are the ten places.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जातवेदः (*jātavedaḥ*)—O Agni in the form of Jātavedas
+- अग्ने (*agne*)—O Agni
+- अप्सु (*apsu*)—in the waters
+- ओषधीषु (*oṣadhīṣu*)—in the creepers and plants
+- बहुधा (*bahudhā*)—in many ways
+- प्रविष्टं (*praviṣṭaṃ*)—who had entered
+- त्वा (*tvā*)—you
+- ऐच्छाम (*aicchāma*)—we desired to know and sought
+- चित्रभानो (*citrabhāno*)—O Agni of adorable (attractive) radiance
+- दशांतरुष्यात् (*daśāṃtaruṣyāt*)—from your ten secret dwelling-places
+### Printed p. 262
+- अतिरोचमानं (*atirocamānaṃ*)—shining forth
+- तं त्वा (*taṃ tvā*)—you, the renowned
+- यमः (*yamaḥ*)—Yama
+- अचिकेत् (*aciket*)—has known
+
+##### भावार्थ (Bhāvārtha)
+
+The gods: O Agni, Jātavedas, we all desired to know you, who had entered in many ways into the waters and the plants, and sought you. O Agni of attractive radiance, Yama has known you, the renowned, shining forth from your ten secret dwelling-places: earth, atmosphere, heaven, fire, wind, sun, waters, plants, trees and the bodies of living beings.
+
+##### English translation
+(The gods :) We sought for you, Agni Jatavedas, who had entered in many ways into the waters, into the plants : Yama recognized you, who have adorable rays, blazing from your ten hiding-places.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हो॒त्राद॒हं व॑रुण॒ बिभ्य॑दायं॒ नेदे॒व मा॑ यु॒नज॒न्नत्र॑  ॒
+> देवाः ।  
+> तस्य॑ मे त॒न्नो॑ बहु॒धा निवि॑ष्टा ए॒तमर्थं॒ न चि॑केता॒हम॒ग्निः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> होत्रात् । अहं । वरुण । बिभ्यत् । आयं । न । इत् । एव । मा । युनजन् । अत्र ।  
+> देवाः ॥  
+> तस्य । मे । तन्नः । बहुधा । निऽविष्टाः । एतं । अर्थं । न । चिकेत । अहं । अग्निः ॥४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया देवगणा मां ज्ञातवंत इति निश्चित्य गूहनस्य प्रयोजनमाह । हे
+> वरुण देव अहं होत्राद्धोतव्यात् । हनिर्वहनादित्यर्थः । तस्माद्भिभ्यदायं ।
+> आगतवानस्मि । अतो मा मामेवैवं पूर्वप्रकारेणात्रास्मिन्हनिर्वहनप्रयोजने
+> नेद्युनजन् मैव योजयंत देवाः । तस्य तादृशस्य बिभ्यतो मे तन्नो बहुधा
+
+##### Gist of the bhāṣya
+
+Concluding that the company of gods has recognised him by this, Agni states the purpose of his hiding. O Varuṇa, I have come afraid of the होत्रात् (*hotrāt*), that which is to be offered, that is, the carrying of the oblation. Therefore the gods must not again employ me, as before, in this task of carrying the oblation. Of me, afraid in this way, the bodies have entered in many ways into the waters.
+### Printed p. 263
+
+> निविष्टा अप्पु । एतमर्थमेतद्धनिर्वहनकार्यमग्निरहं न चिकेत । न बुध्ये ।
+> नांगीकरोमि ॥
+
+##### Gist of the bhāṣya
+
+I, Agni, do not know (न चिकेत (*na ciketa*)), that is, I do not accept, this matter, this task of carrying the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वरुण (*varuṇa*)—O Varuṇa
+- अहं (*ahaṃ*)—I
+- होत्रात् (*hotrāt*)—from the work of carrying the oblation
+- बिभ्यत् (*bibhyat*)—being afraid
+- आयं (*āyaṃ*)—have come here
+- मा (*mā*)—me
+- एव (*eva*)—as before
+- अत्र (*atra*)—in the work of carrying the oblation
+- देवाः (*devāḥ*)—the gods
+- न युनजन् इत् (*na yunajan it*)—will certainly not employ
+- तस्य (*tasya*)—of one similarly frightened
+- मे तन्निः (*me tanniḥ*)—my bodies
+- बहुधा (*bahudhā*)—in many ways
+- निविष्टाः (*niviṣṭāḥ*)—are hidden (in the waters and the like)
+- एतमर्थं (*etamarthaṃ*)—for this task
+- अग्निः (*agniḥ*)—Agni
+- अहं (*ahaṃ*)—I
+- न चिकेत (*na ciketa*)—certainly do not consent
+
+##### भावार्थ (Bhāvārtha)
+
+Agni: O Varuṇa, I have come here frightened by the work of carrying the oblation. The gods will certainly not again associate me with it as before. For that very reason my frightened bodies are hidden in many ways in the waters and the like. I certainly do not consent to this task.
+
+##### English translation
+(Agni:) Divine Varuna, I have come hither, being afraid of Hotra, lest the gods should again associate me with him ; my forms have therefore entered (into the waters)in various places. I, Agni, do not consent (to undertake) that office.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एहि॒ मनु॑देर्नय॒युर्य॒ज्ञका॑मोरं॒कृत्या॒ तम॑सि क्षेष्यग्ने ।  
+> सु॒गान्प॒थः कृ॑णुहि देव॒याना॒न्वह॑ ह॒व्यानि॑ सुमन॒स्यमा॑नः ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इहि । मनुः । देवयः । यज्ञकामः । अरंकृत्य । तमसि । क्षेषि । अग्ने ॥  
+> सुगान् । पथः । कृणुहि । देवयानान् । वह । हव्यानि । सुमनस्यमानः ॥ ५ ॥
+
+### Printed p. 264
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्नि नैवमुक्ता देवाः पुनरग्निमाह्वयंति । हे अग्ने एहि । आगच्छ । मनुर्मनुष्यो यष्टा मननीयो मनू राजा वा देवयुर्देवान्यष्टुमिच्छन् यज्ञकामश्च भवति । अत एहि । किं कुर्वन् यज्ञकामो भवतीति चेत् उच्यते । अरंकृत्य केवलं तेजःपुंजमेवालंकुर्वन् । यद्वेदमुत्तरत्र संबध्यते । त्वमलंकृत्यात्मानमलंकुर्वन् तमस्यनैर्ज्ञातुमशक्केंधकारे क्षेषि । निवससि । हे अग्ने
+> आगत्य च देवयानान् देवास्प्रति यैर्मनुष्या गच्छंति तान्पथो मार्गान् सुगान्कृणुहि । कुरु ॥ कृवि हिंसाकरणयोश्च । धिन्विकृण्योरच्चेत्युप्रत्ययः ॥ संमत्या
+> नो यज्ञनिष्पत्तेर्देवयानाः सुषथा भवंति । वह हव्यान्यस्मदीयानि सुमनस्यमानः सौमनस्यमाचरंस्तं ॥
+
+##### Gist of the bhāṣya
+
+Addressed thus by Agni, the gods call him again: O Agni, come. Manu, the man who sacrifices, or Manu the king worthy of thought, is देवयुः (*devayuḥ*), wishing to worship the gods, and is desirous of sacrifice; therefore come. If asked what he does in being desirous of sacrifice, it is said: अरंकृत्य (*araṃkṛtya*), adorning only a mass of brilliance. Or else the word is connected with what follows: adorning yourself, unable to be known by others, you dwell in darkness. And having come, O Agni, make easy the paths along which men go to the gods, the देवयानान् (*devayānān*) paths. By the agreement of the gods the paths to them become good for the accomplishment of the sacrifice. Carry our oblations, acting with a kindly mind.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- एहि (*ehi*)—be pleased to come
+- मनुः (*manuḥ*)—Manu the king (or a man of his line)
+- देवयुः (*devayuḥ*)—desirous of worshipping the gods
+- यज्ञकामश्च (*yajñakāmaśca*)—and desirous of performing the sacrifice
+- अरंकृत्य (*araṃkṛtya*)—adorning only yourself
+- तमसि (*tamasi*)—in a secret place unknown to anyone
+- क्षेषि (*kṣeṣi*)—you dwell
+- देवयानान् (*devayānān*)—along which the gods travel
+- पथः (*pathaḥ*)—the paths
+- सुगान् (*sugān*)—as fit to be travelled
+- कृणुहि (*kṛṇuhi*)—make
+- सुमनस्यमानः (*sumanasyamānaḥ*)—wishing to do us good
+- हव्यानि (*havyāni*)—the oblations
+- वह (*vaha*)—carry
+
+##### भावार्थ (Bhāvārtha)
+
+The gods: O Agni, accept our prayers and be pleased to come. King Manu wishes to perform the sacrifice and worship the gods. Adorning only yourself, you dwell in a secret place unknown to anyone. Come here and make the paths along which the gods travel fit for travelling. Wishing to do us good, carry the oblations.
+
+##### English translation
+(The gods:) Come, Agni, the devout Manu (is) desirous of offering sacrifice adorning yourself, you abide in darkness: make straight the paths traversed by the gods, and with a benevolent mind convey our oblations,
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्ने पूर्णे॒ भ्रात॑रो॒ अर्थ॑मे॒तं र॒थीवाध्वा॑न॒मन्वाव॑रीवुः ।
+
+### Printed p. 265
+
+> तस्माद्भिया वरुण दूरमायं गौरो न क्षेप्पोरविजे  
+> ज्यायाः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्नेः । पूर्वे । भ्रातरः । अर्थं । एतं । रथीऽइव । अध्वानं । अनु । आ ।  
+> अवरीवुरिति ॥  
+> तस्मात् । भिया । वरुण । दूरं । आयं । गौरः । न । क्षेप्पोः । अविजे । ज्यायाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयाग्निः स्वपलायननिमित्तमाह । हे देवा अग्ने र्मम पूर्वे पूर्वमुत्पन्ना भ्रातरो भूपतिर्भुवनपतिर्भूतानां पतिरिति त्रयोऽग्रजा एतमर्थं
+> हनिर्वहनाख्यमर्थमन्वावरीवुः । अनुक्रमेण वृतवंतः ॥ तत्र वृणोतेर्यज्लुगंताल्लुजि झेश्छांदसो लुक् । बहुलं छंदसीत्युक्तं ॥ आवरणे दृष्टांतः ।
+> रथीनाध्वानं । अध्वानं यथा रथी वृणुते तद्वत् । ते भ्रातरस्तथा कुर्वंतो
+> हताः । तस्मान्मरणाद्भिया भीत्या हे वरुण दूरं देशमायं । किं च क्षेप्नोरिसुक्षेपुर्धनुषो ज्यायाः सकाशादौरो न मृग इव स यथा बिभेति चलति वा तद्वदविजे । अकंपे । ओविजी भयचलनयोः । अनुदात्तेत्तादिकः । तस्य लज्युत्तमेरूपं ॥
+
+##### Gist of the bhāṣya
+
+By this verse Agni gives the cause of his flight. O gods, my elder brothers, born before, three of them, Bhūpati, Bhuvanapati and Bhūtānāṃ pati, took up this task, called the carrying of the oblation, in succession (अन्वावरीवुः (*anvāvarīvuḥ*)). The illustration of the taking up: as a charioteer takes up (follows) the road, so those brothers, doing thus, were slain. Out of fear of that death, O Varuṇa, I have come to a distant place. Further, as a wild animal (गौरो न (*gauro na*)) trembles or flees at the bowstring of an archer, the shooter of arrows, so I too अविजे (*avije*), in trembling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) रथी (*rathī*)—the driver of a chariot
+- अध्वानं इव (*adhvānaṃ iva*)—as one grows thin by going round and round the road
+- अग्नेः (*agneḥ*)—my
+- पूर्वे भ्रातरः (*pūrve bhrātaraḥ*)—elder brothers
+- एतं अर्थं (*etaṃ arthaṃ*)—this very task of carrying the oblation
+- अन्वावरीवुः (*anvāvarīvuḥ*)—having performed it, one after another were slain
+- वरुण (*varuṇa*)—O Varuṇa
+- गौरः (*gauraḥ*)—the animal called gaura
+- क्षॆप्पोः (*kṣèppoḥ*)—of the bowman who looses the arrow
+- ज्यायाः न अविजे (*jyāyāḥ na avije*)—as it flees in fear of the bowstring
+- तस्माद्भिया (*tasmādbhiyā*)—from that same fear
+- दूरं आयं (*dūraṃ āyaṃ*)—I have come to a distant place
+
+##### भावार्थ (Bhāvārtha)
+
+Agni: O Varuṇa, as a charioteer grows thin by going round and round the road, my elder brothers performed this task of carrying the oblation and were slain one after another. O Varuṇa, as the animal called सौर (*saura*) **NOTE**, frightened, runs trembling at the bowstring of the archer who looses the arrow, so I too, trembling with the same fear, have fled to this distant place.
+
 ---
 
-**Progress note:** Done through printed p. 259. pp. 254-259 (batch API)
+**Progress note:** Done through printed p. 265. pp. 260-265 (batch API)
