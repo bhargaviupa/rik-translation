@@ -3503,6 +3503,134 @@ In sum, Bhṛgu's greatness, as one arisen from a divine portion and as a divine
 
 Moreover, in the excellent conduct of the sacrifice Bhṛgu is praised as the model man for all human beings. For example—
 
+### Printed p. 109
+
+In short, in many Śruti passages the greatness of Bhṛgu is praised: he is described as of divine origin and as possessing divine knowledge. In the Ṛksaṃhitā he is famed as the author of the sūktas 9-99 **NOTE** and 10-19.
+
+Moreover, in the proper conduct of sacrifice Bhṛgu is praised as the ideal man for all mankind. For example:
+
+उत त्वा भृगुवच्चुचे मनुष्पदग्न आहुत । अंगिरस्वद्धनामहे ॥ (*uta tvā bhṛguvaccuce manuṣpadagna āhuta | aṃgirasvaddhanāmahe ‖*) (Ṛ. Saṃ. 8-43-13)
+
+O pure Agni, as the sage Bhṛgu did, as Manu did, and as the Aṅgirases did, we worship you and satisfy you. We call you to our help. In this way the verse shows Bhṛgu's role as guide in the performance of rites.
+
+The ṛṣis born in the lineage of this Bhṛgu, who was foremost in ritual and wise, are also known as Bhṛgus. Some of them are famed as seers of certain sūktas of the Ṛksaṃhitā. They are:
+
+1. इटभार्गवः (*iṭabhārgavaḥ*) — Ṛ. Saṃ. 10-171
+2. कविर्भार्गवः (*kavirbhārgavaḥ*) — Ṛ. Saṃ. 9-43-49; 9-75-79
+3. कृत्स्नुर्भार्गवः (*kṛtsnurbhārgavaḥ*) — Ṛ. Saṃ. 8-79
+4. गृत्समदो भार्गवः (*gṛtsamado bhārgavaḥ*) (शौनकः (*śaunakaḥ*)) — Ṛ. Saṃ. 2.1-3; 2-843; 9-86-46-47-48 **NOTE**
+5. च्यवनोभार्गवः (*cyavanobhārgavaḥ*) — Ṛ. Saṃ. 10-19
+6. जमदग्निर्भार्गवः (*jamadagnirbhārgavaḥ*) — Ṛ. Saṃ. 3-62-16, 17, 18; 8-101; 9-92; 9-95; 9-67-16, 17-18; 10-110; 10.137-6; 10-167
+7. नेमो भार्गवः (*nemo bhārgavaḥ*) — Ṛ. Saṃ. 8-100-1, 2, 3; 6-12
+8. प्रयोगो भार्गवः (*prayogo bhārgavaḥ*) — Ṛ. Saṃ. 8-102
+9. वेनो भार्गवः (*veno bhārgavaḥ*) — Ṛ. Saṃ. 9-85; 10-123
+10. सोमाहुतिर्भार्गवः (*somāhutirbhārgavaḥ*) — Ṛ. Saṃ. 2-4-5, 6, 7
+11. स्युमरश्मिर्भार्गवः (*syumaraśmirbhārgavaḥ*) — Ṛ. Saṃ. 10-77; 10-78
+
+Just as Bhṛgu is skilled in ritual, so these maharṣis born in the Bhṛgu lineage are also famed as skilled in ritual. Praising their skill in ritual, Sāyaṇa has explained as follows:
+
+एतं नां स्तोममश्विनावकर्मातक्षाम बृगवो न रथं । न्यमृक्षाम योषणां न मर्ये नित्यं न सूनुं तनयं दधानाः ॥ (*etaṃ nāṃ stomamaśvināvakarmātakṣāma bṛgavo na rathaṃ | nyamṛkṣāma yoṣaṇāṃ na marye nityaṃ na sūnuṃ tanayaṃ dadhānāḥ ‖*) (Ṛ. Saṃ. 10-39-14)
+
+In this Ṛk the skill in ritual of the Bhṛgus is described. Here, giving the etymology of the word भृगवः (*bhṛgavaḥ*), Sāyaṇa explains: कर्मयोगादृभवो भृगव उच्यंते (*karmayogādṛbhavo bhṛgava ucyaṃte*).
+
+### Printed p. 110
+
+The skill in ritual of the Ṛbhus has been examined and explained at length earlier. Here the distinctive character of the Bhṛgus is shown. Likewise:
+
+एनेदिंद्राय वृषभाय वृष्टे ब्रह्माकर्म भृगवो न रथं । न चिद्यदा नः सख्या वियोषदसन्न उग्रोविता तनूपाः ॥ (*enediṃdrāya vṛṣabhāya vṛṣṭe brahmākarma bhṛgavo na rathaṃ | na cidyadā naḥ sakhyā viyoṣadasanna ugrovitā tanūpāḥ ‖*) (Ṛ. Saṃ. 4-16-20)
+
+Here the word भृगु (*bhṛgu*) is explained as "shining takṣans (carpenters, woodworkers)".
+
+Thus the Bhṛgus are famed for the very power for which the Ṛbhus are famed. As the Ṛbhus have, so the Bhṛgus too have a share in the sacrifice together with the gods.
+
+विश्वेर्देष्ट्यस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा । सजोषसा उषसा सूर्येण च सोमं पिबतमश्विना ॥ (*viśverdeṣṭyastribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā | sajoṣasā uṣasā sūryeṇa ca somaṃ pibatamaśvinā ‖*) (Ṛ. Saṃ. 8-35-3)
+
+O Aśvins, in this sacrifice drink the Soma together with all the gods, with the Maruts, with the Bhṛgus and with Uṣas. In such passages the Bhṛgus' share in the sacrifice together with the gods is clear.
+
+Bhṛgu and the ṛṣis born in his lineage are famed as the first to establish the sacrifice. The favour of Agni, the root form of the sacrifice, was obtained by the Bhṛgu maharṣis as by no one else. How close and sacred the relation between these ṛṣis and Agni is can be seen from some examples.
+
+1. Mātariśvan first brought Agni to the Bhṛgus. (Ṛ. Saṃ. 1-60-1)
+2. O Agni, the Bhṛgus were the first to establish you among men. (Ṛ. Saṃ. 1-58-6; 6-15-2)
+3. We pray to and desire Agni, the bestower of what is wished, for the Bhṛgus. (Ṛ. Saṃ. 3-2-4)
+4. The Ṛbhus, intent on ritual, made Agni full of radiance.
+5. The Bhṛgus, with their praises, made Agni full of splendour. (10-122-5)
+
+In these and many other passages it is praised that the ṛṣis born in the Bhṛgu lineage worshipped Agni and established the sacrifice among men for men's welfare. To convey this same greatness, Sāyaṇa has given the etymology of the word भृगवः (*bhṛgavaḥ*) as follows.
+
+### Printed p. 111
+
+भृगवः ऎंब पदद निर्वचनवन्नु ई रीति तिळिसिद्दारॆ. भृगवः—भ्रष्टारो हविषां पापानां भर्जका ना । (*bhṛgavaḥ èṃba padada nirvacanavannu ī rīti tiḷisiddārè. bhṛgavaḥ—bhraṣṭāro haviṣāṃ pāpānāṃ bharjakā nā |*)
+
+Sāyaṇa explains that, since the word means either those who offer oblations or those who destroy sins, and since these ṛṣis had these two kinds of power, this name is theirs. The Nirukta-writers also (say):
+
+अर्चिषि भृगुः संबभूव भृगुर्भृज्यमानो न देहे । (*arciṣi bhṛguḥ saṃbabhūva bhṛgurbhṛjyamāno na dehe |*) (Sukta-3-17) **NOTE**
+
+Born of the flame, Bhṛgu arose from Agni's flame; that is, though boiling within Agni's flame he was not burnt. They state the intent of showing this to all people, namely that this is why he has this name. This wonderful power helps the great sacrificial rite, and likewise helps in the destruction of sin. This greatness is praised in passages such as तेजो यद्भृगुरंगिरसां (*tejo yadbhṛguraṃgirasāṃ*) (Śa. Brā. 1-2-1-13).
+
+The present Ṛk says that the Bhṛgus, possessing such greatness, found Agni hidden in a cave. What is the reason for Agni's having to be hidden in a cave, or what is its meaning? And what is the import of "the Bhṛgus obtained Agni hidden in a secret place"? These two matters are examined here.
+
+That Agni was concealed in a cave is described in different ways in different places. How Agni, when trouble befell his brothers, hid in a secret region out of fear, and how the gods prayed to Agni, has been explained earlier by citing passages of the Taittirīya Saṃhitā. Likewise his entering the cave is described in the Śatapatha Brāhmaṇa as follows.
+
+चतुर्धा विहितो ह ना अग्रेऽग्निरास । स यमग्रेऽग्निग्ं होत्राय प्रावृणत स प्राधन्वद्यं द्वितीयं प्रावृणत स प्रैवाधन्वद्यं तृतीयं प्रावृणत स प्रैवाधन्वदथ योऽयमेतर्ह्यग्निः स भीषा निलिल्ये सोऽपः प्रविवेश तं देवा अनुविद्य सहसैवाद्भ्य आनिन्युः सोऽपोऽभितिष्ठॆनावष्टूता स्थ या अप्रपदनग्स्थ याभ्यो वो मामकामं नयंतीति तत आप्त्याः संबभूवुस्त्रितो द्वित एकतः ॥ (*caturdhā vihito ha nā agre 'gnirāsa | sa yamagre 'gnigṃ hotrāya prāvṛṇata sa prādhanvadyaṃ dvitīyaṃ prāvṛṇata sa praivādhanvadyaṃ tṛtīyaṃ prāvṛṇata sa praivādhanvadatha yo 'yametarhyagniḥ sa bhīṣā nililye so 'paḥ praviveśa taṃ devā anuvidya sahasaivādbhya āninyuḥ so 'po 'bhitiṣṭhènāvaṣṭūtā stha yā aprapadanagstha yābhyo vo māmakāmaṃ nayaṃtīti tata āptyāḥ saṃbabhūvustrito dvita ekataḥ ‖*) (Śa. Brā. 1-2-3-1)
+
+In these passages there is no mention of Agni's three brothers. But three other forms of Agni are described separately. The situation is as follows.
+
+Agni took four forms. First they prayed to Agni to grace the office of Hotṛ. Agni, thus first requested, became invisible. When requested a second time, he again became invisible. When requested a third time, he again became invisible. Then, seeing this, the fourth form of Agni too hid itself in a secret region. At that time it entered the water and
+
+### Printed p. 112
+
+concealed itself. Then the gods entered the water and brought out the Agni who was hiding. Agni, enraged because he had not been properly protected, showed his displeasure against the water. At that time three small drops fell from his mouth. From those drops Ekata, Dvita and Trita were born, it says. In the same way another passage elsewhere describes how Agni went beyond Prajāpati's sight and took a hidden form.
+
+प्रजापतिरग्नि रूपाण्यभ्यध्यायत् । स योऽयं कुमारो रूपाण्यन्नप्रविष्ट आसीत्तमन्वैच्छत्सोऽग्निरवेदनु वै मा पिता प्रजापतिरिच्छति हंत तद्रूपमसानि यन्म एष न वेदेति ॥ (*prajāpatiragni rūpāṇyabhyadhyāyat | sa yo 'yaṃ kumāro rūpāṇyannapraviṣṭa āsīttamanvaicchatso 'gniravedanu vai mā pitā prajāpatiricchati haṃta tadrūpamasāni yanma eṣa na vedeti ‖*) (Śa. Brā. 6-2-1-1)
+
+Prajāpati reflected, in the form of meditation, in order to know the forms of Agni. He tried to find the youth who had taken various forms. Agni thought: "My father Prajāpati is trying to find me. I shall take other forms so as not to come within his sight." And so,
+
+स एतान्पंच पशूनपश्यत् । पुरुषमश्वं गामविमजं यदपश्यत्तस्मादेते पशवः ॥ स एतान् पंच पशून् प्राविशत् । स एते पंच पशवोऽभवत्तमु वै प्रजापतिरन्वेवैच्छत् ॥ (*sa etānpaṃca paśūnapaśyat | puruṣamaśvaṃ gāmavimajaṃ yadapaśyattasmādete paśavaḥ ‖ sa etān paṃca paśūn prāviśat | sa ete paṃca paśavo 'bhavattamu vai prajāpatiranvevaicchat ‖*) (Śa. Brā. 6-2-1-2,3)
+
+Prajāpati saw these five creatures: man, horse, cow, ram and goat. Because he saw (paś) them thus, they got the name paśu. Agni entered them and took on their form. Prajāpati was still searching.
+
+स ऐक्षत्त । इमे वा अग्निरिमानेवात्मानमभिसंस्करवै यथा वा अग्निः समिद्वो दीप्यते एवमेषां चक्षुर्दिप्यते . . . . इमे वाग्निरिमानेवात्मानमभिसंस्करवा इति तान्नानादेवताभ्य आलप्सत वैश्वकर्मणं पुरुषं वारुणमश्वमैंद्रमृषभं त्वाष्ट्रमविमाग्नेयमजं ॥ (*sa aikṣatta | ime vā agnirimānevātmānamabhisaṃskaravai yathā vā agniḥ samidvo dīpyate evameṣāṃ cakṣurdipyate . . . . ime vāgnirimānevātmānamabhisaṃskaravā iti tānnānādevatābhya ālapsata vaiśvakarmaṇaṃ puruṣaṃ vāruṇamaśvamaiṃdramṛṣabhaṃ tvāṣṭramavimāgneyamajaṃ ‖*) (Śa. Brā. 6-2-1-5)
+
+Prajāpati, seeing those animals, thought: "These must be the other forms of Agni. I shall make them one with myself. As kindled Agni shines, their eyes shine. As smoke rises from Agni, breath goes out of their mouths. Since all Agni's marks are in them, Agni himself may have taken this form." So he wished to offer them as oblations to the various gods who are Agni's own other forms. The man
+
+### Printed p. 113
+
+to Viśvakarman, the horse to Varuṇa, the bull to Indra, the ram to Tvaṣṭṛ and the goat to Agni: this he resolved to offer.
+
+आत्मा वै यज्ञो नेन्मेयमात्मा विकृष्णोऽसदित्येतेन पशूनेष्ट्वा तत्प्रजापतिरपश्यद्यथैतस्याग्नेरंतं न पर्यैत् ॥ (*ātmā vai yajño nenmeyamātmā vikṛṣṇo 'sadityetena paśūneṣṭvā tatprajāpatirapaśyadyathaitasyāgneraṃtaṃ na paryait ‖*) (Śa. Brā. 6-2-1-7)
+
+Prajāpati, having thus reflected, performed the sacrifice as he had resolved. He offered the animals in due order to the respective gods. Even so, he realised that he had not found the end of Agni.
+
+स ऐक्षत । यमिममात्मानमप्पु प्रापिप्लवं तमन्विच्छानीति तमन्वैच्छद्यदेषामप्पु प्रविद्वा नां प्रत्यतिषत्ता अपः समभरदथ यदस्यां तां मृदं यदुभयग्० संभृत्य मृदं चापश्चेष्टकामकरोत्तस्मादेतदुभयमिष्टका भवति मृच्चापश्च ॥ (*sa aikṣata | yamimamātmānamappu prāpiplavaṃ tamanvicchānīti tamanvaicchadyadeṣāmappu pravidvā nāṃ pratyatiṣattā apaḥ samabharadatha yadasyāṃ tāṃ mṛdaṃ yadubhayag0 saṃbhṛtya mṛdaṃ cāpaśceṣṭakāmakarottasmādetadubhayamiṣṭakā bhavati mṛccāpaśca ‖*) (Śa. Brā. 6-2-1-8)
+
+"I must seek and obtain the form of Agni that has spread in the water." Thinking so, he searched there too, and gathered in one place all the portions of Agni that had spread in the form of water. He gathered the portion of Agni hidden in the clay (earth) contained in the water. Then, joining the water and the clay that held portions of Agni, he made bricks (iṣṭaka). Hence the bricks used for the sacrificial altar also contain portions of Agni. Thus, it says, Prajāpati did a service to creatures by causing Agni, who lay hidden in a secret form, to be transformed into the form of sacrifice.
+
+That Agni is hidden in the forms of animals became known to the gods also, through Prajāpati. This knowledge brought them another benefit: they came to know where Agni, who is beyond sight, lies hidden. How?
+
+एतस्यामाहुत्याग्ं हुतायां । अग्निर्देवेभ्य उदक्रामत्ते देवा अब्रुवन् पशुर्वा अग्निः पशुभिरिममन्विच्छाम स स्वाय रूपायाविर्भवति गौर्वा गवे आश्वोवाश्वय पुरुषो ना पुरुषाय ॥ (*etasyāmāhutyāgṃ hutāyāṃ | agnirdevebhya udakrāmatte devā abruvan paśurvā agniḥ paśubhirimamanvicchāma sa svāya rūpāyāvirbhavati gaurvā gave āśvovāśvaya puruṣo nā puruṣāya ‖*) (Śa. Brā. 6-3-1-22)
+
+Once the gods performed a sattra and offered an oblation addressed to Agni; Agni withdrew from them. Then they said: "Since Agni is hidden in animal forms, let us seek him by animal forms." When they began to seek him with a cow and the other forms, Agni appeared to a man in the form of a man, to a horse in the form of a horse, to a cow in the form of a cow,
+
+### Printed p. 114
+
+it says. In the same way the search for Agni hidden in secrecy is described in many other contexts.
+
+The lightning Agni too, who lies hidden in the root region of the atmosphere beyond the sight of men, is likewise described in many places. For example:
+
+स जायत प्रथमः पस्ता ्यसु महो बुध्ने रजसो अस्य योन् । अपादशीर्षा गुहमानो अंतायोयुवानो वृषभस्य नीळे ॥ (*sa jāyata prathamaḥ pastā yasu maho budhne rajaso asya yon | apādaśīrṣā guhamāno aṃtāyoyuvāno vṛṣabhasya nīḷe ‖*) (Ṛ. Saṃ. 4-1-11)
+
+Here is described the hidden region where Agni lay concealed before being born in the sacrificial house. Where it says that Agni, footless and headless, lay hidden in the secret region of the atmosphere, the words योन् (*yon*) and नीळे (*nīḷe*) are noteworthy. The hidden region that stays concealed, not falling within worldly sight, is also called the seat of Ṛta. It is an utterly secret region. (Ṛ. Saṃ. 4-1-12)
+
+It is mentioned in many ways that in some contexts men brought out Agni who lay hidden in a cave so described. Whoever among gods or men is said to be the first to see Agni face to face and make him manifest on earth, with all of them Agni's oneness and identity is stated. In this connection Mātariśvan, Bṛhaspati, Aṅgiras, Atharvan, Bhṛgu and others are famed.
+
+1) That Mātariśvan brought Agni from the atmosphere for Bhṛgu has been stated earlier. Examining one passage as an example among such contexts, one learns the meaning of the word मातरिश्वा (*mātariśvā*), and also that this Mātariśvan who found Agni is himself of the form of Agni.
+
+उदस्तंभीत्समिधा नाकमृष्टोग्निर्भवन्नुत्तमो रोचमानां । यदी भृगुभ्यः परि मातरिश्वा सुहा संतं हव्यवाहं समीधे ॥ (*udastaṃbhītsamidhā nākamṛṣṭognirbhavannuttamo rocamānāṃ | yadī bhṛgubhyaḥ pari mātariśvā suhā saṃtaṃ havyavāhaṃ samīdhe ‖*) (Ṛ. Saṃ. 3-5-10)
+
+Here the account of Mātariśvan's bringing Agni to the Bhṛgus is evident. But who this Mātariśvan is:
+
+मातरि अंतरिक्षे श्वसिति प्राणिति सूर्यरूपेण चेष्टत इति मातरिश्वा अथवा मातरि अरण्यां श्वसिति निवसतीति मातरिश्वा (*mātari aṃtarikṣe śvasiti prāṇiti sūryarūpeṇa ceṣṭata iti mātariśvā athavā mātari araṇyāṃ śvasiti nivasatīti mātariśvā*) Sāyaṇa explains that Agni has this name either because he moves in the atmosphere in the form of the sun, or because he dwells in the mother-like araṇis (fire-sticks).
+
 ---
 
-**Progress note:** Done through printed p. 108. pp. 103-108 (batch API)
+**Progress note:** Done through printed p. 114. pp. 109-114 (batch API)
