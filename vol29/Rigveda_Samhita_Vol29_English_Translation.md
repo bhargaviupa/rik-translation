@@ -597,7 +597,7 @@ From the sentences quoted below it is known that Aditi is the mother of Varuṇa
 "So that Mitra and Varuṇa, lords of all riches, may display their divine power, Aditi, mother of the world, of great nature, worthy of worship, gave birth to Mitra and Varuṇa"
 (8-25-3)
 "May Aditi, mother of the wealthy Mitra, of Aryaman and of the pure-souled Varuṇa, grant us protection."
-(Ṛ. Saṃ. 10-36-3; 10-132 6 ; A. Ve. 5-1-9) (8-47-9) **NOTE**
+(Ṛ. Saṃ. 10-36-3; 10-132 6 ; Ath. Saṃ. 5-1-9) (8-47-9) **NOTE**
 In 2-67-7 she is designated राजपुत्रा (*rājaputrā*), that is, one whose sons are the Ādityas, Varuṇa and the rest, lords of the world; in 3-4-11 सुपुत्रा (*suputrā*), one who has excellent sons; in 8-56-11 उग्रपुत्रा (*ugraputrā*), one who has very
 
 ### Printed p. 28
@@ -618,7 +618,7 @@ As in 10-63-2, this point can be observed also in the Ṛk 10-63-3. "Offer prais
 (10-65-9)
 those born of the earth and those born of the heavenly world are mentioned separately, besides the Ādityas and their mother Aditi; in this context it is stated that Aditi and the heavenly world are different.
 **5. Evidence that Aditi is a deity different from the earth.**
-Although in some of the sentences quoted above identity of Aditi with the atmosphere is stated, it cannot be said that the same relation of identity is shown in the other parts of the Saṃhitā. At times there are contexts that show the earth and Aditi to be one. But there are also descriptions that differ from this. It has been stated above that, according to the readings of the Nirukta, the word is at one time a synonym of the earth and at another of heaven and earth. In one or two contexts the word Aditi is an epithet of the earth, as in "the earth, in the form of Aditi, together with sons who perform excellent rites, stands by the favour of Agni" and so on (1. 72-9) (A. Ve. 13-1-38). But in many other contexts it is known precisely that she is a deity different from the earth. For example,
+Although in some of the sentences quoted above identity of Aditi with the atmosphere is stated, it cannot be said that the same relation of identity is shown in the other parts of the Saṃhitā. At times there are contexts that show the earth and Aditi to be one. But there are also descriptions that differ from this. It has been stated above that, according to the readings of the Nirukta, the word is at one time a synonym of the earth and at another of heaven and earth. In one or two contexts the word Aditi is an epithet of the earth, as in "the earth, in the form of Aditi, together with sons who perform excellent rites, stands by the favour of Agni" and so on (1. 72-9) (Ath. Saṃ. 13-1-38). But in many other contexts it is known precisely that she is a deity different from the earth. For example,
 "May heaven and earth, the waters, and the sun together with the stars hear our prayer"
 thus it is prayed in the mantra 3-54-19, and then, in what follows it, that is, in the Ṛk 3-54-20,
 "May Aditi, together with the Ādityas, hear our prayer"
@@ -635,7 +635,7 @@ heaven, the Maruts, the mountains and the waters" (5-46-3)
 "We shall take refuge in the earth that gives excellent protection, in heaven free from sin, in Aditi the guide ..." (10-63.-10)
 In such sentences the difference between the earth and Aditi is clear. In support of the same opinion there is in the Vājasaneyi Saṃhitā also this prayer: "पृथिवी चमेऽदितिश्च मे (*pṛthivī came 'ditiśca me*) .... may the earth, Aditi and Diti .... satisfy me" [Vā. Saṃ. 18-22]. In the Atharvaveda also, भूमिर्माता अदितिर्नो जनित्रं (*bhūmirmātā aditirno janitraṃ*) ........, it is said: may the earth, in the form of mother, and Aditi, the cause of birth, protect us (Ath. Saṃ. 6-120-2).
 But in some Brāhmaṇa sentences precise identity of Aditi and the earth is stated. For example:—
-"इयं वै पृथ्वी अदितिः सा इयं प्रतिष्ठा (*iyaṃ vai pṛthvī aditiḥ sā iyaṃ pratiṣṭhā*)" (Śa. Brā 2-2-1.19)
+"इयं वै पृथ्वी अदितिः सा इयं प्रतिष्ठा (*iyaṃ vai pṛthvī aditiḥ sā iyaṃ pratiṣṭhā*)" (Śa. Brā. 2-2-1.19)
 This earth is Aditi; she is the support of the world.
 "इयं वै पृथ्वी अदितिः सा इयं देवानां पत्नि (*iyaṃ vai pṛthvī aditiḥ sā iyaṃ devānāṃ patni*)" (Śa. Brā. 5-3-1-4)
 This earth is Aditi. She is the worshipful consort of the gods. Since there are Brāhmaṇa sentences of this kind, the precise meaning of the word Aditi must be stated only as suits each context.
@@ -658,7 +658,7 @@ There are also some contexts in which only Diti is used, without Aditi. For exam
 ### Printed p. 32
 Diti also grants us the things we desire"
 (Ṛ. Saṃ. 7-15-12)
-In the mantra त्वमग्ने (*tvamagne*), which gives this meaning, Sāyaṇa has given for the word Diti only the meaning "goddess". Here Diti is not joined with Aditi. In this context English or German scholars have supplied their own meaning for the word Diti according to their own imagination. For example, Roth has said: "Diti is a special deity reflecting either generosity or increase of wealth." Max Muller has stated: "In this context the word Aditi itself has been changed into Diti by a variant reading." In the mantras A. Ve. 15-6-7; 15-18-4; Vā. Saṃ. 18-22 it is precisely stated that Diti and Aditi are separate deities. In A. Ve. 7-7-1 it is indicated who are the sons of Diti and who are the sons of Aditi. These sons of Diti are later, in the Purāṇas and the like, regarded as Daityas and enemies of the gods.
+In the mantra त्वमग्ने (*tvamagne*), which gives this meaning, Sāyaṇa has given for the word Diti only the meaning "goddess". Here Diti is not joined with Aditi. In this context English or German scholars have supplied their own meaning for the word Diti according to their own imagination. For example, Roth has said: "Diti is a special deity reflecting either generosity or increase of wealth." Max Muller has stated: "In this context the word Aditi itself has been changed into Diti by a variant reading." In the mantras Ath. Saṃ. 15-6-7; 15-18-4; Vā. Saṃ. 18-22 it is precisely stated that Diti and Aditi are separate deities. In Ath. Saṃ. 7-7-1 it is indicated who are the sons of Diti and who are the sons of Aditi. These sons of Diti are later, in the Purāṇas and the like, regarded as Daityas and enemies of the gods.
 **7. Aditi can be the deity-principle that reflects universal nature.**
 There are also mantras which state that Aditi reflects Nature, which pervades the universe. Whatever things there are that belong to heaven and to the atmosphere, whatever beings there are, divine and human, whatever special principle there is that belongs to past, future, present and the rest, of all these Aditi is the origin, and she is the self of all.
 “पदितिद्र्यौरदतिरंतरिक्षं........................आदितिर्जनित्वं (*paditidryauradatiraṃtarikṣaṃ........................āditirjanitvaṃ*)”
@@ -717,7 +717,7 @@ Here it is pertinent to examine what the word यतयः (*yatayaḥ*) used in
 
 ### Printed p. 37
 There are some Sāma mantras that are not included in the Ṛgveda Saṃhitā. In one of them both the words यति (*yati*) and भृगु (*bhṛgu*) are used. (Sā. Saṃ. 2-304) "इंद्रस्तुराषाण्मित्रो न जघान वृत्रं यतिर्न । (*iṃdrasturāṣāṇmitro na jaghāna vṛtraṃ yatirna |*)" The purport of this mantra is that Indra killed Vṛtra now just as Mitra and Yati killed him before, and "बिभेद बलं भृगुर्न (*bibheda balaṃ bhṛgurna*)" that he killed Bala as Bhṛgu did. Besides, in the Aitareya Brāhmaṇa (7-28) it is said that Indra abandoned the yatis and made them offerings to wolves.
-The purport of the 8th mantra gives the purport of the Atharvaveda sentence "अष्टयोनीरदितिरष्टपुत्रा (*aṣṭayonīraditiraṣṭaputrā*)" (A. Ve. 8-9-21). Stating the same idea in the Taittirīya Āraṇyaka also, "अष्टयोनीमष्टपुत्रां । अष्टपत्नीमिमां महीं ॥ (*aṣṭayonīmaṣṭaputrāṃ | aṣṭapatnīmimāṃ mahīṃ ‖*)" (Tai. Ā. 1-13-1), it is stated that the earth (Aditi) has eight births, eight sons and eight husbands.
+The purport of the 8th mantra gives the purport of the Atharvaveda sentence "अष्टयोनीरदितिरष्टपुत्रा (*aṣṭayonīraditiraṣṭaputrā*)" (Ath. Saṃ. 8-9-21). Stating the same idea in the Taittirīya Āraṇyaka also, "अष्टयोनीमष्टपुत्रां । अष्टपत्नीमिमां महीं ॥ (*aṣṭayonīmaṣṭaputrāṃ | aṣṭapatnīmimāṃ mahīṃ ‖*)" (Tai. Ā. 1-13-1), it is stated that the earth (Aditi) has eight births, eight sons and eight husbands.
 The 8th and 9th mantras of the 72nd sūkta are quoted also in the Taittirīya Āraṇyaka. In place of the Saṃhitā reading "परा मार्तांडमास्यत् (*parā mārtāṃḍamāsyat*)" there is there the variant reading "परा मार्तांडमाभरत् (*parā mārtāṃḍamābharat*)". The commentator, explaining its meaning, has said as follows: "मार्तांडाख्यं अष्टमं पुत्रं ‘ परा भरत् ’ परि त्यक्तवती इति यत् तत् मृत्युवे मृत्युनिमित्तं (*mārtāṃḍākhyaṃ aṣṭamaṃ putraṃ ‘ parā bharat ’ pari tyaktavatī iti yat tat mṛtyuve mṛtyunimittaṃ*)". The purport is that as soon as Mārtāṇḍa was produced, the egg died.
 Explaining the 8th mantra above, the Śatapatha Brāhmaṇa says as follows.
 अष्टौ ह वै पुत्रा आदितेः । यांस्वेतद्देवा आदित्या इत्याचक्षते सप्त हैव तेऽविकृतग्ं हाष्टमं जनयांचकार मार्तांडग्ं संदेघो हैवास यावानेवोर्ध्वस्तावांस्तिर्यज् पुरुषसम्मित इत्यु हैक आहुः (*aṣṭau ha vai putrā āditeḥ | yāṃsvetaddevā ādityā ityācakṣate sapta haiva te 'vikṛtagṃ hāṣṭamaṃ janayāṃcakāra mārtāṃḍagṃ saṃdegho haivāsa yāvānevordhvastāvāṃstiryaj puruṣasammita ityu haika āhuḥ*)
@@ -1057,7 +1057,7 @@ As he is the regulator of moral law, sin makes Varuṇa very angry. He also beco
 युवो राष्ट्रं बृहदिन्वति द्यौर्यौ सेतृभिररज्जुभिः सिनीथः । परि नो हेळो वरुणस्य वृज्या उरुं न इंद्रः कृणवदु लोकं ॥ (*yuvo rāṣṭraṃ bṛhadinvati dyauryau setṛbhirarajjubhiḥ sinīthaḥ | pari no heḷo varuṇasya vṛjyā uruṃ na iṃdraḥ kṛṇavadu lokaṃ ‖*) (Ṛ. Saṃ. 7-84-3)
 In this Ṛk it is said that Varuṇa, accompanied by Indra, binds with bonds that are not ropes. The word pāśa (noose) occurs in the whole Ṛgveda in only one place, in a mantra addressed to Agni; and that too in a context in which it is prayed that the noose that binds his devotees be loosened. Therefore it may be said that these acts of binding with the noose and of release (loosening the noose) belong to Varuṇa alone. Varuṇa, together with Mitra, is the one who drives away, hates and punishes untruth. Mitra and Varuṇa punish those who are careless about their worship. But Varuṇa forgives those who repent; he unties like a rope; and he removes sin. Not only from sin committed by themselves, he releases men also from sin committed by their forefathers. He saves even those who daily transgress the laws laid down by him and afterwards repent. And he shows compassion to those who have transgressed his commands through forgetfulness. Varuṇa has hundreds and thousands of medicines. He drives away death and removes sin. He can take away life, and he can also give life. He is very skilful in protecting eternity. Thus the description of the qualities of Varuṇa is in many Ṛks. Here we have explained it very briefly. On a suitable occasion we shall explain it at length.
 In the Taittirīya Saṃhitā—फल्गुनीनक्षत्रमर्यमा देवता..... .... .... अनुराधा नक्षत्रं मित्रो देवता .... ..... .... ..... (*phalgunīnakṣatramaryamā devatā..... .... .... anurādhā nakṣatraṃ mitro devatā .... ..... .... .....*) (Tai. Saṃ. 4-4-9-2) that is, it is said that Aryamā is the lord of the Pūrva Phalgunī constellation and Mitra the lord of the Anurādhā constellation.
-Aryamā:—In the sūktas addressed to the Ādityas, by the Ādityas are generally meant Mitra, Varuṇa and Aryamā. As we stated before, in the Ṛgveda (Ṛ. Saṃ. 2-27-1) only the names of six persons are given: Mitra, Aryamā, Bhaga, Varuṇa, Dakṣa and Aṃśa. In the Ṛk Ṛ. Saṃ. 9-114-3 the number of the Ādityas is seven, and in Ṛ. Saṃ. 10-22-8 it is said that Aditi first presented seven sons to the gods and afterwards obtained the eighth, Mārtāṇḍa. **NOTE** In A. Ve. 8-9-21 and in Tai. Brā. 1-1-9-1 it is said that Aditi had eight sons: Mitra, Aryamā, Varuṇa, Aṃśa, Bhaga, Dhātṛ, Indra and Vivasvān. **NOTE** In the Śatapatha Brāhmaṇa (Śa. Brā. 6-1-2-8; 11-6-3-8) it is said that the Ādityas are twelve, one for each month. In the Purāṇas and the like also the Ādityas are twelve.
+Aryamā:—In the sūktas addressed to the Ādityas, by the Ādityas are generally meant Mitra, Varuṇa and Aryamā. As we stated before, in the Ṛgveda (Ṛ. Saṃ. 2-27-1) only the names of six persons are given: Mitra, Aryamā, Bhaga, Varuṇa, Dakṣa and Aṃśa. In the Ṛk Ṛ. Saṃ. 9-114-3 the number of the Ādityas is seven, and in Ṛ. Saṃ. 10-22-8 it is said that Aditi first presented seven sons to the gods and afterwards obtained the eighth, Mārtāṇḍa. **NOTE** In Ath. Saṃ. 8-9-21 and in Tai. Brā. 1-1-9-1 it is said that Aditi had eight sons: Mitra, Aryamā, Varuṇa, Aṃśa, Bhaga, Dhātṛ, Indra and Vivasvān. **NOTE** In the Śatapatha Brāhmaṇa (Śa. Brā. 6-1-2-8; 11-6-3-8) it is said that the Ādityas are twelve, one for each month. In the Purāṇas and the like also the Ādityas are twelve.
 
 ### Printed p. 55
 
@@ -6649,7 +6649,7 @@ By the epithet चक्षुषः पिता (*cakṣuṣaḥ pitā*) Viśv
 
 आदित्यो ह वै प्राणः । (*ādityo ha vai prāṇaḥ |*) (Pra. Tā. 1-5) **NOTE**
 
-स होवाच । विजान्यामहं यत्पाणो ब्रह्म ॥ (*sa hovāca | vijānyāmahaṃ yatpāṇo brahma ‖*) (Cha. U. 4-10-5) **NOTE**
+स होवाच । विजान्यामहं यत्पाणो ब्रह्म ॥ (*sa hovāca | vijānyāmahaṃ yatpāṇo brahma ‖*) (Chā. U. 4-10-5) **NOTE**
 
 The sun is of the nature of breath. That which is known as breath is the Supreme Brahman itself. It is this that nourishes the senses and the rest; so it is praised.
 
@@ -6910,7 +6910,7 @@ is two. Thus Brahman, whose nature is seven syllables in all, is the universe. I
 
 This is the purport of the sentence इष्टानि समिषा मदंति (*iṣṭāni samiṣā madaṃti*). The word इष (*iṣa*) has been explained as water. The rays of Āditya, issuing from his excellent place, spread in many directions and distribute water to the whole world. Again they gather the same water and are satisfied. The meaning is that Āditya is established in the midst of these rays full of water. The same matter is described in the Śatapatha Brāhmaṇa in this way. If the sap is what is agreeable to each ray, then it need not be taken here as mere water; the meaning is that the rays, having gathered the water that is sap, are satisfied. How? Thus—
 
-तस्य ये प्रांचो रश्मयस्ता एवास्य प्राज्यो मधुनाड्यः । यच एव मधुकृत ऋग्वेद एव पुष्पं ता अमृता आपस्ता वा एता ऋचः । एतमृग्वेदमभ्यतपंस्तस्याभितप्तस्य यशस्सेज इंद्रियं वीर्यमन्नाद्यं रसोऽजायत । तद्व्यक्षरत्तदादित्यमभितोऽश्रयत् ॥ (*tasya ye prāṃco raśmayastā evāsya prājyo madhunāḍyaḥ | yaca eva madhukṛta ṛgveda eva puṣpaṃ tā amṛtā āpastā vā etā ṛcaḥ | etamṛgvedamabhyatapaṃstasyābhitaptasya yaśasseja iṃdriyaṃ vīryamannādyaṃ raso 'jāyata | tadvyakṣarattadādityamabhito 'śrayat ‖*) (Cha. U. 3-1) **NOTE**
+तस्य ये प्रांचो रश्मयस्ता एवास्य प्राज्यो मधुनाड्यः । यच एव मधुकृत ऋग्वेद एव पुष्पं ता अमृता आपस्ता वा एता ऋचः । एतमृग्वेदमभ्यतपंस्तस्याभितप्तस्य यशस्सेज इंद्रियं वीर्यमन्नाद्यं रसोऽजायत । तद्व्यक्षरत्तदादित्यमभितोऽश्रयत् ॥ (*tasya ye prāṃco raśmayastā evāsya prājyo madhunāḍyaḥ | yaca eva madhukṛta ṛgveda eva puṣpaṃ tā amṛtā āpastā vā etā ṛcaḥ | etamṛgvedamabhyatapaṃstasyābhitaptasya yaśasseja iṃdriyaṃ vīryamannādyaṃ raso 'jāyata | tadvyakṣarattadādityamabhito 'śrayat ‖*) (Chā. U. 3-1) **NOTE**
 
 The rays of Āditya that spread to the east are the honey-channels of the eastern quarter. The Ṛks are the bees. The Ṛgveda is the flower. The offerings of ghee and milk made in the sacrifice are the drops of nectar. After the Ṛk mantras ripened, fame, brilliance, sense-power, virility and strength, and sap arose from the sacrifices and other rites. Afterwards all these fruits in the form of sap and the rest spread toward Āditya and joined him. The rays of Āditya enjoy the delight of this tasting of sap. The description of the various spreadings of the rays of Āditya, of the various kinds of gathering of sap and of the enjoyment of delight has been given earlier in the Ṛgveda-saṃhitā, Part 12, pp. 333-334.
 
@@ -9151,7 +9151,7 @@ Some of the opinions of the scholar Maryla Falk cited above are critical and are
 
 In this Ṛk there is the description that the gods gave Saraṇyū to Vivasvān in marriage, and that she, in the form of a mare, bore the Aśvins. That is, it is understood from this that the Aśvins are the sons of Vivasvān. But from the statement of the Bṛhaddevatā cited above,
 
-सावित्रि चैव सूर्या च सैवपत्नी विशेषतः (*sāvitri caiva sūryā ca saivapatnī viśeṣataḥ*) (Bṛ. De- 7-119) **GLOSS**
+सावित्रि चैव सूर्या च सैवपत्नी विशेषतः (*sāvitri caiva sūryā ca saivapatnī viśeṣataḥ*) (Bṛ. De. 7-119) **GLOSS**
 
 it is understood that Sūryā is the wife of Vivasvān. What is the meaning of the Aśvins having chosen her? In the same way,
 
@@ -9173,7 +9173,7 @@ Further, from some other descriptions it is understood that Sūryā is stated to
 
 यदा तु वाग्भवत्येषा सूर्यामुं लोकमाश्रिता । तथा सूक्तमुषा भूत्वा सूर्या च भजतेऽखिलं ॥ (*yadā tu vāgbhavatyeṣā sūryāmuṃ lokamāśritā | tathā sūktamuṣā bhūtvā sūryā ca bhajate 'khilaṃ ‖*) (Bṛ. De. 2-79) **GLOSS**
 
-सूर्यामेव सतीमेतां गौरीं वाचं सरस्वतीं पश्यामो वैश्वदेवेषु निपातेनैव केवलाः ॥ (*sūryāmeva satīmetāṃ gaurīṃ vācaṃ sarasvatīṃ paśyāmo vaiśvadeveṣu nipātenaiva kevalāḥ ‖*) (Bṛ. De- 2-80) **GLOSS**
+सूर्यामेव सतीमेतां गौरीं वाचं सरस्वतीं पश्यामो वैश्वदेवेषु निपातेनैव केवलाः ॥ (*sūryāmeva satīmetāṃ gaurīṃ vācaṃ sarasvatīṃ paśyāmo vaiśvadeveṣu nipātenaiva kevalāḥ ‖*) (Bṛ. De. 2-80) **GLOSS**
 
 by these verses it is described that Vāk, which is of the nature of the word-Brahman, abides in the atmosphere in the form of Sūryā. This very one is Sūryā, this very one is the goddess Uṣas, Gaurī and Sarasvatī. The greatness of this Vāk has been explained in detail earlier, in the Special Topics of the Ṛk 1-164-41. Because identity with Vāk has been stated in this way, the conjugal relation between Sūryā and the Gandharvas also becomes intelligible. How Sūryā came to be obtained by the Gandharva who had received Soma is described in the last Ṛks of the Sūryā-sūkta in this manner.
 
@@ -10850,27 +10850,27 @@ Formerly, when the Śyena bird was bringing the Soma plants from heaven, the Gan
 
 A little explanation concerning the Gandharvas is necessary.
 
-As already stated, in connection with the Apsarases there is a male, Gandharva, or a male race, the Gandharvas. In the Ṛgveda, of the twenty places where it occurs, only three times is it in the plural. In the Atharvaveda, of the thirty-two, half are in the plural. From this it appears that at first there was only one, and that gradually the number increased. In the other Vedas the Gandharvas, like the gods, the Pitṛs and the Asuras, are a class (A. Ve. 11-5-2 **NOTE**; Tai. Saṃ. 7-8-25-2). In the Yajurveda their number is twenty-seven; in the Atharvaveda it becomes about 6333 (A. Ve. 11-5-2). From the beginning their character and nature
+As already stated, in connection with the Apsarases there is a male, Gandharva, or a male race, the Gandharvas. In the Ṛgveda, of the twenty places where it occurs, only three times is it in the plural. In the Atharvaveda, of the thirty-two, half are in the plural. From this it appears that at first there was only one, and that gradually the number increased. In the other Vedas the Gandharvas, like the gods, the Pitṛs and the Asuras, are a class (Ath. Saṃ. 11-5-2 **NOTE**; Tai. Saṃ. 7-8-25-2). In the Yajurveda their number is twenty-seven; in the Atharvaveda it becomes about 6333 (Ath. Saṃ. 11-5-2). From the beginning their character and nature
 
 ### Printed p. 403
 
-are not determined; no support for it is found in the Ṛgveda. In this connection it is also an important matter in which maṇḍalas these expressions are found. In maṇḍalas two to seven it occurs altogether only once, and in the eighth twice, in opposition to Indra. Or it appears that this word may be taken as an epithet. Sometimes it is used together with the word Viśvāvasu (9-86-36; 10-139-4,5; A. Ve. 2.2.4; Vā. Saṃ. 2-3). In one passage the word Viśvāvasu is used to indicate the Gandharva (10-85-21,22; compare 10-85 40, 41). In the other Saṃhitās, the Brāhmaṇas and the Purāṇas and the like, Viśvāvasu is the name of a Gandharva.
+are not determined; no support for it is found in the Ṛgveda. In this connection it is also an important matter in which maṇḍalas these expressions are found. In maṇḍalas two to seven it occurs altogether only once, and in the eighth twice, in opposition to Indra. Or it appears that this word may be taken as an epithet. Sometimes it is used together with the word Viśvāvasu (9-86-36; 10-139-4,5; Ath. Saṃ. 2.2.4; Vā. Saṃ. 2-3). In one passage the word Viśvāvasu is used to indicate the Gandharva (10-85-21,22; compare 10-85 40, 41). In the other Saṃhitās, the Brāhmaṇas and the Purāṇas and the like, Viśvāvasu is the name of a Gandharva.
 
-According to the Ṛgveda the Gandharva dwells in the atmosphere, or in the highest region of the sky. He is the measurer in the sky (10-139.5); he dwells in the unfathomable regions of the atmosphere (8-66-5); he is of divine nature and stands erect in the middle region (10-123-7). It is on him that the Apsaras smiles (10-123-5). His dwelling is in heaven (A. Ve. 2-2.1.2), and the virtuous live with the Gandharvas (A. Ve. 4.34.3). In some passages it is said that the Gandharvas have some connection with heavenly light. He is associated with the sun, Varuṇa's messenger with golden wings (10-123.6), with the sun-bird (10-177-2), with the sun-horse (1-163.2), and with Soma, who is like the sun (9-85-12). Moreover, a connection is assumed with the twenty-seven constellations on the moon's path (Vā. Saṃ. 9-7), and especially with the constellation Rohiṇī (A. Ve. 13.1-23). In the Vājasaneyi Saṃhitā (Vā. Saṃ. 18.38) the Gandharva is regarded as a deity together with Agni, the sun, the moon and the wind. In the Purāṇas and the like, gandharvanagara (the city of the Gandharvas) is a name of the mirage.
+According to the Ṛgveda the Gandharva dwells in the atmosphere, or in the highest region of the sky. He is the measurer in the sky (10-139.5); he dwells in the unfathomable regions of the atmosphere (8-66-5); he is of divine nature and stands erect in the middle region (10-123-7). It is on him that the Apsaras smiles (10-123-5). His dwelling is in heaven (Ath. Saṃ. 2-2.1.2), and the virtuous live with the Gandharvas (Ath. Saṃ. 4.34.3). In some passages it is said that the Gandharvas have some connection with heavenly light. He is associated with the sun, Varuṇa's messenger with golden wings (10-123.6), with the sun-bird (10-177-2), with the sun-horse (1-163.2), and with Soma, who is like the sun (9-85-12). Moreover, a connection is assumed with the twenty-seven constellations on the moon's path (Vā. Saṃ. 9-7), and especially with the constellation Rohiṇī (Ath. Saṃ. 13.1-23). In the Vājasaneyi Saṃhitā (Vā. Saṃ. 18.38) the Gandharva is regarded as a deity together with Agni, the sun, the moon and the wind. In the Purāṇas and the like, gandharvanagara (the city of the Gandharvas) is a name of the mirage.
 
-The name of the Gandharvas is mentioned especially in the ninth maṇḍala, together with Soma. They guard the place of Soma and the lineage of the gods (9-83-4; compare 1-22-14). They stand in the firmament, watching all the states of the Soma juice (9.85.12). Together with Parjanya and the daughter of the sun, the Gandharvas increase the Soma juice (9-113.3). It is from the mouth of the Gandharva that the gods drink Soma (A. Ve. 7,73-3). It is said that the Gandharvas guarded the Soma for the gods, but allowed it to be stolen, and that as a punishment the drinking of Soma was forbidden to the Gandharvas (Mai. Saṃ. 3-8.10). In connection with this Soma juice it is said that the Gandharvas know the plants (A. Ve. 4-4-1). The Gandharva who was devoted to guarding the Soma incurs Indra's displeasure and is pierced by him in the atmosphere
+The name of the Gandharvas is mentioned especially in the ninth maṇḍala, together with Soma. They guard the place of Soma and the lineage of the gods (9-83-4; compare 1-22-14). They stand in the firmament, watching all the states of the Soma juice (9.85.12). Together with Parjanya and the daughter of the sun, the Gandharvas increase the Soma juice (9-113.3). It is from the mouth of the Gandharva that the gods drink Soma (Ath. Saṃ. 7,73-3). It is said that the Gandharvas guarded the Soma for the gods, but allowed it to be stolen, and that as a punishment the drinking of Soma was forbidden to the Gandharvas (Mai. Saṃ. 3-8.10). In connection with this Soma juice it is said that the Gandharvas know the plants (Ath. Saṃ. 4-4-1). The Gandharva who was devoted to guarding the Soma incurs Indra's displeasure and is pierced by him in the atmosphere
 
 ### Printed p. 404
 
 (8-66 5). And for this very reason the hymns praise Indra, asking him to defeat him (8-1 11). In another place (Tai. Saṃ. 1-2.9-1) Soma is also told to come in the form of a Śyena, in order to escape from the Gandharva Viśvāvasu. It is said that the Soma juice was in the midst of the Gandharvas, or was stolen by the Gandharva Viśvāvasu; that the gods gave the goddess Vāk as the price to the Gandharvas, who were fond of women, and obtained the Soma from the Gandharvas (Ai. Brā. 1-27; Tai. Saṃ. 6-1-6-5; Mai. Saṃ. 3-7-3). Kṛśānu, who shoots an arrow at the Śyena that is carrying off the Soma, must also be a Gandharva. In the Taittirīya Āraṇyaka (Tai. Ā. 1-9-3) it is stated clearly that Kṛśānu too is a Gandharva.
 
-The Gandharvas have a connection with water. The Gandharva in the water and the Apsaras of watery form are said to be the parents of Yama and Yamī (10-10-4). The Soma juice poured into water is called the Gandharva of the water (9-86-36). The Gandharvas, who are united with the Apsarases, also live in the water (A. Ve. 2.2-3; 4-37-12).
+The Gandharvas have a connection with water. The Gandharva in the water and the Apsaras of watery form are said to be the parents of Yama and Yamī (10-10-4). The Soma juice poured into water is called the Gandharva of the water (9-86-36). The Gandharvas, who are united with the Apsarases, also live in the water (Ath. Saṃ. 2.2-3; 4-37-12).
 
 The union of the Gandharva and the Apsaras is suggestive of marriage. Therefore a connection is assumed between the Gandharvas and the marriage ceremony. The unmarried maiden belongs to the Gandharva, Soma and Agni (10-85-40,41). In the first days of the marriage, Viśvāvasu is a rival to the bridegroom (10-85-22). The Gandharva's love for women is well known in the other Vedas (Mai. Saṃ. 3-7-3). The Gandharvas and the Apsarases are the presiding deities of fertility, and those who desire offspring praise them (Saṃ. Brā. 19-3-2 **NOTE**).
 
 That the Gandharvas are celestial singers has become famous in the Purāṇas and the like, but there is no support for it anywhere in the Ṛgveda (compare 10-177-2; 10-11-2).
 
-Only in one or two places is there a reference to their bodies and the like. For them the wind is the hair (3-38-6), and they have shining weapons (10-123-7). In this matter the Atharvaveda is clearer (A. Ve. 4-3-7; 8-6-1 especially). Here it is said that they are hairy, that they have bodies like half-animals, and that they are harmful to human beings in many ways; in other places again it is said that they are beautiful (Śa. Brā. 13-4-4-7,8). In the Ṛgveda it is said that the Gandharvas wear fragrant garments (10-123-7), and in the Atharvaveda that fragrance from the earth reaches the Gandharvas (A. Ve. 12-1-23).
+Only in one or two places is there a reference to their bodies and the like. For them the wind is the hair (3-38-6), and they have shining weapons (10-123-7). In this matter the Atharvaveda is clearer (Ath. Saṃ. 4-3-7; 8-6-1 especially). Here it is said that they are hairy, that they have bodies like half-animals, and that they are harmful to human beings in many ways; in other places again it is said that they are beautiful (Śa. Brā. 13-4-4-7,8). In the Ṛgveda it is said that the Gandharvas wear fragrant garments (10-123-7), and in the Atharvaveda that fragrance from the earth reaches the Gandharvas (Ath. Saṃ. 12-1-23).
 
 From this it may be said that the word gandharva is derived from gandha (fragrance). Even if this is the correct derivation, the nature or characteristics of the Gandharva are not thereby understood. From the descriptions seen above, the Gandharva is a radiant divine person who lives in the water with his companion, the Apsaras
 
@@ -12390,7 +12390,7 @@ In some other places Agni and Mātariśvan are said to be different. He (Agni), 
 
 In some sūktas of the later part of the Ṛgveda, although Mātariśvan is mentioned, nothing is learnt about his nature, qualities and the like. In two places (9-67-31; 10-114-1) it is said that he purified Soma and drank it. In another place (Vāl. 4-2) the name occurs among the group of the fathers; there Indra sits by his side and drinks Soma. Once Indra is compared to him as to an excellent craftsman (10-105-6). In the sūkta relating to marriage, when Mātariśvan is prayed, together with the other gods, to enter the hearts of the two lovers, this skill may be what is meant. Lastly, in one place Mātariśvan is said to be boundless and wandering (10-109-1). Both these qualities support the view that Mātariśvan means the wind.
 
-Thus Mātariśvan may be called the embodied heavenly Agni; moreover it is he who brought Agni from heaven to the earth. Lightning may be called the origin of Mātariśvan. Just as Agni is the messenger between these two worlds, so Mātariśvan came from heaven to earth as the messenger of Vivasvat. In the Atharvaveda also Mātariśvan is a name of Agni (A.Ve. 10-8-39 and 40) **NOTE**; but in the Brāhmaṇas and the like Mātariśvan means the wind itself. The basis for this view has already been stated (3.29-11). Agni, who in the atmosphere was like a hissing serpent, is described in another place as the wind rushing with force (1-79.1).
+Thus Mātariśvan may be called the embodied heavenly Agni; moreover it is he who brought Agni from heaven to the earth. Lightning may be called the origin of Mātariśvan. Just as Agni is the messenger between these two worlds, so Mātariśvan came from heaven to earth as the messenger of Vivasvat. In the Atharvaveda also Mātariśvan is a name of Agni (Ath. Saṃ. 10-8-39 and 40) **NOTE**; but in the Brāhmaṇas and the like Mātariśvan means the wind itself. The basis for this view has already been stated (3.29-11). Agni, who in the atmosphere was like a hissing serpent, is described in another place as the wind rushing with force (1-79.1).
 
 The word मातरिश्वर् (*mātariśvar*) may mean one who grows in the mother, one who has taken shape. The root शु (*śu*) means to increase, to become larger in size. From it words such as शिशु (*śiśu*) are formed. Like Mātariśvan, Agni too grows in the mothers (1-141-5). When applied to Mātariśvan, the mother may be the lower part of the araṇi, or the cloud. Since Mātariśvan comes from the atmosphere, it can be said that the cloud is his mother. In the view of Yāska, Mātariśvan means the wind; मातरि (*mātari*) means in the atmosphere, and श्वन् (*śvan*) means one who breathes, or आशु आन् (*āśu ān*), one who breathes quickly; that is, it means the wind.
 
@@ -14042,21 +14042,21 @@ to good rites. The word रक्षः (*rakṣaḥ*) denotes the bhūtas, daiv
 
 The piśācas or bhūtas who are on the earth are the enemies of men. The word that denotes them as a class is रक्षः (*rakṣaḥ*). This word has occurred more than fifty times in the singular and the plural. Ordinarily it comes in connection with some deity, either as a prayer in the form "destroy the rākṣasa", or as praise in the form "he has slain the rākṣasa". In the sūktas 7-104 and 10-87 the very subject of these beings is present. Here the words रक्षः (*rakṣaḥ*), यातु (*yātu*), यातुधान (*yātudhāna*) and others indicate them. Since रक्षसः (*rakṣasaḥ*) is the name for evil deities, piśācas and all these, it may be understood as the word for the class, and यातु (*yātu*) as the word for the sub-class.
 
-These piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In the form of birds they fly about at night (7-104-18). Assuming the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). In the form of a dog or a monkey they lie in wait to fall upon women (A. Ve. 4-37-11) **NOTE**. Therefore pregnant women and children are troubled by them (A. Ve. 8-6). At the time of marriage they move about around the bride, in order to pierce their eyes. They shoot small arrows into the sky (Mā. Gṛ. Sū. 1-10). The description of their form and so on is found in the Atharvaveda itself. They especially assume human form. Mention is made of their limbs, such as head, eyes and heart; but some deformity is always present: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward, or horns on the hand, and so on (A. Ve. 8-6; Hi. Gṛ. Sū. 2 3-7) **NOTE**. Blue, yellow or green piśācas are also mentioned (A. Ve. 19-22-4, 5). Among them also there are males and females, households and kings (A. Ve. 5-22-12; Hi. Gṛ. Sū. 2-3-7); they also are subject to death (A. Ve. 6-32-2: and so on).
+These piśācas or bhūtas have the forms of dogs, vultures, owls and other birds (7-104-20 to 22). In the form of birds they fly about at night (7-104-18). Assuming the form of a brother, a husband or a lover, they approach women and wish to destroy their children (10-162-5). In the form of a dog or a monkey they lie in wait to fall upon women (Ath. Saṃ. 4-37-11) **NOTE**. Therefore pregnant women and children are troubled by them (Ath. Saṃ. 8-6). At the time of marriage they move about around the bride, in order to pierce their eyes. They shoot small arrows into the sky (Mā. Gṛ. Sū. 1-10). The description of their form and so on is found in the Atharvaveda itself. They especially assume human form. Mention is made of their limbs, such as head, eyes and heart; but some deformity is always present: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward, or horns on the hand, and so on (Ath. Saṃ. 8-6; Hi. Gṛ. Sū. 2 3-7) **NOTE**. Blue, yellow or green piśācas are also mentioned (Ath. Saṃ. 19-22-4, 5). Among them also there are males and females, households and kings (Ath. Saṃ. 5-22-12; Hi. Gṛ. Sū. 2-3-7); they also are subject to death (Ath. Saṃ. 6-32-2: and so on).
 
 The Yātudhānas eat the flesh of men and of horses, and drink cow's milk (10.86.16, 17). To satisfy their craving for blood and flesh the Rākṣasas attack men. This attack is ordinarily by entering into them. There is a prayer to Agni to keep the Rākṣasas from entering those who sustain (the rite) (8-48.20) **NOTE**. Hither and thither
 
 ### Printed p. 493
 
-flying, a piśāca that presides over disease enters men (A. Ve. 7-76-4). These bhūtas and pretas ordinarily enter us through our mouth when we eat or drink (A. Ve. 5-29.6 to 8); they also enter by other doors (Ta. Ve. 8.6.3) **NOTE**. Having entered within, they tear and eat the flesh of man and cause disease **NOTE** (A. Ve. 5-29.5, 10). They cause madness and destroy the power of speech (A. Ve. 6.101.3; Hi. Gṛ. Sū. 1-15.5). They invade the dwelling houses of men (Kau. Sū. 135.9). Some bhūtas, in the evening, go about around the houses dancing and braying like donkeys **NOTE**, or go about in forests, or keep laughing loudly or drinking from skulls (A. Ve. 8-6-10, 11, 14; Hi. Gṛ. Sū. 2-3-3). Their time of moving about is night or evening (7-104.8). In the eastern direction their sport does not go on at all; the sun rising there drives them away (Tai. Saṃ. 1.6.6 3). A falling meteor is believed to be the form of a bhūta (Kau. Sū. 125-9). Just as the pitch darkness of the new-moon night is suitable for the movement of the pretas, so for the bhūtas also it is the favourable time (A. Ve. 1-16 1; 4.36.3).
+flying, a piśāca that presides over disease enters men (Ath. Saṃ. 7-76-4). These bhūtas and pretas ordinarily enter us through our mouth when we eat or drink (Ath. Saṃ. 5-29.6 to 8); they also enter by other doors (Ta. Ve. 8.6.3) **NOTE**. Having entered within, they tear and eat the flesh of man and cause disease **NOTE** (Ath. Saṃ. 5-29.5, 10). They cause madness and destroy the power of speech (Ath. Saṃ. 6.101.3; Hi. Gṛ. Sū. 1-15.5). They invade the dwelling houses of men (Kau. Sū. 135.9). Some bhūtas, in the evening, go about around the houses dancing and braying like donkeys **NOTE**, or go about in forests, or keep laughing loudly or drinking from skulls (Ath. Saṃ. 8-6-10, 11, 14; Hi. Gṛ. Sū. 2-3-3). Their time of moving about is night or evening (7-104.8). In the eastern direction their sport does not go on at all; the sun rising there drives them away (Tai. Saṃ. 1.6.6 3). A falling meteor is believed to be the form of a bhūta (Kau. Sū. 125-9). Just as the pitch darkness of the new-moon night is suitable for the movement of the pretas, so for the bhūtas also it is the favourable time (Ath. Saṃ. 1-16 1; 4.36.3).
 
-Nothing is so perilous to sacrifices as they are. In sacrifices that are fit for the gods the piśācas cause defects and omissions, and the Yātus scatter the oblations that have been offered, in disorder (7-104-18, 21). They cannot bear the sight of a hymn of praise (10-182-3). There is a prayer to Agni to burn up the bhūtas and the like, so that no curse may touch the sacrifice (1-76-3). There is a mantra that makes an enemy's sacrifice unproductive by the magic of the Yātudhānas and the troops of Rakṣas (A. Ve. 7-70-2. They come as obstructions, in the form of pretas, to the food and water that are offered as oblations to the dead (A. Ve. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is commonly said that these troops of Rakṣas (referred to as rākṣasas) trouble the yogis.
+Nothing is so perilous to sacrifices as they are. In sacrifices that are fit for the gods the piśācas cause defects and omissions, and the Yātus scatter the oblations that have been offered, in disorder (7-104-18, 21). They cannot bear the sight of a hymn of praise (10-182-3). There is a prayer to Agni to burn up the bhūtas and the like, so that no curse may touch the sacrifice (1-76-3). There is a mantra that makes an enemy's sacrifice unproductive by the magic of the Yātudhānas and the troops of Rakṣas (Ath. Saṃ. 7-70-2. They come as obstructions, in the form of pretas, to the food and water that are offered as oblations to the dead (Ath. Saṃ. 18-2-28; compare Vā. Saṃ. 2-29). In the Purāṇas it is commonly said that these troops of Rakṣas (referred to as rākṣasas) trouble the yogis.
 
 Between Agni, who dispels darkness and is the lord of the sacrifice, and them there is an implacable hatred. Hence the prayer is made to Agni himself: burn them, drive them away or destroy them (10-87-3, 6 and so on). It is from this very work that Agni and some other deities have received the name रक्षोहा (*rakṣohā*). These bhūtas are not only harmful by nature but also do harm when impelled by others. रक्षोयजः (*rakṣoyajaḥ*) (those who impel the Rākṣasas) is found (6-62-9). And there are bhūtas and Yātus of the practisers of mantras here and there (7-104.23; 8.60.20). One who has come under the affliction of a bhūta sent by an enemy can drive them away by making an offering to Yaviṣṭhāgni
 
 ### Printed p. 494
 
-(Tai. Saṃ. 2.2-3-2), and there is a command to those bhūtas themselves: swallow the very one who impels you (A. Ve. 2.2-4).
+(Tai. Saṃ. 2.2-3-2), and there is a command to those bhūtas themselves: swallow the very one who impels you (Ath. Saṃ. 2.2-4).
 
 In the sense of bhūtas the word रक्षः (*rakṣaḥ*) is used in both the masculine and the feminine. In the neuter it also has the meaning "danger". It may be रक्ष् (*rakṣ*) from the root रक्ष् (*rakṣ*) (to trouble) (ऋक्षा (*ṛkṣā*), dangerous); but this usage is very rare. It may also be from the ordinary रक्ष् (*rakṣ*), to protect. In this context रक्ष् (*rakṣ*) would mean that which has to be escaped.
 
@@ -17223,7 +17223,7 @@ Indra fell in love with a Dānava woman named Viliṣṭeṅgā. Then, joining t
 
 येनानि चक्रे आसुरी इंद्रं देवेभ्यस्परि । तेनानि कुर्वे त्वामहं यथा तेऽसामि सुप्रिया ॥ (*yenāni cakre āsurī iṃdraṃ devebhyaspari | tenāni kurve tvāmahaṃ yathā te 'sāmi supriyā ‖*)
 
-(A. Ve. 7.38-2) **NOTE**
+(Ath. Saṃ. 7.38-2) **NOTE**
 
 "O Indra, you must love me. To do so, with the help of this herb I make you mine," and with its help that woman drew Indra, who was among the gods, to her own side, it says. In this way different Vedic passages give different accounts concerning Indra's wife.
 
@@ -17388,7 +17388,7 @@ In the Atharvaveda too this same matter is stated in this way.
 
 यस्ते अंकुशो वसुदानो बृहन्निंद्र हिरण्ययः । तेनाजनीयते जायां मद्यं धेहि शचीपते ॥ (*yaste aṃkuśo vasudāno bṛhanniṃdra hiraṇyayaḥ | tenājanīyate jāyāṃ madyaṃ dhehi śacīpate ‖*)
 
-(A. Ve. 6-82-3) **NOTE**
+(Ath. Saṃ. 6-82-3) **NOTE**
 
 "O Indra, I am very eager to obtain a wife. With the help of your goad, which provides wealth and is of gold, provide me with a wife." This is the occasion on which the sacrificers pray to Indra. Moreover,
 
@@ -17404,7 +17404,7 @@ In the Atharvaveda the description and praise of Indra's net (jāla) is as follo
 
 अंतरिक्षं जालमासीज्जालदंडा दिशो महीः । तेनाभिधाय दस्यूनां शक्रः सेनामपातयत् ॥ (*aṃtarikṣaṃ jālamāsījjāladaṃḍā diśo mahīḥ | tenābhidhāya dasyūnāṃ śakraḥ senāmapātayat ‖*)
 
-(A. Ve. 8-8-5)
+(Ath. Saṃ. 8-8-5)
 
 (A. Pe. A-8-5) **NOTE**
 
@@ -17412,7 +17412,7 @@ The atmosphere is Indra's net, and the great directions are the poles of this ne
 
 बृहद्धि जालं बृहतश्यक्रस्य वाजिनीवतः । तेन शत्रुनभि सर्वान्न्युब्ब यथा न मुच्यातै कमश्चन एषां ॥ (*bṛhaddhi jālaṃ bṛhataśyakrasya vājinīvataḥ | tena śatrunabhi sarvānnyubba yathā na mucyātai kamaścana eṣāṃ ‖*)
 
-(A. Ve. 8-8-6)
+(Ath. Saṃ. 8-8-6)
 
 The net of Indra, the giver of food, whose form is great, is very extensive. When it is cast and spread, all the enemies are caught. Not one of them can escape from it.
 
@@ -17477,7 +17477,7 @@ The belly (bellies) of this Indra is like two lakes. In his eagerness to fill it
 
 (5-36-1; 1-8-7; 1-104-9; 2-11-11; 2-14-10; 2-16-2; 3-35-6;
 3.36-7, 8; 3-40-5; 3.47-1; 3.51-12; 8-12-23; 8-2-1; 8-17-5 to 8;
-8.67-7; 8.81-22, 23, 24; 10.28-2; 10.43-7; 10.104-2; A. Ve. 2.5-1;
+8.67-7; 8.81-22, 23, 24; 10.28-2; 10.43-7; 10.104-2; Ath. Saṃ. 2.5-1;
 6.2-1)
 
 Sometimes, when the sacrificers drink this same Soma juice, there is a description of the same kind. For example—
@@ -21180,7 +21180,7 @@ If one worships only a single aspect of any of these, then the nature of Brahman
 
 Whatever things there are in this world of the moving, all of them are pervaded by Īśvara. He has become manifest in those very forms. He alone is the guide on the good path. Therefore—
 
-अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयनानि विद्वान् । युयोध्यं स्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥ (*agne naya supathā rāye asmān viśvāni deva vayanāni vidvān | yuyodhyaṃ smajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ‖*) (Īśa. 18) **NOTE**
+अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयनानि विद्वान् । युयोध्यं स्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥ (*agne naya supathā rāye asmān viśvāni deva vayanāni vidvān | yuyodhyaṃ smajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ‖*) (Īśa U. 18) **NOTE**
 
 ### Printed p. 738
 
@@ -21310,7 +21310,7 @@ Thus Īśvara, who is beyond time, which controls the whole world, and is the co
 
 O Gārgī, by the command of this imperishable Akṣara, the sun and the moon are established in their fixed places. O Gārgī, by the command of this Īśvara, called Akṣara, the earth and the heaven are established apart. O Gārgī, by the ordaining of this Akṣara, moments, hours, days and nights, half-months, months, seasons and years each have their existence in keeping with their own natures. O Gārgī, by the ordaining of this Akṣara, the rivers that flow from the mountains flow each according to its own direction and join the seas. By the ordaining of this Supreme Puruṣa, who is of the form of the Akṣara, human beings praise those who give generously, the gods desire the sacrificer, and the fathers, performing libations and the like, are eager to bring satisfaction to the divine fathers.
 
-तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टश्रुतं श्रोत्रमतं मंत्रविज्ञातं विज्ञातृ नान्यदतोऽस्ति द्रष्टृ नान्यदतोऽस्ति श्रोतृनान्यदतोऽस्ति मंतृ नान्यदतोऽस्ति विज्ञात्रेतस्मिन्नु खल्वक्षरे गार्ग्यकाश ओतश्च प्रोतश्चेति । (*tadvā etadakṣaraṃ gārgyadṛṣṭaṃ draṣṭaśrutaṃ śrotramataṃ maṃtravijñātaṃ vijñātṛ nānyadato 'sti draṣṭṛ nānyadato 'sti śrotṛnānyadato 'sti maṃtṛ nānyadato 'sti vijñātretasminnu khalvakṣare gārgyakāśa otaśca protaśceti |*) (Tā. Brā. 3-8-11)
+तद्वा एतदक्षरं गार्ग्यदृष्टं द्रष्टश्रुतं श्रोत्रमतं मंत्रविज्ञातं विज्ञातृ नान्यदतोऽस्ति द्रष्टृ नान्यदतोऽस्ति श्रोतृनान्यदतोऽस्ति मंतृ नान्यदतोऽस्ति विज्ञात्रेतस्मिन्नु खल्वक्षरे गार्ग्यकाश ओतश्च प्रोतश्चेति । (*tadvā etadakṣaraṃ gārgyadṛṣṭaṃ draṣṭaśrutaṃ śrotramataṃ maṃtravijñātaṃ vijñātṛ nānyadato 'sti draṣṭṛ nānyadato 'sti śrotṛnānyadato 'sti maṃtṛ nānyadato 'sti vijñātretasminnu khalvakṣare gārgyakāśa otaśca protaśceti |*) (Pa. Brā. 3-8-11)
 
 O Gārgī, this Akṣara cannot be seen by anyone. He is able to see everything. He cannot be heard by anyone with the ear. He is able to hear everything. He is not caught by anyone's thought, but the whole world is the object of his thought. No one can know him. The whole world is the object of his knowledge. Apart from him there is no such hearer. Apart from him there is surely no such hearer, thinker or knower. In this Paramātman, who is of the form of the Akṣara, the ether is woven together like warp and weft: thus the greatness of the Puruṣa, the lord (the master) of immortality, is praised. **NOTE** Moreover:—
 
@@ -22188,7 +22188,7 @@ One who has known the divine nature of the Supreme Puruṣa of three quarters do
 
 असुरा नाम ते लोका अंधेन तमसावृताः । तांस्ते प्रेत्याभिगच्छंति ये के चात्महनो जनाः ॥ (*asurā nāma te lokā aṃdhena tamasāvṛtāḥ | tāṃste pretyābhigacchaṃti ye ke cātmahano janāḥ ‖*)
 
-(Īśa. 3) **NOTE**
+(Īśa U. 3) **NOTE**
 
 This world of one quarter of the Lord is endowed with demonic wealth. It is full of pitch darkness. This world of one quarter of the Lord is endowed with demonic wealth. It is full of pitch darkness. **NOTE** Those who do not know the Supreme Self of three quarters, becoming slayers of the self, are born again and again in this very world covered by ignorance and suffer. To show that the world of the Supreme Self is better than this, it is said ऊर्ध्व उद्वैत् पुरुषः (*ūrdhva udvait puruṣaḥ*). What the nature of that divine world is
 
@@ -22403,7 +22403,7 @@ Thus the space within the body (dahara-ākāśa) is described in many ways in th
 
 अथैतद्वामेक्षिणि पुरुषरूपमेषास्य पत्नि विराट् तयोरेष संस्तावो य एषोऽंतर्हृदय आकाशोऽथैनयोरेतदन्नं य एषोऽंतर्हृदये लोहितपिंडोऽथैतयोरेतत्पावरणं यदेतदंतर्हृदये जालकमिवाधैनयोरेषासृतिः संचरणी यैषा हृदयादूर्ध्वा नाड्युच्चरति यया कोशः सहस्रधा भिन्न एवमस्यॆता हिता नाम नाड्योऽंतर्हृदये प्रतिष्ठिता भवंत्येताभिर्वा एतदास्त्रवदास्रवति तस्मादेष प्रविविक्ताहारतर इवैव भवत्यस्माच्छारीरादात्मनः ॥ (*athaitadvāmekṣiṇi puruṣarūpameṣāsya patni virāṭ tayoreṣa saṃstāvo ya eṣo 'ṃtarhṛdaya ākāśo 'thainayoretadannaṃ ya eṣo 'ṃtarhṛdaye lohitapiṃḍo 'thaitayoretatpāvaraṇaṃ yadetadaṃtarhṛdaye jālakamivādhainayoreṣāsṛtiḥ saṃcaraṇī yaiṣā hṛdayādūrdhvā nāḍyuccarati yayā kośaḥ sahasradhā bhinna evamasyètā hitā nāma nāḍyo 'ṃtarhṛdaye pratiṣṭhitā bhavaṃtyetābhirvā etadāstravadāsravati tasmādeṣa praviviktāhāratara ivaiva bhavatyasmācchārīrādātmanaḥ ‖*)
 
-(Tā. Brā. 4-2-3)
+(Pa. Brā. 4-2-3)
 
 In the passage quoted here, the nature of Indra is described. The principle of Virāṭ, shining in the form of a person in the right eye, is the consort of Indra; and Indra and his consort Virāṭ shine in the form of a person. The place where Indra and Virāṭ meet is the space of the heart. The lump of blood within the heart is their food. The net-like covering within the heart is the garment that covers them. The passage that rises upward from within the heart is their path of travel. This path, known by the name Hitā, is as fine as a hair split into a thousand parts. This is the way of their food. The divine Self-principle, the union of the principles of Indra and Virāṭ, is different from the bodily self, and unlike it is not subject to old age, death and the like. It is eternal.
 
@@ -23046,7 +23046,7 @@ Water also wished to increase. As a result of that wish food was made. Therefore
 
 तासां त्रिवृतं त्रिवृतमेकैकामकरोद्यथा तु खलु सोम्येमास्तिस्रो देवतास्त्रिवृत्रिवृदेकैका भवति ॥ (*tāsāṃ trivṛtaṃ trivṛtamekaikāmakarodyathā tu khalu somyemāstisro devatāstrivṛtrivṛdekaikā bhavati ‖*)
 
-(Cha. U. 6-3-4) **NOTE**
+(Chā. U. 6-3-4) **NOTE**
 
 Each principle thus produced he divided into three parts. The chief deities too are of threefold nature. Thus three kinds of principles are set forth in the Chāndogya. In the Taittirīya the order is somewhat different.
 
@@ -23579,7 +23579,7 @@ The bricks related to the seasons are of the form of the seasons. Since the seas
 
 यद्देवर्तव्या उपदधाति । क्षत्रं वा ऋतव्या विश इमा इतरा इष्टकाः क्षत्रं तद्विश्वत्तारं दधाति ताः सर्वासु चितिषूपदधाति सर्वस्यां तद्विशि क्षत्रमत्तारं दधाति ॥ (*yaddevartavyā upadadhāti | kṣatraṃ vā ṛtavyā viśa imā itarā iṣṭakāḥ kṣatraṃ tadviśvattāraṃ dadhāti tāḥ sarvāsu citiṣūpadadhāti sarvasyāṃ tadviśi kṣatramattāraṃ dadhāti ‖*)
 
-(Tā. Brā. 8-7-1-2)
+(Pa. Brā. 8-7-1-2)
 
 Since time, which is of the nature of the year, governs the whole world, the seasons, the limbs of the year, also are governors. The conditions of all things in the world are under their control. In the same way, the bricks that reflect them are lords. The other bricks (of the sacrificial altar) are as if their subjects. To show their all-round lordship they must be placed in every row.
 
@@ -23844,7 +23844,7 @@ The Ādityas enjoy the nectar of the form of the Sāman through the mouth that i
 
 The Maruts enjoy the nectar of the form of the Atharvaveda through the mouth that is Soma. This is the experience of the world of Soma.
 
-अथ यत्नंचमममृतं तत्साध्या उपजीवंति ब्रह्मणा मुखेन न वै देवा अश्नंति न पिबंत्येतदेवामृतं दृष्ट्वा कृप्यंति ॥ (*atha yatnaṃcamamamṛtaṃ tatsādhyā upajīvaṃti brahmaṇā mukhena na vai devā aśnaṃti na pibaṃtyetadevāmṛtaṃ dṛṣṭvā kṛpyaṃti ‖*) (Cha. U. 3-10-1) **NOTE**
+अथ यत्नंचमममृतं तत्साध्या उपजीवंति ब्रह्मणा मुखेन न वै देवा अश्नंति न पिबंत्येतदेवामृतं दृष्ट्वा कृप्यंति ॥ (*atha yatnaṃcamamamṛtaṃ tatsādhyā upajīvaṃti brahmaṇā mukhena na vai devā aśnaṃti na pibaṃtyetadevāmṛtaṃ dṛṣṭvā kṛpyaṃti ‖*) (Chā. U. 3-10-1) **NOTE**
 
 In the fifth world of nectar, which is of the form of the Upaniṣad, the Sādhyas dwell and enjoy the nectar through the mouth that is Brahman. That is, the gods neither eat nor drink; they are satisfied by the mere sight of the nectar. By such a description the most excellent world of the Sādhyas is extolled. Moreover,
 
@@ -24403,7 +24403,7 @@ In the mantra एकया च दशभिः (*ekayā ca daśabhiḥ*) the num
 
 Once Vāyu left the gods and went off to a distant region together with his cattle. The gods called him at the morning pressing; he did not return. They called him at the midday pressing. Even then he did not return. Then they called him again at the third pressing. Then,
 
-स होपावर्त्यन्नुवाच । यद्व उपावर्तेय किं मे ततः स्यादिति त्वयै. वैतानि पात्राणि युज्येरंस्त्वया विमुच्येरन्निति तदेनेनैतत्पात्राणि युज्यंते तदैंद्रवायवाग्रान्प्रातःसवने गृह्णात्यथैनेनैतत्पात्राणि विमुच्यंते यदाह नियुद्धिर्वायविह ता विमुंचेति पशवो वै नियुतस्तत्पशुभिरेवैतत्पात्राणि विमुच्यंते ॥ (*sa hopāvartyannuvāca | yadva upāvarteya kiṃ me tataḥ syāditi tvayai. vaitāni pātrāṇi yujyeraṃstvayā vimucyeranniti tadenenaitatpātrāṇi yujyaṃte tadaiṃdravāyavāgrānprātaḥsavane gṛhṇātyathainenaitatpātrāṇi vimucyaṃte yadāha niyuddhirvāyaviha tā vimuṃceti paśavo vai niyutastatpaśubhirevaitatpātrāṇi vimucyaṃte ‖*) (Tā. Brā. 4-4-1-17)
+स होपावर्त्यन्नुवाच । यद्व उपावर्तेय किं मे ततः स्यादिति त्वयै. वैतानि पात्राणि युज्येरंस्त्वया विमुच्येरन्निति तदेनेनैतत्पात्राणि युज्यंते तदैंद्रवायवाग्रान्प्रातःसवने गृह्णात्यथैनेनैतत्पात्राणि विमुच्यंते यदाह नियुद्धिर्वायविह ता विमुंचेति पशवो वै नियुतस्तत्पशुभिरेवैतत्पात्राणि विमुच्यंते ॥ (*sa hopāvartyannuvāca | yadva upāvarteya kiṃ me tataḥ syāditi tvayai. vaitāni pātrāṇi yujyeraṃstvayā vimucyeranniti tadenenaitatpātrāṇi yujyaṃte tadaiṃdravāyavāgrānprātaḥsavane gṛhṇātyathainenaitatpātrāṇi vimucyaṃte yadāha niyuddhirvāyaviha tā vimuṃceti paśavo vai niyutastatpaśubhirevaitatpātrāṇi vimucyaṃte ‖*) (Pa. Brā. 4-4-1-17)
 
 Vāyu, willing to return in accordance with that prayer, asked the gods: "If I return, what return will I get?" The yoking of these vessels and their loosening to help the gods drink are in your charge. Therefore, when the Adhvaryu takes up the vessels to offer to Indra and Vāyu, they are yoked. When Vāyu is praised by reciting the mantra नियुद्धिर्वायविह (*niyuddhirvāyaviha*), they are loosened. नियुत् (*niyut*) means cattle. With the help of these cattle those vessels are loosened; that is, they become fit for drinking. So it is stated. But in some places Āditya also is said to be the presiding deity of cattle. For example:
 
