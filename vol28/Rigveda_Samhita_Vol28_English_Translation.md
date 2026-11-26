@@ -8474,6 +8474,111 @@ The Vaiśvadeva rite is Pāñcajanya, that is, it concerns the five groups of pe
 
 Thus it is one setting that the Viśvedevas are contained in Agni, who is made of all the deities; it is another setting that all beings, gods, humans and the rest, are contained in the Viśvedevas. Besides these, a third kind of description is also well known in Vedic sentences: that the Viśvedevas are a power-designation showing the distinction of the varṇas in the order of creation. According to this description Agni, Indra and the Viśvedevas are three special deities reflecting three varṇas. The arrangement of sūktas in the Ṛksaṃhitā also suggests this. Except in the eighth and ninth maṇḍalas, in all the other maṇḍalas there are, at the beginning, sūktas in praise of Agni, then in praise of Indra; after that, sūktas generally in praise of the Viśvedevas follow. Later, in the Brāhmaṇas and the like, Agni, Indra and the Viśvedevas are shown to be identical respectively with the three varṇas, Brāhmaṇa, Kṣatriya and Vaiśya. Some examples make this clear.
 
+### Printed p. 284
+
+##### विशेषविषयगळु (Special Topics)
+
+प्रजापतिर्वाव ज्येष्ठस्स ह्येतेनाग्रेऽयजत प्रजापतिरकामयत प्र जायेयेति स मुखतस्त्रिवृतं निरमिमीत तमग्निर्देवतान्नसृजत गायत्रीच्छंदो रथतरग्‌ंसाम ब्राह्मणो मनुष्याणामजः पशूनां ॥ (*prajāpatirvāva jyeṣṭhassa hyetenāgre 'yajata prajāpatirakāmayata pra jāyeyeti sa mukhatastrivṛtaṃ niramimīta tamagnirdevatānnasṛjata gāyatrīcchaṃdo rathataragṃsāma brāhmaṇo manuṣyāṇāmajaḥ paśūnāṃ ‖*) (Śai. Saṃ. 7-1-1-4) **NOTE**
+
+Because he was the first of all to perform the sacrificial rite, Prajāpati himself is the foremost. Then he wished: "May I obtain offspring." Then he brought forth the Trivṛt from his mouth. From it arose the deity Agni, the Gāyatrī metre, the Rathantara Sāman, the Brāhmaṇas among men, and the goat among animals. Since they arose from the mouth, all of them obtained pre-eminence.
+
+उरसो बाहुभ्यां पंचदशं निरमिमीत तमिंद्रो देवतान्नसृज्यत त्रिष्टुप्छंदो बृहत् साम राजन्यो मनुष्याणामविः पशूनां तस्मात्ते वीर्यावंतो वीर्याद्ध्यसृज्यंत ॥ (*uraso bāhubhyāṃ paṃcadaśaṃ niramimīta tamiṃdro devatānnasṛjyata triṣṭupchaṃdo bṛhat sāma rājanyo manuṣyāṇāmaviḥ paśūnāṃ tasmātte vīryāvaṃto vīryāddhyasṛjyaṃta ‖*) (Tai. Saṃ. 7-1-1-4, 5)
+
+From the chest and the arms he brought forth the Pañcadaśa. From it arose the deity Indra, the Triṣṭup metre, the Bṛhat Sāman, the Kṣatriyas among men, and the sheep among animals. Since they were born of the valour of the arm, all of them became indicative of valour.
+
+मध्यतस्सप्तदशं निरमिमीत तं विश्वेदेवा देवता अन्वसृज्यंत जगती छंदो वैरूपग्‌ंसाम वैश्यो मनुष्याणां गावः पशूनां तस्मात्त आद्या अन्नधानाद्दस्यृज्यंत तस्माद्भूयाग्‌ंसोऽन्येभ्यो भूयिष्ठा हि देवता अन्वसृज्यंत ॥ (*madhyatassaptadaśaṃ niramimīta taṃ viśvedevā devatā anvasṛjyaṃta jagatī chaṃdo vairūpagṃsāma vaiśyo manuṣyāṇāṃ gāvaḥ paśūnāṃ tasmātta ādyā annadhānāddasyṛjyaṃta tasmādbhūyāgṃso 'nyebhyo bhūyiṣṭhā hi devatā anvasṛjyaṃta ‖*) (Tai. Saṃ. 7-1-1-5)
+
+Then from his middle part he brought forth the Saptadaśa Stoma. From it the Viśvedevas arose. Among metres the Jagatī, among Sāmans the Vairūpa, among the people the Vaiśyas, and among animals the cows arose. Since all these arose from the store of food, they became endowed with abundance of food and fit for enjoyment. Since they are related to the Viśvedevas, their numbers too became exceedingly great. Thus, beginning thus, the order of origin of Agni, Indra and the Viśvedevas, and the varieties of their powers, are set forth. The same matter is explained in the Śatapatha Brāhmaṇa as stated below.
+
+क्षत्रं वा इंद्राग्नी । विशो विश्वेदेवा यत्र वै क्षत्रमुज्जयत्यन्वाभक्ता वै तत्र विड्वद्विश्वान्देवानन्वाभजतां तस्मादेष वैश्वदेवश्चरुर्भवति ॥ (*kṣatraṃ vā iṃdrāgnī | viśo viśvedevā yatra vai kṣatramujjayatyanvābhaktā vai tatra viḍvadviśvāndevānanvābhajatāṃ tasmādeṣa vaiśvadevaścarurbhavati ‖*) (Śa. Brā. 2-4-3-6)
+
+### Printed p. 285
+Indra and Agni are of the nature of the warrior class; the Viśvedevas are of the nature of the Vaiśyas. Wherever the Kṣatriyas win victory, there the Vaiśyas too obtain a share. Therefore it is said that the Viśvedevas also take part in the victory of Indra and Agni. This division of the classes may be said in one way to exist naturally. For Agni, in the form of the sacrificial fire, in the role of priest, invites the gods to the sacrifice, carries the oblation to the gods, and fosters the relation between gods and men. Sharp radiance and brilliance are likewise marks of the Brāhmaṇa. Indra, who always fights the Asuras and others and gains victory, has the natural warrior power. Just as, apart from these, the remaining people are called Vaiśyas, so the other deities apart from Indra and Agni belong to the Vaiśya group. In this division it is understood that the Viśvedevas are different from Indra and Agni, and that their radiance or valour is not as great as theirs. According to this division the shares are also apportioned in the three Savanas. This order of division can be seen in the Saṃhitā and Brāhmaṇa passages.
+
+प्रजापतिर्वै यज्ञं छंदासि देवेभ्यो भागधेयानि व्यभजत्स गायत्रीमेवाग्नये वसुभ्यः प्रातःसवनेऽभजत्रिष्टुभमिंद्राय रुद्रेभ्यो मध्यंदिने जगतीं विश्वेभ्यो देवेभ्य आदित्येभ्यस्तृतीयसवने ॥ (*prajāpatirvai yajñaṃ chaṃdāsi devebhyo bhāgadheyāni vyabhajatsa gāyatrīmevāgnaye vasubhyaḥ prātaḥsavane 'bhajatriṣṭubhamiṃdrāya rudrebhyo madhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyastṛtīyasavane ‖*) (Ai. Brā. 3-13)
+
+Prajāpati distributed the sacrificial portions and the metres among the gods: in the morning Savana the Gāyatrī to Agni and the Vasus; in the midday Savana the Triṣṭup to Indra and the Rudras; in the third Savana the Jagatī to the Viśvedevas and the Ādityas. The same topic is somewhat different in the Śatapatha Brāhmaṇa, as follows.
+
+अथ प्रातः । आग्नेयः पुरोडाशो भवत्यैंद्रग्ं सांनाय्यं प्रातःसवनमेवास्याग्नेयः पुरोडाश आग्नेयग्ं हि प्रातःसवनमध्यैंद्रग्ं सांनाय्यं माध्यंदिनमेवास्य तत्वनमैंद्रग्ं हि माध्यंदिनग्ं सवनं ॥ (*atha prātaḥ | āgneyaḥ puroḍāśo bhavatyaiṃdragṃ sāṃnāyyaṃ prātaḥsavanamevāsyāgneyaḥ puroḍāśa āgneyagṃ hi prātaḥsavanamadhyaiṃdragṃ sāṃnāyyaṃ mādhyaṃdinamevāsya tatvanamaiṃdragṃ hi mādhyaṃdinagṃ savanaṃ ‖*) (Śa. Brā. 2-4-12)
+
+In the morning the Āgneya Puroḍāśa and the Sāṃnāyya for Indra are offered. The morning Savana is dear to Agni; likewise the midday Savana is dear to Indra.
+
+अथ यत्पूर्वेद्युः । ऐंद्राग्नेन यजतेऽमावास्यायां तृतीयसवनमेवास्य तद्वैश्वदेवं वै तृतीयसवनमिंद्राग्नी वै विश्वेदेवाः ॥ (*atha yatpūrvedyuḥ | aiṃdrāgnena yajate 'māvāsyāyāṃ tṛtīyasavanamevāsya tadvaiśvadevaṃ vai tṛtīyasavanamiṃdrāgnī vai viśvedevāḥ ‖*) (Śa. Brā. 2-4-4-13)
+
+### Printed p. 286
+The Puroḍāśa connected with Indra and Agni, offered on the new-moon day, is the third Savana, directed to the Viśvedevas. In this passage, where Indra and Agni are described as the Viśvedevas, the identity of Indra and Agni with the Viśvedevas is shown.
+
+Besides this, a historical occasion showing that the Viśvedevas have pre-eminence in the third Savana is described in the Aitareya Brāhmaṇa as follows.
+
+देवा वै यज्ञमतन्वत तांस्तन्वानानसुरा अभ्यायन् यज्ञवेशसमेषां करिष्याम इति..................ते वै पुरस्तादपहता असुराः पश्चात्परीत्य प्राविशंस्ते देवाः प्रतिबुद्ध्य विश्वान्नेवानात्मानं पश्चात्तृतीयसवने पत्याहंस्ते विश्वैरेव देवैरात्मभिः पश्चात्तृतीयसवनेऽसुररक्षांस्यपाघ्नत तथैवैतद्यजमाना विश्वैरेव देवैरात्मभिः पश्चात्तृतीयसवनेऽसुररक्षांस्यपाघ्नते तस्माद्वैश्वदेवं तृतीयसवनं ॥ (*devā vai yajñamatanvata tāṃstanvānānasurā abhyāyan yajñaveśasameṣāṃ kariṣyāma iti..................te vai purastādapahatā asurāḥ paścātparītya prāviśaṃste devāḥ pratibuddhya viśvānnevānātmānaṃ paścāttṛtīyasavane patyāhaṃste viśvaireva devairātmabhiḥ paścāttṛtīyasavane 'surarakṣāṃsyapāghnata tathaivaitadyajamānā viśvaireva devairātmabhiḥ paścāttṛtīyasavane 'surarakṣāṃsyapāghnate tasmādvaiśvadevaṃ tṛtīyasavanaṃ ‖*) (Ai. Brā. 6-4)
+
+When the gods strove to perform the sacrifice, the Asuras entered, striving "We shall cause obstruction to it." Then in the morning Savana, with the help of Mitra and Varuṇa, they drove away the Asuras who had entered from the south. Indra became the guardian of the middle part, and Indra and Agni together became the guardians of the northern quarter. Agni became the guardian of the front. The Asuras, who had no opening for entry at the front, began to enter from behind. Then the gods appointed the Viśvedevas in the third Savana as protectors there, and with their help drove away the Asuras entering from behind. Therefore the Viśvedevas have pre-eminence in the third Savana. One who knows this principle becomes able to drive away the Asuras.
+
+Thus, while in the Brāhmaṇas and the like the order is Agni, Indra, Viśvedevas, in the Upaniṣads the order is Vasus, Rudras, Ādityas and Viśvedevas. As follows—
+
+ब्रह्मवादिनो वदंति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनं ॥ (*brahmavādino vadaṃti yadvasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanamādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanaṃ ‖*) (Chā. U. 2-24-1)
+
+The knowers of Brahman have declared that the morning Savana is prescribed for the Vasus, the midday Savana for the Rudras, and the third Savana for the Ādityas and the Viśvedevas.
+
+अथ जुहोति नम आदित्येभ्यश्च विश्वेभ्यश्च देवेभ्यो दिविक्षिद्भ्यो लोकक्षिद्भ्यो लोकं मे यजमानाय विंदत ॥ (*atha juhoti nama ādityebhyaśca viśvebhyaśca devebhyo divikṣidbhyo lokakṣidbhyo lokaṃ me yajamānāya viṃdata ‖*) (Bhā. U. 2-24-15) **NOTE**
+
+### Printed p. 287
+तस्मा आदित्याश्च विश्वे च देवास्त्रीयसवनं संप्रयच्छंत्येष ह वै यज्ञस्य मात्रां वेद य एवं वेद (*tasmā ādityāśca viśve ca devāstrīyasavanaṃ saṃprayacchaṃtyeṣa ha vai yajñasya mātrāṃ veda ya evaṃ veda*) (Bhā. U. 2-24-16)
+
+Then: salutation to the Ādityas; salutation to the Viśvedevas; salutation to the gods who dwell in the atmosphere and on the earth. When he prays, "Prepare a world for me, the sacrificer, to dwell in," the Ādityas and the Viśvedevas favour him with the third Savana.
+
+In the sacrificial periods of the Pṛṣṭha Ṣaḍaha as well, in the same order, the Aitareya Brāhmaṇa describes Agni, Indra and the Viśvedevas as having pre-eminence on the first, second and third days.
+
+(1) अग्निर्वै देवता प्रथममहर्वहति त्रिवृत्स्तोमो रथंतरं साम गायत्रीच्छंदः ॥ (*agnirvai devatā prathamamaharvahati trivṛtstomo rathaṃtaraṃ sāma gāyatrīcchaṃdaḥ ‖*) (Ai. Brā. 4-29)
+
+(2) इंद्रो वै देवता द्वितीयमहर्वहति पंचदशस्तोमो बृहत्साम त्रिष्टुप्छंदः ॥ (*iṃdro vai devatā dvitīyamaharvahati paṃcadaśastomo bṛhatsāma triṣṭupchaṃdaḥ ‖*) (Ai. Brā. 4-31)
+
+(3) विश्वे वै देवा देवतास्त्रीयमहर्वहंति सप्तदशः स्तोमो वैरूपं साम जगतीच्छंदः ॥ (*viśve vai devā devatāstrīyamaharvahaṃti saptadaśaḥ stomo vairūpaṃ sāma jagatīcchaṃdaḥ ‖*) (Ai. Brā. 5-1)
+
+In the Pṛṣṭha Ṣaḍahas, on the first day the deity Agni is joined with the Trivṛt Stoma, the Rathantara Sāman and the Gāyatrī metre. On the second day the deity Indra is joined with the Pañcadaśa Stoma, the Bṛhat Sāman and the Triṣṭup metre. On the third day the Viśvedevas are joined with the Saptadaśa Stoma, the Vairūpa Sāman and the Jagatī metre; thus the third place is assigned to the Viśvedevas. In this way the views expressed on the position and rank of the Viśvedevas are given. But since these same Viśvedevas reflect various principles, they are described in many ways in many places. Only some of them may be taken here as examples.
+
+इमे वै प्राणाः । मनोज्ञाता मनोयुजो दक्षक्रतवो नागेवाग्निः प्राणोदान् मित्रावरुणौ चक्षुरादित्यः श्रोत्रं विश्वेदेवाः ॥ (*ime vai prāṇāḥ | manojñātā manoyujo dakṣakratavo nāgevāgniḥ prāṇodān mitrāvaruṇau cakṣurādityaḥ śrotraṃ viśvedevāḥ ‖*) (Śa. Brā. 3-2-13)
+
+These vital breaths, endowed with life, are born of the mind. Agni is speech; Mitra and Varuṇa are the in-breath and out-breath. Āditya is the principle of the eye. The Viśvedevas are the principle of the organ of hearing.
+
+### Printed p. 288
+वैश्वदेवं ना अंतरिक्षं तद्यदेनेनेमाः प्रजाः प्राणत्यश्चोदानत्यश्चांशरिक्ष मनुचरंति तेन वैश्वदेवं वषट्कृते जुहोति ॥ (*vaiśvadevaṃ nā aṃtarikṣaṃ tadyadenenemāḥ prajāḥ prāṇatyaścodānatyaścāṃśarikṣa manucaraṃti tena vaiśvadevaṃ vaṣaṭkṛte juhoti ‖*) (Śa. Brā. 3-8-2-32)
+
+Because they are the means of the travelling of sound connected with the organ of hearing, and because all beings act in the atmosphere itself by means of in-breath and out-breath, the Viśvedevas, who are the presiding deities of all these, are the reflectors of the principle of the atmosphere.
+
+एतस्मै वै गृह्णाति य एष तपति विश्वेभ्यो ह्येना देवेभ्यो गृह्णाति रश्मयो ह्यस्य विश्वे देवास्तस्मादाह हविष्ठा अस्तु सूर‍्य इति ॥ (*etasmai vai gṛhṇāti ya eṣa tapati viśvebhyo hyenā devebhyo gṛhṇāti raśmayo hyasya viśve devāstasmādāha haviṣṭhā astu sūrya iti ‖*) (Śa. Brā. 3-9-2-12)
+
+All oblations offered to Sūrya are as if offered to the Viśvedevas. For all the rays of the sun are forms of the principle of the Viśvedevas. Therefore the sun's rays, the objects of movement, and the atmosphere, the means of movement, are the very symbols of the Viśvedevas. For this reason they are also said to be the makers of the quarters.
+
+विश्वेदेवाः वैश्वानरा दिशः कृत्वा तास्वेतामाशिषमाशासत । (*viśvedevāḥ vaiśvānarā diśaḥ kṛtvā tāsvetāmāśiṣamāśāsata |*) (Śa. Brā. 6-5-2-6)
+
+The Viśvedevas created all the quarters and blessed them. Since they are the presiding deities of the quarters and of the atmosphere pervading them, they are described as the regulators of the seasons and the like, and accordingly as the producers of rain.
+
+ऋतवो वै विश्वेदेवास्तदेनां विश्वैर्देवैर्युतुभिः संविदानः । (*ṛtavo vai viśvedevāstadenāṃ viśvairdevairyutubhiḥ saṃvidānaḥ |*) (Śa. Brā. 7-1-1-43)
+
+विश्वेच वै देवा मरुतश्च वर्षस्येशत ऊर्जस्वती । (*viśveca vai devā marutaśca varṣasyeśata ūrjasvatī |*) (Śa. Brā. 7-2-2-10)
+
+By such sentences their all-pervasiveness and exceeding power are praised. Because of such exceeding power, praise of them is found:
+
+विश्वे वै देवा देवानां यशस्वितमा यश एवास्मिन्धधाति (*viśve vai devā devānāṃ yaśasvitamā yaśa evāsmindhadhāti*) (Śa. Brā. 13-1-2-8)
+
+Among all the gods the Viśvedevas are the most renowned, and similar laudatory sentences. Thus, in some places showing their identity with Indra and Agni, and in others describing their individual nature, they are praised in many ways. If all these descriptions are examined,
+
+### Printed p. 289
+one may say on the whole that the Viśvedevas are deities who reflect all the powers in the universe; or that the Brahman-nature itself, which contains all principles, is what is meant by the Viśvedeva deity. As follows—
+
+तद्वै तत्पश्यन्नृषिरभ्यनूनाद । भूतं भविष्यत्प्रस्तौमि महद्ब्रह्मैकमक्षरं बहु ब्रह्मैकमक्षरमित्येतद्ध्येवाक्षरग्ं सर्वे देवाः सर्वाणि भूतान्यभिसंपद्यंते तदेतद्ब्रह्म च क्षत्रं चाग्निरेव ब्रह्मेंद्रः क्षत्रमिंद्राग्नी वै विश्वेदेवा विडु विश्वेदेवास्तदेतद्ब्रह्म क्षत्रं विट् ॥ (*tadvai tatpaśyannṛṣirabhyanūnāda | bhūtaṃ bhaviṣyatprastaumi mahadbrahmaikamakṣaraṃ bahu brahmaikamakṣaramityetaddhyevākṣaragṃ sarve devāḥ sarvāṇi bhūtānyabhisaṃpadyaṃte tadetadbrahma ca kṣatraṃ cāgnireva brahmeṃdraḥ kṣatramiṃdrāgnī vai viśvedevā viḍu viśvedevāstadetadbrahma kṣatraṃ viṭ ‖*) (Śa. Brā. 10-4-1-9)
+
+This is a saying of a seer who obtained the vision of the great principle: "I praise that which was in past times and will be in future, the great, the imperishable, the manifold Brahman." All the gods and all beings are absorbed in this principle. This is the form of Brahman, this is the form of Kṣatra: Agni is the exponent of the power of Brahman, Indra the exponent of the power of Kṣatra; the Viśvedevas are Indra and Agni. But the Viśvedevas are also the exponents of the power of the Vaiśya; therefore this principle, which contains everything, is the source of all these powers: Brahman, Kṣatra and Viś.
+
+**Deities to be praised occasionally in the Vaiśvadeva hymns**
+
+**Hymns 41–46 of the fifth Maṇḍala**
+
+Who are the Viśvedevas? Whether this is a single group, or the complete assembly of all deities, has been discussed in the preliminary introduction to Ṛ. Saṃ. 5-41. Even if one accepts the view that the company of deities named in the Vaiśvadeva hymns is a separate one, other deities too who are praised incidentally are included in those hymns besides the deities of that group. Concerning who these occasional deities are, the Bṛhaddevatā has a whole section. This subject will be explained in detail later. For the present, however, it is stated who these deities praised occasionally are. In the Bṛhaddevatā, enumerating these occasional deities beginning with सप्तर्षयो वसवश्चापि देवाः (*saptarṣayo vasavaścāpi devāḥ*) (Bṛ. De. 8-125), it concludes with निपातिनो वैश्वदेवेषु सर्वॆ (*nipātino vaiśvadeveṣu sarvè*) (8-128). They are:
+
+The seven seers, the Vasus, the Atharvans who are of divine nature, the Bhṛgus, Soma, Sūra, Pathyā Svasti, Heaven and Earth, Kuhū, Gungū, Aditi, Dhenu, Aghnyā, Asunīti, Iḷā, the Āptyas, Vidhātṛ, Anumati, the assembled Aṅgirases, Vaiśvānara, Suparṇa, Vivasvat, Prajāpati, Dyaus, Sudhanvan, Nagohya, Apāṃ Napāt, Aramyan, Vātajūti, Iḷaspati, Rathaspati, the Ṛbhus, Parjanya, the mountains,
+
 ---
 
-**Progress note:** Done through printed p. 283. pp. 278-283 (batch API)
+**Progress note:** Done through printed p. 289. pp. 284-289 (batch API)
