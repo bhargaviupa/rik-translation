@@ -22035,6 +22035,161 @@ On तिस्रो देवीः (*tisro devīḥ*) Yāska says only ति
 
 That is: Bhāratī — Bharata is one of the twelve Ādityas. The radiance of the Āditya is called भा (*bhā*). Therefore Bhāratī is the light of the sun, or the Agni present as light in the solar orb. Iḷā — Iḷā is the earth. मनुष्यत् चेतयंती (*manuṣyat cetayaṃtī*) — having the power to impel like men; that is, because she gives food and wealth to men on earth, Iḷā is a particular form of Agni in the earth's station. Sarasvatī — because she is the presiding deity of the thunder and lightning in the atmosphere, Sarasvatī is also said to be a form of Agni in the atmospheric station.
 
+### Printed p. 634
+Therefore it is customary to say that the three goddesses Iḷā, Sarasvatī and Bhāratī are the three forms of Agni, who is in heaven, in the atmosphere and on the earth.
+
+If one examines the mantra that collects the main points of the Āprī hymns:
+
+होतायक्षत्तिस्रो देवीरसामपस्तमा अच्छिद्रमद्येदमपस्तन्वतां । देवेभ्यो देवीर्देवमपो वियंत्वाज्यस्य होतरज ॥ (*hotāyakṣattisro devīrasāmapastamā acchidramadyedamapastanvatāṃ | devebhyo devīrdevamapo viyaṃtvājyasya hotaraja ‖*) (Tai. Brā. 3-6-2-2)
+
+In the original text there is only "तिस्रो देवीः (*tisro devīḥ*)" (the three goddesses). While explaining this, the bhāṣya says: इडा सरस्वती, भारतीत्येवं रूपास्ति स्रोऽष्टम प्रयाजदेव्यस्तद्रूपमग्निं दैव्यो होता यजतु (*iḍā sarasvatī, bhāratītyevaṃ rūpāsti sro 'ṣṭama prayājadevyastadrūpamagniṃ daivyo hotā yajatu*). That is, the three goddesses Iḍā, Sarasvatī and Bhāratī, the deities of the eighth Prayāja, are said to be deities who reflect Agni. Further, by the epithet अपसां अपस्तमाः । कर्मवतीनां मध्येऽतिशयेन कर्मवत्यः (*apasāṃ apastamāḥ | karmavatīnāṃ madhye 'tiśayena karmavatyaḥ*) they are shown to be the most excellent of the active (women). In the Aitareya Brāhmaṇa:
+
+तिस्रो देवीर्यजति प्राणो ना अपानो व्यानस्ति स्रो देव्यस्ता एव तत्रीणाति ता यजमाने दधाति । (*tisro devīryajati prāṇo nā apāno vyānasti sro devyastā eva tatrīṇāti tā yajamāne dadhāti |*) (Ai. Brā. 2-4)
+
+Thus an identity is stated between the three goddesses and the vital principles prāṇa, apāna and vyāna. The Nirukta-author quotes the Ṛk 10-110-8 beginning आ नो यज्ञं (*ā no yajñaṃ*) and gives its explanation thus: ऐतु नो यज्ञं भारती क्षिप्रं ! भरत आदित्यस्यस्तस्य भा इळा च मनुष्यवदिह चेतयमाना तिस्रो देव्याः बर्हिरिदं सुखं सरस्वती च सुकर्माण आसीदंतु । (*aitu no yajñaṃ bhāratī kṣipraṃ ! bharata ādityasyastasya bhā iḷā ca manuṣyavadiha cetayamānā tisro devyāḥ barhiridaṃ sukhaṃ sarasvatī ca sukarmāṇa āsīdaṃtu |*) (Ni. 8-13). "May the deity who is the radiance of Bharata (the Sun), and Iḷā and Sarasvatī adorn the barhis." In the Bṛhaddevatā:
+
+तिस्रस्तु देव्यो याः प्रोक्तास्त्रिस्थानैवेह सा तु वाक् । त्रिविधेनोच्यते नाम्ना ज्योतिःषु त्रिषु वर्तिनी ॥ अग्निमेवानुगेळा तु मध्यं प्राप्ता सरस्वती । अमू स्थिताधि लोकं तु भारती भवति ह्यसौ ॥ सैषा तु त्रिविधा वाग्वै दिवि च व्योम्मि चेह च । व्यस्ता चैव समस्ता च भजत्यग्नीमानपि ॥ (*tisrastu devyo yāḥ proktāstristhānaiveha sā tu vāk | trividhenocyate nāmnā jyotiḥṣu triṣu vartinī ‖ agnimevānugeḷā tu madhyaṃ prāptā sarasvatī | amū sthitādhi lokaṃ tu bhāratī bhavati hyasau ‖ saiṣā tu trividhā vāgvai divi ca vyommi ceha ca | vyastā caiva samastā ca bhajatyagnīmānapi ‖*) (Bṛ. De. 3-12 to 14)
+
+"The three goddesses" are the presiding deities of speech in the three worlds (the three forms of speech are described in Bṛ. De. 2-72 to 82). अयं प्रयोगस्वेतेषां ज्योतिषां त्रिषु वर्ततां । (*ayaṃ prayogasveteṣāṃ jyotiṣāṃ triṣu vartatāṃ |*) (Bṛ. De. 1-90).
+
+### Printed p. 635
+As is said there, the different deities in the three worlds are forms of one deity of speech. Of these, Iḷā followed the terrestrial Agni, Sarasvatī occupied the middle world, and Bhāratī became resident of the heavenly world. Even so, in the statement
+
+देव्यस्ति स्रः श्रिताश्चैनं त्वष्टा चैवैतदाश्रयः । (*devyasti sraḥ śritāścainaṃ tvaṣṭā caivaitadāśrayaḥ |*) (Bṛ. De. 1-108)
+
+it is said that the deities of these three worlds also serve the terrestrial Agni alone; thus everything is concluded in the end as relating to Agni.
+
+In the Ṛk
+
+इळा सरस्वती मही तिस्रो देवीर्मयोभुवः । बर्हिः सीदंत्वस्रिधः ॥ (*iḷā sarasvatī mahī tisro devīrmayobhuvaḥ | barhiḥ sīdaṃtvasridhaḥ ‖*) (Ṛ. Saṃ. 1 13-9)
+
+and also in Ṛ. Saṃ. 5-5-8, which has the same order, the name Bhāratī is not mentioned; therefore Sāyaṇa has said that mahī is a synonym of the goddess Bhāratī. In Ṛ. Saṃ. 1-188-8 and in the Ṛk
+
+भारती पवमानस्य सरस्वतीळा मही । इमं नो यज्ञमा गमनिस्तो देवीः सुपेशसः ॥ (*bhāratī pavamānasya sarasvatīḷā mahī | imaṃ no yajñamā gamanisto devīḥ supeśasaḥ ‖*) (Ṛ. Saṃ. 9-5-8)
+
+it is also an epithet.
+
+Iḷā: Since the Bṛhaddevatā says अग्निमेवानुरागेळा (*agnimevānurāgeḷā*) (3-13), that Iḷā followed the terrestrial Agni; and since in the Ṛk
+
+प्रदीधितिर्विश्ववारा जिगाति होतारमिळः प्रथमं यजध्यै । अच्छा नमोभिर्वृषभं वंदध्यै स देवान्यक्ष दिषितो यजीयान् ॥ (*pradīdhitirviśvavārā jigāti hotāramiḷaḥ prathamaṃ yajadhyai | acchā namobhirvṛṣabhaṃ vaṃdadhyai sa devānyakṣa diṣito yajīyān ‖*) (Ṛ. Saṃ. 3-4-3)
+
+the word इळः (*iḷaḥ*) is explained as food in the form of oblation; and since in Ṛk 7-16-8 the epithet धृतहस्ता (*dhṛtahastā*) and in 10-20-8 the epithet धृतपदी (*dhṛtapadī*) occur, it seems that Iḷā can be explained as oblation. Probably for this reason, in the Ṛk
+
+उत्तानायामव भरा चिकित्वान्त्सद्यः प्रवीता वृषणं जजान । अरुषस्तूपो रुशदस्य पाज इळायास्पुत्रो वयुनेऽजनिष्ट ॥ (*uttānāyāmava bharā cikitvāntsadyaḥ pravītā vṛṣaṇaṃ jajāna | aruṣastūpo ruśadasya pāja iḷāyāsputro vayune 'janiṣṭa ‖*) (Ṛ. Saṃ. 3-29-3)
+
+(Agni) is also called the son of Iḷā.
+
+Bhāratī: The Nirukta says she is the radiance of the Āditya (भरतः आदित्यः तस्य भाः (*bharataḥ ādityaḥ tasya bhāḥ*)). The scholar Macdonell, in his book Vedic Mythology, explains her as the oblation offered by the Bharata clan (p. 87), and Grassmann as the goddess of speech; or she may be explained as related to Agni.
+
+### Printed p. 636
+In the Ṛk
+
+तस्मा अग्निर्भारतः शर्म यंसज्योक्षश्यात्सूर्यमुच्चरंतं । य इंद्राय सुनवामेत्याह नरे नर्याय नृतमाय नृणां ॥ (*tasmā agnirbhārataḥ śarma yaṃsajyokṣaśyātsūryamuccaraṃtaṃ | ya iṃdrāya sunavāmetyāha nare naryāya nṛtamāya nṛṇāṃ ‖*) (Mṛ. Saṃ. 4-25-4)
+
+भारतः (*bhārataḥ*) is an epithet of Agni; so some others hold that the related goddess may have the name Bhāratī.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> देव॑ त्वष्ट॒र्यद्ध॑ चारु॒त्वमान॒ड्यदंगि॑रसा॒मभ॑वः सचा॒भूः ।  
+> स दे॒वानां॒ पाथ॒ उप॒ प्र वि॒द्वानु॒शन्य॑क्षि द्रविणोदः सु॒रत्नः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देव । त्वष्टः । यत् । ह । चारुत्वं । आनट् । यत् । अंगिरसां । अभवः ।  
+> सचाभूः ॥  
+> सः । देवानां । पाथः । उप । प्र । विद्वान् । उशन् । यक्षि । द्रविणःदः । सुरत्नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वाष्ट्रस्य पशोर्वपायागस्य देव त्वष्टरिति याज्या । सूत्रितं च । देव त्वष्टर्यद्ध चारुत्वमानट् पिशंगरूपः सुभरो वयोधाः । आ. ३-८ । इति ॥
+> हे देव त्वष्टरेतन्नामक त्वं यच्चारुत्वं हविर्भिः कल्याणरूपत्वमानट्
+> प्राप्तवान् ॥ अश्नोतेर्लिटि प्रत्ययस्य लुक् ॥ यच्च त्वमंगिरसामस्माकं सचाभूः
+> सहभावी सखाभवः । हे द्रविणोदो धनस्य दातः अव एव सुरत्नः सुधनः स त्वमुशन्नवींषि कामयमानः सन् विद्वान् अस्येदमस्येदमिति प्रजानंदेवानां पाथोऽन्नमुप यक्षि । उपयज । तेभ्यः प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk देव त्वष्टः (*deva tvaṣṭaḥ*) is the yājyā for the vapā offering of the animal sacred to Tvaṣṭṛ. It is prescribed in the sūtra: देव त्वष्टर्यद्ध चारुत्वमानट् पिशंगरूपः सुभरो वयोधाः । आ. ३-८ । (*deva tvaṣṭaryaddha cārutvamānaṭ piśaṃgarūpaḥ subharo vayodhāḥ | ā. 3-8 |*) O divine Tvaṣṭṛ, you who have attained, through oblations, the state of beauty, and who have become our companion, of us the Aṅgirases: O giver of wealth, whose wealth is good, you, desiring the oblations and knowing "this is for this one, this for that one", offer (उप यक्षि (*upa yakṣi*)) the food of the gods and give it to them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रविणोदः (*draviṇodaḥ*)—giver of wealth
+- देव (*deva*)—O divine one
+- त्वष्टः (*tvaṣṭaḥ*)—O Tvaṣṭṛ
+- यत् (*yat*)—because of which
+- चारुत्वं (*cārutvaṃ*)—the auspicious form
+- आनट् (*ānaṭ*)—you have attained
+- यत् (*yat*)—by which greatness of yours
+- अंगिरसां (*aṃgirasāṃ*)—with the Aṅgirases (with us)
+- सचाभूः (*sacābhūḥ*)—united
+- अभवः (*abhavaḥ*)—you are; therefore
+- सुरत्नः (*suratnaḥ*)—possessed of excellent wealth
+- सः (*saḥ*)—you
+- उशन् (*uśan*)—desiring the oblations
+- प्र विद्वान् (*pra vidvān*)—knowing everything
+- देवानां (*devānāṃ*)—to the gods
+- पाथः (*pāthaḥ*)—food
+- उप यक्षि (*upa yakṣi*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Tvaṣṭṛ, giver of wealth and divine in nature, by that greatness of yours by which you have attained a beautiful form, and by which you are united with us, the descendants of Aṅgiras—
+
+### Printed p. 637
+because of this, you, possessed of excellent wealth, desiring the oblations and knowing everything, provide food for the gods.
+
+##### English translation
+Divine Twashtri, since you have attained to beauty (through our oblations), and have become the associate of the Angirasas, do you, the bestower of wealth, possessed of precious treasure, and knowing (to whom each portion belongs), offer the food of the gods (to them).
+
+##### विशेषविषयगळु (Special Topics)
+
+That this Ṛk देव त्वष्टः (*deva tvaṣṭaḥ*) is to be recited as the yājyā mantra in the vapā sacrifice offered to the deity Tvaṣṭṛ is explained by the Āśvalāyana Śrauta Sūtra: देव त्वष्टर्यद्ध चारुत्वमानट् पिशंगरूपः सुभरो वयोधाः (*deva tvaṣṭaryaddha cārutvamānaṭ piśaṃgarūpaḥ subharo vayodhāḥ*) (Ā. 3-8).
+
+Yāska's explanation regarding the deity Tvaṣṭṛ:
+त्वष्टा । त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात्करोतिकर्मणः ॥ माध्यमिकस्तृष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः ॥ (*tvaṣṭā | tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikarmaṇastvakṣatervā syātkarotikarmaṇaḥ ‖ mādhyamikastṛṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇiḥ ‖*) (Ni. 8-14)
+That is: the Nirukta-authors say that the word Tvaṣṭṛ means one who pervades quickly; or one who is resplendent; or one who performs works (craftsmanship). Some say he is Mādhyamika, that is, he who dwells between heaven and earth (in the atmosphere). Śākapūṇi says he is Agni.
+
+Some say that Tvaṣṭṛ, like Viśvakarman, is the craftsman of the gods. For in the Ṛk that Yāska gives as an example,
+य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । तमद्य होतरिषितो यजीयान् देवं तृष्णारमिह यक्षि विद्वान् ॥ (*ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā | tamadya hotariṣito yajīyān devaṃ tṛṣṇāramiha yakṣi vidvān ‖*)
+it is said that Tvaṣṭṛ is the maker of heaven and earth and the cause of the appropriate form, beauty, prosperity, growth and so on of the creatures in all the worlds. Moreover Śruti (Yajurveda) statements such as त्वष्टा वै पशूनां मिथुनानां रूपकृत् (*tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt*) (Tai. Saṃ. 6-1-8-5), त्वष्टा रूपाणामधिपतिः (*tvaṣṭā rūpāṇāmadhipatiḥ*) (Tai. Saṃ. 3-4-5-1) and त्वष्टा रूपाणि विकरोति (*tvaṣṭā rūpāṇi vikaroti*) establish Tvaṣṭṛ's skill in making things; and
+
+मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोवृजन्नपि क्रतुं ॥ (*mahyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāsovṛjannapi kratuṃ ‖*) (Ṛ. Saṃ. 10-48-3)
+
+### Printed p. 638
+Indra says that Tvaṣṭṛ made for him a thunderbolt of iron. Many mantras of the Ṛgveda say that he made for the gods the necessary sacrificial materials and many other things.
+
+Tvaṣṭṛ is famed as one of the twelve Ādityas. For that reason Yāska explained the meaning as "resplendent".
+
+Among the Śruti statements that give a personal view of the deity Tvaṣṭṛ, those cited below refer only to the deity of the Āprī hymn.
+
+होतायक्षत्तष्टारमचिष्टुमपाकग्ं रेतोधां विश्रवसं यशोधां । पुरुरूपमकामकर्शनग्ं सुपोषः पोषैः स्यात्सुवीरो वीरैर्वेत्वाज्यस्य होतर्यज ॥ (*hotāyakṣattaṣṭāramaciṣṭumapākagṃ retodhāṃ viśravasaṃ yaśodhāṃ | pururūpamakāmakarśanagṃ supoṣaḥ poṣaiḥ syātsuvīro vīrairvetvājyasya hotaryaja ‖*) (Tai. Brā. 3-6-2-2)
+
+In this mantra there are the epithets अचिष्टुं (*aciṣṭuṃ*), अपाकं (*apākaṃ*), रेतोधां (*retodhāṃ*), विश्रवसं (*viśravasaṃ*), यशोधां (*yaśodhāṃ*), पुरुरूपं (*pururūpaṃ*), अकामकर्शनं (*akāmakarśanaṃ*). Among these: अचिष्टुं (*aciṣṭuṃ*) is explained as चेष्टनरहितं, चांचल्यरहितं, स्थिरं (*ceṣṭanarahitaṃ, cāṃcalyarahitaṃ, sthiraṃ*), one who stays steady without fickleness; अपाकं (*apākaṃ*) as अबालं प्राज्ञं (*abālaṃ prājñaṃ*), not a child but wise; रेतोधां (*retodhāṃ*) as पुत्रादिबीजस्य यजमाने धारयितारं (*putrādibījasya yajamāne dhārayitāraṃ*), one who sows the seed of sons and the like in the sacrificer; विश्ववसं (*viśvavasaṃ*) as विविधकीर्तियुक्तं (*vividhakīrtiyuktaṃ*), possessed of various fame; यशोधां (*yaśodhāṃ*) as यजमाने यशसः धारयितारं (*yajamāne yaśasaḥ dhārayitāraṃ*), one who makes the sacrificer a sharer of renown; पुरुरूपं (*pururūpaṃ*) as बहुरूपं (*bahurūpaṃ*), one of many kinds of form; अकामकर्शनं (*akāmakarśanaṃ*) as कामानां अनाशयितारं (*kāmānāṃ anāśayitāraṃ*), one who fulfils the sacrificer's desires.
+
+These epithets show Tvaṣṭṛ's personal nature. Showing the derivation of the word Tvaṣṭṛ (8-14), the Nirukta-authors say: त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वास्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात् करोटिकर्मणः । (*tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervāsyāddīptikarmaṇastvakṣatervā syāt karoṭikarmaṇaḥ |*) The view of the Nirukta-authors is that the name arises from pervading quickly; and it may be formed from the root tviṣ, meaning "to shine", or from the root tvakṣ, meaning "to make". From these explanations it is understood that Tvaṣṭṛ is one who pervades swiftly, shines, and makes. To show to which world this deity belongs they say माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । (*mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ |*)
+
+### Printed p. 639
+thereby stating the views that he belongs to the group of atmospheric deities according to some, and that he is Agni according to Śākapūṇi. In the Bṛhaddevatā, approving the first view:
+
+त्वष्टा रूपविकर्ता च योऽसौ माध्यमिके गणे । स्तुतः स च निपातेन सूक्तं तस्य न विद्यते ॥ (*tvaṣṭā rūpavikartā ca yo 'sau mādhyamike gaṇe | stutaḥ sa ca nipātena sūktaṃ tasya na vidyate ‖*) (Bṛ. De. 3-25)
+
+In this verse he is said to belong to the group of deities of the middle world. Before this:
+
+त्वष्टा तु यस्त्वयमेव पार्थिवोऽग्निरिति स्तुतिः । पार्थिवस्यास्य वर्चः स्युः कस्याप्यक् चार्तवेषु च ॥ त्वषितस्त्वक्षतेर्वा स्यात् तूर्णमश्नुत एव ना । कर्मसूत्तारणो वेति तेन नामैतदश्नुते ॥ यः सहस्रतमो रश्मी रवेश्चंद्रमुपाश्रितः । सोऽपि त्वष्टारमेवाग्निं परं चेह च यन्मधु ॥ (*tvaṣṭā tu yastvayameva pārthivo 'gniriti stutiḥ | pārthivasyāsya varcaḥ syuḥ kasyāpyak cārtaveṣu ca ‖ tvaṣitastvakṣatervā syāt tūrṇamaśnuta eva nā | karmasūttāraṇo veti tena nāmaitadaśnute ‖ yaḥ sahasratamo raśmī raveścaṃdramupāśritaḥ | so 'pi tvaṣṭāramevāgniṃ paraṃ ceha ca yanmadhu ‖*) (Bṛ. De. 3-15 to 17)
+
+In some places there is an indication that the praise which belongs to the terrestrial Agni is the same, and that Tvaṣṭṛ is a deity connected with the earth. In the hymns concerning the seasons he is described as a portion of Agni. Then the Nirukta's derivation of the word Tvaṣṭṛ is itself given. It also describes that, as the thousand-rayed sun pervading the moon pervades honey, the other world and the earth, so it is in Tvaṣṭṛ too. In this matter the Bṛhaddevatā-authors chiefly approve the view of Śākapūṇi stated in the Nirukta. In the Nighaṇṭu, Tvaṣṭṛ is placed first with the Āprī deities (5-2), then with the atmospheric deities (5-5), and first with the deities of the heavenly world (5-6).
+
+The story of Tvaṣṭṛ and the sage Dadhīci is told in the Special Topics of Sūkta 1-139. In the Aitareya Brāhmaṇa:
+
+त्वष्टारं यजति वाग्वै त्वष्टा वाग्भेदं सर्वं । त्वांष्ट्री वाचमेव तत्रीणाति वाचं यजमाने दधाति । (*tvaṣṭāraṃ yajati vāgvai tvaṣṭā vāgbhedaṃ sarvaṃ | tvāṃṣṭrī vācameva tatrīṇāti vācaṃ yajamāne dadhāti |*)
+
+By this statement the identity of Tvaṣṭṛ and speech is stated, which is also one view.
+
+य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भवनानि विश्वा । तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् । (*ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhavanāni viśvā | tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān |*) (Ṛ. Saṃ. 10-110-9)
+
+In this Ṛk it is praised that this deity has a divine birth, and that for this reason he shows his antiquity even at the times of creation. The view is that Tvaṣṭṛ is extremely ancient.
+
 ---
 
-**Progress note:** Done through printed p. 633. pp. 628-633 (batch API)
+**Progress note:** Done through printed p. 639. pp. 634-639 (batch API)
