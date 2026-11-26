@@ -2898,7 +2898,7 @@ Being effused the Indu flows so as to be seen (of all) the exhilarator of the go
 
 ##### Gist of the bhāṣya
 
-Oh Soma, being purified, you clothe yourself in the waters called वसतीवरी (*vasatīvarī*) and flow in a stream; that is, you go to the filter. Then, as giver of jewels, you sit on the seat, the place of the sacrifice that is true (ऋतस्य (*ṛtasya*)). (The block continues on the next page.)
+Oh Soma, being purified, you clothe yourself in the waters called वसतीवरी (*vasatīvarī*) and flow in a stream; that is, you go to the filter. Then, as giver of jewels, you sit on the seat, the place of the sacrifice that is true (ऋतस्य (*ṛtasya*)).
 
 ### Printed p. 64
 
@@ -7464,7 +7464,7 @@ The Brāhmaṇa who attends upon the abodes of the purified Soma, people call bl
 
 ##### Gist of the bhāṣya
 
-The seer addresses himself: O seer, Kaśyapa, seer of the sūkta, increasing speech in the form of praise with the hymns (स्तोमैः (*stomaiḥ*)) of the mantra-making seers, ... (continues on the next page).
+The seer addresses himself: O seer, Kaśyapa, seer of the sūkta, increasing speech in the form of praise with the hymns (स्तोमैः (*stomaiḥ*)) of the mantra-making seers, ....
 
 ### Printed p. 163
 
@@ -8230,7 +8230,7 @@ Sūkta 1
 
 ##### Gist of the bhāṣya
 
-This great (बृहन् (*bṛhan*) = महान् (*mahān*)) Agni stands upright, blazing in the form of flame, at the head of the dawns, that is, above the dawns, at the time of dawn. From स्तमसः (*stamasaḥ*), a name for night, he has gone out: निर्जगन्वान् (*nirjaganvān*) is "gone forth", the form from the root गम (*gama*) with kvasu and without the augment iṭ. That Agni, marked by his own light (ज्योतिषा (*jyotiṣā*)), comes: being carried from the Gārhapatya he arrives at the Āhavanīya. Then, स्वंगः (*svaṃgaḥ*) with fair flame-limbs, जातः (*jātaḥ*) born for the rite, this Agni with रुशता (*ruśatā*) (from the root रोच (*roca*) in the sense of burning; "shining"), or else, रुशति (*ruśati*) in the sense of harming, "destroying the darkness", with भानुना (*bhānunā*) (brilliance) fills (*āprāḥ*, from प्रा (*prā*) "to fill") विश्वा सद्मानि (*viśvā sadmāni*), all the worlds, or else the sacrificial houses. The Vājasaneyaka (Śatapatha) is cited here and continues on the next page.
+This great (बृहन् (*bṛhan*) = महान् (*mahān*)) Agni stands upright, blazing in the form of flame, at the head of the dawns, that is, above the dawns, at the time of dawn. From स्तमसः (*stamasaḥ*), a name for night, he has gone out: निर्जगन्वान् (*nirjaganvān*) is "gone forth", the form from the root गम (*gama*) with kvasu and without the augment iṭ. That Agni, marked by his own light (ज्योतिषा (*jyotiṣā*)), comes: being carried from the Gārhapatya he arrives at the Āhavanīya. Then, स्वंगः (*svaṃgaḥ*) with fair flame-limbs, जातः (*jātaḥ*) born for the rite, this Agni with रुशता (*ruśatā*) (from the root रोच (*roca*) in the sense of burning; "shining"), or else, रुशति (*ruśati*) in the sense of harming, "destroying the darkness", with भानुना (*bhānunā*) (brilliance) fills (*āprāḥ*, from प्रा (*prā*) "to fill") विश्वा सद्मानि (*viśvā sadmāni*), all the worlds, or else the sacrificial houses. The Vājasaneyaka (Śatapatha) is cited here.
 
 ### Printed p. 199
 
@@ -10589,7 +10589,7 @@ The wise Agni glorified (by his worshippers) has from the sacrifice raised aloft
 
 ##### Gist of the bhāṣya
 
-The कवयः (*kavayaḥ*) are the wise seers. They made seven limits (मर्यादाः (*maryādāḥ*)), which are held back from the sins born of desire and born of anger. These are: drinking, dice, women, hunting, punishment (दंडः (*daṃḍaḥ*)), harshness of speech, and slandering others. Alternatively, the seven limits are those set out in the Nirukta (Ni. 6-27): theft, ascending the teacher's bed, brahmin-killing, drinking of surā, and the repeated practice of an evil deed. The list continues on the next page.
+The कवयः (*kavayaḥ*) are the wise seers. They made seven limits (मर्यादाः (*maryādāḥ*)), which are held back from the sins born of desire and born of anger. These are: drinking, dice, women, hunting, punishment (दंडः (*daṃḍaḥ*)), harshness of speech, and slandering others. Alternatively, the seven limits are those set out in the Nirukta (Ni. 6-27): theft, ascending the teacher's bed, brahmin-killing, drinking of surā, and the repeated practice of an evil deed.
 
 ### Printed p. 272
 
@@ -23280,7 +23280,7 @@ Hero, Indra, (your worshippers glorify) those prompt exploits performed by you i
 
 ##### Gist of the bhāṣya
 
-O mighty, valiant Indra, our own great अभिष्टयः (*abhiṣṭayaḥ*) are the sacrifices (इज्याः (*ijyāḥ*)) directed towards us; or else they are our desired petitions, prayers for what we long for. May they not be कुध्यक् (*kudhyak*), that is, contemptible, which means fruitless. (The explanation continues on the next page.)
+O mighty, valiant Indra, our own great अभिष्टयः (*abhiṣṭayaḥ*) are the sacrifices (इज्याः (*ijyāḥ*)) directed towards us; or else they are our desired petitions, prayers for what we long for. May they not be कुध्यक् (*kudhyak*), that is, contemptible, which means fruitless.
 
 ### Printed p. 669
 
@@ -24351,7 +24351,7 @@ They who seek to touch your heart, Soma, worship you in all places; and these de
 
 ##### Gist of the bhāṣya
 
-"Moreover, O Soma, I perform for you the व्रतानि (*vratāni*), that is, rites such as the sacrifice, with पाक्या (*pākyā*), a ripened intelligence that sees all ends." Or else: पाक्या (*pākyā*) is an epithet of the rites, meaning "ripened", that is, completed (the passage continues on the next page).
+"Moreover, O Soma, I perform for you the व्रतानि (*vratāni*), that is, rites such as the sacrifice, with पाक्या (*pākyā*), a ripened intelligence that sees all ends." Or else: पाक्या (*pākyā*) is an epithet of the rites, meaning "ripened", that is, completed.
 
 ### Printed p. 694
 
@@ -24446,7 +24446,7 @@ Or else: धीतयः (*dhītayaḥ*) is a name for the fingers; they drink w
 
 ##### भावार्थ (Bhāvārtha)
 
-O Soma, as cows let loose for water (or pots let down into a well for water) go straight to the well and reach it, so our praises come quickly and reach you (the passage continues on the next page).
+O Soma, as cows let loose for water (or pots let down into a well for water) go straight to the well and reach it, so our praises come quickly and reach you.
 
 ### Printed p. 696
 As we hold cup-vessels filled with the oblation for your abundant satisfaction, so establish our sacrifice for the increase of our life. You are a great one.
@@ -24490,7 +24490,7 @@ Our praises converge (Soma) towards you, as herds towards a well; establish our 
 - गृत्सस्य (*gṛtsasya*)—wise
 - तवसः (*tavasaḥ*)—great
 - तव (*tava*)—addressing you
-- व्यण्णिरे (*vyaṇṇire*)—praise in many ways (the list continues on the next page)
+- व्यण्णिरे (*vyaṇṇire*)—praise in many ways
 
 ### Printed p. 697
 - वः (*vaḥ*)—your
@@ -26705,7 +26705,7 @@ Then the sentence continues from the previous page: they cause the plants and th
 
 ##### Gist of the bhāṣya
 
-Here the inner self is praised as Indra. "O inner self, that solar divine form of yours is the cause of life. And know such a form of that Āditya at the sacrifice." The word समर्य (*samarya*) ordinarily denotes battle, but here it denotes the sacrifice. (The sentence continues on the next page.)
+Here the inner self is praised as Indra. "O inner self, that solar divine form of yours is the cause of life. And know such a form of that Āditya at the sacrifice." The word समर्य (*samarya*) ordinarily denotes battle, but here it denotes the sacrifice.
 
 ### Printed p. 753
 
@@ -26798,7 +26798,7 @@ Metre: Triṣṭubh.
 
 ##### Gist of the bhāṣya
 
-With this Ṛk Vasukra's wife praises Indra. Every other lord, the whole company of gods other than Indra, has come; they have come to our sacrifice. इत् (*it*) is in the sense of emphasis. (.⟧ and continues on the next page.)
+With this Ṛk Vasukra's wife praises Indra. Every other lord, the whole company of gods other than Indra, has come; they have come to our sacrifice. इत् (*it*) is in the sense of emphasis.
 
 ### Printed p. 756
 

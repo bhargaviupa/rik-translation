@@ -8411,7 +8411,7 @@ Our praises celebrate the irresistible Indra, the dispenser of abundant food, ov
 
 ##### Gist of the bhāṣya
 
-"O Indra, by your command the seven waters, divine rivers such as the Gaṅgā, flow well and with fair sound (सुरणाः (*suraṇāḥ*)), unharmed (अमृक्ताः (*amṛktāḥ*)); 'they flow' is to be supplied. O Indra, breaker of cities, by these seven rivers, the Gaṅgā and the rest, you crossed the ocean (सिंधुं (*siṃdhuṃ*))", that is, you made it swell. Alternatively: the seven divine waters, of winding nature, were created by you and flow; by them you crossed the river Sindhu. (The sentence continues on the next page.)
+"O Indra, by your command the seven waters, divine rivers such as the Gaṅgā, flow well and with fair sound (सुरणाः (*suraṇāḥ*)), unharmed (अमृक्ताः (*amṛktāḥ*)); 'they flow' is to be supplied. O Indra, breaker of cities, by these seven rivers, the Gaṅgā and the rest, you crossed the ocean (सिंधुं (*siṃdhuṃ*))", that is, you made it swell. Alternatively: the seven divine waters, of winding nature, were created by you and flow; by them you crossed the river Sindhu.
 
 ### Printed p. 222
 
@@ -11779,7 +11779,7 @@ And (the gods) said (to Brihaspati), "This pledge of hers is to be taken by the 
 
 ##### Gist of the bhāṣya
 
-The ancient gods, Ādityas and others, spoke concerning her: "She is free from sin." So also the seven ṛṣis who sat down for austerity (तपसे (*tapase*), to practise tapas) (निषेदुः (*niṣeduḥ*), from the root sad, perfect). The block continues on the next page.
+The ancient gods, Ādityas and others, spoke concerning her: "She is free from sin." So also the seven ṛṣis who sat down for austerity (तपसे (*tapase*), to practise tapas) (निषेदुः (*niṣeduḥ*), from the root sad, perfect).
 
 ### Printed p. 317
 
@@ -16433,7 +16433,7 @@ oblations, have sat down thereon where the gods receive their share.
 
 ##### Gist of the bhāṣya
 
-एकः (*ekaḥ*): alone, without help in all works. सुपर्णः (*suparṇaḥ*): the well-flying deity of the middle region. He enters समुद्रं (*samudraṃ*), the atmosphere (antarikṣa). Having entered, he surveys all this world, all that is born, looking on it so as to favour it. I saw him, this deity, near at hand with a ripe mind. Further, माता (*mātā*) is the maker of the waters, the middle-region Speech; she licks, that is, tastes him. Only sustenance is meant here. And he too licks Mother Speech, that is, he lives by her alone. (The text continues on the next page.)
+एकः (*ekaḥ*): alone, without help in all works. सुपर्णः (*suparṇaḥ*): the well-flying deity of the middle region. He enters समुद्रं (*samudraṃ*), the atmosphere (antarikṣa). Having entered, he surveys all this world, all that is born, looking on it so as to favour it. I saw him, this deity, near at hand with a ripe mind. Further, माता (*mātā*) is the maker of the waters, the middle-region Speech; she licks, that is, tastes him. Only sustenance is meant here. And he too licks Mother Speech, that is, he lives by her alone.
 
 ### Printed p. 496
 
@@ -17081,7 +17081,7 @@ The most active Agni, the giver of wealth, is nourished with ghi (by the worship
 
 ##### Gist of the bhāṣya
 
-O praisers, praise that Agni. What is he like? विं न (*viṃ na*), like a bird; द्रुषदं (*druṣadaṃ*): dru is a tree, one sitting in the tree that is the fire-stick; देवं (*devaṃ*), shining; अंधस इंदुं (*aṃdhasa iṃduṃ*), the one who moistens, who brings forward, the food of the praisers (the affix u by Uṇ. Sū. 1-13, with initial acute). प्रोथंतं (*prothaṃtaṃ*), sounding; प्रवपंतं (*pravapaṃtaṃ*), greatly burning the forests; अर्णवं (*arṇavaṃ*), possessing water, in the order beginning "the offering cast into the fire …". आसा (*āsā*): by the mouth, the carrier of oblations. Or else आसा (*āsā*) is a word for "near": he brings oblations near the gods. The illustration for carrying: वह्निं न (*vahniṃ na*), since it is heard in वह्निर्वा अनड्वान् (*vahnirvā anaḍvān*) (Tai. Brā. 1-8-2-5), he is capable of carrying like an ox. शोचिषा (*śociṣā*), by his own light, विरप्पिनं (*virappinaṃ*) (virapśin: "mahat" is the meaning), great; like Āditya, of great action (महिव्रतं न (*mahivrataṃ na*)), *adhvanaḥ sarajaṃtaṃ* (continues on the next page).
+O praisers, praise that Agni. What is he like? विं न (*viṃ na*), like a bird; द्रुषदं (*druṣadaṃ*): dru is a tree, one sitting in the tree that is the fire-stick; देवं (*devaṃ*), shining; अंधस इंदुं (*aṃdhasa iṃduṃ*), the one who moistens, who brings forward, the food of the praisers (the affix u by Uṇ. Sū. 1-13, with initial acute). प्रोथंतं (*prothaṃtaṃ*), sounding; प्रवपंतं (*pravapaṃtaṃ*), greatly burning the forests; अर्णवं (*arṇavaṃ*), possessing water, in the order beginning "the offering cast into the fire …". आसा (*āsā*): by the mouth, the carrier of oblations. Or else आसा (*āsā*) is a word for "near": he brings oblations near the gods. The illustration for carrying: वह्निं न (*vahniṃ na*), since it is heard in वह्निर्वा अनड्वान् (*vahnirvā anaḍvān*) (Tai. Brā. 1-8-2-5), he is capable of carrying like an ox. शोचिषा (*śociṣā*), by his own light, विरप्पिनं (*virappinaṃ*) (virapśin: "mahat" is the meaning), great; like Āditya, of great action (महिव्रतं न (*mahivrataṃ na*)), *adhvanaḥ sarajaṃtaṃ*.
 
 ### Printed p. 516
 
@@ -25442,7 +25442,7 @@ Sāyaṇa says that avidyā, kāma and karman have so far been given as the caus
 
 The fifth-case (ablative) śruti runs "From the Ātman ether arose, from ether wind, from wind fire" (Tai. A. 8-1) **NOTE**. It gives a sequence, like "then the Udgātṛ, then the Hotṛ". Even so, because creation spread as swiftly as a flash of lightning, that sequence is hard to make out. So it is asked in which of these three places the priority lay. The meaning is that creation was thus completed swiftly in all directions.
 
-He then divides the matter. Among the created effects, some beings were रेतोधाः (*retodhāḥ*): the establishers of karma that is like seed, that is, agents and enjoyers, the living beings. Other beings were महिमानः (*mahimānaḥ*) (the affix is svārthika). These were the great objects of enjoyment, ether and the rest. Thus the Supreme Lord with māyā created the whole world and himself entered it. He made the division into enjoyer, enjoyed and so on. The same meaning is taught in the Taittirīya, beginning "Having created it, he entered into that very thing" (Tai. Ā. 8-6), and it continues on the next page.
+He then divides the matter. Among the created effects, some beings were रेतोधाः (*retodhāḥ*): the establishers of karma that is like seed, that is, agents and enjoyers, the living beings. Other beings were महिमानः (*mahimānaḥ*) (the affix is svārthika). These were the great objects of enjoyment, ether and the rest. Thus the Supreme Lord with māyā created the whole world and himself entered it. He made the division into enjoyer, enjoyed and so on. The same meaning is taught in the Taittirīya, beginning "Having created it, he entered into that very thing" (Tai. Ā. 8-6).
 
 ### Printed p. 773
 
@@ -25615,7 +25615,7 @@ atha kaḥ veda yataḥ abababhūva — Since matters stand thus, what person ca
 
 ##### Gist of the bhāṣya
 
-Just as the creation of this world, as described, is hard to know, so the created world too is hard to sustain; this is what he says with इयमिति (*iyamiti*). The varied creation, in the form of mountains, rivers, oceans and so on, arose from the supreme Self as its material cause; whether he sustains it or not, who else could sustain it? If anyone sustains it, only Īśvara does, no other. By thus stating that the effect is sustained, Brahman's being the material cause is declared. The sūtra of Pārāśarya is cited: प्रकृतिश्च प्रतिज्ञादृष्टांतानुपरोधात् (*prakṛtiśca pratijñādṛṣṭāṃtānuparodhāt*) (Ve. Sū. 1-4-23 **NOTE**). Alternatively, this half-verse confirms the earlier statement that creation is hard to know; "who knows" is carried over. The discussion continues on the next page.
+Just as the creation of this world, as described, is hard to know, so the created world too is hard to sustain; this is what he says with इयमिति (*iyamiti*). The varied creation, in the form of mountains, rivers, oceans and so on, arose from the supreme Self as its material cause; whether he sustains it or not, who else could sustain it? If anyone sustains it, only Īśvara does, no other. By thus stating that the effect is sustained, Brahman's being the material cause is declared. The sūtra of Pārāśarya is cited: प्रकृतिश्च प्रतिज्ञादृष्टांतानुपरोधात् (*prakṛtiśca pratijñādṛṣṭāṃtānuparodhāt*) (Ve. Sū. 1-4-23 **NOTE**). Alternatively, this half-verse confirms the earlier statement that creation is hard to know; "who knows" is carried over.
 
 ### Printed p. 779
 
@@ -29412,7 +29412,7 @@ May the gods give (us) protection in this world, may the company of the Maruts p
 
 ##### Gist of the bhāṣya
 
-Waters alone are medicinal, medicine-like: by bathing, drinking and the like they cause happiness. Or else, transformed into the form of herbs, they become causes of the allaying of disease. (The grammatical remark begins with केवलमामकेत्यादिना (*kevalamāmaketyādinā*) and continues on the next page.)
+Waters alone are medicinal, medicine-like: by bathing, drinking and the like they cause happiness. Or else, transformed into the form of herbs, they become causes of the allaying of disease. (The grammatical remark begins with केवलमामकेत्यादिना (*kevalamāmaketyādinā*).)
 
 ### Printed p. 888
 
@@ -37299,7 +37299,7 @@ Number of Ṛks in the sūkta: 6.
 
 ##### Gist of the bhāṣya
 
-Agni, the slayer of Rakṣases, having come to agreement (संविदान (*saṃvidāna*)) with the mantra (ब्रह्मणा (*brahmaṇā*)), is asked to drive away from this place the Rākṣasa and the like. The Rākṣasa who, in the form of disease (अमीवा (*amīvā*)), ... (continues on the next page).
+Agni, the slayer of Rakṣases, having come to agreement (संविदान (*saṃvidāna*)) with the mantra (ब्रह्मणा (*brahmaṇā*)), is asked to drive away from this place the Rākṣasa and the like. The Rākṣasa who, in the form of disease (अमीवा (*amīvā*)), ....
 
 ### Printed p. 1095
 
@@ -37679,7 +37679,7 @@ I banish disease from your eyes, from your nose, from your ears, from your chin,
 
 ##### Gist of the bhāṣya
 
-"O one seized by disease, from the उष्णिहाभ्य (*uṣṇihābhya*), the sinews that are upward-directed, or oily or bathed, from the ग्रीवाभ्य (*grīvābhya*), those at the neck, the channels (धमतीभ्य (*dhamatībhya*)), I pull out your yakṣma. Likewise I pull out yakṣma from the कीकसाभ्य (*kīkasābhya*), the bones, and from the अनूक्यात् (*anūkyāt*), the joint of the bones." The explanation of अनूक्य (*anūkya*) is from the root उच समवाये (*uca samavāye*): the bone-joint is that which is joined together. (The bhāṣya continues on the next page.)
+"O one seized by disease, from the उष्णिहाभ्य (*uṣṇihābhya*), the sinews that are upward-directed, or oily or bathed, from the ग्रीवाभ्य (*grīvābhya*), those at the neck, the channels (धमतीभ्य (*dhamatībhya*)), I pull out your yakṣma. Likewise I pull out yakṣma from the कीकसाभ्य (*kīkasābhya*), the bones, and from the अनूक्यात् (*anūkyāt*), the joint of the bones." The explanation of अनूक्य (*anūkya*) is from the root उच समवाये (*uca samavāye*): the bone-joint is that which is joined together.
 
 ##### प्रतिपदार्थ (Pratipadārtha)
 
