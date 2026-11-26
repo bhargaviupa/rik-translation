@@ -29,6 +29,7 @@ Hand repairs: one remark removed in w0100 (`review/repair_log.md`). By agents wi
 1. (user) Preface: to be translated into `vol26/work/preface/en.md`; installing it is a logged repair after the user's yes.
 2. (user) w0107 (pp. 107–112): for four Pratipadārtha lemmas that the Kannada line prints damaged (`ದೇವನೀತೆಯೇ`, `ಪಿತ್ರಾವತೀ`, `ಅಂಜೃಃ`, `ಅತ್ಯಕ್ರಮಾತ್`) the agent wrote the Saṃhitā block's form without a NOTE (its own report); decide whether to keep them or restore the line's form with a NOTE.
 3. (user) Second reading of the scan pages 810–894 (`review/repair_log.md`).
+4. (user) w0206 (Sūkta 62 Ṛk 7): the NOTE on the Pratipadārtha word for `ಅಸದಃ` is worded wrongly (the agent's own report): the word cut off at the line end is the Kannada meaning `ಬಂದುಕುಳಿತುಕೊ`, not the lemma.
 
 ## Publication (print PDF)
 Not built.
