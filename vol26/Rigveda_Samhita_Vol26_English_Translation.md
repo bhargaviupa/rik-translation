@@ -12354,6 +12354,272 @@ Repeatedly purified by the priest, Indu, abounding with food, placed for food, t
 > पवमानः । ऋतम् । बृहत् । शुक्रम् । ज्योतिः । अजीजनत् ।  
 > कृष्णा । तमांसि । जंघनत् ॥ २४ ॥
 
+### Printed p. 333
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः ऋतं सत्यं यथार्थभूतं बृहत् प्रभूतं सर्वदेशेषु व्यापकं शुक्रं दीप्यमानं श्वेतवर्णं ज्योतिः तेजः अजीजनत् द्युलोक उदपादयत् । किं कुर्वन् । कृष्णा कृष्णवर्णानि तमांसि जंघनत् भृशं विनाशयन् । हंतेर्यङ्लुकि शतरि रूपम् । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna (Soma) generated in the heaven-world the true, that is, real, great, that is, abundant and pervading all regions, bright, that is, shining and white light. What was he doing? Destroying utterly the black darkness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—Soma-deva, the purifier
+- कृष्णा (*kṛṣṇā*)—black-coloured
+- तमांसि (*tamāṃsi*)—deep darknesses
+- जंघनत् (*jaṃghanat*)—destroying
+- ऋतः (*ṛtaḥ*)—that which is of the nature of truth **NOTE**
+- बृहत् (*bṛhat*)—that which is abundant
+- शुक्रं (*śukraṃ*)—that which is shining, such
+- ज्योतिः (*jyotiḥ*)—his own radiance
+- अजीजनत् (*ajījanat*)—has spread and extended in the heaven-world
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, the purifier, destroying the black-coloured deep darknesses, has spread and extended in the heaven-world his own radiance, which is of the nature of truth, abundant and shining.
+
+##### English translation
+The purified (Soma) generated the veracious all-pervading bright-shining light, destroying the black darkness,
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानस्य॒ जंघ्न॑तो॒ हरे॑श्चं॒द्रा अ॑सृक्षत ।  
+> जी॒रा अ॑जि॒रशो॑चिषः ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानस्य । जंघ्नतः । हरेः । चंद्राः । असृक्षत ।  
+> जीराः । अजिरऽशोचिषः ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जंघ्नतः पुनःपुनस्तमांसि विनाशयतः हरेः हरितवर्णस्य अजिरशोचिषः सर्वत्र गमनशीलतेजसः पवमानस्य सोमस्य चंद्राः । ‘चदि आह्लादने । देवानामाह्लादयित्र्यः जीराः क्षिप्रंक्षरणशीला धाराः असृक्षत सृजंति । पवित्रान्निर्गच्छंतीत्यर्थः ॥ ॥ ११ ॥
+
+##### Gist of the bhāṣya
+
+The streams of Pavamāna Soma, who repeatedly destroys the darkness, who is green-tinted and whose radiance moves everywhere, are gladdening, that is, they delight the gods; they are swift, that is, they flow quickly. They are let forth, that is, they issue forth from the filter. The word चंद्राः (*caṃdrāḥ*) is explained from a root meaning to gladden.
+
+### Printed p. 334
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जज्घ्नतः (*jajghnataḥ*)—who destroys the darkness again and again **NOTE**
+- हरेः (*hareḥ*)—who is green-coloured
+- अजिरशोचिषः (*ajiraśociṣaḥ*)—who has pervading splendour
+- पवमानस्य (*pavamānasya*)—of Soma-deva, the purifier
+- चंद्राः (*caṃdrāḥ*)—gladdening
+- जीराः (*jīrāḥ*)—and swift-moving
+- असृक्षत (*asṛkṣata*)—have issued forth from the ten-fold filter
+
+##### भावार्थ (Bhāvārtha)
+
+The gladdening and swift-moving streams of Soma-deva, who destroys the darkness again and again, who is green-coloured, who has pervading splendour, and who is the purifier, have issued forth from the ten-fold filter.
+
+##### English translation
+The gladsome swift-moving streams of the purified, green-tinted unfadingly radiant (Soma), the destroyer (of darkness), have been let forth.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो र॒थीत॑मः शु॒भ्रेभिः॑ शु॒भ्रश॑स्तमः ।  
+> हरि॑श्चंद्रो म॒रुद्ग॑णः ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । रथिऽतमः । शुभ्रेभिः । शुभ्रशःऽतमः ।  
+> हरिऽचंद्रः । मरुत्ऽगणः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः देवः रथीतमः अतिशयेन रथवान्। 'ईद्रथिनः' ( पा. सू. ८. २. १७, १ ) इति ईकारः । तथा शुभ्रेभिः शोभायुक्तेभ्यस्तेजोभ्योऽपि शुभ्रशस्तमः अत्यंतदीप्यमानश्च । यद्वा । निर्मलेभ्योऽपि निर्मलतमयशोयुक्तः हरिश्चंद्रः । ‘ह्रस्वाच्चंद्रोत्तरपदे ' इति सांहितिकः सुट् । हरितवर्णदीप्तिर्हरितधारावान् वा मरुद्गणः । मरुतो यस्य गणः सहायभूताः स तथोक्तः । तादृशः सर्वांल्लोकान्' स्वरश्मिभिः स्वदीप्तिभिः व्यश्नवत् व्याप्नोत्वित्युत्तरेणान्वयः ॥
+
+##### Gist of the bhāṣya
+
+The god Pavamāna is रथीतमः (*rathītamaḥ*), exceedingly possessed of a chariot. He is शुभ्रशस्तमः (*śubhraśastamaḥ*) also in comparison with शुभ्रेभिः (*śubhrebhiḥ*), the beautiful splendours, that is, he is exceedingly shining. Or else: he is हरिश्चंद्रः (*hariścaṃdraḥ*), possessed of glory more spotless than the spotless; or he has a green radiance, or green streams. He is मरुद्गणः (*marudgaṇaḥ*): the Maruts are his troop, that is, his helpers. Such as he is, let him pervade all the worlds with his own rays, that is, his own radiances; the construction is with the following verse.
+
+### Printed p. 335
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—the purifier
+- रथीतमः (*rathītamaḥ*)—who has an exceedingly great chariot
+- शुभ्रेभिः (*śubhrebhiḥ*)—than the shining splendours
+- शुभ्रशस्त्रमः (*śubhraśastramaḥ*)—who has exceeding brilliance **NOTE**
+- हरिश्चंद्रः (*hariścaṃdraḥ*)—who has a green-coloured stream
+- मरुद्दणः (*maruddaṇaḥ*)—who is accompanied by the Maruts **NOTE**
+
+The Soma-deva who is such, let him pervade everywhere.
+
+##### भावार्थ (Bhāvārtha)
+
+Let Soma-deva, who is the purifier, who has an exceedingly great chariot, who has a brilliance exceeding the shining splendours, who has a green-coloured stream, and who is accompanied by the Maruts, pervade everywhere. **NOTE**
+
+##### English translation
+The purified (Soma), possessing many chariots most radiant with beauteous splendours, having green-tined streams, attended by the Maruts— **NOTE**
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो॒ व्य॑श्नवद्र॒श्मिभि॑र्वाज॒सात॑मः ।  
+> दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । वि । अश्नवत् । रश्मिऽभिः । वाजऽसातमः ।  
+> दधत् । स्तोत्रे । सुऽवीर्यम् ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः सोमः रश्मिभिः स्वदीप्तिभिः व्यश्नवत् सर्वं जगद्व्याप्नोतु । कीदृशः । वाजसातमः अतिशयेनान्नस्य दाता बलस्य संभक्ता वा । तथा स्तोत्रे पवमानस्तोत्रं कुर्वते मनवे सुवीर्यं सुवीर्योपेतं पुत्रं धनं वा दधत् विदधत् प्रयच्छन् व्याप्नोतु । अश्नोतेर्लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+Let Pavamāna Soma pervade the whole world with his rays, that is, his own radiances. Of what kind is he? वाजसातमः (*vājasātamaḥ*): the greatest giver of food, or the one who distributes strength. And granting to the worshipper, to Manu who performs the Pavamāna hymn, good heroic power, that is, a son endowed with good heroism, or wealth, let him pervade.
+
+### Printed p. 336
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजसातमः (*vājasātamaḥ*)—the exceeding giver of food
+- पवमानः (*pavamānaḥ*)—Soma-deva
+- स्तोत्रे (*stotre*)—to the praiser
+- सुवीर्यं (*suvīryaṃ*)—sons and the like, of excellent power
+- दधत् (*dadhat*)—giving
+- रश्मिभिः (*raśmibhiḥ*)—with his rays
+- व्यश्नवत् (*vyaśnavat*)—let him pervade everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+Let Soma-deva, the excellent giver of food, giving to the praiser sons and the like of excellent power, pervade everywhere with his rays.
+
+##### English translation
+May the purified Soma, the most liberal dispenses of food, pervade (the world) with his rays, granting excellent male offespring to the worshipper. **NOTE**
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु॑वा॒न इंदु॑रक्षाः प॒वित्र॒मत्य॒व्यय॑म् ।  
+> पु॒ना॒न इंदु॒रिंद्र॒मा ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सुवानः । इंदुः । अक्षारिति । पवित्रम् । अति । अव्ययम् ।  
+> पुनानः । इंदुः । इंद्रम् । आ ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानः अभिषूयमाणः इंदुः सोमः अव्ययम् अविमयमूर्णास्तुकेन निर्मितं दशापवित्रमतीत्य प्र अक्षाः कलशं प्रति प्रकर्षेण क्षरति । क्षरतेर्लुङि तिपि सिचि छांदस इडागमाभावः । ‘ अतो र्लांतस्य' (पा. सू. ७. २. २) इति वृद्धिः। रात्सस्य' इति सिचो लोपः। रेफांतं स्पष्टयितुमितिकारः । ‘ बहुलं छंदसि' (पा. सू. ७.३.९७ ) इति ईडभावः । हल्ङ्यादिना तिलोपः । ततः पुनानः पवित्रेण शुद्धः इंदुः सोमः इंद्रमा विशति । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+Indu, that is, Soma, being pressed, passes beyond the ten-fold filter made of sheep's wool and flows forth towards the vessel. Then, purified by the filter, Indu, that is, Soma, enters Indra. Since a preposition is heard, a suitable verb is to be supplied.
+
+### Printed p. 337
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानः (*suvānaḥ*)—pressed by the act of pressing
+- इंदुः (*iṃduḥ*)—Soma
+- अव्ययं (*avyayaṃ*)—made of wool
+- पवित्रं अति (*pavitraṃ ati*)—crossing the ten-fold filter
+- प्र अक्षाः (*pra akṣāḥ*)—goes and reaches the Droṇa vessel
+- पुनानः (*punānaḥ*)—who has attained purity
+- इंदुः (*iṃduḥ*)—Soma
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ (विशति) (*ā (viśati)*)—enters
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, pressed by the act of pressing, crosses the ten-fold filter made of wool and goes to the Droṇa vessel and reaches it. Soma, who has attained purity, enters Indra.
+
+##### English translation
+Indu when effused drops through the fleecy filter (into the vessel); being filtered Indu (enters) into Indra.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष सोमो॒ अधि॑ त्व॒चि गवां॑ क्रीळ॒त्यद्रि॑भिः ।  
+> इंद्रं॒ मदा॑य॒ जोहु॑वत् ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । सोमः । अधि । त्वचि । गवाम् । क्रीळति । अद्रिऽभिः ।  
+> इंद्रम् । मदाय । जोहुवत् ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः अंशुरूपः सोमः गवां त्वचि आनडुहचर्मणि । अधिशब्द उपर्यर्थद्योतकः । चर्मण्युपरि अद्रिभिः ग्रावभिः सह क्रीडति अभिषवाय संक्रीडते । किं कुर्वन् । मदाय सोमपानेन मादयितुम् इंद्रं जोहुवत् भृशमाह्वयन् । एतेन तत्काल इंद्रविषयां स्तुतिं कुर्वंतीत्यवगम्यते ॥
+
+##### Gist of the bhāṣya
+
+This Soma, in the form of the shoots, sports upon the hide of a cow, that is, the hide of an ox; the word अधि (*adhi*) indicates the sense of “upon”. He sports with the stones, that is, the pressing stones, for the pressing. What is he doing? Calling Indra eagerly, to exhilarate him with the drinking of Soma. From this it is understood that at that time they offer praise to Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः (*eṣaḥ*)—of the form of the creeper
+- सोमः (*somaḥ*)—this Soma-deva
+- मदाय (*madāya*)—in order to gain delight
+- इंद्रं (*iṃdraṃ*)—Indra
+- जोहुवत् (*johuvat*)—calling again and again
+- गवां त्वचि अधि (*gavāṃ tvaci adhi*)—upon the cowhide
+- अद्रिभिः (*adribhiḥ*)—with the pressing stones
+- क्रीडति (*krīḍati*)—sports
+
+### Printed p. 338
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma-deva, who is of the form of the creeper, sports with the pressing stones upon the cowhide, calling Indra again and again in order to gain delight through his drinking.
+
+##### English translation
+This Soma sports with the stones upon the cowhide, calling Indra for exhilaration.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ ते द्यु॒म्नव॒त्पयः॒ पव॑मा॒नाभृ॑तं दि॒वः ।  
+> तेन॑ नो मृळ जी॒वसे॑ ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । ते । द्युम्नऽवत् । पयः । पवमान । आऽभृतम् । दिवः ।  
+> तेन । नः । मृळ । जीवसे ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान हे सोम दिवः द्युलोकात् आभृतं श्येनरूपया गायत्र्याहृतं द्युम्नवत् अन्नवत् यशोयुक्तं वा पयः सोमलक्षणमन्नं यस्य ते तव स्वभूतं विद्यते तस्मात्त्वं तेन अन्नेन नः अस्मान् जीवसे चिरजीवनाय मृळ मृळय सुखय ॥ ॥ १२ ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, O Soma, the milk, that is, the Soma food, brought from the heaven-world by the Gāyatrī in the form of a hawk, which is rich in द्युम्न (*dyumna*), that is, possessed of food or of glory, belongs to you and is your own. Therefore, with that food, make us happy, that is, make us comfortable, for long life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva, who has attained purity
+- दिवः (*divaḥ*)—from the atmosphere
+- आ धृतं (*ā dhṛtaṃ*)—that which is brought **NOTE**
+- द्युम्नवत् (*dyumnavat*)—that which is endowed with food
+- पयः (*payaḥ*)—the food in the form of Soma
+- यस्य (*yasya*)—which
+- ते (*te*)—is in you
+- तेन (*tena*)—with that food
+- नः (*naḥ*)—us
+- जीवसे (*jīvase*)—to live for a long time
+- मृळ (*mṛḷa*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, who has attained purity, with that food in the form of Soma, which is in you, brought from the atmosphere and endowed with food, make us happy so that we may live for a long time.
+
 ---
 
-**Progress note:** Done through printed p. 332. Sūkta 66 Ṛk 19-24 (Saṃhitā, Pada), pp. 327-332
+**Progress note:** Done through printed p. 338. Soma Pavamana verses Rk 24-30 (sukta 66), pp. 333-338
