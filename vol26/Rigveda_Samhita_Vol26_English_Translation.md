@@ -18293,6 +18293,264 @@ The sūkta प्र राजा वाचं (*pra rājā vācaṃ*) is the el
 
 Sūkta 78. Maṇḍala 9, Anuvāka 4, Sūkta 78. Aṣṭaka 7, Adhyāya 3, Varga 3. Number of ṛks in the sūkta: 5. Seer: Kavi. Deity: Pavamāna Soma. Metre: Jagatī.
 
+### Printed p. 492
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र राजा॒ वाचं॑ ज॒नय॑न्नसिष्यदद॒पो वसा॑नो अ॒भि गा इ॑यक्षति ।  
+> गृ॒भ्णाति॑ रि॒प्रमवि॑रस्य॒ तान्वा॑ शु॒द्धो दे॒वाना॒मुप॑ याति निष्कृ॒तम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । राजा । वाचम् । जनयन् । असिस्यदत् । अपः । वसानः । अभि । गाः । इयक्षति ।  
+> गृभ्णाति । रिप्रम् । अविः । अस्य । तान्वा । शुद्धः । देवानाम् । उप । याति । निःऽकृतम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> राजा राजमानोऽयं सोमोऽभिषूयमाणः सन् वाचं शब्दं जनयन् उत्पादयन् असिष्यदत् प्रस्यंदते । तथा अपः वसतीवरीः वसानः आच्छादयन् गाः स्तुतीः' अभि इयक्षति अभिगच्छति । इयक्षतिर्गतिकर्मसु पठितः । अस्य सोमस्य रिप्रम् अनुपादेयत्वेन पापरूपम् अभिषुतवल्लीशकलादिरूपम् अविः अविरोमनिर्मितं दशापवित्रं तान्वा स्वीयेन वस्त्रेण गृभ्णाति गृह्णाति शोधनसमये । पश्चात् शुद्धः देवानां निष्कृतं संस्कृतं स्थानम् उप याति उपगच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma, shining as a king, being pressed, flows forth, producing a sound (vāc). Likewise, clothing himself with the waters, the Vasatīvarī, that is, covering himself with them, he goes toward the praises (gāḥ means praises). Of this Soma, the ripra, the sinful part that is not to be taken up, the pieces of the pressed creeper and the like, the filter of ten parts made of sheep's wool takes hold with its own cloth at the time of cleansing. Afterwards, purified, he goes to the prepared place of the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजा (*rājā*)—Soma, the lord
+- वाचं (*vācaṃ*)—a sound
+- जनयन् (*janayan*)—producing
+- प्र असिष्यदत् (*pra asiṣyadat*)—flows
+- अपः (*apaḥ*)—the waters called Vasatīvarī
+- वसानः (*vasānaḥ*)—clothing himself
+- गाः अभि (*gāḥ abhi*)—turned toward the praises
+- इयक्षति (*iyakṣati*)—goes
+- अस्य (*asya*)—of this Soma
+- रिप्रं (*ripraṃ*)—the impurities
+- अविः (*aviḥ*)—the filter of ten parts
+- तान्वा (*tānvā*)—with its own cloth
+- गृभ्णाति (*gṛbhṇāti*)—stops and holds
+- शुद्धः (*śuddhaḥ*)—Soma, who has become pure
+- देवानां (*devānāṃ*)—of the gods
+- निष्कृतं (*niṣkṛtaṃ*)—the well-prepared place
+- उप याति (*upa yāti*)—goes and reaches
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the lord, flows producing a sound. Clothing himself with the waters called Vasatīvarī, he goes turned toward the praises. The filter of ten parts stops and holds the impurities of this Soma with its own cloth.
+
+### Printed p. 493
+
+Soma, who has become pure, goes and reaches the well-prepared place of the gods.
+
+##### English translation
+This royal (Soma) producing a sound flows forth ; clothing himself with the water he advances towards the praiees (of the worshipper) ; the sheep with its fleece lays hold of the impure form : purtfied he approaches the station of the gods. **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य सोम॒ परि॑ षिच्यसे॒ नृभि॑र्नृ॒चक्षा॑ ऊ॒र्मिः क॒विर॑ज्यसे॒ वने॑ ।  
+> पू॒र्वीर्हि ते॑ स्रु॒तयः॒ संति॒ यात॑वे स॒हस्र॒मश्वा॒ हर॑यश्चमू॒षदः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सोम । परि । सिच्यसे । नृऽभिः । नृऽचक्षाः । ऊर्मिः । कविः । अज्यसे । वने ।  
+> पूर्वीः । हि । ते । स्रुतयः । संति । यातवे । सहस्रम् । अश्वाः । हरयः । चमूऽसदः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वम् इंद्राय इंद्रार्थं नृभिः नेतृभिर्ऋत्विग्भिः परि षिच्यसे अभिषूयसे । तथा हे सोम नृचक्षाः नृणां यष्टॄणामनुग्रहेण द्रष्टा ऊर्मिः प्रेर्यमाणः प्रवृद्धो वा कविः मेधावी च त्वं वने उदके अज्यसे प्रेर्यसे । पूर्वीः बह्व्यः हि ते स्रुतयः मार्गाश्छिद्राणि संति यातवे यातुम् । अल्पस्य सोमस्य अपरिमितस्रुतिगमनासंभवात्तस्य बाहुल्यमाह । चमूषदः अभिषवणफलकयोः सीदतः सहस्रम् अपरिमिताः अश्वाः व्याप्ताः हरयः हरितवर्णा अंशवः संति । अथवा । इंद्राय परिषिच्यस इत्युक्तत्वादिंद्रप्राप्तौ मार्गसाधनयोः सद्भाव उत्तरार्धेन प्रतिपादितः । ते पुरातन्यः सरण्यः संतींद्रं प्रति यातुम् । तथा सहस्रसंख्याका हरितवर्णा अश्वाश्च संति। चमूषदस्तवेति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are sprinkled around, pressed, by the priests, the leaders, for Indra. Likewise, O Soma, you who see men, that is, look upon the sacrificers with favour, who are urged on or grown great, who are wise, are driven in the water (vana means water). Many are your streams, paths or channels, for going. Since a small quantity of Soma cannot go in countless streams, he states the abundance: a thousand, that is, countless, horses, that is, pervading green-coloured rays, sitting on the two pressing boards, are yours. Or else: because it was said "you are sprinkled for Indra", the second half shows that the paths and the means for reaching Indra exist: those ancient channels exist for going to Indra, and a thousand green horses, seated in the cups, are yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- इंद्राय (*iṃdrāya*)—for Indra
+- नृभिः (*nṛbhiḥ*)—by the priests
+- परि षिच्यसे (*pari ṣicyase*)—you are pressed
+- नृचक्षाः (*nṛcakṣāḥ*)—who see the doings of men
+- कविः (*kaviḥ*)—and wise, you
+- ऊर्मिः (*ūrmiḥ*)—nourished in the form of waves
+- वने (*vane*)—in the water
+- अज्यसे (*ajyase*)—you join
+- ते (*te*)—to you
+- यातवे (*yātave*)—for going
+- स्रुतयः (*srutayaḥ*)—the channels of flow
+- पूर्वीति संति (*pūrvīti saṃti*)—are many
+
+### Printed p. 494
+
+- चमूषदः (*camūṣadaḥ*)—the Soma juices that are on the pressing boards
+- सहस्रं (*sahasraṃ*)—countless
+- आश्वाः (*āśvāḥ*)—pervading **NOTE**
+- हरयः (*harayaḥ*)—and of green colour are
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you are pressed by the priests for Indra. You, who see the doings of men and are wise, nourished in the form of waves, join the water. Channels of flow for you to move in are plentiful. The Soma juices on the pressing boards are countless, pervading and of green colour.
+
+##### English translation
+You are effused by the priests, Soma, for Indra ; you the observer of men, stimulated, intelligent, are immersed in the water ; many are the paths for you to follow, infinite are the spreading green-tinted streams alighting on the cups.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒मु॒द्रिया॑ अप्स॒रसो॑ मनी॒षिण॒मासी॑ना अं॒तर॒भि सोम॑मक्षरन् ।  
+> ता ईं॑ हिन्वंति ह॒र्म्यस्य॑ स॒क्षणिं॒ याचं॑ते सु॒म्नं पव॑मान॒मक्षि॑तम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> समुद्रियाः । अप्सरसः । मनीषिणम् । आसीनाः । अंतः । अभि । सोमम् । अक्षरन् ।  
+> ताः । ईम् । हिन्वंति । हर्म्यस्य । सक्षणिम् । याचंते । सुम्नम् । पवमानम् । अक्षितम् ॥ ३ ॥
+
+### Printed p. 495
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रियाः । समुद्रसाधनत्वात् समुद्रमंतरिक्षम् । तत्संबंधिन्यः अप्सरसः काश्चन अंतः यज्ञमध्ये आसीनाः पात्रेषु वर्तमाना वसतीवर्यः मनीषिणं मेधाविनं सोमम् अभि अक्षरन् अभिषूयमाणं सोममभिक्षरंति । ताः एता आपः ईम् एनं हर्म्यस्य हर्म्यवत्सुखकरस्य यागगृहस्य सक्षणिं सेचनशीलं हिन्वंति वर्धयंति पोषयंति । ता एव स्तोतारो वा पवमानं सोमम् अक्षितम् अक्षीणं सुम्नं सुखं याचंते प्रार्थयंते । तत्रायं भावः । काश्चनाप्सरसः सोमं राजानं मनीषिणं कामयमाना देवानपि परित्यज्य स्वर्गादागत्य राज्ञः समीपे स्थित्वा तस्य रसानाददते । स्वरसेन वर्धयंति तं सुखं च याचंत इति ॥
+
+##### Gist of the bhāṣya
+
+Samudriyāḥ: the atmosphere is the samudra, since it is the means to the ocean; certain apsarases connected with it, the Vasatīvarī waters, seated within, in the middle of the sacrifice, that is, present in the vessels, flow toward the wise Soma who is being pressed. These same waters make this Soma, the sprinkler of the sacrificial hall which is pleasant like a palace, grow and nourish him; or the praisers do so. They ask Pavamāna Soma for unfailing happiness. The idea here: certain apsarases, desiring Soma the wise king, leave even the gods, come from heaven, stay near the king, take his juices, make him grow with their own juice and ask him for happiness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रियाः (*samudriyāḥ*)—those standing in the atmosphere
+- अप्सरसः (*apsarasaḥ*)—the apsarases (the Vasatīvarī waters)
+- अंतः (*aṃtaḥ*)—in the midst of the sacrifice
+- आसीनाः (*āsīnāḥ*)—seated
+- मनीषिणं (*manīṣiṇaṃ*)—the wise
+- सोमं अभि (*somaṃ abhi*)—toward Soma
+- अक्षरन् (*akṣaran*)—flow
+- ह्यम्यस्य (*hyamyasya*)—the pleasant sacrificial hall **NOTE**
+- सक्षणिं (*sakṣaṇiṃ*)—the sprinkler (who pours the juice)
+- ईं (*īṃ*)—this Soma
+- ताः (*tāḥ*)—those same Vasatīvarī waters
+- हिन्वंति (*hinvaṃti*)—nourish
+- अक्षितं (*akṣitaṃ*)—the imperishable
+- पवमानं (*pavamānaṃ*)—from that same Soma
+- सुम्मं (*summaṃ*)—happiness **NOTE**
+- याचंते (*yācaṃte*)—ask
+
+##### भावार्थ (Bhāvārtha)
+
+The Vasatīvarī waters of the atmosphere, seated in the midst of the sacrifice, flow toward the wise Soma. The Vasatīvarī waters nourish this Soma, who pours the juice in the pleasant sacrificial hall. The sacrificers ask for happiness from that imperishable Soma.
+
+##### English translation
+The npmphs of the firmament seated in the midst flow towards the sagacious Soma ; they cherish him the sprinkler of the hall of sacrifice : (the worshippers` solicit Pavamana (the undecaying) for a boon. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गो॒जिन्नः॒ सोमो॑ रथ॒जिद्धि॑रण्य॒जित्स्व॒र्जिद॒ब्जित्प॑वते सहस्र॒जित् ।  
+> यं दे॒वास॑श्चक्रि॒रे पी॒तये॒ मदं॒ स्वादि॑ष्ठं द्र॒प्सम॑रु॒णं म॑यो॒भुव॑म् ॥ ४ ॥
+
+### Printed p. 496
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोऽजित् । नः । सोमः । रथऽजित् । हिरण्यऽजित् । स्वःऽजित् । अप्ऽजित् । पवते । सहस्रऽजित् ।  
+> यम् । देवासः । चक्रिरे । पीतये । मदम् । स्वादिष्ठम् । द्रप्सम् । अरुणम् । मयःऽभुवम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नः अस्माकं गोजित् गवां जेता तथा रथजित् रथस्य जेता हिरण्यजित् हिरण्यस्य जेता तथा स्वर्जित् स्वर्गस्य सुखस्य जेता अब्जित् अपां जेता सहस्रजित् सहस्रसंख्याकस्य धनस्य जेता सोमः पवते पूयते । यं देवासः देवाः चक्रिरे कृतवंतः । किमर्थम्। पीतये पानाय । कीदृशं सोमम् । मदं मदकरं स्वादिष्ठं स्वादुतमं द्रप्सं रसात्मकम् अरुणम् अरुणवर्णं मयोभुवं सुखस्य भावयितारम् ॥
+
+##### Gist of the bhāṣya
+
+For us Soma flows, is purified, who is the winner of cows, the winner of the chariot, the winner of gold, the winner of heaven, that is, of the happiness of heaven, the winner of the waters, the winner of a thousand, that is, of wealth in the number of a thousand. The gods have made him for drinking. What kind of Soma? Intoxicating, most sweet, juice by nature, red in colour, and the cause of happiness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तानि॑ सोम॒ पर्व॑मानो अस्म॒युः स॒त्यानि॑ कृ॒ण्वन् द्रवि॑णान्यर्षसि ॥
+
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदं (*madaṃ*)—the gladdening
+- स्वादिष्टं (*svādiṣṭaṃ*)—the savoury
+- द्रप्पं (*drappaṃ*)—the juice by nature **NOTE**
+- अरुणं (*aruṇaṃ*)—the golden-coloured
+- मयोभुवं (*mayobhuvaṃ*)—the cause of happiness
+- यं (*yaṃ*)—which Soma
+- देवासः (*devāsaḥ*)—the gods
+- पीतये (*pītaye*)—for drinking
+- चक्रिरे (*cakrire*)—have devised
+- गोजित् (*gojit*)—the winner of cows
+- रथजित् (*rathajit*)—the winner of chariots
+- षिरण्यजित् (*ṣiraṇyajit*)—the obtainer of gold **NOTE**
+- स्वर्जित् (*svarjit*)—the winner of heaven
+- अब्बित् (*abbit*)—the one who brings the waters under control **NOTE**
+- सहस्रजित् (*sahasrajit*)—the gainer of boundless wealth
+- सोमः (*somaḥ*)—god Soma
+- नः (*naḥ*)—for our good
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, whom the gods have devised for drinking, the gladdening, the savoury, the juice by nature, the golden-coloured, the cause of happiness, the winner of cows, the winner of chariots, the obtainer of gold, the winner of heaven, the one who brings the waters under control, the gainer of boundless wealth, flows for our good.
+
+##### English translation
+Soma flows for us, the conqueror of cattle, of chariots, of gold, of heaven. of water, of thousand-fold (wealth), whom the gods have made for
+
+### Printed p. 497
+
+(their) drinking, exhilarating, most sweet-flavoured, dropping, purple, causing happiness.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒तानि॑ सोम॒ पव॑मानो अस्म॒युः स॒त्यानि॑ कृ॒ण्वंद्रवि॑णान्यर्षसि ।  
+> ज॒हि शत्रु॑मंति॒के दू॑र॒के च॒ य उ॒र्वीं गव्यू॑ति॒मभ॑यं च नस्कृधि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एतानि । सोम । पवमानः । अस्मऽयुः । सत्यानि । कृण्वन् । द्रविणानि । अर्षसि ।  
+> जहि । शत्रुम् । अंतिके । दूरके । च । यः । उर्वीम् । गव्यूतिम् । अभयम् । च । नः । कृधि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम एतानि पूर्वमंत्रोक्तानि गवादीनि द्रविणानि धनानि सत्यानि कृण्वन् कुर्वन् पवमानः पूयमानः अर्षसि पवसे । जहि च शत्रुं यः अस्मच्छत्रुः अंतिके समीपे दूरके अत्यंतं दूरे देशे च वर्तते तं जहि । तथा उर्वीं गव्यूतिं विस्तीर्णं मार्गम् अभयं च नः अस्माकं कृधि कुरु ॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, making true these riches, the cows and the rest named in the previous mantra, you flow, purified. Slay the enemy of ours who dwells near or very far away in the country: slay him. Make for us a wide gavyūti, a broad road, and fearlessness.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- एतानि (*etāni*)—as described above
+- द्रविणानि (*draviṇāni*)—riches
+- सत्यानि (*satyāni*)—as true
+- कृण्वन् (*kṛṇvan*)—making
+- पवमानः (*pavamānaḥ*)—you who are purified
+- अस्मयुः (*asmayuḥ*)—desiring our good
+- अर्षसि (*arṣasi*)—flow
+- यः (*yaḥ*)—which enemy of ours
+- अंतिके (*aṃtike*)—whether near
+- दूरके च (*dūrake ca*)—or far he may be
+- शत्रुं (*śatruṃ*)—every enemy
+- जहि (*jahi*)—destroy
+- नः (*naḥ*)—for us
+- उर्वीं (*urvīṃ*)—wide
+- गव्यूतिं (*gavyūtiṃ*)—road
+- अभयं च (*abhayaṃ ca*)—and fearlessness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, making true all the riches that we desire, as described above, flow, purified, desiring our good. Which enemy of ours
+
 ---
 
-**Progress note:** Done through printed p. 491. Sukta 77 rks 1-5 end; Sukta 78 intro
+**Progress note:** Done through printed p. 497. Sukta 78 rks 1-5 (Bhavartha of rk 5 breaks off)
