@@ -2099,6 +2099,279 @@ This invigorating praise, like a horse attached to a car, has been addressed to 
 > ए॒वा न॑ इंद्र॒ वार्य॑स्य पूर्धि॒ प्र ते॑ म॒हीं सु॑म॒तिं वे॑विदामः ।  
 > इषं॑ पिन्व म॒घव॑द्भ्यः सु॒वीरां॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 
+### Printed p. 49
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । नः । इंद्र । वार्यस्य । पूर्धि । प्र । ते । महीं । सुमतिं । वेविदाम ।  
+> इषं । पिन्व । मघवत्भ्यः । सुवीरां । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मानेवैवं वार्यस्य । तृतीयार्थे षष्ठी । वरणीयेन
+> धनेन पूर्धि । पूरय । ते तव महीं महतीं सुमतिमनुग्रहबुद्धिं वेविदाम ।
+> भृशं लभेमहि । मघवद्भ्यो हविष्मद्भ्योऽस्मभ्यं सुवीरां शोभनपुत्रादियुतामिषमन्नं पिन्व । प्रयच्छेत्यर्थः । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, fill us in this manner with desirable wealth (वार्यस्य (*vāryasya*) stands in the genitive in the sense of the instrumental). May we richly obtain your great (महीं (*mahīṃ*)) favour, that is, your gracious disposition (सुमतिं (*sumatiṃ*)). To us who are rich in oblations (मघवद्भ्यः (*maghavadbhyaḥ*)) bestow food (इषं (*iṣaṃ*)) accompanied by excellent sons and the like (सुवीरां (*suvīrāṃ*)). The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—us
+- एव (*eva*)—in this very manner
+- वार्यस्य (*vāryasya*)—with desirable wealth
+- प्र पूर्धि (*pra pūrdhi*)—fill completely
+- ते (*te*)—your
+- महीं (*mahīṃ*)—great
+- सुमतिं (*sumatiṃ*)—gracious disposition
+- वेविदाम (*vevidāma*)—may we obtain abundantly
+- मघवद्भ्यः (*maghavadbhyaḥ*)—to us who have food in the form of oblations
+- सुवीरां (*suvīrāṃ*)—accompanied by heroic sons and the like
+- इषं (*iṣaṃ*)—food
+- पिन्व (*pinva*)—provide (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, fill us in this manner completely with the wealth we desire. May we obtain abundantly your great gracious disposition. To us, who have food in the form of oblations, provide food accompanied by heroic sons and the like. O Indra and the other gods, protect us always with blessings.
+
+##### English translation
+In this manner, Indra, satisfy us (with the gift) of desirable (wealth) : may we repeatedly experience your great favour : bestow upon us who are opulent (in offerings) food with male descendants : ever cherish us with blessings.
+
+### Printed p. 50
+
+## Sūkta 25 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ ते मह इंद्रेति षडृचमष्टमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं ।
+> आ ते इत्यनुक्रांतं । महाव्रते निष्केवल्य एतमादीनि पंच सूक्तानि । सूत्रितं च ।
+> आ ते मह इंद्रोत्युग्रेति पंच सूक्तानि । ऐ. आ. ५-२-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sūkta of six Ṛks beginning आ ते मह इंद्र (*ā te maha iṃdra*) is the eighth sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra. The Anukramaṇī records it with आ ते (*ā te*). In the Mahāvrata, at the niṣkevalya recitation, five sūktas beginning with this one are used. It is laid down by the sūtra आ ते मह इंद्रोत्युग्रेति पंच सूक्तानि (*ā te maha iṃdrotyugreti paṃca sūktāni*) (Ai. Ā. 5-2-2).
+
+The sūkta आ ते मह इंद्र (*ā te maha iṃdra*) is the eighth sūkta in the second anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated beginning with आ ते (*ā te*). Its application, from this sūkta onward for the five sūktas, is in the Mahāvrata sacrifice, for the mantras of the niṣkevalya recitation, as is indicated by the sentence of the Aitareya Āraṇyaka आ ते मह इंद्रोत्युग्रेति पंच सूक्तानि (*ā te maha iṃdrotyugreti paṃca sūktāni*) (Ai. Ā. 5-2-2).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ म॒ह इं॑द्रो॒त्यु॑ग्र॒ सम॑न्यवो॒ यत्स॒मरं॑त॒ सेनाः॑ ।  
+> पता॑ति दि॒द्युन्नर्य॑स्य बा॒ह्वोर्मा ते॒ मनो॑ विष्व॒द्र्य१॒ं॑ग्विचा॑रीत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । महः । इंद्र । ऊती । उग्र । समन्यवः । यत् । संअरंत । सेनाः ।  
+> पताति । दिद्युत् । नर्यस्य । बाह्वोः । मा । ते । मनः । विष्वद्र्यक् । वि । चारीत् ॥ १ ॥
+
+### Printed p. 51
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उग्रोद्गूर्णौजस्विन्निंद्र यद्यदा समन्यवः । समनो मन्युरभिमानो
+> यासां ताः समन्यवः । सेनाः समरंत युध्यंते संगच्छंते वा तदा नर्यस्य
+> नरहितस्य महो महतस्ते तव बाह्वोः स्थिता दिद्युदायुधं । दिद्युदिति वज्रनामसु पाठात् । उत्कृत्यास्मद्वधाय आ पताति । आपततु । तव विष्वद्र्यग्विष्वग्गंतृ
+> मनश्च मा वि चारीत् । अस्मास्वेव स्थिरं भवतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O fierce Indra, you of uplifted might: when armies (सेनाः (*senāḥ*)) filled with equal fury (समन्यवः (*samanyavaḥ*), those whose pride is equal) clash in battle (समरंत (*samaraṃta*)), or meet, then the shining weapon (दिद्युत् (*didyut*), read among the names of the thunderbolt) that lies in the arms of you, great and kind to men (नर्यस्य (*naryasya*)), let it be raised and fall (आ पताति (*ā patāti*)) for the slaying of our foes. And let your mind, which goes everywhere (विष्वद्र्यक् (*viṣvadryak*)), not wander off (मा वि चारीत् (*mā vi cārīt*)); let it be fixed on us alone.
+**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्र (*ugra*)—you of exceeding might
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- समन्यवः (*samanyavaḥ*)—armies of pride like your own
+- सेनाः (*senāḥ*)—armies
+- समरंत (*samaraṃta*)—meet together in battle, then
+- नर्यस्य (*naryasya*)—kind to men
+- महः (*mahaḥ*)—and of great nature
+- ते (*te*)—your
+- बाह्वोः (*bāhvoḥ*)—in the arms
+- विद्युत् (*vidyut*)—the shining weapon
+- ऊती (*ūtī*)—for our protection
+- आ पताति (*ā patāti*)—let it be hurled at the enemies
+- विष्वद्र्यक् (*viṣvadryak*)—all-pervading
+- ते मनः (*te manaḥ*)—your mind also
+- मा वि चारीत् (*mā vi cārīt*)—let it not leave us and wander elsewhere
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of exceeding might, when armies of pride like your own meet together in battle, let the shining weapon in your arms, you who are kind to men and of great nature, be hurled at the enemies for our protection. Let your all-pervading mind also not leave us and wander elsewhere.
+
+##### English translation
+Fierce Indra, when animated by like fierce armies, encounter them : let the bright (weapon) wielded by the arms of you who are mighty and the friend of man, descend for our protection : let not your all-pervading mind wander (away from us).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि दु॒र्ग इं॑द्र श्नथिह्य॒मित्रान॒॑भि ये नो॒ मर्ता॑सो अ॒मंति॑ ।  
+> आ॒रे तं शंसं॑ कृणुहि निनि॒त्सोरा नो॑ भर सं॒भर॑णं॒ वसू॑नां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नि । दुर्गे । इंद्र । श्नथिहि । अमित्रान् । अभि । ये । नः । मर्तासः । अमंति ।  
+> आरे । तं । शंसं । कृणुहि । निनित्सोः । आ । नः । भर । संभरणं । वसूनां ॥ २ ॥
+
+### Printed p. 52
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र दुर्गे युद्धे ये मर्तासो मर्ता अभ्यभिमुखाः संतो नोऽस्मानमंति अभिभवंति तानमित्रांछत्रून्नि श्नथिहि । निजहि । अपि च निनित्सोरस्मान्निंदितुमिच्छतो नरस्य तं शंसमाशंसनमारे दूरे कृणुहि । कुरु । अपि च नोऽस्मभ्यं
+> वसूनां धनानां संभरणं समूहमा भर । आहर ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, in the stronghold, that is, in battle (दुर्गे (*durge*)), smite down those enemies, the mortals who face us and overpower us (अमंति (*amaṃti*)). And put far away (आरे (*āre*)) the calumny (शंसं (*śaṃsaṃ*)) of the man who wishes to revile us (निनित्सोः (*ninitsoḥ*)). And bring to us a collection (संभरणं (*saṃbharaṇaṃ*)) of riches.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- दुर्गे (*durge*)—in hard battle
+- ये मर्तासः (*ye martāsaḥ*)—those men who
+- अभि (*abhi*)—rising against us
+- नः (*naḥ*)—us
+- अमंति (*amaṃti*)—try to defeat
+- अमित्रान् (*amitrān*)—such enemies
+- नि श्नथिहि (*ni śnathihi*)—crush completely
+- निनित्सोः (*ninitsoḥ*)—of the enemy who wishes to revile us
+- तं शंसं (*taṃ śaṃsaṃ*)—that desire
+- आरे (*āre*)—far away
+- कृणुहि (*kṛṇuhi*)—make
+- नः (*naḥ*)—for us
+- वसूनां (*vasūnāṃ*)—of riches
+- संभरणं (*saṃbharaṇaṃ*)—a collection
+- आ भर (*ā bhara*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in hard battle crush completely those enemies, the men who rise against us and try to defeat us. Make the desire of the enemy who wishes to revile us remain far away. Bring and provide for us a collection of riches.
+
+##### English translation
+Destroy, Indra, our adversaries in battle, those men who overpower us : remove far from us the calumny of the reviler : bring to us abundance of treasures.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं ते॑ शिप्रिन्नू॒तयः॑ सु॒दासे॑ स॒हस्रं॒ शंसा॑ उ॒त रा॒तिर॑स्तु ।  
+> ज॒हि वध॑र्व॒नुषो॒ मर्त्य॑स्या॒स्मे द्यु॒म्नमधि॒ रत्नं॑ च धेहि ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । ते । शिप्रिन् । ऊतयः । सुदासे । सहस्रं । शंसाः । उत । रातिः । अस्तु ।  
+> जहि । वधः । वनुषः । मर्त्यस्य । अस्मे इति । द्युम्नं । अधि । रत्नं । च । धेहि ॥ ३ ॥
+
+### Printed p. 53
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शिप्रिन्नृजीषिन्निंद्र ते त्वदीयाः शतं बह्व्य ऊतयो रक्षाः सुदासे
+> शोभनदानाय मह्यं संतु । सहस्रं शंसाः शंसनीयाः कामाश्च संतु । उतापि च
+> रातिर्धनमस्तु । वनुषो हिंसकस्य मर्त्यस्य वधो हिंसासाधनमायुधं च जहि ।
+> अपि चास्मे अध्यस्मासु द्युम्नं दीप्तिमदन्नं यशो वा रत्नं च धेहि । तथा च
+> यास्कः । द्युम्नं द्योततेर्यशो वान्नं वा । अस्मे द्युम्नमधि रत्नं च धेहि ।
+> अस्मासु द्युम्नं च रत्नं च धेहि । नि. ५-५ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, Śipriṇ and Ṛjīṣin, may your hundred protections (ऊतयो (*ūtayo*)) be for me, the one who gives well (सुदासे (*sudāse*)). May there be a thousand praiseworthy desires (शंसाः (*śaṃsāḥ*)), and a gift of wealth (रातिः (*rātiḥ*)) also. Smite the weapon (वधः (*vadhaḥ*)), the instrument of killing, of the hostile mortal (वनुषः (*vanuṣaḥ*)). And bestow on us radiant (द्युम्नं (*dyumnaṃ*)) food or fame, and jewels. So Yāska says in the Nirukta (Ni. 5-5): द्युम्नं द्योततेर्यशो वान्नं वा (*dyumnaṃ dyotateryaśo vānnaṃ vā*), that is, dyumna comes from the root dyut and means fame or food; and "bestow on us dyumna and jewels" is explained by him as the same.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिप्रिन् (*śiprin*)—O Indra of handsome cheeks
+- ते (*te*)—your
+- शतं (*śataṃ*)—a hundred in number
+- ऊतयः (*ūtayaḥ*)—protections
+- सुदासे (*sudāse*)—let them be reserved for me, who give well
+- शंसाः (*śaṃsāḥ*)—your blessings
+- सहस्रं (*sahasraṃ*)—let them be in thousands
+- उत (*uta*)—and
+- रातिः (*rātiḥ*)—your gift of wealth
+- अस्तु (*astu*)—let it be
+- वनुषः (*vanuṣaḥ*)—who is hostile to us
+- मर्त्यस्य (*martyasya*)—of the man
+- वधः (*vadhaḥ*)—the weapon that kills
+- जहि (*jahi*)—destroy
+- अस्मे अधि (*asme adhi*)—to us (in us)
+- द्युम्नं (*dyumnaṃ*)—radiant
+- रत्नं च (*ratnaṃ ca*)—and a jewel
+- धेहि (*dhehi*)—put in
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra of handsome cheeks, may your hundred protections be reserved for me, who give generously. May your blessings be in thousands upon me. And may your wealth be for me alone. Destroy the weapon that kills of the man who is hostile to us. Put into us a radiant jewel also.
+
+##### English translation
+May hundreds of your protections, handsome-chinned, be (secured) to the liberal donor (of oblations) : may thousands of blessings be bestowed (upon me) as well as wealth ; cast the fatal weapon on the mischievous mortal ; grant us food and wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वाव॑तो॒ हीं॑द्र॒ क्रत्वे॒ अस्मि॒ त्वाव॑तोऽवि॒तुः शू॑र रा॒तौ ।  
+> विश्वेदहा॑नि तविषीव उग्र॒ ओकः॑ कृणुष्व हरिवो॒ न म॑र्धीः ॥
+
+### Printed p. 54
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाऽवतः । हि । इंद्र । क्रत्वे । अस्मि । त्वाऽवतः । अवितुः । शूर । रातौ ।  
+> विश्वा । इत् । अहानि । तविषीऽवः । उग्र । ओकः । कृणुष्व । हरिऽवः । न । मर्धीः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वावतस्त्वत्सदृशस्य क्रत्वे कर्मणेऽस्मि । भवामि हि । हे शूर अवितुर्विश्वस्य रक्षितुस्त्वावतस्त्वत्सदृशस्य रातौ दाने चास्मीति शेषः । हे तविषीवो बलवन्नुग्र जस्विन्निंद्र विश्वेद्विश्वान्येवाहान्योकोऽस्माकं स्थानं कृणुष्व । कुरु । हे हरिवो हरिवन् न मर्धीः । अस्मान्न हिंस्याः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, I am (अस्मि (*asmi*)) for the work (क्रत्वे (*kratve*)) of one like you (त्वावतः (*tvāvataḥ*)). And, O hero, I am for the gift (रातौ (*rātau*)) of one like you, the protector of the whole world, the verb being supplied. O mighty and fierce Indra, make for us a dwelling (ओकः (*okaḥ*)) for all our days. O lord of the Hari horses, do not harm us (न मर्धीः (*na mardhīḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वावतः (*tvāvataḥ*)—like yourself
+- क्रत्वे (*kratve*)—in the work
+- अस्मि हि (*asmi hi*)—I am indeed engaged
+- शूर (*śūra*)—O valiant Indra
+- अवितुः (*avituḥ*)—a protector
+- त्वावतः (*tvāvataḥ*)—like yourself
+- रातौ (*rātau*)—I am indeed worthy of the gift
+- तविषीवः (*taviṣīvaḥ*)—O exceedingly mighty
+- उग्र (*ugra*)—and fearfully powerful Indra
+- विश्वेत् (*viśvet*)—of all
+- अहानि (*ahāni*)—the days
+- ओकः (*okaḥ*)—a dwelling for us
+- कृणुष्व (*kṛṇuṣva*)—build
+- हरिवः (*harivaḥ*)—O Indra, who have horses called Hari
+- न मर्धीः (*na mardhīḥ*)—do not harm us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I am engaged in work like your own. O valiant Indra, I am worthy of a gift like yours, the protector's. O Indra, exceedingly mighty and fearfully powerful, build for us a permanent dwelling for as long as our life lasts. O Indra, who have the horses called Hari, do not harm us.
+**NOTE**
+
+##### English translation
+I am (in dependence), Indra, upon the acts of such as you are, upon the liberality of a protector, here, such as you : vigorous and fierce Indra, give us a dwelling for all our days : lord of bay steeds, do us no harm.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुत्सा॑ ए॒ते हर्य॑श्वाय शू॒षमिंद्रे॒ सहो॑ दे॒वजू॑तमिया॒नाः ।  
+> स॒त्रा कृ॑धि सु॒हना॑ शूर वृ॒त्रा व॒यं तरु॑त्राः सनुयाम॒ वाजं॑ ॥
+
 ---
 
-**Progress note:** Done through printed p. 48. Sūkta 24 Ṛk 1-6 (Saṃhitā of Ṛk 6)
+**Progress note:** Done through printed p. 54. Sūkta 24 Ṛk 6; Sūkta 25 Ṛk 1-4, Saṃhitā of Ṛk 5
