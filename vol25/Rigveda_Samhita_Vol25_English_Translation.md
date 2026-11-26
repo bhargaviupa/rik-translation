@@ -31643,6 +31643,287 @@ The worshippers have elevated by the fingers of their arms that unconquerable lo
 > तं साना॒वधि॑ जा॒मयो॒ हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
 > ह॒र्य॒तं भूरि॑चक्षसम् ॥ ५ ॥
 
+### Printed p. 780
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । सानौ । अधि । जामयः । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> हर्यतम् । भूरिऽचक्षसम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं सोमं हरिं हरितवर्णं सानावधि समुच्छ्रिते देशे। अधीति सप्तम्यर्थानुवादी। जामयः अंगुलयः हिन्वंति प्रेरयंति । अधिषुण्वंति अद्रिभिः ग्रावभिः । कीदृशम् । हर्यतं कमनीयं भूरिचक्षसं बहुद्रष्टारम् ॥
+
+##### Gist of the bhāṣya
+
+That Soma is हरिं (*hariṃ*), of green colour, सानावधि (*sānāvadhi*), in a raised place; अधीति (*adhīti*) restates the sense of the locative. The जामयः (*jāmayaḥ*) are the fingers; हिन्वंति (*hinvaṃti*) means they impel, that is, they press out, with the अद्रिभिः (*adribhiḥ*), the pressing stones. Of what kind is the Soma? हर्यतं (*haryataṃ*), desirable, and भूरिचक्षसं (*bhūricakṣasaṃ*), one who beholds much.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिं (*hariṃ*)—of green (hasaru) colour
+- हर्यतं (*haryataṃ*)—of attractive form
+- भूरिचक्षसं (*bhūricakṣasaṃ*)—that beholds everything abundantly
+- तं (*taṃ*)—that Soma
+- सानौ अधि (*sānau adhi*)—in a raised place
+- जामयः (*jāmayaḥ*)—the fingers (of the priests)
+- अद्रिभिः (*adribhiḥ*)—with the stones that crush the Soma plants
+- हिन्वंति (*hinvaṃti*)—impel, crushing it so that the juice flows out
+
+##### भावार्थ (Bhāvārtha)
+
+That Soma, of green colour, of attractive form and beholding everything, the fingers of the priests impel in the highest place, crushing it with the stones that crush the Soma plants, so that the juice flows out.
+
+##### English translation
+The sister-fingers in a raised place press out by the grinding stones that green-tinted (Soma), desirable and far-beholding.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॑ हिन्वंति वे॒धसः॒ पव॑मान गिरा॒वृध॑म् ।  
+> इंद॒विंद्रा॑य मत्स॒रम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । हिन्वंति । वेधसः । पवमान । गिराऽवृधम् ।  
+> इंदो इति । इंद्राय । मत्सरम् ॥ ६ ॥
+
+### Printed p. 781
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम तम् उक्तगुणविशिष्टं त्वा त्वां हिन्वंति प्रेरयंति । कस्मै । इंद्राय । के। वेधसः विधातार ऋत्विजः । कीदृशं त्वाम् । गिरावृधं स्तुत्या वर्धमानम् इंदुं दीप्तं सरूपं वा मत्सरं मदकरम् ॥ ॥ १६ ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, the वेधसः (*vedhasaḥ*), the ordainers, that is, the priests, impel you, such as has been described, हिन्वंति (*hinvaṃti*). For whom? For Indra. Of what kind are you? गिरावृधं (*girāvṛdhaṃ*), growing by praise; इंदुं (*iṃduṃ*), bright, or of the same form; मत्सरं (*matsaraṃ*), causing intoxication.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—purified
+- इंदो (*iṃdo*)—O Soma
+- गिरावृथं (*girāvṛthaṃ*)—increased (praised) by words of praise
+- मत्सरं (*matsaraṃ*)—one who causes delight
+- तं त्वा (*taṃ tvā*)—such as you
+- वेधसः (*vedhasaḥ*)—the ordainers, that is, the priests who perform the sacrificial rites
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- हिन्वंति (*hinvaṃti*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, purified on the ten-stranded filter, praised with words of praise and causing delight, the priests engaged in the sacrifice impel you and send you forth (through offering in the fire) for Indra's drinking.
+
+##### English translation
+The worshippers offer you to Indra, purifier Indu, filled with praise and bestowing exhilaration.
+
+## Sūkta 27 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘एष कविः' इति षडृचं तृतीयं सूक्तं नृमेधनाम्न अंगिरसस्यार्षं गायत्रं सौम्यम् । ‘एष कविर्नृमेधः' इत्यनुक्रांतम् । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta एष कविः (*eṣa kaviḥ*) of six Ṛks is the third sūkta; its seer is the one named Nṛmedha, of the Aṅgirasa family; the metre is Gāyatra and the deity is Soma. In the Anukramaṇikā it is said एष कविर्नृमेधः (*eṣa kavirnṛmedhaḥ*). The use has been stated.
+
+Anuvāda: This sūkta एष कविः (*eṣa kaviḥ*) is the third sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is the one named Nṛmedha Āṅgirasa; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said एष कविर्नृमेधः (*eṣa kavirnṛmedhaḥ*). The use in ritual has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 27. Aṣṭaka 6; Adhyāya 8; Varga 17. Number of Ṛks in the sūkta: 6.
+
+Seer: Nṛmedhaḥ. **NOTE**
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+### Printed p. 782
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष क॒विर॒भिष्टु॑तः प॒वित्रे॒ अधि॑ तोशते ।  
+> पु॒ना॒नो घ्नन्नप॒ स्रिधः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । कविः । अभिऽस्तुतः । पवित्रे । अधि । तोशते ।  
+> पुनानः । घ्नन् । अप । स्रिधः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः कविः मेधावी अभिष्टुतः अभितः स्तुतः पवित्रे अधि दशापवित्रमतीत्य तोशते । यद्यपि तोशतिर्वधकर्मा तथापि हनने गतिसद्भावादत्र गतिमात्रे वर्तते । गच्छतीत्यर्थः । अथवा । पवित्रेऽधि कृष्णाजिने तोशते हन्यते । पीड्यत इत्यर्थः । किं कुर्वन् । पुनानः पूयमानः स्रिधः शत्रून् अप घ्नन् अपगमयन् ।
+
+##### Gist of the bhāṣya
+
+This Soma is कविः (*kaviḥ*), wise, and अभिष्टुतः (*abhiṣṭutaḥ*), praised on all sides. अधि (*adhi*) तोशते (*tośate*): having passed beyond the ten-stranded filter he goes. Although the root tośati has the sense of killing, since movement is present in killing, here it stands for movement only: it means he goes. Or else: पवित्रेऽधि कृष्णाजिने तोशते हन्यते (*pavitre 'dhi kṛṣṇājine tośate hanyate*), on the filter, that is, on the black-antelope skin, he is struck, that is, pressed. Doing what? पुनानः (*punānaḥ*), being purified, अप घ्नन् (*apa ghnan*), driving away स्रिधः (*sridhaḥ*), the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—the wise
+- अभिष्टुतः (*abhiṣṭutaḥ*)—praised by the people all around
+- एषः (*eṣaḥ*)—this god Soma
+- पुनानः (*punānaḥ*)—being purified
+- स्पृधः (*spṛdhaḥ*)—the enemies **NOTE**
+- अप घ्नन् (*apa ghnan*)—destroying
+- पवित्रे अधि (*pavitre adhi*)—upon the ten-stranded filter, in order to be purified
+- तोशते (*tośate*)—goes to it
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, wise and praised by the people all around, being purified and destroying the enemies, approaches the ten-stranded filter in order to be purified upon it.
+
+##### English translation
+This seer, the purifying (Soma), lauded by us, passes through the filtering cloth, driving away foes.
+
+##### विशेषविषयगळु (Special Topics)
+
+तोशते । यद्यपि तोशतिर्वधकर्मा तथापि हनने गतिसद्भावादत्र गतिमात्रे वर्तते । गच्छतीत्यर्थः । (*tośate | yadyapi tośatirvadhakarmā tathāpi hanane gatisadbhāvādatra gatimātre vartate | gacchatītyarthaḥ |*) Since the root tośati has the sense of killing, tośate here ought to mean "kills". But since one must go to the enemy in order to kill him, here the word is used in the sense of going. Therefore tośate means "goes" or "approaches", as the commentator explains the word
+
+### Printed p. 783
+
+and then says that it can also be explained in another way: अथवा पवित्रेऽधि कृष्णाजिने तोशते हन्यते । (*athavā pavitre 'dhi kṛṣṇājine tośate hanyate |*) Or else, when the juice is squeezed out, the plants are placed on the black-antelope skin and, when they are crushed there, the Soma is as it were slain; thus another kind of meaning is also possible, he explains.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष इंद्रा॑य वा॒यवे॑ स्व॒र्जित्परि॑ षिच्यते ।  
+> प॒वित्रे॑ दक्ष॒साध॑नः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । इंद्राय । वायवे । स्वःऽजित् । परि । सिच्यते ।  
+> पवित्रे । दक्षऽसाधनः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः स्वर्जित् स्वर्गस्य सर्वस्य वा जेता' इंद्राय वायवे च पवित्रे परि षिच्यते । कीदृश एषः । दक्षसाधनः बलकारी ॥
+
+##### Gist of the bhāṣya
+
+This Soma is स्वर्जित् (*svarjit*), the conqueror of heaven or of everything, and for Indra and for Vāyu he is poured over the filter, परि षिच्यते (*pari ṣicyate*). Of what kind is he? दक्षसाधनः (*dakṣasādhanaḥ*), giver of strength.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दक्षसाधनः (*dakṣasādhanaḥ*)—that which gives strength
+- स्वर्जित् (*svarjit*)—that which conquers heaven, or everything
+- एषः (*eṣaḥ*)—this Soma
+- इंद्राय (*iṃdrāya*)—for the drinking of Indra and
+- वायुवे (*vāyuve*)—of the god Vāyu
+- पवित्रे (*pavitre*)—on the ten-stranded filter
+- परि षिच्यते (*pari ṣicyate*)—is crushed, squeezed and poured
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma, which gives strength and conquers heaven or everything, is crushed and squeezed on the ten-stranded filter, or is purified, for the drinking of Indra and Vāyu.
+
+##### English translation
+This invigorating heaven-conquering Soma is poured upon the filter for Indra and Vayu.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष नृभि॒र्वि नी॑यते दि॒वो मू॒र्धा वृषा॑ सु॒तः ।  
+> सोमो॒ वने॑षु विश्व॒वित् ॥ ३ ॥
+
+### Printed p. 784
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । नृऽभिः । वि । नीयते । दिवः । मूर्धा । वृषा । सुतः ।  
+> सोमः । वनेषु । विश्वऽवित् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः नृभिः कर्मनेतृभिर्ऋत्विग्भिः वि नीयते विविधं नीयते । एष कीदृशः । दिवः द्युलोकस्य मूर्धा शिरोवत्प्रधानभूतः वृषा अभिमतवर्षकः सुतः अभिषुतः । कुत्र नीयते । वनेषु वननीयेषु वनसंभूतद्रुमविकारेषु वा पात्रेषु । विश्ववित् सर्वज्ञ एष इति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+This Soma is led variously, वि नीयते (*vi nīyate*), by the नृभिः (*nṛbhiḥ*), the leaders of the rite, that is, the priests. Of what kind is he? दिवः (*divaḥ*) मूर्धा (*mūrdhā*), the chief of the heavenly world as the head is of the body; वृषा (*vṛṣā*), the showerer of what is desired; सुतः (*sutaḥ*), pressed. Where is he led? वनेषु (*vaneṣu*), in the vessels that are to be desired, or those made of the wood of trees born in the forest. विश्ववित् (*viśvavit*), all-knowing: this is the construction, that this Soma is all-knowing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the heavenly world
+- मूर्धा (*mūrdhā*)—he who is chief, as the head is of the body
+- वृषा (*vṛṣā*)—the showerer of what is desired
+- सुतः (*sutaḥ*)—he who is crushed and squeezed out by the plants
+- विश्ववित् (*viśvavit*)—the all-knowing
+- एषः सोमः (*eṣaḥ somaḥ*)—this god Soma
+- नृभिः (*nṛbhiḥ*)—by the priests who are the leaders of the sacrificial rite
+- वि नीयते (*vi nīyate*)—is carried in many ways
+
+##### भावार्थ (Bhāvārtha)
+
+That god Soma, chief among the gods who dwell in the heavenly world, the showerer of desires, crushed and squeezed out by the plants, all-knowing, is carried in a special manner, that is, according to the rule, to the northern altar by the priests, the Adhvaryu and the others, who are the leaders of the sacrificial rite.
+
+##### English translation
+This Soma, the showerer ( of benefits), the summit of heaven, the all-knowing, being expressed is brought by the priests into the wooden vessels.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष ग॒व्युर॑चिक्रद॒त्पव॑मानो हिरण्य॒युः ।  
+> इंदुः॑ सत्रा॒जिदस्तृ॑तः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । गव्युः । अचिक्रदत् । पवमानः । हिरण्यऽयुः ।  
+> इंदुः । सत्राऽजित् । अस्तृतः ॥ ४ ॥
+
+### Printed p. 785
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः सोमः पवमानः पूयमानः अचिक्रदत् शब्दं करोति । कथंभूतः सन् । गव्युः अस्माकं गा इच्छन् 'हिरण्ययुः धनमिच्छन् इंदुः दीप्तः सन् सत्राजित् महतः शत्रोरसुरादेर्जेता अस्तृतः स्वयमन्यैरहिंस्यश्च सन् ॥
+
+##### Gist of the bhāṣya
+
+This Soma, पवमानः (*pavamānaḥ*), being purified, अचिक्रदत् (*acikradat*), makes a sound. In what state? गव्युः (*gavyuḥ*), desiring cattle for us; हिरण्ययुः (*hiraṇyayuḥ*), desiring wealth; इंदुः (*iṃduḥ*), shining; सत्राजित् (*satrājit*), the conqueror of great enemies such as the Asuras; अस्तृतः (*astṛtaḥ*), himself not to be injured by others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—the purifier
+- एषः (*eṣaḥ*)—this god Soma
+- गव्यः (*gavyaḥ*)—wishing to give us cattle
+- हिरण्ययुः (*hiraṇyayuḥ*)—and wishing to give wealth
+- इंदुः (*iṃduḥ*)—shining
+- सत्राजित् (*satrājit*)—and conquering the Asuras who are enemies
+- अस्मृतः (*asmṛtaḥ*)—(but) himself unharmed by others **NOTE**
+- अचिक्रदत् (*acikradat*)—makes a sound
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, the purifier, wishing to give us cattle and wealth, shining and glowing, conquering the Asuras who are enemies, but himself not coming to harm from others, makes a loud sound.
+
+##### English translation
+This Indu resounds as it drops, yearning to give us cattle and gold, the conqueror of foes, the irresistible.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष सूर्ये॑ण हासते॒ पव॑मानो॒ अधि॒ द्यवि॑ ।  
+> प॒वित्रे॑ मत्स॒रो मदः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । सूर्येण । हासते । पवमानः । अधि । द्यवि ।  
+> पवित्रे । मत्सरः । मदः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषः पवमानः पूयमानः सोमः सूर्येण देवेन अधि द्यवि द्युलोकेऽंतरिक्षे पवित्रे हासते परित्यज्यते । मत्सरः मदकरः मदः सोमः । यद्यप्यध्वर्युहस्तादृशापवित्रे परित्यज्यते सोमस्तथाप्यंतरिक्षे सूर्येण पवित्रे त्यज्यत इति भावना वीर्यवत्त्वाय । सत्स्वप्यन्यदेवेषु सोमस्रावणे सूर्यस्य कः प्रसंग इति न वाच्यं सूर्यरश्मिभिरेव सोमस्याप्यायनात् ॥
+> xxv 50
+
+##### Gist of the bhāṣya
+
+This Pavamāna Soma, being purified, is released, हासते (*hāsate*), that is, given up, on the filter by the god Sūrya in heaven, in the sky. मत्सरः (*matsaraḥ*) is intoxicating; मदः (*madaḥ*) is Soma. Although Soma is released on the ten-stranded filter from the Adhvaryu's hand, still the idea that he is released on the filter in the sky by Sūrya is for the sake of vigour. It must not be asked what part Sūrya has in the straining of Soma when there are other gods, since Soma is made to swell by the very rays of Sūrya.
+
 ---
 
-**Progress note:** Done through printed p. 779. Sūkta 25 Ṛk 5-6, Sūkta 26 Ṛk 1-4 (Ṛk 5 Saṃhitā)
+**Progress note:** Done through printed p. 785. Vol 25 pp. 780-785: end of Soma sukta 26 (Rk 5-6), Sukta 27 Rk 1-5
