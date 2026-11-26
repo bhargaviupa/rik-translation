@@ -26415,6 +26415,266 @@ O Indu, Soma, sending forth (इष्यन् (*iṣyan*)) speech, praise: as 
 
 O Soma-deva, as the Adhvaryu, who speaks the answering words to the words of the Hotṛ, spurs on the Hotṛ, so you, impelling our praise, you who have obtained purity, make manifest your helpful intellect. When Indra and you dwell in the house of the sacrifice, may we become worthy of welfare. May we become the lords of wealth accompanied by heroic sons.
 
+### Printed p. 701
+
+##### English translation
+Indu, being purified, stimulating the praise (of the worshippers) like the answerer of the Hotri set free the understanding ; when (you) and Indra are present together (at the sacrifice) may we be prosperous, may we become the possessors of excellent male progeny.
+
+The ninetieth sūkta. **NOTE**
+
+## Sūkta 96 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र सेनानीरिति चतुर्विंशत्यृचमेकादशं सूक्तं दिवोदासपुत्रस्य प्रतर्दनाख्यस्य राजर्षेरिदं त्रैष्टुभं पवमानसोमदेवताकं । तथा चानुक्रम्यते ।
+> प्र सेनानीश्च तुर्विंशतिर्दैवोदासिः प्रतर्दन इति ॥ गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The eleventh sūkta, of twenty-four Ṛks, beginning प्र सेनानीः (*pra senānīḥ*), is the ārṣa of the royal sage Pratardana, the son of Divodāsa. It is in the Triṣṭubh metre and has Pavamāna Soma as its deity. And so the Anukramaṇī says प्र सेनानीश्च तुर्विंशतिर्दैवोदासिः प्रतर्दन इति (*pra senānīśca turviṃśatirdaivodāsiḥ pratardana iti*). The viniyoga has been stated.
+
+##### Anuvāda
+
+Anuvāda— This sūkta, प्र सेनानीः (*pra senānīḥ*), is the eleventh sūkta in the fifth anuvāka. It has twenty-four Ṛks. The seer of this sūkta is Pratardana, the son of Divodāsa; the deity is Pavamāna Soma; the metre is Triṣṭup. In the Anukramaṇikā it is said प्र सेनानीश्चतुर्विशंतिर्द्वैवोदासिः प्रतर्दनः (*pra senānīścaturviśaṃtirdvaivodāsiḥ pratardanaḥ*). The viniyoga has been stated before.
+
+Sūkta 96. Maṇḍala 9, Anuvāka 5, Sūkta 96. Aṣṭaka 7, Adhyāya 4, Varga 6, 7, 8, 9, 10. Number of ṛks in the sūkta: 24. Seer: Pratardana, son of Divodāsa. Deity: Pavamāna Soma. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र से॑ना॒नीः शूरो॒ अग्रे॒ रथा॑नां ग॒व्यन्ने॑ति॒ हर्ष॑ते अस्य॒  ॑
+> सेना ।  
+> भ॒द्रान्कृ॒ण्वन्निं॑द्रह॒वान्स्खि॑भ्य॒ आ सोमो॒ वस्त्रा॑ रभ॒सानि॑ दत्ते॥
+
+### Printed p. 702
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सेनानीः । शूरः । अग्रे । रथानां । गव्यन् । एति । हर्षते । अस्य । सेना ।  
+> भद्रान् । कृण्वन् । इंद्रहवान् । सखिभ्यः । आ । सोमः । वस्त्रा । रभसानि । दत्ते ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सेनानीः सेनानामग्र उपनेता शूरः शत्रूणां बाधकः सोमो गव्यञ्छत्रूणां
+> गा इच्छन् । यद्वा । यजमानानां पश्वादिकमिच्छन् । रथानामग्रे रथानां पुरतः
+> प्रैति । प्रकर्षण संग्रामं गच्छति । अस्य सोमस्य सेना च हर्षते । हृष्यति ॥
+> वाक्यभेदादनिघातः ॥ किंच सखिभ्यः समानख्यानेभ्यो यजमानेभ्य इंद्रहवांस्तैः
+> कृतानींद्रस्याह्वानानि भद्रान्कल्याणानि यथार्थानि कृण्वन् कुर्वन् । आहूतो हींद्रः
+> सोमं पीत्वा कामान्प्रयच्छतीति रभसानींद्रस्य वेगेनागमने निमित्तानि वस्त्राण्याच्छादकानि पयःप्रभृतीन्याश्रयणान्या दत्ते । आगृह्णाति ॥
+
+##### Gist of the bhāṣya
+
+Soma is the leader of the host (सेनानीः (*senānīḥ*)), who goes at the head of armies, and a hero (शूरः (*śūraḥ*)), who obstructs enemies. He is desirous of cows (गव्यन् (*gavyan*)): he wishes for the cows of the enemies; or else he wishes for cattle and the like for the sacrificers. He goes forth (प्रैति (*praiti*)) in front of the chariots (रथानां (*rathānāṃ*)), that is, he goes to battle with force; and his army (सेना (*senā*)) rejoices (हर्षते (*harṣate*)). Further, for the friends (सखिभ्यः (*sakhibhyaḥ*)), the sacrificers of like fame, he makes (कृण्वन् (*kṛṇvan*)) the invocations of Indra (इंद्रहवान् (*iṃdrahavān*)) made by them auspicious (भद्रान् (*bhadrān*)), that is, effective as intended; for Indra, when invoked, drinks the Soma and grants wishes. The causes of Indra's coming with speed (रभसानि (*rabhasāni*)) are the coverings (वस्त्रा (*vastrā*)), the receptacles such as milk, and these Soma takes (आ दत्ते (*ā datte*)), that is, receives.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सेनानीः (*senānīḥ*)—the general of the army and
+- शूरः (*śūraḥ*)—the valiant
+- सोमः (*somaḥ*)—Soma-deva
+- गव्यन् (*gavyan*)—desiring the cows of the enemies
+- रथानां अग्रे (*rathānāṃ agre*)—at the front of the chariots
+- प्र एति (*pra eti*)—goes exceedingly
+- अस्य सेना (*asya senā*)—his army
+- हर्षते (*harṣate*)—becomes joyful with zeal
+- सखिभ्यः (*sakhibhyaḥ*)—to the sacrificers who are friends
+- इंद्रहवान् (*iṃdrahavān*)—the prayers and praises addressed to Indra
+- भध्रान् (*bhadhrān*)—as having auspicious fruit **NOTE**
+- कृण्वन् (*kṛṇvan*)—making
+- रभसानि (*rabhasāni*)—quickly made for Indra
+- वस्त्रा (*vastrā*)—the garments such as milk
+- आ दत्ते (*ā datte*)—accepts
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, the general of the army and the valiant, desiring the cows of the enemies, goes exceedingly at the front of the chariots. His army rejoices with zeal. Making the prayers and praises addressed to Indra by the sacrificers, who are friends, auspicious in fruit, he accepts the garments such as milk, quickly made for Indra. (He becomes mixed with milk and the like.)
+
+##### English translation
+The leader of the host, a hero, advances in front of the chariots intent on seizing the cattle (of the enemy) ; his army exults : making their oblations
+
+### Printed p. 703
+
+to Indra prosperous for the friendly (worshippers), Soma assumes the hastily made robes (of curds and milk).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सम॑स्य॒ हरिं॒ हर॑यो मृजंत्यश्वह॒य्यरनि॑तितं॒ नमो॑भिः ।  
+> आ ति॑ष्ठति॒ रथ॒मिंद्र॑स्य॒ सखा॑ वि॒द्वा ए॑ना सुम॒तिं या॒त्यच्छ॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सं । अस्य । हरिं । हरयः । मृजंति । अश्वहय्यैः । अनिशितं । नमःभिः ।  
+> आ । तिष्ठति रथं इंद्रस्य । सखा विद्वान् । एन । सुमतिं । याति । अच्छ ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरयः हरंत्यभिषुण्वंति सोममित्यृत्वजोऽंगुलयो वा हरिं हरितवर्णमस्य सोमस्य कारणमंशुं सं मृजंति । सम्यगभिषुण्वंति । ततः सोमो नमोभिर्नामयितृभिरश्वहय्वैव्याप्तैरप्यनिशितमसंस्कृतमयुक्तमननुगतं रथं रमणसाधॆनमात्मीयं दशापवित्रमा तिष्ठति । आसीदति । अनंतरमिंद्रस्य सखा सखिभूतो विद्वान्
+> प्राज्ञः सोम एनैतेन रथेन पवित्रेण सुमतिं शोभनस्तुतिकं स्तोतारमच्छ याति ।
+> अभिगच्छति । तस्मिन्काले तेन क्रियमाणां स्तुतिमभिगच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The हरयः (*harayaḥ*) are the priests, who carry off, that is, press, the Soma; or else the fingers. They rub together, that is, press thoroughly (सं मृजंति (*saṃ mṛjaṃti*)), the green-tinted (हरिं (*hariṃ*)) shoot, the source of this Soma. Then Soma, by the salutations (नमोभिः (*namobhiḥ*)), those that make one bow, and by the pervading horse-drivers (अश्वहय्यैः (*aśvahayyaiḥ*)) **NOTE**, mounts (आ तिष्ठति (*ā tiṣṭhati*)), that is, sits on, his own chariot (रथं (*rathaṃ*)), the means of delight, the ten-fold filter, which is unsharpened (अनिशितं (*aniśitaṃ*)), that is, unprepared, unyoked, not followed. Afterwards the friend of Indra, the wise Soma, goes (याति (*yāti*)) by this (एन (*ena*)) filter towards (अच्छ (*accha*)) the praiser (सुमतिं (*sumatiṃ*)) who offers good praise; that is, at that time he comes to the praise made by him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरयः (*harayaḥ*)—the priests
+- हरिं अस्य (*hariṃ asya*)—the green-hued Soma
+- सं मृजंति (*saṃ mṛjaṃti*)—squeeze (afterwards)
+- नमोभिः (*namobhiḥ*)—which are obedient and **NOTE**
+- अश्वहय्यैः (*aśvahayyaiḥ*)—pervading, from the horses
+- अनिशितं (*aniśitaṃ*)—though not yoked
+- रथं (*rathaṃ*)—in the daśāpavitra that brings delight
+- आ तिष्ठति (*ā tiṣṭhati*)—takes refuge
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- सखा (*sakhā*)—the friend and
+- विद्वान् (*vidvān*)—the wise
+- एना (*enā*)—by this daśāpavitra
+- सुमतिं अच्छ (*sumatiṃ accha*)—to the excellent praiser
+- याति (*yāti*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+The priests squeeze the green-hued Soma. Afterwards, though not yoked by obedient and pervading horses, he takes refuge in the daśāpavitra that brings delight. Soma, the friend of Indra and the wise, crossing this daśāpavitra, goes to the excellent praiser.
+
+### Printed p. 704
+
+##### English translation
+The priests express his green-tinted (juice); he mounts the chariot unyoked by the horse-driving salutions; the wise Soma the friend of Indra goes to meet the worshipper.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ देव दे॒वता॑ते पवस्व म॒हे सो॑म॒ प्सर॑स इंद्र॒पानः॑ ।  
+> कृ॒ण्वन्न॒पो व॒र्षय॒न्द्यामु॒तेमामु॒रोरा नो॑ वरिवस्या  ॒
+> पुनानः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । देव । देवताते । पवस्व । महे । सोम । प्सरसे । इंद्रपानः ।  
+> कृण्वन् । अपः । वर्षयन् । द्यां । उत । इमां । उरोः । आ । नः । वरिवस्य  
+> पुनानः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान हे सोम स तादृश इंद्रपान इंद्रेण पातव्यस्त्वं
+> नोऽस्माकं स्वभूते देवताते देवैस्तते वितते यज्ञे महे महते प्सरसे भक्षणायेंद्रस्य पानाय पवस्व । ग्रहादिषु क्षर । किंचाप उदकानि कृण्वन् कुर्वन् उतापि
+> च द्यामिमां द्यावापृथिव्यौ वर्षयन् । भूमिं पर्जन्यरूपेण तर्पयति द्युलोकमग्नि रूपेणेति । भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ॥ ऋ. १-१६४-५१ । इति
+> श्रवणात् । उरोर्विस्तीर्णादंतरिक्षादागच्छंस्त्वं पुनानः पूयमानः सन्नोऽस्मान्वरिवस्य । धनादिप्रदानेन परिचरेति ॥
+
+##### Gist of the bhāṣya
+
+O shining (देव (*deva*)) Soma, such as you are, the drink of Indra (इंद्रपानः (*iṃdrapānaḥ*)), to be drunk by Indra, flow (पवस्व (*pavasva*)), that is, run into the Graha cups and the rest, at our sacrifice (देवताते (*devatāte*)), which is spread out by the gods, for the great (महे (*mahe*)) food (प्सरसे (*psarase*)), that is, for Indra's drinking. Further, making waters (अपः (*apaḥ*)) and also causing rain to fall (वर्षयन् (*varṣayan*)) on this heaven and earth: he gratifies the earth in the form of Parjanya and the heavenly world in the form of Agni, for it is heard भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः (*bhūmiṃ parjanyā jinvaṃti divaṃ jinvaṃtyagnayaḥ*) (Ṛ. 1-164-51) **GLOSS**. Coming from the wide (उरोः (*uroḥ*)) firmament, and being purified (पुनानः (*punānaḥ*)), serve us (वरिवस्य (*varivasya*)) by giving wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—of divine nature
+- सोम (*soma*)—O Soma-deva
+- इंद्रपानः (*iṃdrapānaḥ*)—worthy of Indra's drinking
+- सः (*saḥ*)—you
+- नः (*naḥ*)—our
+- देवताते (*devatāte*)—in the sacrifice
+- महे (*mahe*)—great
+- प्सरसे (*psarase*)—for Indra's drinking
+- पवस्व (*pavasva*)—flow
+- अपः (*apaḥ*)—the waters
+- कृण्वन् (*kṛṇvan*)—creating
+- उत (*uta*)—and
+- द्यां (*dyāṃ*)—the heaven
+- इमां (*imāṃ*)—this world
+- वर्षयन् (*varṣayan*)—drenching with rain
+- उरोः (*uroḥ*)—from the wide firmament
+
+### Printed p. 705
+
+- आ (*ā*)—favour (us)
+- पुनानः (*punānaḥ*)—having obtained purity
+- नः (*naḥ*)—us
+- परिवस्य (*parivasya*)—serve with gifts of wealth and the like **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, of divine nature, worthy of Indra's drinking, flow at our sacrifice for the great drinking of Indra. Creating the waters and drenching heaven and this world with rain, favour us from the wide firmament. Here, having obtained purity, serve us with gifts of wealth and the like.
+
+##### English translation
+Divine Soma, who are the beverage of Indra, flow at our sacrifice for (his) abundant food ; sending water, causing rain to fall upon heaven and upon this earth, (come) from the wide (firmament, and) being purified bestow upon us wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अजी॑त॒येऽह॑तये पवस्व स्व॒स्तये॑ स॒र्वता॑तये बृह॒ते ।  
+> तदु॑शंति॒ विश्व॑ इ॒मे सखा॑य॒स्तद॒हं व॑श्मि पवमान सोम ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अजीतये । अहतये । पवस्व । स्वस्तये । सर्वसतातये । बृहते ।  
+> तत् । उशंति । विश्वे । इमे । सखायः । तत् । अहं । वश्मि । पवमान । सोम ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अजीतये यथा वयं शत्रुभिरजिता भवेम तथा तेषामजयाय
+> अहतये यथा तैरहताः स्याम तस्यॆ च अत एव स्वस्तयेऽविनाशाय किंच बृहते
+> सर्वतातये सर्वैरिंद्रादिभिर्देवैः स्तूयमानाय यज्ञाय एतदर्थं पवस्व ।
+> अस्मदभिमुखमागच्छ । पविर्गतिकर्मा । विश्वे सर्व इमे मदीयाः सखायः स्तोशारस्तत्त्वदीयं रक्षणमुशंति । कामयंते । हे पवमान सोम तद्रक्षणमहमसि वश्मि
+> कामये ॥
+> XXVI 45
+
+##### Gist of the bhāṣya
+
+O Soma, flow (पवस्व (*pavasva*)) for non-defeat (अजीतये (*ajītaye*)), so that we may not be conquered by enemies, that is, for victory over them; for non-slaughter (अहतये (*ahataye*)), so that we may not be slain by them; and hence for welfare (स्वस्तये (*svastaye*)), that is, for freedom from destruction. Further, flow for the great (बृहते (*bṛhate*)) sacrifice (सर्वतातये (*sarvatātaye*)), which is praised by all the gods, Indra and the others; for this purpose come towards us. The root पवि (*pavi*) has the sense of motion. All (विश्वे (*viśve*)) these friends of mine, the praisers, desire (उशंति (*uśaṃti*)) that protection of yours. O Pavamāna Soma, that protection I desire (वश्मि (*vaśmi*)).
+
+### Printed p. 706
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अजीतये (*ajītaye*)—(O Soma) so that enemies may not conquer us
+- आहतये (*āhataye*)—for being free from injury **NOTE**
+- स्वस्तये (*svastaye*)—for the attainment of welfare, and being accomplished
+- बृहते (*bṛhate*)—great
+- सर्वतातये (*sarvatātaye*)—for the sacrifice
+- पवस्व (*pavasva*)—flow
+- इमे विश्वे सखायः (*ime viśve sakhāyaḥ*)—all these my friends
+- तत् (*tat*)—protection from you
+- उशंति (*uśaṃti*)—desire
+- पवमान (*pavamāna*)—called Pavamāna
+- सोम (*soma*)—O Soma
+- तत् (*tat*)—that same protection
+- अहं (*ahaṃ*)—I too
+- वश्मि (*vaśmi*)—desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, flow for the great sacrifice, which is accomplished so that enemies may not conquer us, that we may escape injury, and for the attainment of our welfare. All these my friends desire protection from you; O Soma, called Pavamāna, I too desire that same protection.
+
+##### English translation
+Flow for our immunity from defeat and slaughter, flow for our welfare, for the great sacrifice for all the gods ; all these my friends desire this ; this I desire, O Soma Pavamana.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सोमः॑ पवते जनि॒ता म॑ती॒नां ज॑नि॒ता दि॒वो ज॑नि॒ता प॑थि॒व्याः ।  
+> ज॒नि॒ताग्नेर्ज॑ुनि॒ता सूर्य॑स्य जनि॒तेंद्र॑स्य जनि॒तोत विष्णोः॑ ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सोम । पवते । जनिता । मतीनां । जनिता । दिवः । जनिता । पृथिव्याः ।  
+> जनिता । अग्नेः । जनिता । सूर्यस्य । जनिता । इंद्रस्य । जनिता । उत । विष्णोः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमोऽभिषूयमाणः पवते । पात्रेषु क्षरति । कीदृशः । मतीनां बुद्धीनां
+> यद्वा मननीयानां स्तुतीनां जनिता जनयिता ॥ जनिता मंत्रे । सा. ६-४-५३ । इति
+> निपातनाण्णिलोपः ॥ किंच दिवो द्युलोकस्य जनिता प्रादुर्भावयिता तथा पृथिव्या
+
+##### Gist of the bhāṣya
+
+Soma, being pressed, flows (पवते (*pavate*)), that is, runs into the vessels. Of what kind is he? He is the begetter (जनिता (*janitā*)) of thoughts (मतीनां (*matīnāṃ*)), of intellects, or else of praises worthy of thought. Further, he is the begetter of heaven (दिवो (*divo*)), that is, its manifester; and likewise of the earth (पृथिव्या (*pṛthivyā*)).
+
 ---
 
-**Progress note:** Done through printed p. 700. Sūkta 95 Ṛk 1 (Pratipadārtha) to Ṛk 5
+**Progress note:** Done through printed p. 706. Sūkta 96 (Maṇḍala 9), Ṛks 1-4 and start of 5, pp. 701-706
