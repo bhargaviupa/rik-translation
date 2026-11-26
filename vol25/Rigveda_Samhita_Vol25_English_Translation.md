@@ -14596,6 +14596,239 @@ O priests and sacrificers, Indra is श्रुतम् (*śrutam*), renowned 
 
 O priests and sacrificers, I pray to and call Indra, renowned as mighty, the slayer of Vṛtra, extremely swift of going, in order to give you men abundant wealth.
 
+### Printed p. 374
+
+##### English translation
+(Priests), I bring to you men, for great wealth, that renowned and mighty one who utterly destroyed Vritra.
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒या धि॒या च॑ गव्य॒या पुरु॑णाम॒न्पुरु॑ष्टुत ।  
+> यत्सोमे॑सोम॒ आभ॑वः ॥ १७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अया । धिया । च । गव्यऽया । पुरुऽनामन् । पुरुऽस्तुत ।  
+> यत् । सोमेऽसोमे । आ । अभवः ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुनामन् बहुविधशक्रवृत्रहादिनामोपेत । यद्वा । बहुस्तुतिमन् । नामयंति स्तुत्यं देवं वशं नयंतीति नाम स्तोत्रम् । अत एव पुरुष्टुत बहुभिरभिष्टुतेंद्र सोमेसोमे अस्मदीयेषु सोमेषु त्वं यदा आभवः तेषां पानार्थं समंतादभवः तदा वयम् अया अनया । कीदृश्या । गव्यया गा आत्मन इच्छंत्या धिया अनया बुद्ध्या युक्ता भवेम । सोमं पीतवति त्वयि वयं गवादियुक्ता भवेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O पुरुनामन् (*purunāman*), you who have many names such as Śakra and Vṛtrahan; or else, O you of many praises (नाम (*nāma*) is praise, since they bend the praised god and bring him under their power). For that very reason you are पुरुष्टुत (*puruṣṭuta*), praised by many, Indra. When, at each of our Soma-libations, you come around, to drink them, then may we be endowed with this intelligence, which desires cows for itself. The meaning is: when you have drunk Soma, may we be endowed with cows and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुनामन् (*purunāman*)—you who have many names such as Śakra and Vṛtrahā, or who are praised with manifold praises
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, who are praised by many
+- सोमे सोमे (*some some*)—at every Soma-pressing that we perform
+- आ अभवः (*ā abhavaḥ*)—when you come for the drinking of Soma (we)
+- अया (*ayā*)—by this
+- गव्यया (*gavyayā*)—cows-desiring
+- धिया (*dhiyā*)—we shall be endowed with intelligence
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, famed by many names such as Śakra and Vṛtrahā and praised by many, at each Soma-sacrifice in which we press Soma, when you come to us for the drinking of Soma, we shall be possessed of the mind that we should obtain cows from you.
+
+### Printed p. 375
+
+##### English translation
+O you bearing many names and praised by many, when you are present at our various Soma-libations, may we be endowed with a cows-desiring mind.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बो॒धिन्म॑ना॒ इद॑स्तु नो वृत्र॒हा भूर्या॑सुतिः ।  
+> शृ॒णोतु॑ श॒क्र आ॒शिष॑म् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बोधित्ऽमनाः । इत् । अस्तु । नः । वृत्रऽहा । भूरिऽआसुतिः ।  
+> शृणोतु । शुक्रः । आऽशिषम् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं परोक्षकृतः । वृत्रहा वृत्रहंता भूर्यासुतिः । बहुषु देशेष्विंद्रार्थं सोम आसूयतेऽभिषूयत इति तादृशः । यद्वा । बहूनि सोमादिहवींषींद्रार्थमासूयंते हूयंत इति तादृशः । बोधिन्मनाः ।  ‘ बुध अवगमने' । औणादिक इतिप्रत्ययः । यस्य मनः स्तोतॄणामभिमतं बुध्यते जानातीति तथोक्तः । इत् अवधारणे। नः अस्माकं बोधिन्मना एव अस्तु । सर्वदास्मदभीप्सितानि जानात्वेवेत्यर्थः । यद्वा । एतादृश इंद्रो नोऽस्माकं यज्ञे भवत्विति । ततः शक्रः संग्रामे शत्रुहननसमर्थ इंद्रः आशिषम् अस्मदीयां स्तुतिमाशासनं वा शृणोतु ॥
+> ज्योतिष्टोमे चातुर्विंशिकेऽहनि माध्यंदिने मैत्रावरुणस्य ‘कया त्वं न ऊत्या' इति तृचोऽनुरूपः। सूत्रितं च -- होत्रकाणां कया नश्चित्र आ भुवत् कया त्वं न ऊत्या' (आश्व. श्रौ. ७. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+This verse is in the third person. Vṛtrahan is the slayer of Vṛtra; भूर्यासुतिः (*bhūryāsutiḥ*) is one for whom Soma is pressed in many places for Indra; or else one for whom many oblations such as Soma are offered for Indra. बोधिन्मनाः (*bodhinmanāḥ*) is one whose mind knows the wish of the praisers. Let him, for us, have just such a mind: let him always know what we desire; or else let such an Indra be at our sacrifice. Then may Śakra, Indra, who is able to slay enemies in battle, hear our आशिषम् (*āśiṣam*), our praise or our request. In the Jyotiṣṭoma, on the Cāturviṃśika day, at the midday pressing, the triplet beginning कया त्वं न ऊत्या (*kayā tvaṃ na ūtyā*) is the Anurūpa of the Maitrāvaruṇa priest. It is prescribed in the Sūtra concerning the Hotrakas: होत्रकाणां कया नश्चित्र आ भुवत् कया त्वं न ऊत्या (*hotrakāṇāṃ kayā naścitra ā bhuvat kayā tvaṃ na ūtyā*) (Āśva. Śrau. 7. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहा (*vṛtrahā*)—the slayer of the asura Vṛtra
+- भूर्यासुती (*bhūryāsutī*)—he for whom Soma is pressed by many or in many regions
+- बोधिन्मनः (*bodhinmanaḥ*)—Indra, who knows the mind and wish of the praisers
+- नः (*naḥ*)—at our sacrifice
+- अस्तु इत् (*astu it*)—may he be always
+- शक्रः (*śakraḥ*)—that all-capable Indra
+- आशिषं (*āśiṣaṃ*)—our prayer
+- शृणोतु (*śṛṇotu*)—let him hear
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, the slayer of the asura Vṛtra, he for whom Soma is pressed in many regions or by many, knowing the wish of us who are praising, come to our sacrifice. And
+
+### Printed p. 376
+
+that Indra, who is able to slay enemies in battle, listen with kindness to our prayer that makes known what we desire.
+
+##### English translation
+May the slayer of Vritra, to whom many libations are offered, know our desires,—may Sakra hear our praises.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कया॒ त्वं न॑ ऊ॒त्याभि प्र मं॑दसे वृषन् ।  
+> कया॑ स्तो॒तृभ्य॒ आ भ॑र ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कया । त्वम् । नः । ऊत्या । अभि । प्र । मंदसे । वृषन् ।  
+> कया । स्तोतृऽभ्यः । आ । भर ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् कामानां वर्षितरिंद्र कया केन ऊत्या । अव रक्षणादिषु गत्यर्थे । ऊतियूति' इत्यादिना निपातितः । केनाभिगमनेन नः अस्मान् अभि अभितः प्र मंदसे प्रकर्षेण मादयसि । अस्मदीयं यज्ञं प्रति सोमपानार्थमागमनेन वा त्वदीयस्तुतिश्रवणार्थमागमनेन वा कदास्मान् प्रमादयसीति । किंच कया केनाभिगमनेन स्तोतृभ्यः अस्मभ्यं धनम् आ भर आबिभर्षीतींद्रं स्तोता पृच्छति ॥
+
+##### Gist of the bhāṣya
+
+O showerer of desires, Indra, with what ऊत्या (*ūtyā*), what approach, do you gladden us greatly on every side? Is it by coming to our sacrifice to drink Soma, or by coming to hear your praise: when will you gladden us? And again, with what approach do you bring wealth to us, the praisers? In this way the praiser asks Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—O Indra, showerer of what is desired
+- त्वं (*tvaṃ*)—you
+- कया ऊत्या (*kayā ūtyā*)—by what kind of protection of yours
+- नः (*naḥ*)—us
+- अभि (*abhi*)—in every way
+- प्र मंदसे (*pra maṃdase*)—do you gladden?
+- कया (*kayā*)—by what coming of yours
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us who are praising
+- आ भर (*ā bhara*)—do you bring and supply wealth?
+
+### Printed p. 377
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, by what kind of protection or going of yours do you especially gladden us? By what coming of yours do you bring and supply wealth to us, who are praising?
+
+##### English translation
+Showerer, (of blessings), with what coming of yours do you gladden us, with what coming you bring (wealth) to your worshippers ?
+
+##### विशेषविषयगळु (Special Topics)
+
+It is explained by the Āśvalāyana Śrauta-sūtra, in the sūtra होत्रकाणां कया नश्चित्र आ भुवत् कया त्वं न ऊत्या (*hotrakāṇāṃ kayā naścitra ā bhuvat kayā tvaṃ na ūtyā*) (Ā. 7-4), that, among the Śastra mantras recited by the priest called Maitrāvaruṇa at the midday pressing on the day called Cāturviṃśika of the Jyotiṣṭoma sacrifice, the three Ṛks beginning कया त्वं न ऊत्या (*kayā tvaṃ na ūtyā*) are to be recited as the Anurūpa triplet.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कस्य॒ वृषा॑ सु॒ते सचा॑ नि॒युत्वा॑न्वृष॒भो र॑णत् ।  
+> वृ॒त्र॒हा सोम॑पीतये ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कस्य । वृषा । सुते । सचा । नियुत्वान् । वृषभः । रणत् ।  
+> वृत्रऽहा । सोमऽपीतये ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वृषा इंद्रः कस्य यजमानस्य सचा सुते ऋग्भिः सहाभिषुते सोमे । अनेन तद्वान् यज्ञो लक्ष्यते । कस्य यज्ञे सोमपीतये सोमपानाय तदर्थं रणत् रमते । कीदृशः । नियुत्वान् । नितरां युवंति मिश्रयंति स्वबलेन शत्रूनिति नियुतो मरुतः । तद्वान् । यद्वा । नियुत इति वायोर्वाहनाश्वाः । स वायुः कदाचित् संग्राम इंद्राय स्वाश्वानदात् । तद्वान् । वृषभः धनानामपां वा वर्षकः वृत्रहा वृत्रस्य हंतेंद्रः कस्य यज्ञे रमते । इदानीं नोऽस्मदीयं यागं प्रत्यागच्छतु । यद्वा । कस्याध्वरे रमते । न कुत्रापि । किंत्वस्मद्यज्ञ एव सोमपानार्थं संक्रीडते ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+The showerer Indra, in the sacrifice of which sacrificer, at the Soma pressed together with Ṛks (by this the sacrifice that has them is indicated), delights for the drinking of Soma? Of what kind is he? नियुत्वान् (*niyutvān*): नियुतो (*niyuto*) are the Maruts, who join (युवंति (*yuvaṃti*)) with enemies by their own strength; he is possessed of them. Or else नियुत (*niyuta*) are the horses that draw Vāyu; once, in a battle, that Vāyu gave his horses to Indra; he is possessed of them. He is the showerer, the pourer of wealth or of waters, the slayer of Vṛtra. In whose sacrifice does he delight? Let him now come to our sacrifice. Or else: in whose sacrifice does he delight? In none anywhere; he takes his pleasure only at our sacrifice, for the drinking of Soma.
+
+### Printed p. 378
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नियुत्वान् (*niyutvān*)—he who fights enemies in battle with his own strength, or who is accompanied by the horses of Vāyu called Niyut
+- वृषभः (*vṛṣabhaḥ*)—he who pours out wealth or waters
+- वृत्रहा (*vṛtrahā*)—the slayer of the asura Vṛtra
+- वृषा (*vṛṣā*)—the showerer of desires, Indra
+- कस्य (*kasya*)—of which sacrificer
+- सुते सचा (*sute sacā*)—at the Soma-pressing accompanied by the priests, that is, in the sacrifice of which sacrificer
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- रणत् (*raṇat*)—is he delighting?
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who fights enemies in battle, or who has the horses of the god Vāyu, who supplies wealth and the rest to the praising people, the slayer of the asura Vṛtra and the showerer of desires, in the sacrifice of which sacrificer, who performs the Soma-pressing rite together with the priests, is he delighting with the drinking of Soma?
+
+##### English translation
+At whose hymn-accompanied libations does the showerer, the lord of the Niyuts, the slayer of Vritra, rejoice to drink the Soma ?
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी षु ण॒स्त्वं र॒यिं मं॑दसा॒नः स॑ह॒स्रिण॑म् ।  
+> प्र॒यं॒ता बो॑धि दा॒शुषे॑ ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सु । नः । त्वम् । रयिम् । मंदसानः । सहस्रिणम् ।  
+> प्रऽयंता । बोधि । दाशुषे ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इन्र्ो त्वं मंदसानः अस्माभिर्दत्तेन सोमेन मोदमानः सन् सहस्रिणं सहस्रसंख्याकं धनं नः अस्मभ्यं सु सुष्ठु अभि आभर । तदेवाह । त्वं दाशुषे हविर्दत्तवते यजमानाय प्रयंता धनादेः प्रदाता कर्मणो नियंता वा भवानीति बोधि बुध्यस्व । ‘बुध अवगमने'। भौवादिकः । लोटि छांदसो विकरणस्य लुक् । हेर्धिः। धित्वे धकारलोपश्छांदसः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you who are rejoicing in the Soma given by us, bring well and on every side to us a thousandfold wealth, that is, wealth that is a thousand in number. He says this: know that to the sacrificer who has given the oblation you are the giver of wealth and the rest, or the controller of the rite.
+
+### Printed p. 379
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं (*tvaṃ*)—(O Indra) you
+- मंदसानः (*maṃdasānaḥ*)—delighted with the Soma-drinking offered by us
+- सहस्रिणं (*sahasriṇaṃ*)—a thousandfold, or immeasurable
+- रयिं (*rayiṃ*)—wealth
+- नः (*naḥ*)—to us
+- सु अभि (*su abhi*)—bring especially
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers the oblation
+- प्रयंता (*prayaṃtā*)—that you must give wealth and the rest
+- बोधि (*bodhi*)—know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, satisfied with the Soma-drinking offered by us, bring to us a thousandfold, that is, immeasurable wealth. Know that it is you yourself who give wealth and the rest to the sacrificer who offers the oblation.
+
+##### English translation
+Rejoicing (in our oblations), bring us wealth a thousandfold; remember that you are the giver of your votary.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पत्नी॑वंतः सु॒ता इ॒म उ॒शंतो॑ यंति वी॒तये॑ ।  
+> अ॒पां जग्मि॑र्निचुंपु॒णः ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पत्नीऽवंतः । सुताः । इमे । उशंतः । यंति । वीतये ।  
+> अपाम् । जग्मिः । निऽचुंपुणः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पत्नीवंतः । सोमसेकार्थे पत्न्यः पालयित्र्य आपो वसतीवर्य एकधनाश्च । तद्वंतः सुताः अस्माभिरभिषुताः इमे ग्रहस्थाश्चमसस्थाश्च सोमाः उशंतः आत्मनः पानं कामयमानाः संतः यंति इंद्रं गच्छंति । किमर्थम् । वीतये आत्मनः पानाय । किंच निचुंपुणः ।  ‘ निचांतपृणः । (निरु. ५. १७) इति यास्कः । ‘चमु अदने'। निचांतो भक्षितः पृणः प्रीणयिता । यद्वा ।  ‘ निचमनेन प्रीणाति' इति भक्षणेन तर्पयतीति निचुंपुणः । अभिषुतस्य सोमस्याप्सु प्रक्षेपासंभवात् सामर्थ्यादृजीषरूपः सोमो गृह्यते । तादृशः सोमः अपां जग्मिः । अपामिति 'न लोकाव्यय इति षष्ठीप्रतिषेधाभावश्छांदसः । अप इत्यर्थः । यद्वा । अपां मध्यं वापः प्रति वा जग्मिर्गमनशीलः साधुगंता वा । सोमश्चेंद्रं गच्छति । स ह्यवभृथकाल ऋजीषमप्सु प्रास्यंतीति वचनादप्स्वृजीषरूपः प्रक्षिप्यते । तदाह अपां जग्मिरिति ।
+
+##### Gist of the bhāṣya
+
+पत्नीवंतः (*patnīvaṃtaḥ*): for the sprinkling of Soma, the पत्न्यः (*patnyaḥ*) are the protecting waters, the dwelling waters वसतीवर्य (*vasatīvarya*) and the एकधना (*ekadhanā*) waters. These Soma-juices pressed by us, possessed of them, standing in the cups and in the ladles, desiring their own drinking, go to Indra; for what purpose: वीतये (*vītaye*), in order to be drunk. Moreover, निचुंपुणः (*nicuṃpuṇaḥ*): Yāska says निचांतपृणः (*nicāṃtapṛṇaḥ*) (Ni. 5. 17). The root चमु (*camu*) is in the sense of eating; निचांत (*nicāṃta*) is eaten, पृणः (*pṛṇaḥ*) is the one who satisfies; or else, निचमनेन प्रीणाति (*nicamanena prīṇāti*), that is, it satisfies by being eaten, hence निचुंपुणः (*nicuṃpuṇaḥ*). Since it is not possible to throw the pressed Soma into the waters, by implication the Soma in the form of the residue ऋजीष (*ṛjīṣa*) is meant. Such a Soma is अपां जग्मिः (*apāṃ jagmiḥ*), that is, it goes to the waters; or else it goes into the midst of the waters or towards the waters, going or well-going. And the Soma goes to Indra. At the time of the Avabhṛtha, they throw the residue into the waters, according to the text; therefore the Soma in the form of the residue is thrown into the waters. This is why he says अपां जग्मिः (*apāṃ jagmiḥ*).
+
 ---
 
-**Progress note:** Done through printed p. 373. Mandala 8 Sukta 93 Rks 10-16
+**Progress note:** Done through printed p. 379. Mandala 8 Sukta 93 Rks 16-22
