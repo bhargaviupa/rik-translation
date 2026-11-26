@@ -13685,6 +13685,265 @@ O Agni, divine in nature, impeller of all, purifier, purify us with your three k
 ##### English translation
 Purify us, shining Agni Pavamana, urger of all things, with your three most mighty powerful forms.
 
+### Printed p. 364
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒नंतु॒ मां दे॑वज॒नाः पु॒नंतु॒ वस॑वो धि॒या ।  
+> विश्वे॑ देवाः पुनी॒त मा॒ जात॑वेदः पुनी॒हि मा॑ ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनंतु । माम् । देवऽजनाः । पुनंतु । वसवः । धिया ।  
+> विश्वे । देवाः । पुनीत । मा । जातऽवेदः । पुनीहि । मा ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवजनाः । देवानां जनः प्रादुर्भावो येषां यज्ञेष्विति देवजना यजमानाः । यद्वा इंद्रादिदेवगणाः । मां पुनंतु परिपूतं कुर्वंतु । तथा वसवः वासका देवा: धिया आत्मीयेन कर्मणा माँ पुनंतु । अथ प्रत्यक्षः । हे विश्वे देवाः सर्वे देवाः मा मां पुनीत पूतं कुरुत । हे जातवेदः जातानि भूतजातानि वेत्तीति यद्वा जातप्रज्ञ हे अग्ने मा मां पुनीहि ॥
+
+##### Gist of the bhāṣya
+
+The devajanas are those among whom, in the sacrifices, there is the birth, that is, the manifestation, of the gods: the sacrificers. Or else: the hosts of the gods, Indra and the rest. May they purify me, make me wholly cleansed. Likewise the Vasus, the gods who give dwelling, with their dhī, that is, their own action, may purify me. Then, addressing directly: O all gods, purify me, make me cleansed. O Jātavedas, he who knows all born beings, or else one with innate wisdom: O Agni, purify me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवजनाः (*devajanāḥ*)—the sacrificers, worshippers of the gods
+- मां (*māṃ*)—me
+- पुनंतु (*punaṃtu*)—may they purify
+- वसवः (*vasavaḥ*)—the gods who give dwelling
+- धिया (*dhiyā*)—by their acts
+- पुनंतु (*punaṃtu*)—may they purify us
+- विश्वे देवाः (*viśve devāḥ*)—O all gods
+- मा (*mā*)—me
+- पुनीत (*punīta*)—purify
+- जातवेदः (*jātavedaḥ*)—O Agni, possessed of all intelligence
+- मा (*mā*)—me
+- पुनीहि (*punīhi*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+May the hosts of the gods, Indra and the rest, purify me. May the gods who give dwelling purify us by their acts. O all gods, purify me. O Agni, possessed of all intelligence, purify me.
+
+##### English translation
+May the worshippers purify me, may the Vasus purify (me) by their acts; purify me, all ye gods, (Agni) the intelligent purify me.
+
+### Printed p. 365
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र प्या॑यस्व॒ प्र स्यं॑दस्व॒ सोम॒ विश्वे॑भिरं॒शुभिः॑ ।  
+> दे॒वेभ्य॑ उत्त॒मं ह॒विः ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । प्यायस्व । प्र । स्यंदस्व । सोम । विश्वेभिः । अंशुऽभिः ।  
+> देवेभ्यः । उत्ऽतमम् । हविः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम प्र प्यायस्व अस्मान् प्रकर्षेण वर्धयः । यद्वा देवान् सोमेन वर्धय । किंच विश्वेभिरंशुभिः सर्वैस्त्वदीयैरंशुभिः देवेभ्यः देवार्थम् उत्तमं प्रशस्ततमं हविः सोमरूपं प्र स्यंदस्व कलशादीन् प्रति प्रस्रव । प्रयच्छेति यावत् ॥
+> अग्नीषोमप्रणयने ‘उप प्रियम्' इत्येषा । सूत्रितं च--- उप प्रियं पनिप्नतमित्यर्धर्च आरमेत् । (आश्व. श्रौ. ४. १०) इति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, swell greatly, increase us abundantly. Or else: increase the gods with Soma. Moreover, with all your filaments, for the gods, for the gods' sake, pour forth the best, most praised oblation, in the form of Soma, toward the vessels and the rest; that is, give it. Viniyoga: in the Agnīṣoma-praṇayana, the Ṛk beginning उप प्रियम् (*upa priyam*); and it is stated in the sūtra उप प्रियं पनिप्नतमित्यर्धर्च आरमेत् (*upa priyaṃ panipnatamityardharca āramet*) (Āśv. Śrau. 4. 10) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- प्र प्यायस्व (*pra pyāyasva*)—attain great growth
+- विश्वेभिः अंशुभिः (*viśvebhiḥ aṃśubhiḥ*)—with all your plant-juices
+- देवेभ्यः (*devebhyaḥ*)—to the gods
+- उत्तमं (*uttamaṃ*)—the best
+- हविः (*haviḥ*)—oblation
+- प्र स्यंदस्व (*pra syaṃdasva*)—pour forth and offer
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, attain great growth. With all your plant-juices pour forth and offer the best oblation to the gods.
+
+##### English translation
+Soma, nourish (us), pour forth for the gods with all your juices the most excellent oblation.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म् ।  
+> अग॑न्म॒ बिभ्र॑तो॒ नमः॑ ॥ २९ ॥
+
+### Printed p. 366
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । प्रियम् । पनिप्नतम् । युवानम् । आहुतिऽवृधम् ।  
+> अगन्म । बिभ्रतः । नमः ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रियं सर्वस्य प्रीणयितारं पनिप्नतम् अत्यंतं शब्दायमानं युवानं तरुणम् आहुतिवृधम् आहुतिभिर्वर्धनीयं पवमानं वयं नमः हविर्नमस्कारं वा बिभ्रतः धारयंतः संतः उप अगन्म उपगच्छेम । गमेर्लुङि ‘ मंत्रे घस' ' इति च्लेर्लुकि सति ‘म्वोश्च' इति नकारः। पनिप्नतम् । पनेः स्तुत्यर्थस्य यङ्लुकि रूपम्। दाधर्ति दर्धर्ति' इति सूत्रे इतिकरणस्य प्रदर्शनार्थत्वादत्राभ्यासस्य निगागम उपधालोपश्च निपात्यते ॥
+
+##### Gist of the bhāṣya
+
+The dear one, the delighter of all; panipnata: greatly sounding; the youthful, the young; the one to be increased by oblations: Pavamāna. We, bearing homage, that is, an oblation or a salutation, would approach him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियं (*priyaṃ*)—beneficent to all
+- पनिष्कृतं (*paniṣkṛtaṃ*)—who sounds greatly **NOTE**
+- युवानं (*yuvānaṃ*)—young **NOTE**
+- आहुतिवृधं (*āhutivṛdhaṃ*)—who is nourished by oblations
+- वयं (*vayaṃ*)—(we)
+- नमः (*namaḥ*)—salutation
+- बिभ्रतः (*bibhrataḥ*)—offering
+- उप अगस्म (*upa agasma*)—we shall approach **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+We approach Soma-deva, who is beneficent to all, who sounds greatly, who is young, and who is nourished by oblations, with salutation.
+
+##### English translation
+Let us approach bearing the beloved loud-sounding youthful oblation fostered by our offerings.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrificial act called Agnīṣoma-praṇayana, this Ṛk beginning उप प्रियं (*upa priyaṃ*) is to be recited; this is explained in the Āśvalāyana-śrauta-sūtra by the sūtra उप प्रियं पनिप्नतमित्यर्धर्च आरमेत् (*upa priyaṃ panipnatamityardharca āramet*) (Ā. Sū. 4-10).
+
+### Printed p. 367
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒लाय्य॑स्य पर॒शुर्न॑नाश॒ तमा प॑वस्व देव सोम ।  
+> आ॒खुं चि॑दे॒व दे॑व सोम ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अलाय्यस्य । परशुः । ननाश । तम् । आ । पवस्व । देव । सोम ।  
+> आखुम् । चित् । एव । देव । सोम ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अलाय्यस्य । अर्तेरौणादिक आय्यप्रत्ययः । कपिलकादित्वाल्लत्वम्। अभिगमनशीलस्य शत्रोः परशुः छेदकः पवमानः तम् एव शत्रुं ननाश नाशयतु नास्मानपापान् । ततो हे देव दीप्यमान सोम आ पवस्व अस्मदाभिमुख्येन गच्छ। किंच हे देव द्योतमान स्तुत्य वा हे सोम आखुं चित् ।' खनु अवदारणे' । सर्वस्याहंतारमपि तं शत्रुम् एव बाधस्व नास्मानपापानिति ॥
+
+##### Gist of the bhāṣya
+
+The battle-axe, the cutter, of the enemy of approaching nature, Pavamāna, may destroy that very enemy, and not us, the sinless. Therefore, O shining Soma, flow toward us, come to face us. Moreover, O Deva, shining or praiseworthy, O Soma: crush that enemy, killer of all, him alone, and not us, the sinless.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आलाय्यस्य (*ālāyyasya*)—of the enemy who is rushing forward **NOTE**
+- परशुः (*paraśuḥ*)—Soma, the cutter
+- तं (*taṃ*)—that enemy
+- ननाश (*nanāśa*)—may he destroy
+- देव (*deva*)—O radiant one
+- सोम (*soma*)—O Soma
+- आ पवस्व (*ā pavasva*)—flow toward us
+- देव (*deva*)—O divine-natured one
+- सोम (*soma*)—O Soma
+- आखिं चित् एव (*ākhiṃ cit eva*)—kill even the enemy who rushes to kill us **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma, the cutter of enemies, destroy the enemy who rushes upon us. O radiant Soma, flow toward us. O divine-natured Soma, kill even the enemy who rushes to kill us.
+
+##### English translation
+May the battle-axe of the foe destroy the foe alone; flow to us, bright Soma : (slay) the villian only bright Soma.
+
+### Printed p. 368
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यः पा॑वमा॒नीर॒ध्येत्यृषि॑भिः॒ संभृ॑तं॒ रस॑म् ।  
+> सर्वं॒ स पू॒तम॑श्नाति स्वदि॒तं मा॑त॒रिश्व॑ना ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । पावमानीः । अधिऽएति । ऋषिऽभिः । सम्ऽभृतम् । रसम् ।  
+> सर्वम् । सः । पूतम् । अश्नाति । स्वदितम् । मातरिश्वना ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः जनः पावमानीः पवमानदेवताकाः सर्वा ऋचः तद्रूपम् ऋषिभिः सूक्तद्रष्टृभिर्मधुच्छंदःप्रभृतिभिः संभृतं संपादितं रसं वेदरसभूतं सारं सूक्तसंघम् अध्येति अधीते सः जनः सर्वं भोज्यजातं पूतं परिशुद्धमेव अश्नाति । परिपूतं पापरहितमन्नं भक्षयति । कथमस्य पूतत्वं तत्राह । स्वस्याशनात्प्रागेव मातरिश्वना । मातर्यंतरिक्षे श्वसितीति मातरिश्वा वायुः । स च वायुः पवित्रमेव । पवित्रेण वायुना स्वदितं स्वादूकृतं परिपूतमेवान्नं पश्चात् स नरोऽश्नाति ॥
+
+##### Gist of the bhāṣya
+
+The man who studies all the Ṛks addressed to Pavamāna, which are of that nature, the essence of the Veda, the collection of sūktas brought together, that is, assembled, by the seers of the sūktas, Madhucchandas and the rest, eats all his food purified, wholly cleansed: he eats food freed from sin. How is it purified? Even before his own eating, by Mātariśvan, the one who breathes in the atmosphere, the wind. And that wind is itself pure; food sweetened by the pure wind, wholly purified, that man eats afterwards.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- पावमानीः (*pāvamānīḥ*)—addressed to the deity Pavamāna
+- ऋषिभिः (*ṛṣibhiḥ*)—by the seers of the sūktas
+- संभृतं (*saṃbhṛtaṃ*)—collected
+- रसं (*rasaṃ*)—the sūktas, which are the essence of the Veda
+- अध्येति (*adhyeti*)—recites
+- सः (*saḥ*)—he
+- पूतं (*pūtaṃ*)—purified
+- मातरिश्वना (*mātariśvanā*)—by the wind
+- स्वदितं (*svaditaṃ*)—made tasty
+- सर्वं (*sarvaṃ*)—all objects of enjoyment
+- अश्नाति (*aśnāti*)—enjoys
+
+##### भावार्थ (Bhāvārtha)
+
+The man who recites these sūktas, which are addressed to the deity Pavamāna, collected by the seers of the sūktas, the essence of the Veda, enjoys all objects of enjoyment, purified and made tasty by the wind.
+
+##### English translation
+He who reads thc hymns to Pavamana, the essence (of the Veda) collected by the Rishis, enjoys all (his food) purified, sweetened by Matarishwan.
+
+### Printed p. 369
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पा॒व॒मा॒नीर्यो अ॒ध्येत्यृषि॑भिः॒ संभृ॑तं॒ रस॑म् ।  
+> तस्मै॒ सर॑स्वती दुहे क्षी॒रं स॒र्पिर्मधू॑द॒कम् ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पावमानीः । यः । अधिऽएति । ऋषिऽभिः । सम्ऽभृतम् । रसम् ।  
+> तस्मै । सरस्वती । दुहे । क्षीरम् । सर्पिः । मधु । उदकम् ॥ ३२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः ब्राह्मणः पावमानीः पवमानदेवताका ऋचः तदात्मकम् ऋषिभिः मधुच्छंदआदिभिः । संभृतं रसं वेदसारं सूक्तसंघम् अध्येति अधीते तस्मै पवमानाध्ययनं कुर्वते जनाय सरस्वती सर्वत्र सरणवती वाग्देवता क्षीरं यज्ञसाधनभूतं पयः सर्पिः तादृशं घृतं मधु मदकरम् उदकं सोमं दुहे स्वयमेव दोग्धि। एनं नरं यागादिपरं वेदशास्त्रविदं करोतीत्यर्थः । दुह प्रपूरणे । कर्मकर्तरि ‘न दुहस्नुनमां यक्चिणौ ' इति यकः प्रतिषेधः । ‘लोपस्त आत्मनेपदेषु' इति तलोपः॥ ॥१८॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+The brāhmaṇa who studies the Ṛks addressed to Pavamāna, which are of that nature, the essence of the Veda, the collection of sūktas brought together by the seers, Madhucchandas and the rest: for him, the man who makes the study of Pavamāna, Sarasvatī, the goddess of speech, who goes everywhere, herself milks milk, the means of the sacrifice, ghee of that kind, honey, the exhilarating water, Soma. The meaning is that she makes this man devoted to sacrifice and the like, a knower of the Veda and the śāstra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the man who
+- पावमानीः (*pāvamānīḥ*)—addressed to the deity Pavamāna
+- ऋषिभिः (*ṛṣibhiḥ*)—by the seers
+- संस्कृतं (*saṃskṛtaṃ*)—collected **NOTE**
+- रसं (*rasaṃ*)—the sūkta, which is the essence of the Vedas
+- अध्येति (*adhyeti*)—recites
+- तस्मै (*tasmai*)—for him
+- सरस्वती (*sarasvatī*)—the goddess Sarasvatī
+- क्षीरं (*kṣīraṃ*)—milk
+- सर्पिः (*sarpiḥ*)—ghee
+- मधु (*madhu*)—honey
+- उदकं (*udakaṃ*)—Soma
+- दुहे (*duhe*)—milks
+
+##### भावार्थ (Bhāvārtha)
+
+For the man who recites these sūktas, which are addressed to the deity Pavamāna, collected by the seers, the essence of the Vedas, the goddess Sarasvatī milks milk, ghee, honey and Soma.
+
+##### English translation
+For him who reads the hymns to Pavamana, the essence (of the Veda) collected by the Rishis, Saraswati milks milk, ghee, and exilarating Soma.
+
 ---
 
-**Progress note:** Done through printed p. 363. Sūkta 67 Ṛk 20 to 26 (pp. 358-363)
+**Progress note:** Done through printed p. 369. Sūkta 67 Ṛk 27 to 32 (pp. 364-369)
