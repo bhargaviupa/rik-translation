@@ -28663,6 +28663,264 @@ Sāyaṇa says: As water, raised up from the heaven, from the firmament, falls d
 - पवित्रे (*pavitre*)—in the ten-thread filter
 - अर्षति (*arṣati*)—comes and falls
 
+### Printed p. 714
+
+##### भावार्थ (Bhāvārtha)
+
+As the water of rain falls easily from the lofty region of the firmament upon the earth that lies lower, so the stream of the Soma juice that is pressed by the application of strength comes flowing without effort and falls into the ten-thread filter that is set for purifying.
+
+##### English translation
+As the lofty rain from heaven, the nutritious stream of the invigorat-ing Soma falls easily upon the straining cloth.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म विप॒श्चितं॒ तना॑ पुना॒न आ॒युषु॑ ।  
+> अव्यो॒ वारं॒ वि धा॑वसि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । विपःऽचितम् । तना । पुनानः । आयुषु ।  
+> अव्यः । वारम् । वि । धावसि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं विपश्चितं स्तोतारम् आयुषु मनुष्येषु' मध्ये रक्षसि । अथवा। तृतीयार्थे द्वितीया । विपश्चिताध्वर्युणा । तना वस्त्रेण पुनानः पूयमानः। अथवा। विपश्चितमिंद्रं प्रीणयितुं तना पुनानः सन् । अव्यो वारम् अवेर्वालं वि धावसि विविधं गच्छसि ॥ ॥ ६ ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, you protect the wise one, the praiser, in the midst of men **NOTE**. Or else, the accusative is in the sense of the instrumental: purified by the wise Adhvaryu. You are purified by the cloth. Or else: in order to please the wise Indra, being purified by the cloth, you go in various ways to the hair of the sheep, that is, to the woollen filter **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma
+- त्वं (*tvaṃ*)—you
+- आयुषु (*āyuṣu*)—in the midst of men
+- विपश्चितं (*vipaścitaṃ*)—you protect the one who praises you
+- विपश्चितं (*vipaścitaṃ*)—in order to please the wise Indra, by the Adhvaryu
+- तना (*tanā*)—by the cloth
+- पुनानः (*punānaḥ*)—being purified
+- अव्यः वारं (*avyaḥ vāraṃ*)—towards the cloth made of the wool of a sheep (to be purified) **NOTE**
+- विधावति (*vidhāvati*)—you go with swift motion **NOTE**
+
+### Printed p. 715
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, in the midst of men you protect the man who praises you. Purified by the Adhvaryu with the cloth, for the pleasure of Indra, you run for purifying towards the cloth made of the wool of a sheep.
+
+##### English translation
+You, Soma, ( protect ) the worshipper amongst men, and purified by the cloth you wander through the woollen filter.
+
+**The seventeenth sūkta.**
+
+## Sūkta 17 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र निम्नेनेव' इत्यष्टर्चं सप्तदशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘प्र निम्नेनेव' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र निम्नेनेव (*pra nimneneva*) has eight Ṛks and is the seventeenth sūkta. The seer and the rest are as before. In the Anukramaṇikā it is recorded as प्र निम्नेनेव (*pra nimneneva*). The use has been stated.
+
+This sūkta beginning प्र निम्नेनेव (*pra nimneneva*) is the seventeenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र निम्नेनेव (*pra nimneneva*). The use has been stated before.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र नि॒म्नेने॑व॒ सिंध॑वो॒ घ्नंतो॑ वृ॒त्राणि॒ भूर्ण॑यः ।  
+> सोमा॑ असृग्रमा॒शवः॑ ॥ १ ॥
+
+### Printed p. 716
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । निम्नेेनऽइव । सिंधवः । घ्नंतः । वृत्राणि । भूर्णयः ।  
+> सोमाः । असृग्रम् । आशवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निम्नेन प्रवणेन देशेन सिंधवः नद्यः इव तथा वृत्राणि शत्रून् घ्नंतः भूर्णयः क्षिप्रगमनाः आशवः व्याप्ताः सोमाः प्र असृग्रं प्रगच्छंति द्रोणकलशं प्रति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: As rivers flow over a low, sloping region, so the Soma juices, destroying their foes, swift in motion, quick and pervading, go forth to the Droṇa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—rivers
+- निम्नेनेव (*nimneneva*)—as they flow swiftly over low-lying regions
+- वृत्राणि (*vṛtrāṇi*)—foes
+- घ्नंतः (*ghnaṃtaḥ*)—which destroy
+- भूर्णयः (*bhūrṇayaḥ*)—which are swift in motion
+- आशवः (*āśavaḥ*)—which pervade everywhere
+- सोमाः (*somāḥ*)—these Soma juices
+- प्र असृग्रं (*pra asṛgraṃ*)—flow quickly towards the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+As rivers flow swiftly over low-lying regions, these Soma juices, which destroy foes, flow quickly and pervade everywhere, hasten and fall into the vessel called the Droṇa vessel, which is set to hold the Soma.
+
+##### English translation
+Like rivers falling down a steep place, so the rapid foe-destroying pervading Soma-streams hurry (to the pitcher).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि सु॑वा॒नास॒ इंद॑वो वृ॒ष्टयः॑ पृथि॒वीमि॑व ।  
+> इंद्रं॒ सोमा॑सो अक्षरन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । सुवानासः । इंदवः । वृष्टयः । पृथिवीम्ऽइव ।  
+> इंद्रम् । सोमासः । अक्षरन् ॥ २ ॥
+
+### Printed p. 717
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुवानासः सूयमानाः इंदवः द्रवरूपाः सोमासः सोमाः इंद्रं प्रीणयितुम् अभि अक्षरन् । किमिव । वृष्टयः पृथिवीमिव ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The Soma juices, being pressed, in liquid form, flow to please Indra. Like what? Like rains upon the earth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृष्टयः (*vṛṣṭayaḥ*)—rain-waters
+- पृथिवीमिव (*pṛthivīmiva*)—as they fall upon the earth
+- सुवानासः (*suvānāsaḥ*)—which have been pressed
+- इंदवः (*iṃdavaḥ*)—which trickle in liquid form
+- सोमासः (*somāsaḥ*)—these Soma juices
+- इंद्रं (*iṃdraṃ*)—in order to please Indra
+- अभि अक्षरन् (*abhi akṣaran*)—drip (from the creepers)
+
+##### भावार्थ (Bhāvārtha)
+
+As drops of rain fall upon the earth, these liquid Soma juices, crushed and pressed out from the creepers, drip (from the crushed creepers) for the pleasure of Indra.
+
+##### English translation
+The Soma-drops, as they are expressed, flow to Indra like the rains falling upon the earth.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत्यू॑र्मिर्मत्स॒रो मदः॒ सोमः॑ प॒वित्रे॑ अर्षति ।  
+> वि॒घ्नन्रक्षां॑सि देव॒युः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतिऽऊर्मिः । मत्सरः । मदः । सोमः । पवित्रे । अर्षति ।  
+> विऽघ्नन् । रक्षांसि । देवऽयुः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्यूर्मिः । अतिक्रांता ऊर्मयो यस्मात् सोऽत्यूर्मिः । अतिप्रवृद्ध इत्यर्थः। मत्सरः मादनशील: मदः मदात्मकः सोमः पवित्रे अर्षति गच्छति । किं कुर्वन् । रक्षांसि विघ्नन् घातयन् देवयुः देवान् कामयमानोऽर्षतीति संबंधः ॥
+> पवित्रेष्ट्यां द्वितीयाज्यभागस्य ‘आ कलशेषु' इति याज्या। सूत्रितं च- आ कलशेषु धावति पवित्रे परिषिच्यत इत्येका' (आश्व. श्रौ. ५. १२) इति ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: अत्यूर्मिः (*atyūrmiḥ*) means one from whom the waves have passed beyond, that is, one who is greatly swollen. Soma, who is intoxicating by nature, whose essence is exhilaration, goes to the filter. Doing what? Destroying the Rākṣasas, he goes desiring the gods; this is the connection. In the Pavitreṣṭi, for the second Ājyabhāga the yājyā is the Ṛk beginning आ कलशेषु (*ā kalaśeṣu*); and it is laid down in the sūtra: आ कलशेषु धावति पवित्रे परि षिच्यत इत्येका (*ā kalaśeṣu dhāvati pavitre pari ṣicyata ityekā*) (Āśv. Śrau. 5. 12) **NOTE**.
+
+### Printed p. 718
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अत्यूर्मिः (*atyūrmiḥ*)—the one who is greatly swollen (ancient)
+- मत्सरः (*matsaraḥ*)—the one who gives delight
+- मदः सोमः (*madaḥ somaḥ*)—this Soma who gives exhilaration
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- विघ्नन् (*vighnan*)—destroying **NOTE**
+- देवयुः (*devayuḥ*)—desiring the gods **NOTE**
+- पवित्रे (*pavitre*)—towards the ten-thread filter
+- अर्षति (*arṣati*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the ancient one, the giver of delight, the giver of strength, destroying the Rākṣasas, desiring to go to the gods, goes towards the ten-thread filter for purifying.
+
+##### English translation
+Soma, with swelling waves, exhilarating, inebriating, flows to the straining-cloth, destroying the Rakshasas, and devoted to the gods.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ क॒लशे॑षु धावति प॒वित्रे॒ परि॑ षिच्यते ।  
+> उ॒क्थैर्य॒ज्ञेषु॑ वर्धते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । कलशेषु । धावति । पवित्रे । परि । सिच्यते ।  
+> उक्थैः । यज्ञेषु । वर्धते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः कलशेषु आ धावति । तदर्थं पवित्रे परि षिच्यते अध्वर्युभिः । उक्थैः  स्तोत्रैः यज्ञेषु निमित्तेषु वर्धते प्रवृद्धो भवति ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This Soma runs into the vessels. For that purpose it is poured on the filter by the Adhvaryus. It is magnified, that is, grown great, by praises, at the sacrifices, which are the occasions.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं सोमः (*ayaṃ somaḥ*)—(this Soma)
+- कलशेषु (*kalaśeṣu*)—to stand in the Droṇa vessels
+- आ धावति (*ā dhāvati*)—runs quickly
+- पवित्रे (*pavitre*)—in the ten-thread filter, for purifying
+
+### Printed p. 719
+
+- परि षिच्यते (*pari ṣicyate*)—is purified by the priests, the Adhvaryu and others
+- यज्ञेषु (*yajñeṣu*)—for the sacrifices
+- उक्थैः (*ukthaiḥ*)—by praises
+- वर्धते (*vardhate*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma runs quickly towards the Droṇa vessels, is purified by the priests, the Adhvaryu and others, is praised by hymns for the sacrifice, and grows great.
+
+##### English translation
+It flows to the pitchers, it is poured out upon the straining-cloth, it is magnified at sacrifices by praises.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Pavitreṣṭi, when the second Ājyabhāga is offered, this Ṛk beginning आ कलशेषु (*ā kalaśeṣu*) is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, आ कलशेषु धावति पवित्रे परि षिच्यत इत्येका (*ā kalaśeṣu dhāvati pavitre pari ṣicyata ityekā*) (Ā. 5 12).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अति॒ त्री सो॑म रोच॒ना रोह॒न्न भ्रा॑जसे॒ दिव॑म् ।  
+> इ॒ष्णन्सूर्यं॒ न चो॑दयः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अति । त्री । सोम । रोचना । रोहन् । न । भ्राजसे । दिवम् ।  
+> इष्णन् । सूर्यम् । न । चोदयः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं त्री रोचना त्रीणि रोचनानि त्रीँल्लोकान् अति अतिक्रम्य रोहन उपरिस्थं दिवं द्युलोकं भ्राजसे प्रकाशयसि । तथा इष्णन् गच्छन् सूर्यं न सूर्यं च चोदयः चोदयसि प्रेरयसि । नशब्दश्चार्थे ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, surpassing the three luminous regions, the three worlds, you shine upon the heaven above, the world of heaven, ascending it. And going, you also urge on the sun. The word न (*na*) is in the sense of "and".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma, you
+- त्री रोचना (*trī rocanā*)—the three worlds
+- अति (*ati*)—surpassing
+- रोहन् (*rohan*)—that lie above them
+- दिवं (*divaṃ*)—the world of heaven
+- भ्राजसे (*bhrājase*)—brilliance
+
 ---
 
-**Progress note:** Done through printed p. 713. Sūkta 16 Ṛks 1-7 (pp. 708-713)
+**Progress note:** Done through printed p. 719. Sūkta 16 Ṛk 7-8, Sūkta 17 Ṛks 1-5 (pp. 714-719)
