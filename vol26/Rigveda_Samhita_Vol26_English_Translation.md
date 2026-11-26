@@ -16892,6 +16892,225 @@ The intelligent sages extol the voice (of the firmament) in the purifying extend
 
 Soma, the guardian (गोपाः (*gopāḥ*)) of the true sacrifice, and therefore of fair works (सुक्रतुः (*sukratuḥ*)), is not for deceit, for harm or for stopping (न दभाय (*na dabhāya*)); the sense is that he cannot be harmed by others. Further, that Soma places within the heart the three purifiers (पवित्रा (*pavitrā*)), which are of the nature of Agni, Vāyu and Sūrya; that is, he brings them together in himself. Moreover, knowing all, he looks upon all the worlds. Then he strikes (अव विध्यति (*ava vidhyati*)) those who in the rite are disagreeable (अजुष्टान् (*ajuṣṭān*)) and therefore without rites (अव्रतान् (*avratān*)), the non-sacrificers, having made them face downward; that is, he harms them.
 
+### Printed p. 454
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—for the sacrifice, which is of the nature of truth
+- गोपाः (*gopāḥ*)—the protector
+- सुक्रतुः (*sukratuḥ*)—the one who has excellent rites
+- सः (*saḥ*)—Soma
+- न दभाय (*na dabhāya*)—is not resisted by anyone
+- पवित्रा (*pavitrā*)—the purifiers
+- त्रि (*tri*)—Agni, Vāyu and Āditya **NOTE**
+- हृदि अंतः (*hṛdi aṃtaḥ*)—in the middle of his heart
+- आ दधे (*ā dadhe*)—has placed
+- विद्वान् (*vidvān*)—knowing everything
+- सः (*saḥ*)—the same Soma
+- विश्वा (*viśvā*)—all
+- भुवना (*bhuvanā*)—the worlds
+- अभि पश्यति (*abhi paśyati*)—looks upon
+- कर्तॆ (*kartè*)—in the rite **NOTE**
+- अजुष्टान् (*ajuṣṭān*)—those without love
+- अव्रतान् (*avratān*)—the one without rites
+- अव विद्यति (*ava vidyati*)—destroys **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the protector of the sacrifice, which is of the nature of truth, and the one who has excellent rites, is not resisted by anyone. He has placed in the middle of his heart the purifiers, Agni, Vāyu and Āditya. The same Soma, knowing everything, looks upon all the worlds. He destroys those who have no love for the rite and those who are without rites.
+
+##### English translation
+(Soma) the protector of the sacrifice, the doer of good deeds cannot be resisted ; he places in his heart the three purifiers : he the all-wise looks over all worlds : he censures those who are hostile in action, who sacrifice not.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॒ तंतु॒र्वित॑तः प॒वित्र॒ आ जि॒ह्वाया॒ अग्रे॒ वरु॑णस्य मा॒यया॑ ।  
+> धीरा॑श्चि॒त्तत्स॒मिन॑क्षंत आश॒तात्रा॑ क॒र्तमव॑ पदा॒त्यप्र॑भुः ॥ ९ ॥
+
+### Printed p. 455
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । तंतुः । विऽततः । पवित्रे । आ । जिह्वायाः । अग्रे । वरुणस्य । मायया ।  
+> धीराः । चित् । तत् । सम्ऽइनक्षंतः । आशत । अत्र । कर्तम् । अव । पदाति । अप्रऽभुः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य सत्यभूतस्य यज्ञस्य तंतुः तनिता पवित्रे अविवालमये दशापवित्रे विततः विस्तृतः । यद्वा । पवित्रेऽंतरिक्षे विस्तृतः सोमः वरुणस्य जिह्वाया अग्रे मायया कर्मणा आ आस्थितः। वरुणजिह्वाग्र आपस्तिष्ठंति । तासु सोमो वसतीति वसतीवर्याद्युदकेषु स्थित इत्यर्थः । ततः धीराश्चित् कर्मणि प्राज्ञा एव तत् वरुणजिह्वाग्रस्थानं समिनक्षंतः । इनक्षतिर्गतिकर्मा । संव्याप्नुवंतः संतः आशत स्तुतिभिर्हविर्भिर्वा प्राप्नुवन् । यः पुनः कर्तम् ।' कालाध्वनो:° ' इति द्वितीया । कर्मणि अप्रभुः समर्थो न भवति सोऽयम् अत्र अस्मिनेव लोके अव पदाति अवस्तान्नरके पतति नोपरि गच्छति । ‘पद गतौ ' । लेट्याडागमः । तस्मात्सर्वैरग्निष्टोमादिकर्म कर्तव्यमित्येषोऽर्थोऽभिहितो भवति ॥ ॥ ३० ॥
+
+##### Gist of the bhāṣya
+
+The thread (तंतुः (*taṃtuḥ*)), the extender, of the true sacrifice is spread (विततः (*vitataḥ*)) on the purifier (पवित्रे (*pavitre*)), the ten-fringed filter made of sheep's wool. Or else: Soma, spread in the purifier that is the atmosphere, is established at the tip of Varuṇa's tongue by मायया (*māyayā*), that is, by his act. The waters stand at the tip of Varuṇa's tongue, and Soma dwells in them; the sense is that he is placed in waters such as the Vasatīvarī. Then the wise (धीराश्चित् (*dhīrāścit*)), skilled in the rite, pervading that place at the tip of Varuṇa's tongue (समिनक्षंतः (*saminakṣaṃtaḥ*); the root इनक्षति (*inakṣati*) means going), reach it (आशत (*āśata*)) with praises or with oblations. But he who is not able (अप्रभुः (*aprabhuḥ*)) in the rite does not go upward; he falls down into hell here, in this very world (अत्र (*atra*)). Therefore the rite, the Agniṣṭoma and the like, is to be performed by all; this is the meaning that is stated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतस्य (*ṛtasya*)—for the sacrifice
+- तंतुः (*taṃtuḥ*)—that which has the form of a thread
+- पवित्रे (*pavitre*)—on the ten-fringed filter
+- विततः (*vitataḥ*)—and is extended, namely Soma
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- जिह्वायाः (*jihvāyāḥ*)—of the tongue
+- अग्रे (*agre*)—in the part at the tip
+- मायया (*māyayā*)—by his own act
+- आस्थितः (*āsthitaḥ*)—has taken its place
+- धीराश्चित् (*dhīrāścit*)—the wise
+- तत् (*tat*)—that Soma
+- समिनक्षंतः (*saminakṣaṃtaḥ*)—having approached
+- आशत (*āśata*)—have obtained nearness
+- कर्तं (*kartaṃ*)—to perform the rite
+- अप्रभुः (*aprabhuḥ*)—one who has no ability
+- अत्र (*atra*)—in this world
+- अव पदाति (*ava padāti*)—falls down (rolling)
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, which has the form of a thread for the sacrifice and is extended on the ten-fringed filter, has taken an excellent place by his own act at the tip of Varuṇa's tongue. The wise have approached that Soma and obtained nearness to it. One who has no ability to perform the rite falls down, rolling, in this world.
+
+##### English translation
+The thread of the sacrifice spread over the filter extends by its act to the tip of Varuna's tongue ; the wise approaching reached it ; but he who is incompetent for the rite sinks (to hell) even in this world.
+
+### Printed p. 456
+
+## Sūkta 74 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘शिशुर्न' इति नवर्चं सप्तमं सूक्तं दैर्घतमसस्य कक्षीवत आर्षं पवमानसोमदेवताकम् । अष्टमी त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रम्यते- शिशुर्न कक्षीवांस्त्रिष्टुबष्टमी' इति । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning शिशुर्न (*śiśurna*), of nine ṛks, is the seventh sūkta; it is the vision of Kakṣīvat, of the line of Dīrghatamas, and its deity is Pavamāna Soma. The eighth ṛk is in Triṣṭubh, the rest are in Jagatī. So the Anukramaṇī says: शिशुर्न कक्षीवांस्त्रिष्टुबष्टमी (*śiśurna kakṣīvāṃstriṣṭubaṣṭamī*). The ritual use of the sūkta has been stated.
+
+Translation.—This sūkta beginning शिशुर्न (*śiśurna*) is the seventh sūkta in the fourth anuvāka. It contains nine ṛks. The seer of this sūkta is Kakṣīvān; the deity is Pavamāna Soma. The eighth ṛk of this sūkta is in the Triṣṭubh metre. In the Anukramaṇī it is said: शिशुर्न कक्षीवांस्त्रिष्टुबष्टमी (*śiśurna kakṣīvāṃstriṣṭubaṣṭamī*). The ritual use has been stated earlier.
+
+Maṇḍala 9; Anuvāka 4; Sūkta 74; Aṣṭaka 7; Adhyāya 2; Varga 31, 32. Number of ṛks in the sūkta: 9. Ṛṣi: Kakṣīvān. Devatā: Pavamāna Soma. Chandas: Ṛks 1 to 7 and 9 Jagatī; Ṛk 8 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिशु॒र्न जा॒तोऽव॑ चक्रद॒द्वने॒ स्व१॒॑र्यद्वा॒ज्य॑रु॒षः सिषा॑सति ।  
+> दि॒वो रेत॑सा सचते पयो॒वृधा॒ तमी॑महे सुम॒ती शर्म॑ स॒प्रथः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिशुः । न । जातः । अव । चक्रदत् । वने । स्वः । यत् । वाजी । अरुषः । सिसासति ।  
+> दिवः । रेतसा । सचते । पयःऽवृधा । तम् । ईमहे । सुऽमती । शर्म । सऽप्रथः ॥ १ ॥
+
+### Printed p. 457
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स पवमानः सोमः वने वननीये वसतीवर्याख्य उदके जातः उत्पन्नः शिशुर्न शिशुरिव अव चक्रदत् अवाङ्मुखं क्रंदति । तदोदकमध्ये पतंछब्दं करोति खलु। यत् यदा वाजी बलवानन्नवान् वा अरुषः आरोचमानः । यद्वा । वाज्यश्व इव अरुषः । अर्तेरुषच् । गमनशीलः सोमः स्वः स्वर्गलोकं सिषासति संभक्तुमिच्छति । सनोतेः सनीडभाव आत्वम् । ‘ सनोते:०' इति सांहितिकं षत्वम् । सोऽयं पयोवृधा गवामोषधीनां च क्षीरस्य वर्धकेन’ रेतसा उदकेन सह दिवः द्युलोकात् सचते पार्थिवं लोकं समवैति । तं तादृशं प्रसिद्धं सोमं सप्रथः सर्वतः पृथुतरं धनादिना युक्तं शर्म गृहं तद्वयं सुमती । ‘सुपां सुलुक्°' इति तृतीयायाः पूर्वसवर्णदीर्घः । सुमत्या शोभनया स्तुत्या ईमहे याचामहे । ईमह इति यांचाकर्मा। ‘ ईङ् गतौ । देवादिकः । छांदसः श्यनो लुक् ॥
+
+##### Gist of the bhāṣya
+
+That Pavamāna Soma, born (जातः (*jātaḥ*)) in the pleasant water called Vasatīvarī (वने (*vane*)), cries out downward-faced like a child (शिशुर्न (*śiśurna*)); for it makes a sound as it falls in the midst of the water. When he is powerful or possessed of food (वाजी (*vājī*)), and shining (अरुषः (*aruṣaḥ*)); or else, like a swift horse, going, Soma desires to enjoy the world of heaven (स्वः (*svaḥ*)). Then, with the water (रेतसा (*retasā*)) that increases the milk of cows and plants (पयोवृधा (*payovṛdhā*)), he comes from heaven (दिवः (*divaḥ*)) to the earthly world. That well-known Soma we ask, with good praise (सुमती (*sumatī*)), for a dwelling (शर्म (*śarma*)) extended on all sides (सप्रथः (*saprathaḥ*)) and endowed with wealth and the like; ईमहे (*īmahe*) is a word meaning to ask.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—Soma
+- वने (*vane*)—in the water
+- जातः (*jātaḥ*)—having been produced
+- शिशुन (*śiśuna*)—like a young child **NOTE**
+- अव चक्रदत् (*ava cakradat*)—makes a sound
+- यत् (*yat*)—when
+- वाजी (*vājī*)—powerful
+- अरुषः (*aruṣaḥ*)—attractive, the Soma
+- स्वः (*svaḥ*)—in the world of heaven
+- सिषासति (*siṣāsati*)—wishes to enjoy happiness, then
+- पयोवृधा (*payovṛdhā*)—that increases milk
+- रेतसा (*retasā*)—with the water
+- दिवः (*divaḥ*)—from the world of heaven
+- सचते (*sacate*)—he comes to the earth
+- तं (*taṃ*)—from such a Soma **NOTE**
+- सप्रथः (*saprathaḥ*)—extended
+- शर्म (*śarma*)—a dwelling
+- सुमती (*sumatī*)—with excellent praise
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, produced in the water, makes a sound like a young child. When Soma, who is powerful and attractive, wishes to enjoy happiness in heaven, then he comes from the world of heaven to the earth with the water that increases milk. From such a Soma we ask for an extended dwelling by means of excellent praise.
+
+##### English translation
+Born in the water (the Soma) cries out like a child, when powerful and brilliant he wishes to enjoy heaven : he comes from the sky to mix with the water that nourishes the cows : we ask him by our praises for an opulent dwelling.
+
+### Printed p. 458
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो य स्कं॒भो ध॒रुणः॒ स्वा॑तत॒ आपू॑र्णो अं॒शुः प॒र्येति॑ वि॒श्वतः॑ ।  
+> सेमे म॒ही रोद॑सी यक्षदा॒वृता॑ समीची॒ने दा॑धार॒ समिषः॑ क॒विः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । यः । स्कंभः । धरुणः । सुऽआततः । आऽपूर्णः । अंशुः । परिऽएति । विश्वतः ।  
+> सः । इमे इति । मही इति । रोदसी इति । यक्षत् । आऽवृता । समीचीने इति सम्ऽईचीने । दाधार । सम् । इषः । कविः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवः द्युलोकस्य स्कंभः विष्कंभयिता संरोद्धा धरुणः सर्वस्य धारकः । यद्वा । पृथिव्या धारकः । विष्टंभो दिवो धरुणः पृथिव्याः ' ( ऋ. सं. ९.८९.६ ) इत्याम्नानात् । तादृशः स्वाततः सुष्ठु सर्वत्र विततः विस्तृतः अत एव आपूर्णः पात्रेषु संपूर्णः यः अंशुः सोमात्मकः विश्वतः सर्वतः पर्येति परिगच्छति । ‘तिङि चोदात्तवति' इति गतेर्निघातः । सः सोमः इमे रोदसी द्यावापृथिव्यौ आवृता संभजनीयेन कर्मणा यक्षत् यजतु । स्वबलेन संयोजयत्वित्यर्थः । ततः सोऽयं समीचीने परस्परं संगते द्यावापृथिव्यौ दाधार धारयांचकार । ‘तुजादीनाम्' इत्यभ्यासस्य दीर्घः । अनंतरं कविः क्रांतकर्मा इषः अन्नानि स्तोतृभ्यः सं प्रयच्छतु । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥
+
+##### Gist of the bhāṣya
+
+The स्कंभः (*skaṃbhaḥ*) of heaven is its fixer and restrainer; धरुणः (*dharuṇaḥ*) is the supporter of all; or else, the supporter of the earth, since the tradition says विष्टंभो दिवो धरुणः पृथिव्याः (*viṣṭaṃbho divo dharuṇaḥ pṛthivyāḥ*) (Ṛ. Saṃ. 9.89.6). That Soma-essence (अंशुः (*aṃśuḥ*)), well spread (स्वाततः (*svātataḥ*)) everywhere, and therefore filled (आपूर्णः (*āpūrṇaḥ*)) in the vessels, goes round on all sides. May that Soma worship (यक्षत् (*yakṣat*)) these two worlds, heaven and earth (रोदसी (*rodasī*)), with an act that is to be shared; the sense is that he should join them by his own strength. Then he has upheld (दाधार (*dādhāra*)) the two worlds, heaven and earth, joined together (समीचीने (*samīcīne*)). Afterwards may the sage (कविः (*kaviḥ*)), of surpassing works, bestow foods (इषः (*iṣaḥ*)) on the praisers; since the prefix सम् (*sam*) is heard, a suitable verb is supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—for the world of heaven
+- स्कंभः (*skaṃbhaḥ*)—the supporting pillar
+- धरुणः (*dharuṇaḥ*)—the supporter of all
+- स्वाततः (*svātataḥ*)—on all sides
+- विततः (*vitataḥ*)—extended
+- आपूर्णः (*āpūrṇaḥ*)—and full in the vessels
+- यः अंशुः (*yaḥ aṃśuḥ*)—the Soma who
+- विश्वतः (*viśvataḥ*)—everywhere
+- पर्येति (*paryeti*)—moves about
+- सः (*saḥ*)—the same Soma
+- इमे रोदसी (*ime rodasī*)—these heaven and earth
+- आवृता (*āvṛtā*)—by excellent rites
+
+### Printed p. 459
+
+- यक्षत् (*yakṣat*)—may he worship
+- सविाचीने (*saviācīne*)—heaven and earth that are united together **NOTE**
+- दाधार (*dādhāra*)—he has upheld
+- कविः (*kaviḥ*)—Soma, who is of surpassing works
+- इषः (*iṣaḥ*)—foods
+- सं (*saṃ*)—may he give to the praisers
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who is the supporting pillar of the world of heaven, the supporter of all, extended on all sides and full in the vessels, and who moves about everywhere, may that same Soma worship these heaven and earth with an excellent rite. He has upheld heaven and earth, which are united together. May Soma, of surpassing works, give foods to the praisers.
+
+##### English translation
+The supporter of heaven, the prop (of the earth), the Soma-juice who widely spreading, filling (the vessels), flows in all directions—may he unite the two great worlds by his own strength ; he has upheld them combined : (may he) the age (bestow) food upon (his worshippers). **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> महि॒ प्सरः॒ सुकृ॑तं सो॒म्यं मधू॒र्वी गव्यू॑ति॒रदि॑तेरृ॒तं य॒ते ।  
+> ईशे॒ यो वृ॒ष्टेरि॒त उ॒स्रियो॒ वृषा॒पां ने॒ता य इ॒तऊ॑तिरृ॒ग्मियः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महि । प्सरः । सुऽकृतम् । सोम्यम् । मधु । उर्वी । गव्यूतिः । अदितेः । ऋतम् । यते ।  
+> ईशे । यः । वृष्टेः । इतः । उस्रियः । वृषा । अपाम् । नेता । यः । इतःऽऊतिः । ऋग्मियः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतं सत्यभूतं यज्ञं यते गच्छते तस्मा इंद्राय सुकृतं सुष्ठु संस्कृतं सोम्यं सोममयं महि । महत् प्रभूतं मधु मधुररसं प्सरः भक्षणं पानीयं भवति । 'प्सा भक्षणे'। किंच अस्मद्यज्ञं प्रत्यागच्छतामिंद्रादीनाम् अदितेः पृथिव्याः गव्यूतिः मार्गश्च उर्वी विस्तीर्णो भवति । इंद्रस्य शतसहस्रसंख्याकैर्हरिभिः सह गंतुं मार्गो विस्तीर्णोऽभवदित्यर्थः । यः इंद्रः इतः इमं लोकं प्रत्यापतन्याः वृष्टेः ईशे ईश्वरो भवति । तथा उस्रियः । उस्रेति गोनाम । गोभ्यो हितः अपाम् उदकानां वृषा वर्षकः यज्ञस्य नेता नायकः इतऊतिः इममस्मदीयं यज्ञं प्रत्यूतिर्गमनं यस्य स तथोक्तः । इतो गच्छन् यः इंद्रः ऋग्मियः ऋगर्हः स्तोतव्यो भवति । तस्मा अयं सोमः पातव्यो भवतीति ॥
+
+##### Gist of the bhāṣya
+
+To Indra who goes to the true sacrifice (ऋतं (*ṛtaṃ*) यते (*yate*)) the well-prepared (सुकृतं (*sukṛtaṃ*)) Soma drink (सोम्यं (*somyaṃ*)) is large, abundant and of sweet juice (महि (*mahi*) मधु (*madhu*)): it is food and drink (प्सरः (*psaraḥ*)). Further, for Indra and the others coming to our sacrifice, the path (गव्यूतिः (*gavyūtiḥ*)) of Aditi, the earth, becomes broad (उर्वी (*urvī*)); the sense is that the road for Indra to travel with his hundred thousand horses became wide. Indra, who is lord (ईशे (*īśe*)) of the rain that falls to this world from here (इतः (*itaḥ*)); likewise उस्रियः (*usriyaḥ*), for usrā is a name for the cow, so one who is beneficial to cows; the rainer (वृषा (*vṛṣā*)) of the waters, the leader (नेता (*netā*)) of the sacrifice; इतऊतिः (*itaūtiḥ*), one whose going is to this sacrifice of ours. That Indra, going from here, is ऋग्मियः (*ṛgmiyaḥ*), worthy of the ṛc, one to be praised. For him this Soma is to be drunk.
+
 ---
 
-**Progress note:** Done through printed p. 453. Sūkta 73 Ṛks 4-8 (Ṛk 8 bhāṣya)
+**Progress note:** Done through printed p. 459. Sūkta 73 Ṛks 8-9; Sūkta 74 Ṛks 1-3
