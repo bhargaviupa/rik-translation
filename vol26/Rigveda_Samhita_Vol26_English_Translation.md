@@ -8895,6 +8895,291 @@ Deity: Pavamāna Soma.
 
 Metre: Gāyatrī. **NOTE**
 
+### Printed p. 254
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॑ सोम द्यु॒माँ अ॑सि॒ वृषा॑ देव॒ वृष॑व्रतः ।  
+> वृषा॒ धर्मा॑णि दधिषे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । सोम । द्युऽमान् । असि । वृषा । देव । वृषऽव्रतः ।  
+> वृषा । धर्माणि । दधिषे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वृषा वर्षकस्त्वं द्युमान् दीप्तिमान् असि । अपि च हे देव द्योतमान सोम वृषा त्वं वृषव्रतः वर्षणशीलकर्मासि । किंच हे सोम वृषा त्वं धर्माणि देवानां मनुष्याणां च हितानि कर्माणि दधिषे धारयसि ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you, the showerer (vṛṣā), are bright (dyumān). Further, O shining (deva) Soma, you, the showerer, are one whose ordinary course of action is showering (vṛṣavrataḥ). Further, O Soma, you, the showerer, bear (dadhiṣe), that is, uphold, the rites (dharmāṇi), meaning the actions that are beneficial to gods and men.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- वृषा (*vṛṣā*)—you, the bestower of what is wished for
+- द्युमान् (*dyumān*)—radiant
+- असि (*asi*)—you are
+- देव (*deva*)—O Soma, of the nature of a deity
+- वृषा (*vṛṣā*)—you, the showerer of desires
+- वृषव्रतः (*vṛṣavrataḥ*)—you have an action that bestows what is wished for
+- वृषा (*vṛṣā*)—you, the showerer of desires
+- धर्माणि (*dharmāṇi*)—the actions that support all
+- दधिषे (*dadhiṣe*)—you possess
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you, the bestower of what is wished for, are radiant. O Soma, of the nature of a deity, you, the showerer of desires, have an action that bestows what is wished for. You, the showerer of desires, possess the actions that support all.
+
+##### English translation
+You, Soma, are the bright sprinkler; you shining (Soma) are the sprinkler whose occupation is sprinkling ; you, the sprinkler, sustain the rites (of men and gods).
+
+### Printed p. 255
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृष्ण॑स्ते॒ वृष्ण्यं॒ शवो॒ वृषा॒ वनं॒ वृषा॒ मदः॑ ।  
+> स॒त्यं वृ॑ष॒न्वृषेद॑सि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्णः । ते । वृष्ण्यम् । शवः । वृषा । वनम् । वृषा । मदः ।  
+> सत्यम् । वृषन् । वृषा । इत् । असि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषन् कामानां वर्षक सोम वृष्णः वर्षितुः ते तव शवः बलं वृष्ण्यं वर्षणशीलं भवति । वनं तव भजनमपि वृषा वर्षणशीलम् । मदः तव रसोऽपि वृषा वर्षणशीलः । सत्यं सत्यमेव त्वं वृषेत् वर्षणशील एव असि भवसि ॥
+
+##### Gist of the bhāṣya
+
+O showerer (vṛṣan) of desires, Soma, your strength (śavaḥ) as the showerer (vṛṣṇaḥ) is showering in nature (vṛṣṇyam). Your worship (vanam) too is showering in nature. Your juice (madaḥ) too is showering in nature. Truly (satyam) you are indeed (vṛṣed) showering in nature.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—O Soma-deva, the showerer of desires
+- वृष्णः (*vṛṣṇaḥ*)—you who bestow what is wished for
+- ते (*te*)—your
+- शवः (*śavaḥ*)—strength
+- वृष्णं (*vṛṣṇaṃ*)—is such as gives what is desired **NOTE**
+- वनं (*vanaṃ*)—your drinking too
+- वृषा (*vṛṣā*)—is such as bestows what is wished for
+- मदः (*madaḥ*)—your gladdening juice too
+- वृषा (*vṛṣā*)—is a showerer of desires
+- सत्यं (*satyaṃ*)—certainly
+- वृषेत् (*vṛṣet*)—you indeed, the bestower of what is wished for
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, showerer of desires, your strength, you who bestow what is wished for, is such as gives what is desired. Your drinking too is such as bestows what is wished for. Your gladdening juice too is a showerer of desires. Certainly you are indeed a bestower of what is wished for.
+
+##### English translation
+O sprinkler, the strength of you the sprinkler consists in sprinkling, your worship consists in sprinkling your juice consists in sprinkling; you truly are always. the sprinkler.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वो॒ न च॑क्रदो॒ वृषा॒ सं गा इं॑दो॒ समर्व॑तः ।  
+> वि नो॑ रा॒ये दुरो॑ वृधि ॥ ३ ॥
+
+### Printed p. 256
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वः । न । चक्रदः । वृषा । सम् । गाः । इंदो इति । सम् । अर्वतः ।  
+> वि । नः । राये । दुरः । वृधि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम वृषा त्वम् अश्वो न अश्व इव सं चक्रदः संक्रंदसे । अपि च गाः पशून् अर्वतः अश्वांश्चास्मभ्यं सं प्रयच्छसीति शेषः। किंच नः अस्माकं राये धनाय दुरः द्वाराणि वि वृधि विवृतानि कुरु ॥
+
+##### Gist of the bhāṣya
+
+O shining Soma, you, the showerer, bellow (saṃ cakradaḥ) like a horse. Further, the verb "you give (saṃ prayacchasi)" is to be supplied: you give us cattle (gāḥ) and horses (arvataḥ). Further, open wide (vi vṛdhi), that is, make open, the doors (duraḥ) for our wealth (rāye).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- वृषा (*vṛṣā*)—you, the bestower of what is wished for
+- अश्वो न (*aśvo na*)—like a horse
+- सं चक्रदः (*saṃ cakradaḥ*)—you make a sound
+- गाः (*gāḥ*)—cattle
+- अर्वतः (*arvataḥ*)—and horses
+- सं (*saṃ*)—give
+- नः (*naḥ*)—to us
+- राये (*rāye*)—for the attainment of wealth
+- दुरः (*duraḥ*)—the doors
+- वि वृधि (*vi vṛdhi*)—open fully
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you, the bestower of what is wished for, make a sound like a horse. Open fully the doors that lead to the attainment of our wealth.
+
+##### English translation
+Indu, the sprinkler, you neigh like a horse; you give us cattle, you give us horses; open the doors for our wealth.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असृ॑क्षत॒ प्र वा॒जिनो॑ ग॒व्या सोमा॑सो अश्व॒या ।  
+> शु॒क्रासो॑ वीर॒याशवः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असृक्षत । प्र । वाजिनः । गव्या । सोमासः । अश्वऽया ।  
+> शुक्रासः । वीरऽया । आशवः ॥ ४ ॥
+
+### Printed p. 257
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजिनः बलवंतः शुक्रासः शुक्रा उज्ज्वला: आशवः वेगवंतश्च सोमासः सोमाः गव्या गवेच्छया अश्वया अश्वेच्छया च वीरया पुत्रेच्छया च प्र असृक्षत ऋत्विग्भिः सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The strong (vājinaḥ), bright (śukrāsaḥ) and swift (āśavaḥ) Soma-juices (somāsaḥ) are produced (pra asṛkṣata) by the priests, out of desire for cattle (gavyā), desire for horses (aśvayā) and desire for sons (vīrayā). The section number 36 is printed at the end of the block of the next verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनः (*vājinaḥ*)—endowed with strength
+- शुक्रासः (*śukrāsaḥ*)—and shining
+- आशवः (*āśavaḥ*)—and fast-moving
+- सोमासः (*somāsaḥ*)—the Soma-juices
+- गव्या (*gavyā*)—from the wish to obtain cattle
+- अश्वया (*aśvayā*)—from the wish to obtain horses
+- वीरया (*vīrayā*)—from the wish to obtain heroic sons
+- प्र असृक्षत (*pra asṛkṣata*)—they are pressed
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, endowed with strength, shining and fast-moving, are pressed by the priests from the wish to obtain cattle, horses and heroic sons.
+
+##### English translation
+The powerrul, brilliant, rapid Soma-juices are effused in the hope of obtaining cattle, horses, and male offspring. **NOTE**
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शुं॒भमा॑ना ऋता॒युभि॑र्मृ॒ज्यमा॑ना॒ गभ॑स्त्योः ।  
+> पवं॑ते॒ वारे॑ अ॒व्यये॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शुंभमानाः । ऋतयुऽभिः । मृज्यमानाः । गभस्त्योः ।  
+> पवंते । वारे । अव्यये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतायुभिः यज्ञकामैः शुंभमानाः अलंक्रियमाणाः गभस्त्योः गभस्तिभ्यां बाहुभ्याम् । ‘ गभस्ती बाहू' इति बाहुनामसु पाठात् । मृज्यमानाः शोध्यमानाः सोमाः अव्यये अविमये वारे वाले पवित्रे पवंते क्षरंति ॥ ॥ ३६ ॥
+
+##### Gist of the bhāṣya
+
+The Soma-juices, adorned (śuṃbhamānāḥ) by those who desire the sacrifice (ṛtāyubhiḥ), and cleansed (mṛjyamānāḥ) by the two arms (gabhastyoḥ), flow (pavante) in the filter (vāre) of sheep's wool (avyaye). He explains this word as meaning the two arms, since गभस्ती बाहू (*gabhastī bāhū*) is read among the names of the arm. The section number 36 is printed at the end of the block.
+
+### Printed p. 258
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतायुभिः (*ṛtāyubhiḥ*)—by those who wish to perform the sacrifice
+- शुंभमानाः (*śuṃbhamānāḥ*)—refined
+- गभस्त्योः (*gabhastyoḥ*)—by the arms
+- मृज्यमानाः (*mṛjyamānāḥ*)—and cleansed, the Soma-juices
+- अव्यये (*avyaye*)—of wool
+- वारे (*vāre*)—in the ten-fold filter with its fibres
+- पवंते (*pavaṃte*)—they flow
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, refined by those who wish to perform the sacrifice and cleansed by the arms, flow in the ten-fold filter with its woollen fibres.
+
+##### English translation
+The (Soma-juices) beautified by those desirous of sacrifice, cleansed by their hands, flow through the woollen fleece.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ते विश्वा॑ दा॒शुषे॒ वसु॒ सोमा॑ दि॒व्यानि॒ पार्थि॑वा ।  
+> पवं॑ता॒मांतरि॑क्ष्या ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । विश्वा । दाशुषे । वसु । सोमाः । दिव्यानि । पार्थिवा ।  
+> पवंताम् । आ । अंतरिक्ष्या ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते सोमाः दिव्यानि दिवि भवानि पार्थिवा पार्थिवानि पृथिव्यां संभूतानि च अंतरिक्ष्या अंतरिक्ष्याणि अंतरिक्षे जातानि च विश्वा विश्वानि वसु वसूनि धनानि दाशुषे हविषां प्रदात्रे यजमानाय आ पवंतां क्षरंतु ॥
+
+##### Gist of the bhāṣya
+
+May those Soma-juices flow (ā pavantām), that is, stream, to the offerer of oblations (dāśuṣe), the sacrificer, all (viśvā) treasures (vasu), that is, wealth: those belonging to heaven (divyāni), those born on earth (pārthivā) and those born in the atmosphere (antarikṣyā).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—the well-known
+- सोमाः (*somāḥ*)—Soma-juices
+- दिव्यानि (*divyāni*)—those born in the world of heaven
+- पार्थिना (*pārthinā*)—those that are on the earth **NOTE**
+- अंतरिक्ष्या (*aṃtarikṣyā*)—and those that are in the atmosphere
+- विश्वा (*viśvā*)—all
+- वसु (*vasu*)—the treasures
+- दाशुषे (*dāśuṣe*)—to the sacrificer who offers oblations
+- आ पवंतां (*ā pavaṃtāṃ*)—may they provide in abundance
+
+### Printed p. 259
+
+##### भावार्थ (Bhāvārtha)
+
+May the well-known Soma-juices provide in abundance to the sacrificer who offers oblations all the treasures, those born in the world of heaven, those that are on the earth and those that are in the atmosphere.
+
+##### English translation
+May those Soma-juices pour forth for the offerer (of libations) all the treasures of heaven and earth and the firmament.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानस्य विश्ववि॒त्प्र ते॒ सर्गा॑ असृक्षत ।  
+> सूर्य॑स्येव॒ न र॒श्मयः॑ ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानस्य । विश्वऽवित् । प्र । ते । सर्गाः । असृक्षत ।  
+> सूर्यस्यऽइव । न । रश्मयः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्ववित् विश्वस्य द्रष्टः सोम पवमानस्य क्षरतः ते तव सर्गाः सृज्यमाना धाराः सूर्यस्येव रश्मयः सूर्यस्य किरणा इव प्रकाशमानाः । न इति संप्रत्यर्थे । इदानीं प्र असृक्षत प्रसृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+O Soma, all-knowing (viśvavit), that is, seer of everything, your streams (sargāḥ), the flows being released, as you flow (pavamānasya), are like the rays of the sun, that is, shining like the rays of the sun. The particle of comparison is here used in the sense of "now". At this time they are sent forth (pra asṛkṣata), that is, released.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपश्चित् (*vipaścit*)—O Soma-deva of subtle sight **NOTE**
+- पवमानस्य (*pavamānasya*)—of you who are of the nature of a stream
+- ते (*te*)—your
+- सर्गाः (*sargāḥ*)—streams
+- सूर्यस्येव रश्मयः (*sūryasyeva raśmayaḥ*)—like the rays of the sun
+- प्र असृक्षत (*pra asṛkṣata*)—they arise and spread
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, of subtle sight, your streams, you who are of the nature of a stream, arise and spread like the rays of the sun.
+
+##### English translation
+All-beholding Soma, your streams as you are being purified are sent forth like the rays ot the sun at present. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 253. Ṛk 24 to Ṛk 30, start of Sūkta 64, pp. 248-253
+**Progress note:** Done through printed p. 259. Sūkta 64 Ṛk 1-7, pp. 254-259
