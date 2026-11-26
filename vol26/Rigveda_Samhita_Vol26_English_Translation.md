@@ -12134,6 +12134,226 @@ O Soma-deva, you, the impeller of all, provide us foods; be the giver of food to
 ##### English translation
 You, Soma, who are a hero, (bestow) upon (us) food, (be) the giver of sons (to us); we choose you for your friendship. (we choose you) for your alliance.
 
+### Printed p. 327
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
+> आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । आयूंषि । पवसे । आ । सुव । ऊर्जम् । इषम् । च । नः ।  
+> आरे । बाधस्व । दुच्छुनाम् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पवमानरूप त्वमस्माकम् आयूंषि जीवनानि पवसे रक्षसि । नः अस्माकम् 'ऊर्जम् अन्नरसम् इषम् अन्नं च आ सुव आभिमुख्येन प्रेरय । किंच दुच्छुनाम् । रक्षोनामैतत् । रक्षांसि आरे अस्मत्तो दूर एव बाधस्व संपीडय ॥
+
+##### Gist of the bhāṣya
+
+O Agni, who are of the form of Pavamāna, you protect (pavase) our lives. Impel towards us juice of food (ūrja) and food (iṣa). Further, drive far away from us, press down, the Rākṣasas (duccunā is a name for Rākṣasas).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni, who are of the form of Pavamāna
+- आयूंषि (*āyūṃṣi*)—our lives
+- पवसे (*pavase*)—you protect
+- नः (*naḥ*)—to us
+- ऊर्जं (*ūrjaṃ*)—the juice of food
+- इषं च (*iṣaṃ ca*)—and food
+- आ सुव (*ā suva*)—provide
+- दुच्चुनां (*duccunāṃ*)**NOTE**—the Rākṣasas
+- आरे (*āre*)—while they are still far from us
+- बाधस्व (*bādhasva*)—strike and destroy
+
+### Printed p. 328
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the form of Pavamāna, you increase and protect our lives. Provide us food that nourishes them, and the juice of food. Destroy the Rākṣasas who harm us while they are still far from us.
+
+##### English translation
+Agni, you support our lives, send us nutriment and food. drive far off the Rakshasas.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agnihotra offering, after the sacrificer has offered the first oblation, he is to attend upon Agni, every day or every year, with the three Ṛks beginning agna āyūṃṣi (19-21); this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, आग्नेयाभिश्चाग्न आयूंषि पवस इति तिसृभिः संवत्सरे संवत्सरे (*āgneyābhiścāgna āyūṃṣi pavasa iti tisṛbhiḥ saṃvatsare saṃvatsare*) (Ā. Sū. 2-3, 4)**NOTE**. In domestic rites such as the tonsure, four oblations of ghee are to be offered. Of these, three oblations are to be made with these three Ṛks beginning agna āyūṃṣi (19-21); this is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, तेषां पुरस्ताच्चतस्र आज्याहुतीर्जुहुयादग्न आयूंषि पवस इति तिसृभिः (*teṣāṃ purastāccatasra ājyāhutīrjuhuyādagna āyūṃṣi pavasa iti tisṛbhiḥ*) (Ā. Gṛ. 1-4-3-4**NOTE**). In the Ādhāneṣṭi, at the time of the Pavamāneṣṭi, when the offering is made to Pavamāna Agni, this Ṛk beginning agna āyūṃṣi is to be recited as the anuvākyā mantra, and the Ṛk agne pavasva (the 21st Ṛk) as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, प्रथमायामग्निरग्निः पवमानोऽग्न आयूंषि पवसेऽग्ने पवस्व स्वपाः (*prathamāyāmagniragniḥ pavamāno 'gna āyūṃṣi pavase 'gne pavasva svapāḥ*) (Ā. 2-1)**NOTE**. In the Punarādheya offering, when the second ājyabhāga is offered, this Ṛk beginning agna āyūṃṣi is to be recited, optionally, as the anuvākyā mantra; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, नित्यं पूर्वमनुब्राह्मणिनोऽग्न आयूंषि पवस इत्युत्तरं (*nityaṃ pūrvamanubrāhmaṇino 'gna āyūṃṣi pavasa ityuttaraṃ*) (Ā. 2-8).
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒ग्निर्ऋषिः॒ पव॑मानः॒ पांच॑जन्यः पु॒रोहि॑तः ।  
+> तमी॑महे महाग॒यम् ॥ २० ॥
+
+### Printed p. 329
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्निः । ऋषिः । पवमानः । पांचऽजन्यः । पुरःऽहितः ।  
+> तम् । ईमहे । महाऽगयम् ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पांचजन्यः । निषादपंचमाश्चत्वारो वर्णाः पंचजनाः। यद्वा । गंधर्वाः पितरो देवा असुरा रक्षांसीत्येते पंचजनाः । अथवा देवमनुष्या गंधर्वाप्सरसः सर्पाः पितर इति ब्राह्मणेऽभिहिताः पंचजनाः। ‘ गंभीराञ्यः्  ' इत्यत्र ‘ बहिर्देवपंचजनेभ्य इति वक्तव्यम्' (का. ४. ३. ५८. १ ) इति वचनात् भवार्थे ञ्यप्रत्ययः । तेषां तत्तदभीष्टप्रदानेन स्वभूतः ऋषिः सर्वस्य द्रष्टा पवमानः तद्रूपोऽग्निः पुरोहितः कर्मार्थमृत्विग्भिः पुरो निहितः । तं पूर्वोक्तलक्षणं महागयं महद्भिर्देवादिभिरपि गीर्भिः गातव्यम् । महांति प्रभूतानि यज्ञगृहाणि वा यस्य स तथोक्तः । तं पवमानगुणविशिष्टमग्निम् ईमहे धनादीनि याचामहे ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+Pāñcajanya: the four castes together with the Niṣādas as the fifth are the five peoples (pañcajanāḥ); or else the Gandharvas, Pitṛs, gods, Asuras and Rākṣasas are the five peoples; or else, as stated in a Brāhmaṇa, gods, men, Gandharvas and Apsarases, serpents, and Pitṛs. Pāñcajanya means belonging to them, by the grant of their several wishes. He is the seer (ṛṣi), the beholder of all; Pavamāna, Agni in that form, is the purohita, placed in front by the priests for the sake of the rite. Him of the aforesaid nature, mahāgaya, who is to be hymned with praises even by the great, the gods and others, or whose houses of sacrifice are great and abundant: him, Agni, endowed with the qualities of Pavamāna, we beg (īmahe) for wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पांचजन्यः (*pāṃcajanyaḥ*)—he who is connected with the five groups of beings, the Gandharvas and others
+- ऋषिः (*ṛṣiḥ*)—the all-knowing (the beholder)
+- पवमानः (*pavamānaḥ*)—of the form of Pavamāna
+- अग्निः (*agniḥ*)—Agni
+- पुरोहितः (*purohitaḥ*)—is placed before us
+- महागयं (*mahāgayaṃ*)—who has an excellent house of sacrifice
+- तं (*taṃ*)—from that Agni
+- ई महे (*ī mahe*)—we beg wealth and the like
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who is connected with the five groups of beings, the Gandharvas and others, who is all-knowing and can look upon everything, who is of the form of Pavamāna, is placed before us. From that Agni, who has an excellent house of sacrifice, we beg wealth and the like.
+
+##### English translation
+Agni, the all beholding, who is in the form of the Pavamana, the benefactor of the five orders, the preceder at sacrifices: him we solicit, who is hymned by the great.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अग्ने॒ पव॑स्व॒ स्वपा॑ अ॒स्मे वर्चः॑ सु॒वीर्य॑म् ।  
+> दध॑द्र॒यिं मयि॒ पोष॑म् ॥ २१ ॥
+
+### Printed p. 330
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अग्ने । पवस्व । सुऽअपाः । अस्मे इति । वर्चः । सुऽवीर्यम् ।  
+> दधत् । रयिम् । मयि । पोषम् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने स्वपाः । ‘सोर्मनसी' इत्युत्तरपदाद्युदात्तत्वम्। शोभनकर्मा त्वम् अस्मे अस्मासु सुवीर्यं शोभनवीर्योपेतं वर्चः। ‘ वर्च दीप्तौ । तेजः पवस्व आगमय । तथा भवान् रयिं धनं पुत्रं वा पोषम् । भावे कर्मणि वा घञ् । गवां पुष्टिं यद्वा गवादिकं मयि भवान् दधत् दधातु । करोत्वित्यर्थः । दधातेर्लेट्यडागमः। ‘घोर्लोपो लेटि वा' (पा. सू. ७. ३. ७० ) इत्याकारलोपः ॥
+
+##### Gist of the bhāṣya
+
+O Agni, svapāḥ (of good deeds), you of good works, bring (pavasva) to us brightness (varcas, light) endowed with good manly strength. Likewise may you place (dadhat, let him put, that is, make) in me wealth (rayi: riches, or a son) and plenty (poṣa): the prosperity of cattle, or cattle and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni, who are of the form of Pavamāna
+- स्वपाः (*svapāḥ*)—you who have excellent works
+- अस्मे (*asme*)—in us
+- सुवीर्यं (*suvīryaṃ*)—endowed with excellent manly strength
+- वर्चः (*varcaḥ*)—brightness
+- पवस्व (*pavasva*)—fill
+- मयि (*mayi*)—in me
+- रयिं (*rayiṃ*)—wealth
+- पोषं (*poṣaṃ*)—the wealth of cattle and the like that gives prosperity
+- दधत् (*dadhat*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who are of the form of Pavamāna, you who have excellent works, fill us with brightness endowed with excellent manly strength. Provide me wealth and the wealth of cattle and the like that gives prosperity.
+
+##### English translation
+Agni, who are the doer of good, pour upon us brightness and fair offspring ; may he make me wealth and plenty.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानो॒ अति॒ स्रिधो॒ऽभ्य॑र्षति सुष्टु॒तिम् ।  
+> सूरो॒ न वि॒श्वद॑र्शतः ॥ २२ ॥
+
+### Printed p. 331
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । अति । स्रिधः । अभि । अर्षति । सुऽस्तुतिम् ।  
+> सूरः । न । विश्वऽदर्शतः ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः सोमः अस्रिधः हिंसकान् शत्रूनतिक्रम्य गच्छति । तथा सुष्टुतिं स्तोतॄणां शोभनां स्तुतिम् अभ्यर्षति आभिमुख्येन गच्छति । ‘ऋषी गतौ'। तौदादिकः । ‘बहुलं छंदसि' इति शप् । गुणः । किंच सूरो न सूर्य इव विश्वदर्शतः सर्वस्य द्रष्टा सर्वैर्वा दर्शनीयो भवति ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna Soma passes beyond (ati) the asridhaḥ, the injuring enemies. He comes towards (abhi) the good praise (suṣṭuti) of the singers. Further, like the sun (sūra), he is the beholder of all, or is to be seen by all (viśvadarśata).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानः (*pavamānaḥ*)—Soma-deva
+- स्तिदः अति (*stidaḥ ati*)**NOTE**—passing beyond the injuring enemies
+- सुष्टुतिं (*suṣṭutiṃ*)—to the excellent singer of praise
+- अभ्यर्षति (*abhyarṣati*)—comes quickly
+- सूरो न (*sūro na*)—like the sun
+- विश्वदर्शतः (*viśvadarśataḥ*)—is visible to all
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, passing beyond the injuring enemies, comes quickly to the excellent singer of praise. Like the sun he is visible to all.
+
+##### English translation
+The purified (Soma) hastens past the adversaries towards the fair praise of the worshippers, visible to all like the sun.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॑र्मृजा॒न आ॒युभिः॒ प्रय॑स्वा॒न्प्रय॑से हि॒तः ।  
+> इंदु॒रत्यो॑ विचक्ष॒णः ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मर्मृजानः । आयुऽभिः । प्रयस्वान् । प्रयसे । हितः ।  
+> इंदुः । अत्यः । विऽचक्षणः ॥ २३ ॥
+
+### Printed p. 332
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आयुभिः कर्मनेतृभिर्मनुष्यैः मर्मृजानः पुनःपुनर्मृज्यमानः शोध्यमानः सः इंदुः स सोमः अत्यः देवान् संततं गंता भवति । कीदृशः । प्रयस्वान् प्रीणनशीलान्नवान् । यद्वा । स्तोतृभ्यो देयत्वेनान्नयुक्तः । अत एव प्रयसे हवीरूपायान्नाय हितः विचक्षणः सर्वस्य प्रदर्शनकारी सर्वस्य विद्रष्टा वा सोमो देवानभिगंता भवति । ‘चक्षिङ् व्यक्तायां वाचि'। ' अनुदात्तेतश्च हलादेः' इति युच् ॥
+
+##### Gist of the bhāṣya
+
+That Indu, that Soma, purified again and again, cleansed, by the āyus, the men who lead the rites, becomes atya, one who goes continually to the gods. How is he? Prayasvān: possessing food that gives pleasure; or else, provided with food to be given to the singers. For this very reason he is placed (hita) for prayas, food in the form of oblation. Vicakṣaṇa, he who shows all, or sees all: Soma becomes one who goes to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रयस्वान् (*prayasvān*)—he who has pleasing food
+- प्रयसे (*prayase*)—for the sake of food
+- हितः (*hitaḥ*)—who is placed
+- विचक्षणः (*vicakṣaṇaḥ*)—who has a keen sight
+- सः इंदुः (*saḥ iṃduḥ*)—that same Soma-deva
+- आयुभिः (*āyubhiḥ*)—by men engaged in the rites
+- मर्मृजानः (*marmṛjānaḥ*)—being cleansed
+- अत्यः (*atyaḥ*)—becomes one who goes to the gods
+
+##### भावार्थ (Bhāvārtha)
+
+That same Soma-deva, who has pleasing food, who is placed for the sake of food, who has a keen sight, being cleansed by men engaged in the rites, becomes one who goes to the gods.
+
+##### English translation
+Repeatedly purified by the priest, Indu, abounding with food, placed for food, the beholder of all continually goes (to the gods.)
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान ऋ॒तं बृ॒हच्छु॒क्रं ज्योति॑रजीजनत् ।  
+> कृ॒ष्णा तमां॑सि॒ जंघ॑नत् ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । ऋतम् । बृहत् । शुक्रम् । ज्योतिः । अजीजनत् ।  
+> कृष्णा । तमांसि । जंघनत् ॥ २४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 326. Sūkta 66 Ṛk 12 end to Ṛk 18, pp. 321-326
+**Progress note:** Done through printed p. 332. Sūkta 66 Ṛk 19-24 (Saṃhitā, Pada), pp. 327-332
