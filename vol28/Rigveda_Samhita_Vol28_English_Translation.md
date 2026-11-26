@@ -22724,6 +22724,155 @@ The word त्व (*tva*) means "one". उत (*uta*) is in the sense of "even"
 - तन्वं (*tanvaṃ*)—her body
 - वि सस्रे (*vi sasre*)—she reveals
 
+### Printed p. 658
+
+##### भावार्थ (Bhāvārtha)
+
+For some who do not know how to realise this principle of Speech, it is as though they had seen it without seeing it. Others hear it with the ear, yet, gaining no benefit from what they hear, it is as though they had not heard. But only for those capable of knowing this principle does the goddess of Speech reveal her own form, as a wife who desires her husband's company displays to him her beautiful body, adorned with garments and the like.
+
+##### English translation
+One (man) indeed seeing Speech has not seen her; another (man) hearing her has not heard her ; but to another she delivers her person as a loving wife well-attired presents herself to her husband.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the first half of this Ṛk the censure of the ignorant man who does not understand the meaning of the Veda is set out; in the second half, how the goddess of Speech favours the man who knows the meaning of the Veda. In explaining this Ṛk Yāska says:
+अप्येकः पश्यन्न पश्यति वाचं । अपि च शृण्वन्न शृणोत्येनामित्यविद्वांसमाहार्ध० ॥ अप्येकस्मै तन्नं विसस्र इति स्वमात्मानं विवृणुते । ज्ञानं प्रकाशनमर्थस्याहानया वाचोपमोत्तमया वाचा । जायेव पत्ये कामयमाना सुवासा ऋतुकालेषु ॥ (*apyekaḥ paśyanna paśyati vācaṃ | api ca śṛṇvanna śṛṇotyenāmityavidvāṃsamāhārdha0 ‖ apyekasmai tannaṃ visasra iti svamātmānaṃ vivṛṇute | jñānaṃ prakāśanamarthasyāhānayā vācopamottamayā vācā | jāyeva patye kāmayamānā suvāsā ṛtukāleṣu ‖*) सुवासाः कल्याणवासाः । कामयमाना ऋतुकालेषु । यथा स एनां पश्यति स शृणोतीत्यर्थज्ञप्रशंसा ॥ ( (*suvāsāḥ kalyāṇavāsāḥ | kāmayamānā ṛtukāleṣu | yathā sa enāṃ paśyati sa śṛṇotītyarthajñapraśaṃsā ‖ (*) (Ni. 1-19)
+Many men are accomplished in the śāstra books such as grammar and literature, and have studied the Veda. But one of them (that is, some of them), though पश्यन्नपि न पश्यति (*paśyannapi na paśyati*) the वाचं (*vācaṃ*) (Vedic sentence or mantra) — though he knows it, that is, recites it with his mouth — does not see, that is, does not understand its meaning. That is, though he recites the mantra he does not know its meaning, or has no power to grasp it. Likewise another, though he listens to the Vedic mantra, has no knowledge of its meaning. Though he has eyes he does not see; though he has ears he does not hear. This concerned those without knowledge of the Vedic meaning. As for another man who knows the Vedic meaning well, the goddess of Speech makes plain to him her own true form, that is, the hidden meaning of the Vedic mantras. How? A woman adorned with fine garments and ornaments, desiring her husband's company, at the season of union (the time of intercourse) shows the beauty of her limbs to her husband; and as the husband is then able to see the beautiful limbs of his wife at the time of love-making,
+
+### Printed p. 659
+so the hidden meanings of the mantras too become clearly visible to the man who knows the Vedic meaning. The purpose of the simile of one's own wife here is this: a man may look at many women with his eyes, yet he is able to see the limbs of his own wife well only in privacy. Likewise the man who does not know the Vedic meaning, though he has mastered many other śāstras, is not able to know the secret meanings of the Vedic mantras; but only the man who knows the Vedic meaning is able to understand the secret meanings of the mantras, as only the husband can see his own wife in privacy. To make plain the power and capacity of the one who does not know and the one who knows the Vedic meaning, the seer gave the example of husband and wife with जायेव पत्ये (*jāyeva patye*) and so explained the meaning.
+Concerning the word त्वः (*tvaḥ*) Yāska explains as follows:
+त्व इति विनिग्रहार्थीयं सर्वनामानुदात्तं । अर्धनामेके । (*tva iti vinigrahārthīyaṃ sarvanāmānudāttaṃ | ardhanāmeke |*) (Ni. 1-7)
+The word त्वः (*tvaḥ*) is a pronoun indicating contrast. It has the anudātta accent. Some say that this word has the meaning "half".
+निपात इत्येके । तत्कथमनुदात्तप्रकृति नाम स्यात् । दृष्टव्ययंतु भवति । उत त्वं सख्ये स्थिरपीतमाहुः इति द्वितीयायां । उतो त्वस्मै तन्नं १ विसस्रे इति चतुर्थ्या० । अथापि प्रथमा बहुवचने ॥ (*nipāta ityeke | tatkathamanudāttaprakṛti nāma syāt | dṛṣṭavyayaṃtu bhavati | uta tvaṃ sakhye sthirapītamāhuḥ iti dvitīyāyāṃ | uto tvasmai tannaṃ 1 visasre iti caturthyā0 | athāpi prathamā bahuvacane ‖*) (Ni. 1-8)
+Some say this word is an indeclinable. That is not right, for how could a word wholly anudātta be so? Like a noun it takes case and number endings. For example, in the sentence उत त्वं सख्ये स्थिरपीतमाहुः (*uta tvaṃ sakhye sthirapītamāhuḥ*) त्वं (*tvaṃ*) is used in the accusative; in the sentence उतो त्वस्मै तन्वं १ विसस्रे (*uto tvasmai tanvaṃ 1 visasre*) त्वस्मै (*tvasmai*) is used in the dative; and the word is also used in the nominative plural, as seen in the sentence आदघ्नास उपकक्षास उ त्वे (*ādaghnāsa upakakṣāsa u tve*).
+अथापि समुच्चयार्थे भवति । पर्याया इव त्वदाश्विनं । आश्विनं च पर्यायाश्चेति ॥ (*athāpi samuccayārthe bhavati | paryāyā iva tvadāśvinaṃ | āśvinaṃ ca paryāyāśceti ‖*) (Ni. 1-9)
+The word is also used in the sense of conjunction ("and"). For example, in the sentence पर्याया इव त्वदाश्विनं (*paryāyā iva tvadāśvinaṃ*) the word त्वत् (*tvat*) has the meaning "and" (that of च (*ca*)).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वं॑ स॒ख्ये स्थि॒रपी॑तमाहु॒नैर्नं॑ हिन्वं॒त्यपि॒ वाजि॑नेषु ।  
+> अधे॑न्वा चरति मा॒यय्य॒ष वाचं॑ शश्रु॒वा अ॑फ॒लाम॑पु॒ष्पां ॥५॥
+
+### Printed p. 660
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वं । सख्ये । स्थिरपीतं । आहुः । न । एनं । हिन्वंति । अपि । वाजिनेषु ।  
+> अधेन्वा । चरति । मायया । एषः । वाचं । शुश्रुवान् । अफलां । अपुष्पां ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वमुतैकमपि सख्ये विदुषां संसदि । या सत्कथा सा सखिकर्मत्वात्सख्यमित्युच्यते । सा च वाचा क्रियते । अतो वाक्संबंधाद्वाक्सख्ये स्थिरपीतं मधु
+> यस्य हृदये स्थितं भवति । यद्वा । स्थिरपीतं स्थिरप्राप्तिमाहुः । यद्वा । तस्मिञ्जातार्थमाहुः । लोके यता ज्ञातार्थं पुरुषं पीतार्थमिति वदंति । किंचैनं
+> विज्ञातार्थं पुरुषं वाजिनेषु । वागिनेश्वरा येषां ते वाजिना अर्था वाच
+> आयुत्ताः खलु । वाग्जेयेश्वर्थेषु नापि हिन्वंति । अपिशब्दोऽन्वर्थे । केचिदपि
+> नानुगच्छंति । अयमेवातिशयेन विद्वानित्यर्थः । यद्वा । वाजिनेषु सारभूतेषु
+> निरूपणीयेश्वर्थेष्टेनं न हिन्वंति । न वहिः कुर्वंति । एनं पुरस्कृत्यैव सर्वं
+> वेदार्थं विचारयंतीत्यर्थः । इत्यर्थज्ञः प्रशस्तः । अनंतरमुत्तरार्धेन केवलपाठको निंद्यते । एषोऽविज्ञातार्थः पुरुषोऽधेन्वा धेनुत्वविवर्जितया कामानामदोग्धा नेवमनुष्यस्थानेषु वाक्प्रतिरूपया मयया चरति । किं कुर्वन् ।
+> अफलामपुष्पां । वाचोऽर्थः पुष्पफलं । अर्थवर्जितां । यॆद्वा । वाचोऽर्थो
+> याज्ञदैवते। यज्ञे भवं ज्ञानं याज्ञं देवतासु भवं ज्ञानं दैवतं। तद्वर्जितां
+> कर्मादिविषयज्ञानवर्जितां वाचं शुश्रुवाइतवान् । केवलं पाठमात्रेणैव
+> श्रुतवान् स चरति । यथा वंध्या पीना गौः किं द्रोणमात्रं क्षीरं दोग्दीति मायामुत्पादयंती चरति यथा वंध्यो वृक्षोऽकाले पल्लवादियुक्तः सन्पुष्यति फलतीति
+> भ्रांतिमुत्पादयंस्तिष्ठति तथा पाठं प्रब्रुवाणश्चरतीत्यर्थः । अष्टेकं वाक्सख्यॆ स्थिरपीतमित्यादि निरुक्तमनुसंधेयं ॥ नि. १-२० ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains त्वमुतैकमपि (*tvamutaikamapi*): one man in the assembly of the learned. A good discourse is called friendship, because it is the act of a friend, and it is carried out by speech; hence "friendship" here is connected with speech. स्थिरपीतं (*sthirapītaṃ*): he in whose heart the honey has been firmly drunk and stays; or else, they speak of him as one of firm attainment; or else, they call him one who has understood the matter, as in the world a man who has grasped a matter is called one who has "drunk" it. Further, such a man who has understood the matter, in the वाजिनेषु (*vājineṣu*) (matters that are the province of speech, which are controlled by speech), they do not oppose; the word अपि (*api*) has the sense of "not at all": some do not even follow him; the meaning is that he alone is pre-eminently learned. Or else, in वाजिनेषु (*vājineṣu*), the essential matters to be investigated, they do not set him aside: they consider the whole Vedic meaning with him in front. Thus the knower of the meaning is praised. Next the second half censures the mere reciter. This man who has not understood the meaning goes about with a deceit that is the likeness of speech, अधेन्वा (*adhenvā*), devoid of being a milch cow, not milking desires in the places of gods and men. What is he doing? अफलामपुष्पां (*aphalāmapuṣpāṃ*): the meaning of speech is its flower and fruit; he has heard speech devoid of meaning. Or else, the meaning of speech is the sacrificial and the divine: knowledge arising in the sacrifice is याज्ञ (*yājña*), knowledge arising in the deities is दैवत (*daivata*); he has heard speech devoid of that, i.e. of knowledge of ritual and the like, merely by recitation. He goes about like a barren fat cow, creating the illusion that she will give a measure of milk, or a barren tree that stands creating the illusion that it blossoms and bears fruit, though it has shoots out of season; so he goes about declaring the text. Sāyaṇa adds that the Nirukta beginning *apyekaṃ vāksakhyè sthirapītaṃ* is to be consulted (Ni. 1-20).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वं उत (*tvaṃ uta*)—one man
+- सख्ये (*sakhye*)—in the company of the learned
+- स्थिरपीतं (*sthirapītaṃ*)—as one of special knowledge
+- आहुः (*āhuḥ*)—those who know say
+- एनं (*enaṃ*)—such a man
+- वाजिनेषु (*vājineṣu*)—in matters of speech
+- न अपि हिन्वंति (*na api hinvaṃti*)—no one opposes or slights
+- एषः (*eṣaḥ*)—the man without knowledge
+- अधेन्वा (*adhenvā*)—being without sap
+- अफलां (*aphalāṃ*)—fruitless
+- अपुष्पां (*apuṣpāṃ*)—and flowerless
+- वाचं (*vācaṃ*)—speech
+- शुश्रुवान् (*śuśruvān*)—having heard it without meaning, by mere hearing
+- मायया (*māyayā*)—with ignorance
+- चरति (*carati*)—goes about
+
+### Printed p. 661
+
+##### भावार्थ (Bhāvārtha)
+
+The learned call the man who can realise the principle of Speech one of special knowledge in the company of the learned. No one opposes or slights such a man in matters of speech. The man without knowledge, devoid of sap, hears speech that is fruitless and flowerless, merely with the ear and without meaning, and goes about full of ignorance.
+
+##### English translation
+They call one man firmly established in the friendship (of Speech), they do not exelude him from (the society of) the powerful (in knowledge); another wanders with an illusion that is barren, bearing Speech that is without fruit, without flowers.
+
+##### विशेषविषयगळु (Special Topics)
+
+What was said in the previous Ṛk is here explained again more clearly. But in the first half of the Ṛk the praise of the knower of the Vedic meaning is stated, and in the second half the censure of one who is not a knower of the Vedic meaning. Yāska gives the explanation of this Ṛk as follows:
+अप्येकं वाक् सख्ये स्थिरपीतमाहू रममाणं विपीतार्थं देवसख्ये रमणीये स्थान इति वा विज्ञातार्थं यन्नाप्नुवंति वाग्जेयेषु बलवत्स्वपि। अधेन्वा ह्येष चरति मायया वाक्प्रतिरूपया नास्मै कामान्दुग्धे वाग्दोह्यान् देवमानुष्यस्थानेषु यो वाचं श्रुतवान् भवत्यफलामपुष्पामित्यफलास्मा अपुष्पा वाक् भवतीति वा किंचित्पुष्पफलेति वा अर्थं वाचः पुष्पफलमाह । यज्ञदैवते पुष्पफले देवताध्यात्मे वा ॥ (*apyekaṃ vāk sakhye sthirapītamāhū ramamāṇaṃ vipītārthaṃ devasakhye ramaṇīye sthāna iti vā vijñātārthaṃ yannāpnuvaṃti vāgjeyeṣu balavatsvapi| adhenvā hyeṣa carati māyayā vākpratirūpayā nāsmai kāmāndugdhe vāgdohyān devamānuṣyasthāneṣu yo vācaṃ śrutavān bhavatyaphalāmapuṣpāmityaphalāsmā apuṣpā vāk bhavatīti vā kiṃcitpuṣpaphaleti vā arthaṃ vācaḥ puṣpaphalamāha | yajñadaivate puṣpaphale devatādhyātme vā ‖*) (Ni. 1-20)
+उत त्वं सख्ये स्थिरपीतमाहुः (*uta tvaṃ sakhye sthirapītamāhuḥ*)—here the word स्थिरपीतं (*sthirapītaṃ*) means आपीतार्थं (*āpītārthaṃ*), *gṛhītārtham*: one who has taken in the meaning of the Vedic mantras, that is, one who has understood well. They say that such a man who knows the Vedic meaning is on friendly terms with the sentences, that is, the mantras. Those who know say that there is a deep friendship between the knower of the Vedic meaning and the Vedic mantras; and the knower of the Vedic meaning, understanding their meaning, plays with the Vedic mantras in joy, or roams happy-minded in friendship with the deities, or in excellent sacrificial places.
+नैनं हिन्वंति अपि वाजिनेषु (*nainaṃ hinvaṃti api vājineṣu*)—वाजिनेषु (*vājineṣu*) means वाग्ज्ञेयेषु (*vāgjñeyeṣu*): in situations understood or discussed through sentences, that is, in debates and in assemblies of the learned, in critical discussions concerning sacrificial acts and the like or concerning the Self,
+
+### Printed p. 662
+no one can follow, that is, equal, this knower of the Vedic meaning. The meaning is that no one can defeat him by engaging him in debate. This is the intended explanation of the first half of this Ṛk.
+Now in the second half, the man who does not know the Vedic meaning is explained by two comparisons.
+अधेन्वा चरति माययैषः (*adhenvā carati māyayaiṣaḥ*)—the word धेनु (*dhenu*) means a cow that gives milk. Here the meaning is the goddess of Speech who, like a cow, milks, that is, gives, all desired objects. Whatever fruit the goddess of Speech bestows among gods, men and the rest on those who know the meaning of the Vedic mantras (वाचं (*vācaṃ*)), that fruit does not come to one who does not know the Vedic meaning. That is, the goddess of Speech does not give desired objects to him. Such a man goes about merely reciting, मायया (*māyayā*), with an artificial (unreal) pretence, sentences, that is, Vedic mantras, अधेन्वा (*adhenvā*), which like a cow do not yield the desired objects, without any use. How is that?
+वाचं शुश्रुवान् अफलां अपुष्पां (*vācaṃ śuśruvān aphalāṃ apuṣpāṃ*)—this man who merely hears (without meaning) or recites the mantras has no benefit at all from mantras whose meaning he does not know, just as there is no use from a tree that has neither flower nor fruit. Here the words अफलां अपुष्पां (*aphalāṃ apuṣpāṃ*) are adjectives of the word वाचं (*vācaṃ*). वाचं (*vācaṃ*) means the Vedic mantras; what is it for Vedic mantras to have fruit or flowers? It is said: अर्थ० वाचः पुष्पफलमाह । याज्ञ दैवते पुष्पफले, देवताध्यात्मे ना (*artha0 vācaḥ puṣpaphalamāha | yājña daivate puṣpaphale, devatādhyātme nā*). For the words, that is, the Vedic mantras, the meaning itself is said to be the flowers and fruit. Or else the performance of the sacrificial act and the favour of the deity are said to be the flowers and fruit. On a tree the flower first sprouts and gradually becomes the fruit; likewise, when the sacrifice is first performed with meaningful Vedic mantras, it is in the form of a flower and turns into the fruit that is the favour of the deity: this is the intention. Or else knowledge of the Self is also said to be the flowers and fruit. From knowledge of the Vedic meaning arises knowledge of the Self. Here, to one who merely recites the Vedic mantras without meaning, the goddess of Speech (that is, the Vedic mantra) gives no desired object; and he, obtaining no flowers or fruits that should come from knowledge of the Vedic meaning (success of rites or excellent knowledge), goes about in vain. Or else the fruits he obtains, that is, the one who does not know the Vedic meaning, are very small. This is the intention of the explanation.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ति॒त्याज॑ सचि॒विदं॒ सखा॑यं॒ न तस्य॑ वा॒च्यपि॑ भा॒गो अ॑स्ति ।
+
+### Printed p. 663
+
+> यदीं शृणोत्यलकं शृणोति नहि प्रवेद सुकृतस्य पंथां ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । तित्याज । सचिविदं । सखायं । न । तस्य । वाचि । अपि । भागः । अस्ति ।  
+> यत् । ईं । शृणोति । अलकं । शृणोति । नहि । प्रवेद । सुकृतस्य । पंथां ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सचिविदं । शचिशब्दः सखिवाची । सखिविदं । योऽध्येता स वेदस्य सखा संपदायोच्छेदनिवारकत्वेन वेदं प्रत्युपकारित्वात् । तादृशमुपकारिणमध्येतारं वेत्तीति
+> सचिवित् । तमभिज्ञं सखायमध्येतृणां पुरुषाणां सार्थबोधनेनोपकारित्वात्सखिभूतं वेदं यः पुमांस्तित्याज परार्थविनियोगेन परित्यजति ॥ त्यजतेर्लिट्यपस्पृधेथामानृचुरित्यादिना निपातितः ॥ तस्य पुरुषस्य वाचि सर्वस्यां लौकिक्यां शास्त्रीयायां वाच्यपि भागो भजनीयः कश्चिदर्थो नास्ति । ईमयं पुरुषो यद्वेदव्यतिरिक्तं शृणोति तदलकमलीकं व्यर्थमेव शृणोति । हि यस्मात्कारणात्सुकृतस्य
+> पंथां पंथानं न प्रवेद । श्रद्धाराहित्यादनुष्ठानमार्गं न जानाति । तस्मात्तदीयश्रवणमपि निष्फलमित्यर्थः । द्वितीयचतुर्थपादयोरभिप्राय आरण्यके दर्शितो न
+> तस्यानूक्ते भागोऽस्तीत्यादिना । ऐ. आ. ३-२-४ । तथा तं योनूत्सृजत्यभागो वाचि
+> भवत्यभागो नाके तदेषाभ्युक्ता । तै- आ. २-१५-५ । इत्यध्वर्युभिश्च ॥
+
+##### Gist of the bhāṣya
+
+सचिविदं (*sacividaṃ*): the word सचि (*saci*) means friend; so "one who knows a friend". He who studies is the friend of the Veda, because by preventing the interruption of the tradition he does it a service. The one who knows such a benefactor, the student, is सचिवित् (*sacivit*). The man who abandons (तित्याज (*tityāja*)) that knowing friend, the Veda, which is a friend to students by teaching them the meaning, by applying it to another's purpose, has no share, no part to be enjoyed, वाचि (*vāci*), in all speech, worldly and scriptural. Whatever this man hears apart from the Veda, he hears as अलकं (*alakaṃ*), false, in vain. For he does not know the path of the well-doer (सुकृतस्य पंथां (*sukṛtasya paṃthāṃ*)): lacking faith, he does not know the way of performance; hence his hearing too is fruitless. The sense of the second and fourth pādas is shown in the Āraṇyaka by *na tasyānūkte bhāgo 'sti* and so on (Ai. Ā. 3-2-4); likewise by the Adhvaryus: तं योनूत्सृजत्यभागो वाचि भवत्यभागो नाके तदेषाभ्युक्ता (*taṃ yonūtsṛjatyabhāgo vāci bhavatyabhāgo nāke tadeṣābhyuktā*) (Tai. Ā. 2-15-5).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सचिविदं (*sacividaṃ*)—one who knows the value of a friend, that is, the value of speech in the form of a friend
+- सखायं (*sakhāyaṃ*)—the man who is a friend to the Vedic mantras
+- यः (*yaḥ*)—the man who
+- तित्याज (*tityāja*)—abandons (neglects)
+- तस्य (*tasya*)—of that man
+- वाचि (*vāci*)—in speech (in conduct)
+- भागः (*bhāgaḥ*)—any honourable part
+- न अस्ति (*na asti*)—there is not
+- ईं (*īṃ*)—this man
+- यत् (*yat*)—whatever speech
+- शृणोति (*śṛṇoti*)—he hears
+- अलीकं (*alīkaṃ*)—falsely (uselessly)
+- शृणोति (*śṛṇoti*)—he hears
+- हि (*hi*)—because
+- सुकृतस्य (*sukṛtasya*)—of those whose deeds are good
+- पंथां (*paṃthāṃ*)—the path
+- न प्रवेद (*na praveda*)—he does not know
+
+##### भावार्थ (Bhāvārtha)
+
+In the conduct of the man who abandons the man who knows the value of speech in the form of a friend, the friend of the Vedic mantras, there is no honourable or true part. Whatever speech this man hears, hearing it is of no use to him. Since he does not know the path of those whose deeds are good, it is in vain.
+
 ---
 
-**Progress note:** Done through printed p. 657. pp. 652-657 (batch API)
+**Progress note:** Done through printed p. 663. pp. 658-663 (batch API)
