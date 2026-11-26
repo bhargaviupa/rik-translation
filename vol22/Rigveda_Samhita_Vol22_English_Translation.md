@@ -2901,6 +2901,283 @@ Indra is lord of the earth and of men : (his is) the various wealth that exists 
 > नु । चित् । नः । इंद्रः । मघवा । सहूती । दानः । वाजं । नि । यमते । न । ऊती ।  
 > अनूना । यस्य । दक्षिणा । पीपाय । वामं । नृभ्यः । अभिवीता । सखिभ्यः ॥ ४ ॥
 
+### Printed p. 67
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मघवा धनवान् दानो ददानः स इंद्रो नोऽस्माकं सहूती सहूत्या मरुद्भिः सहाह्वानेन वाजमन्नं नोऽस्मभ्यमूत्यै रक्षायै नू चित् क्षिप्रमेव नि यमते । प्रयच्छतु । यस्येंद्रस्यानूना संपूर्णाभिवीताभिप्राप्ता दक्षिणा दानं सखिभ्यः स्तोतृभ्यो नृभ्यो वामं वननीयं धनं पीपाय दोग्धि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Let that Indra, the wealthy (मघवा (*maghavā*)) and giving (दानो (*dāno*)), who is invoked together (सहूती (*sahūtī*), that is, together with the Maruts), bestow upon us food (वाजमन्नं (*vājamannaṃ*)) quickly (नू चित् (*nū cit*)) for our protection; let him give it (नि यमते (*ni yamate*)). His gift (दक्षिणा (*dakṣiṇā*)) is full (अनूना (*anūnā*)) and has reached (अभिवीता (*abhivītā*)) all; it yields (पीपाय (*pīpāya*), "milks out") to his friends (सखिभ्यः (*sakhibhyaḥ*)), the praising men (नृभ्यः (*nṛbhyaḥ*)), desirable (वामं (*vāmaṃ*)) wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Indra
+- अनूना (*anūnā*)—which is complete
+- अभिवीता (*abhivītā*)—and fit for our enjoyment
+- दक्षिणा (*dakṣiṇā*)—the gift
+- सखिभ्यः (*sakhibhyaḥ*)—to the praising
+- नृभ्यः (*nṛbhyaḥ*)—men
+- वामं (*vāmaṃ*)—the desired wealth
+- पीपाय (*pīpāya*)—calls forth and gives (such)
+- मघवा (*maghavā*)—wealthy
+- दानः (*dānaḥ*)—and a liberal giver
+- इंद्रः (*iṃdraḥ*)—Indra
+- नः (*naḥ*)—our
+- ऊती (*ūtī*)—for protection
+- नः (*naḥ*)—to us
+- वाजं (*vājaṃ*)—food
+- सहूती (*sahūtī*)—accompanied by the Maruts
+- नू चित् (*nū cit*)—quickly
+- नि यमते (*ni yamate*)—let him cause to be given
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra, the wealthy and liberal giver, whose complete gift, fit for our enjoyment, calls forth and gives the desired wealth to the praising men, accompanied by the Maruts, quickly cause food to be given to us for our protection.
+
+##### English translation
+May the affluent and liberal Indra, upon being invoked together (with the Maruts), quickly bestow food for our preservation, he whose unlimited, experienced liberality yields desirable (wealth) to those men (who are his) friends.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू इं॑द्र रा॒ये वरि॑वस्कृधी न॒ आ ते॒ मनो॑ ववृत्याम म॒घाय॑ ।  
+> गोम॒दश्वा॑व॒द्रथ॑व॒द्व्यंतो॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । इंद्र । राये । वरिवः । कृधि । नः । आ । ते । मनः । ववृत्याम । मघाय ।  
+> गोमत् । अश्वऽवत् । रथवत् । व्यंतः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥
+
+### Printed p. 68
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र नोऽस्मभ्यं राये धनप्राप्तये नु क्षिप्रं वरिवो धनं । वेदो वरिव इति धननामसु पाठात् । त्वं कृधि । धेहि । वयं ते तव मनो मघाय मंहनीयायै स्तुत्या आ ववृत्याम । आवर्तयाम । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, make wealth (वरिवो (*varivo*), read among the names of wealth) quickly for us, for the obtaining of riches (राये (*rāye*)). We turn (आ ववृत्याम (*ā vavṛtyāma*)) your mind toward us with an honourable (मघाय (*maghāya*)) praise. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नः (*naḥ*)—for us
+- राये (*rāye*)—for the increase of wealth
+- नु (*nu*)—quickly
+- वरिवः (*varivaḥ*)—wealth
+- कृधि (*kṛdhi*)—produce
+- वयं (*vayaṃ*)—we
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- मघाय (*maghāya*)—with honourable praise
+- आ ववृत्याम (*ā vavṛtyāma*)—shall turn toward us
+- गोमत् (*gomat*)—accompanied by cows
+- अश्ववत् (*aśvavat*)—provided with horses
+- रथवत् (*rathavat*)—provided with chariots
+- व्यंतः (*vyaṃtaḥ*)—giving to us wealth of this kind (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, quickly produce wealth for us, for the increase of our riches. We shall turn your mind toward us with honourable praises. Giving us wealth accompanied by cows, provided with horses and provided with chariots, O Indra and the other gods, always protect us with blessings.
+
+##### English translation
+Indra, grant quickly wealth for our enrichment : may we attract your favour by our adoration : granting as (riches), comprising cattle, and horses, and chariots : ever cherish us with blessings.
+
+## Sūkta 28 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्माण इंद्रेति पंचर्चमेकादशं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं । ब्रह्माण इत्यनुक्रांतं ॥ महाव्रते निष्केवल्ये पंचमत्वेनास्य सूक्तस्य विनियोग उक्तः ॥अश्वमेधेऽहनि प्रउगशस्त्रे आद्यस्तृच ऐंद्रः । आ. ८-१० । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sūkta of five Ṛks beginning ब्रह्माण इंद्र (*brahmāṇa iṃdra*) is the eleventh sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra. The Anukramaṇī records it with ब्रह्माण (*brahmāṇa*). In the Mahāvrata, at the niṣkevalya recitation, the use of this sūkta is stated as the fifth. In the Aśvamedha, on the day of the Praüga-śastra, the first three Ṛks form the Indra triplet: प्रउगशस्त्रे आद्यस्तृच ऐंद्रः (*praugaśastre ādyastṛca aiṃdraḥ*) (Ā. Sū. 8-10).
+
+The sūkta ब्रह्माण इंद्र (*brahmāṇa iṃdra*) is the eleventh sūkta in the second anuvāka. It has five Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated as ब्रह्माणः (*brahmāṇaḥ*). Its application has been stated: at the Mahāvrata, at the time of the niṣkevalya recitation, this sūkta is to be recited as the fifth sūkta. And on the eighth day of the sacrifice, in the recitation of the Praüga-śastra mantras, the first three Ṛks of this sūkta are to be recited as the triplet addressed to Indra, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra (Ā. Sū. 8-10).
+
+### Printed p. 69
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्मा॑ण इं॒द्रोप॑ याहि वि॒द्वान॒र्वांच॑स्ते॒ हर॑यो संतु यु॒क्ताः ।  
+> विश्वे॑ चि॒द्धि त्वा॑ वि॒हवं॑त॒ मर्ता॑ अ॒स्माक॒मिच्छृ॑णुहि विश्वमिन्व ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्मा । नः । इंद्र । उप । याहि । विद्वान् । अर्वांचः । ते । हरयः । संतु । युक्ताः ।  
+> विश्वे । चित् । हि । त्वा । विऽहवंत । मर्ताः । अस्माकं । इत् । शृणुहि । विश्वम्ऽइन्व ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं विद्वांज्ञानन्नोऽस्माकं ब्रह्म स्तोत्रमुप याहि । ते तव हरयोऽश्वाश्चार्वांचोऽस्मदभिमुखा युक्ताः संतु । हे विश्वमिन्व विश्वप्रीणयितरिंद्र त्वां विश्वे सर्वे मर्ता मनुष्याश्चिद्धि यद्यपि विहवंते पृथग्ध्वंते तथाप्यस्माकमिदमस्माकमेव हवं शृणुहि । शृणु ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, being all-knowing (विद्वांज्ञानन् (*vidvāṃjñānan*)), come (उप याहि (*upa yāhi*)) to our hymn of praise (ब्रह्म (*brahma*)). Let your horses (हरयः (*harayaḥ*)) be harnessed (युक्ताः (*yuktāḥ*)) and turned (अर्वांचः (*arvāṃcaḥ*)) toward us. O Indra, gratifier of all (विश्वमिन्व (*viśvaminva*)), although all mortals (मर्ताः (*martāḥ*)) invoke (विहवंते (*vihavaṃte*)) you each separately, nevertheless hear (शृणुहि (*śṛṇuhi*)) this invocation of ours alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- विद्वान् (*vidvān*)—knowing all
+- नः (*naḥ*)—our
+- ब्रह्म (*brahma*)—having regard to the hymn of praise
+- उप याहि (*upa yāhi*)—be gracious
+- ते (*te*)—your
+- हरयः (*harayaḥ*)—horses
+- अर्वांचः (*arvāṃcaḥ*)—so as to come toward us
+- युक्ताः (*yuktāḥ*)—harnessed to the chariot
+- संतु (*saṃtu*)—let them be
+- विश्वमिन्व (*viśvaminva*)—O Indra, beloved of all
+- त्वा चित् (*tvā cit*)—you alone
+- विश्वे (*viśve*)—all
+- मर्ताः (*martāḥ*)—men
+- विहवंत हि (*vihavaṃta hi*)—call upon each separately, do they not? (even so)
+- अस्माकं इत् (*asmākaṃ it*)—our praise alone
+- शृणुहि (*śṛṇuhi*)—hear
+
+### Printed p. 70
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who know all, be gracious, having regard to our praise. Let your horses also be harnessed to the chariot so as to come toward us. O Indra, beloved of all, all men call upon you alone, each separately, for help, do they not? Even so, hear our praise alone.
+
+##### English translation
+Iadra, who are wise, come to our adoration : let your horses harnessed be before us : gratified of all (men) all mortals severally invoke you : hear therefore our (invocation),
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हवं॑ त इंद्र महि॒मा व्या॑न॒ड्ब्रह्म॒ यत्पासि॑ शवसि॒न्नृषी॑णां ।  
+> आ यद्वज्रं॑ दधि॒षे हस्त॑ उग्र घो॒रः सन्क्रत्वा॑ जनिष्ठा॒ अषा॑ळ्हः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हवं । ते । इंद्र । महिमा । वि । आनट् । ब्रह्म । यत् । पासि । शवसिन् । ऋषीणां ।  
+> आ । यत् । वज्रं । दधिषे । हस्ते । उग्र । घोरः । सन् । क्रत्वा । जनिष्ठाः । अषाळ्हः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसिन् बलवन्निंद्र यद्यदा ऋषीणां ब्रह्म स्तोत्रं पासि रक्षसि । स्तोत्रस्य रक्षणं नाम फलप्रदानं । तदा ते तव महिमा हवं । हवः स्तोता । तं व्यानट् । व्याप्नोतु । हे उग्रौजस्विन्निंद्र यद्यदा हस्ते पाणौ वज्रमा दधिषे धारयसि तदा क्रत्वा शत्रुवधादिना कर्मणा घोरः सन्नषाळ्हः शत्रुभिरनभिभूतो जनिष्ठाः । अजनिष्ठाः । अभवः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O mighty (शवसिन् (*śavasin*)) Indra, when you protect (पासि (*pāsi*)) the hymn of praise (ब्रह्म (*brahma*)) of the seers (ऋषीणां (*ṛṣīṇāṃ*)), protecting a hymn meaning the granting of its fruit, then your greatness (महिमा (*mahimā*)) reaches (व्यानट् (*vyānaṭ*)) the invoker (हवं (*havaṃ*), that is, the praiser). O fierce (उग्र (*ugra*)) Indra, when you hold (आ दधिषे (*ā dadhiṣe*)) the thunderbolt (वज्रं (*vajraṃ*)) in your hand (हस्ते (*haste*)), then, by your deeds (क्रत्वा (*kratvā*)) such as the slaying of enemies, you become (जनिष्ठाः (*janiṣṭhāḥ*)) terrible (घोरः (*ghoraḥ*)) and unconquered (अषाळ्हः (*aṣāḷhaḥ*)) by foes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसिन् (*śavasin*)—you who are possessed of strength
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—when
+- ऋषीणां (*ṛṣīṇāṃ*)—of the seers
+- ब्रह्म (*brahma*)—the hymns of praise
+- पासि (*pāsi*)—you honour by granting their fruit, then
+- ते (*te*)—your
+- महिमा (*mahimā*)—greatness
+- हवं (*havaṃ*)—the praiser
+- व्यानट् (*vyānaṭ*)—reaches
+- उग्र (*ugra*)—O Indra, of fierce power
+- यत् (*yat*)—when
+- हस्ते (*haste*)—in the hand
+- वज्रं (*vajraṃ*)—the thunderbolt
+- आ दधिषे (*ā dadhiṣe*)—you bear, then
+- क्रत्वा (*kratvā*)—by deeds such as the slaying of Vṛtra
+- घोरः सन् (*ghoraḥ san*)—being terrible
+- अषाळ्हः (*aṣāḷhaḥ*)—and unassailed by foes
+- जनिष्ठाः (*janiṣṭhāḥ*)—you become
+
+### Printed p. 71
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty Indra, when you grant the reward of the praises of the seers and so protect them, then your greatness reaches also the praiser. O Indra of fierce power, when you bear the thunderbolt in your hand, then, by deeds such as the slaying of Vṛtra, you become terrible and unassailed by foes.
+
+##### English translation
+Endowed with strength, since you grant the prayers of the Rishis, let your greatness, Indra, extend to your invoker : and as, fierce deity, you hold the thunderbolt in your hand, then formidable by your exploits you have become invincible.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ प्रणी॑तींद्र॒ जोहु॑वाना॒न्सं यन्नृन्न रोद॑सी नि॒नेथ॑ ।  
+> म॒हे क्ष॒त्राय॒ शव॑से॒ हि ज॒ज्ञे अतू॑तुजिं चि॒त्तूतु॑जिरशिश्नत् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । प्रनीती । इंद्र । जोहुवानान् । सं । यत् । नृन् । न । रोदसी इति । निनेथ ।  
+> महे । क्षत्राय । शवसे । हि । जज्ञे । अतूतुजिं । चित् । तूतुजिः । अशिश्नत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र यद्यस्त्वं तव प्रणीती प्रणेत्र्या प्रणयनेन जोहुवानान् भृशं
+> स्तुवतो नृन् रोदसी द्यावापृथिव्यौ सं निनेथ संगमयसि । दिवि पृथिव्यां च
+> स्तोतॄन् प्रतिष्ठापयसीत्यर्थः । स त्वं महे महते क्षत्राय धनाय । रयिः
+> क्षत्रमिति धननामसु पाठात् । शवसे बलाय च । यजमानेभ्यो महद्धनं बलं च
+> धातुमित्यर्थः । जज्ञे । जज्ञिषे । हीति हेत्वर्थे । यत एवमतः कारणादतूतुजिमदातारमयजमानं तूतुजिर्दाता यजमानोऽशिश्नत् ॥ श्नथतिर्हिंसाकर्मा । तस्माल्लडर्थे लुङ् ॥ हिनस्ति । चिदित्येवकारार्थे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, when by your leading (प्रणीती (*praṇītī*)) you bring together (सं निनेथ (*saṃ ninetha*)) the men (नृन् (*nṛn*)) who praise you vehemently (जोहुवानान् (*johuvānān*)) with the two worlds (रोदसी (*rodasī*)), heaven and earth, that is, you establish the praisers in heaven and on earth, then you are born (जज्ञे (*jajñe*)) for great (महे (*mahe*)) wealth (क्षत्राय (*kṣatrāya*), read among the names of wealth) and for strength (शवसे (*śavase*)), that is, to bestow great wealth and strength on the sacrificers. Since this is so, the giver (तूतुजिर्दाता (*tūtujirdātā*)), the sacrificer, harms (अशिश्नत् (*aśiśnat*)) the non-giver (अतूतुजिं (*atūtujiṃ*)), the one who does not sacrifice. The word चित् (*cit*) is in the sense of emphasis.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—you who
+- तव (*tava*)—to you
+- प्रणीती (*praṇītī*)—with humility
+- जोहुवानान् (*johuvānān*)—who offer praise
+- नृन् (*nṛn*)—the men
+- रोदसी (*rodasī*)—throughout the space between heaven and earth
+- सं निनेथ (*saṃ ninetha*)—cause to move about (such are you)
+- महे (*mahe*)—great
+
+### Printed p. 72
+
+- क्षत्राय (*kṣatrāya*)—for the giving of wealth
+- तवसे (*tavase*)—for the giving of strength
+- जज्ञे हि (*jajñe hi*)—you are ready (by that power)
+- तूकुजिः (*tūkujiḥ*)—the giver of oblations and the like
+- अतूकुजिं (*atūkujiṃ*)—the non-giver
+- अशित्नत् चित् (*aśitnat cit*)—does he not harm
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who cause the men who offer you praise with humility to move about throughout the space between heaven and earth, such as you are ready to give great wealth and strength, and know how to give them. By that power the giver of oblations and the like is able to harm the non-giver, the miser.
+
+##### English translation
+Since, Indra, by your guidance, you have conducted men, your zealous worshippers, over heaven and earth, you are born to (bestow) great wealth and sttength, whence the presenter of offerings overcomes him who offers them not.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒भिर्न॑ इं॒द्राह॑भिर्दशस्य दुर्मि॒त्रासो॒ हि क्षि॒तयः॒ पवं॑ते ।  
+> प्रति॒ यच्चष्टे॒ अनृ॑तमने॒ना अव॑ द्वि॒ता वरु॑णो मा॒यी नः॑ सात्
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एभिः । नः । इंद्र । अहभिः । दशस्य । दुःमित्रासः । हि । क्षितयः । पवंते ।  
+> प्रति । यत् । चष्टे । अनृतं । अनेनाः । अव । द्विता । वरुणः । मायी । नः । सात् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र दुर्मित्रासो दुष्टमित्रभूता बाधकाः क्षितयो जनाः पवंते । अभिगच्छंति । पवतिर्गतिकर्मा । केभ्यो धनमाहृत्य नोऽस्मभ्यमेभिः सात्र्यैरहभिरहोभिर्दशस्य । देहि । किंचानेना एनसां निहंता मायी प्रज्ञावान् वरुणो यदनृतं नोऽस्मासु प्रति चष्टे अभिपश्यति तदनृतं हे इंद्र त्वत्प्रसादाद्द्विता द्विधाव सात् । अवस्यतु । विमोचयतु । तथा च यास्कः । स्तृतिरपस्कृत्यो विमोचते । वि. १-१६ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, hostile (दुर्मित्रासो (*durmitrāso*)) and harassing people (क्षितयो (*kṣitayo*)) approach (पवंते (*pavaṃte*), the root पवतिर्गतिकर्मा (*pavatirgatikarmā*) denoting motion). Give (दशस्य (*daśasya*)) us wealth in these days (अहभिः (*ahabhiḥ*)).**NOTE**
+Moreover, whatever untruth (अनृतं (*anṛtaṃ*)) Varuṇa (वरुणो (*varuṇo*)), the destroyer of offences (अनेना (*anenā*)) and possessed of wisdom (मायी (*māyī*)), sees (चष्टे (*caṣṭe*)) in us, that untruth, O Indra, by your favour, may he release (सात् (*sāt*)) in two ways (द्विता (*dvitā*)). So also Yāska: स्तृतिरपस्कृत्यो विमोचते (*stṛtirapaskṛtyo vimocate*) (Vi. 1-16).**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 66. VII.26.4-5, Sukta 27 Rks 1-4 (pp. 61-66)
+**Progress note:** Done through printed p. 72. VII.27.4-5, Sukta 28 Rks 1-4 (pp. 67-72)
