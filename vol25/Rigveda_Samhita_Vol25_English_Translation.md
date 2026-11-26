@@ -14829,6 +14829,221 @@ Rejoicing (in our oblations), bring us wealth a thousandfold; remember that you 
 
 पत्नीवंतः (*patnīvaṃtaḥ*): for the sprinkling of Soma, the पत्न्यः (*patnyaḥ*) are the protecting waters, the dwelling waters वसतीवर्य (*vasatīvarya*) and the एकधना (*ekadhanā*) waters. These Soma-juices pressed by us, possessed of them, standing in the cups and in the ladles, desiring their own drinking, go to Indra; for what purpose: वीतये (*vītaye*), in order to be drunk. Moreover, निचुंपुणः (*nicuṃpuṇaḥ*): Yāska says निचांतपृणः (*nicāṃtapṛṇaḥ*) (Ni. 5. 17). The root चमु (*camu*) is in the sense of eating; निचांत (*nicāṃta*) is eaten, पृणः (*pṛṇaḥ*) is the one who satisfies; or else, निचमनेन प्रीणाति (*nicamanena prīṇāti*), that is, it satisfies by being eaten, hence निचुंपुणः (*nicuṃpuṇaḥ*). Since it is not possible to throw the pressed Soma into the waters, by implication the Soma in the form of the residue ऋजीष (*ṛjīṣa*) is meant. Such a Soma is अपां जग्मिः (*apāṃ jagmiḥ*), that is, it goes to the waters; or else it goes into the midst of the waters or towards the waters, going or well-going. And the Soma goes to Indra. At the time of the Avabhṛtha, they throw the residue into the waters, according to the text; therefore the Soma in the form of the residue is thrown into the waters. This is why he says अपां जग्मिः (*apāṃ jagmiḥ*).
 
+### Printed p. 380
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पत्नीवंतः (*patnīvaṃtaḥ*)—mixed with the water that is in the vessels called Vasatīvarī and Ekadhanā
+- सुताः (*sutāḥ*)—just pressed
+- इमो (*imo*)—these Soma-juices filled in the Graha and Camasa vessels
+- उशंत (*uśaṃta*)—desiring to be drunk by Indra
+- वीतये (*vītaye*)—for the sake of drinking
+- यंति (*yaṃti*)—they join Indra
+- निचुंपुणः (*nicuṃpuṇaḥ*)—that which brings satisfaction by eating, that is, by drinking
+- अपां जग्मिः (*apāṃ jagmiḥ*)—the Soma-juice that is pressed out again from the Ṛjīṣa soaked in water goes to Indra himself and joins him, for his drinking
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices, mixed with the water that stands in the vessels called Vasatīvarī and Ekadhanā and just pressed, are made ready for Indra's drinking and join him alone. That is, Indra drinks that very Soma. And the Soma-juice that brings satisfaction by being drunk, pressed out once more from the pressed Soma-stalks called Ṛjīṣa soaked in water, is likewise offered to Indra alone.
+
+##### English translation
+These Soma-libations with their wives proceed (to Indra) longing to be drunk ; the stale Soma, pleasing to the taste, goes to the waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+Explaining two or three kinds of meaning for the word निचुंपुणः (*nicuṃpuṇaḥ*) in this Ṛk, Yāska has given the etymology—
+निचुंपुणः । निचुंपुणः सोमो निचांतपृणो निचमनेन प्रीणाति । (*nicuṃpuṇaḥ | nicuṃpuṇaḥ somo nicāṃtapṛṇo nicamanena prīṇāti |*)
+पत्नीवंतः सुता इम उशंतो यंति वीतये । अपां जग्मिर्निचुंपुणः । (*patnīvaṃtaḥ sutā ima uśaṃto yaṃti vītaye | apāṃ jagmirnicuṃpuṇaḥ |*)
+पत्नीवंतः सुता इमोऽद्भिः सोमाः कामयमाना यंति वीतये पानायापां गंता निचुंपुणः ॥ (*patnīvaṃtaḥ sutā imo 'dbhiḥ somāḥ kāmayamānā yaṃti vītaye pānāyāpāṃ gaṃtā nicuṃpuṇaḥ ‖*)
+(Ni. 5-18)
+Nicuṃpuṇa means Soma, an intoxicating food. For when this (Soma) is drunk mixed with water, intoxication or joy arises. Therefore the Soma has the name
+
+### Printed p. 381
+
+निचुंपुण (*nicuṃpuṇa*). These pressed Soma-juices, mixed with the water that helps them, approach with eagerness those who drink, in order to be drunk. That is, those who drink Soma drink with eagerness the Soma-juice mixed with water (the water of the vessel called Vasatīvarī). Here the word पत्नीवंतः (*patnīvaṃtaḥ*) means पत्नीभिः अद्भिः तद्वंतः (*patnībhiḥ adbhiḥ tadvaṃtaḥ*), that is, mixed with water. Therefore the Soma-juice mixed with water has the name निचुंपुण (*nicuṃpuṇa*).
+समुद्रोऽपि निचुंपुण उच्यते । निचमनेन पूर्यते ॥ (*samudro 'pi nicuṃpuṇa ucyate | nicamanena pūryate ‖*)
+निचुंपुण (*nicuṃpuṇa*) means also the ocean. For the ocean also is called निचुंपुण (*nicuṃpuṇa*) because it is filled with water.
+अवभृथोऽपि निचुंपुण उच्यते नीचैरस्मिन् क्वणंति नीचैर्दधतीति वा । आवभृथ निचुंपुण इत्यपि निगमो भवति । निचुंपुण निचुंकुणेति ॥ (*avabhṛtho 'pi nicuṃpuṇa ucyate nīcairasmin kvaṇaṃti nīcairdadhatīti vā | āvabhṛtha nicuṃpuṇa ityapi nigamo bhavati | nicuṃpuṇa nicuṃkuṇeti ‖*)
+(Ni. 5-18)
+The Avabhṛtha, the rite of the last day of the sacrifice, is also called निचुंपुण (*nicuṃpuṇa*). For in the rite of that day they recite the mantras and the like नीचैरस्मिन् क्वणंति (*nīcairasmin kvaṇaṃti*), very softly, in a low voice; or नीचैर्दधतीति वा (*nīcairdadhatīti vā*), that is, the sacrificial vessels are carried away by lowly persons, that is, by servants, attendants and the like; therefore the Avabhṛtha has the name निचुंपुण (*nicuṃpuṇa*). In some places the word निचुंकुण (*nicuṃkuṇa*) is used. This word also has the same meaning; that is, these two words निचुंपुण (*nicuṃpuṇa*) and निचुंकुण (*nicuṃkuṇa*) are synonyms. अवभृथ निचुंपुण नीचेरुशसि निचुंकुण (*avabhṛtha nicuṃpuṇa nīceruśasi nicuṃkuṇa*) is the example of a Vedic sentence in this matter.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ष्टा होत्रा॑ असृक्ष॒तेंद्रं॑ वृ॒धासो॑ अध्व॒रे ।  
+> अच्छा॑वभृ॒थमोज॑सा ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इष्टाः । होत्राः । असृक्षत । इंद्रम् । वृधासः । अध्वरे ।  
+> अच्छ । अवऽभृथम् । ओजसा ॥ २३ ॥
+
+### Printed p. 382
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपां जग्मिरिति सामर्थ्यादवभृथदिन एव ---- र - वि- जः कुर्वंतीत्युक्तम् । तत्प्रसंगादाह । अध्वरे अस्मदीये यज्ञे वृधासः हविर्भिरिंद्रं वर्धयंतः इष्टाः इष्टवंतो यागं कृतवंतः सप्तसंख्याकाः होत्राः होत्रकाः अवभृथम् अंत्यदिवसम् अच्छ प्रति ओजसा स्वतेजसा सहिताः इंद्रम् असृक्षत विसृजंति । यावदवभृथं सप्तहोत्रका यजंतीति ॥
+
+##### Gist of the bhāṣya
+
+Since अपां जग्मिः (*apāṃ jagmiḥ*) by implication points to the day of the Avabhṛtha itself, it has been said that the priests perform the rite on that day; the damaged words of the text at this place cannot be construed. **NOTE**. Taking up this topic he says: अध्वरे (*adhvare*), in our sacrifice, the होत्राः (*hotrāḥ*), that is, the Hotṛ priests, seven in number, who वृधासः (*vṛdhāsaḥ*), strengthen Indra with oblations, and who are इष्टाः (*iṣṭāḥ*), that is, have performed the sacrifice, accompanied by their own ओजसा (*ojasā*), that is, their own brilliance, असृक्षत (*asṛkṣata*), dismiss Indra, अवभृथम् (*avabhṛtham*), the Avabhṛtha, that is, अंत्यदिवसम् (*aṃtyadivasam*), the last day, अच्छ (*accha*), towards it. For the seven Hotṛ priests sacrifice until the Avabhṛtha.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध्वरे (*adhvare*)—in the sacrifice that we are performing
+- वृधासः (*vṛdhāsaḥ*)—those who make Indra grow by oblations and the like
+- इष्टाः (*iṣṭāḥ*)—who are carrying out the sacrificial work
+- होत्राः (*hotrāḥ*)—the seven priests of the Hotṛ group
+- अवभृथं (*avabhṛthaṃ*)—the Avabhṛtha rite to be performed on the last day of the sacrifice
+- अच्छ (*accha*)—having in view
+- ओजसा (*ojasā*)—together with their brilliance
+- इंद्रं (*iṃdraṃ*)—Indra
+- असृक्षत (*asṛkṣata*)—dismissed, to go to his own place
+
+##### भावार्थ (Bhāvārtha)
+
+In this sacrifice that we are performing, the seven priests of the Hotṛ group, who satisfy Indra by offering oblations and the like and who take part in the sacrificial work, together with their brilliance, dismissed Indra to his own place at the time of the Avabhṛtha, the last day of the sacrifice, that is, when the sacrifice was completed.
+
+##### English translation
+The sacrificing priests, invigorating (Indra) by their offerings at the sacrifice, have by their might dismissed him at the Avabritha.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ह त्या स॑ध॒माद्या॒ हरी॒ हिर॑ण्यकेश्या ।  
+> वो॒ळ्हाम॒भि प्रयो॑ हि॒तम् ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इह । त्या । सधऽमाद्या । हरी इति । हिरण्यऽकेश्या ।  
+> वोळ्हाम् । अभि । प्रयः । हितम् ॥ २४ ॥
+
+### Printed p. 383
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषा व्याख्याता (ऋ. सं. ८. ३२. २९ ) । अत्रापि वाक्यार्थो विधीयते । सधमाद्या इंद्रेण सह हविर्भिस्तर्पयितव्यौ यद्वा संग्रामे सह माद्यंतौ हिरण्यकेश्या हिरण्मयस्कंधगतकेशवंतौ त्या तौ प्रसिद्धौ हरी हरितवर्णावेतन्नामकावश्वौ इह अस्मिन् यज्ञे हितं - - वादिषु निहितं हितकरं वा प्रयः हवीरूपमन्नमभिलक्ष्य वोळ्हाम् इंद्रं वहताम् । प्रापयतामिति ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk has been explained (Ṛ. Saṃ. 8. 32. 29). Here too the sense of the sentence is set out. The two horses named Hari, of green colour, famous, सधमाद्या (*sadhamādyā*), to be satisfied with oblations together with Indra, or rejoicing together in battle, हिरण्यकेश्या (*hiraṇyakeśyā*), having manes on their shoulders that are of gold, are asked to carry Indra, that is, to bring him, इह (*iha*), to this sacrifice, अभि (*abhi*), with a view to the प्रयः (*prayaḥ*), the food in the form of the oblation, which is हितं (*hitaṃ*), beneficial, or placed (the text is broken at this place) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्या (*tyā*)—the famous ones
+- सधमाद्या (*sadhamādyā*)—those that are always happy together
+- हिरण्यकेश्या (*hiraṇyakeśyā*)—those that have a line of mane on the neck shining like gold
+- हरी (*harī*)—Indra's horses called Hari
+- हितं (*hitaṃ*)—beneficial
+- प्रयः (*prayaḥ*)—the food in the form of Soma
+- अभि (*abhi*)—with a view to
+- इह (*iha*)—in this sacrifice
+- वोळ्हां (*voḷhāṃ*)—let them carry Indra and bring him
+
+##### भावार्थ (Bhāvārtha)
+
+In this sacrifice, may Indra's two horses called Hari, the famous ones that are always together and rejoicing, adorned with a line of mane shining like gold on the neck, carry Indra here and bring him, in order that he may drink the beneficial food in the form of Soma, that is, the Soma-juice.
+
+##### English translation
+May those two golden-maned steeds together exulting bring him to our wholesome offering.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्यं॒ सोमाः॑ सु॒ता इ॒मे स्ती॒र्णं ब॒र्हिर्वि॑भावसो ।  
+> स्तो॒तृभ्य॒ इंद्र॒मा व॑ह ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्यम् । सोमाः । सुताः । इमे । स्तीर्णम् । बर्हिः । विभावसो इति विभाऽवसो ।  
+> स्तोतृऽभ्यः । इंद्रम् । आ । वह ॥ २५ ॥
+
+### Printed p. 384
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विभावसो विशेषेण भासमानवसुमन् । यद्वा । विशिष्टा भा विभाः प्रकृष्टदीप्तयः । ता निवसंत्यत्रेति विभावसुरग्निः । हे तादृशाग्ने तुभ्यं त्वदर्थम् इमे सोमाः सुताः अभिषुताः । तथा बर्हिः स्तीर्णम् । तस्मात् स्तोतृभ्यः अस्मभ्यमस्मदर्थम् इंद्रं सोमपानार्थम् आ वह आह्वय । यज्ञे प्रति प्रापयेत्यर्थः ॥ ॥ २५ ॥
+
+##### Gist of the bhāṣya
+
+विभावसो (*vibhāvaso*): O one possessed of wealth that shines in a special way; or else, विभाः (*vibhāḥ*) are excellent lights, supreme splendours, and they dwell in him, hence Vibhāvasu is Agni. O such Agni, these Soma-juices are सुताः (*sutāḥ*), pressed, for you, and the grass is spread. Therefore bring Indra for us, your praisers, for the drinking of Soma, call him, that is, make him reach the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विभावसो (*vibhāvaso*)—O Agni, whose very wealth is splendour
+- तुभ्यं (*tubhyaṃ*)—for you
+- इमे सोमाः (*ime somāḥ*)—these Soma-juices
+- सुताः (*sutāḥ*)—are pressed and ready (and)
+- बर्हिः (*barhiḥ*)—the cut darbha grass
+- स्तीर्णं (*stīrṇaṃ*)—is spread as a seat (therefore)
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—for us who are praising you
+- इंद्रं (*iṃdraṃ*)—Indra
+- आ वह (*ā vaha*)—bring him for the drinking of Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, whose wealth is splendour, that is, extremely resplendent, these Soma-juices are pressed and made ready for you alone. Cut darbha grass has been spread as a seat. Therefore now bring Indra for the drinking of Soma, for us who are praising you.
+
+##### English translation
+Resplendent (Agni), these Soma-libations are effused for you, and the clipped grass is spread ; bring Indra hither for his worshippers.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॒ दक्षं॒ वि रो॑च॒ना दध॒द्रत्ना॒ वि दा॒शुषे॑ ।  
+> स्तो॒तृभ्य॒ इंद्र॑मर्चत ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । दक्षम् । वि । रोचना । दधत् । रत्ना । वि । दाशुषे ।  
+> स्तोतृऽभ्यः । इंद्रम् । अर्चत ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिर्ऋत्विग्यजमानान् प्रत्याह । हे यष्टः दाशुषे इंद्राय हविर्दत्तवते ते तुभ्यं रोचना रोचनं दीप्यमानं दक्षं बलम् आ आभिमुख्येन वि दधत् इंद्रो विदधातु । यद्वा । रोचनमिति स्वर्गः । देवतेजसा दीप्तं रोचननामानं लोकं विदधातु । तथा रत्ना रत्नानि च तुभ्यं करोतु ।' डुधाञ् धारणपोषणयोः'। लेटि ‘घोर्लोपो लेटि वा' (पा. सू. ७. ३. ७० ) इत्याकारलोपः । अडागमः । हे स्तोतारः स्तोतृभ्यः इंद्रविषयस्तोत्रकारिभ्यो युष्मभ्यं च बलरत्नादिकमिंद्रः कुरुताम्। तस्मात् तम् इंद्रं यूयम् अर्चत हविर्भिः स्तुतिभिश्च पूजयत ॥
+
+##### Gist of the bhāṣya
+
+The seer addresses the priests and the sacrificers. O sacrificer, to you who have given oblations to Indra, may Indra bestow दक्षं (*dakṣaṃ*), shining strength, with आ (*ā*) meaning "towards"; or else, रोचन (*rocana*) is heaven: may he bestow the world named Rocana, bright with the lustre of the gods; and may he also provide you with jewels. O praisers, may Indra bestow strength, jewels and the like on you, who are those that sing praise concerning Indra. Therefore worship that Indra, honour him with oblations and with praises.
+
+### Printed p. 385
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O sacrificer) दाशुषे (*dāśuṣe*)—to you who have offered oblations to Indra
+- ते (*te*)—for you
+- रोचना (*rocanā*)—shining
+- दक्षं (*dakṣaṃ*)—strength
+- आ (*ā*)—abundantly
+- वि दधत् (*vi dadhat*)—may Indra give; [or रोचना वि दधत् (*rocanā vi dadhat*)—may Indra give heaven]
+- रत्ना (*ratnā*)—may he give you also delightful jewels (O praisers)
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to you who praise Indra, may Indra give jewels and the like (therefore you)
+- इंद्रं (*iṃdraṃ*)—Indra
+- अर्चत (*arcata*)—worship with oblations and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificer, to you who offer oblations to Indra, may Indra give shining strength or heaven. Likewise may he give jewels. O praisers, may Indra give jewels and the like to you also, who praise Indra. Therefore worship Indra with oblations and the like and satisfy him.
+
+##### English translation
+May he give strength and his brilliant heaven and precious things to you his worshipper, and to his praising priests ; worship Indra.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ ते॑ दधामींद्रि॒यमु॒क्था विश्वा॑ शतक्रतो ।  
+> स्तो॒तृभ्य॑ इंद्र मृळय ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । दधामि । इंद्रियम् । उक्था । विश्वा । शतक्रतो इति शतऽक्रतो ।  
+> स्तोतृऽभ्यः । इंद्र । मृळय ॥ २७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 379. Mandala 8 Sukta 93 Rks 16-22
+**Progress note:** Done through printed p. 385. Vol 25 Mandala 8 Sukta 93 rks 22 end to 27
