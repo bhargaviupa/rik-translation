@@ -3,3 +3,4 @@
 - 2026-11-26: Vol 28 pp. 116, 117, 119, 120 (Sūkta 46, Ṛks 3-6): the window put the Saṃhitā label before the Ṛk heading; the build produced two extra Ṛk headings and an empty Saṃhitā heading before each verse. Removed (tools-less regex repair of the output file); VERIFY FAIL of w0115 (54 labels in Kannada, 58 in English).
 - 2026-11-26: Vol 28 w0212: two Cyrillic letters (р, е) in the Latin word 'nare' replaced by Latin letters.
 - 2026-11-26: Vol 28 w0446 (pp. 446-451): the window skipped block number 5 (Saṃhitā of Ṛk 2); all later block references lowered by one and the missing bhāṣya block b15 placed.
+- 2026-11-26: Vol 28 w0518 (p. 518): picture line fig_line00100.jpg removed from kn.md after reading it: it repeats the Saṃhitā and Pada blocks that kn.md already has.

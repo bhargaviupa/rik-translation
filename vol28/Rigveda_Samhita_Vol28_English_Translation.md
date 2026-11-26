@@ -17825,6 +17825,292 @@ Worship the liberal Mitra and Varuna, the two royal deities who are never neglig
 
 This cow of mine, milking milk and the like, leader of the rite (व्रतनीः (*vratanīḥ*)) by giving milk for the support of the vow, goes round (पर्येति (*paryeti*)) the prepared (निष्कृतं (*niṣkṛtaṃ*)) place of abode, the sacrifice, of her own accord, unsought (अवारतः (*avārataḥ*)). Praised (प्रब्रुवाणा (*prabruvāṇā*)) by me, may that cow give (दाशत् (*dāśat*), root दाश्य दाने (*dāśya dāne*), leṭ with aṭ-augment) milk to me, to protect me, for Varuna who has given oblation, for the other gods Indra and the rest, and for the one who serves the gods with the oblation of food (विवस्वते (*vivasvate*)). Or else: गौः (*gauḥ*) is the middle-realm Speech, who milks milk and strength; this is seen in सा नो मंद्रॆषमूर्ज० दुहाना (*sā no maṃdrèṣamūrja0 duhānā*) (Ṛ. Saṃ. 8-100-11) and similar; the verse is to be construed as before with that reference.
 
+### Printed p. 524
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पयः (*payaḥ*)—milk
+- दुहाना (*duhānā*)—milking
+- व्रतनीः (*vratanīḥ*)—therefore the accomplisher of the rite
+- या गौः (*yā gauḥ*)—which cow
+- निष्कृतं (*niṣkṛtaṃ*)—consecrated with the implements
+- वर्तनिं (*vartaniṃ*)—the sacrifice
+- अवारतः (*avārataḥ*)—of her own impulse (unasked by anyone)
+- पर्येति (*paryeti*)—comes and joins
+- सा (*sā*)—such
+- प्रब्रुवाणा (*prabruvāṇā*)—the cow praised by me
+- दाशुषे (*dāśuṣe*)—to the giver
+- वरुणाय (*varuṇāya*)—to Varuṇa
+- देवेभ्यः (*devebhyaḥ*)—to the gods, Indra and the rest
+- हविषा (*haviṣā*)—with oblation
+- विवस्वते (*vivasvate*)—to me, who worship the gods
+- दाशत् (*dāśat*)—may she give milk
+
+##### भावार्थ (Bhāvārtha)
+
+May that cow which yields milk, and is therefore the accomplisher of the rite, which of her own impulse comes and joins the sacrifice consecrated with the implements, being praised by me, give milk to the generous Varuṇa, to the gods Indra and the rest, and to me who worship the gods with oblation.
+
+##### English translation
+May that cow, the leader of the rite, which yielding her milk proceeds uncalled to the consecrated place(of sacrifice), may she, propitiated by me, yield her milk to (me), the offerer of oblations to liberal Varuna and the (other) gods.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वक्ष॑सो अग्निजि॒ह्वा ऋ॑ता॒वृध॑ ऋ॒तस्य॒ योनिं॑ विमृ॒शंत॑ आसते ।  
+> द्यां स्क॑भि॒त्त्वग१॒॑प आ च॑क्रु॒रोज॑सा य॒ज्ञं ज॑नि॒त्वी त॒न्वी॒३॒॑३नि  ॑
+> मामृजुः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवक्षसः । अग्निजिह्वा । ऋतवृधः । ऋतस्य । योनिं । विमृशंतः । आसते ॥  
+> द्यां । स्कभित्वी । अपः । आ । चक्रुः । ओजसा । यज्ञं । जनित्वी । तन्वि । नि । ममृजुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवक्षसः स्वतेजसा दिवं व्याप्नुवंतः ॥ अक्षू व्याप्तौ । असुनि रूपं ॥ यद्वा ।
+> दिवो वोढारः आग्निजिह्वा अग्न्यास्याः । अग्निना हवींषि लिहंत्यास्वादयंतीति
+
+##### Gist of the bhāṣya
+
+दिवक्षसः (*divakṣasaḥ*): those who pervade heaven with their own radiance (root अक्षू (*akṣū*), to pervade). Or else: bearers of heaven. अग्निजिह्वा (*agnijihvā*): having Agni as mouth, since they lick up, that is, taste, the oblations through Agni.
+
+### Printed p. 525
+
+> तन्मुखाः । ऋतावृधो यज्ञवृद्धा यज्ञस्य वर्धयितारो देवा वर्तस्य सत्यभूतस्य
+> यज्ञस्य योनिं स्थानं विमृशंतो विचारयंतः प्रतीक्षमाणाः संत आसते । सर्वत्र
+> तिष्यंति । त इमे द्यां द्युलोकं स्वभित्वा स्वभित्वा तां धारयित्वाजसा स्वबलेनापोऽपेक्षितान्युदकान्या चक्रुः । आकुर्वंति । ततो यज्ञं यजनीयं हविश्च जनित्वी
+> जनयित्वा तन्नि स्वशरीरे नि मामृजुः । निम्मृजंति । नितरामलंकुर्वंति । हविर्भक्षयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+ऋतावृधः (*ṛtāvṛdhaḥ*): the gods who increase the sacrifice. They sit watching, contemplating the place of the true sacrifice, and abide everywhere. Having sustained heaven they bring about by their own strength the waters that are needed. Then, having produced the sacrifice and the oblation, they adorn their own bodies with it; that is, they eat the oblation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवक्षसः (*divakṣasaḥ*)—pervading the heavenly world with their radiance
+- अग्निजिह्वाः (*agnijihvāḥ*)—having a tongue in the form of Agni
+- ऋतावृधः (*ṛtāvṛdhaḥ*)—the gods, increasers of the sacrifice
+- ऋतस्य (*ṛtasya*)—of the sacrifice, which is truth
+- योनिं (*yoniṃ*)—the place
+- विमृशंतः (*vimṛśaṃtaḥ*)—looking with the eye of meditation
+- आसते (*āsate*)—sit
+- द्यां (*dyāṃ*)—the heavenly world
+- स्कभित्वी (*skabhitvī*)—having sustained
+- ओजसा (*ojasā*)—by their power
+- अपः (*apaḥ*)—the waters
+- आ चक्रुः (*ā cakruḥ*)—produce
+- यज्ञं (*yajñaṃ*)—the sacrifice (the oblation)
+- जनित्वी (*janitvī*)—having produced
+- तन्नि (*tanni*)—their own body
+- नि मामृजुः (*ni māmṛjuḥ*)—adorn themselves with it
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, who pervade heaven with their radiance, have Agni as their tongue and increase the sacrifice, sit contemplating with the eye of meditation the place of the sacrifice, which is truth. Having sustained heaven, they produce the waters by their power. Having produced the sacrifice, they adorn their bodies with it.
+
+##### English translation
+Pervading heaven (with their radiance), having Agni as their tongue, the augmenters of sacrifice, (these deities) sit contemplating the place of sacrifice ; sustaining heaven they have produced the waters by their power; having generated sacrifice, they have decorated their persons (with it).
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रि॒क्षिता॑ पि॒तरा॑ पूर्व॒जाव॑री ऋ॒तस्य॒ योना॑ क्षयतः॒ समो॑कसा ।  
+> द्यावा॑पृथि॒वी वरु॑णाय॒ सव्र॑ते घृ॒तव॒त्पयो॑ महि॒षाय॑ पिन्वतः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परिक्षिता । पितरा । पूर्वजावरी इति पूर्वजावरी । ऋतस्य । योना । क्षयतः ।  
+> संओकसा ।
+
+### Printed p. 526
+
+> द्यावापृथिवी इति । वरुणाय । सव्रते इति सव्रते । धृतवत् । पयः । महिषाय । पिन्वतः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परिक्षिता परितो निवसंत्यौ सर्वत्र व्यापिन्यौ पितरा सर्वेषां मातापितृभूते
+> आत एव पूर्वजावरी पूर्वं जाते समोकसा समाननिवासस्थाने एते द्यावापृथिव्यावृतस्य यज्ञस्य योना योन् स्थाने क्षयतः। आहुत्यधिकरणत्वेन निवसतः। हविर्धानरूपे ना क्षियतः । किंच सव्रते समानकर्मणी ते महिषाय महते पूज्याय वा
+> वरुणाय । तं यष्टुं । उपलक्षणमेतत् । अन्यान्धेवानपि । घृतवत्क्षरणवत् पय
+> उदकं पिन्वतः । सिंचतः । उदकेन ह्यन्नं जायते ॥
+
+##### Gist of the bhāṣya
+
+परिक्षिता (*parikṣitā*): dwelling all around, pervading everywhere; पितरा (*pitarā*): the mother and father of all; therefore पूर्वजावरी (*pūrvajāvarī*): born first; समोकसा (*samokasā*): having a common dwelling-place. These, Heaven and Earth, dwell in the place of the sacrifice, as the support of the oblation, in the form of the receptacle of the oblation. Further, सव्रते (*savrate*): of common work, they sprinkle water that flows like ghee for the great, or adorable, Varuṇa, to worship him. This is indicative; the other gods too are meant. For by water food is produced.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परिक्षिता (*parikṣitā*)—pervading everywhere
+- पितरा (*pitarā*)—mother and father of the world
+- पूर्वजावरी (*pūrvajāvarī*)—born before everything
+- समोकसा (*samokasā*)—having a common abode
+- द्यावापृथिवी (*dyāvāpṛthivī*)—Heaven and Earth
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योना (*yonā*)—in the place
+- क्षयतः (*kṣayataḥ*)—dwell
+- सव्रते (*savrate*)—they, of common work
+- महिषाय (*mahiṣāya*)—adorable
+- वरुणाय (*varuṇāya*)—to worship Varuṇa
+- धृतवत् (*dhṛtavat*)—flowing
+- पयः (*payaḥ*)—water
+- पिन्वतः (*pinvataḥ*)—pour out
+
+##### भावार्थ (Bhāvārtha)
+
+Heaven and Earth, who pervade everywhere, are the mother and father of the world, were born before everything and have a common abode, dwell in the place of the sacrifice. Having common work, they pour out flowing water to worship the adorable Varuṇa.
+
+##### English translation
+The encompassing parents (heaven and earth), born of old, having a common dwelling, sit down upon the place of sacrifice ; engaged in a common observance they sprinkle upon the adorable Varuna water mixed with butter.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒र्जन्या॒वाता॑ वृष॒भा पु॑री॒षिणें॑द्रवा॒यू वरु॑णो मि॒त्रो  ॒॑
+> अर्यमा ॥
+
+### Printed p. 527
+
+> देवा आदित्या अदितिं हवामहे ये पार्थिवासो दिव्यासो  
+> अप्सु ये ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पर्जन्यावाता । वृषभा । पुरीषिणा । इंद्रवायू इति । वरुणः । मित्रः । अर्यमा ॥  
+> देवान् । आदित्यान् । अदितिं । हनामहे । ये । पार्थिवासः । दिव्यासः । अप्सु । ये ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पर्जन्यावाता पर्जन्यावातौ पर्जन्यानायू वृषभा वृषभौ कामानां सेक्तारौ
+> पुरीषिणा पुरीषिणौ । पुरीषमुदकं । कर्तृत्वेन तद्वंतौ ताविंद्रवायू वरुणादयश्च एते स्वमहिम्ना सर्वत्र वर्तंते । वायोः पर्जन्येनेंद्रेण च तत्कार्या.
+> पेक्षया सहोपादानं । एतानादित्यान्देवानदितिं तेषां मातरं च हवामहे ।
+> अस्मिन्ज्ञे वयमाह्वयामः । किंच ये देवाः पार्थिवासः पार्थिवाः पृथिव्यां
+> भवा ये च दिव्या दिवि जाता ये चाप्स्यंतरिक्षे समुत्पन्नाः तानाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+पर्जन्यावाता (*parjanyāvātā*): Parjanya and Vāta; वृषभा (*vṛṣabhā*): showerers of desires; पुरीषिणा (*purīṣiṇā*): possessing पुरीष (*purīṣa*), water, as agents. These two, Indra and Vāyu, and Varuṇa and the others, exist everywhere by their own greatness. Vāyu is taken together with Parjanya and Indra because of the relation of their functions. We invoke these Ādityas, the gods, and Aditi, their mother, in this sacrifice. Further, we invoke those gods who are पार्थिवासः (*pārthivāsaḥ*), born on earth, those who are दिव्या (*divyā*), born in heaven, and those born अप्सु (*apsu*), in the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषभा (*vṛṣabhā*)—granters of desires
+- पर्जन्यावाता (*parjanyāvātā*)—Parjanya and Vāyu
+- पुरीषिणा (*purīṣiṇā*)—possessors of water
+- इंद्रवायू (*iṃdravāyū*)—the deities Indra and Vāyu
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर्यमा (*aryamā*)—Aryaman; they pervade everywhere
+- ये (*ye*)—who
+- पार्थिवासः (*pārthivāsaḥ*)—are on earth
+- ये (*ye*)—who
+- दिव्यासः (*divyāsaḥ*)—are in the heavenly world
+- अप्पु (*appu*)—who are in the atmosphere
+- देवान् (*devān*)—those gods
+- आदित्यान् (*ādityān*)—the Ādityas
+- अदितिं (*aditiṃ*)—Aditi, the mother of the gods
+- हवामहे (*havāmahe*)—we call with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+Parjanya and Vāyu, granters of desires, Indra and the Vāyu deity, possessors of water, Varuṇa, Mitra and Aryaman pervade everywhere. All the gods, those on earth, those in the heavenly world and those in the atmosphere, the Ādityas, and Aditi, the mother of the gods, we call with prayer.
+
+##### English translation
+The two showerers (of desires), Parjanya and Vata, the two senders of water, Indra and Vayu, Varuna, Mitra, Aryaman; we invoke the divine Adityas, Aditi and the gods, who dwell on the earth, or in heaven, or in he waters.
+
+### Printed p. 528
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वष्टा॑रं वा॒युमृ॑भवो॒य ओह॑ते॒ दैन्व्या॒ होता॑रा उ॒षसं॑  ॒॑
+> स्व॒स्तये॑ ।  
+> बृह॒स्पतिं॑ वृत्रखा॒दं सु॑मे॒धस॑मिंद्रि॒यं सोमं॑ धन॒सा उ॑  
+> ईमहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वष्टारं । वायुं । ऋभवः । यः । ओहते । दैव्या । होतारौ । उषसं । स्वस्तये ॥  
+> बृहस्पतिं । वृत्रखादं । सुमेधसं । इंद्रियं । सोमं । धनसाः । ऊं इति ।  
+> ईमहे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋभवः । ऋतेन सत्येन भांतीत्यृभवः । उरु प्रभूतं स्वतेजसा भांतीति
+> वा । हे मेधाविनः यः सोमः स्वस्तये कल्याणाय युष्माकं मदाय त्वष्टृप्रभृतीनोहते ॥ ओहिर्गत्यर्थः । भौवादिकः ॥ आवहति प्राप्नोति । तथा बृहस्पतिं
+> सुमेधसं सुप्रज्ञं वृत्रखादं वृत्रस्यासुरस्य खादितारमिंद्रं च प्राप्नोति धनसा
+> धनं संभजमाना वयमिंद्रियमिंद्रजुष्टं तं सोममीमहे। धनं याचामहे।
+> ईमह इति याच्छाकर्मा ॥ ईज् गत् दैवादिकः । बहुलं छंदसीति विकरणस्य लुक्॥
+
+##### Gist of the bhāṣya
+
+ऋभवः (*ṛbhavaḥ*): they shine by ऋत (*ṛta*), truth; or they shine abundantly by their own radiance. O wise ones, the Soma which, for your welfare and your delight, brings Tvaṣṭṛ and the others (root ओह (*oha*), to go, of the bhū class) – brings, reaches – likewise reaches Bṛhaspati, the very wise, and Indra, the eater (destroyer) of the asura Vṛtra. We, sharing wealth, ask for that Soma, dear to Indra; we beg for wealth. ईमहे (*īmahe*) is a verb meaning "to ask" (root ईज् (*īj*) of the divādi class).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभवः (*ṛbhavaḥ*)—O Ṛbhus
+- यः (*yaḥ*)—which Soma
+- स्वस्तये (*svastaye*)—for your welfare
+- त्वष्टारं (*tvaṣṭāraṃ*)—Tvaṣṭṛ
+- वायुं (*vāyuṃ*)—Vāyu
+- देव्यौ होतार् (*devyau hotār*)—the Aśvin deities, divine Hotṛs
+- उषसं (*uṣasaṃ*)—the goddess Uṣas
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- वृत्रखादं (*vṛtrakhādaṃ*)—the destroyer of Vṛtra
+- सुमेधसं (*sumedhasaṃ*)—Indra, possessed of excellent wisdom
+- ओहते (*ohate*)—brings to the sacrifice
+- इंद्रियं (*iṃdriyaṃ*)—the friend of Indra
+- सोमं (*somaṃ*)—Soma
+- धनसाः (*dhanasāḥ*)—we who desire wealth
+- ईमहे (*īmahe*)—ask for wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Ṛbhus, the Soma who, for your welfare, brings to the sacrifice Tvaṣṭṛ, Vāyu, the Aśvin deities who are divine Hotṛs, the goddess Uṣas, Bṛhaspati, the destroyer of Vṛtra, and Indra, possessed of excellent wisdom,
+
+### Printed p. 529
+
+that Soma, the friend of Indra, we who desire wealth ask for wealth.
+
+##### English translation
+Desirous of wealth, we solicit that Soma, the friend of Indra, who for your welfare, Ribhus, brings (hither) Twashtri, Vayu, the two divine sacrificers. (the Ashwins), Dawn, Brihaspati, and the wise slayer of the Vritra.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्रह्म॒ गामश्वं॑ ज॒नयं॑त॒ ओष॑धी॒र्वन॒स्पती॑न्स्पृथि॒वीं पर्व॑ता  ॒
+> असः ।  
+> सूर्यं॑ दि॒वि रो॒हयं॑तः सु॒दान॑व॒ आर्या॑ व्र॒ता वि॑सृ॒जंतो॒ ॒ ॑
+> अधि क्षमि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्म । गां। अश्वं। जनयंतः। ओषधीः। वनस्पतीन्। पृथिवीं। पर्वतान्। अपः॥  
+> सूर्यं । दिवि । रोहयंतः । सुदानवः । आर्या । वृता । विस्पृजंतः । अधि । क्षमि॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्म वर्धनसाधनमन्नं । अन्नेन हि सर्वाः प्रजाः वर्धंते । गामश्वमेतत्पृथ्वीन्यशून् तथौषधीर्वनस्पतींश्च तथा पृथिवीं विस्तीर्णां भूमिं पर्वताइलैलोच्चयान् वृष्टा जगदापूरकान्मेघान्वा अप उदकान्यंतरिक्षं वा एताज्ञानयंत उत्पादयंतः किंच दिवि द्युलोके सूर्यमादित्यं रोहयंतः सुदानवः शोभनदानास्तेऽमी देवा अधि क्षमि ॥ आत इति योगविभागात् । पा-६-४-१४० ।
+> अकार लोपः ॥ क्षमायां पृथिव्यामार्या श्रेष्ठानि कल्याणानि व्रतानि कर्माणि
+> यागादीनि विसृजंतः प्रसारयंतः सर्वत्र वर्तंते । तान्वयं धनं याचामह इति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+ब्रह्म (*brahma*): food, the means of growth; for by food all creatures grow. They produce the cow and the horse, these animals; likewise the herbs and the trees; likewise the earth, the broad land; the mountains, the heaps of rock; and अपः (*apaḥ*), the waters, or the clouds that fill the world with rain, or the atmosphere. Further, those generous gods who make the sun, Āditya, rise in heaven अधि क्षमि (*adhi kṣami*), on the earth, send forth and spread excellent, auspicious rites (व्रतानि (*vratāni*)), sacrifices and the like, and exist everywhere. We ask wealth of them; this is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ब्रह्म (*brahma*)—nourishing food
+- गां (*gāṃ*)—the cow
+- अश्वं (*aśvaṃ*)—the horse
+- ओषधीः (*oṣadhīḥ*)—the herbs
+- वनस्पतीन् (*vanaspatīn*)—the trees
+- पृथिवीं (*pṛthivīṃ*)—the earth
+- पर्वतान् (*parvatān*)—the mountains
+
 ---
 
-**Progress note:** Done through printed p. 523. pp. 518-523 (batch API), figure line removed (repeats the verse blocks)
+**Progress note:** Done through printed p. 529. pp. 524-529 (batch API)
