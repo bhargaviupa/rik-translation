@@ -33005,6 +33005,284 @@ Tawny-tinted (Soma), the cows yield butter and milk inexhaustible for you (set) 
 
 It is well known that the Soma plants growing in the high mountain regions are the most excellent and yield a juice that is abundant and very tasty. It is also described here that the cows supply the milk, the curds and the ghee for the oblation that are mixed with the Soma juice.
 
+### Printed p. 810
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒यु॒धस्य॑ ते स॒तो भुव॑नस्य पते व॒यम् ।  
+> इंदो॑ सखि॒त्वमु॑श्मसि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽआयुधस्य । ते । सतः । भुवनस्य । पते । वयम् ।  
+> इंदो इति । सखिऽत्वम् । उश्मसि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भुवनस्य भूतजातस्य पते स्वामिन् पालक सोम। सोमस्य जगदाप्यायिकत्वेन तत्स्वामित्वम् । हे इंदो सोम वयम् अनुष्ठातारः स्वायुधस्य ते तव सतः सखित्वमुश्मसि कामयामहे ॥ ॥ २१ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, lord पते (*pate*) and protector of all creatures भुवनस्य (*bhuvanasya*); Soma is their lord because he refreshes the world. O Indu, we, the performers of the rite, desire उश्मसि (*uśmasi*) the friendship सखित्वं (*sakhitvaṃ*) of you, the well-armed स्वायुधस्य (*svāyudhasya*), who exist सतः (*sataḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भुवनस्य (*bhuvanasya*)—of all the living beings of the world
+- पते (*pate*)—the lord
+- इंदो (*iṃdo*)—O Soma
+- वयं (*vayaṃ*)—we, the performers of the sacrifice
+- स्वायुधस्य (*svāyudhasya*)—endowed with an excellent weapon
+- ते (*te*)—your
+- सखित्वं (*sakhitvaṃ*)—friendship
+- उश्मसि (*uśmasi*)—we desire
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, lord of all the beings that are in the world, we who praise you desire the friendship of you, who are equipped with an excellent weapon.
+
+##### English translation
+Indu, lord of beings, we desire the friendship of you, the well-armed.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वायुधस्य (*svāyudhasya*): what is the excellent weapon of the god Soma here, and what its particulars are, is not clear.
+
+### Printed p. 811
+
+## Sūkta 32 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र सोमासः' इति षडृचमष्टमं सूक्तमात्रेयस्य श्यावाश्वस्यार्षं गायत्रं सौम्यम् । अनुक्रम्यते च- प्र सोमासः श्यावाश्वः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta प्र सोमासः (*pra somāsaḥ*) of six Ṛks is the eighth sūkta; its seer is Śyāvāśva, of the Ātreya family; the metre is Gāyatra and it is addressed to Soma. In the Anukramaṇikā it is said प्र सोमासः श्यावाश्वः (*pra somāsaḥ śyāvāśvaḥ*). The use has been stated.
+
+Anuvāda: This sūkta प्र सोमासः (*pra somāsaḥ*) is the eighth sūkta in the second anuvāka. It has six Ṛks. The seer of this sūkta is the one named Śyāvāśva of the Atri family; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said प्र सोमासः श्यावाश्वः (*pra somāsaḥ śyāvāśvaḥ*). The use has been stated before.
+
+##### Particulars
+
+Maṇḍala 9; Anuvāka 2; Sūkta 32. Aṣṭaka 6; Adhyāya 8; Varga 22. Number of Ṛks in the sūkta: 6.
+
+Seer: Śyāvāśvaḥ.
+
+Deity: Pavamānaḥ Somaḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोमा॑सो मद॒च्युतः॒ श्रव॑से नो म॒घोनः॑ ।  
+> सु॒ता वि॒दथे॑ अक्रमुः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सोमासः । मदऽच्युतः । श्रवसे । नः । मघोनः ।  
+> सुताः । विदथे । अक्रमुः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमासः सोमाः मदच्युतः मदस्राविणः सुताः अभिषुताः संतः विदथे यज्ञे मघोनः हविष्मतो मम श्रवसे अन्नाय कीर्तये वा प्र अक्रमुः प्रगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The Somas सोमासः (*somāsaḥ*), shedding exhilaration मदच्युतः (*madacyutaḥ*), being pressed सुताः (*sutāḥ*), go forth प्र अक्रमुः (*pra akramuḥ*) at the sacrifice विदथे (*vidathe*) for the sustenance or fame श्रवसे (*śravase*) of me, who am provided with oblations मघोनः (*maghonaḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदच्युतः (*madacyutaḥ*)—distilling an exhilarating juice
+- सोमासः (*somāsaḥ*)—these Soma juices
+- सुताः (*sutāḥ*)—pressed
+- विदथे (*vidathe*)—at the sacrifice
+- मघोनः (*maghonaḥ*)—to me, who have made ready the oblation to offer to the gods
+- श्रवसे (*śravase*)—for providing food or fame
+- प्र अक्रमुः (*pra akramuḥ*)—keep flowing
+
+### Printed p. 812
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices, distilling an exhilarating essence, pressed by crushing with stones, keep flowing at the sacrifice in order to gain food or fame for me, who have made ready the oblation to offer to the gods.
+
+##### English translation
+The Soma juices, diffusing exhilaration, rush forth effused at the sacrifice for the sustenance of us abounding in oblations.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदीं॑ त्रि॒तस्य॒ योष॑णो॒ हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
+> इंदु॒मिंद्रा॑य पी॒तये॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ईम् । त्रितस्य । योषणः । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> इंदुम् । इंद्राय । पीतये ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत् अपि च ईम् एनं हरिं हरितवर्णं सोमं त्रितस्य ऋषेः योषणः अंगुलयः अद्रिभिः ग्रावभिः हिन्वंति प्रेरयंति । किमर्थम् । इंदुं दीप्तं सोमम् इंद्राय इंद्रस्य पीतये पानाय ॥
+
+##### Gist of the bhāṣya
+
+And then आत् (*āt*) the fingers योषणः (*yoṣaṇaḥ*) of the seer Trita त्रितस्य (*tritasya*) urge on हिन्वंति (*hinvaṃti*) this ईम् (*īm*) green-hued Soma हरिं (*hariṃ*) with the pressing stones अद्रिभिः (*adribhiḥ*). For what? That the shining Soma इंदुं (*iṃduṃ*) may be drunk by Indra इंद्राय पीतये (*iṃdrāya pītaye*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत् (*āt*)—and
+- हरिं (*hariṃ*)—shining with a green hue
+- ईं एनं (*īṃ enaṃ*)—this Soma
+- त्रितस्य (*tritasya*)—of the seer named Trita
+- योषणः (*yoṣaṇaḥ*)—the fingers
+- अद्रिभिः (*adribhiḥ*)—crushing with stones
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for the drinking
+- इंदुं (*iṃduṃ*)—the shining Soma juice
+- हिन्वंति (*hinvaṃti*)—urge to flow
+
+##### भावार्थ (Bhāvārtha)
+
+And the fingers of the seer Trita crush with stones this Soma plant, shining with a golden hue, and urge the shining Soma juice, squeezed out of the plant, to flow for Indra's drinking.
+
+##### English translation
+And the fingers of Trita express this green-tinted Soma with the stones for Indra's drinking.
+
+### Printed p. 813
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आदीं॑ हं॒सो यथा॑ ग॒णं विश्व॑स्यावीवशन्म॒तिम् ।  
+> अत्यो॒ न गोभि॑रज्यते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत् । ईम् । हंसः । यथा । गणम् । विश्वस्य । अवीवशत् । मतिम् ।  
+> अत्यः । न । गोभिः । अज्यते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आत् अपि च ईम् अयं सोमः हंसो यथा गणं जनसंघं स्वगतिविशेषेण स्वनेन वा प्रविशति तद्वत् विश्वस्य सर्वस्य स्तोतृजनस्य मतिं स्तुतिं बुद्धिं वा अवीवशत् वशं नयति । स च सोमः अत्यो न अश्व इव गोभिः गव्यैरुदकैर्वा अज्यते सिच्यते स्निग्धीक्रियते ॥
+
+##### Gist of the bhāṣya
+
+And then आत् (*āt*) this Soma, as a swan हंसः (*haṃsaḥ*) enters यथा (*yathā*) a flock गणं (*gaṇaṃ*), a company of people, by its special gait or by its cry, in the same way brings under control अवीवशत् (*avīvaśat*) the praise or understanding मतिं (*matiṃ*) of every one विश्वस्य (*viśvasya*), that is, of all the people who praise. And this Soma, like a horse अत्यो न (*atyo na*), is anointed अज्यते (*ajyate*), sprinkled or made smooth, with cow-products गोभिः (*gobhiḥ*) or with waters.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आत् (*āt*)—and
+- हंसः (*haṃsaḥ*)—the swan
+- गणं (*gaṇaṃ*)—a company of people (or the water)
+- यथा (*yathā*)—in the way in which it enters with a joyful cry, like that
+- ईं (*īṃ*)—this Soma
+- मतिं (*matiṃ*)—the understanding of people
+- आवीवशत् (*āvīvaśat*)—enters and brings under its control
+- आत्यः न (*ātyaḥ na*)—like a horse
+- गोभिः (*gobhiḥ*)—with milk, a product of the cow, or with water
+- आज्यते (*ājyate*)—is mixed
+
+##### भावार्थ (Bhāvārtha)
+
+And as the swan enters the water with delight, so the Soma juice too enters men and brings their understanding under its control, and like a horse it is quickly mixed with milk or with water.
+
+##### English translation
+And like a swan entering its own flock, the Soma excites the praise of all,—like a horse, it is bathed with milk.
+
+##### विशेषविषयगळु (Special Topics)
+
+Here the commentator has explained the word गणं (*gaṇaṃ*) as a company of people. How a swan is pleased when it enters a company of people, or why people are pleased on seeing a swan, is not clear.
+
+### Printed p. 814
+
+And the use of the word अत्यः (*atyaḥ*), which denotes a horse, does not seem to have a fitting sense here. On the whole, what the seer intends in the meaning of this Ṛk is not clear.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भे सो॑माव॒चाक॑शन्मृ॒गो न त॒क्तो अ॑र्षसि ।  
+> सीद॑न्नृ॒तस्य॒ योनि॒मा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभे इति । सोम । अवऽचाकशत् । मृगः । न । तक्तः । अर्षसि ।  
+> सीदन् । ऋतस्य । योनिम् । आ ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम उभे द्यावापृथिव्यौ अवचाकशत् । पश्यतिकर्मेदम् । पश्यन् मृगो न मृग इव तक्तः गव्यैः पयअदिभिर्मिश्रितः सन् । दध्ना तनक्ति ' (तै. सं. २.५.३.५) इत्यादौ तथा दृष्टत्वात् । अर्षसि गच्छसि च। किं कुर्वन् । ऋतस्य यज्ञस्य योनिं स्थानम् आ सीदन् आश्रयन्। यज्ञसाधनाय गच्छसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, beholding अवचाकशत् (*avacākaśat*) both उभे (*ubhe*) heaven and earth; this is a verb of seeing. Like a deer मृगो न (*mṛgo na*), being mixed तक्तः (*taktaḥ*) with cow-products, milk and the like **NOTE**, you go अर्षसि (*arṣasi*). In the Tai. Saṃ. 2.5.3.5 passage दध्ना तनक्ति (*dadhnā tanakti*) it is seen to be so used. Doing what? Sitting आ सीदन् (*ā sīdan*), taking refuge in the place योनिं (*yoniṃ*) of the sacrifice ऋतस्य (*ṛtasya*). The sense is that you go for the accomplishment of the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma, you
+- उभे (*ubhe*)—heaven and earth
+- अवचाकशत् (*avacākaśat*)—beholding
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- योनिं (*yoniṃ*)—the place
+- आ सीदन् (*ā sīdan*)—in order to take refuge in it and sit
+- मृगेन (*mṛgena*)—as a deer drinks water
+- तक्तः (*taktaḥ*)—mixed with things that rest in milk and the like **NOTE**
+- अर्षसि (*arṣasi*)—you go towards the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, beholding heaven and earth, you flow and go towards the sacrifice, mixed with things that rest in milk and the like, as a deer drinks water, in order to sit in your own place in the sacrifice.
+
+##### English translation
+Beholding both worlds, Soma, you hurry, swift as a deer, taking your seat on the place of sacrifice.
+
+### Printed p. 815
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि गावो॑ अनूषत॒ योषा॑ जा॒रमि॑व प्रि॒यम् ।  
+> अग॑न्ना॒जिं यथा॑ हि॒तम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । गावः । अनूषत । योषा । जारम्ऽइव । प्रियम् ।  
+> अगन् । आजिम् । यथा । हितम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वा गावः शब्दाः अभि अनूषत अभिष्टुवंति । योषा प्रिय जारमिव । सा यथा तं स्तौति तद्वत् । स सोमः आजिं गंतव्यं हितं मित्रमिव तं यथा अन्यः अगन् स्वहिताय गच्छति तद्वत् । अथवा हितं धनप्रापकत्वेन हितकरम् आजिं शूर इव । अयमागच्छति पात्रम् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the cows गावः (*gāvaḥ*), that is, the sounds, praise you अभि अनूषत (*abhi anūṣata*), as a young woman योषा (*yoṣā*) praises a dear lover जारमिव (*jāramiva*): as she praises him, so they. That Soma goes to the desired हितं (*hitaṃ*) place to be reached आजिं (*ājiṃ*), as another person goes अगन् (*agan*) to a friend for his own good. Or else हितं (*hitaṃ*) means beneficial, as bringing wealth, and आजिं (*ājiṃ*) is the contest, as a hero goes to it. In this way he comes to the vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma, you) योषा (*yoṣā*)—a young woman
+- प्रियं जारमिव (*priyaṃ jāramiva*)—as she speaks to the man who loves her
+- गावः (*gāvaḥ*)—words of praise
+- अभि अनूषत (*abhi anūṣata*)—praise you
+- आजिं (*ājiṃ*)—towards the one whom he has set out to see
+- हितं (*hitaṃ*)—to a friend
+- यथा (*yathā*)—in the way in which
+- अगन् (*agan*)—he goes. [Or else हितं (*hitaṃ*)—beneficial to himself; आजिं (*ājiṃ*)—towards the battle; (a hero) यथा (*yathā*)—in the way in which; अगन् (*agan*)—he goes.] Like that, (this Soma) आजिं (*ājiṃ*)—towards the vessel, which is made of the cow **NOTE**
+- हितं (*hitaṃ*)—the beneficial vessel
+- अगन् (*agan*)—flows to
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, as a young woman speaks agreeable words to the young man who loves her, so words of praise praise you with affection. As a man goes eagerly to a dear friend, or as a hero who loves battle goes eagerly towards the battle, so this Soma, eager to come and join in the vessel that is its own place, flows to it.
+
+##### English translation
+Praises commend you (Soma) as a woman praises a dear lover ; (you hasten to the vessel) as a hero hastens to the welcome contest.
+
 ---
 
-**Progress note:** Done through printed p. 809. Vol 25 Sukta 30 Rk 6, Sukta 31 Rk 1-5, pp. 804-809
+**Progress note:** Done through printed p. 815. Vol 25 Sukta 31 Rk 6, Sukta 32 Rk 1-5, pp. 810-815
