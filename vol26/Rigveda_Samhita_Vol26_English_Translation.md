@@ -1640,6 +1640,122 @@ There are seven varieties of the Soma sacrifice. It is the custom to call them t
 
 In the Ṛk 1-140-12 the (Soma) sacrifice is compared to a boat, worldly existence to the ocean, and the priests to the oars. Poverty, fear of enemies and other kinds of sorrow are the terrible situations of the ocean of worldly existence. To cross this ocean the boat is the chief means, but for this boat to carry the sacrificer safely across the ocean it is not possible without the boat and its oars. Therefore the prayer is made that the boat of the Soma sacrifice, propelled by the oars in the form of excellent priests, may carry us safely across the ocean of worldly existence.
 
+### Printed p. 94
+
+In general, in the Ṛk-saṃhitā, to compare sorrow such as poverty, its cause sin, and the enemy to a deep flood of water, and the help of the gods to a boat, is a most fitting simile. For example:
+
+जातवेदसे सुनवाम सोममरातीयतो नि दहाति वेदः । स नः पर्षदति दुर्गाणि विश्वा नावेव सिंधुं दुरितात्यग्निः ॥ (*jātavedase sunavāma somamarātīyato ni dahāti vedaḥ | sa naḥ parṣadati durgāṇi viśvā nāveva siṃdhuṃ duritātyagniḥ ‖*) (Ṛ. Saṃ. 1-99-1)
+
+नू न इंद्रावरुणा गृणाना पृंक्तं रयिं सौश्रवसाय देवा । इत्था गृणंतो महिनस्य शर्धोऽपो न नावा दुरितं तरेम ॥ (*nū na iṃdrāvaruṇā gṛṇānā pṛṃktaṃ rayiṃ sauśravasāya devā | itthā gṛṇaṃto mahinasya śardho 'po na nāvā duritaṃ tarema ‖*) (Ṛ. Saṃ. 6-8-8)
+
+Just as in these and similar ṛks it is prayed that, as one crosses a river easily by a boat, so one may cross over sin with the help of the deities such as Agni, so here too Agni is prayed to: provide us with a boat in the form of the sacrifice.
+
+Here the benefit of the boat in the form of the Soma sacrifice is said to be of three kinds: first, to make the sacrificers and their sons wealthy; second, to carry the sacrificers across worldly existence; third, to bestow the happiness of the supremely pure world of Brahmā. Sāyaṇa has given the explanation for the phrases अस्माकं वीरान् मघोनः (*asmākaṃ vīrān maghonaḥ*); उत नः जनांश्च पारयात् (*uta naḥ janāṃśca pārayāt*); च या शर्म नावं (*ca yā śarma nāvaṃ*). Not only in the Ṛk-saṃhitā but also in the Śatapatha and other Brāhmaṇas this same simile is well known. For example:
+
+नौर्ह ना एष्या स्वर्ग्या । यद्बहिष्पवमानं तस्याः ऋत्विज एव स्फाश्चारित्राश्च स्वर्गस्य लोकस्या संसारणास्तस्या एक एव मज्जयिताय एव निंद्यः स यथा पूर्णामभ्यारुह्य मज्जयेदेवं हैनां समज्जयति तद्वै सर्व एव यज्ञो नौः स्वर्ग्या तस्मादु सर्वस्मादेव यज्ञान्निंद्यं परिबिबाधिषेत । (*naurha nā eṣyā svargyā | yadbahiṣpavamānaṃ tasyāḥ ṛtvija eva sphāścāritrāśca svargasya lokasyā saṃsāraṇāstasyā eka eva majjayitāya eva niṃdyaḥ sa yathā pūrṇāmabhyāruhya majjayedevaṃ haināṃ samajjayati tadvai sarva eva yajño nauḥ svargyā tasmādu sarvasmādeva yajñānniṃdyaṃ paribibādhiṣeta |*) (Śa. Brā. 4-2-5-10)
+
+The Soma sacrifice, and the Bahiṣpavamāna stotra that is to be recited on the first day of the Soma sacrifice, are boats that lead one to heaven. The priests themselves are their oars. If any one of these priests follows a blameworthy way of life, he makes these boats sink. Therefore such a man must be kept away from the sacrificial act. So in the Śatapatha Brāhmaṇa; and likewise:
+
+यज्ञो वै सुशर्मा नः (*yajño vai suśarmā naḥ*) (Ai. Brā. 1-13)**NOTE**
+
+### Printed p. 95
+
+नावमिहारुहेमेति समेवैनमेतदधिरोहति स्वर्गस्य लोकस्य समष्टेलि संपत्तैलि संगत्यैलि॥ (*nāvamihāruhemeti samevainametadadhirohati svargasya lokasya samaṣṭeli saṃpattaili saṃgatyaili‖*) (Ai. Brā. 4-20)
+
+Thus in the Aitareya Brāhmaṇa too this kind of simile is well known. And because the fruit of this sacrifice is the highest, even the gods desire it and are devoted to the sacrifice. Therefore humans too, following them, should be devoted to the sacrificial work; so it teaches:
+
+त आसत । श्रियं गच्छेम । यशः स्यामान्नादाः स्यामेति तथो एवेमे सत्त्रमासते श्रियं गच्छेम यशः सामान्यदाः स्यामेति । ते होचुः यो नः श्रमेण तपसा श्रद्धया यज्ञेनाहुतिभिर्यज्ञस्योदृचं पूर्वोवगच्छात्स नः श्रेष्ठोऽसत्तदु नः सर्वेषां सहेति तथेति । तद्विष्णुः प्रथमः प्राप । स देवानां श्रेष्ठोऽभवत्तस्मादाहुर्विष्णुदेवानां श्रेष्ठ इति । (*ta āsata | śriyaṃ gacchema | yaśaḥ syāmānnādāḥ syāmeti tatho eveme sattramāsate śriyaṃ gacchema yaśaḥ sāmānyadāḥ syāmeti | te hocuḥ yo naḥ śrameṇa tapasā śraddhayā yajñenāhutibhiryajñasyodṛcaṃ pūrvovagacchātsa naḥ śreṣṭho 'sattadu naḥ sarveṣāṃ saheti tatheti | tadviṣṇuḥ prathamaḥ prāpa | sa devānāṃ śreṣṭho 'bhavattasmādāhurviṣṇudevānāṃ śreṣṭha iti |*) (Śa. Brā. 14-1-1-2, 3)
+
+Because through the performance of the sacrifice dignity, greatness and wealth of food are obtained, the gods desired them and became devoted to the sacrifice. Among them Viṣṇu obtained the first place, and therefore Viṣṇu became the best among the gods. Thus the fruit of the sacrifice is praised.
+
+**Removal of various sins for those who have studied the Soma mantras**
+
+Although the Nirukta and the Upaniṣads such as the Chāndogya say that the principal sinful acts are seven, there are in fact many kinds of sin. If a sinner studies regularly, from the mouth of a teacher, the 610 ṛks praising the deity Pavamāna Soma, that is, the sūktas 1-67 at the beginning of the ninth maṇḍala of the Ṛgveda Saṃhitā, containing 610 ṛks in the Gāyatrī metre, then the Veda-puruṣa himself says in the Pariśiṣṭa mantras that he will remove the many kinds of sins of such a man and make him pure. They are explained here.
+
+ऋषयस्तु तपस्तेपुः सर्वे स्वर्गजिगीषवः । तपंतस्तपसोग्रेण पावमानीर्यचोऽब्रुवन् (*ṛṣayastu tapastepuḥ sarve svargajigīṣavaḥ | tapaṃtastapasogreṇa pāvamānīryaco 'bruvan*) (Pariśiṣṭa. 18-6)**NOTE**
+
+In ancient times all the seers, desiring heaven, performed fierce austerity, studied these Pāvamānī ṛks and praised them thus as removers of sin.
+
+### Printed p. 96
+
+यन्ने गर्भे वसतः पापमुग्रं यज्जायमानस्य च किंचिदन्यत् । जातस्य च यच्चापि च वर्धतो मे तत्पावमानीभिरहं पुनामि ॥ (*yanne garbhe vasataḥ pāpamugraṃ yajjāyamānasya ca kiṃcidanyat | jātasya ca yaccāpi ca vardhato me tatpāvamānībhirahaṃ punāmi ‖*) (Hari. 18-7)**NOTE**
+
+The Veda-puruṣa, the Lord of all, has spoken thus: whatever grave sin a man has committed while dwelling in the womb, then at birth, and after birth while growing up, if he studies the Pāvamānī mantras I destroy all such sins and make him pure.
+
+मातापित्रोर्यन्न कृतं वचो मे यत्स्थावरं जंगममाबभूव । विश्वस्य तत्पृह्रिहितं वचो मे तत्पावमानीभिरहं पुनामि ॥ (*mātāpitroryanna kṛtaṃ vaco me yatsthāvaraṃ jaṃgamamābabhūva | viśvasya tatpṛhrihitaṃ vaco me tatpāvamānībhirahaṃ punāmi ‖*) (Sari. 12-8)**NOTE**
+
+I remove and make pure the sin of having transgressed the word of father and mother, and whatever sin arises in this world of the moving and the unmoving, for any living being, from words spoken wishing it harm.
+
+गोघ्नात् तस्करत्वात् स्त्रीवधाद्यच्च किल्पिसं । पापकं च चरणेभ्यस्तत्पावमानीभिरहं पुनामि ॥ (*goghnāt taskaratvāt strīvadhādyacca kilpisaṃ | pāpakaṃ ca caraṇebhyastatpāvamānībhirahaṃ punāmi ‖*) (Sari. 18-9)**NOTE**
+
+I remove and make pure the sin that may arise from killing a cow, theft, killing a woman, and the deed of trampling and harming living beings with the feet.
+
+ब्रह्मवधात्सुरापानात्स्वर्णस्तेयाद्वृषलिगमनमैथुनसंगमात् । गुरोर्दाराधिगमनाच्च तत्पावमानीभिरहं पुनामि ॥ (*brahmavadhātsurāpānātsvarṇasteyādvṛṣaligamanamaithunasaṃgamāt | gurordārādhigamanācca tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-10)**NOTE**
+
+I remove and make pure the sin of killing a Brāhmaṇa, drinking liquor, stealing gold, consorting with the woman called vṛṣalī (one who is unmarried although her younger sister is married), and of intercourse with the wife of one's teacher.
+
+बालघ्नान्मातृपितृवधाद्भूमितस्करात्सर्ववर्णगमनमैथुनसंगमात् । पापेभ्यश्च प्रतिग्रहात्सद्यः प्रहरति सर्वदुष्कृतं तत्पावमानीभिरहं पुनामि ॥ (*bālaghnānmātṛpitṛvadhādbhūmitaskarātsarvavarṇagamanamaithunasaṃgamāt | pāpebhyaśca pratigrahātsadyaḥ praharati sarvaduṣkṛtaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Sari. 18-11)**NOTE**
+
+I remove and make pure whatever sins arise from killing children, killing one's mother and father, fraudulently seizing land such as fields, consorting with women of all low castes, accepting an improper gift, and doing other evil deeds.
+
+### Printed p. 97
+
+क्रयविक्रयाद्योनिदोषाद्भक्षाद्योज्यात्पतिग्रहात् । असंभोजनाच्चापि नृशंसं तत्पावमानीभिरहं पुनामि ॥ (*krayavikrayādyonidoṣādbhakṣādyojyātpatigrahāt | asaṃbhojanāccāpi nṛśaṃsaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-12)**NOTE**
+
+I remove the sins that arise from buying and selling in an unjust way, that is, fraudulently, from consorting with women one has come upon, from eating what may not be eaten, from accepting what may not be accepted, and from eating one's meal leaving aside a guest who has come to the house.
+
+दुर्यष्टं दुरधीतं पापं यच्चाज्ञानतो कृतं । अयाजिताश्च संयाज्यास्तत्पानमानीभिरहं पुनामि ॥ (*duryaṣṭaṃ duradhītaṃ pāpaṃ yaccājñānato kṛtaṃ | ayājitāśca saṃyājyāstatpānamānībhirahaṃ punāmi ‖*) (Sari. 18-13)**NOTE**
+
+I remove and make pure the sins that arise from such evil deeds as performing a sacrifice in some way other than that prescribed, studying the Veda without discipline, sin committed through ignorance, having a sacrifice performed for those who are not fit to perform it, and not having it performed for those who are fit for it.
+
+अमंत्रमन्नं यत्किंचिद्दूयते च हुताशने । संवत्सरकृतं पापं तत्पावमानीभिरहं पुनामि ॥ (*amaṃtramannaṃ yatkiṃciddūyate ca hutāśane | saṃvatsarakṛtaṃ pāpaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Sari. 18-14)**NOTE**
+
+I remove the sin that arises from offering oblation in the fire without the prescribed recitation of mantras, or while reciting the mantra wrongly, and whatever sins have been committed during the year, and make him pure.
+
+ऋतस्य योनयोऽमृतस्य धाम विश्वा देवेभ्यः पुण्यगंधाः । ता न आपः प्र वहंतु पापं शुद्धा गच्छामि सुकृतामु लोकं तत्पावमानीभिरहं पुनामि ॥ (*ṛtasya yonayo 'mṛtasya dhāma viśvā devebhyaḥ puṇyagaṃdhāḥ | tā na āpaḥ pra vahaṃtu pāpaṃ śuddhā gacchāmi sukṛtāmu lokaṃ tatpāvamānībhirahaṃ punāmi ‖*) (Pari. 18-15)**NOTE**
+
+May the heavenly waters, which are the chief support of truth or of the sacrifice, which dwell in the eternal heaven, and which bring delight to the gods, wash away the sins mentioned above. Having made that man pure, I shall cause him to obtain the excellent world.
+
+### Printed p. 98
+
+**The seers of the ninth maṇḍala**
+
+In this maṇḍala are the seers of other maṇḍalas themselves. Only the deity is Pavamāna Soma. The names of these seers and the number of mantras seen by them in this maṇḍala are given below.
+
+Madhucchandā Vaiśvāmitra (10), Medhātithi Kāṇva (10), Śunaḥśepa Ājīgarti (11), Hiraṇyastūpa Āṅgirasa (10), Kāśyapa Asita or Devala (164), Dṛḷhacyuta Āgastya (6), Iddhavāha Dārthacyuta (6), Nṛmedha (12), Priyamedha (6), Bindu (6), Gotama (6), Śyāvāka (6), Trita (22), Prabhūvasu (12), Rahūgaṇa (12), Bṛhanmati (12), Medhyātithi (18), Ayāsya (15), Kavi Bhārgava (15), Ucathya (15), Avatsāra (32), Amahīyu (30), Jamadagni (30), Nighruvi Kāśyapa (30), Kaśyapa (57), Bhṛgu Vāruṇi or Jamadagni (30), Śata Vaikhānasa (30), the Saptarṣis (32), Vatsapri Bhālandana (10), Hiraṇyastūpa (11), Reṇu Vaiśvāmitra (10), Ṛṣabha Vaiśvāmitra (9), Harimanta (9), Pavitra (14), Kakṣīvān (9), Kavi (20), Vasu Bhāradvāja (15), Prajāpati Vācya (5), Vena Bhārgava (12), Ākṛṣṭāmāṣa (10), Sikatā Nivāvarī (10), Pṛśni and Ajā (10), the three Ṛṣigaṇas (10), Atri (5), Gṛtsamada (3), Uśanā (24), Vasiṣṭha (9), Nodhā (5), Kaṇva (5), Praskaṇva (5), Pratardana Daivodāsi (24), Indrapramati Vāsiṣṭha (3), Vṛṣagaṇa Vāsiṣṭha (3), Manyu Vāsiṣṭha (3), Upamanyu Vāsiṣṭha (3), Vyāghrapād Vāsiṣṭha (3), Śakti Vāsiṣṭha (3), Karṇaśrut Vāsiṣṭha (3), Mṛḷīka Vāsiṣṭha (3), Vasukra Vāsiṣṭha (3), Parāśara (14), Kutsa (14), Ambarīṣa and Ṛjiśvā (12), the two Kāśyapas Rebha and Sūnu (17), Andhīgu Śyāvāśvi (3), Yayāti Nāhuṣa (3), Nahuṣa Mānava (3), Manu Sāṃvaraṇa (3), Prajāpati (3), Dvita (6), Parvata and Nārada (12), Agni Cākṣuṣa (12), Cakṣu Mānava (3), Manu Āpsava (3), Agni (5), the Saptarṣis (26), Gauriviti (2), Śakti (4), Ūru (2), Ṛjiśvā (2), Ūrdhasadyā (2), Kṛtayaśā (2), Ṛṇañcaya (2), Agni, Dhiṣṭā and Aiśvara (22), Tryaruṇa and Trasadasyu (12), Anānata Pārucchepi (3), Śiśu (4).
+
+In this maṇḍala there are 114 sūktas, 7 anuvākas and 1108 ṛks.
+
+### Printed p. 99
+
+## Sūkta 44 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीगणेशाय नमः ॥ यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरम् ॥
+> अथ सप्तमाष्टकस्य प्रथमाध्याय आरभ्यते । ‘प्र णः' इति षडृचं विंशं सूक्तमांगिरसस्यायास्यस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतं- प्र णोऽयास्यः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa begins with the invocation "Salutation to Śrī Gaṇeśa" and a verse: him from whose breath the Vedas came, who out of the Vedas created the whole world, that Vidyātīrtha Maheśvara I praise. He then says that the first chapter of the seventh aṣṭaka now begins. The sūkta प्र णः (*pra ṇaḥ*) is a sūkta of six ṛks, the twentieth (in the anuvāka); its seer is Ayāsya Āṅgirasa, its metre Gāyatrī, its deity Pavamāna Soma. And so the Anukramaṇī says प्र णोऽयास्यः (*pra ṇo 'yāsyaḥ*). The viniyoga has already been stated.
+
+Translation: The first chapter of the seventh aṣṭaka of the Ṛgveda Saṃhitā now begins. Since nineteen sūktas of the second anuvāka of the ninth maṇḍala were completed in the previous chapter, this sūkta that now begins here, प्र ण इंदो (*pra ṇa iṃdo*), is the twentieth sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is आयास्य आंगिरसः (*āyāsya āṃgirasaḥ*); the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said प्रणोऽयास्यः (*praṇo 'yāsyaḥ*). The viniyoga has been stated before.
+
+Sūkta 44. Maṇḍala 9, Anuvāka 2, Sūkta 44. Aṣṭaka 7, Adhyāya 1, Varga 1. Number of ṛks in the sūkta: 6. Seer: Ayāsya. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ण॑ इंदो म॒हे तन॑ ऊ॒र्मिं न बिभ्र॑दर्षसि ।  
+> अ॒भि दे॒वाँ अ॒यास्यः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । नः । इंदो इति । महे । तने । ऊर्मिम् । न । बिभ्रत् । अर्षसि ।  
+> अभि । देवान् । अयास्यः ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 93. pp. 88-93: pressings and Gayatri, Vayu and Indra contest, Rbhus, Soma sacrifice forms
+**Progress note:** Done through printed p. 99. pp. 94-99: simile of boat, sin-removal Pariśiṣṭa verses, seers of Maṇḍala 9, start of Sūkta 9-44
