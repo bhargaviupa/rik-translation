@@ -11156,6 +11156,261 @@ Metre: Gāyatrī.
 
 On the story told here, the Śāṭyāyanaka (Brāhmaṇa) says: the Gaupāyanas approached Asamāti, son of Rathaproṣṭha. They were in the Khāṇḍava, and two, Kilāta and Ākuli, lived with Rathaproṣṭha's son, using asura magic. Placing the cooked rice and the flesh in the fire, they burned the asura food, and the Ikṣvākus were overthrown. The oblations of the Gopāyanas tormented that Asamāti, son of Rathaproṣṭha. He said: "Kilāta and Ākuli, these oblations of the Gopāyanas are tormenting me." The two answered that they were his physicians, and that they would see to the expiation for it, and that they would do so. (The passage is cut off here.)
 
+### Printed p. 356
+
+> यथा नैता नाभितपंतीति । तौ परेत्य सुबंधोर्गौपायनस्य स्वपतः प्रमत्तस्यासुमाहुत्यांतःपरिधि न्यधत्तामित्यादि । तं सुबंधोरसुमादातुं खांडवादसमातिं
+> प्रतिगच्छंतो गौपायना वदंति । हे इंद्र वयं गौपायनाः पथः समीचीनान्मार्गान्ना प्र गाम । मा परागच्छाम । असमातिगृहमेव गच्छाम । मा च सोमिनोऽसमातेर्यज्ञात्प्र गाम । मा स्थुर्मा तिष्ठंतु नोऽस्माकमंतर्मार्गमध्येऽरातयः
+> शत्रवः । यद्वा । सोमिनः सोमवतो यागान्मा प्र गाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa quotes the end of the story: यथा नैता नाभितपंतीति । तौ परेत्य सुबंधोर्गौपायनस्य स्वपतः प्रमत्तस्यासुमाहुत्यांतःपरिधि न्यधत्तामित्यादि । (*yathā naitā nābhitapaṃtīti | tau paretya subaṃdhorgaupāyanasya svapataḥ pramattasyāsumāhutyāṃtaḥparidhi nyadhattāmityādi |*). The two priests went and placed the life-breath of Subandhu Gaupāyana, who was sleeping unguarded, inside the inner fire-boundary with an oblation. The Gopāyanas, going to Asamāti to take Subandhu's life back from him, say: "O Indra, we Gopāyanas shall not depart from the right paths. Let us not turn aside; let us go to Asamāti's house itself. Let us not depart from the sacrifice of Asamāti, the Soma-offerer. Let not our enemies stand in our way, in the middle of the road." Alternatively: "Let us not depart from the sacrifices of the Soma-possessor."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वयं (*vayaṃ*)—we
+- पथः (*pathaḥ*)—from the good path
+- मा प्र गाम (*mā pra gāma*)—let us not go far away
+- सोमिनः (*sominaḥ*)—of Asamāti, who offers Soma
+- यज्ञात् मा (*yajñāt mā*)—let us not go away from the sacrifice
+- नः (*naḥ*)—our
+- अंतः (*aṃtaḥ*)—in the middle of the road
+- अरातयः (*arātayaḥ*)—enemies
+- मा स्थुः (*mā sthuḥ*)—let them not stand across (our way)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, let us not go far away from the good path. Let us not go away from the sacrifice of King Asamāti, the offerer of Soma. Let no enemies stand across our way in the middle of the road.
+
+##### English translation
+Let us not depart, Indra, from the path; let us not (depart) from the sacrifice of the offerer of the libation; let not our adversaries remain (in our place).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the commentary on this Ṛk, Sāyaṇa has cited an anecdote from the Śāṭyāyana-brāhmaṇa.
+असमातिं राथप्रौष्ठं गौपायना अभ्यगमंस्ते खांडवे सत्रमासताथ हासमात् राथप्रौष्ठे किलाताकुली ऊषतुरसुरमायौ तं ह स्मानग्नौ निधायोदनं पचतोऽग्नौ मांसमथासुरान्नं दग्धीक्ष्वाकवः पराबभूवुः । तमसमातिं राथप्रौष्ठं गौपायनानामाहुतयोऽभ्यतपन् सोऽब्रवीदिमौ किलाताकुली इमा वै मा गौपायनानामाहुतयोऽभितपंतीति तावब्रूतां तस्य ना आवामेव भिषजौ स्व आवां प्रायश्चित्तिरानां तथा करिष्यावो यथा नैता नाभितपंतीति । तौ परेत्य सुबंधोर्गौपायनस्य स्वपतः प्रमत्तस्यासुमाहुत्यांतःपरिधि न्यधत्तां । (*asamātiṃ rāthaprauṣṭhaṃ gaupāyanā abhyagamaṃste khāṃḍave satramāsatātha hāsamāt rāthaprauṣṭhe kilātākulī ūṣaturasuramāyau taṃ ha smānagnau nidhāyodanaṃ pacato 'gnau māṃsamathāsurānnaṃ dagdhīkṣvākavaḥ parābabhūvuḥ | tamasamātiṃ rāthaprauṣṭhaṃ gaupāyanānāmāhutayo 'bhyatapan so 'bravīdimau kilātākulī imā vai mā gaupāyanānāmāhutayo 'bhitapaṃtīti tāvabrūtāṃ tasya nā āvāmeva bhiṣajau sva āvāṃ prāyaścittirānāṃ tathā kariṣyāvo yathā naitā nābhitapaṃtīti | tau paretya subaṃdhorgaupāyanasya svapataḥ pramattasyāsumāhutyāṃtaḥparidhi nyadhattāṃ |*) and so on.
+Once the sons of Gopāyana, Bandhu and the others, were performing a sattra sacrifice in the forest region called Khāṇḍava. Then they came to the king named Asamāti, son of Rathaproṣṭha. At that time
+
+### Printed p. 357
+the king had two priests, Kilāta and Ākulī. They were skilled in the abhicāra (hostile rites) and māyā (magic) practised by asuras. They had the king offer flesh and the food of the asuras in the fire. Because of this, the Ikṣvāku kings were defeated in battle. Displeased at this, the Gopāyana sons, Bandhu and the others, made offerings in the fire, and by that offering King Asamāti, son of Rathaproṣṭha, felt a heat in his body as if he were burning greatly. Distressed by it, Asamāti said to his new priests Kilāta and Ākulī: "These oblations offered in the fire by the Gopāyana sons are burning me." They answered: "Do not fear; we shall be your physicians. We shall perform a rite of expiation for this and remove the burning of your body." Having consoled him thus, they set out from there and came to the Gopāyana sons, Bandhu and the others. Then, by their power of magic they took away the life-breath of one named Subandhu, who was sleeping among them without being on guard, and brought it and placed it in the middle of the inner fire-boundary of the fire. Thus, beginning so, runs the anecdote. When going to King Asamāti's house to bring back the life-breath of the dead Subandhu, Bandhu and the others praised Indra with the Ṛks of this sūkta beginning मा प्र गाम (*mā pra gāma*).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो य॒ज्ञस्य॑ प्र॒साध॑न॒स्तंतु॑र्दे॒वेष्टात॑तः ।  
+> तमाहु॑तं नशीमहि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । यज्ञस्य । प्रसाधनः । तंतुः । देवेषु । आततः ॥  
+> तं। आहुतं । नशीमहि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योऽयमग्नाख्यस्तंतुराहवनीयादिरूपेण विस्त्रतो यज्ञस्य प्रसाधनः
+> प्रकर्षेण साधयिता दैन्वैः स्तोतृभिर्ऋत्विग्निर्विस्तारितो वर्तते वेद्यां तमाहुतं
+> सर्वतो हूयमानं नशीमहि । प्राफ्नुयाम । नशतिर्व्याप्तिकर्मा ॥
+
+##### Gist of the bhāṣya
+
+This Agni is the thread of the sacrifice, spread out in the form of the Āhavanīya and the other fires; he is the one who accomplishes the sacrifice. He is extended on the vedi by the priests, the praisers, among the gods. We would obtain him, who is offered oblations on all sides. The root नश (*naśa*) has the sense of pervading.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Agni
+- तंतुः (*taṃtuḥ*)—who is like the thread of the sacrifice
+- यज्ञस्य (*yajñasya*)—of the sacrifice
+- प्रसाधनः (*prasādhanaḥ*)—who is like its ornament
+- देवेषु (*deveṣu*)—by the priests
+- आततः (*ātataḥ*)—who is brought to the sacrifice
+- तं (*taṃ*)—such
+- आहुतं (*āhutaṃ*)—Agni, who is worthy of invocation (to whom oblations are offered everywhere)
+- नशीमहि (*naśīmahi*)—let us approach
+
+### Printed p. 358
+
+##### भावार्थ (Bhāvārtha)
+
+Let us approach Agni, who is like the thread of the sacrifice, like its ornament, who is brought by the priests, and to whom oblations are offered everywhere.
+
+##### English translation
+May we obtain (the favour of) him to whom burnt offerings are presented, (Agni), who is the thread, the perfecter of sacrifice, drawn out (by the priests) to the gods.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनो॒ न्वा हु॑वामहे नाराशं॒सेन॒ सोमे॑न ।  
+> पि॒त्था॒णां च॒ मन्म॑भिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनः । नु । आ । हुवामहे । नाराशंसेन । सोमेन ॥  
+> पित्थाणां । च । मन्मभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिंडपितृयज्ञे मनो न्वा हुवामह इति तृचेन पिंडाभिमानिनः पितर उपस्थेयाः । सूत्रितं च । मनो न्वा हुवामह इति चतसृभिरथैनान्प्रवाहयेत् ।
+> आ.२-७ । इति ॥
+> वयं बंधुश्रुतबंध्वादयो मनः सुबंधोः संबंधि मायाविभिरपहृतं
+> नु क्षिप्रमा हुवामहे । केन साधनेनेति तदुच्यते । नाराशंसेन नराशंसचमसगतेन सोमेन । नरैः शस्यंत इति नराशंसाः पितरः । तेषां चमसानां कंपनमेव
+> होमः । तथाविधेन सोमेन पितृणामंगिरसां मन्मभिर्मगनीयैः स्तोत्रैश्च ॥
+
+##### Gist of the bhāṣya
+
+In the Piṇḍapitṛyajña, the Pitṛs who preside over the piṇḍas are to be approached with the triplet beginning मनो न्वा हुवामहे (*mano nvā huvāmahe*). It is laid down in the sūtra: मनो न्वा हुवामह इति चतसृभिरथैनान्प्रवाहयेत् (*mano nvā huvāmaha iti catasṛbhirathainānpravāhayet*) (Ā. 2-7). **NOTE**
+We, Bandhu, Śrutabandhu and the others, quickly call back the mind of Subandhu, which has been carried off by the magicians. By what means is then told: with the Soma placed in the Narāśaṃsa cup. The Pitṛs are the Narāśaṃsas, "those praised by men"; the shaking of their cups is itself the oblation. We call with such Soma, and with the मन्मभिः (*manmabhiḥ*) (praise-hymns worthy of thought) of the Pitṛs, the Aṅgirases. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नाराशंसेन (*nārāśaṃsena*)—offered from the cup dedicated to the Pitṛs
+- सोमेन (*somena*)—with the Soma
+- पितृणां (*pitṛṇāṃ*)—of the Aṅgirases
+- मन्मभिः (*manmabhiḥ*)—with the praises
+- मनः (*manaḥ*)—the mind of Subandhu
+- नु (*nu*)—quickly
+- आ हुवामहे (*ā huvāmahe*)—we call
+
+### Printed p. 359
+
+##### भावार्थ (Bhāvārtha)
+
+With the Soma offered from the cup dedicated to the Pitṛs and with the praises of the Aṅgirases, we quickly call back Subandhu's mind.
+
+##### English translation
+We call upon the spirit (of Subandhu) with the Soma appropriated to the progenitors, with the praises of the pitris.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the iṣṭi called Piṇḍapitṛyajña, when the Pitṛ deities who preside over the piṇḍas are approached (prayed to), the three Ṛks (3-6) beginning मनो न्वा हुवामहे (*mano nvā huvāmahe*) are to be recited. This is explained by the sūtra of the Āśvalāyana-śrautasūtra मनो न्वा हुवामह इति च तिसृभिरथैनान्प्रवाहयेत् (*mano nvā huvāmaha iti ca tisṛbhirathainānpravāhayet*) (Ā. 2-7).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त॑ एतु॒ मनः॒ पुनः॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ।  
+> ज्योक्च॒ सूर्यं॑दृ॒शे ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । एतु । मनः । पुनरिति । क्रत्वे । दक्षाय । जीवसे ॥  
+> ज्योक् । च । सूर्यं । दृशे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे संबंधो ते मनः पुनरैतु । अभिचरतः सकाशात्पुनरागच्छतु । किमर्थ.
+> मिति उच्यते । क्रत्वे कर्मणे लौकिकवैदिकविषयाय दक्षाय बलाय च । यद्वा ।
+> क्रत्वेऽपानाय दक्षाय प्राणाय । प्राणो वै दक्षोपानः क्रतुरिति हि श्रुतिः ।
+> जीवसे जीवनाय च । ज्योश्च चिरकालं सूर्यं दृशे । सूर्यं द्रष्टुं । अत्यंतं
+> चिरजीवनायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Subandhu, let your mind come back again, return from the one who is working the hostile rite. For what? For क्रत्वे (*kratve*): for action, worldly and Vedic; and for दक्षाय (*dakṣāya*): for strength." Or else: क्रत्वे (*kratve*) for the apāna and दक्षाय (*dakṣāya*) for the prāṇa, for the Śruti says प्राणो वै दक्षोपानः क्रतुरिति (*prāṇo vai dakṣopānaḥ kraturiti*). जीवसे (*jīvase*): for living. ज्योक् (*jyok*): for a long time; सूर्यं दृशे (*sūryaṃ dṛśe*): to see the sun. The meaning is: for a very long life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu) क्रत्वे (*kratve*)—for performing good action
+- दक्षाय (*dakṣāya*)—for the establishing of strength
+- जीवसे (*jīvase*)—for living
+- ज्योक् (*jyok*)—for a long time
+- सूर्यं (*sūryaṃ*)—the sun
+
+### Printed p. 360
+- दृशे (*dṛśe*)—for seeing
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- पुनः (*punaḥ*)—again
+- आ एतु (*ā etu*)—let it come back from the hostile rite
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, for performing good action, for the establishing of strength, for living, and for seeing the sun for a long time, let your mind (life-breath) come back again from the magician.
+
+##### English translation
+May (your) spirit (of Subandhu) come back again to perform pious acts ; to exercise strength ; to live ; and long to see the sun.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पुन॑र्नः पितरो॒ मनो॒ ददा॑तु॒ दैवो॒ जनः॑ ।  
+> जी॒वं व्रातं॑ सचेमहि ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनः । नः । पितरः । मनः । ददातु । दैव्यः । जनः ॥  
+> जीवं । व्रातं । सचेमहि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं पितरः पितृभूता अंगिरसो जनः । तेषां संघ इत्यर्थः ।
+> स्वच जीवं व्रातं प्राणादींद्रियसंघातं पुनर्ददातु । तथा दैव्यू जनः । जनशब्दः
+> संघवचनः । देवानां संघोऽपि जीवं व्रातं च ददातु । वयं च तदुभयं
+> सचेमहि । प्राप्नुयाम ॥
+
+##### Gist of the bhāṣya
+
+नः (*naḥ*) is "our"; पितरः (*pitaraḥ*) are the Aṅgirases who have become our fathers. जनः (*janaḥ*) means their host. Let them give back the living व्रातं (*vrātaṃ*), the aggregate of the senses beginning with the prāṇa. So also दैव्यः जनः (*daivyaḥ janaḥ*): the word जन (*jana*) denotes a host, so let the host of the gods too give the living व्रातं (*vrātaṃ*). And let us obtain both (सचेमहि (*sacemahi*): let us attain).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः जनः (*pitaraḥ janaḥ*)—the Aṅgirases, our fathers
+- न (*na*)—to us
+- जीवं व्रातं मनः (*jīvaṃ vrātaṃ manaḥ*)—the aggregate of the vital breaths together with the senses and the rest
+- पुनः (*punaḥ*)—again
+- ददातु (*dadātu*)—let them bestow
+- दैव्यः (*daivyaḥ*)—let the host of the gods also grant it to us
+- सचेमहि (*sacemahi*)—let us fully obtain and experience it
+
+### Printed p. 361
+
+##### भावार्थ (Bhāvārtha)
+
+May the Aṅgirases, our fathers, bestow again on us the aggregate of the vital breaths together with the senses and the rest; may the host of the gods also grant it to us. May we fully experience it.
+
+##### English translation
+May our progenitors, may the host of the gods, restore (your) spirit; may we obtain (for you) the aggregate of the functions of life.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यं सो॑म व्र॒ते तव॒ मन॑स्त॒नूषु॒ बिभ्र॑तः ।  
+> प्र॒जावं॑तः सचेमहि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । सोम । व्रते । तव । मनः । तनूषु । बिभ्रतः ॥  
+> प्रजावंतः । सचेमहि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देव वयं बंध्वादयस्तव व्रते त्वदीये कर्मणि । व्रतमिति कर्मनाम । तव तनूषु तदीयेष्वंगेषु च मनो विभ्रतस्तात्पर्ययुक्तां बुद्धिं
+> धारयंतः प्रजावंतः प्रजाभिः पुत्रपौत्रादिभिर्युक्ताः सचेमहि । संगच्छेमहि ।
+> जीवं व्रातं चेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+"O god Soma, we, Bandhu and the others, in your व्रते (*vrate*), in your rite (व्रातं (*vrātaṃ*) is a name for action), and in your तनूषु (*tanūṣu*), your limbs, bearing a mind devoted to that, प्रजावंतः (*prajāvaṃtaḥ*), endowed with offspring (sons, grandsons and so on), let us be united." The remainder to be supplied is: जीवं व्रातं च (*jīvaṃ vrātaṃ ca*), "the living host".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- वयं (*vayaṃ*)—we
+- तव व्रते (*tava vrate*)—in the rite of worshipping you
+- तनूषु (*tanūṣu*)—in regard to you
+- मनः (*manaḥ*)—the mind
+- बिभ्रतः (*bibhrataḥ*)—having placed
+- प्रजावंतः (*prajāvaṃtaḥ*)—endowed with sons and others
+- सचेमहि (*sacemahi*)—may we attain happiness
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, in the rite of worshipping you and in regard to you, meditating on you alone, may we attain the happiness of obtaining sons and others.
+
 ---
 
-**Progress note:** Done through printed p. 355. pp. 350-355 (batch API)
+**Progress note:** Done through printed p. 361. pp. 356-361 (batch API)
