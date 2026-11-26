@@ -8354,6 +8354,234 @@ Let not reproach reach us; far off is the goal; there is the wealth stored; may 
 
 O Indra, when you make (करः करोषि (*karaḥ karoṣi*)) the fourth (तुरीयं चतुर्थं (*turīyaṃ caturthaṃ*)) name (नाम (*nāma*)) relating to the sacrifice (यज्ञियं यज्ञसंबंधि (*yajñiyaṃ yajñasaṃbaṃdhi*)), that we desire (तदुश्मसि कामयामहे (*taduśmasi kāmayāmahe*)). Immediately afterwards, after the desire for the name, you, the protector (पतिः पालकस्त्वं (*patiḥ pālakastvaṃ*)), carry us (ओहसे वहसि प्रापयसि (*ohase vahasi prāpayasi*)), bring us to our goal. There are three names: नक्षत्रनाम गुह्यं नाम प्रकाशं नाम (*nakṣatranāma guhyaṃ nāma prakāśaṃ nāma*); the fourth name is that of the Soma-sacrificer (सोमयाजीति तुरीयं नाम (*somayājīti turīyaṃ nāma*)), and that is the one relating to the sacrifice.
 
+### Printed p. 205
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) यज्ञियं (*yajñiyaṃ*)—that which relates to the sacrifice
+- तुरीयं (*turīyaṃ*)—the fourth, called Somayājin
+- नाम (*nāma*)—name
+- यदा (*yadā*)—when
+- करः (*karaḥ*)—you assume
+- तत् (*tat*)—then that
+- उश्मसि (*uśmasi*)—we desire
+- आत् इत् (*āt it*)—immediately after that
+- पतिः (*patiḥ*)—you, the protector
+- नः (*naḥ*)—to us
+- ओहसे (*ohase*)—you help us to attain our desired end
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the name that relates to the sacrifice, the fourth among the four names, Nakṣatra-nāma, Guhya-nāma, Prakāśa-nāma and Somayājī, namely the fourth name Somayājī: whenever you assume it, we desire it. Immediately after that, you, the protector, help us to attain our desired end.
+
+##### English translation
+When you assume your sacrificial fourth name, we long for it; then you forthwith carry us as a protector.
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अवी॑वृधद्वो अमृता॒ अमं॑दीदेक॒द्यूर्दे॑वा उ॒त याश्च॑ देवीः ।  
+> तस्मा॑ उ॒ राधः॑ कृणुत प्रश॒स्तं प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवीवृधत् । वः । अमृताः । अमंदीत् । एकऽद्यूः । देवाः । उत । याः । च । देवीः ।  
+> तस्मै । ऊं इति । राधः । कृणुत । प्रऽशस्तम् । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ १० ॥
+
+### Printed p. 206
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं वैश्वदेवी । हे देवाः हे अमृताः अमरणाः वः युष्मानयम् अवीवृधत् वर्धयति स्तुत्या अमंदीत् तर्पयति सोमेन एकद्यूः ऋषिरहम् । उत अपि च हे देवीः देव्यो देवपत्न्यः याश्च यूयं स्थ युष्मानप्यवीवृधदमंदीच्च । तस्मै राधः धनं प्रशस्तं प्रवृद्धं कृणुत कुरुन । उ इति पूरण एवकारार्थो वा । प्रातः प्रातरेव मक्षु क्षिप्रं धियावसुः कर्मधन इंद्रः जगम्यात् आगच्छतु । इंद्रस्य देवस्वामित्वादाधिक्यद्योतनाय पुनरभिधानम् ॥ ॥ ३६ ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+This Ṛk is addressed to the Viśvedevas (इयं वैश्वदेवी (*iyaṃ vaiśvadevī*)). O gods, O immortals (अमृताः अमरणाः (*amṛtāḥ amaraṇāḥ*)), this seer, Ekadyu, has made you grow by praise (अवीवृधत् वर्धयति स्तुत्या (*avīvṛdhat vardhayati stutyā*)) and has gratified you with Soma (अमंदीत् तर्पयति सोमेन (*amaṃdīt tarpayati somena*)). Also, O goddesses, the wives of the gods, whoever you are, he has made you too grow and has gratified you. For him make wealth, राधः धनं (*rādhaḥ dhanaṃ*), excellent and abundant (प्रशस्तं प्रवृद्धं (*praśastaṃ pravṛddhaṃ*)). The word उ (*u*) is a filler or has the sense of "indeed". May Indra, धियावसुः कर्मधन (*dhiyāvasuḥ karmadhana*), whose wealth is rite, come quickly, in the very morning (प्रातः प्रातरेव मक्षु क्षिप्रं (*prātaḥ prātareva makṣu kṣipraṃ*)). Indra is named again to show his pre-eminence, since he is lord of the gods (इंद्रस्य देवस्वामित्वादाधिक्यद्योतनाय पुनरभिधानम् (*iṃdrasya devasvāmitvādādhikyadyotanāya punarabhidhānam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods
+- उत (*uta*)—and
+- याः च देवीः (*yāḥ ca devīḥ*)—O goddesses, wives of the gods, whoever you are
+- अमृताः (*amṛtāḥ*)—free from the nature of death
+- वः (*vaḥ*)—you
+- एकद्युः (*ekadyuḥ*)—the seer named Ekadyu
+- अवीवृधं (*avīvṛdhaṃ*)—has made you grow by praise and the like
+- अमंदीत् (*amaṃdīt*)—has also made you gratified by offerings of Soma and the rest
+- तस्मै (*tasmai*)—for him
+- राधः (*rādhaḥ*)—wealth
+- प्रशस्तं (*praśastaṃ*)—so that it grows excellently
+- कृणुत (*kṛṇuta*)—make
+- धियावसुः (*dhiyāvasuḥ*)—Indra, whose wealth is rite
+- मक्षु (*makṣu*)—quickly
+- प्रातः (*prātaḥ*)—in the morning itself
+- जगम्यात् (*jagamyāt*)—may he come
+
+##### भावार्थ (Bhāvārtha)
+
+O gods and goddesses, the seer named Ekadyu has made you, free from death, grow by praise and the like. He has also made you gratified by offerings of Soma and the rest. Make his wealth grow excellently. May Indra, whose wealth is rite, come quickly in the very morning.
+
+##### English translation
+O immortal gods and all you goddesses, Ekadyu has honoured you (with his praise) and rejoiced you (with his Soma-offerings); make his substance abundant; and may (Indra), who rewards pious acts with wealth, come speedily in the morning.
+### Printed p. 207
+## Sūkta 81 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नवमेऽनुवाके त्रयोदश सूक्तानि । तत्र ‘आ तू न इंद्र' इति नवर्चं प्रथमं सूक्तं कण्वपुत्रस्य कुसीदिन आर्षं गायत्रमैंद्रम् । तथा चानुक्रम्यते--- आ तू नो नव कुसीदी काण्वः' इति । महाव्रते निष्केवल्ये गायत्रतृचाशीतावेतदादिके द्वे सूक्ते । तथैव पंचमारण्यके सूत्रितं च शौनकेन - ‘आ तू न इंद्र क्षुमंतमिति सूक्ते सूददोहाः' (ऐ. आ. ५. २. ३) इति । द्वितीये पर्याये मैत्रावणशस्त्र आद्यस्तृचः स्तोत्रियः । सूत्रितं च--- आ तू न इंद्र क्षुमंतमा प्र द्रव परावतः ' ( आश्व. श्रौ. ६. ४ ) इति ।
+
+##### Gist of the bhāṣya
+
+In the ninth Anuvāka there are thirteen sūktas. Among them the first is the sūkta of nine Ṛks beginning आ तू न इंद्र (*ā tū na iṃdra*); its seer is Kusīdin, the son of Kaṇva; it is in the Gāyatrī metre and addressed to Indra. So the Anukramaṇikā says: आ तू नो नव कुसीदी काण्वः (*ā tū no nava kusīdī kāṇvaḥ*). In the Mahāvrata, in the Niṣkevalya śastra, this sūkta and the next, two sūktas beginning with it, are used for the Gāyatrī tṛca. So Śaunaka states in the Fifth Āraṇyaka: आ तू न इंद्र क्षुमंतमिति सूक्ते सूददोहाः (*ā tū na iṃdra kṣumaṃtamiti sūkte sūdadohāḥ*) (Ai. Ā. 5. 2. 3). In the second paryāya, in the Maitrāvaruṇa śastra, the first tṛca is the Stotriya. It is stated in the sūtra: आ तू न इंद्र क्षुमंतमा प्र द्रव परावतः (*ā tū na iṃdra kṣumaṃtamā pra drava parāvataḥ*) (Āśv. Śrau. 6. 4).
+
+##### Anuvāda
+
+In the ninth Anuvāka of the eighth Maṇḍala there are thirteen sūktas. Among them the sūkta आ तू न इंद्र (*ā tū na iṃdra*) is the first. It has nine Ṛks. The seer of this sūkta is Kusīdī, the son of Kaṇva; Indra is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: आ तू नो नव कुसीदी काण्वः (*ā tū no nava kusīdī kāṇvaḥ*). In the Mahāvrateṣṭi, in the recitation of the Niṣkevalya śastra mantras, this sūkta and the following one are used for the Gāyatrī-metre Ṛks; this is indicated in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sage Śaunaka in the sentence आ तू न इंद्र क्षुमंतमिति सूक्ते सूददोहाः (*ā tū na iṃdra kṣumaṃtamiti sūkte sūdadohāḥ*) (Ai. Ā. 5-2-3). In the second paryāya, the first three Ṛks of this sūkta are to be recited as the Stotriya tṛca in the śastra mantras recited by the priest called Maitrāvaruṇa; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ तू न इंद्र क्षुमंतमा प्र द्रव परावतः (*ā tū na iṃdra kṣumaṃtamā pra drava parāvataḥ*) (Ā. 6-44). **NOTE**
+Sūkta 81
+Maṇḍala 8, Anuvāka 8, Sūkta 81 **NOTE**
+Aṣṭaka 6, Adhyāya 5, Varga 37, 38
+Number of Ṛks in the sūkta: 9
+Seer: Kusīdī Kāṇvaḥ
+Deity: Indraḥ
+Metre: Gāyatrī
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तू न॑ इंद्र क्षु॒मंतं॑ चि॒त्रं ग्रा॒भं सं गृ॑भाय ।  
+> म॒हा॒ह॒स्ती दक्षि॑णेन ॥ १ ॥
+
+### Printed p. 208
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तु । नः । इंद्र । क्षुऽमंतम् । चित्रम् । ग्राभम् । सम् । गृभाय ।  
+> महाऽहस्ती । दक्षिणेन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र महाहस्ती महाहस्तवान् त्वं तु तदानीमेव नः अस्मभ्यं दातुं क्षुमंतं शब्दवंतम् । स्तुत्यमित्यर्थः । चित्रं चायनीयं ग्राभं ग्राहकं ग्रहणार्हं वा धनं दक्षिणेन हस्तेन  आ सं गृभाय आभिमुख्येन संगृहाण ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you of the great hand (महाहस्ती महाहस्तवान् (*mahāhastī mahāhastavān*)), at that very moment, to give to us, take up with your right hand the wealth that is क्षुमंतं शब्दवंतम् (*kṣumaṃtaṃ śabdavaṃtam*), that is, praiseworthy; marvellous (चित्रं चायनीयं (*citraṃ cāyanīyaṃ*)); ग्राभं ग्राहकं ग्रहणार्हं वा (*grābhaṃ grāhakaṃ grahaṇārhaṃ vā*), that which grasps or is fit to be grasped. Take it up facing us (आभिमुख्येन संगृहाण (*ābhimukhyena saṃgṛhāṇa*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- महाहस्ती (*mahāhastī*)—you, who have a great (large) hand
+- तु (*tu*)—at once
+- नः (*naḥ*)—to give to us
+- क्षुमंतं (*kṣumaṃtaṃ*)—that which is praiseworthy
+- चित्रं (*citraṃ*)—that which is attractive
+- ग्राभं (*grābhaṃ*)—that which is fit to be grasped, the wealth
+- दक्षिणेन (*dakṣiṇena*)—with the right hand
+- आ सं गृभाय (*ā saṃ gṛbhāya*)—take hold of
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have a great hand, take hold with your right hand of the wealth that is praiseworthy, attractive and fit to be grasped, to give it to us at once.
+
+##### English translation
+Indra, lord of the mighty hand, seize for us with your right hand marvellous praise-exciting (riches), worthy to be seized.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा हि त्वा॑ तुविकू॒र्मिं तु॒विदे॑ष्णं तु॒वीम॑घम् ।  
+> तु॒वि॒मा॒त्रमवो॑भिः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । त्वा । तुविऽकूर्मिम् । तुविऽदेष्णम् । तुविऽमघम् ।  
+> तुविऽमात्रम् । अवःऽभिः ॥ २ ॥
+
+### Printed p. 209
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां विद्म हि जानीमः खलु । कीदृशमिति । तुविकूर्मिं बहुकर्माणं तुविदेष्णं बहुप्रदेयं तुविमघं बहुधनं तुविमात्रं बहुप्रमाणम् अवोभिः युक्तम् ॥
+
+##### Gist of the bhāṣya
+
+O Indra, we indeed know you (त्वा त्वां विद्म हि जानीमः खलु (*tvā tvāṃ vidma hi jānīmaḥ khalu*)). Of what kind? तुविकूर्मिं बहुकर्माणं (*tuvikūrmiṃ bahukarmāṇaṃ*), of many deeds; तुविदेष्णं बहुप्रदेयं (*tuvideṣṇaṃ bahupradeyaṃ*), with many gifts to give; तुविमघं बहुधनं (*tuvimaghaṃ bahudhanaṃ*), of much wealth; तुविमात्रं बहुप्रमाणम् (*tuvimātraṃ bahupramāṇam*), of great measure; अवोभिः युक्तम् (*avobhiḥ yuktam*), furnished with protections.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वा (*tvā*)—you
+- तुविकूर्मिं (*tuvikūrmiṃ*)—as one of many kinds of deeds
+- तुविदेष्णं (*tuvideṣṇaṃ*)—as one who gives abundantly
+- तुविमुघं (*tuvimughaṃ*)—as one who has abundant wealth
+- तुविमात्रं (*tuvimātraṃ*)—as one of vast measure
+- अवोभिः (*avobhiḥ*)—as one endowed with protection
+- विद्म हि (*vidma hi*)—we do know
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we do know you as one of many kinds of deeds, one who gives abundantly, one who has abundant wealth, one of vast measure, and one endowed with protection.
+
+##### English translation
+We know you the achiever of many great deeds, the bestower of many gifts, the lord of much wealth, vast in size, and full of protection (for your worshippers).
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒हि त्वा॑ शूर दे॒वा न मर्ता॑सो॒ दित्सं॑तम् ।  
+> भी॒मं न गां वा॒रयं॑ते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । त्वा । शूर । देवाः । न । मर्तासः । दित्संतम् ।  
+> भीमम् । न । गाम् । वारयंते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शूर इंद्र त्वा त्वां दित्संतं दातुमिच्छंतं देवाः नहि वारयंते न निवारयंति । तथा मर्तासः मर्त्या अपि न वारयंते । भीमं न गां भयजनकं वृषभं यवसे प्रवृत्तमिव । तं यथा वारयितुं न शक्नुवंति तद्वत् ॥
+> प्रथमे पर्यायेऽच्छावाकशस्त्रे ‘एतो न्विंद्रम्' इति तृचः । तथा च सूत्रितम् - ‘एतो न्विंद्रं स्तवामेशानं मा नो अस्मिन्मघवन्' (आश्व. श्रौ. ६. ४) इति ।
+
+##### Gist of the bhāṣya
+
+O hero Indra, when you wish to give (दित्संतं दातुमिच्छंतं (*ditsaṃtaṃ dātumicchaṃtaṃ*)), the gods do not restrain you, and mortals too do not restrain you. As a fearsome bull (भीमं न गां भयजनकं वृषभं (*bhīmaṃ na gāṃ bhayajanakaṃ vṛṣabhaṃ*)) that has set out for pasture cannot be restrained, so it is with you. In the first paryāya, in the Acchāvāka śastra, there is the tṛca एतो न्विंद्रम् (*eto nviṃdram*). So it is stated in the sūtra: एतो न्विंद्रं स्तवामेशानं मा नो अस्मिन्मघवन् (*eto nviṃdraṃ stavāmeśānaṃ mā no asminmaghavan*) (Āśv. Śrau. 6. 4).
+### Printed p. 210
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शूर (*śūra*)—O Indra, the valiant
+- भीमं (*bhīmaṃ*)—fearsome
+- गां न (*gāṃ na*)—as a bull cannot be restrained
+- दित्संतं (*ditsaṃtaṃ*)—who are desirous of giving
+- त्वा (*tvā*)—you
+- देवाः (*devāḥ*)—the gods
+- नहि वारयंते (*nahi vārayaṃte*)—cannot restrain
+- मर्तासः (*martāsaḥ*)—men also
+- न (*na*)—cannot restrain
+
+##### भावार्थ (Bhāvārtha)
+
+O valiant Indra, as a fearsome bull cannot be restrained, so the gods cannot restrain you who are desirous of giving. Men also cannot restrain you.
+
+##### English translation
+Hero, when you desire to give, neither gods nor men can stay you, as (they cannot stay) a terrible bull.
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एतो॒ न्विंद्रं॒ स्तवा॒मेशा॑नं॒ वस्वः॑ स्व॒राज॑म् ।  
+> न राध॑सा मर्धिषन्नः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इत । ऊं इति । नु । इंद्रम् । स्तवाम । ईशानम् । वस्वः । स्वऽराजम् ।  
+> न । राधसा । मर्धिषत् । नः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीया जनाः एतो आगच्छतैव नु क्षिप्रम्। किं कर्तुम् । स्तवाम इंद्रम् । कीदृशं तम् । वस्वः वसुनः धनस्य ईशानं स्वामिनं स्वराजं स्वयमेव राजमानं स्वर्गे राजमानं वा । नः अस्मान् इंद्रेणानुगृहीतान् राधसा धनेनान्यो धनी न मर्धिषत् न बाधताम् । आढ्यानामस्मत्समानानामप्याढ्यत्वाय स्तवामेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O our people, come at once, quickly. To do what? To praise Indra. Of what kind is he? वस्वः वसुनः धनस्य ईशानं स्वामिनं (*vasvaḥ vasunaḥ dhanasya īśānaṃ svāminaṃ*), lord of wealth; स्वराजं स्वयमेव राजमानं (*svarājaṃ svayameva rājamānaṃ*), shining of himself, or shining in heaven (स्वर्गे राजमानं वा (*svarge rājamānaṃ vā*)). May no other wealthy man oppress us, who are favoured by Indra, with wealth (राधसा धनेनान्यो धनी न मर्धिषत् न बाधताम् (*rādhasā dhanenānyo dhanī na mardhiṣat na bādhatām*)). The meaning is: we praise him for the prosperity even of the wealthy who are like ourselves.
+
 ---
 
-**Progress note:** Done through printed p. 204. Maṇḍala 8 sūkta 80, Ṛk 3-9
+**Progress note:** Done through printed p. 210. Maṇḍala 8 sūkta 80 Ṛk 9-10, sūkta 81 Ṛk 1-4
