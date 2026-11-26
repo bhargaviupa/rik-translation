@@ -26,3 +26,5 @@
 - Nov 26 2026: p1045 line 9, user corrected their own reading: `೯-೬೫-೨೪` → `೯-೬೫-೨೫` (9-65-25).
 
 - Nov 26 2026: p1045 line 15, user's reading: `ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?]` → `೩-೧-೭-೩` (3-1-7-3). All numbers of Vol 26 part 2 are settled; one word mark left (p1071).
+
+- Nov 26 2026: p1071 line 17, user's reading: `ಮರ್ಜಯೋಮುಸಿ[?]` → `ಮರ್ಜಯೋಮಸಿ`. Vol 26 part 2 has no [?] left.
