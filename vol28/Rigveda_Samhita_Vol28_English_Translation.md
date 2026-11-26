@@ -1385,6 +1385,275 @@ As in the world an angry bull rushes (upon another), so does Indra, who directs 
 > उज्जा॑यतां पर॒शुज्योति॑षा स॒ह भू॒या य॒तस्य॑ सु॒दुघा॑  ॒
 > पुराण॒वत् ।
 
+### Printed p. 37
+
+> वि रोचतामरुषो भानुना शुचिः स्वर्ण शुक्रं शुशुचीत
+> सत्पतिः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । जायतां । परशुः । ज्योतिषा । सह । भूयाः । यतस्य । सुदुघा । पुराणवत् ।  
+> वि । रोचितां । अरुषः । भानुना । शुबिः । स्वः । न । शुक्रं । शुशुचीत । सर्पतिः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परशुरिंद्रस्य वज्रो ज्योतिषा तेजसा सहोज्णायतां । अस्मच्छत्रुवधे
+> मेघवधे च व्याप्रियशामित्यर्थः । किंचर्तस्य सत्यस्य सुदुघा माध्यमिका वाक्
+> पुराणवत् प्रश्नवत्काले भूयाः । भूयात् ॥ पुरुषव्यत्ययः ॥ किंचेंद्रोऽरुष
+> आरोचमानो भानुना दीप्ता शुचिर्ज्वलन् वि रोचतां । प्रकाशतां । किंच
+> सत्पतिः सतां पतिरिंद्रः स्वर्नादित्य इव शुक्रं ज्वलञ्जुशुचीत । अत्यंतं दीप्यतां ॥
+
+##### Gist of the bhāṣya
+
+The axe (परशुरिंद्रस्य वज्रो (*paraśuriṃdrasya vajro*)) is Indra's thunderbolt. Let it be born together with its light and splendour, active for the slaying of our enemy and for the slaying of the cloud. Further, let the well-milking speech of the middle region, belonging to truth (ऋतस्य (*ṛtasya*)), come into being "as of old" (पुराणवत् (*purāṇavat*), glossed with a word that reads प्रश्नवत्काले (*praśnavatkāle*)). **NOTE** Sāyaṇa says भूयाः (*bhūyāḥ*) stands for भूयात् (*bhūyāt*) (a change of person). Further, let Indra, ruddy and shining, bright and blazing with his radiance, shine forth. And let Indra, lord of the good, shine like the sun, blazing brightly, and burn exceedingly.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- परशुः (*paraśuḥ*)—Indra's thunderbolt
+- ज्योतिषा सह (*jyotiṣā saha*)—together with splendour
+- उज्जायशां (*ujjāyaśāṃ*)—let it come into being together
+- ऋतस्य (*ṛtasya*)—belonging to truth
+- सुदुघा (*sudughā*)—the speech of the middle region
+- पुराणवत् (*purāṇavat*)—as before
+- भूयाः (*bhūyāḥ*)—let it be made radiant
+- अरुषः (*aruṣaḥ*)—Indra, whose form is attractive
+- भानुना (*bhānunā*)—by his own splendour
+- शुचिः (*śuciḥ*)—pure
+- वि रोचतां (*vi rocatāṃ*)—let him shine
+- सत्पतिः (*satpatiḥ*)—Indra, the protector of good men
+- स्वर्न (*svarna*)—like the sun
+- शुक्रं (*śukraṃ*)—bright
+- शुशुचेत (*śuśuceta*)—let him shine exceedingly
+
+##### भावार्थ (Bhāvārtha)
+
+Let Indra's thunderbolt come into being together with splendour; let the speech of the middle region, belonging to truth, be made radiant as before. Let Indra, of attractive form, shine pure with his own splendour; let Indra, protector of good men, shine exceedingly bright like the sun.
+
+##### English translation
+Let the axe (of Indra) be put forth together with light: may the easily milked cow of truth be (manifested) as of old; may the pure and radiant Indra shine with splendour; may the lord of the virtuous shine brightly like the sun.
+
+### Printed p. 38
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गोभि॑ष्टरे॒माम॑तिं दु॒रेवां॒ यवे॑न॒ क्षुधं॑ पुरुहूत॒ विश्वां॑ ।  
+> व॒यं राज॑भिः प्रथ॒मा धना॑न्य॒स्माके॑न वृ॒जने॑ना जयेम ॥१०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गोभिः । तरेम । अमतिं । दुःएवां । यवेन । क्षुधं । पुरुहूत । विश्वां ।  
+> वयं । राजभिः । प्रथमाः । धनानि । अस्माकेन । वृजनेन । जयेम ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूतेंद्र तव प्रसादाद्दुरेवां दुष्टागमनां
+> दारिद्र्यादागताममतिं दुर्बुद्धि वयं घौषेयाः सुहस्ता गोभिः पशुभिस्तरेम ।
+> निस्तरेम । किंच यवेन विश्वां व्याप्तां क्षुधं शरेम । किंच प्रथमा मुख्यानि
+> धनानि राजभिर्धनानामीश्वरैः । लभेमहीति शेषः । यद्वा । प्रथमा वयमिति
+> संबंधः । किंचास्माकेनास्मदीयेन वृजनेन बलेन जयेम । शत्रूनिति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, invoked by many (पुरुहूत (*puruhūta*)), by your grace may we, (called) घौषेयाः (*ghauṣeyāḥ*) and सुहस्ता (*suhastā*), cross over with cattle the ill-mind (अमतिं (*amatiṃ*)) that comes of poverty and bad ways of approach (दुरेवां (*durevāṃ*)). **NOTE** Further, with barley let us cross the all-pervading hunger. Further, may we obtain the foremost riches through kings, lords of riches ("may we obtain" is to be supplied). Or else, the construction is "we the first". Further, by our own strength (वृजनेन (*vṛjanena*) = force) may we conquer (enemies are to be supplied).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—O Indra, called by many
+- दुरेवां (*durevāṃ*)—that came of poverty
+- अमतिं (*amatiṃ*)—the ill-mind
+- वयं (*vayaṃ*)—we
+- गोभिः (*gobhiḥ*)—with the help of our wealth of cattle
+- तरेम (*tarema*)—may we cross over
+- यवेन (*yavena*)—with the help of barley
+- विश्वां (*viśvāṃ*)—that surrounds us
+- क्षुधं (*kṣudhaṃ*)—may we cross over hunger
+- प्रथमाः (*prathamāḥ*)—most important
+- धनानि (*dhanāni*)—riches
+- राजभिः (*rājabhiḥ*)—through the lords of wealth (may we obtain)
+- अस्माकेन (*asmākena*)—our
+- वृजनेन (*vṛjanena*)—by strength
+- जयेम (*jayema*)—may we conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, invoked by many, may we cross over, with our wealth of cattle, the ill-mind that has come of poverty. With the help of barley may we destroy the hunger that surrounds us. May we obtain the foremost riches from the wealthy. By our strength may we conquer our enemies.
+
+##### English translation
+Indra, invoked of many may we escape all ignorance caused by poverty by means of our cattle : (may we escape) all hunger by means of
+
+### Printed p. 39
+our barley : (may we acquire) the chief riches through the princes (of wealth) : may we conquer by our valour.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पति॑र्नः॒ परि॑ पातु प॒श्चादु॒तोत्त॑रस्मा॒दध॑रादघा॒योः ।  
+> इंद्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । नः । परि । पातु । पश्चात् । उत । उत्तरस्मात् । अधरात् । अघयोः।  
+> इंद्रः । पुरस्तात् । उत । मध्यतः । नः । सखा । सखिभ्यः । वरिवः । कृणोतु ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पश्चात्पश्चिमतो योऽघायुरागच्छति तस्मादघायोः पापकाच्छत्रोर्नोS-
+> Sस्मान्स्पृहस्पतिः परि पातु । रक्षतु । उतापि चोत्तरस्मादुत्तरतोऽधरादधस्ताच्च
+> योऽघायुरागच्छति तस्मादघायोर्नोऽस्मान्परि पातु । उतापि चेंद्रः पुरस्तात्पूर्वतोमध्यतश्च योऽघायुरागच्छति तस्मादघायोर्नोऽस्मान्परि पातु । किंच ।
+> सखा सखभूतेंद्रः सखिभ्यः प्रियेभ्योऽस्मभ्यं वरिवो धनं कृणोतु । करोतु ॥
+
+##### Gist of the bhāṣya
+
+From behind, from the west, whatever malicious enemy comes: from that malicious, sinful enemy may Bṛhaspati (the text reads a damaged form of the name) protect us all round. Likewise from the north and from below, whoever comes with malice: from that malicious one may he protect us. And may Indra, from before (the east) and from the middle, protect us from whatever malicious one comes. Further, may Indra, the friend, grant wealth (वरिवः (*varivaḥ*)) to us, his dear friends.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- पश्चात् (*paścāt*)—from behind us
+- अघायोः (*aghāyoḥ*)—from the enemy who desires evil
+- नः (*naḥ*)—us
+- परि पातु (*pari pātu*)—let him protect
+- उत (*uta*)—and
+- उत्तरस्मात् (*uttarasmāt*)—from above us
+- अधरात् (*adharāt*)—let him protect us from the enemies who fall upon us from below
+- उत (*uta*)—and
+- इंद्रः (*iṃdraḥ*)—Indra
+- पुरस्तात् (*purastāt*)—from the east
+- मध्यतः (*madhyataḥ*)—from the middle
+- नः (*naḥ*)—let him protect us
+- सखा (*sakhā*)—Indra, the friend
+- सखिभ्यः (*sakhibhyaḥ*)—to us, his friends
+- वरिवः (*varivaḥ*)—wealth
+- कृणोतु (*kṛṇotu*)—let him provide
+
+##### भावार्थ (Bhāvārtha)
+
+May Bṛhaspati protect us from the enemy who comes from behind and desires evil for us; may he protect us also from the enemies who fall upon us from above and from below.
+
+### Printed p. 40
+May Indra protect us from the east and from the middle. May Indra, the friend, provide wealth to us, his friends.
+
+##### English translation
+May Brihaspati defend us from a malignant (foe) coming from behind, from above, or from below ; may Indra defend us from foes in front and in the middle; may he, our friend bestow wealth upon (us) his friends
+
+## Sūkta 44 (Maṇḍala 10)
+
+> आ यात्वित्येकादशर्चं द्वितीयं सूक्तमांगिरसस्य कृष्णस्यार्षद्मंद्रं । आदिकस्तिस्रस्त्रिष्टुभः । ततः षड्जगत्यः । ततो द्वे त्रिष्टुभौ । तथा चानुक्रांतं । आ यातु त्रित्रिष्टुबादीति ॥ अभिप्लविकेषूक्ष्येषु ब्राह्मणाच्छंसिनः स्तोमवृद्ध्भाविदमावापार्थं
+> सूश्रितं च । आ यात्सिंद्रः स्वपतिरिमां धियमिति ब्राह्मणाच्छंसी । आ-३-९ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the second sūkta, of eleven Ṛks, with आ यातु (*ā yātu*) as its first words. The seer is Kṛṣṇa of the Āṅgirasa line; the deity is Indra. The first three verses are Triṣṭubh, then six are Jagatī, then the two that follow are Triṣṭubh. So the Anukramaṇī: आ यातु त्रित्रिष्टुबादीति (*ā yātu tritriṣṭubādīti*). In the Abhiplava Ukthya rites it is to be used by the Brāhmaṇācchaṃsin for the increase of the stoma, to supply (the missing verses); the Āśvalāyana sūtra beginning with the words of Ṛk 1 and ending with the Brāhmaṇācchaṃsin is cited (Ā. Sū. 3-9). **NOTE**
+
+##### Anuvāda
+
+This sūkta beginning "आ यातु (*ā yātu*)" is the second sūkta in the fourth anuvāka. It has eleven Ṛks. Its seer is Aṅgirasaḥ Kṛṣṇaḥ; the deity is Indra. The first three Ṛks of this sūkta are in the Triṣṭubh metre; the six that follow (4–9) are in Jagatī; the next two (10–11) are Triṣṭubh. In the Anukramaṇī it is said "आ यातु त्रित्रिष्टुबादि (*ā yātu tritriṣṭubādi*)". In the Ukthya sacrifices connected with the Abhiplava, the sūkta is used by the priest called Brāhmaṇācchaṃsin as a supplement (avāpa) among the mantras to be recited for the increase of the stoma; this follows from the Āśvalāyana Śrauta Sūtra, "Ā yātvindraḥ svapatir imāṃ dhiyam iti brāhmaṇācchaṃsī" (Ā. 7-9).
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 4; Sūkta 44; Aṣṭaka 7; Adhyāya 8; Varga 26, 27. Number of Ṛks in the sūkta: 11. Seer: Kṛṣṇa. Deity: Indra. Metre: 1–4, 10, 11 (name garbled in the print); 4–9 Jagatī. **NOTE**
+
+### Printed p. 41
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ या॒त्त्विंद्रः॒ स्वप॑ति॒र्मदा॑य॒ यो धर्म॑णा तूतुज्ञा॒नस्तुवि॑ष्मान् ।  
+> प्र॒त्त्व॒क्षा॒णो अति॒ विश्वा॒ सहां॑स्यपा॒रेण॑ मह॒ता वृष्णे॑न ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यात्तु । इंद्रः । स्वपतिः । मदाय । यः । धर्मणा । तूतुजानः । तुविष्मान् ।  
+> प्रत्वक्षणः । अति । विश्वा । सहांसि । अपारेण । महता । वृष्ट्येन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रस्तूतुजानस्वरमाणस्तुविष्मान्वृद्धिमान्विश्वा विश्वानि सहांसि शत्रुबलान्यपारेण महताः केन वृष्ट्येन ऒलेन प्रत्यक्षाणः प्रकर्षेण तनूकुर्वन्नति ।
+> गच्छतीति शेषः । स्वपतिर्धनपतिरिंद्रो मदाय मदार्थं धर्मणा धारकेण रथेना
+> यातु । अस्मद्यज्ञं प्रत्यागच्छतु ॥
+
+##### Gist of the bhāṣya
+
+The Indra who is swift (तूतुजानः (*tūtujānaḥ*) = hastening), strong (तुविष्मान् (*tuviṣmān*) = grown great), who overcomes all (विश्वा (*viśvā*)) the hostile forces (सहांसि (*sahāṃsi*) = enemy powers) with his boundless, great manly strength (वृष्ट्येन (*vṛṣṭyena*) = by strength), going beyond them (अति (*ati*), "goes" is to be supplied): that Indra, lord of wealth (स्वपतिः (*svapatiḥ*)), for exhilaration, let him come with his supporting chariot (धर्मणा (*dharmaṇā*) = धारकेण रथेन (*dhārakeṇa rathena*)). Let him come to our sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Indra
+- तूतुजानः (*tūtujānaḥ*)—swift-moving
+- तुविष्मान् (*tuviṣmān*)—powerful
+- विश्वा (*viśvā*)—all
+- सहांसि (*sahāṃsi*)—the forces of the enemy
+- अपारेण (*apāreṇa*)—abundant
+- महता (*mahatā*)—great
+- वृष्ट्येन (*vṛṣṭyena*)—by his own strength
+- प्रत्वक्षणः (*pratvakṣaṇaḥ*)—making (them) weak
+- अति (*ati*)—who surpasses them, such
+- स्वपतिः (*svapatiḥ*)—the lord of wealth
+- इंद्रः (*iṃdraḥ*)—Indra
+- मदाय (*madāya*)—for joy
+- धर्मणा (*dharmaṇā*)—with the chariot that bears him
+- आ यातु (*ā yātu*)—let him come to us
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who is swift-moving and who, making weak all the forces of the enemy by his great strength, surpasses them: that Indra, lord of wealth, let him come to us with his chariot for joy.
+
+##### English translation
+May Indra, the lord of wealth, come hither with his chariot for his exhilaration : he who is rapid, strong, who, overcoming all the forces (of the enemy) by his great insuperable might, (passes) through them.
+
+### Printed p. 42
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ष्ठामा॒ रथः॑ सु॒यमा॒ हरी॑ ते मि॒म्यक्ष॒ वज्रो॑ नृपते॒  
+> गभ॑स्तौ ।  
+> शीभं॑ राजन्तु॒स्पथा या॑ह्व॒र्नाज् वर्धा॑म ते प्॒रपुषो॒ व्यष्ण्या॑नि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुस्थामा । रथः । सुयमा । हरी इति । ते । मिम्यक्ष । वज्रः । स्वपते । गभस्मा ।  
+> शीभं । राजन् । सुपथा । अ । याहि । अर्वाज् । दर्धाम । ते । प्रपुषः । वृष्णानि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नृपते नृणां पालकेंद्र ते तव रथः सुष्मामा शोभनावस्थानो हरी
+> अश्वावपि सुयमा सुयमौ । सुबद्धावित्यर्थः । किंच तद गथस्त् बाह वज्रो
+> मिम्यक्ष । संहतो भवति । तथा सति हे राजन् सर्वस्येश्वरेंद्र शीभं शीघ्रं सुपथा
+> शोभनेन मार्गेणार्वाणिस्मदभिमुख आ याहि । आगच्छ । अगत्य पपुषः सोमं
+> पीतवशस्ते तव वृष्णानि बलानि वर्धाम । वयं वर्धयामः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, protector of men (नृपते (*nṛpate*)), your chariot has a good standing-place (सुष्ठामा (*suṣṭhāmā*), glossed शोभनावस्थानो (*śobhanāvasthāno*)), and your two horses are well controlled (सुयमा (*suyamā*) = *subaddhau*, well harnessed). Further, in your arm the thunderbolt is held fast (मिम्यक्ष (*mimyakṣa*) = it is made firm). **NOTE** That being so, O king, lord of all, Indra, come quickly (शीभं (*śībhaṃ*) = शीघ्रं (*śīghraṃ*)) by the good path (सुपथा (*supathā*)), facing us (अर्वाण् (*arvāṇ*)). Having come, we increase the powers (वृष्णानि (*vṛṣṇāni*) = बलानि (*balāni*)) of you who have drunk the Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृपते (*nṛpate*)—O Indra, protector of men
+- ते (*te*)—your
+- रथः (*rathaḥ*)—chariot
+- सुष्णामा (*suṣṇāmā*)—having an excellent dwelling-place
+- हरी (*harī*)—your horses
+- सुयमा (*suyamā*)—well trained
+- गभस्तौ (*gabhastau*)—in your arm
+- वज्रः (*vajraḥ*)—the thunderbolt
+- मिम्मुक्षु (*mimmukṣu*)—is held
+- राजन् (*rājan*)—O Indra, lord
+- शीभं (*śībhaṃ*)—quickly
+- सुपथा (*supathā*)—by the excellent path
+- अर्वाण् (*arvāṇ*)—facing us
+- आ याहि (*ā yāhi*)—deign to come
+- पपुषः (*papuṣaḥ*)—of you who drink Soma
+- ते (*te*)—your
+- वृष्ट्यानि (*vṛṣṭyāni*)—powers
+- वर्धाम (*vardhāma*)—we strengthen
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, protector of men, your chariot has an excellent dwelling-place; your horses are well harnessed; in your arm the thunderbolt is held. O Indra, lord, come quickly by the excellent path facing us. We strengthen your powers, you who drink Soma.
+
 ---
 
-**Progress note:** Done through printed p. 36. pp. 31-36 (batch API)
+**Progress note:** Done through printed p. 42. pp. 37-42 (batch API), two remarks removed
