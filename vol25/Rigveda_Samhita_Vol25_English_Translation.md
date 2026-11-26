@@ -12883,6 +12883,255 @@ O praiser, summon Indra, who slays enemies in battle, who stands firm without fl
 ##### English translation
 The warrior, whom none oppose and non can harm, the quaffer of the Soma, the leader whose deeds cannot be hindered.
 
+### Printed p. 332
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिक्षा॑ ण इंद्र रा॒य आ पु॒रु वि॒द्वाँ ऋ॑चीषम ।  
+> अवा॑ नः॒ पार्ये॒ धने॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिक्ष । नः । इंद्र । रायः । आ । पुरु । विद्वान् । ऋचीषम ।  
+> अव । नः । पार्ये । धने ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋचीषम स्तुत्या सम । यद्वा । 'ईष गतिहिंसादर्शनेषु' । अस्मादमप्रत्ययः । सर्वैर्गंतव्य दर्शनीय वा । उक्तगुणोपेत हे इंद्र विद्वान् सर्वविषयज्ञानवांस्त्वं शत्रुभ्य आहृत्य रायः धनानि नः अस्मभ्यं पुरु बहुवारं शिक्ष प्रयच्छ । यद्वा । पुर्विति रायो विशेषणम् । बहूनि धनानि प्रयच्छ । किंच पार्ये । पाराः शत्रवः । तत्र भवे धने आजिहीर्षिते शत्रुधने नः अस्मान् अव रक्ष । शत्रून् हत्वा तद्धनेनास्मान् पालयेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Ṛcīṣama: one equal to praise; or else, from the root meaning going, hurting and seeing, one to whom all must go or who is beautiful to behold. O Indra, endowed with the stated qualities, you who have knowledge of every matter, bring riches from the enemies and give them to us, repeatedly and abundantly. Or else the word meaning many is an epithet of riches: give us many riches. And further: the word for foes means the enemies; in the wealth that comes from them, the enemy wealth that is to be seized, protect us. The meaning is: having slain the enemies, preserve us with their wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे यचीषमु (*he yacīṣamu*)—O you who are to be reached by praises
+- इंद्र (*iṃdra*)—O Indra
+- विद्वान् (*vidvān*)—you who have knowledge in all matters
+- रायः (*rāyaḥ*)—the wealth brought from the enemies
+- नः (*naḥ*)—to us
+- पुरु (*puru*)—abundantly
+- शिक्ष (*śikṣa*)—give
+- पार्ये (*pārye*)—connected with the enemies, that is, obtained from the enemies
+- धने (*dhane*)—in the wealth, that is, by giving the wealth
+- नः (*naḥ*)—us
+- अव (*ava*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who love praise, you who have knowledge in all matters, give us abundantly the wealth brought from the enemies. Give us that wealth, brought by conquering the enemies in battle, and protect us.
+
+##### English translation
+O you worthy of our praise, you who know all things, repeatedly give us riches, protect us by the wealth of our enemies.
+
+### Printed p. 333
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अत॑श्चिदिंद्र ण॒ उपा या॑हि श॒तवा॑जया ।  
+> इ॒षा स॒हस्र॑वाजया ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अतः । चित् । इंद्र । नः । उप । आ । याहि । शतऽवाजया ।  
+> इषा । सहस्रऽवाजया ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अतश्चित् अस्मात् द्युलोकादेव यद्वास्मात् शत्रुस्थानात् शतवाजया शतसंख्याकबलयुक्तेन तथा सहस्रवाजया । वाजोऽन्नम् । सहस्रसंख्यान्नवता बहुबलान्नेन इषा अन्नरसेन युक्तः सन् नः अस्मान् उपा याहि अधिकमाभिमुख्येनागच्छ ॥ ॥ १६ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, from this very world of heaven, or else from this place of the enemies, come to us, come near, facing us, endowed with a hundredfold strength and likewise a thousandfold strength. Vāja is food. Come endowed with food of a thousand measures, with food that gives much strength, with the essence of food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अतश्चित् (*ataścit*)—from the world of heaven
+- शतवाजया (*śatavājayā*)—endowed with much strength
+- सहस्रवाजया (*sahasravājayā*)—immeasurable
+- इषा (*iṣā*)—endowed with food
+- नः (*naḥ*)—to our vicinity
+- उपा याहि (*upā yāhi*)—be gracious to come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, from the world of heaven, or from that battlefield after defeating the enemies, be gracious to come near us, endowed with food that has much strength and is immeasurable.
+
+##### English translation
+Come to us, Indra, from thence with food of a hundred-fold strength, of a thousand-fold strength.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अया॑म॒ धीव॑तो॒ धियोऽर्व॑द्भिः शक्र गोदरे ।  
+> जये॑म पृ॒त्सु व॑ज्रिवः ॥ ११ ॥
+
+### Printed p. 334
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयाम । धीऽवतः । धियः । अर्वत्ऽभिः । शक्र । गोऽदरे ।  
+> जयेम । पृत्ऽसु । वज्रिऽवः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शक्र समर्थेंद्र धीवतः । ‘छंदसीरः' इति मतुपो वत्वम् । कर्मकरणात्कर्मवंतो वयं धियः युद्धजयार्थं कर्माणि अयाम गच्छाम । ततः गोदरे । 'दॄ विदारणे । अच इः' इति इप्रत्ययः । गवां पर्वतानां दारयितर्हे वज्रिवः वज्रवन् । यद्वा । वजनं गमनं वज्रः । तद्वान् कुलिशः । तद्वन्निंद्र पृत्सु संग्रामेषु अर्वद्भिः सर्वतो गंतृभिः त्वया दत्तैरश्वैः जयेम वयं तवादातॄंजेष्यामः ॥
+
+##### Gist of the bhāṣya
+
+O Śakra, capable Indra: we who are possessed of rites, since we perform rites, go to the rites performed for victory in battle. Then, O splitter of mountains, bearer of the thunderbolt: or else, the thunderbolt is so called from going, and the one who has it is the bearer of the thunderbolt, so you are like the thunderbolt, Indra. In battles, with horses that go everywhere, given by you, we shall conquer; we shall conquer those who do not give to you.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शक्र (*śakra*)—O capable Indra (we)
+- धीवतः (*dhīvataḥ*)—the sacrifices and other rites performed for victory in battle
+- अयाम (*ayāma*)—let us carry out
+- गोदरे (*godare*)—who splits mountains
+- वज्रिवः (*vajrivaḥ*)—O Indra, bearer of the thunderbolt
+- पृत्सु (*pṛtsu*)—in battles
+- अर्वद्भिः (*arvadbhiḥ*)—with horses that can range everywhere
+- जयेम (*jayema*)—may we conquer the enemies
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, capable of everything, let us carry out the sacrifices and other rites that we perform with the desire to win victory in battle. O Indra, splitter of the mountain, bearer of the thunderbolt, may we, accompanied by horses that can range everywhere, conquer the enemies in battles.
+
+##### English translation
+Shakra, let us go. proved in deeds, to deeds ; thunderer, cleaver of mountains, let us conquer in battles by your steeds.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमु॑ त्वा शतक्रतो॒ गावो॒ न यव॑से॒ष्वा ।  
+> उ॒क्थेषु॑ रणयामसि ॥ १२ ॥
+
+### Printed p. 335
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयम् । ऊं इति । त्वा । शतक्रतो इति शतऽक्रतो । गावः । न । यवसेषु । आ ।  
+> उक्थेषु । रणयामसि ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो बहुप्रज्ञान बहुकर्मन् वेंद्र त्वा सर्वतः । उ इत्यवधारणे । त्वामेव उक्थेषु स्तोत्रशस्त्रादिकेषु वयं रणयामसि । 'इदंतो मसिः' । आरणयामः शब्दयामः । रमयाम इत्यर्थः । तत्र दृष्टांतः। गावो न । यथा गोपालः यवसेषु तृणविशेषेषु गावो गाः पशून् आ समंताद्रमयति तद्वत् । गाव इति सर्वविधीनां छंदसि विकल्पितत्वात् ‘औतोऽम्' (पा. सू. ६. १. ९३) इत्यात्वाभावः ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, Indra of much wisdom or of many deeds, you, on every side; the word उ (*u*) expresses emphasis: you alone we delight in the ukthas, in praises, recitations and the like; the meaning is that we make you sound with joy, we please you. An illustration: as a cowherd delights his cattle on special grasses, completely, so we you. The form of the word for cows is explained as a Vedic variation.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतोु (*śatakratou*)—O Indra, doer of deeds, or rich in much knowledge
+- यवसेषु (*yavaseṣu*)—in the pastures
+- गावो न (*gāvo na*)—as the cowherd his cows
+- आ (*ā*)—feeds well and satisfies
+- त्वा उ (*tvā u*)—you alone
+- उक्थेषु (*uktheṣu*)—with hymns of praise, recitations and other mantras
+- रणयामसि (*raṇayāmasi*)—we praise and please
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many deeds, as a cowherd feeds his cows in the pastures and satisfies them, so we satisfy you alone by reciting uktha, śastra and other mantras.
+
+##### English translation
+We refresh you Shatakratu, with our praises, as (the herdsman) the cattle with (different kinds of) pasture-
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॒ हि म॑र्त्यत्व॒नानु॑का॒मा श॑तक्रतो ।  
+> अग॑न्म वज्रिन्ना॒शसः॑ ॥ १३ ॥
+
+### Printed p. 336
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । हि । मर्त्यऽत्वना । अनुऽकामा । शतक्रतो इति शतऽक्रतो ।  
+> अगन्म । वज्रिन् । आऽशसः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो बहुप्रज्ञेंद्र मर्यत्वना मर्त्यत्वानि । सुपां सुलुक्' इति विभक्तेराजादेशः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्दीर्घाभावः । विश्वा हि विश्वान्येव मर्त्यत्वानि अनुकामा कामानभिलाषाननुगतानि । कामोपेतानीत्यर्थः । मनुष्याश्चैतानि कामयंत इत्यर्थः । तथा सति हे वज्रिन् वज्रवन्निंद्र वयमपि आशसः आशंसनानि धनादिकामान् अगन्म अवगच्छाम । गमेर्लेटि  ‘ बहुलं छंदसि ' इति शपो लुक् । ‘म्वोश्च' इति मकारस्य नकारः ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, Indra of much wisdom: all the states of mortals are followed by desires, are endowed with desire; the meaning is that men desire these things. That being so, O bearer of the thunderbolt, Indra, we too attain our wishes, our desires for wealth and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O Indra, who inspires much wisdom (we)
+- मर्त्यत्वसा (*martyatvasā*)—natural to men
+- विश्वा (*viśvā*)—all
+- असुकामा (*asukāmā*)—we are possessed of desires, therefore
+- हे वज्रिन् (*he vajrin*)—O Indra, bearer of the thunderbolt
+- आशसः (*āśasaḥ*)—our heart's wishes
+- अगन्म (*aganma*)—may we attain
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who inspire much wisdom, all the desires natural to men are in us also. Therefore, O Indra, bearer of the thunderbolt, may we attain those wishes of ours for wealth and the like.
+
+##### English translation
+All mortal natures, Shatakratu, are moved by desire; let our wishes, be granted O thnnderer.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वे सु पु॑त्र शव॒सोऽवृ॑त्र॒न्काम॑कातयः ।  
+> न त्वामिं॒द्राति॑ रिच्यते ॥ १४ ॥
+
+### Printed p. 337
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वे इति । सु । पुत्र । शवसः । अवृत्रन् । कामऽकातयः ।  
+> न । त्वाम् । इंद्र । अति । रिच्यते ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शवसः। पुत्र बलनिमित्तमुत्पन्नत्वाद्वलस्य पुत्रेंद्र कामकातयः । ‘कै गै रै शब्दे'। कामपराः कातयः शब्दाः येषां भवंति ते तथोक्ताः । तादृशा मनुष्याः त्वे त्वयि सु अवृत्रन् स्वस्वकामाभिपूरणार्थं सुष्ठु वर्तंते । तस्मान्मर्त्यत्वानि कामोपेतानि इत्युत्पन्नम्। ‘वृतु वर्तने'। लङि छांदसो विकरणस्य लुक् । ‘बहुलं छंदसि' इति रुडागमः । यत एवं ततो हे इंद्र त्वां कश्चिदपि देवः न अति रिच्यते । बलेन धनेन वातिरिक्तः समर्थो नास्ति ।
+
+##### Gist of the bhāṣya
+
+O son of strength, Indra, born as a consequence of strength, since strength arises from you: those whose cries are directed to desire, men of that kind, abide well in you, each for the fulfilment of his own desires. From this it follows that the states of mortals are full of desire. Since this is so, O Indra, no god whatever surpasses you; there is none greater than you in strength or in wealth, none who is capable.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शवसः पुत्र (*śavasaḥ putra*)—O Indra, born as a consequence of strength
+- कामुकातयः (*kāmukātayaḥ*)—all the things that men desire
+- त्वे (*tve*)—in you
+- सु (*su*)—exceedingly
+- अवृत्रन् (*avṛtran*)—are present; therefore
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- न अति रिच्यते (*na ati ricyate*)—no one can surpass, whether in wealth or in strength
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, born for the display of strength, all the things that men desire are in you in abundance. Therefore, O Indra, no one has the power to surpass you, whether in wealth or in strength.
+
+##### English translation
+O son of strength, men, uttering their desires, abide happily in you ; none, Indra, surpass you.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ वृष॒न्सनि॑ष्ठया॒ सं घो॒रया॑ द्रवि॒त्न्वा ।  
+> धि॒यावि॑ड्ढि॒ पुरं॑ध्या ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
 ---
 
-**Progress note:** Done through printed p. 331. Mandala 8 sukta 92 Rk 3 end to Rk 8, pp. 326-331
+**Progress note:** Done through printed p. 337. Mandala 8 sukta 92 Rk 9 to Rk 15 samhita, pp. 332-337
