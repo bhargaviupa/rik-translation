@@ -12431,6 +12431,227 @@ Indra having said, "What do you desire? I shall give it", she asks for a boon wi
 
 O Indra, there are now three places that you must set right. Make hair grow again on my father's bald head, which has no hair; make the plants and the like grow and become fruitful in his field, which is barren land; and, because of the skin disease, set right the private region below my lower belly, where hair does not grow, and make hair grow again.
 
+### Printed p. 320
+
+##### English translation
+These three places,—you cause them all to grow,—my father's (bald) head, his (barren) field, and my body.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒सौ च॒ या न॑ उ॒र्वरादि॒मां त॒न्वं१॒॑ मम॑ ।  
+> अथो॑ त॒तस्य॒ यच्छिरः॒ सर्वा॒ ता रो॑म॒शा कृ॑धि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असौ । च । या । नः । उर्वरा । आत् । इमाम् । तन्वम् । मम ।  
+> अथो इति । ततस्य । यत् । शिरः । सर्वा । ता । रोमशा । कृधि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्तमेवार्थमनया विवृणोति । नः अस्माकं पितुः या असौ उर्वरा यदिदमूषरं क्षेत्रमस्ति ॥ आत् अनंतरं मम इमां तन्वम् इदं त्वग्दोषदुष्टं गुह्यस्थानम् । अथो अथापि च ततस्य तातस्य यच्छिरः रोमवर्जितमस्ति एतानि सर्वा सर्वाणि तानीमानि त्रीणि स्थानानि रोमशा रोमशानि कृधि कुरु ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he explains the very meaning already stated. नः (*naḥ*): of us, that is, of my father, the उर्वरा (*urvarā*), the field that is this barren land; आत् (*āt*), then, my इमां तन्वम् (*imāṃ tanvam*), this place spoilt by the skin disease, the private part; अथो (*atho*), and also, my father's शिरः (*śiraḥ*), the head that is without hair: all these three places, make hairy and fruitful, कृधि (*kṛdhi*), do it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) नः (*naḥ*)—of our (father)
+- उर्वरा (*urvarā*)—which is barren land
+- या असौ (*yā asau*)—whatever field there is, that also
+- आत् (*āt*)—afterwards
+- मम (*mama*)—my
+- इमां तन्वं (*imāṃ tanvaṃ*)—this body afflicted with the skin disease, that is, the private region
+- अथो (*atho*)—afterwards
+- ततस्य (*tatasya*)—of my father
+- यत् शिरः (*yat śiraḥ*)—whatever bald head without hair there is, that also
+- सर्वा (*sarvā*)—all these three regions
+- रोमशा (*romaśā*)—make furnished with hair, that is, so that hair grows well
+- कृधि (*kṛdhi*)—do
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, make plants and the like grow in my father's field, which is barren land; make hair grow again in my private region, where because of the skin disease hair does not grow; and make hair grow on my father's bald head as before.
+
+### Printed p. 321
+
+##### English translation
+This field which is our (father's), and this my body and the head of my father,—you make all these bear a crop.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> खे रथ॑स्य॒ खेऽन॑सः॒ खे यु॒गस्य॑ शतक्रतो ।  
+> अ॒पा॒लामिं॑द्र॒ त्रिष्पू॒त्व्यकृ॑णोः॒ सूर्य॑त्वचम् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> खे । रथस्य । खे । अनसः । खे । युगस्य । शतक्रतो इति शतऽक्रतो ।  
+> अपालाम् । इंद्र । त्रिः । पूत्वी । अकृणोः । सूर्यऽत्वचम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयापालां सूर्यसदृशप्रभामकरोदित्याह । हे शतक्रतो हे शतसंख्याकयज्ञ बहुविधप्रज्ञ वा हे इंद्र रथस्य स्वकीयस्य खे पृथुतरे छिद्रे तथा अनसः शकटस्य खे तदपेक्षयाल्पे छिद्रे युगस्य खे चाल्पतरे सूक्ष्मे छिद्रे रथशकटयुगानां छिद्रेषु त्वग्दोषपरिहाराय त्रिः त्रिवारं निष्कर्षणेन पूत्वी शोधयित्वा ततः अपालाम् एतन्नामिकामत्रिसुतां ब्रह्मवादिनीं सूर्यत्वचं सूर्यसमानत्वचम् अकृणोः अकरोः । कल्याणतमरूपभाजमकरोरित्यर्थः शाट्यायनकब्राह्मणे स्पष्टमभिहितः- ‘ तां खे रथस्यात्यबृहत्सा   गोधाभवत्तां खेऽनसोऽत्यबृहत्सा संश्लिष्टकाभवत्तदेषाभ्यनूच्यते खे रथस्य खेऽनस इति । तस्यै ह यत्कल्याणतमं रूपाणां तद्रूपमास' इति । त्वग्दोषापनयनाथ अक्षादिद्वारेष्वतिकर्षणमिति। यस्त्वग्दोषदूषितः सन्नेतत्सूक्तं पठति तस्य त्वग्दोषमपगमय्य सूर्यसदृशकांतिमिंद्रः करोतीति सूक्तं प्रशस्यते ॥ ॥ १४ ॥
+
+##### Gist of the bhāṣya
+
+With this Ṛk he says that Indra made Apālā's radiance like that of the sun. O शतक्रतो (*śatakrato*), O one of a hundred sacrifices, or of manifold wisdom, O Indra: in the larger hole of your own chariot, then in the hole of the cart (अनसः (*anasaḥ*)), which is smaller than that, and in the hole of the yoke, which is smaller still and fine, in the holes of chariot, cart and yoke, for the removal of the skin disease, having purified (पूत्वी (*pūtvī*)) her three times by drawing her through, you then made Apālā, the daughter of Atri, a knower of Brahman, सूर्यत्वचं (*sūryatvacaṃ*), one whose skin is like the sun's; the meaning is that you made her possessed of the most auspicious form. This is stated clearly in the Śāṭyāyaka-brāhmaṇa: तां खे रथस्यात्यबृहत्सा गोधाभवत्तां खेऽनसोऽत्यबृहत्सा संश्लिष्टकाभवत्तदेषाभ्यनूच्यते खे रथस्य खेऽनस इति । तस्यै ह यत्कल्याणतमं रूपाणां तद्रूपमास (*tāṃ khe rathasyātyabṛhatsā godhābhavattāṃ khe 'naso 'tyabṛhatsā saṃśliṣṭakābhavattadeṣābhyanūcyate khe rathasya khe 'nasa iti | tasyai ha yatkalyāṇatamaṃ rūpāṇāṃ tadrūpamāsa*). The drawing through the openings of the axle and the rest is for the removal of the skin disease. One who, afflicted with the skin disease, recites this sūkta, from him Indra removes the skin disease and gives him a radiance like the sun's; thus the sūkta is praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O you who are endowed with many deeds
+- इंद्र (*iṃdra*)—O Indra
+- रथस्य (*rathasya*)—of your chariot
+- खे (*khe*)—in the hollow hole in the middle, and likewise
+- अनसः (*anasaḥ*)—of the cart (in the middle)
+- खे (*khe*)—in the ordinary hole
+- युगस्य (*yugasya*)—of the yoke of the cart
+- खे (*khe*)—in the small hole
+- त्रिः (*triḥ*)—having made her pass three times
+- पूत्वी (*pūtvī*)—having purified
+- अपालां (*apālāṃ*)—Apālā, the daughter of Atri
+- सूर्यत्वचं (*sūryatvacaṃ*)—as one whose skin shines like the sun
+- अकृणोः (*akṛṇoḥ*)—you have made
+
+### Printed p. 322
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who perform many deeds of daring, you made Apālā, the daughter of Atri, pass three times through the hole in the middle of your chariot, that is, the large opening, then through the opening of the cart, then through the small hole of the yoke, and having made her free of the skin disease and pure, you made that woman shine with the radiance of her body like the sun.
+
+##### English translation
+Thrice, Shatakratu, you purify Apala, in the hole of the chariot, in the hole of the cart, and in the hole of the yoke, and you made her with a skin resplendent like the sun
+
+##### विशेषविषयगळु (Special Topics)
+
+The explanation that gathers together the separate matters stated in all seven Ṛks of this sūkta and makes of them a meaningful history has been given in the introduction to this sūkta; if that is read at the beginning, the purport of the Ṛks of the sūkta becomes clear.
+
+## Sūkta 92 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> 'पांतमा वः' इति त्रयस्त्रिंशद्दचं द्वादशं सूक्तमांगिरसस्य श्रुतकक्षस्य सुकक्षस्य वार्षमैंद्रम् ॥ आद्यानुष्टुप् शिष्टा गायत्र्यः । तथानुक्रम्यते- ‘ पांतं त्रयस्त्रिशच्छ्रुतकक्षः सुकक्षो वाद्यानुष्टुप् ' इति । महाव्रते गायत्रतृचाशीतौ प्रथमावर्जमिदं सूक्तमुत्तरं च । पंचमारण्यके सूत्रितं च - पुरुहूतं पुरुष्टुतमिति शेषः' (ऐ. आ. ५. २. ३) इति । प्रथमे रात्रिपर्याये होतुः शस्त्र आद्यौ तृचौ स्तोत्रियानुरूपौ । सूत्रितं च - पांतमा वो अंधसोऽपादु शिप्र्यंधसः' (आश्व. श्रौ. ६. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+The twelfth sūkta, of thirty-three Ṛks, beginning पांतमा वः (*pāṃtamā vaḥ*), is the vision, addressed to Indra, of Śrutakakṣa or Sukakṣa of the Āṅgirasa line. The first Ṛk is Anuṣṭubh and the rest are Gāyatrī. The Anukramaṇikā says accordingly: पांतं त्रयस्त्रिशच्छ्रुतकक्षः सुकक्षो वाद्यानुष्टुप् (*pāṃtaṃ trayastriśacchrutakakṣaḥ sukakṣo vādyānuṣṭup*). In the Mahāvrata, in the Gāyatra tṛca-āśīti, this sūkta without its first Ṛk, and the following one **NOTE**. It is laid down in the Fifth Āraṇyaka: पुरुहूतं पुरुष्टुतमिति शेषः (*puruhūtaṃ puruṣṭutamiti śeṣaḥ*) (Ai. Ā. 5. 2. 3). In the first rātri-paryāya, in the Hotṛ's śastra, the first two tṛcas are the stotriya and the anurūpa. It is also laid down in the sūtra: पांतमा वो अंधसोऽपादु शिप्र्यंधसः (*pāṃtamā vo aṃdhaso 'pādu śipryaṃdhasaḥ*) (Āśv. Śrau. 6. 4).
+
+The Anuvāda: this sūkta, पांतमा वः (*pāṃtamā vaḥ*), is the twelfth sūkta in the ninth anuvāka. It has thirty-three Ṛks. The seer of this sūkta is Śrutakakṣa or Sukakṣa; Indra is the deity; the first Ṛk of this sūkta is in the Anuṣṭubh metre; the remaining Ṛks are in the Gāyatrī metre. In the Anukramaṇikā it is said: पांतं त्रयस्त्रिंशच्छ्रुतकक्षः सुकक्ष वाद्यानुष्टुप् (*pāṃtaṃ trayastriṃśacchrutakakṣaḥ sukakṣa vādyānuṣṭup*). In the Mahāvrateṣṭi, for the mantras of the niṣkevalya-śastra and for the Ṛks of the Gāyatrī metre, know that the Ṛks of this sūkta except the first are applied,
+
+### Printed p. 323
+
+as it is indicated in the Fifth Āraṇyaka of the Āraṇyaka by the sentence पुरुहूतं पुरुष्टुतेति शेषः (*puruhūtaṃ puruṣṭuteti śeṣaḥ*) (Ai. Ā. 5-23) **NOTE**. And in the first rātri-paryāya, the śastra mantras recited by the Hotṛ are to be recited with two tṛcas (six Ṛks) of this sūkta as the stotriya and anurūpa tṛcas, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra: पांतमा वो अंधसोऽपादु शिप्र्यंधसः (*pāṃtamā vo aṃdhaso 'pādu śipryaṃdhasaḥ*) (Ā. Sū. 6-4).
+
+Sūkta 92.
+Maṇḍala 8; Anuvāka 9; Sūkta 92.
+Aṣṭaka 6; Adhyāya 6; Varga 13, 14, 15, 16, 17, 18.
+Number of Ṛks in the sūkta: 33.
+Ṛṣi: Śrutakakṣaḥ Sukakṣo vā.
+Devatā: Indra.
+Chandas: 1. अनुष्टुप् (*anuṣṭup*). 2–33. गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पांत॒मा वो॒ अंध॑स॒ इंद्र॑म॒भि प्र गा॑यत ।  
+> वि॒श्वा॒साहं॑ श॒तक्र॑तुं॒ मंहि॑ष्ठं चर्षणी॒नाम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पांतम् । आ । वः । अंधसः । इंद्रम् । अभि । प्र । गायत ।  
+> विश्वऽसहम् । शतऽक्रतुम् । मंहिष्ठम् । चर्षणीनाम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः वः युष्मदीयम् अंधसः सोमलक्षणमन्नम् आ पांतम् आभिमुख्येन पिबंतम्। पा पाने '। छांदसः शपो लुक् । 'सर्वे विधयश्छंदसि विकल्पंते । इति न लोकाव्यय ' इति षष्ठीप्रतिषेधाभावः । ततोऽंधसः इत्यस्य कर्तृकर्मणोः' इति षष्ठी'। सोममाभिमुख्येन पिबंतमेतादृशम् इंद्रं प्र गायत प्रकर्षेणाभिष्टुत । कीदृशम् । विश्वसहं सर्वेषां शत्रूणामभिभवितारं सर्वेषां भूतजातानां वा अत एव शतक्रतुं बहुविधप्रज्ञानं बहुविधकर्माणं वा चर्षणीनां मनुष्याणां मंहिष्ठं धनस्य दातृतमम् । यद्वा । यजमानानां यष्टव्यत्वेन पूजनीयमिंद्रं गायतेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+O priests, वः (*vaḥ*), your अंधसः (*aṃdhasaḥ*), food in the form of Soma; Indra who drinks it facing it, आ पांतम् (*ā pāṃtam*): sing forth to such an Indra, that is, praise him eminently. What kind of Indra? विश्वसहं (*viśvasahaṃ*), the overcomer of all enemies, or of all beings; and therefore शतक्रतुं (*śatakratuṃ*), one of manifold wisdom or of manifold deeds; चर्षणीनां (*carṣaṇīnāṃ*), of men, मंहिष्ठं (*maṃhiṣṭhaṃ*), the greatest giver of wealth. Or else the construction is: sing to Indra, who is to be worshipped by the sacrificers as the one to be sacrificed to.
+
+### Printed p. 324
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) वः (*vaḥ*)—your
+- अंधसः (*aṃdhasaḥ*)—the food in the form of Soma
+- आ पातं (*ā pātaṃ*)—who desires it and drinks it
+- विश्वसहं (*viśvasahaṃ*)—who defeats all enemies
+- शतक्रतुं (*śatakratuṃ*)—the performer of many deeds
+- चर्षणीनां (*carṣaṇīnāṃ*)—to the men who worship him
+- मंहिष्ठं (*maṃhiṣṭhaṃ*)—who gives wealth in abundance
+- इंद्रं (*iṃdraṃ*)—addressing Indra
+- प्र गायत (*pra gāyata*)—praise and sing in a special manner
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, praise and sing in a special manner to Indra, who drinks the Soma that you have prepared, who defeats all enemies, who performs many deeds of daring, and who gives wealth and the like in abundance to the sacrificers.
+
+##### English translation
+Sing, priests, that Indra, who drinks your offered beverage,—the foe-subduing Shatakratu, most liberal of men.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒रु॒हू॒तं पु॑रुष्टु॒तं गा॑था॒न्यं१॒॑ सन॑श्रुतम् ।  
+> इंद्र॒ इति॑ ब्रवीतन ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुरुऽहूतम् । पुरुऽस्तुतम् । गाथान्यम् । सनऽश्रुतम् ।  
+> इंद्रः । इति । ब्रवीतन ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विग्यजमानाः पुरुहूतं यज्ञेषु बहुभिराहूतं पुरुष्टुतं बहुभिः स्तोत्रशस्त्रादिभिः स्तुतम् अत एव गाथान्यं गानयोग्यं गातव्यं सनश्रुतं सनातनतया प्रसिद्धमेवंविधं देवम् इंद्र इति यूयं ब्रवीतन ब्रूयात । ‘ब्रूञ् व्यक्तायां वाचि' इत्यस्य लोटि व्यत्ययेन ध्वमस्तनबादेशः । अत एव गुणः ॥
+
+##### Gist of the bhāṣya
+
+O priests and sacrificers, पुरुहूतं (*puruhūtaṃ*), called in the sacrifices by many; पुरुष्टुतं (*puruṣṭutaṃ*), praised by many with stotras, śastras and the rest; and therefore गाथान्यं (*gāthānyaṃ*), fit to be sung, to be sung of; सनश्रुतं (*sanaśrutaṃ*), famous as eternal. Such a god, इंद्र इति (*iṃdra iti*), as Indra, you should proclaim, ब्रवीतन (*bravītana*).
+
+### Printed p. 325
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests and sacrificers) पुरुहूतं (*puruhūtaṃ*)—who is called by many in the sacrifices
+- पुरुष्टुतं (*puruṣṭutaṃ*)—who is praised by many śastra mantras
+- गाथान्यं (*gāthānyaṃ*)—who is therefore praised in song
+- सनश्रुतं (*sanaśrutaṃ*)—and who is ancient, that god (you)
+- इंद्र इति (*iṃdra iti*)—as Indra
+- ब्रवीतन (*bravītana*)—proclaim
+
+##### भावार्थ (Bhāvārtha)
+
+O priests and sacrificers, know and proclaim as Indra that god who is prayed to and called by many in the sacrifice, who is praised by many śastra mantras and songs, and who is ancient.
+
+##### English translation
+Proclaim that deity as Indra, who is invoked by many, who is praised by many. who is worthy of songs and renowened as eternal.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॒ इन्नो॑ म॒हानां॑ दा॒ता वाजा॑नां नृ॒तुः ।  
+> म॒हाँ अ॑भि॒ज्ञ्वा य॑मत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । इत् । नः । महानाम् । दता । वाजानाम् । नृतुः ।  
+> महान् । अभिऽज्ञु । आ । यमत् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्र इत् पूर्वोक्तलक्षण इंद्र एव नः अस्मभ्यं महानां महतां वाजानाम् अन्नानाम् । यद्वा । महानाम् । वर्णव्यत्ययः । मघानां धनानां वाजानामन्नानां च दाता भवतु । कीदृशः । नृतुः। ‘नृतिशृध्योः कूः' (उ. सू. १. ९१) इति कूप्रत्ययः । ह्रस्वछांदसः । सर्वस्य नर्तयिता । यद्वा। ‘नॄ नये । औणादिकस्तुप्रत्ययः। धातोर्हस्वश्छांदसः । स्तोतृभ्यो गवादिनेता। अत एव महान् स इंद्रः अभिजु अभिगतजानुकमस्मभ्यम् आ यमत् आयच्छतु ददातु । यद्वा स इंद्रोऽभिज्ञ्वस्मदभिमुखमागच्छद्धनं स्वहस्तयोः परिगृह्यास्मान्नयतु । धनं यत्वास्मभ्यं ददात्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+इंद्र इत् (*iṃdra it*): Indra himself, of the stated character, नः (*naḥ*), to us, may he be the giver of great (महानां (*mahānāṃ*)) वाजानाम् (*vājānām*), foods. Or else, महानां (*mahānāṃ*) stands, by a change of letter, for मघानां (*maghānāṃ*), wealth: may he be the giver of wealth and of food. What kind? नृतुः (*nṛtuḥ*): one who makes everything dance; or else, one who leads the praisers to cows and the like. Therefore that great Indra, अभिजु (*abhiju*), with bent knee, आ यमत् (*ā yamat*), may he give to us. Or else, that Indra, coming towards us and taking wealth in his two hands, may lead us; the meaning is that, having held out the wealth, he may give it to us.
+
 ---
 
-**Progress note:** Done through printed p. 319. Sūkta 91 Ṛk 1 Pratipadārtha to Ṛk 5 Sāyaṇa
+**Progress note:** Done through printed p. 325. Sūkta 91 Ṛk 5-7, Sūkta 92 introduction and Ṛk 1-3
