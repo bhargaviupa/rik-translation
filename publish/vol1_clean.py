@@ -82,6 +82,7 @@ def clean():
     if cur: blocks.append((start, '\n'.join(cur)))
 
     out, skip_section, skip_rishi = [], False, False
+    skip_embedded = False
     seen_preface = False
     for ln, blk in blocks:
         first = blk.split('\n', 1)[0]
@@ -105,6 +106,14 @@ def clean():
                 log('removed (inside milestone section)', ln, blk); continue
         if blk.strip() == '---':
             continue
+        # The edition prints its own English of Sāyaṇa's preface under the Kannada ("English Translation of Sayana's Preface to the Rigveda");
+        # the file has it under '**Embedded English translation, as given in the source:**' after our translation of the same passage, so the
+        # English stood twice (user, Nov 26 2026: the English of the book comes from the translation only).  Not printed; it stays in the file.
+        if re.match(r'^\*\*Embedded English translation, as given in the source', first):
+            skip_embedded = True; log('not printed (the edition\'s own English of the passage)', ln, first); continue
+        if skip_embedded:
+            if first.startswith('>'): log('not printed (the edition\'s own English of the passage)', ln, blk); continue
+            skip_embedded = False
         # 2. progress / milestone paragraphs
         if re.match(r'\*\*(Progress|🎉|Target for next session|Recommendation for future sessions|PDF page 622|⚠ IMPORTANT STRUCTURAL FLAG)', first):
             log('removed (progress / working flag)', ln, blk); continue

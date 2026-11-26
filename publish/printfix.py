@@ -50,6 +50,11 @@ def contents_sections(doc):
             inner = part.group(1); e = _ENTRY.match(inner); body = e.group(1) if e else inner; no = ''
             lead = _LEAD.match(body)
             if lead: no = lead.group(1); body = '<strong>' + lead.group(2) + '</strong> ' + body[lead.end():]
+            elif e and not body.lstrip().startswith('<strong>'):
+                # an entry that opens with the name of a section which is a heading later in the book ("The counter-view (uttara-paksha): …"):
+                # the opening words up to the colon or dash are set in bold (user, Nov 26 2026)
+                hd = re.match(r'^(\s*[^<:—]{3,70}?(?::|\s—))(\s)', body)
+                if hd: body = '<strong>' + hd.group(1).rstrip(' —') + ('' if hd.group(1).rstrip().endswith(':') else ' —') + '</strong>' + hd.group(2) + body[hd.end():]
             row = {'no': no, 'html': body + ((' ' + e.group(3)) if e and e.group(3) else ''), 'pre': pre}; pre = ''
             if e and ('p' + e.group(2)) in ids: row['href'] = '#p' + e.group(2)
             rows.append(row)
