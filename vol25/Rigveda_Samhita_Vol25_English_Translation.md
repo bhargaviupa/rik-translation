@@ -19258,6 +19258,261 @@ Metre: 1-5 and 10-12, Triṣṭup; 6, Jagatī; 7-9, Anuṣṭup.
 
 O Indra, I, with my son (तन्वा (*tanvā*)), go (एमि (*emi*)) before (पुरस्तात् (*purastāt*)) you, to overcome the enemies. While I go before you, all the gods (विश्वे देवाः (*viśve devāḥ*)) together with you follow behind (पश्चात् (*paścāt*)). When you hold (दीधरः (*dīdharaḥ*)) for me, Nema the Bhārgava, the share (भागं (*bhāgaṃ*)) that lies in the enemies, then immediately do (कृणवः (*kṛṇavaḥ*)) deeds of valour (वीर्याणि (*vīryāṇi*)) with me to conquer my enemies. The meaning is: if you wish to give me the wealth that lies in the enemies, then help me, who go with my son to conquer the enemies.
 
+### Printed p. 501
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- पुरस्तात् (*purastāt*)—in front
+- तन्वा (*tanvā*)—together with my son
+- अयं (*ayaṃ*)—I
+- एमि (*emi*)—am pressing forward to conquer the enemies
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- पश्चात् (*paścāt*)—afterwards
+- मा अभि यंति (*mā abhi yaṃti*)—come to help me
+- यदा (*yadā*)—if
+- मह्यं (*mahyaṃ*)—for me
+- भागं (*bhāgaṃ*)—a share in the wealth of the enemies
+- दीधरः (*dīdharaḥ*)—you have kept
+- आदित् (*ādit*)—at once
+- मया (*mayā*)—to help along with me
+- वीर्याणि (*vīryāṇi*)—powers that destroy the enemies
+- कृणवः (*kṛṇavaḥ*)—produce
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, in front of you, together with my son, I am pressing forward to conquer the enemies. All the gods are coming behind, to help me. O Indra, if you have resolved to have a share in the wealth of the enemies given to me also, then produce in me the power that helps to conquer the enemies.
+
+##### English translation
+I here go before you with my son, the Vishwe Devas follow after me ; if indra you keep wealth for me then put forth your strength on my side.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दधा॑मि ते॒ मधु॑नो भ॒क्षमग्रे॑ हि॒तस्ते॑ भा॒गः सु॒तो अ॑स्तु॒ सोमः॑ ।  
+> अस॑श्च॒ त्वं द॑क्षिण॒तः सखा॒ मेऽधा॑ वृ॒त्राणि॑ जंघनाव॒ भूरि॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दधामि । ते । मधुनः । भक्षम् । अग्रे । हितः । ते । भागः । सुतः । अस्तु । सोमः ।  
+> असः । च । त्वम् । दक्षिणतः । सखा । मे । अध । वृत्राणि । जंघनाव । भूरि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तुभ्यं मधुनः मदकरस्य सोमस्य भक्षमग्रे प्रथमं दधामि धारयामि । सुतः अभिषुतः भागः भजनीयः सोमः ते तव हृदये हितः निहितः अस्तु भवतु । अपि च त्वं मे मम दक्षिणतः दक्षिणपार्श्वे सखा सन् असः स्थितो भव। अध अथ भूरि बहूनि वृत्राणि अस्मदीयांछत्रून् जंघनाव त्वमहं चोभौ आवां हन्वः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I first (अग्रे (*agre*)) place (दधामि (*dadhāmi*)) for you the share to be eaten (भक्षं (*bhakṣaṃ*)) of the sweet (मधुनः (*madhunaḥ*)), intoxicating Soma. May the pressed (सुतः (*sutaḥ*)) Soma, the share to be enjoyed (भागः (*bhāgaḥ*)), be placed (हितः (*hitaḥ*)) in your heart (हृदये (*hṛdaye*)). And, being my friend (सखा (*sakhā*)), be stationed at my right side (दक्षिणतः (*dakṣiṇataḥ*)). Then (अध (*adha*)) you and I, both of us together, shall slay (जंघनाव (*jaṃghanāva*)) many (भूरि (*bhūri*)) enemies of ours (वृत्राणि (*vṛtrāṇi*)).
+
+### Printed p. 502
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—for you (O Indra)
+- मधुनः (*madhunaḥ*)—of the sweet Soma
+- भक्षं (*bhakṣaṃ*)—the share fit to be eaten
+- अग्रे (*agre*)—to offer before the other gods
+- दधामि (*dadhāmi*)—I am holding
+- सुतः (*sutaḥ*)—which is pressed
+- भागः (*bhāgaḥ*)—and fit to be enjoyed
+- सोमः (*somaḥ*)—the Soma
+- ते (*te*)—in your stomach
+- हितः अस्तु (*hitaḥ astu*)—may it be filled
+- त्वं (*tvaṃ*)—you
+- मे (*me*)—for me
+- दक्षिणतः (*dakṣiṇataḥ*)—on the right side
+- सखा (*sakhā*)—like a friend
+- असः (*asaḥ*)—be
+- अध (*adha*)—afterwards
+- भूरि (*bhūri*)—many
+- वृत्राणि (*vṛtrāṇi*)—enemies
+- जंघनाव (*jaṃghanāva*)—let us two together destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, I am holding the sweet Soma, the share fit to be eaten, to offer to you before the other gods. May the Soma, which is pressed and fit to be enjoyed, be filled in your stomach. Be to me a friend on my right side. Afterwards let us two together destroy the many enemies. **NOTE**
+
+##### English translation
+I offer the beverage of the exhilarating drink first to you, let the effused enjoyable Soma be placed within you ; be a friend on my right hand, then will we two smite our many enemies.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सु स्तोमं॑ भरत वाज॒यंत॒ इंद्रा॑य स॒त्यं यदि॑ स॒त्यमस्ति॑ ।  
+> नेंद्रो॑ अ॒स्तीति॒ नेम॑ उ त्व आह॒ क ईं॑ ददर्श॒ कम॒भि ष्ट॑वाम ॥ ३ ॥
+
+### Printed p. 503
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । सु । स्तोमम् । भरत । वाजऽयंतः । इंद्राय । सत्यम् । यदि । सत्यम् । अस्ति ।  
+> न । इंद्रः । अस्ति । इति । नेमः । ऊं इति । त्वः । आह । कः । ईम् । ददर्श । कम् । अभि । स्तवाम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे जनाः वाजयंतः संग्राममिच्छंतो यूयम् ।' पौंस्यै वाजे' इति संग्रामनामसु पाठात् । इंद्राय सत्यं सत्यभूतं स्तोमं सु सुष्ठु प्र भरत । इंद्रोऽस्तीत्येतत् यदि सत्यमस्ति भवति । इंद्रास्तित्वे कः संदेहः । तत्राह। नेम उ भार्गवो नेम एव इंद्रः नाम त्वः कश्चित् न अस्ति इति आह । तत्र कारणं दर्शयति । क ईम् एनमिंद्रं ददर्श अद्राक्षीत्। न कोऽप्यपश्यत् । अतः कं वयम् अभि ष्टवाम अभिष्टुमः । तस्मादिंद्रो नाम कश्चिद्विद्यत इति वादमात्रं न तु तत्सत्यमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O people, you who desire battle (वाजयंतः (*vājayaṃtaḥ*)), since पौंस्यै वाजे (*pauṃsyai vāje*) is read among the names of battle: offer well (सु (*su*)) to Indra a true (सत्यं (*satyaṃ*)) praise, if it is true that Indra exists (इंद्रोऽस्तीत्येतत् (*iṃdro 'stītyetat*)). What doubt can there be about Indra's existence? On this: Nema Bhārgava (नेम उ (*nema u*)) has said that there is no one called Indra (न अस्ति (*na asti*)). He shows the reason: who (कः (*kaḥ*)) has seen (ददर्श (*dadarśa*)) this Indra? No one has seen him. Therefore whom shall we praise? So the statement that someone called Indra exists is mere talk, and it is not true; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजयंतः (*vājayaṃtaḥ*)—(O friends) you who wait for battle
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- सत्यं (*satyaṃ*)—certainly
+- स्तोमं (*stomaṃ*)—praise
+- सु (*su*)—exceedingly
+- प्र भरत (*pra bharata*)—offer
+- यदि (*yadi*)—if
+- सत्यं (*satyaṃ*)—certainly
+- अस्ति (*asti*)—Indra exists, then offer
+- नेम उ (*nema u*)—Nema, the son of Bhṛgu
+- इंद्रः (*iṃdraḥ*)—one who has the name Indra
+- त्वः (*tvaḥ*)—any one
+- न (*na*)—there is not, thus
+- आह (*āha*)—has said
+- कः (*kaḥ*)—who
+- ईं (*īṃ*)—this Indra
+- ददर्श (*dadarśa*)—has seen?
+- कं (*kaṃ*)—whom indeed
+- अभि ष्टवाम (*abhi ṣṭavāma*)—shall we praise?
+
+##### भावार्थ (Bhāvārtha)
+
+O friends, you who wait for battle, certainly offer praise addressed to Indra. If Indra exists, then offer it. Nema, the son of Bhṛgu, has said, "There is no one who has the name Indra." Who indeed has seen this Indra? Whom indeed shall we praise?
+
+##### English translation
+Offer fervently, my war-loving companions, true praise to Indra, if he truly exists ; Nema says “ verily there is no Indra,” who has ever seen him ? whom shall we praise ?
+
+### Printed p. 504
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॑स्मि जरितः॒ पश्य॑ मे॒ह विश्वा॑ जा॒तान्य॒भ्य॑स्मि म॒ह्ना ।  
+> ऋ॒तस्य॑ मा प्र॒दिशो॑ वर्धयंत्यादर्दि॒रो भुव॑ना दर्दरीमि ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । अस्मि । जरितरिति । पश्य । मा । इह । विश्वा । जातानि । अभि । अस्मि । मह्ना ।  
+> ऋतस्य । मा । प्रऽदिशः । वर्धयंति । आऽदर्दिरः । भुवना । दर्दरीमि ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एवं नेमस्यर्षेर्वचनमाकर्ण्य इंद्रस्तस्य समीपमाजगाम । आगत्य चात्मानमनेन द्वृचेन स्तौति । हे जरितः स्तोतः अयम् अहम् अस्मि । इह तव समीपे स्थितं मा मां पश्य । विश्वा सर्वाणि जातानि' भुवनानि मह्ना महत्त्वेन अभ्यस्मि अहमभिभवामि । किंच माम् ऋतस्य सत्यस्य यज्ञस्य वा प्रदिशः प्रदेष्टारो विद्वांसः स्तोत्रैः वर्धयंति । अपि च आदर्दिरः आदरणशीलोऽहं भुवना भुवनानि शत्रुभूतानि दर्दरीमि भृशं विदारयामि ॥
+
+##### Gist of the bhāṣya
+
+Having heard the words of the seer Nema in this way, Indra came to his side; and having come, he praises himself with this two-Ṛk set. O praiser (जरितः (*jaritaḥ*)), here I am (अयम् अहम् अस्मि (*ayam aham asmi*)); look at me standing here near you. I overcome (अभ्यस्मि (*abhyasmi*)) all (विश्वा (*viśvā*)) born beings (जातानि (*jātāni*)) by my greatness (मह्ना (*mahnā*)). Further, the wise, the guides (प्रदेष्टारो (*pradeṣṭāro*)) of the truth or of the sacrifice (ऋतस्य (*ṛtasya*)), make me grow (वर्धयंति (*vardhayaṃti*)) with their praises. And I, who am given to tearing (आदर्दिरः (*ādardiraḥ*)), tear (दर्दरीमि (*dardarīmi*)) violently the worlds (भुवना (*bhuvanā*)) that have become enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जरितः (*jaritaḥ*)—O praiser
+- आयं (*āyaṃ*)—I, Indra
+- अस्मि (*asmi*)—am here
+- इह (*iha*)—who am near you
+- मा (*mā*)—me
+- पश्य (*paśya*)—look at
+- विश्वा (*viśvā*)—all
+- जातानि (*jātāni*)—the worlds
+- मह्ना (*mahnā*)—by my greatness
+- अभ्यस्मि (*abhyasmi*)—I stand pervading
+- ऋतस्य (*ṛtasya*)—of the sacrifice, which is of the nature of truth
+- प्रदिशः (*pradiśaḥ*)—the learned, who are the leaders
+- मा (*mā*)—me
+- वर्धयंति (*vardhayaṃti*)—cause to grow with their praises
+- आदर्दिरः (*ādardiraḥ*)—I who have the power to destroy
+- भुवना (*bhuvanā*)—all the cities of the enemy
+- दर्दरीमि (*dardarīmi*)—tear to pieces
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, behold, I, Indra, am here. Look at me, who am near you. I stand pervading all the worlds by my greatness. The learned, who are the leaders of the sacrifice, which is of the nature of truth, cause me to grow with their praises. I, who have the power to destroy, tear to pieces all the cities of the enemy.
+
+### Printed p. 505
+
+##### English translation
+(Indra speaks) “ Here I am, worshipper, behold me here ; I overpower all beings by my might ; the offerers of sacrifice magnify me by their praises ; I, the shatterer, shatter the worlds.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the preceding Ṛk the seer expressed a doubt about Indra: "There is no one called Indra. Who indeed has seen this Indra? Whom shall we praise?" Hearing this, Indra went to the seer's side and made known to him his own nature and greatness; this is described in this Ṛk and in the next Ṛk.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यन्मा॑ वे॒ना अरु॑हन्नृ॒तस्यँ॒ एक॒मासी॑नं हर्य॒तस्य॑ पृ॒ष्ठे ।  
+> मन॑श्चिन्मे हृ॒द आ प्रत्य॑वोच॒दचि॑क्रदं॒छिशु॑मंतः॒ सखा॑यः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यत् । मा । वेनाः । अरुहन् । ऋतस्य । एकम् । आसीनम् । हर्यतस्य । पृष्ठे ।  
+> मनः । चित् । मे । हृदे । आ । प्रति । अवोचत् । अचिक्रदन् । शिशुऽमंतः । सखायः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा ये ऋतस्य यज्ञस्य यज्ञम् । कर्मणि षष्ठी । वेनाः कामयमानाः हर्यतस्य कांतस्यांतरिक्षस्य पृष्ठे आसीनम् उपविष्टम् एकं मा माम् आ अरुहन् तदानीं तेषां भवतामारोहं मनश्चित् मन एव मे मम हृदे हृदयाय प्रत्यवोचत् अब्रवीत् । अज्ञासिषं च तदाह्वानं शिशुमंतः पुत्रयुक्ताः सखायः प्रिया अमी अचिकदन् मां क्रंदंतीति ॥
+
+##### Gist of the bhāṣya
+
+When (यत् (*yat*)) those who desire (वेनाः (*venāḥ*) कामयमानाः (*kāmayamānāḥ*)) the sacrifice (ऋतस्य यज्ञस्य (*ṛtasya yajñasya*); the genitive stands for the object) climbed (अरुहन् (*aruhan*)) up to me, the one (एकं (*ekaṃ*)) seated (आसीनम् (*āsīnam*)) on the back (पृष्ठे (*pṛṣṭhe*)) of the lovely (हर्यतस्य (*haryatasya*), कांतस्य (*kāṃtasya*)) firmament, then my mind itself (मनश्चित् (*manaścit*)) spoke (प्रत्यवोचत् (*pratyavocat*)) to my heart (हृदे (*hṛde*)); and I understood that call: these dear friends (सखायः (*sakhāyaḥ*)), who have children (शिशुमंतः (*śiśumaṃtaḥ*)), cry out (अचिकदन् (*acikadan*)) to me. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- ऋतस्य (*ṛtasya*)—the sacrifice
+- वेनाः (*venāḥ*)—all who honour
+- हर्यतस्य (*haryatasya*)—of the delightful firmament
+- पृष्ठे (*pṛṣṭhe*)—in the middle
+- आसीनं (*āsīnaṃ*)—who was seated
+
+### Printed p. 506
+
+- एकं (*ekaṃ*)—and unique
+- मा (*mā*)—to me
+- आ अरुहन् (*ā aruhan*)—climbed up (then)
+- मनश्चित् (*manaścit*)—my mind
+- मे (*me*)—my
+- हृदे (*hṛde*)—entering my heart
+- प्रत्यवोचत् (*pratyavocat*)—said thus
+- शिशुमंतः (*śiśumaṃtaḥ*)—who have children
+- सखायः (*sakhāyaḥ*)—my friends
+- अचिक्रदन् (*acikradan*)—are crying out for me
+
+##### भावार्थ (Bhāvārtha)
+
+When all who honour the sacrifice climbed up to me, who was seated in the middle of the delightful firmament and was unique, then my mind entered my heart and told it, "Those who have children, my friends, are crying out for me."
+
+##### English translation
+“When the lovers of sacrifice ascended to me sitting alone on the back of my well-loved (firmament), then my mind verily proclaimed to my heart, ‘my friends with their children are crying to me’.”
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वेत्ता ते॒ सव॑नेषु प्र॒वाच्या॒ या च॒कर्थ॑ मघवन्निंद्र सुन्व॒ते ।  
+> पारा॑वतं॒ यत्पु॑रुसंभृ॒तं वस्व॒पावृ॑णोः शर॒भाय॒ ऋषि॑बंधवे ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । इत् । ता । ते । सवनेषु । प्रऽवाच्या । या । चकर्थ । मघऽवन् । इंद्र । सुन्वते ।  
+> पारावतम् । यत् । पुरुऽसंभृतम् । वसु । अपऽअवृणोः । शरभाय । ऋषिऽबंधवे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वसमीपमागतमिंद्रं दृष्ट्वा संतुष्ट ऋषिरिंद्रस्य विविधानि कर्माणि दानं च ' विश्वेत्ता ते इत्यनेन द्वृचेन स्तौति । हे मघवन्निंद्र त्वं सवनेषु यज्ञेषु सुन्वते सोमाभिषवं कुर्वते यजमानाय या यानि कर्माणि चकर्थ अकरोः ते तव ता तानि कर्माणि प्रवाच्या प्रवक्तव्यानि विश्वेत् अनंतान्येव । किंच त्वं पारावतं परावन्नामकस्य कस्यचिच्छत्रोः स्वभूतं यत् धनमस्ति तत् ऋषिबंधवे' शरभाय शरभनाम्न ऋषये अपावृणोः अपवृतवानसि । पुरुसंभृतं यथा बहुसंभृतं भवति ॥ ॥ ४ ॥
+
+##### Gist of the bhāṣya
+
+Seeing Indra come to his side, the pleased seer praises Indra's various deeds and his gift with this two-Ṛk set beginning विश्वेत्ता ते (*viśvettā te*). O Maghavan, Indra: whatever deeds (या यानि कर्माणि (*yā yāni karmāṇi*)) you did (चकर्थ (*cakartha*)) at the Soma-pressings, at the sacrifices (सवनेषु (*savaneṣu*)), for the sacrificer who presses the Soma (सुन्वते (*sunvate*)), all those deeds of yours are to be proclaimed (प्रवाच्या (*pravācyā*)); they are endless (विश्वेत् (*viśvet*)). Further, the wealth belonging to an enemy named Parāvat (पारावतं (*pārāvataṃ*)), that you uncovered (अपावृणोः (*apāvṛṇoḥ*)) for Śarabha (शरभाय (*śarabhāya*)), the seer of that name, the kinsman of seers (ऋषिबंधवे (*ṛṣibaṃdhave*)); that wealth was amply amassed (पुरुसंभृतं (*purusaṃbhṛtaṃ*)), that is, much amassed.
+
 ---
 
-**Progress note:** Done through printed p. 500. 8.99.5-8, 8.100 introduction and Rk 1
+**Progress note:** Done through printed p. 506. 8.100.1-6
