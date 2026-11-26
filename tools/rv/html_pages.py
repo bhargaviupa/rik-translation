@@ -32,7 +32,7 @@ def pages(path,heads=None,title=('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','�
 
 def _head_number(h):
     h=h.translate(KD)                                   # Kannada digits in a head count like Latin ones (Vol 16)
-    m=re.match(r'^[#\s]*([0-9][0-9:)]{0,4})(?=\s)',h) or re.search(r'\s([0-9]{1,4})\s*$',h)
+    m=re.match(r'^[#\s]*([0-9][0-9:)]{0,4})(?=\s)',h) or re.search(r'\s([0-9]{1,4})\s*\.?\s*$',h)      # a full stop after the number ('ಋಗ್ವೇದಸಂಹಿತಾ 123.', Vol 28)
     if not m: return None
     d=re.sub(r'[^0-9]','',m.group(1)); return int(d) if d else None
 VOL1_HEAD=re.compile(r'(?:[0-9]{1,4}\s+(?:ಋಗ್ವೇದ|ಹುಗ್ಗೇದ|ಮಗ್ವೇದ|ಋಗ್ಗೇದ)\S{0,8}|(?:ಪೂರ್ವಪೀಠಿಕೆ|ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ|ಸಾಯಣಭಾಷ್ಯ ?ಭೂಮಿಕೆ)\s+[0-9]{1,4})')
@@ -62,7 +62,7 @@ def pages_md(path,heads=None):
         if re.search(r'ಭಾ.{1,3}ಸಂ?ಹಿ ?ತಾ|ಗ್ವೇದ.{0,2}ಹಿ ?ತಾ',h) and not re.search('ಪಾರಃ|ಪಾಠಃ|ಪಾದಃ',h):    # OCR variants of the running head (Vol 23, 30): ಸಾಯಣಭಾವ್ಯ/ಭಾಷ್ಪ/ಭಾಜ್ಯ/ಭಾನ್ಯಸಹಿತಾ, ಋಗ್ವೇದಸಹಿತಾ, ಋಗ್ವೇದಹಿತಾ
             n=_head_number(h)
             if n is not None: H.append([ln,n,h]); continue
-        if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ','ಷ್ಯಸಂಹಿತಾ')):      # 'ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ' (OCR: anusvara) heads were missed in Vol 19 (pp. 176, 194, 236, 262, 278, 308, 366, 390, 436 …)
+        if any(x in h for x in ('ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ','ಋಗ್ವೇದಸಂಹಿತಾ','ಸಾಯಣಭಾಷ್ಯಭೂಮಿಕೆ','ಭಾಷ್ಯಸಹಿತಾ','ಗ್ವೇದಸಂಹಿತಾ','ಷ್ಯಸಂಹಿತಾ','ಋದಸಂಹಿತಾ','ಭಾಷ್ಯಸೂಚಾ')):      # 'ಸಾಯಣಭಾಷ್ಯಸಂಹಿತಾ' (OCR: anusvara) heads were missed in Vol 19 (pp. 176, 194, 236, 262, 278, 308, 366, 390, 436 …)
             n=_head_number(h)
             if n is not None: H.append([ln,n,h])
     off=[n-i for i,(ln,n,h) in enumerate(H)]; del ANOMALIES[:]; fixed=[]
