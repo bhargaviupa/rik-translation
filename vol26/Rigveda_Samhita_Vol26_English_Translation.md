@@ -27325,6 +27325,224 @@ O Soma-deva, you who have many streams, pour rain from the sky. You who, in the 
 शतधारः (*śatadhāraḥ*)—बहुधारोपेतः (*bahudhāropetaḥ*). The meaning is: oozing or streaming at many places from the crushed Soma-plants and flowing in the form of streams.
 वृष्टिं दिवः पवस्व (*vṛṣṭiṃ divaḥ pavasva*)—"Pour rain from the sky": thus Soma is prayed to. What connection is there between Soma and rain? How can Soma-deva pour rain? To this: as in यज्ञा प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥ (*yajñā prāstāhutiḥ samyagādityamupatiṣṭhate | ādityājjāyate vṛṣṭirvṛṣṭerannaṃ tataḥ prajāḥ ‖*), in the sacrifices and the like Soma, oblations and so on are offered in the form of oblations and the deities
 
+### Printed p. 725
+the deities, these oblations reach Āditya, and from him rain comes into being, so it is said. Therefore Soma is the indirect cause of rain. Besides this, from the drinking of Soma delight arises in Indra, and Indra strikes the clouds with his thunderbolt weapon and pours down rain; for this too Soma is the indirect cause. For reasons of this kind Soma is prayed to for the pouring down of rain.
+देववीत् (*devavīt*)—देवानां वीतिर्हनिर्भक्षणं यस्मिन् स देववीतिर्यज्ञः (*devānāṃ vītirhanirbhakṣaṇaṃ yasmin sa devavītiryajñaḥ*) **NOTE**. वीति (*vīti*) means eating. Because in the sacrifice the gods eat the oblation, it is named देववीति (*devavīti*).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य सोमो॑ म॒तिभिः॑ पुना॒नोऽत्यो॒ न वा॒जी तर॒तीदरा॑तीः ।  
+> पयो॒ न दु॒ग्धमदि॑तेरिषि॒रमु॒र्वि॑व गा॒तुः सु॒यमो॒ न  ॑
+> वोळ्हा ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । सोमः । मतिभिः । पुनानः । अत्यः । न । वाजी । तरति । इत् । अरातीः ।  
+> पयः । न । दुग्धं । अदितेः । इषिरं । उरुऽइव । गातुः । सुयमं । न । वोळ्हा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष एतादृशः स्य स सोमो मतिभिर्मननसाधनैः स्तोत्रैः पुनानः पूयमानो भवति । यः सोमोऽत्यो नातनशीलो वाज्यश्व इव संग्रामेऽरातीररातीइत्यूंस्तरति । इदवधारणे । तरत्येव हिनस्त्येव ॥ यद्वृत्तयोगादनिघातः ॥
+> किंचादितेः । गोनामैतत् । अदीनाया गोरिषिरमन्वेषणीयं दुग्धं पयो न
+> क्षीरं यथा पूतं भवति एवं सोमः परिशुद्धः । अपि चोर्निव ॥ सुपां सुलुगिति
+> सोर्लुक् ॥ उरुर्विस्तीर्णो गातुर्मार्ग इव सर्वैः समाश्रयणीयस्तथा वोळ्हा
+> वोढाश्व! सुयमः सुष्टु नियंतुं शक्यो यथा भवति तद्वयं सोमः
+> स्तोतृभिर्नियंतव्यो भवति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: this well-known Soma is being purified by the hymns of praise, which are the means of reflection. This Soma, like a swift and strong horse in battle, overcomes the enemies (the अरातीः (*arātīḥ*)); the word इत् (*it*) is in the sense of emphasis: he surely overcomes them, he surely harms them. Further, अदितेः (*aditeḥ*) is a name of the cow: as the milk milked from the inexhaustible cow, which is to be sought after, becomes pure, so Soma is purified. Moreover, like a broad road resorted to by all, and like a horse of burden, he is well to be controlled; in the same way Soma is to be controlled by the praisers **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एषः स्यः सोमः (*eṣaḥ syaḥ somaḥ*)—this well-known Soma
+- मतिभिः (*matibhiḥ*)—by praises
+- पुनानः (*punānaḥ*)—becomes pure
+- वाजी (*vājī*)—strong
+- अत्योन (*atyona*)—like a horse **NOTE**
+- अरातीः (*arātīḥ*)—the enemies
+
+### Printed p. 726
+- तरति (*tarati*)—he conquers
+- अदितेः (*aditeḥ*)—from the cow
+- दुग्धं (*dugdhaṃ*)—milked
+- इषिरं (*iṣiraṃ*)—and desired
+- पयः न (*payaḥ na*)—like milk, he attains complete purity
+- उरु (*uru*)—broad
+- गातुः न (*gātuḥ na*)—like a road he gives shelter to many
+- वोळ्हा (*voḷhā*)—like a horse that bears a burden
+- सुयमः (*suyamaḥ*)—he submits to excellent control
+
+##### भावार्थ (Bhāvārtha)
+
+The well-known Soma becomes pure through praises. Like a strong horse he conquers the enemies. Like milk, milked from the cow and desired, he attains purity. Like a broad road he gives shelter to many. Like a horse that bears a burden he submits to excellent control.
+
+##### English translation
+This Soma (is) purified with praises, like a strong horse he overthrows (his) foes ; (he is purified) like the strong milk milked from the cow. (flocked to by all) like a broad road, and guided by the praisers) like a well-trained horse of burden. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+मतिभिः पुनानः (*matibhiḥ punānaḥ*)—मननसाधनैः स्तोत्रैः पूयमानः (*mananasādhanaiḥ stotraiḥ pūyamānaḥ*). मति (*mati*) means a hymn of praise recited with meditation in the mind. That is, purified by being prepared with the recitation of mantras of a meditative kind; this is the meaning.
+अत्यो न वाजी तरति इत् अरातीः (*atyo na vājī tarati it arātīḥ*)—Just as a horse by nature swift in movement rushes upon the enemies in battle and the like and destroys them, so the Soma-juice fills those who drink it with zeal and delight and becomes the cause of the slaying of enemies.
+इत् (*it*) is एव (*eva*). This word indicates the sense of emphasis denoted by एव (*eva*), in the Ṛgveda and also in the other Vedas. In some contexts this word has no meaning at all and is used to fill up the fixed number of syllables that must be in a metre, that is, for the filling of a pada.
+अथ ये प्रवृत्तेऽर्थेऽमिताक्षरेषु ग्रंथेषु वाक्यपूरणा आगच्छंति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिद्विति ॥ (*atha ye pravṛtte 'rthe 'mitākṣareṣu graṃtheṣu vākyapūraṇā āgacchaṃti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidviti ‖*) (2 1-9) **NOTE**
+Thus Yāska has given the explanation; that is, the particles कं, ईं, इत्, उ (*kaṃ, īṃ, it, u*) (indeclinables) are used in prose works not bound by metre for the filling out of the sentence, and in
+
+### Printed p. 727
+the works of fixed syllables, that is, in metres containing a fixed number of syllables, for the filling out of the pada. In such contexts it is said that these particles have no particular meaning. Yet it is seen that various meanings have been given to these words according to the context. For the word इत् (*it*) in the present place, the meaning of the word एव (*eva*) is the one commonly in use.
+
+#### Ṛk 16
+
+#### Ṛk 17
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒यु॒धः सो॒तृभिः॑ पू॒यमा॑नो॒ऽभ्य॑र्ष॒ गुह्यं॒ चारु॒ नाम॑ ।  
+> अ॒भि वाजं॒ सप्ति॑रिव श्रव॒स्याभि वा॒युम॒भि गा दे॑व सोम ॥१६॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुआयुधः । सोतृभिः । पूयमानः । अभि । अर्ष । गुह्यं । चारु । नाम ।  
+> अभि । वाजं । सप्तिः इव श्रवस्या । अभि । वायुं । अभि । गाः । देव । सोम ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वायुधः शोभनायुधोपेतः ! यद्वा! यज्ञे स्प्यकपालादीनि दशायुधानि
+> संति ! तद्वान् ! सोतृभिरभिषुण्वद्भिः पूयमानस्त्वं गुह्यं गुहायां निहितं चारु
+> कमनीयं नाम त्वदीयं रसात्मकं शरीरं स्तुतिभिः सहाभ्यर्ष । कलशादीन्यभिगमय ।
+> किंच सप्तिरिवाश्व इव वर्तमानस्त्वं श्रवस्या ॥ सुपां सुलुगिति सप्तम्या आजादेशः ॥
+> अस्मदीयायामन्नेच्छायां वाजमन्नमस्मभ्यमभिगमय । अपि च हे देव स्तोतव्य
+> हे सोम वायुं प्राणं जीवनमभिगमय ! गाः पशूंश्चास्मभ्यमभिगमय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: स्वायुधः (*svāyudhaḥ*) means possessed of excellent weapons; or else, in the sacrifice there are ten weapons, the स्प्य (*spya*), the potsherds and the rest, and he possesses them. Soma, purified by the pressers, the extractors, drive towards the vessels and the rest, together with praises, your hidden lovely name, that is, your body consisting of juice, placed in a cave. Further, being like a horse, for our desire for food bring us food. And, O praiseworthy Soma-deva, bring us vital breath, that is, life, and bring us cows, that is, cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—divine
+- सोम (*soma*)—O Soma
+- स्वायुधः (*svāyudhaḥ*)—you who possess excellent weapons
+- सोतृभिः (*sotṛbhiḥ*)—by the pressers
+- पूयमानः (*pūyamānaḥ*)—who are being purified
+- गुह्यं (*guhyaṃ*)—hidden
+- चारु (*cāru*)—attractive
+- नाम (*nāma*)—and consisting of juice, your body
+- अभ्यर्ष (*abhyarṣa*)—cause to flow
+- श्रवस्या (*śravasyā*)—when we desire food
+- सप्तिः इव (*saptiḥ iva*)—like a horse
+- वाजं (*vājaṃ*)—food
+- अभि (*abhi*)—provide
+- वायुं (*vāyuṃ*)—our life
+- अभि (*abhi*)—fill
+- गाः (*gāḥ*)—cattle
+- अभि (*abhi*)—provide
+
+### Printed p. 728
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who possess excellent weapons and are purified by the pressers, cause your body, which is hidden, attractive and consisting of juice, to flow. When we have desire, provide us food; provide cattle. Increase our life.
+
+##### English translation
+Well-armed, purified by those who express you, send your concealed desirable from (into the pitchers) ; like a horse bring us food in our desire for food ; divine Soma, bring us life, bring us cattle.
+
+##### विशेषविषयगळु (Special Topics)
+
+स्वायुधः (*svāyudhaḥ*)—शोभनायुधोपेतः (*śobhanāyudhopetaḥ*). Or else: स्प्यकपालादीनि दशायुधानि संति तद्वान् (*spyakapālādīni daśāyudhāni saṃti tadvān*). स्वायुधः (*svāyudhaḥ*), "one who possesses excellent weapons", is an epithet of Soma. Or else: among the chief materials used in the sacrifice, ten things beginning with the स्प्यः (*spyaḥ*) are famous under the name of "the ten sacrificial weapons"—
+यो वै दश यज्ञायुधानि वेद मुखतोऽस्य यज्ञः कल्पते स्पृश्च कपालानि चाग्निहोत्रहवणी च शूर्पं च कृष्णाजिनं च शम्या चोलूखलं च मुसलं च दृष्टच्चोपला चैतानि वै दश यज्ञायुधानि य एवं वेद मुखतोऽस्य यज्ञः कल्पते ॥ (*yo vai daśa yajñāyudhāni veda mukhato 'sya yajñaḥ kalpate spṛśca kapālāni cāgnihotrahavaṇī ca śūrpaṃ ca kṛṣṇājinaṃ ca śamyā colūkhalaṃ ca musalaṃ ca dṛṣṭaccopalā caitāni vai daśa yajñāyudhāni ya evaṃ veda mukhato 'sya yajñaḥ kalpate ‖*) (Tai. Saṃ. 1-6-8-2,3)
+Thus there is a statement of the Taittirīya Saṃhitā of the Kṛṣṇa Yajurveda. That is, the chief implements used in the sacrifice are ten:
+- (1) स्फः (*sphaḥ*)—च्छेदनादिकृत् (*cchedanādikṛt*). The knife used for cutting darbha grass and the like.
+- (2) कपालानि (*kapālāni*)—हविरधिश्रयणार्थानि (*haviradhiśrayaṇārthāni*). The earthen griddles on which the oblation, that is, the oblation called puroḍāśa, is placed on the fire and baked.
+- (3) अग्निहोत्रहवणी (*agnihotrahavaṇī*)—a wooden vessel like a ladle **NOTE**, used for offering the oblation in the homa.
+- (4) शूर्पं (*śūrpaṃ*)—the wooden implement **NOTE** used for winnowing grain.
+- (5) कृष्णाजिनं (*kṛṣṇājinaṃ*)—the skin of the deer called black antelope, used near the mortar.
+- (6) शम्या (*śamyā*)—the weapon used in the sacrifice for killing the animal.
+
+### Printed p. 729
+- (7) उलूखलं (*ulūkhalaṃ*)—the mortar used for pounding grain and for crushing the Soma-juice.
+- (8) मुसलं (*musalaṃ*)—the pestle for pounding grain.
+- (9) दृष्टत् (*dṛṣṭat*)—the stone used underneath when the Soma-juice is crushed, or the slab **NOTE**. It is also called ग्रावा (*grāvā*).
+- (10) उपला (*upalā*)—the round grinding stone used for grinding the substance placed upon the stone called दृष्टत् (*dṛṣṭat*) mentioned above. It is called ग्रावा (*grāvā*) or अद्रि (*adri*).
+Of these ten implements of the sacrifice, the eighth, ninth and tenth are used in the work of pressing Soma, so they are regarded as the weapons belonging to Soma.
+The manner of crushing the Soma-plant and preparing the Soma-juice is nowhere described at length in the Ṛgveda. From some sentences stated here and there that manner can be inferred. The stones that crush the Soma-plants have the names ग्रावा (*grāvā*) and अद्रि (*adri*). In some contexts the wooden boards famous by the name अधिषवण (*adhiṣavaṇa*) are also used. If the plant is fresh, the juice comes in plenty. If not, that is, if some days have passed since it was gathered and brought, they soak it in water and afterwards place it on a skin. Then they crush it with stones and take out the juice. Because in the juice so taken pieces and bits of the plant and the like are mixed, they filter that juice either through the gaps of the fingers of the hands, or through a sieve or cloth called पवित्र (*pavitra*), or through the sheep's wool **NOTE**. The juice filtered in this way is bright, without impurities. It has the names शुक्र, शुचि (*śukra, śuci*). In appearance this juice is of a dull reddish colour, or a red mixed with yellow. It is the custom to offer to Indra and Vāyu the pure Soma-juice, that is, without any admixture of mixing substances. For the other deities they use it mixed with milk, curds and grain flour. The Soma-juice mixed with these has respectively the names गवाशिर (*gavāśira*), दध्याशिर (*dadhyāśira*) and यवाशिर (*yavāśira*).
+
+#### Ṛk 17
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शिशुं॑ जज्ञा॒नं ह॑र्य॒तं मृ॑जंति शुं॒भंति॒ वह्निं॑ म॒रुतो॑  ॒॑
+> गणेन ।  
+> क॒विर्गि॒र्भिः काव्ये॑ना क॒विः सन्त्सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न्॥१७॥
+
+### Printed p. 730
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शिशुं । जज्ञानं । हर्यतं । मृजंति । शुंभंति । वह्निं । मरुतः । गणेन ।  
+> कविः । गीःभिः । काव्येन । कविः । सन् । सोमः । पवित्रं । अति । एति । रेभन् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शिशुमिदानीमुत्पन्नत्वाच्छिशुवत्तिष्ठंतं । यद्वा । पापानि तनूकुर्वंतं विनाशयंतं । जज्ञानं प्रादुर्भूतं आत एव हर्यतं ॥ हर्य गतिकांत्योः । भ्रमृदृशीत्यादिनातच् ॥ सर्वैः काम्यमानं सोमं मृजंति । मरुतः शोधयंति ।
+> किंच वह्निं वोढारं सोमं गणेनात्मीयेन सप्तसंख्याकेन गणेन शुंभंति ।
+> अलंकुर्वंति । ततः कविः क्रांतप्रज्ञः सोमः काव्येन कविकर्मणैव कविः शब्दोपेतः
+> सन्नेभङ्बायमानो गीर्भिः स्तुतिभिः सह पवित्रमत्येति । अतीत्य गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: शिशुं (*śiśuṃ*) means one who, being just now born, stands like an infant; or else one who makes sins thin, that is, destroys them. जज्ञानं (*jajñānaṃ*) means manifested; therefore हर्यतं (*haryataṃ*), desired by all: Soma they purify, that is, the Maruts cleanse him. Further, वह्निं (*vahniṃ*), the bearer, Soma, they adorn with their own troop of seven. Then Soma, कविः (*kaviḥ*), one of far-reaching wisdom, being a poet by the poet's work itself and endowed with sound **NOTE**, passes beyond the filter together with the songs, the hymns of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शिशुं (*śiśuṃ*)—in the form of an infant
+- हर्यतं (*haryataṃ*)—possessing an attractive form, Soma
+- जज्ञानं (*jajñānaṃ*)—at the very time of being born
+- मृजंति (*mṛjaṃti*)—they purify
+- मरुतः (*marutaḥ*)—the Maruts
+- गणेन (*gaṇena*)—with their troop
+- वह्निं (*vahniṃ*)—Soma, who has the power of bearing
+- शुंभंति (*śuṃbhaṃti*)—they adorn
+- कविः (*kaviḥ*)—of far-reaching wisdom
+- काव्येन (*kāvyena*)—by his poet's work
+- कविः सन् (*kaviḥ san*)—and praiseworthy
+- सोमः (*somaḥ*)—Soma
+- रेभन् (*rebhan*)—making sound
+- गीर्भिः (*gīrbhiḥ*)—with the hymns of praise
+- पवित्रं (*pavitraṃ*)—the Daśāpavitra
+- अत्येति (*atyeti*)—passes beyond
+
+##### भावार्थ (Bhāvārtha)
+
+They purify Soma, who is in the form of an infant and has an attractive form, at the very time of his being born. The Maruts adorn Soma, who has the power of bearing, with their troop. Soma, of far-reaching wisdom and praiseworthy by his poet's work, passes beyond the Daśāpavitra making sound together with the hymns of praise.
+
+##### English translation
+They cleanse the charming infant (Soma) at his birth ; the Maruts decorate the bearer (of boons) with their troop ; being wise with songs, wise with wisdom, Soma passes clamorous through the filter.
+
+### Printed p. 731
+
+##### विशेषविषयगळु (Special Topics)
+
+शिशुं जज्ञानं (*śiśuṃ jajñānaṃ*)—इदानीमुत्पन्नत्वाच्छिशुवत्तिष्ठंतं (*idānīmutpannatvācchiśuvattiṣṭhaṃtaṃ*). Or else: पापानि तनूकुर्वंतं विनाशयंतं (*pāpāni tanūkurvaṃtaṃ vināśayaṃtaṃ*). A child just born is called an infant. Likewise the juice just now (freshly) taken from the Soma-plants the seer has called an infant; or else, because it destroys the sins of the priests, another kind of meaning, that it has the name infant, has also been given by the commentator.
+मरुतो गणेन (*maruto gaṇena*)—An explanation is necessary on the point of what the troop of the Marut deities is. In contexts where the Marut deities are indicated, it is the custom to point to the Marut deities together with seven troops or groups, by the expressions मारुतं गणं (*mārutaṃ gaṇaṃ*) and मारुतं शर्धः (*mārutaṃ śardhaḥ*). According to the Śruti sentence सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*) the troops of the Maruts are seven. In every troop or group there are Maruts, seven each. In all, from the seven troops there are forty-nine deities. All these together they call by the words मारुतं गणं (*mārutaṃ gaṇaṃ*), मारुतं शर्धः (*mārutaṃ śardhaḥ*) or मरुतः (*marutaḥ*).
+सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः । (*sapta sapta hi māruto gaṇastasmānmārutaḥ saptakapālaḥ |*) (Śa. Brā. 2-5-1-13)
+सप्त सप्त हि मारुतो गणः सर्वमेवैतेन रथं प्रीणाति । (*sapta sapta hi māruto gaṇaḥ sarvamevaitena rathaṃ prīṇāti |*) (Śa. Brā. 5-4-3-17)
+From sentences of this kind it is understood that the Maruts are always in troops, and that in a troop of that kind a certain energy and power is naturally present. It is the custom also to call these Marut deities the sons of Rudra. How did they become sons of Rudra? What is the reason for their being seven troops? What the commentator has said on this point we explain here.
+रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिंद्रोऽसुरान् जिगाय ! तदानीं दितिरसुरमाता इंद्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे। इमं वृत्तांतमवगच्छन्निंद्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य (*rudrasya ca marutāṃ pitṛtvamevamākhyāyate | purā kadācidiṃdro 'surān jigāya ! tadānīṃ ditirasuramātā iṃdrahananasamarthaṃ putraṃ kāmayamānā tapasā bhartuḥ sakāśādgarbhaṃ lebhe| imaṃ vṛttāṃtamavagacchanniṃdro vajrahastaḥ san sūkṣmarūpo bhūtvā tasyā udaraṃ praviśya*)
+तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्तखंडमकरोत् । ते सर्वे गर्भैकदेशायोनेनिर्गत्य अरुदन् । एतस्मिनवसरे लीलार्थं गच्छंतौ पार्वतीपरमेश्वरौ इमान् ददृशतुः । महेशं प्रति पार्वती एवमवोचत् । इमे मांसखंडा यथा प्रत्येकं पुत्राः संपद्यतामेवं त्वया कार्यं मयि चेत्प्रीतिरस्ति । स च महेश्वरस्तान् समानरूपान् समानवयसः समानालंकारान् पुत्रान् कृत्वा गौर्यै प्रददौ तवेमे पुत्राः संस्कृति । अतः सर्वेषु (*taṃ garbhaṃ saptadhā bibheda | punarapyekaikaṃ saptakhaṃḍamakarot | te sarve garbhaikadeśāyonenirgatya arudan | etasminavasare līlārthaṃ gacchaṃtau pārvatīparameśvarau imān dadṛśatuḥ | maheśaṃ prati pārvatī evamavocat | ime māṃsakhaṃḍā yathā pratyekaṃ putrāḥ saṃpadyatāmevaṃ tvayā kāryaṃ mayi cetprītirasti | sa ca maheśvarastān samānarūpān samānavayasaḥ samānālaṃkārān putrān kṛtvā gauryai pradadau taveme putrāḥ saṃskṛti | ataḥ sarveṣu*) **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 724. Sukta 96 Rk 11 (end) to 14 start, Mandala 9
+**Progress note:** Done through printed p. 731. Sukta 96 Rk 14 end to 17, Mandala 9
