@@ -9778,6 +9778,285 @@ O Indu, Soma, you who are exceedingly sweet, flow, stream, for Indra, accompanie
 
 O Soma-deva, you who are provided with sweet juice, flow for Indra, accompanied by the Maruts, so as to enter the place of the sacrifice.
 
+### Printed p. 272
+
+##### English translation
+Flow, Indu, for Indra associated with the Maruts, you who are most sweet-flavoured, and take your seat on the place of the sacrifice.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं त्वा॒ विप्रा॑ वचो॒विदः॒ परि॑ ष्कृण्वंति वे॒धसः॑ ।  
+> सं त्वा॑ मृजंत्या॒यवः॑ ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । त्वा । विप्राः । वचःऽविदः । परि । कृण्वंति । वेधसः ।  
+> सम् । त्वा । मृजंति । आयवः ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम तं पवमानं त्वा त्वां विप्राः प्राज्ञाः वेधसः कर्मणां कर्तारः वचोविदः स्तोतारः परिष्कृण्वंति अलंकुर्वंति । अपि च त्वा त्वाम् आयवः मनुष्याः सं मृजंति सम्यक् शोधयंति ।
+
+##### Gist of the bhāṣya
+
+O Soma, you who are purifying: the wise, the makers of rites, the singers who know the words of praise, adorn you all around. Moreover, men, the Āyus, purify you completely.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तं (*taṃ*)—the pure
+- त्वा (*tvā*)—you
+- विप्रा? (*viprā?*)**NOTE**—the wise
+- वेधसः (*vedhasaḥ*)—makers of rites
+- वचोविदः (*vacovidaḥ*)—and singers
+- परिष्कृण्वंति (*pariṣkṛṇvaṃti*)—adorn
+- त्वा (*tvā*)—you
+- आयवः (*āyavaḥ*)—men
+- सं मृजंति (*saṃ mṛjaṃti*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the wise makers of rites and singers adorn you, the pure. Men purify you.
+
+##### English translation
+The wise who are the performers of pious acts, who are acquainted with holy texts, adorn you : men purifv **NOTE** you.
+
+### Printed p. 273
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रसं॑ ते मि॒त्रो अ॑र्य॒मा पिबं॑ति॒ वरु॑णः कवे ।  
+> पव॑मानस्य म॒रुतः॑ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रसम् । ते । मित्रः । अर्यमा । पिबंति । वरुणः । कवे ।  
+> पवमानस्य । मरुतः ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतकर्मन् सोम पवमानस्य क्षरतः ते तव रसं मित्रः अर्यमा च वरुणः च मरुतः च एते सर्वे देवाः पिबंति ॥
+
+##### Gist of the bhāṣya
+
+O sage Soma, you of far-reaching works, as you flow, Mitra, Aryaman, Varuṇa and the Maruts, all these gods, drink your juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O Soma-deva of far-reaching wisdom
+- पवमानस्य (*pavamānasya*)—of you who flow
+- ते (*te*)—your
+- रसं (*rasaṃ*)—juice
+- मित्रः (*mitraḥ*)—Mitra
+- आर्यमा (*āryamā*)**NOTE**—Aryaman
+- वरुणः (*varuṇaḥ*)—the god Varuṇa
+- मरुतः (*marutaḥ*)—and the Maruts
+- पिबंति (*pibaṃti*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva of far-reaching wisdom, Mitra, Aryaman, Varuṇa and the Maruts drink your juice as you flow.
+
+##### English translation
+Mitra, Aryaman, Varuna and the Maruts drink, sage (Soma), your juice as you drop.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म विप॒श्चितं॑ पुना॒नो वाच॑मिष्यसि ।  
+> इंदो॑ स॒हस्र॑भर्णसम् ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 274
+
+> त्वम् । सोम । विपःऽचितम् । पुनानः । वाचम् । इष्यसि ।  
+> इंदो इति । सहस्रऽभर्णसम् ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्त सोम पुनानः पूयमानः त्वं विपश्चितं प्रज्ञया पवित्रां सहस्रभर्णसं बहुभरणां वाचम् इष्यसि प्रेरयसि ॥ ॥ ४० ॥
+
+##### Gist of the bhāṣya
+
+O Indu, shining Soma, being purified, you send forth speech, that is wise, vipaścit, **NOTE** and that sustains many, sahasrabharṇasa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—shining
+- सोम (*soma*)—O Soma-deva
+- पुनानः (*punānaḥ*)—you who are being purified
+- त्वं (*tvaṃ*)—you
+- विपश्चितं (*vipaścitaṃ*)—filled with wisdom
+- सहस्रभर्णसं (*sahasrabharṇasaṃ*)—and sustaining many
+- वाचं (*vācaṃ*)—speech
+- इष्यसि (*iṣyasi*)—you utter
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Soma-deva, you who are being purified, utter speech that is filled with wisdom and sustains many.
+
+##### English translation
+Brilliant Soma, when purified you utter a sapient speech, feeding thousands.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो स॒हस्र॑भर्णसं॒ वाचं॑ सोम मख॒स्युव॑म् ।  
+> पु॒ना॒न इं॑द॒वा भ॑र ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । सहस्रऽभर्णसम् । वाचम् । सोम । मखस्युवम् ।  
+> पुनानः । इंदो इति । आ । भर ॥ २६ ॥
+
+### Printed p. 275
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतो अपि च हे इंदो दीप्त सोम पुनानः पूयमानस्त्वं सहस्रभर्णसं सहस्रभरणां मखस्युवं धनकामां वाचम् अस्मभ्यम् आ भर आहर ॥
+
+##### Gist of the bhāṣya
+
+And, O Indu, shining Soma, being purified, bring to us speech that bears a thousand, sahasrabharṇasa, and desires wealth, makhasyu.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो (*uto*)—and
+- इंदो (*iṃdo*)—radiant
+- सोम (*soma*)—O Soma-deva
+- पुनानः (*punānaḥ*)—you who are being purified
+- सहस्रभर्णसं (*sahasrabharṇasaṃ*)—able to sustain many
+- मखस्युवं (*makhasyuvaṃ*)—and desiring wealth
+- वाचं (*vācaṃ*)—speech
+- आ भर (*ā bhara*)—utter for us
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Soma-deva, you who are being purified, utter for us speech that is able to sustain many and desires wealth.
+
+##### English translation
+Brilliant Soma, when purified bring (us) a voice, feeding thousands and desiring wealth.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒न इं॑दवेषां॒ पुरु॑हूत॒ जना॑नाम् ।  
+> प्रि॒यः स॑मु॒द्रमा वि॑श ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । इंदो इति । एषाम् । पुरुऽहूत । जनानाम् ।  
+> प्रियः । समुद्रम् । आ । विश ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूत इंदो सोम पुनानः पूयमानस्त्वम् एषाम् अस्मिन् यागे स्तोत्रं कुर्वतां जनानां प्रियः सन् समुद्रं द्रोणकलशम् आ विश प्रविश ॥
+
+##### Gist of the bhāṣya
+
+O Puruhūta, called by many, Indu, Soma, being purified and being dear to these people who perform the praise in this sacrifice, enter the ocean, that is, the Droṇa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूत (*puruhūta*)—worthy of the invocation of many
+- इंदो (*iṃdo*)—O Soma-deva
+- पुनानं (*punānaṃ*)**NOTE**—you who are being purified
+- एषां जनानां (*eṣāṃ janānāṃ*)—to these sacrificers
+- प्रियः (*priyaḥ*)—being dear
+- समुद्रं (*samudraṃ*)—the Droṇa vessel
+- आ विश (*ā viśa*)—enter
+
+### Printed p. 276
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, worthy of the invocation of many, you who are being purified, being dear to this sacrificer, enter the Droṇa vessel.
+
+##### English translation
+Indu, invoked hy **NOTE** many, being purified and being loved by these your worshippers, enter the pitcher.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दवि॑द्युतत्या रु॒चा प॑रि॒ष्टोभं॑त्या कृ॒पा ।  
+> सोमाः॑ शु॒क्रा गवा॑शिरः ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दविद्युतत्या । रुचा । परिऽस्तोभंत्या । कृपा ।  
+> सोमाः । शुक्राः । गोऽआशिरः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुक्राः उज्ज्वलाः दविद्युतत्या द्योतमानया रुचा दीप्त्या परिष्टोभंत्या परितः शब्दायमानया कृपा धारया च युक्ताः सोमाः गवाशिरः भवंति । गव्येन पयसा मिश्रिता भवंतीत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+The bright Soma juices, endowed with shining radiance, with resounding all around, and with a stream, become mixed with cow's milk, gavāśiraḥ. This is the meaning: they become mixed with milk of the cow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्राः (*śukrāḥ*)—endowed with brightness
+- दविद्युतत्या (*davidyutatyā*)—shining
+- रुचा (*rucā*)—accompanied by radiance
+- परिष्टोभंत्या (*pariṣṭobhaṃtyā*)—resounding
+- कृपा (*kṛpā*)—together with streams
+- सोमाः (*somāḥ*)—the Soma juices
+- गवाशिरः (*gavāśiraḥ*)—become mixed with milk and the like
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, endowed with brightness, accompanied by shining radiance and with resounding streams, become mixed with milk and the like.
+
+### Printed p. 277
+
+##### English translation
+The bright Soma juices with their shining radiance ond **NOTE** resounding stream are mixed with the milk and curds.
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒न्वा॒नो हे॒तृभि॑र्य॒त आ वाजं॑ वा॒ज्य॑क्रमीत् ।  
+> सीदं॑तो व॒नुषो॑ यथा ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिन्वानः । हेतृऽभिः । यतः । आ । वाजम् । वाजी । अक्रमीत् ।  
+> सीदंतः । वनुषः । यथा ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजी बलवान् सोमः हेतृभिः प्रेरकैः स्तोतृभिः हिन्वानः स्तोत्रैः प्रेर्यमाणः यतः संयतः सन् वाजं यागाख्यं युद्धम् आ अक्रमीत् आक्रामति । तत्र दृष्टांतः । यथा वनुषः हंतारो भटाः सीदंतः युद्धं प्रविशंतः आक्रामंति तद्वदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The strong Soma, urged on by the impellers, the singers, with their praises, and held in check, enters the contest called the sacrifice. The illustration: as warriors, the slayers, sitting down, that is, entering the battle, advance, so is it. This is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—in the manner in which
+- वनुषः (*vanuṣaḥ*)—warriors, killers of enemies
+- सीदंतः (*sīdaṃtaḥ*)—enter the battlefield, so
+- वाजी (*vājī*)—the powerful Soma-deva
+- हेतृभिः (*hetṛbhiḥ*)—by the singers
+- हिन्वानः (*hinvānaḥ*)—urged on
+- यतः (*yataḥ*)—and gathered
+- वाजं (*vājaṃ*)—the contest of the form of a sacrifice
+- आक्रमात् (*ākramāt*)**NOTE**—enters
+
+##### भावार्थ (Bhāvārtha)
+
+As warriors, killers of enemies, enter the battlefield, so the powerful Soma-deva, urged on by the singers and gathered, enters the contest that has the form of a sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 271. Mandala 9 sukta 64 rks 15-22 (pp. 266-271)
+**Progress note:** Done through printed p. 277. Mandala 9 sukta 64 rks 23-29 (pp. 272-277)
