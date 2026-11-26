@@ -1756,6 +1756,338 @@ Sūkta 44. Maṇḍala 9, Anuvāka 2, Sūkta 44. Aṣṭaka 7, Adhyāya 1, Varga
 > प्र । नः । इंदो इति । महे । तने । ऊर्मिम् । न । बिभ्रत् । अर्षसि ।  
 > अभि । देवान् । अयास्यः ॥ १ ॥
 
+### Printed p. 100
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम त्वं नः अस्माकं महे महते तने धनाय प्र अर्षसि प्रगच्छसि । न संप्रति अयास्यः चायमृषिः तव ऊर्मिं तरंगं बिभ्रत् धारयन् देवान् अभि गच्छति यष्टुम् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma: O Indu, you advance (अर्षसि (*arṣasi*), glossed as going forth) for our great wealth (महे महते तने धनाय (*mahe mahate tane dhanāya*) is not quoted; he glosses महे (*mahe*) as "great" and तने (*tane*) as "for wealth"). He glosses न (*na*) as "now" (संप्रति (*saṃprati*)) and says that this seer Ayāsya, bearing your wave (ऊर्मिं (*ūrmiṃ*), glossed तरंगं (*taraṃgaṃ*)), goes towards the gods in order to sacrifice.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—to us
+- महे (*mahe*)—great
+- तने (*tane*)—for the acquiring of wealth
+- प्र अर्षसि (*pra arṣasi*)—you advance
+- अयास्यः (*ayāsyaḥ*)—the seer named Ayāsya
+- ऊर्मि० न (*ūrmi0 na*)—your juices that are like waves
+- बिभ्रत् (*bibhrat*)—bearing
+- देवान् (*devān*)—to the gods
+- अभि (*abhi*) (गच्छति (*gacchati*))—goes for worship
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you advance for the acquiring of great wealth for us. The seer named Ayāsya (I), bearing your juices that are like waves, goes to the gods for the sake of the sacrifice.
+
+##### English translation
+Indu, you advance to give us abundant wealth; Ayasya bearing your waves (goes) towards the gods (to sacrifice).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ती जु॒ष्टो धि॒या हि॒तः सोमो॑ हिन्वे परा॒वति॑ ।  
+> विप्र॑स्य॒ धार॑या क॒विः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मती । जुष्टः । धिया । हितः । सोमः । हिन्वे । पराऽवति ।  
+> विप्रस्य । धारया । कविः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतकर्मा सोमः विप्रस्य मेधाविनः स्तोतुः मती मत्या स्तुत्या जुष्टः सेवितः धिया कर्मणा हितः यज्ञे निहितः परावति पवित्राद्दूरदेशे धारया हिन्वे प्रेर्यते ॥
+
+##### Gist of the bhāṣya
+
+Soma, कविः (*kaviḥ*), is "of far-reaching action" (क्रांतकर्मा (*krāṃtakarmā*)). He is served (जुष्टः (*juṣṭaḥ*)) by the praise (मत्या स्तुत्या (*matyā stutyā*)) of the wise (मेधाविनः (*medhāvinaḥ*)) worshipper, and is placed (हितः (*hitaḥ*)) in the sacrifice by the rite (धिया कर्मणा (*dhiyā karmaṇā*)). In a place far from the filter (पवित्राद्दूरदेशे (*pavitrāddūradeśe*), glossing परावति (*parāvati*)) he is sent (हिन्वे प्रेर्यते (*hinve preryate*)) in a stream (धारया (*dhārayā*)).
+
+### Printed p. 101
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—one of far-reaching action
+- सोमः (*somaḥ*)—Soma-deva
+- विप्रस्य (*viprasya*)—of the wise praiser
+- मती (*matī*)—by praise
+- जुष्टः (*juṣṭaḥ*)—having been served
+- धिया (*dhiyā*)—by an excellent rite
+- हितः (*hitaḥ*)—having been established in the sacrifice
+- परावति (*parāvati*)—to a very distant place
+- धारया (*dhārayā*)—in the form of a stream
+- हिन्वे (*hinve*)—is sent
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, of far-reaching action, served by the praise of the wise praiser and established in the sacrifice by an excellent rite, is sent in the form of a stream to a very distant place (to the sacrificial altar).
+
+##### English translation
+The sage Soma gratified by the praise of the pious (worshipper) prepared for the sacrifice is sent in a stream at a distance (from the filter).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं दे॒वेषु॒ जागृ॑विः सु॒त ए॑ति प॒वित्र॒ आ ।  
+> सोमो॑ याति॒ विच॑र्षणिः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । देवेषु । जागृविः । सुतः । एति । पवित्रे । आ ।  
+> सोमः । याति । विऽचर्षणिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जागृविः जागरणशीलः अयं सोमः देवेषु देवार्थं सुतः अभिषुतः आ एति समंतात् गच्छति । अपि च विचर्षणिः विद्रष्टा सोमः पवित्रे याति पावनाय गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma, जागृविः (*jāgṛviḥ*), is "given to waking" (जागरणशीलः (*jāgaraṇaśīlaḥ*)). Pressed (सुतः (*sutaḥ*)) for the gods (देवार्थं (*devārthaṃ*)), he goes all around (समंतात् गच्छति (*samaṃtāt gacchati*), glossing आ एति (*ā eti*)). Further, Soma as विचर्षणिः (*vicarṣaṇiḥ*), "the one who sees everything" (विद्रष्टा (*vidraṣṭā*)), goes (याति (*yāti*)) to the filter (पवित्रे (*pavitre*)) for the sake of purification (पावनाय (*pāvanāya*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जागृविः (*jāgṛviḥ*)—ever vigilant
+- अयं सोमः (*ayaṃ somaḥ*)—this Soma-deva
+- देवेषु (*deveṣu*)—for the worship of the gods
+- सुतः (*sutaḥ*)—pressed
+- आ एति (*ā eti*)—moves around
+
+### Printed p. 102
+
+- विचर्षणिः (*vicarṣaṇiḥ*)—Soma, who has a sight that examines everywhere
+- पवित्रे (*pavitre*)—towards the दशापवित्र (*daśāpavitra*)
+- याति (*yāti*)—goes for purification
+
+॥ भास्कर (*bhāskara*) ॥**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+This ever-vigilant Soma-deva, pressed for the worship of the gods, flows all around. Soma, who has a sight that examines everywhere, goes to the दशापवित्र (*daśāpavitra*) for purification.
+
+##### English translation
+This vigilant soma effused for the gods approaches, all-beholding he goes to the filter.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नः॑ पवस्व वाज॒युश्च॑क्रा॒णश्चारु॑मध्व॒रम् ।  
+> ब॒र्हिष्माँ॒ आ वि॑वासति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । पवस्व । वाजऽयुः । चक्राणः । चारुम् । अध्वरम् ।  
+> बर्हिष्मान् । आ । विवासति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यं त्वां बर्हिष्मान् ऋत्विक् आ विवासति परिचरति सः त्वं नः अस्मदर्थं वाजयुः अन्नमिच्छन् 'अध्वरं हिंसारहितं यागं चारु कल्याणं चक्राणः कुर्वन् पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, the priest who has the sacrificial grass (बर्हिष्मान् ऋत्विक् (*barhiṣmān ṛtvik*)) serves (परिचरति (*paricarati*), glossing आ विवासति (*ā vivāsati*)) you. You, desiring food for us (वाजयुः अन्नमिच्छन् (*vājayuḥ annamicchan*)), making the non-violent sacrifice (अध्वरं हिंसारहितं यागं (*adhvaraṃ hiṃsārahitaṃ yāgaṃ*)) auspicious (चारु कल्याणं (*cāru kalyāṇaṃ*)), flow (पवस्व क्षर (*pavasva kṣara*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) बर्हिष्मान् (*barhiṣmān*)—the priest who is ready, having prepared the seat of darbha grass
+- आ विवासति (*ā vivāsati*)—who serves you
+- सः (*saḥ*)—such a you
+- नः (*naḥ*)—to us
+- वाजयुः (*vājayuḥ*)—desiring food
+- अध्वरं (*adhvaraṃ*)—the non-violent sacrifice
+- चारुं (*cāruṃ*)—as auspicious
+- चक्राणः (*cakrāṇaḥ*)—making
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you whom the priest, ready after preparing the seat of darbha grass, serves, flow desiring food for us and making our non-violent sacrifice auspicious.
+
+### Printed p. 103
+
+##### English translation
+Flow for us food-desiring, making (our) sacrifice auspicious; (O Soma, whom) the priest with the sacred grass adores.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॒ भगा॑य वा॒यवे॒ विप्र॑वीरः स॒दावृ॑धः ।  
+> सोमो॑ दे॒वेष्वा य॑मत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । भगाय । वायवे । विप्रऽवीरः । सदाऽवृधः ।  
+> सोमः । देवेषु । आ । यमत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः पवमानः सोमः वायवे वायुदेवार्थं भगाय भगदेवार्थं च विप्रवीरः विप्रैर्मेधाविभिः स्तुत्या प्रेरितः सदावृधः नित्यवृद्धो भवन् नः अस्मभ्यं देवेषु स्थितं धनम् आ यमत् आ प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+That Pavamāna Soma, विप्रवीरः (*vipravīraḥ*), impelled by praise (स्तुत्या प्रेरितः (*stutyā preritaḥ*)) by the wise priests (विप्रैर्मेधाविभिः (*viprairmedhāvibhiḥ*)), ever growing (सदावृधः नित्यवृद्धो भवन् (*sadāvṛdhaḥ nityavṛddho bhavan*)), for Vāyu (वायुदेवार्थं (*vāyudevārthaṃ*)) and for Bhaga (भगदेवार्थं (*bhagadevārthaṃ*)), may bestow (आ यमत् आ प्रयच्छतु (*ā yamat ā prayacchatu*)) on us the wealth that is placed among the gods (देवेषु स्थितं धनम् (*deveṣu sthitaṃ dhanam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायवे (*vāyave*)—for the god Vāyu
+- भगाय (*bhagāya*)—for the god Bhaga
+- विप्रवीरः (*vipravīraḥ*)—one impelled by wise praisers
+- सः सोमः (*saḥ somaḥ*)—that Soma-deva, who is also pure
+- सदावृधः (*sadāvṛdhaḥ*)—ever attaining growth
+- नः (*naḥ*)—to us
+- देवेषु (*deveṣu*)—the wealth that is established among the gods
+- आ यमत् (*ā yamat*)—may he bring and supply
+
+##### भावार्थ (Bhāvārtha)
+
+May Soma-deva, for the god Vāyu and for the god Bhaga, impelled by wise praisers and pure, ever attaining growth, bring and supply to us the wealth established among the gods.
+
+##### English translation
+May soma who is pressed forth by the seers for Bhaga and Vayu, ever prospering, grant us (wealth placed) amongst the gods.
+
+### Printed p. 104
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ अ॒द्य वसु॑त्तये क्रतु॒विद्गा॑तु॒वित्त॑मः ।  
+> वाजं॑ जेषि॒ श्रवो॑ बृ॒हत् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । अद्य । वसुत्तये । क्रतुऽवित् । गातुवित्ऽतमः ।  
+> वाजम् । जेषि । श्रवः । बृहत् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम क्रतुवित् क्रतूनां कर्मणां लंभकः गातुवित्तमः पुण्यलोकानामतिशयेन मार्गस्य ज्ञाता त्वम् अद्य अस्मिन्नहनि नः अस्माकं वसुत्तये धनलाभाय बृहत् महत् श्रवः अन्नं वाजं बलं च जेषि जय ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, क्रतुवित् (*kratuvit*) is "obtainer of the rites" (क्रतूनां कर्मणां लंभकः (*kratūnāṃ karmaṇāṃ laṃbhakaḥ*)), and गातुवित्तमः (*gātuvittamaḥ*) is "in the highest degree the knower of the way to the meritorious worlds" (पुण्यलोकानामतिशयेन मार्गस्य ज्ञाता (*puṇyalokānāmatiśayena mārgasya jñātā*)). You, today, on this day, for our gain of wealth (वसुत्तये धनलाभाय (*vasuttaye dhanalābhāya*)), win (जेषि जय (*jeṣi jaya*)) great (बृहत् महत् (*bṛhat mahat*)) food (श्रवः अन्नं (*śravaḥ annaṃ*)) and strength (वाजं बलं च (*vājaṃ balaṃ ca*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) क्रतुवित् (*kratuvit*)—receiver of sacrificial rites
+- गातुमित्तमः (*gātumittamaḥ*)—one who knows the good paths in the highest degree
+- सः (*saḥ*)—you
+- अद्य (*adya*)—on this sacrifice day
+- नः (*naḥ*)—to us
+- वसुत्तये (*vasuttaye*)—for the gain of abundant wealth
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—food
+- वाजं (*vājaṃ*)—strength
+- जेषि (*jeṣi*)—acquire and grant
+
+**NOTE**
+
+### Printed p. 106
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, receiver of sacrificial rites and knower in the highest degree of the good paths to the meritorious worlds, you, on this sacrifice day, acquire and grant to us abundant food and strength for the gain of abundant wealth.
+
+##### English translation
+Receiver of sacrifices, knower of (pious) paths, grant us this day abundant food and strength for the acquisition of wealth.
+
+## Sūkta 45 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘स पवस्व' इति षडृचमेकविंशं सूक्तम् । ऋष्याद्याः पूर्ववत् । ‘स पवस्व ' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta स पवस्व (*sa pavasva*) has six ṛks and is the twenty-first sūkta. The seer and the rest are as before (पूर्ववत् (*pūrvavat*)). The Anukramaṇī says स पवस्व (*sa pavasva*). The viniyoga has already been stated.
+
+Translation: This sūkta स पवस्व (*sa pavasva*) is the twenty-first sūkta in the second anuvāka. It has six ṛks. The seer, deity and metre of this sūkta are the same as of the previous sūkta. In the Anukramaṇikā it is said स पवस्व (*sa pavasva*). The viniyoga has been stated before.
+
+Sūkta 45. Maṇḍala 9, Anuvāka 2, Sūkta 45. Aṣṭaka 7, Adhyāya 1, Varga 2. Number of ṛks in the sūkta: 6. Seer: Ayāsya. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑वस्व॒ मदा॑य॒ कं नृ॒चक्षा॑ दे॒ववी॑तये ।  
+> इंद॒विंद्रा॑य पी॒तये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवस्व । मदाय । कम् । नृऽचक्षाः । देवऽवीतये ।  
+> इंदो इति । इंद्राय । पीतये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम नृचक्षाः नॄणां नेतॄणां द्रष्टा सः त्वं देववीतये यज्ञाय इंद्राय इंद्रस्य पीतये पानाय च मदाय मदार्थं च कं सुखं यथा भवति तथा पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, you who are नृचक्षाः (*nṛcakṣāḥ*), "the beholder of the men, the leaders" (नॄणां नेतॄणां द्रष्टा (*nṝṇāṃ netṝṇāṃ draṣṭā*)): flow (पवस्व क्षर (*pavasva kṣara*)) for the sacrifice (देववीतये यज्ञाय (*devavītaye yajñāya*)), for Indra's drinking (इंद्रस्य पीतये पानाय (*iṃdrasya pītaye pānāya*)) and for his exhilaration (मदाय मदार्थं (*madāya madārthaṃ*)), in such a way that there is happiness (कं सुखं यथा भवति तथा (*kaṃ sukhaṃ yathā bhavati tathā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- नृचक्षाः (*nṛcakṣāḥ*)—one who has a sight that looks upon the deeds of men
+- सः (*saḥ*)—you
+- देववीतये (*devavītaye*)—for the sacrifice, the means of worshipping the gods
+- इंद्राय (*iṃdrāya*)—of Indra
+- पीतये (*pītaye*)—for the drinking
+- मदाय (*madāya*)—for his delight
+- कं (*kaṃ*)—so that happiness is obtained by him
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have a sight that looks upon the deeds of men, flow for the sacrifice that is the means of worshipping the gods, for Indra's drinking and for his delight, so that happiness is obtained by him.
+
+##### English translation
+Indu, the beholder of men, flow pleasantly for the banquet of the gods, for Indra's drinking and exhilaration.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स नो॑ अर्षा॒भि दू॒त्यं१॒॑ त्वमिंद्रा॑य तोशसे ।  
+> दे॒वान्सखि॑भ्य॒ आ वर॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । अर्ष । अभि । दूत्यम् । त्वम् । इंद्राय । तोशसे ।  
+> देवान् । सखिऽभ्यः । आ । वरम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं नः अस्माकं दूत्यं दूतस्य कर्म अर्ष अभिगच्छ । अपि च यस्त्वं इंद्राय इंद्रार्थं तोशसे पीयसे सः त्वं सखिभ्यः प्रियेभ्यः अस्मभ्यं वरं श्रेष्ठं धनं देवान् आ याचस्वेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you, for us, go to (अभिगच्छ (*abhigaccha*), glossing अर्ष (*arṣa*)) the messenger's office (दूत्यं दूतस्य कर्म (*dūtyaṃ dūtasya karma*)). Further, you who are drunk (पीयसे (*pīyase*), glossing तोशसे (*tośase*)) for Indra: from the gods (देवान् (*devān*)) ask (आ याचस्व (*ā yācasva*)) for us, your dear friends (सखिभ्यः प्रियेभ्यः (*sakhibhyaḥ priyebhyaḥ*)), the excellent wealth (वरं श्रेष्ठं धनं (*varaṃ śreṣṭhaṃ dhanaṃ*)). Such is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—for us
+- दूत्यं (*dūtyaṃ*)—the messenger's office
+- अभि अर्ष (*abhi arṣa*)—go and undertake
+- इंद्राय (*iṃdrāya*)—for Indra's satisfaction
+- तोशसे (*tośase*)—you who are drunk
+- सः (*saḥ*)—such a you
+- सखिभ्यः (*sakhibhyaḥ*)—for us, your friends
+- वरं (*varaṃ*)—the most excellent wealth
+- देवान् (*devān*)—from the gods
+- आ (*ā*) (याचस्व (*yācasva*))—ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, for us undertake the messenger's office of going to and returning from the gods. You who are drunk for Indra's satisfaction, ask the gods for the most excellent wealth for us, your friends.
+
 ---
 
-**Progress note:** Done through printed p. 99. pp. 94-99: simile of boat, sin-removal Pariśiṣṭa verses, seers of Maṇḍala 9, start of Sūkta 9-44
+**Progress note:** Done through printed p. 106. pp. 100-106: Sūkta 9-44 Ṛk 1-6, Sūkta 9-45 Ṛk 1-2
