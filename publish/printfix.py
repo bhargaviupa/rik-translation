@@ -127,5 +127,16 @@ def sanskrit(doc):
         return ''.join(out)
     return _BQ.sub(bq, doc)
 
+_STRONG = re.compile(r'<strong>((?:(?!</?strong>).)*)</strong>', re.S)
+def plain_sentences(doc):
+    """Bold is for headings and labels.  The scan-period sessions also set whole sentences in bold as emphasis of their own (Vol 1: about 930);
+    in print such a sentence is plain text (user, Nov 26 2026).  A bold run counts as a sentence when it has 8 words or more, or 5 or more and
+    ends like a sentence; short bold runs (labels, run-in heads, single terms) are left."""
+    def rep(m):
+        t = re.sub(r'<[^>]+>', '', m.group(1)).strip(); w = len(t.split())
+        if w >= 8 or (w >= 5 and re.search(r'[.?!]["”’)]*$', t)): return m.group(1)
+        return m.group(0)
+    return _STRONG.sub(rep, doc)
+
 def fix(doc):
-    return sanskrit(headings(lists(contents_sections(join_page_turns(label_paragraphs(doc))))))
+    return sanskrit(headings(lists(contents_sections(join_page_turns(label_paragraphs(plain_sentences(doc)))))))
