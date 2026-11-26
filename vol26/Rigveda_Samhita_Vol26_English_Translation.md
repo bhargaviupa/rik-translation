@@ -32634,6 +32634,272 @@ When effused, Indu, and collected by the priests, yon are guided to the filter ;
 The sūkta beginning अभी नवंते (*abhī navaṃte*) has nine Ṛks and is the fourth sūkta. The seer and deity are as before. All the Ṛks are in anuṣṭubh. The Anukramaṇī says accordingly: अभी नवंते नव (*abhī navaṃte nava*). The use in the ritual has been stated.
 This sūkta, अभी नवंते (*abhī navaṃte*), is the fourth sūkta in the sixth anuvāka. It has nine Ṛks. The seer, deity and metre of this sūkta are all as in the preceding sūkta. All the Ṛks of the sūkta are in the anuṣṭubh metre**NOTE**. In the Anukramaṇī it is said अभी नवंते नव (*abhī navaṃte nava*). The use in the ritual has been stated earlier.
 
+### Printed p. 886
+Sūkta 100. Maṇḍala 9. Anuvāka 6. Sūkta 100. Aṣṭaka 7**NOTE**. Adhyāya 4. Vargas 37**NOTE**, 38**NOTE**. Number of Ṛks in the sūkta: 9. Seers: Rebha and Sūnu, Kāśyapas. Deity: Pavamāna Soma. Metre: Anuṣṭubh.
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी न॑वंते अ॒द्रुहः॑ प्रि॒यमिंद्र॑स्य॒ काम्य॑म् ।  
+> व॒त्सं न पूर्व॒ आयु॑नि जा॒तं रि॑हंति मा॒तरः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । नवंते । अद्रुहः । प्रियम् । इंद्रस्य । काम्यम् ।  
+> वत्सम् । न । पूर्वे । आयुनि । जातम् । रिहंति । मातरः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा मातरः गावः पूर्वे प्रथमे आयुनि वयसि जातं वत्सं रिहंति लिहंति तथा अद्रुहः अद्रोहा वसतीवर्याख्या आपः इंद्रस्य प्रियं काम्यं सर्वैः काम्यमानं सोमम् अभि नवंते अभिगच्छंति ॥
+
+##### Gist of the bhāṣya
+
+As cows, the mothers, lick a calf born in the first period of its life, so the non-injuring waters called vasatīvarī go towards, that is, approach, the Soma that is dear to Indra and desired by all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरः (*mātaraḥ*)—the cows that have calved
+- पूर्वे आयुनि (*pūrve āyuni*)—in their first days
+- जातं (*jātaṃ*)—newly born
+- वत्सं (*vatsaṃ*)—the calf
+- रिहंति न (*rihaṃti na*)—as they approach it fondly and lick it
+- अद्रुहः (*adruhaḥ*)—the vasatīvarīs, who wish no harm
+- इंद्रस्य प्रियं (*iṃdrasya priyaṃ*)—dear to Indra**NOTE**
+- काम्यं (*kāmyaṃ*)—and attractive, the Soma
+- अभि नवंते (*abhi navaṃte*)—they receive fondly
+
+##### भावार्थ (Bhāvārtha)
+
+As cows that have just calved fondly approach the calf born in their first days and lick it, so the vasatīvarīs, free from hostility, fondly receive the Soma that is dear to Indra and attractive.
+### Printed p. 887
+
+##### English translation
+The innocent waters repair to Soma dear to Indra and beloved (of all), as the maternal cows lick the new-born calf at the beginning of its life.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒न इं॑द॒वा भ॑र॒ सोम॑ द्वि॒बर्ह॑सं र॒यिम् ।  
+> त्वं वसू॑नि पुष्यसि॒ विश्वा॑नि दा॒शुषो॑ गृ॒हे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । इंदो इति । आ । भर । सोम । द्विऽबर्हसम् । रयिम् ।  
+> त्वम् । वसूनि । पुष्यसि । विश्वानि । दाशुषः । गृहे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्यमान हे सोम पुनानः पूयमानस्त्वं द्विबर्हसं द्वयोः स्थानयोः परिबृंहणशीलं रयिं धनमस्मभ्यम् आ भर आहर देहि । त्वं हि दाशुषः हविर्दत्तवतो यजमानस्य गृहे स्थित्वा विश्वानि सर्वाणि वसूनि धनानि पुष्यसि पोषयसि ॥
+
+##### Gist of the bhāṣya
+
+O shining Indu, O Soma, being purified, bring and give us wealth that is dvibarhas, that is, of a nature to increase in two places. For you, standing in the house of the sacrificer who has given the oblation, nourish all treasures.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O shining one
+- सोमु (*somu*)**NOTE**—O Soma-god
+- पुनानः (*punānaḥ*)—you who have attained purity**NOTE**
+- द्विबर्हसं (*dvibarhasaṃ*)—belonging to both heaven and earth
+- रयिं (*rayiṃ*)—wealth
+- आ भर (*ā bhara*)—bring to us
+- त्वं (*tvaṃ*)—you
+- दाशुषः (*dāśuṣaḥ*)—of the sacrificer
+- गृहे (*gṛhe*)—in the house
+- विश्वानि वसूनि (*viśvāni vasūni*)—all riches
+- पुष्यसि (*puṣyasi*)—you cause to increase
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Soma-god**NOTE**, you who have attained purity**NOTE**, bring us the wealth that belongs to both heaven and earth. In the house of the sacrificer you cause all riches to increase.
+
+##### English translation
+Indu Soma, when purified bring us the riches of both worlds you foster all treasures in the house of the donor (of the libation).
+### Printed p. 888
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं धियं॑ मनो॒युजं॑ सृ॒जा वृ॒ष्टिं न त॑न्य॒तुः ।  
+> त्वं वसू॑नि॒ पार्थि॑वा दि॒व्या च॑ सोम पुष्यसि ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । धियम् । मनःऽयुजम् । सृज । वृष्टिम् । न । तन्यतुः ।  
+> त्वम् । वसूनि । पार्थिवा । दिव्या । च । सोम । पुष्यसि ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं मनोयुजं मनसा युज्यमानां मनोवेगां धियं ध्यातव्यां धारां सृज पात्रेषु विसृज । तत्र दृष्टांतः । वृष्टिं न तन्यतुः । ‘ तनु विस्तारे'।' ऋतन्यंजि°' इत्यादिना यतुच्प्रत्ययः । तनोति विस्तारयतीति तन्यतुर्मेघः । यथा मेघो वृष्टिं सृजति तद्वत् । ततो हे सोम त्वं पार्थिवा पृथिव्यां भवानि वसूनि धनानि तथा दिव्यानि दिवि भवानि धनानि च पुष्यसि अस्मभ्यं पोषयसि । प्रयच्छसीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, send forth into the vessels the dhī, the stream to be contemplated, which is yoked by the mind, that is, as swift as thought. An example: as thunder sends forth rain; the cloud is called thunder because it stretches out. Then, O Soma, you nourish for us the treasures that belong to the earth and likewise those that belong to heaven; that is, you bestow them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma-god
+- तॆन्यतुः (*tènyatuḥ*)**NOTE**—the cloud
+- वृष्टिं न (*vṛṣṭiṃ na*)—as it pours rain
+- त्वं (*tvaṃ*)—you
+- मनोयुजं (*manoyujaṃ*)—swift like the speed of thought
+- धियं (*dhiyaṃ*)—your stream
+- सृज (*sṛja*)—pour into the vessels
+- त्वं (*tvaṃ*)—you
+- पार्थिवा (*pārthivā*)—that which belongs to the earth
+- दिव्या च (*divyā ca*)—and that which belongs to the heavenly world
+- वसूनि (*vasūni*)—riches
+- पुष्यसि (*puṣyasi*)—you cause to thrive
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, as the cloud pours rain, pour into the vessels your stream, swift like the speed of thought. You cause to increase all the riches that belong to the earth and those that belong to the heavenly world.
+
+##### English translation
+Let loose your stream which is as rapid as thought ; as the cloud (let loose) the rain ; you Soma foster terrestrial and celestial treasures.
+### Printed p. 889
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ ते जि॒ग्युषो॑ यथा॒ धारा॑ सु॒तस्य॑ धावति ।  
+> रंह॑माणा॒ व्य१॒॑व्ययं॒ वारं॑ वा॒जीव॑ सान॒सिः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । ते । जिग्युषः । यथा । धारा । सुतस्य । धावति ।  
+> रंहमाणा । वि । अव्ययम् । वारम् । वाजीऽइव । सानसिः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतस्य ते त्वदीया सानसिः संभजनशीला यद्वा स्तोतृभिः संभजनीया रंहमाणा वेगं कुर्वाणा धारा अव्ययम् अविमयं वारं वालं पवित्रं वि परि धावति विशेषेण परितो गच्छति । तत्र दृष्टांतः । जिग्युषः शत्रूणां जेतुर्वीरस्य वाजीव अश्वो यथा युद्धं परितो धावति तद्वत् । जयतेः क्वसौ ‘सन्लिटोर्जेः' इति कुत्वम् । यथा इति पूरकः ॥
+
+##### Gist of the bhāṣya
+
+Your stream of the pressed Soma, which is sānasi, that is, inclined to be shared, or else to be shared by the praisers, and which is swift, runs all round, that is, goes about in every direction, into the avyaya, the sheep's-wool filter, called vāra, that is, hair. An example: as the horse of a victorious hero, the conqueror of enemies, runs about the battlefield. The word yathā is a filler.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-god) जिग्युषः (*jigyuṣaḥ*)—of the victorious hero
+- वाजीव (*vājīva*)—as a horse runs
+- सुतस्य (*sutasya*)—of the pressed
+- ते (*te*)—your
+- सानसिः (*sānasiḥ*)—which is worshipped by the praisers
+- रंहमाणा (*raṃhamāṇā*)—and flows swiftly
+- धारा (*dhārā*)—the stream
+- अव्ययं वारं (*avyayaṃ vāraṃ*)—into the ten-fold filter
+- वि परि धावति (*vi pari dhāvati*)—flows swiftly all round
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, as the horse of a victorious hero runs, so your stream, of the pressed Soma, worshipped by the praisers and flowing swiftly, flows swiftly all round into the ten-fold filter.
+
+##### English translation
+Your stream when you are effused, swift-flowing, bountiful, rushes through the sheep's hair like the horse of a victorious (hero).
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्वे॒ दक्षा॑य नः कवे॒ पव॑स्व सोम॒ धार॑या ।  
+> इंद्रा॑य॒ पात॑वे सु॒तो मि॒त्राय॒ वरु॑णाय च ॥ ५ ॥
+
+### Printed p. 890
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्वे । दक्षाय । नः । कवे । पवस्व । सोम । धारया ।  
+> इंद्राय । पातवे । सुतः । मित्राय । वरुणाय । च ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतदर्शिन् हे सोम नः अस्माकं क्रत्वे प्रज्ञानाय दक्षाय बलाय च त्वं धारया पवस्व क्षर । कीदृशः। इंद्राय पातवे पानार्थं तथा मित्राय वरुणाय च सुतः अभिषुतः खलु ॥ ॥ २७ ॥
+
+##### Gist of the bhāṣya
+
+O seer who sees beyond, O Soma, flow, that is, stream, with your stream for our kratu, that is, discernment, and for dakṣa, that is, strength. Of what kind? Pressed indeed for Indra to drink, and for Mitra and Varuṇa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—O wise one
+- सोमु (*somu*)—O Soma-god
+- इंद्राय (*iṃdrāya*)—of Indra
+- पातवे (*pātave*)—for drinking
+- मित्राय (*mitrāya*)—for Mitra
+- वरुणाय (*varuṇāya*)—and for Varuṇa
+- सुतः (*sutaḥ*)—you who are pressed
+- नः (*naḥ*)—our
+- क्रत्वे (*kratve*)—for the increase of knowledge
+- दक्षाय (*dakṣāya*)—and for strength
+- धारया (*dhārayā*)—in the form of a stream
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Soma-god, you who are pressed for Indra to drink, and for Mitra and for Varuṇa, flow in the form of a stream for the increase of our knowledge and for our strength.
+
+##### English translation
+Sage Soma, flow in a stream for our enlightenment and invigoration, poured forth for Indra, Mitra and Varuna to drink.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व वाज॒सात॑मः प॒वित्रे॒ धार॑या सु॒तः ।  
+> इंद्रा॑य सोम॒ विष्ण॑वे दे॒वेभ्यो॒ मधु॑मत्तमः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । वाजऽसातमः । पवित्रे । धारया । सुतः ।  
+> इंद्राय । सोम । विष्णवे । देवेभ्यः । मधुमत्ऽतमः ॥ ६ ॥
+
+### Printed p. 891
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वाजसातमः अतिशयेनान्नस्य दाता सुतः अभिषुतस्त्वं पवित्रे धारया सह पवस्व क्षर। ततो हे सोम त्वम् इंद्राय विष्णवे चान्येभ्यो मित्रादिभ्यः देवेभ्यः च मधुमत्तमः अतिशयेन माधुयोंपेतो भव ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are the greatest giver of food and are pressed, flow, that is, stream, with the stream into the filter. Then, O Soma, be most sweet, that is, exceedingly endowed with sweetness, for Indra and for Viṣṇu and for the other gods, Mitra and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोमु (*somu*)—O Soma-god
+- वाजसातमः (*vājasātamaḥ*)—you who give food abundantly
+- सुतः (*sutaḥ*)—and are pressed
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- धारया (*dhārayā*)—in the form of a stream
+- पवस्व (*pavasva*)—flow
+- इंद्राय (*iṃdrāya*)—for Indra
+- विष्णवे (*viṣṇave*)—for Viṣṇu
+- देवेभ्यः (*devebhyaḥ*)—and for the other gods
+- मधुमत्तमः (*madhumattamaḥ*)—be endowed with the utmost sweetness
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, you who give food abundantly and are pressed, flow in the form of a stream into the ten-fold filter. Be endowed with the utmost sweetness for Indra, for Viṣṇu and for the other gods.
+
+##### English translation
+Flow, Soma, who are the giver of food in a stream, when effused, to the filter ; (flow) Soma who are most sweet for Indra, for Vishnu, for the gods
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां रि॑हंति मा॒तरो॒ हरिं॑ प॒वित्रे॑ अ॒द्रुहः॑ ।  
+> व॒त्सं जा॒तं न धे॒नवः॒ पव॑मान॒ विध॑र्मणि ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । रिहंति । मातरः । हरिम् । पवित्रे । अद्रुहः ।  
+> वत्सम् । जातम् । न । धेनवः । पवमान । विऽधर्मणि ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम विधर्मणि विविधं हविषां धारके यज्ञे अद्रुहः द्रोहवर्जिताः मातरः मातृभूता वसतीवर्यः हरिं हरितवर्णं त्वां पवित्रे स्थितं रिहंति लिहंति आस्वादयंति । कथमिव । यथा धेनवः जातं वत्सं लिहंति तथा ॥
+
+##### Gist of the bhāṣya
+
+O purifying Soma, in the sacrifice that bears the various oblations, the mother vasatīvarīs, free from hostility, lick you, the tawny Soma standing in the filter; that is, they taste you. How? As cows lick a newborn calf, so.
+
 ---
 
-**Progress note:** Done through printed p. 885. Mandala 9 sukta 99 Rk 3-8, sukta 100 intro (pp. 880-885)
+**Progress note:** Done through printed p. 891. Sukta 100 Rk 1-7 (pp. 886-891)
