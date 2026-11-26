@@ -2904,6 +2904,235 @@ Agni desires oblations उशिघ्नवींषि (*uśighnavīṃṣi*) 
 - द्यां (*dyāṃ*)—the heavenly world
 - इनक्षन् (*inakṣan*)—pervades
 
+### Printed p. 85
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who desires oblations, is the purifier, moves swiftly, has excellent wisdom and is free from mortality, has been established among human beings. He spreads smoke. Taking on an attractive form and endowed with bright radiance, he pervades the heavenly world.
+
+##### English translation
+Desiring (oblations), purifying, moving quickly, sagacious, immortal, Agni has been stationed among mortals : he sends forth the smoke, and goes wearing a radiant (form), and pervading the heaven with brilliant lustre.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दृ॒शा॒नो रु॒क्म उ॑र्वि॒या व्य॑द्यौद्दु॒ र्मर्ष॒मायुः॑ श्रि॒ये रु॑चा॒नः ।  
+> अ॒ग्निर॒मृतो॑ अभव॒द्वयो॑भि॒र्यदे॑नं॒ द्यौर्ज॒नय॑त्सु॒रेताः॑॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दृशानः । रुक्मः । उर्विया । वि । अद्यौत् । दुःर्मर्षं । आयुः । श्रिये ।  
+> रुचानः ॥  
+> अग्निः । अमृतः । अभवत् । वयःभिः । यत् । एनं । द्यौः । जनयत् । सुरेताः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दृशानः प्रत्यक्षेण दृश्यमानो रुक्मो रोचमानोऽग्निरुर्वियोर्वत्यंतं
+> व्यद्यौत् । विद्योतते । किंचायुर्गंता स सर्वतोऽयमग्निः श्रिये विभूत्यै
+> दुर्मर्षं दुरभिभवं यथा भवति तथा रुचानो रोचमानो भवति । सोऽ
+> यमग्निर्वयोभिरन्नैर्वनस्पतिभिरमृतो मरणरहितोऽभवत् यद्यस्मात्कारणादेनमग्निं सुरेताः शोभनरेतस्को द्यौः प्राण आदित्यो वा जनयत् जनयति ॥
+
+##### Gist of the bhāṣya
+
+दृशानः (*dṛśānaḥ*) means seen directly, perceptible. रुक्मः (*rukmaḥ*) is the shining Agni, who shines forth exceedingly widely (व्यद्यौत् (*vyadyaut*), he shines). Further, आयुः (*āyuḥ*) is the one who goes everywhere. This Agni, on every side, becomes shining in such a way that he is hard to overcome (दुर्मर्षं (*durmarṣaṃ*)), for glory and prosperity (श्रिये (*śriye*)). This Agni became immortal, free from death, through वयोभिः (*vayobhiḥ*), that is, foods or plants, because सुरेताः (*suretāḥ*), Dyaus, who has excellent seed (that is, the vital breath, or the sun), generates him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आयुः (*āyuḥ*)—going everywhere
+- श्रिये (*śriye*)—for prosperity
+- दुर्मर्षं (*durmarṣaṃ*)—unassailed
+- रुचानः (*rucānaḥ*)—and shining
+- दृशानः (*dṛśānaḥ*)—visible to the eye
+- रुक्मः (*rukmaḥ*)—Agni, who has an attractive form
+
+### Printed p. 86
+- उर्विया (*urviyā*)—exceedingly widely
+- व्यदौत् (*vyadaut*)—shines forth
+- यत् (*yat*)—for which reason
+- एनं (*enaṃ*)—this Agni
+- सुरेताः (*suretāḥ*)—having excellent virility
+- द्यौः (*dyauḥ*)—the sun
+- जनयत् (*janayat*)—produced
+- अग्निं (*agniṃ*)—Agni (for this reason) **NOTE**
+- वयोभिः (*vayobhiḥ*)—by foods in the form of plants
+- अमृतः (*amṛtaḥ*)—free from mortality
+- अभवत् (*abhavat*)—became
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, who goes everywhere, shines unassailed for prosperity, is visible to the eye and has an attractive form, shines forth exceedingly widely. Because the sun, having excellent virility, produced this Agni, for that very reason Agni became free from mortality through foods in the form of plants. (He became eternal.)
+
+##### English translation
+Conspicuous, glorious, Agni shines with great splendour, moving everywhere, and blazing unsurpassedly with glory : Agni became immortal through the food (of sacrifice) when the prolific heaven engendered him.
+
+##### विशेषविषयगळु (Special Topics)
+
+अग्निः अमृतः अभवत् (*agniḥ amṛtaḥ abhavat*)—"Agni attained freedom from death": this is the main purport of the Ṛk. The reason is given thus: यत् सुरेताः द्यौः जनयत् (*yat suretāḥ dyauḥ janayat*)—because the sun, who has excellent seed, became the cause of Agni's birth, for that very reason Agni is said to be free from death. This Ṛk is explained in the Śatapatha Brāhmaṇa in this way:
+दृशानो रुक्ष्म उर्व्या व्यद्यौदिति । दृश्यमानो ह्येष रुक्ष्म उर्व्या विद्योतते दुर्मर्षमायुः श्रिये रुचान इति दुर्मरं वा एतस्यायुः श्रियो एष रोचतेऽग्निरमृतोऽभवद्वयोभिरिति सर्वैर्वा एष वयोभिरमृतोऽभवद्यदेनं द्यौरजनयदिति द्यौर्वा एतमजनयत्सुरेता इति सुरेता हैषा यस्या एष रेतः ॥ (*dṛśāno rukṣma urvyā vyadyauditi | dṛśyamāno hyeṣa rukṣma urvyā vidyotate durmarṣamāyuḥ śriye rucāna iti durmaraṃ vā etasyāyuḥ śriyo eṣa rocate 'gniramṛto 'bhavadvayobhiriti sarvairvā eṣa vayobhiramṛto 'bhavadyadenaṃ dyaurajanayaditi dyaurvā etamajanayatsuretā iti suretā haiṣā yasyā eṣa retaḥ ‖*)
+(Śa. Brā. 6-7-2-2)
+This Agni (the sun), visible like a disc of gold, shines spreading out his radiance. The life of this disc, which shines for the welfare of the world, never wastes away. When the atmosphere (the sun) gave him birth, then he became immaterial and became endowed with abundant power. When the atmosphere bore the embryo (seed) in the form of Agni, then its embryo became possessed of auspicious power. Because this is of the nature of truth, this power arose. How? —
+
+### Printed p. 87
+रुक्ष्मं प्रतिमुच्य बिभर्ति । तस्यग्ं हैतद्यद्रुक्मः सत्यं वा एतं यंतु मर्हति सत्येनैतं देवा अबिभरुः सत्येनैवैन मे तद्विभर्ति ॥ (*rukṣmaṃ pratimucya bibharti | tasyagṃ haitadyadrukmaḥ satyaṃ vā etaṃ yaṃtu marhati satyenaitaṃ devā abibharuḥ satyenaivaina me tadvibharti ‖*)
+(Śa. Brā. 6-7-1-1)
+The golden disc of gold colour which the sacrificer and others wear is the very image of truth. Truth alone has the power of bearing Agni. It was by truth that the gods were able to bear this disc. By the sweetness of this truth he too is now able to bear it. **NOTE**
+तद्यत्तत्सत्यं । आस् स आदित्यः न हरण्मयो भवति ज्यूर्नै हरण्यं ज्योतिरेषोऽमृतग्ं हरण्यमम्यतमेष परिमंडलो भवति । (*tadyattatsatyaṃ | ās sa ādityaḥ na haraṇmayo bhavati jyūrnai haraṇyaṃ jyotireṣo 'mṛtagṃ haraṇyamamyatameṣa parimaṃḍalo bhavati |*)
+(Na. Bapra. 7-7-10-8) **NOTE**
+The Kannada explanation of this passage is garbled: "A mirror-like (आदर्शी (*ādarśī*)) prose appearing in the atmosphere. Gold too becomes full of splendour. The ādarśa one is of the form of splendour. Gold too becomes mortal (मृतरागुवु (*mṛtarāguvu*)). … for that reason, this splendour, composed by the …, is described as bearing the disc that reflects the orb." **NOTE**
+What is described in the present Ṛk too is the attractive splendour of this Agni of golden form. This Agni, who is of the nature of the sun, or this Agni endowed with the sun's power, is shining for the welfare of the world. His radiance is eternal.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्ते॑ अ॒द्य कृ॒णव॑द्भद्रशोचेऽपू॒सं दे॑व घृ॒तवं॑तमग्ने ।  
+> प्र तं न॑य प्रत॒रं वस्यो॒ अच्छा॒भि सु॒म्मं दे॒वभ॑क्तं यविष्ठ ।
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । ते । अद्य । कृणवत् । भद्रशोचे । अपूपं । देव । घृतवंतं । अग्ने ॥  
+> प्र । तं । नय । प्रतरं । वस्यः । अच्छ । अभि । सुम्नं । देवभक्तं । यविष्ठ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे भद्रशोचे कल्याणदीप्ते हे देव द्योतमान यविष्ठ यवतमाग्ने त्रि
+> तुभ्यं यो यजमानोऽद्यास्मिन्नहनि घृतवंतं घृतेन युक्तमपूपं पुरोडातं
+
+### Printed p. 88
+
+> अत्यर्थं प्रापय । तथा देवभक्तं स्तुतिभिर्हविर्भिश्च देवानां संभक्तारं सेवितारं
+> तं यजमानं सुम्मं सुखमभि प्रति प्र नय ॥
+
+##### Gist of the bhāṣya
+
+"O भद्रशोचे (*bhadraśoce*), auspiciously radiant; O देव (*deva*), shining; O यविष्ठ (*yaviṣṭha*), youngest Agni: the sacrificer who today, for you, makes a cake (अपूपं (*apūpaṃ*), a purodāśa) mixed with ghee, cause him to attain wealth exceedingly. Likewise lead that sacrificer, देवभक्तं (*devabhaktaṃ*), who serves and shares in the gods through praises and oblations, towards सुम्नं (*sumnaṃ*), happiness."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- भद्रशोचे (*bhadraśoce*)—you who have auspicious radiance
+- देव (*deva*)—shining one
+- यविष्ठ (*yaviṣṭha*)—exceedingly young
+- अग्ने (*agne*)—O Agni
+- ते (*te*)—addressing you
+- यः (*yaḥ*)—the sacrificer who
+- अद्य (*adya*)—today
+- घृतवंतं (*ghṛtavaṃtaṃ*)—mixed with ghee
+- अपूपं (*apūpaṃ*)—the purodāśa
+- कृणवत् (*kṛṇavat*)—offers
+- प्रतरं (*prataraṃ*)—such an eminent sacrificer
+- वस्यः अच्छ (*vasyaḥ accha*)—facing excellent wealth
+- प्र नय (*pra naya*)—bring and join
+- देवभक्तं (*devabhaktaṃ*)—one who worships the gods
+- तं (*taṃ*)—that same sacrificer
+- सुम्नं अभि (*sumnaṃ abhi*)—towards happiness
+- (प्र नय (*pra naya*)—bring and join.)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, who have auspicious radiance, are shining and exceedingly young: provide excellent wealth to the eminent sacrificer who today, addressing you, offers a purodāśa mixed with ghee. Bring excellent happiness to the sacrificer who worships the gods.
+
+##### English translation
+Auspiciously radiant and divine Agni, youngest (of the gods), grant ample wealth to the eminent (worshipper), who presents to you to-day cakes dressed with butter, and confer happiness upon one devoted to the gods.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ तं भ॑ज सौश्रव॒सेष्व॑ग्न उ॒क्तउ॑क्त॒ आ भ॑ज श॒स्यमा॑ने ।  
+> प्रि॒यः सूर्ये॑ प्रि॒यो अ॒ग्ना भ॑वा॒त्युज्जा॒तेन॑ भि॒नद॒दुज्जनि॑त्वैः
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । तं । भज । सौश्रवसेषु । अग्ने । उक्तेऽउक्ते । आ । भज । शस्यमाने ॥  
+> प्रियः । सूर्ये । प्रियः । अग्ना । भवाति । उत् । जातेन । भिनदत् । उत् ।  
+> जन्मत्वैः ॥
+
+### Printed p. 89
+## Sūkta 46 (Maṇḍala 10)
+
+> ॥ श्रीः ॥
+> ॥ श्री गणाधिपतये नमः ॥
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥
+> यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+> सप्तमेष्टममध्यायं व्याख्यायाचार्यवंशजः ।
+> अष्टमे सायणाचार्यः आदिमं व्याकरोत्यथ ॥
+> सायणभाष्य सहिता
+> ऋग्वेद संहिता
+> (कर्णाटक भाषार्थानुवाद विवरणॆ सहितवागि)
+> ॥ अष्टमाष्टके प्रथमोऽध्यायः ॥
+> ऎंटनॆय अष्टकदल्लि मॊदलनॆय अध्यायवु
+> हत्तनॆय मंडलदल्लि नलवत्तारनॆय सूक्तवु
+> पीठिकॆ
+> वत्सप्रि ऋषियिंद निर्मितवाद सूक्तगळ महिमॆ
+> भलंदन पुत्रनाद वत्सप्रि ऋषियिंद निर्मितवाद १०-४५ मत्तु ४६ ने सूक्तगळु अत्यंत
+> प्रसिद्धवागिवॆ. सर्वलोकधारकनू मत्तु पालकनू आद अग्निय प्रशंसॆयु अत्यंत श्रेष्ठवाद
+> काव्यरूपदल्लिरुत्तदॆ. अदे अल्लदॆ, कर्माचरणॆय दृष्टियिंदलू इदर महिमॆयु अत्यधिकवा
+> दुदु. आध्यात्मिकवाद हिन्नॆलॆयिंद युक्तवागि आधिदैविकवाद महिमॆयन्नु हॊंदिरुव ई सूक्त
+> गळ प्रभावगळन्नु शथपथब्राह्मणदल्लि अधिकवागि प्रशंसिसिदॆ. ई सूक्तगळल्लि मॊदलनॆय सूक्तद
+> मॊदलनॆय मूरु ऋक्कुगळिगॆ विवरणॆयन्नु हेळिदॆ. अवुगळल्लि ऎरडु संदर्भवन्नु मेलॆ-विद्मा ते
+> अग्ने ऎंब मंत्रद विशेषविषयगळल्लि उदाहरिसिदॆ. वात्सप्र कर्मद महत्त्ववन्नु प्रकृतदल्लि
+> विवरिसलागुत्तदॆ. ई महिमॆयु शतपथब्राह्मदल्लि ई रीति प्रशंसिसल्पट्टिदॆ.
+> अथ वात्सप्रेणोपतिष्ठते । एतद्वै प्रजापतिर्विष्णुक्रमैः प्रजाः सृष्टा
+> ताभ्यो वात्सप्रेणायुष्यमकरोत्तथैवैतद्यजमानो विष्णुक्रमैः प्रजाः
+
+##### Gist of the bhāṣya
+
+The block opens with salutations. The author salutes Gajānana (Gaṇeśa), bowing to whom Vāgīśa and the other gods become successful at the outset of all undertakings; he also salutes Vidyātīrtha Maheśvara, whose breath the Vedas are and who made the whole world from the Vedas. "The Veda is Śiva and Śiva is the Veda; Sadāśiva is the one who studies the Veda; therefore one should always recite the Veda alone with all effort." Born in the Ācārya's line, having explained the seventh and (?) eighth adhyāya, Sāyaṇācārya now expounds the first in the eighth. **NOTE**
+Heading: Sāyaṇabhāṣya-sahitā Ṛgveda Saṃhitā (with Kannada translation and explanation); Eighth Aṣṭaka, first adhyāya; the forty-sixth sūkta of the tenth maṇḍala.
+Introduction: the greatness of the sūktas composed by the seer Vatsapri. Sūktas 10-45 and 46, composed by the seer Vatsapri, son of Bhalandana, are very famous. The praise of Agni, the supporter and protector of all worlds, is in the form of the most excellent poetry. Besides, its greatness from the standpoint of the performance of rites is very great. The Śatapatha Brāhmaṇa praises greatly the effects of these sūktas, which have an ādhidaivika greatness joined to an ādhyātmika background. Of these sūktas, explanation has been given for the first three Ṛks of the first sūkta. Two of them were cited earlier in the special topics of the mantra beginning विद्मा ते अग्ने (*vidmā te agne*). The importance of the Vātsapra rite is explained in the present context. This greatness is praised in the Śatapatha Brāhmaṇa as follows: one then worships with the Vātsapra; Prajāpati created creatures with the Viṣṇu-strides; for them he made long life by means of the Vātsapra; so the sacrificer, with the Viṣṇu-strides.
+
+### Printed p. 90
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ स॒ह द्रवि॑णमि॒च्छमा॑ना व्र॒जं गोमं॑तमु॒शिजो॒ वि  ॑
+> नववुः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वां । अग्ने । यजमानाः । अनु । द्यून् । विश्वा । वसु । दधिरे । वार्याणि ॥  
+> त्वया । सह । द्रविणं । इच्छमानाः । व्रजं । गोऽमंतं । उशिजः । वि । ववुः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने त्वां प्रति यजमाना अनु द्यून् प्रत्यहं विश्वा विश्वानि वायर्याणि
+> वरणीयानि वसु वसूनि धनानि धधिरे । धारयंति । किंच त्वया सह द्रविणमसुरैरपहृतं गोरूपं धनमिच्छमानाः कामयमाना उशिजो मेधाविनो देवा
+> गोमंतं पशुमंतं व्रजं वि ववुः । विवृतद्वारं कृतवंतः ॥
+
+##### Gist of the bhāṣya
+
+"O Agni, the sacrificers, towards you, day after day (अनु द्यून् (*anu dyūn*), daily) hold all desirable (वरणीयानि (*varaṇīyāni*)) riches (वसु (*vasu*))." Further, together with you the intelligent gods (उशिजः (*uśijaḥ*)), desiring wealth, wealth in the form of cattle carried off by the asuras, opened (वि ववुः (*vi vavuḥ*)) the pen rich in cattle, that is, made its door open.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- त्वां (*tvāṃ*)—addressing you
+- यजमानाः (*yajamānāḥ*)—the sacrificers
+- अनुद्यून् (*anudyūn*)—every day
+- वार्या (*vāryā*)—greatly desired
+- विश्वा वसु (*viśvā vasu*)—all riches
+- दधिरे (*dadhire*)—have held
+- त्वया सह (*tvayā saha*)—together with you
+- द्रविणं (*draviṇaṃ*)—wealth
+- इच्छमानाः (*icchamānāḥ*)—desiring
+- उशिजः (*uśijaḥ*)—the gods
+- गोमंतं (*gomaṃtaṃ*)—endowed with cattle
+- व्रजं (*vrajaṃ*)—the pen
+- वि ववुः (*vi vavuḥ*)—have opened
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, the sacrificers, addressing you, have held every day all the desired riches (oblations). The gods, desiring wealth together with you, have opened the pen filled with cattle.
+
+##### English translation
+To you, Agni, the worshippers offer daily all desirable treasures ; (abiding) with you, desirous of wealth, the sages have set open the pasturage frequented by cattle.
+
 ---
 
-**Progress note:** Done through printed p. 84. pp. 79-84 (batch API)
+**Progress note:** Done through printed p. 90. pp. 85-90 (batch API)
