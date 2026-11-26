@@ -30442,6 +30442,137 @@ The vigilant Soma, the knower of true praises, being purified, has sat down in t
 > सः। पुनानः । उप । सूरे । न । धाता । आ । उभे इति । अप्राः । रोदसी इति । वि । सः । आवरित्यावः ।  
 > प्रिया । चित् । यस्य । प्रियसासः । ऊती । सः । तु । धनम् । कारिणे । न । प्र ।यंसत् ॥ ३८ ॥
 
+### Printed p. 820
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानः पूयमानः स सोमः इंद्रे उपगच्छति । तत्र दृष्टांतः–सूरेन यथा सूर्ये धाता संवत्सर उपगच्छति । ससंवत्सरोविधातारं । संवत्सरेणैवास्मै प्रजाः प्रजनयतीत्याम्नानात् । किंचोभे रोदसी द्यावापृथिव्यौ आप्राः स्वमहिम्ना आपूरयति । तथा स सोमः व्यावः स्वतेजसा तमांसि विवृणोति । वृणोतेर्मंत्रेघसेतिच्लेर्लुक् छंदस्यपि दृश्यते इत्यडागमः पूर्वपदादिति स इत्यस्य सांहितिकंषत्वं । प्रिया षष्ठ्याआकारः पियस्य यस्य सोमस्य यद्वा प्रियाणि प्रयच्छतः यस्य सोमस्य प्रियसासः अत्यंतं प्रियतमाधाराः ऊती ऊत्यै रक्षणाय भवंति स तु क्षिप्रं अस्मभ्यं धनं प्रयंसत् प्रयच्छतु । यच्छतेर्लेटिसिप्यडागमः । तत्र दृष्टांतः–कारिणेन यथा कारिणे च कृतकाय भृतिं प्रयच्छंति तद्वत् ॥ ३८ ॥
+
+##### Gist of the bhāṣya
+
+Being purified, that Soma goes to Indra. An example is given: as धाता (*dhātā*), the year, goes to the sun (सूरे (*sūre*)). For the year is the विधातारं (*vidhātāraṃ*), as the tradition says: संवत्सरेणैवास्मै प्रजाः प्रजनयतीत्याम्नानात् (*saṃvatsareṇaivāsmai prajāḥ prajanayatītyāmnānāt*). Further, he fills both रोदसी (*rodasī*), heaven and earth, with his own greatness. Likewise that Soma, व्यावः (*vyāvaḥ*), uncovers the darknesses with his own light. Of whom, Soma, the very dear supports (the streams) are for ऊती (*ūtī*), protection; or else, those that bestow dear things; may he quickly bestow wealth upon us. An example is given: as they give wages to a worker, one who has done the work, so may he give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानः (*punānaḥ*)—who has obtained purification
+- सः (*saḥ*)—that divine Soma
+- सूरे (*sūre*)—to the sun
+- धाता (*dhātā*)—as the year approaches and goes
+- उप (*upa*)—he goes near to Indra (and)
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- आ अप्राः (*ā aprāḥ*)—he fills with his greatness
+- सः (*saḥ*)—that Soma
+- वि आवः (*vi āvaḥ*)—he destroys the darkness with his light
+- यस्य (*yasya*)—of that divine Soma
+- प्रियो (*priyo*)—the pleasing **NOTE**
+- प्रियसासः चित् (*priyasāsaḥ cit*)—streams and flows
+- ऊती (*ūtī*)—be for our protection
+- सः तु (*saḥ tu*)—that divine Soma
+- कारिणे न (*kāriṇe na*)—as one gives to workmen the goods due to them
+- धनं (*dhanaṃ*)—wealth
+- प्र यंसत् (*pra yaṃsat*)—may he give to us
+
+##### भावार्थ (Bhāvārtha)
+
+As the year, which is of the nature of time, approaches the sun, so the purified Soma approaches Indra, for his drinking; and this Soma fills the earth and heaven with his greatness and also destroys the darkness. May the flowing juices of this Soma protect us, and may this Soma provide us with wealth, as a master gives workmen their due.
+
+##### English translation
+The purified (Soma) approaches (Indra) as the year (approaches) the sun, he fills both heaven and earth (with his radiance), he opens (the darkness
+
+### Printed p. 821
+
+with his light) : may he, the beloved (Soma), whose beloved (streams) are for (our) preservation, bestow upon us wealth like (w:ages given) to a labourer. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+धाता सूरे न (*dhātā sūre na*)—Here the commentator says that the word धातृ (*dhātṛ*) denotes the year, and in support of it he quotes the Taittirīya Brāhmaṇa sentence संवत्सरो वै धाता संवत्सरेणैवास्मै प्रजाः प्रजनयति (*saṃvatsaro vai dhātā saṃvatsareṇaivāsmai prajāḥ prajanayati*) (Tai. Brā. 1-2-1-1) **NOTE**. धाता (*dhātā*) means Prajāpati. The year is the main division of time. To measure endless time it is the custom to take a limit called the year as the measuring rod. That is, here the year is time, and Prajāpati is the one who is of the nature of such time. There is no difference between time and Prajāpati; that is, Prajāpati is of the nature of time, or of the form of time; and there is a close relation between the sun and the year, which indicates the limit of time. That is, the measure of time depends on the course of the sun; by the course of the sun the measure of time, or the year, is determined. Therefore, as the year depends on the sun, so the Soma juice too goes to the neighbourhood of Indra, who is fond of drinking Soma; that is, it is prepared for the drinking of Indra; this is the meaning.
+
+It is necessary to examine closely the mutual relation of Prajāpati, the year, time and the sun.
+
+For the metaphor that shows a like character in Āditya and the year, the philosophical relation between Āditya and the year and their like causality in worldly affairs are the reason. The very sentences that say that Āditya is the year, and that the parts of the year are the parts of Āditya, show the charm of this metaphor.
+
+संवत्सरो वै प्रजापतिः । ................ स यः स संवत्सरोऽसौ स आदित्यः । (*saṃvatsaro vai prajāpatiḥ | ................ sa yaḥ sa saṃvatsaro 'sau sa ādityaḥ |*) (Śa. Brā. 10-2-4-3) **NOTE**
+
+The year is Prajāpati; the year is Āditya.
+
+त्रयोदश संपादयति । त्रयोदश वै मासाः संवत्सरस्य संवत्सर एष य एष तपत्येष उ प्रवर्ग्यः । (*trayodaśa saṃpādayati | trayodaśa vai māsāḥ saṃvatsarasya saṃvatsara eṣa ya eṣa tapatyeṣa u pravargyaḥ |*) (Śa. Brā. 14-1-2-34) **NOTE**
+
+The year of thirteen months is none other than Āditya, shining in the sky. In this way many sentences state the identity of Āditya and the year. When the seven seasons are the parts of the year, should the question arise whether those seven seasons are also the parts of Āditya, the answer to that is,
+
+### Printed p. 822
+
+आदित्यस्त्वेव सर्व ऋतवः । यदैवोदेत्यथ वसंतो यदा संगवोऽथ ग्रीष्मो यदा मध्यंदिनोऽथ वर्षा यदपराह्णोऽथ शरद्यद्वैवास्तमेत्यथ हेमंतस्तस्मादु मध्यंदिन एवादधीत............... ॥ (*ādityastveva sarva ṛtavaḥ | yadaivodetyatha vasaṃto yadā saṃgavo 'tha grīṣmo yadā madhyaṃdino 'tha varṣā yadaparāhṇo 'tha śaradyadvaivāstametyatha hemaṃtastasmādu madhyaṃdina evādadhīta............... ‖*) (Śa. Brā. 2-2-3-9) **NOTE**
+
+Āditya himself is of the nature of all the seasons, or the cause of the seasons. When he rises, it is spring. When the time for milking the cattle comes, it is summer. The midday itself is the rainy season. When the afternoon comes, it is autumn. When the time of sunset comes, it is winter. Thus the identity of Āditya, who is the cause of the seasons, with the seasons is stated. Moreover—
+
+अत्र ह वा असावग्र आदित्य आस तमृतवः परिगृह्यैवाते ऊर्ध्वाः स्वर्गं लोकमुपोदक्रामन्त्स एष ऋतुषु प्रतिष्ठितस्तपति । (*atra ha vā asāvagra āditya āsa tamṛtavaḥ parigṛhyaivāte ūrdhvāḥ svargaṃ lokamupodakrāmantsa eṣa ṛtuṣu pratiṣṭhitastapati |*) (Śa. Brā. 4-2-5-9) **NOTE**
+
+In the past Āditya had overspread this earth. When the seasons took hold of him, Āditya flew with them into the sky. Afterwards, firmly established in the seasons, he now shines in the sky. These seasons are the parts of the year and the chief means for understanding the nature of the year. Without knowledge of these means the nature of the year is not understood.
+
+संवत्सरग्ंह वै प्रयाजैर्जयज्ञायति । स ह स्वेवैनं जयति योऽस्य द्वाराणि वेद तॆग्ं हि स तैर्गृहैः कुर्याद्यानंतरतो न व्यवविद्याद्यथास्य त्रे भवंति तस्य वसंत एव द्वारग्ं हेमंतो द्वारं तं वा एतग्ं संवत्स्ररग्ं स्वर्गं लोकं प्रपद्यते सर्वं वै संवत्सर· सर्वं वा अक्षय्यमेतेन हास्याक्षय्यग्ं सुकृतं भवत्यक्षय्यो लोकः ॥ (*saṃvatsaragṃha vai prayājairjayajñāyati | sa ha svevainaṃ jayati yo 'sya dvārāṇi veda tègṃ hi sa tairgṛhaiḥ kuryādyānaṃtarato na vyavavidyādyathāsya tre bhavaṃti tasya vasaṃta eva dvāragṃ hemaṃto dvāraṃ taṃ vā etagṃ saṃvatsraragṃ svargaṃ lokaṃ prapadyate sarvaṃ vai saṃvatsara· sarvaṃ vā akṣayyametena hāsyākṣayyagṃ sukṛtaṃ bhavatyakṣayyo lokaḥ ‖*) (Śa. Brā. 1-6-1-19) **NOTE**
+
+Having obtained a good state through the Prayājas, the sacrificer understands the nature of the year. But the knowledge of the year comes only to one who is acquainted with its doors. As acquaintance with a house is of no use to a man who does not know the door convenient for entering it, so without acquaintance with the seasons, which are the doors of the year, knowledge of the year cannot be obtained. For this year spring and winter are the doors. The year itself is the sky, and the year is also everything. Therefore those who have obtained knowledge of the year attain an eternal state.
+
+द्वे वाव ब्रह्मणो रूपे कालश्चाकालश्च । य आदित्याद्यः स कालः । तस्मात्संवत्सरो वै कालः ॥ (*dve vāva brahmaṇo rūpe kālaścākālaśca | ya ādityādyaḥ sa kālaḥ | tasmātsaṃvatsaro vai kālaḥ ‖*) (Maitrāyaṇa Brāhmaṇopaniṣat. 6-15) **NOTE**
+
+### Printed p. 823
+
+Time and non-time are the two forms of Brahman. The time produced by Āditya is the year. In this way, in some places, when the identity of Āditya and the year is stated, it is also stated that the seasons, the parts of the year, are the parts of Āditya, and in still other places, where it is said that the year was produced from the sun, that the seasons also were produced from him.
+
+In such contexts one can show the identity of Āditya and of time in the form of the year, and also show that the place, the nature and the power of the two are one. In many contexts unity is shown between Āditya and time in the form of the year. In some places it is said that Āditya is the cause of time, and in others that time itself is the cause of Āditya, because the course of Āditya takes place by the law of time. In the Maitrāyaṇa Brāhmaṇa Upaniṣad the relation between Āditya and time called the year is stated in this way.
+
+अन्नं सर्वस्य योनिः कालश्चान्नस्य सूर्यो योनिः कालस्य........... ....कालात्स्रवंति भूतानि कालाद्वृद्धिं प्रयांति च । द्वेवाव ब्रह्मणो रूपे कालश्चाकालश्च । य आदित्याद्यः सः कालः...............तस्मात्संवत्सरो वै कालः । पचति भूतानि............महात्मनि ॥ (*annaṃ sarvasya yoniḥ kālaścānnasya sūryo yoniḥ kālasya........... ....kālātsravaṃti bhūtāni kālādvṛddhiṃ prayāṃti ca | dvevāva brahmaṇo rūpe kālaścākālaśca | ya ādityādyaḥ saḥ kālaḥ...............tasmātsaṃvatsaro vai kālaḥ | pacati bhūtāni............mahātmani ‖*) (Maitrāyaṇi. U. 6-14 to 16) **NOTE**
+
+Food is the cause of the existence and course of all beings. Time is the cause of food, and the sun of time. The year, which is the object of perception, is the form of time. Through the parts of time the course of the sun takes place.
+
+From this time all beings come forth, and by it all grow. Āditya, who is seen by the eye, and the unseen divisions such as the Muhūrta, are forms of time. Brahman has two parts, time and non-time; time, which precedes Āditya, is unbounded and without parts. The year is the form of this part; from the year all beings are produced, grow and are dissolved. Therefore the year is Prajāpati, the year is food, Brahman and the Supreme Self.
+
+To show that Āditya, who is of the nature of such time, shines as the lord of all the worlds, he is described as एकः (*ekaḥ*) तस्या (*tasyā*) **NOTE**. Describing this very thing in the Chāndogya and other Upaniṣads, it is said,
+
+आदित्यो ब्रह्मेत्यादेशः (*ādityo brahmetyādeśaḥ*) (Chā. U. 3-19-1) असावादित्यो ब्रह्मेति (*asāvādityo brahmeti*) (Tai. Ā. 2-1)
+
+that Āditya is Parabrahman. Showing the unity of this Āditya and the year, and describing the power of Āditya, who pervades the three worlds, earth and the rest, the Aitareya Āraṇyaka says as follows.
+
+### Printed p. 824
+
+But according to the description Āditya is at once all-pervading and the one who has overspread the most excellent heaven.
+
+महापुरुष इति यमुवोचाम संवत्सर एव प्रध्वंसयन्नन्यानि भूतान्यैक्याभावयन्नन्यानि तस्यैतस्यासावादित्यो रसः ॥ स यश्चायमशरीरः प्रज्ञात्मा यश्चासावादित्य एकनेतदिति विद्यात् । तस्मात्पुरुषं पुरुषं प्रत्यादित्यो भवति । तदस्यैतदृषिणोक्तं । चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः । आ प्रा द्यावापृथिवी अंतरिक्षं सूर्य आत्मा जगतस्तस्थुषश्चेति ॥ (*mahāpuruṣa iti yamuvocāma saṃvatsara eva pradhvaṃsayannanyāni bhūtānyaikyābhāvayannanyāni tasyaitasyāsāvādityo rasaḥ ‖ sa yaścāyamaśarīraḥ prajñātmā yaścāsāvāditya ekanetaditi vidyāt | tasmātpuruṣaṃ puruṣaṃ pratyādityo bhavati | tadasyaitadṛṣiṇoktaṃ | citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ | ā prā dyāvāpṛthivī aṃtarikṣaṃ sūrya ātmā jagatastasthuṣaśceti ‖*) (Ai. Ā. 3-2-3)
+
+The Great Person whom we have named, that Great Person is the year. The essence of that year is Āditya. It should be understood that the bodiless Self of knowledge and Āditya are one and the same principle. This very thing the seer Kutsa has described in the Ṛksaṃhitā (Ṛ. Saṃ. 1-115-1): "The light that is the eye of Mitra, Varuṇa and Agni, and the face of the gods, has risen and has pervaded earth, sky and heaven. This is the Self of all the worlds, moving and unmoving."
+
+There was a custom of calling the wheel of time by five names: Saṃvatsara, Parivatsara, Idāvatsara, Idvatsara and Vatsara. Slight differences are seen here and there in these names and in their reckoning. For example, in the Taittirīya Saṃhitā,
+
+यत्ते रुद्र पुरो धनुस्तद्वातो अनु वातु ते तस्मै ते रुद्र संवत्सरेण नमस्करोमि यत्ते रुद्र दक्षिणाधनुः ,, ,, ,, परिवत्सरेण ,, यत्ते रुद्र पश्चाद्धनुः ,, ,, ,, इदावत्सरेण ,, यत्ते रुद्रोत्तराद्धनुः ,, ,, ,, इदुवत्सरेण ,, यत्ते रुद्रोपरि धनुः ,, ,, ., वत्सरेण ,, (*yatte rudra puro dhanustadvāto anu vātu te tasmai te rudra saṃvatsareṇa namaskaromi yatte rudra dakṣiṇādhanuḥ ,, ,, ,, parivatsareṇa ,, yatte rudra paścāddhanuḥ ,, ,, ,, idāvatsareṇa ,, yatte rudrottarāddhanuḥ ,, ,, ,, iduvatsareṇa ,, yatte rudropari dhanuḥ ,, ,, ., vatsareṇa ,,*) (Tai. Saṃ. 5-5-2-2,3.4) **GLOSS**
+
+in these sentences there are the varieties Saṃvatsara, Parivatsara, Idāvatsara, Iduvatsara and Vatsara. The same division is found in the Vājasaneya Saṃhitā (Vā. Saṃ. 27-45). But there, in place of इद्वत्सर (*idvatsara*), the Taittirīya Saṃhitā has इदुवत्सर (*iduvatsara*). The rest are the same. In the Taittirīya Brāhmaṇa,
+
+संवत्सरोऽसि परिवत्सरोऽसि । इदावत्सरोऽसीदुवत्सरोऽसि । इद्वत्सरोऽसि वत्सरोऽसि । तस्य ते वसंतश्शिरः । ग्रीष्मो दक्षिणः पक्षः............ ॥ (*saṃvatsaro 'si parivatsaro 'si | idāvatsaro 'sīduvatsaro 'si | idvatsaro 'si vatsaro 'si | tasya te vasaṃtaśśiraḥ | grīṣmo dakṣiṇaḥ pakṣaḥ............ ‖*) (Tai. Brā. 3-10-4-1) **GLOSS**
+
+### Printed p. 825
+
+there are six varieties: Saṃvatsara, Parivatsara, Idāvatsara, Iduvatsara, Idvatsara and Vatsara. But in this same Taittirīya Brāhmaṇa—
+
+अग्निर्वाव संवत्सरः । आदित्यः परिवत्सरः । चंद्रमा इदावत्सरः । वायुरनु वत्सरः । (*agnirvāva saṃvatsaraḥ | ādityaḥ parivatsaraḥ | caṃdramā idāvatsaraḥ | vāyuranu vatsaraḥ |*) (Tai. Brā. 1-4-10-1) **GLOSS**
+
+there only four varieties are mentioned: Saṃvatsara, Parivatsara, Idāvatsara and Anuvatsara. Besides this, in another part of the Taittirīya Saṃhitā—
+
+इदुवत्सराय परिवत्सराय संवत्सराय कृणुता बृहन्नमः (*iduvatsarāya parivatsarāya saṃvatsarāya kṛṇutā bṛhannamaḥ*) (Tai. Saṃ. 5-7-2-4) **GLOSS** **NOTE**
+
+only three varieties are mentioned: Iduvatsara, Parivatsara and Saṃvatsara. In all these sentences the two names Saṃvatsara and Parivatsara are common. The wheel of time is described as turning, in its forms, from beginningless time like a wheel.
+
+तस्मिन्नातस्थुर्भुवनानि विश्वा (*tasminnātasthurbhuvanāni viśvā*)—it means that all the worlds are established in this wheel of time. The names Saṃvatsara, Parivatsara and the rest are the parts of this great time. This great time is the support of the world and of all the affairs of the world. This very thing is called by various names such as nature, law and Brahman.
+
+किं कारणं, ब्रह्म? कुतः स्म जाता जीवामु केन क्व च संप्रतिष्ठाः । अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्मविदो व्यवस्थां ॥ (*kiṃ kāraṇaṃ, brahma? kutaḥ sma jātā jīvāmu kena kva ca saṃpratiṣṭhāḥ | adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthāṃ ‖*) (Śve. U. 1-1) **NOTE**
+
+What is the original cause of the world? Is it Brahman? Or what is Brahman? What is its nature? From where is our origin? By the support of what do we live? What is the basis of our state? From where do our joys and sorrows arise? To these questions this kind of answer is given.
+
+कालः स्वभावो नियतिर्यदृच्छा भूतानि योनिः पुरुष इति चिंत्या (*kālaḥ svabhāvo niyatiryadṛcchā bhūtāni yoniḥ puruṣa iti ciṃtyā*) (Śve. U. 1-1) **NOTE**
+
+This great root of the world is called time by some, fate by some, nature by some, and by still other names by various philosophers. But,
+
+स्वभावमेके कवयो वदंति कालं तथ्याने परिमुह्यमानाः । देवस्यैष महिमा तु लोके येनेदं भ्राम्यते ब्रह्मचक्रं ॥ (*svabhāvameke kavayo vadaṃti kālaṃ tathyāne parimuhyamānāḥ | devasyaiṣa mahimā tu loke yenedaṃ bhrāmyate brahmacakraṃ ‖*) (Śve. U. 6-1) **GLOSS** **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 819. Sukta 97 Rk 35 end, Rk 36, 37, 38 Samhita/Pada
+**Progress note:** Done through printed p. 825. Rk 38 bhashya, Special Topics on samvatsara
