@@ -20929,6 +20929,277 @@ O priests, approach for worship Agni, who is a kinsman to those who have irresis
 > अयम् । यथा । नः । आऽभुवत् । त्वष्टा । रूपाऽइव । तक्ष्या ।  
 > अस्य । क्रत्वा । यशस्वतः ॥ ८ ॥
 
+### Printed p. 543
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् अग्निः नः अस्मान् तक्ष्या विकर्तव्यानि रूपेव त्वष्टा रूपाणि वर्धकिरिव यथा येन प्रकारेण आभुवत् आभवति तथैनमग्निमभिगच्छतेत्यर्थः । किंच वयम् अस्य अग्नेः क्रत्वा प्रज्ञानेन युक्ताः यशस्वतः यशस्वंतो भवामेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Like a carpenter (त्वष्टा (*tvaṣṭā*)), a worker in wood, fashions forms in the timber that is to be cut and shaped (तक्ष्या (*takṣyā*)), so this Agni deals with us in whatever manner he does; therefore approach this Agni. Further, "may we, endowed with his wisdom (क्रत्वा (*kratvā*)), become renowned (यशस्वतः (*yaśasvataḥ*))": the words "may we become" are to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वष्टा (*tvaṣṭā*)—the carpenter
+- तक्ष्या (*takṣyā*)—in the timber that has to be cut and fashioned
+- रूपेव यथा (*rūpeva yathā*)—as he makes a beautiful form
+- अयं (*ayaṃ*)—this Agni
+- नः (*naḥ*)—us
+- आभुवत् (*ābhuvat*)—fashions and purifies
+- अस्य (*asya*)—of this Agni
+- क्रत्वा (*kratvā*)—we who are endowed with wisdom
+- यशस्वतः (*yaśasvataḥ*)—let us become renowned
+
+##### भावार्थ (Bhāvārtha)
+
+As a carpenter cuts timber, fashions it and makes a beautiful form, so this Agni fashions and purifies us. Endowed with the wisdom of this Agni, let us become renowned.
+
+##### English translation
+(Draw near) that he may deal with us as a carpenter deals with the timber he has to cut ; may we become renowned by his skill.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं विश्वा॑ अ॒भि श्रियो॒ऽग्निर्दे॒वेषु॑ पत्यते ।  
+> आ वाजै॒रुप॑ नो गमत् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । विश्वाः । अभि । श्रियः । अग्निः । देवेषु । पत्यते ।  
+> आ । वाजैः । उप । नः । गमत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनुष्याणां विश्वाः सर्वाः श्रियः संपदः देवेषु देवानां मध्ये यः अयम् अग्निः अभि पत्यते अभिगच्छति सोऽग्निः नः अस्मानपि वाजैः अन्नैः उप आ गमत् उपागच्छतु ॥
+
+##### Gist of the bhāṣya
+
+Among the gods (देवेषु (*deveṣu*)), this Agni approaches (अभि पत्यते (*abhi patyate*), that is, goes to) all the riches (श्रियः (*śriyaḥ*)) of men. May that Agni come to us as well, with food (वाजैः (*vājaiḥ*)).
+
+### Printed p. 544
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेषु (*deveṣu*)—in the midst of the gods
+- अयं अग्निः (*ayaṃ agniḥ*)—this Agni
+- विश्वाः (*viśvāḥ*)—all
+- श्रियः (*śriyaḥ*)—riches
+- अभि पत्यते (*abhi patyate*)—is the one who acquires and bestows (therefore)
+- नः (*naḥ*)—to us
+- वाजैः (*vājaiḥ*)—with food
+- उप आ गमत् (*upa ā gamat*)—may this Agni draw near
+
+##### भावार्थ (Bhāvārtha)
+
+Among the gods, this Agni is the one who provides us with all riches. Therefore may this same Agni draw near to us with food.
+
+##### English translation
+Among the gods Agni has to do with all the successes ( of men ) ; may he come to us with abundance of food.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑षामि॒ह स्तु॑हि॒ होतॄ॑णां य॒शस्त॑मम् ।  
+> अ॒ग्निं य॒ज्ञेषु॑ पू॒र्व्यम् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वेषाम् । इह । स्तुहि । होतॄणाम् । यशःऽतमम् ।  
+> अग्निम् । यज्ञेषु । पूर्व्यम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वेषां सर्वेषां होतॄणां मध्ये यशस्तमं यशस्वितमं यज्ञेषु पूर्व्यं  मुख्यम् अग्निम् इह अस्मदीये यज्ञे हे स्तोतः स्तुहि ॥ ॥ १० ॥
+
+##### Gist of the bhāṣya
+
+Among all (विश्वेषां (*viśveṣāṃ*)) the Hotṛ priests, praise here (इह (*iha*)), at our sacrifice, O singer, Agni, the most glorious (यशस्तमं (*yaśastamaṃ*)), who is foremost (पूर्व्यं (*pūrvyaṃ*), that is, chief) in the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) विश्वेषां (*viśveṣāṃ*)—of all
+- होत्ऋणां (*hotṛṇāṃ*)—among the Hotṛ priests
+- यशस्तमं (*yaśastamaṃ*)—the most glorious
+- यज्ञेषु (*yajñeṣu*)—in the sacrifices
+- पूर्व्यं (*pūrvyaṃ*)—the chief
+- अग्निं (*agniṃ*)—Agni
+- इह (*iha*)—in this sacrifice
+- स्तुहि (*stuhi*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, at the time of this sacrifice praise Agni, who is the most glorious among all the Hotṛ priests and the chief in the sacrifices.
+
+### Printed p. 545
+
+##### English translation
+Praise at our rite Agni, the most glorious of all ministrant priests, the foremost in the sacrifices.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शी॒रं पा॑व॒कशो॑चिषं॒ ज्येष्ठो॒ यो दमे॒ष्वा ।  
+> दी॒दाय॑ दीर्घ॒श्रुत्त॑मः ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शीरम् । पावकऽशोचिषम् । ज्येष्ठः । यः । दमेषु । आ ।  
+> दीदाय । दीर्घश्रुत्ऽतमः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ज्येष्ठः देवानां मुख्यः दीर्घश्रुत्तमः अतिशयेन विद्वान् अग्निः दमेषु यज्वनां गृहेषु आ  दीदाय अदीप्यते । तं शीरम् अनुशायिनम् । तथा च यास्कः-’ अनुशायिनमिति वाशिनमिति वा' (निरु. ४. १४ ) इति । पावकशोचिषं पावकदीप्तिं स्तुहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Agni, the eldest (ज्येष्ठः (*jyeṣṭhaḥ*)), that is, the chief of the gods, and the most learned (दीर्घश्रुत्तमः (*dīrghaśruttamaḥ*)), shines (आ दीदाय (*ā dīdāya*)) in the houses (दमेषु (*dameṣu*)) of the sacrificers. Praise him, who is शीरं (*śīraṃ*), the one who lies along (अनुशायिनम् (*anuśāyinam*)). So Yāska says: अनुशायिनमिति वाशिनमिति वा (*anuśāyinamiti vāśinamiti vā*) (Ni. 4. 14). And praise him as पावकशोचिषं (*pāvakaśociṣaṃ*), of purifying radiance. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Agni who
+- ज्येष्ठः (*jyeṣṭhaḥ*)—is the chief of all the gods
+- दीर्घश्रुत्तमः (*dīrghaśruttamaḥ*)—and possesses the most extensive knowledge
+- दमेषु (*dameṣu*)—in the houses of sacrifice
+- आ दीदाय (*ā dīdāya*)—shines forth
+- शीरं (*śīraṃ*)—who is established in the house of sacrifice
+- पावकशोचिषं (*pāvakaśociṣaṃ*)—and has a purifying flame: praise that Agni
+
+##### भावार्थ (Bhāvārtha)
+
+Praise that Agni who is the chief of all the gods and possesses the most extensive knowledge, who shines in the houses of sacrifice, who is established in the houses of sacrifice and has a purifying flame.
+
+##### English translation
+(Praise him) the dweller in the sacrifice of purifying radiance, who shines, the chief of the gods and omniscient, in the houses (of the sacrificers)
+
+### Printed p. 546
+
+##### विशेषविषयगळु (Special Topics)
+
+शीरं पावकशोचिषं (*śīraṃ pāvakaśociṣaṃ*)—for these words Yāska has given the explanation in his Nirukta: शीरं । शीरं पावकशोचिषं । पावकदीप्तिं । अनुशायिनमिति पाशिनमिति वा (*śīraṃ | śīraṃ pāvakaśociṣaṃ | pāvakadīptiṃ | anuśāyinamiti pāśinamiti vā*) (Ni. 4-14). That is to say, both these words describe the natural qualities of Agni and are therefore names of Agni. शीरं (*śīraṃ*) means अनुशायिनं (*anuśāyinaṃ*) or आशिनं (*āśinaṃ*). Agni lies hidden and asleep in wood and the like. That is, though Agni dwells in wood and the like, he is not visible to anyone; he remains merged within it. Only by the act of churning and the like does he become visible to all. Or else, Agni pervades all living beings. Dwelling in the bellies of all living beings under the name जाठरागि (*jāṭharāgi*), he digests the food and the like that the beings eat, and pervades all parts of the body with warmth. For this very reason it is known to everyone that the whole body of living beings is pervaded by a certain measure of warmth and is warm. Thus a twofold meaning has been explained for the word शीरं (*śīraṃ*). पावकशोचिषं (*pāvakaśociṣaṃ*) means "shining with a pure brilliance".
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमर्वं॑तं॒ न सा॑न॒सिं गृ॑णी॒हि वि॑प्र शु॒ष्मिण॑म् ।  
+> मि॒त्रं न या॑त॒यज्ज॑नम् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । अर्वंतम् । न । सानसिम् । गृणीहि । विप्र । शुष्मिणम् ।  
+> मित्रम् । न । यातयत्ऽजनम् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विप्र मेधाविन् स्तोतः अर्वंतं न अश्वमिव सानसिं संभजनीयं शुष्मिणं बलिनं मित्रं न सखायमिव यातयज्जनं हतशत्रुजनं तम् अग्निं गृणीहि स्तुहि ॥
+
+##### Gist of the bhāṣya
+
+O wise one (विप्र (*vipra*)), O singer, praise (गृणीहि (*gṛṇīhi*)) that Agni, who is like a horse (अर्वंतं न (*arvaṃtaṃ na*)), one to be resorted to (सानसिं (*sānasiṃ*)), strong (शुष्मिणं (*śuṣmiṇaṃ*)), like a friend (मित्रं न (*mitraṃ na*)), and one who has slain the hostile folk (यातयज्जनं (*yātayajjanaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise praiser
+- अर्वंतं न (*arvaṃtaṃ na*)—like a swift horse
+- सानसिं (*sānasiṃ*)—who is worshipped, granting a happy approach
+- शुष्मिणं (*śuṣmiṇaṃ*)—who is endowed with strength
+- मित्रं न (*mitraṃ na*)—like a friend
+- यातयज्जनं (*yātayajjanaṃ*)—who has slain hostile folk
+- तं (*taṃ*)—that same Agni
+- गृणीहि (*gṛṇīhi*)—praise
+
+### Printed p. 547
+
+##### भावार्थ (Bhāvārtha)
+
+O wise praiser, praise that same Agni, who like a swift horse is worshipped, granting a happy approach, who is endowed with strength, and who like a friend has slain hostile folk.
+
+##### English translation
+O priest, glorify him who is welcome and strong as a horse, and who like a friend conquers all our foes.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ त्वा जा॒मयो॒ गिरो॒ देदि॑शतीर्हवि॒ष्कृतः॑ ।  
+> वा॒योरनी॑के अस्थिरन् ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । त्वा । जामयः । गिरः । देदिशतीः । हविःऽकृतः ।  
+> वायोः । अनीके । अस्थिरन् ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने हविष्कृतः यजमानार्थं गिरः स्तुतयः जामयः स्वसार इव देदिशतीः तव गुणान् दिशंत्यः त्वा त्वामुपतिष्ठंते । वायोरनीके समीपे त्वां समेधयंत्यः अस्थिरन् अतिष्ठंश्च ॥
+
+##### Gist of the bhāṣya
+
+O Agni, the praises (गिरः (*giraḥ*)) of the makers of the oblation, offered for the sacrificer, like sisters (जामयः (*jāmayaḥ*)), pointing out (देदिशतीः (*dediśatīḥ*)) your qualities, wait upon you. Near Vāyu (वायोरनीके (*vāyoranīke*)), kindling you, they have also stood (अस्थिरन् (*asthiran*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) हविष्कृतः (*haviṣkṛtaḥ*)—for the sacrificer who offers the oblation
+- गिरः (*giraḥ*)—praises **NOTE**
+- जामयः (*jāmayaḥ*)—like sisters
+- देदिशतीः (*dediśatīḥ*)—extolling your qualities
+- त्वा (*tvā*)—you; they serve you
+- वायोः (*vāyoḥ*)—of Vāyu
+- अनीके (*anīke*)—in the presence
+- अस्थिरन् (*asthiran*)—they are making you blaze
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, for the welfare of the sacrificer who offers the oblation, the praises, being like sisters **NOTE**, extol your qualities and serve you. They are making you blaze in the presence of Vāyu.
+
+### Printed p. 548
+
+##### English translation
+The sister praises of the worshipper rise to you, proclaiming your glories ; they stand kindling you in the presence of Vayu.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यस्य॑ त्रि॒धात्ववृ॑तं ब॒र्हिस्त॒स्थावसं॑दिनम् ।  
+> आप॑श्चि॒न्नि द॑धा प॒दम् ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यस्य । त्रिऽधातु । अवृतम् । बर्हिः । तस्थौ । असम्ऽदिनम् ।  
+> आपः । चित् । नि । दध । पदम् ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यस्य अग्नेः त्रिधातु त्रिः अवृतम् अनावृतं च असंदिनम् अबद्धं च । स्तरणकाले हि बर्हिरबद्धं भवति । बर्हिस्तस्थौ आसनार्थं तिष्ठति तस्मिन्नग्नौ आपश्चित् आपोऽपि पदं नि दध निदधति । अंतरिक्ष्या माध्यमिके पदं निदधतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Of that Agni whose barhis (sacrificial grass) is threefold (त्रिधातु (*tridhātu*)), not covered (अवृतम् अनावृतं (*avṛtam anāvṛtaṃ*)) and untied (असंदिनम् अबद्धं (*asaṃdinam abaddhaṃ*)): at the time of spreading, the barhis is untied. The barhis stands (तस्थौ (*tasthau*)) for sitting; in that Agni even the waters (आपः चित् (*āpaḥ cit*)) set down (नि दध (*ni dadha*)) their foot. The meaning is that they set their foot in the middle, the region of the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—for the worship of which Agni
+- त्रिधातु (*tridhātu*)—having three layers
+- अवृतं (*avṛtaṃ*)—(without a fixed number) provided with a knot
+- असंदिनं (*asaṃdinaṃ*)—without a knot
+- बर्हिः (*barhiḥ*)—the darbha seats
+- तस्था (*tasthā*)—have been placed, in that Agni
+- आपश्चित् (*āpaścit*)—even the waters
+- पदं (*padaṃ*)—a place
+- नि दथ (*ni datha*)—obtain **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+In that Agni, for whose worship the darbha seats have been placed, which have three layers, are knotted without a fixed number, and are also without a knot, the waters too obtain their place.
+
+##### English translation
+The waters find their place in him, for whom the triple-jointed grass is spread unlimited and untied (in the sacrifice).
+
 ---
 
-**Progress note:** Done through printed p. 542. Vol 25 pp. 537-542: sūkta 102 Ṛks 1-8
+**Progress note:** Done through printed p. 548. Sukta 102 Rk 8-14 (Mandala 8), pp. 543-548
