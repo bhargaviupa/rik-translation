@@ -29691,6 +29691,289 @@ This sūkta, प्र सु ग्मंता (*pra su gmaṃtā*), is the th
 
 Indra impels well his two bay horses, the two that go, toward the service, the worthy sacrifice endowed with good qualities, of me, the sacrificer, who am धियसानस्य (*dhiyasānasya*), thinking of Indra's coming. Then that Indra, by desirable paths, bringing his attention to the excellent, matchless special praises of the sacrificer, who is setting down the oblation, may come well. Indra, having come, enjoys both of our offerings, the oblation and the praise. **NOTE**
 
+### Printed p. 831
+
+> सेवतां । भक्षयतु शृणोतु चेत्यर्थः । यद्यदा सोम्यस्य सोमसंपादिनो
+> ममांधसोऽन्नरूपस्य सोमस्य । रसमिति शेषः । बुबोधति बुध्यते जिह्वया
+> विजानाति । सोमं पिबतीत्यर्थः । तदा जुजोषतीति पूर्वेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The rest of the explanation of the preceding verse: let Indra partake, that is, eat and hear. Or else, when he perceives with his tongue, that is, drinks, the Soma, the food-like juice of me, the preparer of Soma, then he enjoys, which is connected with what precedes.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धियसानस्य (*dhiyasānasya*)—of the sacrificer who meditates on Indra alone
+- सक्षणि (*sakṣaṇi*)—for the sake of the sacrifice
+- ग्मंता (*gmaṃtā*)—the horses that go
+- प्र सु (*pra su*)—(Indra) impelling, may he send
+- वरेभिः (*varebhiḥ*)—by excellent paths
+- प्रसीदतः (*prasīdataḥ*)—of the sacrificer who worships Indra
+- वरान् अभि (*varān abhi*)—toward the excellent praises
+- सु (*su*)—may Indra come
+- यत् (*yat*)—when
+- सोमस्य (*somasya*)—of me, who have Soma
+- अंधसः (*aṃdhasaḥ*)—the oblation
+- बुभोधति (*bubhodhati*)—when he knows and tastes
+- इंद्रः (*iṃdraḥ*)—Indra
+- अस्माकं (*asmākaṃ*)—offered by us
+- उभयं (*ubhayaṃ*)—both the oblation and the praises
+- जुजोषति (*jujoṣati*)—enjoys
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra impel and send the horses that go for the sake of the sacrifice of the sacrificer who meditates on Indra alone. May Indra come, by excellent paths, toward the excellent praises of the sacrificer who worships Indra. When Indra knows and tastes my oblation, I who have Soma, then Indra enjoys both the oblation and the praises offered by us.
+
+##### English translation
+Indra sends his quick-going horses to the service of the (worshipper) expectant (of his arrival): may he come to the excellent (adorations) of the (worshipper), propitiating him by suitable means; Indra is gratified by both our (oblations and praises), when he recognizes (the taste) of the food presented by the offerer of the Soma.
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वीं॑द्र यासि दि॒व्यानि॑ रोच॒ना वि पार्थि॑वानि॒ रज॑सा पुरुष्टुतः  
+> ये त्वा॒ वहं॑ति॒ मुहु॑रध्व॒रा उप॒ ते सु व॑न्वंतु वग्व॒ना  ॒॑॑
+> अराधसः ॥ २ ॥
+
+### Printed p. 832
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वि । इंद्र । यासि । दिव्यानि । रोचना । वि । पार्थिवानि । रजसा । पुरुस्तुत ।  
+> ये । त्वा । वहंति । मुहुः । अध्वरान् । उप । ते । सु । वन्वंतु । वग्वनान् ।  
+> अराधसः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र दिव्यानि दिवि भवानि रोचना रोचनानि दीप्तिस्वभावकानि ज्योतींषि
+> यद्वा दिव्याल्लोकान्वियासि । व्याप्नोषि । हे पुरुष्टुत बहुभिः स्तुतेंद्र पार्थिवानि
+> पृथिव्यां भवानि रजसात्मीयेन ज्योतिषा विद्युल्लक्षणेन । यद्वा !! रजःशब्दाच्छस
+> आकारः ॥ पार्थिवाल्लोकान् । व्याप्नोषि । ये त्वदीया अश्वा मुहुः पुनःपुनरध्वरानस्मदीयान्यज्ञान्रति त्वा त्वामुप वहंति समीपे प्रापयंति तेऽश्वा वग्वनान्वचनेन स्तुत्या संभक्त्यनराधसो धनरहितानस्मान् सु सुष्टु वन्वंतु । धनप्रदानार्थं
+> संभजतां ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you pervade the heavenly luminaries, that is, the lights of shining nature. Or else he says that you pervade the heavenly worlds. O Indra, praised by many, you pervade the earthly ones with your own light, of the nature of lightning. Or else, the earthly worlds. The horses of yours that again and again convey you to our sacrifices, bring you near; may those horses, by speech, praise and devotion, serve well us who are without wealth, for the giving of wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- दिव्यानि (*divyāni*)—those of the heavenly world
+- रोचना (*rocanā*)—the lights
+- वि यासि (*vi yāsi*)—you pervade
+- पुरुष्टुत (*puruṣṭuta*)—O Indra, praised by many
+- रजसा (*rajasā*)—with your light
+- पार्थिवानि (*pārthivāni*)—the lights of the earth
+- वि (*vi*)—you pervade
+- ये (*ye*)—which horses of yours
+- मुहुः (*muhuḥ*)—many times
+- अध्वरान् (*adhvarān*)—to our sacrifice
+- त्वा (*tvā*)—you
+- उप वहंति (*upa vahaṃti*)—bring
+- ते (*te*)—those horses
+- वग्वनान् (*vagvanān*)—those given to praise
+- अराधसः (*arādhasaḥ*)—and without wealth, us
+- सु (*su*)—abundantly
+- वन्वंतु (*vanvaṃtu*)—may they make us possessed of wealth
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you pervade the lights of the heavenly world. O Indra, praised by many, with your light you pervade the lights of the earth. May those horses of yours that many times bring you to our sacrifice make us, who are given to praise and without wealth, abundantly rich.
+
+##### English translation
+Indra, you are praised by many, you pervade the luminaries of heaven and earth with your lustre; may the horses that repeatedly bring you to our sacrifices, pleased by cur praise, bring affluence to us who are poor. **NOTE**
+### Printed p. 833
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदिन्ने॑ छंत्स॒द्वपु॑षो॒ वपु॑ष्टरं पु॒त्रो यज्ञानं॑ पि॒त्रोर॒धीय॑ति ।  
+> जा॒या पतिं॑ वहति व॒ग्नुना॑ सु॒मत्पुं॒स इद्द॒द्रो व॑ह॒तुः परि॑स्कृतः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । मे । छंत्सत् । वपुषः । वपुःतरं । पुत्रः । यत् । जानं । पित्रोः ।  
+> अधिइयति ।  
+> जाया । पतिं । वहति । वग्नुना । सुमत् । पुंसः । इत् । भद्रः । वहतुः । परिकृतः ।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वपुषः । वपू रूपं । तद्वाल्लक्ष्यते । वपुष्मतोऽपि वपुष्टरं रूपवत्तरमत्यंतं
+> सुरूपं तद्यज्ञकर्म मे मह्यं छंत्सत् । इंद्रः कामयतां । यद्यदा पुत्रो
+> जानं जन्मात्मन उत्पत्तिं पित्रोर्मातापित्रोः सकाशादधीयति संकीर्तनद्वारेणाधिगच्छति । सुब्रह्मण्याह्वानकालेऽमुकशर्मणः पुत्रो यजत इत्यात्मनो जन्म
+> संकीर्तयति । यद्वा । यज्जननादागतं धनं पित्रोः सकाशात्पुत्रोऽधिगच्छति
+> तदेव मह्यमिच्छतु । जाया पत्नि पतिं यजमानं सुमत्कल्याणेन वग्नुना
+> वाग्रूपेण शब्देन वहति । आत्मसमीपं प्रापयति । भद्रो भजनीयः परिष्कृतः
+> सुसंस्कृतः पुंस इत् । पत्युरेवेत्यर्थः । वहतुर्जायाय्कॆ प्रदातव्यः । तदुक्तं ।
+> सुभद्रमर्य भोजनं बिभर्षि । ऋ. ८-१-३४ । इति । यद्वा । पुंसोऽतिशूरस्येंद्रस्यार्थाय भद्रो भजनीयो वहतुर्वहनशीलो देवान्प्रति स सोमः परिष्कृतः
+> संस्कृतो भवति । तदेंद्रः कामयतामित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+वपुषः (*vapuṣaḥ*) is form, and by it the beautiful is meant. That sacrificial act, more beautiful than the beautiful, exceedingly well formed, may Indra desire for me. When a son obtains from his parents his own birth, that is, comes to know it by proclaiming it (at the time of the invocation of Subrahmaṇyā he proclaims his birth: the son of such and such a Śarman sacrifices), then may Indra desire that. Or else: the wealth that comes through birth, which a son obtains from his parents, may Indra desire that very thing for me. The wife brings the husband, the sacrificer, to herself with good, auspicious, speech-like sound. The adorable, well-refined one belongs only to the husband; the one who carries is to be given to the wife. As has been said: सुभद्रमर्य भोजनं बिभर्षि (*subhadramarya bhojanaṃ bibharṣi*) (Ṛ. 8-1-34). **GLOSS** Or else: for the sake of the very heroic Indra, the Soma that is auspicious and carries to the gods is prepared; may Indra desire that.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पुत्रः (*putraḥ*)—the son
+- जानं (*jānaṃ*)—his own birth
+- पित्रोः (*pitroḥ*)—from his parents
+- अधीयति (*adhīyati*)—obtains and proclaims his own birth, then
+- वपुषः (*vapuṣaḥ*)—than the most beautiful
+### Printed p. 834
+- वपुष्टरं (*vapuṣṭaraṃ*)—more beautiful
+- तत् (*tat*)—that sacrificial act
+- मे (*me*)—for me
+- छंत्सत् (*chaṃtsat*)—may Indra desire
+- जाया (*jāyā*)—the wife
+- पतिं (*patiṃ*)—the sacrificer
+- सुमत् (*sumat*)—attractive
+- वग्नुना (*vagnunā*)—with words
+- वहति (*vahati*)—brings to herself
+- पुंसः (*puṃsaḥ*)—of the husband
+- भद्रः (*bhadraḥ*)—auspicious
+- परिष्कृतः (*pariṣkṛtaḥ*)—the refinement
+- वहतुः (*vahatuḥ*)—is for the wife's sake only
+
+##### भावार्थ (Bhāvārtha)
+
+When a son obtains his birth from his parents and makes it known, then may Indra desire for me the sacrificial act, more beautiful than the most beautiful. The wife brings the sacrificer to herself with attractive words. The auspicious refinement of the husband exists for the wife's sake only.
+
+##### English translation
+May (Indra) desire for me this (act of sacrifice), the most beautiful of beautiful things, (as) when a son proclaims his birth from his parents. The wife brings her husband (to her side) with gentle words: the good fortune of the husband is perfected only as marriage
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तदित्स॒धस्थ॑म॒भि चारु॑ धीधय॒ गावो॒ यच्छास॑न्वह॒तुं न  ॒॑
+> धेनवः ।  
+> मा॒ता यन्मंतु॑र्यू॒थस्य॑ पू॒र्वाभि वा॒णस्य॑ स॒प्तधा॑तु॒रिज्जनः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । इत् । सधस्थं । अभि । चारु । दीधय । गावः । यत् । शासन् । वहतुं । न ।  
+> धेनवः ।  
+> माता । यत् । मंतुः । यूथस्य । पूर्वा । अभि । वाणस्य । सप्तधातुः । इत् ।  
+> जनः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 835
+
+> ॥ करुणापरं ॥
+> तदित्तदेव सधस्थं । सह तिष्यंतत्रेति सधस्थं स्थानं यज्ञाख्यं । चारु
+> शोभनमभि दीधय । हे इंद्र अभितो दीप्यस्व । यद्यदा गावः स्तुतिलक्षणा वाच
+> इंद्र आगच्छ हरिव आगच्छेत्येवमाद्याः शासन् अस्मद्यज्ञं प्रति त्वदागमन.
+> माशासते । तत्र दृष्टांतः । वहतुं न धेनवः यथा धेनवो नवप्रसूता गावः
+> प्रापणसाधनं गृहमाशासते तद्वत् । यत अगत्य प्रकाशस्ततोऽत्र कारणमाह ।
+> यद्यस्मान्मंतुः । मन्यतिरर्चतिकर्मा । अर्चकस्य मम स्वभूता माता देवता.
+> गुणानां निष्पादयित्रि स्तुतियूथस्य यष्टस्तोतृगणस्य पूर्वा प्रथमभाविनी
+> खलु। यस्माच्च सप्तधातुः । धार्यंते क्रियंते कर्माण्यॆष्टिति धातवश्चंदांस्कृतवो
+> ना । सप्तच्छंदस्यः सप्तर्तुकः सप्तहोत्रात्मको वायं जनो वाणस्य स्तुतिशब्द स्याभिखलु । तस्माच्छीघ्रमागच्छेति भावः । यद्वा । यत्कल्याणं तदेव स्थानमस्माकमभिकर्ता धारय! प्रयच्छ । यस्मिन्साने धेनवः पयःप्रदानेन प्रीणयित्यो गावो
+> वहतुं। उह्यते पुरुषोऽनेनेति वहतुरन्नं। पयोघृताद्यनुशासति। न संप्रत्यर्थे ।
+> इदानीं प्रयच्छंति । तथा यस्मिन्मंतुर्मंतव्या पूजनीया पुत्र-समूहस्य
+> माताभिगच्छति वाणस्य वाद्यस्य सप्तधातुर्निषादादिसप्तस्वरोपेतो जनोऽभिगच्छति
+> तद्वृत्तद्दुणोपेतं प्रयच्छेति भावः ॥
+
+##### Gist of the bhāṣya
+
+That very सधस्थं (*sadhasthaṃ*), the place where they stay together, that is, the place called the sacrifice: shine beautifully about it, O Indra, shine all around. When the cows, that is, the speeches of the nature of praise, such as "Indra, come" and "Bay-horsed one, come", ask for your coming to our sacrifice (the example: as newly calved cows ask for the house, the means of reaching their calves), for this reason he gives the cause. Because my own mother, the producer of the qualities of the deity, I the worshipper (मंतुः (*maṃtuḥ*) is from the root meaning worship), is indeed the first of the company of praising worshippers; and because this person, सप्तधातुः (*saptadhātuḥ*), is a maker of praise (the seven are the seven metres, or the seven seasons, or consisting of the seven hotṛs): therefore come quickly. Or else: that auspicious very place, hold for us, give it, in which place the milch cows, pleasing with the giving of milk, give now the food, milk, ghee and the like, by which a man is carried (the particle meaning "now"). Likewise to the place to which the revered mother of the group of sons comes and the person who has the seven notes of the lute, beginning with Niṣāda, comes: give that, endowed with those qualities. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- मंतुः (*maṃtuḥ*)—of the sacrificer, the worshipper of the gods
+- माता (*mātā*)—the praise
+- यूथस्य (*yūthasya*)—than the praise of the other praisers
+- पूर्वा (*pūrvā*)—is first
+- यत् (*yat*)—for which reason
+- सप्तधातुः (*saptadhātuḥ*)—consisting of the seven metres
+- जनः (*janaḥ*)—the sacrificer
+- वाणस्य अभि (*vāṇasya abhi*)—is the maker of praise, therefore
+- धेनवः (*dhenavaḥ*)—the cows
+- वहतुं न (*vahatuṃ na*)—as they wish to reach their stalls
+- यत् (*yat*)—where (when)
+- गावः (*gāvaḥ*)—the speeches of the nature of praise
+- शासन् (*śāsan*)—look for your coming
+- तदित् (*tadit*)—at once
+- सधस्थं अभि (*sadhasthaṃ abhi*)—toward our place of sacrifice
+- चारु (*cāru*)—attractively
+- दीधय (*dīdhaya*)—shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for which reason the praise of the sacrificer, the worshipper of the gods, is first, before the praise of the other worshippers; for which reasons the sacrificer, consisting of the seven metres, is the maker of praise: therefore, as cows wish to reach their stalls, when the speeches of the nature of praise look for your coming, at once shine attractively in our place of sacrifice.
+### Printed p. 836
+
+##### English translation
+Shine, Indra, upon this elegant chamber of sacrifice when our praises desire (your approach) as milch cows (desire) their stalls ; since the praise of (me) the worshipper precedes (the adoration) of the company, and this person accompanied by the seven officiating priests is (the offerer) of praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+सप्तधातुः (*saptadhātuḥ*)—for this word the commentator has given three kinds of meaning: the seven metres, the seven seasons that come to be with the intercalary month included, or the seven hotṛs or ṛtviks.
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वोऽच्छा॑ रिरिचे देव॒युष्प॒दमेको॑ रु॒द्रेभि॑र्याति  ॒॑
+> तुर्वणिः ।  
+> ज॒रा वा॒ येषु॒मृते॑षु दा॒वने॒ परि॑ व॒ ऊमे॑भ्यः सिंचता॒  ॑
+> मधु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । अच्छ । रिरिचे । देवयुः । पदं । एकः । रुद्रेभिः । याति । तुर्वणिः ।  
+> जरा । वा । येषु । अमृतेषु । दावने । परि । वः । ऊमेभ्यः । सिंचत । मधु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमानाः देवयुर्देवान्कामयमानो होता वो युष्माकं
+> पदमच्छ स्थानं प्रति प्र रिरिचे । परिक्टोऽभूत् । अथ होतृभ्यः सकाशादेको
+> मुख्य इंद्रो रुद्रेभी रुद्रपुत्रैर्मरुद्भिः सह तुर्वणिः क्षिप्रगामि सन्याति । गच्छति
+> युष्मदीयं यज्ञं । जरा वा । वाशब्दोऽप्यर्थे । स्तुतिरपि येष्टमृतेषु मरणधर्मरहितेषु देवेषु दावने धनप्रदानाय समर्था भवति । तस्माद्वो यूयं ।
+> छांदसो वसादेशः ॥ ऊमेभ्यो रक्षितृभ्यो देवेभ्यो मधु मदकरः ।
+> सोममद्भिः परि षिंचत ॥
+
+##### Gist of the bhāṣya
+
+O sacrificers, the देवयुः (*devayuḥ*), the hotṛ who desires the gods, has gone out toward your place. Then from among the hotṛs the chief one, Indra, goes quickly, together with the Rudras, that is, the Maruts, the sons of Rudra, to your sacrifice. In जरा वा (*jarā vā*) the word meaning "or" is in the sense of "also": praise also becomes able to bestow wealth upon the gods who are free from death. Therefore you sprinkle the exhilarating Soma, mixed with waters, for the protecting gods.
+### Printed p. 837
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवयुः (*devayuḥ*)—the hotṛ who desires worship of the gods
+- वः (*vaḥ*)—your
+- पदं अच्छ (*padaṃ accha*)—toward the place of sacrifice
+- प्र रिरिचे (*pra ririce*)—comes exceedingly
+- एकं (*ekaṃ*)—Indra, the chief among the hotṛs
+- रुद्रेभिः (*rudrebhiḥ*)—together with the Maruts
+- तुर्वणिः (*turvaṇiḥ*)—quick-moving
+- याति (*yāti*)—comes
+- जरा वा (*jarā vā*)—praise also
+- येषु अमृतेषु (*yeṣu amṛteṣu*)—by joining which gods free from death
+- दावने (*dāvane*)—it becomes able to give wealth
+- ऊमेभ्यः (*ūmebhyaḥ*)—for those same protecting gods
+- मधु (*madhu*)—the tasty Soma
+- परि षिंचत (*pari ṣiṃcata*)—mix with waters
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, the hotṛ who desires worship of the gods comes exceedingly toward your place of sacrifice. Indra, the chief among the hotṛs, comes quickly together with the Maruts. For the sake of those same protecting gods, by joining whom free from death praise becomes able to give wealth, mix the tasty Soma with waters.
+
+##### English translation
+The devout (priest) excels (going) towards your place of worship : the quick-moving (Indra), the chief (of the priests), proceeds with the Rudras, (the Maruts); sprinkle the exhilarating (Soma with water) for the protecting (deities), the immortals amongst whom praise is (able) to procure wealth.
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒धी॒यमा॑न॒मप॑गूळ्हम॒प्सु प्र मे॑ दे॒वानां॑ व्रत॒पा उ॑वाच।  
+> इंद्रो॑ वि॒द्वा अनु॒ हित्वा॑ च॒चक्ष॒ तेना॒हम॑ग्ने॒ अनु॑शिष्ट॒  ॑
+> आगां ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निधीयमानं । अपगूळ्हं । अप्सु । प्र । मे । देवानां । व्रतपाः । उवाच ।  
+> इंद्रः । विद्वान् । अनु । त्वा । चचक्ष । तेन । अहं । अग्ने । अनुशिष्टः । आ । अगां ॥
+
 ---
 
-**Progress note:** Done through printed p. 830. Sūkta 31 Ṛk 8 end to Ṛk 11; Sūkta 32 intro, Ṛk 1
+**Progress note:** Done through printed p. 837. Mandala 10 Sukta 32 rks 2-6 (pp. 831-837)
