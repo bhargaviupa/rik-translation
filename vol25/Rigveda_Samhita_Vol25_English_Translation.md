@@ -15320,6 +15320,114 @@ O Indra, slayer of Vṛtra, or of sin: the word हि (*hi*) has the sense of c
 
 O Indra, slayer of the demon Vṛtra or remover of sin, you are the drinker of the Soma-juices that we have prepared for you. Therefore be pleased to come to us with your horses to drink that Soma-juice of ours.
 
+### Printed p. 392
+
+##### English translation
+Slayer of Vritra, you are the drinker of these Soma juices, come with your steeds to our effused libation.
+
+#### Ṛk 34
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्र॑ इ॒षे द॑दातु न ऋभु॒क्षण॑मृ॒भुं र॒यिम् ।  
+> वा॒जी द॑दातु वा॒जिन॑म् ॥ ३४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्रः । इषे । ददातु । नः । ऋभुक्षणम् । ऋभुम् । रयिम् ।  
+> वाजी । ददातु । वाजिनम् ॥ ३४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रः एवास्माभिः स्तुत इष्टः सन् ऋभुक्षणम् । ‘वा षपूर्वस्य' इति दीर्घाभावः । यागादिकर्मकरणेन महांतं सर्वेषां भ्रातॄणां श्रेष्ठं वा । अथवा तृतीयसवने प्रजापतिसवित्रोर्मध्ये सोमपातृत्वात् महांतम् । रयिं दातारम् ऋभुं सोमपानेनामर्त्यत्वं प्राप्तं तादृशमेतन्नामकं देवं नः अस्मभ्यम् इषे अन्नार्थं ददातु प्रयच्छतु । तथा वाजी बलवानिंद्रः वाजिनं बलवंतमन्नवंतं वा वाजनामानं कनीयांसं भ्रातरं च अस्माकमन्नलाभाय ददातु ॥ ॥ २७ ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+Indra himself, praised by us and pleased, is asked to give to us ऋभुक्षणम् (*ṛbhukṣaṇam*), who is great through the performance of sacrifices and the like, or the foremost of all the brothers; or else great because at the third pressing he is a drinker of Soma between Prajāpati and Savitṛ. रयिं (*rayiṃ*): the giver (of wealth), Ṛbhu, who attained immortality by drinking Soma, the god of this name; may Indra give him to us इषे (*iṣe*), for food. Likewise may Indra, वाजी (*vājī*), the mighty, give वाजिनं (*vājinaṃ*), the mighty or the one possessed of food, the younger brother named Vāja, for the gaining of food for us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra, thus praised by us
+- ऋभुक्षणं (*ṛbhukṣaṇaṃ*)—the great one, that is, the eldest of the three brothers Ṛbhu, Vibhu and Vāja
+- रयिं (*rayiṃ*)—the giver of wealth
+- ऋभुं (*ṛbhuṃ*)—the god named Ṛbhu
+- नः (*naḥ*)—to us
+- इषे (*iṣe*)—in order to provide food
+- ददातु (*dadātu*)—let him bring (and likewise)
+- वाजी (*vājī*)—Indra, who is possessed of strength
+- वाजिनं (*vājinaṃ*)—also the youngest brother named Vāja, possessed of food, for the gaining of food
+- ददातु (*dadātu*)—let him bring and give
+
+### Printed p. 393
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, thus praised by us, send to us the Ṛbhu among the Ṛbhus, that is, the eldest brother named Ṛbhu, the giver of wealth, of the three brothers Ṛbhu, Vibhu and Vāja, in order to provide us with food. Likewise may that same mighty Indra send the youngest brother named Vāja, for the gaining of our food.
+
+##### English translation
+May Indra bring to us the bounteous Ribhu Ribhukshana to partake of our sacrificial viands; may he, the mighty, bring the mighty (Vaja).
+
+##### विशेषविषयगळु (Special Topics)
+
+On the ninth day of the ten-day sacrifice called Vyūḷha, when the Vaiśvadeva recitations are recited, the two Ṛks इंद्र इषे ददातु नः (*iṃdra iṣe dadātu naḥ*) and ते नो रत्नानि धत्तने (*te no ratnāni dhattane*) in the Abhiplava triplet are to be added and recited as Ṛks with the Ṛbhus as deity; this is explained by the Sūtra of the Āśvalāyana Śrauta Sūtra इंद्र इषे ददातु नस्तेनो रत्नानि धत्तनेत्येका द्वे च (*iṃdra iṣe dadātu nasteno ratnāni dhattanetyekā dve ca*) (Ā. 8-11). **NOTE**
+We have given some explanations about the Ṛbhus here and there as occasion arose. Still it is necessary to give some more details about them here.
+
+**The description of the skill of the Ṛbhus**
+Their skill in the arts is praised in the words "When made by Tvaṣṭṛ, the Camasa vessel, which was one, you made it into four times as many," as said in the Ṛk
+उत त्वं चमुसं नवं त्वष्टुर्देवस्य निष्कृतं । अकर्त चतुरः पुनः । (*uta tvaṃ camusaṃ navaṃ tvaṣṭurdevasya niṣkṛtaṃ | akarta caturaḥ punaḥ |*)
+(Ṛ. Saṃ. 1-20-6)
+and as this same account is said later in the Ṛks
+ज्येष्ठ आह चमसा द्वा करेति कनीयान्त्रीन्कृणवानेत्याह । कनिष्ठ आह चतुरस्करेति त्वष्ट ऋभवस्तत्पनयद्वचो वः ॥ (*jyeṣṭha āha camasā dvā kareti kanīyāntrīnkṛṇavānetyāha | kaniṣṭha āha caturaskareti tvaṣṭa ṛbhavastatpanayadvaco vaḥ ‖*)
+(Ṛ. Saṃ. 4-33-5)
+and the like: the fact that, by their skill in the arts, they made the one vessel into four is well known. It is also said in the Bṛhaddevatā that in this work too they obtained this power by the instruction of Tvaṣṭṛ and that they were disciples of Tvaṣṭṛ.
+
+### Printed p. 394
+
+(Bṛ. De. 3-96 to 99)
+Formerly, the three sons of Sudhanvan, Ṛbhu, Vibhva and Vāja, became disciples of Tvaṣṭṛ. Tvaṣṭṛ, skilled in all the arts, taught them also all the arts. Then the Viśvedevas, who were expert in the arts, opposed them with hostility. Then they made weapons and vehicles for all the gods. After that they created the cow that gives immortality. For Bṛhaspati and the Aśvins they made chariots with three seats, for Indra horses, and for Agni, who was sent by the gods as messenger, what was stated, that is,
+किमु श्रेष्ठः किं यविष्ठो न आजगन्निमीयते दूत्यं १ कद्यमूचिम । न निंदिम चमसं यो महाकुलोऽग्ने भ्रातर्द्रुण इद्भूतिमूदिम ॥ एकं चमसं चतुरः कृणोतन तद्वो देवा अब्रवन्तद्व आगमं । सौधन्वना यद्येवा करिष्यथ साकं देवैर्यज्ञियासो भविष्यथ ॥ अग्निं दूतं प्रति यदब्रवीतनाश्वः कर्त्वो रथ उतेह कर्त्वः । धेनुः कर्त्वा युवशा कर्त्वा प्वा तानि भ्रातरनु वः कृत्व्येमसि ॥ (*kimu śreṣṭhaḥ kiṃ yaviṣṭho na ājagannimīyate dūtyaṃ 1 kadyamūcima | na niṃdima camasaṃ yo mahākulo 'gne bhrātardruṇa idbhūtimūdima ‖ ekaṃ camasaṃ caturaḥ kṛṇotana tadvo devā abravantadva āgamaṃ | saudhanvanā yadyevā kariṣyatha sākaṃ devairyajñiyāso bhaviṣyatha ‖ agniṃ dūtaṃ prati yadabravītanāśvaḥ kartvo ratha uteha kartvaḥ | dhenuḥ kartvā yuvaśā kartvā pvā tāni bhrātaranu vaḥ kṛtvyemasi ‖*)
+(Ṛ. Saṃ. 1-161-1 to 3)
+
+### Printed p. 395
+
+As described in these Ṛks, Agni went as the messenger of the gods to the sons of Sudhanvan and said that if they made the one Camasa vessel into four and helped the gods, they would then obtain with them the right to drink Soma. They replied that this was not the only task for them: whether the making of a horse, the making of a chariot, or the making of a cow, or making aged mothers and fathers young again, all this was possible for them, and that in the same way now also they would make for them all that was desired; and they made it for them. Since this matter is indicated here, they helped Agni by such skilful work. Then Tvaṣṭṛ, Savitṛ and Prajāpati, the god of gods, called all the gods and granted that immortality should be attained by the Ṛbhus. Then Indra too (who had rejected them before) drank Soma with them. This story is told in the Bṛhaddevatā.
+A story told in Sāyaṇa's bhāṣya is as follows. पुरा कस्य चिदृषेर्धेनुर्मृता। स सुषिक्तस्या धेनोर्वत्सं दृष्ट्वा ऋभुं तुष्टान ऋभवस्तत्स पृषीमन्यां धेनुं कृत्वा तदीयेन चर्मणा संवीय तेन वत्सेन समयोजयन्निति । (*purā kasya cidṛṣerdhenurmṛtā| sa suṣiktasyā dhenorvatsaṃ dṛṣṭvā ṛbhuṃ tuṣṭāna ṛbhavastatsa pṛṣīmanyāṃ dhenuṃ kṛtvā tadīyena carmaṇā saṃvīya tena vatsena samayojayanniti |*) Formerly the cow of a certain seer died. Out of pity for her small calf he prayed to the Ṛbhus to help it. Then the Ṛbhus created another cow, covered her with the hide of the dead cow and joined her with that calf. This is their greatness. According to the explanation of Skandasvāmin,
+ऋषेः कस्यचिदग्निहोत्रधेनुस्तरुणवत्सा ममार । तस्यां विकर्तितायां आरुवता वत्सेन उद्वेजितः ऋभून् स्वपितरौ वृद्धौ पुनर्युवानौ कुर्वतो पदर्श । तानुवाच । ममास्यग्निहोत्रधेनुं मृतां पुनर्जीवयतेति । तस्य स्वमाहात्म्येन तस्माच्चर्मणः तामेव गां अशेषावयवोपेतां चक्रुः इति । तदेतदिहोच्यते निश्चर्मण इति ॥ (*ṛṣeḥ kasyacidagnihotradhenustaruṇavatsā mamāra | tasyāṃ vikartitāyāṃ āruvatā vatsena udvejitaḥ ṛbhūn svapitarau vṛddhau punaryuvānau kurvato padarśa | tānuvāca | mamāsyagnihotradhenuṃ mṛtāṃ punarjīvayateti | tasya svamāhātmyena tasmāccarmaṇaḥ tāmeva gāṃ aśeṣāvayavopetāṃ cakruḥ iti | tadetadihocyate niścarmaṇa iti ‖*)
+The Agnihotra cow of a certain seer died, leaving her young calf. While she was being cut up, the seer, hearing the piteous cry of the young calf, remembered the Ṛbhus. They used to make their aged mother and father young again. Seeing that power of theirs, he asked that his dead Agnihotra cow also be brought to life. They made that dead cow, with the covering of that same cut hide, complete in all her limbs, and so brought that cow to life, it is said.
+
+**How the Ṛbhus received hospitality in Savitṛ's house**
+This story has been explained by Skandasvāmin in one way and by Sāyaṇa in another. In this connection,
+
+### Printed p. 396
+
+ऋभवो यज्ञियत्वं प्रार्थयमानाः प्रजापतेः सकाशमगमन् । अथ प्रजापतिः सवितारमाहूयावोचत्। एतेऽपि यज्ञिया भवंत्विति । कथेति सविता प्रतिपद्य तान् स्वगृहं नीत्वा द्वादश दिनान्यातिथ्यमेषामकार्षीदिति । तदेतद्वामदेवो वक्ष्यति । (*ṛbhavo yajñiyatvaṃ prārthayamānāḥ prajāpateḥ sakāśamagaman | atha prajāpatiḥ savitāramāhūyāvocat| ete 'pi yajñiyā bhavaṃtviti | katheti savitā pratipadya tān svagṛhaṃ nītvā dvādaśa dinānyātithyameṣāmakārṣīditi | tadetadvāmadevo vakṣyati |*)
+The Ṛbhus, wishing to obtain the right to take part in the sacrifice and to receive the oblation, went into the presence of Prajāpati. Then Prajāpati called Savitṛ and said: let these also be worthy of the sacrifice (help them in this). After that Savitṛ agreed, saying so be it, took them to his house and carried out the hospitality for them for twelve days. Thus Skandasvāmin tells the story briefly, and cites the Ṛk that points to this occasion,
+द्वादश द्यून्यदगोह्यस्यातिथ्ये रणन्नृभवः ससंतः । सुक्षेत्राकृण्वन्ननयंत सिंधून्धन्वातिष्ठन्नोषधीर्निम्नमापः ॥ (*dvādaśa dyūnyadagohyasyātithye raṇannṛbhavaḥ sasaṃtaḥ | sukṣetrākṛṇvannanayaṃta siṃdhūndhanvātiṣṭhannoṣadhīrnimnamāpaḥ ‖*)
+(Ṛ. Saṃ. 4-33-7)
+On this same occasion Sāyaṇa has indicated the part that tells the reason why the Ṛbhus came to Savitṛ's house.
+दाशुषः प्रातःसवनादिष्वग्न्यादिभिरपसारितेभ्य ऋभुभ्यः सोमपानं दत्तवतः सवितुः गृहं निवासस्थानं तृतीयसवनाख्यमागच्छत प्राप्ताः । (*dāśuṣaḥ prātaḥsavanādiṣvagnyādibhirapasāritebhya ṛbhubhyaḥ somapānaṃ dattavataḥ savituḥ gṛhaṃ nivāsasthānaṃ tṛtīyasavanākhyamāgacchata prāptāḥ |*)
+You, the Ṛbhus, who were rejected and sent out by Agni and the other gods at the morning pressing and the others, entered the sacrificial house, in the form of the third pressing, of Savitṛ, who gave you the drinking of Soma; with this he also states the rejection that came from Agni and the others. This matter is told fully in the Aitareya Brāhmaṇa.
+ऋभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिंद्रो रुद्रैर्माध्यंदिनात्सवनादनुदत तेभ्यस्तृतीयसवने वाचि कल्पयिषंस्तान्विश्वे देवा अनोनुद्यंत नेह पास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव वा इमे अंतेवास्त्वमेवैभिः संपिबस्वेति स तथेत्यब्रवीत्सविता तान्स्वैः त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् । (*ṛbhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātaḥsavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātaḥsavanādanudata tebhyo mādhyaṃdine savane vāci kalpayiṣaṃstāniṃdro rudrairmādhyaṃdinātsavanādanudata tebhyastṛtīyasavane vāci kalpayiṣaṃstānviśve devā anonudyaṃta neha pāsyaṃti neheti sa prajāpatirabravītsavitāraṃ tava vā ime aṃtevāstvamevaibhiḥ saṃpibasveti sa tathetyabravītsavitā tānsvaiḥ tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat |*)
+(Ai. Brā. 3-30)
+The Ṛbhus obtained the drinking of Soma among the gods by their austerity and by their excellent wish. First, when they wished to obtain it at the morning pressing, Agni, together with the Vasus
+
+### Printed p. 397
+
+joined and rejected them and drove them away. Then, when they wished to obtain it at the midday pressing, Indra, joined with the Rudras, drove them away. Again, when they wished to obtain it at the third pressing, the Viśvedevas rejected them there too with the harsh words, "You are surely not worthy to drink Soma here; you must not do so." Then Prajāpati said to Savitṛ, "These Ṛbhus are your pupils. Drink Soma with them." After that Savitṛ agreed. Prajāpati too drank the Soma-juice on both sides of them. In this way Sāyaṇa has told briefly the circumstance that is told at length in the Aitareya Brāhmaṇa.
+
+**Who are the Ṛbhus?**
+It is said in many places in the Ṛgveda that the Ṛbhus were formerly men and attained the state of gods by their excellent conduct and the performance of good works. Formerly the seer Aṅgiras had a son named Nītimañjarī. In his family the seer Sudhanvan had three sons, Ṛbhu, Vibhu and Vāja. It is traditionally held that by good works such as the performance of good deeds and helping the gods they obtained the birth of gods, or became gods. There is a custom of calling all three sons of Sudhanvan, Ṛbhu and the others, Ṛbhus. All three sons are called by the name of the eldest. Since they were disciples of Tvaṣṭṛ, they are also called the craftsmen of the gods. It is said here and there that they made the equipment needed by Indra and the other gods, that is, Indra's chariot and Agni's Camasa vessel. In this hymn there is a description of some works done by them. There are descriptions here and there that they have wonderful power and that they are capable of doing any kind of work. Since they have the same power and capacity as the gods, the seers, thinking of them as belonging to the company of the gods, have described them and the works done by them in many ways. It is traditionally held that they live in the orb of the sun and do their work through the rays of the sun.
+
+## Sūkta 94 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दशमेऽनुवाके दश सूक्तानि । तत्र ‘गौर्धयति' इति द्वादशर्चमाद्यं सूक्तमांगिरसस्य बिंदुनाम्नः पूतदक्षनाम्नो वार्षं गायत्रं मरुद्देवताकम् । तथा चानुक्रम्यते- ‘ गौर्धयति द्वादश बिंदुः पूतदक्षो वा मारुतम्' इति । सूक्तविनियोगो लैंगिकः । प्रातःसवने सोमातिरिक्त एकं शस्त्रमुपजायते । तत्राद्यस्तृचोऽनुरूपः । सूत्रितं च - ‘अस्ति सोमो अयं सुतो गौर्धयति मरुतामिति स्तोत्रियानुरूपौ' (आश्व. श्रौ. ६. ७) इति ॥
+
+##### Gist of the bhāṣya
+
+The tenth anuvāka has ten sūktas. Of these the first, गौर्धयति (*gaurdhayati*), of twelve Ṛks, is of the seer Bindu or Pūtadakṣa, of the family of Aṅgiras; its metre is Gāyatra and its deity the Maruts. As the Anukramaṇī says: गौर्धयति द्वादश बिंदुः पूतदक्षो वा मारुतम् (*gaurdhayati dvādaśa biṃduḥ pūtadakṣo vā mārutam*). The use of the sūkta is by the Liṅga (indicative sign). At the morning pressing, one recitation (śastra) additional to Soma is performed. In it the first triplet is the Anurūpa. And it is stated in the Sūtra: अस्ति सोमो अयं सुतो गौर्धयति मरुतामिति स्तोत्रियानुरूपौ (*asti somo ayaṃ suto gaurdhayati marutāmiti stotriyānurūpau*) (Āśv. Śrau. 6. 7). **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 391. Vol 25 Mandala 8 Sukta 93 rks 27 to 33
+**Progress note:** Done through printed p. 397. Vol 25 Mandala 8 Sukta 93 rk 33 end, rk 34, Ribhu notes, start of Sukta 94
