@@ -16753,6 +16753,211 @@ In former times, when Indra was fighting with the asura Vṛtra, the gods who we
 (Ai. Brā. 12-20) **NOTE**
 In former times Indra, intending to slay the asura Vṛtra, called all the gods to him and said: "O gods, I am now ready to slay the asura Vṛtra. All of you must be with me and help me." The gods agreed, "So be it", and came along with Indra. Vṛtra, seeing the gods coming, thought in his mind: "These gods are coming to kill me. I shall devise a means for this: I shall make my body grow large and frighten them." Accordingly he made his body extremely large. (Earlier, about Vṛtra's growing, it is said in the śruti sentence स इषुमात्रमिषुमात्रं विष्वज्ञ वर्धत स इमां-ल्लोकानवृणोद्यदिमांल्लोकानवृणोत्तद्वृत्रस्य वृत्रत्वं (*sa iṣumātramiṣumātraṃ viṣvajña vardhata sa imāṃ-llokānavṛṇodyadimāṃllokānavṛṇottadvṛtrasya vṛtratvaṃ*) that he grew each day as far as an arrow shot from a bow goes. That is, this asura, growing each day to the extent that an arrow shot from a bow travels, covered this whole world. Because he thus covered the whole world, this asura got the name Vṛtrāsura: so it was said earlier, on another occasion.) Then Vṛtra displayed his huge body and by his terrible breath made the gods afraid. The gods, seeing the colossal form of this asura and his terrible breath, which seemed to spew embers, were frightened and fled in various directions. At that time the air of Vṛtra's breath was as terrible as the wind at the time of dissolution that burns everything. Before this wind the gods looked like mere atoms. Though the gods thus fled in fear, the Maruts who were with Indra alone did not leave Indra but said: "O Indra, blessed lord, do not fear; with your vajra weapon
 
+### Printed p. 434
+
+smite and kill this asura, and make known to people your valour," and in many ways they encouraged him.
+
+तदेतदृषिः पश्यन्नभ्यसूवाच वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवाअजहुर्ये सखायः । मरुद्भिरिंद्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासीति ॥ (*tadetadṛṣiḥ paśyannabhyasūvāca vṛtrasya tvā śvasathādīṣamāṇā viśve devāajahurye sakhāyaḥ | marudbhiriṃdra sakhyaṃ te astvathemā viśvāḥ pṛtanā jayāsīti ‖*) (Ai. Brā. 12-20)
+
+The seer, knowing this matter by his divine vision, has stated that very thing in the present Ṛk: "O Indra, at the time of the slaying of Vṛtra all the gods who were with you saw Vṛtra's breath, became afraid and fled. But the Maruts, your friends, alone did not leave you. Therefore, O Indra, may your friendship with these Marut-gods be lasting. With their help you will be able to conquer many hostile armies." Thus the seer has praised Indra.
+
+सोऽवेदिमो वै किल मे सचिवा इमे मूकामयंत हंतेमानस्मिन्नुक्थे आभजा इति तानेतस्मिन्नुक्थे आभजदथैते तस्युर्भे एव निष्केवल्ये उक्थे असतुः । मरुत्वतीयं ग्रहं गृह्णाति मरुत्वतीयं प्रगाथं शंसति मरुत्वतीयं सूक्तं शंसति मरुत्वतीयां निविदं दधाति मरुतां सा भक्तिः ॥ (*so 'vedimo vai kila me sacivā ime mūkāmayaṃta haṃtemānasminnukthe ābhajā iti tānetasminnukthe ābhajadathaite tasyurbhe eva niṣkevalye ukthe asatuḥ | marutvatīyaṃ grahaṃ gṛhṇāti marutvatīyaṃ pragāthaṃ śaṃsati marutvatīyaṃ sūktaṃ śaṃsati marutvatīyāṃ nividaṃ dadhāti marutāṃ sā bhaktiḥ ‖*) (Ai. Brā. 12-20)
+
+Thereupon Indra thought in his mind thus: "These Maruts, not leaving me in the time of battle, stayed with me and helped me. Therefore they are friends who wish me well. I must do some favour for them." Thinking so, at the midday pressing, in the niṣkevalya śastra-mantras he allotted a share to the Marut-gods. Formerly, in the niṣkevalya śastra-mantras only Indra had a share; the Marut-gods had no share at all. Now, by Indra's grace, a share was allotted to Indra and to the Marut-gods. Therefore at that time the Adhvaryu takes up the Marutvatīya graha-cup (that is, sets it apart) for the Marut-gods; he sings the prāgātha addressed to the Marut-gods; he recites the sūkta addressed to them; and in the middle of the śastra-mantras he also inserts and recites the nivid-vyāsīya sūkta that has the Maruts as its deity. All this is the share that Indra allotted in the sacrifice to his friends, the Marut-gods.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रिः ष॒ष्टिस्त्वा॑ म॒रुतो॑ वावृधा॒ना उ॒स्रा इ॑व रा॒शयो॑ य॒ज्ञिया॑सः ।  
+> उप॒ त्वेमः॑ कृ॒धि नो॑ भाग॒धेयं॒ शुष्मं॑ त ए॒ना ह॒विषा॑ विधेम ॥ ८ ॥
+
+### Printed p. 435
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिः । षष्टिः । त्वा । मरुतः । ववृधानाः । उस्राःऽइव । राशयः । यज्ञियासः ।  
+> उप । त्वा । आ । इमः । कृधि । नः । भागऽधेयम् । शुष्मम् । ते । एना । हविषा । विधेम ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रसंगादेतावंतो मरुतः सहाया अभवन्नित्याह। हे इंद्र त्रिः त्रयः । जसः ‘सुपां सुलुक्' इति सुः । षष्टित्र्युत्तरसंख्याका मरुतः । ते च तैत्तिरीयके 'ईदृङ्चान्यादृङ्च' (तै. सं. ४. ६.५. ५) इत्यादिना नवसु गणेषु सप्त सप्त प्रतिपादिताः। तत्रादितः पंच गणाः संहितायामाम्नायंते । स्वतवांश्च प्रघासी च सांतपनश्च गृहमेधी च क्रीडी च शाकी चोज्जेषी ' ( वा. सं. १७. ८५) इति खैलिकः षष्ठो गणः । ततो ‘धुनिश्च ध्वांतश्च' (तै. आ. ४. २४) इत्याद्यास्त्रयोऽरण्येऽनुवाक्याः । इत्थं त्रयःषष्टिसंख्याकाः उस्राइव राशयः गाव इव संघीभूतास्ते त्वां वावृधानाः स्वबलेन वर्धितवंतः । ते मरुतः यज्ञियासः यज्ञार्हा अभवन् । तं मरुत्सहायमिंद्रं त्वा त्वां वयम् एमः उपगच्छामः । ततस्त्वं नः अस्मभ्यं भागधेयं भजनीयं धनं कृधि कुरु । पश्चाद्वयमपि एना एनेन सोमलक्षणेन हविषा ते तुभ्यं शुष्मं शत्रूणां शोषकं बलं विधेम । ‘विध विधाने'। विदध्म । कुर्म इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Incidentally Sāyaṇa states that so many Maruts were helpers. "O Indra," he says, the words *trih* and *ṣaṣṭi* mean three plus sixty: the Maruts are sixty-three in number. In the Taittirīya they are taught in nine gaṇas of seven each, beginning with ईदृङ्चान्यादृङ्च (*īdṛṅcānyādṛṅca*) (Tai. Saṃ. 4. 6.5. 5). Of these the first five gaṇas are recited in the Saṃhitā. The sixth, the Khailika gaṇa, is स्वतवांश्च प्रघासी च सांतपनश्च गृहमेधी च क्रीडी च शाकी चोज्जेषी (*svatavāṃśca praghāsī ca sāṃtapanaśca gṛhamedhī ca krīḍī ca śākī cojjeṣī*) (Vā. Saṃ. 17. 85). Then the three anuvākyas in the Āraṇyaka beginning with धुनिश्च ध्वांतश्च (*dhuniśca dhvāṃtaśca*) (Tai. Ā. 4. 24) complete the count. Thus the sixty-three, gathered together like cows, increased you by their own strength, and those Maruts became worthy of sacrifice. We, with you who have the Maruts as helpers, approach you; therefore make for us a portion, wealth that may be shared. Afterwards we too, with this offering in the form of Soma, will bring you strength, which dries up enemies. *Vidhema* means "we shall do".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रिः षष्टिः (*triḥ ṣaṣṭiḥ*)—(O Indra) sixty-three in number
+- मरुतः (*marutaḥ*)—the Maruts
+- राशयः उस्रा इव (*rāśayaḥ usrā iva*)—like herds of cows gathered together
+- त्वा (*tvā*)—surrounding you
+- वावृधानाः (*vāvṛdhānāḥ*)—nourishing you
+- यज्ञियासः (*yajñiyāsaḥ*)—became worthy of sacrifice
+- त्वा (*tvā*)—you
+- उपेमः (*upemaḥ*)—we also approach
+- नः (*naḥ*)—for us
+- भागधेयं (*bhāgadheyaṃ*)—venerable wealth
+- कृधि (*kṛdhi*)—produce
+- एना हविषा (*enā haviṣā*)—with this offering in the form of Soma
+- ते (*te*)—to you
+- शुष्मं (*śuṣmaṃ*)—strength
+- विधेम (*vidhema*)—we produce
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the Maruts, sixty-three in number, like herds of cows gathered together, surrounded you, nourished you, and became worthy of sacrifice. We too approach you. Produce for us venerable wealth. With the offering in the form of Soma we produce strength for you.
+
+### Printed p. 436
+
+##### English translation
+These sixty-three Maruts were worthy of sacrifice, nourishing your vigour like cows gathered together ; we come to you grant us our portion ; so will we produce strength in you by this offering.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this Ṛk the number of the Marut-gods is stated as त्रिः षष्टिः (*triḥ ṣaṣṭiḥ*), sixty-three. Ordinarily in other places it is said सप्तगणा वै मरुतः (*saptagaṇā vai marutaḥ*): that there are seven groups among the Marut-gods, that in each group there are seven Maruts, and that their total number is 7×7=49, forty-nine. But in the present Ṛk the groups of the Marut-gods are stated to be nine in all, with seven in each group, so that their number is 63. The commentator has given the support of the Śruti passages for this. In the Taittirīya Saṃhitā passage ईवृंचान्यादृंच (*īvṛṃcānyādṛṃca*) (Tai. Saṃ. 4-6-5-5) the Maruts are stated as 63. **NOTE** And in the Vājasaneyi Saṃhitā the names of these groups of Marut-gods are also given: the names of seven groups are stated as स्वतेवान् (*svatevān*), प्रघासी (*praghāsī*), सांपतनः (*sāṃpatanaḥ*), गृहमेधी (*gṛhamedhī*), क्रीडी (*krīḍī*), शाकी (*śākī*), उज्जेषी (*ujjeṣī*). **NOTE** In the Taittirīya Āraṇyaka the names of two more groups are recited: धुनी (*dhunī*), ध्यांतः (*dhyāṃtaḥ*). **NOTE** Therefore, with seven each in the nine groups in all, 9×7=63, the total number of Maruts is 63: so the seer has said in this Ṛk.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒ग्ममायु॑धं म॒रुता॒मनी॑कं॒ कस्त॑ इंद्र॒ प्रति॒ वज्रं॑ दधर्ष ।  
+> अ॒ना॒यु॒धासो॒ असु॑रा अदे॒वाश्च॒क्रेण॒ ताँ अप॑ वप ऋजीषिन् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिग्मम् । आयुधम् । मरुताम् । अनीकम् । कः । ते । इंद्र । प्रति । वज्रम् । दधर्ष ।  
+> अनायुधासः । असुराः । अदेवाः । चक्रेण । तान् । अप । वप । ऋजीषिन् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव स्वभूतं तिग्मं तीक्ष्णम् आयुधम् । आयुध्यतेऽनेनेत्यायुधं धनुः । तत्र मरुतां त्रयःषष्टिसंख्याकानां त्वत्सहायानाम् अनीकं संघं च त्वदीयं वज्रं च कः को वा देवो मनुष्यो वा प्रति दधर्ष प्रतिकूलमभिभवति । अभिभावुको नास्तीत्यर्थः ।  ‘ धृष प्रसहने । आ धृषाद्वा' इति विभाषितणिच् । तदभावे लिटि रूपम् । अत एव अनायुधासः धनुराद्यायुधवर्जिताः अदेवाः देववर्जिता देवद्विषो ये असुराः संति हे ऋजीषिन् । अपार्जितोऽभिषुतः सोम ऋजीषः । तद्वन्निंद्र तान् असुरान् चक्रेण चक्रसमानवीर्येण चक्ररूपेण वज्रेण वा अप वप अपगतान् कुरु । अपनुदेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O Indra, your own sharp weapon" is the *āyudha*, that by which one fights, namely the bow. Of it, and of the host of the sixty-three Maruts who are your helpers, and of your vajra, who, whether god or man, can withstand it, that is, overcome it when it opposes? There is no one who overcomes. For this very reason, those asuras who are weaponless, without bow and other weapons, and "without gods," that is, abandoned by the gods and hostile to the gods: O *ṛjīṣin* (the Soma that has been pressed and drained is *ṛjīṣa*; Indra possesses it), drive these asuras away with the discus, that is, with might like a discus or with the vajra in the form of a discus; make them go away, push them off. The remaining part of the block is the grammar of *dadharṣa*, which the Grammar section carries.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषिन् (*ṛjīṣin*)—O one who has the Soma called Ṛjīṣa
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- तिग्मं (*tigmaṃ*)—sharp
+- आयुधं (*āyudhaṃ*)—bow
+- मरुतां (*marutāṃ*)—of the Maruts, your helpers
+- अनीकं (*anīkaṃ*)—the host
+- वज्रं (*vajraṃ*)—your vajra weapon
+- कः (*kaḥ*)—who indeed
+- प्रति दधर्ष (*prati dadharṣa*)—can withstand?
+- अनायुधासः (*anāyudhāsaḥ*)—weaponless
+- अदेवाः (*adevāḥ*)—and abandoned by the gods
+- असुराः (*asurāḥ*)—whatever asuras there are
+- तान् (*tān*)—all of them
+- चक्रेण (*cakreṇa*)—with your vajra weapon in the form of a discus
+- अप वप (*apa vapa*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who love the Soma called Ṛjīṣa, who can withstand your sharp bow, the host of the Maruts who are your helpers, and your vajra weapon? Whatever asuras there are, weaponless and abandoned by the gods, drive all of them far away with your vajra weapon in the form of a discus.
+
+### Printed p. 437
+
+##### English translation
+Your sharp bow, the host of Maruts, and your thunderbolt who, Indra, has ever withstood ? The Asuras are weaponless and abandoned by the gods, drive them away by your discus, O Rijishin.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ह उ॒ग्राय॑ त॒वसे॑ सुवृ॒क्तिं प्रेर॑य शि॒वत॑माय प॒श्वः ।  
+> गिर्वा॑हसे॒ गिर॒ इंद्रा॑य पू॒र्वीर्धे॒हि त॒न्वे॑ कु॒विदं॒ग वेद॑त् ॥ १० ॥
+
+### Printed p. 438
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महे । उग्राय । तवसे । सुऽवृक्तिम् । प्र । ईरय । शिवऽतमाय । पश्वः ।  
+> गिर्वाहसे । गिरः । इंद्राय । पूर्वीः । धेहि । तन्वे । कुवित् । अंग । वेदत् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः महे महते गुणैः उग्राय बलेनोद्गूर्णाय तवसे । तु इति धातुर्वृद्ध्यर्थः । प्रवृद्धाय शिवतमाय कल्याणतमायेंद्राय सुवृक्तिं शोभनां स्तुतिं प्रेरय चोदय । कुरु। किमर्थम् ।पश्वः पशोः। द्विपाच्चतुष्पाच्च । पशोर्ममास्मदीयाय गवे वा । यद्वा पशोरतींद्रियार्थं द्रष्टुर्मम धनादिकं दातुं गवे सुखादिकं प्रदातुमिंद्राय स्तुतिं प्रेरय । एतदेवाह । हे स्तोतः गिर्वाहसे गीर्भिः स्तुतिभिरुह्यमानाय इंद्राय पूर्वीः बह्वीः गिरः स्तुतीः धेहि कुरु । ततः स इंद्रः तन्वे । तनोति कुलमिति तनूस्तनयः । तस्मै पुत्राय स्वशरीरयात्मने वा कुवित् । बहुनामैतत् । बहु धनम् अंग क्षिप्रं वेदत् लंभयतु ददातु ।' विद्लृ लाभे ' । लेट्यडागमः । कुविच्छब्दयोगादनिघातः ॥ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+"O praiser, to Indra, great in qualities, fierce, swollen with strength, *tavas* (the root *tu* has the sense of growth), that is, grown mighty, most auspicious, send forth a fine praise." For what purpose? "For my *paśu*": *paśu* is a biped or quadruped, so for my cattle or for my cow. Or else: to the seer of the supersensuous, to give me wealth and the like, and to give happiness and the like to the cow, send forth praise to Indra. He says this very thing: "O praiser, to Indra who is borne by praises (*girvāhas*), offer many praises." Then that Indra, to *tanū* (one who extends the family, a son), that is, to a son, or to the self, to his own body, much (*kuvit* is one of the many-words) wealth, quickly (*aṅga*), may he cause to be obtained, may he give. The remainder of the block gives the grammar of *vedat* and the accent rule connected with *kuvit*, which the Grammar section carries. The closing mark of the block is the end of the thirty-third varga.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—to the one endowed with great qualities
+- उग्राय (*ugrāya*)—to the one of exceedingly great strength
+- तवसे (*tavase*)—to the very mighty one
+- शिवतमाय (*śivatamāya*)—to Indra, of most auspicious nature (addressing the praiser)
+- पश्वः (*paśvaḥ*)—so that he may resolve to give cattle
+- सुवृक्तिं (*suvṛktiṃ*)—an excellent praise
+- प्रेरय (*preraya*)—compose and offer
+- गिर्वाहसे (*girvāhase*)—to one borne by praises
+- इद्रायु (*idrāyu*)—to Indra
+- पूर्वीः (*pūrvīḥ*)—numerous
+- गिरः (*giraḥ*)—praises
+- धेहि (*dhehi*)—compose and offer
+- तन्वे (*tanve*)—to me
+- कुवित् (*kuvit*)—exceedingly great wealth
+- अंग (*aṃga*)—quickly
+- वेदत् (*vedat*)—may that Indra give me
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, to Indra who is endowed with great qualities, of exceedingly great strength, very mighty and of auspicious nature, compose and offer an excellent praise so that he may resolve to give me cattle. To Indra, who is borne by praises, offer numerous praises. As a result of that, may Indra quickly give me exceedingly great wealth.
+
+##### English translation
+Send forth an excellent·hymn to great (Indra), the strong, mighty, and most fortunate, (that he may prosper) my cattle ; utter many praises to Indra who is borne by praise, may he speedily give much wealth to me
+
+### Printed p. 439
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒क्थवा॑हसे वि॒भ्वे॑ मनी॒षां द्रुणा॒ न पा॒रमी॑रया न॒दीना॑म् ।  
+> नि स्पृ॑श धि॒या त॒न्वि॑ श्रु॒तस्य॒ जुष्ट॑तरस्य कु॒विदं॒ग वेद॑त् ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उक्थऽवाहसे । विऽभ्वे । मनीषाम् । द्रुणा । न । पारम् । ईरय । नदीनाम् ।  
+> नि । स्पृश । धिया । तन्वि । श्रुतस्य । जुष्टऽतरस्य । कुवित् । अंग । वेदत् ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे स्तोतः उक्थवाहसे उक्थैः स्तोत्रशस्त्रादिभिरुह्यमानाय अत एव विभ्वे महते यद्वा शत्रूणामभिभवित्र इंद्रायेंद्रार्थं मनीषां मनस ईषां स्तुतिम् ईरय प्रेरय । तत्र दृष्टांतः । द्रुणा न यथा नाविकः नदीनां नदमानानां सरितां पारं तीरं प्रति पथिकं द्रुणा नावा प्रापयति तद्वदिंद्रं प्रति स्तुतिं गमयेति । किंच नि स्पृश नितरां धनं स्पर्शय गमय तन्वि आत्मनि पुत्रे वा । कीदृशम् । श्रुतस्य सर्वत्र विश्रुतस्य प्रसिद्धस्य जुष्टतरस्य अत्यर्थं प्रीणयितुरिंद्रस्य स्वभूतम् । धनं धिया त्वदीयया स्तुत्या कर्मणा वात्मानं गमय । ततस्त्वयाभिष्टुत इंद्रः कुवित् बहु धनं क्षिप्रं वेदत् लंभयतु ददातु ॥
+
+##### Gist of the bhāṣya
+
+"O praiser, to Indra who is borne by *ukthas*, that is, by stotras and śastras and the like, and therefore *vibhu*, great, or else the overcomer of enemies, send forth *manīṣā*, praise (*manas* plus *īṣā*)." An illustration: as a boatman (*druṇā*) by boat makes a traveller reach the far bank of roaring rivers, so make your praise reach Indra. Further: "cause wealth to touch, to reach, *tanvi*, the self or a son." Of what kind? The wealth belonging to Indra, the far-famed, renowned, most pleasing (*juṣṭatara*, one who gratifies exceedingly): make yourself reach that wealth by your praise or by your rite. Then Indra, praised by you, quickly gives much wealth, may he cause it to be obtained, may he give.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- द्रुणा (*druṇā*)—(O praiser) the boatman with his boat
+- नदीनां (*nadīnāṃ*)—of rivers
+- पारं न (*pāraṃ na*)—as he makes a traveller reach the bank
+- उक्थवाहसे (*ukthavāhase*)—to the one borne by śastras and the like
+- विभ्वे (*vibhve*)—to Indra, of great form
+- मनीषां (*manīṣāṃ*)—an excellent praise
+- ईरय (*īraya*)—send forth and offer
+- श्रुतस्य (*śrutasya*)—of the renowned
+- जुष्टतरस्य (*juṣṭatarasya*)—of Indra, the one who gives pleasure, his wealth
+- तन्वे (*tanve*)—to me
+- निस्पृश (*nispṛśa*)—cause to come and reach
+- धिया (*dhiyā*)—Indra, pleased by praise
+- कुवित् (*kuvit*)—exceedingly great wealth
+- अंग (*aṃga*)—quickly
+- वेदत् (*vedat*)—may provide for me
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, in the manner in which a boatman with his boat makes travellers go and reach the bank of rivers, to Indra, who is borne by śastras and the like and is of great form, an excellent
+
 ---
 
-**Progress note:** Done through printed p. 433. Mandala 8 sukta 96 Rks 4-7, start of Special Topics on Vrtra
+**Progress note:** Done through printed p. 439. Mandala 8 sukta 96 rks 8-11, Marut share, 63 Maruts
