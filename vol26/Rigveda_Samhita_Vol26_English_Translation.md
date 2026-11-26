@@ -32377,6 +32377,263 @@ When the fingers of the sacrificer impel the green-coloured Soma to go towards t
 ##### English translation
 Consecrated at the end of the night (the Soma) plunges into the viands, when the fingers of the worshipper press out the green-tinted (juice) to go (to the vessels).
 
+### Printed p. 880
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तम॑स्य मर्जयामसि॒ मदो॒ य इं॑द्र॒पात॑मः ।  
+> यं गाव॑ आ॒सभि॑र्द॒धुः पु॒रा नू॒नं च॑ सू॒रयः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । अस्य । मर्जयामसि । मदः । यः । इंद्रऽपातमः ।  
+> यम् । गावः । आसऽभिः । दधुः । पुरा । नूनम् । च । सूरयः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य सोमस्य तं रसं मर्जयामसि मर्जयामः शोधयामः । अलंकुर्मो वा। यः मदः मदको रसः इंद्रपातमः इंद्रेणात्यंतं पातव्यो भवति । किंच गावः गंतारः सूरयः स्तोतारः पुरा च नूनम् इदानीं च यं सोमरसम् आसभिः आस्यैः दधुः धारयंति । पिबंतीति यावत् । यद्वा । गावो धेनवो यं सोमं तृणादिष्ववस्थितमासभिरास्यैर्दधुर्धारयंति तृणरूपेण भक्षयंति ॥
+
+##### Gist of the bhāṣya
+
+We purify, or else adorn, that juice of this Soma, the exhilarating juice that is most to be drunk by Indra. Further, the going praisers, now and of old, hold with their mouths, that is, drink, the Soma juice. Or else: the cows, the milch cows, hold with their mouths that Soma, which stands in grass and the like, that is, they eat it in the form of grass.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma juice
+- मदः (*madaḥ*)—is exhilarating
+- इंद्रपातमः (*iṃdrapātamaḥ*)—and is fit for Indra's drinking
+- अस्य तं (*asya taṃ*)—that juice of this Soma
+- मर्जयोमुसि (*marjayomusi*)**NOTE**—we purify and adorn
+- यं (*yaṃ*)—which same Soma juice
+- गावः (*gāvaḥ*)—devoted to worship
+- सूरयः (*sūrayaḥ*)—the praisers
+- पुरा (*purā*)—of old
+- नूनं (*nūnaṃ*)—and now
+- आसभिः (*āsabhiḥ*)—with their mouths
+- दॆधुः (*dèdhuḥ*)**NOTE**—hold (drink)
+
+##### भावार्थ (Bhāvārtha)
+
+We purify and adorn the Soma juice that is exhilarating and fit for Indra's drinking. The praisers devoted to worship drink this renowned Soma juice now, as they drank it of old.
+
+##### English translation
+We purify the juice of that Soma which is exhilarating and fit for Indra's drinking ; which the approaching worshippers both now and of old take up in their mouths.
+### Printed p. 881
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं गाथ॑या पुरा॒ण्या पु॑ना॒नम॒भ्य॑नूषत ।  
+> उ॒तो कृ॑पंत धी॒तयो॑ दे॒वानां॒ नाम॒ बिभ्र॑तीः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । गाथया । पुराण्या । पुनानम् । अभि । अनूषत ।  
+> उतो इति । कृपंत । धीतयः । देवानाम् । नाम । बिभ्रतीः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनानं पूयमानं तं सोमं पुराण्या पुरा कृतया गाथया स्तुत्या अभ्यनूषत स्तोतारः अभिष्टुवंति । 'नू स्तवने'। लुङि रूपम् । उतो अपि च नाम कर्मार्थं नमनं बिभ्रतीः बिभ्राणाः धीतयः अंगुलयः देवानां सोमरूपहविष्प्रदानाय कृपंत कल्पयंति समर्था भवंति । ‘ कृपू सामर्थ्ये ' ॥
+
+##### Gist of the bhāṣya
+
+The praisers praise that Soma, who is being purified, with an ancient gāthā, a praise made long ago; the form is the aorist of the root meaning to praise. Further, the fingers, bearing the bending for the rite, become able, that is, fit, to offer to the gods the oblation in the form of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुनानं (*punānaṃ*)—who has attained purity
+- तं (*taṃ*)—that Soma
+- पुराण्या (*purāṇyā*)—made of old
+- गाथया (*gāthayā*)—with a praise
+- अभ्यनूषत (*abhyanūṣata*)—the praisers extol
+- उतो (*uto*)—and
+- नाम बिभ्रतीः (*nāma bibhratīḥ*)—possessing a grip fit for pressing
+- धीतयः (*dhītayaḥ*)—the fingers
+- देवानां (*devānāṃ*)—for the gods, to press out the juice
+- कृपंत (*kṛpaṃta*)—become able
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers extol the purified Soma with a praise made of old. And the fingers, possessing a grip fit for pressing, become able to press out the juice for the gods.
+
+##### English translation
+They celebrate the purified Soma juice with an ancient hymn of praise, and the fingers exercising their pressure are able (to prepare the oblation) for the gods.
+### Printed p. 882
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमु॒क्षमा॑णम॒व्यये॒ वारे॑ पुनंति धर्ण॒सिम् ।  
+> दू॒तं न पू॒र्वचि॑त्तय॒ आ शा॑सते मनी॒षिणः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । उक्षमाणम् । अव्यये । वारे । पुनंति । धर्णसिम् ।  
+> दूतम् । न । पूर्वऽचित्तये । आ । शासते । मनीषिणः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उक्षमाणम् अद्भिः सिच्यमानं धर्णसिं सर्वस्य धारकं तं सोमम् अव्यये अविमये वारे वाले पवित्रे पुनंति शोधयंति । ततः मनीषिणः मेधाविनो यजमानाः तमिमं सोमं दूतं न दूतमिव पूर्वचित्तये देवानां पूर्वमेव प्रज्ञापनाय आ शासते प्रार्थयंते ॥ ॥ २५ ॥
+
+##### Gist of the bhāṣya
+
+That Soma, sprinkled with waters, the supporter of all, they purify in the woollen filter made of sheep's wool. Then the wise sacrificers pray to this Soma, as to a messenger, to make known to the gods beforehand, that is, in advance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उक्षमाणं (*ukṣamāṇaṃ*)—who is mixed with waters
+- धर्णसिं (*dharṇasiṃ*)—and supports everything
+- तं (*taṃ*)—that Soma
+- अव्यये वारे (*avyaye vāre*)—in the threads of the ten-fringed filter (in the filter that is like a net)
+- पुनंति (*punaṃti*)—they purify
+- मनीषिणः (*manīṣiṇaḥ*)—the wise sacrificers
+- दूतं न (*dūtaṃ na*)—as one speaks to a messenger
+- पूर्वचित्त्ये (*pūrvacittye*)—so as to make known his worship to the gods beforehand
+- आ शासते (*ā śāsate*)—they pray
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma, who is mixed with waters and supports everything, they purify**NOTE** with the threads of the ten-fringed filter, twisted like a net. The wise sacrificers pray, as one speaks to a messenger, that their worship be made known to the gods beforehand.
+
+##### English translation
+Him sprinkled (with water) the supporter (of all things) they purify in the woollen filter ; the 'wise (worshippers) instruct him as a messenger to proclaim (their prayers) beforehand (to the gods).
+### Printed p. 883
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स पु॑ना॒नो म॒दिंत॑मः॒ सोम॑श्च॒मूषु॑ सीदति ।  
+> प॒शौ न रेत॑ आ॒दध॒त्पति॑र्वचस्यते धि॒यः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पुनानः । मदिन्ऽतमः । सोमः । चमूषु । सीदति ।  
+> पशौ । न । रेतः । आऽदधत् । पतिः । वचस्यते । धियः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदिंतमः अत्यंतं मादयिता सः सोमः पुनानः पूयमानः सन् चमूषु चमसेषु सीदति । ततः पशौ न यथा पशौ कश्चिद्वृषभो रेत आदधाति तद्वंचमसादिषु रेतः स्वीयं रसम् आदधत् आदधानः धियः कर्मणः पतिः पालयितायं सोमः वचस्यते अभिष्टूयते ॥
+
+##### Gist of the bhāṣya
+
+That most exhilarating Soma, being purified, sits in the cups. Then, as a bull places seed in a cow, so, placing his own juice, his seed, in the cups and the like, this Soma, the lord and protector of the rite, is praised.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतमः (*madiṃtamaḥ*)—most exhilarating
+- सः सोमः (*saḥ somaḥ*)—the god Soma
+- पुनानः (*punānaḥ*)—having attained purity
+- चमूषु (*camūṣu*)—in the cup-vessels
+- सीदति (*sīdati*)—is seated
+- पशौ न (*paśau na*)—as a bull places seed in a cow
+- धियः पतिः (*dhiyaḥ patiḥ*)—Soma, the protector of the rite
+- रेतः (*retaḥ*)—his own juice
+- अदॆधत् (*adèdhat*)**NOTE**—placing in the vessel
+- वचस्यते (*vacasyate*)—is praised
+
+##### भावार्थ (Bhāvārtha)
+
+The most exhilarating god Soma, having attained purity, is seated in the cup-vessels. As a bull places seed in a cow, Soma, the protector of the rite, placing his own juice in the vessel, is praised.
+
+##### English translation
+The most exhilarating Soma, being purified, alights on the vessels ; putting his seed (in the vessels) as in a heifer, the protector of the rite is worshipped.
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स मृ॑ज्यते सु॒कर्म॑भिर्दे॒वो दे॒वेभ्यः॑ सु॒तः ।  
+> वि॒दे यदा॑सु संद॒दिर्म॒हीर॒पो वि गा॑हते ॥ ७ ॥
+
+### Printed p. 884
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मृज्यते । सुकर्मऽभिः । देवः । देवेभ्यः । सुतः ।  
+> विदे । यत् । आसु । सम्ऽददिः । महीः । अपः । वि । गाहते ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवेभ्यः देवार्थं सुतः अभिषुतः देवः द्योतमानः स्तोतव्यो वा सः सोमः सुकर्मभिः ऋत्विग्भिः मृज्यते परिपूयते । यत् यदायं सोमः आसु प्रजासु संददिः सम्यग्धनदानशील इति विदे ज्ञायते तदानीं महीः महतीः अपः वसतीवरीः वि गाहते विशेषेणाभिगच्छति । यदा सोममभिषुण्वंति तदा तेभ्यो धनं प्रयच्छतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+That Soma, pressed for the gods, shining or to be praised, is cleansed, that is, purified all round, by the priests of good works. When this Soma is known among these people as one of generous giving of wealth, then he enters the great waters, the vasatīvarī waters, in particular. The meaning is that when they press Soma, he then gives them wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवेभ्यः (*devebhyaḥ*)—for the gods
+- सुतः (*sutaḥ*)—pressed
+- देवः (*devaḥ*)—and shining
+- सः (*saḥ*)—that god Soma
+- सुकर्मभिः (*sukarmabhiḥ*)—by priests of good works
+- मृज्यते (*mṛjyate*)—is cleansed
+- यत् (*yat*)—when
+- असु (*asu*)**NOTE**—among these people
+- संददिः (*saṃdadiḥ*)—as a generous giver**NOTE**
+- विदे (*vide*)—he is known, then
+- महीः (*mahīḥ*)—the great
+- आपः (*āpaḥ*)**NOTE**—the vasatīvarī waters**NOTE**
+- वि गाहते (*vi gāhate*)—he enters
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, pressed for the gods and shining, is cleansed by the priests of good works. When he is known among these people as a generous giver**NOTE**, then he enters the great vasatīvarī waters**NOTE**.
+
+##### English translation
+Effused for the gods, the God Soma is cleansed by the skilful priests); when he is recognized amongst these (people) as the giver (of riches), he plunges into the mighty waters-
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒त इं॑दो प॒वित्र॒ आ नृभि॑र्य॒तो वि नी॑यसे ।  
+> इंद्रा॑य मत्स॒रिंत॑मश्च॒मूष्वा नि षी॑दसि ॥ ८ ॥
+
+### Printed p. 885
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुतः । इंदो इति । पवित्रे । आ । नृऽभिः । यतः । वि । नीयसे ।  
+> इंद्राय । मत्सरिन्ऽतमः । चमूषु । आ । नि । सीदसि ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सुतः अभिषुतः यतः आयतः सर्वतो विस्तृतस्त्वं नृभिः कर्मनेतृभिर्ऋत्विग्भिः पवित्रे वि नीयसे विशेषेण नीयमानो भवसि । ततः मत्सरिंतमः अतिशयेन मादयिता त्वम् इंद्राय इंद्रार्थं चमूषु चमसेषु आ नि षीदसि ॥ ॥ २६ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, you, pressed and spread out on all sides, are specially led into the filter by the priests, the leaders of the rite. Then, most exhilarating, you sit in the cups for the sake of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine**NOTE** Soma
+- सुतः (*sutaḥ*)—pressed
+- यतः (*yataḥ*)—you who spread out widely**NOTE**
+- नृभिः (*nṛbhiḥ*)—by the priests
+- पवित्रे (*pavitre*)—in the ten-fringed filter
+- आ वि नीयसे (*ā vi nīyase*)—you are brought together
+- मत्सरिस्तमः (*matsaristamaḥ*)**NOTE**—you who are most exhilarating
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- चमूषु (*camūṣu*)—in the cup-vessels**NOTE**
+- आ नि षीदसि (*ā ni ṣīdasi*)—you take your place
+
+##### भावार्थ (Bhāvārtha)
+
+O divine**NOTE** Soma, you who, pressed, spread out widely**NOTE**, are brought together by the priests in the ten-fringed filter. You, most exhilarating, take your place for the sake of Indra in the cup-vessels**NOTE**. (You join**NOTE**)
+
+##### English translation
+When effused, Indu, and collected by the priests, yon are guided to the filter ; you alight on the cups for Indra, exciting exceeding exhilaration.
+## Sūkta 100 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अभी नवंते' इति नवर्चं चतुर्थं सूक्तम् । पूर्ववदृषिदेवते । सर्वा अनुष्टुभः । तथा चानुक्रम्यते’ अभी नवंते नव' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अभी नवंते (*abhī navaṃte*) has nine Ṛks and is the fourth sūkta. The seer and deity are as before. All the Ṛks are in anuṣṭubh. The Anukramaṇī says accordingly: अभी नवंते नव (*abhī navaṃte nava*). The use in the ritual has been stated.
+This sūkta, अभी नवंते (*abhī navaṃte*), is the fourth sūkta in the sixth anuvāka. It has nine Ṛks. The seer, deity and metre of this sūkta are all as in the preceding sūkta. All the Ṛks of the sūkta are in the anuṣṭubh metre**NOTE**. In the Anukramaṇī it is said अभी नवंते नव (*abhī navaṃte nava*). The use in the ritual has been stated earlier.
+
 ---
 
-**Progress note:** Done through printed p. 879. Mandala 9 sukta 98 Rk 9-12, sukta 99 Rk 1-2 (pp. 874-879)
+**Progress note:** Done through printed p. 885. Mandala 9 sukta 99 Rk 3-8, sukta 100 intro (pp. 880-885)
