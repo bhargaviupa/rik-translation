@@ -25277,6 +25277,163 @@ in this Ṛk too the word ऋषिमानाः (*ṛṣimānāḥ*) has been
 
 सुमेधाः (*sumedhāḥ*): of good wisdom; गातुवित् (*gātuvit*): the knower of the path; or else, the gātus are the praisers, and he causes them to obtain wealth; विश्वदेवः (*viśvadevaḥ*): attended by all the gods; or else, deva is devana, light: possessed of pervading light. Such a Soma, being purified, goes forth continually to the imperishable सदः (*sadaḥ*), place, the Droṇakalaśa. Then among all the काव्येषु (*kāvyeṣu*), the works of poets, the hymns, he becomes delighted. Likewise, being धीरः (*dhīraḥ*), wise, he strives to follow the पंच जनान् (*paṃca janān*), the four classes together with the Niṣādas as the fifth; the meaning is that he goes after them.
 
+### Printed p. 665
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुमेधाः (*sumedhāḥ*)—one of excellent wisdom
+- गातुविन् (*gātuvin*)—the knower of the right path **NOTE**
+- विश्वदेवः (*viśvadevaḥ*)—one accompanied by all the gods
+- सोमः (*somaḥ*)—Soma, the god
+- पुनानः (*punānaḥ*)—having attained purification
+- नित्यं (*nityaṃ*)—constant (imperishable)
+- सदः (*sadaḥ*)—the Droṇakalaśa
+- प्र एति (*pra eti*)—enters
+- विश्वेषु काव्येषु (*viśveṣu kāvyeṣu*)—in all acts of praise
+- रंता भुवत् (*raṃtā bhuvat*)—attains delight
+- धीरः (*dhīraḥ*)—Soma, the wise
+- पंच जनान् (*paṃca janān*)—the five peoples beginning with the Niṣādas
+- अनु यतते (*anu yatate*)—strives to approach
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the god, who has excellent wisdom, who knows the right path and who is accompanied by all the gods, having attained purification, enters the imperishable Droṇakalaśa. He attains delight in all acts of praise. Soma, the wise, strives to approach the five peoples beginning with the Niṣādas.
+
+##### English translation
+Soma, the intelligent, the knower of the right path, accompanied by all the gods, undergoing purification goes to his constant abode ; he is one who delights in all sacred praises ; the sage endeavourrs to approach the five classes of beings. **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+पंच जनान् (*paṃca janān*)—In the Ṛgveda the words पंच जनाः (*paṃca janāḥ*) and पंच क्षितयः (*paṃca kṣitayaḥ*) are seen to be used here and there. Both kinds of words have one meaning. Therefore, as to who these पंचजनाः (*paṃcajanāḥ*) or पंचक्षितयः (*paṃcakṣitayaḥ*) are, Sāyaṇa has given two kinds of meaning. First,
+
+1. देवा मनुष्याः पितरः पशवः पक्षिणश्चेति पंच जनाः । (*devā manuṣyāḥ pitaraḥ paśavaḥ pakṣiṇaśceti paṃca janāḥ |*) The five kinds are the gods, men, fathers, animals and birds; and second,
+
+### Printed p. 666
+
+2. चत्वारो वर्णाः निषादपंचमाः पंच जना इत्यन्ये (*catvāro varṇāḥ niṣādapaṃcamāḥ paṃca janā ityanye*)—he has explained in another way as well: the people of the four classes together with the Niṣādas. For both these meanings the authority of Vedic statements can be shown. First the derivation of the word क्षिति (*kṣiti*) may be examined, and afterwards it may be considered what meaning can be given to पंचक्षिति (*paṃcakṣiti*) in the present context.
+
+क्षितीनां (*kṣitīnāṃ*)—क्षियंति निवसंति गच्छंति ना क्षितयो मनुष्याः । (*kṣiyaṃti nivasaṃti gacchaṃti nā kṣitayo manuṣyāḥ |*) Sāyaṇa has explained that men have this epithet because they dwell or move about. The Nirukta authors have read the word क्षिति (*kṣiti*) among the twenty-five names of man beginning with नरः (*naraḥ*). (Ni. 3-7)
+
+अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋतावा । स वृत्रहा सनयो विश्ववेदाः पर्षद्विश्वाति दुरिता गृणंतं ॥ (*agnirnetā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā | sa vṛtrahā sanayo viśvavedāḥ parṣadviśvāti duritā gṛṇaṃtaṃ ‖*) (Ṛ. Saṃ. 3-20-4)
+
+In such Ṛks, when the difference between men and the subjects belonging to the gods is shown, men, the subjects of the earth, are indicated by the word क्षिति (*kṣiti*). But in the present Ṛk it cannot be said precisely that earthly men are meant, because Indra's wealth pervades the earth and the atmosphere altogether.
+
+न यस्य देवा देवता न मर्ता आपश्चन शवसो अंतमापुः । स परिक्षा त्वक्षसा क्ष्मो दिवश्च मरुत्वान्नो भवत्विंद्र ऊती ॥ ( (*na yasya devā devatā na martā āpaścana śavaso aṃtamāpuḥ | sa parikṣā tvakṣasā kṣmo divaśca marutvānno bhavatviṃdra ūtī ‖ (*) (Ṛ. Saṃ. 1-100 15)
+
+In such Ṛks it is described that the power of Indra, who is endowed with the qualities of generosity and the like and is of the nature of a god, surpasses the power of all others in the world; that neither gods nor men could reach its end; and that Indra with his own power, which destroys enemies and is full of majesty, makes the earth and heaven both shine together. Because of this, and because in the present Ṛk too Indra's wealth is described as all-pervading, पंचक्षितीनां (*paṃcakṣitīnāṃ*) cannot be said to mean merely the four classes together with the Niṣādas as the fifth. In this matter the Nirukta authors have not said what their own view is, and have only stated the opinions of others.
+
+पंचजना “मम होत्रं जुषध्वं” गंधर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पंचम इत्यौपमन्यवः ॥ (*paṃcajanā “mama hotraṃ juṣadhvaṃ” gaṃdharvāḥ pitaro devā asurā rakṣāṃsītyeke | catvāro varṇā niṣādaḥ paṃcama ityaupamanyavaḥ ‖*) (Ni. 3-8)
+
+Some hold that they are five kinds of groups: Gandharvas, fathers, gods, Asuras and Rākṣasas; and Upamanyu and others are of the opinion that the people of the four classes beginning with the Brāhmaṇas, together with the fifth group called Niṣādas, are the five peoples. Thus only the opinions of others have been stated.
+
+### Printed p. 667
+
+Formerly, when all the gods prayed to Agni to accept the oblation offered in the sacrifice for them and to distribute it among all, Agni agreed, and
+
+तदद्य वाचः प्रथमं मसीय येनासुरा अभि देवा असाम । ऊर्जाद उत यज्ञियासः पंच जना मम होत्रं जुषध्वं ॥ (*tadadya vācaḥ prathamaṃ masīya yenāsurā abhi devā asāma | ūrjāda uta yajñiyāsaḥ paṃca janā mama hotraṃ juṣadhvaṃ ‖*) (Ṛ. Saṃ. 10-53-4)
+
+gave the answer that the five peoples together should enjoy this oblation. The authors of the Bṛhaddevatā have quoted this statement and discussed the differences of opinion about the five peoples.
+
+प्रत्युवाचाथ तानग्निर्विश्वेदेवा यदूच मां । तत्करिष्ये जुषंतां तु होत्रं पंचजना मम ॥ (*pratyuvācātha tānagnirviśvedevā yadūca māṃ | tatkariṣye juṣaṃtāṃ tu hotraṃ paṃcajanā mama ‖*) (Bṛ. De. 7-66)
+
+In this verse the answer that Agni gave to the gods is told, and afterwards the word पंचजन (*paṃcajana*) is explained.
+
+शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पंचजनाः स्मृताः ॥ (*śālāmukhyaḥ praṇītaśca putro gṛhapateśca yaḥ | uttaro dakṣiṇaścāgnirete paṃcajanāḥ smṛtāḥ ‖*) (Bṛ. De. 7-67)
+
+That is, the fire at the entrance of the hall, the prepared Āhavanīya fire, the Gārhapatya fire which is as a son of the sacrificer, and the southern and the northern fires: these five kinds of fires together are the five kinds of groups, according to the traditional usage. Besides this view,
+
+मनुष्याः पितरो देवा गंधर्वोरगराक्षसाः । गंधर्वा पितरो देवा असुरा यक्षराक्षसाः ॥ (*manuṣyāḥ pitaro devā gaṃdharvoragarākṣasāḥ | gaṃdharvā pitaro devā asurā yakṣarākṣasāḥ ‖*) (Bṛ. De. 7-68)
+
+According to the first opinion the Uragas and Rākṣasas are one group; according to the second opinion the Yakṣas and Rākṣasas are one group.
+
+यास्कौपमन्यवावेतानाहतुः पंच वै जनान् । निषादपंचमान्वर्णा मन्यते शाकटायनः ॥ (*yāskaupamanyavāvetānāhatuḥ paṃca vai janān | niṣādapaṃcamānvarṇā manyate śākaṭāyanaḥ ‖*) (Bṛ. De. 7-69)
+
+In this statement the authors of the Bṛhaddevatā say that Yāska's view is the first. But in the Nirukta only the views of others are stated, and Yāska has not stated his own view precisely. Perhaps he may have accepted that one.
+
+### Printed p. 668
+
+ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते । (*ṛtvijo yajamānaṃ ca śākapūṇistu manyate |*) (Bṛ. De. 7-20)
+
+It is the view of Śākapūṇi that the four priests beginning with the Hotṛ, together with the sacrificer, make five groups.
+
+चक्षुःश्रोत्रं मनो वाक् च प्राणश्चेत्यात्मवादिनः ॥ गंधर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ सर्पाश्च ब्राह्मणे चैव श्रूयंते हैतरेयके ॥ (*cakṣuḥśrotraṃ mano vāk ca prāṇaścetyātmavādinaḥ ‖ gaṃdharvāpsaraso devā manuṣyāḥ pitarastathā ‖ sarpāśca brāhmaṇe caiva śrūyaṃte haitareyake ‖*) (Bṛ. De. 7-71,72)
+
+Eye, ear, mind, speech and breath: these five are the five peoples, according to those who hold the spiritual view. That they are Gandharvas and the rest is explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5). That Agni gave the gods the answer that such five peoples should enjoy the oblation is said, and in the explanation of the Bṛhaddevatā also the differences of opinion are stated.
+
+पंच क्षितीनां विश्वानि वसु इंद्रस्य हस्तयोः । (*paṃca kṣitīnāṃ viśvāni vasu iṃdrasya hastayoḥ |*) Thus it is described in the Ṛk 1-176-3. Since the whole world is under the protection of Indra, all the above opinions fit the expression पंच क्षितीनां (*paṃca kṣitīnāṃ*).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तव॒ त्ये सो॑म पवमान नि॒ण्ये विश्वे॑ दे॒वास्त्रय॑ एकाद॒शासः॑ ।  
+> दश॑ स्व॒धाभि॒रधि॒ सानो॒ अव्ये॑ मृ॒जंति॑ त्वा न॒द्यः॑ स॒प्त य॒ह्वीः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तव । त्ये । सोम । पवमान । निण्ये । विश्वे । देवाः । त्रयः । एकादशासः ।  
+> दश । स्वधाभिः । अधि । सानौ । अव्ये । मृजंति । त्वा । नद्यः । सप्त । यह्वीः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान हे सोम तव स्वभूताः त्ये ते प्रसिद्धाः त्रय एकादशासः । पूरणार्थे डट् प्रत्ययः । त्रयस्त्रिंशत्संख्याकाः विश्वे सर्वे देवाः निण्ये । अंतर्हितनामैतत् । अंतर्हिते स्थाने द्युलोके वर्तंते । तादृशं त्वां दशसंख्याका अंगुलयः अधि सानौ अधिकं समुच्छ्रिते अव्ये अविमये पवित्रे स्वधाभिः उदकैः मृजंति शोधयंति । किंच यह्वीः ।' वा छंदसि । इति पूर्वसवर्णदीर्घः । यह्वयो महत्यः सप्त सप्तसंख्याका गंगाद्याः नद्यः त्वा त्वां मृजंति । वसतीवर्यात्मकैरेकधनात्मकैश्च स्वीयैरुदकैस्त्वां मार्जयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, O Soma, those well-known त्रय एकादशासः (*traya ekādaśāsaḥ*), who belong to you, are thirty-three in number: all the gods. निण्ये (*niṇye*) is a name for what is concealed; they abide in the concealed place, the heavenly world. You, such as you are, the ten fingers purify with स्वधाभिः (*svadhābhiḥ*), that is, with waters, on the lofty fleece, raised up high, in the अव्ये (*avye*), the strainer made of wool. Further, यह्वीः (*yahvīḥ*) means the great ones: the seven great rivers, Gaṅgā and the rest, purify you; the meaning is that they cleanse you with their own waters, which are of the nature of वसतीवर्यात्मकैरेकधनात्मकैश्च (*vasatīvaryātmakairekadhanātmakaiśca*).
+
+### Printed p. 669
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—named Pavamāna
+- सोम (*soma*)—O god Soma
+- तव (*tava*)—related to you
+- त्ये (*tye*)—well-known
+- त्रय एकादशासः (*traya ekādaśāsaḥ*)—of the number thirty-three
+- विश्वे देवाः (*viśve devāḥ*)—all the gods
+- निण्ये (*niṇye*)—are in the secret heavenly world
+- दश (*daśa*)—the ten fingers
+- अधि सान्सौ (*adhi sānsau*)—being in the elevated place **NOTE**
+- अव्ये (*avye*)—in the daśāpavitra
+- स्वधाभिः (*svadhābhiḥ*)—with waters
+- मृजंति (*mṛjaṃti*)—purify you
+- यह्वीः (*yahvīḥ*)—having great forms
+- सप्त नद्यः (*sapta nadyaḥ*)—the seven rivers
+- त्वा (*tvā*)—you
+- मृजंति (*mṛjaṃti*)—cleanse
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, named Pavamāna, all the gods who are related to you, well-known, thirty-three in number, are in the secret heavenly world. In the daśāpavitra, which is in the elevated place, the ten fingers of the Adhvaryu and the other priests purify you. The seven rivers, of great form, cleanse you.
+
+##### English translation
+O Soma Pavamana, your are the thrice eleven universal gods abiding in the secret (heaven) ; the ten (fingers) cleanse you with the waters upon the elevated fleece, the seven great rivers (cleanse you). **NOTE**
+
+##### विशेषविषयगळु (Special Topics)
+
+त्रय एकादशासः विश्वे देवाः (*traya ekādaśāsaḥ viśve devāḥ*)—the meaning is thirty-three gods. In the Ṛk beginning ये देवासो दिव्येकादशस्थ (*ye devāso divyekādaśastha*) it is told who the thirty-three gods are. Addressing all the gods of the three worlds, it says: you, who are all the gods, accept this sacrifice of ours. By दिवि एकादश, पृथिव्यां एकादश, अप्सुक्षितो एकादश (*divi ekādaśa, pṛthivyāṃ ekādaśa, apsukṣito ekādaśa*) it is said that the total number of gods from the three worlds is thirty-three. Sāyaṇa, quoting the Nirukta statement यद्यपि तिस्र एव देवताः (*yadyapi tisra eva devatāḥ*) (Ni. 7-5), has explained: क्षित्याद्यभिमानिन्यो . देवतास्तिस्र एव तथापि महिता महत्वेन स्वस्वविभूत्या त्रयस्त्रिंशत्संख्याता भवंति । तत्तत्स्थाना अन्यास्तद्विभूतय इत्युक्तत्वात् । (*kṣityādyabhimāninyo . devatāstisra eva tathāpi mahitā mahatvena svasvavibhūtyā trayastriṃśatsaṃkhyātā bhavaṃti | tattatsthānā anyāstadvibhūtaya ityuktatvāt |*) That is, although the presiding deities of the earth, the atmosphere and heaven are only three in number, they appear as thirty-three in number by their respective greatness; all the remaining gods in those worlds are their manifestations. The Nirukta authors also—
+
+### Printed p. 670
+
+तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इंद्रो वा अंतरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यात् एकैकस्या अपि बहूनि नामधेयानि भवंति । अपि ना कर्मपृथक्त्वात् । (*tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyurvā iṃdro vā aṃtarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyāt ekaikasyā api bahūni nāmadheyāni bhavaṃti | api nā karmapṛthaktvāt |*) (Ni. 7-5)
+
+According to the view of the Nirukta authors, these three deities, Agni, Vāyu or Indra, and Sūrya **NOTE**, are the presiding deities of the three worlds, the earth, the atmosphere and heaven. Having said that these deities have many kinds of names, in accordance with their respective greatness or because of the variety of their actions, it has stated, with अथातोऽनुक्रमिष्याम अग्निः पृथिवीस्थानः तं प्रथमं व्याख्यास्यामः। (*athāto 'nukramiṣyāma agniḥ pṛthivīsthānaḥ taṃ prathamaṃ vyākhyāsyāmaḥ|*), the nature of the deities of the earth from Ni. 7-14 to 9-43; with अथातो मध्यस्थाना देवताः । तासां वायुः प्रथमागामि भवति । (*athāto madhyasthānā devatāḥ | tāsāṃ vāyuḥ prathamāgāmi bhavati |*), the nature of the deities of the middle region, the atmosphere, from 10-1 to 11-50; and with अथातो द्युस्थाना देवताः (*athāto dyusthānā devatāḥ*), the nature of the deities of the heavenly world from 12-1 to the end of the chapter. Although there are differences of opinion on how many deities there are in this division, in many places of the Ṛksaṃhitā one and the same view is seen.
+
+आ नासत्या त्रिभिरेकादशैरिह देवेभिर्यातं मधुपेयमश्विना । प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥ (*ā nāsatyā tribhirekādaśairiha devebhiryātaṃ madhupeyamaśvinā | prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖*) (Ṛ. Saṃ. 134-11) **NOTE**
+
+(11-3) Thus the Aśvin deities are prayed to: come here with the thirty-three gods, desiring the drink of mead.
+
+श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः । तान्रोहिदश्व गिर्वणस्रयस्त्रिंशतमा वह ॥ (*śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ | tānrohidaśva girvaṇasrayastriṃśatamā vaha ‖*) (Ṛ. Saṃ. 1-45-2)
+
+Agni is prayed to in the same way as in the present Ṛk: bring the thirty-three gods.
+
+ऐभिरग्ने सरथं याह्यर्वाज् नानारथं ना विभवो ह्यश्वाः । पत्नीवतस्त्रिंशतं त्रींश्च देवाननुष्पधमा वह मादयस्व ॥ (*aibhiragne sarathaṃ yāhyarvāj nānārathaṃ nā vibhavo hyaśvāḥ | patnīvatastriṃśataṃ trīṃśca devānanuṣpadhamā vaha mādayasva ‖*) (Ṛ. Saṃ. 3-6-9) **GLOSS**
+
+इति स्तुतासो असथा रिशादसो ये स्थ त्रयश्च त्रिंशच्च । मनोर्देना यज्ञियासः ॥ (*iti stutāso asathā riśādaso ye stha trayaśca triṃśacca | manordenā yajñiyāsaḥ ‖*) (Ṛ. Saṃ. 8-30-2) **GLOSS**
+
+विश्वैर्देवैस्त्रिभिरेकादशैरिहाद्भिर्मरुद्भिर्भृगुभिः सचाभुवा । (*viśvairdevaistribhirekādaśairihādbhirmarudbhirbhṛgubhiḥ sacābhuvā |*) (Ṛ. Saṃ. 8-35-3) **GLOSS**
+
 ---
 
-**Progress note:** Done through printed p. 664. Sūkta 92 Ṛk 1 (end) to Ṛk 3 (to bhāṣya)
+**Progress note:** Done through printed p. 670. Rk 3 close (Pratipadartha, Special Topics on pancajanah), Rk 4 block and Pratipadartha, Special Topics on 33 gods
