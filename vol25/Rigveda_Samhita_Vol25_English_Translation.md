@@ -33283,6 +33283,262 @@ O Soma, as a young woman speaks agreeable words to the young man who loves her, 
 ##### English translation
 Praises commend you (Soma) as a woman praises a dear lover ; (you hasten to the vessel) as a hero hastens to the welcome contest.
 
+### Printed p. 816
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे धे॑हि द्यु॒मद्यशो॑ म॒घव॑द्भ्यश्च॒ मह्यं॑ च ।  
+> स॒निं मे॒धामु॒त श्रवः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । धेहि । द्युऽमत् । यशः । मघवत्ऽभ्यः । च । मह्यम् । च ।  
+> सनिम् । मेधाम् । उत । श्रवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अस्मे अस्मभ्यं द्युमत् दीप्तिमत् यशः अन्नं धेहि देहि । कीदृशेभ्योऽस्मभ्यम् । मघवद्भ्यश्च हविर्लक्षणान्नवद्भ्यश्च मह्यं च स्तुतिकर्त्रे च । अथवा मह्यमस्मभ्यमित्यर्थः । अस्मे मघवद्भ्यश्च मह्यं चेति तेषामेवाशंसनाभेदादुभयत्र चशब्दो युक्तः । किंच सनिं धनं मेधां प्रज्ञाम् उत अपि च श्रवः कीर्तिं च धेहि ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, give to us a bright, splendid yaśas, that is, food. To what kind of people? To those who are affluent in oblations, that is, who possess food in the form of an offering, and to me, the singer of praise; or else "to me" means "to us". Because the wish is the same for both, the word "and" is fitting in both places ("to us and to the affluent, and to me"). Moreover, give wealth, understanding, and also fame.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवद्भ्यश्च (*maghavadbhyaśca*)—to those who have prepared food endowed with the character of an oblation, to offer to you
+- अस्मे (*asme*)—to us
+- मह्यं च (*mahyaṃ ca*)—and to me, who am the singer of praise
+- द्युमत् (*dyumat*)—brilliant, that is, excellent
+- यशः (*yaśaḥ*)—food
+- सनिं (*saniṃ*)—wealth
+- मेधां (*medhāṃ*)—understanding
+- उत (*uta*)—and
+- श्रवः (*śravaḥ*)—fame
+- धेहि (*dhehi*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, to us, who have kept the oblation ready to offer to you, and also to me, the singer of praise named Śyāvāśva, give excellent food, wealth, understanding and fame.
+
+##### English translation
+Give to us who are affluent (in oblations) and also to me, brilliant fame, wealth, intelligence, and glory.
+
+### Printed p. 817
+
+## Sūkta 33 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्र सोमासः' इति षडृचं नवमं सूक्तं त्रितस्यार्षं गायत्रं पवमानसोमदेवताकम् । ‘प्र सोमासस्त्रितः ' इत्यनुक्रांतम् । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning प्र सोमासः (*pra somāsaḥ*) has six ṛks and is the ninth sūkta of this maṇḍala. Its seer is Trita, its metre is Gāyatrī, and its deity is Pavamāna Soma. It is listed in the Anukramaṇī as प्र सोमासस्त्रितः (*pra somāsastritaḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning प्र सोमासः (*pra somāsaḥ*) is the ninth sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is Trita; the deity is Pavamāna Soma; the metre is Gāyatrī. What the Anukramaṇī says, प्र सोमासस्त्रितः (*pra somāsastritaḥ*), is the ritual use, which has been stated before.
+
+Sūkta 33. Maṇḍala 9, Anuvāka 2, Sūkta 33. Aṣṭaka 6, Adhyāya 8, Varga 23. Number of ṛks in the sūkta: 6. Ṛṣi: त्रितः (*tritaḥ*). Devatā: पवमानः सोमः (*pavamānaḥ somaḥ*). Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र सोमा॑सो विप॒श्चितो॒ऽपां न यं॑त्यू॒र्मयः॑ ।  
+> वना॑नि महि॒षा इ॑व ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र। सोमासः । विपःऽचितः । अपाम् । न । यंति । ऊर्मयः ।  
+> वनानि । महिषाःऽइव ॥१॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विपश्चितः मेधाविनः सोमासः सोमाः प्र यंति प्रगच्छंति पात्राणि प्रति । किमिव । अपाम् ऊर्मयः न । ते यथा संततमुद्भवंति तद्वत् । बाहुल्येऽयं दृष्टांतो दर्शितो गमने दृष्टांतरमभिधीयते । वनानि महिषाः प्रवृद्धा मृगाः इव । अथवा स्वाश्रयात् प्रपतने प्रथमो दृष्टांतो द्वितीयस्तु दशापवित्रादधःप्रवेशे ॥
+
+##### Gist of the bhāṣya
+
+The wise Somas go forth, that is, move towards the vessels. Like what? Like waves of water, which rise continually; this example is shown for abundance. Another example is given for the movement: like buffaloes, that is, grown-up wild animals, going to forests. Or else, the first example is for the falling from their own support, and the second for the entry below the ten-fold strainer.
+
+### Printed p. 818
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विपश्चितः (*vipaścitaḥ*)—wise
+- सोमासः (*somāsaḥ*)—these Soma juices
+- अपां (*apāṃ*)—of the waters, rising upwards
+- ऊर्मयः स (*ūrmayaḥ sa*)—like waves **NOTE**
+- महिषा इव (*mahiṣā iva*)—as buffaloes
+- वनानि (*vanāni*)—move swiftly in forests
+- प्र यंति (*pra yaṃti*)—flow swiftly towards the vessels
+
+##### भावार्थ (Bhāvārtha)
+
+These wise Soma juices flow swiftly towards the pressing vessel, which is their own place, like waves rising without a break in the waters of the sea and other reservoirs, and like wild buffaloes roaming freely in forests.
+
+##### English translation
+The intelligent Soma juices rush along like waves of water, like buffaloes to the forests.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि द्रोणा॑नि ब॒भ्रवः॑ शु॒क्रा ऋ॒तस्य॒ धार॑या ।  
+> वाजं॒ गोमं॑तमक्षरन् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । द्रोणानि । बभ्रवः । शुक्राः । ऋतस्य । धारया।  
+> वाजम् । गोऽमंतम् । अक्षरन् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अभि क्षरंतीति शेषः । उपसर्गश्रुतेरुचितक्रियाध्याहारः। द्रोणानि द्रोणकलशान् प्रति । यद्यपि द्रोणकलश एक एव तथापि तत्प्राधान्यादितरेऽपि पात्रा द्रोणा इत्युच्यंते । अथवैकस्मिन्नेव पूजार्थं बहुवचनम् । के। बभ्रवः बभ्रुवर्णाः सोमाः शुक्राः दीप्ताः। केन प्रकारेण । ऋतस्य अमृतस्य धारया धाराकारेण। किंच वाजम् अन्नं गोमंतं बहुगोयुक्तम् अक्षरन् क्षरंति । अथवैकमेव वाक्यम् । उक्तविधाः सोमा द्रोणान् प्रत्यक्षरन् धारया। किं कुर्वंतः । गोमंतं वाजं प्रयच्छंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The verb "flow" (क्षरंति (*kṣaraṃti*)) is to be supplied after अभि (*abhi*), since the preposition is heard and a fitting verb is understood. The Somas flow towards the drona-vessels. Although the drona-kalaśa is only one, because of its prominence the other vessels too are called droṇas; or else the plural is used for one vessel as an honour. Who flow? The tawny Somas, bright and shining. In what manner? With a stream of ṛta, that is, of ambrosia, in the form of a stream. Further, they pour forth food accompanied by cattle. Or else it is one sentence: the Somas of the kind described flow towards the droṇas in a stream, bestowing food accompanied by cattle.
+
+### Printed p. 819
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बभ्रवः (*babhravaḥ*)—shining with a tawny colour
+- शुक्राः (*śukrāḥ*)—of bright colour (clear) Soma juices
+- ऋतस्य (*ṛtasya*)—of their juice, which is like ambrosia
+- धारया (*dhārayā*)—by the stream
+- गोमंतं (*gomaṃtaṃ*)—accompanied by many cows
+- वाजं (*vājaṃ*)—food
+- अक्षरन् (*akṣaran*)—providing
+- द्रोणानि (*droṇāni*)—towards the droṇa-vessels
+- अभि (*abhi*)—they flow
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices, shining with a tawny colour, flow in streams of their ambrosia-like juice towards the droṇa-vessels. And they provide food and cows.
+
+##### English translation
+The tawny-coloured bright juices hasten to the pitchers with a stream of ambrosia, they pour forth sustenance accompanied with cattle.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒ता इंद्रा॑य वा॒यवे॒ वरु॑णाय म॒रुद्भ्यः॑ ।  
+> सोमा॑ अर्षंति॒ विष्ण॑वे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुताः । इंद्राय । वायवे । वरुणाय । मरुत्ऽभ्यः ।  
+> सोमाः । अर्षंति । विष्णवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुताः अभिषुताः सोमाः इंद्राय इंद्रार्थं वायवे च वरुणाय च मरुद्भ्यः च विष्णवे चैषामर्थम् अर्षंति गच्छंति ॥
+
+##### Gist of the bhāṣya
+
+The pressed Somas flow, that is, go, for Indra, for Vāyu, for Varuṇa, for the Maruts and for Viṣṇu, that is, for the sake of these.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुताः (*sutāḥ*)—pressed
+- सोमाः (*somāḥ*)—these Soma juices
+- इंद्राय (*iṃdrāya*)—of Indra
+- वायुवे (*vāyuve*)—of the god Vāyu
+- वरुणाय (*varuṇāya*)—of Varuṇa
+- मरुद्भ्यः (*marudbhyaḥ*)—of the Marut gods
+- विष्णवे (*viṣṇave*)—of Viṣṇu (for the drinking of these gods)
+- अर्षंति (*arṣaṃti*)—flow
+
+### Printed p. 820
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices, pressed by the Adhvaryu, trickle and flow for the drinking of these gods: Indra, Vāyu, Varuṇa, the Marut gods and Viṣṇu.
+
+##### English translation
+The libations effused proceed to Indra, to Vayu, to Varuna, to the Maruts, to Vishnu.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ति॒स्रो वाच॒ उदी॑रते॒ गावो॑ मिमंति धे॒नवः॑ ।  
+> हरि॑रेति॒ कनि॑क्रदत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तिस्रः । वाचः । उत्। ईरते । गावः। मिमंति । धेनवः ।  
+> हरिः। एति । कर्निक्रदत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तिस्रो वाचः । ऋगादिभेदेन त्रिविधा स्तुतिः । उदीरते प्रोद्गमयंत्यृत्विजः । धेनवः आशिरेण प्रीणयित्र्यः गावः मिमंति शब्दयंति दोहार्थम् । हरिः हरितवर्णश्च सोमः कनिक्रदत् शब्दं कुर्वन् एति गच्छति कलशम् ॥
+
+##### Gist of the bhāṣya
+
+The three speeches are praise of three kinds, according to the division into ṛk and the rest. The priests send them up. The milch cows, who gratify with their milk, low, that is, make a sound, for the milking. The green Soma goes, that is, goes to the vessel, making a sound.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिस्रो वाचः (*tisro vācaḥ*)—the mantras of the three Vedas called Ṛk, Yajus and Sāman
+- उदीरते (*udīrate*)—the priests recite
+- धेनवः (*dhenavaḥ*)—who gratify everyone with their milk
+- गावः (*gāvaḥ*)—cows
+- मिमंति (*mimaṃti*)—low for the milking of the cows
+- हरिः (*hariḥ*)—the Soma of green colour
+- कनिक्रदत् (*kanikradat*)—making a gurgling sound
+- एति (*eti*)—flows towards the vessel
+
+##### भावार्थ (Bhāvārtha)
+
+At this time, when the sacrificial rite is being performed, the priests recite aloud the mantras of the three Vedas called Ṛk, Yajus and Sāman. The cows, which gratify everyone, are lowing for the milking. The green-coloured Soma juice that has been pressed flows towards the vessel, making a gurgling sound.
+
+### Printed p. 821
+
+##### English translation
+The priests utter the three sacred texts, the milch cows low (on being milked), the green-tinted Soma goes sounding (to the vessels).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि ब्रह्मी॑रनूषत य॒ह्वीरृ॒तस्य॑ मा॒तरः॑ ।  
+> म॒र्मृ॒ज्यंते॑ दि॒वः शिशु॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । ब्रह्मीः । अनूषत । यह्वीः । ऋतस्य । मातरः ।  
+> मर्मृज्यंते । दिवः । शिशुम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ब्रह्मीः ब्राह्मणप्रेरिताः यह्वीः महत्यः । यह्वीरिति महन्नाम। ऋतस्य यज्ञस्य मातरः निर्मात्र्यः स्तुतयः अभि अनूषत स्तुवंति । किम् । दिवः द्युदेवतायाः शिशुं शिशुस्थानीयं सोमम् । तमेव मर्मृज्यंते मृजंति । ‘तृतीयस्यामितो दिवि सोम आसीत् ' ( तै. सं. ३. ५. ७. १ ) इत्यादिश्रुतेर्द्युशिशुत्वं तस्य ॥
+
+##### Gist of the bhāṣya
+
+The ब्रह्मीः (*brahmīḥ*), those impelled by Brahmins, and the यह्वीः (*yahvīḥ*), the great ones (यह्वीरिति महन्नाम (*yahvīriti mahannāma*)), the mothers of the sacrifice, that is, the praises that produce it, give praise. Whom? The child of the heavenly deity, that is, Soma, who stands in the place of a child. Him they purify. By the Śruti तृतीयस्यामितो दिवि सोम आसीत् (*tṛtīyasyāmito divi soma āsīt*) (Tai. Saṃ. 3. 5. 7. 1) and the like, he is the child of heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the world of heaven
+- शिशुं (*śiśuṃ*)—the child, the Soma plant
+- मर्मृज्यंते (*marmṛjyaṃte*)—they press, thus
+- ब्रह्मीः (*brahmīḥ*)—recited by Brahmins
+- यह्वीः (*yahvīḥ*)—great
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- मातरः (*mātaraḥ*)—the mantras in the form of praise, which are the makers
+- अभि अनूषत (*abhi anūṣata*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+At this time, when the sacrifice is being performed, the great praise-mantras, recited by Brahmins, the makers of the sacrifice, praise the fact that the priests press, with mantras, the Soma plant, which stands in the place of the child of the world of heaven.
+
+##### English translation
+The many sacred hymns, the mothers of the sacrifice, give praise, they purify [the Soma], the infant of heaven.
+
 ---
 
-**Progress note:** Done through printed p. 815. Vol 25 Sukta 31 Rk 6, Sukta 32 Rk 1-5, pp. 810-815
+**Progress note:** Done through printed p. 821. Sukta 32 rk 6 end; Sukta 33 rks 1-5
