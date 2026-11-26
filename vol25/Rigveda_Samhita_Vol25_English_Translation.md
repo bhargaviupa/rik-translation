@@ -33813,6 +33813,280 @@ The sons of Prishni milk this Soma at the place of sacrifice, the most beautiful
 
 These unbent praises of ours, flowing, come together, that is, meet, with this Soma. And Soma, sounding, desires those gratifying praises.
 
+### Printed p. 828
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अह्रुताः (*ahrutāḥ*)—unbent, that is, recited without deceit
+- गिरः (*giraḥ*)—our words of praise
+- सस्रुतः (*sasrutaḥ*)—moving
+- एनं (*enaṃ*)—this Soma
+- अर्षंति (*arṣaṃti*)—go and join (after that the divine Soma)
+- धेनूः (*dhenūḥ*)—those praises that give delight
+- वाश्रः (*vāśraḥ*)—making a sound that shows joy
+- अवीवशत् (*avīvaśat*)—desires
+
+##### भावार्थ (Bhāvārtha)
+
+Our words of praise, recited unbent, that is, without deceit, move on and go to join the divine Soma. After that, the divine Soma, approving those praises that are dear to him, makes a sound of joy and desires them.
+
+##### English translation
+Our sincere smooth-flowing praises approach him. and uttering a sound welcomes the milch cows.
+
+## Sūkta 35 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘आ नः' इति षडृचमेकादशं सूक्तमांगिरसस्य प्रभूवसोरार्षं गायत्रं पवमानसोमदेवताकम् । अनुक्रांतं च-’ आ नः पवस्व प्रभूवसुः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ नः (*ā naḥ*) has six ṛks and is the eleventh sūkta. Its seer is Prabhūvasu of the Āṅgirasa line, its metre is Gāyatrī, and its deity is Pavamāna Soma. It is listed in the Anukramaṇī as आ नः पवस्व प्रभूवसुः (*ā naḥ pavasva prabhūvasuḥ*). The ritual use has already been stated.
+
+Translation of the Kannada: This sūkta beginning आ नः (*ā naḥ*) is the eleventh sūkta in the second anuvāka. It has six ṛks. The seer of this sūkta is Prabhūvasu Āṅgirasa; the deity is Pavamāna Soma; the metre is Gāyatrī. What the Anukramaṇī says, आ नः पवस्व प्रभूवसुः (*ā naḥ pavasva prabhūvasuḥ*), is the ritual use, which has been stated before.
+
+Sūkta 35. Maṇḍala 9, Anuvāka 2, Sūkta 35. Aṣṭaka 6, Adhyāya 8, Varga 35 **NOTE**. Number of ṛks in the sūkta: 6. Ṛṣi: प्रभूवसुः (*prabhūvasuḥ*). Devatā: पवमानः सोमुः (*pavamānaḥ somuḥ*). Chandas: गायत्री (*gāyatrī*).
+
+### Printed p. 829
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॑ पवस्व॒ धार॑या॒ पव॑मान र॒यिं पृ॒थुम् ।  
+> यया॒ ज्योति॑र्वि॒दासि॑ नः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । पवस्व । धारया । पवमान । रयिम् । पृथुम् ।  
+> यया । ज्योतिः । विदासि । नः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम त्वं धारया नः अस्माकम् आ पवस्व सर्वतः क्षर। किम् । रयिं धनं पृथु विस्तीर्णम् । यया धारया ज्योतिः द्योतमानं यज्ञं स्वर्गं वा विदासि लंभयसि नः अस्माकम् ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, purify for us with a stream, that is, flow from every side. What? Wide wealth, with the stream by which you obtain for us the shining sacrifice or heaven.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O divine Soma, who have been purified, you
+- नः (*naḥ*)—to us
+- युया (*yuyā*)—by which stream of yours
+- पृथुं (*pṛthuṃ*)—abundant
+- रयिं (*rayiṃ*)—wealth
+- ज्योतीः (*jyotīḥ*)—and the shining world of heaven
+- विदासि (*vidāsi*)—you cause us to obtain; with such
+- धारया (*dhārayā*)—flowing stream
+- नः (*naḥ*)—to us
+- आ पवस्व (*ā pavasva*)—flow hither
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, who have been purified, flow to us with that stream of yours with which you procure for us abundant wealth and the shining world of heaven.
+
+##### English translation
+Pour upon us, purifier, ample riches with that stream wherewith you bestow upon us light.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदो॑ समुद्रमींखय॒ पव॑स्व विश्वमेजय ।  
+> रा॒यो ध॒र्ता न॒ ओज॑सा ॥ २ ॥
+
+### Printed p. 830
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदो इति । समुद्रम्ऽईंखय । पवस्व । विश्वम्ऽएजय ।  
+> रायः । धर्ता । नः । ओजसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम हे समुद्रमींखय । समुद्रमित्युदकनाम । ईंखयतिर्गतिकर्मा । उदकप्रेरक तथा हे विश्वमेजय विश्वस्य सर्वस्यास्मच्छत्रोः कंपयितः सोम त्वम् ओजसा त्वदीयेन बलेन नः अस्मभ्यं रायः धनस्य धर्ता धारकः पवस्व । भवेत्यर्थः । अत्र यद्यप्युदकप्रेरणसर्वशत्रुकंपने संबोधनांतर्गतत्वादुद्देश्यगते तथापि यजमानस्यापेक्षिते इति रायो धर्तृत्ववदाशास्ये अधिगंतव्ये ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, O impeller of the ocean: समुद्रमित्युदकनाम (*samudramityudakanāma*), "ocean" is a name for water, and the root īṅkh means motion; so, impeller of water. Likewise, O shaker of all, that is, of all our enemies, Soma, by your own might be for us the supporter of wealth. Although the impelling of water and the shaking of all enemies are, being included in the address, matters belonging to the one addressed, yet they are to be understood as what the sacrificer desires, like the supporting of wealth, which is a wish.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रमिांखयु (*samudramiāṃkhayu*)—who impels water (in the form of rain)
+- ओजसा (*ojasā*)—by your own strength
+- विश्वमोजयु (*viśvamojayu*)—who makes our enemies tremble with fear
+- इंदो (*iṃdo*)—O divine Soma, you
+- नः (*naḥ*)—to us
+- रायः (*rāyaḥ*)—of wealth
+- धर्ता (*dhartā*)—as the giver **NOTE**
+- पवस्व (*pavasva*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, who impel water, and make our enemies tremble with fear, be to us a generous giver of wealth.
+
+##### English translation
+Indu, impeller of the waters, confounder of all (our foes), flow forth by your power as the supporter of wealth to us.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वया॑ वी॒रेण॑ वीरवो॒ऽभि ष्या॑म पृतन्य॒तः ।  
+> क्षरा॑ णो अ॒भि वार्य॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । वीरेण । वीरऽवः । अभि । स्याम । पृतन्यतः ।  
+> क्षर । नः । अभि । वार्यम् ॥ ३ ॥
+
+### Printed p. 831
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वीरवः वीरवन् सोम वीरेण त्वया साधनेन पृतन्यतः संग्राममिच्छतः शत्रून् अभि ष्याम अभिभवेम । अतः नः अस्माकं वार्यं वरणीयं धनम् अभि क्षर । अभिगमयेत्यर्थः । अथवा वरणीयं सोमाख्यं धनं क्षर पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O heroic Soma, with you as the means, you who are a hero, may we overcome the enemies who desire battle. Therefore pour towards us the desirable, choice wealth, that is, cause it to come. Or else: pour forth, purify, the desirable wealth called Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वीरवः (*vīravaḥ*)—O mighty Soma
+- वीरेण त्वया (*vīreṇa tvayā*)—with the help of your valour
+- पृतन्यतः (*pṛtanyataḥ*)—our enemies who desire battle
+- अभि स्यामु (*abhi syāmu*)—may we defeat
+- नः (*naḥ*)—to us
+- वार्यं (*vāryaṃ*)—the desirable wealth
+- अभि क्षर (*abhi kṣara*)—cause to obtain
+
+##### भावार्थ (Bhāvārtha)
+
+O mighty divine Soma, with the help of your valour may we conquer our enemies who desire battle. Procure for us the wealth that we desire.
+
+##### English translation
+With you, heroic (Soma), as our hero, may we overcome our enemies, pour upon us desirable (riches).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र वाज॒मिंदु॑रिष्यति॒ सिषा॑सन्वाज॒सा ऋषिः॑ ।  
+> व्र॒ता वि॑दा॒न आयु॑धा ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वाजम् । इंदुः । इष्यति । सिसासन् । वाजऽसाः । ऋषिः ।  
+> व्रता । विदानः । आयुधा ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमः वाजम् अन्नम् इष्यति प्रेरयति यजमानेभ्यः । किं कुर्वन् । सिषासन् यजमानान् संभक्तुमिच्छन् । ईदृशः इंदुः वाजसाः अन्नस्य दाता ऋषिः सर्वस्य द्रष्टा व्रता कर्माणि आयुधानि च विदानः जानन् ।
+
+##### Gist of the bhāṣya
+
+Soma sends food to the sacrificers. Doing what? Wishing to bestow it on the sacrificers. Such an Indu is the giver of food, a seer, that is, the seer of all, knowing the rites and the weapons.
+
+### Printed p. 832
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजसाः (*vājasāḥ*)—who gives food
+- ऋषिः (*ṛṣiḥ*)—who can see and know all
+- व्रता (*vratā*)—the rites such as sacrifice
+- आयुधा (*āyudhā*)—the weapons
+- विदानः (*vidānaḥ*)—who knows
+- इंदुः (*iṃduḥ*)—the divine Soma
+- सिषासन् (*siṣāsan*)—wishing to do a favour to the sacrificers
+- वाजं (*vājaṃ*)—food
+- इष्यति (*iṣyati*)—sends to the sacrificers
+
+##### भावार्थ (Bhāvārtha)
+
+The divine Soma, who gives food, can see and know all, and knows sacrificial rites and the use of weapons, sends food to the sacrificer in order to do him a favour.
+
+##### English translation
+Indu, the bestower of food, the seer, sends food to the worshipper, showing his favour, acquainted with sacred rites and arms.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं गी॒र्भिर्वा॑चमींख॒यं पु॑ना॒नं वा॑सयामसि ।  
+> सोमं॒ जन॑स्य॒ गोप॑तिम् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । गीःऽभिः । वाचम्ऽईंखयम् । पुनानम् । वासयामसि ।  
+> सोमम् । जनस्य । गोऽपतिम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तं सोमं गीर्भिः स्तुतिवाग्भिः स्तौमीति शेषः । किंच वाचमींखयं वाचः प्रेरयितारं पुनानं पूयमानं तं सोमं वासयामसि वासयामः श्रयणद्रव्यैः । कीदृशं सोमम् । जनस्य गोपतिं गवां पालकम् । यद्वा । एकमेव वाक्यम् । उक्तविशेषणविशिष्टं सोमं स्तुतिभिर्वासयाम इति । माधवस्तु वाचमिति पृथक्पदं तिङंतं कृत्वा वाक्यद्वयं चकार ॥
+
+##### Gist of the bhāṣya
+
+We praise that Soma with words of praise (the verb "we praise" is to be supplied). Further, we make that Soma, the impeller of speech, who is being purified, dwell (be clothed) with materials for mixing. What kind of Soma? The lord of men, the protector of cows. Or else it is one sentence: we make the Soma, endowed with the said attributes, dwell with praises. Mādhava, however, makes वाचमिति (*vācamiti*) a separate finite-verb word and so makes two sentences.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाचमिांखयं (*vācamiāṃkhayaṃ*)—who impels words
+- पुनानं (*punānaṃ*)—who purifies
+- गोपतिं (*gopatiṃ*)—the protector of cows
+- जनस्य (*janasya*)—the protector of people as well
+- तं सोमुं (*taṃ somuṃ*)—that divine Soma
+- गीर्भिः (*gīrbhiḥ*)—with words of praise
+- वासयामुसि (*vāsayāmusi*)—I praise **NOTE**
+
+### Printed p. 833
+
+##### भावार्थ (Bhāvārtha)
+
+I praise with words of praise this divine Soma, who impels words, who purifies, and who is the protector of people and of cows, with words of praise **NOTE**.
+
+##### English translation
+We clothe with praises that Soma who is the inspirer of praise, the purified, the shepherd of men.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वो॒ यस्य॑ व्र॒ते जनो॑ दा॒धार॒ धर्म॑ण॒स्पतेः॑ ।  
+> पु॒ना॒नस्य॑ प्र॒भूव॑सोः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वः । यस्य । व्रते । जनः । दाधार । धर्मणः । पतेः ।  
+> पुनानस्य । प्रभुऽवसोः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विश्वः सर्वः जनः मनुष्यो यजमानः यस्य सोमस्य व्रते कर्मणि दाधार धारयति मन इति शेषः । कीदृशस्य । धर्मणः कर्मणः पतेः पालकस्य पुनानस्य पूयमानस्य प्रभूवसोः प्रभूतधनस्य ॥ ॥ २५ ॥
+
+##### Gist of the bhāṣya
+
+All people, the human sacrificer, fix the mind on the rite of that Soma (the verb "fixes the mind" is to be supplied). Of what kind is he? The lord of the dharma, that is, of the rite, its protector, who is being purified and possesses abundant wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धर्मणः (*dharmaṇaḥ*)—of the sacrificial rites
+- पतेः (*pateḥ*)—the protector
+- पुनानस्य (*punānasya*)—who purifies
+- प्रभूवसोः (*prabhūvasoḥ*)—who has abundant (much) wealth
+- यस्य (*yasya*)—of this divine Soma
+- व्रते (*vrate*)—in the rite that takes the form of praise
+- विश्वः (*viśvaḥ*)—all
+- जनः (*janaḥ*)—the multitude of people with the sacrificer
+- दाधार (*dādhāra*)—fixes the mind
+
+##### भावार्थ (Bhāvārtha)
+
+In the rite of praising this divine Soma, who is the protector of sacrificial rites, who purifies, and who has abundant wealth, the whole multitude of people beginning with the sacrificer fix their minds and praise.
+
+##### English translation
+On the worship of whom all men fix their thoughts,—the lord of pious acts, the purified, the possessor of abundant wealth.
+
 ---
 
-**Progress note:** Done through printed p. 827. Sukta 33 rk 6; Sukta 34 rks 1-6
+**Progress note:** Done through printed p. 833. Sukta 34 rk 6 end; Sukta 35 rks 1-6
