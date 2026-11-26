@@ -28916,6 +28916,270 @@ In the rite of the grandson of the waters, two verses beginning thus are used; i
 - बर्हिषि (*barhiṣi*)—on the seat of sacred grass
 - नि धत्तन (*ni dhattana*)—seat them
 
+### Printed p. 813
+
+##### भावार्थ (Bhāvārtha)
+
+These waters, rich and protectresses of living beings, have come to our sacrifice. O friendly adhvaryus, seat them on the seat. Conversing with the god called Apāṃnapāt, seat these water-deities on the seat of sacred grass, you who are endowed with Soma.
+
+##### English translation
+These opulent and life-sustaining (waters) have come (to my sacrifice): friendly priests, make them sit down ; place them on the sacred grass, you offerers of the Soma, conversing with the grandson of the waters.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the rite of the grandson of the waters, the two Ṛks beginning एम अग्मन् (*ema agman*) (Ṛks 14 and 15) are to be recited, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra एमा अग्मनेवतीर्जीवधन्या इति द्वे सन्नासूत्तरया परिधाय (*emā agmanevatīrjīvadhanyā iti dve sannāsūttarayā paridhāya*) (Ā. Sū. 5-1).
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आग्म॒न्नाप॑ उश॒तीर्ब॒र्हिरेदं न्य॑ध्व॒रे अ॑सदन्देव॒यंतीः॑ ।  
+> अध्व॑र्यवः सुनु॒तेंद्रा॑य॒ सोम॒मभू॑दु वः सु॒शका॑  ॒
+> देवयज्या ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । अग्मन् । आपः । उशतीः । बर्हिः । आ । इदं । नि । अध्वरे । असदन् । देवयंतीः।  
+> अध्वयवः । सुनुत । इंद्राय । सोमं । अभूत् । ऊं इति । वः । सुशका ।  
+> देवयज्या ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आपो वसतीवर्येकधनाख्या इदमादृशं बर्हिर्वेदिस्तरणमुशतीरुशत्यः
+> कामयमाना आग्मन् । आगच्छन् । अस्मद्यज्ञं प्रत्या अगत्य चाध्वरेऽस्मदीये यज्ञे
+> देवयंतीर्देवान्यामयमानाः । तर्पयिशुमिच्छंत्य इत्यर्थः । न्यसदन् । न्यसीदन् । एतज्ञात्वा हे अध्वर्यवः यूयमिंद्रायेंद्रार्थं सोमं सुनुत। अभि-
+
+### Printed p. 814
+
+> षुणुत । इदानीमपां प्रसादाद्वो युष्माकं देवयज्या देवानिंद्रादीनुद्दिश्य
+> श्रियमाणा यागक्रिया सुशका सुष्टु कर्तुं शक्याभूदु । आसीदेव ॥
+
+##### Gist of the bhāṣya
+
+The waters called Vasatīvarī and Ekadhanā, desiring this sacred grass, that is, the spreading of grass on the altar, have come to our sacrifice. Having come, and wishing to satisfy the gods, that is, desiring to gratify them, they have sat down at our sacrifice. Knowing this, O adhvaryus, press the Soma for Indra, for Indra's sake. Now, through the favour of the waters, your worship of the gods, the sacrificial act performed with Indra and the other gods in view, has become easy to perform well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—the waters, Vasatīvarī and the rest
+- ईं बर्हिः (*īṃ barhiḥ*)—this seat meant for the sacrifice
+- उशतीः (*uśatīḥ*)—desiring
+- अग्मन् (*agman*)—have come
+- आ (*ā*)—having come here
+- अध्वरे (*adhvare*)—in the sacrifice
+- देवयंती? (*devayaṃtī?*)—desire the worship of the gods
+- अध्वर्यवः (*adhvaryavaḥ*)—O adhvaryus
+- इंद्राय (*iṃdrāya*)—for Indra's sake
+- सोमं (*somaṃ*)—the Soma
+- सुनुत (*sunuta*)—press out
+- वः (*vaḥ*)—for you
+- देवयज्या (*devayajyā*)—the worship of the gods
+- सुशका (*suśakā*)—easily
+- अभूदु (*abhūdu*)—is
+
+##### भावार्थ (Bhāvārtha)
+
+The waters, Vasatīvarī and the rest, have come desiring the seat meant for the sacrifice. Having come to this sacrifice, they desire the worship of the gods. O adhvaryus, press the Soma for Indra's sake. For you the worship of the gods is easy.
+
+##### English translation
+The waters desiring (it) have come to this sacred grass, and wishing to satisfy the gods, have sat down at our sacrifice: express, priests, the Soma for Indra; to you the worship of the gods is easy.
+
+## Sūkta 31 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आ न इत्येकादशर्चं द्वितीयं सूक्तं कवषस्यार्षं त्रैष्टुभं वैश्वदेवं ।
+> अनुक्रांतं च । आ न एकादश वैश्वदेवमिति ॥ गतः सूक्तविनियोगः ॥ एकादशिनस्य
+> वैश्वदेवस्य पशोः पुरोडाशस्या न इत्येषानुवाक्या । सूत्रितं च । विश्वे अद्य
+> मरुतो विश्व ऊत्या नो देवानामुप वेतु शंसः ॥ आ. ३-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta आ न (*ā na*) has eleven Ṛks and is the second sūkta of this anuvāka. Its seer is Kavaṣa, its metre Triṣṭubh, its deity the Viśve Devāḥ. The Anukramaṇī says आ न एकादश वैश्वदेवमिति (*ā na ekādaśa vaiśvadevamiti*). The use of the sūkta has been stated. In the Vaiśvadeva animal offering of the Ekādaśin rite, the Ṛk आ नः (*ā naḥ*) is the anuvākyā for the puroḍāśa. It is laid down in the sūtra: विश्वे अद्य मरुतो विश्व ऊत्या नो देवानामुप वेतु शंसः (*viśve adya maruto viśva ūtyā no devānāmupa vetu śaṃsaḥ*) (Ā. Sū. 3-7).
+
+##### Anuvāda
+
+This sūkta, आ नः (*ā naḥ*), is the second sūkta in the third anuvāka. It has eleven Ṛks. Kavaṣa is the seer of this sūkta; the Viśve Devāḥ are the deity; the metre is Triṣṭubh. The Anukramaṇī says आ न एकादश वैश्वदेवं (*ā na ekādaśa vaiśvadevaṃ*). The use of the sūkta has already been stated. In the animal offering and puroḍāśa offering made to the Viśve Devāḥ in the rite called Ekādaśin,
+
+### Printed p. 815
+
+this Ṛk आ नः (*ā naḥ*) is to be recited as the anuvākyā mantra, as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra विश्वे अद्य मरुतो विश्व ऊत्या नो देवानामुप वेतु शंसः (*viśve adya maruto viśva ūtyā no devānāmupa vetu śaṃsaḥ*) (Ā. Sū. 3-7).
+
+- Maṇḍala 10; Anuvāka 3; Sūkta 31.
+- Aṣṭaka 7; Adhyāya 7; Vargas 27, 28.
+- Number of Ṛks in the sūkta: 11.
+- Seer: Kavaṣa Ailūṣa.
+- Deity: the Viśve Devāḥ.
+- Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दे॒वाना॒मुप॑ वेतु॒ शंसो॒ विश्वे॑भिस्तु॒रैरव॑से॒ यज॑त्रः।  
+> तेभि॑र्व॒यं सु॑ष॒खायो॑ भवेम॒ तरं॑तो॒ विश्वा॑ दुरि॒ता  ॑
+> स्याम ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । देवानां । उप । वेतु । शंसः । विश्वेभिः । तुरैः । अवसे । यजत्रः ।  
+> तेभिः । वयं । सुसखायः । भवेम । तरंतः । विश्वा । दुःइता । स्याम ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां स्तोत्थाणां नोऽस्माकं शंसः स्तोतव्यो यजत्रो यष्टव्यः
+> एवंभूत इंद्रस्तुरैस्त्वरणशीलैर्विश्वेभिः सर्वैमरुद्भिः सहावसेऽस्मद्यज्ञरक्षणार्थमोप वेतु । उपागच्छतु। वयमपि तेभिस्तैः सह सुसखायः शोभनसखायो
+> भवेम स्याम । किंच विश्वा दुरिता विश्वानि दुरितानि पापानि तरंतः स्याम ॥
+
+##### Gist of the bhāṣya
+
+May Indra, praised by us who are praisers of the gods, and worthy to be worshipped, come to our sacrifice for its protection, together with all the swift Maruts, who are quick in going. May we too be good friends, excellent companions, with them. And further, may we cross over all sins.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of us, the praisers
+- नः (*naḥ*)—to us
+- शंसः (*śaṃsaḥ*)—the praiseworthy
+- यजत्रः (*yajatraḥ*)—the adorable Indra
+- तुरैः (*turaiḥ*)—swift-going
+- विश्वेभिः (*viśvebhiḥ*)—with all the Maruts
+- अवसे (*avase*)—for our protection
+
+### Printed p. 816
+
+- आ उप वेतु (*ā upa vetu*)—may he come to us
+- वयं (*vayaṃ*)—we
+- तेभिः (*tebhiḥ*)—with them
+- सुसखायः (*susakhāyaḥ*)—as excellent friends
+- भवेम (*bhavema*)—may we be
+- विश्वा (*viśvā*)—all
+- दुरिता (*duritā*)—sins
+- तरंतः (*taraṃtaḥ*)—crossing over
+- स्याम (*syāma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, praiseworthy and adorable to us who praise him, come to us for our protection together with all the swift Maruts. May we be excellent friends with them. May we become crossers of all sins.
+
+##### English translation
+May he, who is to be praised by us, his worshippers, and to be adored, (Indra), come with all his swift (Maruts), for our protection, may we be excellent friends with them: may we be freed from all sins.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॑ चि॒न्मर्तो॒ द्रवि॑णं ममन्यादृ॒तस्य॑ प॒था नम॒सा वि॑वासेत् ।  
+> उ॒त स्वेन॒ क्रतु॑ना॒ सं व॑देत॒ श्रेयां॑सं॒ दक्षं॒ मन॑सा  
+> जगृभ्यात् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । चित् । मर्तः । द्रविणं । ममन्यात् । ऋतस्य । पथा । नमसा । विवासेत् ।  
+> उत । स्वेन । क्रतुना । सं । वदेत । श्रेयांसं । दक्षं । मनसा । जगृभ्यात् ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मर्तो मनुष्यो यजमानः परि चित्सर्वतो द्रविणं विश्वेषां देवानां
+> यागार्थं धनं ममन्यात् । मन्यतिः कांतिकर्मा । कामयेत । लब्धुमिच्छेत् ।
+> धनं लब्ध्वा चर्तस्य यज्ञस्य पथा मार्गेण नमसा हविराख्येनान्नेना विवासेत् ।
+> परिचरेत् । उतापि च स्वेनात्मीयेन क्रतुना प्रज्ञानेन । मनसेत्यर्थः। सं वदेत ।
+> संवादोऽत्र समाध्यानमुच्यते । हविर्गृहीत्वा वषट्करिष्यन्विश्वानेवान्मनसाध्यायेदित्यर्थः । विश्वेषां देवानां यागानंतरं च तत्प्रसादाच्छ्रेयांसमतिशयेन
+> प्रशस्यमात्मानं दक्षं प्रवृद्धं सर्वव्यापिनं मनसा ध्यानसाधनेनांतःकरणेन
+> जगृभ्यात् । गृह्णीयात् ॥
+
+##### Gist of the bhāṣya
+
+Let the mortal, the sacrificer, from all sides desire wealth for the sacrifice to all the gods; the verb मन्यति (*manyati*) is one of desiring, so he is to wish to obtain it. Having obtained wealth, let him serve the gods by the path of the sacrifice, with the food called the oblation. And also let him converse with his own intelligence, that is, with his mind; conversation here is said to be meditation: taking the oblation and about to say the vaṣaṭ, let him think of all the gods in his mind. After the sacrifice to all the gods, through their favour, let him grasp with his mind, with the inner organ, the instrument of meditation, himself, as one exceedingly praiseworthy, grown great and all-pervading. **NOTE**
+
+### Printed p. 817
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मर्तः (*martaḥ*)—the human sacrificer
+- परि चित् (*pari cit*)—from all sides
+- द्रविणं (*draviṇaṃ*)—wealth
+- ममन्यात् (*mamanyāt*)—let him obtain
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पथा (*pathā*)—by the path
+- नमसा (*namasā*)—with the oblations
+- आ विवासेत् (*ā vivāset*)—let him worship the gods
+- उत (*uta*)—and
+- स्वेन (*svena*)—his own
+- क्रतुना (*kratunā*)—with excellent knowledge
+- सं वदेत (*saṃ vadeta*)—let him meditate on the gods
+- श्रेयांसं (*śreyāṃsaṃ*)—the bringer of welfare
+- दक्षं (*dakṣaṃ*)—the all-capable god
+- मनसा (*manasā*)—in the form of meditation
+- जगृभ्यात् (*jagṛbhyāt*)—let him resort to
+
+##### भावार्थ (Bhāvārtha)
+
+Let the human sacrificer obtain wealth from all sides. Let him worship the gods by the path of the sacrifice and with the oblations. Let him meditate on the gods with his own excellent knowledge. Let him resort, in the form of meditation, to the god who brings welfare and is all-capable.
+
+##### English translation
+Let a mortal be ever desirous of affluence, (having acquired it), let him worship with oblations on the path of the sacrifice : and let him with his own intellect meditate upon (the gods) : let him grasp with his mind the best and most mighty (of the universal deities),
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑यि धी॒तिरस॑सृग्र॒मंशा॑स्ती॒र्थे न द॒स्ममुप॑ यं॒त्यूमाः॑ ।  
+> अ॒भ्या॑नश्म सुवि॒तस्य॑ शू॒षं नवे॑दसो अ॒मृता॑नामभूम ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अधायि । धीतिः । अससृग्रं । अंशाः । तीर्थे । न । दस्मं । उप । यंति । ऊमाः ।  
+> अभि । आनश्म । सुवितस्य । शूषं । नवेदसः । अमृतानां । अभूम ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> धीतिर्देवयागक्रियाधायि । निहिता । स्थापिता । अस्माभिः प्रवर्तितेत्यर्थः ।
+> तदनंतरमूना अवितारस्तर्पयितारोंशा अस्माभिर्दत्ता हविर्भागा दस्कं दर्श-
+
+### Printed p. 818
+
+> नीयं शत्रूणामुपक्षपयितारं वाससृग्रमसमानसृष्टिं । उत्कृष्टजन्मानमित्यर्थः ॥
+> एवंभूतं देवसंघमुप यंति । उपगच्छंति । तत्र दृष्टांतः । तीर्थे न यथा
+> गंगादितीर्थे तर्पणमुखे विसृष्टा अपामंशा देवसंघमुपगच्छंति तद्वत् ।
+> तदनंतरं वयं सुवितस्य सु इतस्य सुष्टु प्राप्तस्य स्वर्गादिकस्य शूषं सुखमभ्यानश्म ।
+> अभिप्राप्नुयाम । किंच । वयममृतानां देवानां नवेदसः ॥ न वेदेत्येतस्मिन्नर्थे नवेदःशब्दो नभ्राण्णपान्नवेदा इति निपातितः ॥ न न वेत्तारो वेत्तार
+> एव । स्वरूपतो ज्ञातार एवेत्यर्थः । अभूम । भवेमेत्यशास्महे ॥
+
+##### Gist of the bhāṣya
+
+The rite of worship of the gods has been laid down, that is, established; the meaning is that it has been set going by us. After that, the satisfying portions, the shares of the oblation given by us, approach the host of the gods, who is beautiful to behold, the driver away of enemies, and of unequalled creation, that is, of excellent birth. For this there is an example: as at a holy place such as the Gaṅgā, the portions of water released at the tarpaṇa go to the host of the gods, so do these. After that, may we attain the happiness of the well-gained heaven and the rest. And further, may we become knowers of the immortals, the gods; that is, knowers of them in their true nature. Sāyaṇa ends: we pray, may we be so.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धीतिः (*dhītiḥ*)—the sacrifice
+- अधायि (*adhāyi*)—has begun
+- तीर्थे न (*tīrthe na*)—as the waters of holy rivers approach the gods
+- ऊमाः (*ūmāḥ*)—satisfying
+- अंशाः (*aṃśāḥ*)—portions of the oblation
+- दस्मं (*dasmaṃ*)—the destroyer of enemies
+- अससृग्रं (*asasṛgraṃ*)—the host of the gods, of excellent origin
+- उपयंति (*upayaṃti*)—approach
+- सुवितस्य (*suvitasya*)—of the excellent heaven and the rest
+- शूषं (*śūṣaṃ*)—happiness
+- अभ्यानश्य (*abhyānaśya*)—may we attain
+- अमृतानां (*amṛtānāṃ*)—of the gods, their nature
+- नवेदसः (*navedasaḥ*)—knowing
+- अभूम (*abhūma*)—may we become
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrifice has begun. As the waters of holy rivers approach the gods, the satisfying portions of the oblation approach the host of the gods, destroyer of enemies and of excellent origin. May we become sharers in the excellent happiness of heaven. May we come to know the greatness of the excellent gods.
+
+##### English translation
+The sacrifice has been prepared: the invigorating portions (of the oblation) approach the beautiful (god) of excellent birth, as (the waters) at a holy spot (approach the gods): may we obtain the happiness of heaven; may we have a real knowledge of the immortals.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नित्य॑श्चाकन्या॒त्स्वप॑ति॒र्दमा॑ना॒ यस्मा॑ उ दे॒वः स॑वि॒ता ज॒जान॑ ।  
+> भगो॑ वा॒ गोभि॑रर्य॒मेम॑नज्या॒त्सो अ॑स्मै॒ चारु॑श्चदयदु॒त  ॑
+> स्यात् ॥ ४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 812. Vol 27 pp. 807-812: Sūkta 30 Ṛk 10 end, Ṛk 11-14
+**Progress note:** Done through printed p. 818. Sūkta 30 Ṛk 14 end, Ṛk 15; Sūkta 31 intro, Ṛk 1-3, Ṛk 4 Saṃhitā
