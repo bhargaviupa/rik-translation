@@ -1536,3 +1536,8 @@
 - p. 437 (L8082): `[as printed: dvyacotastijaḥ]` → `[as printed: dvyacotastiṅaḥ]` (and the earlier `dyaucotiśrīḥ`… clause restored): the repair had put a Kannada misprint into the English; the earlier form is the sūtra.
 - p. 109 (L2075): `gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca` → `gatikārakopapadāt kṛt`: the longer form is not in the supplied text; the reference has the old form.
 - p. 123 (L2358): `(igantalakṣaṇa guṇa)` → `by sārvadhātukārdhadhātukayoḥ`: the label is not in the reference.
+
+## Scan pages (printed pp. 232–233, read from the scan Rig_Vol5-231-605.pdf by the model), 2026-11-26
+- p. 232/233 (English line 4250) [R1/H27]: `being *laśakvataddhite…* *sārvadhātuka* *śatṛ* is *anudātta*` → `since it comes after an *ad-upadeśa*, the *lasārvadhātuka* *śatṛ* is *anudātta*` — the scan prints ಅದುಪದೇಶದ ಪರದಲ್ಲಿರುವುದರಿಂದ (since it comes after an ad-upadeśa); the English had a different reason (second-pass scan reading).
+- p. 232/233 (English line 4259) [R1/H27]: `the suffix, being after the root accented on the last syllable, is *anudātta*` → `the suffix, since it comes after an *ad-upadeśa*, is *anudātta*` — the scan prints ಅದುಪದೇಶದ ಪರದಲ್ಲಿರುವುದರಿಂದ (since it comes after an ad-upadeśa); the English had a different reason (second-pass scan reading).
+- pp. 232–233: the Vala reference list (2-12-3, 2-24-3, 8-14-7, 8-24-30, 10-67-2, 10-62-6 marked [?] in the English) was read at 330 dpi: the digits read the same as the English; the [?] marks are left until the user decides how scan readings of numbers are to be treated.
