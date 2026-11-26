@@ -13487,7 +13487,7 @@ Sāyaṇa addresses the two Aśvins: with your victorious chariot (जयुष�
 
 ##### भावार्थ (Bhāvārtha)
 
-O Aśvin deities, travel about in many ways on the mountain path with your victorious chariot. For Śayu you made the barren cow a cow that gives milk. You released the sparrow that was swallowed inside the wolf's mouth, from its mouth.
+O Aśvin deities, travel about in many ways on the mountain path with your victorious chariot. For Śayu you made the barren cow a cow that gives milk. You released the sparrow that was swallowed inside the wolf's mouth, from its mouth.**NOTE**
 
 ##### English translation
 Do you two, Ashwins, climb the path to the mountain with your triumphant chariot ; you have renovated for Shayu the (barren) milch cow : you liberated by your acts the quail that had been seized from the jaws of the wolf.
@@ -35778,11 +35778,9 @@ Sāyaṇa addresses the two Aśvins. From their palace, this Ghoṣā, a woman e
 - जनिष्ट (*janiṣṭa*)—has been born
 - कनिनकः (*kaninakaḥ*)—the bridegroom who desires a maiden
 - पतयत् (*patayat*)—let him come
-- दंसनाः अनु (*daṃsanāḥ anu*)—by the falling of rain
+- दंसनाः अनु (*daṃsanāḥ anu*)—by the falling of rain after it has fallen.
 
 ### Printed p. 984
-
-after it has fallen.
 
 - वीरुधः (*vīrudhaḥ*)—the herbs
 - वि चारुहन् (*vi cāruhan*)—let them grow fully
@@ -35970,7 +35968,7 @@ In the three previous Ṛks of this sūkta, in this Ṛk and in the next Ṛk al
 
 सुमति (*sumati*)—For the word sumati Yāska has given the meaning कल्याणी मतिः (*kalyāṇī matiḥ*), a good, auspicious intelligence (Ni. 2-11; 7-22; 11-11; 11-19; 12-39). That is, the gods have a gracious intention to do good to the people who praise them. The gods can do harm to men if they wish, and can show favour if they wish; the gods have both these kinds of power. Therefore worshippers, when they praise the gods, pray that the gracious intention of the gods toward themselves may give them protection.
 
-वाजनीवसू (*vājanīvasū*)—अन्नधनौ (*annadhanau*). This word, as an epithet of the Ashvin gods, indicates the meaning those who have wealth in the form of food, that is, those who give wealth of that kind to those who praise them. The word वाजः (*vājaḥ*) is read among the twenty-eight names of food (Ni. 3-9), and, besides being read among the names of battle (Ni. 3-9), it is also the name of Vāja, one of the three Ṛbhu gods, Ṛbhu, Vibhu and Vāja, the sons of Sudhanvan (Ni. 11-16). In the word वाजनीवसू (*vājanīvasū*) in the present Ṛk, the word वाजः (*vājaḥ*) means food (nourishment). The word वाजिनी (*vājinī*) (this word is feminine) is used in the sense of one who has or gives food, and this word वाजिनी (*vājinī*) is also one of the sixteen names of the goddess Uṣas, such as Vibhāvarī and Sūnarī. In many contexts the word वाजिनी (*vājinī*) is used to is used for describing the qualities of the goddess Uṣas.
+वाजनीवसू (*vājanīvasū*)—अन्नधनौ (*annadhanau*). This word, as an epithet of the Ashvin gods, indicates the meaning those who have wealth in the form of food, that is, those who give wealth of that kind to those who praise them. The word वाजः (*vājaḥ*) is read among the twenty-eight names of food (Ni. 3-9), and, besides being read among the names of battle (Ni. 3-9), it is also the name of Vāja, one of the three Ṛbhu gods, Ṛbhu, Vibhu and Vāja, the sons of Sudhanvan (Ni. 11-16). In the word वाजनीवसू (*vājanīvasū*) in the present Ṛk, the word वाजः (*vājaḥ*) means food (nourishment). The word वाजिनी (*vājinī*) (this word is feminine) is used in the sense of one who has or gives food, and this word वाजिनी (*vājinī*) is also one of the sixteen names of the goddess Uṣas, such as Vibhāvarī and Sūnarī. In many contexts the word वाजिनी (*vājinī*) is used for describing the qualities of the goddess Uṣas.
 
 ### Printed p. 989
 
