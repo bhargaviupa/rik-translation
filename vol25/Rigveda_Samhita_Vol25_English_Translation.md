@@ -10327,6 +10327,262 @@ O Aśvin deities, guides of all, hear the invocation of the seer by the name of 
 ##### English translation
 Leaders (of all), hear the invocation of Krishna, the hymner, who praises you,—that you may drink the exhilarating Soma.
 
+### Printed p. 260
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> छ॒र्दिर्यं॑त॒मदा॑भ्यं॒ विप्रा॑य स्तुव॒ते न॑रा ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> छर्दिः । यंतम् । अदाभ्यम् । विप्राय । स्तुवते । नरा ।  
+> मध्वः । सोमस्य । पीतये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नरा नेतारावश्विनौ विप्राय मेधाविने अत एव स्तुवते स्तोत्रं कुर्वते कृष्णायर्षये अदाभ्यम् । ‘दभेश्च' इति ण्यत्प्रत्ययः । परैरहिंस्यं छर्दिः गृहं यंतं प्रयच्छतम् । किमर्थम् । सोमपानाय । स्तोत्रे गृहे दीयमाने सति तदा स सोमं युवाभ्यां प्रयच्छति ॥ ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+O leaders, O Aśvins: to the sage Kṛṣṇa, who is wise and therefore praises you, grant a dwelling (छर्दिः (*chardiḥ*), a house) that cannot be harmed by others (अदाभ्यम् (*adābhyam*)). For what purpose? For the drinking of Soma. When a house is given to the praiser, he offers the Soma to you both.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे नरा (*he narā*)—O Aśvin deities, leaders
+- विप्राय (*viprāya*)—to the sage Kṛṣṇa, who is wise
+- स्तुवते (*stuvate*)—and who is praising you
+- अदाभ्यं (*adābhyaṃ*)—free from hindrance
+- छर्दिः (*chardiḥ*)—a house
+- यंतं (*yaṃtaṃ*)—give
+- मध्वः (*madhvaḥ*)—gladdening
+- सोमस्य (*somasya*)—of the Soma
+- पीतये (*pītaye*)—for the drinking, graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, leaders, graciously come to drink the gladdening Soma, and, satisfied with the drinking of the Soma, give to the wise sage called Kṛṣṇa, who praises you, a house free from every hindrance.
+
+##### English translation
+Leaders, give to the sage who praises you an unassailable dwelling, that you may drink the exhilarating Soma.
+
+### Printed p. 261
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गच्छ॑तं दा॒शुषो॑ गृ॒हमि॒त्था स्तु॑व॒तो अ॑श्विना ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गच्छतम् । दाशुषः । गृहम् । इत्था । स्तुवतः । अश्विना ।  
+> मध्वः । सोमस्य । पीतये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ इत्था इत्थमनेन प्रकारेण स्तुवतः युवयोः स्तोत्रं कुर्वतः दाशुषः हवींषि दत्तवतो यजमानस्य गृहं प्रति गच्छतं युवामागच्छतम् । किमर्थम् । मध्वः सोमस्य पीतये इति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, to the house of the sacrificer who thus, in this manner, praises you and has given oblations, come, both of you. For what purpose? For the drinking of the intoxicating Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- इत्था (*itthā*)—in this manner
+- स्तुवतः (*stuvataḥ*)—who praises you
+- दाशुषः (*dāśuṣaḥ*)—and offers oblations, of the sacrificer
+- गृहं (*gṛhaṃ*)—to the house
+- मध्वः (*madhvaḥ*)—gladdening
+- सोमस्य (*somasya*)—of the Soma
+- पीतये (*pītaye*)—for the drinking
+- गच्छतं (*gacchataṃ*)—graciously come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, graciously come, to drink the intoxicating Soma juice, to the house of the sacrificer who performs the sacrifice, praising you in this manner and offering oblations.
+
+##### English translation
+Ashwins, come to the house of the offerer who thus praises you, that you may drink the exhilarating Soma.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> युं॒जाथां॒ रास॑भं॒ रथे॑ वी॒ड्वं॑गे वृषण्वसू ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ७ ॥
+
+### Printed p. 262
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युंजाथाम् । रासभम् । रथे । वीळुऽअंगे । वृषण्वसू इति वृषण्ऽवसू ।  
+> मध्वः । सोमस्य । पीतये ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृषण्वसू वर्षणशीलधनवंतावश्विनौ युवां वीड्वंगे। वीळुर्दृढः । दृढांगोपेते स्वरथे रासभं शब्दायमानमेतन्नामकमश्वं युंजाथां संयोजयतम् । किमर्थम् । मध्वः सोमस्य पीतये इति । रासभावश्विनोः' इति रासभावेवाश्विनो रथस्य वाहनौ ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you who have wealth that showers (वृषण्वसू (*vṛṣaṇvasū*)), yoke to your chariot, which has firm parts (vīḷu meaning firm), the ass, so called because it makes a sound; yoke it. For what purpose? For the drinking of the intoxicating Soma. And he adds, with the words रासभावश्विनोः (*rāsabhāvaśvinoḥ*), that the two asses are indeed the draught animals of the Aśvins' chariot.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषण्वसू (*vṛṣaṇvasū*)—O Aśvin deities, who pour out the desired objects
+- वीळ्वंगे (*vīḷvaṃge*)—in your chariot, which has firm and various parts
+- रासभं (*rāsabhaṃ*)—the ass, your draught animal
+- मध्वः (*madhvaḥ*)—delicious
+- सोमस्य (*somasya*)—Soma
+- पीतये (*pītaye*)—in order to drink
+- युंजाथां (*yuṃjāthāṃ*)—join and yoke
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, givers of what is desired, in order to come here and drink the delicious Soma juice, yoke to your chariot, which has firm parts, your draught animal, the ass.
+
+##### English translation
+You who possess showering wealth, yoke the ass to your firmly-built chariot, that you may drink the exhilarating soma.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्रि॒वं॒धु॒रेण॑ त्रि॒वृता॒ रथे॒ना या॑तमश्विना ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्रिऽवंधुरेण । त्रिऽवृता । रथेन । आ । यातम् । अश्विना ।  
+> मध्वः । सोमस्य । पीतये ॥ ८ ॥
+
+### Printed p. 263
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ त्रिवंधुरेण त्रिफलकासंघटितेन त्रिवृता त्रिकोणेन । यद्वा । त्रिवृता। त्रीणि कवचादिभिरावरणानि यस्य स तथोक्तः । तेन रथेन अस्मद्यज्ञं प्रति आ यातं युवामागच्छतं च । शिष्टं गतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, with your chariot that is joined with three boards (त्रिवंधुरेण (*trivaṃdhureṇa*)) and is triangular (त्रिवृता (*trivṛtā*)); or else, त्रिवृता (*trivṛtā*) means that which has three coverings, by armour and the like; come, both of you, with that chariot to our sacrifice. The rest has been explained already.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvin deities
+- त्रिवंधुरेण (*trivaṃdhureṇa*)—which has three boards joined together
+- त्रिवृता (*trivṛtā*)—which is triangular in form, or covered with three kinds of protective armour and the like
+- रथेन (*rathena*)—with the chariot
+- मध्वः (*madhvaḥ*)—gladdening
+- सोमस्य (*somasya*)—Soma
+- पीतये (*pītaye*)—in order to drink
+- आ यातं (*ā yātaṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, seated in your chariot, which has a yoke-pole made by joining three boards and is triangular in form, or is furnished with three kinds of protective coverings, graciously come here to drink the gladdening Soma. **NOTE**
+
+##### English translation
+Aswins, come hither with your three-seated triangular car, that you may drink the exhilarating soma.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नू मे॒ गिरो॑ नास॒त्याश्वि॑ना॒ प्राव॑तं यु॒वम् ।  
+> मध्वः॒ सोम॑स्य पी॒तये॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नु । मे । गिरः । नासत्या । अश्विना । प्र । अवतम् । युवम् ।  
+> मध्वः । सोमस्य । पीतये ॥ ९ ॥
+
+### Printed p. 264
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नासत्या असत्यरहितौ हे अश्विना अश्विनौ मे मदीयाः गिरः स्तुतिलक्षणा वाचः प्रति युवं युवां नु क्षिप्रं प्रावतं प्रकर्षेणागच्छतम् । यद्वा । मे गिरः प्रावतं आत्मीयतया प्ररक्षतम् । किमर्थम् । मध्वः मदकरस्य सोमस्य पीतये पानाय तदर्थम् । सर्वे देवाः स्तुतिभिराहूताः संतो यज्ञं प्रत्यागच्छंतीति गच्छतं रक्षतं चेति युक्तं भवति ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+O Nāsatyas, free from untruth, O Aśvins, come quickly (नु (*nu*)) forward to my words of praise (गिरः (*giraḥ*)). Or else: protect my words of praise as your own. For what purpose? For the drinking of the intoxicating Soma. Since all the gods, when they are called with praises, come to the sacrifice, both "come" and "protect" are fitting.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नासत्या (*nāsatyā*)—you who utter no untrue words
+- अश्विना (*aśvinā*)—O Aśvin deities
+- मे (*me*)—my
+- गिरः (*giraḥ*)—having regard to my words in the form of praise
+- युवं (*yuvaṃ*)—you
+- मध्वः (*madhvaḥ*)—gladdening
+- सोमस्य (*somasya*)—Soma
+- पीतये (*pītaye*)—in order to drink
+- नु (*nu*)—quickly
+- प्रावतं (*prāvataṃ*)—come
+- or मे (*me*)—my
+- गिरः (*giraḥ*)—words in the form of praise
+- प्रावतं (*prāvataṃ*)—may they protect me
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvin deities, who utter no untrue words, having regard to my words in the form of praise, come quickly to drink the gladdening Soma. May my words in the form of praise protect me.
+
+##### English translation
+Nasatyas, Aswins, hasten quickly to my praise, that you may drink the exhilarating soma-
+
+## Sūkta 86 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘उभा हि दस्रा' इति पंचर्चं षष्ठं सूक्तम् । विश्वको नाम कृष्णस्य पुत्रः कृष्ण एव वर्षिः । जगती छंदः । अश्विनौ देवता । तथानुक्रम्यते-- ’उभा हि पंच विश्वको वा कार्ष्णिर्जागतम्' इति । विनियोगो लिंगादवगंतव्यः ॥
+
+##### Gist of the bhāṣya
+
+The sixth sūkta, of five Ṛks, beginning उभा हि दस्रा (*ubhā hi dasrā*). Its seer is Viśvaka, son of Kṛṣṇa, or Kṛṣṇa himself; its metre is Jagatī; its deity the Aśvins. So the Anukramaṇikā says: उभा हि पंच विश्वको वा कार्ष्णिर्जागतम् (*ubhā hi paṃca viśvako vā kārṣṇirjāgatam*). The ritual use is to be learned from the indication (liṅga) of the text itself. **NOTE**
+
+The Anuvāda: this sūkta beginning उभा हि दस्रा (*ubhā hi dasrā*) is the sixth sūkta in the ninth Anuvāka. It has five Ṛks. The seer of this sūkta is the one called Viśvaka, son of the seer Kṛṣṇa,
+
+### Printed p. 265
+
+or else Kṛṣṇa himself is the seer; the Aśvins are the deity; the metre is Jagatī. In the Anukramaṇikā it is said: उभा हि पंच विश्वको वा कार्ष्णिर्जागतं (*ubhā hi paṃca viśvako vā kārṣṇirjāgataṃ*). The use is by the indication of the text.
+
+Sūkta 86
+
+Maṇḍala 8, Anuvāka 9, Sūkta 86
+
+Aṣṭaka 6, Adhyāya 6, Varga 9
+
+Number of Ṛks in the sūkta: 5
+
+Seer: Kṛṣṇo Viśvako vā Kārṣṇiḥ
+
+Deity: Aśvinau
+
+Metre: Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒भा हि द॒स्रा भि॒षजा॑ मयो॒भुवो॒भा दक्ष॑स्य॒ वच॑सो बभू॒वथुः॑ ।  
+> ता वां॒ विश्व॑को हवते तनूकृ॒थे मा नो॒ वि यौ॑ष्टं स॒ख्या मु॒मोच॑तम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उभा । हि । दस्रा । भिषजा । मयःऽभुवा । उभा । दक्षस्य । वचसः । बभूवथुः ।  
+> ता । वाम् । विश्वकः । हवते । तनूऽकृथे । मा । नः । वि । यौष्टम् । सख्या । मुमोचतम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ दस्रा दर्शनीयौ। यद्वा । ‘दसु उपक्षये'। सर्वेषां शत्रूणामुपक्षपयितारौ । भिषजा देवानां वैद्यौ । यद्वा भीतीनां त्रासयितारौ। यदा नरा अश्विनौ स्तुवंति तदा तौ तेषां भीतिमपनयत इत्यर्थः । पृषोदरादित्वाद्रूपसिद्धिः । तादृशौ अत एव मयोभुवा मयसः सुखस्य भावयितारौ उभा परस्परं द्वित्वसंख्यापूरकौ उभा उभौ द्वौ युवां दक्षस्य एतन्नामस्य प्रजापतेः वचसः स्तुतेः संबंधिनौ बभूवथुः । हि प्रसिद्धौ । पुरा युवां दक्षेणास्ताविषाथां खलु। ता तादृशौ प्रशस्तौ वां युवां विश्वकः एतन्नामक ऋषिः तनूकृथे। तनोति कुलमिति तनूः पुत्रः । तस्य विष्णाप्वो निमित्तं हवते स्तुतिभिराह्वयति । तस्मात् नः अस्माकं सख्या सख्यानि यष्ट्टयष्टव्यतया जातानि सखित्वानि मा वि यौष्टं मा पृथकुरुतम् । यौतेर्लुङि सिचि रूपम्। किंच युवां मुमोचतम् अस्मानागंतुं रथे स्थित्वाश्वप्रग्रहान्मुंचतम् । मुंचतेर्लोटि ‘बहुलं छंदसि' इति शपः श्लुः । अडागमः । अत्र विष्णापूनामानं पुत्रमुद्दिश्य तस्य पिता विश्वको युवामाह्वयतीत्यात्मानमाह । यद्वा । विश्वकस्य पिता कृष्णो नामर्षिर्मम पुत्रो विश्वकः पुत्रार्थं युवामधिह्वयतीति वदति ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, you are दस्रा (*dasrā*), that is, beautiful to behold; or else, from the root दसु (*dasu*) in the sense of destruction, you are the destroyers of all enemies. You are भिषजा (*bhiṣajā*), the physicians of the gods; or else you are the drivers away of fears: when men praise the Aśvins, they remove their fear. Being such, you are मयोभुवा (*mayobhuvā*), the producers of happiness. Both of you (उभा (*ubhā*)) have become the objects of the praise of Dakṣa, the Prajāpati of that name; this is well known (हि (*hi*)): formerly Dakṣa praised you. Such praiseworthy ones as you, Viśvaka, the seer of that name, calls with praises for the sake of his son, called तनूकृथे (*tanūkṛthe*), that is, one who spreads the family, a son, namely Viṣṇāpū (so the block reads, and later Viṣṇāpva). **NOTE** Therefore do not separate our friendships (सख्या (*sakhyā*)), which have come into being through our being worshippers; **NOTE** and further, release, that is, standing on the chariot, loosen the reins of the horses, in order to come to us. Here the father Viśvaka, speaking of himself, says that he calls you on behalf of his son named Viṣṇāpū. Or else: Kṛṣṇa, the seer who is the father of Viśvaka, says that his son Viśvaka calls you for the sake of a son.
+
 ---
 
-**Progress note:** Done through printed p. 259. pp. 254-259: Sukta 84 Rk 9, Sukta 85 Rks 1-4
+**Progress note:** Done through printed p. 265. pp. 260-265: Sukta 85 Rks 5-9, Sukta 86 Rk 1
