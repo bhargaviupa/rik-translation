@@ -3848,6 +3848,134 @@ Be competent, (priest, to glorify) the victorious mighty Agni; the sustainer of 
 
 Trita, extended (तायमानः (*tāyamānaḥ*)) in the three places, the Gārhapatya and the others, is स्तभूयन् (*stabhūyan*), wishing to make the houses of the sacrificer firm; परिवीतः (*parivītaḥ*) is "surrounded on all sides by flames".
 
+### Printed p. 121
+
+> व्याप्तः सन् पस्त्यासु यागगृहेषु योनावंतः स्वीये वेद्यात्मके स्थाने नि
+> षीदत् । निषीदति । अतोर्स्मात्स्थानाद्विशां प्रजानां संबंधीनि हवींषि संगृभ्य
+> संग्रहेंद्रादीनुद्दिश्य व्रत्तानि चरुपुरोडाशादीनि स्वीकृत्य दमूना देवेभ्यो
+> दानमना यजमानाय वाभिमतप्रदानमना विधर्मणा तासां विविधेन कर्मणा
+> निमित्तेन दानमना देवेभ्यो दानपक्षे विविधगमनरूपेण कर्मणायंत्रैः
+> शत्रूणां नियमनैः सह नृंदेवानीयते । गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa completes the gloss begun on the previous page. Agni, surrounded all round by flames, sits down in the sacrificial houses, in his own place, the altar (योनावंतः (*yonāvaṃtaḥ*) ... निषीदत् (*niṣīdat*)). From this place he takes up the oblations of the people (विशां (*viśāṃ*)): the cooked offerings, cakes and the like, offered to Indra and the other gods. He is दमूनाः (*damūnāḥ*): either intent on giving to the gods, or intent on granting the sacrificer's wishes. By विधर्मणा (*vidharmaṇā*) he does this through varied acts; or, on the view that he gives to the gods, through varied movement. With the *ayaṃtraiḥ*, the restraints of foes, he goes (ईयते (*īyate*)) to the gods (नृन् (*nṛn*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्रितः (*tritaḥ*)—Agni, established in the three fire-pits Gārhapatya, Āhavanīya and Dakṣiṇāgni
+- स्तभूयन् (*stabhūyan*)—firmly establishing the houses of the sacrificers
+- परिवीतः (*parivītaḥ*)—pervaded by flames all round
+- पस्त्यासु (*pastyāsu*)—in the sacrificial houses
+- योन् (*yon*)—on the sacrificial altar in the middle
+- नि षीदत् (*ni ṣīdat*)—sits down
+- अतः (*ataḥ*)—sitting in this his own place
+- विशां (*viśāṃ*)—the oblations and the like offered by the people
+- संगृभ्य (*saṃgṛbhya*)—having accepted; that is, having accepted the cooked offerings, cakes and the like offered in him with reference to Indra and the other gods, in order to convey them to those gods
+- दमूनाः (*damūnāḥ*)—desirous of giving those oblations to the gods, or desirous of giving the sacrificer his desired ends
+- विधर्मणा (*vidharmaṇā*)—by various acts or by various paths
+- यंत्रैः (*yaṃtraiḥ*)—holding the enemies in check
+- नृन् (*nṛn*)—to the gods
+- ईयते (*īyate*)—goes
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, established in the three fire-pits Gārhapatya, Āhavanīya and Dakṣiṇāgni, makes the houses of the sacrificers firm, is pervaded by the flames spread all round, and sits on the sacrificial altar in the middle of the sacrificial house. While seated on this altar he accepts the oblations that the people offer in Agni for Indra and the other gods. Desiring to carry them to the gods, and holding his enemies in check, he goes to the gods by various acts or paths.
+
+##### English translation
+Occupying three (stations), consolidating (the dwelling of the worshipper), surrounded (by flames), he sits down upon the altar in the chambers (of sacrifice); from thence, having accepted (the oblations) of the people, with intent to give (them to the gods), in various ways, he (Agni) goes to the gods holding (his foes) in check.
+
+### Printed p. 122
+
+##### विशेषविषयगळु (Special Topics)
+
+The Ṛk in hand praises Agni, described as Trita. For the word Trita Sāyaṇa gives the sense त्रिषु स्थानेषु गार्हपत्यादिषु तायमानः (*triṣu sthāneṣu gārhapatyādiṣu tāyamānaḥ*): the Agni who, being in the three places in three forms (Dakṣiṇāgni, Gārhapatya, Āhavanīya), protects the sacrifice. The seer named Trita has been dealt with earlier (Ṛgveda Saṃhitā vol. 8, p. 443-7). Here we examine which deity this epithet, used of a deity, refers to.
+
+It is not easy to state a precise meaning for the word Trita used of a deity. Scholars who give etymologies following the Vedic tradition, and many English scholars as well, have discussed it, each giving a different meaning. If what Trita is can be learnt as far as possible from the Ṛksaṃhitā and other sources, the opinion of Yāska and the other Vedic commentators must be considered first.
+
+The Nirukta-kāra gives an explanation of this word in two places. First there is an explanation concerning the seer:
+त्रितं कूपेवहितमेतत्तूक्तं प्रतिबभौ । तत्र ब्रह्मतिहासमिश्रमृज्मिश्रं गाथामिश्रं भवति ॥ (*tritaṃ kūpevahitametattūktaṃ pratibabhau | tatra brahmatihāsamiśramṛjmiśraṃ gāthāmiśraṃ bhavati ‖*)
+(Ni. 4-6)
+An explanation concerning the seer, beginning thus, has been given earlier.
+
+Likewise, in explaining Ṛk 1-187-1, Sāyaṇa takes क्षित्यादिस्थानेषु तायमानः इंद्रः (*kṣityādisthāneṣu tāyamānaḥ iṃdraḥ*) to mean Indra, the protector in the earth, the atmosphere and the heaven. The Nirukta-kāra, explaining the same Ṛk, says त्रिस्थान इंद्रः (*tristhāna iṃdraḥ*). He does not say what "three-placed" means; probably, as Sāyaṇa says, it is the three worlds beginning with the earth. Moreover, this epithet also belongs to Vāyu and Soma. We must therefore examine whether the word Trita has a meaning according to each context, or is an epithet denoting a single deity only.
+
+The name Trita is used in the Ṛksaṃhitā in forty places in all (the name does not occur in Maṇḍalas 3, 4 and 7). No sūkta is addressed to a deity named Trita, nor is there any context praising this deity alone; nor does the name occur among the deities classified by Yāska. Although they do not fully know the Vedic tradition, the opinions of some English scholars who have laboured and made inquiries from many points of view in this matter are given first.
+
+### Printed p. 123
+After that we examine whether those opinions are right or not.
+
+"Indra and Trita both denote the same deity; Trita is an epithet specific to Indra alone," is the opinion of Kuhn. Roth has said it is "an epithet describing the nature of Vāyu."
+
+"A deity who destroys the evil power and sends down rain. Soma is the strength-giving juice of this deity. Hence the power of the two deities Indra and Vāyu is manifest," Benfey has conjectured. There are many more such opinions.
+
+The explanation and etymology that Yāska shows for this word are given above. In about twenty contexts Sāyaṇa has taken this word to mean Trita. In those places, stating the explanation त्रिषु स्थानेषु तायमानः (*triṣu sthāneṣu tāyamānaḥ*), he has taken it, according to each context, to refer to all of these deities: Indra, Vāyu, Varuṇa and Agni.
+
+Because of this variety of purport, one single precise meaning cannot be given for this word. Therefore, noting the contexts in which the word is used and examining what each context is, it is explained as best one can.
+
+Of the forty uses in all:
+1. (1) Sixteen times it is used together with Indra.
+(2) Once only, individually, he is praised as the slayer of Vṛtra.
+(3) Once identity with the Vāruṇa horse is stated.
+(4) Four times association with the Maruts is stated.
+(5) Seven times a distinction of Agni is praised.
+(6) Once identity with Varuṇa is stated.
+(7) Description of Soma's qualities in four places.
+(8) Six times he is described as a deity dwelling in a hidden region.
+
+1) In Ṛ. Saṃ. 8-2-24 Indra and Trita are described as together facing Vṛtra, and the Maruts are said to give Trita strength. Sāyaṇa explains Trita here as a royal seer, Trita Āptya. (The usage Trita Āptya will be explained later.)
+2) In 1-52-4, 5 too a battle with the Asura Vala is described. Indra and Trita both face Vala and help the fall of rain. Sāyaṇa's explanation is that he is one of the three, Ekata, Dvita and Trita.
+
+### Printed p. 124
+3) 5-86-1 is a mantra praising Indra and Agni together. Sāyaṇa gives alternative explanations: "Trita, a seer; or Agni, existing in the three places": a seer, or Agni pervading all three places.
+4) 5-8-7: the context of Trita preparing to fight Vṛtra. Sāyaṇa takes him as a seer; some others as Vāyu.
+5) 5-8-8 and 9: the context in which Trita, impelled by Indra and receiving his help, faces and splits Viśvarūpa, son of Tvaṣṭṛ. He is also described as the maker of rain.
+6) 10-99-6 त्रितोन्नोजसा वृधानो विषा वराहमयोअग्रया हन् (*tritonnojasā vṛdhāno viṣā varāhamayoagrayā han*): with an iron-tipped thunderbolt he destroyed the demon Varāha. Indra and Trita are identical.
+7) 10-48-2 त्रिताय गा अजनयमहेरधि (*tritāya gā ajanayamaheradhi*): "For Trita I brought forth the cow from the serpent"; Indra himself declares the help he gave Trita. Sāyaṇa's explanation here is that it was help given to Trita Āptya, who had fallen into a well.
+8, 9) 2-11-19, 20: as a result of Trita pressing Soma and offering it to Indra, Indra was stimulated and destroyed Vala. In this context some show identity of Trita and Soma. Here Sāyaṇa takes the word त्रितस्य (*tritasya*) as त्रिताय (*tritāya*): Indra hurled his discus for Trita; hence he holds that Trita here means the seer so named.
+10) 8-12-16, 17: Sāyaṇa's view is that Trita Āptya is a royal seer.
+11) 8-52-1: the same.
+12-16) 9-32-2; 9-38-2; 9-34-4; 9-86-20; 1-163-2. Although these five contexts show the same meaning, the last Ṛk has a special sense. Sāyaṇa takes the first four places as a seer and shows the meaning Vāyu in the last Ṛk. For the sentence यमेन दत्तं त्रितः (*yamena dattaṃ tritaḥ*) the explanation is पृथिव्यादिषु त्रिषु स्थानेषु वर्तमानः तीर्णितनो वा वायुः (*pṛthivyādiṣu triṣu sthāneṣu vartamānaḥ tīrṇitano vā vāyuḥ*).
+
+II. Unity with the Vāruṇa horse
+17) असि यमोअस्यादित्यो अर्वन्नसि त्रितः (*asi yamoasyādityo arvannasi tritaḥ*) (1-163-2): here it is explained that the Vāruṇa horse has a share of three deities, Yama, Āditya and Trita. What the word Trita means
+
+### Printed p. 125
+Sāyaṇa has not stated precisely. He takes Yama to mean Agni. He holds that Trita may be Vāyu moving in the three regions, or else a seer.
+
+III. Trita as slayer of Vṛtra
+18) 1-187-1: it was stated above that Sāyaṇa conjectures the meaning of the word Trita here to be Indra.
+
+IV. Contexts showing the association of Trita with the Maruts
+19) 2-34-10: the purport of this Ṛk is that the Maruts, sons of Rudra, freed Trita from bondage. Many have tried to explain what the bondage was and who Trita is; no one has understood properly. In this context the scholar Max Müller, after great effort to state a precise meaning for the word, finally said "Its true meaning remains as unfathomable as ever": its meaning remained in the end obscure.
+20-21) 2-34-14; 5-54-2. In these two contexts too the association with the Maruts is shown, as in the Ṛk cited above. The purport is probably a seer; but in explaining Ṛk 5-54-2 Sāyaṇa holds that त्रिषु स्थानेषु तायमानो मेघो मरुद्दणो वा (*triṣu sthāneṣu tāyamāno megho maruddaṇo vā*): a cloud, or the troop of Maruts, protecting by pervading the three places.
+22) 10-115-4: the purport of the Ṛk is that the Maruts, eager for battle, discovered Agni, who lay hidden among the clouds in the form of Trita. Sāyaṇa too takes the word Trita here to mean Agni.
+
+V. Identity or association of Trita with Agni
+23) 5-9-5: in this Ṛk, in which Trita, dwelling in the atmosphere, gives impulse to the spread of Agni's flame extended in the atmosphere, some take the word Trita as Vāyu and some as Agni. By Sāyaṇa's method the meaning is Agni.
+24) 5-41-4: a praise of Trita, who has come to our sacrifice together with Vāta, Agni and Pūṣan. Some hold that Trita and Agni are different; some hold that the word Trita is here a synonym of Agni. Sāyaṇa alone holds that it is an epithet of the word Vāta.
+
+### Printed p. 126
+25) 5-41-9, 10: the epithets Āptya and अपां नपातं (*apāṃ napātaṃ*) describe Agni in the form of Trita. Sāyaṇa too takes it as Agni.
+26) 10-46-3: since the splendour of Trita is described here, some hold it to be Agni. Sāyaṇa takes it to mean a seer.
+27) 10-46-6: this is the Ṛk in hand; its explanation is given above. Here it means Agni as lord of the house.
+28) 10-64-3: both of these are addressed to the lightning fire.
+29) 2-31-6: the same.
+
+VI. Indication of identity of Trita with Varuṇa
+30) 8-41-6: it may be Agni, the navel of the deities Mitra, Varuṇa, Aryaman and the rest; or, as Sāyaṇa says, it may be the deity Varuṇa. Here there is also a good opening to say it is the lightning fire.
+
+VII. Identity or association of Trita with Soma
+31-34) 9-37-4; 9-95-4; 9-102-2; 9-102-3: in all four contexts the close relation of Soma and Trita is stated. In some places it is stated that Trita pressed Soma and offered it to Indra. In others it is stated that Soma himself is in the form of Trita.
+
+VIII. Trita hidden in the hidden atmosphere
+35) 1-105-9: it is explained that Trita Āptya knows also the seven rays of Āditya (Agni). Earlier, in explaining the same Ṛk, it was stated that Trita Āptya is a seer. There is also scope for taking him as the lightning fire within the cloud. Likewise,
+36-40) 1-105-17; 8-47-13; 8-47-14; 8-47-15; 8-47-16: in all these contexts there is scope for taking him as the lightning fire within the cloud.
+
+In the sentences cited above the nature of Trita is described in many ways. The question whether he is of Indra's form, of Vāyu's form or of Agni's form arises naturally. But if all the above contexts are examined closely, only one element of Trita is found equally in all contexts.
+
+The precise meaning that Trita is none other than the lightning fire finds support in all the above sentences.
+
 ---
 
-**Progress note:** Done through printed p. 120. pp. 115-120 (batch API)
+**Progress note:** Done through printed p. 126. pp. 121-126 (batch API)
