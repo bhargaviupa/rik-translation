@@ -32021,6 +32021,268 @@ O Ādityas, you who have been invited by us, come for the sacrifice (सर्�
 
 O Ādityas, come to our sacrifice. You who rejoice together, protect our sacrifice for our prosperity. We ask Bṛhaspati, the god Pūṣan, the Aśvin gods, Bhaga and the kindled fire for our good.
 
+### Printed p. 887
+
+##### English translation
+Adityas, come to our ceremony, being well-pleased protect the sacrifice for our growth : we solicit for our welfare Brihaspati, Pushan, the Aswins, Bhaga, and the kindled fire.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तन्नो॑ देवा यच्छत सुप्रवाच॒नं छ॒र्दिरा॑दित्याः सु॒भरं॑  ॒॑
+> नृपाय्यं ।  
+> पश्वे॑ तो॒काय॒ तन॑याय जी॒वसे॑ स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तत् । नः । देवाः । यच्छत । सुप्रवाचनं । छर्दिः । आदित्याः । सुभरं । नृपाय्यं ।  
+> पश्वे । तोकाय । तनयाय । जीवसे । स्वस्ति । अग्निं । संइधानं । ईमहे ॥१२।
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्या देवाः यूयं सुप्रवाचनमत्यंतं प्रशस्तं सुभरं सुसमृद्धं
+> नृपाय्यं नृणां रक्षकं तदस्मदभिलषितं छर्दिर्गृहं नोऽस्माकं पश्वे पश्वात्मकाय
+> तोकाय पुत्राय तनयाय पौत्राय च जीवसे जीवनार्थं यच्छत । दत्त ।
+> सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, divine ones, you give us that house, desired by us, which is exceedingly praiseworthy, well-supplied (abundant), and a protector of men, for our cattle, for our son, and for our grandson, for the sake of life. "Give" is the sense of the verb here. The rest is already established.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O divine ones
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- सुप्रवाचनं (*supravācanaṃ*)—exceedingly praiseworthy
+- सुभरं (*subharaṃ*)—well-supplied
+- नृपाय्यं (*nṛpāyyaṃ*)—protective of us all
+- तत् (*tat*)—desired by us
+- छर्दिः (*chardiḥ*)—the house
+- नः (*naḥ*)—our
+- पश्वे (*paśve*)—for the cattle
+- तोकाय (*tokāya*)—for sons and the like
+- तनयाय (*tanayāya*)—for grandsons and the like
+- जीवसे (*jīvase*)—for the sake of life
+- यच्छत (*yacchata*)—give
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—Agni
+- स्वस्ति (*svasti*)—for our welfare
+- ईमहे (*īmahe*)—we ask
+
+### Printed p. 888
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Ādityas, give us a house that is exceedingly praiseworthy, well-supplied, protective of us all and desired by us, for our cattle, our sons and the like, and our grandsons and the like, for the sake of life. We ask for the kindled Agni for our welfare.
+
+##### English translation
+Divine Aswins, bestow upon us an excellent, spacious, man-protecting dwelling, for our cattle, our sons and our grandsons to exist : we solicit the kindled fire for our welfare
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वे॑ अ॒द्य म॒रुतो॒ विश्व॑ ऊ॒ती विश्वे॑ भवंत्व॒ग्नयः॒ समि॑द्धाः ।  
+> विश्वे॑ नो दे॒वा अव॒सा ग॑मंतु॒ विश्व॑मस्तु॒ द्रवि॑णं॒ वाजो॑  ॒
+> अस्मे ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वे । अद्य । मरुतः । विश्वे । ऊती । विश्वे । भवंतु । अग्नयः । संइद्धाः ।  
+> विश्वे । नः । देवाः । अवसा । आ । गमंतु । विश्वं । अस्तु । द्रविणं । वाजः । अस्मे इति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्नहनि प्रधानयागदिवसे विश्वे सर्वॆ मरुतो विश्वे सर्वॆ मरुद्धणसहचरिता रुद्रादयो देवाश्चोत्यूत्यै रक्षणाय भवंतु । अपि च विश्वे सर्वॆग्नय
+> आहवनीयादयः समिद्धाः संदीप्ता भवंतु । अपि च विश्वे सर्व इंद्रादयो
+> देवा नोऽस्माकमवसा रक्षणेना गमंतु । आगच्छंतु । किंचास्मे आस्मासु विश्वं
+> सर्वं द्रविणं धनं वाजोऽन्नं चास्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+Today, on this day of the principal sacrifice, may all the Maruts, and all the other gods, Rudra and the rest, who accompany the host of the Maruts, be there for our protection. May all the fires, the Āhavanīya and the others, be kindled. May all the gods, Indra and the rest, come to us with their protection. And among us may there be all wealth and food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—this day of the sacrifice
+- विश्वे (*viśve*)—all
+- मरुतः (*marutaḥ*)—the Maruts
+- विश्वे (*viśve*)—all the remaining gods
+- ऊती (*ūtī*)—let them be for protection
+- विश्वे (*viśve*)—all
+
+### Printed p. 889
+
+- अग्नयः (*agnayaḥ*)—the Āhavanīya and the other fires
+- समिद्धाः (*samiddhāḥ*)—blazing
+- भवंतु (*bhavaṃtu*)—let them be
+- विश्वे (*viśve*)—all
+- देवाः (*devāḥ*)—gods
+- नः (*naḥ*)—our
+- अवसा (*avasā*)—for protection
+- आ गमंतु (*ā gamaṃtu*)—let them come
+- विश्वं (*viśvaṃ*)—all
+- द्रविणं (*draviṇaṃ*)—wealth
+- वाजः (*vājaḥ*)—food
+- अस्मे अस्तु (*asme astu*)—let it be ours
+
+##### भावार्थ (Bhāvārtha)
+
+On this day of the sacrifice may all the Maruts and all the other gods protect us. May all the fires, the Āhavanīya and the others, be kindled. May all the gods come for our protection. May all wealth and food come to us.
+
+##### English translation
+This day, may all the Maruts, all the (deities), be for our protection and may all the fires be kindled.  May all the gods come for our preservation, and may all wealth and food be ours.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यं दे॑वा॒सोऽव॑थ॒ वाज॑सात्॒ यं त्राय॑ध्ये॒ यं पि॑पृ॒थात्यंहः॑ ।  
+> यो वो॑ गोपी॒थे न भ॒यस्य॒ वेद॒ ते स्या॑म दे॒ववी॑तये  
+> तुरासः ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यं । देवासः । अवथ । वाजसात् । यं । त्रायध्वे । यं । पिपृथ । अति । अहः ।  
+> यः । वः । गोपीथे । न । भयस्य । वेद । ते । स्याम । देववीतये । तुरासः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुरासोऽभीष्टप्रदाने क्षिप्रा देवासो देवाः यूयं वाजसात्
+> संग्रामे यं मनुष्यमवथ रक्षथ यं च त्रायद्वे शत्रोः पालयथ यं चांहः
+> पापमत्यतिनीय पिपृथ कामैः पूरयथ यश्चापि मनुष्यो वो युष्माकं कार्यत्वेन संबंधिनि गोपीथे रक्षणे भयस्य भयं न वेद न जानाति ते सर्वॆ वयं
+> देववीतये यज्ञार्थं स्याम । भवेम ॥
+
+##### Gist of the bhāṣya
+
+O gods, swift in granting what is desired: whichever man you protect in battle, whom you save from the enemy, whom you carry across sin and fill with his desires, and whichever man, in the protection that belongs to you and is connected with your concern, knows no fear, all of us such may be there for the sacrifice.
+
+### Printed p. 890
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुरासः (*turāsaḥ*)—O you who swiftly fulfil what is desired
+- देवासः (*devāsaḥ*)—O gods
+- वाजसात् (*vājasāt*)—in battle
+- यं (*yaṃ*)—whom
+- अवथ (*avatha*)—you protect
+- यं (*yaṃ*)—whom
+- त्रायध्वे (*trāyadhve*)—you protect from enemies
+- यं (*yaṃ*)—whom
+- अ०हः अति (*a0haḥ ati*)—carrying across sin
+- पिपृथ (*pipṛtha*)—you fulfil his desire
+- यः (*yaḥ*)—which man
+- वः (*vaḥ*)—given by you
+- गोपीथे (*gopīthe*)—in the protection
+- भयस्य (*bhayasya*)—fear
+- न वेद (*na veda*)—does not know
+- ते (*te*)—such
+- देववीतये (*devavītaye*)—for the sacrificial work
+- स्याम (*syāma*)—may we be ready
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, swift in fulfilling what is desired: those whom you protect in battle, those whom you carry across sin and whose desire you fulfil, and the man who in the protection given by you does not know fear at all, such as these may all of us be, ready for the sacrificial work.
+
+##### English translation
+Gods, who are prompt (to grant our desires), may he whom you guard in battle, whom you defend (from his enemies), whom having extricated from sin, you gratify (in all his wishes), who (secure) in your protection, knows not of fear, may we (who are all this) be assiduous in offering sacrifice to the gods.
+
+## Sūkta 36 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उषासानक्तेति चतुर्दशर्चं सप्तमं सूक्तं । धानाकस्य लुशस्त्यार्षं ।
+> आदितो द्वादश जगत्यस्ततो द्वे त्रिष्टुभौ । विश्वे देवा देवता । पूर्वसूक्ते वैश्वदेवं तु द्वित्रिष्टुबंतं त्वित्युक्तत्वात् । उषासानक्तेत्यनुक्रांतं ॥ अभिप्लविके
+> षष्ठेऽहनि वैश्वदेव इदं वैश्वदेवनिविद्धानं । सूत्रितं च । कतरा पूर्वोषासानक्तेति वैश्वदेवं । आ. ७ ७ । इति ॥
+
+##### Gist of the bhāṣya
+
+This is the seventh sūkta, of fourteen ṛks, beginning with उषासानक्ता (*uṣāsānaktā*). Its seer is Luśa, son of Dhānāka. The first twelve verses are in jagatī and the last two in triṣṭubh. The deity is the Viśve Devāḥ. Because it was said of the preceding sūkta that the Vaiśvadeva ends with two triṣṭubh verses, the Anukramaṇī says only that it begins with उषासानक्ता (*uṣāsānaktā*). In the abhiplava rite, on the sixth day, this is the Vaiśvadeva hymn standing in the place of the nivid. It is also given in the sūtra, which asks which is the earlier and answers that it is the Vaiśvadeva hymn beginning with उषासानक्ता (*uṣāsānaktā*) (Ā. 7-7).
+
+Anuvāda: This sūkta, उषासानक्ता (*uṣāsānaktā*), is the seventh sūkta in the third anuvāka. It has fourteen ṛks. The seer of this sūkta is Luśa, the son of Dhānāka;
+
+### Printed p. 891
+
+the deity is the Viśve Devāḥ. The first twelve ṛks of this sūkta are in jagatī metre. The last two ṛks are in triṣṭubh metre. In the Anukramaṇī it is stated as उषासानक्ता (*uṣāsānaktā*). In the abhiplava sacrifice, on the sixth day, in the midst of the Vaiśvadeva śastra mantras, this sūkta is to be recited as the hymn standing in place of the Vaiśvadeva nivid; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, which is the earlier, the Vaiśvadeva hymn beginning with उषासानक्ता (*uṣāsānaktā*) (Ā. 7-7).
+
+- Sūkta 36
+- Maṇḍala 10, Anuvāka 3, Sūkta 36
+- Aṣṭaka 7, Adhyāya 8, Varga 9, 10, 11
+- Number of ṛks in the sūkta: 14
+- Ṛṣi: Luśa Dhānāka
+- Devatā: Viśve Devāḥ
+- Chandas: 1-12 Jagatī; 13-14 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒षासा॒नक्ता॑ बृह॒ती सु॒पेश॑सा॒ द्यावा॒क्षामा॒ वरु॑णो मि॒त्रो  ॒॑
+> अर्यमा ।  
+> इंद्रं॑ हुवे म॒रुतः॒ पर्व॑ता अ॒प आ॑दि॒त्यान्दावा॑पृथि॒वी ॒ ॑
+> अपः स्वः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उषसानक्ता । बृहती इति । सुपेशसा । द्यावाक्षमा । वरुणः । मित्रः । अर्यमा ।  
+> इंद्रं । हुवे । मरुतः । पर्वतान् । अपः । आदित्यान् । द्यावापृथिवी इति । अपः ।  
+> स्वगरिति स्वः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहती बृहत्यौ महत्यौ सुपेशसा सुरूपे उषासानक्ता रात्र्युषसौ द्यावाक्षामा द्यावापृथिव्यौ च वरुणो मित्रो मित्रावरुणौ चार्यमा च येऽत्र विहिता
+> देवाः तानेतानिंद्रं मरुतश्च पर्वतांश्चाप उदकानि चादित्यांश्च द्यावापृथिवी
+
+### Printed p. 892
+
+> द्यावापृथिव्यौ च । पुनर्द्यावापृथिव्योर्ग्रहणमादरार्थं । अपोऽंतरिक्षं च स्वः
+> सर्वं च यष्टव्यं देवजातं हुवे । द्वयामि ॥
+
+##### Gist of the bhāṣya
+
+The two great ones, of excellent form, are Uṣas and Night. With them are heaven and earth, Varuṇa and Mitra, that is Mitra and Varuṇa, and Aryaman: whatever gods are prescribed in this rite, these. I call also Indra, the Maruts, the mountains, the waters, the Ādityas, and heaven and earth; the repeated mention of heaven and earth is for the sake of honour. The second mention of the waters means the atmosphere. I call also the whole host of gods that is to be worshipped.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहती (*bṛhatī*)—those of great form
+- सुपेशसा (*supeśasā*)—those of excellent form
+- उषासानक्ता (*uṣāsānaktā*)—Uṣas and the deity of night
+- द्यावाक्षामा (*dyāvākṣāmā*)—heaven and earth
+- वरुणः (*varuṇaḥ*)—Varuṇa
+- मित्रः (*mitraḥ*)—Mitra
+- अर‍्यमा (*aryamā*)—Aryaman, and with these the gods connected with this sacrifice
+- इंद्रं (*iṃdraṃ*)—Indra
+- मरुतः (*marutaḥ*)—the Maruts
+- पर्वतान् (*parvatān*)—the mountains
+- अपः (*apaḥ*)—the waters
+- आदित्यान् (*ādityān*)—the Ādityas
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- अपः (*apaḥ*)—the atmosphere
+- स्वः (*svaḥ*)—the whole host of the gods of the heavenly world
+- हुवे (*huve*)—I call
+
+##### भावार्थ (Bhāvārtha)
+
+Praying, I call upon Uṣas and the deity of night, who are of great form and of excellent beauty, upon heaven and earth, upon Varuṇa, Mitra, Aryaman, Indra, the Maruts, the mountains, the waters, the Ādityas, the atmosphere, and all such other hosts of gods.
+
+##### English translation
+I invoke the vast and beautiful day and night, heaven and earth, Mitra and Varuna with Aryaman, Indra, the Maruts, the mountains, the waters, the Adityas, heaven and earth, the waters (of the firmament), the whole (host of the gods).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दौश्च॑ नः पृथि॒वी च॒ प्रचे॑तस ऋ॒ताव॑री रक्षता॒मंह॑सो रि॒षः ।  
+> मा दु॑र्वि॒दत्रा॒ निर्ऋ॑तिर्न ईशत॒ तद्दे॒वाना॒मवो॑ अ॒द्या  ॑
+> वृणीमहे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्याः । च । नः । पृथिवी । च । प्रचेतसा । ऋतवरी इत्यृतवरी । रक्षतां । अंहसः ।  
+> रिषः ।  
+> मा । दुःविदत्रा । निऋतिः । नः । ईशत । तत् । देवानां । अवः । आद्य । वृणीमहे ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 886. Vol 27 pp. 881-886: 10.35.6 end to 10.35.11
+**Progress note:** Done through printed p. 892. Vol 27 pp. 887-892: Rk 12-14 of sukta 35, sukta 36 Rk 1-2
