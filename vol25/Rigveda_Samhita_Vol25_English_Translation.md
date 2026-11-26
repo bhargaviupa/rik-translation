@@ -10758,6 +10758,216 @@ kind of meaning also becomes possible for this word. विष्णुं स�
 
 O Aśvins, and further: the hero, that is, one capable in action; the distributor of wealths (धनसां (*dhanasāṃ*)); ऋजीषिणम् (*ṛjīṣiṇam*), that is, one who has the ṛjīṣa, the Soma that has been strained and pressed out. Though he is far away, as if lost, that Viṣṇāpva we call for our protection (अवसे (*avase*)); for a son protects his father. Further, the good praise (सुमतिः (*sumatiḥ*)) of this son or grandson is the sweetest (स्वादिष्ठा (*svādiṣṭhā*)), that is, exceedingly pleasing to the gods. The illustration is पितुर्यथा (*pituryathā*): as the praise of the father Viśvaka is pleasing to the gods, so is his. Therefore we call him; "we call" is to be supplied. मा नो (*mā no*) has been explained already.
 
+### Printed p. 272
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Aśvins,)
+- उत (*uta*)—and
+- वीरं (*vīraṃ*)—skilled in sacrificial rites
+- धनसा (*dhanasā*)—the one who distributes wealth
+- ऋजीषिणं (*ṛjīṣiṇaṃ*)—the one who has prepared the Soma called ṛjīṣa, that is, Soma extracted by pressing again the Soma plants that had been pressed once
+- दूरे चित् (*dūre cit*)—even far away
+- संतं (*saṃtaṃ*)—who is
+- त्यं (*tyaṃ*)—that Viṣṇāpu
+- अवसे (*avase*)—to protect us (the father)
+- हवामहे (*havāmahe*)—we call; further
+- यस्य (*yasya*)—of which son or grandson
+- सुमतिः (*sumatiḥ*)—the excellent praise
+- पितुः यथा (*pituḥ yathā*)—like the praise of the father, the seer Viśvaka
+- स्वादिष्ठा (*svādiṣṭhā*)—is most agreeable to the gods, that Viṣṇāpu we call
+- नः (*naḥ*)—O Aśvins, in our regard
+- सख्या (*sakhyā*)—to the friendship you have
+- मा वि यौष्टं (*mā vi yauṣṭaṃ*)—let there be no breach
+- मुमोचतं (*mumocataṃ*)—loosen the reins of your horses
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, we call to come here for our protection Viṣṇāpu, who is skilled in sacrificial and other rites, who provides wealth, who at the third pressing offers the gods Soma taken from the ṛjīṣa, who like his father offers the gods agreeable praises, and who is far away. O Aśvins, let there be no breach in the friendship you have towards us. Loosen the reins of your horses right here.
+
+##### English translation
+We summon that hero to our protection, (the enjoyer) of wealth, the possessor of the Soma, who now dwells afar off and whose hymn is most pleasing (to the gods) like his father's ; sever not our friendships, but fling loose (your reins and gallop hither).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तेन॑ दे॒वः स॑वि॒ता श॑मायत ऋ॒तस्य॒ शृंग॑मुर्वि॒या वि प॑प्रथे ।  
+> ऋ॒तं सा॑साह॒ महि॑ चित्पृतन्य॒तो मा नो॒ वि यौ॑ष्टं स॒ख्या मु॒मोच॑तम् ॥ ५ ॥
+
+### Printed p. 273
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतेन । देवः । सविता । शम्ऽआयते । ऋतस्य । शृंगम् । उर्विया । वि । पप्रथे ।  
+> ऋतम् । ससाह । महि । चित् । पृतन्यतः । मा । नः । वि । यौष्टम् । सख्या । मुमोचतम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः सत्यप्रशंसां करोति । हे अश्विनौ देवः द्योतमानः सविता सर्वस्य स्वस्वकर्मणि प्रेरक एतन्नामको देवः ऋतेन सत्येन शमायते सायंकाले स्वकिरणसमूहं शमयति । ततोऽनंतरं स एव सविता ऋतस्य सत्यस्य शृंगम् अग्रम् उर्विया उरु विस्तीर्णं यथा भवति तथा प्रातःकाले वि पप्रथे विशेषेण प्रथयति । सर्वतो विस्तारयति । किंच पृतन्यतः पृतनामिच्छतः संयुयुत्सोः शत्रोः महि चित् महदपि बलम् ऋतं सत्यं स्वयमेवाभिभवति । इत्थमृतं प्रशस्तमभूत् । तस्माद्युवामपि तेनर्तेन नः अस्माकं सख्यानि मा वि यौष्टम् । अत्रागंतुमश्वरश्मीन् मुंचतमिति ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+The seer praises truth. O Aśvins, the shining god Savitṛ, the impeller of all each to his own work, by truth (ऋतेन (*ṛtena*)) calms (शमायते (*śamāyate*)) the mass of his rays at evening. Thereafter the same Savitṛ, at morning, spreads widely and in every direction the horn (शृंगम् (*śṛṃgam*)), the peak, of truth. Further, the great (महि चित् (*mahi cit*)) might of the enemy who desires battle (पृतन्यतः (*pṛtanyataḥ*)) is overcome by truth itself. Thus truth has become praised. Therefore you too, by that truth, let not our friendships be broken (मा वि यौष्टम् (*mā vi yauṣṭam*)); loosen the reins of your horses here.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O Aśvins,)
+- देवः (*devaḥ*)—the shining
+- सविता (*savitā*)—god Savitṛ, who impels all
+- ऋतेन (*ṛtena*)—by the greatness of truth itself
+- शमायते (*śamāyate*)—calms his rays at evening
+- ऋतस्य (*ṛtasya*)—of truth
+- शृंगं (*śṛṃgaṃ*)—the greatness (in order to make it manifest)
+- उर्विया (*urviyā*)—the extensive mass of rays
+- वि पप्रथे (*vi paprathe*)—he spreads out specially at morning; further
+- पृतस्यतः (*pṛtasyataḥ*)—of the enemy who desires battle
+- महि चित् (*mahi cit*)—the great might
+- ऋतं (*ṛtaṃ*)—suffers defeat by truth itself
+- नः सख्या (*naḥ sakhyā*)—to the friendship between us and you
+- मा वि यौष्टं (*mā vi yauṣṭaṃ*)—let there be no breach
+- मुमोचतं (*mumocataṃ*)—loosen the reins of your horses and make them stand here
+
+##### भावार्थ (Bhāvārtha)
+
+In this Ṛk the seer praises truth in this manner. O Aśvins, the shining god Savitṛ (the sun) calms his rays at the time of setting by the greatness of truth itself. 
+
+### Printed p. 274
+
+Again at morning, his spreading out his rays extensively everywhere is also by the greatness of truth itself. The might of the enemy who rushes forward wishing to fight also shrinks by the greatness of truth itself. O Aśvins, let there never be a breach in the friendship between us and you. Loosen the reins of your horses and stay right here.
+
+##### English translation
+The sun-god by truth extinguishes his beams (in the evening) ; he spreads abroad (in the morning) the horn of truth ; truth verily overcomes the might of the eager assailant ; therefore sever not our friendships, but fling loose (your reins and gallop hither).
+
+## Sūkta 87 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘द्युम्नी वाम् ' इति षडृचं सप्तमं सूक्तम् । तथा चानुक्रम्यते- द्युम्नी षड्वासिष्ठो वा द्युम्नीकः प्रियमेधो वा प्रागाथं ह ' इति । वसिष्ठपुत्रो द्युम्नीक ऋषिरांगिरसः प्रियमेधो वा । उभयत्र वाशब्दाद्यदोभावपि न स्यातां तदा प्रकृत आंगिरसः कृष्ण एव ऋषिः । अयुजो बृहत्यो युजः सतोबृहत्यः । अश्विनौ देवता । प्रातरनुवाके आश्विने क्रतौ बार्हते छंदस्याश्विनशस्त्रे चेदं सूक्तम् । सूत्रितं च – ' द्युम्नी वां यत्स्थ इति बार्हतम् ' ( आश्व. श्रौ. ४. १५) इति ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, of six Ṛks, beginning द्युम्नी वाम् (*dyumnī vām*). The Anukramaṇikā says: द्युम्नी षड्वासिष्ठो वा द्युम्नीकः प्रियमेधो वा प्रागाथं ह (*dyumnī ṣaḍvāsiṣṭho vā dyumnīkaḥ priyamedho vā prāgāthaṃ ha*). The seer is Dyumnīka, son of Vasiṣṭha, or Priyamedha Āṅgirasa. Because of the word वा (*vā*) in both places, if neither of the two applies, then the seer here is Kṛṣṇa Āṅgirasa himself. The odd Ṛks are Bṛhatī and the even Ṛks Satobṛhatī (अयुजो बृहत्यो युजः सतोबृहत्यः (*ayujo bṛhatyo yujaḥ satobṛhatyaḥ*)). The Aśvins are the deity. This sūkta is used in the Prātaranuvāka, in the Āśvina rite, in the Bārhata metre, and in the Āśvina-śastra. It is also laid down in the sūtra द्युम्नी वां यत्स्थ इति बार्हतम् (*dyumnī vāṃ yatstha iti bārhatam*) (Āśv. Śrau. 4. 15).
+
+The Anuvāda: this sūkta beginning द्युम्नी वां (*dyumnī vāṃ*) is the seventh sūkta in the ninth Anuvāka. It has six Ṛks. In the Anukramaṇikā it is said: द्युम्नी षड्वासिष्ठो वा द्युम्नीकः प्रियमेधो वा प्रागाथं ह (*dyumnī ṣaḍvāsiṣṭho vā dyumnīkaḥ priyamedho vā prāgāthaṃ ha*). The seer of this sūkta is Dyumnīka, son of Vasiṣṭha, or one named Priyamedha Āṅgirasa. If it is neither of these two, the one named Kṛṣṇa Āṅgirasa is the seer. The odd-numbered Ṛks of this sūkta are in the Bṛhatī metre, the even-numbered in the Satobṛhatī metre. The Aśvins are the deity. At the time of reciting the Prātaranuvāka mantras, this sūkta is applied to the Bṛhatī Ṛks connected with the Āśvina rite and to the Āśvina-śastra mantras, as is explained by the sūtra द्युम्नी वां यत्स्थ इति बार्हतं (*dyumnī vāṃ yatstha iti bārhataṃ*) (Āśv. 4-15) of the Āśvalāyana Śrauta-sūtra.
+
+### Printed p. 275
+
+Sūkta 87
+
+Maṇḍala 8, Anuvāka 9, Sūkta 87
+
+Aṣṭaka 6, Adhyāya 6, Varga 10
+
+Number of Ṛks in the sūkta: 6
+
+Seer: Kṛṣṇo Dyumnīko vā Vāsiṣṭhaḥ Priyamedho vā **NOTE**
+
+Deity: Aśvinau
+
+Metre: Prāgātham (ayujaḥ bṛhatyaḥ yujaḥ satobṛhatyaḥ)
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्यु॒म्नी वां॒ स्तोमो॑ अश्विना॒ क्रिवि॒र्न सेक॒ आ ग॑तम् ।  
+> मध्वः॑ सु॒तस्य॒ स दि॒वि प्रि॒यो न॑रा पा॒तं गौ॒रावि॒वेरि॑णे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्युम्नी । वाम् । स्तोमः । अश्विना । क्रिविः । न । सेके । आ । गतम् ।  
+> मध्वः । सुतस्य । सः । दिवि । प्रियः । नरा । पातम् । गौरौऽइव । इरिणे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ अयमनुपक्षीणस्तोत्रो द्युम्नीक एतन्नामक ऋषिः वां युवयोः स्तोमः स्तोता भवति । युष्मत्स्तुतौ कृतायां स्तोत्राणि नाल्पीभवंति  किंतु पुनर्वर्धंत इत्यर्थः। तत्र दृष्टांतः । क्रिविर्न । क्रिविरिति कूपनाम । कूपो यथा सेके उदकसेचने वृष्टौ भवंत्यां नाल्पोदको' भवति तद्वत् । यद्वा । वां युवयोः स्तोमो युष्मद्विषया स्तुतिर्द्युम्न्यन्नवती खलु । स्तोत्रे कृते तस्मा अन्नादिकं प्रयच्छत इत्यर्थः । तस्माद्युवामस्मदीयं यज्ञं प्रति आ गतम् । स्तोत्राणि श्रोतुमागच्छतम् । हे नरा नरौ नेतारावश्विनौ सः अयं स्तोता दिवि द्योतमाने अस्मिन् यज्ञे सुतस्य अभिषुतस्य मध्वः मदकरस्य सोमस्य प्रियः स्तोत्रकारित्वेन प्रियतमो भवति । ततस्तेन सुतं सोमं पातं युवां शीघ्रमागत्य पिबतम् । तत्र दृष्टांतः । गौराविव यथा तृषितौ गौरावेतन्नामको मृगौ इरिणे तटाकादिषूदकपानार्थं शीघ्रमागच्छतस्तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, this seer named Dyumnīka, whose praise does not fail, is your praiser (स्तोमः (*stomaḥ*)). When praise of you is made, the hymns do not become scanty but grow. The illustration is क्रिविर्न (*krivirna*): क्रिविः (*kriviḥ*) is a name for a well; as a well does not become scant of water when the sprinkling (सेके (*seke*)) of rain is taking place, so it is here. Or else: your praise (स्तोमः (*stomaḥ*)), the praise directed to you, is rich in glory, that is, in food; when a hymn is made, you give him food and the like. Therefore come to our sacrifice, to hear the hymns. O leaders (नरा (*narā*)), Aśvins, this praiser, in this shining (दिवि (*divi*)) sacrifice, because he is a praiser, is dearest (प्रियः (*priyaḥ*)) to the pressed, intoxicating Soma. Therefore come quickly and drink the Soma pressed by him. The illustration is गौराविव (*gaurāviva*): as two thirsty Gauras, deer so named, come quickly to a pond (इरिणे (*iriṇe*)) or the like to drink water, so it is here.
+
+### Printed p. 276
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- अयं (*ayaṃ*)—this seer Dyumnīka, the seer of this sūkta
+- वां (*vāṃ*)—your
+- स्तोमः (*stomaḥ*)—is the praiser
+- क्रिविः न (*kriviḥ na*)—those hymns, like the water of a well that rises in the rainy season
+- द्युम्नि (*dyumni*)—are exceedingly abundant. Therefore, to hear the hymns
+- आ गतं (*ā gataṃ*)—please come here
+- नरा (*narā*)—O Aśvins, leaders of sacrificial rites
+- सः (*saḥ*)—that Dyumnīka, who sings the hymns
+- दिवि (*divi*)—in this brilliant (well-performed) sacrifice
+- सुतस्य (*sutasya*)—of the pressed
+- मध्वः (*madhvaḥ*)—intoxicating Soma juice
+- प्रियः (*priyaḥ*)—is the dearest. Therefore
+- इरिणे (*iriṇe*)—at a pool or similar water-place, to drink the water
+- गौराविव (*gaurāviva*)—like the Gara deer that come
+- पातं (*pātaṃ*)—drink the pressed Soma
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the hymns with which Dyumnīka, the seer of this sūkta, praises you are exceedingly abundant, like the water in a well in the rainy season. O leaders, Aśvins, please come here to hear those hymns. And in this brilliant, that is, well-proceeding, sacrifice, in order to drink the tasty Soma prepared beforehand by Dyumnīka, come here and drink the Soma here, as Gaura deer drink water at ponds and other water-places.
+
+##### English translation
+Aswins, your praise is filled with plenty as a well ( with water ) in time of rain ; hasten hither ; it is especially dear to the Soma when it is effused in the brilliant (offering); drink, leaders (of rites), as two Gauras (drink) at a pool.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिब॑तं घ॒र्मं मधु॑मंतमश्वि॒ना ब॒र्हिः सी॑दतं नरा ।  
+> ता मं॑दसा॒ना मनु॑षो दुरो॒ण आ नि पा॑तं॒ वेद॑सा॒ वयः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिबतम् । घर्मम् । मधुऽमंतम् । अश्विना । आ । बर्हिः । सीदतम् । नरा ।  
+> ता । मंदसाना । मनुषः । दुरोणे । आ । नि । पातम् । वेदसा । वयः ॥ २ ॥
+
+### Printed p. 277
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ मधुमंतं मदवंतम् । मदकारिणमित्यर्थः। तादृशं रसवंतं वा घर्मम् । ‘घृ क्षरणदीप्त्योः ' । पात्रेषु क्षरंतं सोमं पिबतम् । यद्वा । मधुमंतम् । मधुर्मदकरः सोमः तद्वंतं घर्मं महावीरपात्रगतं क्षीरं पिबतं सोमं चेति । न तु साहचर्येण तदसंभवात् । हे नरा नरौ नेतारौ सर्वस्य हे अश्विनौ बर्हिः बर्हिषि यज्ञे आ सीदतम् उपविशतम् । यद्वा । पूर्वं द्वितीयं पादं व्याख्याय प्रथमपादो व्याख्येयः । उपसदनानंतरं सोमपानं युक्तमिति । किंच मनुषः मनुष्यस्य दुरोणे गृहभूतेऽस्मिन् देवयजने मंदसाना सोमपानेन मोदमानौ ता तौ पूर्वोक्तलक्षणौ युवां वेदसा पुरोडाशादिलक्षणेन हविषा सह वयः सोमरूपमन्नम् आ आगत्य नि पातं निपिबतम् । यद्वा । वेदसा धनेन सह वयोऽस्माकमायुर्नि पातं नितरां रक्षतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, drink the ghṛma (घर्मम् (*gharmam*)), which is madhumant (मधुमंतम् (*madhumaṃtam*)), that is, intoxicating or full of juice: the Soma that trickles in the vessels. Or else: madhumant, madhu being the intoxicating Soma, and ghṛma, the milk in the Mahāvīra vessel that has it; drink both the milk and the Soma. Not so by association, since that is impossible. O leaders (नरा (*narā*)) of all, Aśvins, sit (आ सीदतम् (*ā sīdatam*)) on the sacred grass (बर्हिः (*barhiḥ*)) at the sacrifice. Or else: having first explained the second pāda, the first pāda is to be explained, since Soma-drinking is proper after sitting down. Further, in the house (दुरोणे (*duroṇe*)) of the man, in this place of worship that is his house, you two, rejoicing (मंदसाना (*maṃdasānā*)) in the drinking of Soma, those described above, come with the oblation consisting of cake and the like, and drink the food (वयः (*vayaḥ*)) in the form of Soma. Or else: with wealth (वेदसा (*vedasā*)) protect continually our food, that is, our life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- मधुवंतं (*madhuvaṃtaṃ*)—intoxicating
+- घर्मं (*gharmaṃ*)—the Soma juice that trickles in the vessel
+- पिबतं (*pibataṃ*)—drink. Or
+- मधुवंतं (*madhuvaṃtaṃ*)—like intoxicating Soma juice
+- घर्मं (*gharmaṃ*)—the milk that is in the Mahāvīra vessel
+- पिबतं (*pibataṃ*)—drink
+- नरा (*narā*)—O Aśvins, the leaders
+- बर्हिः (*barhiḥ*)—on this sacrificial ground
+- आ सीदतं (*ā sīdataṃ*)—sit down
+- मनुषः (*manuṣaḥ*)—of the sacrificer, the man **NOTE**
+- दुरोणे (*duroṇe*)—in the sacrificial house
+- आ (*ā*)—having come
+- मदसाना (*madasānā*)—satisfied by drinking Soma
+- ता (*tā*)—you
+- वेदसा (*vedasā*)—together with the food in the form of oblations such as the cake
+- वयः (*vayaḥ*)—the food in the form of Soma
+- नि पातं (*ni pātaṃ*)—drink. Or
+- वेदसा (*vedasā*)—together with wealth
+- वयः (*vayaḥ*)—food or life
+- नि पातं (*ni pātaṃ*)—give to us and protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, the intoxicating Soma juice from the crushed plants is trickling into the vessel. Drink it. O Aśvins, leaders, come and sit on this our sacrificial ground, drink the Soma of the kind mentioned before at the sacrifice of the sacrificer, and being satisfied, give us wealth, food and life, and protect us.
+
+##### English translation
+Drink, Aswins, the exhilarating (Soma) as it drops (into the vessels),—seat yourselves, leaders, on the sacrificial grass; rejoicing in the house of the worshipper, drink the sacred beverage with the oblation.
+
 ---
 
-**Progress note:** Done through printed p. 271. pp. 266-271: Sukta 86 Rks 1-4
+**Progress note:** Done through printed p. 277. Vol25 pp.272-277: end of 86.4, 86.5, Sukta 87 Rk 1-2
