@@ -5440,6 +5440,265 @@ Divine (Agni), proclaim us to the gods as profoundly skilled ; assure to us all 
 
 O Agni, youngest (यविष्ठ्य (*yaviṣṭhya*)), son of strength (सहसः सूनो (*sahasaḥ sūno*)), invoked from every side (आहुत (*āhuta*)), when you become truthful (ऋतावा (*ṛtāvā*)) and worthy of the sacrifice (यज्ञियः (*yajñiyaḥ*)), then make the desirable things true; this is the connection.
 
+### Printed p. 133
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यविष्ठ्य (*yaviṣṭhya*)—most youthful
+- सहसः सूनो (*sahasaḥ sūno*)—son of strength
+- आहुत (*āhuta*)—one who is called upon everywhere; O Agni, such as you are
+- त्वं (*tvaṃ*)—you
+- यद्ध (*yaddha*)—by whose power of yours
+- ऋतावा (*ṛtāvā*)—truthful
+- यज्ञियः (*yajñiyaḥ*)—possessed of sacrifice
+- भुवः (*bhuvaḥ*)—you are (by that very power fulfil our desired ends)
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, most youthful, son of strength, invoked everywhere, by that power of yours by which you are truthful and possessed of sacrifice, by that very power fulfil our desired ends.
+
+##### English translation
+Since you are truthful and worthy of sacrifice, O most youthful, son of strength and everywhere honoured with offerings.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यम॒ग्निः स॑ह॒स्रिणो॒ वाज॑स्य श॒तिन॒स्पतिः॑ ।  
+> मू॒र्धा क॒वी र॑यी॒णाम् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । अग्निः । सहस्रिणः । वाजस्य । शतिनः । पतिः ।  
+> मूर्धा । कविः । रयीणाम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमग्निः शतिनः सहस्रिणः चोक्तसंख्योपेतस्य वाजस्य अन्नस्य पतिः स्वामी मूर्धा शिरोवदुन्नतः श्रेष्ठः कविः मेधावी रयीणां धनानामपि पतिरिति शेषः । तदुभयं प्रयच्छत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This Agni is the lord of food (वाजस्य (*vājasya*)) that has the stated numbers, a hundredfold and a thousandfold. He is the head, that is, exalted like a head, the foremost; the seer, that is, the wise one. He is also the lord of riches, which is to be supplied. The sense is: may he grant both food and wealth.
+
+### Printed p. 134
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अयं अग्निः (*ayaṃ agniḥ*)—this well-known Agni
+- शतिनः (*śatinaḥ*)—of hundredfold number
+- सहस्रिणः (*sahasriṇaḥ*)—of thousandfold number
+- वाजस्य (*vājasya*)—of food
+- पतिः (*patiḥ*)—is the lord
+- मूर्धा (*mūrdhā*)—is the foremost
+- कविः (*kaviḥ*)—is the wise one
+- रयीणां (*rayīṇāṃ*)—is the giver of all riches
+
+##### भावार्थ (Bhāvārtha)
+
+This well-known Agni is the lord of food, hundredfold and thousandfold, the foremost, the wise one, and the giver of all riches.
+
+##### English translation
+This Agni is the lord of hundredfold and thousandfold food; he is the head, the seer, (the lord) of wealth.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Darśapūrṇamāsa sacrifices, when an offering is made to Agni, this Ṛk अयमग्निः (*ayamagniḥ*) is to be recited as an optional yājyā mantra, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra अयमग्निः सहस्रिण इति वेदं विष्णुर्वि चक्रमे (*ayamagniḥ sahasriṇa iti vedaṃ viṣṇurvi cakrame*) (Ā. 1-6).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं ने॒मिमृ॒भवो॑ य॒था न॑मस्व॒ सहू॑तिभिः ।  
+> नेदी॑यो य॒ज्ञमं॑गिरः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तम् । नेमिम् । ऋभवः । यथा । आ । नमस्व । सहूतिऽभिः ।  
+> नेदीयः । यज्ञम् । अंगिरः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरः त्वं सहूतिभिः समानाह्वानैरन्यैर्देवैः सह नेदीयः अंतिकतमं यज्ञम् आ नमस्व' आनमय । ऋभवः नेमिं रथमिव ॥ ॥ २४ ॥
+
+##### Gist of the bhāṣya
+
+O Aṅgiras, together with the other gods who share your invocation, bend towards us the sacrifice that is nearest, as the Ṛbhus bend the felly of a chariot.
+
+### Printed p. 135
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—O Agni, of the form of Aṅgiras
+- ऋभवः (*ṛbhavaḥ*)—the Ṛbhus
+- नेमिं यथा (*nemiṃ yathā*)—as they bend the felly of a chariot wheel
+- सहूतिभिः (*sahūtibhiḥ*)—with the other deities who have the invocation together with you
+- नेदीयः (*nedīyaḥ*)—the nearest
+- तं यज्ञं (*taṃ yajñaṃ*)—towards that same sacrifice
+- आ नमस्व (*ā namasva*)—come bending
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, of the form of Aṅgiras, as the Ṛbhus bend the felly of a chariot wheel, so come bending, together with the other deities who share your invocation, towards the nearest sacrifice.
+
+##### English translation
+O Angiras, with the deities associated in the invocation, draw this offering near you as the Ribhus (bend) the circumference of a wheel.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तस्मै॑ नू॒नम॒भिद्य॑वे वा॒चा वि॑रूप॒ नित्य॑या ।  
+> वृष्णे॑ चोदस्व सुष्टु॒तिम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तस्मै । नूनम् । अभिऽद्यवे । वाचा । विऽरूप । नित्यया ।  
+> वृष्णे । चोदस्व । सुऽस्तुतिम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विरूप नानारूपैतन्नामक महर्षे त्वं तस्मै प्रसिद्धाय अभिद्यवे अभिगतदीप्तये वृष्णे वर्षकायाग्नये नित्यया उत्पत्तिरहितया वाचा मंत्ररूपया सुष्टुतिं नूनम् इदानीं चोदस्व स्तुहीत्येवमृषिः स्वात्मानं ब्रवीति यजमानो वा होतारं विरूपम् ॥
+
+##### Gist of the bhāṣya
+
+O Virūpa, great sage of that name, now send forth a good praise, in the form of a mantra and a voice that has no origin, to that well-known Agni, the radiant one, the showerer. In this way the seer speaks to himself; or else the sacrificer speaks to the Hotṛ, Virūpa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विरूप (*virūpa*)—O sage named Virūpa
+- तस्मै (*tasmai*)—to him who is well-known
+- अभिद्यवे (*abhidyave*)—who has widespread radiance
+- वृष्णे (*vṛṣṇe*)—who grants desired ends, to that Agni
+- नित्यया (*nityayā*)—that has no origin
+
+### Printed p. 136
+
+- वाचा (*vācā*)—with a voice in the form of a mantra
+- सुष्टुतिं (*suṣṭutiṃ*)—excellent praise
+- नूसं (*nūsaṃ*)—now
+- चोदस्व (*codasva*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+O sage named Virūpa, now recite excellent praise, with a voice that is constant and in the form of a mantra, to Agni, the well-known, of widespread radiance, the granter of desired ends.
+
+##### English translation
+Virupa, with constant voice address you praise to this well-pleased showerer (of blessings).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कमु॑ ष्विदस्य॒ सेन॑या॒ग्नेरपा॑कचक्षसः ।  
+> प॒णिं गोषु॑ स्तरामहे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कम् । ऊं इति । स्वित् । अस्य । सेनया । अग्नेः । अपाकऽचक्षसः ।  
+> पणिम् । गोषु । स्तरामहे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्य अग्नेः अपाकचक्षसः अनल्पचक्षसोऽग्नेः सेनया ज्वालारूपया गोषु निमित्तेषु कमु ष्वित् कं खलु पणिं स्तरामहे । स्तरणं हिंसनम् । इदानीं बलिनमभिभवेमेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+By the army of this Agni of vast radiance, an army in the form of flames, on account of the cows, which enemy, the Paṇi, shall we overthrow? Overthrowing (स्तरणं (*staraṇaṃ*)) is killing. The meaning is: now may we overcome the strong one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अपाकचक्षसः (*apākacakṣasaḥ*)—of exceedingly increased radiance
+- अस्य अग्नेः (*asya agneḥ*)—of this Agni
+- सेनया (*senayā*)—with the help of the army in the form of flames
+- गोषु (*goṣu*)—to obtain cows
+- कमु स्वित् पणिं (*kamu svit paṇiṃ*)—which enemy in the form of a Paṇi indeed
+- स्तरामहे (*starāmahe*)—should we conquer
+
+### Printed p. 137
+
+##### भावार्थ (Bhāvārtha)
+
+With the help of the flame-like army of this Agni, of exceedingly increased radiance, we shall be able to conquer all enemies. Now, to obtain cows, which enemy shall we face and defeat? Who is such an enemy in the form of a Paṇi?
+
+##### English translation
+What strong enemy shall we overthrow, to win cows by the help of the host of this Agni of unmeasured radiance ?
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ दे॒वानां॒ विशः॑ प्रस्ना॒तीरि॑वो॒स्राः ।  
+> कृ॒शं न हा॑सु॒रघ्न्याः॑ ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । देवानाम् । विशः । प्रस्नातीःऽइव । उस्राः ।  
+> कृशम् । न । हासुः । अघ्न्याः ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानां सर्वेषां विशः प्रजाभूतान् परिचारकान् नः अस्मान् मा हासीत् अग्निर्मा परित्यजतु । प्रस्नातीः उस्राः इव पयः क्षरंतीर्गाव इव । ता यथा न मुंचंति । उभयमपि न परित्यजत्वित्यर्थः । किमिव । कृशम् अल्पं स्ववत्सम् अघ्न्याः गावो यथा न हासुः न परित्यजंति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+May Agni not forsake us, the subjects and servants of all the gods. As cows that yield abundant milk do not let go, so may he not abandon either. How? As cows (अघ्न्याः (*aghnyāḥ*)) do not abandon their own weak, small calf, so may he not abandon us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अघ्न्याः (*aghnyāḥ*)—the cows
+- कृशं (*kṛśaṃ*)—their young calves
+- न हासुः (*na hāsuḥ*)—as they do not abandon, so
+- देवानां (*devānāṃ*)—of all the gods
+- विशः (*viśaḥ*)—who are subjects
+- नः (*naḥ*)—us
+- प्रस्नातीः (*prasnātīḥ*)—that give milk in abundance
+- उस्राः इव (*usrāḥ iva*)—Agni, who is beneficent like milch cows
+- मा (*mā*)—may not forsake
+
+### Printed p. 138
+
+##### भावार्थ (Bhāvārtha)
+
+As cows do not abandon their young calves, so may Agni, who is beneficent like the milch cows that give milk in abundance, not forsake us, who are subjects of all the gods.
+
+##### English translation
+May he not ( forsake ) us, the licgemen of the gods, as the milk-streaming cows (forske not) ; the cows abandon not a little (calf). **NOTE**
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नः॑ समस्य दू॒ढ्य१॒ः॑ परि॑द्वेषसो अंह॒तिः ।  
+> ऊ॒र्मिर्न नाव॒मा व॑धीत् ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । समस्य । दुःऽध्यः । परिऽद्वेषसः । अंहतिः ।  
+> ऊर्मिः । न । नावम् । आ । वधीत् ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समस्य सर्वस्य परिद्वेषसः परितो द्विषतः दूढ्यः पापबुद्धेः अंहतिः हननं मा आ वधीत् मा हिंस्यात् । नावम् ऊर्मिः समुद्रतरंग इव । स यथा तां पीडयति तद्वन्मा वधीदित्यर्थः । अत्र ‘मा नः सर्वस्य दुर्धियः' (निरु. ५. २३) इत्यादि निरुक्तं द्रष्टव्यम् ॥
+
+##### Gist of the bhāṣya
+
+May the destruction, the harm, of every evil-minded one who hates us on all sides not strike us down, as a wave of the sea strikes a ship; as the wave oppresses the ship, so may it not strike us. Here the Nirukta on मा नः सर्वस्य दुर्धियः (*mā naḥ sarvasya durdhiyaḥ*) (Ni. 5. 23) and so on is to be seen.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऊर्मिः (*ūrmiḥ*)—the waves of the sea
+- नावं न (*nāvaṃ na*)—as they strike a boat and destroy it
+- समस्य (*samasya*)—of all people
+- परिद्वेषसः (*paridveṣasaḥ*)—of the enemies who surround us
+- दूर्ध्यः (*dūrdhyaḥ*)—of the evil-minded
+- अंहतिः (*aṃhatiḥ*)—the inclination to harm
+- नः (*naḥ*)—us
+- मा आ वधीत् (*mā ā vadhīt*)—may it not destroy
+
+##### भावार्थ (Bhāvārtha)
+
+As the waves of the sea strike a boat and destroy it, so may the evil-minded inclination to harm of all the enemies who surround us not destroy us.
+
 ---
 
-**Progress note:** Done through printed p. 132. Sukta 74 rks 13-15, Sukta 75 rks 1-3
+**Progress note:** Done through printed p. 138. Sukta 25 (Mandala 8), Rks 3-9 pratipada and bhavartha, pp. 133-138
