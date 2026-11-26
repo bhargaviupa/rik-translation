@@ -13629,6 +13629,265 @@ When our Soma-libations are effused, you are abundantly able (to drink them),—
 > पराकात्तात् । चित् । अद्रिऽवः । त्वाम् । नक्षंत । नः । गिरः ।  
 > अरम् । गमाम । ते । वयम् ॥ २७ ॥
 
+### Printed p. 350
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः वज्रवन्निंद्र नः अस्मदीयाः गिरः इतो निर्गताः स्तुतयः पराकात्तात् । चित् अप्यर्थः । अतिदूरादपि त्वां नक्षंत व्याप्नुवंतु । किमुत समीपात्त्वामश्नुवतामिति । नक्षतेर्व्याप्तिकर्मणो नशतेर्वा' लेटि सिपि रूपम् । एवं सति स्तोतारः वयं ते त्वदीयं धनम् अरम् अलं पर्याप्तं गमाम त्वत्तो गच्छाम ॥
+> आभिप्लविकेषूक्थ्येषु तृतीयसवने ब्राह्मणाच्छंसिनः ‘एवा ह्यसि वीरयुः' इति वैकल्पिकः स्तोत्रियः। सूत्रितं च -- एवा ह्यसि वीरयुरेवा ह्यस्य सूनृता' (आश्व. श्रौ. ७. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+O Adrivat, Indra, wielder of the thunderbolt, may these praises of ours, going forth from here, reach you even from a very distant place, how much more from near; the sense is that they pervade you. Thus, we the praisers may obtain from you your wealth, in sufficient measure. In the Ābhiplavika Ukthya days, at the third pressing, the verse beginning एवा ह्यसि वीरयुः (*evā hyasi vīrayuḥ*) is the optional stotriya of the Brāhmaṇācchaṃsin; it is laid down in the sūtra एवा ह्यसि वीरयुरेवा ह्यस्य सूनृता (*evā hyasi vīrayurevā hyasya sūnṛtā*) (Āśv. Śrau. 7. 8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt weapon
+- नः (*naḥ*)—our
+- गिरः (*giraḥ*)—words in the form of praise
+- पराकात्तात् (*parākāttāt*)—even from a very distant region
+- त्वां (*tvāṃ*)—you
+- नक्षंत (*nakṣaṃta*)—may they pervade
+- वयं (*vayaṃ*)—we
+- ते (*te*)—the wealth that belongs to you
+- अरं (*araṃ*)—as we wish
+- गमाम (*gamāma*)—may we obtain from you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt weapon, may our praises come and reach you even from a very distant region. May we obtain abundantly, as we wish, the wealth that you intend to give us.
+
+##### English translation
+May our praises reach you, thunderer, even from afar; may we obtain your (wealth) abundantly.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा ह्यसि॑ वीर॒युरे॒वा शूर॑ उ॒त स्थि॒रः ।  
+> ए॒वा ते॒ राध्यं॒ मनः॑ ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । हि । असि । वीरऽयुः । एव । शूरः । उत । स्थिरः ।  
+> एव । ते । राध्यम् । मनः ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आभिप्लविकेषूक्थ्येषु तृतीयसवने ब्राह्मणाच्छंसिनः ‘एवा ह्यसि वीरयुः' इति वैकल्पिकः स्तोत्रियः। सूत्रितं च -- एवा ह्यसि वीरयुरेवा ह्यस्य सूनृता' (आश्व. श्रौ. ७. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+In the Ābhiplavika Ukthya days, at the third pressing, the verse beginning एवा ह्यसि वीरयुः (*evā hyasi vīrayuḥ*) is the optional stotriya of the Brāhmaṇācchaṃsin. It is laid down in the sūtra एवा ह्यसि वीरयुरेवा ह्यस्य सूनृता (*evā hyasi vīrayurevā hyasya sūnṛtā*) (Āśv. Śrau. 7. 8).
+
+### Printed p. 351
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (ऎल्लै इंद्रने (*èllai iṃdrane*) you) वीरयुः एव (*vīrayuḥ eva*)—you are desirous of killing the enemy heroes in battle
+- असि (*asi*)—you are
+- हि (*hi*)—it is well known
+- एव त्वं (*eva tvaṃ*)—and therefore you
+- शूरः (*śūraḥ*)—are possessed of strength and capacity
+- उत (*uta*)—besides
+- स्थिरः (*sthiraḥ*)—you stand firm in battle, not fleeing in fear of the enemies. Therefore
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- राध्यं एव (*rādhyaṃ eva*)—is worthy of being praised with praises
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are indeed desirous of killing the enemy heroes in battle. This is well known. Therefore you are possessed of strength and capacity, and you stand firm in battle, not afraid of the enemies. For these reasons your steadfastness of mind is worthy of being praised.
+
+##### English translation
+You verily love to smite the mighty, you are a hero and firm (in battle), your mind is to be propitiated (by praise).
+
+##### विशेषविषयगळु (Special Topics)
+
+Among the mantras to be recited by the priest called Brāhmaṇācchaṃsin at the third pressing in the Ukthya sacrifices connected with the Ābhiplava, the hundred Ṛks beginning एवा ह्यसि वीरयुः (*evā hyasi vīrayuḥ*) are to be recited as the optional stotriya tṛca; this is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, एवा ह्यसि वीरयुरेवा ह्यस्य सूनृता (*evā hyasi vīrayurevā hyasya sūnṛtā*) (Ā. 7-8)
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा रा॒तिस्तु॑वीमघ॒ विश्वे॑भिर्धायि धा॒तृभिः॑ ।  
+> अधा॑ चिदिंद्र मे॒ सचा॑ ॥ २९ ॥
+
+### Printed p. 352
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । रातिः । तुविऽमघ । विश्वेभिः । धायि । धातृऽभिः ।  
+> अध । चित् । इंद्र । मे । सचा ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे तुविमघ । तुविरिति बहुनाम । बहुधनवन्निंद्र विश्वेभिः विश्वैः धातृभिः कर्माधारकैः । यद्वा । देवानां हविर्दानेन पोषयितृभिः । सर्वैर्यजमानैस्तव रातिः गवाश्वधनादिदानं धायि तैर्धार्यते एव । दधातेर्लुङि कर्मणि रूपम् । चिदेवार्थे । अध अत एव हे इंद्र एवंविध त्वं मे यष्टुर्ममापि सचा धनादिदानेन कर्मसहायो भव ॥
+
+##### Gist of the bhāṣya
+
+O Indra of great wealth, for tuvi means much, your bounty, the giving of cows, horses, wealth and the like, is upheld by all the sustainers of the rite; or else, by all the sacrificers who nourish the gods by giving oblations. Therefore, O Indra, such as you are, be also my ally in the rite, the sacrificer, by giving wealth and the rest.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तुवीमघ (*tuvīmagha*)—O Indra, possessed of much wealth
+- विश्वेभिः (*viśvebhiḥ*)—by all
+- धातृभिः (*dhātṛbhiḥ*)—the sacrificers, who uphold the rite
+- राति (*rāti*)—the giving of cows, horses and the like
+- धायि एव (*dhāyi eva*)—is carried out
+- अधॆ चित् (*adhè cit*)—therefore
+- इंद्र (*iṃdra*)—O Indra, you
+- मे (*me*)—to me who perform the sacrifice
+- सचा (*sacā*)—be a helper in the rite by giving wealth and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessed of much wealth, the giving of cows, horses and the like is carried out by all the sacrificers who perform the rite. Therefore, O Indra, be a helper in my rite by giving wealth and the rest to me, who perform the sacrifice.
+
+##### English translation
+Lord of great wealth, your bounty is possessed by all your worshippers ; therefore, Indra, be also my ally.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मो षु ब्र॒ह्मेव॑ तंद्र॒युर्भुवो॑ वाजानां पते ।  
+> मत्स्वा॑ सु॒तस्य॒ गोम॑तः ॥ ३० ॥
+
+### Printed p. 353
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मो इति । सु । ब्रह्माऽइव । तंद्रयुः । भुवः । वाजानाम् । पते ।  
+> मत्स्व । सुतस्य । गोऽमतः ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजानां पते अन्नानां पते बलानां वा हे इंद्र तंद्रयुः निष्कारणं निवृत्तकर्मवत्त्वादालस्ययुक्तः ब्रह्मेव ब्राह्मण इव ।  ‘ अथापि तद्वदर्थे भाष्यते' (निरु. ६. ३१ ) इति यास्कोक्तमनुसृत्य तंद्रयुक्त इत्युक्तम् । अथवा यागादिकर्मपरित्यागेनालस्यमिच्छन्नास्तिको ब्राह्मण इव त्वं मो षु भुवः सुष्ठु मा भवः । सर्वदास्मत्कर्मान्वितो भवेत्याशासनम् । तदेवाह । सुतस्य अभिषुतस्य ततः गोमतः गव्येन क्षीरेण दध्ना वा मिश्रणवतः सोमस्य पानेन मत्स्व माद्य हृष्टो भव ॥
+
+##### Gist of the bhāṣya
+
+O lord of foods, or of strengths, Indra: do not be idle, without reason, like a Brahmin who has given up his rites. "Like a Brahmin" is said in accordance with Yāska's statement अथापि तद्वदर्थे भाष्यते (*athāpi tadvadarthe bhāṣyate*) (Ni. 6. 31). Or else: like a Brahmin who, abandoning sacrificial and other rites, wishes for idleness and is a disbeliever, do not be so at all; may you always be present at our rite. That is the wish. Therefore drink the pressed Soma mixed with cow's milk or curds, and rejoice, become gladdened.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजानां (*vājānāṃ*)—of foods or of strengths
+- पते (*pate*)—O Indra, the lord
+- तंद्रयुः (*taṃdrayuḥ*)—idle
+- ब्रह्मेव (*brahmeva*)—like a Brahmin (you)
+- मो षु भुवः (*mo ṣu bhuvaḥ*)—do not be
+- सुतस्य (*sutasya*)—pressed
+- गोमतः (*gomataḥ*)—by the drinking of Soma mixed with milk or curds
+- मत्स्व (*matsva*)—be gladdened
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of foods or of strengths, do not be like an idle Brahmin who does not perform sacrifices and other rites, but is lazy. Drink the Soma juice pressed for you, mixed with milk, a product of the cow, or with curds, and be gladdened.
+
+##### English translation
+Be not like a lazy Brahman, O lord of food ; rejoice yourself by drinking the effused Soma mixed with milk.
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा न॑ इंद्रा॒भ्या॒३॒॑दिशः॒ सूरो॑ अ॒क्तुष्वा य॑मन् ।  
+> त्वा यु॒जा व॑नेम॒ तत् ॥ ३१ ॥
+
+### Printed p. 354
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । इंद्र । अभि । आऽदिशः । सूरः । अक्तुषु । आ । यमन् ।  
+> त्वा । युजा । वनेम । तत् ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र आदिशः आदेष्टारः समंतादायुधान्यतिविसृजंतः सूरः । ‘सृ गतौ'। सर्वत्र सरणशीला राक्षसाः अक्तुषु रात्रिषु दिवापि नः अस्माकं मा अभि आ यमन् आभिमुख्येन मा नियंतारो भवंतु । यद्यागताश्चेत्तदा तत् रक्षःकुलं त्वा त्वया युजा सहायेन वयं वनेम हिंसाम ।' श्नथ क्नथ क्रथ क्लथ हिंसार्था वन च' इत्यत्र पठितत्वाद्धिंसार्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, may the commanders, the demons who hurl weapons all around and who prowl everywhere (root सृ गतौ (*sṛ gatau*)), not rule over us, facing us, in the nights, or even by day. If they have come, then we, with you as our helper, would smite that race of demons; वन (*vana*) is in the sense of killing, as it is read in the list of roots of that sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- आदिशः (*ādiśaḥ*)—the demons skilled in hurling weapons
+- सूरः (*sūraḥ*)—and prowling everywhere
+- अक्तुषु (*aktuṣu*)—in the nights (by day also)
+- नः (*naḥ*)—to us
+- मा अभि आ यमन् (*mā abhi ā yaman*)—may they not become rulers
+- तत् (*tat*)—that host of demons
+- त्वा युजा (*tvā yujā*)—with your help
+- वनेमु (*vanemu*)—may we smite
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, may the demons, who are very skilled in the use of weapons and prowl everywhere, not become our rulers in the nights (and by day), that is, may we not come under their control. May we destroy that host of demons with your help.
+
+##### English translation
+Indra, let not the threatening prowling (demons) obstruct us at night ; let us smite them with you as our helper.
+
+#### Ṛk 32
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वयेदिं॑द्र यु॒जा व॒यं प्रति॑ ब्रुवीमहि॒ स्पृधः॑ ।  
+> त्वम॒स्माकं॒ तव॑ स्मसि ॥ ३२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वया । इत् । इंद्र । युजा । वयम् । प्रति । ब्रुवीमहि । स्पृधः ।  
+> त्वम् । अस्माकम् । तव । स्मसि ॥ ३२ ॥
+
+### Printed p. 355
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वयेत् । इदवधारणे । त्वयैव युजा सहायेन स्पृधः स्पर्धमानांछत्रून् वयं प्रति ब्रुवीमहि निराकुर्वीमहि । प्रतिवचनं निराकरणम् । उत्तरार्धेनेंद्रसाहाय्यमेव प्रतिपादयति । हे इंद्र त्वमस्माकं भवसि स्तुत्यस्तोतृयष्टृयष्टव्यतया त्वमस्माकं भवसि वयं तव स्मसि भवामः । तथारण्यकं- ‘ त्वमिदं सर्वं भवसि तव वयं स्मः त्वमस्माकमसि' इति । तस्मात्त्वया सहायेन शत्रून् हन्यामेति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, with you alone as our helper may we answer, that is, repel, the enemies who contend with us; "answering" is repelling. By the second half the help of Indra is stated: O Indra, you are ours, as the praised one, and we, the praisers and sacrificers, are yours. So says the Āraṇyaka: त्वमिदं सर्वं भवसि तव वयं स्मः त्वमस्माकमसि (*tvamidaṃ sarvaṃ bhavasi tava vayaṃ smaḥ tvamasmākamasi*). Therefore, with you as helper, may we slay the enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वया इत् युजा (*tvayā it yujā*)—by your help alone
+- स्पृधः (*spṛdhaḥ*)—the enemies who fight with us
+- वयं (*vayaṃ*)—we
+- प्रति ब्रुवीमहि (*prati bruvīmahi*)—may we repel (O Indra)
+- त्वं (*tvaṃ*)—you
+- अस्माकं (*asmākaṃ*)—belong to us, **NOTE** (we also)
+- तव स्मसि (*tava smasi*)—are only yours
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we who are with you, by your help alone, may we repel the enemies who fight with us. You are ours, and we also are only yours.
+
+##### English translation
+With you, Indra, as our helper, let us answer our enemies ; you are ours, we are yours.
+
+#### Ṛk 33
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामिद्धि त्वा॒यवो॑ऽनु॒नोनु॑वत॒श्चरा॑न् ।  
+> सखा॑य इंद्र का॒रवः॑ ॥ ३३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । इत् । हि । त्वाऽयवः । अनुऽनोनुवतः । चरान् ।  
+> सखायः । इंद्र । कारवः ॥ ३३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र कर्मोपद्रवपरिहारादनंतरं त्वायवः त्वां धनादिदानार्थं कामयमानाः अत एव अनुनोनुवतः । नौतेर्यङ्लुगंतस्य शतरि रूपम् । अनुक्रमेण पुनःपुनः स्तुतिं कुर्वंतः तस्मात्तव सखायः सखिभूताः कारवः स्तोतारः त्वामित् । इदवधारणे । त्वामेव चरान् स्तुतिभिः परिचरंतु खलु। हि इति प्रसिद्ध्यर्थः । चरतेर्लेट्याडागमः । हियोगादनिघातः ॥ ॥ २० ॥
+
+##### Gist of the bhāṣya
+
+O Indra, after the removal of the troubles of the rite, the praisers, त्वायवः (*tvāyavaḥ*), who desire you for the gift of wealth and the like, and for that very reason praise again and again in succession, that is, your friends, the singers, may attend on you alone with their praises; हि (*hi*) is in the sense of "well known".
+
 ---
 
-**Progress note:** Done through printed p. 349. Mandala 8 sukta 93 rks 21-27, pp. 344-349
+**Progress note:** Done through printed p. 355. Mandala 8 sukta 93 rks 27-33, pp. 350-355
