@@ -31733,6 +31733,294 @@ May the Uṣases, free from disease (असमीना (*asamīnā*), "without 
 - ज्योतिषा (*jyotiṣā*)—endowed with radiance
 - आग्नयः (*āgnayaḥ*)—the fires
 
+### Printed p. 881
+
+- उज्जिहतां (*ujjihatāṃ*)—let them blaze up and spread
+- अश्विना (*aśvinā*)—the Aśvin gods
+- तूतुजिं (*tūtujiṃ*)—swift-going
+- रथं (*rathaṃ*)—their chariot
+- आयुक्षातां (*āyukṣātāṃ*)—let them join with the horses
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—fire
+- स्वस्ति (*svasti*)—for our good
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+May the dawns, free from sloth, come running to us. May the fires, endowed with great radiance, blaze up and spread. May the Aśvin gods also yoke their chariot with horses to come to us. We ask the kindled fire for our good. **NOTE**
+
+##### English translation
+May the salutary dawns hasten to us: may the fires blaze up with great lustre, and may the Aswins harness their quick-going chariot : we solicit the kindled fire for our welfare.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श्रेष्ठं॑ नो अ॒द्य स॑वित॒र्वरे॑ण्यं भा॒गमा सु॑व॒ स हि र॑त्न॒धा असि॑।  
+> रा॒यो जनि॑त्रीं धि॒षणा॒मुप॑ ब्रुवे स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> श्रेष्ठं । नः । अद्य । सवितः । वरेण्यं ॥ भागं । आ । सुव । सः । हि । रत्नधाः । असि!  
+> रायः । जनित्रीं । धिषणां । उप । ब्रुवे । स्तस्ति । अग्निं । संइधानं । ईमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सवितः त्वमद्यास्मिन्नहनि नोऽस्मभ्यं वरेण्यं वरणीयं श्रेष्ठं प्रशस्यतमं भागं भजनीयं धनमा सुव । प्रेरय ! देहीत्यर्थः । हि यस्मादप्रार्थितस्त्वं
+> रत्नधाः श्रेष्ठानां धनानां संविभक्तासि भवसि । तथा च निगमांतरं । विभक्तारं
+> हवामहे वसोश्चित्रस्य राधसः सवितारं नृचक्षसं । ऋ. १-२२-७ । इति । रायो
+> धनस्य जनित्रीं धिषणां सर्वदेवस्तुतिरूपां वाचमुप ब्रुवे । अहमुपब्रवीमि ।
+> यद्वा । धिषणां देवीमुप ब्रुवे । उपस्तौमीत्यर्थः । सिद्धमन्यत् ॥
+> xxvii 56
+
+##### Gist of the bhāṣya
+
+O Savitr, today bestow upon us (नः (*naḥ*)) the most excellent, most praiseworthy, choice portion (भागं (*bhāgaṃ*)), that is, wealth to be enjoyed: send it, give it. For you, unasked, are the distributor (रत्नधाः (*ratnadhāḥ*)) of the best treasures. So also another text: विभक्तारं हवामहे वसोश्चित्रस्य राधसः सवितारं नृचक्षसं । (*vibhaktāraṃ havāmahe vasościtrasya rādhasaḥ savitāraṃ nṛcakṣasaṃ |*) (Ṛ. 1-22-7) **GLOSS** **NOTE**. I address (उप ब्रुवे (*upa bruve*)) the speech (धिषणां (*dhiṣaṇāṃ*)), the praise of all the gods, which is the begetter of wealth. Or else: I praise the goddess Dhiṣaṇā. The rest is as before.
+
+### Printed p. 882
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सवितः (*savitaḥ*)—O god Savitr
+- हि (*hi*)—by whose power
+- सः (*saḥ*)—you, the famed
+- रत्नधाः (*ratnadhāḥ*)—giver of the best wealth
+- असि (*asi*)—you are, and therefore
+- अद्य (*adya*)—at this time
+- नः (*naḥ*)—to us
+- वरेण्यं (*vareṇyaṃ*)—worshipful
+- श्रेष्ठं (*śreṣṭhaṃ*)—and praiseworthy
+- भागं (*bhāgaṃ*)—wealth
+- आ सुव (*ā suva*)—supply
+- रायः (*rāyaḥ*)—of wealth
+- जनित्रीं (*janitrīṃ*)—the maker
+- धिषणां (*dhiṣaṇāṃ*)—the goddess of speech
+- उपब्रुवे (*upabruve*)—I praise
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—fire
+- स्वस्ति (*svasti*)—for our good
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O god Savitr, by whose power you, the famed, are the giver of the best wealth, for that very reason supply us at this time with worshipful and praiseworthy wealth. I praise the goddess of speech, the maker of wealth. We ask the kindled fire for our good.
+
+##### English translation
+Savitri, this day bestow upon us an excellent and eligible portion, for you verily are the dispenser of wealth : I recite the praise (of the gods) which is the progenitress of riches: we solicit the kindled fire for our welfare.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पिप॑र्तु मा॒ तदृ॒तस्य॑ प्र॒वाच॑नं दे॒वानां॒ यन्म॑नु॒ष्या॒३॒॑ ३ अम॑न्महि ।  
+> विश्वा॒ इदु॒स्राः स्पळुदे॑ति॒ सूर्यः॑ स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिपर्तु । मा । तत् । ऋतस्य । प्रवाचनं । देवानां । यत् । मनुष्याः ।  
+> अमन्महि ।  
+> विश्वाः । इत् । उस्राः । स्पट् । उत् । एति । सूर्यः । स्वस्ति । अग्निं । संइधानं ।  
+> ईमहे ॥ ८ ॥
+
+### Printed p. 883
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यदृतस्य यज्ञस्य सत्यस्य वा संबंधि देवानां प्रवाचनं प्रकर्षेण गुणानां
+> कथनं स्तोत्रं मनुष्या वयममन्महि कर्तुं जानीमः तत्प्रवाचनं मा मां
+> पिपर्तु । पालयतु । किंच सूर्यो विश्वाः सर्वा उस्रा उषसः स्पट् स्पृशन्नवगच्छन्वोदेति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+The proclamation (प्रवाचनं (*pravācanaṃ*)), that is, the telling forth of the qualities of the gods, the hymn of praise, connected with the sacrifice or with truth (ऋतस्य (*ṛtasya*)), which we men know how to make: may that proclamation fulfil me, protect me. And the Sun rises, reaching (?) all the dawns. The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—which
+- ऋतस्य (*ṛtasya*)—connected with the sacrifice
+- देवानां (*devānāṃ*)—the gods
+- प्रवाचनं (*pravācanaṃ*)—praises, that hymn
+- मनुष्याः (*manuṣyāḥ*)—we, the sacrificers
+- अमन्महि (*amanmahi*)—have known
+- तत् (*tat*)—that word of praise
+- मा (*mā*)—me
+- पिपर्तु (*pipartu*)—let it protect
+- विश्वाः (*viśvāḥ*)—all
+- उस्राः (*usrāḥ*)—the dawns
+- स्पट् (*spaṭ*)—touching
+- उदेति (*udeti*)—rises
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—fire
+- स्वस्ति (*svasti*)—for our good
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+We sacrificers have known that hymn of praise which praises the gods connected with the sacrifice. May that word of praise protect me. The Sun rises touching all the dawns. We pray to the kindled fire for our good.
+
+##### English translation
+May that glorification of the gods which men repeat in connection with the rite preserve me : the sun rises visiting all the lustre of the dawn : we solicit the kindled fire for our welfare.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒द्वे॒षो अ॒द्य ब॒र्हिषः॒ स्तरी॑मणि॒ ग्रान्णां॒ योगे॒ मन्म॑नः॒ ॑ 
+> साध॑ ईमहे ।  
+> आ॒दि॒त्यानां॒ शर्म॑णि॒ स्था भु॑रण्यसि स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अद्वेषः । अद्य । बर्हिषः । स्तरीमणि । ग्रान्छां । योगे । मन्मनः । साधे । ईमहे ।  
+> आदित्यानां । शर्मणि । स्थाः । भुरण्यसि । स्वस्ति । अग्निं । संइधानं । ईमहे ॥ ९ ॥
+
+### Printed p. 884
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्यास्मिन्नहनि बर्हिषः स्तरीमणि वेद्यां स्तरणे मन्मनो मननीयस्याभीष्टस्य फलस्य साधे साधके ग्राव्णामभिषवपाषाणानां योगे सोमेन सह संयोगे
+> च सत्यद्वेषो द्वेषवर्जितानादित्यानीमहे । वयमभीष्टं याचामहे । हे
+> स्तोतः त्वं तेषामादित्यानां देवानां शर्मणि सुखे स्थाने वा स्थाः । तिष्ठ ।
+> भुरण्यसि । कर्तव्यानि कर्माणि बिभर्षि । गच्छसि ना । सिद्धमन्यत् ।
+
+##### Gist of the bhāṣya
+
+Today, at the strewing (स्तरीमणि (*starīmaṇi*)) of the sacrificial grass on the altar, and at the contact of the pressing stones with Soma, which brings about (साधे (*sādhe*)) the desired fruit that is to be thought of, we ask for the Ādityas, free from hatred. We ask for what we wish. O praiser, remain (स्थाः (*sthāḥ*)) in the comfort, or in the place, of those gods the Ādityas. You bear (भुरण्यसि (*bhuraṇyasi*)) the rites that are to be done. The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्य (*adya*)—at this time of the sacrifice
+- बर्हिषः (*barhiṣaḥ*)—the seat of sacred grass
+- स्तरीमणि (*starīmaṇi*)—also when it is being prepared
+- मन्मनः (*manmanaḥ*)—the desired object
+- साधे (*sādhe*)—who bring about
+- ग्राव्णां (*grāvṇāṃ*)—with the pressing stones
+- योगे (*yoge*)—also when there is contact with Soma
+- अद्वेषः (*adveṣaḥ*)—the Ādityas, free from hatred
+- ईमहे (*īmahe*)—I ask (O praiser)
+- आदित्यानां (*ādityānāṃ*)—of the Ādityas
+- शर्मणि (*śarmaṇi*)—in the place of comfort
+- स्थाः (*sthāḥ*)—be remaining
+- भुरण्यसि (*bhuraṇyasi*)—fulfil your duties
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—fire
+- स्वस्ति (*svasti*)—for our good
+- ईमहे (*īmahe*)—we pray
+
+##### भावार्थ (Bhāvārtha)
+
+At this time of the sacrifice, when the seat of sacred grass is being prepared, and when the pressing stones that bring about the desired object are in contact with Soma, we ask for the Ādityas, free from hatred. O praiser, remain in the place of comfort that is the favour of the Ādityas. Fulfil your duties. We pray to the kindled fire for our good.
+
+##### English translation
+On strewing the sacred grass, and bringing the stones into contact (with the Soma), whereby our wishes are accomplished, we solicit to-day the benevolent (Adityas): abiding in the happiness of those Adityas, you discharge, worshipper, your duties : we solicit the kindled fire for our welfare.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ ब॒र्हिः स॑ध॒मादे॑ बृ॒हद्दि॒वि दे॒वा ई॑ळे सा॒धया॑ स॒प्त  ॑
+> होत्थन् ।
+
+### Printed p. 885
+
+> इंद्रं मित्रं वरुणं सातये भगं स्वस्त्यग्निं समिधानमीमहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । बर्हिः । सध्वमादे । बृहत् । दिवि । देवान् । ईळी । सादय । सप्त ।  
+> होत्थन् ।  
+> इंद्रं । मित्रं । वरुणं । सातये । भगं । स्वस्ति । अग्निं । संइधानं । ईमहे ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नोऽस्माकं बृहद्बृहति महति दिवि दीप्ते सधमादे । सह माद्यंति देवा
+> यत्र तस्मिन् । बर्हिर्बर्हिषि यज्ञे सप्त सप्त संख्याकान्नोत्थान्षट्कर्त्त्यनिंद्रं मित्रं
+> च वरुणं च भगं च देवानितरानपि यष्टव्यान्नेवान् हे अग्ने त्वमा सादय ।
+> अग्नेराभिमुख्यकरणं इहाद्य दैव्यं जनं बर्हिरा सादया वसो । ऋ. १-४५-९ ।
+> इत्येवमादिमुंत्रैरवगम्यते । तत्र त्वयासादितांस्तानिंद्रादीन्देवानहं सातये
+> धनलाभायेळे । सौमि । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+On our great, shining (बृहत् (*bṛhat*), दिवि (*divi*)) place of common rejoicing (सधमादे (*sadhamāde*)), where the gods rejoice together, on the sacred grass (बर्हिः (*barhiḥ*)) in the sacrifice, seat, O Agni, the seven priests, and Indra, Mitra, Varuṇa, Bhaga and the other gods to be worshipped. The making of Agni face them is understood from mantras such as इहाद्य दैव्यं जनं बर्हिरा सादया वसो । (*ihādya daivyaṃ janaṃ barhirā sādayā vaso |*) (Ṛ. 1-45-9) **GLOSS** **NOTE**. Those gods Indra and the rest, seated by you, I praise (ईळे (*īḷe*)) for the gaining of wealth (सातये (*sātaye*)). The rest is as before. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Agni) नः (*naḥ*)—our
+- बृहत् (*bṛhat*)—great
+- दिवि (*divi*)—and shining
+- सधमादे (*sadhamāde*)—where the gods sit together
+- बर्हिः (*barhiḥ*)—on the seat of the sacrifice
+- सप्त होत्थन् (*sapta hotthan*)—the seven priests
+- इंद्रं (*iṃdraṃ*)—Indra
+- मित्रं (*mitraṃ*)—Mitra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- भगं (*bhagaṃ*)—Bhaga
+- देवान् (*devān*)—and the other gods
+- आ सादय (*ā sādaya*)—seat
+- सातये (*sātaye*)—for the gaining of wealth
+- ईळे (*īḷe*)—I praise them all
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—fire
+- स्वस्ति (*svasti*)—for our good
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, on our great, shining seat of sacrifice, where the gods sit together, seat the seven priests, Indra, Mitra, Varuṇa, Bhaga and the other gods. For the gaining of wealth I praise them all. We ask the kindled fire for our good.
+
+### Printed p. 886
+
+##### English translation
+On this our sacred grass, spacious, and bright, where the gods delight together, you (Agni) seat the seven ministrant priests, Indra, Mitra, Varuna, Bhaga, I praise the gods for their bounty : we solicit the kindled fire for our welfare.
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त आ॑दित्या॒ आ ग॑ता स॒र्वता॑तये वृ॒धे नो॑ य॒ज्ञम॑वता सजोषसः ।  
+> बृह॒स्पतिं॑ पू॒षण॑म॒श्विना॒ भगं॑ स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । आदित्याः । आ । गत । सर्वतातये । वृधे । नः । यज्ञं । अवत । सजोषसः ।  
+> बृहस्पतिं । पूषणं । अश्विना । भगं । स्वस्ति । अग्निं । संइधानं । ईमहे ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे आदित्याः येऽस्माभिराहूतास्ते यूयं सर्वतातये यज्ञार्थमा
+> गत । आगच्छत । आगत्य च हे सजोषसः संगताः यूयं नोऽस्माकं वृधे वर्धनाय यज्ञं प्रत्यवत । गच्छत । वयं च बृहस्पतिं पूषणं चाश्विनाश्विन् च भगं
+> भगाख्यं देवं च समिधानं सम्यग्दीप्तमग्निं च स्वस्ति सर्वप्रकाराविनाशमीमहे ।
+> याचामहे ॥
+
+##### Gist of the bhāṣya
+
+O Ādityas, you who have been invited by us, come for the sacrifice (सर्वतातये (*sarvatātaye*)). Having come, O united ones (सजोषसः (*sajoṣasaḥ*)), go to our sacrifice for our growth (वृधे (*vṛdhe*)). And we ask for Bṛhaspati, Pūṣan, the Aśvins, the god called Bhaga, and the well-kindled Agni, safety (स्वस्ति (*svasti*)) in every way, that is, freedom from destruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- ते (*te*)—you
+- सर्वतातये (*sarvatātaye*)—to our sacrifice
+- आ गत (*ā gata*)—come
+- सजोषसः (*sajoṣasaḥ*)—you who rejoice together
+- नः (*naḥ*)—our
+- वृधे (*vṛdhe*)—for prosperity
+- यज्ञं (*yajñaṃ*)—our sacrifice
+- अवत (*avata*)—protect
+- बृहस्पतिं (*bṛhaspatiṃ*)—Bṛhaspati
+- पूषणं (*pūṣaṇaṃ*)—the god Pūṣan
+- अश्विना (*aśvinā*)—the Aśvin gods
+- भगं (*bhagaṃ*)—Bhaga
+- समिधानं (*samidhānaṃ*)—the kindled
+- अग्निं (*agniṃ*)—fire
+- स्वस्ति (*svasti*)—for our good
+- ईमहे (*īmahe*)—we ask
+
+##### भावार्थ (Bhāvārtha)
+
+O Ādityas, come to our sacrifice. You who rejoice together, protect our sacrifice for our prosperity. We ask Bṛhaspati, the god Pūṣan, the Aśvin gods, Bhaga and the kindled fire for our good.
+
 ---
 
-**Progress note:** Done through printed p. 880. Vol 27 pp. 875-880: 10.35.1 end to 10.35.6
+**Progress note:** Done through printed p. 886. Vol 27 pp. 881-886: 10.35.6 end to 10.35.11
