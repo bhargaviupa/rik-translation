@@ -22,7 +22,8 @@ Front matter (no window covers it): preface file lines 1–542 (begins at its pa
 By Sonnet agents, one per batch of three windows of 6 pages, no Batch API (`docs/prompts/VOL26_AGENT_PROMPT.md`). Conventions in `volcfg.json` as Vol 21.
 
 ## Status
-Nov 25 2026: prepared; `batch.py audit 26` passes at "Done through printed p. 0". No window translated yet.
+Nov 26 2026: **done through printed p. 187** (Sūkta 61 Ṛk 13 Saṃhitā; 10 agent batches of three windows; `batch.py audit 26` passes). Agent tokens: 1,773,934 (`parts/batch_costs.md`; about 9.5k a page; pp. 1–93, the introduction, about 11k a page, the sūkta pages 7–8k). Stage check after batch 10 (by script): `check_labels.py 26` 295 English blocks, 295 Kannada blocks, 0 not matched, 0 under the label of another section; `## Sūkta` headings 44–61 present in order, each sūkta's Ṛk headings run 1…n (61 to Ṛk 13 so far); no `## Maṇḍala` heading (the volume begins inside Maṇḍala 9, as Vol 21 inside Maṇḍala 6); Sūkta 60 Ṛk 2 read through. 115 `**NOTE**` marks (115 rows in `review/notes.tsv`), 74 `**GLOSS**` marks.
+Hand repairs: one remark removed in w0100 (`review/repair_log.md`). By agents with `batch.py fix`: page heads for pp. 43, 44/45, 75 added inside long pages (w0037, w0045, w0069; so the wrong renumbering of head `44` noted above is put right in the English), one avagraha join (w0063), one garbled Bhāvārtha label (w0137); w0045 also removed a `[figure: …]` line from its kn.md as a duplicate of a table (agents told not to from batch 4). Shared tool: `publish/tools/translit/kannada_to_deva.py` maps the candrabindu U+0C81 (LESSONS). Pages 105, 145, 155, 156 have no running head and stand under the heading of the page before (183 page headings for 187 pages).
 
 ## Open items
 1. (user) Preface: to be translated into `vol26/work/preface/en.md`; installing it is a logged repair after the user's yes.
