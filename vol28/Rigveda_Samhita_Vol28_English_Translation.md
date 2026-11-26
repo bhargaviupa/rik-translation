@@ -11411,6 +11411,296 @@ May our progenitors, may the host of the gods, restore (your) spirit; may we obt
 
 O god Soma, in the rite of worshipping you and in regard to you, meditating on you alone, may we attain the happiness of obtaining sons and others.
 
+### Printed p. 362
+English Translation of the previous sūkta's last Ṛk:
+
+##### English translation
+Soma, fixing our minds on your worship and its details, may we, blessed with progeny, obtain (the aggregate of the functions of life).
+
+## Sūkta 58 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत्ते यममिति द्वादशर्चं षोडशं सूक्तमानुष्टुभं । बंध्वादय
+> ऋषयः सुबंधुदेहान्निर्गतस्येंद्रियवर्गसहितस्य मनसः पुनस्तस्मिन्प्रवेशनार्थमिदं सूक्तं दृष्ट्वाजपन् । अतस्तेऽस्यर्षयः । प्रतिपाद्यत्वादावर्तमानं मन एव
+> देवता । तथा चानुक्रांतं । यत्त इति द्वादशर्चमानुष्टुभं मनआवर्तनं जेपुरिति ।
+> गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning यत्ते यमं (*yatte yamaṃ*) has twelve Ṛks and is the sixteenth sūkta, in the Anuṣṭubh metre. Bandhu and the others are the seers: they saw and muttered this sūkta so that the mind, together with the group of sense-organs, which had departed from the body of Subandhu, might enter it again. Hence they are its seers. Because it is what the sūkta expounds, the mind that is being turned back (मन एव (*mana eva*)) is the deity. The Anukramaṇī says: यत्त इति द्वादशर्चमानुष्टुभं मनआवर्तनं जेपुरिति (*yatta iti dvādaśarcamānuṣṭubhaṃ manaāvartanaṃ jepuriti*). The viniyoga has already been given.
+
+##### Anuvāda
+
+This sūkta, यत्ते यमं (*yatte yamaṃ*), is the sixteenth sūkta in the fourth anuvāka. It has twelve Ṛks. Its seers are Bandhu and the others, sons of Gopāyana; the metre is Anuṣṭubh. In this sūkta Bandhu and the others pray that the mind (the self), together with the senses, which had gone out of the dead body of Subandhu, may come back and settle again in that dead body. Therefore Bandhu and the others are the seers of this sūkta. The mind (the vital breath) that is expounded in the sūkta is the deity. In the Anukramaṇī it is said: यत्त इति द्वादशर्चमानुष्टुभं मन आवर्तनं जेपुः (*yatta iti dvādaśarcamānuṣṭubhaṃ mana āvartanaṃ jepuḥ*). The viniyoga was stated earlier.
+
+Sūkta 58. Maṇḍala 10; Anuvāka 4; Sūkta 58. Aṣṭaka 8; Adhyāya 1; Vargas 20, 21. Number of Ṛks in the sūkta: 12.
+Seer: Bandhu, Śrutabandhu, Viprabandhu, the Gaupāyanas.
+Deity: Manaāvartanaṃ (the turning back of the mind).
+Metre: Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ य॒मं वै॑वस्व॒तं मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ १ ॥
+
+### Printed p. 363
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । यमं । वैवस्वतं । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुरुषस्य म्रियमाणस्य मनो नाम महद्भूतं बहुधा विशीर्णं भवति। तस्य
+> पुनःसंभरणमत्तोच्यते । हे म्रियमाण पुरुष यत्ते तव मनो वैवस्वतं विवस्वतः पुत्रं यमं दूरकमत्यंतं दूरं यथा भवति तथा जगाम ते तव तन्नन आ
+> वर्तयामसि । आवर्तयामः । किमर्थं । इह क्षयायेह लोके निवासाय
+> जीवसे । चिरकालजीवनायेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+In a dying man the great element called mind becomes scattered in many ways; its re-gathering is spoken of here. O dying man, that mind of yours which has gone to Yama, son of Vivasvat, to a very great distance—that of yours we turn back (आवर्तयामः (*āvartayāmaḥ*)). For what purpose? इह क्षयाय (*iha kṣayāya*): to dwell in this world; जीवसे (*jīvase*): for living long.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu, now on the point of death) यत् (*yat*)—if
+- ते मनः (*te manaḥ*)—your consciousness
+- वैवस्वतं (*vaivasvataṃ*)—of Vivasvat's son
+- यमं (*yamaṃ*)—to Yama
+- दूरकं (*dūrakaṃ*)—as if very far from us
+- जगाम (*jagāma*)—has gone
+- ते (*te*)—your
+- तत् (*tat*)—that same mind
+- इह (*iha*)—in this world
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—we cause to come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, who are on the point of death: even if your mind (vital breath) has gone, as if very far from us, to Yama, son of Vivasvat, we cause that same mind of yours to return, to dwell in this world and to live a long time.
+
+##### English translation
+Although your spirit have gone far away to Yama, son of Vivaswat, we bring back that (spirit) of yours to dwell here, to live (long).
+
+##### विशेषविषयगळु (Special Topics)
+
+The word मनः (*manaḥ*) in this Ṛk and in the following Ṛks means consciousness, vital breath or self. The words of Bandhu and the others, saying that they will try to bring back again the breath or self that was in the body of the dead Subandhu and has gone to Yama in the Yama-world, in a very distant region, are set forth in the Ṛks of this sūkta. For further explanation see the introduction to sūkta 57 and the commentator's explanation.
+
+### Printed p. 364
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ दिवं॒ यत्पृ॑थि॒वीं मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । दिवं । यत् । पृथिवीं । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यन्मनो दिवं जगाम यच्च पृथिवीं दूरकं । दूरकमिति
+> क्रियाविशेषणं । तदिह निवासाय जीवनाय चावतर्यामः ॥
+
+##### Gist of the bhāṣya
+
+O Subandhu, the mind that has gone to heaven and that has gone to earth, दूरकं (*dūrakaṃ*) (an adverb, qualifying the action)—that we turn back for dwelling here and for life.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu) यत् (*yat*)—if
+- ते मनः (*te manaḥ*)—your consciousness
+- दूरकं (*dūrakaṃ*)—as if far from us
+- दिवं (*divaṃ*)—to the heavenly world
+- जगाम (*jagāma*)—has gone
+- यत् (*yat*)—if
+- पृथिवीं (*pṛthivīṃ*)—to the earth (has gone)
+- तत् ते (*tat te*)—that same consciousness of yours
+- इह (*iha*)—in this world
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामसि (*ā vartayāmasi*)—we cause to come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, whether your consciousness, as if far from us, has gone to the heavenly world or to the earth, we cause that same consciousness of yours to return here, to dwell in this world and to live a long time.
+
+##### English translation
+Although your spirit have gone far away to heaven, or to earth, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ भूमिं॒ चतु॑र्भृष्टिं॒ मनो॑ ज॒गाम॑ दूर॒कं ।
+
+### Printed p. 365
+
+> तत्त आ वर्तयामसीह क्षयाय जीवसे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । भूमिं । चतुःसृष्टिं । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यन्मनो भूमिं चतुर्भृष्टिं । चतुर्दिक्षु भ्रंशो यस्याः
+> सा । तां जगाम तदावर्तयामः ॥
+
+##### Gist of the bhāṣya
+
+O Subandhu, the mind that has gone to the earth called चतुर्भृष्टिं (*caturbhṛṣṭiṃ*)—she who has *bhraṃśaḥ* in the four directions—that we turn back.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu) यत् (*yat*)—if
+- ते मनः (*te manaḥ*)—your consciousness
+- दूरकं (*dūrakaṃ*)—as if far from us
+- चतुर्भृष्टिं (*caturbhṛṣṭiṃ*)—pervaded from the four directions
+- भूमिं (*bhūmiṃ*)—to the earth
+- जगाम (*jagāma*)—has gone
+- तत् ते (*tat te*)—that same consciousness of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live a long time
+- आ वर्तयामसि (*ā vartayāmasi*)—we cause to come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your consciousness, as if far from us, has gone to the earth pervaded from the four directions, I cause that same consciousness of yours to return, to dwell here and to live a long time.
+
+##### English translation
+Although your spirit have gone far away to the four-quartered earth, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ चत॑स्रः प्र॒दिशो॒ मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । चतस्रः । प्रदिशः । मनः । जगाम । दूरकं ।
+
+### Printed p. 366
+
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनः प्रदिशः प्रकृष्टा महादिशश्चतस्रो जगाम तदावर्तयामः ॥
+
+##### Gist of the bhāṣya
+
+O Subandhu, the mind of yours that has gone to the four प्रदिशः (*pradiśaḥ*), the great, excellent directions—that we turn back.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu) यत् (*yat*)—if
+- ते मनः (*te manaḥ*)—your consciousness
+- दूरकं (*dūrakaṃ*)—as if far from us
+- चतस्रः प्रदिशः (*catasraḥ pradiśaḥ*)—to the four horizons
+- जगाम (*jagāma*)—has gone
+- तत् ते (*tat te*)—that same consciousness of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live a long time
+- आ वर्तयामासि (*ā vartayāmāsi*)—we cause to come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your consciousness, as if far from us, has gone to the four horizons, we cause that same consciousness of yours to return, to dwell here and to live long.
+
+##### English translation
+Although your spirit have gone far away to the four regions (of space), we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॑ समु॒द्रम॑र्ण॒वं मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । समुद्रं । अर्णवं । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनोर्णवं । अर्णांस्युदकानि । तद्वंतं समुद्रं
+> मेघं वा जगाम तदावर्तयामः ॥
+
+##### Gist of the bhāṣya
+
+O Subandhu, the mind of yours that has gone to the अर्णवं (*arṇavaṃ*)—*arṇāṃsi* are waters—the ocean possessing them, or to a cloud—that we turn back.
+
+### Printed p. 367
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu) यत् (*yat*)—if
+- ते मनः (*te manaḥ*)—your consciousness
+- दूरकं (*dūrakaṃ*)—as if far from us
+- अर्णवं (*arṇavaṃ*)—filled with water
+- समुद्रं (*samudraṃ*)—to the ocean (or to the region of the water-laden cloud)
+- जगाम (*jagāma*)—has gone
+- तत् ते (*tat te*)—that same consciousness of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live
+- आ वर्तयामसि (*ā vartayāmasi*)—we cause to come back
+
+##### भावार्थ (Bhāvārtha)
+
+O Subandhu, even if your consciousness, as if far from us, has gone to the water-filled ocean or to the region of the cloud, I cause that same consciousness of yours to return, to dwell here and to live a long time.
+
+##### English translation
+Although your spirit have gone far away to the watery ocean, we bring back that (spirit) of yours to dwell here, to live (long).
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यत्ते॒ मरी॑चीः प्र॒वतो॒ मनो॑ ज॒गाम॑ दूर॒कं ।  
+> तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । ते । मरीचीः । प्रवतः । मनः । जगाम । दूरकं ।  
+> तत् । ते । आ । वर्तयामसि । इह । क्षयाय । जीवसे ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सुबंधो यत्ते मनः प्रवतः प्रगच्छंतीर्मरीचीर्दिप्तीर्जगाम तदिति
+> गतं ॥
+
+##### Gist of the bhāṣya
+
+O Subandhu, the mind of yours that has gone to the मरीचीः (*marīcīḥ*), the shining rays, प्रवतः (*pravataḥ*), going forth—that we turn back; तदिति गतं (*taditi gataṃ*) (the rest as already explained).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Subandhu) यत् (*yat*)—if
+- ते मनः (*te manaḥ*)—your consciousness
+- दूरकं (*dūrakaṃ*)—as if far from us
+- प्रवतः (*pravataḥ*)—ever moving
+- मरीचीः (*marīcīḥ*)—to the world of rays (the sun)
+- जगाम (*jagāma*)—has gone
+- तत् ते (*tat te*)—that same consciousness of yours
+- इह (*iha*)—here
+- क्षयाय (*kṣayāya*)—to dwell
+- जीवसे (*jīvase*)—to live long
+- आ वर्तयामासि (*ā vartayāmāsi*)—we cause to come back
+
 ---
 
-**Progress note:** Done through printed p. 361. pp. 356-361 (batch API)
+**Progress note:** Done through printed p. 367. pp. 362-367 (batch API)
