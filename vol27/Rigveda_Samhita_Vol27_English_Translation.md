@@ -32874,6 +32874,256 @@ May we free from sin be in the (enjoyment of the) happiness of the mighty kindle
 
 You, all the gods who are in the rite called the impulsion of Savitṛ, the true-impelling, and of Mitra and Varuṇa, give me good fortune accompanied by heroic sons and the like, accompanied by cattle, and wonderful, that is, worshipful, wealth, and work.
 
+### Printed p. 906
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वे देवाः (*viśve devāḥ*)—O all gods
+- ये (*ye*)—you who
+- सत्यसवस्य (*satyasavasya*)—of the one whose impulsion is true
+- सवितुः (*savituḥ*)—of Savitṛ
+- मित्रस्य (*mitrasya*)—of Mitra
+- वरुणस्य (*varuṇasya*)—of Varuṇa
+- व्रते (*vrate*)—are devoted to the rite
+- ते (*te*)—such you
+- सौभगं (*saubhagaṃ*)—auspicious
+- वीरवत् (*vīravat*)—accompanied by heroic sons and the like
+- गोमत् (*gomat*)—accompanied by cattle
+- चित्रं (*citraṃ*)—worshipful
+- द्रविणं (*draviṇaṃ*)—wealth
+- अप्नः (*apnaḥ*)—the carrying out of the rite
+- अस्मे (*asme*)—to us
+- दधातन (*dadhātana*)—give
+
+##### भावार्थ (Bhāvārtha)
+
+O all gods, you who are devoted to the rite of the Sun, the true-impelling, and of Mitra and Varuṇa: such as you are, give us wealth that is auspicious, accompanied by heroic sons and the like, accompanied by cattle and worshipful, and also the power to carry out the rite.
+
+##### English translation
+Universal gods, who (take part) in the functions of Savitri, the parent of truth, of Mitra and Varuna, confer upon us auspicious and honourable wealth, comprising male progeny, and cattle, and (pious) acts.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒वि॒ता प॒श्चता॑त्सवि॒ता पु॒रस्ता॑त्सवि॒तोत्त॒रात्ता॑त्सवि॒ताध॒रात्ता॑त् ।  
+> स॒वि॒ता नः॑ सुवतु स॒र्वता॑तिं सवि॒ता नो॑ रासतां दी॒र्घमायुः॑ ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सविता । पश्चातात् । सविता । पुरस्तात् । सविता । उत्तरात्तात् । सविता । अधरात्तात् ।  
+> सविता । नः । सुवतु । सर्वतातिं । सविता । नः । रासतां । दीर्घं । आयुः ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पश्चात्तापश्चिमतः स्थितः सविता पुरस्तात्पूर्वतश्च स्थितः सवितोत्तरात्तादुत्तरतः
+> स्थितश्च सविता नोऽस्माकं सर्वतातिं सर्वमभिलषितं धनादिकं सुवतु । प्रेरयतु ।
+> किंच सवितैव नोऽस्मभ्यं दीर्घं बहुकालीनवायू रासतां । ददातु । बहुधा
+> सवितृपदग्रहणमत्यंतवादरार्थे ॥
+
+##### Gist of the bhāṣya
+
+Savitṛ standing behind, that is, in the west, and Savitṛ standing in front, that is, in the east, and Savitṛ standing in the north: may Savitṛ impel to us all that we desire, wealth and the like, may he send it. Moreover, may Savitṛ himself bestow on us a long life, lasting for many years. The word Savitṛ is taken again and again out of great respect.
+
+### Printed p. 907
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सविता (*savitā*)—the god Savitṛ
+- पश्चातात् (*paścātāt*)—from the western side
+- सविता (*savitā*)—the god Savitṛ
+- पुरस्तात् (*purastāt*)—from the eastern quarter
+- सविता (*savitā*)—Savitṛ
+- उत्तरात्तात् (*uttarāttāt*)—from the northern quarter
+- सविता (*savitā*)—the god Savitṛ
+- सविता (*savitā*)—Savitṛ
+- अधरात्तात् (*adharāttāt*)—from the southern side
+- नः (*naḥ*)—to us
+- सर्वतातिं (*sarvatātiṃ*)—all the desired wealth and the like
+- सुवतु (*suvatu*)—may he supply
+- सविता (*savitā*)—the god Savitṛ
+- नः (*naḥ*)—to us
+- दीर्घं (*dīrghaṃ*)—very long
+- आयुः (*āyuḥ*)—life
+- रासतां (*rāsatāṃ*)—may he give
+
+##### भावार्थ (Bhāvārtha)
+
+May the god Savitṛ supply to us, from the western side, from the eastern side, and from the southern and northern sides, all the wealth and the like that we desire. May Savitṛ give us a very long life.
+
+##### English translation
+May Savitri on the west, Savitri on the east, Savitri on the north, Savitri on the south, may Savitri send us all desired wealth, may Savitri bestow upon us long life.
+
+## Sūkta 37 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मूवत्तेळनॆय सूक्तवु.
+> नमो मित्रस्येति द्वादशर्चमष्टमं सूक्तं । अभितपा नाम सूर्यपुत्र
+> ऋषिः । इदमादीनि पंच सूक्तानि जागतानि । अस्य सूक्तस्य दशमी त्रिष्टुप् । सूर्यो
+> देवता । तथा चानुक्रांतं । नमो द्वादश सौर्योऽभितपाः सौर्यं जागतं वै
+> त्रिष्टुब्बशमाति ॥ आश्विनशस्त्रे सूर्योदयादूर्ध्वं सौर्यकांड एतत्तूक्तं । सूत्रितं
+> च । चित्रं देवानां नमो मित्रस्य । आ. ६ ५ । इति ॥ विषुवति निष्केवल्य आद्यस्तृचोऽनुरूपः । सूत्रितं च । विभ्राड्बृहत्पिबतु सोम्यं मधु नमो मित्रस्य वरुणस्य
+> चक्षस इति स्तोत्रियानुरूपौ । आ. ८-६ । इति ॥ स्वपंतमभ्यस्तमये सति रात्रिशेषु
+> स्थित्वा प्रातर्येन सूर्यो ज्योतिषेत्यादिभिः पंचभिः सूर्य उपस्थेयः ।
+> सूत्रितं च । अव्याधितं चेत्स्वपंतमादित्योऽभ्यस्तमियाद्वागृतोऽनुपविशन्नात्रिशेषं भूत्वा येन सूर्य ज्योतिषा बाधसे तम इति पंचभिरादित्यमुपतिष्ठेत ।
+> स्वपंतमभ्युदिते यस्य ते विश्वेत्यादिभिश्चतसृभिः सूर्य उपस्थेयः । सूत्रितं च ।
+> अभ्युदियाच्चेदकर्मश्रांतमनभिरूपेण कर्मणा वाग्यत इति समानमुत्तराभिश्चत-
+
+##### Gist of the bhāṣya
+
+The sūkta beginning नमो मित्रस्य (*namo mitrasya*) is the eighth sūkta, of twelve ṛks, and it is the thirty-seventh. Its seer is Abhitapā, son of Sūrya. This and the following four sūktas are in jagatī; the tenth ṛk of this sūkta is in triṣṭubh. The deity is Sūrya. The Anukramaṇī says the same. In the Āśvina śastra, after sunrise, this sūkta belongs to the section of hymns to Sūrya, and this is given in the sūtra which says "of the gods", the sūtra beginning चित्रं देवानां नमो मित्रस्य (*citraṃ devānāṃ namo mitrasya*) (Ā. 6 5). At the Viṣuvat day, in the niṣkevalya śastra, the first tṛca is the anurūpa; the sūtra gives this (Ā. 8-6). If a man who is sleeping at sunset has stayed on through the rest of the night, then at dawn Sūrya is to be approached with the five ṛks beginning येन सूर्य ज्योतिषा (*yena sūrya jyotiṣā*); the sūtra says so. If a man is sleeping when the sun has risen, Sūrya is to be approached with the four ṛks beginning यस्य ते (*yasya te*); and the sūtra says so.
+
+### Printed p. 908
+
+> सृभिरुपस्थानं । आ.गृ. ३-७-१-२ । इति ॥ एकादशिनस्य सौर्यस्य पशोर्हविषो
+> याज्या । सूत्रितं च । शं नो भव चक्षसा शं नो अह्ना वायो भूष शुचिपाः ।
+> आ. ३-८ । इति ॥ होत्रकाणां शकलाधाने यद्वो देवा इत्येषा । आ. ६-१२ ॥
+> विवाहे कन्यारोदनीये जीवं रुदंतीत्येषा जप्या । आ. गृ. १-८-४ ॥
+
+##### Gist of the bhāṣya
+
+The approach is made with the four ṛks (Ā. Gṛ. 3-7-1-2). It is the yājyā for the animal offering to Sūrya in the Ekādaśina rite; the sūtra says: शं नो भव चक्षसा शं नो अह्ना वायो भूष शुचिपाः (*śaṃ no bhava cakṣasā śaṃ no ahnā vāyo bhūṣa śucipāḥ*) (Ā. 3-8). For the Hotṛ priests, in the placing of the splinter, the ṛk यद्वो देवा (*yadvo devā*) is used (Ā. 6-12). At a marriage, at the weeping of the bride, the ṛk जीवं रुदंती (*jīvaṃ rudaṃtī*) is to be muttered (Ā. Gṛ. 1-8-4).
+
+Anuvāda: This sūkta, नमो मित्रस्य (*namo mitrasya*), is the eighth sūkta in the third anuvāka. It has twelve ṛks. The seer of this sūkta is Abhitapā, son of Sūrya. The five sūktas from this one onward are in jagatī metre. The tenth ṛk of this sūkta is in triṣṭubh metre; the deity is Sūrya. In the Anukramaṇī it is said: नमो द्वादश सौर्योऽभितपाः सौर्यं जागतं वै त्रिष्टुब्दतमा (*namo dvādaśa sauryo 'bhitapāḥ sauryaṃ jāgataṃ vai triṣṭubdatamā*). This is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, चित्रं देवानां नमो मित्रस्य (*citraṃ devānāṃ namo mitrasya*) (Ā. 6-5), to the effect that this sūkta has its application when the sūktas relating to Sūrya are recited after sunrise, at the time of reciting the mantras of the Āśvina śastra. In the Viṣuvat sacrifice, when the mantras of the niṣkevalya śastra are recited, the first three ṛks of this sūkta are to be recited as the anurūpa tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, विध्राट् बृहत्पिबतु सोम्यं मधु नमो मित्रस्य वरुणस्य चक्षस इति स्तोत्रियानुरूपौ (*vidhrāṭ bṛhatpibatu somyaṃ madhu namo mitrasya varuṇasya cakṣasa iti stotriyānurūpau*) (Ā. 8-6). Even if a man is free from sickness, if he sleeps at the time of sunset, then, after that night has passed, he is to rise at dawn and approach Sūrya with prayer, with the five ṛks (4-8) beginning येन सूर्य ज्योतिषा (*yena sūrya jyotiṣā*); this is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, अव्याधितं चेत्स्वसंतमादित्योऽभ्यस्तमियाद्वाग्यतोनुपविशन् रात्रिशेषं भूत्वा येन सूर्य ज्योतिषा बाधसे तम इति पंचभिरादित्यमुपतिष्ठेत (*avyādhitaṃ cetsvasaṃtamādityo 'bhyastamiyādvāgyatonupaviśan rātriśeṣaṃ bhūtvā yena sūrya jyotiṣā bādhase tama iti paṃcabhirādityamupatiṣṭheta*) (Ā. Gṛ. 3-7-1). If, when Sūrya has risen, a man is still sleeping and has not risen from sleep, then after rising he is to approach Sūrya with prayer with the four ṛks (9-12) beginning यस्य ते विश्वा (*yasya te viśvā*); this is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, अभ्युदियाच्छेदकर्मशांतमनभिरूपेण कर्मणा वाग्गत इति समानमुत्तराभिश्चतसृभिरुपस्थानं (*abhyudiyācchedakarmaśāṃtamanabhirūpeṇa karmaṇā vāggata iti samānamuttarābhiścatasṛbhirupasthānaṃ*) (Ā. Gṛ. 3-7-2). In the sacrifice called Ekādaśin, when the oblation of the animal offering relating to Sūrya is offered, the tenth ṛk of this sūkta, शं नो भव चक्षसा (*śaṃ no bhava cakṣasā*), is to be recited as the yājyā mantra; this is explained by the sūtra of the Āśvalāyana Gṛhya-sūtra, शं नो भव चक्षसा शं नो अह्ना वायो भूष शुचिपाः (*śaṃ no bhava cakṣasā śaṃ no ahnā vāyo bhūṣa śucipāḥ*) (Ā. 3-8). In the placing of the splinter performed by the priests of the Hotṛ group, the twelfth ṛk of this sūkta, यद्वो देवाः (*yadvo devāḥ*), is to be recited; this is explained by the sūtra of the Āśvalāyana Śrauta-sūtra, यद्वो देवाः (*yadvo devāḥ*) (Ā. 6-12). At the time of a marriage, if the girl weeps, then the ṛk जीवं रुदंती (*jīvaṃ rudaṃtī*) (Ṛ. Saṃ. 10-40.10) is to be recited; this is explained in the Āśvalāyana Gṛhya-sūtra (Ā. Gṛ. 18-4). **NOTE** There is no reason to state here the application of this ṛk, which stands in the fortieth sūkta.
+
+### Printed p. 909
+
+- Sūkta 37
+- Maṇḍala 10, Anuvāka 3, Sūkta 37
+- Aṣṭaka 7, Adhyāya 8, Varga 12, 13
+- Number of ṛks in the sūkta: 12
+- Ṛṣi: Abhitapā Saurya
+- Devatā: Sūrya
+- Chandas: 1-9, 1-12 Jagatī; 10 Triṣṭubh **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नमो॑ मि॒त्रस्य॒ वरु॑णस्य॒ चक्ष॑से म॒हो दे॒वाय॒ तदृ॒तं स॑पर्यत ।  
+> दू॒रे॒द्यशे॑ दॆ॒वजा॑ताय के॒तवे॑ दि॒वस्पु॒त्राय॒ सूर्या॑य  
+> शंसत ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नमः । मित्रस्य । वरुणस्य । चक्षसे । महः । देवाय । तत् । ऋतं । सपर्यत ।  
+> दूरेऽदृशे । देवजाताय । केतवे । दिवः । पुत्राय । सूर्याय । शंसत ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः ययं मित्रस्य वरुणस्य मित्रावरुणयोश्चक्षसे द्रष्टे महो
+> महते देवाय द्योतमानाय दूरेदृशे दूरे संतमपि पश्यते देवजाताय
+> देवेषु जाताय देवार्थमुत्पन्नाय केतवे विश्वस्य प्रज्ञापकाय दिवः पुत्राय
+> पुत्रभूताय । दिवि जायमानत्वात्तत्पुत्रत्वव्यपदेशः । सूर्याय सूर्यार्थं
+> नमः कृत्वा तद्विहितमृतं यागादिलक्षणं कर्म सपर्यत । पूजयत । शंसत । स्तुतिमपि कुरुत ॥
+
+##### Gist of the bhāṣya
+
+O priests, to Sūrya, the beholder of Mitra and Varuṇa, that is, of Mitra and Varuṇa, great, shining, seeing even what is far away, god-born, that is, born among the gods, produced for the sake of the gods, the ketu, that is, the one who makes the whole world known, the son of heaven (he is called its son because he is born in heaven): having made obeisance to Sūrya, perform the rite prescribed by him, whose nature is sacrifice and the like, and worship him. Also offer praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मित्रस्य (*mitrasya*)—(O priests) Mitra
+- वरुणस्य (*varuṇasya*)—and Varuṇa
+- चक्षसे (*cakṣase*)—the beholder
+- महः (*mahaḥ*)—the great-souled
+- देवाय (*devāya*)—the divine one
+- दूरेद्वशे (*dūredvaśe*)—who sees even what is far away
+- देवजाताय (*devajātāya*)—born among the gods
+- केतवे (*ketave*)—the one who gives knowledge to the world
+
+### Printed p. 910
+
+- दिवः पुत्राय (*divaḥ putrāya*)—the son of the heavenly world
+- सूर्याय (*sūryāya*)—to the god Sūrya
+- नमः (*namaḥ*)—first having made obeisance
+- तत् ऋतं (*tat ṛtaṃ*)—(afterwards) the rite prescribed for you
+- सपर्यत (*saparyata*)—carry out
+- शंसत (*śaṃsata*)—offer praise
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, to the god Sūrya, the beholder of Mitra and Varuṇa, the great-souled, the divine, the one who sees even what is far away, born among the gods, the giver of knowledge to the world, the son of the heavenly world, first offer obeisance, and afterwards carry out the rite prescribed for you. Offer praise.
+
+##### English translation
+(Having offered) adoration to Surya, the beholder of Mitra and Varuna, the mighty, the divine, the far-seer, the god-born, the manifester of all things), the son of heaven; celebrate the rite enjoined by him, and sing his praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा मा॑ स॒त्योक्तिः॒ परि॑ पातु वि॒श्वतो॒ द्यावा॑ च॒ यत्र॑ त॒तन॒न्नहा॑नि च ।  
+> विश्व॑म॒न्यन्नि वि॑शते॒ यदेज॑ति वि॒श्वाहापो॑ वि॒श्वाहोदे॑ति॒  ॑
+> सूर्यः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सा । मा । सत्यउक्तिः । परि । पातु । विश्वतः । द्यावा । च । यत्र । ततनन् । अहानि । च ।  
+> विश्वं । अन्यत् । नि । विशते । यत् । एजति । विश्वाहा । अपः । विश्वाहा । उत् । एति ।  
+> सूर्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा सत्योक्तिस्तत्सत्यवचनं मा मां विश्वतः सर्वतः परि पातु । परिरक्षतु ।
+> यया सत्योक्त्वा यत्र यस्मिन्वेशे द्यावा च द्यावापृथिव्यावहानि रात्रयश्च
+
+##### Gist of the bhāṣya
+
+May that utterance of truth protect me on all sides, that is, guard me completely, that truthful utterance by which, in the place where heaven and earth and the days and nights are
+
+### Printed p. 911
+
+> ततनन् आतन्वन् तत्र विश्वं सर्वमनद्भूतजातं नि विशते । विश्राम्यति । यदेतद्भूतजातमेजति कंपते विश्वाहा सर्वदापश्च स्यंदंते विश्वाहा सर्वदा सूर्यश्चोदेति ।
+> सा सत्योक्तिर्मां परिपात्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+extended, there all the rest of the created things comes to rest, that is, finds repose; all that is created and that stirs, that is, trembles; and always the waters flow, and always Sūrya rises. This is the meaning: may that truthful utterance protect me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—where
+- द्यावा च (*dyāvā ca*)—heaven and earth
+- अहानि च (*ahāni ca*)—day and night
+- ततनन् (*tatanan*)—have attained extension **NOTE**
+- विश्वं (*viśvaṃ*)—all
+- अन्यत् (*anyat*)—the remaining created things
+- नि विशते (*ni viśate*)—where they obtain rest
+- यत् (*yat*)—where all the world
+- विजति (*vijati*)—trembles
+- विश्वाहा (*viśvāhā*)—always
+- आपः (*āpaḥ*)—the waters flow
+- विश्वाहा (*viśvāhā*)—always
+- सूर्यः (*sūryaḥ*)—the Sun
+- उदेति (*udeti*)—rises; such
+- सा (*sā*)—that well-known
+- सत्योक्तिः (*satyoktiḥ*)—utterance of truth
+- मा (*mā*)—me
+- विश्वतः (*viśvataḥ*)—from all sides
+- परि पातु (*pari pātu*)—may it protect
+
+##### भावार्थ (Bhāvārtha)
+
+Where heaven and earth have attained extension, where all created beings find rest, where the whole world trembles, through which the waters always flow and through which the Sun always rises: may that well-known utterance of truth protect me from all sides.
+
+##### English translation
+May that word of truth everywhere protect me, through which it is that the heaven and earth, and days and nights, all the rest of creation which trembles has rest (there); the waters daily (flow), the sun rises every day.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न ते॒ अदे॑वः प्र॒दिवो॒ नि वा॑सते॒ यदे॑त॒शेभिः॑ पत॒रै र॑थ॒र्यसि॑ ।  
+> प्रा॒चीन॑म॒न्यदनु॑ वर्तते॒ रज॒ उद॒न्येन॒ ज्योति॑षा यासि  
+> सूर्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । ते । अदेवः । प्रदिवः । नि । वासते । यत् । एतशेभिः । पतरैः । रथर्यसि ॥  
+> प्राचीनं । अन्यत् । अनु । वर्तते । रजः । उत् । अन्वेन । ज्योतिषा । यासि ।  
+> सूर्य ॥ ३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 905. Vol 27 pp. 899-905: sukta 36 Rk 7-13
+**Progress note:** Done through printed p. 911. Vol 27 pp. 906-911: Sūkta 36 end (Ṛk 13-14), Sūkta 37 intro, Ṛk 1-3
