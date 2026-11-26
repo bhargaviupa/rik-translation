@@ -8360,6 +8360,120 @@ All the gods have been praised by the seers through praises that are joined toge
 
 Wherever the gods are praised through the description of their respective individual qualities and through the individual deeds of each deity, there is room for pṛthakkarma-stuti (praise of individual acts). Such praise is Vaiśvadevika.
 
+### Printed p. 278
+
+Third, if we examine what the Vaiśvadeva praise described by the phrase सूरसंस्तवसंयुक्तं (*sūrasaṃstavasaṃyuktaṃ*) actually is, its nature is given as follows.
+
+विश्वानुद्दिश्य यद्देवान् स्तौति सूर्यमनेकधा । देवानेवाभिसंस्तौति तं प्राहुः सूर्यसंस्तवं ॥ (*viśvānuddiśya yaddevān stauti sūryamanekadhā | devānevābhisaṃstauti taṃ prāhuḥ sūryasaṃstavaṃ ‖*) (Bṛ. De. 3-44)
+
+A mantra that, addressed to the Viśvedevas, praises Sūrya at length, and is also chiefly in praise of the deities, is called by the name Sūryasaṃstava. But this rule fails to apply in one or two places. For example:
+
+न तु भागस्य सूक्तादौ सूक्तेष्वेनौषसेषु ना । न सावित्रे ह्वयामीति न सूरायां क्रतौ मखे ॥ (*na tu bhāgasya sūktādau sūkteṣvenauṣaseṣu nā | na sāvitre hvayāmīti na sūrāyāṃ kratau makhe ‖*) (Bṛ. Ve. 3-45) **NOTE**
+
+In the whole Ṛksaṃhitā, in Sūkta 7-41, the only sūkta addressed to Bhaga, many deities are mentioned. But it cannot be a Vaiśvadeva sūkta. In the very first mantra of this sūkta, Indra, Agni and various other deities are praised and prayed to along with Savitṛ. Yet that too is not Vaiśvadeva. The same rule applies to Ṛ. Saṃ. Sūkta 10-85; it is reckoned simply a Sūryā-sūkta. Although it has many deities, all these mantras are not counted as Vaiśvadeva mantras that are useful in sacrificial rites. Similarly,
+
+ह्वयाम्यग्निं प्रथमं स्वस्तये ह्वयामि मित्रावरुणा विहावसे । ह्वयामि रात्रीं जगतो निवेशनीं ह्वयामि देवं सवितारमूतये ॥ (*hvayāmyagniṃ prathamaṃ svastaye hvayāmi mitrāvaruṇā vihāvase | hvayāmi rātrīṃ jagato niveśanīṃ hvayāmi devaṃ savitāramūtaye ‖*) (Ṛ. Saṃ. 1-35-1)
+
+In places such as this there are mantras that could be put into the group called Vaiśvadeva, joined with Sūra-saṃstava, and there is praise of other deities along with Savitṛ. But this also is not Vaiśvadeva. Thus many sūktas that seem as if they could belong to the third group do not come under this rule.
+
+In examining such injunctions and prohibitions, one must also know who the deities are that are mentioned incidentally in the Vaiśvadeva sūktas.
+
+देवताविदनेक्षेत प्रयोगे सर्वकर्मणां (*devatāvidanekṣeta prayoge sarvakarmaṇāṃ*) (Bṛ. De. 8-124)
+
+For all rites to attain skill in performance, one must fully know these deities, individual and collective. Who are those deities?
+
+### Printed p. 279
+
+सप्तर्षयो वसवश्चापि देवा अथर्वाणो भृगवः सोमसूर्याः । पथ्यास्वस्ती रोदसी चोक्तमंत्रे कुहूर्गुंजूरदितिर्धेनुरघ्न्या ॥ (*saptarṣayo vasavaścāpi devā atharvāṇo bhṛgavaḥ somasūryāḥ | pathyāsvastī rodasī coktamaṃtre kuhūrguṃjūraditirdhenuraghnyā ‖*) (Bṛ. De. 8-125)
+
+The seven sages, the Vasus, the gods, the Atharvans, the Bhṛgus, Soma, Sūrya, Pathyā-svasti, the heaven and earth who are subsidiary mantra-deities, Kuhū, Guṃgū, Dhenu and Aghnyā.
+
+असुनितीरिळा चाप्त्या विधातानुमतिर्ह या । अंगिरोभिः सहैताः स्युरुक्तमंत्राश्च देवताः ॥ ( (*asunitīriḷā cāptyā vidhātānumatirha yā | aṃgirobhiḥ sahaitāḥ syuruktamaṃtrāśca devatāḥ ‖ (*) (Bṛ. De. 8-126)
+
+Asunīti, Iḷā, the Āptyas, Vidhātṛ, Anumati together with the Aṅgirases: all these are reckoned as deities of the subsidiary mantras. (The deities mentioned here are praised only rarely. All of them are praised in Vaiśvadeva sūktas.)
+
+वैश्वानरो हि सुपर्णो विवस्वान् प्रजापति दौर्यः सुधन्वा नगोह्यः । अपांनपादर‍्यमा वातजूतिरिळस्पतिश्चापि रथस्पतिष्ण ॥ (*vaiśvānaro hi suparṇo vivasvān prajāpati dauryaḥ sudhanvā nagohyaḥ | apāṃnapādaryamā vātajūtiriḷaspatiścāpi rathaspatiṣṇa ‖*) (Bṛ. De. 8-12)
+
+Vaiśvānara, Suparṇa, Vivasvān, Prajāpati, Dyauḥ, Sudhanvā, Nagohya, Apāṃnapāt, Aryaman, Vātajūti, Iḷaspati and Rathaspati.
+
+ऋभवः पर्जन्यः पर्वता ग्नाश्च दक्षो भगो देवपत्नीर्दिशश्च । आदित्याः रुद्राः पितरोऽथ साध्या निपातिनो वैश्वदेवेषु सर्वॆ ॥ (*ṛbhavaḥ parjanyaḥ parvatā gnāśca dakṣo bhago devapatnīrdiśaśca | ādityāḥ rudrāḥ pitaro 'tha sādhyā nipātino vaiśvadeveṣu sarvè ‖*) (Bṛ. De. 8-128)
+
+The Ṛbhus, Parjanya, the mountains, the female deities, Dakṣa, Bhaga, the wives of the gods, the deities of the quarters, the Ādityas, Rudras, Pitṛs and Sādhyas: all these are deities mentioned incidentally and prayed to in a Vaiśvadeva sūkta.
+
+In answer to the question what Vaiśvadeva sūktas are, the following sentence showing their general characteristic is cited:
+
+अस्तु श्रौषड्वैश्वदेवं तृतीय वैश्वदेवं स्याद्बहुदेवतेषु । (*astu śrauṣaḍvaiśvadevaṃ tṛtīya vaiśvadevaṃ syādbahudevateṣu |*) (Bṛ. De. 4-7)
+
+The general rule is that wherever there is praise addressed to many deities, as seen in sūktas such as अस्यवामस्य पलितस्य (*asyavāmasya palitasya*) (1-164), they are to be determined as Vaiśvadeva sūktas. (The over-extension and non-extension of the rule are explained in the sentences above.)
+
+### Printed p. 280
+
+Sūktas of this Vaiśvadeva kind are many in the Ṛksaṃhitā. Among them, some are separate sūktas, and others are mantras included within sūktas of other deities. They are these:
+
+1-3-7 to 9; 1-14; 123-10 to 12; 1-89; 1-90; 1-105 to 107; 1-122; 1-139-1, 11; 1-164-1 to 41; 1-186; 2-29; 2-31; 2-41-13 to 15; 3-20-1 to 5; 3-54 to 57; 4-55; 5-26-9; 4-41; 5-42-1 to 10, 12 to 18; 5-43 to 45; 5-46-1 to 6; 5-47 to 51; 6-21-9, 11; 6-49 to 52; 7-34-1 to 15, 18 to 25; 7-35 to 37; 7-39; 7-40; 7-42; 7-43; 7-50-3; 8-25-10 to 12; 8-27 to 30; 8-54-3, 4; 8-58-2, 3; 8-69-11; 8-83; 10-31; 10-32; 10-33-1; 10-35; 10-36; 10-56; 10-57; 10-61; 10-62-7; 10-63-1 to 14, 17; 10-64-66; 10-92; 10-93; 10-100; 10-109; 10-114; 10-126; 10-128; 10-137; 10-141; 10-155-5; 10-157; 10-165; 10-181.
+
+Viśvedevas or Agni—9-67-27;
+Viśvedevas or Aṅgirases—10-62-1 to 6;
+Viśvedevas or Indra—1-121;
+Viśvedevas or Ṛtvijas—8-58-1; 10-101;
+Viśvedevas or Yūpas—3-8-8.
+
+The names of the seers who, having received the vision of these sūktas, praised and prayed to the Viśvedevas are given in the following sentences:
+
+मेधातिथिरगस्यस्तु बृहदुक्को मनुर्गयः । ऋजिश्वा वसुकर्णश्च शार्यातो गोतमो लुशः ॥ स्वस्तात्रेयः परुच्छेपः कक्षीवान् गाथिनौर्वशौ । नाभाकश्चैव निर्दिष्टो दुवस्युर्ममतासुतः ॥ विहव्यः कश्यप ऋषिरवत्सारश्च नाम यः । वामदेवो मधुच्छंदाः पार्थो दक्षसुतादितिः ॥ जुहूर्ग्नत्समदश्चर्षिर्देवाः सप्तर्षयश्च ये । यनोऽग्निस्तापसः कुत्सः कुसीदी चित्र एव च ॥ बंधुप्रभृतयश्चैव चत्वारो भ्रातरः पृथक् । विष्णुश्च नेजमेषश्च नाम्ना संवननश्च यः । एते तु सर्व एवास्य विश्वैः स्वैः कर्मजैर्गुणैः । समस्तॆरथ च व्यस्थैः पृथक्कूक्तेषु तुष्टुवुः ॥ (*medhātithiragasyastu bṛhadukko manurgayaḥ | ṛjiśvā vasukarṇaśca śāryāto gotamo luśaḥ ‖ svastātreyaḥ parucchepaḥ kakṣīvān gāthinaurvaśau | nābhākaścaiva nirdiṣṭo duvasyurmamatāsutaḥ ‖ vihavyaḥ kaśyapa ṛṣiravatsāraśca nāma yaḥ | vāmadevo madhucchaṃdāḥ pārtho dakṣasutāditiḥ ‖ juhūrgnatsamadaścarṣirdevāḥ saptarṣayaśca ye | yano 'gnistāpasaḥ kutsaḥ kusīdī citra eva ca ‖ baṃdhuprabhṛtayaścaiva catvāro bhrātaraḥ pṛthak | viṣṇuśca nejameṣaśca nāmnā saṃvananaśca yaḥ | ete tu sarva evāsya viśvaiḥ svaiḥ karmajairguṇaiḥ | samastèratha ca vyasthaiḥ pṛthakkūkteṣu tuṣṭuvuḥ ‖*) (Bṛ. De. 3-55 to 60)
+
+### Printed p. 281
+
+Medhātithi, Agastya, Bṛhaduktha, Manu, Gaya, Ṛjiśvan, Vasukarṇa, Śāryāta, Gotama, Luśa, Svasti Ātreya, Paruchepa, Kakṣīvān, Viśvāmitra the son of Gādhi, Vasiṣṭha the son of Urvaśī, Nābhāka, Duvasya, Dīrghatamas the son of Mamatā, Vihavya, Kaśyapa, Avatsāra, Vāmadeva, Madhuchandas, Pārtha, Aditi the daughter of Dakṣa, Juhū, Gṛtsamada, the seven sages, Yama, Agni, Tāpasa, Kutsa, Kusīdī, Trita, Bandhu and his brothers, Viṣṇu, Nejameṣa and Saṃvanana.
+
+All these seers mentioned above have praised Agni in various ways in separate sūktas.
+
+समस्मैरथ च व्यस्मैः पृथक्कूक्तेषु तुष्टुवुः (*samasmairatha ca vyasmaiḥ pṛthakkūkteṣu tuṣṭuvuḥ*) (Bṛ. De. 3-60)
+
+The description of all the qualities of the god Agni, arising from his manifold actions, is the description of the Viśvedevas. That is, since the various deities are all transformations of Agni, the praise of many deities is the praise of the many qualities of Agni. The meaning is that all the seers named above, in their own individual sūktas, have fully praised only the universal qualities of the god Agni, who has the form of the Viśvedevas. The same idea is stated clearly in some other places too. For example:
+
+आग्नेयं सूक्तमैभिर्यद्वैश्वदेवमिहोच्यते । तद्विश्वलिंगं गायत्रं वैश्वदेवेषु शस्यते ॥ (*āgneyaṃ sūktamaibhiryadvaiśvadevamihocyate | tadviśvaliṃgaṃ gāyatraṃ vaiśvadeveṣu śasyate ‖*) (Bṛ. De. 3-33)
+
+Although the mantra ऐभिरग्ने (*aibhiragne*) (Ṛ. Saṃ. 1-14) is addressed to Agni, it is Viśvedeva-deitied. Because it is composed in the Gāyatrī metre, the mantras of this sūkta have the Viśva characteristic and also praise the universal qualities. Therefore,
+
+यद्वैभिरिति चैतस्मिन् वैश्वदेवेऽग्निमर्चति (*yadvaibhiriti caitasmin vaiśvadeve 'gnimarcati*) (Bṛ. De. 3-51)
+
+the same idea is stated again and again. Moreover, explaining the relation between the Agnihotra and the Viśvedevas, the Aitareya Brāhmaṇa says:
+
+यो ना अग्निहोत्रं वैश्वदेवं षोळशकलं पशुषु प्रतिष्ठितं वेद वैश्वदेवेनाग्निहोत्रेण षोळशकलेन पशुषु प्रतिष्ठितेन राध्योति ॥ (*yo nā agnihotraṃ vaiśvadevaṃ ṣoḷaśakalaṃ paśuṣu pratiṣṭhitaṃ veda vaiśvadevenāgnihotreṇa ṣoḷaśakalena paśuṣu pratiṣṭhitena rādhyoti ‖*) (I. Bo. 5-26) **NOTE**
+
+It praises thus: he who knows that the Agnihotra, having sixteen heads and established in cattle, is Vaiśvadeva, and who performs this Agnihotra whose deities are the Viśvedevas, becomes endowed with wealth such as cattle. Therefore,
+
+### Printed p. 282
+
+यस्याग्निहोत्रमदर्शमपौर्णमासमचातुर्मास्यमनाग्रयणमतिथिवर्जितंच । अहुतमवैश्वदेवमविधिना हुतमासप्तमांस्तस्य लोकान् हिनस्ति ॥ ( (*yasyāgnihotramadarśamapaurṇamāsamacāturmāsyamanāgrayaṇamatithivarjitaṃca | ahutamavaiśvadevamavidhinā hutamāsaptamāṃstasya lokān hinasti ‖ (*) (Maṇḍaka 1-2-3)
+
+If the Agnihotra is without rites such as the Darśa, Paurṇamāsa, Cāturmāsya, Āgrayaṇa and Vaiśvadeva, it damages the man's future even in the seven worlds: thus the excellence of the Vaiśvadeva rite is praised. All the Viśvedevas are contained in Agni, or the forms of all the other deities are transformations of Agni. Therefore the Agnihotra and the Vaiśvadeva rite are related by identity; this can be known from the Vaiśvadeva nivid mantra. Likewise in some other mantras too it is stated clearly that the Viśvedevas are contained in Agni. For example:
+
+त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्धः । तै विश्वे सहसस्पुत्र देवास्त मिंद्रो दाशुषे मर्त्याय ॥ (*tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddhaḥ | tai viśve sahasasputra devāsta miṃdro dāśuṣe martyāya ‖*) (Ṛ. Saṃ. 5-3-1)
+
+O Agni, you are Varuṇa, you are Mitra, and in you all the Viśvedevas are contained. They all live by the offering made in you. The offering made to you is to reach them as well, and what is offered to them all is to reach you; such is the praise. But who are they? How many are they? This is told in the Vaiśvadeva nivid mantra.
+
+त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् । औक्षन् घृतैरस्तृणन्बर्हिरस्मा आदिद्दोतारं न्यसादयंत ॥ (*trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan | aukṣan ghṛtairastṛṇanbarhirasmā ādiddotāraṃ nyasādayaṃta ‖*) (Ṛ. Saṃ. 3-9-9)
+
+This is reckoned to be the Vaiśvadeva nivid mantra. In it the number of the deities is stated. The Bṛhadāraṇyaka gives its explanation as the number of the Viśvedevas. Explaining the number of all these deities contained in Agni, it says:
+
+अथ हैनं विदग्धः शाकल्यः पप्रच्छ कति देवा याज्ञवल्क्येति स हैतय्येव निविदा प्रतिपेदे यावंतो वैश्वदेवस्य निविदुच्यंते त्रयश्च त्री च शता त्रयश्च त्री च सहस्रेत्योमिति ॥ (*atha hainaṃ vidagdhaḥ śākalyaḥ papraccha kati devā yājñavalkyeti sa haitayyeva nividā pratipede yāvaṃto vaiśvadevasya nividucyaṃte trayaśca trī ca śatā trayaśca trī ca sahasretyomiti ‖*) (Bṛ. U. 3-9-1)
+
+In the commentary on the mantra Ṛ. Saṃ. 3-9-9 quoted above, Sāyaṇa has cited and explained this Upaniṣad sentence. Here there is the conversation between Vidagdha Śākalya and Yājñavalkya on the numbers of the deities.
+
+### Printed p. 283
+
+Vidagdha Śākalya: O Yājñavalkya, what is the total number of the gods? Yājñavalkya: The number stated in the Viśvedeva nivid mantra is the number of the Viśvedevas, namely three hundred and three, and three thousand and three. In all, three thousand three hundred and six. But this number differs slightly from the number stated elsewhere. According to that, 11 × 3 = 33 must be added; that is, a total of three thousand three hundred and thirty-nine. This is the number of the Viśvedevas contained in Agni. The worship of these Viśvedevas is the worship of Agni, and the worship of Agni is the worship of the Viśvedevas.
+
+If saying that the Viśvedevas are contained in Agni is one manner in such descriptions, there are also some passages in which the Viśvedevas are described as consisting of the five peoples. In such contexts the five peoples are the gods, humans, Yakṣas, Gandharvas and Pitṛs; this is explained in the Vaiśvadeva śastra section thus:
+
+पांचजन्यं वा एतदुक्थं यद्वैश्वदेवं सर्वॆषां वा एतत्पंचजनानामुक्थं देवमनुष्याणां गंधर्वाप्सरसां सर्पाणां च पितृणां चैतेषां वा एतत्पंचजनानामुक्थं सर्व एनं पंचजना विदुः ॥ (*pāṃcajanyaṃ vā etadukthaṃ yadvaiśvadevaṃ sarvèṣāṃ vā etatpaṃcajanānāmukthaṃ devamanuṣyāṇāṃ gaṃdharvāpsarasāṃ sarpāṇāṃ ca pitṛṇāṃ caiteṣāṃ vā etatpaṃcajanānāmukthaṃ sarva enaṃ paṃcajanā viduḥ ‖*) (Ai. Brā. 3-31)
+
+The Vaiśvadeva rite is Pāñcajanya, that is, it concerns the five groups of people: gods, humans, Gandharvas, Apsarases and Pitṛs. One who knows this principle is skilled in this rite; thus there is praise of the Vaiśvadeva rite and a description of the Viśvedevas. Other contexts that praise the greatness of this rite will be given later.
+
+Thus it is one setting that the Viśvedevas are contained in Agni, who is made of all the deities; it is another setting that all beings, gods, humans and the rest, are contained in the Viśvedevas. Besides these, a third kind of description is also well known in Vedic sentences: that the Viśvedevas are a power-designation showing the distinction of the varṇas in the order of creation. According to this description Agni, Indra and the Viśvedevas are three special deities reflecting three varṇas. The arrangement of sūktas in the Ṛksaṃhitā also suggests this. Except in the eighth and ninth maṇḍalas, in all the other maṇḍalas there are, at the beginning, sūktas in praise of Agni, then in praise of Indra; after that, sūktas generally in praise of the Viśvedevas follow. Later, in the Brāhmaṇas and the like, Agni, Indra and the Viśvedevas are shown to be identical respectively with the three varṇas, Brāhmaṇa, Kṣatriya and Vaiśya. Some examples make this clear.
+
 ---
 
-**Progress note:** Done through printed p. 277. pp. 272-277 (batch API)
+**Progress note:** Done through printed p. 283. pp. 278-283 (batch API)
