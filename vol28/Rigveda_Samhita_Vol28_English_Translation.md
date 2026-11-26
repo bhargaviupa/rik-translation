@@ -7042,6 +7042,118 @@ O Indra, you are greater than all, that is, the best. Protect quickly us who are
 ##### English translation
 Indra, you are the best of all, quickly protect those who are deligent in worship: men know that your protection is great: be undecaying, rapidly increase : you make all these sacrifices swift.
 
+### Printed p. 224
+
+##### विशेषविषयगळु (Special Topics)
+
+Nine words beginning with नुकं (*nukaṃ*) are said to be used in the Sarvapada-samāmnāya, that is, in the context where the four kinds of words are brought together (Ni. 3-14). Those words are: हिकं, नुकं, सुकं, आहिकं, आकीं, नकिः, माकिः, नकीं, आकृतं (*hikaṃ, nukaṃ, sukaṃ, āhikaṃ, ākīṃ, nakiḥ, mākiḥ, nakīṃ, ākṛtaṃ*). In the present Ṛk, नु (*nu*) and किं (*kiṃ*) are divided as separate words. Some consider these two syllables to be a single word. In the Taittirīya (Yajurveda) Saṃhitā, in the sentence विष्णोर्नुकं वीर्याणि प्रवोचं (*viṣṇornukaṃ vīryāṇi pravocaṃ*) (Tai. Saṃ. 1-2-13-3), the two syllables नुकं (*nukaṃ*) are regarded as one word.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता विश्वा॒ सव॑ना तूतु॒मा कृ॑षे स्व॒यं सू॑नो सहसो॒ ॑ ॒
+> यानि॑ दधि॒षे ।  
+> वरा॑य ते॒ पात्रं॒ धर्म॑णे॒ तना॑ य॒ज्ञो मंत्रो॒ ब्रहोद्य॑तं॒ वचः॑ ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । विश्वा । सवना । तूतुमा । कृषे । स्वयं। सूनो इति । सहसः । यानि । दधिषे।  
+> वराय । ते । पात्रं। धर्मणे। तना । यज्ञः । मंत्रः । ब्रह्म । उत्यतं। वचः॥६॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र एतैतानि विश्वा सवना सर्वाणि सवनानि तूतुमा तूर्णानि कृषे ।
+> करोषि । एतानीत्युक्तं कानीति तत्राह । हे सहसो बलस्य सूनो पुत्र । बलवन्नित्यर्थः । स्वयं यानि दधिषे धारयसि । हे इंद्र ते तव वराय शत्रूणां वारकाय
+> ते तव स्वभूतं पात्रं रक्षणं भवत्वस्माकं । किंच धर्मणे धारणाय तना धनं
+> भवत्विति शेषः । किंच तुभ्यं यज्ञो मंत्रः । इज्यतेनेनेति यज्ञकरणसाधनभूतो मंत्रः। यजुरित्यर्थः । ब्रह्म परिवृढं । शस्त्रमित्यर्थः । तदुभयात्मकं वच
+> उद्यतं भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you make all these libations (savanas) swift. Asked "which ones?", he answers: O son of strength (sahas), that is, the mighty one, whichever libations you yourself uphold. O Indra, may your own protection, which wards off enemies, be ours. Further, may wealth be ours for our support. Further, for you the sacrifice, the mantra: that which is the instrument of the sacrifice, "by which one sacrifices", that is, the Yajus; and ब्रह्म (*brahma*), परिवृढं (*parivṛḍhaṃ*), that is, the śastra. The speech that consists of both is raised up (to you).
+
+### Printed p. 225
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एता विश्वा (*etā viśvā*)—(O Indra) these all
+- सवना (*savanā*)—sacrificial rites
+- तूतुमा (*tūtumā*)—so that they are accomplished quickly
+- कृषे (*kṛṣe*)—you make
+- सहसः पुत्रः (*sahasaḥ putraḥ*)—son of strength, that is, O Indra who possess strength
+- स्वयं (*svayaṃ*)—you yourself
+- यानि (*yāni*)—which sacrificial rites
+- दधिषे (*dadhiṣe*)—you uphold and nourish
+- ते (*te*)—such your
+- वराय (*varāya*)—enemy-repelling
+- पात्रं (*pātraṃ*)—may protection be with us
+- धर्मणे (*dharmaṇe*)—for our support and nourishment
+- तना (*tanā*)—may wealth also be obtained
+- तुभ्यं (*tubhyaṃ*)—for your pleasure
+- यज्ञः (*yajñaḥ*)—which is the instrument of sacrifice
+- मंत्रः (*maṃtraḥ*)—the mantras of the Yajurveda
+- ब्रह्म (*brahma*)—of the form of praise
+- वचः (*vacaḥ*)—the mantras of the Ṛgveda as well
+- उद्यतं (*udyataṃ*)—are composed and recited
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you make all these sacrificial rites be accomplished swiftly. O Indra, of great strength, may your enemy-repelling protection of the sacrifice be with us, of whatever sacrificial rite you uphold and nourish. May wealth also come to us for our nourishment. For your pleasure the Yajurveda mantra, the instrument of sacrifice, and the Ṛgveda mantra in the form of praise are recited.
+
+##### English translation
+You make swift all those sacrifices which, son of strength, you yourself support; may your protection be granted for the repulse (of enemies, may) wealth (be granted) for our support : the sacrifice, the hym n the sacred text, the voice (is) raised (to you).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sentence यज्ञो मंत्रो ब्रहोद्यतं वचः (*yajño maṃtro brahodyataṃ vacaḥ*) of the present Ṛk, Sāyaṇa explains the words यज्ञो मंत्रः (*yajño maṃtraḥ*) as the Yajurveda mantra that is the instrument of sacrificial rites, and the words ब्रह्म उद्यतं वचः (*brahma udyataṃ vacaḥ*) as the Ṛgveda mantra in the form of praise. But ब्रहोद्य (*brahodya*) also has the meaning of an inquiry into the truth concerning Brahman. On the middle day of the Aśvamedha sacrifice it is the custom that a brahmodya, an inquiry into the truth concerning Brahman, takes place among the officiating priests beginning with the Hotṛ. On this subject the sage Āśvalāyana says: आश्वमेधिके मध्यमेऽहनि ब्रहोद्ये होत्रादयः पृच्छामि त्वेत्यनया यजमानं पृच्छेयुः (*āśvamedhike madhyame 'hani brahodye hotrādayaḥ pṛcchāmi tvetyanayā yajamānaṃ pṛccheyuḥ*). In the Aśvamedha and in other principal sacrifices it is the practice that the priests, particularly the Hotṛ, Brahman and others, examine profound questions of principle. This inquiry may concern Prajāpati, or the sacrifice, or creation, the state before creation, and the like.
+
+### Printed p. 226
+For example, in the Aśvamedha mentioned above, the Ṛk पृच्छामि त्वा (*pṛcchāmi tvā*) that is to be discussed, and, as its reply, the principle contained in the Ṛks beginning वेदिमाहुः (*vedimāhuḥ*), are explained subtly.
+पृच्छामि त्वा परमंतं पृथिव्याः पृच्छामि यत्र भुवनस्य नाभिं । पृच्छामि त्वा वृष्णो अश्वस्य रेतः पृच्छामि वाचः परमं व्योम ॥ (*pṛcchāmi tvā paramaṃtaṃ pṛthivyāḥ pṛcchāmi yatra bhuvanasya nābhiṃ | pṛcchāmi tvā vṛṣṇo aśvasya retaḥ pṛcchāmi vācaḥ paramaṃ vyoma ‖*)
+(Ṛ. Saṃ. 1-164-34)
+"O Yajamāna, what is the farthest end of the earth? Where is the binding centre that holds together all parts of the universe? What is the virility (power) of the Āditya (Brahman) who pours down rain? And what is the source of speech (or of the mantra), the cause of all activity? Tell me the nature of these": thus the priest questions the Yajamāna. In reply the Yajamāna answers with the next Ṛk.
+इयं वेदिः परो अंतः पृथिव्या अयं यज्ञो भुवनस्य नाभिः । अयं सोमो वृष्णो अश्वस्य रेतो ब्रह्मायं वाचः परमं व्योम ॥ (*iyaṃ vediḥ paro aṃtaḥ pṛthivyā ayaṃ yajño bhuvanasya nābhiḥ | ayaṃ somo vṛṣṇo aśvasya reto brahmāyaṃ vācaḥ paramaṃ vyoma ‖*)
+(Ṛ. Saṃ. 1-164-35)
+"O priest, I will answer the questions you asked; listen. The sacrificial altar is the final limit, the end, of the earth. The sacrifice is the navel of the universe. For the Āditya (Brahman), the giver of rain, all-pervading, the Soma juice is the virility (power). Brahman, called Prajāpati, is the supreme abode of speech (of the mantras)": so the Yajamāna says.
+Although the principle contained in these two mantras may seem ordinary, they have a hidden meaning full of significance. We shall examine them to some extent.
+आश्वमेधिके मध्यमेऽहनि ब्रह्मोद्ये होत्रादयः-पृच्छामि त्वा इत्यनया एकैकशो यजमानं पृच्छेयुः (*āśvamedhike madhyame 'hani brahmodye hotrādayaḥ-pṛcchāmi tvā ityanayā ekaikaśo yajamānaṃ pṛccheyuḥ*). This is the mantra to be recited at the time of the brahmodya. The priests beginning with the Hotṛ question the Yajamāna concerning Brahman. This brahmodya is a rite to be observed regularly in the Aśvamedha; in other sacrifices too it may be observed optionally. Although it is a part of the rite, it contains an inquiry into knowledge concerning the principle of the universe. The curiosity to know the secret points regarding the universal principle, and the answer known to the respective seers on that matter, are the questions and answers concerning the nature of Brahman. In the Taittirīya Saṃhitā, Aitareya
+
+### Printed p. 227
+Brāhmaṇa, Śatapatha Brāhmaṇa, Bṛhadāraṇyaka Upaniṣad and the other Śrutis, this brahmodya (inquiry into Brahman) is not of a single kind. Although the search for Brahman is the chief element in it, there are differences of procedure in the questions and answers. For example, in the present mantras the Āśvalāyana Śrauta Sūtra says that it is a question to be put by the Hotṛ and others to the Yajamāna, whereas in the Taittirīya Saṃhitā the Hotṛ puts this question to the Brahman priest at the time of the sacrifice and receives the answer.
+This question and answer begins in the Taittirīya Saṃhitā with sentences such as किग्स् स्विदासीत् पूर्वचित्तिः (*kigs svidāsīt pūrvacittiḥ*). There the commentary says: अथ होतुः प्रश्नाः ब्रह्मणः प्रतिवचनानि (*atha hotuḥ praśnāḥ brahmaṇaḥ prativacanāni*), that is, a conversation in the form of question and answer between the Hotṛ and the Brahman. How the order of this brahmodya is described in the Taittirīya Saṃhitā and the others will be shown later.
+The mantra that is explained as the brahmodya has four questions, and the answers to them are in the next mantra. Each of them will be examined separately.
+(1) The first question is पृच्छामि त्वा परमंतं पृथिव्याः (*pṛcchāmi tvā paramaṃtaṃ pṛthivyāḥ*): what is the farthest end of the earth? To it the answer is given: इयं वेदिः परो अंतः पृथिव्याः (*iyaṃ vediḥ paro aṃtaḥ pṛthivyāḥ*), this sacrificial altar is the farthest end of the earth. That is, the altar that supports the sacrifice. Because the sacrifice is itself of the nature of the Supreme Brahman, and because the worlds beginning with the earth exist by the support of Brahman or are of the nature of Brahman itself, identity is declared between the altar, the support of the sacrifice, and the earth. Since the word पृथिवि (*pṛthivi*) also has the meaning of the atmosphere, पृथिवि (*pṛthivi*) here must not be taken as merely the earth; it must be taken as the whole universe including earth, atmosphere and the rest.
+स वै त्रिः पूर्वं परिग्रहं परिगृष्णाति । त्रिरुत्तरं तत् षट्कृत्वः षड्वा ऋतवः संवत्सरस्य संवत्सरो यज्ञः प्रजापतिः स यावानेन यज्यो यावत्यस्य मात्रा तावंतमेवैतत्परिगृह्णाति ॥ (*sa vai triḥ pūrvaṃ parigrahaṃ parigṛṣṇāti | triruttaraṃ tat ṣaṭkṛtvaḥ ṣaḍvā ṛtavaḥ saṃvatsarasya saṃvatsaro yajñaḥ prajāpatiḥ sa yāvānena yajyo yāvatyasya mātrā tāvaṃtamevaitatparigṛhṇāti ‖*)
+(Śa. Brā. 1-2-5-12)
+In such sentences identity is declared between Prajāpati, the year which consists of time, and the sacrifice which is of the form of the year, and Prajāpati. Thus, as extensive as the support of Prajāpati, who is of the nature of space and time, so extensive is the support of the sacrifice: this is shown by the sentence यावत्यस्य मात्रा तावंतमेवैतत्परिगृह्णाति (*yāvatyasya mātrā tāvaṃtamevaitatparigṛhṇāti*). And, giving the etymology of the word for the altar of the sacrifice:
+तं छंदोभिरभितः परिगृह्य । अग्निं पुरस्तात्समाधाय तेनार्चंतः श्राम्यंतश्चेरुस्तेनेमाग्० सर्वा० पृथिवीं समविंदत तद्यदेनेनेमाग्० सर्वाग्० समविंडंत तस्माद्वेदिर्नाम तस्मादाहुर्यावती वेदिस्तावती पृथिवीत्ये- (*taṃ chaṃdobhirabhitaḥ parigṛhya | agniṃ purastātsamādhāya tenārcaṃtaḥ śrāmyaṃtaścerustenemāg0 sarvā0 pṛthivīṃ samaviṃdata tadyadenenemāg0 sarvāg0 samaviṃḍaṃta tasmādvedirnāma tasmādāhuryāvatī vedistāvatī pṛthivītye-*)
+
+### Printed p. 228
+त्यया हीमाग्ं सर्वाग्ं समविंदंतैवग्ं ह ना इमाग्ं सर्वाग्ं सपत्ना नां संवृंक्ते निर्भजत्यस्यॆ सपत्नान्य एवमेतद्वेद ॥ (*tyayā hīmāgṃ sarvāgṃ samaviṃdaṃtaivagṃ ha nā imāgṃ sarvāgṃ sapatnā nāṃ saṃvṛṃkte nirbhajatyasyè sapatnānya evametadveda ‖*)
+(Śa. Brā. 1-2-5-7)
+After enclosing the sacrificial altar with the metres, they established Agni on it and began to worship with the observances and vows that were of the nature of austerity, strung together. As a result they obtained the whole earth. Because they obtained this earth completely (संविद् (*saṃvid*)), the sacrificial ground became famous by the name वेदि (*vedi*). Therefore those who know say that as extensive as the earth is, so extensive is the altar. The Śatapatha Brāhmaṇa says that he who knows this principle becomes himself the lord of this whole earth. Explaining this same matter in the Aitareya Brāhmaṇa also:
+तं वेद्यामन्वविंदन्यद्वेद्यामन्वविंदंस्तद्वेदेर्वेदित्वं ॥ (*taṃ vedyāmanvaviṃdanyadvedyāmanvaviṃdaṃstadvederveditvaṃ ‖*)
+(Ai. Brā. 3-9)
+Having seen this sacrifice on the altar and obtained it, the altar got the name वेदि (*vedi*): thus the greatness of the explanation of the word is praised. And since it is said that this altar is the farthest end of the earth, it was said above that पृथिवि (*pṛthivi*) should not be taken as merely the earth. The word पृथिवी (*pṛthivī*) is also read among the names of the atmosphere (Ni. 2-10). On the basis of the etymology of the Nirukta author, प्रथनात्पृथिवीत्याहुः (*prathanātpṛthivītyāhuḥ*) (Ni. 1-14), the whole extent of earth and sky, which has spread out exceedingly, is denoted by the word पृथिवी (*pṛthivī*). Taking this meaning, it may be understood that this altar is the farthest end of earth and atmosphere, or of the whole universe. Because of this greatness the Śatapatha Brāhmaṇa praises this sacrificial altar thus:
+अयं वाव लोक एषोऽग्निश्चितः । तस्याप एव परिश्रितो मनुष्या यजुष्मत इष्टकाः सूददोहा ओषधयश्च वनस्पतयश्च पुरीषमाहुतयः.........—.... स यो हैतदेवं वेद लोकंपृणामेनं भूतमेतत्सर्वमभि संपद्यते ॥ (*ayaṃ vāva loka eṣo 'gniścitaḥ | tasyāpa eva pariśrito manuṣyā yajuṣmata iṣṭakāḥ sūdadohā oṣadhayaśca vanaspatayaśca purīṣamāhutayaḥ.........—.... sa yo haitadevaṃ veda lokaṃpṛṇāmenaṃ bhūtametatsarvamabhi saṃpadyate ‖*)
+(Śa. Brā. 10-5-4-1)
+This sacrificial altar built of bricks is this terrestrial world. The bricks surrounding it are the seas surrounding the earth, the Yajuṣmatīs are human beings, the Sūdadohas are animals, the clay lying between the bricks is the plants and trees, the Lokampṛṇa is Agni. He who knows this principle gains lordship over the world. Further:
+अंतरिक्षग्ं ह त्वेवैषोऽग्निश्चितः । तस्य द्यावापृथिव्योरेव संधिः । परिश्रिशः परेण हांतरिक्षं द्यावापृथिवी संधत्तस्ताः परिश्रितो वयाग्ंसि यजुष्मत्य इष्टका वर्षग्ं सूददोहा मरीचयः पुरीषमाहुतयः समिथो लोकंपृणा तद्वा एतश्सर्वं ॥ (*aṃtarikṣagṃ ha tvevaiṣo 'gniścitaḥ | tasya dyāvāpṛthivyoreva saṃdhiḥ | pariśriśaḥ pareṇa hāṃtarikṣaṃ dyāvāpṛthivī saṃdhattastāḥ pariśrito vayāgṃsi yajuṣmatya iṣṭakā varṣagṃ sūdadohā marīcayaḥ purīṣamāhutayaḥ samitho lokaṃpṛṇā tadvā etaśsarvaṃ ‖*)
+(Śa. Brā. 10-5-4-2)
+
+### Printed p. 229
+This sacrificial altar is the atmosphere. Since the junction of heaven and earth occurs in a region beyond the atmosphere, the Pariśritas of this altar are the junction of heaven and earth. The bricks called Yajuṣmatīs are the birds, the Sūdadohas are the rain, the clay lying between the bricks is the rays, the oblations are the fuel sticks, the Lokampṛṇa is the wind. He who knows this principle attains identity with Agni.
+दौर्ह त्वेवैषोऽग्निश्चितः । तस्याप एव परिश्रितो यथा ह ना इदं कोशः समुब्बित एवमिमे लोका अप्स्वंतस्तद्या इमान् लोकान् परेणापस्ताः परिश्रितो देवा यजुष्मत्य इष्टका यदेनैतस्मिल्लोकेऽन्नं तत्सूददोहा नक्षत्राणि पुरीषमाहुतयः समिध आदित्यो लोकंपृणा तद्वा एतत्सर्वमादित्यमेताभिसंपद्यते तत्सर्वोऽग्निः । (*daurha tvevaiṣo 'gniścitaḥ | tasyāpa eva pariśrito yathā ha nā idaṃ kośaḥ samubbita evamime lokā apsvaṃtastadyā imān lokān pareṇāpastāḥ pariśrito devā yajuṣmatya iṣṭakā yadenaitasmilloke 'nnaṃ tatsūdadohā nakṣatrāṇi purīṣamāhutayaḥ samidha ādityo lokaṃpṛṇā tadvā etatsarvamādityametābhisaṃpadyate tatsarvo 'gniḥ |*)
+(Śa. Brā. 10-5-4-3)
+This sacrificial altar is the heavenly world. The surrounding bricks are the oceans that enclose this world. The bricks called Yajuṣmatīs are the gods. The Sūdadohas are the food of this world. The clay lying between the bricks is the stars. The Lokampṛṇa is the Āditya.
+आदित्यो ह त्वेवैषोऽग्निश्चितः । तस्य दिश एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति षष्टिश्च ह वै त्रीणि च शतान्मादित्यं दिशः समंतं परियंति रश्मयो यजुष्मत्य इष्टकास्ताः षष्टिश्चैव त्रीणि च शतानि भवंति षष्टिश्च ह वै त्रीणि च शतान्यादित्यस्य रश्मयस्तद्यत्परिश्रित्तु यजुष्मतीः प्रत्यर्पयति रश्मींस्तद्दिक्षु प्रत्यर्पयत्यथ यदंतरा दिशश्च रश्मींश्च तत्सूददोहा अथ यद्दिक्षु च रश्मिषु चान्नं तत्पुरीषं ता आहुतयस्ताः समिधः ॥ (*ādityo ha tvevaiṣo 'gniścitaḥ | tasya diśa eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti ṣaṣṭiśca ha vai trīṇi ca śatānmādityaṃ diśaḥ samaṃtaṃ pariyaṃti raśmayo yajuṣmatya iṣṭakāstāḥ ṣaṣṭiścaiva trīṇi ca śatāni bhavaṃti ṣaṣṭiśca ha vai trīṇi ca śatānyādityasya raśmayastadyatpariśrittu yajuṣmatīḥ pratyarpayati raśmīṃstaddikṣu pratyarpayatyatha yadaṃtarā diśaśca raśmīṃśca tatsūdadohā atha yaddikṣu ca raśmiṣu cānnaṃ tatpurīṣaṃ tā āhutayastāḥ samidhaḥ ‖*)
+(Ka. Brā. 10 5-4-4)
+This sacrificial altar is the Āditya. Three hundred and sixty directions and intermediate directions surround the Āditya. The Yajuṣmatīs, three hundred and sixty in number, are the three hundred and sixty rays of the Āditya. The Sūdadohas are the particular principles lying between the rays of the Āditya and the directions. The clay lying between the bricks is the food between the rays and the directions.
+नक्षत्राणि ह त्वेवैषोऽग्निश्चितः । तानि वा एतानि सप्तविग्०शतिनक्षत्राणि । छंदाग्ंसि ह त्वेवैषोऽग्निश्चितः । तानि वा एतानि सप्तछंदाग्ंसि.... । सर्वाणि ह त्वेन भूतानि । सर्वॆ देवा एषोऽग्निश्चित आपो वै सर्वॆ देवाः सर्वाणि भूतानि ता हैता आस एवैषोऽग्निश्चितस्तस्य नाव्या एव परिश्रितस्ताः षष्टिश्च त्रीणि च शतानि भवंति षष्टिश्च ह वै त्रीणि च शतान्यादित्यं नाव्याः समंतं परियंति .... आत्मायमेव स योऽयं हिरण्मयः पुरुषः ॥ (*nakṣatrāṇi ha tvevaiṣo 'gniścitaḥ | tāni vā etāni saptavig0śatinakṣatrāṇi | chaṃdāgṃsi ha tvevaiṣo 'gniścitaḥ | tāni vā etāni saptachaṃdāgṃsi.... | sarvāṇi ha tvena bhūtāni | sarvè devā eṣo 'gniścita āpo vai sarvè devāḥ sarvāṇi bhūtāni tā haitā āsa evaiṣo 'gniścitastasya nāvyā eva pariśritastāḥ ṣaṣṭiśca trīṇi ca śatāni bhavaṃti ṣaṣṭiśca ha vai trīṇi ca śatānyādityaṃ nāvyāḥ samaṃtaṃ pariyaṃti .... ātmāyameva sa yo 'yaṃ hiraṇmayaḥ puruṣaḥ ‖*)
+(Śa. Brā. 10-5-4-6 to 14)
+**NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 223. pp. 218-223 (batch API)
+**Progress note:** Done through printed p. 229. pp. 224-229 (batch API)
