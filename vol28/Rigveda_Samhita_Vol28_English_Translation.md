@@ -22499,6 +22499,231 @@ Maṇḍala 10; Anuvāka 6; Sūkta 71. Aṣṭaka 8; Adhyāya 2; Varga 23, 24. N
 > यदे॑षां॒ श्रेष्ठं॒ यद॑रि॒प्रमासी॑त्प्रे॒णा तदे॑षां॒ निहि॑तं॒  ॒
 > गुहाविः ॥ १ ॥
 
+### Printed p. 652
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पते । प्रथमं । वाचः । अग्रं । यत् । प्र । ऐरत । नामधेयं । दधानाः ।  
+> यत् । एषां । श्रेष्ठं । यत् । अरिप्रं । आसीत् । प्रेणा । तत् । एषां । निहितं ।  
+> गुहा । आविः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पतिरनेन सूक्तेन विदितवेदार्थन्पालान्दृष्ट्वा स्मयमानः स्मात्मानं
+> संबोध्याह । हे बृहस्पतेऽंतरात्मन् प्रथममुत्पत्यनंतरमितरवागुच्चारणात्प्रागेव
+> नामधेयं नाम दधानाः पदार्थेषु निदधाना बाला यत्प्रैरत प्रेरितवंतः तद्वाचोऽग्रं भवति । यत्तत तातेत्यादिकं वाक्यं पूर्वमभिधाय पश्चादन्या वाचो
+> वदिष्टंति खलु तस्माद्वाचोऽग्रं । अस्यां दतायामवस्थितान्पालान्पश्य । तथेदानीमेषां श्रेष्ठं प्रशस्यतमं यद्यच्चारिप्रं पापरहितं वेदार्थज्ञानमासीत् एषां
+> तज्ञानं गुहा गुहायां निहितं गोप्यं तत्पृणा ॥ मकारलोपश्कांदसः ॥ प्रेम्णाविर्भवति । वेदाभ्यासकाले सरस्वती स्वार्थमेभ्यः प्रकाशयतीत्यर्थः । एवं विस्मये
+> बृहस्पते प्रथमं वाचो अग्रमित्यादिकमारण्यकमनुसंधेयं । ऐ. आ. १-३-६ ॥
+
+##### Gist of the bhāṣya
+
+Bṛhaspati, seeing with this sūkta that the children have understood the meaning of the Veda, smiles and addresses his own self: "O Bṛhaspati, inner self! First, immediately after birth and before any other speech is uttered, the children, assigning names to things, utter a name; that is the foremost part of speech. For they first say a sentence such as तत तात (*tata tāta*) and only afterwards speak other words; therefore it is the beginning of speech. Look at the children in this condition. Now, whatever of these is the best, most praiseworthy and free from fault, namely the knowledge of the Vedic meaning, that knowledge is hidden in a secret place (guhā); (Sarasvatī) makes it appear with affection." The sense is that at the time of Vedic study Sarasvatī reveals her own meaning to them. So in this wonder the Āraṇyaka beginning *bṛhaspate prathamaṃ vāco agraṃ* is to be consulted: Ai. Ā. 1-3-6.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- बृहस्पते (*bṛhaspate*)—O Bṛhaspati
+- प्रथमं (*prathamaṃ*)—immediately upon coming into being in the world
+- नामधेयं (*nāmadheyaṃ*)—the name of things (or of persons)
+- दधानाः (*dadhānāḥ*)—designating and applying
+- यत् (*yat*)—whatever name
+- प्रैरत (*prairata*)—they utter, that
+- वाचः (*vācaḥ*)—among all speech
+- अग्रं (*agraṃ*)—is the foremost
+- एषां (*eṣāṃ*)—among these utterances
+- यत् (*yat*)—what
+- श्रेष्ठं (*śreṣṭhaṃ*)—is the most excellent
+- अरिप्रं (*aripraṃ*)—and free from sin
+- आसीत् (*āsīt*)—is, and
+- एषां (*eṣāṃ*)—among these, which
+- गुहा (*guhā*)—in a secret place
+- निहितं (*nihitaṃ*)—is placed
+- तत् (*tat*)—that
+- प्रेणा (*preṇā*)—with utmost affection
+- आविः (*āviḥ*)—Sarasvatī reveals
+
+##### भावार्थ (Bhāvārtha)
+
+O Bṛhaspati, the name of things or persons which, immediately upon coming into being in the world, they utter, designating and applying it, is the foremost of all speech. That which is most excellent and free from sin, and which is placed in a secret place, Sarasvatī reveals with utmost affection.
+
+##### English translation
+That, Brihaspati, is the best (part) of speech whieh those giving a name (to objects) first utter; that which was the best of those (words) and
+
+### Printed p. 653
+free from defect, (Saraswati) reveals it though secretly implanted, by means of affection.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सक्तु॑मिव॒ तित॑उना पु॒नंतो॒ यत्र॒ धीरा॒ मन॑सा॒ वाच॒मक्र॑त ।  
+> अत्ता॒ सखा॑यः स॒ख्यानि॑ जानते भ॒द्रेषां॑ ल॒क्ष्मीर्निहि॒ताधि॑ वा॒चि॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सक्तुं इव । तितउना । पुनंतः । यत्र । धीराः । मनसा । वाचं । अक्रत ।  
+> अत्र । सखायः । सख्यानि । जानते । भद्रा । एषां । लक्ष्मीः । निहिता । अधि । वाचि ॥२॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तितउना । परिपूयतेऽनेनेति । यद्वा । तता विस्तृता भृष्टयवा आत्रेति
+> तितउः ॥ तनोतेर्डउः सन्वच्च । उ ५-५२ । इति डउप्रत्ययः । सन्वद्भावादित्वं ॥
+> उक्तनिर्वचनेन सूर्पेण सक्तुमिव यथा कश्चित्सक्तुं दुर्धावं पुनाति तद्वत्
+> प्रकृतितः प्रत्ययतश्च शब्दानुत्पुनंतो धीरा धीमंतो विद्वांसो यत्र यस्मिन्नाले
+> विद्वत्संघे वा मनसा प्रज्ञायुक्तेन वाचमक्रत अकृषत कुर्वंति ॥ करोतेर्लुजु
+> रूपं ॥ अत्र तत्र काले सखायः समानख्यानाः शास्त्रादिविषयज्ञानास्ते सख्यानि तेषु
+> भवानि ज्ञानानि जानते । जानंति । यद्वा । सखायो वाचा बद्धसख्यास्ते तस्यास्तस्या
+> वाचः सख्यानि जानंति । वाक्ययुक्तानभ्युदयांल्लभंत इत्यर्थः । तस्मादेषां वाचि
+> भद्रा कल्याणी निहिता लक्ष्मीर्भवति । अधिः सप्तम्यर्थद्योतकः ॥ अर्थज्ञानं वाचि
+> पश्याम इत्यर्थः । तितउ परिपवनं भवति ततवद्वा तुन्नवद्वा तिलमात्रतुन्नमिति वा
+> सक्तुमिव तितउनेत्यादि निरुक्तमनुसंधेयं । नि. ४-१० ॥
+
+##### Gist of the bhāṣya
+
+तितउना (*titaunā*): that by which one sifts; or else, an outspread (tata) thing in which roasted barley is put is a titau. The affix ḍau is used, with the reduplicate treated like that of the desiderative. By the sieve so explained, as someone cleans barley-meal that is hard to wash, so the wise, the intelligent, the learned, purifying words by their stem and by their affix, wherever, in whatever assembly or gathering of scholars, they make speech with a mind endowed with wisdom (अक्रत (*akrata*) is a form of the root kṛ), there friends, those of like repute (sakhāyaḥ) who have knowledge of the śāstras and the like, know the sakhyāni, the knowledges arising among them. Or else: friends bound in friendship by speech know the friendships of that speech; that is, they obtain the prosperity that goes with speech. Therefore in their speech an auspicious, beneficent Lakṣmī is placed. अधि (*adhi*) is an indicator of the locative sense: we see the knowledge of meaning in speech. The Nirukta beginning सक्तुमिव तितउना (*saktumiva titaunā*) is to be consulted: Ni. 4-10.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तितउना (*titaunā*)—with a sieve
+- सक्तु मिव पुनंतः (*saktu miva punaṃtaḥ*)—as one cleans barley grain
+- धीराः (*dhīrāḥ*)—the wise
+- यत्र (*yatra*)—when
+- मनसा (*manasā*)—with their mind endowed with wisdom
+- वाचं (*vācaṃ*)—speech
+- अक्रत (*akrata*)—they refine
+- अत्र (*atra*)—then
+- सखायः (*sakhāyaḥ*)—friends
+- सख्यानि (*sakhyāni*)—their friendship
+- जानते (*jānate*)—know
+- एषां (*eṣāṃ*)—of these
+- वाचि अधि (*vāci adhi*)—in speech
+- भद्रा (*bhadrā*)—auspicious
+- लक्ष्मीः (*lakṣmīḥ*)—welfare
+- निहिता (*nihitā*)—is placed
+
+##### भावार्थ (Bhāvārtha)
+
+As one cleans barley grain with a sieve, when the wise refine speech with their mind endowed with wisdom, then friends know their friendship. In their speech auspicious welfare is placed.
+
+### Printed p. 654
+
+##### English translation
+When the wise create Speech throngh wisdom winnowihg (it) as (men winnow) barley with a sieve, then friends know friendship; good fortune is placed upon their word.
+
+##### विशेषविषयगळु (Special Topics)
+
+For this Ṛk Yāska has given an etymology:
+तितउ । तितउ परिपवनं भवति ततवद्वा तुन्नवद्वा तिलमात्रतुन्नुमिति वा (*titau | titau paripavanaṃ bhavati tatavadvā tunnavadvā tilamātratunnumiti vā*) (Ni. 4-9)
+Titau means a sieve. It is used to sift grain or flour. How it got this name: ततवद्वा । ततेन चर्मणा नद्धं । (*tatavadvā | tatena carmaṇā naddhaṃ |*) This sieve is made of some sheet with tiny holes in it, and a leather binding is put round the sheet; hence the sieve is called titau. Or तुन्नवद्वातुन्नैर्वा छिद्रॆः तद्वत् । (*tunnavadvātunnairvā chidrèḥ tadvat |*) because this sieve has tiny holes or perforations, it is called titau; or तिलमात्रतुन्नमिति वा-तिलमात्राणि वा तुन्नानि तस्मिन्निति । (*tilamātratunnamiti vā-tilamātrāṇi vā tunnāni tasminniti |*) because the holes in it are as tiny as sesame seeds, the sieve is called titau.
+सक्तुमिव परिपवनेन पुनंतः । सक्तुः सचतेर्दुधावो भवति । कसतेर्वा स्याद्विपरीतस्य विकसितो भवति यत्र धीरा मनसा वाचमकृषत प्रज्ञानं । धीराः प्रज्ञानवंतो ध्यानवंतः । तत्र सखायः सख्यानि संजानते भद्रेषां लक्ष्मीर्निहिताधि वाचि इति । भद्रं भगेन व्याख्यातं भजनीयं भूतानामभिद्रवणीयं भवद्रमयतीति वा भाजनवद्वा । लक्ष्मीर्लाभाद्व्या लक्षणाद्द्या (लप्स्यनाद्द्या) लांछनाद्द्या लषतेर्वा स्यात् प्रेप्पाकर्मणो लग्यतेर्वा स्यादाश्लेषकर्मणो लज्जतेर्वा स्यादश्लाघाकर्मणः ॥ (*saktumiva paripavanena punaṃtaḥ | saktuḥ sacaterdudhāvo bhavati | kasatervā syādviparītasya vikasito bhavati yatra dhīrā manasā vācamakṛṣata prajñānaṃ | dhīrāḥ prajñānavaṃto dhyānavaṃtaḥ | tatra sakhāyaḥ sakhyāni saṃjānate bhadreṣāṃ lakṣmīrnihitādhi vāci iti | bhadraṃ bhagena vyākhyātaṃ bhajanīyaṃ bhūtānāmabhidravaṇīyaṃ bhavadramayatīti vā bhājanavadvā | lakṣmīrlābhādvyā lakṣaṇāddyā (lapsyanāddyā) lāṃchanāddyā laṣatervā syāt preppākarmaṇo lagyatervā syādāśleṣakarmaṇo lajjatervā syādaślāghākarmaṇaḥ ‖*) (Ni. 4-9)
+As grain (barley) is put in a sieve, sifted and cleaned; the word sakta is formed from the root सचति (*sacati*), meaning "to stick", because when it is washed it sticks together and is hard to wash. Or, when washed it swells or expands; so it may also be said that the word sakta is formed by reversing the letters of the word vi-kasita. As grain is cleaned by sifting in a sieve, intelligent and knowing people speak the words (or mantra) they utter after thinking well in the mind. Grain is cleaned by being put in a sieve. In the same way, the sentence, like grain, is put into the sieve of the mind of intelligent men and is purified by the movement of meditation; that is, the words spoken by the intelligent, having been well considered before being spoken, are reasonable and full of meaning.
+
+### Printed p. 655
+This is the sense. सखायः सख्यानि संजानते (*sakhāyaḥ sakhyāni saṃjānate*) means that by such well-refined sentences people know mutual friendly feeling. सखायः (*sakhāyaḥ*) means समानख्यानाः (*samānakhyānāḥ*): those of one kind of opinion or refinement are friends. That is, the words and deeds of friends do not oppose one another but cooperate. भद्रेषां लक्ष्मिनिर्हिताधि वाचि । (*bhadreṣāṃ lakṣminirhitādhi vāci |*) In the sentences of such friends an excellent or auspicious mark (lakṣaṇa) is seen. The word bhadra means bhaga. भगो भजतेः (*bhago bhajateḥ*) (Ni. 1-7). Bhadra means that which is attained, auspicious, or enjoyed by living beings; or its coming into being is the cause of the experience of happiness; or it goes to those worthy of obtaining it and joins them: it is obtained only by the worthy. The word लक्ष्मीः (*lakṣmīḥ*) may be formed with the sense लाभाद्वा (*lābhādvā*) (obtaining), or लक्षणाद्दा (*lakṣaṇāddā*) (designating), or लप्स्यनात् (*lapsyanāt*) (desiring), or लांछनाद्दा (*lāṃchanāddā*) (indicating a mark), or from the root laṣ meaning "to desire", or from the root laj meaning "to shrink back"; or from the root lajjati with the sense अश्लाघाकर्मणः (*aślāghākarmaṇaḥ*), not boasting of oneself.
+In the Nirukta statement above the formation or component meaning of the words तितउना (*titaunā*), सक्तुं (*saktuṃ*), सखायः (*sakhāyaḥ*), भद्रा (*bhadrā*) and लक्ष्मी (*lakṣmī*) is stated. If grain is rinsed in a sieve, chaff, stones and other useless things go and clean grain is obtained. In the same way intelligent men, when they speak, first meditate in their minds, that is, think well, and speak only refined and meaningful words. Their sentences produce an effect on intelligent people like themselves and increase mutual friendly feeling, and in their sentences excellent and auspicious marks or signs are seen: this is the main purport of the Nirukta statement.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒ज्ञेन॑ वा॒चः प॑द॒वीय॑माय॒न्तामन्व॑विंद॒न्नृषि॑षु॒ प्रवि॑ष्टां ।  
+> तामा॒भृत्या॒ व्य॑धदुः पुरु॒त्रा तां स॒प्त रे॒भा अ॒भि सं न॑वंते ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यज्ञेन । वाचः । पदवीयं । आयन् । तां । अनु । अविंदन् । ऋषिसु । प्रविष्टां ।  
+> तां । आभृत्य । वि । अदधुः । पुरुत्रा । तां । सप्त । रेभाः । अभि । सं । नवंते ॥ ३ ॥
+
+### Printed p. 656
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाग्देवत्यपशोर्वपापुरोडाशयोर्यज्ञेन वाच इत्यादिके द्वे क्रमेण
+> याज्ये । सूत्रितं च । यज्ञेन वाचः पदवीयमायन्निति द्वे देवीं वाचमजनयंत देवाः । आ. ३-८ । इति ॥
+> विदितार्था धीराः पदवीयं॥ वेतेरचोयत् । संज्ञापूर्वकस्य विधेरनित्यत्वाद्दुणाभावः ॥ पदेन यातव्यः पंथाः पदवीयः । तं वाचो मार्गं यज्ञेनायन् । प्राप्तवंतः । ऋषिष्वतींद्रियार्थदर्शिषु प्रविष्टां तां वाचमविंदन् ।
+> अलभंत । अनंतरं तां वाचमाभृत्याहृत्य पुरुत्रा बहुषु देशेषु व्यदधुः ।
+> व्यकार्षुः । सवान्मनुष्या नध्यापयामासुरित्यर्थः । एतादृशीं वाचं रेभाः शब्दायमानाः पक्षिणः पक्षिरूपाणि गायत्र्यादीनि सप्त छंदांस्यभि सं नवंते । अभितः
+> संगच्छंते ॥
+
+##### Gist of the bhāṣya
+
+In the sacrifice of the animal offered to the deity Speech, in the vapā and the purodāśa, the two Ṛks beginning यज्ञेन वाचः (*yajñena vācaḥ*) are the two yājyās in order. It is also laid down in the sūtra: यज्ञेन वाचः पदवीयमायन्निति द्वे देवीं वाचमजनयंत देवाः । (*yajñena vācaḥ padavīyamāyanniti dve devīṃ vācamajanayaṃta devāḥ |*) (Ā. 3-8). The wise who knew the meaning reached the path of speech, पदवीयं (*padavīyaṃ*), the road to be travelled by foot, by means of sacrifice; they obtained (अविंदन् (*aviṃdan*)) that speech which had entered into the Ṛṣis, who see beyond the senses. Then, having brought that speech together, they distributed it in many places (पुरुत्रा (*purutrā*)): they made all men study it. This speech the रेभाः (*rebhāḥ*), the sounding birds, that is the seven metres such as Gāyatrī in the form of birds, approach and join from all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाचः (*vācaḥ*)—of speech
+- पदवीयं (*padavīyaṃ*)—the path
+- यज्ञेन (*yajñena*)—by means of sacrifice
+- आयन् (*āyan*)—(the discerning) reached
+- ऋषिसु (*ṛṣisu*)—among the Ṛṣis
+- प्रविष्टां (*praviṣṭāṃ*)—established
+- तां (*tāṃ*)—that principle of speech
+- अन्वविंदन् (*anvaviṃdan*)—they obtained
+- तां (*tāṃ*)—that principle of speech
+- आभृत्य (*ābhṛtya*)—having gathered
+- पुरुत्रा (*purutrā*)—in many regions
+- व्यदधुः (*vyadadhuḥ*)—they distributed and spread
+- तां (*tāṃ*)—that
+- रेभाः (*rebhāḥ*)—sounding
+- सप्त (*sapta*)—the seven metres, Gāyatrī and the rest
+- अभि सं (*abhi saṃ*)—surrounding
+- नवंते (*navaṃte*)—join together
+
+##### भावार्थ (Bhāvārtha)
+
+The discerning reached the path of the principle of speech by means of sacrifice. They obtained that principle of speech which was established in the Ṛṣis. Gathering it together, they distributed and spread it in many regions. The metres such as Gāyatrī, sounding and having the form of birds, surround it and join together.
+
+##### English translation
+(The wise) reached the path of Speech by sacrifice, they found it centred in the Rishis ; having acquired it they dispersed it in many places; the seven noisy (birds) meet together.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the vapā and purodāśa offerings of the animal sacrifice made for the deity Speech, this Ṛk यज्ञेन वाचः (*yajñena vācaḥ*) and the next Ṛk उत त्वः पश्यन् (*uta tvaḥ paśyan*) are to be recited in order as yājyā mantras, as explained by the sūtra of the Āśvalāyana Śrauta Sūtra: यज्ञेन वाचः पदवीयमायन्निति द्वे देवीं वाचमजनयंत देवाः (*yajñena vācaḥ padavīyamāyanniti dve devīṃ vācamajanayaṃta devāḥ*) (Ā. 3-8).
+
+### Printed p. 657
+As stated in the Nirukta passage on the previous Ṛk, the Ṛṣis directly realised and obtained refined sentences, that is mantras, through the performance of sacrifice; that is, the mantras were seen by them through the performance of sacrifice. Those mantras, together with the seven metres such as Gāyatrī, were recited in a body and spread in all regions: this is the main purport of the Ṛk.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त त्वः॒ पश्य॒न्न द॑दर्श॒ वाच॑मु॒त त्वः॑ शृ॒ण्वन्न शृ॑णोत्येनां ।  
+> उ॒तो त्व॑स्मै त॒न्वं१॒॑१वि स॑स्रे जा॒येव॒ पत्य॑ उश॒ती सु॒वासाः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । त्वः । पश्यन् । न । ददर्श । वाचं । उत । त्वः । शृण्वन् । न । शृणोति । एनां ।  
+> उतोइति । त्वस्यै । तन्वं । वि । सस्रे । जायाइव । पत्ये । उशती । सुवासाः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वशब्द एकवाची । एकः । उतशब्दोऽप्यर्थे । पश्यन्नपि मनसा पर्यालोचयन्नपि वाचं न ददर्श । दर्शनफलाभावान्न पश्यति । त्व एकः श्वण्वन्नस्येनां वाचं
+> न शृणोति श्रवणफलाभावात् । इत्यनेनार्धेनाविद्वानभिहितः । तृतीयपादेन विदितवेदार्थमाह । त्वस्मा एकस्मा अपि तन्नमात्मीयं शरीरं वि सस्रे । स्वयं वाग्विविधं
+> गमयति । आत्मानं विवृणुते प्रकाशयतीत्यर्थः । तत्र दृष्टांतः । जायेव यथोशती संभोगं कामयमाना सुवासाः शोभनवसना जाया पत्ये भर्त्र ऋतुकाले
+> संभोगार्थं स्वयमात्मानं विवृणुते तद्वदेनां पश्यति शृणोति चेति विदितवेदार्थस्य प्रशंसा । अप्येकः पश्यन्न पश्यति वाचमित्यादि निरुक्तमत्र द्रष्टव्यं । नि. १-१९ ॥
+
+##### Gist of the bhāṣya
+
+The word त्व (*tva*) means "one". उत (*uta*) is in the sense of "even": one, even seeing, even considering with the mind, does not see speech, because the fruit of seeing is absent. One, even hearing, does not hear this speech, because the fruit of hearing is absent. With this half-verse the unlearned man is described. With the third pāda he speaks of one who has understood the meaning of the Veda: to another, speech spreads out her own body in various ways; that is, she herself reveals and displays herself. The illustration: as a wife who desires union, well-dressed, herself uncovers herself to her husband at the proper season for intercourse, so speech to him sees and hears: this is praise of one who knows the meaning of the Veda. The Nirukta beginning *apyekaḥ paśyanna paśyati vācam* is to be seen here: Ni. 1-19. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- त्वः (*tvaḥ*)—one (who lacks the capacity for direct realisation)
+- पश्यन् उत (*paśyan uta*)—even though seeing
+- वाचं (*vācaṃ*)—this principle of speech
+- न ददर्श (*na dadarśa*)—could not realise
+- त्वः (*tvaḥ*)—another (one without the ear fit to know the hidden principle)
+- एनां (*enāṃ*)—this principle of speech
+- शृण्वन् उत (*śṛṇvan uta*)—even though hearing
+- न शृणोति (*na śṛṇoti*)—does not hear
+- उशती (*uśatī*)—desiring the company of her husband
+- सुवासाः (*suvāsāḥ*)—adorned with excellent garments and the like
+- जायेव (*jāyeva*)—like a wife
+- पत्ये (*patye*)—to her husband, displaying her beautiful form
+- त्वस्मै (*tvasmai*)—to another (one who has the fitness to realise)
+- तन्वं (*tanvaṃ*)—her body
+- वि सस्रे (*vi sasre*)—she reveals
+
 ---
 
-**Progress note:** Done through printed p. 651. pp. 646-651 (batch API)
+**Progress note:** Done through printed p. 657. pp. 652-657 (batch API)
