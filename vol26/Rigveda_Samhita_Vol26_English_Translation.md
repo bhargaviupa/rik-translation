@@ -19996,6 +19996,242 @@ Flow, the exhilarator of the gods, the far-seeing, the giver of water, for Indra
 
 The immortal god Soma, who has pervaded the worlds, goes around all those worlds, that is, protects them on every side. This Indu, making the sacrifice or the sacrificer saṃcṛta, joined with the gods or with fruits, and vicṛta, freed from the asuras and the like or from sorrows, serves the sacrifice on every side for the sake of the rite. As the sun serves Uṣas, so, for the going about of living beings on every side, making the world saṃcṛta, joined with lights, and vicṛta, freed from darkness, he serves Uṣas; likewise Soma.
 
+### Printed p. 534
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—who
+- अमर्त्यः (*amartyaḥ*)—such a one free from death
+- सोमः (*somaḥ*)—Soma
+- भुवनानि (*bhuvanāni*)—all the worlds
+- आ तस्थौ (*ā tasthau*)—stands pervading
+- विश्वानि तानि (*viśvāni tāni*)—all those worlds
+- परि अर्षति (*pari arṣati*)—moves about, going around
+- सूर्यः (*sūryaḥ*)—the sun
+- उषसं न (*uṣasaṃ na*)—as following Uṣas (the dawn)
+- इंदुः (*iṃduḥ*)—Soma
+- अभिष्टये (*abhiṣṭaye*)—for the accomplishment of the desired object
+- (यज्ञं (*yajñaṃ*))—(the sacrifice)
+- संचृतं (*saṃcṛtaṃ*)—as one joined with fruits
+- वि चृतं (*vi cṛtaṃ*)—as one free from sorrow
+- कृण्मन् (*kṛṇman*)—making **NOTE**
+- सिषक्ति (*siṣakti*)—serves
+
+##### भावार्थ (Bhāvārtha)
+
+The immortal god Soma stands pervading all the worlds, and he moves about, going around all those worlds. As the sun follows Uṣas, Soma, for the accomplishment of the desired object, serves the sacrifice, making it joined with fruits and free from sorrow.
+
+##### English translation
+The immortal Soma who is stationed upon the worlds, goes round about them all ; Indu, binding and unloosing accompanies (the sacrifice) for its protection, as the sun the dawn.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यो गोभिः॑ सृ॒ज्यत॒ ओष॑धी॒ष्वा दे॒वानां॑ सु॒म्न इ॒षय॒न्नुपा॑वसुः ।  
+> आ वि॒द्युता॑ पवते॒ धार॑या सु॒त इंद्रं॒ सोमो॑ मा॒दयं॒दैव्यं॒ जन॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । गोभिः । सृज्यते । ओषधीषु । आ । देवानाम् । सुम्ने । इषयन् । उपऽवसुः ।  
+> आ । विऽद्युता । पवते । धारया । सुतः । इंद्रम् । सोमः । मादयन् । दैव्यम् । जनम् ॥ ३ ॥
+
+### Printed p. 535
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः सोमः गोभिः रश्मिभिः आ सृज्यते ओषधीषु । यं सोमं स्थापयंतीत्यर्थः । किमर्थम् । देवानां सुम्ने सुखे निमित्ते सति । कीदृशोऽयम्। इषयन् देवान् प्राप्तुमिच्छन् । इष गतौ'। धनमिच्छन् वा । तथा उपावसुः शत्रुभ्यः सकाशात् प्राप्तधनः । सः सोमः विद्युता विद्योतमानया धारया आ पवते सुतः सन् । किं कुर्वन् । दैव्यं देवस्वामिनम् इंद्रं मादयन् ॥
+
+##### Gist of the bhāṣya
+
+Soma is created, that is, brought forth, by the rays among the herbs; the meaning is that they establish this Soma there. For what purpose? For the happiness of the gods. What is he like? He is desiring to reach the gods (the root इष (*iṣa*) is given in the sense of going), or desiring wealth; and he is उपावसुः (*upāvasuḥ*), one who has obtained wealth from the enemies. That Soma, when pressed, flows in a shining stream. Doing what? Gladdening Indra, whom Sāyaṇa calls the lord of the gods. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—which Soma-god
+- गोभिः (*gobhiḥ*)—by the rays of the sun
+- आ सृज्यते (*ā sṛjyate*)—is created
+- (यं (*yaṃ*)—which Soma)
+- देवानां (*devānāṃ*)—of the gods
+- सुम्मे (*summe*)—for the happiness **NOTE**
+- ओषधीषु (*oṣadhīṣu*)—in the herbs (they establish)
+- सुतः सोमः (*sutaḥ somaḥ*)—that same Soma-god when pressed
+- इषयन् (*iṣayan*)—with the desire of approaching the gods
+- दैव्यं जनं (*daivyaṃ janaṃ*)—the company of the gods
+- इंद्रं (*iṃdraṃ*)—Indra
+- मादयन् (*mādayan*)—gladdening
+- उपावसुः (*upāvasuḥ*)—having obtained the wealth of the enemies
+- विद्युता (*vidyutā*)—shining
+- धारया (*dhārayā*)—with the stream
+- आ पवते (*ā pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-god who is created by the rays of the sun, whom they establish in the herbs for the happiness of the gods, that same Soma, when pressed, flows in a shining stream, with the desire of approaching the gods, gladdening the gods and Indra, having obtained the wealth of the enemies.
+
+##### English translation
+The Soma who is created by the (sun's) rays, (and whom they place) in the herbs for the gratification of the gods, desiring to go (to the gods), taking wealth from (the foe), flows when effused in a brilliant stream, exhilarating Indra (and) the people of heaven.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य सोमः॑ पवते सहस्र॒जिद्धि॑न्वा॒नो वाच॑मिषि॒रामु॑ष॒र्बुध॑म् ।  
+> इंदुः॑ समु॒द्रमुदि॑यर्ति वा॒युभि॒रेंद्र॑स्य॒ हार्दि॑ क॒लशे॑षु सीदति ॥ ४ ॥
+
+### Printed p. 536
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । सोमः । पवते । सहस्रऽजित् । हिन्वानः । वाचम् । इषिराम् । उषःऽबुधम् ।  
+> इंदुः । समुद्रम् । उत् । इयर्ति । वायुऽभिः । आ । इंद्रस्य । हार्दि । कलशेषु । सीदति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष स्यः सः सोमः पवते पूयते । कीदृश एषः । सहस्रजित् सहस्रस्य जेता । किं कुर्वन् । वाचम् ऋत्विजां स्तुतिरूपां वाचं हिन्वानः प्रेरयन् । कीदृशीं वाचम् । इषिरां गमनशीलां स्तुत्यं प्रति गंत्रीम् उषर्बुधम् उषसि प्रबुद्धाम् । सोऽयम् इंदुः सोमः समुद्रं समुद्रियं रसम् उदियर्ति उद्गमयति वायुभिः गंतृभिरध्वर्य्वादिभिः वायुभिरेव वा प्रेर्यमाणः सन् । तथा इंद्रस्य हार्दि । हार्दं प्रियम् । तद्धार्दि इंद्रस्य प्रियवद्यथा भवति तथा कलशेषु द्रोणकलशप्रभृतिषु आ सीदति ॥
+
+##### Gist of the bhāṣya
+
+This Soma is purified. What is he like? He is the conqueror of a thousand. Doing what? Urging on the voice of the priests, which takes the form of praise. What kind of voice? One that goes, that is, goes toward the one praised, and that is awake at dawn. That same Indu, Soma, sends up the ocean-like juice, being impelled by the winds, that is, by the going Adhvaryus and the rest, or by the winds themselves. Further, हार्दि (*hārdi*) means what is dear: so that it may be dear to Indra, he settles in the vessels, beginning with the Droṇakalaśa.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्यः (*syaḥ*)—the famed
+- एषः सोमः (*eṣaḥ somaḥ*)—this Soma-god
+- इषिरां (*iṣirāṃ*)—approaching the gods
+- उषर्बुधं (*uṣarbudhaṃ*)—manifested at the time of dawn
+- वाचं (*vācaṃ*)—the praise
+- हिन्वानः (*hinvānaḥ*)—urging on
+- सहस्रजित् (*sahasrajit*)—having conquered many riches
+- पवते (*pavate*)—flows
+- वायुभिः (*vāyubhiḥ*)—impelled by the Adhvaryus
+- इंदुः (*iṃduḥ*)—that same Soma
+- समुद्रं (*samudraṃ*)—his juice that is like an ocean
+- उदियर्ति (*udiyarti*)—causes to stream out
+- इंद्रस्य (*iṃdrasya*)—for Indra
+- हार्दि (*hārdi*)—dear
+- कलशेषु (*kalaśeṣu*)—in the Droṇakalaśas and the rest
+- आ सीदति (*ā sīdati*)—is established
+
+##### भावार्थ (Bhāvārtha)
+
+The famed Soma-god, urging on the praise that approaches the gods and is manifested at the time of dawn, flows having conquered many riches. Impelled by the Adhvaryus, that same Soma causes his ocean-like juice to stream out, and is established in the Droṇakalaśas and the rest, which are dear to Indra.
+
+### Printed p. 537
+
+##### English translation
+This is the Soma, the conqueror of thousands, who flows stimulating the rapid voice (of the priests), awaked at dawn ; Indu sends forth his ocean with the winds, and sinks into the pitchers into Indra's heart.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि त्यं गावः॒ पय॑सा पयो॒वृधं॒ सोमं॑ श्रीणंति म॒तिभिः॑ स्व॒र्विद॑म् ।  
+> ध॒नं॒ज॒यः प॑वते॒ कृत्व्यो॒ रसो॒ विप्रः॑ क॒विः काव्ये॑ना॒ स्व॑र्चनाः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । त्यम् । गावः । पयसा । पयःऽवृधम् । सोमम् । श्रीणंति । मतिऽभिः । स्वःऽविदम् ।  
+> धनम्ऽजयः । पवते । कृत्व्यः । रसः । विप्रः । कविः । काव्येन । स्वःऽचनाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्यं तं पयोवृधं पयसो वर्धकं सोमं गावः पयसा स्वकीयेन क्षीरेण श्रीणंति श्रयणं कुर्वंति । यः मतिभिः स्तुतिभिः सर्वं प्रयच्छति तं स्वर्विदं सोमं श्रीणंति । सः धनंजयः शत्रुधनानां जेता सोमः काव्येन कर्मणा पवते पूयते । कीदृशः सः । कृत्व्यः कर्मण्यः रसः रसरूपः विप्रः मेधावी कविः क्रांतप्रज्ञः स्वर्चनाः सर्वान्नः । चन इत्यन्ननाम ॥ ॥ ९ ॥
+
+##### Gist of the bhāṣya
+
+The cows mix with their own milk that Soma who increases milk. The Soma who gives everything through praises, the finder of heaven, they mix. That Dhanañjaya, the conqueror of the enemies' wealth, Soma, is purified by the rite. What is he like? Fit for the rite, of the nature of juice, wise, a seer of far-reaching wisdom, स्वर्चनाः (*svarcanāḥ*), possessing all food; Sāyaṇa adds that चन (*cana*) is a name for food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतिभिः (*matibhiḥ*)—when pleased by praises
+- स्वर्विदं (*svarvidaṃ*)—who gives everything
+- त्यं (*tyaṃ*)—the famed
+- पयोवृधं (*payovṛdhaṃ*)—who increases milk
+- सोमं (*somaṃ*)—Soma
+- गावः (*gāvaḥ*)—the cows
+- पयसा (*payasā*)—with milk
+- अभि श्रीणंति (*abhi śrīṇaṃti*)—mix
+- कृत्त्वः (*kṛttvaḥ*)—fit for the rite **NOTE**
+- रसः (*rasaḥ*)—of the nature of juice
+- विप्रः (*vipraḥ*)—wise
+- कविः (*kaviḥ*)—of far-reaching wisdom
+- स्वैर्चनाः (*svaircanāḥ*)—possessing all food **NOTE**
+- धनंजयः (*dhanaṃjayaḥ*)—Soma, who conquers the wealth of the enemies
+- पवते (*pavate*)—flows
+
+### Printed p. 538
+
+##### भावार्थ (Bhāvārtha)
+
+The cows mix with their own milk the Soma who, when pleased by praises, gives everything, the famed one who increases milk. Soma, fit for the rite, of the nature of juice, wise, of far-reaching wisdom, possessing all food, the conqueror of the wealth of the enemies, flows.
+
+##### English translation
+The cows dilute with their milk that milk-augmenting Soma who bestows all things by means of praises ; (the Soma) the winner of (our foes') wealth flows purified by the rite, apt for the rite, wise, experienced, the (giver of) all food.
+
+## Sūkta 85 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ इंद्राय' इति द्वादशर्चमष्टादशं सूक्तं भृगुगोत्रस्य वेनस्यार्षं पवमानसोमदेवताकम् । एकादशीद्वादश्यौ त्रिष्टुभौ शिष्टा जगत्यः । तथा चानुक्रांतम्-' इंद्राय द्वादश वेनो भार्गवो द्वित्रिष्टुबंतम्' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning इंद्राय (*iṃdrāya*) has twelve Ṛks and is the eighteenth sūkta. Its seer is Vena of the Bhṛgu lineage, its deity is Pavamāna Soma. The eleventh and twelfth Ṛks are in the Triṣṭubh metre, the rest in Jagatī. The Anukramaṇikā accordingly says: इंद्राय द्वादश वेनो भार्गवो द्वित्रिष्टुबंतम् (*iṃdrāya dvādaśa veno bhārgavo dvitriṣṭubaṃtam*). The application (viniyoga) has already been stated.
+
+Anuvāda: This sūkta, beginning इंद्राय (*iṃdrāya*), is the eighteenth sūkta in the fourth anuvāka. It contains twelve Ṛks. The seer of this sūkta is Vena of the Bhṛgu lineage; the deity is Pavamāna Soma; in this sūkta the eleventh and twelfth Ṛks are in the Triṣṭup metre, the remaining Ṛks in the Jagatī metre. In the Anukramaṇikā it is said: इंद्राय द्वादश वेनो भार्गवो द्वित्रिष्टुबंतं (*iṃdrāya dvādaśa veno bhārgavo dvitriṣṭubaṃtaṃ*). The application (viniyoga) has been stated earlier.
+
+- Maṇḍala 9; Anuvāka 4; Sūkta 85
+- Aṣṭaka 7; Adhyāya 3; Varga 18-11 **NOTE**
+- Number of Ṛks in the sūkta: 12
+- Seer: Vena Bhārgava
+- Deity: Pavamāna Soma
+- Metre: Ṛks 1-10 Jagatī; Ṛks 11, 12 Triṣṭup
+
+### Printed p. 539
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य सोम॒ सुषु॑तः॒ परि॑ स्र॒वापामी॑वा भवतु॒ रक्ष॑सा स॒ह ।  
+> मा ते॒ रस॑स्य मत्सत द्वया॒विनो॒ द्रवि॑णस्वंत इ॒ह सं॒त्विंद॑वः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । सोम । सुऽसुतः । परि । स्रव । अप । अमीवा । भवतु । रक्षसा । सह ।  
+> मा । ते । रसस्य । मत्सत । द्वयाविनः । द्रविणस्वंतः । इह । संतु । इंदवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं सुषुतः सुष्ठु अभिषुतः सन् इंद्रार्थं परि स्रव परितः स्रव । गच्छ । रसं मुंच । अमीवा रोगः रक्षसा सह अप भवतु अपगतो वियुक्तो भवतु । ते तव रसस्य स्वांशं रसं पीत्वा मा मत्सत मा माद्यंतु । के। द्वयाविनः । द्वयं सत्यानृतम् । तेन युक्ताः । पापिन इत्यर्थः । किंच इंदवः ते रसाः इह अस्मिन् यज्ञे द्रविणस्वंतः धनवंतः संतु भवंतु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being well pressed, flow on all sides for the sake of Indra; go, release your juice. May disease depart together with the demons. May those who drink your juice, being the द्वयाविनः (*dvayāvinaḥ*), not rejoice: द्वयं (*dvayaṃ*) is truth and untruth, and those joined with it are sinners. Further, may your juices, the Indus, be rich in wealth here, in this sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-god
+- सुषुतः (*suṣutaḥ*)—being well pressed
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- परि स्रव (*pari srava*)—flow
+- अमीवा (*amīvā*)—disease
+- रक्षसा सह (*rakṣasā saha*)—together with the demons
+- अप भवतु (*apa bhavatu*)—may it go far away
+- द्वयाविनः (*dvayāvinaḥ*)—sinners
+- ते (*te*)—your
+- रसस्य (*rasasya*)—obtained by drinking the juice
+- मा मत्सत (*mā matsata*)—may they not attain delight
+- इंदवः (*iṃdavaḥ*)—your juices
+- इह (*iha*)—in our sacrifice
+- द्रविणस्वंतः (*draviṇasvaṃtaḥ*)—possessing wealth
+- संतु (*saṃtu*)—may they be
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-god, being well pressed, flow for Indra's drinking. May our disease go far away together with the demons. May sinners not attain the delight obtained by drinking your juice. May your juices be possessed of wealth in our sacrifice.
+
 ---
 
-**Progress note:** Done through printed p. 533. Mandala 9: Sukta 83 Rk 3-5, Sukta 84 Rk 1-2 (pp. 528-533)
+**Progress note:** Done through printed p. 539. Mandala 9 Sukta 84 Rk 2-5 (end), Sukta 85 Rk 1
