@@ -5945,6 +5945,281 @@ Agni especiallv protects (in battle) that praiser or zealous sacrificer whose of
 
 O Agni, carry our own people, the lower ones (अवरान् (*avarān*)), from every side towards the front across the other host; let the enemy hosts be defeated by our warriors. Protect those among whom, in the midst of my own people, I am, the master.
 
+### Printed p. 145
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत्र (*yatra*)—to whatever army (O Agni)
+- अहं (*ahaṃ*)—I
+- अस्मि (*asmi*)—am the lord
+- अवरान् (*avarān*)—the people of the army who depend on me
+- परस्याः अधि (*parasyāḥ adhi*)—belonging to the enemy
+- संवतः (*saṃvataḥ*)—from the army
+- अभि आ तर (*abhi ā tara*)—protect all around
+- तान् (*tān*)—them
+- अव (*ava*)—guard
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, those people of the army who depend on me, the army of which I am the lord, protect all around from the army that belongs to the enemy. Guard them.
+
+##### English translation
+Deliver us wholly from the hostile army, shield those among whom I am (lord).
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒द्मा हि ते॑ पु॒रा व॒यमग्ने॑ पि॒तुर्यथाव॑सः ।  
+> अधा॑ ते सु॒म्नमी॑महे ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विद्म । हि । ते । पुरा । वयम् । अग्ने । पितुः । यथा । अवसः ।  
+> अध । ते । सुम्नम् । ईमहे ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने पितुः पालकस्य ते तव अवसः अवो रक्षणं पुरा यथा तथेदानीमपीति विद्म । अधः तत् ते तव सुम्नं सुखम् ईमहे याचामहे । अथवा पितुर्यथेति दृष्टांतः । पितुः पालनं पुत्रो यथा वेत्ति तथेत्यर्थः ॥ ॥ २६ ॥
+
+##### Gist of the bhāṣya
+
+O Agni, we know now, as before, the protection of you, the guardian; therefore we ask of you happiness. Or else पितुर्यथा (*pituryathā*) is an illustration: as a son knows the protection of his father, so we know yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- पितुः (*pituḥ*)—of the guardian
+- ते (*te*)—your
+- अवसः (*avasaḥ*)—protection
+- वयं (*vayaṃ*)—we
+- पुरा यथा (*purā yathā*)—as we knew it in former times
+- विद्म हि (*vidma hi*)—we know also now
+- अध (*adha*)—therefore
+- ते (*te*)—from you
+- सुम्नं (*sumnaṃ*)—happiness
+- ईमहे (*īmahe*)—we ask
+
+### Printed p. 146
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, as we knew in former times the protection of you, the guardian, so we know it also now. Therefore we ask happiness of you.
+
+##### English translation
+We know your protection, Agni, as of a father in former times, therefore we (again) desire of you that happiness.
+
+The seventieth sūkta. **NOTE**
+
+## Sūkta 76 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘इमं नु मायिनम्' इति द्वादशर्चं सप्तमं सूक्तम् । कुरुसुतिर्नाम काण्व ऋषिः । गायत्री छंदः । इंद्रो देवता । तथा चानुक्रांतम्- ‘ इमं नु द्वादश कुरुसुतिः काण्वः' इति । व्यूढे दशरात्रे चतुर्थेऽहनि मरुत्वतीय आद्यस्तृचः । सूत्रितं च--' इमं नु मायिनं हुवे त्यमु वः सत्रासाहम्' ( आश्व. श्रौ. ८. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, of twelve Ṛks, beginning इमं नु मायिनम् (*imaṃ nu māyinam*). The seer is Kurusuti of the Kāṇva line, the metre Gāyatrī, the deity Indra. So the Anukramaṇikā says: इमं नु द्वादश कुरुसुतिः काण्वः (*imaṃ nu dvādaśa kurusutiḥ kāṇvaḥ*). In the Vyūḍha Daśarātra, on the fourth day, in the Marutvatīya, the first tṛca is taken from it. This is laid down in the sūtra इमं नु मायिनं हुवे त्यमु वः सत्रासाहम् (*imaṃ nu māyinaṃ huve tyamu vaḥ satrāsāham*) (Āśv. Śrau. 8. 8).
+
+##### Anuvāda
+
+This sūkta beginning इमं नु मायिनं (*imaṃ nu māyinaṃ*) is the seventh sūkta in the eighth anuvāka. It has twelve Ṛks. The seer of this sūkta is Kurusuti, born in the Kaṇva lineage; Indra is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: इमं नु द्वादश कुरुसुतिः काण्वः (*imaṃ nu dvādaśa kurusutiḥ kāṇvaḥ*). In the ten-day sacrifice called Vyūḍha, on the fourth day, among the Marutvatīya śastra mantras, the first three Ṛks of this sūkta, beginning इमं नु मायिनं (*imaṃ nu māyinaṃ*), are to be recited as the opening tṛca, as is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इमं नु मायिनं हुवे त्वमु वः सत्रासाहं (*imaṃ nu māyinaṃ huve tvamu vaḥ satrāsāhaṃ*) (Ā. 8-8). **NOTE**
+
+##### Particulars
+
+Sūkta 76.
+
+Maṇḍala 8. Anuvāka 8. Sūkta 76.
+
+Aṣṭaka 6. Adhyāya 5. Vargas 27, 28.
+
+Number of Ṛks in the sūkta: 12.
+
+Seer: Kurusuti Kāṇva.
+
+Deity: Indra.
+
+Metre: Gāyatrī.
+
+### Printed p. 147
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मं नु मा॒यिनं॑ हुव॒ इंद्र॒मीशा॑न॒मोज॑सा ।  
+> म॒रुत्वं॑तं॒ न वृं॒जसे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमम् । नु । मायिनम् । हुवे । इंद्रम् । ईशानम् । ओजसा ।  
+> मरुत्वंतम् । न । वृंजसे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमं मायिनं प्रज्ञावंतम् ओजसा स्वबलेन ईशानं सर्वस्य स्वामिनं मरुत्वंतं न । नेति संप्रत्यर्थे । मरुद्भिस्तद्वंतमिदानीम् इंद्रं वृंजसे शत्रूणां छेदनाय हुवे आह्वयामि ॥
+
+##### Gist of the bhāṣya
+
+I invoke this Indra now, the wise one, lord of all by his own might, accompanied by the Maruts, for the cutting down of enemies. The word न (*na*) is in the sense of "now"; the one possessed of Maruts is Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मायिनं (*māyinaṃ*)—the wise one
+- ओजसा नु (*ojasā nu*)—by his own strength
+- ईशानं (*īśānaṃ*)—the one who is the lord
+- मरुत्वंतं (*marutvaṃtaṃ*)—the one who is accompanied by the Maruts
+- इमुं इंद्रं (*imuṃ iṃdraṃ*)—this Indra
+- न (*na*)—now
+- वृंजसे (*vṛṃjase*)—for the destruction of enemies
+- हुवे (*huve*)—I invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra, the wise one, the lord by his own strength, accompanied by the Maruts, I now invoke with prayer for the destruction of enemies.
+
+##### English translation
+I invoke now for the destruction of my enemies the wise Indra attended by the Maruts, ruling all by his power.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यमिंद्रो॑ म॒रुत्स॑खा॒ वि वृ॒त्रस्या॑भिन॒च्छिरः॑ ।  
+> वज्रे॑ण श॒तप॑र्वणा ॥ २ ॥
+
+### Printed p. 148
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । इंद्रः । मरुत्ऽसखा । वि । वृत्रस्य । अभिनत् । शिरः ।  
+> वज्रेण । शतऽपर्वणा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयमिंद्रो मरुत्सखा मरुद्युक्तः वृत्रस्य वि अभिनत् व्यच्छिनत् शिरः वज्रेण शतपर्वणा शतसंधिना ॥
+
+##### Gist of the bhāṣya
+
+This Indra, the friend of the Maruts, united with the Maruts, split the head of Vṛtra with the hundred-jointed thunderbolt (शतसंधिना (*śatasaṃdhinā*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्सखा (*marutsakhā*)—friend of the Maruts
+- आयं इंद्रः (*āyaṃ iṃdraḥ*)—this Indra (with the help of the Maruts)
+- शतपर्वणा (*śataparvaṇā*)—with a hundred joints (edges)
+- वज्रेण (*vajreṇa*)—with the thunderbolt
+- वृत्रस्य (*vṛtrasya*)—of the demon Vṛtra
+- शिरः (*śiraḥ*)—the head
+- व्यभिसत् (*vyabhisat*)—has split
+
+##### भावार्थ (Bhāvārtha)
+
+This Indra, the friend of the Maruts, with the help of the Maruts has split the head of the demon Vṛtra with the thunderbolt of a hundred joints (edges).
+
+##### English translation
+Indra, attended by the Maruts, has cleft the head of Vritra with his hundred jointed thunderbolt.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒वृ॒धा॒नो म॒रुत्स॒खेंद्रो॒ वि वृ॒त्रमै॑रयत् ।  
+> सृ॒जन्स॑मु॒द्रिया॑ अ॒पः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ववृधानः । मरुत्ऽसखा । इंद्रः । वि । वृत्रम् । ऐरयत् ।  
+> सृजन् । समुद्रियाः । अपः ॥ ३ ॥
+
+### Printed p. 149
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंद्रः वावृधानः वर्धमानः मरुत्सखा मरुत्सहायः वृत्रं मेघं वि ऐरयत् विदारितवान् । किं कुर्वन् । समुद्रियाः । समुद्रमंतरिक्षम् । तत्संबंधिन्यः अपः सृजन् ।
+> षष्ठेऽहनि मरुत्वतीये ‘अयं ह येन ' इति मरुत्वन्निविद्धानीयः । सूत्रितं च – 'अयं ह येन वा इदमुप नो हरिभिः सुतम् ' ( आश्व. श्रौ. ८. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+This Indra, growing, the ally of the Maruts, tore apart Vṛtra, the cloud. What was he doing? Letting loose the waters belonging to the samudra, the atmosphere. On the sixth day, in the Marutvatīya, the verse अयं ह येन (*ayaṃ ha yena*) serves as the मरुत्वन्निविद्धानीयः (*marutvannividdhānīyaḥ*). It is also laid down in the sūtra अयं ह येन वा इदमुप नो हरिभिः सुतम् (*ayaṃ ha yena vā idamupa no haribhiḥ sutam*) (Āśv. Śrau. 8. 8).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्सखा (*marutsakhā*)—who has the help of the Maruts
+- वावृधानः (*vāvṛdhānaḥ*)—who has grown
+- इंद्रः (*iṃdraḥ*)—Indra
+- समुद्रियाः (*samudriyāḥ*)—belonging to the atmosphere
+- अपः (*apaḥ*)—the waters
+- सृजन् (*sṛjan*)—releasing
+- वृत्रं (*vṛtraṃ*)—the cloud
+- व्यैरयत् (*vyairayat*)—has split
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, who has the help of the Maruts and has grown, has split the cloud, releasing the waters that belong to the atmosphere.
+
+##### English translation
+Indra, increasing in might, attended by the Maruts, has torn Vritra asunder, letting loose the waters of the firmament.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं ह॒ येन॒ वा इ॒दं स्व॑र्म॒रुत्व॑ता जि॒तम् ।  
+> इंद्रे॑ण॒ सोम॑पीतये ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । ह । येन । वै । इदम् । स्वः । मरुत्वता । जितम् ।  
+> इंद्रेण । सोमऽपीतये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं ह' खल्विंद्रः येन वै येन खलु मरुत्वता मरुद्भिर्युक्तेन इंद्रेण इदं स्वः स्वर्गाख्यं स्थानमिदं स्वः सर्वं कर्म वा यद्वेदं सर्वं जगत् जितम् । किमर्थम् । सोमपीतये सोमपानाय ॥
+
+##### Gist of the bhāṣya
+
+This Indra is the one by whom, accompanied by the Maruts, this स्वः (*svaḥ*), the place called heaven, or else all rites, or, as another explanation, the whole world, has been won. For what purpose? For the drinking of Soma.
+
+### Printed p. 150
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मरुत्वता (*marutvatā*)—accompanied by the Maruts
+- येन (*yena*)—by whom
+- इंद्रेण वै (*iṃdreṇa vai*)—by Indra himself
+- सोमपीतये (*somapītaye*)—for the drinking of Soma
+- इदं स्वः (*idaṃ svaḥ*)—this heaven
+- जितं (*jitaṃ*)—was won
+- आयं ह (*āyaṃ ha*)—this is that very Indra
+
+##### भावार्थ (Bhāvārtha)
+
+This is that very Indra, accompanied by the Maruts, by whom this heaven was won for the drinking of Soma.
+
+##### English translation
+This is that Indra, by whom assisted by the Maruts, yonder heaven was conquered, to quaff the Soma.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒रुत्वं॑तमृजी॒षिण॒मोज॑स्वंतं विर॒प्शिन॑म् ।  
+> इंद्रं॑ गी॒र्भिर्ह॑वामहे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मरुत्वंतम् । ऋजीषिणम् । ओजस्वंतम् । विऽरप्शिनम् ।  
+> इंद्रम् । गीःऽभिः । हवामहे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मरुत्वंतं मरुद्भिस्तद्वंतम् ऋजीषिणम् । अभिषुतशेष ऋजीषः । स च तृतीयसवने पुनः सूयते । तद्वंतम् ओजस्वंतम् । ओजो नामाष्टमी दशा । शरीरवृद्ध्युपेतमित्यर्थः । विरप्शिनम् । महन्नामैतत् । महांतमेवंमहानुभावम् इंद्रं गीर्भिः स्तुतिभिः हवामहे आह्वयामः ॥
+
+##### Gist of the bhāṣya
+
+We call with praises Indra, who is accompanied by the Maruts and has the ऋजीष (*ṛjīṣa*), the remainder of the pressed Soma, which is pressed again at the third pressing. He is endowed with strength: strength (ओजो (*ojo*)) is the name of the eighth stage of life; the meaning is that he is endowed with bodily growth. विरप्शिनम् (*virapśinam*) is a word meaning great: Indra, so great and of such majesty.
+
 ---
 
-**Progress note:** Done through printed p. 144. Sukta 25 (Mandala 8), Rk 9 end and Rks 10-15, pp. 139-144
+**Progress note:** Done through printed p. 150. Rk 15-16 of Sukta 75, Sukta 76 (Mandala 8) Rks 1-5, pp. 145-150
