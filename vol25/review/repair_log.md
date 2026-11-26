@@ -59,3 +59,5 @@
 - Nov 26 2026 (user's readings of 7 marks on PDF pp. 153, 156, 158, 165, 168, 173; list in user_decisions_applied.tsv): page files corrected, rig_25.md rebuilt (these pages are not translated yet). p158 `ಸೂಕ್ತ—೭೬` confirmed (follows Sūkta 75's last Ṛk); p173 `ಎಳೆದ-ಕೊಡು` → `ಎಳೆದುಕೊಂಡು`.
 
 - Nov 26 2026 (translator of batch 8, Sūkta 74): the sūkta number of Sūkta 74 was read `೨೪` in its `ಸೂಕ್ತ—N` line and its particulars line (PDF 127, printed p. 115; the running heads print ಸೂ. ೭೪, the spoken-number line says 74th; the scan-read sequence of the 79 sūkta lines is otherwise consecutive 68…103, 1…43). Page file, committed Kannada Text lines and English particulars sentence corrected `24` → `74`; `rig_25.md` rebuilt.
+
+- Nov 26 2026 (user's readings of 14 marks on PDF pp. 174, 178, 182, 184, 186, 187; list in user_decisions_applied.tsv): page files corrected, rig_25.md rebuilt (not translated yet). Notes: p174 l15 `ತಸ್ಯಾ[?] ...[?]ಚಾಂದ್ರಮಸ್ಯ` → `ತಸ್ಯಾ ಏತಾ ಚಾಂದ್ರಮಸ್ಯ`; p187 `ಆಯು-ಪಿತರೋ` → `ಆಯಮಪಿ ಇತರೋ`, `ವಿಷ್ಯ[?]ಸ್ವರಾಹಂ` → `ವಿದ್ಯದ್ ವರಾಹಂ`.
