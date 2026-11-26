@@ -28432,6 +28432,258 @@ Those waters with which Soma sports and delights as a man (sports) with elegant 
 > अच्छ ।  
 > सं । जानते । मनसा । सं । चिकित्से । अध्वर्यवः । धिषणा । अपः । च । देवीः ॥ ६ ॥
 
+### Printed p. 801
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> युवतयस्तुरुण्यः स्त्रियो यूने तरुणाय नमंत यथा प्रह्वीभवंति
+> एवैवं वसतीवर्येकधनाख्या आपः सोमाय प्रह्वीभवंति । यद्वा । युवतयः
+> सोमेन सह मिश्रयित्र्य आपो यूनेऽभिषवादिकर्मणामात्मना सह मिश्रयित्रॆ
+> कर्त्रेऽध्वर्यवे नमंत । प्रह्वीभवंत्येव । इदिति पूरणः । कदा । यद्यदोशन्नभिषवार्थं वसतीवरीः कामयमानः सोमः सोमाभिषवं कर्तुं कामयमानोऽध्वर्युर्वोशतीः सोमेन सह मिश्रिभावमभिषवादिकर्मांगभावं च
+> कामयमाना ईमेना अपोऽच्छ प्राप्तुमेति गच्छति तदोपनमंते । अध्वर्यवो
+> धिषणा तदीयास्तुतिलक्षणा वाक्च देवीर्देव्य आपश्च मनसा विशिष्टया बुद्ध्या सं
+> जानते । सम्यग्ज्ञानंति । सं चिकित्से । स्वं स्वमधिकारं परस्परोपकारं च चक्षुषा
+> सम्यक् पश्यंति ॥
+
+##### Gist of the bhāṣya
+
+"Young women", that is, maidens, bow to a youth, that is, become submissive to him; in the same way the waters called vasatīvarī and ekadhanā become submissive to Soma. Or else: the young waters, which mix with Soma, bow to the youth, namely the adhvaryu, the doer, who mingles with himself the rites of pressing and the rest; they become submissive indeed, the particle "id" being a filler. When? When Soma, desiring the vasatīvarī waters for the pressing, or the adhvaryu desiring to perform the pressing of Soma, goes to reach these waters, which desire to be mixed with Soma and to be parts of the rites of pressing and the rest, then they bow. The adhvaryus, and the speech in the form of their praise, and the divine waters, know well with mind, that is, with distinguished understanding; and they see well with the eye their own respective office and their mutual service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- युवतयः (*yuvatayaḥ*)—young women
+- यूने (*yūne*)—towards the youths they desire
+- नमंत (*namaṃta*)—as they are submissive
+- यत् (*yat*)—when
+- उशन् (*uśan*)—Soma, desiring the vasatīvarī waters
+- ईं उशतीः (*īṃ uśatīḥ*)—**NOTE**
+- अच्छ (*accha*)—to the vasatīvarī and other waters that long for him
+- एति (*eti*)—approaches; then they are submissive to him
+- अध्वर्यवः (*adhvaryavaḥ*)—the adhvaryus
+- धिषणा (*dhiṣaṇā*)—and speech in the form of praise
+- देवीः (*devīḥ*)—shining
+- अपश्च (*apaśca*)—and the waters
+- मनसा (*manasā*)—joined with good understanding
+- सं जानते (*saṃ jānate*)—together know their duty
+- सं चिकित्से (*saṃ cikitse*)—and understand also their mutual helpfulness
+
+##### भावार्थ (Bhāvārtha)
+
+As young women are submissive to the youths they desire, so when Soma, desiring the vasatīvarī waters, approaches the vasatīvarī and other waters that long for him, they are submissive to him. The adhvaryus, the speech in the form of praise and the shining waters, joined with good understanding, together know their duty. They understand also their mutual helpfulness.
+
+##### English translation
+Verily as young damsels welcome a youth, when desiring (them), he comes to them desiring (him), so the priests and their praise and divine waters agree in mind and contemplate (their mutual assistance).
+
+### Printed p. 802
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वो वृताभ्यो अकृणोदु लोकं यो वो मह्या  
+> अभिशस्तेरमुंचत् ।  
+> तस्मा॒ इंद्रा॑य॒ मधु॑मंतमू॒र्मिं दे॑व॒माद॑नं॒ प्र हि॑णोतनापः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वः । वृताभ्यः । अकृणोत् । ऊं इति । लोकं । यः । वः । मह्याः । अभिशस्त्रेः । अमुंचत् ।  
+> तस्मै । इंद्राय । मधुमंतं । ऊर्मिं । देवमादनं । प्र । हिणोतन । आपः॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> य इंद्रो वृताभ्यो मेघैरावृताभ्यः परिवेष्टिताभ्यो वो युष्मभ्यमद्भ्यो लोकं मेघोदरान्निर्गमनमार्गमकृणोत् अकरोत् । उ इति
+> पूरणः । किंच । यो वो युष्मानपो मह्या महत्या अभिशस्तेर्मेघपरिवेष्टनाभिहिंसनादमुंचत् मोचितवान् । हे आपः यूयं तस्मै तादृशायेंद्राय
+> मधुमंतं मधुरस्वादुयुक्तं देवमादनमिंद्रादिदेवानां सोमेन सह मिश्रीभूय तर्पयितारमूर्मिमप्पंघातं प्र हिणोतन । अस्यद्यज्ञं प्रति गमयत ।
+> सोमाभिषवकर्मांगभावाय प्रस्थापयत ॥
+
+##### Gist of the bhāṣya
+
+The Indra who made for you, the waters, enveloped and surrounded by the clouds, an opening, that is, a way of exit from the belly of the cloud (the particle "u" being a filler); and further, who released you from the great harm of being encircled by the clouds. O waters, send forth to that Indra the wave, that is, the mass of water, which is sweet, endowed with sweet flavour, and which gladdens the gods: mingled with Soma, it satisfies Indra and the other gods. Cause it to go to the sacrifice; send it forth for the purpose of serving the rite of the pressing of Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आपः (*āpaḥ*)—O waters
+- यः (*yaḥ*)—the Indra who
+- वृताभ्यः (*vṛtābhyaḥ*)—to you, enveloped by clouds
+- वः (*vaḥ*)—for you
+- लोकं (*lokaṃ*)—a way of coming out from the belly of the clouds
+- अकृणोत् (*akṛṇot*)—made
+- यः (*yaḥ*)—who
+- वः (*vaḥ*)—you
+- मह्याः (*mahyāḥ*)—from the very great
+- अभिशस्तेः (*abhiśasteḥ*)—harm
+- अमुंचत् (*amuṃcat*)—released
+- तस्मै (*tasmai*)—to such
+- इंद्राय (*iṃdrāya*)—Indra
+- मधुमंतं (*madhumaṃtaṃ*)—sweet
+- देवमादनं (*devamādanaṃ*)—and satisfying to the gods
+- ऊर्मिं (*ūrmiṃ*)—the mass of water
+- प्र हिणोतन (*pra hiṇotana*)—provide
+
+### Printed p. 803
+
+##### भावार्थ (Bhāvārtha)
+
+O waters, to that Indra who made for you, enveloped by the clouds, a way of coming out from the belly of the clouds, and who released you from very great harm: provide the mass of water that is sweet and satisfying to the gods.
+
+##### English translation
+Present, waters, the sweet-flavoured god-exhilarating mixture to that Indra who has made an issue for you when enveloped (by the clouds); who has liberated you from a great calamity.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रास्मै॑ हिनोत्॒त मधु॑मंतमू॒र्मिं गर्भो॒ यो वः॑  
+> सिंधवो॒ मध्व॒ उत्सः॑ ।  
+> धृ॒तपृ॑ष्ठ॒मीड्य॑मध्व॒रेष्वापो॑ रेवतीः शृणु॒ता हवं॑ मे ॥८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अस्मै । हिनोत । मधुमंतं । ऊर्मि० । गर्भः । यः । वः । सिंधवः । मध्वः ।  
+> उत्सः ।  
+> घृतपृष्ठं । ईड्यं । अध्वरेषु । आपः । रेवतीः । शृणुत । हवं । मे ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र यच्छब्दसंबंधाद्वितीयः पादः पूर्वं व्याख्येयः । हे सिंधवः
+> स्यंदनशीला आपः वो युष्माकं यो गर्भो मध्वो मधुररसस्योत्स उत्स्बंदनः
+> प्रस्रवणः । यच्छब्दयोगात्तच्छब्दोऽध्याहार्यः । तं मधुमंतं मधुररसोपेत.
+> मूर्मिमप्पंघातं । सारमित्यर्थः । अस्मा अस्येंद्रस्यार्थाय प्र हिनोत ।
+> प्र हिणुत ॥
+
+### Printed p. 804
+
+##### Gist of the bhāṣya
+
+Here, because of the relation with the relative word, the second pāda is to be explained first. O sindhus, flowing waters, that embryo of yours, which is the spring, the outflow, of sweet juice, that is, of honey-flavoured juice: the word "that" is to be supplied because of the relative. That sweet wave, the mass of water endowed with a honey-flavoured juice, that is, the essence, send forth for him, for the sake of this Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—O waters in the form of streams
+- यः (*yaḥ*)—he who
+- वः (*vaḥ*)—to you
+- गर्भः (*garbhaḥ*)—is in the form of an embryo, and
+- मध्वः (*madhvaḥ*)—for the sweet juice
+- उत्सः (*utsaḥ*)—is like a spring
+- अस्मै (*asmai*)—to such an Indra
+- अध्वरेषु (*adhvareṣu*)—at sacrifices
+- घृतपृष्ठं (*ghṛtapṛṣṭhaṃ*)—having its back anointed with ghee
+- ईड्यं (*īḍyaṃ*)—praiseworthy
+- मधुमंतं (*madhumaṃtaṃ*)—and possessing sweet juice
+- ऊर्मिं (*ūrmiṃ*)—the mass of water
+- प्र हिनोत (*pra hinota*)—offer
+- रेवतीः (*revatīḥ*)—wealthy
+- आपः (*āpaḥ*)—O waters
+- मे (*me*)—my
+- हवं (*havaṃ*)—invocation
+- शृणुत (*śṛṇuta*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O waters in the form of streams, to that Indra who is in the form of an embryo to you and is like a spring for the sweet juice, offer at the sacrifices the mass of water that has its back anointed with ghee, is praiseworthy and possesses sweet juice. O wealthy waters, hear my invocation.
+
+##### English translation
+Send forth, rivers, the sweet-flavoured beverage to him who is your germ, a well of the sweet (Soma-juice), the beverage which is mixed with butter adorable at sacrifices : hear, opulent waters my invocation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तं सिं॑धवो मत्स॒रमिं॑द्र॒पान॑मू॒र्मिं प्र हे॑त॒ य उ॒भे  ॑
+> इयर्ति ।  
+> म॒द॒च्युत॑मौशा॒नं न॑भो॒जां परि॑ त्रि॒तंतु॑ वि॒चरं॑त॒मुत्सं॑ ॥९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तं । सिंधवः । मत्सरं । इंद्रपानं । ऊर्मिं । प्र । हेत । यः । उभे इति ।  
+> इयर्ति ।  
+> मद्वच्युतं । औशानं । नभःजां । परि । त्रितंतुं । विचरंतं । उत्स० ॥ ९ ॥
+
+### Printed p. 805
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सिंधवः स्यंदनशीला आपः यो युष्मदीयः सारभूतः समूह उभे
+> अस्मभ्यं दृष्टादृष्टफले दाता सन्नियर्ति कर्मांगभावं प्रतिपद्यते मत्सरं मादयितारमिंद्रादिदेवानां तर्पयितारमिंद्रपानं देवानां प्रमुखेनेंद्रेण
+> पानीयं तं तादृशमूर्मिमुदकसमूहं प्र हेत । प्रगमयत । अस्मद्यज्ञं प्रति
+> प्रेरयत । कीदृशं । मदच्युतं मदस्य च्यावकमौशानं सोमेन सह मिश्रीभावं
+> कामयमानं नभोजां नभस्यंतरिक्षे वृष्टिरूपेण जातं परि सर्वतस्त्रितंतुं
+> त्रयाणां लोकानां तनितारं विस्तारयितारं विचरंतं यज्ञपात्रॆषु गच्छंतमुत्समुत्स्यंदनं । तर्पितारं देवान्मत्तौर्धं गंतारमित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O sindhus, flowing waters, that essential mass of yours which, being the giver to us of both fruits, the seen and the unseen, comes into service as a part of the rite: send forth that wave, that mass of water, which is gladdening, satisfying Indra and the other gods; to be drunk by Indra, the chief of the gods. Cause it to go forth, send it to our sacrifice. Of what kind is it? It makes the exhilaration flow; it desires to be mixed with Soma; it is born in the firmament, in the form of rain; it stretches out the three worlds on every side; it goes about, moving in the sacrificial vessels; it is a spring, that is, an outflow. The meaning is that it satisfies the gods and goes upward. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधवः (*siṃdhavaḥ*)—O flowing waters
+- यः (*yaḥ*)—that mass of water of yours which
+- उभे (*ubhe*)—two fruits, seen and unseen
+- इयर्ति (*iyarti*)—provides; such
+- मत्सरं (*matsaraṃ*)—gladdening
+- इंद्रपानं (*iṃdrapānaṃ*)—fit to be drunk by Indra
+- मदच्युतं (*madacyutaṃ*)—exhilarating
+- औशानं (*auśānaṃ*)—desiring a connection with Soma
+- नभोजां (*nabhojāṃ*)—born in the firmament
+- परि (*pari*)—everywhere
+- त्रितंतुं (*tritaṃtuṃ*)—making the three worlds extend
+- विचरंतं (*vicaraṃtaṃ*)—entering the sacrificial vessels
+- उत्सं (*utsaṃ*)—and being like a spring
+- तं ऊर्मिं (*taṃ ūrmiṃ*)—that mass of water
+- प्र हेत (*pra heta*)—send forth
+
+##### भावार्थ (Bhāvārtha)
+
+O flowing waters, that mass of water of yours which provides both fruits, the seen and the unseen, being gladdening, fit to be drunk by Indra, exhilarating, desiring a connection with Soma, born in the firmament, making the three worlds extend everywhere, entering the sacrificial vessels and being like a spring: send forth that mass of water.
+
+##### English translation
+Send, rivers, (to our sacrifice), that exilarating wave, the beverage of Indra, which sends us both (kinds of fruit), exciting exhilaration, desirous, (of mixing with the Soma), generated in the firmament ; spreading through the three (worlds), flowing (amidst the vessels of sacrifice), a well (of satisfaction to the gods).
+
+### Printed p. 806
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒वर्वृ॑तती॒रध॒ नु द्वि॒धारा॑ गोषु॒युधो॒ न नि॑य॒वं चरं॑तीः॥  
+> ऋषे॒ जनि॑त्री॒र्भुव॑नस्य॒ पत्नी॑र॒पो वं॑दस्व स॒वृधः॒ सयो॑नीः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आवर्वृततीः । अध । नु । द्विधाराः । गोषुयुधः । न । नियवं । चरंतीः ।  
+> ऋषे । जनित्रीः । भुवनस्य । पत्निः । अपः । वंदस्व । सवृधः । सयोनीः ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अपोनप्रीय एकधनास्वावृत्तास्वावर्वृततीरित्येषा । सूत्रितं च । आवर्वृततीरध नु द्विधारा इत्यावृत्तास्वेकधनासु । आ. ५.१ । इति । तत्रैव हिनोता न इत्येषा।
+> सूत्रं पूर्वमुदाहृतं ॥
+> अधाथानंतरं गोषुयुधो न । गोष्टप्पु निमित्तभूतासु मेघैः सह
+> युध्यत इति गोषुयुदिंद्रः ; तस्य यथा वृष्टिलक्षणा अपो द्विधाराः । द्विशब्दोऽत्रानेकत्रवाची । अनेकधाराः । अपर्यंतधारा इत्यर्थः । अस्माकमप्येवंस्थिता
+> आवर्वृततीरावृत्ता नियवं सोमं प्रति निश्चयेन मिश्रीभावं चरंतीर्गच्छंतीभुवनस्य लोकस्य जनत्रीर्जनयित्रिः पत्नीः पालयित्रिश्च सवृधः सह सोमस्य वर्धयित्रिः सयोनीः सोमेन सह समानस्थाना हे ऋषे मदीयांतरात्मन्
+> अध्वयो वा त्वमेवंभूता अपो नु क्षिप्रं वंदस्व । स्तुहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This verse belongs to the ritual of the grandson of the waters, in the repeated ekadhanā waters. **NOTE** It is also laid down in the sūtra: the verse आवर्वृततीरध नु द्विधारा (*āvarvṛtatīradha nu dvidhārā*) is for the repeated ekadhanā waters (Ā. Sū. 5.1). There too the verse हिनोता न (*hinotā na*) is named; the sūtra has been quoted before. Next, गोषुयुधो न (*goṣuyudho na*): Indra, who fights with the clouds when the waters are the occasion, is "he who fights in the cows"; as to him the waters in the form of rain have two streams, the word "two" here meaning many, that is, they have countless streams; so also for us, waters standing thus, recurring, going to Soma for certain mixture; the creators of the world, and also its protectors; the increasers of Soma together with him; sharing a common place with Soma. O sage, my inner self, or O adhvaryu, quickly praise such waters; that is, extol them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषे (*ṛṣe*)—O sage
+- द्विधाराः (*dvidhārāḥ*)—having many streams
+- आ वर्वृततीः (*ā varvṛtatīḥ*)—returning again
+- नियवं (*niyavaṃ*)—certainly
+- मिश्रीभावं (*miśrībhāvaṃ*)—union with Soma
+- चरंतीः (*caraṃtīḥ*)—attaining
+- भुवनस्य (*bhuvanasya*)—for the world
+- जनित्रीः (*janitrīḥ*)—the producers
+- पत्नीः (*patnīḥ*)—the protectors
+- सवृधः (*savṛdhaḥ*)—those who make Soma thrive
+- सयोनीः (*sayonīḥ*)—and are born together with Soma
+- अपः (*apaḥ*)—the waters
+- नु (*nu*)—quickly
+- गोषुयुधो न (*goṣuyudho na*)—like Indra, who fights for the cows
+- वंदस्व (*vaṃdasva*)—salute
+
 ---
 
-**Progress note:** Done through printed p. 800. Vol 27 pp. 795-800: Sūkta 30 Ṛk 2-5 with Special Topics, Ṛk 6 text
+**Progress note:** Done through printed p. 806. Vol 27 pp. 801-806: Sūkta 30 Ṛk 6-10
