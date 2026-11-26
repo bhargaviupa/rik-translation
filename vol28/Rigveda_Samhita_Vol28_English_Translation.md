@@ -924,6 +924,251 @@ May Brihaspati defend us from a malignant (foe) coming from be-
 hind; from above or from below may Indra defend us from foes in front
 and in the middle; may he, our friend bestow wealth upon (us) his friends
 
+### Printed p. 25
+## Sūkta 43 (Maṇḍala 10)
+
+##### Anuvāda (introduction)
+
+The fourth Anuvāka of the tenth Maṇḍala of the Ṛgveda-saṃhitā contains eighteen sūktas. Of these, the sūkta beginning अच्छा मे (*acchā me*) is the first. It has eleven ṛks. The seer and deity of this sūkta are the same as in the preceding sūkta. The tenth and eleventh ṛks are in the Triṣṭubh metre; the remaining ṛks are in the Jagatī metre. The Anukramaṇikā says: अच्चा मे द्वित्रिष्टुबंतमिति (*accā me dvitriṣṭubaṃtamiti*). In the Ukthya sacrifice this sūkta is employed for the mantras to be recited by the Brāhmaṇācchaṃsin priest at the third pressing. This is explained by the Āśvalāyana Śrauta-sūtra, in the sūtra अच्चा म इंद्रं बृहस्पते युवमिंद्रश्च वस्व इति याज्ये (*accā ma iṃdraṃ bṛhaspate yuvamiṃdraśca vasva iti yājye*) (Ā. 6-1). It is also to be recited on the sixth day of the sacrifice; this is explained by the Āśvalāyana Śrauta-sūtra, in the sūtra अच्चा म इंद्रमिति नित्यमैकाहिकं (*accā ma iṃdramiti nityamaikāhikaṃ*) (Ā. 8-3).
+
+##### Particulars
+
+Maṇḍala 10; Anuvāka 4; Sūkta 43; Aṣṭaka 7; Adhyāya 8; Varga 24, 25. Number of ṛks in the sūkta: 11. Ṛṣi: Kṛṣṇa. Devatā: Indra. Metre: 1–9 Jagatī; 10, 11 Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अच्छा॑ म॒ इंद्रं॑ म॒तयः॑ स्व॒र्विदः॑ स॒ध्रीची॒र्विश्वा॑ उश॒तीर॑नूषत ।  
+> परि॑ ष्वजंते॒ जन॑यो॒ यथा॒ पतिं॒ मर्यं॒ न शुं॒ध्युं म॒घवा॑नमू॒तये॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 26
+
+> अच्छ । मे । इंद्रं । मतयः । स्वःविदः । सध्रीचीः । विश्वाः । उततीः । अनूषत ।  
+> परि । स्वजंते । जनयः । यथा । पतिं । मर्यं । न । शुंध्युं । मघवानं । ऊतये ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आंगिरसस्य कृष्णस्य मे मम स्वर्विदः सर्वस्य लंभयित्र्यः सध्रीजीः संगता
+> विश्वा व्याप्ता उशतीः कामयमाना मतयः स्तुतय इंद्रमच्छानूषत । अभिष्टु
+> वंति । किंच जनयो जाया यथा पतिं भर्तारं मर्यं न यथा च मनुष्यं
+> शुंध्युं शुद्धं दोषरहितं मघवानं धनवंतमूतये रक्षणार्थं परि ष्टजंते
+> अलिंगंति तद्वदिंद्रं मे स्तुतयः परि ष्टजंते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: of me, Kṛṣṇa the Āṅgirasa, the praises (मतयः (*matayaḥ*)) — which win everything (स्वर्विदः (*svarvidaḥ*)), are united (सध्रीचीः (*sadhrīcīḥ*)), pervasive (विश्वाः (*viśvāḥ*)) and desirous (उशतीः (*uśatīḥ*)) — extol Indra. Further, as wives embrace their husband, their protector, and as women embrace a man who is pure, free from fault and wealthy (मघवानं (*maghavānaṃ*)), for the sake of protection (ऊतये (*ūtaye*)), so my praises embrace Indra on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मे (*me*)—my
+- स्वर्विदः (*svarvidaḥ*)—acquiring everything
+- सध्रीचीः (*sadhrīcīḥ*)—gathered together
+- विश्वाः (*viśvāḥ*)—all-pervading
+- उततीः (*utatīḥ*)—desiring the gods
+- मतयः (*matayaḥ*)—praises
+- इंद्रं अच्छ (*iṃdraṃ accha*)—addressing Indra
+- अनूषत (*anūṣata*)—praise
+- जनयिः (*janayiḥ*)—wives
+- यथा (*yathā*)—in what manner
+- मर्यं (*maryaṃ*)—a human
+- पतिं न (*patiṃ na*)—as they embrace the husband
+- शुंध्युं (*śuṃdhyuṃ*)—the purified
+- मघवानं (*maghavānaṃ*)—Indra
+- ऊतये (*ūtaye*)—for protection
+- परि ष्टजंते (*pari ṣṭajaṃte*)—embrace
+
+##### भावार्थ (Bhāvārtha)
+
+My praises, which win all desired things, are gathered together, pervade everywhere and desire the gods, extol Indra. As wives embrace their husband, a human being, so my praises embrace the pure Indra for the sake of protection (they go and join him).
+
+##### English translation
+My praises all-acquiring, concentrated and eager, glorify Indra ; they embrace Magavat as wives (embrace) a husband : as (women embrace) a man free from defect for the sake of protection.
+
+### Printed p. 27
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न घा॑ त्व॒द्रिगप॑ वेति मे॒ मन॒स्त्वे इत्कामं॑ पुरुहूत तिश्रय ।  
+> राजे॑व दस्य॒ नि ष॒दोऽधि॑ ब॒र्हिष्य॒स्मिन्नु सोमे॑व॒पान॑मस्तु  
+> ते ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । घ । त्वद्रिक् । आप । वेति । मे । मनः । श्वे इति । इत् । कामं । पुरुऽहूत ।  
+> शिश्रय ।  
+> राजाऽइव । दस्य । नि । सदः । अधि । बर्हिषि । अस्मिन् । सु । सोमे । अव्यपानं ।  
+> अस्तु । ते ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुरुहूत बहुभिराहूत दस्य दर्शनीयेंद्र त्वद्रिक् त्वदभिमुखं मे
+> मदीयं मनो न घ न खल्वप वेति । त्वत्तोऽपगच्छति । किंच श्वे इत् त्वय्येव
+> कामदुभिलाषं शिश्रय । स्थापयामि । किंच राजीवेश्वर इव बर्हिष्यधि नि षदः ।
+> निषीद । किंच ते तवास्मिन्नोमेऽवपानमस्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Puruhūta, invoked by many, O Dasma, Indra worthy to be seen: my mind, turned toward you, does not turn away from you. Further, I fix my desire (कामं (*kāmaṃ*)) in you alone (त्वे इत् (*tve it*)). Further, sit like a king (an overlord) upon the sacred grass. Further, may the drinking (अवपानं (*avapānaṃ*)) of this Soma be yours.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दस्म (*dasma*)—possessing an attractive form
+- पुरुहूत (*puruhūta*)—O Indra
+- त्वद्रिक् (*tvadrik*)—turned toward you
+- मे मनः (*me manaḥ*)—my mind
+- न घ अप वेशि (*na gha apa veśi*)—surely does not turn back from there
+- त्वे इत् (*tve it*)—in you alone
+- कामं (*kāmaṃ*)—the desired object
+- शिश्रय (*śiśraya*)—I place
+- राजीव (*rājīva*)—like a lord
+- अधि नि षदः (*adhi ni ṣadaḥ*)—sit down
+- ते (*te*)—for you
+- आस्मिन् सोमे (*āsmin some*)—in this Soma
+- अवपानं अस्तु (*avapānaṃ astu*)—may your act of drinking be accomplished
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of attractive form and invoked by many: my mind, turned toward you, surely never turns back from you. I fix my desired object in you alone. Sit here like a lord. In this sacrifice may this act of drinking Soma be accomplished for you.
+
+##### English translation
+Indra, of godly aspect, the invoked of many, my mind intent on you
+wanders not from your presence : I fix my desire on you : take your seat like
+a prince upon this sacred grass; and may your drinking be of this Soma.
+
+### Printed p. 28
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒षू॒वृदिंद्रो॒ अम॑तेरु॒त क्षु॒धः स इद्रा॒यो म॒घवा॒ वस्य॑  
+> ईशते ।  
+> तस्येदि॒मे प्र॑व॒णे स॒प्त सिंध॑वो॒ वयो॑ वर्धंति वृष॒भस्य॑ शु॒ष्मिणः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विषूवृत् । इंद्रः । अमतेः । उत । क्षुधः । सः । इत् । रायः । मघवा । वस्य ।  
+> ईशते ।  
+> तस्य । इत् । इमे । प्रवणे । सप्त । सिंधवः । वयः । वर्धंति । वृषभस्य । शुष्मिणः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रोऽमतेरस्माकं दुर्बुद्धेः प्रज्ञापहारिण्याः पिसासाया ना विषूवृद्धिष्टगवर्तको भवतु । उतापि च क्षुधो बुभुक्षाया विषूवृद्धवतु । किंच स इत्
+> स एव मघवा धनवानिंद्रो वसो वासयितू रायो धनस्येशते । ईष्टे । किंच
+> वृषभस्य वर्षितुस्तस्येदिंद्रस्येवेमे प्रसिद्धाः सप्त स्तप्तसंख्याकाः सिंधवो नद्यः
+> प्रवणे देशे वयोऽन्नं वर्धंति । वर्धयंति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: may Indra be the remover (विषूवृत् (*viṣūvṛt*)) of our evil-mindedness (अमतेः (*amateḥ*)), which robs the understanding, पिसासाया (*pisāsāyā*) **NOTE**, and also of hunger (क्षुधः (*kṣudhaḥ*), the desire to eat). Further, that same wealthy Indra is lord (ईशते (*īśate*)) of wealth (रायः (*rāyaḥ*)) that makes dwelling possible. Further, of that same showerer Indra, these seven well-known rivers cause food (वयः (*vayaḥ*)) to increase in the low-lying (प्रवणे (*pravaṇe*)) country.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- अमतेः (*amateḥ*)—of our thirst, the cause of bad thinking
+- विषूवृत् (*viṣūvṛt*)—let him be the remover
+- उत (*uta*)—and
+- क्षुधः (*kṣudhaḥ*)—of hunger too, the remover
+- स इत् मघवा (*sa it maghavā*)—that same wealthy Indra
+- वस्वः (*vasvaḥ*)—causing habitation
+- रायः (*rāyaḥ*)—of wealth
+- ईशते (*īśate*)—is the lord
+- वृषभस्य (*vṛṣabhasya*)—the giver of rain
+- तस्य इत् (*tasya it*)—belonging to that same Indra
+- सप्त (*sapta*)—seven in number
+- इमे सिंधवः (*ime siṃdhavaḥ*)—these rivers
+- प्रवणे (*pravaṇe*)—in the lower regions
+- वयः (*vayaḥ*)—food
+- वर्धंति (*vardhaṃti*)—grow
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra be the remover of thirst and hunger, which are the causes of our evil-mindedness. That wealthy Indra is lord of wealth that makes dwelling possible. These seven rivers, belonging to that same rain-giving Indra, grow food in the low-lying regions.
+
+### Printed p. 29
+
+##### English translation
+May Indra be the remover of thirst and hunger, for he, Maghavat,
+is lord over precious riches: these seven rivers of the powerful showerer,
+(Indra) flowing down a declivity, augment food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वयो॒ न वृ॒क्षं सु॑पला॒शमास॑द॒न्नोमा॑स॒ इंद्रं॑ म॒ुंदिन॑श्चमू॒षदः॑ ।  
+> प्रैषा॒मनी॑कं॒ शव॑सा॒ दवि॑द्युतद्वि॒दत्स्व१॒॑ १ र्मन॑वे॒ ज्योति॒रार्यं॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयः । न । वृक्षं । सुपलाशं । आ । असदन् । सोमासः । इंद्रं । मुंदिनः । चमूसदः ।  
+> प्र । एषां । अनीकं । शवसा । दविद्युतत् । विदत् । स्वः । मनवे । ज्योतिः । आर्यं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयो न यथा दक्षिणः सुपलाशं शोभनपर्णं वृक्षमासीदंति तद्वन्मंदिनो
+> मदकराश्च मूषदश्च मसपात्रेषु स्थातारः सोमासः सोमा इंद्रमासदन् । आसीदंति । अधितिष्ठंतीत्यर्थः । एषामिंद्रमधितिष्ठतां सोमानां शवसा वेगेन युक्तमनीकमग्रं प्र दविद्युतत् । प्रद्योतते । किंचायमिंद्रः स्वः स्वात्मनार्यं
+> प्रेय्यं ज्योतिरादित्याख्यं तेजो मनवे मनुष्येभ्यो विदत् । प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: as birds settle on a tree with good leaves (सुपलाशं (*supalāśaṃ*)), so the Soma juices — exhilarating (मुंदिनः (*muṃdinaḥ*)) and abiding in the ladles (चमूषदः (*camūṣadaḥ*)) — settle upon Indra, that is, take their place upon him. The front part (अनीकं (*anīkaṃ*)) of these Somas that rest upon Indra, endowed with speed (शवसा (*śavasā*)), shines forth (प्र दविद्युतत् (*pra davidyutat*)). Further, may this Indra of himself (स्वः (*svaḥ*)) give to Manu, to men (मनवे (*manave*)), the light (ज्योतिः (*jyotiḥ*)) called Āditya, the radiance to be impelled (आर्यं (*āryaṃ*), explained as प्रेय्यं (*preyyaṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुपलाशं (*supalāśaṃ*)—having excellent leaves
+- वृक्षं (*vṛkṣaṃ*)—resorting to the tree
+- वयः न (*vayaḥ na*)—as birds sit
+- मुंदिनः (*muṃdinaḥ*)—causing delight
+- चमूषदः (*camūṣadaḥ*)—being in the ladle
+- सोमासः (*somāsaḥ*)—Soma juices
+- इंद्रं आ असदन् (*iṃdraṃ ā asadan*)—resort to Indra and join him
+- एषां (*eṣāṃ*)—of these Soma juices
+- शवसा (*śavasā*)—with speed
+- अनीकं (*anīkaṃ*)—the front part
+- प्र दविद्युतत् (*pra davidyutat*)—shines
+- स्वः (*svaḥ*)—by himself
+- आर्यं (*āryaṃ*)—impelled
+- ज्योतिः (*jyotiḥ*)—brilliance
+- मनवे (*manave*)—for human beings
+- विदत् (*vidat*)—let him give
+
+### Printed p. 30
+
+##### भावार्थ (Bhāvārtha)
+
+As birds settle on a tree with excellent leaves, so the Soma juices, which cause delight and abide in the ladle, resort to Indra and join him. The front part of these swift Soma juices shines forth. May Indra distribute to human beings the brilliance impelled by himself.
+
+##### English translation
+As birds perch upon the leafy tree, so the exhilarating Soma juices filling the ladles (repair) to (Indra), the summit of them shines through their speed, may Indra spontaneously bestow excellent light upon man.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒तं न श्व॒घ्नी वि चि॑नोति॒ देव॑ने सं॒वर्गं॒ यन्म॒घवा॒ सूर्यं॒  ॑
+> जयत् ।  
+> न तत्ते॑ अ॒न्नो अनु॑ वी॒र्यं॑ शक॒न्न पु॑रा॒णो म॑घव॒न्नोत  ॑
+> नूतनः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृतं । न । श्वघ्नी । वि । चिनोति । देवने । संवर्गं । यत् । मघवा । सूर्यं । जयत् ।  
+> न । तत् । ते । अन्यः । अनु । वीर्यं । शकत् । न । पुराणः । मघवन् । न । उत ।  
+> नूतनः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्वघ्नी परस्वानां हंता कितवो देवने द्यूते कृतं न यथा कृतं वि
+> चिनोति तद्वदिंद्रः सूर्यं मृगयते । कदेत्यत आह । यद्यदा मघवा धनवानिंद्रः संवर्गं समग्वृष्टीर्वर्जयितारं सूर्यमादित्यं जयत् तदीयरसापहरणद्वारेण जयति । अथ प्रत्यक्षस्तुतिः । हे मघवन्धनवन्निंद्र ते तव तत्सूर्यजयलक्षणं वीर्यं वीरत्वमन्यस्त्वत्तोऽन्नो भविष्यत्कालीनः पुमानन्तनुकर्तुं न
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: as the gambler (श्वघ्नी (*śvaghnī*), one who destroys the property of others) at the game (देवने (*devane*)) of dice picks out the winning throw (कृतं (*kṛtaṃ*)), so Indra seeks out the Sun. When? He says: when (यत् (*yat*)) the wealthy Indra wins (जयत् (*jayat*)) the Sun, the Āditya, the संवर्गं (*saṃvargaṃ*) **NOTE**, he conquers him by taking away his essence. Then follows a direct address: O wealthy Indra, that heroism of yours, the winning of the Sun, no other man (अन्यः (*anyaḥ*)) of the future can imitate …
+
 ---
 
-**Progress note:** Done through printed p. 24. pp. 19-24 (batch API)
+**Progress note:** Done through printed p. 30. pp. 25-30 (batch API)
