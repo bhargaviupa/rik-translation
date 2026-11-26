@@ -2427,6 +2427,117 @@ When explaining the purport of the sentence इदं विष्णुर्�
 
 In the manner stated before, the striding of Viṣṇu is also explained. Of the three strides of Viṣṇu, one is taken on earth in the form of terrestrial Agni, another in the atmosphere in the form of lightning, and the third in the heavenly world in the form of Sūrya. A Vedic sentence also supports this.
 
+### Printed p. 67
+
+The same matter that the Bṛhaddevatā passages quoted above have praised and explained, namely that Agni, who is of the nature of Prajāpati, shines forth in these forms (Agni, Vāyu and Āditya), is set out still more fully in the Śatapatha-brāhmaṇa.
+
+सोऽकामयत प्रजापतिः । भूय एव स्यात्पजायेतेति सोऽग्निना पृथिवीं मिथुनग्ं समभवत्तत आंडग्ं समवर्तत तदभ्यमृशत्पुष्यत्विति पुष्यतु भूयोऽस्त्वितेव तदब्रवीत् ॥ (*so 'kāmayata prajāpatiḥ | bhūya eva syātpajāyeteti so 'gninā pṛthivīṃ mithunagṃ samabhavattata āṃḍagṃ samavartata tadabhyamṛśatpuṣyatviti puṣyatu bhūyo 'stviteva tadabravīt ‖*)
+(Ga. Bā. 12-1)**NOTE** (Śa. Brā. 6-1-201)
+
+Prajāpati wished that this subtle principle, the root of the world, should grow. Only then did he unite with the earth in the form of Agni and come into contact with her; and an egg came into being. He wished again that it should grow.
+
+स यो गर्भोऽंतरासीत् । स वायुरसृज्यताथ यदश्रु संक्षरितमासीत्तानि वयाग् स्यभवन्नथ यः कपाले रसो लिप्त आसीत्ता मरीचयोऽभवन्नथ यत्कपालमासीत्तदंतरिक्षमभवत् । (*sa yo garbho 'ṃtarāsīt | sa vāyurasṛjyatātha yadaśru saṃkṣaritamāsīttāni vayāg syabhavannatha yaḥ kapāle raso lipta āsīttā marīcayo 'bhavannatha yatkapālamāsīttadaṃtarikṣamabhavat |*)
+
+Then that embryo, which lay within, came forth in the form of Vāyu. The tears that were produced at that time were transformed into birds. The juices that were smeared on the skull became the rays of the sun. The skull itself was transformed into the atmosphere.
+
+सोऽकामयत । भूयॆ एव स्यात्प्रजायेतेति स वायुनांतरिक्षं मिथुनग्ं समभवत्तत आंडग्ं समवर्तत तदभ्यमृतद्यशो विभृहीति ततोऽसावादित्यः । (*so 'kāmayata | bhūyè eva syātprajāyeteti sa vāyunāṃtarikṣaṃ mithunagṃ samabhavattata āṃḍagṃ samavartata tadabhyamṛtadyaśo vibhṛhīti tato 'sāvādityaḥ |*)
+
+Again he wished that this too should grow and increase as offspring. Then, in the form of Vāyu, he came into contact with the atmosphere, and again an egg appeared. Blessing it with "Be glorious", he touched it. From that, Āditya came into being.
+
+सोऽकामयत। भूय एव स्यात्प्रजायेतेति स आदित्येन दिवं मिथुनग्ं समभवत्तत आंडग्ं समुवर्तत . . , . ॥ (*so 'kāmayata| bhūya eva syātprajāyeteti sa ādityena divaṃ mithunagṃ samabhavattata āṃḍagṃ samuvartata . . , . ‖*)
+(reference printed garbled)**NOTE**
+
+He wished to grow still further. Then, in the form of Āditya, he came into contact with the heaven-world, and from that too an egg arose.
+
+Thus the account describes how he pervades the three worlds in the forms of Agni, Vāyu and Āditya. Explaining the very Ṛk in question, विद्या तेs अग्ने श्रेधा प्रयाणीति (*vidyā tes agne średhā prayāṇīti*),
+
+### Printed p. 68
+
+the text says अग्निर्वायुरादित्य एतानि हास्य तानि त्रेधा त्रयाणि (*agnirvāyurāditya etāni hāsya tāni tredhā trayāṇi*), stating the matters mentioned above (Śa. Brā. 6-7-4-4). Then, explaining the next Ṛk, "समुद्रे त्वा (*samudre tvā*)", it says:
+
+समुद्रे त्वा नृमणा अप्सुंतरिति प्रजापतिर्वै नृमणा अप्सु त्वा प्रजापतिरित्येतन्नृचक्षा ईधे दिवो अग्न ऊधन्निति प्रजापतिर्वै स्वच्छक्षा आपो दिव ऊधस्तृतीये त्वा रजसि तस्थिवाग्‌ंसमिति द्यौर्वृ तृतीयग्ं रजोऽपामुपस्थे महिषा अवर्धन्निति प्राणा वै महिषादिवि त्वा प्राणा अवर्धन्नित्येतत् । (*samudre tvā nṛmaṇā apsuṃtariti prajāpatirvai nṛmaṇā apsu tvā prajāpatirityetannṛcakṣā īdhe divo agna ūdhanniti prajāpatirvai svacchakṣā āpo diva ūdhastṛtīye tvā rajasi tasthivāgṃsamiti dyaurvṛ tṛtīyagṃ rajo 'pāmupasthe mahiṣā avardhanniti prāṇā vai mahiṣādivi tvā prāṇā avardhannityetat |*) (Śa. Brā. 6-7-4-5)
+
+O Agni, he who is beneficial to men made you blaze in the waters (in water). Prajāpati is the one who is thus beneficial to men. O Agni, he who can see all the doings of men fully made you blaze in the atmosphere also. Prajāpati is the one who has such divine sight. Then, by the direction of that same Prajāpati, the mahiṣas made you, who stand in the third, the heaven-world, grow. The vital breaths are thus called mahiṣas. That is, the purport stated is that the vital breaths made you thrive and shine in the heaven-world.
+
+That the Āditya who shines in the heaven-world is none other than Agni is well known from Vedic statements such as असौ वा आदित्य एषोऽग्निः स एष ज्योतिष्मान् (*asau vā āditya eṣo 'gniḥ sa eṣa jyotiṣmān*) (Śa. Brā. 6-4-1-11). If it is asked why this Agni is called Indra, the answer is:
+
+रसान् रश्मिभिरादाय वायुनायं गतः सह । वर्षत्येव च यल्लोके तेनेंद्र इति स स्मृतः ॥ (*rasān raśmibhirādāya vāyunāyaṃ gataḥ saha | varṣatyeva ca yalloke teneṃdra iti sa smṛtaḥ ‖*) (Bṛ. De. 1-8)
+
+This same Agni draws up the sap with his rays and, together with Vāyu, rains again upon the earth. Therefore he became famous as Indra, say the Bṛhaddevatā passages. Thus the varieties of Agni's forms described in other Śruti texts are explained in this way in the Ṛk-saṃhitā passages themselves. This Agni is the original principle, without beginning or end.
+
+अग्निरस्मि जन्मना जातवेदा धृतं मे चिक्षुरमृतं म आसन् । अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥ (*agnirasmi janmanā jātavedā dhṛtaṃ me cikṣuramṛtaṃ ma āsan | arkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*) (Ṛ. Saṃ. 3-5-4)
+
+त्रिभिः पवित्रैरपुसोद्ध्यंकं हृदा मतिं ज्योतिरनुप्रजानन् । वर्षिष्ठं रत्नमकृत स्वधाभिरादिद्द्यावापृथिवी पर्यपश्यत् ॥ (*tribhiḥ pavitrairapusoddhyaṃkaṃ hṛdā matiṃ jyotiranuprajānan | varṣiṣṭhaṃ ratnamakṛta svadhābhirādiddyāvāpṛthivī paryapaśyat ‖*) (Ṛ. Saṃ. 3-1-8)
+
+### Printed p. 69
+
+By the very fitness of my nature I am one who knows all the affairs of the universe (I am Jātavedas). My radiance is self-luminous and illuminates the world. As the life-breath that gives vitality to the whole world, I have spread my nature in three divisions. How? —
+1. रजसः विमानः (*rajasaḥ vimānaḥ*)—the form of Vāyu (or Indra), presiding over the atmosphere.
+2. अजस्रो घर्मः (*ajasro gharmaḥ*)—the form of Āditya (in the heaven-world), of imperishable, luminous nature.
+3. हविरस्मि नाम (*havirasmi nāma*)—the form of Agni, the recipient of oblations on the earth.
+
+The Bṛhadāraṇyaka too, praising this very matter thus explained, says:
+स त्रेधात्मानं व्यभजत आदित्यं तृतीयं वायुं तृतीयं (*sa tredhātmānaṃ vyabhajata ādityaṃ tṛtīyaṃ vāyuṃ tṛtīyaṃ*) (Bṛ. U. 1-2-3).
+Thus the same primal principle which the Upaniṣads and other texts describe as the one without a second, the universal principle, the Supreme Brahman, the Supreme Light, is praised in the Ṛk-saṃhitā in the passages quoted above (2-26-8).
+
+All-embracing Agni, through the function of his inner organ, knows the venerable, self-luminous radiance called Supreme Brahman (Sā. Bhā.)**NOTE**; he shines both combined with the world-purifying forms of Agni, Vāyu and Sūrya and distinct from them. He also extends himself in these same forms of Agni, Vāyu and Sūrya, and by this effort he surveys the whole world, so it is praised.
+
+This primal principle is the cause of the creation, maintenance and dissolution of the world. What these three forms are:
+
+अस्य वामस्य पलितस्य होतुस्तस्य भ्राता मध्यमो अस्त्यश्च । तृतीयो भ्राता घृतपृष्टो अस्यात्रापश्यं विश्वतिं सप्तपुत्रं ॥ (*asya vāmasya palitasya hotustasya bhrātā madhyamo astyaśca | tṛtīyo bhrātā ghṛtapṛṣṭo asyātrāpaśyaṃ viśvatiṃ saptaputraṃ ‖*) (Pu. Saṃ. 1-164-1)**NOTE**
+
+For Āditya, the protector of the world, Vāyu of the middle world and Agni who dwells on the earth are brothers. He is the soul of the universe, the lord of the universe; he made the universe shine in the form of the cosmic egg. He himself protects the world he has created, and again by the act of dissolution he absorbs it into himself. He is like the thread of the world. By differences of function and of place many names of him are well known: Tanūnapāt, Narāśaṃsa, Mātariśvā, Vaiśvānara and so on are all varieties of his form. Because he pervades the three worlds he is also called Trita; the meaning of this word is given as त्रिषु स्थानेषु वर्तमानः त्रितः (*triṣu sthāneṣu vartamānaḥ tritaḥ*). (The matter of the seer suggested by the word Trita was explained earlier in Part 8 of the Ṛgveda-saṃhitā.)
+
+Agni, in the form of Trita, has three bonds. All the deities are his varieties.
+
+### Printed p. 70
+
+असि यमो अस्यादित्यो अर्वन्नसि त्रितो गुह्येन व्रतेन । असि सोमेन समया विपृक्त आहुस्ते त्रीणि दिवि बंधनानि ॥ (*asi yamo asyādityo arvannasi trito guhyena vratena | asi somena samayā vipṛkta āhuste trīṇi divi baṃdhanāni ‖*) (Ṛ. Saṃ. 1-163-3)
+
+Agni (in the form of lightning), in the form of Varuṇa's horse, is of the nature of Vāyu. He is also of the form of Āditya. He has three kinds of bonds in the heaven-world. What the kinds of this bond are was explained earlier, in Part 11, pp. 242-43. There is also the statement that there are three kinds of bonds in each of the three worlds. As in the heaven-world there are three kinds of bonds, so on the earth there are three kinds of bonds, food, place and seed; and in the atmosphere three kinds, cloud, lightning and thunder, which cause the production of rain; so the bhāṣya says. Since he is thus the cause of the whole universe, Agni is the navel of all. This matter will be explained later in the special topics of Sūktas 10-51 and 52. It is proper here to know about the rites performed with designations of forms such as Agni Śuci, Agni Pavamāna and Agni Pāvaka, and the nature of their importance. The Agni who shines in these three forms in the three worlds was called above Agni Pavamāna, Agni Śuci and Agni Vanaspati. The Taittirīya-saṃhitā calls the same Agni Pavamāna, Agni Śuci and Agni Pāvaka. Only if oblations are offered in three ways, designating him by these three forms, is there complete satisfaction for Agni of complete form; the spiritual and divine importance of these rites is stated in the Taittirīya-saṃhitā and in the Śatapatha-brāhmaṇa.
+
+अग्नये पवमानाय पुरोडाशमष्टाकपालं निर्वपेदग्नये पावकायाग्नये शुचये ज्योगामयावी यदग्नये पवमानाय . . . ॥ (*agnaye pavamānāya puroḍāśamaṣṭākapālaṃ nirvapedagnaye pāvakāyāgnaye śucaye jyogāmayāvī yadagnaye pavamānāya . . . ‖*) (Tai. Saṃ. 2-2-4-2)
+
+In such passages the oblations to be offered to Agni of the three forms, and the importance of this sacrifice, are praised. The divisions Pavamāna, Pāvaka and Śuci may also be divisions of the terrestrial sacrificial fire. How? On the question what the real secret of these three forms of Agni, who is of the form of Prajāpati, is, the Taittirīya and Śatapatha-brāhmaṇa passages give one or two explanations.
+
+प्रजापतिर्वाचस्सत्यमपश्यत् । तेनाग्निमाधत्त । तेन वै स आर्ध्नोत् । भूर्भुवन्नुवरित्याह । एतद्वै वाचस्सत्यं । य एतेनाग्निमाधत्ते । युद्धोत्येव । अथो सत्यप्राशूरेव भवति । अथो य एवं विद्वानभिचरति । स्त्वणुत एनैनं । भूरित्याह । प्रजा ना एव तद्यजमानस्सृजते । भुव इत्याह । आस्मिन्नेव लोके प्रति तिष्ठति । सुवरित्याह । सुवर्ग एव लोके (*prajāpatirvācassatyamapaśyat | tenāgnimādhatta | tena vai sa ārdhnot | bhūrbhuvannuvarityāha | etadvai vācassatyaṃ | ya etenāgnimādhatte | yuddhotyeva | atho satyaprāśūreva bhavati | atho ya evaṃ vidvānabhicarati | stvaṇuta enainaṃ | bhūrityāha | prajā nā eva tadyajamānassṛjate | bhuva ityāha | āsminneva loke prati tiṣṭhati | suvarityāha | suvarga eva loke*)
+
+### Printed p. 71
+
+प्रतितिष्ठति । त्रिभिरक्षरैर्गाहपत्यमादधाति । त्रय इमे लोकाः । एष्टेवैनं लोकेषु प्रतिष्ठितमाधत्ते । (*pratitiṣṭhati | tribhirakṣarairgāhapatyamādadhāti | traya ime lokāḥ | eṣṭevainaṃ lokeṣu pratiṣṭhitamādhatte |*)
+(Śai. Brā. 1-1-5-1, 2)**NOTE**
+
+Prajāpati saw the truth that belongs to speech. Then, by that truth, the means of attaining the desired, he arranged the laying of the fire and created the auspicious principles Bhūḥ, Bhuvaḥ, Svaḥ. By this he became valiant in truth (or: by this truth he himself thrived). Those who obstruct and harm the spread of this truth will certainly be harmed themselves; they certainly have no welfare.
+
+The Gārhapatya and the other fires are principles that reflect these worlds, Bhūḥ and the others. All of them are truth in the form of speech. All were created by Prajāpati and are parts of Prajāpati.
+
+प्रजापतिः प्रजा अस्यजत । . . . सा विराडभवत् । तं देवसुरा व्यगृह्णत । सोऽब्रवीत्प्रजापतिः । मम वा एषा । (*prajāpatiḥ prajā asyajata | . . . sā virāḍabhavat | taṃ devasurā vyagṛhṇata | so 'bravītprajāpatiḥ | mama vā eṣā |*)
+(Kai. Brā. 1-1-10-1)**NOTE**
+
+Prajāpati created creatures. Then, when his virility had somewhat diminished, he performed austerity. Then that virility became the forms of Agni. Then gods and asuras all began to seize it in rivalry. Then Prajāpati said: "This Agni called Virāṭ and the original forms of Agni belong to me; the forms of Agni changed from this original form belong to you." Therefore the original forms of Agni became a part of Prajāpati. These are of three kinds. What their nature is, or the reason why they take three forms, is told in the form of a legend as follows.
+
+देवासुरास्संयुक्ता आसन् । ते देवा विजयमुपयंतः । अग्नौ वामं वसु संस्यदधत । इदमु नो भविष्यति । यदि नो जेष्यंतीति । तदग्निर्नोथ्यहमशक्कोत् । तत्रेधा विन्यदधात् । पशुषु तृतीयं । अपुनी तृतीयं । आदित्ये तृतीयं । (*devāsurāssaṃyuktā āsan | te devā vijayamupayaṃtaḥ | agnau vāmaṃ vasu saṃsyadadhata | idamu no bhaviṣyati | yadi no jeṣyaṃtīti | tadagnirnothyahamaśakkot | tatredhā vinyadadhāt | paśuṣu tṛtīyaṃ | apunī tṛtīyaṃ | āditye tṛtīyaṃ |*)
+(Kai. Brā. 1-1-6.1)**NOTE**
+
+Gods and asuras began to fight. Then the gods won. They deposited in Agni the wealth won from the asuras. Then Agni could not carry all of it. Then he divided it in three and placed it in three places: one part in cattle and the like, another part in the waters, and the remaining third part in Āditya.
+
+तद्देवा विजित्य । पुनरवारुरुथ्यंत । तेग्नये पवमानाय पुरोडाशमष्टाकपालं निरवपन् । पशवो वा अग्निः पवमानः । यदेव पशुष्वा (*taddevā vijitya | punaravāruruthyaṃta | tegnaye pavamānāya puroḍāśamaṣṭākapālaṃ niravapan | paśavo vā agniḥ pavamānaḥ | yadeva paśuṣvā*)
+
+### Printed p. 72
+
+तत्तेनानारुंधत । तेऽग्नये पावकाय । आपो ना अग्निः पावकः । यदेवाप्स्वासीत् । तत्तेनानारुंधत । तेऽग्नये शुचये । आसौ वा आदित्योऽग्निश्शुचिः । यदेवादित्य आसीत् । तत्तेनानारुंधत । (*tattenānāruṃdhata | te 'gnaye pāvakāya | āpo nā agniḥ pāvakaḥ | yadevāpsvāsīt | tattenānāruṃdhata | te 'gnaye śucaye | āsau vā ādityo 'gniśśuciḥ | yadevāditya āsīt | tattenānāruṃdhata |*)
+(Tai. Brā. 1-1-6-2, 3)
+
+The gods wished to regain the wealth thus divided. Then they offered an eight-potsherd purodāśa to Agni Pavamāna. The very cattle in which Agni had placed a third part of the wealth were of the nature of Agni Pavamāna. Therefore, offering the oblation to Agni Pavamāna, they obtained the wealth that was there. In the same way they offered to Agni Pāvaka also. Water removes defects and brings purity; this water is called Agni Pāvaka. Therefore they obtained the wealth placed in Agni Pāvaka. In the same way they offered to Agni Śuci also. Āditya is of the nature of Agni Śuci. Therefore they obtained the third part deposited in Āditya. For this reason the offering of oblations is of three kinds. This threefold offering corresponds to the three original forms of Agni. How?
+
+त्रीणि हवीग्ंषि निर्वपति । विराज एव विक्रांतं यजमानोऽनु विक्रमते । अग्नये पवमानाय । अग्नये शुचये । यदग्नये पवमानाय निर्वपति । पुनात्येवैनं । यदग्नये पावकाय । पूतविवास्मिन्नन्नाद्यं दधाति । यदग्नये शुचये । ब्रह्मवर्चसमेवास्मिन्नु परिष्पाद्दधाति । (*trīṇi havīgṃṣi nirvapati | virāja eva vikrāṃtaṃ yajamāno 'nu vikramate | agnaye pavamānāya | agnaye śucaye | yadagnaye pavamānāya nirvapati | punātyevainaṃ | yadagnaye pāvakāya | pūtavivāsminnannādyaṃ dadhāti | yadagnaye śucaye | brahmavarcasamevāsminnu pariṣpāddadhāti |*) (Tai. Brā. 1-1-5-10)
+
+If three kinds of oblations are offered to Agni of the form of Virāṭ, divided into the three forms Agni Pavamāna, Agni Pāvaka and Agni Śuci, the sacrificer attains all-pervading power. As the fruit of offering to Agni Pavamāna, purity comes to the sacrificer. As the fruit of offering to Agni Pāvaka, the purified sacrificer attains the capacity of eating food. As the fruit of offering to Agni Śuci, he attains brahmavarcas. These are the three kinds of prowess that come to the sacrificer: 1) purity, 2) food (the capacity of acquiring offspring, cattle and the like), and 3) brahmavarcas.
+
+In Tai. Brā. 1-1-10 Sāyaṇa has given the purport of Pavamāna as self-pure, of Pāvaka as one who purifies others, and of Śuci as shining.
+
+The order of offering oblations to Agni of these three forms, the requirement that this offering correspond to the nature of the respective original forms, and the fruit of each offering are stated in the Śatapatha-brāhmaṇa in this way. Here, a description of the prescribed order of offering the oblation is not relevant.
+
 ---
 
-**Progress note:** Done through printed p. 66. pp. 61-66 (batch API)
+**Progress note:** Done through printed p. 72. pp. 67-72 (batch API)
