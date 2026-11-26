@@ -19029,6 +19029,235 @@ Yāska has given this explanation for the word अनर्शरातिं (*
 
 अर्श (*arśa*) means indecent, sinful; अनर्श (*anarśa*) means what is not indecent, not sinful, excellent; रातिं (*rātiṃ*) means gift, giving. Therefore अनर्शरातिं (*anarśarātiṃ*) means a gift that is not indecent or not sinful or excellent. The purport is that the gift of wealth and the like which Indra gives to his devotees is not sinful and is excellent. In this matter this very Ṛk is the illustration of the passage.
 
+### Printed p. 495
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्र॒ प्रतू॑र्तिष्व॒भि विश्वा॑ असि॒ स्पृधः॑ ।  
+> अ॒श॒स्ति॒हा ज॑नि॒ता वि॑श्व॒तूर॑सि॒ त्वं तू॑र्य तरुष्य॒तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । इंद्र । प्रऽतूर्तिषु । अभि । विश्वाः । असि । स्पृधः ।  
+> अशस्तिऽहा । जनिता । विश्वऽतूः । असि । त्वम् । तूर्य । तरुष्यतः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं प्रतूर्तिषु संग्रामेषु विश्वाः सर्वाः स्पृधः युद्धकारिणीः शत्रुसेनाः अभि असि अभिभवसि । किंच हे तूर्य शत्रूणां बाधकेंद्र त्वम् अशस्तिहा दैव्यानामशस्तीनां हंता असि । जनिता असुरेभ्योऽशस्तीनां जनयिता चासि । विश्वतूः सर्वस्य शत्रुवर्गस्य हिंसिता चासि । तरुष्यतः बाधकांश्च बाधमानोऽसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, in the battles (प्रतूर्तिषु (*pratūrtiṣu*)) you overcome (अभि असि (*abhi asi*)) all (विश्वाः (*viśvāḥ*)) the fighting (स्पृधः (*spṛdhaḥ*)) armies of the enemy. Further, O Tūrya, afflicter of enemies, you are the slayer (हंता (*haṃtā*)) of the divine ill-wishings (दैव्यानामशस्तीनां (*daivyānāmaśastīnāṃ*)); you are also the producer (जनिता (*janitā*)) of ill-wishings for the Asuras; you are the destroyer (हिंसिता (*hiṃsitā*)) of the whole host of enemies (विश्वतूः (*viśvatūḥ*)); and you afflict those who afflict (तरुष्यतः (*taruṣyataḥ*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- प्रतूर्तिषु (*pratūrtiṣu*)—in battles
+- विश्वाः (*viśvāḥ*)—all
+- स्पृधः (*spṛdhaḥ*)—the opposing armies of the enemy
+- अभ्यसि (*abhyasi*)—you defeat
+- तूर्य (*tūrya*)—O Indra, destroyer of enemies
+- त्वं (*tvaṃ*)—you
+- अशस्तिहा (*aśastihā*)—as the slayer of the Asuras who wish evil
+- असि (*asi*)—you are
+- जनिता (*janitā*)—and the maker of misfortune for the Asuras
+- विश्वतूः (*viśvatūḥ*)—and the destroyer of the whole host of enemies
+- तरुष्यतेः (*taruṣyateḥ*)—you are the destroyer of those who injure your devotees
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you defeat all the opposing armies of the enemy in battles. O Indra, destroyer of enemies, you are the slayer of the Asuras who wish evil. You are the maker of misfortune for the Asuras, and the destroyer of the whole host of destroying enemies.
+
+##### English translation
+Indra, you conquer in battles all opposing hosts ; O opposer who beat down those who would oppose, you are the smiter of the wicked, the bringrr (of evil to your enemies), and the destroyer of all.
+
+### Printed p. 496
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अनु॑ ते॒ शुष्मं॑ तु॒रयं॑तमीयतुः क्षो॒णी शिशुं॒ न मा॒तरा॑ ।  
+> विश्वा॑स्ते॒ स्पृधः॑ श्नथयंत म॒न्यवे॑ वृ॒त्रं यदिं॑द्र॒ तूर्व॑सि ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनु । ते । शुष्मम् । तुरयंतम् । ईयतुः । क्षोणी इति । शिशुम् । न । मातरा ।  
+> विश्वाः । ते । स्पृधः । श्नथयंत । मन्यवे । वृत्रम् । यत् । इंद्र । तूर्वसि ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव शुष्मं बलं तुरयंतं हिंसंतं शत्रुं क्षोणी द्यावापृथिव्यौ मातरा मातरौ शिशुं न शिशुमिव अनु ईयतुः अनुगच्छतः । गमनमात्रे दृष्टांतः । किंच हे इंद्र त्वं यत् यस्मात् वृत्रं शत्रुं तूर्वसि हंसि अतः ते तव मन्यवे क्रोधाय विश्वाः सर्वाः स्पृधः संग्रामकारिण्यः सेनाः श्रथयंत श्रथिताः खिन्ना भवंति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, heaven and earth (क्षोणी (*kṣoṇī*)), the two mothers (मातरा (*mātarā*)), follow (अनु ईयतुः (*anu īyatuḥ*)) your might (शुष्मं (*śuṣmaṃ*)), which afflicts the enemy (तुरयंतं (*turayaṃtaṃ*)), as two mothers follow a child (शिशुं न (*śiśuṃ na*)). The illustration is for the mere going. Further, O Indra, since you slay (हंसि (*haṃsi*)) Vṛtra the enemy, therefore at your wrath (मन्यवे (*manyave*)) all (विश्वाः (*viśvāḥ*)) the fighting armies (स्पृधः (*spṛdhaḥ*)) are relaxed, that is, become dejected.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मातरा (*mātarā*)—(O Indra) the mothers
+- शिशुं न (*śiśuṃ na*)—as they follow the child itself
+- क्षोणी (*kṣoṇī*)—heaven and earth
+- ते (*te*)—your
+- तुरयंतं (*turayaṃtaṃ*)—enemy-destroying
+- शुष्मं (*śuṣmaṃ*)—might
+- अनु ईयतुः (*anu īyatuḥ*)—follow
+- इंद्र (*iṃdra*)—O Indra
+- यत् (*yat*)—by whose power
+- वृत्रं (*vṛtraṃ*)—Vṛtra, the Asura
+- तूर्वसि (*tūrvasi*)—you have slain (therefore)
+- ते (*te*)—your
+- मन्यवे (*manyave*)—at the wrath
+- विश्वाः स्पृधः (*viśvāḥ spṛdhaḥ*)—all the opposing armies
+- श्रथयंते (*śrathayaṃte*)—become terrified
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, as mothers follow their child, heaven and earth follow your enemy-destroying might. O Indra, by the very power by which you have slain Vṛtra, all the armies that oppose you become terrified at your wrath.
+
+##### English translation
+Heaven and earth follow your destructive energy as mothers their child; since you smite Vritra, all the hostile hosts, Indra, faint at your wrath.
+
+### Printed p. 497
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒त ऊ॒ती वो॑ अ॒जरं॑ प्रहे॒तार॒मप्र॑हितम् ।  
+> आ॒शुं जेता॑रं॒ हेता॑रं र॒थीत॑म॒मतू॑र्तं तुग्र्या॒वृध॑म् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इतः । ऊती । वः । अजरम् । प्रऽहेतारम् । अप्रऽहितम् ।  
+> आशुम् । जेतारम् । हेतारम् । रथिऽतमम् । अतूर्तम् । तुग्र्यऽवृधम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अस्मदीयजनाः वः यूयम् अजरं जरारहितं प्रहेतारं शत्रूणां प्रेरकम् अप्रहितं केनाप्यप्रेषितम् आशुं वेगवंतं जेतारं शत्रूणां हेतारं गंतारं रथीतमं रथिनां श्रेष्ठम् अतूर्तं केनाप्यहिंसितं तुग्र्यावृधम् उदकस्य वर्धयितारमिंद्रम् ऊती ऊत्यै रक्षणाय इतः कुरुत । पुरस्कुरुतेति यावत् ॥
+
+##### Gist of the bhāṣya
+
+O people of ours, bring Indra here (इतः (*itaḥ*)) for your protection (ऊती (*ūtī*)), that is, put him in front: Indra who is ageless (अजरं (*ajaraṃ*)), without old age; the impeller (प्रहेतारं (*prahetāraṃ*)) of enemies; not sent (अप्रहितं (*aprahitaṃ*)) by anyone; swift (आशुं (*āśuṃ*)), speedy; the conqueror (जेतारं (*jetāraṃ*)) of enemies; the goer (हेतारं (*hetāraṃ*)); the best (रथीतमं (*rathītamaṃ*)) of charioteers; unharmed (अतूर्तं (*atūrtaṃ*)) by anyone; the increaser (तुग्र्यावृधम् (*tugryāvṛdham*)) of water.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वः (*vaḥ*)—you, O praisers
+- अजरं (*ajaraṃ*)—him who is free from decay
+- प्रहेतारं (*prahetāraṃ*)—who drives the enemies away
+- अप्रहितं (*aprahitaṃ*)—who is not sent by any
+- आशुं (*āśuṃ*)—who is swift-going
+- जेतारं (*jetāraṃ*)—who conquers the enemies
+- हेतारं (*hetāraṃ*)—who falls upon the enemies
+- रथीतमं (*rathītamaṃ*)—who has an excellent chariot
+- अतूर्तं (*atūrtaṃ*)—who is harmed by none
+- तुग्र्यावृधं (*tugryāvṛdhaṃ*)—who increases water, Indra
+- ऊती (*ūtī*)—for protection
+- इतः (*itaḥ*)—bring towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, bring towards us for protection Indra, who is free from decay, who drives the enemies away, who falls upon the enemies, who has an excellent chariot, who is harmed by none, and who increases water.
+
+##### English translation
+(Worshippers), summon hither for proteotion him who never grows old, the repeller (of enemies), himself never repelled, the swift conquerer, the driver, the best of charioteers, unharmed of any. the augementer of water.
+
+### Printed p. 498
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒ष्क॒र्तार॒मनि॑ष्कृतं॒ सह॑स्कृतं श॒तमू॑तिं श॒तक्र॑तुम् ।  
+> स॒मा॒नमिंद्र॒मव॑से हवामहे॒ वस॑वानं वसू॒जुव॑म् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इष्कर्तारम् । अनिःऽकृतम् । सहःऽकृतम् । शतम्ऽऊतिम् । शतऽक्रतुम् ।  
+> समानम् । इंद्रम् । अवसे । हवामहे । वसवानम् । वसुऽजुवम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इष्कर्तारं शत्रूणां संस्कर्तारम् अनिष्कृतं स्वयमन्यैरसंस्कृतं सहस्कृतं बलेन कृतं शतमूतिं बहुरक्षणं शतक्रतुं बहुप्रज्ञं बहुकर्माणं वा समानं बहूनां साधारणं वसवानं धनान्याच्छादयंतं वसूजुवं यजमानेभ्यो वसूनां प्रेरयितारम् इंद्रमवसे रक्षणाय वयं हवामहे ह्वयामः ॥ ॥ ३ ॥
+
+##### Gist of the bhāṣya
+
+We call (हवामहे (*havāmahe*)) Indra for protection (अवसे (*avase*)): the preparer (इष्कर्तारं (*iṣkartāraṃ*)) of enemies; one not prepared (अनिष्कृतं (*aniṣkṛtaṃ*)) by others himself; made (सहस्कृतं (*sahaskṛtaṃ*)) by strength; of a hundred protections (शतमूतिं (*śatamūtiṃ*)), that is, of many protections; of a hundred insights or of many deeds (शतक्रतुं (*śatakratuṃ*)); common (समानं (*samānaṃ*)) to many; covering (वसवानं (*vasavānaṃ*)) with riches; and the impeller (वसूजुवं (*vasūjuvaṃ*)) of riches to the sacrificers. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इष्कर्तारं (*iṣkartāraṃ*)—who brings the enemies to an end
+- अनिष्कृतं (*aniṣkṛtaṃ*)—who does not fall under the injury of the enemies
+- सहस्कृतं (*sahaskṛtaṃ*)—who is full of strength
+- शतमूती (*śatamūtī*)—who has protection of many kinds
+- शतक्रतुं (*śatakratuṃ*)—who has many kinds of acts or of insight
+- समानं (*samānaṃ*)—who is common to all
+- वसवानं (*vasavānaṃ*)—who covers with a covering in the form of riches
+- वसूजुवं (*vasūjuvaṃ*)—and who gives riches
+- इंद्रं (*iṃdraṃ*)—Indra
+- अवसे (*avase*)—for protection
+- हवामहे (*havāmahe*)—we call
+
+##### भावार्थ (Bhāvārtha)
+
+We call for protection Indra, who brings the enemies to an end, who does not fall under the injury of the enemies, who is full of strength, who is endowed with protections of many kinds, who has many kinds of acts or of insight, who is common to all, who covers with a covering in the form of riches, and who gives riches.
+
+##### English translation
+We solicit for our protection Indra, the consecrator of others but himself consecrated by none, produced by strength, possessing a hundredfold protection, prossessing hundredfold knowledge, a common deity to many, hiding treasures in his store house and ending wealth (to his votaries)
+
+### Printed p. 499
+
+The hundredth sūkta.
+
+## Sūkta 100 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अयं ते ' इति द्वादशर्चं सप्तमं सूक्तं भृगुगोत्रस्य नेमस्यार्षम् । 'अयमस्मि जरितः' इति द्वृचेनेंद्रो नेमसमीपमेत्य स्वकीयं माहात्म्यमवोचत् अतस्तस्य द्वृचस्य स एवर्षिः यस्य वाक्यं स ऋषिः' (अनु. २. ४) इति न्यायात् । षष्ठी जगती । सप्तम्याद्यास्तिस्रोऽनुष्टुभः । शिष्टास्त्रिष्टुभः । इंद्रो देवता। 'यद्वाग्वदंती,  देवीं वाचम्' इत्येते वाग्देवत्ये शिष्टा ऐंद्र्यः । तथा चानुकांतम्-- अयं ते द्वादश नेमो भार्गवस्त्रैष्टुभं षष्ठी जगती परास्तिस्रोऽनुष्टुभोऽयमिति द्वृचेनेंद्र आत्मानमस्तौदुपांत्ये वाच्यौ ' इति । वाग्देवत्ये पशौ ‘यद्वाग्वदंती' इति वपाया अनुवाक्या । सूत्रितं च -- ‘ यद्वाग्वदंत्यविचेतनानि पतंगो वाचं मनसा बिभर्ति ' ( आश्व. श्रौ. ३. ८) इति । पूर्वोक्त एव पशौ देवीं वाचम्' इति हविषो याज्या । सूत्रितं च  -- देवीं वाचमजनयंत देवा जनीयंतो न्वग्रव इति तिस्रः' ( आश्व. श्रौ. ३. ८) इति । प्रयाणसमये वयसाममनोज्ञा वाचः श्रुत्वैतां जपेत् । सूत्रितं च -- कनिक्रदज्जनुषं प्रबुवाण इति सूक्ते जपेद्देवीं वाचमजनयंत देवा इति च (आश्व. गृ. ३. १०. ९) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta अयं ते (*ayaṃ te*) of twelve Ṛks is the seventh sūkta, of the seer Nema of the Bhṛgu lineage. By the two Ṛks beginning अयमस्मि जरितः (*ayamasmi jaritaḥ*) Indra, having come to Nema, told his own greatness; therefore Indra himself is the seer of those two Ṛks, by the rule that he whose speech it is is the seer (Anu. 2. 4). The sixth Ṛk is Jagatī; the three beginning with the seventh are Anuṣṭubh; the rest are Triṣṭubh. The deity is Indra; but the two Ṛks beginning यद्वाग्वदंती (*yadvāgvadaṃtī*) and देवीं वाचम् (*devīṃ vācam*) are addressed to Vāc, and the remaining ones are addressed to Indra. So the Anukramaṇī says that the twelve Ṛks beginning अयं ते (*ayaṃ te*) are of Nema Bhārgava, in the Triṣṭubh metre, the sixth Jagatī, the three after it Anuṣṭubh, and that in the two Ṛks beginning अयमस्मि जरितः (*ayamasmi jaritaḥ*) Indra praised himself, the last but one and the last being addressed to Vāc. In the animal sacrifice to Vāc the Ṛk यद्वाग्वदंती (*yadvāgvadaṃtī*) is the anuvākyā for the vapā offering; and the sūtra says यद्वाग्वदंत्यविचेतनानि पतंगो वाचं मनसा बिभर्ति (*yadvāgvadaṃtyavicetanāni pataṃgo vācaṃ manasā bibharti*) (Ā. Śrau. 3. 8). In the same animal sacrifice the Ṛk देवीं वाचम् (*devīṃ vācam*) is the yājyā for the oblation; and the sūtra says देवीं वाचमजनयंत देवा जनीयंतो न्वग्रव इति तिस्रः (*devīṃ vācamajanayaṃta devā janīyaṃto nvagrava iti tisraḥ*) (Ā. Śrau. 3. 8). At the time of setting out, on hearing the unpleasant cries of birds (वयसाममनोज्ञा वाचः (*vayasāmamanojñā vācaḥ*)), one is to mutter this Ṛk; and the sūtra says कनिक्रदज्जनुषं प्रबुवाण इति सूक्ते जपेद्देवीं वाचमजनयंत देवा इति च (*kanikradajjanuṣaṃ prabuvāṇa iti sūkte japeddevīṃ vācamajanayaṃta devā iti ca*) (Ā. Gṛ. 3. 10. 9). **NOTE**
+
+Anuvāda: This sūkta आयं ते (*āyaṃ te*) is the seventh sūkta in the tenth Anuvāka. It has twelve Ṛks. The seer of this sūkta is Nema, born in the lineage of Bhṛgu. In the two Ṛks आयमुस्मि जरितः (*āyamusmi jaritaḥ*) (Ṛks 4 and 5), the matter is that Indra went to the seer Nema and told him his own greatness; therefore Indra himself is the deity of those two Ṛks. By the rule यस्य वाक्यं स ऋषिः (*yasya vākyaṃ sa ṛṣiḥ*) (Anu. 2-4) there is the rule that the seer of a Ṛk is the one who has spoken the matter contained in it. The sixth Ṛk of this sūkta has the Jagatī metre. The three Ṛks after the seventh (7-9) have the Anuṣṭubh metre; the remaining Ṛks have the Triṣṭubh metre. The deity is Indra; but the tenth Ṛk यद्वाग्वदंती (*yadvāgvadaṃtī*) and the eleventh Ṛk देवीं वाचं (*devīṃ vācaṃ*) have Vāc as deity; the remaining Ṛks have Indra as deity. In the Anukramaṇī it is said अयं ते द्वादश नेमो भार्गवस्त्रैष्टुभं षष्ठी जगती परास्तिस्रोऽनुष्टुभोऽयमिति द्वृचेनेंद्र आत्मानमस्तौदुपांत्ये वाच्यौ (*ayaṃ te dvādaśa nemo bhārgavastraiṣṭubhaṃ ṣaṣṭhī jagatī parāstisro 'nuṣṭubho 'yamiti dvṛceneṃdra ātmānamastaudupāṃtye vācyau*). That the tenth Ṛk यद्वाग्वदंती (*yadvāgvadaṃtī*) is to be recited as the anuvākyā mantra at the vapā offering in the animal sacrifice that is addressed to Vāc, is explained by the sūtra of the Āśvalāyana Śrauta Sūtra यद्वाग्वदंत्यविचेतनानि पतंगो वाचं मनसा बिभर्ति (*yadvāgvadaṃtyavicetanāni pataṃgo vācaṃ manasā bibharti*) (Ā. 3-8). That in the same animal sacrifice, at the offering of the oblation, the eleventh Ṛk देवीं वाचं (*devīṃ vācaṃ*) is to be recited as the yājyā mantra is explained
+
+### Printed p. 500
+
+by the sūtra of the Āśvalāyana Śrauta Sūtra देवीं वाचमजनयंत देवा जनीयंतो न्वग्रवि तिस्रः (*devīṃ vācamajanayaṃta devā janīyaṃto nvagravi tisraḥ*) (Ā. 3-8). That at the time of setting out, if aged elders speak unfavourable words, the eleventh Ṛk देवीं वाचं (*devīṃ vācaṃ*) is then to be recited, is explained by the sūtra of the Āśvalāyana Gṛhya Sūtra कनिक्रदज्जनुषं प्रब्रुवाण इति सूक्ते जपेद्देवीं वाचमजनयंत देवा इति च (*kanikradajjanuṣaṃ prabruvāṇa iti sūkte japeddevīṃ vācamajanayaṃta devā iti ca*) (Ā. Gṛ. 3-8). **NOTE** **NOTE**
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 10; Sūkta 100. Aṣṭaka 6; Adhyāya 7; Varga 4, 5. Number of Ṛks in the sūkta: 12.
+
+Seer: 1-3, 6-12 Nemo Bhārgavaḥ; 4-5 Indraḥ.
+
+Deity: 1-9, 12 Indraḥ; 10, 11 Vāk.
+
+Metre: 1-5 and 10-12, Triṣṭup; 6, Jagatī; 7-9, Anuṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं त॑ एमि त॒न्वा॑ पु॒रस्ता॒द्विश्वे॑ दे॒वा अ॒भि मा॑ यंति प॒श्चात् ।  
+> य॒दा मह्यं॒ दीध॑रो भा॒गमिं॒द्रादिन्मया॑ कृणवो वी॒र्या॑णि ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । ते । एमि । तन्वा । पुरस्तात् । विश्वे । देवाः । अभि । मा । यंति । पश्चात् ।  
+> यदा । मह्यम् । दीधरः । भागम् । इंद्र । आत् । इत् । मया । कृणवः । वीर्याणि ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव पुरस्तात् अग्रतः तन्वा पुत्रेण सह अयम् अहम् एमि। शत्रूनभिभवितुं गच्छामि । तवाग्रतो गच्छंतं मां विश्वे देवाः त्वया सह पश्चात् अभि यंति अभिगच्छंति । यदा त्वं मह्यं भार्गवाय नेमाय भागं शत्रुषु स्थितं भागं दीधरः धारयसि आदित् अनंतरमेव मया सह मच्छत्रूंजेतुं वीर्याणि पौरुषाणि कृणवः कुरु । यदि शत्रुषु स्थितं धनं मह्यं दित्ससि तर्हि शत्रुजयार्थं गच्छतः सपुत्रस्य मम साहाय्यं कुर्विति भावः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, I, with my son (तन्वा (*tanvā*)), go (एमि (*emi*)) before (पुरस्तात् (*purastāt*)) you, to overcome the enemies. While I go before you, all the gods (विश्वे देवाः (*viśve devāḥ*)) together with you follow behind (पश्चात् (*paścāt*)). When you hold (दीधरः (*dīdharaḥ*)) for me, Nema the Bhārgava, the share (भागं (*bhāgaṃ*)) that lies in the enemies, then immediately do (कृणवः (*kṛṇavaḥ*)) deeds of valour (वीर्याणि (*vīryāṇi*)) with me to conquer my enemies. The meaning is: if you wish to give me the wealth that lies in the enemies, then help me, who go with my son to conquer the enemies.
+
 ---
 
-**Progress note:** Done through printed p. 494. 8.99.1-4 with Special Topics
+**Progress note:** Done through printed p. 500. 8.99.5-8, 8.100 introduction and Rk 1
