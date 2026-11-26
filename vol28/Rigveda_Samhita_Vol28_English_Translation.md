@@ -7369,6 +7369,147 @@ For this Brahman in the form of speech the tongue is the abode, space is the pla
 
 Janaka asked what the nature of that prajñā is. Yājñavalkya gave this answer: Speech itself is this knowledge, this is the kinsman, this is the Ṛgveda, Yajurveda, Sāmaveda, Atharvaveda, the Itihāsa, Purāṇa and the rest, their commentaries and sub-commentaries, the sacrificial oblations, the principle of this world, the principle of the other world, and so on; everything is known only with the help of this speech. By speech alone Brahman too is known. Speech is the Supreme Brahman. Speech does not abandon those who, with this knowledge of the principle, worship Brahman in the form of speech. He too attains godhood. In this way Sāyaṇa has explained the point stated in the sentence ब्रह्मयं वाचः परमं व्योम (*brahmayaṃ vācaḥ paramaṃ vyoma*); that is, he has stated the identity of speech and the Supreme Brahman. This same thing is stated in the Śatapatha Brāhmaṇa also,
 
+### Printed p. 242
+The Śatapatha Brāhmaṇa too makes this known through sentences such as वाचस्पतिर्वाचं नः स्वदतु स्वाहेति प्रजापतिर्वै वाचस्पतिः । (*vācaspatirvācaṃ naḥ svadatu svāheti prajāpatirvai vācaspatiḥ |*) (Śa. Brā. 5-1-1-16). And in the account of the order of creation, the statement that the Supreme Brahman manifested itself in the form of speech likewise shows the relation of support and supported between speech and Brahman.
+
+प्रजापतिः प्रजा असृजत । ताः सृष्टाः समश्लिष्यन् । ता रूपेणानुप्राविशत् । तस्मादाहुः । रूपं वै प्रजापतिरिति । ता नाम्नानुप्राविशत् । तस्मादाहुः । नाम वै प्रजापतिरिति ॥ (*prajāpatiḥ prajā asṛjata | tāḥ sṛṣṭāḥ samaśliṣyan | tā rūpeṇānuprāviśat | tasmādāhuḥ | rūpaṃ vai prajāpatiriti | tā nāmnānuprāviśat | tasmādāhuḥ | nāma vai prajāpatiriti ‖*) (Tai. Brā. 2-2-7-1)
+
+After Prajāpati created the creatures, they all merged together without showing mutual individuality. Then, to show their distinguishing characteristics, he created both name (nāma) and form (rūpa). It is explained that form served the mental division, and name the division consisting of speech. In the Śatapatha Brāhmaṇa also:
+
+मर्त्या ह वा देवा असुः । स यदैव ते ब्रह्मणापुरथामृता आसुः स यं मनस आघारयति मनो वै रूपं मनसा हि वेदेदग्ं रूपमिति तेन रूपमाप्नोत्यथ यं वाच आघारयति वाग्वै नाम वाचा हि नाम गृह्णाति तेन नामाप्नोत्येतावद्वा इदग्ं सर्वं यावद्रूपं चैव नाम च तत्सर्वमाप्नोति ॥ (*martyā ha vā devā asuḥ | sa yadaiva te brahmaṇāpurathāmṛtā āsuḥ sa yaṃ manasa āghārayati mano vai rūpaṃ manasā hi vededagṃ rūpamiti tena rūpamāpnotyatha yaṃ vāca āghārayati vāgvai nāma vācā hi nāma gṛhṇāti tena nāmāpnotyetāvadvā idagṃ sarvaṃ yāvadrūpaṃ caiva nāma ca tatsarvamāpnoti ‖*) (Śa. Brā. 11-2-3-6)
+
+So it says. In the beginning the gods were mortal, that is, they too were subject to death. They realised Brahman directly and obtained immortality (freedom from death). That Brahman has two forms, name and form. Form is the principle perceptible only to the mind. Therefore through the mental "pouring" (āghāra) one comes to know the Brahman that consists of speech. By knowing this Brahman principle, which is both of the nature of mind and of the nature of speech, a human being too attains Brahman-hood, that is, immortality. Thus the relation between speech and Brahman is made known.
+
+In this way, the inquiry at the time of a sacrifice into any principle concerning the Supreme Brahman is called brahmodya. In the Taittirīya Brāhmaṇa also there are questions and answers to be discussed for the brahmodya.
+
+Question—किग्ग्स्विदासीत्पूर्वचित्तिरित्याह (*kiggsvidāsītpūrvacittirityāha*)
+Answer—द्यान्वै वृष्टिः पूर्वचित्तिः (*dyānvai vṛṣṭiḥ pūrvacittiḥ*)
+
+### Printed p. 243
+Question—किग्स् स्विदासीद्बृहद्वय इत्याह (*kigs svidāsīdbṛhadvaya ityāha*)
+Answer—अश्वो वै बृहद्वयः (*aśvo vai bṛhadvayaḥ*)
+Question—किग्स् स्विदासीत्पिशिंगिलेत्याह (*kigs svidāsītpiśiṃgiletyāha*)
+Answer—रात्रिर्वै पिशिंगिला (*rātrirvai piśiṃgilā*)
+Q.—किग्स् स्विदासीत्पिलिप्पिलेत्याह (*kigs svidāsītpilippiletyāha*)
+A.—श्रीर्वै पिलिप्पिला (*śrīrvai pilippilā*)
+Q.—कः स्विदेकाकी चरतीत्याह (*kaḥ svidekākī caratītyāha*)
+A.—असौ वा आदित्य एकाकी चरति (*asau vā āditya ekākī carati*)
+Q.—क उ स्विज्जायके पुनरित्याह (*ka u svijjāyake punarityāha*)
+A.—चंद्रमा वै जायते पुनः (*caṃdramā vai jāyate punaḥ*)
+Q.—क्विग्स् विद्धिमस्य भेषजमित्याह (*kvigs viddhimasya bheṣajamityāha*)
+A.—अग्निर्वै हिमस्य भेषजं (*agnirvai himasya bheṣajaṃ*)
+Q.—किग्स् विदावपनं महदित्याह (*kigs vidāvapanaṃ mahadityāha*)
+A.—अयं वै लोक आवपनं महत् (*ayaṃ vai loka āvapanaṃ mahat*)
+Q.—पृच्छामि त्वा परमंतं पृथिव्या इत्याह (*pṛcchāmi tvā paramaṃtaṃ pṛthivyā ityāha*)
+A.—वेदिर्वै परोऽन्तः पृथिव्याः (*vedirvai paro 'ntaḥ pṛthivyāḥ*)
+Q.—पृच्छामि त्वा भुवनस्य नाभिमित्याह (*pṛcchāmi tvā bhuvanasya nābhimityāha*)
+A.—यज्ञो वै भुवनस्य नाभिः (*yajño vai bhuvanasya nābhiḥ*)
+Q.—पृच्छामि त्वा वृष्णो अश्वस्य रेत इत्याह (*pṛcchāmi tvā vṛṣṇo aśvasya reta ityāha*)
+A.—सोमो वै वृष्णो अश्वस्य रेतः (*somo vai vṛṣṇo aśvasya retaḥ*)
+Q.—पृच्छामि वाचः परमं व्योमेत्याह (*pṛcchāmi vācaḥ paramaṃ vyometyāha*)
+A.—ब्रह्मैव वाचः परमं व्योम (*brahmaiva vācaḥ paramaṃ vyoma*)
+(Tai. Brā. 3-9-5-2 to 6)
+
+In a brahmodya any discussion concerning Brahman may take place. Twelve questions and their answers are stated above. The last four questions and their answers we have so far explained at length. In the same way the answers to the other questions can also be examined, and many such matters are worthy of examination. It is not possible to examine all of them here, and it is not relevant. And in the same place:
+
+तेजसा वा एष ब्रह्मवर्चसेन व्युर्धते । योऽश्वमेधेन यजते । होता च ब्रह्मा च ब्रहोद्यं वदतः ॥ (*tejasā vā eṣa brahmavarcasena vyurdhate | yo 'śvamedhena yajate | hotā ca brahmā ca brahodyaṃ vadataḥ ‖*) (Tai. Brā. 3-9-5-1)
+
+### Printed p. 244
+It is said, that is, in this discussion on the brahmodya the ṛtvij called Hotṛ and the ṛtvij called Brahmā take part. For, among the ṛtvijs only these two are the more learned, and to show that ordinary people cannot conduct such a discussion of the highest class, and to make known that they are held in greater honour and esteem than the other ṛtvijs, only the names Hotṛ and Brahmā are mentioned here as होता च ब्रह्मा च (*hotā ca brahmā ca*). If the other ṛtvijs, the sacrificer and others, are capable of discussing such matters, there is no restriction against their taking part in it too.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ये ते॑ विप्र ब्रह्म॒स्पतः॑ सु॒ते सचा॒ वसू॑नां च॒ वसु॑नश्च दा॒वने॑।  
+> प्र ते सु॒म्मस्य॒ मन॑सा प॒था भु॑व॒न्मदे॑ सु॒तस्य॑ सो॒म्यस्यान्द॑सः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ये । ते । विप्र । ब्रह्मकृतः । सुते । सचा । वसूनां । च । वसुनः । च । दावने ॥  
+> प्र। ते । सुम्नस्य । मनसा । पथा । भुवन् । मदे । सुतस्य । सोम्यस्य । अंधसः ॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विप्र मेधाविन्निंद्र ते तुभ्यं ये ब्रह्मकृतः स्तोत्रकृतो हविष्कर्तारो ना स्तोतारः सचा संघीभूताः सुते सोमेऽभिषुते वसूनां बहूनां
+> धनानां वसुनश्चैकस्य निवासयोग्यस्य धनस्य च दावने दानाय परिचरंतीति शेषः ।
+> अत्र वसूनामिति बहुवचनेनैहिकभोगसाधनानि धनान्यभिप्रेतानि । एकवचनांतेन च
+> निवासयोग्यं स्वर्गाख्यं धनमभिप्रेतमित्यवगंतव्यं । तेऽनुष्ठातारः सुम्मस्य
+> सुखस्य लाभाय मनसा पथा मनोमार्गेण । स्तोत्रवर्त्मनेत्यर्थः । प्र भुवन् ।
+> प्रभवंतु । उक्तवसुदानाय योग्या भवंतित्यर्थः । कदेति उच्यते । सुतस्याभिषुतस्य सोम्यस्य सोमसंबंधिनोऽंधसोऽन्नस्य मदे सति ॥
+
+##### Gist of the bhāṣya
+
+O wise (vipra) Indra, those who make brahma for you, that is, the hymn-makers or offerers of oblations, the praisers, assembled together when the Soma is pressed, attend upon you for the giving (dāvane) of many riches (वसूनां (*vasūnāṃ*)) and of one riches (वसुनः (*vasunaḥ*)) fit for dwelling; the verb "attend" is to be supplied. Here the plural वसूनां (*vasūnāṃ*) means the riches that are means of enjoyment in this world, and the singular means the wealth fit for dwelling called heaven. Those performers, for the gaining of felicity (सुम्मस्य (*summasya*) = happiness), by the pathway of the mind (मनसा पथा (*manasā pathā*)), that is, the path of praise, प्र भुवन् (*pra bhuvan*): may they prevail, that is, become fit for the said gift of riches. When? When there is exhilaration (मदे (*made*)) from the effused (सुतस्य (*sutasya*)) Soma food (अंधसः (*aṃdhasaḥ*)) belonging to Soma.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्र (*vipra*)—O wise Indra
+- ते (*te*)—for you
+- ये ब्रह्मकृतः (*ye brahmakṛtaḥ*)—whatever persons, ṛtvijs, sacrificers and others, are praising or offering oblations
+- सचा (*sacā*)—
+
+### Printed p. 245
+- all of them together
+- सुते (*sute*)—after the Soma juice is pressed
+- वसूनां (*vasūnāṃ*)—of the plentiful worldly things, and
+- वसुनश्च (*vasunaśca*)—of the wealth called heaven, needed by only one person
+- दावने (*dāvane*)—for the gaining, they attend upon you
+- ते (*te*)—those performers of the sacrifice
+- सुम्मस्य (*summasya*)—for obtaining happiness
+- मनसा पथा (*manasā pathā*)—by the path of praise, meditated in the mind itself
+- सुतस्य (*sutasya*)—pressed
+- सोम्यस्य (*somyasya*)—relating to the Soma juice
+- अंधसः (*aṃdhasaḥ*)—by the food
+- मदे (*made*)—when Indra is delighted
+- प्र भुवन् (*pra bhuvan*)—they become able to obtain the riches and the rest mentioned above
+
+##### भावार्थ (Bhāvārtha)
+
+O wise Indra, the persons, ṛtvijs, sacrificers and others, who praise you or perform the sacrifice, all assembled together, after the Soma juice is pressed, attend upon you for the gaining of worldly riches and of the happiness called heaven. When Indra is delighted by the pressed Soma juice, those praisers, praising in the mind itself, become able to obtain from Indra the riches and the happiness they desire.
+
+##### English translation
+Sage Indra, the reciters of pious hymns to you who assembled together when (the Soma) is effused, (worship you) for the donation of riches and treasures : may they be competent (to acquire) your felicity by the path- way of the mind ; when you are exhilarated with the effused Soma food.
+
+## Sūkta 51 (Maṇḍala 10)
+**Introduction**
+For this sūkta and the next two sūktas (the 51st, 52nd and 53rd), the seer is the Agni called Saucīka. In sūkta 51 there is a conversation: for a certain reason Agni left his work of carrying the oblation to the gods, fled and hid in the water; the gods saw him and prayed that he should come back out of the water and take up again the task of carrying the oblation to them. Although we have explained matters concerning Agni at length in various places, here we shall write a general account suited to the occasion and afterwards explain the matter of Agni Saucīka.
+
+Among the deities described in the Ṛksaṃhitā, Agni is the foremost. Apart from the praises of Indra, the sūktas that praise and describe Agni are the most numerous in the whole Ṛksaṃhitā. Except for the 8th and 9th maṇḍalas, all the other maṇḍalas begin with a sūkta addressed to Agni.
+
+### Printed p. 246
+Therefore some things that must necessarily be known about the deity Agni are explained here.
+
+**The works of Agni**
+Because he is directly connected with the sacrificial works, the most excellent of all human activities, Agni holds a most principal and venerable place. The chief quality of Agni is his immortality (1-44-6; 1-58-1; 2-10-1, 2; 3-2-1; 3-3-1; 3-11-2; 3-27-5; 3-27-2; 6-9-4; 7-4-4; 8-60-11; 10-79-1). Though by nature free from death, Agni, for the benefit of all humans and for the favour of mortal humans, abides on earth with them as their guest (1-44-4; 1-58-6; 2-4-1; 3-2-2; 4-1-20; 5-1-8; 5-8-2; 5-18-1; 6-2-7; 6-15-1; 6-15-4; 8-8-4; 8-73-1; 10-1-5; 10-91-2; 10-92-1).
+
+Agni, immortal and gracious to humans, becomes the everlasting ṛtvij in the sacrificer's house. He is described by epithets such as purohita, ṛtvij, hotṛ, brahmā. In some passages he is praised as awakening together with the goddess Uṣas, in others as appearing even before Uṣas. 1-1-1; 1-12-1; 1-13-1, 4; 1-26-7; 1-36-3, 5; 1-44-7; 1-44-12; 1-45-3-7; 1-58-1, 6; 1-60-4; 1-68-4, 7; 1-76-2, 4; 1-127-1; 1-141-12; 1-149-4, 5; 2-5-1; 2-6-6; 2-9-1; 3-7-9; 3-10-2, 7; 3-11-1; 3-14-1; 3-19-1; 4-1-8; 5-11-2; 5-26-7; 6-15-1, 4, 16; 6-16-1; 7-7-5; 7-10-5; 7-11-1; 7-16-5, 12; 8-44-6; 8-49-1; 9-66-20; 10-1-6; 10-92-2.
+
+Prayed to and regulated by gods and humans alike, he absorbs all sacrificial works into himself. Being himself the true performer, he is able alone to carry out all the sacrificial works that are assigned to the different ṛtvijs, the sacrificers, adhvaryu, hotṛ, potṛ and others. (1-94-6; 2-1-2; 2-5-2; 4-9-3, 4; 10-2-1) Because he has this power of accomplishment, he is prayed to thus by the sacrificers: "O Agni, you are the best of hotṛs. You are ever young. Joining the other ṛtvijs, who are of divine nature, and performing the works suited to the seasons, worship and satisfy the gods who desire sacrifice." Some more sentences describing the great qualities of Agni are explained and cited below.
+
+"Agni is a wise poet, the divine one among all poets. (असुरो विपश्चितां (*asuro vipaścitāṃ*))" (the reference is printed as इ-इ-४ (*i-i-4*))**NOTE**
+
+### Printed p. 247
+"Such a Agni, the wise one, knows all kinds of acts of worship. He is the best leader, who brings success easily, the protector of all works. He helps devotees in works that are not easy for them and brings the work to completion with all its parts."
+
+"O Agni, the sacrifice that you encompass and cause to be accomplished certainly goes and reaches the gods."
+
+"O Agni, you are the first (the chief) of the Aṅgirasa seers, a friend who does good to all the gods." (1-31-1)
+
+"O Agni, you alone are the principal means of carrying out all sacrificial work." (reference printed as इ-इ-इ (*i-i-i*))**NOTE**
+
+"O most excellent seer, you are kindled. Protect the sacrifice." (3-21-3)
+
+"Agni, the means of the sacrifice, of the nature of a seer, increasing the sacrifice, is in front as its eye." (3-27-2, 7)
+
+"Among those who are not wise, he alone is the wise poet, possessed of the highest knowledge." (7-4-4)
+
+"O gods, whatever faults of omission we may commit in the ordained performance of rites, Agni, who knows the rules of the seasons and understands how the gods are to be satisfied, corrects and sets right all our faults." (10-2-4)
+
+"Many matters useful for carrying out the sacrifice never come within the understanding of us dull-witted people. Yet Agni, being omniscient and a venerable ṛtvij, knows all these secrets, worships the gods at the proper time, offers to each the oblations and the like that are suitable to him, and satisfies all." (10-2-5)
+
+"As the eyes of the human sacrificers turn towards the sun, so they turn towards Agni." (10-91-3 **NOTE**)
+
 ---
 
-**Progress note:** Done through printed p. 241. pp. 236-241 (batch API; answer re-sent directly)
+**Progress note:** Done through printed p. 247. pp. 242-247 (batch API)
