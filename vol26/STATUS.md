@@ -32,6 +32,7 @@ Hand repairs: one remark removed in w0100 (`review/repair_log.md`). By agents wi
 4. (user) w0206 (Sūkta 62 Ṛk 7): the NOTE on the Pratipadārtha word for `ಅಸದಃ` is worded wrongly (the agent's own report): the word cut off at the line end is the Kannada meaning `ಬಂದುಕುಳಿತುಕೊ`, not the lemma.
 5. (user) The heading `## Sūkta 22 (Maṇḍala 9)` (p. 430, w0430) stands for Sūkta 72: the head line prints `ಸೂಕ್ತ-೨೨`, the announcement and the particulars line say 72; written by the rule "the head-line number decides", with a NOTE. At Sūkta 77 (p. 484, head line `ಸೂಕ್ತ-22`) the agent of batch 27 wrote `## Sūkta 77` with a NOTE, so the two cases differ. Say whether Sūkta 72's heading should read 72 too (a logged repair).
 6. (dispatcher, finishing job) Sūkta 78, p. 496: two `#### Ṛk 5` headings. The supplied text's (Wikisource) bhāṣya of Ṛk 4 ends with the first line of Ṛk 5; the script gave that stray line a Saṃhitā label and a Ṛk heading, so Ṛk 4's Pratipadārtha, Bhāvārtha and English stand under the first `Ṛk 5`. To repair in both volume files together (the audit compares their Saṃhitā label counts).
+7. (dispatcher, finishing job) w0594 (Sūkta 86, p. 594–600, Pratipadārtha): one lemma stands glued to its Kannada meaning inside the Sanskrit (`ಅರ್ಭರ್ಷಸಿಒದಗಿಸುತ್ತೀಯೆ`, with a NOTE); the agent says it did this for more than one lemma in batch 33 (pp. 588–606). To be split by a logged repair; agents add the missing dash with `batch.py fix` from batch 34 on.
 
 ## Publication (print PDF)
 Not built.
