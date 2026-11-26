@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Enlarged crops around the doubtful numbers of a scan-made volume, for a focused re-reading (shared tool; Vol 25 first). No API, no cost.
 
-  python3 tools/rv/scan_crops.py VOL [--kinds number,head] [--per 10] [--pdf PATH] [--base N] [--tail PAGEFILE:PDF]   (Vol 26 part 2: --pdf vol26/scans/Rig_Vol26_part2.pdf --base 1000)
+  python3 tools/rv/scan_crops.py VOL [--kinds number,head] [--per 10] [--pdf PATH] [--base N] [--tail PAGEFILE:PDF] [--ids FILE] [--tag NAME]   (Vol 26 part 2: --pdf vol26/scans/Rig_Vol26_part2.pdf --base 1000)
 For each open question of volN/review/questions.tsv of those kinds (and not yet answered): the page is rendered, Tesseract (kan+eng, TSV with word boxes, cached in
 volN/work/ocr/pNNNN.tsv) gives the printed lines with their boxes; the line that holds the mark is found by matching the letters before and after the mark
 (digits ignored) against each printed line. The crop is that line's neighbourhood (a head: the whole head line), enlarged to about 1560 px wide. `per` crops are stacked
@@ -39,6 +39,8 @@ def main():
     global TAIL; TAIL = (int(a[a.index('--tail') + 1].split(':')[0]), os.path.join(ROOT, a[a.index('--tail') + 1].split(':')[1])) if '--tail' in a else None
     global BASE; BASE = int(a[a.index('--base') + 1]) if '--base' in a else 0
     Q = [q for q in csv.DictReader(open(os.path.join(ROOT, f'vol{vol}', 'review', 'questions.tsv'), encoding='utf8'), delimiter='\t') if q['kind'] in kinds and not q['answer']]
+    if '--ids' in a:
+        want = set(open(os.path.join(ROOT, a[a.index('--ids') + 1]), encoding='utf8').read().split()); Q = [q for q in Q if q['id'] in want]
     os.makedirs(os.path.join(ROOT, f'vol{vol}', 'work', 'ocr'), exist_ok=True); cd = os.path.join(ROOT, f'vol{vol}', 'work', 'crops')
     try: font = ImageFont.load_default(size=26)
     except TypeError: font = ImageFont.load_default()

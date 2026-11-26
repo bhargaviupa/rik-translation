@@ -9,13 +9,13 @@ Digits are compared as Latin digits, dashes unified, spaces removed. Rule (two i
   2. else the first reader agrees with A or B       → the first reader's token (the mark is simply cleared)
   3. else the OCR agrees with A or B                → that value
   4. else open: volN/review/votes_open.tsv (all readings side by side)
-`--write` writes volN/review/reread/ans_votes.tsv (rows `certain`, with the `expect` column that scan_reread.py apply requires) and the open list."""
+`--words`: the word passes (WA_*.tsv, WB_*.tsv; no OCR vote). `--write` writes volN/review/reread/ans_votes.tsv (rows `certain`, with the `expect` column that scan_reread.py apply requires) and the open list."""
 import os, re, sys, csv, glob
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 KD = str.maketrans('೦೧೨೩೪೫೬೭೮೯', '0123456789')
-def norm(s): return re.sub(r'[\s]', '', s.translate(KD).replace('–', '-').replace('—', '-').replace('−', '-'))
+def norm(s): return re.sub(r'[\s]|\[\?\]|\u200c|\u200d', '', s.translate(KD).replace('–', '-').replace('—', '-').replace('−', '-'))
 def main():
-    a = sys.argv[1:]; vol = a[0]; write = '--write' in a; R = lambda *p: os.path.join(ROOT, f'vol{vol}', *p)
+    a = sys.argv[1:]; vol = a[0]; write = '--write' in a; words = '--words' in a; R = lambda *p: os.path.join(ROOT, f'vol{vol}', *p)
     Q = {q['id']: q for q in csv.DictReader(open(R('review', 'questions.tsv'), encoding='utf8'), delimiter='\t')}
     def load(pat):
         D = {}
@@ -23,8 +23,8 @@ def main():
             for r in csv.reader(open(f, encoding='utf8'), delimiter='\t'):
                 if r and r[0].startswith('Q') and len(r) >= 3: D[r[0]] = (r[1].strip(), r[2].strip().lower(), r[3] if len(r) > 3 else '')
         return D
-    A, B = load('A_*.tsv'), load('B_*.tsv'); O = {}
-    if os.path.exists(R('review', 'ocr_numbers.tsv')):
+    A, B = (load('WA_*.tsv'), load('WB_*.tsv')) if words else (load('A_*.tsv'), load('B_*.tsv')); O = {}
+    if not words and os.path.exists(R('review', 'ocr_numbers.tsv')):
         for r in csv.DictReader(open(R('review', 'ocr_numbers.tsv'), encoding='utf8'), delimiter='\t'):
             if float(r['line_match']) >= 0.6: O[r['id']] = [t for t in r['ocr_numbers_on_line'].split() if t]
     done = []; opn = []; why = {1: 0, 2: 0, 3: 0}
@@ -43,9 +43,9 @@ def main():
         else: opn.append((i, q, first, va, vb, ocr))
     print(f'{len(done)} settled (rule 1 A=B: {why[1]}, rule 2 first reader backed: {why[2]}, rule 3 OCR backed: {why[3]}); {len(opn)} open')
     if write:
-        with open(R('review', 'reread', 'ans_votes.tsv'), 'w', encoding='utf8') as o:
+        with open(R('review', 'reread', 'ans_votes_words.tsv' if words else 'ans_votes.tsv'), 'w', encoding='utf8') as o:
             for i, val, rule, first, q in done: o.write(f'{i}\t{val}\tcertain\tvote rule {rule}\t{q["reading"]}\n')
-        with open(R('review', 'votes_open.tsv'), 'w', encoding='utf8') as o:
+        with open(R('review', 'votes_open_words.tsv' if words else 'votes_open.tsv'), 'w', encoding='utf8') as o:
             o.write('id\tpdf_page\tkind\tfirst_reader\tpass_A\tpass_B\tocr_numbers\tcontext\n')
             for i, q, first, va, vb, ocr in opn:
                 o.write('\t'.join([i, q['pdf_page'], q['kind'], first, f'{va[0]} ({va[1]})' if va else '', f'{vb[0]} ({vb[1]})' if vb else '', ' '.join(ocr), q['context'][:90]]) + '\n')
