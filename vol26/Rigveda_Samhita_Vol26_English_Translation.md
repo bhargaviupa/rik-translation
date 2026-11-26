@@ -16039,6 +16039,220 @@ Soma, who joins with the praises like a bull approaching a herd of cows, makes a
 ##### English translation
 Like a bull approaching the herds (Soma) roars (as he approaches the praises) : he appropriates the lustre of the sun ; celestial, flying gracefully he looks down upon the earth ; by his wisdom Soma contemplates mankind.
 
+### Printed p. 430
+
+## Sūkta 22 (Maṇḍala 9)
+
+**NOTE**
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ हरिं मृजंति ' इति नवर्चं पंचमं सूक्तमांगिरसस्य हरिमंतस्यार्षं, पवमानसोमदेवताकम् । ‘ जागतमूर्ध्वं प्रागुशनसः' ( अनु. ९.६७ ) इति परिभाषया जागतम् । तथा चानुक्रांतं- हरिं मृजंति हरिमंतः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning हरिं मृजंति (*hariṃ mṛjaṃti*), of nine ṛks, is the fifth sūkta; it is the vision of Harimanta, of the line of Aṅgiras, and its deity is Pavamāna Soma. By the rule जागतमूर्ध्वं प्रागुशनसः (*jāgatamūrdhvaṃ prāguśanasaḥ*) (Anu. 9.67) its metre is Jagatī. So the Anukramaṇī says: हरिं मृजंति हरिमंतः (*hariṃ mṛjaṃti harimaṃtaḥ*). The ritual use has already been stated.
+
+Translation.—This sūkta beginning हरिं मृजंति (*hariṃ mṛjaṃti*) is the fifth sūkta in the fourth anuvāka. It contains nine ṛks. The seer of this sūkta is Harimanta, a son of Aṅgiras; the deity is Pavamāna Soma; the metre is Jagatī. In the Anukramaṇikā it is said: हरिं मृजंति हरिमंतः (*hariṃ mṛjaṃti harimaṃtaḥ*). The ritual use has already been stated earlier.
+
+Maṇḍala 9; Anuvāka 4; Sūkta 72; Aṣṭaka 7; Adhyāya 2; Varga 2, 88. Number of ṛks in the sūkta: 9. Ṛṣi: Harimanta. Devatā: Pavamāna Soma. Chandas: Jagatī. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हरिं॑ मृजंत्यरु॒षो न यु॑ज्यते॒ सं धे॒नुभिः॑ क॒लशे॒ सोमो॑ अज्यते ।  
+> उद्वाच॑मी॒रय॑ति हि॒न्वते॑ म॒ती पु॑रुष्टु॒तस्य॒ कति॑ चित्परि॒प्रियः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हरिम् । मृजंति । अरुषः । न । युज्यते । सम् । धेनुऽभिः । कलशे । सोमः । अज्यते ।  
+> उत् । वाचम् । ईरयति । हिन्वते । मती । पुरुऽस्तुतस्य । कति । चित् । परिऽप्रियः ॥ १ ॥
+
+### Printed p. 431
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिं हरितवर्णं सोममृत्विजो मृजंति मार्जयंति । ‘मृजेरजादौ संक्रमे विभाषा वृद्धिरिष्यते' (पा. म. १.१.३.१०, का. १.१.५ ) इति तत्र वृद्धेरभावः । सोऽयम् अरुषः । अर्तेरुषच्प्रत्ययः ॥ गमनशीलोऽश्व इव युज्यते इंद्रादिभिः संयुज्यते । किंच कलश द्रोणाभिधाने स्थितः सोमः धेनुभिः गोविकारैः दध्यादिभिः सम् अज्यते समक्तः सिक्तो भवति । अपि च सोमो यदा वाचं शब्दम् उत् ईरयति उद्गमयति । शब्दं करोतीत्यर्थः । तदा स्तोतारश्च मती । ‘ सुपां सुलुक्' इति द्वितीयायाः पूर्वसवर्णदीर्घः । स्तुतिं हिन्वते प्रेरयंति । ‘हि गतौ वृद्धौ च' इति स्वादिः आत्मनेपदी । ततः स्तोत्राभिष्टुतः सः पुरुष्टुतस्य बहुस्तोत्रयुक्तस्य स्तोतुः परिप्रियः । ‘ प्रीङ् तर्पणे'। क्विप् । शसि इयङादेशः । कृदुत्तरपदप्रकृतिस्वरत्वम् । परितः प्रीणयितॄणि कति चित् क्रियंति धनानि प्रयच्छति ॥
+
+##### Gist of the bhāṣya
+
+The priests cleanse (मृजंति (*mṛjaṃti*)) the green-hued Soma. He, अरुषः (*aruṣaḥ*), is like a swift horse: he is yoked, that is, joined with Indra and the others. Further, Soma, who is in the vessel called Droṇa, is anointed, that is, sprinkled, with the cow-products, curds and the like. Moreover, when Soma sends forth his voice, that is, makes a sound, then the praisers too send forth their praises (मती (*matī*) is "praise"). Thereupon Soma, praised with the hymns, being the gladdener on all sides of the praiser who has many praises, gives wealth: how much he gives is the sense of कति चित् (*kati cit*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिं (*hariṃ*)—the green-hued Soma
+- मृजंति (*mṛjaṃti*)—the priests purify
+- अरुषः न (*aruṣaḥ na*)—as a swift horse is yoked to a chariot
+- सं युज्यते (*saṃ yujyate*)—he is joined with Indra and the others
+- कलशे (*kalaśe*)—in the Droṇa-kalaśa
+- सोमः (*somaḥ*)—Soma
+- धेनुभिः (*dhenubhiḥ*)—with the cow-products, milk and the like
+- समज्यते (*samajyate*)—he is mixed
+- वाचं (*vācaṃ*)—a sound
+- उदीरयति (*udīrayati*)—he produces
+- मती (*matī*)—the praisers (also) the praises
+- हिन्वते (*hinvate*)—who recite
+- पुरुष्टुतस्य (*puruṣṭutasya*)—to the sacrificer who praises abundantly
+- परिप्रियः (*paripriyaḥ*)—the one who is dear in every way
+- कति चित् (*kati cit*)—how much wealth can Soma give?
+
+##### भावार्थ (Bhāvārtha)
+
+The priests purify the green-hued Soma. As a swift horse is yoked to a chariot, he is joined with Indra and the others. Soma, who is in the Droṇa-kalaśa, is mixed with the cow-products, milk and the like. As soon as he produces a sound, how much wealth that is dear in every way can he give to the sacrificer who praises abundantly.
+
+##### English translation
+They cleanse the green-tinted (Soma): he is harnessed like a swift horse; the Soma is combined in the pitcher with the products of the cows. He utters a sound, (the worshippers) send forth praise ; how many (boons) abundantly delighting the utterer of many praises (does Soma bestow).
+
+### Printed p. 432
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सा॒कं व॑दंति ब॒हवो॑ मनी॒षिण॒ इंद्र॑स्य॒ सोमं॑ ज॒ठरे॒ यदा॑दु॒हुः ।  
+> यदी॑ मृ॒जंति॒ सुग॑भस्तयो॒ नरः॒ सनी॑ळाभिर्द॒शभिः॒ काम्यं॒ मधु॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> साकम् । वदंति । बहवः । मनीषिणः । इंद्रस्य । सोमम् । जठरे । यत् । आऽदुहुः ।  
+> यदि । मृजंति । सुऽगभस्तयः । नरः । सऽनीळाभिः । दशऽभिः । काम्यम् । मधु ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मनीषिणः मनस ईशितारः प्राज्ञाः बहवः स्तोतारः साकं सहैव युगपत् मंत्रान् वदंति । तदा स्तुवंति । यदा इंद्रस्य जठरे द्रोणकलशे सौमम् आहः ऋत्विजो दुदुहुः तदा भिष्ट्रवंतीति । दुहेर्लिटयुसि रूपम् । द्विवचनस्य छंदसि विकल्पितत्वादत्र द्विवंचनाभावः । किंच यदि थदा सुगभस्तयः शोभनबाहुकाः नरः कर्मचैतारो मनुष्याः कार्य काम्यमानं मधु मकर सीमें सनीळाभिः दशभिः दशसंख्याकाभिरंगुलीभिः मृजंति सोममभिषुण्वंति तदा वदंतीत्यन्वयः ॥
+
+##### Gist of the bhāṣya
+
+The wise (मनीषिणः (*manīṣiṇaḥ*), "masters of the mind"), the many praisers, utter the mantras together, at one time; they praise then, when the priests have milked Soma into Indra's belly, which is the Droṇa-kalaśa; then they praise. Further, when the men, the performers of the rite, the fair-armed, cleanse with the ten fingers of one family, that is, press, the Soma, the desired sweet drink, then they speak: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जठरे (*jaṭhare*)—in the Droṇa-kalaśa, which is his belly
+- सोमं (*somaṃ*)—the Soma
+- आददुः (*ādaduḥ*)—the priests pour **NOTE**
+- यदि (*yadi*)—when
+- सुगभस्तयः (*sugabhastayaḥ*)—having excellent arms
+- नरः (*naraḥ*)—men
+- काम्यं (*kāmyaṃ*)—the attractive
+- मधु (*madhu*)—and exhilarating Soma
+- दशभिः सनीळाभिः (*daśabhiḥ sanīḷābhiḥ*)—with the ten fingers
+- मृजंति (*mṛjaṃti*)—they purify, then
+- मनीषिणः (*manīṣiṇaḥ*)—the wise
+- बहवः (*bahavaḥ*)—many praisers
+- साकं (*sākaṃ*)—together
+- वदंति (*vadaṃti*)—they recite praise **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+When the priests pour the Soma into Indra's belly, the Droṇa-kalaśa, and when the men with excellent arms purify the attractive, exhilarating Soma with the ten fingers, then the wise, many praisers
+
+### Printed p. 433
+
+recite praise together.
+
+##### English translation
+Many wise men utter praise together, when they have milked the Soma into Indra's belly, when fair-armed men cleanse the delightful exhilarating juice with their ten united (fingers).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अर॑ममाणो॒ अत्ये॑ति॒ गा अ॒भि सूर्य॑स्य प्रि॒यं दु॑हि॒तुस्ति॒रो रव॑म् ।  
+> अन्व॑स्मै॒ जोष॑मभरद्विनंगृ॒सः सं द्व॒यीभिः॒ स्वसृ॑भिः क्षेति जा॒मिभिः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अरममाणः । अति । एति । गाः । अभि । सूर्यस्य । प्रियम् । दुहितुः । तिरः । रवम् ।  
+> अनु । अस्मै । जोषम् । अभरत् । विनम्ऽगृसः । सम् । द्वयीभिः । स्वसृऽभिः । क्षेति । जामिऽभिः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः सोम अरममाणः अनुपरतः सन् । पुनः पुनर्देवानां प्रीणनाय ग्रहादीनि प्रविशन्नित्यर्थः । गाः गोविकारानाश्रयणानभिलक्ष्य अत्येति अतिक्रम्य गच्छति । ततः शब्दायमानः सोमः सूर्यस्य आदित्यस्य दुहितुः उषस: प्रियं रवं शब्दं तिरः तिरस्करोति । तस्मिन्काले सोमाभिषवध्वनिर्महान्   भवतीत्यर्थः । विनंगृसः । विनं कमनीयं स्तोत्रं गृह्णातीति विनंगृसः स्तोता । जोषम् । जुषेर्घञि रूपम् । पर्याप्तं स्तोत्रं तस्मै सोमाय अनु अभरत् अनुभरति । करोतीति यावत् । सोऽयं सोमः द्वयीभिः द्वाभ्यां पाणिभ्यामुत्पन्नाभिः जामिभिः परस्परं बंधुभिः स्वसृभिः कर्मकरणार्थमितस्ततो गच्छंतीभिरंगुलीभिः सं क्षेति संगच्छते । ‘क्षि निवासगत्योः । छांदसी  विकरणस्य लुक् ।
+
+##### Gist of the bhāṣya
+
+That Soma, unresting, entering again and again the cups and vessels to please the gods, passes beyond the cow-products, which are his supports, and goes on. Then, sounding, Soma overpowers the dear sound of the daughter of Sūrya, Āditya, that is, of Uṣas; at that time the noise of the pressing of Soma becomes great. विनंगृसः (*vinaṃgṛsaḥ*) is the praiser who takes up the lovely praise. जोषम् (*joṣam*) is sufficient praise: that praise he, the praiser, brings to that Soma. This Soma is united with the two, born of the two hands, the kindred sisters, namely the fingers, which go hither and thither for the performance of the rite.
+
+### Printed p. 434
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—the god Soma
+- अरममाणि (*aramamāṇi*)—without rest **NOTE**
+- गाः अभि (*gāḥ abhi*)—to join with the milk and the like
+- अत्येति (*atyeti*)—he goes beyond
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- दुहितुः (*duhituḥ*)—to the daughter, Uṣas
+- प्रियं (*priyaṃ*)—the dear
+- रवं (*ravaṃ*)—sound
+- तिरः (*tiraḥ*)—he produces
+- विनंगृसः (*vinaṃgṛsaḥ*)—the praiser who offers the attractive praise
+- अस्मै (*asmai*)—addressing Soma
+- जोषं (*joṣaṃ*)—the satisfying praise
+- अन्वभरत् (*anvabharat*)—he offers
+- जामिभिः (*jāmibhiḥ*)—the kindred
+- द्वयाभिः (*dvayābhiḥ*)—with the two hands **NOTE**
+- सं क्षेति (*saṃ kṣeti*)—he is united
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, without rest, goes beyond to join with the milk and the like. He produces a sound dear to Uṣas, the daughter of Sūrya. The praiser who offers the attractive praise offers a satisfying praise to Soma. He is united with the two kindred hands.
+
+##### English translation
+Unceasing the Soma goes to mix with the products of the cow, he utters a cry to the daughter of the sun. The praiser brings delight to him; he is united to the two kindred sisters (the hands).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृधू॑तो॒ अद्रि॑षुतो ब॒र्हिषि॑ प्रि॒यः पति॒र्गवां॑ प्र॒दिव॒ इंदु॑रृ॒त्वियः॑ ।  
+> पुरं॑धिवा॒न्मनु॑षो यज्ञ॒साध॑नः॒ शुचि॑र्धि॒या प॑वते॒ सोम॑ इंद्र ते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृऽधूतः । अद्रिऽसुतः । बर्हिषि । प्रियः । पतिः । गवाम् । प्रऽदिवः । इंदुः । ऋत्वियः ।  
+> पुरंधिऽवान् । मनुषः । यज्ञऽसाधनः । शुचिः । धिया । पवते । सोमः । इंद्र । ते ॥ ४ ॥
+
+### Printed p. 435
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र पवमानगुणविशिष्टेंद्र ते त्वदर्थं बर्हिषि यज्ञेयं सोमः धिया स्वेन कर्मणा धारया वा पवते पात्रेषु स्यंदते । कीदृशः। नृधूतः कर्मनेतृभिर्मनुष्यैः शोधितः  अद्रिषुतः ग्रावभिरभिषुतः प्रियः देवानां प्रीणयिता गवां पतिः स्वामी । इंद्रो गा अलभत तस्माद्गवां स्वामी ॥ प्रदिवः । पुराणनामैतत् । पुराणः इंदुः पात्रेषु क्षरन् ऋत्वियः ऋतौ जातः । 'ऋतोरण्' छंदसि घस्' (पा, सू, ५, १, १०५- १ ० ६ ) इति घस् । सित्त्वेन पदसंज्ञायां भसंज्ञानिमित्त ओर्गुणो न भवति । पुरंधिवान् । ‘ पुरंधिर्बहुधीः ' (निरु, ६, १३) इति यास्कः । बहुकर्मवान् मनुषः मनुष्यस्य यज्ञ साधनः  शुचिः। दीप्यमानः । यद्वा । दशापवित्रेण शुद्धः । एवंगुणः सोमः इंद्रार्थं पवत इति संबंधः  ॥
+
+##### Gist of the bhāṣya
+
+O Indra, who art possessed of the qualities of Pavamāna, this Soma flows for you on the sacred grass, at the sacrifice, into the vessels, with धिया (*dhiyā*), that is, by his own work, or else by his stream. How is he? Shaken by men, that is, purified by the men who lead the rite; pressed by stones, that is, pressed with the pressing stones; dear, the gladdener of the gods; the lord of cows, since Indra obtained cows and so is their lord. प्रदिवः (*pradivaḥ*) is a name for "ancient": the ancient Indu, streaming in the vessels; ऋत्वियः (*ṛtviyaḥ*) is born in the proper season. पुरंधिवान् (*puraṃdhivān*): Yāska says पुरंधिर्बहुधीः (*puraṃdhirbahudhīḥ*) (Ni. 6, 13), so it means one who has many works. He is the means of the sacrifice for man; शुचिः (*śuciḥ*) is shining; or else purified by the ten-fold filter. Such a Soma flows for Indra: this is the connection.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- नृधूतः (*nṛdhūtaḥ*)—purified by men
+- अद्रिषुतः (*adriṣutaḥ*)—pressed by the pressing stones
+- प्रियः (*priyaḥ*)—the gladdener of the gods
+- गवां पतिः (*gavāṃ patiḥ*)—the lord of cows
+- प्रदिवः (*pradivaḥ*)—ancient
+- इंदुः (*iṃduḥ*)—flowing
+- ऋत्वियः (*ṛtviyaḥ*)—born in the proper time
+- पुरंधिवान् (*puraṃdhivān*)—having many works
+- मनुषः (*manuṣaḥ*)—for man
+- यज्ञसाधनः (*yajñasādhanaḥ*)—the means of the sacrifice
+- शुचिः (*śuciḥ*)—shining
+- सोमः (*somaḥ*)—the god Soma
+- ते (*te*)—for you
+- बर्हिषि (*barhiṣi*)—in the sacrifice
+- धिया (*dhiyā*)—by his own work
+- पवते (*pavate*)—he flows
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, the god Soma, who is purified by men, pressed by the pressing stones, the gladdener of the gods, the lord of cows, ancient, of flowing nature, born in the proper time, having many works, the means of the sacrifice for man, and shining, flows for you in the sacrifice by his own work.
+
+##### English translation
+Shaken by the men, expressed by the stones. the delighter (of the gods), the lord of cattle, ancient, distilling (In the vessels), born in due season, (the Soma is placed) on the sacred grass; intelligent, the material of the sacrifice of man, pure, the Soma flows for you, Indra, of his own accord.
+
 ---
 
-**Progress note:** Done through printed p. 429. Sūkta 71 Ṛks 6-9 (end of varga 26), pp. 424-429
+**Progress note:** Done through printed p. 435. Sūkta 72 Ṛks 1-4, pp. 430-435
