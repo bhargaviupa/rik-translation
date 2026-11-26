@@ -9682,6 +9682,225 @@ she proceeded in the same way and bore two sons, Aṃśa and Bhaga. When she coo
 
 The first half-verse is already explained. O bounteous gods, you are इंद्रज्येष्ठाः (*iṃdrajyeṣṭhāḥ*), that is, those whose eldest and chief is Indra; the meaning is that all the gods have Indra as leader. Being such, and अभिद्यवः (*abhidyavaḥ*), those of approaching radiance, you indeed are present at our sacrifice; the word हि (*hi*) is used in the sense of "well known". Then, immediately after, I praise you; and the meaning of उत (*uta*) is "and moreover": I praise you again and again.
 
+### Printed p. 242
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हे सुदानवः (*he sudānavaḥ*)—O gods, bestowers of excellent gifts
+- इंद्र ज्येष्ठाः (*iṃdra jyeṣṭhāḥ*)—those who have Indra himself as leader; that is, Indra is your chief
+- अभिद्यवः (*abhidyavaḥ*)—O radiant gods
+- यूयं (*yūyaṃ*)—you
+- स्थ हि (*stha hi*)—are you not present in our place of sacrifice
+- अध चित् (*adha cit*)—immediately after, that is, after you have come to our place of sacrifice
+- वः (*vaḥ*)—you
+- ब्रुवे (*bruve*)—I praise
+- उत (*uta*)—again and again I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, excellent givers, Indra is your chief; that is, you are under Indra's leadership. O radiant gods, are you not present in our place of sacrifice? After you have come to our sacrifice, I shall praise you again and again.
+
+##### English translation
+Bounteous (deities) with Indra as your chief, be present here in your radiance ; again and again I praise you.
+
+## Sūkta 84 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘प्रेष्ठं वः' इति नवर्चं चतुर्थं सूक्तं कवेः पुत्रस्योशनस आर्षं गायत्रमाग्नेयम् । तथानुक्रम्यते’ प्रेष्ठमुशना काव्य आग्नेयम्' इति । प्रातरनुवाक आग्नेये क्रतौ गायत्रे छंदस्याश्विनशस्त्रे चेदं सूक्तम् । सूत्रितं च--- युवा हि प्रेष्ठं वः' ( आश्व. श्रौ. ४. १३ ) इति । आभिप्लविकेषूक्थ्येषु मैत्रावरुणे ‘ प्रेष्ठं वः' इति तृचो वैकल्पिकः स्तोत्रियः । सूत्रितं च--’ प्रेष्ठं वो अतिथिं श्रेष्ठं यविष्ठ भारत' (आश्व. श्रौ. ७. ८) इति ॥
+
+##### Gist of the bhāṣya
+
+The fourth sūkta, of nine Ṛks, beginning प्रेष्ठं वः (*preṣṭhaṃ vaḥ*), is revealed to Uśanas, son of Kavi; its metre is Gāyatrī and its deity Agni. So the Anukramaṇikā says: प्रेष्ठमुशना काव्य आग्नेयम् (*preṣṭhamuśanā kāvya āgneyam*). This sūkta is used in the Prātaranuvāka, in the Āgneya kratu, in the Gāyatra metre, and in the Āśvina śastra. It is also laid down in the sūtra युवा हि प्रेष्ठं वः (*yuvā hi preṣṭhaṃ vaḥ*) (Āśv. Śrau. 4. 13). In the Ukthya rites of the Abhiplava days, in the Maitrāvaruṇa's part, the tṛca beginning प्रेष्ठं वः (*preṣṭhaṃ vaḥ*) is an optional stotriya; this too is laid down in the sūtra प्रेष्ठं वो अतिथिं श्रेष्ठं यविष्ठ भारत (*preṣṭhaṃ vo atithiṃ śreṣṭhaṃ yaviṣṭha bhārata*) (Āśv. Śrau. 7. 8).
+
+The Anuvāda: this sūkta beginning प्रेष्ठं वः (*preṣṭhaṃ vaḥ*) is the fourth sūkta in the ninth Anuvāka. It has nine Ṛks. The seer of this sūkta is the one called Uśanā, son of Kavi;
+
+### Printed p. 243
+
+Agni is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said: प्रेष्ठमुशना काव्य अग्नेयं (*preṣṭhamuśanā kāvya agneyaṃ*). At the time of reciting the Prātaranuvāka mantras, this sūkta is used for the Ṛks in Gāyatrī metre connected with the Āgneya kratu and for the mantras of the Āśvina śastra, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, युक्ष्वा हि प्रेष्ठं वः (*yukṣvā hi preṣṭhaṃ vaḥ*) (Ā. 4-13). In the Ukthya sacrifices connected with the Abhiplava, the priest called Maitrāvaruṇa is to recite the three Ṛks beginning प्रेष्ठं वः (*preṣṭhaṃ vaḥ*) as an optional stotriya tṛca, as is set out by the sūtra of the Āśvalāyana Śrauta Sūtra, प्रेष्ठं वो अतिथिं श्रेष्ठं यविष्ठ भारत (*preṣṭhaṃ vo atithiṃ śreṣṭhaṃ yaviṣṭha bhārata*) (Ā. 7-8).
+
+Sūkta 84
+
+Maṇḍala 8, Anuvāka 9, Sūkta 84
+
+Aṣṭaka 6, Adhyāya 6, Varga 5, 6
+
+Number of Ṛks in the sūkta: 9
+
+Seer: Uśanā Kāvyaḥ
+
+Deity: Agniḥ
+
+Metre: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रेष्ठं॑ वो॒ अति॑थिं स्तु॒षे मि॒त्रमि॑व प्रि॒यम् ।  
+> अ॒ग्निं रथं॒ न वेद्य॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रेष्ठम् । वः । अतिथिम् । स्तुषे । मित्रम्ऽइव । प्रियम् ।  
+> अग्निम् । रथम् । न । वेद्यम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यजमानाः प्रेष्ठं युष्माकं धनदानेन प्रियतमम् अतिथिं युप्माभिरतिथिवत्पूज्यम् । यद्वा । ‘ अत सातत्यगमने '। 'ऋतन्यंजि°' इत्यादिना अतेरिथिन् । सततं देवानां हविः प्रदातुं गच्छंतम् । मित्रमिव सखायमिव प्रियं स्तोतुः प्रीणनकरं रथं न रथमिव वेद्यम् । वेदो धनम् । धनहितं लाभहेतुम् । यथा रथी रथेन धनं लभते तद्वत्स्तोतारोऽनेन धनं लभंते । तादृशं धनलाभकारणम् अग्निं वः युष्मत्कर्मसिद्ध्यर्थं स्तुषे काव्य उशनाः स्तौमि ॥ ।
+
+##### Gist of the bhāṣya
+
+O sacrificers, Agni is most dear (प्रेष्ठं (*preṣṭhaṃ*)) to you through his gift of wealth, and a guest (अतिथिं (*atithiṃ*)) to be honoured by you as a guest is. Or else: the root अत (*ata*) means constant going, and the affix ithin is added; he is the one who goes constantly to give the gods their oblation. Dear (प्रियं (*priyaṃ*)) like a friend, he is the one who pleases the praiser. He is like a chariot, वेद्यम् (*vedyam*): वेदो (*vedo*) is wealth, so he is a cause of gain, beneficial to wealth; as a charioteer gains wealth by a chariot, so the praisers gain wealth by him. Such a cause of gaining wealth, Agni, I, Uśanas Kāvya, praise for the accomplishment of your rites.
+
+### Printed p. 244
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रेष्ठं (*preṣṭhaṃ*)—him who is most dear to you (O sacrificers)
+- अतिथिं (*atithiṃ*)—him who is to be honoured as a guest
+- मित्रमिव (*mitramiva*)—like a friend
+- प्रियं (*priyaṃ*)—beneficent
+- रथं न वेद्यं (*rathaṃ na vedyaṃ*)—who brings the wealth that fills a chariot
+- अग्निं (*agniṃ*)—Agni
+- वः (*vaḥ*)—for the accomplishment of your rites
+- स्तुषे (*stuṣe*)—I praise
+
+##### भावार्थ (Bhāvārtha)
+
+O sacrificers, I, called Uśanā, son of the poet, praise Agni for the accomplishment of your rites: Agni, who is dear to many, honoured like a guest, beneficent like friends, and who provides the praisers with wealth that fills a chariot.
+
+##### English translation
+I praise Agni your most beloved guest, dear as a friend, who brings wealth as a chariot;
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विमि॑व॒ प्रचे॑तसं॒ यं दे॒वासो॒ अध॑ द्वि॒ता ।  
+> नि मर्त्ये॑ष्वाद॒धुः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविम्ऽइव । प्रऽचेतसम् । यम् । देवासः । अध । द्विता ।  
+> नि । मर्त्येषु । आऽदधुः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध अपि च देवासः देवा इंद्रादयः यम् अग्निं मर्त्येषु मनुष्येषु द्विता द्विधा नि आदधुः गार्हपत्याहवनीयात्मकत्वेन द्विधा निहितवंतः । तत्र दृष्टांतः। कविमिव प्रचेतसम् । प्रकृष्टज्ञानं कविं क्रांतकर्माणं पुरुषं यथा द्विधा कार्यद्वयेऽन्यो नियोजयति तद्वत् । यद्वा । दिवि पृथिव्यां च निहितवंतः । भूमौ तु हविराहरणार्थं दिवि तु हविष्प्रदानार्थमिति द्वैधं विधानं कृतवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+And the gods, Indra and the others, have set Agni among mortals in two ways, as Gārhapatya and Āhavanīya. The example: as one engages a wise person (कविं (*kaviṃ*) is one of accomplished deeds) in two tasks, so the gods have done with Agni. Or else: they set him in heaven and on earth; on earth to carry the oblations, in heaven to give them; the meaning is that they made a twofold arrangement.
+
+### Printed p. 245
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—and
+- कविमिव प्रचेतसं (*kavimiva pracetasaṃ*)—as people in worldly affairs appoint a man of excellent knowledge, a wise man, to do two kinds of work, so
+- देवासः (*devāsaḥ*)—the gods, Indra and the others
+- यं (*yaṃ*)—which Agni
+- मर्त्येषु (*martyeṣu*)—among men
+- द्विता (*dvitā*)—in the two forms called Gārhapatya and Āhavanīya
+- नि आदधुः (*ni ādadhuḥ*)—have established; such an Agni I praise
+
+##### भावार्थ (Bhāvārtha)
+
+And as in worldly affairs people serve a man of excellent knowledge, a wise man, in order to do two good works well, so I praise that Agni whom the gods have established among men in two forms, Gārhapatya and Āhavanīya.
+
+##### English translation
+Whom the gods have set like a wise seer in a two-fold function among mortals.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं य॑विष्ठ दा॒शुषो॒ नॄँः पा॑हि शृणु॒धी गिरः॑ ।  
+> रक्षा॑ तो॒कमु॒त त्मना॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । यविष्ठ । दाशुषः । नॄन् । पाहि । शृणुधि । गिरः ।  
+> रक्ष । तोकम् । उत । त्मना ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे यविष्ठ युवतम । यद्वा । यौतेस्तृजंतस्येष्टनि रूपम् । देवानां हविषां मिश्रयितृतमाग्ने त्वं दाशुषः हविर्दत्तवतः नॄन् कर्मणां नेतॄन् यजमानान् पाहि धनादिदानेन रक्ष । नॄँः पाहीत्यत्र संहितायां नॄन्पे' (पा. सू. ८. ३. १० ) इति नकारस्य रुत्वम् । अत्रानुनासिकः' ( पा. सू. ८. ३. २ ) इति पूर्वस्यानुनासिकः । किंच गिरः त्वद्विषयाः स्तुतीः शृणुधि अवहितः संछृणु । ‘श्रु श्रवणे'। ‘श्रुशृणुपॄ' इत्यादिना हेर्ध्यादेशः । उत अपि च त्मना आत्मनैव स्वयमेव तोकम् अस्मदीयं तनयं पुत्रं रक्ष पालय । त्मनेति सर्वत्र संबध्यते । आत्मना स्वयमेव रक्ष । त्वदन्यं पालयितारं न विंदामः । त्वमेवास्मदीयं स्तोत्रं शृणु ॥
+
+##### Gist of the bhāṣya
+
+O youngest (यविष्ठ (*yaviṣṭha*)), most youthful Agni. Or else: from the root यौ (*yau*) with the ending ṛjanta and the affix iṣṭan; the best mixer of the oblations of the gods. Protect, by giving wealth and the like, the sacrificers who have given oblations, the leaders of rites. Further, hear attentively the praises addressed to you. And protect by yourself (त्मना (*tmanā*)), of your own accord, our offspring, our son; त्मना (*tmanā*) is connected with everything: protect by yourself, since we find no protector other than you; you alone hear our praise.
+
+### Printed p. 246
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यनिष्ठ (*yaniṣṭha*)—O Agni, most youthful
+- त्वं (*tvaṃ*)—you
+- न्यान् (*nyān*)—the sacrificers, leaders of the rites of sacrifice
+- पाहि (*pāhi*)—protect by giving wealth and the like
+- गिरः (*giraḥ*)—the words of praise recited to you
+- शृणुधि (*śṛṇudhi*)—hear attentively
+- उत (*uta*)—and
+- त्मना (*tmanā*)—yourself
+- तोकं (*tokaṃ*)—our sons
+- रक्ष (*rakṣa*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, most youthful, protect with wealth and the like the sacrificers who perform the rites of sacrifice. Hear attentively, with your mind, the words of praise recited to you, and yourself guard our sons.
+
+##### English translation
+Ever-youthful (Agni) protect your offerers, hear our praises, and yourself guard our offspring.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कया॑ ते अग्ने अंगिर॒ ऊर्जो॑ नपा॒दुप॑स्तुतिम् ।  
+> वरा॑य देव म॒न्यवे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कया । ते । अग्ने । अंगिरः । ऊर्जः । नपात् । उपऽस्तुतिम् ।  
+> वराय । देव । मन्यवे ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अंगिरः अंगिरसां वरिष्ठ । यद्वा । अंगति सर्वत्र गच्छतीत्यंगिराः । तादृश हे ऊर्जो नपात् । नपादित्यपत्यनाम । अन्नस्य पुत्र । हविर्भिर्वर्धमानत्वात् । यद्वा । नपादिति नप्ता । हविर्लक्षणस्यान्नस्य नप्तः । ‘अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिः' इति । वृष्टेरोषधय ओषधीभ्योऽग्निरित्यन्नस्य नप्ता । हे देव द्योतमान अग्ने वराय सर्वैर्वरणीयाय मन्यवे शत्रूनतिमन्यमानाय ते तुभ्यं कया कीदृश्या वाचा उपस्तुतिम् उपस्तोत्रमहं भरेयम् । त्वं महान् खल्वहमल्पः । तदर्थं स्तुतिं कुर्यामित्यृषिरग्निं प्रति वदति ॥ ।
+
+##### Gist of the bhāṣya
+
+O Aṅgiras, chief of the Aṅgirases. Or else: he goes (अंगति (*aṃgati*)) everywhere, hence Aṅgirās. O ऊर्जो नपात् (*ūrjo napāt*): नपात् (*napāt*) is a name for offspring, so he is the son of food, since he grows by oblations. Or else नपात् (*napāt*) is a grandson: he is the grandson of the food that has the form of oblation. The oblation duly cast into Agni reaches the Sun; from the Sun comes rain; from rain, plants; from plants, Agni; thus he is the grandson of food. O shining Agni, to you who are to be chosen by all and who are scornful of enemies (मन्यवे (*manyave*)), with what sort of speech could I bring praise? You are great, I am small: so the seer says to Agni, wishing to make praise for that reason.
+
+### Printed p. 247
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अंगिरः (*aṃgiraḥ*)—him who is famous by the name of Aṅgiras
+- ऊर्जोनपातं (*ūrjonapātaṃ*)—him who is called the son of food
+- देव (*deva*)—and shining
+- अग्ने (*agne*)—O Agni
+- वराय (*varāya*)—desired by all
+- मन्यवे (*manyave*)—who disregards enemies
+- ते (*te*)—to you
+- कया (*kayā*)—by what sort of words
+- उपस्तुतिं (*upastutiṃ*)—could I offer praise?
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, famed by the name of Aṅgiras, called the son of food, shining, desired by all, looking on enemies with disdain: by what sort of words could I compose and recite praise to you?
+
+##### English translation
+Divine Agni Angiras, son of food, with what voice (shall I utter) my praise to you, most excellent scorner of enemies?
+
+##### विशेषविषयगळु (Special Topics)
+
+Aṅgiras: अंगति सर्वत्र गच्छतीत्यंगिराः (*aṃgati sarvatra gacchatītyaṃgirāḥ*). Because he pervades all regions, or because he moves everywhere, Agni has the name Aṅgiras. Or else there is a historical account of how Agni came by the name Aṅgirās.
+
+In this sūkta and in many other Ṛks of the Ṛgveda the word Aṅgiras is used to address Agni. An explanation on this matter is needed. ये‍ऽङ्गाराः आसंस्ते‍ऽङ्गिरसो‍ऽभवन् (*ye 'ṅgārāḥ āsaṃste 'ṅgiraso 'bhavan*) (Ai. Brā. 3-34): the embers (aṅgāras) connected with Agni received the name Aṅgirasas; so it is said in the Aitareya Brāhmaṇa in the story of Prajāpati's lust for his daughter. In former times Prajāpati (Brahmā) thought in his mind of his own daughter (Uṣas or Dyu) with an evil feeling (lustful desire). The gods came to know of it and thought that he must be stopped from doing this evil deed. But Prajāpati
+
 ---
 
-**Progress note:** Done through printed p. 241. Mandala 8 sukta 83 rks 5-9, pp. 236-241
+**Progress note:** Done through printed p. 247. Mandala 8 rk 9 of sukta 83, sukta 84 rks 1-4, pp. 242-247
