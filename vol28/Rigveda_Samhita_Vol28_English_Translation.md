@@ -21323,6 +21323,185 @@ In the Ṛk
 the seer Viśvāmitra describes poetically the kindling of Agni, and also in
 जुषस्व नः समिधमग्ने अद्य शोचा बृहद्यजतं धूममृण्वन् । (*juṣasva naḥ samidhamagne adya śocā bṛhadyajataṃ dhūmamṛṇvan |*)
 
+### Printed p. 610
+… and the kindling of Agni, which the sage Viśvāmitra describes in poetic form in the Ṛk
+*ā deva devānyajathāya vakṣi sakhā sakhīnsumanā yakṣyagne‖* (Ṛ. Saṃ. 3-4-1),
+and the description, in the Ṛk
+उप स्पृश दिव्यं सानु स्तूपैः सं रश्मिभिस्ततनः सूरस्य॥ (*upa spṛśa divyaṃ sānu stūpaiḥ saṃ raśmibhistatanaḥ sūrasya‖*) (Ṛ. Saṃ. 7-2-1),
+of the rays of Agni and the rays of the sun spreading out together, also show the poetic character of the mantras. These same descriptions also show that this sacrifice is to be begun in the morning.
+
+The mantra पूर्व्यं तंतुं तनुष्प (*pūrvyaṃ taṃtuṃ tanuṣpa*) (1-142-1) shows that this sacrifice is ancient. For this sacrifice to be completed without obstacle the help of Agni, the Hotṛ of the gods, is needed, and therefore the ghee-offering must first be made to Agni. After Agni is satisfied by it, he spreads towards the atmosphere (7-2-1). Then he brings the gods. Because Agni is the friend of men (3-4-1), he does this service.
+
+Skill of composition—Although the Āprī-sūktas were composed at different times, one apart from another, and belong to different lines of seers, all these sūktas have the same style of diction and the same aim; hence their harmony and charm, greater in one way than in all other kinds of sūktas, show their distinctiveness.
+
+In all the sūktas (except two) the number of Ṛks is eleven, and the sūkta begins with the word समिद् (*samid*) and ends with स्वाहा (*svāhā*); this shows a fixed rule from the point of view of both poetry and art. In the matter of metre there is no such restriction. The sūktas 1-13, 1-188, 5-5 and 9-5 are composed in the Gāyatrī metre, the 142nd sūkta of Maṇḍala 1 in the Anuṣṭubh metre, and 2-3, 3-5, 7-2, 10-70 and 10-110 in the Triṣṭubh metre.
+
+Many mantra phrases are repeated, such as देवान् आ वह (*devān ā vaha*), देवान् वक्षि (*devān vakṣi*), विप्रा यज्ञेषु मानवेषु कारुः (*viprā yajñeṣu mānaveṣu kāruḥ*) and the like.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इमां म इत्येकादशर्च० द्वितीयं सूक्तं । वाध्र्यश्वस्य सुमित्रस्यार्ष०
+> त्रैष्टुभं तनूनपाद्वर्जिताः सनराशंसाः समिदादयः प्रत्यृचं देवताः । शथा
+> चानुक्रांतं । इमां म एकादशाप्रमिति ॥ वध्यश्वगोत्राणां पशाविदमाप्रीसूक्तं।
+> सूत्रितं च । समिद्धो अद्येति सर्वॆषां यथऋषि ना । आ. ३-२ । इति ॥
+
+##### Gist of the bhāṣya
+
+The second sūkta, of eleven Ṛks, beginning इमां मे (*imāṃ me*). Its seer is Sumitra of the Vādhryaśva line; the metre is Triṣṭubh. Its deities, for each Ṛk in turn, are the Āprī deities beginning with Samidh, together with Narāśaṃsa, but omitting Tanūnapāt. As the Anukramaṇī says, इमां म एकादशाप्रं (*imāṃ ma ekādaśāpraṃ*): this is the Āprī-sūkta of the Vadhryaśva (Vādhryaśva) gotras for the animal sacrifice. It is also prescribed in the sūtra: समिद्धो अद्येति सर्वॆषां यथऋषि ना (*samiddho adyeti sarvèṣāṃ yathaṛṣi nā*) (Ā. 3-2).
+
+Anuvāda: This sūkta beginning इमां मे (*imāṃ me*) is the second sūkta in the sixth anuvāka. It has eleven Ṛks. Its seer is Sumitra, son of Vadhryaśva; the metre is Triṣṭubh. Since it is an Āprī-sūkta, leaving aside the deity Tanūnapāt and in its place including Narāśaṃsa, the eleven deities of the Samidh-and-following Āprī-sūkta are the deities of the Ṛks in order; hence the Anukramaṇī says इमां म एकादशाप्रं (*imāṃ ma ekādaśāpraṃ*).
+
+### Printed p. 611
+The use of this Āprī-sūkta in the animal offering for those of the gotra of the seer Vadhryaśva is explained by the Āśvalāyana Śrautasūtra, in the sūtra समिद्दो अद्येति सर्वॆषां यथर्षि वा (*samiddo adyeti sarvèṣāṃ yatharṣi vā*) (Ā. 3-2).
+
+Sūkta—70
+Maṇḍala—10 ‖ Anuvāka—6 ‖ Sūkta—70 ‖
+Aṣṭaka—8 ‖ Adhyāya—2 ‖ Varga—21, 22 ‖
+Number of Ṛks in the sūkta—11 ‖
+Seer: Sāmitra Vādhryaśva ‖
+Deity: Āprī ‖ 1. Idhma, Samiddha, or Agni. 2. Narāśaṃsa. 3. Iḷā. 4. Barhis. 5. The divine Doors. 6. Uṣāsānaktā. 7. The two divine Hotṛs, the wise. 8. The three goddesses Sarasvatī, Iḷā, Bhāratī. 9. Tvaṣṭṛ. 10. Vanaspati. 11. The Svāhākṛtis ‖
+Metre: Triṣṭubh ‖
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां मे॑ अग्ने स॒मिधं॑ जुषस्वे॒ळस्प॒दे प्रति॑ हर्या घृ॒ताचीं॑।  
+> वर्ष्म॑न्पृथि॒व्याः सु॑दिन॒त्वे अह्ना॑मू॒र्ध्वो भ॑व सुक्रतो  ॒
+> देवयज्या ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । मे । अग्ने । संइधं । जुषस्व । इळः । पदे । प्रति । हर्य । धृताचीं ।  
+> वर्ष्मन् । पृथिव्याः । सुदिनत्वे । अह्नां । ऊर्ध्वः । भव । सुक्रतो इति सुक्रतो  
+> देवयज्या ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अग्ने इळस्पद इळायास्पदे । एतद्वा इळायास्पदं यदुत्तरवेदी नाभिः। इति
+> ब्राह्मणं । उत्तरवेद्यामिमां मे मदीयां समिधं जुषस्व । सेवस्व । तथा घृताचीं घृतमंचंतीं स्रुचं प्रति हर्य । प्रतिकामयस्व । किंच हे सुक्रतो सुप्रज्ञ
+> पृथिव्या वर्षन्वर्षणि सनुच्छ्रिते पूर्वोक्ते देशेऽह्नां सुदिनत्वे तन्निमित्तं देवयज्या देवयागेन हेतुनोर्ध्वो ज्वालाभिरुन्नतो भव ॥
+
+##### Gist of the bhāṣya
+
+O Agni, इळस्पदे (*iḷaspade*) means "in the place of Iḷā". A Brāhmaṇa says: एतद्वा इळायास्पदं यदुत्तरवेदी नाभिः (*etadvā iḷāyāspadaṃ yaduttaravedī nābhiḥ*) So: on the uttaravedi accept this my fuel-stick (samidh), serve it. Likewise desire the ghee-filled ladle (ghṛtācī, "that which holds ghee"). Further, O very wise one: on the lofty place of the earth, the spot just mentioned, for the good days (sudinatva) of the days, because of the worship of the gods, rise up high with flames.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- इळस्पदे (*iḷaspade*)—established on the uttaravedi
+- मे (*me*)—my
+- इमां समिधं (*imāṃ samidhaṃ*)—these fuel-sticks
+- जुषस्व (*juṣasva*)—serve
+- धृताचीं (*dhṛtācīṃ*)—this ladle full of ghee
+- प्रतिहर्य (*pratiharya*)—desire
+- सुक्रतो (*sukrato*)—O Agni of excellent wisdom
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- वर्ष्मन् (*varṣman*)—on the lofty uttaravedi
+- आह्नां (*āhnāṃ*)—of the days
+- सुदिनत्वे (*sudinatve*)—for welfare
+- देवयज्या (*devayajyā*)—by means of worship of the gods and the like
+- ऊर्ध्वः भव (*ūrdhvaḥ bhava*)—rise up in the form of flame and shine
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, established on the uttaravedi, accept these my fuel-sticks. Desire this ladle full of ghee. O Agni of excellent wisdom, on the lofty uttaravedi of the earth, for all welfare, by means of worship of the gods and the like, rise up and shine with flame.
+
+##### English translation
+Graciously accept, Agni, this my fuel (placed) on the place of libation (the altar); delight in the butter-laden (spoon); most wise, rise up upon the lofty place of the earth for the propitiousness of the days through the worship of the gods.
+
+##### विशेषविषयगळु (Special Topics)
+
+समिद्धः (*samiddhaḥ*)—सम्यग्दीपितः एतन्नामकः त्वं (*samyagdīpitaḥ etannāmakaḥ tvaṃ*): Sāyaṇa explains it as "famed by the name Samiddha". It is addressed to the kindled Agni, who holds the first place in the Āprī-sūkta.
+
+इध्मो यः सर्वमेवाग्निरयं हीध्मः समिध्यते । ध्मातेर्वै तत्कृतं रूपं ध्मातो हीध्मः समिध्यते ॥ (*idhmo yaḥ sarvamevāgnirayaṃ hīdhmaḥ samidhyate | dhmātervai tatkṛtaṃ rūpaṃ dhmāto hīdhmaḥ samidhyate ‖*) (Bṛ. De. 2-188)
+
+Here identity is stated between the wooden idhma and the all-pervading Agni. The word idhma is derived from the root ध्मा (*dhmā*). Because it blazes after being blown upon, it has this name: so the author of the Bṛhaddevatā gives the explanation of the words idhma and samiddha. This explanation follows that of the Nirukta-author. In the Nirukta also, concerning the first deity of the Āprī-sūkta, it is said:
+तासामिध्मः प्रथमागामी भवति । इद्मः समिंधनात् । (*tāsāmidhmaḥ prathamāgāmī bhavati | idmaḥ samiṃdhanāt |*) (Ni. 8-5)
+In the Taittirīya Brāhmaṇa also, at the beginning of the Praiṣa-sūkta—
+
+### Printed p. 612
+(No text of the Kannada page 612 beyond what is given above and below; see the continuation.)
+
+### Printed p. 613
+होता यक्षदग्निग्ं समिधा समिद्धं सुषमिधा नाभा प्रथिव्याः संगथे वामस्य । (*hotā yakṣadagnigṃ samidhā samiddhaṃ suṣamidhā nābhā prathivyāḥ saṃgathe vāmasya |*) (Tai. Brā. 3-6-2.1)
+
+—the Hotṛ is addressed as having sacrificed to Agni, called Samidh and accompanied by the first Aprayāja deity.
+
+Another point must be noted here. The designation idhma does not occur in the Āprī-sūktas; this name is not in the Praiṣa-sūkta either. Only in the Sarvānukramaṇī is it stated: सुसमिद्ध इतीध्र्यः समिद्धो वा अग्नि.................. इति प्रत्यृचं देवताः । (*susamiddha itīdhryaḥ samiddho vā agni.................. iti pratyṛcaṃ devatāḥ |*) Since the word is not used in this context in the Aitareya Brāhmaṇa either, it is clear that Śaunaka and Kātyāyana followed the Nirukta-author in using it. Moreover, the epithet samiddha or susamiddha is used in seven sūktas, and the epithet samidh in the remaining three (Ṛ. Saṃ. 3-4-1; 7-2-1; 10-70-1).
+
+The first duty of this Agni called Samiddha is to invoke the gods: in the opening Ṛks of the sūktas 1-13-1, 1-142-1, 3-4-1, 10-110-1, as in the prayer of the Ṛk सुसमिद्धोन आ वह देवा अग्ने हविष्मते (*susamiddhona ā vaha devā agne haviṣmate*) (Ṛ. Saṃ. 1-13-1), Agni's duty is indicated. Not only this, it is also prayed that he carry the oblations and so on.
+
+On the question whether this deity is Agni or not, the Nirukta-author cites the difference of opinion from the beginning and then states his own view. After giving the opinions of the respective sages, यज्ञेध्म इति कात्थक्यः (*yajñedhma iti kātthakyaḥ*) (Ni. 8-5), अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) (8-5), he gives his own view: आग्नेय इति तु स्थितिः (*āgneya iti tu sthitiḥ*) (Ni. 8-22). In the Aitareya Brāhmaṇa:
+समिधो यजति । प्राणा वै समिधः । प्राणा हीदं सर्वं समिंधते यदिदं किंच प्राणानेव तत्प्रीणाति प्राणान्यजमाने दधाति ॥ (*samidho yajati | prāṇā vai samidhaḥ | prāṇā hīdaṃ sarvaṃ samiṃdhate yadidaṃ kiṃca prāṇāneva tatprīṇāti prāṇānyajamāne dadhāti ‖*) (Ai. Brā. 2-4)
+Although by these sentences identity between samidh and prāṇa is stated, still, on many other grounds, it may be said that this deity must be Agni.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ दे॒वाना॑मग्र॒यावे॒ह या॑तु॒ नरा॒शंसो॑ वि॒श्वरू॑पेभि॒रश्वैः॑ ।  
+> ऋ॒तस्य॑ प॒था नम॑सा मि॒येधो॑ दे॒वेभ्यो॑ दे॒वत॑मः सुषूदत् ॥
+
+### Printed p. 614
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । देवानां । अग्रयावा । इह । यातु । नराशंसः । विश्वरूपेभिः । अश्वैः ।  
+> ऋतस्य । पथा । नमसा । मियेधः । देवेभ्यः । देवतमः । सुसूदत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवानामग्रयावाग्रे गंता नराशंसः ॥ उभे वनस्पत्यादिषु युगपदिति
+> पूर्वोत्तरपदयोर्युगपत्रकृतिस्वरत्वं ॥ नरैः शंसनीय एतन्नामकोऽग्निर्विश्वरूपेभिर्नानारूपैरश्वै रोहिदाख्यैः सहेहास्मिन्यज्ञ आ यातु । अगत्य च मियेधो
+> मेध्यो यज्ञहितः स्तुतियोग्यो वा देवतमो देवानां मुख्यः सोऽग्निर्हविर्नयनयोग्येनर्तस्य यज्ञस्य पथा मार्गेण नमसा स्तोत्रेण सह देवेभ्य
+> इंद्रादिभ्यः सुसूदत् । हविः प्रेरयतु ॥
+
+##### Gist of the bhāṣya
+
+Narāśaṃsa is the one who goes first of the gods (देवानामग्रयावा (*devānāmagrayāvā*)). The name Narāśaṃsa is one to be praised by men; this Agni, with various-formed horses called Rohits, should come here to this sacrifice. And he, मियेधः (*miyedhaḥ*), pure, beneficial to the sacrifice or worthy of praise, देवतमः (*devatamaḥ*), chief of the gods, Agni, fit to carry the oblation, by the path of the sacrifice and with praise, should impel the oblation to the gods, Indra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—of all the gods
+- अग्रयावा (*agrayāvā*)—who goes in front
+- नराशंसः (*narāśaṃsaḥ*)—Agni called Narāśaṃsa
+- विश्वरूपेभिः (*viśvarūpebhiḥ*)—of many kinds of form
+- अश्वैः (*aśvaiḥ*)—with horses
+- इह (*iha*)—to this sacrifice
+- आ यातु (*ā yātu*)—may he come
+- मियेधः (*miyedhaḥ*)—worshipful
+- देवतमः (*devatamaḥ*)—Agni, chief of all gods
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पथा (*pathā*)—by the path
+- नमसा (*namasā*)—with praise
+- देवेभ्यः (*devebhyaḥ*)—toward the gods beginning with Indra
+- सुषूदत् (*suṣūdat*)—may he impel the oblation
+
+##### भावार्थ (Bhāvārtha)
+
+May Agni called Narāśaṃsa, who goes in front of all the gods, come to this sacrifice with horses of many kinds of form. May Agni, worthy of worship and chief of all the gods, come along the path of the sacrifice and, accompanied by praise, impel the oblation toward the gods beginning with Indra.
+
+##### English translation
+May Narashamsa, the preceder of the gods, come here with his horses of various forms; deserving of adoration, chief of the gods, may he effuse (oblations) to the gods by the path of the sacrifice with praise.
+
+##### विशेषविषयगळु (Special Topics)
+
+नराशंसः (*narāśaṃsaḥ*)—नरैः शंसनीयः (अग्निः) (*naraiḥ śaṃsanīyaḥ (agniḥ)*): Agni, praised by men; this is a name of Agni true to its meaning. Or नराशंसोऽग्निर्यज्ञो वा। (*narāśaṃso 'gniryajño vā|*) — another view is that Narāśaṃsa means either Agni or the sacrifice. The Nirukta passage supports both views.
+
+### Printed p. 615
+नराशंसो यज्ञ इति कात्थक्यः । नरा अस्मिन्नासीनाः शंसंति । अग्निरिति शाकपूणिः । नरैः प्रशस्यो भवति ॥ (*narāśaṃso yajña iti kātthakyaḥ | narā asminnāsīnāḥ śaṃsaṃti | agniriti śākapūṇiḥ | naraiḥ praśasyo bhavati ‖*) (Ni. 8-7)
+
+That is: Kātthakya says that the sacrifice has the name Narāśaṃsa because men (humans), sitting on the sacrificial altar, praise (the gods); Śākapūṇi says that the name applies to Agni because he is to be praised by men. After indicating these two views, the Nirukta-author cites the Ṛk:
+नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः । ये सुक्रतवः शुचयो धियंधाः स्वदंति देवा उभयानि हव्या ॥ (*narāśaṃsasya mahimānameṣāmupa stoṣāma yajatasya yajñaiḥ | ye sukratavaḥ śucayo dhiyaṃdhāḥ svadaṃti devā ubhayāni havyā ‖*) (Ṛ. Saṃ. 7-2-2)
+In this Ṛk the meaning "Agni" for the word Narāśaṃsa is the apt one. Among the deities listed in the Nighaṇṭu, the deity Narāśaṃsa is said to be one of the other forms of Agni. The authors of the Bṛhaddevatā say this very thing:
+नराशंसस्त्रितश्चैनमेनमेवाश्रितस्त्वशीलः । बर्हिद्वारश्च देव्योऽग्निमेनमेव तु संश्रिताः ॥ (*narāśaṃsastritaścainamenamevāśritastvaśīlaḥ | barhidvāraśca devyo 'gnimenameva tu saṃśritāḥ ‖*) (Bṛ. De. 1-107)
+In this verse it is said that deities such as Narāśaṃsa, Trita, Iḷā and Barhirdvāra rely on this very Agni and are contained in him; and:
+पृथक्त्वेन समस्तैस्तु यज्ञे यच्छस्यते नृभिः । स्तुवंत्याप्रीषु तेनेमं नराशंसं तु कारवः ॥ (*pṛthaktvena samastaistu yajñe yacchasyate nṛbhiḥ | stuvaṃtyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*) (Bṛ. De. 2-28)
+Because he is praised separately by all the men gathered at the sacrifice, the poets praise him (Agni) in the Āprī-sūktas by the name Narāśaṃsa; thus they too endorse the view the Nirukta-author states.
+नराशंसमिहैके तु अग्निमाहुरथेतरे । नराः शंसंति सर्वेऽस्मिन्नासीना इति नाध्वरे ॥ एतमेवाहुरन्येऽग्निं नराशंसोऽध्वरे ह्ययं । नर्मैः प्रशस्य आसीनैराहुश्चैवर्त्विजो नरः ॥ (*narāśaṃsamihaike tu agnimāhurathetare | narāḥ śaṃsaṃti sarve 'sminnāsīnā iti nādhvare ‖ etamevāhuranye 'gniṃ narāśaṃso 'dhvare hyayaṃ | narmaiḥ praśasya āsīnairāhuścaivartvijo naraḥ ‖*) (Bṛ. De. 3-2, 3)
+Some say Narāśaṃsa is Agni. Others say it is the sacrifice, because men gather at the sacrifice and praise. Because he is praised by the men gathered at the sacrifice, Narāśaṃsa means …
+
 ---
 
-**Progress note:** Done through printed p. 609. pp. 602-609 (batch API)
+**Progress note:** Done through printed p. 615. pp. 610-615 (batch API)
