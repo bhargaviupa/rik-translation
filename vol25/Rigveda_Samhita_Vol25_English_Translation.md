@@ -6728,6 +6728,232 @@ Kāṇukā: to state the meaning of this word, Yāska has given an explanation o
 त्रिंशदपरपक्षस्याहोरात्रास्त्रिंशत् पूर्वपक्षस्येति नैरुक्ताः । तस्या एता चांद्रमस्य आगामिस्य आप्यो भवंति रश्मयस्ता अपरपक्षे पिबति । तथापि (*triṃśadaparapakṣasyāhorātrāstriṃśat pūrvapakṣasyeti nairuktāḥ | tasyā etā cāṃdramasya āgāmisya āpyo bhavaṃti raśmayastā aparapakṣe pibati | tathāpi*) **GLOSS**
 **NOTE**
 
+### Printed p. 163
+
+निगमो भवति—यमुक्षितिमुक्षितयः पिबंति इति । तं पूर्वपक्ष आप्यायंति तथापि निगमो भवति—यथा देवा अंशुमाप्याययंति इति ॥ (*nigamo bhavati—yamukṣitimukṣitayaḥ pibaṃti iti | taṃ pūrvapakṣa āpyāyaṃti tathāpi nigamo bhavati—yathā devā aṃśumāpyāyayaṃti iti ‖*) (Ni. 5-11) **GLOSS**
+
+The word काणुका (*kāṇukā*) has several meanings. Thus: कांतकानीति वा प्रियाणीत्यर्थः (*kāṃtakānīti vā priyāṇītyarthaḥ*)—desired, or pleasing; or क्रांतकानीति वा सोमस्य पूर्णानीत्यर्थः (*krāṃtakānīti vā somasya pūrṇānītyarthaḥ*)—filled, that is, full of Soma juice; or कृतकानीति वा (*kṛtakānīti vā*), संस्कृतानि ऋत्विग्भिः इंद्रार्थमेव (*saṃskṛtāni ṛtvigbhiḥ iṃdrārthameva*)—consecrated by the priests with mantras for the drinking of Indra. Thus three kinds of meaning have been stated. These are meanings made on the view that all of them are qualifiers of the word सरांसि (*sarāṃsi*). The meaning is that Indra drank in one gulp Soma juice of the qualities stated above, filling thirty lakes. साकं (*sākaṃ*) means सह (*saha*), at one time. He did not drink sipping little by little; the idea is that he drank all of it at one time, in one gulp.
+
+Or, if the word काणुकाः (*kāṇukāḥ*) is taken as a qualifier of Indra—इंद्रः सोमस्य कांत इति वा (*iṃdraḥ somasya kāṃta iti vā*): Indra is fond of the Soma juice, he loves the Soma juice; or कणे, घात इति वा कणे हतः कांतिहत ।ः कांतिरभिलाष इत्यर्थः। (*kaṇe, ghāta iti vā kaṇe hataḥ kāṃtihata |ḥ kāṃtirabhilāṣa ityarthaḥ|*)**NOTE** Indra drinks as he pleases until his desire is fulfilled. Thus two kinds of meaning can be stated.
+
+सरांसि त्रिंशतं (*sarāṃsi triṃśataṃ*)—here the word सरांसि (*sarāṃsi*) means vessels. Yāska has said that two kinds of meaning can be given to these words. The sacrificial view, that is, those expert in sacrifices and the like, speak thus—
+
+त्रिंशदुक्थपात्राणि माध्यंदिने सवन एकदेवतानि । तत्र हि माध्यंदिने सवने उक्थपर्यायाः त्रयस्त्रोऽस्यैंद्रा एव भवंति त्रिष्वपि चैतेषु दशदश चनुसः । तदभिप्रायेण त्रिंशत्सरांसीत्युक्तं मंत्रदृशा ॥ (*triṃśadukthapātrāṇi mādhyaṃdine savana ekadevatāni | tatra hi mādhyaṃdine savane ukthaparyāyāḥ trayastro 'syaiṃdrā eva bhavaṃti triṣvapi caiteṣu daśadaśa canusaḥ | tadabhiprāyeṇa triṃśatsarāṃsītyuktaṃ maṃtradṛśā ‖*) (Niru. Vyākhyā)**NOTE**
+
+At the midday pressing, the thirty vessels called uktha-vessels are all prepared with one deity (Indra) in view. There is a custom of calling those vessels सरांसि (*sarāṃsi*). Therefore it is said here that Indra drank in one gulp the Soma filling the thirty vessels prepared for Indra at the midday pressing. This is the view of the sacrificial authorities.
+
+Now the view of the second party is as follows: in a month there are two fortnights, the earlier fortnight and the later fortnight. One fortnight is fifteen days and fifteen nights, in all
+
+### Printed p. 164
+
+thirty. In the thirty days and nights of the later fortnight the rays drink the Soma that is in the moon. In this matter—
+
+यथा देवा अंशुमाप्याययंति यमक्षितिमक्षितयः पिबंति । तेन चेंद्रो वरुणो बृहस्पतिराप्याययंतु भुवनस्य गोपाः ॥ (*yathā devā aṃśumāpyāyayaṃti yamakṣitimakṣitayaḥ pibaṃti | tena ceṃdro varuṇo bṛhaspatirāpyāyayaṃtu bhuvanasya gopāḥ ‖*) **GLOSS**
+
+there is also the support of this Vedic text. This is the view of the authors of the Nirukta.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि गं॑ध॒र्वम॑तृणदबु॒ध्नेषु॒ रज॒स्स्वा ।  
+> इंद्रो॑ ब्र॒ह्मभ्य॒ इद्वृ॒धे ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । गंधर्वम् । अतृणत् । अबुध्नेषु । रजःऽसु । आ ।  
+> इंद्रः । ब्रह्मऽभ्यः । इत् । वृधे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंद्रः गंधर्वम् । गामुदकं धारयतीति गंधर्वो मेघः । तम् अभि आ अतृणत् सर्वतो हिंसितवान् । कुत्र । अबुध्नेषु पदनिधानयोग्यस्थानरहितेषु रजःसु लोकेषु । अंतरिक्षप्रदेशेष्वित्यर्थः । किमर्थम् । ब्रह्मभ्य इत् ब्राह्मणेभ्य एव वृधे वर्धनाय ॥ ॥ २९ ॥
+
+##### Gist of the bhāṣya
+
+This Indra struck down all around the Gandharva; the Gandharva is the cloud, which holds (dhārayati) the water (go). Where? In the realms (rajas), the worlds, called abudhna, devoid of any place fit for setting the foot; that is, in the regions of the atmosphere. For what purpose? For the increase of the Brāhmaṇas alone.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अबुध्नेषु (*abudhneṣu*)—where there is no support at all for setting the foot
+- रजःसु (*rajaḥsu*)—in the realms of the atmosphere
+- ब्रह्मभ्य इत् (*brahmabhya it*)—of the knowers of Brahman alone
+- वृधे (*vṛdhe*)—for the increase (for the sake of rain)
+- इंद्रः (*iṃdraḥ*)—Indra
+- गंधर्वं (*gaṃdharvaṃ*)—the cloud
+- अभ्यातृणत् (*abhyātṛṇat*)—split asunder
+
+##### भावार्थ (Bhāvārtha)
+
+In the realms of the atmosphere, where there is no support at all for setting the foot, Indra split the cloud asunder to pour down rain, for the increase of the knowers of Brahman alone.
+
+### Printed p. 165
+
+##### English translation
+In the realms (of the sky) where the foot finds no resting-place, Indra shattered the cloud to bring increase to the Brahmans.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> निरा॑विध्यद्गि॒रिभ्य॒ आ धा॒रय॑त्प॒क्वमो॑द॒नम् ।  
+> इंद्रो॑ बुं॒दं स्वा॑ततम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निः । अविध्यत् । गिरिऽभ्यः । आ । धारयत् । पक्वम् । ओदनम् ।  
+> इंद्रः । बुंदम् । सुऽआततम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयम् इंद्रः गिरिभ्यः मेघेभ्यः सकाशादुदकं निर्गमयितुं निराविध्यत् संप्राहरत् तानेव मेघान् । किं कुर्वन् । पक्वं परिपक्वम् ओदनं कुर्वन् मनुष्याणामर्थाय । केन साधनेनेति तदुच्यते । बुंदम् इषुं स्वाततं सुष्ठु सर्वतो विस्तृतमादायेति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This Indra struck down those same clouds (giri), in order to bring the water out of the clouds. Doing what? Making cooked rice (odana) fully ripe for the sake of men. By what means? The remainder is: having taken the arrow (bunda), well spread out on all sides.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—Indra
+- स्वाततं (*svātataṃ*)—very far-stretched
+- बुंदं (*buṃdaṃ*)—having discharged the arrow
+- गिरिभ्यः (*giribhyaḥ*)—from the clouds
+- निराविध्यत् (*nirāvidhyat*)—(splitting them) poured down rain
+- पक्वं (*pakvaṃ*)—fully ripe
+- ओदनं (*odanaṃ*)—rice
+- आ धारयत् (*ā dhārayat*)—secured for men
+
+##### भावार्थ (Bhāvārtha)
+
+Indra, having discharged his very far-stretched arrow, split the clouds and poured down rain. He secured fully ripe rice for men. (He provided it.)
+
+##### English translation
+Indra smote (rain) from the clouds with his far-stretched arrow, he secured boiled rice (for men).
+
+### Printed p. 166
+
+##### विशेषविषयगळु (Special Topics)
+
+बुंदं (*buṃdaṃ*)—इषुं (*iṣuṃ*): the arrow. For the word बुंद (*buṃda*) Yāska has given this explanation—
+
+बुंदः । बुंद इषुर्भवति । बुंदो वा भिंदो वा भयदो वा भासमानो द्रवतीति वा । निरविध्यद्गिरिभ्य आधारयत्पक्वमोदनं । इंद्रो बुंदं स्वाततं । निरविध्यद्गिरिभ्य आधारयत्पक्वमोदनमुदकदासं मेघं । इ (*buṃdaḥ | buṃda iṣurbhavati | buṃdo vā bhiṃdo vā bhayado vā bhāsamāno dravatīti vā | niravidhyadgiribhya ādhārayatpakvamodanaṃ | iṃdro buṃdaṃ svātataṃ | niravidhyadgiribhya ādhārayatpakvamodanamudakadāsaṃ meghaṃ | i*) (Ni. 6-34)
+
+Bunda means an arrow. An arrow is called bunda because it pierces the target, or because it causes fear to the enemy, or because it shines when it leaves the bow. The use of this word is in the present Ṛk. The idea of the explanation is that Indra, standing on the mountains, fixed an arrow to the bow there, drew it to the ear, and, able to pour down rain, split the cloud full of abundant water and poured down rain.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तब्र॑ध्न॒ इषु॒स्तव॑ स॒हस्र॑पर्ण॒ एक॒ इत् ।  
+> यमिं॑द्र चकृ॒षे युज॑म् ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतऽब्रध्नः । इषुः । तव । सहस्रऽपर्णः । एकः । इत् ।  
+> यम् । इंद्र । चकृषे । युजम् ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तव इषुः शतब्रध्नः शताग्रः सहस्रपर्णः सहस्रसंख्याकैः पत्रैः संवृतः शीघ्रगमनाय । अपरिमितगमनो वा । स च एक इत् एक एव । यं च इषुं युजं सहायं चकृषे करोषि युद्धाय ।
+
+##### Gist of the bhāṣya
+
+O Indra, your arrow is śatabradhna, with a hundred points, and sahasraparṇa, covered with a thousand feathers for swift going, or of unlimited going. And it is one alone. It is the arrow which you make your companion (yuj), your ally, for battle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- यं (*yaṃ*)—which arrow
+- युजं (*yujaṃ*)—as the means for your battle
+- चकृषे (*cakṛṣe*)—you make
+- एक इत् (*eka it*)—that single one
+- तव इषुः (*tava iṣuḥ*)—your arrow
+
+### Printed p. 167
+
+- शतब्रध्नः (*śatabradhnaḥ*)—with a hundred sharp points
+- सहस्रपर्णः (*sahasraparṇaḥ*)—with a thousand leaves (feathers)
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, that single arrow of yours, which you make the means for your battle, has a hundred sharp points and a thousand feathers.
+
+##### English translation
+That single shaft of yours, Indra, which you make your ally, is hundred-pointed, thousand-feathered.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तेन॑ स्तो॒तृभ्य॒ आ भ॑र॒ नृभ्यो॒ नारि॑भ्यो॒ अत्त॑वे ।  
+> स॒द्यो जा॒त ऋ॑भुष्ठिर ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तेन । स्तोतृऽभ्यः । आ । भर । नृऽभ्यः । नारिऽभ्यः । अत्तवे ।  
+> सद्यः । जातः । ऋभुऽस्थिर ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तेन इषुणा स्तोतृभ्यः अस्मभ्यं नृभ्यः मनुष्येभ्यः । पुत्रेभ्य इत्यर्थः। तथा नारिभ्यः स्त्रीभ्यश्च अत्तवे अदनाय पर्याप्तं धनम् आ भर आहर। सद्यः तदानीमेव जातः अस्माभिर्दत्तेन सोमेन प्रवृद्धः सन् हे ऋभुष्ठिर । उरुः प्रभूतः स्थिरश्च संग्रामे स तथोक्तः । हे तादृशेंद्र त्वमा भरेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+With that arrow, bring to us, the praisers, to men, that is, to our sons, and also to women, wealth sufficient for eating, that is, for enjoyment. Having been born at once, that is, having grown by the Soma given by us, O Ṛbhuṣṭhira: vast and steady in battle, he is so called. O Indra, such as you are, bring: this is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋभुष्ठिर (*ṛbhuṣṭhira*)—O Indra, whose state is steady and great in battles
+- सद्यः (*sadyaḥ*)—as soon as we offer Soma
+- जातः (*jātaḥ*)—having gained increase
+- तेन (*tena*)—with the help of that same arrow
+- स्तोतृभ्यः (*stotṛbhyaḥ*)—to us, the praisers
+- नृभ्यः (*nṛbhyaḥ*)—to our sons and others
+- नारिभ्यः (*nāribhyaḥ*)—to women (wives and others)
+- अत्तवे (*attave*)—the wealth needed for enjoyment
+- आ भर (*ā bhara*)—procure and give
+
+### Printed p. 168
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, whose state is steady and great in battles, as soon as we offer Soma you, having gained increase, with the help of that same arrow procure the wealth needed for enjoyment for us, the praisers, for our sons and others, and for our wives and others.
+
+##### English translation
+Forthwith increased ( by our offerings ), you, mighty and firm, by that (weapon) bring (wealth) for sustenance to us your praisers, our children, and our wives.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ता च्यौ॒त्नानि॑ ते कृ॒ता वर्षि॑ष्ठानि॒ परी॑णसा ।  
+> हृ॒दा वी॒ड्व॑धारयः ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एता । च्यौत्नानि । ते । कृता । वर्षिष्ठानि । परीणसा ।  
+> हृदा । वीळु । अधारयः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते त्वया एता एतानि पुरतः सर्वैर्दृश्यमानानि वर्षिष्ठानि अतिशयेन प्रवृद्धानि परीणसा परितो नतानि अत एव च्यौत्नानि इति भावः । भूमेः कीलवद्धारणाय कृता कृतानि । पर्वतास्त्वया कृता इत्यर्थः । या यानि 'हृदा बुद्ध्या वीळु स्थिराणि अधारयः । बुद्ध्या कर्तव्यानीति यान्यधारयः तानीमानीति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by you these things, seen before us by all, are most greatly grown (varṣiṣṭhāni) and bent on all sides (parīṇasā); and therefore they are cyautna, of firm strength. They are made (kṛtā) to hold the earth like a peg; the meaning is that the mountains were made by you. Whatever things you held firm (vīḷu) with the heart, that is, with the intellect, thinking that they should be made by the intellect, these are they.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऎलै इंद्रने (*èlai iṃdrane*)—(addressed)
+- एता (*etā*)—what is seen as known to all
+- वर्षिष्ठानि (*varṣiṣṭhāni*)—exceedingly grown
+- परीणसा (*parīṇasā*)—spread out and pervading
+- च्यौत्नानि (*cyautnāni*)—all that has most excellent strength
+- ते (*te*)—by you alone
+- कृता (*kṛtā*)—have been made (all these ... )**NOTE**
+- हृदा (*hṛdā*)—in your heart alone
+- वीळु (*vīḷu*)—firmly
+- आधारयः (*ādhārayaḥ*)—you have held
+
 ---
 
-**Progress note:** Done through printed p. 162. Suktas 76 Rks 11-12 and 77 Rks 1-4
+**Progress note:** Done through printed p. 168. Sukta 77 Rk 4 Special Topics end and Rks 5-9
