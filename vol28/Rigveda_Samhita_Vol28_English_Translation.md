@@ -19271,6 +19271,236 @@ This sūkta इमां धियं (*imāṃ dhiyaṃ*) is the seventh sūkta
 
 Maṇḍala 10; Anuvāka 5; Sūkta 67. Aṣṭaka 8; Adhyāya 2; Vargas 15, 16. Number of Ṛks in the sūkta: 12. Ṛṣi: Ayāsya. Deity: Bṛhaspati. Metre: Triṣṭup.
 
+### Printed p. 560
+
+#### Ṛk
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मां धियं॑ स॒प्तशी॑र्ष्णीं पि॒ता न॑ ऋ॒तप्र॑जातां बृह॒तीम॑विंदत् ।  
+> तु॒रीयं॑ स्विज्जनयद्वि॒श्वज॑न्यो॒ऽयास्य॑ उ॒क्धमंद्रा॑य॒ शंस॑न् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमां । धियं । सप्तशीर्ष्णीं । पिता । नः । ऋतप्रजातां । बृहतीं । अविंदत् ।  
+> तुरीयं । स्वित् । जनयत् । विश्वजन्यः । आयास्यः । उकथं । इंद्राय । शंसन् ॥ ० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रेतिहासमाचक्षते । पुरा किलांगिरा नामर्षिर्बृहस्पतिं पुत्रमलभत । स तु
+> देवानां हितोपदेशनायेंद्रस्य पुरोहितोऽभवत् । कदाजित्तस्य गावः पणिनामकैरसुरैरपहृत्य वलपुरं प्रापय्य त्रिषु स्थानेषु तमसावृतेषु स्थापिता आसन् । अथ
+> तासामन्वेषणायेंद्रेण प्रेरितो बृहस्पतिर्मरुद्भिः सह तत्रागत्य गवां गुहा
+> स्थितानां दर्शनाय सूर्यं जनयित्वा वलनामानमसुरं तदनुचरान्पणींश्च हत्वा
+> गा आजहारेति । तदत्र दर्शयिष्यते । तथा चास्या ऋचोऽयमर्थः। धियं कर्मणां
+> धात्रीं सप्तशीर्ष्टि०ं सप्तशिरस्कां सप्तभिः शिरःस्थानीयैस्तद्वत्पधानभूतैर्मरुद्धणैरुपेतां । यद्वा । सप्तच्छंदोमयशिरस्कां । ऋतप्रजातां यज्ञार्थमुत्पन्नां
+> बृहतीं महतीमिमां तनुं नोऽस्माकं पितांगिरा अविंदत् । लब्धवान् । कर्मणां
+> ध्यातारं बृहस्पतिं पुत्रमलभतेत्यर्थः। ये०गारा आसंस्ते०गिरसोऽभवन् यदंगाराः पुनरवशांता उददीप्यंत तद्बृहस्पतिरभवदिति ब्राह्मणं । ऐ. ब्रा. ३-३४ । तथा
+> तुरीयं स्विन्नप्तारमपि जनयत् अजनयत् विश्वजन्यः सर्वजनहित इंद्रायेश्वराय
+> बृहस्पतय इंद्राय वोक्तं स्तोत्रं शंसन्नयमयास्को नामर्षिः । पूर्वमेव
+> नोऽस्माकं पिताकार्षिदित्याह ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says that an itihāsa is told here. Long ago the ṛṣi Aṅgiras obtained a son, Bṛhaspati, who became Indra's priest (purohita) in order to give the gods beneficial counsel. Once his cows were carried off by Asuras called Paṇis, brought to the city of Vala and kept in three places covered with darkness. Sent by Indra to seek them, Bṛhaspati came there with the Maruts, produced the sun so that the cows hidden in the cave could be seen, slew the Asura named Vala and his followers the Paṇis, and brought the cows back. This will be shown in the hymn. The meaning of the Ṛk is then given: धियं (*dhiyaṃ*) is the supporter of rites; सप्तशीर्ष्णीं (*saptaśīrṣṇīṃ*) is "seven-headed", furnished with seven groups of Maruts standing as heads, the principal ones; or else, having heads made of the seven metres. ऋतप्रजातां (*ṛtaprajātāṃ*) is born for the sake of the sacrifice. Our father Aṅgiras obtained this great body of ours, that is, he obtained Bṛhaspati, the meditator on rites, as a son. He quotes the Brāhmaṇa: those who were embers became the Aṅgirasas; the embers that, having cooled, blazed up again became Bṛhaspati (Ai. Brā. 3-34). Likewise Ayāsya, the ṛṣi, benevolent to all people, reciting praise to Indra, that is, to Bṛhaspati, begot also a fourth (descendant); he says that our father had acted even before.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- धियं (*dhiyaṃ*)—the supporter of rites
+- सप्तशीर्ष्णीं (*saptaśīrṣṇīṃ*)—having seven heads
+- ऋतप्रजातां (*ṛtaprajātāṃ*)—that which was born for the sake of sacrifice
+- बृहतीं (*bṛhatīṃ*)—of great form
+- इमां (*imāṃ*)—this (Bṛhaspati-formed) body
+- नः (*naḥ*)—our
+- पिता (*pitā*)—father Aṅgiras
+- अविंदत् (*aviṃdat*)—obtained
+- तुरीयं स्वित् (*turīyaṃ svit*)—a grandson
+- जनयत् (*janayat*)—begot
+- विश्वजन्यः (*viśvajanyaḥ*)—beneficial to all
+
+### Printed p. 561
+- अयास्यः (*ayāsyaḥ*)—the ṛṣi named Ayāsya
+- इंद्राय (*iṃdrāya*)—addressing Indra
+- उक्तं (*uktaṃ*)—a hymn
+- शंसन् (*śaṃsan*)—offered
+
+##### भावार्थ (Bhāvārtha)
+
+Our father Aṅgiras obtained this body (of the form of Bṛhaspati), the supporter of rites, seven-headed, born for the sacrifice, of great form. He also obtained a grandson. The ṛṣi Ayāsya, beneficial to all, offered praise addressing Indra.
+
+##### English translation
+This great seven-headed ceremony, born of truth, our father (Angiras) discovered ; Ayasya, the friend of all races, engendered the fourth (generation), reciting a hymn to Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the bhāṣya of this Ṛk Sāyaṇa tells an itihāsa: अत्रेतिहासमाचक्षते । पुरा किलांगिरा नामर्षिर्बृहस्पतिं पुत्रमलभत । स तु देवानां हितोपदेशनायेंद्रस्य पुरोहितोऽभवत् । कदाजित्तस्य गावः पणिनामकैरसुरैरपहृत्य वलपुरं प्रापय्य त्रिषु स्थानेषु तमसावृतेषु स्थापिता आसन् । अथ तासामन्वेषणायेंद्रेण प्रेरितो बृहस्पतिर्मरुद्भिः सह तत्रागत्य गवां गुहा स्थितानां दर्शनाय सूर्यं जनयित्वा वलनामानमसुरं तदनुचरान्पणींश्च हत्वा गा आजहारेति । तदत्र दर्शयिष्यते । (*atretihāsamācakṣate | purā kilāṃgirā nāmarṣirbṛhaspatiṃ putramalabhata | sa tu devānāṃ hitopadeśanāyeṃdrasya purohito 'bhavat | kadājittasya gāvaḥ paṇināmakairasurairapahṛtya valapuraṃ prāpayya triṣu sthāneṣu tamasāvṛteṣu sthāpitā āsan | atha tāsāmanveṣaṇāyeṃdreṇa prerito bṛhaspatirmarudbhiḥ saha tatrāgatya gavāṃ guhā sthitānāṃ darśanāya sūryaṃ janayitvā valanāmānamasuraṃ tadanucarānpaṇīṃśca hatvā gā ājahāreti | tadatra darśayiṣyate |*) In the past the ṛṣi Aṅgiras had a son named Bṛhaspati. Because that Bṛhaspati, a well-wisher of the gods, gave them beneficial counsel, he was Indra's priest. At one time Asuras called Paṇis carried off Bṛhaspati's cows, took them to the city of their chief, the Asura named Vala, and hid them in a mountain cave covered on three sides and enveloped in pitch darkness. Sent by Indra with the intention of finding the cows, Bṛhaspati came with the Marut deities near Vala's city; as he searched for the cows, darkness had spread in the cave and nothing could be seen, so he set up the sun there to give light and made everything visible. Then he slew the Asura Vala who had carried off the cows and his followers the Paṇis, freed his cows and brought them back. This very matter is told in this hymn.
+The carrying off of the cows of the gods (of Bṛhaspati) by the Paṇis, their hiding in a mountain cave, and their recovery by Bṛhaspati and the other gods with Indra's help, are described in many places in detail.
+
+### Printed p. 562
+In the 108th hymn of this same Maṇḍala it is said that, in order to learn who had carried off these cows and where they were, Indra first sent Saramā, the bitch of the gods; she crossed many rivers, mountains and hills, went a very long way, discovered the secret place where the Paṇis had hidden the cows, held a conversation with the Paṇis, and reported to Indra what had passed there; and that Indra and the other gods went there, conquered the Asuras and brought the cows back. The detailed explanation written on this subject can be seen there.
+Concerning Bṛhaspati: Aitareya Brāhmaṇa passages such as येऽज्ञारा आसंस्थेऽङ्गि रसोऽभवन् यदांगाराः पुनरवशांता उददीप्यंत तद्बृहस्पतिरभवत् (*ye 'jñārā āsaṃsthe 'ṅgi raso 'bhavan yadāṃgārāḥ punaravaśāṃtā udadīpyaṃta tadbṛhaspatirabhavat*) (Ai. Brā. 3-34) we have explained at length in the introduction to this hymn. (Part 20, p. 680)
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तं शंसं॑त ऋ॒जु दीध्या॑ना दि॒वस्पु॒त्रासो॒ असु॑रस्य वी॒राः ।  
+> विप्रं॑ प॒दमंगि॑रसो॒ दधा॑ना य॒ज्ञस्य॒ धाम॑ प्रथ॒मं म॑नंत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतं । शंसंतः । ऋजु । दीध्यानाः । दिवः । पुत्रासः । असुरस्य । वीराः ।  
+> विप्रं । पदं । अंगिरसः । दधानाः । यज्ञस्य । धाम । प्रथमं । मनंत ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतं सत्यभूतं स्तोत्रं शंसंतः स्तुवंत ऋजु कल्याणं दीध्यानाः कर्माणि
+> ध्यायंतो दिवो दीप्तस्यासुरस्य प्रज्ञानवतोऽग्नेरंगिरसः पुत्राः । अंगिरसो
+> ह्यं गारेभ्यो जाता इत्युक्तं। अंगारेष्टंगिराः। नि. ३-१७-१ इति। वीरा विक्रांतप्रज्ञा
+> एतेऽंगिरसो विप्रं प्रज्ञापकं यज्ञस्य धाम धारकं पदं बृहस्पत्याख्यं दधानाः
+> कर्मणा धारयंतः संतः प्रथममादित एव मनंत । स्तुवंति । प्रज्ञापकं ह्येतत्स्थानं यद्बृहस्पतिरिति ॥
+
+##### Gist of the bhāṣya
+
+The sons of the shining Asura (the wise Agni), the Aṅgirasas, recite true praise (ऋतं (*ṛtaṃ*)), and meditate on rites (दीध्यानाः (*dīdhyānāḥ*)) auspiciously (ऋजु (*ṛju*)). He notes that the Aṅgirasas are said to be born from embers, and quotes अंगारेष्टंगिराः (*aṃgāreṣṭaṃgirāḥ*) (Ni. 3-17-1). Being valiant (वीराः (*vīrāḥ*), of heroic wisdom), these Aṅgirasas, bearing by their rite the place called Bṛhaspati, which makes known (विप्रं (*vipraṃ*)) and supports (धाम (*dhāma*)) the sacrifice, praise it from the very beginning (मनंत (*manaṃta*) = they praise). For this station, Bṛhaspati, is one that makes known.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतं (*ṛtaṃ*)—true praise
+- शंसतः (*śaṃsataḥ*)—those who recite
+- ऋजु (*ṛju*)—the welfare of the world
+- दीध्यानाः (*dīdhyānāḥ*)—those who meditate
+- दिवः (*divaḥ*)—the shining one
+- असुरस्य (*asurasya*)—the wise
+- पुत्रासः (*putrāsaḥ*)—sons of Agni
+- अंगिरसः (*aṃgirasaḥ*)—the Aṅgirasas
+- वीराः (*vīrāḥ*)—being valiant
+
+### Printed p. 563
+- विप्रं (*vipraṃ*)—that which makes known to the world
+- यज्ञस्य धाम (*yajñasya dhāma*)—that which supports the sacrifice
+- पदं (*padaṃ*)—the station called Bṛhaspati
+- दधानाः (*dadhānāḥ*)—having borne it by their rite
+- प्रथमं (*prathamaṃ*)—from the beginning
+- मनंत (*manaṃta*)—they praise
+
+##### भावार्थ (Bhāvārtha)
+
+The Aṅgirasas, sons of the shining and wise Agni, who recite true praise and meditate for the welfare of the world, being valiant, having borne by their rite the station called Bṛhaspati, which makes known to the world and supports the sacrifice, praise it from the beginning.
+
+##### English translation
+Reciting sincere praise, reflecting correctly, the Agirasas, the pious sons of the brilliant and powerful (Agni), upholding the intelligent base, the supporter of the sacrifice, praise from the beginning.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हं॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न् ।  
+> बृह॒स्पति॑रभि॒कनि॑क्रद॒द्दा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वा अ॑गायत् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हंसैः इव । सखिभिः । वावदत्भिः । अश्मन्मयानि । नहना । विअस्यन् ।  
+> बृहस्पतिः । अभिकनिक्रदत् । गाः । उश । प्र । अस्तौत् । उत । च । विद्वान् । अगायत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवसुवां हविःषु बृहस्पतॆये वाचस्पतय इत्यस्य याज्या हंसैरिवेत्येषा।
+> सूत्रितं च । बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावदद्भिः । आ. ४-११ ।
+> इति ॥
+> हंसैरिव मधुरवाद्भिः सखिभिः सखिभूतैर्वावदभ्यिरत्यंतं शब्दायमानैर्मरुद्धिरश्मन्मयान्यश्ममयानि नहना गवां बंधकान्यावरकाण्यसुराणां स्थानानि
+> व्यस्यन् विक्षिपञ्चथिलयन्नभिकनिक्रददाभिमुख्येन शब्दयन् गाः पणिभिरपहृतान्पशूनाजिहीर्षुः स बृहस्पतिर्वर्तते । यद्वा । वावदद्धिरत्यंतं स्तुवद्धिः स्तोतृभिः सह
+
+##### Gist of the bhāṣya
+
+In the offerings to the Devasuvas (the gods called Devasuvaḥ), for the oblation to बृहस्पतॆये वाचस्पतय (*bṛhaspatèye vācaspataya*) the yājyā is this Ṛk हंसैरिव (*haṃsairiva*). It is also given in the sūtra: बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावदद्भिः (*bṛhaspate prathamaṃ vāco agraṃ haṃsairiva sakhibhirvāvadadbhiḥ*) (Ā. 4-11). Explanation: Bṛhaspati, with the Maruts as friends, sounding sweetly like geese and sounding greatly (वावदद्भिः (*vāvadadbhiḥ*)), throwing open (व्यस्यन् (*vyasyan*), loosening) the stone-made (अश्मन्मयानि (*aśmanmayāni*)) fastenings (नहना (*nahanā*)), the enclosing places of the Asuras that bind the cows, and calling out (अभिकनिक्रदत् (*abhikanikradat*)) toward them, is intent on bringing back the cattle carried off by the Paṇis. Or else: with the worshippers who praise greatly he utters the speech-form of praise toward the cows.
+
+### Printed p. 564
+Moreover, प्रास्तौत् (*prāstaut*): when the rite begins, sitting with his friends at the sacrifice he begins the sāman to sing. Knowing all (विद्वान् (*vidvān*)), he became the Udgātṛ and sang (उदगायत् (*udagāyat*)); he sings to the gods, he praises.
+
+> गाः स्तोत्रलक्षणा वाचोभिकनिक्रददाभिमुख्येनोच्चारयन् । उतापि च प्रास्तौत् ।
+> कर्मणि प्रवृत्तौ यज्ञस्य सखिभिः सहासीनः साम गातुं प्रस्तौति । विद्वान् सर्वं
+> जानानः स उद्गाता भूत्वोदगायत् । देवानुद्गायति । अभिष्टौति ॥
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हंसैः इव (*haṃsaiḥ iva*)—like geese
+- वावदद्भिः (*vāvadadbhiḥ*)—sounding sweetly
+- सखिभिः (*sakhibhiḥ*)—together with the Maruts, who are friends
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- अश्मन्मयानि (*aśmanmayāni*)—made of stone
+- नहना (*nahanā*)—cow-binding places of the Asuras
+- व्यस्यन् (*vyasyan*)—loosening
+- अभिकनिक्रदत् (*abhikanikradat*)—sounding
+- गाः (*gāḥ*)—wished to free the cows
+- उत (*uta*)—and
+- प्रास्तौत् (*prāstaut*)—praised the gods
+- विद्वान् (*vidvān*)—he who knows everything
+- उद गायत् (*uda gāyat*)—praised in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+Together with the Maruts, who sound sweetly like geese and are his friends, Bṛhaspati, loosening the stone-made, cow-binding places of the Asuras and sounding aloud, wished to free the cows. Knowing everything, he praised the gods in song.
+
+##### English translation
+With his friends (the Maruts) clamouring like geese, throwing open the (Asuras') cattle-folds made of stone, Brihaspati calling aloud (desires to carry off) the cows; knowing all things he praises (the gods), and chants (their laudation).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the homa performed to the eight deities called Devasuvas, when the oblation offered to the deity बृहस्पतये वाचस्पतये (*bṛhaspataye vācaspataye*) is offered, this Ṛk हंसैरिव (*haṃsairiva*) is to be recited as the yājyā mantra; this is set out by the Āśvalāyana Śrauta Sūtra, in the sūtra बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावदद्भिः (*bṛhaspate prathamaṃ vāco agraṃ haṃsairiva sakhibhirvāvadadbhiḥ*) (Ā. 4-11).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒वो द्वाभ्यां॑ प॒र एक॑या॒ गा गुहा॒ तिष्ठं॑ती॒रनृ॑तस्य॒ सेत् ॑।  
+> बृह॒स्पति॒स्तम॑सि॒ ज्योति॑रि॒च्छन्नुदु॒स्रा आक॒र्वि हिति॒स्र आवः॑ ॥ ४ ॥
+
+### Printed p. 565
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अवः । द्वाभ्यां । परः । एकया । गाः । गुहा । तिष्ठंतीः । अनृतस्य । सेता ।  
+> बृहस्पतिः । तमसि । ज्योतिः । इच्छन् । उत् । उस्राः । आ । अकः । वि । हि । तिस्रः ।  
+> आवरित्यावः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पणयो गा आहृत्य त्रिपु स्थानेषु निदधुः । अवोऽवस्तात्स्थिता अनृतस्य तमसः
+> सेत्वा स्थाने गुहा गुहायां तिष्ठंतीर्गा द्वाभ्यां स्थानाभ्यामुदाजत् । ततः परः
+> परस्तादवस्थिता गा एकयैकेन स्थानेनोदगमयत् । तदेवाह । बृहस्पतिस्तस्मिंस्तमसि
+> ज्योतिः कर्तुमिच्छंस्तत्र स्थिता उस्रा गा उदाकः । उदकार्षित् । प्रादुर्भूता
+> अकार्षित् । इत्थमयं तिस्रोऽसुराणां द्वारो न्यावः । विवृतवान्खलु ॥ वृणोतेर्लुजि मंत्रे घसेति चेर्लुक् । बहुलं छंदसीत्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+The Paṇis, having carried off the cows, placed them in three places. The cows standing below (अवः (*avaḥ*)), in a cave in a place of darkness (अनृतस्य । सेता (*anṛtasya | setā*)), he led out by two places; those standing above (परः (*paraḥ*)) he brought out by one place (एकया (*ekayā*)). Bṛhaspati, wishing to make light in that darkness, brought forth (उदाकः (*udākaḥ*)) the cows (उस्राः (*usrāḥ*)) standing there, made them appear. Thus he opened (न्यावः (*nyāvaḥ*)) the three doors of the Asuras.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनृतस्य (*anṛtasya*)—dark
+- सेत् (*set*)—in the place
+- गुहा (*guhā*)—in the cave
+- अवः (*avaḥ*)—that were in the lower region
+- गाः (*gāḥ*)—the cows
+- द्वाभ्यां (*dvābhyāṃ*)—he drove out by two places (ways)
+- परः (*paraḥ*)—the cows that were in the upper place
+- एकया (*ekayā*)—he drove out by one way
+- बृहस्पतिः (*bṛhaspatiḥ*)—Bṛhaspati
+- तमसि (*tamasi*)—in the darkness
+- ज्योतिः (*jyotiḥ*)—producing light
+- इच्छन् (*icchan*)—wishing to free the cows
+- उस्राः (*usrāḥ*)—the cows
+- उदाकः (*udākaḥ*)—brought out
+- तिस्रः (*tisraḥ*)—the three doors of the Asuras
+- व्यावः (*vyāvaḥ*)—split open
+
+##### भावार्थ (Bhāvārtha)
+
+The cows that were in the lower region, in a cave in a place covered with darkness, he drove out by two ways; the cows that were in the upper place he drove out by one way. Bṛhaspati, producing light in the darkness and wishing to free the cows, brought the cows out. He split open the three doors of the Asuras' pen.
+
+##### English translation
+Brihaspati purposing to bring light into the darkness drove out the cows standing in the cave in the place of darkness below by two (ways), and those above by one (way) ; he opened the three (doors of the Asuras).
+
 ---
 
-**Progress note:** Done through printed p. 559. pp. 554-559 (batch API)
+**Progress note:** Done through printed p. 565. pp. 560-565 (batch API)
