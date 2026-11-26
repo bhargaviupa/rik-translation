@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """One runner for the repair of a scan-made volume's `[?]` marks (shared tool; Vol 25/26 first). Wraps the scan_* scripts in their order; reads volN/scan_config.json.
 
-  python3 tools/rv/scan_repair.py init VOL --pdf PDF --first F --last L --offset O [--base B] [--first-printed P] [--body-from N] [--start M.S] [--tail PAGEFILE:PDF] [--src NAME]
+  python3 tools/rv/scan_repair.py init VOL --pdf PDF --first F --last L --offset O [--base B] [--first-printed P] [--body-from N] [--start M.S] [--tail PAGEFILE:PDF] [--raw PATH] [--final PATH] (config keys splice_into / splice_start: a part of a volume replaces its own section inside the volume's full file)
         writes volN/scan_config.json (F..L = page-file numbers pNNNN; O = page-file number minus printed page; B = page-file number minus PDF page, 0 if equal)
   python3 tools/rv/scan_repair.py status VOL            counts of the open `[?]` by kind (head / number / word)
   python3 tools/rv/scan_repair.py step1 VOL             free steps, in order: OCR of every page (Tesseract) → questions.tsv → words against the Wikisource text (scan_wordfix --apply)
@@ -10,7 +10,7 @@
                                                         volN/review/crops_read/ and the Agent calls to send (one reader per ~6 mosaics, pass A, then pass B)
   python3 tools/rv/scan_repair.py vote VOL              votes over the answer files (numbers: A, B, OCR; words: WA, WB) → apply → questions.tsv   (DO NOT rebuild questions.tsv between the crops and the vote:
                                                         the crop ids must still match; scan_questions ids are stable now, but check `status`)
-  python3 tools/rv/scan_repair.py rebuild VOL           assemble the page files into the volume's md and fill the Sanskrit blocks from the Wikisource index
+  python3 tools/rv/scan_repair.py rebuild VOL           assemble the page files (raw, volN/work/rig_N_raw.md, not committed) and fill the Sanskrit blocks from the Wikisource index → the final file volN/html/rig_N.md (+ volN/work/pages_map.tsv)
 See docs/SCAN_PIPELINE.md for the whole process and the lessons (what a first transcription must do so that none of this is needed)."""
 import os, sys, json, subprocess, re, glob, shutil
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')); T = os.path.dirname(os.path.abspath(__file__))
@@ -32,7 +32,7 @@ def main():
     a = sys.argv[1:]; cmd, v = a[0], a[1]
     if cmd == 'init':
         c = {'pdf': opt(a, '--pdf'), 'first': int(opt(a, '--first')), 'last': int(opt(a, '--last')), 'offset': int(opt(a, '--offset')), 'base': int(opt(a, '--base', 0)),
-             'first_printed': int(opt(a, '--first-printed', 1)), 'body_from': opt(a, '--body-from'), 'start': opt(a, '--start'), 'tail': opt(a, '--tail'), 'src': opt(a, '--src')}
+             'first_printed': int(opt(a, '--first-printed', 1)), 'body_from': opt(a, '--body-from'), 'start': opt(a, '--start'), 'tail': opt(a, '--tail'), 'raw': opt(a, '--raw'), 'final': opt(a, '--final')}
         json.dump(c, open(cfgp(v), 'w'), indent=1); print('written', cfgp(v)); return
     c = load(v)
     if cmd == 'status': print(qcount(v)); return
@@ -68,9 +68,25 @@ def main():
         if os.path.exists(f): shutil.move(f, os.path.join(rr, 'reread', 'done', 'ans_votes_numbers.txt'))
         print('words: run `scan_vote.py VOL --words --write` after the WA/WB files exist, then apply; certain/likely rules are in docs/SCAN_PIPELINE.md'); questions(v, c); print(qcount(v)); return
     if cmd == 'rebuild':
-        asm = [f'{T}/scan_assemble.py', v, c['first'], c['last'], '--first-printed', c['first_printed']] + (['--body-from', c['body_from']] if c['body_from'] else []) + (['--out', c['src']] if c['src'] else [])
+        raw = c.get('raw') or f'vol{v}/work/rig_{v}_raw.md'; final = c.get('final') or f'vol{v}/html/rig_{v}.md'   # raw (blocks as markers) stays in work/ (not committed); the final file is the filled text
+        os.makedirs(os.path.join(ROOT, os.path.dirname(raw)), exist_ok=True)
+        asm = [f'{T}/scan_assemble.py', v, c['first'], c['last'], '--first-printed', c['first_printed']] + (['--body-from', c['body_from']] if c['body_from'] else []) + ['--out', raw]
         run(*asm)
-        fill = [f'{T}/ws_fill.py', v] + (['--src', c['src'], '--out', c['src'].replace('.md', '.filled.md')] if c['src'] else []) + (['--start', c['start']] if c['start'] else []) + ['--write']
-        run(*fill); return
+        fill = [f'{T}/ws_fill.py', v, '--src', raw, '--out', final] + (['--start', c['start']] if c['start'] else []) + ['--write']
+        run(*fill)
+        # the Wikisource bhāṣya of the last Ṛk of an aṣṭaka ends with the colophon that the print also carries after the English: keep the printed one
+        f = os.path.join(ROOT, final); L = open(f, encoding='utf8').read().split('\n')
+        i = next((k for k, l in enumerate(L) if l.startswith('ವೇದಾರ್ಥಸ್ಯ ಪ್ರಕಾಶೇನ') and k + 3 < len(L) and L[k + 3].startswith('ಸಮಾಪ್ತಂ ಚ') and k + 6 < len(L) and 'ಇತಿ ಶ್ರೀಮದ್' in L[k + 2]), None)
+        if i is not None:
+            printed = any(l.startswith('ವೇದಾರ್ಥಸ್ಯ ಪ್ರಕಾಶೇನ') for l in L[i + 4:])
+            if printed: del L[i:i + 4]; open(f, 'w', encoding='utf8').write('\n'.join(L)); print('removed the duplicate Wikisource colophon (the printed one stays)')
+        print('final file:', final)
+        if c.get('splice_into'):   # the volume's one full file was made from machine-read pages + this scan part: replace that part inside it
+            tgt = os.path.join(ROOT, c['splice_into']); T2 = open(tgt, encoding='utf8').read().split('\n'); part = open(f, encoding='utf8').read().rstrip('\n').split('\n')
+            if part and part[0].startswith('<!-- page'): part = part[1:]
+            k = next((i for i, l in enumerate(T2) if l.startswith(c['splice_start'])), None)
+            if k is None: sys.exit('splice_start not found in ' + c['splice_into'])
+            open(tgt, 'w', encoding='utf8').write('\n'.join(T2[:k] + part) + '\n'); print(f'spliced {len(part)} lines into {c["splice_into"]} from line {k + 1}')
+        return
     sys.exit(__doc__)
 main()

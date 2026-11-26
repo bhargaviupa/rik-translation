@@ -1,0 +1,385 @@
+# Vol 26: notes of tools/rv/kn_full.py
+
+Head anomalies (line, number read, number used, head):
+
+- (2465, 44, 45, '44 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ಮಂ. ೯. ಅ. ೨. ಸೂ. ೪೪')
+- (6816, 156, 157, '೧೫೬ ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯. ಅ. ೨. ಸೂ. ೫೫')
+- (28060, 795, 775, ': - ಆ ೪. ವ. ೧೩. ] ಭಗ್ವೇದಸಂಹಿತಾ 795')
+- (29061, 300, 800, '300 ಸಾಯಣಭಾಷ್ಯಸಹಿತಾ [ ಮಂ. ೯, ಅ. ೬. ಸೂ. ೯೭')
+- (3792, 76, 76, 'skip from 74 (page without a running head, merged into the page before?)')
+- (5008, 106, 106, 'skip from 104 (page without a running head, merged into the page before?)')
+- (6466, 146, 146, 'skip from 144 (page without a running head, merged into the page before?)')
+- (11345, 281, 281, 'skip from 279 (page without a running head, merged into the page before?)')
+- (13708, 352, 352, 'skip from 350 (page without a running head, merged into the page before?)')
+- (17460, 472, 472, 'skip from 470 (page without a running head, merged into the page before?)')
+- (17639, 478, 478, 'skip from 476 (page without a running head, merged into the page before?)')
+- (21382, 596, 596, 'skip from 594 (page without a running head, merged into the page before?)')
+- (22076, 618, 618, 'skip from 616 (page without a running head, merged into the page before?)')
+- (23024, 646, 646, 'skip from 644 (page without a running head, merged into the page before?)')
+- (23180, 650, 650, 'skip from 648 (page without a running head, merged into the page before?)')
+- (23497, 658, 658, 'skip from 656 (page without a running head, merged into the page before?)')
+- (26237, 730, 730, 'skip from 728 (page without a running head, merged into the page before?)')
+- (27088, 751, 751, 'skip from 749 (page without a running head, merged into the page before?)')
+- (28346, 782, 782, 'skip from 780 (page without a running head, merged into the page before?)')
+- (29431, 810, 810, 'skip from 808 (page without a running head, merged into the page before?)')
+- (29483, 813, 813, 'skip from 811 (page without a running head, merged into the page before?)')
+
+Picture blocks (<figure>, OCR text of a picture) replaced by one `[figure: file]` line:
+
+
+
+Scan-page numbering (--scan-pages):
+
+
+
+Script notes:
+
+- p. 1: Devanagari letters rewritten as Kannada in: ಓಂ
+- p. 99: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಈಗ ಋಗ್ವೇದ ಸಂಹಿತೆಯ ಏಳ…)
+- p. 104: garbled label "॥ ಪ್ರತಿಸಪರ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 104: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಸ ಪವಸ್ವ ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 108: garbled label "Eng'ish Translation." -> English Translation.
+- p. 110: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಅಸೃಗ್ರನ್ ಎಂಬ ಈ ಸೂಕ್ತವ…)
+- p. 111: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 112: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 116: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಅಯಾ ಸೋಮಃ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 121: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ತಂ ತ್ವಾ ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 126: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪವಸ್ವ ಎಂಬ ಈ ಸೂಕ್ತವು ಎ…)
+- p. 127: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 130: garbled label "॥ ಪ್ರತಿಸಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 131: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಉತ್ತೇ ಎಂಬ ಈ ಸೂಕ್ತವು …)
+- p. 136: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಅಧ್ವರ್ಯೋ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 140: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪರಿ, ದ್ಯುಕ್ಷಃ ಎಂಬ ಈ ಸ…)
+- p. 144: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಉತ್ತೇ ಎಂಬ ಈ ಸೂಕ್ತವು ಎ…)
+- p. 149: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 153: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಯವಂಯವಂ ಎಂಬ ಈ ಸೂಕ್ತವು …)
+- p. 154: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 157: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 158: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 161: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಪ್ರ ತೇ ಧಾರಾಃ ಎಂಬ ಈ ಸ…)
+- p. 161: garbled label "XXVI 11" -> ಪದಪಾಠಃ
+- p. 162: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 165: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ತರತ್ಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು …)
+- p. 168: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 169: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪವಸ್ವ ಎಂಬ ಈ ಸೂಕ್ತವು ಎ…)
+- p. 173: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪ್ರ ಗಾಯತ್ರೇಣ ಎಂಬ ಈ ಸೂ…)
+- p. 177: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಋಗ್ವೇದ ಸಂಹಿತೆಯ ಒಂಭತ್ತ…)
+- p. 180: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 184: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 186: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 187: garbled label "English Transiation" -> English Translation.
+- p. 188: garbled label "॥ ವ್ರತಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 188: garbled label "English Translatioa" -> English Translation.
+- p. 191: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 192: garbled label "English Trauslation" -> English Translation.
+- p. 192: garbled label "॥ ಪ್ರತಿವಾರ್ಘ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 203: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಏತೇ ಅಸೃಗ್ರಂ ಎಂಬ ಈ ಸೂ…)
+- p. 206: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 209: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 213: garbled label "English Trauslation" -> English Translation.
+- p. 213: picture line [figure: vol26/html/figures/fig_line09713.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 215: picture line [figure: vol26/html/figures/fig_line09787.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 220: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 225: garbled label "XXVI 15" -> ಪದಪಾಠಃ
+- p. 226: garbled label "English Translatioa" -> English Translation.
+- p. 228: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಆ ಪವಸ್ವ—ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 229: garbled label "1, ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 230: garbled label "॥ ವ್ರತಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 231: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 233: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 234: garbled label "॥ ಸ,ತಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 239: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 241: garbled label "XXVI 16" -> ಪದಪಾಠಃ
+- p. 247: garbled label "॥ ವ್ರತಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 248: garbled label "English Translatioa" -> English Translation.
+- p. 249: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 253: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ವೃಷಾ ಸೋಮ—ಎಂಬ ಈ ಸೂಕ್ತವ…)
+- p. 258: garbled label "॥ ಕ್ರಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 261: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 262: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 263: garbled label "॥ ಪ್ರತಿ ಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 263: garbled label "i। ಪ್ರತಿಸಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 266: garbled label "॥ ಪ್ರತಿವಾರ್ಘ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 269: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 271: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 273: garbled label "XXVI 18" -> ಪದಪಾಠಃ
+- p. 275: garbled label ".1 ಪ್ರತಿಪಾದನೆ :" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 279: Devanagari letters rewritten as Kannada in: ಓಂ
+- p. 279: garbled label ". ಸಾಯಣಭಾಷ್ಯ ಸಂಹಿತಾ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 279: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಹಿನ್ವಂತಿ ಎಂಬ ಈ ಸೂಕ್ತವ…)
+- p. 285: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 289: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 293: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 293: picture line [figure: vol26/html/figures/fig_line13131.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 297: garbled label "॥ ಪ್ರತಿಸಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 301: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 302: garbled label "। ಭಾಷಾರ್ಥ ।" -> ಭಾವಾರ್ಥ
+- p. 305: garbled label "XXVI 20" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 309: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಪವಸ್ವ ಎಂಬ ಈ ಸೂಕ್ತವು …)
+- p. 311: picture line [figure: vol26/html/figures/fig_line13891.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 317: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 320: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 323: picture line [figure: vol26/html/figures/fig_line14414.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 325: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 343: garbled label "English Translator" -> English Translation.
+- p. 346: garbled label "॥ ಸಂಹಿತಃಪಾಠಃ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 346: picture line [figure: vol26/html/figures/fig_line15390.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 348: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 350: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 353: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 353: garbled label "XXVI 23" -> ಪದಪಾಠಃ
+- p. 356: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 360: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 374: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಒಂಭತ್ತನೆಯ ಮಂಡಲದ ನಾಲ್ಕ…)
+- p. 375: picture line [figure: vol26/html/figures/fig_line16641.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 377: garbled label "॥ ಪತಿಸಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 378: picture line [figure: vol26/html/figures/fig_line00006.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 379: picture line [figure: vol26/html/figures/fig_line00059.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 382: picture line [figure: vol26/html/figures/fig_line00164.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 383: garbled label "English Translaton" -> English Translation.
+- p. 383: picture line [figure: vol26/html/figures/fig_line00214.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 384: garbled label "॥ ಭಾಷಾರ್ಥ ।" -> ಭಾವಾರ್ಥ
+- p. 386: picture line [figure: vol26/html/figures/fig_line00326.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 387: picture line [figure: vol26/html/figures/fig_line00376.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 388: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಇಷುರ್ನ ಎಂಬ ಈ ಸೂಕ್ತವು …)
+- p. 389: picture line [figure: vol26/html/figures/fig_line00451.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 390: picture line [figure: vol26/html/figures/fig_line00504.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 392: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 393: picture line [figure: vol26/html/figures/fig_line00617.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 395: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 398: garbled label "॥ ಸತಿಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 400: picture line [figure: vol26/html/figures/fig_line00885.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 403: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ತ್ರಿರಸ್ಮೈ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 407: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 407: picture line [figure: vol26/html/figures/fig_line01168.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 408: picture line [figure: vol26/html/figures/fig_line01213.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 411: picture line [figure: vol26/html/figures/fig_line01319.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 412: picture line [figure: vol26/html/figures/fig_line01368.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 415: garbled label "English Translator" -> English Translation.
+- p. 416: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು-ಆ ದಕ್ಷಿಣಾ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 417: picture line [figure: vol26/html/figures/fig_line01559.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 421: picture line [figure: vol26/html/figures/fig_line01712.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 424: picture line [figure: vol26/html/figures/fig_line01817.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 427: garbled label "॥ ಸಂಹಿತಾಸಾರಃ !" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 427: picture line [figure: vol26/html/figures/fig_line01941.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 430: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಹರಿಂ ಮೃಜಂತಿ ಎಂಬ ಈ ಸೂಕ…)
+- p. 433: picture line [figure: vol26/html/figures/fig_line02173.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 437: picture line [figure: vol26/html/figures/fig_line02331.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 438: picture line [figure: vol26/html/figures/fig_line02380.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 441: picture line [figure: vol26/html/figures/fig_line02493.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 442: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಸ್ರಕ್ವೇ ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 447: garbled label "English Translator" -> English Translation.
+- p. 449: picture line [figure: vol26/html/figures/fig_line02804.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 450: picture line [figure: vol26/html/figures/fig_line02858.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 453: picture line [figure: vol26/html/figures/fig_line02965.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 456: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಶಿಶುರ್ನ ಎಂಬ ಸೂಕ್ತವು ನ…)
+- p. 459: picture line [figure: vol26/html/figures/fig_line03199.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 467: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 467: picture line [figure: vol26/html/figures/fig_line03526.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 468: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಅಭಿ ಪ್ರಿಯಾಣಿ ಎಂಬ ಸೂಕ…)
+- p. 469: picture line [figure: vol26/html/figures/fig_line03598.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 470: picture line [figure: vol26/html/figures/fig_line03646.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 470: picture line [figure: vol26/html/figures/fig_line03694.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 472: garbled label "। ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 473: picture line [figure: vol26/html/figures/fig_line03750.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 474: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 476: Devanagari letters rewritten as Kannada in: ಓಂ
+- p. 476: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಧರ್ತಾ ದಿವಃ ಎಂಬ ಈ ಸೂಕ…)
+- p. 478: picture line [figure: vol26/html/figures/fig_line03926.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 479: picture line [figure: vol26/html/figures/fig_line03973.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 482: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 483: picture line [figure: vol26/html/figures/fig_line04120.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 484: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಏಷ ಪ್ರ ಕೊಶೇ ಎಂಬ ಈ ಸೂ…)
+- p. 486: picture line [figure: vol26/html/figures/fig_line04245.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 488: garbled label "English Translator" -> English Translation.
+- p. 491: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪ್ರ ರಾಜಾ ವಾಚಂ ಎಂಬ ಈ ಸ…)
+- p. 493: picture line [figure: vol26/html/figures/fig_line04515.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 496: label ಸಂಹಿತಾಪಾಠಃ missing before the verse 78.5: inserted
+- p. 496: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 498: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಅಚೋದಸಃ ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 500: garbled label "॥ ಪ್ರತಿಸಮಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 504: garbled label "!! ಪ್ರತಿಪದಾರ್ಥ !:" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 505: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಸೋಮಸ್ಯ ಧಾರಾ ಎಂಬ ಈ ಸೂಕ…)
+- p. 506: picture line [figure: vol26/html/figures/fig_line05044.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 509: picture line [figure: vol26/html/figures/fig_line05145.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 510: picture line [figure: vol26/html/figures/fig_line05192.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 511: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪ್ರ ಸೋಮಸ್ಯ ಎಂಬ ಈ ಸೂಕ್…)
+- p. 512: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 513: picture line [figure: vol26/html/figures/fig_line05311.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 514: garbled label "॥ ಶಾಯಣಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 514: picture line [figure: vol26/html/figures/fig_line05357.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 516: garbled label "॥ ಪ್ರಪದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 517: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಅಸಾವಿ ಸೋಮಃ ಎಂಬ ಈ ಸೂಕ್…)
+- p. 518: picture line [figure: vol26/html/figures/fig_line05521.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 519: picture line [figure: vol26/html/figures/fig_line05572.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 520: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 522: picture line [figure: vol26/html/figures/fig_line05669.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 523: picture line [figure: vol26/html/figures/fig_line05720.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 524: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪವಿತ್ರಂ ತೇ ಎಂಬ ಈ ಸೂಕ್…)
+- p. 526: picture line [figure: vol26/html/figures/fig_line05838.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 527: picture line [figure: vol26/html/figures/fig_line05884.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 528: garbled label "ವಿಶೇಷವಿವರಗಳು" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 531: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪವಸ್ವ ದೇವಮಾದನಃ ಎಂಬ ಈ …)
+- p. 532: picture line [figure: vol26/html/figures/fig_line06087.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 533: picture line [figure: vol26/html/figures/fig_line06131.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 537: picture line [figure: vol26/html/figures/fig_line06277.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 538: garbled label "li ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 538: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಇಂದ್ರಾಯ ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 539: picture line [figure: vol26/html/figures/fig_line06357.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 540: picture line [figure: vol26/html/figures/fig_line06398.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 541: garbled label "English Translator" -> English Translation.
+- p. 541: picture line [figure: vol26/html/figures/fig_line06446.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 542: garbled label "1 ಭಾನಾರ್ಥ 1" -> ಭಾವಾರ್ಥ
+- p. 546: picture line [figure: vol26/html/figures/fig_line06633.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 549: picture line [figure: vol26/html/figures/fig_line06765.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 553: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಋಗ್ವೇದಸಂಹಿತೆಯ ಒಂಭತ್ತನ…)
+- p. 554: picture line [figure: vol26/html/figures/fig_line06955.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 555: picture line [figure: vol26/html/figures/fig_line07002.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 557: garbled label "ದ್ರಿಯಾಯ ತದರ್ಥಂ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 559: picture line [figure: vol26/html/figures/fig_line07140.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 561: picture line [figure: vol26/html/figures/fig_line07235.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 562: picture line [figure: vol26/html/figures/fig_line07279.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 566: picture line [figure: vol26/html/figures/fig_line07431.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 570: garbled label "' ಪ್ರತಿಪಾರ್ಶ್ವ," -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 571: picture line [figure: vol26/html/figures/fig_line07628.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 572: picture line [figure: vol26/html/figures/fig_line07672.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 573: garbled label "। ಪ್ರತಿಪವಾರ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 577: picture line [figure: vol26/html/figures/fig_line07866.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 578: picture line [figure: vol26/html/figures/fig_line07913.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 582: garbled label "!! ಪ್ರತಿಪದಾರ್ಥ !!" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 584: picture line [figure: vol26/html/figures/fig_line08147.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 591: garbled label "English Translator" -> English Translation.
+- p. 593: picture line [figure: vol26/html/figures/fig_line08523.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 594: picture line [figure: vol26/html/figures/fig_line08568.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 599: garbled label "॥ ಸಂಹಿತಾಪಾರ್ಣ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 599: picture line [figure: vol26/html/figures/fig_line08760.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 604: picture line [figure: vol26/html/figures/fig_line08966.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 609: picture line [figure: vol26/html/figures/fig_line09156.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 610: picture line [figure: vol26/html/figures/fig_line09201.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 611: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪ್ರ ತು ದ್ರವ ಎಂಬ ಈ ಸೂಕ…)
+- p. 615: picture line [figure: vol26/html/figures/fig_line09397.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 616: garbled label "। ಭಾವಾರ್ಥ ।'" -> ಭಾವಾರ್ಥ
+- p. 617: running head not recognised by the page splitter ("ಆ. ೭. ಅ. ೩. ವ. ೨೩.] ಋಗ್ವೇದಸಂಹಿತಾ -617"): page marker inserted by script (add "### Printed p. 617" in en.md)
+- p. 616: picture line [figure: vol26/html/figures/fig_line09439.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 621: picture line [figure: vol26/html/figures/fig_line09622.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 622: garbled label "। ಭಾನಾರ್ಥ ।!" -> ಭಾವಾರ್ಥ
+- p. 622: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಅಯಂ ಸೋಮಃ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 624: garbled label "॥ ಭಾವಾರ್ಥ । ೧" -> ಭಾವಾರ್ಥ
+- p. 625: garbled label "॥ ಸಂಹಿತಾಪಾಠಃ ।!" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 625: picture line [figure: vol26/html/figures/fig_line09784.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 627: picture line [figure: vol26/html/figures/fig_line09878.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 628: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 629: garbled label "॥ ಭವಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 630: picture line [figure: vol26/html/figures/fig_line10012.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 631: garbled label "English Translator" -> English Translation.
+- p. 631: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಪ್ರೋ ಸ್ಯ ವಹ್ನಿಂ ಎಂಬ …)
+- p. 634: garbled label "Eng'ish Translation." -> English Translation.
+- p. 640: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಪ್ರ ಹಿನ್ವಾ ನಃ ಎಂಬ ಈ …)
+- p. 641: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 642: picture line [figure: vol26/html/figures/fig_line10471.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 643: garbled label "॥ ಸಹಪಾರ್ತ ॥" -> ಪದಪಾಠಃ
+- p. 644: garbled label "॥ ಸಂಹಿತಾಪಾರ್ತೇ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 644: Devanagari letters rewritten as Kannada in: ಓಂ
+- p. 644: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಋಗ್ವೇದಸಂಹಿತೆಯ ಒಂಭತ್ತ…)
+- p. 644: picture line [figure: vol26/html/figures/fig_line10558.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 647: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 648: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಋಗ್ವೇದಸಂಹಿತೆಯ ಒಂಭತ್ತ…)
+- p. 652: picture line [figure: vol26/html/figures/fig_line10882.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 655: garbled label "ಕಬರನು ।" before the verse 91.5 -> ಸಂಹಿತಾಪಾಠಃ
+- p. 655: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 655: garbled label "ದಃಖಃ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 655: garbled label "। ಪ್ರಸಿದ್ಧ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 656: garbled label "English Translator" -> English Translation.
+- p. 656: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪರಿ ಸುವಾನಃ ಎಂಬ ಈ ಸೂಕ್…)
+- p. 674: garbled label "॥ ಸಂಹಿತಾಪಾರ್ಕ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 674: picture line [figure: vol26/html/figures/fig_line11808.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 679: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು— ಸಾಕಮುಕ್ಷಃ ಎಂಬ ಈ ಸೂಕ್…)
+- p. 679: picture line [figure: vol26/html/figures/fig_line11992.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 680: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 682: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 685: garbled label "॥ ಪ್ರತಿಪದಾರ್ಥ ! ।" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 687: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಅಧಿ ಯತ್ ಎಂಬ ಈ ಸೂಕ್ತವು…)
+- p. 689: picture line [figure: vol26/html/figures/fig_line12399.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 690: picture line [figure: vol26/html/figures/fig_line12450.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 691: picture line [figure: vol26/html/figures/fig_line12495.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 692: garbled label "॥ ಪ್ರತಿಸಪಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 694: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಕನಿಕ್ರಂತಿ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 697: garbled label "॥ ಸುಹಿತಾಪಾತಃ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 697: picture line [figure: vol26/html/figures/fig_line12714.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 701: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಪ್ರ ಸೇನಾನೀಃ ಎಂಬ ಈ ಸೂಕ…)
+- p. 703: garbled label "" ಸಾಯಣಭಾಷ್ಯ "" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 706: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 706: garbled label "॥ ಭಾಷಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 707: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 707: picture line [figure: vol26/html/figures/fig_line13141.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 712: garbled label "॥ ವಿಶೇಷವಿವರಣೆಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 712: garbled label "॥ ಪದಸಾತೀ ॥" -> ಪದಪಾಠಃ
+- p. 715: picture line [figure: vol26/html/figures/fig_line13451.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 718: garbled label "॥ ಸಂವಾದ ॥" before the verse 96.11 -> ಸಂಹಿತಾಪಾಠಃ
+- p. 718: garbled label "॥ ಸಾಯುಭಾಷ್ಯಂ ।" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 721: picture line [figure: vol26/html/figures/fig_line13721.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 725: garbled label "॥ ಪವಪಾರ್ತೇ ॥" -> ಪದಪಾಠಃ
+- p. 725: picture line [figure: vol26/html/figures/fig_line13876.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 727: garbled label "! । ಪದಪಾರ್ಶ್ವ ॥" -> ಪದಪಾಠಃ
+- p. 727: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 728: garbled label "॥ ಭಾನುವಾರ ॥" -> ಭಾವಾರ್ಥ
+- p. 732: garbled label "(ಸಾಯಣಭಾಷ್ಯ ಋ. ಸಂ. ೧-೧೧೪-೬)" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 736: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 739: garbled label "। ಸದಪಾತಃ" -> ಪದಪಾಠಃ
+- p. 739: garbled label "ಸಾಯುಣಭಾಸ್ಕರ" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 739: garbled label "॥ ಪ್ರತಿಪದಾರ್ಥ !," -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 740: garbled label "i ಸಂಹಿತಾಪಾಠಃ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 740: garbled label "॥ ಪದಸಾಟ ॥" -> ಪದಪಾಠಃ
+- p. 747: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಋಗ್ವೇದಸಂಹಿತೆಯ ಒಂಭತ್ತನ…)
+- p. 749: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 755: picture line [figure: vol26/html/figures/fig_line15092.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 757: garbled label "॥ ಪವನಾಟಃ ॥" -> ಪದಪಾಠಃ
+- p. 761: garbled label "1' ಪ್ರತಿಪದಾರ್ಥ !!" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 767: garbled label "॥ ಸಂಹಿತಾಸಾತಕೆ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 767: garbled label ", । ಪಹಪಾಲಕಿ ।" -> ಪದಪಾಠಃ
+- p. 768: picture line [figure: vol26/html/figures/fig_line15638.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 769: garbled label "ಪ್ರತಿಪಾದನೆ" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 769: garbled label "। ಭಾಷಾರ್ಥ ।" -> ಭಾವಾರ್ಥ
+- p. 773: garbled label "॥ ಸಪವಾಟೆ ॥" -> ಪದಪಾಠಃ
+- p. 773: garbled label "1. ಸಾಯಣಭಾಷ್ಯಂ !।" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 774: garbled label "॥ ಪ್ರತಿದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 774: garbled label "English Translation-" -> English Translation.
+- p. 775: Devanagari letters rewritten as Kannada in: ॥ ಶ್ರೀಗಣೇಶಾಯ ನಮಃ ॥
+- p. 775: garbled label "॥ ಶ್ರೀಗಣೇಶಾಯ ನಮಃ ॥" -> ಪದಪಾಠಃ
+- p. 775: garbled label "ಬಯಲು:" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 776: garbled label "॥ ಹದಪಾಠ ॥" -> ಪದಪಾಠಃ
+- p. 777: picture line [figure: vol26/html/figures/fig_line16008.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 778: garbled label "॥ ಪ್ರತಿಸದಾರ್ಥ ॥" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 779: garbled label "॥ ಪ್ರತಿಪದಾರ್ಥ 1" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 780: garbled label "॥ ಪವನಾಟಕೆ ॥" -> ಪದಪಾಠಃ
+- p. 780: garbled label "ಭವಾರ್ಥ" -> ಭಾವಾರ್ಥ
+- p. 780: garbled label "। ಸಾಯುಜಭಾಷ್ಯಂ ॥" -> ಸಾಯಣಭಾಷ್ಯಂ
+- p. 780: picture line [figure: vol26/html/figures/fig_line16146.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 783: garbled label "ಸಹಿತಾಶಃ ॥" before the verse 97.19 -> ಸಂಹಿತಾಪಾಠಃ
+- p. 783: garbled label "॥ ಪದಸಾಹತ್ಯಃ ॥" -> ಪದಪಾಠಃ
+- p. 784: picture line [figure: vol26/html/figures/fig_line16287.jpg] dropped by script: the supplied text has the verse block / sūkta head right after it (or the picture is an ornament)
+- p. 788: garbled label "॥ ಭಾಮಾರ್ಥ ॥" -> ಭಾವಾರ್ಥ
+- p. 793: garbled label "ಕನ್ನಡಕ್ಕೆ:" -> ಪದಪಾಠಃ
+- p. 793: garbled label "1। ಪ್ರತಿಪದಾರ್ಥ .1" -> ಪ್ರತಿಪದಾರ್ಥ
+- p. 794: garbled label "॥ ಹರಿಹರ ॥" -> ಪದಪಾಠಃ
+- p. 798: garbled label "॥ ವಿಶೇಷವಿಸಯಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 799: garbled label "1, ಸಂಹಿತಾಪಾತೇ ।" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 803: garbled label "! ಸಂಹಿತಾಪಾರ್ತೇ ॥" -> ಸಂಹಿತಾಪಾಠಃ
+- p. 803: garbled label "॥ ಕಸಕೋಟೆ ॥" -> ಪದಪಾಠಃ
+- p. 805: garbled label "॥ ವಿಶೇಷವಿವರಗಳು ॥" -> ವಿಶೇಷವಿಷಯಗಳು
+- p. 865: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಅಭಿ ನಃ ಎಂಬ ಈ ಸೂಕ್ತವು …)
+- p. 865: garbled label "XXVI 55" -> ಪದಪಾಠಃ
+- p. 877: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಆ ಹರ್ಯತಾಯೆ ಎಂಬ ಈ ಸೂಕ್…)
+- p. 881: label ಸಂಹಿತಾಪಾಠಃ missing before the verse 99.4: inserted
+- p. 882: label ಸಂಹಿತಾಪಾಠಃ missing before the verse 99.5: inserted
+- p. 882: label English Translation missing: inserted before the Latin text
+- p. 883: garbled label "English Translatiou[?]." -> English Translation.
+- p. 884: garbled label "English Translatiou[?]." -> English Translation.
+- p. 885: Kannada Anuvāda after the bhāṣya: written as ordinary text, not as a block (ಅನುವಾದವು—ಅಭೀ ನವಂತೇ ಎಂಬ ಈ ಸೂಕ್ತ…)
+- p. 888: label ಸಂಹಿತಾಪಾಠಃ missing before the verse 100.3: inserted
+- p. 888: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 888: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 889: label ಸಂಹಿತಾಪಾಠಃ missing before the verse 100.4: inserted
+- p. 889: label ಪದಪಾಠಃ missing in the supplied text: inserted
+- p. 889: label ಸಾಯಣಭಾಷ್ಯಂ missing in the supplied text: inserted
+- p. 890: label ಸಂಹಿತಾಪಾಠಃ missing before the verse 100.6: inserted

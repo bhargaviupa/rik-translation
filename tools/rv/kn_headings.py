@@ -46,6 +46,8 @@ full = [x for x in sl if x[1] is not None]
 if len(full) == len(suktas): sl = full                 # every sūkta has its full line (Vols 15, 16): the title lines are not needed
 labs = [i for i, l in enumerate(kn) if l.strip() == '*ಸಂಹಿತಾಪಾಠಃ*']
 prob = []; warn = []
+sl2 = [x for k, x in enumerate(sl) if not (k and sl[k - 1][2] == x[2] and x[0] - sl[k - 1][0] < 120)]      # the same sūkta line printed twice by the supplied text (Vol 28 Sūkta 48: the page is printed twice): one heading, before the first
+if len(sl) != len(suktas) == len(sl2): sl = sl2
 if len(sl) != len(suktas): prob.append(f'sūkta lines: Kannada {len(sl)} vs English {len(suktas)}')
 else:
     for (i, m, s), e in zip(sl, suktas):
