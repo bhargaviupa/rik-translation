@@ -27093,6 +27093,238 @@ and have shown how, in it, अद्रिवः (*adrivaḥ*) can have the mean
 
 In the Mahāpitṛyajña, for पितरः सोमवंत (*pitaraḥ somavaṃta*) the second anuvākyā is this verse, त्वया हि नः पितर (*tvayā hi naḥ pitara*) and the rest. And it is stated in the sūtra: पितरोग्निष्वात्ता यम उदीरशामवर उत्परासस्त्वया हि नः पितरः सोम पूर्वे (*pitarogniṣvāttā yama udīraśāmavara utparāsastvayā hi naḥ pitaraḥ soma pūrve*) (Ā. 2-19).
 
+### Printed p. 719
+
+> हे पवमान पूयमान सोम धीराः कर्मणि कुशलाः प्राज्ञा नोऽस्माकं
+> पितरः पूर्वे पुरातना अंगिरसस्त्वया । हिरवधारणे । त्वया सहायेनैव कर्माण्यग्निष्टोमादीनि चक्रुः । कृतवंतः । किंच वन्वन् स्तोत्स्यन्संभजन् । यद्वा । वनतिर्हिंसार्थः । शत्रून्हिंसन् । अवातस्मैरभिगतस्त्वं परिधीन् । परिधीयत एभिः सर्वमिति
+> परिधयो राक्षसाः । तानपोर्णु । आपोर्णुहि । अपच्छादय । जहीति यावत् ॥
+> ऊर्णोतेर्लोटि च्छांदसो हेर्लुक् ॥ एतादृशस्त्वं नोऽस्माकं पुत्रादियुक्तं
+> धनं प्रयच्छेत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Soma Pavamāna, who are being purified, the wise ancestors of us, the ancient Aṅgirases, skilled in rites, performed the rites such as the Agniṣṭoma with you alone as their helper. Further, वन्वन् (*vanvan*) means praising and serving; or else the root *vani* has the sense of injuring, so it means "injuring the enemies". Unharmed by them, you drive away the परिधीन् (*paridhīn*), that is, the Rākṣasas, by whom everything is enclosed; आपोर्णुहि (*āporṇuhi*) means cover them up, that is, destroy them. Being such, grant us wealth together with sons and the rest; this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—named Pavamāna
+- सोम (*soma*)—O Soma-deva
+- धीराः (*dhīrāḥ*)—skilled in rites and wise
+- पूर्वे (*pūrve*)—ancient
+- नः पितरः (*naḥ pitaraḥ*)—our forefathers (the Aṅgirases)
+- त्वया (*tvayā*)—with your help
+- कर्माणि (*karmāṇi*)—the sacrificial rites
+- चक्रुः (*cakruḥ*)—performed
+- वन्वन् (*vanvan*)—harming the enemies
+- अवातः (*avātaḥ*)—without falling under their harm
+- परिधीन् (*paridhīn*)—the Rākṣasas
+- अपोर्ण् (*aporṇ*)—defeat and drive away
+- नः (*naḥ*)—for giving to us
+- वीरेभिः (*vīrebhiḥ*)—with heroic sons
+- अश्वैः (*aśvaiḥ*)—with horses
+- मघवा (*maghavā*)—as a wealthy one
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, named Pavamāna, our forefathers, who were skilled in rites, wise and ancient, performed the sacrificial rites with your help. Harming the enemies and, being subjected to their harm **NOTE**, defeat and drive away the Rākṣasas. Be a wealthy one, accompanied by heroic sons and horses, for giving to us.
+
+##### English translation
+Soma Pavamana, by you our ancient and wise progenitors performed their religious rites ; harming the foes (yourself) unharmed slay the Rakshasas and be liberal in enriching us with male offspring and horses.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the offering called Mahāpitṛyajña, in the homa made for the Pitṛ-deities together with Soma, पितरः सोमवंतः (*pitaraḥ somavaṃtaḥ*), this Ṛk त्वया हि नः (*tvayā hi naḥ*) is to be recited as the anuvākyā mantra; this is set out by the sūtra of the Āśvalāyana-śrauta-sūtra पितरोऽग्निष्वात्ता यम उदीरतामवर उत्परासस्त्वया हि नः पितरः सोम पूर्वे (*pitaro 'gniṣvāttā yama udīratāmavara utparāsastvayā hi naḥ pitaraḥ soma pūrve*) (Ā. 2-19).
+Formerly the seers who were our elders and ancient ones, such as the Aṅgirases, were skilled and intelligent in sacrificial rites. In the sacrifices such as the Agniṣṭoma which they performed,
+
+### Printed p. 720
+with your (Soma-deva's) help they carried out the rites completely and according to rule and became fulfilled. Such as you are, drive far away the Rākṣasas and the like who now beset us all around or who cause obstacles to our sacrifices and the rest, and give us sons and the rest and wealth: thus Soma is prayed to in this Ṛk.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यथाप॑वथा॒ मन॑वे वयो॒धा अ॑मित्र॒हा व॑रिवो॒विद्ध॒विष्मा॑न् ।  
+> ए॒वा प॑वस्व॒ द्रवि॑णं॒ दधा॑न॒ इंद्रे॒ सं ति॑ष्ठ ज॒नयायु॑धानि ॥१२॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यथा । अपवथाः । मनने । वयःऽधाः । अमित्रहा । वरिवःऽवित् । हविष्मान् ।  
+> एव । पवस्व । द्रविणं । दधानः । इंद्रे । सं । तिष्ठ । जनय । आयुधानि ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम यथा पुरा त्वं मनवे राजे वयोधा अन्नस्य धाता तथामित्रहा
+> शत्रुणां हंता वरिवोविद्दनस्य लंभयिता हविष्मान् पुरोडाशादियुक्तः सन्नपवथाः
+> तस्मै धनादिकं प्रदातुं यथागच्छः एवमस्मभ्यमपि द्रविणं धनं दधानः प्रयच्छन्
+> पवस्व । अस्मदभिमुखमागच्छ । किंचास्माभिर्दीयमानस्त्वमिंद्रे सं तिष्ठ । सम्यक्
+> तिष्ठ । अपि चायुधानि त्वदियानि जनय । तस्मै प्रकाशय ॥ वाक्यभेदादनिघातः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Soma, as formerly you went to Manu the king, being the giver of food (वयोधा (*vayodhā*)), the slayer of enemies, the finder of wealth and provided with oblations such as the puroḍāśa, in order to give him wealth and the rest, so also now, giving wealth to us, flow towards us, that is, come towards us. Further, being given by us, abide well in Indra; and bring forth your weapons, that is, make them manifest to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यथा (*yathā*)—as (formerly) (O Soma-deva)
+- मनवे (*manave*)—to the king named Manu
+- वयोधाः (*vayodhāḥ*)—as the giver of food
+- अमित्रहा (*amitrahā*)—as the destroyer of enemies
+- वरिवोवित् (*varivovit*)—as the obtainer of wealth
+- हविष्मान् (*haviṣmān*)—and accompanied by puroḍāśa and the rest
+- अपवथाः (*apavathāḥ*)—you went to him
+- एव (*eva*)—even so (to us also)
+- ध्रविणं (*dhraviṇaṃ*)—wealth **NOTE**
+- धधानः (*dhadhānaḥ*)—as the giver **NOTE**
+- पवस्व (*pavasva*)—flow also to us
+- इंद्रे (*iṃdre*)—in Indra
+- सं तिष्ठ (*saṃ tiṣṭha*)—abide, resting in him
+- आयुधानि (*āyudhāni*)—your weapons
+- जनय (*janaya*)—make manifest to him
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, as formerly you went to the king named Manu, being the giver of food, the destroyer of enemies, the obtainer of wealth and accompanied by puroḍāśa and the rest,
+
+### Printed p. 721
+even so, giving wealth to us also, flow to us also. Take refuge in Indra and abide. Make your weapons manifest to him.
+
+##### English translation
+As you did flow to Manu possessing food, slaying enemies, acquiring wealth, having oblations, so now flow bringing us riches; abide you in Indra ; make manifest (your) weapons.
+
+##### विशेषविषयगळु (Special Topics)
+
+Manu is a royal seer who is regarded as the original ancestor of the human race. It is traditionally held that he performed sacrifices and other rites according to rule; therefore it has become the custom, in rites performed by others, to say "as Manu did". You (Soma), pleased with such a Manu in the sacrifice, provided him with food and wealth and destroyed his enemies. In the same way, besides now giving us wealth and the rest and protecting us, we pray that the Soma-juice which we offer to Indra may remain in Indra's belly and be a source of delight to him, and that you may give Indra your weapons (here the zeal or delight arising from the drinking of Soma may be called the weapon) for the slaying of enemies: thus the seer has described.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व सोम॒ मधु॑मा ऋ॒तावा॒पो वसा॑नो॒ अधि॒ सानो॒  ॑
+> अव्ये ।  
+> अव॒ द्रोणा॑नि घृ॒तवां॑ति सीद म॒दिंत॑मो मत्स॒र इं॑द्र॒पानः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । सोम । मधुमान् । ऋतवा । अपः । वसासः । अधि । सानौ । अव्ये ।  
+> अव । द्रोणानि । घृतवंति । सीद । मदिन्तमः । मत्सरः । इंद्रपानः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मधुमान्मधुकररसोपेत ऋतावा यज्ञवान् ॥ छंदसीवनिषाविति
+> वनिब्मत्वर्थीयः ॥ तादृशस्त्वमपो वसतीवरीरेकधनाश्च वसानः आच्छादयन्नध्यधिकं
+> XXVI 46
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Soma, you are मधुमान् (*madhumān*), possessed of the sap made by the bees (honey), and ऋतावा (*ṛtāvā*), possessed of the sacrifice. Being such, covering yourself with the waters, the Vasatīvarī waters and the Ekadhanā waters, over the high
+
+### Printed p. 722
+
+> सानौ समुच्चि तेऽव्येऽविभवे पवित्रे पवस्व । क्षर । ततो मदिंतमोऽतिशयेन
+> मदकर इंद्रपान इंद्रेण पातव्यो मत्सरो मादयिता सोमो घृतवंत्यु दकवतो
+> द्रोणानि द्रोणकलशानव सीव । अवतिष्ठस्व ॥
+
+##### Gist of the bhāṣya
+
+...सानौ (*sānau*), the elevated, अव्ये (*avye*), the sheep-made strainer (pavitra), flow, that is, stream. Then, being most exhilarating, intoxicating, to be drunk by Indra (इंद्रपानः (*iṃdrapānaḥ*)) and delighting, Soma, abide in the द्रोणानि (*droṇāni*), the Droṇa vessels, which hold ghee-like water (घृतवंति (*ghṛtavaṃti*) means "possessed of water"); अवसीद (*avasīda*) means take your stand.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- मधुमान् (*madhumān*)—possessed of sweetness
+- ऋतावा (*ṛtāvā*)—possessed of the sacrifice, such as you are
+- अपः (*apaḥ*)—the Vasatīvarī waters
+- वसानः (*vasānaḥ*)—covering yourself with
+- सानौ (*sānau*)—on the elevated
+- अव्ये (*avye*)—on the Daśāpavitra
+- अधि (*adhi*)—abundantly
+- पवस्व (*pavasva*)—flow
+- मदिंतमः (*madiṃtamaḥ*)—the greatest cause of delight
+- इंद्रपानः (*iṃdrapānaḥ*)—fit to be drunk by Indra
+- मत्सरः (*matsaraḥ*)—the cause of delight, such as you are
+- धृतवंति (*dhṛtavaṃti*)—filled with water **NOTE**
+- द्रोणानि (*droṇāni*)—the Droṇa vessels
+- अवसीद (*avasīda*)—take refuge in them and sit
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, being sweet and possessed of the sacrifice, mixed with the Vasatīvarī waters, flow abundantly on the elevated Daśāpavitra. Being the greatest cause of delight, fit to be drunk by Indra, and the cause of delight, take refuge in the Droṇa vessels filled with water and sit.
+
+##### English translation
+Soma who have exhilarating juice, who are connected with the sacrifice, clothed with water flow upon the elevated fleece ; alight upon the water holding pitchers, you who are most exhilarating, intoxicating, the especial beverage of Indra.
+
+##### विशेषविषयगळु (Special Topics)
+
+मधुमान्, ऋतावा (*madhumān, ṛtāvā*)—To show that the Soma-juice is tasty when drunk, it is the custom to compare it to tasty honey (madhu). In some contexts the word मधु (*madhu*) itself is used in place of the word Soma; that is, in place of the words सोमः, सोमस्य (*somaḥ, somasya*) the words मधु, मध्वः (*madhu, madhvaḥ*) are used. Because this Soma-juice is used in the sacrifice to satisfy the gods, it is described here as ऋतावा (*ṛtāvā*), possessed of the sacrifice.
+अपः वसानः अधि सानौ अव्ये पवस्व (*apaḥ vasānaḥ adhi sānau avye pavasva*)—Here अपः (*apaḥ*) means the water that is in the Vasatīvarī vessels. "Clothing oneself with them" means being mixed with these waters. In preparing the Soma-juice, the mixing of the Vasatīvarī waters is also one of the rules; that very thing is described here by the words अपः वसानः (*apaḥ vasānaḥ*). Here the words अव्ये सानौ (*avye sānau*) mean upon the
+
+### Printed p. 723
+pavitra, the vessel of filtering. अव्ये (*avye*) means अविमये (*avimaye*), upon the wool belonging to a goat or a sheep. When the Soma-plants are crushed with stones and the juice is drawn, small bits of the plant and other impurities mix in that juice and it is unfit for drinking; therefore, in order to filter juice of that kind, a thin layer of sheep's wool **NOTE** is spread over a vessel and this juice is poured over it; the husks and other impurities remain in the wool, which is like a sieve, and only the clean juice falls into the vessel. This filtering of the Soma-juice is described by words such as अव्ये वारे, पवित्रे (*avye vāre, pavitre*). The word पवित्र (*pavitra*) means a vessel that purifies or filters. Daśāpavitra means the pressing well into the vessel of the crushed Soma-plants held with all ten fingers of the two hands, or else the filtering of the juice through the gaps between the ten fingers of the two hands, joined together and spread out. Because it is pressed and filtered with ten fingers, it is called Daśāpavitra.
+द्रोणानि (*droṇāni*)—the wooden vessel in which the filtered Soma-juice is stored. The vessels in which the Soma-juice is filled are of three kinds: द्रोणकलश, पूतभृत्, आधवनीय (*droṇakalaśa, pūtabhṛt, ādhavanīya*). Among them the Droṇakalaśa is the large vessel. In it Soma-juice of both kinds, filtered or unfiltered, is filled according to the occasion. Pūtabhṛt means the vessel in which only the filtered, pure Soma-juice is filled. Ādhavanīya means the vessel in which, when the Soma-juice is filled in the sacrifices and offered in the homa, it is prepared. Besides these, in some places there are also descriptions that Soma was filled in leather vessels (bags). But it appears that mainly the three kinds of vessels mentioned above were in special use.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृ॒ष्टिं दि॒वः श॒तधा॑रः पवस्व सहस्र॒सा वा॑ज॒युर्दे॒ववी॑त् ।  
+> सं सिंधु॑भिः क॒लशे॑ वावशा॒नः समु॒द्रिया॑भिः प्रति॒रन्न॒ आयुः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृष्टिं । दिवः । शतधाराः । पवस्व । सहस्रसाः । वाजयुः । देववीत् ।  
+> सं । सिंधुभिः । कलशे । वावशानः । सं । उस्रियाभिः । प्रतिरन् । नः । आयुः ॥१४॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम शतधारो बहुधारोपेतस्त्वं दिवोऽंतरिक्षादादित्याप्वा वृष्टिं
+> पवस्व । कुरु । यद्वा । शतधारो बहुधात्मीयधारोपेतस्त्वं दिवो द्योतमाना-
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: O Soma, you who have a hundred streams, that is, many streams, make rain flow from the sky, दिवः (*divaḥ*) **NOTE**. Or else: you who have many streams of your own, from the shining
+
+### Printed p. 724
+
+> त्ववित्राद्वृष्टिमविच्छिन्नधारां पवस्व । पात्रेषु कुरु । कीदृशः । देववीत् । देवानां
+> नीतिर्हविर्भक्षणं यस्मिन् स देवनीतिर्यज्ञः । तस्मिन्सहस्रसा यजमानानां सहस्रस्य
+> धनस्य दाता वाजयुस्तेषामन्नं कामयमानस्त्वं सिंधुभिः स्यंदमानाभिर्वसतीवरीभिः कलशे द्रोणाभिधाने संगच्छस्व । तथा त्वं नोऽस्माकमायुर्जीवनं प्रतिरन्वर्धयन्नु स्रियाभिर्गोविकारैः क्षीरादिभिश्च कलशे संगच्छस्व ॥
+
+##### Gist of the bhāṣya
+
+...purifier **NOTE** make flow the rain of an unbroken stream; make it flow into the vessels. How are you? देववीत् (*devavīt*): the sacrifice in which there is the gods' leading, that is, the eating of the oblation, is called देवनीति (*devanīti*); in that sacrifice you are the giver of a thousand-fold wealth to the sacrificers (सहस्रसा (*sahasrasā*)), and desiring their food (वाजयुः (*vājayuḥ*)), unite with the flowing Vasatīvarī waters in the vessel called Droṇa. Likewise, prolonging our life (आयुः (*āyuḥ*), living), unite in the vessel with the products of cows, milk and the rest (उस्रियाभिः (*usriyābhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतधारः (*śatadhāraḥ*)—you who have many streams (O Soma-deva)
+- दिवः (*divaḥ*)—from the sky
+- वृष्टिं (*vṛṣṭiṃ*)—rain
+- पवस्व (*pavasva*)—pour
+- देवनीत् (*devanīt*)—in the sacrifice **NOTE**
+- सहस्रसाः (*sahasrasāḥ*)—the giver of many things
+- वाजयुः (*vājayuḥ*)—desiring food for the sacrificer, such as you are
+- सिंधुभिः (*siṃdhubhiḥ*)—with the flowing Vasatīvarī waters
+- कलशे (*kalaśe*)—in the Droṇa vessel
+- सं (गच्छस्व) (*saṃ (gacchasva)*)—unite
+- नावशानः (*nāvaśānaḥ*)—you who desire the sacrifice **NOTE**
+- नः (*naḥ*)—our
+- आयुः (*āyuḥ*)—life
+- प्रतिरन् (*pratiran*)—increasing
+- उस्रियाभिः (*usriyābhiḥ*)—with milk and the rest
+- सं (*saṃ*)—unite
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have many streams, pour rain from the sky. You who, in the sacrifice, are the giver of many things and desire food for the sacrificer, unite with the flowing Vasatīvarī waters in the Droṇa vessel. You who desire the sacrifice, increasing our life, unite with milk and the rest.
+
+##### English translation
+(Soma), who flow in a hundred streams, pour rain from the firmament, you who are the giver of hundredfold (wealth), the bestower of food at the banquet of the gods; desirous of (the mixture) combine with the water in the pitchers and with the curds and milk, prolonging our life.
+
+##### विशेषविषयगळु (Special Topics)
+
+शतधारः (*śatadhāraḥ*)—बहुधारोपेतः (*bahudhāropetaḥ*). The meaning is: oozing or streaming at many places from the crushed Soma-plants and flowing in the form of streams.
+वृष्टिं दिवः पवस्व (*vṛṣṭiṃ divaḥ pavasva*)—"Pour rain from the sky": thus Soma is prayed to. What connection is there between Soma and rain? How can Soma-deva pour rain? To this: as in यज्ञा प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥ (*yajñā prāstāhutiḥ samyagādityamupatiṣṭhate | ādityājjāyate vṛṣṭirvṛṣṭerannaṃ tataḥ prajāḥ ‖*), in the sacrifices and the like Soma, oblations and so on are offered in the form of oblations and the deities
+
 ---
 
-**Progress note:** Done through printed p. 718. Sūkta 96 Ṛks 8 (end)-11 (start), pp. 713-718
+**Progress note:** Done through printed p. 724. Sukta 96 Rk 11 (end) to 14 start, Mandala 9
