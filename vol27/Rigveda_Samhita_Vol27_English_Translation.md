@@ -31196,6 +31196,276 @@ The deserted wife of the gamester is afflicted : the mother (grieves) for the so
 
 The word कितवं (*kitavaṃ*) stands for कितवः (*kitavaḥ*), by a change of case ending. Of men other than himself, the wife, a woman living in comfort, and the well-made home
 
+### Printed p. 869
+
+> च दृष्ट्वायु मज्जाया दुःखिता गृहं चासंसृतमिति ज्ञात्वा तताप । तप्यते । पुनः
+> पूर्वाह्ने प्रातःकाले बभ्रून्बभ्रुवर्णानश्वान्व्यापकानक्षान्युयुजे । युनक्ति ।
+> पुनश्च वृषलो वृषलकर्मा स कितवो रात्रावग्नेरंते समीपे पपाद । शीतार्तः
+> सइत्थे ॥
+
+##### Gist of the bhāṣya
+
+Seeing the wife of other men, a woman who lives in comfort, and a well-made home, the gambler, knowing that his own wife is wretched and his house is not in good order, is tormented (तताप (*tatāpa*), "he is distressed"). Then again, in the forenoon, in the early morning, he yokes the brown (बभ्रून् (*babhrūn*)) steeds, that is, the brown pervasive dice. And the lowly one, the man of base deeds, that gambler, lies down at night near the fire, tormented by cold.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कितवं (*kitavaṃ*)—the gambler
+- अन्येषां (*anyeṣāṃ*)—of others who have no addiction to gambling
+- जायां (*jāyāṃ*)—the wives
+- स्त्रियं (*striyaṃ*)—the women who enjoy comfort
+- सुकृतं (*sukṛtaṃ*)—well adorned
+- योनिं च (*yoniṃ ca*)—and the house
+- दृष्ट्वायु (*dṛṣṭvāyu*)—as soon as he sees
+- तताप (*tatāpa*)—he grieves
+- पूर्वाह्ने (*pūrvāhne*)—in the morning
+- बभ्रून् (*babhrūn*)—golden-coloured
+- अश्वान् (*aśvān*)—horses (the dice)
+- युयुजे (*yuyuje*)—he joins together
+- वृषलः (*vṛṣalaḥ*)—one whose work is of low degree
+- सः (*saḥ*)—that same man
+- (at night, in the night-time)
+- अग्नेः (*agneḥ*)—of the fire
+- अंते (*aṃte*)—near
+- पपाद (*papāda*)—lies down to drive away the cold
+
+##### भावार्थ (Bhāvārtha)
+
+One who has no addiction to gambling keeps his wife happy. He makes his house well ordered and adorns it. When the gambler sees all this, he pines in sorrow that he has not done likewise. In the morning he plays with the dice. At night he lies down near the fire to drive away the cold.
+
+##### English translation
+The gamester, having observed the happy wife and well-ordered home of others, suffers regret : yet in the forenoon he puts to the tawny steeds, and at night the sinner lies down by the fire,
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो वः॑ सेना॒नीर्म॑ह॒तो ग॒णस्य॒ राजा॒ व्रात॑स्य प्रथ॒मो  ॒॑
+> बभूव ।  
+> तस्मै॑ कृणोमि॒ न धना॑ रुणध्मि॒ दशा॒हं प्राची॒स्तदृ॒तं  ॑
+> वदामि ॥ १२ ॥
+
+### Printed p. 870
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । वः । सेनानीः । महतः । गणस्य । राजा । व्रातस्य । प्रथमः । बभूव ।  
+> तस्यै । कृणोमि । न । धना । रुणध्मि । दश । अहं । प्राचीः । तत् । ऋतं । वदामि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अक्षा वो युष्माकं महतो गणस्य संघस्य योऽक्षः सेनानीर्नेता
+> बभूव भवति व्रातस्य च । गणव्रातयोरल्लो भेदः । राजेश्वरः प्रथमो मुख्यो
+> बभूव तस्मा अक्षाय कृणोम्यहं । अंजलिं करोमि । अतः परं धना धनान्यक्षार्थमहं न रुणध्मि । न संपादयामीत्यर्थः । एतदेव दर्शयति । आहं दश
+> दशसंख्याका अंगुलीः प्राचीः प्राङ्मुखि करोमि । तदेतदहमृतं सत्यमेव
+> वदामि । नानृतं ब्रवीमीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+"O dice, he who has become the general of your great host, the assembly, and the chief lord of your company (व्रातस्य (*vrātasya*)), the foremost, to that die I make (कृणोमि (*kṛṇomi*)) salutation: I join my palms. Henceforth I shall not obtain (रुणध्मि (*ruṇadhmi*), that is, acquire) wealth for the sake of the dice." He shows this very thing: "I turn my ten fingers eastward. This I speak as truth; I do not speak untruth." There is a slight difference between a host (गण (*gaṇa*)) and a company (व्रात (*vrāta*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O dice) वः (*vaḥ*)—your
+- महतः (*mahataḥ*)—great
+- गणस्य (*gaṇasya*)—of the assembly
+- यः (*yaḥ*)—who
+- सेनानीः (*senānīḥ*)—as general
+- बभूव (*babhūva*)—has become
+- व्रातस्य (*vrātasya*)—of your company
+- राजा (*rājā*)—as lord
+- प्रथमः (*prathamaḥ*)—and as chief he is
+- तस्मै (*tasmai*)—to that king of dice
+- कृणोमि (*kṛṇomi*)—I make salutation
+- धना (*dhanā*)—wealth
+- न रुणध्मि (*na ruṇadhmi*)—(for him) I shall no longer acquire
+- अहं (*ahaṃ*)—I
+- दश (*daśa*)—the ten fingers
+- प्राचीः (*prācīḥ*)—I raise facing east
+- तत् (*tat*)—this
+- ऋतं (*ṛtaṃ*)—as truth
+- वदामि (*vadāmi*)—I speak
+
+##### भावार्थ (Bhāvārtha)
+
+O dice, to him who is the general of your great assembly, who is the lord and chief of your company, to that king of dice, salutation. Henceforth I shall not acquire wealth for him. Joining both hands and facing east, I salute him. This too I speak as truth.
+
+##### English translation
+Dice, I offer salutation to him who has been the general of your great army, the chief lord of your host : I do not provide him with wealth : I raise my ten (fingers) to the east; that (which) I speak (is) the truth,
+
+### Printed p. 871
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒क्षैर्मा दी॑व्यः कृ॒षिमित्कृ॑षस्व वि॒त्ते र॑मस्व ब॒हु मन्य॑मानः।  
+> तत्र॒ गावः॑ कितव॒ तत्र॑ जा॒या तन्ने॒ वि च॑ष्टे सवि॒तायम॒र्यः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अक्षैः । मा । दीव्यः । कृषिं । इत् । कृषस्व । वित्ते । रमस्व । बहु । मन्यमानः ।  
+> तत्र । गावः । कितव । तत्र । जाया । तत् । मे । वि । चष्टे । सविता । अयं ।  
+> आर्यः ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कितव बहु मन्यमानो मद्वचने विश्वासं कुर्वंस्त्वमक्षैर्मा दीव्यः ।
+> द्यूतं मा कुरु । कृषिमित्कृषिमेव कृषस्व । कुरु । वित्ते कृष्या संपादिते धने
+> रमस्व । मतिं कुरु । तत्र कृषौ गावो भवंति । तत्र जाया भवति । तदेव धर्मरहस्यं
+> प्रतिस्मृतिकर्ता सविता सर्वस्य प्रेरकोऽयं श्रु दृष्टिगोचरोऽर्य ईश्वरो वि
+> चष्टे । विविधमाख्यातवान् ॥
+
+##### Gist of the bhāṣya
+
+"O gambler, holding my words in great regard, that is, trusting my word, do not play with dice; do not gamble. Cultivate (कृषस्व (*kṛṣasva*)) only the field. Delight in the wealth acquired by cultivation; set your mind on it. In agriculture there are cows; there is a wife. This very secret of dharma is what Savitr, the impeller of all, the visible lord, has declared in many ways (वि चष्टे (*vi caṣṭe*)) to me."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कितव (*kitava*)—O gambler
+- बहु मन्यमानः (*bahu manyamānaḥ*)—showing respect to my word (trusting it)
+- अक्षैः (*akṣaiḥ*)—with dice
+- मा दीव्यः (*mā dīvyaḥ*)—do not gamble
+- कृषिमित् (*kṛṣimit*)—only the tilling of the soil
+- कृषस्व (*kṛṣasva*)—do
+- वित्ते (*vitte*)—with the wealth acquired by it
+- रमस्व (*ramasva*)—enjoy happiness
+- तत्र (*tatra*)—there
+- गावः (*gāvaḥ*)—there are cows
+- तत्र (*tatra*)—there
+- जाया (*jāyā*)—there is a wife
+- तत् (*tat*)—this very teaching
+- सविता (*savitā*)—who is the impeller of all
+- अर‍्यः (*aryaḥ*)—and lord of the world
+- अयं (*ayaṃ*)—this Sun-god
+- मे (*me*)—to me
+- वि चष्टे (*vi caṣṭe*)—has declared and made known in many ways
+
+##### भावार्थ (Bhāvārtha)
+
+O gambler, believe my word. Showing it respect, act accordingly. Do not gamble with dice. Practise only the cultivation of the earth. Enjoy happiness with the wealth acquired by it. There are cattle there. There is a wife there. This very teaching, Savitr, the impeller of the world and lord of the world, told me.
+
+### Printed p. 872
+
+##### English translation
+Giving serious attention (to my advice), play not with dice : pursue agriculture : delight in wealth (so acquired): there, gambler, are cows ; there is a wife ; so has this (visible) sovereign Savitri declared to me.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मि॒त्रं कृ॑णुद्धं॒ खलु॑ मृ॒ळता॑ नो॒ मा नो॑ घो॒रेण॑ चरता॒भि  ॒
+> धृ॒ष्णु ।  
+> नि वो॒ नु म॒न्युर्वि॑शता॒मरा॑तिर॒न्नो ब॑भ्रू॒णां प्रसि॑त्॒ न्व॑स्तु ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मित्रं । कृणुध्वं खलु । मृळत । नः । मा । नः । घोरेण । चरत । अभि । धृष्णु ।  
+> नि । वः । नु । मन्युः । एशतां । अरातिः । अन्यः । बभ्रूणां । प्रसित् । नु । अस्तु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अक्षाः यूयं मित्रं कृणुध्वं । आस्मासु मैत्रीं कुरुत। खल्विति पूरणः ।
+> नोऽस्मान्मृळत । सुखयत च । नोऽस्मान्दृष्टु धृष्णुना । तृतीयार्थे प्रथमा ।
+> घोरेणासह्येन माभि चरत । मा गच्छत, किंच वो युष्माकं मन्युः क्रोधोऽरातिरस्माकं शुत्रुर्नि विशतां । अस्मच्छतुषु तिष्ठतु । अन्नोऽस्माकं शत्रुः कश्चिद्भ्रूणां
+> बभ्रुवर्णानां युष्माकं प्रसित् प्रबंधने नु क्षिप्रमस्तु । भवतु ॥
+
+##### Gist of the bhāṣya
+
+"O dice, make friendship (मित्रं (*mitraṃ*)) with us; खलु (*khalu*) is a mere filler. Gladden us and make us happy. Do not approach us with a terrible, unbearable fury (the word धृष्णु (*dhṛṣṇu*) stands in the nominative in the sense of the instrumental). Let your anger, your wrath, settle on our enemy, and may some other enemy of ours quickly be caught in the bond (प्रसित् (*prasit*)) of you who are brown."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O dice) मित्रं (*mitraṃ*)—friendship towards us
+- कृणुध्वं (*kṛṇudhvaṃ*)—cultivate
+- नः (*naḥ*)—us
+- मृळत (*mṛḷata*)—make happy
+- नः (*naḥ*)—us
+- घोरेण (*ghoreṇa*)—with fierce
+- ध्युष्णु (*dhyuṣṇu*)—wrath
+- मा अभि चरत (*mā abhi carata*)—do not approach
+- वः (*vaḥ*)—your
+- मन्युः (*manyuḥ*)—anger
+- अरातिः (*arātiḥ*)—among our enemies
+- नि विशतां (*ni viśatāṃ*)—let it be established
+- अन्यः (*anyaḥ*)—he who is our enemy
+- बभ्रूणां (*babhrūṇāṃ*)—of you who are golden-coloured
+- प्रसिता (*prasitā*)—in bondage
+- नु (*nu*)—quickly
+- अस्तु (*astu*)—let him be caught
+
+### Printed p. 873
+
+##### भावार्थ (Bhāvārtha)
+
+O dice, cultivate friendship towards us. Make us happy. Do not approach us with fierce wrath. Let your anger be established upon our enemies. Let our enemy be quickly caught in the bondage of you who are of attractive colour.
+
+##### English translation
+Be friends with us (Dice) ; bestow upon us happiness; approach us not in terrible wrath ; let your anger light upon our enemies; let our enemy fall under the bondage of the tawny (dice).
+
+## Sūkta 35 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मूवत्तैदनॆय सूक्तवु
+> अबुद्धमिति चतुर्दशर्चं षष्ठं सूक्तं । धनाकपुत्रस्य लुशस्यार्षं । इदमुत्तरं च वैश्वदेवं । त्रयोदशीचतुर्दश्यौ त्रिष्टुभौ शिष्टा द्वादश जगत्यः । तथा
+> चानुक्रांतं । अबुध्रं लुशो धानाको वैश्वदेवं तु द्वित्रिष्टुबंतं त्विति ॥ गतः
+> सूक्तविनियोगः ॥ एकादशिनस्य वैश्वदेवस्य पशोर्वपायागस्यानुवाक्या विश्वे अद्येत्येषा । सूत्रितं च । विश्वे अद्य मरुतो विश्व ऊत्या नो देवानामुप वेतु शंसः ।
+> आ. ३-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The thirty-fifth sūkta, beginning अबुद्धमिति (*abuddhamiti*), of fourteen Ṛks, is the sixth sūkta. Its seer is Luśa, son of Dhānāka. It and the one after it are addressed to the Viśve Devāḥ. The thirteenth and fourteenth verses are in Triṣṭubh, the remaining twelve in Jagatī. So the Anukramaṇī says. The use of the sūkta has been stated. In the Ekādaśinī (animal offering) to the Viśve Devāḥ, at the offering of the omentum, the verse beginning अद्येत्येषा (*adyetyeṣā*) is the anuvākyā, as the sūtra (Ā. 3-7) states.
+
+##### Anuvāda
+
+This sūkta, beginning with Abuddham, is the sixth sūkta in the third anuvāka. It contains fourteen Ṛks. Its seer is Luśa, the son of one Dhānāka. The Viśve Devāḥ are the deity of this sūkta and of the next. The thirteenth and fourteenth Ṛks of this sūkta are in the Triṣṭubh metre. The remaining twelve Ṛks are in the Jagatī metre. In the Anukramaṇī it is said: अबुद्धं लुशो धानाको वैश्वदेवं तु द्वित्रिष्टुबंतं (*abuddhaṃ luśo dhānāko vaiśvadevaṃ tu dvitriṣṭubaṃtaṃ*). The use of the sūkta was stated earlier: in the sacrifice called Ekādaśin, in the animal offering made to the Viśve Devāḥ, when the offering of the omentum is made, the thirteenth Ṛk of this sūkta is to be recited as the anuvākyā mantra; this is explained by a sūtra of the Āśvalāyana Śrauta Sūtra (Ā. 3 7).
+
+### Printed p. 874
+
+##### Particulars of the sūkta
+
+- Sūkta 35
+- Maṇḍala 10; Anuvāka 3; Sūkta 35
+- Aṣṭaka 7; Adhyāya 8; Vargas 6, 7, 8
+- Number of Ṛks in the sūkta: 14
+- Seer: लुशो धानाकः (*luśo dhānākaḥ*)
+- Deity: the Viśve Devāḥ
+- Metre: 1-12 Jagatī; 13-14 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अबु॑द्धमु॒ त्य इंद्र॑वंतो अ॒ग्नयो॒ ज्योति॒र्भरं॑त उ॒षसो॒  ॑
+> वृष्टिसु ।  
+> म॒ही द्यावा॑पृथि॒वी चे॑तता॒मपो॒ऽद्या दे॒वाना॒मव॒ आ वृ॑णेमहे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अबुद्धं । ऊं इति । त्ये । इंद्रवंतः । अग्नयः । ज्योतिः । भरंतः । उषसः ।  
+> विउष्टिषु ।  
+> मही इति । द्यावापृथिवी इति । चेततां । अपः । अद्य । देवानां । अवः । आ ।  
+> वृणीमहे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रवंतो यष्टव्यत्वेनेंद्रसंबंधिनस्ये तेऽमी आहवनीयादयोऽग्नय
+> उषसो व्युष्टिषु व्युच्छनेषु तमसां विवासनकालेषु ज्योतिस्तेजो भरंतो
+> धारयंतोऽबुध्रं । प्रबुद्धा आसन् । मही महत्यौ द्यावापृथिव्यावपः कर्म ।
+> अपोऽप्न इति कर्मनामसु पाठात् । चेततां । जानीतां । अद्यास्मिन्नहनि देवानामिंद्रादीनामवो रक्षणं वयमा वृणीमहे ॥
+
+##### Gist of the bhāṣya
+
+These well-known Āhavanīya and other fires, being connected with Indra as the objects of sacrifice, bearing light (ज्योतिः (*jyotiḥ*)), that is, radiance, at the dawnings of Uṣas, the times when darkness is driven away, have awakened (अबुध्रं (*abudhraṃ*)). The great heaven and earth, and work (अपः (*apaḥ*); since it is read among the names of work: अपोऽप्न इति (*apo 'pna iti*)), let them know. Today, on this day, we choose the protection of the gods, Indra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रवंतः (*iṃdravaṃtaḥ*)—those related to Indra
+- तै (*tai*)—and the well-known
+- आग्नयः (*āgnayaḥ*)—the fires Āhavanīya and the rest
+- उषसः व्युष्टिषु (*uṣasaḥ vyuṣṭiṣu*)—at the times of the appearing of Uṣas
+- ज्योतिः (*jyotiḥ*)—their
+
 ---
 
-**Progress note:** Done through printed p. 868. Sukta 34 Rk 6 (rest) to Rk 11 bhasya start
+**Progress note:** Done through printed p. 874. Vol 27 pp. 869-874: end of 10.34.11 to 10.34.14, sukta 10.35 start
