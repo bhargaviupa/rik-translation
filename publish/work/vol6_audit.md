@@ -253,15 +253,15 @@
 - **removed (working remark)** (draft line 5387): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
 - **removed (working remark)** (draft line 5401): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
 - **removed (working remark)** (draft line 5426): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
-- **removed (working remark)** (draft line 5454): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 18".)*
+- **removed (working remark)** (draft line 5454): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14"; foot signature "VI 18".)*
 - **removed (working remark)** (draft line 5474): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
-- **removed (working remark)** (draft line 5484): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+- **removed (working remark)** (draft line 5484): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 - **removed (working remark)** (draft line 5517): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
-- **removed (working remark)** (draft line 5545): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+- **removed (working remark)** (draft line 5545): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 - **removed (working remark)** (draft line 5563): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
-- **removed (working remark)** (draft line 5573): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+- **removed (working remark)** (draft line 5573): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 - **removed (working remark)** (draft line 5607): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
-- **removed (working remark)** (draft line 5634): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+- **removed (working remark)** (draft line 5634): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14".)*
 - **removed (working remark)** (draft line 5651): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71" as read [the Kannada numerals are small].)*
 - **removed (working remark)** (draft line 5683): *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 - **removed (working remark)** (draft line 5715): *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*

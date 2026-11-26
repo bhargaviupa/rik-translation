@@ -308,3 +308,13 @@ Recorded as the user gave them, in the user's order. **Status:** *decided* = sta
 **Sections of this document that these decisions change when they are built:** §3.3 (14.4); §4 (the second reading gains the wiki bhāṣya, the Sāyaṇa book and, perhaps, the scan check: 14.5, 14.7); §3.1 (units: the bhāṣya, summary and intro kinds leave the English data, `pratipada` becomes word lines: 14.6, 14.8); §6 (the front matter from root-directory files, the bhāṣya added at build: 14.1, 14.2, 14.6); §9 (new by-products: the dictionary, the tag document, the Sāyaṇa book).
 
 **Open points from these comments, each to be settled before it is built:** the name of the root directory; whether our own typeset English title page still follows pictures 1 and 2 (A2 row 11) and whether the English range lines stay below the cover; whether volumes without such pictures must supply them; whether there is one thank-you page or two; the wiki source, how its text is fetched and what happens where it lacks a Ṛk; the dictionary's entry level and meaning rule; the search medium; the tag vocabulary; and the data format.
+
+
+### 14a. Decisions of Nov 24–25 2026 (second pass of Vols 6 and 1)
+| No. | Decision | Status |
+|---|---|---|
+| 14.20 | The supplied Kannada numerals are correct; every number and reference is taken from them; a number the English has and the print has not is removed (Vol 6: about 300) | decided (user, Nov 24) |
+| 14.21 | No question lists for the editor: Kannada misprints and doubts are settled by rule (English kept) into `kn_misprints.tsv` and `decided_by_default.tsv` | decided (user, Nov 25) |
+| 14.22 | Saṃhitā, Pada, bhāṣya (Wikisource) and the English's Devanagari/IAST (made from the Kannada by script) are derived data and are not hand-edited by the second pass | decided (user, Nov 25) |
+| 14.23 | One status report for every second pass, made by `tools/rv/sp_report.py` from fixed files (`docs/SECOND_PASS_REPORT.md`) | decided (user, Nov 24) |
+| 14.24 | Reference names written by `refs_apply.py N --write` for every volume (user, Nov 24: "write all changes") | decided |

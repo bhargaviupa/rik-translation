@@ -1,0 +1,17 @@
+page	target	old	new	kind	basis
+379	en	should not proceed with only sixteen priests	should not be performed with seventeen priests	S2	Kannada p379: 17 ritvijas (16 plus yajamana) may not perform the yajna (Sh. Br. 10-4-1-9)
+379	en	therefore appoint a seventeenth priest	therefore appoint an eighteenth priest	S1	Kannada p379: sadasya appointed as the 18th (೧೮ನೆಯವನ್ನಾಗಿ)
+384	en	### "Avijñeyāt" (Jaimini Sutra 1-2-38)		S16	Kannada p384 prints no sutra number or name for this sutra; number and name removed
+386	en	reciting mantras with meaning as the primary intention involves no fault at all	merely reciting the mantras, without making their meaning the primary aim, involves no fault at all	S15	Kannada p386: ಅರ್ಥವನ್ನು ಮುಖ್ಯೋದ್ದಿಶ್ಯವಾಗಿಟ್ಟುಕೊಳ್ಳದೆ ಮಂತ್ರೋಚ್ಚಾರಣೆಯನ್ನು ಮಾತ್ರ ಮಾಡುವುದರಿಂದ ದೋಷವೇನೂ ಇಲ್ಲ (Shabara's view reversed in English)
+386	en	"abhimāninyaḥ pa-devatāḥ"	"abhimānivyapadeśaḥ" of Vyasa's Vedanta-sutras	S13	Kannada p386: ವ್ಯಾಸರ ವೇದಾಂತಸೂತ್ರಗಳಿಂದ ಅಭಿಮಾನಿವ್ಯಪದೇಶಃ ಎಂಬ ಸೂತ್ರ; form copied from English p381
+386	en	"Api śiṣṭasya vākyārthaḥ"	"Aviśiṣṭastu vākyārthaḥ"	S13	Kannada p386: ಅವಿಶಿಷ್ಟಸ್ತು ವಾಕ್ಯಾರ್ಥಃ (Jaimini 1-2-40); letters from sp_sanskrit.py of the Kannada
+387	en	with four [strokes/portions]	with four [mantras]	S14	Kannada p388-389: ನಾಲ್ಕು ಮಂತ್ರಗಳನ್ನೂ ಉಚ್ಚರಿಸಿ ಅಭ್ರಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು (four mantras, not strokes)
+388	en	*how many strokes* constitute proper use	*how many mantras* constitute proper use	S14	Kannada p388-389: the Brahmana enjoins all four mantras (ಚತುರ್ಭಿಃ)
+388	en	precisely what its "prāptaviṣṭyaṃ prayojanam" (immediately applicable purpose) consists in, per the Shabara-bhashya	as the Shabara-bhashya says	S13	Kannada p388 quotes ತಸ್ಮಾದಸ್ಯ ಪ್ರಯೋಜನಂ ... ನ ಶಕ್ಯಮಪವದಿತುಂ; the English phrase prāptaviṣṭyaṃ prayojanam is not in the Kannada
+388	en	exactly four applications are required	exactly four mantras are required	S14	Kannada p389: ನಾಲ್ಕು ಮಂತ್ರಗಳನ್ನೂ ಹೇಳಬೇಕು
+392	en	The mantra "imāmu gṛbhṇan"	The mantra "imām agṛbhṇan"	R6	Kannada p392 ಇಮಾಮ ಗೃಭ್ನನ್ / p389 ಇಮಾಮಗೃ..., p388 ಇಮಾಮಗೃಭ್ಣನ್ರಶನಾಮೃತಸ್ಯ; form copied from English p389
+392	en	failing to exclude the donkey's rope	barring the donkey's rope	S14	Kannada p392: ಪ್ರಾಪ್ತಬಾಧ = the attained (donkey-rope) taking is barred; English had the sense reversed
+394	en	Grammarians and poeticians, following their own logical conventions,	Grammarians and rhetoricians, like the logicians (Naiyayikas),	S17	Kannada p394: ವೈಯಾಕರಣಿಗಳು, ಆಲಂಕಾರಿಕರು ನೈಯಾಯಕರಂತೆ
+395	en	(Jaimini Sutra 1-2-46, with Shabara-bhashya)	(Shabara-bhashya sentence)	S3	Kannada p395/397: ಮಂತ್ರಾಭಿಧಾನಾತ್ (ಶಾಬರಭಾಷ್ಯವಾಕ್ಯ), not a Jaimini sutra; no number printed
+396	en	Ratrisukta	Ratrisatra	S13	Kannada p396: ರಾತ್ರಿಸತ್ರ
+399	en	confers a directly-observable refinement	confers an unseen refinement	S14	Kannada p399: ವಿಶೇಷವಾದ ಅದೃಷ್ಟಫಲ; Sanskrit niyamādṛṣṭa-lakṣaṇasya

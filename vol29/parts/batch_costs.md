@@ -1,0 +1,54 @@
+| batch | printed pages | model | tool uses | tokens | minutes |
+|---|---|---|---|---|---|
+| 1 | through p. 20 (three windows in one agent: pp. 1–20) | sonnet | 13 | 192517 | 5.8 |
+| 2 | through p. 39 (three windows in one agent: pp. 21–39) | sonnet | 19 | 206482 | 6.2 |
+| 3 | through p. 57 (three windows in one agent: pp. 40–57) | sonnet | 19 | 195779 | 6.0 |
+| 4 | through p. 76 (three windows in one agent: pp. 58–76) | sonnet | 19 | 178793 | 5.1 |
+| 5 | through p. 96 (three windows in one agent: pp. 77–96) | sonnet | 21 | 224094 | 6.7 |
+| 6 | through p. 115 (three windows in one agent: pp. 97–115) | sonnet | 27 | 212615 | 7.3 |
+| 7 | through p. 135 (three windows in one agent: pp. 116–135) | sonnet | 17 | 177543 | 4.7 |
+| 8 | through p. 154 (three windows in one agent: pp. 136–154) | sonnet | 14 | 186982 | 6.0 |
+| 9 | through p. 173 (three windows in one agent: pp. 155–173) | sonnet | 17 | 197570 | 6.3 |
+| 10 | through p. 193 (three windows in one agent: pp. 174–193) | sonnet | 23 | 214414 | 6.2 |
+| 11 | through p. 212 (three windows in one agent: pp. 194–212; the first window had a partial en.md left by the stopped batch-11 agent) | sonnet | 18 | 189014 | 3.8 |
+| 12 | through p. 230 (three windows in one agent: pp. 213–230) | sonnet | 17 | 185720 | 5.0 |
+| 13 | through p. 250 (three windows in one agent: pp. 231–250) | sonnet | 14 | 204266 | 5.9 |
+| 14 | through p. 272 (three windows in one agent: pp. 251–272) | sonnet | 17 | 225856 | 6.7 |
+| 15 | through p. 291 (three windows in one agent: pp. 273–291) | sonnet | 14 | 193893 | 5.2 |
+| 16 | through p. 309 (three windows in one agent: pp. 292–309) | sonnet | 18 | 190375 | 5.1 |
+| 17 | through p. 324 (windows w0310 and w0317 by the agent; w0317 finished by the dispatcher after the displaced-page decision; the third window was not started) | sonnet | 26 | 209670 | 6.9 |
+| 18 | through p. 342 (three windows in one agent: pp. 325–342) | sonnet | 15 | 179324 | 4.9 |
+| 19 | through p. 362 (three windows in one agent: pp. 343–362) | sonnet | 20 | 245609 | 7.1 |
+| 20 | through p. 380 (three windows in one agent: pp. 363–380) | sonnet | 15 | 212321 | 7.1 |
+| 21 | through p. 400 (three windows in one agent: pp. 381–400) | sonnet | 18 | 197277 | 5.9 |
+| 22 | through p. 418 (three windows in one agent: pp. 401–418) | sonnet | 16 | 169561 | 4.2 |
+| 23 | through p. 436 (three windows in one agent: pp. 419–436) | sonnet | 15 | 186533 | 5.6 |
+| 24 | through p. 442 (container restarted after the first window; token figure lost) | sonnet | – | – | – |
+| 25 | through p. 464 (three windows in one agent: pp. 443–464) | sonnet | 18 | 208410 | 6.0 |
+| 26 | through p. 484 (three windows in one agent: pp. 465–484) | sonnet | 22 | 207579 | 7.4 |
+| 27 | through p. 504 (three windows in one agent: pp. 485–504) | sonnet | 20 | 223714 | 7.6 |
+| 28 | through p. 523 (three windows in one agent: pp. 505–523) | sonnet | 14 | 171887 | 4.5 |
+| 29 | through p. 543 (three windows in one agent: pp. 524–543) | sonnet | 27 | 241669 | 7.0 |
+| 30 | through p. 556 (two windows in one agent: pp. 544–556; the third not started after a VERIFY FAIL, repaired by the dispatcher) | sonnet | 21 | 164911 | 5.0 |
+| 31 | through p. 576 (three windows in one agent: pp. 557–576) | sonnet | 19 | 217764 | 6.8 |
+| 32 | through p. 602 (three windows in one agent: pp. 577–602; Venkata Rao essay on Indra) | sonnet | 24 | 236276 | 6.3 |
+| 33 | through p. 623 (three windows in one agent: pp. 603–623) | sonnet | 17 | 171386 | 3.2 |
+| 34 | through p. 646 (three windows in one agent: pp. 624–646) | sonnet | 24 | 267133 | 8.2 |
+| 35 | through p. 666 (three windows in one agent: pp. 647–666) | sonnet | 21 | 251271 | 7.8 |
+| 36 | through p. 688 (three windows in one agent: pp. 667–688) | sonnet | 22 | 222312 | 7.5 |
+| 37 | through p. 707 (three windows in one agent: pp. 689–707) | sonnet | 16 | 204155 | 4.1 |
+| 38 | through p. 728 (three windows in one agent: pp. 708–728) | sonnet | 24 | 235195 | 7.1 |
+| 39 | through p. 749 (three windows in one agent: pp. 729–749) | sonnet | 23 | 231111 | 5.9 |
+| 40 | through p. 774 (three windows in one agent: pp. 750–774) | sonnet | 20 | 238894 | 7.2 |
+| 41 | through p. 795 (three windows; the agent hit the usage limit after the third window, token figure lost) | sonnet | – | – | – |
+| 42 | through p. 817 (three windows in one agent: pp. 796–817) | sonnet | 23 | 227864 | 6.4 |
+| 43 | through p. 839 (three windows in one agent: pp. 818–839) | sonnet | 21 | 222438 | 6.3 |
+| 44 | through p. 858 (three windows in one agent: pp. 840–858) | sonnet | 16 | 197816 | 4.9 |
+| 45 | through p. 881 (three windows in one agent: pp. 859–881) | sonnet | 20 | 236640 | 7.3 |
+| 46 | through p. 901 (three windows in one agent: pp. 882–901) | sonnet | 18 | 206673 | 4.5 |
+| 47 | through p. 920 (three windows in one agent: pp. 902–920) | sonnet | 17 | 192706 | 5.4 |
+| 48 | through p. 941 (three windows in one agent: pp. 921–941) | sonnet | 15 | 205238 | 5.4 |
+| 49 | through p. 960 (three windows in one agent: pp. 942–960) | sonnet | 14 | 178862 | 5.0 |
+| 50 | through p. 981 (three windows in one agent: pp. 961–981) | sonnet | 17 | 180185 | 5.0 |
+| 51 | through p. 1009 (four windows in one agent: pp. 982–1009) | sonnet | 22 | 227184 | 7.0 |
+| 52 | through p. 1024 (two windows in one agent: pp. 1010–1024; volume finished) | sonnet | 12 | 139432 | 2.8 |
