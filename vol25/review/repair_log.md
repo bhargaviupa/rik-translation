@@ -44,3 +44,5 @@
 - Nov 26 2026 (user: correct the clear ones): 25 unmarked running-head digits corrected where they broke the page-to-page sequence and a single look-alike swap (೨↔೩, ೬↔೭, ೮↔೯) gave the one value inside the bracket of the neighbouring heads (Varga must not fall; Adhyāya agrees with both neighbours). Found by the neighbour check (review/head_anomalies.tsv); list in review/heads_applied.tsv. Not changed (ambiguous): p71, p169, p185, p335–339, p371, p383, p493, p601, p785, p803, p845, p881.
 
 - scan_wordfix.py --apply: 9 words with [?] settled by the Wikisource Saṃhitā/Pada/bhāṣya words of the page's sūkta ±1 ({'fixed word': 9}; list: review/wordfix_applied.tsv).
+
+- Nov 26 2026 (user): PDF p. 4 (portrait plate with a faint caption, 4 [?]) ignored: the Vol 1 page is used; the page file now holds only a comment. Earlier text of the page is in git history.

@@ -43,11 +43,7 @@ SREE VINAYAK PRINTING WORKS, MYSORE
 
 ---
 
-<!-- picture: portrait photograph of the Maharaja within a decorative border -->
-[?]ಂ[?]ವಂಶ[?]ಯ[?]ಸಾರಾವಾರಸುಧಾಕರರೂ ಸತ್ಸಂಪ್ರದಾಯವೈದಿಕವಿದ್ಯಾವರ್ಧಕರೂ
-ಮೈಸೂರು ದೇಶವನ್ನಾಳುವ ಧರ್ಮಪ್ರಭುಗಳೂ ಆದ ಶ್ರೀಮನ್ಮಹಾರಾಜ
-ಶ್ರೀ ಜಯಚಾಮರಾಜೇಂದ್ರ ಒಡೆಯರ್ ಬಹದ್ದೂರ್
-ಜಿ.ಸಿ.ಬಿ., ಜಿ.ಸಿ.ಎಸ್.ಐ. ರವರು.
+<!-- PDF page 4: portrait plate; not transcribed, the Vol 1 page is used (user, Nov 26 2026) -->
 
 ---
 
