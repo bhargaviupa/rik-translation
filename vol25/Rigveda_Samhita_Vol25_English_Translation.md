@@ -7808,6 +7808,288 @@ Those who desire wealth, desiring wealth itself, go searching for it. They go ex
 ##### English translation
 The petitioners seek for wealth, they attend the bounty of the liberal ; (by you) men pour out the desire of the thirsty.
 
+### Printed p. 193
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒दद्यत्पू॒र्व्यं न॒ष्टमुदी॑मृता॒युमी॑रयत् ।  
+> प्रेमायु॑स्तारी॒दती॑र्णम् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विदत् । यत् । पूर्व्यम् । नष्टम् । उत् । ईम् । ऋतऽयुम् । ईरयत् ।  
+> प्र । ईम् । आयुः । तारीत् । अतीर्णम् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यदा पूर्व्यं पुराणं नष्टं स्वकीयं धनं विदत् लभते नष्टधनः ईम् एनम् ऋतायुं नष्टधनलाभार्थं यज्ञकामम् उत् ईरयत् प्रेरयति । धनं साधयतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When one who has lost his wealth obtains (विदत् (*vidat*), gets) his own old (पूर्व्यं (*pūrvyaṃ*)) lost (नष्टं (*naṣṭaṃ*)) wealth, then Soma urges up (उत् ईरयत् (*ut īrayat*)) this one who desires sacrifice (ऋतायुं (*ṛtāyuṃ*)), for the recovery of the lost wealth. The meaning is that he brings about the wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पूर्व्यं (*pūrvyaṃ*)—old
+- नष्टं (*naṣṭaṃ*)—and lost wealth
+- विदत् (*vidat*)—to obtain
+- ऋतायुं (*ṛtāyuṃ*)—the one who desires sacrifice
+- ईं (*īṃ*)—the sacrificer (Soma)
+- उदीरयत् (*udīrayat*)—urges on, then
+- अतीर्णं (*atīrṇaṃ*)—devoted to sacrifice
+- ईं आयुः (*īṃ āyuḥ*)—the life of this performer of the sacrifice
+- प्र तारीत् (*pra tārīt*)—he lengthens
+
+##### भावार्थ (Bhāvārtha)
+
+When this Soma urges on the sacrificer who desires sacrifice, so that he may obtain his old and lost wealth, then he lengthens the life of this performer of the sacrifice, who is devoted to sacrifice.
+
+##### English translation
+(Soma) urges him on when the sacrificer obtains ( by offerings ) his old lost wealth, he lengthens out his unending life.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सु॒शेवो॑ नो मृळ॒याकु॒रदृ॑प्तक्रतुरवा॒तः ।  
+> भवा॑ नः सोम॒ शं हृ॒दे ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 194
+
+> सुऽशेवः । नः । मृळयाकुः । अदृप्तऽक्रतुः । अवातः ।  
+> भव । नः । सोम । शम् । हृदे ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पीतस्त्वं नः अस्माकं हृदे हृदये वर्तमानः सुशेवः सुसुखः मृळयाकुः सुखयिता अदृप्तक्रतुः अप्रमत्तप्रज्ञः अवातः अगमनश्च [ तव हृदये पीताय हृदय ? ] सं (?शं) भव । अपरो नः पूरणः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, having been drunk, you who dwell in our heart (हृदे (*hṛde*)) are most gracious (सुशेवः (*suśevaḥ*), very pleasant), a giver of comfort (मृळयाकुः (*mṛḷayākuḥ*)), of undimmed wisdom (अदृप्तक्रतुः (*adṛptakratuḥ*), one whose wisdom is not careless), and not moving away (अवातः (*avātaḥ*)); be auspicious (शं (*śaṃ*)) for us. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- नः (*naḥ*)—our
+- हृदे (*hṛde*)—in the heart
+- सुशेवः (*suśevaḥ*)—who dwell happily
+- मृळयाकुः (*mṛḷayākuḥ*)—who give happiness to us also
+- अदृप्तक्रतुः (*adṛptakratuḥ*)—who have a wisdom free from error
+- अवातः (*avātaḥ*)—and who do not go elsewhere
+- नः (*naḥ*)—to us
+- शं (*śaṃ*)—auspicious
+- भव (*bhava*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, dwelling happily in our heart, giving happiness to us also, with a wisdom free from error, and not going elsewhere, be auspicious to us.
+
+##### English translation
+Most gracious and conferring joy, void of pride in your acts, and never failing, dwell, Soma, auspiciously in our hearts.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नः॑ सोम॒ सं वी॑विजो॒ मा वि बी॑भिषथा राजन् ।  
+> मा नो॒ हार्दि॑ त्वि॒षा व॑धीः ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । सोम । सम् । वीविजः । मा । वि । बीभिषथाः । राजन् ।  
+> मा । नः । हार्दि । त्विषा । वधीः ॥ ८ ॥
+
+### Printed p. 195
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पीतस्त्वं नः अस्मान् मा सं वीविजः । चलितांगान् मा कार्षीः । हे राजन् सोम अस्मान् मा वि बीभिषथाः भीतान् मा कुरु । नः अस्माकं हार्दि हृदयं त्विषा दीप्त्या मा वधीः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, having been drunk, do not make us tremble (मा सं वीविजः (*mā saṃ vīvijaḥ*)), that is, do not make our limbs shaky. O king Soma, do not frighten us (मा वि बीभिषथाः (*mā vi bībhiṣathāḥ*)), do not make us afraid. Do not smite (मा वधीः (*mā vadhīḥ*)) our heart (हार्दि (*hārdi*)) with your splendour (त्विषा (*tviṣā*), brightness).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma, drunk by us
+- नः (*naḥ*)—us
+- मा सं वीविजः (*mā saṃ vīvijaḥ*)—do not make us quake and tremble
+- राजन् (*rājan*)—O lordly Soma
+- मा वि बीभिषथाः (*mā vi bībhiṣathāḥ*)—do not frighten
+- नः (*naḥ*)—our
+- हार्दि (*hārdi*)—heart
+- त्विषा (*tviṣā*)—by your fierce radiance
+- मा वधीः (*mā vadhīḥ*)—do not make it burn
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, drunk by us, do not make us quake and tremble. O lordly Soma, do not frighten us; do not make our heart burn by your fierce radiance.
+
+##### English translation
+O Soma, cause us not to tremble, frighten us not, O king ; smite not our hearts with your brightness
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव॒ यत्स्वे स॒धस्थे॑ दे॒वानां॑ दुर्म॒तीरीक्षे॑ ।  
+> राज॒न्नप॒ द्विषः॑ सेध॒ मीढ्वो॒ अप॒ स्रिधः॑ सेध ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव । यत् । स्वे । सधऽस्थे । देवानाम् । दुःऽमतीः । ईक्षे ।  
+> राजन् । अप । द्विषः । सेध । मीढ्वः । अप । स्रिधः । सेध ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वे सधस्थे स्वकीये सहस्थाने गृहे देवानां दुर्मतीः दुर्मतयो न प्रविशंत्विति । यत् यदा अव ईक्षे अहं त्वं वेक्षसे तदा हे राजन् द्विषः अस्मद्वेप्ष्टॄन अप सेध। हे मीड्वः सोमरसस्य सेक्तः स्रिधः हिंसकान् अप सेध । हिंधीत्यर्थः ॥ ॥ ३४ ॥
+
+##### Gist of the bhāṣya
+
+In my own (स्वे (*sve*)) seat, that is, in my own house, so that the evil-minded thoughts (दुर्मतीः (*durmatīḥ*)) of the gods may not enter, when I watch (ईक्षे (*īkṣe*)), then, O king, drive away the haters (द्विषः (*dviṣaḥ*)), those who hate us. O showerer (मीढ्वः (*mīḍhvaḥ*)), pourer of the Soma juice, drive away the harmers (स्रिधः (*sridhaḥ*)). **NOTE**
+
+### Printed p. 196
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजन् (*rājan*)—O lordly god Soma
+- स्वे (*sve*)—belonging to me
+- सदस्थे (*sadasthe*)—in the house
+- देवानां (*devānāṃ*)—towards the gods
+- दुर्मतीः (*durmatīḥ*)—so that those of evil mind may not enter
+- यत् (*yat*)—when
+- अवेक्षे (*avekṣe*)—I keep watch, then
+- द्विषः (*dviṣaḥ*)—such enemies
+- अप सेध (*apa sedha*)—drive far away
+- मीढ्वः (*mīḍhvaḥ*)—O Soma, who pour out desired objects
+- स्रिधः (*sridhaḥ*)—such harmers
+- अप सेध (*apa sedha*)—drive far away
+
+##### भावार्थ (Bhāvārtha)
+
+O lordly god Soma, when I keep watch so that those of evil mind who slight the gods may not enter my house, then drive such enemies far away. O Soma, who pour out desired objects, drive such harmers far away.
+
+##### English translation
+When in my house I watch against the enemies of the gods, then, O king drive away those who hate us,—O showerer of blessings, drive away those who would harm us.
+
+## Sūkta 80 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘नह्यन्यम्' इति दशर्चमेकादशं सूक्तम् । अत्रेयमनुक्रमणिका--' न ह्यन्यं दशैकद्यूर्नौधसो गायत्रेऽंत्या दैवी त्रिष्टुप्' इति । एकद्यूर्नाम नोधसः पुत्र ऋषिः । अंत्या त्रिष्टुप् । सा च देवदेवत्या शिष्टा गायत्र्य ऐंद्र्यः । द्वितीये पर्याये मैत्रावरुणशस्त्र आदितोऽष्टर्चः । सूत्रितं च - ' नह्यन्यं बळाकरमित्यष्टौ ' (आश्व. श्रौ. ६. ४) इति । महाव्रते निष्केवल्ये गायत्रतृचाशीतावाद्या विनियुक्ता । तथा च पंचमारण्यके शौनकः -' नह्यन्यं बळाकरमित्येतां प्रत्यवदधाति' (ऐ. आ. ५, २. ३) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning नह्यन्यं (*nahyanyaṃ*) has ten Ṛks and is the eleventh sūkta. The Anukramaṇikā says: न ह्यन्यं दशैकद्यूर्नौधसो गायत्रेऽंत्या दैवी त्रिष्टुप् (*na hyanyaṃ daśaikadyūrnaudhaso gāyatre 'ṃtyā daivī triṣṭup*). Ekadyū is the name of the seer, a son of Nodhas. The last Ṛk is in Triṣṭubh, and it has the Devas as its deity; the remaining Ṛks are Gāyatrī, addressed to Indra. In the second paryāya, in the Maitrāvaruṇa śastra, the first eight Ṛks are used. This is stated in the sūtra: नह्यन्यं बळाकरमित्यष्टौ (*nahyanyaṃ baḷākaramityaṣṭau*) (Āśv. Śrau. 6. 4). In the Mahāvrata, in the Niṣkevalya, the first of the Gāyatra tṛca is employed. **NOTE** So also Śaunaka in the Fifth Āraṇyaka: नह्यन्यं बळाकरमित्येतां प्रत्यवदधाति (*nahyanyaṃ baḷākaramityetāṃ pratyavadadhāti*) (Ai. Ā. 5, 2. 3) **GLOSS**
+
+This sūkta, beginning नह्यन्यं (*nahyanyaṃ*), is the eleventh sūkta in the eighth Anuvāka. It has ten Ṛks. In the Anukramaṇikā it is said: नह्यन्यं दशैकद्यूर्नौधसो गायत्रेऽन्त्या दैवी त्रिष्टुप् (*nahyanyaṃ daśaikadyūrnaudhaso gāyatre 'ntyā daivī triṣṭup*). The seer of this sūkta is Ekadyū, the son of the seer Nodhas; Indra is the deity; for the tenth Ṛk the Devas are the deity;
+
+### Printed p. 197
+
+the last Ṛk of this sūkta is in Triṣṭubh metre. The remaining Ṛks are in Gāyatrī metre. The use of the first eight Ṛks of this sūkta for the śastra mantras recited by the priest called Maitrāvaruṇa in the second paryāya is explained by the Āśvalāyana Śrauta Sūtra in the sūtra नह्यन्यं बळाकरमित्यष्टौ (*nahyanyaṃ baḷākaramityaṣṭau*) (Ā. Sū. 6-4). The use of the first Ṛk of this sūkta for the Gāyatrī-metre Ṛks, when the Niṣkevalya śastra mantras are recited in the Mahāvratesṭi, is indicated by the sage Śaunaka in the Fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence नह्यन्यं बळाकरमित्येतां प्रत्यवदधाति (*nahyanyaṃ baḷākaramityetāṃ pratyavadadhāti*) (Ai. Ā. 5-2-3).
+
+Sūkta 80
+
+Maṇḍala 8, Anuvāka 8, Sūkta 80
+
+Aṣṭaka 6, Adhyāya 5, Varga 35, 36
+
+Number of Ṛks in the sūkta: 10
+
+Seer: Ekadyūrnaudhasaḥ
+
+Deity: Ṛks 1-9 Indra; Ṛk 10 the Devas
+
+Metre: Ṛks 1-9 Gāyatrī; Ṛk 10 Triṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न॒ह्य१॒॑न्यं ब॒ळाक॑रं मर्डि॒तारं॑ शतक्रतो ।  
+> त्वं न॑ इंद्र मृळय ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नहि । अन्यम् । बळा । अकरम् । मर्डितारम् । शतक्रतो इति शतऽक्रतो ।  
+> त्वम् । नः । इंद्र । मृळय ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे शतक्रतो त्वत्तः अन्यं मर्ङितारं सुखयितारं बळा बट् सत्यं न अकरं न करोमि । तस्माद्धे इंद्र त्वं नः अस्मान् मृळय ॥
+
+##### Gist of the bhāṣya
+
+O Śatakratu, I do not make any other than you a comforter, a giver of happiness (बळा (*baḷā*) means truth). Therefore, O Indra, make us happy.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शतक्रतो (*śatakrato*)—O Indra, doer of many deeds
+- अन्यं (*anyaṃ*)—other than you
+- मर्डितारं (*marḍitāraṃ*)—one who gives us happiness
+- बळा (*baḷā*)—truly
+- न अकरं (*na akaraṃ*)—I cannot see **NOTE**
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- मृळय (*mṛḷaya*)—make happy
+
+### Printed p. 198
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, doer of many deeds, other than you, one who gives us happiness, I cannot truly see. O Indra, make us happy.
+
+##### English translation
+Other then you, Satakratu, I know no bestower of happiness ; Indra, you make us happy.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यो नः॒ शश्व॑त्पु॒रावि॒थामृ॑ध्रो॒ वाज॑सातये ।  
+> स त्वं न॑ इंद्र मृळय ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यः । नः । शश्वत् । पुरा । आविथ । अमृध्रः । वाजऽसातये ।  
+> सः । त्वम् । नः । इंद्र । मृळय ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः अमृधः अहिंसकः नः अस्मान् वाजसातये अन्नलाभाय पुरा पूर्वम् आविथ रक्षितवान् । हे इंद्र स त्वं नः अस्मान् शश्वत् सदा मृळय सुखय ॥
+
+##### Gist of the bhāṣya
+
+You who are harmless (अमृधः (*amṛdhaḥ*)) and have protected (आविथ (*āvitha*)) us before, for the gain of food (वाजसातये (*vājasātaye*)), O Indra, being that same one, make us happy (मृळय (*mṛḷaya*)) always (शश्वत् (*śaśvat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अमृध्रः (*amṛdhraḥ*)—harmless
+- यः (*yaḥ*)—you who
+- नः (*naḥ*)—us
+- वाजसातये (*vājasātaye*)—for the gain of food
+- पुरा (*purā*)—in former times
+- आविथ (*āvitha*)—have protected
+- सः (*saḥ*)—such
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—us
+- शश्वत् (*śaśvat*)—always
+- मृळय (*mṛḷaya*)—make happy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the harmless one, who have protected us in former times for the gain of food, make us happy always.
+
+##### English translation
+O you, the invulnerable, who have always in former times protected us for the battle, you **NOTE**, Indra, make us happy.
+
 ---
 
-**Progress note:** Done through printed p. 192. Maṇḍala 8 sūkta 78 end, sūkta 79 Ṛks 1-5 (pp. 187-192)
+**Progress note:** Done through printed p. 198. Maṇḍala 8 sūkta 79 Ṛks 6-9, sūkta 80 Ṛks 1-2 (pp. 193-198)
