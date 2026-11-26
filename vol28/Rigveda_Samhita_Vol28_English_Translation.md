@@ -13557,6 +13557,202 @@ Then the gods addressed that man (Rudra): "O Rudra, Prajāpati has committed a f
 तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकांडा सो एवेषुस्त्रिकांडा ॥ (*tamabhyāyatyāvidhyatsa viddha ūrdhva udaprapatattametaṃ mṛga ityācakṣate ya u eva mṛgavyādhaḥ sa u eva sa yā rohitsā rohiṇī yo eveṣustrikāṃḍā so eveṣustrikāṃḍā ‖*)
 Then Rudra came forward, strung his bow, fitted the arrow, drew it back, aimed at Prajāpati and shot. The arrow struck Prajāpati, who was in the form of Ṛśya, and he leapt upward into the sky. People all see Prajāpati leaping upward in the sky and call it the constellation called Mṛga (Stars in the Orion).
 
+### Printed p. 416
+
+##### विशेषविषयगळु (Special Topics)
+
+That is, they say it is the Mṛgaśīrṣa asterism that lies between the asterisms Rohiṇī and Ārdrā. The idea is that Prajāpati exists in the form of an asterism. Rudra, who struck Prajāpati (who was in the form of a deer) with an arrow, appears in the sky under the name Mṛgavyādha. The daughter of Prajāpati, who was in the form of a red deer called Rohita (a doe), appears in the sky as the asterism Rohiṇī. The arrow shot by Rudra came to have three parts: kāṇḍa (the long shaft of the arrow), śalya (the barb) and tip (the sharp point). Therefore the arrow even now has three parts.
+
+तद्वा इदं प्रजापते रेतः सिक्तमधावत्तत्सरोऽभवत्ते देवा अब्रुवन्मेदं प्रजापते रेतो दुषदिति यदब्रुवन्मेदं प्रजापते रेतो दुषदिति तन्मादुषमभवत्तन्मादुषस्य मादुषत्वं माडुषं ह वै नामैतद्यन्मानुषं सन्मानुषमित्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवाः ॥ (*tadvā idaṃ prajāpate retaḥ siktamadhāvattatsaro 'bhavatte devā abruvanmedaṃ prajāpate reto duṣaditi yadabruvanmedaṃ prajāpate reto duṣaditi tanmāduṣamabhavattanmāduṣasya māduṣatvaṃ māḍuṣaṃ ha vai nāmaitadyanmānuṣaṃ sanmānuṣamityācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ ‖*) (Ai. Brā. 13-22)
+
+Now, since the semen (virility) of Prajāpati, who was in the form of a deer, was abundant, a part of it was shed in his daughter, the doe, and the remainder fell on the earth, began to flow like a river in the form of a stream, collected in a low-lying place and became a great lake. Seeing it, the gods wished that people should not think Prajāpati's virility untouchable (not to be touched), nor मादुषत् (*māduṣat*) bad. Because the gods called it मादुषत् (*māduṣat*), the lake, which was the semen of the faultless Prajāpati, came to be named मादुषत् (*māduṣat*). People read the word मादुष (*māduṣa*) with the letter na in place of its da, and so call Brāhmaṇas, Kṣatriyas and other people मानुष (*mānuṣa*). Rightly considered, the meaning of the word मानुष (*mānuṣa*) (मादुष (*māduṣa*)) is "being free from fault". That being so, instead of referring to their bodies by the word मानुष (*mānuṣa*) of ordinary meaning, people refer to them by the word of indirect meaning (that is, of the excellent meaning मादुष (*māduṣa*)). Therefore men who are worthy and worshipful like the gods are, in worldly usage, fond of the indirect (satisfied with words of hidden meaning, not of a directly apparent meaning). For example, instead of the ordinary names Devadatta and so on given them by their parents, they are satisfied with names of apt meaning that make their fame shine, such as Upādhyāya, Ācārya, Svāmī. The gods too do not appear directly but accept praise and the like while remaining unseen; therefore they say the gods are fond of the indirect. Hence, to show indirectness, they put na in place of da in the word मादुष (*māduṣa*) and use मानुष (*mānuṣa*).
+
+तदग्निना पर्यादधुस्तन्मरुतोऽधून्वंस्तदग्निर्न प्राच्यावयत्तदग्निना वैश्वानरेण पर्यादधुस्तन्मरुतोऽधून्वंस्तदग्निर्वैश्वानरः प्राच्यावयत्तस्य यद्रेतसः प्रथममुददीप्यत तदसावादित्योऽभवद्यद्ध्वितीयमासीत्तद्भृ (*tadagninā paryādadhustanmaruto 'dhūnvaṃstadagnirna prācyāvayattadagninā vaiśvānareṇa paryādadhustanmaruto 'dhūnvaṃstadagnirvaiśvānaraḥ prācyāvayattasya yadretasaḥ prathamamudadīpyata tadasāvādityo 'bhavadyaddhvitīyamāsīttadbhṛ*)
+
+### Printed p. 417
+गुरभवत्तं वरुणो न्यगृह्णीत तस्मात्स भृगुर्वारुणिरथ यत्तृतीयमदीदेविव त आदित्या अभवन्येऽज्जारा आसंस्तेऽङ्गरसोऽभवन्यदंगाराः पुनरवशांता उददीप्यंत तद्बृहस्पतिरभवत् ॥ (*gurabhavattaṃ varuṇo nyagṛhṇīta tasmātsa bhṛgurvāruṇiratha yattṛtīyamadīdeviva ta ādityā abhavanye 'jjārā āsaṃste 'ṅgaraso 'bhavanyadaṃgārāḥ punaravaśāṃtā udadīpyaṃta tadbṛhaspatirabhavat ‖*) (Ai. Brā. 13-24)
+
+Then, after the gods had made Prajāpati's semen faultless, they thought that this semen, which was in liquid form in the shape of the lake, should be made free of liquid; so they lit fire all round that lake and began to heat it. While the fire blazed all round the lake, the wind churned the semen into turmoil in order to dry up the liquid mixed in it. Even so, because the liquid portion in the semen was very great, the fire with its heat was unable to remove it and turn it into a lump (a solid substance, a hard material). Therefore the gods tried to accomplish this task, which the fire could not accomplish, through the particular form of fire named Vaiśvānara. This Vaiśvānara fire enters the bellies of all creatures in the form of the digestive fire and is engaged in digesting food and drink.
+
+अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः । प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधं ॥ (*ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ | prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidhaṃ ‖*)
+
+The Lord himself has said: "I, dwelling in the bodies of creatures in the form of the Vaiśvānara fire, joined with the vital airs prāṇa and apāna, digest the four kinds of food that creatures eat." Therefore the gods, knowing that the power of the Vaiśvānara fire is exceptional, set the Vaiśvānara fire all round the lake to dry up (desiccate) Prajāpati's semen. The wind too, as before, entered the lake, churned it into turmoil and began to dry it. Thus, with the help of the wind, the Vaiśvānara fire separated Prajāpati's semen from its liquid state and turned it into a solid substance in lumps. In this way the semen was transformed into many lumps (globes) and began to shine, blazing. Of these, the first lump, the mass of brilliance, became the Āditya seen in heaven (in the sky). The second lump became the sage Bhṛgu. Varuṇa accepted this Bhṛgu as his son; therefore the sage Bhṛgu came to be called भृगुर्वारुणिः (*bhṛgurvāruṇiḥ*), the sage Bhṛgu the son of Varuṇa. Because he is the son of Varuṇa he is also called Vāruṇi. With this in mind the students of the Taittirīya branch recite: भृगुर्वै वारुणिः । वरुणं पितरमुपससार ॥ (*bhṛgurvai vāruṇiḥ | varuṇaṃ pitaramupasasāra ‖*) (Tai. U. 3-1). Then the third lump, shining exceedingly, became famous under the name Ādityas, as sons of Aditi. Āditya means the sun within the disc. Here it should be understood that the word आदित्याः (*ādityāḥ*) indicates the other gods, sons of Aditi. Then some further lumps burned well (were consumed) and became embers.
+
+### Printed p. 418
+From those embers the sages called Aṅgiras were produced; and from the embers that were still burning and had not gone out, that is, that again and again began to blaze brightly, Bṛhaspati was produced.
+
+यानि परीक्षाणान्यासंस्ते कृष्णाः पशवोऽभवन्या लोहिनी मृत्तिका ते रोहिता अथ यद्भस्मासीत्तत्परुष्यं व्यसर्पद्गौरो गवय ऋश्य उष्टो गर्दभ इति ये चैतेरुणाः पशवस्ते च । (*yāni parīkṣāṇānyāsaṃste kṛṣṇāḥ paśavo 'bhavanyā lohinī mṛttikā te rohitā atha yadbhasmāsīttatparuṣyaṃ vyasarpadgauro gavaya ṛśya uṣṭo gardabha iti ye caiteruṇāḥ paśavaste ca |*) (Ai. Brā. 13-34)
+
+Then, when the embers had gone out and become aṅgāra (charcoal), they became black animals. After the fire had burned, the red clay (earth) that lay at the bottom became red animals. From the ashes (bhasma) arose the paruṣya animals, that is, the forest beasts gaur, gavaya and ṛśya, and also the camel and the donkey; and so on. From this legend the origin of the sages Aṅgiras, their relation to Agni, and the reason why Agni got the name Aṅgiras are all explained.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒ध्या यत्कर्त्व॒मभ॑वद॒भीके॒ कामं॑ कृण्वा॒ने पि॒तरि॑ युव॒त्यां ।  
+> म॒ना॒नग्रेतो॑ जहतुर्वि॒यंता॒ सान्॒ निषि॑क्तं सुकृ॒तस्य॒  ॑
+> योन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मध्या । यत् । कर्त्वं । अभवत् । अभीके । कामं । कृण्वाने । पितरि । युवत्यां ।  
+> मनानक् । रेतः । जहतुः । वियंता । सानौ । निसिक्तं । सुकृतस्य । योन् ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कामं यथेच्छं कृष्णाने कुर्वाणे पितरि प्रजापतौ युवत्यां दुहितर्युषसि दिवि वा । दिवमित्यन्य इति हि ब्राह्मणं प्रदर्शितं । मध्या तयोर्मध्येऽंतरिक्षमध्ये नाभीके समीपे यत्कर्त्वं कर्माभवत् मिथुनीभावाख्यं तदानीं मनानगनल्पं रेतो जहतुः । त्यक्तवंतौ । किं कुर्वाणाविति तत्राह । वियंतौ परस्परमभिगच्छंतौ । प्रजापतिना सानौ समुच्च्रिते स्थाने सुकृतस्य यज्ञस्य योन्नि निषिक्तमासीदित्यर्थः । ततो रुद्र उत्पन्न इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+कामं (*kāmaṃ*) means "at will": while the father, Prajāpati, acts at will with his young daughter, Uṣas or Heaven. He notes that the Brāhmaṇa has shown "the other (reading) is Heaven". मध्या (*madhyā*): in the middle of those two, in mid-air, in the neighbourhood, the act that took place, namely the union, then the two let go मनानक् (*manānak*), which he glosses "not little" (*analpaṃ*), semen. What were they doing? He says: वियंतौ (*viyaṃtau*), going toward each other. The semen was poured by Prajāpati on a सानौ (*sānau*), a raised place, in the womb (योन्नि (*yonni*)) of the sacrifice (सुकृतस्य (*sukṛtasya*)). Thence Rudra arose. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कामं (*kāmaṃ*)—independently
+- कृष्णाने (*kṛṣṇāne*)—who was acting
+- पितरि (*pitari*)—the father, Prajāpati
+- युवत्यां (*yuvatyāṃ*)—the daughter, Uṣas
+- मध्या (*madhyā*)—in the middle of the sky
+- अभीकॆ (*abhīkè*)—nearby
+
+### Printed p. 419
+- यत् (*yat*)—when
+- कर्त्वं (*kartvaṃ*)—the act of uniting together
+- अभवत् (*abhavat*)—when they performed it, then
+- वियंता (*viyaṃtā*)—those two who had come together
+- मनानक् (*manānak*)—to a small extent
+- रेतः (*retaḥ*)—semen
+- जहतुः (*jahatuḥ*)—loosened and let go
+- सानौ (*sānau*)—in the elevated place
+- सुकृतस्य (*sukṛtasya*)—of the sacrifice
+- योन्सौ (*yonsau*)—in the middle
+- निषिक्तं (*niṣiktaṃ*)—was poured (the semen)
+
+##### भावार्थ (Bhāvārtha)
+
+When the father, Prajāpati, who acted independently, and the daughter, Uṣas, came together in the middle of the sky, they let go a little of the semen. That semen was poured in the middle of the sacrifice that stands in an elevated place.
+
+##### English translation
+When the deed was done in mid-heaven in the proximity of the father working his will, and the daughter coming together, they let the seed fall slightly ; it was poured upon the high place of sacrifice.
+
+#### Ṛk 7
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒ता यत्स्वां दु॑हि॒तर॑मधि॒ष्कन्म॒या रेतः॑ संजग्मा॒नो नि  ॑
+> षिंचत् ।  
+> स्वा॒ध्यो॑ऽजनय॒न्ब्रह्म॑ दे॒वा वास्तो॒ष्पतिं॑ व्रत॒पां निर॑तक्षन् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पिता । यत् । स्वां । दुहितरं । अधिःस्कन् ! क्षया । रेतः । संजग्मानः । नि ।  
+> सिंचत् ।  
+> सुऽआध्यः । अजनयन् । ब्रह्म । देवाः । वास्तोः । पतिं । व्रतपां । निः । अतक्षन् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पिता प्रजापतिर्यद्यदा स्वां दुहितरं दिवमुषसं वाधिष्कन् अध्यस्कंदत्
+> तदासीमेव क्षया पृथिव्या सह संजग्मानः संगच्छमानः प्रजापतिरस्मिल्लोके
+> रोहितो भूत्वा रेतो नि षिंचत् । निषेकमकरोत् । तामृश्यो भूत्वा रोहितं
+> भूतामभ्यैदिति ब्राह्मणं । ऐ. ब्रा. ३-३३ । तदानीं स्वाध्यः सुध्यानाः सुकर्माणो
+> ना देवा ब्रह्माजनयन् । उदपादयन् । किं तद्ब्रह्मेति तदाह । वास्तोष्पतिं
+
+### Printed p. 420
+
+> यज्ञवास्तुस्वामिनं व्रतपां व्रतस्य कर्मणो रक्षःप्रभृतिभ्यः पालकं निरतक्षन् ।
+> समुदपादयन् । यज्ञवास्तु स्वामित्वं दत्त्वा कर्मरक्षकत्वेन निर्मितवंत इत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+When the father Prajāpati sprang upon (*adhiṣkan*, he glosses अध्यस्कंदत् (*adhyaskaṃdat*)) his own daughter, Heaven or Uṣas, then, uniting with क्षया (*kṣayā*), the earth, Prajāpati, having become Rohita (the red stag) in this world, poured out the semen, that is, made the pouring. The Brāhmaṇa says: becoming a doe (ऋश्य (*ṛśya*)) she approached him who had become Rohita (Ai. Brā. 3-33). At that time the स्वाध्यः (*svādhyaḥ*), the gods of good thought and good works, brought forth ब्रह्म (*brahma*). What is that ब्रह्म (*brahma*)? He answers: वास्तोष्पतिं (*vāstoṣpatiṃ*), the lord of the sacrificial site, व्रतपां (*vratapāṃ*), the protector of the rite (व्रत (*vrata*)) against rākṣasas and the like. निरतक्षन् (*niratakṣan*) means they produced (him): having given him lordship of the sacrificial site, they fashioned him as the guardian of the rite.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पिता (*pitā*)—the father, Prajāpati
+- यत् (*yat*)—when
+- स्वां दुहितरं (*svāṃ duhitaraṃ*)—with his own daughter, Uṣas
+- अधिष्ठन् (*adhiṣṭhan*)—when he united and had intercourse, then
+- क्ष्मया (*kṣmayā*)—with the earth
+- संजग्मानः (*saṃjagmānaḥ*)—having united with (in this world)
+- रेतः (*retaḥ*)—semen
+- नि षिंचत् (*ni ṣiṃcat*)—poured out
+- (then) स्वाध्यः (*svādhyaḥ*)—the doers of excellent works
+- देवाः (*devāḥ*)—the gods
+- ब्रह्म (*brahma*)—Brahmā
+- अजनयन् (*ajanayan*)—produced
+- वास्तोष्पतिं (*vāstoṣpatiṃ*)—lord of the sacrifice
+- व्रतपां (*vratapāṃ*)—protector of the rite, that is Brahmā
+- (Vāstoṣpati) निरतक्षन् (*niratakṣan*)—they produced
+
+##### भावार्थ (Bhāvārtha)
+
+When the father Prajāpati united with his daughter Uṣas and had intercourse, he, joined with the earth, poured out the semen in this world. Then the gods, the doers of excellent works, produced Brahmā. They produced Brahmā (Vāstoṣpati), the lord of the sacrifice and protector of the rite.
+
+##### English translation
+When the father united with the daughter, then associating with the earth, he sprinkled it with the effusion : then the thoughtful gods begot Brahma : they fabricated the lord of the hearth (of sacrifice); the defender of sacred rites.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स ईं॒ वृषा॒ न फेन॑मस्यदा॒जौ स्मदा परै॒दप॑ द॒भ्रचे॑ताः ।  
+> सर॑त्प॒दा न दक्षि॑णा परा॒वृज्ञ ता नु मे॑ पृश॒न्यो॑ जगृभ्रे ॥८॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । ईं । वृषा । न । फेनं । अस्यत् । आजौ । स्मत् । आ । परा । ऐत् । अप ।  
+> दभ्रचेताः ।  
+> सरत् । पदा । न । दक्षिणा । परावृक् । न । ताः । नु । मे । पृशन्यः । जगृभ्रे ॥ ८ ॥
+
+### Printed p. 421
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अंगिरसां सत्क्रांते नाभानेदिष्टो गा निरोधयंतं वास्तोष्णतिं पुरतः
+> पश्यन्वदति । स ईं । सोऽयं वृषा न वर्षक इंद्र इव स यथा नमुचेर्वधार्थमाजौ संग्रामे फेनमस्यत् क्षिप्तवान् तद्वत्क्षेपमना वास्तोष्णतिरिदानीं तवैव
+> वास्तुभागो युक्त इति यथार्थकथनानंतरं स्मदस्मत्त आप परैत् । अपपरागच्छति ।
+> दभ्रचेता अल्पमनस्को यः कश्चिद्दक्षिणा दक्षिणार्थानां गवां परावृक् परावर्जयिता सन् पदा पदानि न सरत् । न सरति। अस्मदभिमुखमागच्छति । मे मम संबंधिन्यस्ता गा अंगिरोभिर्दत्ताः पृशन्यः पथिकानामभिस्पर्शनकुशलो रुद्रो न जगृभ्रे ।
+> न गृह्णातीत्येवमाशास्त्रे ॥
+
+##### Gist of the bhāṣya
+
+In the sattra of the Aṅgirases, Nābhānediṣṭha, seeing in front of him वास्तोष्णतिं (*vāstoṣṇatiṃ*) who was holding back the cows, speaks. स ईं (*sa īṃ*): this one, वृषा न (*vṛṣā na*), like the showerer, Indra: as he, for the slaying of Namuci, cast foam (फेनं (*phenaṃ*)) in battle (आजौ (*ājau*)), so Vāstoṣpati, with the intention of casting it, after saying truthfully, "Now the share of the site is rightly yours alone", goes away from us (स्मत् (*smat*) = स्मत् (*smat*); आप परैत् (*āpa parait*)). दभ्रचेताः (*dabhracetāḥ*): anyone of small mind, being one who turns away (परावृक् (*parāvṛk*)) the cows meant for the dakṣiṇā, does not step (पदानि न सरत् (*padāni na sarat*)), does not come toward us. Those cows of mine, given by the Aṅgirases, पृशन्यः (*pṛśanyaḥ*), Rudra, skilled in touching travellers, does not seize (न जगृभ्रे (*na jagṛbhre*)); so he says in the *āśāstre*. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स ईं (*sa īṃ*)—that same Vāstoṣpati
+- वृषा न (*vṛṣā na*)—like Indra, the maker of rain
+- आजौ (*ājau*)—in battle
+- फेनं (*phenaṃ*)—foam
+- अस्यत् (*asyat*)—poured out and spread all around
+- स्मत् (*smat*)—from us
+- आ अप परैत् (*ā apa parait*)—moved away and came
+- दभ्रचेताः (*dabhracetāḥ*)—one of small mind
+- दक्षिणा (*dakṣiṇā*)—the cows meant for the dakṣiṇā
+- परावृक् (*parāvṛk*)—abandoning
+- पदा (*padā*)—even a step
+- न सरत् (*na sarat*)—does not put forward
+- (but) पृशन्यः (*pṛśanyaḥ*)—Rudra, skilled in plundering
+- मे (*me*)—belonging to me
+- ताः (*tāḥ*)—those same cows
+- न जगृभ्रे (*na jagṛbhre*)—did not snatch away
+
+##### भावार्थ (Bhāvārtha)
+
+Vāstoṣpati, like Indra the maker of rain, poured out and spread foam all around in battle. He moved away from us. Any other person of small mind would leave the cows meant for the dakṣiṇā and not put forward even a step. But Rudra, skilled in plundering, did not snatch away those same cows that belong to me.
+
+##### English translation
+He, like the showerer (Indra), cast foam around in the combat, and came away from us with a niggard mind ; he advances not a step, relin- quishing the donations ; though skilled in rapine, he seizes not these my (cows)
+
+#### Ṛk 9
+**NOTE**
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒क्ष्मा न वह्निः॑ प्र॒जाया॑ उप॒ब्बिर॒ग्निं न न॒ग्न उप॑ सीद॒दूधः॑ ।  
+> सनि॑ते॒ध्मं सनि॑तो॒त वाजं॒ स ध॒र्ता ज॑ज्ञे॒ सह॑सा यवी॒युत् ॥
+
 ---
 
-**Progress note:** Done through printed p. 415. pp. 410-415 (batch API)
+**Progress note:** Done through printed p. 421. pp. 416-421 (batch API)
