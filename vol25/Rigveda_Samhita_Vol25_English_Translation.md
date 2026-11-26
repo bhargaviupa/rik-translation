@@ -20445,6 +20445,209 @@ Verily, O Sun, you are great in fame ; O god, you are indeed mighty among the go
 
 In this Ṛk there is praise of Uṣas, or of the radiance of the sun. This one, turned downward, praised, endowed with form, made radiant, whether Uṣas or the radiance of the sun that has been produced, was seen by all, coming within the cosmic egg through the ten directions, which stand in the place of arms, like a variegated cow.
 
+### Printed p. 531
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- या इयं (*yā iyaṃ*)—this radiance of the sun which
+- नीची (*nīcī*)—she who has a spread turned downward
+- अर्किणे (*arkiṇe*)—she who is worthy of praise
+- रूपा (*rūpā*)—she who is beautiful
+- रोहिण्या (*rohiṇyā*)—and endowed with light
+- कृता (*kṛtā*)—she who has been created
+- अंतः (*aṃtaḥ*)—in the middle of the cosmic egg
+- बाहुषु (*bāhuṣu*)—standing in the place of her own arms
+- दशसु (*daśasu*)—in the ten directions
+- आयती (*āyatī*)—while she comes
+- चित्रेव (*citreva*)—like a cow of variegated colour
+- प्रत्यदर्शि (*pratyadarśi*)—she is seen
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess, the radiance of the sun, who has a spread turned downward, is endowed with praise, is beautiful and is endowed with light, has been created; she, while she comes in the middle of the cosmic egg in the ten directions that stand in the place of her own arms, is seen like a cow of variegated colour.
+
+##### English translation
+She who was created beautiful and bright, bending downwards and receiving all praise, has been seen within (the world), like a brindled cow, advancing to the ten regions (spread out) like arms.
+
+##### विशेषविषयगळु (Special Topics)
+
+या इयं (*yā iyaṃ*) can also be explained as "which this goddess Uṣas". All the remaining epithets also describe the nature of the goddess Uṣas.
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒जा ह॑ ति॒स्रो अ॒त्याय॑मीयु॒र्न्य१॒॑न्या अ॒र्कम॒भितो॑ विविश्रे ।  
+> बृ॒हद्ध॑ तस्थौ॒ भुव॑नेष्वं॒तः पव॑मानो ह॒रित॒ आ वि॑वेश ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽजाः । ह । तिस्रः । अतिऽआयम् । ईयुः । नि । अन्याः । अर्कम् । अभितः । विविश्रे ।  
+> बृहत् । ह । तस्थौ । भुवनेषु । अंतरिति । पवमानः । हरितः । आ । विवेश ॥ १४ ॥
+
+### Printed p. 532
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> याः तिस्रः प्रजाः अत्यायमीयुः अत्यायमायन् अन्याः ता इमाः प्रजाः अर्कम् अर्चनीयमग्निम् अभितो विविश्रे अभितो निविष्टास्ततो न पराबभूवुः । भुवनेष्वंतः मध्ये बृहत् महान् असावादित्यः । प्रजापतिरित्येके । तस्थौ प्रकाशयन्नतिष्ठत् । हरितः दिशः पवमानः वायुः आ विवेश आविष्टः । तथा चैतरेयब्राह्मणं - ‘प्रजा ह तिस्रो अत्यायमीयुरिति या वै ता इमाः प्रजास्तिस्रो अत्यायमायंस्तानीमानि वयांसि वंगावगधाश्चेरपादाः । न्यन्या अर्कमभितो विविश्र इति ता इमाः प्रजा अर्कमभितो निविष्टा इममेवाग्निं बृहद्ध तस्थौ भुवनेष्वंतरित्यद उ एव बृहद्भुवनेष्वंतरसावादित्यः पवमानो हरित आ विवेशेति वायुरेव पवमानो दिशो हरित आविष्टः ' (ऐ. आ. २. १. १) इति । वाजसनेयिनोऽप्यामनंति - ‘ स तपोऽतप्यत स प्रजा असृजत ता अस्य प्रजाः सृष्टाः पराबभूवुस्तानीमानि वयांसि ' इत्युपक्रम्य ‘ प्रजा ह तिस्रो अत्यायमीयुरिति या अमूः प्रजा अत्यायन् न्यन्या अर्कमभितो विविश्र इत्यग्निर्वा अर्कस्तमिमाः प्रजा अभितो निविष्टास्ता इमाः पराभूताः । बृहद्ध तस्थौ भुवनेष्वंतरिति प्रजापतिमेवैतदभ्यनुक्तं पवमानो हरित आ विवेशेति दिशो वै हरितस्ता अयं पवमान आविष्टः ' (श. ब्रा. २. ५. १. १-५) इति ॥
+
+##### Gist of the bhāṣya
+
+The three kinds of creatures that went beyond (अत्यायमीयुः (*atyāyamīyuḥ*), that is, अत्यायमायन् (*atyāyamāyan*): went past); the others, these creatures, settled (विविश्रे (*viviśre*)) all around अर्कम् (*arkam*), the worshipful Agni, and so did not perish. In the middle of the worlds the great one, that Āditya (some say Prajāpati), stood, illumining. Pavamāna, that is Vāyu, entered the Harits, the quarters. Sāyaṇa quotes the Aitareya Brāhmaṇa (Ai. Ā. 2. 1. 1): the three creatures that went beyond are these birds, the वंगावगधाश्चेरपादाः (*vaṃgāvagadhāścerapādāḥ*); "the others settled around Arka" means that these creatures settled around Arka, this Agni; "Bṛhat stood within the worlds" means that yonder Āditya is great within the worlds; "Pavamāna entered the Harits" means that Vāyu is Pavamāna and entered the quarters. The followers of the Vājasaneya also teach (Śa. Brā. 2. 5. 1. 1-5): beginning with "He performed austerity; he created creatures; those creatures created by him perished, these birds", they continue: the creatures that went beyond are those yonder; Agni is Arka, around him these creatures settled, and those perished (पराभूताः (*parābhūtāḥ*)); "Bṛhat stood within the worlds" is said of Prajāpati; the quarters are the Harits, and this Pavamāna has entered them. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तिस्रः ह प्रजाः (*tisraḥ ha prajāḥ*)—the three kinds of creatures created by Prajāpati
+- आत्यायं (*ātyāyaṃ*)—death
+- ईयुः (*īyuḥ*)—attained
+- अन्याः (*anyāḥ*)—the remaining ones
+- अर्कं अभितः (*arkaṃ abhitaḥ*)—surrounding the worshipful Agni
+- नि विविश्रे (*ni viviśre*)—took refuge and sat
+- बृहत् (*bṛhat*)—the great Āditya
+- भुवनेषु अंतः (*bhuvaneṣu aṃtaḥ*)—in the middle of all the worlds
+- तस्थौ ह (*tasthau ha*)—is established
+- पवमानः (*pavamānaḥ*)—Vāyu
+- हरितः (*haritaḥ*)—all the quarters
+- आ विवेश (*ā viveśa*)—has entered
+
+##### भावार्थ (Bhāvārtha)
+
+The three kinds of creatures created by Prajāpati attained death. The remaining creatures took refuge around the worshipful Agni and sat. The great Āditya is established in the middle of all the worlds. Vāyu has entered all the quarters.
+
+##### English translation
+Three kinds of creatures went to destruction ; the others came before Agni ; the mighty one (the Sun) stood within the worlds ; (Vayu), the purifier, entered the quarters of the sky.
+
+### Printed p. 533
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा॒ता रु॒द्राणां॑ दुहि॒ता वसू॑नां॒ स्वसा॑दि॒त्याना॑म॒मृत॑स्य॒ नाभिः॑ ।  
+> प्र नु वो॑चं चिकि॒तुषे॒ जना॑य॒ मा गामना॑गा॒मदि॑तिं वधिष्ट ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> माता । रुद्राणाम् । दुहिता । वसूनाम् । स्वसा । आदित्यानाम् । अमृतस्य । नाभिः ।  
+> प्र । नु । वोचम् । चिकितुषे । जनाय । मा । गाम् । अनागाम् । अदितिम् । वधिष्ट ॥ १५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्मिन् द्वृचे गौः स्तूयते । या गौः रुद्राणां मरुतां माता जननी वसूनां दुहिता पुत्री आदित्यानां स्वसा भगिनी अमृतस्य पयसः नाभिः आवासस्थानं ताम् अनागाम् अनागसम् अदितिम् अदीनां गां गोरूपां देवीं मा वधिष्ट हे जनाः मा हिंसिष्टेति चिकितुषे चेतनावते जनाय नु इदानीं प्र वोचम् अहं प्रावोचमिति शुश्रूषमाणेभ्य उपदेशः ॥
+
+##### Gist of the bhāṣya
+
+In this pair of Ṛks the cow is praised. The cow who is the mother of the Rudras, that is the Maruts, the daughter of the Vasus, the sister of the Ādityas, the navel of the immortal, that is of milk, the place where it dwells: O people, do not kill her, the sinless Aditi, that is the undiminished (अदीनां (*adīnāṃ*)) cow, the goddess in the form of a cow. Thus I now proclaim (प्र वोचम् (*pra vocam*)) to the people who have understanding; it is an instruction to those who wish to listen. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रुद्राणां (*rudrāṇāṃ*)—to the Rudras
+- माता (*mātā*)—the mother
+- वसूनां (*vasūnāṃ*)—to the Vasus
+- दुहिता (*duhitā*)—the daughter
+- आदित्यानां (*ādityānāṃ*)—to the Ādityas
+- स्वसा (*svasā*)—the sister
+- अमृतस्य (*amṛtasya*)—to the milk that is of the nature of ambrosia
+- नाभिः (*nābhiḥ*)—the place of origin
+- अनागां (*anāgāṃ*)—sinless
+- अदितिं (*aditiṃ*)—worshipful
+- गां (*gāṃ*)—the goddess in the form of a cow
+- मा वधिष्ट (*mā vadhiṣṭa*)—do not kill her, thus
+- चिकितुषे (*cikituṣe*)—to the wise
+- जनाय (*janāya*)—people
+- नु (*nu*)—now
+- प्र वोचं (*pra vocaṃ*)—I have said
+
+##### भावार्थ (Bhāvārtha)
+
+To the goddess who is the mother of the Rudras (the Maruts), the daughter of the Vasus, the sister of the Ādityas, the place of origin of the milk that is of the nature of ambrosia, sinless, worshipful, and in the form of a cow: do not kill her; thus I have now said (I say) to the wise people.
+
+##### English translation
+(She who is) the mother of the Rudras, the Daughter of the Vasus, the sister of the Adityas, the home of ambrosia,—I have spoken to men of understanding,—kill not her, the sinless inviolate cow.
+
+### Printed p. 534
+
+#### Ṛk 16
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒चो॒विदं॒ वाच॑मुदी॒रयं॑तीं॒ विश्वा॑भिर्धी॒भिरु॑प॒तिष्ठ॑मानाम् ।  
+> दे॒वीं दे॒वेभ्यः॒ पर्ये॒युषीं॒ गामा मा॑वृक्त॒ मर्त्यो॑ द॒भ्रचे॑ताः ॥ १६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वचःऽविदम् । वाचम् । उत्ऽईरयंतीम् । विश्वाभिः । धीभिः । उपऽतिष्ठमानाम् ।  
+> देवीम् । देवेभ्यः । परि । आऽईयुषीम् । गाम् । आ । मा । अवृक्त । मर्त्यः । दभ्रऽचेताः ॥ १६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वचोविदं वचसो लंभयित्रीं वाचम् उदीरयंतीं पयः पीत्वा पश्चाद्वाचमुदीरयंतीम् । क्षुधितो हि जनो न वाचमुदीरयति भुक्त्वा पश्चादुदीरयति । विश्वाभिः सर्वाभिः धीभिः वाग्भिः उपतिष्ठमानां देवीं द्योतमानां देवेभ्यः देवार्थं मा माम् एयुषीम् अवगच्छंतीं गां दभ्रचेताः अल्पबुद्धिः मर्त्यः मनुष्यः परि आ अवृक्त परिवर्जयति ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+The cow is the one who causes speech to be obtained (वचसो लंभयित्रीं (*vacaso laṃbhayitrīṃ*)) and who utters speech, uttering speech after she has drunk milk; Sāyaṇa explains that a hungry person does not utter speech, but utters it afterwards, when he has eaten. She is attended (उपतिष्ठमानां (*upatiṣṭhamānāṃ*)) by every kind of speech, the shining goddess, who has come to me for the sake of the gods, that is, who understands. The cow, such as she is, the one of little understanding, a mortal, a man, abandons. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वचोविदं (*vacovidaṃ*)—she who makes speech known
+- वाचं (*vācaṃ*)—speech
+- उदीरयंतीं (*udīrayaṃtīṃ*)—she who utters
+- विश्वाभिः (*viśvābhiḥ*)—all
+- धीभिः (*dhībhiḥ*)—by speech
+- उपतिष्ठमानां (*upatiṣṭhamānāṃ*)—she who is served
+- देवीं (*devīṃ*)—the resplendent
+- देवेभ्यः (*devebhyaḥ*)—for the worship of the gods
+- मां (*māṃ*)—to me
+- एयुषीं (*eyuṣīṃ*)—she who comes to help
+- गां (*gāṃ*)—this goddess in the form of a cow
+- दभ्रचेताः (*dabhracetāḥ*)—who has little understanding
+- मर्त्यः (*martyaḥ*)—only a man
+- परि आ अवृक्त (*pari ā avṛkta*)—abandons
+
+##### भावार्थ (Bhāvārtha)
+
+This goddess in the form of a cow, who makes speech known, who utters speech, who is served by all speech, who is resplendent, who comes to help me in the worship of the gods, is abandoned only by a man of little understanding.
+
+### Printed p. 535
+
+##### English translation
+The divine cow, who herself utters speech and gives speech to others who comes attended by every kind of utterance,- who helps me for my worship of the gods,—it is only the fool who abandons her.
+
+The hundred and second sūkta.
+
+## Sūkta 102 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वमग्ने' इति द्वाविंशत्यृचं नवमं सूक्तं गायत्रमाग्नेयम् । भृगुगोत्रः प्रयोगो नामर्षिः । बार्हस्पत्यः पावकविशेषणविशिष्टोऽग्न्याख्यो वा । यद्वा । सहोनाम्नः पुत्रौ गृहपतियविष्ठसंज्ञकौ द्वावग्नी । तौ सहेदं सूक्तमपश्यताम् । तस्मादस्य तावृषी । अथवा तयोरन्यतरः । तथा चानुक्रांतं-- ‘ त्वमग्ने द्व्यधिका भार्गवः प्रयोगो बार्हस्पत्यो वाग्निः पावकः सहसः सुतयोर्वाग्न्योर्गृहपतियविष्ठयोर्वान्यतर आग्नेयं तु' इति । प्रातरनुवाकस्याग्नेये क्रतौ गायत्रे छंदस्यादितोऽष्टादशर्चः । सूत्रितं च-’ त्वमग्ने बृहद्वय इत्यष्टादशार्चंतस्त्वेति सूक्ते' (आश्व. श्रौ. ४. १३) इति । देवसुवां हविःष्वग्नेर्गृहपतेरनुवाक्या' ‘ त्वमग्ने बृहद्वयः' इत्येषा । सूत्रितं च-’ त्वमग्ने बृहद्वयो हव्यवाळग्निरजरः पिता नः' (आश्व. श्रौ. ४. ११) इति । अन्वारंभणीयायामग्नेर्भगिनोऽनुवाक्या ‘आ सवं सवितुः' इत्येषा। सूत्रितं च-’ आ सवं सवितुर्यथा स नो राधांस्या भर' (आश्व. श्रौ. २.८) इति । आभिप्लविकेषूक्थ्येषु तृतीयसवने मैत्रावरुणस्य ‘अग्निं वो वृधंतम्' इति वैकल्पिकः स्तोत्रियस्तृचः । सूत्रितं च -–'अग्निं वो वृधंतमग्ने यं यज्ञमध्वरम्' ( आश्व. श्रौ. ७. ८) इति । दशमेऽहनि ‘इमं नो यज्ञम्' इति स्तोकसूक्तस्य द्वितीयस्य स्थाने 'अग्ने घृतस्य' इत्येषा । सूत्रितं च- स्तोकसूक्तस्य द्वितीयतृतीययोः स्थानेऽग्ने घृतस्य धीतिभिरुभे सुश्चंद्र सर्पिष इत्येते' (आश्व. श्रौ. ८. १२) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning त्वमग्ने (*tvamagne*), of twenty-two Ṛks, is the ninth sūkta; its metre is Gāyatra and its deity is Agni. Its seer is Prayoga, of the Bhṛgu lineage; or Agni Pāvaka Bārhaspatya, called Agni and distinguished by the epithet "the purifier". Or else the two Agnis, sons of Sahas, named Gṛhapati and Yaviṣṭha, saw this sūkta together, so they are its seers; or else one of the two. So the Anukramaṇī says: त्वमग्ने द्व्यधिका भार्गवः प्रयोगो बार्हस्पत्यो वाग्निः पावकः सहसः सुतयोर्वाग्न्योर्गृहपतियविष्ठयोर्वान्यतर आग्नेयं तु (*tvamagne dvyadhikā bhārgavaḥ prayogo bārhaspatyo vāgniḥ pāvakaḥ sahasaḥ sutayorvāgnyorgṛhapatiyaviṣṭhayorvānyatara āgneyaṃ tu*). Uses: at the Prātaranuvāka, in the Āgneya kratu, in the Gāyatra metre, the first eighteen Ṛks of the sūkta are used, as the sūtra says त्वमग्ने बृहद्वय इत्यष्टादशार्चंतस्त्वेति सूक्ते (*tvamagne bṛhadvaya ityaṣṭādaśārcaṃtastveti sūkte*) (Āśvalāyana Śrauta Sūtra 4. 13). In the oblations to the Devasū deities, the Ṛk त्वमग्ने बृहद्वयः (*tvamagne bṛhadvayaḥ*) is the anuvākyā of Agni Gṛhapati, as the sūtra says त्वमग्ने बृहद्वयो हव्यवाळग्निरजरः पिता नः (*tvamagne bṛhadvayo havyavāḷagnirajaraḥ pitā naḥ*) (Āśvalāyana Śrauta Sūtra 4. 11). In the Anvārambhaṇīyā, the Ṛk आ सवं सवितुः (*ā savaṃ savituḥ*) is the anuvākyā of Agni Bhagin, as the sūtra says आ सवं सवितुर्यथा स नो राधांस्या भर (*ā savaṃ savituryathā sa no rādhāṃsyā bhara*) (Āśvalāyana Śrauta Sūtra 2. 8). In the Ābhiplavika ukthya days, at the third pressing, the tṛca अग्निं वो वृधंतम् (*agniṃ vo vṛdhaṃtam*) is the optional stotriya of the Maitrāvaruṇa, as the sūtra says अग्निं वो वृधंतमग्ने यं यज्ञमध्वरम् (*agniṃ vo vṛdhaṃtamagne yaṃ yajñamadhvaram*) (Āśvalāyana Śrauta Sūtra 7. 8). On the tenth day, in place of the second of the stoka-sūkta इमं नो यज्ञम् (*imaṃ no yajñam*), the Ṛk अग्ने घृतस्य (*agne ghṛtasya*) is used, as the sūtra says स्तोकसूक्तस्य द्वितीयतृतीययोः स्थानेऽग्ने घृतस्य धीतिभिरुभे सुश्चंद्र सर्पिष इत्येते (*stokasūktasya dvitīyatṛtīyayoḥ sthāne 'gne ghṛtasya dhītibhirubhe suścaṃdra sarpiṣa ityete*) (Āśvalāyana Śrauta Sūtra 8. 12).
+
+Anuvāda: This sūkta beginning त्वमग्ने (*tvamagne*) is the ninth sūkta in the tenth Anuvāka. It has twenty-two Ṛks. The seer of this sūkta is the one named Prayoga, born in the lineage of Bhṛgu; or else the seer is the one named Agni Pāvaka Bārhaspatya. Agni is the deity; the metre is Gāyatrī. Or else this sūkta has as seers the two seers named Gṛhapati and Yaviṣṭha, sons of the seer named Sahas, who also bear the name Agni. These two seers made this sūkta visible; therefore both of them are the seers of this sūkta.
+
+### Printed p. 536
+
+Or else someone other than these may be the seer of this sūkta. In the Anukramaṇī it is said: त्वमग्ने द्व्यधिका भार्गवः प्रयोगो बार्हस्पत्यो वाग्निः पावकः सहसः सुतयोर्वाग्न्योर्गृहपतियविष्ठयोर्वान्यतर आग्नेयं तु (*tvamagne dvyadhikā bhārgavaḥ prayogo bārhaspatyo vāgniḥ pāvakaḥ sahasaḥ sutayorvāgnyorgṛhapatiyaviṣṭhayorvānyatara āgneyaṃ tu*). That at the time of reciting the mantras of the Prātaranuvāka the first eighteen Ṛks of this sūkta are used for the Ṛks in the Gāyatrī metre belonging to the Āgneya kratu is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वमग्ने बृहद्वय इत्यष्टादशार्चंतस्त्वेति सूक्ते (*tvamagne bṛhadvaya ityaṣṭādaśārcaṃtastveti sūkte*) (Ā. 4-13). That in the eight oblation-offerings made to the deities called Devasū, in the offering made to the deity Gṛhapati Agni, the first Ṛk of this sūkta, त्वमग्ने बृहद्वयु (*tvamagne bṛhadvayu*), is to be recited as the anuvākyā mantra is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वमग्ने बृहद्वयो हव्यवाळग्निरजरः पिता नः (*tvamagne bṛhadvayo havyavāḷagnirajaraḥ pitā naḥ*) (Ā. 4-11). That in the Anvārambhaṇīya sacrifice, in the offering made to the deity Agni Bhagin, the sixth Ṛk of this sūkta, आ सवं सवितुः (*ā savaṃ savituḥ*), is to be recited as the anuvākyā mantra is explained by the sūtra of the Āśvalāyana Śrauta Sūtra आ सवं सवितुर्यथा स नो राधांस्या भर (*ā savaṃ savituryathā sa no rādhāṃsyā bhara*) (Ā. 2-8). That in the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, the priest called Maitrāvaruṇa is to recite as the optional stotriya tṛca the three Ṛks (7-9) beginning अग्निं वो वृधंतं (*agniṃ vo vṛdhaṃtaṃ*) is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अग्निं वो वृधंतमग्ने यं यज्ञमध्वरं (*agniṃ vo vṛdhaṃtamagne yaṃ yajñamadhvaraṃ*) (A. 2 8). And that on the tenth day of the sacrifice, in the place of the second Ṛk of the stoka-sūkta इमं नो यज्ञं (*imaṃ no yajñaṃ*), the sixteenth Ṛk अग्ने घृतस्य (*agne ghṛtasya*) may be recited is explained by the sūtra of the Āśvalāyana Śrauta Sūtra स्तोकसूक्तस्य द्वितीयतृतीययोः स्थानेऽग्ने घृतस्य धीतिभिरुभे सुश्चंद्र सर्पिष इत्येते (*stokasūktasya dvitīyatṛtīyayoḥ sthāne 'gne ghṛtasya dhītibhirubhe suścaṃdra sarpiṣa ityete*) (Ā. 8-12). **NOTE**
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 10; Sūkta 102. Aṣṭaka 6; Adhyāya 7; Varga 9, 10, 11, 12. Number of Ṛks in the sūkta: 22.
+
+Seer: Prayogo Bhārgava Agnir vā Pāvako Bārhaspatyaḥ. Athāgnī Gṛhapatiyaviṣṭhau Sahasaḥ sutau tayor vānyataraḥ.
+
+Deity: Agniḥ.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वम॑ग्ने बृ॒हद्वयो॒ दधा॑सि देव दा॒शुषे॑ ।  
+> क॒विर्गृ॒हप॑ति॒र्युवा॑ ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 530. Vol 25 pp. 525-530: Ṛk 7 end, Ṛk 8-13 of sūkta 101
+**Progress note:** Done through printed p. 536. Vol 25 pp. 531-536: Ṛk 13 end, Ṛk 14-16 of sūkta 101, sūkta 102 introduction, Ṛk 1
