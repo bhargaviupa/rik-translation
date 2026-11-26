@@ -18917,6 +18917,278 @@ May the upholders of the sky, the radiant with truth, the well-armed deities, Va
 > समुद्रः । सिंधुः । रजः । अंतरिक्षं । अजः । एकपात् । तनयित्नुः । अर्णवः ।  
 > अहिः । बुध्न्यः । शृणवत् । वचांसि । मे । विश्वे । देवासः । उत । सूरयः । मम ॥
 
+### Printed p. 548
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समुद्रः समुंदनशीलः स्यंदमानोदकः सिंधुरेतन्नामकोऽंतरिक्षं द्यावा
+> पृथिव्योरंतरा मध्ये क्षितमुषितं रजो मध्यमलोकमज एकपात् अजायमान
+> एक एव पद्यते । एतत्संज्ञको देवोऽर्णव उदकवांस्तनयित्नुः स्तनयित्नुर्मोघो बुध्योऽंतरिक्षे भवोऽहिरेतत्संज्ञकः एते देवा मे मम वचांसि
+> वक्तव्यानि स्तोत्राणि शृणवत् । प्रत्येकं शृणोतु उतापि च सूरयः प्राज्ञा विश्वे
+> देवासो देवा मम स्तोत्राणि शृण्वंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the nouns of the verse one by one. समुद्रः (*samudraḥ*) is the one of flowing waters, named Sindhu. अंतरिक्षं (*aṃtarikṣaṃ*) is रजः (*rajaḥ*), the middle world that lies between heaven and earth. अज एकपात् (*aja ekapāt*) is the god who goes as the one unborn, on one foot. अर्णवः (*arṇavaḥ*) is the watery one, तनयित्नुः (*tanayitnuḥ*), the thundering one.**NOTE** *ahiḥ budhyaḥ* is the god of that name who has his being in the atmosphere. These gods are to hear, each one, the words (the praises to be spoken) of the poet, and likewise all the wise gods are to hear his praises.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समुद्रः (*samudraḥ*)—the one with flowing water
+- सिंधुः (*siṃdhuḥ*)—Sindhu
+- अंतरिक्षं (*aṃtarikṣaṃ*)—lying between heaven and earth
+- रजः (*rajaḥ*)—the middle world
+- अज एकपात् (*aja ekapāt*)—the god named Aja Ekapād
+- अर्णवः (*arṇavaḥ*)—the one possessing water
+- तनयित्नुः (*tanayitnuḥ*)—the maker of sound
+- आहिर्बुध्न्यः (*āhirbudhnyaḥ*)—the god Ahirbudhnya
+- मे (*me*)—my
+- वचांसि (*vacāṃsi*)—words of praise
+- शृणवत् (*śṛṇavat*)—let him hear
+- उत (*uta*)—and
+- सूरयः (*sūrayaḥ*)—the wise
+- विश्वे देवासः (*viśve devāsaḥ*)—all the gods
+- मम (*mama*)—let them hear my praises
+
+##### भावार्थ (Bhāvārtha)
+
+May Sindhu with flowing waters, the middle world that lies between heaven and earth, the god named Aja Ekapād, the watery one, and the god Ahirbudhnya, the maker of sound, hear my words of praise; and may the wise Viśvedevas hear my praises.
+
+##### English translation
+May the flowing Sindhu, the atmosphere, the firmament, Aja
+Ekapad, the rain-bearing thunder-cloud, and Ahirbudhnya hear my words;
+may the wise universal gods (listen to) my (praises).
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्याम॑ वो॒ मन॑वो दे॒ववी॑तये॒ प्रांचं॑ नो य॒ज्ञं प्र ण॑यत साधु॒या ।  
+> आदि॑त्या॒ रुद्रा॒ वस॑वः॒ सुदा॑नव इ॒मा ब्रह्म॑ श॒स्यमा॑नानि जिन्वत ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्याम । वः । मनवः । देववीतये । प्रांचं । नः । यज्ञं । प्र । नयत । साधुया।
+
+### Printed p. 549
+
+> आदित्याः । रुद्राः । वसवः । सुदानवः । इमा । ब्रह्म । शस्यमानानि । जिन्वत ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देवाः मनवो मनुष्या वयं वो यष्मदीयाय देवनीतये ।
+> देवानां नीतिर्भक्षणं यस्मिन् स यज्ञः । तस्यै यज्ञाय स्याम । यज्ञकर्तारो
+> भवेम । ततो नोऽस्मदीयं यज्ञं साधुया ॥ सुप्रो याजादेशः ॥ साधु
+> कल्याणं प्रांचं प्राचीनं प्र णयत । प्रकृष्णांचनं कुरुत । हे आदित्या हे रुद्रा
+> रुद्रपुत्रा मरुतो हे सुदानवः शोभनदाना हेवसवः इमेमानि शस्यमानानि ब्रह्म
+> ब्रह्माणि स्तोत्राणि जिन्वत । प्रीणयत ॥
+
+##### Gist of the bhāṣya
+
+"O gods, we men may become performers of the sacrifice that is yours": the sacrifice is that in which there is the *devanīti*, the consuming of the gods.**NOTE** Then, he says, conduct our sacrifice well (साधुया (*sādhuyā*) means साधु (*sādhu*), auspicious) प्रांचं (*prāṃcaṃ*), forward or ancient; make it go forward.**NOTE** Addressed are the Ādityas, the Rudras (the Maruts, Rudra's sons), the Vasus, who are generous givers. Gratify these hymns that are being recited.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) मनवः (*manavaḥ*)—we men
+- वः (*vaḥ*)—who worship you
+- देववीतये (*devavītaye*)—for the performance of the sacrifice
+- स्याम (*syāma*)—we are intent
+- नः (*naḥ*)—our
+- प्रांचं (*prāṃcaṃ*)—ancient
+- यज्ञं (*yajñaṃ*)—sacrifice
+- साधुया (*sādhuyā*)—so that it yields auspicious fruit
+- प्रणयत (*praṇayata*)—help
+- आदित्याः (*ādityāḥ*)—O Ādityas
+- रुद्राः (*rudrāḥ*)—O Rudras
+- सुदानवः (*sudānavaḥ*)—generous
+- वसवः (*vasavaḥ*)—O Vasus
+- इमा शस्यमानानि (*imā śasyamānāni*)—which are recited here
+- ब्रह्म (*brahma*)—the praises
+- जिन्वत (*jinvata*)—accept with regard
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, we men are intent on performing the sacrifice that worships you. Help our ancient sacrifice so that it yields auspicious fruit. O Ādityas, O Rudras, and O generous Vasus, accept with regard the praises recited here.
+
+##### English translation
+May we men be (deligent in providing) for your food, (O gods); conduct our ancient sacrifice to a successful end, Adityas, Rudras, and generous Vasus, graciously accept these hymns whieh are being recited.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दैव्या॒ होता॑रा प्रथ॒मा पु॒रोहि॑त ऋ॒तस्य॒ पंथा॒मन्वे॑मि  ॒
+> साधुया ।  
+> क्षेत्र॑स्य॒ पतिं॒ प्रति॑नेशमीमहे॒ विश्वा॑न्दे॒वा अ॒मृता॒ अप्र॑युच्छतः
+
+### Printed p. 550
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दैव्या । होतारा । प्रथमा । पुरःहिता । ऋतस्य । पंथां । अनु । एमि। साधुया ।  
+> क्षेत्रस्य । पतिं । प्रतिवेशं । ईमहे। विश्वान् । देवान् । अमृतान्! अप्रयुच्छतः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अप्तोर्यामेच्छावाकातिरिक्तोक्षस्य दैव्या होतारेत्येषा परिधानीया ।
+> सूत्रितं च । उभा उ नूनं दैव्या होतारा प्रथमा पुरोहितेति परिधानीया ।
+> आ-९-११ । इति ॥
+> प्रथमा मुख्य पुरोहिता पुरोहितौ पुरतो निहितौ दैव्या देवसंबंधिनौ
+> होतारा होतारावेतन्नामानावग्न्यादित्यावन्नेमि । हविर्भिरनुगच्छामि। तत ऋतस्य
+> यज्ञस्य पंथां पंथानं साधुया कल्याणं विघ्नराहित्येनान्वेमि । अनुगच्छामि ।
+> अनंतरं प्रतिवेशं समीपे वर्तमानं क्षेत्रस्य पतिं पालयितारमेतन्नामानममृतान्नरणधर्मरहितानप्रयुच्छतोऽप्रमाद्यतो विश्वान्सर्वान्देवांश्चेमहे । धनं
+> याचामहे ॥
+
+##### Gist of the bhāṣya
+
+In the Aptoryāma, in the atirikta uktha of the Acchāvāka, this verse "दैव्या होतारा (*daivyā hotārā*)" is the Paridhānīyā.**NOTE** It is so laid down in the sūtra: उभा उ नूनं दैव्या होतारा प्रथमा पुरोहितेति परिधानीया (*ubhā u nūnaṃ daivyā hotārā prathamā purohiteti paridhānīyā*) (Ā. 9-11). Sāyaṇa explains: the two divine hotṛs, प्रथमा (*prathamā*) (chief) and पुरोहिता (*purohitā*) (placed in front), are Agni and Āditya by name; "I follow them with oblations." Then "I follow the path of the sacrifice (ऋतस्य (*ṛtasya*)) well, without obstruction." Next, प्रतिवेशं (*prativeśaṃ*) is the one who stays near; the क्षेत्रस्य पतिं (*kṣetrasya patiṃ*) is the protector of that name; and all the gods, immortal (free from the nature of dying) and unheedless (अप्रयुच्छतः (*aprayucchataḥ*), not negligent), we ask for wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रथमा (*prathamā*)—the chief
+- पुरोहिता (*purohitā*)—those established before all
+- दैव्या होतारा (*daivyā hotārā*)—the worshippers of the gods, Agni and Āditya
+- अन्वेमि (*anvemi*)—I follow
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पंथां (*paṃthāṃ*)—the path
+- साधुया (*sādhuyā*)—well
+- अन्वेमि (*anvemi*)—I follow
+- प्रतिवेशं (*prativeśaṃ*)—who is near us
+- क्षेत्रस्य पतिं (*kṣetrasya patiṃ*)—the god called Lord of the Field
+- अमृतान् (*amṛtān*)—the deathless
+- अप्रयुच्छतः (*aprayucchataḥ*)—the not idle
+- विश्वान् देवान् (*viśvān devān*)—all the gods
+- ईमहे (*īmahe*)—we ask for wealth
+
+##### भावार्थ (Bhāvārtha)
+
+I follow Agni and Āditya, the chief, established before all, the worshippers of the gods; I follow the path of the sacrifice well. We ask for wealth from the god called Lord of the Field, who is near us, and from the Viśvedevas (all the gods), who are deathless and not idle.
+
+##### English translation
+I follow the two chief priests, the divine offerers of burnt sacrifices ;
+(I follow) successfully the path of sacrifice; we solicit (wealth of ) the
+contiguous lord of the field, and the immortal and not unheeding universal
+deities.
+
+### Printed p. 551
+
+##### विशेषविषयगळु (Special Topics)
+
+In the sacrifice called Aptoryāma, when the officiant called Acchāvāka recites the mantras called atirikta, this Ṛk दैव्या होतारा (*daivyā hotārā*) is to be recited as the last Ṛk. This is set forth by the sūtra of the Āśvalāyana Śrauta-sūtra, उभा उ नूनं दैन्व्या होतारा पुरोहितेति परिधानीया (*ubhā u nūnaṃ dainvyā hotārā purohiteti paridhānīyā*) (Ā. 9-11).
+
+#### Ṛk 14
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वसि॑ष्ठासः पितृ॒वद्वाच॑मक्रत दे॒वा ईळा॑ना ऋषि॒वत्स्व॒स्तये॑ ।  
+> प्री॒ता इ॑व ज्ञा॒तयः॒ काम॒मेत्या॒स्मे दे॑वा॒सोऽन॑ धूनुता॒  ॑
+> वसु ॥ १४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वसिष्ठासः । पितृवत् । वाचं । अक्रत । देवान् । ईळानाः । ऋषिवत् । स्वस्तये ।  
+> प्रीताः इव । ज्ञातयः । कामं । आइत्य । अस्मे इति । देवासः । अव । धूनुत ।  
+> वसु ॥ १४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिवत् पूर्व ऋषय इव देवानीळानाः स्तुवंतो वसिष्ठासो वसिष्ठकुलजाता ऋषयः पितृवद्वसिष्ठवत्सस्तयेऽविनाशाय वाचं स्तोत्रमक्रत । कुर्वंति ॥
+> करोतेर्लुइति मंत्रे घसेति चेर्लुक् ॥ हे देववासो देवाः यूयं काममस्मदभिलाषमेत्यागत्यास्मे अस्मासु वसु गवादिलक्षणं धनमन धूनुत । अभिमुखं
+> प्रेरयत । तत्र दृष्टांतः । प्रीता इव । यथा प्रीताः संहृष्टा ज्ञातयो बंधवः
+> स्वजनस्य धनं प्रेरयंति तद्वद्धविर्दानेन स्तुतिकरणेन च बंधुष्टस्मासु धनं प्रेरयतेति भावः ॥
+
+##### Gist of the bhāṣya
+
+The Vasiṣṭhas, the ṛṣis born in Vasiṣṭha's family, praising the gods like the ṛṣis of old and like their father Vasiṣṭha, have made a hymn (वाचं (*vācaṃ*)) for their welfare, for freedom from destruction. "O gods, come to our desire and bestow wealth, of the kind of cattle and the like, upon us." The illustration is प्रीता इव (*prītā iva*): as delighted kinsmen send wealth to their own people, so, he says, you are to send wealth to us who offer oblations and praise, as to kin.**NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषिवत् (*ṛṣivat*)—like the ṛṣis of former times
+- पितृवत् (*pitṛvat*)—like their father Vasiṣṭha
+- देवान् (*devān*)—the gods
+- ईळानाः (*īḷānāḥ*)—praising
+- वसिष्ठासः (*vasiṣṭhāsaḥ*)—the ṛṣis born in the line of Vasiṣṭha
+- स्वस्तये (*svastaye*)—for their welfare
+- वाचं (*vācaṃ*)—praise
+- अक्रत (*akrata*)—they make
+- देवासः (*devāsaḥ*)—O gods
+- प्रीता इव (*prītā iva*)—who hold affection for us
+- ज्ञातयः (*jñātayaḥ*)—like our kinsmen
+- काम्यं (*kāmyaṃ*)—our desired object
+- एत्य (*etya*)—coming to fulfil
+- अस्मे (*asme*)—in us
+- वसु (*vasu*)—wealth
+- अव धूनुत (*ava dhūnuta*)—establish
+
+### Printed p. 552
+
+##### भावार्थ (Bhāvārtha)
+
+Like the ṛṣis of former times, and like Vasiṣṭha their father, the ṛṣis born in the line of Vasiṣṭha, praising the gods, make a hymn for their own welfare. O gods, come, like our kinsmen who hold affection for us, to fulfil our desire, and establish wealth in us (give us wealth).
+
+##### English translation
+The Vasishthas like their progenitor have uttered praise glorifying
+the gods like (former) Rishis for their well-being ; having come to us,
+gods, at our desire, bestow wealth upon us like affectionate relations.
+
+#### Ṛk 15
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दे॒वान्वसि॑ष्ठो अ॒मृता॑न्ववंदे॒ ये विश्वा॒ भुव॑ना॒भि प्र॑त॒स्थुः ।  
+> ते नो॑ रासंतामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑  
+> नः ॥ १५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> देवान् । वसिष्ठः । अमृतान् । ववंदे । ये । विश्वा । भुवना । अभि । प्रतस्थुः ।  
+> ते । नः । रासंतां । उरुगायं । अद्य । यूयं । पात । स्वस्तिभिः । सदा । नः ॥१५॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एषर्क् पूर्वमेव व्याख्यायि ॥ 534 ने पुटवन्नु नोडि.
+
+##### Gist of the bhāṣya
+
+This Ṛk has been explained before; see p. 534.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ये (*ye*)—which gods
+- विश्वा भुवना (*viśvā bhuvanā*)—all the worlds
+- अभि प्रतस्थुः (*abhi pratasthuḥ*)—who pervade with their splendours
+- अमृतान् (*amṛtān*)—the immortal
+- देवान् (*devān*)—gods
+- वसिष्ठः (*vasiṣṭhaḥ*)—this ṛṣi born in the line of Vasiṣṭha
+- ववंदे (*vavaṃde*)—salutes with praise
+- ते (*te*)—those same gods
+- अद्य (*adya*)—today
+- नः (*naḥ*)—to us
+- उरुगायं (*urugāyaṃ*)—most praiseworthy food
+- रासंतां (*rāsaṃtāṃ*)—let them give
+- (O gods) यूयं (*yūyaṃ*)—you
+- स्वस्तिभिः (*svastibhiḥ*)—with protections that bring welfare
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- पात (*pāta*)—protect
+
+##### भावार्थ (Bhāvārtha)
+
+This ṛṣi, born in the line of Vasiṣṭha, has saluted with praise the immortal gods who pervade all the worlds with their splendours. May those same gods today give us most praiseworthy food. O gods, protect us always with protections that bring welfare.
+
+### Printed p. 553
+
+##### English translation
+(Descendant of ) Vasistha, I have glorified the immortal gods who
+preside over all the worlds ; may they this day bestow upon us widely-
+famed food ; do you always cherish us with blessings.
+
+## Sūkta 67 (Maṇḍala 10)
+
+**Introduction**
+Bṛhaspati is the deity of this hymn and of the next. Yāska, explaining the derivation of the word Bṛhaspati in his Nirukta, says: बृहस्पतिः बृहतः पाता वा पालयिता ना । (*bṛhaspatiḥ bṛhataḥ pātā vā pālayitā nā |*) (Ni. 10-11). On this the commentator Durgācārya says: बृहस्पतिः कस्मात् ? बृहतः पाता ना पालयिता ना । बृहतः महतोऽस्य जगतः उदकस्य ना पाता रक्षिता पालयिता अपि रक्षितैव धात्वन्यत्वमर्थैकत्वं ॥ (*bṛhaspatiḥ kasmāt ? bṛhataḥ pātā nā pālayitā nā | bṛhataḥ mahato 'sya jagataḥ udakasya nā pātā rakṣitā pālayitā api rakṣitaiva dhātvanyatvamarthaikatvaṃ ‖*) That is: the protector, the guardian, of the great world or of water. To indicate the meaning of the word पति (*pati*) there are words formed from different roots, पाता (*pātā*) and पालयिता (*pālayitā*), but the meaning is only one. In many places, when explaining बृहतः पाता (*bṛhataḥ pātā*), Sāyaṇa has given for the word बृहतः (*bṛhataḥ*) the meaning बृहतः यज्ञकर्मणः (*bṛhataḥ yajñakarmaṇaḥ*) or वृष्ट्याख्यकर्मणः (*vṛṣṭyākhyakarmaṇaḥ*), that is, of the work in the form of sacrifice, or of the work in the form of the bestowal of rain. Since Bṛhaspati, as priest of the gods, carries out the sacrificial work, and since he brings about the rain that men need, these two kinds of epithets are natural to him.
+
+To illustrate Bṛhaspati's priesthood and his bestowal of rain, Yāska has given as example the Ṛk यद्देवापिः शंतनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् । देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥ (*yaddevāpiḥ śaṃtanave purohito hotrāya vṛtaḥ kṛpayannadīdhet | devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖*) (Ṛ. Saṃ. 10-98-7). In the explanation of this Ṛk, बृहस्पतिर्ब्रह्मासीत् सोऽस्मै वाचमयच्छत् (*bṛhaspatirbrahmāsīt so 'smai vācamayacchat*) — that is, Bṛhaspati was the Brahman priest at the sacrifice made by the king named Śantanu and taught him a mantra in the form of words; and when the sacrificer praised with that mantra, rain came — is described. Besides this, in the Yajurveda and other texts: बृहस्पतिर्देवानां पुरोहित आसीच्छंडामर्कावसुराणां । (*bṛhaspatirdevānāṃ purohita āsīcchaṃḍāmarkāvasurāṇāṃ |*) (Tai. Saṃ. 6-4-10-1).
+
 ---
 
-**Progress note:** Done through printed p. 547. pp. 542-547 (batch API)
+**Progress note:** Done through printed p. 553. pp. 548-553 (batch API)
