@@ -3736,6 +3736,269 @@ Sāyaṇa says: O divine, valiant Indra, we Vasiṣṭhas are your own. Those, m
 
 O divine and valiant Indra, we belong to you. Those sons, grandsons and the like of ours who praise you offering venerable oblations and the like, they too to you
 
+### Printed p. 85
+
+belong to you. Give an excellent house to us, your praisers. Grant that all of us may be endowed with full wealth until our old age.
+
+##### English translation
+We, divine Indra, who are yours, are they, hero, who are praising you and offering rich libations : grant to (your) pious (worshippers) an excellent abode : and may they, prosperous, attain old age.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो॒चेमेदिंद्रं॑ म॒घवा॑नमेनं म॒हो रा॒यो राध॑सो॒ यद्दद॑न्नः ।  
+> यो अर्च॑तो॒ ब्रह्म॑कृति॒मवि॑ष्ठो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वोचेम । इत् । इंद्रं । मघवानं । एनं । महः । रायः । राधसः । यत् । ददत् । नः ।  
+> यः । अर्चतः । ब्रह्मकृतिं । अविष्ठः । यूयं । पात । स्वस्तिभिः । सदा । नः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यद्य इंद्रो महो महतो राधसः संराधकस्य रायो धनस्य । द्वितीयार्थे षष्ठी । संराधकं महद्धनं नोऽस्मभ्यं ददत् प्रायच्छेत् यश्चेंद्रोऽर्चतः स्तुवतो ब्रह्मकृतिं क्रियमाणं ब्रह्म स्तोत्रमविष्ठोऽतिशयेन रक्षिता गंता भवति तमेनं मघवानं धनवंतमिंद्रं प्रोचेमेत् । स्तुवेमैव । स्पष्टमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa explains: Indra gives us great and perfecting wealth (the genitive of wealth stands in the sense of the accusative), and he is the supreme protector of the worshipper's praise that is being made. That opulent, wealthy Indra we shall praise indeed. The rest is clear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—the Indra who
+- महः (*mahaḥ*)—great
+- राधसः (*rādhasaḥ*)—and venerable
+- रायः (*rāyaḥ*)—wealth
+- नः (*naḥ*)—to us
+- ददत् (*dadat*)—gives
+- यः (*yaḥ*)—the Indra who
+- अर्चतः (*arcataḥ*)—of the worshipping praiser
+- ब्रह्मकृतिं (*brahmakṛtiṃ*)—the act of praise
+- अविष्ठः (*aviṣṭhaḥ*)—protects exceedingly
+- एनं (*enaṃ*)—such
+- मघवानं (*maghavānaṃ*)—wealthy
+- इंद्रं (*iṃdraṃ*)—Indra
+- प्रोचेम इत् (*procema it*)—we shall certainly praise (O Indra and the other gods)
+- यूयं (*yūyaṃ*)—you
+- नः (*naḥ*)—us
+- सदा (*sadā*)—always
+- स्वस्तिभिः (*svastibhiḥ*)—with blessings
+- पात (*pāta*)—protect
+
+### Printed p. 86
+
+##### भावार्थ (Bhāvārtha)
+
+We shall certainly praise that wealthy Indra who gives us great and venerable wealth, and who exceedingly protects the act of praise of the worshipping praiser. O Indra and the other gods, protect us always with blessings.
+
+##### English translation
+Let us glorify the opulent Indra, that he may give us vast and valuable riches : he who is the chief protector of the religious rites of the worshippers : ever cherish us with blessings.
+
+## Sūkta 31 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र व इंद्रायेति द्वादशर्चं चतुर्दशं सूक्तं वसिष्ठस्यार्षं गायत्रमैंद्रं । दशम्याद्यास्तिस्रो विराजः शिष्टा गायत्र्यः । तथा चानुक्रांतं । प्र वो द्वादश गायत्रं त्रिविराळंतमिति ॥ सूक्तविनियोगो लैंगिकः ॥ प्रथमे रात्रिपर्याये मैत्रावरुणशस्त्रे प्र व इंद्रायेत्याद्यस्तृचः स्तोत्रियः । सूत्रितं च । प्र व इंद्राय मादनं प्र कृतान्यृजीषिणः । आ. ६-४ । इति ॥ अतिरात्रे प्रथमे पर्याये ब्राह्मणाच्छंसिशस्त्रे वयमिंद्र त्वायुवोऽभीत्यनुरूपस्तृचः । तथा च सूत्रितं । वयमिंद्र त्वायुवोऽभि वार्त्रहत्यायेत्युत्तमामुद्धरेत् । आ. ६-४ । इति ॥ चतुर्थेऽहनि माध्यंदिनसवने होत्रकशस्त्र आरंभणीयाभ्य ऊर्ध्वं वैराज एकस्तृच आहवनीयः । तदर्थाः प्र वो महे महिवृधे भरध्वमित्याद्यास्तिस्रः । सूत्रितं च । प्र वो महे महिवृधे भरध्वमिति चतस्रस्तिस्रश्च विराजः । आ. ६-११ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: the fourteenth sūkta, प्र व इंद्राय (*pra va iṃdrāya*), of twelve Ṛks; the seer is Vasiṣṭha, the deity Indra, the metre Gāyatra; the tenth and the next two Ṛks are Virāj, the remaining ones Gāyatrī. The Anukramaṇī says the same. The use of the sūkta is by indication (laiṅgika). In the first night-round, in the Maitrāvaruṇa-śastra, the first tṛca beginning प्र व इंद्राय (*pra va iṃdrāya*) is the stotriya; this is taught in the sūtra (Ā. Sū. 6-4). In the Atirātra, in the first round, in the Brāhmaṇācchaṃsi-śastra, the tṛca beginning वयमिंद्र त्वायुवोऽभि (*vayamiṃdra tvāyuvo 'bhi*) is the anurūpa; this is taught in the sūtra (Ā. Sū. 6-4). On the fourth day, at the midday pressing, in the Hotraka-śastra, after the ārambhaṇīyā verses, one Vairāja tṛca is the āhavanīya; its Ṛks are the three beginning प्र वो महे महिवृधे (*pra vo mahe mahivṛdhe*); this is taught in the sūtra (Ā. Sū. 6-11).
+
+The Anuvāda says: this sūkta beginning प्र व इंद्राय (*pra va iṃdrāya*) is the fourteenth sūkta in the second anuvāka. It contains twelve Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Gāyatrī; but the last three Ṛks from the tenth (Ṛks 10-12) are in the Virāj metre, and the remaining Ṛks are in the Gāyatrī metre. The Anukramaṇī says the same. The use of the sūkta is by indication. In the first night-round, among the mantras of the śastra recited by the priest called Maitrāvaruṇa, the three Ṛks beginning प्र व इंद्राय (*pra va iṃdrāya*) are to be recited as the stotriya tṛca, as is explained by the Āśvalāyana-śrauta-sūtra in the sūtra beginning with this Ṛk (Ā. Sū. 6-4). In the sacrifice called Atirātra also, in the first round, among the mantras of the śastra recited by the priest called Brāhmaṇācchaṃsi, Ṛks 4-6 of this sūkta, beginning वयमिंद्र त्वायुवोऽभि (*vayamiṃdra tvāyuvo 'bhi*), are to be recited as the anurūpa tṛca, as is explained by the Āśvalāyana-śrauta-sūtra in the sūtra (Ā. Sū. 6-4)
+
+### Printed p. 87
+
+on the fourth day of the sacrifice, at the midday pressing, among the mantras of the śastra recited by the priests of the Hotṛ group, the first Ṛk of this sūkta is to be recited as the opening mantra, and afterwards the last three Ṛks of this sūkta in the Virāj metre (Ṛks 10-12) are to be recited, as is explained by the Āśvalāyana-śrauta-sūtra in the sūtra (Ā. Sū. 7-11). **NOTE**
+
+Sūkta 31. Maṇḍala 7; Anuvāka 3; Sūkta 31. Aṣṭaka 5; Adhyāya 3; Varga 15, 16. Number of Ṛks in the sūkta: 12. Seer: Vasiṣṭha. Deity: Indra. Metre: Ṛks 1-9, Gāyatrī; Ṛks 10-12, Virāj. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र व॒ इंद्रा॑य॒ माद॑नं॒ हर्य॑श्वाय गायत ।  
+> सखा॑य सोम॒पाव्ने॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । वः । इंद्राय । मादनं । हरिऽअश्वाय । गायत ।  
+> सखायः । सोमऽपाव्ने ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सखायः वो यूयं हर्यश्वाय सोमपाव्ने सोमानां पात्रे इंद्राय मादनं मदकरं स्तोत्रं प्र गायत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O friends, sing forth to Indra, the lord of bay horses and drinker of the Soma, a hymn of praise that intoxicates.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सखायः (*sakhāyaḥ*)—O friends
+- वः (*vaḥ*)—you
+- हर्यश्वाय (*haryaśvāya*)—to the one possessing horses called Hari
+- सोमपाव्ने (*somapāvne*)—and drinking the Soma
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- मादनं (*mādanaṃ*)—an intoxicating hymn
+- प्र गायत (*pra gāyata*)—recite
+
+##### भावार्थ (Bhāvārtha)
+
+O friends, recite a gladdening hymn addressed to Indra, who possesses the horses called Hari and who drinks the Soma.
+
+##### English translation
+Sing, friends, an exhilarating hymn to Indra, the lord of bay steeds, the drinker of the Soma.
+
+### Printed p. 88
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> शंसेदु॒क्थं सु॒दान॑व उ॒त द्यु॒क्षं यथा॒ नरः॑ ।  
+> च॒कृ॒मा स॒त्यरा॑धसे ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शंस । इत् । उक्थं । सुऽदानवे । उत । द्युक्षं । यथा । नरः ।  
+> चकृम । सत्यऽराधसे ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च हे स्तोतः सुदानवे शोभनदानाय सत्यराधसे सत्यधनायेंद्रायोक्थं स्तोमं यथा नरोऽन्ये स्तोतारो द्युक्षं दीप्तेः साधनभूतं स्तोत्रं शंसंति तद्वत्त्वमपि शंस । उच्चारय । इदिति पूरणः । वयं च चकृम । स्तोत्रं करवाम ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: And, O praiser, as other men, the praisers, recite a praise that is a means of brilliance to Indra of good gifts and true wealth, so do you also recite it, utter it; the particle इत् (*it*) is a filler. And we too have made praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O praiser) उत (*uta*)—and
+- यथा (*yathā*)—in the way in which
+- नरः (*naraḥ*)—other sacrificers
+- द्युक्षं (*dyukṣaṃ*)—composing and reciting a shining praise
+- उक्थं (*ukthaṃ*)—the praise in the form of a hymn
+- सुदानवे (*sudānave*)—to the excellent giver
+- सत्यराधसे (*satyarādhase*)—and possessor of true wealth, Indra
+- शंस इत् (*śaṃsa it*)—recite
+- चकृम (*cakṛma*)—we too compose and recite
+
+##### भावार्थ (Bhāvārtha)
+
+O praiser, recite to Indra, the excellent giver and possessor of true wealth, such a praise in the form of a hymn as other sacrificers compose and recite, a shining praise. We too compose and recite.
+
+##### English translation
+Repeat to the liberal Indra such brilliant praise as other (men repeat) : let us offer it to him who is affluent in truth,
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं न॑ इंद्र वाज॒युस्त्वं ग॒व्युः श॑तक्रतो ।  
+> त्वं हि॑रण्य॒युर्व॑सो ॥ ३ ॥
+
+### Printed p. 89
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वं । नः । इंद्र । वाजयुः । त्वं । गव्युः । शतक्रतो इति शतऽक्रतो । त्वं । हिरण्ययुः । वसो इति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं नोऽस्माकं वाजयुरन्नकामो भव । हे शतक्रतो त्वं नोऽस्माकं गव्युर्गोकामो भव । हे वसो वासयितरिंद्र त्वं हिरण्ययुर्हिरण्यकामोऽपि भव ॥ छंदसि परेच्छायामपि दृश्यते क्यजिति क्यच् ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, be desirous of food for us. O Śatakratu, be desirous of cows for us. O Vasu, O Indra who causes to dwell, be desirous of gold also.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—for us
+- वाजयुः (*vājayuḥ*)—be desirous of giving food
+- शतक्रतो (*śatakrato*)—O Indra, doer of many works
+- त्वं (*tvaṃ*)—you
+- गव्युः (*gavyuḥ*)—be desirous of giving cows
+- वसो (*vaso*)—O Indra, giver of dwellings
+- त्वं (*tvaṃ*)—you
+- हिरण्ययुः (*hiraṇyayuḥ*)—be desirous of giving gold
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, be desirous of giving us food. O Indra, doer of many works, be desirous of giving us cows. O Indra, giver of dwellings, be desirous of giving us gold.
+
+##### English translation
+Indra, be willing to give us food : be willing, Shatakratu, to give us cattle: be willing donor old wellings, to give us gold,
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒यमिं॑द्र त्वा॒यवो॒ऽभि प्र णो॑नुमो वृषन् ।  
+> वि॒द्धी त्व१॒॑स्य नो॑ वसो ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वयं । इंद्र । त्वायवः । अभि । प्र । नोनुमः । वृषन् ।  
+> विद्धि । तु । अस्य । नः । वसो । इति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 90
+
+> हे वृषन् कामानां वर्षितरिंद्र त्वायवस्त्वाकामा वयं वसिष्ठास्त्वामभि प्र णोनुमः । प्रकर्षेण स्तुमः । हे वसो वासयितरिंद्र अस्येदमस्मदीयं स्तोत्रं तु क्षिप्रं विद्धि । अवधारय ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O showerer of desires, O Indra, we Vasiṣṭhas, desiring you, praise you exceedingly. O Vasu, O Indra who causes to dwell, quickly understand this praise of ours, take heed of it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषन् (*vṛṣan*)—showerer of desires
+- इंद्र (*iṃdra*)—O Indra
+- त्वायवः (*tvāyavaḥ*)—longing for your help
+- वयं (*vayaṃ*)—we
+- अभि प्र णोनुमः (*abhi pra ṇonumaḥ*)—praise you exceedingly
+- वसो (*vaso*)—O Indra, giver of dwellings
+- नः अस्य (*naḥ asya*)—this praise of ours
+- तु (*tu*)—quickly
+- विद्धि (*viddhi*)—understand and give a reward for it
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, showerer of desires, we who long for your help praise you exceedingly. O Indra, giver of dwellings, quickly understand this praise of ours and give a reward for it.
+
+##### English translation
+Devoted to you, showerer (of benefits), we glorify you : be cognizant, giver of dwellings, of this our praise.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा नो॑ नि॒दे च॒ वक्त॑वे॒ऽर्यो रं॑धी॒ररा॑व्णे ।  
+> त्वे अपि॒ क्रतु॒र्मम॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । नः । निदे । च । वक्तवे । अर्यः । रंधीः । अराव्णे ।  
+> त्वे इति । अपि । क्रतुः । मम ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अर्यः स्वामी त्वं वक्तवे परुषवाक्यानां वक्त्रे निदे निंदित्रेऽराव्णेऽदात्रे नोऽस्मान् मा रंधीः । वशं मा कार्षीः । अप्यपि च त्वे त्वयि मम क्रतुर्मदीयं स्तोत्रलक्षणं कर्म गच्छत्विति शेषः । अस्मदीयं स्तोत्रं भवच्छ्रेत्रे प्रविशत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, you who are lord, do not give us over to the speaker of harsh words, to the reviler, or to the one who does not give. And may my act, my praise, go to you; that is, may our praise enter your ear.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) अर्यः (*aryaḥ*)—you who are lord
+- वक्तवे (*vaktave*)—whether to one who speaks so as to hurt us
+- निदे च (*nide ca*)—or to one who reviles us
+- अराव्णे (*arāvṇe*)—or to one who offers no oblation, fallen from rites
+
 ---
 
-**Progress note:** Done through printed p. 84. Vii.28.4-5 end; 30.1-4
+**Progress note:** Done through printed p. 90. Vii.30.4-5 end; 31.1-5
