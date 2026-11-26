@@ -7158,6 +7158,286 @@ The attach him by seven ceremonies to the three-backed three-benched chariot of 
 
 O pressers, priests who perform the pressing, urge on that Soma, the horse, the seizer of wealth, strong and swift, to go to the battle that is the sacrifice. As warriors urge a strong, swift horse to go to battle, so urge the strong Soma to go to the sacrifice; that is the sense.
 
+### Printed p. 218
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्तोतारः (*stotāraḥ*)—O praisers **NOTE**
+- धनस्पृतं (*dhanaspṛtaṃ*)—that which bestows wealth
+- वाजिनं (*vājinaṃ*)—and that which is full of strength
+- आशुं (*āśuṃ*)—and that which goes swiftly
+- तं (*taṃ*)—that which has the form of Soma
+- हरिं (*hariṃ*)—the horse
+- वाजाय (*vājāya*)—for the battle that is the sacrifice
+- यातने (*yātane*)—to go **NOTE**
+- हिनोत (*hinota*)—urge and send forth
+
+##### भावार्थ (Bhāvārtha)
+
+O praisers, urge and send forth the horse that bestows wealth, is full of strength, goes swiftly and has the form of Soma, to go to the battle that is the sacrifice.
+
+##### English translation
+Effusers of the Soma, urge forward that wealth-bestowing rapid vigorous steed to go to the battle.
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒वि॒शन्क॒लशं॑ सु॒तो विश्वा॒ अर्ष॑न्न॒भि श्रियः॑ ।  
+> शूरो॒ न गोषु॑ तिष्ठति ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आऽविशन् । कलशम् । सुतः । विश्वा । अर्षन् । अभि । श्रियः ।  
+> शूरः । न । गोषु । तिष्ठति ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुतः अभिषुतः सोमः कलशं द्रोणम् आविशन् विश्वाः सर्वाः श्रियः संपदः अभि अर्षन् अस्मानभिगमयन् गोषु शत्रूणां पशुषु शूरो न यथा शूरो निःशंकः तिष्ठति तद्वद्यज्ञेषु निःशंकस्तिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+The pressed Soma enters the vessel, the Droṇa, and brings all riches towards us. As a hero stands fearless among the cattle of his enemies, so he stands fearless at the sacrifices.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुतः (*sutaḥ*)—the pressed Soma-deva
+- कलशं (*kalaśaṃ*)—the Droṇa vessel
+- आविकन् (*āvikan*)—entering **NOTE**
+- विश्वाः (*viśvāḥ*)—all
+- श्रियः (*śriyaḥ*)—the riches
+- अभ्यर्षन् (*abhyarṣan*)—sending towards us
+- गोषु (*goṣu*)—among the cattle of the enemies
+- शूरो न (*śūro na*)—like a hero
+- तिष्ठति (*tiṣṭhati*)—stands
+### Printed p. 219
+
+##### भावार्थ (Bhāvārtha)
+
+The pressed Soma-deva, entering the Droṇa vessel and sending all riches towards us, stands like a hero among the cattle of the enemies.
+
+##### English translation
+Entering wheu effused into the pitcher, bringing us all snccess like a hero, he stands amongst the cattle.
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ त॑ इंदो॒ मदा॑य॒ कं पयो॑ दुहंत्या॒यवः॑ ।  
+> दे॒वा दे॒वेभ्यो॒ मधु॑ ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । ते । इंदो इति । मदाय । कम् । पयः । दुहंति । आयवः ।  
+> देवाः । देवेभ्यः । मधु ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो सोम ते तव मधु मधुभूतं पयः पेयं रसं देवाः स्तोतारः आयवः मनुष्याः मदाय कं मदार्थं देवेभ्यः इंद्रादिभ्यः आ दुहंति ॥ ॥ २७ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma, the praisers, the men, milk out for the sake of gladness your sweet drink, the juice, for the gods, Indra and the others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma-deva
+- ते (*te*)—your
+- मधु (*madhu*)—sweet like honey
+- पयः (*payaḥ*)—the juice
+- देवाः (*devāḥ*)—the praisers
+- आयवः (*āyavaḥ*)—men
+- मदाय कं (*madāya kaṃ*)—for gladness
+- देवेभ्यः (*devebhyaḥ*)—addressing the gods
+- आ दुहंति (*ā duhaṃti*)—call forth
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, men who are praisers call forth your juice, sweet like honey, for the gods, for their gladness.
+
+##### English translation
+The devout priests milk forth your sweet juice, Indu, for the gods for the purpose of exhilaration.
+### Printed p. 220
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नः॒ सोमं॑ प॒वित्र॒ आ सृ॒जता॒ मधु॑मत्तमम् ।  
+> दे॒वेभ्यो॑ देव॒श्रुत्त॑मम् ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । सोमम् । पवित्रे । आ । सृजत । मधुमत्ऽतमम् ।  
+> देवेभ्यः । देवश्रुत्ऽतमम् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः नः अस्माकं देवश्रुत्तमम् अत्यंतं देवैः श्रूयमाणं मधुमत्तमम् अतिशयेन मधुमंतं सोमं देवेभ्यः इंद्राद्यर्थं पवित्रे दशापवित्रे आ सृजत साधयत ।
+
+##### Gist of the bhāṣya
+
+O priests, for us, for the gods Indra and the others, pour out upon the Daśāpavitra filter the Soma that is heard of exceedingly by the gods and is exceedingly sweet.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O priests) नः (*naḥ*)—for us
+- देवश्रुत्तमं (*devaśruttamaṃ*)—that which is heard with respect by the gods
+- मधुमत्तमं (*madhumattamaṃ*)—and that which is most delicious
+- सोमं (*somaṃ*)—the Soma
+- देवेभ्यः (*devebhyaḥ*)—addressing Indra and the other gods
+- पवित्रे (*pavitre*)—on the Daśāpavitra filter
+- आ सृजत (*ā sṛjata*)—pour out
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, pour out on our behalf, on the Daśāpavitra filter, for Indra and the other gods, the Soma that is heard with respect by the gods and is most delicious.
+
+##### English translation
+Pour upon the filter for us for the sake of the gods the most sweet-flavoured Soma, most audible to the gods.
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमा॑ असृक्षत गृणा॒नाः श्रव॑से म॒हे ।  
+> म॒दिंत॑मस्य॒ धार॑या ॥ २२ ॥
+
+### Printed p. 221
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमाः । असृक्षत । गृणानाः । श्रवसे । महे ।  
+> मदिन्ऽतमस्य । धारया ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गृणानाः स्तूयमानाः एते इमे सोमाः महे महते श्रवसे अन्नाय मदिंतमस्य मादयितृतमस्य रसस्य धारया असृक्षत ऋत्विग्भिः सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+These Soma juices, being praised, are let flow by the priests in a stream of the most exhilarating juice, for great food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गृणानाः (*gṛṇānāḥ*)—that are objects of praise
+- एते सोमाः (*ete somāḥ*)—these Soma juices
+- महे (*mahe*)—great
+- श्रवसे (*śravase*)—for food
+- मदिंतमस्य (*madiṃtamasya*)—of the most delicious juice
+- धारया (*dhārayā*)—in the form of a stream
+- असृक्षत (*asṛkṣata*)—are made to flow by the priests
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma juices, which are objects of everyone's praise, are made to flow by the priests in the form of a stream of the most delicious juice, for great food.
+
+##### English translation
+These lauded Soma juices are let flow for the sake of abundant food in a stream of the most exhilarating (juice).
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि गव्या॑नि वी॒तये॑ नृ॒म्णा पु॑ना॒नो अ॑र्षसि ।  
+> स॒नद्वा॑जः॒ परि॑ स्रव ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । गव्यानि । वीतये । नृम्णा । पुनानः । अर्षसि ।  
+> सनत्ऽवाजः । परि । स्रव ॥ २३ ॥
+
+### Printed p. 222
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम पुनानः पूयमानो यस्त्वं वीतये भक्षणाय गव्यानि गोसंबंधीनि नृम्णा नृम्णानि धनानि क्षीरादीनि अभि अर्षसि अभिगच्छसि स त्वं सनद्वाजः दीयमानान्नः सन् परि स्रव परिक्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who, being purified, go for consumption towards the riches connected with cows, namely milk and the like: such as you are, flow all around, being one who is given as food.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) पुनानः (*punānaḥ*)—you who have been purified
+- वीतये (*vītaye*)—to become fit for consumption
+- गव्यानि (*gavyāni*)—connected with cows
+- नृम्मा (*nṛmmā*)—with milk and the like **NOTE**
+- अभ्यर्षसि (*abhyarṣasi*)—you go and join
+- सनद्वाजः (*sanadvājaḥ*)—you who give food
+- परि स्रव (*pari srava*)—flow all around
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who have been purified, go and join the milk and the like that are connected with cows, to become fit for consumption. Being the giver of food, flow all around.
+
+##### English translation
+Being purified you hasten to the treasures of the cows to enjoy (them); flow forth you who grant food.
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त नो॒ गोम॑ती॒रिषो॒ विश्वा॑ अर्ष परि॒ष्टुभः॑ ।  
+> गृ॒णा॒नो ज॒मद॑ग्निना ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । नः । गोऽमतीः । इषः । विश्वाः । अर्ष । परिऽस्तुभः ।  
+> गृणानः । जमत्ऽअग्निना ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उत अपि च हे सोम जमदग्निना जमदग्निनाम्ना ऋषिणा मया गृणानः स्तूयमानस्त्वं नः अस्माकं गोमतीः गोभिर्युक्तानि परिष्टुभः परितः स्तोतव्यानि विश्वाः सर्वाणि इषः अन्नानि अर्ष गच्छ। अस्मभ्यमेवंविधान्यन्नानि देहीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Moreover, O Soma, praised by me, the seer named Jamadagni, go to us with all foods that are rich in cattle and everywhere to be praised; that is, give us foods of this kind.
+### Printed p. 223
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) उत (*uta*)—moreover
+- जमदग्निना (*jamadagninā*)—by me, who am called Jamadagni
+- गृणानः (*gṛṇānaḥ*)—having been praised
+- नः (*naḥ*)—to give to us
+- गोमतीः (*gomatīḥ*)—that which is joined with cattle
+- परिष्टुभः (*pariṣṭubhaḥ*)—that which is worthy of praise
+- विश्वाः (*viśvāḥ*)—all
+- इषः (*iṣaḥ*)—the wealth of food
+- अर्ष (*arṣa*)—go and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, praised by me, who am called Jamadagni, go and join all the wealth of food that is joined with cattle and is worthy of praise everywhere, in order to give it to us.
+
+##### English translation
+And hasten for us towards all widely renowned food with cattle, being hymued by Jamadagni.
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व वा॒चो अ॑ग्रि॒यः सोम॑ चि॒त्राभि॑रू॒तिभिः॑ ।  
+> अ॒भि विश्वा॑नि॒ काव्या॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । वाचः । अग्रियः । सोम । चित्राभिः । ऊतिऽभिः ।  
+> अभि । विश्वानि । काव्या ॥ २५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अग्रियः मुख्यस्त्वं चित्राभिः पूजनीयैः ऊतिभिः रक्षणैः सह वाचः अस्मदीयाः स्तुतीः अभि पवस्व । एतदेव दर्शयति । विश्वानि सर्वाणि काव्या काव्यानि स्तुत्यात्मकानि वाक्यानि अभि पवस्वेति ॥ ॥ २८ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are chief, flow towards our praises with admirable protections. He shows this: flow towards all the praising verses.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- अग्रियः (*agriyaḥ*)—you who are foremost
+- चित्राभिः (*citrābhiḥ*)—venerable
+- ऊतिभिः (*ūtibhiḥ*)—with protections
+- वाचः (*vācaḥ*)—towards our praises
+- अभि पवस्व (*abhi pavasva*)—come flowing
+- विश्वानि (*viśvāni*)—all
+- काव्या (*kāvyā*)—come favourably to our acts of praise **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 217. Mandala 9 sukta 62 rks 11-18, pp. 212-217
+**Progress note:** Done through printed p. 223. Mandala 9 sukta 62 rks 18-25, pp. 218-223
