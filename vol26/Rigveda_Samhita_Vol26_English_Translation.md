@@ -19764,6 +19764,238 @@ The Pṛśni of Uṣas is Āditya, the Sun. So the Nirukta says: पृश्न
 
 In the Abhiṣṭava, looking at a donkey, one should recite the Ṛk गंधर्व इत्था (*gaṃdharva itthā*). It is laid down in the sūtra: गंधर्व इत्था पदमस्य रक्षतीति खरमवेक्ष्य (*gaṃdharva itthā padamasya rakṣatīti kharamavekṣya*) (Āśv. Śrau. 4. 7) **GLOSS**.
 
+### Printed p. 528
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उषसः (*uṣasaḥ*)—the one connected with Uṣas
+- पृश्निः (*pṛśniḥ*)—the one in the form of Āditya
+- अग्रियः (*agriyaḥ*)—and the foremost, the god Soma
+- अरूरुचत् (*arūrucat*)—shines
+- उक्षा (*ukṣā*)—the Soma who pours rain
+- वाजयुः (*vājayuḥ*)—wishing to give food
+- भुवनानि (*bhuvanāni*)—all the worlds
+- बिभर्ति (*bibharti*)—nourishes
+- मायाविनः (*māyāvinaḥ*)—the intelligent gods
+- अस्य (*asya*)—of this Soma
+- मायया (*māyayā*)—by the intelligence
+- ममिरे (*mamire*)—build the world
+- नृचक्षसः (*nṛcakṣasaḥ*)—able to look at men
+- पितरः (*pitaraḥ*)—the Fathers, the Aṅgirases and others
+- गर्भं (*garbhaṃ*)—the embryo
+- आ दधुः (*ā dadhuḥ*)—place (in plants and the like)
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, who is connected with Uṣas, in the form of Āditya, and foremost, shines. The Soma who pours rain, wishing to give food, nourishes all the worlds. The intelligent gods build the world by the intelligence of this Soma. The Fathers, the Aṅgirases and others, who are able to look at men, place the embryo in plants and the like.
+
+##### English translation
+The chief sun of the dawn (the Soma) shines forth ; sprinkler (of water), he nourishes the worlds, wishing (to give them) food : by his intelligence the intelligent build, the pitris, the beholders of men, support the germ (of vegetation).
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhiṣṭava this Ṛk अरूरुचत् (*arūrucat*) is to be recited for the purpose of the Āvāpa; this is explained by the sūtra of the Āśvalāyana Śrautasūtra: ईळे द्यावापृथिवी इति प्रागुत्तमाया अरूरुचदुषसः पृश्निरग्रिय इत्यावपेत (*īḷe dyāvāpṛthivī iti prāguttamāyā arūrucaduṣasaḥ pṛśniragriya ityāvapeta*) (Ā. 4-6).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गं॒ध॒र्व इ॒त्था प॒दम॑स्य रक्षति॒ पाति॑ दे॒वानां॒ जनि॑मा॒न्यद्भु॑तः ।  
+> गृ॒भ्णाति॑ रि॒पुं नि॒धया॑ नि॒धाप॑तिः सु॒कृत्त॑मा॒ मधु॑नो भ॒क्षमा॑शत ॥ ४ ॥
+
+### Printed p. 529
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गंधर्वः । इत्था । पदम् । अस्य । रक्षति । पाति । देवानाम् । जनिमानि । अद्भुतः ।  
+> गृभ्णाति । रिपुम् । निऽधया । निधाऽपतिः । सुकृत्ऽतमाः । मधुनः । भक्षम् । आशत ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> गंधर्वः उदकानां स्तुतीनां वा धारक आदित्यः अस्य सोमस्य पदं स्थानं द्युसंबंधि इत्था सत्यं रक्षति । सोऽयं सोमः देवानां जनिमानि जन्मानि । देवानित्यर्थः । पाति रक्षति अद्भुतः महान् । किंचायं रिपुम् अस्मद्वैरिणं निधया। निधा पाश्या । पाशसमूहेन गृभ्णाति गृह्णाति । निधापतिः पाशसमूहस्वामी । तस्यास्य मधुनः मधुररसस्य भक्षं सुकृत्तमाः अतिशयेन सुकृतकर्तार एव आशत प्राप्नुवंति ॥
+> अंतिमे प्रवर्ग्ये परिधानीयायाः पूर्वं ‘हविर्हविष्मः' इत्येषावपनीया। सूत्रितं च- उत्तमे प्रागुत्तमाया हविर्हविष्मो महि सद्म दैव्यमित्यावपेत' (आश्व. श्रौ. ४. ७) इति ।
+
+##### Gist of the bhāṣya
+
+The Gandharva, the Āditya, the upholder of the waters or of the praises, truly protects this Soma's station that belongs to heaven. This Soma, wonderful (adbhuta, that is, great), protects the births of the gods, that is, the gods. Moreover he seizes our enemy with the snare: nidhā is a snare, and he seizes with a group of snares; the nidhāpati is the lord of the group of snares. Only those who do the best good deeds (sukṛttamāḥ) attain the share of this sweet juice.
+
+In the last Pravargya, before the Paridhānīyā, the Ṛk हविर्हविष्मः (*havirhaviṣmaḥ*) is the Āvapanīyā. It is laid down in the sūtra: उत्तमे प्रागुत्तमाया हविर्हविष्मो महि सद्म दैव्यमित्यावपेत (*uttame prāguttamāyā havirhaviṣmo mahi sadma daivyamityāvapeta*) (Āśv. Śrau. 4. 7) **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गंधर्वः (*gaṃdharvaḥ*)—the Āditya, the upholder of the waters
+- अस्य (*asya*)—of this Soma
+- पदं (*padaṃ*)—the station
+- इत्था (*itthā*)—truly
+- रक्षति (*rakṣati*)—protects
+- देवानां (*devānāṃ*)—of the gods
+- जनिमानि (*janimāni*)—the births
+- पाति (*pāti*)—protects
+- निधापतिः (*nidhāpatiḥ*)—the lord of the snares
+- अद्भुतः (*adbhutaḥ*)—and the great one, the Āditya
+- रिपुं (*ripuṃ*)—our enemies
+- निधया (*nidhayā*)—with the snare
+- गृभ्णाति (*gṛbhṇāti*)—seizes
+- सकृत्तमाः (*sakṛttamāḥ*)—the doers of good deeds **NOTE**
+- मधुनः (*madhunaḥ*)—of the sweet Soma juice
+- भक्ष्यं (*bhakṣyaṃ*)—the drinking **NOTE**
+- आशत (*āśata*)—obtain
+
+##### भावार्थ (Bhāvārtha)
+
+The Āditya, the upholder of the waters, truly protects the station of this Soma. He protects the births of the gods. The Āditya, who is the lord of the snares and the great one, seizes our enemies with snares. The doers of good deeds obtain the drinking of the sweet Soma juice.
+
+##### English translation
+The Gandharva vcrily protects this station ; the marvellous (Soma) preserves the races of the gods ; the lord of cattle seizes (our enemy) with a snare; the doers of good attain the drinking of the sweet-juiced (Soma). **NOTE**
+
+### Printed p. 530
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Abhiṣṭava, on seeing a donkey, this Ṛk गंधर्व इत्था (*gaṃdharva itthā*) is to be recited; this is explained by the sūtra of the Aśvalāyana Śrautasūtra: गंधर्व इत्था पदमस्य रक्षतीति खरमवेक्ष्य (*gaṃdharva itthā padamasya rakṣatīti kharamavekṣya*) (Ā. 4-7).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ह॒विर्ह॑विष्मो॒ महि॒ सद्म॒ दैव्यं॒ नभो॒ वसा॑नः॒ परि॑ यास्यध्व॒रम् ।  
+> राजा॑ प॒वित्र॑रथो॒ वाज॒मारु॑हः स॒हस्र॑भृष्टिर्जयसि॒ श्रवो॑ बृ॒हत् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हविः । हविष्मः । महि । सद्म । दैव्यम् । नभः । वसानः । परि । यासि । अध्वरम् ।  
+> राजा । पवित्रऽरथः । वाजम् । आ । अरुहः । सहस्रऽभृष्टिः । जयसि । श्रवः । बृहत् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हविष्मः । हविरित्युदकनाम । उदकवन् सोम हविभूतं नभः । उदकनामैतत् । उदकरसमित्यर्थः। वसानः आच्छादयन् महि महत् दैव्यं सद्म यागगृहं परि यासि परिगच्छसि अध्वरं निर्वोढुम् । किंच हे सोम राजा पवित्ररथः च वाजं संग्रामम् आरुहः आरोहसि । यद्वा । तत्र तत्र संग्रामवाचकेन शब्देन यज्ञव्यवहारदर्शनादत्र वाजो यज्ञाख्यसंग्रामः । तमारुहः । यथा कश्चिद्राजा रथमारुह्य स्वस्थानं प्रविशति तद्वदिति भावः । किंच सहस्रभृष्टिः बहुभ्रंशः । अपरिमितगमन इत्यर्थः । अथवा भृष्टिरायुधम् । असंख्यातायुधः सन् । बृहत् श्रवः महदन्नं जयसि अस्माकम् ॥ ॥ ८ ॥
+
+##### Gist of the bhāṣya
+
+O Havishmaḥ: havis is a name for water, so O Soma, who have water. Nabhas too is a name for water here, the water-juice, which has become the oblation. Clothing yourself with it, you go around to the great divine abode, the house of the sacrifice, to carry the sacrifice through. Further, O Soma, as king, mounted on the filter-chariot, you ascend the vāja, the battle. Or else: since a word denoting battle is seen in various places used for sacrificial dealings, here vāja is the battle called the sacrifice, and you ascend it, just as a king ascends a chariot and enters his own place. Further, sahasrabhṛṣṭi means many-edged, that is, of unmeasured motion; or else bhṛṣṭi is a weapon, so having countless weapons, you win for us great food (śravaḥ).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविष्मः (*haviṣmaḥ*)—you, O Soma, who have water
+- नभः (*nabhaḥ*)—water
+- वसानः (*vasānaḥ*)—clothing yourself in
+
+### Printed p. 531
+
+- महि (*mahi*)—to the great
+- दैव्यं (*daivyaṃ*)—and venerable
+- सद्म (*sadma*)—house of the sacrifice
+- अध्वरं (*adhvaraṃ*)—to carry the sacrifice through
+- परि यासि (*pari yāsi*)—you go
+- राजा (*rājā*)—you who are the lord
+- पवित्ररथः (*pavitrarathaḥ*)—mounted on a purified chariot
+- वाजं (*vājaṃ*)—to the battle
+- आरुहः (*āruhaḥ*)—you ascend and go
+- सहस्रभृष्टिः (*sahasrabhṛṣṭiḥ*)—having weapons of many kinds
+- बृहत् (*bṛhat*)—abundant
+- श्रवः (*śravaḥ*)—food
+- जयसि (*jayasi*)—you win and provide for us
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, who have water, clothing yourself in water (joining with it), you go to the great and venerable house of the sacrifice to carry the sacrifice through. Having weapons of many kinds, you win and provide for us abundant food.
+
+##### English translation
+Possessed of water, you go clothed in the liquid water, to the great celestial abode to (take) the sacrifice; as king you ascend the chariot to go to the battle, mounted on your filter-chariot ; armed with a thousand weapons you win (us) abundant food.
+
+##### विशेषविषयगळु (Special Topics)
+
+In the last Pravargya, among the Ṛks recited for the increase of the Stoma, before the last Ṛk is recited, this Ṛk हविर्हविष्मः (*havirhaviṣmaḥ*) is to be recited for the purpose of the Āvāpa; this is explained by the sūtra of the Aśvalāyana Śrautasūtra: उत्तमेप्रागुत्तमाया हविर्हविष्मो महि सद्मॆ दैव्यमित्यावपेत (*uttameprāguttamāyā havirhaviṣmo mahi sadmè daivyamityāvapeta*) (Ā. 4-7).
+
+## Sūkta 84 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ पवस्व देवमादनः' इति पंचर्चं सप्तदशं सूक्तं वाचः पुत्रस्य प्रजापतेरार्षं जागतं पवमानसोमदेवताकम् । तथा चानुक्रांतं- पवस्व वाच्यः प्रजापतिः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning पवस्व (*pavasva*) देवमादनः (*devamādanaḥ*) has five Ṛks and is the seventeenth sūkta. Its seer is Prajāpati, son of Vāc; its metre is Jagatī and its deity is Pavamāna Soma. The Anukramaṇikā accordingly says that Prajāpati Vācya is the seer. The application (viniyoga) has already been stated.
+
+Anuvāda: This sūkta, पवस्व (*pavasva*) देवमादनः (*devamādanaḥ*), is the seventeenth sūkta in the fourth anuvāka. It has five Ṛks. The seer of this sūkta is Prajāpati; the deity is Pavamāna Soma; the metre is Jagatī. In the Anukramaṇikā it is stated: पवस्य वाच्यः प्रजापतिः (*pavasya vācyaḥ prajāpatiḥ*) **NOTE**. The application (viniyoga) has been stated earlier.
+
+### Printed p. 532
+
+- Maṇḍala 9; Anuvāka 4; Sūkta 84
+- Aṣṭaka 7; Adhyāya 3; Varga 9
+- Number of Ṛks in the sūkta: 5
+- Seer: Prajāpati Vācya
+- Deity: Pavamāna Soma
+- Metre: Jagatī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व देव॒माद॑नो॒ विच॑र्षणिर॒प्सा इंद्रा॑य॒ वरु॑णाय वा॒यवे॑ ।  
+> कृ॒धी नो॑ अ॒द्य वरि॑वः स्वस्ति॒मदु॑रुक्षि॒तौ गृ॑णीहि॒ दैव्यं॒ जन॑म् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । देवऽमादनः । विऽचर्षणिः । अप्साः । इंद्राय । वरुणाय । वायवे ।  
+> कृधि । नः । अद्य । वरिवः । स्वस्तिऽमत् । उरुऽक्षितौ । गृणीहि । दैव्यम् । जनम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देवमादनः देवानां मादयिता विचर्षणिः विद्रष्टा अप्साः अपां दाता त्वं पवस्व क्षर । कस्मै । इंद्राय वरुणाय वायवे च । नः अस्माकं वरिवः धनं स्वस्तिमत् । स्वस्तीत्यविनाशनाम । तद्वद्धनं कृधि कुरु । उरुक्षितौ विस्तीर्णायां भूमौ यज्ञसंबंधियां दैव्यं जनं देवसंबंधिनं संघम् । जनशब्दः संघवाची । तं गृणीहि । गृणातिः शब्दकर्मा । शब्दय । यथा त्वदीयाभिषवशब्दं श्रुत्वा देवा आगच्छंति तथा गृणीहीत्यर्थः । अथवा दैव्यं जनमित्यृषिः स्वात्मानमाह । देवसंबंधिनं जनं मां गृणीहि साधुसंभक्ता इति शब्दय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, delighter of the gods (devamādana), far-seeing (vicarṣaṇi, one who sees specially), giver of waters (apsāḥ), flow, that is, stream, for Indra, Varuṇa and Vāyu. Make for us wealth (varivaḥ) possessing svasti: svasti is a name for indestructibility, so make indestructible wealth. On the broad earth, which belongs to the sacrifice, make resound (gṛṇīhi, gṛṇāti being a verb of sound) the divine people (daivya jana), that is, the company connected with the gods; the word jana denotes a company. The meaning is: make it resound so that, hearing the sound of your pressing, the gods come. Or else the seer speaks of himself by daivyaṃ janam: make me, the person connected with the gods, resound as a good worshipper.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवमादनः (*devamādanaḥ*)—you who give satisfaction to the gods (addressed: O god Soma)
+- विचर्षणिः (*vicarṣaṇiḥ*)—who have subtle sight
+- अस्साः (*assāḥ*)—and are the giver of water **NOTE**
+- इंद्राय (*iṃdrāya*)—for Indra
+
+### Printed p. 533
+
+- वरुणाय (*varuṇāya*)—for Varuṇa
+- वायवे (*vāyave*)—for Vāyu
+- पवस्व (*pavasva*)—flow
+- नः (*naḥ*)—to us
+- वरिवः (*varivaḥ*)—wealth
+- स्वस्तिमत् (*svastimat*)—so as to bring us well-being
+- कृधि (*kṛdhi*)—provide
+- अद्य (*adya*)—now
+- उरुक्षितौ (*urukṣitau*)—in the spacious sacrificial ground
+- दैव्यं जनं (*daivyaṃ janaṃ*)—the people of the gods of the world of the gods
+- गृणीहि (*gṛṇīhi*)—bring and unite
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you who give satisfaction to the gods and have subtle sight and are the giver of water, flow for Indra, for Varuṇa and for Vāyu. Provide wealth so as to bring us well-being. In the spacious sacrificial ground bring the gods and unite them.
+
+##### English translation
+Flow, the exhilarator of the gods, the far-seeing, the giver of water, for Indra, Varuna, and Vayu : grant us tnis day wealth and health ; call the celestial people on the spacious ground (of the sacrifice). **NOTE**
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ यस्त॒स्थौ भुव॑ना॒न्यम॑र्त्यो॒ विश्वा॑नि॒ सोमः॒ परि॒ तान्य॑र्षति ।  
+> कृ॒ण्वन्सं॒चृतं॑ वि॒चृत॑म॒भिष्ट॑य॒ इंदुः॑ सिषक्त्यु॒षसं॒ न सूर्यः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । यः । तस्थौ । भुवनानि । अमर्त्यः । विश्वानि । सोमः । परि । तानि । अर्षति ।  
+> कृण्वन् । सम्ऽचृतम् । विऽचृतम् । अभिष्टये । इंदुः । सिसक्ति । उषसम् । न । सूर्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः अमर्त्यः देवः सोमः भुवनानि लोकान् आ तस्थौ आस्थितवान् तानि विश्वानि सर्वाणि भुवनानि परि अर्षति परितो गच्छति । परितो रक्षतीत्यर्थः । सोऽयम् इंदुः यज्ञं यजमानं वा संचृतं देवैः फलैर्वा संबद्धं कृण्वन् कुर्वन् विचृतम् असुरादिभिर्दुःखैर्वा विमुक्तं कृण्वन् अभितो यागाय सिषक्ति सेवते यज्ञम् । उषसं न सूर्यः। सूर्य उषसमिव यथा अभिष्टये अभितो गमनाय प्राणिनां संचृतं प्रकाशैः संयुक्तं विचृतं तमोभिर्विमुक्तं च लोकं कुर्वन्नुषसं सेवते तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+The immortal god Soma, who has pervaded the worlds, goes around all those worlds, that is, protects them on every side. This Indu, making the sacrifice or the sacrificer saṃcṛta, joined with the gods or with fruits, and vicṛta, freed from the asuras and the like or from sorrows, serves the sacrifice on every side for the sake of the rite. As the sun serves Uṣas, so, for the going about of living beings on every side, making the world saṃcṛta, joined with lights, and vicṛta, freed from darkness, he serves Uṣas; likewise Soma.
+
 ---
 
-**Progress note:** Done through printed p. 527. Mandala 9: Sukta 82 Rk 4-5, Sukta 83 Rk 1-3 (pp. 522-527)
+**Progress note:** Done through printed p. 533. Mandala 9: Sukta 83 Rk 3-5, Sukta 84 Rk 1-2 (pp. 528-533)
