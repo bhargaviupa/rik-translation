@@ -4985,6 +4985,211 @@ When I am satisfied with the Soma juices that the sacrificers offer me with mant
 
 I, Indra, lord of all wealth, never let my wealth be overcome (परा जिग्ये (*parā jigye*)): my wealth is not defeated. Moreover I never (कदा चन (*kadā cana*)) submit (अव तस्थे (*ava tasthe*)) to मृत्यवे (*mṛtyave*), death, the slayer of all. Devotees of Indra do not partake of death, so what need to speak of Indra, who is without death? Therefore, O sacrificers who press Soma, ask (याचत (*yācata*)) me alone for the wealth (वसु (*vasu*)) you desire. O पूरवः (*pūravaḥ*), men, do not suffer harm (रिषाथन (*riṣāthana*)) in my friendship; do not destroy my friendship.
 
+### Printed p. 151
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्रः (*iṃdraḥ*)—the lord of all wealth
+- अहं (*ahaṃ*)—I
+- धनं (*dhanaṃ*)—my wealth
+- परा (*parā*)—others, anyone
+- न जिग्यॆ इत् (*na jigyè it*)—I do not allow to be snatched away
+- मृत्यवे (*mṛtyave*)—for the destruction of all
+- कदा चन (*kadā cana*)—at any time
+- न अव तस्थे (*na ava tasthe*)—I make no effort (therefore)
+- सोमं (*somaṃ*)—the Soma juice
+- सुन्वंतः (*sunvaṃtaḥ*)—O sacrificers who press it for me
+- वसु (*vasu*)—to obtain the wealth you need
+- मा इत् (*mā it*)—me alone
+- याचत (*yācata*)—ask
+- पूरवः (*pūravaḥ*)—O men
+- मे (*me*)—my
+- सख्ये (*sakhye*)—friendship
+- न रिषाधन (*na riṣādhana*)—do not lose
+
+##### भावार्थ (Bhāvārtha)
+
+I, the lord of all wealth, do not allow anyone else to win my wealth. I never exert myself to destroy my devotees. Therefore, O sacrificers who press the Soma juice for me, ask me alone for the wealth you need. O men, do not lose my friendship.
+
+##### English translation
+I, Indra, am not surpassed in affluence; I never yield to death: pouring forth the Soma libation, ask of me wealth; O men, forfeit not my friendsbip.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हमे॒ताञ्भाश्व॑सतो॒ द्वाद्वेंद्रं॒ ये वज्रं॑ यु॒धयेऽकृ॑  
+> ण्वत ।  
+> आ॒ह्वय॑माना॒ अव॒ हन्म॑नाहनं दृ॒ळ्हा वद॒न्नन॑मस्युर्नम॒स्विनः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । एतान् । शाश्वसतः । द्वाद्वा । इंद्रं । ये । वज्रं । युधये । अकृण्वत ॥  
+> आह्वयमानान् । अव । हन्मना + अहनं । दृळ्हा । वदन् । अनमस्युः । नमस्विनः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्र एतान्नक्ष्यमाणाञ्वाश्वसतो भृशं प्राणतः प्रवृद्धबलाञ्त्यत्रून्
+> द्वाद्वा द्वौ द्वा । युग्मभूतानित्यर्थः । तानहनमिति संबंधः। एतानित्युक्तं कानित्याह।
+> ये शत्रव इंद्रं शत्रूणां दारकं । इंद्रः शत्रूणां दारयितेति निरुक्तं । १०-८ ।
+> ईदृशं वज्रं बलिनं यद्वा व्रजवंतं युधये युद्धायाकृण्वत अकुर्वत। तानेतानित्यर्थः । पुनः कीदृशान् आह्वयमानान् एहि युध्यस्वेत्याह्वयतः शत्रून्
+
+##### Gist of the bhāṣya
+
+I, Indra, say: these (enemies about to be named), breathing hard, that is, puffing with swollen strength, I have slain two by two, in pairs; the connection is with *tānahanam* "I slew them". Who are "these"? Those enemies who have made Indra, the cleaver of enemies (Nirukta 10-8: Indra is the one who tears enemies apart), the wielder of such a thunderbolt, the mighty (or the one possessed of the vajra), their opponent for battle. And again of what kind? Those who challenge, saying "Come, fight".
+
+### Printed p. 152
+
+> नमस्विनो नमनवतो बलान्न मयित्वानमस्युरप्रणतिशीलः सन् दृळ्हा दृढानि भयजनकानि स्थिराणि वचनानि वदन्नहनं हतवानस्मि ॥
+
+##### Gist of the bhāṣya
+
+Though they are humble, being strong with bowing power, I, unbending, uttering firm, fearsome, steady words, have slain them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अहं (*ahaṃ*)—I, Indra
+- ये (*ye*)—which enemies
+- इंद्रं (*iṃdraṃ*)—me, who cleave enemies in battle
+- वज्रं (*vajraṃ*)—and bear the thunderbolt
+- युधये (*yudhaye*)—for battle
+- अकृण्वत (*akṛṇvata*)—call
+- एतान् (*etān*)—such
+- शाश्वसतः (*śāśvasataḥ*)—enemies swollen with strength
+- द्वाद्वा (*dvādvā*)—I slay two at a time, and
+- आह्वयमानान् (*āhvayamānān*)—those enemies who call me to battle
+- नमस्विनः (*namasvinaḥ*)—bending by my strength
+- अनमस्युः (*anamasyuḥ*)—but I, not bending to them
+- दृळ्हा (*dṛḷhā*)—firm and fearsome heroic words
+- वदन् (*vadan*)—speaking
+- अहनं (*ahanaṃ*)—I slay
+
+##### भावार्थ (Bhāvārtha)
+
+Those enemies who, intoxicated with strength, call me, Indra, the cleaver of enemies and bearer of the thunderbolt, to battle, I kill two at a time. Unbending to anyone, I bend with my strength the enemies who challenge me to battle, and uttering fearsome heroic words I destroy them.
+
+##### English translation
+I destroy those powerful (enemies) two by two who defy the (wielder of the) thunderbolt, Indra, to battle. I slew them challenging (me to fight) with (great) slaughter, the unbending (slaying) the bending, uttering stern (menaces).
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भी॒३॒॑षदमेक॒मेको॑ अस्मि नि॒ष्पाळ॒भी द्वा किमु॒ त्रयः॑ करंति ।  
+> खले॒ न प॒र्षान् प्रति॑ हन्मि॒ भूरि॒ किं मा॑ निंदंति॒ शत्र॑वोs  ॒
+> निंद्राः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । इदं । एकं । एकः । अस्मि । निष्षाट् । अभि । द्वा । किं । ऊंइति । त्रयः । करंति ॥  
+> खले । न । पर्षान् । प्रति । हन्मि । भूरि । किं । मा । निंदंति । शत्रवः । अनिंद्राः ॥ ७ ॥
+
+### Printed p. 153
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिदमिदानीमेकं शत्रुमेकोऽसहाय एव सन्नभ्यस्मि । अभिभवामि ।
+> किंच निष्पाट् सपत्नान्निःषहमाणोऽहं द्वा द्वावप्यसहौ शत्रू अभ्यस्मि । किमु किं
+> वा त्रयः शत्रवः करंति । कुर्वंति । तानस्यभिभवामीत्यर्थः । किं बहुना । खले न
+> खलनिष्पादने यथा जीर्णव्रीह्यादिस्तंबाननायासेन प्रतिहंति कर्षकः तद्वत्पर्षान्निष्टुरान्भूरि बहून्यत्रून्प्रति हन्मि । मा मामनिंद्रा इंद्ररहिता इंद्रमजानंत
+> इंद्रविरोधिनः शत्रवो मामिंद्रं किं निंदंति । निंदितुमशक्ता इत्यर्थः । अत्राभिभवामीत्यादि निरुक्तं द्रष्टव्यं ॥ नि. ३-१० ॥
+
+##### Gist of the bhāṣya
+
+I, now, alone, without helper, overcome a single enemy. Further, being the vanquisher of rivals, I overcome even two invincible enemies. Or what can three enemies do? I overcome them. Why say more? As a farmer without effort strikes down the stalks of ripe rice and the like at the threshing-floor, so I strike down the many harsh enemies. Why should enemies who are अनिंद्राः (*aniṃdrāḥ*)—without Indra, not knowing Indra, hostile to Indra—revile me, Indra? They are unable to. Here the Nirukta on अभिभवामि (*abhibhavāmi*) and the rest is to be seen (Ni. 3-10).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (अहं (*ahaṃ*)—I)
+- इदं (*idaṃ*)—now
+- एकं (*ekaṃ*)—one enemy
+- एकः (*ekaḥ*)—alone, that is, without anyone's help
+- अभि अस्मि (*abhi asmi*)—I shall defeat
+- निष्षाट् (*niṣṣāṭ*)—I, who have the power to defeat enemies
+- द्वा (*dvā*)—two mighty enemies (together)
+- अभि (*abhi*)—I shall defeat (not only that)
+- त्रयः (*trayaḥ*)—even three enemies
+- किमु करंति (*kimu karaṃti*)—what can they do (to me)?
+- खले न (*khale na*)—as a farmer easily beats out and separates the grains in the ear
+- पर्षान् (*parṣān*)—those intoxicated with strength
+- भूरि (*bhūri*)—and many enemies
+- प्रति हन्मि (*prati hanmi*)—I kill
+- अनिंद्राः (*aniṃdrāḥ*)—those who do not know Indra's power
+- शत्रवः (*śatravaḥ*)—enemies
+- मा (*mā*)—me
+- किं निंदंति (*kiṃ niṃdaṃti*)—are they able to revile?
+
+##### भावार्थ (Bhāvārtha)
+
+I, Indra, now, without another's help, alone will defeat one enemy. Being the defeater of enemies, I can defeat even two mighty enemies at the same time. Why only that? Even if there are three enemies, what can they do to me? As a farmer effortlessly beats out the grains in the ear of corn, so I shall kill many enemies maddened with strength. Are opponents who do not know my power and capacity able to revile me?
+
+##### English translation
+Single, I overcome my single (adversary) : (over-powering them) I overcome two foes ; what can three effect (against me)? I smite numerous (adversaries) like sheaves (of grain) on the threshing-floor ; can my enemies who know not Indra revile me?
+
+##### विशेषविषयगळु (Special Topics)
+
+To explain the meaning of the word खल (*khala*) in this Ṛk, Yāska has given an etymological explanation of this Ṛk.
+
+### Printed p. 154
+अभिभवामिदमेकमेकोऽस्मि निष्पहमाणः सपत्ना नभिभवामि । द्वौ किं मा त्रयः कुर्वंति । एक इता संख्या । द्वौ द्रुततरा संख्या । त्रयस्तीर्णतमा संख्या । चत्वारश्चलिततमा संख्या । अष्टावश्नोतेः । नव न वननीया नावाप्ता वा । दश दस्ता दृष्टार्था वा । विशंतिर्द्विर्दशतः । शतं दशदशतः । सहस्रं सहस्वत् । आयुतं नियुतं प्रयुतं तत्तदभ्यस्तं । अर्बुदो मेघो भवति । अरणमंबु तद्दोऽम्बुदः । अंबुमद्भातीति वा । अंबुमद्भवतीति वा । स यथा महान् बहुर्भवति वर्षंस्तदिवार्बुदं । खले न पर्षान् प्रतिहन्मि भूरि । खल इव पर्षान् प्रतिहन्मि भूरि । खल इति संग्रामनाम । खलतेर्वा स्थलतेर्वा । अयमपीतरः खल एतस्मादेव समास्कन्नो भवति । किं मा निंदंति शत्रवोऽनिंद्राः । य इंद्रं न विविदुरिंद्रो ह्यहमस्म्यनिंद्रा इतर इति वा ॥ (*abhibhavāmidamekameko 'smi niṣpahamāṇaḥ sapatnā nabhibhavāmi | dvau kiṃ mā trayaḥ kurvaṃti | eka itā saṃkhyā | dvau drutatarā saṃkhyā | trayastīrṇatamā saṃkhyā | catvāraścalitatamā saṃkhyā | aṣṭāvaśnoteḥ | nava na vananīyā nāvāptā vā | daśa dastā dṛṣṭārthā vā | viśaṃtirdvirdaśataḥ | śataṃ daśadaśataḥ | sahasraṃ sahasvat | āyutaṃ niyutaṃ prayutaṃ tattadabhyastaṃ | arbudo megho bhavati | araṇamaṃbu taddo 'mbudaḥ | aṃbumadbhātīti vā | aṃbumadbhavatīti vā | sa yathā mahān bahurbhavati varṣaṃstadivārbudaṃ | khale na parṣān pratihanmi bhūri | khala iva parṣān pratihanmi bhūri | khala iti saṃgrāmanāma | khalatervā sthalatervā | ayamapītaraḥ khala etasmādeva samāskanno bhavati | kiṃ mā niṃdaṃti śatravo 'niṃdrāḥ | ya iṃdraṃ na vividuriṃdro hyahamasmyaniṃdrā itara iti vā ‖*) (Ni. 3-10)
+This is Indra's utterance: "This one enemy before me I can defeat alone (without others' help); likewise, warding off the blows of many enemies, I defeat them all." Here the word एक (*eka*) denotes a number. The word एक (*eka*) is derived from the root इण् गत् (*iṇ gat*) (to go). When one counts "one", the number one passes away; that is, leaving it, we recite the next number, two. द्वौ द्रुततरा संख्या (*dvau drutatarā saṃkhyā*): द्वौ (*dvau*) means two; the word is derived from the root द्रु (*dru*) meaning "run". Because "two" is counted quickly right after one, the word द्वौ (*dvau*) has the sense of two.
+त्रयस्तीर्णतमा संख्या (*trayastīrṇatamā saṃkhyā*): the word त्रयः (*trayaḥ*), three, is derived from the root तृ (*tṛ*), to cross. After the number two has been crossed, the number three, त्रयः (*trayaḥ*), is indicated. चत्वारश्चलिततमा संख्या (*catvāraścalitatamā saṃkhyā*): the number चत्वारः (*catvāraḥ*), four, is derived from the root चलति (*calati*) meaning "move"; as soon as three is done, four; as soon as four is done, five—thus it indicates movement. अष्टावश्नोतेः (*aṣṭāvaśnoteḥ*): the word अष्टौ (*aṣṭau*), eight, is derived from the root अश्नोति (*aśnoti*) (अश् (*aś*), to pervade); because this number includes the numbers from one to seven, अष्टौ (*aṣṭau*) denotes eight. नव नवननीया नावाप्ता वा (*nava navananīyā nāvāptā vā*): the word नव (*nava*), nine, is derived from वन् (*van*), to win, or from न+अ+आप्ल् (*na+a+āpl*), "not to obtain"; that is, the ninth lunar day is not favourable for any good work, hence the name नव (*nava*). **NOTE**
+दश दस्ता दृष्टार्था वा (*daśa dastā dṛṣṭārthā vā*): the word दश (*daśa*), ten, may be derived from the root दस् (*das*) (to end, perish) or from दृशिर् (*dṛśir*) (to see, look). For after the number ten has passed,
+
+### Printed p. 155
+in the following numbers 11, 12, 13 and so on, the earlier numbers 1, 2, 3 etc. are seen to come again and again. Therefore, from repeated seeing, this number got the name दश (*daśa*). विंशतिर्द्विर्दशतः (*viṃśatirdvirdaśataḥ*): विंशति (*viṃśati*), twenty, means two tens. शतं दशदशतः (*śataṃ daśadaśataḥ*): शतं (*śataṃ*), hundred, means ten times ten. सहस्रं सहस्वत् (*sahasraṃ sahasvat*): सहः (*sahaḥ*) means strength or power. सहस्रं (*sahasraṃ*), thousand, includes many numbers and so is very strong; because it is strong it is called सहस्रं (*sahasraṃ*). आयुतं (*āyutaṃ*) means ten thousand. Likewise अयुतं, नियुतं, प्रयुतं, तत्तदभ्यस्तं (*ayutaṃ, niyutaṃ, prayutaṃ, tattadabhyastaṃ*): the words अयुतं नियुतं प्रयुतं (*ayutaṃ niyutaṃ prayutaṃ*) indicate numbers each ten times the one before: अयुतं (*ayutaṃ*) ten thousand, नियुतं (*niyutaṃ*) one lakh, प्रयुतं (*prayutaṃ*) ten lakhs, and so on. The word अर्बुद (*arbuda*) means a cloud. अरण (*araṇa*) or अंबु (*aṃbu*) is water; since it gives, that is, pours water, अर्बुद (*arbuda*) is a cloud. As a cloud grows very large in the sky and spreads, so the word अर्बुद (*arbuda*), which denotes a cloud, has the numerical sense of a crore. Or, for the word अर्बुद (*arbuda*) there are two explanations: अंबुमद्भातीती वा (*aṃbumadbhātītī vā*), it shines like water, hence is called cloud; or अंबुमद्भवतीती वा (*aṃbumadbhavatītī vā*), it is like water, hence called cloud. As in the rains the अर्बुद (*arbuda*), the cloud, pours much rain, so when the word is given a numerical sense it means an exceedingly large number, a crore.
+In the phrase खले न पर्षान् प्रतिहन्नि भूरि (*khale na parṣān pratihanni bhūri*) the word खल (*khala*) means battle or war. The word खल (*khala*) may be derived from the root खलति (*khalati*) meaning "fall" or from स्खलित (*skhalita*) meaning "kill". This is Indra's statement: "As the chaff of grain is winnowed on the threshing-floor, so I scatter and kill the enemies in battle." Thus because warriors die and fall on the battlefield, the word खल (*khala*) is derived from the root खलति (*khalati*) "fall"; or because in battle they kill one another, खल (*khala*) may be derived from the root स्खलति (*skhalati*) "kill". In this sense खल (*khala*) means battle or war. Besides, the word is also used in the sense of beating grain. In the phrase किं मा निंदंति शत्रवोऽनिंद्राः (*kiṃ mā niṃdaṃti śatravo 'niṃdrāḥ*) the word अनिंद्राः (*aniṃdrāḥ*) means those who are without Indra or who do not worship Indra. How can enemy people, without Indra on their side, that is, without Indra's grace, revile me, Indra? Or, those without Indra's grace—how can they know that I am Indra? How then can such people revile me? This is the main import of the etymology.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒हं गुं॒गुभ्यो॑ अतिथि॒ग्वमिष्क॑र॒मिषं॒ न वृ॑त्र॒तुरं॑ वि॒क्षु  ॑
+> धारयं ।
+
+### Printed p. 156
+
+> यत्पर्णयघ्न उत ना करंजहे प्राहं महे वृत्रहत्ये  
+> अशुश्रवि ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अहं । गुंगुभ्यः । अतिथिऽद्वं । इष्टरं । इषं । न । वृश्रतुरं । विक्षु । धारयं ॥  
+> यत् । पर्णयघ्ने । उत । वा । करंजहे । प्र । अहं । महे । वृत्रहत्ये ।  
+> ।  
+> अशुश्रवि ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अहमिंद्रो गुंगुभ्य एतन्नामकेभ्यो जनपदेभ्यो रक्षणायातिथिग्वमतिथिगोः पुत्रं दिवोदासमृषिमिष्करं निष्कर्तारं वृत्रतुरं शत्रुणां हिंसकं
+> विक्षु प्रजासु मध्य इषं नान्नमिव तासामन्नं यथा भोगाय भवति तद्वदन्नस्थानीयं धारयं । धारितवानस्मि । कदेति उच्यते । यद्यदा पर्णयष्टे पर्णयनामकस्यासुरस्य हननवति उतापि च करंजह एतन्नामकस्य हननोपेते महे
+> महति वृत्रहत्ये संग्रामेऽशुश्रवि श्रुतोऽभवं ॥
+
+##### Gist of the bhāṣya
+
+I, Indra, for the protection of the peoples named गुंगुभ्यः (*guṃgubhyaḥ*), have established the son of Atithigu, the seer Divodāsa, as *iṣkaraṃ*, an effecter (a doer), and as वृत्रतुरं (*vṛtraturaṃ*), a destroyer of enemies, and among the subjects as food (इषं (*iṣaṃ*))—as food becomes for their enjoyment, so I have set him up as food-like. When? When I became famed in the great battle (वृत्रहत्ये (*vṛtrahatye*)), which involves the slaying of the asura named Parṇaya and also of Karañja.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—when
+- पर्णयघ्ने (*parṇayaghne*)—having slain the asura named Parṇaya
+- उत वा (*uta vā*)—and
+- करंजहे (*karaṃjahe*)—the asura named Karañja
+- महे वृत्रहत्ये (*mahe vṛtrahatye*)—in the great enemy-destroying battle
+- अशुश्रवि (*aśuśravi*)—I became famous, then
+- अहं (*ahaṃ*)—I
+- गुंगुभ्यः (*guṃgubhyaḥ*)—to protect the people named Guṅgu
+- अतिथिग्वं (*atithigvaṃ*)—the seer Divodāsa, son of Atithigu
+- इष्टरं (*iṣṭaraṃ*)—though he did nothing
+- वृत्रतुरं (*vṛtraturaṃ*)—as a destroyer of enemies
+- विक्षु (*vikṣu*)—among the subjects
+- इषं न (*iṣaṃ na*)—like needful food, a means of enjoyment
+- धारयं (*dhārayaṃ*)—I have held (made)
+
+##### भावार्थ (Bhāvārtha)
+
+In the great battle fought to destroy the asuras Parṇaya and Karañja, when I slew those asuras and became renowned and famous, I made the seer Divodāsa, son of Atithigu, who was incapable of the work of destroying enemies, a destroyer of enemies in battle, for the protection of the people of the land called Guṅgu, and beloved of all among the subjects, like food that is a means of enjoyment.
+
 ---
 
-**Progress note:** Done through printed p. 150. pp. 145-150 (batch API)
+**Progress note:** Done through printed p. 156. pp. 151-156 (batch API)
