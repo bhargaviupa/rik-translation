@@ -13345,6 +13345,218 @@ The fierce-voiced (Nabhanedishtha repeated) through his intelligence this praise
 
 स इत् (*sa it*): that man in dark garments, called Rudra, दानाय (*dānāya*) for giving wealth to those who praise him, and दभ्याय (*dabhyāya*) for the slaying of enemies, वन्सन् (*vansan*) favouring the praisers, सूदैः (*sūdaiḥ*) with the cooks, the destroyers (the sentence is cut off here).
 
+### Printed p. 410
+
+> शस्त्रैश्चानो रक्षांसि च्यावयन् वेदिममिमित । परिमितवान् । यज्ञवास्त्वधिष्ठितवानित्यर्थः । तं कृष्णशवास्युत्तरत उपोत्थायाब्रवीन्मम वा इदं मम वै वास्तुहमितीति ब्राह्मणं । ऐ. ब्रा. ५-१४ । तदेवाह । तूर्वयाणस्तूर्णगमनो गूर्तवचस्तमोऽत्यंतमुद्यतवचा रुद्रः क्षोदो नोदकमिव । उदकं यथा घनः सिंचति
+> तद्वद्रेतः स्वसामर्थ्यमितऊतीतोगमनवद्यथा भवति तथा सिंचत् । प्रेरितवानित्यर्थः।
+> यद्वा । अनेनोत्तरार्धेनोत्तराभ्यां च प्रासंगिक्यश्विनोः स्तुतिः क्रियते । तूर्वयाणस्तूर्णगमनोऽतिशयेनोद्यतवचनो रुद्रः क्षोदो नोदकमिव रेतः
+> उत्पादनसामर्थ्योपेतं रेत इतलूति सिंचत् । जनयामासाश्विन् । अन्यत्रेतऊतीत्यश्विनोरभिधानादन्यत्र तयो रुद्रपुत्रत्वसिद्धेश्छायमर्थो लभ्यते ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the second half of the verse. The one who dwells in the dark night, Rudra, drives away the Rākṣasas with weapons and has "measured out" (अमिमीत (*amimīta*)) the altar, that is, he has taken possession of the sacrificial site. A Brāhmaṇa is cited: the Kṛṣṇaśavāsī, standing up on the north side, said "This is mine, indeed this site is mine" (Ai. Brā. 5-14). Swift in going (तूर्वयाणः (*tūrvayāṇaḥ*)) and with most vehement speech (गूर्तवचस्तमः (*gūrtavacastamaḥ*)), Rudra sprinkled (सिंचत् (*siṃcat*)) his seed, his own power, in the way a cloud pours water. Here इतऊति (*itaūti*) means "as in going from here", that is, sent forth.
+Alternatively, with this second half of the verse and the next verses an incidental praise of the Aśvins is made. Rudra, swift and most vehement in speech, sprinkled seed endowed with generative power like water, and begot the Aśvins. Because the Aśvins are named elsewhere in connection with इतऊति (*itaūti*), their being Rudra's sons is established, and so this meaning is obtained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स इत् (*sa it*)—that same Rudra
+- *dhana dānāya*—for giving wealth to the worshippers
+- दभ्याय (*dabhyāya*)—for the destruction of enemies
+- वन्वन् (*vanvan*)—satisfying the worshippers
+- सूदैः (*sūdaiḥ*)—with destructive weapons
+- च्यवानः (*cyavānaḥ*)—striking down and driving off enemies
+- वेदिं (*vediṃ*)—the sacrificial altar
+- अमिमीत (*amimīta*)—has constructed
+- तूर्वयाणः (*tūrvayāṇaḥ*)—swift in going
+- गूर्तवचस्तमः (*gūrtavacastamaḥ*)—Rudra, who has the loudest voice
+- क्षोदो न (*kṣodo na*)—as a cloud pours water
+- रेतः (*retaḥ*)—his creative power
+- इतऊति (*itaūti*)—as if spreading it all around
+- सिंचत् (*siṃcat*)—has sent forth
+
+##### भावार्थ (Bhāvārtha)
+
+That same Rudra, with the purpose of bestowing wealth on his worshippers and making them content, has constructed the sacrificial altar, driving off the enemies with his enemy-destroying weapons. Swift in going and with the loudest voice, Rudra has sent forth his creative power so that it spreads all around, as a cloud pours water.
+
+##### English translation
+He (Rudra) bestowing on his worshippers the gift (of wealth) and the defeat (of their foes), casting down (the Rakshasas) with his weapons, has constructed the altar ; rapid in movement, most fierce in speech, and shedding the procreative fluid like water around.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मनो॒ न येषु॒ हव॑नेषु ति॒ग्मं विपः॒ शच्या॑ वनु॒थो द्रवं॑ता।
+
+### Printed p. 411
+
+> आ यः शर्याभिस्तु विनृम्मो अस्याश्रीणीतादिशं गभस्तौ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मनः । न । येषु । हवनेषु । तिग्मं । विपः । शच्या । वनुथः । द्रवंता ।  
+> आ । यः । शर्याभिः । तुविनृम्मः । अस्य । अश्रीणीत । आदिशं । गभस्तौ ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विन् युवां मनो न मन इव यथा मनस्तिग्मं तीक्ष्णमाशु
+> धावति आगच्छति एवं येषु हवनेष्वाह्वानेषु विपः स्तोतुः शच्या प्रज्ञानेन गंतव्यमिति बुद्ध्या द्रवंता द्रवंतौ गच्छंतौ वनुथः संभजथः । योऽध्वर्युरा अभिमुख्येन तुविनृम्मः प्रभूतहनिर्लक्षणधनः सन्नस्य कर्मणि प्रवृत्तस्य मम संबंधी
+> शर्याभिरंगुलीभिरश्रीणीत श्रीणाति । किं कृत्वा । गभस्तौ हस्ते धृत्वादिशं । इदमश्विभ्यामिति निर्दिश्येत्यर्थः । तादृशं मदीयमध्वर्युं येषु हवनेषु वनुथः
+> संभजथः तौ युवां हुव इत्युत्तरत्र संबंधः ॥
+
+##### Gist of the bhāṣya
+
+"O Aśvins, in whatever invocations, you go swiftly, like the mind, which runs and comes quickly, to the worshipper (विपः (*vipaḥ*)), running with the thought 'we must go' through his understanding (शच्या (*śacyā*)), and you favour him." The Adhvaryu, facing you, rich in abundant oblation, who belongs to me and is engaged in this rite, mixes (अश्रीणीत (*aśrīṇīta*)) the oblation with his fingers (शर्याभिः (*śaryābhiḥ*)). Having done what? Having taken it in the hand (गभस्तौ (*gabhastau*)) and indicated (आदिशं (*ādiśaṃ*)) "this is for the Aśvins". Such an Adhvaryu of mine you favour in those invocations; "I call you two" is connected with the following verse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) यः (*yaḥ*)—the Adhvaryu who
+- (येषु (*yeṣu*)—at whichever sacrificial times)
+- गभस्तौ (*gabhastau*)—in his hand
+- तुविनृम्मः (*tuvinṛmmaḥ*)—having abundant oblation
+- आदिशं (*ādiśaṃ*)—intending you alone
+- अस्य (*asya*)—of this rite, engaged
+- शर्याभिः (*śaryābhiḥ*)—with the fingers
+- अश्रीणीत (*aśrīṇīta*)—prepares the oblation
+- (and) येषु हवनेषु (*yeṣu havaneṣu*)—at whichever times of invocation
+- युवां (*yuvāṃ*)—you
+- मनो न (*mano na*)—like the speed of the mind
+- तिग्मं (*tigmaṃ*)—quickly
+- विपः (*vipaḥ*)—to the worshipper (praiser)
+- शच्या (*śacyā*)—with your favouring intention
+- द्रवंता (*dravaṃtā*)—running to him
+- वनुथः (*vanuthaḥ*)—you satisfy the sacrificer (we call such you)
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, at whichever sacrificial times the Adhvaryu, holding the oblation fully in his hand, prepares it with fingers engaged in the rite, intending you alone, and at whichever sacrifices you come swiftly and with your favouring intention satisfy the sacrificer, to those sacrifices we call you.
+
+##### English translation
+(I call you to these) oblations, to which hastening, (Ashwins), swift as thought at the invitation of the worshipper, you rejoice my (worshipper),
+
+### Printed p. 412
+who, affluent in the wealth of sacrifice, mixes (the oblation) with his fingers in your presence, (holding) in his hand the sacrifice intended (for you)
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कृ॒ष्णा यद्योष्व॑रु॒णीषु॒ सीद॑द्दि॒वो नपा॑ताश्विना हुवे वां ।  
+> वी॒तं मे॑ य॒ज्ञमा ग॑तं मे॒ अन्नं॑ नव॒न्वांसा॒ नेष॒मस्मै॑तध्रू ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कृष्णा । यत् । गोषु । अरुणेषु । सीदत् । दिवः । नपाता । अश्विना । हुवे । वां ।  
+> वीतं । मे । यज्ञं । आ । गतं । मे । अन्नं । ववन्वांसा । न । इषं । अस्मृतध्रू  
+> इत्यस्मृतध्रू ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कृष्णा रात्रिर्यद्यदारुणीष्टरुणवर्णासु गोषु सीदत् निवसति । उषा विभासनाय रथमधितिष्ठतीत्यर्थः । अरुण्यो गाव उषसामिति निरुक्तं । उषःकाले हे
+> दिवो नपाता दीप्यमानस्य स्वर्गस्य प्रकाशात्मकस्य यागस्य वा न पातयितारौ हे
+> अश्विनौ वां हुवे । आह्वये । नीतं कामयेथां मेऽन्नं हविर्लक्षणं । तदर्थं मे
+> यज्ञमा गतं । आगच्छतं । इषमन्नं ववन्वांसा न संभजमानावश्वानिव । तद्वदा
+> गतं । कीदृशौ युवां । अस्मृतध्रू । अस्मृतद्रोहौ मयि द्रोहमस्मरंतौ ॥
+
+##### Gist of the bhāṣya
+
+When the dark night settles among the red cows, that is, Uṣas mounts her chariot to shine (the red cows being those of the dawns, Nirukta), at dawn-time, "O you two, sons of heaven", not causing the fall of the shining heaven or of the radiant sacrifice, "O Aśvins, I call you." You desire my food, the oblation; for that come to my sacrifice. Come like horses sharing food together. What are you like? अस्मृतध्रू (*asmṛtadhrū*): not remembering any offence, remembering no wrong done to me.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवो नपाता (*divo napātā*)—you who are sons of the heavenly world
+- अश्विना (*aśvinā*)—O Aśvins
+- यत् (*yat*)—when
+- कृष्णा (*kṛṣṇā*)—the dark-coloured night
+- अरुणेषु (*aruṇeṣu*)—among the golden-coloured
+- गोषु (*goṣu*)—cows
+- सीदत् (*sīdat*)—unites (when the night is over and the dawn appears)
+- वां (*vāṃ*)—you
+- हुवे (*huve*)—I call to the sacrifice
+- अस्मृतध्रू (*asmṛtadhrū*)—you who do not wish us harm
+- मे (*me*)—my
+- अन्नं (*annaṃ*)—oblation
+- वीतं (*vītaṃ*)—desire
+- इषं (*iṣaṃ*)—food
+- ववन्वांसा न (*vavanvāṃsā na*)—you, united like two horses eating together
+- मे यज्ञं (*me yajñaṃ*)—to my sacrifice
+- आ गतं (*ā gataṃ*)—come
+
+##### भावार्थ (Bhāvārtha)
+
+O deities, sons of the heavenly world, when the dark night joins the dawn, that is, at the time of Uṣas's appearance, I call you to our sacrifice. You, who wish us no harm, desire our oblation. United like two horses eating a mouthful together, come to my sacrifice.
+
+### Printed p. 413
+
+##### English translation
+When the dark night retires before the purple oxen (of the chariot of the dawn), I inyoke you, Ashwins, children of heaven : be desirous of my sacrifice : come to my food and to my viands like (two horses) eating together, oblivious of offence.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रथि॑ष्ट॒ यस्य॑ वी॒रक॑र्ममि॒ष्णदनु॑ष्ठितं॒ नु नर्यो॒ अपौ॑हत् ।  
+> पुन॒स्तदा वृ॑हति॒ यत्क॒नाया॑ दुहि॒तुरा अनु॑भृतमन॒र्वा ॥५॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रथिष्ट । यस्य । वीरकर्मं । इष्टत् । अनुस्थितं । नु । नर्यः । अप । औहत् ।  
+> पुनरिति । तत् । आ । वृहति । यत् । कनायाः । दुहितुः । आः । अनुभृतं । अनर्वा ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यथा स्वांशेन भगवानुद्रः प्रजापतिर्वास्तोष्पतिं रुद्रमसृजत् तदेतदादिभिस्तिसृभिर्वदति। यस्य प्रजापतेरिष्ण देषणवद्वीरकर्म०॥ लिंगव्यत्ययः ॥ वीरकर्म ।
+> रेत इत्यर्थः । येन रेतसोत्पन्ना वीरा भवंति तादृग्रेतः प्रथिष्ट प्रथितमासीत्
+> तद्रेतोऽनुष्ठितं प्रजापतिनापत्यार्थ० निषिक्तं नर्यो नरेभ्यो हितो यद्वा
+> नेतृभ्यो देवेभ्यो हितो रुद्रोऽपौहत् । अपोहति । तदेवाह । पुनन्तद्रेत
+> आ वृहति । सर्वत उत्पिदति ! उद्गमयति पुरुषाकारेण स्वयमुत्पन्नः सन् । कीदृशं
+> रेतः । यद्रेतः कनायाः कांताया दुहितुः स्वपुत्राः । तस्यामित्यर्थः । तत्र
+> प्रजापतिनानुभृतमाः आसीत् ॥ अस्तेः सिपि— — ॥ कीदृशो रुद्रः । अनर्वान्यस्मिन्नप्रत्यृतः । प्रजापतिवै स्वां दुहितरमभ्यधायद्दिवमित्यन्य आहुरुषसमित्यन्ये ।
+> ऐ. ब्रा. ३-३३ । इति ब्राह्मणं ॥
+
+##### Gist of the bhāṣya
+
+To show how the venerable Rudra, from a portion of himself, or Prajāpati, created Rudra the lord of the site, he speaks with this and the following two verses. Of the Prajāpati whose eager virile act (वीरकर्म (*vīrakarma*)), a change of gender, meaning seed, by which heroes come to be, such seed was spread out. That seed, deposited by Prajāpati for offspring, Rudra, benefactor of men (नर्यः (*naryaḥ*)), or of the leading gods, drew back (अपौहत् (*apauhat*)). Again he gathers that seed (आ वृहति (*ā vṛhati*)), draws it up from all sides, himself arising in the form of a man. What kind of seed? The seed which was placed in the beloved maiden, his own daughter, by Prajāpati. What kind of Rudra? Unopposed (अनर्वा (*anarvā*)), unassailed by any. The Brāhmaṇa is cited: "Prajāpati desired his own daughter, some say heaven, others say Uṣas" (Ai. Brā. 3-33).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यस्य (*yasya*)—of which Prajāpati
+- *iṣṇat*—productive of offspring
+- वीरकर्मं (*vīrakarmaṃ*)—the seed
+- प्रथिष्ट (*prathiṣṭa*)—was in the course of growing and spreading; that
+- अनुष्ठितं (*anuṣṭhitaṃ*)—seed applied for the sake of progeny
+
+### Printed p. 414
+- नरः (*naraḥ*)—Rudra, beneficial to men
+- अपौहत् (*apauhat*)—held back
+- यत् (*yat*)—which seed
+- कनायाः (*kanāyāḥ*)—in the maiden-formed
+- दुहितुः (*duhituḥ*)—daughter (of Prajāpati)
+- अनर्वा (*anarvā*)—the unopposed Rudra
+- अनुभृतं अः (*anubhṛtaṃ aḥ*)—deposited
+- तत् रेतः (*tat retaḥ*)—that same seed
+- पुनः (*punaḥ*)—again
+- आ वृहति (*ā vṛhati*)—he makes it productive of creation
+
+##### भावार्थ (Bhāvārtha)
+
+Rudra, beneficial to men, held back that seed of Prajāpati, productive of offspring, which was in the course of growing and spreading, applied for the sake of progeny. The seed which the unopposed Rudra deposited in the maiden daughter of Prajāpati, that same seed he again makes productive of creation.
+
+##### English translation
+(Rudra), the benefactor of man, whose eager virile energy was developed, drew it back when disseminated (for the generation of offspring); again the irresistiblec (Rudra) concentrates (the energy) which was communicated to his maiden daughter.
+
+##### विशेषविषयगळु (Special Topics)
+
+In this verse and the next two verses it is said that Prajāpati desired union with his daughter Uṣas and that Rudra prevented it; the Aitareya Brāhmaṇa has an account of this. We give it here, as set out in the Aitareya Brāhmaṇa (Ai. Brā. 13-33, 34), just as it stands there.
+प्रजाप्रतिर्वै स्वां दुहितरमभ्यध्यायद्धिवमित्यन्य आहुरुषसमित्यन्ये तामृश्यो भूत्वा रोहितं भूतामभ्यैत्तं देवा अपश्यन्नकृतं वै प्रजापतिः करोतीति ते तम्मैच्छन्य एनमारिष्यत्येतमन्योन्यस्मिन्नाविंदंस्तेषां या एव घोरतमास्तन्व आसंस्ता एकधा समभरंस्ताः संभृता एष देवोऽभवत्तदस्यैतद्भूतवन्नाम भवति वै स योऽसैतदेवं नाम वेद ॥ (*prajāpratirvai svāṃ duhitaramabhyadhyāyaddhivamityanya āhuruṣasamityanye tāmṛśyo bhūtvā rohitaṃ bhūtāmabhyaittaṃ devā apaśyannakṛtaṃ vai prajāpatiḥ karotīti te tammaicchanya enamāriṣyatyetamanyonyasminnāviṃdaṃsteṣāṃ yā eva ghoratamāstanva āsaṃstā ekadhā samabharaṃstāḥ saṃbhṛtā eṣa devo 'bhavattadasyaitadbhūtavannāma bhavati vai sa yo 'saitadevaṃ nāma veda ‖*) (Ai. Brā. 13-23)
+Once, in the past, Prajāpati, seeing his own daughter, became infatuated as one is infatuated with a wife, and kept thinking of her form. As to who that daughter of Prajāpati was, there is a difference of opinion even among the great seers: some say she was the deity of the heavenly world, others that she was the deity Uṣas. However that may be, Prajāpati then took the form of a kind of deer (animal) called Ṛśya. His daughter took the form of a red deer called Rohita. (Here the commentators explain the words रोहितं प्राप्ता (*rohitaṃ prāptā*) as "she became fertile".)
+
+### Printed p. 415
+Prajāpati approached his daughter in the Rohita form and became intent on copulation. Seeing Prajāpati thus enamoured of his own daughter and bent on union, the gods said to one another: "This Prajāpati is engaged in a forbidden act that no one has ever done. Who is the man able to prevent this act?" They searched everywhere. However much they searched, no man able to restrain Prajāpati was found. The gods asked one another in turn, "If you have the power, slay Prajāpati", but none of them appeared to have that capacity. Then all the gods together gathered their fierce forms (it is well known that gods can take any form they wish; therefore it is said here that, leaving their gentle forms, they gathered fierce ones) and created one man of most terrible form. This man received the name Rudra. Therefore the names Bhūtavān and Bhūtapati are well known in the world for Rudra. Hence the man who has acquired this state of being Bhūtavat, of Rudra, becomes Bhūtimān (prosperous).
+तं देवा अब्रुवन्नयं वै प्रजापतिरकृतमकरिमं विध्येति स तथेत्यब्रवीत्स वै वो वरं वृणा इति वृणीष्टेति स एनमेव वरमवृणीत पशूनामाधिपत्यं तदस्यैतत्पशुमन्नाम पशुमान्भवति योऽस्यैतदेवं नाम वेद ॥ (*taṃ devā abruvannayaṃ vai prajāpatirakṛtamakarimaṃ vidhyeti sa tathetyabravītsa vai vo varaṃ vṛṇā iti vṛṇīṣṭeti sa enameva varamavṛṇīta paśūnāmādhipatyaṃ tadasyaitatpaśumannāma paśumānbhavati yo 'syaitadevaṃ nāma veda ‖*) (Ai. Brā. 13-22)
+Then the gods addressed that man (Rudra): "O Rudra, Prajāpati has committed a forbidden act; so, to punish him, strike him with this arrow." Rudra agreed, "So be it", but asked as a boon that he be lord over all animals. The gods gave him the boon accordingly. Therefore Rudra became famous by the name Paśupati. The man who knows this obtains wealth in cattle.
+तमभ्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत्तमेतं मृग इत्याचक्षते य उ एव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकांडा सो एवेषुस्त्रिकांडा ॥ (*tamabhyāyatyāvidhyatsa viddha ūrdhva udaprapatattametaṃ mṛga ityācakṣate ya u eva mṛgavyādhaḥ sa u eva sa yā rohitsā rohiṇī yo eveṣustrikāṃḍā so eveṣustrikāṃḍā ‖*)
+Then Rudra came forward, strung his bow, fitted the arrow, drew it back, aimed at Prajāpati and shot. The arrow struck Prajāpati, who was in the form of Ṛśya, and he leapt upward into the sky. People all see Prajāpati leaping upward in the sky and call it the constellation called Mṛga (Stars in the Orion).
+
 ---
 
-**Progress note:** Done through printed p. 409. pp. 404-409 (batch API)
+**Progress note:** Done through printed p. 415. pp. 410-415 (batch API)
