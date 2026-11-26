@@ -15578,6 +15578,268 @@ All your appellations, gods, are to be revered and praised, and worshipped, and 
 > येभ्यः । माता । मधुमत् । पिन्वते । पयः । पीयूषं । द्यौः । अदितिः ।  
 > अद्रिबर्हाः ।
 
+### Printed p. 464
+
+> उक्तशुष्मान् । वृषभरान् । सुअप्नसः । तान् । आदित्यान् । अनु मद । स्वस्तये ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अग्निष्टोमे वैश्वदेवशस्त्रे येभ्यो मातेत्येषाधाय्या । सूत्रितं च । अयं
+> वेनश्चोदयत्पृश्निगर्भा येभ्यो माता मधुमत् । अ-५-१८ । इति ॥
+> माता सर्वस्य निर्मात्री पृथिवी येभ्यो देवेभ्यो देवार्थं मधुमद्माधुर्योपेतं पयः सारभूतं क्षीरं पिन्वते क्षरति । तथादितिरदीनाद्रिबर्हा मेघैः
+> परिवृद्धा प्रवृद्धा परिवृद्धमेघा वा द्यौश्च पीयूषं पिन्वते । द्यावापृथिव्यौ हविरुत्पादयत इत्यर्थः । ऋषिरात्मानं संबोध्याह । उक्तशुष्मानतिबलान् वृषभरान्वृष्टेराहर्त्यन् ॥ हृग्रहोर्भ इति भः ॥ स्वप्नसः सुकर्मणस्तनादित्यानदितेः पुत्रान्देवान् स्वस्तयेऽविनाशयानु मद । अनुस्तुहि ॥ माद्यशेर्लोटि व्यत्ययेन शप् ।
+> मंदतेर्वा स्तुत्यर्थसानित्यमागमशासनमिति नुमभावः ॥
+
+##### Gist of the bhāṣya
+
+In the Agniṣṭoma, in the Vaiśvadeva-śastra, this Ṛk येभ्यो माता (*yebhyo mātā*) is the dhāyyā. It is prescribed in the sūtra अयं वेनश्चोदयत्पृश्निगर्भा येभ्यो माता मधुमत् (*ayaṃ venaścodayatpṛśnigarbhā yebhyo mātā madhumat*) (Ā. Sū. 5-18). The mother, the earth that fashions all, yields for those gods sweet, essential milk. Likewise Aditi, undiminished, grown great with clouds (or with grown clouds), and heaven yield ambrosia: heaven and earth produce the oblation. The seer addresses himself: praise the Ādityas, whose strength is praise, who are the bringers of rain, the doers of good deeds, the sons of Aditi, and delight them for welfare, that is, for freedom from destruction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- येभ्यः (*yebhyaḥ*)—for which deities
+- माता (*mātā*)—the earth, maker of the world
+- मधुमत् (*madhumat*)—sweet
+- पयः (*payaḥ*)—milk
+- पिन्वते (*pinvate*)—supplies (and likewise)
+- अद्रिबर्हाः (*adribarhāḥ*)—encompassed by clouds
+- अदितिः (*aditiḥ*)—undivided
+- द्यौः (*dyauḥ*)—the heavenly world
+- पीयूषं (*pīyūṣaṃ*)—supplies ambrosia, such (deities)
+- वृषभरान् (*vṛṣabharān*)—those who bear rain
+- उक्तशुष्मान् (*uktaśuṣmān*)—whose strength is the fruit of praise
+- स्वप्नसः (*svapnasaḥ*)—of good works
+- तान् आदित्यान् (*tān ādityān*)—those Ādityas
+- स्वस्तये (*svastaye*)—for welfare
+- अनु मद (*anu mada*)—praise and gratify
+
+##### भावार्थ (Bhāvārtha)
+
+Praise and gratify those Ādityas, bringers of rain, whose strength is the fruit of praise, doers of good works, for whom the earth, maker of the world, supplies sweet milk, and for whom heaven, encompassed by clouds and undivided, supplies ambrosia; thereby you will have welfare.
+
+##### English translation
+To (these deities) to whom the maternal (earth) yields the sweet-flavoured milk, and the cloud-invested, undepressed heaven (yields) ambrosia, to those Adityas whose strength is sacred praise, who are the bringers of rain, the doers of good actions, offer for your welfare laudation.
+
+### Printed p. 465
+
+##### विशेषविषयगळु (Special Topics)
+
+In the Agniṣṭoma sacrifice, when the Vaiśvadeva-śastra mantras are recited, this Ṛk येभ्यो माता (*yebhyo mātā*) is to be recited as the dhāyyā mantra; this is made clear by the sūtra of the Āśvalāyana-śrauta-sūtra अयं वेनश्चोदयत्प्रश्निगर्भा येभ्यो माता मधुमत् (*ayaṃ venaścodayatpraśnigarbhā yebhyo mātā madhumat*) (Ā. 5-18).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नृ॒चक्ष॑सो॒ अनि॑मिषंतो अ॒र्हणा॑ बृ॒हद्दे॒वासो॑ अमृत॒त्वमा॑नशुः ।  
+> ज्यो॒तीर॑था॒ अहि॑माया॒ अना॑गसो दि॒वो व॒ष्माणं॑ वसते  ॒॑
+> स्वस्तये ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नृचक्षसः । अनिमिषंतः । अर्हणा । बृहत् । देवासः । अमृतत्वं । आनशुः ।  
+> ज्योतिःरथाः । अहिमायाः । अनागसः । दिवः । वर्ष्णाणं । वसते । स्वस्तये ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नृचक्षसः कर्मनेत्यणां मनुष्याणां द्रष्टारः अत एवानिमिषंतो निमेषमकुर्वाणाः सर्वदा जागरूका देवासो देवा अर्हणा लोकस्य परिचरणार्थं
+> स्तोतव्यत्वाय बृहद्बृंहितममृतत्वममरणधर्ममानशुः । प्राप्ताः । देवाः खलु
+> मनुष्यैः पूज्याः । तस्मात्तूजाहेतुं देवत्वमानशिरे । आत एव ज्योतीरथा दीप्यमानरथोपेता अहिमायाः कैश्चितप्यहंतव्यप्रज्ञा अनागसः पापरहिता आदित्या दिवो
+> द्युलोकस्य वर्ष्णाणं नाभिस्थानं समुच्च्रितं देशं स्वस्तयेऽविनाशाय लोकस्य
+> क्षेमकरणार्थं वसते । अधिवसंति । यद्वा । स्वतेजसाच्छादयंति ॥
+
+##### Gist of the bhāṣya
+
+The gods are नृचक्षसः (*nṛcakṣasaḥ*), beholders of men, the leaders of rites; hence अनिमिषंतः (*animiṣaṃtaḥ*), not winking, ever watchful. For the world's service, to be worthy of praise, they have attained great immortality, the state of not dying. Gods are indeed worshipped by men, so they attained godhood as the cause of worship. Hence the Ādityas, with shining chariots, of wisdom that none can strike down, sinless, dwell in the navel-place of heaven, a lofty region, for the welfare, the safety, of the world. Or else: they cover it with their own radiance.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अनिमिषंतः (*animiṣaṃtaḥ*)—those who are watchful without closing the eyelids
+- नृचक्षसः (*nṛcakṣasaḥ*)—who can see the conduct of men
+- देवासः (*devāsaḥ*)—the gods
+- अर्हणा (*arhaṇā*)—having obtained fitness for the oblation
+- बृहत् (*bṛhat*)—very great
+- अमृतत्वं (*amṛtatvaṃ*)—freedom from death
+- आनशुः (*ānaśuḥ*)—have acquired
+- ज्योतीरथाः (*jyotīrathāḥ*)—having a chariot of radiance
+- अहिमायाः (*ahimāyāḥ*)—of unassailable wisdom
+
+### Printed p. 466
+- अनागसः (*anāgasaḥ*)—sinless Ādityas
+- दिवः (*divaḥ*)—of the heavenly world
+- वर्ष्णाणं (*varṣṇāṇaṃ*)—in the very lofty region
+- स्वस्तये (*svastaye*)—for the welfare of the world
+- वसते (*vasate*)—dwell
+
+##### भावार्थ (Bhāvārtha)
+
+The gods, watchful without closing their eyelids and able to see the conduct of men, having obtained fitness for the oblation, have attained great freedom from death. The Ādityas, with chariots of radiance, of unassailable wisdom, sinless, dwell in the loftiest region of heaven for the welfare of the world.
+
+##### English translation
+The gods, the never-slumbering beholders of mankind, and entitled (to their adoration), have abtained great immortality : conveyed in chariots of light, possessed of unsurpassaable wisdom, devoid of sin, they inhabit the exalted station of heaven for the well-being (of the world).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒म्राजो॒ ये सु॒वृधो॑ य॒ज्ञमा॑य॒युरप॑रिह्वृता दधि॒रे ॒ ॑
+> दिवि क्षयं ।  
+> ता आ वि॑वास॒ नम॑सा सुवृ॒क्तिभि॑र्म॒हो आ॑दि॒त्या अदि॑तिं स्व॒स्तये॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> संराजः । ये । सुवृधः । यज्ञं । आययुः । अपरिह्वृताः । दधिरे । दिवि ।  
+> क्षयं ।  
+> तान् । आ । विवास । नमसा । सुवृक्तिभिः । महः । आदित्यान् । अदितिं । स्वस्तये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सम्राजः सर्वेषां राजानः स्वतेजोभिः सम्यग्राजमानाः सुवृधः सुवृद्धा
+> ये देवा यज्ञमाययुः आयांति सोमादिहविर्भक्षणार्थं । ततोऽपरिह्वृताः
+> कैश्चिदप्यहिंसिता ये देवा दिवि द्युलोके क्षयं निवासं दधिरे विदधति कुर्वंति ।
+> ऋषिरात्मानमाह । महो महतो गुणाधिक्येनादित्यानदितेः पुत्रांस्तान्प्रसिद्धा-
+
+##### Gist of the bhāṣya
+
+सम्राजः (*samrājaḥ*) are kings of all, shining well by their own radiance; सुवृधः (*suvṛdhaḥ*), well grown. The gods who come to the sacrifice to partake of the oblation of Soma and the rest, and who, अपरिह्वृताः (*aparihvṛtāḥ*), injured by none, make their dwelling in heaven. The seer addresses himself: महः (*mahaḥ*), great through excess of qualities, those well-known Ādityas, sons of Aditi,
+
+### Printed p. 467
+
+> न्नेवानदितिं तेषां मातरमेतन्नामिकां च स्वस्तयेऽविनाशाय नमसा हवीरूपेणान्नेन सुवृक्तिभिः शोभनाभिः स्तुतिभिश्च विवास । अभिमुख्येन परिचर । विवासतिः
+> परिचरणकर्मा ॥
+
+##### Gist of the bhāṣya
+
+and Aditi, their mother, so named, for welfare, that is, freedom from destruction, serve with नमसा (*namasā*), the oblation in the form of food, and with सुवृक्तिभिः (*suvṛktibhiḥ*), fair praises. विवास (*vivāsa*) means: wait on them face to face; विवासतिः (*vivāsatiḥ*) is a verb of service.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सम्राजः (*samrājaḥ*)—lords of the whole world
+- सुवृधः (*suvṛdhaḥ*)—those who have attained great growth
+- अपरिह्वृताः (*aparihvṛtāḥ*)—not subject to anyone's harm
+- ये (*ye*)—which gods
+- दिवि (*divi*)—in the heavenly world
+- क्षयं (*kṣayaṃ*)—a dwelling-place
+- दधिरे (*dadhire*)—have taken, they
+- यज्ञं (*yajñaṃ*)—to the sacrifice
+- आययुः (*āyayuḥ*)—have come
+- महः (*mahaḥ*)—of great qualities
+- आदित्यान् (*ādityān*)—sons of Aditi
+- तान् (*tān*)—those gods
+- अदितिं (*aditiṃ*)—and Aditi
+- नमसा (*namasā*)—with oblations
+- सुवृक्तिभिः (*suvṛktibhiḥ*)—with excellent praises
+- स्वस्तये (*svastaye*)—for welfare
+- आ विवास (*ā vivāsa*)—the seer worships
+
+##### भावार्थ (Bhāvārtha)
+
+The gods who are lords of the whole world, greatly grown, subject to no one's harm, and who have their dwelling in the heavenly world, have come to the sacrifice. Those gods, of great qualities and sons of Aditi, and Aditi, the seer serves for welfare with oblations and excellent praises.
+
+##### English translation
+The gods, who, kings over all, and most exalted, have come to the sacrifice, who, uuassailable, abide in heaven : them, the mighty Adityas, (the sage) worships with reverence, and with praises, and also Aditi, for his well-being.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> को वः॒ स्तोमं॑ राधति॒ यं जुजो॑षथ॒ विश्वे॑ देवासो ॒ ॒॑
+> मनुषो॒ यति॒ ष्ठन॑ ।  
+> को वो॑ऽध्व॒रं तु॑विजाता॒ अरं॑ कर॒द्यो नः॒ पर्ष॒दत्यंहः॑  ॒॑
+> स्वस्तये ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कः । वः । स्तोमं । राधति । यं । जुजोषध । विश्वे । देवासः । मनुषः । यति ।  
+> स्थन ।
+
+### Printed p. 468
+
+> कः । वः । अध्वरं । तुविजाताः । अरं । करत् । यः । नः । पर्षत् । अति । अ०हः ।  
+> स्वस्तये ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिर्देवान्प्रति बहुधा वितर्कयति । हे देवाः वो युष्माकं कः स्तोतास्तोमं त्रिवृत्पंचदशादिलक्षणं राधति । संसाधयति । न कश्चिदस्तीत्यर्थः । यद्वा ।
+> मदन्यः को वो युष्मभ्यं स्तोमं करोति । यूयं यं स्तोतारं जुजोषथ
+> सेवध्वे ॥ जुषी प्रीतिसेवनयोः । लेटि शवः श्लुः । अडागमः ॥ किं च हे मनुषो
+> मंतारो ज्ञातारो हे विश्वे देवासो देवाः यूयं यति यत्संख्याः स्थन भवथ॥
+> यच्छब्दादपि छांदसो डतिद्र्रष्टव्यः ॥ हे तुविजाता धात्रादिविभागेन बहुजनना हे
+> देवाः युष्मदर्धं को वा यजमानोऽध्वरं यज्ञमरं करत् । अलंकरोति स्तुतिभिर्हविर्भिश्च । मदन्यो नास्तीत्यर्थः । यो यज्यो नोऽस्मान् स्वस्तयेऽविनाशाया०हः पापरूपं मार्गमवैदिकमति पर्षत् अतिपारयति तं यज्ञं को वालंकरोतीति ॥
+
+##### Gist of the bhāṣya
+
+The seer reflects in many ways about the gods. O gods, which praiser of yours offers the stoma, of the trivṛt, pañcadaśa and other kinds? None does. Or else: who other than I makes a stoma for you, the praiser whom you favour? Further, O मनुषः (*manuṣaḥ*), thinkers, knowers, O all-gods, how many of you are there? The suffix of यति (*yati*) is to be seen as Vedic, from the word यत् (*yat*). O तुविजाता (*tuvijātā*), of many births through the division into Dhātṛ and the rest: which sacrificer adorns, makes sufficient, for you the sacrifice with praises and oblations? None but I. The sacrifice that carries us, for welfare, beyond अंहः (*aṃhaḥ*), the path of sin, the non-Vedic way: who adorns that sacrifice?
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O gods) यं (*yaṃ*)—which praiser
+- जुजोषथ (*jujoṣatha*)—you favour, such
+- कः (*kaḥ*)—which praiser
+- वः (*vaḥ*)—addressing you
+- स्तोमं (*stomaṃ*)—the stoma, trivṛt and the rest
+- राधति (*rādhati*)—offers (who but I can offer it?)
+- विश्वे देवासः (*viśve devāsaḥ*)—O all-gods
+- मनुषः (*manuṣaḥ*)—you, excellent knowers
+- यति स्थन (*yati sthana*)—how many are you
+- तुविजाताः (*tuvijātāḥ*)—O gods of many kinds of birth
+- यः (*yaḥ*)—which sacrifice
+- स्वस्तये (*svastaye*)—for our welfare
+- नः (*naḥ*)—us
+- अंहः (*aṃhaḥ*)—the boundary of sin
+- अति पर्षत् (*ati parṣat*)—carries across, such
+- अध्वरं (*adhvaraṃ*)—the sacrifice
+- वः (*vaḥ*)—for you
+- कः (*kaḥ*)—which sacrificer
+- अरं करत् (*araṃ karat*)—adorns with oblations and the like
+
+##### भावार्थ (Bhāvārtha)
+
+O gods, who but I offers to you the stoma of trivṛt and the rest, being the praiser whom you favour? O all-gods, excellent knowers, how many of you are there? O gods of many births, which sacrificer adorns for you with oblations and the like (performs) the sacrifice that carries us across the boundary of sin for our welfare?
+
+##### English translation
+Who offers you the praise which you like, you wise, universal deities, however many you may be ? Deities from whom many are born, who can
+
+### Printed p. 469
+prepare for you such worship as may bear us safe beyond iniquity for our well-being ?
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येभ्यो॒ होत्रां॑ प्रथ॒मामा॑ये॒जे मनुः॒ समि॑द्धाग्नि॒र्मन॑सा स॒प्त होतृ॑भिः ।  
+> त आ॑दित्या॒ अभ॑यं॒ शर्म॑ यच्छत सु॒गा नः॑ कर्त सु॒पथा॑  ॒॑
+> स्वस्तये ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येभ्यः । होत्रां । प्रथमां । आयेजे । मनुः । समिद्धाग्निः । मनसा । सप्त ।  
+> होतृभिः ।  
+> ते । आदित्याः । अभयं । शर्म । यच्छत । सुगा । नः । कर्त । सुपथा । स्वस्तये ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> समिद्दाग्निर्हविर्भिः सम्यग्ग्रीप्ताग्निर्मनुर्वैवस्वतो मनुष्याणां प्रथमभावी
+> श्रद्दधानेन मनसा सप्त सप्तसंख्याकैर्होतृभिर्वषट्कर्तृभिर्युत्विग्भिश्च सह येभ्यो
+> युष्मभ्यं प्रथमां द्रथमं मुख्यं यद्वा सर्वॆषां मनुष्याणामग्रे क्रियमाणत्वादाद्यं होत्रां । हूयंते हवींष्यत्रेति होत्रा यज्ञः । तं । यद्वा ।
+> आहूयंते देवाः स्तुतिभिरत्रेति । तं यज्ञमायेजे अभिमुख्यनेष्टवान् ॥ यजेर्लिटि रूपं । यद्वा । लिटि लोपस्त आत्मनेपदेष्टिति तलोपः । यजिवपोरलिट्येत्वं
+> वक्तव्यं । का. ६-४-१२०-४ । इति वचनादेकारः ॥ हे आदित्या अदितेः पुत्रा हे देवाः
+> ते यूयं नोस्मभ्यमभयं शर्म च सुखं प्रयच्छत । किंच नोऽस्माकं स्वस्तये क्षेमाय सुपथा सुपथानि शोभनान्वैदिकमार्गान् सुगा सुष्टु गंतव्यान्
+> कर्त । कुरुत ॥ करोतेर्लोटि बहुलं छंदसीति विकरणस्य लुक् । तबादेशः ॥
+
+##### Gist of the bhāṣya
+
+समिद्धाग्निः (*samiddhāgniḥ*) is Manu Vaivasvata, first of men, whose fire is well kindled with oblations. With a mind full of faith and with seven hotṛs, the performers of the vaṣaṭ, and priests, he performed for you the होत्रां (*hotrāṃ*), the sacrifice, which is first, chief, or, being performed before all men, foremost. होत्रा (*hotrā*) is the sacrifice in which oblations are offered; or else, in which the gods are invoked with praises. आयेजे (*āyeje*) means he sacrificed facing them. O Ādityas, sons of Aditi, O gods, give us fearlessness and शर्म (*śarma*), happiness. And for our welfare make fair Vedic paths, easy to travel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आदित्याः (*ādityāḥ*)—O gods, sons of Aditi
+- समिद्धाग्निः (*samiddhāgniḥ*)—having a fire kindled with oblations
+- मनुः (*manuḥ*)—Manu
+- मनसा (*manasā*)—with meditation
+- सप्त (*sapta*)—seven
+- होतृभिः (*hotṛbhiḥ*)—together with hotṛs
+- येभ्यः (*yebhyaḥ*)—addressing which of you
+- होत्रां (*hotrāṃ*)—the sacrifice
+
 ---
 
-**Progress note:** Done through printed p. 463. pp. 458-463 (batch API)
+**Progress note:** Done through printed p. 469. pp. 464-469 (batch API)
