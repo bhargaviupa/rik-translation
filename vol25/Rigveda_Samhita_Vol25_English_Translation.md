@@ -17833,6 +17833,246 @@ Leave us not, Indra, but share our joy ; you are our protection, you are our kin
 > अस्मे इति । इंद्र । सचा । सुते । नि । सद। पीतये । मधु ।  
 > कृधि । जरित्रे । मघऽवन् । अवः । महत् । अस्मे इति । इंद्र। सचा । सुते ॥ ८ ॥
 
+### Printed p. 464
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अस्मे अस्माभिः.सचा सह सुते अभिषुते सोमे नि षद अस्मदीये यज्ञे निषीद । किमर्थम् । मधु पीतये मधुनः । ‘सुपां सुलुक्' इति ङसो लुक् । मदकरस्य सोमस्य पीतये पानाय । किंच हे मघवन् धनवन् इंद्र महत् अवः रक्षणं जरित्रे कृधि कुरु। कस्मिन् सति । अस्मे इंद्र सचा सुते इति व्याख्यातः पादः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, sit down (*ni ṣada*) at our sacrifice, together with us (*asme*), when the Soma has been pressed (*sute*). For what purpose? *Madhu pītaye*: to drink the intoxicating Soma, the sweet one. Further, O Maghavan, wealthy Indra, make (*kṛdhi*) great protection (*avaḥ*) for the praiser (*jaritre*). When is this? When Soma has been pressed together with us (*asme indra sacā sute*): thus the quarter has been explained.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- अस्मे (*asme*)—with us
+- सचा (*sacā*)—together
+- सुते (*sute*)—when the pressed Soma is ready
+- मधु (*madhu*)—the sweet Soma
+- पीतये (*pītaye*)—to drink
+- नि षद (*ni ṣada*)—sit down in our place of sacrifice
+- मघवन् (*maghavan*)—wealthy
+- इंद्र (*iṃdra*)—O Indra
+- सुते (*sute*)—when the Soma is pressed and ready
+- अस्मे सचा (*asme sacā*)—together with us
+- जरित्रे (*jaritre*)—for the praiser
+- महत् (*mahat*)—abundant
+- अवः (*avaḥ*)—protection
+- कृधि (*kṛdhi*)—bring about
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, when the pressed Soma is ready, sit down together with us in our place of sacrifice to drink the sweet Soma. O wealthy Indra, when the Soma is pressed and ready, bring about abundant protection for the praiser, together with us.
+
+##### English translation
+Sit with us, Indra, at the oblation to drink the Soma ; Maghavan, perform a mighty protection for your worshipper, (seated) with us at the oblation.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> न त्वा॑ दे॒वास॑ आशत॒ न मर्त्या॑सो अद्रिवः ।  
+> विश्वा॑ जा॒तानि॒ शव॑साभि॒भूर॑सि॒ न त्वा॑ दे॒वास॑ आशत ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> न । त्वा । देवासः । आशत । न । मर्त्यासः । अद्रिऽवः ।  
+> विश्वा । जातानि । शवसा । अभिऽभूः । असि । न । त्वा । देवासः । आशत ॥ ९ ॥
+
+### Printed p. 465
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अद्रिवः वज्रवन्निंद्र त्वा त्वां देवासः त्वदन्ये सर्वे देवाः न आशत । स्वकर्मणा स्वबलेन वा न व्याप्नुवंति । न मर्त्यासः मर्त्या मनुष्याश्च न व्याप्नुवंति । कुत एतदवसीयते तदाह । विश्वा विश्वानि सर्वाणि जातानि भूतजातानि शवसा स्वबलेनैव अभिभूरसि । अभिभावुकोऽसि भवसि । तस्मात् न त्वा देवास आशत इति गतार्थः ॥
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनः ‘विश्वाः पृतनाः' इति वैकल्पिकः स्तोत्रियः । सूत्रितं च--- विश्वाः पृतना अभिभूतरं नरं तमिंद्रं जोहवीमि' (आश्व. श्रौ. ७. ४) इति ॥
+
+##### Gist of the bhāṣya
+
+O *adrivaḥ*, Indra, wielder of the thunderbolt, the gods (*devāsaḥ*), all the gods other than you, do not attain (*na āśata*) you, do not reach you by their own act or their own strength; nor do mortals, men, reach you. From what is this concluded? He says: you overcome (*abhibhūḥ asi*) all (*viśvā*) beings (*jātāni*) by your strength (*śavasā*), by your own might. Therefore "the gods do not attain you" is explained. Further: on the Cāturviṃśika day, at the midday pressing, विश्वाः पृतनाः (*viśvāḥ pṛtanāḥ*) is the alternative Stotriya of the Brāhmaṇācchaṃsin; and it is taught: विश्वाः पृतना अभिभूतरं नरं तमिंद्रं जोहवीमि (*viśvāḥ pṛtanā abhibhūtaraṃ naraṃ tamiṃdraṃ johavīmi*) (Āśva. Śrau. 7. 4).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अद्रिवः (*adrivaḥ*)—O Indra, bearer of the thunderbolt
+- त्वा (*tvā*)—you
+- देवासः (*devāsaḥ*)—none of the gods
+- न आशत (*na āśata*)—can surpass
+- न मर्त्यासः (*na martyāsaḥ*)—none among men can be greater than you
+- विश्वा (*viśvā*)—all
+- जातानि (*jātāni*)—created things
+- शवसा (*śavasā*)—by your own strength
+- अभिभूः असि (*abhibhūḥ asi*)—you alone surpass and are greater than all
+- देवासः (*devāsaḥ*)—none among the gods
+- त्वा (*tvā*)—than you
+- न आशत (*na āśata*)—can be greater
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, bearer of the thunderbolt, neither among the gods nor among men is there anyone equal to you or possessed of strength surpassing yours. You alone, by your own strength, stand surpassing all created beings.
+
+##### English translation
+Thunderer, neither gods nor mortals equal you by their acts; you surpass all beings by your might, the gods equal you not.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वाः॒ पृत॑ना अभि॒भूत॑रं॒ नरं॑ स॒जूस्त॑तक्षु॒रिंद्रं॑ जज॒नुश्च॑ रा॒जसे॑ ।  
+> क्रत्वा॒ वरि॑ष्ठं॒ वर॑ आ॒मुरि॑मु॒तोग्रमोजि॑ष्ठं त॒वसं॑ तर॒स्विन॑म् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा: । पृतनाः । अभिऽभूतरम् । नरम् । सऽजूः । ततक्षुः । इंद्रम् । जजनुः । च । राजसे।  
+> क्रत्वा । वरिष्ठम् । वरे । आऽमुरिम् । उत । उग्रम् । ओजिष्ठम्। तवसम्। तरस्विनम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 466
+
+> विश्वाः सर्वा व्याप्ता वा पृतनाः । 'पृङ् व्यायामे'। व्याप्रियंत इति पृतनाः सेनाः । सजू परस्परं संगताः सत्यः अभिभूतरं शत्रूणामत्यर्थमभिभवितारं नरं सर्वस्य नेतारम् इंद्रं ततक्षुः । आयुधादिभिस्तीक्ष्णीकुर्वंति । आयुधवंतमश्ववंतं च चक्रुरित्यर्थः । यद्वा पृतना इति संग्रामनाम । व्याप्रियंतेऽत्रेति पृतनाः संग्रामाः । सर्वानेव संग्रामानभिभावुकमिंद्रं स्तोतारोऽन्योन्यं संगताः स्तुतिभिस्तीक्ष्णमकुर्वन् । स्तुते सति बलवान् भवतीति । यद्वा । यष्टारो हविष्प्रदानेन वीर्यवंतं कुर्वंतीति । किंच स्तोतारः राजसे । राजतेस्तुमर्थेऽसेप्रत्ययः । आत्मनो विराजनार्थं प्रकाशनार्थं सूर्यात्मानम् इंद्रं जजनुः जनयामासुः । स्तोत्रं यज्ञे प्रादुरभावयन्नित्यर्थः । उत अपि च क्रत्वा स्वीयवृत्रवधादिकर्मणैव वरिष्ठम् उरुतरम् आमुरिं शत्रूणामाभिमुख्येन मारयितारमिंद्रं वरे वरणीये धने स्तोतारश्चक्रुः । आत्मनां धनलाभार्थं स्तुवंतीत्यर्थः । कीदृशम् । उग्रम् उद्गूर्णबलमत एव ओजिष्ठम् ओजस्वितमं तवसं प्रवृद्धं तरस्विनं संग्रामे शत्रुवधार्थं वेगवंतमिंद्रं धनार्थं स्तुवंति ॥ ॥ ३७ ॥
+
+##### Gist of the bhāṣya
+
+*Viśvāḥ*, all, *pṛtanāḥ*, armies, so called because they are engaged in action (from the root पृङ् (*pṛṅ*), "to be engaged"); assembled together (*sajūḥ*), they sharpen (*tatakṣuḥ*) Indra, *abhibhūtara*, who greatly overcomes enemies, *nara*, the leader of all, with weapons and the like; the meaning is that they made him possessed of weapons and horses. Or else, *pṛtanā* is a name for battle, because men are engaged in it: the praisers, assembled together, sharpened with their hymns Indra, who overcomes all battles; for when praised he becomes strong. Or else, the sacrificers make him vigorous by giving oblations. Further, the praisers *jajanuḥ*, brought forth Indra, whose nature is the sun, *rājase*, to shine (that is, to make himself manifest); the meaning is that they made the hymn appear at the sacrifice. Moreover, *kratvā*, by his own deeds such as the slaying of Vritra, they made Indra *variṣṭha*, the widest, *āmuri*, the one who slays enemies by facing them, *vare*, for desirable wealth; the meaning is that the praisers praise him to gain wealth for themselves. Of what kind is he? *Ugra*, of uplifted strength, and therefore *ojiṣṭha*, most vigorous, *tavasa*, grown great, *tarasvin*, swift in battle for the slaying of enemies: such an Indra they praise for wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वाः (*viśvāḥ*)—all
+- पृतनाः (*pṛtanāḥ*)—the priests and the rest
+- सजू (*sajū*)—gathered together
+- अभिभूतरं (*abhibhūtaraṃ*)—who defeats enemies
+- नरं (*naraṃ*)—and is the leader
+- इंद्रं (*iṃdraṃ*)—Indra
+- ततक्षुः (*tatakṣuḥ*)—they made vigorous (by giving oblations and the like)
+- राजसे (*rājase*)—for his own shining
+- जजनुः (*jajanuḥ*)—they have caused him to become manifest
+- उत (*uta*)—and
+- क्रत्वा (*kratvā*)—by their excellent rites
+- वरिष्ठं (*variṣṭhaṃ*)—the most excellent
+- आमुरिं (*āmuriṃ*)—who falls upon the enemies and destroys them
+- उग्रं (*ugraṃ*)—who has surpassing strength
+- ओजिष्ठं (*ojiṣṭhaṃ*)—who has exceeding vigour
+- तवसं (*tavasaṃ*)—who is full of power
+- तरस्विनं (*tarasvinaṃ*)—and swift, Indra
+- वरे (*vare*)—they made him an excellent object of praise
+**NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+All the priests and the rest, gathered together, made Indra, who defeats enemies and is the leader, vigorous by giving oblations and the like. For his own shining they have caused him to become manifest. By their excellent rites, the most excellent one, who confronts the enemies and
+
+### Printed p. 467
+
+destroys them, who has exceeding vigour, who is mighty and swift, Indra, they have made an excellent object of praise.
+
+##### English translation
+The assembled (priests) have roused Indra, the leader, the conqueror in all battles ; they have created him ( by their hymns ) to shine,—him the mightiest in his acts, the smiter of enemies for spoil, the terrible, the most powerful, the stalwart, the furious.
+
+##### विशेषविषयगळु (Special Topics)
+
+On the day of the sacrifice called Cāturviṃśika, at the time of the midday pressing, the priest called Brāhmaṇācchaṃsin is to recite the three verses beginning with विश्वाः पृतनाः (*viśvāḥ pṛtanāḥ*) as the alternative Stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra, विश्वाः पृतना अभिभूतरं नरं तमिंद्रं जोहुवीमि (*viśvāḥ pṛtanā abhibhūtaraṃ naraṃ tamiṃdraṃ johuvīmi*) (Ā. 7-4).
+**NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समीं॑ रे॒भासो॑ अस्वर॒न्निंद्रं॒ सोम॑स्य पी॒तये॑ ।  
+> स्व॑र्पतिं॒ यदीं॑ वृ॒धे धृ॒तव्र॑तो॒ ह्योज॑सा॒ समू॒तिभिः॑ ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम् । ईम् । रेभासः । अस्वरन् । इंद्रम् । सोमस्य । पीतये ।  
+> स्वःऽपतिम् । यत् । ईम् । वृधे । धृतऽव्रतः । हि । ओजसा । सम् । ऊतिऽभिः ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रेभासः । ‘रेभृ शब्दे' । शब्दयितारः स्तोतारः । यद्वा । रेभासः कश्यपपुत्रा रेभा एतन्नामका ऋषयः । ईम् एनम् इंद्रं सम् अस्वरन् सम्यगशब्दयन् समस्तुवन् । किमर्थम् । सोमस्य पीतये सोमपानाय । किंच स्वर्पतिं स्वर्गस्य पालयितारं धनस्य स्वामिनं वा ईम् एनमिंद्रं यत् यदा वृधे हविर्भिर्वर्धनाय संस्तुवंति तदा धृतव्रतः धृतकर्मेंद्रः ओजसा बलेन स्तोतृभिः ऊतिभिः मरुद्भिः पालनैश्च सह संगच्छते। स्तुतिभिर्बलं मरुद्भिः पालनं चेंद्रस्य भवतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+*Rebhāsaḥ* (from the root रेभृ (*rebhṛ*), "to sound") are the praisers who raise their voices; or else, *rebhāsaḥ* are the seers named Rebha, sons of Kaśyapa. They together (*sam asvaran*) praised this (*īm*) Indra. For what purpose? *Somasya pītaye*, to drink Soma. Further, when they praise this Indra, *svarpati*, the protector of heaven or the lord of wealth, for his growth (*vṛdhe*) with oblations, then Indra, *dhṛtavrata*, who upholds rites, with his strength (*ojasā*), given by the praisers, and with protections (*ūtibhiḥ*), that is, the Maruts, is united. The meaning is that Indra gets strength by praises and protection by the Maruts.
+
+### Printed p. 468
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रेभासः (*rebhāsaḥ*)—the praisers
+- ईं इंद्रं (*īṃ iṃdraṃ*)—this Indra
+- सोमस्य (*somasya*)—of the Soma juice
+- पीतये (*pītaye*)—for the drinking
+- समस्वरन् (*samasvaran*)—gathered together and praised
+- स्वर्पतिं (*svarpatiṃ*)—the protector of heaven
+- ईं (*īṃ*)—this Indra
+- यत् (*yat*)—when
+- वृधे (*vṛdhe*)—they praise for his growth, then
+- धृतव्रतः (*dhṛtavrataḥ*)—Indra, who upholds his rules
+- ओजसा (*ojasā*)—with his strength
+- ऊतिभिः (*ūtibhiḥ*)—and with the protecting Maruts
+- सं (*saṃ*)—is united
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers (or the seers called Rebha) gathered together and praised this Indra for the drinking of the Soma juice. When they praise this Indra, the protector of heaven, for his growth, then Indra, who upholds his rules, is united with his strength and with the protecting Maruts.
+**NOTE**
+
+##### English translation
+The Rebhas have together praised Indra that he may drink the Soma ; when (they praise) the lord of heaven that he may wax strong (by the oblations), then he, observant of pious rites, is united to his strength and his protecting guards.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ने॒मिं न॑मंति॒ चक्ष॑सा मे॒षं विप्रा॑ अभि॒स्वरा॑ ।  
+> सु॒दी॒तयो॑ वो अ॒द्रुहोऽपि॒ कर्णे॑ तर॒स्विनः॒ समृक्व॑भिः ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नेमिम् । नमंति । चक्षसा । मेषम् । विप्राः । अभिऽस्वरा ।  
+> सुऽदीतयः । वः । अद्रुहः । अपि । कर्णे। तरस्विनः । सम् । ऋक्वऽभिः ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नेमिम् । अरान् यथा नेमिर्व्याप्नोति तद्वत् सर्वं व्याप्नुते । तादृशं नमनशीलमिंद्रं चक्षसा दर्शनमात्रेणैव नमंति। काश्यप रेभाः स्तोतारो वा नमस्कुर्वंति । ततः विप्राः मेधाविनः मेषम् । इंद्रो मेषो भूत्वा मेधातिथिं स्वर्गमनयत् । तस्मात् मेधातिथेर्मेषभूतमिंद्रम् अभिस्वरा अभिस्वरणेन स्तोत्रेण प्रणमंति। इदानीं यजमानः स्तोतॄनाह । अपि च सुदीतयः शोभनदीप्तयः अद्रुहः कस्याप्यद्रोग्धारः वः यूयम्। छंदसो वसादेशः । तरस्विनः कर्मसु स्तोत्रेषु वा त्वरायुक्ताः संत इंद्रस्य कर्णे श्रोत्रसमीपे ऋक्वभिः अर्चनायुक्तैर्मंत्रैः। यद्वा । ऋचो बह्व्यो येषु संति तैः शस्त्रादिभिः । संस्तुत । इंद्रो यथा युष्मदीयानि स्तोत्रशस्त्रादीनि शृणोति तथा सम्यगभिष्टुतेत्यर्थः ॥
+> पूर्वोक्त एव शस्त्रे वैकल्पिकस्यानुरूपतृचस्य  'तमिंद्रम्' इत्याद्या । सूत्रमुदाहृतम् ॥
+
+##### Gist of the bhāṣya
+
+*Nemim*: as the felly encloses the spokes, so Indra pervades everything; such an Indra, ever bowing, they bow to *cakṣasā*, at the mere sight of him: the Rebhas of Kaśyapa's line, or the praisers, do homage. Then the *viprāḥ*, the wise, bow *meṣam*: Indra became a ram and led Medhātithi to heaven; therefore they bow with *abhisvara*, a hymn of praise, to Indra, who became the ram of Medhātithi. Now the sacrificer addresses the praisers: and you, *sudītayaḥ*, of fair radiance, *adruhaḥ*, harming no one, *tarasvinaḥ*, hasty in rites or in hymns, in Indra's ear (*karṇe*), with *ṛkvabhiḥ*, mantras accompanied by worship; or else with the śastras and the like in which there are many Ṛks: praise well (*saṃstuta*), so that Indra hears your hymns and śastras. Further: in the same śastra stated before, तमिंद्रम् (*tamiṃdram*) is the first verse of the alternative Anurūpa tṛca; the sūtra has been quoted.
+
+### Printed p. 469
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नेमिं (*nemiṃ*)—Indra, who encloses all beings as the rim of a wheel encloses the spokes
+- चक्षसा (*cakṣasā*)—at the mere sight
+- नमंति (*namaṃti*)—the praisers (or the Rebhas) bow
+- विप्राः (*viprāḥ*)—the wise praisers
+- मेषं (*meṣaṃ*)—Indra in the form of a ram
+- अभिस्वरा (*abhisvarā*)—bow with praise
+- अपि (*api*)—and
+- सुदीतयः (*sudītayaḥ*)—of excellent radiance
+- अद्रुहः (*adruhaḥ*)—and free from malice, O praisers
+- वः (*vaḥ*)—you
+- तरस्विनः (*tarasvinaḥ*)—skilled in rites
+- कर्णे (*karṇe*)—near Indra's ear
+- ऋक्वभिः (*ṛkvabhiḥ*)—with worshipful mantras
+- सं (*saṃ*)—praise
+
+##### भावार्थ (Bhāvārtha)
+
+The praisers bow, at the mere sight, to Indra, who encloses all beings as the rim of a wheel encloses the spokes. They bow with praise to Indra in the form of a ram. O praisers, of excellent radiance and free from malice, being skilled in rites, praise Indra near his ear with worshipful mantras.
+
+##### English translation
+At the first sight (the Rebhas) bow to him who is the circumference of the wheel, the priests (worship) with their praise (Indra) the ram ; radiant and unharming, you also, full of earnestness, sing in his ear with your hymns.
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तमिंद्रं॑ जोहवीमि म॒घवा॑नमु॒ग्रं स॒त्रा दधा॑न॒मप्र॑तिष्कुतं॒ शवां॑सि ।  
+> मंहि॑ष्ठो गी॒र्भिरा च॑ य॒ज्ञियो॑ व॒वर्त॑द्रा॒ये नो॒ विश्वा॑ सु॒पथा॑ कृणोतु व॒ज्री ॥ १३ ॥
+
 ---
 
-**Progress note:** Done through printed p. 463. Sūkta 97 Ṛk 2 end to Ṛk 8 Saṃhitā/Pada
+**Progress note:** Done through printed p. 469. Sūkta 97 Ṛk 8 end to Ṛk 13 Saṃhitā
