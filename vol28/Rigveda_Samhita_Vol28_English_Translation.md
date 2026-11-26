@@ -22363,6 +22363,142 @@ Showing here that Vanaspati means the Agni of the middle world, he has stated co
 
 O Agni, bring for our sacrifice Indra and Varuṇa, and the Maruts, from the heavenly world and from the atmosphere: bring our sacrifice to them. The worshipful gods, all of them, having come, are to sit on the barhis (sacred grass), that is, be seated there. Then the immortal gods, free from the nature of death, are to be gladdened, to gladden themselves, by the oblations given with the svāhā-call.
 
+### Printed p. 646
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अग्ने (*agne*)—O Agni
+- नः (*naḥ*)—our
+- इष्टये (*iṣṭaye*)—for the sacrifice
+- इंद्रं (*iṃdraṃ*)—Indra
+- वरुणं (*varuṇaṃ*)—Varuṇa
+- मरुतः (*marutaḥ*)—the Marut deities also
+- दिवः (*divaḥ*)—from heaven (their dwelling place)
+- अंतरिक्षात् (*aṃtarikṣāt*)—from the firmament
+- आ वह (*ā vaha*)—bring them to our place of sacrifice
+- अमृताः (*amṛtāḥ*)—the deathless
+- विश्वेदेवाः (*viśvedevāḥ*)—all those gods
+- बर्हिः (*barhiḥ*)—upon the seat of darbha grass
+- सीदंतु (*sīdaṃtu*)—let them sit
+- स्वाहा (*svāhā*)—and with the oblation we offer with the utterance of svāhā
+- मादयंतां (*mādayaṃtāṃ*)—let them attain satisfaction
+
+##### भावार्थ (Bhāvārtha)
+
+O Agni, in order that Indra, Varuṇa and the Marut deities may take part in our sacrifice, bring them from their own abodes, heaven and the firmament, to our place of sacrifice. Let those deathless gods sit on the seat of darbha grass and rejoice in the oblation that we offer with the utterance of svāhā.
+
+##### English translation
+Bring, Agni, to our sacrifice Varna and Indra from heaven, and the Maruts from the firmament; may the adorable universal gods sit down on the sacred grass, and may the immortal deities rejoice in (the oblation presented with) the Swaha.
+
+##### विशेषविषयगळु (Special Topics)
+
+Yāska's explanation of the word svāhā is as follows:
+स्वाहाकृतयः । स्वाहेत्येतत् सु आहेति वा । स्वा नागाहेति वा । स्वं प्राहेति वा । स्वाहुतं हविर्जुहोतीति वा ॥ (*svāhākṛtayaḥ | svāhetyetat su āheti vā | svā nāgāheti vā | svaṃ prāheti vā | svāhutaṃ havirjuhotīti vā ‖*) (Ni. 8-21)
+The word svāhā has four kinds of etymological meaning:
+(1) सु आहेति वा (*su āheti vā*). Su—well; āha—he says or utters. Because the mantra that ends in svāhā is uttered well, that is, clearly, it is called svāhā.
+(2) स्वा नागाहेति वा (*svā nāgāheti vā*). Svā—one's own; vāk—speech. There is a Śruti sentence: तं स्वा नागभ्यवदज्जुहुधीति । तत्स्वाहाकारस्य जन्म । (*taṃ svā nāgabhyavadajjuhudhīti | tatsvāhākārasya janma |*) That is, because at the time of the homa the person offering himself adds the word svāhā at the end of the Vedic mantra, the Ṛk, it is called svāhā.
+(3) स्वं प्राहेति वा (*svaṃ prāheti vā*). (The sacrificer or the priest) says: "I shall offer my own oblation"; sva—his own oblation, āha—he says he will offer. Therefore it is called svāhā.
+
+### Printed p. 647
+(4) स्वाहुतं हविर्जुहोतीति वा (*svāhutaṃ havirjuhotīti vā*). Because the oblation he offers is offered by the utterance of the word svāhā, that is, because the oblation is given into the fire, it is called svāhā.
+Having given the four kinds of explanation of meaning, he gives this Ṛk as an example.
+सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः । (*sadyo jāto vyamimīta yajñamagnirdevānāmabhavatpurogāḥ |*)
+अस्य होतुः प्रदिश्यतस्य वाचि स्वाहाकृतं हनिरदंतु देवाः ॥ (*asya hotuḥ pradiśyatasya vāci svāhākṛtaṃ haniradaṃtu devāḥ ‖*) (Ṛ. Saṃ. 10-110-111)
+Its main sense: Agni, born just now (that is, just now installed in the sacrifice), sits in front of the gods and conducts the sacrifice, performing the duty of the hotṛ, namely the work of invoking the gods. May the gods eat the oblation offered by such a hotṛ, standing in the east, offered with the utterance of svāhā. Therefore the intention is that the word uttered at the end of the mantra when an oblation is offered, for the satisfaction of the gods, into the fire duly installed for the sacrifice, is called svāhā.
+In some Āprī hymns the plural form स्वाहाकृतयः (*svāhākṛtayaḥ*) is used. Because the svāhā is added and recited with the eleven prayāja mantras used in offering to the eleven deities of the hymn, the plural स्वाहाकृतयः (*svāhākṛtayaḥ*) is used.
+In the Purāṇas and similar works it is used in another sense. In the Mahābhārata, Svāhā is said to be the daughter of Bṛhaspati, son of the sage Aṅgiras. In the Purāṇas the goddess Svāhā is said to be the daughter of Dakṣa Prajāpati and the wife of Agni.
+स्वाहा इत्येवंपूर्वा कृतिः करणमुच्चारणं यक्ष्यमाणदेवतानां ताः स्वाहाकृतयः । तद्वंति हव्यानि ॥ (*svāhā ityevaṃpūrvā kṛtiḥ karaṇamuccāraṇaṃ yakṣyamāṇadevatānāṃ tāḥ svāhākṛtayaḥ | tadvaṃti havyāni ‖*) It is an adjective of the word havyāni: oblations accompanied by the word svāhā, which is to be recited at the offering of the oblation. It is the word chiefly recited in the last Ṛks of the Āprī hymns. In some Ṛks it is also adverbial. That is, in Ṛk 1-13-12 स्वाहा कृणोतन (*svāhā kṛṇotana*), in Ṛk 1-142-12 स्वाहा कर्तन (*svāhā kartana*); in Ṛks 3-4-11; 7-2.11; 10-70-11 it is in the sense of the instrument; in 2-3-11 it is an adjective of havya, and in 10-110-11 an adjective of havis.
+In explaining this word, some have held that by it the divine Svāhākṛti is indicated, others that by it Agni is indicated. In the Praiṣa hymn:
+होता यक्षदग्निग् स्वाहाज्यस्य..................वियंतु होतर्युज ॥ (*hotā yakṣadagnig svāhājyasya..................viyaṃtu hotaryuja ‖*) (Tai. Brā. 3-6-2-2)
+
+### Printed p. 648
+is recited. On this Sāyaṇa explains: योऽयं स्वाहाशब्दोदितः उत्तमप्रयाजदेवः अग्निः तं दैव्यू होता यजतु । (*yo 'yaṃ svāhāśabdoditaḥ uttamaprayājadevaḥ agniḥ taṃ daivyū hotā yajatu |*) By the word svāhā the eleventh prayāja deity, Agni, is meant. The four kinds of meaning given by the Nirukta author were stated earlier. In the Aitareya Brāhmaṇa:
+स्वाहाकृतीयजति प्रतिष्ठा वै स्वाहाकृतयः प्रतिष्ठायामेव तद्यज्ञमंततः प्रतिष्ठापयति ॥ (*svāhākṛtīyajati pratiṣṭhā vai svāhākṛtayaḥ pratiṣṭhāyāmeva tadyajñamaṃtataḥ pratiṣṭhāpayati ‖*) (Ai. Brā. 2-4)
+It is explained that, since the offering is completed by the svāhā-utterance, it is the support of the whole sacrifice, and it sets the sacrifice on a proper foundation. In the Bṛhaddevatā:
+स्वाहाकृतयोऽनेकाश्च विदुषां मितयोऽभवन् । (*svāhākṛtayo 'nekāśca viduṣāṃ mitayo 'bhavan |*)
+तत्सर्वं त्वयमेवाग्निर्भवतीति विनिश्चयः ॥ (*tatsarvaṃ tvayamevāgnirbhavatīti viniścayaḥ ‖*)
+अयं हि कर्ता स्वाहानां कृतिस्तासामिहैकजा । (*ayaṃ hi kartā svāhānāṃ kṛtistāsāmihaikajā |*)
+अयं प्रसूर्भूतितानां सर्वेषामयमव्ययः ॥ (*ayaṃ prasūrbhūtitānāṃ sarveṣāmayamavyayaḥ ‖*) (Bṛ. De. 3-29, 30)
+Regarding the deity Svāhākṛti the opinions of the learned are many and differ. But however much they differ, on this one point all agree: that this deity Svāhākṛti is a special form of Agni. For Agni himself is the maker of the svāhās (that is, of the oblations or mantras offered with the word svāhā). He is the maker of all such mantras and also their deity; this Agni is the place of origin of all beings (creatures), that is, all creatures arise from him. Among all creatures he alone is without destruction, that is, he is imperishable. Thus the authors of the Bṛhaddevatā state their view.
+In the Ṛks that consist of svāhā-utterances (the last Ṛks of some Āprī hymns), Pūṣan, the Maruts, Vāyu, Sūrya, Indra, Varuṇa and the other deities are all indicated. Above all, in the Ṛks
+पुरोगा अग्निर्देवानां गायत्रेण समज्यते । (*purogā agnirdevānāṃ gāyatreṇa samajyate |*)
+स्वाहाकृतीषु रोचते ॥ (*svāhākṛtīṣu rocate ‖*) (Ṛ. Saṃ. 1-188-11)
+सद्यो जातो व्यमिमित यज्ञमग्निर्देवानामभवत्पुरोगाः । (*sadyo jāto vyamimita yajñamagnirdevānāmabhavatpurogāḥ |*)
+अस्य होतुः प्रदिश्यतस्य वाचि स्वाहाकृतं हविरदंतु देवाः ॥ (*asya hotuḥ pradiśyatasya vāci svāhākṛtaṃ haviradaṃtu devāḥ ‖*) (Ṛ. Saṃ. 10-110-11)
+Agni is praised as the leader (purohita) of the gods from the time of his birth, and, describing the power of the svāhā-utterance,
+
+### Printed p. 649
+आ याह्यग्ने समिधानो अर्वाजिंद्रेण देवैः सरथं तुरेभिः । (*ā yāhyagne samidhāno arvājiṃdreṇa devaiḥ sarathaṃ turebhiḥ |*)
+बर्हिर्न आस्तामदितिः सुपुत्रा स्वाहा देवा अमृता मादयंतां ॥ (*barhirna āstāmaditiḥ suputrā svāhā devā amṛtā mādayaṃtāṃ ‖*) (Ṛ. Saṃ. 3-4-11)
+आग्ने वह वरुणमिष्टये न इंद्रं दिवो मरुतो अंतरिक्षात् । (*āgne vaha varuṇamiṣṭaye na iṃdraṃ divo maruto aṃtarikṣāt |*)
+सीदंतु बर्हिर्विश्व आ यजत्राः स्वाहा देवा अमृता मादयांतां ॥ (*sīdaṃtu barhirviśva ā yajatrāḥ svāhā devā amṛtā mādayāṃtāṃ ‖*) (Ṛ. Saṃ. 10-70.11)
+In these Ṛks the gods are gladdened by the mantra svāhā (the word svāhā); this shows that the word svāhā holds so divine a place in the sacrifice.
+
+## Sūkta 71 (Maṇḍala 10)
+**Introduction (Pīṭhike)**
+In this hymn the deity called Jñāna (knowledge) is praised. There are some occasions when the seers praised certain feelings that arise in the mind, regarding them as deities. Knowledge is one of them. Likewise Manyu (anger) is praised as a deity of feeling in hymns 83 and 84 of this same Maṇḍala, and Śraddhā in hymn 151 of this Maṇḍala. Likewise dāna, tapas (meditation), medhā, prajñā, kāma, satya, dama, śama, dharma, yajña, manas, saṃvatsara or kāla, śānti, ānanda and the like are also counted as deities of feeling. We have described these deities of feeling at length, with examples, in Ṛ. Saṃ. Part 29, pages 310-314.
+In the Bṛhaddevatā, the work spoken by the sage Śaunaka, it is said of this hymn in the 7th chapter:
+यज्जोतिरमृतं ब्रह्म यद्योगात्समुपाश्नुते । (*yajjotiramṛtaṃ brahma yadyogātsamupāśnute |*)
+तज्ज्ञानमभितुष्टाव सूक्तेनाथ बृहस्पतिः ॥ १०९ ॥ (*tajjñānamabhituṣṭāva sūktenātha bṛhaspatiḥ ‖ 109 ‖*)
+Bṛhaspati in this hymn describes and praises that supreme knowledge by the meditation on which, as the eternal and imperishable supreme light, the yogī (or the ascetic) attains the state of Parabrahman.
+जीवनार्थं प्रयोगस्तु मंत्राणां प्रतिषिध्यते । (*jīvanārthaṃ prayogastu maṃtrāṇāṃ pratiṣidhyate |*)
+वेदतत्त्वार्थविज्ञानं प्रायेणात्र हि दृश्यते ॥ ११० ॥ (*vedatattvārthavijñānaṃ prāyeṇātra hi dṛśyate ‖ 110 ‖*)
+
+### Printed p. 650
+The use of Vedic mantras, that is, employing them to earn a living, is forbidden; no one should use the Vedic mantras for livelihood. In this hymn the supreme principle spoken of in the Vedas, and the knowledge that is the means of attaining it, are seen to be described.
+आचार्यः केचिदित्याहुरत्र वाग्विधुषां स्तवः । (*ācāryaḥ kecidityāhuratra vāgvidhuṣāṃ stavaḥ |*)
+यथाभिर्निंद्यतेऽत्रग्निः सूक्तेऽन्याभिरनर्थवित् ॥ १११ ॥ (*yathābhirniṃdyate 'tragniḥ sūkte 'nyābhiranarthavit ‖ 111 ‖*)
+Some teachers say that in some Ṛks of this hymn there is praise of those who know the nature of speech (mantras), and in some others blame of those who do not know the meaning of the Veda.
+यथैतामन्वविंदंत विद्वांसर्षिगतां सतीं । (*yathaitāmanvaviṃdaṃta vidvāṃsarṣigatāṃ satīṃ |*)
+यथा च व्यभजन्यज्जॆ तदत्रोक्तं तृतीयया ॥ ११२ ॥ (*yathā ca vyabhajanyajjè tadatroktaṃ tṛtīyayā ‖ 112 ‖*)
+That the learned and discerning man knows the nature of this goddess of speech, which the seers realised with the eye of knowledge, and how in the sacrificial rites the mantras that are of that divine nature were divided and used according to the rite, is stated in the 3rd Ṛk of this hymn.
+प्रशस्य ते दशम्या तु विद्वानुत्तमया त्वृचा । (*praśasya te daśamyā tu vidvānuttamayā tvṛcā |*)
+यज्ञे महर्त्विजामाह विनियोगं च कर्मणां ॥ ११३ ॥ (*yajñe mahartvijāmāha viniyogaṃ ca karmaṇāṃ ‖ 113 ‖*)
+But in the 10th Ṛk the discerning learned man is praised. In the last Ṛk the seer describes the duties that the four priests have to perform in the sacrifice and their application.
+On the use (viniyoga) of this hymn Śaunaka says in the work Ṛgvidhāna:
+बृहस्पते प्रथममिति नित्यं ज्ञानस्तुतिं जपेत् । (*bṛhaspate prathamamiti nityaṃ jñānastutiṃ japet |*)
+ज्ञानवान् भवति श्रीमाननंतां विंदते श्रियं । (*jñānavān bhavati śrīmānanaṃtāṃ viṃdate śriyaṃ |*)
+अलक्ष्मीनाशनार्थं तु पयोभक्षो भवेद्विजः ॥ (*alakṣmīnāśanārthaṃ tu payobhakṣo bhavedvijaḥ ‖*)
+(Ṛgvidhāna, adhyāya 3, śloka 9, 72-7) **NOTE**
+If one recites daily this hymn beginning बृहस्पते (*bṛhaspate*), excellent knowledge and incomparable prosperity are obtained. A Brahmin should recite this hymn daily, living on milk alone, to destroy poverty. If he does so, poverty is destroyed and abundance of wealth results.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पत इत्येकादशर्चं तृतीयं सूक्तं । आंगिरसस्य बृहस्पतेरार्षं नवमी
+> जगती शिष्टा दश त्रिष्टुभः । अनेन सूक्तेनर्षिः परमपुरुषार्थसाधनं परब्रह्मज्ञानं
+> स्तुतवान् । अतस्तद्देवत्यमिदं । उक्तं हि बृहद्देवतायां । सुज्योतिः परमं
+> ब्रह्म यद्योगात् समुपाश्नुते । तज्ज्ञानमभितुष्टाव सूक्तेनाथ बृहस्पतिः ।
+
+##### Gist of the bhāṣya
+
+The third hymn, बृहस्पते (*bṛhaspate*), has eleven Ṛks. Its seer is Bṛhaspati, the Āṅgirasa. The ninth verse is Jagatī, the remaining ten are Triṣṭubh. With this hymn the seer praised the knowledge of the supreme Brahman, which is the means to the highest human goal; therefore the deity is Knowledge. For it is said in the Bṛhaddevatā: सुज्योतिः परमं ब्रह्म यद्योगात् समुपाश्नुते । तज्ज्ञानमभितुष्टाव सूक्तेनाथ बृहस्पतिः । (*sujyotiḥ paramaṃ brahma yadyogāt samupāśnute | tajjñānamabhituṣṭāva sūktenātha bṛhaspatiḥ |*)
+
+### Printed p. 651
+
+> बृ. ७-१०८४ । इति । अनुक्रांतं च । बृहस्पते बृहस्पतिर्ज्ञानं तुष्टाव नवमी जगती ॥
+> सूक्तविनियोगो गतः । देवासुवां हविःषु बृहस्पतिर्वाचस्पतिरित्यस्य प्रथमानुवाक्या ।
+> सूत्रितं च । बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावद्भिः । आ- ४ ११ इति ॥
+
+##### Gist of the bhāṣya
+
+The reference is बृ. ७-१०८४ (*bṛ. 7-1084*) **NOTE**. The Anukramaṇī also says: बृहस्पते बृहस्पतिर्ज्ञानं तुष्टाव नवमी जगती (*bṛhaspate bṛhaspatirjñānaṃ tuṣṭāva navamī jagatī*). The use of the hymn has already been given. In the Devasū offerings, in the offering to Bṛhaspati Vācaspati, the first Ṛk of this hymn is the anuvākyā. It is set out in the sūtra: बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावद्भिः (*bṛhaspate prathamaṃ vāco agraṃ haṃsairiva sakhibhirvāvadbhiḥ*), Ā. 4-11.
+
+##### Anuvāda
+
+This hymn बृहस्पते (*bṛhaspate*) is the third hymn in the sixth anuvāka. It has eleven Ṛks. Its seer is Bṛhaspati, son of Aṅgiras; the ninth Ṛk of the hymn is in Jagatī metre, the remaining ten Ṛks in Triṣṭubh. In this hymn the seer has praised the knowledge of the supreme Brahman, which is the means to the highest human goal. Therefore the deity of this hymn is Knowledge. In the work called Bṛhaddevatā the sage Śaunaka has said: सुज्योतिः परमं ब्रह्म यद्योगात्समुपाश्नुते । तज्ञा नमभितुष्टाव सूक्तेनाथ बृहस्पतिः ॥ (*sujyotiḥ paramaṃ brahma yadyogātsamupāśnute | tajñā namabhituṣṭāva sūktenātha bṛhaspatiḥ ‖*) (Bṛ. De. 7-109); that is, the seer Bṛhaspati has praised in this hymn the knowledge that leads to the attainment of Brahman, through the practice of yoga (tapas), by realising which divine light of the nature of Parabrahman the yogī experiences the bliss of Brahman. In the Anukramaṇī it is said: बृहस्पते बृहस्पतिर्ज्ञानं तुष्टाव नवमी जगती (*bṛhaspate bṛhaspatirjñānaṃ tuṣṭāva navamī jagatī*). The use of the hymn has been stated earlier. Among the eight Devasū offerings made to the deities called Devasū, when the offering is made to the deity Bṛhaspati Vācaspati, the first Ṛk of this hymn is to be recited as the anuvākyā mantra; this is set out by the sūtra of the Āśvalāyana Śrautasūtra बृहस्पते प्रथमं वाचो अग्रं हंसैरिव सखिभिर्वावदद्भिः (*bṛhaspate prathamaṃ vāco agraṃ haṃsairiva sakhibhirvāvadadbhiḥ*) (Ā. 4-11).
+
+Maṇḍala 10; Anuvāka 6; Sūkta 71. Aṣṭaka 8; Adhyāya 2; Varga 23, 24. Number of Ṛks in the hymn: 11.
+Ṛṣi: Bṛhaspati. Devatā: Jñāna. Chandas: 1-8, 10, 11 Triṣṭubh; 9 Jagatī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॑स्पते प्रथ॒मं वा॒चो अग्रं॒ यत्प्रैर॑त नाम॒धेयं॒  ॑
+> दधानाः ।  
+> यदे॑षां॒ श्रेष्ठं॒ यद॑रि॒प्रमासी॑त्प्रे॒णा तदे॑षां॒ निहि॑तं॒  ॒
+> गुहाविः ॥ १ ॥
+
 ---
 
-**Progress note:** Done through printed p. 645. pp. 640-645 (batch API)
+**Progress note:** Done through printed p. 651. pp. 646-651 (batch API)
