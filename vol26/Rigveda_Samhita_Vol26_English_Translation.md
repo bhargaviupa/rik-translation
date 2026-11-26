@@ -23968,6 +23968,244 @@ The sūkta beginning प्रो स्य वह्निः (*pro sya vahni�
 
 Anuvāda— This sūkta beginning प्रो स्य वह्निं (*pro sya vahniṃ*) is the fourth sūkta in the fifth anuvāka. It has seven Ṛks. The seer, deity and metre of this sūkta are the same as in the preceding sūkta. In the Anukramaṇikā it is stated as प्रो स्य सप्त (*pro sya sapta*). The viniyoga has been stated before.
 
+### Printed p. 632
+
+Sūkta 89. Maṇḍala 9, Anuvāka 5, Sūkta 89. Aṣṭaka 7, Adhyāya 3, Varga 25. Number of ṛks in the sūkta: 7. Seer: Uśanā. Deity: Pavamāna Soma **NOTE**. Metre: Triṣṭup.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रो स्य वह्निः॑ प॒थ्या॑भिरस्यांदि॒वो न वृ॒ष्टिः पव॑मानो अक्षाः ।  
+> स॒हस्र॑धारो असद॒न्न्य१॒॑स्मे मा॒तुरु॒पस्थे॒ वन॒ आ च॒ सोमः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रो इति । स्यः । वह्निः । पथ्याभिः । अस्यान् । दिवः । न । वृष्टिः । पवमानः । अक्षारिति ।  
+> सहस्रऽधारः । असदत् । नि । अस्मे इति । मातुः । उपऽस्थे । वने । आ । च । सोमः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्र ऊ इति निपातद्वयसमुदाय एको निपातितः । प्रो अस्यान् प्रस्यंदते स्यः सः वह्निः वोढा पथ्याभिः यज्ञमार्गैः । दिवो न वृष्टिः दिवः सकाशात् वृष्टिरिव पवमानः पूयमानः सन् अक्षाः व्याप्नोषि । सोऽयं सोमः सहस्रधारः बहुधारः सन् अस्मे अस्मासु नि असदत् निषीदति ॥
+
+##### Gist of the bhāṣya
+
+The two particles pra and ū are joined into one by nipātana. That Soma, the bearer (the carrier), flows forth by the paths of the sacrifice. Like rain from heaven, being purified, you pervade. This Soma, thousand-streamed, that is, many-streamed, sits down among us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वह्निः (*vahniḥ*)—the one who bears the burden
+- स्यः (*syaḥ*)—Soma
+- पथ्याभिः (*pathyābhiḥ*)—by the paths of sacrifice
+- प्रो अस्यान् (*pro asyān*)—he flows forth
+- पवमानः (*pavamānaḥ*)—O Soma, you who have attained purity
+- दिवः (*divaḥ*)—falling from the atmosphere
+- वृष्टिः न (*vṛṣṭiḥ na*)—like rain
+- अक्षाः (*akṣāḥ*)—you pervade
+- सहस्रधारः (*sahasradhāraḥ*)—having many kinds of streams
+- सोमः (*somaḥ*)—Soma-deva
+- वने (*vane*)—in the water
+- मातुः उपस्थे (*mātuḥ upasthe*)—on the lap of his mother
+- अस्मे (*asme*)—among us
+- न्यासदत् (*nyāsadat*)—he sits **NOTE**
+
+### Printed p. 633
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma who bears the burden flows forth by the paths of the sacrifice. O Soma, you who have attained purity pervade like rain falling from the atmosphere. Soma-deva, with many kinds of streams, sits among us in the water, on the lap of his mother.
+
+##### English translation
+This horse of burden moves forth by the (sacrificial) paths ; when purified you flow like the rain from heaven ; the thousand-streamed Soma sits down amongst us on his mother's lap in the water.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> राजा॒ सिंधू॑नामवसिष्ट॒ वास॑ ऋ॒तस्य॒ नाव॒मारु॑ह॒द्रजि॑ष्ठाम् ।  
+> अ॒प्सु द्र॒प्सो वा॑वृधे श्ये॒नजू॑तो दु॒ह ईं॑ पि॒ता दु॒ह ईं॑ पि॒तुर्जाम् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> राजा । सिंधूनाम् । अवसिष्ट । वासः । ऋतस्य । नावम् । आ । अरुहत् । रजिष्ठाम् ।  
+> अप्ऽसु । द्रप्सः । ववृधे । श्येनऽजूतः । दुहे । ईम् । पिता । दुहे । ईम् । पितुः । जाम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं राजा सोमः सिंधूनाम् उदकानां क्षीरादिस्यंदिनीनां गवां वा वासः वसनस्थानीयं क्षीराख्यं श्रयणद्रव्यम् अवसिष्ट आच्छादयति । तथा कृत्वा रजिष्ठाम् ऋजुतराम् ऋतस्य यज्ञस्य नावमारुहत् आरोहति । सः द्रप्सः सोमरसः श्येनजूतः श्येनेनापहृतो रसः अप्सु वसतीवरीषु ववृधे वर्धते। ईं तमिमं पितुः पालकात् पितृस्थानीयात् द्युलोकात् जां जातमपत्यं सोमम् ईम् अयं पिता पालको लोकः दुहे दोग्धि रसम् । तथाध्वर्युरपि दुहे दोग्धि । अथवा । उक्तलक्षणमेतं सोमं पिता पालकः स्वामी यजमानो दोग्धि फलं तथा दुहेऽध्वर्युरपि रसं दुहे। यद्वा । दुह ईमिति पुनरुक्तिरादरार्था ॥
+
+##### Gist of the bhāṣya
+
+This king Soma puts on, covers himself with, the garment of the rivers, that is, of the waters, or of the cows that flow with milk and so on: the mixing substance called milk, which stands as a garment. Having done so, he mounts the straightest ship of the ṛta, the sacrifice. That drop, the Soma juice, brought by the falcon, grows in the waters, the Vasatīvarī waters. Him, the child born of the father, the protecting world of heaven, this father, the protecting world, milks, that is, milks out the juice; so also the Adhvaryu milks. Or else: the father, the protector, the master, the sacrificer, milks this Soma of the stated character, that is, the fruit; and in the same way the Adhvaryu milks out the juice. Or else: the repetition दुह ईमिति (*duha īmiti*) is for emphasis.
+
+### Printed p. 634
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजा (*rājā*)—Soma-deva, the lord
+- सिंधूनां (*siṃdhūnāṃ*)—of the flowing milk and the rest
+- वासः (*vāsaḥ*)—the mixing substances that are like a covering
+- अवसिष्ट (*avasiṣṭa*)—he has put on
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- रजिष्ठां (*rajiṣṭhāṃ*)—of straight course
+- नावं (*nāvaṃ*)—the boat
+- अरुहत् (*aruhat*)—he has ascended
+- श्येनजूतः (*śyenajūtaḥ*)—brought by the falcon
+- द्रप्पः (*drappaḥ*)—the Soma juice **NOTE**
+- अप्सु (*apsu*)—in the Vasatīvarī waters and the rest
+- ववृधे (*vavṛdhe*)—it grows
+- पितुः (*pituḥ*)—from the protecting world of heaven
+- जां (*jāṃ*)—born
+- ईं (*īṃ*)—this Soma juice
+- ईं पिता (*īṃ pitā*)—this protecting world
+- दुहे (*duhe*)—milks
+
+##### भावार्थ (Bhāvārtha)
+
+The lord Soma-deva is mixed with the mixing substances, like a covering, of the flowing milk and the rest. He has ascended the boat of the sacrifice, of straight course. The Soma juice brought by the falcon grows in the Vasatīvarī waters and the rest. This world milks the juice from the Soma born of the protecting world of heaven.
+
+##### English translation
+The sovereign Soma has put on the vestment of the waters, he has ascended the most straight-going ship of sacrifice ; the dripping juice brought by the falcon has increased in the waters ; the father milks him--milks him the son of the father.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सिं॒हं न॑संत॒ मध्वो॑ अ॒यासं॒ हरि॑मरु॒षं दि॒वो अ॒स्य पति॑म् ।  
+> शूरो॑ यु॒त्सु प्र॑थ॒मः पृ॑च्छते॒ गा अस्य॒ चक्ष॑सा॒ परि॑ पात्यु॒क्षा ॥३॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सिंहम् । नसंत । मध्वः । अयासम् । हरिम् । अरुषम् । दिवः । अस्य । पतिम् ।  
+> शूरः । युत्ऽसु । प्रथमः । पृच्छते । गाः । अस्य । चक्षसा । परि । पाति । उक्षा ॥ ३ ॥
+
+### Printed p. 635
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सिंहं शत्रूणां हिंसकं सिंहसदृशं मध्वः उदकस्य अयासं प्रेरकं हरिं हरितवर्णम् अस्य दिवः द्युलोकस्य पतिं पालकं सोमं नसंत व्याप्नुवंति यजमानाः। युत्सु संग्रामेषु शूरः प्रथमः देवानां मध्ये मुख्यः सोमः गाः पणिभिरपहृताः पृच्छते मार्गज्ञान् । पणीन् हत्वा गा लब्धुं गोमार्गं पृच्छतीत्यर्थः । किंच अस्य चक्षसा सामर्थ्येन उक्षा सेक्ता देवेंद्रः परि पाति विश्वम् ॥
+
+##### Gist of the bhāṣya
+
+Soma is the lion, the destroyer of enemies, like a lion; the impeller of the water (madhu); the green-coloured; the lord, the protector, of this world of heaven. The sacrificers reach him. In battles Soma, the hero, first, that is, chief among the gods, asks after the cows carried off by the Paṇis, asks those who know the way: the meaning is that, having slain the Paṇis, he asks for the cows' path in order to obtain the cows. Further, by his sight, that is, by his power, the sprinkler, Devendra, protects the universe.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अरुषं (*aruṣaṃ*)—golden-hued (attractive)
+- अस्य दिवः (*asya divaḥ*)—of this world of heaven
+- पतिं (*patiṃ*)—the protector
+- सिंहं (*siṃhaṃ*)—of the nature of a lion to enemies
+- मध्वः (*madhvaḥ*)—to the sweet water
+- अयासं (*ayāsaṃ*)—the impeller
+- हरिं (*hariṃ*)—the Soma-deva who is of green colour
+- नसंत (*nasaṃta*)—the sacrificers approach
+- युत्सु (*yutsu*)—in battles
+- शूरः (*śūraḥ*)—valiant
+- प्रथमः (*prathamaḥ*)—chief among the gods; this Soma
+- गाः (*gāḥ*)—the cows
+- पृच्छते (*pṛcchate*)—seeks (tries to learn the path of the cows)
+- अस्य (*asya*)—of this Soma
+- चक्षसा (*cakṣasā*)—by the power
+- उक्षा (*ukṣā*)—Indra, the giver of what is desired
+- परि पाति (*pari pāti*)—protects the world
+
+##### भावार्थ (Bhāvārtha)
+
+The sacrificers approach Soma-deva, who is attractive and golden-hued, the protector of the world of heaven, of the nature of a lion to enemies, the impeller of the sweet water, and green-coloured. Soma, who is valiant in battles and chief among the gods, asks in order to learn the path of the cows. By the power of this Soma, Indra, the giver of what is desired, protects the world.
+
+##### English translation
+(The worshippers) reach the lion-like (Soma) the dispenser of water, green-tinted, red, the protector of this heaven ; a hero in battles, first (among the gods) he seeks the (stolen) cows; by his might the sprinkler (Indra) protects (the universe).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मधु॑पृष्ठं घो॒रम॒यास॒मश्वं॒ रथे॑ युंजंत्युरुच॒क्र ऋ॒ष्वम् ।  
+> स्वसा॑र ईं जा॒मयो॑ मर्जयंति॒ सना॑भयो वा॒जिन॑मूर्जयंति ॥ ४ ॥
+
+### Printed p. 636
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मधुऽपृष्ठम् । घोरम् । अयासम् । अश्वम् । रथे । युंजंति । उरुऽचक्रे । ऋष्वम् ।  
+> स्वसारः । ईम् । जामयः । मर्जयंति । सऽनाभयः । वाजिनम् । ऊर्जयंति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मधुपृष्ठं मधुरपृष्ठभागं घोरं भयानकम् अयासं गंतारम् ऋष्वं दर्शनीयमुक्तलक्षणाश्वस्थानीयं व्याप्तं सोमम् उरुचक्रे प्रभूतचक्रे रथे यथाश्वं रथे युंजंति रथिकास्तद्वत् प्रभूतचरणे रथे रंहस्य साधने यज्ञाख्ये रथे युंजंति । योजयंत्यध्वर्य्वादयः । किंच ईम् एनं सोमं स्वसारः स्वयंसारिण्यः परस्परं स्वसृभूता वा जामयः बंधुभूता अंगुलयः । एकहस्तनिष्पन्नत्वात् स्वसृत्वं जामित्वं च । एवंभूताः मार्जयंति शोधयंति । तदेवाह । सनाभयः समानबंधनाः वाजिनं बलवंतं सोमम् ऊर्जयंति बलिनं कुर्वंति ॥
+
+##### Gist of the bhāṣya
+
+Soma, with a honeyed (sweet) back, terrible, a goer, ṛṣva (beautiful), pervading, standing in the place of a horse of the stated character: as charioteers yoke a horse to a broad-wheeled car, so the Adhvaryu and the others yoke him to the car called the sacrifice, which has many feet and is the means of speed. Further, the fingers, which move of themselves, or are sisters to one another, and are kinsfolk (being produced from one hand they are sisters and kin), cleanse this Soma. He says the same: the fingers, having a common bond, invigorate the strong Soma, make him strong.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुपृष्ठः (*madhupṛṣṭhaḥ*)—having a back of the form of water **NOTE**
+- घोरं (*ghoraṃ*)—terrible
+- अयासं (*ayāsaṃ*)—swift-going
+- ऋष्टं (*ṛṣṭaṃ*)—attractive; the horse in the form of Soma **NOTE**
+- उरुचक्रे (*urucakre*)—with wide wheels
+- रथे (*rathe*)—in the car in the form of the sacrifice
+- युंजंति (*yuṃjaṃti*)—the priests yoke
+- जामयति (*jāmayati*)—kindred **NOTE**
+- स्वसारः (*svasāraḥ*)—the fingers
+- ईं (*īṃ*)—this Soma
+- मार्जयंति (*mārjayaṃti*)—they purify
+- सनाभयः (*sanābhayaḥ*)—these fingers, with equal kinship
+- वाजिनं (*vājinaṃ*)—the Soma endowed with strength
+- ऊर्जयंति (*ūrjayaṃti*)—they make strong
+
+##### भावार्थ (Bhāvārtha)
+
+The horse in the form of Soma, having a back of the form of water, terrible, swift-going and attractive, the priests yoke in the car called the sacrifice, which has wide wheels. The fingers, who are kinsfolk, purify this Soma. These fingers, with equal kinship, make the Soma endowed with strength strong.
+
+### Printed p. 637
+
+##### English translation
+(The priests) attach to the broad-wheeled car the glossy backed terrible active graceful horse ; the sister fingers cleanse him ; the kinsfolk invigorate the mighty (Soma).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> चत॑स्र ईं घृत॒दुहः॑ सचंते समा॒ने अं॒तर्ध॒रुणे॒ निष॑त्ताः ।  
+> ता ई॑मर्षंति॒ नम॑सा पुना॒नास्ता ईं॑ वि॒श्वतः॒ परि॑ षंति पू॒र्वीः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> चतस्रः । ईम् । घृतऽदुहः । सचंते । समाने । अंतः । धरुणे । निऽसत्ताः ।  
+> ताः । ईम् । अर्षंति । नमसा । पुनानाः । ताः । ईम् । विश्वतः । परि । संति । पूर्वीः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चतस्रः घृतदुहः घृतदोग्ध्र्यो गावः ईम एनं सोमं सचंते सेवंते । कीदृश्यस्ताः । समाने एकस्मिन् धरुणे सर्वेषां धारकेऽंतरिक्षे निषत्ताः निषण्णाः । ताः घृतदुहः ईम एनम् अर्षंति प्राप्नुवंति नमसा अन्नेन पुनानाः पूयमानाः सत्यः। ताः पूर्वीः बह्व्यः प्रभूता गावः विश्वतः सर्वतः परि षंति परिभवंति ॥  विष्टंभो दिवो धुरुणः पृथिव्या विश्व उत क्षितयो हस्ते अस्य ।
+
+##### Gist of the bhāṣya
+
+Four ghee-milking cows serve this Soma. How are they? Seated in the one supporter of all, the atmosphere. Those ghee-milking cows reach him, being purified by namas, that is, by food. Those many cows, numerous, surround him on all sides. The block continues with विष्टंभो दिवो धुरुणः पृथिव्या विश्व उत क्षितयो हस्ते अस्य । (*viṣṭaṃbho divo dhuruṇaḥ pṛthivyā viśva uta kṣitayo haste asya |*) **GLOSS** **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समाने धरुणे अंतः (*samāne dharuṇe aṃtaḥ*)—in the atmosphere, the one supporter of the whole world
+- निषत्ताः (*niṣattāḥ*)—seated
+- घृतदुहः (*ghṛtaduhaḥ*)—that milk ghee
+- चतस्रः (*catasraḥ*)—the four cows
+- ईं (*īṃ*)—this Soma
+- सचंते (*sacaṃte*)—they serve
+- पुनानाः (*punānāḥ*)—having attained purity
+- ताः (*tāḥ*)—they
+- ईं (*īṃ*)—this Soma
+- नमसा (*namasā*)—with food
+- अर्षंति (*arṣaṃti*)—they approach
+- पूर्वीः (*pūrvīḥ*)—numerous
+- ताः (*tāḥ*)—they
+- विश्वतः (*viśvataḥ*)—on all sides
+- परि षंति (*pari ṣaṃti*)—they stand surrounding
+
+##### भावार्थ (Bhāvārtha)
+
+The four cows that milk ghee, seated in the atmosphere, the one supporter of the whole world, serve this Soma. Having attained purity, they approach this Soma with food. Numerous, they stand surrounding on all sides.
+
 ---
 
-**Progress note:** Done through printed p. 631. Sūkta 88 Ṛks 4-8 (Bhāvārtha of 3 to 8), start of Sūkta 89
+**Progress note:** Done through printed p. 637. Sūkta 89 Ṛks 1-5 (to Bhāvārtha of Ṛk 5)
