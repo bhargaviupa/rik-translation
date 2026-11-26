@@ -20179,6 +20179,272 @@ O Nāsatyas, leaders of truth, united, both of you come to my, Jamadagni's, upli
 - वीतये (*vītaye*)—to eat
 - प्रति (*prati*)—come
 
+### Printed p. 525
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, both of you, united, come facing my praises, which are uttered aloud and recited and are of exceeding brightness, and facing my rites. Come to eat the oblations offered by me.
+
+##### English translation
+O associated Nasatyas, come both of you to my uplifted glorious praises and my rites, come to partake of my offerings.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> रा॒तिं यद्वा॑मर॒क्षसं॒ हवा॑महे यु॒वाभ्यां॑ वाजिनीवसू ।  
+> प्राचीं॒ होत्रां॑ प्रति॒रंता॑वितं नरा गृणा॒ना ज॒मद॑ग्निना ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रातिम् । यत् । वाम् । अरक्षसम् । हवामहे । युवाभ्याम् । वाजिनीवसू इति वाजिनीऽवसू ।  
+> प्राचीम् । होत्राम् । प्रऽतिरंतौ । इतम् । नरा । गृणाना । जमत्ऽअग्निना ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वाजिनीवसू अन्नधनावश्विनौ वां युवयोः संबंधि यत् अरक्षसं रक्षोवर्जितं दानमस्ति तत् यदा हवामहे । एतदेव विशदयति । युवाभ्यां क्रियमाणां रातिं दानं हवामहे इति । तदानीं प्राचीं प्राङ्मुखां होत्रां स्तुतिं प्रतिरंतौ वर्धयंतौ नरा नेतारौ जमदग्निना ऋषिणा गृणानौ स्तूयमानौ च संतौ इतम् आगच्छतम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, who have food and wealth, when we call (हवामहे (*havāmahe*)) for your gift, which is free from demons, that is, a gift free from the harm of demons — Sāyaṇa makes this clear: we call for the gift made by you — then, increasing our praise that is directed to the east, O leaders, praised by the seer Jamadagni, come to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनीवसू (*vājinīvasū*)—O Aśvins, who have food as wealth
+- वां (*vāṃ*)—that which belongs to you
+- अरक्षसं (*arakṣasaṃ*)—that which is free from the harm of demons
+- युवाभ्यां (*yuvābhyāṃ*)—that which is given by you
+- रातिं (*rātiṃ*)—wealth
+- यत् (*yat*)—when
+- हवामहे (*havāmahe*)—we ask for, then
+- प्राचीं (*prācīṃ*)—that which is recited facing east
+- होत्रां (*hotrāṃ*)—our praise
+
+### Printed p. 526
+
+- प्रति रंतौ (*prati raṃtau*)—you who increase
+- नराः (*narāḥ*)—leaders
+- जमदग्निना (*jamadagninā*)—by Jamadagni
+- गृणाना (*gṛṇānā*)—praised
+- इतं (*itaṃ*)—favour us
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, who have food as wealth, when we ask for the gift that belongs to you, that is free from the harm of demons and is given by you, then, you who increase our praise recited facing east, you leaders, praised by Jamadagni, favour us.
+
+##### English translation
+Deities rich in food, when we solicit your bounty, that ( wealth ) which demons cannot thwart,—then, helping our praise directed to the east, come, leaders of rites, worshipped by Jamadagni.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ य॒ज्ञं दि॑वि॒स्पृशं॒ वायो॑ या॒हि सु॒मन्म॑भिः ।  
+> अं॒तः प॒वित्र॑ उ॒परि॑ श्रीणा॒नो॒३॒॑ऽयं शु॒क्रो अ॑यामि ते ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । यज्ञम् । दिविऽस्पृशम् । वायो इति । याहि । सुमन्मऽभिः ।  
+> अंतरिति । पवित्रे । उपरि । श्रीणानः । अयम् । शुक्रः । अयामि । ते ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वायो त्वं नः अस्माकं दिविस्पृशं तं यज्ञम् आ याहि । किमर्थमागमनमित्यत्राह । सुमन्मभिः सुष्टुतिभिः अंतः पवित्रे पवित्रस्य मध्ये उपरि श्रीणानः श्रयमाणो निषिच्यमानः अयं शुक्रः सोमः ते तुभ्यम् अयामि नियत आसीदिति ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, come to our sacrifice, which touches heaven. Why should you come? Sāyaṇa answers: with good praises. This bright Soma, being poured on top, in the middle of the straining cloth, has been set in place for you (अयामि नियत आसीदिति (*ayāmi niyata āsīditi*)). **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वायो (*vāyo*)—O Vāyu
+- दिविस्पृशं (*divispṛśaṃ*)—that touches heaven
+- नः यज्ञं (*naḥ yajñaṃ*)—to our sacrifice
+- आ याहि (*ā yāhi*)—favour us
+- सुमन्मभि (*sumanmabhi*)—with excellent praises
+- अंतः पवित्रे (*aṃtaḥ pavitre*)—of the middle part of the straining cloth
+- उपरि (*upari*)—upon
+- श्रीणानः (*śrīṇānaḥ*)—that which is poured out
+- शुक्रः (*śukraḥ*)—and is bright
+- अयं (*ayaṃ*)—this Soma
+- ते (*te*)—for you
+- अयामि (*ayāmi*)—I offer
+
+### Printed p. 527
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, favour this sacrifice of ours, which touches heaven. This bright Soma, poured upon the middle part of the straining cloth with excellent praises, I offer to you.
+
+##### English translation
+Come, Vayu, to our heaven-reaching sacrifice with its beautiful hymns of praise ; this bright Soma has been kept for you-poured out upon the middle of the straining cloth·
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वेत्य॑ध्व॒र्युः प॒थिभी॒ रजि॑ष्ठैः॒ प्रति॑ ह॒व्यानि॑ वी॒तये॑ ।  
+> अधा॑ नियुत्व उ॒भय॑स्य नः पिब॒ शुचिं॒ सोमं॒ गवा॑शिरम् ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वेति । अध्वर्युः । पथिऽभिः । रजिष्ठैः । प्रति । हव्यानि । वीतये ।  
+> अध । नियुत्वः । उभयस्य । नः । पिब । शुचिम् । सोमम् । गोऽआशिरम् ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे नियुत्वः नियुत्संज्ञकाश्ववन् वायो अध्वर्युः हविर्धानात् रजिष्ठैः ऋजुतमैः पथिभिः मार्गैः वेति गच्छति । वीतये भक्षणाय तव भक्षणानि हव्यानि हवींषि च प्रति नयतीति शेषः । अध अथ नः अस्माकं संबंधिनम् उभयस्य उभयविधं सोमम् । कर्मणि षष्ठी। पिब । उभयविधत्वं दर्शयति । शुचिं शुद्धं सोमं गवाशिरं गव्येन पयसा मिश्रितं चेति ॥ ॥ ७ ॥
+
+##### Gist of the bhāṣya
+
+O Vāyu, lord of the horses called Niyut, the Adhvaryu goes from the हविर्धानात् (*havirdhānāt*) by the straightest paths. For your eating he brings to you the oblations meant for your eating: "brings" (नयतीति (*nayatīti*)) is to be supplied. Then drink of our Soma, which is of both kinds (उभयस्य (*ubhayasya*)). He explains the two kinds: the pure Soma, and that mixed with the milk of the cow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नियुत्वः (*niyutvaḥ*)—O Vāyu, who have horses called Niyut
+- अध्वर्युः (*adhvaryuḥ*)—the Adhvaryu
+- रजिष्ठैः (*rajiṣṭhaiḥ*)—by the straightest
+- पथिभिः (*pathibhiḥ*)—paths
+- वेति (*veti*)—comes
+- वीतये (*vītaye*)—for your eating
+- हव्यानि (*havyāni*)—the oblations
+- प्रति (नयति) (*prati (nayati)*)—he brings and offers
+- अध (*adha*)—afterwards
+
+### Printed p. 528
+
+- नः (*naḥ*)—offered by us
+- शुचिं (*śuciṃ*)—that which is pure
+- गवाशिरं (*gavāśiraṃ*)—and that which is mixed with milk and the like (thus)
+- उभयस्य (*ubhayasya*)—of two kinds
+- सोमं (*somaṃ*)—Soma
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Vāyu, who have horses called Niyut, the Adhvaryu comes by the straightest paths. For your eating he brings and offers the oblations. Afterwards, drink the Soma offered by us, which is of two kinds, the pure and that mixed with milk and the like.
+
+##### English translation
+The ministrant priest comes by the straightest paths, he brings the oblations for your enjoyment ; then lord of the Niyut steeds, drink of both kinds, the Soma pure and that mixed with milk·
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बण्म॒हाँ अ॑सि सूर्य॒ बळा॑दित्य म॒हाँ अ॑सि ।  
+> म॒हस्ते॑ स॒तो म॑हि॒मा प॑नस्यते॒ऽद्धा दे॑व म॒हाँ अ॑सि ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । महान् । असि । सूर्य । बट् । आदित्य । महान् । असि ।  
+> महः । ते । सतः । महिमा । पनस्यते । अद्धा । देव । महान् । असि ॥ ११ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य त्वं महान् तेजसाधिकः असि । बट् सत्यम्। नैतन्मिथ्येत्यर्थः। हे आदित्य अदितेः पुत्र त्वं महान् बलेनाप्यधिकः असि । बट् सत्यम् । महः महतः सतः भवतः ते महिमा महत्त्वं पनस्यते स्तोतृभिः स्तूयते । हे देव द्योतनादिगुणयुक्त सूर्य त्वं महान् वीर्येणाप्यधिकः असि भवसि । अद्धा सत्यमेव । अत्र न संशय इत्यर्थः । ‘ बट् सत्रा अद्धा ' इति सत्यनामसु पाठात् ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, you are great, greater in brilliance: बट् (*baṭ*), that is, it is true; this is not false. O Āditya, son of Aditi, you are great, greater also in strength: it is true. Of you, who are great, the greatness is praised by the praisers. O god, Sūrya, endowed with qualities such as shining, you are great, greater also in valour; अद्धा (*addhā*) means "truly": there is no doubt in this. For बट् सत्रा अद्धा (*baṭ satrā addhā*) are read among the names of truth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sūrya
+- त्वं (*tvaṃ*)—you
+- महान् (*mahān*)—you are greater in brilliance
+- बट् (*baṭ*)—this is true
+- आदित्य (*āditya*)—O Sūrya, son of Aditi
+- महान् (*mahān*)—you are greater also in strength,
+
+### Printed p. 529
+
+- असि (*asi*)—you are
+- बट् (*baṭ*)—this too is true
+- महः (*mahaḥ*)—who are of great nature
+- सतः ते (*sataḥ te*)—your
+- महिमा (*mahimā*)—greatness
+- पनस्यते (*panasyate*)—is praised by the praisers
+- देव (*deva*)—O Sūrya, divine in nature
+- महान् (*mahān*)—you who have superior valour
+- असि (*asi*)—you are
+- अद्धा (*addhā*)—this is true
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, you are greater in brilliance. This is true. O Sūrya, son of Aditi, you are greater also in strength. This too is true. The greatness of you, who are of great nature, is praised by the praisers. O Sūrya, divine in nature, you have superior valour. This is true.
+
+##### English translation
+Verily you are great, O Sun ; verily, Aditya, you are great ; the greatness, of you. the great one, is praised ; verily you are great, O god.
+
+#### Ṛk 12
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बट् सू॑र्य॒ श्रव॑सा म॒हाँ अ॑सि स॒त्रा दे॑व म॒हाँ अ॑सि ।  
+> म॒ह्ना दे॒वाना॑मसु॒र्यः॑ पु॒रोहि॑तो वि॒भु ज्योति॒रदा॑भ्यम् ॥ १२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बट् । सूर्य । श्रवसा । महान् । असि । सत्रा । देव । महान् । असि ।  
+> मह्ना । देवानाम् । असुर्यः । पुरःऽहितः । विऽभु । ज्योतिः । अदाभ्यम् ॥ १२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सूर्य त्वं श्रवसा श्रवणेन महान् सर्वाधिकः असि बट् सत्यम् । हे देव द्योतमान सूर्य त्वं देवानां मध्ये मह्ना महत्त्वेन महान् अधिकः असि सत्रा सत्यमेव । असुर्यः असुराणां हंता चासि । किंच त्वं देवानां पुरोहितः हितोपदेष्टासि। किंच ते ज्योतिः तेजः विभु महत् अदाभ्यं केनाप्यहिंस्यं च ॥
+
+##### Gist of the bhāṣya
+
+O Sūrya, you are great by श्रवणेन (*śravaṇena*) (hearing), greater than all: बट् (*baṭ*), it is true. O shining god Sūrya, among the gods you are great in greatness, greater than they: सत्रा (*satrā*), it is indeed true. You are also the slayer of the Asuras. And you are the purohita of the gods, one who instructs them in what is good for them. Moreover your brilliance is vast, great, and cannot be harmed by anyone. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Sūrya
+- श्रवसा (*śravasā*)—by fame
+- महान् (*mahān*)—greater than all
+- असि (*asi*)—you are
+- बट् (*baṭ*)—this is true
+- देव (*deva*)—O resplendent Sūrya
+
+### Printed p. 530
+
+- देवानां (*devānāṃ*)—among the gods
+- मह्ना (*mahnā*)—by greatness
+- महान् (*mahān*)—exceedingly great
+- असि (*asi*)—you are
+- सत्रा (*satrā*)—this is true
+- असुर्यः (*asuryaḥ*)—you are the destroyer of the Asuras
+- पुरोहितः (*purohitaḥ*)—and you are the counsellor of the gods in what is good for them
+- ज्योतिः (*jyotiḥ*)—your brilliance
+- विभुः (*vibhuḥ*)—is all-pervading
+- अदाभ्यं (*adābhyaṃ*)—and unobstructed
+
+##### भावार्थ (Bhāvārtha)
+
+O Sūrya, you are greater than all in fame. This is true. O resplendent Sūrya, among the gods you are exceedingly great in greatness. This is true. You are the destroyer of the Asuras and the counsellor of the gods in what is good for them. Your brilliance is all-pervading and unobstructed.
+
+##### English translation
+Verily, O Sun, you are great in fame ; O god, you are indeed mighty among the gods in might ; you are the slayer of the Asuras, and the preceptor(of the gods); your glory is widespread and to be marred by none·
+
+#### Ṛk 13
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒यं या नीच्य॒र्किणी॑ रू॒पा रोहि॑ण्या कृ॒ता ।  
+> चि॒त्रेव॒ प्रत्य॑दर्श्याय॒त्य१॒ं॑तर्द॒शसु॑ बा॒हुषु॑ ॥ १३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयम् । या । नीची । अर्किणी । रूपा । रोहिण्या । कृता ।  
+> चित्राऽइव । प्रति । अदर्शि । आऽयती । अंतः । दशऽसु । बाहुषु ॥ १३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अस्यामृचि उषसः स्तुतिः सूर्यप्रभाया वा । या इयं नीची अवाङ्मुखी अर्किणी स्तुतिमती रूपा रूपवती रोहिण्या प्रकाशयुक्ता कृता उषाः सूर्यप्रभा वोत्पादिता सा अंतः ब्रह्मांडस्य मध्ये बाहुषु बाहुस्थानीयासु दशसु दशसंख्याकासु दिक्षु आयती आगच्छंती चित्रेव चित्रा गौरिव प्रत्यदर्शि सर्वैरदृश्यत ॥
+
+##### Gist of the bhāṣya
+
+In this Ṛk there is praise of Uṣas, or of the radiance of the sun. This one, turned downward, praised, endowed with form, made radiant, whether Uṣas or the radiance of the sun that has been produced, was seen by all, coming within the cosmic egg through the ten directions, which stand in the place of arms, like a variegated cow.
+
 ---
 
-**Progress note:** Done through printed p. 524. Sūkta 101 Ṛk 1 end to Ṛk 7, pp. 519-524
+**Progress note:** Done through printed p. 530. Vol 25 pp. 525-530: Ṛk 7 end, Ṛk 8-13 of sūkta 101
