@@ -10057,6 +10057,279 @@ The strong Soma, urged on by the impellers, the singers, with their praises, and
 
 As warriors, killers of enemies, enter the battlefield, so the powerful Soma-deva, urged on by the singers and gathered, enters the contest that has the form of a sacrifice.
 
+### Printed p. 278
+
+##### English translation
+The powerful Soma urged by the urging (worshippers) goes collected to the battle like warriors entering (the battle-field).
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒धक्सो॑म स्व॒स्तये॑ संजग्मा॒नो दि॒वः क॒विः ।  
+> पव॑स्व॒ सूर्यो॑ दृ॒शे ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋधक् । सोम । स्वस्तये । सम्ऽजग्मानः । दिवः । कविः ।  
+> पवस्व । सूर्यः । दृशे ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम कविः क्रांतः सूर्यः सुवीर्यस्त्वम् ऋधक् ऋध्नुवन् । तथा च यास्कः-‘ऋधगिति पृथग्भावस्यानुप्रवचनं भवत्यथाप्यृध्नोत्यर्थे दृश्यते' (निरु. ४. २५ ) इति । संजग्मानः संगच्छमानः स्वस्तये दृशे दर्शनाय च दिवः पवस्व क्षर ॥ ॥ ४१ ॥
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये सप्तमाष्टके प्रथमोऽध्यायः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are the sage, the far-seeing one, the one of good valour, and you are ऋधक् (*ṛdhak*), that is, prospering. Sāyaṇa cites Yāska: "ऋधगिति पृथग्भावस्यानुप्रवचनं भवत्यथाप्यृध्नोत्यर्थे दृश्यते (*ṛdhagiti pṛthagbhāvasyānupravacanaṃ bhavatyathāpyṛdhnotyarthe dṛśyate*)" (Ni. 4. 25). Coming together, approaching, flow from heaven for our welfare and for the sight, that is, for the vision. The verse that follows is the benediction closing the chapter: removing the darkness of the heart by the illumination of the meaning of the Veda, may Vidyātīrtha-Maheśvara grant the four aims of man. It ends with the colophon: this was composed by Sāyaṇācārya, bearer of the burden of the empire of the glorious king Vīra Bukka, promoter of the Vedic path, in the Mādhavīya Vedārthaprakāśa, the commentary on the Ṛksaṃhitā; the first chapter of the seventh aṣṭaka.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- कविः (*kaviḥ*)—of far-reaching wisdom
+- सूर्यः (*sūryaḥ*)—endowed with valour
+- यधक् (*yadhak*)**NOTE**—you, who attain growth
+- संजग्मानः (*saṃjagmānaḥ*)—coming toward us
+- स्वस्तये (*svastaye*)—for our welfare
+- दृशे (*dṛśe*)—for the sight
+- दिवः (*divaḥ*)—from the atmosphere
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you of far-reaching wisdom, endowed with valour, and attaining growth, coming toward us, flow from the atmosphere for our welfare and for the sight.
+
+##### English translation
+Soma, you are a sage mighty and prospering, approaching flow from heaven for our prosperity and view.
+
+### Printed p. 279
+
+**Colophon and benediction**
+
+वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् । प्रमथांश्च तुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasya prakāśena tamo hārdaṃ nivārayan | pramathāṃśca turo deyādvidyātīrthamaheśvaraḥ ‖*)**NOTE** **GLOSS**
+
+इति श्रीमद्राजाधिराज परमेश्वर वैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये सप्तमाष्टके प्रथमोऽध्यायः समाप्तः ॥ (*iti śrīmadrājādhirāja parameśvara vaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye saptamāṣṭake prathamo 'dhyāyaḥ samāptaḥ ‖*) **GLOSS**
+
+ओं तत्त्वत् (*oṃ tattvat*)
+
+Here ends the first chapter in the seventh aṣṭaka of the Ṛgveda-saṃhitā, with the bhāṣya of Śrī Sāyaṇa and the Karṇāṭaka translation.
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तुते ॥ (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stute ‖*) **GLOSS**
+
+शुभं भूयात् (*śubhaṃ bhūyāt*)
+
+1 मंगळं (*maṃgaḷaṃ*)
+
+**Opening invocation of the second chapter**
+
+ओं (*oṃ*)
+
+श्रीः (*śrīḥ*)
+
+श्री गणाधिपतये नमः (*śrī gaṇādhipataye namaḥ*) **GLOSS**
+
+नागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*nāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*) **GLOSS**
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*) **GLOSS**
+
+वेदः शिवः शिवो वेदो वेदध्याया सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedadhyāyā sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*) **GLOSS**
+
+## Sūkta 65 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋग्वेदसंहिता
+> भाग २६
+> ॥ अथ सप्तमाष्टके द्वितियोऽध्यायः ॥
+> एळनॆय अष्टकदल्लि ऎरडनॆय अध्यायवु.
+> ऒंभत्तनॆय मंडलदल्लि अरवत्तैदनॆय सूक्तवु
+
+##### Gist of the bhāṣya
+
+The Ṛgveda-saṃhitā, Part 26. Here begins the second chapter in the seventh aṣṭaka: the sixty-fifth sūkta in the ninth maṇḍala.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ॥ श्रीगणेशाय नमः ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरम् ॥
+> ‘ हिन्वंति' इति त्रिंशदृचं पंचमं सूक्तं वरुणपुत्रस्य भृगोरार्षं भार्गवस्य जमदग्नेर्वा गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रम्यते-- हिन्वंति भृगुर्वारुणिर्जमदग्निर्वा ' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+Salutation to Gaṇeśa. The verse of homage: I praise Vidyātīrtha-Maheśvara, whose breath the Vedas are, and who made the whole world out of the Vedas. The sūkta beginning हिन्वंति (*hinvaṃti*), of thirty Ṛks, the fifth sūkta, has as its seer Bhṛgu, son of Varuṇa, or Jamadagni of the line of Bhṛgu; its metre is Gāyatra and its deity Pavamāna Soma. So the Anukramaṇī says: हिन्वंति भृगुर्वारुणिर्जमदग्निर्वा (*hinvaṃti bhṛgurvāruṇirjamadagnirvā*). The application has already been stated.
+
+The Anuvāda: this sūkta beginning हिन्वंति (*hinvaṃti*) is the fifth sūkta in the third anuvāka. It has thirty Ṛks. Its seer is Bhṛgu, son of Varuṇa, or Jamadagni, son of Bhṛgu; its deity is Pavamāna Soma; its metre is Gāyatrī. In the Anukramaṇikā it is said: हिन्वंति भृगुर्वारुणिर्जमदग्निर्वा (*hinvaṃti bhṛgurvāruṇirjamadagnirvā*). The application was stated earlier.
+
+### Printed p. 281
+
+- Maṇḍala 9; Anuvāka 3; Sūkta 65.
+- Aṣṭaka 7; Adhyāya 2; Vargas 1, 2, 3, 4, 5, 6.
+- Number of Ṛks in the sūkta: 30.
+- Seer: Bhṛgu, son of Varuṇa, or Jamadagni.
+- Deity: Pavamāna Soma.
+- Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> हि॒न्वंति॒ सूर॒मुस्र॑यः॒ स्वसा॑रो जा॒मय॒स्पति॑म् ।  
+> म॒हामिंदुं॑ मही॒युवः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> हिन्वंति । सूरम् । उस्रयः । स्वसारः । जामयः । पतिम् ।  
+> महाम् । इंदुम् । महीयुवः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्र सर्वत्र पवमानः सोमः स्तूयते । तत्रादावृषिः सोमं प्रत्याह । मदीया अंगुलयस्त्वामभिषोतुं प्रेरयंतीति । तदुच्यते । स्वसारः । अंगुलिनामैतत् । सुष्ठु कर्मसु प्रेर्यंत ऋत्विग्भिरिति स्वसारः । जामयः एकस्मात्पाणेरुत्पन्नत्वात् परस्परं बंधुभूताः उस्रयः कर्मार्थं निवसंत्यः । सर्वत्र गंत्र्य इत्यर्थः । तादृश्योऽंगुलयः महीयुवः त्वदभिषवं कामयमानाः सत्यः सूरं सुवीर्यं सोमे पीते वीर्यं भवतीति शोभनवीर्यकारणं वा सर्वेषां कर्मणि प्रेरकं वा तादृशं पतिं सर्वस्य स्थावरजंगमजातस्य स्वामिनं यस्माद्देवार्थमिज्यते अत एव महां देवेभ्यो दीयमानत्वेन महांतं महनीयं वा इंदुं ग्रहेषु स्यंदमानं सोमं हिन्वंति प्रेरयंति । ‘हि वर्धनगत्योः' । स्वादिः ॥
+
+##### Gist of the bhāṣya
+
+Throughout this sūkta Pavamāna Soma is praised. First the seer says to Soma: my fingers urge you on to be pressed. This is explained. स्वसारः (*svasāraḥ*) is a name of the fingers: they are well urged on in the rites by the priests. जामयः (*jāmayaḥ*): being born from one hand, they are kin to one another. उस्रयः (*usrayaḥ*): dwelling for the rite, that is, going everywhere. Such fingers, महीयुवः (*mahīyuvaḥ*), desiring your pressing, urge on सूरं (*sūraṃ*), the one of good valour (for when Soma is drunk, valour arises), or the cause of good valour, or the impeller of all in the rite; पतिं (*patiṃ*), the lord of all that is fixed and moving, since the sacrifice is made for the gods; for this very reason महां (*mahāṃ*), great, because he is given to the gods, or worthy of honour; इंदुं (*iṃduṃ*), Soma, flowing in the cups.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- जामयः (*jāmayaḥ*)—(O Soma-deva) united ones
+- उस्रयः (*usrayaḥ*)—engaged in the rite
+- स्वसारः (*svasāraḥ*)—the fingers
+- महीयुवः (*mahīyuvaḥ*)—desiring your pressing
+- सूरं (*sūraṃ*)—possessed of valour
+- पतिं (*patiṃ*)—protector of the world
+- महां (*mahāṃ*)—of great nature
+- इंदुं (*iṃduṃ*)—of the nature of a stream, you
+- हिन्वंति (*hinvaṃti*)—squeeze and make flow
+
+### Printed p. 282
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the fingers, united and engaged in the rite, desiring your pressing, squeeze and make flow you, the valorous, the protector of the world, of great nature, of the nature of a stream.
+
+##### English translation
+The kindred fingers diligently operating, eager to squeeze you forth, send out the invigorating, the lord (of all), the mighty Indu,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान रु॒चारु॑चा दे॒वो दे॒वेभ्य॒स्परि॑ ।  
+> विश्वा॒ वसू॒न्या वि॑श ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । रुचाऽरुचा । देवः । देवेभ्यः । परि ।  
+> विश्वा । वसूनि । आ । विश ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान दशापवित्रेण पूयमान यद्वा पुनान शुद्ध सोम रुचारुचा। ‘रुच दीप्तौ । सर्वेण तेजसा देवः दीप्यमानस्त्वं देवेभ्यः परि देवेभ्यः सकाशात् विश्वा व्याप्तानि सर्वाणि बहूनि वसूनि धनानि अस्माकम् आ विश प्रापय । यद्वा। देवेभ्यस्तदर्थं सर्वाणि वसूनि निवासस्थानानि ग्रहादीनि आ विश समंतात् प्रविश ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, Soma purified by the ten-strand filter, or purifier, pure Soma: shining रुचारुचा (*rucārucā*), with all radiance, you, देवः (*devaḥ*), the shining one, from the gods परि (*pari*), that is, from their presence, bring to us all, that is, pervasive and many, वसूनि (*vasūni*), riches: आ विश (*ā viśa*), cause them to reach us. Or else: for the gods, to that end, enter on all sides all the dwelling-places, the cups and the like.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva, the purifier
+- रुचारुचा (*rucārucā*)—with exceeding radiance
+- देवः (*devaḥ*)—you, the shining one
+- देवेभ्यः परि (*devebhyaḥ pari*)—obtained from the gods
+- विश्वा (*viśvā*)—all
+- वसूनि (*vasūni*)—riches
+- आ विश (*ā viśa*)—make them reach us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the purifier, you who shine with exceeding radiance, make all the riches obtained from the gods reach us.
+
+### Printed p. 283
+
+##### English translation
+Filtered Soma, who with reiterated radiance shine in the presence of the gods, obtain all boons (for us).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वमान सुष्टु॒तिं वृ॒ष्टिं दे॒वेभ्यो॒ दुवः॑ ।  
+> इ॒षे प॑वस्व सं॒यत॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवमान । सुऽस्तुतिम् । वृष्टिम् । देवेभ्यः । दुवः ।  
+> इषे । पवस्व । सम्ऽयतम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान पूयमान पुनान वा सोम सुष्टुतिं शोभनस्तुतियुक्तां वृष्टिं देवेभ्यः देवानां दुवः । 'सुपां सुलुक्° ' इति चतुर्थ्यां लुक् । दुवसे परिचरणाय आ पवस्व आगमय । त्वं यथा मदीयया स्तुत्या वृष्टिर्भविष्यति तथा कुर्वित्यर्थः । किं चास्माकम् इषे अन्नार्थं च संयतं सम्यगस्मान् संगच्छंतीं वृष्टिं कुरु । यद्वा । दुवः परिचर्यामभिलक्ष्य क्रियमाणां सुष्टुतिं शोभनस्तुतिरूपां वृष्टिम् । बहुस्तुतिमित्यर्थः । एतां देवेभ्यः प्रापय ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna, Soma, being purified or purifying: bring hither a वृष्टिं (*vṛṣṭiṃ*), a shower, accompanied by good praise, for the gods, दुवः (*duvaḥ*), for their service, that is, their worship. The meaning is: act so that by my praise there will be rain. And for our इषे (*iṣe*), our food, make a संयतं (*saṃyataṃ*), rain that comes to us well together. Or else: the good praise, of the nature of a shower, made with a view to the service, that is, abundant praise: bring this to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma-deva, the purifier
+- सुष्टुतिं (*suṣṭutiṃ*)—accompanied by excellent praise
+- वृष्टिं (*vṛṣṭiṃ*)—the shower
+- देवेभ्यः (*devebhyaḥ*)—addressed to the gods
+- दुवः (*duvaḥ*)—for the ease of worship
+- आ पवस्व (*ā pavasva*)—pour all around
+- इषे (*iṣe*)—for us, for the procuring of food
+- संयतं (*saṃyataṃ*)—pour a shower that flows easily
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the purifier, pour all around a shower accompanied by excellent praise, for the ease of the worship addressed to the gods. Pour a shower that flows easily, for the procuring of food for us.
+
+### Printed p. 284
+
+##### English translation
+Pour, purified (Soma), a well-praised shower for the worship of the gods: (pour) a continual shower for our food.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृषा॒ ह्यसि॑ भा॒नुना॑ द्यु॒मंतं॑ त्वा हवामहे ।  
+> पव॑मान स्वा॒ध्यः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषा । हि । असि । भानुना । द्युऽमंतम् । त्वा । हवामहे ।  
+> पवमान । सुऽआध्यः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वृषा अभिमतफलानां वर्षिता असि हि भवसि खलु । तस्मात् हे पवमान पूयमान पुनान वा सोम स्वाध्यः शोभनकर्माणः सुष्ठु ध्यानवंतो वा वयं भानुना तेजसा द्युमंतं दीप्तिमंतम् । अतिशयेन तेजस्विनमित्यर्थः । स्तुतिमंतं वा त्वा त्वां हवामहे यज्ञेष्वाह्वयामहे ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are indeed the वृषा (*vṛṣā*), the showerer of the desired fruits. Therefore, O Pavamāna, Soma, purified or purifying, we, स्वाध्यः (*svādhyaḥ*), of good works or well given to meditation, invoke you in the sacrifices, द्युमंतं (*dyumaṃtaṃ*), brilliant with भानुना (*bhānunā*), with radiance, that is, exceedingly radiant, or full of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—(O Soma-deva; you) the giver of the desired objects
+- असि हि (*asi hi*)—are indeed
+- पवमान (*pavamāna*)—O Soma-deva, the purifier
+- स्वाध्यः (*svādhyaḥ*)—we, performers of excellent works
+- भानुना (*bhānunā*)—with your own radiance
+- द्युमंतं (*dyumaṃtaṃ*)—majestic
+- त्वा (*tvā*)—you
+- हवामहे (*havāmahe*)—we invoke with prayer
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you are the giver of the desired objects. O Soma-deva, the purifier, we, performers of excellent works, invoke with prayer you, majestic with your own radiance.
+
+##### English translation
+We who perform good works praise you, purified Soma, brilliant with radiance, for you are the showerer (of benefits).
+
 ---
 
-**Progress note:** Done through printed p. 277. Mandala 9 sukta 64 rks 23-29 (pp. 272-277)
+**Progress note:** Done through printed p. 284. Mandala 9 Sukta 64 Rk 30 end; chapter colophon; Sukta 65 Rks 1-4
