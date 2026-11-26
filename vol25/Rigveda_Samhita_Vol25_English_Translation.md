@@ -12227,6 +12227,210 @@ Chandas: 1–2 पंक्तिः (*paṃktiḥ*). 3–7 अनुष्ट�
 - सोमं अपि (*somaṃ api*)—the Soma plant
 - अविदत् (*avidat*)—she saw
 
+### Printed p. 314
+
+- (the Soma plant came to her) afterwards
+- अस्तं (*astaṃ*)—while coming towards her house
+- भरंती (*bharaṃtī*)—bringing that Soma
+- अब्रवीत् (*abravīt*)—she said thus (O Soma)
+- त्वा (*tvā*)—you
+- इंद्राय (*iṃdrāya*)—for Indra, that is, in order to offer to Indra
+- सुनवै (*sunavai*)—I shall tear with my teeth (O) Soma
+- त्वा (*tvā*)—you
+- शक्राय (*śakrāya*)—for the capable Indra
+- सुनवै (*sunavai*)—I shall tear with my teeth and make the juice flow out
+
+##### भावार्थ (Bhāvārtha)
+
+The woman named Apālā, who was going to the water of the river to bathe, saw on her way home after the bath the Soma plant that she found on the road, and said: O Soma, in order to offer you to Indra, I shall tear you with my teeth and bring out the juice. O Soma, for the capable Indra himself I shall tear you with my teeth and take out the juice.
+
+##### English translation
+A young woman going to the water found Soma in the path ; as she carried it home she said, I will press you for Indra, I will press you for Shakra.
+
+##### विशेषविषयगळु (Special Topics)
+
+The woman Apālā spoken of in the present Ṛk, while returning from the river, was tearing with her teeth the Soma she had found on the road, and that sound was heard by Indra. Then Indra thought: here the sound of Soma being pounded with grāvas (stones) is being heard; therefore I shall go there; and he came there. The commentator cites here what is said of this account in the Śāṭyāyana-brāhmaṇa:
+
+सा तीर्थमभ्यवयंती सोमांशुमविंदत्तं समुखादत्तस्यै ह ग्रावाण इव दंता ऊदुः । स इंद्र आप्रवत् ग्रावाणो वै वदंतीति । सा तमभिव्याजहार कन्या वारवायती सोममपि स्रुताविददित्यस्यै त इदं ग्रावाण इव दंता वदंतीति विदित्वेंद्रः पराजावर्तत । तमब्रवीदसौ य एषि वीरक इत्यादिना ॥ (*sā tīrthamabhyavayaṃtī somāṃśumaviṃdattaṃ samukhādattasyai ha grāvāṇa iva daṃtā ūduḥ | sa iṃdra āpravat grāvāṇo vai vadaṃtīti | sā tamabhivyājahāra kanyā vāravāyatī somamapi srutāvidadityasyai ta idaṃ grāvāṇa iva daṃtā vadaṃtīti viditveṃdraḥ parājāvartata | tamabravīdasau ya eṣi vīraka ityādinā ‖*) (Śā. Brā.) **NOTE**
+
+When the woman named Apālā was returning from the river, she found there a Soma plant that had grown. She plucked it and came along tearing it with her teeth and eating it, and the sound of the tearing with the teeth was heard like the sound of Soma plants being pounded with a stone. Therefore Indra, thinking that this must be the sound of a Soma plant being pounded with a stone,
+
+### Printed p. 315
+
+came there quickly. Then the woman said to Indra: O man, you have run here on hearing this sound, have you not? This is only the sound that comes from my teeth. It is not the sound of Soma plants being pounded with stones. At this Indra, dejected in mind, made ready to go back. Seeing that, the woman questions Indra with the next Ṛk, असौ य एषि (*asau ya eṣi*).
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒सौ य एषि॑ वीर॒को गृ॒हंगृ॑हं वि॒चाक॑शद् ।  
+> इ॒मं जंभ॑सुतं पिब धा॒नावं॑तं करं॒भिण॑मपू॒पवं॑तमु॒क्थिन॑म् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असौ । यः । एषि । वीरकः । गृहम्ऽगृहम् । विऽचाकशत् ।  
+> इमम् । जंभऽसुतम् । पिब । धानाऽवंतम् । करंभिणम् । अपूपऽवंतम् । उक्थिनम् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सा शक्रमब्रवीत् । हे इंद्र वीरकः वीरः समर्थस्त्वं यः असौ त्वं विचाकशत् । ‘काशृ दीप्तौ' । यङ्लुकि शतरि रूपम् । धातोर्ह्रस्वश्छांदसः । अत्यर्थं दीप्यमानः सन् गृहंगृहं यजमानगृहं प्रति सोमपानाय त्वम् एषि गच्छसि । अतस्त्वमत्रापि जंभसुतं मम दंतैरभिषुतम् इमं सोमं पिब । कीदृशम् । धानावंतम् । धाना भृष्टयवाः । तद्वंतं करंभिणं सक्तुमंतम् अपूपवंतं पुरोडाशादिसहितम् उक्थिनं स्तोत्रादियुक्तमेतादृशं सोममत्रैव पिबेति । सा सोमेन सह धानादीनावेदयत् स्तोत्रं चाकार्षीदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+She said to Śakra: O Indra, you, वीरकः (*vīrakaḥ*), a hero, one who is capable, who असौ (*asau*), you, shining exceedingly (विचाकशत् (*vicākaśat*)), go गृहंगृहं (*gṛhaṃgṛhaṃ*), to each sacrificer's house, for the drinking of Soma. Therefore here too drink this Soma जंभसुतं (*jaṃbhasutaṃ*), pressed by my teeth. Of what kind? धानावंतं (*dhānāvaṃtaṃ*): धाना (*dhānā*) are parched barley grains, and it has them; करंभिणं (*karaṃbhiṇaṃ*), with barley meal; अपूपवंतं (*apūpavaṃtaṃ*), with the purodāśa and the like; उक्थिनं (*ukthinaṃ*), accompanied by hymns and the like. Drink such a Soma right here. Together with the Soma she presented grains and the rest, and she made a hymn; that is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) वीरकः (*vīrakaḥ*)—mighty
+- असौ (*asau*)—well known
+- यः त्वं (*yaḥ tvaṃ*)—(जाप (*jāpa*)) you **NOTE**
+- विचाकशत् (*vicākaśat*)—shining with your own radiance
+- गृहंगृहं (*gṛhaṃgṛhaṃ*)—to the house of many sacrificers
+- एषि (*eṣi*)—you go for the drinking of Soma; therefore you
+- जंभसुतं (*jaṃbhasutaṃ*)—that which, chewed by my teeth, drips from it
+- धानावंतं (*dhānāvaṃtaṃ*)—mixed with grains
+- करंभिणं (*karaṃbhiṇaṃ*)—mixed with flour
+
+### Printed p. 316
+
+- आपूपवंतं (*āpūpavaṃtaṃ*)—accompanied by purodāśa and the like
+- उक्थिनं (*ukthinaṃ*)—offered with the recitation of mantras
+- इमं (*imaṃ*)—this Soma juice
+- पिब (*piba*)—drink
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you, the mighty one, shining in your greatness, go to the house of every sacrificer for the drinking of Soma. Therefore drink now this Soma juice, which drips from the Soma plants that I am chewing with my teeth, which is mixed with grains, flour and purodāśa and the like, and which is offered with mantras.
+
+##### English translation
+You, who goes from house to house, a hero bright in your splendour, drink this Soma pressed by my teeth, together with fried grains of barley, the karambha, cakes and hymns.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ च॒न त्वा॑ चिकित्सा॒मोऽधि॑ च॒न त्वा॒ नेम॑सि ।  
+> शनै॑रिव शन॒कैरि॒वेंद्रा॑येंदो॒ परि॑ स्रव ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । चन । त्वा । चिकित्सामः । अधि । चन । त्वा । न । इमसि ।  
+> शनैःऽइव । शनकैःऽइव । इंद्राय । इंदो इति । परि । स्रव ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पुनरपि सा तमनादृत्याह । हे इंद्र । चन इति निपातसमुदायोऽवधारणार्थे । त्वा त्वाम् आ चिकित्सामः ज्ञातुमिच्छाम एव । इह मार्ग एवागतं त्वा त्वां न अधि इमसि नाधिगच्छामः । अत्रापि चन इत्यवधारणे । मम गृहमागच्छंतं त्वामिंद्र इति न जानीम एवेत्यपाला तमिंद्रमुक्त्वा स्वास्ये स्थितं सोमं प्रत्याह । हे इंदो क्षरणशील सोम अस्मा आगताय इंद्राय तदर्थं पूर्वं शनैः मंदं मंदं ततः शनकैरिव । कुत्सितार्थेऽकच् । कुत्सितं शनैः शनकैः । क्षिप्रमित्यर्थः । क्षिप्रमेव त्वं परि स्रव मदीयदंष्ट्राभिरभिषूयमाणः सन् परितः क्षरेति । तथा यज्ञेष्वपि ग्रावभिरभिषूयमाणः सोमः प्रथमं शनैः परिस्रवति ततः शनकैः क्षिप्रमिति तदभिप्रायेणोक्तम् । तत इंद्र एतद्वाक्यं श्रुत्वा तदानीमेवमभिषुतं सोमं यज्ञस्थानीयादपालामुखादेवाधासीत् । उक्तार्थः शाट्यायनकब्राह्मणे स्पष्टमभ्यधायि- ‘ अनाद्रियमाणैव तमब्रवीदा चन त्वा चिकित्सामोऽधि चन त्वा नेमसीति । पुरा मां सर्वयर्चापाला स्तौतीत्युपपर्यावर्तत शनैरिव शनकैरिवेंद्रायेंदो परि स्रवेति ह वा अस्यै मुखात्सोमं निरधयत्सोमपीथ इह वा अस्य भवति य एवं विद्वान् स्त्रीमुपजिघ्रति ' इति ॥
+
+##### Gist of the bhāṣya
+
+Again she, not respecting him, said: O Indra, चन (*cana*) is a combination of particles in the sense of emphasis. We do wish to know you (आ चिकित्सामः (*ā cikitsāmaḥ*)). You who have come here on the road itself, we do not recognise (न अधि इमसि (*na adhi imasi*)); here too चन (*cana*) is for emphasis. Having said to Indra, "I do not know that you who are coming to my house are Indra", Apālā then spoke to the Soma that was in her mouth: O Indu, flowing Soma, for this Indra who has come, first gently (शनैः (*śanaiḥ*)), slowly, slowly, then quickly (शनकैरिव (*śanakairiva*)), flow around, pressed by my teeth, all around. So also in sacrifices Soma pressed by the pressing stones flows first gently and then quickly; it was said with that in view. Then Indra, hearing this speech, at that very moment drank the Soma so pressed from Apālā's mouth, which stood in the place of the sacrifice. The meaning stated was clearly declared in the Śāṭyāyaka-brāhmaṇa: अनाद्रियमाणैव तमब्रवीदा चन त्वा चिकित्सामोऽधि चन त्वा नेमसीति । पुरा मां सर्वयर्चापाला स्तौतीत्युपपर्यावर्तत शनैरिव शनकैरिवेंद्रायेंदो परि स्रवेति ह वा अस्यै मुखात्सोमं निरधयत्सोमपीथ इह वा अस्य भवति य एवं विद्वान् स्त्रीमुपजिघ्रति (*anādriyamāṇaiva tamabravīdā cana tvā cikitsāmo 'dhi cana tvā nemasīti | purā māṃ sarvayarcāpālā stautītyupaparyāvartata śanairiva śanakairiveṃdrāyeṃdo pari sraveti ha vā asyai mukhātsomaṃ niradhayatsomapītha iha vā asya bhavati ya evaṃ vidvān strīmupajighrati*).
+
+### Printed p. 317
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Indra) त्वा चन (*tvā cana*)—you indeed
+- आ चिकित्सानुः (*ā cikitsānuḥ*)—we wish to know **NOTE**
+- त्वा (*tvā*)—you who are going on this road
+- नॆ (*nè*)—now **NOTE**
+- अधि इमसि चन (*adhi imasi cana*)—we are unable to know
+- इंदो (*iṃdo*)—O Soma, dripping (from my mouth)
+- इंद्राय (*iṃdrāya*)—for Indra
+- शनैः (*śanaiḥ*)—(first) little by little, and (afterwards)
+- शनकैः (*śanakaiḥ*)—very quickly
+- परि स्रव (*pari srava*)—flow, trickling
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, we cannot know your great nature. Yet we wish to know it. O Soma juice dripping from my mouth, for Indra to drink, first trickle little by little and then gradually, flow quickly.
+
+##### English translation
+We wish to know you, but here we know you not. O Soma, flow forth for Indra first slowly, then quickly.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कु॒विच्छक॑त्कु॒वित्कर॑त्कु॒विन्नो॒ वस्य॑स॒स्कर॑त् ।  
+> कु॒वित्प॑ति॒द्विषो॑ य॒तीरिंद्रे॑ण सं॒गमा॑महै ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुवित् । शकत् । कुवित् । करत् । कुवित् । नः । वस्यसः । करत् ।  
+> कुवित् । पतिऽद्विषः । यतीः । इंद्रेण । सम्ऽगमामहै ॥ ४ ॥
+
+### Printed p. 318
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सोमं पीतवानिंद्रोऽस्मानेवं करोत्वित्याह । स इंद्रः कुवित् बहुवारमस्मान् शकत् शक्तान् समर्थान् करोतु । किंच कुवित् बहु चास्मभ्यं करत् करोतु । किंच स एवेंद्रः नः अस्मान् कुवित् बहुकृत्वः वस्यसः वसीयसोऽतिशयेन वसुमतः करोतु । करोतेः शक्नोतेश्च लेट्यडागमः । इदानीमात्रेय्यहमेवं करिष्यामीति वदति । पूर्वं कुवित् बहु पतिद्विषः त्वग्दोषात्पतिभिर्भर्तृभिबहुवारं द्विष्टा अत एव यतीः पतिभ्यः सकाशादितो गच्छंत्यो वयं कैश्चिदप्यनूह्यमानाः सत्यः संप्रति इंद्रेण सह संगमामहै संगच्छामहै । सर्वत्र पूजार्थे बहुवचनम् । संगमशब्देनेंद्रोऽपालामचकमतेति ॥
+
+##### Gist of the bhāṣya
+
+Indra having drunk the Soma, she says: may he do so to us. May that Indra, कुवित् (*kuvit*), many times, make us शकत् (*śakat*), able, capable. Moreover, may he do much for us. And may that same Indra make us वस्यसः (*vasyasaḥ*), exceedingly wealthy. Now Apālā says that she will do thus: previously, पतिद्विषः (*patidviṣaḥ*), hated many times by husbands because of the skin disease, and therefore यतीः (*yatīḥ*), leaving the husbands and going from here, not carried off by anyone, we now unite, संगमामहै (*saṃgamāmahai*), with Indra. The plural is used everywhere in the sense of honour. By the word संगम (*saṃgama*) is meant that Indra desired Apālā.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (that Indra) कुवित् (*kuvit*)—in many ways
+- शकत् (*śakat*)—let him make us capable
+- कुवित् (*kuvit*)—abundantly
+- करत् (*karat*)—let him give to us
+- नः (*naḥ*)—us
+- कुवित् (*kuvit*)—in many ways
+- वस्यसः (*vasyasaḥ*)—endowed with wealth
+- करत् (*karat*)—let him make
+- कुवित् (*kuvit*)—greatly
+- पतिद्विषः (*patidviṣaḥ*)—hated by the husband because of my skin disease
+- यतीः (*yatīḥ*)—we (I), who have been sent away from the husband's side, now
+- इंद्रेण (*iṃdreṇa*)—with Indra
+- संगमामहै (*saṃgamāmahai*)—may be united
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra make us very capable and give us wealth and the like of many kinds; may I, who because of my skin disease was driven out of the house by my husband, be united with Indra.
+
+##### English translation
+May (Indra) repeatedly make us powerful, may he do abundantly for us, may he repeatedly make us very rich ; often hated by our husband and forced to leave him, may we be united to Indra.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इ॒मानि॒ त्रीणि॑ वि॒ष्टपा॒ तानीं॑द्र॒ वि रो॑हय ।  
+> शिर॑स्त॒तस्यो॒र्वरा॒मादि॒दं म॒ उपो॒दरे॑ ॥ ५ ॥
+
+### Printed p. 319
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इमानि । त्रीणि । विष्टपा । तानि । इंद्र । वि । रोहय ।  
+> शिरः । ततस्य । उर्वराम् । आत् । इदम् । मे । उप । उदरे ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इंद्रेण किं कामयसे तद्दास्यामीत्युक्ता सा वरमनया प्रार्थयते । हे इंद्र इमानि त्रीणि विष्टपानि स्थानानि संति । तानि त्रीणि स्थानानि वि रोहय उत्पादय । कानि तानि । ततस्य मम पितुः रोमवर्जितं शिरः । खलतिमित्यर्थः। तच्चापगमय । रोमशं कुर्वित्यर्थः । उर्वरां तस्योषर क्षेत्रं सर्वसस्याढ्यं कुरु । आत् अनंतरं मे मम उपोदरे उपोदरस्य समीपे यत् इदं स्थानम् । गुह्यमित्यर्थः। तच्च त्वग्दोषे सत्यसंजातरोमकम् । तदपि त्वग्दोषपरिहारेण रोमयुक्तं कुरु। एतानि त्रीणि स्थानानि । एषोऽर्थः शाट्यायनके प्रपंचेनोक्तः- ‘ तामब्रवीदपाले किं कामयसीति । साब्रवीदिमानि त्रीणि विष्टपेति खलतिर्हास्यै पिता स तं हाखलतिं चकारोर्वरा हास्य न जज्ञे सो ह जज्ञ उपस्थे हास्यै रोमाणि नासुस्तान्यु ह जज्ञिर इत्यस्योत्तरा भूयसे निर्वचनीयासौ च या नः' इति ॥
+
+##### Gist of the bhāṣya
+
+Indra having said, "What do you desire? I shall give it", she asks for a boon with this Ṛk. O Indra, there are these three places (विष्टपानि (*viṣṭapāni*)). Cause those three places to grow (वि रोहय (*vi rohaya*)), that is, produce them. Which are they? ततस्य (*tatasya*), my father's head devoid of hair, that is, bald; remove that, that is, make it hairy. उर्वरां (*urvarāṃ*), make his barren field rich in all crops. Then, मे (*me*) उप उदरे (*upa udare*), near my belly there is this place, that is, the private part; that too, in the skin disease, has not grown hair; make it furnished with hair by the cure of the skin disease. These are the three places. This meaning is told at length in the Śāṭyāyaka: तामब्रवीदपाले किं कामयसीति । साब्रवीदिमानि त्रीणि विष्टपेति खलतिर्हास्यै पिता स तं हाखलतिं चकारोर्वरा हास्य न जज्ञे सो ह जज्ञ उपस्थे हास्यै रोमाणि नासुस्तान्यु ह जज्ञिर इत्यस्योत्तरा भूयसे निर्वचनीयासौ च या नः (*tāmabravīdapāle kiṃ kāmayasīti | sābravīdimāni trīṇi viṣṭapeti khalatirhāsyai pitā sa taṃ hākhalatiṃ cakārorvarā hāsya na jajñe so ha jajña upasthe hāsyai romāṇi nāsustānyu ha jajñira ityasyottarā bhūyase nirvacanīyāsau ca yā naḥ*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- इमानि त्रीणि विष्टपा (*imāni trīṇi viṣṭapā*)—there are these three places
+- तानि (*tāni*)—those, that is, in them
+- वि रोहय (*vi rohaya*)—cause growth
+- ततस्य शिरः (*tatasya śiraḥ*)—my father's bald head without hair, make it hairy
+- उर्वरां (*urvarāṃ*)—make his father's barren land bear crops
+- आत् (*āt*)—afterwards
+- मे (*me*)—my
+- उप उदरे (*upa udare*)—near the lower belly
+- इदं (*idaṃ*)—make this private region hairy
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, there are now three places that you must set right. Make hair grow again on my father's bald head, which has no hair; make the plants and the like grow and become fruitful in his field, which is barren land; and, because of the skin disease, set right the private region below my lower belly, where hair does not grow, and make hair grow again.
+
 ---
 
-**Progress note:** Done through printed p. 313. Ṛk 5-6 of Sūkta 90 end; Sūkta 91 introduction, Ṛk 1
+**Progress note:** Done through printed p. 319. Sūkta 91 Ṛk 1 Pratipadārtha to Ṛk 5 Sāyaṇa
