@@ -7438,6 +7438,291 @@ O Soma, you who are chief, flow towards our praises with admirable protections. 
 - विश्वानि (*viśvāni*)—all
 - काव्या (*kāvyā*)—come favourably to our acts of praise **NOTE**
 
+### Printed p. 224
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are foremost, come flowing with your venerable protections towards our acts of praise.
+
+##### English translation
+Soma, who are most excellent, flow with your marvellous protection towards our praises, towards all hymns (of praise).
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं स॑मु॒द्रिया॑ अ॒पो॑ऽग्रि॒यो वाच॑ ई॒रय॑न् ।  
+> पव॑स्व विश्वमेजय ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । समुद्रियाः । अपः । अग्रियः । वाचः । ईरयन् ।  
+> पवस्व । विश्वम्ऽएजय ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे विश्वमेजय विश्वकंपक सोम अग्रियः मुख्यः त्वं वाचः ईरयन् प्रेरयन् समुद्रियाः आंतरिक्षाणि अपः उदकानि पवस्व धारया क्षर ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses Soma as the one who shakes all things. He says: O Soma, shaker of all, you who are chief, urging on voices, flow the waters that belong to the atmosphere, that is, let them stream down in a current.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विश्वमेजय (*viśvamejaya*)—O Soma-deva, you who make everything tremble
+- अग्रियः (*agriyaḥ*)—you who are chief
+- त्वं (*tvaṃ*)—you
+- वाचः (*vācaḥ*)—praising words
+- ईरयन् (*īrayan*)—urging on
+- समुद्रियाः (*samudriyāḥ*)—belonging to the atmosphere
+- अपः (*apaḥ*)—the waters
+- पवस्व (*pavasva*)—cause to flow
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, who make everything tremble, you who are chief, urging on the praising words, cause the waters of the atmosphere to flow (by way of rain).
+
+##### English translation
+Agitator of all, do you who are the most excellent, raising your voice, pour forth the waters of the firmament.
+
+### Printed p. 225
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तुभ्ये॒मा भुव॑ना कवे महि॒म्ने सो॑म तस्थिरे ।  
+> तुभ्य॑मर्षंति॒ सिंध॑वः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तुभ्य । इमा । भुवना । कवे । महिम्ने । सोम । तस्थिरे ।  
+> तुभ्यम् । अर्षंति । सिंधवः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे कवे क्रांतकर्मन् सोम तुभ्य तुभ्यं तव महिम्ने इमा इमानि भुवना भुवनानि तस्थिरे तिष्ठंति । त्वामेव पुरस्कुर्वंतीत्यर्थः। अपि च सिंधवः नद्यः तुभ्यम् एव अर्षंति गच्छंति । त्वदाज्ञामेवानुपालयंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you of surpassing action, it is for your greatness that these worlds stand; the meaning is that they put you alone in front. Moreover, the rivers flow to you alone; the meaning is that they keep to your command.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवे (*kave*)—you whose action is full of wisdom
+- सोम (*soma*)—O Soma-deva
+- शुभ्यं (*śubhyaṃ*)—your **NOTE**
+- महिम्मॆ (*mahimmè*)—as the fruit of greatness **NOTE**
+- इमा भुवना (*imā bhuvanā*)—all these worlds
+- तस्थिरे (*tasthire*)—stand
+- सिंधवः (*siṃdhavaḥ*)—the rivers
+- शुभ्यं (*śubhyaṃ*)—by your greatness alone
+- अर्षंति (*arṣaṃti*)—flow on
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you whose action is full of wisdom, to make your greatness shine all these worlds stand, each established in its own place. The rivers too flow on by that same greatness of yours.
+
+##### English translation
+O sage (Soma) in your might do these worlds stand ; to you the rivers hasten.
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ दि॒वो न वृ॒ष्टयो॒ धारा॑ यंत्यस॒श्चतः॑ ।  
+> अ॒भि शु॒क्रामु॑प॒स्तिर॑म् ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+### Printed p. 226
+
+> प्र । ते । दिवः । न । वृष्टयः । धाराः । यंति । असश्चतः ।  
+> अभि । शुक्राम् । उपऽस्तिरम् ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव असश्चतः असंगाः धाराः दिवः अंतरिक्षात् वृष्टयः न वर्षाणीव शुक्रां शुक्लवर्णां शुक्लवर्णैः अविलोमभिर्निर्मितम् उपस्तिरम् उपस्तीर्यमाणं पवित्रम् अभि प्रति प्र यंति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your unattached streams go from heaven, that is, from the atmosphere, like rains, towards the white filter spread out, which is made of white wool free of tangles.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ते (*te*)—your (O Soma-deva)
+- असश्चतः (*asaścataḥ*)—having separate forms
+- धाराः (*dhārāḥ*)—streams
+- दिवः (*divaḥ*)—from the atmosphere
+- वृष्टयः न (*vṛṣṭayaḥ na*)—as streams of rain fall
+- शुक्रां (*śukrāṃ*)—made of white-coloured wool
+- उपस्थिरं (*upasthiraṃ*)—to the ten-fold filter **NOTE**
+- अभि प्रयंति (*abhi prayaṃti*)—come and join
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, your streams of flowing, each of separate form, fall as streams of rain fall from the atmosphere, and come and join the ten-fold filter made of white wool.
+
+##### English translation
+Your unconnected streams descend like the rain from heaven upon the white outspread (fleece).
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॒येंदुं॑ पुनीतनो॒ग्रं दक्षा॑य॒ साध॑नम् ।  
+> ई॒शा॒नं वी॒तिरा॑धसम् ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । इंदुम् । पुनीतन । उग्रम् । दक्षाय । साधनम् ।  
+> ईशानम् । वीतिऽराधसम् ॥ २९ ॥
+
+### Printed p. 227
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋत्विजः उग्रम् उद्गूर्णं दक्षाय बलस्य साधनं करणम् ईशानं धनानामीश्वरं वीतिराधसं दत्तधनम् इंदुं सोमम् इंद्राय इंद्रार्थं पुनीतन पुनीत ॥
+
+##### Gist of the bhāṣya
+
+O priests, purify for Indra, that is, for Indra's sake, Indu, the Soma, who is fierce, uplifted, the means of strength, the lord of riches, the one who gives wealth.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उग्रं (*ugraṃ*)—that which is mighty (O priests)
+- दक्षाय (*dakṣāya*)—for strength
+- साधनं (*sādhanaṃ*)—that which is the cause
+- ईशानं (*īśānaṃ*)—that which has lordship
+- नीतिराधसं (*nītirādhasaṃ*)—that which gives wealth **NOTE**
+- इंदुं (*iṃduṃ*)—Soma
+- इंद्राय (*iṃdrāya*)—for Indra's drinking
+- पुनीतन (*punītana*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, purify for Indra's sake the Soma that is mighty, the cause of strength, endowed with lordship, and the giver of wealth.
+
+##### English translation
+Purify for Indra the fierce Indu, the means of strength, the lord (of wealth), the giver of riches.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान ऋ॒तः क॒विः सोमः॑ प॒वित्र॒मास॑दत् ।  
+> दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानः । ऋतः । कविः । सोमः । पवित्रम् । आ । असदत् ।  
+> दधत् । स्तोत्रे । सुऽवीर्यम् ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतः सत्यभूतः कविः क्रांतकर्मा पवमानः सोमः अस्मदीये स्तोत्रे सुवीर्यं शोभनवीर्यं दधत् प्रयच्छन् पवित्रमासदत् आसीदति ॥ ॥ २९ ॥
+
+##### Gist of the bhāṣya
+
+Soma, the truthful one, the seer of surpassing action, flowing, sits down on the filter, bestowing good heroic power on our praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋतः (*ṛtaḥ*)—of the nature of truth
+- कविः (*kaviḥ*)—whose action is full of wisdom
+- पवमानः (*pavamānaḥ*)—the purifier
+- सोमः (*somaḥ*)—Soma-deva
+- स्तोत्रे (*stotre*)—to the praiser
+- सुवीर‍्यं (*suvīryaṃ*)—excellent heroic power
+- दधत् (*dadhat*)—giving
+- पवित्रं (*pavitraṃ*)—on the ten-fold filter
+- आसदॆत् (*āsadèt*)—sits **NOTE**
+
+### Printed p. 228
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who is of the nature of truth, whose action is full of wisdom, and who is the purifier, sits on the ten-fold filter, giving excellent heroic power to the praiser.
+
+##### English translation
+The truthful seer, Pavamana Soma, sits down npon the filter, giving great energy ro the worshipper. **NOTE**
+
+## Sūkta 63 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘आ पवस्व' इति त्रिंशदृचं तृतीयं सूक्तं काश्यपस्य निध्रुवेरार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतम्- आ पवस्व निध्रुविः काश्यपः' इति । गतो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning आ पवस्व (*ā pavasva*) has thirty Ṛks and is the third sūkta. Its seer is Nidhruvi of the Kāśyapa line, its metre is Gāyatra, and its deity is Pavamāna Soma. Sāyaṇa cites the Anukramaṇī: आ पवस्व निध्रुविः काश्यपः (*ā pavasva nidhruviḥ kāśyapaḥ*). The ritual application has already been stated.
+
+##### Anuvāda
+
+This sūkta, beginning आ पवस्व (*ā pavasva*), is the third sūkta in the third anuvāka. It has thirty Ṛks. The seer of this sūkta is Nidhruvi Kāśyapa; the deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇī it is said: आ पवस्व निध्रुविः काश्यपः (*ā pavasva nidhruviḥ kāśyapaḥ*). The ritual application has been stated earlier.
+
+##### Particulars
+
+- Sūkta 63
+- Maṇḍala 9, Anuvāka 3, Sūkta 63
+- Aṣṭaka 7, Adhyāya 1, Vargas 30, 31, 32, 33, 34, 35
+- Number of Ṛks in the sūkta: 30
+- Seer: Nidhruvi Kāśyapa
+- Deity: Pavamāna Soma
+- Metre: Gāyatrī
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व सह॒स्रिणं॑ र॒यिं सो॑म सु॒वीर्य॑म् ।  
+> अ॒स्मे श्रवां॑सि धारय ॥ १ ॥
+
+### Printed p. 229
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । सहस्रिणम् । रयिम् । सोम । सुऽवीर्यम् ।  
+> अस्मे इति । श्रवांसि । धारय ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं सहस्रिणं बहुसंख्याकं सुवीर्यं शोभनवीर्यं रयिं धनम् आ पवस्व आभिमुख्येन क्षर । अपि च अस्मे अस्मासु श्रवांसि अन्नानि धारय स्थापय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow towards us a wealth that is thousandfold, abundant and of good heroic power; flow it with a facing movement. Moreover, establish in us foods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- सहस्रिणं (*sahasriṇaṃ*)—that which is of a thousand kinds
+- सुवीर्यं (*suvīryaṃ*)—that which has excellent power
+- रयिं (*rayiṃ*)—wealth
+- आ पवस्व (*ā pavasva*)—provide on all sides
+- अस्मे (*asme*)—in us
+- श्रवांसि (*śravāṃsi*)—foods
+- धारय (*dhāraya*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, provide us fully with wealth that is of a thousand kinds and has excellent power. Fill us with foods.
+
+##### English translation
+Pour (upon us), Soma, thousand fold wealth, with excellent male progeny, secure to us ample food.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इष॒मूर्जं॑ च पिन्वस॒ इंद्रा॑य मत्स॒रिंत॑मः ।  
+> च॒मूष्वा नि षी॑दसि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इषम् । ऊर्जम् । च । पिन्वसे । इंद्राय । मत्सरिन्ऽतमः ।  
+> चमूषु । आ । नि । सीदसि ॥ २ ॥
+
 ---
 
-**Progress note:** Done through printed p. 223. Mandala 9 sukta 62 rks 18-25, pp. 218-223
+**Progress note:** Done through printed p. 229. Ṛk 25 end to Ṛk 30 of Sūkta 62; Sūkta 63 intro; Ṛk 1-2
