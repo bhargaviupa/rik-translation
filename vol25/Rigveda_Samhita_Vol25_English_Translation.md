@@ -13888,6 +13888,226 @@ With you, Indra, as our helper, let us answer our enemies ; you are ours, we are
 
 O Indra, after the removal of the troubles of the rite, the praisers, त्वायवः (*tvāyavaḥ*), who desire you for the gift of wealth and the like, and for that very reason praise again and again in succession, that is, your friends, the singers, may attend on you alone with their praises; हि (*hi*) is in the sense of "well known".
 
+### Printed p. 356
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वायुवः (*tvāyuvaḥ*)—those who long for you for the sake of the gift of wealth and the like
+- अनुनोनुवतः (*anunonuvataḥ*)—and who praise you again and again
+- सखायः (*sakhāyaḥ*)—and who are your friends
+- कारवः (*kāravaḥ*)—the praisers
+- त्वामित् (*tvāmit*)—you alone
+- चरान् (*carān*)—may they serve with praises
+- हि (*hi*)—it is well known
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, those who long for you for the sake of the gift of wealth and the like, who praise you again and again, and who are your friends, may these praisers serve you alone with hymns of praise.
+
+##### English translation
+Indra, may your friends. the chanters, worship you devouted to your service aud again and again reciting your praise,
+
+## Sūkta 93 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ उद्घ' इति चतुस्त्रिंशदृचं त्रयोदशं सूक्तं सुकक्षस्यार्षं गायत्रमैंद्रम् । अंत्या त्विंद्रर्भुदेवताका । तथा चानुक्रांतम्- उद्ध चतुस्त्रिंशत्सुकक्षोऽंत्यैंद्रार्भवी' इति । द्वितीये पर्याये होतुः शस्त्र उत्तमावर्जमेतत्सूक्तम् । सूत्रितं च - उद्घेदभीत्युत्तमामुद्धरेत्' ( आश्व. श्रौ. ६. ४ ) इति । महाव्रतेऽप्यस्य विनियोगः पूर्वसूक्तेन सहोक्तः । ज्योतिष्टोमे ब्राह्मणाच्छंसिशस्त्र आद्यस्तृचः । सूत्रितं च - ‘ उद्घेदभीति तिस्र इंद्र क्रतुविदं सुतमिति याज्या' (आश्व. श्रौ. ५. १० ) इति । तथाप्तोर्यामे मैत्रावरुणातिरिक्तोक्थेऽयं तृचोऽनुरूपः । सूत्रितं च -- यदद्य कच्च वृत्रहन्नुद्घेदभि श्रुतामघमा नो विश्वाभिः' ( आश्व. श्रौ. ९. ११ ) इति ॥
+
+##### Gist of the bhāṣya
+
+The thirteenth sūkta, of thirty-four Ṛks, beginning उद्घ (*udgha*), is the vision of Sukakṣa, addressed to Indra, in the Gāyatrī metre; the last Ṛk has Indra and the Ṛbhus as its deity. The Anukramaṇikā says accordingly: उद्ध चतुस्त्रिंशत्सुकक्षोऽंत्यैंद्रार्भवी (*uddha catustriṃśatsukakṣo 'ṃtyaiṃdrārbhavī*). In the second paryāya, in the Hotṛ's śastra, this sūkta is used without its last Ṛk; the sūtra says उद्घेदभीत्युत्तमामुद्धरेत् (*udghedabhītyuttamāmuddharet*) (Āśv. Śrau. 6. 4). Its use in the Mahāvrata has been stated together with the preceding sūkta. In the Jyotiṣṭoma, the first tṛca is the śastra of the Brāhmaṇācchaṃsin; the sūtra says उद्घेदभीति तिस्र इंद्र क्रतुविदं सुतमिति याज्या (*udghedabhīti tisra iṃdra kratuvidaṃ sutamiti yājyā*) (Āśv. Śrau. 5. 10). Likewise, in the Aptoryāma, this tṛca is the anurūpa in the Maitrāvaruṇa's atirikta-ukthya; the sūtra says यदद्य कच्च वृत्रहन्नुद्घेदभि श्रुतामघमा नो विश्वाभिः (*yadadya kacca vṛtrahannudghedabhi śrutāmaghamā no viśvābhiḥ*) (Āśv. Śrau. 9. 11).
+
+The Anuvāda: this sūkta is the thirteenth sūkta in the ninth anuvāka. It has thirty-four Ṛks. The seer of this sūkta is Sukakṣa; Indra is the deity; the metre is Gāyatrī. For the last Ṛk, Indra and the Ṛbhus are the deities. In the Anukramaṇikā—
+
+### Printed p. 357
+it is said उद्घ चतुस्त्रिंशत्सकक्षोऽन्त्यैंद्रार्भवी (*udgha catustriṃśatsakakṣo 'ntyaiṃdrārbhavī*). In the second paryāya, for the śastra mantras to be recited by the Hotṛ, this sūkta is used except its last Ṛk, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, उद्घेदभीत्युत्तमामुद्धरेत् (*udghedabhītyuttamāmuddharet*) (Ā. 6-4). The use of this sūkta and the preceding sūkta in the Mahāvrata sacrifice has been stated in the use of the preceding sūkta. In the Jyotiṣṭoma sacrifice, among the śastra mantras recited by the priest called Brāhmaṇācchaṃsin, the first three Ṛks of this sūkta are to be recited, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, उद्घेदभीति तिस्र इंद्र क्रतुविदं सुतमिति याज्या (*udghedabhīti tisra iṃdra kratuvidaṃ sutamiti yājyā*) (Ā. 5-10). And in the sacrifice called Aptoryāma, among the atirikta-ukthya mantras recited by the priest called Maitrāvaruṇa, this tṛca is to be recited as the anurūpa tṛca, as is explained by the sūtra of the Āśvalāyana-śrauta-sūtra, यदद्य कच्च वृत्रहन्नुद्घेदभि श्रुतामघमा नो विश्वाभिः (*yadadya kacca vṛtrahannudghedabhi śrutāmaghamā no viśvābhiḥ*) (Ā. 9-11).
+
+Sūkta 93.
+Maṇḍala 8; Anuvāka 9; Sūkta 93.
+Aṣṭaka 6; Adhyāya 6; Varga 21, 22, 23, 24, 25, 26, 27.
+Number of Ṛks in the sūkta: 34.
+Ṛṣi: Sukakṣaḥ.
+Devatā: 1–33. Indra. 34. Indra and the Ṛbhus.
+Chandas: गायत्री (*gāyatrī*).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उद्घेद॒भि श्रु॒ताम॑घं वृष॒भं नर्या॑पसम् ।  
+> अस्ता॑रमेषि सूर्य ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । घ । इत् । अभि । श्रुतऽमघम् । वृषभम् । नर्यऽअपसम् ।  
+> अस्तारम् । एषि । सूर्य ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुकक्ष इंद्रगुणानाह । हे सूर्य । द्वादशसु भानुष्विंद्रोऽपि सूर्यात्मना पठितः । तस्मात्सूर्यात्मक सुवीर्य हे इंद्र श्रुतमघं सर्वदा देयत्वेन विख्यातधनमत एव वृषभं याचमानानां धनस्य वर्षितारं नर्यापसम् । नरहितं नर्यम् । नरहितकर्माणम् अस्तारं दानशौंडमौदार्यवंतमेतादृशानुभावमभितः उत् एषि । इत् अवधारणे । त्वमेव तस्य यज्ञे सूर्यात्मना उद्गतोऽसि। घ इति प्रसिद्धौ ॥
+
+##### Gist of the bhāṣya
+
+Sukakṣa describes the qualities of Indra. O Sūrya: of the twelve suns, Indra too is read as of the nature of the sun. Therefore, O Indra, sun-natured and of good valour, you who are of renowned wealth, always known for giving, and for that very reason a showerer of wealth on those who ask, beneficial to men and doing what benefits men, a hurler, that is, devoted to giving and generous, such as you are, towards him you rise on every side; इत् (*it*) is in the sense of emphasis: you alone have risen as the sun at his sacrifice. घ (*gha*) is in the sense of "well known".
+
+### Printed p. 358
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूर्य (*sūrya*)—O Indra of the nature of the sun
+- श्रुतमघं (*śrutamaghaṃ*)—possessed of renowned wealth
+- वृषभं (*vṛṣabhaṃ*)—a showerer of wealth and the like to those who ask
+- नर्यापसं (*naryāpasaṃ*)—who does only deeds beneficial to men
+- अस्तारं (*astāraṃ*)—and of generous nature, being of the form of the sun
+- उत् एषि इत् (*ut eṣi it*)—you rise
+- घ (*gha*)—this is well known
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who are possessed of renowned wealth, who give wealth and the like to those who ask of you, who do only deeds beneficial to men, and who are exceedingly generous, you rise in the form of the sun. This is well known.
+
+##### English translation
+You rise, O sun, on (the sacrifice of Indra) the showerer (of blessings), the bountiful giver. famed for his wealth, the benefactor of men,
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नव॒ यो न॑व॒तिं पुरो॑ बि॒भेद॑ बा॒ह्वो॑जसा ।  
+> अहिं॑ च वृत्र॒हाव॑धीत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नव । यः । नवतिम् । पुरः । बिभेद । बाहुऽओजसा ।  
+> अहिम् । च । वृत्रऽहा । अवधीत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यः इंद्रः नव नवतिं नवनवतिसंख्याका एकोनशतसंख्याकाः शंबरस्य पुरः पुरीः बाह्वोजसा स्वबाहुबलेनैव बिभेद दिवोदासाय भिनत्ति स्म । तथा च मंत्रः - ‘ दिवोदासाय नवतिं च नवेंद्रः पुरो व्यैरच्छंबरस्य' ( ऋ. सं. २. १९. ६) इति । सः वृत्रहा वृत्रासुरस्य हंता स इंद्रः अहिं च केनाप्यहंतव्यं मेघमपामावरकं वृत्रं वा अवधीत् । स इंद्रोऽस्माकं धनं ददात्वित्युत्तरेण संबंधः ॥
+
+##### Gist of the bhāṣya
+
+The Indra who with the strength of his own arms broke the ninety-nine cities of Śambara (नव नवतिं (*nava navatiṃ*) meaning nine and ninety) for Divodāsa. So the mantra says: दिवोदासाय नवतिं च नवेंद्रः पुरो व्यैरच्छंबरस्य (*divodāsāya navatiṃ ca naveṃdraḥ puro vyairacchaṃbarasya*) (Ṛ. Saṃ. 2. 19. 6). That slayer of Vṛtra, the demon Vṛtra, also killed Ahi, who could be slain by no one, the cloud that holds back the waters, or Vṛtra. May that Indra give us wealth: this connects with the following verse.
+
+### Printed p. 359
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यः (*yaḥ*)—the Indra who
+- नव नवतिं (*nava navatiṃ*)—ninety-nine in number
+- पुरः (*puraḥ*)—the cities of the demon Śambara
+- बाह्वोजसा (*bāhvojasā*)—by your arm-strength alone
+- बिभेद (*bibheda*)—shattered
+- सः (*saḥ*)—that Indra
+- वृत्रहा (*vṛtrahā*)—is the slayer of the demon Vṛtra
+- अहिं च (*ahiṃ ca*)—and Vṛtra who could be slain by no one, or the cloud that obstructs the waters
+- अवधीत् (*avadhīt*)—he kills
+
+##### भावार्थ (Bhāvārtha)
+
+The Indra who split the ninety-nine cities of the demon Śambara with the strength of his own arm, that Indra killed the demon Vṛtra, whom no one could slay, struck the cloud that obstructs the waters, and brings about rain.
+
+##### English translation
+Who cleft the ninety-nine cities by the strength of his arm, and, slayer of Vritra, smote Ahi.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स न॒ इंद्रः॑ शि॒वः सखाश्वा॑व॒द्गोम॒द्यव॑मत् ।  
+> उ॒रुधा॑रेव दोहते ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । नः । इंद्रः । शिवः । सखा । अश्वऽवत् । गोऽमत् । यवऽमत् ।  
+> उरुधाराऽइव । दोहते ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सः पूर्वोक्तलक्षणः शिवः कल्याणतमः सखा यष्टृयष्टव्यस्तोतृस्तुत्यलक्षणेन संबंधेनास्माकं मित्रभूतः एतादृशः इंद्रः अश्ववत् अश्वयुक्तं गोमत् पश्वादिसहितं यवमत् ।  ‘ अयवादिभ्यः' (पा. सू. ८. २. ९) इति प्रतिषेधान्मतुपो वत्वाभावः । यव इति धान्यविशेषः । धान्ययुक्तं धनं नः अस्मभ्यं दोहते दोग्धु ददातु। तत्र दृष्टांतः । उरुधारेव । दोहनकाले प्रभूतपयोधारा यद्वा बहूनां पोषयित्री गौर्यथा वत्सस्य पयो दोग्धि तथा प्रभूतं धनमस्माकं दोग्धु ददातु । दुहेर्लेट्यडागमः ॥
+
+##### Gist of the bhāṣya
+
+That Indra of the stated nature, most auspicious, our friend through the relation of sacrificer and the one sacrificed to, praiser and the one praised: may he milk for us, that is, give us wealth that has horses, cows and cattle and the like, and barley (यव (*yava*) being a kind of grain), that is, wealth accompanied by grain. The illustration is उरुधारेव (*urudhāreva*): as at milking time a cow giving abundant streams of milk, or a cow that nourishes many, yields milk to her calf, so may he yield us abundant wealth.
+
+### Printed p. 360
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सः (*saḥ*)—he who has the qualities stated before
+- शिवः (*śivaḥ*)—the auspicious
+- सखा (*sakhā*)—our friend
+- इंद्रः (*iṃdraḥ*)—Indra
+- अश्ववत् (*aśvavat*)—accompanied by horses
+- गोमत् (*gomat*)—accompanied by cows
+- यवमत् (*yavamat*)—accompanied by barley, such wealth
+- नः (*naḥ*)—to us
+- उरुधारेव (*urudhāreva*)—as a cow being milked pours out milk abundantly in streams
+- दोहते (*dohate*)—may he provide
+
+##### भावार्थ (Bhāvārtha)
+
+May Indra, who has the qualities stated before, who is auspicious and our friend, provide us abundantly with horses, cows, barley and other grains and the like, as a cow being milked yields milk in plenty.
+
+##### English translation
+May Indra, our auspicious friend, milk for us, like a richly-streaming (cow), wealth of horses, cows, and barley.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य कच्च॑ वृत्रहन्नु॒दगा॑ अ॒भि सू॑र्य ।  
+> सर्वं॒ तदिं॑द्र ते॒ वशे॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । कत् । च । वृत्रऽहन् । उत्ऽअगाः । अभि । सूर्य ।  
+> सर्वम् । तत् । इंद्र । ते । वशे ॥ ४ ॥
+
+### Printed p. 361
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे वृत्रहन् वृत्रस्यापामावरकस्य मेघस्य हंतः हे सूर्य सूर्यात्मक इंद्र अद्य अस्मिन् दिने यत् कच्च यत्किंचित्पदार्थजातम् अभि अभिमुखीकृत्य उदगाः ।  ‘ इण् गतौ । उत्पूर्वः । तस्य लुङि गादेशः। स्वतेजसोद्गतः प्रादुर्भूतोऽसि तदा तत् सर्वं स्थावरजंगमात्मकं जगत् ते तव वशे भवति । त्वदधीनं भवति । उदिते सूर्ये त्वदर्थं प्राक्कर्म कुर्वंति जुह्वति च ॥
+
+##### Gist of the bhāṣya
+
+O slayer of Vṛtra, the cloud that holds back the waters, O Sūrya, Indra of the nature of the sun: today, whatever thing of any kind you rise towards, facing it, having appeared by your own radiance (इण् गतौ (*iṇ gatau*), with the prefix उत् (*ut*)), then all that world, moving and unmoving, comes under your control, is dependent on you. When the sun has risen, men perform rites for you in the east and offer oblations.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृत्रहन् (*vṛtrahan*)—who strike the cloud that holds back the water without letting it flow
+- सूर्य (*sūrya*)—of the nature of the sun
+- इंद्र (*iṃdra*)—O Indra
+- अद्य (*adya*)—today
+- यत् कच्च (*yat kacca*)—whatever particular thing
+- अभि (*abhi*)—aiming at
+- उदगाः (*udagāḥ*)—you rise
+- तत् (*tat*)—then
+- सर्वं (*sarvaṃ*)—this whole world, moving and unmoving
+- ते (*te*)—your
+- वशे (*vaśe*)—is under the control
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, who strike the cloud that obstructs the waters and pour down rain, who are of the nature of the sun, whenever today you rise aiming at this particular world, then this whole world, moving and unmoving, is under your control.
+
+##### English translation
+Whatsoever, O sun, slayer of Vritra, you have risen upon to-day,— it is all, Indra, under your power.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद्वा॑ प्रवृद्ध सत्पते॒ न म॑रा॒ इति॒ मन्य॑से ।  
+> उ॒तो तत्स॒त्यमित्तव॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । वा । प्रऽवृद्ध । सत्ऽपते । न । मरै । इति । मन्यसे ।  
+> उतो इति । तत् । सत्यम् । इत् । तव ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 355. Mandala 8 sukta 93 rks 27-33, pp. 350-355
+**Progress note:** Done through printed p. 361. Mandala 8 sukta 93 rk 33 end, sukta 93 rks 1-5 (Samhita/Pada), pp. 356-361
