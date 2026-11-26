@@ -23918,6 +23918,288 @@ O divine Soma, you who are unfallen in battles and beat down enemies, provide us
 ##### English translation
 O you who are unvanquished in battle, smiter of enemies, shower wealth upon us, and make us happy.
 
+### Printed p. 611
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वां य॒ज्ञैर॑वीवृध॒न्पव॑मान॒ विध॑र्मणि ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । यज्ञैः । अवीवृधन् । पवमान । विऽधर्मणि ।  
+> अथ । नः । वस्यसः । कृधि ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम यजमानानां विधारणाय प्रवृत्तं त्वां यज्ञैः विधर्मणि आत्मनो विधारणार्थम् अवीवृधन् यजमाना वर्धयंति । सिद्धमन्यत् ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma (हे पवमान सोम (*he pavamāna soma*)), you who are engaged in the sustaining of the sacrificers (यजमानानां विधारणाय प्रवृत्तं (*yajamānānāṃ vidhāraṇāya pravṛttaṃ*)): the sacrificers (यजमाना (*yajamānā*)) cause you to grow (अवीवृधन् (*avīvṛdhan*), that is, वर्धयंति (*vardhayaṃti*)) with sacrifices (यज्ञैः (*yajñaiḥ*)), for the sustaining of themselves (विधर्मणि आत्मनो विधारणार्थम् (*vidharmaṇi ātmano vidhāraṇārtham*)). The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O Soma, flowing in a pure stream
+- त्वां (*tvāṃ*)—you
+- यज्ञैः (*yajñaiḥ*)—with sacrifices
+- विधर्मणि (*vidharmaṇi*)—for their own individual and distinguished sustaining **NOTE**
+- अवीवृधन् (*avīvṛdhan*)—the sacrificers cause your growth
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with well-being and happiness **NOTE**
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, flowing in a pure stream, the sacrificers cause your growth with sacrifices, for their own individual and distinguished sustaining; afterwards make us endowed with well-being and happiness.
+
+##### English translation
+Pure-dropping (Soma), they glorify you with the holy rites for their own upholding ; make us happy.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒यिं न॑श्चि॒त्रम॒श्विन॒मिंदो॑ वि॒श्वायु॒मा भ॑र ।  
+> अथा॑ नो॒ वस्य॑सस्कृधि ॥ १० ॥
+
+### Printed p. 612
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रयिम् । नः । चित्रम् । अश्विनम् । इंदो इति । विश्वऽआयुम् । आ । भर ।  
+> अथ । नः । वस्यसः । कृधि ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो यागेषु क्लिद्यमान सोम त्वं चित्रं नानाविधम् अश्विनम् अश्ववंतं च विश्वायुं सर्वगामिनं रयिं नः अस्मभ्यम् आ भर आहर । सिद्धमन्यत् ॥ ॥ २३ ॥
+
+##### Gist of the bhāṣya
+
+O Indu (हे इंदो (*he iṃdo*)), Soma who are moistened in the sacrifices (यागेषु क्लिद्यमान सोम (*yāgeṣu klidyamāna soma*)): bring (आ भर (*ā bhara*), that is, आहर (*āhara*)) to us (नः अस्मभ्यम् (*naḥ asmabhyam*)) wealth (रयिं (*rayiṃ*)) that is varied (चित्रं नानाविधम् (*citraṃ nānāvidham*)), possessed of horses (अश्विनम् अश्ववंतं (*aśvinam aśvavaṃtaṃ*)) and all-going (विश्वायुं सर्वगामिनं (*viśvāyuṃ sarvagāminaṃ*)). The rest is established (सिद्धमन्यत् (*siddhamanyat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma, flowing in the sacrifices
+- चित्रं (*citraṃ*)—that is of many kinds
+- अश्विनं (*aśvinaṃ*)—that has horses
+- विश्वायुं (*viśvāyuṃ*)—that pervades everywhere
+- रयिं (*rayiṃ*)—the wealth
+- नः (*naḥ*)—to us
+- आ भर (*ā bhara*)—bring and provide
+- अथ (*atha*)—afterwards
+- नः (*naḥ*)—us
+- वस्यसः (*vasyasaḥ*)—as endowed with well-being and happiness
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, flowing in the form of a stream in the sacrifices, bring and provide to us the wealth that is of many kinds, that has horses and that pervades everywhere. Afterwards make us endowed with well-being and happiness.
+
+##### English translation
+Indu, bring to us varied wealth, abundant in horses and all-reaching ; and make us happy.
+
+The fifth sūkta.
+
+## Sūkta 5 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘समिद्धः' इत्येकादशर्चं पंचमं सूक्तं काश्यपस्यासितस्य देवलस्य वार्षम् । अष्टम्याद्याश्चतस्रोऽनुष्टुभः शिष्टाः सप्त गायत्र्यः । नराशंसवर्जिताः समिदादयः क्रमेण प्रत्यृचं देवताः । तथा चानुक्रांतं - समिद्ध एकादश काश्यपोऽसितो देवलो वा विंशतिः सूक्तान्याद्यमाप्रियश्चतुरनुष्टुबंतम् इति । काश्यपस्य पावमानमिदमाप्रीसूक्तम् । सूत्रितं च- समिद्धो अद्येति सर्वेषां यथर्षि वा  (आश्व. श्रौ. ३. २) इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning समिद्धः (*samiddhaḥ*), of eleven Ṛks, is the fifth sūkta. It is the vision of Asita Kāśyapa or Devala (काश्यपस्यासितस्य देवलस्य वार्षम् (*kāśyapasyāsitasya devalasya vārṣam*)). The first four from the eighth Ṛk (अष्टम्याद्याश्चतस्रोऽनुष्टुभः (*aṣṭamyādyāścatasro 'nuṣṭubhaḥ*)) are in the Anuṣṭubh metre; the remaining seven are in Gāyatrī. The deities, in order, one for each Ṛk, are Samidh and the others, omitting Narāśaṃsa (नराशंसवर्जिताः समिदादयः क्रमेण प्रत्यृचं देवताः (*narāśaṃsavarjitāḥ samidādayaḥ krameṇa pratyṛcaṃ devatāḥ*)). So the Anukramaṇikā says: समिद्ध एकादश काश्यपोऽसितो देवलो वा विंशतिः सूक्तान्याद्यमाप्रियश्चतुरनुष्टुबंतम् (*samiddha ekādaśa kāśyapo 'sito devalo vā viṃśatiḥ sūktānyādyamāpriyaścaturanuṣṭubaṃtam*). This is the Āprī sūkta connected with Pavamāna, of the Kāśyapa (काश्यपस्य पावमानमिदमाप्रीसूक्तम् (*kāśyapasya pāvamānamidamāprīsūktam*)). It is also laid down in the sūtra: समिद्धो अद्येति सर्वेषां यथर्षि वा (*samiddho adyeti sarveṣāṃ yatharṣi vā*) (Āśv. Śrau. 3. 2). **NOTE**
+
+### Printed p. 613
+
+##### Anuvāda
+
+This sūkta beginning समिद्धः (*samiddhaḥ*) is the fifth sūkta in the first anuvāka. There are eleven Ṛks in it. The seer of this sūkta is the one named Āsita Kāśyapa, or Devala. From the eighth Ṛk of this sūkta, the next four Ṛks (Ṛks 8-11) are in the Anuṣṭubh metre. The remaining seven Ṛks are in the Gāyatrī metre. This is an Āprī sūkta. The deity Narāśaṃsa does not occur in it. The deities of the other Āprī sūkta, Samiddhāgni and the rest, are in order the deities of the eleven Ṛks of this sūkta. In the Anukramaṇikā it is said: समिद्ध एकादश काश्यपोऽसितो देवलो वा विंशतिः सूक्तान्याद्यमाप्रियश्चतुरनुष्टुबंतं (*samiddha ekādaśa kāśyapo 'sito devalo vā viṃśatiḥ sūktānyādyamāpriyaścaturanuṣṭubaṃtaṃ*). For those of the Kāśyapa gotra this is the Āprī sūkta connected with Pavamāna. In this matter, in the sūtra समिद्धो अद्येति सर्वेषां यथर्षि वा (*samiddho adyeti sarveṣāṃ yatharṣi vā*) (Ā. 3-2) there is nivṛtti.
+
+##### Particulars
+
+Sūkta 5.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 5.
+
+Aṣṭaka 6. Adhyāya 2. Vargas 14, 15.
+
+Number of Ṛks in the sūkta: 11.
+
+Seer: Āsita Kāśyapa or Devala.
+
+Deity: Āprī; Pavamāna Soma. (1. Idhma, Samiddha or Agni. 2. Tanūnapāt. 3. Iḷā. 4. Barhis. 5. Devīr Dvāraḥ. 6. Uṣāsānaktā. 8. Daivyau Hotārau Pracetasau. 8. The three goddesses Sarasvatī, Iḷā, Bhāratī. 9. Tvaṣṭā. 10. Vanaspati. 11. Svāhākṛtayaḥ.) **NOTE**
+
+Metre: 1-7 Gāyatrī; 8-11 Anuṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> समि॑द्धो वि॒श्वत॒स्पतिः॒ पव॑मानो॒ वि रा॑जति ।  
+> प्री॒णन्वृषा॒ कनि॑क्रदत् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सम्ऽइद्धः । विश्वतः । पतिः । पवमानः । वि । राजति ।  
+> प्रीणन् । वृषा । कनिक्रदत् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आप्रीवत्सोमस्तुतिरत्र । समिद्धः सम्यग्दीप्तः विश्वतस्पतिः सर्वतः स्वामी वृषा कामानां वर्षिता पवमानः सोमः कनिक्रदत् अभिषूयमाणः शब्दं कुर्वन् प्रीणन् देवान् प्रीणयन् वि राजति यागेषु प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+Here is a praise of Soma like an Āprī hymn (आप्रीवत्सोमस्तुतिरत्र (*āprīvatsomastutiratra*)). The Soma (पवमानः सोमः (*pavamānaḥ somaḥ*)) who is fully kindled (समिद्धः सम्यग्दीप्तः (*samiddhaḥ samyagdīptaḥ*)), the lord on all sides (विश्वतस्पतिः सर्वतः स्वामी (*viśvataspatiḥ sarvataḥ svāmī*)), the showerer of desires (वृषा कामानां वर्षिता (*vṛṣā kāmānāṃ varṣitā*)), making a sound as he is pressed (कनिक्रदत् अभिषूयमाणः शब्दं कुर्वन् (*kanikradat abhiṣūyamāṇaḥ śabdaṃ kurvan*)) and pleasing the gods (प्रीणन् देवान् प्रीणयन् (*prīṇan devān prīṇayan*)), shines (वि राजति (*vi rājati*), that is, यागेषु प्रकाशते (*yāgeṣu prakāśate*)) in the sacrifices.
+
+### Printed p. 614
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- समिद्धः (*samiddhaḥ*)—blazing and shining
+- विश्वतस्पतिः (*viśvataspatiḥ*)—having lordship everywhere
+- वृषा (*vṛṣā*)—the bestower of what is desired
+- पवमानः (*pavamānaḥ*)—and pure, this Soma
+- कनिक्रदत् (*kanikradat*)—making a sound
+- प्रीणन् (*prīṇan*)—and bringing satisfaction to the gods
+- वि राजति (*vi rājati*)—shines in the sacrifices
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma, which blazes and shines, has lordship everywhere, bestows what is desired and is pure, shines in the sacrifices, making a sound and bringing satisfaction to the gods.
+
+##### English translation
+The pure-flowing (Soma' shines forth in its brightness, the universal lord,—the showerer of blessings, the rejoicer, uttering a loud sound.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> तनू॒नपा॒त्पव॑मानः॒ शृंगे॒ शिशा॑नो अर्षति ।  
+> अं॒तरि॑क्षेण॒ रार॑जत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> तनूऽनपात् । पवमानः । शृंगे इति । शिशानः । अर्षति ।  
+> अंतरिक्षेण । रारजत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तनूनपात् पवमानः सोमः । तनूनपादत्र सोमो भवति । तथा च श्रूयते-’ अद्भ्योंऽशवो जायंते ततः सोमो जायते' इति । शृंगे दीप्ते उन्नतप्रदेशे। ‘ हृणिः शृंगाणि ' इति ज्वलन्नामसु पाठात् । शिशानः तीक्ष्णीकुर्वन् अंतरिक्षेण रारजत् अर्षति । द्रोणकलशं प्रति गच्छति । तथा चाम्नायते-- द्वाभ्यां धाराभ्यामाग्रयणं गृह्णाति' इति ॥
+
+##### Gist of the bhāṣya
+
+The Pavamāna Soma is Tanūnapāt (तनूनपात् पवमानः सोमः (*tanūnapāt pavamānaḥ somaḥ*)): here Soma is Tanūnapāt (तनूनपादत्र सोमो भवति (*tanūnapādatra somo bhavati*)). So it is heard: अद्भ्योंऽशवो जायंते ततः सोमो जायते (*adbhyoṃ 'śavo jāyaṃte tataḥ somo jāyate*) **GLOSS**. शृंगे (*śṛṃge*) means in a shining, elevated place (दीप्ते उन्नतप्रदेशे (*dīpte unnatapradeśe*)), because it is read among the names of burning: हृणिः शृंगाणि (*hṛṇiḥ śṛṃgāṇi*) **GLOSS**. शिशानः (*śiśānaḥ*) is sharpening (तीक्ष्णीकुर्वन् (*tīkṣṇīkurvan*)). अंतरिक्षेण रारजत् अर्षति (*aṃtarikṣeṇa rārajat arṣati*): it goes towards the Droṇa vessel (द्रोणकलशं प्रति गच्छति (*droṇakalaśaṃ prati gacchati*)). So it is handed down: द्वाभ्यां धाराभ्यामाग्रयणं गृह्णाति (*dvābhyāṃ dhārābhyāmāgrayaṇaṃ gṛhṇāti*) **GLOSS**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- तनूनपात् (*tanūnapāt*)—named Tanūnapāt
+- पवमानः (*pavamānaḥ*)—the god Soma
+- शृंगे (*śṛṃge*)—in a lofty, shining place
+- शिशानः (*śiśānaḥ*)—and being possessed of sharpness
+- रारजत् (*rārajat*)—shining
+- अंतरिक्षेण (*aṃtarikṣeṇa*)—by the path of the atmosphere
+- अर्षति (*arṣati*)—comes to the place of the sacrifice
+
+### Printed p. 615
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, named Tanūnapāt, being possessed of sharpness in a lofty, shining place and shining, comes to the place of the sacrifice by the path of the atmosphere.
+
+##### English translation
+The pure-flowing Tanunapat, rushes sharpening its splendour on the height and hastens through the sky.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ई॒ळेन्यः॒ पव॑मानो र॒यिर्वि रा॑जति द्यु॒मान् ।  
+> मधो॒र्धारा॑भि॒रोज॑सा ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ईळेन्यः । पवमानः । रयिः । वि । राजति । द्युऽमान् ।  
+> मधोः । धाराभिः । ओजसा ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ईळेन्यः स्तुत्यः पवमानः सोमः रयिः अभीष्टस्य दाता द्युमान् दीप्तिमांश्च सन् मधोः उदकस्य धाराभिः सह क्षरन् ओजसा बलेन वि राजति प्रकाशते ॥
+
+##### Gist of the bhāṣya
+
+The Pavamāna Soma (पवमानः सोमः (*pavamānaḥ somaḥ*)), worthy of praise (ईळेन्यः स्तुत्यः (*īḷenyaḥ stutyaḥ*)), the giver of what is desired (रयिः अभीष्टस्य दाता (*rayiḥ abhīṣṭasya dātā*)) and luminous (द्युमान् दीप्तिमांश्च (*dyumān dīptimāṃśca*)), flows together with the streams (धाराभिः सह क्षरन् (*dhārābhiḥ saha kṣaran*)) of honey, that is, of water (मधोः उदकस्य (*madhoḥ udakasya*)), and shines (वि राजति (*vi rājati*), that is, प्रकाशते (*prakāśate*)) by strength (ओजसा बलेन (*ojasā balena*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रयिः (*rayiḥ*)—the giver of wealth
+- द्युमान् (*dyumān*)—the radiant
+- ईळेन्यः (*īḷenyaḥ*)—and exceedingly worthy of praise
+- पवमानः (*pavamānaḥ*)—the god Soma
+- मधोः (*madhoḥ*)—of the water
+- धाराभिः (*dhārābhiḥ*)—joined with the streams
+- ओजसा (*ojasā*)—by his own strength alone
+- वि राजति (*vi rājati*)—shines
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, the giver of wealth, the radiant, the exceedingly worthy of praise, joined with the streams of water, is shining by his own strength alone.
+
+##### English translation
+The pure-flowing bright (Soma), the bounteous giver, worthy of all praise, shines forth in its might with the streams of water.
+
+### Printed p. 616
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब॒र्हिः प्रा॒चीन॒मोज॑सा॒ पव॑मान स्तृ॒णन्हरिः॑ ।  
+> दे॒वेषु॑ दे॒व ई॑यते ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बर्हिः । प्राचीनम् । ओजसा । पवमानः । स्तृणन् । हरिः ।  
+> देवेषु । देवः । ईयते ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिः हरितवर्णः देवः द्योतमानः सोमः पवमानः देवेषु यज्ञेषु बर्हिः प्राचीनं प्राचीनाग्रं स्तृणन् स्तारयन ओजसा बलेन ईयते गच्छति ॥
+
+##### Gist of the bhāṣya
+
+The Pavamāna Soma (सोमः पवमानः (*somaḥ pavamānaḥ*)), green-coloured (हरिः हरितवर्णः (*hariḥ haritavarṇaḥ*)) and shining (देवः द्योतमानः (*devaḥ dyotamānaḥ*)), spreading (स्तृणन् स्तारयन (*stṛṇan stārayana*)) the sacred grass (बर्हिः (*barhiḥ*)) with its tips to the east (प्राचीनं प्राचीनाग्रं (*prācīnaṃ prācīnāgraṃ*)) in the sacrifices (देवेषु यज्ञेषु (*deveṣu yajñeṣu*)), goes (ईयते गच्छति (*īyate gacchati*)) by his strength (ओजसा बलेन (*ojasā balena*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरी (*harī*)—green-coloured **NOTE**
+- देवः (*devaḥ*)—and shining
+- पवमानः (*pavamānaḥ*)—the god Soma
+- देवेषु (*deveṣu*)—in the sacrifices **NOTE**
+- प्राचीनं (*prācīnaṃ*)—with its tip turned to the east
+- बर्हिः (*barhiḥ*)—the seat of sacred grass
+- स्तृणन् (*stṛṇan*)—passing over
+- ओजसा (*ojasā*)—by his strength
+- ईयते (*īyate*)—rushes forward
+
+##### भावार्थ (Bhāvārtha)
+
+The god Soma, who is green-coloured and shining, passes over the seat of sacred grass, whose tip is turned to the east, in the sacrifices, and rushes forward by his strength.
+
+##### English translation
+The bright golden-hued pure-flowing one rushes in its might, strewing the sacred grass in the sacrifice with its points towards the east.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदातै॑र्जिहते बृ॒हद्द्वारो॑ दे॒वीर्हि॑र॒ण्ययीः॑ ।  
+> पव॑मानेन॒ सुष्टु॑ताः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 610. Mandala 9 sukta 4 Rks 2-8 (pp. 605-610)
+**Progress note:** Done through printed p. 616. Mandala 9 sukta 4 Rks 9-10, sukta 5 Rks 1-5 Samhita (pp. 611-616)
