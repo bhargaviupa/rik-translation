@@ -470,6 +470,8 @@ def kan_contents(md):
 
 def build_kan(cfg, html_only):
     md = (ROOT / cfg['kannada_md']).read_text(encoding='utf-8')
+    sys.path.insert(0, str(ROOT / 'tools' / 'rv')); import headings as _hd
+    md, nlev = _hd.apply_kn(md, cfg['vol']); print(f'[kan] title lines set as headings by level (volN/data/headings_kn.tsv): {nlev}')
     md = re.sub(r'\A# [^\n]*\n(\*[^\n]*\*\n)?', '', md)
     md = re.sub(r'\n---\n+\*\*Progress note:\*\*.*\Z', '\n', md, flags=re.S)
     # What is not text of the book goes (REQUIREMENTS A5; user, Nov 26 2026: the rules of the English book hold here too): the running head of
@@ -490,7 +492,7 @@ def build_kan(cfg, html_only):
     k = md.find('<!-- printed 2 -->')
     if k > 0:
         head, body = md[:k], md[k:]
-        body, nch = re.subn(r'(?m)^([^\s#>*|][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ)(?:ವು)?[ \t.]*\n(?=[^\n]{1,80}\n)', lambda m: '\n## ' + m.group(1) + '\n\n', body)
+        body, nch = (body, 0) if nlev else re.subn(r'(?m)^([^\s#>*|][^\n]{0,24}ನೆಯ ಪ್ರಕರಣ)(?:ವು)?[ \t.]*\n(?=[^\n]{1,80}\n)', lambda m: '\n## ' + m.group(1) + '\n\n', body)
         md = head + body
     else: nch = 0
     print(f'[kan] running heads removed: {nrh}; roman page numbers turned into page marks: {nrom}; figure places removed: {nfig}; chapter headings made: {nch}')
@@ -509,7 +511,7 @@ def build_kan(cfg, html_only):
             toc.append((hid, text, cls))
             return f'<h2 class="{cls}" id="{hid}" data-short="{html.escape(text)}">{inner}</h2>'
         return f'<{tag} id="{hid}">{inner}</{tag}>'
-    body = re.sub(r'<(h1|h2|h3|h4)[^>]*>(.*?)</\1>', head, body, flags=re.S)
+    body = re.sub(r'<(h1|h2|h3|h4)(?![^>]*class="lv)[^>]*>(.*?)</\1>', head, body, flags=re.S)        # headings with a level class keep it
     idx = ''
     if toc and not ncont:                 # the original's own contents are the contents of the book where the text has them
         idx = '<section class="toc"><h2>' + ('ವಿಷಯಸೂಚಿ' if any(c == 'chapter' for h, t, c in toc) else 'ಸೂಕ್ತಸೂಚಿ') + '</h2><ul>' + ''.join(f'<li class="{"su" if c == "part" else "ch sk"}"><a href="#{h}">{html.escape(t)}</a></li>' for h, t, c in toc) + '</ul></section>\n'

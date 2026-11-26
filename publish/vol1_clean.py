@@ -17,9 +17,16 @@ GAP_B_NOTICE = ('<div class="edition-note">\n\n**Editorial notice.** The source 
     'available they could not be read with the certainty that a reference table requires. The cross-reference lines, printed in mirrored pairs (“A B … B A”), '
     'are compressed: each ṛṣi is listed once, with the ṛṣis paired with him or her.\n\n</div>')
 
+def _levels(text, name):
+    # title levels chapter - 1 - 2 - 3 from the original (tools/rv/headings.py; REQUIREMENTS A4 print rule 17); in memory only
+    import sys
+    sys.path.insert(0, str(ROOT / 'tools' / 'rv')); import headings
+    return headings.apply_en(text, 1, name)
+
 def load_gap(letter):
     """Blocks of one gap section of the supplementary translation, normalised for the Volume 1 build."""
     txt = GAPS.read_text(encoding='utf-8')
+    txt, _ = _levels(txt, GAPS.name)
     txt = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', txt)
     m = re.search(r'(?m)^# GAP ' + letter + r' — .*$', txt)
     nxt = re.search(r'(?m)^# GAP [A-D] — .*$', txt[m.end():])
@@ -68,6 +75,7 @@ def log(kind, lineno, text):
 
 def clean():
     text = SRC.read_text(encoding='utf-8')
+    text, nlev = _levels(text, SRC.name); print(f'title levels applied to the English (vol1/data/headings_en.tsv): {nlev}')
     text = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', text)
     text = re.sub(r'(?m)^(#{1,6} .*)\n(?!\n)', r'\1\n\n', text)   # and a blank line after
     lines = text.split('\n')
