@@ -39,11 +39,11 @@ for n in sorted(pages):
     head = lines[0]
     nums = [num(x) for x in re.findall(r'(?<![0-9೦-೯])(' + D + r'{1,3})(?![0-9೦-೯])', head)]
     printed = n - off
-    if printed not in nums: flag(n, 'page-number', f'printed page should be {printed}; head line has {nums}: {head[:70]}')
+    if printed not in nums and not head.lstrip().startswith(('[Illustration', '॥ ಶ್ರೀಃ')): flag(n, 'page-number', f'printed page should be {printed}; head line has {nums}: {head[:70]}')
     m = re.search(r'ವ\.?\s*(' + D + r'{1,2})', head)
     if m:
         v = num(m.group(1))
-        if last_varga is not None and v < last_varga: flag(n, 'varga', f'varga {v} after {last_varga}')
+        if last_varga is not None and v < last_varga and v != 1: flag(n, 'varga', f'varga {v} after {last_varga}')      # a restart at 1 = a new adhyāya
         last_varga = v
     m = re.search(r'ಸೂ\.?\s*(' + D + r'{1,2})', head)
     if m:
