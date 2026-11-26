@@ -8598,6 +8598,303 @@ Purified Soma, you squeeze forth the celebrated riches (of the enemy) ; do you w
 > अ॒प॒घ्नन्प॑वसे॒ मृधः॑ क्रतु॒वित्सो॑म मत्स॒रः ।  
 > नु॒दस्वादे॑वयुं॒ जन॑म् ॥ २४ ॥
 
+### Printed p. 248
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपऽघ्नन् । पवसे । मृधः । क्रतुऽवित् । सोम । मत्सरः ।  
+> नुदस्व । अदेवऽयुम् । जनम् ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम मत्सरः मदकरो यस्त्वं मृधः हिंसकान् शत्रून् अपघ्नन् मारयन् क्रतुवित् अस्मभ्यं प्रज्ञां प्रयच्छन् पवसे क्षरसि स त्वम् अदेवयुम् अदेवकामं जनं राक्षसवर्गं नुदस्व प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who are intoxicating (matsara), slaying (apaghnan) the harmful (mṛdhaḥ) enemies and bestowing wisdom (kratuvit, explained as "giving us understanding") upon us, flow (pavase), that is, stream. Such as you are, drive away (nudasva), that is, impel, the people who do not desire the gods (adevayu), the class of Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- मत्सरः (*matsaraḥ*)—you who gladden
+- मृधः (*mṛdhaḥ*)—the harmful enemies
+- अपघ्नन् (*apaghnan*)—destroying
+- क्रतुवित् (*kratuvit*)—desiring to produce wisdom in us
+- पवसे (*pavase*)—you flow
+- अदेवयुं (*adevayuṃ*)—who is not a worshipper of the gods
+- जनं (*janaṃ*)—the unbeliever
+- नुदस्व (*nudasva*)—strike down
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who gladden, flow, destroying the harmful enemies and desiring to produce wisdom in us. Strike down the unbeliever who does not worship the gods.
+
+##### English translation
+Soma, you who are exhilarating, flow defeating the enemies, bestowing knowledge (on us); drive off the people who love not the gods.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑माना असृक्षत॒ सोमाः॑ शु॒क्रास॒ इंद॑वः ।  
+> अ॒भि विश्वा॑नि॒ काव्या॑ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानाः । असृक्षत । सोमाः । शुक्रासः । इंदवः ।  
+> अभि । विश्वानि । काव्या ॥ २५ ॥
+
+### Printed p. 249
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> शुक्रासः उज्ज्वलाः इंदवः दीप्ताः पवमानाः क्षरंतः सोमाः विश्वानि काव्या काव्यानि स्तोत्राणि अभि असृक्षत सृज्यंत ऋत्विग्भिः ॥ ॥ ३४ ॥
+
+##### Gist of the bhāṣya
+
+The bright (śukrāsaḥ) and shining (indavaḥ) Soma-juices, flowing and purifying (pavamānāḥ), are produced (asṛkṣata, explained as "are created") by the priests as all songs of praise (viśvāni kāvyā, explained as "praises"). The section number 34 is printed at the end of the block.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- शुक्रासः (*śukrāsaḥ*)—radiant
+- इंदवः (*iṃdavaḥ*)—flowing
+- पवमानाः (*pavamānāḥ*)—and purifying
+- सोमाः (*somāḥ*)—the Soma-juices
+- विश्वानि (*viśvāni*)—all
+- काव्या (*kāvyā*)—the songs of praise
+- अभ्यसृक्षत (*abhyasṛkṣata*)—they cause to be produced by the priests
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, radiant, flowing and purifying, cause all the songs of praise to be produced by the priests.
+
+##### English translation
+The brilliant purified Soma-juices are let fall amidst all praises.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मानास आ॒शवः॑ शु॒भ्रा अ॑सृग्र॒मिंद॑वः ।  
+> घ्नंतो॒ विश्वा॒ अप॒ द्विषः॑ ॥ २६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानासः । आशवः । शुभ्राः । असृग्रम् । इंदवः ।  
+> घ्नंतः । विश्वाः । अप । द्विषः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> आशवः शीघ्राः शुभ्राः शोभमानाः पवमानासः क्षरंतः इंदवः दीप्ताः सोमाः विश्वाः सर्वान् द्विषः द्वेष्टॄन् शत्रून् अप घ्नंतः मारयंतः असृग्रं सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The swift (āśavaḥ), splendid (śubhrāḥ), flowing (pavamānāsaḥ) and shining (indavaḥ) Soma-juices are produced (asṛgram), slaying all hateful enemies (viśvāḥ dviṣaḥ apa ghnantaḥ).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आशवः (*āśavaḥ*)—swift-moving
+- शुभ्राः (*śubhrāḥ*)—shining
+- पवमानासः (*pavamānāsaḥ*)—and flowing
+- इंदवः (*iṃdavaḥ*)—the Soma-juices
+- विश्वाः (*viśvāḥ*)—all
+- द्विषः (*dviṣaḥ*)—enemies
+- अप घ्नंतः (*apa ghnaṃtaḥ*)—destroying
+- अस्यग्रं (*asyagraṃ*)—they are produced **NOTE**
+
+### Printed p. 250
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices, swift-flowing, shining and purifying, are produced, destroying all enemies.
+
+##### English translation
+The purified Soma-juices flow swift and bright, destroying enemies.
+
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑माना दि॒वस्पर्यं॒तरि॑क्षादसृक्षत ।  
+> पृ॒थि॒व्या अधि॒ सान॑वि ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमानाः । दिवः । परि । अंतरिक्षात् । असृक्षत ।  
+> पृथिव्याः । अधि । सानवि ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानाः सोमाः दिवः द्युलोकात् अंतरिक्षात् च पृथिव्याः भूम्याः अधि सानवि समुच्छ्रिते देशे देवयजने परि असृक्षत सृज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The purifying (pavamānāḥ) Soma-juices are produced (asṛkṣata) from heaven (divaḥ), that is, from the world of heaven, and from the atmosphere, upon the earth (pṛthivyāḥ adhi), at the high (sānavi) place, that is, the place of the sacrifice to the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमानाः (*pavamānāḥ*)—the purifying Soma-juices
+- दिवः (*divaḥ*)—from the world of heaven
+- अंतरिक्षात् (*aṃtarikṣāt*)—and from the atmosphere
+- पृथिव्याः अधि (*pṛthivyāḥ adhi*)—upon the earth
+- सानवि (*sānavi*)—in the very high place of sacrifice
+- पर्यसृक्षत (*paryasṛkṣata*)—they are produced and poured
+
+##### भावार्थ (Bhāvārtha)
+
+The purifying Soma-juices are produced and poured upon the earth, in the very high place of sacrifice, both from the world of heaven and from the atmosphere.
+
+##### English translation
+The purified (juices) are poured forth from heaven aad from the firmament upon the summit of the ground. **NOTE**
+
+### Printed p. 251
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नः सो॑म॒ धार॒येंदो॒ विश्वा॒ अप॒ स्रिधः॑ ।  
+> ज॒हि रक्षां॑सि सुक्रतो ॥ २८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । सोम । धारया । इंदो इति । विश्वा । अप । स्रिधः ।  
+> जहि । रक्षांसि । सुक्रतो इति सुऽक्रतो ॥ २८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्त सुक्रतो सुकर्मन् सोम धारया पुनानः पूयमानस्त्वं विश्वाः सर्वान् स्रिधः द्वेष्टॄन् शत्रून् रक्षांसि राक्षसांश्च अप जहि मारय ॥
+
+##### Gist of the bhāṣya
+
+O shining (indo) Soma, of good action (sukrato), you who are being purified (punānaḥ) by the stream (dhārayā), strike down (apa jahi), that is, slay, all hateful enemies (viśvāḥ sridhaḥ) and the Rākṣasas.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O radiant one
+- सुक्रतो (*sukrato*)—and performer of excellent action
+- सोम (*soma*)—O Soma-deva
+- धारया (*dhārayā*)—with your stream
+- पुनानः (*punānaḥ*)—you who bring about purification
+- विश्वाः (*viśvāḥ*)—all
+- स्त्रिधः (*stridhaḥ*)—the enemies **NOTE**
+- रक्षांसि (*rakṣāṃsi*)—the Rākṣasas
+- अप जहि (*apa jahi*)—destroy
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Soma-deva, performer of excellent action, you who bring about purification with your stream, destroy all the enemies and the Rākṣasas.
+
+##### English translation
+Brilliani Soma, do you, purified in a stream, achieving great acts, destroy all foes and the Rakshasas. **NOTE**
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प॒घ्नन्सो॑म र॒क्षसो॒ऽभ्य॑र्ष॒ कनि॑क्रदत् ।  
+> द्यु॒मंतं॒ शुष्म॑मुत्त॒मम् ॥ २९ ॥
+
+### Printed p. 252
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अपऽघ्नन् । सोम । रक्षसः । अभि । अर्ष । कनिक्रदत् ।  
+> द्युऽमंतम् । शुष्मम् । उत्ऽतमम् ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं रक्षसः रक्षांसि अपघ्नन् विनाशयन् कनिक्रदत् शब्दं कुर्वन् द्युमंतं दीप्तिमंतम् उत्तमं श्रेष्ठं शुष्मं बलम् अभ्यर्ष अस्मान् प्रति पवस्व ॥
+
+##### Gist of the bhāṣya
+
+O Soma, destroying (apaghnan) the Rākṣasas and making a sound (kanikradat), flow (abhyarṣa) towards us, that is, stream towards us, shining (dyumantam), that is, radiant, and excellent (uttamam), that is, best, strength (śuṣmam).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- रक्षसः (*rakṣasaḥ*)—the Rākṣasas
+- अपघ्नन् (*apaghnan*)—destroying
+- कनिक्रदत् (*kanikradat*)—and making a sound
+- द्युमंतं (*dyumaṃtaṃ*)—radiant
+- उत्तमं (*uttamaṃ*)—and excellent
+- शुष्मं (*śuṣmaṃ*)—strength
+- अभ्यर्ष (*abhyarṣa*)—cause to come to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, destroying the Rākṣasas and making a sound, cause radiant and excellent strength to come to us.
+
+##### English translation
+Destroying the Rakshasas, pour forth, Soma, with a noise, brilliant and excellent vigour.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒स्मे वसू॑नि धारय॒ सोम॑ दि॒व्यानि॒ पार्थि॑वा ।  
+> इंदो॒ विश्वा॑नि॒ वार्या॑ ॥ ३० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्मे इति । वसूनि । धारय । सोम । दिव्यानि । पार्थिवा ।  
+> इंदो इति । विश्वानि । वार्या ॥ ३० ॥
+
+### Printed p. 253
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो दीप्त सोम दिव्यानि दिवि भवानि पार्थिवा पार्थिवानि पृथिव्यां जातानि च विश्वानि सर्वाणि वार्या वार्याणि वरणीयानि वसूनि अस्मे अस्मासु धारय प्रक्षिप ॥ ॥ ३५ ॥
+
+##### Gist of the bhāṣya
+
+O shining (indo) Soma, place (dhāraya), that is, put, in us (asme) all (viśvāni) desirable (vāryā) treasures (vasūni), those that belong to heaven (divyāni) and those born on earth (pārthivā). The section number 35 is printed at the end of the block.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O radiant
+- सोम (*soma*)—O Soma-deva
+- दिव्यानि (*divyāni*)—those born in the world of heaven
+- पार्थिवौ (*pārthivau*)—those born on the earth **NOTE**
+- विश्वानि (*viśvāni*)—all
+- वार्या (*vāryā*)—and desired
+- वसूनि (*vasūni*)—treasures
+- अस्मे (*asme*)—to us
+- धारय (*dhāraya*)—bring and provide
+
+##### भावार्थ (Bhāvārtha)
+
+O radiant Soma-deva, cause all the treasures, those born in the world of heaven and those born on the earth, and fully desired, to come to us.
+
+##### English translation
+Bestow upon us, Soma, celestial and terrestrial treasnres : (bestow), Indu, all desirable things. **NOTE**
+
+## Sūkta 64 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘वृषा सोम' इति त्रिंशदृचं चतुर्थं सूक्तं मारीचस्य कश्यपस्यार्षं गायत्रं पवमानसौम्यम् । तथा चानुक्रांतं- वृषा सोम कश्यपः' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta "vṛṣā soma" is the fourth sūkta of the thirty-verse set; its seer is Kaśyapa, son of Marīci; the metre is Gāyatrī; the deity is Pavamāna Soma. He cites the Anukramaṇī, "vṛṣā soma kaśyapaḥ". The ritual use has been stated.
+
+Anuvāda: This sūkta, "vṛṣā soma", is the fourth sūkta in the third Anuvāka. It has thirty Ṛks. Its seer is Mārīca Kāśyapa; its deity is Pavamāna Soma; its metre is Gāyatrī. In the Anukramaṇikā it is said "vṛṣā somaḥ kaśyapaḥ". The ritual use was stated earlier.
+
+Sūkta 64.
+
+Maṇḍala 9; Anuvāka 3; Sūkta 64.
+
+Aṣṭaka 7; Adhyāya 1; Vargas 36, 37, 38, 39, 40, 41.
+
+Number of Ṛks in the sūkta: 30.
+
+Seer: Kaśyapa.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī. **NOTE**
+
 ---
 
-**Progress note:** Done through printed p. 247. Ṛk 17 end to Ṛk 24 start, pp. 242-247
+**Progress note:** Done through printed p. 253. Ṛk 24 to Ṛk 30, start of Sūkta 64, pp. 248-253
