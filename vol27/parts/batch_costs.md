@@ -129,3 +129,4 @@
 | w0777 pp. 777-782 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 17814 + cache write 0 + cache read 5309, out 5035 | $0.044 |
 | w0783 pp. 783-788 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 22241 + cache write 0 + cache read 5309, out 10151 | $0.074 |
 | w0789 pp. 789-794 | claude-sonnet-5-5 batch API, effort medium | 1 request | in 20581 + cache write 0 + cache read 5309, out 12469 | $0.083 |
+| through p. 812 (three windows in one agent: pp. 795-800, 801-806, 807-812) | sonnet | 14 | 169559 | 4.8 |
