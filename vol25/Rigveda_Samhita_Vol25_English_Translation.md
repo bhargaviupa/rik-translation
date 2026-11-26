@@ -22191,6 +22191,281 @@ O Agni, friend of the Maruts (मरुत्सखा (*marutsakhā*)), dear to
 
 O Agni, friend of the Maruts, come graciously with the Maruts to our excellent sacrifice for the drinking of Soma. Attend to the good praise of me, called Sobhari, and gain the joy that results.
 
+### Printed p. 573
+
+##### English translation
+Agni, you have the Maruts as your friends, come with the Rudras to drink the Soma ; come to the praises of Sobhari ; delight yourself at our solemn rite.
+
+वेदार्थस्यप्रकाशेन तमो हार्दं निवारयन् । पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥ (*vedārthasyaprakāśena tamo hārdaṃ nivārayan | pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*)
+
+इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपाल साम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाश ऋक्संहिताभाष्ये अष्टमं मंडलं समाप्तं ॥ (*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkabhūpāla sāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśa ṛksaṃhitābhāṣye aṣṭamaṃ maṃḍalaṃ samāptaṃ ‖*)
+
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+
+Here the eighth maṇḍala of the Ṛgveda-saṃhitā, with the Śrī Sāyaṇa-bhāṣya and the Karnāṭaka translation, is completed.
+
+॥ ओं तत्सत् ॥ (*‖ oṃ tatsat ‖*)
+
+यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् । तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते । (*yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet | tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te |*)
+
+॥ शुभं भूयात् ॥ (*‖ śubhaṃ bhūyāt ‖*)
+
+॥ मंगळं ॥ (*‖ maṃgaḷaṃ ‖*)
+
+## Maṇḍala 9
+
+॥ श्री ॥ (*‖ śrī ‖*)
+
+॥ श्री महागणाधिपतये नमः ॥ (*‖ śrī mahāgaṇādhipataye namaḥ ‖*)
+
+वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥ (*vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*)
+
+यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥ (*yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*)
+
+वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥ (*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*)
+
+Ṛgveda-Saṃhitā with Sāyaṇa's Bhāṣya.
+
+The ninth maṇḍala. The seventh chapter in the sixth Aṣṭaka.
+
+**Preface (Pīṭhike)**
+
+Since the preface to the maṇḍala, which ought to be included here, has not been written and made ready, that preface, and the detailed matters concerning Soma, the sole deity of this maṇḍala, are set out in the next part, that is, at the beginning of Part 26.
+
+The first sūkta in the ninth maṇḍala.
+
+## Sūkta 1 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋग्वेदसंहिता
+> श्रीमत्सायणाचार्यविरचितभाष्यसमेता
+> ॥ अथ नवमं मंडलम् ॥
+> नवमे मंडले सप्तानुवाकाः । तत्र प्रथमेऽनुवाके चतुर्विंशतिसंख्याकानि सूक्तानि । तत्र ‘ स्वादिष्ठया' इति दशर्चं प्रथमं सूक्तम् । अत्रानुक्रम्यते--- स्वादिष्ठया दश मधुच्छंदाः' इति । वैश्वामित्रो मधुच्छंदा ऋषिः । प्राग्वत्सप्रीयपरिभाषया गायत्री छंदः । ‘ नवमं मंडलं पावमानं सौम्यम्' (अनु.) इति वचनात् पवमानगुणविशिष्टः सोमो देवता । ग्रावस्तोत्रेऽर्बुदसूक्तस्य प्रागुत्तमाया इदमादिकं सर्वं पावमानं विकल्पेनावपनीयम् । सूत्रितं च---’ प्रैते वदंत्वित्यर्बुदं प्रागुत्तमाया आ व ऋंजसे   प्र वो ग्रावाण इति सूक्तयोरंतरोपरिष्टात्पुरस्ताद्वा पावमानीरोप्य यथार्थमा वा ग्रहग्रहणात् ' ( आश्व. श्रौ. ५, १२) इति । उपाकर्मणि मंडलादिग्रहण आद्या ! सूत्रं पूर्वमेवोदाहृतम् ॥
+
+##### Gist of the bhāṣya
+
+The ninth maṇḍala has seven anuvākas. In the first anuvāka there are twenty-four sūktas. Among them the first sūkta, of ten Ṛks, is the one beginning स्वादिष्ठया (*svādiṣṭhayā*). The Anukramaṇikā says of it: स्वादिष्ठया दश मधुच्छंदाः (*svādiṣṭhayā daśa madhucchaṃdāḥ*). The seer is Madhucchandas Vaiśvāmitra. The metre is Gāyatrī, by the rule of the Saprīya convention as before. By the statement पावमानं सौम्यम् (*pāvamānaṃ saumyam*) (Anu.) about the ninth maṇḍala, the deity is Soma, distinguished by the quality of purifying. In the Grāvastotra (the praise of the pressing stones), before the last Ṛk of the Arbuda sūkta, all the Pāvamāna hymns beginning with this one are to be inserted optionally. It is laid down in the sūtra: प्रैते वदंत्वित्यर्बुदं प्रागुत्तमाया आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोरंतरोपरिष्टात्पुरस्ताद्वा पावमानीरोप्य यथार्थमा वा ग्रहग्रहणात् (*praite vadaṃtvityarbudaṃ prāguttamāyā ā va ṛṃjase pra vo grāvāṇa iti sūktayoraṃtaropariṣṭātpurastādvā pāvamānīropya yathārthamā vā grahagrahaṇāt*) (Āśva. Śrau. 5. 12). In the Upākarman, at the taking up of the beginning of the maṇḍala, the first Ṛk is used; the sūtra was quoted earlier.
+
+### Printed p. 576
+
+##### Anuvāda
+
+In the ninth maṇḍala of the Ṛgveda-saṃhitā there are seven anuvākas. In the first of them there are twenty-four sūktas. Of these, this sūkta beginning स्वादिष्ठया (*svādiṣṭhayā*) is the first. In the Anukramaṇikā it is said: स्वादिष्ठया दश मधुच्छंदा (*svādiṣṭhayā daśa madhucchaṃdā*). The seer of this sūkta is the one named Madhucchandas Vaiśvāmitra; the metre is Gāyatrī. According to the statement नवमु मंडलं पावमानं सौम्यं (*navamu maṃḍalaṃ pāvamānaṃ saumyaṃ*), the deity is Soma, distinguished by the quality of purifying. In the Grāvastotra (on the occasion of praising the stones that are the means of pressing the Soma), at the beginning and at the end of the Arbuda sūkta, all the hymns to Pavamāna Soma, beginning with this very sūkta, may optionally be recited for the purpose of insertion (to increase the stoma), as is explained by the sūtra of the Āśvalāyana Śrauta-sūtra प्रैते वदंत्वित्यर्बुदं प्रागुत्तमाया आ व ऋंजसे प्र वो ग्रावाण इति सूक्तयोरंतरोपरिष्टात्सरस्ताद्वा पावमानीरोप्य यथार्थमा वा ग्रहग्रहणात् (*praite vadaṃtvityarbudaṃ prāguttamāyā ā va ṛṃjase pra vo grāvāṇa iti sūktayoraṃtaropariṣṭātsarastādvā pāvamānīropya yathārthamā vā grahagrahaṇāt*) (Ā. 5-12). In the principal homas of the rites of Adhyāya-upākarma and Utsarjana, the first Ṛk of this sūkta is applied for the Ṛks at the beginning of the maṇḍala. The sūtra has been quoted earlier.
+
+##### Particulars
+
+Sūkta 1.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 1.
+
+Aṣṭaka 6. Adhyāya 7. Vargas 16, 17.
+
+Number of Ṛks in the sūkta: 10.
+
+Seer: Madhucchandas.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वादि॑ष्ठया॒ मदि॑ष्ठया॒ पव॑स्व सोम॒ धार॑या ।  
+> इंद्रा॑य॒ पात॑वे सु॒तः ॥ १ ॥
+
+### Printed p. 577
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> स्वादिष्ठया । मदिष्ठया । पवस्व । सोम । धारया ।  
+> इंद्राय । पातवे । सुतः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम इंद्राय पातवे पातुं सुतः अभिषुतः त्वं स्वादिष्ठया स्वादुतमया मदिष्ठया अतिशयेन मादयित्र्या धारया पवस्व क्षर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who have been pressed for Indra to drink: flow (पवस्व (*pavasva*), that is, stream forth) in a stream (धारया (*dhārayā*)) that is the sweetest (स्वादिष्ठया (*svādiṣṭhayā*)) and most exhilarating (मदिष्ठया (*madiṣṭhayā*)), that is, most intoxicating.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- इंद्राय (*iṃdrāya*)—to Indra
+- पातवे (*pātave*)—for drinking
+- सुतः (*sutaḥ*)—you who have been pressed
+- स्वादिष्ठया (*svādiṣṭhayā*)—most excellent, most delicious, and joy-giving
+- धारया (*dhārayā*)—in a stream
+- पवस्व (*pavasva*)—flow (become flowing)
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, you who have been pressed for Indra to drink, become one who flows in a stream that is most delicious and joy-giving.
+
+##### English translation
+Flow, Soma, in a most sweet and exhilarating stream, effused for Indra to drink.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> र॒क्षो॒हा वि॒श्वच॑र्षणिर॒भि योनि॒मयो॑हतम्!  
+> द्रुणा॑ स॒धस्थ॒मास॑दत् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> रक्षःऽहा । विश्वऽचर्षणिः । अभि । योनिम् । अयःऽहतम् ।  
+> द्रुणा । सधऽस्थम् । आ । असदत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+### Printed p. 578
+
+> रक्षोहा रक्षसां हंता विश्वचर्षणिः विश्वस्य द्रष्टा सोमः अयोहतं हिरण्येन हतम् । तथा च ब्राह्मणं - ’ हिरण्यपाणिरभिषुणोति' इति । द्रुणा द्रोणकलशेनाधिषवणफलकाभ्यां वा सधस्थं सहस्थानं योनिम् अभिषवस्थानम् अभि आसदत् अभ्यासीदति ॥
+
+##### Gist of the bhāṣya
+
+Soma is the destroyer of Rakṣasas (रक्षोहा (*rakṣohā*)) and the beholder of all (विश्वचर्षणिः (*viśvacarṣaṇiḥ*)). He is struck with gold (अयोहतं (*ayohataṃ*)). So a Brāhmaṇa says: हिरण्यपाणिरभिषुणोति (*hiraṇyapāṇirabhiṣuṇoti*). With the Droṇa vessel, or with the two pressing boards, he sits down (अभि आसदत् (*abhi āsadat*)) at the shared place (सधस्थं (*sadhasthaṃ*)), that is, at the womb (योनिम् (*yonim*)), the place of pressing.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- रक्षोहा (*rakṣohā*)—the destroyer of Rakṣasas
+- विश्वचर्षणिः (*viśvacarṣaṇiḥ*)—and one with the power to behold everything, Soma
+- अयोहतं (*ayohataṃ*)—pounded with gold
+- द्रुणा (*druṇā*)—together with the Droṇa vessel
+- सधस्थं (*sadhasthaṃ*)—and staying together
+- योनिं (*yoniṃ*)—his own place of pressing (the region of squeezing)
+- अभ्यासदत् (*abhyāsadat*)—has reached
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the destroyer of Rakṣasas and one with the power to behold everything, has reached the place of pressing himself, which is pounded with gold and stays together with the Droṇa vessel.
+
+##### English translation
+The all-beholding destroyer of Rakshasas has stepped upon his gold-smitten brithplace, united with the wooden cask.
+
+##### विशेषविषयगळु (Special Topics)
+
+योनिं (*yoniṃ*) means the place where the juice arises.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> व॒रि॒वो॒धात॑मो भव॒ मंहि॑ष्ठो वृत्र॒हंत॑मः ।  
+> पर्षि॒ राधो॑ म॒घोना॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वरिवःऽधातमः । भव । मंहिष्ठः । वृत्रहन्ऽतमः ।  
+> पर्षि । राधः । मघोनाम् ॥ ३ ॥
+
+### Printed p. 579
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं वरिवोधातसः अतिशयेन धनानां दाता भव । वेदो वरिवः' इति धननामसु पाठात् । मंहिष्ठः दातृतमश्च भव । सर्वदातृत्वमत्रोच्यत इत्यपुनरुक्तिः । वृत्रहंतमः अतिशयेन शत्रूणां हंता भव । किंच मघोनां धनवतां शत्रूणां राधः धनं च पर्षि अस्मभ्यं प्रयच्छ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, be the greatest giver of wealth (वरिवोधातसः (*varivodhātasaḥ*)) **NOTE**, for वेदो वरिवः (*vedo varivaḥ*) is read among the names of wealth. Be also the most bounteous (मंहिष्ठः (*maṃhiṣṭhaḥ*)), the greatest giver; the giving of all things is spoken of here, so there is no repetition. Be the greatest destroyer of foes (वृत्रहंतमः (*vṛtrahaṃtamaḥ*)). And bestow (पर्षि (*parṣi*)) on us the wealth (राधः (*rādhaḥ*)) of the wealthy (मघोनां (*maghonāṃ*)) enemies.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- (त्वं (*tvaṃ*)—you)
+- वरिवोधातमः (*varivodhātamaḥ*)—be one who gives wealth most generously
+- भव (*bhava*)—be
+- मंहिष्ठः (*maṃhiṣṭhaḥ*)—be a giver of food and the like
+- वृत्रहंतमः (*vṛtrahaṃtamaḥ*)—be a destroyer of enemies
+- मघोनां (*maghonāṃ*)—of the wealthy enemies
+- राधः (*rādhaḥ*)—the wealth
+- पर्षि (*parṣi*)—snatch and give to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, be one who gives wealth to us most generously. Give food and the like also. Be the destroyer of our enemies. Snatch the wealth of the wealthy enemies and give it to us.
+
+##### English translation
+Be the lavsh giver of wealth, most bounteous, the destroyer of enemies; bestow on us the riches of the affuent.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्य॑र्ष म॒हानां॑ दे॒वानां॑ वी॒तिमंध॑सा ।  
+> अ॒भि वाज॑मु॒त श्रवः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । अर्ष । महानाम् । देवानाम् । वीतिम् । अंधसा ।  
+> अभि । वाजम् । उत । श्रवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं महानां महतां देवानां वीतिं यज्ञम् अंधसा धानाद्यन्नेन सह अभ्यर्ष अभिगच्छ । उत अपि चाभिगच्छंस्त्वं वाजं बलं श्रवः अन्नं चाभिगमयास्मानित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, go (अभ्यर्ष (*abhyarṣa*)) to the sacrifice (वीतिं (*vītiṃ*)) of the great gods, together with food (अंधसा (*aṃdhasā*)), grain and the like. And going, bring to us strength (वाजं (*vājaṃ*)) and food (श्रवः (*śravaḥ*)): this is the meaning.
+
+### Printed p. 580
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- महानां (*mahānāṃ*)—possessed of greatness
+- देवानां (*devānāṃ*)—which worships the gods
+- वीतिं (*vītiṃ*)—towards the sacrifice
+- अंधसा (*aṃdhasā*)—with foods
+- अभ्यर्ष (*abhyarṣa*)—be gracious
+- उत (*uta*)—and
+- वाजं (*vājaṃ*)—strength
+- श्रवः (*śravaḥ*)—food
+- अभि (अर्ष) (*abhi (arṣa)*)—bring to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, be gracious with foods to the sacrifice that worships the gods, who are possessed of greatness. Bring strength and food to us along with it.
+
+##### English translation
+Come with food to the sacrifice of the mighty gods, and bring to us strength and sustenance.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वामच्छा॑ चरामसि॒ तदिदर्थं॑ दि॒वेदि॑वे ।  
+> इंदो॒ त्वे न॑ आ॒शसः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वाम् । अच्छ । चरामसि । तत् । इत् । अर्थम् । दिवेऽदिवे ।  
+> इंदो इति । त्वे इति । नः । आऽशसः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंदो यागेषु क्लिद्यमान सोम त्वामच्छ त्वां प्रति चरामसि वयं चरामः। दिवेदिवे प्रतिदिनमस्माकं तदित् तदेव त्वत्परिचरणमेव अर्थं कार्यं नान्यत्कार्यमस्ति । नः अस्माकम् आशसः आशंसनान्यपि त्वे त्वय्येव नान्यत्र ॥ ॥ १६ ॥
+
+##### Gist of the bhāṣya
+
+O Indu, Soma who are moistened in the sacrifices: we go towards you (त्वामच्छ (*tvāmaccha*), चरामसि (*carāmasi*)). Every day (दिवेदिवे (*divedive*)) the service of you alone is our task (अर्थं (*arthaṃ*)); there is no other work. Our desires (आशसः (*āśasaḥ*), our hopes) too are in you alone, and not elsewhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O Soma, who flow in the form of a stream in the sacrifice
+- त्वां अच्छ (*tvāṃ accha*)—towards you
+- चरामसि (*carāmasi*)—we move
+- दिवेदिवे (*divedive*)—every day
+- तदित् (*tadit*)—for your worship alone
+- अर्थं (*arthaṃ*)—all our activities are
+- नः (*naḥ*)—our
+- आशसः (*āśasaḥ*)—praises also
+- त्वे (*tve*)—are offered to you
+
 ---
 
-**Progress note:** Done through printed p. 572. Sukta 103 Rk 9 Pada to Rk 14, pp. 567-572
+**Progress note:** Done through printed p. 580. End of Mandala 8, opening of Mandala 9 Sukta 1 Rk 1-5, pp. 573-580
