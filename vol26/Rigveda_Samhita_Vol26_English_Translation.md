@@ -3161,6 +3161,261 @@ The divine Soma, the purifier, flows, slaying and destroying the Asuras and maki
 The purifier (the Soma) flows forth destroying the Rakshasas. flashing
 out brilliance as of old.
 
+### Printed p. 131
+
+## Sūkta 50 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘उत्ते' इति पंचर्चं षड्विंशं सूक्तमांगिरसस्योचथ्यस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रांतम्---’ उत्ते शुष्मास उचथ्यः' इति । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उत्ते (*utte*) has five ṛks and is the twenty-sixth sūkta. Its seer is Ucathya Āṅgirasa, its metre is Gāyatrī, and its deity is Pavamāna Soma. So the Anukramaṇī says उत्ते शुष्मास उचथ्यः (*utte śuṣmāsa ucathyaḥ*). The use in the rite has been stated.
+
+This sūkta beginning उत्ते (*utte*) is the twenty-sixth sūkta in the second anuvāka. It contains five ṛks. Ucathya Āṅgirasa is the seer of this sūkta; Pavamāna Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said उत्ते शुष्मासः उचथ्यः (*utte śuṣmāsaḥ ucathyaḥ*). The use in the rite has been stated before.
+
+Sūkta 50. Maṇḍala 9, Anuvāka 2, Sūkta 50. Aṣṭaka 7, Adhyāya 1, Varga 7. Number of ṛks in the sūkta: 5. Seer: Ucathya. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उत्ते॒ शुष्मा॑स ईरते॒ सिंधो॑रू॒र्मेरि॑व स्व॒नः ।  
+> वा॒णस्य॑ चोदया प॒विम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ते । शुष्मासः । ईरते । सिंधोः । ऊर्मेःऽइव । स्वनः ।  
+> वाणस्य । चोदय । पविम् ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव शुष्मासः शुष्मा वेगाः उत् ईरते उद्गच्छंति । तत्र दृष्टांतः । सिंधोः समुद्रस्य ऊर्मेरिव यथा तरंगात् स्वनः ध्वनिरुद्गच्छति तद्वदित्यर्थः । सः त्वं वाणस्य विसृष्टस्य बाणस्य नालस्य वा वादित्रविशेषस्य पविं शब्दम् । पविः भारती ' इति वाङ्नामसु पाठात् । चोदय प्रेरय । वेगेन स्यंदमानस्त्वं विसृष्टबाणशब्दसदृशं शब्दं कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your शुष्मासः (*śuṣmāsaḥ*), that is, your impetuous rushes, rise up. The illustration: as the sound rises from a wave of the sea, so it is meant. You, then, are to send forth the sound (पविं (*paviṃ*)) of a discharged arrow, or of a reed, or of a particular musical instrument; for "pavi" is read as a name of speech ("Pavi is Bhāratī") among the speech-names. Sāyaṇa's sense: flowing with speed, make a sound like that of a discharged arrow.
+
+### Printed p. 132
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- सिंधोः (*siṃdhoḥ*)—of the sea
+- ऊर्मेः (*ūrmeḥ*)—from the stroke of the waves
+- स्वनः इव (*svanaḥ iva*)—like the sound arising
+- ते (*te*)—your
+- शुष्मासः (*śuṣmāsaḥ*)—the sound of the speed of the current
+- उदीरते (*udīrate*)—arises and spreads
+- वाणस्य (*vāṇasya*)—like the sound arising from the speed of an arrow
+- पविं (*paviṃ*)—the sound of your current
+- चोदय (*codaya*)—impel
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, like the sound arising from the stroke of the waves of the sea, the sound of the speed of your current arises and spreads; impel the sound of your current like the sound arising from the speed of an arrow or of a particular musical instrument.
+
+##### English translation
+Forth flow your mighty (streams), like the roar (issuing) from the ocean wave: emit your sound like that of a (rushing) arrow.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒स॒वे त॒ उदी॑रते ति॒स्रो वाचो॑ मख॒स्युवः॑ ।  
+> यदव्य॒ एषि॒ सान॑वि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रऽसवे । ते । उत् । ईरते । तिस्रः । वाचः । मखस्युवः ।  
+> यत् । अव्ये । एषि । सानवि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव प्रसवे सति मखस्युवः यज्ञमिच्छतो यजमानस्य तिस्रो वाचः ऋग्यजुःसामात्मकानि त्रीणि वाक्यानि उदीरते उद्गच्छंति । कदेत्यत आह । यत् यदा सानवि व्युच्छ्रिते अव्ये अविभये पवित्रे एषि त्वं गच्छसि ।
+
+##### Gist of the bhāṣya
+
+O Soma, when you come into being, the three voices (तिस्रो वाचः (*tisro vācaḥ*)), that is, the three kinds of utterance consisting of Ṛk, Yajus and Sāman, of the sacrificer who desires the sacrifice rise up. When is that? He says: when you go to the raised (सानवि (*sānavi*)) sheep's-wool (अव्ये (*avye*)) filter, that is, the one free from danger.
+
+### Printed p. 133
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O divine Soma)
+- ते (*te*)—your
+- प्रसवे (*prasave*)—at the time of birth
+- यत् (*yat*)—when
+- सानवि (*sānavi*)—placed on a raised place
+- अव्ये (*avye*)—made of wool, to the ten-fold filter
+- एषि (*eṣi*)—you go and join, then
+- मखस्युवः (*makhasyuvaḥ*)—of the sacrificer who has resolved on the sacrifice
+- तिस्रः वाचः (*tisraḥ vācaḥ*)—the voices of three kinds, in the forms of Ṛk, Yajus and Sāman
+- उदीरते (*udīrate*)—are recited and become manifest
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, at the time of your birth, when you go and join the ten-fold filter, which is placed on a raised place and made of wool, then the voices of the sacrificer who has resolved on the sacrifice, of three kinds in the forms of Ṛk, Yajus and Sāman, are recited.
+
+##### English translation
+At your birth the three voices of the worshipper are uttered when you go to the summit of the fleece.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अव्यो॒ वारे॒ परि॑ प्रि॒यं हरिं॑ हिन्वं॒त्यद्रि॑भिः ।  
+> पव॑मानं मधु॒श्चुत॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अव्यः । वारे । परि । प्रियम् । हरिम् । हिन्वंति । अद्रिऽभिः ।  
+> पवमानम् । मधुऽश्चुतम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> प्रियं देवानां प्रीतिकरं हरिं हरितवर्णम् अद्रिभिः ग्रावभिरभिषुतं मधुश्चुतं मधुनो रसस्य च्यावयितारं पवमानं सोमम् अव्यः अवेः वारे वाले परि हिन्वंति ऋत्विजः परिप्रेरयंति ।
+
+##### Gist of the bhāṣya
+
+The priests (ṛtvij) impel (परि हिन्वंति (*pari hinvaṃti*)) Pavamāna Soma onto the hair (वारे (*vāre*)) of the sheep (अव्यः (*avyaḥ*)): Soma who is dear (प्रियं (*priyaṃ*)), that is, pleasing to the gods; green-tinted (हरिं (*hariṃ*)); pressed with the stones (अद्रिभिः (*adribhiḥ*)), that is, the pressing-stones; and honey-dropping (मधुश्चुतं (*madhuścutaṃ*)), that is, one who makes the sweet juice flow.
+
+### Printed p. 134
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- प्रियं (*priyaṃ*)—that which is pleasing to the gods
+- हरिं (*hariṃ*)—that which is green in colour
+- अद्रिभिः (*adribhiḥ*)—that which is pressed with stones
+- मधुश्चुतं (*madhuścutaṃ*)—that which makes the sweet juice flow
+- पवमानं (*pavamānaṃ*)—and that which purifies, the Soma juice
+- अव्यः (*avyaḥ*)—of the wool
+- वारे (*vāre*)—in the fibres (in the ten-fold filter)
+- परि हिन्वंति (*pari hinvaṃti*)—the priests pour for purification
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juice, which is pleasing to the gods, green in colour, pressed with stones, makes the sweet juice flow and purifies, is poured by the priests, for purification, on the wool fibres of the ten-fold filter.
+
+##### English translation
+(The priests)effuse with the stones into the fleece the beloved green-tinted purifying honey-dropping (Soma).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व मदिंतम प॒वित्रं॒ धार॑या कवे ।  
+> अ॒र्कस्य॒ योनि॑मा॒सद॑म् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । मदिन्ऽतम । पवित्रम् । धारया । कवे ।  
+> अर्कस्य । योनिम् । आऽसदम् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदिंतम मादयितृतम कवे क्रांतकर्मन् सोम अर्कस्य अर्चनीयस्येंद्रस्य योनिं स्थानम् आसदं प्राप्तुं पवित्रम् अतीत्य धारया संपातेन आ पवस्व आभिमुख्येन क्षर । यद्यप्येषा पूर्वस्मिन्नध्याये ( ऋ. सं. ९.२५.६ ) व्याकृता तथापि मंदमतीनां विस्मरणशंकया पुनर्व्याख्याता ॥
+
+##### Gist of the bhāṣya
+
+O most exhilarating (मदिंतम (*madiṃtama*)) one, O sage (कवे (*kave*)), one of far-reaching works, Soma: in order to reach (आसदं (*āsadaṃ*)) the abode (योनिं (*yoniṃ*)) of Indra, the one to be worshipped (अर्कस्य (*arkasya*)), pass beyond the filter (पवित्रं (*pavitraṃ*)) and flow (आ पवस्व (*ā pavasva*)) towards him, that is, stream forth, in a current (धारया (*dhārayā*)), that is, in a continuous fall. Although this ṛk was explained in the previous adhyāya (Ṛ. Saṃ. 9.25.6), it is explained again for fear that those of slow wit have forgotten it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतम (*madiṃtama*)—O one who gives gladness in the highest degree
+- कवे (*kave*)—and who is of wise works, O divine Soma
+- अर्कस्य (*arkasya*)—of the worshipful Indra
+- योनिं (*yoniṃ*)—the abode
+- आसदं (*āsadaṃ*)—in order to go
+- पवित्रं (*pavitraṃ*)—passing beyond the ten-fold filter
+- धारयो (*dhārayo*)—in the form of a current **NOTE**
+- आ पवस्व (*ā pavasva*)—flow
+
+### Printed p. 135
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, giver of gladness in the highest degree, of wise works, in order to reach the abode of the worshipful Indra (his belly), pass beyond the ten-fold filter and flow in the form of a current.
+
+##### English translation
+Most exilarating sage (Soma), flow in a stream to the filter to sit on Indra's lap.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स प॑वस्व मदिंतम॒ गोभि॑रंजा॒नो अ॒क्तुभिः॑ ।  
+> इंद॒विंद्रा॑य पी॒तये॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । पवस्व । मदिन्ऽतम । गोभिः । अंजानः । अक्तुऽभिः ।  
+> इंदो इति । इंद्राय । पीतये ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदिंतम मादयितृतम इंदो सोम अक्तुभिः अंजनसाधनभूतैः गोभिः गोविकारैः पयोभिः अंजानः अज्यमानः संस्क्रियमाणः सः त्वम् इंद्राय इंद्रस्य पीतये पानाय पवस्व
+
+##### Gist of the bhāṣya
+
+O most exhilarating (मदिंतम (*madiṃtama*)) Indu, Soma: being anointed (अंजानः (*aṃjānaḥ*)), that is, refined, with the cows' products (गोभिः (*gobhiḥ*)), that is, with milk, which are the means of anointing (अक्तुभिः (*aktubhiḥ*)), you flow (पवस्व (*pavasva*)) for Indra's drinking (पीतये (*pītaye*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिंतम (*madiṃtama*)—O most excellent giver of gladness
+- इंदो (*iṃdo*)—O divine Soma
+- अक्तुभिः (*aktubhiḥ*)—which are like unguents
+- गोभिः (*gobhiḥ*)—with milk and the other admixture substances
+- अंजानः (*aṃjānaḥ*)—united and well refined
+- सः (*saḥ*)—you
+- इंद्राय (*iṃdrāya*)—of Indra
+- वीतये (*vītaye*)—for drinking **NOTE**
+- पवस्व (*pavasva*)—flow
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, most excellent giver of gladness, united with milk and the other admixture substances that are like unguents, and well refined, flow for Indra's drinking.
+
+##### English translation
+Most exhilarating Indu. being anointed with the unguents of milk and curds, flow forth for Indra's drinking.
+
+### Printed p. 136
+
+## Sūkta 51 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘अध्वर्यो ' इति पंचर्चं सप्तविंशं सूक्तमांगिरसस्योचथ्यस्यार्षं गायत्रं पवमानसोमदेवताकम् । तथा चानुक्रम्यते-' अध्वर्यो ' इति । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अध्वर्यो (*adhvaryo*) has five ṛks and is the twenty-seventh sūkta. Its seer is Ucathya Āṅgirasa, its metre is Gāyatrī, and its deity is Pavamāna Soma. The Anukramaṇī says अध्वर्यो (*adhvaryo*). The use of the sūkta in the rite has been stated.
+
+This sūkta beginning अध्वर्यो (*adhvaryo*) is the twenty-seventh sūkta in the second anuvāka. It contains five ṛks. The seer of this sūkta is Ucathya, the son of Aṅgiras; Pavamāna Soma is the deity; the metre is Gāyatrī. In the Anukramaṇikā it is said अध्वर्यो (*adhvaryo*). The use of the sūkta has been stated before.
+
+Sūkta 51. Maṇḍala 9, Anuvāka 2, Sūkta 51. Aṣṭaka 7, Adhyāya 1, Varga 8. Number of ṛks in the sūkta: 5. Seer: Uṣadhyaḥ **NOTE**. Deity: Pavamāna Soma. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध्व॑र्यो॒ अद्रि॑भिः सु॒तं सोमं॑ प॒वित्र॒ आ सृ॑ज ।  
+> पु॒नी॒हींद्रा॑य॒ पात॑वे ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध्वर्यो इति । अद्रिऽभिः । सुतम् । सोमम् । पवित्रे । आ । सृज ।  
+> पुनीहि । इंद्राय । पातवे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अध्वर्यो अद्रिभिः ग्रावभिः सुतम् अभिषुतं सोमं पवित्र आ सृज । एतदेव दर्शयति । इंद्राय इंद्रस्य पातवे पानाय पुनीहि पावय ॥
+
+##### Gist of the bhāṣya
+
+O Adhvaryu, pour out the Soma pressed (सुतम् (*sutam*)) with the stones (अद्रिभिः (*adribhiḥ*)), that is, the pressing-stones, onto the filter. He shows this very thing: purify it, that is, cleanse it, for Indra's drinking (पातवे (*pātave*)).
+
 ---
 
-**Progress note:** Done through printed p. 130. Sūkta 48 Ṛk 4-5; Sūkta 49 complete
+**Progress note:** Done through printed p. 136. Maṇḍala 9, Sūkta 50 and start of 51 (pp. 131-136)
