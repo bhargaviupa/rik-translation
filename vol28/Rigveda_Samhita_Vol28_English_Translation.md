@@ -11027,6 +11027,135 @@ On how the gods and the Angirasas became sons of Āditya, the commentator cites 
 > ना॒वा न क्षोदः॑ प्र॒दिशः॑ पृथि॒व्याः स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
 > स्वां प्र॒जां बृ॒हदु॑क्थो महि॒त्वाव॑रेष्टदधा॒दा परे॑षु ॥ ७ ॥
 
+### Printed p. 350
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> नावा । न । क्षोदः । प्रदिशः । पृथिव्याः । स्वस्तिभिः । अति । दुःगानि । विश्वा ।  
+> स्वां । प्रजां । बृहत् उक्तः । महित्वा । आ । अवरेषु । अदधात् । आ । परेषु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> नावा नोदकोत्तरणसाधनेनेव क्षोद उदकं यथा मनुष्या नावोदकम.
+> तितरंति यथा वा स्वस्तिभिः क्षेमैर्विश्वा सर्वाणि दुर्गाणि दुःखेन गंतव्यान्यतितरंति
+> तद्वद्बृहदुक्थः स्वां प्रजां वाजिनं मृतं पुत्रं महित्वा स्वमहत्वेनावरेष्वाग्न्यादिष्टादधात् । कृतवान् । तदा परेषु दिव्येषु सूर्यादिष्ठादधात् । एवमृषिर्भूते
+> स्वयमेव ना स्वात्मानं परोक्षेणाह ॥
+
+##### Gist of the bhāṣya
+
+As men cross the water (क्षोद (*kṣoda*), that is, water) with a boat, the instrument for crossing water, or as they cross all difficult places, those to be traversed with pain, by means of blessings (स्वस्तिभिः (*svastibhiḥ*), that is, by well-being), so Bṛhaduktha, by his own greatness, placed his own offspring, the dead son, among the beings on this side, Agni and the rest. Then he placed him among the heavenly ones, Sūrya and the rest. In this way the seer speaks of himself indirectly. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- प्रदिशः (*pradiśaḥ*)—to go and reach the various quarters
+- क्षोदः (*kṣodaḥ*)—the water met on the way
+- नावा न (*nāvā na*)—as one crosses with a boat
+- स्वस्तिभिः (*svastibhiḥ*)—by blessings
+- विश्वा (*viśvā*)—all
+- दुर्गाणि अति (*durgāṇi ati*)—as one crosses over sorrows
+- बृहदुक्थः (*bṛhadukthaḥ*)—the seer named Bṛhaduktha
+- स्वां प्रजां (*svāṃ prajāṃ*)—his own dead son
+- महित्वा (*mahitvā*)—by his greatness
+- अवरेषु (*avareṣu*)—in the fires and other lights that are on earth
+- आ दधात् (*ā dadhāt*)—has established
+- परेषु आ (*pareṣu ā*)—has established also in the lights of the heavenly world, Āditya and the rest
+
+##### भावार्थ (Bhāvārtha)
+
+As one crosses with a boat the water met on the way in going to the various quarters of the earth, and as one crosses all sorrows by means of blessings, so the seer Bṛhaduktha, by his greatness, has established his dead son in the lights of Agni and the rest that are on earth. He has established him also in the lights of Āditya and the rest that are in the heavenly world.
+
+##### English translation
+As men pass over the water to the several quarters of the earth in a ship ; (as they pass over) all difficulties by the blessings (of fortune), Brihaduktha by his might has committed his own offspring to those on this side, and to those on the other side.
+
+## Sūkta 57 (Maṇḍala 10)
+
+**Introduction**
+The seers of the four sūktas from the 57th to the 60th of this Maṇḍala are the brothers beginning with Bandhu, the sons of Gopāyana. They were the family priests of a king of the Ikṣvāku line named Asamāti.
+
+### Printed p. 351
+
+That king, misled by the bad counsel of some, dismissed the four brothers who were his priests, Bandhu, Subandhu, Śrutabandhu and Viprabandhu, and appointed two men skilled in magical arts, Kilāta and Ākuli. Hence enmity arose between the former priests, Bandhu and the others, and the new priests, Kilāta and Ākuli, and it ended in the death of Subandhu, one of the four. The bhāṣyakāra has described this matter briefly in the introduction to this sūkta; we shall set it out further on. Now what Śaunaka has said on this matter in his Bṛhaddevatā is set out.
+
+Verses 84–86 of the Bṛhaddevatā (Bṛ. De. 5-84, 85, 86), given in Sanskrit in the Kannada, begin: "Hear from me, who wish to tell the sūkta together with its story." The Kannada explains them as follows. There is an account (upākhyāna) concerning these sūktas (sūktas 57–60). Listen, I shall tell it. Among the kings of the Ikṣvāku line there was a king named Asamāti, son of Rathaproṣṭha. He removed from the priesthood four brothers beginning with Bandhu, his family priests, of the family of Atri, seers of the Ṛks in the dvipadā virāṭ metre (Ṛ. Saṃ. 5-24). He judged two twice-born men, Kirāta and Ākuli, to be the best and the most skilled in priestly work, and appointed them his priests.
+
+Verses 87–90 follow in Sanskrit. The Kannada explains them thus. These new priests, by their magical power and yogic power, took the form of pigeons and went to the sons of Gopāyana, Bandhu and the others. They caused the man named Subandhu to fall in a swoon.
+
+### Printed p. 352
+
+Then they took his life away and went to their own king, Asamāti. Seeing Subandhu fallen motionless on the ground, having given up his life, his brothers Bandhu, Śrutabandhu and Viprabandhu recited, for the welfare of their dead brother Subandhu, the sūkta beginning मा प्र गाम (*mā pra gāma*) (Ṛ. Saṃ. 10, sūkta 57), and, to bring his life back into the body, the sūkta beginning यत्ते यमं (*yatte yamaṃ*) (sūkta 58).
+
+Verses 91–94 follow in Sanskrit. The Kannada explains them thus. Then, as a remedy for the dead man, the three Ṛks beginning प्रतार्यायुः (*pratāryāyuḥ*) (the first three Ṛks of sūkta 59) are to be recited in order to drive away Nirṛti, the deity of sin. In the fourth Ṛk of this sūkta, मो षु णः सोम (*mo ṣu ṇaḥ soma*), the first three pādas praise the deity Soma. The fourth pāda concerns Nirṛti. So this whole Ṛk praises Soma and Nirṛti. In the next two, that is, Ṛks 5 and 6, Asunīti is praised. But Yāska is of the opinion that in the last pāda of the 6th Ṛk the deity named Anumati is praised. In the 7th Ṛk the deities Bhūḥ, Dyauḥ, Soma, Pūṣan, Antarikṣa, Pathyā and Svasti are praised for the pacification of Subandhu. In Ṛks 8–10 Heaven and Earth are praised for pacification. In the first half of the last Ṛk, the tenth, beginning समिंद्रेरय (*samiṃdreraya*), Indra is praised.
+
+Verses 95–97 follow in Sanskrit. The Kannada continues as follows.
+
+### Printed p. 353
+
+They praised Heaven and Earth for the destruction of the body's ill-health. Ill-health (रपः (*rapaḥ*)), or disease, is the mark of sin committed in the past. With the first four Ṛks of the next sūkta (the 60th) they praised the king (Asamāti), the ornament of the Ikṣvāku line. Then, for his well-being and increase, they prayed to Indra with the Ṛk beginning इंद्र क्षत्र (*iṃdra kṣatra*). Seeing himself praised in this way and Indra being prayed to for his welfare, King Asamāti was ashamed of the wrong he had done; he went to Bandhu and the others, the sons of Gopāyana, and stood silent with his head bowed in shame.
+
+Verses 98–101 follow in Sanskrit (Bṛ. De. Adhyāya 7). The Kannada explains them thus. As Agni was praised before in the Atri Maṇḍala (Maṇḍala 5, sūkta 24), so now too they praised Agni with Ṛks in the dvipadā virāṭ metre. Agni, satisfied by this, spoke thus: "O Bandhu and the others, behold, the life of your brother Subandhu and that of the king of the Ikṣvāku line (Asamāti) is right within the circle of the sacrificial fire. Until now I myself have been guarding the lives of these two." Saying this, and saying "O Subandhu, live again," he gave his life back to him. Then Agni, greatly praised by the Gaupāyanas, that is, by Bandhu and the others, the sons of Gopāyana, went off to heaven, glad. Afterwards Bandhu and the others, with satisfied minds, called back the life (the self) of Subandhu with the 7th Ṛk of this sūkta, आयं माता (*āyaṃ mātā*). They showed Subandhu's body lying there motionless, prayed that it should enter it again, and for that purpose, that is, so that life might arise in the dead body, they recited the Ṛks of this sūkta to the end. Reciting the last (12th) Ṛk, आयं मे हस्ते भगवान् (*āyaṃ me haste bhagavān*), each of the three brothers separately touched Subandhu, now alive again, with his hands.
+
+### Printed p. 354
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मा प्र गामेति पडृचं पंचदशं सूक्तं गायत्रं वैश्वदेवं । ऐक्ष्वाकोऽसमातिर्नाम राजा । तस्य बंधुः सुबंधुः श्रुतबंधुर्विप्रबंधुश्चति चत्वारः पुरोहिता आसन् । ते च गौपायनाः । स च राजा तांस्कृत्यान् मायाविनावृषी
+> पुरोहितत्वेनावृणीत। ततो बंध्वादयः क्रुद्धाः संत इमं राजानमभिचरितवंतः।
+> एतज्ञात्वा मायाविनौ पुरोहितावेषामन्यतमं सुबंधुं प्राणैर्वियो जितवंत् ।
+> मृतस्यास्य भ्रातरो बंधुः श्रुतबंधुर्विप्रबंधुरित्येऽविनाशप्राप्ति हेतुभूतमिदं
+> दृष्ट्वा जपंति स्म । अतस्तेऽस्य सूक्तस्यर्षयः । प्रतिपाद्यत्वादावर्तमानं मनो
+> देवता । तथा चानुक्रांतं । अथ हैक्ष्वाको राजासमातिर्गौपायनान्बंध्वादीन्पुरोहितांस्कृत्यान् मायाविनौ श्रेष्ठतमौ मत्वा पुरोदधे तमितरे क्रुद्धा
+> अभिचेरुः अथ तौ मायाविनौ सुबंधोः पाणानाचिक्षिपतुरथ हास्य भ्रातरस्त्रयो
+> मा प्र गामेति षट्कं गायत्रं स्वस्त्ययनं जप्तोति ॥ अग्नि समीपाद्देशांतरगमनसमय इदं सूक्तं जप्यं । सूत्रितं च । प्रव्रजेदनपेक्षमाणो मा प्र गामेति
+> सूक्तं जपन् । अ. २-५ । इति ! महापितृयज्ञेऽप्येतदृत्विर्जप्यं । सूत्रितं च । मा
+> प्र गामाग्नेत्वं न इति जपंतः । आ. २-१९ । इति ॥ निविदः स्थानातिपत्ताविदं सूक्तं शस्त्रा
+> सूक्तांतरे निवित्प्रक्षेप्तव्या । सूत्रितं च । स्थानं चेन्निविदोऽतिहरेन्मा प्र गामेति
+> पुरस्तात्तूक्तं शस्त्रा । अ. ६-६ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta मा प्र गाम (*mā pra gāma*) has six Ṛks, is in the Gāyatra metre, and is addressed to the Viśvedevas. There was a king of the Ikṣvāku line named Asamāti. He had four priests, Bandhu, Subandhu, Śrutabandhu and Viprabandhu, Gopāyanas. The king set them aside and chose as priests two skilled in magic. Then Bandhu and the others, angered, performed abhicāra (hostile rites) against the king. Learning this, the two magician priests deprived Subandhu, one of them, of his life. His brothers Bandhu, Śrutabandhu and Viprabandhu, seeing him dead, recited this sūkta. **NOTE** Therefore they are the seers of this sūkta, and the deity is the "returning mind" (*āvartamānaṃ manaḥ*), because it is what is spoken of. So says the Anukramaṇī, whose passage he quotes, ending with the three brothers reciting the six-Ṛk Gāyatra auspicious hymn मा प्र गाम (*mā pra gāma*).
+
+Ritual use: this sūkta is to be recited when one goes from the vicinity of the fire to another place; he cites the sūtra प्रव्रजेदनपेक्षमाणो (*pravrajedanapekṣamāṇo*) and following words, Ā. Sū. 2-5. **NOTE** At the Mahāpitṛyajña too the officiating priests recite it; he cites the sūtra ending जपंतः (*japaṃtaḥ*), 2-19. When the place of the nivid is overstepped, this sūkta is to be inserted in another sūkta of the śastra, as the sūtra स्थानं चेन्निविदोऽतिहरेन्मा (*sthānaṃ cennivido 'tiharenmā*) and following states, 6-6.
+
+##### Anuvāda
+
+This sūkta, मा प्र गाम (*mā pra gāma*), is the fifteenth sūkta in the fourth anuvāka. It has six Ṛks. Its deity is the Viśvedevas; its metre is Gāyatrī. Formerly, among the kings of the Ikṣvāku line there was a king named Asamāti. Four seers, sons of the seer named Gopāyana, Bandhu, Subandhu, Śrutabandhu and Viprabandhu, were his priests. But the king set aside the four, Bandhu and the others, his family priests, and appointed two others, magicians (deceivers), as priests. Seeing this, the brothers Bandhu and the others were angered and did harm to the king by abhicāra (magic or sorcery). Learning this, those two seers, the royal priests, took the life of Subandhu, the second of the four brothers. Seeing that their brother Subandhu had died, the remaining three brothers recited this sūkta for the welfare of their dead brother. Therefore the three brothers Bandhu, Śrutabandhu and Viprabandhu are the seers of this sūkta; and the Anukramaṇī says, in the passage beginning अथ हैक्ष्वाको (*atha haikṣvāko*) and running on
+
+### Printed p. 355
+
+to "having recited the Gāyatra auspicious hymn of six Ṛks, मा प्र गाम (*mā pra gāma*)." The use is as follows. That a householder is to recite this sūkta when he leaves his Agnihotra and the like and goes to another place is explained by the Āśvalāyana Śrautasūtra, the sūtra प्रव्रजेदनपेक्षमाणो (*pravrajedanapekṣamāṇo*) and following words (Ā. 2-5). That the officiating priests are to recite this sūkta also in the iṣṭi called Mahāpitṛyajña is explained by the Āśvalāyana Śrautasūtra, the sūtra ending इति जपंतः (*iti japaṃtaḥ*) (Ā. 2-19). And when, in reciting the nivid sūkta, another sūkta has to be recited, this sūkta is to be recited in its place, that is, in exchange for it, and the nivid sūkta is to be inserted in the middle of the other sūkta, as the Āśvalāyana Śrautasūtra explains in the sūtra स्थानं चेन्निविदोऽतिहरेन्मा (*sthānaṃ cennivido 'tiharenmā*) and following words (Ā. 6-6).
+
+## Sūkta 57
+Maṇḍala 10. Anuvāka 4. Sūkta 57.
+Aṣṭaka 8. Adhyāya 1. Varga 19.
+Number of Ṛks in the sūkta: 6.
+Seers: Bandhu, Śrutabandhu and Viprabandhu, the Gaupāyanas.
+Deity: Viśvedevas.
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> मा प्र गा॑म प॒थो व॒यं मा य॒ज्ञा दिं॑द्र सो॒मिनः॑ ।  
+> मांतःस्थु॑र्नो॒ अरा॑तयः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> मा । प्र । गाम । पथः । वयं । मा । यज्ञात् । इंद्र । सोमिनः ॥  
+> मा । अंतरिति । स्थुः । नः । अरातयः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रोक्ताख्याने शाट्यायनकं । असमातिं राथप्रौष्ठं गौपायना अभ्यगमंस्ते खांडवे सत्प्रमासताथ हाससातौ राथप्रौष्ठे किलाताकुली ऊषतुरसुरमाय् तं ह स्मानग्नौ निधायौदनं पचतोऽग्नौ मांसमथासुरान्नं दग्ध्वेक्ष्वाकवः पराबभूवुः । तमसमातिं राथप्रौष्ठं गौपायनानामाहुतयोऽभ्यतपन्
+> सोऽब्रवीदिमौ किलाताकुली इमा वै मा गौपायनानामाहुतयोऽभितसंतीति
+> तावब्रूतां तस्य वा आवामेव भिषजौ स्व आवां प्रायश्चित्तिरानां तथा करिष्यावो
+
+##### Gist of the bhāṣya
+
+On the story told here, the Śāṭyāyanaka (Brāhmaṇa) says: the Gaupāyanas approached Asamāti, son of Rathaproṣṭha. They were in the Khāṇḍava, and two, Kilāta and Ākuli, lived with Rathaproṣṭha's son, using asura magic. Placing the cooked rice and the flesh in the fire, they burned the asura food, and the Ikṣvākus were overthrown. The oblations of the Gopāyanas tormented that Asamāti, son of Rathaproṣṭha. He said: "Kilāta and Ākuli, these oblations of the Gopāyanas are tormenting me." The two answered that they were his physicians, and that they would see to the expiation for it, and that they would do so. (The passage is cut off here.)
+
 ---
 
-**Progress note:** Done through printed p. 349. pp. 344-349 (batch API)
+**Progress note:** Done through printed p. 355. pp. 350-355 (batch API)
