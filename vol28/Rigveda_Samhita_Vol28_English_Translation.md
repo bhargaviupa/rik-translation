@@ -10764,6 +10764,269 @@ In the bodies of all living beings the Vaiśvānara fire pervades as heat, and i
 
 O son named Vāji, may this earth, which carries your body, give us attractive wealth. May she give you happiness. Without stumbling anywhere, enter, for your firm support, the great gods, Āditya who dwells in the heaven-world, and your own form.
 
+### Printed p. 344
+
+##### English translation
+May this body (the earth) conveying your body; Vajin, give precious wealth to us and hapiness to you; and do you, without stumbling, enter among the great gods for their support; and the light that is in heaven (the sun) and your own (light).
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वा॒ज्य॑सि॒ वाजि॑नेना सुवे॒नीः सु॑वि॒तः स्तोमं॑ सुवि॒तो दिवं॑ गाः ।  
+> सु॒वि॒तो धर्म॑ प्रथ॒मानु॑ स॒त्या सु॑वि॒तो दे॒वान्तु॑सवि॒तोऽनु॒  ॑
+> पत्न्य ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वाजी । असि । वाजिनेन । सुवेनीः । सुवितः । स्तोमं । सुवितः । दिवं । गाः ।  
+> सुवितः । धर्म । प्रथमा । अनु । सत्या । सुवितः । देवान् । सुवितः । अनु । पत्न्य ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पुत्र त्वं पाजिनेनान्नरसेन बलेन वा वाज्यसि । तद्वान्भवसि । कीदृशस्त्वं ।
+> सुवेनीः । सुष्टु कांतः ॥ वि गत्यादिषु ॥ तादृशस्त्वं सुवितः सुष्टु प्रेरितस्त्वं
+> स्तोमं पूर्वं त्वया कृतं स्तोत्रं तदभिमानिदेवमनु गाः । अन्वगाः । अनुगच्छ ।
+> तथा सुवितो दिवं गाः । तथा सुवितो धर्मत्वया संपादितानि धर्माण्यनुगच्छ ।
+> कीदृशानि । प्रथमा मुख्यानि सत्या सत्यफलानि । तथा सुवितो देवानिंद्रादीन् । तथा
+> सुवितः पत्म पतज्योतिरादित्याख्यमनु गाः ॥
+
+##### Gist of the bhāṣya
+
+"O son, you are वाजी (*vājī*), possessed of वाजिनेन (*vājinena*), that is, food-essence or strength." सुवेनीः (*suvenīḥ*) means "well-beloved, handsome". Being such, and सुवितः (*suvitaḥ*), well urged, follow the स्तोमं (*stomaṃ*), the praise composed earlier by you, that is, the deity who is its object. Likewise, urged, go to heaven. Likewise, urged, follow the धर्म (*dharma*), the rites accomplished by you, which are प्रथमा (*prathamā*) (chief) and सत्या (*satyā*) (true in their fruit). Likewise, urged, follow the gods, Indra and the others. Likewise, urged, follow the पत्म (*patma*), the light called Āditya.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजिनेन (*vājinena*)—by food-essence (O son)
+- वाजी असि (*vājī asi*)—you are endowed with strength
+- सुवेनीः (*suvenīḥ*)—you possess an attractive form
+- सुवितः (*suvitaḥ*)—urged by that
+- स्तोमं (*stomaṃ*)—towards the goal of your act of praise
+- अनु गाः (*anu gāḥ*)—follow and go
+- सुवितः (*suvitaḥ*)—stimulated from there
+- दिवं (*divaṃ*)—to heaven
+- गाः (*gāḥ*)—go
+- सुवितः (*suvitaḥ*)—urged there
+- प्रथमा (*prathamā*)—excellent
+- सत्या (*satyā*)—true in nature
+- धर्म (*dharma*)—proceed according to the dharma performed by you
+- सुवितः (*suvitaḥ*)—urged by that dharma
+- देवान् (*devān*)—join the gods, Indra and others
+- सुवितः (*suvitaḥ*)—urged from there too
+- पत्त्म (*pattma*)—the light in the form of Āditya
+- अनु (*anu*)—follow and go
+
+### Printed p. 345
+
+##### भावार्थ (Bhāvārtha)
+
+O son, you are strong through food-essence and possess an attractive form. Urged by that, follow the goal of the praise you made before. Stimulated from there, go to heaven. Urged there, proceed according to the dharma, excellent and true in nature, practised by you. Urged by that dharma, join the gods, Indra and the others. Urged there too, join the light in the form of Āditya.
+
+##### English translation
+You are, Vajin, (strong) through food; you (are) well-beloved: urged
+thereto follow (the object of your) praise : urged thereto proceed to heaven:
+urged thereto pursue the duties that are the most important and sure of
+reward : urged thereto follow the gods : urged thereto follow (the light),
+descending (from heaven).
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> म॒हि॒म्म ए॑षां पि॒तर॑श्च॒नेशि॑रे दे॒वा दे॒वेष्ट॑दधु॒रपि॒ क्रतुं॑ ।  
+> सम॑विव्यचुरु॒त यान्यत्वि॑षु॒रैषां॑ त॒नूषु॒ नि वि॑विशुः॒ पुनः॑ ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> महिम्नः । एषां । पितरः । चन । ईशिरे । देवाः । देवेषु । अदधुः । अपि । क्रतुं ।  
+> सं । अविव्यचुः । उत । यानि । अत्विषुः । आ एषां । तनूषु । नि । विविशुः । पुनरिति ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितरश्चनास्मत्पितरोऽप्यंगिरस एषां देवानां महिन्नो महत्त्वस्येशिरे ।
+> ईश्वरा अभवन् । ते देवा अपि देवत्वं प्राप्ता अंगिरसो देवेष्ट्विंद्रादिषु क्रतुं
+> संकल्पमदधुः । धृतवंतः । उतापि च यानि तेजांस्यतिषुर्दिप्यंते तानि समविव्यचुः । संगता आसन् । एषां देवानां तनूषु शरीरेषु नि विविशुः । निविशंति
+> पितरोऽप्यंगिरसः । अतस्त्वमपि तथा कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+पितरश्चन (*pitaraścana*): our fathers, the Angirasas, became lords of the greatness of these gods. Having attained godhood, the Angirasas placed their क्रतुं (*kratuṃ*), their resolve, in the gods, Indra and the others, that is, they held it there. And the radiances that shine, these they joined; they became united with them. They have entered the bodies of these gods; our fathers the Angirasas enter. Therefore you too should do likewise: this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरश्चन (*pitaraścana*)—our fathers, the Angirasas
+- एषां (*eṣāṃ*)—of these gods
+- महिम्नः (*mahimnaḥ*)—to the greatness
+
+### Printed p. 346
+- ईशिरे (*īśire*)—became lords
+- देवाः (*devāḥ*)—they, having attained godhood
+- देवेषु अपि (*deveṣu api*)—among the gods too, Indra and the others
+- क्रतुं (*kratuṃ*)—their resolve
+- अदधुः (*adadhuḥ*)—bore (made their own resolve be fulfilled)
+- उत (*uta*)—and
+- यानि (*yāni*)—which radiances
+- अत्विषुः (*atviṣuḥ*)—shine, those
+- समविव्यचुः (*samavivyacuḥ*)—joined and became one with them
+- एषां (*eṣāṃ*)—of these gods
+- तनूषु (*tanūṣu*)—in the bodies
+- पुनः (*punaḥ*)—again
+- नि विविशुः (*ni viviśuḥ*)—have entered
+
+##### भावार्थ (Bhāvārtha)
+
+Our fathers, the Angirasas, obtained a greatness exceeding even that of the gods and became lords over them all. Having attained godhood, they made their own resolve be fulfilled even among Indra and the other gods, and entered all the radiances. They entered again into the bodies of the gods.
+
+##### English translation
+Our progenitors (the Angirasas) were lords over the might of those
+(divinities), they having become gods imposed their will upon the gods ;
+they attained also (the radiances) which shone forth and they again entered
+the bodies of those (gods).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> सहो॑भि॒र्विश्वं॒ परि॑ चक्रमू॒ रजः॒ पूर्वा॒ धामा॒न्यमि॑ता॒  ॑
+> मिमानाः ।  
+> त॒नूषु॒ विश्वा॒ भुव॑ना॒ नि ये॑मिरे॒ प्रासा॑रयंत पुरु॒ध प्र॒जा  ॑
+> अनु ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहःभिः । विश्वं । परि । चक्रमुः । रजः । पूर्वा । धामानि । अमिता । मिमानाः ।  
+> तनूषु । विश्वा । भुवना । नि । येमिरे । प्र । असारयंत । पुरुध । प्रजाः । अनु ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मदीयाः पितरः सहोभिर्बलैः स्वीयैर्विश्वं सर्वं रजो लोकं । लोका
+> रजांस्युच्यंत इति निरुक्तं । पूर्वा पूर्वाणि धामानि स्थानान्यमितानैरमितानि
+> मिमानाः परिच्छिंदंतः परिचक्रमुः । पर्यक्रामन् । किंच तथा कुर्वंतो विश्वा
+> सर्वाणि भुवना भूतजातानि नियेमीरे । नियमितवंतः । किंच पुरुध पुरुधा बहु-
+
+##### Gist of the bhāṣya
+
+My fathers, by their own सहोभिः (*sahobhiḥ*) (powers), traversed the whole रजः (*rajaḥ*), the world; "worlds are called rajas" (Nirukta). Measuring, that is, delimiting, the ancient places that had not been measured, they traversed them. Doing so, they also restrained all beings. And they spread out, in many ways, the प्रजा (*prajā*) …
+
+### Printed p. 347
+
+> प्रकारं प्रजा अनु ज्योतींष्युदकानि वा प्रासारयंत । प्रसारितवंतः । अस्मत्पितरः
+> पूर्वेंगिरसः स्वसामर्थ्येन सर्वं लोकं व्याप्य पुरातनानि ग्रहनक्षत्रादीनि परिच्छिद्य सर्वभूतानि नियम्य प्रजा अनूदकानि तेजांसि वा प्रसारितवंत इत्यर्थः ।
+> आतस्त्वमस्येवं कुर्विति भावः ॥
+
+##### Gist of the bhāṣya
+
+… that is, lights or waters, following the creatures. The meaning: our fathers, the ancient Angirasas, pervading the whole world by their own power, delimiting the ancient planets, stars and the rest, restraining all beings, spread out lights or waters in accordance with the creatures. The intent is: "therefore you too do likewise."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितरः (*pitaraḥ*)—my fathers, the Angirasas
+- अमिता (*amitā*)—not measured by anyone before
+- पूर्वा (*pūrvā*)—ancient
+- धामानि (*dhāmāni*)—places
+- सहोभिः (*sahobhiḥ*)—by their powers
+- मिमानाः (*mimānāḥ*)—measuring
+- विश्वं रजः (*viśvaṃ rajaḥ*)—all the worlds
+- परि चक्रमुः (*pari cakramuḥ*)—traverse
+- विश्वा (*viśvā*)—all
+- भुवना (*bhuvanā*)—beings
+- तनूषु (*tanūṣu*)—according to their respective forms
+- नि येमिरे (*ni yemire*)—restrain
+- पुरुध (*purudha*)—in many ways
+- प्रजाः (*prajāḥ*)—creatures
+- अनु प्रासारयंत (*anu prāsārayaṃta*)—have divided and spread in the world
+
+##### भावार्थ (Bhāvārtha)
+
+Our fathers, the Angirasas, traverse all the worlds, measuring by their powers the ancient places not measured by anyone before. They restrain all beings according to their respective forms. They have divided the creatures in many ways and spread them in the world.
+
+##### English translation
+By their powers they traversed the whole world, measuring the ancient divisions (till then) unmeasured :  they restricted all existent beings to their proper forms ;  they distributed in many directions (light) among the people.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> द्विधा॑ सू॒नवोऽसु॑रं स्व॒र्विद॒मास्था॑पयंत तृ॒तीये॑न॒ कर्ण॑णा ।  
+> स्वां प्र॒जां पि॒तरः॒ पित्र्यं॒ सह॒ आव॑रेष्टदधु॒स्तंतु॒मात॑तं ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> द्विधा । सूनवः । असुरं । स्वःविदं । आ । अस्थापयंत । तृतीयेन । कर्मणा ।  
+> स्वां । प्रजां । पितरः । पित्र्यं । सहः । आ । अवरेषु । अदधुः । तंतुं । आततं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सूनव आदित्यस्य पुत्रा देवा अंगिरसः । देवानां ह्येतत्परमं जनित्रं
+> यत्सूर्य इति प्रदर्शितत्वादादित्यस्य सूनव इति गम्यते । असुरं बलवंतं स्वर्विदं
+
+##### Gist of the bhāṣya
+
+सूनवः (*sūnavaḥ*) are the sons of Āditya, the gods, the Angirasas. That this is so is understood from what is shown: देवानां ह्येतत्परमं जनित्रं यत्सूर्य इति (*devānāṃ hyetatparamaṃ janitraṃ yatsūrya iti*), that Āditya is their origin. असुरं (*asuraṃ*) is the powerful one; स्वर्विदं (*svarvidaṃ*)
+
+### Printed p. 348
+
+> सर्वज्ञं स्वर्गस्य लंभकं वादित्यं तृतीयेन कर्मणा प्रजोत्पत्ताख्येन । ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः । तै. सं. ६-३-१०-५ । इति
+> श्रुतेः प्रजोत्पादनस्य तृतीयकर्मत्वं । तेनादित्यं द्विधास्थापयंत । द्विप्रकारमास्थापयंति । उदितं चास्त्रमितं च कुर्वंति । उद्गाभं च निग्राभं च
+> ब्रह्म देवा अनीवृधन् । तै. सं. १-१-१३-१ । इति मंत्रस्य ब्राह्मणेऽसौ
+> वा आदित्य उद्यन्नुद्गाभ एष निम्मोचन्निग्राभः । तै. सं. ५-४-६-६ । इति
+> श्रुतत्वाद्देवानामादित्यस्य द्विःस्थापनमुदयास्तमयकरणमिति गम्यते । किंच
+> पितरो मदीया अंगिरसः स्वां प्रजां । उत्पाद्येति शेषः। पित्रं सहः पितुरादित्यस्य
+> संबंधिनमपराभिभवक्षमं बलमवरेष्वादधुः । निकृष्टेपु स्वप्रजाभूतेषु मनुष्येषु स्थापितवंतः । यथा पित्रं धनं सम्यक् परिरक्ष्य स्वपुत्रेभ्यः प्रयच्छंति
+> तद्वत्पितुरादित्यस्य प्रकाशादिबलं मनुष्येषु न्यदधुरित्यर्थः। किंच तंशुं प्रजामाततं
+> विततं कृतवंत इति शेषः । पुत्रपौत्रादिरूपेणानवच्छिन्नां प्रजामित्यर्थः । अयं
+> ह्यातततंतुर्यत्प्रजेति ब्राह्मणं । प्रजातंतुं मा व्यवच्छेत्सीः । तै. आ. ७-११-१ ।
+> इति च । तंतुं तन्नन् । ऋ. १०.५३-६ । इत्यस्य ब्राह्मणं प्रजा वै तंतुः । ऐ. ब्रा.
+> ३-३८ । इति ॥
+
+##### Gist of the bhāṣya
+
+… is the all-knowing one, or the obtainer of heaven: Āditya. By the तृतीयेन कर्मणा (*tṛtīyena karmaṇā*), the third act, called the begetting of offspring: ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः (*brahmacaryeṇarṣibhyo yajñena devebhyaḥ prajayā pitṛbhyaḥ*) (Tai. Saṃ. 6-3-10-5); by this śruti the begetting of offspring is the third act. By it they established Āditya in two ways; they make him risen and set. The mantra उद्गाभं च निग्राभं च ब्रह्म देवा अनीवृधन् (*udgābhaṃ ca nigrābhaṃ ca brahma devā anīvṛdhan*) (Tai. Saṃ. 1-1-13-1) has the Brāhmaṇa असौ वा आदित्य उद्यन्नुद्ग्राभ एष निम्मोचन्निग्राभः (*asau vā āditya udyannudgrābha eṣa nimmocannigrābhaḥ*) (Tai. Saṃ. 5-4-6-6). From this it is understood that the gods' double establishment of Āditya is the causing of rising and setting. Moreover, my fathers the Angirasas, having begotten their own offspring (this is the supplied remainder), placed the पित्रं सहः (*pitraṃ sahaḥ*), the strength of their father Āditya, able to overcome rivals, in the अवरेषु (*avareṣu*), the lowly, men who are their own offspring. As fathers carefully guard paternal wealth and give it to their own sons, so they placed the father Āditya's strength of light and the rest in men. Further, they made the तंतुं (*taṃtuṃ*), the line of offspring, extended (this is the supplied remainder), that is, offspring uninterrupted as sons, grandsons and so on. The Brāhmaṇa says: अयं ह्यातततंतुर्यत्प्रजेति (*ayaṃ hyātatataṃturyatprajeti*); and प्रजातंतुं मा व्यवच्छेत्सीः (*prajātaṃtuṃ mā vyavacchetsīḥ*) (Tai. Ā. 7-11-1). For तंतुं तन्नन् (*taṃtuṃ tannan*) (Ṛ. Saṃ. 10.53-6) the Brāhmaṇa is प्रजा वै तंतुः (*prajā vai taṃtuḥ*) (Ai. Brā. 3-38).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सूनवः (*sūnavaḥ*)—the Angirasas, sons of Āditya
+- तृतीयेन कर्मणा (*tṛtīyena karmaṇā*)—by the third act, the begetting of offspring
+- असुरं (*asuraṃ*)—the powerful one
+- स्वर्विदं (*svarvidaṃ*)—the support of heaven, Āditya
+- द्विधा (*dvidhā*)—in two ways, rising and setting
+- आ स्थापयंत (*ā sthāpayaṃta*)—have established
+- पितरः (*pitaraḥ*)—our fathers, the Angirasas
+- स्वां प्रजां (*svāṃ prajāṃ*)—having begotten their own offspring
+- अवरेषु (*avareṣu*)—among those lowly men too
+- पित्र्यं सहः (*pitryaṃ sahaḥ*)—the strength of Āditya
+- आ दधुः (*ā dadhuḥ*)—have placed
+- तंतुं (*taṃtuṃ*)—the line of offspring
+- आ ततं (*ā tataṃ*)—have caused to grow extensively
+
+##### भावार्थ (Bhāvārtha)
+
+The Angirasas, sons of Āditya, by their third act, the begetting of offspring, have established Āditya, the powerful one and the support of heaven, in two ways, rising and setting. Our fathers the Angirasas, having begotten their offspring, have placed Āditya's strength even in those lowly men. They have caused the line of offspring to grow extensively.
+
+##### English translation
+The sons (of Aditya, the Angirasas), established by the third act of duty, the mighty, all-wise (sun) in his two-fold (condition of rising and setting) : our progenitors (having begotten) their own progeny, deposited
+
+### Printed p. 349
+in the best (of them) the paternal strength, (making) an extended line (of
+progeny).
+
+##### विशेषविषयगळु (Special Topics)
+
+On how the gods and the Angirasas became sons of Āditya, the commentator cites the Brāhmaṇa sentence देवानां हैतत्परमं जनित्रं यत्सूर्यः (*devānāṃ haitatparamaṃ janitraṃ yatsūryaḥ*). Since there is a śruti statement असौ ना आदित्यो बह्म (*asau nā ādityo bahma*), it is natural to say that the gods are sons of Āditya, who is of the nature of Brahman.
+
+तृतीयेन कर्मणा (*tṛtīyena karmaṇā*)—It is customary to say that the begetting of offspring is the third act. How? जायमानो वै ब्राह्मणस्त्रिभिर्यणवा जायते ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः (*jāyamāno vai brāhmaṇastribhiryaṇavā jāyate brahmacaryeṇarṣibhyo yajñena devebhyaḥ prajayā pitṛbhyaḥ*) (Tai. Saṃ. 6-3-10-5). As the Taittirīya Saṃhitā says, a Brāhmaṇa is born already bearing three kinds of debts (loans, or duties). To discharge them, he must perform sacrifice and discharge the duty (debt) owed to the gods; he must study the Veda and discharge the debt to the ṛṣis; he must beget lawful offspring and discharge the debt to the fathers. Therefore, among the three duty-acts, sacrifice, Vedic study and begetting offspring, the begetting of offspring is said here to be the third act.
+
+आ अस्थापयंत (*ā asthāpayaṃta*)—द्विधा द्रिप्रकारमास्थापयंति । उदितं चास्त्रमितं च कुर्वंति (*dvidhā driprakāramāsthāpayaṃti | uditaṃ cāstramitaṃ ca kurvaṃti*). That the gods established in two ways means that they fixed for the sun the two kinds of act, rising and setting. On this the commentator cites two śruti sentences: उद्ग्राभं च निग्राभं च ब्रह्म देवा अवीवृधन् (*udgrābhaṃ ca nigrābhaṃ ca brahma devā avīvṛdhan*) (Tai. Saṃ. 1-1-13-1); असौ वा आदित्य उद्यन्नुद्ग्राभ एष निम्मोचन्निग्राभः (*asau vā āditya udyannudgrābha eṣa nimmocannigrābhaḥ*) (Tai. Saṃ. 5.4-6-6).
+
+तंतुं आततं (*taṃtuṃ ātataṃ*)—Here तंतु (*taṃtu*) means the line of offspring. As a thread is unbroken and continuous, so the succession of sons, grandsons and so on is; hence the line of offspring is called a thread. The meaning is that they made this unbroken line of offspring extend, that is, grow.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ना॒वा न क्षोदः॑ प्र॒दिशः॑ पृथि॒व्याः स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
+> स्वां प्र॒जां बृ॒हदु॑क्थो महि॒त्वाव॑रेष्टदधा॒दा परे॑षु ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 343. pp. 338-343 (batch API)
+**Progress note:** Done through printed p. 349. pp. 344-349 (batch API)
