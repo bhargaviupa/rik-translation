@@ -3133,6 +3133,115 @@ O Agni, the sacrificers, addressing you, have held every day all the desired ric
 ##### English translation
 To you, Agni, the worshippers offer daily all desirable treasures ; (abiding) with you, desirous of wealth, the sages have set open the pasturage frequented by cattle.
 
+### Printed p. 91
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अस्ता॑व्य॒ग्निर्न॒रां सु॒शेवो॑ वैश्वान॒र ऋषि॑भिः॒ सोम॑गोपाः ।  
+> अ॒द्वे॒षे द्यावा॑पृथि॒वी हु॑वेनु॒ देवा॑ ध॒त्त र॒यिम॒स्मे सु॒वीरं॑॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अस्तावि । अग्निः । नरां । सुशेवः । वैश्वानरः । ऋषिभिः । सोमगोपाः ॥  
+> अद्वेषे इति । द्यावापृथिवी इति । हुवेम । देवाः । धत्त । रयिं । अस्मे इति ।  
+> सुवीरं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अद्वेषे द्यावापृथिवी द्यावापृथिव्यौ हुवेम । वयं ह्वयेम । किंच हे
+> देवाः यूयं सुवीरं शोभनपुत्राद्युपेतं रयिं धनमस्मे अस्मासु धत्त ।
+> धारयत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa glosses the second half of the verse. We call upon the two non-hostile ones, heaven and earth (द्यावापृथिवी (*dyāvāpṛthivī*) is the dual). He then addresses the gods: "O gods, bestow upon us wealth endowed with good sons and the like", with धत्त (*dhatta*) glossed as "hold, bestow".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नरां (*narāṃ*)—to men
+- सुशेवः (*suśevaḥ*)—the giver of excellent happiness
+- वैश्वानरः (*vaiśvānaraḥ*)—the one named Vaiśvānara
+- सोमगोपाः (*somagopāḥ*)—the protector of Soma
+- अग्निः (*agniḥ*)—Agni
+- ऋषिभिः (*ṛṣibhiḥ*)—by the sages
+- अस्तावि (*astāvi*)—is praised
+- अद्वेषे (*adveṣe*)—the two free from hatred
+- द्यावापृथिवी (*dyāvāpṛthivī*)—heaven and earth
+- हुवेम (*huvema*)—we invoke with prayer
+- देवाः (*devāḥ*)—O gods
+- सुवीरं (*suvīraṃ*)—endowed with excellent heroic sons
+- रयिं (*rayiṃ*)—wealth
+- अस्मे (*asme*)—in us
+- धत्त (*dhatta*)—establish
+
+##### भावार्थ (Bhāvārtha)
+
+Agni, the giver of excellent happiness to men, named Vaiśvānara, the protector of Soma, is praised by the sages. We now invoke with prayer heaven and earth, who are free from hatred. O gods, establish in us wealth endowed with excellent heroic sons.
+
+##### English translation
+Agni, you are very dear to men; Vaishwanara, the guardian of the Soma, has been glorified by the Rishis : we invoke the friendly heaven and earth : grant us, gods, riches and male offspring.
+
+### Printed p. 92
+May Vidyātīrtha Maheśvara, by the light of the meaning of the Veda, dispel the darkness of the heart and bestow the four human aims.
+Thus ends the eighth chapter of the seventh Aṣṭaka, in the Ṛksaṃhitā-bhāṣya, in the Mādhavīya Vedārthaprakāśa, composed by Sāyaṇācārya, the bearer of the burden of the empire of King Vīra Bukka, the great lord of kings, the promoter of the Vedic path.
+Śrī. Om tat sat.
+Here ends the eighth chapter in the seventh Aṣṭaka of the Ṛgveda-saṃhitā, with Śrī Sāyaṇa's commentary and Kannada translation.
+Whatever is lacking in syllable or word, or deficient in measure, may all that be forgiven, O Lord of Speech; salutation to you.
+May there be auspiciousness. Maṅgalam.
+
+### Printed p. 93
+Śrī. Salutation to Śrī Gaṇādhipati.
+I bow to the elephant-faced one, by bowing to whom Vāgīśa and the other gods become successful at the start of all undertakings.
+I praise Vidyātīrtha Maheśvara, whose breath is the Vedas and who created the whole world from the Vedas.
+The Veda is Śiva and Śiva is the Veda; the student of the Veda is Sadāśiva; therefore one should with all effort always recite the Veda alone.
+Having expounded the seventh chapter, the scion of the Ācārya's line, Sāyaṇācārya, now expounds the first in the eighth.
+
+Ṛgveda-saṃhitā with Sāyaṇa's commentary (with Kannada translation and explanation).
+Eighth Aṣṭaka, first chapter.
+Tenth Maṇḍala, forty-sixth sūkta.
+
+**Introduction**
+**The glory of the sūktas composed by Vatsapri**
+Sūktas 10-45 and 46, composed by the sage Vatsapri, son of Bhalandana, are very famous. The praise of Agni, the supporter and protector of all worlds, is in the form of supremely excellent poetry. Besides, their glory is very great from the standpoint of ritual practice as well. The effects of these sūktas, which carry a divine glory together with a spiritual background, are greatly praised in the Śatapatha Brāhmaṇa. The explanation has been given for the first three ṛks of the first of these sūktas. Two of those occasions were cited above under the special topics of the mantra विद्माते अग्ने (*vidmāte agne*). The importance of the Vātsapra rite is explained here. This glory is praised in the Śatapatha Brāhmaṇa as follows.
+अथ वात्सप्रेणोपतिष्ठते । एतद्वै प्रजापतिर्विष्णु क्रमैः प्रजाः (*atha vātsapreṇopatiṣṭhate | etadvai prajāpatirviṣṇu kramaiḥ prajāḥ*)
+
+### Printed p. 94
+सृष्ट्वा ताभ्यो नात्सप्रेणायुष्यं करोति (*sṛṣṭvā tābhyo nātsapreṇāyuṣyaṃ karoti*) (Śa. Brā. 6-7-4-1)
+Prajāpati created all beings by the means consisting in the strides of Viṣṇu, and by the Vātsapra rite he produced for those creatures a useful vitality. In the same way the sacrificer, creating creatures by the Viṣṇu-strides, produces by the Vātsapra rites life for the creatures.
+स हैष दाक्षायणहस्तः । यद्वात्सप्रं तस्माद्यं जातं कामयेत सर्वमायुरियादिति वात्सप्रेणैनमभिमृशेत्तदस्मै जातायायुष्यं करोति तथो ह स सर्वमायुरेत्यथ यं कामयेत वीर्यवान्तास्वादिति विकृत्यैनं पुरस्तादभिमंत्रयेत तथो ह स वीर्यवान् भवति ॥ (*sa haiṣa dākṣāyaṇahastaḥ | yadvātsapraṃ tasmādyaṃ jātaṃ kāmayeta sarvamāyuriyāditi vātsapreṇainamabhimṛśettadasmai jātāyāyuṣyaṃ karoti tatho ha sa sarvamāyuretyatha yaṃ kāmayeta vīryavāntāsvāditi vikṛtyainaṃ purastādabhimaṃtrayeta tatho ha sa vīryavān bhavati ‖*) (Śa. Brā. 6-7-4-2)
+This Vātsapra rite is the form of Agni, who has a golden form. If anyone desires full life for any being that is born, then by touching it with the Vātsapra rite long life is obtained. If one desires that someone become strong, and designates him by the recitation of the mantra called Vikṛti, he becomes strong. Thus the glory of Agni is praised.
+दिवस्परि प्रथमं जज्ञे अग्निरिति . . . (*divaspari prathamaṃ jajñe agniriti . . .*) (Śa. Brā. 6-7-4-3)
+विद्या ते अग्ने त्रेधा त्रयाणीति । अग्निर्वायुरादित्य एतानि . . . (*vidyā te agne tredhā trayāṇīti | agnirvāyurāditya etāni . . .*) (Śa. Brā. 6-7-4-4)
+समुद्रे त्वा नृमणा अप्स्यंतरिति प्रजाप्रति र्वै नृमणा । (*samudre tvā nṛmaṇā apsyaṃtariti prajāprati rvai nṛmaṇā |*) (Śa. Brā. 6-7-4-5)
+Thus the three forms of Agni and his pervasiveness in the three worlds are explained. This section has been explained above. These three ṛks, cited and explained in the Śatapatha Brāhmaṇa, describe the glory of Agni, and are praised thus.
+ता एता एकव्याख्यानाः । एतमेवाभि ता आग्नेय्यस्त्रिष्टुभस्ता यदाग्नेय्यस्तेनाग्निरथ यत्रिष्टुभो यदेकादश तेनेंद्र ऐंद्राग्नोऽग्निर्यावानग्निर्यावत्यस्य मात्रा तावतैवैनमेतदुपतिष्ठत इंद्राग्नी वै सर्वे देवाः सर्वदेवत्योऽग्निर्र्यावानाग्निर्यावत्यस्य मात्रा तावतैवैनमेतदुपतिष्ठति॥ (*tā etā ekavyākhyānāḥ | etamevābhi tā āgneyyastriṣṭubhastā yadāgneyyastenāgniratha yatriṣṭubho yadekādaśa teneṃdra aiṃdrāgno 'gniryāvānagniryāvatyasya mātrā tāvataivainametadupatiṣṭhata iṃdrāgnī vai sarve devāḥ sarvadevatyo 'gnirryāvānāgniryāvatyasya mātrā tāvataivainametadupatiṣṭhati‖*) (Śa. Brā. 6-7-4-6)
+
+### Printed p. 95
+These three ṛks cited above from the Ṛksaṃhitā describe the extraordinary qualities of Agni in one and the same manner. They are composed in the Triṣṭubh metre as praise of Agni. To the extent that they praise Agni, to that extent they have Agni's own nature. Because they are composed in the Triṣṭubh metre of eleven syllables, they have the nature of Indra. Agni's nature also has a twofold existence, as Indra and Agni. To the extent of Agni's greatness, to that extent he manifests worthiness of worship. In Indra and Agni all the gods are united. As great as Agni's greatness is, so great is Agni's worthiness of worship.
+यद्वेव विष्णु क्रमवात्सप्रे भवतः । विष्णु क्रमैर्वै प्रजापतिरिमं लोकमसृजत वात्सप्रेणाग्निं विष्णु क्रमैर्वै प्रजापतिरंतरिक्षमसृजत वात्सप्रेण वायुं विष्णु क्रमैर्वै प्रजापतिर्दिवमसृजत वात्सप्रेणादित्यं विष्णु क्रमैर्वै प्रजापतिर्दिशोऽसृजत वात्सप्रेण चंद्रमसं विष्णु क्रमैर्वै प्रजापतिर्भूतमसृजत वात्सप्रेण भविष्यद्विष्णु क्रमैर्वै प्रजापतिर्वित्तमसृजत वात्सप्रेणाशां विष्णु क्रमैर्वै प्रजापतिरहरसृजत वात्सप्रेण रात्रिं विष्णु क्रमैर्वै प्रजापतिः पूर्वपक्षानसृजत वात्सप्रेणापरपक्षान्विष्णु क्रमैर्वै प्रजापतिरर्धमासानसृजत वात्सप्रेण मासान् विष्णु क्रमैर्वै प्रजापतिर्युक्तूगसृजत वात्सप्रेण संवत्सरं तद्यद्विष्णु क्रमवात्सप्रे भवत एतदेव तेन सर्वग्ं सृजते ॥ (*yadveva viṣṇu kramavātsapre bhavataḥ | viṣṇu kramairvai prajāpatirimaṃ lokamasṛjata vātsapreṇāgniṃ viṣṇu kramairvai prajāpatiraṃtarikṣamasṛjata vātsapreṇa vāyuṃ viṣṇu kramairvai prajāpatirdivamasṛjata vātsapreṇādityaṃ viṣṇu kramairvai prajāpatirdiśo 'sṛjata vātsapreṇa caṃdramasaṃ viṣṇu kramairvai prajāpatirbhūtamasṛjata vātsapreṇa bhaviṣyadviṣṇu kramairvai prajāpatirvittamasṛjata vātsapreṇāśāṃ viṣṇu kramairvai prajāpatiraharasṛjata vātsapreṇa rātriṃ viṣṇu kramairvai prajāpatiḥ pūrvapakṣānasṛjata vātsapreṇāparapakṣānviṣṇu kramairvai prajāpatirardhamāsānasṛjata vātsapreṇa māsān viṣṇu kramairvai prajāpatiryuktūgasṛjata vātsapreṇa saṃvatsaraṃ tadyadviṣṇu kramavātsapre bhavata etadeva tena sarvagṃ sṛjate ‖*) (Śa. Brā. 6-7-4-7)
+In this context the question naturally arises: what is the need for the Kramas (Viṣṇu's striding) and the Vātsapra rite to be performed together? The need for the two to be performed together rests on their mutual relation. Whatever supporting things Prajāpati created by the Viṣṇu-stride, with the Vātsapra he created along with them the principles that pervade those supports and complete and nourish them. Thus:
+
+Prajāpati created the earth, and with it, as its complement, Agni.
+The same: the atmosphere, and the wind.
+The same: the heavenly world, and the sun.
+The same: the quarters, and the moon.
+The same: things of the past, and things of the future.
+The same: wealth, and desire.
+The same: the day, and the night.
+
+### Printed p. 96
+The same: the first fortnights, and the latter fortnights.
+The same: the half-months, and the months.
+The same: the seasons, and the years.
+
+Therefore, since these two rites are mutually related, there is a rule that both are to be performed together. By their association the work of creation also continues in unbroken sequence.
+यद्वेव विष्णु क्रमवात्सप्रे भवतः । विष्णुक्रमैन्रै प्रजापतिः स्वर्गं लोकमभिप्रायात्स्य एतदवसानमपश्यद्वात्सप्रं तेनावास्यदप्रदाहाय युद्धि युक्तं न विमुच्यते प्र तद्दह्यते यथैवैतद्यजमानो विष्णुक्रमैन्रेव स्वर्गं लोकमभिप्रयाति वात्सप्रेणावस्यति ॥ (*yadveva viṣṇu kramavātsapre bhavataḥ | viṣṇukramainrai prajāpatiḥ svargaṃ lokamabhiprāyātsya etadavasānamapaśyadvātsapraṃ tenāvāsyadapradāhāya yuddhi yuktaṃ na vimucyate pra taddahyate yathaivaitadyajamāno viṣṇukramainreva svargaṃ lokamabhiprayāti vātsapreṇāvasyati ‖*) (Śa. Brā. 6-7-4-8)
+If the question is asked again, what is the need for the association of the Viṣṇu-strides and the Vātsapra, the answer tells that need. By the Viṣṇu-stride Prajāpati reached heaven. There, seeing the Vātsapra, which releases from bonds, he released the part that had been bound. If an animal, or any other living being, that has been bound is not released, its burning or its being cut off will certainly happen. Prajāpati prevented this. In the same way the sacrificer too goes to heaven with the help of the Viṣṇu-stride, and by the help of the Vātsapra attains release from bondage.
+स वै विष्णुक्रमान् क्रान्ता । अथ तदानीमेव वात्सप्रेणोपतिष्ठते यथा प्रयायाथ तदानीमेव विमुंचेत्तादृक्तद्देवानां वै विधामनु मनुष्यास्तस्मादु हेदमुत मानुषो ग्रामः प्रयायाथ तदानीमेवावस्यति । (*sa vai viṣṇukramān krāntā | atha tadānīmeva vātsapreṇopatiṣṭhate yathā prayāyātha tadānīmeva vimuṃcettādṛktaddevānāṃ vai vidhāmanu manuṣyāstasmādu hedamuta mānuṣo grāmaḥ prayāyātha tadānīmevāvasyati |*) (Śa. Brā. 6-7-4-9)
+After following and crossing the Viṣṇu-strides, the sacrificer, standing near Agni, worships Agni with the Vātsapra rite. As one who stops at one place at the end of a journey and removes his fatigue, so the sacrificer too attains rest in this setting. Human beings in general follow the path of the gods.
+तद्वा अहोरात्रे एव विष्णुक्रमा भवंति । अहोरात्रे वात्सप्रमहोरात्रे एव तद्यात्यहोरात्रे क्षेम्यो भवति तस्मादु हेदमुत मानुषो ग्रामोऽहोरात्रे यात्वाहोरात्रे क्षेम्यो भवति । (*tadvā ahorātre eva viṣṇukramā bhavaṃti | ahorātre vātsapramahorātre eva tadyātyahorātre kṣemyo bhavati tasmādu hedamuta mānuṣo grāmo 'horātre yātvāhorātre kṣemyo bhavati |*) (Śa. Brā. 6-7-4-10)
+
 ---
 
-**Progress note:** Done through printed p. 90. pp. 85-90 (batch API)
+**Progress note:** Done through printed p. 96. pp. 91-96 (batch API)
