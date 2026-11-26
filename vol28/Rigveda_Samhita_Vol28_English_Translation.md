@@ -15326,6 +15326,258 @@ No one कश्चन (*kaścana*) can reach, आरभं (*ārabhaṃ*), that
 - न अश्नोति (*na aśnoti*)—is able
 - सावर्ण्यस्य (*sāvarṇyasya*)—of Sāvarṇi
 
+### Printed p. 458
+- *sāvarṇyasya*—of that Manu (Sāvarṇi)
+- दक्षिणा (*dakṣiṇā*)—the gifts and the like
+- सिंधुरिव (*siṃdhuriva*)—like a flowing river
+- वि पप्रथे (*vi paprathe*)—spreads out widely everywhere
+
+##### भावार्थ (Bhāvārtha)
+
+No other man is able to give as the Manu called Sāvarṇi gives, who sits on a lofty place and shines like the sun shining in heaven. The gifts of cows and the like made by that Manu called Sāvarṇi spread out everywhere and become widely extended, like a flowing river.
+
+##### English translation
+No one succeeds in reaching him; (elevated) like the summit of heaven, the liberality of Savarni has broadened out like a river.
+
+#### Ṛk 10
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒त दा॒सा प॑रि॒विषे॒ स्मद्दि॑ष्टी॒ गोप॑रीणसा ।  
+> यदु॑स्तु॒र्वश्च॑ मामहे ॥ १० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत । दासा । परिविषे । स्मद्दिष्टी इति स्मत् ऽदिष्टी । गोपरीणसा ।  
+> यदुः । तुर्वः । च । ममहे ॥ १० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> उतापि च स्मद्दिष्टी कल्याणादेशिनौ गोपरीणसा गोपरीणसौ गोभिः परिवृता
+> बहुगवादियुक्ता दासा दासवत्पेष्यवत्स्थितौ तेनाधिष्ठितौ यदुश्च तुर्वश्चैतन्नामका
+> राजर्षी परिविषेऽस्य सावर्णेर्मनोर्भोजनाय ममहे । पशून्प्रयच्छतः ॥
+> प्रत्येकमन्वयादेकवचनं ॥
+
+##### Gist of the bhāṣya
+
+"Also" (उत (*uta*)): the two who speak auspicious words (स्मद्दिष्टी (*smaddiṣṭī*)), who are surrounded by cows (गोपरीणसा (*goparīṇasā*)), that is, who have many cows and the like, stand as servants (दासा (*dāsā*)) like attendants, ruled over by him. Yadu and Turvaśa, royal sages of those names, give animals for the meal (परिविषे (*pariviṣe*)) of this Manu Sāvarṇi (ममहे (*mamahe*)). The singular verb is used because the construction applies to each of them separately.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उत (*uta*)—and
+- स्मद्दिष्टी (*smaddiṣṭī*)—those whose speech is auspicious
+- गोपरीणसा (*goparīṇasā*)—those accompanied by many cows
+- दासा (*dāsā*)—those who render service
+- यदुः (*yaduḥ*)—Yadu
+- तुर्वश्च (*turvaśca*)—and Turva
+- परिविषे (*pariviṣe*)—for Sāvarṇi's enjoyment
+- ममहे (*mamahe*)—provided animals
+
+##### भावार्थ (Bhāvārtha)
+
+Yadu and Turva, whose speech is auspicious, who are accompanied by many cows and who render service, provided animals for Sāvarṇi's enjoyment.
+
+### Printed p. 459
+
+##### English translation
+Yadu and Indra speaking auspiciously, and possessed of numerous cattle, gave them like (appointed) servants, for the enjoyment (of Manu Savarni) **NOTE**
+
+#### Ṛk 11
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒ह॒स्र॒दा ग्रा॑म॒णीर्मा रि॑ष॒न्मनुः॒ सूर्ये॑णास्य॒ यत॑मानैतु॒  ॑
+> दक्षिणा ।  
+> साव॑णेर्दे॒वाः प्र ति॑रं॒त्वायु॒र्यस्मि॒न्नश्रां॑ता॒ अस॑नाम॒  ॑
+> वाजं ॥ ११ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रदाः । ग्रामनीः । मा । रिषत् । मनुः । सूर्येण । अस्य । यतमाना । एतु ।  
+> दक्षिणा ।  
+> सावर्णेः । देवाः । प्र । तिरंतु । आयुः । यस्मिन् । अश्रांताः । असनाम । वाजं ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रदा गवादीनां सहस्रस्य दाता ग्रामणीर्ग्रामाणां नेता कर्ता जनपदानामयं मनुर्मा रिषत् । न कैश्चिदपि रिष्टो हिंसितो भवतु । यद्वा । कर्मनेत्यनस्मान्मा हिनस्तु किंतु धनादिदानेन पूजयशु । अस्य यतमाना गच्छंती दक्षिणासूर्येण सहैतु । संगच्छतां । त्रिषु लोकेषु प्रसिद्धा भवत्वित्यर्थः । तस्यास्य
+> सावर्णॆः सवर्णपुत्रस्य मनोर्देवा इंद्रादय आयुर्जीवनं प्र तिरंतु । प्रवर्धयंतु । अश्रांताः कर्मन्वनलसाः सर्वं कर्म कुर्वंतो वयं यस्मिन्मन् वाजं
+> गोलक्षणमन्नमसनाम संभजेमहि । नाभानेदिष्टोऽहमलभ इत्याशास्ते ॥
+
+##### Gist of the bhāṣya
+
+"Giver of a thousand" (सहस्रदा (*sahasradā*)) is the giver of a thousand cows and the like; "leader of villages" (ग्रामणीः (*grāmaṇīḥ*)) is the leader or maker of the districts. May this Manu not be harmed (मा रिषत् (*mā riṣat*)) by anyone. Or else: the text here is damaged, but the sense seems to be that he should not harm us but honour us by giving wealth and the like **NOTE**. May his dakṣiṇā, going forth and striving, go together with the sun, that is, become famous in the three worlds. May the gods, Indra and the others, prolong (प्र तिरंतु (*pra tiraṃtu*)), that is, increase, the life of Sāvarṇi, the Manu who is the son of Savarṇa. We, unwearied in rites and doing all work, in whom (that is, through whose favour) we may enjoy (असनाम (*asanāma*)) food (वाजं (*vājaṃ*)) of the nature of cows: so he expresses the hope, adding नाभानेदिष्टोऽहमलभ (*nābhānediṣṭo 'hamalabha*).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रदाः (*sahasradāḥ*)—one who makes many gifts
+- ग्रामणीः (*grāmaṇīḥ*)—a guide to all the villagers
+- मनुः (*manuḥ*)—the Manu
+- मा रिषत् (*mā riṣat*)—may he not be harmed by anyone
+- अस्य (*asya*)—by him
+- यतमाना (*yatamānā*)—given generously
+- दक्षिणा (*dakṣiṇā*)—the dakṣiṇā
+- सूर्येण (*sūryeṇa*)—with the sun
+- एतु (*etu*)—may it join (may it become famous in the three worlds)
+- यस्मिन् (*yasmin*)—in whom (through whose generosity)
+- वाजं (*vājaṃ*)—the food of the nature of cows
+- आश्रांताः (*āśrāṃtāḥ*)—we who are not slack in rites
+
+### Printed p. 460
+- असनाम (*asanāma*)—we shall enjoy; such
+- सावर्णेः (*sāvarṇeḥ*)—to the Manu who is the son of Savarṇa
+- देवाः (*devāḥ*)—the gods, Indra and the others
+- आयुः (*āyuḥ*)—life
+- प्रति तिरंतु (*prati tiraṃtu*)—may they increase
+
+##### भावार्थ (Bhāvārtha)
+
+May Sāvarṇi Manu, who makes many gifts and is a guide to all the villagers, not be harmed by anyone. May the dakṣiṇā generously given by him go together with the sun and gain fame in all three worlds. May Indra and the other gods increase the life of that Manu, the son of Savarṇa, through whose generosity we, not slack in rites, enjoy food of the nature of cows.
+
+##### English translation
+May the donor of a thousand (cows), the head of the district, the Manu, never suffer wrong, may his liberality go spreading (in glory) with the sun ; may the gods prolong the life of Savarni (from whom) unwearied (in his service) we enjoy abundant food.
+
+##### विशेषविषयगळु (Special Topics)
+
+Regarding Yayāti, the son of Nahuṣa, see what is written in Ṛ. Saṃ. part 3, p. 583.
+
+## Sūkta 63 (Maṇḍala 10)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> परावतो य इति सप्तदशर्चं तृतीयं सूक्तं प्लतेः पुत्रस्य गयस्यार्षं ।
+> षोडशीसप्तदश्यौ त्रिष्टुभौ । पंचदशी त्रिष्टुब्बगती वा । शिष्टाश्चतुर्दश जगत्यः । स्वस्ति
+> नः पथ्यास्त्विति द्वे पथ्यास्वस्ति देवताके । शिष्टा वैश्वदेव्यः। तथा चानुक्रांतं । परावतस्कृना गयः प्लातो द्वित्रिष्टुबंतं तु स्वस्ति नस्त्रिष्टुब्बा सह चोत्तरया पथ्यास्वस्तिदेवत्येति ॥ पृष्ठाभिप्लवयोस्तृतीयेऽहनि वैश्वदेव एतत्तूक्तं वैश्वदेवं निविद्धानं । सूत्रितं च । अनश्वो जातः परावतो य इति वैश्वदेवं । आ. ७-७ । इति ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning परावतो य (*parāvato ya*) has seventeen Ṛks and is the third sūkta. It is the vision of Gaya, son of Plati. The sixteenth and seventeenth verses are in Triṣṭubh; the fifteenth is Triṣṭubh or Jagatī; the remaining fourteen are Jagatī. The two verses beginning with the words on the path (Pathyā) have Pathyāsvasti as deity; the rest are addressed to the Viśvedevas. The Anukramaṇī says the same. At the Pṛṣṭhya and Abhiplava rites, on the third day, in the Vaiśvadeva, this sūkta is the Vaiśvadeva nivid-dhāna. It is prescribed by the sūtra Ā. 7-7.
+
+##### Anuvāda
+
+This sūkta beginning "परावतो ये (*parāvato ye*)" is the third sūkta in the fifth anuvāka. It has seventeen Ṛks. Its ṛṣi is Gaya, son of the ṛṣi called Plata. The sixteenth and seventeenth Ṛks of this sūkta have the Triṣṭubh metre; the fifteenth has Triṣṭubh or Jagatī; the remaining fourteen Ṛks are in Jagatī. The two Ṛks beginning "स्वस्ति नः पथ्यासु (*svasti naḥ pathyāsu*)" (Ṛks 15–16) have Pathyāsvasti as deity; the remaining Ṛks have the Viśvedevas as deity. This is what is said in the Anukramaṇikā.
+
+### Printed p. 461
+On the third day of the sacrifices called Pṛṣṭhya and Abhiplava-ṣaḍaha, in the Vaiśvadeva śastra mantras, this sūkta is to be recited as the Vaiśvadeva nivid-dhāna sūkta; this is explained by the Āśvalāyana Śrauta Sūtra (Ā. 7-7).
+
+Maṇḍala 10; Anuvāka 5; Sūkta 63. Aṣṭaka 8; Adhyāya 2; Vargas 3, 4, 5. Number of Ṛks in the sūkta: 17. Ṛṣi: Gaya Plāta. Deity: 1–14, 17, Viśvedevas; 15, 16, Pathyāsvasti. Metre: 1–14, Jagatī; 15, Jagatī or Triṣṭubh; 16–17, Triṣṭubh. **NOTE**
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प॒रा॒वतो॒ ये दिधि॑षंत॒ आप्यं॒ मनु॑प्रीतासो॒ जनि॑मा वि॒वस्व॑तः।  
+> य॒यात्रे॒र्यॆ न॑हु॒ष्य॑स्य ब॒र्हिषि॑ दे॒वा आस॑ते॒ ते अधि॑ ब्रुवंतु नः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परावतः । ये । दिधिषंते । आप्यं । मनुप्रीतासः । जनिम । विवस्वतः ।  
+> ययातेः । ये । नहुष्यस्य । बर्हिषि । देवाः । आसते । ते । अधि । ब्रुवंतु । नः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये देवाः परावतो दूरदेशादागत्याप्यं ज्ञातेयं मनुष्यैः सह
+> बंधुत्वं दिधिषंते धारयंति । यद्वा । हविषां प्रदातृभिर्मनुष्यैः सह सख्यं
+> कुर्म इति परस्परं शब्दायंते ॥ धिष शब्दे । चौहोत्यादिकः । छांदसो झस्यांतादेशः । धिष धारण इति कैश्चिदप्युपगम्यते ॥ उक्तार्थमेव विशिनष्टि । दुनुप्रीतासो
+> मनुष्यैः प्रीता देवा विवस्वतो विवस्वत्पुत्रस्य मनोर्जनिम जन्मानि मनुष्यान्धारयंति । किंच ये देवा नहुष्यस्य नहुषपुत्रस्य ययातेरेतन्नामकस्य राजर्षेर्बर्हिषि यज्ञ आसते उपविंशति ते देवा नोऽस्मानधि ब्रुवंतु । धनादिप्रदानेनास्मानधिकं वदंतु । पूजयंत्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The gods who come from a distant place (परावतः (*parāvataḥ*)) hold (दिधिषंते (*didhiṣaṃte*)) kinship (आप्यं (*āpyaṃ*)) with men. Or else: they call to one another, "We make friendship with the men who offer oblations." The gods, pleased by men (मनुप्रीतासः (*manuprītāsaḥ*)), support the births (जनिम (*janima*)), that is, the men, of Manu, the son of Vivasvat. Further, the gods who sit on the sacred grass, that is at the sacrifice, of the royal sage Yayāti, the son of Nahuṣa, may those gods speak above (अधि ब्रुवंतु (*adhi bruvaṃtu*)) us, that is, speak of us as superior by the gift of wealth and the like; may they honour us.
+
+### Printed p. 462
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मनुप्रीतासः (*manuprītāsaḥ*)—those who are the objects of men's love
+- ये (*ye*)—which gods
+- विवस्वतः (*vivasvataḥ*)—of the Manu, son of Vivasvat
+- जनिम (*janima*)—supporting the births (the offspring)
+- परावतः (*parāvataḥ*)—coming from a very distant place
+- आप्यं (*āpyaṃ*)—the kinship with men
+- दिधिषंते (*didhiṣaṃte*)—make manifest
+- ये देवाः (*ye devāḥ*)—the gods who
+- नहुष्यस्य (*nahuṣyasya*)—of the son of Nahuṣa
+- ययातेः (*yayāteḥ*)—of the royal sage called Yayāti
+- बर्हिषि (*barhiṣi*)—at the sacrifice
+- आसते (*āsate*)—sit
+- ते (*te*)—those gods
+- नः (*naḥ*)—us
+- अधि ब्रुवंतु (*adhi bruvaṃtu*)—may they praise (may they favour)
+
+##### भावार्थ (Bhāvārtha)
+
+May those gods who are dear to men, who support the offspring of Manu, the son of Vivasvat, who come from a very distant place and make manifest their kinship with men, and who sit at the sacrifice of the royal sage Yayāti, son of Nahuṣa, praise our rites and favour us.
+
+##### English translation
+May the gods who, (coming) from afar proclaim their affinity (with men), and beloved by men, (support) the generations of (Manu, the son of) Vivaswat ; may they who are seated on the sacred grass of Yayati, the son of Nahusha, speak favourably unto us.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> विश्वा॒ हि वो॑ नम॒स्या॑नि॒ वंद्या॒ नामा॑नि देवा उ॒त य॒ज्ञिया॑नि  
+> वः ।  
+> ये स्थ जा॒ता अदि॑तेर॒द्भ्यस्परि॒ ये पृ॑थि॒व्यास्ते म॑ इ॒ह श्रु॑ता॒  ॑
+> हवं ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विश्वा । हि । वः । नमस्यानि । वंद्या । नामानि । देवाः । उत । यज्ञियानि । वः ।  
+> ये । स्थ । जाताः । आदितेः । अत्भ्यः । परि । ये । पृथिव्याः । ते । मे । इह । श्रुत ।  
+> हवं ॥ २ ॥
+
+### Printed p. 463
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ये देवा इंद्रादयः । हिरवधारणे । वो युष्माकमेव नामानि नमनीयानि विश्वा सर्वाणि शरीराणि नमस्यानि नमस्करार्हाणि भवंति वंद्या वंद्यानि स्तोतव्यानि च भवंति । ये यूयमदितेरदीनाद्दुलोकादद्भ्यः । अंतरक्षनामैतत् ।
+> अंतरिक्षात् । परिः पंचम्यर्थद्योतकः । पृथिव्याश्च जाताः प्राधुर्भूताः स्थ भवत ते
+> यूयमिहास्मिन्यज्ञ आगत्य मे मदीयं हवमाह्वानं श्रुत । शृणुत ॥
+
+##### Gist of the bhāṣya
+
+The gods, Indra and the others: हि (*hi*) is for emphasis. Your names alone are to be bowed to; all your bodies (विश्वा (*viśvā*)) are worthy of salutation (नमस्यानि (*namasyāni*)), and are adorable and to be praised (वंद्या (*vaṃdyā*)). You who are born (जाताः (*jātāḥ*)) from Aditi, that is the undivided heaven, from the waters (अद्भ्यः (*adbhyaḥ*); this is a name of the atmosphere), and from the earth, having become manifest: come here to this sacrifice and hear (श्रुत (*śruta*)) my invocation. The word परि (*pari*) marks the ablative sense.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवाः (*devāḥ*)—O gods, Indra and the others
+- वः (*vaḥ*)—your
+- विश्वा नामानि हि (*viśvā nāmāni hi*)—all kinds of forms
+- नमस्यानि (*namasyāni*)—are worthy of salutation
+- वंद्या (*vaṃdyā*)—are worthy of praise
+- उत (*uta*)—and
+- वः (*vaḥ*)—your forms
+- यज्ञियानि (*yajñiyāni*)—are worthy of sacrifice
+- ये (*ye*)—you all who
+- अदितेः परि (*aditeḥ pari*)—from the undivided heaven
+- अद्भ्यः (*adbhyaḥ*)—from the atmosphere
+- पृथिव्याः (*pṛthivyāḥ*)—from the earth
+- जाताः स्थ (*jātāḥ stha*)—are born
+- ते (*te*)—you all
+- इह (*iha*)—coming here to this our sacrifice
+- मे (*me*)—my
+- हवं (*havaṃ*)—invocation
+- श्रुत (*śruta*)—hear
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra and the other gods, all kinds of your forms are worthy of salutation, of praise and of sacrifice. All of you who are born from the undivided heaven, from the atmosphere and from the earth, come to this our sacrifice and hear my invocation.
+
+##### English translation
+All your appellations, gods, are to be revered and praised, and worshipped, and whether you are sprung from heaven, or from the firma-ment, or from earth, hear at this (solemnity) my invocation.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> येभ्यो॑ मा॒ता मधु॑म॒त्पिन्व॑ते॒ पयः॑ पी॒यूषं॒ द्यौरदि॑ति॒रद्रि॑बर्हाः ।  
+> उ॒क्तशु॑ष्मान्वृषभ॒रान्तन्वप्न॑स॒स्ता आ॑दि॒त्या अनु॑ मदा स्व॒स्तये॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> येभ्यः । माता । मधुमत् । पिन्वते । पयः । पीयूषं । द्यौः । अदितिः ।  
+> अद्रिबर्हाः ।
+
 ---
 
-**Progress note:** Done through printed p. 457. pp. 452-457 (batch API)
+**Progress note:** Done through printed p. 463. pp. 458-463 (batch API)
