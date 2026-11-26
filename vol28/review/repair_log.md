@@ -4,3 +4,4 @@
 - 2026-11-26: Vol 28 w0212: two Cyrillic letters (р, е) in the Latin word 'nare' replaced by Latin letters.
 - 2026-11-26: Vol 28 w0446 (pp. 446-451): the window skipped block number 5 (Saṃhitā of Ṛk 2); all later block references lowered by one and the missing bhāṣya block b15 placed.
 - 2026-11-26: Vol 28 w0518 (p. 518): picture line fig_line00100.jpg removed from kn.md after reading it: it repeats the Saṃhitā and Pada blocks that kn.md already has.
+- front matter: the volume's preface (translated by tools/rv/api_front.py) inserted before printed p. 1 in the English and the Kannada file; 0 NOTE rows added at the top of review/notes.tsv.
