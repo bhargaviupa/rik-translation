@@ -18268,6 +18268,281 @@ After the salutation to Gaṇeśa and the verse in which Sāyaṇa bows to Vidy�
 
 Anuvāda: Now the commentary on the seventh chapter of the sixth Aṣṭaka is begun. At the beginning of this chapter stands the sūkta इंद्राय सामु गायत (*iṃdrāya sāmu gāyata*). This is the fifth sūkta in the tenth Anuvāka of the eighth Maṇḍala. It has twelve Ṛks. The seer of this sūkta is Nṛmedha Aṅgirasa; the deity is Indra. Since the middle pāda of the seventh, tenth and eleventh Ṛks of this sūkta has twelve syllables, these three Ṛks have the Kakubh metre. Its definition is मध्यमश्चेत्ककुप् (*madhyamaścetkakup*) (Anu. 5-2). The ninth and twelfth Ṛks are in the Puraūṣṇih metre. Since the first pādas of these Ṛks have twelve syllables, according to the Anukramaṇī sentence आद्यश्चेत्पुर उष्णिक् (*ādyaścetpura uṣṇik*) (Anu. 5-2) these Ṛks are named Puraūṣṇih. The remaining Ṛks of this sūkta are in the Uṣṇih metre. In the Anukramaṇī it is said: इंद्राय द्वादश नृमेध औष्णिहं सप्तम्युपांत्ये च ककुभोऽन्त्यानवम्यौ पुरउष्णिहौ (*iṃdrāya dvādaśa nṛmedha auṣṇihaṃ saptamyupāṃtye ca kakubho 'ntyānavamyau purauṣṇihau*). That this sūkta is applied in the Mahāvrata rite to the Ṛks in the Uṣṇih metre is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence इंद्राय सामुगायत सखायु आ शिषामहि (*iṃdrāya sāmugāyata sakhāyu ā śiṣāmahi*) (Ai. Ā. 5-2-5). In the Ukthya sacrifices connected with the Abhiplava, at the time of the third pressing, among the Śastra mantras recited by the priest called Brāhmaṇācchaṃsin, the tṛca इंद्राय सामु गायत (*iṃdrāya sāmu gāyata*) is to be recited as the optional Stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्राय सामुगायतॆ सखायु आ शिषामहि (*iṃdrāya sāmugāyatè sakhāyu ā śiṣāmahi*) (Ā. 7 8). In the Ukthya sacrifices connected with the Abhiplava mentioned before, the priest called Brāhmaṇācchaṃsin is to recite the Ṛks 4-6 of this sūkta, beginning इंद्र नो गधि (*iṃdra no gadhi*), as the optional Stotriya tṛca; this is by the sūtra of the Āśvalāyana Śrauta Sūtra इंद्र नो गध्येदु माध्वो मुदीतरं (*iṃdra no gadhyedu mādhvo mudītaraṃ*), the sūtra
 
+### Printed p. 477
+
+(Ā. 7-8) it is explained. And the priest called Acchāvāka, at the time of the third pressing of the Ukthya sacrifice, is to recite as the Stotriya tṛca the Ṛks 7-9 of this sūkta, beginning अथा हींद्र (*athā hīṃdra*); this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra अथा हींद्र गिर्वण इयं त इंद्र गिर्वणः (*athā hīṃdra girvaṇa iyaṃ ta iṃdra girvaṇaḥ*) (Ā. 7-8). In the same Śastra mantras mentioned before, the Ṛks 10-12 of this sūkta, beginning त्वं न इंद्रा भर (*tvaṃ na iṃdrā bhara*), are to be recited as the optional Stotriya tṛca; this is explained by the sūtra of the Āśvalāyana Śrauta Sūtra त्वं न इंद्रा भर वयुनु त्वानुपूर्व्य यो न इदमिदं पुरा (*tvaṃ na iṃdrā bhara vayunu tvānupūrvya yo na idamidaṃ purā*) (Ā. 7-8).
+
+##### Particulars
+
+Maṇḍala 8; Anuvāka 10; Sūkta 98. Aṣṭaka 6; Adhyāya 7; Varga 1, 2. Number of Ṛks in the sūkta: 12.
+
+Seer: Nṛmedhaḥ.
+
+Deity: Indraḥ.
+
+Metre: 1-6 and 8, Uṣṇih; 7, 10 and 11, Kakubh; 9 and 12, Puraūṣṇih.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंद्रा॑य॒ साम॑ गायत॒ विप्रा॑य बृह॒ते बृ॒हत् ।  
+> ध॒र्म॒कृते॑ विप॒श्चिते॑ पन॒स्यवे॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंद्राय । साम । गायत । विप्राय । बृहते । बृहत् ।  
+> धर्मऽकृते । विपःऽचिते । पनस्यवे ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे उद्गातारः विप्राय मेधाविने बृहते महते धर्मकृते कर्मणः कर्त्रे विपश्चिते विदुषे पनस्यवे स्तुतिमिच्छते इंद्राय बृहत् बृहन्नामकं साम गायत पठत ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa addresses the Udgātṛs: sing (गायत (*gāyata*)), that is, recite, the Sāman called Bṛhat (बृहत् (*bṛhat*)) to Indra, who is wise (विप्राय (*viprāya*)), great (बृहते (*bṛhate*)), the maker of rites (धर्मकृते (*dharmakṛte*), the doer of the sacrificial act), learned (विपश्चिते (*vipaścite*)), and desirous of praise (पनस्यवे (*panasyave*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राय (*viprāya*)—(O Udgātṛs) to the wise one
+- बृहते (*bṛhate*)—to the one of great nature
+- धर्मकृते (*dharmakṛte*)—to the performer of extraordinary rites
+- विपश्चिते (*vipaścite*)—to the learned one
+- पनस्यवे (*panasyave*)—to the one fond of praise
+
+### Printed p. 478
+
+- इंद्राय (*iṃdrāya*)—addressed to Indra
+- बृहत् (*bṛhat*)—called Bṛhat
+- साम (*sāma*)—the Sāman
+- गायत (*gāyata*)—recite in the form of song
+
+##### भावार्थ (Bhāvārtha)
+
+O Udgātṛs, recite in the form of song the Bṛhat Sāman, addressed to Indra, who is wise, of great nature, a performer of extraordinary rites, learned, and fond of praise.
+
+##### English translation
+Sing a Saman to Indra, a Brihat to the mighty sage, to the performer of religious rites, the all-knowing one who longs for praise.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वमिं॑द्राभि॒भूर॑सि॒ त्वं सूर्य॑मरोचयः ।  
+> वि॒श्वक॑र्मा वि॒श्वदे॑वो म॒हाँ अ॑सि ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । इंद्र । अभिऽभूः । असि । त्वम् । सूर्यम् । अरोचयः ।  
+> विश्वऽकर्मा । विश्वऽदेवः । महान् । असि ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वम् अभिभूः शत्रूणामभिभविता असि भवसि । किंच त्वं सूर्यम् आदित्यम् अरोचयः तेजोभिरदीपयः । किंच विश्वकर्मा विश्वस्य कर्ता असि विश्वदेवः सर्वदेवश्चासि । तथा च यजुर्ब्राह्मणम्- अग्निं वा अन्वन्या देवता इंद्रमन्वन्याः ' (तै. ब्रा. ३. ७. १. ८) इति । अतो महान् सर्वाधिकोऽसि ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the overcomer (अभिभूः (*abhibhūḥ*)) of enemies. Further, you made the sun, Āditya, shine (अरोचयः (*arocayaḥ*)) with your splendour. Further, you are the maker of the whole world (विश्वकर्मा (*viśvakarmā*)) and the All-god (विश्वदेवः (*viśvadevaḥ*)). So the Yajur-brāhmaṇa says: अग्निं वा अन्वन्या देवता इंद्रमन्वन्याः (*agniṃ vā anvanyā devatā iṃdramanvanyāḥ*) (Tai. Brā. 3. 7. 1. 8) **GLOSS**. Therefore you are great (महान् (*mahān*)), higher than all.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं (*tvaṃ*)—you
+- अभिभूः (*abhibhūḥ*)—the overpowerer of enemies
+- असि (*asi*)—you are
+- त्वं (*tvaṃ*)—you
+- सूर्यं (*sūryaṃ*)—the sun
+- आरोचयः (*ārocayaḥ*)—made to shine
+- विश्वकर्मा (*viśvakarmā*)—the maker of all worlds
+- असि (*asi*)—you are
+- विश्वदेवः (*viśvadevaḥ*)—the embodiment of all the gods
+- महान् (*mahān*)—you are the great one
+
+### Printed p. 479
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the one who crushes and defeats all enemies. You yourself made the sun shine. You are the maker of all worlds. You yourself are the embodiment of all the gods and the great one.
+
+##### English translation
+You are the conqueror, Indra ; you have lighted up the sun ; you are the maker of all, the lord of all the gods, the mighty.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वि॒भ्राजं॒ज्योति॑षा॒ स्व१॒॑रग॑च्छो रोच॒नं दि॒वः ।  
+> दे॒वास्त॑ इंद्र स॒ख्याय॑ येमिरे ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> विऽभ्राजन् । ज्योतिषा । स्वः । अगच्छः । रोचनम् । दिवः ।  
+> देवाः । ते । इंद्र । सख्याय । येमिरे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं ज्योतिषा तेजसा दिवः आदित्यस्य रोचनं प्रकाशकमधिकरणत्वेन स्वः स्वर्गं विभ्राजन् प्रकाशयन् अगच्छः प्राप्नोः । किंच देवाः सर्वे ते तव सख्याय मित्रत्वाय येमिरे स्वं स्वमात्मानं नियमितवंतः । अस्माकमिंद्रः सखा यथा स्यादिति सर्वे देवाः प्रयत्नमकार्षुरित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, by your splendour (ज्योतिषा (*jyotiṣā*)) you came (अगच्छः (*agacchaḥ*)) to heaven (स्वः (*svaḥ*)), the seat of the light of the sun (रोचनं (*rocanaṃ*)), illuminating it (विभ्राजन् (*vibhrājan*)). Further, all the gods have restrained (येमिरे (*yemire*)) each his own self for the sake of your friendship (सख्याय (*sakhyāya*)). The meaning is that all the gods made an effort so that Indra might be a friend to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ज्योतिषा (*jyotiṣā*)—by splendour
+- दिवः (*divaḥ*)—of the sun
+- रोचनं (*rocanaṃ*)—the basis of the light
+- स्वः (*svaḥ*)—heaven
+- विभ्राजन् (*vibhrājan*)—shining
+- आगच्छः (*āgacchaḥ*)—you pervade and move about
+- देवाः (*devāḥ*)—all the gods
+- ते (*te*)—with you
+- सख्याय (*sakhyāya*)—to win friendship
+- येमिरे (*yemire*)—strive humbly
+
+### Printed p. 480
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, by your splendour you move about, pervading all the space between, shining on heaven, the basis of the light of the sun. All the gods strive humbly to win friendship with you.
+
+##### English translation
+You have pervaded the light of the sky, illumining heaven by your splendour ; the gods, Indra, submissively solicit your friendship.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> एंद्र॑ नो गधि प्रि॒यः स॑त्रा॒जिदगो॑ह्यः ।  
+> गि॒रिर्न वि॒श्वत॑स्पृ॒थुः पति॑र्दि॒वः ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । इंद्र । नः । गधि । प्रियः । सत्राऽजित् । अगोह्यः ।  
+> गिरिः । न । विश्वतः । पृथुः । पतिः । दिवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र प्रियः प्रियतमः सत्राजित् महतां जेता अगोह्यः केनापि गूहितुमशक्यः गिरिर्न पर्वत इव विश्वतः सर्वतः पृथुः पृथुतमः दिवः स्वर्गस्य पतिः ईश्वरस्त्वं नः अस्मान् आ गधि आगच्छ ।
+
+##### Gist of the bhāṣya
+
+O Indra, you who are dearest (प्रियः (*priyaḥ*)), the conqueror of the mighty (सत्राजित् (*satrājit*)), who cannot be hidden by anyone (अगोह्यः (*agohyaḥ*)), broad on all sides like a mountain (गिरिर्न (*girirna*)), the lord (पतिः (*patiḥ*)) of heaven (दिवः (*divaḥ*)): come (आ गधि (*ā gadhi*)) to us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- प्रियः (*priyaḥ*)—the one needed by all
+- सत्राजित् (*satrājit*)—the conqueror of the mighty
+- अगोह्यः (*agohyaḥ*)—the one who cannot be concealed by anyone
+- गिरिर्न (*girirna*)—like a mountain
+- विश्वतः (*viśvataḥ*)—everywhere
+- पृथुः (*pṛthuḥ*)—the one who extends and pervades widely
+- दिव (*diva*)—of heaven
+- पतिः (*patiḥ*)—the lord, such as you are
+- नः (*naḥ*)—to us
+- आ गधि (*ā gadhi*)—come towards us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you are the one needed by all, the conqueror of the exceedingly mighty, the one who cannot be concealed by anyone, extending and pervading everywhere widely like a mountain, and the lord of heaven; come towards us.
+
+### Printed p. 481
+
+##### English translation
+Come to us Indra, beloved one, triumphant, and whom none can conceal—lord of heaven, vast on all sides as a mountain.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भि हि स॑त्य सोमपा उ॒भे ब॒भूथ॒ रोद॑सी ।  
+> इंद्रासि॑ सुन्व॒तो वृ॒धः पति॑र्दि॒वः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । हि । सत्य । सोमऽपाः । उभे इति । बभूथ । रोदसी इति ।  
+> इंद्र । असि । सुन्वतः । वृधः । पतिः । दिवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सत्य सोमपाः सोमस्य पातः इंद्र यस्त्वम् उभे रोदसी द्यावापृथिव्यौ अभि बभूथ सामर्थ्येनाभिभवसि स त्वं सुन्वतः सोमाभिषवं कुर्वतो यजमानस्य वृधः वर्धकः असि । दिवः स्वर्गस्यापि पतिः ईश्वरः असि ॥
+
+##### Gist of the bhāṣya
+
+O true one (सत्य (*satya*)), drinker of Soma (सोमपाः (*somapāḥ*)), Indra: you who overcome (अभि बभूथ (*abhi babhūtha*)) both heaven and earth (उभे रोदसी (*ubhe rodasī*)) by your power, you are the increaser (वृधः (*vṛdhaḥ*)) of the sacrificer who presses the Soma (सुन्वतः (*sunvataḥ*)). You are also the lord (पतिः (*patiḥ*)) of heaven (दिवः (*divaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सत्य (*satya*)—of true nature
+- सोमपाः (*somapāḥ*)—the drinker of Soma
+- इंद्र (*iṃdra*)—O Indra
+- उभे रोदसी (*ubhe rodasī*)—both heaven and earth
+- इभूथ हि (*ibhūtha hi*)—you have overcome and pervaded
+- सुन्वतः (*sunvataḥ*)—to the sacrificer who presses and offers Soma
+- वृधः (*vṛdhaḥ*)—you are the increaser
+- दिवः (*divaḥ*)—of heaven
+- पतिः असि (*patiḥ asi*)—you are also the lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, of true nature and drinker of Soma, you have overcome and pervaded both heaven and earth. You are the increaser of the sacrificer who presses and offers Soma, and the lord of heaven too.
+
+##### English translation
+Truthful drinker of the Soma, you surpass heaven and earth ; O Indra, you are the fosterer of him who prepares the libation, you are the lord of heaven.
+
+### Printed p. 482
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं हि शश्व॑तीना॒मिंद्र॑ द॒र्ता पु॒रामसि॑ ।  
+> हं॒ता दस्यो॒र्मनो॑र्वृ॒धः पति॑र्दि॒वः ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । हि । शश्वतीनाम् । इंद्र । दर्ता । पुराम् । असि ।  
+> हंता । दस्योः । मनोः । वृधः । पतिः । दिवः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वं शश्वतीनां बह्वीनां पुरां शत्रुनगरीणां दर्ता असि दारयिता भवसि । किंच दस्योः उपक्षपयितुरसुरस्य हंता असि घातको भवसि । मनोः मनुष्यस्य यागादिकं कुर्वतः वृधः वर्धकश्चासि । दिवः स्वर्गस्यापि पतिः ईश्वरोऽसि ॥ ॥ १ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, you are the breaker (दर्ता (*dartā*)), the one who splits, of the many (शश्वतीनां (*śaśvatīnāṃ*)) cities (पुरां (*purāṃ*)) of the enemy. Further, you are the slayer (हंता (*haṃtā*)) of the Dasyu (दस्योः (*dasyoḥ*)), the asura who wastes away others. You are also the increaser (वृधः (*vṛdhaḥ*)) of man (मनोः (*manoḥ*)) who performs sacrifices and the like. You are the lord (पतिः (*patiḥ*)) of heaven (दिवः (*divaḥ*)) as well.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वं हि (*tvaṃ hi*)—you alone
+- शश्वतीनां (*śaśvatīnāṃ*)—of the many
+- पुरां (*purāṃ*)—enemy cities
+- दर्ता (*dartā*)—the one who splits and destroys
+- असि (*asi*)—you are
+- दस्योः (*dasyoḥ*)—of the violent asura
+- हंता (*haṃtā*)—you are also the destroyer
+- मनोः (*manoḥ*)—of the man who performs sacrifice
+- वृधः (*vṛdhaḥ*)—you are also the increaser
+- दिवः (*divaḥ*)—of heaven
+- पतिः (*patiḥ*)—you are also the lord
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you alone are the one who splits and destroys the many cities of the enemy. You are also the destroyer of the violent asura. You are the increaser of the man who performs sacrifice, and the lord of heaven.
+
+##### English translation
+You, Indra, are the stormer of many hostile cities, the slayer of the Dasyu, the fosterer of man, the lord of heaven.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ हीं॑द्र गिर्वण॒ उप॑ त्वा॒ कामा॑न्म॒हः स॑सृ॒ज्महे॑ ।  
+> उ॒देव॒ यंत॑ उ॒दभिः॑ ॥ ७ ॥
+
 ---
 
-**Progress note:** Done through printed p. 476. Vol 25 pp. 470-476: Rigveda 8.97.13-15, end of 6th adhyaya, start of 8.98 introduction
+**Progress note:** Done through printed p. 482. Vol 25 pp. 477-482: Rigveda 8.98.1-6, 7 begins
