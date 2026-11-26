@@ -1825,6 +1825,280 @@ The sages born in the family of Vasiṣṭha worship, in the manner stated above
 ##### English translation
 In this manner the Vasishthas glorify with hymns Indra, the showerer, the bearer of the thunderbolt : may he so glorified grant us wealth, comprising male posterity and cattle : and do you ever cherish us with blessings.
 
+### Printed p. 43
+
+## Sūkta 24 (Maṇḍala 7)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> योनिष्ट इंद्र सदने अकारीति षडृचं सप्तमं सूक्तं वसिष्ठस्यार्षं त्रैष्टुभमैंद्रं । अनुक्रम्यते च । योनिरिति ॥ महाव्रते निष्केवल्य एतत्सूक्तं । सूत्रितं
+> च । योनिष्ट इंद्र सदने अकारीत्येतस्य चतस्रः शस्त्वोत्तमामुपसंतन्वोत्तमया परिदधाति । ऐ. आ. ५-३-१ । इति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: The sūkta of six Ṛks beginning योनिष्ट इंद्र सदने अकारि (*yoniṣṭa iṃdra sadane akāri*) is the seventh sūkta; its seer is Vasiṣṭha, its metre Triṣṭubh, its deity Indra. The Anukramaṇī records it with योनिरिति (*yoniriti*). In the Mahāvrata this sūkta is used for the niṣkevalya recitation. It is laid down by the sūtra योनिष्ट इंद्र सदने अकारीत्येतस्य चतस्रः शस्त्वोत्तमामुपसंतन्वोत्तमया परिदधाति (*yoniṣṭa iṃdra sadane akārītyetasya catasraḥ śastvottamāmupasaṃtanvottamayā paridadhāti*) (Ai. Ā. 5-3-1).
+
+The sūkta योनिष्ट इंद्र सदने अकारि (*yoniṣṭa iṃdra sadane akāri*) is the seventh sūkta in the second anuvāka. It has six Ṛks. Vasiṣṭha is the seer of this sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇī it is stated beginning with योनिः (*yoniḥ*). Its application is in the Mahāvrata sacrifice, for the mantras of the niṣkevalya recitation, as is indicated by the sentence of the Aitareya Āraṇyaka योनिष्ट इंद्र सदने अकारीत्येतस्य चतस्रः शस्त्वोत्तमामुपसंतन्वोत्तमया परिदधाति (*yoniṣṭa iṃdra sadane akārītyetasya catasraḥ śastvottamāmupasaṃtanvottamayā paridadhāti*) (Ai. Ā. 5-3-1).
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> योनि॑ष्ट इंद्र॒ सद॑ने अकारि॒ तमा नृभिः॑ पुरुहूत॒ प्र या॑हि ।  
+> असो॒ यथा॑ नो अवि॒ता वृ॒धे च॒ ददो॒ वसू॑नि म॒मद॑श्च॒ सोम्यैः॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> योनिः । ते । इंद्र । सदने । अकारि । तं । आ । नृभिः । पुरुहूत । प्र । याहि ।  
+> असः । यथा । नः । अविता । वृधे । च । ददः । वसूनि । ममदः । च । सोम्यैः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र ते तव सदने सदनार्थं योनिः स्थानमकारि । हे पुरुहूत नृभिर्मरुद्भिः सार्धं तं योनिमा प्र याहि । सोऽस्माकं यथाविता रक्षिता सः भवसि सो-
+
+### Printed p. 44
+
+> स्माकं वृधे वर्धनाय चासः । तथा च वसूनि ददः । अस्मभ्यं देहि । सोम्यैरस्मदीयैर्ममदः । मादयस्व च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, a place (योनिः (*yoniḥ*)) has been made for your sitting. O much-invoked one, come to that place together with the leaders, the Maruts. As you are our protector, so be for our increase also; and thus give us wealth (वसूनि (*vasūni*)), and be exhilarated by our Soma offerings.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- ते (*te*)—your
+- सदने (*sadane*)—for the seat
+- योनिः (*yoniḥ*)—a fitting place
+- अकारि (*akāri*)—has been made
+- पुरुहूत (*puruhūta*)—O Indra, who are called by many
+- नृभिः (*nṛbhiḥ*)—together with the Maruts
+- तं (*taṃ*)—to that place of sacrifice
+- आ प्र याहि (*ā pra yāhi*)—be gracious and come
+- नः (*naḥ*)—to us
+- यथा (*yathā*)—in the manner
+- अविता (*avitā*)—in which you are the protector, in that manner
+- असः (*asaḥ*)—be
+- वृधे च (*vṛdhe ca*)—help also for our increase
+- वसूनि च (*vasūni ca*)—wealth also
+- ददः (*dadaḥ*)—give to us
+- सोम्यैः (*somyaiḥ*)—with the Soma-juices offered by us
+- ममदः (*mamadaḥ*)—be satisfied
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, a fitting place has been made for your seat. O Indra, you who are worthy of the invocation of many, come together with the Maruts to that place of sacrifice. Be with us, so as to be our protector. Be the cause of our increase also. Give us wealth. Be satisfied with the Soma offered by us.
+
+##### English translation
+A place has been prepared for you in the sacrificial chamber : proceed to it, invoked of many, along with the leaders (of rites, the Maruts), inasmuch as you are our protector, (promote our) prosperity : grant us riches : be exhilarated by the Soma.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> गृ॒भी॒तं ते॒ मन॑ इंद्र द्वि॒बर्हाः॑ सु॒तः सोमः॒ परि॑षिक्ता॒ मधू॑नि ।  
+> विसृ॑ष्टधेना भरते सुवृ॒क्तिरि॒यमिंद्रं॒ जोहु॑वती मनी॒षा ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> गृभीतं । ते । मनः । इंद्र । द्विबर्हाः । सुतः । सोमः । परिसिक्ता । मधूनि ।  
+> विसृष्टधेना । भरते । सुवृक्तिः । इयं । इंद्रं । जोहुवती । मनीषा ॥ २ ॥
+
+### Printed p. 45
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र द्विबर्हाः । षष्ठ्यर्थे प्रथमा । द्विबर्हसो द्वयोः स्थानयोः परिवृढस्य ते तव मनो गृभीतमस्माभिः परिगृहीतं । सोमश्च सुतोऽभिषुतः ।
+> मधूनि च परिसिक्ता पात्रेषु परिसिक्तानि । विसृष्टधेना विसृष्टजिह्वा मध्यमस्वरेणोच्चार्यमाणा सुवृक्तिः सुसमाप्तिरियं मनीषा स्तुतिरिंद्रं जोहुवती भृशमाह्वयंती भरते । संभ्रियते च ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, द्विबर्हाः (*dvibarhāḥ*) stands in the nominative in the sense of the genitive: of you who are mighty in the two places (परिवृढस्य (*parivṛḍhasya*)), your mind has been grasped by us. The Soma is pressed, and the sweet juices have been poured round into the vessels. This praise (मनीषा (*manīṣā*)), uttered in the middle tone with loosened tongue (विसृष्टधेना (*visṛṣṭadhenā*)), well completed (सुवृक्तिः (*suvṛktiḥ*)), calls Indra again and again and is brought to him.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- द्विबर्हाः (*dvibarhāḥ*)—you who have grown great in both worlds
+- ते (*te*)—your
+- मनः (*manaḥ*)—mind
+- गृभीतं (*gṛbhītaṃ*)—has been apprehended by us
+- सोमः (*somaḥ*)—the Soma-juice
+- सुतः (*sutaḥ*)—has been pressed
+- मधूनि (*madhūni*)—the sweet juices also
+- परिसिक्ता (*parisiktā*)—are filled into the vessels
+- विसृष्टधेना (*visṛṣṭadhenā*)—recited without hindrance
+- सुवृक्तिः (*suvṛktiḥ*)—of excellent composition
+- इयं मनीषा (*iyaṃ manīṣā*)—this praise
+- इंद्रं (*iṃdraṃ*)—Indra
+- जोहुवती (*johuvatī*)—calling much
+- भरते (*bharate*)—propitiates
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, your mind, grown great in both worlds, has been apprehended by us. The Soma-juice has been pressed. The sweet juices too are filled into the vessels. This praise, to be recited without hindrance and of excellent composition, calling Indra again and again, propitiates him.
+
+##### English translation
+Your purpose, Indra, is apprehended, you who are mighty in the two (worlds) : the Soma is effused : the sweet juices are poured (into the vessels) : this perfect praise uttered with loosened tongue propitiates Indra with repeated invocations:
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॑ दि॒व आ पृ॑थि॒व्या ऋ॑जीषिन्नि॒दं ब॒र्हिः सो॑म॒पेया॑य  
+> याहि ।  
+> वहं॑तु त्वा॒ हर॑यो म॒द्र्यं॑चमांगू॒षमच्छा॑ त॒वसं॒ मदा॑य ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । दिवः । आ । पृथिव्याः । ऋजीषिन् । इदं । बर्हिः । सोम्यपेयाय । याहि ।  
+> वहंतु । त्वा । हरयः । मद्र्यंचं । आंगूषं । अच्छ । तवसं । मदाय ॥ ३ ॥
+
+### Printed p. 46
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋजीषिन्निंद्र नोऽस्माकमिदं बर्हिरिमं यज्ञं सोमपेयाय दिवः
+> स्वर्गादा याहि । आगच्छ । पृथिव्या अंतरिक्षाच्च । आप पृथिवीत्यंतरिक्षनामसु पाठात् ।
+> आ याहि । अपि च तवसं प्रवृद्धं बलवंतं वा मद्र्यंचं मदभिमुखं त्वा त्वामांगूषं स्तोत्रमच्छाभि मदाय मदार्थं हरयोऽश्वा वहंतु ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra Ṛjīṣin, come to this our sacred grass, this sacrifice, for the drinking of Soma, from heaven (दिवः (*divaḥ*)), the celestial world, and from the earth (पृथिव्या (*pṛthivyā*)), which here means the atmosphere, since पृथिवी (*pṛthivī*) is read among the names of the atmosphere. And let your horses (हरयः (*harayaḥ*)) bring you, who are vigorous or strong (तवसं (*tavasaṃ*)) and turned towards me (मद्र्यंचं (*madryaṃcaṃ*)), towards the praise (आंगूषं (*āṃgūṣaṃ*)), for your exhilaration.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषिन् (*ṛjīṣin*)—O Indra
+- नः (*naḥ*)—our
+- इदं बर्हिः (*idaṃ barhiḥ*)—to this place of sacrifice
+- सोमपेयाय (*somapeyāya*)—for the drinking of Soma
+- दिवः (*divaḥ*)—from heaven
+- आ याहि (*ā yāhi*)—be gracious and come
+- पृथिव्याः (*pṛthivyāḥ*)—from the earth also
+- आ (याहि) (*ā (yāhi)*)—be gracious and come
+- तवसं (*tavasaṃ*)—you who are of great strength
+- मद्र्यंचं (*madryaṃcaṃ*)—and turned towards me
+- त्वा (*tvā*)—you
+- आंगूषं अच्छ (*āṃgūṣaṃ accha*)—towards our praise
+- मदाय (*madāya*)—for your delight
+- हरयः (*harayaḥ*)—your horses
+- वहंतु (*vahaṃtu*)—let them bring you
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, come to this our place of sacrifice from heaven, for the drinking of Soma. Come from the earth also. Let your horses bring you, who are of great strength and turned towards me, towards our praise, for your delight.
+
+##### English translation
+Come, Rijishin, from the sky, or from the firmament, to this sacred grass, to drink the Soma : let your horses bear you who are vigorous to my presence to (receive my) praise and for (your) exhilaration.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ नो॒ विश्वा॑भिरू॒तिभिः॑ स॒जोषा॒ ब्रह्म॑ जुषा॒णो ह॑र्यश्व याहि ।  
+> वरी॑वृज॒त्स्थवि॑रेभिः सुशिप्रा॒स्मे दध॒द्वृष॑णं॒ शुष्म॑मिंद्र ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । नः । विश्वाभिः । ऊतिभिः । सजोषाः । ब्रह्म । जुषाणः । हरिअश्व । याहि ।  
+> वरीवृजत् । स्थविरेभिः । सुशिप्र । अस्मे इति । दधत् । वृषणं । शुष्मं । इंद्र ॥ ४ ॥
+
+### Printed p. 47
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे हर्यश्व हरिनामकाश्व सुशिप्र शोभनहनविंद्र विश्वाभिः सर्वाभिरूतिभी
+> रक्षणाभिः सजोषाः संगतः स्थविरेभिर्वृद्धैर्मरुद्भिः सह वरीवृजच्छत्रून् भृशं
+> हिंसन् अस्मे अस्मभ्यं वृषणं कामानां वर्षितारं शुष्मं बलवंतं पुत्रं दधत्
+> प्रयच्छन् ब्रह्म स्तोत्रं जुषाणः सेवमानो नोऽस्माना याहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Haryaśva, you whose horses are called Hari, O Suśipra, you of handsome jaws, Indra, come to us united with all protections (ऊतिभिः (*ūtibhiḥ*)), together with the aged Maruts (स्थविरेभिः (*sthavirebhiḥ*)), smiting the foes violently (वरीवृजत् (*varīvṛjat*)), granting us a strong son (शुष्मं (*śuṣmaṃ*)), a showerer of desires, and accepting our praise (ब्रह्म (*brahma*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हर्यश्व (*haryaśva*)—you who have horses called Hari
+- सुशिप्र (*suśipra*)—you of handsome cheeks
+- इंद्र (*iṃdra*)—O Indra
+- विश्वाभिः (*viśvābhiḥ*)—with all
+- ऊतिभिः (*ūtibhiḥ*)—protections
+- सजोषाः (*sajoṣāḥ*)—being united
+- स्थविरेभिः (*sthavirebhiḥ*)—together with the aged Maruts
+- वरीवृजत् (*varīvṛjat*)—and smiting the enemies
+- अस्मे (*asme*)—to us
+- वृषणं (*vṛṣaṇaṃ*)—a showerer of desires
+- शुष्मं (*śuṣmaṃ*)—and mighty son
+- दधत् (*dadhat*)—giving
+- ब्रह्म (*brahma*)—the praise
+- जुषाणः (*juṣāṇaḥ*)—accepting
+- नः (*naḥ*)—to us
+- आ याहि (*ā yāhi*)—be gracious and come
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, you who have the horses called Hari and handsome cheeks, come to us united with all protections, smiting the enemies together with the aged Maruts, giving us a son who is a showerer of desires and mighty, and accepting our praise.
+
+##### English translation
+Lord of bay steeds, propitiated by our praise, come to us with all your protections, sharing in satisfaction, handsome-chinned, with the ancient (Maruts), overthrowing repeatedly (your) foes, and granting us a strong and vigorous (son).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्तोमो॑ म॒ह उ॒ग्राय॒ वाहे॑ धु॒री॒३॒॑वात्यो॒ न वा॒जय॑न्नधायि ।  
+> इंद्र॑ त्वा॒यम॒र्क ई॑ट्टे॒ वसू॑नां दि॒वी॑व॒ द्यामधि॑ नः॒ श्रोम॑तं धाः ॥ ५ ॥
+
+### Printed p. 48
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्तोमः । महे । उग्राय । वाहे । धुरिइव । अत्यः । न । वाजयन् । अधायि ।  
+> इंद्र । त्वा । अयं । अर्कः । ईट्टे । वसूनां । दिविइव । द्यां । अधि । नः । श्रोमतं ।  
+> धाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> महे महत उग्रायोद्गूर्णाय बलिने वाहे विश्वस्य वोढ्रे इंद्राय
+> धुरीव रथस्यात्यो नाश्व इव वाजयन् बलं कुर्वन्नेष स्तोमोऽधायि । वृढायि । अथ प्रत्यक्षस्तुतिः । हे इंद्र यं त्वामयमर्कः स्तोता वसूनां वसूनि धनानीट्टे याचते स त्वं नोऽस्मासु द्यां दिवीव श्रोमतं श्रवणीयमन्नं पुत्रं वाधिधाः । अधिधेहि ।
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: This hymn of praise (स्तोमः (*stomaḥ*)) has been offered to mighty (महे (*mahe*)), fierce (उग्राय (*ugrāya*)), strong Indra, the bearer of the universe (वाहे (*vāhe*)), as a horse at the yoke of a chariot, making strength. Now a direct address: O Indra, you whom this praiser (अर्कः (*arkaḥ*)) asks for riches (वसूनां (*vasūnāṃ*)): bestow upon us famed food, or a son, such as the sky has in heaven (श्रोमतं (*śromataṃ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- महे (*mahe*)—of great nature
+- उग्राय (*ugrāya*)—of great strength
+- वाहे (*vāhe*)—and bearer of the universe, addressing Indra
+- धुरीव (*dhurīva*)—of a chariot
+- अत्यः न (*atyaḥ na*)—like a horse
+- वाजयन् (*vājayan*)—producing strength
+- एषः स्तोमः (*eṣaḥ stomaḥ*)—this hymn
+- अधायि (*adhāyi*)—has been offered
+- इंद्र (*iṃdra*)—O Indra
+- अयं अर्कः (*ayaṃ arkaḥ*)—this praiser
+- वसूनां (*vasūnāṃ*)—riches
+- ईट्टे (*īṭṭe*)—asks for
+- दिवि (*divi*)—in the atmosphere
+- द्यां इव (*dyāṃ iva*)—shining like the famed heaven
+- श्रोमतं (*śromataṃ*)—and famed food
+- नः (*naḥ*)—for us
+- अधि धाः (*adhi dhāḥ*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+This hymn of praise, producing strength like a horse of a chariot, has been offered to Indra, who is of great nature, of great strength, and the bearer of the whole universe. O Indra, this praiser asks for riches. Provide us with food that shines like the famed heaven in the atmosphere and is itself famed.
+
+##### English translation
+This invigorating praise, like a horse attached to a car, has been addressed to you who are mighty and fierce, the up-bearer (of the world) : this your adorer desires of you, Indra, riches : grant us sustenance famous as the sky in heaven.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा न॑ इंद्र॒ वार्य॑स्य पूर्धि॒ प्र ते॑ म॒हीं सु॑म॒तिं वे॑विदामः ।  
+> इषं॑ पिन्व म॒घव॑द्भ्यः सु॒वीरां॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+
 ---
 
-**Progress note:** Done through printed p. 42. Sūkta 23 Ṛk 1 end to Ṛk 6
+**Progress note:** Done through printed p. 48. Sūkta 24 Ṛk 1-6 (Saṃhitā of Ṛk 6)
