@@ -14310,6 +14310,287 @@ The kinsman of the earth, the utterer of praise(belonging)to you(who abide) in h
 > इ॒यं मे॒ नाभि॑रि॒ह मे॑ स॒धस्थ॑मि॒मे मे॑ दे॒वा अ॒यम॑स्मि॒  ॑
 > सर्वः ।
 
+### Printed p. 434
+
+> द्विजा अह प्रथमजा ऋतस्येदं धेनुरदुहज्जायमाना ॥१९॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इयं । मे । नाभिः । इह । मे । सधस्थं । इमे । मे । देवाः । अयं । अस्मि ।  
+> सर्वः ।  
+> द्विजाः । अह । प्रथमजाः । ऋतस्य । इदं । धेनुः । अदुहत् । जायमाना ॥१९॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> इयं माध्यमिका वाग्मे नाभिः संनाहिनी । आदित्यस्य तस्याश्चाभेदादस्यर्षेर्माध्यमिका वाग्बंधिका भवति । तथा च ब्राह्मणं । सा या वागसौ स आदित्य इति
+> ब्राह्मणं । इहास्मिन्मंडले मे मम सधस्थं स्थानं । इमे मे देवा द्योतमाना
+> रश्मयो मे मम स्वभूताः । अयमहमस्मि सर्वः । सूर्यस्य स्वस्योक्तेन । प्रकारेणाभेदात्तद्द्वारा सर्वात्मकत्वं । अह किंचेत्यर्थः । द्विजा विप्रा ऋतस्य प्रथमजाः
+> सत्यस्य प्रथमजाः सत्यभूतस्य ब्रह्मणः प्रथमोत्पन्नाः । धेनुः । पृश्नि देवता
+> माध्यमिका वाग्जायामानेदं सर्वमदुहत् । दुदोह । उदपादयदित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+This middle-region speech is my नाभिः (*nābhiḥ*), my binding tie. Āditya and that speech are non-different, so for this seer the middle speech is the binder. Sāyaṇa cites the Brāhmaṇa: सा या वागसौ स आदित्य इति ब्राह्मणं (*sā yā vāgasau sa āditya iti brāhmaṇaṃ*). Here, in this orb, is my seat. These shining rays are my own. I am this all, because I am non-different from Sūrya in the manner stated, and so, through him, all-embracing. अह (*aha*) means "and also". The द्विजाः (*dvijāḥ*) are the learned (vipras), the first-born of ऋतस्य (*ṛtasya*), that is, first arisen from Brahman, who is truth. The धेनुः (*dhenuḥ*) is the deity Pṛśni, the middle speech. As she was being born she milked forth this whole universe, that is, produced it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इयं (*iyaṃ*)—this middle-region goddess of speech
+- मे (*me*)—to me
+- नाभिः (*nābhiḥ*)—one closely related
+- इह (*iha*)—in this solar orb
+- मे (*me*)—my
+- सधस्थं (*sadhasthaṃ*)—abiding-place there is
+- देवाः (*devāḥ*)—luminous
+- इमे (*ime*)—these rays
+- मे (*me*)—belong to me
+- अयं (*ayaṃ*)—I myself
+- सर्वः अस्मि (*sarvaḥ asmi*)—am everything
+- प्रथमजाः (*prathamajāḥ*)—first produced from Brahman, who is of the nature of truth
+- द्विजाः (*dvijāḥ*)—the groups of twice-born form, these too I am
+- धेनुः (*dhenuḥ*)—the goddess of speech in the form of Pṛśni
+- जायमाना (*jāyamānā*)—as soon as she was born
+- इदं (*idaṃ*)—this whole universe
+- अदुहत् (*aduhat*)—she produced
+
+##### भावार्थ (Bhāvārtha)
+
+The goddess of the middle-region speech is closely related to me, and in this solar orb is my abode. These luminous rays belong to me. I myself am everything. I am also the groups of the twice-born, first produced from Brahman, who is of the nature of truth. As soon as the goddess of speech in the form of Pṛśni was born, she produced this whole universe.
+
+##### English translation
+This (aerial voice) is my bond of affinity : here, (in the solar orb) is my abiding-place : these are my resplendent (rays) : I am this all : I am
+
+### Printed p. 435
+the twice-born : the first-born of truth ; the cow, as soon as born, milked forth this (universe).
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॑सु मं॒द्रो अ॑र॒तिर्वि॒भावाव॑ स्यति द्विवर्त॒निर्व॑ने॒षाट् ।  
+> ऊ॒र्ध्वयच्छेणि॒र्न शिशु॒र्दन्म॒क्षू स्थि॒रं शे॑वृ॒धं सू॑त मा॒ता॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । आसु । मंद्रः । आरतिः । विभावा । अव । स्यति । द्विवर्तनिः । वनेषाट् ।  
+> ऊर्ध्वान् । यत् । श्रेणिः । न । शिशुः । दन् । मक्षु । स्थिरं । शेवृधं । सूत । माता ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अधाथासु चतसृषु दिक्षु मंद्रो मोदमानोऽरतिर्गंता विभावा दीप्तिमान् द्विवर्तनिर्द्वयोर्लोकयोर्गंता वनेषाड्वने काष्ठानामभिभविताग्निरव
+> स्यति । अवसन्नो भवति यागार्थं । यच्च योऽग्निरूर्ध्वर्ोन्मुखा श्रेणिर्न शिशुः
+> शंसनीयः सेनेव मक्षु शीघ्रं दन् शत्रुन्ममयति तमिमं स्थिरं निश्चलं शेवृधं
+> सुखस्य वर्धकं मातारणिः सूत । यज्ञे जनयामास ॥
+
+##### Gist of the bhāṣya
+
+In these four directions Agni is मंद्रः (*maṃdraḥ*), delighted. He is अरतिः (*aratiḥ*), a goer, विभावा (*vibhāvā*), radiant, द्विवर्तनिः (*dvivartaniḥ*), a goer between the two worlds, and वनेषाट् (*vaneṣāṭ*), the overcomer of wood in the forest. He अवस्यति (*avasyati*), that is, is brought to his end for the sacrifice. The Agni who is upward-facing, like a श्रेणिः (*śreṇiḥ*), like a शिशुः (*śiśuḥ*) who is praiseworthy, like an army, quickly subdues his enemies **NOTE**. Him, steady and unmoving, the increaser of happiness, the mother, the मातारणिः (*mātāraṇiḥ*) (araṇi), brought forth at the sacrifice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- आसु (*āsu*)—in all the directions
+- मंद्रः (*maṃdraḥ*)—one who attains delight
+- अरतिः (*aratiḥ*)—ever moving
+- विभावा (*vibhāvā*)—shining
+- द्विवर्तनिः (*dvivartaniḥ*)—one who moves in both worlds
+- वनेषाट् (*vaneṣāṭ*)—Agni, who burns the forest
+- अव स्यति (*ava syati*)—comes to an end for the sake of the sacrifice
+- यत् (*yat*)—which Agni
+- श्रेणिः न (*śreṇiḥ na*)—like a long line
+- ऊर्ध्वा (*ūrdhvā*)—with face turned upward
+- शिशुः (*śiśuḥ*)—and praiseworthy
+- मक्षु (*makṣu*)—quickly
+- दन् (*dan*)—who destroys enemies, such
+- स्थिरं (*sthiraṃ*)—motionless
+- शेवृधं (*śevṛdhaṃ*)—Agni, who increases happiness
+- माता (*mātā*)—the araṇi
+- सूत (*sūta*)—bore
+
+##### भावार्थ (Bhāvārtha)
+
+Agni is delighted in all directions, ever moving, shining, moving in both worlds, and burning the forest. With his face turned upward like a long line, and praiseworthy, he quickly destroys his enemies. He comes to an end when needed for the sacrifice (at the conclusion of the rite). The araṇi bore Agni, who is motionless and the increaser of happiness.
+
+### Printed p. 436
+
+##### English translation
+He, who, exulting in these (regions), unresting, bright-shining, traversing the (two worlds), consuming the forest, terminates (in the fire of sacrifice), who, upward rising, like a line, adorable, quickly subdues (his foes) : him, unchangeable, the augmenter of happiness, his mother has brought forth.
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒ गाव॒ उप॑मातिं क॒नाया॒ आनु॑ श्वां॒तस्य॒ कस्य॑ चि॒त्परे॑युः ।  
+> श्रु॒धि त्वं सु॑द्रविणो न॒स्त्वं या॑ळाश्व॒घ्नस्य॑ वावृधे सू॒नृता॑भिः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अथ । गावः । उपमातिं । कनायाः । अनु । श्वांतस्य । कस्य । चित् । परा । ईयुः ।  
+> श्रुधि । त्वं । सुद्रविणः । नः । त्वं । याट् । आश्वघ्नस्य । ववृधे । सूनृताभिः ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अध संप्रति कस्य चिच्छांतस्य प्रवृद्धस्य श्रांतस्य वा । आत्मनो निर्दॆशः । ईदृशस्य नाभानेदिष्टस्य कनायाः कमनीयायाः स्तुतेर्गावो वाचः । यद्वा । वाचः
+> स्तुतयः कनायाः कमनीयायाः स्तुतेरुपमातिमुपमानभूतमिंद्रमनु परेयुः । अनु परागच्छंति । हे सुद्रविणः सुधनाग्ने त्वं श्रुधि । शृणु । नोऽस्माकमिममिंद्रं याट् । अयाट् । यज । त्वं चाश्वघ्नस्य । अश्वघ्नोऽश्वमेधयाजी
+> मनुः । तस्य पुत्रस्य मम सूनृताभिः स्तुतिभिर्ववृधे । वर्धसे ॥ पुरुषव्यत्ययः ॥
+> अथवायं वर्धत इति परोक्षेण निर्देशः ॥
+
+##### Gist of the bhāṣya
+
+Now, of a certain श्वांतस्य (*śvāṃtasya*), one tranquil (or advanced, or weary), there is a reference to the speaker himself. Of such a one, Nābhānediṣṭha, the गावः (*gāvaḥ*), that is, the words of lovely praise, follow the उपमातिं (*upamātiṃ*), the model. Or else: the words, the praises, follow Indra, who is the model of the lovely praise; they go after him. O Agni, सुद्रविणः (*sudraviṇaḥ*), rich in wealth, hear us. याट् (*yāṭ*) is अयाट् (*ayāṭ*), "sacrifice": offer sacrifice to this Indra of ours. You are magnified by the praises of Aśvaghna, Manu, the performer of the horse sacrifice, whose son I am. ववृधे (*vavṛdhe*) stands for "you are magnified", a change of person. Or else the statement is indirect: "he grows".
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कस्य चित् श्वांतस्य (*kasya cit śvāṃtasya*)—of the tranquil-minded Nābhānediṣṭha
+- कनायाः (*kanāyāḥ*)—of the delightful praise
+- गावः (*gāvaḥ*)—the words
+- उपमातिं (*upamātiṃ*)—Indra, the ideal person
+- अनु परेयुः (*anu pareyuḥ*)—go and join
+- सुद्रविणः (*sudraviṇaḥ*)—O Agni, possessor of excellent wealth
+- त्वं (*tvaṃ*)—you
+- नः (*naḥ*)—our praise
+- श्रुधि (*śrudhi*)—hear
+- याट् (*yāṭ*)—worship the gods
+- त्वं (*tvaṃ*)—you
+- आश्वघ्नस्य (*āśvaghnasya*)—of me, the son of Manu, the performer of the horse sacrifice
+- सूनृताभिः (*sūnṛtābhiḥ*)—by excellent praises
+- ववृधे (*vavṛdhe*)—you attain increase
+
+### Printed p. 437
+
+##### भावार्थ (Bhāvārtha)
+
+The delightful words of praise of the tranquil-minded Nābhānediṣṭha go and join Indra, the ideal person. O Agni, possessor of excellent wealth, hear our earth **NOTE**. Worship the gods. You attain increase through the excellent praises of me, the son of Manu, the performer of the horse sacrifice.
+
+##### English translation
+The words of the desiraale (praise), of a certain tranquil person (Nabhanedishtha), attain the prototype (Indra), Do you, who are the giver of wealth (Agni), here us : offer sacrifice, you are magnified by the sincere eulogiums of Ashwaghna,
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ त्वमिं॑द्र वि॒ध्य१॒॑गस्मान्म॒हो रा॒ये नृ॑पते॒ वज्र॑बाहुः ।  
+> रक्षा॑ च नो म॒घोनः॑ पा॒हि सू॒रीन॑ने॒हस॑स्ते हरिवो अ॒भिष्टौ॑ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । त्वं । इंद्र । विद्धि । अस्मान् । महः । राये । नृपते । वज्रबाहुः ।  
+> रक्ष । च । नः । मघोनः । पाहि । सूरीन् । अनेकहसः । ते । हरिवः । अभिष्टौ ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र अधाधुना वज्रबाहुस्त्वमस्मान्महो महते राये धनाय विद्धि ।
+> जानीहि । हे इंद्र मघोनो हविष्मतः सूरीन् स्तुतिप्रेरकान्नोऽस्मान्द्रक्ष च ।
+> हे हरिवो हरिभ्यां तद्वन्निंद्र ते तवाभिष्टावभिगमनेऽनेहसोऽपापाः स्यामेति
+> शेषः ॥
+
+##### Gist of the bhāṣya
+
+O Indra, now you, bearing the thunderbolt in your arm, know us for great wealth. O Indra, protect us, the मघोनः (*maghonaḥ*), the possessors of oblations, the सूरीन् (*sūrīn*), who impel the praise. O हरिवः (*harivaḥ*), Indra with the two bay horses, at your approach (अभिष्टौ (*abhiṣṭau*)) may we be अनेहसः (*anehasaḥ*), free from sin. "May we be" is the word to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- नृपते (*nṛpate*)—lord of all men
+- इंद्र (*iṃdra*)—O Indra
+- अध (*adha*)—now
+- वज्रबाहुः (*vajrabāhuḥ*)—you who hold the thunderbolt in your hand
+- आस्मान् (*āsmān*)—us
+- महः (*mahaḥ*)—of great
+- राये (*rāye*)—wealth
+- विद्धि (*viddhi*)—know as worthy
+- मघोनः (*maghonaḥ*)—possessing oblations
+- सूरीन् (*sūrīn*)—who are praisers
+- नः (*naḥ*)—us
+- (पाहि) रक्ष (*(pāhi) rakṣa*)—protect
+- हरिवः (*harivaḥ*)—O Indra, possessor of horses
+- ते (*te*)—your
+- अभिष्टौ (*abhiṣṭau*)—at the time of your coming
+- अनेहसः (*anehasaḥ*)—may we be free from sin
+
+### Printed p. 438
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, lord of all men, you who hold the thunderbolt weapon in your hand, know us as worthy of great wealth. Protect us, who possess oblations and are praisers. O Indra, possessor of horses, at the time of your coming may we be free from sin.
+
+##### English translation
+Do you, Indra, king of men, who are the bearer of the thunderbolt, regard us now to (give us) great riches, and protect us who are affluent in (oblations), who utter (your) praise ; may we, lord of bay steeds, (be) free from blame on your approach.
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अध॒ यद्रा॑जाना॒ गवि॑ष्टौ॒ सर॑त्सर॒ण्युः का॒रवे॑ जर॒ण्युः ।  
+> विप्रः॒ प्रेष्ठः॒ स ह्ये॑षां ब॒भूव॒ परा॑ च॒ वक्ष॑दु॒त स॑र्षदेनान् ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । यत् । राजाना । गोऽइष्टौ । सरत् । सरण्युः । कारवे । जरण्युः ।  
+> विप्रः । प्रेष्ठः । सः । हि । एषां । बभूव । परा । च । वक्षत् । उत । पर्षत् । एनान् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे राजाना राजमानौ मित्रावरुणौ आधाधुना सत्रसमाप्तौ यद्यस्माद्दविष्टौ
+> गवामेषणायां सत्यां सरुण्युः सरणशीलो यमः सरत् गच्छति कारवे कर्माणि
+> कुर्वते०ऽगिरसां गणाय । किमिच्छन् । जरण्युस्तस्मा अंगिरसां गणाय स्तुतिमिच्छन् ।
+> तस्यात्स विप्रो नाभानेदिष्ट एषामंगिरसां प्रेष्ठः प्रियतमो बभूव । भवतु । हीति
+> पूरणः । तेषां कर्तव्यं परा च वक्षत् । परावहतु । उतापि चैनानंगिरसः पर्षत्
+> पारयत्वित्यात्मन एवाशास्ते ॥
+
+##### Gist of the bhāṣya
+
+O royal Mitra and Varuṇa, now, at the completion of the sacrificial session, because Yama, who is swift-moving by nature, goes in the search for cows (गविष्टौ (*gaviṣṭau*)) to the कारवे (*kārave*), the group of the Aṅgirases who perform rites, desiring praise for that group, therefore that विप्रः (*vipraḥ*), Nābhānediṣṭha, has become प्रेष्ठः (*preṣṭhaḥ*), the dearest, to these Aṅgirases; let him be so. The word हि (*hi*) is a filler. Let him carry out their duty (परा च वक्षत् (*parā ca vakṣat*), "let him carry away"), and let him bring these Aṅgirases across (पर्षत् (*parṣat*)). In this way he asks it for himself.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- राजाना (*rājānā*)—O Mitra and Varuṇa, who are lords
+- अध (*adha*)—now
+- यत् (*yat*)—for which reason
+- गविष्टौ (*gaviṣṭau*)—at the time of searching for cows
+- सरण्युः (*saraṇyuḥ*)—Yama, who is of moving nature
+- कारवे (*kārave*)—to help the Aṅgirases, the praisers
+
+### Printed p. 439
+- जरण्युः (*jaraṇyuḥ*)—desiring their praise
+- सरत् (*sarat*)—comes; because of that
+- विप्रः (*vipraḥ*)—the wise
+- सः (*saḥ*)—that Nābhānediṣṭha
+- एषां (*eṣāṃ*)—to these Aṅgirases
+- प्रेष्ठः (*preṣṭhaḥ*)—as the very dearest
+- बभूव (*babhūva*)—let him be
+- परा च वक्षत् (*parā ca vakṣat*)—let him carry out their duty
+- उत (*uta*)—and
+- एनान् (*enān*)—the Aṅgirases
+- पर्षत् (*parṣat*)—let him make them accomplish their work
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, who are lords, since Yama, who is of moving nature, comes at the time of searching for cows to help the Aṅgirases, the praisers, desiring their praise, therefore let the wise Nābhānediṣṭha be the very dearest to these Aṅgirases. Let him bring their duty to completion without obstacle.
+
+##### English translation
+Since, royal (Mitra and Varuna), the impetuous (Yama) now approa-ches in expectation of (the gift of) cattle, and desiring praise for the sacrificing (band of the Angirasas); the sage (Nabhanedishtha) has been held most dear by them ; may he accomplish (what has to be effected), and make them successful.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अधा॒न्व॑स्य॒ जेन्य॑स्य पु॒ष्टौ वृथा॒ रेभं॑त ईमहे॒ तदू॒ नु ।  
+> स॒र॒ण्युर॑स्य सू॒नुरश्वो॒ विप्र॑श्चासि॒ श्रव॑सश्च सा॒तौ ॥ २४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अध । नु । अस्य । जेन्यस्य । पुष्टौ । वृथा । रेभंतः । ईमहे । तत् । ऊं इति । नु ।  
+> सरण्युः । अस्य । सूनुः । अश्वः । विप्रः । च । असि । श्रवसः । च । सातौ ॥ २४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनया वरुणं पृथक् स्तौति । अधाथ नु क्षिप्रमस्य जेन्यस्य जयशीलस्य स्तुत्या
+> जेतव्यस्य वा तत्स्वभूतं गवादिधनं पुष्पौ पोषे निमित्ते सति तस्य पुष्ट्यर्थं वा
+> वृथानायासेन रेभंतः स्तुवंतो नु क्षिप्रमीमहे । याचामहे । सरण्युः शीघ्रसरणशीलोऽश्वोऽस्य वरुणस्य सूनुः पुत्रः। वरुणाद्यश्व उत्पन्नः । अथ प्रत्यक्षकृतः।
+> हे वरुण त्वं विप्रश्चासि । विप्रवत्पूज्यः शुद्धो वा भवसि । श्रवसश्चान्नस्य सातौ लाभेऽस्माकमन्नलाभाय प्रवृत्तश्च भवसि ॥
+
+##### Gist of the bhāṣya
+
+With this verse he praises Varuṇa separately. Now, quickly, in the nourishment (पुष्टौ (*puṣṭau*)) of this जेन्यस्य (*jenyasya*), who is victorious by nature (or who is to be won by praise), his own wealth of cattle and the like, or for its nourishment, we, रेभंतः (*rebhaṃtaḥ*), praising without effort, quickly ask for it. सरण्युः (*saraṇyuḥ*), the swift-moving horse, is the सूनुः (*sūnuḥ*), the son, of this Varuṇa: the horse was produced from Varuṇa, and has now been made manifest. O Varuṇa, you are a विप्रः (*vipraḥ*): you are worshipful like a vipra, or pure. In the gaining (सातौ (*sātau*)) of श्रवसः (*śravasaḥ*), food, you are engaged for our gaining of food.
+
 ---
 
-**Progress note:** Done through printed p. 433. pp. 428-433 (batch API)
+**Progress note:** Done through printed p. 439. pp. 434-439 (batch API)
