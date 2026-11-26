@@ -24781,6 +24781,305 @@ That desire-showering liquor, effused for the drink of the gods and for our exhi
 
 The shining (देवः द्योतमानः (*devaḥ dyotamānaḥ*)) Soma, pressed (सुतः अभिषुतः (*sutaḥ abhiṣutaḥ*)) for the shining Indra, flows (पवते क्षरति (*pavate kṣarati*)) in a stream. Because his milk (पयः (*payaḥ*)) has made Indra swell (पीपयत् इंद्रमाप्यायितवत् (*pīpayat iṃdramāpyāyitavat*)), therefore he flows in a stream: this is the meaning.
 
+### Printed p. 629
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—for which reason
+- अस्य (*asya*)—of this Soma
+- पयः (*payaḥ*)—the juice
+- पीपयत् (*pīpayat*)—because it nourishes Indra, therefore
+- देवाय (*devāya*)—for the divine
+- इंद्राय (*iṃdrāya*)—Indra
+- सुतः (*sutaḥ*)—pressed
+- देवः (*devaḥ*)—and shining, Soma
+- धारया (*dhārayā*)—in the form of a stream
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Because the juice of this Soma nourishes Indra, therefore the Soma, pressed and shining, flows in the form of a stream for the divine Indra.
+
+##### English translation
+The divine Soma, when effused, flows to the divine Indra in a stream since its milk fattens him.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒त्मा य॒ज्ञस्य॒ रंह्या॑ सुष्वा॒णः प॑वते सु॒तः ।  
+> प्र॒त्नं नि पा॑ति॒ काव्य॑म् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आत्मा । यज्ञस्य । रंह्या । सुस्वानः । पवते । सुतः ।  
+> प्रत्नम् । नि । पाति । काव्यम् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यज्ञस्य आत्मा आत्मभूतः सुतः अभिषुतः सोमः सुष्वाणः यजमानेभ्यः कामान् प्रेरयन रंह्या वेगेन पवते क्षरति । प्रत्नं पुरातनं काव्यम् आत्मनः कवित्वं च नि पाति अभिरक्षति ॥
+
+##### Gist of the bhāṣya
+
+Soma, who is the very self of the sacrifice (यज्ञस्य आत्मा (*yajñasya ātmā*)), pressed (सुतः अभिषुतः (*sutaḥ abhiṣutaḥ*)), sending out desired things to the sacrificers (सुष्वाणः (*suṣvāṇaḥ*)), flows with speed (रंह्या वेगेन (*raṃhyā vegena*)). He guards (नि पाति अभिरक्षति (*ni pāti abhirakṣati*)) the ancient (प्रत्नं पुरातनं काव्यम् (*pratnaṃ purātanaṃ kāvyam*)) poetic power that is his own.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यज्ञस्य (*yajñasya*)—for the sacrifice
+- आत्मा (*ātmā*)—being its very self
+- सुताः (*sutāḥ*)—pressed, Soma
+- सुष्वाणः (*suṣvāṇaḥ*)—providing the desired things of men
+- रंह्या (*raṃhyā*)—with speed
+- पवते (*pavate*)—flows
+- प्रत्नं (*pratnaṃ*)—ancient
+- काव्यं (*kāvyaṃ*)—his creative power
+- नि पाति (*ni pāti*)—guards
+
+### Printed p. 630
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who is the very self of the sacrifice and is pressed, flows with speed, providing the desired things of the sacrificers. He guards his ancient creative power.
+
+##### English translation
+The soul of the sacrifice, Soma, flows ; with speed bringing blessings, and maintains his ancient seer-hood.
+
+#### Ṛk 9
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒वा पु॑ना॒न इं॑द्र॒युर्मदं॑ मदिष्ठ वी॒तये॑ ।  
+> गुहा॑ चिद्दधिषे॒ गिरः॑ ॥ ९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एव । पुनानः । इंद्रऽयुः । मदम् । मदिष्ठ । वीतये ।  
+> गुहा । चित् । दधिषे । गिरः ॥ ९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मदिष्ठ अतिशयेन मदकर सोम इंद्रयुः इंद्रकामस्त्वं वीतये इंद्रस्य पानाय एव एवं मदं पुनानः क्षरन् गुहा गुहायाम् । यज्ञशालायामित्यर्थः । गिरः चित् शब्दानपि दधिषे । अभिषववेलायामुपरवेषु धारयसि । करोषीत्यर्थः ॥ ॥ २७ ॥
+
+##### Gist of the bhāṣya
+
+O Soma, most intoxicating (मदिष्ठ अतिशयेन मदकर सोम (*madiṣṭha atiśayena madakara soma*)), desiring Indra (इंद्रकामस्त्वं (*iṃdrakāmastvaṃ*)), for Indra's drinking (वीतये इंद्रस्य पानाय (*vītaye iṃdrasya pānāya*)) you thus pour the juice, flowing; and in the cave (गुहा गुहायाम् (*guhā guhāyām*)), that is, in the sacrificial hall, you also bear sounds (गिरः चित् शब्दानपि दधिषे (*giraḥ cit śabdānapi dadhiṣe*)): at the time of pressing you hold them on the pressing stones; the meaning is that you make them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मदिष्ठ (*madiṣṭha*)—O Soma, who give the greatest joy
+- इंद्रयुः (*iṃdrayuḥ*)—you who wish to serve Indra
+- वीतये (*vītaye*)—for the drinking of Indra
+- एव (*eva*)—in this manner
+- मदं (*madaṃ*)—the juice
+- पुनानः (*punānaḥ*)—pouring out
+- गुहा (*guhā*)—in the secret region of the sacrifice
+- गिरश्चित् (*giraścit*)—sounds also
+- दधिषे (*dadhiṣe*)—you produce
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, who give the greatest joy, you who wish to serve Indra, pouring out the juice in this manner for the drinking of Indra, produce sounds in the secret region of the sacrifice.
+
+### Printed p. 631
+
+##### English translation
+Most exciting (Soma), devoted to Indra, as you pour forth the exhilarating juice for his driking, you emit sounds in the secret ( hall of sacrifice.)
+
+The seventh sūkta.
+
+## Sūkta 7 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘असृग्रम्' इति नवर्चं सप्तमं सूक्तम् । ' असृग्रम्' इत्यनुक्रांतम् । असितो देवलो वर्षिः ॥ तौ च कश्यपगोत्रजौ' । गायत्रं छंदः । सोमः पवमानो देवता । उक्तो विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning असृग्रम् (*asṛgram*), of nine Ṛks, is the seventh sūkta. It is announced in the Anukramaṇikā by the word असृग्रम् (*asṛgram*). Asita and Devala are the seers (असितो देवलो (*asito devalo*)), both born in the Kaśyapa lineage. The metre is Gāyatra (गायत्रं छंदः (*gāyatraṃ chaṃdaḥ*)), and the deity is Soma Pavamāna (सोमः पवमानो देवता (*somaḥ pavamāno devatā*)). The use in ritual has been stated (उक्तो विनियोगः (*ukto viniyogaḥ*)).
+
+##### Anuvāda
+
+This sūkta beginning असृग्रं (*asṛgraṃ*) is the seventh sūkta in the first anuvāka. There are nine Ṛks in it. The seer of this sūkta is Asita or Devala; both of them are born in the Kāśyapa gotra. The deity is Pavamāna Soma; the metre is Gāyatrī. In the Anukramaṇikā it is said as beginning with असृग्रं (*asṛgraṃ*). The use of the sūkta in ritual has been stated earlier.
+
+##### Particulars
+
+Sūkta 7.
+
+Maṇḍala 9. Anuvāka 1. Sūkta 7.
+
+Aṣṭaka 6. Adhyāya 7. Vargas 38, 39. **NOTE**
+
+Number of Ṛks in the sūkta: 9.
+
+Seer: Asita Kāśyapa or Devala.
+
+Deity: Pavamāna Soma.
+
+Metre: Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> असृ॑ग्र॒मिंद॑वः प॒था धर्म॑न्नृ॒तस्य॑ सु॒श्रियः॑ ।  
+> वि॒दा॒ना अ॑स्य॒ योज॑नम् ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> असृग्रम् । इंदवः । पथा । धर्मन् । ऋतस्य । सुऽश्रियः ।  
+> विदानाः । अस्य । योजनम् ॥ १ ॥
+
+### Printed p. 632
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सुश्रियः शोभनश्रयणाः  अस्य इंद्रस्य योजनं संबंधं विदानाः जानंतः इंदवः सोमाः धर्मन् कर्मणि ऋतस्य यज्ञस्य पथा मार्गेण असृग्रं सूज्यंते ॥
+
+##### Gist of the bhāṣya
+
+The Somas (इंदवः सोमाः (*iṃdavaḥ somāḥ*)), of fair resort (सुश्रियः शोभनश्रयणाः (*suśriyaḥ śobhanaśrayaṇāḥ*)), knowing their connection with Indra (अस्य इंद्रस्य योजनं संबंधं (*asya iṃdrasya yojanaṃ saṃbaṃdhaṃ*); विदानाः जानंतः (*vidānāḥ jānaṃtaḥ*)), are poured forth (असृग्रं सूज्यंते (*asṛgraṃ sūjyaṃte*)) in the rite (धर्मन् कर्मणि (*dharman karmaṇi*)) by the path of the sacrifice (ऋतस्य यज्ञस्य (*ṛtasya yajñasya*); पथा मार्गेण (*pathā mārgeṇa*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुश्रियः (*suśriyaḥ*)—mixed with excellent substances such as milk
+- इंदवः (*iṃdavaḥ*)—the Soma juices
+- अस्य (*asya*)—with this Indra
+- योजनं (*yojanaṃ*)—the connection
+- विदानाः (*vidānāḥ*)—knowing
+- धर्मन् (*dharman*)—at the time of the rite
+- ऋतस्य (*ṛtasya*)—of the sacrifice
+- पथा (*pathā*)—by the path
+- असृग्रं (*asṛgraṃ*)—stream and flow forth
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma juices, mixed with excellent substances such as milk, knowing their connection with this Indra, stream and flow forth at the time of this rite by the path of the sacrifice.
+
+##### English translation
+The excellent streams (of the Soma), feeling a union with Indra, flow forth in the ceremony by the path of sacrifice.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र धारा॒ मध्वो॑ अग्रि॒यो म॒हीर॒पो वि गा॑हते ।  
+> ह॒विर्ह॒विष्षु॒ वंद्यः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । धारा । मध्वः । अग्रियः । महीः । अपः । वि । गाहते ।  
+> हविः । हविष्षु । वंद्यः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हविष्षु हविषां मध्ये वंद्यः स्तुत्यः हविः हविरात्मको यः सोमः महीः महतीः अपः वसतीवरीः वि गाहते तस्य मध्वः सोमस्य अग्रियः मुख्याः धाराः प्र पतंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+The Soma who is the oblation in nature (हविः हविरात्मको यः सोमः (*haviḥ havirātmako yaḥ somaḥ*)), praiseworthy among oblations (हविष्षु हविषां मध्ये वंद्यः स्तुत्यः (*haviṣṣu haviṣāṃ madhye vaṃdyaḥ stutyaḥ*)), plunges into the great waters called Vasatīvarī (महीः महतीः अपः वसतीवरीः (*mahīḥ mahatīḥ apaḥ vasatīvarīḥ*); वि गाहते (*vi gāhate*)). The chief streams of that honeyed Soma fall forth (अग्रियः मुख्याः धाराः (*agriyaḥ mukhyāḥ dhārāḥ*) (प्र पतंतीत्यर्थः (*pra pataṃtītyarthaḥ*))): this is the meaning.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हविष्षु (*haviṣṣu*)—among all oblations
+- वंद्यः (*vaṃdyaḥ*)—praiseworthy
+- हविः (*haviḥ*)—Soma in the form of an oblation
+- महीः (*mahīḥ*)—possessed of great qualities
+- अपः (*apaḥ*)—in the waters called Vasatīvarī
+### Printed p. 633
+
+- वि गाहते (*vi gāhate*)—enters and mixes
+- मध्वः (*madhvaḥ*)—of the Soma juice
+- अग्रियः (*agriyaḥ*)—chief
+- धाराः (*dhārāḥ*)—the streams
+- प्र (*pra*) (पतंति (*pataṃti*))—flow
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma in the form of an oblation, praiseworthy among all oblations, enters the waters called Vasatīvarī, possessed of great qualities, and mixes. The chief streams of the Soma juice flow.
+
+##### English translation
+That which is to be praised as the oblation among oblations is immersed in the great (holy) waters, the stream of honey, the pre-eminet.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र यु॒जो वा॒चो अ॑ग्रि॒यो वृषाव॑ चक्रद॒द्वने॑ ।  
+> सद्मा॒भि स॒त्यो अ॑ध्व॒रः ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । युजः । वाचः । अग्रियः । वृषा । अव । चक्रदत् । वने ।  
+> सद्म । अभि । सत्यः । अध्वरः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एतदेव दर्शयति । वृषा कामानां वर्षकः सत्यः सत्यभूतः अध्वरः हिंसावर्जितः अग्रियः मुख्यः सोमः सद्म यज्ञगृहम् अभि प्रति वने उदके युजः युक्ताः वाचः प्र अव चक्रदत् अवक्रंदति । शब्दान् करोतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa shows this very thing (एतदेव दर्शयति (*etadeva darśayati*)). Soma, the showerer of desires (वृषा कामानां वर्षकः (*vṛṣā kāmānāṃ varṣakaḥ*)), true (सत्यः सत्यभूतः (*satyaḥ satyabhūtaḥ*)), free from harm (अध्वरः हिंसावर्जितः (*adhvaraḥ hiṃsāvarjitaḥ*)), chief, utters sounds (अव चक्रदत् अवक्रंदति (*ava cakradat avakraṃdati*)) in the water (वने उदके (*vane udake*)) towards the sacrificial house (सद्म यज्ञगृहम् (*sadma yajñagṛham*)), the joined (युजः युक्ताः वाचः (*yujaḥ yuktāḥ vācaḥ*)) voices: the meaning is that he makes sounds.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वृषा (*vṛṣā*)—the giver of desired things
+- सत्यः (*satyaḥ*)—of the nature of truth
+- अध्वरः (*adhvaraḥ*)—free from harm
+- अग्रियः (*agriyaḥ*)—chief, the Soma
+- सद्म अभि (*sadma abhi*)—in the house of sacrifice
+- वने (*vane*)—in the water
+- युजः (*yujaḥ*)—joining
+- वाचः (*vācaḥ*)—in the form of speech
+- प्र अव चक्रदत् (*pra ava cakradat*)—makes sound
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, who gives desired things, is of the nature of truth, free from harm and chief, joins the water in the house of sacrifice and makes sound in the form of speech.
+
+### Printed p. 634
+
+##### English translation
+The pre-eminent (Soma), the showerer of benefits, the truthful, the indestructible, utters continuous sounds. in the water, towards the sacrificial hall.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ यत्काव्या॑ क॒विर्नृ॒म्णा वसा॑नो॒ अर्ष॑ति ।  
+> स्व॑र्वा॒जी सि॑षासति ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । यत् । काव्या । कविः । नृम्णा । वसानः । अर्षति ।  
+> स्वः । वाजी । सिसासति ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कविः क्रांतकर्मा सोमः नृम्णा नृम्णानि धनानि वसानः आच्छादयन् स्तोतॄणां काव्या काव्यानि कविकर्माणि स्तोत्राणि यत् यदा परि अर्षति परिगच्छति तदा स्वः स्वर्गे वाजी बलवानन्नवान् वा इंद्रः सिषासति । यागं प्रत्यागंतुं स्वकीयं बलं संभक्तुमिच्छति ॥
+
+##### Gist of the bhāṣya
+
+When Soma the seer (कविः क्रांतकर्मा (*kaviḥ krāṃtakarmā*)), wearing treasures (नृम्णा नृम्णानि धनानि (*nṛmṇā nṛmṇāni dhanāni*); वसानः आच्छादयन् (*vasānaḥ ācchādayan*)), goes round the poetic songs of the singers (काव्या काव्यानि कविकर्माणि स्तोत्राणि (*kāvyā kāvyāni kavikarmāṇi stotrāṇi*); परि अर्षति परिगच्छति (*pari arṣati parigacchati*)), then Indra in heaven (स्वः स्वर्गे (*svaḥ svarge*)), strong or possessed of food (वाजी बलवानन्नवान् वा इंद्रः (*vājī balavānannavān vā iṃdraḥ*)), desires (सिषासति (*siṣāsati*)) to come to the sacrifice and to share his own strength (संभक्तुमिच्छति (*saṃbhaktumicchati*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कविः (*kaviḥ*)—Soma, whose work is full of wisdom
+- सृव्णा (*sṛvṇā*)—the garments in the form of treasures
+- वसानः (*vasānaḥ*)—wearing
+- काव्या (*kāvyā*)—the praises of the singers
+- यत् (*yat*)—when
+- परि अर्षति (*pari arṣati*)—he goes round, then
+- स्वः (*svaḥ*)—in heaven
+- वाजी (*vājī*)—the mighty Indra
+- सिषासति (*siṣāsati*)—wishes to come to the sacrifice
+
+##### भावार्थ (Bhāvārtha)
+
+When Soma, whose work is full of wisdom, wearing garments in the form of treasures, goes round the praises of the singers, then the mighty Indra in heaven wishes to come to the sacrifice.
+
+##### English translation
+When the seer (Soma), wearing ample treasures, goes round the praises (of his worshippers), then the mighty (Indra), in heaven is eager to repair to the oblation.
+
 ---
 
-**Progress note:** Done through printed p. 628. Mandala 9 Sukta 6, Rk 1-7 (Sayana of Rk 7)
+**Progress note:** Done through printed p. 634. Mandala 9 Sukta 6 Rk 7-9 (Pratipadartha onward), Sukta 7 Rk 1-4
