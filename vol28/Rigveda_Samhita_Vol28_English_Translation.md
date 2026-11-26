@@ -14591,6 +14591,237 @@ Since, royal (Mitra and Varuna), the impetuous (Yama) now approa-ches in expecta
 
 With this verse he praises Varuṇa separately. Now, quickly, in the nourishment (पुष्टौ (*puṣṭau*)) of this जेन्यस्य (*jenyasya*), who is victorious by nature (or who is to be won by praise), his own wealth of cattle and the like, or for its nourishment, we, रेभंतः (*rebhaṃtaḥ*), praising without effort, quickly ask for it. सरण्युः (*saraṇyuḥ*), the swift-moving horse, is the सूनुः (*sūnuḥ*), the son, of this Varuṇa: the horse was produced from Varuṇa, and has now been made manifest. O Varuṇa, you are a विप्रः (*vipraḥ*): you are worshipful like a vipra, or pure. In the gaining (सातौ (*sātau*)) of श्रवसः (*śravasaḥ*), food, you are engaged for our gaining of food.
 
+### Printed p. 440
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अध (*adha*)—thereafter
+- नु (*nu*)—quickly
+- जेन्यस्य अस्य (*jenyasya asya*)—of this victorious Varuṇa
+- तत् (*tat*)—his wealth of cattle and the like
+- पुष्टौ (*puṣṭau*)—as a cause of nourishing (or, for the contentment of Varuṇa)
+- वृथा (*vṛthā*)—of our own accord
+- रेभंतः (*rebhaṃtaḥ*)—we who praise
+- ईमहे (*īmahe*)—we ask
+- सरण्युः (*saraṇyuḥ*)—swift-moving
+- अश्वः (*aśvaḥ*)—the horse
+- अस्य (*asya*)—to Varuṇa
+- सूनुः (*sūnuḥ*)—is in the form of a son
+- (O Varuṇa) विप्रः असि (*vipraḥ asi*)—you are wise
+- श्रवसः सातौ (*śravasaḥ sātau*)—you are fit to give us the gift of food
+
+##### भावार्थ (Bhāvārtha)
+
+We who praise of our own accord ask for the contentment of the victorious Varuṇa. The swift-moving horse is in the form of a son to Varuṇa. O Varuṇa, you are wise, or worthy of reverence like a Vipra. You are also engaged in giving us food.
+
+##### English translation
+And for the contentment of this victorious (Varuna), praising (him) without an effort, we solicit this (of him), (that) his progeny, a swift horse, (may be ours), and you, (Varuna), are wise, and (are occupied) in procuring us food.
+
+##### विशेषविषयगळु (Special Topics)
+
+Since it is said in Śruti passages such as वारुणो ना अश्वः (*vāruṇo nā aśvaḥ*) that the horse was born from Varuṇa, the horse is here described as being in the form of Varuṇa's son.
+
+#### Ṛk 25
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यु॒पोर्यदि॑ स॒ख्याया॒स्मे शर्धा॑य॒, स्तोमं॑ जुजु॒षे नम॑स्वान् ।  
+> वि॒श्वत्र॒ यस्मि॒न्ना गिरः॑ समी॒चीः पू॒र्विव॑ गा॒तुर्दाश॑त्सू॒नृता॑य्कॆ ॥ २५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> युवोः । यदि । सख्याय । अस्मे इति । शर्धाय । स्तोमं । जुजुषे । नमस्वान् ।  
+> विश्वत्र । यस्मिन् । आ । गिरः । संईचीः । पूर्वीऽइव । गातुः । दाशत् । सूनृताय्कॆ ॥
+
+### Printed p. 441
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे मित्रावरुणौ युवोर्युवयोः शर्धाय बलवतेऽस्मे अस्माकं सख्याय ।
+> यद्वा । युवयोः सख्यायास्मे अस्माकं शर्धाय बलाय च । यदि नमस्वान्नवानध्वर्युः स्तोत्रवान्होता वा सोमं जुजुषे सेवते । यस्मिन् सख्यॆ सिद्धे सति
+> विश्वत्र विश्वस्मिञ्जनपदे गिरोऽंगिरसां संबंधिन्यः समीचीः समीच्य आ गच्छंतीति
+> शेषः । उदाराणां गृह इदं गृहाणेदं गृहाणेत्येवंरूपाः श्रूयंत इत्यर्थः ।
+> यद्वा । यागानुष्ठात्कृणां स्तुतिगिर आगच्छंतीति । पूर्विव गातुः प्राची दिगिव सा
+> यथा गच्छतां सुखं प्रयच्छति तद्वत् । यद्वा । पूर्वि पुरा प्रसिद्धा पुरातनीव
+> गातुः सरणिरिव सा यथा गच्छतां सुखं प्रयच्छति तद्वत् । सूनृताय्कॆ प्रियसत्यरूपाय्कॆ स्तुतिवाचे दाशत् । प्रयच्छतु ॥
+
+##### Gist of the bhāṣya
+
+O Mitra and Varuṇa, "for your friendship, for our strength" (शर्धाय (*śardhāya*) is "strong"), or alternatively "for your friendship and for our strength and force". If the adhvaryu, possessed of homage (or the hotṛ, the reciter of praise), enjoys (जुजुषे (*jujuṣe*)) the Soma, then, once that friendship is established, the praises of the Aṅgirasas come from every region, converging; that is, they are heard in the form "take this, take this" in the houses of the generous. Or else the praise-songs of the sacrificers come. "Like an ancient path" (पूर्विव गातुः (*pūrviva gātuḥ*)): as the eastern quarter gives comfort to travellers; or as a long-known, ancient road gives comfort to travellers. Let him give (दाशत् (*dāśat*)) to the speech of praise, which is in the nature of dear truth (सूनृताय्कॆ (*sūnṛtāykè*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Mitra and Varuṇa) यस्मिन् (*yasmin*)—on which friendship being established
+- गिरः (*giraḥ*)—the praises of the Aṅgirasas
+- विश्वत्र (*viśvatra*)—in all regions
+- समीचीः (*samīcīḥ*)—with one aim
+- आ (*ā*)—spread forth; of such (friendship)
+- युवोः सख्याय (*yuvoḥ sakhyāya*)—for your friendship
+- अस्मे (*asme*)—our
+- शर्धाय (*śardhāya*)—for the gain of strength
+- नमस्वान् (*namasvān*)—the adhvaryu or hotṛ, with oblation
+- स्तोमं (*stomaṃ*)—the hymn
+- जुजुषे (*jujuṣe*)—recites
+- पूर्वी गातुः इव (*pūrvī gātuḥ iva*)—as travel on an ancient road brings comfort
+- सूनृताय्कॆ (*sūnṛtāykè*)—to the excellent praiser
+- दाशत् (*dāśat*)—may Mitra and Varuṇa give comfort
+
+##### भावार्थ (Bhāvārtha)
+
+O Mitra and Varuṇa, on the establishment of which friendship of yours the praises of the Aṅgirasas spread in all regions with one aim, for that friendship of yours and for the gain of our strength, the adhvaryu with oblation, or the hotṛ who praises, recites the hymn. As travel on an ancient road brings comfort, may Mitra and Varuṇa give comfort to the excellent praiser.
+
+##### English translation
+If the priest offer homage to you two (Mitra and Varuna) for the sake of your friendship and our invigoration, on (the formation of) which (friendship) the praises (of the Angirasas go) everywhere in a common direction ; may he give (pleasure) to the utterer of praise, like an ancient road.
+
+#### Ṛk 26
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स गृ॑णा॒नो अ॒द्भिर्दे॒ववा॒निति॑ सु॒बंधु॒र्नम॑सा सू॒क्तैः ।  
+> 56
+
+### Printed p. 442
+
+> वर्धदुक्थैर्वचोभिरा हि नूनं व्यध्वैति पयस उस्रियायाः॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । गृणानः । अत्भिः । देववान् । इति । सुबंधुः । नमसा । सुउक्तैः ।  
+> वर्धत् । उक्षैः । वचसिभिः । आ । हि । नूनं । वि । अध्वा । एति । पयसः । उस्रियायाः ॥ २६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवताभिर्देववान् सुबंधुः शोभनबंधनः स वरुण इतीत्थं कृतप्रकारेण
+> नमसा नमस्कारेण सूक्तैश्च गृणानः स्तूयमानः सन्वर्धत् । वर्धतां । उक्तैर्वचोभिरुच्यमानैः प्रशस्त्यर्वा स्तुतिवचोभिनूर्नमिदानीमा गच्छत्विति शेषः । हीति
+> पूरणः । तस्य यागार्थमुस्रियाया गोः पयसोऽध्वा मार्गो व्येति। स्तनाग्राणि
+> क्षरंतीत्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+Varuṇa, accompanied by the gods and of good kinship, being thus praised with homage and with hymns, may he grow. Let him come now, drawn by the recited prayers or by words of praise. The word हि (*hi*) is a filler. For his sacrifice the path of the milk of the cow (उस्रियायाः (*usriyāyāḥ*)) is opened; that is, the tips of the udder flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स वरुणः (*sa varuṇaḥ*)—the well-known Varuṇa
+- अद्भिः (*adbhiḥ*)—together with all the waters
+- देववान् (*devavān*)—together with all the gods
+- सुबंधुः (*subaṃdhuḥ*)—is possessed of excellent kinship
+- इति (*iti*)—in this manner
+- नमसा (*namasā*)—with homage
+- सूक्तैः (*sūktaiḥ*)—with hymns
+- गृणानः (*gṛṇānaḥ*)—Varuṇa, being praised
+- वर्धत् (*vardhat*)—grows
+- उक्तैः (*uktaiḥ*)—with the recited mantras
+- वचोभिः (*vacobhiḥ*)—drawn by words of praise
+- नूनं (*nūnaṃ*)—now
+- आ (*ā*)—let him come
+- उस्रियायाः (*usriyāyāḥ*)—of the cow
+- पयसः (*payasaḥ*)—of the milk
+- अध्वा (*adhvā*)—the path
+- वि एति (*vi eti*)—is open for his worship
+
+##### भावार्थ (Bhāvārtha)
+
+Praised and honoured with the words, "The well-known Varuṇa, together with all the waters and all the gods, has excellent kinship", Varuṇa grows. Drawn by the recited mantras and the praises, may Varuṇa come to us. The path of the cow's milk is opened (made ready) for Varuṇa's worship.
+
+##### English translation
+Being praised with reverence and hymns thus, "the god-accompanied (Varuna) of good lineage, together with the waters," may he be magnified : (attracted) by hymns and prayers (may he) now (approach); the path of the milk of the cow is open (for his worship)
+
+### Printed p. 443
+#### Ṛk 27
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त ऊ॒ षु णो॑ म॒हो य॑जत्रा भू॒त दे॑वास ऊ॒तये॑  ॒॑
+> सजोषाः ॥  
+> ये वाजा॒ अन॑यता वि॒यंतो॒ ये स्था नि॑चे॒तारो॒  ॑
+> अमूराः ॥ २७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ते । ऊंइति । सु । नः । महः । यजत्राः । भूत । देवासः । ऊतये । सजोषाः ।  
+> ये । वाजान् । अनयत । वियंतः । ये । स्थ । निचेतारः । अमूराः ॥ २७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनयर्षिरंगिरस आशास्ते । हे यजत्रा यष्टव्या देवासो देवाः ते
+> यूयं । उ इति पूरणः । महो महते नोऽस्माकमूतये रक्षणाय सजोषाः
+> संगता भूत। भवत। ये च यूयमंगिरसो मह्यं वाजानन्नान्यनयत प्रापयत।
+> वियंतः सततमुक्थाय विविधं गच्छंतः संतः । येच यूयममूराः । षष्ठाहः ।
+> प्रयोगमौढ्यरहिता इत्यर्थः । तादृशा निचेतारो गवां विविक्तारः स्थ भवथ । ते
+> सजोषा भूतेति समन्वयः ॥
+
+##### Gist of the bhāṣya
+
+By this Ṛk the seer, an Aṅgiras, makes a petition. O adorable gods, you, for our great protection (ऊतये (*ūtaye*)), be united (सजोषाः (*sajoṣāḥ*)); the word उ (*u*) is a filler. You Aṅgirasas who bring me food, going about constantly in various directions to recite praise; and you who are अमूराः (*amūrāḥ*), free of bewilderment in performance, are the finders of cattle (निचेतारः (*nicetāraḥ*)): be, such as you are, united. This is the construction.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यजत्राः (*yajatrāḥ*)—worshipful
+- देवासः (*devāsaḥ*)—O gods
+- ये (*ye*)—you who
+- वाजान् (*vājān*)—food
+- अनयत (*anayata*)—bring to us (and)
+- वियंतः (*viyaṃtaḥ*)—moving about everywhere
+- ये (*ye*)—you who
+- अमूरः (*amūraḥ*)—free from bewilderment
+- निचेतारः (*nicetāraḥ*)—finding the cattle
+- स्थ (*stha*)—are such
+- ते (*te*)—you
+- नः (*naḥ*)—our
+- महः (*mahaḥ*)—great
+- ऊतये (*ūtaye*)—for protection
+- सजोषाः (*sajoṣāḥ*)—united
+- भूत (*bhūta*)—be
+
+##### भावार्थ (Bhāvārtha)
+
+O worshipful gods, you who are givers of food to us and who, moving about everywhere without the least bewilderment, find and bring us cattle, be united, such as you are, for our great protection.
+
+### Printed p. 444
+
+##### English translation
+Adorable divinities, be consentient for our great preservation, both you who, going in various directions, are the bringers of food, and you who, being no longer perplexed, are the discoverers (of the cattle).
+
+May Vidyātīrtha Maheśvara, dispelling the darkness of the heart by the light of the meaning of the Veda, grant the four goals of human life.
+
+Thus ends the first chapter, in the eighth Aṣṭaka of the Ṛk-Saṃhitā commentary, the Vedārtha-prakāśa of Mādhava, composed by Sāyaṇācarya, bearer of the burden of the empire of the illustrious Vīrabukka, the king of kings and supreme lord, promoter of the Vedic path.
+
+Om, that is so.
+
+Here ends the first chapter in the eighth Aṣṭaka of the Ṛgveda Saṃhitā, with Śrī Sāyaṇa's commentary and a Kannada translation.
+
+Whatever is lacking in syllable, word or measure, may all that be forgiven, O god, lord of speech; salutation to you.
+
+May it be auspicious. Blessings.
+
+### Printed p. 445
+Śrī. Salutation to Śrī Gaṇādhipati.
+
+I bow to the elephant-faced one, bowing to whom Vāgīśa and the other gods become successful at the beginning of all undertakings.
+
+I revere Vidyātīrtha Maheśvara, whose breath is the Vedas, and who from the Vedas fashioned the whole world.
+
+The Veda is Śiva, Śiva is the Veda; the study of the Veda is Sadāśiva. Therefore with all effort one should always recite the Veda alone.
+
+Having explained the first chapter of the eighth Aṣṭaka, the learned minister Sāyaṇa now wishes to explain the second.
+
+Ṛgveda Saṃhitā, with Sāyaṇa's commentary (with a Kannada translation and explanation). Eighth Aṣṭaka, second chapter.
+
+## Sūkta 62 (Maṇḍala 10)
+Second chapter in the eighth Aṣṭaka; the sixty-second sūkta of the tenth Maṇḍala.
+
+**Introduction**
+Like the 61st sūkta, Idamitthā, of the previous chapter, this sūkta too was seen by the seer Nābhānediṣṭha. The matters concerning these two sūktas have therefore been explained in the introduction to the previous sūkta, on pages 398–407, and may be learned there.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> तत्र ये यज्ञेनेत्येकादशर्चमनुवाकापेक्षया द्वितीयं सूक्तं । मानवस्य नाभानेदिष्टस्यार्षं । आदितश्चतस्रो जगत्यः । पंचम्यनुष्टुप् । षष्ठी बृहती ।
+
+##### Gist of the bhāṣya
+
+Of these, taking the eleven-verse यज्ञेन (*yajñena*) sūkta into account in the anuvāka, this is the second sūkta. Its seer is Nābhānediṣṭha, son of Manu. The first four Ṛks are in Jagatī; the fifth is Anuṣṭubh; the sixth is Bṛhatī.
+
 ---
 
-**Progress note:** Done through printed p. 439. pp. 434-439 (batch API)
+**Progress note:** Done through printed p. 445. pp. 440-445 (batch API)
