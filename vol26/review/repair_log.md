@@ -22,3 +22,5 @@
 - Nov 26 2026: p1045 line 9, user's reading: `೧೦-೧೩೨[?]-೬[?]` → `೧೦-೧೩೨-೬` (10-132-6). Left on p1045: ೯-೬೫-೩೭[?] (line 9), ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?] (line 15).
 
 - Nov 26 2026: p1045 line 9, user's reading: `೯-೬೫-೩೭[?]` → `೯-೬೫-೨೪` (9-65-24). Left on p1045: ತೈ. ಸಂ. ೩-೧-೧೨[?]-೩[?] (line 15); p1071 one word.
+
+- Nov 26 2026: p1045 line 9, user corrected their own reading: `೯-೬೫-೨೪` → `೯-೬೫-೨೫` (9-65-25).
