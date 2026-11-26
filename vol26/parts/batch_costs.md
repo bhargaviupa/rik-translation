@@ -7,3 +7,4 @@
 | through p. 93 (three windows in one agent: pp. 76-81, 82-87, 88-93) | sonnet | 15 | 185172 | 4.4 |
 | through p. 112 (three windows in one agent: pp. 94-99, 100-106, 107-112) | sonnet | 29 | 181070 | 5.9 |
 | through p. 130 (three windows in one agent: pp. 113-118, 119-124, 125-130) | sonnet | 15 | 149829 | 3.6 |
+| through p. 149 (three windows in one agent: pp. 131-136, 137-142, 143-149) | sonnet | 15 | 145407 | 3.3 |
