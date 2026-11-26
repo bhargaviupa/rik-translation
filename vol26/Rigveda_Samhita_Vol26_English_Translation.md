@@ -23165,6 +23165,289 @@ O Soma, run forth swiftly, and having gone, settle round the receptacle, the Dro
 - बर्हिः अच्छ (*barhiḥ accha*)—towards the sacrifice
 - नयंति (*nayaṃti*)—lead
 
+### Printed p. 613
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, flow swiftly. Sit in the Droṇa-kalaśa. Being purified by the priests, procure food for the sacrificer. The Adhvaryus, cleansing you, the strong one, as one washes a horse, lead you with their fingers towards the sacrifice.
+
+##### English translation
+Flow fast (Soma), sit down on the receptacle, purified by the priests hasten (showing) food (to the sacrificer); cleansing you like a strong horse, they guide you with (their fingers for) reins to the sacred grass.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स्वा॒यु॒धः प॑वते दे॒व इंदु॑रशस्ति॒हा वृ॒जनं॒ रक्ष॑माणः ।  
+> पि॒ता दे॒वानां॑ जनि॒ता सु॒दक्षो॑ विष्टं॒भो दि॒वो ध॒रुणः॑ पृथि॒व्याः ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सुऽआयुधः । पवते । देवः । इंदुः । अशस्तिऽहा । वृजनम् । रक्षमाणः ।  
+> पिता । देवानाम् । जनिता । सुऽदक्षः । विष्टंभः । दिवः । धरुणः । पृथिव्याः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स्वायुधः शोभनायुधः इंदुः सोमः देवः पवते । स च देवः अशस्तिहा रक्षोहा वृजनम् उपद्रवं रक्षमाणः पिता पालकः देवानां तथा जनिता उत्पादकः सुदक्षः सुबलः दिवः विष्टंभः विशेषेण स्तंभयिता पृथिव्याः च धरुण धारकः । एवंमहानुभावः पवते ॥
+
+##### Gist of the bhāṣya
+
+Indu, Soma, the god with excellent weapons (स्वायुधः (*svāyudhaḥ*)), flows. That god is the destroyer of Rākṣasas (अशस्तिहा (*aśastihā*), the slayer of Rakṣas), and protects against trouble (वृजनम् (*vṛjanam*) is glossed as affliction). He is the protector of the gods and also their begetter, of excellent strength, the one who firmly props up (विष्टंभः (*viṣṭaṃbhaḥ*)) heaven, and the supporter of the earth (धरुण (*dharuṇa*), the holder). Of such greatness he flows.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवः (*devaḥ*)—of divine nature
+- स्वायुधः (*svāyudhaḥ*)—having an excellent weapon
+- अशस्तिहा (*aśastihā*)—the destroyer of evil-doers
+- वृजनं (*vṛjanaṃ*)—from obstacle
+- रक्षमाणः (*rakṣamāṇaḥ*)—the protector
+- पिता (*pitā*)—the guardian of the world
+- देवानां जनिता (*devānāṃ janitā*)—the begetter of the gods
+- सुदक्षः (*sudakṣaḥ*)—having excellent strength
+- दिवः (*divaḥ*)—of the world of Dyaus
+
+### Printed p. 614
+
+- विष्टंभः (*viṣṭaṃbhaḥ*)—the supporter
+- पृथिव्याः (*pṛthivyāḥ*)—of the earth
+- धरुणः (*dharuṇaḥ*)—the foundation
+- इंदुः (*iṃduḥ*)—Soma-deva
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, of divine nature, having an excellent weapon, the destroyer of evil-doers, the protector from obstacles, the guardian of the world, the begetter of the gods, having excellent strength, the supporter of the world of Dyaus and of the earth, flows.
+
+##### English translation
+The divine Indu well armed flows forth, the destroyer of Rakshasas, averting calamity, the protector of the gods, the progenitor, the powerfur one, the prop of heaven, the support of the earth. **NOTE**
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋषि॒र्विप्रः॑ पुरए॒ता जना॑नामृ॒भुर्धीर॑ उ॒शना॒ काव्ये॑न ।  
+> स चि॑द्विवेद॒ निहि॑तं॒ यदा॑सामपी॒च्यं१॒॑ गुह्यं॒ नाम॒ गोना॑म् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋषिः । विप्रः । पुरःऽएता । जनानाम् । ऋभुः । धीरः । उशना । काव्येन ।  
+> सः । चित् । विवेद । निऽहितम् । यत् । आसाम् । अपीच्यम् । गुह्यम् । नाम । गोनाम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋषिः अतींद्रियद्रष्टा विप्रः मेधावी पुरएता पुरतो गंता जनानां मनुष्याणाम् ऋभुः उरु भासमानः धीरः धीमान् उशना एतन्नामर्षिः यः स चित् स एव काव्येन कवित्वेन स्तोत्रेण विवेद लभते । किम् । यदासां गोनां गवाम् अपीच्यम् । अंतर्हितनामैतत् । अंतर्हितं गुह्यं गोपनीयं नाम नामकमुदकं पयोलक्षणम् ॥
+
+##### Gist of the bhāṣya
+
+The seer (ऋषिः (*ṛṣiḥ*), one who sees beyond the senses), the wise, the leader of men going before them, shining widely (ऋभुः (*ṛbhuḥ*)), the steadfast, the seer named Uśanā: that same one by his poetic power (काव्येन (*kāvyena*), by poetic skill, by praise) obtains it. What? Of these cows (गोनां (*gonāṃ*)) the अपीच्यम् (*apīcyam*), which is a word for hidden; the hidden, secret, to be guarded नाम (*nāma*), that is, water having the nature of milk.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋषिः (*ṛṣiḥ*)—one who has supersensuous vision
+- विप्रः (*vipraḥ*)—the wise
+- जनानां पुरएता (*janānāṃ puraetā*)—the guide of men
+- ऋभुः (*ṛbhuḥ*)—the shining **NOTE**
+- धीरः (*dhīraḥ*)—the learned
+- उशना (*uśanā*)—and the one named Uśanas
+- स चित् (*sa cit*)—that same seer
+- आसां गोनां (*āsāṃ gonāṃ*)—of these cows
+- अपीच्यः (*apīcyaḥ*)—which is concealed **NOTE**
+- गुह्यं (*guhyaṃ*)—and kept secret
+- नाम (*nāma*)—the water in the form of milk
+- काव्येन (*kāvyena*)—by his own greatness endowed with poetic power
+- विवेद (*viveda*)—obtained
+
+### Printed p. 615
+
+##### भावार्थ (Bhāvārtha)
+
+The seer, who has supersensuous vision, is wise, the guide of men, shining, learned and named Uśanas, obtained the water in the form of milk, concealed and kept secret, of the cows, by his own greatness endowed with poetic power.
+
+##### English translation
+The rishi, the sage, the foremost of men, the farshining intelligent U'shanas—he verily by his poetic gift discovered the secret milk of those cows which was hidden and concealed.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष स्य ते॒ मधु॑माँ इंद्र॒ सोमो॒ वृषा॒ वृष्णे॒ परि॑ प॒वित्रे॑ अक्षाः ।  
+> स॒ह॒स्र॒साः श॑त॒सा भू॑रि॒दावा॑ शश्वत्त॒मं ब॒र्हिरा वा॒ज्य॑स्थात् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । स्यः । ते । मधुऽमान् । इंद्र । सोमः । वृषा । वृष्णे । परि । पवित्रे । अक्षारिति ।  
+> सहस्रऽसाः । शतऽसाः । भूरिऽदावा । शश्वत्ऽतमम् । बर्हिः । आ । वाजी । अस्थात् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र वृष्णे वर्षकाय ते तुभ्यम् एष स्यः सः सोमः मधुमान् माधुर्योपेतः वृषा वर्षकः पवित्रे परि अक्षाः परिक्षरति । क्षरतेर्लुङि रूपम् । स एव सहस्रसाः सहस्रसंख्याकधनस्य दाता शतसाः शतसंख्याकस्य दाता भूरिदावा ततोऽपि भूरेर्दाता वाजी बलवान् शश्वत्तमं नित्यं बर्हिः यज्ञम् आ अस्थात् अतिष्ठति ॥
+
+##### Gist of the bhāṣya
+
+O Indra, for you the showerer, that same Soma, sweet (endowed with sweetness), showering, flows around (अक्षाः (*akṣāḥ*)) in the filter. He is the giver of a thousand-fold wealth (सहस्रसाः (*sahasrasāḥ*)), the giver of a hundred-fold (शतसाः (*śatasāḥ*)), the giver of even more abundance (भूरिदावा (*bhūridāvā*)), strong (वाजी (*vājī*)), and he stays (अस्थात् (*asthāt*)) ever (शश्वत्तमं (*śaśvattamaṃ*)) at the sacrifice (बर्हिः (*barhiḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- वृष्णे (*vṛṣṇe*)—who grants desired objects
+- ते (*te*)—for you
+- मधुमान् (*madhumān*)—which is endowed with sweetness
+- वृषा (*vṛṣā*)—and grants desired objects
+- एषः स्यः सोमः (*eṣaḥ syaḥ somaḥ*)—this Soma
+
+### Printed p. 616
+
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- पर्यक्षाः (*paryakṣāḥ*)—flows
+- सहस्रसाः (*sahasrasāḥ*)—who gives wealth by the thousand
+- शतसाः (*śatasāḥ*)—who gives in many forms
+- भूरिदावा (*bhūridāvā*)—who gives abundantly
+- वाजी (*vājī*)—and is endowed with strength, Indra **NOTE**
+- शश्वत्तमं (*śaśvattamaṃ*)—always
+- बर्हिः (*barhiḥ*)—in the sacrifice
+- अस्थात् (*asthāt*)—sits
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, for you, who grant desired objects, this Soma, which is endowed with sweetness and grants desired objects, flows in the ten-fold filter. Indra, who gives wealth by the thousand, in many forms and abundantly, and is endowed with strength, always sits in the sacrifice.
+
+##### English translation
+For you Indra, the showerer, this sweet flavoured Soma the showerer, has been poured into the filter ; the giver of thousand-fold wealth, the giver of hundredfold wealth, the giver of abundant wealth, the powerful is present at the eternal sacrifice.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ते सोमा॑ अ॒भि ग॒व्या स॒हस्रा॑ म॒हे वाजा॑या॒मृता॑य॒ श्रवां॑सि ।  
+> प॒वित्रे॑भिः॒ पव॑माना असृग्रंछ्रव॒स्यवो॒ न पृ॑त॒नाजो॒ अत्याः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एते । सोमाः । अभि । गव्या । सहस्रा । महे । वाजाय । अमृताय । श्रवांसि ।  
+> पवित्रेभिः । पवमानाः । असृग्रन् । श्रवस्यवः । न । पृतनाजः । अत्याः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एते सोमाः गव्या गव्यानि सहस्रा सहस्राणि श्रवांसि अन्नानि आशिरलक्षणानि लक्षीकृत्य पवित्रेभिः पवित्रच्छिद्रैः पवमानाः पूयमानाः महे महते वाजाय अन्नाय अमृताय अमृतत्वाय अभि असृग्रन् सृज्यंते । किमिव । श्रवस्यवः अन्नेच्छवः पृतनाजः सेनाजेतारः अत्याः न अश्वा इव ॥ ॥ २२ ॥
+
+##### Gist of the bhāṣya
+
+These Soma-juices, aiming at (लक्षीकृत्य (*lakṣīkṛtya*)) thousands of cow-products (गव्या (*gavyā*)) and foods (श्रवांसि (*śravāṃsi*)) that have the character of admixture with milk, being purified by the holes of the filter, are let loose for great food and for immortality. Like what? Like horses (अत्याः (*atyāḥ*)) that desire food (श्रवस्यवः (*śravasyavaḥ*)) and are winners of armies (पृतनाजः (*pṛtanājaḥ*)).
+
+### Printed p. 617
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- एते सोमाः (*ete somāḥ*)—these Soma-juices
+- गव्या (*gavyā*)—obtained from cows
+- सहस्रा श्रवांसि (*sahasrā śravāṃsi*)—with a view to many kinds of food
+- पवित्रेभिः (*pavitrebhiḥ*)—by the ten-fold filters
+- पवमानाः (*pavamānāḥ*)—being purified
+- महे (*mahe*)—great
+- वाजाय (*vājāya*)—for food
+- अमृतायु (*amṛtāyu*)—for the gaining of immortality **NOTE**
+- श्रवस्यवः (*śravasyavaḥ*)—desiring food
+- पृतनाजः (*pṛtanājaḥ*)—and victorious in battle
+- अत्याः न (*atyāḥ na*)—like horses
+- अभ्यसृग्रन् (*abhyasṛgran*)—are let loose freely
+
+##### भावार्थ (Bhāvārtha)
+
+These Soma-juices are let loose freely, like horses that are victorious in battle and desire food, with a view to many kinds of food obtained from cows, being purified by the ten-fold filters, for great food and for the gaining of immortality.
+
+##### English translation
+These Soma-juices, (going towards) the thousand viands produced by cows, purified by the filters, are let loose for ample food and ambrosia, desiring food like horses victorius over a host. **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ हि ष्मा॑ पुरुहू॒तो जना॑नां॒ विश्वास॑र॒द्भोज॑ना पू॒यमा॑नः ।  
+> अथा भ॑र श्येनभृत॒ प्रयां॑सि र॒यिं तुंजा॑नो अ॒भि वाज॑मर्ष ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । हि । स्म । पुरुऽहूतः । जनानाम् । विश्वा । असरत् । भोजना । पूयमानः ।  
+> अथ । आ । भर । श्येनऽभृत । प्रयांसि । रयिम् । तुंजानः । अभि । वाजम् । अर्ष ॥ ६ ॥
+
+### Printed p. 618
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं परि असरत् परिसरति जनानाम् अर्थाय विश्वा सर्वाणि भोजना भोजनान्यन्नानि धनानि वा । कीदृशः। पुरुहूतः बहुभिराहूतः पूयमानः शोध्यमानः । अथ प्रत्यक्षकृतः । अथ इदानीं हे श्येनभृत श्येनेनाहृत सोम त्वं प्रयांसि अन्नानि आ भर आहर । रयिं धनं तुंजानः ददानः वाजम् अन्नं रसम् अभि अर्ष अभिगच्छ ॥
+
+##### Gist of the bhāṣya
+
+This Soma moves round (असरत् (*asarat*)) for the benefit of men all foods (भोजना (*bhojanā*)), that is, foods or wealth. Of what kind is he? Called by many (पुरुहूतः (*puruhūtaḥ*)), being purified. Then (अथ (*atha*)), now, the address becomes direct: O Soma, carried by the falcon (श्येनभृत (*śyenabhṛta*), brought by the falcon), bring foods; giving wealth, flow towards the food, the juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पुरुहूतः (*puruhūtaḥ*)—worthy to be invoked by many
+- पूयमानः (*pūyamānaḥ*)—and purified, Soma-deva
+- जनानां (*janānāṃ*)—for the good of men
+- विश्वा भोजना (*viśvā bhojanā*)—all the wealth fit to be enjoyed
+- पर्यसरत् (*paryasarat*)—spreads and distributes
+- श्येनभृत (*śyenabhṛta*)—O Soma-deva, borne by the falcon
+- प्रयांसि (*prayāṃsi*)—foods
+- आ भर (*ā bhara*)—provide
+- रयिं (*rayiṃ*)—wealth
+- तुंजानः (*tuṃjānaḥ*)—providing
+- वाजं (*vājaṃ*)—the food in the form of juice
+- अभ्यर्ष (*abhyarṣa*)—make flow **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, worthy to be invoked by many and purified, spreads and distributes for the good of men all the wealth fit to be enjoyed. O Soma-deva, borne by the falcon, provide us foods. Providing us wealth, make flow the food in the form of juice.
+
+##### English translation
+Invoked by many, the Soma, undergoing purification, pours forth all food (for the sake of men) ; falcon-borne, bring us food, conveying wealth, send forth your juice.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ए॒ष सु॑वा॒नः परि॒ सोमः॑ प॒वित्रे॒ सर्गो॒ न सृ॒ष्टो अ॑दधाव॒दर्वा॑ ।  
+> ति॒ग्मे शिशा॑नो महि॒षो न शृंगे॒ गा ग॒व्यन्न॒भि शूरो॒ न सत्वा॑ ॥ ७ ॥
+
+### Printed p. 619
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> एषः । सुवानः । परि । सोमः । पवित्रे । सर्गः । न । सृष्टः । अदधावत् । अर्वा ।  
+> तिग्मे इति । शिशानः । महिषः । न । शृंगे इति । गाः । गव्यन् । अभि । शूरः । न । सत्वा ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> एष सुवानः सूयमानः अर्वा अरणकुशलः सोमः सर्गो न सृष्टः विसृष्टोऽश्व इव पवित्रे परि अदधावत् परिधावति । किंच तिग्मे तीक्ष्णे शृंगे शिशानः तीक्ष्णीकुर्वन् महिषो न महान् महिषाख्यो मृग इव । तथान्यदृष्टांतः। गा गव्यन् प्रभूता गा इच्छन् शूरो न शूर इव । एतौ महिषशूरौ यथा प्रतिबुद्धौ शीघ्रं धावतः तद्वत् सत्वा सदनशीलोऽयं गच्छतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This Soma, being pressed, swift in going (अर्वा (*arvā*)), runs around in the filter like a horse let loose (सर्गो न सृष्टः (*sargo na sṛṣṭaḥ*)). Further, he is like a great buffalo (महिषो न (*mahiṣo na*)), the animal called buffalo, sharpening his two sharp horns (शृंगे (*śṛṃge*)); another comparison: like a hero (शूरो न (*śūro na*)) desiring abundant cows (गा गव्यन् (*gā gavyan*)). As the buffalo and the hero, when awakened, run swiftly, so he, of settling nature (सत्वा (*satvā*)), goes; the word "goes" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सुवानः (*suvānaḥ*)—when pressed
+- अर्वा (*arvā*)—swift-going
+- एषः सोमः (*eṣaḥ somaḥ*)—this Soma
+- सृष्टः (*sṛṣṭaḥ*)—let loose freely
+- सर्गः न (*sargaḥ na*)—like a horse
+- पवित्रे (*pavitre*)—in the ten-fold filter
+- परदधावत् (*paradadhāvat*)—runs **NOTE**
+- तिग्मी (*tigmī*)—sharp **NOTE**
+- शृंगे (*śṛṃge*)—horns
+- शिशानः (*śiśānaḥ*)—which he has whetted
+- महिषो न (*mahiṣo na*)—like a buffalo
+- गा गव्यन् (*gā gavyan*)—desiring abundant cows
+- शूरो न (*śūro na*)—like a hero
+- सत्वा (*satvā*)—Soma who has attained a state, appears **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+Swift-going Soma, when pressed, runs to the ten-fold filter like a horse let loose freely. When he has attained a state, he appears like a buffalo that has whetted its sharp horns and like a hero who desires abundant cows.
+
+##### English translation
+When effused, this quick-flowing Soma hastens to the filter like a steed let loose ; whilst alighting (he moves) like a buffalo sharpening his pointed horns, like a warrior on a foray for cattle.
+
 ---
 
-**Progress note:** Done through printed p. 612. Rk 45 end to Sukta 87 Rk 1 start, pp. 607-612
+**Progress note:** Done through printed p. 619. Sukta 87 Rk 1 end to Rk 7, pp. 613-619
