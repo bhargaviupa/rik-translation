@@ -1552,6 +1552,94 @@ Formerly King Soma (the Soma plant; it is the custom to call the Soma plant King
 
 सा यद्दक्षिणेन पदा समगृभ्नात्तत्प्रातःसवनमभवत्तद्गायत्री स्वमायतनम कुरुत तस्मात्तत्समृद्धतमं मन्यंते सर्वॆषां सवनानामग्रियो मुख्यो भवति श्रेष्ठतामश्नुते य एवं वेदाथ (*sā yaddakṣiṇena padā samagṛbhnāttatprātaḥsavanamabhavattadgāyatrī svamāyatanama kuruta tasmāttatsamṛddhatamaṃ manyaṃte sarvèṣāṃ savanānāmagriyo mukhyo bhavati śreṣṭhatāmaśnute ya evaṃ vedātha*) यत्सव्येन पदा समगृभ्नात्तन्माध्यंदिनं सवनमभवत्तद्विस्स्रंसत : तद्विस्स्रस्तं नान्वाप्पोत्तूर्वं सवनं ते देवाः प्राजिज्ञासंत तस्मिंस्किष्टुभं छंदसामदधुरिंद्रं देवतानां तेन (*yatsavyena padā samagṛbhnāttanmādhyaṃdinaṃ savanamabhavattadvissraṃsata : tadvissrastaṃ nānvāppottūrvaṃ savanaṃ te devāḥ prājijñāsaṃta tasmiṃskiṣṭubhaṃ chaṃdasāmadadhuriṃdraṃ devatānāṃ tena*)
 
+### Printed p. 88
+
+र्याभ्यां समावज्जामिभ्यां राध्योति य एवं वेदाथ यन्नुखेन समगृभ्णात्तत्तृतीयसवनमभवत् । (*ryābhyāṃ samāvajjāmibhyāṃ rādhyoti ya evaṃ vedātha yannukhena samagṛbhṇāttattṛtīyasavanamabhavat |*)
+
+(Ai. Brā. 13-26)
+
+When bringing the Soma plants, the hawk carried them, gripping them with both its feet and with its beak. The Soma (or Soma plant) that the bird brought holding it with its right foot became the morning pressing. Gāyatrī made it, that is, the morning pressing, her own place. Therefore among all the pressings the morning pressing is held by the sacrificial authorities to be the best of all. In that morning-pressing rite the application of mantras and the rest is also special. Therefore the man who knows this matter well is regarded as becoming the best and foremost among his equals. The portion of Soma that Gāyatrī brought holding it with her left foot became famed as the midday pressing. Because, when carrying the Soma plant with the left foot, the left foot did not have as much strength as the right, the plants kept slipping a little from the foot from time to time. For this reason this midday pressing did not become equal to the morning pressing in strength and capacity. Seeing this, the gods deliberated and established for the midday-pressing rite the Triṣṭubh metre and Indra, the best among the gods. Through the companionship of Indra, the best of the gods, and of the Triṣṭubh metre, dear to him, the midday pressing obtained a place equal to the morning pressing in strength, capacity and excellence. The man who knows this equality of the morning and midday pressings, and their strength, capacity and excellence, obtains prosperity in wealth and the rest, and well-being, and lives happily. Then the portion of Soma that Gāyatrī, in the form of the hawk, carried gripped in her beak became famed as the third pressing.
+
+तस्य पतंती रसमधयत्तद्वीतरसं नान्वाप्पोत्पूर्वे सवने ते देवाः प्राजिज्ञासंत तत्पशुष्पपश्यंस्तद्यदाशिरमवनयंत्याज्येन पशुना चरंति तेन तत्समावद्वीर्यमभवत्पूर्वाभ्यां सवनाभ्यां सर्वैः सवनैः समावद्वीर्यैः समावज्जामिभी राध्योति य एवं वेद ॥ (*tasya pataṃtī rasamadhayattadvītarasaṃ nānvāppotpūrve savane te devāḥ prājijñāsaṃta tatpaśuṣpapaśyaṃstadyadāśiramavanayaṃtyājyena paśunā caraṃti tena tatsamāvadvīryamabhavatpūrvābhyāṃ savanābhyāṃ sarvaiḥ savanaiḥ samāvadvīryaiḥ samāvajjāmibhī rādhyoti ya evaṃ veda ‖*)
+
+(Ai. Brā. 13-27.)
+
+While Gāyatrī (the hawk) was coming with the Soma plant gripped in her beak, she kept drinking the juice in the plant, sipping it little by little. Therefore, that is, because the Soma plants brought in the beak were not abundant in juice but poor in it, this third pressing did not become equal to the morning and midday pressings in strength, capacity and the rest. Therefore the gods, seeing this, deliberated and found that the means suited to it lay in cattle. From cattle come milk and curds, and from these the ghee (clarified butter) and other oblation materials are obtained. If milk is mixed with the Soma juice that is deficient in the plants, that juice becomes strong. If oblations and the like are made with ghee and with the parts of the animals, the pressing rite becomes complete. Therefore those who know the sacrificial rite, by adding milk and other āśira substances to the ṛjīṣa used in the third pressing (the husks of the Soma plant that remain after the juice has been taken at the morning and midday pressings are called ṛjīṣa), and by performing oblations with the ghee obtained from cattle and with the heart and other parts of the animals, understand that the third-pressing rite becomes equal to the morning and midday pressings in strength, capacity and the rest, and act accordingly. This matter is stated in another śākhā in this manner—
+
+### Printed p. 89
+
+ब्रह्मवादिनो वदंति कस्मात्सत्याद्दायत्री कनिष्ठा छंदसाग्ं सती यज्ञमुखं परियायेति यदेवादः सोममाहरत्तस्माद्यज्ञमुखं पर्यॆत्तस्मात्तेजस्वीनीतमा पद्भ्यां द्वे सवने समगृह्णान्मुखेनैकं यन्मुखेन समगृह्णात्तदधयत्तस्माद्वे सवने शुक्रवती प्रातःसवनं च माध्यंदिनं च तस्मात्तृतीयसवन ऋजीषमभिषुण्वंति धीतमिव हि मन्यंते अशिरमवन यति सशुक्रत्वाय ॥ (*brahmavādino vadaṃti kasmātsatyāddāyatrī kaniṣṭhā chaṃdasāgṃ satī yajñamukhaṃ pariyāyeti yadevādaḥ somamāharattasmādyajñamukhaṃ paryèttasmāttejasvīnītamā padbhyāṃ dve savane samagṛhṇānmukhenaikaṃ yanmukhena samagṛhṇāttadadhayattasmādve savane śukravatī prātaḥsavanaṃ ca mādhyaṃdinaṃ ca tasmāttṛtīyasavana ṛjīṣamabhiṣuṇvaṃti dhītamiva hi manyaṃte aśiramavana yati saśukratvāya ‖*) (Tai. Saṃ. 6-1-6-4)
+
+Thus the same purport is stated in the Taittirīya Saṃhitā. The man who knows this matter, that is, that the three pressings, the morning, the midday and the third, have obtained an equal place in strength, capacity and excellence, becomes possessed of all prosperity and lives happily.
+
+**The view that Vāyu is entitled to drink Soma first among the gods**
+
+In the Ṛk अग्रं पिब मधूनां (*agraṃ piba madhūnāṃ*) (Ṛ. Saṃ. 4-46-1) it is said that Vāyu is entitled to drink Soma before Indra and the other gods. In support of this—
+
+आ वायो भूष शुचिपा उप नः सहस्रं ते नियुतो विश्ववार । उपो ते अंधो मध्यमयामि यस्य देव दधिषे पूर्वपेयं ॥ (*ā vāyo bhūṣa śucipā upa naḥ sahasraṃ te niyuto viśvavāra | upo te aṃdho madhyamayāmi yasya deva dadhiṣe pūrvapeyaṃ ‖*)
+
+(Ṛ. Saṃ. 7-92-1)
+
+quoting this Ṛk, it is indicated that there the seer prays that Vāyu should drink Soma first. There is an ancient account in the Aitareya Brāhmaṇa of how Vāyu obtained the foremost place among the gods in the drinking of Soma; we explain it here—
+
+### Printed p. 90
+
+देवा वै सोमस्य राज्योऽग्रपेये न समपादयन्नहं प्रथमः पिबेयमहं प्रथमः पिबेयमित्येवाकामयंत ते संपादयंतोऽब्रुवन् हंताजिमयाम स यो न उज्जेष्यति स प्रथमः सोमस्य पास्यतीति तथेति त आजिमयुस्तेषामाजिं यथामभिसृष्टानां वायुर्मुखं प्रथमः प्रत्यपद्यताथेंद्रोऽथ मित्रावरुणावथाश्विनौ । (*devā vai somasya rājyo 'grapeye na samapādayannahaṃ prathamaḥ pibeyamahaṃ prathamaḥ pibeyamityevākāmayaṃta te saṃpādayaṃto 'bruvan haṃtājimayāma sa yo na ujjeṣyati sa prathamaḥ somasya pāsyatīti tatheti ta ājimayusteṣāmājiṃ yathāmabhisṛṣṭānāṃ vāyurmukhaṃ prathamaḥ pratyapadyatātheṃdro 'tha mitrāvaruṇāvathāśvinau |*)
+
+(Ai. Brā. 9-25)
+
+Formerly all the gods, desiring to drink Soma together, fell into a dispute as to who among them should drink Soma first; each began to argue, "I first, I should drink first." Since the matter could not be settled in any way, they all gathered, took counsel, and came to an agreement: "Let us all arrange a contest; whoever wins in it shall be entitled to drink Soma first." When all agreed to this, the contest was fixed thus: running from one place to another place far away, whoever first reached a rock or a tree there should be regarded as the winner. When all consented to the agreement that the one who thus won should drink Soma as the victor among them, all the gods began to run at the same moment. Among all the running gods Vāyu reached the appointed place before all the others. Indra came just behind Vāyu and became second. After Indra came Mitra and Varuṇa, and after them the Aśvins ran up and reached the appointed place. Therefore among these gods Vāyu ran ahead of all and became the victor.
+
+सोऽवेदिंद्रो वायुमुद्वै जयतीति तमनु परापतत्सह नावथोज्जयावेति स नेत्यब्रवीदहमेवोज्जॆष्यामीति तृतीयं मेऽथोज्जयावेति नेति हैवाब्रवीदहमेवोज्जॆष्यामीति तुरीयं मेऽथोज्जयावेति तथेति तं तुरीयेऽत्यार्जत तत्तुरीयभागिंद्रोऽभवत्रिभाग्वायुः ॥ (*so 'vediṃdro vāyumudvai jayatīti tamanu parāpatatsaha nāvathojjayāveti sa netyabravīdahamevojjèṣyāmīti tṛtīyaṃ me 'thojjayāveti neti haivābravīdahamevojjèṣyāmīti turīyaṃ me 'thojjayāveti tatheti taṃ turīye 'tyārjata tatturīyabhāgiṃdro 'bhavatribhāgvāyuḥ ‖*)
+
+While Vāyu was running and Indra behind him, this conversation took place between them. Indra, seeing Vāyu running swiftly ahead of him, resolved, "This Vāyu alone will run ahead of all and win. Somehow I too must run with him and win," and using all his strength he ran close beside Vāyu. Yet there was no sign that he could leave Vāyu behind and go ahead; so Indra said to Vāyu: "O Vāyu, we two are ahead of everyone. Therefore let us regard both of us as having won and share the first Soma-drinking between us. Half for me, half for you. Let both of us
+
+### Printed p. 91
+
+co-operate and gain the victory." Hearing that, Vāyu said: "O Indra, I am ahead of you, if only by a little. Therefore I alone shall be the victor. In the first Soma-drinking everything must be mine. I cannot give you half." Then Indra said: "Very well, then I do not want half. Of three parts take two yourself. Give me only one part." But Vāyu did not agree even to that, saying: "In any case I shall win. The whole share will be mine; I do not wish to give you even one part out of three." Then Indra prayed to Vāyu again: "I do not want even one part out of three. Even less, that is, if you give me one part out of four it is enough. Agree at least to that." Vāyu agreed to that, saying, "Let it be so." Therefore it was arranged that in the Aindravāyava graha (that is, when Indra and Vāyu drink Soma together) Indra should have one part and Vāyu three parts.
+
+तौ सहैवेंद्रनायू उदजयतां सह मित्रावरुण् सहाश्विन् त एषामेते यतोज्जितं भक्षा इंद्रवाय्वोः प्रथमोऽथ मित्रावरुणयोरथाश्विनोः. स एष इंद्रतुरियो ग्रहो गृह्यते यद्यैंद्रवायवः । (*tau sahaiveṃdranāyū udajayatāṃ saha mitrāvaruṇ sahāśvin ta eṣāmete yatojjitaṃ bhakṣā iṃdravāyvoḥ prathamo 'tha mitrāvaruṇayorathāśvinoḥ. sa eṣa iṃdraturiyo graho gṛhyate yadyaiṃdravāyavaḥ |*)
+
+Thus Indra and Vāyu, co-operating, won the contest and reached the appointed place first. Behind them Mitra and Varuṇa came and arrived. Behind them the Aśvins came. Therefore among these gods they became entitled to Soma-drinking in the order of the places they took in the contest. That is, it was arranged that first Indra and Vāyu, afterwards Mitra and Varuṇa, and after them the Aśvins should drink Soma. Thus the custom of two gods drinking Soma together) came into practice. Therefore in the Aindravāyava graha Indra has only one part out of four in the Soma-drinking.
+
+तदेतदृषिः पश्यन्नभ्यनूनाच नियुत्वा इंद्रसारथिरिति (*tadetadṛṣiḥ paśyannabhyanūnāca niyutvā iṃdrasārathiriti*)
+
+The seer, knowing by divine vision that Indra has one part out of four in the Aindravāyava graha, expressed this matter in the next Ṛk, that is, in शतेना नो अभिष्टिभिर्नियुत्वा इंद्रसारथिः (*śatenā no abhiṣṭibhirniyutvā iṃdrasārathiḥ*) (Ṛ. Saṃ. 4-46.2), by the phrase नियुत्वा इंद्रसारथिः (*niyutvā iṃdrasārathiḥ*). Here, as in the Nirukta statement नियुतो वायोः (*niyuto vāyoḥ*) (Ni. 2-28), the horses called niyuta are famed as the vehicle of the god Vāyu. Therefore the word niyutvat indicates relation to Vāyu. In the above Ṛk the word नियुत्वान् (*niyutvān*) indicates Indra accompanied by Vāyu. Mantras such as अधा वायुं नियुतः सश्चतस्वाः (*adhā vāyuṃ niyutaḥ saścatasvāḥ*) (Tai. Brā. 2-8-1-1) support this. The word इंद्रसारथिः (*iṃdrasārathiḥ*) means that Indra is the charioteer of Vāyu. Since Indra
+
+### Printed p. 92
+
+stands in the position of charioteer to Vāyu, it is indicated by this that Indra has only a fourth part in the first Soma-drinking.
+
+तस्माद्वाप्येतर्हि भरताः सत्वनां नित्तिं प्रयंति तुरिये हैव संग्रहीतारो वदंतेऽमुनैवानूकाशेन यदद इंद्रः सारथिरिव भूत्वो दजयत् ॥ (*tasmādvāpyetarhi bharatāḥ satvanāṃ nittiṃ prayaṃti turiye haiva saṃgrahītāro vadaṃte 'munaivānūkāśena yadada iṃdraḥ sārathiriva bhūtvo dajayat ‖*)
+
+(Ai. Brā. 9-25)
+
+The matter stated above is made clear by an example from the practice of the world. Warriors in battle, seated in chariots, with the help of their charioteers become victorious in the fight and seize the wealth and other possessions of their enemies. When they have thus seized it, they give one part of that wealth and the rest, that is, one part out of four, to the charioteers who helped them. This custom is established in worldly practice. In the same way, in this contest arranged by the gods, Indra became the charioteer of Vāyu and Vāyu became the victor; so a fourth part of the first Soma-drinking won in the contest became Indra's share. The main purport is that Indra obtained his fourth part by being charioteer to Vāyu.
+
+**How the Ṛbhus obtained the right to drink Soma**
+
+Sāyaṇa has told the ancient story relating to this in the introduction to his commentary on the Ṛk 1-161-1. The three sons of Sudhanvan, Ṛbhu, Vibhvan and Vāja, though men, obtained divinity by their good deeds, and once, at the time of a sacrifice, set out with the gods to drink Soma. Agni, urged on by the gods, seeing them of the same form, took on the same form himself and began to drink with them. Not knowing who the fourth one was who had come with them in their own shape, they doubt among themselves. In the first half of this Ṛk that inquiry is stated, and in the second half it is stated that after some time they determine who he is and, conversing with him, tell him of the greatness of the cup (camasa).
+
+The noble birth of these brothers, the greatness of their good deeds, the trouble the gods gave them out of jealousy when they joined the gods, and the help that Prajāpati and Savitṛ gave them at that time are also told in some places. For example—
+
+यभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातस्सवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिंद्रो रुद्रॆर्माध्यंदिनात्सवनादनुदत (*yabhavo vai deveṣu tapasā somapīthamabhyajayaṃstebhyaḥ prātassavane vāci kalpayiṣaṃstānagnirvasubhiḥ prātaḥsavanādanudata tebhyo mādhyaṃdine savane vāci kalpayiṣaṃstāniṃdro rudrèrmādhyaṃdinātsavanādanudata*) तेभ्यस्तृतीय (*tebhyastṛtīya*)
+
+### Printed p. 93
+
+सवने वाचि कल्पयिषंस्तान्विश्वे देवे अनोनुद्यंत नेह पास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव ना इमेंतेवासास्तमेवैभिः संपिबस्वीति स तथेत्यब्रवीत्सविता तान्वै त्वमुभयतः परिपिबेति तान्प्रजापतिरुभयतः पर्यपिबत् ॥ (*savane vāci kalpayiṣaṃstānviśve deve anonudyaṃta neha pāsyaṃti neheti sa prajāpatirabravītsavitāraṃ tava nā imeṃtevāsāstamevaibhiḥ saṃpibasvīti sa tathetyabravītsavitā tānvai tvamubhayataḥ paripibeti tānprajāpatirubhayataḥ paryapibat ‖*)
+
+(Ai. Brā. 3-3-30)
+
+By their austerity and their intense desire the Ṛbhus obtained among the gods the right to drink Soma. When they first wished to obtain it at the morning pressing, Agni, joining with the Vasus, rejected them and drove them away. Then, when they wished to obtain it at the midday pressing, Indra, joining with the Rudras, drove them away. Again, when they wished to obtain it at the third pressing, the Viśvedevas rejected them there too with harsh words: "You are certainly not entitled to drink Soma here. You shall not do so." Then Prajāpati said to Savitṛ: "These Ṛbhus are your pupils. Drink Soma with them." Savitṛ agreed to that. Prajāpati also, staying at their sides, drank the Soma juice. In this way the story is told in the Aitareya Brāhmaṇa.
+
+**The seven Soma sacrifice forms**
+
+There are seven varieties of the Soma sacrifice. It is the custom to call them the seven Soma-saṃsthās. They are named Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍaśī, Atirātra, Apporyāma and Vājapeya.**NOTE** Among these the Agniṣṭoma sacrifice is of the nature of the prakṛti, that is, this sacrifice is the basis for the other Soma sacrifices. With some modifications it becomes the remaining six Soma sacrifices.
+
+**The fruit of the Soma sacrifice**
+
+In the Ṛk 1-140-12 the (Soma) sacrifice is compared to a boat, worldly existence to the ocean, and the priests to the oars. Poverty, fear of enemies and other kinds of sorrow are the terrible situations of the ocean of worldly existence. To cross this ocean the boat is the chief means, but for this boat to carry the sacrificer safely across the ocean it is not possible without the boat and its oars. Therefore the prayer is made that the boat of the Soma sacrifice, propelled by the oars in the form of excellent priests, may carry us safely across the ocean of worldly existence.
+
 ---
 
-**Progress note:** Done through printed p. 87. pp. 82-87: Indra's soma-drinking, Maruts, Namuci, rjisa, Gayatri brings soma
+**Progress note:** Done through printed p. 93. pp. 88-93: pressings and Gayatri, Vayu and Indra contest, Rbhus, Soma sacrifice forms
