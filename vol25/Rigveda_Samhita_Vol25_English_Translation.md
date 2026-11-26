@@ -28385,6 +28385,284 @@ The sūkta beginning प्र ते सोतारः (*pra te sotāraḥ*) h
 
 This sūkta beginning प्र ते सोतारः (*pra te sotāraḥ*) is the sixteenth sūkta in the first anuvāka. It has eight Ṛks. The seer, deity and metre of this sūkta are the same as those of the preceding sūkta. In the Anukramaṇikā it is said प्र ते (*pra te*). The use has been stated before.
 
+### Printed p. 708
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॑ सो॒तार॑ ओ॒ण्यो॒३॒॑ रसं॒ मदा॑य॒ घृष्व॑ये ।  
+> सर्गो॒ न त॒क्त्येत॑शः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । सोतारः । ओण्योः । रसम् । मदाय । घृष्वये ।  
+> सर्गः । न । तक्ति । एतशः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम ते तव रसं सोतारः सोमाभिषवकर्तारः ओण्योः रसम् । लुप्तोपममेतत् । द्यावापृथिव्यो रसमुदकमिव । अथवौण्योर्द्यावापृथिव्योर्मध्ये तयोः संबंधिनं वा रसस् । प्र स्रावयंतीति शेषः । किमर्थम् । घृष्वये शत्रुघर्षणशीलाय’ मदाय इंद्रस्य मदाय । अभिषवजनितः सोमः सर्गः सृष्टः एतशः न अश्व इव तक्ति गच्छति पात्रं प्रति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Soma, the pressers, the performers of the pressing of Soma, make your juice flow forth, like the water of heaven and earth. The phrase is an elliptical simile: the juice is like the water of heaven and earth; or else the juice is that which is between the two, heaven and earth, or belongs to them **NOTE**. For what purpose? For the exhilaration of Indra, who is given to crushing his foes. The Soma, produced by the pressing and released, goes to the vessel like a horse.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma)
+- ते (*te*)—your juice
+- सोतारः (*sotāraḥ*)—the priests who press
+- ओण्योः रसे (*oṇyoḥ rase*)—like the water between heaven and earth **NOTE**
+- प्र (*pra*)—they press and make it flow forth
+- घृष्वये (*ghṛṣvaye*)—for the destroyer of foes
+- मदाय (*madāya*)—for the delight of Indra
+- सर्गः (*sargaḥ*)—this Soma that has been pressed
+- एतशः न (*etaśaḥ na*)—like a horse (rushing forward in battle)
+- तक्ति (*takti*)—runs towards the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma, the priests engaged in the work of pressing Soma press your juice and make it flow, like the water (in the form of rain) that pours between heaven and earth. For the delight of Indra, the destroyer of foes, this Soma that has been created (pressed) runs quickly towards the vessel in a stream, like a horse rushing forward upon the enemies in battle.
+
+##### English translation
+They who express you, the juice of heaven and earth, do it for the foe-destroying exhilaration (of Indra) ; your flow rushes as a swift horse.
+
+### Printed p. 709
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क्रत्वा॒ दक्ष॑स्य र॒थ्य॑म॒पो वसा॑न॒मंध॑सा ।  
+> गो॒षामण्वे॑षु सश्चिम ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> क्रत्वा । दक्षस्य । रथ्यम् । अपः । वसानम् । अंधसा ।  
+> गोऽसाम् । अण्वेषु । सश्चिम ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वयमभिषोतारः दक्षस्य बलस्य रथ्यं नेतारम् अपः उदकानि रसान् वसानम् आच्छादयंतम् अंधसा श्रयणान्नेन सहितं गोषां गवां सोतारमेवमुक्तलक्षणं सोमं क्रत्वा कर्मणा अण्वेषु अंगुलीषु सश्चिम संयोजयामः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: We, the pressers, mix on the fingers, by the rite, this Soma, who is of the nature described: the leader of strength, the one who envelops the waters, that is, the juices, together with the admixture of food, and the giver of cows **NOTE**.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (We, engaged in the pressing)
+- दक्षस्य (*dakṣasya*)—of strength
+- रथ्यं (*rathyaṃ*)—the leader (the one who is conveyed) **NOTE**
+- आपः (*āpaḥ*)—the waters **NOTE**
+- वसानं (*vasānaṃ*)—enveloping (becoming mixed with the water)
+- अंधसा (*aṃdhasā*)—Soma that is accompanied by the admixture of food
+- गोषां (*goṣāṃ*)—with milk, the product of cows
+- क्रत्वा (*kratvā*)—by the prescribed rite
+- अण्वेषु (*aṇveṣu*)—with the fingers
+- सक्षिम (*sakṣima*)—we mix **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+We, engaged in the work of pressing (the work of squeezing the Soma juice), mix on the fingers, in accordance with the prescribed rite, with the milk of cows, the Soma that produces strength, that is mixed with waters, and that is accompanied by the admixture of food.
+
+##### English translation
+In pious rite by our fingers we mix with the milk ( the Soma ), the bringer of strength, the sender of cows, who envelopes the water.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अन॑प्तम॒प्सु दु॒ष्टरं॒ सोमं॑ प॒वित्र॒ आ सृ॑ज ।  
+> पु॒नी॒हींद्रा॑य॒ पात॑वे ॥ ३ ॥
+
+### Printed p. 710
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अनप्तम् । अप्ऽसु । दुस्तरम् । सोमम् । पवित्रे । आ । सृज ।  
+> पुनीहि । इंद्राय । पातवे ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अनप्तं शत्रुभिरनाप्तम् अप्सु आंतरिक्ष्यासु । वर्तमानमिति शेषः। दुष्टरम् अन्यैरनभिभाव्यम् । न हि सोमं कश्चिदप्यतितरति । ईदृशं सोमं पवित्रे दशापवित्रे आ सृज प्रक्षिप हे अध्वर्यो । तत्रोच्यते । इंद्राय इंद्रस्य पातवे पातुं पुनीहि ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Soma is unattained by enemies, unconquerable by others, abiding in the waters of the firmament, for no one ever overcomes Soma. Such Soma, O Adhvaryu, cast into the filtering cloth of ten threads. For that, the words are said: purify it for the drinking of Indra.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Adhvaryu)
+- अनप्तं (*anaptaṃ*)—the one that cannot be approached by enemies
+- अप्सु (*apsu*)—the one who abides in the firmament (in heaven)
+- दुष्टरं (*duṣṭaraṃ*)—the one who cannot be defeated by others
+- सोमं (*somaṃ*)—Soma
+- पवित्रे (*pavitre*)—in the ten-thread filter (for purifying)
+- आ सृज (*ā sṛja*)—place it
+- इंद्राय पातवे (*iṃdrāya pātave*)—for the drinking of Indra
+- पुनीहि (*punīhi*)—purify
+
+##### भावार्थ (Bhāvārtha)
+
+O Adhvaryu, place in the ten-thread filter, for purifying, the Soma who cannot be approached by enemies, who dwells in heaven, who is not defeated by others. Then purify it for the drinking of Indra.
+
+##### English translation
+Cast into the filtering cloth the unassailable invincible (Soma), abiding in the waters (of the firmament) ; purify it for the drinking of Indra.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र पु॑ना॒नस्य॒ चेत॑सा॒ सोमः॑ प॒वित्रे॑ अर्षति ।  
+> क्रत्वा॑ स॒धस्थ॒मास॑दत् ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । पुनानस्य । चेतसा । सोमः । पवित्रे । अर्षति ।  
+> क्रत्वा । सधऽस्थम् । आ । असदत् ॥ ४ ॥
+
+### Printed p. 711
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> चेतसा स्तुत्या पुनानस्य पूयमानस्यांशीभूतः सोमः पवित्रे दशापवित्रे अर्षति गच्छति । अथ पश्चात् क्रत्वा कर्मणा प्रज्ञानेन वा सधस्थं सहस्थानं द्रोणकलशे आसदत् आसीदति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: By praise, the Soma, a portion of him who is being purified, goes to the filter of ten threads. Then, by the rite or by wisdom, it settles in the common seat, the Droṇa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- चेतसा (*cetasā*)—by praise
+- पुनानस्य (*punānasya*)—of him who is purified (made ready)
+- सोमः (*somaḥ*)—Soma
+- पवित्रे (*pavitre*)—towards the ten-thread filter
+- अर्षति (*arṣati*)—goes (afterwards)
+- क्रत्वा (*kratvā*)—by the rite or by wisdom
+- सधस्थे (*sadhasthe*)—in its own place, the Droṇa vessel **NOTE**
+- आसदत् (*āsadat*)—sits down
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma that is prepared by hymns and the like goes towards the ten-thread filter for purifying. Afterwards, by the prescribed rite, it comes and settles in its own place, the Droṇa vessel.
+
+##### English translation
+The Soma of him who is purified by worship flows upon the filter and settles in the place common with the ceremony.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र त्वा॒ नमो॑भि॒रिंद॑व॒ इंद्र॒ सोमा॑ असृक्षत ।  
+> म॒हे भरा॑य का॒रिणः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । त्वा । नमःऽभिः । इंदवः । इंद्र । सोमाः । असृक्षत ।  
+> महे । भराय । कारिणः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र त्वा त्वां नमोभिः नमस्कारोपलक्षितैः स्तोत्रैरथवान्नैः सह इंदवः सोमाः प्र असृक्षत प्राप्नुवंति । किमर्थम् । महे महते भराय संग्रामाय । कीदृशाः । कारिणः बलकरणशीलाः ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: O Indra, the Soma juices come forth to you with salutations, that is, with praises marked by salutation, or with oblations of food. For what purpose? For the great conflict. What are they like? They are given to producing strength.
+
+### Printed p. 712
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंद्र (*iṃdra*)—O Indra
+- त्वा (*tvā*)—you
+- सवोभिः (*savobhiḥ*)—with praises accompanied by salutation, or with food of the nature of oblations **NOTE**
+- कारिणः (*kāriṇaḥ*)—which give strength
+- इंदवः (*iṃdavaḥ*)—which trickle
+- सोमाः (*somāḥ*)—these Soma juices
+- महे भराय (*mahe bharāya*)—for victory in battle
+- प्र असृक्षत (*pra asṛkṣata*)—approach
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, these Soma juices, which trickle and which give strength to those who drink them, approach you with praises accompanied by salutation, for victory in great battles.
+
+##### English translation
+The Soma juices flow to you, Indra, with praises, giving you vigour for the great conflict.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पु॒ना॒नो रू॒पे अ॒व्यये॒ विश्वा॒ अर्ष॑न्न॒भि श्रियः॑ ।  
+> शूरो॒ न गोषु॑ तिष्ठति ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पुनानः । रूपे । अव्यये । विश्वाः । अर्षन् । अभि । श्रियः ।  
+> शूरः । न । गोषु । तिष्ठति ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अव्यये अविमये रूपे रूप्यमाणे वस्त्रे पुनानः पूयमानः विश्वाः सर्वाः श्रियः शोभाः अभि अर्षन् अभिगच्छन् गोषु निमित्तासु शूरो न शूर इव स यथा संग्रामे तिष्ठति तद्वदसौ तिष्ठति पात्रे ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: Being purified in the cloth made of sheep's wool, which is called the form, all glories, all splendours, he approaches. As a hero stands in battle, so this Soma stands in the vessel, in respect of the cows **NOTE**.
+
+### Printed p. 713
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अव्यये (*avyaye*)—made of the wool of a sheep **NOTE**
+- रूपे (*rūpe*)—in the cloth
+- पुनानः (*punānaḥ*)—this Soma that has been purified
+- विश्वाः (*viśvāḥ*)—all
+- श्रियः (*śriyaḥ*)—shining with splendours
+- गोषु (*goṣu*)—for the sake of the cows (for being mixed with milk)
+- अभि अर्षन् (*abhi arṣan*)—going forward
+- शूरो न (*śūro na*)—as a hero comes and stands on the battlefield
+- तिष्ठति (*tiṣṭhati*)—stands
+
+##### भावार्थ (Bhāvārtha)
+
+This Soma juice, purified by the cloth made of the wool of a sheep, shining with clear splendour, stands waiting, in order to be mixed with the milk of cows, as a brave warrior comes and stands on the battlefield.
+
+##### English translation
+Purified in his woollen robe, and attaining all honours, he stands as a hero amidst the cows.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो न सानु॑ पि॒प्युषी॒ धारा॑ सु॒तस्य॑ वे॒धसः॑ ।  
+> वृथा॑ प॒वित्रे॑ अर्षति ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । न । सानु । पिप्युषी । धारा । सुतस्य । वेधसः ।  
+> वृथा । पवित्रे । अर्षति ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो न द्युलोकादंतरिक्षादिव सानु समुच्छ्रितमुदकं तद्यथाधो निपतति तद्वत् वेधसः विधातुर्बलस्य कर्तुः सुतस्य अभिषुतस्य सोमस्य पिप्युषी आप्याययंती धारा वृथा अनायासेनैव पवित्रे दशापवित्रे अर्षति गच्छति ॥
+
+##### Gist of the bhāṣya
+
+Sāyaṇa says: As water, raised up from the heaven, from the firmament, falls down, so the stream of the pressed Soma, of the maker, the producer of strength, which refreshes, goes in vain, that is, without effort, to the filter of ten threads.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः न (*divaḥ na*)—as the water in the form of rain, falling from the lofty firmament
+- सानु (*sānu*)—falls on the slopes of the earth below
+- वेधसः (*vedhasaḥ*)—by the application of strength
+- सुतस्य (*sutasya*)—of the Soma that is pressed **NOTE**
+- पिप्युषी (*pipyuṣī*)—which gives satisfaction
+- धारा (*dhārā*)—the stream
+- वृथा (*vṛthā*)—without effort (very easily)
+- पवित्रे (*pavitre*)—in the ten-thread filter
+- अर्षति (*arṣati*)—comes and falls
+
 ---
 
-**Progress note:** Done through printed p. 707. Sūkta 15 Ṛks 3-8; Sūkta 16 introduction (pp. 702-707)
+**Progress note:** Done through printed p. 713. Sūkta 16 Ṛks 1-7 (pp. 708-713)
