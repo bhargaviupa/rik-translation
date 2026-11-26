@@ -16681,6 +16681,217 @@ To this effect Yāska has given the following etymology—पवित्रव�
 
 Here the word पवित्र (*pavitra*) is explained as the rays that purify. Therefore पवित्रवंतः (*pavitravaṃtaḥ*) means those who have rays, or the gods of the middle region (the atmosphere) who are in contact with the rays of the sun; they take refuge in the voice of the middle region. For these hosts of gods of the middle region the ancient Varuṇa is the protector, and he protects or regulates the rites and other acts of the Maruts and the other gods. This Varuṇa, of great form, covers Āditya with masses of clouds. The discerning are able to begin their works, or sacrifices and the like, in these waters.
 
+### Printed p. 448
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑धा॒रेऽव॒ ते सम॑स्वरंदि॒वो नाके॒ मधु॑जिह्वा अस॒श्चतः॑ ।  
+> अस्य॒ स्पशो॒ न नि मि॑षंति॒ भूर्ण॑यः प॒देप॑दे पा॒शिनः॑ संति॒ सेत॑वः ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रऽधारे । अव । ते । सम् । असरन् । दिवः । नाके । मधुऽजिह्वाः । असश्चतः ।  
+> अस्य । स्पशः । न । नि । मिषंति । भूर्णयः । पदेऽपदे । पाशिनः । संति । सेतवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> सहस्रधारे । बहूदकधारा यस्माद्द्रवंति तत्तथोक्तमंतरिक्षम् । तस्मिन् वर्तमानाः ते सोमरश्मयः अव अवस्तात स्थिताः समस्वरन् । पृथिवीं वृष्ट्या संयोजयंतीत्यर्थः । किंच दिवः द्युलोकस्य नाके समुच्छ्रिते देशे वर्तमानाः मधुजिह्वाः मध्वग्राः । सोमतेजसाग्रेभ्यो हि मधूत्पन्नं भवति । अतो मधुजिह्वाः । असश्चत: संगतवर्जिताः पृथक्पृथग्दिव्यवस्थिताः अस्य सोमस्य स्वभूताः स्पशः सारभूता रश्मयः भूर्णयः क्षिप्रगामिनः संतः न नि मिषंति निमेषं न कुर्वंति । किंतु पापिनः सुकृतिनश्च ज्ञातुं सर्वदा जाग्रतीत्यर्थः। अथवा । राजभृत्या यथा दुष्टान् विचारयितुं सर्वदा जागरणं कुर्वंति तद्वदेते रश्मयः पदेपदे स्थाने स्थाने सेतवः संबद्धाः संतः पाशिनः पापकृतां बाधकाः संति भवंति ॥
+
+##### Gist of the bhāṣya
+
+The sky (the atmosphere) is called सहस्रधारे (*sahasradhāre*) because many streams of water run from it. Those rays of Soma that are in it, standing below (अव (*ava*)), sound together; that is, they join the earth with rain. Further, those that are in the exalted region (नाके (*nāke*)) of the world of heaven are मधुजिह्वाः (*madhujihvāḥ*), honey-tipped, for honey arises from the tips through the splendour of Soma; hence the name. They are असश्चतः (*asaścataḥ*), free from contact with one another, each placed separately in heaven. These rays, belonging to this Soma, his very essence, move swiftly and do not wink; rather, they are ever awake, to know the sinners and the doers of good. Or else: as the king's servants keep constant watch to examine the wicked, so these rays, bound in each place, at every step (पदेपदे (*padepade*)), become fetters, restrainers of the doers of evil.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सहस्रधारे (*sahasradhāre*)—in the form of many streams
+- ते (*te*)—the rays of Soma
+- अव (*ava*)—in the lower region
+- समस्वरन् (*samasvaran*)—unite with the earths
+- दिवः (*divaḥ*)—of the world of heaven
+- नाके (*nāke*)—in the exalted region
+- मधुजिह्वाः (*madhujihvāḥ*)—having sweet tongues
+- असश्चतः (*asaścataḥ*)—having separate states
+- अस्य स्पशः (*asya spaśaḥ*)—the rays of this Soma
+- भूर्णयः (*bhūrṇayaḥ*)—being swift-moving
+- न निमिषंति (*na nimiṣaṃti*)—do not close their eyes even a little
+- पदे पदे (*pade pade*)—those placed in each place
+- सेतवः (*setavaḥ*)—being related to one another
+- पाशिनः (*pāśinaḥ*)—being the injurers of sinners
+- संति (*saṃti*)—become
+
+### Printed p. 449
+
+##### भावार्थ (Bhāvārtha)
+
+The rays of Soma, in the form of many streams, unite with the earth in the lower region. These rays of Soma, which are in the exalted region of the world of heaven, have sweet tongues and separate states; being swift-moving they do not close their eyes even a little. Placed in each place and related to one another, they injure sinners.
+
+##### English translation
+(The Soma rays) in the firmament of a thousand streams (unite with the earth) below ; in the summit of heaven, sweet-tongued, in separate drops his rays, swiftly moving, never shut their eyes; fixed each in his place, they are the molesters (of sinners).
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पि॒तुर्मा॒तुरध्या ये स॒मस्व॑रन्नृ॒चा शोचं॑तः सं॒दहं॑तो अव्र॒तान् ।  
+> इंद्र॑द्विष्टा॒मप॑ धमंति मा॒यया॒ त्वच॒मसि॑क्नीं॒ भूम॑नो दि॒वस्परि॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पितुः । मातुः । अधि । आ । ये । सम्ऽअस्वरन् । ऋचा । शोचंतः । सम्ऽदहंतः । अव्रतान् ।  
+> इंद्रऽद्विष्टाम् । अप । धमंति । मायया । त्वचम् । असिक्नीम् । भूमनः । दिवः । परि ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पितुर्मातुः द्यावापृथिव्योः । ‘ द्यौर्मे पिता जनिता नाभिरत्र बंधुर्मे माता पृथिवी महीयम्' (ऋ. सं. १.१६४.३३ ) इत्यादिषु द्यावापृथिव्योर्मातापितृत्वाम्नानात् । द्यावापृथिवीभ्यां ये सोमरश्मयः अध्या समस्वरन् अधिकं प्रादुर्भूता अभवन् ते ऋचा ऋत्विग्भिः क्रियमाणया स्तुत्या शोचंतः दीप्यमानाः अव्रतान् कर्मरहितान् यजमानान् संदहंतः सम्यग्विनाशयंतस्ते रश्मयः इंद्रद्विष्टाम् इंद्राय द्वेषकारिणीम् । ‘क्ते च ' ( पा. सू. ६. २. ४५ ) इति पूर्वपदप्रकृतिस्वरः । इंद्रेण द्विष्टां वा । असिक्नीम् । रात्रिनामैतत् । रात्रिवत्कृष्णरूपां त्वचम् । राक्षसमित्यर्थः । मायया कर्मणा प्रज्ञया वा भूमनः विस्तृताद्भूलोकात् दिवस्परि द्युलोकाच्च अप धमंति अपगतं कुर्वंति । अपघ्ंतीत्यर्थः ॥ ॥ २९ ॥
+
+##### Gist of the bhāṣya
+
+पितुर्मातुः (*piturmātuḥ*) means heaven and earth, since in passages such as द्यौर्मे पिता जनिता नाभिरत्र बंधुर्मे माता पृथिवी महीयम् (*dyaurme pitā janitā nābhiratra baṃdhurme mātā pṛthivī mahīyam*) (Ṛ. Saṃ. 1.164.33) heaven and earth are declared to be father and mother. Those rays of Soma that were manifested abundantly (अध्या समस्वरन् (*adhyā samasvaran*)) from heaven and earth shine through the ṛc, that is, the praise made by the priests, and burn up the sacrificers who are without rites (अव्रतान् (*avratān*)), destroying them completely. Those rays drive away the skin (त्वचम् (*tvacam*)) that is इंद्रद्विष्टाम् (*iṃdradviṣṭām*), hateful to Indra, or hated by Indra. असिक्नीम् (*asiknīm*) is a name of night; the skin is black like night, that is, it is a Rākṣasa. They drive it away by मायया (*māyayā*), by action or by wisdom, from the broad earth (भूमनः (*bhūmanaḥ*)) and from heaven; that is, they strike it down.
+
+### Printed p. 450
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पितुर्मातुः (*piturmātuḥ*)—from earth and heaven, the mother and father of the world
+- ये (*ye*)—which Soma-juices
+- अध्या (*adhyā*)—exceedingly
+- समस्वरन् (*samasvaran*)—were produced, they
+- ऋचा (*ṛcā*)—together with praises
+- शोचंतः (*śocaṃtaḥ*)—shining
+- अव्रतान् (*avratān*)—those without rites
+- संदहंतः (*saṃdahaṃtaḥ*)—burning
+- इंद्रद्विष्टां (*iṃdradviṣṭāṃ*)—disagreeable to Indra
+- असिक्नीं (*asiknīṃ*)—dark like night
+- त्वचं (*tvacaṃ*)—the Rākṣasa
+- मायया (*māyayā*)—by their wisdom
+- भूमनः (*bhūmanaḥ*)—from the earth
+- दिवस्परि (*divaspari*)—and from the world of heaven
+- अप धमंति (*apa dhamaṃti*)—drive away
+
+##### भावार्थ (Bhāvārtha)
+
+The Soma-juices that were produced exceedingly from earth and the world of heaven, the mother and father of the world, shine together with praises and burn those without rites, and by their wisdom they drive away from earth and from the world of heaven the dark Rākṣasa, who is like night and disagreeable to Indra.
+
+##### English translation
+(The rays) whieh were manifested in heaven and earth, illumined by the hymn (of praise), consuming the impious.(sacrificers), drive away by their wisdom from earth and heaven the black-skinned (Rakshsas) hated by Indra **NOTE**
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र॒त्नान्माना॒दध्या ये स॒मस्व॑रं॒छ्लोक॑यंत्रासो रभ॒सस्य॒ मंत॑वः ।  
+> अपा॑न॒क्षासो॑ बधि॒रा अ॑हासत ऋ॒तस्य॒ पंथां॒ न त॑रंति दु॒ष्कृतः॑ ॥ ६ ॥
+
+### Printed p. 451
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्रत्नात् । मानात् । अधि । आ । ये । सम्ऽअस्वरन् । श्लोकऽयंत्रासः । रभसस्य । मंतवः ।  
+> अप । अनक्षासः । बधिराः । अहासत । ऋतस्य । पंथाम् । न । तरंति । दुःऽकृतः ॥ ६ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> श्लोकयंत्रासः । श्लोकाः स्तुतयः। स्तुतिनियमनाः रभसस्य मंतवः वेगमभिमन्यमानाः एतादृशाः ये सोमरश्मयः प्रत्नात् पुराणात् मानात् अंतरिक्षात् अध्या समस्वरन् सह प्रादुर्भूता अभवन् तान्रश्मीन् अनक्षासः चक्षुर्वर्जिताः साधु पदार्थानामद्रष्टारो नराः बधिराः देवतास्तुतिश्रवणवर्जिताः पापकृतो नरश्च अप अहासत तान् परित्यजंति । दर्शिनः श्रवणवंतो मेधाविनस्तु न परिजहति किंतु स्तुवंति । तदेवाह । ऋतस्य सत्यस्य पंथां मार्गभूतमेषां गणं दुष्कृतः पापकृतो नराः न तरंति नोत्तारयंति । सुकृतस्तु तरंतीत्यभिप्रायः ॥
+
+##### Gist of the bhāṣya
+
+श्लोकयंत्रासः (*ślokayaṃtrāsaḥ*): ślokas are praises; those that regulate praises, and रभसस्य मंतवः (*rabhasasya maṃtavaḥ*), who regard speed, such are the rays of Soma that were manifested together (अध्या समस्वरन् (*adhyā samasvaran*)) from the ancient measure (मानात् (*mānāt*)), the atmosphere. Those rays are abandoned (अप अहासत (*apa ahāsata*)) by the eyeless (अनक्षासः (*anakṣāsaḥ*)), that is, men who do not see things rightly, and by the deaf (बधिराः (*badhirāḥ*)), men who are without hearing of the praise of the deities, doers of sin. But the seeing, the hearing, the wise do not abandon them; rather, they praise them. This he says: the evildoers (दुष्कृतः (*duṣkṛtaḥ*)), men who do sin, do not cross (न तरंति (*na taraṃti*)) the path of truth (ऋतस्य पंथां (*ṛtasya paṃthāṃ*)), that is, this host of rays that is the road; they do not carry them across. The intention is that the doers of good do cross.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- श्लोकयंत्रासः (*ślokayaṃtrāsaḥ*)—those who regulate praises
+- रभसस्य (*rabhasasya*)—to speed
+- मंतवः (*maṃtavaḥ*)—having a purpose
+- ये (*ye*)—which rays of Soma
+- प्रत्नात् (*pratnāt*)—from the ancient
+- मानात् अधि (*mānāt adhi*)—from the atmosphere, together
+- आ समस्वरन् (*ā samasvaran*)—such rays as were produced
+- अनक्षासः (*anakṣāsaḥ*)—those who have no power of seeing the best thing
+- बधिराः (*badhirāḥ*)—those who have no fitness to hear praise, the sinners
+- अपाहासत (*apāhāsata*)—mock and reject **NOTE**
+- ऋतस्य (*ṛtasya*)—of truth
+- पंथां (*paṃthāṃ*)—the path
+- दुष्टतः (*duṣṭataḥ*)—those who have sinful deeds **NOTE**
+- न तरंति (*na taraṃti*)—do not follow and cross
+
+##### भावार्थ (Bhāvārtha)
+
+The rays of Soma that regulate praises and have a purpose of speed, and that were produced together from the ancient atmosphere, are mocked and rejected by sinners who have no power of seeing the best thing and no fitness to hear praise. Those who have sinful deeds do not follow and cross the path of truth.
+
+##### English translation
+(The rays) which regulating praise and purposing celerity were manifested from the ancient firmament, them the blind and deaf avoid ; the wicked traverse not the path of truth.
+
+### Printed p. 452
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स॒हस्र॑धारे॒ वित॑ते प॒वित्र॒ आ वाचं॑ पुनंति क॒वयो॑ मनी॒षिणः॑ ।  
+> रु॒द्रास॑ एषामिषि॒रासो॑ अ॒द्रुह॒ स्पशः॒ स्वंचः॑ सु॒दृशो॑ नृ॒चक्ष॑सः ॥ ७ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सहस्रऽधारे । विऽतते । पवित्रे । आ । वाचम् । पुनंति । कवयः । मनीषिणः ।  
+> रुद्रासः । एषाम् । इषिरासः । अद्रुहः । स्पशः । सुऽअंचः । सुऽदृशः । नृऽचक्षसः ॥ ७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> कवयः क्रांतकर्माणः अत एव मनीषिणः प्राज्ञा ऋत्विजः सहस्रधारे अनेकधारोपेते वितते कर्मणि विस्तृते पवित्रे शुद्ध्युत्पादके सोमे वर्तमानां वाचं माध्यमिकाम् । सोमः खलु विश्वावसुप्रभृतिगंधर्वेष्वंतरिक्षेऽवतिष्ठते ' सोमो वै राजा गंधर्वेष्वासीत् ' ( ऐ. ब्रा.१.२७ ) इति श्रवणात् । तत्र वर्तमानं सोमं देवा गोरूपया वाचा क्रीतवंतः । तदा सोमे वाक्तिष्ठतीति शक्यते वक्तुम् । तस्मात्सोमे स्थितां माध्यमिकां वाचम् आ पुनंति संस्कुर्वंति । स्तुवंतीति यावत् । य उक्तगुणा मरुतां मातरं माध्यमिकां वाचं स्तुवंति तेषां रुद्रासः रुद्रपुत्रा मरुतः स्पशः मध्यमया वाचा वशिनो भवंति । कीदृशाः । इषिराः गमनशीलाः अद्रुहः स्तोतॄणामद्रोग्धारः । यद्वा । द्रुहेः कर्मणि क्विबौणादिकः । परैरहिंस्याः । स्वंचः शोभनांचनाः अत एव सुदृशः सुदर्शनाः नृचक्षसः नृणां कर्मनेतॄणां द्रष्टारः ॥
+
+##### Gist of the bhāṣya
+
+The sages (कवयः (*kavayaḥ*)), those of surpassing works, and therefore the wise (मनीषिणः (*manīṣiṇaḥ*)), the learned priests, purify the middle voice that is in Soma, who has a thousand streams (सहस्रधारे (*sahasradhāre*)), who is extended (वितते (*vitate*)) in the rite, and who is the producer of purity (पवित्रे (*pavitre*)). For Soma abides in the atmosphere among the Gandharvas headed by Viśvāvasu, since it is heard सोमो वै राजा गंधर्वेष्वासीत् (*somo vai rājā gaṃdharveṣvāsīt*) (Ai. Brā. 1.27). The gods bought Soma, who was there, with the voice in the form of a cow; so it can be said that the voice abides in Soma. Therefore they refine, that is, praise, the middle voice that abides in Soma. Of those who, having the said qualities, praise the middle voice, the mother of the Maruts, the Rudras (रुद्रासः (*rudrāsaḥ*)), the Maruts, sons of Rudra, become controlled (स्पशः (*spaśaḥ*)) by the middle voice. What are they like? इषिराः (*iṣirāḥ*), given to going; अद्रुहः (*adruhaḥ*), not injurers of the praisers; or else, not to be injured by others. स्वंचः (*svaṃcaḥ*), of beautiful movement (as Sāyaṇa glosses it); therefore सुदृशः (*sudṛśaḥ*), of good appearance; नृचक्षसः (*nṛcakṣasaḥ*), the beholders of men, the leaders of rites. **NOTE**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कवयः (*kavayaḥ*)—those of surpassing wisdom
+- मनीषिणि (*manīṣiṇi*)—and wise, the priests **NOTE**
+- सहस्रधारे (*sahasradhāre*)—that which has the form of many streams
+- वितते (*vitate*)—that which is extended
+- पवित्रे (*pavitre*)—that which causes purity
+- वाचं (*vācaṃ*)—the middle voice
+- आ पुनंति (*ā punaṃti*)—refine
+- इषिरासः (*iṣirāsaḥ*)—those who go constantly
+- अद्रुहः (*adruhaḥ*)—those who do no harm to the praisers
+- स्वंचः (*svaṃcaḥ*)—those who have excellent ornament
+- सुदृशः (*sudṛśaḥ*)—those who have excellent sight
+- नृचक्षसः (*nṛcakṣasaḥ*)—those who behold the deeds of men
+- एषां (*eṣāṃ*)—to these Soma-juices
+- रुद्रासः (*rudrāsaḥ*)—the Maruts
+- स्पृशः (*spṛśaḥ*)—are subject **NOTE**
+
+### Printed p. 453
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, of surpassing wisdom and wise, refine the middle voice that abides in Soma, who has the form of many streams, is extended and causes purity. The Maruts, who go constantly, do no harm to the praisers, have excellent ornament, have excellent sight and behold the deeds of men, are subject to these Soma-juices.
+
+##### English translation
+The intelligent sages extol the voice (of the firmament) in the purifying extended (Soma) with its thousand streams : the Rudras are their servants, swift-moving, inviolable, reverend, of goodly aspect, the beholders of men.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ऋ॒तस्य॑ गो॒पा न दभा॑य सु॒क्रतु॒स्त्री ष प॒वित्रा॑ हृ॒द्य१॒ं॑तरा द॑धे ।  
+> वि॒द्वान्स विश्वा॒ भुव॑ना॒भि प॑श्य॒त्यवाजु॑ष्टान्विध्यति क॒र्ते अ॑व्र॒तान् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ऋतस्य । गोपाः । न । दभाय । सुऽक्रतुः । त्री । सः । पवित्रा । हृदि । अंतः । आ । दधे ।  
+> विद्वान् । सः । विश्वा । भुवना । अभि । पश्यति । अव । अजुष्टान् । विध्यति । कर्ते । अव्रतान् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ऋतस्य सत्यभूतस्य यज्ञस्य गोपाः गोपायिता अत एव सुक्रतुः शोभनकर्मा सोमः न दभाय दंभाय स्तंभनाय न भवति । परैर्दंभयितुं न शक्यत इत्यर्थः । किंच सः सोमः त्री । ‘ शेश्छंदसि बहुलम्' इति लुक् । त्रीणि पवित्रा अग्निवायुसूर्यात्मकानि त्रीणि पवित्राणि हृद्यंतः हृदयस्यांतः आ दधे आदधाति । स्वस्मिन् संगमयतीत्यर्थः । अपि च विद्वान् सर्वं जानानः सः सोमः विश्वा भुवना सर्वाणि भुवनानि अभि पश्यति । ततः कर्ते । करोतेरौणादिकः तप्रत्ययः । कर्मणि अजुष्टान् अप्रियान् अत एव अव्रतान् अयजमानान् अव विध्यति अवाङ्मुखान् कृत्वा ताडयति । हिनस्तीति यावत् ॥
+
+##### Gist of the bhāṣya
+
+Soma, the guardian (गोपाः (*gopāḥ*)) of the true sacrifice, and therefore of fair works (सुक्रतुः (*sukratuḥ*)), is not for deceit, for harm or for stopping (न दभाय (*na dabhāya*)); the sense is that he cannot be harmed by others. Further, that Soma places within the heart the three purifiers (पवित्रा (*pavitrā*)), which are of the nature of Agni, Vāyu and Sūrya; that is, he brings them together in himself. Moreover, knowing all, he looks upon all the worlds. Then he strikes (अव विध्यति (*ava vidhyati*)) those who in the rite are disagreeable (अजुष्टान् (*ajuṣṭān*)) and therefore without rites (अव्रतान् (*avratān*)), the non-sacrificers, having made them face downward; that is, he harms them.
+
 ---
 
-**Progress note:** Done through printed p. 447. Sūkta 72 Ṛk 9 end; Sūkta 73 Ṛks 1-3
+**Progress note:** Done through printed p. 453. Sūkta 73 Ṛks 4-8 (Ṛk 8 bhāṣya)
