@@ -26675,6 +26675,222 @@ Flow for our immunity from defeat and slaughter, flow for our welfare, for the g
 
 Soma, being pressed, flows (पवते (*pavate*)), that is, runs into the vessels. Of what kind is he? He is the begetter (जनिता (*janitā*)) of thoughts (मतीनां (*matīnāṃ*)), of intellects, or else of praises worthy of thought. Further, he is the begetter of heaven (दिवो (*divo*)), that is, its manifester; and likewise of the earth (पृथिव्या (*pṛthivyā*)).
 
+### Printed p. 707
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> जनयिता अग्नेर्जनयिता प्रकाशयिता सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य जनिता इंद्रस्य
+> जनिता पानेन मदस्य जनयिता उतापि च विष्णोर्व्यापकस्य जनिता जनयिता। एतत्सर्वं
+> सोमेऽभिसूयमाणे भवतीति सोमो हि देवानाप्याययतीति ॥
+
+##### Gist of the bhāṣya
+
+He is the begetter (जनयिता (*janayitā*)) of Agni, that is, its illuminator; the begetter of Sūrya, the Āditya who impels all; the begetter of Indra, begetter of his exhilaration by drinking; and also the begetter of Viṣṇu, the all-pervading. All this happens when Soma is being pressed, for Soma nourishes the gods.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मतीनां (*matīnāṃ*)—to praises
+- जनिता (*janitā*)—the generator and
+- दिवः (*divaḥ*)—to the heaven
+- जनिता (*janitā*)—the generator and
+- पृथिव्याः (*pṛthivyāḥ*)—to the earth
+- जनिता (*janitā*)—the generator and
+- अग्नेः (*agneḥ*)—of Agni
+- जनिता (*janitā*)—the illuminator and
+- सूर्यस्य (*sūryasya*)—of Sūrya
+- जनिता (*janitā*)—the impeller and
+- इंद्रस्य (*iṃdrasya*)—of Indra
+- जनिता (*janitā*)—the generator and
+- उत (*uta*)—and
+- विष्णोः (*viṣṇoḥ*)—of Viṣṇu
+- जनिता (*janitā*)—the generator, who is
+- सोमः (*somaḥ*)—Soma
+- पवते (*pavate*)—flows
+
+##### भावार्थ (Bhāvārtha)
+
+Soma, the generator of praises, the maker of heaven and earth, the illuminator of Agni, the impeller of Sūrya, and the generator of Indra and Viṣṇu, flows.
+
+##### English translation
+The Soma flows the generator of praises, the generator of heaven, the generator of the earth, the generator of Agni, the generator of the sun, the generator of Indra and the generator of Vishnu.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> ब्र॒ह्मा दे॒वानां॑ पद॒वीः क॑वी॒नामृषि॒र्विप्रा॑णां महि॒षो  ॒॑
+> मृगाणां ।  
+> श्वे॒नो गृध्रा॑णां॒ स्वधि॑ति॒र्वना॑नां॒ सोमः॑ प॒वित्र॒मत्ये॑ति॒  ॑
+> रेभन् ॥ ६ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> ब्रह्मा । देवानां । पद्वीः । कवीनां । ऋषिः । विप्राणां । महिषः । मृगाणां ।  
+> श्येनः । गृध्राणां । स्वधितिः । वनानां । सोमः । पवित्रं । अति । एति । रेभन् ॥ ६ ॥
+
+### Printed p. 708
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> देवसुवां हविषु सोमस्य वनस्पतेर्ब्रह्मा देवानामिति याज्या । सूत्र्यते
+> च । त्वं च सोम नो वशो ब्रह्मा देवानां पदवीः कवीनां । आ. ४-११ । इति ॥
+> सोम एवंरूपो भवति । देवानां स्तोत्रकारिणामृत्विजां ब्रह्मा ब्रह्माख्यर्त्विक्ष्वा नीयो भवति । यद्वा । देवानां द्योतमानानामिंद्रादीनां ब्रह्मा राजा
+> भवति । तथा कवीनां क्रांतप्रज्ञानां पदवीः । स्थलंति पदानि साधुत्वेन यो योजयति स पदवीः ॥ वी गत्यादिष्ठित्येतस्मात्कृषि रूपं ॥ तथा विप्राणां मेधाविनां मध्य
+> ऋषिर्भवति । यः परोक्षं पश्यति स ऋषिः ऋषिर्दर्शनात् । नि. २-११ । इति । मृगाणां
+> महिषो भवति । महिषाख्यो बलवान्राजा भवति । तथा गृध्राणां पक्षिविशेषाणां
+> श्येनः शंसनीयः पक्षिराजो भवति । वनानां । वनतिर्हिंसाकर्मा । हिंसकानां
+> भेदकानां मध्यॆ स्वधितिरेतन्नामकश्चेदकोऽसि । एवंप्रभावः सोमो रेभञ्चायमानः सन् पवित्रमूर्णास्तुकेन कृतमत्येति । अतिगच्छति ॥
+
+##### Gist of the bhāṣya
+
+In the oblations of the Devasuvaḥ, in the one to Soma Vanaspati, ब्रह्मा देवानां (*brahmā devānāṃ*) is the yājyā. And it is stated in the sūtra: त्वं च सोम नो वशो ब्रह्मा देवानां पदवीः कवीनां (*tvaṃ ca soma no vaśo brahmā devānāṃ padavīḥ kavīnāṃ*) (Ā. 4-11). Soma is of such a nature: for the gods (देवानां (*devānāṃ*)), the priests who perform the praise, he is Brahmā, the priest of that name, who is to be honoured **NOTE**; or else, among the shining gods, Indra and the others, he is Brahmā, the king. Likewise he is the पदवीः (*padavīḥ*) of the poets (कवीनां (*kavīnāṃ*)), those of far-reaching wisdom: one who joins words correctly. Among the wise (विप्राणां (*viprāṇāṃ*)), the intelligent, he is the seer (ऋषिः (*ṛṣiḥ*)): यः परोक्षं पश्यति स ऋषिः ऋषिर्दर्शनात् (*yaḥ parokṣaṃ paśyati sa ṛṣiḥ ṛṣirdarśanāt*) (Ni. 2-11). Among animals (मृगाणां (*mṛgāṇāṃ*)) he is the buffalo (महिषः (*mahiṣaḥ*)), the mighty king so named. Likewise, among vultures (गृध्राणां (*gṛdhrāṇāṃ*)), a species of birds, he is the falcon (श्येनः (*śyenaḥ*)), the praiseworthy king of birds. Among the वनानां (*vanānāṃ*), the word वनति (*vanati*) having the sense of injuring, that is, among the injurers and cutters, you are the cutter named स्वधितिः (*svadhitiḥ*). Soma, of such power, roaring (रेभन् (*rebhan*)), passes beyond (अत्येति (*atyeti*)) the filter (पवित्रं (*pavitraṃ*)) made of a tuft of wool.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देवानां (*devānāṃ*)—to the gods
+- ब्रह्मा (*brahmā*)—the one in the form of the priest
+- कवीनां (*kavīnāṃ*)—to the poets
+- पदवीः (*padavīḥ*)—the guide
+- विप्राणां (*viprāṇāṃ*)—among the wise
+- ऋषिः (*ṛṣiḥ*)—the one possessed of excellent supersensuous power
+- मृगाणां (*mṛgāṇāṃ*)—among beasts
+- महिषः (*mahiṣaḥ*)—the king in the form of a buffalo
+- गृध्राणां (*gṛdhrāṇāṃ*)—in the flock of vultures
+- श्येनः (*śyenaḥ*)—the falcon
+- वनानां (*vanānāṃ*)—among the injurers
+- स्वधितिः (*svadhitiḥ*)—the cutter called Svadhiti, who is
+- सोमः (*somaḥ*)—Soma-deva
+- रेभन् (*rebhan*)—making a sound
+- पवित्रं (*pavitraṃ*)—the daśāpavitra
+- अत्येति (*atyeti*)—goes across
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, who is for the gods the priest called Brahmā, for the poets the guide, among the wise one of excellent supersensuous power, among beasts the king in the form of a buffalo, in the flock of vultures the falcon, and among the injurers the cutter called Svadhiti (the sword), goes across the daśāpavitra, making a sound.
+
+##### English translation
+The Brahma of the gods, the guide of the sages, the rishi of the pious, the buffalo of wild animals, the falcon of the vultures, the hatchet of deadly weapons, the Soma passes through the filter with a roar.
+
+### Printed p. 709
+
+##### विशेषविषयगळु (Special Topics)
+
+When the oblation is made, in the eight homas called Devasuva, to the deity named Soma Vanaspati, this Ṛk ब्रह्मा देवानां (*brahmā devānāṃ*) is to be recited as the yājyā mantra; this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra त्वं च सोम नो वशो ब्रह्मा देवानां पदवीः कवीनां (*tvaṃ ca soma no vaśo brahmā devānāṃ padavīḥ kavīnāṃ*) (Ā. 4-11). In this Ṛk, to describe the great nature of Soma-deva, he is compared with many persons.
+
+ब्रह्मा देवानां (*brahmā devānāṃ*)—स्तोत्रकारिणामृत्विजां ब्रह्माख्यर्तिक्षानीयो भवति । (*stotrakāriṇāmṛtvijāṃ brahmākhyartikṣānīyo bhavati |*) In a sacrifice there are many priests, such as the Hotṛ, the Adhvaryu and the Udgātṛ. All these perform the duties assigned to them. They have knowledge only in the work that they do; they have no acquaintance with the work of others. For example, the Hotṛ recites the mantras of the Ṛgveda and invokes the deity assigned in the sacrifice; afterwards he praises them and recites the mantras by which oblations and the like are offered to them in the fire: this is his chief function. The Adhvaryu directs by the Praiṣa mantras what work each priest must do at each time, and also takes part in the ancillary rites of the sacrifice, such as pressing the Soma and churning the fire. The mantras that the Adhvaryu must recite are also many. In the same way the Udgātṛ sings the Sāma mantras. The other priests too have many duties to perform. But neither may the Adhvaryu do the work of the Hotṛ, nor the Hotṛ the work of the Adhvaryu. It is the same with the other priests. The Adhvaryu must have studied the Yajurveda, and the Udgātṛ the Sāmaveda. But the priest called Brahman must know well all the ancillary rites of the sacrifice, the duties the other priests have to perform, and the mantras. It is the Brahman's responsibility to see whether the other priests recite the mantras correctly and carry out their duties correctly, without omission or fault. If omissions or faults occur in the sacrifice, the Brahman himself must prescribe the proper expiations and set right those omissions and faults. Therefore the Brahman's duty in the sacrifice is of great importance. For this very reason the glory of Soma is described here as follows: among the priests the Brahman is the foremost, and Soma is the equal of such a Brahman. In the same way the seer has described the glory of Soma-deva by explaining other comparisons.
+
+पदवीः कवीनां (*padavīḥ kavīnāṃ*)—कवीनां क्रांतप्रज्ञानां । स्थलंति पदानि साधुत्वेन यो योजयति स पदवीः । (*kavīnāṃ krāṃtaprajñānāṃ | sthalaṃti padāni sādhutvena yo yojayati sa padavīḥ |*) In praising the gods, according to the occasion, by the joining of words that describe the qualities and the like of the
+
+### Printed p. 710
+
+gods, one who composes sentences in due order and recites them, and is the best among those who do so: such a person is compared with Soma-deva.
+
+विप्राणां ऋषिः (*viprāṇāṃ ṛṣiḥ*)—As among men of wisdom the seer who sees beyond is the best, so Soma-deva is the best among the gods. As to the seer: यः परोक्षं पश्यति स ऋषिः । ऋषिर्दर्शनात् (*yaḥ parokṣaṃ paśyati sa ṛṣiḥ | ṛṣirdarśanāt*) (Ni. 2 11). Ordinary people can see and know only the matters and things that are before their eyes. But the seer can know matters that are not before him, and matters that happened or will happen in the past and future times. For this very reason the seer is said to be better than other intelligent men, and Soma is compared with such a seer.
+
+महिषो मृगाणां (*mahiṣo mṛgāṇāṃ*)—The word mahiṣa has two meanings. Mahiṣa means the wild buffalo. Among all beasts the wild buffalo is the strongest and charges forward with courage. Therefore the buffalo has pre-eminence among beasts; or else, since the word mahiṣa has the meaning "mighty and venerable" (mahiṣaḥ = mahān), Soma is a giver of strength and venerable, like a king who is mighty and venerable.
+
+श्येनो गृध्राणां (*śyeno gṛdhrāṇāṃ*)—Among the species of birds called gṛdhra (strong birds such as the kite), he is like the falcon. It is renowned that the falcon, by its excessive power, flew to the heavenly world and brought the Soma plants there to the earth. Therefore the falcon is regarded as the best among all birds. Soma-deva is equal to such a falcon.
+
+स्वधितिर्वनानां (*svadhitirvanānāṃ*)—वनतिर्हिंसाकर्मा । हिंसकानां भेदकानां मध्ये स्वधितिः एतन्नामकश्चेदकोऽसि । (*vanatirhiṃsākarmā | hiṃsakānāṃ bhedakānāṃ madhye svadhitiḥ etannāmakaścedako 'si |*) Svadhiti means a cutting weapon. It is used in sacrifices and the like to cut animals for the oblation. As the sword called svadhiti is the best among acts of injury, so Soma is the best among other things. The seer describes that Soma, so excellent and venerable, flows with a gurgling sound and enters the vessel called the daśāpavitra, placed for straining.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्रावी॑विपद्वा॒च ऊ॒र्मिं न सिंधु॒र्गिरः॒ सोमः॒ पव॑मानो  ॒
+> मनीषाः ।  
+> अं॒तः पश्य॑न्व्र॒जने॒माव॑रा॒ण्या ति॑ष्ठति वृष॒भो गोषु॑ जा॒नन् ॥
+
+### Printed p. 711
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । अवीविपत् । वाचः । ऊर्मिं । न । सिंधुः । गिरः । सोमः । पवमानः । मनीषाः ।  
+> अंतरिति । पश्यन् । वृजना । इमा । अवराणि । आ । तिष्ठति । वृषभः । गोषु । जानन्॥७॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमानः सोमो मनीषा मनस ईशिता हृदयंगमा गिरः स्तुतीः प्रावीविपत् । प्रकर्षण वेपयति । प्रेरयति । कथमिव । सिंधुः स्यंदमाना नदीव वाचः
+> शब्दस्योर्मिं न संघं यथा प्रेरयति । तद्वत् । किंच वृषभः कामानामुदकानां
+> ना वर्षकः सोमोऽंतरंतर्हितं वस्तुजातं पश्यन्नवराणि दुर्बलैर्वारयितुमशक्यानीमा वृजनेमानि बलान्या तिष्ठति । आसीदति । किं कुर्वन् । गोषु जानन् गवां
+> जानानः सन् परबलानि प्रविशति ॥
+
+##### Gist of the bhāṣya
+
+Pavamāna Soma sets in motion (प्रावीविपत् (*prāvīvipat*)) the praises (गिरः (*giraḥ*)), the मनीषा (*manīṣā*), that is, those that rule over the mind and go to the heart: he shakes them forcefully, he impels them. How? As a river (सिंधुः (*siṃdhuḥ*)), a flowing stream, impels the wave (ऊर्मिं (*ūrmiṃ*)) of sound (वाचः (*vācaḥ*)), the mass of it; so does he. Further, the showerer (वृषभः (*vṛṣabhaḥ*)), the one who rains the desired waters, Soma, seeing within (अंतः (*aṃtaḥ*)) the hidden mass of things, takes his place (आ तिष्ठति (*ā tiṣṭhati*)), sits down, upon these (इमा (*imā*)) lower (अवराणि (*avarāṇi*)) powers (वृजना (*vṛjanā*)), forces that the weak cannot ward off. Doing what? Knowing (जानन् (*jānan*)) the cows (गोषु (*goṣu*)), he enters the forces of others.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सिंधुः (*siṃdhuḥ*)—the flowing river
+- वाचः (*vācaḥ*)—of sound
+- ऊर्मिं न (*ūrmiṃ na*)—as raising waves
+- पवमानः (*pavamānaḥ*)—called Pavamāna
+- सोमः (*somaḥ*)—Soma-deva
+- मनीषाः (*manīṣāḥ*)—heart-pleasing
+- गिरः (*giraḥ*)—praises
+- प्रावीविपत् (*prāvīvipat*)—impels
+- वृषभः (*vṛṣabhaḥ*)—Soma, the showerer of desires
+- अंतः (*aṃtaḥ*)—the things hidden secretly
+- पश्यन् (*paśyan*)—seeing
+- गोषु (*goṣu*)—the matter of the cows
+- जानन् (*jānan*)—having fully known
+- अवराणि (*avarāṇi*)—unobstructed by the weak
+- इमा वृजना (*imā vṛjanā*)—to all powers
+- आ तिष्ठति (*ā tiṣṭhati*)—takes the chief place
+
+##### भावार्थ (Bhāvārtha)
+
+As a flowing river raises waves of sound, so Soma-deva, called Pavamāna, impels heart-pleasing praises. Soma, the showerer of desires, seeing the things hidden secretly, and having fully known the matter of the cows, takes the chief place over all the powers that the weak cannot obstruct.
+
+##### English translation
+The purified Soma excites gratifying praises as a river (excites) the wave of sound ; the showerer (of benefits) beholding the hidden (treasure) presides over these irresistible powers, knowing about the cattle.
+
+### Printed p. 712
+
+##### विशेषविषयगळु (Special Topics)
+
+सिंधुः ऊर्मिं न पवमानः सोमः गिरः प्र अवीविपत् (*siṃdhuḥ ūrmiṃ na pavamānaḥ somaḥ giraḥ pra avīvipat*)—As a flowing river raises waves by the speed of its current and makes a sound, so Pavamāna Soma impels the priests who have drunk Soma to recite sentences in the form of praise; that is, the priests, delighted by drinking Soma, will praise the gods with zeal: this is the meaning.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> स म॑त्स॒रः । पृ॒त्सु व॒न्वन्नवा॑तः स॒हस्र॑रेता अ॒भि वाज॑मर्ष ।  
+> इंद्रा॑येंदो॒ पव॑मानो मनी॒ष्यं१॒॑ १ शोरू॒र्मिमी॑रय॒  ॒॑
+> गा इषण्यन् ॥ ८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> सः । मत्सरः । पृत्सु । वन्वन् । अवातः । सहस्ररेताः । अभि । वाजं । अर्ष ।  
+> इंद्राय । इंदोइति । पवमानः । मनीषी । अंशोः । ऊर्मिं । ईरय । गाः ।  
+> इषण्यन् ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मत्सरो मदकरः पृत्सु संग्रामेषु वन्वञ्छत्रून् हिंसन् अत एवावातोऽनैर्गंतुमशक्यः सहस्ररेताः सहस्रोदकधारोपेतः स सोमो वाजं शत्रूणां
+> बलमभ्यर्ष । अभिगच्छ । हे इंदो सोम पवमानः पूयमानो मनीषी
+> प्राज्ञस्त्वं गा इषण्यञ्छब्यान्प्रेरयन् । यद्वा । यजमानानां यज्ञसाधनभूता
+> गाः प्रेरयन् । इंद्रायेंद्रार्थमंशोरभिषूयमाणस्य सोमस्योर्मिं
+> संघमीरय । प्रेरय ॥
+
+##### Gist of the bhāṣya
+
+Soma is intoxicating (मत्सरः (*matsaraḥ*)). In battles (पृत्सु (*pṛtsu*)) he injures (वन्वन् (*vanvan*)) the enemies, and hence is unapproachable (अवातः (*avātaḥ*)), one that others cannot go against; he has a thousand streams of water (सहस्ररेताः (*sahasraretāḥ*)). Such a Soma, go towards (अभ्यर्ष (*abhyarṣa*)) the strength (वाजं (*vājaṃ*)) of the enemies. O Indu, O Soma, being purified (पवमानः (*pavamānaḥ*)), you the wise (मनीषी (*manīṣī*)), impelling the cows (गा इषण्यन् (*gā iṣaṇyan*)), an unclear word **NOTE**; or else impelling the cows that are the means of the sacrifice for the sacrificers: for Indra, that is, for Indra's sake, impel (ईरय (*īraya*)) the wave (ऊर्मिं (*ūrmiṃ*)), the mass, of the Soma shoot (अंशोः (*aṃśoḥ*)) that is being pressed.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मत्सरः (*matsaraḥ*)—(O Soma) the intoxicating
+- पृत्सु (*pṛtsu*)—in battles
+- वन्वन् (*vanvan*)—injuring the enemies, and
+- अवातः (*avātaḥ*)—he who alone is unharmed
+- सहस्ररेताः (*sahasraretāḥ*)—having streams of many kinds
+- सः (*saḥ*)—you, the renowned
+- वाजं (*vājaṃ*)—confronting the strength of the enemies
+- अभ्यर्ष (*abhyarṣa*)—advance
+- इंदो (*iṃdo*)—O Soma-deva
+- पवमानः (*pavamānaḥ*)—you the purifier
+- मनीषी (*manīṣī*)—
+
 ---
 
-**Progress note:** Done through printed p. 706. Sūkta 96 (Maṇḍala 9), Ṛks 1-4 and start of 5, pp. 701-706
+**Progress note:** Done through printed p. 712. Sūkta 96 Ṛks 5 (end)-8 (start), pp. 707-712
