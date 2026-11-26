@@ -7541,6 +7541,273 @@ To you my desire hastens, seeking barley, cows and gold-to you it hastens seekin
 > तव । इत् । इंद्र । अहम् । आऽशसा । हस्ते । दात्रम् । चन । आ । ददे ।  
 > दिनस्य । वा । मघऽवन् । सम्ऽभृतस्य । वा । पूर्धि । यवस्य । काशिना ॥ १० ॥
 
+### Printed p. 187
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे इंद्र तवेत् तवैव आशसा आशंसनेन त्वमस्मदीयं क्षेत्रं यवसमृद्धं करोषीत्याशंसनेन हस्ते दात्रं चन लवनसाधनं दात्रमपि आ ददे स्वीकरोमि । किमनेन प्रयासेन । दिनस्य वा पूर्वमेव छिन्नस्य वा यवस्य संभृतस्य वा पूर्वमेव छित्त्वा निष्कृतस्य राशीकृतस्य वा यवस्य काशिना मुष्टिना पूर्धि पूरय । आशंसनं देहि च ॥ ॥ ३२ ॥
+
+##### Gist of the bhāṣya
+
+O Indra, with this prayer of mine to you alone (आशसा (*āśasā*)), the prayer that you make our field rich in barley, I take in my hand even the sickle (दात्रं (*dātraṃ*)), the tool for reaping. Of what use is this toil? Fill (पूर्धि (*pūrdhi*)) with a handful (काशिना (*kāśinā*)) of barley that has been cut beforehand, or that has been cut and gathered and piled up beforehand; and grant the prayer.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मघवन् (*maghavan*)—O wealthy
+- इंद्र (*iṃdra*)—Indra
+- तव आशसा इत् (*tava āśasā it*)—only in the hope of your help
+- अहं (*ahaṃ*)—I
+- हस्ते (*haste*)—in my hand
+- दात्रं चन (*dātraṃ cana*)—the sickle, the tool for cutting barley
+- आ ददे (*ā dade*)—I take in my hand
+- दिनस्य वा (*dinasya vā*)—even if it was cut before I reap
+- वा (*vā*)—or
+- सुभृतस्य (*subhṛtasya*)—even if piled up beforehand, such
+- यवस्य (*yavasya*)—filled with barley grain
+- काशिना (*kāśinā*)—with a handful
+- पूर्धि (*pūrdhi*)—fulfil my desire
+
+##### भावार्थ (Bhāvārtha)
+
+O wealthy Indra, only in the hope of your help I take in my hand the sickle, the tool for cutting barley. Even if the barley was cut before I reap, or piled up beforehand, fulfil my desire with a handful filled with such barley.
+
+##### English translation
+I take my sickle also in hand, Indra, with a prayer to you ; fill it, Maghavan, with a handful of barley already cut or piled.
+
+## Sūkta 79 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘ अयं कृत्नुः' इति नवर्चं दशमं सूक्तम् । अत्रेयमनुक्रमणिका - अयं कृत्नुर्नव कृत्नुर्भार्गवः सौम्यमंत्यानुष्टुप् ' इति । भार्गवः कृत्नुर्ऋषिः । नवम्यनुष्टुप् । अष्टौ गायत्र्यः । सोमो देवता । विनियोगो लैंगिकः ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning अयं कृत्नुः (*ayaṃ kṛtnuḥ*) has nine Ṛks and is the tenth sūkta. The seer is Kṛtnu Bhārgava, as the Anukramaṇikā states; the ninth Ṛk is in Anuṣṭubh metre and the eight others are Gāyatrī. The deity is Soma. The use (viniyoga) is by indication (laiṅgika).
+
+### Printed p. 188
+
+This sūkta, beginning अयं कृत्नुः (*ayaṃ kṛtnuḥ*), is the tenth sūkta in the eighth Anuvāka. It has nine Ṛks. The seer of this sūkta is Bhārgava Kṛtnu; in the Anukramaṇikā it is said that he is the seer, with the deity Soma and the last Ṛk in Anuṣṭubh. Soma is the deity; the ninth Ṛk of this sūkta is in Anuṣṭubh metre, and the remaining Ṛks are in Gāyatrī metre. The use of the sūkta is by indication.
+
+Sūkta 79
+
+Maṇḍala 8, Anuvāka 8, Sūkta 79
+
+Aṣṭaka 6, Adhyāya 5 **NOTE**, Varga 33, 34
+
+Number of Ṛks in the sūkta: 9
+
+Seer: Kṛtnu Bhārgava
+
+Deity: Agni **NOTE**
+
+Metre: Ṛks 1-8 Gāyatrī; Ṛk 9 Anuṣṭubh
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒यं कृ॒त्नुरगृ॑भीतो विश्व॒जिदु॒द्भिदित्सोमः॑ ।  
+> ऋषि॒र्विप्रः॒ काव्ये॑न ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अयम् । कृत्नुः । अगृभीतः । विश्वऽजित् । उत्ऽभित् । इत् । सोमः ।  
+> ऋषिः । विप्रः । काव्येन ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः कृत्नुः कर्ता सर्वस्य अगृभीतः अन्यैरगृहीतः विश्वजित् सर्वस्य जेता उद्भित् फलस्योद्भेदकः । अथवा विश्वजिदुद्भिदौ सोमयागौ। तयोर्निष्पादकत्वात्तद्रूपः । ऋषिः ज्ञानवान् विप्रः मेधावी विप्रवत् पूज्यो विशेषेण पूरको वा । एवंमहानुभावः सोमः काव्येन स्तोत्रेण स्तुत्यो भवतीति शेषः ॥
+
+##### Gist of the bhāṣya
+
+This Soma is the maker (कृत्नुः (*kṛtnuḥ*)) of everything; he is not seized (अगृभीतः (*agṛbhītaḥ*)) by others; he is the conqueror of all (विश्वजित् (*viśvajit*)); he is the one who breaks forth with the fruit (उद्भित् (*udbhit*)). Or else: विश्वजित् (*viśvajit*) and उद्भित् (*udbhit*) are two Soma sacrifices, and because he accomplishes them he has their form. He is a seer (ऋषिः (*ṛṣiḥ*)), one who has knowledge; विप्रः (*vipraḥ*), one who is intelligent, worthy of worship like a learned priest, or one who especially fulfils. Soma of such greatness is to be praised with a hymn (काव्येन (*kāvyena*)); this is what is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- कृत्नुः (*kṛtnuḥ*)—the doer of all actions
+- अगृभीतः (*agṛbhītaḥ*)—who is not caught by others
+- विश्वजित् (*viśvajit*)—who conquers everything
+- उद्भित् (*udbhit*)—the producer of fruit
+- ऋषिः (*ṛṣiḥ*)—the wise one
+
+### Printed p. 189
+
+- विप्रः (*vipraḥ*)—and the intelligent one
+- अयं सोम इत् (*ayaṃ soma it*)—this Soma
+- काव्येन (*kāvyena*)—is praised by a hymn alone
+
+##### भावार्थ (Bhāvārtha)
+
+This god Soma, the doer of all actions, who is not caught by others, who conquers everything, the producer of fruit, the wise and intelligent one, is praised by a hymn alone.
+
+##### English translation
+This all-creating Soma, obstructed by none, the conqueror of all, the producer of fruit, the seer, the wise, (is to be praised) with a hymn.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒भ्यू॑र्णोति॒ यन्न॒ग्नं भि॒षक्ति॒ विश्वं॒ यत्तु॒रम् ।  
+> प्रेमं॒धः ख्य॒न्निः श्रो॒णो भू॑त् ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अभि । ऊर्णोति । यत् । नग्नम् । भिषक्ति । विश्वम् । यत् । तुरम् ।  
+> प्र । ईम् । अंधः । ख्यत् । निः । श्रोणः । भूत् ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अयं सोमः यन्नग्नम् अस्ति तत् अभ्यूर्णोति आच्छादयति । यन्नग्नमिव विफलं वर्तते तदाच्छादयति फलेन । अथवा वस्त्रं जनयन्नाच्छादयति । तथा यत् तुरम् आतुरं रुग्णं विश्वं तत् भिषक्ति भिषज्यति। यज्ञद्वारा स्वर्गसाधनेनौषधरूपेण च शरीरसिद्धिसाधनश्च । अंधः सन् अंधोऽपि प्र ख्यत् पश्यति । श्रोणः अपि पंगुरपि निः भूत् निर्भवति निर्गच्छति ॥
+
+##### Gist of the bhāṣya
+
+This Soma covers (अभ्यूर्णोति (*abhyūrṇoti*)) whatever is naked; that is, whatever remains fruitless, as if naked, he covers with fruit; or else, producing cloth, he covers it. Likewise whatever is afflicted (तुरम् (*turam*)), that is, sick, all that he heals (भिषक्ति (*bhiṣakti*)), through the sacrifice as the means of heaven and in the form of medicine as the means of the perfection of the body. The blind man sees (प्र ख्यत् (*pra khyat*)); the lame man too comes forth (निः भूत् (*niḥ bhūt*)), goes out.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- यत् (*yat*)—whatever thing
+- नग्नं (*nagnaṃ*)—is without covering, that
+- अयं (*ayaṃ*)—this god Soma
+- अभ्यूर्णोति (*abhyūrṇoti*)—covers with a covering
+- यत् (*yat*)—whatever
+- तुरं (*turaṃ*)—is afflicted with disease
+- विश्वं (*viśvaṃ*)—all that
+- भिषक्ति (*bhiṣakti*)—he cures with medicine
+- अंधः सन् (*aṃdhaḥ san*)—though blind
+- प्र ख्यत् (*pra khyat*)—sees especially
+- श्रोणः (*śroṇaḥ*)—though lame
+- निः भूत् (*niḥ bhūt*)—moves about
+
+### Printed p. 190
+
+##### भावार्थ (Bhāvārtha)
+
+Whatever thing is without covering, this god Soma covers with a covering. Whatever is afflicted with disease, all that he cures with medicine. Though blind, he sees especially. Though lame, he moves about.
+
+##### English translation
+He covers what is naked, he heals all that is sick, the blind sees, the lame walks.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्यः ।  
+> उ॒रु यं॒तासि॒ वरू॑थम् ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । तनूकृत्ऽभ्यः । द्वेषःऽभ्यः । अन्यऽकृतेभ्यः ।  
+> उरु । यंता । असि । वरूथम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं तनूकृद्यःकृ कृशीकुर्वद्भ्यः । अथवांगानां विच्छेदकेभ्यः अन्यकृतेभ्यः द्वेषोभ्यः शत्रुकृतेभ्योऽप्रियेभ्यः । कृत्याभ्य इत्यर्थः । वरूथं वरकं रक्षणम् उरु यंतासि भवसि स्तोतॄणाम्। 'अन्यकृतानि हि रक्षांसि ' इति ब्राह्मणम् ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are for us a wide (उरु (*uru*)) protector (वरूथं (*varūthaṃ*), a choice protection) of the singers, against the hostile ones (द्वेषोभ्यः (*dveṣobhyaḥ*)), that is, the unpleasant things done by enemies, the sorceries, which make thin (तनूकृद्भ्यः (*tanūkṛdbhyaḥ*)) or, as an alternative, which cut off the limbs, and which are made by others (अन्यकृतेभ्यः (*anyakṛtebhyaḥ*)). He cites the Brāhmaṇa: अन्यकृतानि हि रक्षांसि (*anyakṛtāni hi rakṣāṃsi*) **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O god Soma
+- त्वं (*tvaṃ*)—you
+- तनूकृद्भ्यः (*tanūkṛdbhyaḥ*)—who injure our body and make it thin
+- अन्यकृतेभ्यः (*anyakṛtebhyaḥ*)—and are of demon form
+- द्वेषोभ्यः (*dveṣobhyaḥ*)—from the harm of enemies
+- उरु (*uru*)—abundantly
+- वरूथं (*varūthaṃ*)—as the giver of protection
+- यंतासि (*yaṃtāsi*)—you become
+
+##### भावार्थ (Bhāvārtha)
+
+O god Soma, you give us abundant protection against the harm of enemies who injure our body and make it thin, and who are of demon form.
+
+### Printed p. 191
+
+##### English translation
+Soma, you offer us a wide shelter from the wasting enmities wrought by our foes.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं चि॒त्ती तव॒ दक्षै॑र्दि॒व आ पृ॑थि॒व्या ऋ॑जीषिन् ।  
+> यावी॑र॒घस्य॑ चि॒द्द्वेषः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । चित्ती । तव । दक्षैः । दिवः । आ । पृथिव्याः । ऋजीषिन् ।  
+> यावीः । अघस्य । चित् । द्वेषः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे ऋजीषिन् तृतीयसवनगतेनर्जीषेण तद्वन् सोम त्वं तव चित्ती चित्त्या प्रज्ञया दक्षैः बलैश्च दिव आ दिवश्च । आ इति चार्थे । पृथिव्याः आ पृथिव्याश्च सकाशात् अघस्य चित् अस्माकमाहंतुरपि द्वेषः शत्रोः कृत्यां यावीः पृथक्कुरु ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you who have the Ṛjīṣa belonging to the third pressing (ऋजीषिन् (*ṛjīṣin*)): by your wisdom (चित्ती (*cittī*)) and by your powers (दक्षैः (*dakṣaiḥ*)), from heaven and from earth, put apart (यावीः (*yāvīḥ*)) separately the sorcery of the enemy, even of one who strikes us (अघस्य चित् (*aghasya cit*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- ऋजीषिन् (*ṛjīṣin*)—O Indra, possessor of the Soma called Ṛjīṣa **NOTE**
+- त्वं (*tvaṃ*)—you
+- तव (*tava*)—your
+- चित्ती (*cittī*)—by wisdom
+- दक्षैः (*dakṣaiḥ*)—and by powers
+- दिव आ (*diva ā*)—those in the world of heaven
+- पृथिव्याः (*pṛthivyāḥ*)—those on the earth
+- अघस्य चित् (*aghasya cit*)—and those who wish us harm
+- द्वेषः (*dveṣaḥ*)—the sinful deed of the enemies
+- यावीः (*yāvīḥ*)—make it not cling to us
+
+##### भावार्थ (Bhāvārtha)
+
+O Indra, possessor of the Soma called Ṛjīṣa, by your wisdom and by your powers make the sinful deed of the enemies, those in the world of heaven, those on the earth, and those who wish us harm, not cling to us.
+
+##### English translation
+O Rijishin, by your wisdom and might, drive away the enmity of our oppressor from the heaven and the earth.
+
+### Printed p. 192
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒र्थिनो॒ यंति॒ चेदर्थं॒ गच्छा॒निद्द॒दुषो॑ रा॒तिम् ।  
+> व॒वृ॒ज्युस्तृष्य॑तः॒ काम॑म् ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अर्थिनः । यंति । च । इत् । अर्थम् । गच्छान् । इत् । ददुषः । रातिम् ।  
+> ववृज्युः । तृष्यतः । कामम् ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अर्थिनः धनानि कामयमानाः यंति चेत् यंति च अर्थं प्रति । गत्वा च ददुषः दातुः रातिं दानं गच्छानित् गच्छंति च । गतेषु मध्ये यं हे सोम त्वमनुगृह्णासि तस्य तृष्यतः भिक्षमाणस्य कामं ववृज्युः । पुनः कामानावर्जयंति । तावत्पर्यंतं पूरयंतीत्यर्थः ॥ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+Seekers (अर्थिनः (*arthinaḥ*)), desiring wealth, go toward wealth (अर्थं (*arthaṃ*)), and having gone they go to the gift (रातिं (*rātiṃ*)) of the giver (ददुषः (*daduṣaḥ*)). Among those who have gone, the one whom you, O Soma, favour, the desire (कामं (*kāmaṃ*)) of that thirsty (तृष्यतः (*tṛṣyataḥ*)), begging man they fulfil (ववृज्युः (*vavṛjyuḥ*)); again they satisfy his desires. The meaning is that they fulfil it up to that extent.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अर्थिनः (*arthinaḥ*)—those who desire wealth
+- अर्थं च इत् (*arthaṃ ca it*)—desiring wealth itself
+- यंति (*yaṃti*)—go searching for it
+- ददुषः (*daduṣaḥ*)—of the generous man
+- रातिं (*rātiṃ*)—expecting the gift
+- गच्छानित् (*gacchānit*)—they go (O Soma)
+- तृष्यते (*tṛṣyate*)—of the petitioner who among these has obtained your favour
+- कामं (*kāmaṃ*)—the desired object
+- ववृज्यः (*vavṛjyaḥ*)—they fill up
+
+##### भावार्थ (Bhāvārtha)
+
+Those who desire wealth, desiring wealth itself, go searching for it. They go expecting the gift of the generous man. O Soma, among these they fulfil the desired object of the petitioner who has obtained your favour.
+
+##### English translation
+The petitioners seek for wealth, they attend the bounty of the liberal ; (by you) men pour out the desire of the thirsty.
+
 ---
 
-**Progress note:** Done through printed p. 186. Maṇḍala 8 sūkta 78 Ṛks 3-10 (pp. 181-186)
+**Progress note:** Done through printed p. 192. Maṇḍala 8 sūkta 78 end, sūkta 79 Ṛks 1-5 (pp. 187-192)
