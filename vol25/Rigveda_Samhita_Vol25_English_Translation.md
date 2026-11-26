@@ -3874,6 +3874,269 @@ O deities Mitra and Varuṇa, when the sun has risen I accept the Soma. That is 
 ##### English translation
 Mitra and Varuna, I take the Soma when the sun is risen ; it is medicine to the sick ;
 
+### Printed p. 97
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उ॒तो न्व॑स्य॒ यत्प॒दं ह॑र्य॒तस्य॑ निधा॒न्य॑म् ।  
+> परि॒ द्यां जि॒ह्वया॑तनत् ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उतो इति । नु । अस्य । यत् । पदम् । हर्यतस्य । निऽधान्यम् ।  
+> परि । द्याम् । जिह्वया । अतनत् ॥ १८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पवमाने सोमे उतो अपि च अस्य सोमदातुः हर्यतस्य प्रदानं कामयमानस्य मम यत्पदं निधान्यं हविषां निधानार्हमुत्तरवेदिलक्षणं तत्र स्थित्वाग्निः द्यां परि परितः जिह्वया ज्वालया अतनत् व्याप्नोत् ॥ ॥ १७ ॥
+
+##### Gist of the bhāṣya
+
+In the Soma that is being purified, "moreover" (उतो (*uto*)) of this giver of Soma, of me who desire to make the offering (हर्यतस्य (*haryatasya*)), whatever place is fit for laying down (निधान्यं (*nidhānyaṃ*)) the oblations, characterised as the northern altar (उत्तरवेदि (*uttaravedi*)), there Agni stands and with his tongue, that is his flame (ज्वालया (*jvālayā*)), pervades (अतनत् (*atanat*)) the sky all around (परितः (*paritaḥ*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- उतो नु (*uto nu*)—and
+- हर्यतस्य (*haryatasya*)—who desires to offer the oblation
+- अस्य (*asya*)—to this sacrificer
+- यत्पदं (*yatpadaṃ*)—the place which
+- निधान्यं (*nidhānyaṃ*)—(for Agni) is fit for offering the oblation; Agni established on such a northern altar
+- द्यां परि (*dyāṃ pari*)—all round the sky
+- जिह्वया (*jihvayā*)—with his tongue of flame
+- आतनत् (*ātanat*)—has pervaded
+
+##### भावार्थ (Bhāvārtha)
+
+For this sacrificer who desires to offer the oblation, Agni, established on the northern altar, the place fit for offering the oblation to Agni, has pervaded the sky all around with his tongue of flame.
+
+##### English translation
+Agni,—standing in the place which I, the eager offerer, choose as the spot for presenting the oblations,—fills the sky on every side with his blaze.
+
+### Printed p. 98
+## Sūkta 73 (Maṇḍala 8)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ‘उदीराथाम्' इत्यष्टादशर्चं चतुर्थं सूक्तमात्रेयस्य गोपवनस्य सप्तवध्रेर्वार्ष गायत्रमाश्विनम्। तथा चानुक्रमणिका – उदीराथां गोपवन आत्रेयः सप्तवध्रिर्वाश्विनम्' इति । प्रातरनुवाक आश्विने क्रतौ गायत्रे छंदस्याश्विनशस्त्रे चेदं सूक्तम् ।
+> उदीराथां ऎंब ई सूक्तवु ऎंटनॆय अनुवाकदल्लि नाल्कनॆय सूक्तवु. इदरल्लि हदिनॆंटु ऋक्कुगळिरुववु. ई सूक्तक्कॆ अत्रिगोत्रोद्भवनाद गोपवन अथवा सप्तवध्रि ऎंबुवनु ऋषियु; अश्विनीदेवतॆगळु देवतॆयु; गायत्रीछंदस्सु. अनुक्रमणिकॆयल्लि—उदीराथां गोपवन आत्रेयः सप्तवध्रिर्वाश्विनं ऎंदु हेळिरुवुदु. प्रातरनुवाकमंत्रपठन कालदल्लि आश्विनक्रतुसंबंधवाद गायत्रीछंदस्सिन ऋक्कुगळिगागियू, आश्विनशस्त्र मंत्रगळिगागियू ई सूक्तद विनियोगविरुवुदॆंदु आश्वलायनश्रौतसूत्रद—उदीराथामा मे हवमिति गायत्रं ऎंब सूत्रदिंद (आ. ४-१५) विवृतवागिरुवुदु.
+> सूक्त—७३
+> मंडल—८ ॥ अनुवाक—८ ॥ सूक्त—७३ ॥
+> अष्टक—६ ॥ अध्याय—३ ॥ वर्ग—१८, १९, २० ॥
+> सूक्तदल्लिरुव ऋक्संख्यॆ—१८ ॥
+> ऋषि—गोपवन आत्रेयः सप्तवध्रिर्वा ॥
+> देवता—अश्विनौ ॥
+> छंदः—गायत्री ॥
+
+##### Gist of the bhāṣya
+
+The sūkta beginning उदीराथाम् (*udīrāthām*) has eighteen Ṛks and is the fourth sūkta of the eighth anuvāka. Its seer is Gopavana of the family of Atri, or Saptavadhri; its deity is the Aśvins; its metre is Gāyatrī. The Anukramaṇikā says: उदीराथां गोपवन आत्रेयः सप्तवध्रिर्वाश्विनं (*udīrāthāṃ gopavana ātreyaḥ saptavadhrirvāśvinaṃ*). The sūkta is used at the morning recitation (prātaranuvāka), in the Āśvina rite for the Gāyatrī-metre Ṛks, and in the Āśvina-śastra. This use is set out by the Āśvalāyana Śrauta-sūtra in the sūtra उदीराथामा मे हवमिति गायत्रं (*udīrāthāmā me havamiti gāyatraṃ*) (Ā. 4-15).
+
+Maṇḍala 8, Anuvāka 8, Sūkta 73; Aṣṭaka 6, Adhyāya 3, Vargas 18, 19, 20; number of Ṛks in the sūkta, 18; seer, Gopavana Ātreya or Saptavadhri; deity, the Aśvins; metre, Gāyatrī.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उदी॑राथामृताय॒ते युं॒जाथा॑मश्विना॒ रथ॑म् ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उत् । ईराथाम् । ऋतऽयते । युंजाथाम् । अश्विना । रथम् ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ १ ॥
+
+### Printed p. 99
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विना अश्विनौ ऋतायते यज्ञमिच्छते मह्यं मदर्थम् उदीराथाम् उद्गच्छतम् । तदर्थं हवमाह्वानं यज्ञं ता प्राप्तुं युंजाथां योजयतमश्वैः रथम् । वां युवयोः अवः रक्षणम् अंति अस्मदंतिके सत् वर्तमानं भूतु भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, for me who desire the sacrifice, rise up (उदीराथाम् (*udīrāthām*)) for my sake. To reach the sacrifice, the invocation made for it, yoke (युंजाथां (*yuṃjāthāṃ*)) your car with horses. Let your protection (अवः (*avaḥ*)) be near us (अंति (*aṃti*)), present (सत् (*sat*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- ऋतायुते (*ṛtāyute*)—to favour me who wish to perform the sacrifice
+- उदीराथां (*udīrāthāṃ*)—rise and be ready to come to my sacrifice
+- रथं (*rathaṃ*)—your car
+- युंजाथां (*yuṃjāthāṃ*)—join it with the horses
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying close by us
+- भूत् (*bhūt*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, be ready to come to my sacrifice, to favour me who wish to perform the sacrifice. Join your car with the horses. Grant that your protection may always be near us.
+
+##### English translation
+Rise, Ashwins, on my behalf, as I prepare to sacrifice; yoke your car ; let your protection abide near me.
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> नि॒मिष॑श्चि॒ज्जवी॑यसा॒ रथे॒ना या॑तमश्विना ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> निऽमिषः । चित् । जवीयसा । रथेन । आ । यातम् । अश्विना ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> निमिषश्चित् निमेषादपि जवीयसा अतिशयवेगेन रथेन आ यातम् आगच्छतमस्मद्यज्ञं हे अश्विना । शिष्टमुक्तम् ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, come to our sacrifice with a car that is swifter (जवीयसा (*javīyasā*)), with greater speed, even than the twinkling of an eye (निमिषश्चित् (*nimiṣaścit*)). The rest has been said.
+
+### Printed p. 100
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- निमिषश्चित् (*nimiṣaścit*)—than the striking of the eyelid
+- जवीयसा (*javīyasā*)—moving with greater speed
+- रथेन (*rathena*)—with your car
+- आ यातं (*ā yātaṃ*)—graciously come to our sacrifice
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंति षत् (*aṃti ṣat*)—always staying close by us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, come to our sacrifice with your car, which moves with greater speed than the striking of the eyelid. Grant that your protection may always be near us.
+
+##### English translation
+Come, Ashwins, in your chariot which moves quicker than the twinkling of an eye ; let your protection abide near me.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> उप॑ स्तृणीत॒मत्र॑ये हि॒मेन॑ घ॒र्मम॑श्विना ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> उप । स्तृणीतम् । अत्रये । हिमेन । घर्मम् । अश्विना ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अत्रये महर्षयेऽसुरैरग्नौ प्रक्षिप्ताय तस्य हितार्थं घर्मम् अग्निदाहकं हिमेन उदकेन उप स्तृणीतम् उपस्तीर्णवंतौ । ‘हिमेनाग्निं घ्रंसमवारयेथाम्' (ऋ. सं. १. ११६. ८) इति निगमः ॥
+
+##### Gist of the bhāṣya
+
+For the great seer Atri, who had been thrown into the fire by the Asuras, and for his benefit, you two spread over (उप स्तृणीतम् (*upa stṛṇītam*)) the burning (घर्मम् (*gharmam*)) fire with cold (हिमेन (*himena*)), that is with water. The Nigama is quoted: हिमेनाग्निं घ्रंसमवारयेथाम् (*himenāgniṃ ghraṃsamavārayethām*) (Ṛ. Saṃ. 1. 116. 8). **GLOSS**
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अश्विना (*aśvinā*)—O Aśvins
+- अत्रये (*atraye*)—to help the seer Atri, who had been thrown into the fire by the Asuras
+- घर्मं (*gharmaṃ*)—the burning fire
+- हिमेन (*himena*)—with cool water
+
+### Printed p. 101
+- उप स्तृणीतं (*upa stṛṇītaṃ*)—you covered it and made it free of heat
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंति षत् (*aṃti ṣat*)—always staying close by us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, to help the seer Atri, who had been thrown into the fire by the Asuras, you covered the burning fire with cool water and made it free of heat. May your protection always be near us.
+
+##### English translation
+Aswins, you covered the hot (fire) with cold (water) for Atri; let your protection abide near me.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> कुह॑ स्थः॒ कुह॑ जग्मथुः॒ कुह॑ श्ये॒नेव॑ पेतथुः ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ४ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कुह । स्थः । कुह । जग्मथुः । कुह । श्येनाऽइव । पेतथुः ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे अश्विनौ युवां कुह क्व स्थः भवथः । इदानीं कुह क्व कुत्र जग्मथुः गच्छथः स्वेच्छया । कुह क्व वा श्येनेव श्येनाविव शीघ्रपतनौ संतौ पेतथुः पतथः । एवमचिंत्यस्वभावौ कृपया संनिहितौ भवतमिति शेषः । तादृशयोः अवः अंतिके भवतु ॥
+
+##### Gist of the bhāṣya
+
+O Aśvins, where (कुह (*kuha*)) are you? Now, where do you go (जग्मथुः (*jagmathuḥ*)) at your own pleasure? Or where do you fly (पेतथुः (*petathuḥ*)) like two hawks (श्येनेव (*śyeneva*)), falling swiftly? Being of such inconceivable nature, be present near us out of compassion; this is the part to be supplied. Let the protection of such as you be near.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) कुह (*kuha*)—in what place
+- स्थः (*sthaḥ*)—are you
+- कुह (*kuha*)—to what place
+- जग्मथुः (*jagmathuḥ*)—have you gone
+- कुह (*kuha*)—to what place
+- श्येनेव (*śyeneva*)—like a hawk
+- पेतथुः (*petathuḥ*)—have you flown swiftly
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—always staying close by us
+- भूतु (*bhūtu*)—let it be
+
+### Printed p. 102
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, in what place are you now? To what place have you gone? Where have you flown swiftly, like a hawk? May your protection always be near us.
+
+##### English translation
+Where are you ? whither are you gone ? whither have you flown like hawks ? Let your protection abide near me.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> यद॒द्य कर्हि॒ कर्हि॑ चिच्छुश्रू॒यात॑मि॒मं हव॑म् ।  
+> अंति॒ षद्भू॑तु वा॒मवः॑ ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यत् । अद्य । कर्हि । कर्हि । चित् । शुश्रुयातम् । इमम् । हवम् ।  
+> अंति । सत् । भूतु । वाम् । अवः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यत् यस्मान्न निर्धार्यतेऽतः अद्य अस्मिन् काले कहिँ कस्मिन्नपि देशे कर्हि कस्मिन्नपि काले इमं हवम् अस्मदीयमाह्वानं शुश्रूयातं शृणुयातम् ॥ ॥ १८ ॥
+
+##### Gist of the bhāṣya
+
+Since it cannot be determined where you are, now, at this time, in whatever place and at whatever time, hear this invocation of ours (हवम् (*havam*)).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Aśvins) यत् (*yat*)—if by chance
+- अद्य (*adya*)—at this time
+- कर्हि (*karhi*)—in whatever place you may be
+- कर्हि चित् (*karhi cit*)—at whatever time
+- इमं हवं (*imaṃ havaṃ*)—this prayer of mine
+- शुश्रूयातं (*śuśrūyātaṃ*)—if you have heard
+- वां (*vāṃ*)—your
+- अवः (*avaḥ*)—protection
+- अंतिषत् (*aṃtiṣat*)—staying close by us
+- भूतु (*bhūtu*)—let it be
+
+##### भावार्थ (Bhāvārtha)
+
+O Aśvins, if at this time of sacrifice you hear this prayer of mine, in whatever place you may be and at whatever time, grant that your protection may be near us.
+
 ---
 
-**Progress note:** Done through printed p. 96. Sukta 72 Rk 12-17 (pp. 91-96)
+**Progress note:** Done through printed p. 102. end of Sūkta 72 Ṛk 18; Sūkta 73 Ṛks 1-5
