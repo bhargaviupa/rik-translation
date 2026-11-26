@@ -29770,6 +29770,274 @@ In the Ṛk explained earlier, Sāyaṇa has explained सुमतिं पि
 
 O shining or praiseworthy Soma, you who are to be drunk by the gods, in the sacrifice spread out by the gods, for the great drinking, for food, for the drinking of the gods. **NOTE**
 
+### Printed p. 800
+
+> यैवैवं पवस्व । क्षर ततो वयं हितास्त्वया प्रेरिताः संतः समर्ये मरणधर्मसहिते संग्रामे महश्चिन्महतो बलाधिकानपि शत्रुन् स्मसि हि । अभिभवेम खलु । किंच
+> पुनानः पूयमानस्त्वं रोदसी द्यावापृथिव्य सुस्थाने अस्माकं शोभनावासस्थाने
+> सत्यौ कृधि । कुरु ॥
+
+##### Gist of the bhāṣya
+
+So flow, stream forth; then we, impelled by you, in the battle that carries the nature of death, would indeed overcome even enemies who are greater and stronger in might. And further, you who are being purified, make heaven and earth, the two worlds, a good dwelling-place of ours, a true one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining
+- सोम (*soma*)—O divine Soma
+- देवपानः (*devapānaḥ*)—you who are fit for the drinking of the gods
+- देवताते (*devatāte*)—in the sacrifice
+- महे (*mahe*)—great
+- प्सरसे (*psarase*)—for the drinking of the gods
+- एव (*eva*)—in the prescribed manner
+- पवस्व (*pavasva*)—flow
+- हिताः (*hitāḥ*)—we who are urged on by you
+- समर्ये (*samarye*)—in battle
+- महश्चित् (*mahaścit*)—even the exceedingly mighty enemies
+- स्मसि हि (*smasi hi*)—may we overcome
+- पुनानः (*punānaḥ*)—you who have been purified
+- रोदसी (*rodasī*)—heaven and earth
+- सुस्थाने (*susthāne*)—so that they become a good dwelling-place for us
+- कृधि (*kṛdhi*)—make
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Soma, you who are fit for the drinking of the gods, flow in the prescribed manner in the sacrifice for the great drinking of the gods. May we, urged on by you, overcome in battle even the exceedingly mighty enemies. You who have been purified, make heaven and earth a good dwelling-place for us.
+
+##### English translation
+Divine Soma, you are the beverage of gods, flow at the sacrifice for (their) abundant food ; urged on (by you) may we overcome even mighty (foes) in battle ; purified do you render heaven and earth happy abodes (for us).
+
+#### Ṛk 28
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्वो॒ न क्र॑दो॒ वृष॑भियुर्जुजा॒नः सिं॒हो न भी॒मो मन॑सो॒  ॑
+> जवीयान् ।  
+> अ॒र्वा॒चीनैः॑ प॒थिभि॒र्ये रजि॑ष्ठा॒ आ प॑वस्व सौमन॒सं न॑ इंदो ॥
+
+### Printed p. 801
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्वः । न । क्रदः । वृषभिः । युजानः । सिंहः । न । भीमः । मनसः । जवीयान् ।  
+> अर्वाचीनैः । पथिभिः । ये । रजिष्ठाः । आ । पवस्व । सौमनसं । नः । इंदो इति ॥२८॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम वृषभिर्युत्विग्भिः सोममभिषुण्वद्भियुर्जानो योज्यमानस्त्वमश्वो नाश्व इव क्रदः । क्रंदसि । शब्दायसे । कीदृशः । सिंहो न सिंह इव भीमः
+> शत्रूणां भयंकरः तथा मनसोऽपि जवीयान् वेगवत्तरः । अर्वाचीनैरभिमुख्यः
+> पथिभिर्मार्गैर्ये मार्गा रजिष्ठा अत्यंतमृजवो भवंति ॥ विभाषर्जोश्चंदसीत्यृकारस्य रादेशः ॥ हे इंदो दीप्यमान सोम तैर्मार्गैनोर्नोऽस्माकं सौमनसं
+> सौमनस्यमा पवस्व । आ प्रापय ॥
+
+##### Gist of the bhāṣya
+
+O Soma, yoked by the Ṛtviks, who are the bulls, that is, by those who press Soma, you cry like a horse; you make a sound. Of what kind are you? Like a lion, terrible, fearsome to enemies, and also swifter than mind, more swift. By the paths facing us, which are the most straight, O shining Soma, by those paths bring to us good-mindedness; cause it to reach us.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- वृषभिः (*vṛṣabhiḥ*)—by the Ṛtviks
+- युजानः (*yujānaḥ*)—you who are yoked for the rite
+- अश्वो न (*aśvo na*)—like a horse
+- क्रदः (*kradaḥ*)—you make a sound
+- सिंहो न (*siṃho na*)—like a lion
+- भीमः (*bhīmaḥ*)—you are fearsome to enemies
+- मनसः (*manasaḥ*) (अपि (*api*))—than the speed of mind
+- जवीयान् (*javīyān*)—you are one of greater speed
+- अर्वाचीनैः (*arvācīnaiḥ*)—facing us
+- पथिभिः (*pathibhiḥ*)—in the paths
+- ये (*ye*)—which
+- रजिष्ठाः (*rajiṣṭhāḥ*)—(without crookedness) straight, by those paths
+- नः (*naḥ*)—to us
+- सौमनसं (*saumanasaṃ*)—welfare
+- आ पवस्व (*ā pavasva*)—provide
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, you who are yoked by the Ṛtviks for the rite, you make a sound like a horse. You are fearsome to enemies like a lion. You are of greater speed than the speed of mind. By those of the paths facing us which are straight, provide us welfare.
+
+##### English translation
+Yoked by the priests, you neigh like a horse, (you are) terrible as a lion, swifter than thought ; Indu, pour happiness upon us by those which are the most direct of the pathes leading hitherward.
+
+### Printed p. 802
+
+#### Ṛk 29
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> श॒तं धारा॑ दे॒वजा॑ता अस्यग्रन्त्स॒हस्र॑मेनाः क॒वयो॑ मृजंति ।  
+> इंदो॑ स॒नित्रं॑ दि॒व आ प॑वस्व पुरए॒तासि॑ मह॒तो धन॑स्य ॥ २९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> शतं । धाराः । देवजाताः । असृग्रन् । सहस्रं । एनाः । कवयः । मृजंति ।  
+> इंदो इति । सनित्रं । दिवः । आ । पवस्व, पुरःएता । असि । महतः । धनस्य ॥ २९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम देवजाता देवार्थं प्रादुर्भूताः शतं शतसंख्याकास्त्वदीया
+> धारा असृग्रन् । सृज्यंते । ततः कवयः क्रांतदर्शिन ऋत्विजः सहस्रं बहुविधा
+> एनास्त्वदीया धारा मृजंति । अलंकुर्वंति । यद्वा । सहस्रमनेकधा मृजंति ।
+> शोधयंति । हे इंदो सनित्रं भजनसाधनं धनं दिवो द्युलोकादस्माकं
+> पुत्रादीनां चा पवस्व । आप्रापय । कुतोऽस्य धनमिति चेत् तत्राह । महतः
+> प्रभूतस्य धनस्य पुरविता पुरतो गंतासि । भवसि ! तस्माद्देहीति ॥
+
+##### Gist of the bhāṣya
+
+O Soma, your hundred streams, born for the gods, that is, manifested for the sake of the gods, are released; they are poured forth. Then the sages, the Ṛtvijs who see far, cleanse, that is, adorn, those streams of yours in a thousand, many kinds of ways. Or else: they cleanse, purify, in a thousandfold manner. O Soma, the wealth that is the means of enjoyment, from heaven, from the world of light, bring to us and to our sons and others; cause it to reach us. If it be asked, "Whence has he wealth?", he says: you are the one who goes before, the leader, of great, abundant wealth; therefore give it.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- इंदो (*iṃdo*)—O divine Soma
+- देवजाताः (*devajātāḥ*)—produced for the gods
+- शतंधारा (*śataṃdhārā*)—your many streams
+- अस्यग्रन् (*asyagran*)—have been released freely **NOTE**
+- कवयि (*kavayi*)—the wise Ṛtviks **NOTE**
+- सहस्रं (*sahasraṃ*)—in many ways
+- एनाः (*enāḥ*)—these streams
+- मृजंति (*mṛjaṃti*)—they cleanse (adorn)
+- सनित्रं (*sanitraṃ*)—wealth fit for enjoyment
+- दिवः (*divaḥ*)—from the world of light
+- आ पवस्व (*ā pavasva*)—provide to us
+- (त्वं (*tvaṃ*)—you)
+- महतः धनस्य (*mahataḥ dhanasya*)—of exceedingly great wealth
+- पुरएता (*puraetā*)—as the leader
+- असि (*asi*)—you are
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, your many streams, produced for the gods, flow freely. The wise Ṛtviks cleanse these streams in many ways. Provide us from the world of light wealth fit for enjoyment. You are the lord of abundant wealth.
+
+### Printed p. 803
+
+##### English translation
+Your hundred streams manifested for the gods are loose ; the sages cleanse those thousand (streams) ; pour wealth upon us, Indu, from heaven ; you are the precursor of abundant riches.
+
+#### Ṛk 30
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> दि॒वो न सर्गा॑ अससृग्र॒मह्नां॒ राजा॒ न मि॒त्रं प्र मि॑नाति॒ धीरः॑ ।  
+> पि॒तुर्न पु॒त्रः क्रतु॑भिर्यता॒न आ प॑वस्व वि॒शे अ॒स्या अजी॑तिं ॥३०॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> दिवः । न । सर्गाः । अससृग्रं । अह्नां । राजा । न । मित्रं । प्र । मिनाति । धीरः ।  
+> पिशुः । न । पुत्रः । क्रतुभिः । यतानः । आ । पवस्व । विशे । अस्यै । अजीतिं ॥ ३० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> दिवो न यथा दिवो द्योतमानस्यादित्यस्याह्नां संबंधिनः सर्गा रश्मयोऽसृग्रं विसृज्यंते तद्वत्सोमस्य सर्गाः । सृज्यंत इति सर्गा धाराः । विसृज्यंते ॥
+> सृजेर्व्यत्ययेन कर्मार्थे लजि बहुलं छंदसीति शस्य श्लुः । झीरमादेशश्रांदसः ॥
+> धीरः प्राज्ञो राजायं सोमो मित्रं सखायं न प्र मिनाति । न हिनस्ति । क्रतुभिः
+> कर्मभिर्यतानो यतमानः पुत्रः पितुर्न पितुर्यथापराभवं करोति तद्वत्
+> कर्मभिर्यतमानस्त्वमस्यॆ विशे प्रजाया अजीतिमपराभवमा पवस्स । आप्रापय ।
+> यथा न पराजिता भवंति तथा कुर्वित्यर्थः ॥
+
+##### Gist of the bhāṣya
+
+As the rays (सर्गाः (*sargāḥ*)) connected with the days of the shining sun are released, so are the streams of Soma released: those that are poured forth are called सर्गाः (*sargāḥ*), the streams; they are let loose. This Soma, wise and a king, does not injure, does not harm, his friend. As a son, striving with rites (क्रतुभिः (*kratubhiḥ*)), does not bring defeat to his father, so you, striving with rites, bring to this people invincibility, absence of defeat; cause it to reach them. The meaning is: act so that they are not defeated.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दिवः (*divaḥ*)—of the shining Sun
+- अह्नां (*ahnāṃ*)—connected with the days
+- सर्गाः न (*sargāḥ na*)—like the rays
+- अससृग्रं (*asasṛgraṃ*)—the rays of Soma too are released
+- धीरः (*dhīraḥ*)—the wise
+- राजा (*rājā*)—and lordly Soma
+- मित्रं (*mitraṃ*)—his friend
+- न प्र मिनाति (*na pra mināti*)—does not give up; (O Soma)
+- क्रतुभिः (*kratubhiḥ*)—with his rites
+- यशानः (*yaśānaḥ*)—the one who strives **NOTE**
+- पुत्रः (*putraḥ*)—a son
+- पितुःन (*pituḥna*)—just as he brings no defeat to his father, in the same way
+- अस्यॆ विशे (*asyè viśe*)—to us, your people
+- अजीतिं (*ajītiṃ*)—freedom from defeat
+- आ पवस्व (*ā pavasva*)—bring about
+
+### Printed p. 804
+
+##### भावार्थ (Bhāvārtha)
+
+As the rays of the shining Sun among the days spread, so the rays of Soma spread. Soma, wise and lordly, does not give up his friend. O Soma, as a son striving with his rites does not bring defeat to his father, so make us, your people, free from defeat (from being overcome).
+
+##### English translation
+As the rays of the days of the sun are let loose (so are the streams of the Soma) : a prudent king doee not obandon his friend ; as a son persevering in pious acts (wins) his father's (safety), so you pour upon this people immunity from defeat. **NOTE**
+
+#### Ṛk 31
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र ते॒ धारा॒ मधु॑मतीरसृग्र॒न्वारा॒न्यत्पू॒तो अ॒त्येष्टव्या॑न् ।  
+> पव॑मान॒ पव॑से॒ धाम॒ गोनां॑ जज्ञा॒नः सूर्य॑मपिन्वो  ॒
+> अर्कैः ॥ ३१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । ते । धाराः । मधुमतीः । असृग्रन् । वारान् । यत् । पूतः । अतिएषि ।  
+> अव्यान् ।  
+> पवमान । पवसे । धाम । गोनां । जज्ञानः । सूर्यं । अपिन्वः । अर्कैः ॥ ३१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> ते तव स्वभूता मधुमतीर्मधुमत्तो धाराः प्रासृग्रन् तदा प्रसृज्यंते
+> यद्यदा पूतो वसतीवरीभिस्त्वमव्यानविभवान्वारान्वालान्पवित्राण्यत्येषि । अतीत्य
+> गच्छसि । किंच हे पवमान धाम धारकं गोनां गवां पयो लक्ष्मीकृत्य पवसे । ततो
+> जज्ञानो जायमानस्त्वमर्कैरर्चनीयैः स्वतेजोभिः सूर्यमादित्यमपिन्नः ।
+> पूरयसि ॥
+
+##### Gist of the bhāṣya
+
+Your own honey-laden streams are poured forth when, purified by the Vasatīvarī waters, you pass over the woollen filters, the hairs, which are not abundant. And further, O Pavamāna, you purify, making the milk of the cows, the supporter, your own; then, being born, you fill the Sun with the radiances of yours that are worthy of praise.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+(O divine Soma)
+
+- यत् (*yat*)—when
+- पूतः (*pūtaḥ*)—you who are purified by the Vasatīvarī waters
+- अव्या न् (*avyā n*)—of the ten filters **NOTE**
+- वरान् (*varān*)—the woollen threads **NOTE**
+- अत्येषि (*atyeṣi*)—you pass over, then
+
+### Printed p. 805
+
+- ते (*te*)—your
+- मधुमतीः (*madhumatīḥ*)—sweet
+- धाराः (*dhārāḥ*)—streams
+- प्र अस्यग्रन् (*pra asyagran*)—flow freely **NOTE**
+- पवमान (*pavamāna*)—O divine Soma
+- धाम (*dhāma*)—the supporting
+- गोनां (*gonāṃ*)—towards the milk
+- पवसे (*pavase*)—you flow
+- जज्ञानः (*jajñānaḥ*)—as soon as you are produced
+- अर्कैः (*arkaiḥ*)—with your radiances
+- सूर्यं (*sūryaṃ*)—the Sun
+- आपिन्वः (*āpinvaḥ*)—you pervade **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O divine Soma, when you, purified by the Vasatīvarī waters, pass over the woollen threads, then your sweet streams flow freely. O divine Soma, you flow towards the supporting milk. As soon as you are produced, you pervade the Sun with your radiances.
+
+##### English translation
+Your exhilarating streams are let loose when you pass purified through the woollen fleece ; Pavamana, you flow to the supporting (milk) of the cows, as soon as generated you fill the sun with your radiance.
+
+##### विशेषविषयगळु (Special Topics)
+
+अर्कै (*arkai*)—Yāska, giving the etymology of the word अर्क (*arka*), has set out the various meanings of this word.
+
+अर्कः । अर्को देवो भवति यदेनमर्चति । अर्को मंत्रो भवति यदनेनार्चंति । अर्कमन्नं भवत् र्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥ (*arkaḥ | arko devo bhavati yadenamarcati | arko maṃtro bhavati yadanenārcaṃti | arkamannaṃ bhavat rcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*) (2. 5-4) **NOTE**
+
+Thus he has stated four kinds of meaning. The explanation of this can be given in this way—
+
+तावत्सर्व एकार्क इत्युच्यते यद्यस्मादेनं देवं अर्चंति स्तोतारः— (*tāvatsarva ekārka ityucyate yadyasmādenaṃ devaṃ arcaṃti stotāraḥ—*)
+
+अर्क (*arka*) means a deity, because it is that by which devotees worship someone; that is, the person or god whom devotees worship, the object (the deity) that devotees worship, is named अर्क (*arka*).
+
+अर्को मंत्रो भवति! यद्यस्मादनेन मंत्रेणार्चंति स्तोतारस्तस्मादर्कः— (*arko maṃtro bhavati! yadyasmādanena maṃtreṇārcaṃti stotārastasmādarkaḥ—*)
+
+अर्क (*arka*) is also understood to mean a mantra, because those who sing praise worship the deity with this (अर्क (*arka*), that is, the mantra). Therefore the word अर्क (*arka*) is also named a mantra.
+
 ---
 
-**Progress note:** Done through printed p. 799. Ṛk 25 (Special Topics, Aitareya narrative), Ṛk 26, start of Ṛk 27 (Sūkta 97)
+**Progress note:** Done through printed p. 805. Ṛk 27 end, Ṛk 28-31, start of Special Topics (arka)
