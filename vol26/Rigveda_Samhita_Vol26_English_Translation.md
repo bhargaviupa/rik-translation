@@ -8317,6 +8317,287 @@ Soma, pour into the filter to bring us wealth (your joice), which is most sweet-
 > तमी॑ मृजंत्या॒यवो॒ हरिं॑ न॒दीषु॑ वा॒जिन॑म् ।  
 > इंदु॒मिंद्रा॑य मत्स॒रम् ॥ १७ ॥
 
+### Printed p. 242
+
+> तम् । ईमिति । मृजंति । आयवः । हरिम् । नदीषु । वाजिनम् ।
+> इंदुम् । इंद्राय । मत्सरम् ॥ १७ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हरिं हरितवर्णं वाजिनं बलिनं मत्सरं मदकरं तं पवमानम् ईम् एनम् इंदुं सोमम् आयवः मनुष्या ऋत्विजः नदीषु वसतीवरीषु मृजंति मार्जयंति ।
+
+##### Gist of the bhāṣya
+
+The priests, who are men (āyavaḥ), cleanse (mṛjanti) in the waters called Vasatīvarī this Soma, which is Indu, green-hued (hari), strong (vājin) and intoxicating (matsara), and which is the purifying (pavamāna) one.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हरिं (*hariṃ*)—green-hued
+- वाजिनं (*vājinaṃ*)—endowed with strength
+- मत्सरं (*matsaraṃ*)—intoxicating
+- तं (*taṃ*)—the well-known
+- ईं (*īṃ*)—this
+- इंदुं (*iṃduṃ*)—Soma
+- आयवः (*āyavaḥ*)—the priests
+- नदीषु (*nadīṣu*)—in the waters called Vasatīvarī
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- मृजंति (*mṛjaṃti*)—they cleanse
+
+##### भावार्थ (Bhāvārtha)
+
+The priests cleanse this well-known Soma, green-hued, strong and intoxicating, in the waters called Vasatīvarī, for the sake of Indra.
+
+##### English translation
+The priests cleanse in the (Vasativari) waters the green-tinted powerful exhilarating Indu for Indra.
+
+#### Ṛk 18
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ प॑वस्व॒ हिर॑ण्यव॒दश्वा॑वत्सोम वी॒रव॑त् ।  
+> वाजं॒ गोमं॑त॒मा भ॑र ॥ १८ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आ । पवस्व । हिरण्यऽवत् । अश्वऽवत् । सोम । वीरऽवत् ।  
+> वाजम् । गोऽमंतम् । आ । भर ॥ १८ ॥
+
+### Printed p. 243
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम त्वं हिरण्यवत् सुवर्णोपेतम् अश्ववत् अश्वयुक्तं च वीरवत् पुत्राद्युपेतं च धनम् आ पवस्व अस्मान् प्रति क्षर । अपि च गोमंतं पशुभिरुपेतं वाजम् अन्नम् आ भर अस्मभ्यमाहर ॥
+
+##### Gist of the bhāṣya
+
+O Soma, flow (pavasva) towards us, that is, pour down upon us, wealth that is possessed of gold, possessed of horses and possessed of heroes, that is, endowed with sons and the like. Further, bring (bhara) to us, that is, fetch for us, food (vāja) endowed with cattle.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- हिरण्यवत् (*hiraṇyavat*)—endowed with gold
+- अश्ववत् (*aśvavat*)—endowed with horses
+- वीरवत् (*vīravat*)—accompanied by heroic sons, such wealth
+- आ पवस्व (*ā pavasva*)—cause to flow to us
+- गोमंतं (*gomaṃtaṃ*)—endowed with cattle
+- वाजं (*vājaṃ*)—food
+- आ भर (*ā bhara*)—provide for us
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, cause to flow towards us wealth that is endowed with gold, endowed with horses and accompanied by heroic sons. Provide us with food endowed with cattle.
+
+##### English translation
+Soma, pour forth wealth of gold, horses. and male offspring ; bring us food and cattle.
+
+#### Ṛk 19
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> परि॒ वाजे॒ न वा॑ज॒युमव्यो॒ वारे॑षु सिंचत ।  
+> इंद्रा॑य॒ मधु॑मत्तमम् ॥ १९ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> परि । वाजे । न । वाजऽयुम् । अव्यः । वारेषु । सिंचत ।  
+> इंद्राय । मधुमत्ऽतमम् ॥ १९ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> वाजयुं युद्धकामं मधुमत्तमम् अतिशयेन मधुमंतं सोमम् इंद्राय इंद्रार्थं अव्यः अवेः वारेषु वालेषु दशापवित्रे वाजे न युद्ध इव हे ऋत्विजः परि षिंचत ॥
+
+##### Gist of the bhāṣya
+
+O priests, pour round (pari ṣiñcata) Soma, who is desirous of battle (vājayu) and exceedingly sweet (madhumattama), for Indra, into the hairs (vāreṣu) of the sheep, that is, into the ten-fold filter, as if in a battle (vāje na).
+
+### Printed p. 244
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वाजयुं (*vājayuṃ*)—one who looks for battle
+- मधुमत्तमं (*madhumattamaṃ*)—exceedingly pleasing in taste, such Soma
+- इंद्राय (*iṃdrāya*)—for the sake of Indra
+- अव्यः (*avyaḥ*)—of the ten-fold filter made of wool
+- वारेषु (*vāreṣu*)—in the meshes
+- वाजेन (*vājena*)—as one pours in a battle **NOTE**
+- परि षिंजत (*pari ṣiṃjata*)—pour **NOTE**
+
+##### भावार्थ (Bhāvārtha)
+
+O priests, pour Soma, who is exceedingly pleasing in taste and desirous of battle, for the sake of Indra into the meshes of the ten-fold filter made of wool, as one pours in a battle.
+
+##### English translation
+Sprinkle upon the woollen fleece for Indra the most sweet (Soma), desiring battle as if in battle.
+
+#### Ṛk 20
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> क॒विं मृ॑जंति॒ मर्ज्यं॑ धी॒भिर्विप्रा॑ अव॒स्यवः॑ ।  
+> वृषा॒ कनि॑क्रदर्षति ॥ २० ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> कविम् । मृजंति । मर्ज्यम् । धीभिः । विप्राः । अवस्यवः ।  
+> वृषा । कनिक्रत् । अर्षति ॥ २० ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अवस्यवः रक्षणकामाः विप्राः मेधाविन ऋत्विजः धीभिः अंगुलीभिः मर्ज्यं मर्जनीयं कविं क्रांतकर्माणं यं सोमं मृजंति मार्जयंति सोऽयं वृषा सेचकः सोमः कनिक्रत् शब्दं कुर्वन् अर्षति धारया क्षरति ॥ ॥ ३३ ॥
+
+##### Gist of the bhāṣya
+
+The wise priests (vipra), desirous of protection (avasyu), cleanse (mṛjanti) with their fingers (dhībhiḥ) the Soma who is fit to be cleansed (marjya) and is a sage (kavi), that is, one of far-reaching action. This same Soma, the showerer (vṛṣan), flows (arṣati) in a stream, making a sound (kanikrat). The section number 33 is printed at the end of the block.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- अवस्यवः (*avasyavaḥ*)—those who desire protection
+- विप्राः (*viprāḥ*)—the wise priests
+- धीभिः (*dhībhiḥ*)—with their fingers
+- मर्ज्यं (*marjyaṃ*)—fit to be purified
+- कविं (*kaviṃ*)—Soma-deva, whose action is full of wisdom
+- मृजंति (*mṛjaṃti*)—they purify
+- वृषा (*vṛṣā*)—Soma, the showerer of desires
+- कनिक्रत् (*kanikrat*)—making a sound
+- अर्षति (*arṣati*)—flows in the form of a stream
+
+### Printed p. 245
+
+##### भावार्थ (Bhāvārtha)
+
+The priests, who desire protection and are wise, purify with their fingers Soma-deva, who is fit to be purified and whose action is full of wisdom. Soma-deva, the showerer of desires, flows in the form of a stream, making a sound.
+
+##### English translation
+The (worshippers) deriring protection, cleanse with their fingers the purifiable (Soma) the sage; with a noise the sprinkler (of benefits) flows forth. **NOTE**
+
+#### Ṛk 21
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> वृष॑णं धी॒भिर॒प्तुरं॒ सोम॑मृ॒तस्य॒ धार॑या ।  
+> म॒ती विप्राः॒ सम॑स्वरन् ॥ २१ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> वृषणम् । धीभिः । अप्ऽतुरम् । सोमम् । ऋतस्य । धारया ।  
+> मती । विप्राः । सम् । अस्वरन् ॥ २१ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> विप्राः मेधाविन ऋत्विजः वृषणं कामानां वर्षकम् अप्तुरम् अपां प्रेरकं सोमं धीभिः अंगुलीभिः मती मत्या स्तुत्या च ऋतस्य उदकस्य धारया समस्वरन् प्रेरयंति ॥
+
+##### Gist of the bhāṣya
+
+The wise priests (vipra) bring together (samasvaran), that is, set in motion, Soma, the showerer of desires (vṛṣan) and impeller of the waters (aptur), with their fingers (dhībhiḥ), with thought (matī), that is, with praise, and with the stream of water (ṛtasya dhārayā).
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- विप्राः (*viprāḥ*)—the wise priests
+- वृषणं (*vṛṣaṇaṃ*)—the showerer of desires
+- अप्तूरं (*aptūraṃ*)—one who pours out water, such
+- सोमं (*somaṃ*)—Soma
+- धीभिः (*dhībhiḥ*)—with the fingers
+- मती (*matī*)—and with praise
+- ऋतस्य (*ṛtasya*)—of water
+- धारया (*dhārayā*)—with the stream
+- समस्वरन् (*samasvaran*)—they cause to unite
+
+##### भावार्थ (Bhāvārtha)
+
+The wise priests cause Soma, the showerer of desires and the one who pours out water, to unite with the stream of water, both with their fingers and with praise.
+
+### Printed p. 246
+
+##### English translation
+The wise (priests) in a stream of water send forth with their fingers and with praise the sprinkler (of benefits), the shedder of water.
+
+#### Ṛk 22
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑स्व देवायु॒षगिंद्रं॑ गच्छतु ते॒ मदः॑ ।  
+> वा॒युमा रो॑ह॒ धर्म॑णा ॥ २२ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवस्व । देव । आयुषक् । इंद्रम् । गच्छतु । ते । मदः ।  
+> वायुम् । आ । रोह । धर्मणा ॥ २२ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे देव द्योतमान सोम पवस्व धारया क्षर । अपि च ते तव मदः मदकरो रसः आयुषक् अनुषक्तम् इंद्रं प्रति गच्छतु । अपि च त्वं वायुं धर्मणा धारकेण रसेन आ रोह प्राप्नुहि ॥
+
+##### Gist of the bhāṣya
+
+O shining (deva) Soma, flow (pavasva), that is, pour in a stream. Further, may your intoxicating juice (madaḥ) go continuously (āyuṣak, explained as anuṣaktam) towards Indra. And you, rise upon (ā roha), that is, reach, Vāyu with your supporting (dharmaṇā) juice.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- देव (*deva*)—O shining Soma-deva
+- पवस्व (*pavasva*)—flow in the form of a stream
+- तेनिन्न (*teninna*)—your **NOTE**
+- मदः (*madaḥ*)—the gladdening juice
+- आनुषक् (*ānuṣak*)—always **NOTE**
+- इंद्रं (*iṃdraṃ*)—towards Indra
+- गच्छतु (*gacchatu*)—may it flow
+- धर्मणा (*dharmaṇā*)—with the juice that supports the world
+- वायुं (*vāyuṃ*)—Vāyu-deva **NOTE**
+- आ रोह (*ā roha*)—approach and join
+
+##### भावार्थ (Bhāvārtha)
+
+O shining Soma-deva, flow in the form of a stream. May your gladdening juice always flow towards Indra. With your juice that supports the world, approach Vāyu-deva and join him.
+
+##### English translation
+Flow, brilliant (Soma), let your exhilarating juice proceed in continuous order to Indra, rise with your supporting (juice) to Vayu.
+
+### Printed p. 247
+
+#### Ṛk 23
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> पव॑मान॒ नि तो॑शसे र॒यिं सो॑म श्र॒वाय्य॑म् ।  
+> प्रि॒यः स॑मु॒द्रमा वि॑श ॥ २३ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> पवमान । नि । तोशसे । रयिम् । सोम । श्रवाय्यम् ।  
+> प्रियः । समुद्रम् । आ । विश ॥ २३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम यस्त्वं श्रवाय्यं श्रवणीयं रयिं शत्रूणां धनं नि तोशसे नितरां पीडयसि स त्वं प्रियः सन् समुद्रं द्रोणकलशम् आ विश प्रविश ॥
+
+##### Gist of the bhāṣya
+
+O purifying (pavamāna) Soma, you who press down hard (ni tośase), that is, afflict greatly, the famous (śravāyya, that is, "worth hearing of") wealth (rayi) of enemies, being dear (priya), enter (ā viśa), that is, go into, the ocean (samudra), the Droṇa-kalaśa vessel.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- पवमान (*pavamāna*)—O purifier
+- सोम (*soma*)—O Soma-deva
+- श्रवाय्यं (*śravāyyaṃ*)—the famous
+- रयिं (*rayiṃ*)—the wealth of enemies
+- नि तोशसे (*ni tośase*)—you carry off
+- प्रियः (*priyaḥ*)—being one who does what is dear to all of us
+- समुद्रं (*samudraṃ*)—the Droṇa-kalaśa
+- आ विश (*ā viśa*)—enter
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, the purifier, you carry off all the famous wealth of enemies. Being one who does what is dear to all of us, enter the Droṇa-kalaśa.
+
+##### English translation
+Purified Soma, you squeeze forth the celebrated riches (of the enemy) ; do you who are beloved enter the ocean.
+
+#### Ṛk 24
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अ॒प॒घ्नन्प॑वसे॒ मृधः॑ क्रतु॒वित्सो॑म मत्स॒रः ।  
+> नु॒दस्वादे॑वयुं॒ जन॑म् ॥ २४ ॥
+
 ---
 
-**Progress note:** Done through printed p. 241. Sūkta 63 Ṛk 10-17 (Saṃhitā)
+**Progress note:** Done through printed p. 247. Ṛk 17 end to Ṛk 24 start, pp. 242-247
