@@ -20058,6 +20058,293 @@ spread rays to your worshippers) ar (a warrior sends his) his horses to battle.
 
 साध्वर्याः (*sādhvaryāḥ*) are the leaders (*netrīḥ*) of good, auspicious milks; अत्तिथिनीः (*attithinīḥ*) those that go constantly; इषिराः (*iṣirāḥ*) those to be sought; स्पार्हाः (*spārhāḥ*) those to be desired; सुवर्णाः (*suvarṇāḥ*) those endowed with beautiful colours, white and the like; अनवद्य (*anavadya*)-
 
+### Printed p. 578
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> रूपाः प्रशस्य रूपा एता गाः पर्वतेभ्यो वलसंबंधिभ्यो वितूर्य निर्गमय्योपे।
+> देवसमीपे निर्वपति । प्रापयति । तत्र दृष्टांतः । यवमिव यथा यवं स्थिविभ्यः
+> कुसिदेभ्य आदाय निर्वपति॥ डुवप् बीजसंताने । लिटि रूपं ॥ यद्वा। साधुनयनादि
+> गुणयुक्ता गा अपः पर्वतेभ्यो मेघेभ्य आहृत्य सर्वत्र वर्षति ॥
+
+##### Gist of the bhāṣya
+
+The cows are of excellent form, praised for it. Brihaspati draws them out from the mountains belonging to Vala and brings them to the gods' side. The example is barley, which a man takes from the granaries and pours out. Alternatively: the cows (the waters), endowed with good leading and other qualities, he fetches from the mountains, that is, the clouds, and rains everywhere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- स्थि विभ्यः (*sthi vibhyaḥ*)—from the granaries
+- यवमिव (*yavamiva*)—as barley grain is brought, filled up
+- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspati
+- साध्वराः (*sādhvarāḥ*)—those that give beneficial milk
+- अतिथिनीः (*atithinīḥ*)—those of continuous movement
+- इषिरः (*iṣiraḥ*)—those to be sought
+- स्पार्हाः (*spārhāḥ*)—desired
+- सुवर्णाः (*suvarṇāḥ*)—those of excellent colour
+- अनवद्यरूपाः (*anavadyarūpāḥ*)—those of praised form
+- गाः (*gāḥ*)—cows
+- पर्वतेभ्यः (*parvatebhyaḥ*)—from the mountains in which Vala had hidden them
+- वितूर्‍य (*vitūrya*)—bringing out
+- निः ऊपे (*niḥ ūpe*)—leads them to the gods' side
+
+##### भावार्थ (Bhāvārtha)
+
+As barley grain is filled up from the granaries and brought out, Brihaspati brings out the cows, the givers of beneficial milk, of continuous movement, to be sought, desired, of excellent colour and of praised form, from the mountains where Vala is hidden, and leads them to the gods' side.
+
+##### English translation
+Brihaspati brings to (the gods), after extricating them from the mountains, the cows that are the yielders of pure (milk), ever in motion, the objects of search and of desire, well-coloured and of unexceptionable form, (as men bring) barley from the granaries.
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> आ॒प्रु॒षा॒यन्मधु॑न ऋ॒तस्य॒ योनि॑मवक्षि॒पन्न॒र्क उ॒ल्कामि॑व॒ द्योः ।  
+> बृह॒स्पति॑रु॒द्धर॒न्नश्म॑नो॒ गा भूम्या॑ उ॒द्वेव॒ वि त्वचं॑ बिभेद ॥४॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आपुषायन् । मधुना । ऋतस्य । योनिं । अव्यक्षिपन् । अर्कः । उल्कां इव । द्योः ।  
+> बृहस्पतिः । उद्धरन् । अश्मनः । गाः । भूम्याः । उद्ना इव । वि । त्वचं । बिभेद ॥ ४ ॥
+
+### Printed p. 579
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> मधुनोदकेनाप्रुषायन् पृथिवीमाभिमुख्येन सिंचन्॥ प्रुष प्लुष स्नेहनसेचनपूरणेषु। व्यत्ययेन विकरणस्य शायजादेशः॥ ऋतस्कोदकस्य योनिं मेघमवक्षिपन् वृष्ट्यर्थमवकिरन्नर्कोऽर्चनीयो बृहस्पतिर्द्योर्दुलोकादुल्क्यामिमिवोल्कां यथोद्धरति तद्वदश्मनः शिलोच्चयाद्वलेनाधिष्ठिताद्दाः पणिभिरपहृतान्वशूनुद्धरन्नूर्ध्व० गमयन्भूम्यास्त्वचं तेषां शफैर्वि बिभेद ! विभिन्नामकार्षित् । सर्वत्र गा वितता अकार्षिदित्यर्थः । तत्र दृष्टांतः । उद्भव यथा
+> वृष्टु दकेन पर्जन्यो भूमित्वचं विभिनत्ति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Brihaspati, the adorable, sprinkling the earth with मधुना (*madhunā*), that is, water, directing it towards the earth, and scattering the cloud, the source of the water, for the sake of rain, draws up from the rock (the mass of stone held by Vala) the cattle carried off by the Paṇis, bringing them upward, as one draws out a meteor from the sky. With their hoofs he split the skin of the earth; that is, he made the cattle spread everywhere. The example: as Parjanya splits the skin of the earth with the water of rain, so he does.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- मधुना (*madhunā*)—with water
+- आ प्रुषायन् (*ā pruṣāyan*)—making the earth wet
+- ऋतस्य (*ṛtasya*)—of water
+- योनिं (*yoniṃ*)—the source, the cloud
+- अवक्षिपन् (*avakṣipan*)—scattering for rain
+- अर्कः (*arkaḥ*)—the adorable
+- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspati
+- द्योः (*dyoḥ*)—from the sky
+- उल्कामिव (*ulkāmiva*)—as one brings a meteor out
+- अश्मनः (*aśmanaḥ*)—from the mountain
+- गाः (*gāḥ*)—cows
+- उद्धरन् (*uddharan*)—bringing out
+- उद्वेव (*udveva*)—as Parjanya makes the regions of the earth into hollows and pits by rain
+- भूम्याः (*bhūmyāḥ*)—of the earth
+- त्वचं (*tvacaṃ*)—the upper part
+- वि बिभेद (*vi bibheda*)—makes it split with hoofs
+
+##### भावार्थ (Bhāvārtha)
+
+The adorable Brihaspati, making the earth wet with water, scattering for rain the cloud that is the source of the water, bringing the cows out of the mountain as one brings a meteor out of the sky, makes the upper part of the earth split with the hoofs of the cows, as Parjanya pours rain and splits the regions of the earth.
+
+##### English translation
+Saturating (the earth) with water, scattering the receptacle of rain, the adorable Brihaspati, raising up the cattle from the rock as (he raises) a meteor from the sky, rent the skin of the earth (with the hoofs of the cattle) as (Parjanya rends it) with rain.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अप॒ ज्योति॑षा॒ तमो॑ अं॒तरि॑क्षादु॒द्नः शीपा॑लमिव॒ वात॑ आजत् ।  
+> बृह॒स्पति॑रनु॒मृश्या॑ व॒लस्या॒भ्रमि॑न॒ वात॒ आ च॑क्र॒ आ गाः ॥ ५ ॥
+
+### Printed p. 580
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> आप । ज्योतिषा । तमः । अंतरिक्षात् । उद्यः । शीपालंऽइव । वातः । आजत् ।  
+> बृहस्पतिः । अनुमृश्य । वलस्य । अभ्रंऽइव । वातः । आ । चक्रे । आ । गाः ॥ ५ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> स बृहस्पतिर्जोयतिषा तमसावृते पर्वतविवरे कृतेन सूर्येणांतरिक्षात्तत्तमोऽपाजत् । अपागमयत् । तत्र दृष्टांतः । उद्यः शीपालमिव । यथोदकाद्वातो वायुः शीपालं शैवालमपगमयति तद्वत् । ततः सोऽयमनुमृश्यात्र
+> गावस्तिष्ठंतीति विचार्य निश्चित्य वलस्य स्वभूतस्य पर्वतस्यांतर्गता गा आ चक्रे । आ
+> समंतादकार्षित् । कथमिव । अभ्रमिव यथा वायुरंतरिक्षस्थितमभ्रं मेघमाकिरति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+Brihaspati, by the light of the sun made in the mountain cave enveloped in darkness, drove that darkness away from the atmosphere. The example: as the wind drives शीपालं (*śīpālaṃ*), moss, away from the water. Then, reflecting that the cows must be there, and deciding so, he brought together on all sides the cows lying inside the mountain that belonged to Vala. The example: as the wind scatters the cloud standing in the atmosphere.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- वातः (*vātaḥ*)—the wind
+- उदृः (*udṛḥ*)—from water
+- शीपालमिव (*śīpālamiva*)—as it separates moss
+- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspati
+- ज्योतिषा (*jyotiṣā*)—by his radiance
+- अंतरिक्षात् (*aṃtarikṣāt*)—from the atmosphere
+- तमः (*tamaḥ*)—darkness
+- अपाजत् (*apājat*)—scattered
+- अभ्रमिव (*abhramiva*)—as it scatters a cloud
+- अयं (*ayaṃ*)—Brihaspati
+- अनुमृश्य (*anumṛśya*)—guessing that the cows must be there
+- वलस्य (*valasya*)—hidden in Vala's mountain
+- गाः (*gāḥ*)—the cows
+- आ चक्रे (*ā cakre*)—brought out
+
+##### भावार्थ (Bhāvārtha)
+
+As the wind scatters moss from water, Brihaspati with his radiance scattered the darkness from the atmosphere. Guessing that the cows must be in Vala's mountain, he brought out the cows hidden there, as the wind scatters a cloud.
+
+##### English translation
+Brihaspati drove away the darkness from the firmament with light as the wind (blows) the shipala from the water, guessing (them to be there) he swept the Vala's cows together to himself as the wind (sweeps) the clouds.
+
+#### Ṛk 6
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> य॒दा व॒लस्य॒ पीय॑तो॒ जसुं॒ भेद्बृह॒स्पति॑रग्नि॒तपो॑भिर॒र्कैः ।  
+> द॒द्भिर्न जि॒ह्वा परि॑विष्ट॒माद॑दा॒विर्नि॒धीर॑कृणोदु॒स्रिया॑णां ॥ ६ ॥
+
+### Printed p. 581
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> यदा । वलस्य । पीयतः । जसुं । भेत् । बृहस्पतिः । अग्नितपःभिः । अर्कैः ।  
+> दत्थभिः । न । जिह्वा । परिऽविष्टं । आदत् । आविः । निधीन् । आकृणोत् । उस्रियाणां॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> पीयतः । पीयतिर्हिंसाकर्मा। हिंसकस्य वलस्य जसुमायुधं यदा यस्मिन्काले भेत् भिनत्ति । केन साधनेन । अग्नि तपोभिरग्नि वत्तपनशीलैरर्कैरर्चनीयै रश्मिभिः
+> अपि वा मंत्रैर्भिनत्ति । किंच दद्भिः ॥ पद्दन्नोमासित्यादिना दंतशब्दस्य दद्भावः ॥
+> यथा दंतैः परिविष्टं भक्ष्यं जिह्वा भक्षयति तद्वत्स परिविष्टं पर्वते पणिभिः परिवृतं
+> वलनामानं यदादत् अभक्षयत् अवधीत् तदानीं तैरपहृतानामुस्रियाणां गवां
+> निधीनाविरकृणोत् । आविर्भूतमकरोत् ॥
+
+##### Gist of the bhāṣya
+
+पीयतः (*pīyataḥ*): the root पीयति (*pīyati*) means injuring; so, of the injuring Vala. When Brihaspati split Vala's weapon जसुं (*jasuṃ*): by what means? By rays, अर्कैः (*arkaiḥ*), adorable and burning like fire (अग्नि तपोभिः (*agni tapobhiḥ*)); or he splits it with mantras. Further, दद्भिः (*dadbhiḥ*) (the word for tooth takes the form दत् (*dat*)). As the tongue consumes food surrounded by the teeth, so, when he consumed (killed) the one named Vala, surrounded by the Paṇis in the mountain, then he made manifest the treasures of the cows, उस्रियाणां (*usriyāṇāṃ*), carried off by them.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दद्भिः (*dadbhiḥ*)—the food lying between the teeth
+- जिह्वा आदत् न (*jihvā ādat na*)—as the tongue tastes
+- पीयतः (*pīyataḥ*)—of the injurer
+- वलस्य (*valasya*)—of the Asura named Vala
+- परिविष्टं (*pariviṣṭaṃ*)—covered by the weapons of other Asuras
+- जसुं (*jasuṃ*)—the weapon (of Vala)
+- यदा (*yadā*)—when
+- अग्नि तपोभिः (*agni tapobhiḥ*)—burning like fire
+- अर्कैः (*arkaiḥ*)—with rays, adorable
+- बृहस्पतिः भेत् (*bṛhaspatiḥ bhet*)—Brihaspati destroyed, then
+- उस्त्रियाणां (*ustriyāṇāṃ*)—of the cows
+- निधीन् (*nidhīn*)—the herds
+- आविरकृणोत् (*āvirakṛṇot*)—made visible
+
+##### भावार्थ (Bhāvārtha)
+
+As the tongue tastes food enclosed by the teeth, when Brihaspati destroyed, with rays burning like fire and adorable, the weapon of the injuring Asura Vala, which was enclosed by the weapons of other Asuras, then he made the herds of cows visible.
+
+##### English translation
+When Brihaspati demolished with rays burning like fire the weapon of the malignant Vala, he devoured him (encompassed by his followers) as the tongue (consumes) that which is encompassed by the teeth; he made manifest the hiding-place of the cows.
+
+#### Ṛk 7
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> बृह॒स्पति॒रम॑त॒ हि त्यदा॑सां॒ नाम॑ स्व॒रीणां॒ सद॑ने॒ गुहा॒ यत् ।
+
+### Printed p. 582
+
+> आंडेव भित्वा शकुनस्य गर्भमुदुस्रियाः पर्वतस्य त्मनाजत् ॥
+
+**NOTE**
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> बृहस्पतिः । अमत । हि । त्यत् । आसां । नाम । स्वरीणां । सदने । गुहा । यत् ।  
+> आंडाऽइव । भित्ता । शकुनस्य । गर्भं । उत् । उस्रियाः । पर्वतस्य । त्मना । आजत् ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पतिर्गुहा गुहायां सदने स्थाने स्वरीणां शब्दायमानानामासां
+> गवां त्यत्तत्पसिद्धं नाम नामधेयं यद्यदामत हि ज्ञातवान्खलु ॥ मनु अवबोधने। लुजि तनादिभ्यस्तथासोः । पा. २-४-७९ । इति सिचो लुक् ॥ तदानीं पर्वतस्यांतःस्थिता उस्रिया गास्त्मनात्मनैवासहायेन पर्वतं भित्तोदाजत् । उदगमयत् । तत्र दृष्टांतः । आंडेव यथा शकुनस्य पक्षिण आंडानि भित्वा तत्र स्थितं गर्भमुद्गमयति तद्वत् ॥
+
+##### Gist of the bhāṣya
+
+When Brihaspati knew गुहा (*guhā*), in the cave, in the place, that well-known name of these lowing cows, then the cows (उस्रियाः (*usriyāḥ*)) standing inside the mountain he brought out by himself, without help, splitting the mountain. The example: as one splits the eggs of a bird and brings out the embryo lying within.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- गुहा (*guhā*)—of the mountain cave
+- सदने (*sadane*)—in the place
+- स्वरीणां (*svarīṇāṃ*)—that make sound
+- आसां (*āsāṃ*)—of these cows
+- त्यत् (*tyat*)—the well-known
+- नाम (*nāma*)—name
+- यत् (*yat*)—when
+- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspati
+- अमत हि (*amata hi*)—knew; then
+- शकुनस्य (*śakunasya*)—of the bird
+- आंडेव गर्भं (*āṃḍeva garbhaṃ*)—as one breaks an egg and brings out the substance within
+- पर्वतस्य (*parvatasya*)—from the mountain
+- उस्रियाः (*usriyāḥ*)—the cows
+- त्मना (*tmanā*)—without the help of others
+- भित्वा (*bhitvā*)—breaking (the rocks)
+- उदाजत् (*udājat*)—brought out
+
+##### भावार्थ (Bhāvārtha)
+
+When Brihaspati knew the well-known name of the cows that were hidden in the mountain cave and making sound, then, as one breaks a bird's egg and brings out the substance within, he broke the rocks of the mountain and by himself, without the help of others, brought out the cows that were inside.
+
+##### English translation
+When Brihaspati had discovered that name of the lowing cows in their place in the cave; by his own strength he extricated the cattle from the rock as (breaking) the eggs of a bird (one extricates) the embryo.
+
+#### Ṛk 8
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> अश्नापि॑नद्धं॒ मधु॒ पर्य॑पश्य॒न्मत्स्यं॒ न दी॒न उ॒दनि॑ क्षि॒यंतं॑ ।  
+> निष्टज्ज॑भार चम॒सं न वृ॒क्षाद्बृह॒स्पति॑र्विर॒वेणा॑ वि॒कृत्य॑ ॥ ८ ॥
+
+### Printed p. 583
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> अश्ना । अपिनद्धं । मधु । परि । अपश्यत् । मत्स्यं । न दीने । उदनि । क्षियंतं ।  
+> निः । तत् । जभार । चमसं । न । वृक्षात् । बृहस्पतिः । विरवेण । विकृत्य ॥ ८ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> बृहस्पतिरश्नात्मना व्याप्या शिलयापिनद्धं पिहितं मधु गोलक्षणं पर्यपश्यत् । परितोऽद्राक्षीत् । तत्र दृष्टांतः । मत्स्यं न यथा दीने शुष्क उदनि ॥
+> उदकशब्दस्योदन्नादेशः । उदके क्षियंतं निदसंतं मत्स्यं यथा पश्यति तद्वत् ॥
+> दृष्ट्वा च तद्दोलक्षणं मधु विरवेण विविधेन शब्देन विकृत्य वलं छित्वा निर्जभार ।
+> कथमिव । चमसं न । चमंति भक्षयंत्यत्रेति चमसः सोमपात्रं । तं यथा वृक्षान्निर्हरति तद्वत् ॥ हरतेर्लिटि रूपं । हृग्रहोर्भः ॥
+
+##### Gist of the bhāṣya
+
+Brihaspati saw all round मधु (*madhu*), that is, the cows, covered by a pervading rock (अश्ना (*aśnā*)). The example: as one sees a fish living in a dried-up pool. Having seen it, he split Vala with a varied sound (विरवेण (*viraveṇa*)) and drew out that cow-form honey. The example: चमसं न (*camasaṃ na*); चमसः (*camasaḥ*) is the Soma vessel, in which they drink; as one takes it out of a tree.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- दीने उदनि (*dīne udani*)—in a pool of dried-up water
+- क्षियंतं (*kṣiyaṃtaṃ*)—living
+- मत्स्यं न (*matsyaṃ na*)—like a fish
+- अश्ना (*aśnā*)—by the rock spread all round
+- आपिनद्धं (*āpinaddhaṃ*)—covered
+- मधु (*madhu*)—the cow
+- बृहस्पतिः (*bṛhaspatiḥ*)—Brihaspati
+- पर्यपश्यत् (*paryapaśyat*)—saw
+- वृक्षात् (*vṛkṣāt*)—cutting a tree, from it
+- चमसं न (*camasaṃ na*)—as one prepares a Camasa vessel
+- विरवेण (*viraveṇa*)—with his own sound
+- विकृत्य (*vikṛtya*)—splitting Vala
+- तत् (*tat*)—that honey in cow-form
+- निर्जभार (*nirjabhāra*)—brought out
+
+##### भावार्थ (Bhāvārtha)
+
+As one easily sees a fish living in a pool of dried-up water, Brihaspati saw the cow covered all round by rock. As one cuts a tree and prepares a Camasa vessel from it, he split Vala with his roaring sound and brought out the honey in cow-form.
+
+##### English translation
+Brihaspati looked round upon the cows shut up in the cave like fish in a dried-up pool, he seized Vala with a shout, cutting him off like a bowl from a tree.
+
+##### विशेषविषयगळु (Special Topics)
+
+The meaning Sāyaṇa has given for this Ṛk differs from the meaning Yāska has given. Explaining the etymology of the word Brihaspati, Yāska says: बृहस्पतिर्बृहतः पाता वा पालयिता वा (*bṛhaspatirbṛhataḥ pātā vā pālayitā vā*). Of him there is this Ṛk.
+
 ---
 
-**Progress note:** Done through printed p. 577. pp. 572-577 (batch API)
+**Progress note:** Done through printed p. 583. pp. 578-583 (batch API)
