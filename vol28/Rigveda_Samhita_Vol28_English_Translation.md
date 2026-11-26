@@ -3242,6 +3242,144 @@ If the question is asked again, what is the need for the association of the Vi�
 After following and crossing the Viṣṇu-strides, the sacrificer, standing near Agni, worships Agni with the Vātsapra rite. As one who stops at one place at the end of a journey and removes his fatigue, so the sacrificer too attains rest in this setting. Human beings in general follow the path of the gods.
 तद्वा अहोरात्रे एव विष्णुक्रमा भवंति । अहोरात्रे वात्सप्रमहोरात्रे एव तद्यात्यहोरात्रे क्षेम्यो भवति तस्मादु हेदमुत मानुषो ग्रामोऽहोरात्रे यात्वाहोरात्रे क्षेम्यो भवति । (*tadvā ahorātre eva viṣṇukramā bhavaṃti | ahorātre vātsapramahorātre eva tadyātyahorātre kṣemyo bhavati tasmādu hedamuta mānuṣo grāmo 'horātre yātvāhorātre kṣemyo bhavati |*) (Śa. Brā. 6-7-4-10)
 
+### Printed p. 97
+The Viṣṇukramas are themselves day-and-night forms, and the Vatsapra too has the form of day and night. The Viṣṇukrama is a matter of travelling, whereas the Vatsapra gives rest. Therefore the sacrificer who has followed the Viṣṇukrama travels during one day-and-night and rests during another day-and-night. Even in worldly affairs, if people travel for a whole day (night included), that body of people rests on another day (night included).
+
+स वा अर्धमेव संवत्सरस्य विष्णुक्रमान् क्रमते । अर्धं वात्सप्रेणोपतिष्ठते मध्यॆ ह संवत्सरस्य स्वर्गो लोकः स यत्कनीयोऽर्धात्ममेत न हैतग्ं स्वर्गं लोकमभिप्राप्नुयादथ यद्भूयोऽर्धात्पराज हैतग्ं स्वर्गं लोकमति प्रणश्येदथ यदर्थं क्रमतेऽर्धमुपतिष्ठते तत्संप्रति स्वर्गं लोकमाप्ता विमुंचते ॥ (*sa vā ardhameva saṃvatsarasya viṣṇukramān kramate | ardhaṃ vātsapreṇopatiṣṭhate madhyè ha saṃvatsarasya svargo lokaḥ sa yatkanīyo 'rdhātmameta na haitagṃ svargaṃ lokamabhiprāpnuyādatha yadbhūyo 'rdhātparāja haitagṃ svargaṃ lokamati praṇaśyedatha yadarthaṃ kramate 'rdhamupatiṣṭhate tatsaṃprati svargaṃ lokamāptā vimuṃcate ‖*) (Śa. Brā. 6-7-4-11 **NOTE**) **NOTE**
+
+Following the Viṣṇukrama he travels only for half a year, and in the remaining half year he worships Agni with the Vatsapra rite. The heavenly world lies in the middle of the year. Therefore, if he travels for less than half a year he does not reach heaven at all. If he travels for more than half a year, heaven is passed over and slips from his hand. Therefore, if he travels for just half a year and worships Agni with the Vatsapra rite for the other half year, he reaches heaven as well and obtains release from bondage.
+
+ताभ्यां वै विपर्यासमेति । यथा महांतमध्वानं विमोकग्ं समश्नुनीत तादृक्तात्स वै पुरस्ताज्योपरिष्टाज्योभे विष्णु क्रमवात्सप्रे समस्यत्यहर्वै विष्णुक्रमा रात्रिर्वात्सप्रमेतद्वा इदग्ं सर्वं प्रजापतिः प्रजनयिष्यंश्च प्रजनयित्वा चाहोरात्राभ्यामुभयतः परिगृह्णाति ॥ ( (*tābhyāṃ vai viparyāsameti | yathā mahāṃtamadhvānaṃ vimokagṃ samaśnunīta tādṛktātsa vai purastājyopariṣṭājyobhe viṣṇu kramavātsapre samasyatyaharvai viṣṇukramā rātrirvātsaprametadvā idagṃ sarvaṃ prajāpatiḥ prajanayiṣyaṃśca prajanayitvā cāhorātrābhyāmubhayataḥ parigṛhṇāti ‖ (*) (Śa. Brā. 6-7-4-12)
+
+Just as one who travels to a distant land keeps his journey and his rest in alternation (one after the other), so the Viṣṇukrama and the Vatsapra rite are to be in alternation. But both are to be joined together before the dīkṣā and again after the dīkṣā period. The Viṣṇukrama is the day and the Vatsapra is the night. At the beginning and at the end the two are joined together; only in the middle period do the two revolve in alternation. Prajāpati, at the beginning of the time of creation and again after creation, made the whole universe created by himself to be encompassed by day and night. In the same way the performer of the sacrifice too
+
+### Printed p. 98
+when he wishes to create the universe in the form of the sacrifice, must make both sides of his creation, at its beginning and after creation, to be encompassed by the day and night that take the forms of Viṣṇukrama and Vatsapra.
+
+तदाहुः । युदहर्विष्णुक्रमा रात्रिर्वात्सप्रमथो एवाहन्भवतो न रात्र्यां कथमस्यापि रात्र्यांकृते भेभदत इत्येतद्वा एने अदो दीक्षमाणः पुरस्तादपराह्न उभे समस्यति रात्रिर्हैतद्यदपराह्नोऽथै ने एतत्संनिवप्स्यन्नु परिष्टात्पूर्वाह्न उभे समस्यत्यहर्हैतद्यत्पूर्वाह्न एवमु हास्योभे एवाहन् कृते भवत उभे रात्र्यां । (*tadāhuḥ | yudaharviṣṇukramā rātrirvātsapramatho evāhanbhavato na rātryāṃ kathamasyāpi rātryāṃkṛte bhebhadata ityetadvā ene ado dīkṣamāṇaḥ purastādaparāhna ubhe samasyati rātrirhaitadyadaparāhno 'thai ne etatsaṃnivapsyannu pariṣṭātpūrvāhna ubhe samasyatyaharhaitadyatpūrvāhna evamu hāsyobhe evāhan kṛte bhavata ubhe rātryāṃ |*) (Śa. Brā. 6-7-4-13)
+
+An objection may also arise against the above injunction. If the Viṣṇukramas reflect the day and the Vatsapra reflects the night, the two should be performed in alternation at their respective times; what is the meaning of performing both rites in the day alone? When this objection arises, the injunction that answers it is as follows: the one who has been consecrated first joins the two rites together and performs them in the afternoon. The afternoon too has the form of night. Thus, after joining the two, they are performed together in the forenoon. The forenoon has the form of day. In this way both rites are performed in the day, and likewise both are performed in the night.
+
+स यदहः संनिवप्स्यन्तास्त् तदहः प्रातरुदित आदित्ये भस्मैव प्रथममुद्वपति भस्मोदुप्य वाचं विसृजते वाचं विसृज्य समिधमादधाति समिध मादाय भस्मापोऽभ्यवहरति यथैव तस्याभ्यवहरणं तथापादाय भस्मनः प्रत्येत्योखायामोपॊप्योतिष्ठतेऽथ प्रायश्चित्तीकरोति ॥ ( (*sa yadahaḥ saṃnivapsyantāst tadahaḥ prātarudita āditye bhasmaiva prathamamudvapati bhasmodupya vācaṃ visṛjate vācaṃ visṛjya samidhamādadhāti samidha mādāya bhasmāpo 'bhyavaharati yathaiva tasyābhyavaharaṇaṃ tathāpādāya bhasmanaḥ pratyetyokhāyāmopòpyotiṣṭhate 'tha prāyaścittīkaroti ‖ (*) (Śa. Brā. 6-7-4-14)
+
+On the day on which he wishes to join the two rites in the morning after sunrise, he first scatters ashes. Then, having uttered speech and taken up a kindling stick, he throws that ashes into the water. Then, in the same way, he takes a small remainder of the same ashes and returns. Then he puts it into the vessel called Ukhā and stands devoutly before Agni. After that the expiatory rite is performed.
+
+स यदि विष्णु क्रमीयमहः स्यात् । विष्णुक्रमान् क्रान्ता वात्सप्रेणोपतिष्ठेताथ यदि वात्सप्रीयं वात्सप्रेणोपस्थाय विष्णुक्रमान् क्रान्ता वात्सप्रमन्ततः कुर्याद्यथा प्रयाय न विमुंचेत्तादृक्तदथ यद्वात्सप- मंततः करोति प्रतिष्ठा वै वात्सप्रं यथा प्रतिष्ठापयेदवसाययेत्तादृक्तत्तस्मादु वात्सप्रमेवांततः कुर्यात् ॥ (*sa yadi viṣṇu kramīyamahaḥ syāt | viṣṇukramān krāntā vātsapreṇopatiṣṭhetātha yadi vātsaprīyaṃ vātsapreṇopasthāya viṣṇukramān krāntā vātsapramantataḥ kuryādyathā prayāya na vimuṃcettādṛktadatha yadvātsapa- maṃtataḥ karoti pratiṣṭhā vai vātsapraṃ yathā pratiṣṭhāpayedavasāyayettādṛktattasmādu vātsapramevāṃtataḥ kuryāt ‖*) (Śa. Brā. 6-7-4-15)
+
+### Printed p. 99
+If the day of the rite is a Viṣṇukrama day, he should cross over (complete) the Viṣṇukrama and worship Agni with the Vatsapra. If it is a day of the Vatsapra rite, he should first perform the Vatsapra, then finish the Viṣṇukrama, and then perform the Vatsapra again. He should not finish in the Viṣṇukrama itself; if he does so, the state arises of having gone round for travelling without rest. If he brings it to completion with the performance of the Vatsapra rite, complete rest is obtained. Having thus declared the greatness of the Vatsapra, the text again explains the relation between Agni and the Vatsapra sūkta in the following way.
+
+वनीवाह्वेताग्निं बिभ्रदित्याहुः । देवाश्चासुराश्चोभये प्राजापत्या अस्पर्धंत ते देवाश्चक्रमचरञ्खालमसुरा आसंस्ते देवाश्चक्रेण चरंत एतत्कर्मापश्यंश्चक्रेण हि वै देवाश्चरंत एतत्कर्मापश्यंस्तस्मादानस एव पौरोडाशेषु यजूग्‌ष्यनसोऽग्नौ ॥ (*vanīvāhvetāgniṃ bibhradityāhuḥ | devāścāsurāścobhaye prājāpatyā aspardhaṃta te devāścakramacarañkhālamasurā āsaṃste devāścakreṇa caraṃta etatkarmāpaśyaṃścakreṇa hi vai devāścaraṃta etatkarmāpaśyaṃstasmādānasa eva pauroḍāśeṣu yajūgṣyanaso 'gnau ‖*) (Śa. Brā. 6-8-1-1)
+
+There is an injunction, "Let Agni be urged forward and sent on while he is being borne." Why? Its reason is explained as follows.
+
+The gods and the Asuras, both born of Prajāpati, used to contend with each other. The gods used to travel on a chariot furnished with wheels; the Asuras stayed in their own place. Because the gods travelled on a wheeled chariot, they obtained the vision of this prescribed rite. If they had not travelled on a wheeled chariot, they would not have had the vision of it. Therefore the Paurodāśa rite belongs to the chariot.
+
+स यो वनीवाह्यते । देवान् कर्मणैति दैवग्ं हास्य कर्म कृतं भवत्यथ यो न वनीवाह्यतेऽसुरान् कर्मणैत्यसुरग्ं हास्यकर्मकृतं भवति ॥ (*sa yo vanīvāhyate | devān karmaṇaiti daivagṃ hāsya karma kṛtaṃ bhavatyatha yo na vanīvāhyate 'surān karmaṇaityasuragṃ hāsyakarmakṛtaṃ bhavati ‖*) (Śa. Brā. 6-8-1-2)
+
+He who urges Agni on and makes him travel approaches the gods alone, by the means of venerable rite. If he does not so urge Agni, he approaches only the Asuras through his rites. Such a rite, which does not urge Agni, has the character of the Asuras.
+
+### Printed p. 100
+तद्वैक आहुः । स्वयं ना एष वनीवाहितो विष्णुक्रमैर्ना एष प्रयाति वात्सप्रेणावस्यतीति न तथा विद्याद्दैवं वा अस्य तत्पयाणं यद्विष्णुक्रमादैवमवसानं तद्वात्सप्रमथास्येदं मानुषं प्रयाणं यदिदं प्रयाति मानुषमवसानं यदस्यति ॥ (*tadvaika āhuḥ | svayaṃ nā eṣa vanīvāhito viṣṇukramairnā eṣa prayāti vātsapreṇāvasyatīti na tathā vidyāddaivaṃ vā asya tatpayāṇaṃ yadviṣṇukramādaivamavasānaṃ tadvātsapramathāsyedaṃ mānuṣaṃ prayāṇaṃ yadidaṃ prayāti mānuṣamavasānaṃ yadasyati ‖*) (Śa. Brā. 6-8-1-3)
+
+But here room remains for another doubt: Agni needs no other help to urge him on; with the help of the Viṣṇukrama he himself moves and travels, and by the Vatsapra he reaches the end of that travelling. If it is objected thus, the objection is wrong. Why? If Agni's movement and travelling occurred without human effort, it would benefit only the gods and be of no use to men. Therefore, if a man employs Agni by his own act, the fruit of it comes to the man; otherwise it does not.
+
+प्रजापतिरेषोऽग्निः । उभयमेतत्प्रजापतिर‍्यच्च देवा यच्च मनुष्यास्तद्यद्विष्णु क्रमवात्सप्रे भवतो यद्वेवास्य दैवग्ं रूपं तदस्य तेन संस्करोत्यथ यद्वनीवाह्यते तदेवास्य मानुषग्ं रूपं तदस्य तेन संस्करोति स ह वा एतग्ं सर्वं कृत्स्नं प्रजापतिग्ं संस्करोति य एवं विद्वान्वनीवाह्यते तस्मादु वनीवाह्यतैव ॥ (*prajāpatireṣo 'gniḥ | ubhayametatprajāpatiryacca devā yacca manuṣyāstadyadviṣṇu kramavātsapre bhavato yadvevāsya daivagṃ rūpaṃ tadasya tena saṃskarotyatha yadvanīvāhyate tadevāsya mānuṣagṃ rūpaṃ tadasya tena saṃskaroti sa ha vā etagṃ sarvaṃ kṛtsnaṃ prajāpatigṃ saṃskaroti ya evaṃ vidvānvanīvāhyate tasmādu vanīvāhyataiva ‖*) (Śa. Brā. 6-8-1-4)
+
+Prajāpati is Agni, and Agni is Prajāpati. Prajāpati, who has the form of Agni, is all the gods and men. By the performance of the Viṣṇukrama and Vatsapra he fashions the divine form. By the act that urges Agni forward he fashions the human form. Therefore, those who urge Agni forward with the help of both these acts fashion, as it were, the complete form of Prajāpati. Thus the greatness of the Vatsapra is praised.
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> अच्छाम इति चतुर्थेऽनुवाकेऽष्टादश सूक्तानि । तत्र प्र होतेति दशर्चं
+> चतुर्थं सूक्तं । प्र होता दशेत्यनुक्रांतं । अनुवर्तमानाद्भालंदनस्य वत्सप्रेरार्षं । अनादेशपरिभाषया त्रैष्टुभं ! आग्नेयं ॥ पूर्वसूक्तेन सहोक्तो
+> विनियोगः ॥
+
+##### Gist of the bhāṣya
+
+In the fourth anuvāka, which begins with अच्छाम (*acchāma*), there are eighteen sūktas. Among them the fourth sūkta, प्र होता (*pra hotā*), has ten ṛks; the Anukramaṇī says प्र होता दश (*pra hotā daśa*). By continuation from the preceding sūkta, its seer is Vatsapri, son of Bhalandana. By the rule for what is not specified, its metre is Triṣṭubh. Its deity is Agni. Its use in ritual (viniyoga) has been stated together with the preceding sūkta.
+
+### Printed p. 101
+
+##### Anuvāda
+
+In the fourth anuvāka of the tenth maṇḍala of the Ṛgveda Saṃhitā, beginning with the ṛk अच्छाम (*acchāma*), there are eighteen sūktas. Of these, the first three sūktas have been explained in the previous chapter. The sūkta प्रहोता (*prahotā*), which is now to be begun, is the fourth in this anuvāka. It has ten ṛks. The Anukramaṇī says प्रहोता दश (*prahotā daśa*). The seer of this sūkta is Vatsapri Bhālandana; the deity is Agni; the metre is Triṣṭubh. The use of this sūkta in ritual has been stated in the introduction of the previous sūkta.
+
+Sūkta 46
+Maṇḍala 10; Anuvāka 4; Sūkta 46; Aṣṭaka 8; Adhyāya 1; Vargas 1, 2.
+Number of ṛks in the sūkta: 10.
+Seer: Vatsapri.
+Deity: Agni.
+Metre: Triṣṭubh.
+
+#### Ṛk 1
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> प्र होता॑ जा॒तो म॒हान्न॑भो॒विन्नृ॒षद्वा॑ सीदद॒पामु॒पस्थे॑ ।  
+> दधि॒र्यो धायि॒ स ते॒ वयां॑सि यं॒ता वसू॑नि विध॒ते त॑नू॒पाः ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> प्र । होता । जातः । महान् । नभःवित् । नृसद्वा । सीदत् । अपां । उपस्थे !  
+> दधिः । यः । धायि । सः । ते । वयांसि । यंता । वसूनि । विधते । तनूपाः ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> यो नृषद्वाग्निरसां । अंतरिक्षनामैतत् । अंतरिक्षस्योपस्थ उत्संगे वैद्युतरूपेण निषण्णोऽभूत् । स इदानीं होता यजमानानां होमनिष्पादको जातः
+> प्रादुर्भूतो महान् गुणैः पूज्यो नभोविदंतरिक्षस्य वेत्ता । यतस्तत्रोत्पन्नः
+> अतस्तस्य ज्ञाता ॥ नृषद्वा नृषु सीदन् । सदेः क्वनिप् कृत्स्वरः ॥ प्र सीदत् । वेद्यां
+> प्रसीदति । अपामुपस्थे महिषा अगृभ्यत । ऋग्वे-८-४-१ । इति हि निगमः । यद्वा ।
+> अपां । अपसामित्यर्थः । कर्मणामुपस्थ उपस्थाने समीपे वेद्यामुक्तलक्षणः सन्।
+
+##### Gist of the bhāṣya
+
+The Agni who is नृषद्वा (*nṛṣadvā*) sat in the lap of the अपां (*apāṃ*) — this is a name of the atmosphere — that is, in the form of lightning he was seated in the lap of the atmosphere. He has now become the होता (*hotā*), the accomplisher of the sacrificers' offerings; जातः (*jātaḥ*) means manifested; महान् (*mahān*) means worthy of worship by his qualities; नभोवित् (*nabhovit*) means knower of the atmosphere, since he was born there and therefore knows it. नृषद्वा (*nṛṣadvā*) means one who sits among men. प्र सीदत् (*pra sīdat*) means he sits down on the altar. Sāyaṇa quotes the nigama अपामुपस्थे महिषा अगृभ्यत (*apāmupasthe mahiṣā agṛbhyata*) (Ṛ. Saṃ. 8-4-1). Or else अपां (*apāṃ*) means "of rites"; उपस्थे (*upasthe*) means in the neighbourhood of the rites, he who has the stated character being (seated) on the altar.
+
+### Printed p. 102
+
+> अथवा । अपामुदकानामुपस्थे मध्ये योऽग्निर्हविर्वोढुमसहमानो निगूढः
+> स देवैः पुनः प्रार्थित उक्तविधः सन् वेद्यां प्रसीदति । योऽग्निर्दधिर्धाता यज्ञस्य
+> धारकः सन् धायि वेद्यां निहितोऽभूत् सोऽग्निर्हे वत्सप्रे विधते परिचरते ते
+> तुभ्यं वयांस्यन्नानि वसूनि धनानि च यंता । नियमिता भवतु । किंच तनूपास्ते
+> तन्वः पाता च भवत्विति शेषः ॥
+
+##### Gist of the bhāṣya
+
+Or else, अपां (*apāṃ*) means "of the waters": the Agni who, unable to bear the carrying of the oblation, was hidden in the midst of the waters, and who, being entreated again by the gods and being of the stated character, sits on the altar. The Agni who, as दधिः (*dadhiḥ*), the supporter of the sacrifice, was placed (धायि (*dhāyi*)) on the altar — may that Agni, to you, Vatsapri, who attend (विधते (*vidhate*)) on him, be the controller (यंता (*yaṃtā*)) of food (वयांसि (*vayāṃsi*)) and riches (वसूनि (*vasūni*)). Moreover, may he be तनूपाः (*tanūpāḥ*), the protector of your body; "may be" is to be supplied.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (यः) नृषद्वा (*(yaḥ) nṛṣadvā*)—which Agni
+- अपां (*apāṃ*)—of the atmosphere
+- उपस्थे (*upasthe*)—in the lap, was in the form of lightning
+- महान् (*mahān*)—worthy of worship
+- नभोवित् (*nabhovit*)—knower of the atmospheric world
+- सः (*saḥ*)—that same Agni
+- होता (*hotā*)—as the hotṛ who invokes the gods at the sacrificer's sacrifice
+- जातः (*jātaḥ*)—having been born
+- प्र सीदत् (*pra sīdat*)—has become manifest on the sacrificial altar
+- यः (*yaḥ*)—which Agni
+- दधिः (*dadhiḥ*)—as supporter of the sacrifice
+- धायि (*dhāyi*)—is seated on the sacrificial altar
+- सः (*saḥ*)—that Agni
+- विधते (*vidhate*)—who serves
+- ते (*te*)—to you (the seer called Vatsapri)
+- वयांसि (*vayāṃsi*)—food and other nourishment
+- वसूनि (*vasūni*)—riches
+- यंता (*yaṃtā*)—may he be the giver (and)
+- तनूपाः (*tanūpāḥ*)—may he be the protector of your body
+
+##### भावार्थ (Bhāvārtha)
+
+The Agni who is worthy of worship, who knows the atmospheric world and who dwells in the atmosphere in the form of lightning, has now become manifest and is seated on the sacrificer's altar as the hotṛ whom the gods invoke. May that same Agni, the supporter of the sacrifice, established on the sacrificial altar, give you, O seer Vatsapri, food and other nourishment and riches, and protect you.
+
+##### English translation
+A mighty ministrant priest, one cognizant of heaven, though abiding with men, having been born, is seated on the lap of the waters : may he, the upholder (of sacrifice), who has been stationed (on the altar), be to you when offering worship, the giver of food and riches, the protector of your person.
+
+##### विशेषविषयगळु (Special Topics)
+
+नृषद्वा (*nṛṣadvā*)—नृषु सीदन् (*nṛṣu sīdan*). One who sits among men, or in the sacrifice that men are performing; that is, the Agni established on the sacrificial altar in the middle of the sacrifice which men are performing.
+
 ---
 
-**Progress note:** Done through printed p. 96. pp. 91-96 (batch API)
+**Progress note:** Done through printed p. 102. pp. 97-102 (batch API)
