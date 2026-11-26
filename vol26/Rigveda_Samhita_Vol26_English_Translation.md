@@ -12620,6 +12620,196 @@ O Pavamāna, O Soma, the milk, that is, the Soma food, brought from the heaven-w
 
 O Soma-deva, who has attained purity, with that food in the form of Soma, which is in you, brought from the atmosphere and endowed with food, make us happy so that we may live for a long time.
 
+### Printed p. 339
+
+##### English translation
+Purified (Soma), bless us with long life by means of that your nutritious milk which has been brought from heaven.
+
+## Sūkta 67 (Maṇḍala 9)
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> त्वं सोमासि' इति द्वात्रिंशदृचं सप्तमं सूक्तम् । आद्यतृचस्य बार्हस्पत्यो भरद्वाज ऋषिः । द्वितीयस्य मारीचः कश्यपः । तृतीयस्य राहूगणो गोतमः । चतुर्थस्य भौमोऽत्रिः । पंचमस्य गाथिनो विश्वामित्रः । षष्ठस्य भार्गवो जमदग्निः । सप्तमस्य मैत्रावरुणिर्वसिष्ठः । सूक्तशेषस्यांगिरसः पवित्रो वसिष्ठो वोभौ वा समुदितावृषी । ‘ पवस्व सोम मंदयन् ' इत्याद्यास्तिस्रो द्विपदा गायत्र्यः । अलाय्यस्य' इत्येषा त्रिंशी पुरउष्णिक् आद्यद्वादशकद्व्यष्टकवती सप्तविंश्येकत्रिंशीद्वात्रिंश्यस्तिस्रोऽनुष्टुभः । शिष्टा गायत्र्यः । ‘ अविता नो अजाश्वः' इत्याद्यास्तिस्रः पवमानपूषदेवत्याः पवमानसोमदेवताका वा । ‘ यत्ते पवित्रमर्चिषि' इत्याद्याः पंचर्चः पवमानाग्निदेवत्याः । आसां पंचानां मध्ये उभाभ्यां देव सवितः' इति तृतीया पवमानसवितृदेवताका वा । चतुर्थी त्रिभिष्ट्वं देव सवितः इत्येषा विकल्पेन पवमानाग्निसवितृदेवताका । ‘पुनंतु माम्' इत्येषा विकल्पेन वैश्वदेवी । ‘ यः पवमानीरध्येति' इत्यादिके द्वे पवमानमंडलाध्येतृस्तुतिप्रतिपादिके। अतः सैव देवता । शिष्टाः सर्वाः पवमानसोमदेवताकाः । तथा चानुक्रम्यते-’ त्वं सोमासि द्वात्रिंशद्भरद्वाजः कश्यपो गोतमोऽत्रिर्विश्वामित्रो जमदग्निर्वसिष्ठ इति ह तृचाः सप्त ऋषयः शेषे पवित्रो वसिष्ठो वोभौ वा पवस्व सोम तिस्रो नित्यद्विपदा गायत्र्योऽविता नस्तिस्रः पौष्ण्यो वा यत्ते पवित्रं पंचाग्नेय्यः सावित्र्यग्निसावित्री वैश्वदेवी वासामंत्यास्त्रिंशी पुरउष्णिक् सप्तविंश्यनुष्टुबंत्ये च ते पावमान्यध्येतृस्तुती' इति । गतः सूक्तविनियोगः ॥
+
+##### Gist of the bhāṣya
+
+The seventh sūkta, of thirty-two Ṛks, begins with त्वं सोमासि (*tvaṃ somāsi*). The seers are: of the first triplet Bharadvāja Bārhaspatya; of the second Kaśyapa Mārīca; of the third Gotama Rāhūgaṇa; of the fourth Atri Bhauma; of the fifth Viśvāmitra Gāthina; of the sixth Jamadagni Bhārgava; of the seventh Vasiṣṭha Maitrāvaruṇi; for the rest of the sūkta, Pavitra Āṅgirasa or Vasiṣṭha, or both together. The three Ṛks beginning पवस्व सोम मंदयन् (*pavasva soma maṃdayan*) are two-footed Gāyatrīs. The thirtieth Ṛk, beginning अलाय्यस्य (*alāyyasya*), is a Puraūṣṇih with a first part of twelve syllables and two parts of eight; the twenty-seventh, thirty-first and thirty-second are Anuṣṭubhs; the remaining Ṛks are Gāyatrīs. The three Ṛks beginning अविता नो अजाश्वः (*avitā no ajāśvaḥ*) have Pavamāna and Pūṣan as deity, or else Pavamāna Soma. The five Ṛks beginning यत्ते पवित्रमर्चिषि (*yatte pavitramarciṣi*) have Pavamāna Agni as deity; among these five, the third, देव सवितः (*deva savitaḥ*), has Pavamāna and Savitṛ as deity, or else the fourth, त्रिभिष्ट्वं देव सवितः (*tribhiṣṭvaṃ deva savitaḥ*), has alternatively Pavamāna, Agni and Savitṛ. The Ṛk पुनंतु माम् (*punaṃtu mām*) alternatively has the Viśvedevas. The two Ṛks beginning यः पवमानीरध्येति (*yaḥ pavamānīradhyeti*) praise the one who studies the Pavamāna hymns, and he is their deity. All the rest have Pavamāna Soma as deity. Sāyaṇa cites the Anukramaṇī to the same effect. The application of the sūkta has been stated.
+
+#### Ṛk 1
+
+### Printed p. 340
+
+### Printed p. 341
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सो॑मासि धार॒युर्मं॒द्र ओजि॑ष्ठो अध्व॒रे ।  
+> पव॑स्व मंह॒यद्र॑यिः ॥ १ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सोम । असि । धारयुः । मंद्रः । ओजिष्ठः । अध्वरे ।  
+> पवस्व । मंहयत्ऽरयिः ॥ १ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम अभिषूयमाण पवमान मंद्रः मादयितृतमः ओजिष्ठः ओजस्वितमः त्वम् अध्वरे हिंसारहितेऽस्मदीये यज्ञे धारयुः अभिषवणधाराकामः असि भवसि । ततस्त्वं मंहयद्रयिः स्तोतृभ्यः प्रदीयमानधनः सन् पवस्व द्रोणकलशे ग्रहादिषु दशापवित्रेण पूतो भव । यद्वा । धारयुः । ‘ तद्वदर्थे भाष्यते' इति मत्वर्थीयो युः । स हे सोम त्वं धारावानिव ततः पवस्वेति संबंधः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, being pressed, O Pavamāna, you who are most gladdening and most powerful, are at our sacrifice, free from violence, desirous of streams, that is, desirous of the streams of pressing. Therefore, as one whose wealth is given to the praisers, flow in the Droṇa vessel and the cups, becoming purified by the ten-fold filter. Or else: धारयुः (*dhārayuḥ*) means "possessed of a stream"; the construction is: you, O Soma, as if possessed of a stream, therefore flow.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- सोम (*soma*)—O Soma-deva
+- मंद्रः (*maṃdraḥ*)—who gives exceeding delight
+- ओजिष्ठः (*ojiṣṭhaḥ*)—who has excellent vigour
+- त्वं (*tvaṃ*)—you
+- अध्वरे (*adhvare*)—in the sacrifice
+- धारयुः (*dhārayuḥ*)—desirous of flowing in the form of a stream
+- असि (*asi*)—you are
+- मंहयद्रयिः (*maṃhayadrayiḥ*)—being one who gives wealth to the praiser
+- पवस्व (*pavasva*)—flow towards the Droṇa vessel
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who give exceeding delight and have excellent vigour, are in the sacrifice desirous of flowing in the form of a stream. Being one who gives wealth to the praiser, flow towards the Droṇa vessel.
+
+##### English translation
+You, Soma, who are most exhilaratingiug, most powerful, are disposed to shed your stream at our sacrifice : flow then you who are giver of riches. **NOTE**
+
+### Printed p. 342
+
+#### Ṛk 2
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सु॒तो नृ॒माद॑नो दध॒न्वान्म॑त्स॒रिंत॑मः ।  
+> इंद्रा॑य सू॒रिरंध॑सा ॥ २ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सुतः । नृऽमादनः । दधन्वान् । मत्सरिन्ऽतमः ।  
+> इंद्राय । सूरिः । अंधसा ॥ २ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे सोम नृमादनः नॄणां कर्मणो नेतॄणामृत्विजां मादयिता अत एव दधन्वान् तेभ्यो धनानि धारयन् प्रयच्छन् यद्वा यज्ञस्य धारकः सूरिः प्राज्ञः सुतः अस्माभिरभिषुतः त्वम् अंधसा हवीरूपेणान्नेन सह इंद्राय मत्सरिंतमः तस्यातिशयेन मदकारी भव । ‘नाद्धस्य ' इति नकारः ॥
+
+##### Gist of the bhāṣya
+
+O Soma, you are नृमादनः (*nṛmādanaḥ*), the gladdener of men, that is, of the priests who lead the rite; therefore दधन्वान् (*dadhanvān*), bestowing wealth on them; or else the upholder of the sacrifice. You are सूरिः (*sūriḥ*), wise, and सुतः (*sutaḥ*), pressed by us. With the food, that is, the oblation, be the most exhilarating to Indra, the greatest cause of his delight.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) नृमादनः (*nṛmādanaḥ*)—who gives delight to the sacrificers
+- दधन्वान् (*dadhanvān*)—who gives wealth to them
+- सूरिः (*sūriḥ*)—who is wise
+- सुतः (*sutaḥ*)—who is pressed, you
+- अंधसा (*aṃdhasā*)—with the oblation
+- इंद्राय (*iṃdrāya*)—to Indra
+- मत्सरिंतमः (*matsariṃtamaḥ*)—become the cause of greater delight
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who give delight to the sacrificers, who give them wealth, who are wise and pressed, together with the oblation become the cause of greater delight to Indra.
+
+##### English translation
+You who are the exhilarator of the priests, bestowing (wealth upon them) and intelligent, do you when effused together with food be the especial cause of exhilaration to Indra.
+
+#### Ṛk 3
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> त्वं सु॑ष्वा॒णो अद्रि॑भिर॒भ्य॑र्ष॒ कनि॑क्रदत् ।  
+> द्यु॒मंतं॒ शुष्म॑मुत्त॒मम् ॥ ३ ॥
+
+### Printed p. 343
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> त्वम् । सुस्वानः । अद्रिऽभिः । अभि । अर्ष । कनिक्रदत् ।  
+> द्युऽमंतम् । शुष्मम् । उत्ऽतमम् ॥ ३ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हे पवमान सोम अद्रिभिः ग्रावभिः सुष्वाणः सुन्वानोऽभिषूयमाणः त्वं कनिक्रदत् भृशं शब्दं कुर्वन् अभ्यर्ष कलशं पात्राणि वा अभिगच्छ । तथा द्युमंतं दीप्तियुक्तम् उत्तमं शुष्मं शत्रूणां शोषकं बलं च प्राप्नुहि । यद्वा । एकवाक्यतया योजनीयः। सूयमानस्त्वं बलमभिगच्छेति । ‘ कदि क्रदि' आह्वाने । क्रदेर्यङ्लुकि नलोपोऽभ्यासस्य निगागमश्च ‘दाधर्तिदर्धर्ति' इति सूत्रेण सर्वं निपात्यते । तस्माच्छतृप्रत्ययः । ‘ अभ्यस्तानामादिः' इति स्वरः ॥
+
+##### Gist of the bhāṣya
+
+O Pavamāna Soma, you who are pressed by the stones, that is, the pressing stones, flow, making a loud sound, towards the vessel or the cups. Obtain also bright, excellent strength, that is, vigour that dries up enemies. Or else the construction is in one sentence: being pressed, go to strength. The root कदि क्रदि (*kadi kradi*) has the sense of calling.
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- (O Soma-deva) अध्रिभिः (*adhribhiḥ*)—with the pressing stones **NOTE**
+- सुष्वाणः (*suṣvāṇaḥ*)—pressed
+- त्वं (*tvaṃ*)—you
+- कनिक्रदत् (*kanikradat*)—making a sound
+- अभ्यर्ष (*abhyarṣa*)—reach the Droṇa vessel
+- द्युमंतं (*dyumaṃtaṃ*)—that which is bright
+- उत्तमं (*uttamaṃ*)—and excellent
+- शुष्मं (*śuṣmaṃ*)—strength; obtain it
+
+##### भावार्थ (Bhāvārtha)
+
+O Soma-deva, you who are pressed by the pressing stones, making a sound, reach the Droṇa vessel. Obtain bright and excellent strength.
+
+##### English translation
+Do you when effused by the stones proceed resounding (to the vessed): (grant) bright excellenl strength. **NOTE**
+
+#### Ṛk 4
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदु॑र्हिन्वा॒नो अ॑र्षति ति॒रो वारा॑ण्य॒व्यया॑ ।  
+> हरि॒र्वाज॑मचिक्रदत् ॥ ४ ॥
+
+### Printed p. 344
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदुः । हिन्वानः । अर्षति । तिरः । वाराणि । अव्यया ।  
+> हरिः । वाजम् । अचिक्रदत् ॥ ४ ॥
+
+##### ॥ सायणभाष्यम् ॥ (Sāyaṇa-bhāṣya)
+
+> हिन्वानः ग्रावभि: प्रेर्यमाणोऽभिषूयमाणः इंदुः सोमः अव्यया अविमयान्यवीनां स्वभूतानि वाराणि वालानि । पवित्राणीत्यर्थः। तानि तिरः तिरस्कृत्य व्यवधाय अर्षति गच्छति । प्रभूतं निर्गच्छतीत्यर्थः। सोऽयं हरिः हरितवर्णः सोमः वाजम् अन्नम् अचिक्रदत् शब्दयति । त्वया सह इंद्रमहमाह्वयामीत्यर्थः॥
+
+##### Gist of the bhāṣya
+
+Indu, that is, Soma, impelled and pressed by the stones, passes over, setting aside, the वाराणि (*vārāṇi*), the hairs, of sheep, made of wool, that is, the filters; the meaning is that he issues forth abundantly. That same green-coloured Soma roars, that is, sounds forth, food; the meaning is that he says, "With you I call Indra."
+
+##### प्रतिपदार्थ (Pratipadārtha)
+
+- हिन्वानः (*hinvānaḥ*)—pressed
+- इंदुः (*iṃduḥ*)—Soma
+- अव्यया (*avyayā*)—of wool
+- वाराणि (*vārāṇi*)—vessels made of fibres
+- तिरः (*tiraḥ*)—crossing over
+- अर्षति (*arṣati*)—flows forward
+- हरिः (*hariḥ*)—Soma who is green-coloured
+- वाजः (*vājaḥ*)—food
+- अचिक्रदत् (*acikradat*)—makes manifest and provides
+
+##### भावार्थ (Bhāvārtha)
+
+Soma-deva, pressed, crosses over the vessels made of woollen fibres and flows forward. Soma, who is green-coloured, makes manifest and provides food.
+
+##### English translation
+Indu effused (by the stones) passes through the woollen filter : green-tinted he roars forth food.
+
+#### Ṛk 5
+
+##### ॥ संहितापाठः ॥ (Saṃhitā-pāṭha)
+
+> इंदो॒ व्यव्य॑मर्षसि॒ वि श्रवां॑सि॒ वि सौभ॑गा ।  
+> वि वाजा॑न्सोम॒ गोम॑तः ॥ ५ ॥
+
+##### ॥ पदपाठः ॥ (Pada-pāṭha)
+
+> इंदो इति । वि । अव्यम् । अर्षसि । वि । श्रवांसि । वि । सौभगा ।  
+> वि । वाजान् । सोम । गोऽमतः ॥ ५ ॥
+
 ---
 
-**Progress note:** Done through printed p. 338. Soma Pavamana verses Rk 24-30 (sukta 66), pp. 333-338
+**Progress note:** Done through printed p. 344. Sukta 67 intro, Rk 1-5, pp. 339-344
